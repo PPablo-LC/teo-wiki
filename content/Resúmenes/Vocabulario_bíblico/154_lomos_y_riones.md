@@ -1,51 +1,31 @@
 ---
 type: ResumenFuente
 title: "Lomos y riñones"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 154
-timestamp: 2026-08-24
-description: "Resumen de 'Lomos y riñones' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "Los lomos y los riñones en la Escritura: los lomos ceñidos para el servicio de Dios, y los riñones como sede de las reacciones profundas que sólo Dios sondea."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Lomos y riñones
 
+> 📄 **Fuente original:** `lomos.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[lampara]] — los lomos ceñidos y la lámpara encendida
+- [[corazon]] — los riñones asociados al corazón
+- [[fuego]] — el fuego que examina los riñones y el corazón
+- [[labios]] — los riñones que profieren lo que dicen los labios
+- [[espiritu]] — el fuego del Espíritu Santo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `lomos.md`
+### 1. Los lomos
 
+En la región lumbar se concentra el vigor del hombre. Así como para el viaje o para la lucha hay que atarse a la cintura túnica, vestidos, saco, taparrabo *1Re 20,31* *Mt 3,4* o armas *2Sa 20,8*, del mismo modo para el servicio de Dios precisa tener los lomos ceñidos. Entonces estarán los hebreos prontos para el éxodo *Ex 12,11*; Jeremías debe estar dispuesto a la lucha *Jer 1,17*; la mujer fuerte está siempre dispuesta al trabajo *Prov 31,17*; el Mesías tendrá por fuerza la justicia y la fidelidad *Is 11,5*; el discípulo de Jesús debe tener ceñidos los lomos y encendida la [[lampara|lámpara]] *Lc 12,35*; al cristiano se le exhorta a luchar teniendo «por cinturón la verdad, y la justicia por coraza» *Ef 6,14*. Y san Pedro concluye: «Ceñíos los lomos de vuestro espíritu, sed vigilantes» *1Pe 1,13*.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### 2. Los riñones
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Lomos y riñones |
-| 3 | H3 | 1. En la región lumbar se concentra el vigor del |
-| 15 | H3 | 2. En los riñones, órganos internos, se dejan sentir las |
-
-
-## Secciones incluidas
-
-## 1. En la región lumbar se concentra el vigor del
-
-[Contenido de esta sección...]
-
-## 2. En los riñones, órganos internos, se dejan sentir las
-
-[Contenido de esta sección...]
+En los riñones, órganos internos, se dejan sentir las reacciones profundas: allí se forman los designios ocultos, se encienden las pasiones violentas. Pueden saltar de gozo en el maestro que oye hablar bien al discípulo *Prov 23,16*, estremecerse ante la apostasía *1Mac 2,24*, quedar traspasados por la prueba *Job 16,13*. El que los formó *Sal 139,13* puede instruir a través de ellos la conciencia del hombre en oración *Sal 16,7*. Los riñones, asociados ordinariamente al [[corazon|corazón]], designan una región que se sustrae a las miradas del hombre y se distingue de lo perceptible. Sólo Dios «sondea los riñones y los corazones» *Sal 7,10* *Jer 11,20*, como también Jesús que sabe lo que hay en el hombre *Jn 2,25*: sólo Dios penetra en el fondo del ser. Jeremías, el profeta de la vida interior, así como el salmista no temen ser sometidos a examen por la mirada divina: «Escudríñame, Yahveh, pruébame, pasa por el [[fuego|fuego]] mis riñones y mi corazón» *Sal 26,2* *Jer 17,10* *20,12* porque saben que, a diferencia de sus enemigos, sus riñones profieren lo que dicen sus [[labios|labios]] *Jer 12,2s*. Dios oye las palabras, pero es también «testigo de los riñones y vigilante verídico del corazón» *Sab 1,6*. Así también la liturgia nos hace orar con este mismo espíritu: «Abrasad, Señor, nuestros riñones y nuestros corazones en el fuego del [[espiritu|Espíritu]] Santo.»

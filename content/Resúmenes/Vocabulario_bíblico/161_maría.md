@@ -1,146 +1,106 @@
 ---
 type: ResumenFuente
 title: "María"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 161
-timestamp: 2026-08-24
-description: "Resumen de 'María' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "María en la Escritura: la hija de Sión, la Virgen, la Madre, la primera creyente y María y la Iglesia (la Virgen, la Madre, el misterio de María)."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # María
 
+> 📄 **Fuente original:** `maria.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[jesus]] — el misterio de Jesús inseparable de la mujer
+- [[mujer]] — la mujer de la que Jesús había querido nacer
+- [[nombre]] — el nombre de María, corriente en la época de Jesús
+- [[pueblo]] — María, personificación del pueblo de Dios
+- [[promesas]] — las promesas de la venida del Señor
+- [[casa]] — la casa de Jacob
+- [[virginidad]] — la virginidad de María
+- [[conocer]] — «no conozco varón»
+- [[puro]] — la pureza legal de los esenios
+- [[amor]] — el amor exclusivo al Señor
+- [[hermano]] — los parientes próximos llamados hermanos
+- [[vocacion]] — la vocación de María
+- [[servir]] — el servicio como libertad
+- [[madre]] — la educación de Jesús por su madre
+- [[mision]] — la misión de María
+- [[crecimiento]] — la sumisión durante el crecimiento de Jesús
+- [[fe]] — la fe de María, primera creyente
+- [[rey]] — Jesús, hijo de David, rey de Israel
+- [[misterio]] — el misterio que rebasa la inteligencia
+- [[palabra_de_dios]] — la palabra de Dios acogida por María
+- [[pobres]] — la pobreza de María
+- [[bienaventuranza]] — el misterio de las bienaventuranzas
+- [[esposo]] — la Iglesia, esposa de Cristo
+- [[jerusalen]] — la nueva Jerusalén
+- [[adan]] — Jesús, el nuevo Adán
+- [[mediador]] — el mediador único
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `maria.md`
+El papel importante que desempeña la madre de Jesús en la tradición cristiana quedó esbozado desde la revelación escrituraria. Si la primera generación cristiana centró su interés en el ministerio de Jesús, desde su bautismo hasta Pascua *Act 1,22* *10,37ss* *13,24ss*, fue porque debía responder a lo más urgente de la misión apostólica. Era normal que los relatos sobre la infancia de Jesús aparecieran sólo tardíamente; Marcos los ignora, contentándose con mencionar sólo dos veces a la madre de Jesús *Mc 3,31-35* *6,3*. Mateo los conoce, pero los centra en José, el descendiente de David que recibe los mensajes celestiales *Mt 1,20s* *2,13.20.22* y da el nombre de Jesús al hijo de la Virgen *1,18-25*. Con Lucas sale María a plena luz; ella tiene en los orígenes del Evangelio el primer papel con una verdadera personalidad; en los orígenes de la Iglesia ella toma parte con los discípulos en la oración del Cenáculo *Act 1,14*. Finalmente, Juan encuadra la vida de Jesús entre dos escenas mariales *Jn 2,1-12* *19,25ss*: en Caná, como en el Calvario, define Jesús con autoridad la función de María, primero como creyente, luego como madre de sus discípulos. Esta progresiva toma de conciencia de la misión de María no debe explicarse sencillamente por motivos psicológicos: refleja una inteligencia cada vez más profunda del misterio mismo de [[jesus|Jesús]], inseparable de la «[[mujer|mujer]]» de la que había querido nacer *Gal 4,4*. Se pueden reunir en algunos títulos los datos dispersos en el NT.
 
+## I. La hija de Sión
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**1.** María aparece en primer lugar *semejante a sus contemporáneas*. Como lo atestiguan las inscripciones de la época y las numerosas Marías del NT, su [[nombre|nombre]], llevado en otro tiempo por la hermana de Moisés *Ex 15,20*, era corriente en la época de Jesús. En el arameo de entonces significa probablemente «princesa», «señora». Lucas, apoyándose en tradiciones de Palestina, presenta a María como una piadosa mujer judía, fielmente sumisa a la ley *Lc 2,22.27.39*, expresando en los mismos términos del AT las respuestas que da el mensaje divino *1,38*; su Magnificat en particular es una compilación de salmos y se inspira principalmente en el cántico de Ana *1,46-55* *1Sa 2,1-10*.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | María |
-| 5 | H2 | I. LA HIJA DE SIÓN |
-| 7 | H3 | 1. María aparece en primer lugar semejante a sus contemporáneas. |
-| 19 | H3 | 2. Pero, todavía |
-| 35 | H2 | II. LA VIRGEN |
-| 37 | H3 | 1. El hecho de la virginidad de María en la concepción de Jesús se afi |
-| 45 | H3 | 2.  ¿Quiso María esta virginidad? Su matrimonio con José |
-| 65 | H3 | 3. Entonces ¿qué sentido da María a esta virginidad? Entre los esenios |
-| 78 | H3 | 4. La mención de los «hermanos de Jesús» |
-| 88 | H2 | III. LA MADRE |
-| 91 | H3 | 1. Esta maternidad es voluntaria. |
-| 101 | H3 | 2. Cuando María da a luz a Jesús, su quehacer, |
-| 109 | H3 | 3. María no es menos madre cuando llega Jesús a la edad adulta. |
-| 121 | H3 | 4. Este desasimiento se consuma en la cruz. Simeón, al descubrir a Mar |
-| 134 | H2 | IV. LA PRIMERA CREYENTE |
-| 137 | H3 | La revelación hecha a María. |
-| 141 | H3 | La fidelidad de María. |
-| 145 | H3 | El Magníficat. |
-| 148 | H2 | V. MARÍA Y LA IGLESIA |
-| 150 | H3 | La virgen. |
-| 153 | H3 | La Madre. |
-| 156 | H3 | El misterio de María. |
+**2.** Pero, todavía según Lucas, María no es una mujer judía cualquiera. En las escenas de la anunciación y de la visitación *Lc 1,26-56* presenta a María como *la hija de Sión*, en el sentido que tenía esta expresión en el AT: la personificación del [[pueblo|pueblo]] de Dios. El «regocíjate» del ángel *1,28* no es una salutación corriente, sino evoca las [[promesas|promesas]] de la venida del Señor a su ciudad santa *Sof 3,14-17* *Zac 9,9*. El título «llena de gracia», o colmada de favor, objeto por excelencia del amor divino, puede evocar a la esposa del Cantar, una de las figuras más tradicionales del pueblo elegido. Estos indicios literarios corresponden a la función que ejerce María en estas escenas: sólo ella recibe, en nombre de la [[casa|casa]] de Jacob, el anuncio de la salvación; ella lo acepta y hace así posible su cumplimiento. Finalmente, en su Magnificat rebasa pronto su gratitud personal *Lc 1,46-49* para prestar su voz a la raza de Abraham con reconocimiento y júbilo *1,50-55*.
 
+## II. La Virgen
 
-## Secciones incluidas
+**1.** El hecho de la virginidad de María en la concepción de Jesús se afirma en dos tradiciones literarias independientes *Lc 1,26-38* *Mt 1,18-23*. Está confirmado por algunos testigos antiguos de *Jn 1,13*: «Él, al que ni sangre ni carne, sino Dios engendró.» El hecho está, pues, testimoniado sólidamente; su sentido está expresado claramente por Mateo que muestra en él el cumplimiento del oráculo *Is 7,14*; Lucas puede referirse también a la misma profecía *Lc 1,31s*.
 
-# I. LA HIJA DE SIÓN
+**2.** ¿Quiso María esta virginidad? Su matrimonio con José exige a primera vista una respuesta negativa. Por otra parte es sabido que Israel no daba gran valor religioso a la [[virginidad|virginidad]] *Jue 11,37s*. Lucas, sin embargo, ofrece otro dato. Al ángel que le anuncia su maternidad objeta María: «¿Cómo podrá ser esto, pues no [[conocer|conozco]] varón?» *Lc 1,34*. La frase es elíptica y ha recibido no pocas interpretaciones. La más tradicional, sostenida hoy por críticos exigentes, es ésta: María es la esposa legal de José. Si en este matrimonio quiere tener relaciones conyugales normales (que la lengua bíblica designa por la palabra «conocer», p. e., *Gen 4,1*), el anuncio de su maternidad no puede crearle ningún problema. José pertenece a la raza de David; su hijo puede ser el Mesías anunciado por el ángel. Entonces la pregunta de María carece de sentido. Pero su sustrato semítico permite otra traducción: «pues no quiero conocer varón». Indica en la Virgen un propósito de virginidad. Esta decisión es sorprendente por parte de una joven esposa. Pero en la Palestina de entonces no era desusada la virginidad: los datos de los autores antiguos sobre el celibato de los esenios han hallado cierto apoyo en los descubrimientos de Qumrán. Por otra parte, la joven que quería guardar virginidad, difícilmente podía rechazar un matrimonio impuesto por su padre. Todo bien mirado, el texto es favorable a la voluntad de virginidad de María.
 
-[Contenido de esta sección...]
+**3.** Entonces ¿qué sentido da María a esta virginidad? Entre los esenios de entonces el celibato se inspira ante todo en una preocupación de [[puro|pureza]] legal; significa la abstención de una contaminación física. María no expresa sus motivos, pero todo lo que Lucas deja entrever de su alma supone motivos más elevados y más positivos de su virginidad. Por medio del ángel la trata Dios de «muy amada». María quiere ser su «sierva», con la nobleza que da a esta palabra la lengua bíblica *Lc 1,38*. Su virginidad parece así una consagración, un don de [[amor|amor]] exclusivo al Señor. Por lo demás, se ve ya esbozada en el AT. En efecto, si bien éste ignora la virginidad religiosa, no cesa de exigir el amor exclusivo de los fieles al Señor *Dt 6,5*; María, reservándose enteramente a él, responde al llamamiento de los profetas (Oseas, Jeremías, Ezequiel...), de los salmos *Sal 16* *23* *42* *63* *84* y del Cantar de los cantares.
 
-## 1. María aparece en primer lugar semejante a sus contemporáneas.
+**4.** La mención de los «hermanos de Jesús» *Mc 3,31 p* *6,3 p* *Jn 7,3* *Act 1,14* *1Cor 9,5* *Gal 1,19* ha inducido a diversos críticos a suponer que María no había guardado la virginidad después del nacimiento de Jesús. Esta opinión se opone a la voluntad de virginidad de María y está en contradicción con la tradición que no conoció nunca otro hijo de María. En cuanto a la expresión que crea la dificultad, es sabido que en el mundo semítico se da el nombre de [[hermano|hermano]] a los parientes próximos y a los aliados.
 
-[Contenido de esta sección...]
+## III. La Madre
 
-## 2. Pero, todavía
+A todos los niveles de la tradición evangélica es María ante todo «la madre de Jesús». Diversos textos la designan sencillamente con este título *Mc 3,31s p* *Lc 2,48* *Jn 2,1-12* *19,25s*. Con él se define toda su función en la obra de la salvación.
 
-[Contenido de esta sección...]
+**1.** Esta maternidad es voluntaria. El relato de la anunciación lo pone claramente de relieve *Lc 1,26-38*. Ante la [[vocacion|vocación]] inesperada que anuncia el ángel a María, la presenta Lucas preocupada por ver claro: ¿cómo conciliar este nuevo llamamiento de Dios con el llamamiento a la virginidad que ha oído ya anteriormente? El ángel le revela que una concepción virginal permitirá responder a la vez a los dos llamamientos. María, completamente iluminada, acepta; es la sierva del Señor, como fueron sus siervos Abraham, Moisés y los profetas; su [[servir|servicio]], como el de ellos, y todavía más, es libertad.
 
-# II. LA VIRGEN
+**2.** Cuando María da a luz a Jesús, su quehacer, como el de todas las [[madre|madres]], no hace sino comenzar. Tiene que *educar a Jesús*. Con José, que comparte sus responsabilidades, lleva al niño al templo para presentarlo al Señor, para expresar la oblación de que todavía es incapaz su conciencia humana. Recibe de Simeón, en su lugar, el anuncio de su [[mision|misión]] *Lc 2,29-32.34s*. Finalmente, acoge la «sumisión» de que daba prueba para con sus padres durante el tiempo de su [[crecimiento|crecimiento]] *2,51s*.
 
-[Contenido de esta sección...]
+**3.** María no es menos madre *cuando llega Jesús a la edad adulta*. Se halla junto a su hijo en los momentos de separaciones dolorosas *Mc 3,21.31* *Jn 19,25ss*. Pero su quehacer adopta entonces nueva forma. Lucas y Juan lo dan a entender en las dos etapas mayores del desarrollo de Jesús. A los doce años, israelita con pleno derecho, proclama Jesús a sus padres de la tierra que debe ante todo entregarse al culto de su Padre celestial *Lc 2,49*. Cuando inicia su misión en Caná, sus palabras a María: «Mujer, déjame» *Jn 2,4* no son tanto las de un hijo cuanto las del responsable del reino; así reivindica su independencia de enviado de Dios. En adelante la madre desaparece tras la creyente *Mc 3,32-35 p* *Lc 11,27s*.
 
-## 1. El hecho de la virginidad de María en la concepción de Jesús se afirma en
+**4.** Este desasimiento se consuma *en la cruz*. Simeón, al descubrir a María la suerte de Jesús, le había anunciado la espada que había de atravesar su alma y unirla al sacrificio redentor *Lc 2,34s*. Éste consuma su maternidad, como lo muestra Juan en una escena en que cada rasgo es significativo *Jn 19,25ss*. María está en pie junto a la cruz. Jesús le dirige todavía el solemne «mujer» que indica su autoridad de señor del reino. Mostrando a su madre el discípulo presente: «He aquí a tu hijo», la llama Jesús a una nueva maternidad, que en adelante será su papel en el pueblo de Dios. Quizá quiso Lucas insinuar esta misión de María en la Iglesia mostrándola en oración con los doce en espera del Espíritu *Act 1,14*; por lo menos esta maternidad universal responde a su idea que vio en María la personificación del pueblo de Dios, la hija de Sión *Lc 1,26-55*.
 
-[Contenido de esta sección...]
+## IV. La primera creyente
 
-## 2.  ¿Quiso María esta virginidad? Su matrimonio con José
+Los evangelistas, lejos de hacer consistir la grandeza de María en luces excepcionales, la muestran en su [[fe|fe]], sometida a las mismas oscuridades, al mismo proceso que el más humilde de los fieles.
 
-[Contenido de esta sección...]
+### La revelación hecha a María
 
-## 3. Entonces ¿qué sentido da María a esta virginidad? Entre los esenios de entonces el
+Desde la anunciación se ofrece Jesús a María como objeto de su fe, fe que es iluminada por mensajes enraizados en los oráculos del AT. El niño se llamará [[jesus|Jesús]], será hijo del Altísimo, hijo de David, el [[rey|rey]] de Israel, el Mesías anunciado. En la presentación en el templo oye María aplicar a su Hijo los oráculos del siervo de Dios: luz de las naciones y signo de contradicción. A estas pocas palabras explícitas hay que añadir, aunque los textos no lo dicen, que María experimenta en sí misma la vida de un niño que es el Mesías, presencia que se dilata en el silencio y en la pobreza. Y cuando Jesús habla a su madre, le habla con palabras que tienen el tono abrupto de los oráculos proféticos; María debe reconocer en ellas la independencia y la autoridad de su hijo, la superioridad de la fe sobre la maternidad carnal.
 
-[Contenido de esta sección...]
+### La fidelidad de María
 
-## 4. La mención de los «hermanos de Jesús»
+Lucas puso empeño en anotar las reacciones de María ante las revelaciones divinas: su turbación *Lc 1,29*, su dificultad *1,34*, su asombro ante el oráculo de Simeón *2,33*, su incomprensión de la palabra de Jesús en el templo *2,50*. En presencia de un [[misterio|misterio]] que rebasa todavía su inteligencia, reflexiona sobre el mensaje *1,29* *2,33*, piensa sin cesar en el acontecimiento misterioso, conservando sus recuerdos, meditándolos en su corazón *2,19.51*.
 
-[Contenido de esta sección...]
+Atenta a la [[palabra_de_dios|palabra]] de Dios, la acoge, aun cuando trastorne sus proyectos y haya de sumir a José en la ansiedad *Mt 1,19s*. Sus respuestas a los llamamientos divinos —visitación, presentación de Jesús en el templo— son otros tantos actos por los que Jesús obra a través de su madre: santifica al Precursor, se ofrece a su Padre. María, creyente y fiel, lo es en silencio cuando su Hijo entra en la vida pública; y así permanece hasta la cruz.
 
-# III. LA MADRE
+### El Magnificat
 
-[Contenido de esta sección...]
+En el cántico de María transmite Lucas una tradición palestinense que conservó no tanto las palabras de María cuanto el sentido de su oración, modelo de la del pueblo de Dios. Según la forma clásica de un salmo de acción de gracias y sirviéndose de los temas tradicionales del salterio, celebra María un hecho nuevo: el reino está presente. Aquí se muestra María totalmente al servicio del pueblo de Dios. En ella y por ella se ha anunciado la salvación, se cumple la promesa; en su propia [[pobres|pobreza]] se realiza el misterio de las [[bienaventuranza|bienaventuranzas]]. La fe de María es la misma del pueblo de Dios: una fe humilde que se ahonda sin cesar a través de las oscuridades y de las pruebas, por la meditación de la salvación, por el servicio generoso que ilumina poco a poco la mirada del fiel *Jn 3,21* *7,17* *8,31s*. En razón de esta fe, atenta a guardar la palabra de Dios, Jesús mismo proclamó bienaventurada a la que le había llevado en sus entrañas *Lc 11,27s*.
 
-## 1. Esta maternidad es voluntaria.
+## V. María y la Iglesia
 
-[Contenido de esta sección...]
+### La Virgen
 
-## 2. Cuando María da a luz a Jesús, su quehacer,
+María, creyente tipo, llamada a la salvación en la fe por la gracia de Dios, rescatada por el sacrificio de su Hijo como todos los miembros de nuestra raza, ocupa, sin embargo, un puesto aparte en la Iglesia. En ella vemos el misterio de la Iglesia vivido en su plenitud por un alma que acoge la palabra divina con toda su fe. La Iglesia es la [[esposo|esposa]] de Cristo *Ef 5,32*, una esposa virgen *Ap 21,2*, a la que Cristo mismo santificó purificándola *Ef 5,25ss*. Toda alma cristiana, participando en esta vocación, «se desposa con Cristo como una virgen pura» *2Cor 11,2*. Ahora bien, la fidelidad de la Iglesia a este llamamiento divino se transparenta primeramente en María, y esto en la forma más perfecta. Es todo el sentido de la [[virginidad|virginidad]], a la que Dios la ha invitado y que su maternidad no ha disminuido, sino consagrado. En ella se revela así al nivel de la historia la existencia de esta Iglesia Virgen, que con su actitud adopta la posición opuesta a la de Eva *2Cor 11,3*.
 
-[Contenido de esta sección...]
+### La Madre
 
-## 3. María no es menos madre cuando llega Jesús a la edad adulta.
+Además, respecto a Jesús se halla María en una situación especial que no pertenece a ningún otro miembro de la Iglesia. Es la [[madre|madre]]; es el punto de la humanidad en que se realiza el parto del Hijo de Dios. Esta función es la que permite asimilarla a la Hija de Sión *Sof 3,14* *Lc 1,28*, a la nueva [[jerusalen|Jerusalén]], en su función materna. Si la nueva humanidad es comparable a la [[mujer|mujer]], cuyo primogénito es Cristo cabeza *Ap 12,5*, ¿se podrá olvidar que tal misterio se cumplió concretamente en María, que esta mujer y esta madre no es un puro símbolo, sino que gracias a María ha tenido una existencia personal? Todavía en este punto, el nexo de María y de la Iglesia se afirma con tal fuerza que, tras la mujer arrebatada por Dios a los ataques de la serpiente *Ap 12,13-16*, contrapartida de Eva engañada por la misma serpiente *2Cor 11,3* *Gen 3,13*, se perfila María al mismo tiempo que la Iglesia, puesto que tal fue su misión en el designio de la salvación. Por eso la tradición ha visto con toda razón en María y en la Iglesia, conjuntamente, a la «nueva Eva», así como Jesús es el «nuevo [[adan|Adán]]».
 
-[Contenido de esta sección...]
+### El misterio de María
 
-## 4. Este desasimiento se consuma en la cruz. Simeón, al descubrir a María la
-
-[Contenido de esta sección...]
-
-# IV. LA PRIMERA CREYENTE
-
-[Contenido de esta sección...]
-
-## La revelación hecha a María.
-
-[Contenido de esta sección...]
-
-## La fidelidad de María.
-
-[Contenido de esta sección...]
-
-## El Magníficat.
-
-[Contenido de esta sección...]
-
-# V. MARÍA Y LA IGLESIA
-
-[Contenido de esta sección...]
-
-## La virgen.
-
-[Contenido de esta sección...]
-
-## La Madre.
-
-[Contenido de esta sección...]
-
-## El misterio de María.
-
-[Contenido de esta sección...]
+Por esta conexión con el misterio de la Iglesia es como mejor se ilumina el misterio de María, a la luz de la Escritura. El primero revela a las claras lo que en el segundo se vivió en forma oculta. Por los dos lados hay un misterio de virginidad, misterio nupcial en que Dios es el esposo; por los dos lados un misterio de maternidad y de filiación en que está en acción el Espíritu Santo *Lc 1,35* *Mt 1,20* *Rom 8,15*, primero frente a Cristo *Lc 1,31* *Ap 12,5*, luego frente a miembros de su cuerpo *Jn 19,26s* *Ap 12,17*. El misterio de la virginidad implica una pureza total, fruto de la gracia de Cristo que afecta al ser en su raíz, haciéndolo «santo e inmaculado» *Ef 5,27*: aquí es donde se manifiesta el sentido de la concepción inmaculada de María. El misterio de la maternidad implica una unión total con el misterio de Jesús, en su vida terrena hasta la prueba y la cruz *Lc 2,35* *Jn 19,25s* *Ap 12,13*, en su gloria hasta la participación en su resurrección *Ap 21*: tal es el sentido de la asunción de María. Inmaculada concepción y asunción: estos dos términos de la vida de María, de los que la Escritura no habla explícitamente, se transparentan, sin embargo, en su evocación del misterio de la Iglesia, hasta tal punto que la fe de la Iglesia ha podido descubrirlos. No ya que se trate de elevar a María hasta el nivel de Jesús, como mediadora junto al mediador... La que fue «colmada de gracia» por parte de Dios *Lc 1,28* se mantiene en el plano de los miembros de la Iglesia, «colmados de gracia en su amado» *Ef 1,6*. Pero por medio de ella fue como el Hijo de Dios, [[mediador|mediador]] único, se hizo hermano de todos los hombres y estableció su enlace orgánico con ellos, así como tampoco lo alcanzan sin pasar por la Iglesia, que es su cuerpo *Col 1,18*. La actitud de los cristianos frente a María está determinada por este hecho fundamental. Por eso esta actitud está en relación tan estrecha con su actitud frente a la Iglesia, su Madre *Sal 87,5* *Jn 19,27*.
