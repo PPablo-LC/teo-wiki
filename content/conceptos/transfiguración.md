@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Transfiguración
 tags: ["cristología"]
 
-timestamp: 2026-06-21
+timestamp: 2026-09-15
 description: "La Transfiguración es la manifestación momentánea de la gloria divina de Jesús ante tres discípulos (Pedro, Santiago y Juan) en el monte Tabor."
 ---
 # Transfiguración
 
 > Área: Cristología
-> Última actualización: 2026-06-21
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -70,6 +70,10 @@ Benedicto XVI dedica el capítulo 5 de *Jesús de Nazaret I* a la Transfiguraci�
 ### Según el Catecismo (CEC)
 
 En la Transfiguración, «la gloria divina se manifiesta en el resplandor del rostro de Cristo y en la nube que los cubre» (§554). «Los tres evangelistas sinópticos relacionan la Transfiguración con la confesión de Pedro, que es anticipación de la confesión de fe de los Apóstoles» (§554). El mandato «Este es mi Hijo amado, escuchadle» es la conclusión de la teofanía, proclamando a Jesús como autoridad suprema (§555).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La Transfiguración es el «sacramento» de nuestra segunda regeneración (la del cuerpo en la resurrección de los muertos), como el bautismo lo es de la primera. Sigue a la primera predicción de la pasión para mostrar a los Apóstoles que la pasión lleva a la gloria. La luz que la ilumina no refleja una luz externa sino que brota de dentro; el brillo de los vestidos representa la *claritas* de los santos, «que brillarán como el sol en el Reino de su Padre» (Mt 13,43). Moisés y Elías a los lados muestran que Jesús no es Elías ni un profeta, sino el Cristo; el Padre en la voz, el Hijo en la gloria, el Espíritu en la nube luminosa: la Trinidad de nuevo revelada.
 
 ## Distinciones importantes
 

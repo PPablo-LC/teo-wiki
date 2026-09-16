@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Docetismo
 tags: ["cristología", "historia_de_la_doctrina"]
 
-timestamp: 2026-06-22
+timestamp: 2026-09-15
 description: "El docetismo (del griego δοκέω, «parecer») es una herejía de los primeros siglos del cristianismo que sostenía que Jesucristo tenía solo una apariencia de hombre, pero no una naturaleza humana real."
 ---
 # Docetismo
 
 > Área: Cristología / Historia de la doctrina
-> Última actualización: 2026-06-22
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -28,6 +28,10 @@ JPII menciona el docetismo en la catequesis 39 como una tendencia antitética a 
 ## Relaciones doctrinales
 
 [[verdadera_humanidad_de_cristo]], [[cristo_plenamente_hombre]], [[unión_hipostática]], [[gnosticismo]], [[encarnación]]
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+El docetismo (del griego *dokein*, parecer) es uno de los dos errores básicos sobre Cristo según Selman: no fue realmente hombre, sino que su aspecto humano era apariencia. Tomás lo combate defendiendo la integridad de la naturaleza humana de Cristo: asumió las debilidades útiles para nuestra salvación (dolor, cansancio, hambre) — «la Encarnación no habría sido verdaderamente misericordia si no hubiera entrado en nuestra miseria».
 
 ## Ver también
 

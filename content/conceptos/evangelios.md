@@ -9,7 +9,7 @@ description: "Los cuatro Evangelios (Mateo, Marcos, Lucas y Juan) son los escrit
 # Evangelios
 
 > Área: Sagrada Escritura
-> Última actualización: 2026-05-26
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -46,6 +46,10 @@ Loring ofrece una extensa apologética de los Evangelios. Los cuatro Evangelios 
 
 El Dr. Grant Petrie (Augustine Institute) presenta la evidencia interna y externa de la autoría apostólica de los Evangelios. La teoría moderna del anonimato evangélico (cuatro puntos: publicación anónima, circulación sin títulos por un siglo, adición de títulos en el s. II, nexo con el juego del teléfono de Ehrman) carece de base manuscrita: no existe ninguna copia anónima de ninguno de los cuatro Evangelios, y todos los manuscritos más antiguos llevan título. La evidencia interna de cada Evangelio confirma su autoría: Mateo (publicano, cf. Mc 9,9; 10,2-4), Marcos (scriba de Pedro, residente de Jerusalén), Lucas (médico, gentil, compañero de Pablo, cf. Col 4,10; Hech 4,13) y Juan (testimonio final, cf. Jn 21,20-24). Los Padres de la Iglesia (Papías, Ireneo, Clemente) son unánimes en confirmar la autoría apostólica, y hasta el crítico pagano Celso admitía que los Evangelios fueron escritos por los discípulos. Los Evangelios encajan en el género de las biografías antiguas (no en el folclor), con paralelos estructurales con Josefo, Plutarco, Suetonio y Luciano.
 
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC 08 (cap. 4) desarrolla una hermenéutica completa de los Evangelios. Lo que no son: «rapporti stenografici» ni «resoconti o protocolli storici» (Schnackenburg). Lo que son: según Dei Verbum 19, los evangelistas, con la inteligencia más completa iluminada por el Espíritu, escogen, sintetizan, explican «en relación a la situación de las iglesias», conservando «el carácter de anuncio», refiriendo sobre Gesù «con sinceridad y verdad». Su género: memoria y anuncio — «el recuerdo de un hecho excepcional transmitido por quien lo considera vital comunicar» (la analogía del coche robado y la llamada del amigo: dos formas de noticia razonable con métodos distintos). Regla hermenéutica: hacerse provocar por la totalidad del hecho — «se fin dall'inizio vengono operati dei tagli nel Vangelo, il fenomeno non resta integro» (von Balthasar: el «Jesús histórico» recortado es una invención profesoral); de Lubac: el objeto de la Revelación no es una lista de verdades sino «l'abbraccio di una Persona vivente»; «È impossibile dissociare Lui dal suo Vangelo» ([[memoria]], [[hecho_de_cristo]], [[certeza]]).
 
 ## Distinciones importantes
 

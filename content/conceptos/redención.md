@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Redención
 tags: ["dogmática", "soteriología"]
 
-timestamp: 2026-09-02
+timestamp: 2026-09-15
 description: "La Redención es la obra por la cual Jesucristo, el Hijo de Dios hecho hombre, nos libera del pecado y de la muerte mediante su sacrificio en la cruz, reconcilia al hombre con Dios."
 ---
 # Redención
 
 > Área: Dogmática / Soteriología
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -80,6 +80,10 @@ Para Salvarte presenta la Redención como el rescate del género humano por la s
 ### Según UDE (1994)
 
 Juan Pablo II presenta la obra de la Redención como elevación de la creación a un nuevo nivel. Penetrada por la santificación redentora, incluso la divinización. La fuerza destructiva del pecado es vencida. «O felix culpa quae talem ac tantum meruit habere Redemptorem.» La vida indestructible revelada en la Resurrección «devora» la muerte. «¿Dónde está, oh muerte, tu victoria?» (1 Cor 15,55) (UDE, Cap. III).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+El valor de la redención deriva de la persona que la obra: si Cristo fuera solo un hombre, no habríamos sido salvados por Dios; la vida entregada tiene su valor por estar unida a la divinidad. No era absolutamente necesaria — «podía salvarnos de otra manera y borrar el pecado con una palabra» —, pero sin la cruz no tendríamos ejemplo de morir al pecado. Beneficios de la pasión: liberación del pecado (el rescate del esclavo), conocimiento del amor de Dios, provocación de nuestra respuesta de amor. Su muerte nos libera del pecado y su resurrección de la muerte: liberación plena en la resurrección de los muertos; ambas eficaces por los sacramentos. Dios nos reconcilia *en* Cristo (2 Cor 5,19): en uno que también es hombre, pues lo que había que quitar estaba en el hombre.
 
 ## Analizado para
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Verbo
 tags: ["dogmática_(trinidad", "cristología)"]
 
-timestamp: 2026-06-24
+timestamp: 2026-09-15
 description: "El Verbo (del griego *Logos*, del latín *Verbum*) es la Segunda Persona de la Santísima Trinidad, el Hijo de Dios, engendrado del Padre desde toda la eternidad, por quien todo fue hecho (Jn 1,1-3)."
 ---
 # Verbo
 
 > Área: Dogmática (Trinidad / Cristología)
-> Última actualización: 2026-06-24
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -30,6 +30,10 @@ San Dionisio de Roma (D-49) enseña que el Verbo está unido al Dios del univers
 ## Relaciones doctrinales
 
 El Verbo es el sujeto de la [[encarnación]]: el [[verbo_encarnado]] es Jesucristo. Se relaciona con la [[generación_eterna]] (el Verbo es engendrado, no creado) y con la [[sabiduría_encarnada]] (Cristo como Sabiduría de Dios). La doctrina del Verbo fundamenta la [[trinidad]] y la [[cristología]].
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+El Verbo es la concepción perfecta que Dios tiene de su propia naturaleza al pensarse: semejanza completa, y por eso Imagen del Padre. Es «el arte de Dios» (*ars Dei*, Agustín): ejemplar de todo lo creado, pues Dios hace las cosas según las ideas (*rationes*) que tiene de ellas en su Verbo — el orden del universo manifiesta la sabiduría de su Hacedor como la obra de arte refleja al artista. En el Verbo, Dios piensa todas las cosas en un solo acto de intuición: por eso hay un solo Verbo, y toda la Trinidad es hablada en Él.
 
 ## Ver también
 

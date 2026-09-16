@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Alma
 tags: ["antropología_teológica"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-15
 description: "El alma es el principio espiritual e inmortal en el hombre, creado directamente por Dios, que informa el cuerpo como su forma substancial y constituye con él una única naturaleza humana; 'anima est quodammodo omnia' según Giussani."
 ---
 # Alma
 
 > Área: Antropología teológica
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -105,6 +105,10 @@ El **V Concilio de Letrán** (1513), Bula *Apostolici regiminis* (Sesión VIII):
 **Materia y espíritu (cap. IV).** El problema del significado de la vida no se resuelve en términos materiales: el hombre, por su alma espiritual, es «toda la piedra, toda la vida, toda la conciencia», y la reducción al dato material no explica la conciencia. La inmortalidad es intuida por la conciencia como exigencia de indiscutibilidad, apoyada en el Sal 16,9-10: «por eso está alegre mi corazón… mi carne descansará segura» (SR, `11_capitolo_quarto.md`, §56-85).
 
 **La creación inmediata del alma (cap. VIII).** Frente a los «atteggiamenti irragionevoli» que reducen la pregunta de fondo, Giussani recuerda la doctrina de la creación inmediata del alma por Dios (Catecismo de san Pío X; Pío XII, *Humani generis*, 1950): el fundamento de la dignidad y de la libertad religiosa es que el hombre no se fabrica a sí mismo, sino que es sostenido por Otro (SR, `15_capitolo_ottavo.md`, §89-100).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Selman recoge la posición tomista sobre la unidad psico-física: contra Platón (y Descartes), el alma es **forma del cuerpo** — es natural que las almas humanas estén encarnadas: «si solo el alma se salva, YO no me salvo»; el alma de Pedro no es Pedro, y orar a «Pedro» supone que tendrá de nuevo su cuerpo en la resurrección. El alma separada, sola, no es persona, pues no es la naturaleza humana entera. Es una sola forma sustancial (no tres almas: condena de Tempier, 1277) y **subsistente**: existe en sí, aunque sea forma del cuerpo, porque tiene una actividad propia que no es de órgano alguno (el entender); «el cerebro es necesario para el objeto del pensar (las imágenes), no para su ejercicio». Es inmaterial (conoce las naturalezas de todos los cuerpos, luego no tiene naturaleza de cuerpo) y por eso incorruptible: la forma no puede perderse a sí misma. No es «conciencia»: el concepto moderno de alma como conciencia no es el tomista.
 
 ## Relaciones doctrinales
 

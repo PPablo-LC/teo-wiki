@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Bienaventuranza
 tags: ["dogmática_—_escatología"]
 
-timestamp: 2026-06-29
+timestamp: 2026-09-15
 description: "La bienaventuranza eterna o visión beatífica es el fin último del hombre, que consiste en la posesión perfecta de Dios mismo."
 ---
 # Bienaventuranza
 
 > Área: Dogmática — Escatología
-> Última actualización: 2026-06-04
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -86,6 +86,10 @@ El fin de la vida cristiana es la visión beatífica, que constituye la perfecci
 
 [TPCr, Parte I, Cap. 1; Parte II, Cap. 2]
 
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+El último fin del hombre es la bienaventuranza: todos desean naturalmente ser felices, y la felicidad no se desea para otra cosa. Está en una actividad (la actividad es la perfección de todo ente) y concretamente en la actividad de la facultad más alta, el intelecto: «ningún deseo eleva tanto (*tam in sublime*) como el deseo de entender la verdad»; la bienaventuranza es la **contemplación de la verdad** y, en su plenitud, la *fruitio Dei*, el goce de Dios. No es puramente intelectual: «somos más llevados a Dios por el amor que por la razón». Hay una felicidad natural y otra que excede las fuerzas de la naturaleza: para esta se requiere virtud infusa; y el deseo natural de ver a Dios no puede ser en vano: se cumple en la visión, que es la bienaventuranza eterna. La virtud no es la vida bienaventurada (contra Cicerón) sino la disposición para ella.
 
 ## Distinciones importantes
 

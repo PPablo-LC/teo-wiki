@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Amistad con Dios
 tags: ["dogmática", "ascética"]
 
-timestamp: 2026-06-28
+timestamp: 2026-09-15
 description: "Relación sobrenatural entre Dios y el hombre fundada en la gracia santificante, por la cual el alma es elevada al orden divino y establecida en una comunión de vida y amor con Dios."
 ---
 # Amistad con Dios
 
 > Área: Dogmática / Ascética
-> Última actualización: 2026-06-28
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -36,6 +36,10 @@ El pecado grave rompe la amistad con Dios; el pecado venial la enfría (PS §11)
 ### Según el Encuentro con Cristo en el Regnum Christi (RC-EcC-2022)
 
 El ensayo desarrolla la teología de «Dios, Amigo del hombre» (Parte II) desde la revelación bíblica. Dios es el Dios de los vivos, que habla y establece relación: su nombre es «Estaré contigo» (Ex 3,12), y su plenitud es «Emmanuel, Dios-con-nosotros» (Mt 1,23). El hombre es creado como interlocutor de Dios, llamado a la escucha: «Escucha Israel» (Dt 6,4). Dios es presentado como el buscador incansable del hombre —el padre del hijo pródigo, el buen pastor, la mujer de la moneda (Lc 15)— cuyo corazón está inquieto mientras no mora en cada persona (cf. Jn 14,23). Jesucristo es la Palabra última del Padre (Heb 1,1-3), el Amigo que llama a la puerta (Ap 3,20) y que sale al encuentro de cada persona en la Escritura y en los acontecimientos de la vida. Esta amistad se vive comunitariamente en el [[encuentro_con_cristo|Encuentro con Cristo]] [RC-EcC-2022, Parte II].
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La caridad es amistad con Dios: la gracia es «el amor especial por el que Dios atrae a la criatura racional, por encima de la naturaleza, a participar del bien divino». La amistad exige reciprocidad, comunicación y algo común (aquí: su bienaventuranza); es posible porque estamos hechos a su imagen y Dios nos ama en su Hijo, que tomó nuestra naturaleza. La conversación con Dios en esta vida es imperfecta; solo será perfecta en la patria. Nuestro amor nunca iguala al suyo; lo máximo es amarlo con todo lo que somos: el movimiento circular del amor — Dios ama, devolvemos el amor, y este desborda hacia los demás.
 
 ## Distinciones importantes
 

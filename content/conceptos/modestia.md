@@ -67,6 +67,11 @@ Santo Tomás sigue aquí a Cicerón, quien apartó de la modestia tanto la cleme
 
 Los movimientos externos son signos de la disposición interior (Eclo 19,27). San Ambrosio: «el movimiento del cuerpo es una voz del alma». La moderación de estos movimientos se reduce en último término a dos virtudes: la **amistad o afabilidad** (ordenarse hacia otros en los actos exteriores) y la **verdad** (mostrarse en palabras y acciones como se es interiormente).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La modestia, con el pudor, es «hermana menor de la castidad» y muy importante «al hablar, obrar y vestir» para crear el clima adecuado a la maduración de la castidad (SHVS 55-56). Los padres deben velar para que ciertas modas y comportamientos inmorales no violen la integridad del hogar, «particularmente a través de un uso desordenado de los *mass media*»; y han de enseñar a sus hijos adolescentes «el valor de la modestia cristiana, de la sobriedad en el vestir, de la necesaria independencia respecto a las modas, característica de un hombre o de una mujer con personalidad madura» (SHVS 56, 97).
+
+
 ## Relaciones doctrinales
 
 La modestia es parte de la [[templanza]] como virtud potencial. Se relaciona con la [[humildad]] (que modera el apetito de excelencia), la [[castidad]] y el [[pudor]]. Es fruto del Espíritu Santo, relacionado con el [[don_de_temor]].

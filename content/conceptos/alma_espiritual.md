@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Alma Espiritual
 tags: ["antropología"]
 
-timestamp: 2026-05-22
+timestamp: 2026-09-15
 description: "Principio espiritual e inmortal en el hombre, aquello por lo que es particularmente imagen de Dios."
 ---
 # Alma Espiritual
 
 > Área: Antropología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -28,6 +28,10 @@ El alma espiritual es el principio de vida intelectual y espiritual en el hombre
 ### Según el Compendio (CompDS)
 
 El hombre ha sido creado por Dios como unidad de alma y cuerpo: «El alma espiritual e inmortal es el principio de unidad del ser humano, es aquello por lo cual éste existe como un todo —“corpore et anima unus”— en cuanto persona» [CompDS §127]. Por su espiritualidad el hombre supera a la totalidad de las cosas y penetra en la estructura más profunda de la realidad [CompDS §128]. Reconoce tener en sí mismo la espiritualidad e inmortalidad de su alma [CompDS §128]. La unidad del alma y del cuerpo es tan profunda que el alma es la «forma» del cuerpo; espíritu y materia no son dos naturalezas unidas, sino que constituyen una única naturaleza [CompDS §129].
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+El alma humana es **forma subsistente**: forma del cuerpo y, a la vez, algo que existe en sí, pues su actividad propia (el entender) no es ejercicio de órgano corporal. Como el intelecto es potencia del alma (no un intelecto separado), «no es la mente sino un hombre quien piensa» — como no son los ojos quienes ven. Immaterial por el alcance universal de su conocer (conoce las naturalezas de todos los cuerpos: no puede tener naturaleza de cuerpo), es incorruptible: una forma no puede perderse a sí misma; las almas sensitivas de los animales, en cambio, perecen con el cuerpo. Su inmortalidad funda la identidad personal: el cuerpo resucitado es numéricamente el mismo porque hay la misma forma que persistió en su existencia.
 
 ## Distinciones importantes
 

@@ -47,6 +47,11 @@ El Papa Francisco describió la pornografía como una plaga que se extiende mund
 
 El n. 6 detalla la evolución del delito: SST 2010 introdujo los tres delitos contra menores (adquirir, retener, divulgar imágenes pornográficas de menores de 14 años). Desde el 1 de enero de 2020, la edad se elevó a 18 años. El n. 7 precisa que estos delitos son perseguibles solo desde el 21 de mayo de 2010, pero la producción de pornografía con menores entra en la tipología general del delito contra el sexto mandamiento y se persigue desde antes.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+Esta tarea educativa encuentra «una particular dificultad debido también a la difusión, a través de los medios de comunicación social, de la pornografía, inspirada en criterios comerciales que deforman la sensibilidad de los adolescentes». Se requiere un doble cuidado: «una educación preventiva y crítica de los hijos y una acción de valiente denuncia ante la autoridad»: los padres tienen «el derecho y el deber de... exigir a la autoridad leyes de prevención y represión de la explotación de la sensibilidad de los niños y de los adolescentes» (SHVS 45).
+
+
 ## Distinciones importantes
 
 - **Pornografía infantil leve vs. grave**: el simple consumo de imágenes es delito; la producción, distribución y la inducción a la prostitución son formas agravadas.

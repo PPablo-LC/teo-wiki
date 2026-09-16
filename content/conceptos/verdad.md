@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Verdad
 tags: ["filosofía", "doctrina_social", "moral"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-15
 description: "La verdad es uno de los valores fundamentales de la vida social, inherente a la dignidad de la persona humana; exigencia última del corazón y adecuación del entendimiento según Giussani."
 ---
 # Verdad
 
 > Área: Filosofía / Doctrina Social / Moral
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -146,6 +146,10 @@ Matt Nelson, en «Where Aristotle Meets Twitter», señala que las redes sociale
 - **La risa como vehículo de verdad:** George Bernard Shaw: «Si quieres decirle a alguien la verdad, mejor hazlo reír, o te matará». El humor desarma las defensas y permite decir lo que la agresividad cerraría (Angel). Chesterton: la risa «descongela el orgullo y desenrolla el secretismo».
 - **Verdad bajo la burla:** Steve Martin se burló durante décadas del relativismo (lista paródica de libros absurdos: «El relativismo es absurdo») y de la fe; sin embargo, incluso burlándose de la verdad, «Dios siempre está ahí»; sus canciones tardías celebran un universo «diseñado con propósito». La burla presupone la verdad que parodia.
 - **Sin verdad no hay chiste:** Joel Berry: en la cultura post-verdad no hay base para la comedia; cincuenta años de deconstrucción dejaron «nada que derribar». El chiste exige juicio sobre la realidad (cf. Scruton).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La verdad es la correspondencia (*adequatio*) de la mente con la cosa, y se encuentra primeramente en la mente, donde está su opuesto, la falsedad; un pensamiento es verdadero cuando hay en la realidad algo a lo que corresponde. Verdad y ser son intercambiables: las cosas solo son cognoscibles en cuanto existen, y lo primero que captamos de algo es que existe. La verdad de las cosas viene de su existencia; la de Dios no: Él es la Verdad Primera, *fons et principium totius esse et veritatis* — hay una sola Verdad por la que todas las cosas son verdaderas. Contra la doctrina de la doble verdad y contra los «tipos de verdad» modernos (lógica, científica, histórica, religiosa): la verdad es una; hay, a lo sumo, dos maneras de conocerla.
 
 ## Ver también
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virtudes cardinales
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-05-22
+timestamp: 2026-09-15
 description: "Las virtudes cardinales son las cuatro virtudes morales principales que constituyen los goznes (cardines) de la vida moral cristiana: prudencia, justicia, fortaleza y templanza."
 ---
 # Virtudes cardinales
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -48,6 +48,10 @@ La máxima de todas las virtudes es «el mandamiento del amor a Dios y al próji
 
 Ver artículo principal: [[virtudes_infusas]]
 
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Las virtudes cardinales (prudencia, justicia, fortaleza, templanza) perfeccionan la naturaleza humana sujetando los apetitos a la razón, y están conectadas entre sí: las adquiridas se unen por la prudencia (el virtuoso es quien más probablemente juzga rectamente); no puede haber virtudes morales sin prudencia ni prudencia sin ellas. Se distinguen de las infusas por origen (esfuerzo humano) y por fin (natural): no bastan para un fin sobrenatural, que requiere participación de la naturaleza divina.
 
 ## Analizado para
 

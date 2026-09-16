@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Voluntad
 tags: ["antropología"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-15
 description: "La voluntad es una facultad espiritual del alma humana, apetito racional que inclina al bien conocido; hiato con la razón y educación en la libertad según Giussani."
 ---
 # Voluntad
 
 > Área: Antropología
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -114,6 +114,10 @@ La voluntad no es solo deseo: para no reducirla a deseo es necesario asumir un [
 **La libertad como educación de la voluntad (cap. XIII).** La educación de la libertad —que capacita la voluntad para elegir el bien y asumir la responsabilidad (*respondeo*)— es condición de la interpretación del signo y de la adhesión al Misterio (SR, `20_capitolo_tredicesimo.md`, §1-21).
 
 **La voluntad y el asentimiento de fe (cap. XI).** La fe no es solo movimiento del entendimiento: la voluntad, movida por la gracia, interviene para adherir al signo y sostener la certeza en medio de la oscuridad. El hombre que quiere ver encuentra; el que no quiere ver se encierra (SR, `18_capitolo_undicesimo.md`, §131-158; `21_capitolo_quattordicesimo.md`, §59-70).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La voluntad es la causa del mal: nadie elige el mal como tal, sino un bien desordenado (el mal no tiene razón de fin); por eso el mal viene de lo indeterminado y variable, no del Creador ni de la naturaleza (si fuera necesaria, no habría virtud verdadera, que es voluntaria). En el orden de la gracia: Dios mueve la voluntad desde dentro, como Primera Causa, sin forzarla; ser causado no es contrario a la libertad (el determinismo sí): «no somos forzados sino inclinados al bien»; la voluntad conservada en su naturaleza puede siempre resistir la gracia, y aceptarla requiere un acto suyo.
 
 ## Distinciones importantes
 

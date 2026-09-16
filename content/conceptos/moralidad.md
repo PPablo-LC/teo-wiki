@@ -9,7 +9,7 @@ description: "La moralidad es la cualidad de los actos humanos que los hace buen
 # Moralidad
 
 > Área: Moral
-> Última actualización: 2026-06-19
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -32,6 +32,10 @@ CEC §1749-1761: La moralidad de los actos humanos depende de tres fuentes: el o
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.18-20:** Santo Tomás analiza la bondad y malicia de los actos humanos. El acto moral es bueno cuando es conforme a la ley moral y ordenado al bien verdadero. El acto es malo cuando se opone a la ley moral o al fin último.
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC propone una definición de fondo de la moralidad: «la moralità è il rapporto tra il gesto e la concezione del tutto in esso implicato» — la relación entre el gesto y la concepción del todo implicada en él. El hombre se mueve siempre por dimensión universal, explícita o no; por eso la capacidad moral no se identifica con un nivel de santidad sino con una apertura original del ánimo: disponibilidad y dependencia, no autosuficiencia. La religiosidad vivida — hacer todas las acciones como dependientes de Dios — «si chiama moralità» (Mt 7,21; la casa edificada sobre roca, Mt 7,24-27). La conciencia es el lugar donde se percibe la dependencia y emerge la directriz de un Otro: solo esta hipótesis funda la libertad de conciencia, «salva la libertà dall'identificarsi con una reazione endogena o indotta» ([[genialità_morale]], [[dependencia_de_dios]]).
 
 ## Distinciones importantes
 

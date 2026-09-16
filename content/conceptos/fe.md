@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-13
+timestamp: 2026-09-15
 description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado; acto razonable de adhesión a una persona según Giussani."
 ---
 # Fe
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -155,6 +155,10 @@ Fernanda Psihas confirma, desde la misión, que la fe se vive y se transmite en 
 En *Affezione e dimora*, la fe es la adhesión a una Presencia que «se presenta» en lo real: «la fe, para llegar a ser realidad, debe tener que ver con la realidad», porque «la fe tiene que ver con la realidad cuando cambia el yo en su movimiento dentro de la realidad»; «en este sentido la fe se llama memoria» (AED, 11, 19-25). Lejos de ser una evasión, «la fe hace entusiastas de la realidad» (AED, 11, 89). Su aventura es la del que «descubre una presencia por la que el corazón es herido y reclamado», y por eso todo se conmueve y se pone en acción (AED, 27, 225).
 
 La fe culmina ante la presencia de Cristo: «hay solamente o Cristo o la nada, porque solo Cristo afirma la realidad por lo que ella es» (AED, 24, 117-119). Por eso el acto de fe se ordena al sacrificio — «el sacrificio de la pretensión» y de «preferir la afirmación de una presencia a la afirmación de uno mismo» (AED, 18, 219-229) — y nace de una opción de amor: «primero que el sacrificio está el amor a una Presencia»; de ahí el «estote parati» (Mt 24,44), la vigilia de quien vive de su presencia (AED, 19, 123). La razón misma toca su vértice afirmando la fe (AED, 29, 61-63).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La fe es la primera de las teologales, pues hay que aprehender antes de amar. Su objeto: la Primera Verdad y, como camino hacia Ella, la Encarnación y los sacramentos. Es asentimiento al llegar por proposiciones (en esta vida solo conocemos complejamente lo simple), pero «el acto de fe no termina en la proposición sino en la realidad». Es conocimiento imperfecto (no ve lo que confiesa) y «enigmático» (*en ainigmati*, 1 Cor 13,12), pero de mayor certeza que la ciencia, porque se apoya en la mayor autoridad: la Palabra de Dios, «que no puede engañar ni ser engañada»; no bastan los milagros como evidencia — no todos los que los vieron creyeron: se requiere además el motivo interior que mueve la voluntad. Su perfección no está en el modo de conocer sino en la certeza y firmeza de la adhesión a la verdad no vista; es «la sustancia (argumentum) de las cosas que se esperan» (Hb 11,1): la disposición en que la vida eterna comienza en nosotros.
 
 ## Analizado para
 

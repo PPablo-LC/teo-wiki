@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Preexistencia del Verbo
 tags: ["cristología"]
 
-timestamp: 2026-06-22
+timestamp: 2026-09-15
 description: "La existencia divina y eterna del Hijo de Dios antes de su Encarnación."
 ---
 # Preexistencia del Verbo
 
 > Área: Cristología
-> Última actualización: 2026-06-22
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -51,6 +51,14 @@ Benedicto XVI desarrolla la preexistencia del Verbo en relación con la pregunta
 
 **El Verbo como Logos eterno.** Benedicto XVI subraya que el Prólogo de Juan no comienza con la Encarnación, sino con la preexistencia del Verbo: «En el principio era el Verbo, y el Verbo estaba en Dios, y el Verbo era Dios» (Jn 1,1). El Verbo no es una palabra que Dios comienza a decir en la Encarnación, sino el Hijo eterno que existe desde siempre. La Encarnación es el «hacerse carne» del Verbo que ya era.
 
+### Según Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC 11 (cap. 7, §2) sitúa la preexistencia en la cima de la declaración explícita de Jesús: la dinámica de Gv 8,31-59 —«Chi di voi può convincermi di peccato?»; «se uno osserva la mia parola non vedrà mai la morte»— culmina en «Prima che Abramo fosse, Io sono» (Gv 8,58). La relación de Jesús con Abraham no es la del descendiente venerado sino la del Ser anterior al padre del pueblo; Abraham «esultò nella speranza di vedere il mio giorno». Schnackenburg comenta: «Gesù possiede la reale preesistenza [...] che è compresa nel suo eterno essere divino»: la preexistencia real comprendida en el ser eterno divino. El «Io sono» retoma el nombre divino del Éxodo (Ex 3,14) — el presente divino, no una mera anterioridad cronológica — y desencadena la reacción extrema: tomaron piedras para lapidarlo. Nota de von Balthasar en ODPC: la única justificación posible de estas palabras es que este hombre, que se atribuye cualidades divinas, obedece; y eso solo es posible si es un Dios que obedece al hacerse hombre.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La generación del Verbo no aconteció una vez: Dios siempre engendra su Hijo, como la palabra es simultánea al pensar. Contra Arrio, que tomaba literalmente «primogénito de la creación» (Col 1,15): el Hijo es primogénito no porque sea la primera *de* las criaturas sino porque es *antes* de todas y su principio, hechas todas por Él; si el Hijo fuera creado, sería falso que «sin Él no se hizo nada de cuanto existe» (Jn 1,3), pues Él mismo habría sido algo hecho no hecho por Él. «Dios de Dios, Luz de Luz» significa ser de algo, no de la nada.
+
 ## Distinciones importantes
 
 - **Preexistencia divina vs. existencia temporal**: la preexistencia del Verbo no es una existencia previa en el tiempo (como en algunas concepciones mitológicas o gnósticas), sino una existencia eterna en el orden divino. Cristo es eterno porque es Dios, y el tiempo es criatura. Por eso Jesús dice «antes que Abrahán naciese, YO SOY» — no dice «yo era» sino «YO SOY», usando el presente divino.
@@ -63,7 +71,7 @@ Se relaciona con [[verbo_de_dios]], [[yo_soy]], [[divinidad_de_cristo]], [[encar
 
 ## Ver también
 
-[[verbo_de_dios]], [[yo_soy]], [[divinidad_de_cristo]], [[prólogo_joánico]], [[hijo_de_dios]], [[generación_eterna]]
+[[verbo_de_dios]], [[yo_soy]], [[divinidad_de_cristo]], [[prólogo_joánico]], [[hijo_de_dios]], [[generación_eterna]], [[allorigine_della_pretesa_cristiana]]
 
 ## Referencias
 

@@ -9,7 +9,7 @@ timestamp: 2026-07-01
 # Vocación Universal a la Santidad
 
 > Área: Eclesiología / Espiritualidad
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -24,6 +24,13 @@ El Concilio enseñó que la santidad no es privilegio de unos pocos (clero, reli
 3. Los religiosos: mediante la profesión de los consejos evangélicos
 
 Esta doctrina recupera la tradición patrística y tomista, renovando la [[espiritualidad_del_laico]] y superando una visión clerical de la santidad. La [[santidad]] se entiende como participación en la [[santidad_de_dios]] por la gracia.
+
+## Perspectivas por fuente
+
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+Tanto las vocaciones al matrimonio como a la virginidad y al celibato «son siempre vocaciones a la santidad» (SHVS 26). El Concilio Vaticano II renovó la *llamada universal a la santidad*: «esta fuerte invitación a la santidad puede ser considerada como el elemento más característico de todo el magisterio conciliar y, por así decirlo, su última finalidad» (Pablo VI); «esta consigna no es una simple exhortación moral, sino una *insuprimible exigencia del misterio de la Iglesia*» (Juan Pablo II). «Dios llama a la santidad a todos los hombres y, para cada uno de ellos tiene proyectos bien precisos: una *vocación personal* que cada uno debe reconocer, acoger y desarrollar» (SHVS 100). También la vida matrimonial implica «un camino gozoso y exigente de santidad», en el que de hecho ocurren a todos, por períodos más o menos largos, situaciones que exigen «actos heroicos de virtud» (SHVS 19).
+
 
 ## Relaciones
 

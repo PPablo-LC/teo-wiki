@@ -9,7 +9,7 @@ description: "El seguimiento de Cristo es la respuesta del discípulo a la llama
 # Seguimiento de Cristo
 
 > Área: Espiritualidad / Moral
-> Última actualización: 2026-06-22
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -66,6 +66,10 @@ Cabestrero destaca la dimensión comunitaria del seguimiento: no es un camino so
 ### Según Juan Pablo II (VocExp)
 
 En *La vocación explicada*, el seguimiento de Cristo se presenta como respuesta a la mirada amorosa del Señor: «Jesús fijando en él la mirada, lo amó y le dijo: ven y sígueme» (Mc 10,21). Descubrir la llamada es «caer en la cuenta de que Cristo tiene fijos los ojos en ti y que te invita con la mirada a la entrega total en el amor». A los que ya cumplen los mandamientos, el Señor les propone metas más elevadas: «Una sola cosa te falta» — más amor, más generosidad, más sacrificio. El Papa contrapone al joven rico, que invitado por Cristo no supo decidirse y permaneció con sus bienes y con su tristeza, a los pescadores que «llamados por Jesús, dejaron todo inmediatamente y llegaron a ser pescadores de hombres». El seguimiento pide no tener miedo «cuando el premio que espera es Dios mismo, a quien, a veces sin saberlo, todo joven busca», y su promesa es la amistad: «Ya no os llamo siervos..., sino que os llamo amigos» (Jn 15,15) [VocExp].
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC reconstruye las líneas del seguimiento como pedagogía revelativa de Jesús: primero el Maestro que se hace seguir («Venite con me»): una palabra comprensible con una implicación mucho mayor, cuyo sentido total aparece solo a distancia de años; después la renuncia (Mt 10,39): desprenderse de lo propio, hasta la renuncia a «sí mismo» como criterio; después el estar «de frente a todos» (Mt 10,32-33): ningún vínculo es verdadero si no logra producirse socialmente — el testimonio no es opcional; finalmente «a causa mia»: la persona de Cristo al centro de la afectividad y de la libertad, donde la indiferencia ya no es posible y nace el amor o la hostilidad ([[centro_de_la_libertad]]). El seguimiento es así el espacio donde se verifica la [[pretesa_cristiana]]: no una ideología que seguir, sino Alguien.
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Resurrección de Cristo
 tags: ["cristología", "dogmática"]
 
-timestamp: 2026-06-20
+timestamp: 2026-09-15
 description: "Vuelta de Jesucristo a la vida gloriosa al tercer día de su muerte, por su propio poder y por obra del Espíritu Santo. Es el fundamento de la fe cristiana y la garantía de nuestra propia resurrección."
 ---
 # Resurrección de Cristo
 
 > Área: Cristología / Dogmática
-> Última actualización: 2026-06-20
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -105,6 +105,10 @@ Mons. Barron («Contours of the Great Story») presenta la Resurrección como **
 - **«Tú lo mataste, Dios lo resucitó»:** César lo mató, Dios lo resucitó: Dios es más poderoso que el César, más poderoso que tu pecado, más poderoso que la muerte misma. Ese era el mensaje de los primeros cristianos.
 - **La cruz como burla (*taunt*):** cuán extraño colocar para siempre ante los ojos un instrumento de tortura; lo hacemos burlándonos del mundo: «¿Es eso lo peor que puedes echarnos? Nuestro Dios es más poderoso que eso».
 - **Por qué desmitologizar:** los poderes mundanos quieren una Resurrección mítica porque domesticada no desafía nada; si se convierte en «bonito mito y símbolo», pierde su reto. La Iglesia católica es «la única rival seria del relativismo y la cultura de la auto-invención» precisamente porque porta el mensaje de la cruz y la Resurrección: por eso tantos primeros cristianos acabaron muertos o en la cárcel.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La pasión sola no bastaba: la salvación es la reintegración de la persona y de la naturaleza, y requiere la resurrección — «fue entregado por nuestros pecados y resucitado para nuestra justificación» (Rm 4,25). La resurrección de Cristo es el ejemplar de la nuestra y levanta nuestra esperanza; se manifestó con «muchos signos» (Hch 1,3) y fue reconocida por las heridas: el mismo cuerpo numéricamente. Cuerpo glorioso pero de la misma naturaleza: «espiritual», es decir libre, del todo sometido al espíritu — como el vitral, mismo vidrio transformado cuando la luz lo atraviesa. Difiere de la resurrección de Lázaro, que volvió a la vida mortal y murió de nuevo; Cristo resucitó a la vida inmortal, como «primicias de los que duermen» (1 Cor 15,20). El sacramento de su cuerpo presupone la resurrección.
 
 ## Distinciones importantes
 

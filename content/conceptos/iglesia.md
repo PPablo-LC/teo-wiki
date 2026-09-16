@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Iglesia
 tags: ["eclesiología"]
 
-timestamp: 2026-08-09
+timestamp: 2026-09-15
 description: "La Iglesia es el Pueblo de Dios, el Cuerpo Místico de Cristo y el Templo del Espíritu Santo, instituida por Jesucristo como sacramento universal de salvación."
 ---
 # Iglesia
 
 > Área: Eclesiología
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -118,6 +118,10 @@ Ver artículo principal: [[iglesia_cuerpo_místico]]
 ## Ver también
 
 [[iglesia_cuerpo_místico]], [[magisterio_de_la_iglesia]], [[configuración_con_cristo]], [[jorge_loring]]
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Al tratar de la gracia de Cristo, Tomás introduce a la Iglesia: el cuerpo de Cristo, en el que somos incorporados para recibir la gracia que fluye de su humanidad. Cabeza y cuerpo forman como una sola «persona mística»: por eso su pasión nos merita, pues somos miembros de su cuerpo. La gracia rebosa de la cabeza al cuerpo (*redundat*) «como una transfusión vital a los miembros»; no la recibimos por naturaleza (de Adán) sino por la acción personal de Cristo.
 
 ## Analizado para
 

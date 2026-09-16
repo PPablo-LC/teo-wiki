@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe y Razón
 tags: ["dogmática"]
 
-timestamp: 2026-09-13
+timestamp: 2026-09-15
 description: "La relación entre la fe y la razón designa la armonía y mutua colaboración entre el conocimiento sobrenatural (fe) y el conocimiento natural (razón); la fe como acto razonable según Giussani."
 ---
 # Fe y Razón
 
 > Área: Dogmática
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -108,6 +108,14 @@ James Francis Stafford, en el prefacio, sintetiza la tesis del PerCorso: «la fe
 Giussani profundiza esta armonía afirmando que la fe «afirma un factor de la realidad que completa el análisis de la realidad»: un factor que no se mide en tiempo ni en espacio, que no es totalmente tangible, pero que «es tangible y experimentable en su signo». Por eso creer no es oponerse a la razón sino llevarla a su culmen: «vosotros sois racionales si afirmáis ese algo más»; ese algo más «es Cristo» (AED, 29, 55-61).
 
 La razón es «el faro que ilumina todo» hasta el límite de lo que puede alcanzar; pero no es «el último muro de contención: hay algo más». Tener «la sencillez y el coraje de afirmar ese algo más» es lo que hace razonable al hombre (AED, 29, 63-67). La afirmación de la fe no contradice la razón porque la realidad en su plenitud es signo de una Presencia que la supera (AED, 17, 225).
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC es la obra de la razonabilidad del hecho cristiano: «ho voluto esprimere la ragione per cui un uomo può credere a Cristo: la profonda corrispondenza umana e ragionevole delle sue esigenze con l'avvenimento dell'uomo Gesù di Nazareth» (Prefación). La razón no puede excluir de antemano la revelación: sería «l'ultima estrema forma di idolatria, un gesto supremo di irrazionalidad» ([[exigencia_de_revelación]]); la fe, a su vez, apela constantemente a la inteligencia: «l'accesso dell'intelligenza a una verità... il sì dell'intelligenza convinta» (Tresmontant); los Evangelios bendicen a los que con un mínimo indicio alcanzan una gran verdad (Rousselot) ([[certeza]]). La razón que se cierra al nuevo hecho repite la dialéctica de Jn 8: «se in luogo della parola «Abramo» ci fosse la parola «ragione», e invece dei Farisei «gli intellettuali», tutta la dialettica sarebbe perfettamente applicabile alla tensione fede-cultura mondana propria dei nostri giorni». Y el «dogma» moderno de la división entre fe y realidad mundana es «l'ultima latitudine cui si può spingere la pretesa idolátrica» — la prohibición infantil a Dios de intervenir en la vida.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Fe y razón no se oponen: el autor de la revelación y de la razón es el mismo, y «lo que es contrario a la recta razón es también contrario a la sabiduría divina». La razón no demuestra el contenido de la fe, sino que muestra que la fe no es imposible ni contradictoria. No hay doble verdad (contra la doctrina que luego recogería Ockham): no hay dos criterios de verdad sino dos maneras de conocer la verdad; ni vale la distinción moderna entre verdades lógicas, científicas, históricas y «religiosas»: la verdad es una. En la práctica: con quienes no aceptan las mismas Escrituras «hay que apelar a la razón, a la que todos están obligados a asentir» (Summa contra Gentiles como manual para predicadores).
 
 ## Distinciones importantes
 

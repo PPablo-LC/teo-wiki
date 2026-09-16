@@ -33,6 +33,11 @@ El peligro del utilitarismo es que «poner el placer en primer plano en el anál
 
 Santo Tomás, siguiendo a Aristóteles, distingue entre el *bonum honestum* (el bien que se busca por sí mismo, conforme a la virtud), el *bonum utile* (el bien que se busca por el provecho) y el *bonum delectabile* (el bien que se busca por el placer). La recta razón exige que el *bonum honestum* sea el criterio supremo del obrar humano, subordinando la utilidad y el placer a la virtud.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«El positivismo produce como frutos el gnosticismo a nivel teórico y el utilitarismo a nivel práctico y ético... El *utilitarismo* es una civilización basada en producir y disfrutar; una civilización de las "cosas" y no de las "personas"; una civilización en la que las personas se usan como si fueran cosas... Para convencerse de ello, basta examinar —precisa todavía el Santo Padre— *ciertos programas de educación sexual* introducidos en las escuelas, a menudo contra el parecer y las mismas protestas de muchos padres» (SHVS 24, citando la Carta a las Familias). Los padres han de ejercer una acción educativa fundada «en los valores de la persona y del amor cristiano, tomando una clara posición que supere el utilitarismo ético» (SHVS 24).
+
+
 ## Distinciones importantes
 
 - **Utilitarismo vs. ética tomista**: el tomismo subordina la utilidad y el placer al *bonum honestum*; el utilitarismo los pone como criterio supremo.

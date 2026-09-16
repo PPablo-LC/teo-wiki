@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Creación
 tags: ["dogmática"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-15
 description: "La creación es la obra por la cual Dios, en su libérrima voluntad, saca de la nada todo lo que existe (cielo y tierra, lo visible y lo invisible) por su Palabra y su Espíritu; el mundo como dato y como don según Giussani."
 ---
 # Creación
 
 > Área: Dogmática
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -84,6 +84,10 @@ El Dios de la creación se revela también como Dios de la redención, fiel a su
 **La contingencia del creado (cap. X).** El yo dependiente constata: «no me hago a mí mismo». La creaturalidad —la conciencia de ser contingente y sostenido— es el fundamento de la religión natural y de la afirmación de un Tú providente, *tam pater nemo* (SR, `17_capitolo_decimo.md`, §33-45, 71-85).
 
 **Geografía del sentido religioso (cap. V).** La universalidad del sentido religioso en la historia humana —y la madurez que Malraux intuye en la pregunta por el Misterio— testimonia que la creación entera está orientada a su Creador y que el hombre la experimenta como «presencia» que lo interpela (SR, `12_capitolo_quinto.md`, §141-160).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La creación es «la emanación del ser entero»: no una cadena de inteligencias (contra Avicena), sino que Dios causa inmediatamente la existencia de todo. Crear es producir la totalidad del ser: nosotros damos forma a materia preexistente; Dios produce la cosa y aquello de que está hecha — crear de la nada es no hacer a partir de algo existente sino por algo existente; la distancia entre no-ser y ser es infinita (mayor que entre un caracol y una estrella, que al menos tienen el ser en común): solo el acto puro, con poder infinito, puede crear. El primer efecto es la existencia misma («el primero de los creados es el existir», Liber de Causis). Dios conserva el mundo en el ser por la misma acción con que lo creó — no es relojero (ni intervención puntual, contra Newton; ni hipótesis prescindible, contra Laplace): «quita la causa y no hay efecto», como la luz del sol en el aire. Dios está en las criaturas por presencia, esencia y poder: presencia activa — el existir es lo más íntimo de cada cosa.
 
 ## Distinciones importantes
 

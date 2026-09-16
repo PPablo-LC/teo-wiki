@@ -49,6 +49,11 @@ Juan Pablo II describe su propia [[vocación_sacerdotal]] como un misterio que c
 
 La Carta Apostólica *Una fidelidad que genera futuro* (2025) dedica su sección inicial a la vocación sacerdotal como encuentro personal con Cristo que «da un nuevo horizonte a la vida y, con ello, una orientación decisiva» (UFGF §5, citando *Deus caritas est* 1). La vocación no es constricción sino «propuesta amorosa de un proyecto de salvación y libertad» (UFGF §6). Toda vocación es un don del Padre que ha de ser «custodiado con fidelidad en una dinámica de conversión permanente» mediante la escucha de la Palabra, los sacramentos —en particular el Sacrificio Eucarístico—, la evangelización, la cercanía a los últimos y la fraternidad presbiteral (UFGF §7). El Papa exhorta a «custodiar y hacer crecer la vocación» en un camino nunca meramente individual, que nos compromete a cuidarnos unos a otros (UFGF §13). La vocación culmina en la misión: «la vocación sacerdotal se desarrolla entre las alegrías y las fatigas de un servicio humilde a los hermanos» (UFGF §23). El documento concluye deseando un «renovado Pentecostés vocacional» que suscite santas, numerosas y perseverantes vocaciones (UFGF §27) [UFGF, 22.12.2025].
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+Los padres deben alegrarse si ven «los signos de la llamada de Dios a la más alta vocación de la virginidad o del celibato por amor del Reino de los cielos», animando a los hijos «hasta el momento del ingreso en el seminario o en la casa de formación» (SHVS 35). «La mayor ayuda en este sentido la prestan... aquellas familias que, animadas del espíritu de fe, caridad y piedad, son como un primer seminario»; los padres y maestros deben instruir a los jóvenes «para que... estén prontos a responder generosamente al llamamiento del Señor, diciendo con el profeta: *Aquí estoy yo, envíame* (Is 6, 8)» (SHVS 35). Se advierte que en familias pobres en el valor de la vida (un solo hijo) «es muy difícil que surjan vocaciones» (SHVS 35).
+
+
 ## Distinciones importantes
 
 - Vocación universal a la santidad (recibida en el Bautismo) vs. vocación específica al presbiterado (recibida por el sacramento del Orden)

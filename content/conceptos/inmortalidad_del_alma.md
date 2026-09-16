@@ -3,17 +3,23 @@ type: Concepto Teológico
 title: "Inmortalidad del Alma"
 description: "Doctrina según la cual el alma humana, por ser espiritual y creada por Dios, no muere cuando el cuerpo perece, sino que subsiste después de la muerte."
 tags: ["teología", "antropología_teológica", "escatología"]
-timestamp: 2026-07-01
+timestamp: 2026-09-15
 ---
 
 # Inmortalidad del Alma
 
 > Área: Antropología Teológica / Escatología
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-15
 
 ## Definición
 
 La **inmortalidad del alma** es la doctrina según la cual el [[alma]] humana, por ser espiritual y creada inmediatamente por Dios, no perece con la muerte del cuerpo sino que subsiste conscientemente.
+
+## Perspectivas por fuente
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La inmortalidad se funda en la inmaterialidad: el alma conoce las naturalezas de todos los cuerpos, luego no puede tener naturaleza de cuerpo («como no se ven todos los colores a través de un vidrio de color»). Tiene actividad propia no orgánica, y solo lo que subsiste puede subsistir sin el cuerpo. Contra la absorción en un alma universal (Averroes) y contra la reencarnación (una forma para un solo cuerpo): el alma separada conserva su individualidad, y la resurrección restaura el mismo cuerpo numéricamente — la identidad corporal no es material (el anciano es el mismo niño aunque toda su materia se cambió); no es refundir una estatua, sino la misma existencia personal.
 
 ## Relaciones
 

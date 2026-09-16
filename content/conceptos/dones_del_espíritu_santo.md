@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dones del Espíritu Santo
 tags: ["dogmática", "mística"]
 
-timestamp: 2026-08-06
+timestamp: 2026-09-15
 description: "Los dones del Espíritu Santo son hábitos sobrenaturales infundidos por Dios en el alma junto con la gracia santificante y las virtudes infusas."
 ---
 # Dones del Espíritu Santo
 
 > Área: Dogmática / Mística
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -78,6 +78,15 @@ Otro modo más elevado de actuar se verifica cuando Dios mismo obra en nosotros:
 Basándose sobre todo en un texto de Isaías (Is 11, 2), se enumeran siete dones a través de los cuales el Espíritu mueve a los fieles: sabiduría (conocer y amar con prontitud las cosas divinas); entendimiento (entender con profundidad las verdades de la fe); ciencia (valorar las cosas humanas en relación al último fin); consejo (discernir las cosas que hay que hacer); piedad (cumplir con solicitud y ánimo filial lo que hace referencia a Dios y, secundariamente, a los hombres); fortaleza (estar dispuestos a rechazar prontamente las sugestiones negativas en los peligros); temor de Dios (evitar los estímulos de las pasiones desordenadas que ofenderían al Señor). (Ele_Xto_Stos, Cap. VII, §5b)
 
 Existe actualmente un debate sobre la forma de actuación de los dones (ver [[debate_actual_sobre_actuación_de_dones]]). El libro coincide con la postura de Knobel en cuanto rechaza la distinción entre una vida cristiana de primera clase (virtudes infusas y dones) y una de segunda clase (solo virtudes infusas); al mismo tiempo, la actuación de los dones se manifiesta de forma gradual, en función de la mayor o menor profundidad de la vida espiritual de cada persona. (Ele_Xto_Stos, Cap. VII, §5b)
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Los dones son ayudas para las virtudes: perfecciones de las potencias del alma que la hacen movible por el Espíritu Santo, disponiéndonos a seguir su *instinctus* (sentido espiritual), como los animales siguen el instinto natural. Se distinguen de las virtudes porque no eligen sino que **dirigen**, y no crecen como ellas; no son superiores a las virtudes teologales: las presuponen (la fe y la caridad unen a Dios; los dones siguen a Dios). El don de temor hace sujetos al Espíritu (por eso movibles); el de consejo dirige a la fortaleza, pues «nuestras deliberaciones son tímidas e inseguras»; el Espíritu instruye la mente y mueve el corazón.
+
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+Para vivir la castidad, el hombre y la mujer tienen necesidad de la «iluminación continua del Espíritu Santo»: «en el centro de la espiritualidad conyugal está... la castidad, no sólo como virtud moral (formada por el amor), sino, a la vez, como virtud vinculada con los dones del Espíritu Santo —ante todo con el respeto de lo que viene de Dios (*donum pietatis*)» (SHVS 21). El sacramento del matrimonio enriquece a los esposos «en sabiduría, consejo, fortaleza y con los otros dones del Espíritu Santo, para ayudar a los hijos en su crecimiento humano y cristiano» (SHVS 37). La educación del hijo es discernida «en armonía y en el respeto de sus aptitudes, inclinaciones y dones del Espíritu» (SHVS 22).
+
 
 ## Distinciones importantes
 

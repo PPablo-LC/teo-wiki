@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Participación
 tags: ["doctrina_social"]
 
-timestamp: 2026-05-25
+timestamp: 2026-09-15
 description: "Principio de la doctrina social que expresa el derecho y el deber de los ciudadanos de tomar parte activa en la vida política, económica y cultural de la comunidad."
 ---
 # Participación
 
 > Área: Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -42,6 +42,10 @@ GS 75: Derecho y deber de todos los ciudadanos de «participar libre y activamen
 ## Relaciones doctrinales
 
 Se relaciona con [[democracia]], [[ciudadanía]], [[bien_común]], [[sociedad_civil]], [[partidos_políticos]], [[subsidiariedad]]
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Selman expone la participación como clave de la analogía del ser: las criaturas no son el Ser sino entes que participan del ser, porque reciben su existencia. La idea viene de Platón (las cosas bellas participan de la Belleza) y se funde en Tomás con la filosofía aristotélica (las formas existen en las cosas); el paso decisivo viene de Avicena: «todo lo que comparte la existencia remite, en última instancia, a algo que no comparte la existencia sino que es su Existencia misma». Por eso las cosas existen «de un modo totalmente otro» que Dios: Él es «el mar infinito del ser» (San Juan Damasceno; Dante: *per lo gran mar dell'essere*) — sin panteísmo, pues Dios no es parte del ser de las cosas.
 
 ## Ver también
 

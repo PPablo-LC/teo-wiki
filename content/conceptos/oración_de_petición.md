@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Oración de petición
 tags: ["espiritualidad", "ascética"]
 
-timestamp: 2026-05-29
+timestamp: 2026-09-15
 description: "La oración de petición o súplica es la forma de oración por la cual el cristiano eleva su mente a Dios para pedirle los bienes necesarios para la salvación, tanto espirituales como materiales."
 ---
 # Oración de petición
 
 > Área: Espiritualidad / Ascética
-> Última actualización: 2026-05-29
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -28,6 +28,14 @@ El CEC dedica una sección a la oración de petición (§2629-2643). Distingue l
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la oración de petición dentro de su exposición general sobre la oración (TPCr, Tercera Parte, Libro II, Cap. III). Afirma que la oración de petición es necesaria con necesidad de precepto y de medio para la salvación de los adultos. Sigue a Santo Tomás (S.Th., II-II, q.83) enseñando que la oración de petición es acto de la razón práctica, subordinada a la virtud de la religión. La eficacia de la oración no depende de la cantidad de palabras, sino del afecto y la perseverancia. La petición debe hacerse por las cosas necesarias para la salvación, en conformidad con la voluntad divina.
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC dedica a la oración-pregunta su tratamiento más denso (cap. 8, §2.4). La oración es «coscienza última de sí, como conciencia de dependencia constitutiva»; el vértice de la oración no es el éxtasis sino «ver el fondo como se ven las cosas usuales»; su fórmula existencial: «prega più che puoi». Su expresión cumplida es ser *domanda*: «l'espressione originale dell'esistenza umana è domanda». La petición toma cualquier ocasión («domandare prendendo spunto da qualsiasi cosa»): el amigo importuno de medianoche (Lc 11,5-13), la viuda y el juez (Lc 18,1-8); su cláusula implícita es la de Getsemaní: «Però non la mia, ma la tua volontà sia fatta» (Lc 22,42) — «la sua volontà, infatti, significa la mia completezza». En Gesù la oración-pregunta era el tejido de su conciencia filial: «Il Padre mio opera sempre e anch'io opero» (Gv 5,17); «Tutte le cose mie sono tue e tutte le cose tue sono mie» (Gv 17,10). Si el hombre oblitera la conciencia de la total dependencia y del estado de domanda, «rifiuta la salvezza» ([[dependencia_de_dios]]).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Contra los dos errores sobre la oración (que altera la mente de Dios; que es inútil), Selman expone la solución tomista: la oración no cambia la providencia — **es parte de la providencia**: «Dios concede algunas cosas que sabe serán pedidas». No informamos a Dios (ya lo sabe): mostramos que verdaderamente queremos, nos disponemos a recibir, despertamos humildad y confianza. Implica la esperanza (mirar a Dios por ayuda) y presupone la fe; incluso sin respuesta aumenta la caridad, porque expresa el deseo. Lo principal que se ha de pedir es la unión con Dios; Dios mismo inspira los deseos que expresamos: «no movemos a Dios con la oración: Él nos mueve a orar»; el Espíritu «intercede» haciéndonos pedir lo que conviene. La oración es *ascensus mentis in Deum* (Damaseno); la intención sostiene el beneficio aunque la mente se distraiga (como la flecha sigue el rumbo dado al salir); para el consuelo se necesita además atención al fin al que se dirige: Dios.
 
 ## Distinciones importantes
 

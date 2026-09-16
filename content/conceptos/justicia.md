@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Justicia
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-13
+timestamp: 2026-09-15
 description: "La justicia es la segunda de las virtudes cardinales, virtud infusa que reside en la voluntad, por la que se da a cada uno lo suyo; exigencia que remite más allá de la historia según Giussani."
 ---
 # Justicia
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -72,6 +72,10 @@ El signo que Dios ha elegido en el mundo es «lo muy débil, lo muy pequeño» (
 
 Ver artículo principal: [[virtud_de_la_justicia]]
 
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La justicia ordena al bien común de la sociedad: dar a cada uno lo que se le debe. En la justificación teológica Tomás habla de otra justicia: no la virtud cardinal, sino el orden debido de las partes de la naturaleza entre sí y con Dios (el apetito a la razón, la razón a Dios); el pecado original es una injusticia nacida de ese desorden, y justificar es restaurar la justicia original. El mal de pena puede ser querido por Dios por la justicia: el bien del orden de toda la sociedad está por encima de que el culpable no sufra.
 
 ## Analizado para
 

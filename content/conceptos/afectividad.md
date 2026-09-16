@@ -37,6 +37,11 @@ La afectividad humana comprende sentimientos y pasiones. Si las tendencias son u
 
 La esfera tendencial y sentimental es una de las expresiones más claras de la personalidad moral: cada persona tiene la estructura afectiva que poco a poco se ha dado a sí misma. El temperamento innato y los condicionamientos educativos influyen, pero la persona conserva siempre la capacidad de tomar posición frente a ellos (Ele_Xto_Stos, Cap. V, §4).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+Las ciencias psicológicas y la experiencia concuerdan en destacar «la importancia decisiva, en orden a una armónica y válida educación sexual, del *clima afectivo que reina en la familia*», especialmente en los primeros años de la infancia y la adolescencia (SHVS 50). La educación en la castidad «es al mismo tiempo educación del espíritu, de la sensibilidad y de los sentimientos»: depende «no poco de la forma con que administran los sentimientos espontáneos, haciendo crecer algunos, controlando otros» (SHVS 54). Durante la pubertad los adolescentes «son particularmente sensibles a las *influencias emotivas*»; el desarrollo psíquico y emotivo puede hacerlos vulnerables a las fantasías eróticas (SHVS 93, 97).
+
+
 ## Distinciones importantes
 
 - **Afectividad vs. sentimentalismo**: la afectividad integra emociones y sentimientos en la verdad del ser; el sentimentalismo los absolutiza desconectándolos de la razón y la voluntad

@@ -39,6 +39,11 @@ Sin embargo, incluso cuando la procreación no es posible, no por esto pierde su
 
 La Iglesia condena como ofensa grave a la dignidad humana todas aquellas actividades de los gobiernos que tratan de limitar la libertad de los esposos en la decisión sobre los hijos, así como la ayuda económica internacional condicionada a programas de anticoncepcionismo, esterilización y aborto procurado (FC §30).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+El respeto de los padres hacia la vida y hacia el misterio de la procreación evitará en los hijos «la falsa idea de que las dos dimensiones del acto conyugal, la unitiva y la procreativa, puedan separarse según el propio arbitrio». La contracepción busca el placer «interviniendo sobre la expresión del acto conyugal a fin de evitar la concepción»; la procreación artificial busca la concepción «sustituyendo el acto conyugal por una técnica»: ambas «contrario a la verdad del amor conyugal y a la plena comunión esponsal» (SHVS 32). En la pubertad hay que evitar la «*mentalidad contraceptiva*» ya extendida (SHVS 92); y se subrayan «los valores morales, espirituales y sanitarios de los métodos de la regulación natural de la fertilidad» y la «sustancial y profunda diferencia» entre métodos naturales y artificiales (SHVS 125, 137).
+
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[paternidad_responsable]], [[familia]], [[anticoncepción]], [[clonación]], [[amor_conyugal]]

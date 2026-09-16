@@ -37,6 +37,11 @@ El concepto es central en la Teología del Cuerpo de Juan Pablo II, quien lo tom
 
 La familia se presenta como espacio de comunión que debe desarrollarse como auténtica comunidad de personas gracias al dinamismo del amor, dimensión fundamental de la experiencia humana: «El amor hace que el hombre se realice mediante la entrega sincera de sí mismo» (§221, citando *Gratissimam sane* 11). Del amor nacen relaciones vividas como entrega gratuita, que se hacen acogida cordial, encuentro, diálogo, servicio generoso y solidaridad profunda (§221). La comunidad familiar nace de la comunión de las personas: «La “comunión” se refiere a la relación personal entre el “yo” y el “tú”... La familia, comunidad de personas, es por consiguiente la primera “sociedad” humana» (§213, citando *Gratissimam sane* 7).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+El amor de amistad «genera la comunión entre personas, ya que cada uno considera el bien del otro como propio» (SHVS 9). La familia es «una comunidad de personas, para las cuales el propio modo de existir y vivir juntos es la comunión: *communio personarum*», con «una cierta semejanza entre la unión de las personas divinas y la unión de los hijos de Dios en la verdad y en la caridad» (SHVS 28). El pacto conyugal funda «aquella comunión de personas en la cual Dios ha querido que viniera concebida, naciera y se desarrollara la vida humana» (SHVS 14).
+
+
 ## Distinciones importantes
 
 - Comunión vs. comunidad: la comunión expresa la relación interpersonal "para" el otro, mientras que comunidad es un término más genérico

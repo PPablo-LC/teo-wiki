@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Circumincesión
 tags: ["dogmática", "trinidad"]
 
-timestamp: 2026-07-01
+timestamp: 2026-09-15
 description: "La circuminsesión (también llamada perichoresis o inhabitación mutua) es la doctrina trinitaria según la cual las tres Personas divinas —Padre."
 ---
 # Circumincesión
 
 > Área: Dogmática / Trinidad
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -32,6 +32,10 @@ Santo Tomás trata la inhabitación mutua de las personas divinas en SmTh Iª q.
 ### Según Royo Marín (TPCr)
 
 La circuminsesión o perichoresis es consecuencia de la identidad de la naturaleza divina y de la distinción de relaciones. Dondequiera que está una Persona divina, están también las otras, pues las operaciones ad extra de la Trinidad son comunes a las tres Personas. El Hijo y el Espíritu Santo no están «fuera» del Padre sino «en» Él [TPCr, Parte I, Cap. 2].
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Las personas divinas están entre sí sin división: el Padre está en el Hijo porque toda su naturaleza está en Él; el Hijo permanece en el Padre como en la fuente de su naturaleza, «como la palabra procede y permanece en la mente». Donde uno está están los otros (Jn 14,23): la divinidad existe entera e indivisa en cada persona — si estuviera dividida, compartirían la naturaleza divina en lugar de ser idénticos a ella.
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misiones divinas
 tags: ["dogmática_(trinidad)"]
 
-timestamp: 2026-07-01
+timestamp: 2026-09-15
 description: "Las misiones divinas son el envío del Hijo y del Espíritu Santo al mundo, tanto visible (Encarnación del Hijo, manifestaciones del Espíritu) como invisible (inhabitación de la gracia en el alma)."
 ---
 # Misiones divinas
 
 > Área: Dogmática (Trinidad)
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -43,6 +43,10 @@ La persona divina es enviada solo por aquella de quien procede eternamente (a.8)
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 [VocTeoBib, «Misión»] En el AT, los profetas son enviados por Dios: «Yo te envío» (Ex 3,10; Jer 1,7; Ez 2,3s). Israel mismo tiene una misión como pueblo elegido (Ex 19,5s) para ser luz de las naciones (Is 42,6). En el NT, Jesús es el enviado del Padre por excelencia (Jn 3,17; 10,36), que cumple la Escritura (Lc 4,17-21). Su misión se prolonga en la de los apóstoles: «Como el Padre me envió, también yo os envío» (Jn 20,21). El Padre y el Hijo envían al Espíritu Santo (Jn 14,26; 15,26), cuya misión dura toda la vida de la Iglesia (Act 1,8). La misión del Hijo y del Espíritu revelan el misterio íntimo de Dios: el que envía es el Padre, y el envío muestra la procesión eterna.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Solo son enviadas las personas que proceden (el Padre nunca): las misiones visibles (la Encarnación, Pentecostés) fundan las invisibles, interiores a nosotros. El Hijo es enviado cuando la mente es iluminada para conocer a Dios (*illuminatio intellectus*); el Espíritu, cuando la caridad es derramada para amar: somos hechos partícipes del Verbo y del amor que procede. Dios habita en nosotros de un modo nuevo por la gracia (Jn 14,23 — donde uno está están los otros dos, pues cada persona está en las otras); la imagen de Dios en nosotros se completa por nuestra asimilación al Espíritu.
 
 ## Distinciones importantes
 

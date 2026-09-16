@@ -29,6 +29,11 @@ Jesús afronta el tema del divorcio: «También se ha dicho: El que repudiare a 
 
 Esta enseñanza se inscribe en el perfeccionamiento de la Ley que Jesús realiza en el Sermón del Monte, donde cada antítesis lleva los mandamientos a su plenitud. Cristo restituye el orden original de la creación, donde el matrimonio es indisoluble por institución divina.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«El don del sacramento es al mismo tiempo vocación y mandamiento para los esposos cristianos, para que permanezcan siempre fieles entre sí, por encima de toda prueba y dificultad, en generosa obediencia a la santa voluntad del Señor: "lo que Dios ha unido, no lo separe el hombre"» (SHVS 30). Los padres deben dar a los hijos «una explicación positiva y serena de los puntos esenciales de la moral cristiana como, por ejemplo, la indisolubilidad del matrimonio y las relaciones entre amor y procreación» (SHVS 102).
+
+
 ## Distinciones importantes
 
 - La concesión mosaica del divorcio era una tolerancia por la dureza del corazón, no una aprobación divina del divorcio

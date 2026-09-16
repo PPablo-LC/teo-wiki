@@ -37,6 +37,11 @@ Las palabras de Cristo a los fariseos (Mt 19) se refieren al matrimonio como sac
 
 El amor conyugal en la carta a los Efesios retoma la expresión de Gén 2, 24: los esposos son «los dos en una sola carne», a imagen de la unión de Cristo y de la Iglesia.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«El hombre y la mujer en el matrimonio se unen entre sí tan estrechamente que vienen a ser —según el libro del Génesis— "una sola carne" (Gn 2, 24)» (SHVS 29). Los esposos, hechos «una sola carne» por el vínculo matrimonial, comparten el deber de formar a los hijos (SHVS 37); y «uniéndose "en una sola carne", pueden convertirse en padres» (SHVS 32).
+
+
 ## Distinciones importantes
 
 - **«Una sola carne»** ≠ **mera unión biológica**: la unión expresa y realiza la comunión de las personas.

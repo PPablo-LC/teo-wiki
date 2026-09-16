@@ -79,6 +79,11 @@ Francis Beckwith, desde su experiencia de [[reversión]], evoca el papel decisiv
 
 El fascículo presenta de este modo la iglesia doméstica como primera célula de la vida cristiana: escuela de caridad, de adoración y de [[testimonio_cristiano]], en la que se aprende a vivir la fe que luego se lleva a la comunidad y a las periferias [EAC-18, 09, 15].
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+En la «especie de Iglesia doméstica» los padres deben ser «para sus hijos los primeros predicadores de la fe, mediante la palabra y el ejemplo, y deben fomentar la vocación propia de cada uno, pero con un cuidado especial la vocación sagrada» (SHVS 26, citando el ConcVatII). Dar la vida y educar es la «primera obligación» de los padres en el seno de la iglesia doméstica (SHVS 5). La familia debe ser ante todo «casa de fe y de oración en la que se percibe la presencia de Dios Padre, se acoge la Palabra de Jesús, se siente el vínculo de amor, don del Espíritu»; la vida de familia es «interpretada como vocación de Dios y actuada como respuesta filial a su llamada» (SHVS 62-63).
+
+
 ## Relaciones doctrinales
 
 Se relaciona con [[familia]], [[matrimonio]], [[sacramento_del_matrimonio]], [[iglesia]], [[misión_de_la_iglesia]]

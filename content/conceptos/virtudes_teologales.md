@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virtudes teologales
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-05-26
+timestamp: 2026-09-15
 description: "Las virtudes teologales son las tres virtudes infusas que tienen a Dios mismo como objeto inmediato: fe, esperanza y caridad."
 ---
 # Virtudes teologales
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-29
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -57,6 +57,10 @@ Las virtudes teologales —fe, esperanza y caridad— son los principios operati
 
 Ver artículo principal: [[virtudes_infusas]]
 
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Las teologales (fe, esperanza, caridad) se llaman «teologales» porque su objeto es Dios, y «divinas» porque son infundidas por Él — no pueden adquirirse con fuerzas naturales. Para la felicidad sobrenatural se requiere virtud sobrenatural: «solo podemos llegar a una felicidad más que natural por alguna participación de la naturaleza divina». La fe es primera (hay que conocer antes de amar); la caridad es la raíz que perfecciona a las demás y dirige todas al último fin; no puede haber caridad sin fe y esperanza — no hay amistad con quien no se cree ni se espera. Solo la caridad puede *gozar* de Dios, que es la bienaventuranza.
 
 ## Analizado para
 

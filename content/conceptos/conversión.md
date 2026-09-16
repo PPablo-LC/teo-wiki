@@ -9,7 +9,7 @@ description: "Movimiento del alma que, movida por la gracia, se vuelve a Dios ap
 # Conversión
 
 > Área: Moral / Ascética
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -90,6 +90,10 @@ La colección documenta tres conversiones icónicas del II milenio:
 - **Edith Stein** (cap. 5): conversión filosófica e interior: de la «sete di verità» («la mia unica preghiera era la sete di verità») al «primo incontro con la Croce» en la casa de la viuda Reinach («il giudaismo impallidì ai miei occhi, mentre si levava nel mio cuore la luce di Cristo»), y a la lectura nocturna de Teresa de Ávila: «Questa è la verità!». La conversión «segnò una profonda lacerazione» con su madre — «nel rapporto tra madre e figlia, tutta la passione e le sofferenze che uniscono e separano ebraismo e cristianesimo».
 - **Cottolengo** (cap. 9): la conversión como «nascita di un altro uomo» tras 41 años de inquietud: el 2 de septiembre de 1827, ante la muerte de la parturiente en la cuadra de una posada, cae de rodillas ante el Santísimo: «Mio Dio, perché? Cosa vuoi da me? Bisogna fare qualcosa!». Y la conclusión: «La grazia è fatta! La grazia è fatta!».
 - **Francisco** (cap. 6): la conversión datada por el propio Testamento en el encuentro con los leprosos: «quello che mi sembrava amaro mi fu cambiato in dolcezza di anima e di corpo»; el bacio al leproso como conquista de la propia repugnancia.
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC, tratando de las religiones, recoge la observación de Newman: «la «conversión» no es otra cosa que el descubrimiento más profundo y más auténtico de aquello a lo cual ya se adhería» (Apologia pro vita sua; Grammatica dell'Assenso). La conversión no es cambio de partido sino profundización: el hombre descubre el contenido verdadero de aquello que buscaba. Así se explica la conversión cristiana como cumplimiento del dinamismo religioso: no una sustitución de la búsqueda, sino su hallazgo ([[pretesa_cristiana]]); y así se explica también el camino de los primeros discípulos, que desde la curiosidad llegan al reconocimiento («Abbiamo trovato il Messia») sin traicionar su espera ([[primeros_discípulos]]).
 
 ## Distinciones importantes
 

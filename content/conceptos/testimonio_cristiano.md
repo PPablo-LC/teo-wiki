@@ -9,7 +9,7 @@ description: "Confesión de la fe cristiana mediante palabras y obras, que trans
 # Testimonio Cristiano
 
 > Área: Moral / Eclesiología
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-15
 
 ## Definición
 Confesión de la fe cristiana mediante palabras y obras, que transmite el Evangelio a otros. El testimonio cristiano es una dimensión esencial de la vocación bautismal, por la que el fiel da a conocer a Cristo con su vida y, cuando es necesario, con sus palabras.
@@ -46,6 +46,10 @@ El bloque «Emmaus» del fascículo presenta el [[testimonio_cristiano]] en su f
 Fernanda Psihas, misionera en la sección «Mission», resume el testimonio con una fórmula sencilla: «ser yo misma ya es evangelizar». En medio de rechazos e incomprensiones, descubrió que la presencia fiel y humilde muestra a Cristo más que cualquier discurso [EAC-18, 20_mission_psihas.md].
 
 David Rinaldi sintetiza la convicción del fascículo: «la fe se contagia más que se enseña». El testimonio es el cauce ordinario de la [[evangelización]], porque precede y acompaña a la palabra, y porque la vida transformada por el encuentro con Cristo es el argumento más elocuente [EAC-18, 22_peripheries.md].
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+El testimonio es el punto de llegada del método de Jesús al revelarse: pide ser reconocido «davanti agli uomini» (Mt 10,32-33), porque «nessun rapporto è mai intero e vero se non ha la forza di prodursi socialmente»: la analogía humana del vínculo que se hace público cuando es verdadero. Y es el punto de partida del anuncio: el hecho de Cristo nos llega como memoria y anuncio de testigos que lo consideraban vital comunicar ([[evangelios]], [[memoria]]); la cadena de los primeros discípulos — el Bautista señala, Andrés comunica a Pedro, Felipe llama a Natanael — es el prototipo del testimonio como transmisión de evidencia, no de propaganda: cada uno debe verificar por sí («Venite a vedere», [[primeros_discípulos]]).
 
 ## Distinciones importantes
 - Testimonio de palabra ≠ testimonio de vida: el primero es el anuncio explícito, el segundo es la coherencia de vida

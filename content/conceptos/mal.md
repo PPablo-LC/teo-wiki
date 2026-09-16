@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mal
 tags: ["dogmática"]
 
-timestamp: 2026-07-01
+timestamp: 2026-09-15
 description: "El mal no es una naturaleza o esencia positiva, sino la privación del bien que debe poseerse (*privatio boni*). No tiene ser en sí mismo, sino que existe en el bien como en su sujeto."
 ---
 # Mal
 
 > Área: Dogmática
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -40,6 +40,10 @@ Santo Tomás trata el mal en Iª q.48-49, en continuidad con la tradición agust
 **División del mal (q.48 a.5-6):** El mal se divide en pena (*malum poenae*) y culpa (*malum culpae*). La pena es la privación de la forma o integridad del ser en la criatura; la culpa es la privación de la debida operación en las criaturas dotadas de voluntad (a.5). La culpa tiene más razón de mal que la pena (a.6): por la culpa alguien se hace malo, mientras que la pena no hace malo al que la sufre; Dios es autor del mal de pena (castigo justo), pero no del mal de culpa, que se opone directamente al bien increado.
 
 **Causa del mal (q.49):** El bien es causa del mal solo accidentalmente (a.1): el mal no tiene causa eficiente directa. El fuego, al imprimir su forma, corrompe accidentalmente la forma del agua; la voluntad deficiente actúa sin sujetarse a la regla. Dios no es causa del mal de culpa (a.2): en Él no hay defecto alguno; pero sí causa el mal de pena, en cuanto castigo justo y en cuanto la corrupción de unas cosas acompaña accidentalmente a la producción de otras dentro del orden del universo. No existe un sumo mal como primer principio (a.3): todo ser en cuanto ser es bueno; el mal no puede ser esencial porque no subsiste sin un sujeto bueno. Quienes postularon dos principios (maniqueos) erraron por no remontarse a la causa universal, contentándose con causas particulares.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Todo ente es bueno en sí porque viene de Dios; el mal es **privación** de ser y de bien, no una cosa: la ceguera tiene ser solo como predicado, no en la naturaleza de las cosas (De Ente et Essentia). No hay principio del mal (contra los maniqueos, herencia de la misión dominica de Santo Domingo a los albigenses): los bienes convergen como radios en un centro, el mal «se aparta» en cualquier dirección; solo lo existente puede causar, y un principio totalmente malo sería totalmente inexistente — «el mal es parásito que destruye lo de que vive». La causa del mal no es el Creador ni la naturaleza, sino la **voluntad**: nadie elige el mal como tal sino un bien (el anillo) desordenado; el pecado es discordia con la recta razón o con la ley divina. Dios no causa el pecado: el pecado no tiene causa eficaz sino **defectiva** — Dios «no causa más la dureza del corazón que el sol la oscuridad de un cuarto con las persianas cerradas»; el pecado es aversión de Dios, apartarse de esa luz que nunca se aparta. El mal de culpa es mayor que el mal de pena: separación del bien supremo — contra la época que considera el dolor peor mal que la pérdida de la gracia.
 
 ## Distinciones importantes
 

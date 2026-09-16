@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sabiduría
 tags: ["dogmática", "mística"]
 
-timestamp: 2026-06-21
+timestamp: 2026-09-15
 description: "La sabiduría es el primero y más excelente de los siete dones del Espíritu Santo, que perfecciona la virtud de la caridad dando al alma un conocimiento experimental y gustoso de Dios mismo."
 ---
 # Sabiduría
 
 > Área: Dogmática / Mística
-> Última actualización: 2026-06-21
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -34,6 +34,10 @@ Juan Pablo II dedica una catequesis a Jesús como Sabiduría de Dios. La tradici
 ## Relaciones doctrinales
 
 Ver artículo principal: [[don_de_sabiduría]]
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+El don de sabiduría es «el juicio espiritual»: «el espiritual juzga todas las cosas» (1 Cor 2,15). No juzga por sola razón sino por **connaturalidad** con lo divino — como el justo habla de la justicia de otro modo que el injusto. Selman cita la fórmula dionisiana adoptada por Tomás: la teología que no es solo aprendizaje sino vida es don del Espíritu: «non solum discens sed etiam patiens» — «no solo aprendiendo sino también padeciendo (experimentando) lo que se estudia»; la sabiduría va con la experiencia. También la teología como sabiduría humana (cap. 1 de la fuente): el saber del fin último de todas las cosas, que es la verdad; el fin del universo es la verdad, porque su Hacedor es una Mente.
 
 ## Ver también
 

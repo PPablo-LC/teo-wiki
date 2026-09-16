@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Abstracción
 tags: ["antropología"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-15
 description: "La abstracción es la operación propia del entendimiento agente por la que las esencias o formas inteligibles de las cosas materiales son separadas intelectualmente de las condiciones materiales..."
 ---
 # Abstracción
 
 > Área: Antropología
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -52,6 +52,10 @@ En Royo Marín, la abstracción se presupone como mecanismo natural del conocimi
 **El ser como presencia, no como entidad abstracta (cap. X).** La reacción originaria del hombre ante lo real es el estupor ante las cosas como «presencia»: el ser no es una entidad abstracta sino una presencia que no fabricamos y que se nos impone (SR, `17_capitolo_decimo.md`, §10-20).
 
 **La abstracción deshumanizadora (cap. VII).** La posición del Iluminismo (Diderot, la Enciclopedia) es una «astrattezza disumana»: reduce a la persona y a su acción a esquemas sociopolíticos, negando la idea cristiana de mérito, según la cual la acción humana «mueve» el mundo si es ofrecida a Dios (SR, `14_capitolo_settimo.md`, §31-45).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Las formas de las cosas materiales no son en sí inteligibles para nosotros: hay que abstraerlas de la materia. Los sentidos son pasivos (registran); el intelecto agente ilumina las impresiones y las hace inteligibles — es «como una luz». Contra la doctrina agustiniana de la iluminación: «no es por iluminación divina que obtenemos los conceptos de romboides y roedores» — Dios ha dado a la mente luz suficiente para conocer lo natural («Él es la luz que ilumina a todo hombre que viene al mundo», Jn 1,9). Necesitamos volver a imágenes (*phantasmata*) para pensar: el intelecto humano no tiene la visión simple de los ángeles, y las cosas más lejos de la fuente de luz se diversifican. Conocemos las cosas mismas, no solo nuestras ideas (contra Locke, Hume y Russell): la especie es aquello *por lo que* conocemos, no lo que conocemos — «el ojo no conoce la piedra por la existencia que tiene en el ojo sino que conoce la piedra en su existencia fuera del ojo».
 
 ## Distinciones importantes
 

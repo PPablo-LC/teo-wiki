@@ -9,7 +9,7 @@ description: "Potestad otorgada por Cristo a la Iglesia de remitir los pecados c
 # Perdón de los pecados
 
 > Área: Sacramental
-> Última actualización: 2026-06-21
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -58,6 +58,10 @@ a.6 — La remisión de la culpa es efecto de la penitencia principalmente como 
 ### Según la Catequesis de Juan Pablo II (CrSJP)
 
 Juan Pablo II desarrolla el poder divino de Jesús para perdonar los pecados. Jesús perdona al paralítico: «Hijo, tus pecados te son perdonados» (Mc 2,5), provocando la reacción de los escribas («¿Quién puede perdonar pecados sino solo Dios?»), mostrando así que Jesús obra con poder divino. Perdona a la mujer pecadora en casa de Simón el fariseo (Lc 7,48) y a la mujer adúltera (Jn 8,10-11). La parábola de los dos deudores (Lc 7,41-43) enseña que el perdón gratuito de Dios suscita el amor agradecido. Después de la resurrección, Jesús confiere este poder a los Apóstoles: «Recibid el Espíritu Santo; a quienes perdonéis los pecados, les quedan perdonados» (Jn 20,22-23). El perdón de los pecados brota del sacrificio redentor de Cristo en la cruz (CrSJP, Catequesis 31).
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC usa el perdón de los pecados como una de las tres «flexiones» de la identificación implícita de Jesús con Dios: el episodio del paralítico (Mc 2,1-12; Lc 5,17-26), donde Gesù reivindica el poder de perdonar «in modo fattuale, oltre che con la parola» — el signo visible de la curación autentica la palabra invisible. Kasper: «L'inaudita libertà con la quale Gesù si presenta solleva una domanda: con quale autorità fai tu codeste cose?». El perdón forma parte de la pedagogía revelativa que culmina en la declaración explícita de su divinidad ([[divinidad_de_cristo]]) y está inscrito en la pretensión única de la persona de Jesús ([[pretesa_cristiana]]).
 
 ## Distinciones importantes
 

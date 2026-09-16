@@ -137,6 +137,11 @@ Robert Barron subraya que la gracia es causa de la vida nueva y no su consecuenc
 
 **La gracia en el camino de la verificación (cap. I).** En el método «deja de lado prejuicios y verifica», la gracia acompaña el esfuerzo de sinceridad: el amor a la verdad y la limpieza del corazón —sostenidos por la gracia— son condición de un conocer trasparente (SR, `08_capitolo_primo.md`, §53-75).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La redención del Señor ha hecho de la práctica positiva de la castidad una realidad posible y un motivo de alegría» (SHVS 3). «Con la gracia de Cristo, que brota de su amor esponsal por la Iglesia, todos pueden vivir castamente aunque se encuentren en circunstancias poco favorables» (SHVS 19). Dios, concediendo a los esposos el privilegio de ser padres, «les concede la gracia para cumplir adecuadamente su propia misión»; como ministros de la gracia sacramental del matrimonio están sostenidos por «energías particulares de orden espiritual» (SHVS 37). Los hijos experimentarán los efectos «de la gracia y de la misericordia de Dios en los sacramentos» y serán capaces de vivir la castidad «como don de Dios» (SHVS 74). La ayuda de Dios no falta nunca «si se pone el empeño necesario para corresponder a la gracia de Dios» (SHVS 74).
+
+
 ## Distinciones importantes
 
 - Gracia santificante (habitual) vs. gracias actuales

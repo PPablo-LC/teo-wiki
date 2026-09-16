@@ -9,11 +9,18 @@ description: "La templanza es la cuarta de las virtudes cardinales, virtud infus
 # Templanza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-09-15
 
 ## Definición
 
 La templanza es la cuarta de las virtudes cardinales, virtud infusa que modera el apetito concupiscible en los deleites sensibles, especialmente en los placeres del tacto (comida, bebida y concupiscencia sexual), manteniéndolos dentro de los límites de la recta razón iluminada por la fe.
+
+## Perspectivas por fuente
+
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La castidad «se coloca en el interior de la templanza —virtud cardinal que en el bautismo ha sido elevada y embellecida por la gracia» (SHVS 4). La formación a la castidad «implica la colaboración prioritaria de los padres también en la formación de otras virtudes como la templanza, la fortaleza, la prudencia. La castidad, como virtud, no subsiste sin la capacidad de renuncia, de sacrificio y de espera» (SHVS 5). El dominio de sí «presupone virtudes como el pudor, la templanza, el respeto propio y ajeno y la apertura al prójimo» (SHVS 55).
+
 
 ## Relaciones doctrinales
 

@@ -9,7 +9,7 @@ description: "La dignidad humana es el valor intrínseco e inalienable de la per
 # Dignidad humana
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -114,6 +114,15 @@ JPII desarrolla la relación entre la Encarnación y la dignidad humana en las c
 **Han Solo vs. C3PO: el juicio humano (Worner).** C3PO, el droid de *Star Wars*, «domina seis millones de lenguas», entiende usos y protocolos intergalácticos, tiene dominio de los datos y los cálculos estadísticos y sabe pilotar naves; sin embargo, «no estoy seguro de que haga juicios. Más bien parece que hace cálculos que conducen a una respuesta decisiva». Seres humanos como Han Solo son «desordenados. Seres de carne y hueso con emociones y puntos ciegos, creencias y prejuicios», que hacen juicios informados no solo por datos sino «por la experiencia y el instinto, el sentido común y la intuición» [EAC-19, 04_midnight_oil.md, L49-53]. La raíz profundamente humana del juicio hace confiar en el impulso genuinamente humano más que en uno artificialmente humano: «para las decisiones más consecuentes de la vida, prefiero confiar en mi esposa y mi familia, mi sacerdote y mi médico» [EAC-19, 04_midnight_oil.md, L55-57].
 
 **El robo de la plena humanidad de los artistas (Stewart).** La escritora Haley Stewart advierte que la apropiación por la IA de la propiedad intelectual humana para entrenar algoritmos y la sustitución del trabajo creativo por atajos generados por IA amenazan «el robo de la plena humanidad de los artistas» cuando el «trabajo creativo de adoración» queda disminuido por atajos de la IA [EAC-19, 17_feature_stewart.md, L45-47]. El trabajo que la creación artística exige es «difícil, santificante, motivado por el amor—trabajo para el que los seres humanos están diseñados»; el robo de esa labor produce «no solo arte sin alma sino el robo de nuestra humanidad» [EAC-19, 17_feature_stewart.md, L43].
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC funda la dignidad humana en la dependencia directa de la persona respecto de Dios: «Ogni uomo possiede un principio originale e irriducibile, fondamento di diritti inalienabili, sorgente di valori»; «tutto il mondo non vale la più piccola persona umana», desde la concepción hasta la decrepitud ([[valía_personal]], [[dependencia_de_dios]]). Esta dignidad no es atribuible ni revocable por nadie: «gode di un valore e di un diritto in sé». El criterio del Juicio final (Mt 25,31-46) la confirma: lo que se hace al más pequeño se hace a Él; y el envío misionero (Mt 10,28-33: los pajarillos, los cabellos contados) la protege contra todo miedo. En la concepción giussaniana, la dignidad es inseparable de la revelación de la persona que Gesù trae al mundo: «È la scoperta della persona che con Gesù entra nel mondo».
+
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+El pudor y la modestia han de estar «hondamente arraigados en el respeto del propio cuerpo y de la dignidad de los demás» (SHVS 56). En la cultura del placer «la mujer puede llegar a ser un objeto para el hombre, los hijos un obstáculo para los padres» (SHVS 11); el desorden en el uso del sexo hace «del placer —en vez del don sincero de sí— el fin de la sexualidad, y reduce a las otras personas a objetos para la propia satisfacción» (SHVS 105). Una sana cultura del cuerpo lleva «a la aceptación de sí como don y como encarnación de un espíritu llamado a la apertura hacia Dios y hacia la sociedad» (SHVS 106); la educación se sitúa plenamente en el horizonte de la «civilización del amor» (SHVS 60).
+
 
 ## Distinciones importantes
 

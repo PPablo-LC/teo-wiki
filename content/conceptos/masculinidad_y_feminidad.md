@@ -33,6 +33,11 @@ En la resurrección de los cuerpos, la masculinidad y la feminidad permanecen co
 
 El cuerpo del varón y de la mujer es dado como tarea al espíritu: mediante una adecuada madurez del espíritu se convierte en signo de la persona y en auténtica «materia» en la comunión de las personas (Catequesis 59). En el matrimonio, la masculinidad y la feminidad son el lenguaje del cuerpo en el que se realiza el significado esponsal y la comunión conyugal.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«Feminidad y masculinidad son dones complementarios, en cuya virtud la sexualidad humana es parte integrante de la concreta capacidad de amar que Dios ha inscrito en el hombre y en la mujer» (SHVS 10). «Esta diversidad, unida a la complementariedad de los dos sexos, responde cumplidamente al diseño de Dios según la vocación a la cual cada uno ha sido llamado» (SHVS 13). Durante los años de la inocencia el niño aprende «qué significa ser una mujer o un hombre»; no se han de ignorar «las efectivas diferencias entre ambos sexos»; el niño aprende que su masculinidad «aunque sea un don divino, no es signo de superioridad respecto a las mujeres»; la madre ayuda a desarrollar en las hijas «las cualidades de la feminidad y de la maternidad»; el padre, con «dignidad varonil, sin machismos», será modelo para hijos e hijas (SHVS 80-82, 59). El primer principio operativo exige «el respeto profundo de la diferencia entre hombre y mujer que refleja el amor y la fecundidad del Dios mismo» (SHVS 122).
+
+
 ## Distinciones importantes
 
 - **Masculinidad/feminidad** ≠ **mero sexo biológico**: designan la dimensión personal de la corporeidad sexuada, no solo la diferencia anatómica.
@@ -41,11 +46,11 @@ El cuerpo del varón y de la mujer es dado como tarea al espíritu: mediante una
 
 ## Relaciones doctrinales
 
-La masculinidad y la feminidad se relacionan con la [[comunión_de_personas]], el [[significado_esponsal_del_cuerpo]], la [[donación_mutua]], la [[imagen_de_dios]], la [[inocencia_originaria]] y el [[sacramento_del_matrimonio]].
+La masculinidad y la feminidad se relacionan con la [[comunión_de_personas]], el [[significado_esponsal_del_cuerpo]], la [[donación_de_sí]], la [[imagen_de_dios]], la [[inocencia_originaria]] y el [[sacramento_del_matrimonio]].
 
 ## Ver también
 
-[[comunión_de_personas]], [[significado_esponsal_del_cuerpo]], [[donación_mutua]], [[imagen_de_dios]], [[varón_y_mujer]], [[inocencia_originaria]], [[sacramento_del_matrimonio]]
+[[comunión_de_personas]], [[significado_esponsal_del_cuerpo]], [[donación_de_sí]], [[imagen_de_dios]], [[varón_y_mujer]], [[inocencia_originaria]], [[sacramento_del_matrimonio]]
 
 ## Referencias
 

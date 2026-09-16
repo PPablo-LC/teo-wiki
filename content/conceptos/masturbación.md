@@ -35,6 +35,11 @@ CEC §2352: «Por masturbación se ha de entender la excitación voluntaria de l
 
 **Alejandro VII** (1666, D‑1124) condenó la proposición: «La masturbación, la sodomía y la bestialidad son pecados de la misma especie ínfima, y por tanto basta decir en la confesión que se procuró la polución.» Condenada como escandalosa. La condena reafirma que son pecados de especies distintas y deben especificarse en la confesión.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La *masturbación* constituye un desorden grave, ilícito en sí mismo, que no puede ser moralmente justificado, aunque "la inmadurez de la adolescencia, que a veces puede prolongarse más allá de esa edad, el desequilibrio psíquico o el hábito contraído pueden influir sobre la conducta, atenuando el carácter deliberado del acto, y hacer que no haya siempre falta subjetivamente grave"» (SHVS 103). «Se debe ayudar a los adolescentes a superar estas manifestaciones de desorden que son frecuentemente expresión de los conflictos internos de la edad y no raramente de una visión egoísta de la sexualidad» (SHVS 103).
+
+
 ## Distinciones importantes
 
 - **Masturbación vs. acto conyugal**: la masturbación separa el placer sexual de su contexto relacional y procreativo

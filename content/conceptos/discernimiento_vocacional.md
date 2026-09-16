@@ -49,6 +49,11 @@ Juan Pablo II sitúa el discernimiento en el contexto de la confianza en el Esp�
 
 La conciencia moral debe ser debidamente formada para el discernimiento vocacional (CEC §1788). La petición «no nos dejes caer en la tentación» supone el discernimiento espiritual de las propias debilidades (CEC §2839, §2847-2848). «Por la oración, podemos "discernir cuál es la voluntad de Dios" y obtener "constancia para cumplirla"» (CEC §2826). El discernimiento de la vocación específica incluye también la consideración de los carismas eclesiales y la llamada del Espíritu Santo a través de la comunidad.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La adolescencia es «el período de la proyección de sí, y por tanto, del descubrimiento de la propia vocación»; ayudar a los hijos a cumplirla «constituye en definitiva la cumbre de su misión de padres». «En la vida de cada fiel laico hay *momentos particularmente significativos y decisivos* para discernir la llamada de Dios... Entre ellos están los momentos de la *adolescencia y de la juventud*» (SHVS 98). «Es fundamental que los jóvenes no se encuentren solos a la hora de discernir *su vocación personal*»: son importantes «el consejo de los padres y el apoyo de un sacerdote o de otras personas adecuadamente formadas»; el «*sígueme* de Cristo se puede escuchar a través de una diversidad de caminos» (SHVS 99).
+
+
 ## Distinciones importantes
 
 - **Discernimiento vocacional** (llamada específica: sacerdocio, matrimonio, vida religiosa) vs. **discernimiento espiritual general** (distinción de mociones interiores, ver [[discernimiento]])

@@ -93,6 +93,11 @@ La familia es «la primera y fundamental escuela de paz» [Muj 06 §7]. La madre
 
 **San José como modelo de padre (JdN_I, cap. 1):** José «debió de enseñar a Jesús el oficio de carpintero en las largas jornadas de convivencia en el taller». «Cristo conoció la amable pesadez del trabajo y la alegría que produce el deber cumplido.» En Jesús se verificó un crecimiento armónico en todos los órdenes: «sabiduría, estatura y gracia» (Lc 2, 52).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La familia es «el lugar normal y originario» para la formación de los hijos en las virtudes y, por tanto, en la castidad; como [[iglesia_doméstica]] es «*la escuela más rica en humanidad*» (SHVS 48). Las ciencias psicológicas y la experiencia concuerdan en destacar «la importancia decisiva... del *clima afectivo que reina en la familia*», especialmente en los primeros años (SHVS 50). La familia cristiana es «capaz de ofrecer una atmósfera impregnada de aquel amor a Dios que hace posible el auténtico don recíproco»; es «la primera y fundamental escuela de socialidad» (SHVS 52). El papel de la familia es decisivo en el nacer de las vocaciones; donde existe una pastoral familiar adecuada «florecen las vocaciones» (SHVS 26). La familia debe ser ante todo «casa de fe y de oración» (SHVS 62). Es «el mejor ambiente para cumplir el deber de asegurar una gradual educación de la vida sexual», con «reservas afectivas capaces de llevar a aceptar, sin traumas, aun las realidades más delicadas» (SHVS 64).
+
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]

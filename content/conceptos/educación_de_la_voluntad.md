@@ -28,6 +28,11 @@ Esta educación es la base de la [[castidad]]: «la verdadera educación para el
 
 > «Si no educamos la voluntad del joven en el sacrificio y en la mortificación, imposible que pueda soportar las pruebas que le depare la vida y, por tanto, que sea feliz a la larga» (JvC-Rel, archivo 09)
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+Durante la niñez los padres han de fomentar en los hijos «el espíritu de colaboración, obediencia, generosidad y abnegación, y favorecer la capacidad de autoreflexión y sublimación»: la potencia intelectual permite «la fuerza y la capacidad de controlar la realidad circundante y... los instintos del cuerpo, y así transformarlos en actividad intelectual y racional». «El niño indisciplinado o viciado tiende a una cierta inmadurez y debilidad moral en el futuro, porque la castidad es difícil de mantener si la persona desarrolla hábitos egoístas o desordenados» (SHVS 86).
+
+
 ## Distinciones importantes
 
 - **Educación de la voluntad vs. intelectualismo**: el simple conocimiento del bien no basta para practicarlo; hay que robustecer la fuerza que decide.

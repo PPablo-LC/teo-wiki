@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Persona divina
 tags: ["dogmática_(trinidad)"]
 
-timestamp: 2026-07-01
+timestamp: 2026-09-15
 description: "En el misterio de la [[trinidad]], cada una de las tres subsistencias relativas en la única naturaleza divina: el Padre, el Hijo y el [[espíritu_santo]]."
 ---
 # Persona divina
 
 > Área: Dogmática (Trinidad)
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -36,6 +36,10 @@ Santo Tomás trata la persona divina en SmTh Iª q.29. La definición de persona
 ### Según Royo Marín (TPCr)
 
 TPCr trata las Personas divinas en el contexto trinitario. La distinción de Personas es real, no meramente conceptual. Cada Persona es idéntica a la esencia divina y distinta de las otras por la relación de origen. La inhabitación trinitaria en el alma justa se atribuye apropiadamente al Espíritu Santo.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La noción de persona se forjó en el debate trinitario del siglo IV: Eunomio usaba *hypóstasis* como «sustancia» (triteísmo), y la Iglesia hubo de acuñar «persona». Tomás ajusta la definición de Boecio («individua substantia rationalis naturae») a «individuo subsistente en naturaleza intelectual»: evita tres «sustancias» en Dios y respeta que Dios no razona (ES inteligencia). La persona divina es una relación subsistente: las relaciones son reales (contra Sabelio) y subsistentes porque idénticas a la naturaleza divina — la paternidad ES el Padre. Cada persona es todo lo que las otras son; los atributos comunes no constituyen personas; hay tres supuestos de una sola naturaleza y una sola existencia («ser el Padre no es ser el Hijo; pero el ser del Padre es el mismo que el del Hijo»): distinción sin división. «Persona» significa lo más perfecto en la naturaleza, y se dice de Dios en modo eminente.
 
 ## Distinciones importantes
 

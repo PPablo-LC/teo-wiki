@@ -3,12 +3,12 @@ type: Concepto Teológico
 title: "Verbo mental"
 description: "El concepto formado en el intelecto como palabra interior por la cual se conoce un objeto: en Dios es el Verbo eterno, en el hombre es el concepto intelectivo."
 tags: ["epistemología", "teología_trinitaria", "tomismo"]
-timestamp: 2026-07-11
+timestamp: 2026-09-15
 ---
 # Verbo mental
 
 > Área: Epistemología / Teología Trinitaria
-> Última actualización: 2026-07-11
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -55,6 +55,10 @@ El Catecismo no dedica un artículo específico al verbum mentis, pero su enseñ
 ### Según Royo Marín (TPCr)
 
 Royo Marín no trata el verbum mentis como tema autónomo, pero presupone su función en la teología del conocimiento y en la vida de oración: el verbum es el medio por el cual el intelecto aprehende las realidades divinas, y el vaciamiento de los verba humana es condición para la contemplación infusa (TPCr, Tercera Parte).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Selman desarrolla la analogía del verbo mental: la concepción interior de la mente es palabra antes que el sonido exterior (verbum cordis, Agustín); «no conozco una cosa si no tengo palabra para ella». Nosotros tenemos muchas palabras; Dios, que piensa todo en un solo acto de intuición, tiene un solo Verbo en el que piensa todas las cosas — por eso hace todo por su Verbo, como el artesano hace según la concepción de su mente: el Verbo es el *ars Dei* (Agustín). El Verbo es la Imagen del Padre y ejemplar de todo lo creado; y toda la Trinidad es hablada en el Verbo, pues el Padre, al pensarse, piensa al Hijo y al Espíritu.
 
 ## Distinciones importantes
 

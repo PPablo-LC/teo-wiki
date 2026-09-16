@@ -8,7 +8,7 @@ description: "Religiosidad espontánea e instintiva de la infancia, fundada en l
 # Religiosidad natural
 
 > Área: Pastoral / Antropología
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -25,6 +25,10 @@ El hombre posee un sentido natural de lo divino (cf. Rm 1,19-20), que en la infa
 Tóth analiza el paso de la religiosidad natural a la religiosidad consciente como el hecho psico-religioso central de la pubertad: «los cambios psíquicos que acontecen en la pubertad tienen su repercusión en la vida religiosa: la religiosidad natural propia del niño pasa a ser en el joven una religiosidad más consciente y más crítica» [JvC-Rel, archivo 11]. Describe ambas fases: «el niño espontáneamente recurre a Dios con amor y fervor, y acepta sin más la religión tal como se practica en su familia»; pero «a la vez que se borran los rasgos infantiles, el adolescente desea cada vez con mayor fuerza fundamentar racionalmente su fe religiosa y vivirla de forma personal», lo cual «no se produce sin combates ni luchas» [archivo 11]. La edad de la pubertad es además «más refractaria a las manifestaciones exteriores de la religiosidad»: entra en crisis el respeto a la autoridad y aparece el respeto humano ante los compañeros [archivo 11].
 
 Para superar esta crisis hay que «suscitar el entusiasmo por la verdad y por la vida sobrenatural, y transformar la confianza propia de la niñez en obediencia consciente y entregada como respuesta agradecida al amor de Dios» [archivo 11]. En la enseñanza, Tóth advierte contra confundir la fe con su resonancia afectiva: es tema educativo clave «la importancia de la vida de fe, que no es lo mismo que el sentimiento religioso (puedo tener fe y no por ello sentirla sensiblemente)» [archivo 13]. El ideal es que «la fe gratuitamente recibida en el bautismo pase a ser un obsequio racional… una fe cimentada en razones convincentes» [archivo 09] (véase [[obsequio_racional_de_la_fe]]).
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC da el contexto de la religiosidad natural: surge de la naturaleza original del hombre que se expresa en preguntas últimas ([[sentido_religioso]]) y se realiza históricamente en la creatividad religiosa de las culturas ([[creatividad_religiosa]]) y en la expectativa de hierofanías ([[hierofanía]]). Su ley interior es la distancia: el genio religioso cuanto más grande, más percibe la desproporción entre el hombre y el Misterio ([[genio_religioso]]). Pero Giussani añade el punto decisivo: la religiosidad natural no es todavía la religiosidad en sentido pleno — la dependencia consciente y vivida del Dios que se ha hecho conocido ([[dependencia_de_dios]]); por eso prepara y exige el acontecimiento de la revelación ([[exigencia_de_revelación]]) y su cumplimiento histórico ([[pretesa_cristiana]]).
 
 ## Distinciones importantes
 

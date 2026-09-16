@@ -3,17 +3,23 @@ type: Concepto Teológico
 title: "Maniqueísmo"
 description: "Herejía dualista fundada por Manes o Mani (siglo III) que postula dos principios eternos e irreconciliables: el Bien (luz) y el Mal (tinieblas)."
 tags: ["herejía", "historia_de_la_teología", "gnosticismo"]
-timestamp: 2026-07-01
+timestamp: 2026-09-15
 ---
 
 # Maniqueísmo
 
 > Área: Historia de la Teología
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-15
 
 ## Definición
 
 El **maniqueísmo** es una doctrina religiosa dualista fundada por Manes o Mani (c. 216–276 d.C.) en Persia. Postula dos principios eternos, increados e independientes: el Bien (luz, espíritu) y el Mal (tinieblas, materia). El mundo visible es el resultado de una mezcla de ambos principios.
+
+## Perspectivas por fuente
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Selman sitúa la doctrina tomista del mal en el contexto anti-maniqueo: la Orden dominica nació de la predicación de Santo Domingo a los albigenses (~1205), herejía maniquea. Contra la tesis de un principio del mal: solo lo existente puede causar; un principio totalmente malo sería totalmente inexistente y se consumiría a sí mismo (como la hiedra que mata el árbol); los bienes convergen como radios en un centro, el mal «se aparta» en cualquier dirección; nada desea lo contrario de su naturaleza. Toda la creación es buena: el mundo no es obra de un principio adversario sino de Dios, que la creó libremente y la conserva.
 
 ## Desarrollo doctrinal
 

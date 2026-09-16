@@ -9,7 +9,7 @@ timestamp: 2026-07-01
 # Egoísmo
 
 > Área: Moral / Ascética
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -30,6 +30,11 @@ El CEC §2534-2540 enseña que el décimo mandamiento prohíbe la codicia de los
 El egoísmo es la caricatura del justo amor a sí mismo. El muchacho egoísta «cree ser el centro del universo, que todo el mundo está hecho para él y que todos los hombres están para servirle» [JvC, Cap. I]. Juzga los grandes acontecimientos según la ventaja que para él representan. Cuanto más pequeño es el niño, más vive bajo el poder de los sentidos y es más egoísta.
 
 Hay egoísmo cuando un estudiante rico describe ante su compañero pobre las vacaciones que ha disfrutado; cuando uno se ríe cuando hay motivo de tristeza en la familia; cuando se burla siempre de los otros. En cambio, la nobleza del alma es lo contrario del egoísmo: compartir el desayuno, ayudar al compañero, alegrarse con el que se alegra, tratar con amabilidad a los extraños.
+
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La castidad es la energía espiritual que libera el amor del egoísmo y de la agresividad. En la misma medida en que en el hombre se debilita la castidad, su amor se hace progresivamente egoísta, es decir, deseo de placer y no ya don de sí» (SHVS 16). «La persona casta no está centrada en sí misma, ni en relaciones egoístas con las otras personas» (SHVS 17). El desorden sexual «debilita tanto el sentido del verdadero amor entre hombre y mujer —siempre abierto a la vida— como la misma familia», en una sociedad disgregada «por el choque violento entre los varios individualismos y egoísmos» (SHVS 105, 60).
+
 
 ## Relaciones doctrinales
 

@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Oración
 tags: ["ascética", "mística"]
 
-timestamp: 2026-09-13
+timestamp: 2026-09-15
 description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno); conciencia de sí hasta el fondo que se topa con un Otro según Giussani."
 ---
 
 # Oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -179,6 +179,15 @@ El número 23 de *Evangelization & Culture* está dedicado íntegramente a la or
 Para Giussani, «el valor de la oración está en que pide explícitamente aquello que desea»: pedir es el modo de educar el deseo y de reconocer la dependencia (AED, 12, 107-111). La oración se alimenta de todo lo que la recuerda: «este es el valor de la preghiera… el valor de todo lo que te recuerda, en primer lugar la casa» — la casa favorece la disponibilidad precisamente porque te recuerda a Cristo (AED, 12, 109). De ahí la unión entre oración y regla: «en lugar de oración y compañía deberíamos usar una única palabra… Regla», porque «la regla es el camino al destino» (AED, 12, 111).
 
 La oración encuentra su forma concreta en la compañía: su «milagro» es que se convierte en «la autoridad de nuestra vida» — no un poder externo, sino la carne viva de la memoria de Cristo que sostiene el pedir diario (AED, 12, 113-115).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La oración es «una elevación de la mente a Dios» (*oratio est ascensus mentis in Deum*, Damaseno): acto de la mente movido por la voluntad — viene del corazón, por la caridad. Las palabras no son siempre necesarias, pero ayudan a despertar la devoción interior; lo que más la despierta es la humanidad de Cristo. Su duración: mientras despierte fervor de deseo. El deseo de caridad hace la oración continua (actual o virtualmente): así interpreta Tomás «orad sin cesar» — asidua aunque estemos ocupados en las tareas diarias.
+
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La familia debe ser ante todo «casa de fe y de oración» (SHVS 62). Los padres han de poner siempre su confianza en Dios «a través de la invocación al Espíritu Santo, el dulce Paráclito, dador de todos los bienes», pidiendo la intercesión de María Inmaculada y de San José (SHVS 150). Entre los medios del crecimiento casto: «recurso frecuente a la oración y a los sacramentos de la Penitencia y de la Eucaristía» (SHVS 71); para valorar qué decir a cada hijo, «los padres pidan ante todo luces al Señor en la oración» (SHVS 75).
+
 
 ## Distinciones importantes
 

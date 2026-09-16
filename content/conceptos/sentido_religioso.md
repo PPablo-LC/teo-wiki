@@ -7,7 +7,7 @@ timestamp: 2026-09-12
 ---
 
 > Área: Teología fundamental / Filosofía de la religión
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-15
 
 # Sentido religioso
 
@@ -32,6 +32,10 @@ La obra que da nombre al concepto lo expone en los capítulos IV, V, X y XI. En 
 - **Itinerario** — estupor de la presencia, cosmos, realidad providencial, yo dependiente, ley en el corazón (cap. X)
 - **Carácter exigencial** — verdad, justicia, felicidad y amor como remisión a un «Oltre» (cap. XI)
 - **Razón en plenitud** — no es un salto irracional sino la razón desarrollada hasta su nivel último (cap. IX)
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC retoma el sentido religioso como punto de partida del segundo volumen del PerCorso: la introducción (ODPC 04) lo define como «aquella naturaleza original del hombre por la cual se expresa exhaustivamente en preguntas «últimas», buscando el porqué último de la existencia en todas las pliegues de la vida»; coincide con la dimensión racional y con la razón «en su aspecto último y profundo» (Montini: «síntesis del espíritu»; Tomás: *Anima est quodammodo omnia*, De Veritate II a.2). El sentido religioso determina todos los pasos del movimiento humano: «la vida humana resulta proyecto desarrollado por aquel impulso global». La palabra «Dios» marca el objeto propio de este deseo último (los himnos egipcios al Nilo y a Akhenaton), y su contenido último — el Misterio inabarcable — genera la «condición vertiginosa» de la existencia ([[vertigine_dell_esistenza]]). Del sentido religioso brota la creatividad de las religiones ([[creatividad_religiosa]]) y la exigencia de revelación ([[exigencia_de_revelación]]), y su culminación es el encuentro con el acontecimiento de Cristo: «Cristo se pone como respuesta a lo que soy «yo»».
 
 ## Distinciones importantes
 

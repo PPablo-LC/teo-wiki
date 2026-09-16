@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Providencia
 tags: ["dogmática"]
-timestamp: 2026-09-13
+timestamp: 2026-09-15
 description: "La divina providencia es la disposición con que Dios conduce todas las criaturas hacia su fin último; el cosmos y la vida como don de un Tú que nos hace según Giussani."
 ---
 
 # Providencia
 
 > Área: Dogmática
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -98,6 +98,10 @@ La fuente muestra la providencia en tres modos:
 - **La providencia «seguida», no interrogada** (cap. 9, Cottolengo): «Io non interrogo la Provvidenza, preferisco seguirla... La Divina Provvidenza però sa certamente ciò che vuole. A me tocca solo assecondarla». Y ante el ministro de Carlo Alberto: «Se poi fossero necessari miracoli, essa è capace di farli... La banca della Divina Provvidenza non fallirà mai! Io sono più certo della Divina Provvidenza che se esista la città di Torino». Su confianza se prueba en la crisis: el «abandono de Dios» se explica por la falta de fe — «Ho mancato di fiducia!» — y se remedia llenando de pobres las cámaras vacías.
 - **La providencia como «coincidencias significativas»** (cap. 5, Edith Stein): su vida está tejida de intrecci providenciales: nace el día del Kippur (festa della Espiazione); su madre muere en la Exaltación de la Santa Cruz mientras ella renueva los votos; nace en el tercer centenario de la muerte de San Juan de la Cruz y muere en el cuarto centenario de su nacimiento, interrumpiendo la *Scientia Crucis* justo donde narra la muerte del Santo — porque debe «sperimentare di persona». Las coincidencias «fa intuire che cosa significhi che tutta la nostra storia è intessuta secondo un provvidenziale disegno di Dio».
 - **La providencia en la misión** (cap. 7, don Bosco): ante la pregunta por el «milagro» de tantas casas fundadas: «Ho potuto fare più di quello che speravo, ma il come non lo so neppure io. La Santa Vergine, che sa i bisogni dei nostri tempi, ci aiuta... Ho pregato e ho confidato nella Madonna». Y la protección concreta: la promesa del cólera de 1854 («Se voi vi mettete tutti in grazia di Dio... nessuno di voi sarà colpito dalla peste») cumplida entre 2500 enfermos y 1400 muertos.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La providencia es la idea de Dios que ordena todo a un fin, el bien divino; su fuente es la sabiduría divina. Su alcance es universal: «si algo estuviera excluido de su providencia, se aniquilaría», pues escaparía de la causa universal del ser; Dios no está fuera de su creación (como el alfarero del vaso) sino en ella sosteniéndola. Incluye el azar, la necesidad y la contingencia: los acontecimientos son totalmente de Dios y totalmente de las causas secundarias (*in virtute divina*); «lejos de contradecir la providencia, el azar la presupone y la prueba» — lo no intencional presupone lo intencional. El mal cae dentro de la providencia porque cae dentro la libertad; incluso el mal puede llevar a un bien (la maldad de los perseguidores, causa de la virtud de los mártires). La oración no cambia el plan: **es parte del plan** — «Dios concede algunas cosas que sabe serán pedidas»; orar no informa a Dios, sino que muestra el deseo y dispone a recibir; «no movemos a Dios con la oración: Él nos mueve a orar».
 
 ## Distinciones importantes
 

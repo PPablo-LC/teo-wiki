@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Justicia Original
 tags: ["dogmática"]
 
-timestamp: 2026-08-06
+timestamp: 2026-09-15
 description: "Estado de santidad y justicia en que Dios constituyó a nuestros primeros padres Adán y Eva antes del pecado original."
 ---
 # Justicia Original
 
 > Área: Dogmática
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -108,6 +108,10 @@ El hombre fue creado en estado de justicia original, con el don de integridad (p
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 En el estado de justicia original existía perfecta armonía entre las tendencias sensitivas y la voluntad; el pecado original alteró esta armonía, pues la naturaleza humana quedó herida por la concupiscencia (fomes peccati), que proviene del pecado e inclina a pecar. La gracia no ha restaurado plenamente la armonía: el hombre caído, aunque redimido, no posee total dominio de los propios movimientos sensitivos, si bien con la gracia es capaz de vencer los desórdenes graves (Ele_Xto_Stos, Cap. V, §4).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+El pecado original es el «pecado de la naturaleza» (*peccatum naturae*): transmitido por generación, no por imitación, pues todos somos partes de la naturaleza humana. No viene primero de la naturaleza sino de la voluntad y la culpa del primer hombre: la justicia original — la armonía del apetito con la razón y de la mente con Dios — fue dada a Adán como don de gracia para transmitir a su descendencia; su pérdida en los descendientes es una especie de injusticia. Justificar es restaurar esa justicia perdida.
 
 ## Distinciones importantes
 

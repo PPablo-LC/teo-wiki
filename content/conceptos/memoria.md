@@ -9,7 +9,7 @@ description: "Potencia del alma humana que tiene la capacidad de retener y evoca
 # Memoria
 
 > Área: Antropología
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -42,6 +42,10 @@ La memoria se alimenta de todo lo que te la evoca, «en primer lugar la casa»: 
 - Memoria sensitiva (retención de imágenes sensibles) vs. memoria intelectual o reminiscencia
 - La memoria es potencia del alma sensitiva, pero en el hombre está informada por el espíritu
 - La purificación de la memoria es necesaria para la unión con Dios
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC aplica la memoria al documento evangélico: los Evangelios no son estenografías ni protocollos, sino memoria y anuncio: «el recuerdo de un hecho excepcional transmitido por alguien que lo considera vital comunicar a otros» (Dei Verbum 19). La memoria no retiene un hilo ininterrumpido de hechos, sino puntos emergentes que llenan de sentido: así Jn 1,35-51 funciona como apunte personal que el recuerdo completa. Eliade: el elemento esencial del cristianismo como religión fundada es precisamente «la memoria: es el recuerdo de Gesù lo que constituye el modelo para todos los cristianos». La memoria exige además hacerse provocar por la totalidad del hecho: los recortes la vuelven incomprensible (von Balthasar). Conlleva también una regla de verificación: la memoria del testigo vale por la vida compartida — la convivencia es su título de legitimidad ([[evangelios]], [[convivenza]]).
 
 ## Relaciones doctrinales
 

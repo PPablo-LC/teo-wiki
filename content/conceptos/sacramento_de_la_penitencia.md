@@ -30,6 +30,11 @@ Jesucristo con su misterio pascual es la causa meritoria y eficiente de la conve
 
 La vía ordinaria para la remisión de los pecados cometidos después del bautismo es el sacramento de la penitencia. (Ele_Xto_Stos, Cap. XI, §9)
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«Una ayuda necesaria y sobrenaturalmente eficaz es frecuentar el Sacramento de la reconciliación, especialmente si se puede contar con un confesor fijo» (SHVS 74). Entre los consejos para crecer en el amor: «recurso frecuente a la oración y a los sacramentos de la Penitencia y de la Eucaristía» (SHVS 71). Los padres deben procurar que los hijos «frecuenten conscientemente los sacramentos, yendo por delante con su ejemplo» (SHVS 74); se recuerda también «el valor pedagógico de la confesión personal» en la adolescencia (SHVS 102).
+
+
 ## Distinciones importantes
 
 - Es la vía ordinaria para la remisión de los pecados cometidos después del bautismo.

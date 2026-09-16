@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Contemplación
 tags: ["mística"]
 
-timestamp: 2026-09-11
+timestamp: 2026-09-15
 description: "La contemplación infusa es una simple intuición de la verdad divina procedente de la fe ilustrada por los dones de entendimiento, sabiduría y ciencia en estado perfecto."
 ---
 # Contemplación
 
 > Área: Mística
-> Última actualización: 2026-09-11
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -126,6 +126,10 @@ Dietrich von Hildebrand («Minds: Technology & Its Dangers») y Daniel Granitto 
 **La liturgia divina como suprema contemplación.** Según Benedicto XVI (citado por DeClue), la liturgia es *opus Dei*, la obra de Dios: «Lo primero y principal es que Dios actúa en ella» (Aidan Nichols). La Eucaristía es anticipación de la liturgia celestial (cf. Is 25,6-9; Ap 19,7-9). La *logiké latreía* — «culto espiritual» (Rom 12,1) — significa que la Eucaristía, al abarcar la existencia concreta del creyente, «hace posible, día a día, la transformación progresiva de todos aquellos llamados por la gracia a reflejar la imagen del Hijo de Dios» (cf. Rom 8,29) (Benedicto XVI, *Sacramentum Caritatis* 70-71; 15_feature_declue.md).
 
 **La oración conducente a la misión.** Barron subraya que el fruto de la oración en la tradición bíblica es siempre «acción en favor del mundo»: somos «esencialmente una religión misionera». Incluso los momentos más altos de la unión mística están destinados a «conducir a hacer la obra de Dios en el mundo». Bernard, Juan de la Cruz, Teresa de Ávila, Meister Eckhart, Thomas Merton — todos vieron «este vínculo esencial entre la oración y la acción» (09_spotlight_intro_prayer.md).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La contemplación es «consideración de la verdad»: fin de la vida humana incluso en la tierra, porque es el comienzo de la bienaventuranza (imperfecta en esta vida). Acto del intelecto con fuente en el afecto: la caridad mueve a contemplar; «la perfección última de la vida contemplativa es que la verdad divina no solo sea vista sino también amada». Se distingue de la petición porque no se hace para un fin sino por sí misma, y por la mayor caridad y deleite que la acompañan; se pide en la oración como don de sabiduría. En la patria, la fe dará paso a la visión y solo la caridad gozará de Dios.
 
 ## Distinciones importantes
 

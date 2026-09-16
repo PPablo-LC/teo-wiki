@@ -59,6 +59,11 @@ El capítulo 11 (S. María Goretti) defiende la pureza del martirio contra dos r
 - **El cuerpo como lugar donde el yo se comunica**: las ciencias humanas han llegado a decir que no se trata solo de «avere un corpo» sino «di 'essere un corpo', perché il corpo è il luogo in cui l'io si comunica e si realizza» — «è esattamente ciò che la Chiesa ha sempre inteso insegnare quando ha parlato della 'santità' e della 'purezza' del corpo umano». Todo intervención que lacere, manipule o «priva di storia» ese rapporto humilla la persona — «anche se è la persona stessa che lo vuole».
 - **La progenie del ejemplo**: el ataque laicista citaba ironizando a Pierina Morosini; Juan Pablo II la beatificó junto con Antonia Mesina (4-X-1987): dos «vergini e martiri» del mismo cuadro, presentadas a la sociedad actual como «sentiero luminoso per quanti avvertono il fascino delle sfide evangeliche».
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La pureza de mente y de cuerpo ayuda a desarrollar el verdadero respeto de sí y al mismo tiempo hace capaces de respetar a los otros, porque ve en ellos personas, que se han de venerar en cuanto creadas a imagen de Dios y, por la gracia, hijos de Dios, recreados en Cristo» (SHVS 17). La conclusión del documento invoca a «María Inmaculada, Virgen Madre del amor hermoso y modelo de la pureza fiel» y a San José, «su esposo justo y casto», y recuerda la bienaventuranza: «Bienaventurados los puros de corazón, porque verán a Dios» (Mt 5, 8) (SHVS 150).
+
+
 ## Distinciones importantes
 
 - **Pureza del cuerpo vs. pureza del espíritu**: la primera se refiere a la castidad externa; la segunda, a la rectitud de los pensamientos y deseos internos.

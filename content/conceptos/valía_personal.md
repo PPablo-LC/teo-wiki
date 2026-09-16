@@ -9,7 +9,7 @@ timestamp: 2026-08-23
 # Valía personal
 
 > Área: Antropología / Análisis cultural / Dignidad humana
-> Última actualización: 2026-08-23
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -39,6 +39,10 @@ Brown dedica el capítulo 5 («Explorar el poder del amor, la pertenencia y la v
 ## Analizado en contexto cultural
 
 - [[los_dones_de_la_imperfeccion_brene_brown]] — la valía personal como núcleo de la vida de todo corazón; convergencia con la dignidad humana creada; tensión por falta de fundamentación metafísica.
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC ofrece la formulación más tajante de la valía de la persona: «Tutto il mondo non vale la più piccola persona umana; questa non ha nulla di paragonabile a sé nell'universo, dal primo istante della sua concezione fino all'ultimo passo della sua decrepita vecchiaia. Ogni uomo possiede un principio originale e irriducibile, fondamento di diritti inalienabili, sorgente di valori». El valor no se confunde con las reacciones que inducimos: la persona «gode di un valore e di un diritto in sé, che nessuno può attribuirle o toglierle». Su fundamento no es el mundo sino el relación directo exclusivo con Dios ([[dependencia_de_dios]]): los ángeles de los pequeños (Mt 18,10), los cabellos contados (Mt 10,28-33), «¿qué ganará el hombre si gana el mundo entero y pierde su alma?» (Mt 16,26). La pasión por el singular es el rasgo de la mirada de Gesù ([[mirada_de_cristo]]): «il problema dell'esistenza del mondo è la felicità del singolo uomo».
 
 ## Distinciones importantes
 

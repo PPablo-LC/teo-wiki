@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Divinización
 tags: ["soteriología", "gracia"]
 
-timestamp: 2026-09-05
+timestamp: 2026-09-15
 description: "La divinización (*theosis*) es la participación del hombre en la naturaleza divina por la gracia (2 P 1,4)."
 ---
 # Divinización
 
 > Área: Soteriología / Gracia
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -40,6 +40,10 @@ Matthew David Bulman relaciona la conversión con la [[divinización]]: el fin d
 Andrew Allen muestra el itinerario de la iniciación cristiana como el camino sacramental de la divinización: por el [[bautismo]] y las demás etapas del [[catecumenado]], el cristiano es incorporado a Cristo e introducido progresivamente en la comunión trinitaria [EAC-18, 16_feature_allen.md].
 
 La divinización aparece así no como una doctrina exótica, sino como la consumación de la gracia bautismal: el cristiano participa de la vida de Dios (2 Pe 1,4) y es llamado a vivir ya como hijo en el Hijo [EAC-18, 14, 16].
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Tomás integra la línea de los Padres griegos: la gracia divinizante, «hechos partícipes de la vida divina» (2 P 1,4). La gracia es semejanza participada de la naturaleza divina: *semejanza*, porque nos hace alcanzar la imagen en que estamos hechos; *participada*, porque la recibimos siendo recreados. La deificación plena es la visión: «seremos semejantes a Él cuando le veamos como es» (1 Jn 3,2) — cara a cara, no en imagen; para ella se necesita la luz de gloria, que refuerza el intelecto. «Dios solo nos diviniza comunicándonos un consorcio (*consortium*) en la naturaleza divina por alguna semejanza compartida».
 
 ## Distinciones importantes
 

@@ -237,6 +237,11 @@ Giussani interpreta el capítulo 19 de Mateo a la luz de la vocación: la relaci
 
 La indisolubilidad —«la eternidad dentro de una relación humana»— es imposible al hombre «si no tiene delante a Dios» (AED, 33, 65). El reino de los cielos «hace resultar la belleza, la certeza, la permanencia y la libertad de esa relación» vista en su fin último (AED, 33, 75). De ahí la fórmula que resume la moralidad del amor: «que el amor haga fácil la fidelidad, para que la fidelidad haga cierto el amor»; la fidelidad es «el lazo entre el amor y la totalidad», la moralidad del amor (AED, 33, 83-85).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+El matrimonio no es «el resultado de conveniencias ni de una mera atracción sexual»: por ser una vocación «comporta siempre una elección bien meditada, el mutuo compromiso ante de Dios, y la constante petición de su ayuda en la oración» (SHVS 27). Es «una sabia institución del Creador para realizar en la humanidad su designio de amor»; en los bautizados reviste «la dignidad de signo sacramental de la gracia, en cuanto representa la unión de Cristo y de la Iglesia» (SHVS 28). Es «una *communio personarum*» con cierta semejanza a la unión de las Personas divinas (SHVS 28). El don del sacramento «es al mismo tiempo vocación y mandamiento para los esposos cristianos, para que permanezcan siempre fieles entre sí, por encima de toda prueba y dificultad» (SHVS 30). El documento enseña también el «sentido vocacional del matrimonio, que nunca debe ser considerado por un cristiano sólo como una aventura humana» (Ef 5, 32: «Gran misterio es éste, lo digo respecto a Cristo y a la Iglesia») (SHVS 101).
+
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento

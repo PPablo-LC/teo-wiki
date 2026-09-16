@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Imagen de Dios
 tags: ["dogmática", "antropología_teológica"]
 
-timestamp: 2026-09-13
+timestamp: 2026-09-15
 description: "El hombre ha sido creado \"a imagen y semejanza de Dios\" (Gn 1,26)."
 ---
 # Imagen de Dios
 
 > Área: Dogmática / Antropología teológica
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -147,6 +147,15 @@ Bobby Angel sitúa la comedia dentro del imago Dei: «En materia teológica, la 
 Giussani capta el nervio de la imagen de Dios en la capacidad de sentir: «¡Es hermoso que el hombre sea tan capaz de sentir — casi como Dios!»; «está llamado a sentir a Dios» (AED, 15, 187-189). Por eso la semejanza con Dios se mide por la intensidad con que todo atrae: «cuanto más te asemejas a Dios —es decir, cuanto más todo te atrae—, tanto más el corazón de tu existencia coincide con el dolor». Y quien «se asemeja» más a Dios es Jesús: «¿cuál es el corazón de su existencia? La cruz». Pero la cruz no es la negación de nada: «Padre, perdona a estos hombres, porque no saben lo que hacen» (AED, 15, 205).
 
 Esta semejanza se ejerce como libertad y sacrificio: «la libertad suprema es el mendigar, no es hacer tú alguna cosa», porque únicamente el que reconoce su indigencia radical ante Dios se asemeja a quien se dio ciegamente (AED, 15, 197). «Se habla del sacrificio y se toca el corazón de la cuestión»: el corazón de la cuestión humana se toca con la palabra *sacrificio* (AED, 15, 203), que es la forma suprema de la semejanza con el Crucificado. «Si se parte afirmativamente, todo se vuelve más simple, aunque más doloroso»: «todo lo puedo en Aquel que me conforta» (Flp 4,13) (AED, 15, 185).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La imagen de Dios en nosotros se da de tres maneras: nos conocemos a nosotros mismos (como Dios se conoce y ama); tenemos naturaleza inteligente; y, al pensar, brota en la mente una palabra interior (*verbum cordis*). Selman subraya el énfasis tomista: en nuestra capacidad de **formar palabras**, como Dios engendra su Verbo; en lo irracional solo hay «vestigio». La imagen se completa por la asimilación al Espíritu: somos hechos partícipes del Verbo por el conocer y del amor que procede por el amar.
+
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«El hombre, en cuanto imagen de Dios, ha sido creado para amar. Esta verdad ha sido revelada plenamente en el Nuevo Testamento, junto con el misterio de la vida intratrinitaria: "Dios es amor (1 Jn 4, 8) y vive en sí mismo un misterio de comunión personal de amor. Creándola a su imagen..., Dios inscribe en la humanidad del hombre y de la mujer la vocación y consiguientemente la capacidad y la responsabilidad del amor y de la comunión. El amor es por tanto la vocación fundamental e innata de todo ser humano"» (SHVS 8). La persona casta «ve en los otros personas, que se han de venerar en cuanto creadas a imagen de Dios» (SHVS 17); y Dios ha puesto en el cuerpo humano la capacidad de engendrar, «haciéndonos partícipes de su poder creador» (SHVS 96).
+
 
 ## Distinciones importantes
 

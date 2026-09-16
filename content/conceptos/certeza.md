@@ -7,7 +7,7 @@ timestamp: 2026-09-12
 ---
 
 > Área: Teología fundamental / Epistemología
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-15
 
 # Certeza
 
@@ -24,6 +24,10 @@ La razón humana conoce la realidad con diversos grados de certeza según el tip
 ### Il senso religioso — Luigi Giussani (SR)
 
 En el capítulo II (segunda premisa: razonabilidad), Giussani afirma que la coherencia del hombre con los motivos adecuados produce la certeza moral, y la distingue de la certeza matemática: la libertad interviene en la adhesión. La fe es un acto razonable (el creer en la palabra de otro es admisible si el otro tiene autoridad en la materia). En el capítulo XIII, la «capacidad de certeza» se presenta como fruto de la educación a la libertad: la positividad de partida y la aceptación de la realidad permiten la certeza, frente al «duda sistemática» que paraliza («no hay nada más patológico e improductivo que la duda sistemática»). En el capítulo XI, la razón constata un «inexplicable» y, siendo fiel a sí misma, debe afirmar la respuesta «más allá» del horizonte de la vida, sin poder medirla: el vertiente de la razón es la percepción de un «existente ignoto», el misterio.
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC aplica la certeza existencial (o moral) al problema de Cristo. La certeza moral es «la culla di un'esistenza ragionevole»: nace de una disponibilidad fiel en el tiempo, no de una evidencia inmediata; el juicio exige «includere il tempo della sua durata» ([[convivenza]]). La inteligencia de los indicios es su instrumento: cuanto más potente el hombre, más capta certezzas por pocos indicios (Rousselot: los que no necesitan prodigios para creer no son alabados por creer sin razones, sino por captar una gran verdad con un indicio mínimo); la fe que Jesús solicita es «l'accesso dell'intelligenza a una verità», no credulidad (Tresmontant: el muchacho que aprende a nadar). En los primeros discípulos, la certeza nace de la multiplicación de indicios en la convivencia — prodigios, inteligencia imbatible, bondad, la mirada que revela el corazón — hasta la formulación de Pedro: «Se andiamo via da te, da chi andiamo? Tu solo hai parole che spiegano» ([[confesión_de_pedro]]). Por eso Gesù espera a que el tiempo fije las posiciones antes de revelar explícitamente su misterio: la certeza es libre adhesión, no coacción.
 
 ## Distinciones importantes
 

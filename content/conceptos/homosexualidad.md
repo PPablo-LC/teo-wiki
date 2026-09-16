@@ -24,6 +24,11 @@ La antropología cristiana sitúa la cuestión en el marco de la orientación es
 
 En el contexto de la educación de los hijos, Tóth recoge las orientaciones del Pontificio Consejo para la Familia sobre esta «problemática particular, posible en el proceso de maduración-identificación sexual», que «tiende a difundirse en la moderna cultura urbana» [JvC-Rel, archivo 27]. Los padres que advierten en sus hijos alguna manifestación de dicha tendencia o comportamiento «deben buscar la ayuda de personas expertas y calificadas para proporcionarle todo el apoyo posible» [archivo 27]. La presentación debe evitar «todo juicio de hostilidad» clarificando a la vez «la orientación estructural y complementaria de la sexualidad al matrimonio, a la procreación y a la castidad cristiana»; las personas con estas tendencias están llamadas a realizar la voluntad de Dios en su vida y, si son cristianas, «a unir al sacrificio de la cruz del Señor las dificultades que pueden encontrar a causa de su condición. Las personas homosexuales están llamadas a la castidad» [archivo 27].
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«Es necesario presentar este fenómeno con equilibrio, a la luz de los documentos de la Iglesia»: los jóvenes piden ayuda «para distinguir los conceptos de normalidad y anomalía, de culpa subjetiva y de desorden objetivo, evitando juicio de hostilidad» (SHVS 104). «Su origen psíquico permanece en gran medida inexplicado»; hay que distinguir «entre la tendencia, que puede ser innata, y los actos de homosexualidad que "son intrínsecamente desordenados" y contrarios a la ley natural» (SHVS 104). «Muchos casos... pueden ser resueltos positivamente con una terapia apropiada. En cualquier caso, las personas en estas condiciones deben ser acogidas con respeto, dignidad y delicadeza, evitando toda injusta discriminación»; para la mayoría «tal condición constituye una prueba», a unir «al sacrificio de la cruz del Señor» (SHVS 104). «Las personas homosexuales están llamadas a la castidad» (SHVS 104). El tema no debe abordarse antes de la adolescencia salvo problema concreto (SHVS 125).
+
+
 ## Distinciones importantes
 
 - **Tendencia vs. actos**: la tendencia (posiblemente innata) no es en sí misma culpable; los actos son intrínsecamente desordenados.

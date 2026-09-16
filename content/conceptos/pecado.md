@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pecado
 tags: ["moral"]
 
-timestamp: 2026-08-06
+timestamp: 2026-09-15
 description: "El pecado es «una trasgresión voluntaria de la ley de Dios». Supone tres elementos esenciales: materia prohibida, advertencia del entendimiento y consentimiento de la voluntad."
 ---
 # Pecado
 
 > Área: Moral
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -118,6 +118,10 @@ En el anuncio cristiano el pecado no es un tema primario, sino indirecto y refle
 
 San Agustín elabora un cuerpo de doctrina sobre el pecado que, en sus trazos fundamentales, perdura todavía. Profundizando las enseñanzas de la Sagrada Escritura y la praxis de la Iglesia, y teniendo en cuenta la propia experiencia pecadora y su lucha contra los maniqueos, muestra la psicología de la culpa distinguiendo entre sugestión, delectación y consentimiento, y afirma que el pecado proviene de la libre voluntad desordenada cuando pierde el bien y la rectitud moral debida. Desarrolla la doctrina del pecado como [[aversio_a_deo]] (separación de Dios) y [[conversio_ad_creaturas]] (tendencia desordenada hacia los bienes terrenos): el hombre está ordenado al Bien absoluto, al cual se puede unir también a través de las criaturas; cuando, movido por el amor propio, busca la satisfacción en los bienes finitos contra la voluntad de Dios, contraría la ley divina y se separa de Dios, a la vez que produce un desorden en la vida eclesial y social. En armonía con la Biblia, Agustín enlaza la doctrina sobre el pecado con la fe en la redención realizada por Jesús, la posibilidad de recibir el perdón y la necesidad de la conversión personal. (Ele_Xto_Stos, Cap. XI, §2)
 
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La causa del pecado no es Dios ni la naturaleza, sino la voluntad: nadie elige el mal como tal, sino un bien (el anillo) desordenado — el mal no tiene razón de fin. El pecado es discordia con la recta razón o con la ley divina. Dios no causa el pecado: no tiene causa eficaz sino defectiva; cuando «endurece» un corazón (Faraón), solo lo deja a lo que merece y retiene su gracia, que si se debiera no sería gracia — «Dios no causa más la dureza del corazón que el sol la oscuridad de un cuarto con las persianas cerradas». El pecado es aversión de Dios: apartarse de esa luz que nunca se aparta; el mal de culpa es mayor que el de pena, pues separa del bien supremo. Y el mal daña al que lo hace en el mismo hacerlo: vicia su voluntad.
 
 ## Distinciones importantes
 

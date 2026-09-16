@@ -50,6 +50,11 @@ El aborto es un pecado mortal gravísimo que atenta contra la vida inocente. Con
 - D‑1184: «Es lícito procurar el aborto antes de la animación del feto, por temor de que la muchacha, sorprendida grávida, sea muerta o infamada.» Condenada como escandalosa y perniciosa. La Iglesia afirma que la vida humana debe protegerse desde la concepción, independientemente del estado de desarrollo fetal.
 - D‑1185: «Parece probable que todo feto carece de alma racional, mientras está en el útero, y que sólo empieza a tenerla cuando se le pare; y consiguientemente habrá que decir que en ningún aborto se comete homicidio.» Condenada como escandalosa y perniciosa. La Iglesia sostiene que el alma racional está presente desde la concepción, y que el aborto en cualquier etapa es un grave pecado contra el quinto mandamiento.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+El desorden en el uso del sexo «lleva sucesivamente al desprecio de la vida humana concebida que se considera como un mal que amenaza el placer personal. "La banalización de la sexualidad", en efecto, "es uno de los factores principales que están en la raíz del desprecio por la vida naciente: sólo un amor verdadero sabe custodiar la vida"» (SHVS 105). El carácter inmoral del aborto «procurado quirúrgica o químicamente, antes de la adolescencia puede ser explicado gradualmente en los términos de la moral católica y de la reverencia por la vida humana» (SHVS 137). El documento rechaza «la educación sexual secularizada y antinatalista, que pone a Dios al margen de la vida y considera el nacimiento de un hijo como una amenaza», difundida por organismos promotores del aborto, la esterilización y la contracepción (SHVS 136).
+
+
 ## Distinciones importantes
 
 - **Aborto directo vs. indirecto**: el aborto directo (intencional) siempre es ilícito; el indirecto (consecuencia no querida de un acto lícito) requiere análisis moral particular
@@ -58,7 +63,7 @@ El aborto es un pecado mortal gravísimo que atenta contra la vida inocente. Con
 
 ## Relaciones doctrinales
 
-Se vincula con la [[vida_humana]], la [[dignidad_del_nacer]], la [[cinco_mandamientos]], el [[homicidio]], la [[eutanasia]], la [[procreación]], la [[familia]] y la [[ética_médica]].
+Se vincula con la [[vida_humana]], la [[dignidad_del_nacer]], los [[mandamientos]], el [[homicidio]], la [[eutanasia]], la [[procreación]], la [[familia]] y la [[ética_médica]].
 
 ## Ver también
 [[vida_humana]], [[dignidad_del_nacer]], [[eutanasia]], [[homicidio]], [[procreación]]

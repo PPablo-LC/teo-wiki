@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Satisfacción
 tags: ["dogmática", "sacramental"]
 
-timestamp: 2026-06-12
+timestamp: 2026-09-15
 description: "La satisfacción es la reparación del daño causado por el pecado, ya sea ante Dios (satisfacción vicaria de Cristo o satisfacción sacramental del penitente) o ante el prójimo (restitución)."
 ---
 # Satisfacción
 
 > Área: Dogmática / Sacramental
-> Última actualización: 2026-06-12
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -72,6 +72,10 @@ a.3 — Las obras de satisfacción se enumeran adecuadamente en tres: ayuno (con
 
 ### Según Royo Marín (TPCr)
 La satisfacción infinita de Cristo es el fundamento de la redención. La humanidad era impotente para satisfacer condignamente el pecado de Adán; solo un Dios hecho hombre podía ofrecer una satisfacción plena (TPCr, Primera Parte, Cap. VII, n.57). La satisfacción sacramental, además de la finalidad vindicativa para restablecer el orden conculcado, tiene doble valor: remisivo de la pena temporal (ex opere operato) y medicinal, preservando del pecado futuro (TPCr, Tercera Parte, Libro II, Cap. I, n.546). El valor satisfactorio de las obras impuestas como penitencia sacramental es mucho mayor que si se realizan por propia iniciativa, pues forman parte completiva del sacramento y reciben su fuerza del poder de las llaves (n.548).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Sobre el fondo anselmiano (la justicia exige satisfacción, y solo el Dios-hombre puede ofrecerla), Selman subraya el equilibrio tomista: Cristo murió libremente (*sponte*), queriendo la voluntad del Padre, y su muerte salva «no solo porque cumple los requisitos de la justicia sino por la grandeza del amor con que murió», que fue «más que suficiente». Es sacrificio porque murió libremente por amor: «Cristo se ofreció a sí mismo; otros solo lo mataron». La muerte de Cristo es sacrificio de paz que nos reconcilia con Dios; «hacerse pecado» (2 Cor 5,21) significa hacerse ofrenda por el pecado, no pecador — sobre el fondo de los sacrificios del Levítico (ofrenda de paz, expiación, holocausto); solo quien no tiene pecado puede ser ofrenda por los pecadores.
 
 ## Distinciones importantes
 

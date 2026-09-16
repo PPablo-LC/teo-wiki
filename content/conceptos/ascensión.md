@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ascensión
 tags: ["dogmática"]
 
-timestamp: 2026-06-02
+timestamp: 2026-09-15
 description: "Misterio de la vida de Cristo por el cual, cuarenta días después de su Resurrección, ascendió corporalmente al cielo en presencia de sus discípulos y se sentó a la derecha del Padre."
 ---
 # Ascensión
 
 > Área: Dogmática
-> Última actualización: 2026-06-02
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -36,6 +36,10 @@ La Ascensión es la culminación de la exaltación de Cristo iniciada en la Resu
 La Ascensión marca el final de la presencia visible de Cristo en la tierra. Después de ella, los apóstoles recibieron la efusión del Espíritu Santo en Pentecostés. María, después de la Ascensión, vivió oscura y desconocida bajo el cuidado de San Juan. La exaltación de Cristo sentado a la derecha del Padre es el culminación de su obra redentora.
 
 [TPCr, Parte I, Cap. 3; Parte IV, Cap. II, n.849]
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La Ascensión causa nuestra salvación abriendo el camino al cielo, donde Cristo entró como Sumo Pontífice para interceder por nosotros: el Padre se apiada de nosotros al ver la naturaleza humana que Cristo llevó consigo. Aumenta la fe (eleva la mente a lo invisible), la esperanza (de llegar a donde Él subió) y la caridad (ordena el amor a lo de arriba). «Condujo cautiva la cautividad» (Ef 4,8): llevó consigo a los justos del Sheol, liberados por su descenso.
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Teología
 tags: ["dogmática"]
 
-timestamp: 2026-06-17
+timestamp: 2026-09-15
 description: "Ciencia de la fe que busca una comprensión más profunda de la Revelación divina, bajo la guía del Magisterio de la Iglesia, utilizando la razón iluminada por la fe."
 ---
 # Teología
 
 > Área: Dogmática
-> Última actualización: 2026-06-17
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -65,6 +65,10 @@ La encíclica insiste en la necesidad de una teología con horizonte metafísico
 ### Según la *Redemptor Hominis* (RH)
 
 La *Redemptor Hominis* desarrolla la teología como *intellectus fidei* —inteligencia de la fe— al servicio de la verdad divina (RH §19). Juan Pablo II enseña que «la teología tuvo siempre y continúa teniendo una gran importancia, para que la Iglesia, Pueblo de Dios, pueda de manera creativa y fecunda participar en la misión profética de Cristo» (RH §19). Los teólogos, como servidores de la verdad divina, dedican sus estudios a una comprensión siempre más penetrante de la misma, sin perder de vista el significado de su servicio en la Iglesia. El *intellectus fidei* funciona con ritmo bilateral, según la expresión de San Agustín: «*intellege, ut credas; crede, ut intellegas*» (RH §19). La teología cumple su servicio de manera correcta cuando los teólogos buscan servir al Magisterio, confiado a los Obispos unidos en comunión jerárquica con el Sucesor de Pedro, y cuando ponen su solicitud al servicio de la enseñanza, la pastoral y los compromisos apostólicos de todo el Pueblo de Dios (RH §19). Los teólogos y los hombres de ciencia en la Iglesia están llamados a unir la fe con la ciencia y la sabiduría, contribuyendo a su recíproca compenetración —compromiso que se ha ampliado enormemente por el progreso de las ciencias exactas, humanas y la filosofía (RH §19). Juan Pablo II subraya que es indispensable una estrecha colaboración de la teología con el Magisterio, y que «nadie puede hacer de la teología una especie de colección de los propios conceptos personales» (RH §19). La teología debe permanecer en la unidad fundamental de la enseñanza de la Fe y la Moral, aunque sea legítimo un cierto pluralismo de métodos (RH §19).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La teología es, como indica la palabra, ante todo discurso sobre Dios (*sermo de Deo*) y propiamente **sabiduría**: el saber que considera el fin último de las cosas. El fin del universo entero es la verdad, porque su Hacedor es una Mente; la sabiduría no considera un área de la verdad (como las ciencias) sino aquella verdad que es fuente de toda verdad. El sabio es quien ordena y dirige bien, porque conoce los fines; por eso «se requiere sabiduría para usar bien nuestro conocimiento científico». La intención de Tomás al escribir teología era «transmitir el conocimiento de Dios» (*cognitionem Dei tradere*), y su manera de hacerlo: sacar a la luz el sentido de la Escritura, en la que las cosas «se encuentran ocultas y dispersas».
 
 ## Distinciones importantes
 

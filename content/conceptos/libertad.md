@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-09-13
+timestamp: 2026-09-15
 description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad; Giussani la presenta como capacidad del fin último."
 ---
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -133,10 +133,18 @@ En *Affezione e dimora*, la libertad se juega ante el Misterio. El pecado origin
 
 El fruto maduro de la libertad es el vínculo: «el vínculo es el resultado, la obra de la libertad» — no su negación, como cree «la conciencia religiosa enfadada» (AED, 28, 73-75). Quien vive la raíz de la compañía «es libre»: «libre no de lo que los otros son, sino de lo que los otros hacen, del modo de actuar de los otros» (AED, 31, 209). La libertad se ejerce, en fin, en el sacrificio: «el sacrificio quiere decir usar las cosas según la armonía general… es para la libertad»; la medida de todo es la gloria de Dios (AED, 16, 125).
 
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC contiene la definición más sintética de la libertad en Giussani: «la libertà è la capacità che l'essere cosciente possiede di realizzare completamente se stesso»: capacidad de infinito, sed de Dios, por eso amor — «capacità di qualcosa che non è noi». La libertad está en devenir: los objetos que encuentra son anticipos y reverberos del fin; ninguno la compromete toda: aquí está la posibilidad de la elección y su contradicción — detenerse en lo que satisface más ahora, siendo hecha para la completud. Esta contradicción equivale al mal: «chi fa il male si rende schiavo di una misura che non è quella per cui è fatto» (Gv 3,20; 12,35). La tentación es estar más atraído por lo psicológicamente más fuerte que por lo ontológicamente más cercano al fin. «Normalmente l'uomo non può resistere a lungo da solo alla tentazione. Gesù Cristo è l'essere che gli ridà continuamente il potere di scegliere bene» (Gv 8,31-32). Además: la libertad es «responsabilidad», respuesta a un Otro; y Dios la valora: «il modo con cui Dio ci tratta asseconda una decisione già presa della nostra libertà» (Mt 13,12); «la libertà non è rappresentata da scelte clamorose... La libertà è quanto di più discreto esista» — una posición originaria ante el real, que el problema de Cristo hace emerger ([[dependencia_de_dios]], [[escándalo]]).
+
 ## Relaciones doctrinales
 
 La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].
 
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Selman recoge la defensa tomista de la libertad frente a dos equívocos. Contra la lectura que hace de la causalidad divina un determinismo: ser causado no es ser forzado (contra Hume, para quien causa = conjunción constante); Dios mueve la voluntad **desde dentro** — solo Él puede, porque está en todas las cosas — y al moverla no hace nada contra su naturaleza, que es querer voluntariamente: «no somos forzados sino inclinados al bien»; la voluntad movida por otro se mueve voluntariamente si ese otro es la causa de su naturaleza voluntaria. Y sin esa inclinación, la voluntad, sin inclinarse a nada, quizá no elegiría: no tanto libre como inerte. La gracia no suprime la libertad sino que la hace verdaderamente libre para el bien; la voluntad conserva siempre la posibilidad de resistir.
 
 ## Analizado para
 

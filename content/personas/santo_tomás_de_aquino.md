@@ -3,13 +3,13 @@ type: Persona
 title: Santo Tomás de Aquino
 tags: ["persona"]
 
-timestamp: 2026-09-07
+timestamp: 2026-09-15
 description: "Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia."
 ---
 # Santo Tomás de Aquino
 
 > Área: Persona
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-15
 
 ## Contexto histórico
 Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia. Nacido en el castillo de Roccasecca (Italia), estudió en Montecasino, Nápoles, París y Colonia, donde fue discípulo de San Alberto Magno. Es la cumbre de la escolástica medieval y el teólogo más influyente de la historia de la Iglesia.
@@ -66,6 +66,14 @@ Fr. Anselm Ramelow OP («Artificial Intelligence as a Challenge to Human Freedom
 
 Además, el número lo recoge en su sección de meditación (23_parting_thoughts.md): «Santo Tomás de Aquino, sin embargo, cree que cada uno de nosotros puede dar un paso atrás y reflexionar sabiamente sobre la posible virtud o vicio de nuestro próximo acto. En una era de IA, ¿estamos dando ese paso reflexivo atrás? ¿O estamos sucumbiendo al deseo y la conveniencia irreflexivos?».
 
+## Vida y perfil según St Thomas Aquinas: Teacher of Truth (STA)
+
+La introducción de F. J. Selman ([[st_thomas_aquinas_teacher_of_truth]]) traza la vida y el perfil intelectual de Tomás: nacido en 1225/26 de familia noble (Landulf, descendiente de los condes de Aquino); Montecassino a los cinco años; Nápoles, donde en 1242 entró en la Orden de Predicadores; capturado por sus hermanos (la familia quería abad para él en Montecassino), usó el año de cautiverio para adquirir su conocimiento de la Escritura; París (1246) y Colonia (1248-52) con [[san_alberto_magno]], de quien oyó las lecciones sobre Pseudo-Dionisio (a quien cita tanto como a [[san_agustín]]); Magister en 1256 con el lema inaugural «regando los montes desde lo alto» (Sal 104,13) sobre los maestros, que reciben la sabiduría de lo alto; la *Summa contra Gentiles* terminada en Orvieto (1264), quizá pensada como manual para predicadores ante los musulmanes de España: «con quienes no aceptan las mismas Escrituras hay que apelar a la razón, a la que todos están obligados a asentir»; la *Summa theologiae* iniciada en 1266 «para principiantes»; tercera estancia en París (1269-72) contra los averroístas (*De Unitate Intellectus*); muere el 7 de marzo de 1274 camino del Concilio de Lyon; canonizado por Juan XXII en 1323. Pocos meses antes de morir, una visión hizo que todo lo que había escrito le pareciera «paja».
+
+Si se le hubiera preguntado qué hacía al escribir teología, habría respondido que sacaba a la luz el sentido de la Escritura, en la que «las cosas se encuentran ocultas y dispersas». La teología es propiamente **sabiduría**: la del sabio que ordena y dirige porque conoce el fin de las cosas; el fin del universo entero es la verdad, y la sabiduría considera la verdad que es fuente de toda verdad. No hay doble verdad (contra Ockham): fe y razón no se oponen porque el autor de la revelación y de la razón es el mismo; hay «no dos criterios de verdad sino dos maneras de conocer la verdad», pues la verdad es una. La verdad se define como la correspondencia (*adequatio*) de la mente con la cosa; se funda en lo existente (Dios es la Verdad Primera, *fons et principium totius esse et veritatis*), y el *esse* asume un papel cada vez más central en su pensamiento.
+
+Selman lo llama «existencialista en el verdadero sentido de la palabra», más que los existencialistas modernos, por su interés en la existencia de las cosas reales. La comparación de sus escritos con *El clave bien temperado* de Bach («de talante calmo, desapasionado pero incisivo») y su método: «solo exponiendo con claridad todos los hilos de la existencia de las cosas podemos comenzar a verlas en sus contornos simples».
+
 ## Analizado para
 
 - [[fr_michael_luxbacher_life_in_abundance]]
@@ -74,7 +82,7 @@ Además, el número lo recoge en su sección de meditación (23_parting_thoughts
 - [[tim_barry_the_strength_of_meekness]]
 
 ## Ver también
-[[san_agustín]], [[pseudo-dionisio_areopagita]], [[antonio_royo_marín]], [[teología_ascética_y_mística]], [[eucaristía]], [[presencia_real]], [[transubstanciación]], [[persona_eucarística]], [[inteligencia_artificial]], [[libre_albedrío]]
+[[san_agustín]], [[pseudo-dionisio_areopagita]], [[antonio_royo_marín]], [[teología_ascética_y_mística]], [[eucaristía]], [[presencia_real]], [[transubstanciación]], [[persona_eucarística]], [[inteligencia_artificial]], [[libre_albedrío]], [[st_thomas_aquinas_teacher_of_truth]], [[san_alberto_magno]]
 
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.11]
@@ -84,3 +92,4 @@ Además, el número lo recoge en su sección de meditación (23_parting_thoughts
 - O'Malley, Timothy. «Eucharistic Personhood», en *Evangelization & Culture* 13 (Autumn 2022).
 - Barron, Robert. «The Holy Quest: Searching for Meaning in the Problem of Suffering»; Kaczor, Christopher. «Faith and the Defeat of Suffering», en *Evangelization & Culture* 15 (Spring 2023).
 - Ramelow, Anselm OP. «Artificial Intelligence as a Challenge to Human Freedom», en *Evangelization & Culture* 19 (Word on Fire Institute); «Meditatio & Contemplatio», 23_parting_thoughts.md.
+- Selman, F. J. *St Thomas Aquinas: Teacher of Truth* (T&T Clark, Edinburgh 1992). Código STA: biografía, la teología como sabiduría, fe y razón, la verdad como adecuación.

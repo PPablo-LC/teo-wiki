@@ -33,6 +33,11 @@ En la virginidad el hombre está a la espera, incluso corporalmente, de las boda
 
 Aun habiendo renunciado a la fecundidad física, la persona virgen se hace espiritualmente fecunda, padre y madre de muchos, cooperando a la realización de la familia según el designio de Dios (FC §16).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La Revelación cristiana presenta dos vocaciones al amor: el matrimonio y la virginidad, inseparables: «cuando no se estima el matrimonio, no puede existir tampoco la virginidad consagrada; cuando la sexualidad humana no se considera un valor donado por el Creador, pierde significado la renuncia por el Reino de los cielos» (SHVS 34). Los padres cristianos deben reservar «una atención y cuidado especial —discerniendo los signos de la llamada de Dios— a la educación para la virginidad como forma suprema del don de uno mismo que constituye el sentido mismo de la sexualidad humana» (SHVS 34, citando FC 37). Deben alegrarse ante los signos de la llamada, adaptar la formación al amor casto, respetar la libertad y no imponer vocación alguna; la familia animada por el espíritu de fe es «como un primer seminario» (SHVS 35).
+
+
 ## Distinciones importantes
 
 - **Virginidad consagrada** (por voto) ≠ **virginidad de estado** (como la de María, por designio divino)

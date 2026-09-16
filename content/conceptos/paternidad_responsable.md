@@ -37,6 +37,11 @@ El cometido fundamental de la familia es el servicio a la vida, el realizar a lo
 
 La Iglesia ha recibido la misión especial de custodiar y proteger la altísima dignidad del matrimonio y la gravísima responsabilidad de la transmisión de la vida humana (FC §29). Reafirma la inseparable conexión entre el significado unitivo y el significado procreador del acto conyugal (FC §32). La elección de los ritmos naturales comporta la aceptación del tiempo de la persona, del diálogo, del respeto recíproco, de la responsabilidad común, del dominio de sí mismo (FC §32). La llamada «ley de gradualidad» no puede identificarse con la «gradualidad de la ley»: todos los esposos están llamados a la santidad en el matrimonio (FC §34).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+A la *generación primera* — «una vida humana en el acto procreativo» — debe seguir, «por su misma naturaleza, la generación *segunda*, que lleva a los padres a ayudar al hijo en el desarrollo de la propia personalidad» (SHVS 112). La formación en la castidad ha de formar parte de la preparación a la paternidad y maternidad responsables, que se refieren «al momento en que el hombre y la mujer, uniéndose "en una sola carne", pueden convertirse en padres... *Las dos dimensiones de la unión conyugal, la unitiva y la procreativa, no pueden separarse artificialmente*» (SHVS 32).
+
+
 ## Relaciones doctrinales
 
 Se relaciona con [[procreación]], [[familia]], [[matrimonio]], [[anticoncepción]], [[amor_conyugal]]

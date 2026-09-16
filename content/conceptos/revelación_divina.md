@@ -9,7 +9,7 @@ description: "La revelación divina es el acto por el cual Dios, por una decisi�
 # Revelación divina
 
 > Área: Dogmática / Teología fundamental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -57,6 +57,10 @@ Loring define la Revelación como «la manifestación que Dios ha hecho a los ho
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La revelación divina es la fuente y fundamento de la teología moral: sin ella no se puede conocer adecuadamente el orden moral sobrenatural que Dios ha querido. La teología se apoya en la verdad revelada, contenida principalmente en la [[sagrada_escritura]] inspirada, en la [[tradición_apostólica]] viva y en la enseñanza auténtica del [[magisterio_de_la_iglesia]]. De ahí que el teólogo deba trabajar siempre sobre esta base revelada y en comunión eclesial (Cap. I, §3a).
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC fundamenta la razonabilidad de la revelación como «hipótesis perfectamente razonable, correspondiente al impulso y coherente con la apertura de la naturaleza humana, plenamente inscrita en la gran categoría de la posibilidad»: la razón, para ser fiel a sí misma, no puede excluir nada de lo que el Misterio pueda emprender; excluirla sería «la última forma extrema de idolatría» ([[exigencia_de_revelación]]). La historia religiosa documenta esta expectativa como hierofanía, mito, símbolo, mediación humana y certeza de los fundadores ([[hierofanía]]); Israel vive la revelación como relación con un acontecimiento en la historia (von Rad). La revelación se cumple como hecho: el Misterio que «entra en la trayectoria histórica» y se hace constatable ([[hecho_de_cristo]]), con una pedagogía de pasos que respeta la libertad ([[pedagogía_divina]]) hasta la declaración explícita de su identidad.
 
 ## Distinciones importantes
 

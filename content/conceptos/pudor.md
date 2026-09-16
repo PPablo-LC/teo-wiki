@@ -46,6 +46,11 @@ Tóth presenta el pudor como «una preciosa inclinación natural que los niños 
 
 En la educación de la juventud, «eduquemos en el pudor, salvaguarda de la castidad» [archivo 12]. El Pontificio Consejo para la Familia, citado por Tóth, lo sitúa entre las virtudes que presupone el dominio de sí —«virtudes como el [[pudor]], la templanza, el respeto propio y ajeno»— y llama a la modestia y capacidad de sacrificio «las hermanas menores de la castidad»: su práctica «al hablar, obrar y vestir… ha de estar hondamente arraigada en el respeto del propio cuerpo y de la dignidad de los demás», velando los padres para que ciertas modas no violen la integridad del hogar [archivo 23]. En conexión con el pudor está el respeto de la justa intimidad: si un niño ve respetada su intimidad, «sabrá que se espera de él igual comportamiento con los demás», desarrollando vida interior y sentido de responsabilidad [archivo 23]. Durante los años de la inocencia, el niño acepta naturalmente «la necesidad de la modestia en la manera de vestir y en el comportamiento»; enseñar la modestia corrigiendo delicadamente ciertos hábitos no es represivo [archivos 26, 25].
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La práctica del pudor y de la modestia, al hablar, obrar y vestir, es muy importante para crear un clima adecuado para la maduración de la castidad», arraigada en el respeto del propio cuerpo y de la dignidad de los demás (SHVS 56). El pudor es «espontánea defensa de la persona que se niega a ser vista y tratada como objeto de placer en vez de ser respetada y amada por sí misma»; en estrecha conexión con él, el respeto de la *justa intimidad*: si un niño ve que se respeta su intimidad, «sabrá que se espera de él igual comportamiento con los demás» (SHVS 57). El dominio de sí «presupone virtudes como el pudor» (SHVS 55). Los padres han de proteger a sus hijos de la información sexual prematura y de los mass-media, educando en la modestia y la reserva (SHVS 56, 84-85); el cuarto principio operativo prohíbe invitar u obligar a nadie a actuar «en modo que pueda ofender objetivamente la modestia o lesionar subjetivamente la propia delicadeza y el sentido de "su intimidad"» (SHVS 127).
+
+
 ## Distinciones importantes
 
 - Pudor vs. puritanismo (el pudor es virtud, no represión)

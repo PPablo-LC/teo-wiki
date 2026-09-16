@@ -31,6 +31,11 @@ La preparación al matrimonio ha de ser vista y actuada como un proceso gradual 
 
 *La preparación inmediata* debe tener lugar en los últimos meses y semanas que preceden a las nupcias, dando nuevo contenido y forma al examen prematrimonial exigido por el derecho canónico. Debe incluir el conocimiento del misterio de Cristo y de la Iglesia, de los significados de gracia y responsabilidad del matrimonio cristiano, y la preparación para participar activamente en la liturgia nupcial (FC §66).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+También en relación con la preparación al matrimonio «la familia debe seguir siendo la protagonista principal de dicha obra educativa». «La *preparación remota* comienza desde la infancia, en la juiciosa pedagogía familiar, orientada a conducir a los niños a descubrirse a sí mismos como seres dotados de una rica y compleja sicología y de una personalidad particular con sus fuerzas y debilidades» (SHVS 25). El documento no trata la preparación próxima e inmediata, pero recomienda a los padres acompañar el noviazgo y el discernimiento (SHVS 109-110).
+
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[pastoral_familiar]], [[noviazgo]], [[catequesis_prematrimonial]], [[consentimiento_matrimonial]]

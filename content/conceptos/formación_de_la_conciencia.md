@@ -28,6 +28,11 @@ De ahí la necesidad de esforzarse por formar bien la propia conciencia. Para el
 
 La falibilidad de la conciencia humana subraya que su formación es una de las tareas morales más importantes y más urgentes para la persona. (Ele_Xto_Stos, Cap. X, §5b)
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La formación de la conciencia exige, como punto de partida, mostrar el proyecto de amor que Dios tiene por cada persona, el valor positivo y libertador de la ley moral y la conciencia tanto de la fragilidad introducida por el pecado como de los medios de la gracia» (SHVS 95). La conciencia moral, «núcleo más secreto y el sagrario del hombre» (GS 16), es «un juicio de la razón por el que la persona humana reconoce la cualidad moral de un acto concreto»; «la conciencia no debe confundirse con un vago sentimiento subjetivo ni con una opinión personal» (SHVS 95). Las dimensiones espirituales y morales de la educación sexual tienen dos finalidades concretas: «la presentación de los mandamientos de Dios como camino de vida y la formación de una recta conciencia» (SHVS 94). La moral católica «no se limita a enseñar que es pecado y a evitarlo; se ocupa ante todo del crecimiento en las virtudes cristianas y del desarrollo de la capacidad del don de sí según la propia vocación» (SHVS 123).
+
+
 ## Distinciones importantes
 
 - El conocimiento de la ley de Dios es indispensable pero no suficiente para formar la conciencia.

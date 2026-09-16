@@ -67,6 +67,11 @@ La verdad del amor va más allá del eros: «el amor que parece brotar de otra d
 
 En la Parte VI, el amor conyugal es descrito como «fuerza» y «capacidad de carácter moral, orientada activamente hacia la plenitud del bien». Es la fuerza que salvaguarda la unidad indivisible del significado unitivo y procreador del acto conyugal (TdC 10.10.1984).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+Cuando el amor se vive en el matrimonio «comprende y supera la amistad y se plasma en la entrega total de un hombre y una mujer», que con el pacto conyugal fundan la comunión de personas en la que nace la vida humana. A este amor conyugal, y sólo a él, pertenece la donación sexual, que «se realiza de modo verdaderamente humano, solamente cuando es parte integrante del amor con el que el hombre y la mujer se comprometen entre sí hasta la muerte» (SHVS 14). Sus cuatro características, según la *Humanae vitae*, son: humano (sensible y espiritual), total, fiel y fecundo (SHVS 29). Signo revelador de su autenticidad es la apertura a la vida: los esposos «se convierten en cooperadores de Dios en el don de la vida a una nueva persona humana; el hijo, reflejo viviente de su amor... síntesis viva e inseparable del padre y de la madre» (SHVS 15). La castidad conyugal de los padres es el mejor presupuesto para educar a los hijos en el amor casto (SHVS 20). «Las dos dimensiones de la unión conyugal, la unitiva y la procreativa, no pueden separarse artificialmente sin alterar la verdad íntima del mismo acto conyugal» (SHVS 32, 102). El documento cierra con San Agustín: «¿Cómo lograré exponer la felicidad de ese matrimonio que la Iglesia favorece, que la ofrenda eucarística refuerza, que la bendición sella?» (SHVS 33).
+
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[sacramento_del_matrimonio]], [[fidelidad]], [[indisolubilidad]], [[procreación]], [[castidad]]

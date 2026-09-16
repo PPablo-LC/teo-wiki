@@ -9,7 +9,7 @@ description: "El término «misterio» (*mysterion*) designa en la Escritura el 
 # Misterio
 
 > Área: Teología Bíblica / Dogmática
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -44,6 +44,10 @@ Giussani identifica el misterio como «el descubrimiento más grande al que la r
 En *Affezione e dimora*, el misterio se presenta como el Mistero con mayúscula: «Dios es inconmensurable con el hombre» (AED, 26, 59-61). Por eso «no es un movimiento del hombre lo que puede hacer encontrar a Dios, si es misterio»: solo Él puede darse a encontrar, y puede «asumir la forma que el Misterio elige» — hasta «identificarse con su signo» (AED, 26, 75-101; AED, 28, 167-169). El Misterio se ha desvelado al hombre con una forma precisa: «un hombre, con su vida que nace, se desarrolla, obra y muere» (AED, 26, 113). «El Misterio lo puedes entender únicamente si habla, si te habla de sí» (AED, 23, 215).
 
 La actitud justa ante el Misterio es la de Job: «Aunque me matara, esperaré en Él» — «ante el Misterio nadie puede medir, porque nadie conoce el designio de Dios» (AED, 27, 35). El Misterio es el «factor último» de la realidad, que la persona madura descubre y vive; de Él brota también el respeto: «solo el sentido del Misterio que hay en la otra te la hace respetar» (AED, 29, 89; AED, 24, 173). Finalmente, «la conexión entre nosotros y el misterio del Ser es misterio… es la libertad» (AED, 16, 135).
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC tematiza el Misterio como «X» inabarcable al fondo de la experiencia: el objeto adecuado a la exigencia humana es «incommensurable con la razón como medida»; «la percepción de la existencia del misterio representa el vértice de la razón» — la razón intuye su existencia pero no puede alcanzarlo por sí ([[vertigine_dell_esistenza]]). Sobre este fondo, dos gestos son decisivos: (1) la razón no puede imponer medida al Misterio: negar de antemano que pueda revelarse y hacerse hombre es «la última forma extrema de idolatría» ([[exigencia_de_revelación]]); (2) si el Misterio ha entrado en la historia como hecho, la pregunta se vuelve histórica y no especulativa ([[hecho_de_cristo]]). La Encarnación es así el Misterio que no traiciona la trascendencia sino que la expresa: la distancia de Dios es estar dentro; y su modo final es pedagógico: se desvela por pasos que respetan la libertad ([[pedagogía_divina]]).
 
 ## Distinciones importantes
 

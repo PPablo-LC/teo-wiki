@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Arrianismo
 tags: ["dogmática_(trinidad", "cristología)"]
 
-timestamp: 2026-05-26
+timestamp: 2026-09-15
 description: "Herejía del siglo IV que negaba la divinidad del Verbo (Jesucristo), afirmando que era una criatura, la más excelsa pero no consubstancial al Padre."
 ---
 # Arrianismo
 
 > Área: Dogmática (Trinidad / Cristología)
-> Última actualización: 2026-05-26
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -32,6 +32,10 @@ El Denzinger recoge la condena del arrianismo en el Símbolo Niceno (D-13): «En
 D-54 (Nicea I, Símbolo Niceno — texto griego): la Iglesia anatematiza a quienes afirman que «hubo un tiempo en que [el Hijo] no fue» o que «antes de ser engendrado no fue» o que «fue hecho de la nada» o que «es de otra hipóstasis o sustancia» o que «el Hijo de Dios es mudable».
 
 D-61 (Concilio Romano 382): anatematiza a Arrio y a Eunomio «que con igual impiedad, aunque con lenguaje distinto, afirman que el Hijo y el Espíritu Santo son criaturas».
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Arrio tomaba literalmente «primogénito de la creación» (Col 1,15) y hacía del Hijo la primera criatura. Tomás responde: es primogénito no como la primera *de* las criaturas sino porque es *antes* de todas y su principio, hechas todas por Él; si fuera creado, sería falso que «sin Él no se hizo nada de cuanto existe» (Jn 1,3), pues habría algo hecho no hecho por Él: Él mismo. «Dios de Dios, Luz de Luz» significa ser de algo (del Padre), no de la nada. La generación del Hijo es eterna: nunca hubo tiempo en que el Hijo no fuera, como la palabra es simultánea al pensar.
 
 ## Distinciones importantes
 

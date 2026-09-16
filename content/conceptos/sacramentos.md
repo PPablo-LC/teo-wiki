@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacramentos
 tags: ["sacramental"]
 
-timestamp: 2026-08-09
+timestamp: 2026-09-15
 description: "Los sacramentos son signos sensibles instituidos por Nuestro Señor Jesucristo para significar y producir la [[gracia_santificante]] en nuestras almas."
 ---
 # Sacramentos
 
 > Área: Sacramental
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -188,6 +188,10 @@ La tarea de conformar todas las dimensiones de la vida humana con las virtudes t
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
 
 En el elemento quinto de la catedral, la pila bautismal y el confesionario, León XIV enseña que «en la pila bautismal nace el pueblo de Dios, en el confesionario es continuamente regenerado. En los sacramentos la gracia se revela como la fuerza más real y eficaz del ministerio sacerdotal». Los sacramentos «son el fin íntimo al que se ordena todo nuestro ministerio». Munilla subraya la advertencia del Papa: «no olvidéis que vosotros no sois la fuente sino el cauce y que también necesitáis beber de esa agua; por eso no dejéis de confesaros, de volver siempre a la misericordia que anunciáis». La conciencia de ser «cauce» —y no fuente— «ayuda a centrar bien el ministerio, porque es Cristo vivo quien actúa en nosotros», y purifica el activismo. La sacramentalidad de la identidad sacerdotal «se visualiza mucho en la celebración de los sacramentos» [CIS, 2026].
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Los sacramentos son «signos de un tipo especial: que santifican» — no solo significan sino que **causan** la gracia que significan. La palabra significa más que el símbolo (el símbolo toma el sentido de la palabra); su estructura palabra+símbolo es como Cristo, el Verbo unido a la carne sensible: «extensión de la Encarnación». Causan instrumentalmente, no como segunda causa de la gracia: como la humanidad de Cristo fue instrumental en las curaciones (poder divino por el contacto humano), así el sacramento es «herramienta de Dios» que obra por el poder de su autor; el Espíritu es la causa principal. Los sacramentos del AT significaban pero no causaban gracia: prefiguraban la pasión (el cordero pascual); los justos del AT fueron justificados por la fe en la pasión futura — «si hubiera habido sacramentos que dieran gracia antes de Cristo, no habría sido necesaria su muerte». Un criterio tomista central: el sacramento aplica a cada uno la pasión de Cristo.
 
 ## Distinciones importantes
 

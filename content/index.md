@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-09-14'
+updated: '2026-09-15'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -194,6 +194,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[apariciones]]
 - [[apariciones_marianas]]
 - [[apelación_canónica]]
+- [[apertura_a_la_vida]]
 - [[apetito]]
 - [[apetito_intelectual]]
 - [[apetito_sensitivo]]
@@ -279,6 +280,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[año_litúrgico]]
 - [[año_mariano]]
 - [[año_sabático]]
+- [[años_de_la_inocencia]]
 
 ### B
 
@@ -320,6 +322,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[bodas_de_caná]]
 - [[bodas_del_cordero]]
 - [[bondad]]
+- [[bondad_de_cristo]]
 - [[bondad_divina]]
 - [[bondad_y_malicia]]
 - [[bonum_honestum]]
@@ -417,9 +420,11 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[censor_de_libros]]
 - [[censura_eclesiástica]]
 - [[censuras]]
+- [[centro_de_la_libertad]]
 - [[certeza]]
 - [[cesaropapismo]]
 - [[christus_dominus]]
+- [[ciego_nacido]]
 - [[cielo]]
 - [[cielo_empíreo]]
 - [[cielo_nuevo_y_tierra_nueva]]
@@ -648,6 +653,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[conversión_de_san_pablo]]
 - [[conversión_misionera]]
 - [[conversión_y_lucha_ascética]]
+- [[convivenza]]
 - [[convocatoria_a_consejo]]
 - [[cooperaci\303\263n_moral_al_don_de_dios]]
 - [[cooperación_al_mal]]
@@ -679,6 +685,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[creacionismo_alma]]
 - [[creacionismo_del_alma]]
 - [[creatividad]]
+- [[creatividad_religiosa]]
 - [[creatura]]
 - [[crecimiento]]
 - [[crecimiento_de_virtudes_infusas]]
@@ -804,6 +811,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[demonio]]
 - [[demonios]]
 - [[demonología]]
+- [[dependencia_de_dios]]
 - [[deporte]]
 - [[deposición]]
 - [[depósito_de_la_fe]]
@@ -976,6 +984,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[don_de_lenguas]]
 - [[don_de_piedad]]
 - [[don_de_sabiduría]]
+- [[don_de_sí]]
 - [[don_de_temor]]
 - [[don_de_temor_de_dios]]
 - [[don_del_espíritu_santo]]
@@ -1121,6 +1130,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[esperanza_cristiana]]
 - [[esperanza_de_la_resurrección]]
 - [[espíritu]]
+- [[espíritu_encarnado]]
 - [[espíritu_santo]]
 - [[espíritu_santo_en_cristo]]
 - [[espíritu_santo_en_la_iglesia]]
@@ -1206,6 +1216,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[exégesis_patrística]]
 - [[exequias]]
 - [[exhortar]]
+- [[exigencia_de_revelación]]
 - [[exilio]]
 - [[existencia_de_dios]]
 - [[éxodo]]
@@ -1350,6 +1361,8 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[generos_de_monjes]]
 - [[géneros_literarios]]
 - [[géneros_literarios_bíblicos]]
+- [[genialità_morale]]
+- [[genio_religioso]]
 - [[genocidio]]
 - [[genuflexion]]
 - [[gestos_liturgicos]]
@@ -1411,10 +1424,12 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[hebreo]]
 - [[hebreos]]
 - [[hecho_cristiano]]
+- [[hecho_de_cristo]]
 - [[hechos_de_los_apóstoles]]
 - [[heredero_del_reino]]
 - [[herejía]]
 - [[herejía_albigense]]
+- [[herejías_cristológicas]]
 - [[herencia]]
 - [[hermano]]
 - [[hermanos_enfermos]]
@@ -1423,6 +1438,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[hermenéutica_bíblica]]
 - [[herramientas_del_monasterio]]
 - [[hesed]]
+- [[hierofanía]]
 - [[hierognosis]]
 - [[hijo]]
 - [[hijo_de_david]]
@@ -1945,6 +1961,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[ministros_laicos]]
 - [[minuto_heroico]]
 - [[mirada]]
+- [[mirada_de_cristo]]
 - [[misa]]
 - [[misal_romano]]
 - [[miseria_humana]]
@@ -2317,6 +2334,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[pecados_de_ignorancia,_fragilidad_y_malicia]]
 - [[pecados_internos]]
 - [[pedagogía_del_cuerpo]]
+- [[pedagogía_divina]]
 - [[pedagogía_religiosa]]
 - [[pedro]]
 - [[pedro_piedra_de_la_iglesia]]
@@ -2483,6 +2501,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[presunción]]
 - [[presunción_de_inocencia]]
 - [[preternatural]]
+- [[pretesa_cristiana]]
 - [[prevención_de_conflictos]]
 - [[previsión]]
 - [[primacía_de_cristo]]
@@ -2498,6 +2517,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[primer_principio_de_la_ley_moral_natural]]
 - [[primer_principio_de_la_razón_práctica]]
 - [[primera_comunión]]
+- [[primeros_discípulos]]
 - [[primeros_pasos_en_la_vida_espiritual]]
 - [[primicias]]
 - [[primogénito]]
@@ -2576,6 +2596,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[prueba_y_tentación]]
 - [[pruebas_canónicas]]
 - [[pruebas_de_la_existencia_de_dios]]
+- [[pubertad]]
 - [[pública_honestidad]]
 - [[publicaciones]]
 - [[pudor]]
@@ -3168,6 +3189,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[uso]]
 - [[usura]]
 - [[utilitarismo]]
+- [[utopía]]
 
 ### V
 
@@ -3203,6 +3225,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[verdadero_y_falso_yo]]
 - [[vergüenza]]
 - [[veritatis_splendor_57-64]]
+- [[vertigine_dell_esistenza]]
 - [[vestido]]
 - [[vía_crucis]]
 - [[vía_de_la_belleza]]
@@ -3892,6 +3915,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[a_qué_jesús_seguimos]]
 - [[affezione_e_dimora]]
+- [[allorigine_della_pretesa_cristiana]]
 - [[avisos_espirituales]]
 
 ### C (Documentos)
@@ -4042,8 +4066,10 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### S (Documentos)
 
 - [[sacramentorum_sanctitatis_tutela]]
+- [[sexualidad_humana_verdad_y_significado]]
 - [[siete_lamparas]]
 - [[spiritus_paraclitus]]
+- [[st_thomas_aquinas_teacher_of_truth]]
 - [[summa_theologiae]]
 
 ### T (Documentos)

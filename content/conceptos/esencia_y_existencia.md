@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: esencia_y_existencia
 tags: ["dogmática"]
 
-timestamp: 2026-05-29
+timestamp: 2026-09-15
 description: "Distinción real (distinctio realis) entre esencia y existencia en todas las criaturas; en Dios, por el contrario, la esencia se identifica con la existencia."
 ---
 # esencia_y_existencia
 
 > Área: Dogmática
-> Última actualización: 2026-05-29
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -30,6 +30,10 @@ El CEC enseña que Dios es "el que es" (YHWH), revelación del Nombre divino que
 Santo Tomás establece la identidad de esencia y existencia en Dios en SmTh Iª q.3 a.4, dentro del tratado de la simplicidad divina. Presenta tres argumentos principales: 1) todo lo que está en un ser sin pertenecer a su esencia debe estar causado por los principios de la esencia o por un agente externo; pero Dios es la primera causa eficiente, luego en Él nada puede ser causado, por lo que su existencia no puede ser distinta de su esencia; 2) el ser es la actualidad de toda forma o naturaleza; la relación entre existencia y esencia es como la relación entre acto y potencia; como en Dios no hay potencialidad alguna, su esencia es su mismo existir; 3) si Dios tuviera existencia por participación, no sería el primer ser ni el ser por esencia. La distinción real en las criaturas se desarrolla en SmTh Iª q.44 a.1 (Dios como causa del ser de todas las cosas), SmTh Iª q.45 a.5 (la creación no es cambio sino comunicación del ser) y en SmTh Iª q.75 a.5 (la substancia intelectual no se corrompe porque su ser no depende de la materia).
 
 Royo Marín expone la distinción al tratar de la participación y la gracia santificante. Las criaturas son "seres por participación", mientras que Dios es "el ser por esencia" (TPCr, Segunda Parte, Cap. I). Todas las criaturas imitan analógicamente a Dios, pero ninguna es el ser mismo: "Dios no es semejante a las criaturas, ya que Él y solo Él es el ser por esencia, siendo todas las criaturas seres por participación" (TPCr, Segunda Parte, Cap. I, art. 1). En la criatura, la gracia santificante —participación accidental de la naturaleza divina— presupone que la esencia del alma es realmente distinta de su acto de ser creado. Royo Marín cita a Santo Tomás: "La gracia no es otra cosa que cierta semejanza participada de la divina naturaleza" (*III, 62,1*).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Dios es su esencia y su existencia: en las criaturas se distinguen (puedo saber qué es un dodo sin saber si existen dodos), pero si Dios compartiera el ser, lo recibiría de otro, que sería causa de Él. La identidad de esencia y existencia funda la simplicidad divina: Dios es su existencia, su entender, su bienaventuranza; el existir no le «sucede» a su naturaleza. De ahí que el nombre más propio sea el dicho a Moisés, QUIEN ES (Ex 3,14), «porque significa la existencia misma». El argumento se apoya en Avicena: lo que participa del ser remite a algo que es su Existencia. Selman subraya además que Tomás es «existencialista en el verdadero sentido de la palabra»: el esse asume un papel cada vez más central de De Ente et Essentia (1252) a la Summa theologiae.
 
 ## Distinciones importantes
 

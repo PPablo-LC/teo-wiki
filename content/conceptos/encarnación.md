@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Encarnación
 tags: ["cristología"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-15
 description: "La Encarnación es el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo (CEC §483)."
 ---
 # Encarnación
 
 > Área: Cristología
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -182,6 +182,14 @@ Robert Mixa, reseñando *On the Internet* de Hubert Dreyfus, muestra que la crí
 **La Encarnación como hipótesis que se verifica (cap. XV).** Giussani aborda la Encarnación dentro de la «hipótesis de la revelación»: la fe propone que Dios entra en la historia «como un amigo». El misterio se hace cercano en la Persona de Cristo —sin dejar de ser misterio— cumpliendo las condiciones de aceptabilidad de la revelación (SR, `22_capitolo_quindicesimo.md`, §31-40, 51-77).
 
 **De la razón al acontecimiento (cap. XIV).** La «energía de la razón» hacia el ignoto culmina en la posibilidad de la Encarnación: frente a los ídolos fabricados por el hombre (becerro de oro, Es 32), el Misterio inocente divino se ofrece como hipótesis razonable y comprensible (SR, `21_capitolo_quattordicesimo.md`, §59-70, 101-115).
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC 13 (cap. 9) fija los términos de la Encarnación: que Gesù sea hombre-Dios no significa que Dios «se haya transformado en un hombre», sino que «la Persona divina del Verbo posee, junto a la naturaleza divina, también la naturaleza humana concreta del hombre Gesù» — no confusión de naturalezas, sino expresión de la naturaleza divina a través de la asumida (León Magno, Lettera a Flaviano 28,3-4; [[naturaleza_y_persona]]). La Encarnación establece además el método de Dios: «Dio salva l'uomo attraverso l'uomo» (Dionigi l'Areopagita), que responde a la sensibilidad humana y a la dignidad de la libertad como colaboradora; un método que se prolonga en la historia («Ecco, io sono con voi tutti i giorni») y del que nace la diferencia de la Iglesia católica. La salvación del tiempo es su consecuencia (Eliade: el tiempo se llena porque ha visto nacer, sufrir, morir y resucitar a Gesù). Y documenta la resistencia instintiva del hombre: las objeciones de Celso, el docetismo, el «dogma» moderno de la separación fe/realidad ([[herejías_cristológicas]], [[pretesa_cristiana]]).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La unión en Cristo es **personal**: ni esencial (Eutiques, que confunde las naturalezas) ni accidental — en una sola persona. Contra Nestorio: «si las dos naturalezas no están unidas en la misma persona, no están realmente unidas»; y contra la unión «por gracia» (el Verbo habita en Cristo como en los santos): la gracia fluye *de* la unión; Cristo no diría «Yo soy la luz del mundo» sino «la luz del mundo habita en mí»; no se hizo Hijo de Dios por favor divino — el Hijo de Dios se hizo hombre. Punto cardinal: **una sola existencia en Cristo** — su humanidad nunca existió *per se*, sino «en otro», «por una asunción inefable»: «Dios no asumió un hombre (*non assumpsit hominem*) sino que se hizo hombre asumiendo la naturaleza humana»; su humanidad es individual, pero no persona ni supuesto: el sujeto es el Hijo eterno. La gramática teológica distingue *acerca de quién* se habla (una persona) y *según qué* (dos naturalezas): por eso la Escritura puede decir que el Señor de la gloria fue crucificado (1 Cor 2,8) y que el que es Dios fue perfeccionado por el sufrimiento (Hb 2,10). La Encarnación no es el ascenso de un hombre sino el **descenso del Verbo** (Jn 3,13): «un hombre no es divinizado, sino que Dios es humanado» (*humanatum*).
 
 ## Distinciones importantes
 

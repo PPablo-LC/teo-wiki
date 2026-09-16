@@ -73,6 +73,11 @@ Para Giussani, la vocación es la promesa que espera a quien obedece a la regla:
 
 El designio de Dios «se te aparece como propuesta», no como imposición: «la creatura incluye la posibilidad del no» — por eso la vocación se acoge en libertad (AED, 33, 123-125). El llamado último es Cristo, que se hace presente a través de la compañía que te anuncia: «el ángel que te trae el anuncio es la compañía»; la obra nueva de la humanidad «se edifica sobre la fragilidad de tu sí», como el sí de la Virgen al anuncio (AED, 35, 97-101).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«Dios inscribe en la humanidad del hombre y de la mujer la vocación y consiguientemente la capacidad y la responsabilidad del amor y de la comunión. El amor es por tanto la vocación fundamental e innata de todo ser humano» (SHVS 8). «Dios llama a la santidad a todos los hombres y, para cada uno de ellos tiene proyectos bien precisos: una *vocación personal* que cada uno debe reconocer, acoger y desarrollar» (SHVS 100). «La vida humana adquiere plenitud cuando se hace *don de sí*: un don que puede expresarse en el *matrimonio*, en la *virginidad consagrada*, en la *dedicación al prójimo* por un ideal, en la *elección del sacerdocio ministerial*» (SHVS 34).
+
+
 ## Distinciones importantes
 
 - **Vocación universal a la santidad**: llamada que Dios dirige a todos los bautizados, sin excepción.

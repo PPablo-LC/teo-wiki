@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Caridad
 description: "La caridad es la más excelente de las virtudes teologales, virtud infusa sobrenatural por la que amamos a Dios sobre todas las cosas por Sí mismo."
 tags: ["moral", "dogmática"]
-timestamp: 2026-09-13
+timestamp: 2026-09-15
 ---
 
 # Caridad
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -227,6 +227,15 @@ La colección muestra la caridad en tres formas estructurales que van del gesto 
 - **La carità nella fede del Cottolengo** (cap. 9): tesis central: «Di una carità anonima o senza fede i Santi avrebbero riso» — no porque el no creyente no pueda ser generoso, sino porque la caridad verdadera «va incontro al Mistero bruciante che c'è nel cuore dell'uomo», afirmando al otro «in tutta la sua realtà, nella totalità dei suoi bisogni e del suo destino»; por eso construye «opere non effimere che segnano la storia, che fanno cultura, che impongono uno stile sociale, che cambiano l'uomo». «I poveri sono Gesù, non sono una sua immagine. Sono Gesù in persona». La fe se verifica haciendo: «chi vuol far crescere la sua fede... deve farla bruciare subito in gesti veri di carità».
 - **La caridad educativa de don Bosco** (cap. 7): «C'è chi è chiamato a battersi contro le cause dell'ingiustizia e chi è chiamato a battersi subito contro i suoi effetti» — «Noi andiamo diritti ai poveri», porque «i poveri non possono attendere le grandi analisi e i grandi progetti». Y la *amorevolezza*: «Che i giovani non solo siano amati, ma che essi stessi sappiano di essere amati».
 - **La caridad hacia los «poveri più vergognosi» de Moro** (cap. 13): el Lord Canciller recorre la noche los barrios bajos y alquila una casa (*Casa della Provvidenza*) para «vecchi e bambini infermi»: caridad discreta hacia quienes no piden.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La caridad es ante todo **amistad con Dios** (sobre el fondo aristotélico de EN VIII-IX: amistad útil, de placer y virtuosa; en Aristóteles «no va más allá de la amistad humana»). La amistad exige reciprocidad, afinidad y deseo del bien del otro: posible con Dios porque estamos hechos a su imagen y Él nos ama en su Hijo encarnado; nuestro amor nunca iguala el suyo. El amor al prójimo es la misma caridad: «no son dos amores sino el mismo acto: amamos a Dios y al prójimo en la luz de Dios» — incluso la limosna sin reciprocidad aparente la tiene (el pobre ama por gratitud) y participa de la caridad divina. La caridad es la única virtud teologal que une inmediatamente con su objeto: no es solo hacer el bien — «la unión no es tanto resultado de la caridad como la caridad es la unión con Dios». Contiene todas las virtudes (cumple la Ley; el fin de los mandamientos es la caridad); un acto que la destruye las pierde todas, como el obstáculo que apaga la luz. Contra Pedro Lombardo, la presencia del Espíritu es gracia increada, pero sus efectos en nosotros son gracia creada: si toda caridad fuera increada, no sería voluntaria en nosotros.
+
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La educación a la castidad es «inseparable del compromiso de cultivar *todas las otras virtudes* y, en modo particular, *el amor cristiano* que se caracteriza por el respeto, por el altruismo y por el servicio que, en definitiva, es la *caridad*» (SHVS 55). La educación al auténtico amor «no es tal si no se convierte en amor de benevolencia», que implica «la acogida de la persona amada, considerar su bien como propio, y por tanto, instaurar justas relaciones con los demás» (SHVS 53).
+
 
 ## Analizado para
 

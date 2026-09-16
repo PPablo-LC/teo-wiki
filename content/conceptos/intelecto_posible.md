@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Intelecto posible
 tags: ["filosofía_(tomismo)"]
 
-timestamp: 2026-06-04
+timestamp: 2026-09-15
 description: "En la psicología aristotélico-tomista, el intelecto posible es la potencia intelectiva del alma humana por la que puede recibir las formas inteligibles abstractas de las cosas materiales."
 ---
 # Intelecto posible
 
 > Área: Filosofía (Tomismo)
-> Última actualización: 2026-06-04
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -50,6 +50,10 @@ El intelecto posible es una facultad espiritual e incorpórea, pues su objeto es
 ### Según Royo Marín (TPCr)
 
 TPCr, Primera Parte (sobre la naturaleza humana): Trata el intelecto posible como parte de la estructura del alma humana. En el contexto de la elevación al orden sobrenatural, la inteligencia —fundada en el intelecto posible elevado por la [[gracia]]— recibe las verdades de la fe por la luz de la misma. El intelecto posible, elevado por la virtud infusa de la [[fe]], puede asentir a las verdades reveladas que exceden su capacidad natural.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Selman expone la distinción entre intelecto posible (o «pasivo»: tabula rasa, potencia para recibir especies inteligibles) y agente (que hace las especies, no las recibe del exterior): no son dos intelectos sino uno que es agente y pasivo. Contra Averroes y Avicena: el intelecto agente es potencia del alma individual, no intelecto separado en el que todos compartan; hay «tantos intelectos como personas», y el pensar es acción de este o aquel hombre — «todos experimentamos que somos nosotros quienes pensamos». Si hubiera una sola mente, «toda discusión política cesaría» (así los totalitarismos); y solo si de ella derivara todo intelecto, esa mente única sería Dios: «la luz intelectual en nosotros no es otra cosa que una semejanza participada de la luz increada». El intelecto no es separado en su existencia sino en su actividad: no usa órgano corporal, y el cerebro es necesario para el objeto del pensar (las imágenes), no para su ejercicio.
 
 ## Distinciones importantes
 

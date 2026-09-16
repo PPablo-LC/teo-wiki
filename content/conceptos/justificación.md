@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Justificación
 tags: ["dogmática"]
 
-timestamp: 2026-08-06
+timestamp: 2026-09-15
 description: "La justificación es la obra de la gracia del Espíritu Santo por la cual el hombre, movido por Dios, se vuelve a Él y se aparta del pecado, acogiendo el perdón y la justicia de lo alto (CEC §1989)."
 ---
 # Justificación
 
 > Área: Dogmática
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -103,6 +103,10 @@ Pío V condenó los errores de Bayo sobre la justificación (D‑1042–D‑1044
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 En términos generales, se puede afirmar que toda iniciativa de Dios en relación al ser humano exige la respuesta libre del hombre. Incluso la santidad inicial supone ya una primera y fundamental respuesta: la libre acogida de la justicia de Dios por medio de la fe en Jesucristo, en la cual se realiza la justificación. La fe, a la que siguen la caridad y el deseo de llegar a la plena comunión con Dios (esperanza), debe fortalecerse cada día: ni siquiera la santidad inicial puede considerarse una realidad indefectible. Como escribe San Agustín: «Todo procede de Dios; pero no permaneciendo nosotros como somnolientos, como reacios a todo esfuerzo, casi contra voluntad. Sin tu voluntad, en ti no se hallará la justicia de Dios. [...] Quien te creó sin ti, no te justificará sin ti». Del hombre depende la continua correspondencia al don divino, que se manifiesta en la decisión siempre actual de vivir ante todo como santo en Cristo [Ele_Xto_Stos, Cap. III, §2].
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+«La justificación en Santo Tomás significa, sencillamente, la remisión del pecado». La justicia en juego no es la virtud cardinal sino el orden debido de la naturaleza: apetito a la razón, razón a Dios; el pecado original es injusticia nacida, y justificar es restaurar la justicia original perdida. No es solo quitar el pecado: tiene un fin, la vida nueva — «fue entregado por nuestros pecados y resucitado para nuestra justificación» (Rm 4,25); la resurrección de Cristo justifica como término del paso del pecado a la novedad de vida. Y es un cambio real (*transmutatio*): la gracia no es mera «no imputación» de pecados, sino renovación interior que ordena al hombre hacia Dios.
 
 ## Ver también
 

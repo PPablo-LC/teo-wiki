@@ -9,7 +9,7 @@ description: "Rama de la teología que estudia el significado teológico de las 
 # Teología de las Religiones
 
 > Área: Dogmática — Teología Fundamental, Misiología
-> Última actualización: 2026-06-30
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -47,6 +47,10 @@ II-II, q.2, a.3, ad 1: Santo Tomás sostiene que para la salvación es necesario
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 D-3014–3015 (*Dominus Iesus*, 2000): La encarnación redentora de Jesucristo es el acontecimiento salvífico universal y definitivo. Las religiones no cristianas no sustituyen ni complementan la mediación única de Cristo.
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC ofrece una posición completa ante las religiones. Todas son «verdaderas» en cuanto esfuerzos razonables y dignos de la búsqueda humana del Misterio; el deber único del hombre es la seriedad al adherirse; la norma de conveniencia es vivir la religión de la propia tradición, y la conversión es el descubrimiento más profundo de aquello a lo que ya se adhería (Newman). Ante la pluralidad, Giussani desmonta las tres salidas abstractas: la utopía racionalista de conocerlas todas (que es siempre violencia), el criterio parcial de las «importantes» (Tacito y Suetonio habrían hecho descartar la «pequeña secta» cristiana en Roma) y el sincretismo (otra vez una elección temperamental). Si el hecho de Cristo ha acontecido, el camino que Dios ha trazado permite «coger todo lo que de bueno hay» en las demás vías ([[catolicidad]]): la unicidad no es presunción sino obediencia que magnifica ([[pretesa_cristiana]]). Cita Nostra aetate 2: la Iglesia no rechaza nada de lo verdadero y santo en estas religiones.
 
 ## Distinciones importantes
 

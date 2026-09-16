@@ -4088,3 +4088,55 @@ Notas:
   `[[san_juan_bosco]]`, `[[san_juan_maría_vianney]]`, `[[san_maximiliano_kolbe]]`,
   `[[tomás_moro]]`, `[[santa_teresa_de_lisieux]]` resuelven contra artículos
   existentes en wiki/personas/ (enriquecidos con RdS en esta sesión).
+
+## Sembrados por el procesamiento de All'origine della pretesa cristiana (ODPC) (2026-09-15)
+
+El procesamiento completo de ODPC (Giussani, PerCorso vol. 2 — 14 archivos, 20 conceptos nuevos, 30 enriquecimientos) siembra **1 huérfano nuevo**:
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[inviolabilidad]]` | 1 | Nota de creación del hombre a imagen de Dios en dependencia_de_dios (ODPC 1: la dependencia como contenido de la religiosidad y de la moralidad); la dignidad inviolable de la persona. Candidato a artículo propio junto a dignidad_humana. |
+
+Notas de la sesión:
+- `[[utopía]]` — sembrado previamente por EAC-19 — queda **resuelto** con la creación de su artículo en esta sesión.
+- Los enlaces con variante canónica se retargetaron: `[[religiosidad]]`→`[[religiosidad_natural]]`, `[[autosuficiencia]]`→`[[soberbia]]`, `[[omnisciencia_de_cristo]]`→`[[omnisciencia]]`, `[[pedagogía]]`→`[[pedagogía_religiosa]]`, `[[historia]]`→`[[teología_de_la_historia]]`, `[[realismo_cristiano]]`→`[[realismo]]`, `[[historia_de_las_religiones]]`→`[[religiones]]`, `[[primeros_mandamientos]]`→`[[primer_mandamiento]]`, `[[dependencia_recíproca]]`→`[[comunión]]`, `[[resurrección_de_jesús]]`→`[[resurrección_de_cristo]]`, `[[comunión_y_liberación]]`→`[[comunione_e_liberazione]]` (artículo existente), `[[preexistencia_de_cristo]]`→`[[preexistencia_del_verbo]]` (fusión de duplicado).
+- `[[vertigine_dell_esistencia]]` era typo de `[[vertigine_dell_esistenza]]` (corregido en misterio y exigencia_de_revelación).
+- Los wikilinks `[[cristología_joánica]]`, `[[persona_del_hijo]]`, `[[segunda_persona_de_la_trinidad]]`, `[[razón]]`, `[[fe]]`, `[[atención]]`, `[[conciencia]]`, `[[cruz]]`, `[[misterio_pascual]]`, `[[eucaristía]]`, `[[caridad]]`, `[[virginidad]]`, `[[matrimonio]]`, `[[egoísmo]]`, `[[moralismo]]`, `[[idolatría]]`, `[[humildad]]`, `[[asombro]]`, `[[dominio_de_sí]]`, `[[libertad_de_indiferencia]]`, `[[preferencia_por_cristo]]`, `[[afección]]`, `[[morada]]`, `[[compañía]]`, `[[sacrificio]]`, `[[oración]]`, `[[milagros_de_jesús]]`, `[[resurrección]]`, `[[historia_de_la_salvación]]` resuelven contra artículos existentes.
+
+## Sembrados por el procesamiento de St Thomas Aquinas: Teacher of Truth (STA) (2026-09-15)
+
+El procesamiento completo de STA (Selman, T&T Clark 1992 — 14 archivos, 1 artículo descriptivo, persona enriquecida, 68 conceptos enriquecidos, 14 resúmenes) siembra **6 huérfanos nuevos**:
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[bautismo_de_cristo]]` | 1 | Los misterios de la vida de Cristo en el resumen 09_8_christ (STA 08: el bautismo como ejemplo, cielos abiertos, revelación de la Trinidad, hijos adoptivos). Candidato a artículo propio dentro del bloque de misterios de Cristo. |
+| `[[comunicatio_idiomatum]]` | 1 | La comunicación de las propiedades en el resumen 09_8_christ (STA 08: «Dios nació», «Dios fue crucificado»; León Magno, Ep. 28 a Flaviano). El contenido está cubierto por [[encarnación]] (sección STA); artículo latino específico pendiente. |
+| `[[conservación_de_las_criaturas]]` | 1 | La conservación como continuidad de la acción creadora en el resumen 05_4_creation (STA 04: ni relojero ni intervención; «quita la causa y no hay efecto»). El contenido está cubierto por [[creación]] (sección STA). |
+| `[[inmutabilidad]]` | 1 | Atributo divino mencionado en la primera vía (resumen 03_2_god: «si Dios fuera mudable, habría en Él potencia y se quitaría su simplicidad»). Candidato a artículo propio junto a simplicidad_de_dios. |
+| `[[simplicidad_de_dios]]` | 1 | La simplicidad como fundamento de la incomprehensibilidad y de la identidad de esencia y existencia (resumen 04_3_analogy). Candidato a artículo propio; contenido cubierto parcialmente por [[esencia_y_existencia]]. |
+| `[[f_j_selman]]` | 1 | Autor de la fuente STA; bio mínima en el resumen 01_preface (Cambridge 1992; agradecimientos a Nichols, Foster, Geach). Persona pendiente. |
+
+Notas de la sesión:
+- Conceptos sin artículo citados desde el índice de la fuente ([[cinco_vías]], [[nombres_de_dios]], [[existencia_intencional]], [[misterios_de_cristo]], [[alma_y_cuerpo]]) se integraron como contenido de los artículos canónicos ([[existencia_de_dios]], [[analogía]], [[abstracción]], [[encarnación]], [[alma]]) y no se enlazan como huérfanos desde los artículos.
+- Los wikilinks [[alcuino_de_york]], [[beato_de_liébana]], [[voto_de_caridad]], [[maternidad_divina_de_maría]], [[participación_en_la_naturaleza_divina]], [[epistemología_tomista]], [[mision]], [[filiación_divina_de_cristo]], [[concilio_de_roma_382]] aparecen en archivos STA tocados (adopcionismo, caridad, verbo_mental, misiones_divinas, nestorianismo, divinización) pero fueron sembrados por sesiones anteriores: ya figuraban en el registro acumulativo o en el detector general.
+
+## Sembrados por el procesamiento de Sexualidad humana: verdad y significado (SHVS) (2026-09-15)
+
+El procesamiento completo de SHVS (Pontificio Consejo para la Familia, 8-XII-1995 — 21 archivos, 1 artículo descriptivo, 4 conceptos nuevos, 61 conceptos enriquecidos, 19 resúmenes) siembra **3 huérfanos nuevos**:
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[espíritu_encarnado]]` (resuelto) | — | Creado como artículo en esta sesión (`wiki/conceptos/espíritu_encarnado.md`). No queda como huérfano; se lista solo para trazabilidad. |
+| `[[cinco_mandamientos]]` (resuelto) | — | Retargetado a [[mandamientos]] (canónico) en aborto.md. |
+| `[[donación_mutua]]` (resuelto) | — | Retargetado a [[donación_de_sí]] (canónico) en masculinidad_y_feminidad. |
+| `[[unión_conyugal]]` (resuelto) | — | Retargetado a [[acto_conyugal]] (canónico) en significado_esponsal_del_cuerpo. |
+| `[[transmisión_de_la_vida]]` (retirado) | — | Link retirado de significado_esponsal_del_cuerpo (el concepto está cubierto por [[procreación]]). |
+| `[[familia_cristiana]]` | ya registrado | Ya figuraba en el registro acumulativo. |
+| `[[voto_de_caridad]]` | ya registrado | Ya figuraba en el registro acumulativo (aparece ahora también en caridad.md). |
+| `[[corazon]]` | ya registrado | Variante sin acento ya registrada. |
+
+Notas de la sesión:
+- Los 19 wikilinks a los resúmenes ([[01_introducción]]…[[19_conclusion]]) resuelven por nombre dentro de `wiki/Resúmenes/sexualidad_humana_verdad_y_significado/` (convención Obsidian, igual que AED/STA): no son huérfanos.
+- [[contracepción]] (huérfano ya registrado desde la sesión 23 de un archivo anterior) fue retargetado a [[anticoncepción]] (canónico) en los artículos nuevos apertura_a_la_vida y pubertad.
+- [[espíritu_encarnado]], [[años_de_la_inocencia]], [[pubertad]] y [[apertura_a_la_vida]] se crearon como artículos en esta sesión: eran huérfanos sembrados por el índice de la fuente y quedan resueltos.
+- La sección SHVS usa el código de fuente «SHVS» con numeración de párrafos (SHVS n), que no es wikilink.

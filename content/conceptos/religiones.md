@@ -9,7 +9,7 @@ description: "Conjunto de tradiciones religiosas no cristianas consideradas desd
 # Religiones
 
 > Área: Teología de las religiones
-> Última actualización: 2026-06-21
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -30,6 +30,10 @@ Sobre el hinduismo, recoge la descripción conciliar: los hombres investigan el 
 El Papa destaca la doctrina de los *semina Verbi* («semillas del Verbo»), presentes en todas las religiones como «una especie de raíz soteriológica común». Afirma que el Espíritu Santo obra eficazmente también fuera del organismo visible de la Iglesia (LG 13). El Misterio pascual está abierto a todos los hombres, y en él está abierto el camino hacia la salvación eterna.
 
 Señala el obstáculo del contra-testimonio de las sociedades occidentales «cristianas», recordando a Gandhi, quien «a su manera profundamente evangélico» estaba «desilusionado por cómo el cristianismo se manifestaba en la vida política y social de las naciones». Plantea la posibilidad de la fe implícita en Cristo (Hb 11,6) como vía salvífica para quienes no lo conocen explícitamente: «Cristo vino al mundo para todos estos pueblos, los ha redimido a todos y tiene ciertamente Sus caminos para llegar a cada uno de ellos» (UDE, Cap. XIII).
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC analiza las religiones como producto de la creatividad religiosa del hombre: «l'insieme espressivo di questo sforzo immaginativo, ragionevole nel suo impulso... anche se degenerabile nella distrazione e nella volontà di possesso del mistero». Identifica las actitudes típicas: el Ignoto trasfigurado en Armonía (religión china, los *me* sumerios), el pacto y el *do ut des* (hititas, Roma), la confianza en la buena disposición del Otro (Amun de Leida, el Corán, Os 11,1-4), la certeza de los fundadores de portar una revelación. Todas las religiones son «verdaderas» en cuanto intentos: «L'unico dovere che l'uomo ha è quello della serietà nell'aderirvi». El cristianismo, sin embargo, no es una religión más: es la respuesta al problema que la historia religiosa no podía resolver por sí — el Misterio que entra como hecho ([[pretesa_cristiana]]); por eso su «delito» es declarar «io sono *la* religione».
 
 ## Distinciones importantes
 

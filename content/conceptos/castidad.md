@@ -124,6 +124,11 @@ Tóth aborda la castidad en su dimensión más práctica y pastoral, presentánd
 
 > «El instinto sexual que sientes no es pecado. Es sagrado porque es una participación misteriosa en el poder creativo de Dios» (JvC-Eng, Cap. II)
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La castidad, que se coloca dentro de la [[templanza]], «no debe entenderse como una actitud represiva, sino, al contrario, como la transparencia y, al mismo tiempo, la custodia de un don»: es «aquella *energía espiritual* que sabe defender el amor de los peligros del egoísmo y de la agresividad, y sabe promoverlo hacia su realización plena» (SHVS 4). Es «la afirmación gozosa de quien sabe vivir el don de sí, libre de toda esclavitud egoísta»: torna armónica la personalidad, la hace madurar y la llena de paz interior (SHVS 17). Implica un «aprendizaje del dominio de sí, que es una pedagogía de la libertad humana. La alternativa es clara: o el hombre controla sus pasiones y obtiene la paz, o se deja dominar por ellas y se hace desgraciado» (SHVS 18). El objetivo educativo es transmitir «la convicción de que *la castidad en el propio estado es posible y genera alegría*»; con la gracia de Cristo todos pueden vivir castamente incluso en circunstancias poco favorables (SHVS 19, 73-74). Las personas con tendencias homosexuales «están llamadas a la castidad» (SHVS 104).
+
+
 ## Distinciones importantes
 
 - **Castidad virginal**: abstención perpetua de toda delectación venérea por motivos sobrenaturales

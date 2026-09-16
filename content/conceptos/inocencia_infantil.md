@@ -27,6 +27,11 @@ La inmadurez moral propia de esta etapa —el niño no tiene aún pleno uso de r
 
 Tóth describe los «años de la inocencia» como fase privilegiada para la formación religiosa del niño. La educación del amor casto en esta etapa es indirecta: se educa la [[modestia]], el respeto de la intimidad y la conciencia de las diferencias entre sexos, sin entrar en explicaciones que superen la capacidad de comprensión del niño. La inmadurez moral propia de esta etapa requiere paciencia, respeto y confianza en la acción de la gracia. El educador debe custodiar la inocencia sin forzar ni anticipationar lo que corresponde a la madurez. [Archivo 26]
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+Los «años de la inocencia» (de los cinco años a la pubertad) son un «período de tranquilidad y de serenidad que no debe ser turbado por una información sexual innecesaria»; en ellos la formación al amor casto ha de ser indirecta, en preparación a la pubertad (SHVS 78). Los padres han de evitar «en modo delicado pero a la vez firme, los intentos de violar la inocencia de sus hijos, porque comprometen su desarrollo espiritual, moral y emotivo como personas en crecimiento y que tienen derecho a tal inocencia» (SHVS 83). Los niños «no son capaces de entender y controlar la imagen sexual en un contexto adecuado de principios morales»; la información prematura «tiende así a perturbar su desarrollo emocional y educativo y la serenidad natural de este período de la vida» (SHVS 83). El derecho del niño a ser informado adecuadamente «viene especificado... por el respeto a su serenidad e inocencia» (SHVS 119).
+
+
 ## Ver también
 
 [[educación_de_los_hijos]], [[castidad]], [[adolescencia]]

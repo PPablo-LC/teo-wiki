@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia Santificante
 tags: ["dogmática"]
 
-timestamp: 2026-06-15
+timestamp: 2026-09-15
 description: "La gracia santificante es un don sobrenatural e inherente al alma, infundido por Dios, que la hace partícipe de la naturaleza divina, hija adoptiva de Dios."
 ---
 # Gracia Santificante
 
 > Área: Dogmática
-> Última actualización: 2026-06-26
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -94,6 +94,10 @@ El capítulo 10 («La santità del cristiano») da a la gracia santificante su f
 - **Gracia y obras**: el peligro opuesto (sola fide sin obras) confirma la regla: la fe que se abandona a Cristo «produrre necessariamente e severamente ancor più opere buone che se si confidasse nella propria stessa operosità». Teresa de Ávila: el matrimonio espiritual tiende «a produrre opere e opere».
 - **La gracia y la pobreza humana** (cap. 11): «dobbiamo rispettare la forza e la libertà della Grazia di Dio, e non credere mai che essa debba arrestarsi davanti alla povertà umana» (a propósito de María Goretti).
 - **La gracia experimentada** (cap. 3, Benedetta): «Ho capito che mi è stato ripagato quello che mi è stato tolto poiché possiedo la ricchezza dello Spirito»; «Ormai con me c'è Dio e sto bene».
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Selman integra las dos líneas de la tradición: la gracia **curativa** agustiniana (sana la naturaleza caída y libera la voluntad para amar la justicia) y la **divinizante** de los Padres griegos. La gracia es participación de la naturaleza divina (Pseudo-Dionisio) y deriva de la Encarnación: la humanidad de Cristo, «llena de gracia», nos hace partícipes de la naturaleza divina; «capax est Dei per gratiam»: el alma, hecha imagen de Dios, tiene apertura a la vida divina. Es «el amor especial por el que Dios atrae a la criatura racional, por encima de la naturaleza, a participar del bien divino»: amor de amistad, gratuito y recíproco — posible porque estamos hechos a su imagen y Dios nos ama en su Hijo encarnado. Es una realidad (*res*): no mera aceptación divina ni «no imputación» de pecados (contra la posición luterana), sino algo que recrea y transforma interiormente; como luz, es el brillo (*nitor*) del alma — doble esplendor: luz natural de la razón y luz divina de la gracia. La virtud la presupone como su raíz.
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-09-13
+timestamp: 2026-09-15
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -315,6 +315,10 @@ El capítulo 6 (S. Francisco de Asís) muestra la Eucaristía como uno de los «
 - **La Eucaristía funda la reverencia al sacerdote**: «dell'Altissimo Figlio di Dio null'altro io vedo corporalmente in questo mondo se non il santissimo Corpo e Sangue suo che essi soli consacrano»: por eso besa las manos del prete concubinario — «le tue mani possono toccare il Verbo di Dio» — y corrige la veneración debida a las palabras divinas escritas incluso en papeles caídos («tutte le lettere possono comporre quel Nome santissimo»).
 - **La Eucaristía como referencia de la vida mística** (cap. 3, Benedetta Bianchi Porro): pierde la vista durante la elevación de la Misa — y precisamente entonces confiesa: «Padre, sono serena e ho tanta luce in me». Su vida interior se alimenta del Señor cercano: «Con Lui mi pare d'essere in una cella chiusa, ma in cammino».
 - **El hospital como extensión del culto** (cap. 4): en S. Spirito, quien entra por la mañana a escuchar la Misa puede después «servire quel Gesù che ha adorato nella Eucarestia, nel corpo malato dei suoi fratelli»: la adoración eucarística desemboca en la caridad hacia los enfermos.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La Eucaristía es el sacramento principal porque contiene al mismo Cristo, «lleno de gracia y verdad»; es el único cuyo elemento material se convierte (el agua del bautismo sigue siendo agua). Sus efectos en la vida espiritual son los del alimento en la corporal: nutre, restaura, da crecimiento, deleita y refresca; es «perfección de la vida espiritual» y «pan de los ángeles» — ellos se alimentan del Verbo por visión; nosotros, por fe: «tenemos sacramentos porque caminamos por fe, no por visión». Es el sacramento de la humanidad de Cristo (por la que nos llega la gracia) en modo invisible.
 
 ## Distinciones importantes
 

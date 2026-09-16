@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Naturaleza y persona"
 tags: ["teología_moral", "antropología_teológica", "libertad"]
-timestamp: 2026-08-06
+timestamp: 2026-09-15
 description: "Rahner distingue al hombre como persona (disponer de la libertad sobre sí mismo) y como naturaleza (corporeidad vivificada); el libro rechaza la distinción."
 ---
 # Naturaleza y persona
 
 > Área: Moral / Antropología teológica
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -29,6 +29,10 @@ Desde el punto de vista del libro, la distinción entre «naturaleza» y «perso
 La distinción entre naturaleza y libertad no puede entenderse como distinción de sujetos en el plano ontológico: en el hombre no coexisten dos sujetos, uno natural y otro libre. El ser humano es un individuo de naturaleza racional. La naturaleza, en sentido metafísico, no es un principio de operaciones uniformes, sino un principio uniforme de operaciones, que pueden muy bien ser libres. El espíritu es una naturaleza no menos que un viviente irracional; la apertura hacia lo universal no invalida el concepto metafísico de naturaleza espiritual (Ele_Xto_Stos, Cap. V, §1).
 
 Por eso no parece realista la distinción entre naturaleza y persona propuesta por algunos autores ligada al concepto de [[opción_fundamental]]: naturaleza sería lo que el sujeto recibe, y persona la pura capacidad de autodecisión. Tal contraposición introduce ambigüedad en la determinación de la responsabilidad moral y hace difícil la articulación unitaria de los saberes filosófico-teológicos con las ciencias de la naturaleza. La necesidad de integrar los diversos elementos físicos y caracteriales de la acción libre pertenece a la esencia de la [[libertad_humana|libertad humana]] y responde a una condición metafísica de todo espíritu finito: el acto es diverso del sujeto y deriva de él. En el caso de la persona humana, la condición natural es al mismo tiempo corpórea y espiritual, pues el espíritu humano, además de ser finito, es esencialmente forma de un cuerpo. La contraposición naturaleza-persona depende de interpretar la apertura intencional del espíritu como una especie de infinitud entitativa que estaría limitada por el cuerpo, como si la finitud fuese una condición extrínseca y el cuerpo la cárcel del alma (Ele_Xto_Stos, Cap. V, §1).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La persona responde a la pregunta «¿quién?» y es el sujeto de las predicaciones; la naturaleza determina cómo algo puede actuar (las tortugas no vuelan porque no tienen naturaleza alada). La persona tiene la existencia; la naturaleza dice cómo existe. Esta gramática permite articular tanto la Trinidad (tres supuestos de una sola naturaleza) como la Encarnación (dos naturalezas de una sola persona, con una sola existencia: la humanidad de Cristo no existió *per se* sino en la persona del Verbo). «Qué» pregunta a veces por la naturaleza y a veces por el supuesto («¿qué nada en el mar?» — un pez, una ballena): persona responde a esta segunda pregunta.
 
 ## Distinciones importantes
 

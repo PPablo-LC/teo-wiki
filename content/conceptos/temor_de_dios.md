@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Temor de Dios
 tags: ["ascética", "mística"]
 
-timestamp: 2026-05-22
+timestamp: 2026-09-15
 description: "El temor de Dios es uno de los siete dones del Espíritu Santo que perfecciona la virtud de la esperanza, infundiendo en el alma una reverencia filial hacia Dios como Padre."
 ---
 # Temor de Dios
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-22
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -38,6 +38,10 @@ El temor filial o casto es el que impulsa a servir a Dios y a cumplir su divina 
 **D‑1416–D‑1417**: «El que quiere acercarse a Dios no debe venir a El con sus pasiones brutales ni ser conducido por el instinto natural o por el temor como las bestias, sino por la fe y por el amor como los hijos. El temor servil sólo se representa a Dios como un amo duro, imperioso, injusto e intratable.» Condenadas. La condena afirma que el temor servil, aunque imperfecto, es un don de Dios y puede ser principio de conversión.
 
 **Pío VI** (1794, D‑1525) — Constitución *Auctorem Fidei*. Condenó como falsa, temeraria, perniciosa, injuriosa a los dones divinos y contraria al Concilio Tridentino la doctrina que afirma de modo general que «el temor de las penas solo no puede llamarse malo, si por lo menos llega a detener la mano», «como si el mismo temor del infierno, que la fe enseña ha de infligirse al pecado, no fuera en sí mismo bueno y provechoso, como don sobrenatural y movimiento inspirado por Dios, que prepara al amor de la justicia». La condena reafirma la doctrina tridentina de que el temor servil es don sobrenatural que dispone para la justificación.
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Dos clases de temor: el **servil** (teme el castigo) y el **filial** (teme ofender o separarse de Dios); solo el segundo es don del Espíritu y va con la caridad: «el temor del Señor es el principio de la sabiduría» (Sal 111,10). El don de temor produce la reverencia por la que estamos sujetos a Dios, y así hace movibles por el Espíritu; con la esperanza produce la humildad: el temor vence la presunción, que da por segura la misericordia y desprecia la justicia. «El temor teme la justicia de Dios y la esperanza espera en su misericordia; la esperanza mira al bien y el temor huye del mal».
 
 ## Distinciones importantes
 

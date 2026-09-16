@@ -9,7 +9,7 @@ description: "La catolicidad es la nota de la Iglesia por la cual ella posee la 
 # Catolicidad
 
 > Área: Eclesiología
-> Última actualización: 2026-05-26
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -28,6 +28,10 @@ El CEC dedica los §§830-856 a la catolicidad. La Iglesia es católica porque a
 ### Según Royo Marín (TPCr)
 
 Royo Marín aborda la catolicidad desde la perspectiva de la misión universal de la Iglesia (TPCr, Parte I, Libro I, cap. 1). La vocación a la perfección cristiana es universal: todos los bautizados están llamados a la santidad, sin distinción de nación, cultura o estado de vida. La catolicidad de la misión eclesial se manifiesta en que la Iglesia envía misioneros a todos los pueblos.
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC ofrece la fuente etimológica de la catolicidad en clave apologética: si el hecho de Cristo ha acontecido y la vía que traza es de Dios, siguiéndola el hombre descubrirá que «si mostra più umana come sintesi, più compiuta nella valorizzazione dei fattori in gioco»; entenderá mejor los demás caminos y «acquisterebbe così la capacità di cogliere tutto ciò che di buono ci fosse anche nelle altre strade»: «un'esperienza capace di abbracciare la totalità dei valori, «cattolica», nel suo senso etimologico: secondo l'interezza, universale» (cita de Nostra aetate 2). La catolicidad no es así una nota jurídica sino la consecuencia de la unicidad: solo la vía trazada por Dios permite abrazar todo lo verdadero repartido en las demás ([[pretesa_cristiana]], [[teología_de_las_religiones]]).
 
 ## Distinciones importantes
 

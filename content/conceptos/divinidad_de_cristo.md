@@ -9,7 +9,7 @@ description: "La fe de la Iglesia Católica en que Jesucristo es verdadero Dios 
 # Divinidad de Cristo
 
 > Área: Cristología / Dogmática
-> Última actualización: 2026-06-21
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -32,6 +32,10 @@ La concentración cristocéntrica es característica del cristianismo: toda la r
 El Papa remite a su encíclica *Redemptor Hominis* como punto de partida de su pontificado: Cristo es el Redentor del hombre, y el hombre es el camino de la Iglesia.
 
 [UDE, Cap. VII]
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC reconstruye la trayectoria con la que la divinidad de Jesús se hizo explícita. Implícitamente, Gesù se atribuye tres prerrogativas reservadas a Dios: el origen de la Ley («Fue dicho... pero yo os digo», Mt 5), el poder de perdonar los pecados (Mc 2,1-12) y el ser el criterio mismo del bien en el Juicio final (Mt 25,31-44): «Lui è il bene e non essere con Lui è male». Explícitamente: la pregunta sobre el Salmo 110 («¿cómo puede David llamarlo Señor?»); el «Prima che Abramo fosse, Io sono» (Gv 8,58; [[preexistencia_del_verbo]]); y la condena por blasfemia ante el Sinedrio, que testimonia judicialmente que sus adversarios reconocieron en su frase la identificación con el divino ([[proceso_de_jesús]]). La objeción moderna — que Jesús solo se habría proclamado «Hijo de Dios» — queda así desmontada históricamente. La identificación es única en la historia de las religiones: ningún genio religioso se identificó con el divino, porque cuanto más grande el genio, más percibe la distancia ([[pretesa_cristiana]]).
 
 ## Distinciones importantes
 

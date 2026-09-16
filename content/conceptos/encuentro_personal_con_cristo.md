@@ -8,7 +8,7 @@ description: "El cristianismo comienza por el encuentro con Cristo vivo, una per
 # Encuentro personal con Cristo
 
 > Área: Espiritualidad / Evangelización / Cristología
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -31,6 +31,10 @@ Magisterialmente, el encuentro no es un momento aislado sino el objetivo esencia
 **El Cristo que camina con los que van por mal camino (18):** El obispo Robert Barron lee la historia de Emaús como icono de la Misa: los discípulos que caminaban en la dirección equivocada, alejándose de Jerusalén, vuelven a ella tras el encuentro con el Cristo que les explica las Escrituras y parte el pan. La mayoría de la gente camina por mal camino; necesitan al Cristo que camina con ellos aun cuando van en la dirección equivocada. Ese Cristo se hace disponible en la Iglesia, donde se parten la palabra y el pan, y son sus miembros quienes acompañan a los que caminan mal: la Iglesia no se limita a vagar con ellos, sino que en un momento clave enseña, eucaristiza y envía en misión. El encuentro se alimenta de la experiencia de Bartimeo — Dios nos llama pero nunca nos compele — y del hombre espiritual que dice con Pablo: «Ya no vivo yo, sino que Cristo vive en mí» (Gál 2,20).
 
 **El encuentro con Cristo, Cuerpo Místico (21):** Para Fr. Richard Whittington, el objetivo esencial de la pastoral de la conversión es el encuentro entre los católicos y el Cristo vivo, que permanece en la Iglesia, su Cuerpo Místico. «Conversión es obra de Dios y misterio de gracia, pero la gracia nos llega a través del Cuerpo de Cristo». Cuando los católicos experimentan la Iglesia como puramente institucional, a menudo optan por salirse en favor de algo más personal: van en busca de la persona de Cristo y, sin embargo, extrañan su cercanía en el lugar que dejan atrás — en los sacramentos y en la gente que vieron en Misa pero nunca llegaron a conocer. «Las personas que entran en la Iglesia están listas para recibir. Nosotros debemos estar listos para dar».
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+El encuentro personal con Cristo es la clave de la introducción de ODPC: «Cristo se pone como respuesta a lo que soy «yo»; solo una toma de conciencia atenta, y también tierna y apasionada, de mí mismo me puede abrir y disponer a reconocer, admirar, agradecer, vivir a Cristo. Sin esta conciencia, también el de Jesucristo se convierte en un puro nombre». La primera página del encuentro (Jn 1,35-51) muestra el modo con el que el hombre «ha entendido, entiende y entenderá quién es Cristo»: personas que siguen por curiosidad, permanecen con él hasta la tarde, y comunican una certidumbre que desborda lo que podrían haber argumentado ([[primeros_discípulos]], [[convivenza]]). El itinerario de la convicción (Cana; «y sus discípulos creyeron en él») muestra que el encuentro crece por reiteración en la convivencia hasta la certeza ([[certeza]]).
 
 ## Distinciones importantes
 

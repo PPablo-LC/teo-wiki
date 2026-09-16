@@ -65,6 +65,11 @@ Giussani recoge la anécdota de un grupo de sacerdotes brasileños que envió a 
 
 La vocación a la virginidad «o es ejercicio consciente de todo lo que decimos… o corrompe el sentido de su tiempo» (AED, 07, 77). Quien se instala en el punto al que Dios lo llamaba ve disolverse «el sentimiento de malestar o de rabia por haber tenido que abandonar ciertas evidencias» (AED, 07, 75); en cambio, quien traiciona su vocación «no será jamás gozoso, jamás» (AED, 07, 79). Y quien busca vivir ese fin, desgarrándose continuamente de los incollamenti, «llegará a la alegría. No en el otro mundo, sino en este mundo, porque la alegría es la profecía de la felicidad, la alegría es el anticipo de lo eterno» (AED, 07, 81).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«Es necesario que no falte nunca en la catequesis y en la formación impartida dentro y fuera de la familia... la enseñanza de la Iglesia sobre el valor eminente de la virginidad y del celibato» (SHVS 101). La familia cristiana debe ser capaz de ayudar «a entender el valor del celibato cristiano y de la castidad a aquellos hijos no casados o inhábiles para el matrimonio por razones ajenas a su propia voluntad», para que «puedan rectamente descubrir la voluntad de Dios en dicha situación y encontrar así un sentido de vocación y de paz en la propia vida» (SHVS 36).
+
+
 ## Distinciones importantes
 
 - **Celibato vs. castidad**: la castidad es virtud para todos; el celibato es un estado de vida que implica continencia perpetua

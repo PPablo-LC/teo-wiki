@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Analogía
 tags: ["dogmática", "teología_fundamental"]
 
-timestamp: 2026-06-17
+timestamp: 2026-09-15
 description: "La analogía es el modo propio del lenguaje teológico, por el cual podemos nombrar a Dios a partir de las perfecciones de las criaturas."
 ---
 # Analogía
 
 > Área: Dogmática / Teología fundamental
-> Última actualización: 2026-06-17
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -36,6 +36,10 @@ a.6 — En la analogía de atribución, la perfección se dice primero de Dios (
 
 Esta doctrina es fundamental para todo el lenguaje teológico.
 
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Selman traza la analogía desde su fundamento bíblico («analogos» en Sab 13,5) y su fuente dionisiana (De Divinis Nominibus). De Dios se conocen dos cosas: que es causa de todo y que difiere de todo lo causado; de ahí las dos vías: de la **eminencia** y de la **negación** (via remotionis): las negaciones no especifican la naturaleza divina sino que quitan límites — por eso Dios es incomprehensible y no entra en ninguna clase (el ser no es género). Si los nombres fueran unívocos, Dios se reduciría al nivel de las criaturas; si equívocos, nada significativo se podría decir de Él. La analogía propia (bondad, justicia, sabiduría) se distingue de la metáfora (roca, escudo, lámpara): en aquella, *cómo* significa la palabra es como en las criaturas, pero *qué* significa se aplica primero a Dios, causa de las perfecciones; «toda analogía implica la relación de causa». Los muchos nombres de Dios no lo hacen compuesto: sus perfecciones son una en Él y múltiples en las criaturas; el hombre *tiene* sabiduría, Dios *es* la sabiduría (el «is» de identidad). La primera analogía es la del ser: Dios es el Ser y las criaturas son entes por participación («lo que tiene el ser y no es el ser mismo es ente por participación»), recibiendo su existencia de algo que es su Existencia misma.
 
 ## Ver también
 

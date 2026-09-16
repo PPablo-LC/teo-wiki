@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia actual
 tags: ["dogmática"]
 
-timestamp: 2026-08-24
+timestamp: 2026-09-15
 description: "La gracia actual es un auxilio sobrenatural transitorio que Dios concede al alma para iluminar el entendimiento y mover la voluntad a obrar el bien sobrenatural."
 ---
 # Gracia actual
 
 > Área: Dogmática
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -35,6 +35,10 @@ En *La vocación explicada*, Juan Pablo II describe la acción de la gracia actu
 
 Ver artículo principal: [[gracias_actuales]]
 
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La gracia habitual es como el violín afinado; la actual, como las notas que se tocan: asistencia divina para cada acción. Contra Pelagio (el hombre se basta con la ley y el ejemplo) y contra Lutero (no queda bien natural alguno), Tomás sostiene que quedan potencias naturales (razón, voluntad) aunque debilitadas — «la imagen no se ha borrado del todo, quedan los contornos» (Agustín). La gracia es **operativa y cooperativa**: Dios hace que queramos; cuando queremos, coopera para completar — «totalmente de Dios y totalmente nuestra»; sin la respuesta libre, los actos no serían voluntarios ni meritorios. La gracia es movimiento (*motus*): Dios mueve la voluntad **desde dentro**, como Primera Causa, sin forzarla — ser causado no es contrario a la libertad (el determinismo sí, contra Hume); «no somos forzados sino inclinados al bien»; la voluntad conserva siempre la posibilidad de resistir, y aceptar la gracia requiere un acto de la voluntad.
 
 ## Analizado para
 

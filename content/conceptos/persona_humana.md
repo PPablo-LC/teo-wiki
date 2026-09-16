@@ -81,6 +81,11 @@ Tóth aplica el principio personalista a la pedagogía: «todo niño es una pers
 
 **«No soy una persona»: la pregunta de Alfie (Schiffer).** En la película *The Creator*, Alfie, un robot con apariencia de niña, se pregunta: «No podemos ir al cielo, porque no eres bueno—y yo no soy una persona» [EAC-19, 07_film.md, L3-7]. La frase desafía al espectador a preguntarse por el cielo, por el significado de la «bondad» y por lo que significa ser una «persona», cuestiones que la antropología católica responde señalando el fundamento de la persona en la creación a imagen de Dios y en el alma espiritual.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«Todo niño es una persona única e irrepetible y debe recibir una formación individualizada. Puesto que los padres conocen, comprenden y aman a cada uno de sus hijos en su irrepetibilidad, cuentan con la mejor posición para decidir el momento oportuno de dar las distintas informaciones» (SHVS 65). En el diálogo con cada hijo, «hecho con amor y con confianza, los padres comunican algo del propio don de sí» (SHVS 66). «El hombre, en efecto, es llamado al amor como espíritu encarnado, es decir, alma y cuerpo en la unidad de la persona» (SHVS 3).
+
+
 ## Distinciones importantes
 
 - **Persona** ≠ **individuo**: la persona es un individuo de naturaleza racional con dignidad intrínseca.

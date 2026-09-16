@@ -9,7 +9,7 @@ description: "El pecado original es el pecado cometido por nuestros primeros pad
 # Pecado original
 
 > Área: Dogmática
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -198,6 +198,15 @@ El texto subraya la importancia del estudio del pecado original para comprender 
 **El «seréis como dioses» (cap. XIV).** Giussani describe la génesis del pecado como el intento de reducir el Misterio a la propia medida: la sugerencia de la serpiente «seréis como dioses» (Gn 3,1-7) — el hombre que quiere determinar por sí mismo el bien y el mal y eliminar la distancia con el Absoluto (SR, `21_capitolo_quattordicesimo.md`, §89-100).
 
 **La impaciencia que fabrica ídolos (cap. XIV).** La «impaciencia de la razón» (Es 32,1-4: el becerro de oro) y la idolatría —cambiar la verdad de Dios por la mentira (Rm 1,22-31)— prolongan la pretensión edénica; de esa pretensión nacen la violencia y la guerra (SR, `21_capitolo_quattordicesimo.md`, §59-70, 101-130).
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC describe el pecado original como el «disordine umano»: «l'uomo è di fatto incapace di vivere compiutamente la grande dipendenza da Colui che è la sua verità e la proiezione di essa nella vita come dono, amore e servizio... vive uno strano egocentrismo, per cui... invece di darsi, tenta di prendersi, invece di amare, di sfruttare». Este dato depende de «una situazione originale, nativa», que la tradición cristiana atribuye a un desorden heredado, responsabilmente introducido; determina el clima del mundo en dirección contraria al designio de Dios (Gv 1,10; 12,31; 15,18). Su experiencia es universal: «Quanto più un uomo è sensibile e cosciente... tanto più si accorge di non riuscire a esserlo»; y su grito es el de Pablo: «Me infelice, chi mi libererà da questa situazione mortale?» (Rm 7,24) — «questo grido è l'unica origine perché un uomo possa considerare seriamente la proposta di Cristo». De ahí la compañía como esencial: «non si può essere se stessi da soli» ([[compañía]], [[dependencia_de_dios]]).
+
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+El amor está expuesto, como toda la vida de la persona, «a la fragilidad debida al pecado original»; pero «la redención del Señor ha hecho de la práctica positiva de la castidad una realidad posible y un motivo de alegría» (SHVS 3). El primer principio operativo es doctrinal: «La sexualidad humana es un misterio sagrado que debe ser presentado según la enseñanza doctrinal y moral de la Iglesia, teniendo siempre en cuenta los efectos del pecado original», es decir, «la debilidad humana y la necesidad de la gracia de Dios para superar las tentaciones y evitar el pecado» (SHVS 122-123). El realismo cristiano excluye tanto la ingenuidad como la desconfianza hacia el cuerpo: la sexualidad es un gran don de Dios y no «una realidad vergonzosa o sucia» (SHVS 96).
+
 
 ## Distinciones importantes
 

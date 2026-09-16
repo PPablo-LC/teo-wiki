@@ -83,6 +83,11 @@ El capítulo 13 (San Tommaso Moro) es el paradigma de la conciencia no dividida:
 - **Contra la «coscienza sociale»**: el capítulo diagnostica la contradicción moderna: se defiende la inviolabilidad de la conciencia personal pero se pliega la propia a una «coscienza di maggioranza»; y los responsables públicos «dividono in due la coscienza»: como privados juzgan injusta una ley, como públicos la «amministrano». «Se la coscienza sociale vuole adorare il vitello d'oro noi le costruiamo il vitello d'oro e chiamiamo questo tolleranza, rispetto della coscienza altrui, fedeltà al proprio dovere pubblico».
 - **Conciencia formada con esfuerzo**: Moro no tenía certeza «teológica» absoluta (creía incluso que el Concilio era superior al Papa y que la cuestión no estaba del todo definida), pero «dieci anni di ricerche sugli scritti dei Padri e sui Concili lo avevano convinto in coscienza». Su regla: «Non attacco né condanno l'attitudine degli altri... ma la mia coscienza su questo punto è tale, che ne va della mia salvezza. Di ciò, Meg, sono convinto come dell'esistenza di Dio». Y los «conti de la torre»: «prima di mettermi a costruire questa fortezza per la salvaguardia della mia anima... ho fatto i conti... per molte notti d'insonnia».
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«Presente "en lo más íntimo de la persona, la conciencia moral" —que es el "núcleo más secreto y el sagrario del hombre", según afirma el Concilio Vaticano II—, "le ordena, en el momento oportuno, practicar el bien y evitar el mal. Juzga también las elecciones concretas, aprobando las buenas y denunciando las malas. Atestigua la autoridad de la verdad con referencia al Bien supremo por el cual la persona humana se siente atraída y cuyos mandamientos acoge"» (SHVS 95). «La conciencia moral es un juicio de la razón por el que la persona humana reconoce la cualidad moral de un acto concreto que piensa hacer, está haciendo o ha hecho» (SHVS 95). La educación sexual debe llevar a los hijos «a conocer y estimar las normas morales como garantía necesaria y preciosa para un crecimiento personal y responsable en la sexualidad humana» (SHVS 43).
+
+
 ## Distinciones importantes
 
 - **Consciencia y sentimiento:** La consciencia no es un sentimiento subjetivo, sino un juicio de la razón iluminada por la fe.

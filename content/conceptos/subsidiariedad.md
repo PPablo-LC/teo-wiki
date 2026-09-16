@@ -53,6 +53,11 @@ La subsidiariedad exige equilibrarse con la [[solidaridad]]: «La solidaridad si
 
 [[dorothy_day]] aplicó el principio contra el que llamaba «Santa Madre Estado»: cuando el Estado asume tareas que corresponden a personas o grupos pequeños y localizados —cuidar del enfermo, del huérfano, del pobre— viola la subsidiariedad; aunque esa invasión suele forzarse por el fracaso de la responsabilidad personal, «no es una circunstancia que deba promoverse». Sus casas de hospitalidad, modeladas sobre la familia y no sobre la institución pública, son ejemplo de respuesta subsidiaria al prójimo necesitado: «Solo una persona puede servir plenamente a otra persona», también en sus necesidades espirituales [EAC-2, 14_dorothy_day_personalist].
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+El documento aplica la subsidiariedad a la educación en el amor: los padres «comparten su misión educativa con otras personas e instituciones, como la Iglesia y el Estado; pero aplicando correctamente el *principio de subsidiaridad*. De ahí la legitimidad e incluso el deber de ayudar a los padres, pero a la vez el límite intrínseco y no rebasable del derecho prevalente... cualquier otro colaborador en el proceso educativo debe actuar *en nombre de los padres, con su consenso* y, en cierta medida, incluso *por encargo suyo*» (SHVS 23). La Iglesia «reafirma la ley de la subsidiariedad, que la escuela tiene que observar cuando coopera en la educación sexual, situándose en el espíritu mismo que anima a los padres» (SHVS 43). En la conclusión: el papel de quienes ayudan a los padres es siempre «a) *subsidiario*, puesto que la misión formativa de la comunidad familiar es siempre preferible, y b) *subordinado*, es decir, sujeto a la guía atenta y al control de los padres»; la ayuda debe proporcionarse «principalmente a los padres y no a los hijos» (SHVS 145).
+
+
 ## Distinciones importantes
 
 - Se distingue del colectivismo, que absorbe las iniciativas particulares

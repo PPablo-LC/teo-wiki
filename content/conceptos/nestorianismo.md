@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Nestorianismo
 tags: ["dogmática_(cristología)"]
 
-timestamp: 2026-06-24
+timestamp: 2026-09-15
 description: "Herejía cristológica del siglo V que afirma la existencia de dos personas distintas en Cristo —una divina y otra humana— separando la unión hipostática."
 ---
 # Nestorianismo
 
 > Área: Dogmática (Cristología)
-> Última actualización: 2026-06-24
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -30,6 +30,10 @@ El **II Concilio de Constantinopla** (553) constituye la condena más completa d
 ## Relaciones doctrinales
 
 El nestorianismo se opone a la [[unión_hipostática]] y a la [[comunicación_de_idiomas]]. Niega la [[maternidad_divina_de_maría]] al rechazar que María sea *Theotokos*. Se distingue del [[monofisismo]] (que fusiona las naturalezas) y del [[adopcionismo]] (que niega la preexistencia divina).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Nestorio, no viendo cómo una naturaleza humana verdadera pudiera no ser una persona humana, dividió a Cristo en dos personas; María no sería Madre de Dios, y el hombre Jesús sería distinto del Hijo de Dios. Contra él: «si las dos naturalezas no están unidas en la misma persona, no están realmente unidas»; la unión no es por gracia (como la del Verbo con los santos): la gracia fluye *de* la unión; Cristo no diría «Yo soy la luz del mundo» sino «la luz del mundo habita en mí». Si Cristo fueran dos personas, tendría dos existencias: la gramática de la Escritura (predicar divino y humano del mismo sujeto) exige una sola persona.
 
 ## Ver también
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Espíritu Santo
 tags: ["dogmática"]
 
-timestamp: 2026-07-01
+timestamp: 2026-09-15
 description: "Tercera Persona de la Santísima Trinidad, Dios verdadero, consubstancial al Padre y al Hijo, que procede del Padre y del Hijo (Filioque)."
 ---
 # Espíritu Santo
 
 > Área: Dogmática
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -72,6 +72,10 @@ Juan Pablo II dedica la tercera parte de su ciclo cristológico a la acción del
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El Espíritu de Dios no puede separarse del Padre y del Hijo; se revela con ellos, pero carece de un nombre que evoque una figura humana —*ruah* (viento, soplo)—, recordando que «Dios es Espíritu» (Jn 4,24) y que «el Señor es el Espíritu» (2Cor 3,17) [VocTeoBib, «Espíritu de Dios»]. En el AT actúa como fuerza divina que transforma personalidades: suscita jueces libertadores (Jue 3,10; 14,6), unge reyes (1Sa 16,13), reposa sobre el Mesías (Is 11,2), inspira a los profetas y consagra al Siervo de Yahveh (Is 42,1; 61,1ss). Se anuncia su efusión sobre todo el pueblo (Jl 3,1s; Ez 36,25-27). En el NT, Jesús es concebido por el Espíritu (Lc 1,35), ungido en su bautismo (Mc 1,10), y toda su acción se realiza en el Espíritu (Lc 4,14.18). Jesús promete el Espíritu como Paráclito (Jn 14,16s.26; 16,13ss) y, resucitado, lo derrama sobre la Iglesia (Jn 20,22s). Pablo describe al Espíritu como fuente de la nueva vida (Rom 8,2.11; Gal 5,19-23) y principio de unidad del Cuerpo de Cristo (1Cor 12,13; Ef 4,3).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+El Espíritu procede como el amor subsistente del Padre y del Hijo: el Verbo «espira amor» (*verbum spirans amorem*); amar no engendra semejante sino que inclina hacia lo amado — de ahí el nombre de Espíritu (*ruah*: viento, aliento). Procede del Padre y del Hijo porque su amor es mutuo («todo lo que tiene el Padre es mío», Jn 16,15), aunque el Padre permanece única fuente de la divinidad: el Hijo tiene del Padre el espirar. Hace obras solo divinas: escudriña las profundidades de Dios, habla, revela, enseña interiormente, habita en nosotros, es derramado en nuestros corazones, llena el universo, crea y santifica. Contra Pedro Lombardo: la presencia del Espíritu es gracia increada, pero sus efectos en nosotros son gracia creada — si toda caridad fuera la mismísima presencia increada, no sería voluntaria en nosotros.
 
 ## Distinciones importantes
 

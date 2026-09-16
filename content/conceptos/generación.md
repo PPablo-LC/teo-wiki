@@ -29,6 +29,11 @@ El hombre es heredero de la bendición pero también del pecado de las generacio
 
 Desde Cristo, la pertenencia a la generación perversa no es fatal. El Espíritu ha sido enviado para la remisión de los pecados; uno puede «salvarse de ella» y pertenecer a la generación de Abraham el creyente, ser la «generación elegida» de los que han nacido de Dios. Los cristianos deben brillar como focos de luz en medio de una generación extraviada.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+Al dar la vida «los padres cooperan con el poder creador de Dios» (SHVS 5); Dios ha puesto en el cuerpo humano «la capacidad de engendrar, haciéndonos partícipes de su poder creador» (SHVS 96). A la generación primera debe seguir «la generación *segunda*», la educación: «recordando de modo sintético cuanto se ha dicho hasta ahora y exponiéndolo en plan operativo, se hacen las siguientes recomendaciones» (SHVS 112).
+
+
 ## Distinciones importantes
 
 - Generación carnal (descendencia según la carne) vs. generación espiritual (nacidos de Dios por la fe)

@@ -9,7 +9,7 @@ description: "Actitud o comportamiento que induce a otro a cometer [[pecado]]."
 # Escándalo
 
 > Área: Moral
-> Última actualización: 2026-06-02
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -46,6 +46,10 @@ En el segundo polo, el hombre que abusa de su poder sobre el débil para apartar
 
 Royo Marín, al tratar el pecado, incluye el escándalo como pecado contra la caridad fraterna. Distingue entre escándalo activo (el que da ocasión) y pasivo (el que se escandaliza). El escándalo farisaico (escandalizarse por el bien) es pecado de malicia.
 
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC recupera el skándalon de Kierkegaard (Diario): «La forma più bassa dello scandalo, umanamente parlando, è lasciare senza soluzione tutto il problema intorno a Cristo... tu devi prendere posizione di fronte a Cristo». El escándalo, en su etimología griega, es impedimento: impediría a sí mismo ser hombre quien se dejara llevar de la posibilidad de hacerse una opinión personal sobre el problema de Cristo; se puede «vivir de cristiano» en una «truppa cristiana» sin que el problema haya sido verdaderamente resuelto para la propia persona. La reacción escandalizada nace cuando la pretensión de Gesù se aclara como entrada en el dominio de la libertad («o lo si accetta... o lo si rifiuta, e diventa ostilità»): el «rey de Portugal» traicionado por el alcalde desplazado de su centralidad. El escándalo es también la cerrazón que no deja ver los signos: el legalismo de los capítulos ante el ciego nacido ([[ciego_nacido]]), la faziosidad «là dove un'idea diventa una posizione, anziché un'obbedienza alla realtà». Y el «dogma» moderno que prohíbe a Dios intervenir en la vida es su forma última: la pretensión idolátrica al revés ([[pretesa_cristiana]], [[idolatría]]).
 
 ## Relaciones doctrinales
 

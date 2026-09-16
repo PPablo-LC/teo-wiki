@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Presencia Real
 tags: ["eucaristía"]
 
-timestamp: 2026-09-05
+timestamp: 2026-09-15
 description: "Presencia verdadera, real y substancial de Jesucristo —Dios y hombre verdadero— en el sacramento de la Eucaristía, bajo las especies del pan y del vino consagrados."
 ---
 # Presencia Real
 
 > Área: Eucaristía
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -111,6 +111,10 @@ Los testimonios del bloque «Emmaus» muestran la [[presencia_real]] de Cristo e
 Andrew Allen subraya que la [[mistagogia]] del itinerario del [[catecumenado]] introduce a los neófitos en el misterio eucarístico: antes que una doctrina por explicar, la Eucaristía es una Persona a la que se aprende a adorar (RCIA 244) [EAC-18, 16_feature_allen.md].
 
 La sección «Soul» añade que, en la [[era_secular]], el escepticismo ante la presencia real puede ser una puerta de entrada a la fe: reconocer la propia increencia y pedir ayuda es ya el comienzo de la entrega que realiza la gracia [EAC-18, 21_soul.md].
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La sustancia es entera en el todo y entera en la parte: por eso el Cristo entero está bajo cada especie, y no se rompe cuando se rompen las apariencias («se rompe el signo, no la realidad», Lauda Sion); los sentidos no se engañan — ven lo que hay: apariencias divididas. Contra Berengario: lo que se come, se come bajo sus propias apariencias — pero Cristo está bajo apariencias *sacramentales*, no propias; contra la transignificación (cambio nominal: la moneda sigue siendo plata, el pan no queda pan): Jesús «no dice 'significa mi carne' sino 'ES mi carne': lo que se come en realidad es verdaderamente el cuerpo de Cristo». Cristo oculto bajo las apariencias: en la tierra su humanidad era visible y su divinidad oculta; aquí su humanidad también está oculta — hay que entrar por el velo, como el sumo sacerdote en el Santo de los santos. El cuerpo en el sacramento es el mismo que en el cielo, con un modo de existencia distinto (en el cielo en su apariencia propia; en el sacramento como la sustancia es); y el sacramento es «de la verdad»: no hay engaño — la fe aprehende la realidad; «nil hoc verbo veritatis verius» (Adoro te devote).
 
 ## Distinciones importantes
 

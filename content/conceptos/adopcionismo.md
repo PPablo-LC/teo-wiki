@@ -3,17 +3,23 @@ type: Concepto Teológico
 title: Adopcionismo
 tags: ["dogmática_—_cristología", "herejías"]
 
-timestamp: 2026-06-25
+timestamp: 2026-09-15
 description: "Herejía cristológica que afirma que Cristo es Hijo de Dios por naturaleza según su divinidad, pero hijo adoptivo según su humanidad."
 ---
 # Adopcionismo
 
 > Área: Dogmática — Cristología, Herejías
-> Última actualización: 2026-06-25
+> Última actualización: 2026-09-15
 
 ## Definición
 
 Herejía cristológica que afirma que Cristo es Hijo de Dios por naturaleza según su divinidad, pero hijo adoptivo según su humanidad. El adopcionismo niega que la humanidad de Cristo, asumida por la Persona del Verbo, goce de la filiación natural divina. Fue condenado como herejía en los concilios de Ratisbona (792) y Francfort (794).
+
+## Perspectivas por fuente
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+El adopcionismo — un hombre elevado al status divino — es la inversión de la verdad: «un hombre no se hace Dios; Dios se hace hombre» (*non assumpsit hominem*: no asumió a un hombre, asumió la naturaleza humana). Contra la visión común moderna de que Cristo «fue declarado Hijo de Dios por favor divino por ser excepcionalmente bueno»: el Hijo de Dios se hizo hombre; la Encarnación no es el ascenso de un hombre sino el descenso del Verbo (Jn 3,13).
 
 ## Desarrollo doctrinal
 

@@ -41,6 +41,11 @@ La fecundidad potencial pertenece a la «verdad interior» del acto conyugal; pr
 
 El cuerpo «habla» también con sus estructuras internas: los ritmos biológicos de fecundidad pertenecen a la verdad objetiva del lenguaje del cuerpo (TdC 05.09.1984). «Usufructuar el don del amor conyugal respetando las leyes del proceso generador significa reconocerse no árbitros de las fuentes de la vida humana, sino más bien administradores del plan establecido por el Creador» (TdC 05.09.1984, cf. HV 13).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La fecundidad es el fruto y el signo del amor conyugal, el testimonio vivo de la entrega plena y recíproca de los esposos» (SHVS 93). La cuarta característica del amor conyugal es precisamente ser fecundo (SHVS 29). A los hijos hay que ayudarles a acoger con alegría el desarrollo de la feminidad y a resaltar «la belleza de la maternidad y la maravillosa realidad de la procreación» (SHVS 90, 92). Para los hijos no casados o inhábiles para el matrimonio, la fe abre «las grandes posibilidades de realización de sí y de fecundidad espiritual» (SHVS 36).
+
+
 ## Distinciones importantes
 
 - Fecundidad corporal (bendición del AT) vs. fecundidad espiritual (NT)

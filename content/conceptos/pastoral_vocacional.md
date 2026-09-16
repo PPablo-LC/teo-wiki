@@ -51,6 +51,11 @@ La pastoral vocacional debe caracterizarse por:
 - Oración constante por las vocaciones
 - Testimonio personal de los sacerdotes como «primera y más convincente propuesta vocacional» (PDV 38)
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La familia tiene *un papel decisivo* en el nacer de las vocaciones y en su desarrollo»: en la iglesia doméstica los padres son los primeros predicadores de la fe y deben fomentar la vocación propia de cada uno, «pero con un cuidado especial la vocación sagrada». «El signo de una pastoral familiar adecuada es precisamente el hecho que florezcan las vocaciones: donde existe una iluminada y eficaz pastoral de la familia... así es más fácil que resuene en ella la voz de Dios» (SHVS 26). Las familias «animadas del espíritu de fe, caridad y piedad, son como un primer seminario» (SHVS 35).
+
+
 ## Distinciones importantes
 
 - Pastoral vocacional (promoción de vocaciones al ministerio ordenado) vs. promoción vocacional (vocaciones a la vida consagrada y otras formas de seguimiento)

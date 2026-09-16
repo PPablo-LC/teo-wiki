@@ -51,6 +51,11 @@ El movimiento pro-life «siempre se ha caracterizado por un palpable sentido de 
 
 [EAC-14, 16_feature_desanctis.md]
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La vida humana es un don recibido para ser a su vez dado» (SHVS 12). El primer ejemplo y la mayor ayuda que los padres dan a sus hijos es su generosidad «en acoger la vida»: «es menor mal negar a los propios hijos ciertas comodidades y ventajas materiales que privarlos de la presencia de hermanos y hermanas que podrían ayudarlos a desarrollar su humanidad y a comprobar la belleza de la vida en cada una de sus fases y en toda su variedad» (SHVS 61). «Sólo un amor verdadero sabe custodiar la vida» (SHVS 105).
+
+
 ## Distinciones importantes
 
 - **Vida biológica vs. espiritual**: la vida humana incluye ambas dimensiones; no se reduce a lo biológico

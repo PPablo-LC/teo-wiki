@@ -29,6 +29,11 @@ La concupiscencia lleva consigo la pérdida de la libertad interior del don, a l
 
 La pureza del corazón restituye el dominio de sí: el amor que procede de la voluntad y del espíritu se apodera del acto corpóreo y lo hace expresión de la donación sincera de la persona.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La castidad implica un *aprendizaje del dominio de sí*, que es una pedagogía de la libertad humana. La alternativa es clara: o el hombre controla sus pasiones y obtiene la paz, o se deja dominar por ellas y se hace desgraciado» (SHVS 18). El autodominio es «condición necesaria para ser capaces del don de sí»: los niños y los jóvenes han de ser estimulados a apreciar y practicar el autocontrol y el recato, a vivir en forma ordenada, a realizar sacrificios personales «en espíritu de amor a Dios, de autorespeto y generosidad hacia los demás, sin sofocar los sentimientos y tendencias sino encauzándolos en una vida virtuosa» (SHVS 58).
+
+
 ## Distinciones importantes
 
 - **Autodominio** ≠ **represión**: el dominio de sí no reprime el cuerpo, sino que lo hace capaz de expresar libremente el don.

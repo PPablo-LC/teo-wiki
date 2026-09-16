@@ -9,7 +9,7 @@ description: "El sacrificio es la ofrenda hecha a Dios en señal de adoración, 
 # Sacrificio
 
 > Área: Dogmática / Sacramental
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -58,6 +58,10 @@ El sacrificio es el signo de que se reconoce una Presencia que viene antes que u
 - El único sacrificio perfecto es el de Cristo en la cruz
 - El sacrificio eucarístico hace presente el único sacrificio de Cristo de modo incruento
 - Los cristianos participan del sacrificio de Cristo uniendo su vida a Él
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC sitúa el sacrificio en el corazón de la concepción que Gesù tiene de la vida: la ley de la existencia es el don de sí — «l'uomo completa se stesso dandosi via, sacrificandosi» — siguiendo el grano de trigo que muere (Gv 12,23-26) y la entrega eucarística ([[don_de_sí]]). La paradoja: «la felicità attraverso il sacrificio»; cuanto más uno la acepta, tanto más experimenta ya en este mundo una mayor completud, que Gesù llamaba «pace». El deber mismo — ordenar la propia impulsividad al todo — tiene por esencia el amor: el sacrificio no es un valor autónomo sino el modo del don; por eso es absurdo «desear el sacrificio» y nada más farisaico que el deber por el deber. La motivación de virginidad y matrimonio es la misma: la entrega «al Regno dei cieli» (Mt 19,12). Sin Cristo, que devuelve al hombre continuamente el poder de elegir bien, el sacrificio es humanamente insostenible ([[libertad]], [[pecado_original]]).
 
 ## Relaciones doctrinales
 

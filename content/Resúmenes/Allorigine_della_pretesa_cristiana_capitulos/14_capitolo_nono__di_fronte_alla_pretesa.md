@@ -1,0 +1,45 @@
+---
+type: ResumenFuente
+title: "Capitolo nono — DI FRONTE ALLA PRETESA"
+fuente: Allorigine_della_pretesa_cristiana_capitoli
+capítulo: 14
+timestamp: 2026-09-15
+description: "Resumen de 'Capitolo nono — DI FRONTE ALLA PRETESA' — Allorigine_della_pretesa_cristiana_capitoli"
+tags: ["resumen", "allorigine della pretesa cristiana capitoli"]
+---
+
+# Capitolo nono — DI FRONTE ALLA PRETESA
+
+## Conceptos básicos referenciados
+
+- [[encarnación]] — los términos del misterio; el método de Dios
+- [[divinidad_de_cristo]] — el hombre-Dios como realidad histórica extraordinaria
+- [[herejías_cristológicas]] — el docetismo y la resistencia a la Encarnación
+- [[pretesa_cristiana]] — la resistencia instintiva; el destino no ha dejado solo al hombre
+- [[fe_y_razón]] — el «dogma» moderno de la división fe/realidad como idolatría
+
+## Contenido
+
+### 1. Il mistero dell'Incarnazione
+
+Toda la vida pública de Gesù demuestra una profunda capacidad de dominio de la naturaleza. «Este poder sobre todo, Él lo realizaba con soberana tranquilidad, sin necesidad de nada»: sanaba a distancia, mandaba a la realidad impersonal de la naturaleza. Lo que golpeaba era el *modo* de operar prodigios: «respondía a una urgencia ética, constituía un recuerdo moral, realizaba una educación ideal» (Nicodemo: «Rabbí, sabemos que has venido de Dios como maestro; nadie puede hacer los signos que tú haces, si Dios no está con él», Gv 3,2). Los adversarios lo llamaron endemoniado, exaltado, blasfemo: la faziosidad «es allí donde una idea se vuelve una posición, en lugar de una obediencia a la realidad».
+
+### 2. Una realtà storica straordinaria
+
+Nos encontramos delante de la afirmación de una realidad histórica extraordinaria: **un hombre-Dios**. «No te lapidamos por una obra buena, sino por una blasfemia, y porque tú, siendo hombre, te haces Dios» (Gv 10,33); «llamaba a Dios su Padre, haciéndose igual a Dios» (Gv 5,18).
+
+**(1)** El origen de este hecho se ha llamado, en la tradición cristiana, **Encarnación** (Dionigi l'Areopagita: «la encarnación de Gesù según nuestra naturaleza es ineffabile para cualquier lengua... como un misterio lo hemos aprendido»). Misterio en modo particular como resultado. El deber de nuestra conciencia: aceptarlo como el hecho más significativo de la historia sin poder "comprenderlo", pero **capitando claramente los términos**; verificar que no sea contradictorio con las leyes de nuestra razón; sacar de él luz para una mejor comprensión de la existencia. **(2)** «Tomar en serio la pretesa de Cristo es profundamente racional, puesto que se ha puesto como hecho en la historia, y como hecho generador de un "nuovo essere", de una nueva creación. Sostener *a priori* la imposibilidad de este hecho es irracional» (Tresmontant: una razón que se rehúsa a la creación del nuevo no habría debido creer ni a la creación del mundo; «este es el índice de un sofisma habitual del pensamiento que se atribuye el derecho de juzgar de antemano sobre lo posible y lo imposible»). **(3)** El hecho de la Encarnación es «una trascendente respuesta a una exigencia humana que el grande genio ha sabido siempre intuir»: el canto de Leopardi *Alla sua donna* como «profecía inconsciente de Cristo»: «Si de las eternas ideas Una eres tú a quien el eterno senno desdeña vestir de sensible forma, y entre caducas vestiduras probar los afanes de la funérea vida... recibe este himno de ignoto amante». Juan: «lo que nuestras manos han tocado, es decir, el Verbo de la vida» (1 Jn 1,1). «Aquella "x" smisurata a la cual se tiende últimamente se ha vuelta presencia, se ha vuelta Qualcun Altro; Qualcun Altro se ha vuelta nuestra medida».
+
+### 3. I termini di questa nuova realtà
+
+**(1)** «Que Gesù sea hombre-Dios no significa que Dios se haya "transformado en un hombre", sino que **la Persona divina del Verbo posee, junto a la naturaleza divina, también la naturaleza humana concreta del hombre Gesù**». La unión no debe imaginarse como confusión de dos naturalezas: la Persona del Verbo, encarnándose, «expresa su naturaleza divina a través de la naturaleza humana que ha asumido» (León Magno, *Lettera a Flaviano* 28,3-4). **(2)** «El misterio de la Encarnación establece el método que Dios ha creído oportuno escoger para ayudar al hombre a ir hacia Él. **Este método se puede resumir así: Dio salva al hombre a través del hombre**» (Dionigi). Responde magníficamente: a) a la naturaleza del hombre, cargada de exigencia de sensibilidad; b) a la dignidad de la libertad humana, que Dios asume como colaboradora de su obra. **(3)** De aquí deriva cómo obrar para reconocer la intervención de Dios: adherirse en primer lugar a nuestra naturaleza, teniendo presente que el resultado puede exigir un cambio radical. «La diferencia entre la Iglesia católica y todas las otras concepciones e interpretaciones cristianas nace sobre todo de la consideración de este método». **(4)** «Este método se prolonga en la historia»: la adhesión debe ser posible siempre y para todos («He aquí, yo estoy con vosotros todos los días hasta el fin del mundo», Mt 28,20). Si Gesù es quien ha dicho de ser, «ningún tiempo y ningún lugar pueden tener otro centro» (Eliade: la innovación del cristianismo respecto a la religiosidad anterior es la valorización del Tiempo, «en última instancia en la *salvación* del Tiempo y de la Historia»: «¿Cómo podría ser vano y vacío el Tiempo que ha *visto* nacer, sufrir, morir y resucitar a Gesù?»).
+
+### 4. L'istintiva resistenza
+
+**(1)** La razón puede tener una resistencia instintiva delante del anuncio de la Encarnación: «es como si el hombre rehusara que el misterio se pliegue a volverse hecho y palabras humanos... es precisamente esta percepción por parte del hombre de ser desplazado como medida de sí lo que pone al hombre en términos de rehúso, con el pretexto de no querer ver ofuscada la inaccesibilidad del misterio, de no rendir impura con antropologismos la idea de Dios, de respetar la libertad propia». **(2)** Las objeciones de siempre: la intolerabilidad del «paradosso» de la humanidad de Cristo (Celso: «¿Qué sentido puede tener para Dios un viaje como este?... ¿Es pues incapaz, presupuesta su potencia divina, de mejorar a los hombres sin enviar corpóreamente a alguien?»); el aparente fracaso (los discípulos de Emmaús: «Nosotros esperábamos que fuera él quien liberara a Israel», Lc 24,21); la miseria de quien lo seguía. «Estas objeciones son la expresión del tentativo último que la razón completa para imponer a Dios una imagen ideal de Él» (Celso: si Dios desciende, se somete a cambio, «de bueno en malo... es imposible que Dios sufra un cambio de este género»). **(3)** «El hecho de la Encarnación constituye un parteaguas... como es históricamente constatable de las numerosas herejías»: el **docetismo** (del verbo *dokeo* = parecer) como ejemplo dramático: «el Redentor no podía aceptar la humillación de encarnarse y de sufrir en Cruz; consideraban en cambio que Cristo "parecía" un hombre». «Los Padres tenían, por lo tanto, razón al defender encarnizadamente el dogma de la encarnación... Dio se ha completamente encarnado en otro ser humano *concreto* y *storico*... sin por embargo encerrarse en su cuerpo (puesto que el Hijo es consustancial al Padre)».
+
+### 5. Per concludere
+
+«Contra el hecho de la Encarnación se desata a lo largo de los siglos un "dogma" tenaz que, pretendiendo fijar los límites de la acción de Dios, le declara la imposibilidad de hacerse hombre». De aquí el «dogma moderno» de toda la cultura iluminística: **la división entre fe y realidad mundana con sus problemas**: «este planteamiento constituye exactamente el espejo de la infantil prohibición que el hombre da a Dios de intervenir en la vida del hombre mismo» (Sal 9,25; 94,7: «Dio no ve, no se cura de ello»). «Es la última latitud a la cual se puede empujar la pretesa idolátrica: la pretesa, es decir, de atribuir a Dios lo que a la razón agrada o lo que la razón decide».
+
+«El hecho de la Encarnación, la inconcebible pretesa cristiana, ha quedado en la historia sustancialmente en su integridad: **un hombre que es Dios** — que, por lo tanto, conoce al hombre y al cual el hombre debe seguir para tener el verdadero conocimiento de sí mismo y de las cosas». La experiencia inicial de los que han vivido con Gesù, transmitida por los Evangelios, tiene un significado inequívoco (Tresmontant: la experiencia inicial era sin ambigüedades: Gesù era plena y totalmente un hombre... pero no era solo un hombre, disponía de una ciencia, de una sabiduría, de una santidad que no son las del hombre sino las del Creador incriado): **«el destino no ha dejado solo al hombre»**. «El cristianismo es un acontecimiento que ha sido anunciado en los siglos y nos alcanza todavía hoy. El verdadero problema es que el hombre lo reconozca con amor». El cristiano tiene que completar la función no solo más grande, sino también más tremenda de la historia: tremenda «porque destinada a provocar irracionales reacciones. Mientras que es supremamente razonable afrontar y verificar la hipótesis a las condiciones que ella pone, y más precisamente como un hecho acaecido en la historia y que en ella permanece».

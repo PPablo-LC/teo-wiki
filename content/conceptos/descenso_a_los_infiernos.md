@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Descenso a los infiernos
 tags: ["dogmática", "cristología"]
 
-timestamp: 2026-06-21
+timestamp: 2026-09-15
 description: "El descenso a los infiernos es el artículo del Símbolo de la Fe (Credo) según el cual Jesús, después de su muerte y antes de su resurrección."
 ---
 # Descenso a los infiernos
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-06-21
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -54,6 +54,10 @@ El descenso al Limbo de los Padres (o seno de Abraham) fue el acto por el cual C
 ### Según CJeS (1987-1989)
 
 Juan Pablo II desarrolla el descenso de Cristo a los infiernos (*sheol*/Hades) como consecuencia de su muerte real: Cristo experimentó verdaderamente la muerte y su alma descendió a la morada de los muertos. El descenso extiende la redención a los justos del AT que esperaban la salvación. Cristo tiene las llaves de la Muerte y del Hades (Rev 1,17-18). El descenso libera a los justos del AT (1 Pe 3,19; 4,6; Heb 2,14-15). La causalidad redentora de Cristo tiene un carácter metahistórico: su muerte y resurrección producen efectos salvíficos que trascienden el tiempo cronológico y alcanzan a los justos de todas las épocas (CJeS, cuarta parte: palabras de Cristo en la Cruz — descenso a los infiernos).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Entre la pasión y la resurrección, el descenso a los infiernos muestra que su salvación alcanza también a los que vivieron bajo el Antiguo Testamento: bajó adonde los justos estaban retenidos hasta que la cruz abriera el cielo. Su alma pudo descender porque la unión con el Verbo no se disolvió al separarse del cuerpo. Los liberó «visitándolos e iluminándolos» («dará luz a los que están en tinieblas»); a los condenados en el infierno solo los confutó con su presencia.
 
 ## Distinciones importantes
 

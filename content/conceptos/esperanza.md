@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Esperanza
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-15
 description: "La esperanza es la virtud teologal que espera de Dios la vida eterna; la vida como promesa que remite al Misterio según Giussani."
 ---
 # Esperanza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -180,10 +180,18 @@ El número 6 de *Evangelization & Culture* está enteramente dedicado a la esper
 
 **Esperanza y signo (cap. XI).** El carácter «esigerencial» de la vida —la exigencia de justicia, de felicidad y de amor— es la esperanza elemental del hombre: no puede prescindir de la respuesta última sin traicionar su propia naturaleza (SR, `18_capitolo_undicesimo.md`, §25-45).
 
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+En la conclusión de ODPC, la esperanza aparece como el segundo momento del acto existencial generado por la fe: «l'uomo è un camminatore eretto e infaticabile verso una meta non ancora raggiunta, certo del futuro perché tutto poggiato sulla Sua presenza (speranza)». La vida cristiana es esencialmente tensión, caminar, búsqueda de la propia completud: «Non c'è nulla di più anticristiano che il concepire la vita come qualcosa di comodo e soddisfatto» (Lc 6,24-25: «Guai a voi, ricchi, perché avete già la vostra consolazione»). La esperanza no es así optimismo sobre el futuro sino certeza fundada en una presencia presente; su frontera es la tentación de la satisfacción contingente que apaga el caminar ([[fe]], [[caridad]]).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]
 
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+El objeto de la esperanza es doble: el bien futuro deseado (la beatitud eterna) y la ayuda divina para alcanzarlo — por eso Dios mismo es su objeto, como virtud teologal. Hace inhere en Dios como fuente de la bondad perfecta, confiando en su auxilio; la desesperación, su contraria, no tiene verdadera idea de Dios (no cree que de Él venga la salvación y el perdón). La esperanza y el don de temor van juntos: ambos producen humildad — la esperanza, porque no nos atrevemos a fiarnos de nuestras fuerzas; el temor, porque vence la presunción que da por segura la misericordia y desprecia la justicia.
 
 ## Analizado para
 

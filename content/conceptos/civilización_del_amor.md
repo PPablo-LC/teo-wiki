@@ -47,6 +47,11 @@ León XIV retoma y actualiza la expresión «civilización del amor» de Pablo V
 
 La gracia divina prepara a los cristianos «a ser agentes de la transformación del mundo, instaurando en él una nueva civilización, que mi predecesor Pablo VI llamó justamente "civilización del amor"» [EA §10, citando a Pablo VI].
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La educación se sitúa plenamente en el horizonte de la "civilización del amor"; depende de ella y, en gran medida, contribuye a construirla» (SHVS 60). El amor conyugal «contribuye a alimentar la civilización del amor»; cuando falta el sentido del don se introduce «una civilización de las "cosas" y no de las "personas"; una civilización en la que las personas se usan como si fueran cosas» (SHVS 11, 24).
+
+
 ## Relaciones doctrinales
 
 Se relaciona con [[caridad]], [[caridad_política]], [[amor]], [[justicia]], [[paz]], [[bien_común]], [[solidaridad]], [[humanismo_integral]]

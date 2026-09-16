@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Trinidad
 tags: ["dogmática"]
 
-timestamp: 2026-07-25
+timestamp: 2026-09-15
 description: "Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles."
 ---
 # Trinidad
 
 > Área: Dogmática
-> Última actualización: 2026-07-25
+> Última actualización: 2026-09-15
 
 ## Definición
 Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles. Es el misterio de Dios en sí mismo, fuente de todos los otros misterios de la fe.
@@ -70,6 +70,10 @@ Juan Pablo II muestra que Jesús revela la Trinidad. En la Anunciación se manif
 ### Según el Compendio (CompDS)
 
 La revelación de Cristo muestra el misterio de Dios como Amor trinitario: «Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor» (§31). El amor gratuito de Dios por la humanidad se revela como amor fontal del Padre, comunicación gratuita del Hijo que se entrega a los hombres, y fecundidad siempre nueva del Espíritu Santo infundido en los corazones (§31). La comunión trinitaria es el supremo modelo de unidad del género humano: «Este supremo modelo de unidad, reflejo de la vida íntima de Dios, Uno en tres personas, es lo que los cristianos expresamos con la palabra “comunión”» (§33, citando *Sollicitudo rei socialis* 40).
+
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Tomás parte de las **procesiones** (no de las relaciones, como Agustín): las relaciones surgen de las procesiones. La procesión divina no resulta en algo externo: la analogía es la actividad intrínseca de la mente, pensar y amar. Al pensarse, Dios tiene una concepción perfecta de su naturaleza: su Verbo, semejanza completa; el Verbo es Dios porque en Dios el entender y el existir son idénticos (en nosotros, no). La generación es eterna — «nunca hubo tiempo en que el Hijo no fuera», contra Arrio; el «primogénito de la creación» (Col 1,15) no es la primera criatura sino el que es *antes* de todas y principio de ellas. La voluntad no engendra semejante sino que se inclina: de ahí el Espíritu (*ruah*, viento/aliento), amor mutuo subsistente del Padre y del Hijo, que procede también del Hijo («todo lo que tiene el Padre es mío», Jn 16,15) aunque el Padre permanece única fuente de la divinidad. Las relaciones reales son **subsistentes** — idénticas a la naturaleza divina: la paternidad ES el Padre, la filiación ES el Hijo; hay tres supuestos de una sola naturaleza y una sola existencia: «ser el Padre (esse Patrem) no es ser el Hijo; pero el ser del Padre (esse Patris) es el mismo que el del Hijo». Distinción sin división: la divinidad existe entera e indivisa en cada persona. Selman recoge además la precisión de Tomás a la definición de Boecio: «persona» es «individuo subsistente en naturaleza intelectual» (no «racional»: Dios no razona), y la historia del concepto, forjado en el debate trinitario del siglo IV.
 
 ## Distinciones importantes
 - Trinidad económica (revelada en las misiones divinas) ≠ Trinidad inmanente (Dios en sí mismo)

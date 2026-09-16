@@ -33,6 +33,11 @@ El efecto primario e inmediato del matrimonio (*res et sacramentum*) no es la gr
 
 Los bautizados viven la realidad del matrimonio como sacramento, signo e instrumento de gracia (§219). La historia de la salvación está atravesada por el tema de la alianza esponsal, expresión de la comunión de amor entre Dios y los hombres. Jesucristo es el Esposo que ama y se da como Salvador, revelando la verdad original del matrimonio desde el principio (Gn 2,24; Mt 19,5) y liberando al hombre de la dureza del corazón para realizarla plenamente (§219). El sacramento capacita a los esposos a vivir su vocación laical buscando el Reino de Dios en los asuntos temporales (§220). La caridad conyugal, que brota de la caridad de Cristo por medio del sacramento, hace a los cónyuges testigos de una sociabilidad nueva inspirada por el Evangelio (§220).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«En el matrimonio, la intimidad corporal de los esposos viene a ser un signo y una garantía de comunión espiritual. Entre bautizados, los vínculos del matrimonio están santificados por el sacramento» (SHVS 14). El matrimonio es «un *sacramento* mediante el cual la sexualidad se integra en un camino de santidad, con un vínculo que refuerza aún más su indisoluble unidad»; el don del sacramento es «al mismo tiempo vocación y mandamiento» de fidelidad (SHVS 30). El diálogo de los esposos «tiene una fuente nueva y específica en el sacramento del matrimonio, que los consagra a la educación propiamente cristiana de los hijos» (SHVS 37).
+
+
 ## Distinciones importantes
 
 - El matrimonio es el único sacramento cuyos ministros son los propios contrayentes; el sacerdote actúa como testigo cualificado.

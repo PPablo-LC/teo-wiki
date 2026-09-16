@@ -9,7 +9,7 @@ description: "Los milagros de Cristo son «signos» del poder salvífico del Hij
 # Milagros de Cristo
 
 > Área: Cristología
-> Última actualización: 2026-06-22
+> Última actualización: 2026-09-15
 
 ## Definición
 
@@ -48,6 +48,10 @@ Juan Pablo II desarrolla el significado salvífico de los milagros de Cristo en 
 **Contra el prejuicio antisobrenatural.** El verdadero obstáculo para aceptar los milagros es el prejuicio antisobrenatural, que quisiera limitar el poder de Dios o restringirlo al orden natural. Esto choca contra la idea de Dios como Ser infinito y omnipotente (CrSJP, 9-XII-1987, n. 7).
 
 **Conclusión.** Los milagros son «signos» del amor misericordioso por el que Dios envió a su Hijo al mundo «para que todo el que crea en Él no perezca» (Jn 3,16). La infinitud en el ser y en el poder es también infinitud en el amor (CrSJP, 9-XII-1987, n. 7).
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC subraya tres rasgos de la actividad milagrosa de Jesús. Primero, su continuidad: «il potere di Gesù non era sporadico»; si se quitara de los Evangelios la actividad milagrosa, quedaríamos casi privos del tejido mismo de su vida pública. Segundo, su modo: los realizaba «con tranquillità sovrana, senza bisogno di nulla» — a distancia, mandando a la realidad impersonal de la naturaleza; sin aparato mágico. Tercero, su urgencia ética: su operar prodigios «rispondeva a una urgenza etica, costituiva un richiamo morale, realizzava una educazione ideale» (Nicodemo: «Nessuno può fare i segni che tu fai, se Dio non è con lui», Gv 3,2). Cana inaugura la autorrevelación progresiva: cualquier aspecto de la existencia, incluso el más banal, es digno de su intervención. El milagro más grande, sin embargo, no es el prodigio externo sino la mirada que revela al hombre a sí mismo ([[mirada_de_cristo]]), unida a la bondad ([[bondad_de_cristo]]): el poder y la bondad en una persona son los indicios que se multiplican hacia la certeza.
 
 ## Distinciones importantes
 

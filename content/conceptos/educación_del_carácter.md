@@ -27,6 +27,11 @@ La escuela moderna tiende a formar la inteligencia pero descuida el carácter, p
 
 Tóth insiste en que la escuela actual forma la inteligencia pero descuida el carácter. Este se forma mediante el ejercicio de la [[voluntad]], la [[mortificación]], la [[perseverancia]] y el [[dominio_de_sí]]. En todo joven «subyace un santo y un criminal», y el educador es responsable de que emerja uno u otro. La educación del carácter requiere hábitos concretos: la puntualidad, la obediencia, la autodisciplina y la responsabilidad personal. Sin carácter, la educación produce talentos al servicio del egoísmo. [Archivos 02, 03]
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La educación al espíritu de sacrificio prepara a los hijos a crecer «en una justa libertad ante los bienes materiales, adoptando un estilo de vida sencillo y austero, convencidos de que "el hombre vale más por lo que es que por lo que tiene"», en una sociedad disgregada «por el choque violento entre los varios individualismos y egoísmos» (SHVS 60). La educación en la castidad exige «activar y desarrollar los dinamismos de la naturaleza y de la gracia», educando el espíritu, la sensibilidad y los sentimientos (SHVS 54).
+
+
 ## Ver también
 
 [[voluntad]], [[dominio_de_sí]], [[perseverancia]]

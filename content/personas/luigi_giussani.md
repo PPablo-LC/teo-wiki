@@ -1,18 +1,18 @@
 ---
 type: Persona
 title: "Luigi Giussani"
-description: "Sacerdote y teólogo italiano (1922-2005), fundador de Comunione e Liberazione y autor del PerCorso, cuyo primer volumen es Il senso religioso."
+description: "Sacerdote y teólogo italiano (1922-2005), fundador de Comunione e Liberazione y autor del PerCorso (Il senso religioso, All'origine della pretesa cristiana, Perché la Chiesa)."
 tags:
   - teología_fundamental
   - pedagogía
   - movimiento_eclesial
   - comunión_y_liberación
   - sentido_religioso
-timestamp: 2026-09-12
+timestamp: 2026-09-15
 ---
 
 > Área: Personas / Teología fundamental
-> Última actualización: 2026-09-13
+> Última actualización: 2026-09-15
 
 # Luigi Giussani
 
@@ -33,9 +33,12 @@ En el archivo `01_biografia.md` se resume su itinerario biográfico e intelectua
 ### Affezione e dimora (AED)
 Quinto volumen del PerCorso (serie «Quasi Tischreden»), fruto de más de doscientos encuentros semanales con jóvenes de los *Memores Domini* desde 1990. En el archivo `00_frontespizio.md` se lee la tesis que atraviesa todo el volumen: el mundo descarta nuestra capacidad afectiva, reduciéndola a instintividad; sobre ella, sin embargo, Dios construye amistad, casa, dimora, sociedad y una época nueva. En `03_nota_per_la_lettura.md`, la nota editorial explica el método: los primeros 22 encuentros son apuntes y desde el 22-5-1991, transcripciones fieles. El volumen muestra a Giussani en su tarea de educador de la afección: hace de la presencia de Cristo una preferencia humana (Tischrede 41, `12_la_preferenza_per_cristo.md`), desarrolla el sentido del sacrificio como condición (Parte III) y presenta la casa y la compañía como método de la fe (`Magister adest`, Tischrede 114, `31_la_radice_della_compagnia.md`).
 
+### All'origine della pretesa cristiana (ODPC)
+Segundo volumen del PerCorso. La bio de `02_luigi_giussani.md` precisa su especialización: la teología protestante americana y «la motivación racional dell'adesione alla fede e alla Chiesa» — la razonabilidad de la adhesión a la fe, que es el hilo de toda su obra. En la prefación (`03_prefazione.md`, Milano 2001) Giussani declara el criterio rector del libro: «l'obbedienza all'autentica tradizione della Chiesa, all'intera tradizione ecclesiale», y formula la «gran inversión de método» que marca el paso del sentido religioso a la fe: «Non è il ragionamento astratto che fa crescere... ma il trovare nell'umanità un momento di verità raggiunta e detta. È la grande inversione di metodo che segna il passaggio dal senso religioso alla fede: non è più un ricercare pieno di incognite, ma la sorpresa di un fatto accaduto nella storia». Su intención: «ho voluto esprimere la ragione per cui un uomo può credere a Cristo: la profonda corrispondenza umana e ragionevole delle sue esigenze con l'avvenimento dell'uomo Gesù di Nazareth». El volumen muestra a Giussani en su tarea de apologista cristiano: demuestra que la pretensión de Jesús de identificarse con Dios es el caso único de la historia del sentimiento religioso, y que su verificación es un problema histórico de hecho («¿es acontecido o no?»), resuelto por la certeza moral de los primeros testigos.
+
 ## Ver también
 
-- [[comunión_y_liberación]] [[il_senso_religioso]] [[sentido_religioso]] [[razón]] [[fe_y_razón]] [[hecho_cristiano]] [[affezione_e_dimora]] [[afección]] [[capacidad_afectiva]] [[preferencia_por_cristo]] [[morada]] [[compañía]]
+- [[comunione_e_liberazione]] [[il_senso_religioso]] [[allorigine_della_pretesa_cristiana]] [[sentido_religioso]] [[razón]] [[fe_y_razón]] [[hecho_cristiano]] [[pretesa_cristiana]] [[hecho_de_cristo]] [[divinidad_de_cristo]] [[affezione_e_dimora]] [[afección]] [[capacidad_afectiva]] [[preferencia_por_cristo]] [[morada]] [[compañía]]
 
 ## Referencias
 
@@ -43,3 +46,5 @@ Quinto volumen del PerCorso (serie «Quasi Tischreden»), fruto de más de dosci
 - SR, archivo `05_prefazione.md` — prefacio de James Francis Stafford
 - AED, archivo `00_frontespizio.md` — texto de portada y tesis del volumen
 - AED, archivo `03_nota_per_la_lettura.md` — nota editorial de la serie
+- ODPC, archivo `02_luigi_giussani.md` — bio: especialización en la motivación racional de la adhesión a la fe
+- ODPC, archivo `03_prefazione.md` — prefación (2001): criterio rector y gran inversión de método

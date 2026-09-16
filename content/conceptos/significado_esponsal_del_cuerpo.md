@@ -55,6 +55,11 @@ Familiaris Consortio §11 desarrolla la relación entre el significado esponsal 
 
 El DSI §219 enseña que el matrimonio sacramental es alianza esponsal que eleva la unión conyugal a participación en la alianza redentora de Cristo con la Iglesia.
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La capacidad de amar como don de sí tiene su «encarnación» en el *carácter esponsal del cuerpo*, en el cual está inscrita la masculinidad y la feminidad de la persona: «El cuerpo humano, con su sexo, y con su masculinidad y feminidad visto en el misterio mismo de la creación, es no sólo fuente de fecundidad y de procreación, como en todo el orden natural, sino que incluye desde el "principio" el atributo "esponsalicio", es decir, *la capacidad de expresar el amor: ese amor precisamente en el que el hombre-persona se convierte en don y —mediante este don— realiza el sentido mismo de su ser y existir*» (SHVS 10). La sexualidad, «elemento básico de la personalidad», es «un modo propio de ser, de manifestarse, de comunicarse con los otros, de sentir, expresar y vivir el amor humano» (SHVS 10).
+
+
 ## Distinciones importantes
 
 - **Significado esponsal**: la capacidad del cuerpo de expresar amor conyugal
@@ -64,7 +69,7 @@ El DSI §219 enseña que el matrimonio sacramental es alianza esponsal que eleva
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[teología_del_cuerpo]], el [[matrimonio]], la [[unión_conyugal]], la [[castidad]], la [[pureza_de_corazón]], la [[virginidad]], la [[transmisión_de_la_vida]], [[amor_conyugal]], [[sacramento_del_matrimonio]] y el [[cuerpo_místico]].
+Se relaciona con la [[teología_del_cuerpo]], el [[matrimonio]], la [[acto_conyugal]], la [[castidad]], la [[pureza_de_corazón]], la [[virginidad]], [[amor_conyugal]], [[sacramento_del_matrimonio]] y el [[cuerpo_místico]].
 
 ## Ver también
 

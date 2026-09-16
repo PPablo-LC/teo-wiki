@@ -37,6 +37,11 @@ La educación para el amor como don de sí mismo constituye la premisa indispens
 
 Para los padres cristianos la misión educativa tiene una fuente nueva y específica en el sacramento del matrimonio, que los consagra a la educación propiamente cristiana de los hijos y los enriquece en sabiduría, consejo, fortaleza y en los otros dones del Espíritu Santo (FC §38). El deber educativo recibe del sacramento del matrimonio la dignidad de ser un verdadero y propio «ministerio» de la Iglesia al servicio de la edificación de sus miembros (FC §38).
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+Los padres «son educadores por ser padres»; su derecho-deber educativo es «esencial, relacionado como está con la transmisión de la vida humana; original y primario...; insustituible e inalienable y que, por consiguiente, no debe ser ni totalmente delegado ni usurpado por otros» (SHVS 41). Los hijos son «don y deber, su tarea más importante... más que el trabajo, más que el descanso, más que la posición social» (SHVS 51). Los padres han de «atreverse a pedirles y exigirles más»: educarlos «en los valores verdaderos de la persona... la libertad, la responsabilidad, la paternidad y la maternidad, el servicio, el trabajo profesional, la solidaridad, la honradez» (SHVS 49). Su misión no cesa con la mayoría de edad; ayudan a los hijos «a hacer de su propia existencia un don» (SHVS 34, 109).
+
+
 ## Relaciones doctrinales
 
 Se relaciona con [[familia]], [[paternidad_responsable]], [[bien_común]], [[persona_humana]], [[dignidad_humana]]

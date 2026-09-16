@@ -47,6 +47,11 @@ Tóth insiste en la [[dirección_espiritual]] como necesaria en todas las etapas
 
 En *La vocación explicada*, la dirección espiritual aparece como uno de los tres medios para «ver claro el camino» vocacional, junto con la oración y los sacramentos. Juan Pablo II le reconoce una doble nota: puede llevarse **fuera del contexto del sacramento de la Penitencia** e incluso **ser llevada por quien no tiene el orden sagrado**; y su función específica es «ayudar a superar el peligro de la arbitrariedad a la hora de conocer y decidir la propia vocación a la luz de Dios» [VocExp, §Para ver claro el camino]. La recomienda a los jóvenes en el momento decisivo de la elección: meditar en el recogimiento y la oración la elección, escuchar si la voz del Señor resuena en lo más íntimo del corazón, y tras la elección, rezar todavía más por la fortaleza de permanecer [VocExp].
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+«La guía o dirección espiritual, aunque no coincide necesariamente con el papel del confesor, es ayuda preciosa para la iluminación progresiva de las etapas de maduración y para el apoyo moral» (SHVS 74). Son «muy útiles las lecturas de libros de formación elegidos y aconsejados para ofrecer una formación más amplia y profunda, y proponer ejemplos y testimonios en el camino de la virtud» (SHVS 74).
+
+
 ## Distinciones importantes
 
 - Dirección espiritual vs. confesión sacramental: el confesor es juez que absuelve; el director es guía que conduce a la perfección. Es convenientísimo que sean la misma persona, aunque no es necesario (n.674).

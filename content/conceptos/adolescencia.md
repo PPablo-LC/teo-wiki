@@ -30,6 +30,11 @@ En clave psicológica destaca: el pensamiento conceptual naciente y «la verdade
 
 > «¡Dichoso el joven que encuentra a un guía que le pueda orientar!» (JvC-Rel, archivo 11)
 
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
+
+La adolescencia es «el período de la proyección de sí, y por tanto, del descubrimiento de la propia vocación»; en ella los jóvenes buscan «modelos de conducta reales y atrayentes» y son particularmente sensibles a las influencias emotivas (SHVS 98, 102, 97). Es fundamental «que los jóvenes no se encuentren solos a la hora de discernir *su vocación personal*»: el consejo de los padres y el apoyo de sacerdotes y personas formadas (parroquias, asociaciones, movimientos eclesiales) les ayuda a descubrir el sentido vocacional de la existencia (SHVS 99). El documento trata en este período la masturbación, la homosexualidad, la aceptación de sí y del propio cuerpo, las amistades («muy importantes») y el riesgo del «excesivo encerramiento en sí mismos» (SHVS 103-108). Se han de presentar los ideales de la solidaridad humana y cristiana y las modalidades concretas de compromiso en los movimientos eclesiales y el voluntariado (SHVS 106).
+
+
 ## Distinciones importantes
 
 - **Pubertad vs. adolescencia**: la pubertad es la fase inicial (cambios fisiológicos); la adolescencia abarca todo el proceso hasta la madurez.
