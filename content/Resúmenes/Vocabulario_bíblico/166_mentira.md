@@ -1,81 +1,65 @@
 ---
 type: ResumenFuente
 title: "Mentira"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 166
-timestamp: 2026-08-24
-description: "Resumen de 'Mentira' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "La mentira en las relaciones con el prójimo, la mentira en las relaciones con Dios (desconocimiento del verdadero Dios, pecado de mentira y vida religiosa, los fautores de mentira) y Satán, padre de mentira."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Mentira
 
+> 📄 **Fuente original:** `mentira.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[nombre]] — la profanación del nombre de Dios
+- [[lengua]] — el desacuerdo entre el pensamiento y la lengua
+- [[dios]] — el Dios de verdad
+- [[idolos]] — los ídolos engañosos
+- [[labios]] — la mentira de los labios
+- [[servir]] — servir al Dios vivo y verdadero
+- [[impio]] — los impíos, enemigos del hombre de bien
+- [[siervo_de_yahveh]] — el siervo de Yahveh
+- [[resto]] — el humilde resto
+- [[verdad]] — la verdad divina revelada en Jesús
+- [[anticristo]] — el anticristo, mentiroso
+- [[profeta]] — los profetas de mentira
+- [[palabra_de_dios]] — la palabra de Dios adulterada
+- [[hipocrita]] — los hipócritas, guías ciegos
+- [[satan]] — Satán, padre de mentira
+- [[hijo]] — hijo del diablo
+- [[bestia_bestias]] — la bestia del mar
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `mentira.md`
+El empleo bíblico de la palabra mentira recubre dos sentidos diferentes, según que se trate de las relaciones del hombre con su prójimo o de sus relaciones con Dios.
 
+## I. Mentira en las relaciones con el prójimo
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**1.** En el AT. La prohibición de la mentira en la ley atiende en los orígenes a un contexto social preciso: el del falso testimonio en los procesos (decálogo: *Ex 20,16* y *Dt 5,20*; reiterado en *Ex 23,1ss.6ss* *Dt 19,16-21* *Lev 19,11*); esta mentira, dicha bajo juramento, es además una profanación del [[nombre|nombre]] de Dios *Lev 19,12*. Este sentido restringido subsiste en la enseñanza moral de los profetas y de los sabios *Prov 12,17* *Zac 8,17*. Pero el pecado de mentira se entiende también en forma mucho más amplia: es el dolo, el engaño, el desacuerdo entre el pensamiento y la [[lengua|lengua]] *Os 4,2* *7,1* *Jer 9,7* *Nah 3,1*. A todo esto tiene horror Yahveh *Prov 12,22*, al que no se puede engañar *Job 13,9*; así el mentiroso va a su pérdida *Sal 5,7* *Prov 12,19* *Eclo 20,25*. Incluso Jacob, el astuto que captó la bendición paterna, fue a su vez engañado por su suegro Labán *Gen 29,15-30*.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Mentira |
-| 5 | H2 | I. MENTIRA EN LAS RELACIONES CON EL PRÓJIMO |
-| 7 | H3 | 1. En el AT. La prohibición de la mentira en la ley atiende en los orí |
-| 19 | H3 | 2. En el NT formula Jesús la obligación de una lealtad total: «Sea vue |
-| 30 | H2 | I. MENTIRA EN LAS RELACIONES CON DIOS |
-| 32 | H3 | Desconocimiento del verdadero Dios. |
-| 35 | H3 | Pecado de mentira y vida religiosa. |
-| 39 | H3 | Los fautores de mentira. |
-| 43 | H2 | III. SATÁN, PADRE DE MENTIRA |
+**2.** En el NT formula Jesús la obligación de una lealtad total: «Sea vuestro lenguaje: sí, sí; no, no» *Mt 5,37* *Sant 5,12*, y Pablo hace de ello su regla de conducta *2Cor 1,17s*. Así vemos reiteradas las enseñanzas del AT, aunque con una motivación más profunda: «No mintáis ya unos a otros; os habéis despojado del hombre viejo y revestido del hombre nuevo» *Col 3,9s*; «Decíos la verdad, pues somos miembros los unos de los otros» *Ef 4,25*. La mentira sería una vuelta a la naturaleza pervertida; iría contra nuestra solidaridad en Cristo. Se comprende que, según los Hechos, Ananías y Safira al mentir a Pedro mintieran en realidad al Espíritu Santo *Act 5,1-11*; la perspectiva de las relaciones sociales queda desbordada cuando entra en juego la comunidad cristiana.
 
+## II. Mentira en las relaciones con Dios
 
-## Secciones incluidas
+### Desconocimiento del verdadero Dios
 
-# I. MENTIRA EN LAS RELACIONES CON EL PRÓJIMO
+Yahveh es el [[dios|Dios]] de verdad. Desconocerlo volviéndose a los [[idolos|ídolos]] engañosos es la mentira por excelencia, no la de los [[labios|labios]], sino la de la vida. Los autores sagrados denuncian a porfía esta impostura, asaeteando con coplas satíricas *Jer 10,1-16* *Is 44,9-20* *Sal 115,5ss*, anécdotas burlonas *Dan 14*, epitafios infamantes: nada *Jer 10,8*, horror *4,1*, vanidad *2,5*, impotencia *2,11*... A sus ojos, toda conversión supone primero que se confiese el carácter mentiroso de los ídolos a que se había servido *16,19*. Así lo entiende también Pablo cuando intima a los paganos que se aparten de los ídolos de mentira *Rom 1,25* para [[servir|servir]] al Dios vivo y verdadero *1Tes 1,9*.
 
-[Contenido de esta sección...]
+### Pecado de mentira y vida religiosa
 
-## 1. En el AT. La prohibición de la mentira en la ley atiende en los orígenes a
+**a.** El AT conoce también una manera más sutil de desconocer al verdadero Dios: consiste en aclimatar en la propia vida el hábito de la mentira. Tal es la manera de proceder de los [[impio|impíos]], enemigos del hombre de bien: son astutos *Eclo 5,14*, que sólo tienen la mentira en la boca *Sal 59,13* *Eclo 51,2* *Jer 9,2*; se refugian en la mentira *Os 10,13*, se aferran a ella hasta negarse a convertirse *Jer 8,5*, y hasta sus aparentes conversiones son mentirosas *3,10*. Es inútil abrigar ilusiones acerca del hombre abandonado a sí mismo; es espontáneamente mentiroso *Sal 116,11*. Por el contrario, el verdadero fiel proscribe de su vida la mentira para estar en comunión con el Dios de verdad *Sal 15,2ss* *26,4s*. Así hará en los últimos tiempos el [[siervo_de_yahveh|siervo]] de Yahveh *Is 53,9*, así como el humilde [[resto|resto]] que Dios dejará entonces a su pueblo *Sof 3,13*.
 
-[Contenido de esta sección...]
+**b.** El NT halla este ideal realizado en Cristo *1Pe 2,22*. Por eso la renuncia a toda mentira es una exigencia primaria de la vida cristiana *1Pe 2,1*. Con esto se ha de entender no sólo la mentira de los labios, sino la que está incluida en todos los vicios *Ap 21,8*: ésta no la han conocido jamás los elegidos, compañeros de Cristo *14,5*. Muy especialmente merece el nombre de mentiroso el que desconoce la [[verdad|verdad]] divina revelada en Jesús: el [[anticristo|anticristo]], que niega que Jesús sea Cristo *1Jn 2,22*. En él la mentira no es ya de orden moral, es religiosa por esencia, al igual que la de la idolatría.
 
-## 2. En el NT formula Jesús la obligación de una lealtad total: «Sea vuestro lenguaje: sí, sí;
+### Los fautores de mentira
 
-[Contenido de esta sección...]
+**a.** Ahora bien, para precipitar a los hombres en este universo mentiroso que se yergue delante de Dios en un gesto de desafío, existen guías engañosos en todas las épocas. El AT conoce [[profeta|profetas]] de mentira, de los que Dios se ríe en ocasiones *1Re 22,19-23*, pero que más a menudo son denunciados por los verdaderos profetas en términos severos: así por Jeremías *Jer 5,31* *23,9-40* *28,15s* *29,31s*, Ezequiel *Ez 13* y Zacarías *Zac 13,3*. En lugar de la [[palabra_de_dios|palabra]] de Dios aportan al pueblo mensajes adulterados.
 
-# I. MENTIRA EN LAS RELACIONES CON DIOS
+**b.** En el NT también Jesús denuncia a los guías ciegos del pueblo judío *Mt 23,16*. Estos [[hipocrita|hipócritas]] que se niegan a creer en él, son mentirosos *Jn 8,55*. Preludian a los otros mentirosos que surgirán en todos los siglos para retraer a los hombres del Evangelio: anticristos *1Jn 2,18-28*, falsos apóstoles *Ap 2,2*, falsos profetas *Mt 7,15*, falsos mesías *Mt 24,24* *2Tes 2,9*, falsos doctores *2Tim 4,3s* *2Pe 2,1ss* *1Tim 4,1s*, sin contar a los judíos que impiden la predicación del Evangelio *1Tes 2,14ss* y a los falsos hermanos, enemigos del verdadero Evangelio *Gal 2,4*... Son otros tantos fautores de mentira con que deben enfrentarse los cristianos, como lo hacía Pablo en el caso del mago Elimas *Act 13,8ss*.
 
-[Contenido de esta sección...]
+## III. Satán, padre de mentira
 
-## Desconocimiento del verdadero Dios.
-
-[Contenido de esta sección...]
-
-## Pecado de mentira y vida religiosa.
-
-[Contenido de esta sección...]
-
-## Los fautores de mentira.
-
-[Contenido de esta sección...]
-
-# III. SATÁN, PADRE DE MENTIRA
-
-[Contenido de esta sección...]
+Así se divide el mundo en dos campos: el del bien y el del mal, el de la verdad y el de la mentira, en el doble sentido moral y religioso. El primero es concretamente el de Dios. El segundo tiene también su jefe: [[satan|Satán]], la antigua serpiente que seduce al mundo entero *Ap 12,9* desde el día en que sedujo a Eva *Gen 3,13* y, separándola del árbol de vida, fue «homicida desde el principio» *Jn 8,44*. Él es el que induce a Ananías y a Safira a mentir al Espíritu Santo *Act 5,3*, y el mago Elimas es «[[hijo|hijo]]» suyo *Act 13,10*. De él dependen los judíos incrédulos que se niegan a creer en Jesús: son hijos del diablo, mentiroso y padre de mentira *Jn 8,41-44*; así quieren matar a Jesús, porque «les ha dicho la [[verdad|verdad]]» *Jn 8,40*. Él es quien suscita a los falsos doctores, enemigos de la verdad evangélica *1Tim 4,2*; él, quien para guerrear contra los cristianos *Ap 12,17*, da sus poderes a la [[bestia_bestias|bestia]] del mar, el imperio «totalitario», con la boca llena de blasfemias *13,1-8*; y la bestia de la tierra que maneja a los falsos profetas para engañar a los hombres y hacerle adorar al ídolo mentiroso, depende también de él *13,11-17*. El eje del mundo pasa entre estos dos campos, e importa que los cristianos no se dejen seducir por los ardides del diablo hasta el punto de corromperse su fe *2Cor 11,3*. Para permanecer en la verdad deben, pues, orar a Dios que los libre del maligno *Mt 6,13*.

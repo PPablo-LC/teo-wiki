@@ -1,81 +1,88 @@
 ---
 type: ResumenFuente
 title: "Orgullo"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 190
-timestamp: 2026-08-24
-description: "Resumen de 'Orgullo' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "El orgullo auténtico del hombre como criatura e hijo de Dios: orgullo del pueblo elegido, orgullo del siervo de Dios, orgullo de Cristo, orgullo y libertad del creyente."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Orgullo
 
+> 📄 **Fuente original:** `orgullo.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[esclavo]] — el hombre libre del pecado
+- [[pecado]] — la esclavitud del pecado
+- [[verguenza]] — la vergüenza delante de Dios
+- [[soberbia]] — la soberbia, caricatura del orgullo
+- [[humildad]] — la humildad compatible con el orgullo
+- [[maria]] — la Virgen María en el Magníficat
+- [[liberacion_libertad]] — la libertad, afinidad de la *parresía*
+- [[rostro]] — tener el rostro levantado
+- [[confianza]] — la confianza, irradiación del orgullo
+- [[gloria]] — la gloria noble o vana
+- [[santo]] — la santidad de Dios
+- [[eleccion]] — el orgullo de la elección
+- [[conocer]] — conocer a Dios, único orgullo
+- [[naciones]] — las naciones criaturas
+- [[temor]] — el temor de Dios, motivo de orgullo
+- [[impio]] — el impío condenado por el orgullo del justo
+- [[persecucion]] — la persecución del justo
+- [[hombre]] — el siervo desfigurado
+- [[justificacion]] — el justo que invoca el juicio
+- [[juicio]] — el juicio de Dios
+- [[hijo]] — Cristo, Hijo de Dios
+- [[mundo]] — la publicidad del mundo
+- [[paraclito]] — el Paráclito que dirá todo claro
+- [[dia_domini]] — ese día todo será dicho
+- [[autoridad]] — las autoridades establecidas
+- [[sangre]] — la sangre de Jesús
+- [[gracia]] — el trono de la gracia
+- [[obras]] — no gloriarse de obra alguna
+- [[fe]] — la fe, medio de quitar la vanagloria
+- [[esperanza]] — la esperanza de la gloria
+- [[cruz]] — la cruz, fuente de gloria
+- [[dios]] — gloriarse en Dios
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `orgullo.md`
+Los griegos, para liberarse del sentimiento de inferioridad, recurrían con frecuencia a una sabiduría completamente humana; la Biblia funda el orgullo del hombre en su condición de criatura y de hijo de Dios: el hombre, a menos que sea [[esclavo|esclavo]] del [[pecado|pecado]], no puede tener [[verguenza|vergüenza]] delante de Dios ni delante de los hombres. El orgullo auténtico no tiene nada que ver con la [[soberbia|soberbia]], que es su caricatura; este orgullo es perfectamente compatible con la [[humildad|humildad]]. Así la Virgen [[maria|María]] al cantar el *Magníficat* tiene plenamente conciencia de su valor, de un valor creado por Dios solo, y lo proclama a la faz de todas las generaciones *Lc 1,46-50*.
 
+La Biblia no tiene término propio para designar este orgullo; pero lo caracteriza partiendo de dos actitudes. Una, siempre noble, a la que los traductores griegos llaman *parresía*, tiene afinidad con la [[liberacion_libertad|libertad]]; los hebreos la describen sirviéndose de una perífrasis: el hecho de mantenerse derecho, de tener el [[rostro|rostro]] levantado, de expresarse abiertamente; el orgullo se manifiesta en una plena libertad de lenguaje y de comportamiento. Deriva también de otra actitud emparentada con la [[confianza|confianza]], cuya irradiación es; los traductores griegos la denominan *kaukhesis*: es el hecho de gloriarse de alguna cosa o de apoyarse en ella para darse aplomo, para existir uno frente a sí mismo, frente a los otros, frente al mismo Dios; esta [[gloria|gloria]] puede ser noble o vana, según que se alimente en Dios o en el hombre.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+## AT
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Orgullo |
-| 6 | H2 | AT |
-| 8 | H3 | Orgullo del pueblo elegido. |
-| 11 | H3 | Orgullo y vanidad. |
-| 14 | H3 | El orgullo del siervo de Dios. |
-| 17 | H2 | NT |
-| 19 | H3 | El orgullo de Cristo. |
-| 22 | H3 | Orgullo y libertad del creyente. |
-| 26 | H3 | Orgullo y gloria. |
+### Orgullo del pueblo elegido
 
+Cuando Israel fue sacado de la esclavitud y hecho libre después de romper las barras de su yugo, entonces pudo «caminar con la cabeza levantada» *Lev 26,13*, con *parresía* (LXX). Esta nobleza, orgullo que deriva de una consagración definitiva, obliga al pueblo a vivir en la [[santo|santidad]] misma de Dios *Lev 19,2*. Este sentimiento, si bien puede fácilmente degenerar en desprecio (p. ej. *Eclo 50,25s*), justifica en Israel el empeño por separarse de los otros pueblos idólatras *Dt 7,1-6*. El orgullo sobrevive en la humillación misma, pero entonces se convierte en [[verguenza|vergüenza]], como cuando Israel tiene «el vientre pegado al suelo» porque Yahveh oculta su rostro *Sal 44,26*; pero si se humilla, entonces podrá de nuevo «levantar la cara hacia Dios» *Job 23,26*. En todo caso el pueblo, abatido hasta el suelo o con la mirada fija en el cielo, conserva en su corazón el orgullo de su [[eleccion|elección]] *Bar 4,2ss* *2,15* *Sal 119,46*.
 
-## Secciones incluidas
+### Orgullo y vanidad
 
-# AT
+Del orgullo a la [[soberbia|soberbia]] no hay más que un paso *Dt 8,17*; entonces el orgullo se convierte en vanidad, pues su apoyo es ilusorio. A la gloria de poseer un [[templo|templo]] en el que habita Dios, hay que responder con la fidelidad a la alianza, pues de lo contrario toda seguridad es engañosa *Jer 7,4-11*. Asimismo, «que el sabio no se gloríe de su sabiduría, que el valiente no se gloríe de su valentía, que el rico no se gloríe de su riqueza. Pero quien quiera gloriarse, halle su gloria en esto: en tener inteligencia y en [[conocer|conocerme]]» *9,22s*. El único orgullo auténtico es la irradiación de la [[confianza|confianza]] en Dios solo. Este proceso de degradación se observa también en las [[naciones|naciones]], que, como criaturas, deben dar gloria a solo Dios y no enorgullecerse por su belleza, por su poderío o su riqueza *Is 23* *47* *Ez 26-32*. Finalmente, los sabios gustan de repetir que el [[temor|temor]] de Dios es el único motivo de orgullo *Eclo 1,11* *9,16*, pero no la riqueza o la pobreza *10,22*; el orgullo está en ser hijos del Señor *Sab 2,13*, en tener a Dios por padre *2,16*. Ahora bien, el orgullo del justo no es sólo interior, y su irradiación condena al [[impio|impío]]; éste, en cambio, [[persecucion|persigue]] al justo. Y el orgullo del justo oprimido se expresa en la oración que dirige al que le da existencia: «No seré confundido» *Sal 25,3* *40,15ss*.
 
-[Contenido de esta sección...]
+### El orgullo del siervo de Dios
 
-## Orgullo del pueblo elegido.
+El restablecimiento del orgullo del justo no se verifica según los caminos del hombre. Israel se cree abatido, abandonado por su Dios, pero Dios sostiene a su siervo, lo lleva de la mano *Is 42,1.6*; así, en la persecución endurece su rostro y no será confundido *50,7s*. Sin embargo, el profeta anuncia que las multitudes se horrorizaron al verle: no tenía aspecto de [[hombre|hombre]], de tan desfigurado como estaba *52,14*; delante de él se volvía el rostro porque él mismo había venido a ser despreciable y despreciado *53,2s*. Pero si el siervo ha perdido el rostro a los ojos de los hombres, Dios toma su causa en la mano y justifica su orgullo interior inquebrantable «glorificándolo» a la faz de los pueblos: «será alto, exaltado, será muy elevado: mi siervo prosperará» *52,13* y «compartirá los trofeos con los poderosos» *53,12*. Siguiendo el ejemplo del siervo, todo [[justificacion|justo]] puede invocar el [[juicio|juicio]] de Dios: después que se le ha tenido por loco y miserable, he aquí que el último día «el justo se mantendrá de pie lleno de confianza» *Sab 5,1-5*.
 
-[Contenido de esta sección...]
+## NT
 
-## Orgullo y vanidad.
+### El orgullo de Cristo
 
-[Contenido de esta sección...]
+Jesús, que sabe de dónde viene y adónde va, manifiesta su orgullo cuando se proclama [[hijo|Hijo]] de Dios. El cuarto evangelio presenta este comportamiento como una *parresía*. Jesús habló «abiertamente» al mundo *Jn 18,20s*, tanto que el pueblo se preguntaba si las autoridades no lo habían reconocido por el Cristo *7,25s*; pero como este hablar franco no tiene que ver con la publicidad estrepitosa del [[mundo|mundo]] *7,3-10*, no se le comprende, y debe cesar *11,54*; Jesús cede, pues, el puesto al [[paraclito|Paráclito]] que ese [[dia_domini|día]] dirá todo claro *16,13.25*. Aunque el término no se halla en los sinópticos sino a propósito del anuncio de la pasión *Mc 8,32*, sin embargo, describen comportamientos de Jesús que expresan la *parresía*. Así cuando reivindica frente a toda [[autoridad|autoridad]] los derechos del Hijo de Dios o de su Padre: frente a sus padres *Lc 2,49*, frente a los abusos impíos *Mt 21,12ss* *Jn 2,16*, frente a las autoridades establecidas *Mt 23*. Sin embargo, este orgullo no es nunca reivindicación de la honra personal, no busca sino la [[gloria|gloria]] del Padre *Jn 8,49s*.
 
-## El orgullo del siervo de Dios.
+### Orgullo y libertad del creyente
 
-[Contenido de esta sección...]
+El fiel de Cristo ha recibido con su fe un orgullo inicial *Heb 3,14*, que debe conservar hasta el fin como un gozoso orgullo de la esperanza *3,6*. En efecto, por la [[sangre|sangre]] de Jesús está lleno de seguridad y confianza *10,19s* y puede adelantarse hacia el trono de la [[gracia|gracia]] *4,16*; no puede perder esta seguridad ni siquiera en la [[persecucion|persecución]] *10,34s*, so pena de ver a Jesús avergonzarse de él *Lc 9,26 p* el día del juicio; pero si ha sido fiel, puede tranquilizar su corazón, pues Dios es más grande que nuestro corazón *1Jn 4,17* *2,28* *3,20ss*.
 
-# NT
+El orgullo del cristianismo se manifiesta acá en la tierra en la libertad con que da testimonio de Cristo resucitado. Así desde los primeros días de la Iglesia los apóstoles, iletrados *Act 4,13*, anunciaban la palabra sin desfallecer *4,29.31* *9,27s* *18,25s*, delante de un público hostil o desdeñoso. Pablo caracteriza esta actitud por la ausencia de velo sobre el rostro del creyente: refleja la [[gloria|gloria]] misma del Señor resucitado *2Cor 3,11s*; tal es el fundamento del orgullo apostólico: «nosotros creemos, y por eso hablamos» *4,13*.
 
-[Contenido de esta sección...]
+### Orgullo y gloria
 
-## El orgullo de Cristo.
+Como Jeremías, que en otro tiempo quitaba a todo hombre el derecho de «gloriarse», a no ser del conocimiento de Yahveh, así lo hace también san Pablo *1Cor 1,31*.
 
-[Contenido de esta sección...]
+Pero Pablo sabe el medio radical escogido por Dios para quitar al hombre toda tentación de vanagloria: la [[fe|fe]]. En adelante ya no hay privilegio en que uno pueda apoyarse, ni el nombre de judío, ni la ley, ni la circuncisión *Rom 2,17-29*. Ni siquiera Abraham pudo gloriarse de [[obras|obra]] alguna *4,2*, mucho menos nosotros, que somos todos pecadores *3,19s.27*. Pero gracias a Jesús que le ha procurado la reconciliación, puede el fiel gloriarse en [[dios|Dios]] *5,11*, y en la [[esperanza|esperanza]] de la gloria *5,2*, fruto de la [[justificacion|justificación]] por la fe. Todo lo demás es despreciable *Flp 3,3-9*; sólo la [[cruz|cruz]] de Jesús es fuente de gloria *Gal 6,14*, pero no los predicadores de esta cruz *1Cor 3,21*.
 
-## Orgullo y libertad del creyente.
-
-[Contenido de esta sección...]
-
-## Orgullo y gloria.
-
-[Contenido de esta sección...]
+Finalmente, el cristiano puede estar orgulloso de sus tribulaciones *Rom 5,3*; las flaquezas del Apóstol son fuente de orgullo *1Cor 4,13* *2Cor 11,30* *12,9s*. Entonces los frutos del apostolado, que son las Iglesias fundadas, pueden ser la corona de gloria del Apóstol *1Tes 2,19* *2Tes 1,4*: puede estar uno orgulloso de sus ovejas, incluso a través de las dificultades que suscitan *2Cor 7,4.14* *8,24*. El misterio del orgullo cristiano y apostólico es el misterio pascual, el de la gloria que brilla a través de las tinieblas. Está orgulloso el que con su fe ha atravesado el reino de la muerte.

@@ -1,111 +1,176 @@
 ---
 type: ResumenFuente
 title: "Pecado"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 203
-timestamp: 2026-08-24
-description: "Resumen de 'Pecado' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "El pecado en la Escritura: el pecado de los orígenes, el pecado de Israel, la enseñanza de los profetas, y la enseñanza del NT sobre el pecado del mundo y su teología según san Pablo."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Pecado
 
+> 📄 **Fuente original:** `pecado.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[amor]] — el amor de Dios, al que se opone el pecado
+- [[misericordia]] — la misericordia de Dios
+- [[bien__mal]] — decidir del bien y del mal
+- [[vida]] — no había negado la vida
+- [[don]] — el Dios que sólo puede dar
+- [[imagen]] — el hombre, imagen de Dios
+- [[castigos]] — el castigo
+- [[árbol]] — el árbol de la vida
+- [[muerte]] — la muerte, definitiva
+- [[satán]] — el diablo o Satán
+- [[naciones]] — las naciones confundidas
+- [[pueblo]] — el pueblo particular
+- [[servir]] — servir a Yahveh
+- [[ira]] — la ira de Dios
+- [[seguir]] — seguirlo y obedecer sus mandamientos
+- [[desierto]] — la experiencia espiritual del desierto
+- [[camino]] — los caminos de Dios
+- [[confesión]] — la confesión inserta en Isaías
+- [[gloria]] — el cambio de la gloria por la impotencia
+- [[padres_y_padre]] — el padre amantísimo
+- [[madre]] — la madre que no puede olvidar
+- [[esposo]] — la esposa infiel
+- [[conversión]] — la conversión como remedio del pecado
+- [[fidelidad]] — Dios es siempre fiel
+- [[perdón]] — el perdón de Dios
+- [[celo]] — el Dios celoso
+- [[expiación]] — las condiciones del retorno
+- [[fe]] — la fe
+- [[penitencia__conversión]] — la penitencia-conversión
+- [[redención]] — la redención
+- [[corazón]] — la ley inscrita en el corazón
+- [[circuncisión]] — la circuncisión del corazón
+- [[justificación]] — la justificación del pecado
+- [[siervo_de_yahveh]] — el siervo misterioso
+- [[luz]] — la luz que vino al mundo
+- [[mentira]] — el padre de la mentira
+- [[verdad]] — la verdad que se hace morir
+- [[victoria]] — la victoria sobre el príncipe de este mundo
+- [[espíritu]] — el Espíritu comunicado
+- [[agua]] — el agua misteriosa del costado abierto
+- [[nacimiento_nuevo]] — el nacido de Dios
+- [[ídolos]] — la idolatría
+- [[infierno]] — la muerte eterna, separación de Dios
+- [[ley]] — la impotencia de la ley
+- [[adán]] — la solidaridad con Adán
+- [[bautismo]] — el bautismo
+- [[criatura]] — la nueva criatura
+- [[carne]] — estar en la carne o en el Espíritu
+- [[incredulidad]] — la incredulidad de Israel
+- [[designio_de_dios]] — el designio salvífico de Dios
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `pecado.md`
+Casi en cada página habla la Biblia de esta realidad a la que llamamos comúnmente pecado. Los términos con que lo designa el AT son múltiples y están tomados de ordinario de las relaciones humanas: falta, iniquidad, rebelión, injusticias, etc.; el judaísmo añadirá el de deuda, del que también usará el NT; pero todavía más generalmente se presenta al pecador como «quien hace el mal a los ojos de Dios», y al «justo» (*saddiq*) se opone normalmente el «malvado» (*rasa'*). Pero la verdadera naturaleza del pecado, su malicia y sus dimensiones aparece, sobre todo, a través de la historia bíblica; en ella aprendemos también que esta revelación sobre el hombre es a la vez una revelación acerca de Dios, de su [[amor|amor]], al que se opone el pecado, y de su [[misericordia|misericordia]], a cuyo ejercicio da lugar; en efecto, la historia de la salvación no es otra que la de las tentativas de arrancar al hombre de su pecado, repetidas infatigablemente por el Dios creador.
 
+## I. El pecado de los orígenes
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Entre todos los relatos del AT, el de la caída, con que se abre la historia de la humanidad, ofrece ya una enseñanza de extraordinaria riqueza. Para comprender lo que es el pecado hay que partir de aquí, aun cuando no se pronuncie la palabra pecado.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Pecado |
-| 5 | H2 | I. EL PECADO DE LOS ORÍGENES |
-| 8 | H3 | 1. El pecado de Adán |
-| 21 | H3 | 2. Las consecuencias del pecado. |
-| 47 | H2 | II. EL PECADO DE ISRAEL |
-| 50 | H3 | La adoración del becerro de oro. |
-| 54 | H3 | Los «sepulcros de la concupiscencia». |
-| 58 | H2 | III. LA ENSEÑANZA DE LOS PROFETAS |
-| 61 | H3 | La denuncia del pecado. |
-| 65 | H3 | El pecado, ofensa de Dios. |
-| 72 | H3 | El remedio del pecado. |
-| 77 | H2 | IV. LA ENSEÑANZA DEL NT |
-| 80 | H3 | Jesús y los pecadores. |
-| 86 | H3 | El pecado del mundo. |
-| 94 | H3 | La teología del pecado según san Pablo. |
+### 1. El pecado de Adán
 
+se manifiesta aquí como una desobediencia, un acto por el que el hombre se opone consciente y deliberadamente a Dios violando uno de sus preceptos *Gen 3,3*; pero más allá de este acto exterior de rebeldía, la Escritura menciona un acto interior del que éste procede: Adán y Eva desobedecieron porque cediendo a la sugestión de la serpiente quisieron «ser como dioses que conocen el bien y el mal» *3.5*, es decir, según la interpretación más común, ponerse en lugar de Dios para decidir del [[bien__mal|bien]] y del mal: tomándose a sí mismos por medida, pretenden ser dueños únicos de su destino y disponer de sí mismos a su talante; se niegan a depender del que los ha creado, trastornando así la relación que unía al hombre con Dios.
 
-## Secciones incluidas
+Ahora bien, según *Gen 2*, esta relación no era únicamente de dependencia, sino también de amistad. El Dios de la Biblia no había negado nada al hombre creado «a su imagen y semejanza» *Gen 1,26s*; no se había reservado nada para sí, ni siquiera la [[vida|vida]] *Sab 2,23*, a diferencia de los dioses evocados por los mitos antiguos. Pero he aquí que por instigación de la serpiente, Eva y luego Adán se ponen a dudar de este Dios infinitamente generoso: el precepto dado para el bien del hombre *Rom 7,10* no sería sino una estratagema inventada por Dios para salvaguardar sus privilegios, y la amenaza añadida al precepto sería sencillamente una mentira: «¡No! ¡no moriréis! Pero Dios sabe que el día en que comáis de este fruto seréis como dioses que conocen el bien y el mal» *Gen 3,4s*. El hombre desconfía de Dios que ha venido a ser su rival. La noción misma de Dios queda trastornada: a la noción del Dios soberanamente desinteresado, como soberanamente perfecto que es, sin que le falte nada, y que sólo puede [[don|dar]], se opone la de un ser indigente, interesado, totalmente ocupado en protegerse contra su criatura. El pecado, antes de provocar el gesto del hombre, ha corrompido su espíritu; y como lo afecta en su relación misma con Dios, cuya [[imagen|imagen]] es, no es posible concebir perversión ni trastorno más radical ni extrañarse de que acarree consecuencias tan graves.
 
-# I. EL PECADO DE LOS ORÍGENES
+### 2. Las consecuencias del pecado.
 
-[Contenido de esta sección...]
+Todo ha cambiado entre el hombre y Dios. Aun antes de que intervenga el [[castigos|castigo]] propiamente dicho *Gen 3.23*, Adán y Eva, que hasta entonces gozaban de la familiaridad divina *2,25*, «se esconden de Yahveh Dios entre los árboles» *3,8*. La iniciativa vino del hombre; él es quien no quiere ya nada con Dios; la expulsión del paraíso ratificará esta voluntad del hombre; pero éste comprobará entonces que la amenaza no era mentira: lejos de Dios no hay acceso posible al [[árbol|árbol]] de vida *3,22*; no hay más que la [[muerte|muerte]], definitiva. El pecado, ruptura entre el hombre y Dios, introduce igualmente una ruptura entre los miembros de la sociedad humana, ya en el paraíso, en el seno mismo de la pareja primordial. Apenas cometido el pecado, Adán se desolidariza, acusándola, de la que Dios le había dado como auxiliar *2,18*, «hueso de sus huesos y carne de su carne» *2,23*, y el castigo consagra esta ruptura: «La pasión te llevará hacia tu marido y él te dominará» *3,16*. En lo sucesivo esta ruptura se extenderá a los hijos de Adán: ahí está el homicidio de Abel *4,8*, luego el reinado de la violencia y de la ley del más fuerte que celebra el salvaje canto de Lamec *4,24*. Pero no es todo. El misterio del pecado desborda el mundo humano. Entre Dios y el hombre entra en escena un tercer personaje, del que se guardará de hablar el AT, sin duda para evitar que se haga de él un segundo Dios, pero que la sabiduría identificará con el diablo o [[satán|Satán]], y que reaparecerá en el NT.
 
-## 1. El pecado de Adán
+Finalmente, el relato de este primer pecado no se concluye sin dar al hombre una esperanza. Cierto que la servidumbre a que él se ha condenado creyendo adquirir la independencia, es en sí definitiva; el pecado, una vez entrado en el mundo, no puede menos de proliferar, y a medida que se vaya multiplicando irá realmente disminuyendo la vida hasta cesar completamente con el diluvio *Gen 6,13ss*. La iniciativa de la ruptura ha venido del hombre; es evidente que la iniciativa de la reconciliación sólo puede venir de Dios. Pero precisamente desde este primer relato deja Dios entrever que un día tomará esta iniciativa *3,15*. La bondad de Dios que el hombre ha despreciado acabará por imponerse; «vencerá al mal con el bien» *Rom 12,21*. La Sabiduría precisa que Adán «fue liberado de su falta» *Sab 10.1*. En todo caso el Génesis muestra ya esta bondad en acción: preserva a Noé y a su familia de la universal corrupción y de su castigo *Gen 6,5-8*, a fin de crear con él, por decirlo así, un universo nuevo *8,17.21s*, comparados con *1,22.28* *3,17*; sobre todo, cuando «las [[naciones|naciones]], unánimes en su perversidad, fueron confundidas» *Sab 10,5*, la bondad de Dios escogió a Abraham y lo retiró del mundo pecador *Gen 12,1* *Jos 24,2s.14*, a fin de que «por él sean benditas todas las naciones de la tierra» *Gen 12,2s*, que responde visiblemente a las maldiciones de *Gen 3,14ss*.
 
-[Contenido de esta sección...]
+## II. El pecado de Israel
 
-## 2. Las consecuencias del pecado.
+Como el pecado marcó los orígenes de la historia de la humanidad, marca también el de la historia de Israel. Desde su nacimiento revive éste el drama de Adán. A su vez aprende por su propia experiencia y nos enseña lo que es el pecado. Dos episodios parecen particularmente instructivos.
 
-[Contenido de esta sección...]
+### La adoración del becerro de oro.
 
-# II. EL PECADO DE ISRAEL
+Como Adán, y aun más gratuitamente si es posible, Israel fue colmado de los beneficios de Dios. Sin mérito alguno por su parte *Dt 7,7* *9,4ss* *Ez 16,2-5*, en virtud del solo amor de Dios *Dt 7,8* —pues Israel no era ni más ni menos «pecador» que las otras naciones *Jos 24,2.14* *Ez 20,7s.18*—, fue escogido para ser el [[pueblo|pueblo]] particular, privilegiado entre todos los pueblos de la tierra *Ex 19,5*, constituido «hijo primogénito de Dios» *4,22*. Para liberarlo de la servidumbre de Faraón y de la tierra del pecado (la tierra en la que no se puede [[servir|servir]] a Yahveh, según *5,1*), Dios multiplicó los prodigios. Ahora bien, en el momento preciso en que Dios «entra en alianza» con su pueblo, se compromete con él entregando a Moisés «las tablas del testimonio» *31,18*, el pueblo pide a Aarón: «Haznos un dios que vaya a nuestra cabeza» *32,1*. No obstante las pruebas que Dios ha dado de su «fidelidad», Israel lo halla demasiado lejano, demasiado «invisible». No tiene fe en él; prefiere a un dios a su alcance, cuya [[ira|ira]] pueda aplacar con «sacrificios», en todo caso un dios al que pueda transportar a su guisa, en lugar de verse obligado a [[seguir|seguirlo]] y a obedecer a sus mandamientos *40,36ss*. En lugar de «caminar con Dios», querría que Dios caminara con él.
 
-[Contenido de esta sección...]
+Pecado «original» de Israel, negativa a obedecer, que más profundamente es una negativa a creer en Dios y a abandonarse a él, la primera que menciona *Dt 9,7* y que se renovará en realidad con cada una de las innumerables rebeliones del «pueblo de dura cerviz». En particular, cuando más tarde Israel se vea tentado a ofrecer un culto a los «baales» al lado del que tributaba a Yahveh, será siempre porque se negará a ver en Yahveh al único «suficiente», el Dios del que ha recibido la existencia, y a no servir más que a él *Dt 6,13* *Mt 4,10*. Y cuando san Pablo describa la malicia propia del pecado de idolatría aun entre los paganos, no vacilará en referirse a este primer pecado de Israel *Rom 1,23*=*Sal 106,20*.
 
-## La adoración del becerro de oro.
+### Los «sepulcros de la concupiscencia».
 
-[Contenido de esta sección...]
+Inmediatamente después del episodio del becerro de oro recuerda *Dt 9,22* otro pecado de Israel que san Pablo evocará también presentándolo como el tipo de los «pecados del desierto» *1Cor 10,6*. El sentido del episodio es bastante claro. Al alimento escogido por Dios y distribuido milagrosamente prefiere Israel un manjar de su elección: «¿Quién nos dará a comer carne?... Ahora perecemos privados de todo: nuestros ojos no ven más que el maná» *Num 11,4ss*. Israel se niega a dejarse guiar por Dios, a abandonarse a él, a aceptar lo que en la mente de Dios debía constituir la experiencia espiritual del [[desierto|desierto]] *Dt 8,3* *Mt 4,4*. Su «concupiscencia» será satisfecha, pero, como Adán, sabrá lo que cuesta al hombre sustituir por sus caminos los caminos de Dios *Num 11,33*.
 
-## Los «sepulcros de la concupiscencia».
+## III. La enseñanza de los profetas
 
-[Contenido de esta sección...]
+Tal es precisamente la lección que Dios no cesará de repetirle por sus profetas. Al igual que el hombre que pretende construirse él mismo no puede acabar sino en su ruina, así el pueblo de Dios se destruye tan luego se desvía de los [[camino|caminos]] que Dios le ha trazado: así aparece el pecado como el obstáculo por excelencia, en realidad el único, para la realización del plan de Dios sobre Israel, para su reinado, para su «gloria», concretamente identificada con la gloria de Israel, pueblo de Dios. El pecado del hombre adquiere una nueva dimensión: afecta no sólo al que peca, sino al pueblo entero. Cierto que en este sentido el pecado del jefe, del rey, del sacerdote reviste una responsabilidad particular y se comprende que sea mencionado con preferencia; pero no exclusivamente. Ya el pecado de Akán había detenido el ejército de todo Israel delante de Ai *Jos 7*, y muy a menudo son los pecados del pueblo en su conjunto, a los que los profetas hacen responsables de las desgracias de la nación: «No, la mano de Dios no es demasiado corta para salvar, ni su oído demasiado duro para oír. Pero vuestras iniquidades han zanjado un abismo entre vosotros y Dios» *Is 59,1s*.
 
-# III. LA ENSEÑANZA DE LOS PROFETAS
+### La denuncia del pecado.
 
-[Contenido de esta sección...]
+Así la predicación de los profetas consistirá en gran parte en denunciar el pecado, el de los jefes (p.e. *1Sa 3,11* *13,13s* *2Sa 12,1-15* *Jer 22,13*) y el del pueblo: de ahí las enumeraciones de pecados, tan frecuentes en la literatura profética, de ordinario con referencia más o menos directa al Decálogo, y que se multiplican con la literatura sapiencial (p.e. *Dt 27,15-26* *Ez 18,5-9* *33,25s* *Sal 15* *Prov 6,16-19* *30,11-14*). El pecado viene a ser una realidad sumamente concreta, y así nos enteramos de lo que es engendrado por el abandono de Yahveh: violencias, rapiñas, juicios inicuos, mentiras, adulterios, perjurios, homicidios, usura, derechos atropellados, en una palabra, toda clase de desórdenes sociales. La «[[confesión|confesión]]» inserta en *Is 59* revela cuáles son concretamente estas «iniquidades» que «han cavado un abismo entre el pueblo y Dios» *59,2*: «Nuestros pecados nos están presentes y conocemos nuestros yerros: rebelarse contra Yahveh y renegar de él, desviarse lejos de nuestro Dios, hablar con mala fe y rebeldía y mascullar en el corazón palabras mentirosas. Se deja al lado el juicio y se relega a la justicia, pues la buena fe tropieza en la plaza pública y la rectitud no puede presentarse» *59,13s*. Mucho antes hablaba Oseas de la misma manera: «No hay sinceridad, ni amor, ni conocimiento de Dios en el país, sino perjurio y mentira, asesinato y robo, adulterio y violencia, homicidio sobre homicidio» *Os 4,2* *Is 1,17* *5,8* *65,6s* *Am 4,1* *5,7-15* *Miq 2,1s*.
 
-## La denuncia del pecado.
+La lección es capital: quien pretenda construirse a sí mismo, independientemente de Dios, lo hará ordinariamente a expensas de otros, particularmente de los pequeños y de los débiles. El salmista lo proclama: «El hombre que no ha puesto en Dios su fortaleza» *Sal 52,9* «medita el crimen sin cesar» (v. 4), mientras que «el justo se fía del amor de Dios constantemente y para siempre» (v. 10). ¿Y no era ya esto lo que sugería el adulterio de David *2Sa 12*? Pero de este episodio, que se sabe el lugar que ocupaba en la concepción judía del pecado (el Miserere), se desprende otra verdad no menos importante: el pecado del hombre no sólo atenta contra los derechos de Dios, sino que, por decirlo así, le hiere en el corazón.
 
-[Contenido de esta sección...]
+### El pecado, ofensa de Dios.
 
-## El pecado, ofensa de Dios.
+Cierto que el pecador no puede herir a Dios en sí mismo; la Biblia tiene más que suficiente preocupación por la trascendencia divina para recordarlo cuando llega el caso: «Se hacen libaciones a dioses extranjeros para herirme. Pero ¿es acaso a mí a quien hieren? Oráculo de Yahveh. ¿No es más bien a sí mismos para su propia confusión?» *Jer 7,19*. «Si pecas, ¿qué le haces? Si multiplicas tus ofensas, ¿le haces algún daño?» *Job 35,6*. Pecando contra Dios no logra el hombre sino destruirse a sí mismo. Si Dios nos prescribe leyes, no es en su interés, sino en el nuestro, «a fin de que seamos todos felices y vivamos» *Dt 6,24*. Pero el Dios de la Biblia no es el de Aristóteles, indiferente al hombre y al mundo.
 
-[Contenido de esta sección...]
+a. Si el pecado no «hiere» a Dios en sí mismo, le hiere primero en la medida en que afecta a los que Dios ama. Así David, «hiriendo con la espada a Urías el hitita y quitándole su mujer», se imaginaba seguramente no haber ofendido más que a un hombre, y éste ni siquiera israelita: había olvidado que Dios se había constituido garante de los derechos de toda persona humana. En nombre de Dios le hace comprender Natán que ha «despreciado a Yahveh» en persona y que será castigado como corresponde *2Sa 12,9s*.
 
-## El remedio del pecado.
+b. Hay más. El pecado, «cavando un abismo entre Dios y su pueblo» *Is 59,2*, por eso mismo alcanza a Dios en su designio de amor: «Mi pueblo ha cambiado su [[gloria|gloria]] por la impotencia... Me ha abandonado a mí, fuente de agua viva, para cavarse cisternas, cisternas agrietadas que no conservan el agua» *Jer 2,11ss*.
 
-[Contenido de esta sección...]
+c. A medida que la revelación bíblica vaya descubriendo las profundidades de este [[amor|amor]] se podrá comprender en qué sentido real puede el pecado «ofender» a Dios: ingratitud del hijo para con un [[padres_y_padre|padre]] amantísimo (p.e. *Is 64,7*), y hasta para con una [[madre|madre]] que no puede «olvidar el fruto de sus entrañas, aun cuando las madres lo olvidaran» *Is 49,15*, sobre todo infidelidad de la [[esposo|esposa]], que se prostituye al primero que se presenta, indiferente al amor constantemente fiel de su esposo: «¿Has visto lo que ha hecho Israel, la rebelde?... Yo pensaba: 'Después de haber hecho todo esto volverá a mí'; pero no ha vuelto... ¡Vuelve, rebelde Israel!... Ya no tendré para ti un rostro severo, pues soy misericordioso» *Jer 3,7.12* *Ez 16* *23*.
 
-# IV. LA ENSEÑANZA DEL NT
+A este nivel de la revelación el pecado aparece esencialmente como violación de relaciones personales, como la negativa del hombre a dejarse amar por un Dios que sufre de no ser amado, al que el amor ha hecho, por decirlo así, «vulnerable»: misterio de un amor que sólo hallará su explicación en el NT.
 
-[Contenido de esta sección...]
+### El remedio del pecado.
 
-## Jesús y los pecadores.
+Los profetas denuncian el pecado y hacen notar su gravedad sólo para invitar más eficazmente a la [[penitencia__conversión|conversión]]. En efecto, si el hombre es infiel, Dios, en cambio, es siempre [[fidelidad|fiel]]; el hombre desdeña el amor de Dios, pero Dios no cesa de ofrecerle este amor; todo el tiempo que el hombre es todavía capaz de retorno, le apremia Dios para que vuelva. Como en la parábola del hijo pródigo, todo está ordenado a este retorno deseado, que se daba por supuesto: «Por eso voy a cerrar su camino con espinas, obstruiré su ruta para que no halle ya sus senderos; ella perseguirá a sus amantes y no los alcanzará, los buscará y no los hallará. Entonces dirá: Quiero volver a mi primer marido, pues entonces era más feliz que ahora» *Os 2,8s* *Ez 14,11*.
 
-[Contenido de esta sección...]
+En efecto, si el pecado consiste en rechazar el amor, es claro que no se borrará, no se suprimirá, no se perdonará sino en la medida en que el hombre consienta en amar de nuevo; suponer un «[[perdón|perdón]]» que pueda dispensar al hombre de volver a Dios, equivaldría a querer que el hombre ame dispensándole a la vez de amar... El amor mismo de Dios le impide por tanto no exigir este retorno. Si se proclama un «Dios celoso» *Ex 20,5* *Dt 5,9*, es que sus [[celo|celos]] son efecto de su amor *Is 63,15* *Zac 1,14*; si pretende procurar él solo la felicidad del hombre creado a su imagen, es que sólo él puede hacerlo. Las condiciones de este retorno se hallarán indicadas bajo las rúbricas [[expiación|expiación]], [[fe|fe]], [[perdón|perdón]], [[penitencia__conversión|penitencia-conversión]], [[redención|redención]].
 
-## El pecado del mundo.
+La primera condición por parte del hombre consiste evidentemente en que renuncie a su voluntad de independencia, que consienta en dejarse guiar por Dios, en dejarse amar, con otras palabras, que renuncie a lo que constituye el fondo mismo de su pecado. Ahora bien, el hombre se hace cargo de que precisamente esto se halla fuera de su poder. Para que se perdone al hombre no basta con que Dios se digne no rechazar a la esposa infiel; hace falta más: «Haznos volver y volveremos» *Lam 5,21*. Dios mismo irá, pues, en busca de las ovejas dispersas *Ez 34*; dará al hombre un «corazón nuevo», un «espíritu nuevo», «su propio Espíritu» *Ez 36,26s*. Será «la nueva alianza», en que la ley no estará ya inscrita en tablas de piedra, sino en el [[corazón|corazón]] de los hombres *Jer 31,31ss* *2Cor 3,3*. Dios no se contentará con ofrecer su amor y con exigir el nuestro: «Yahveh, tu Dios, [[circuncisión|circuncidará]] tu corazón y el corazón de tu posteridad, de modo que ames a Yahveh tu Dios con todo tu corazón y con toda tu alma, a fin de que vivas» *Dt 30,6*. Por eso el salmista, confesando su pecado, suplica a Dios mismo que le «lave», le «purifique», «cree en él un corazón puro» *Sal 51*, persuadido de que la [[justificación|justificación]] del pecado reclama un acto estrictamente divino, análogo al acto creador. Finalmente, el AT anuncia que esta transformación interior del hombre que lo arranca a su pecado se efectuará gracias a la oblación sacrificial de un [[siervo_de_yahveh|siervo]] misterioso, cuya verdadera identidad no habría podido sospechar nadie antes de la realización de la profecía.
 
-[Contenido de esta sección...]
+## IV. La enseñanza del NT
 
-## La teología del pecado según san Pablo.
+El NT revela que este siervo venido para «librar al hombre del pecado» no es otro que el propio Hijo de Dios. No debe, pues, sorprender que el pecado no ocupe aquí menos lugar que en el AT, y sobre todo que la revelación plena de lo que ha hecho el amor de Dios para acabar con el pecado, permita descubrir su verdadera dimensión y a la vez su papel en el plan de la Sabiduría divina.
 
-[Contenido de esta sección...]
+### Jesús y los pecadores.
+
+a. Desde el comienzo de la catequesis sinóptica vemos a *Jesús en medio de los pecadores*. En efecto, para ellos había venido, no para los justos *Mc 2,17*. Utilizando el vocabulario judío de la época les anuncia que sus pecados les son «remitidos», condonados. No ya que, asimilando así el pecado a una «deuda» y hasta empleando a veces el término *Mt 6,12* *18,23ss*, entienda sugerir que pueda ser perdonado por un acto de Dios que no exija en absoluto transformación del espíritu y del corazón del hombre. Jesús, como los profetas y como Juan Bautista *Mc 1,4*, predica la [[penitencia__conversión|conversión]], un cambio radical del espíritu que ponga al hombre en la disposición de acoger el favor divino, de dejarse mover por Dios: «El reino de Dios está próximo: arrepentíos y creed en la buena nueva» *Mc 1,15*. En cambio, delante de quien rechaza la luz *Mc 3,29 p* o se imagina no tener necesidad de perdón, como el fariseo de la parábola *Lc 18,9ss*, Jesús se siente impotente.
+
+b. Por eso, también como los profetas, *denuncia el pecado* dondequiera que se halle, aun en los que se creen justos porque observan las prescripciones de una ley exterior. Porque el pecado está en el interior del corazón, de donde «salen los pensamientos malos, las fornicaciones, los hurtos, los homicidios, los adulterios, las codicias, las maldades, el fraude, la impureza, la envidia, la blasfemia, la altivez, la insensatez: cosas todas que salen de dentro y manchan al hombre» *Mc 7,21ss p*. Es que Jesús vino a «cumplir la ley» en su plenitud, muy lejos de abolirla *Mt 5,17*; el discípulo de Jesús no puede contentarse con «la [[justicia|justicia]] de los escribas y de los fariseos» *5,20*; cierto que la justicia de Jesús se reduce finalmente al solo precepto del [[amor|amor]] *7,12*; pero el discípulo, viendo obrar a su maestro aprenderá poco a poco lo que significa «amar» y correlativamente lo que es el pecado, negativa al amor.
+
+c. Y en particular lo aprenderá oyendo a Jesús revelarle la inconcebible [[misericordia|misericordia]] de Dios para con el pecador. Pocos pasajes del NT manifiestan mejor que la parábola del hijo pródigo —por lo demás tan afín a la enseñanza profética— en qué sentido el pecado es una ofensa de Dios y cuán absurdo sería concebir un [[perdón|perdón]] de Dios que no implicara el retorno del pecador. Más allá del acto de desobediencia que se puede suponer —aun cuando el hermano mayor sólo hace alusión a ella para oponerla a su propia obediencia—, lo que «contrista» al padre es la partida de su hijo, esa voluntad de no ser ya hijo, de no permitir ya que su padre le ame eficazmente: ha «ofendido» a su padre privándole de su presencia de hijo. ¿Cómo podría «reparar» esta ofensa si no es con su retorno, aceptando de nuevo que se le trate como a hijo? Por eso la parábola subraya el gozo del padre. Fuera de tal retorno no se puede concebir perdón alguno; o más bien el padre había ya perdonado desde el principio, pero el perdón no afecta eficazmente al pecado del hijo sino en el retorno y por el retorno de éste.
+
+d. Ahora bien, esta actitud de Dios frente al pecado todavía la revela más Jesús *con sus actos* que con sus palabras. No sólo acoge a los pecadores con el mismo amor y con la misma delicadeza que el padre de la parábola (p.e. *Lc 7,36ss* *19,5* *Mc 2,15ss* *Jn 8,10s*), exponiéndose a escandalizar a los testigos de tal misericordia, tan incapaces de comprenderla como lo había sido el hijo mayor *Lc 15,28ss*. Además de esto actúa directamente contra el pecado: él el primero triunfa de [[satán|Satán]] en la ocasión de la [[prueba__tentación|tentación]]; durante su vida pública arranca ya a los hombres a este influjo del diablo y del pecado que constituyen la [[enfermedad__curación|enfermedad]] de la posesión *Mc 1,23*, inaugurando así el papel del [[siervo_de_yahveh|siervo]] *Mt 8,16s* antes de «entregar su vida como rescate» *Mc 10,45* y «derramar su sangre, la sangre de la alianza, por una multitud para remisión de los pecados» *Mt 26,28*.
+
+### El pecado del mundo.
+
+San Juan, aunque conoce la expresión tradicional de «remisión de los pecados» *Jn 20,23* *1Jn 2,12*, habla más bien de Cristo que viene a «quitar el pecado del mundo» *Jn 1,29*. Más allá de los actos singulares percibe la realidad misteriosa que los engendra: un poder de hostilidad a Dios y a su reinado con el que se ve enfrentado Cristo.
+
+a. Esta hostilidad se manifiesta primero concretamente en el repudio voluntario de la [[luz|luz]]. El pecado tiene la opacidad de las tinieblas: «La luz vino al mundo y los hombres amaron más las tinieblas que la luz porque sus obras eran malas» *Jn 3,19*. El pecador se opone a la luz porque la teme, «por temor de que se descubran sus obras». La odia: «Todo el que hace el mal odia la luz» *3,20*. Ceguera voluntaria, ceguera amada, porque no se reconoce como tal: «Si fuerais ciegos, estaríais sin pecado. Pero vosotros decís: Nosotros vemos. Vuestro pecado permanece» *9,40*.
+
+b. Una ceguera tan obstinada no se explica sino por el influjo perverso de [[satán|Satán]]. En efecto, el pecado hace esclavos de Satán: «Todo el que comete el pecado es esclavo» *Jn 8,34*. Como el cristiano es hijo de Dios, el pecador es «hijo del diablo, pecador desde el principio» y «hace sus obras» *1Jn 3,8-10*. Ahora bien, entre estas obras señala Juan dos, el homicidio y la [[mentira|mentira]]: «Desde el principio es homicida y no estaba establecido en la verdad porque en él no hay verdad; cuando dice sus mentiras las saca de su propio fondo porque es mentiroso y padre de la mentira» *Jn 8,44*. Homicida lo fue infligiendo la muerte al hombre *Sab 2,24* y también inspirando a Caín que matara a su hermano *1Jn 3,12-15*; lo es actualmente inspirando a los judíos que den muerte al que les dice la [[verdad|verdad]]: «Vosotros queréis matarme a mí, que os digo la verdad que he oído a Dios... Vosotros hacéis las obras de vuestro padre y queréis realizar los deseos de vuestro padre» *Jn 8,39-44*.
+
+c. Homicidio y mentira, por su parte, no se explican sino por *el odio*. A propósito del diablo la Escritura hablaba de envidia *Sab 2,24*; Juan no vacila en nombrar al odio: al igual que el incrédulo obstinado «odia la luz» *Jn 3,20*, así los judíos odian a Cristo y a Dios, su padre *15,22s*: los judíos, es decir, el mundo esclavizado por Satán, todo el que se niega a reconocer a Cristo. Y este odio acabará de hecho en el homicidio del Hijo de Dios *8,37*.
+
+d. Tal es la dimensión de este pecado del mundo de que *triunfa Jesús*. Puede hacerlo porque él mismo no tiene pecado *Jn 8,46* *1Jn 3.5*, es «uno» con Dios su Padre *Jn 10,30*, pura «luz» «en quien no hay tinieblas» *1,5* *8,12*, verdad sin huella alguna de mentira o de falsedad *1,14* *8,40*, finalmente, y sobre todo quizás, «amor», pues «Dios es amor» *1Jn 4,8*, y si durante su vida no cesó de amar, su muerte será un acto de amor tal que no se pueda concebir otro mayor, la «consumación» del amor *Jn 15,13* *13,1* *19,30*. Así esta muerte fue una [[victoria|victoria]] sobre «el príncipe de este mundo». Éste cree dirigir el juego; pero contra Jesús no puede nada *14,30* y él es quien «es derrocado» *12,31*. Jesús venció al mundo *Jn 16,33*.
+
+e. Lo que lo prueba, no es sólo el que Jesús pueda «volver a tomar la vida que ha dado» *Jn 10,17*; quizá lo es todavía más el que haga partícipes de su victoria a sus discípulos: el cristiano, hecho «hijo de Dios» por haber acogido a Jesús *1,12*, «no comete el pecado porque ha nacido de Dios» *1Jn 3,9*; más aún: en tanto permanece en él la «semilla divina», es decir, probablemente, como se expresa san Pablo, «en tanto se deja mover por el Espíritu de Dios» *Rom 8,14s* *Gal 5,16* «no puede pecar». En efecto, Jesús «quita el pecado del mundo» precisamente comunicándole el [[espíritu|Espíritu]], simbolizado por el [[agua|agua]] misteriosa que brotó del costado abierto del crucificado como la fuente de que hablaba Zacarías, «abierta a la casa de David para el pecado y la impureza» *Jn 19,30-37* *Zac 12,10* *13,1*. Cierto que el cristiano, aun [[nacimiento_nuevo|nacido]] de Dios, puede recaer en el pecado *1Jn 2,1*; pero «Jesús se hizo propiciación por nuestros pecados» *1Jn 2,2* y comunicó el Espíritu a los apóstoles a fin de que pudieran «remitir los pecados» *Jn 20,22s*.
+
+### La teología del pecado según san Pablo.
+
+a. Merced a un vocabulario más rico puede Pablo distinguir todavía más netamente el «pecado» (gr. *hamartía*, en singular), y los «actos pecaminosos», llamados con preferencia, fuera de las fórmulas tradicionales, «faltas» (liter. «caídas», gr. *paráptoma*) o «transgresiones» (gr. *parábasis*), sin querer por eso disminuir lo más mínimo la gravedad de estos últimos. Así el pecado cometido por Adán en el paraíso, del que se sabe la importancia que le da san Pablo, es denominado sucesivamente «transgresión», «falta», «desobediencia» *Rom 5,14.17.19*.
+
+En todo caso, en su moral el acto pecaminoso no ocupa ciertamente un puesto menor que en los Sinópticos, como lo muestran las listas de pecados, tan frecuentes en sus epístolas: *1Cor 5,10s* *6,9s* *2Cor 12,20* *Gal 5,19-21* *Rom 1,29-31* *Col 3,5-8* *Ef 5,3* *1Tim 1,9* *Tit 3,3* *2Tim 3,2-5*. Todos estos pecados excluyen del reino de Dios, como se dice a veces explícitamente *1Cor 6,9* *Gal 5,21*. Ahora bien, aquí se puede observar, exactamente como en las listas análogas del AT, la relación en que se ponen los desórdenes sexuales, la [[ídolos|idolatría]] y las injusticias sociales (*Rom 1,21-32* y las listas de 1Cor, Gal, Col, Ef). Nótese igualmente la gravedad atribuida por Pablo a la «codicia» (*gr. pleonexía*), ese pecado que consiste en querer «poseer siempre más», vicio que los antiguos latinos llamaban *avaricia* y que se asemeja mucho a lo que el Decálogo *Ex 20,17* prohibía bajo el mismo nombre de «codicia» *Rom 7,7*: Pablo no se contenta con relacionar este pecado con la idolatría, sino que lo identifica: «esta codicia que es idolatría» *Col 3,5* *Ef 5,5*.
+
+b. Más allá de los actos pecaminosos se remonta Pablo a su principio: en el hombre pecador son la expresión y la exteriorización de la fuerza hostil a Dios y a su reinado de que hablaba san Juan. El mero hecho de que Pablo le reserve prácticamente el término de pecado (en singular) le da ya un relieve especial. Pero el Apóstol se aplica sobre todo a describir ya su origen en cada uno de nosotros, ya sus efectos, con la suficiente precisión para ofrecer un esbozo de una verdadera teología del pecado.
+
+El pecado, presentado como un poder personificado, hasta el punto de parecer a veces confundirse con el personaje de [[satán|Satán]], el «Dios de este mundo» *2Cor 4,4*, se distingue, sin embargo, de él: pertenece al hombre pecador, es algo interior a él. Introducido en el género humano por la desobediencia de Adán *Rom 5,12-19* y como por repercusión, en el mismo universo material *Rom 8,20* *Gen 3,17*, el pecado pasó a todos los hombres sin excepción, arrastrándolos a todos a la [[muerte|muerte]] eterna, separación de Dios, tal como la sufren los condenados en el [[infierno|infierno]]; independientemente de la [[redención|redención]] forman todos según el dicho de san Agustín —exacto con tal que se comprenda bien— una *massa damnata*. Y Pablo se complace en describir por extenso esta situación del hombre «vendido al poder del pecado» *Rom 7,14*, capaz todavía de «simpatizar» con el bien *7,16.22* y hasta de «desearlo» *7,15.21*, lo que prueba que no todo está en él corrompido, pero absolutamente incapaz de realizarlo *7,18* y por tanto necesariamente destinado a la muerte eterna *7,24*, «salario», o mejor todavía, «desemboque», «remate» del pecado *6,21-23*.
+
+c. Tales afirmaciones hacen que a veces se acuse al Apóstol de exageración y de pesimismo. Esto es olvidar que Pablo, al formularlas, hace abstracción de la gracia de Cristo: su argumentación misma le fuerza a ello, dado que subraya la universalidad del pecado y su tiranía con el solo fin de establecer la impotencia de la [[ley|ley]] y de encarecer la absoluta necesidad de la obra liberadora de Cristo. Más aún: Pablo sólo recuerda la solidaridad de la humanidad entera con [[adán|Adán]] para revelar otra solidaridad muy superior, la de la humanidad entera con Jesucristo; en la mente de Dios Jesucristo, el antitipo, es primero *Rom 5,14*; esto equivale a decir que el pecado de Adán y sus consecuencias sólo fueron permitidos porque Jesucristo debía triunfar de ellos y con tal sobreabundancia que aun antes de exponer las semejanzas entre el papel del primer Adán y el del segundo *5,17ss*, tiene Pablo empeño en marcar las diferencias *5,15s*.
+
+En efecto, la victoria de Cristo sobre el pecado no es para Pablo menos esplendente que para Juan. El cristiano [[justificación|justificado]] por la [[fe|fe]] y el [[bautismo|bautismo]] *Gal 3,26ss* *Rom 3,21ss* *6,2ss* ha roto totalmente con el pecado; muerto al pecado, ha venido a ser, con Cristo muerto y resucitado, un ser nuevo *Rom 6,5*, una «nueva [[creación|criatura]]» *2Cor 5,17*; no está ya «en la [[carne|carne]]», sino «en el Espíritu» *Rom 7,5* *8,9*, si bien puede, todo el tiempo que vive en un «cuerpo mortal», recaer bajo el imperio del pecado y «ceder a sus concupiscencias» *6,12*, si se niega a «caminar según el Espíritu» *8,4*.
+
+d. Dios no solamente triunfa del pecado. Su *sabiduría «de infinitos recursos»* *Ef 3,10* obtiene esta victoria utilizando el pecado. Lo que era el obstáculo por excelencia al reinado de Dios y a la salvación del hombre desempeña su papel en la historia de esta salvación. En efecto, precisamente a propósito del pecado habla Pablo de la «sabiduría de Dios» *1Cor 1,21-24* *Rom 11,33*. Particularmente meditando sobre el pecado que fue sin duda para su corazón la herida más punzante *Rom 9,2* y en todo caso un escándalo para su espíritu, la [[incredulidad|incredulidad]] de Israel, comprendió que esta infidelidad, por lo demás parcial y provisional *Rom 11,25*, entraba en el [[designio_de_dios|designio]] salvífico de Dios sobre el género humano y que «Dios no había incluido a todos los hombres en la desobediencia sino para usar de misericordia con todos» *Rom 11,32* *Gal 3,22*. Así exclama con una admiración llena de reconocimiento: «¡Oh abismo de la riqueza, de la sabiduría y de la ciencia de Dios! ¡Cuán insondables son sus decretos y cuán incomprensibles sus caminos!» *Rom 11,33*.
+
+e. Pero este misterio de la sabiduría divina que utiliza para la salvación del hombre hasta su mismo pecado no se revela en ninguna parte más claramente que en la pasión del Hijo de Dios. En efecto, si Dios Padre «entregó a su Hijo» a la muerte *Rom 8,32*, fue para ponerlo en tales condiciones que pudiera realizar el acto de obediencia y de amor más grande que se puede concebir, y operar así nuestra [[redención|redención]] pasando él el primero de la condición carnal a la condición espiritual. Ahora bien, las circunstancias de esta muerte, ordenadas a crear las condiciones más favorables de tal acto, son todas efecto del pecado del hombre: traición de Judas, abandono de los apóstoles, cobardía de Pilato, odio de las autoridades de la nación judía, crueldad de los verdugos, y más allá del drama visible, nuestros propios pecados, para cuya expiación muere. Para que pudiera amar como ningún hombre ha amado jamás, quiso Dios que su Hijo se hiciera vulnerable al pecado del hombre, que fuera sometido a los efectos maléficos del poder de muerte que es el pecado, a fin de que nosotros fuésemos, gracias a este acto supremo de amor, sometidos a los efectos benéficos del poder de vida que es la justicia de Dios *2Cor 5,21*. Tan cierto es que «Dios hace que todo concurra al bien de los que le aman» *Rom 8,28*, todo, incluso el pecado.

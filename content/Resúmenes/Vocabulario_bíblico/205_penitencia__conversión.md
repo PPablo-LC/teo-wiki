@@ -1,166 +1,165 @@
 ---
 type: ResumenFuente
 title: "Penitencia - Conversión"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 205
-timestamp: 2026-08-24
-description: "Resumen de 'Penitencia - Conversión' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "La penitencia y la conversión en la Escritura: el vocabulario y las liturgias de penitencia, el mensaje de conversión de los profetas, la liturgia de penitencia y la conversión del corazón, y el NT sobre conversión, bautismo y penitencia en la Iglesia."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Penitencia - Conversión
 
+> 📄 **Fuente original:** `penitencia_conversion.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[pecado]] — los hombres pecadores
+- [[alianza]] — el vínculo de la comunidad con Dios
+- [[castigos]] — los castigos divinos
+- [[ayuno]] — el ayuno
+- [[expiación]] — los sacrificios expiatorios
+- [[confesión]] — la confesión colectiva del pecado
+- [[buscar]] — buscar a Yahveh
+- [[odio]] — odiar el mal
+- [[bien__mal]] — amar el bien
+- [[resto]] — el resto de José
+- [[ídolos]] — la idolatría
+- [[amor]] — el amor (*hesed*)
+- [[conocer]] — el conocimiento de Dios
+- [[endurecimiento]] — el endurecimiento de los corazones
+- [[justicia]] — la justicia
+- [[piedad]] — la piedad
+- [[humildad]] — la humildad
+- [[circuncisión]] — circuncidar el corazón
+- [[nuevo]] — un corazón nuevo y un espíritu nuevo
+- [[gracia]] — la gracia dada por Dios
+- [[corazón]] — el corazón y el espíritu nuevo
+- [[espíritu]] — pondrá en ellos su espíritu
+- [[fidelidad]] — el pueblo consolidado en la fidelidad
+- [[naciones]] — las naciones que se convertirán
+- [[perdón]] — el perdón de Dios
+- [[enfermedad__curación]] — los salmos de los enfermos
+- [[persecución]] — los salmos de los perseguidos
+- [[juan_bautista]] — Juan Bautista, el último de los profetas
+- [[juicio]] — el juicio que debe preceder a la venida del reino
+- [[ira]] — la ira manifestada el día de Yahveh
+- [[abraham]] — la raza de Abraham
+- [[fruto]] — el fruto digno del arrepentimiento
+- [[bautismo]] — el bautismo de agua, de fuego y del Espíritu
+- [[reino]] — el reino de Dios
+- [[hijo]] — el Hijo del hombre
+- [[riquezas]] — el apego a las riquezas
+- [[fariseos]] — la soberbia seguridad de los fariseos
+- [[generación]] — una generación mala
+- [[esterilidad]] — la higuera estéril
+- [[niño]] — volver a ser como un niño pequeño
+- [[pastor]] — el pastor que sale en busca de la oveja perdida
+- [[misericordia]] — la misericordia del Padre
+- [[apóstoles]] — los apóstoles enviados a predicar la conversión
+- [[incredulidad]] — la incredulidad
+- [[paciencia]] — la paciencia de Dios
+- [[calamidad]] — las calamidades
+- [[día_del_señor]] — el día de Yahveh
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `penitencia_conversion.md`
+Dios llama a los hombres a entrar en comunión con él. Ahora bien, se trata de hombres pecadores. Pecadores de nacimiento *Sal 51,7*: por la falta del primer padre entró el [[pecado|pecado]] en el mundo *Rom 5.12* y desde entonces habita en lo más íntimo de su «yo» *7,20*. Pecadores por culpabilidad personal, pues cada uno de ellos, «vendido al poder del pecado» *7,14*, ha aceptado voluntariamente este yugo de las pasiones pecadoras *7,5*. La respuesta al llamamiento de Dios les exigirá por tanto en el punto de partida una conversión, y luego, a todo lo largo de la vida, una actitud penitente. Por esto la conversión y la penitencia ocupan un lugar considerable en la revelación bíblica.
 
+Sin embargo, el vocabulario que las expresa adquirió sólo lentamente su plenitud de sentido a medida que se iba profundizando la noción del pecado. Algunas fórmulas evocan la actitud del hombre que se ordena deliberadamente a Dios: «[[buscar|buscar]] a Yahveh» *Am 5,4* *Os 10,12*, «buscar su rostro» *Os 5,15* *Sal 24,6* *27,8*, «humillarse delante de él» *1Re 21,29* *2Re 22,19*, «fijar su corazón en él» *1Sa 7,3*... Pero el término más empleado, el verbo *šub*, traduce la idea de cambiar de rumbo, de volver, de hacer marcha atrás, de volver uno sobre sus pasos. En contexto religioso significa que uno se desvía de lo que es malo y se vuelve a Dios. Esto define lo esencial de la conversión, que implica un cambio de conducta, una nueva orientación de todo el comportamiento. En época tardía se distinguió más entre el aspecto interior de la penitencia y los actos exteriores que determina. Así la Biblia griega emplea conjuntamente el verbo *epistrephein*, que connota cambio de la conducta práctica, y el verbo *metanoein*, que atiende más a la vuelta interior (la *metanoia* es el arrepentimiento, la penitencia). Analizando los textos bíblicos hay que considerar estos dos aspectos distintos, pero estrechamente complementarios.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+## AT
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Penitencia - Conversión |
-| 6 | H2 | AT |
-| 8 | H2 | I. EN LOS ORÍGENES DE LAS LITURGIAS DE PENITENCIA |
-| 10 | H3 | 1. Ya en la |
-| 25 | H3 | 2. Además, mientras dura una plaga (o bien para impedir que sobrevenga |
-| 38 | H3 | 3. Las prácticas de este género están atestiguadas en todas |
-| 47 | H2 | II. EL MENSAJE DE CONVERSIÓN DE LOS PROFETAS |
-| 50 | H3 | 1. Amós, |
-| 62 | H3 | 2. Isaías denuncia en los hombres de Judá pecados de todo género: viol |
-| 79 | H3 | 3. La insistencia en las disposiciones interiores |
-| 95 | H3 | 4. Ezequiel, |
-| 112 | H3 | 5. De Amós a Ezequiel se fue, pues, profundizando en forma |
-| 127 | H2 | III. LITURGIA DE PENITENCIA Y CONVERSIÓN DEL CORAZÓN |
-| 129 | H3 | 1. La conversión nacional de Israel fue el doble fruto de la predicaci |
-| 146 | H3 | 2. No menor es el esfuerzo en el plano individual, pues se |
-| 163 | H2 | NT |
-| 165 | H2 | I. EL ÚLTIMO DE LOS PROFETAS |
-| 168 | H2 | II. CONVERSIÓN Y ENTRADA EN EL REINO DE DIOS |
-| 170 | H3 | 1. Jesús no se contenta con anunciar la proximidad |
-| 192 | H3 | 2. Cuando Jesús reclama la conversión no hace alusión |
-| 214 | H2 | III. CONVERSIÓN Y BAUTISMO |
-| 218 | H3 | 1. Lo que se exige a los judíos es ante todo la conversión |
-| 234 | H3 | 2. El Evangelio halla mejor acogida en las |
-| 250 | H2 | IV. PECADO Y PENITENCIA EN LA IGLESIA |
-| 252 | H3 | 1. El acto |
-| 272 | H3 | 2. En efecto, sólo la penitencia prepara al hombre para afrontar el |
+## I. En los orígenes de las liturgias de penitencia
 
+### 1. Ya en la época antigua,
 
-## Secciones incluidas
+en la perspectiva de la doctrina de la [[alianza|alianza]], se sabe que el vínculo de la comunidad con Dios puede romperse por culpa de los hombres, ya se trate de [[pecado|pecados]] colectivos o de pecados individuales que comprometen en cierto modo a la colectividad entera. Así las calamidades públicas son ocasión para una toma de conciencia de las faltas cometidas *Jos 7* *1Sa 5-6*. Es cierto que la idea del pecado es con frecuencia bastante burda, como si toda falta material a una exigencia divina fuera capaz de irritar a Yahveh. Para restablecer el vínculo con él y recobrar su favor debe la comunidad en primer lugar castigar a los responsables, lo cual puede llegar hasta la pena de muerte *Ex 32,25-28* *Num 25,7ss* *Jos 7,24ss*, al menos que haya «rescate» del culpable *1Sa 14,36-45*. Por lo demás éste mismo puede ofrecerse a los [[castigos|castigos]] divinos para que sea salva la comunidad *2Sa 24,17*.
 
-# AT
+### 2. Además,
 
-[Contenido de esta sección...]
+mientras dura una plaga (o bien para impedir que sobrevenga), se implora el perdón divino con prácticas ascéticas y liturgias penitenciales: se [[ayuno|ayuna]] *Jue 20,26* *1Re 21,8ss*, se rasgan los vestidos o se visten las gentes de saco *1Re 20,31s* *2Re 6,30* *19,1s* *Is 22,12* *Jon 3,5-8*, se extienden sobre la ceniza *Is 58,5* *2Sa 12,16*. En las reuniones cultuales se dejan oír gemidos y clamores de duelo *Jue 2,4* *Jl 1,13* *2,17*. Existen formularios de lamentación y de súplica, de los que nuestro salterio conserva más de un ejemplo *Sal 60* *74* *79* *83* *Lam 5*. Se recurre a ritos y a sacrificios [[expiación|expiatorios]] *Num 16,6-15*. Sobre todo, se hace una [[confesión|confesión]] colectiva del pecado *Jue 10,10* *1Sa 7,6* y eventualmente se recurre a la intercesión de un jefe o de un profeta, por ejemplo, Moisés *Ex 32,30ss*.
 
-# I. EN LOS ORÍGENES DE LAS LITURGIAS DE PENITENCIA
+### 3. Las prácticas de este género
 
-[Contenido de esta sección...]
+están atestiguadas en todas las épocas. El profeta Jeremías en persona se verá mezclado en una liturgia penitencial en calidad de intercesor *Jer 14,1-15,4*. Después del exilio alcanzarán un desarrollo considerable. El peligro está en que pueden limitarse a algo puramente exterior, sin que el hombre ponga en ello todo su corazón y traduzca luego su penitencia en actos. A este peligro de ritualismo superficial van a oponer los profetas su mensaje de conversión.
 
-## 1. Ya en la
+## II. El mensaje de conversión de los profetas
 
-[Contenido de esta sección...]
+Ya en la época de David la intervención de Natán cerca del rey adúltero anuncia la doctrina profética de la penitencia: David se ve movido a confesar su falta *2Sa 12,13*, luego hace penitencia conforme a las reglas y finalmente acepta el castigo divino *12,14-23*. Pero el mensaje de conversión de los profetas, sobre todo a partir del siglo viii, se dirigirá al pueblo entero. Israel ha violado la alianza, ha «abandonado a Yahveh y despreciado al Santo de Israel» *Is 1,4*; Yahveh tendría derecho a abandonarlo, a menos que se convierta. Así el llamamiento a la penitencia será un aspecto esencial de la predicación profética *Jer 25,3-6*.
 
-## 2. Además, mientras dura una plaga (o bien para impedir que sobrevenga), se implora el perdón divino con prácticas ascéticas y liturgias
+### 1. Amós,
 
-[Contenido de esta sección...]
+profeta de la justicia, no se contenta con denunciar los pecados de sus contemporáneos. Cuando dice que hay que «[[buscar|buscar]] a Dios» *Am 5,4.6*, la fórmula no es solamente cultual. Significa: buscar el bien y no el mal, [[odio|odiar]] el mal y amar el [[bien__mal|bien]] *5,14s*; esto implica una rectificación de la conducta y una práctica leal de la justicia: sólo tal reversión podrá inducir a Dios a «tener piedad del [[resto|resto]] de José» *5,15*.
 
-## 3. Las prácticas de este género están atestiguadas en todas
+Oseas exige igualmente un despego real de la iniquidad y especialmente de la [[ídolos|idolatría]]; promete que a cambio desviará Dios su ira *Os 14,2-9*. Estigmatizando las conversiones superficiales que no pueden producir fruto alguno, insiste en el carácter interior de la verdadera conversión, inspirada por el [[amor|amor]] (*hesed*) y el [[conocer|conocimiento]] de Dios *6,1-6*.
 
-[Contenido de esta sección...]
+### 2. Isaías
 
-# II. EL MENSAJE DE CONVERSIÓN DE LOS PROFETAS
+denuncia en los hombres de Judá pecados de todo género: violaciones de la justicia y desviaciones cultuales, recurso a la política humana, etc. Sólo una verdadera conversión podrá aportar la salvación, pues el culto no es nada *Is 1.11-15* *Am 5,21-25* cuando no hay una sumisión práctica a las voluntades divinas: «¡Lavaos! ¡Purificaos! ¡Quitad de mi vista vuestra maldad! ¡Cesad de hacer el mal, aprended a hacer el bien! ¡Buscad lo que es justo, socorred al oprimido, haced justicia al huérfano! *Is 1,16s*. Entonces vuestros pecados, de color escarlata, se blanquearán como nieve; purpúreos, se pondrán como lana» *1,18s*. Desgraciadamente sabe Isaías que su mensaje topará con el [[endurecimiento|endurecimiento]] de los corazones *6,10*: «Con la conversión y la calma hubierais podido salvaros..., pero no habéis querido» *30.15*. El drama de Israel se encaminará por tanto hacia un desenlace catastrófico. Pero Isaías conserva la certidumbre de que «un [[resto|resto]] volverá... al Dios fuerte» *10,21* *7.3*. El pueblo que sea finalmente beneficiario de la salvación estará formado sólo de convertidos.
 
-[Contenido de esta sección...]
+### 3. La insistencia en las disposiciones interiores
 
-## 1. Amós,
+que se deben ofrecer a Dios se convierte rápidamente en un tópico de la predicación profética: [[justicia|justicia]], [[piedad|piedad]] y [[humildad|humildad]], dice Miqueas *Miq 6,8*; humildad y sinceridad, resuena el eco de Sofonías *Sof 2,3* *3.12s*. Pero es sobre todo *Jeremías* quien desarrolla ampliamente el tema de la conversión. Si el profeta anuncia las calamidades que amenazan a Judá, es «para que cada uno vuelva de su mal camino y Yahveh pueda perdonar» *Jer 36,3*. Efectivamente, los llamamientos al «retorno» jalonan todo el libro; pero siguen precisando las condiciones de este retorno. Israel la rebelde debe «reconocer su falta» si quiere que Dios no tenga ya para ella un rostro severo *3,11s* *2,23*. Los hijos rebeldes no deben contentarse con llorar y suplicar confesando sus pecados *3,21-25*; deben cambiar de conducta y [[circuncisión|circuncidar]] su corazón *4,1-4*.
 
-[Contenido de esta sección...]
+Las consecuencias prácticas de un cambio de conducta no se le escapan al profeta *7,3-11*. Por ello llega a dudar que sea posible una conversión real. Los que él llama a tal conversión prefieren seguir el endurecimiento de su mal corazón *18,las* *2,23ss*. Lejos de deplorar su maldad se sumergen en ella *8,4-7*. Por eso el profeta no puede menos de anunciar el [[castigos|castigo]] a Jerusalén inconvertible *13,20-27*. Pero no por eso deja de estar cargada de esperanza su perspectiva de porvenir. Día vendrá en que el pueblo abatido acepte el castigo e implore como una gracia la conversión del corazón: «¡Hazme volver para que vuelva!» *31,18s*. Y Yahveh responderá a esta humilde petición, pues en la nueva [[alianza|alianza]] «inscribirá su ley en los corazones» *31,33*: «Yo les daré un corazón para que conozcan que yo soy Yahveh; ellos serán mi pueblo y yo seré su Dios, pues volverán a mí con todo su corazón» *24,7*.
 
-## 2. Isaías denuncia en los hombres de Judá pecados de todo género: violaciones de la
+### 4. Ezequiel,
 
-[Contenido de esta sección...]
+fiel a la misma tradición profética, centra su mensaje, en el momento en que se cumplían las amenazas de Dios, en la conversión necesaria: «Arrojad lejos de vosotros las transgresiones que habéis cometido y haceos un corazón [[nuevo|nuevo]] y un espíritu nuevo. ¿Por qué habríais de morir, casa de Israel? Yo no deseo la muerte de nadie. Convertíos y viviréis» *Ez 18,31s*. Cuando precisa el profeta las exigencias divinas, reserva sin duda a las prescripciones cultuales más lugar que sus predecesores *22,1-31*, pero también insiste más que ellos en el carácter estrictamente personal de la conversión: nadie puede responder más que por sí mismo, cada cual será retribuido según su propia conducta *3,16-21* *18* *33,10-20*. Sin duda Israel es «una casta de rebeldes» *2,4-8*, pero a estos hombres de corazón duro puede dar Dios como [[gracia|gracia]] lo que les exige tan imperiosamente: en el tiempo de la nueva alianza les dará un [[corazón|corazón]] nuevo y pondrá en ellos su [[espíritu|espíritu]], de modo que se aplicarán a su ley y lamentarán su mala conducta *36,26-31* *11,19s*.
 
-## 3. La insistencia en las disposiciones interiores
+### 5. De Amós a Ezequiel
 
-[Contenido de esta sección...]
+se fue, pues, profundizando en forma constante la doctrina de la conversión paralelamente a la inteligencia del pecado. Al fin del exilio el *mensaje de consolación* toma nota de la conversión efectiva de Israel, o por lo menos de su [[resto|resto]]. La salvación que anuncia es «para los que tienen ansias de justicia, que buscan a Yahveh» *Is 51,1*, que «tienen la ley en el corazón» *51,7*. A éstos les puede asegurar que «se acabó la servidumbre y está expiado el pecado» *40,2*. Dice Yahveh a Israel, su servidor: «He disipado tus pecados como una nube... Vuelve a mí, pues te he rescatado» *44,22*. En esta nueva perspectiva, que supone al pueblo de Dios consolidado en la [[fidelidad|fidelidad]], enfoca el profeta una ampliación increíble de las promesas de salvación. Después de Israel se convertirán a su vez las [[naciones|naciones]]: abandonando sus [[ídolos|ídolos]] se volverán todas hacia el Dios viviente *45,14s.23s* *Jer 16,19ss*.
 
-## 4. Ezequiel,
+La idea seguirá adelante. No sólo el judaísmo postexílico se abrirá a los prosélitos convertidos del paganismo *Is 56,3.6*. Los mismos cuadros escatológicos no dejarán ya de mencionar este universalismo religioso *Sal 22,28*. El libro de Jonás mostrará incluso la predicación profética dirigida expresa y directamente a los paganos «a fin de que se conviertan y vivan». En el término de tal desarrollo doctrinal se ve cómo se ha profundizado la noción de penitencia; estamos lejos del puro ritualismo que ocupaba todavía demasiado lugar en el antiguo Israel.
 
-[Contenido de esta sección...]
+## III. Liturgia de penitencia y conversión del corazón
 
-## 5. De Amós a Ezequiel se fue, pues, profundizando en forma
+### 1. La conversión nacional de Israel
 
-[Contenido de esta sección...]
+fue el doble fruto de la predicación profética y de la prueba del exilio. El exilio fue la ocasión providencial de una toma de conciencia del pecado y de una confesión sincera, como lo registran de común acuerdo los textos tardíos de la literatura deuteronómica *1Re 8,46-51* y de la liturgia sacerdotal *Lev 26,39s*. Ahora bien, después del exilio está tan grabada en los espíritus la penitencia que llega a colorear toda la espiritualidad judía. Las antiguas liturgias de penitencia sobreviven *Jl 1-2*, pero la doctrina profética ha renovado su contenido. Los libros de la época conservan formularios estereotipados en que se ve a la comunidad «confesar todos los pecados nacionales cometidos desde los orígenes e implorar a cambio el [[perdón|perdón]] de Dios y el advenimiento de su salvación» *Is 63,7-64,11* *Esd 9,5-15* *Neh 9* *Dan 9,4-19* *Bar 1,15-3,8*. Las lamentaciones colectivas del salterio están construidas conforme a este patrón *Sal 79* *106* y todavía es más frecuente el recuerdo de las impenitencias *Sal 95,8-11*. Se siente cómo Israel está en tensión en un esfuerzo continuamente renovado, de conversión profunda. Es la época en que las liturgias de [[expiación|expiación]] adquieren también gran extensión: tan grande es la obsesión del pecado.
 
-# III. LITURGIA DE PENITENCIA Y CONVERSIÓN DEL CORAZÓN
+### 2. No menor es el esfuerzo en el plano individual,
 
-[Contenido de esta sección...]
+pues se ha comprendido la lección de Ezequiel. Los salmos de los [[enfermedad__curación|enfermos]] y de los [[persecución|perseguidos]] se orientan más de una vez a la confesión del pecado *Sal 6,2* *32* *38* *103,3s* *143,1s* y el poeta de Job muestra un sentido muy profundo de la radical impureza del hombre *Job 9,30s* *14,4*. La expresión más perfecta de estos sentimientos es el *Miserere* *Sal 51*, en el que la doctrina de la conversión se traduce totalmente en oración: reconocimiento de las faltas (v. 5ss), demanda de purificación interior (v. 3s.9), recurso a la gracia, única que puede cambiar el corazón (v. 12ss), orientación hacia una vida ferviente (v. 15-19). La liturgia de penitencia tiene ahora por centro el sacrificio del «[[corazón|corazón]] contrito» (v. 18s). Se comprende que los sectarios de Qumrán, formados en la escuela de tal texto y herederos de toda la tradición que le precedía, tuvieran la idea de retirarse al desierto para convertirse sinceramente a la ley de Dios y «prepararle el camino». Si bien su empeño tiene cierta marca de legalismo, no está muy lejos del que vamos a descubrir en el NT.
 
-## 1. La conversión nacional de Israel fue el doble fruto de la predicación
+## NT
 
-[Contenido de esta sección...]
+## I. El último de los profetas
 
-## 2. No menor es el esfuerzo en el plano individual, pues se
+En el umbral del NT el mensaje de conversión de los profetas reaparece en toda su pureza en la predicación de [[juan_bautista|Juan]] Bautista, el último de ellos. Lucas resume así su misión: «reducirá numerosos hijos de Israel al Señor su Dios» *Lc 1,16s* *Mal 3,24*. Una frase condensa su mensaje: «Convertíos, pues el reino de los cielos está cerca» *Mt 3,2*. La venida del reino abre una perspectiva de esperanza; pero Juan subraya sobre todo el [[juicio|juicio]] que debe precederla. Nadie podrá sustraerse a la [[ira|ira]] que se manifestará el [[día_del_señor|día]] de Yahveh *Mt 3,7.10.12*. De nada servirá pertenecer a la raza de [[abraham|Abraham]] *Mt 3,9*. Todos los hombres deben reconocerse pecadores, producir un [[fruto|fruto]] que sea digno del arrepentimiento *Mt 3,8*, adoptar un comportamiento nuevo apropiado a su estado *Lc 3,10-14*. Como signo de esta conversión da Juan un [[bautismo|bautismo]] de agua, que debe preparar a los penitentes para el bautismo de fuego y del Espíritu Santo que dará el Mesías *Mt 3,11 p*.
 
-[Contenido de esta sección...]
+## II. Conversión y entrada en el reino de Dios
 
-# NT
+### 1. Jesús no se contenta con anunciar la proximidad
 
-[Contenido de esta sección...]
+del [[reino|reino]] de Dios. Comienza por realizarla con poder: con él se inaugura el reino, si bien está todavía orientado hacia misteriosas realizaciones. Pero el llamamiento a la conversión lanzado por el Bautista no pierde por esto nada de su actualidad: Jesús lo reasume en propios términos al comienzo de su ministerio *Mc 1,15* *Mt 4,17*. Si ha venido, ha sido para «llamar a los pecadores a la conversión» *Lc 5,32*; éste es un aspecto esencial del Evangelio del reino. Por lo demás, el hombre que toma conciencia de su estado de pecador, puede volverse a Jesús con confianza, pues «el [[hijo|Hijo]] del hombre tiene poder para perdonar los pecados» *Mt 9,6 p*. Pero el mensaje de conversión tropieza con la suficiencia humana bajo todas sus formas, desde el apego a las [[riquezas|riquezas]] *Mc 10,21-25* hasta la soberbia seguridad de los [[fariseos|fariseos]] *Lc 18,9*. Jesús se alza como el «signo de Jonás» en medio de una [[generación|generación]] mala, con disposiciones menos buenas para con Dios que en otro tiempo Nínive *Lc 11,29-32 p*. Así eleva contra ella una requisitoria llena de amenazas; los hombres de Nínive la condenarán el día del juicio *Lc 11,32*; Tiro y Sidón tendrán una suerte menos rigurosa que las ciudades del Lago *Lc 10,13ss p*. La impenitencia actual de Israel es, en efecto, señal del [[endurecimiento|endurecimiento]] de su corazón *Mt 13,15 p* *Is 6,10*. Si los oyentes impenitentes de Jesús no cambian de conducta, perecerán *Lc 13,1-5* a semejanza de la higuera [[esterilidad|estéril]] *Lc 13,6-9* *Mt 21,18-22 p*.
 
-# I. EL ÚLTIMO DE LOS PROFETAS
+### 2. Cuando Jesús reclama la conversión
 
-[Contenido de esta sección...]
+no hace alusión alguna a las liturgias penitenciales. Hasta desconfía de los signos demasiado vistosos *Mt 6,16ss*. Lo que cuenta es la conversión del corazón que hace que uno vuelva a ser como un [[niño|niño]] pequeño *Mt 18,3 p*. Luego, el esfuerzo continuo por «buscar el reino de Dios y su [[justicia|justicia]]» *Mt 6,33*, es decir, por regular la propia vida según la [[nuevo|nueva]] ley. El acto mismo de la conversión se evoca con palabras muy expresivas. Si bien implica una voluntad de transformación moral, es, sobre todo, llamamiento humilde, acto de confianza: «Dios mío, tened piedad de mí, que soy pecador» *Lc 18,13*. La conversión es una [[gracia|gracia]] preparada siempre por la iniciativa divina, por el [[pastor|pastor]] que sale en busca de la oveja perdida *Lc 15,4ss* *15,8*. La respuesta humana a esta gracia se analiza concretamente en la parábola del hijo pródigo, que pone en estupendo relieve la [[misericordia|misericordia]] del Padre *Lc 15,11-32*. En efecto, el Evangelio del reino implica esta revelación desconcertante: «Hay más alegría en el cielo por un pecador que se convierte que por noventa y nueve justos que no tienen necesidad de penitencian» *Lc 15,7.10*. Así también Jesús manifiesta a los pecadores una actitud acogedora que escandaliza a los fariseos *Mt 9,10-13 p* *Lc 15,2*, pero provoca conversiones; y el Evangelio de Lucas se complace en referir en detalle algunas de estas vueltas a Dios, como la de la pecadora *Lc 7,36-50* y la de Zaqueo *19,5-9*.
 
-# II. CONVERSIÓN Y ENTRADA EN EL REINO DE DIOS
+## III. Conversión y bautismo
 
-[Contenido de esta sección...]
+Mientras vivía Jesús había ya enviado a sus [[apóstoles|apóstoles]] a predicar la conversión anunciando el Evangelio del reino *Mc 6,12*. Después de su resurrección les renueva esta [[misión|misión]]: irán a proclamar en su nombre el arrepentimiento a todas las naciones con miras a la remisión de los pecados *Lc 24,47*, pues los pecados serán remitidos a los que ellos los remitan *Jn 20,23*.
 
-## 1. Jesús no se contenta con anunciar la proximidad
+Los Hechos y las Epístolas nos hacen asistir al cumplimiento de esta orden. Pero, con todo, la conversión adopta diferente cariz según se trate de judíos o de paganos.
 
-[Contenido de esta sección...]
+### 1. Lo que se exige a los judíos
 
-## 2. Cuando Jesús reclama la conversión no hace alusión
+es ante todo la conversión moral, a la que los había llamado ya Jesús. A este arrepentimiento (*metanoia*) responderá Dios otorgando el [[perdón|perdón]] de los pecadores *Act 2,38* *3,19* *5,31*; la misma quedará sellada con la recepción del [[bautismo|bautismo]] y el don del Espíritu Santo *Act 2,38*. Sin embargo, la conversión debe incluir, al mismo tiempo que una transformación moral, un acto positivo de [[fe|fe]] en Cristo: los judíos se volverán (*epistrephein*) hacia el Señor *Act 3.19* *9,35*. Ahora bien, como lo experimenta bien san Pablo, tal adhesión a Cristo es la cosa más difícil de obtener. Los judíos tienen un velo sobre el corazón. Si se convirtieran, caería el velo *2Cor 3,16*. Pero, conforme al texto de Isaías *Os 6,9s*, su [[endurecimiento|endurecimiento]] los clava en la [[incredulidad|incredulidad]] *Act 28,24-27*. Pecadores al igual que los paganos, amenazados como ellos por la [[ira|ira]] divina, no comprenden que Dios da prueba de [[paciencia|paciencia]] para inducirlos al arrepentimiento *Rom 2,4*. Sólo un [[resto|resto]] responde a la predicación apostólica *Rom 11,1-5*.
 
-[Contenido de esta sección...]
+### 2. El Evangelio halla mejor acogida
 
-# III. CONVERSIÓN Y BAUTISMO
+en las [[naciones|naciones]] paganas. Desde el bautismo del centurión Cornelio los cristianos de origen judío comprueban con sorpresa que «el arrepentimiento que conduce a la vida se ofrece a los paganos lo mismo que a ellos» *Act 11,18* *17,30*. En realidad se anuncia con éxito en Antioquía y en otras partes *Act 11.21* *15,3.19*; hasta es ése el objeto especial de la misión de Pablo *Act 26.18.20*. Pero en este caso, la conversión exige, al mismo tiempo que el arrepentimiento moral (*metanoia*), abandono de los [[ídolos|ídolos]] para volverse (*epistrephein*) hacia el Dios vivo *Act 14,15* *26,18* *1Tes 1,9*, según un tipo de conversión que contemplaba ya el segundo Isaías. Una vez dado este primer paso, los paganos como los judíos son inducidos a «volverse a Cristo, pastor y guardián de sus almas» *1Pe 2,25*.
 
-[Contenido de esta sección...]
+## IV. Pecado y penitencia en la Iglesia
 
-## 1. Lo que se exige a los judíos es ante todo la conversión
+### 1. El acto de conversión
 
-[Contenido de esta sección...]
+sellado con el bautismo se cumple de una vez para siempre; su gracia no se puede renovar *Heb 6,6*. Ahora bien, los bautizados pueden todavía recaer en el pecado: la comunidad apostólica no tardó en experimentarlo. En este caso el arrepentimiento es todavía necesario si, a pesar de todo, se quiere tener parte en la salvación. Pedro invita a ello a Simón mago *Act 8,22*, Santiago apremia a los cristianos fervientes para que hagan volver a los pecadores de su extravío *Sant 5,19s*. Pablo se regocija de que se hayan arrepentido los corintios *2Cor 7,9s*, al mismo tiempo que teme que no lo hayan hecho ciertos pecadores *12,21*. Urge a Timoteo para que corrija a los recalcitrantes, esperando que Dios les otorgue la gracia del arrepentimiento *2Tim 2,25*. En fin, en los mensajes a las siete Iglesias que abren el Apocalipsis se leen claras invitaciones al arrepentimiento, que suponen destinatarios decaídos del primitivo fervor *Ap 2,5.16.21s* *3* *3.19*. Sin hablar explícitamente del sacramento de penitencia muestran estos textos que la virtud de penitencia debe tener un lugar en la vida cristiana como prolongación de la conversión bautismal.
 
-## 2. El Evangelio halla mejor acogida en las
+### 2. En efecto,
 
-[Contenido de esta sección...]
-
-# IV. PECADO Y PENITENCIA EN LA IGLESIA
-
-[Contenido de esta sección...]
-
-## 1. El acto
-
-[Contenido de esta sección...]
-
-## 2. En efecto, sólo la penitencia prepara al hombre para afrontar el
-
-[Contenido de esta sección...]
+sólo la penitencia prepara al hombre para afrontar el [[juicio|juicio]] de Dios *Act 17,30s*. Ahora bien, la historia está en marcha hacia este juicio. Si su llegada parece tardar, es únicamente porque Dios «usa de [[paciencia|paciencia]], queriendo que no perezca nadie y que todos, si es posible, lleguen al arrepentimiento» *2Pe 3,9*. Pero así como Israel se endureció en la impenitencia en tiempo de Cristo y frente a la predicación apostólica, así también, según el Apocalipsis, los hombres se obstinarán en no comprender el significado de las [[calamidad|calamidades]] que atraviesa su historia y que anuncian el [[día_del_señor|día]] de la ira: también ellos se endurecerán en la impenitencia *Ap 9,20s*, blasfemando el nombre de Dios en lugar de arrepentirse y de darle gloria *16,9.11*. No se trata de los miembros de la Iglesia, sino únicamente de los paganos y de los renegados *21,8*. Sombría perspectiva, que el juicio de Dios vendrá a cerrar. Así también urge que los cristianos, por la penitencia, «se salven de esta [[generación|generación]] extraviada» *Act 2,40*.
