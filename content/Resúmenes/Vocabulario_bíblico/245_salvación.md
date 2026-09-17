@@ -22,14 +22,14 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mesías]] — Yahveh envía al rey-mesías
 - [[espíritu]] — don del Espíritu para salvar de impurezas
 - [[justicia]] — acto esencial de su justicia victoriosa
-- [[siervo_de_yahveh]] — Yahveh enviará a su siervo para realizar la salvación
-- [[dia_domini]] — día de Yahveh, día de la salvación
+- [[siervo_de_yahvé]] — Yahveh enviará a su siervo para realizar la salvación
+- [[día_del_señor]] — día de Yahveh, día de la salvación
 - [[gozo]] — gozo de la salvación en descripciones postexílicas
 - [[nombre]] — invocan el nombre del Señor para ser salvos
 - [[libro]] — inscritos en su libro para la salvación final
-- [[reino]] — ligada con el reino de Dios
+- [[reino_de_dios]] — ligada con el reino de Dios
 - [[paz]] — sinónimo de paz y felicidad
-- [[puro]] — purificación como aspecto de la salvación
+- [[pureza]] — purificación como aspecto de la salvación
 - [[confianza]] — inútil confianza presuntuosa en fuerzas humanas
 - [[fuerza]] — fuerzas humanas no salvan
 - [[humildad]] — Dios salva a los humildes
@@ -39,8 +39,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[enfermedad]] — Jesús salva curando enfermos
 - [[fe]] — la fe es la que salva; creer para salvarse
 - [[puerta]] — Jesús es la puerta: quien entre por ella será salvo
-- [[satan]] — Satán intenta perder a los hombres
-- [[penitencia_conversion]] — hacer penitencia a tiempo para no perderse
+- [[satanás]] — Satán intenta perder a los hombres
+- [[penitencia_y_conversión]] — hacer penitencia a tiempo para no perderse
 - [[poder]] — omnipotencia (poder) de Dios para salvar
 - [[cruz]] — Jesús no se salva a sí mismo en la cruz
 - [[hora]] — por esta hora vino Jesús
@@ -81,7 +81,7 @@ Cuando Israel en período crítico es librado por Dios —concurso providencial 
 
 ##### Las promesas escatológicas.
 
-En hora de gran prueba nacional, Israel mira con confianza a Dios *Miq 7,7*. Título de salvador = *leitmotiv* de escatología profética *Sof 3,17* *Is 33,32* *43,3* *45,15.21* *60,16* *Bar 4,22*. Oráculos «últimos tiempos» describen salvación final. Jeremías: Yahveh salvará restituyendo a su [[tierra]] *Jer 31,7* y enviando [[rey]]-[[mesías]] *Jer 23,6*. Ezequiel: salvará ovejas conduciéndolas a buenos pastos *Ez 34,22*; salvará de impurezas por don de su [[espíritu|Espíritu]] *Ez 36,29*. Mensaje de consolación: Dios que viene a salvar a su pueblo *Is 35,4* y a la tierra entera *Is 45,22*. Salvación = acto esencial de su [[justicia]] victoriosa *Is 63,1*; enviará a su [[siervo_de_yahveh|siervo]] *Is 49,6.8*. Pareja «justicia y salvación» = designación técnica de obra escatológica *Is 46,13* *52,7-10* *56,1* *59,17* *61,10* *62,1*. Descripciones postexílicas del [[dia_domini|día]] de Yahveh cantan [[gozo]] de esta salvación *Is 12,2* *25,9* a quienes invocan [[nombre]] *Jl 3,5* e inscritos en [[libro]] *Dan 12,1*. Sabiduría alejandrina: salvación de justos el último día *Sab 5,2*. Idea se enriquece con gama de armónicos. Ligada con [[reino]] de Dios = sinónimo de [[paz]] y felicidad *Is 52,7*, de [[puro|purificación]] *Ez 36,29* y [[liberación]] *Jer 31,7*. Artífice humano, [[rey]] escatológico, merece título de salvador *Zac 9,9* (LXX), salvará a pobres oprimidos *Sal 72,4.13*. Todos estos aspectos preparan directamente el NT.
+En hora de gran prueba nacional, Israel mira con confianza a Dios *Miq 7,7*. Título de salvador = *leitmotiv* de escatología profética *Sof 3,17* *Is 33,32* *43,3* *45,15.21* *60,16* *Bar 4,22*. Oráculos «últimos tiempos» describen salvación final. Jeremías: Yahveh salvará restituyendo a su [[tierra]] *Jer 31,7* y enviando [[rey]]-[[mesías]] *Jer 23,6*. Ezequiel: salvará ovejas conduciéndolas a buenos pastos *Ez 34,22*; salvará de impurezas por don de su [[espíritu|Espíritu]] *Ez 36,29*. Mensaje de consolación: Dios que viene a salvar a su pueblo *Is 35,4* y a la tierra entera *Is 45,22*. Salvación = acto esencial de su [[justicia]] victoriosa *Is 63,1*; enviará a su [[siervo_de_yahvé|siervo]] *Is 49,6.8*. Pareja «justicia y salvación» = designación técnica de obra escatológica *Is 46,13* *52,7-10* *56,1* *59,17* *61,10* *62,1*. Descripciones postexílicas del [[día_del_señor|día]] de Yahveh cantan [[gozo]] de esta salvación *Is 12,2* *25,9* a quienes invocan [[nombre]] *Jl 3,5* e inscritos en [[libro]] *Dan 12,1*. Sabiduría alejandrina: salvación de justos el último día *Sab 5,2*. Idea se enriquece con gama de armónicos. Ligada con [[reino_de_dios]] de Dios = sinónimo de [[paz]] y felicidad *Is 52,7*, de [[pureza|purificación]] *Ez 36,29* y [[liberación]] *Jer 31,7*. Artífice humano, [[rey]] escatológico, merece título de salvador *Zac 9,9* (LXX), salvará a pobres oprimidos *Sal 72,4.13*. Todos estos aspectos preparan directamente el NT.
 
 #### II. La salvación de Dios en la oración de Israel.
 
@@ -107,7 +107,7 @@ Jesucristo aporta salvación más importante: pecadora se salva porque perdona p
 
 ###### b. El gran asunto: salvación de los hombres.
 
-Pecado pone en peligro de perdición. [[Satan|Satán]] intenta perderlos *Lc 8,12*. Son ovejas perdidas *Lc 15,4.7*; Jesús enviado por ellas *Mt 15,24*: no se volverán a perder si entran en su rebaño *Jn 10,28* *6,39* *17,12* *18,9*. Contrapartida: para quien no aprovecha, riesgo inminente e irreparable de perdición. [[Penitencia_conversion|Penitencia]] a tiempo *Lc 13,3.5*. Entrar por puerta estrecha *Lc 13,23s*. Perseverar hasta el fin *Mt 24,13*. Obligación de desasimiento: «¿Quién podrá salvarse?» *Mt 19,25s p*. Para hombres imposible, precisa acto de omnipotencia ([[poder]]) de Dios. Salvación = paradoja: quien quiera salvarse se perderá, quien consienta en perderse se salvará para vida eterna *Mt 10,39* *Lc 9,24* *Jn 12,25*. Ley a la que Jesús se somete: él, que salvó a otros, no se salva a sí mismo en la [[cruz]] *Mc 15,30s*. Padre podría salvarle *Heb 5,7*; pero por esta [[hora]] vino *Jn 12,27*. Quien busque salvación en fe en Él, deberá [[seguir]]le hasta este punto.
+Pecado pone en peligro de perdición. [[satanás|Satán]] intenta perderlos *Lc 8,12*. Son ovejas perdidas *Lc 15,4.7*; Jesús enviado por ellas *Mt 15,24*: no se volverán a perder si entran en su rebaño *Jn 10,28* *6,39* *17,12* *18,9*. Contrapartida: para quien no aprovecha, riesgo inminente e irreparable de perdición. [[penitencia_y_conversión|Penitencia]] a tiempo *Lc 13,3.5*. Entrar por puerta estrecha *Lc 13,23s*. Perseverar hasta el fin *Mt 24,13*. Obligación de desasimiento: «¿Quién podrá salvarse?» *Mt 19,25s p*. Para hombres imposible, precisa acto de omnipotencia ([[poder]]) de Dios. Salvación = paradoja: quien quiera salvarse se perderá, quien consienta en perderse se salvará para vida eterna *Mt 10,39* *Lc 9,24* *Jn 12,25*. Ley a la que Jesús se somete: él, que salvó a otros, no se salva a sí mismo en la [[cruz]] *Mc 15,30s*. Padre podría salvarle *Heb 5,7*; pero por esta [[hora]] vino *Jn 12,27*. Quien busque salvación en fe en Él, deberá [[seguir]]le hasta este punto.
 
 ##### El Evangelio de la salvación.
 
@@ -129,8 +129,8 @@ Escritos apostólicos usan vocabulario variado para obra [[redencion|redentora]]
 
 ##### Sentido de la vida cristiana.
 
-Evangelio propuesto por palabra apostólica → elección que determina suerte: salvación o pérdida *2Tes 2,10* *2Cor 2,15*, [[vida]] o [[muerte]]. Creen y [[confesion|confiesan]] fe → se salvan *Rom 10,9s.13*, sellada fe por [[bautismo]] = verdadera experiencia de salvación *1Pe 3,21*. Dios salva por pura [[misericordia]], sin considerar obras *2Tim 1,9* *Tit 3,5*, por [[gracia]] *Ef 2,5.8*, dando Espíritu Santo *2Tes 2,13* *Ef 1,13* *Tit 3,5s*. A partir de entonces: guardar con fidelidad [[palabra_de_dios|palabra]] que puede salvar [[alma]] *Sant 1,21*; alimentar fe con conocimiento Escrituras *2Tim 3,15* y fructificar en buenas [[obras]] *Sant 2,14*; trabajar con [[temor]] y temblor para «realizar su salvación» *Flp 2,12*. Supone ejercicio constante virtudes saludables *1Tes 5,8*, gracias a las cuales [[crecimiento|crecerá]] con vistas a salvación *1Pe 2,2*. No negligencia permitida; salvación ofrecida cada instante *Heb 2,3*; «ahora es el [[dia_domini|día]] de la salvación» *2Cor 6,2*.
+Evangelio propuesto por palabra apostólica → elección que determina suerte: salvación o pérdida *2Tes 2,10* *2Cor 2,15*, [[vida]] o [[muerte]]. Creen y [[confesion|confiesan]] fe → se salvan *Rom 10,9s.13*, sellada fe por [[bautismo]] = verdadera experiencia de salvación *1Pe 3,21*. Dios salva por pura [[misericordia]], sin considerar obras *2Tim 1,9* *Tit 3,5*, por [[gracia]] *Ef 2,5.8*, dando Espíritu Santo *2Tes 2,13* *Ef 1,13* *Tit 3,5s*. A partir de entonces: guardar con fidelidad [[palabra_de_dios|palabra]] que puede salvar [[alma]] *Sant 1,21*; alimentar fe con conocimiento Escrituras *2Tim 3,15* y fructificar en buenas [[obras]] *Sant 2,14*; trabajar con [[temor]] y temblor para «realizar su salvación» *Flp 2,12*. Supone ejercicio constante virtudes saludables *1Tes 5,8*, gracias a las cuales [[crecimiento|crecerá]] con vistas a salvación *1Pe 2,2*. No negligencia permitida; salvación ofrecida cada instante *Heb 2,3*; «ahora es el [[día_del_señor|día]] de la salvación» *2Cor 6,2*.
 
 ##### La espera de la salvación final.
 
-Si herederos de salvación *Heb 1,14* y plenamente [[justificacion|justificados]] *Rom 5,1*, todavía no salvados más que en [[esperanza]] *Rom 8,24*. Dios nos tiene reservados para salvación *1Tes 5,9*, pero [[herencia]] que sólo se revelará al final del [[tiempo]] *1Pe 1,5*. Esfuerzo vida cristiana se impone porque cada día aproxima final *Rom 13,11*. Salvación (sentido fuerte) = perspectiva escatológica del [[dia_domini|día]] del Señor *1Cor 3,1ss* *5,5*. [[Reconciliación|Reconciliados]] por muerte de Hijo y [[justificacion|justificados]] por [[sangre]], seremos salvados por Él de la [[ira]] *Rom 5,9ss*. Cristo aparecerá para darnos salvación *Heb 9,28*. Aguardamos manifestación final que acabará su obra transformando nuestro [[cuerpo]] *Flp 3,20s*; en esto salvación = objeto de esperanza *Rom 8,23ss*. Entonces salvados de [[enfermedad]], [[sufrimiento]], [[muerte]]; todos males que pedían ser librados (salmistas) y que Jesús triunfaba por [[milagro]], abolidos definitivamente. Cumplimiento = [[victoria]] por excelencia de Dios y Cristo. Aclamaciones litúrgicas Apocalipsis: «La salvación es de nuestro Dios y del cordero» *Ap 7,10* *12,10* *19,1*.
+Si herederos de salvación *Heb 1,14* y plenamente [[justificacion|justificados]] *Rom 5,1*, todavía no salvados más que en [[esperanza]] *Rom 8,24*. Dios nos tiene reservados para salvación *1Tes 5,9*, pero [[herencia]] que sólo se revelará al final del [[tiempo]] *1Pe 1,5*. Esfuerzo vida cristiana se impone porque cada día aproxima final *Rom 13,11*. Salvación (sentido fuerte) = perspectiva escatológica del [[día_del_señor|día]] del Señor *1Cor 3,1ss* *5,5*. [[Reconciliación|Reconciliados]] por muerte de Hijo y [[justificacion|justificados]] por [[sangre]], seremos salvados por Él de la [[ira]] *Rom 5,9ss*. Cristo aparecerá para darnos salvación *Heb 9,28*. Aguardamos manifestación final que acabará su obra transformando nuestro [[cuerpo]] *Flp 3,20s*; en esto salvación = objeto de esperanza *Rom 8,23ss*. Entonces salvados de [[enfermedad]], [[sufrimiento]], [[muerte]]; todos males que pedían ser librados (salmistas) y que Jesús triunfaba por [[milagro]], abolidos definitivamente. Cumplimiento = [[victoria]] por excelencia de Dios y Cristo. Aclamaciones litúrgicas Apocalipsis: «La salvación es de nuestro Dios y del cordero» *Ap 7,10* *12,10* *19,1*.

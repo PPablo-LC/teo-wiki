@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[justicia]] — la lámpara del justo
 - [[vida]] — la lámpara de la vida
 - [[cristo_jesus]] — Cristo, luz del mundo
-- [[reino]] — el reino de los cielos
+- [[reino_de_dios]] — el reino de los cielos
 - [[discipulo]] — los discípulos, lámparas encendidas
 - [[judio]] — el humo y las tinieblas que se disipan
 - [[predicar]] — el anuncio de la luz
@@ -57,7 +57,7 @@ El descendiente de la casa de David es llamado "lámpara": Dios promete mantener
 
 La lámpara encendida aparece en el evangelio como imagen del discípulo: "Nadie enciende una lámpara para cubrirla con un celemín, sino para ponerla en el candelero y que alumbren a todos los que están en la casa" *Mt 5,15*. Jesús es la lámpara que ilumina a todo hombre, y sus discípulos deben reflejar esta luz: "brille así vuestra luz delante de los hombres" *Mt 5,16*.
 
-La parábola de las vírgenes prudentes y necias *Mt 25,1-13* muestra la lámpara del [[reino|reino]] de los cielos: las vírgenes prudentes llevan aceite en sus lámparas y esperan al esposo; las necias las dejan apagarse. La lámpara figura la fe vigilante y la esperanza que deben mantenerse encendidas hasta la venida del esposo. Sin aceite, la lámpara se apaga y queda el humo; así la [[judio|incredulidad]] deja a los hombres en las tinieblas.
+La parábola de las vírgenes prudentes y necias *Mt 25,1-13* muestra la lámpara del [[reino_de_dios|reino]] de los cielos: las vírgenes prudentes llevan aceite en sus lámparas y esperan al esposo; las necias las dejan apagarse. La lámpara figura la fe vigilante y la esperanza que deben mantenerse encendidas hasta la venida del esposo. Sin aceite, la lámpara se apaga y queda el humo; así la [[judio|incredulidad]] deja a los hombres en las tinieblas.
 
 ## La lámpara en la vida cristiana
 

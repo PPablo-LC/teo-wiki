@@ -14,12 +14,12 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "teo
 
 - [[sufrimiento]] — enigma fundamental que la humanidad siempre ha tenido ante sí
 - [[Providencia_Divina]] — Dios no puede callar ante el sufrimiento humano
-- [[san_juan_pablo_ii]] — Papa que experimentó en su propia carne muchos sufrimientos: orfandad, persecución, hambre, pérdida de seres queridos, intento de asesinato
+- [[juan_pablo_ii]] — Papa que experimentó en su propia carne muchos sufrimientos: orfandad, persecución, hambre, pérdida de seres queridos, intento de asesinato
 - [[Salvifici_doloris]] — Carta Apostólica del Papa sobre el sentido cristiano del sufrimiento
 - [[cruz]] — camino del hombre, signo orientador que conduce a la esperanza
 - [[resurrección]] — esperanza cierta que el sufrimiento introduce
 - [[consolación]] — obra de misericordia de consolar al que sufre
-- [[María_Santísima]] — constituida en «Consuelo de los afligidos» junto con su Hijo
+- [[maría]] — constituida en «Consuelo de los afligidos» junto con su Hijo
 
 ## Contenido
 
@@ -39,11 +39,11 @@ La obra reúne las enseñanzas del Papa sobre el sufrimiento, compiladas por el 
 
 ### El papel de María
 
-El Papa recuerda a [[María_Santísima]], que junto a su Hijo aceptó el sufrimiento redentor y quedó constituida en «Consuelo de los afligidos».
+El Papa recuerda a [[maría]], que junto a su Hijo aceptó el sufrimiento redentor y quedó constituida en «Consuelo de los afligidos».
 
 ### Propósito del libro
 
-Si estas páginas llevan paz, fortaleza y esperanza a los que padecen, habrán realizado una de las mejores obras de misericordia: [[consolación]] al que sufre, y testimonio de que el Papa y la [[Iglesia_católica|Iglesia]] no son indiferentes ante uno de los más graves y misteriosos problemas humanos.
+Si estas páginas llevan paz, fortaleza y esperanza a los que padecen, habrán realizado una de las mejores obras de misericordia: [[consolación]] al que sufre, y testimonio de que el Papa y la [[iglesia|Iglesia]] no son indiferentes ante uno de los más graves y misteriosos problemas humanos.
 
 ## Secciones incluidas
 

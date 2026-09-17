@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization and culture - 17", "educación", "vía_de_la_b
 - [[educación]] — homeschool y formación integral
 - [[educación_en_la_fe]] — la fe como fundamento de la educación
 - [[liturgia_de_las_horas]] — los dos pilares del día
-- [[santa_misa]] — la Misa diaria
+- [[misa]] — la Misa diaria
 - [[vía_de_la_belleza]] — atraer a los hijos a lo celestial mediante la belleza
 - [[fe_y_razón]] — el catolicismo como religión inteligente
 - [[ciencia_y_fe]] — no hay conflicto entre fe y ciencia

@@ -13,7 +13,7 @@ tags: ["resumen", "magnífica humanitas", "inteligencia_artificial", "trabajo", 
 ## Conceptos básicos referenciados en esta sección
 
 - [[bien_común]] — horizonte de la verdad y de la dignidad del trabajo
-- [[dignidad_de_la_persona_humana]] — criterio de toda transformación
+- [[dignidad_de_la_persona]] — criterio de toda transformación
 - [[desarrollo_integral]] — meta de las políticas de trabajo
 - [[doctrina_social_de_la_iglesia]] — marco de discernimiento
 

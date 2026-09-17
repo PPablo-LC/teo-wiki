@@ -14,7 +14,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 
 - [[fortaleza]] — virtud que permite vencer el miedo, incluso el miedo a la muerte, y ofrecer la vida por una causa justa
 - [[martirio]] — máxima expresión de la fortaleza: dar la vida por Cristo y por el prójimo
-- [[maría_santísima]] — la Inmaculada Virgen que ofrece a Kolbe las coronas blanca y roja
+- [[maría]] — la Inmaculada Virgen que ofrece a Kolbe las coronas blanca y roja
 - [[consagración_a_maría]] — la devoción total a María como fuente del coraje misionero de Kolbe
 - [[eucaristía]] — centro de la vida sacerdotal de Kolbe; ofreció su primera Misa con la intención «Pro Amore Usque ad Victimam»
 - [[caridad]] — amor que lleva a offering la vida por un desconocido, como hizo Cristo
@@ -32,7 +32,7 @@ Kolbe encarna el mandato de Cristo: «Nadie tiene mayor amor que el que pone su 
 
 ### Inicios y vocación
 
-El peregrinaje de fe de Kolbe comenzó en el [[bautismo]] y se nutrió en el seno de una profunda vida familiar católica. Julius y Maria Kolbe enseñaron a sus tres hijos a ser verdaderos hijos amados de Dios y leales hijos de Polonia. Cuando Raymond (nombre bautismal de Maximilian) era adolescente, su madre lo regañó y exclamó: «¿Qué será de ti?» El muchacho llevó la reprensión al corazón y fue a orar ante el altar de [[maría_santísima]] en la parroquia. La Inmaculada apareció sosteniendo dos coronas —una blanca (pureza) y una roja (martirio)— y le preguntó si las aceptaba. El piadoso muchacho dijo: «¡Sí!» Esta visión mística, revelada solo a su madre, prefiguró su destino final en Auschwitz.
+El peregrinaje de fe de Kolbe comenzó en el [[bautismo]] y se nutrió en el seno de una profunda vida familiar católica. Julius y Maria Kolbe enseñaron a sus tres hijos a ser verdaderos hijos amados de Dios y leales hijos de Polonia. Cuando Raymond (nombre bautismal de Maximilian) era adolescente, su madre lo regañó y exclamó: «¿Qué será de ti?» El muchacho llevó la reprensión al corazón y fue a orar ante el altar de [[maría]] en la parroquia. La Inmaculada apareció sosteniendo dos coronas —una blanca (pureza) y una roja (martirio)— y le preguntó si las aceptaba. El piadoso muchacho dijo: «¡Sí!» Esta visión mística, revelada solo a su madre, prefiguró su destino final en Auschwitz.
 
 ### La Militia Immaculatae
 
@@ -54,6 +54,6 @@ En el campo, Fr. Kolbe ministerizó a sus compañeros prisioneros de cualquier m
 
 ### Muerte y canonización
 
-Después de dos semanas, el búnker fue necesario para más víctimas. Aún consciente, Fr. Kolbe fue inyectado con ácido carbólico el 14 de agosto de 1941. Su cuerpo, irradiando un aura de santidad, fue enviado al crematorio del campo. Su alma ascendió al cielo donde recibió las dos coronas prometidas por [[maría_santísima]]. Fue canonizado el 10 de octubre de 1982 por [[san_juan_pablo_ii]] como «mártir de caridad» — una nueva clasificación de santidad — y luego identificado por el mismo pontífice como «patrón santo de este siglo difícil» y «profeta de la civilización del amor». Wick concluye exhortando a imitar a [[san_maximiliano_kolbe]] y encomendar nuestra vida, muerte y eternidad a la mediación materna de la Santísima Virgen, confiando en que nos empoderará con las gracias necesarias para cumplir nuestra vocación y alcanzar otras almas con el mensaje salvífico del Evangelio.
+Después de dos semanas, el búnker fue necesario para más víctimas. Aún consciente, Fr. Kolbe fue inyectado con ácido carbólico el 14 de agosto de 1941. Su cuerpo, irradiando un aura de santidad, fue enviado al crematorio del campo. Su alma ascendió al cielo donde recibió las dos coronas prometidas por [[maría]]. Fue canonizado el 10 de octubre de 1982 por [[juan_pablo_ii]] como «mártir de caridad» — una nueva clasificación de santidad — y luego identificado por el mismo pontífice como «patrón santo de este siglo difícil» y «profeta de la civilización del amor». Wick concluye exhortando a imitar a [[san_maximiliano_kolbe]] y encomendar nuestra vida, muerte y eternidad a la mediación materna de la Santísima Virgen, confiando en que nos empoderará con las gracias necesarias para cumplir nuestra vocación y alcanzar otras almas con el mensaje salvífico del Evangelio.
 
 > *Michael D. Wick es Director de Misión de la Diócesis de Madison y Vicepresidente de la Militia of the Immaculata—USA.*

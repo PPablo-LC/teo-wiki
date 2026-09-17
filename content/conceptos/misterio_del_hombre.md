@@ -43,13 +43,13 @@ El autor presenta el misterio del hombre como:
 
 ## Relaciones doctrinales
 
-- [[dignidad_de_la_persona_humana]] — El misterio del hombre fundamenta su dignidad
+- [[dignidad_de_la_persona]] — El misterio del hombre fundamenta su dignidad
 - [[creación_a_imagen_de_dios]] — El hombre como imagen de Dios
 - [[libertad_cristiana]] — La libertad como dimensión del misterio del hombre
 
 ## Ver también
 
-- [[dignidad_de_la_persona_humana]]
+- [[dignidad_de_la_persona]]
 - [[creación_a_imagen_de_dios]]
 - [[libertad_cristiana]]
 

@@ -13,7 +13,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ## Conceptos básicos referenciados
 
 - [[educacion_para_la_paz]] — misión de la mujer como testigo, mensajera y maestra de paz
-- [[dignidad_de_la_persona_humana]] — fundamento de la convivencia humana ordenada
+- [[dignidad_de_la_persona]] — fundamento de la convivencia humana ordenada
 - [[paz]] — objetivo que requiere el reconocimiento de la dignidad de cada persona
 - [[Pacem_in_terriss]] — Encíclica de [[san_juan_XXIII]] sobre los fundamentos de la paz
 
@@ -25,7 +25,7 @@ En la meditación del Ángelus del 1 de enero de 1995, Solemnidad de Santa Marí
 
 El Papa destaca la contribución significativa que las mujeres pueden prestar para el establecimiento de una paz que influya en todos los aspectos de la vida humana. Invita a las mujeres a ser educadoras para la paz «con todo ser y en todas sus actuaciones: que sean testigos, mensajeras, maestras de paz de las relaciones entre las personas y las generaciones, en la familia, en la vida cultural, social y política de las naciones, de modo particular en las situaciones de conflicto y de guerra».
 
-Reitera su llamada angustiada por la [[paz]], señalando que la violencia, las guerras y la injusticia no pueden tolerarse por más tiempo. Es hora de pasar de las palabras a los hechos, y todos —ciudadanos, familias, creyentes, Iglesias, Estados y organismos internacionales— están llamados a colaborar. Para que la paz sea eficaz y duradera, no puede limitarse a los aspectos exteriores de la convivencia, sino que debe incidir sobre todo en los ánimos, fomentando una nueva conciencia de la [[dignidad_de_la_persona_humana]].
+Reitera su llamada angustiada por la [[paz]], señalando que la violencia, las guerras y la injusticia no pueden tolerarse por más tiempo. Es hora de pasar de las palabras a los hechos, y todos —ciudadanos, familias, creyentes, Iglesias, Estados y organismos internacionales— están llamados a colaborar. Para que la paz sea eficaz y duradera, no puede limitarse a los aspectos exteriores de la convivencia, sino que debe incidir sobre todo en los ánimos, fomentando una nueva conciencia de la [[dignidad_de_la_persona]].
 
 ## Mapa del archivo fuente
 

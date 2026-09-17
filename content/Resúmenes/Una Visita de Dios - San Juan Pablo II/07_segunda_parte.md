@@ -13,7 +13,7 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "LOU
 ## Conceptos básicos referenciados
 
 - [[LOURDES]] — santuario mariano donde la Virgen se apareció a Bernardette en 1858; meta de peregrinación de enfermos del mundo entero
-- [[María_Santísima]] — Consuelo de los afligidos; «Salud de los enfermos»; auxilio de los cristianos
+- [[maría]] — Consuelo de los afligidos; «Salud de los enfermos»; auxilio de los cristianos
 - [[inmaculada_concepción]] — dogma proclamado por Pío IX en 1854; María fue concebida en estado de pureza total
 - [[bernardette_soubirous]] — vidente de Lourdes; modelo de disponibilidad, humildad y valentía
 - [[gracia_santificante]] — donde está María abunda la gracia; la curación espiritual precede a la física
@@ -31,19 +31,19 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "LOU
 
 ### Motivo de la Segunda Parte
 
-La segunda parte se titula «Nuestra Señora de Lourdes, consuelo de los que sufren». Se explica que el diálogo del Papa con el lector quedaría incompleto sin una referencia a la [[María_Santísima|Virgen Santísima]], Nuestra Señora de Lourdes, a la que los enfermos y sus allegados manifiestan tanto amor y devoción. El Papa, por su sensibilidad para el dolor, ha hablado de Ella en repetidas ocasiones como «Salud de los enfermos».
+La segunda parte se titula «Nuestra Señora de Lourdes, consuelo de los que sufren». Se explica que el diálogo del Papa con el lector quedaría incompleto sin una referencia a la [[maría|Virgen Santísima]], Nuestra Señora de Lourdes, a la que los enfermos y sus allegados manifiestan tanto amor y devoción. El Papa, por su sensibilidad para el dolor, ha hablado de Ella en repetidas ocasiones como «Salud de los enfermos».
 
 ---
 
 ### El atractivo de Lourdes
 
-Lourdes es el lugar santo al que van los enfermos del mundo entero. ¿Por qué? Porque allí «está la Madre de Jesús»: y donde está Ella, no puede faltar su Hijo. Las multitudes van a Lourdes en busca de alivio, consuelo y esperanza. La curación milagrosa es excepcional; la acción salvadora de Cristo se revela sobre todo en el ámbito espiritual: en el corazón de los enfermos María hace oír la voz de su Hijo, que desata los entumecimientos de la acritud y la rebeldía. Los enfermos descubren en Lourdes el valor inestimable del propio sufrimiento, su significado en la vida de la [[Iglesia_católica|Iglesia]].
+Lourdes es el lugar santo al que van los enfermos del mundo entero. ¿Por qué? Porque allí «está la Madre de Jesús»: y donde está Ella, no puede faltar su Hijo. Las multitudes van a Lourdes en busca de alivio, consuelo y esperanza. La curación milagrosa es excepcional; la acción salvadora de Cristo se revela sobre todo en el ámbito espiritual: en el corazón de los enfermos María hace oír la voz de su Hijo, que desata los entumecimientos de la acritud y la rebeldía. Los enfermos descubren en Lourdes el valor inestimable del propio sufrimiento, su significado en la vida de la [[iglesia|Iglesia]].
 
 Se cita la aparición de María a Bernardette en la gruta de Massabielle, para confiarle un mensaje de misericordia y de gracia, llamando a la conversión de los pecadores.
 
 ### Lo que enseña Lourdes
 
-Lourdes, donde la [[María_Santísima|Virgen]] se apareció en 1858 recomendando penitencia y oración, nos habla de dos cosas: del misterio de la [[inmaculada_concepción|Inmaculada Concepción]] y del amor misericordioso dirigido a aliviar los sufrimientos humanos. María, concebida en un estado de pureza total, «llena de gracia», es un vehículo excelente y único de la [[redención]] de Cristo: el canal más privilegiado de su gracia. Donde esté presente María, allí abunda la gracia y se registra la curación del hombre: curación en el cuerpo y en el espíritu.
+Lourdes, donde la [[maría|Virgen]] se apareció en 1858 recomendando penitencia y oración, nos habla de dos cosas: del misterio de la [[inmaculada_concepción|Inmaculada Concepción]] y del amor misericordioso dirigido a aliviar los sufrimientos humanos. María, concebida en un estado de pureza total, «llena de gracia», es un vehículo excelente y único de la [[redención]] de Cristo: el canal más privilegiado de su gracia. Donde esté presente María, allí abunda la gracia y se registra la curación del hombre: curación en el cuerpo y en el espíritu.
 
 A Lourdes no se va sólo a recibir gracias, sino a dar o a prepararse para dar. Se mira el ejemplo de [[bernardette_soubirous|Bernardette]]: su disponibilidad, docilidad, humildad y valentía.
 
@@ -63,15 +63,15 @@ María nos introduce con sabiduría materna en el misterio de la cruz; sufre con
 
 ### ¿Por qué la Virgen hace a veces milagros?
 
-La [[María_Santísima|Virgen]] obtiene gracias extraordinarias de curación física para ayudarnos a creer o reforzar nuestra fe en la potencia de Jesús de perdonar los pecados y conducirnos a la vida eterna. Lo que el Corazón de la Señora desea es que cada uno asuma su responsabilidad individual y colectiva, aceptando y ofreciendo la propia porción de sufrimiento con adhesión humilde a la voluntad de Dios.
+La [[maría|Virgen]] obtiene gracias extraordinarias de curación física para ayudarnos a creer o reforzar nuestra fe en la potencia de Jesús de perdonar los pecados y conducirnos a la vida eterna. Lo que el Corazón de la Señora desea es que cada uno asuma su responsabilidad individual y colectiva, aceptando y ofreciendo la propia porción de sufrimiento con adhesión humilde a la voluntad de Dios.
 
 Toda la historia de Lourdes es una ilustración de las palabras del [[Magnificat]]: «Ha desplegado la potencia de su brazo… ha exaltado a los humildes… ha colmado de bienes a los difamados». Lourdes es una profecía de justicia y de paz. [[bernardette_soubirous|Bernardette»], joven sencilla y humilde, ha recorrido el mundo con su testimonio.
 
-Se concluye con una invitación: «Tenid fija la mirada en Cristo»; siguiendo su ejemplo, el miedo se cambia en serenidad, la angustia en esperanza, la tristeza en alegría, y el sufrimiento es purificación y mérito para las almas, además de contribución preciosa para el bien espiritual de la [[Iglesia_católica|Iglesia]] (Col 1,24).
+Se concluye con una invitación: «Tenid fija la mirada en Cristo»; siguiendo su ejemplo, el miedo se cambia en serenidad, la angustia en esperanza, la tristeza en alegría, y el sufrimiento es purificación y mérito para las almas, además de contribución preciosa para el bien espiritual de la [[iglesia|Iglesia]] (Col 1,24).
 
 ### Epílogo: La Virgen de Czestochowa y Juan Pablo II
 
-Se narra la devoción del Papa a la Virgen de [[Czestochowa]], Reina de Polonia, cuya imagen tiene dos heridas en la cara producidas en 1430. Karol Wojtyla fue en muchas ocasiones y repetía en su corazón: «Totus tuus» — soy todo tuyo. El 17 de mayo de 1981, desde la sala de reanimación tras el atentado, Juan Pablo II dijo: «Rezo por el hermano que me ha herido, al cual he perdonado sinceramente… ofrezco mis sufrimientos por la [[Iglesia_católica|Iglesia]] y por el mundo; a ti María, repito: Totus tuus ego sum».
+Se narra la devoción del Papa a la Virgen de [[Czestochowa]], Reina de Polonia, cuya imagen tiene dos heridas en la cara producidas en 1430. Karol Wojtyla fue en muchas ocasiones y repetía en su corazón: «Totus tuus» — soy todo tuyo. El 17 de mayo de 1981, desde la sala de reanimación tras el atentado, Juan Pablo II dijo: «Rezo por el hermano que me ha herido, al cual he perdonado sinceramente… ofrezco mis sufrimientos por la [[iglesia|Iglesia]] y por el mundo; a ti María, repito: Totus tuus ego sum».
 
 ## Secciones incluidas
 

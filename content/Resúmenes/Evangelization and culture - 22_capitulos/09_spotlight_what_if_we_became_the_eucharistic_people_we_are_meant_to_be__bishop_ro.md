@@ -19,7 +19,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 - [[castidad]] — segundo consejo evangélico: vivir la sexualidad bajo el signo del amor donado
 - [[obediencia]] — tercer consejo evangélico: escuchar la voz de Dios por encima de las voces del mundo
 - [[virtud_cardinal]] — las virtudes de prudencia, justicia, fortaleza y templanza que sostienen la vida moral
-- [[iglesia_católica]] — el pueblo eucarístico enviado al mundo secular como lumen gentium
+- [[iglesia]] — el pueblo eucarístico enviado al mundo secular como lumen gentium
 - [[vaticano_ii]] — Concilio que convocó a los laicos a ser cuerpo dado y sangre vertida en el mundo
 - [[conciencia_moral]] — la capacidad de discernir la voz de Dios entre las voces de la cultura
 
@@ -49,7 +49,7 @@ La [[pobreza_evangelica]] es el desapego. Jesús dijo: «Busquen primero el rein
 
 ### El consejo evangélico de castidad
 
-La [[castidad]] no es sinónimo de celibato; es «rectitud sexual — vivir la vida sexual de manera moral y espiritualmente correcta». Todos los bautizados están llamados a ella. La enseñanza de la Iglesia no tiene nada que ver con el puritanismo; la Iglesia celebra la sexualidad, pero quiere traer toda la vida —incluida la sexualidad— bajo el signo del amor. Barron cita a [[santo_tomas_de_aquino]]: el amor es querer el bien del otro. Todo lo que no cae bajo el signo del amor —aborto, abuso sexual, objetivización, cultura del liguetoneo, pornografía— es una sexualidad vuelta sobre sí misma y divorciada del amor. Citando a [[san_pablo_vi]] en *Humanae Vitae* sobre los efectos de la anticoncepción y a [[san_juan_pablo_ii]] sobre no tratar a otro ser humano como mero medio. Si setenta millones de católicos vivieran la castidad, todo eso se vería socavado.
+La [[castidad]] no es sinónimo de celibato; es «rectitud sexual — vivir la vida sexual de manera moral y espiritualmente correcta». Todos los bautizados están llamados a ella. La enseñanza de la Iglesia no tiene nada que ver con el puritanismo; la Iglesia celebra la sexualidad, pero quiere traer toda la vida —incluida la sexualidad— bajo el signo del amor. Barron cita a [[santo_tomas_de_aquino]]: el amor es querer el bien del otro. Todo lo que no cae bajo el signo del amor —aborto, abuso sexual, objetivización, cultura del liguetoneo, pornografía— es una sexualidad vuelta sobre sí misma y divorciada del amor. Citando a [[san_pablo_vi]] en *Humanae Vitae* sobre los efectos de la anticoncepción y a [[juan_pablo_ii]] sobre no tratar a otro ser humano como mero medio. Si setenta millones de católicos vivieran la castidad, todo eso se vería socavado.
 
 ### El consejo evangélico de obediencia
 

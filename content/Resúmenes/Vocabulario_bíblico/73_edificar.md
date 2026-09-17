@@ -33,7 +33,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[santo]] — los santos, campo de la edificación de Dios
 - [[carisma]] — el carisma apostólico y su discernimiento
 - [[fuego]] — el fuego que probará los materiales
-- [[dia_domini]] — el último día
+- [[día_del_señor]] — el último día
 - [[cielo]] — la Jerusalén que desciende del cielo
 - [[gracia]] — el misterio de la gracia
 
@@ -73,7 +73,7 @@ Son en primer lugar los que fueron puestos por Cristo como «cimientos»: los [[
 
 ### El cuerpo que se construye.
 
-Bajo la acción de la cabeza, Cristo, el cuerpo entero «se construye a sí mismo» *Ef 4,15s* en todas sus partes. No sólo el ministerio de edificar la Iglesia se extiende a los «profetas, evangelistas, pastores y doctores» *Ef 4,11*, encargados de determinadas responsabilidades, sino que todos los [[santo|santos]], que son «el campo de la edificación de Dios» *1Cor 3,9*, tienen que tomar parte activa en esta edificación. Es una obra común y mutua, en la que cada uno edifica al otro dándole su pleno valor en el edificio y recibiendo del otro ayuda y fuerza *Rom 14,19* *15,2* *1Tes 5,11* *Jds 20*; es un deber capital y un criterio esencial en el discernimiento de los [[carisma|carismas]]: los más preciosos son los que edifican la asamblea *1Cor 14,12*. Edificar a sus hermanos es edificar la Iglesia, a condición, desde luego, de permanecer «arraigados y edificados» en Cristo y en su tradición auténtica *Col 2,6s*: el [[fuego]] probará el último [[dia_domini|día]] la calidad de los materiales empleados *1Cor 3,10-15*.
+Bajo la acción de la cabeza, Cristo, el cuerpo entero «se construye a sí mismo» *Ef 4,15s* en todas sus partes. No sólo el ministerio de edificar la Iglesia se extiende a los «profetas, evangelistas, pastores y doctores» *Ef 4,11*, encargados de determinadas responsabilidades, sino que todos los [[santo|santos]], que son «el campo de la edificación de Dios» *1Cor 3,9*, tienen que tomar parte activa en esta edificación. Es una obra común y mutua, en la que cada uno edifica al otro dándole su pleno valor en el edificio y recibiendo del otro ayuda y fuerza *Rom 14,19* *15,2* *1Tes 5,11* *Jds 20*; es un deber capital y un criterio esencial en el discernimiento de los [[carisma|carismas]]: los más preciosos son los que edifican la asamblea *1Cor 14,12*. Edificar a sus hermanos es edificar la Iglesia, a condición, desde luego, de permanecer «arraigados y edificados» en Cristo y en su tradición auténtica *Col 2,6s*: el [[fuego]] probará el último [[día_del_señor|día]] la calidad de los materiales empleados *1Cor 3,10-15*.
 
 ### 4. El nuevo edificio.
 

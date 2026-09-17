@@ -31,7 +31,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[cruz]] — la muerte en la cruz
 - [[reconciliacion]] — Jesús reconcilia a las dos fracciones de la humanidad
 - [[judio]] — el pueblo judío
-- [[reino]] — el acceso al reino
+- [[reino_de_dios]] — el acceso al reino
 - [[fe]] — la fe en Cristo
 - [[voluntad_de_dios]] — el cumplimiento de la voluntad del Padre
 - [[discipulo]] — los discípulos como hermanos
@@ -66,7 +66,7 @@ El sueño profético de fraternidad universal se convierte en realidad en Cristo
 
 #### El primogénito de una multitud de hermanos.
 
-Con su muerte en la [[cruz|cruz]] vino a ser Jesús el «primogénito de una multitud de hermanos» *Rom 8,29*: [[reconciliacion|reconcilió]] con Dios y entre ellas a las dos fracciones de la humanidad: el pueblo [[judio|judío]] y las [[naciones|naciones]] *Ef 2,11-18*. Juntas tienen ahora acceso al [[reino|reino]], y el hermano mayor, el pueblo judío, no debe tener celos del pródigo, regresado por fin a la casa del Padre *Lc 15,25-32*. Pero para entrar en esta nueva fraternidad no basta ya ser hijo de Abraham según la carne: por la [[fe|fe]] y por el cumplimiento de la [[voluntad_de_dios|voluntad]] del Padre viene uno a ser hermano de Jesús *Mt 12,46-50 p* *21,28-32*. Fraternidad real y profunda que permite al resucitado designar a sus [[discipulo|discípulos]] como sus hermanos *Mt 28,10* *Jn 20,17*; pero él mismo es quien la ha recreado, al hacerse por su muerte semejante en todo a ellos *Heb 2,17*.
+Con su muerte en la [[cruz|cruz]] vino a ser Jesús el «primogénito de una multitud de hermanos» *Rom 8,29*: [[reconciliacion|reconcilió]] con Dios y entre ellas a las dos fracciones de la humanidad: el pueblo [[judio|judío]] y las [[naciones|naciones]] *Ef 2,11-18*. Juntas tienen ahora acceso al [[reino_de_dios|reino]], y el hermano mayor, el pueblo judío, no debe tener celos del pródigo, regresado por fin a la casa del Padre *Lc 15,25-32*. Pero para entrar en esta nueva fraternidad no basta ya ser hijo de Abraham según la carne: por la [[fe|fe]] y por el cumplimiento de la [[voluntad_de_dios|voluntad]] del Padre viene uno a ser hermano de Jesús *Mt 12,46-50 p* *21,28-32*. Fraternidad real y profunda que permite al resucitado designar a sus [[discipulo|discípulos]] como sus hermanos *Mt 28,10* *Jn 20,17*; pero él mismo es quien la ha recreado, al hacerse por su muerte semejante en todo a ellos *Heb 2,17*.
 
 #### La comunidad de los hermanos en Cristo.
 

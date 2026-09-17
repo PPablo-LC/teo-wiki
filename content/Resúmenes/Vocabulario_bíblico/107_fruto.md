@@ -17,7 +17,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fecundidad]] — el fruto del vientre en sentido propio
 - [[mieses]] — Dios recoge los frutos que deben manifestar su gloria
 - [[sembrar]] — la semilla de vida puesta en todo ser
-- [[vigna]] — Dios exige frutos a su viña
+- [[viña]] — Dios exige frutos a su viña
 - [[obras]] — reconocer la obra de Dios a través de la propia obra
 - [[arbol]] — el árbol de vida y el árbol de la ciencia del bien y del mal
 - [[sabiduria]] — cuyas flores dan frutos maravillosos
@@ -39,7 +39,7 @@ La palabra fruto, ya signifique en sentido propio la [[fecundidad|fecundidad]] (
 
 ### I. EL DEBER DE FRUCTIFICAR
 
-El acto creador, que puso en todo ser una [[sembrar|semilla]] de vida, es una [[bendicion|bendición]] triunfante. La tierra debe producir árboles frutales que den fruto según su especie *Gen 1,11s*: los animales y el hombre reciben la orden: «¡Fructificad y multiplicaos!» *Gen 1,22.28*. La vida, sembrada en la tierra, es fecundidad sobreabundante. Ahora bien, una de las señales de la vida es que el que planta recoja los frutos *Is 37,30* *1Cor 9,7* *2Tim 2,6*. Así Dios exige frutos a su [[vigna|viña]]: toda inercia es condenable *Jds 12*, los sarmientos improductivos se arrojan al fuego y arden *Jn 15,6* *Mt 3,10*; la viña será confiada a otros viñadores *Mt 21,41ss*. La higuera estéril no tiene ya derecho a ocupar la tierra *Lc 13,6-9*. Finalmente, según una vieja institución oriental concerniente a los negocios comerciales, el propietario tiene derecho a castigar al que no ha observado el contrato: «Haced que fructifiquen (mis talentos) hasta que yo venga» *Lc 19,13*.
+El acto creador, que puso en todo ser una [[sembrar|semilla]] de vida, es una [[bendicion|bendición]] triunfante. La tierra debe producir árboles frutales que den fruto según su especie *Gen 1,11s*: los animales y el hombre reciben la orden: «¡Fructificad y multiplicaos!» *Gen 1,22.28*. La vida, sembrada en la tierra, es fecundidad sobreabundante. Ahora bien, una de las señales de la vida es que el que planta recoja los frutos *Is 37,30* *1Cor 9,7* *2Tim 2,6*. Así Dios exige frutos a su [[viña|viña]]: toda inercia es condenable *Jds 12*, los sarmientos improductivos se arrojan al fuego y arden *Jn 15,6* *Mt 3,10*; la viña será confiada a otros viñadores *Mt 21,41ss*. La higuera estéril no tiene ya derecho a ocupar la tierra *Lc 13,6-9*. Finalmente, según una vieja institución oriental concerniente a los negocios comerciales, el propietario tiene derecho a castigar al que no ha observado el contrato: «Haced que fructifiquen (mis talentos) hasta que yo venga» *Lc 19,13*.
 
 ### II. COOPERACIÓN DEL HOMBRE CON DIOS
 

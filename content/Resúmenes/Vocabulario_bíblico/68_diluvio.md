@@ -20,7 +20,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[eleccion]] — la elección gratuita del resto
 - [[resto]] — el pequeño resto que será el tronco de un pueblo nuevo
 - [[misericordia]] — la misericordia que se opone al castigo vindicativo
-- [[penitencia_conversion]] — la vía abierta a la conversión
+- [[penitencia_y_conversión]] — la vía abierta a la conversión
 - [[agua]] — el juicio por las aguas
 - [[alianza]] — la alianza que asegura la fidelidad de Dios
 - [[exodo]] — el tipo de los juicios salvíficos
@@ -38,7 +38,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 El recuerdo de una inundación catastrófica, que se remonta a un pasado muy lejano, fue conservado y agrandado por leyendas sumero-babilónicas de fechas diversas. A la luz de la fe monoteísta, la tradición bíblica hizo una selección de los materiales de esta herencia popular y los cargó de enseñanza moral y religiosa. Lo que se atribuía al capricho de los dioses celosos, aparece ya como obra justa del Dios único; la idea de desastre cede el puesto a la de depuración con miras a una [[salvacion|salvación]], representada por el [[arca]] liberadora; más allá de las fuerzas irresponsables resalta un [[juicio]] divino que hiere al pecador y hace del justo la simiente de una humanidad nueva. La aventura de Noé cesa así de ser un episodio accidental; resume y simboliza toda la historia de Israel y la historia misma de la humanidad.
 
-Sólo a Noé se llama justo *Gen 7,1*, pero, como [[adan|Adán]], representa a todos los suyos y los salva juntos con él *Gen 7,1.7.13*. Con esta [[eleccion|elección]] gratuita se reserva Dios un pequeño [[resto]], los que salen indemnes, que serán el tronco de un pueblo nuevo. Si el corazón del hombre que ha sido salvado es todavía proclive al pecado, Dios, no obstante, se declara desde ahora paciente: su [[misericordia]] se opone al castigo puramente vindicativo y abre la vía a la [[penitencia_conversion|conversión]] *Gen 8,15-22*. El juicio por las [[agua|aguas]] aboca así a una [[alianza]] que asegura la fidelidad de Dios a la humanidad entera al mismo tiempo que a la familia de Noé *Gen 9,1-17*.
+Sólo a Noé se llama justo *Gen 7,1*, pero, como [[adan|Adán]], representa a todos los suyos y los salva juntos con él *Gen 7,1.7.13*. Con esta [[eleccion|elección]] gratuita se reserva Dios un pequeño [[resto]], los que salen indemnes, que serán el tronco de un pueblo nuevo. Si el corazón del hombre que ha sido salvado es todavía proclive al pecado, Dios, no obstante, se declara desde ahora paciente: su [[misericordia]] se opone al castigo puramente vindicativo y abre la vía a la [[penitencia_y_conversión|conversión]] *Gen 8,15-22*. El juicio por las [[agua|aguas]] aboca así a una [[alianza]] que asegura la fidelidad de Dios a la humanidad entera al mismo tiempo que a la familia de Noé *Gen 9,1-17*.
 
 ### Figura del futuro.
 

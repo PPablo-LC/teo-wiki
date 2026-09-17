@@ -29,7 +29,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[herencia]] — su herencia
 - [[hijo]] — su hijo
 - [[esposo]] — su esposa
-- [[reino]] — reino de sacerdotes
+- [[reino_de_dios]] — reino de sacerdotes
 - [[sacerdocio]] — sacerdotes
 - [[testimonio]] — testigo del Dios único
 - [[mediador]] — el pueblo mediador
@@ -37,7 +37,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[padres_y_padre|padres]] — los patriarcas, padres de la raza
 - [[Abraham]] — de Abraham por Isaac a Jacob-Israel
 - [[hebreo]] — los patriarcas hebreos
-- [[puro]] — la pureza de la sangre judía
+- [[pureza]] — la pureza de la sangre judía
 - [[extranjero]] — los extranjeros que se convierten
 - [[venganza]] — la venganza de la sangre
 - [[ley]] — la ley, fundamento de las instituciones
@@ -83,7 +83,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[cumplir]] — la realidad que cumple o verifica
 - [[expiación]] — el pueblo cuyos pecados expió Jesús
 - [[reposo]] — el reposo divino
-- [[babel_babilonia|Babilonia]] — la ciudad del mal
+- [[babel|Babilonia]] — la ciudad del mal
 - [[mundo]] — el pueblo que no pertenece a este mundo
 - [[evangelio]] — el anuncio del Evangelio
 - [[profeta]] — el profeta semejante a Moisés
@@ -91,7 +91,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[redención]] — la redención
 - [[gloria]] — la gloria
 - [[hijo]] — los hijos de Dios dispersos
-- [[bestia_bestias|bestia]] — la bestia diabólica
+- [[bestia|bestia]] — la bestia diabólica
 
 ## Contenido
 
@@ -109,7 +109,7 @@ Israel, como todos los demás pueblos, pertenece a la historia humana; pero desd
 
 #### Títulos y funciones del pueblo de Dios
 
-Israel es el pueblo [[santo]], consagrado a Yahveh, puesto aparte para él *Dt 7,6* *14,2*, su bien propio *Ex 19,5* *Jer 2,3*, su [[herencia]] *Dt 9,26*. Es su rebaño *Sal 80,2* *94,7*, su viña *Is 5,1* *Sal 80,9*, su [[hijo]] *Ex 4,22* *Os 11,1*, su [[esposo|esposa]] *Os 2,4* *Jer 2,2* *Ez 16,8*. Es un «[[reino]] de [[sacerdocio|sacerdotes]]» *Ex 19,6*, en el que Dios reina sobre súbditos consagrados a su servicio. Esta finalidad cultual de la alianza muestra al mismo tiempo la función que desempeña Israel para con las otras [[naciones]]: [[testimonio|testigo]] del Dios único cerca de ellas *Is 44,8*, es el pueblo [[mediador]], por el que se reanudará el vínculo entre Dios y el conjunto de la humanidad, de modo que se eleve a Dios la alabanza de la tierra entera *Is 45,14s.23s* y todas las naciones tengan participación en la [[bendición]] de Dios *Gen 12,3* *Jer 4,2* *Eclo 44,21*.
+Israel es el pueblo [[santo]], consagrado a Yahveh, puesto aparte para él *Dt 7,6* *14,2*, su bien propio *Ex 19,5* *Jer 2,3*, su [[herencia]] *Dt 9,26*. Es su rebaño *Sal 80,2* *94,7*, su viña *Is 5,1* *Sal 80,9*, su [[hijo]] *Ex 4,22* *Os 11,1*, su [[esposo|esposa]] *Os 2,4* *Jer 2,2* *Ez 16,8*. Es un «[[reino_de_dios]] de [[sacerdocio|sacerdotes]]» *Ex 19,6*, en el que Dios reina sobre súbditos consagrados a su servicio. Esta finalidad cultual de la alianza muestra al mismo tiempo la función que desempeña Israel para con las otras [[naciones]]: [[testimonio|testigo]] del Dios único cerca de ellas *Is 44,8*, es el pueblo [[mediador]], por el que se reanudará el vínculo entre Dios y el conjunto de la humanidad, de modo que se eleve a Dios la alabanza de la tierra entera *Is 45,14s.23s* y todas las naciones tengan participación en la [[bendición]] de Dios *Gen 12,3* *Jer 4,2* *Eclo 44,21*.
 
 ### II. Significación religiosa de una experiencia nacional
 
@@ -117,7 +117,7 @@ Así pues, Israel, en virtud de la alianza, realiza una paradoja en medio de la 
 
 #### Una comunidad de raza
 
-El pueblo de Israel se representa su unidad interna como derivada de su unidad de origen. Los patriarcas [[hebreo|hebreos]] son los [[padres_y_padre|padres]] de la raza, y los recuerdos de la historia anterior al éxodo cristalizan en el marco de una genealogía que va de [[abraham|Abraham]], por Isaac, a Jacob-Israel, padre de doce hijos, epónimos de las doce tribus. Es cierto que en el transcurso de las edades la raza asimiló no pocos elementos heterogéneos, desde la salida de Egipto *Ex 12,38*, en el desierto *Num 11,4* *Jue 4,11*, después de la conquista de Canaán *Jos 9* *Jue 3,1ss*. Pero en época tardía se ve más bien acentuarse la preocupación por la [[puro|pureza]] de la sangre judía: se prohíben los matrimonios extranjeros para defender la «raza santa» *Esd 9,2* contra los pueblos paganos que llevan la idolatría en la sangre. Hasta se idealiza el pasado enlazando con la genealogía patriarcal a ciertos extranjeros asimilados ya mucho tiempo atrás, como los clanes calebitas *1Par 2,18* *Num 32,12 y Gen 15,19*. Es que por sus padres pasó la elección de Israel: ¿no vemos, en cada etapa de su genealogía, a los pueblos vecinos descartados en sus padres del designio de salvación *Gen 19,30* *21,8* *25,1ss* *36*? Para participar en las promesas y en la alianza divina hay, pues, que ser de la raza de Abraham, el amigo de Dios *Is 41,8* *51,2* *63,16* *Jer 33,26* *Sal 105,6* *2Par 20,7*. Cierto universalismo subsiste en el horizonte del pensamiento, puesto que Abraham debe llegar a ser «padre de numerosos pueblos» *Gen 17,5s*. Pero prácticamente los [[extranjero|extranjeros]] que se convierten al judaísmo, los prosélitos *Is 56,8*, se agregan de hecho a la raza elegida para participar de sus privilegios religiosos. La fe común no basta aún para construir el pueblo de Dios; tiene por base concreta una rama étnica escogida por Dios en medio de las otras.
+El pueblo de Israel se representa su unidad interna como derivada de su unidad de origen. Los patriarcas [[hebreo|hebreos]] son los [[padres_y_padre|padres]] de la raza, y los recuerdos de la historia anterior al éxodo cristalizan en el marco de una genealogía que va de [[abraham|Abraham]], por Isaac, a Jacob-Israel, padre de doce hijos, epónimos de las doce tribus. Es cierto que en el transcurso de las edades la raza asimiló no pocos elementos heterogéneos, desde la salida de Egipto *Ex 12,38*, en el desierto *Num 11,4* *Jue 4,11*, después de la conquista de Canaán *Jos 9* *Jue 3,1ss*. Pero en época tardía se ve más bien acentuarse la preocupación por la [[pureza|pureza]] de la sangre judía: se prohíben los matrimonios extranjeros para defender la «raza santa» *Esd 9,2* contra los pueblos paganos que llevan la idolatría en la sangre. Hasta se idealiza el pasado enlazando con la genealogía patriarcal a ciertos extranjeros asimilados ya mucho tiempo atrás, como los clanes calebitas *1Par 2,18* *Num 32,12 y Gen 15,19*. Es que por sus padres pasó la elección de Israel: ¿no vemos, en cada etapa de su genealogía, a los pueblos vecinos descartados en sus padres del designio de salvación *Gen 19,30* *21,8* *25,1ss* *36*? Para participar en las promesas y en la alianza divina hay, pues, que ser de la raza de Abraham, el amigo de Dios *Is 41,8* *51,2* *63,16* *Jer 33,26* *Sal 105,6* *2Par 20,7*. Cierto universalismo subsiste en el horizonte del pensamiento, puesto que Abraham debe llegar a ser «padre de numerosos pueblos» *Gen 17,5s*. Pero prácticamente los [[extranjero|extranjeros]] que se convierten al judaísmo, los prosélitos *Is 56,8*, se agregan de hecho a la raza elegida para participar de sus privilegios religiosos. La fe común no basta aún para construir el pueblo de Dios; tiene por base concreta una rama étnica escogida por Dios en medio de las otras.
 
 #### Una comunidad de instituciones
 
@@ -199,9 +199,9 @@ En el griego del NT se halla todavía mejor que en los LXX la especialización d
 
 ### I. El nuevo pueblo
 
-Por la nueva [[alianza]], sellada con la sangre de Jesús, ha creado, pues, Dios un nuevo pueblo, acerca del cual se realiza plenamente el dicho de la Escritura: «Vosotros seréis mi pueblo y yo seré vuestro Dios» *2Cor 6,16* *Lev 26,12* *Heb 8,10* *Jer 31,33* *Ap 21,3*. Es el pueblo cuyos pecados [[expiacion|expió]] Jesús *Heb 2,17*, el pueblo al que santificó por medio de su [[sangre]] *13,12*. De este modo los títulos de Israel se trasladan ahora a este pueblo: pueblo particular de Dios *Tit 2,14* *Dt 7,6*; raza elegida, nación santa, pueblo adquirido *1Pe 2,9* *Ex 19,5* *Is 43,20s*; rebaño *Act 20,28* *1Pe 5,2* *Jn 10,16* y [[esposo|esposa]] del Señor *Ef 5,25* *Ap 19,7* *21,2*. Y puesto que el pueblo de la antigua alianza había experimentado las vías de Dios en los acontecimientos de su historia, la experiencia de la salvación otorgada al pueblo nuevo se puede verter en categorías de pensamiento que recuerden estos acontecimientos figurativos: este pueblo debe entrar en el [[reposo]] divino prefigurado por la [[tierra]] prometida *Heb 4,9*; debe salir de [[babel_babilonia|Babilonia]], ciudad del mal *Ap 18,4*, para reunirse en [[jerusalen|Jerusalén]], residencia de Dios *Ap 21,3*.
+Por la nueva [[alianza]], sellada con la sangre de Jesús, ha creado, pues, Dios un nuevo pueblo, acerca del cual se realiza plenamente el dicho de la Escritura: «Vosotros seréis mi pueblo y yo seré vuestro Dios» *2Cor 6,16* *Lev 26,12* *Heb 8,10* *Jer 31,33* *Ap 21,3*. Es el pueblo cuyos pecados [[expiacion|expió]] Jesús *Heb 2,17*, el pueblo al que santificó por medio de su [[sangre]] *13,12*. De este modo los títulos de Israel se trasladan ahora a este pueblo: pueblo particular de Dios *Tit 2,14* *Dt 7,6*; raza elegida, nación santa, pueblo adquirido *1Pe 2,9* *Ex 19,5* *Is 43,20s*; rebaño *Act 20,28* *1Pe 5,2* *Jn 10,16* y [[esposo|esposa]] del Señor *Ef 5,25* *Ap 19,7* *21,2*. Y puesto que el pueblo de la antigua alianza había experimentado las vías de Dios en los acontecimientos de su historia, la experiencia de la salvación otorgada al pueblo nuevo se puede verter en categorías de pensamiento que recuerden estos acontecimientos figurativos: este pueblo debe entrar en el [[reposo]] divino prefigurado por la [[tierra]] prometida *Heb 4,9*; debe salir de [[babel|Babilonia]], ciudad del mal *Ap 18,4*, para reunirse en [[jerusalen|Jerusalén]], residencia de Dios *Ap 21,3*.
 
-Pero esta vez se rebasa el nivel de la vida temporal en que se mueven las [[naciones]]. La trascendencia del pueblo de Dios es total: siendo un «[[reino]] sacerdotal» *1Pe 2,9*, no pertenece a este [[mundo]] *Jn 18,36*; su patria está en los cielos *Heb 11,13ss*, donde sus miembros tienen derecho de ciudadanía *Flp 3,20*, pues son los hijos de la [[jerusalen|Jerusalén]] de lo alto *Gal 4,26*, la misma que al final de los tiempos descenderá del cielo a la tierra *Ap 21,1ss*. Sin embargo, este pueblo mora todavía acá en la tierra. Así pues, por él lo espiritual y lo escatológico se articulan en lo temporal y en lo histórico. Después de la paradoja de Israel viene la paradoja de la Iglesia: en su condición terrenal es un pueblo visible llamado a desarrollarse en el tiempo.
+Pero esta vez se rebasa el nivel de la vida temporal en que se mueven las [[naciones]]. La trascendencia del pueblo de Dios es total: siendo un «[[reino_de_dios]] sacerdotal» *1Pe 2,9*, no pertenece a este [[mundo]] *Jn 18,36*; su patria está en los cielos *Heb 11,13ss*, donde sus miembros tienen derecho de ciudadanía *Flp 3,20*, pues son los hijos de la [[jerusalen|Jerusalén]] de lo alto *Gal 4,26*, la misma que al final de los tiempos descenderá del cielo a la tierra *Ap 21,1ss*. Sin embargo, este pueblo mora todavía acá en la tierra. Así pues, por él lo espiritual y lo escatológico se articulan en lo temporal y en lo histórico. Después de la paradoja de Israel viene la paradoja de la Iglesia: en su condición terrenal es un pueblo visible llamado a desarrollarse en el tiempo.
 
 ### II. Israel y las naciones en el nuevo pueblo
 
@@ -213,4 +213,4 @@ Así pues, mediante esta conjunción de Israel y de las naciones se realiza la r
 
 ### III. El nuevo pueblo en marcha hacia su consumación
 
-De este modo resulta ser la Iglesia un «pueblo» enraizado en la historia. Como los hijos de Israel, sus miembros tienen comunidad de origen, comunidad de instituciones y de destino, comunidad de patria hacia la cual se encaminan *Heb 11,16*, comunidad de lenguaje asegurada por la palabra de Dios, comunidad cultual, que es la finalidad suprema de la *ekklesia* *1Pe 2,9* *Ap 5,10*. El destino terreno de este pueblo aparte presenta todavía sorprendentes paralelismos con el de Israel: las mismas infidelidades de sus miembros pecadores *Heb 3,7ss*; las mismas persecuciones que vienen de los poderes terrenales que encarnan la [[bestia_bestias|bestia]] diabólica *Ap 13,1-7* *Dan 7*; la misma necesidad de abandonar [[babel_babilonia|Babilonia]] para librarse de la ruina que la amenaza *Ap 18,4ss* *Is 48,20*. La historia sagrada y las Escrituras del AT quedan así cargadas de sentido para el pueblo nuevo en tanto está en marcha hacia la consumación celestial.
+De este modo resulta ser la Iglesia un «pueblo» enraizado en la historia. Como los hijos de Israel, sus miembros tienen comunidad de origen, comunidad de instituciones y de destino, comunidad de patria hacia la cual se encaminan *Heb 11,16*, comunidad de lenguaje asegurada por la palabra de Dios, comunidad cultual, que es la finalidad suprema de la *ekklesia* *1Pe 2,9* *Ap 5,10*. El destino terreno de este pueblo aparte presenta todavía sorprendentes paralelismos con el de Israel: las mismas infidelidades de sus miembros pecadores *Heb 3,7ss*; las mismas persecuciones que vienen de los poderes terrenales que encarnan la [[bestia|bestia]] diabólica *Ap 13,1-7* *Dan 7*; la misma necesidad de abandonar [[babel|Babilonia]] para librarse de la ruina que la amenaza *Ap 18,4ss* *Is 48,20*. La historia sagrada y las Escrituras del AT quedan así cargadas de sentido para el pueblo nuevo en tanto está en marcha hacia la consumación celestial.

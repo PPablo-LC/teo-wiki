@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[tristeza]] — la tristeza como circunstancia de la consolación
-- [[enfermedad_curacion]] — la enfermedad como circunstancia
+- [[enfermedad_y_curación]] — la enfermedad como circunstancia
 - [[persecucion]] — la persecución como circunstancia
 - [[exilio]] — la experiencia del abandono de Jerusalén
 - [[esperanza]] — la esperanza del pueblo consolado
@@ -26,13 +26,13 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[padres_y_padre]] — el afecto de un padre
 - [[esposo]] — el ardor de un prometido, de un esposo
 - [[madre]] — la ternura de una madre
-- [[enfermedad_curacion]] — la salud escatológica
+- [[enfermedad_y_curación]] — la salud escatológica
 - [[mesias]] — el Mesías, «consolación de Israel»
 - [[fidelidad]] — los fieles en la peregrinación terrena
-- [[prueba_tentacion]] — los fieles animados en sus pruebas
+- [[prueba_y_tentación]] — los fieles animados en sus pruebas
 - [[pobres]] — el mensaje de consolación a los afligidos y pobres
 - [[evangelio]] — el evangelio de la felicidad en el reino
-- [[reino]] — el reino de su Padre
+- [[reino_de_dios]] — el reino de su Padre
 - [[pecado]] — los abrumados por sus pecados
 - [[reposo]] — el reposo ofrecido a los que penan
 - [[paraclito]] — el Paráclito, Espíritu de consolación

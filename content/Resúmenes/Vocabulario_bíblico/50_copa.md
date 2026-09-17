@@ -21,14 +21,14 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[vino]] — el vino que regocija el corazón
 - [[embriaguez]] — la embriaguez vergonzosa
 - [[castigos]] — el castigo reservado a los impíos
-- [[penitencia_conversion]] — la conversión que esquiva la ira
+- [[penitencia_y_conversión]] — la conversión que esquiva la ira
 - [[expiacion]] — los sacrificios de expiación
 - [[sangre]] — la sangre de las víctimas y la de Cristo
 - [[figura]] — los ritos que figuraban el sacrificio de Cristo
 - [[sacrificio]] — el sacrificio de expiación perfecta
 - [[obediencia]] — la obediencia filial de Jesús
 - [[eucaristia]] — el cáliz eucarístico
-- [[reino]] — beber a la mesa del Hijo en el reino
+- [[reino_de_dios]] — beber a la mesa del Hijo en el reino
 
 ## Contenido
 

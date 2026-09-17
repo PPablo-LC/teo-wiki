@@ -35,7 +35,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[adan]] — la humanidad condenada en Adán
 - [[redenccion]] — la redención es la abertura de las puertas infernales
 - [[iglesia]] — la Iglesia, fruto de la victoria
-- [[satan]] — el poder de Satán en el abismo
+- [[satanás]] — el poder de Satán en el abismo
 - [[tierra]] — la tierra que se abre
 
 ## Contenido
@@ -80,4 +80,4 @@ La bajada de Cristo a los infiernos es un artículo de fe y es, en efecto, un da
 
 Por su muerte triunfó Cristo del último enemigo, la [[muerte|muerte]] *1Cor 15,26*, y forzó las puertas infernales. La muerte y el Hades habían estado siempre al descubierto a la mirada de Dios *Am 9,2* *Job 26,6* y ahora se ven obligados a restituir los muertos que retienen *Ap 20,13* *Mt 27,52s*. Hasta la muerte del Señor era el infierno «el punto de cita de toda carne», el término fatal de llegada de una humanidad exilada de Dios, y nadie pedía salir antes de Cristo, «primicias de los que duermen» *1Cor 15,20-23*, «primogénito de entre los muertos» *Ap 1,5*. Para la humanidad condenada en [[adan|Adán]] a la muerte y a la separación de Dios, la [[redenccion|redención]] es la abertura de las [[puerta|puertas]] infernales, el don de la vida eterna. La [[iglesia|Iglesia]] es el fruto y el instrumento de esta victoria *Mt 16,18*.
 
-Pero Cristo, ya antes de su venida, es prometido y esperado. El hombre del AT, en la medida en que acoge esta promesa, ve iluminarse sus infiernos con una claridad que se convierte en certeza. Y viceversa, en la medida en que la rechaza se convierten sus infiernos en infierno, él mismo se sume en un abismo, en el que el poder de [[satan|Satán]] se hace más horroroso. Finalmente, cuando aparece Jesucristo, «los que no obedecen a su Evangelio... son castigados con una pérdida eterna, alejados de la faz del Señor» *2Tes 1,8s* y «en el estanque de fuego» se encuentran con la muerte y el Hades *Ap 20,14s*.
+Pero Cristo, ya antes de su venida, es prometido y esperado. El hombre del AT, en la medida en que acoge esta promesa, ve iluminarse sus infiernos con una claridad que se convierte en certeza. Y viceversa, en la medida en que la rechaza se convierten sus infiernos en infierno, él mismo se sume en un abismo, en el que el poder de [[satanás|Satán]] se hace más horroroso. Finalmente, cuando aparece Jesucristo, «los que no obedecen a su Evangelio... son castigados con una pérdida eterna, alejados de la faz del Señor» *2Tes 1,8s* y «en el estanque de fuego» se encuentran con la muerte y el Hades *Ap 20,14s*.

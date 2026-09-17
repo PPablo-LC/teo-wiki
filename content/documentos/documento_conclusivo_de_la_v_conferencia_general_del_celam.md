@@ -124,7 +124,7 @@ Los resúmenes estructurados del documento están en `wiki/Resúmenes/Aparecida_
 
 ## Ver también
 
-[[discipulado_misionero]], [[evangelización]], [[comunión_eclesial]], [[santidad]], [[formación_integral]], [[misión_ad_gentes]], [[dignidad_de_la_persona_humana]], [[familia_como_iglesia_doméstica]], [[doctrina_social_de_la_iglesia]]
+[[discipulado_misionero]], [[evangelización]], [[comunión_eclesial]], [[santidad]], [[formación_integral]], [[misión_ad_gentes]], [[dignidad_de_la_persona]], [[familia_como_iglesia_doméstica]], [[doctrina_social_de_la_iglesia]]
 
 ## Referencias
 

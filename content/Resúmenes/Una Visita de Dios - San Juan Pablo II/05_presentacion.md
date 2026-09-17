@@ -29,7 +29,7 @@ El libro está dedicado a los que sufren o viven cercanos al dolor. Su propósit
 
 ### El Papa como hombre que ha sufrido
 
-Se señala que Juan Pablo II se acerca al misterio del sufrimiento con la sensibilidad de quien lo ha vivido, porque antes que Papa es hombre, y un hombre que ha sufrido mucho. Siempre ha visto en el dolor la visita de Dios. En su decisión de aceptar la responsabilidad de ser Papa, tuvo presente el recuerdo de la ternura con la que una enferma ofrecía por la [[Iglesia_católica|Iglesia]] la cruz de su enfermedad.
+Se señala que Juan Pablo II se acerca al misterio del sufrimiento con la sensibilidad de quien lo ha vivido, porque antes que Papa es hombre, y un hombre que ha sufrido mucho. Siempre ha visto en el dolor la visita de Dios. En su decisión de aceptar la responsabilidad de ser Papa, tuvo presente el recuerdo de la ternura con la que una enferma ofrecía por la [[iglesia|Iglesia]] la cruz de su enfermedad.
 
 ### La cruz como camino de felicidad
 

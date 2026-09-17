@@ -34,7 +34,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[corazón]] — Dios recrea en Israel un corazón nuevo capaz de amar
 - [[nuevo]] — el corazón nuevo
 - [[pastor_y_rebano]] — la imagen del pastor para expresar el celo divino
-- [[vigna]] — la imagen de la viña
+- [[viña]] — la imagen de la viña
 - [[idolatría]] — el culto de los ídolos frente al amor de Dios
 - [[adoración]] — el amor expresado en actos de adoración
 - [[obediencia]] — el amor expresado en la obediencia

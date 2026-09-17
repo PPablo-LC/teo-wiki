@@ -23,7 +23,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[justificación]] — la justificación mediante la fe
 - [[fe]] — la adhesión por la fe
 - [[mentira]] — la sospecha de mentira en Dios
-- [[prueba_tentacion]] — la tentación fundamental
+- [[prueba_y_tentación]] — la tentación fundamental
 - [[pecado]] — el pecado permanente
 - [[elección]] — los elegidos
 - [[naciones]] — el proceso de las naciones
@@ -55,7 +55,7 @@ El AT está totalmente ocupado por el debate entre Dios y su pueblo (I). La veni
 
 #### El pecador en proceso con Dios
 
-Entrar en proceso con Dios, sospechar en él [[mentira]] y malicia, es la [[prueba_tentacion|tentación]] fundamental, la que la serpiente insinúa en el corazón de Eva: «¡Nada de eso! ¡No moriréis!» *Gen 3,3ss*; es la primera reacción de Adán pecador: «La mujer que me diste por compañera...», todo el mal viene de ti *3,12*; es el [[pecado]] permanente de Israel en el desierto. El episodio de Meriba al salir del Mar Rojo (*Ex 17,7*; el nombre evoca la raíz *rîb*, la del proceso) anuncia todas las defecciones de la «generación pervertida» *Dt 32,20* y todos los procesos entablados contra Dios por su pueblo *Jer 2,29*. Se trata siempre de la fe; negarse a creer es buscar razones contra Dios, discutirlo, tentarlo.
+Entrar en proceso con Dios, sospechar en él [[mentira]] y malicia, es la [[prueba_y_tentación|tentación]] fundamental, la que la serpiente insinúa en el corazón de Eva: «¡Nada de eso! ¡No moriréis!» *Gen 3,3ss*; es la primera reacción de Adán pecador: «La mujer que me diste por compañera...», todo el mal viene de ti *3,12*; es el [[pecado]] permanente de Israel en el desierto. El episodio de Meriba al salir del Mar Rojo (*Ex 17,7*; el nombre evoca la raíz *rîb*, la del proceso) anuncia todas las defecciones de la «generación pervertida» *Dt 32,20* y todos los procesos entablados contra Dios por su pueblo *Jer 2,29*. Se trata siempre de la fe; negarse a creer es buscar razones contra Dios, discutirlo, tentarlo.
 
 #### Dios en proceso con su pueblo
 

@@ -1,81 +1,79 @@
 ---
 type: ResumenFuente
 title: "Verdad"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 280
-timestamp: 2026-08-24
-description: "Resumen de 'Verdad' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "La verdad en la Biblia: la emes de Dios y de los hombres, la verdad revelada, la verdad del Evangelio y la verdad en San Juan."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Verdad
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
+> 📄 **Fuente original:** `verdad.md`
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `verdad.md`
+En el lenguaje corriente se dice verdadero un pensamiento, una palabra conforme con lo real, o también la realidad misma que se desvela, que resulta clara, evidente al espíritu (verdadero, *a-lethés*: no oculto). Es la concepción intelectualista de los griegos, que es ordinariamente la nuestra. La noción bíblica de verdad es diferente, pues está fundada en una experiencia religiosa, la experiencia del contacto con Dios. Sin embargo, esta noción experimentó una evolución notable: mientras que en la Biblia es la verdad ante todo la fidelidad a la alianza, en el NT vendrá a ser la plenitud de la revelación centrada en Cristo.
 
+## AT
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+El verbo *aman* (el [[amen|amén]] litúrgico, p.e. *2Cor 1,20*), de donde se formó *emes* (verdad), significa fundamentalmente: ser sólido, seguro, digno de confianza; la verdad es por tanto la cualidad de lo que es estable, probado, en lo que uno se puede apoyar. Una paz de verdad *Jer 14,13* es una paz sólida, duradera; un camino de verdad *Gen 24,48* es un camino que conduce seguramente a la meta; «en verdad» significa a veces: en forma estable, para siempre. Aplicada a Dios o a los hombres deberá con frecuencia traducirse la palabra por [[fidelidad|fidelidad]], pues la fidelidad de una persona es la que nos induce a fiarnos de ella.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Verdad |
-| 5 | H2 | AT |
-| 8 | H3 | 1. La «emes» de Dios está ligada con su intervención en la historia en |
-| 21 | H3 | La «emet» de los hombres. |
-| 25 | H3 | La verdad revelada. |
-| 30 | H2 | NT |
-| 32 | H3 | Herencia bíblica. |
-| 36 | H3 | La verdad del Evangelio. |
-| 44 | H3 | San Juan. |
+### 1. La «emes» de Dios está ligada con su intervención en la historia en favor de su pueblo.
 
+Yahveh es el Dios fiel *Dt 7,9* *32,4* *Sal 31,6* *Is 49,7*. La importancia de este atributo no se explica bien más que en el contexto de la [[alianza|alianza]] y de las [[promesas|promesas]]: «Yahveh tu Dios es Dios, el Dios fiel que guarda su alianza y su amor hasta mil generaciones a los que lo aman» *Dt 7,9*. El *Salmo 89*, a propósito de la alianza davídica, está consagrado todo entero a celebrar la fidelidad de Dios. El sentido básico del término aparece claro en *Sal 132,11* («Yahveh juró a David emes y no se apartará de ella»), donde el juramento, llamado emes, se califica por el hecho mismo de infrangible.
 
-## Secciones incluidas
+Con frecuencia se asocia *emet* a *hesed* (p.e. *Sal 89* *138,2*) para indicar la actitud fundamental de Dios en la alianza: es una alianza de [[gracia|gracia]], a la que Dios no faltó nunca *Ex 34,6s* *Gen 24,27* *2Sa 2,6* *15,20*. Otras veces la fidelidad va unida con los atributos de [[justicia|justicia]] *Os 2,21s* *Neh 9,33* *Zac 8,8* o de [[santo|santidad]] *Sal 71,22* y tiene un significado más general, sin referencia a la alianza. En diversos salmos se presenta la estabilidad divina como una protección, un refugio para el justo que implora el auxilio divino: de ahí las imágenes de la muralla, de la armadura, del escudo *Sal 91* que ponen en evidencia la solidez del apoyo divino *Sal 40,12* *43,2s* *54,7* *61,8*.
 
-# AT
+La *emet* caracteriza además la [[palabra_de_dios|palabra]] de Dios y su [[ley|ley]]. David dice a Yahveh: «Tus palabras son verdad» *2Sa 7,28*, pues las promesas divinas aseguran la perpetuidad a su casa. Los salmos celebran la verdad de la ley divina *Sal 19,10* *111,7s* *119,86* *119,138* *119,142* *119,151* *119,160*; según el último texto citado la verdad es lo que hay de esencial, de fundamental en la palabra de Dios: es irrevocable, permanece para siempre.
 
-[Contenido de esta sección...]
+### La «emet» de los hombres.
 
-## 1. La «emes» de Dios está ligada con su intervención en la historia en favor de su pueblo.
+También aquí se trata de una actitud fundamental de fidelidad *Os 4,2*. «Hombres de verdad» *Ex 18,21* *Neh 7,2* son hombres de confianza, pero los dos textos añaden «que temen a Dios», lo que enlaza esta apreciación moral con el contexto religioso del yahvismo. De ordinario la «verdad» de los hombres designa directamente su fidelidad a la alianza y a la ley divina. Describe, pues, el conjunto del comportamiento de los justos; de ahí el paralelismo con perfección *Jos 24,14*, corazón íntegro *2Re 20,3*, el bien y el derecho *2Par 31,20*, derecho y justicia *Is 59,14* *Sal 45,5*, [[santo|santidad]] *Zac 8,3*. «Hacer la verdad» *2Par 31,20* *Ez 18,9* y «caminar en la verdad» *1Re 2,4* *3,6* *2Re 20,3* *Is 38,3* es ser fiel observador de la ley del Señor *Tob 3,5*.
 
-[Contenido de esta sección...]
+En cuanto a las relaciones mutuas entre los hombres reaparece la fórmula «hacer la bondad y la verdad» *Gen 47,29* *Jos 2,14*: es obrar con benevolencia y lealtad, con una bondad fiel. La *emet* es igualmente el respeto de las normas del derecho en el ejercicio de la [[justicia|justicia]] *Prov 29,14* *Ez 18,8* *Zac 7,9* o la perfecta sinceridad en el lenguaje; pero también aquí se descubre el matiz básico: una [[lengua|lengua]] sincera «permanece para siempre» *Prov 12,19*.
 
-## La «emet» de los hombres.
+### La verdad revelada.
 
-[Contenido de esta sección...]
+En la tradición sapiencial y apocalíptica la noción de verdad adopta un sentido parcialmente nuevo que prepara el NT: designa la doctrina de sabiduría, la verdad revelada. En ciertos salmos *Sal 25,5* *26,3* *86,11* la expresión «caminar en la verdad de Dios» deja entender que esta verdad no es sencillamente el comportamiento moral, sino la [[ley|ley]] misma que Dios enseña a observar. Los sacerdotes deben transmitir «una doctrina de verdad» *Mal 2,6*: es la [[ensenar|enseñanza]] que viene de Dios. «Verdad» se convierte en sinónimo de [[sabiduria|sabiduría]]: «Adquiere la verdad, no la vendas: sabiduría, disciplina e inteligencia» *Prov 23,23* *8,7* *22,21* *Ecl 12,10*; «Hasta la muerte lucha por la verdad» *Eclo 4,28 LXX*.
 
-## La verdad revelada.
+Puesto que «verdad» designa el plan y el querer de Dios, la palabra se relaciona también con [[misterio|misterio]] *Tob 12,11* *Sab 6,22*. En el juicio los justos «comprenderán la verdad» *Sab 3,9*: no ya que hayan de experimentar la fidelidad de Dios a sus promesas o ver el ser mismo de Dios, sino que comprenderán su [[designio_de_dios|designio]] providencial sobre los hombres. Para Daniel «el libro de la verdad» *Dan 10,21* es el libro en que está inscrito el designio de Dios; la verdad de Dios es la revelación de su designio *9,13*, es también una visión celestial o la explicación de su sentido *8,26* *10,1* *11,2*, es la verdadera fe, la religión de Israel *8,12*.
 
-[Contenido de esta sección...]
+Este empleo del término se mantiene en el judaísmo apocalíptico y sapiencial. En Qumrán «la inteligencia de la verdad de Dios» es el conocimiento de los misterios (Himnos de Qumrán: 1QH 7,26s), pero éste se obtiene por la interpretación verdadera de la ley: «convertirse a la verdad» (Manual de disciplina: 1QS 6,15) es «convertirse a la ley de Moisés» *5,8*. La verdad, doctrina revelada, tiene también un alcance moral, se opone a la iniquidad: los «hijos de la verdad» *4,5* son los que siguen «los caminos de la verdad» *4,17*. La verdad acaba así por designar en Qumrán el conjunto de las concepciones religiosas de los hijos de la alianza.
 
-# NT
+## NT
 
-[Contenido de esta sección...]
+### Herencia bíblica.
 
-## Herencia bíblica.
+En Pablo, más que en el resto del NT, la noción de verdad (*aletheia*) ofrece los matices que tenía en los Setenta. El apóstol se sirve de ella en sentido de sinceridad *2Cor 7,14* *11,10* *Flp 1,18* *1Cor 5,8* o en la expresión «decir la verdad» *Rom 9,1* *2Cor 12,6* *Ef 4,25* *1Tim 2,7*. Profundamente bíblica es la fórmula «la verdad de Dios» para designar la [[fidelidad|fidelidad]] de Dios a sus promesas *Rom 3,7* *3,3* *15,8* *2Cor 1,l8ss*: las [[promesas|promesas]] del Dios fiel tienen su «sí» en Cristo; así también *aletheia* en sentido de verdad moral, de rectitud: opuesta a [[injusticia|injusticia]] *1Cor 13,6*, sinónima de [[justicia|justicia]] *Ef 5,9* *6,14*, caracteriza el comportamiento que Pablo aguarda de los cristianos *Col 1,6* *2Cor 13,8*. El [[juicio|juicio]] de Dios estará también marcado de verdad, de justicia *Rom 2,2*.
 
-[Contenido de esta sección...]
+La antítesis entre «la verdad de Dios» y la [[mentira|mentira]] de los [[idolos|ídolos]] *Rom 1,25* *1Tes 1,9* se inspira en la polémica judía contra la idolatría pagana *Jer 10,14* *13,25* *Bar 6,7.47.50*: el verdadero Dios es el Dios vivo, con el que se puede contar, el que escucha a su pueblo y lo salva.
 
-## La verdad del Evangelio.
+### La verdad del Evangelio.
 
-[Contenido de esta sección...]
+Aquí aparece la noción de verdad cristiana. Se relaciona con el tema sapiencial y apocalíptico de verdad revelada. Los judíos se jactaban de poseer en su ley la expresión misma de esta verdad *Rom 2,20*, de hallar en ella consignada toda la [[voluntad_de_dios|voluntad]] de Dios *2,18*. Pablo reemplaza la expresión judía «la verdad de la ley» por «la verdad del [[evangelio|Evangelio]]» *Gal 2,5.14* o «la palabra de verdad» *Col 1,5* *Ef 1,13* *2Tim 2,15*. Objeto de una [[revelacion|revelación]] *2Cor 4,2* con el mismo título que el [[misterio|misterio]] *Rom 16,26* *Col 1,26* *4,3*, esta palabra es la [[palabra_de_dios|palabra]] de Dios [[predicar|predicada]] por el Apóstol *2Cor 4,2.5*.
 
-## San Juan.
+a. *La verdad y la fe*. Los hombres a los que se dirige este mensaje deben oír la palabra *Ef 1,13* *Rom 10,14*, deben convertirse para llegar al [[conocer|conocimiento]] de la verdad *2Tim 2,25*.
 
-[Contenido de esta sección...]
+La aceptación de la verdad del Evangelio se efectúa por la [[fe|fe]] *2Tes 2,13* *Tit 1,1* *2Tes 2,12* *Gal 5,7* *Rom 2,8*, pero esta fe requiere al mismo tiempo el [[amor|amor]] de la verdad *2Tes 2,10*. «Llegar al conocimiento de la verdad» viene a ser en los textos tardíos *1Tim 2,4* *2Tim 3,7* *Heb 10,26* una expresión estereotipada para decir: adherirse al Evangelio, abrazar el cristianismo, pues los creyentes son precisamente los que conocen la verdad *1Tim 4,3*; ésta no es otra cosa que la fe cristiana *Tit 1,1*.
+
+b. *Verdad y vida cristiana*. Según las epístolas católicas los creyentes han sido engendrados a la nueva vida por la palabra de verdad *Sant 1,18* *1Pe 1,23*; por la [[obediencia|obediencia]] a la verdad en el momento del [[bautismo|bautismo]] han santificado sus [[alma|almas]] *1Pe 1,22*. Por consiguiente, no hay que alejarse de esta verdad una vez que se ha abrazado *Sant 5,19*, hay que afianzarse en la verdad presente en vista de la parusía *2Pe 1,12*; hay que continuar deseando esta [[leche|leche]] de la palabra a fin de crecer para la salvación *1Pe 2,2* Así, añade Pablo, es como el cristiano se [[vestido|reviste]] del hombre [[nuevo|nuevo]] y realiza la [[santo|santidad]] que pide la verdad *Ef 4,24*.
+
+c. *La sana doctrina y el error*. En las pastorales la polémica contra los herejes confiere al tema un nuevo matiz: ahora ya la verdad es la buena doctrina *1Tim 1,10* *4,6* *2Tim 4,3* *Tit 1,9* *2,1* opuesta a las fábulas *1Tim 1,4* *4,7* *2Tim 4,4* *Tit 1,14* de los doctores de [[mentira|mentira]] *1Tim 4,2*. Estos han vuelto la espalda a la verdad *Tit 1,14* *1Tim 6,5* *2Tim 2,18* *4,4*, se alzan incluso contra ella *2Tim 3,8*. Pero la Iglesia del Dios vivo sigue siendo «la columna y el fundamento de la verdad» *1Tim 3,15*.
+
+d. *Entre la verdad y Cristo existe un nexo estrecho*. El objeto del mensaje del Apóstol no es una doctrina abstracta, es la persona misma de Cristo *2Cor 4,5* *Gal 1,16* *1Cor 1,23* *2Cor 1,19* *11,4* *Ef 4,20* *Flp 1,15*; Cristo, «manifestado en la carne... proclamado entre los paganos, creído en el mundo», es la verdad misma cuya guardiana es la Iglesia, es el [[misterio|misterio]] mismo de la [[piedad|piedad]] *1Tim 3,16*. El Cristo-verdad, al que anuncia el Evangelio, no es, pues, un ser celestial en sentido gnóstico, sino el Jesús de la historia, muerto y resucitado por nosotros: «la verdad está en Jesús» *Ef 4,21*.
+
+### San Juan.
+
+La teología de Juan era ante todo una teología de [[revelacion|revelación]], la noción de verdad ocupa en ella un lugar considerable. Frecuentemente se interpreta la *aletheia* joánnica en el sentido dualista metafísico, platónico o gnóstico de ser subsistente y eterno, de realidad divina que se desvela. Pero Juan no llama nunca a Dios mismo la verdad, cosa que sería esencial en estos sistemas. En realidad no hace sino desarrollar el tema apocalíptico y sapiencial de la verdad revelada —reasumido por lo demás en el NT—, pero insistiendo más en el carácter revelado y en la fuerza interior de la verdad.
+
+a. *La palabra del Padre y el Cristo-verdad*. Para Juan la verdad no es el ser mismo de Dios, sino la [[palabra_de_dios|palabra]] del Padre *Jn 17,17* *1Jn 1,8*: «la verdad no está en vosotros» y *1,10*: «su palabra no está en vosotros». La palabra que Cristo ha oído al Padre *Jn 8,26.40* *3,33* ésa es la verdad que él viene a «proclamar» *8,40.45s* y de la que viene a «dar testimonio» *18,37* *5,33*. La verdad es, pues, al mismo tiempo la palabra que Cristo mismo nos dirige y que debe inducirnos a creer en él *8,31s.45s*. La diferencia entre esta revelación y la del AT se subraya enérgicamente: «La ley fue dada por medio de Moisés; la [[gracia|gracia]] y la verdad nos han venido por Jesucristo» *1,17*, porque con él y en él apareció la [[revelacion|revelación]] total, definitiva. Mientras que el diablo es el padre de la [[mentira|mentira]] *8,44*, Cristo proclama la verdad *8,45*, está «lleno de gracia y de verdad» *1,14*. La gran novedad cristiana es que Cristo en persona es la verdad *14,6*: la es, no en cuanto posee la naturaleza divina, sino porque, siendo el Verbo hecho carne, nos revela al Padre *1,18*. Jesús mismo explica el sentido de este título uniéndolo a otros dos: él es «el camino, la verdad y la [[vida|vida]]»; él es el [[camino|camino]] que conduce al Padre, precisamente porque él es la verdad y transmite la palabra y la revelación del Padre *17,8.14.17* y así comunica la vida divina *1,4* *3,16* *6,40.47.63* *17,2* *1Jn 5,11ss*. Este título revela por tanto algo de la persona divina de Cristo: él es la verdad porque es la palabra, el Verbo del Padre, el Hijo único.
+
+b. *El Espíritu de verdad*. Una vez terminada la revelación al mundo *Jn 12,50*, anuncia Jesús a sus discípulos la venida del [[paraclito|Paráclito]], el Espíritu de verdad *14,17* *15,26* *16,13*. Para Juan la función fundamental del [[espiritu_de_dios|Espíritu]] consiste en dar [[testimonio|testimonio]] de Cristo *15,26* *1Jn 5,6*, en conducir a los [[discipulo|discípulos]] hacia la verdad entera *Jn 16,13*, en traerles a la [[memoria|memoria]] todo lo que Cristo había dicho, es decir, hacerles captar su verdadero sentido *14,26*. Dado que su papel consiste en hacer comprender en la fe la verdad de Cristo, a él también se le llama «la verdad» *1Jn 5,6*; es en la Iglesia «el que testimonia» y con ello suscita nuestra fe.
+
+c. *Verdad y santidad*. Juan subraya con fuerza el papel de la verdad en la vida del creyente. Éste debe «ser de la verdad» *Jn 18,37* *1Jn 3,19*: no debe únicamente haber llegado de una vez para siempre a la [[vida|vida]] nueva por la fe *Sant 1,18* *1Pe 1,22s*, sino [[nacimiento_nuevo|nacer]] del Espíritu *Jn 3,5.8* y estar habitualmente bajo el influjo de la verdad que mora en nosotros *2Jn 4*. Sólo el que [[permanecer|permanezca]] así en la [[palabra_de_dios|palabra]] de Jesús llegará a conocer verdaderamente la verdad y a verse interiormente [[liberación_y_libertad|liberado]] del pecado por esta verdad *Jn 8,31s*: porque la fe purifica *Act 15,9*, por tanto también la palabra de Cristo *Jn 15,3*; ésta nos hace vencer al maligno *1Jn 2,14*; cuando el creyente deja que la semilla de la palabra «permanezca» activamente en él, se hace impecable *1Jn 3,9*, se [[santo|santifica]] en la verdad *Jn 17,17.19*.
+
+Así Juan ve en la *aletheia* el principio interior de la vida moral; vuelve a las antiguas expresiones bíblicas «hacer la verdad» *3,21* *1Jn 1,6*, «caminar en la verdad» *2Jn 4* *3Jn 3s*, pero les da una plenitud de sentido cristiano: es caminar en el precepto de Cristo *2Jn 6*, dejarse dirigir en su acción por la verdad, por la fe. Amar a los hermanos «en verdad» *2Jn 1* *3Jn 1* es amarlos por la fuerza de la verdad que mora en nosotros *2Jn 1ss* *1Jn 3,18*; la [[adoracion|adoración]] «en espíritu y en verdad» *Jn 4,23s* es una adoración que brota del interior sin por ello excluir todo culto exterior; es un [[culto|culto]] inspirado por el Espíritu y por la verdad de Jesús, que el Espíritu de verdad hace activa en aquellos a quienes ha hecho renacer. Finalmente, la verdad implica también para el creyente obligaciones apostólicas: colaborar con la verdad *3Jn 8* es cooperar con la Iglesia en la fuerza interna de expansión del mensaje evangélico.
+
+La verdad en sentido cristiano no es, pues, la esfera inmensa de lo real que hubiéramos de conquistar con un esfuerzo de pensamiento: es la revelación del Padre, aparecida en Cristo e iluminada por el Espíritu, a la que debemos acoger en la fe: entonces únicamente transformará nuestras existencias, y por ella, como lo pide la liturgia, «manifestaremos en nuestras obras la luz de la verdad».

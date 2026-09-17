@@ -17,7 +17,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[mulieris_dignitatem]] — Carta Apostólica sobre la dignidad de la mujer (nn. 14-15)
 - [[Jesucristo]] — actitud del Señor como coherente reproche a lo que ofende la dignidad de la mujer
 - [[resurrección]] — las mujeres como primeros testigos del Señor resucitado
-- [[santa_María]] — espejo y medida de verdadera femineidad
+- [[maría]] — espejo y medida de verdadera femineidad
 
 ## Contenido
 

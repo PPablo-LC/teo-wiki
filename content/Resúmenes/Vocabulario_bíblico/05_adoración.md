@@ -32,7 +32,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[ángeles]] — la postración de los ángeles ante Dios; negativa a adorarlos
 - [[mesías]] — adoración tributada a un mesías, un Dios hecho hombre
 - [[salvación]] — el Dios salvador
-- [[bestia_bestias]] — la bestia del Apocalipsis, figura del culto imperial
+- [[bestia]] — la bestia del Apocalipsis, figura del culto imperial
 - [[templo]] — la adoración en espíritu tiene lugar en el único templo: el cuerpo de Cristo resucitado
 - [[espíritu_santo]] — adorar «en espíritu y en verdad»; nacidos del Espíritu
 - [[padres_y_padre]] — el grito del Hijo muy amado: «Abba, Padre»

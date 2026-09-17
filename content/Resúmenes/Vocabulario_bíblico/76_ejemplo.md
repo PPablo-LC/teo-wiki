@@ -17,7 +17,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[culto]] — la semejanza con el adorado
 - [[santo]] — la santidad como imitación de Dios
 - [[corazon]] — la necesidad de un corazón cambiado
-- [[imagen]] — Cristo como imagen del Dios invisible
+- [[imagen_de_dios]] — Cristo como imagen del Dios invisible
 - [[discipulo]] — el discípulo que imita a Jesús
 - [[amor]] — el ejemplo del amor hasta el sacrificio
 
@@ -25,11 +25,11 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ### A ejemplo de Dios y de su santidad.
 
-Creado a [[imagen]] de Dios *Gen 1,27*, el hombre debe imitarle en su acción. Mediante el [[culto]] se asemeja al que adora: vanidad con los [[ídolos]] *Sal 115,8*, santo con Yahveh, cuyo culto debe copiar un modelo celeste *Ex 25,40* *26,30*. El mandamiento «Sed santos porque yo, Yahveh, soy santo» *Lev 19,2* compromete al pueblo elegido a caminar por el [[camino]] del amor y la fidelidad que traza Dios en persona *Sal 25,9s* *Ex 34,6*, en una justicia llena de amor cuyo modelo halla en Dios *Dt 15,12-15* *Miq 6,8*. Sin embargo, Israel no fue siempre fiel; el ejemplo estaba a su alcance *Dt 30,14*, pero era preciso que su [[corazón]] fuera cambiado interiormente para convertirse en el de un hijo que imita a su Padre.
+Creado a [[imagen_de_dios]] de Dios *Gen 1,27*, el hombre debe imitarle en su acción. Mediante el [[culto]] se asemeja al que adora: vanidad con los [[ídolos]] *Sal 115,8*, santo con Yahveh, cuyo culto debe copiar un modelo celeste *Ex 25,40* *26,30*. El mandamiento «Sed santos porque yo, Yahveh, soy santo» *Lev 19,2* compromete al pueblo elegido a caminar por el [[camino]] del amor y la fidelidad que traza Dios en persona *Sal 25,9s* *Ex 34,6*, en una justicia llena de amor cuyo modelo halla en Dios *Dt 15,12-15* *Miq 6,8*. Sin embargo, Israel no fue siempre fiel; el ejemplo estaba a su alcance *Dt 30,14*, pero era preciso que su [[corazón]] fuera cambiado interiormente para convertirse en el de un hijo que imita a su Padre.
 
 ### A ejemplo de Cristo y de su caridad.
 
-Jesús vino a dar una fisonomía al modelo divino. Siendo «la [[imagen]] del Dios invisible» *Col 1,15*, «el Hijo no puede hacer nada por sí mismo sino lo que ve hacer al Padre» *Jn 5,19*, y realiza las obras que el Padre le dio hacer *5,36*. Ver al Hijo es ver al Padre *14,9*. Así, imitar al Padre es imitar al Hijo. No se trata de copiar un modelo celeste *Heb 8,5*, sino de responder a la predestinación divina: «ser conformes con la imagen del Hijo» *Rom 8,29*. El [[discípulo]] participa en los gestos de Jesús y en el [[amor]] que los anima; el ejemplo mayor fue el del amor que va hasta el sacrificio total *Jn 13,15.34*, y la imitación es posible porque el maestro nos da su [[Espíritu]], permitiendo seguir sus huellas *1Pe 2,21* y realizar incluso obras mayores *Jn 14,12*.
+Jesús vino a dar una fisonomía al modelo divino. Siendo «la [[imagen_de_dios]] del Dios invisible» *Col 1,15*, «el Hijo no puede hacer nada por sí mismo sino lo que ve hacer al Padre» *Jn 5,19*, y realiza las obras que el Padre le dio hacer *5,36*. Ver al Hijo es ver al Padre *14,9*. Así, imitar al Padre es imitar al Hijo. No se trata de copiar un modelo celeste *Heb 8,5*, sino de responder a la predestinación divina: «ser conformes con la imagen del Hijo» *Rom 8,29*. El [[discípulo]] participa en los gestos de Jesús y en el [[amor]] que los anima; el ejemplo mayor fue el del amor que va hasta el sacrificio total *Jn 13,15.34*, y la imitación es posible porque el maestro nos da su [[Espíritu]], permitiendo seguir sus huellas *1Pe 2,21* y realizar incluso obras mayores *Jn 14,12*.
 
 ### El ejemplo cristiano.
 

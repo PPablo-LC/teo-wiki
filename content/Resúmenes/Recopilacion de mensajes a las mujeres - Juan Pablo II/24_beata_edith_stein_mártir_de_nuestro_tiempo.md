@@ -12,7 +12,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[Edith_Stein]] — carmelita y mártir del siglo XX, beatificada por [[san_juan_pablo_ii]]
+- [[Edith_Stein]] — carmelita y mártir del siglo XX, beatificada por [[juan_pablo_ii]]
 - [[martirio]] — sacrificio de Edith Stein como grito y servicio a la paz
 - [[dignidad_de_la_mujer]] — contribución a la promoción de la mujer y la femineidad
 - [[mística_carmelitana]] — tras los pasos de [[santa_Teresa_de_Avila]]
@@ -33,7 +33,7 @@ Unirse al dolor del Dios hecho hombre, ofreciendo la vida por su gente, llegó a
 
 Edith Stein fue ejemplar también por la contribución que dio a la promoción de la mujer, dedicándose a iniciativas orientadas a que se le reconocieran los derechos propios de todo ser humano y los específicos de la femineidad. Hablando de la mujer, destacaba su vocación de «esposa y madre», pero exaltaba también el papel al que estaba llamada en todos los ámbitos de la vida cultural y social. Ella misma fue testigo de esa femineidad socialmente activa como investigadora, conferenciante y profesora. Fue estimada como pensadora, capaz de conjugar las exigencias de la razón con las de la fe.
 
-Hoy se encomienda a [[santa_María]] la armonía y la paz entre los creyentes de las diversas religiones: Dios es amor y une y no separa a cuantos creen en Él. Sobre todo los judíos y los cristianos no pueden olvidar su singular fraternidad.
+Hoy se encomienda a [[maría]] la armonía y la paz entre los creyentes de las diversas religiones: Dios es amor y une y no separa a cuantos creen en Él. Sobre todo los judíos y los cristianos no pueden olvidar su singular fraternidad.
 
 ## Mapa del archivo fuente
 

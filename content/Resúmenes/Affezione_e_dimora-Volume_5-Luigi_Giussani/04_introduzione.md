@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "**Introduzione**"
 fuente: Affezione_e_dimora-Volume_5-Luigi_Giussani
 capítulo: 4
-timestamp: 2026-09-13
+timestamp: 2026-09-17
 description: "Resumen de '**Introduzione**' — Affezione_e_dimora-Volume_5-Luigi_Giussani"
 tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 ---
@@ -12,31 +12,16 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[afección]] — hilo conductor de la obra: el mundo descarta la capacidad afectiva del hombre
+- [[capacidad_afectiva]] — el dato humano sobre el que Dios construye amistad, casa y dimora
+- [[morada]] — la dimora como lugar de la experiencia cristiana
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_introduzione.md`
+Archivo de solo título. La palabra *Introduzione* encabeza la sección introductoria del volumen, cuyo contenido se desarrolla en los capítulos sucesivos: la presentación editorial («Dialoghi a tavola»), la nota de lectura de la serie y la conversación del retiro de Cuaresma de 1996 que abre la obra. El hilo conductor es la [[capacidad_afectiva]] del hombre, que el mundo descarta, y sobre la cual Dios construye la [[afección]] verdadera, la amistad, el amor a Cristo y la [[morada]] (dimora) de la compañía.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | **Introduzione** |
-
-
-## Secciones incluidas
-

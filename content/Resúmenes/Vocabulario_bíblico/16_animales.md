@@ -18,12 +18,12 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[cordero_de_dios]] — el cordero como representación de Cristo
 - [[espiritu]] — la paloma como símbolo del Espíritu Santo
 - [[muerte]] — el destino común del hombre y el animal a partir del polvo
-- [[puro]] — la división de animales en puros e impuros
+- [[pureza]] — la división de animales en puros e impuros
 - [[sacrificio]] — los animales como materia de los sacrificios del AT
 - [[alianza]] — los animales incluidos en la alianza de Noé
 - [[obediencia]] — el sábado aplicado al buey y al servidor
 - [[nombre]] — Adán nombra a los animales, afirmando su dominio
-- [[bestia_bestias]] — las bestias fabulosas como símbolo de poderes demoníacos
+- [[bestia]] — las bestias fabulosas como símbolo de poderes demoníacos
 - [[reino_de_dios]] — el reino como árbol en el que anidan las aves
 - [[juicio]] — los animales como signo del juicio de Dios
 

@@ -1,51 +1,31 @@
 ---
 type: ResumenFuente
 title: "Semana"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 251
-timestamp: 2026-08-24
-description: "Resumen de 'Semana' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "La semana en la Biblia: ritmo de trabajo y reposo, su función litúrgica y teológica, y su cumplimiento en el domingo y el reposo definitivo."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Semana
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
+> 📄 **Fuente original:** `semana.md`
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `semana.md`
+### La semana en la vida social y en la liturgia.
 
+Es un problema difícil el del origen de la semana. Estrechamente ligada con el sábado y quizá con el ciclo lunar, asumió desde el principio por esta razón un específico carácter religioso que la distingue netamente de los períodos de siete días atestiguados en otras partes en el Oriente Medio *Gen 8,10* y el poema babilónico de Guilgamel; *Gen 29,27* *Jue 14,12* *2Re 3,9*. Probablemente anterior a la legislación mosaica, tiene un lugar importante ya en los textos más antiguos *Ex 20,8ss* *23,12* *34,21*. Así Dios da a su pueblo el ritmo de su [[trabajo|trabajo]] y de su [[reposo|reposo]].
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La semana tiene una función importante en las costumbres y en las prácticas religiosas del AT. Las [[fiestas|fiestas]] de los ázimos y de los tabernáculos duran una semana *Dt 16,4* *Lev 23,8.34*. [[pentecostes|Pentecostés]], o fiesta de las semanas, tiene lugar siete semanas después del sábado de pascua *Ex 34,22* *Lev 23,15*. Además, después del exilio, sacerdotes y levitas se repartían por turno las semanas en el templo para desempeñar en él el servicio cultual. Al lado del calendario que se hizo oficial y fue conservado por los cristianos, otro calendario sacerdotal arcaico armonizaba el año solar de 364 días con un ciclo completo de 52 semanas.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Semana |
-| 3 | H3 | La semana en la vida social y en la liturgia. |
-| 8 | H3 | Significación teológica. |
+Cada semana de años terminaba con un año sabático, en el que se debía dejar en libertad a los esclavos y a los deudores y hacer descansar la tierra *Ex 21,2* *23,10ss* *Dt 15,1ss* *Lev 25,3s*. Al cabo de siete semanas de años estaba previsto un año jubilar, año de manumisión por excelencia *Lev 25,8.*. La profecía de las setenta semanas *Dan 9,24*, que anuncia la manumisión final de Israel, está construida a base de la cifra convencional de diez períodos jubilares, mientras que el texto de Jeremías, que constituye su punto de partida *Jer 25,11s*, sitúa la salvación al final de diez períodos sabáticos.
 
+### Significación teológica.
 
-## Secciones incluidas
+Según la teología sacerdotal, la semana que pone un ritmo en la actividad del hombre tiene por prototipo sagrado la actividad creadora de Dios mismo *Gen 1,1-2,3* *Ex 20,9ss* *31,17*. Así la ley hebdomadaria se considera como una institución divina de valor universal.
 
-## La semana en la vida social y en la liturgia.
+En el NT adquiere la semana un nuevo valor religioso. Ahora ya tiene su principio en el domingo, día del Señor, celebración hebdomadaria de su victoria.
 
-[Contenido de esta sección...]
-
-## Significación teológica.
-
-[Contenido de esta sección...]
+El [[trabajo|trabajo]] que despliega luego en ella el cristiano se realiza así bajo la guía de Cristo redentor, que domina el tiempo. Pero la semana sigue tendiendo hacia un [[día_del_señor|día]] octavo que, más allá del ciclo de las semanas, introducirá al pueblo de Dios en el gran [[reposo|reposo]] divino *Heb 4,1-11*; el reposo del domingo anuncia ya su venida.

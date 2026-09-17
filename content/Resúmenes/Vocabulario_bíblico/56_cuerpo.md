@@ -16,7 +16,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[carne]] — la carne, distinta del cuerpo
 - [[alma]] — la espiritualidad del alma
-- [[reino]] — la carne no puede heredar el reino
+- [[reino_de_dios]] — la carne no puede heredar el reino
 - [[templo]] — el cuerpo, templo del Espíritu Santo
 - [[ley]] — los poderes que esclavizaron al cuerpo
 - [[pecado]] — el cuerpo de pecado

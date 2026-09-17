@@ -32,10 +32,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[ley]] — la ley como camino del reposo
 - [[pobres]] — los pobres que reposan sin que nadie les moleste
 - [[prueba_y_tentación|pruebas]] — las pruebas de Job
-- [[dia_domini|día del Señor]] — el día del Señor
+- [[día_del_señor|día del Señor]] — el día del Señor
 - [[fidelidad]] — los que se mantuvieron fieles
 - [[obediencia]] — los obedientes a Jesucristo
-- [[bestia_bestias|bestia]] — los adoradores de la bestia sin reposo
+- [[bestia|bestia]] — los adoradores de la bestia sin reposo
 - [[velar]] — la vigilancia
 - [[gloria]] — la gloria del creador
 
@@ -71,7 +71,7 @@ La fidelidad a la [[alianza]] condiciona, pues, la naturaleza y la duración del
 
 #### Gusto anticipado del reposo definitivo
 
-Israel no aguardó la venida del [[dia_domini|día]] del Señor para descubrir por diversos caminos los goces del reposo espiritual. En la persecución *Sal 55,8*, en la prueba *66,12* o en la experiencia de su nada *39,14* el salmista pide a Dios que le deje «respirar un poco», o hallar «el reposo de su carne» *16,9*; se abandona al pastor que conduce a las aguas del reposo *23,1ss*. Este reposo interior lo ofrece la [[ley]]: tomar el camino del bien es «hallar el reposo» *Jer 6,16*. Los [[pobres]] podrán «apacentarse y reposar sin que nadie les moleste» *Sof 3,13*; por el contrario, los malos se parecen a un mar atormentado que no puede calmarse *Is 57,20*.
+Israel no aguardó la venida del [[día_del_señor|día]] del Señor para descubrir por diversos caminos los goces del reposo espiritual. En la persecución *Sal 55,8*, en la prueba *66,12* o en la experiencia de su nada *39,14* el salmista pide a Dios que le deje «respirar un poco», o hallar «el reposo de su carne» *16,9*; se abandona al pastor que conduce a las aguas del reposo *23,1ss*. Este reposo interior lo ofrece la [[ley]]: tomar el camino del bien es «hallar el reposo» *Jer 6,16*. Los [[pobres]] podrán «apacentarse y reposar sin que nadie les moleste» *Sof 3,13*; por el contrario, los malos se parecen a un mar atormentado que no puede calmarse *Is 57,20*.
 
 A partir de la experiencia del amor, que es a la vez búsqueda y abrazo, afán y goce, la esposa del Cantar sueña con la hora de mediodía, la del pleno reposo que pone fin al errar *Cant 1,7*; en realidad, unas veces se dice enferma de amor entre los abrazos del amado *2,5s*, otras persigue perdidamente al que pensaba no dejar jamás *3,1s.4*. Cierto que gusta ya la presencia del amado, pero no se verá libre de estas vicisitudes y de esta alternancia hasta que el amado la haga pasar por la muerte *8,6*. Por su parte la Sabiduría promete el reposo a quien la busca; después de la persecución viene la captura *Eclo 6,28*; y si el sabio observa que «ha tenido poco trabajo para procurarse mucho reposo» *Eclo 51,27*, es que la Sabiduría se ha adelantado tomando a Israel por lugar de su propio reposo, de un reposo que es soberana actividad *24,7-11*.
 
@@ -89,4 +89,4 @@ Para justificar su actividad y su reposo dice Jesús: «Mi Padre trabaja sin ces
 
 #### El reposo del cielo
 
-El «reposo de Dios» que los hebreos habían creído alcanzar penetrando en la tierra prometida, estaba reservado al «pueblo de Dios», a los que se mantuvieron [[fidelidad| fieles]] y [[obediencia|obedientes]] a Jesucristo: tal es el comentario del salmo 95 (*Sal 95*) que hace la epístola a los Hebreos *Heb 3,7-4,11*. Este reposo es el [[cielo]], en el que entran «los muertos que mueren en el Señor: ahora ya reposen de sus fatigas, pues sus obras les acompañan» *Ap 14,13*. Por lo demás, reposar en el cielo no es cesar en la propia actividad, sino perfeccionarla: al paso que los adoradores de la [[bestia_bestias|bestia]] no conocen reposo ni de día ni de noche *14,11*, los vivientes no cesan de repetir, día y noche, la alabanza del Dios tres veces santo *4,8*.
+El «reposo de Dios» que los hebreos habían creído alcanzar penetrando en la tierra prometida, estaba reservado al «pueblo de Dios», a los que se mantuvieron [[fidelidad| fieles]] y [[obediencia|obedientes]] a Jesucristo: tal es el comentario del salmo 95 (*Sal 95*) que hace la epístola a los Hebreos *Heb 3,7-4,11*. Este reposo es el [[cielo]], en el que entran «los muertos que mueren en el Señor: ahora ya reposen de sus fatigas, pues sus obras les acompañan» *Ap 14,13*. Por lo demás, reposar en el cielo no es cesar en la propia actividad, sino perfeccionarla: al paso que los adoradores de la [[bestia|bestia]] no conocen reposo ni de día ni de noche *14,11*, los vivientes no cesan de repetir, día y noche, la alabanza del Dios tres veces santo *4,8*.

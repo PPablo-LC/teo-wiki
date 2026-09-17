@@ -26,7 +26,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[obras]] — en las obras se cumple la fe
 - [[fe]] — la fe se consuma en las obras
 - [[fecundidad]] — la fecundidad divina
-- [[dia_domini]] — el día del Señor
+- [[día_del_señor]] — el día del Señor
 
 ## Contenido
 

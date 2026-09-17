@@ -30,7 +30,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[cautividad]] — la prueba del pequeño resto desde el exilio
 - [[gracia]] — por pura gracia
 - [[mundo]] — la tentación del mundo
-- [[reino]] — la entrada del siglo venidero
+- [[reino_de_dios]] — la entrada del siglo venidero
 - [[sufrimiento]] — el sufrimiento del justo
 - [[árbol]] — la prueba a través del árbol del conocimiento
 - [[soledad]] — el hombre que escoge su soledad
@@ -77,7 +77,7 @@ El pueblo ha escogido, sí, servir a su Dios *Jos 24,18*; pero su corazón es fa
 
 #### 3. Sólo un pequeño resto saldrá probado de la cautividad
 
-El comportamiento divino es el mismo en la prueba de Israel frente a Yahveh *1Re 19,18* y frente a Jesús *Rom 11,1-5*; en todos estos casos, si la prueba da por resultado un [[resto]], es por pura [[gracia]]. La [[cautividad]] y el largo período que la sigue muestran, en efecto, hasta qué punto la promesa es humanamente irrealizable. Dilaciones interminables, contradicciones, persecuciones, las debilidades mismas del pueblo, vuelven a plantear no tanto la cuestión de la fe en la palabra de Yahveh o de la fidelidad a su alianza, cuanto la del cumplimiento mismo de la promesa. Así, desde el exilio hasta el Mesías, la prueba del pequeño resto es principalmente una prueba de la esperanza. El reino parece retroceder indefinidamente en el tiempo. La tentación es la del momento presente, de «este siglo», la tentación del [[mundo]]. El pueblo de Dios, en trance de secularizarse, adquiere más conciencia de la acción de [[satanás|Satán]], «príncipe de este mundo» *Job 1-2*. Esta prueba de la esperanza es la más íntima, la más purificadora. Cuanto más próximo está Dios, tanto más prueba *Jdt 8,25ss*. La prueba acabará en un último juicio: el advenimiento del [[reino]], la entrada del siglo venidero en este mundo mismo.
+El comportamiento divino es el mismo en la prueba de Israel frente a Yahveh *1Re 19,18* y frente a Jesús *Rom 11,1-5*; en todos estos casos, si la prueba da por resultado un [[resto]], es por pura [[gracia]]. La [[cautividad]] y el largo período que la sigue muestran, en efecto, hasta qué punto la promesa es humanamente irrealizable. Dilaciones interminables, contradicciones, persecuciones, las debilidades mismas del pueblo, vuelven a plantear no tanto la cuestión de la fe en la palabra de Yahveh o de la fidelidad a su alianza, cuanto la del cumplimiento mismo de la promesa. Así, desde el exilio hasta el Mesías, la prueba del pequeño resto es principalmente una prueba de la esperanza. El reino parece retroceder indefinidamente en el tiempo. La tentación es la del momento presente, de «este siglo», la tentación del [[mundo]]. El pueblo de Dios, en trance de secularizarse, adquiere más conciencia de la acción de [[satanás|Satán]], «príncipe de este mundo» *Job 1-2*. Esta prueba de la esperanza es la más íntima, la más purificadora. Cuanto más próximo está Dios, tanto más prueba *Jdt 8,25ss*. La prueba acabará en un último juicio: el advenimiento del [[reino_de_dios]], la entrada del siglo venidero en este mundo mismo.
 
 ### II. La prueba de la condición humana
 

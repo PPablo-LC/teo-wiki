@@ -17,6 +17,6 @@ Se hace genuflexión «al Santísimo Sacramento y a la Santa Cruz, desde la ador
 - [[gestos_litúrgicos]]
 - [[inclinación]]
 - [[adoración]]
-- [[santísimo_sacramento]]
+- [[eucaristía]]
 ## Referencias
 - IGMR (2000), §43, §274

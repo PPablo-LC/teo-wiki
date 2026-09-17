@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[alianza]] — el éxodo como entrada en la alianza
 - [[exodo]] — el éxodo como ejemplo privilegiado de los caminos de Dios
 - [[desierto]] — el desierto como tiempo de prueba
-- [[prueba_tentacion]] — el desierto como tiempo de prueba
+- [[prueba_y_tentación]] — el desierto como tiempo de prueba
 - [[reposo]] — el reposo como término del camino de Dios
 - [[ley]] — la ley como camino del hombre
 - [[exilio]] — la desobediencia conduciendo al exilio
@@ -31,7 +31,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sangre]] — la sangre de Jesús abriendo el camino al santuario verdadero
 - [[jesus]] — Cristo como camino vivo y nueva persona
 - [[espiritu]] — el acceso al Padre en un solo Espíritu
-- [[reino]] — el reino glorioso anticipado en la transfiguración
+- [[reino_de_dios]] — el reino glorioso anticipado en la transfiguración
 
 ## Contenido
 

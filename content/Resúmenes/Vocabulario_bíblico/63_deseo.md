@@ -15,13 +15,13 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[vida]] — la raíz de todos los deseos: poseer la vida en plenitud
-- [[prueba_tentacion]] — el deseo como tentación permanente
+- [[prueba_y_tentación]] — el deseo como tentación permanente
 - [[pecado]] — Eva pecó por dejarse seducir por el árbol
 - [[arbol]] — el árbol prohibido, bueno para comerse
 - [[mujer]] — la mujer, víctima del deseo
 - [[carne]] — la concupiscencia de la carne
 - [[riquezas]] — la soberbia de la riqueza
-- [[satan]] — el reino de Satán
+- [[satanás]] — el reino de Satán
 - [[hambre_y_sed]] — el hambre de Israel en el desierto
 - [[fe]] — la fe en la palabra de Dios
 - [[corazon]] — el corazón, fuente de pecado

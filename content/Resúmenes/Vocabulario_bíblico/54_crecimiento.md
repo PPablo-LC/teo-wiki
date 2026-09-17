@@ -32,7 +32,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[plenitud]] — el crecimiento hacia la plenitud total
 - [[gracia]] — crecer en sabiduría, estatura y gracia
 - [[cuerpo]] — el cuerpo de Cristo edificado
-- [[reino]] — el crecimiento del reino
+- [[reino_de_dios]] — el crecimiento del reino
 - [[palabra_de_dios]] — la simiente que es la palabra de Dios
 - [[edificar]] — cooperadores de Dios para edificar su obra
 - [[conocer]] — el progreso del conocimiento de Dios

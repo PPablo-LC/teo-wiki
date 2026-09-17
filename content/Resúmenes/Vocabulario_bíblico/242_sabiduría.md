@@ -33,13 +33,13 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[poder]] — la sabiduría es un soplo del poder divino
 - [[gloria]] — efusión de la gloria del todopoderoso
 - [[luz]] — reflejo de la luz eterna
-- [[imagen]] — espejo de la actividad de Dios, imagen de su excelencia
+- [[imagen_de_dios]] — espejo de la actividad de Dios, imagen de su excelencia
 - [[árbol]] — la sabiduría se instala en Israel como árbol de vida
 - [[juicio]] — la sabiduría anuncia el juicio de los despreocupados
 - [[creación]] — presente en la creación, retozaba a los lados de Dios
 - [[revelación]] — la sabiduría cristiana es revelación del misterio de Dios
 - [[hijo]] — el Hijo es la sabiduría del Padre
-- [[siervo_de_yahveh]] — Jesús pasa por el sufrimiento del siervo de Yahveh
+- [[siervo_de_yahvé]] — Jesús pasa por el sufrimiento del siervo de Yahveh
 - [[mesías]] — el rey hijo de David poseerá la sabiduría del Espíritu
 - [[ensenar]] — la manera de enseñar de Jesús recuerda a los maestros de sabiduría
 - [[parábola]] — Jesús adopta los géneros sapienciales (proverbios, parábolas)
@@ -89,7 +89,7 @@ Escribas postexílicos la personifican: amada *Eclo 14,22ss*, madre *14,26s*, es
 
 #### La sabiduría divina.
 
-No mera figura: la sabiduría humana tiene fuente divina. Dios es el sabio por excelencia. La sabiduría existe desde siempre *Prov 8,22-26* *Eclo 24,9*. Brota de la boca del Altísimo como su hálito o [[palabra_de_dios|palabra]] *Eclo 24,3*. Es «un soplo del [[poder]] divino, una efusión de la [[gloria]] del todopoderoso, un reflejo de la [[luz]] eterna, un espejo de la actividad de Dios, una [[imagen]] de su excelencia» *Sab 7,25s*. Habita en el cielo *Eclo 24,4*, comparte el trono de Dios *Sab 9,4*, vive en su intimidad *8,3*.
+No mera figura: la sabiduría humana tiene fuente divina. Dios es el sabio por excelencia. La sabiduría existe desde siempre *Prov 8,22-26* *Eclo 24,9*. Brota de la boca del Altísimo como su hálito o [[palabra_de_dios|palabra]] *Eclo 24,3*. Es «un soplo del [[poder]] divino, una efusión de la [[gloria]] del todopoderoso, un reflejo de la [[luz]] eterna, un espejo de la actividad de Dios, una [[imagen_de_dios]] de su excelencia» *Sab 7,25s*. Habita en el cielo *Eclo 24,4*, comparte el trono de Dios *Sab 9,4*, vive en su intimidad *8,3*.
 
 #### La actividad de la sabiduría.
 

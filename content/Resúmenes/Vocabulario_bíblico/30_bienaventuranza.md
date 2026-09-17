@@ -35,7 +35,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[obras]] — las obras de justicia como cortejo de la pobreza
 - [[humildad]] — la humildad como bienaventuranza
 - [[mansedumbre]] — la mansedumbre como bienaventuranza
-- [[puro]] — la pureza como bienaventuranza
+- [[pureza]] — la pureza como bienaventuranza
 - [[misericordia]] — la misericordia como bienaventuranza
 - [[persecucion]] — la persecución por amor de Cristo como bienaventuranza
 - [[testimonio]] — el testimonio como camino de bienaventuranza

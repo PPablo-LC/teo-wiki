@@ -18,10 +18,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[lepra]] — la clasificación vaga de las afecciones
 - [[ira]] — la enfermedad como signo de la ira de Dios
 - [[alianza]] — la enfermedad como maldición de la alianza
-- [[siervo_de_yahveh]] — el justo doliente cuyas llagas curan
+- [[siervo_de_yahvé]] — el justo doliente cuyas llagas curan
 - [[milagro]] — la curación como milagro y signo
 - [[fe]] — la fe como condición de la curación
-- [[reino]] — la curación como signo del reino de Dios
+- [[reino_de_dios]] — la curación como signo del reino de Dios
 - [[Espíritu]] — la unción y los carismas de curación
 - [[sufrimiento]] — la enfermedad integrada en el orden de la salvación
 
@@ -39,11 +39,11 @@ Las observaciones médicas son muy someras, limitadas a afecciones de la piel, h
 
 ##### 2. En un mundo en que todo depende de la causalidad divina, la enfermedad no es excepción.
 
-Es un golpe de Dios que hiere al hombre *Ex 4,6* *Job 16,12ss*. En dependencia de Dios se reconoce también la intervención de seres superiores: el ángel exterminador *2Sa 24,15ss*, las plagas personificadas *Sal 91,5s*, [[Satán]] *Job 2,7*. En el judaísmo postexílico la atención se dirige cada vez más a la acción de los [[demonios]]. Pero ¿por qué esta presencia del mal acá abajo, si Dios es el señor absoluto?
+Es un golpe de Dios que hiere al hombre *Ex 4,6* *Job 16,12ss*. En dependencia de Dios se reconoce también la intervención de seres superiores: el ángel exterminador *2Sa 24,15ss*, las plagas personificadas *Sal 91,5s*, [[satanás]] *Job 2,7*. En el judaísmo postexílico la atención se dirige cada vez más a la acción de los [[demonios]]. Pero ¿por qué esta presencia del mal acá abajo, si Dios es el señor absoluto?
 
 ##### 3. El nexo entre enfermedad y pecado.
 
-La revelación bíblica no contradice este nexo; lo precisa. Dios creó al hombre para la felicidad *Gen 2*. La enfermedad no entró en el mundo sino como consecuencia del pecado *Gen 3,16-19*. Es uno de los signos de la [[ira]] de Dios contra un mundo pecador *Ex 9,1-12*. En el marco de la [[alianza]], es una de las maldiciones principales contra el pueblo infiel *Dt 28,21s*. La demanda de curación va siempre acompañada de una confesión de faltas *Sal 38,2-6*. Sin embargo, no toda enfermedad tiene por causa el pecado personal. Cuando aflige a los justos, puede ser una prueba providencial *Tob 12,13*. En el caso del [[siervo_de_yahveh]], adquiere valor de [[expiacion|expiación]] *Is 53,4s*.
+La revelación bíblica no contradice este nexo; lo precisa. Dios creó al hombre para la felicidad *Gen 2*. La enfermedad no entró en el mundo sino como consecuencia del pecado *Gen 3,16-19*. Es uno de los signos de la [[ira]] de Dios contra un mundo pecador *Ex 9,1-12*. En el marco de la [[alianza]], es una de las maldiciones principales contra el pueblo infiel *Dt 28,21s*. La demanda de curación va siempre acompañada de una confesión de faltas *Sal 38,2-6*. Sin embargo, no toda enfermedad tiene por causa el pecado personal. Cuando aflige a los justos, puede ser una prueba providencial *Tob 12,13*. En el caso del [[siervo_de_yahvé]], adquiere valor de [[expiacion|expiación]] *Is 53,4s*.
 
 #### II. LA CURACIÓN
 
@@ -65,7 +65,7 @@ En el mundo nuevo, Dios colocará a los suyos donde nada ya de enfermos *Is 35,5
 
 ##### 1. A lo largo de todo su ministerio halla Jesús enfermos en su camino.
 
-Sin interpretar la enfermedad en perspectiva estrecha de retribución *Jn 9,2s*, ve en ella un mal, una consecuencia del pecado, un signo del poder de [[Satán]] *Lc 13,16*. Siente piedad *Mt 20,34*, y esta piedad inspira su acción. «Expulsa a los espíritus y cura a los que están enfermos» *Mt 8,16 p*. Las dos cosas significan el triunfo de Jesús sobre Satán y la instauración del [[reino]] de Dios *Mt 11,5 p*. Manifiesta una sola exigencia: que crean, pues todo es posible a la [[fe]] *Mt 9,28* *Mc 5,36 p*.
+Sin interpretar la enfermedad en perspectiva estrecha de retribución *Jn 9,2s*, ve en ella un mal, una consecuencia del pecado, un signo del poder de [[satanás]] *Lc 13,16*. Siente piedad *Mt 20,34*, y esta piedad inspira su acción. «Expulsa a los espíritus y cura a los que están enfermos» *Mt 8,16 p*. Las dos cosas significan el triunfo de Jesús sobre Satán y la instauración del [[reino_de_dios]] de Dios *Mt 11,5 p*. Manifiesta una sola exigencia: que crean, pues todo es posible a la [[fe]] *Mt 9,28* *Mc 5,36 p*.
 
 ##### 2. Los milagros de curación anticipan el estado de perfección del Reino.
 

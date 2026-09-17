@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization_and_culture", "conversión", "eucaristía"]
 ## Conceptos básicos referenciados
 
 - [[eucaristía]] — la Presencia Real como centro de la conversión
-- [[iglesia_católica]] — la Iglesia como cuerpo orgánico con autoridad magisterial
+- [[iglesia]] — la Iglesia como cuerpo orgánico con autoridad magisterial
 - [[conversión]] — camino gradual de protestantismo al catolicismo
 
 ## Contenido

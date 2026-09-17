@@ -34,9 +34,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[paraiso]] — el paraíso primitivo
 - [[juicio]] — el juicio final
 - [[muerte]] — la muerte entra por el pecado
-- [[reino]] — el reinado de Dios
+- [[reino_de_dios]] — el reinado de Dios
 - [[pecado]] — el pecado del mundo
-- [[satan]] — el príncipe de este mundo
+- [[satanás]] — el príncipe de este mundo
 - [[anticristo]] — el espíritu del anticristo
 - [[locura]] — la sabiduría del mundo como locura
 - [[paz]] — la falsa paz del mundo
@@ -61,7 +61,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[persecucion]] — la persecución por el mundo
 - [[paraclito]] — el Paráclito, Espíritu de verdad
 - [[gozo]] — el gozo en el universo renovado
-- [[dia_domini]] — el día de la discriminación definitiva
+- [[día_del_señor]] — el día de la discriminación definitiva
 
 ## Contenido
 
@@ -105,7 +105,7 @@ Así también se prepara para el mundo *una renovación profunda* que los textos
 
 ### 3. Mundo presente y mundo venidero
 
-El judaísmo contemporáneo del NT, prolongando estos anuncios misteriosos, se representaba el término de la historia humana como un paso del mundo (o del siglo) presente al mundo (o al siglo) venidero. El mundo presente es el mundo en que nos hallamos desde que, por la envidia del diablo (y el pecado del hombre), la [[muerte|muerte]] hizo su entrada en él *Sab 2,24*. El mundo venidero es el mundo que aparecerá cuando venga Dios a establecer su [[reino|reinado]]. Entonces las realidades del mundo presente, purificadas como el hombre mismo, recobrarán su perfección primitiva: serán verdaderamente transfiguradas a imagen de las realidades celestiales.
+El judaísmo contemporáneo del NT, prolongando estos anuncios misteriosos, se representaba el término de la historia humana como un paso del mundo (o del siglo) presente al mundo (o al siglo) venidero. El mundo presente es el mundo en que nos hallamos desde que, por la envidia del diablo (y el pecado del hombre), la [[muerte|muerte]] hizo su entrada en él *Sab 2,24*. El mundo venidero es el mundo que aparecerá cuando venga Dios a establecer su [[reino_de_dios|reinado]]. Entonces las realidades del mundo presente, purificadas como el hombre mismo, recobrarán su perfección primitiva: serán verdaderamente transfiguradas a imagen de las realidades celestiales.
 
 ## NT
 
@@ -155,4 +155,4 @@ Pero el mundo se alzará contra ellos, como en otro tiempo contra Jesús *1Jn 15
 
 ### En espera del último día
 
-Mientras dure el siglo presente no hay que esperar que desaparezca esta tensión entre el mundo y los cristianos. Hasta el [[dia_domini|día]] de la discriminación definitiva, los súbditos del reino y los súbditos del maligno seguirán mezclados como la cizaña y el trigo en el campo de Dios, que es el mundo *Mt 13,38ss*. Pero desde ahora comienza a operarse el [[juicio|juicio]] en lo secreto de los corazones *Jn 3,18-21*; ya no tendrá más que hacerse público el día en que Dios juzgue al mundo *Rom 3,6* asociando sus fieles a su actividad de Juez *1Cor 6,2*. Entonces desaparecerá definitivamente el mundo presente, conforme a los oráculos proféticos, mientras que la humanidad regenerada hallará el [[gozo|gozo]] en un universo renovado *Ap 21*.
+Mientras dure el siglo presente no hay que esperar que desaparezca esta tensión entre el mundo y los cristianos. Hasta el [[día_del_señor|día]] de la discriminación definitiva, los súbditos del reino y los súbditos del maligno seguirán mezclados como la cizaña y el trigo en el campo de Dios, que es el mundo *Mt 13,38ss*. Pero desde ahora comienza a operarse el [[juicio|juicio]] en lo secreto de los corazones *Jn 3,18-21*; ya no tendrá más que hacerse público el día en que Dios juzgue al mundo *Rom 3,6* asociando sus fieles a su actividad de Juez *1Cor 6,2*. Entonces desaparecerá definitivamente el mundo presente, conforme a los oráculos proféticos, mientras que la humanidad regenerada hallará el [[gozo|gozo]] en un universo renovado *Ap 21*.

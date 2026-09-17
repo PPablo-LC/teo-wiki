@@ -18,7 +18,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fe]] — la fe que garantiza la realidad del porvenir prometido
 - [[abraham]] — el padre de la fe y de la esperanza
 - [[resto]] — el resto que se salvará
-- [[reino]] — el reino de Dios anunciado por Jesús
+- [[reino_de_dios]] — el reino de Dios anunciado por Jesús
 - [[resurreccion]] — la esperanza de la resurrección
 - [[vida eterna]] — la vida eterna otorgada al creyente
 - [[reconciliacion]] — la esperanza de la reconciliación con Dios
@@ -48,7 +48,7 @@ Para los profetas la esperanza queda, pero no debe desaparecer: un [[resto]] se 
 
 ### Una nueva esperanza.
 
-Los profetas anuncian [[paz]], [[salvacion|salvación]], [[luz]], [[enfermedad_curacion|curación]], [[redencion|redención]]. Entrevén la renovación del [[paraiso|paraíso]], del [[exodo|éxodo]], de la [[alianza]], del [[reino]] de [[david]]. Suspiramos por el día en que Israel se verá lleno del [[conocimiento]] de Dios *Is 11,9* porque Dios habrá renovado los [[corazon|corazones]] *Jer 31,33ss*, mientras las [[naciones]] se convertirán *Is 2,3*. La cima del culto es la contemplación de Yahveh *Sal 63*. La esperanza de Israel y de las naciones es Dios mismo *Is 60,19s* y su reinado *Sal 96-99*.
+Los profetas anuncian [[paz]], [[salvacion|salvación]], [[luz]], [[enfermedad_y_curación|curación]], [[redencion|redención]]. Entrevén la renovación del [[paraiso|paraíso]], del [[exodo|éxodo]], de la [[alianza]], del [[reino_de_dios]] de [[david]]. Suspiramos por el día en que Israel se verá lleno del [[conocimiento]] de Dios *Is 11,9* porque Dios habrá renovado los [[corazon|corazones]] *Jer 31,33ss*, mientras las [[naciones]] se convertirán *Is 2,3*. La cima del culto es la contemplación de Yahveh *Sal 63*. La esperanza de Israel y de las naciones es Dios mismo *Is 60,19s* y su reinado *Sal 96-99*.
 
 #### III. LA ESPERANZA DE LA SALVACIÓN PERSONAL Y EL MÁS ALLÁ
 
@@ -60,11 +60,11 @@ La esperanza judía del tiempo de Jesús esperaba un porvenir material y espirit
 
 #### I. LA ESPERANZA DE ISRAEL REALIZADA EN JESÚS
 
-Jesús proclama la venida del [[reino]] *Mt 4,17*, realidad espiritual sólo accesible a la fe. Pide a sus discípulos que acepten el [[sufrimiento]] y la [[muerte]] *Mt 16,24ss*. El reino, ya presente, es todavía futuro; la esperanza continúa orientada únicamente hacia la vida eterna *18,8s*, hacia la venida gloriosa del [[Hijo]] del hombre *16,27*. Mientras llega ese día, la Iglesia debe acabar de realizar la esperanza de los profetas abriendo a las naciones su reino y su esperanza *8,11s* *28,19*.
+Jesús proclama la venida del [[reino_de_dios]] *Mt 4,17*, realidad espiritual sólo accesible a la fe. Pide a sus discípulos que acepten el [[sufrimiento]] y la [[muerte]] *Mt 16,24ss*. El reino, ya presente, es todavía futuro; la esperanza continúa orientada únicamente hacia la vida eterna *18,8s*, hacia la venida gloriosa del [[Hijo]] del hombre *16,27*. Mientras llega ese día, la Iglesia debe acabar de realizar la esperanza de los profetas abriendo a las naciones su reino y su esperanza *8,11s* *28,19*.
 
 #### II. JESUCRISTO, ESPERANZA DE LA IGLESIA
 
-La esperanza de la Iglesia es una esperanza colmada: el don del Espíritu acabó de cumplir las [[promesas]] *Act 2,33.39*. Toda su fuerza se concentra en la espera de la vuelta de Jesús *11,11*, la [[dia_domini|parusía]] *1Tes 2,19*, parece próxima *Sant 5,8* y fácilmente se muestra extrañeza de que tarde *2Pe 3,8ss*; vendrá «como un ladrón de noche» *1Tes 5,1ss*. Esta incertidumbre exige [[velar]] con paciencia *Sant 5,7ss*. La esperanza es gozosa *Rom 12,12*, engendra la sobriedad *1Tes 5,8* y el desasimiento *1Cor 7,29ss*, suscita la [[oracion|oración]] y el [[amor]] fraterno *1Pe 4,7s*. Fijada en el mundo venidero *Heb 6,18*, anima toda la vida cristiana.
+La esperanza de la Iglesia es una esperanza colmada: el don del Espíritu acabó de cumplir las [[promesas]] *Act 2,33.39*. Toda su fuerza se concentra en la espera de la vuelta de Jesús *11,11*, la [[día_del_señor|parusía]] *1Tes 2,19*, parece próxima *Sant 5,8* y fácilmente se muestra extrañeza de que tarde *2Pe 3,8ss*; vendrá «como un ladrón de noche» *1Tes 5,1ss*. Esta incertidumbre exige [[velar]] con paciencia *Sant 5,7ss*. La esperanza es gozosa *Rom 12,12*, engendra la sobriedad *1Tes 5,8* y el desasimiento *1Cor 7,29ss*, suscita la [[oracion|oración]] y el [[amor]] fraterno *1Pe 4,7s*. Fijada en el mundo venidero *Heb 6,18*, anima toda la vida cristiana.
 
 #### III. LA DOCTRINA PAULINA DE LA ESPERANZA
 

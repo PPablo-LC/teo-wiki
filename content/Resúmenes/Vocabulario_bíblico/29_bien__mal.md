@@ -15,13 +15,13 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[vida]] — la vida como bien y la muerte como mal
-- [[enfermedad_curacion]] — la enfermedad como forma de mal
+- [[enfermedad_y_curación]] — la enfermedad como forma de mal
 - [[sufrimiento]] — el sufrimiento en todas sus formas
 - [[muerte]] — la muerte como mal por excelencia
 - [[creacion]] — la bondad objetiva de las criaturas en relación con Dios creador
 - [[conocer]] — el árbol del conocimiento del bien y del mal
-- [[prueba_tentacion]] — la prueba decisiva de la libertad
-- [[liberacion_libertad]] — la libertad como capacidad de elección
+- [[prueba_y_tentación]] — la prueba decisiva de la libertad
+- [[liberación_y_libertad]] — la libertad como capacidad de elección
 - [[ley]] — la ley de Dios como camino del bien
 - [[voluntad_de_dios]] — conformarse con la voluntad de Dios
 - [[pecado]] — el pecado como elección del mal fuera de la voluntad de Dios

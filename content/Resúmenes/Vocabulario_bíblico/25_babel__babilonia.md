@@ -25,11 +25,11 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[cautividad]] — la cautividad donde recogerá Dios el resto de su pueblo
 - [[numeros]] — los 70 años predichos como número convencional
 - [[exodo]] — el retorno de Babilonia como un nuevo éxodo
-- [[dia_domini]] — el día de Yahveh contra Babilonia
+- [[día_del_señor]] — el día de Yahveh contra Babilonia
 - [[venganza]] — la venganza de Yahveh contra los dioses de Babilonia
 - [[jerusalen]] — Jerusalén frente a Babilonia como las dos ciudades
-- [[satan]] — Babilonia como ciudad de Satán
-- [[bestia_bestias]] — la bestia sobre la que se sienta la prostituta babilónica
+- [[satanás]] — Babilonia como ciudad de Satán
+- [[bestia]] — la bestia sobre la que se sienta la prostituta babilónica
 - [[anticristo]] — Babilonia haciendo causa común con el anticristo
 - [[naciones]] — las naciones pecadoras que encarnan el misterio de Babilonia
 

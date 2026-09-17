@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tristeza
 tags: ["moral", "ascética"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-17
 description: "La tristeza espiritual —y particularmente la [[acedia]]— es una aflicción del alma que nace de la percepción del mal presente o de la ausencia del bien, especialmente del bien espiritual."
 ---
 # Tristeza
 
 > Área: Moral / Ascética
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-17
 
 ## Definición
 
@@ -62,6 +62,10 @@ TPCr trata la tristeza como uno de los pecados capitales. La acedia es el pecado
 
 **La tristeza que no renuncia a la esperanza (cap. VII).** Adorno en los *Minima moralia* describe la «ambivalencia de la mestizia»: la verdad de la elección nihilista no es separable de la «obsesión» —la experiencia elemental— de que de las apariencias emerja la salvación; y en el énfasis del *Senza* de la esperanza impotente, la falta es la esencia de la esperanza (conocida como «esperanza impotente») que permite respirar, es decir, vivir (SR, `14_capitolo_settimo.md`, §16-30).
 
+### Según Affezione e dimora (AED)
+
+**La tristeza lúcida del sincero (AED 24).** Giussani, en la *Tischrede* 179 (*Deve prevalere una tristezza*), afirma que «si se es sincero, debe prevalecer una tristeza»: cuanto más preferencial es el otro y más te presiona, más trágica es la experiencia de la incapacidad de corresponder. Es la tristeza realista ante el mundo —no una virtud, sino la mirada lúcida— que no se resuelve en la desesperación, porque el hombre está en un camino en cuyo fondo un Otro le iluminará la respuesta (Is 43,19; Gv 14,6). No es la acedia: es la constatación trágica de que se debe a un Dios preferente al que no puede bastar por sí mismo (AED `24_preferenza_e_segno.md`, §Deve prevalere una tristezza).
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[acedia]], la [[pereza]], el [[desaliento]], la [[alegría]] (virtud opuesta), la [[esperanza]], la [[tibieza]], la [[tristeza]] del mundo (que lleva a la muerte) y la [[contrición]] (tristeza buena).
@@ -76,3 +80,4 @@ Se relaciona con la [[acedia]], la [[pereza]], el [[desaliento]], la [[alegría]
 - TPCr, Tratado de los pecados capitales
 - SmTh Ia-IIae q.35-39
 - SmTh IIIª q.15 a.6
+- AED `24_preferenza_e_segno.md`, §Deve prevalere una tristezza

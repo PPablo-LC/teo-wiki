@@ -40,9 +40,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[luz]] — la herencia en la luz
 - [[figura]] — Canaán, figura de la ciudad celestial
 - [[salvacion]] — la herencia es la salvación
-- [[reino]] — la herencia es el reino de Dios
+- [[reino_de_dios]] — la herencia es el reino de Dios
 - [[vida]] — la vida eterna
-- [[imagen]] — transformado a imagen de Cristo
+- [[imagen_de_dios]] — transformado a imagen de Cristo
 
 ## Contenido
 
@@ -102,6 +102,6 @@ Tal es, en efecto, el estado actual de los cristianos: hijos adoptivos de Dios p
 
 #### II. La herencia prometida
 
-La herencia que «Dios procura a los hombres con los santificados» *Act 20,32*, «la herencia entre los santos» en la [[luz|luz]] *Ef 1,18* revela por lo mismo su verdadera naturaleza. La tierra de Canaán no era el objeto adecuado de las promesas; no era sino una [[figura|figura]] de la ciudad celestial *Heb 11,8ss*. La herencia «preparada» por el Padre a sus elegidos «desde el comienzo del mundo» *Mt 25,34*, es la [[gracia|gracia]] *1Pe 3,7*, es la [[salvacion|salvación]] *Heb 1,14*, es el [[reino|reino]] de Dios *Mt 25,34* *1Cor 6,9* *15,50* *Sant 2,5*, es la [[vida|vida]] eterna *Mt 19,29* *Tit 3,7*.
+La herencia que «Dios procura a los hombres con los santificados» *Act 20,32*, «la herencia entre los santos» en la [[luz|luz]] *Ef 1,18* revela por lo mismo su verdadera naturaleza. La tierra de Canaán no era el objeto adecuado de las promesas; no era sino una [[figura|figura]] de la ciudad celestial *Heb 11,8ss*. La herencia «preparada» por el Padre a sus elegidos «desde el comienzo del mundo» *Mt 25,34*, es la [[gracia|gracia]] *1Pe 3,7*, es la [[salvacion|salvación]] *Heb 1,14*, es el [[reino_de_dios|reino]] de Dios *Mt 25,34* *1Cor 6,9* *15,50* *Sant 2,5*, es la [[vida|vida]] eterna *Mt 19,29* *Tit 3,7*.
 
-Estas expresiones subrayan el carácter trascendente de la herencia. No está al alcance «de la [[carne|carne]] y de la sangre», exige un ser que esté transformado a [[imagen|imagen]] de Cristo *1Cor 15,49s*. En cuanto es [[reino|reino]], es una participación en su realeza universal *Mt 5,4* *25,34* *Rom 4,13*, comp. con *Gen 15* y *Sal 2,8*. En cuanto es [[vida|vida]] eterna, es participación de la vida de Cristo resucitado *1Cor 15,45-50*, y consiguientemente de la vida de Dios mismo. Tendremos perfectamente acceso a ella más allá de la muerte, cuando nos reunamos con Cristo en su gloria. Actualmente sólo lo tenemos en [[esperanza|esperanza]] *Tit 3,7*; sin embargo, el Espíritu Santo, que nos ha sido dado, constituye ya sus arras *Ef 1,14* en espera de que en la parusía nos procure Cristo su posesión perfecta.
+Estas expresiones subrayan el carácter trascendente de la herencia. No está al alcance «de la [[carne|carne]] y de la sangre», exige un ser que esté transformado a [[imagen_de_dios|imagen]] de Cristo *1Cor 15,49s*. En cuanto es [[reino_de_dios|reino]], es una participación en su realeza universal *Mt 5,4* *25,34* *Rom 4,13*, comp. con *Gen 15* y *Sal 2,8*. En cuanto es [[vida|vida]] eterna, es participación de la vida de Cristo resucitado *1Cor 15,45-50*, y consiguientemente de la vida de Dios mismo. Tendremos perfectamente acceso a ella más allá de la muerte, cuando nos reunamos con Cristo en su gloria. Actualmente sólo lo tenemos en [[esperanza|esperanza]] *Tit 3,7*; sin embargo, el Espíritu Santo, que nos ha sido dado, constituye ya sus arras *Ef 1,14* en espera de que en la parusía nos procure Cristo su posesión perfecta.

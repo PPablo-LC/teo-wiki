@@ -72,7 +72,7 @@ Los resúmenes estructurados están en `wiki/Resúmenes/Informe-2020-legionarios
 
 ## Ver también
 
-[[informe_anual_2020]], [[conversión_reparación_proteger_y_sanar]], [[proteger_y_sanar]], [[informe_1941_2019]], [[ambientes_seguros]], [[eshmá]], [[praesidium]], [[justicia_restaurativa]], [[reparación_integral]], [[abusos_de_autoridad]], [[congregación_para_la_doctrina_de_la_fe]]
+[[informe_anual_2020]], [[conversión_reparación_proteger_y_sanar]], [[proteger_y_sanar]], [[informe_1941_2019]], [[ambientes_seguros]], [[eshmá]], [[praesidium]], [[justicia_restaurativa]], [[reparación_integral]], [[abusos_de_autoridad]], [[dicasterio_para_la_doctrina_de_la_fe]]
 
 ## Referencias
 

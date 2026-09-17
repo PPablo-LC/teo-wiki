@@ -30,7 +30,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[agua]] — el agua, vida primordial
 - [[consolacion]] — la consolación en Noé
 - [[primicias]] — Noé, primicias de una nueva humanidad
-- [[babel_babilonia]] — la maldición que destruye Babel
+- [[babel]] — la maldición que destruye Babel
 - [[dispersion]] — la dispersión de los humanos confabulados
 - [[abraham]] — Abraham, reunión de los pueblos
 - [[esterilidad]] — la doble maldición del seno estéril
@@ -68,7 +68,7 @@ De Adán a Abraham se extiende la maldición: muerte, cuyo autor es el hombre mi
 
 ## II. Los patriarcas: maldición sobre los enemigos de Israel
 
-Mientras la maldición destruye a [[babel_babilonia|Babel]] y [[dispersion|dispersa]] a los humanos confabulados contra Dios *Gen 11,7*, suscita Dios a [[abraham|Abraham]] para reunir a todos los pueblos en torno a él y a su descendencia, para su bendición o su maldición *12,1ss*. Mientras que la bendición sustrae al linaje elegido a la doble maldición del seno [[esterilidad|estéril]] *15,5s* *30,1s* y de la [[tierra|tierra]] hostil *27,27s* *49,11s.2-26*, la maldición que se acarrean los adversarios de la raza elegida los expulsa «lejos de las tierras fértiles... y del rocío que cae del cielo» *27,39*; la maldición viene a ser reprobación, exclusión de la única bendición. «¡Maldito sea el que te maldiga!»: Faraón *Ex 12,29-32*, luego Balac *Num 24,9* pasan por esta experiencia. Para colmo de la ironía, el Faraón se ve reducido a suplicar a los hijos de Israel «que invoquen sobre [él] la bendición» de su Dios *Ex 12,32*.
+Mientras la maldición destruye a [[babel|Babel]] y [[dispersion|dispersa]] a los humanos confabulados contra Dios *Gen 11,7*, suscita Dios a [[abraham|Abraham]] para reunir a todos los pueblos en torno a él y a su descendencia, para su bendición o su maldición *12,1ss*. Mientras que la bendición sustrae al linaje elegido a la doble maldición del seno [[esterilidad|estéril]] *15,5s* *30,1s* y de la [[tierra|tierra]] hostil *27,27s* *49,11s.2-26*, la maldición que se acarrean los adversarios de la raza elegida los expulsa «lejos de las tierras fértiles... y del rocío que cae del cielo» *27,39*; la maldición viene a ser reprobación, exclusión de la única bendición. «¡Maldito sea el que te maldiga!»: Faraón *Ex 12,29-32*, luego Balac *Num 24,9* pasan por esta experiencia. Para colmo de la ironía, el Faraón se ve reducido a suplicar a los hijos de Israel «que invoquen sobre [él] la bendición» de su Dios *Ex 12,32*.
 
 ## III. La ley: maldición sobre Israel culpable
 

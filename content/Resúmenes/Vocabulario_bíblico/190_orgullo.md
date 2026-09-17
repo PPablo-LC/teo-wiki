@@ -20,7 +20,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[soberbia]] — la soberbia, caricatura del orgullo
 - [[humildad]] — la humildad compatible con el orgullo
 - [[maria]] — la Virgen María en el Magníficat
-- [[liberacion_libertad]] — la libertad, afinidad de la *parresía*
+- [[liberación_y_libertad]] — la libertad, afinidad de la *parresía*
 - [[rostro]] — tener el rostro levantado
 - [[confianza]] — la confianza, irradiación del orgullo
 - [[gloria]] — la gloria noble o vana
@@ -37,7 +37,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[hijo]] — Cristo, Hijo de Dios
 - [[mundo]] — la publicidad del mundo
 - [[paraclito]] — el Paráclito que dirá todo claro
-- [[dia_domini]] — ese día todo será dicho
+- [[día_del_señor]] — ese día todo será dicho
 - [[autoridad]] — las autoridades establecidas
 - [[sangre]] — la sangre de Jesús
 - [[gracia]] — el trono de la gracia
@@ -51,7 +51,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 Los griegos, para liberarse del sentimiento de inferioridad, recurrían con frecuencia a una sabiduría completamente humana; la Biblia funda el orgullo del hombre en su condición de criatura y de hijo de Dios: el hombre, a menos que sea [[esclavo|esclavo]] del [[pecado|pecado]], no puede tener [[verguenza|vergüenza]] delante de Dios ni delante de los hombres. El orgullo auténtico no tiene nada que ver con la [[soberbia|soberbia]], que es su caricatura; este orgullo es perfectamente compatible con la [[humildad|humildad]]. Así la Virgen [[maria|María]] al cantar el *Magníficat* tiene plenamente conciencia de su valor, de un valor creado por Dios solo, y lo proclama a la faz de todas las generaciones *Lc 1,46-50*.
 
-La Biblia no tiene término propio para designar este orgullo; pero lo caracteriza partiendo de dos actitudes. Una, siempre noble, a la que los traductores griegos llaman *parresía*, tiene afinidad con la [[liberacion_libertad|libertad]]; los hebreos la describen sirviéndose de una perífrasis: el hecho de mantenerse derecho, de tener el [[rostro|rostro]] levantado, de expresarse abiertamente; el orgullo se manifiesta en una plena libertad de lenguaje y de comportamiento. Deriva también de otra actitud emparentada con la [[confianza|confianza]], cuya irradiación es; los traductores griegos la denominan *kaukhesis*: es el hecho de gloriarse de alguna cosa o de apoyarse en ella para darse aplomo, para existir uno frente a sí mismo, frente a los otros, frente al mismo Dios; esta [[gloria|gloria]] puede ser noble o vana, según que se alimente en Dios o en el hombre.
+La Biblia no tiene término propio para designar este orgullo; pero lo caracteriza partiendo de dos actitudes. Una, siempre noble, a la que los traductores griegos llaman *parresía*, tiene afinidad con la [[liberación_y_libertad|libertad]]; los hebreos la describen sirviéndose de una perífrasis: el hecho de mantenerse derecho, de tener el [[rostro|rostro]] levantado, de expresarse abiertamente; el orgullo se manifiesta en una plena libertad de lenguaje y de comportamiento. Deriva también de otra actitud emparentada con la [[confianza|confianza]], cuya irradiación es; los traductores griegos la denominan *kaukhesis*: es el hecho de gloriarse de alguna cosa o de apoyarse en ella para darse aplomo, para existir uno frente a sí mismo, frente a los otros, frente al mismo Dios; esta [[gloria|gloria]] puede ser noble o vana, según que se alimente en Dios o en el hombre.
 
 ## AT
 
@@ -71,7 +71,7 @@ El restablecimiento del orgullo del justo no se verifica según los caminos del 
 
 ### El orgullo de Cristo
 
-Jesús, que sabe de dónde viene y adónde va, manifiesta su orgullo cuando se proclama [[hijo|Hijo]] de Dios. El cuarto evangelio presenta este comportamiento como una *parresía*. Jesús habló «abiertamente» al mundo *Jn 18,20s*, tanto que el pueblo se preguntaba si las autoridades no lo habían reconocido por el Cristo *7,25s*; pero como este hablar franco no tiene que ver con la publicidad estrepitosa del [[mundo|mundo]] *7,3-10*, no se le comprende, y debe cesar *11,54*; Jesús cede, pues, el puesto al [[paraclito|Paráclito]] que ese [[dia_domini|día]] dirá todo claro *16,13.25*. Aunque el término no se halla en los sinópticos sino a propósito del anuncio de la pasión *Mc 8,32*, sin embargo, describen comportamientos de Jesús que expresan la *parresía*. Así cuando reivindica frente a toda [[autoridad|autoridad]] los derechos del Hijo de Dios o de su Padre: frente a sus padres *Lc 2,49*, frente a los abusos impíos *Mt 21,12ss* *Jn 2,16*, frente a las autoridades establecidas *Mt 23*. Sin embargo, este orgullo no es nunca reivindicación de la honra personal, no busca sino la [[gloria|gloria]] del Padre *Jn 8,49s*.
+Jesús, que sabe de dónde viene y adónde va, manifiesta su orgullo cuando se proclama [[hijo|Hijo]] de Dios. El cuarto evangelio presenta este comportamiento como una *parresía*. Jesús habló «abiertamente» al mundo *Jn 18,20s*, tanto que el pueblo se preguntaba si las autoridades no lo habían reconocido por el Cristo *7,25s*; pero como este hablar franco no tiene que ver con la publicidad estrepitosa del [[mundo|mundo]] *7,3-10*, no se le comprende, y debe cesar *11,54*; Jesús cede, pues, el puesto al [[paraclito|Paráclito]] que ese [[día_del_señor|día]] dirá todo claro *16,13.25*. Aunque el término no se halla en los sinópticos sino a propósito del anuncio de la pasión *Mc 8,32*, sin embargo, describen comportamientos de Jesús que expresan la *parresía*. Así cuando reivindica frente a toda [[autoridad|autoridad]] los derechos del Hijo de Dios o de su Padre: frente a sus padres *Lc 2,49*, frente a los abusos impíos *Mt 21,12ss* *Jn 2,16*, frente a las autoridades establecidas *Mt 23*. Sin embargo, este orgullo no es nunca reivindicación de la honra personal, no busca sino la [[gloria|gloria]] del Padre *Jn 8,49s*.
 
 ### Orgullo y libertad del creyente
 

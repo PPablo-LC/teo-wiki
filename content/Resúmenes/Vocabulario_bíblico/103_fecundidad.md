@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[vida]] — transmitir la vida sobreviviendo en las generaciones
-- [[imagen]] — Adán creado a imagen del Hijo único
+- [[imagen_de_dios]] — Adán creado a imagen del Hijo único
 - [[generacion]] — la historia de las generaciones del hombre
 - [[bendicion]] — la palabra creadora y la bendición
 - [[madre]] — Eva, la madre de los vivientes
@@ -30,7 +30,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-Dios, cuya plenitud sobreabundante es fecundidad por encima de toda medida, creó a Adán a su [[imagen]], a la imagen del Hijo único que por sí solo agota la fecundidad divina y eterna. Para realizar este misterio el hombre, al transmitir la [[vida]], comunica al curso del tiempo su propia imagen, sobreviviendo así en las [[generacion|generaciones]].
+Dios, cuya plenitud sobreabundante es fecundidad por encima de toda medida, creó a Adán a su [[imagen_de_dios]], a la imagen del Hijo único que por sí solo agota la fecundidad divina y eterna. Para realizar este misterio el hombre, al transmitir la [[vida]], comunica al curso del tiempo su propia imagen, sobreviviendo así en las [[generacion|generaciones]].
 
 ### I. EL LLAMAMIENTO A LA FECUNDIDAD
 

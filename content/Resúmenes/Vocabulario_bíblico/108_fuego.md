@@ -17,21 +17,21 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[santo]] — la santidad divina en su doble aspecto, atractivo y temeroso
 - [[desierto]] — la experiencia fundamental en el desierto
 - [[elias]] — el profeta semejante al fuego
-- [[vocacion]] — la purificación en el momento de la vocación
+- [[vocación]] — la purificación en el momento de la vocación
 - [[labios]] — los labios purificados por un tizón de fuego
 - [[tormenta]] — la tormenta y el fuego se asocian al arco iris
 - [[nube]] — la nube luminosa del Éxodo
 - [[presencia_de_dios]] — el marco de la presencia divina
 - [[juicio]] — el fuego en la descripción del juicio
 - [[revelacion]] — revelación del Dios vivo
-- [[imagen]] — no hay lugar a representarlo con imágenes
+- [[imagen_de_dios]] — no hay lugar a representarlo con imágenes
 - [[pecado]] — la intransigencia de Dios frente al pecado
 - [[venganza]] — el fuego que venga la santidad divina
 - [[ira]] — la ira de Dios como fuego
 - [[resto]] — el resto de Israel, tizón arrancado del fuego
 - [[amor]] — el amor, llama de Yahveh
 - [[endurecimiento]] — el pecador endurecido
-- [[dia_domini]] — el día de Yahveh como fuego del fundidor
+- [[día_del_señor]] — el día de Yahveh como fuego del fundidor
 - [[tiempo]] — los últimos tiempos
 - [[bautismo]] — el bautismo en el espíritu y en el fuego
 - [[pentecostes]] — el fuego descendido en pentecostés
@@ -54,11 +54,11 @@ Una experiencia ulterior hecha en el mismo lugar ayuda a percibir mejor el valor
 
 ##### 2. La tradición profética.
 
-La tradición profética tiende también a situar en su lugar el signo del fuego en el simbolismo religioso. Isaías sólo ve humo en el momento de su [[vocacion|vocación]] y piensa que va a morir por haberse acercado a la santidad divina; pero al salir de la visión sus [[labios|labios]] han sido ya purificados por un tizón de fuego *Is 6*. En la visión inaugural de Ezequiel la [[tormenta|tormenta]] y el fuego se asocian al arco iris que brilla en las nubes, pero de allí surge una apariencia de hombre: esta evocación recuerda la [[nube|nube]] luminosa del Éxodo más que la teofanía del Sinaí *Ez 1*. En el apocalipsis de Daniel, el fuego forma parte del marco en que se manifiesta la [[presencia_de_dios|presencia]] divina *Dan 7,10*, pero, sobre todo, desempeña su papel en la descripción del [[juicio|juicio]] *7,11*.
+La tradición profética tiende también a situar en su lugar el signo del fuego en el simbolismo religioso. Isaías sólo ve humo en el momento de su [[vocación|vocación]] y piensa que va a morir por haberse acercado a la santidad divina; pero al salir de la visión sus [[labios|labios]] han sido ya purificados por un tizón de fuego *Is 6*. En la visión inaugural de Ezequiel la [[tormenta|tormenta]] y el fuego se asocian al arco iris que brilla en las nubes, pero de allí surge una apariencia de hombre: esta evocación recuerda la [[nube|nube]] luminosa del Éxodo más que la teofanía del Sinaí *Ez 1*. En el apocalipsis de Daniel, el fuego forma parte del marco en que se manifiesta la [[presencia_de_dios|presencia]] divina *Dan 7,10*, pero, sobre todo, desempeña su papel en la descripción del [[juicio|juicio]] *7,11*.
 
 ##### 3. Las tradiciones deuteronómica y sacerdotal.
 
-Al interpretar la teofanía del desierto precisaron el doble alcance del signo del fuego: [[revelacion|revelación]] del Dios vivo y exigencia de pureza del Dios santo. Desde el fuego habló Dios *Dt 4,12* *5,4.22.24* y dio las tablas de la ley *9,10*, a fin de hacer comprender que no hay lugar a representarlo con [[imagen|imágenes]]. Pero se trataba también de un fuego destructor *5,25* *18,16*, aterrador para el hombre *5,5*; sólo el elegido de Dios comprueba que ha podido afrontar su presencia sin morir *4,33*. Israel, una vez llegado a este estadio puede, sin exponerse a confundir a Dios con un elemento natural, mirar a su Dios como «un fuego devorador» *4,24* *6,15*; la expresión no hace sino transponer el tema de los celos divinos *Ex 20,5* *34,14* *Dt 5,9* *6,15*. El fuego simboliza la intransigencia de Dios frente al [[pecado|pecado]]; devora al que encuentra: de la misma manera Dios respecto al pecador endurecido. No sucede lo mismo con sus elegidos, pero de todas formas, debe transformar a quien entra en contacto con él.
+Al interpretar la teofanía del desierto precisaron el doble alcance del signo del fuego: [[revelacion|revelación]] del Dios vivo y exigencia de pureza del Dios santo. Desde el fuego habló Dios *Dt 4,12* *5,4.22.24* y dio las tablas de la ley *9,10*, a fin de hacer comprender que no hay lugar a representarlo con [[imagen_de_dios|imágenes]]. Pero se trataba también de un fuego destructor *5,25* *18,16*, aterrador para el hombre *5,5*; sólo el elegido de Dios comprueba que ha podido afrontar su presencia sin morir *4,33*. Israel, una vez llegado a este estadio puede, sin exponerse a confundir a Dios con un elemento natural, mirar a su Dios como «un fuego devorador» *4,24* *6,15*; la expresión no hace sino transponer el tema de los celos divinos *Ex 20,5* *34,14* *Dt 5,9* *6,15*. El fuego simboliza la intransigencia de Dios frente al [[pecado|pecado]]; devora al que encuentra: de la misma manera Dios respecto al pecador endurecido. No sucede lo mismo con sus elegidos, pero de todas formas, debe transformar a quien entra en contacto con él.
 
 #### II. EN EL TRANSCURSO DE LA HISTORIA
 
@@ -78,7 +78,7 @@ Los individuos mismos sacan provecho de esta experiencia religiosa. Ya el segund
 
 #### III. AL FIN DE LOS TIEMPOS
 
-El fuego del juicio viene a ser un castigo sin remedio, verdadero fuego de la [[ira|ira]], cuando cae sobre el pecador [[endurecimiento|endurecido]]. Pero entonces —tal es la fuerza del símbolo— este fuego que no puede ya consumir la impureza se ceba todavía en las escorias. La revelación expresa así lo que puede ser la existencia de una criatura que se niega a dejarse purificar por el fuego divino, pero queda abrasada por él. Esto dice más que la tradición que refiere el aniquilamiento de Sodoma y Gomorra *Gen 19,24*. Apoyándose quizás en las liturgias sacrílegas de la gehena *Lev 18,21* *2Re 16,3* *21,6* *Jer 7,31* *19,5s*, profundizando las imágenes proféticas del incendio y de la fundición de los metales, se pasa a representar como un fuego el [[juicio|juicio]] escatológico *Is 66,15s*. El fuego prueba el oro *Zac 13,9*. El [[dia_domini|día]] de Yahveh es como el fuego del fundidor *Sof 1,18* *Mal 3,2*, que arde como un horno *Mal 3,19*. Ahora bien, este fuego parece arder desde el interior, como el que «sale de en medio de Tiro» *Ez 28,18*. «El gusano» de los cadáveres rebeldes «no morirá y su fuego no se extinguirá» *Is 66,24*: «fuego y gusano estarán en su carne» *Jdt 16,17*. Pero también aquí descubrimos la ambivalencia del símbolo: mientras que los impíos son entregados a su fuego interior y a los gusanos *Eclo 7,17*, los salvados del fuego se ven rodeados por la muralla de fuego que es Yahveh para ellos *Is 4,4s* *Zac 2,9*. Jacob e Israel, purificados, se convierten a su vez en un fuego *Abd 1,18*, como si participaran de la vida de Dios.
+El fuego del juicio viene a ser un castigo sin remedio, verdadero fuego de la [[ira|ira]], cuando cae sobre el pecador [[endurecimiento|endurecido]]. Pero entonces —tal es la fuerza del símbolo— este fuego que no puede ya consumir la impureza se ceba todavía en las escorias. La revelación expresa así lo que puede ser la existencia de una criatura que se niega a dejarse purificar por el fuego divino, pero queda abrasada por él. Esto dice más que la tradición que refiere el aniquilamiento de Sodoma y Gomorra *Gen 19,24*. Apoyándose quizás en las liturgias sacrílegas de la gehena *Lev 18,21* *2Re 16,3* *21,6* *Jer 7,31* *19,5s*, profundizando las imágenes proféticas del incendio y de la fundición de los metales, se pasa a representar como un fuego el [[juicio|juicio]] escatológico *Is 66,15s*. El fuego prueba el oro *Zac 13,9*. El [[día_del_señor|día]] de Yahveh es como el fuego del fundidor *Sof 1,18* *Mal 3,2*, que arde como un horno *Mal 3,19*. Ahora bien, este fuego parece arder desde el interior, como el que «sale de en medio de Tiro» *Ez 28,18*. «El gusano» de los cadáveres rebeldes «no morirá y su fuego no se extinguirá» *Is 66,24*: «fuego y gusano estarán en su carne» *Jdt 16,17*. Pero también aquí descubrimos la ambivalencia del símbolo: mientras que los impíos son entregados a su fuego interior y a los gusanos *Eclo 7,17*, los salvados del fuego se ven rodeados por la muralla de fuego que es Yahveh para ellos *Is 4,4s* *Zac 2,9*. Jacob e Israel, purificados, se convierten a su vez en un fuego *Abd 1,18*, como si participaran de la vida de Dios.
 
 ### NT
 

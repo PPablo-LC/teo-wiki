@@ -17,7 +17,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[salvacion]] — la salvación, aspecto esencial del evangelio
 - [[redencion]] — la primera redención como liberación victoriosa
 - [[exilio]] — la ruina de Jerusalén y la deportación
-- [[babel_babilonia]] — la liberación de los deportados a Babilonia
+- [[babel]] — la liberación de los deportados a Babilonia
 - [[venganza]] — el góel que venga a un pariente asesinado
 - [[alianza]] — el vínculo de parentesco entre Yahveh e Israel
 - [[exodo]] — el primer éxodo
@@ -43,7 +43,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[servir]] — el servicio por la caridad
 - [[voluntad_de_dios]] — la soberanía de la voluntad de Dios
 - [[endurecimiento]] — el endurecimiento del Faraón
-- [[penitencia_conversion]] — la conversión
+- [[penitencia_y_conversión]] — la conversión
 
 ## Contenido
 
@@ -57,7 +57,7 @@ Un acontecimiento fundamental marcó los orígenes del pueblo elegido, su libera
 
 ### Dios, el «góel» de Israel
 
-Cuando las infidelidades del pueblo de Dios dieron por resultado la ruina de Jerusalén y el [[exilio|exilio]], la liberación de los judíos deportados a [[babel_babilonia|Babilonia]] fue una segunda redención, cuya buena nueva constituye el mensaje principal de *Is 40-55*. Yahveh, el Santo de Israel, es su «libertador», su *góel* *Is 43,14* *44,6.24* *47,4* *Jer 50,34*.
+Cuando las infidelidades del pueblo de Dios dieron por resultado la ruina de Jerusalén y el [[exilio|exilio]], la liberación de los judíos deportados a [[babel|Babilonia]] fue una segunda redención, cuya buena nueva constituye el mensaje principal de *Is 40-55*. Yahveh, el Santo de Israel, es su «libertador», su *góel* *Is 43,14* *44,6.24* *47,4* *Jer 50,34*.
 
 En el antiguo derecho hebreo, el *góel* es el pariente próximo, a quien incumbe el deber de defender a los suyos, ya se trate de mantener el patrimonio familiar *Lev 25,23ss*, de liberar a un «hermano» caído en esclavitud *Lev 25,26-49*, de proteger a una viuda *Rut 4,5* o de [[venganza|vengar]] a un pariente asesinado *Num 35,19ss*. El empleo del título de *góel* en *Is 40-55* sugiere la persistencia de un vínculo de parentesco entre Yahveh e Israel: por razón de la [[alianza|alianza]] contraída en tiempos del primer [[exodo|éxodo]] (ya *Ex 4,22*), la nación escogida es, a pesar de sus faltas, la [[esposo|esposa]] de Yahveh *Is 50,1*. Es manifiesto el paralelismo entre las dos liberaciones *Is 10,25ss* *40,3*; la segunda es gratuita no menos que la primera *Is 45,13* *52,3*, y la [[misericordia|misericordia]] de Dios aparece en ella todavía más, puesto que el exilio era el [[castigos|castigo]] de los pecados del pueblo.
 
@@ -107,6 +107,6 @@ La libertad no es licencia o libertinaje. «Hermanos, habéis sido llamados a la
 
 Ciertos textos bíblicos podrían dar la sensación de desconocer en el hombre la existencia de una real libertad de elección, dado lo mucho que los autores sagrados insisten en la soberanía de la [[voluntad_de_dios|voluntad]] de Dios *Is 6,9s* *Rom 8,28ss* *9,10-21* *11,33-36*. Pero aquí conviene tener en cuenta la tendencia que tiene el pensamiento semítico a enfocar directamente la causalidad divina, sin mencionar las causas segundas, que no por ello se niegan (*Ex 4,21* *7,13s*, a propósito del [[endurecimiento|endurecimiento]] del Faraón); por otra parte, conviene distinguir entre lo que Dios permite y lo que quiere con una voluntad formal (así a propósito de los «vasos de ira prontos para la perdición» y los «vasos de misericordia que ha preparado de antemano para la gloria»: *Rom 9,22s*). De la afirmación fundamental de «la libertad de elección divina» *Rom 9,11*, hay que guardarse bien de colegir el carácter ilusorio de la libertad del hombre.
 
-De hecho, toda la tradición bíblica considera al hombre capaz de ejercitar su libre albedrío: constantemente hace llamamiento a su poder de elección y al mismo tiempo subraya su responsabilidad, ya desde el relato del primer pecado *Gen 2-3* *4,7*. Al hombre toca elegir entre la bendición y la maldición, entre la vida y la muerte *Dt 11,26ss* *30,15-20*, [[penitencia_conversion|convertirse]], y esto hasta el término de su existencia *Ez 18,21-28* *Rom 11,22s* *1Cor 9,27*. A cada uno le corresponde entrar por el buen camino que conduce a la vida y perseverar en él *Mt 7,13s*. El Eclesiástico rechaza explícitamente las excusas del fatalista: «No digas: 'El Señor es quien me ha hecho pecar', pues no hace lo que detesta... Si quieres, guardarás los mandamientos: en tu mano está permanecer fiel» *Eclo 15,11.15* *Sant 1,13ss*. Si Pablo describe en términos sombríos la impotencia radical del hombre para escapar por sí mismo a la tiranía del [[pecado|pecado]] *Rom 7,14-23*, pone también en gran relieve el don de la [[gracia|gracia]] victoriosa *Rom 8*; ahora bien, la gracia, de una manera o de otra, es ofrecida a todos *Rom 2,12-16*; no se puede tachar a Dios de injusto *Rom 3,5-8* *9,19s*.
+De hecho, toda la tradición bíblica considera al hombre capaz de ejercitar su libre albedrío: constantemente hace llamamiento a su poder de elección y al mismo tiempo subraya su responsabilidad, ya desde el relato del primer pecado *Gen 2-3* *4,7*. Al hombre toca elegir entre la bendición y la maldición, entre la vida y la muerte *Dt 11,26ss* *30,15-20*, [[penitencia_y_conversión|convertirse]], y esto hasta el término de su existencia *Ez 18,21-28* *Rom 11,22s* *1Cor 9,27*. A cada uno le corresponde entrar por el buen camino que conduce a la vida y perseverar en él *Mt 7,13s*. El Eclesiástico rechaza explícitamente las excusas del fatalista: «No digas: 'El Señor es quien me ha hecho pecar', pues no hace lo que detesta... Si quieres, guardarás los mandamientos: en tu mano está permanecer fiel» *Eclo 15,11.15* *Sant 1,13ss*. Si Pablo describe en términos sombríos la impotencia radical del hombre para escapar por sí mismo a la tiranía del [[pecado|pecado]] *Rom 7,14-23*, pone también en gran relieve el don de la [[gracia|gracia]] victoriosa *Rom 8*; ahora bien, la gracia, de una manera o de otra, es ofrecida a todos *Rom 2,12-16*; no se puede tachar a Dios de injusto *Rom 3,5-8* *9,19s*.
 
 Los autores sagrados no hicieron desaparecer la aparente antinomia entre la soberanía divina y la libertad humana, pero dijeron bastante al afirmar que la gracia de Dios y la libre obediencia del hombre son ambas necesarias para la salvación. Pablo lo tiene por cierto en su propia vida *Act 22,6-10* *1Cor 15,10* como en la de todo cristiano *Flp 2,12s*. El misterio subsiste a nuestros ojos, pero Dios conoce el secreto de inclinar nuestro corazón sin violentarlo y de atraernos a sí sin forzarnos *Sal 119,36* *Ez 36,26s* *Os 2,16s* *Jn 6,44*.

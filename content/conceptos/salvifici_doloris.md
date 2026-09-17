@@ -16,7 +16,7 @@ timestamp: "2026-09-02"
 
 ## Definición
 
-*Salvifici Doloris* («Sufrimiento salvífico», 1984) es la carta apostólica de [[san_juan_pablo_ii]] sobre «el sentido cristiano del sufrimiento humano». Presenta el sufrimiento como una experiencia de transcendencia en la que el hombre está «destinado a ir más allá de sí mismo», cuyo único sentido pleno se halla en el amor, demostrado en la cruz de Cristo, y en la participación del cristiano en el sufrimiento redentor.
+*Salvifici Doloris* («Sufrimiento salvífico», 1984) es la carta apostólica de [[juan_pablo_ii]] sobre «el sentido cristiano del sufrimiento humano». Presenta el sufrimiento como una experiencia de transcendencia en la que el hombre está «destinado a ir más allá de sí mismo», cuyo único sentido pleno se halla en el amor, demostrado en la cruz de Cristo, y en la participación del cristiano en el sufrimiento redentor.
 
 ## Desarrollo doctrinal
 
@@ -40,7 +40,7 @@ La revista cita y desarrolla *Salvifici Doloris* en varios archivos:
 ## Relaciones doctrinales
 
 - [[sufrimiento_redentor]] — la participación en el sufrimiento de Cristo
-- [[san_juan_pablo_ii]] — su autor
+- [[juan_pablo_ii]] — su autor
 - [[cruz]] y [[misterio_pascual]] — el eje y clave del documento
 - [[parábola_del_buen_samaritano]] — la respuesta al sufrimiento (SD 28)
 - [[acompañamiento_pastoral]] — su aplicación pastoral
@@ -48,7 +48,7 @@ La revista cita y desarrolla *Salvifici Doloris* en varios archivos:
 
 ## Ver también
 
-[[sufrimiento_redentor]], [[san_juan_pablo_ii]], [[cruz]], [[misterio_pascual]], [[parábola_del_buen_samaritano]]
+[[sufrimiento_redentor]], [[juan_pablo_ii]], [[cruz]], [[misterio_pascual]], [[parábola_del_buen_samaritano]]
 
 ## Referencias
 

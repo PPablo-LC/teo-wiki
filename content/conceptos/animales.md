@@ -39,7 +39,7 @@ Sobre el sexto día se discuten dos cuestiones: (1) los animales generados por p
 - Animales como criaturas (revelación) vs. animales como dioses (paganismo)
 
 ## Relaciones doctrinales
-[[cordero_de_dios]], [[creación]], [[sacrificio]], [[puro]], [[bestia_bestias]]
+[[cordero_de_dios]], [[creación]], [[sacrificio]], [[pureza]], [[bestia]]
 
 ## Ver también
 [[hombre]], [[naturaleza_humana]], [[redención]]

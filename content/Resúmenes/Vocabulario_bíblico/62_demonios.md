@@ -14,19 +14,19 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[satan]] — Satán y sus satélites
-- [[enfermedad_curacion]] — la enfermedad atribuida a los demonios
+- [[satanás]] — Satán y sus satélites
+- [[enfermedad_y_curación]] — la enfermedad atribuida a los demonios
 - [[desierto]] — los lugares desiertos pueblados de presencias oscuras
 - [[angeles]] — los ángeles, combatientes de los demonios
 - [[idolos]] — la idolatría como culto a los demonios
 - [[guerra]] — la guerra de los astros
 - [[astros]] — la imaginería mítica de la guerra de los astros
-- [[bestia_bestias]] — las bestias personificando el mal
+- [[bestia]] — las bestias personificando el mal
 - [[mar]] — las bestias del mar
 - [[nombre]] — el nombre de Dios invocado en los exorcismos
 - [[mision]] — Jesús comunica a sus discípulos el poder sobre los demonios
-- [[reino]] — el reino de Dios al que se oponen los demonios
-- [[bestia_bestias]] — las doctrinas demoníacas y la bestia
+- [[reino_de_dios]] — el reino de Dios al que se oponen los demonios
+- [[bestia]] — las doctrinas demoníacas y la bestia
 
 ## Contenido
 

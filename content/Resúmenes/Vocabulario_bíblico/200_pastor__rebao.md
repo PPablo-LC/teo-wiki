@@ -24,8 +24,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[ira]] — la ira de Yahveh contra los malos pastores
 - [[visita]] — la visita de Yahveh
 - [[resto]] — el resto que sobrevivirá
-- [[siervo_de_yahveh]] — el siervo identificado con el pastor herido
-- [[reino]] — el reino prometido al pequeño rebaño
+- [[siervo_de_yahvé]] — el siervo identificado con el pastor herido
+- [[reino_de_dios]] — el reino prometido al pequeño rebaño
 - [[cordero_de_dios]] — el cordero que es también pastor
 - [[mediador]] — el mediador único
 - [[puerta]] — la puerta de acceso a las ovejas
@@ -52,7 +52,7 @@ En efecto, los pastores de Israel se han mostrado infieles a su [[misión|misió
 
 Sin embargo, después del exilio los pastores de la comunidad no responden a la expectativa de Yahveh, y Zacarías vuelve a la polémica contra ellos, anunciando la suerte del pastor venidero. Yahveh va a [[visita|visitar]] en su [[ira|ira]] a estos malos pastores *Zac 10,3* *11,4-17* y a blandir la espada *13,7*; un [[resto|resto]] sobrevivirá del Israel así purificado *13,8s*.
 
-El contexto de la profecía invita a ver en el pastor herido *13,7*, no al pastor insensato *11,15ss*, sino al «traspasado» *12,10*, cuya muerte ha sido salvadora *13,1-6*. Este pastor se identifica concretamente con el [[siervo_de_yahveh|siervo]] que, como una oveja muda, debe por su sacrificio justificar a las ovejas dispersas *Is 53,6s.11s*.
+El contexto de la profecía invita a ver en el pastor herido *13,7*, no al pastor insensato *11,15ss*, sino al «traspasado» *12,10*, cuya muerte ha sido salvadora *13,1-6*. Este pastor se identifica concretamente con el [[siervo_de_yahvé|siervo]] que, como una oveja muda, debe por su sacrificio justificar a las ovejas dispersas *Is 53,6s.11s*.
 
 ## NT
 
@@ -60,7 +60,7 @@ En la época de Cristo se juzgaba diversamente a los pastores. Se los asemejaba 
 
 ### Jesús, el buen pastor.
 
-Los Sinópticos ofrecen numerosos rasgos que anuncian la alegoría joánnica. Jesús se considera como enviado a las ovejas perdidas de Israel *Mt 15,24* *10,6* *Lc 19,10*. El «pequeño rebaño» de los discípulos que ha reunido *Lc 12,32* figura a la comunidad escatológica a la que está prometido el [[reino|reino]] de los santos *Dan 7,27*; será perseguido por los lobos de fuera *Mt 10,16* *Rom 8,36* y por los de dentro, disfrazados de ovejas *Mt 7,15*. Será dispersado, pero, según la profecía de Isaías y de Zacarías *Is 53,6* *Zac 13,7*, el pastor que habrá sido herido lo reunirá en la Galilea de las [[naciones|naciones]] *Mt 26,31s*. Finalmente, al atardecer del tiempo, el señor de las ovejas separará en el rebaño las buenas de las malas *Mt 25,31s*. Los escritores del NT presentan dentro de esta mentalidad «al gran pastor de las ovejas» *Heb 13,20*, más grande que Moisés, al «jefe de los pastores» *1Pe 5,4*, «al pastor y al guardián», que recondujo a las almas extraviadas curándolas con sus propias heridas *1Pe 2,24s*. Su nacimiento en Belén cumplió la profecía de Miqueas *Mt 2,6*=*Miq 5,1*; su misericordia revela en él al pastor que quería Moisés *Num 27,17*, pues viene en socorro de las ovejas sin pastor *Mt 9,36* *Mc 6,34*. Finalmente, en el Apocalipsis, que parece seguir una tradición apócrifa sobre el Mesías conquistador, Cristo [[cordero_de_dios|cordero]] resulta ser el pastor que conduce a las fuentes de la vida *Ap 7,17* y que hiere a los paganos con un cetro de hierro *19,15* *12,5*.
+Los Sinópticos ofrecen numerosos rasgos que anuncian la alegoría joánnica. Jesús se considera como enviado a las ovejas perdidas de Israel *Mt 15,24* *10,6* *Lc 19,10*. El «pequeño rebaño» de los discípulos que ha reunido *Lc 12,32* figura a la comunidad escatológica a la que está prometido el [[reino_de_dios|reino]] de los santos *Dan 7,27*; será perseguido por los lobos de fuera *Mt 10,16* *Rom 8,36* y por los de dentro, disfrazados de ovejas *Mt 7,15*. Será dispersado, pero, según la profecía de Isaías y de Zacarías *Is 53,6* *Zac 13,7*, el pastor que habrá sido herido lo reunirá en la Galilea de las [[naciones|naciones]] *Mt 26,31s*. Finalmente, al atardecer del tiempo, el señor de las ovejas separará en el rebaño las buenas de las malas *Mt 25,31s*. Los escritores del NT presentan dentro de esta mentalidad «al gran pastor de las ovejas» *Heb 13,20*, más grande que Moisés, al «jefe de los pastores» *1Pe 5,4*, «al pastor y al guardián», que recondujo a las almas extraviadas curándolas con sus propias heridas *1Pe 2,24s*. Su nacimiento en Belén cumplió la profecía de Miqueas *Mt 2,6*=*Miq 5,1*; su misericordia revela en él al pastor que quería Moisés *Num 27,17*, pues viene en socorro de las ovejas sin pastor *Mt 9,36* *Mc 6,34*. Finalmente, en el Apocalipsis, que parece seguir una tradición apócrifa sobre el Mesías conquistador, Cristo [[cordero_de_dios|cordero]] resulta ser el pastor que conduce a las fuentes de la vida *Ap 7,17* y que hiere a los paganos con un cetro de hierro *19,15* *12,5*.
 
 En el cuarto evangelio estas indicaciones desparramadas forman un cuadro valioso, que pinta a la Iglesia viva bajo el cayado del único pastor *Jn 10*. Nótese, sin embargo, un matiz: no se trata tanto del rey, señor del rebaño, cuanto del hijo de Dios que revela a los suyos el amor del Padre. El sermón de Jesús reasume los datos anteriores y los profundiza. Como en Ezequiel *Ez 34,17*, se trata de un juicio *Jn 9,39*. Israel semeja a ovejas esquilmadas *Ez 34,3*, entregadas a «los ladrones, a los bandidos» *Jn 10,1.10*, dispersadas *Ez 34,5s.12* *Jn 10,12*. Jesús, como Yahveh, las «hace salir» y las «conduce a buenos pastos» *Ez 34,10.14* *Jn 10,11.3.9.16*; entonces conocerán al Señor *Ez 34,15.30* *Jn 10,15* que las ha salvado *Ez 34,22* *Jn 10,9*. El «único pastor» anunciado *Ez 34,23* «soy yo», dice Jesús *Jn 10,11*.
 

@@ -18,7 +18,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[resurrección]] — victoria sobre la muerte
 - [[juicio_final]] — venida de Cristo a juzgar vivos y muertos
 - [[perdón_de_los_pecados]] — efecto del bautismo y la conversión
-- [[iglesia_católica]] — comunidad de fieles fundada por Cristo
+- [[iglesia]] — comunidad de fieles fundada por Cristo
 
 ## Contenido
 

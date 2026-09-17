@@ -17,7 +17,7 @@ tags: ["resumen", "espiritualidad_legionaria", "informe_anual", "vjys_ii", "aten
 - [[eshma]] — Institución externa independiente (víctimas + terapeutas + juristas), justicia restaurativa
 - [[reparación_económica]] — B: guía basada en estudio comparativo internacional, programa estable 2022, justicia restaurativa
 - [[procedimientos_canónicos]] — C: 4 concluidos (2 culpables, 2 medidas ratificadas CDF), 6 en curso, 2 nuevos iniciados
-- [[congregación_para_la_doctrina_de_la_fe]] — CDF: indicaciones, tribunales, canonistas externos
+- [[dicasterio_para_la_doctrina_de_la_fe]] — CDF: indicaciones, tribunales, canonistas externos
 - [[encubrimiento]] — D: investigación independiente México (juez tribunal canónico diocesano) sobre actuación superiores
 - [[acreditación_praesidium]] — E: nuevos acreditados 2021: México, Centroamérica, Norte México, Chile, Colombia-Venezuela; EE.UU./España en reacreditación; Italia/Brasil preparativos
 - [[praesidium]] — Empresa experta en ambientes seguros, estándares internacionales

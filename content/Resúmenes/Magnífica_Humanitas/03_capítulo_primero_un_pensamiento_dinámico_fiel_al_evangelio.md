@@ -14,7 +14,7 @@ tags: ["resumen", "magnífica humanitas", "doctrina_social_de_la_iglesia"]
 
 - [[doctrina_social_de_la_iglesia]] — pensamiento dinámico que se mide con las preguntas de la historia
 - [[inteligencia_artificial]] — transformación que interpela las categorías de la DSI
-- [[dignidad_de_la_persona_humana]] — criterio central del Magisterio social
+- [[dignidad_de_la_persona]] — criterio central del Magisterio social
 - [[autonomía_de_las_realidades_terrenas]] — principio del Concilio Vaticano II
 
 ## Una Iglesia en camino en la historia de la humanidad

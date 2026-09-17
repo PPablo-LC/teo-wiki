@@ -14,7 +14,7 @@ tags: ["resumen", "humor_religioso", "cristianismo", "iglesia_católica", "sáti
 
 - [[humor_religioso]] — El humor como arma contra el dogma religioso.
 - [[cristianismo]] — El cristianismo como sistema absurdo visto desde la sátira.
-- [[iglesia_católica]] — La Iglesia católica como objeto de burla.
+- [[iglesia]] — La Iglesia católica como objeto de burla.
 
 ## Contenido
 

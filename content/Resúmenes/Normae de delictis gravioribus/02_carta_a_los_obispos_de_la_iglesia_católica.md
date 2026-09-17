@@ -12,7 +12,7 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-- [[congregación_para_la_doctrina_de_la_fe]] — autor emisor de la Carta
+- [[dicasterio_para_la_doctrina_de_la_fe]] — autor emisor de la Carta
 - [[sacramentorum_sanctitatis_tutela]] — Carta Apostólica reformada
 
 ## Contenido

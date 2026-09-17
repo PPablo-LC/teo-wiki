@@ -12,7 +12,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-- [[santísimo_sacramento]] — Reverencia y veneración al Cuerpo y Sangre de Cristo
+- [[eucaristía]] — Reverencia y veneración al Cuerpo y Sangre de Cristo
 - [[eucaristía]] — El Sacrificio del altar como centro de la predicación
 - [[clero]] — Exhortación a los clérigos a venerar los sagrados misterios
 - [[penitencia]] — Predicación sobre la penitencia y la salvación

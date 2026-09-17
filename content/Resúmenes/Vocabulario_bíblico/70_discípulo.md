@@ -28,7 +28,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[jesus]] — los discípulos de Jesús
 - [[mesias]] — reconocer a Jesús por su maestro
 - [[cruz]] — el discípulo que lleva su cruz
-- [[reino]] — recibir de Jesús el reino
+- [[reino_de_dios]] — recibir de Jesús el reino
 
 ## Contenido
 
@@ -66,7 +66,7 @@ Para ser discípulo de Jesús no se requiere ser un hombre superior; en efecto, 
 
 #### Destino y dignidad.
 
-El discípulo de Jesús es, por tanto, llamado a compartir el destino mismo del maestro: llevar su [[cruz]] *Mc 8,34 p*, beber su cáliz *Mc 10,38s*, finalmente recibir de él el [[reino]] *Mt 19,28s* *Lc 22,28ss* *Jn 14,3*. Así, desde ahora, quienquiera que dé sencillamente un vaso de agua en calidad de discípulo, no perderá su recompensa *Mt 10,42 p*; por el contrario, ¡qué gran falta es «escandalizar a uno solo de estos pequeñuelos!» *Mc 9,42 p*.
+El discípulo de Jesús es, por tanto, llamado a compartir el destino mismo del maestro: llevar su [[cruz]] *Mc 8,34 p*, beber su cáliz *Mc 10,38s*, finalmente recibir de él el [[reino_de_dios]] *Mt 19,28s* *Lc 22,28ss* *Jn 14,3*. Así, desde ahora, quienquiera que dé sencillamente un vaso de agua en calidad de discípulo, no perderá su recompensa *Mt 10,42 p*; por el contrario, ¡qué gran falta es «escandalizar a uno solo de estos pequeñuelos!» *Mc 9,42 p*.
 
 ### Discípulos de Jesús y discípulos de Dios.
 

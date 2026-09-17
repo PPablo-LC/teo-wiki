@@ -14,7 +14,7 @@ tags: ["resumen", "magnífica humanitas", "inteligencia_artificial", "paradigma_
 
 - [[paradigma_tecnocrático]] — lógica de eficiencia, control y lucro como criterio absoluto
 - [[inteligencia_artificial]] — sistemas que imitan funciones de la inteligencia humana
-- [[dignidad_de_la_persona_humana]] — el primado de la persona
+- [[dignidad_de_la_persona]] — el primado de la persona
 - [[transhumanismo]] — potenciación del ser humano por la técnica
 - [[posthumanismo]] — hibridación y superación del ser humano
 - [[bien_común]] — criterio para gobernar la IA

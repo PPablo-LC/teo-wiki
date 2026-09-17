@@ -17,7 +17,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[agua]] — el soplo que fecunda la tierra estéril
 - [[carne]] — el espíritu frente a la carne
 - [[alma]] — el soplo que hace un alma viva
-- [[Satán]] — los espíritus perversos y la acción de Satán
+- [[satanás]] — los espíritus perversos y la acción de Satán
 - [[santo]] — un Espíritu santo y santificante
 - [[carisma]] — el discernimiento de los espíritus
 - [[profeta]] — el don de profecía afín al discernimiento
@@ -53,7 +53,7 @@ El don del Espíritu Santo en Jesucristo hace aparecer las verdaderas dimensione
 
 #### El discernimiento de los espíritus.
 
-Jesucristo, desenmascarando a [[Satán]], revela su poder sobre los malos espíritus. En el poder del Espíritu expulsa los demonios *Mt 8,16* *12,28* *Mc 1,23-27*; a sus discípulos les da el mismo poder *Mc 6,7* *16,17*.
+Jesucristo, desenmascarando a [[satanás]], revela su poder sobre los malos espíritus. En el poder del Espíritu expulsa los demonios *Mt 8,16* *12,28* *Mc 1,23-27*; a sus discípulos les da el mismo poder *Mc 6,7* *16,17*.
 
 Entre los [[carisma]]s, el discernimiento de los espíritus *1Cor 12,10* ocupa puesto de preferencia, con afinidad al don de [[profeta|profecía]]; lo propio de los espirituales es «discernir los dones de Dios» *1Cor 2,11s* y «buscar los mejores» *12,31* *14,12*.
 

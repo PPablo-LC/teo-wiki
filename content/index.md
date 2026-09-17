@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-09-15'
+updated: '2026-09-17'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -1447,6 +1447,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[hijos_de_dios]]
 - [[hijos_ilegítimos]]
 - [[hilemorfismo]]
+- [[hinduismo]]
 - [[hiperdulía]]
 - [[hipocresía]]
 - [[hipócrita]]
@@ -2083,6 +2084,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[nihilismo]]
 - [[niño]]
 - [[niños_monjes]]
+- [[noche]]
 - [[noche_del_espíritu]]
 - [[noche_del_sentido]]
 - [[noche_oscura]]
@@ -2352,6 +2354,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[penas_expiatorias]]
 - [[penitencia]]
 - [[penitencia_canónica]]
+- [[penitencia_y_conversión]]
 - [[pensamiento]]
 - [[pentecostés]]
 - [[pequeña_vía]]
@@ -3371,6 +3374,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[yahvé]]
 - [[yo_soy]]
+- [[yoga]]
 - [[yom_kippur]]
 
 ---

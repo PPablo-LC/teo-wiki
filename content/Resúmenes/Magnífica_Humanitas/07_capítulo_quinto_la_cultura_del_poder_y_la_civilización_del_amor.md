@@ -15,7 +15,7 @@ tags: ["resumen", "magnífica humanitas", "inteligencia_artificial", "civilizaci
 - [[civilización_del_amor]] — proyecto de traducir la caridad en estructuras de justicia
 - [[bien_común]] — condición del orden internacional
 - [[inteligencia_artificial]] — factor de aceleración en los conflictos
-- [[dignidad_de_la_persona_humana]] — criterio para juzgar la tecnología
+- [[dignidad_de_la_persona]] — criterio para juzgar la tecnología
 - [[doctrina_social_de_la_iglesia]] — principios de discernimiento
 
 ## La civilización del amor en la era digital

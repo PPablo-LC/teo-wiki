@@ -44,7 +44,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sabiduría]] — los escritos de sabiduría
 - [[esperanza]] — la esperanza venida de fuera
 - [[bienaventuranza]] — la bienaventuranza que promete la sabiduría
-- [[reino]] — el reino prometido
+- [[reino_de_dios]] — el reino prometido
 - [[Pedro]] — la promesa a Pedro
 - [[iglesia]] — la Iglesia
 - [[cumplir]] — las promesas cumplidas
@@ -102,7 +102,7 @@ Hasta qué punto las promesas de Dios fundan la existencia toda de Israel lo pru
 
 #### Los sinópticos
 
-Jesús, el Mesías prometido, en el que «todas las promesas de Dios tienen su sí» *2Cor 1,20*, se presenta en primer lugar como portador de nuevas promesas. Abre su predicación con la promesa de la venida del [[reino]] *Mt 4,23* y de la [[bienaventuranza]] inminente *Mt 5,3-12*, se asocia discípulos prometiéndoles una milagrosa pesca de hombres *4,19*, el poder sobre las doce tribus de Israel *19,28*. Promete a [[pedro|Pedro]] fundar sobre él su [[iglesia|Iglesia]] y le garantiza la victoria sobre el infierno *16,16ss*. A todo el que le siga promete el céntuplo y la vida eterna *19,29*; a quien se ponga de su parte le promete su apoyo delante de Dios *10,32*. Reasume por su cuenta todas las promesas del AT, promesas de un [[pueblo]] y de una [[tierra]], de un reino, de la bienaventuranza: dependen de su misión y de su persona. Todavía no se han [[cumplir|cumplido]], en tanto no ha llegado su hora, y no se puede seguir a Jesús sino en la fe; pero creer en él es palpar ya su cumplimiento, es ya haber hallado *Jn 1,41.45*.
+Jesús, el Mesías prometido, en el que «todas las promesas de Dios tienen su sí» *2Cor 1,20*, se presenta en primer lugar como portador de nuevas promesas. Abre su predicación con la promesa de la venida del [[reino_de_dios]] *Mt 4,23* y de la [[bienaventuranza]] inminente *Mt 5,3-12*, se asocia discípulos prometiéndoles una milagrosa pesca de hombres *4,19*, el poder sobre las doce tribus de Israel *19,28*. Promete a [[pedro|Pedro]] fundar sobre él su [[iglesia|Iglesia]] y le garantiza la victoria sobre el infierno *16,16ss*. A todo el que le siga promete el céntuplo y la vida eterna *19,29*; a quien se ponga de su parte le promete su apoyo delante de Dios *10,32*. Reasume por su cuenta todas las promesas del AT, promesas de un [[pueblo]] y de una [[tierra]], de un reino, de la bienaventuranza: dependen de su misión y de su persona. Todavía no se han [[cumplir|cumplido]], en tanto no ha llegado su hora, y no se puede seguir a Jesús sino en la fe; pero creer en él es palpar ya su cumplimiento, es ya haber hallado *Jn 1,41.45*.
 
 #### El evangelio de Juan
 

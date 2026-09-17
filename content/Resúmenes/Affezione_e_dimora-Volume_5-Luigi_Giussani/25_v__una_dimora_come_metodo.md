@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "**V** - **UNA DIMORA COME METODO**"
 fuente: Affezione_e_dimora-Volume_5-Luigi_Giussani
 capítulo: 25
-timestamp: 2026-09-13
+timestamp: 2026-09-17
 description: "Resumen de '**V** - **UNA DIMORA COME METODO**' — Affezione_e_dimora-Volume_5-Luigi_Giussani"
 tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 ---
@@ -12,31 +12,19 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[dimora]] — morada como método concreto con que Dios se hace presente en la vida del creyente
+- [[templo]] — el templo como intersección entre tiempo y espacio donde el Mistero se hace presencia
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `25_v_una_dimora_come_metodo.md`
+Capítulo titular de la **Parte V** de *Affezione e dimora*, dedicada al tema de la dimora (morada) como método de la presencia de Dios. Este título anuncia el eje de los cuatro encuentros subsiguientes (Tischrede 175–178, septiembre–noviembre de 1995): la casa/vivienda de los *Memores Domini* como el lugar concreto, espacio-temporal, en el que el Mistero se hace experimentable, y la experiencia de esa morada como camino metodológico —concreto, no abstracto— de la vida cristiana.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | **V** - **UNA DIMORA COME METODO** |
 
-
 ## Secciones incluidas
 
+La Parte V del texto contiene: cap. 26 (Un luogo), cap. 27 (Per la tua corsa nel mondo), cap. 28 (Il legame più forte) y cap. 29 (Al cuore dell'apparenza).

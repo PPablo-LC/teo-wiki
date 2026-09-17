@@ -40,7 +40,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[designio_de_dios]] — el designio divino
 - [[adán]] — el nuevo Adán
 - [[victoria]] — el victorioso de la serpiente antigua
-- [[satán]] — Satán, la serpiente antigua
+- [[satanás]] — Satán, la serpiente antigua
 - [[milagro]] — los milagros que vencen la muerte
 - [[tiempo]] — los últimos tiempos
 - [[día_del_señor]] — el día del juicio
@@ -65,7 +65,7 @@ b. Promesa del paraíso. El sueño que el hombre lleva en sí mismo no es, pues,
 
 c. *Anticipación del paraíso recobrado*. El paraíso recobrado es una realidad escatológica. El pueblo de Dios no ha conocido de él en su experiencia histórica sino sombras fugitivas: tal, por ejemplo, la posesión de una [[tierra|tierra]] «que mana leche y miel» *Ex 3,17* *Dt 6,3*. Sin embargo, su experiencia espiritual le dio de él una anticipación de otro orden. Porque Dios le otorgó su [[ley|ley]], fuente de toda [[sabiduría|sabiduría]] *Dt 4,5s*; ahora bien, «la sabiduría es un árbol de vida» que garantiza la felicidad *Prov 3,18* *Eclo 24,12-21*; la ley, en el hombre que la observa, hace que abunde la sabiduría «como un río de paraíso» *Eclo 24,25ss* *Gen 2,10..*; el sabio que la enseña a los otros es «como una corriente de agua que conduce al paraíso» *Eclo 24,30*; la [[gracia|gracia]] y el temor del Señor son un paraíso de [[bendición|bendición]] *40,17.27*. Así pues, por la sabiduría restituye Dios al hombre un gusto anticipado del gozo paradisíaco.
 
-El NT da a conocer el último secreto de este [[designio_de_dios|designio]] divino. Cristo es la fuente de la Sabiduría. Él es esta misma Sabiduría *1Cor 1,30*. Es al mismo tiempo el nuevo [[adán|Adán]] *Rom 5,14* *1Cor 15,45*, por quien la humanidad tiene acceso a su estado escatológico. Él mismo, [[victoria|victorioso]] de la serpiente antigua, que es el diablo y [[satán|Satán]] *Ap 20,2*, en el momento de su [[prueba__tentación|tentación]], vive luego «con los animales salvajes» en una especie de paraíso recuperado *Mc 1,13* *Gen 1,26* *2,19s*. Finalmente, sus [[milagro|milagros]] muestran que la [[enfermedad__curación|enfermedad]] y la [[muerte|muerte]] quedan desde ahora vencidas. El hombre que cree en él ha hallado el «[[alimento|alimento]] de vida» *Jn 6,35*, «el [[agua|agua]] viva» *4,14*, la «[[vida|vida]] eterna» *5,24ss*, es decir, los dones del paraíso escatológico inaugurado ya desde ahora.
+El NT da a conocer el último secreto de este [[designio_de_dios|designio]] divino. Cristo es la fuente de la Sabiduría. Él es esta misma Sabiduría *1Cor 1,30*. Es al mismo tiempo el nuevo [[adán|Adán]] *Rom 5,14* *1Cor 15,45*, por quien la humanidad tiene acceso a su estado escatológico. Él mismo, [[victoria|victorioso]] de la serpiente antigua, que es el diablo y [[satanás|Satán]] *Ap 20,2*, en el momento de su [[prueba__tentación|tentación]], vive luego «con los animales salvajes» en una especie de paraíso recuperado *Mc 1,13* *Gen 1,26* *2,19s*. Finalmente, sus [[milagro|milagros]] muestran que la [[enfermedad__curación|enfermedad]] y la [[muerte|muerte]] quedan desde ahora vencidas. El hombre que cree en él ha hallado el «[[alimento|alimento]] de vida» *Jn 6,35*, «el [[agua|agua]] viva» *4,14*, la «[[vida|vida]] eterna» *5,24ss*, es decir, los dones del paraíso escatológico inaugurado ya desde ahora.
 
 ### El Paraíso, morada de los justos.
 

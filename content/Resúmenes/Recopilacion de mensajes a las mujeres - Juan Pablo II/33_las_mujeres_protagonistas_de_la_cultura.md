@@ -16,7 +16,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[María_Montessori]] — figura ejemplar de mujer culta y educadora
 - [[dignidad_de_la_mujer]] — eliminación de la desigualdad de oportunidades culturales
 - [[genio_femenino]] — aportación del alma femenina al pensamiento global
-- [[santa_María]] — modelo de mujer fiel a su misión en la cultura
+- [[maría]] — modelo de mujer fiel a su misión en la cultura
 
 ## Contenido
 

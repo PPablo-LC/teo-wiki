@@ -19,7 +19,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Contenido
 
-Esta obra reúne una colección de mensajes, discursos, meditaciones dominicales (Ángelus) y documentos del Papa [[san_juan_pablo_ii]] dirigidos a las mujeres, abarcando desde 1994 hasta 1995. La recopilación fue publicada por la editorial con ISBN 5705547533428 y constituye un compendio sistemático de la enseñanza papal sobre la [[dignidad_de_la_mujer]], su papel en la [[familia]], la sociedad, la [[Iglesia_católica]] y la construcción de la [[paz]].
+Esta obra reúne una colección de mensajes, discursos, meditaciones dominicales (Ángelus) y documentos del Papa [[juan_pablo_ii]] dirigidos a las mujeres, abarcando desde 1994 hasta 1995. La recopilación fue publicada por la editorial con ISBN 5705547533428 y constituye un compendio sistemático de la enseñanza papal sobre la [[dignidad_de_la_mujer]], su papel en la [[familia]], la sociedad, la [[iglesia]] y la construcción de la [[paz]].
 
 Los mensajes se estructuran en tres grandes bloques temáticos: (1) el Mensaje para la XXVIII Jornada Mundial de la Paz sobre «La mujer, educadora para la paz»; (2) los discursos y mensajes relacionados con la IV Conferencia Mundial de la ONU sobre la Mujer en Pekín (1995); y (3) las meditaciones dominicales del Ángelus dedicadas a figuras femeninas ejemplares y reflexiones sobre la mujer.
 

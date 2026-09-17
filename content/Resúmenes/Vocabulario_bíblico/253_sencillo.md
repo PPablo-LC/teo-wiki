@@ -1,51 +1,29 @@
 ---
 type: ResumenFuente
 title: "Sencillo"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 253
-timestamp: 2026-08-24
-description: "Resumen de 'Sencillo' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "La sencillez en la Biblia: su relación con la sabiduría y la rectitud, y la sencillez como fe humilde y pureza de intención."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Sencillo
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
+> 📄 **Fuente original:** `sencillo.md`
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `sencillo.md`
+La sencillez que caracteriza al [[nino|niño]] (hebr. *peti*; gr. *nepios*; vulg. *parvulus, innocens*) tiene aspectos diversos: falta de experiencia y de prudencia, docilidad, ausencia de cálculo, rectitud de corazón que lleva consigo la sinceridad del lenguaje y excluye la malevolencia de la mirada y de la acción. Se opone así al discernimiento o a la doblez.
 
+### Sencillez y sabiduría.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La sencillez puede por tanto ser un defecto; si consiste en una ignorancia *Prov 14,18* que hace obrar imprudentemente *Prov 22,3*, creer al primero que se presenta *Prov 14,15*, ceder a las seducciones del placer de mala ley *Prov 7,7* *9,16* *Rom 16,18*, es una ligereza mortal *Prov 1,32*, indigna de un cristiano *1Cor 14,20*. La sabiduría libra de ella a los que, a su llamamiento *Prov 1,22* *8,5* *9,4ss*, escuchan sus palabras *Prov 1,4*. Los hace sabios *Sal 19,8* si se abren a la luz de la [[palabra_de_dios|palabra]] de Dios *Sal 119,130s* con la sencillez que faltó a Eva *2Cor 1,3* y que falta a los que se fían de su propia sabiduría *Mt 11,25*. Esta [[fe|fe]] humilde, condición de la salvación *Mc 10,15* *1Pe 2,2*, es el primer aspecto de la sencillez de los hijos de Dios, que no es infantilismo; implica por el contrario una rectitud e integridad *Flp 2,15*, cuyo modelo es Job *Job 1,8* *2,3*.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Sencillo |
-| 5 | H3 | Sencillez y sabiduría. |
-| 8 | H3 | Sencillez y rectitud. |
+### Sencillez y rectitud.
 
+El que busca a Dios debe evitar toda doblez *Sab 1,1*: nada debe dividir su corazón *Sal 119,113* *Sant 4,8*, falsear su intención *1Re 9,4* *Eclo 1,28ss*, frenar una generosidad que llega hasta a arriesgar la vida *1Par 29,17* *1Mac 2,37.60*, hacer vacilar la confianza *Sant 1,8*. No hay subterfugios en su conducta *Prov 10,9* *28,6* *Eclo 2,12* ni en sus palabras *Eclo 5,9*.
 
-## Secciones incluidas
+Acoge sencillamente los dones de Dios *Act 2,46* y da sin calcular, con amor sincero *Rom 12,8s* *1Pe 1,22*. Es que su mirada es sencilla; incapaz de hacer mal, solo pone la mira en la voluntad de Dios y de Cristo cuando debe obedecer a los hombres *Col 3,22s* *Ef 6,5ss*.
 
-## Sencillez y sabiduría.
-
-[Contenido de esta sección...]
-
-## Sencillez y rectitud.
-
-[Contenido de esta sección...]
+Esta intención única ilumina su vida *Mt 6,22* *Lc 11,34*; le hace más prudente que la serpiente; esta pureza de intención está simbolizada por la sencillez de la paloma *Mt 10,16*.

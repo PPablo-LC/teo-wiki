@@ -25,7 +25,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[presencia_de_dios]] — regocijarse en su presencia
 - [[gustar]] — gustar la suavidad de una reunión fraterna
 - [[fiestas]] — las fiestas en clima de júbilo
-- [[dia_domini]] — el día que ha hecho el Señor
+- [[día_del_señor]] — el día que ha hecho el Señor
 - [[bendicion]] — las bendiciones divinas
 - [[humildad]] — los humildes constituyen el verdadero pueblo
 - [[palabra_de_dios]] — la palabra divina
@@ -38,7 +38,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[nombre]] — los nombres escritos en los cielos
 - [[persecucion]] — la persecución intensifica la alegría
 - [[milagro]] — los milagros de Jesús
-- [[penitencia_conversion]] — acoger al salvador y convertirse
+- [[penitencia_y_conversión]] — acoger al salvador y convertirse
 - [[pastor_y_rebano]] — el buen pastor
 - [[amigo]] — los amigos de Jesús
 - [[cruz]] — el gozo del Espíritu, fruto de la cruz
@@ -46,7 +46,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[resurreccion]] — el gozo increíble de la resurrección
 - [[testimonio]] — los testigos del salvador
 - [[fruto]] — el gozo es fruto del Espíritu
-- [[prueba_tentacion]] — la prueba de la fe
+- [[prueba_y_tentación]] — la prueba de la fe
 - [[ejemplo]] — ser ejemplo en la prueba
 - [[perfeccion]] — la perfección cristiana
 - [[fidelidad]] — la fidelidad a la verdad
@@ -78,7 +78,7 @@ Dios, de quien vienen las sanas alegrías de la vida, ofrece a su pueblo otras m
 
 ##### Alegrías del culto comunitario.
 
-En el [[culto|culto]] halla Israel el gozo de [[alabanza|alabar]] a Dios *Sal 33,1*, que se ha dignado ser su rey *Sal 149,2* y que le invita a regocijarse en su [[presencia_de_dios|presencia]] *Dt 12,18*; [[gustar|gusta]] también la suavidad de una reunión fraterna *Sal 133*. Halla así el medio de resistir a la tentación de los cultos cananeos, cuyos ritos sensuales son abominados por Dios *Dt 12,30s* *23,18s*. Las [[fiestas|fiestas]] se celebran en un clima de entusiasmo y de júbilo *Sal 42,5* *68,4s* *100,2* y recuerdan al pueblo «el [[dia_domini|día]] que ha hecho el Señor para su gozo y su alegría» *Sal 118,24*; algunas de estas celebraciones han hecho época, por ejemplo, la pascua de Ezequías *2Par 30,21-26*, la del retorno del exilio *Esd 6,22* y sobre todo la fiesta de los tabernáculos, en que Esdras, después de haber hecho leer la ley, proclamó: «Este día es santo... No os aflijáis: el gozo de Yahveh es nuestra fuerza» *Neh 8,10*. Para fomentar este gozo plenario prescribe la ley al pueblo que vaya a surtirse en la fuente, reuniéndose en Jerusalén para las tres fiestas anuales a fin de obtener las [[bendicion|bendiciones]] divinas *Lev 23,40* *Dt 16,11.14s*. En esta fuente desea Dios que todas las naciones vayan a proveerse *Is 56,6s*.
+En el [[culto|culto]] halla Israel el gozo de [[alabanza|alabar]] a Dios *Sal 33,1*, que se ha dignado ser su rey *Sal 149,2* y que le invita a regocijarse en su [[presencia_de_dios|presencia]] *Dt 12,18*; [[gustar|gusta]] también la suavidad de una reunión fraterna *Sal 133*. Halla así el medio de resistir a la tentación de los cultos cananeos, cuyos ritos sensuales son abominados por Dios *Dt 12,30s* *23,18s*. Las [[fiestas|fiestas]] se celebran en un clima de entusiasmo y de júbilo *Sal 42,5* *68,4s* *100,2* y recuerdan al pueblo «el [[día_del_señor|día]] que ha hecho el Señor para su gozo y su alegría» *Sal 118,24*; algunas de estas celebraciones han hecho época, por ejemplo, la pascua de Ezequías *2Par 30,21-26*, la del retorno del exilio *Esd 6,22* y sobre todo la fiesta de los tabernáculos, en que Esdras, después de haber hecho leer la ley, proclamó: «Este día es santo... No os aflijáis: el gozo de Yahveh es nuestra fuerza» *Neh 8,10*. Para fomentar este gozo plenario prescribe la ley al pueblo que vaya a surtirse en la fuente, reuniéndose en Jerusalén para las tres fiestas anuales a fin de obtener las [[bendicion|bendiciones]] divinas *Lev 23,40* *Dt 16,11.14s*. En esta fuente desea Dios que todas las naciones vayan a proveerse *Is 56,6s*.
 
 ##### Gozos de la fidelidad personal.
 
@@ -100,7 +100,7 @@ La venida del salvador crea un clima de gozo que ha hecho sensible Lucas, más q
 
 En Jesús está ya presente el reino de Dios *Mc 1,15 p* *Lc 17,21*; Jesús es el esposo cuya voz arrebata de gozo al Bautista *Jn 3,29* y cuya presencia no permite a sus discípulos [[ayuno|ayunar]] *Lc 5,34 p*. Éstos tienen la alegría de saber que sus [[nombre|nombres]] están escritos en los cielos *10,20*, porque son del número de los pobres, a los que pertenece el reino *6,20 p*, tesoro por el cual se da todo con alegría *Mt 13,44*; y Jesús les ha enseñado que la [[persecucion|persecución]], confirmando su certeza, debía intensificar su alegría *Mt 5,10ss p*.
 
-Los discípulos tienen razón de regocijarse de los [[milagro|milagros]] de Jesús que atestiguan su misión *Lc 19,37ss*; pero no deben poner su alegría en el poder milagroso que Cristo les comunica *10,17*; no es sino un medio, destinado no a procurar una vana alegría a hombres como Herodes, curioso de lo maravilloso *23,8*, sino a hacer que sea Dios alabado por las almas rectas *13,17* y a atraer a los pecadores al salvador, disponiéndolos a acogerlo con alegría y a [[penitencia_conversion|convertirse]] *19,6.9*. De esta conversión se regocijarán los discípulos como buenos hermanos *15,32*, como se regocijan en el cielo el Padre y los ángeles *15,7.10.24*, como se regocija el buen [[pastor_y_rebano|pastor]], cuyo amor ha salvado a las ovejas extraviadas *15,6* *Mt 18,13*. Pero para compartir su gozo hay que amar como él ha amado.
+Los discípulos tienen razón de regocijarse de los [[milagro|milagros]] de Jesús que atestiguan su misión *Lc 19,37ss*; pero no deben poner su alegría en el poder milagroso que Cristo les comunica *10,17*; no es sino un medio, destinado no a procurar una vana alegría a hombres como Herodes, curioso de lo maravilloso *23,8*, sino a hacer que sea Dios alabado por las almas rectas *13,17* y a atraer a los pecadores al salvador, disponiéndolos a acogerlo con alegría y a [[penitencia_y_conversión|convertirse]] *19,6.9*. De esta conversión se regocijarán los discípulos como buenos hermanos *15,32*, como se regocijan en el cielo el Padre y los ángeles *15,7.10.24*, como se regocija el buen [[pastor_y_rebano|pastor]], cuyo amor ha salvado a las ovejas extraviadas *15,6* *Mt 18,13*. Pero para compartir su gozo hay que amar como él ha amado.
 
 ##### El gozo del Espíritu, fruto de la cruz.
 
@@ -114,7 +114,7 @@ La palabra de Jesús produjo su fruto: los que creen en él tienen en sí mismos
 
 ##### Las fuentes del gozo espiritual.
 
-El gozo es, en efecto, [[fruto|fruto]] del Espíritu *Gal 5,22* y una nota característica del reino de Dios *Rom 14,17*. No se trata del entusiasmo pasajero que suscita la [[palabra_de_dios|palabra]] y que destruye la tribulación *Mc 4,16*, sino del gozo espiritual de los creyentes que, en la [[prueba_tentacion|prueba]], son [[ejemplo|ejemplo]] *1Tes 1,6s* y que, con su gozosa generosidad *2Cor 8,2* *9,7*, con su [[perfeccion|perfección]] *2Cor 13,9*, con su unión *Flp 2,2*, con su docilidad *Heb 13,17* y su [[fidelidad|fidelidad]] a la [[verdad|verdad]] *2Jn 4* *3Jn 3s* son ahora y serán en el [[dia_domini|día]] del Señor el gozo de sus apóstoles *1Tes 2,19s*.
+El gozo es, en efecto, [[fruto|fruto]] del Espíritu *Gal 5,22* y una nota característica del reino de Dios *Rom 14,17*. No se trata del entusiasmo pasajero que suscita la [[palabra_de_dios|palabra]] y que destruye la tribulación *Mc 4,16*, sino del gozo espiritual de los creyentes que, en la [[prueba_y_tentación|prueba]], son [[ejemplo|ejemplo]] *1Tes 1,6s* y que, con su gozosa generosidad *2Cor 8,2* *9,7*, con su [[perfeccion|perfección]] *2Cor 13,9*, con su unión *Flp 2,2*, con su docilidad *Heb 13,17* y su [[fidelidad|fidelidad]] a la [[verdad|verdad]] *2Jn 4* *3Jn 3s* son ahora y serán en el [[día_del_señor|día]] del Señor el gozo de sus apóstoles *1Tes 2,19s*.
 
 La caridad que hace comulgar a los creyentes en la verdad *1Cor 13,6* les procura un gozo constante alimentado por su [[oracion|oración]] y su [[accion_de_gracias|acción de gracias]] incesantes *1Tes 5,16* *Flp 3,1* *4,4ss*. ¿Cómo dar gracias al Padre por haber sido transferidos al reino de su Hijo muy amado, sin experimentar alegría *Col 1,11ss*? Y la oración asidua es fuente de gozo y alegría porque la anima la [[esperanza|esperanza]] y porque el Dios de la esperanza responde a ella colmando de gozo al creyente *Rom 12,12* *15,13*. También Pedro invita a éste a bendecir a Dios con exultación; su [[fe|fe]], probada por la aflicción, pero segura de obtener la salvación, le procura un gozo inefable, que es un gusto anticipado de la gloria *1Pe 1,3-9*.
 

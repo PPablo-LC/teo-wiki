@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[creacion]] — la creación, signo para acordarse de Dios
-- [[imagen]] — el hombre, imagen de Dios
+- [[imagen_de_dios]] — el hombre, imagen de Dios
 - [[alianza]] — las alianzas sucesivas de Dios con el hombre
 - [[pascua]] — la pascua, acontecimiento salvador
 - [[fiestas]] — las fiestas rituales
@@ -35,7 +35,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[perdon]] — el perdón de Dios
 - [[tiempo]] — el tiempo cargado de hechos decisivos
 - [[pobres]] — el pobre presente al amor de Dios
-- [[prueba_tentacion]] — la prueba que reaviva la memoria
+- [[prueba_y_tentación]] — la prueba que reaviva la memoria
 - [[cumplir]] — el cumplimiento en Cristo
 - [[promesas]] — la memoria de las promesas
 - [[hombre]] — Cristo, el hombre definitivamente presente a Dios
@@ -50,7 +50,7 @@ La Biblia habla de la memoria de Dios para con el hombre y de la memoria del hom
 
 ### Brote del recuerdo
 
-**a.** Los hechos. El acontecimiento primero es la [[creacion|creación]], signo ofrecido siempre al hombre para que se acuerde de Dios *Eclo 42,15-43,33* *Rom 1,20s*. El hombre mismo es más que un signo, es la [[imagen|imagen]] de Dios; así puede acordarse de él. Las [[alianza|alianzas]] sucesivas de Dios con el hombre (Noé, Abraham, Moisés, David) procedieron de la memoria de Dios: entonces se acordó y prometió acordarse *Gen 8,1* *9,15ss* *Ex 2,24* *2Sa 7* para salvar *Gen 19,29* *Ex 6,5*. Y el acontecimiento salvador que va a orientar para siempre la memoria del pueblo de Dios es la [[pascua|pascua]] *Os 13,4ss*.
+**a.** Los hechos. El acontecimiento primero es la [[creacion|creación]], signo ofrecido siempre al hombre para que se acuerde de Dios *Eclo 42,15-43,33* *Rom 1,20s*. El hombre mismo es más que un signo, es la [[imagen_de_dios|imagen]] de Dios; así puede acordarse de él. Las [[alianza|alianzas]] sucesivas de Dios con el hombre (Noé, Abraham, Moisés, David) procedieron de la memoria de Dios: entonces se acordó y prometió acordarse *Gen 8,1* *9,15ss* *Ex 2,24* *2Sa 7* para salvar *Gen 19,29* *Ex 6,5*. Y el acontecimiento salvador que va a orientar para siempre la memoria del pueblo de Dios es la [[pascua|pascua]] *Os 13,4ss*.
 
 **b.** El recuerdo de los hechos. La memoria tiene no pocas maneras de prolongar en el presente la eficacia del pasado. En hebreo el sentido del verbo *zkr* en sus diversas formas da alguna idea de esto: acordarse, recordar, mencionar, pero también conservar e invocar, son otras tantas acciones que ejercen una función de las más importantes en la vida espiritual de la liturgia.
 
@@ -68,7 +68,7 @@ El arrepentimiento es, al mismo tiempo que recuerdo de las faltas, llamamiento a
 
 Y he aquí la paradoja: la pascua, ya pasada, tiene que venir todavía. Esta toma de conciencia hace entrar al pueblo en la escatología, esa cualidad que adquiere el [[tiempo|tiempo]] cuando está tan cargado de hechos decisivos que actúa ya en él el «siglo venidero» determinando su curso. Esta percepción muy viva del futuro a través del pasado caracteriza la memoria del pueblo después del retorno del exilio; se ha operado una especie de mutación. El recuerdo se convierte en espera y la memoria desemboca en la imaginación apocalíptica. El caso típico es el de Ezequiel *40-48* seguido por Zacarías, Daniel, el cuarto evangelista y el autor del Apocalipsis.
 
-El pasado glorioso constituye, comunitariamente, en el seno de la aflicción presente, la prenda de la liberación *Is 63,15-64,11* *Sal 77* *79* *80* *89*. Personalmente, el [[pobres|pobre]], aparentemente olvidado por Dios *Sal 10,12* *13,2*, debe, sin embargo, saber que está presente a su amor *Is 66,2* *Sal 9,19*. La [[prueba_tentacion|prueba]] vuelve a avivar la memoria *1Mac 2,51* *Bar 4,27*, y esto para prepararla al acontecimiento nuevo *Is 43,18s*.
+El pasado glorioso constituye, comunitariamente, en el seno de la aflicción presente, la prenda de la liberación *Is 63,15-64,11* *Sal 77* *79* *80* *89*. Personalmente, el [[pobres|pobre]], aparentemente olvidado por Dios *Sal 10,12* *13,2*, debe, sin embargo, saber que está presente a su amor *Is 66,2* *Sal 9,19*. La [[prueba_y_tentación|prueba]] vuelve a avivar la memoria *1Mac 2,51* *Bar 4,27*, y esto para prepararla al acontecimiento nuevo *Is 43,18s*.
 
 ### De la presencia a la transparencia
 

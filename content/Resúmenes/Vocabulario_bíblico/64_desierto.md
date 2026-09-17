@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[demonios]] — los demonios que habitan en el desierto
-- [[bestia_bestias]] — las bestias maléficas del desierto
+- [[bestia]] — las bestias maléficas del desierto
 - [[maldicion]] — el desierto, tierra sin bendición
 - [[bendicion]] — el desierto opuesto a la bendición
 - [[soledad]] — el desierto no como mística de la soledad
@@ -39,7 +39,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[juan_bautista]] — Juan Bautista en el desierto
 - [[roca]] — la roca que es Cristo
 - [[reposo]] — la entrada en el reposo de Dios
-- [[prueba_tentacion]] — la vida cristiana bajo el signo de la prueba
+- [[prueba_y_tentación]] — la vida cristiana bajo el signo de la prueba
 - [[tiempo]] — el fin de los tiempos
 
 ## Contenido

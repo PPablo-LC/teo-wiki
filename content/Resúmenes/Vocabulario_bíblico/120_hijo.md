@@ -26,9 +26,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mesias]] — el título mesiánico
 - [[resurreccion]] — la resurrección y la filiación divina
 - [[testimonio]] — el testimonio apostólico
-- [[dia_domini]] — la espera del día del Señor
+- [[día_del_señor]] — la espera del día del Señor
 - [[ira]] — librarnos de la ira
-- [[imagen]] — la imagen del Hijo único
+- [[imagen_de_dios]] — la imagen del Hijo único
 - [[herencia]] — coherederos con él
 - [[bautismo]] — el sentido del bautismo
 - [[nacimiento_nuevo]] — renacer del agua y del Espíritu
@@ -67,7 +67,7 @@ Entonces se aclara retrospectivamente más de una palabra misteriosa, en que Jes
 
 ##### 2. Por la resurrección.
 
-Por la [[resurreccion|resurrección]] de Jesús comprendieron finalmente los apóstoles el misterio de su filiación divina: la resurrección era la realización del *Sal 2,7*: *Act 13,33*; aportaba la confirmación dada por Dios a las reivindicaciones de Jesús delante de Caifás y en la cruz. Así pues, ya al día siguiente de pentecostés el [[testimonio|testimonio]] apostólico y la confesión de fe cristiana tienen por objeto a «Jesús, Hijo de Dios» *Act 8,37* *9,20*. Mateo y Lucas, presentando la infancia de Jesús, subrayan discretamente este tema *Mt 2,15* *Lc 1,35*. En Pablo viene a ser el punto de partida de una reflexión teológica mucho más avanzada. Dios envió acá abajo a su Hijo *Gal 4,4* *Rom 8,3* a fin de que fuéramos reconciliados por su muerte *Rom 5,10*. Actualmente lo ha establecido en su [[poder|poder]] *Rom 1,4* y nos llama a la comunión con él *1Cor 1,9*, pues nos ha transferido a su reino *Col 1,13*. La vida cristiana es una vida «en la fe en el Hijo de Dios que nos amó y se entregó por nosotros» *Gal 2,20*, y una espera del [[dia_domini|día]] en que regrese de los cielos para «librarnos de la [[ira|ira]]» *1Tes 1,10*. Las mismas certezas atraviesan la epístola a los Hebreos *Heb 1,2.5.8*.
+Por la [[resurreccion|resurrección]] de Jesús comprendieron finalmente los apóstoles el misterio de su filiación divina: la resurrección era la realización del *Sal 2,7*: *Act 13,33*; aportaba la confirmación dada por Dios a las reivindicaciones de Jesús delante de Caifás y en la cruz. Así pues, ya al día siguiente de pentecostés el [[testimonio|testimonio]] apostólico y la confesión de fe cristiana tienen por objeto a «Jesús, Hijo de Dios» *Act 8,37* *9,20*. Mateo y Lucas, presentando la infancia de Jesús, subrayan discretamente este tema *Mt 2,15* *Lc 1,35*. En Pablo viene a ser el punto de partida de una reflexión teológica mucho más avanzada. Dios envió acá abajo a su Hijo *Gal 4,4* *Rom 8,3* a fin de que fuéramos reconciliados por su muerte *Rom 5,10*. Actualmente lo ha establecido en su [[poder|poder]] *Rom 1,4* y nos llama a la comunión con él *1Cor 1,9*, pues nos ha transferido a su reino *Col 1,13*. La vida cristiana es una vida «en la fe en el Hijo de Dios que nos amó y se entregó por nosotros» *Gal 2,20*, y una espera del [[día_del_señor|día]] en que regrese de los cielos para «librarnos de la [[ira|ira]]» *1Tes 1,10*. Las mismas certezas atraviesan la epístola a los Hebreos *Heb 1,2.5.8*.
 
 ##### 3. En san Juan.
 
@@ -81,7 +81,7 @@ En los sinópticos se afirma repetidas veces la filiación adoptiva de que habla
 
 ##### 2. El fundamento de este título en la teología paulina.
 
-El fundamento de este título se precisa en la teología paulina. La adopción filial era ya uno de los privilegios de Israel *Rom 9,4*, pero ahora los cristianos son hijos de Dios, en un sentido mucho más fuerte, por la fe en Cristo *Gal 3,26* *Ef 1,5*. Tienen en sí mismos el [[espiritu|Espíritu]] que los hace hijos adoptivos *Gal 4,5ss* *Rom 8,14-17*; están llamados a reproducir en sí mismos la [[imagen|imagen]] del Hijo único *Rom 8,29*; han sido instituidos [[herencia|coherederos]] con él *Rom 8,17*. Esto supone en ellos una verdadera regeneración *Tit 3,5* *1Pe 1,3* *2,2* que los hace partícipes de la vida del Hijo; tal es, en efecto, el sentido del [[bautismo|bautismo]], vida que hace que viva el hombre con una vida nueva *Rom 6,4*. Así somos hijos de adopción en el Hijo por naturaleza y Dios nos trata como a tales, incluso cuando se da el caso de enviarnos sus correcciones *Heb 12,5-12*.
+El fundamento de este título se precisa en la teología paulina. La adopción filial era ya uno de los privilegios de Israel *Rom 9,4*, pero ahora los cristianos son hijos de Dios, en un sentido mucho más fuerte, por la fe en Cristo *Gal 3,26* *Ef 1,5*. Tienen en sí mismos el [[espiritu|Espíritu]] que los hace hijos adoptivos *Gal 4,5ss* *Rom 8,14-17*; están llamados a reproducir en sí mismos la [[imagen_de_dios|imagen]] del Hijo único *Rom 8,29*; han sido instituidos [[herencia|coherederos]] con él *Rom 8,17*. Esto supone en ellos una verdadera regeneración *Tit 3,5* *1Pe 1,3* *2,2* que los hace partícipes de la vida del Hijo; tal es, en efecto, el sentido del [[bautismo|bautismo]], vida que hace que viva el hombre con una vida nueva *Rom 6,4*. Así somos hijos de adopción en el Hijo por naturaleza y Dios nos trata como a tales, incluso cuando se da el caso de enviarnos sus correcciones *Heb 12,5-12*.
 
 ##### 3. La doctrina de los escritos joánnicos.
 

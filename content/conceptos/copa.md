@@ -39,7 +39,7 @@ La copa de la ira tiene su contrapartida en el cáliz de salvación. Los sacrifi
 
 ## Ver también
 
-[[castigos]], [[expiación]], [[obediencia]], [[figura]], [[penitencia_conversion]]
+[[castigos]], [[expiación]], [[obediencia]], [[figura]], [[penitencia_y_conversión]]
 
 ## Referencias
 

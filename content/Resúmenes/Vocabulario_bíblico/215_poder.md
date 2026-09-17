@@ -16,12 +16,12 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[creación]] — la creación por la palabra de Dios
 - [[exodo]] — la liberación del Éxodo
-- [[liberación_libertad]] — la liberación del pueblo
+- [[liberación_y_libertad]] — la liberación del pueblo
 - [[victoria]] — la victoria dada por Dios
 - [[fuerza]] — Dios, fuerza de su pueblo
 - [[fe]] — la fe que se abre al poder de Dios
 - [[sabiduría]] — la sabiduría del poder divino
-- [[imagen]] — el hombre, imagen del todopoderoso
+- [[imagen_de_dios]] — el hombre, imagen del todopoderoso
 - [[temor]] — el temor infundido por los poderes
 - [[esclavo]] — la esclavitud social
 - [[humildad]] — los humildes instrumentos de Dios
@@ -32,7 +32,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[palabra_de_dios]] — la palabra siempre eficaz
 - [[Mesías]] — el Mesías, «Dios fuerte»
 - [[resurrección]] — el resucitado por el poder de Dios
-- [[siervo_de_yahveh]] — el siervo que muere por las multitudes
+- [[siervo_de_yahvé]] — el siervo que muere por las multitudes
 - [[muerte]] — la muerte como secuela del pecado
 - [[hijo]] — el Hijo del hombre que viene sobre las nubes
 - [[idolos]] — los ídolos impotentes
@@ -54,9 +54,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[conocer]] — conocer a Cristo y el poder de su resurrección
 - [[cuerpo]] — la resurrección de los cuerpos
 - [[cordero_de_dios]] — el cordero que comparte el trono
-- [[reino]] — el reino establecido por el todopoderoso
+- [[reino_de_dios]] — el reino establecido por el todopoderoso
 - [[amor]] — el reino de amor
-- [[dia_domini]] — el día de su advenimiento
+- [[día_del_señor]] — el día de su advenimiento
 - [[Israel]] — el nombre del pueblo escogido
 - [[arca]] — el arca que asegura la presencia
 - [[demonios]] — los poderes malignos que esclavizan
@@ -69,7 +69,7 @@ En todas las religiones es el poder un atributo esencial de la divinidad. La fe 
 
 #### 1. Manifestaciones en la tierra
 
-En los relatos de los patriarcas, este poder se ejerce soberanamente: a Dios nada le es imposible *Gen 18,14*. Con este Dios todopoderoso debe luchar Jacob; al final de la lucha lo bendice Dios y le da el nombre de [[israel|Israel]] *Gen 32,27-30*. La fuerza de Israel reside en el auxilio del Dios que es «el poderoso de Jacob» *Gen 49,24* *Is 1,24* *49,26* *Sal 132,2*. Con su mano fuerte *Ex 3,19* y su brazo extendido *Dt 4,34* [[liberación_libertad|libera]] a su pueblo en la gesta del [[exodo|Éxodo]]; Yahveh se revela como único Todopoderoso en el cielo y en la tierra *Dt 4,32-39*.
+En los relatos de los patriarcas, este poder se ejerce soberanamente: a Dios nada le es imposible *Gen 18,14*. Con este Dios todopoderoso debe luchar Jacob; al final de la lucha lo bendice Dios y le da el nombre de [[israel|Israel]] *Gen 32,27-30*. La fuerza de Israel reside en el auxilio del Dios que es «el poderoso de Jacob» *Gen 49,24* *Is 1,24* *49,26* *Sal 132,2*. Con su mano fuerte *Ex 3,19* y su brazo extendido *Dt 4,34* [[liberación_y_libertad|libera]] a su pueblo en la gesta del [[exodo|Éxodo]]; Yahveh se revela como único Todopoderoso en el cielo y en la tierra *Dt 4,32-39*.
 
 Yahveh, jefe de los ejércitos de Israel, es un guerrero que da a su pueblo la [[victoria]]; tal es el sentido primario de su nombre Sabaot *Sal 24,8ss* *Ex 15,2ss* *1Sa 17,45*; por medio del [[arca]] asegura el Todopoderoso su presencia a su pueblo *2Sa 6,2* *Sal 132,8*.
 
@@ -89,11 +89,11 @@ El poder de Dios se manifestó en su creación *Sal 19,2* *104* *Sab 13,4* *Rom 
 
 ¿Cómo no confiar en aquel cuya palabra lo puede todo *Est 4,17* *Sab 18,15*, que inclina los corazones *Prov 21,1* y de cuya mano nadie puede escapar *Tob 13,2*? Este poder es infinitamente sabio en su obra *Sab 7,21.25* *8,1*; de esta [[sabiduría]] infinita la creación sólo deja oír un débil eco *Job 26,7-14*; eco suficiente para que, aun en la prueba más pesada, el justo se abandone al todopoderoso en adoración silenciosa *Job 38,1-42,6*.
 
-El hombre que tiene fe en Dios se convierte en colaborador del todopoderoso, del que es también [[imagen]] *Gen 1,26ss*. Lo muestra por el dominio que ejerce sobre la tierra y los animales *Eclo 17,2ss*. Lejos de [[temor|temer]] a los poderes de la naturaleza, debe enseñorearse de ellos; y esto lo puede hacer si se mantiene sumiso a su creador con humildad confiada. Ahora bien, Adán, aspirando a la independencia, cometió el pecado fundamental *Gen 2,17* *3,5* *Rom 1,20s*; como consecuencia perdió su poder sobre el mundo *Gen 3,17s*.
+El hombre que tiene fe en Dios se convierte en colaborador del todopoderoso, del que es también [[imagen_de_dios]] *Gen 1,26ss*. Lo muestra por el dominio que ejerce sobre la tierra y los animales *Eclo 17,2ss*. Lejos de [[temor|temer]] a los poderes de la naturaleza, debe enseñorearse de ellos; y esto lo puede hacer si se mantiene sumiso a su creador con humildad confiada. Ahora bien, Adán, aspirando a la independencia, cometió el pecado fundamental *Gen 2,17* *3,5* *Rom 1,20s*; como consecuencia perdió su poder sobre el mundo *Gen 3,17s*.
 
 ### III. Los poderes malignos que esclavizan al hombre
 
-El comienzo del Génesis pone en claro los efectos de la voluntad de poder que yergue al hombre contra Dios. Caín usa de su fuerza para matar a su hermano, y Lamec se venga sin medida *Gen 4,8.23s*. El pecado colectivo de [[babel_babilonia|Babel]] es de la misma naturaleza que el pecado de Adán; los hombres quieren alcanzar el cielo por su propio poder *11,4ss*. Esta pretensión lleva al hombre a un doble esclavizamiento: los poderosos esclavizan a los débiles; ellos mismos se esclavizan sometiéndose a poderes malignos, a los [[demonios]].
+El comienzo del Génesis pone en claro los efectos de la voluntad de poder que yergue al hombre contra Dios. Caín usa de su fuerza para matar a su hermano, y Lamec se venga sin medida *Gen 4,8.23s*. El pecado colectivo de [[babel|Babel]] es de la misma naturaleza que el pecado de Adán; los hombres quieren alcanzar el cielo por su propio poder *11,4ss*. Esta pretensión lleva al hombre a un doble esclavizamiento: los poderosos esclavizan a los débiles; ellos mismos se esclavizan sometiéndose a poderes malignos, a los [[demonios]].
 
 #### 1. La opresión del hombre por el hombre
 
@@ -121,7 +121,7 @@ Por su [[Espíritu]], fuerza divina que los profetas oponen a la debilidad del h
 
 #### 3. El poder de resurrección
 
-Dios quiere salvar del pecado a todas las naciones; este designio lo realiza el brazo de Yahveh por medio de un misterioso [[siervo_de_yahveh|siervo]], que muere abrumado de sufrimiento *Is 53*, pero de cuya muerte el poder divino hace salir la vida de las multitudes justificadas; es un poder de resurrección. Como la [[muerte]] es secuela del pecado, Dios librará de la muerte a los que libra del pecado. El justo resucitará para una vida eterna *Dan 12,2s*; la esperanza de ser resucitados por el poder de su Creador hace fuertes a los perseguidos *2Mac 7,9.14.23*. En el tiempo fijado tendrá fin el poder de los opresores; entonces el pueblo de los santos compartirá el dominio eterno que se dará al [[hijo|Hijo]] del hombre que vendrá sobre las nubes *Dan 7,12ss.18.27*.
+Dios quiere salvar del pecado a todas las naciones; este designio lo realiza el brazo de Yahveh por medio de un misterioso [[siervo_de_yahvé|siervo]], que muere abrumado de sufrimiento *Is 53*, pero de cuya muerte el poder divino hace salir la vida de las multitudes justificadas; es un poder de resurrección. Como la [[muerte]] es secuela del pecado, Dios librará de la muerte a los que libra del pecado. El justo resucitará para una vida eterna *Dan 12,2s*; la esperanza de ser resucitados por el poder de su Creador hace fuertes a los perseguidos *2Mac 7,9.14.23*. En el tiempo fijado tendrá fin el poder de los opresores; entonces el pueblo de los santos compartirá el dominio eterno que se dará al [[hijo|Hijo]] del hombre que vendrá sobre las nubes *Dan 7,12ss.18.27*.
 
 #### 4. El retrato del todopoderoso
 
@@ -147,4 +147,4 @@ Pablo hace eco a Jesús enseñando que por la [[fe]] se abre el hombre al poder 
 
 #### 4. El poder que guarda para la salvación
 
-Este mismo poder los guarda para la salvación que se revelará en los últimos tiempos *1Pe 1,5*. Dios hace inquebrantables a los que se humillan bajo su mano todopoderosa y resisten al diablo *1Pe 5,5-10*. Los incrédulos serán seducidos por aquéllos cuyo poder viene del diablo *2Tes 2,9-12* *Ap 13,2-7* y a los que el Señor destruirá con el soplo de su boca el [[dia_domini|día]] de su advenimiento *2Tes 2,8*. En este día será destruida la muerte, así como todo poder enemigo *1Cor 15,24ss*; Dios, por su poder, resucitará los [[cuerpo|cuerpos]] de aquellos en quienes habita su Espíritu *1Cor 6,14* *Rom 8,11*; él será todo en todos *1Cor 15,28*. En el Apocalipsis se oye a los elegidos cantar al Señor Dios, al todopoderoso (gr. *pantokratór*), cuyo trono comparte el [[cordero_de_dios|cordero]]: «¡Aleluya!, porque ha establecido su [[reino]] el Señor, Dios todopoderoso» *Ap 19,6*. Reino de [[amor]], pues este todopoderoso es el Padre de «el que nos ama y nos ha librado de los pecados por su sangre. A él gloria y poder por los siglos de los siglos» *Ap 1,5s*.
+Este mismo poder los guarda para la salvación que se revelará en los últimos tiempos *1Pe 1,5*. Dios hace inquebrantables a los que se humillan bajo su mano todopoderosa y resisten al diablo *1Pe 5,5-10*. Los incrédulos serán seducidos por aquéllos cuyo poder viene del diablo *2Tes 2,9-12* *Ap 13,2-7* y a los que el Señor destruirá con el soplo de su boca el [[día_del_señor|día]] de su advenimiento *2Tes 2,8*. En este día será destruida la muerte, así como todo poder enemigo *1Cor 15,24ss*; Dios, por su poder, resucitará los [[cuerpo|cuerpos]] de aquellos en quienes habita su Espíritu *1Cor 6,14* *Rom 8,11*; él será todo en todos *1Cor 15,28*. En el Apocalipsis se oye a los elegidos cantar al Señor Dios, al todopoderoso (gr. *pantokratór*), cuyo trono comparte el [[cordero_de_dios|cordero]]: «¡Aleluya!, porque ha establecido su [[reino_de_dios]] el Señor, Dios todopoderoso» *Ap 19,6*. Reino de [[amor]], pues este todopoderoso es el Padre de «el que nos ama y nos ha librado de los pecados por su sangre. A él gloria y poder por los siglos de los siglos» *Ap 1,5s*.

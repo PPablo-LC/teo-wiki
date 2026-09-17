@@ -103,7 +103,7 @@ La Iglesia, nueva creación, no puede nacer sino del Espíritu *Jn 3,5s*. Los He
 
 ##### El Espíritu, gloria de Cristo en nosotros.
 
-«El que resucitó a Jesús» *Rom 8,11* por el poder de su Espíritu de santidad *1,4* e hizo de él un «espíritu vivificante» *1Cor 15,45*, hizo del Espíritu «la gloria del Señor» resucitado *2Cor 3,18*. El don del Espíritu Santo es la [[presencia_de_dios|presencia]] en nosotros de la [[gloria]] del Señor que nos transforma a su [[imagen]]. Pablo no separa a Cristo y al Espíritu: «Vivir es Cristo» *Gal 2,20* y es también el Espíritu *Rom 8,2.10*; estar «en Cristo Jesús» *8,1* es vivir «en el Espíritu» *8,5*.
+«El que resucitó a Jesús» *Rom 8,11* por el poder de su Espíritu de santidad *1,4* e hizo de él un «espíritu vivificante» *1Cor 15,45*, hizo del Espíritu «la gloria del Señor» resucitado *2Cor 3,18*. El don del Espíritu Santo es la [[presencia_de_dios|presencia]] en nosotros de la [[gloria]] del Señor que nos transforma a su [[imagen_de_dios]]. Pablo no separa a Cristo y al Espíritu: «Vivir es Cristo» *Gal 2,20* y es también el Espíritu *Rom 8,2.10*; estar «en Cristo Jesús» *8,1* es vivir «en el Espíritu» *8,5*.
 
 ##### Los signos del Espíritu.
 

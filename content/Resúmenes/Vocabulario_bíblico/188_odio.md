@@ -35,7 +35,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[discipulo]] — los discípulos odiados
 - [[nombre]] — por causa del nombre
 - [[carne]] — la carne enemiga de Dios
-- [[satan]] — el príncipe de este mundo
+- [[satanás]] — el príncipe de este mundo
 
 ## Contenido
 

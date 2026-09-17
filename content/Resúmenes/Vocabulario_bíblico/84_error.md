@@ -19,11 +19,11 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[castigos]] — vagar como castigo del error
 - [[camino]] — extraviarse del camino prescrito por Yahveh
 - [[idolos]] — la idolatría como consecuencia del error
-- [[penitencia_conversion]] — la conversión como salida del error
+- [[penitencia_y_conversión]] — la conversión como salida del error
 - [[endurecimiento]] — el endurecimiento que hace proliferar el error
 - [[sabiduria]] — la sabiduría de Dios que los príncipes no conocieron
 - [[anticristo]] — el espíritu de error en los últimos tiempos
-- [[Satán]] — el seductor del mundo entero
+- [[satanás]] — el seductor del mundo entero
 
 ## Contenido
 
@@ -31,7 +31,7 @@ El error no equivale a la ignorancia. No consiste en los titubeos de la intelige
 
 ### AT
 
-El error está situado en el plano religioso: una desobediencia que ciega. Errar es «extraviarse lejos del [[camino]] prescrito por Yahveh» *Dt 13,6.11*. Ligado a la apostasía de Israel, conduce a la [[idolos|idolatría]] *Am 2,4* *Is 44,20* *Sab 12,24* y deriva del abandono de Yahveh *Sab 5,6*. El [[justo]] camina con seguridad *Sal 26,1.3*; los [[impio|impíos]] son entregados a un extravío *Is 63,17* que Dios sanciona abandonándolos *Ez 14,6-11*, a menos que se [[penitencia_conversion|convirtan]] *Bar 4,28*. Con el [[endurecimiento]], el error prolifera *Sab 14,22-31*, y tienen gran responsabilidad los jefes del pueblo *Is 9,15*, los levitas *Ez 44,10-13* y los falsos [[profeta]]s *Os 4,5* *Is 30,10s* *Jer 23,9-40*. Se anuncia el error diabólico de los últimos tiempos *Dan 11,33ss*.
+El error está situado en el plano religioso: una desobediencia que ciega. Errar es «extraviarse lejos del [[camino]] prescrito por Yahveh» *Dt 13,6.11*. Ligado a la apostasía de Israel, conduce a la [[idolos|idolatría]] *Am 2,4* *Is 44,20* *Sab 12,24* y deriva del abandono de Yahveh *Sab 5,6*. El [[justo]] camina con seguridad *Sal 26,1.3*; los [[impio|impíos]] son entregados a un extravío *Is 63,17* que Dios sanciona abandonándolos *Ez 14,6-11*, a menos que se [[penitencia_y_conversión|convirtan]] *Bar 4,28*. Con el [[endurecimiento]], el error prolifera *Sab 14,22-31*, y tienen gran responsabilidad los jefes del pueblo *Is 9,15*, los levitas *Ez 44,10-13* y los falsos [[profeta]]s *Os 4,5* *Is 30,10s* *Jer 23,9-40*. Se anuncia el error diabólico de los últimos tiempos *Dan 11,33ss*.
 
 ### NT
 
@@ -41,4 +41,4 @@ Jesús denuncia los errores de sus contemporáneos *Mt 22,29* y los apóstoles p
 
 El error se mantiene activo entre los pecadores, «a la vez engañadores y engañados» *2Tim 3,13*. Hay que velar *Sant 1,16* *1Jn 2,26s*, desconfiar de las fábulas de los falsos doctores *1Tim 1,4* *2Pe 2,1s*, de la impostura de los hombres *Ef 4,14.25* *Tit 1,14*. Todos tienen el deber de reducir al pecador extraviado *Sant 5,20*.
 
-En previsión del fin de los tiempos, Jesús puso en guardia contra la seducción de los falsos profetas *Mt 24,5.11.24 p*. Este espíritu de error *1Jn 4,6*, este «misterio de la impiedad» *2Tes 2,7*, crece hasta el fin *2Pe 2,15-18* *Ap 20,8*, revelando su verdadero rostro: el del [[anticristo]] *2Jn 7*, el de [[Satán]] que le inspira *2Tes 2,9ss*, el del diablo «seductor del mundo entero» *Ap 12,9*. Pero finalmente la [[bestia]], el falso profeta y el diablo serán echados al estanque de fuego *19,20* *20,3.10*.
+En previsión del fin de los tiempos, Jesús puso en guardia contra la seducción de los falsos profetas *Mt 24,5.11.24 p*. Este espíritu de error *1Jn 4,6*, este «misterio de la impiedad» *2Tes 2,7*, crece hasta el fin *2Pe 2,15-18* *Ap 20,8*, revelando su verdadero rostro: el del [[anticristo]] *2Jn 7*, el de [[satanás]] que le inspira *2Tes 2,9ss*, el del diablo «seductor del mundo entero» *Ap 12,9*. Pero finalmente la [[bestia]], el falso profeta y el diablo serán echados al estanque de fuego *19,20* *20,3.10*.

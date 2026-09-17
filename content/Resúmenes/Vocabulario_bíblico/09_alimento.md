@@ -29,7 +29,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[promesas]] — las promesas de Dios que sustentan al pueblo
 - [[tierra]] — la tierra prometida, país de abundancia y gratuidad
 - [[muerte]] — la Santa Misa, prelibación de la vida eterna
-- [[puro]] — la distinción entre animales puros e impuros
+- [[pureza]] — la distinción entre animales puros e impuros
 - [[acción_de_gracias]] — cualquier cosa que coma o beba, fuente de acción de gracias
 - [[ayuno]] — Jesús ayuna cuarenta días y cuarenta noches
 - [[pan]] — el pan del cielo, que baja del cielo y da la vida al mundo

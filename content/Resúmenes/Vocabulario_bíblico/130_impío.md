@@ -16,7 +16,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[piedad]] — lo contrario de la impiedad
 - [[adan]] — Adán despreció el mandamiento
-- [[babel_babilonia]] — la soberbia Babilonia
+- [[babel]] — la soberbia Babilonia
 - [[locura]] — los impíos y los locos
 - [[pobres]] — los impíos se encarnizan contra los justos y los pobres
 - [[justicia]] — la justicia de Dios
@@ -31,7 +31,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[tradicion]] — las tradiciones legales
 - [[pecado]] — todo hombre es pecador
 - [[evangelio]] — el evangelio da a los pecadores la posibilidad de penitencia
-- [[penitencia_conversion]] — la penitencia
+- [[penitencia_y_conversión]] — la penitencia
 - [[sacrificio]] — Cristo murió por la mano de los impíos
 - [[justificacion]] — los justos del NT, impíos justificados por gracia
 - [[gracia]] — la gracia
@@ -48,7 +48,7 @@ Con un vocabulario variado, tanto en hebreo como en griego, describe la Biblia u
 
 ### Los impíos frente a Dios.
 
-La impiedad es un hecho universal en la humanidad pecadora: impiedad de la generación del diluvio *Gen 6,11* *Job 22,15ss*, de los constructores de Babel *Gen 11,4*, de los habitantes de Sodoma *Sab 10,6*... Pero se afirma con especial claridad en los pueblos paganos enemigos de Israel, desde Faraón perseguidor *Sab 10,20* *11,9* hasta los cananeos idólatras *Sab 12,9*, desde Senaquerib el blasfemo *Is 37,17* hasta la soberbia [[babel_babilonia|Babilonia]] *Is 13,11* *14,4* y hasta el perseguidor Antíoco Epífanes *2Mac 7,34*. Sin embargo, el mismo pueblo de Dios no está exento de ella: son impíos los sublevados del desierto *Sal 106,13-33* como los habitantes infieles de la tierra prometida *Sal 106,34-40*; impía, la nación pecadora contra la que Dios envía a los paganos que la han de castigar *Is 10,6* *1,4*. A pesar de la conversión nacional, los salmistas y los sabios denunciarán todavía después del exilio la existencia de la impiedad en el pueblo fiel, y la crisis macabea pondrá en el primer plano a ciertos judíos extraviados *1Mac 3,15* *6,21*, etc.
+La impiedad es un hecho universal en la humanidad pecadora: impiedad de la generación del diluvio *Gen 6,11* *Job 22,15ss*, de los constructores de Babel *Gen 11,4*, de los habitantes de Sodoma *Sab 10,6*... Pero se afirma con especial claridad en los pueblos paganos enemigos de Israel, desde Faraón perseguidor *Sab 10,20* *11,9* hasta los cananeos idólatras *Sab 12,9*, desde Senaquerib el blasfemo *Is 37,17* hasta la soberbia [[babel|Babilonia]] *Is 13,11* *14,4* y hasta el perseguidor Antíoco Epífanes *2Mac 7,34*. Sin embargo, el mismo pueblo de Dios no está exento de ella: son impíos los sublevados del desierto *Sal 106,13-33* como los habitantes infieles de la tierra prometida *Sal 106,34-40*; impía, la nación pecadora contra la que Dios envía a los paganos que la han de castigar *Is 10,6* *1,4*. A pesar de la conversión nacional, los salmistas y los sabios denunciarán todavía después del exilio la existencia de la impiedad en el pueblo fiel, y la crisis macabea pondrá en el primer plano a ciertos judíos extraviados *1Mac 3,15* *6,21*, etc.
 
 ### Los impíos y los justos.
 
@@ -62,7 +62,7 @@ Los fieles de la alianza saben bien que los impíos van a la ruina *Sal 1,4ss* *
 
 ### La verdadera impiedad.
 
-En el vocabulario griego del NT se designa en forma aún más precisa la actitud espiritual estigmatizada por el AT: es la impiedad (*asebeia*), la injusticia (*adikía*), el repudio de la ley (*anomía*). Sin embargo, a través de las discusiones de Jesús con los fariseos no se tarda en ver enfrentarse dos concepciones de este desprecio de Dios. Para los [[fariseos|fariseos]], la piedra de toque de la [[piedad|piedad]] es la práctica de las prescripciones legales y de las [[tradicion|tradiciones]] que las rodean; la ignorancia en esta materia es ya impiedad *Jn 7,49*; así pues, Jesús obra mal comiendo con los pecadores *Mt 9,11 p*, siendo su amigo *Mt 11,19 p*, hospedándose en su casa *Lc 19,7*. Pero Jesús sabe muy bien que todo hombre es [[pecado|pecador]] y que nadie puede llamarse a sí mismo piadoso y justo; el [[evangelio|evangelio]] que él aporta da precisamente a los pecadores una posibilidad de [[penitencia_conversion|penitencia]] y de salvación *Lc 5,32*. La piedra de toque de la verdadera piedad será, pues, la actitud adoptada frente a este evangelio.
+En el vocabulario griego del NT se designa en forma aún más precisa la actitud espiritual estigmatizada por el AT: es la impiedad (*asebeia*), la injusticia (*adikía*), el repudio de la ley (*anomía*). Sin embargo, a través de las discusiones de Jesús con los fariseos no se tarda en ver enfrentarse dos concepciones de este desprecio de Dios. Para los [[fariseos|fariseos]], la piedra de toque de la [[piedad|piedad]] es la práctica de las prescripciones legales y de las [[tradicion|tradiciones]] que las rodean; la ignorancia en esta materia es ya impiedad *Jn 7,49*; así pues, Jesús obra mal comiendo con los pecadores *Mt 9,11 p*, siendo su amigo *Mt 11,19 p*, hospedándose en su casa *Lc 19,7*. Pero Jesús sabe muy bien que todo hombre es [[pecado|pecador]] y que nadie puede llamarse a sí mismo piadoso y justo; el [[evangelio|evangelio]] que él aporta da precisamente a los pecadores una posibilidad de [[penitencia_y_conversión|penitencia]] y de salvación *Lc 5,32*. La piedra de toque de la verdadera piedad será, pues, la actitud adoptada frente a este evangelio.
 
 ### El llamamiento de los impíos a la salvación.
 

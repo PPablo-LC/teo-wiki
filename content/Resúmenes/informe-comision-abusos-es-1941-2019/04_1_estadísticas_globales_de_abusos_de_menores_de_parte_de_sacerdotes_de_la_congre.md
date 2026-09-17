@@ -15,7 +15,7 @@ tags: ["resumen", "informe_1941_2019", "abuso_sexual", "estadísticas", "protege
 - [[informe_1941_2019]] — Informe sobre el fenómeno del abuso sexual de menores en la Congregación
 - [[proteger_y_sanar]] — Criterios aplicados a cada caso para la actualización estadística
 - [[abuso_sexual_de_menores]] — Fenómeno estudiado en el informe
-- [[congregación_para_la_doctrina_de_la_fe]] — Congregación ante la que se sustancian los procedimientos canónicos
+- [[dicasterio_para_la_doctrina_de_la_fe]] — Congregación ante la que se sustancian los procedimientos canónicos
 - [[abuso_de_menores]] — Casos denunciados tras el Informe 1941-2019
 
 ## Contenido

@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[humildad]] — la humildad de Moisés
 - [[amigo]] — tratado como amigo
 - [[gloria]] — la gloria de Dios
-- [[liberacion_libertad]] — la liberación de su pueblo
+- [[liberación_y_libertad]] — la liberación de su pueblo
 - [[calamidad]] — las calamidades que manifiestan el juicio
 - [[juicio]] — el juicio divino
 - [[pascua]] — la pascua celebrada
@@ -37,7 +37,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[oracion]] — el papel de intercesor
 - [[victoria]] — la victoria sobre los enemigos
 - [[ira]] — la ira divina
-- [[siervo_de_yahveh]] — el siervo doliente
+- [[siervo_de_yahvé]] — el siervo doliente
 - [[figura]] — figura de Cristo
 
 ## Contenido
@@ -50,7 +50,7 @@ La vocación de Moisés es el remate de una larga preparación providencial. Moi
 
 ### El libertador y el mediador de la alianza
 
-El primer acto de su misión de jefe es la [[liberacion_libertad|liberación]] de su pueblo. Moisés debe poner fin a la opresión que impide a Israel tributar culto al Dios, que el Faraón se niega a reconocer *Ex 4,22s* *5,1-18*. Pero para esto debe Dios «mostrar su mano poderosa» hiriendo a los egipcios con golpes reiterados: Moisés es el artífice de estas [[calamidad|calamidades]] que manifiestan el [[juicio|juicio]] divino. En el momento de la última plaga, todavía bajo las órdenes de Moisés, lleno de la sabiduría de Dios *Sab 10,16-20*, celebra Israel la [[pascua|pascua]]. Luego todavía «por la mano de Moisés» *Sal 77,21* conduce Dios a su pueblo a través del mar que sumerge a los perseguidores *Ex 14*. El primer objetivo del [[exodo|éxodo]] se ha logrado: en el Sinaí ofrece Moisés el sacrificio que convierte a Israel en el [[pueblo|pueblo]] de Dios *19,4ss* sellando su [[alianza|alianza]] con él *24,3-8* *Heb 9,18ss*.
+El primer acto de su misión de jefe es la [[liberación_y_libertad|liberación]] de su pueblo. Moisés debe poner fin a la opresión que impide a Israel tributar culto al Dios, que el Faraón se niega a reconocer *Ex 4,22s* *5,1-18*. Pero para esto debe Dios «mostrar su mano poderosa» hiriendo a los egipcios con golpes reiterados: Moisés es el artífice de estas [[calamidad|calamidades]] que manifiestan el [[juicio|juicio]] divino. En el momento de la última plaga, todavía bajo las órdenes de Moisés, lleno de la sabiduría de Dios *Sab 10,16-20*, celebra Israel la [[pascua|pascua]]. Luego todavía «por la mano de Moisés» *Sal 77,21* conduce Dios a su pueblo a través del mar que sumerge a los perseguidores *Ex 14*. El primer objetivo del [[exodo|éxodo]] se ha logrado: en el Sinaí ofrece Moisés el sacrificio que convierte a Israel en el [[pueblo|pueblo]] de Dios *19,4ss* sellando su [[alianza|alianza]] con él *24,3-8* *Heb 9,18ss*.
 
 Al pueblo de la alianza se agregan todos los que han sido bautizados en Moisés *1Cor 10,2*, es decir, los que por haberle seguido atravesaron el mar, guiados por la [[nube|nube]], y experimentaron la [[salvacion|salvación]]. Moisés, «su jefe y su redentor» *Act 7,35*, prefigura así a Cristo, mediador de una alianza nueva y mejor *Heb 8,6* *9,14s*, redentor que libera del pecado a los que son bautizados en su nombre *Act 2,38* *5,31*.
 
@@ -62,7 +62,7 @@ Moisés es así el primero de esos [[profeta|profetas]] *Os 12,14*, que tienen p
 
 ### El intercesor
 
-Moisés es especialmente admirable en su papel de intercesor; por su [[oracion|oración]] asegura a Israel la [[victoria|victoria]] de sus enemigos *Ex 17,9-13* y le obtiene el perdón de sus pecados *32,11-14* *Num 14,13-20* *21,7ss*. Lo salva así de la muerte interponiéndose ante la [[ira|ira]] divina *Sal 106,23*. «Perdona su pecado... si no, ¡bórrame de tu libro!» *Ex 32,31s*. Con esta ardiente caridad esboza los rasgos del [[siervo_de_yahveh|siervo]] doliente que intercederá por los pecadores cargando con sus faltas *Is 53,12*. Prefigura también al «profeta semejante a él» cuya venida anuncia *Dt 18,15-18*. Esteban recordará esta predicción *Act 7,37* y Pedro lo proclamará realizado en Jesús *Act 3,22s*. De este «profeta» por excelencia *Jn 1,21* *6,14* da Moisés testimonio en la Escritura *Jn 5,46* *Lc 24,21*; por eso se halla a su lado en la transfiguración *Lc 9,30s*. Pero Cristo, nuevo Moisés, rebasa la ley dándole cumplimiento *Mt 5,17*, pues él es el fin de la misma *Rom 10,4*: habiendo cumplido todo lo que estaba escrito de él en la ley de Moisés, fue resucitado por su Padre a fin de dar el Espíritu Santo a los hombres *Lc 24,44-49*.
+Moisés es especialmente admirable en su papel de intercesor; por su [[oracion|oración]] asegura a Israel la [[victoria|victoria]] de sus enemigos *Ex 17,9-13* y le obtiene el perdón de sus pecados *32,11-14* *Num 14,13-20* *21,7ss*. Lo salva así de la muerte interponiéndose ante la [[ira|ira]] divina *Sal 106,23*. «Perdona su pecado... si no, ¡bórrame de tu libro!» *Ex 32,31s*. Con esta ardiente caridad esboza los rasgos del [[siervo_de_yahvé|siervo]] doliente que intercederá por los pecadores cargando con sus faltas *Is 53,12*. Prefigura también al «profeta semejante a él» cuya venida anuncia *Dt 18,15-18*. Esteban recordará esta predicción *Act 7,37* y Pedro lo proclamará realizado en Jesús *Act 3,22s*. De este «profeta» por excelencia *Jn 1,21* *6,14* da Moisés testimonio en la Escritura *Jn 5,46* *Lc 24,21*; por eso se halla a su lado en la transfiguración *Lc 9,30s*. Pero Cristo, nuevo Moisés, rebasa la ley dándole cumplimiento *Mt 5,17*, pues él es el fin de la misma *Rom 10,4*: habiendo cumplido todo lo que estaba escrito de él en la ley de Moisés, fue resucitado por su Padre a fin de dar el Espíritu Santo a los hombres *Lc 24,44-49*.
 
 ### La gloria de Moisés
 

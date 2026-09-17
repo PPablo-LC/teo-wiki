@@ -45,9 +45,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[bautismo]] — el rito bautismal, condición de la vida nueva
 - [[imposicion_de_manos]] — la imposición de manos apostólica
 - [[semana]] — el domingo, primer día de la semana
-- [[dia_domini]] — el día del Señor
+- [[día_del_señor]] — el día del Señor
 - [[mujer]] — el velo de las mujeres en las asambleas
-- [[imagen]] — el culto cristiano, imagen del régimen futuro
+- [[imagen_de_dios]] — el culto cristiano, imagen del régimen futuro
 - [[cruz]] — el altar de la cruz
 - [[comunion]] — la comunión que prepara la comunión eterna
 - [[cuerpo]] — un solo cuerpo glorificando al Padre

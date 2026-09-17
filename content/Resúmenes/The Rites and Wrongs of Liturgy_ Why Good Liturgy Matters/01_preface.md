@@ -13,7 +13,7 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 ## Conceptos básicos referenciados
 
 - [[liturgia]]
-- [[discípulos_de_cristo]]
+- [[discípulo]]
 
 ## Contenido
 

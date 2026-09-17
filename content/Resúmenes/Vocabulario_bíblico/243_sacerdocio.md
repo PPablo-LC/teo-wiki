@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[culto]] — servicio del culto, liturgias, sacrificio perpetuo
 - [[tradición]] — mantiene viva la tradición de Moisés y los profetas
 - [[santo]] — pureza y santidad exigidas al sacerdote
-- [[puro]] — pureza ritual y moral del sacerdote
+- [[pureza]] — pureza ritual y moral del sacerdote
 - [[fiestas]] — preside liturgias en las fiestas del pueblo
 - [[profeta]] — relación sacerdote-profeta, crítica profética al sacerdocio
 - [[espíritu]] — los profetas movidos por el Espíritu; Jesús comparte nuestra pobreza
@@ -31,7 +31,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[conocer]] — el sacerdote como hombre del conocimiento *Os 4,6*
 - [[figura]] — Jesús describe su muerte con figuras del AT
 - [[cordero_de_dios]] — muerte de Cristo comparada al cordero pascual
-- [[siervo_de_yahveh]] — sacrificio expiatorio del Siervo de Dios
+- [[siervo_de_yahvé]] — sacrificio expiatorio del Siervo de Dios
 - [[sangre]] — sangre de la alianza, sangre de Cristo
 - [[redención]] — muerte de Jesús como acto de redención
 - [[evangelio]] — palabra de Jesús como Evangelio de la Salvación
@@ -115,13 +115,13 @@ Los valores del AT cobran todo su sentido en Jesús que los cumple superándolos
 
 Jesús no se atribuye título de sacerdote (reservado a Leví). Comprende su quehacer muy diferente, más amplio y creador. Se llama [[Hijo|Hijo]] e [[Hijo|Hijo del hombre]]. Pero define su misión con términos sacerdotales (implícitos, figurados).
 
-Claro cuando habla de su [[muerte]]: para enemigos = castigo blasfemia; discípulos = fracaso. Para él = [[sacrificio]], descrito con figuras AT: sacrificio expiatorio del [[siervo_de_yahveh|Siervo]] *Mc 10,45* *14,24* *Is 53*; sacrificio de [[alianza]] de Moisés *Mc 14,24* *Ex 24,8*; sangre en pascua = cordero pascual *Mc 14,24* *Ex 12,7.13.22s*. Acepta la muerte, la ofrece como el sacerdote la víctima; espera expiación, nueva Alianza, salvación. En una palabra: sacerdote de su propio sacrificio.
+Claro cuando habla de su [[muerte]]: para enemigos = castigo blasfemia; discípulos = fracaso. Para él = [[sacrificio]], descrito con figuras AT: sacrificio expiatorio del [[siervo_de_yahvé|Siervo]] *Mc 10,45* *14,24* *Is 53*; sacrificio de [[alianza]] de Moisés *Mc 14,24* *Ex 24,8*; sangre en pascua = cordero pascual *Mc 14,24* *Ex 12,7.13.22s*. Acepta la muerte, la ofrece como el sacerdote la víctima; espera expiación, nueva Alianza, salvación. En una palabra: sacerdote de su propio sacrificio.
 
 Segunda función AT: servicio de la [[ley|torah]]. Jesús: viene a cumplir la ley *Mt 5,17s*; supera la letra *Mt 5,20-48*; aclara valor profundo (primer mandamiento y segundo *Mt 22,34-40*). Prolonga sacerdocio AT pero lo supera: [[palabra_de_dios|palabra]] de Jesús = revelación suprema, [[evangelio]] de la Salvación que realiza definitivamente la ley.
 
 ##### De Pablo a Juan.
 
-Pablo presenta muerte de Jesús bajo [[figura]]s del [[cordero_de_dios|cordero]] pascual *1Cor 5,7*, del [[siervo_de_yahveh|Siervo]] *Flp 2,6-11*, del día de la [[expiación]] *Rom 3,24s*. Imágenes de comunión en la [[sangre]] de Cristo *1Cor 10,16-22*, [[redención]] por esta sangre *Rom 5,9* *Col 1,20* *Ef 1,7* *2,13*. Muerte = acto supremo de libertad, sacrificio por excelencia, acto propiamente sacerdotal, que él mismo ofrece. Tampoco Pablo da a Jesús título de sacerdote. Otros escritos NT (excepto Hebreos): muerte = sacrificio del Siervo *Act 3,13.26* *4,27.30* *8,32s* *1Pe 2,22ss*, del cordero *1Pe 1,19*, evocan su sangre *1Pe 1,2.19* *1Jn 1,7*. No le llaman sacerdote. Escritos joánnicos menos reticentes: vestidura pontifical *Jn 19,23* *Ap 1,13*, pasión = acto sacrificial, abre con «oración sacerdotal» *Jn 17*; Jesús «se santifica» (consagra por sacrificio) *Jn 17,19*, ejerce mediación eficaz a la que aspiraba vanamente sacerdocio antiguo.
+Pablo presenta muerte de Jesús bajo [[figura]]s del [[cordero_de_dios|cordero]] pascual *1Cor 5,7*, del [[siervo_de_yahvé|Siervo]] *Flp 2,6-11*, del día de la [[expiación]] *Rom 3,24s*. Imágenes de comunión en la [[sangre]] de Cristo *1Cor 10,16-22*, [[redención]] por esta sangre *Rom 5,9* *Col 1,20* *Ef 1,7* *2,13*. Muerte = acto supremo de libertad, sacrificio por excelencia, acto propiamente sacerdotal, que él mismo ofrece. Tampoco Pablo da a Jesús título de sacerdote. Otros escritos NT (excepto Hebreos): muerte = sacrificio del Siervo *Act 3,13.26* *4,27.30* *8,32s* *1Pe 2,22ss*, del cordero *1Pe 1,19*, evocan su sangre *1Pe 1,2.19* *1Jn 1,7*. No le llaman sacerdote. Escritos joánnicos menos reticentes: vestidura pontifical *Jn 19,23* *Ap 1,13*, pasión = acto sacrificial, abre con «oración sacerdotal» *Jn 17*; Jesús «se santifica» (consagra por sacrificio) *Jn 17,19*, ejerce mediación eficaz a la que aspiraba vanamente sacerdocio antiguo.
 
 ##### 3. La epístola a los Hebreos.
 

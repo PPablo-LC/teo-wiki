@@ -27,8 +27,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[santo]] — sentido de la santidad de Dios
 - [[pecado]] — obsesión del pecado, necesidad de purificación
 - [[sangre]] — gran papel de la sangre, eficacia deriva de voluntad divina
-- [[penitencia_conversion]] — sentimientos de penitencia
-- [[puro]] — leyes sobre lo puro y lo impuro orientan hacia abstención del mal
+- [[penitencia_y_conversión]] — sentimientos de penitencia
+- [[pureza]] — leyes sobre lo puro y lo impuro orientan hacia abstención del mal
 - [[gozo]] — comida de selamim traduce comunión en gozo y euforia espiritual
 - [[adoración]] — holocausto expresa adoración
 - [[perdón]] — confesión del pecado, deseo del perdón (ritos expiatorios)
@@ -38,7 +38,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[abraham]] — ejemplo del patriarca Abraham
 - [[alma]] — primacía del alma sobre el rito
 - [[hipocrita]] — sacrificio vano e hipócrita sin disposiciones del corazón
-- [[siervo_de_yahveh]] — Siervo de Dios ofrece su muerte en sacrificio de expiación
+- [[siervo_de_yahvé]] — Siervo de Dios ofrece su muerte en sacrificio de expiación
 - [[imposicion_de_manos]] — imposición de manos en rito expiatorio
 - [[servir]] — Jesús viene para servir
 - [[pascua]] — marco pascual de la comida de adiós
@@ -56,7 +56,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[cielo]] — excelencia del santuario: el cielo
 - [[carne]] — pureza de la carne vs purificación de conciencias
 - [[figura]] — ritos prefiguraban el sacrificio redentor
-- [[puro]] — purificación de las conciencias
+- [[pureza]] — purificación de las conciencias
 
 ## Contenido
 
@@ -80,7 +80,7 @@ Biblia atestigua coexistencia de tipos variados desde comienzos. Holocausto (*'�
 
 ##### ... a la síntesis del Levítico.
 
-Levítico expone sistemáticamente los «[[don]]es» ofrecidos a Dios *Lev 1-7* *22,17-30*, sangrientos o no (*minhah*): holocausto, ofrendas de alimentos, sacrificios de comunión ([[eucarístico|eucarístico]], votivo, espontáneo), sacrificio por el pecado (*hatta't*), sacrificio de reparación (*asam*). Rúbricas no ahogan espíritu: gestos minuciosos cargados de sentido sagrado. [[Accion_de_gracias|Acción de gracias]] y deseo de [[expiación]] *Lev 1,4* *2Re 12,16* *Job 1,5* inspiran holocausto. Tras terminología indigesta: fino sentido de la [[santo|santidad]] de Dios, obsesión del [[pecado]], necesidad insatisfecha de purificación. Noción de sacrificio tiende a concentrarse en idea de expiación. Gran papel de la [[sangre]], pero eficacia deriva de voluntad divina *Lev 17,11* *Is 43,25* y supone sentimientos de [[penitencia_conversion|penitencia]]. Reparación de impurezas rituales, faltas inconscientes inicia en purificación del corazón; leyes sobre lo [[puro]] y lo impuro orientan almas hacia abstención del mal. Comida de *selamim* traduce y realiza en [[gozo]] y euforia espiritual la [[comunión]] de comensales entre sí y con Dios (participan de misma víctima).
+Levítico expone sistemáticamente los «[[don]]es» ofrecidos a Dios *Lev 1-7* *22,17-30*, sangrientos o no (*minhah*): holocausto, ofrendas de alimentos, sacrificios de comunión ([[eucarístico|eucarístico]], votivo, espontáneo), sacrificio por el pecado (*hatta't*), sacrificio de reparación (*asam*). Rúbricas no ahogan espíritu: gestos minuciosos cargados de sentido sagrado. [[Accion_de_gracias|Acción de gracias]] y deseo de [[expiación]] *Lev 1,4* *2Re 12,16* *Job 1,5* inspiran holocausto. Tras terminología indigesta: fino sentido de la [[santo|santidad]] de Dios, obsesión del [[pecado]], necesidad insatisfecha de purificación. Noción de sacrificio tiende a concentrarse en idea de expiación. Gran papel de la [[sangre]], pero eficacia deriva de voluntad divina *Lev 17,11* *Is 43,25* y supone sentimientos de [[penitencia_y_conversión|penitencia]]. Reparación de impurezas rituales, faltas inconscientes inicia en purificación del corazón; leyes sobre lo [[pureza]] y lo impuro orientan almas hacia abstención del mal. Comida de *selamim* traduce y realiza en [[gozo]] y euforia espiritual la [[comunión]] de comensales entre sí y con Dios (participan de misma víctima).
 
 #### III. De los ritos al sacrificio espiritual.
 
@@ -94,7 +94,7 @@ Tentación: apegarse al rito descuidando el signo. Amonestaciones de los profeta
 
 ##### La cima de la religión interior en el AT.
 
-Junto a síntesis legislativa del Levítico, otra síntesis viva encarnada en persona. El [[siervo_de_yahveh|siervo]] de Dios, *Is 53*, ofrecerá su muerte en sacrificio de expiación. Oráculo profético = progreso notable sobre *Lev 16*. Macho cabrío emisario llevaba pecados del pueblo, pero no se identificaba con víctima (a pesar de [[imposicion_de_manos|imposición de manos]]). Doctrina sustitución vicaria penal no asomaba. En cambio, siervo se constituye libremente en sustituto de pecadores. Oblación sin defecto aprovecha a la «multitud» según designio de Dios. Aquí máximum de interioridad + máximum de don + máximum de eficacia.
+Junto a síntesis legislativa del Levítico, otra síntesis viva encarnada en persona. El [[siervo_de_yahvé|siervo]] de Dios, *Is 53*, ofrecerá su muerte en sacrificio de expiación. Oráculo profético = progreso notable sobre *Lev 16*. Macho cabrío emisario llevaba pecados del pueblo, pero no se identificaba con víctima (a pesar de [[imposicion_de_manos|imposición de manos]]). Doctrina sustitución vicaria penal no asomaba. En cambio, siervo se constituye libremente en sustituto de pecadores. Oblación sin defecto aprovecha a la «multitud» según designio de Dios. Aquí máximum de interioridad + máximum de don + máximum de eficacia.
 
 ### NT
 
@@ -114,7 +114,7 @@ En templo había mesa para panes de proposición; en comunión cristiana existe 
 
 ##### Figuras y realidad.
 
-Múltiples alusiones a vocabulario ritual AT descubren sentido profundo de liturgia antigua: preparaba y [[figura|prefiguraba]] el sacrificio redentor. Hebreos explicita con comparación sistemática de dos economías. Jesús, sumo sacerdote y víctima, funda como Moisés en Sinaí alianza entre Dios y su pueblo. Alianza perfecta y definitiva *Heb 8,6-13* *9,15-10,18*. Cristo, como sumo sacerdote día de expiación, realiza acción purificadora. Pero abolición del pecado por efusión de su sangre, más eficaz que víctimas del templo. Cristianos obtienen no solo «[[puro|pureza]] de la [[carne]]», sino «purificación de las conciencias» *9,12ss*. Personalidad del pontífice, excelencia del santuario = [[cielo]] garantizan valor único, eficacia absoluta y universal de oblación de Cristo. Este sacrificio, arquetipo de todos los otros (sombra de la realidad), no necesita reiterarse *10,1.10*. Liturgia que según Apocalipsis *Ap 5,6* se despliega en cielo en torno al cordero inmolado, converge con Hebreos.
+Múltiples alusiones a vocabulario ritual AT descubren sentido profundo de liturgia antigua: preparaba y [[figura|prefiguraba]] el sacrificio redentor. Hebreos explicita con comparación sistemática de dos economías. Jesús, sumo sacerdote y víctima, funda como Moisés en Sinaí alianza entre Dios y su pueblo. Alianza perfecta y definitiva *Heb 8,6-13* *9,15-10,18*. Cristo, como sumo sacerdote día de expiación, realiza acción purificadora. Pero abolición del pecado por efusión de su sangre, más eficaz que víctimas del templo. Cristianos obtienen no solo «[[pureza|pureza]] de la [[carne]]», sino «purificación de las conciencias» *9,12ss*. Personalidad del pontífice, excelencia del santuario = [[cielo]] garantizan valor único, eficacia absoluta y universal de oblación de Cristo. Este sacrificio, arquetipo de todos los otros (sombra de la realidad), no necesita reiterarse *10,1.10*. Liturgia que según Apocalipsis *Ap 5,6* se despliega en cielo en torno al cordero inmolado, converge con Hebreos.
 
 ##### Del sacrificio de la cabeza al «sacrificio espiritual» de los miembros.
 

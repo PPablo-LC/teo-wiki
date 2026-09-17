@@ -21,8 +21,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[idolos]] — la seducción del culto astral idolátrico
 - [[temor]] — el temor instintivo hacia los poderes cósmicos
 - [[guerra]] — el viejo tema mítico de la guerra de los dioses
-- [[satan]] — la figura de Satán enriquecida con elementos simbólicos astrales
-- [[dia_domini]] — el juicio del ejército de los cielos en el día de Yahveh
+- [[satanás]] — la figura de Satán enriquecida con elementos simbólicos astrales
+- [[día_del_señor]] — el juicio del ejército de los cielos en el día de Yahveh
 - [[juicio]] — el juicio de los astros como ángeles malos
 - [[cruz]] — la cruz que liberta de la angustia cósmica
 - [[resurreccion]] — la gloria eterna de los justos resucitados comparada con los astros

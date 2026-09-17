@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[liberacion_libertad]] — Israel liberado de la servidumbre de Egipto
+- [[liberación_y_libertad]] — Israel liberado de la servidumbre de Egipto
 - [[ley]] — la ley que tiende a atenuar el rigor de la esclavitud
 - [[pecado]] — pecado y esclavitud van de la mano
 - [[justicia]] — esclavos de Dios y de la justicia
@@ -23,7 +23,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-La esclavitud era practicada en Israel. Buen número de esclavos eran de origen extranjero: prisioneros de guerra *Dt 21,10* o comprados a mercaderes *Gen 17,12*. También a hebreos se vendía o ellos mismos se vendían *Ex 21,1-11* *22,2* *2Re 4,1*. Sin embargo, la esclavitud no alcanzó nunca la amplitud de la antigüedad clásica, porque Israel llevaba la marca de su doble experiencia: la aflicción en Egipto y la [[liberacion_libertad|liberación]] maravillosa por Dios *Dt 26,6ss*.
+La esclavitud era practicada en Israel. Buen número de esclavos eran de origen extranjero: prisioneros de guerra *Dt 21,10* o comprados a mercaderes *Gen 17,12*. También a hebreos se vendía o ellos mismos se vendían *Ex 21,1-11* *22,2* *2Re 4,1*. Sin embargo, la esclavitud no alcanzó nunca la amplitud de la antigüedad clásica, porque Israel llevaba la marca de su doble experiencia: la aflicción en Egipto y la [[liberación_y_libertad|liberación]] maravillosa por Dios *Dt 26,6ss*.
 
 ### I. EL PROBLEMA SOCIAL
 

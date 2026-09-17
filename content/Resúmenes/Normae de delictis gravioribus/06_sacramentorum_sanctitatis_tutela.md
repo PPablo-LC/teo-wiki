@@ -13,7 +13,7 @@ tags: ["resumen", "normae de delictis gravioribus"]
 ## Conceptos básicos referenciados
 
 - [[sacramentorum_sanctitatis_tutela]] — Carta Apostólica base de las Normas
-- [[congregación_para_la_doctrina_de_la_fe]] — dicasterio emisor
+- [[dicasterio_para_la_doctrina_de_la_fe]] — dicasterio emisor
 
 ## Contenido
 

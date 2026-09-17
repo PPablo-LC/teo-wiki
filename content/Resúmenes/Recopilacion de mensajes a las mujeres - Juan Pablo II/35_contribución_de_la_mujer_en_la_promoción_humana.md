@@ -13,7 +13,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ## Conceptos básicos referenciados
 
 - [[Asunción_de_María]] — solemnidad litúrgica celebrada por la Iglesia el 15 de agosto
-- [[santa_María]] — «figura y primicia de la Iglesia», Reina de la Paz
+- [[maría]] — «figura y primicia de la Iglesia», Reina de la Paz
 - [[dignidad_de_la_mujer]] — afirmación auténtica al dirigir la mirada a María
 - [[vida_humana]] — defensa de la vida como contribución indispensable de la mujer
 - [[Lumen_gentium]] — María como «señal de esperanza cierta y de consuelo» (n. 68)

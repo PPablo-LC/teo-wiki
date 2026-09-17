@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[deseo]] — la necesidad de Dios que apaga el deseo
-- [[prueba_tentacion]] — el hambre y la sed para probar a Israel
+- [[prueba_y_tentación]] — el hambre y la sed para probar a Israel
 - [[alimento]] — el alimento que da Yahveh
 - [[mana]] — el maná que viene del cielo
 - [[desierto]] — la lección del desierto
@@ -41,7 +41,7 @@ El hambre y la sed, que tan vivamente siente a veces el hombre, expresan simból
 
 #### Hambre y sed, prueba de la fe.
 
-a. En el desierto hizo Dios experimentar a su pueblo el hambre y la sed para [[prueba_tentacion|probarlo]] y para conocer en la tentación el fondo de su corazón *Dt 8,1ss*. Israel debía aprender que en su existencia dependía totalmente de Yahveh, único que le da el [[alimento|alimento]] y la bebida. Pero, más lejos y más profundamente que estas necesidades físicas, debe descubrir Israel una necesidad todavía más vital, la necesidad de Dios. El [[mana|maná]] que viene del cielo evoca precisamente lo que sale de la boca de Dios mismo, su palabra, la ley, en la que el pueblo debe hallar la vida *Dt 30,15ss* *32,46s*. Pero el pueblo no comprende y sólo piensa en las carnes de Egipto: «¡Oh, qué recuerdo!» *Num 11,4s*, y Dios, en lugar de la prueba saludable del hambre, se ve reducido a hartar a Israel de carne «hasta que le salga por las narices» *11,20* *Sal 78,26.31*.
+a. En el desierto hizo Dios experimentar a su pueblo el hambre y la sed para [[prueba_y_tentación|probarlo]] y para conocer en la tentación el fondo de su corazón *Dt 8,1ss*. Israel debía aprender que en su existencia dependía totalmente de Yahveh, único que le da el [[alimento|alimento]] y la bebida. Pero, más lejos y más profundamente que estas necesidades físicas, debe descubrir Israel una necesidad todavía más vital, la necesidad de Dios. El [[mana|maná]] que viene del cielo evoca precisamente lo que sale de la boca de Dios mismo, su palabra, la ley, en la que el pueblo debe hallar la vida *Dt 30,15ss* *32,46s*. Pero el pueblo no comprende y sólo piensa en las carnes de Egipto: «¡Oh, qué recuerdo!» *Num 11,4s*, y Dios, en lugar de la prueba saludable del hambre, se ve reducido a hartar a Israel de carne «hasta que le salga por las narices» *11,20* *Sal 78,26.31*.
 
 b. Israel, instalado en la tierra y saciado de sus bienes, olvidando la lección del [[desierto|desierto]], los atribuye a sus propios méritos y se gloría delante de Yahveh *Dt 32,10-15* *Os 13,4-8*. Es preciso que Dios vuelva a conducir a su pueblo al desierto *Os 2,5* para que muriendo de sed, llorando su trigo perdido y sus viñas devastadas *2,11.14*, despierte el [[corazon|corazón]] de Israel *2,16* y sienta el hambre y la sed esenciales, los «de oír la palabra de Yahveh» *Am 8,11*.
 

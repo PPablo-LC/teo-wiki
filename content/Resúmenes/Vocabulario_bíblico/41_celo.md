@@ -26,7 +26,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[elias]] — el profeta abrasado por el celo divino
 - [[piedad]] — los piadosos celosos por el bien
 - [[buscar]] — buscar ardientemente el bien
-- [[imagen]] — el hombre creado a imagen de Dios
+- [[imagen_de_dios]] — el hombre creado a imagen de Dios
 - [[dios]] — el Dios único exigiendo adoración exclusiva
 
 ## Contenido

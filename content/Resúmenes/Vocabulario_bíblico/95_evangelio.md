@@ -14,11 +14,11 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[reino]] — la venida del reino de Dios, esencia del mensaje
+- [[reino_de_dios]] — la venida del reino de Dios, esencia del mensaje
 - [[naciones]] — la buena nueva interesa a todas las naciones
 - [[victoria]] — la victoria definitiva de Dios
 - [[pobres]] — evangelizar a los pobres
-- [[penitencia_conversion]] — la respuesta al evangelio será penitencia y fe
+- [[penitencia_y_conversión]] — la respuesta al evangelio será penitencia y fe
 - [[fe]] — la fe, respuesta al evangelio
 - [[cruz]] — el evangelio prolonga el misterio de la cruz
 - [[escandalo]] — el evangelio, escándalo y «locura» para unos
@@ -33,7 +33,7 @@ Para nosotros el evangelio designa ya el escrito que narra la vida de Jesús, ya
 
 ### I. ANTIGUO TESTAMENTO
 
-El hebreo tenía una palabra para el anuncio de buenas nuevas de la vida privada o nacional: muerte de un enemigo *2Sa 18,19s.26*, la victoria *Sal 68,12*, la salvación de Judá *Nah 2,1*. Esta palabra adquiere valor propiamente religioso en *Is 40-66*: el «mensajero de buena nueva» anuncia con el fin del exilio la venida del reino de Dios *Is 52,7*; su mensaje es consolación, perdón del pecado, vuelta de Dios a Sión *40,1s.9*. Este «evangelio» es una fuerza divina en acción *52,1s*; gritado sobre la montaña *40,9*, interesa a todas las [[naciones]] *52,10* *Sal 96,2*. Rebasa el horizonte del siglo: más allá del retorno del exilio anuncia la [[victoria]] y el [[reino|reinado]] definitivos de Dios.
+El hebreo tenía una palabra para el anuncio de buenas nuevas de la vida privada o nacional: muerte de un enemigo *2Sa 18,19s.26*, la victoria *Sal 68,12*, la salvación de Judá *Nah 2,1*. Esta palabra adquiere valor propiamente religioso en *Is 40-66*: el «mensajero de buena nueva» anuncia con el fin del exilio la venida del reino de Dios *Is 52,7*; su mensaje es consolación, perdón del pecado, vuelta de Dios a Sión *40,1s.9*. Este «evangelio» es una fuerza divina en acción *52,1s*; gritado sobre la montaña *40,9*, interesa a todas las [[naciones]] *52,10* *Sal 96,2*. Rebasa el horizonte del siglo: más allá del retorno del exilio anuncia la [[victoria]] y el [[reino_de_dios|reinado]] definitivos de Dios.
 
 ### II. JESÚS
 

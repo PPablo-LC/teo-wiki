@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "**VI** - **IL METODO NELLA DIMORA**"
 fuente: Affezione_e_dimora-Volume_5-Luigi_Giussani
 capítulo: 30
-timestamp: 2026-09-13
+timestamp: 2026-09-17
 description: "Resumen de '**VI** - **IL METODO NELLA DIMORA**' — Affezione_e_dimora-Volume_5-Luigi_Giussani"
 tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 ---
@@ -12,31 +12,15 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[dimora]] — «La morada»: el método según el cual se vive la vida cristiana concretamente, en una casa/compañía donde Cristo está presente.
+- [[casa]] — La casa como lugar concreto donde este método se hace experiencia: punto de intersección de tiempo y espacio, templo de la presencia.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `30_vi_il_metodo_nella_dimora.md`
+Archivo de solo título que abre la Parte VI de la obra: «IL METODO NELLA DIMORA» («El método en la morada»). Tras haber descrito en la Parte V la dimora como método, esta parte agrupa las conversaciones que desarrollan el modo en que la casa y la compañía — morada concreta donde Cristo está presente y donde se aprende a vivir la vida en el mundo — se constituyen en camino efectivo de la vida cristiana.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | **VI** - **IL METODO NELLA DIMORA** |
-
-
-## Secciones incluidas
-

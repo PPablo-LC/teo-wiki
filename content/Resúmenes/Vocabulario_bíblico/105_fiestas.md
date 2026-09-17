@@ -31,7 +31,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[confesion]] — las confesiones colectivas del día de la expiación
 - [[deseo]] — el deseo de una conversión profunda
 - [[eucaristia]] — el misterio pascual conmemorado en la eucaristía
-- [[dia_domini]] — el domingo, día de la resurrección del Señor
+- [[día_del_señor]] — el domingo, día de la resurrección del Señor
 - [[cordero_de_dios]] — el verdadero cordero pascual
 - [[misterio_pascual]] — la celebración del misterio pascual
 
@@ -75,6 +75,6 @@ Jesús practicó sin duda las fiestas judías de su tiempo, pero mostraba ya que
 
 Si la pascua del cielo redujo a su unidad escatológica la multiplicidad de las fiestas judías, en adelante confiere un nuevo sentido a las múltiples fiestas de la Iglesia en la tierra. A diferencia de las fiestas judías, conmemoran un acontecimiento acaecido de una vez para siempre, que tiene valor de eternidad; pero las fiestas cristianas, como las fiestas judías, están sometidas al ritmo del tiempo y de la tierra, aun cuando refiriéndose a los hechos mayores de la existencia de Cristo. La Iglesia, si bien debe procurar que no se dé valor excesivo a sus fiestas *Gal 4,10*, las cuales también son sombras de la verdadera fiesta *Col 2,16*, sin embargo, no tiene por qué temer la multiplicidad de aquéllas.
 
-En primer lugar concentra la celebración en el [[misterio_pascual|misterio pascual]] conmemorado en la [[eucaristia|eucaristía]], que congrega a la comunidad el domingo, [[dia_domini|día]] de la resurrección del Señor *Act 20,7* *1Cor 16,2* *Ap 1,10*. El domingo, punto de partida de la [[semana|semana]], cuyo término era el sábado, marca la novedad radical de la fiesta cristiana, fiesta única, cuya irradiación ilumina el año entero, y cuya riqueza se desarrolla en un ciclo festivo centrado en pascua.
+En primer lugar concentra la celebración en el [[misterio_pascual|misterio pascual]] conmemorado en la [[eucaristia|eucaristía]], que congrega a la comunidad el domingo, [[día_del_señor|día]] de la resurrección del Señor *Act 20,7* *1Cor 16,2* *Ap 1,10*. El domingo, punto de partida de la [[semana|semana]], cuyo término era el sábado, marca la novedad radical de la fiesta cristiana, fiesta única, cuya irradiación ilumina el año entero, y cuya riqueza se desarrolla en un ciclo festivo centrado en pascua.
 
 Luego podrá empalmar con los ciclos naturales (p. ej., las cuatro témporas) evocando las riquezas de su patrimonio judío, pero siempre actualizándolo mediante el acontecimiento de Cristo y orientándolo según el misterio de la eterna fiesta celeste.

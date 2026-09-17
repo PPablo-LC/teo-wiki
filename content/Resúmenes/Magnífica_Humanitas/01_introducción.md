@@ -17,7 +17,7 @@ tags: ["resumen", "magnífica humanitas", "inteligencia_artificial", "doctrina_s
 - [[bien_común]] — meta de todo edificio social en la era digital
 - [[desarrollo_integral]] — promoción de cada ser humano en todas sus dimensiones
 - [[subsidiariedad]] — lógica del trabajo compartido
-- [[dignidad_de_la_persona_humana]] — objeto de custodia en el tiempo de la IA
+- [[dignidad_de_la_persona]] — objeto de custodia en el tiempo de la IA
 
 ## Las “res novae” de nuestro tiempo
 

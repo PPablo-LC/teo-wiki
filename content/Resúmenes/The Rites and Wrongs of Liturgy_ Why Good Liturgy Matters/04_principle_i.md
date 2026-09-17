@@ -16,7 +16,7 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 - [[Eucaristía]]
 - [[Palabra_de_Dios]]
 - [[celebración_eucarística]]
-- [[discípulos_de_cristo]]
+- [[discípulo]]
 - [[bautismo]]
 - [[liturgia_de_la_Palabra]]
 

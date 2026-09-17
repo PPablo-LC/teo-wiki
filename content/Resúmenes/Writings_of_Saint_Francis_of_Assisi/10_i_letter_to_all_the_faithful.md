@@ -12,7 +12,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-- [[santísimo_sacramento]] — Reverencia al Cuerpo y Sangre de Cristo
+- [[eucaristía]] — Reverencia al Cuerpo y Sangre de Cristo
 - [[eucaristía]] — Mandato de recibir el Cuerpo y Sangre del Señor
 - [[sacramento_de_penitencia]] — Confesión de todos los pecados a un sacerdote
 - [[oración]] — Oración continua con el Padrenuestro

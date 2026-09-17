@@ -17,7 +17,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[resurrección]] — las mujeres como primeras testigos y heraldos
 - [[Christifideles_laici]] — Sínodo sobre los laicos (1987), Propositio 47, n. 51
 - [[genio_femenino]] — actuación plena en los diversos ámbitos de la vida de la Iglesia
-- [[santa_María]] — modelo de la Iglesia e ideal de la femineidad
+- [[maría]] — modelo de la Iglesia e ideal de la femineidad
 
 ## Contenido
 

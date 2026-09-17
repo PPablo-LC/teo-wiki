@@ -16,14 +16,14 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[agua]] — el agua como criatura de Dios, don y símbolo
 - [[muerte]] — aguas de muerte: la inundación devastadora
-- [[puro]] — las abluciones de agua para purificar
+- [[pureza]] — las abluciones de agua para purificar
 - [[desierto]] — la tierra árida y sin agua
 - [[obediencia]] — la lluvia, concedida según la obediencia a Dios
 - [[bendición]] — el agua, efecto y signo de la bendición de Dios
 - [[castigos]] — la sequía como castigo divino
 - [[maldición]] — la sequía, efecto de la maldición divina
 - [[impío]] — el agua negada a los impíos
-- [[penitencia_conversion]] — la sequía para que Israel se convierta
+- [[penitencia_y_conversión]] — la sequía para que Israel se convierta
 - [[mar]] — las aguas del mar, evocación de la inquietud demoníaca
 - [[tormenta]] — la crecida súbita de los cauces en la tormenta
 - [[enemigo]] — las aguas que urden intrigas contra el justo

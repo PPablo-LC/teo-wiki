@@ -16,7 +16,7 @@ tags: ["resumen", "normae de delictis gravioribus"]
 - [[pornografía_infantil]] — adquisición, posesión y divulgación de imágenes pornográficas de menores
 - [[preliminares_por_cdf_directamente]] — labores preliminares opcionales de la CDF
 - [[medidas_cautelares_canónicas]] — medidas cautelares durante la investigación previa
-- [[congregación_para_la_doctrina_de_la_fe]] — dicasterio reservado
+- [[dicasterio_para_la_doctrina_de_la_fe]] — dicasterio reservado
 
 ## Contenido
 

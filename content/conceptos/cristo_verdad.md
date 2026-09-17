@@ -58,7 +58,7 @@ Jesús ora al Padre: "Santifícalos en la verdad, pues tu palabra es verdad" (Jn
 
 ## Relaciones doctrinales
 
-Cristo Verdad se relaciona con [[cristo_camino]] y [[cristo_vida]] (los tres aspectos del "Yo soy" de Jn 14,6), [[verbo_de_dios]] (Cristo como Palabra del Padre que revela la Verdad), [[verdad]] (concepto teológico más amplio), [[revelación]] (la autocomunicación de Dios en Cristo), [[cristo_luz_del_mundo]] (verdad que ilumina), [[profecía_de_cristo]] (Jesús como profeta que da testimonio) y [[siervo_de_yahvéh]].
+Cristo Verdad se relaciona con [[cristo_camino]] y [[cristo_vida]] (los tres aspectos del "Yo soy" de Jn 14,6), [[verbo_de_dios]] (Cristo como Palabra del Padre que revela la Verdad), [[verdad]] (concepto teológico más amplio), [[revelación]] (la autocomunicación de Dios en Cristo), [[cristo_luz_del_mundo]] (verdad que ilumina), [[profecía_de_cristo]] (Jesús como profeta que da testimonio) y [[siervo_de_yahvé]].
 
 ## Ver también
 

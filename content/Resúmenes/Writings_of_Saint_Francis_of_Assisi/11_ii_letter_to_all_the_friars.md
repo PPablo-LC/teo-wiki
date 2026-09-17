@@ -12,7 +12,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-- [[santísimo_sacramento]] — Reverencia suprema al Cuerpo y Sangre de Cristo en el altar
+- [[eucaristía]] — Reverencia suprema al Cuerpo y Sangre de Cristo en el altar
 - [[eucaristía]] — El Santo Sacrificio de la Misa como centro de la vida franciscana
 - [[obediencia_franciscana]] — Observancia inviolable de la Regla
 - [[oficio_divino]] — Rezo con armonía de mente, no con melodia de voz
@@ -26,7 +26,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ### Contexto
 
-San Francisco escribió esta carta a todos los frailes cuando estaba enfermo, al final de sus días. Confiesa sus pecados a Dios, a los Santos y a los frailes, y exhorta una vez más con palabras solemnes a la reverencia hacia el [[santísimo_sacramento]], la observancia de la Regla y el Oficio Divino. Fue compuesta al mismo tiempo que el Testamento.
+San Francisco escribió esta carta a todos los frailes cuando estaba enfermo, al final de sus días. Confiesa sus pecados a Dios, a los Santos y a los frailes, y exhorta una vez más con palabras solemnes a la reverencia hacia el [[eucaristía]], la observancia de la Regla y el Oficio Divino. Fue compuesta al mismo tiempo que el Testamento.
 
 ### Contenido de la Carta
 

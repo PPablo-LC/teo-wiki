@@ -17,7 +17,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[ley]] — la economía antigua regida por la ley
 - [[don]] — la gracia es el don que contiene todos los demás
 - [[hijo]] — el don de su Hijo
-- [[imagen]] — los nexos que revelan la imagen divina
+- [[imagen_de_dios]] — los nexos que revelan la imagen divina
 - [[promesas]] — la gracia como promesa en el AT
 - [[esperanza]] — la gracia como esperanza
 - [[pobres]] — inclinarse hacia los más pobres
@@ -58,7 +58,7 @@ La palabra que designa la gracia (gr. *kharis*) no es pura creación del cristia
 
 La gracia es el [[don|don]] de Dios que contiene todos los demás, el don de su [[hijo|Hijo]] *Rom 8,32*, pero no es sencillamente el objeto de este don. Es el don que irradia de la generosidad del dador y envuelve en esta generosidad a la criatura que lo recibe. Dios da por gracia, y el que recibe su don halla cerca de él gracia y complacencia.
 
-Por una coincidencia significativa, la palabra hebrea y la palabra griega, traducidas en latín por *gratia* y en español por *gracia*, se prestan a designar a la vez la fuente del don en el que da y el efecto del don en el que recibe. Es que el don supremo de Dios no es totalmente ajeno a las relaciones con que los hombres se unen entre sí, además de que existen entre él y nosotros nexos que revelan en nosotros su [[imagen|imagen]]. Mientras que el hebreo *hen* designa en primer lugar el favor, la benevolencia gratuita de un personaje de alta posición, y luego la manifestación concreta de este favor, demostrado por el que da y hace gracia, recogido por el que recibe y halla gracia, y, por fin, el encanto que atrae las miradas y se granjea el favor, el griego *kharis*, con un proceso casi inverso, designa en primer lugar la seducción que irradia la belleza, luego la irradiación más interior de la bondad, finalmente los dones que manifiestan esta generosidad.
+Por una coincidencia significativa, la palabra hebrea y la palabra griega, traducidas en latín por *gratia* y en español por *gracia*, se prestan a designar a la vez la fuente del don en el que da y el efecto del don en el que recibe. Es que el don supremo de Dios no es totalmente ajeno a las relaciones con que los hombres se unen entre sí, además de que existen entre él y nosotros nexos que revelan en nosotros su [[imagen_de_dios|imagen]]. Mientras que el hebreo *hen* designa en primer lugar el favor, la benevolencia gratuita de un personaje de alta posición, y luego la manifestación concreta de este favor, demostrado por el que da y hace gracia, recogido por el que recibe y halla gracia, y, por fin, el encanto que atrae las miradas y se granjea el favor, el griego *kharis*, con un proceso casi inverso, designa en primer lugar la seducción que irradia la belleza, luego la irradiación más interior de la bondad, finalmente los dones que manifiestan esta generosidad.
 
 ### II. LA GRACIA EN LA ANTIGUA ALIANZA
 

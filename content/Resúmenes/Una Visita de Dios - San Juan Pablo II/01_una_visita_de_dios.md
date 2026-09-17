@@ -12,7 +12,7 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento"]
 
 ## Conceptos básicos referenciados
 
-- [[san_juan_pablo_ii]] — autor cuyas enseñanzas sobre el sufrimiento se recopilan en la obra
+- [[juan_pablo_ii]] — autor cuyas enseñanzas sobre el sufrimiento se recopilan en la obra
 
 ## Contenido
 

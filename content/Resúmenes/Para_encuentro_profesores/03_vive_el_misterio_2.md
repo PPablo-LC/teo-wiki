@@ -49,7 +49,7 @@ El documento presenta dos esquemas alternativos para que los padres elijan:
 - Evangelios: Jn 1,35-39 · Lc 10,30-34 · Lc 10,1-9
 - Adecuada para grupos con experiencia en revisión de vida.
 
-Ambas propuestas comparten la misma duración (8:00 a 12:20 hs.) y culminan en la [[Santa Misa]].
+Ambas propuestas comparten la misma duración (8:00 a 12:20 hs.) y culminan en la [[misa]].
 
 ## Secciones incluidas
 

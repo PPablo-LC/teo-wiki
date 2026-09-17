@@ -16,7 +16,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[idolos]] — la idolatría, contraria de la incredulidad
 - [[naciones]] — la incredulidad frente a la idolatría de las naciones
-- [[penitencia_conversion]] — la conversión a la fe
+- [[penitencia_y_conversión]] — la conversión a la fe
 - [[fe]] — la fe en Dios
 - [[escandalo]] — la incredulidad, escándalo para los hombres de fe
 - [[palabra_de_dios]] — los signos y testigos de la palabra divina
@@ -30,7 +30,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mana]] — el hastío del maná
 - [[seguir]] — seguir a Yahveh
 - [[endurecimiento]] — el endurecimiento profetizado por Isaías
-- [[siervo_de_yahveh]] — el siervo al que despierta el oído
+- [[siervo_de_yahvé]] — el siervo al que despierta el oído
 - [[profeta]] — los profetas hablan en nombre de Yahveh
 - [[hipocrita]] — la hipocresía de los fariseos
 - [[fariseos]] — los fariseos
@@ -55,7 +55,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-La incredulidad concierne al pueblo de Dios, a diferencia de la [[idolos|idolatría]], que caracteriza a las [[naciones|naciones]] paganas y requiere una [[penitencia_conversion|conversión]] a la [[fe|fe]] en Dios. La existencia de incrédulos en su seno ha sido siempre un [[escandalo|escándalo]] para todos los hombres de fe; la incredulidad de Israel frente a Jesucristo debe causar al corazón de todo cristiano un «dolor incesante» *Rom 9,2*.
+La incredulidad concierne al pueblo de Dios, a diferencia de la [[idolos|idolatría]], que caracteriza a las [[naciones|naciones]] paganas y requiere una [[penitencia_y_conversión|conversión]] a la [[fe|fe]] en Dios. La existencia de incrédulos en su seno ha sido siempre un [[escandalo|escándalo]] para todos los hombres de fe; la incredulidad de Israel frente a Jesucristo debe causar al corazón de todo cristiano un «dolor incesante» *Rom 9,2*.
 
 La incredulidad no consiste meramente en negar la existencia de Dios o en rechazar la divinidad de Jesucristo, sino en desconocer los signos y los testigos de la [[palabra_de_dios|palabra]] divina, en no [[obediencia|obedecerle]]. No creer, según la etimología de la palabra hebrea «creer», es no decir «amén» a Dios; es rechazar la relación que quiere Dios establecer y mantener con el hombre. Esta negativa se expresa diversamente: el [[impio|impío]] pone en tela de juicio la existencia de Dios *Sal 14,1*; el escéptico, su presencia activa a lo largo de la historia *Is 5,19*; el pusilánime, su [[amor|amor]] y su omnipotencia; el rebelde, la soberanía de su [[voluntad_de_dios|voluntad]], etc. A diferencia de la idolatría, la incredulidad admite grados y puede coexistir con cierta fe: la línea de demarcación entre fe e incredulidad pasa menos entre diversos hombres que por el corazón de cada hombre *Mc 9,24*.
 
@@ -73,7 +73,7 @@ Otra forma de murmurar contra Yahveh consiste en hacerse una imagen de él con e
 
 En realidad, cuando el pueblo se estableció en Palestina, la incredulidad había adoptado otra forma, no menos culpable: pactar con los dioses del país o con las [[naciones|naciones]] vecinas. Ahora bien, Yahveh no tolera componendas; es lo que proclama Elías: «¿Hasta cuándo cojearéis de las dos piernas? Si Yahveh es Dios, seguidle; si lo es Baal, seguidle» *1Re 18,21*. Igualmente, los profetas luchan contra el «corazón doble», dividido *Os 10,2*, que busca en las naciones un apoyo que sólo Yahveh puede otorgarle *Os 7,11s*. La incredulidad es prostitución de la esposa consagrada *Os 2* *Jer 2-4* *Ez 16*, que debiera tener un corazón perfectamente fiel *Dt 18,13* *Sal 18,24*, «enteramente» para Dios *1Re 8,23* *11,4*, [[seguir|siguiendo]] a Yahveh sin desfallecer *Dt 1,36* *Num 14,24* *32,11*.
 
-Este ideal se mantiene, aunque es imposible de realizar por las solas fuerzas del hombre. Isaías muestra claramente al pueblo que «si no creéis, no subsistiréis» *Is 7,9*: la fe es la única existencia posible del pueblo elegido, y excluye cualquier otro recurso *28,14s* *30,15s*. Para Jeremías consiste la incredulidad en «fiarse», en «poner la confianza» en criaturas *Jer 5,17* *7,4* *8,14* *17,5* *46,25* *49,4*. Ezequiel manifiesta la consecuencia de la incredulidad: «Sabréis que yo soy Yahveh cuando muráis» *Ez 6,7* *7,4* *11,10*. La incredulidad se convierte en el [[endurecimiento|endurecimiento]] que profetizaba Isaías *Is 6,9s*: el pueblo, exilado, se ha hecho sordo y ciego *Is 42,19* *43,8*. Pero Yahveh debe suscitar un [[siervo_de_yahveh|siervo]], al que «cada mañana le despierta el oído» *50,4s*; por él se realizará la gran esperanza de los profetas: la incredulidad cesará el día en que «todos serán enseñados por Yahveh» *Jer 31,33s* *Is 54,13* *Jn 6,45*: entonces todos reconocerán que Yahveh es el único Dios *Is 43,10*.
+Este ideal se mantiene, aunque es imposible de realizar por las solas fuerzas del hombre. Isaías muestra claramente al pueblo que «si no creéis, no subsistiréis» *Is 7,9*: la fe es la única existencia posible del pueblo elegido, y excluye cualquier otro recurso *28,14s* *30,15s*. Para Jeremías consiste la incredulidad en «fiarse», en «poner la confianza» en criaturas *Jer 5,17* *7,4* *8,14* *17,5* *46,25* *49,4*. Ezequiel manifiesta la consecuencia de la incredulidad: «Sabréis que yo soy Yahveh cuando muráis» *Ez 6,7* *7,4* *11,10*. La incredulidad se convierte en el [[endurecimiento|endurecimiento]] que profetizaba Isaías *Is 6,9s*: el pueblo, exilado, se ha hecho sordo y ciego *Is 42,19* *43,8*. Pero Yahveh debe suscitar un [[siervo_de_yahvé|siervo]], al que «cada mañana le despierta el oído» *50,4s*; por él se realizará la gran esperanza de los profetas: la incredulidad cesará el día en que «todos serán enseñados por Yahveh» *Jer 31,33s* *Is 54,13* *Jn 6,45*: entonces todos reconocerán que Yahveh es el único Dios *Is 43,10*.
 
 ## La incredulidad frente a Jesucristo
 

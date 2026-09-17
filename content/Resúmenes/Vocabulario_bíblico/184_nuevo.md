@@ -38,7 +38,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[vestido]] — ropa nueva
 - [[vino]] — vino nuevo
 - [[evangelio]] — el Evangelio
-- [[reino]] — el reino de Dios
+- [[reino_de_dios]] — el reino de Dios
 - [[amor]] — el mandamiento nuevo
 - [[hermano]] — el amor entre hermanos
 - [[comunion]] — la comunión del Padre y del Hijo
@@ -58,7 +58,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[bautismo]] — el nuevo nacimiento en el bautismo
 - [[palabra_de_dios]] — la palabra de verdad
 - [[fe]] — la fe
-- [[imagen]] — la imagen de Dios
+- [[imagen_de_dios]] — la imagen de Dios
 - [[creacion]] — la nueva creación
 - [[ascension]] — la ascensión
 - [[casa]] — la morada de Dios
@@ -96,7 +96,7 @@ Pero será al mismo tiempo una alianza nueva *Jer 31,31-34*, diferente de la del
 
 ### Una enseñanza nueva
 
-Desde los comienzos de la predicación de Jesús llama la atención de sus oyentes la novedad de su [[ensenar|enseñanza]] *Mc 1,27*; viene a llevar a su perfección la [[ley|ley]] y los profetas *Mt 5,17*; opone la doctrina de los antiguos a la suya *Mt 5,21-48*, como un [[vestido|vestido]] gastado a una ropa nueva, como odres viejos a un [[vino|vino]] nuevo, joven (*neos*, *Mt 9,16s p*). Lo esencial de la ley permanece vigente, pero debe renovarse con los perfeccionamientos del [[evangelio|Evangelio]] y el espíritu nuevo del [[reino|reino]]; los discípulos son como un propietario «que saca de su tesoro cosas nuevas y viejas» *Mt 13,52*. El precepto de la caridad es a la vez antiguo y nuevo *1Jn 2,7s* *2Jn 5*: es antiguo, no ya en cuanto formulado en la ley *Lev 19,18*, sino porque los creyentes lo poseen desde su conversión. Jesús lo había llamado «su precepto» *Jn 15,12*: en este sentido es un mandamiento nuevo *13,34*, porque esta caridad debe en adelante imitar a la de Cristo, que se entregó por nosotros *13,1.34* *15,12s* y en quien se reveló el [[amor|amor]] del Padre *3,16* *1Jn 4,9*; es un amor entre [[hermano|hermanos]], una participación en el amor de [[comunion|comunión]] del Padre y del Hijo *Jn 15,9s* *17,26* *1Jn 4,16*.
+Desde los comienzos de la predicación de Jesús llama la atención de sus oyentes la novedad de su [[ensenar|enseñanza]] *Mc 1,27*; viene a llevar a su perfección la [[ley|ley]] y los profetas *Mt 5,17*; opone la doctrina de los antiguos a la suya *Mt 5,21-48*, como un [[vestido|vestido]] gastado a una ropa nueva, como odres viejos a un [[vino|vino]] nuevo, joven (*neos*, *Mt 9,16s p*). Lo esencial de la ley permanece vigente, pero debe renovarse con los perfeccionamientos del [[evangelio|Evangelio]] y el espíritu nuevo del [[reino_de_dios|reino]]; los discípulos son como un propietario «que saca de su tesoro cosas nuevas y viejas» *Mt 13,52*. El precepto de la caridad es a la vez antiguo y nuevo *1Jn 2,7s* *2Jn 5*: es antiguo, no ya en cuanto formulado en la ley *Lev 19,18*, sino porque los creyentes lo poseen desde su conversión. Jesús lo había llamado «su precepto» *Jn 15,12*: en este sentido es un mandamiento nuevo *13,34*, porque esta caridad debe en adelante imitar a la de Cristo, que se entregó por nosotros *13,1.34* *15,12s* y en quien se reveló el [[amor|amor]] del Padre *3,16* *1Jn 4,9*; es un amor entre [[hermano|hermanos]], una participación en el amor de [[comunion|comunión]] del Padre y del Hijo *Jn 15,9s* *17,26* *1Jn 4,16*.
 
 ### La nueva alianza
 
@@ -112,7 +112,7 @@ Cristo, nuevo Adán, da la vida a todos *1Cor 15,22.44-49*. Por [[adan|Adán]], 
 
 También cada cristiano, por razón de su regeneración, puede ser llamado «hechura de Dios» *Ef 2,10*. «Si alguno está en Cristo, es una nueva creación; el ser antiguo ha desaparecido, hay un ser nuevo» *2Cor 5,17* *Gal 6,15*. El nuevo nacimiento tiene lugar por el [[bautismo|bautismo]] *Jn 3,5* *Tit 3,5*, pero también por la [[palabra_de_dios|palabra]] de verdad *Sant 1,18* *1Pe 1,23*, es decir, por la [[fe|fe]], don del Espíritu *Jn 3,5* *1Jn 5,1.4*.
 
-Pablo habla sobre todo de renovación a propósito de la santificación progresiva de los creyentes: «el hombre interior en nosotros se renueva de día en día» *2Cor 4,16*. Los bautizados deben purificarse de la vieja levadura para ser una masa fresca y nueva (*neos*, *1Cor 5,7*), deben despojarse del hombre viejo, revestirse del hombre nuevo *Col 3,10* *Ef 4,22ss* y vivir una vida nueva *Rom 6,4*. El [[ejemplo|ejemplo]] que se ha de imitar es Cristo, [[imagen|imagen]] de Dios *Rom 8,29* *2Cor 3,18* *4,4* *Col 1,15*. Restaurar en nosotros la imagen del Creador *Col 3,10* *Gen 1,27* es lo mismo que revestirse de Cristo *Rom 13,14*.
+Pablo habla sobre todo de renovación a propósito de la santificación progresiva de los creyentes: «el hombre interior en nosotros se renueva de día en día» *2Cor 4,16*. Los bautizados deben purificarse de la vieja levadura para ser una masa fresca y nueva (*neos*, *1Cor 5,7*), deben despojarse del hombre viejo, revestirse del hombre nuevo *Col 3,10* *Ef 4,22ss* y vivir una vida nueva *Rom 6,4*. El [[ejemplo|ejemplo]] que se ha de imitar es Cristo, [[imagen_de_dios|imagen]] de Dios *Rom 8,29* *2Cor 3,18* *4,4* *Col 1,15*. Restaurar en nosotros la imagen del Creador *Col 3,10* *Gen 1,27* es lo mismo que revestirse de Cristo *Rom 13,14*.
 
 Esta transformación es ante todo obra del Espíritu *Rom 7,6* *8,1-16* *Gal 5,16-25*. No sólo el baño de regeneración es necesario para la salvación, sino también el nacimiento según el Espíritu *Tit 3,5*. El medio de esta renovación es la leche de la palabra de Dios *1Pe 2,2*, la verdad que opera en nosotros la justicia y la santidad *Ef 4,24*, la fe *Gal 5,5s*. Así el creyente se encamina hacia ese conocimiento que renueva gradualmente en él la imagen del que lo creó *Col 3,10*.
 

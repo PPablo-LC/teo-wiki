@@ -12,7 +12,7 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-- [[congregación_para_la_doctrina_de_la_fe]] — dicasterio autor de la Breve Relación
+- [[dicasterio_para_la_doctrina_de_la_fe]] — dicasterio autor de la Breve Relación
 - [[sacramentorum_sanctitatis_tutela]] — Normas reformadas
 
 ## Contenido

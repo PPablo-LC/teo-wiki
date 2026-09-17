@@ -16,7 +16,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[tiempo]] — el tiempo cronológico y religioso
 - [[visita]] — el tiempo de la visita de Yahveh
-- [[dia_domini]] — el día de la salvación
+- [[día_del_señor]] — el día de la salvación
 - [[designio_de_dios]] — las etapas del designio de Dios
 - [[plenitud]] — los tiempos de la plenitud
 - [[ira]] — la ira de Dios
@@ -29,7 +29,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-En la Biblia se divide sin duda la historia en épocas, en meses, en días y en horas; pero tiempo, día y hora desbordan con frecuencia esta acepción cronológica y presentan un significado religioso. Como el [[tiempo|tiempo]] de la [[visita|visita]] de Yahveh o el [[dia_domini|día]] de la salvación, la hora marca las etapas decisivas del [[designio_de_dios|designio]] de Dios.
+En la Biblia se divide sin duda la historia en épocas, en meses, en días y en horas; pero tiempo, día y hora desbordan con frecuencia esta acepción cronológica y presentan un significado religioso. Como el [[tiempo|tiempo]] de la [[visita|visita]] de Yahveh o el [[día_del_señor|día]] de la salvación, la hora marca las etapas decisivas del [[designio_de_dios|designio]] de Dios.
 
 ### La hora escatológica.
 

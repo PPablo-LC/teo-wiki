@@ -20,7 +20,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[profeta]] — la vocación profética
 - [[justicia]] — Elías defensor de la justicia y de los débiles
 - [[salvacion]] — la salvación que rebasa los límites de Israel
-- [[penitencia_conversion]] — Juan Bautista como precursor
+- [[penitencia_y_conversión]] — Juan Bautista como precursor
 - [[Espíritu]] — el nuevo fuego del Espíritu Santo
 
 ## Contenido
@@ -55,7 +55,7 @@ Esta espera escatológica *Mc 15,35s* se realiza en [[juan_bautista]] *Mt 17,10-
 
 #### Jesús y Elías.
 
-Juan Bautista realiza la [[figura]] de Elías en la [[penitencia_conversion|penitencia]] en el desierto *Mt 3,4* *2Re 1,8*, pero Jesús realiza los rasgos mayores. Define su [[misión]] universal en relación con la de Elías *Lc 4,25s*. El milagro de Sarepta se lee en el de Naín *Lc 7,11-16* *1Re 17,17-24*. Elías había hecho bajar del cielo un fuego vengador *2Re 1,9.14*; Jesús aporta el nuevo fuego del [[Espíritu]] Santo *Lc 12,49*. En el monte de los Olivos, Jesús es [[consolacion|consolado]] por un ángel como Elías *Lc 22,43* *1Re 19,5.7*. Elías arrebatado al cielo prefigura la [[ascension]] de Cristo *Lc 24,51*.
+Juan Bautista realiza la [[figura]] de Elías en la [[penitencia_y_conversión|penitencia]] en el desierto *Mt 3,4* *2Re 1,8*, pero Jesús realiza los rasgos mayores. Define su [[misión]] universal en relación con la de Elías *Lc 4,25s*. El milagro de Sarepta se lee en el de Naín *Lc 7,11-16* *1Re 17,17-24*. Elías había hecho bajar del cielo un fuego vengador *2Re 1,9.14*; Jesús aporta el nuevo fuego del [[Espíritu]] Santo *Lc 12,49*. En el monte de los Olivos, Jesús es [[consolacion|consolado]] por un ángel como Elías *Lc 22,43* *1Re 19,5.7*. Elías arrebatado al cielo prefigura la [[ascension]] de Cristo *Lc 24,51*.
 
 #### El creyente y Elías.
 

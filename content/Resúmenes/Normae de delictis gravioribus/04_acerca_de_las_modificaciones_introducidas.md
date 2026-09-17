@@ -12,7 +12,7 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-- [[congregación_para_la_doctrina_de_la_fe]] — emisor de la Carta
+- [[dicasterio_para_la_doctrina_de_la_fe]] — emisor de la Carta
 
 ## Contenido
 

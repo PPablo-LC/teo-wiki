@@ -16,7 +16,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[caridad]] — consuelo fraterno y servicio con amor
 - [[santa_Luisa_de_Marillac]] — ejemplo de caridad sin límites junto a San Vicente de Paúl
 - [[servicios_sociales]] — campos de solidaridad humana donde la mujer está en primera fila
-- [[santa_María]] — bendición para el ejército de mujeres que trabaja en los servicios sociales
+- [[maría]] — bendición para el ejército de mujeres que trabaja en los servicios sociales
 
 ## Contenido
 

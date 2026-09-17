@@ -43,7 +43,7 @@ En su condición de «Hijo del hombre», Jesús asume el lugar que le correspond
 
 ## Relaciones doctrinales
 
-Se relaciona con [[verdadera_humanidad_de_cristo]], [[hijo_del_hombre]], [[encarnación]], [[naturaleza_humana]], [[unión_hipostática]], [[concilio_de_calcedonia]], [[maría_santísima]], [[redención]].
+Se relaciona con [[verdadera_humanidad_de_cristo]], [[hijo_del_hombre]], [[encarnación]], [[naturaleza_humana]], [[unión_hipostática]], [[concilio_de_calcedonia]], [[maría]], [[redención]].
 
 ## Ver también
 

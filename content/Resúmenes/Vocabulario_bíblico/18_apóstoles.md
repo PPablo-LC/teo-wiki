@@ -31,7 +31,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[misterio]] — «Cristo entre las naciones» como misterio de Pablo
 - [[pedro]] — Pedro como jefe de los doce
 - [[discipulo]] — el apostolado como cosa de todo discípulo de Cristo
-- [[vocacion]] — la vocación particular de Pablo como apóstol
+- [[vocación]] — la vocación particular de Pablo como apóstol
 - [[gloria]] — el ministerio de la gloria escatológica
 - [[Eclesiologia]] — la Iglesia como «apóstólica»
 

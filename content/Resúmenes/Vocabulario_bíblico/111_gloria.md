@@ -37,7 +37,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[luz]] — la gloria que resplandece como luz
 - [[jerusalen]] — la ciudad santa iluminada
 - [[naciones]] — la gloria irradia sobre todas las naciones
-- [[siervo_de_yahveh]] — el siervo que debe hacer irradiar la gloria
+- [[siervo_de_yahvé]] — el siervo que debe hacer irradiar la gloria
 - [[hijo]] — Cristo, Hijo de Dios, resplandor de su gloria
 - [[angeles]] — el Hijo del hombre vendrá con sus ángeles
 - [[obra]] — la consumación de su obra
@@ -58,7 +58,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[muerte]] — la fuente de vida
 - [[fruto]] — el sacrificio de Jesús da su fruto
 - [[conocer]] — el conocimiento de las riquezas de Cristo
-- [[imagen]] — transformados a su imagen
+- [[imagen_de_dios]] — transformados a su imagen
 - [[sufrimiento]] — el sufrimiento transfigurado
 - [[israel]] — la grandeza de Israel
 - [[idolos]] — la idolatría, suprema degradación
@@ -109,7 +109,7 @@ Isaías contempla la gloria de Yahveh bajo el aspecto de una gloria regia. El pr
 
 La última parte del libro de Isaías une los dos aspectos de la gloria: Dios reina en la ciudad santa, a la vez regenerada por su [[poder|poder]] e iluminada por su [[presencia_de_dios|presencia]]: «¡Levántate y resplandece, que ya se alza tu [[luz|luz]], y la gloria de Yahveh resplandece para ti» *Is 60,1*. [[jerusalen|Jerusalén]] se ve «erigida en gloria en medio de la tierra» *62,7* *Bar 5,3*. De ella irradia la gloria de Dios sobre todas las [[naciones|naciones]], que vienen a ella deslumbradas *Is 60,3*. En los profetas del exilio, en los salmos del reino, en los apocalipsis alcanza la gloria esta dimensión universal, de carácter escatológico: «Vengo a reunir las naciones de todas las lenguas. Ellas vendrán a ver mi gloria» *66,18s* *Sal 97,6* *Hab 2,14*.
 
-Sobre este fondo luminoso se destaca la figura «sin belleza, sin esplendor» *Is 52,14* del personaje que, sin embargo, está encargado de hacer irradiar la gloria divina hasta las extremidades de la tierra: «Tú eres mi [[siervo_de_yahveh|siervo]], en ti revelaré mi gloria» *49,3*.
+Sobre este fondo luminoso se destaca la figura «sin belleza, sin esplendor» *Is 52,14* del personaje que, sin embargo, está encargado de hacer irradiar la gloria divina hasta las extremidades de la tierra: «Tú eres mi [[siervo_de_yahvé|siervo]], en ti revelaré mi gloria» *49,3*.
 
 ### IV. LA GLORIA DE CRISTO
 
@@ -131,7 +131,7 @@ En Juan aparece todavía más explícita la revelación de la gloria en la vida 
 
 #### La gloria eclesial.
 
-La glorificación de Cristo se consuma en los cristianos *Jn 17,10*. En ellos el sacrificio de Jesús da su [[fruto|fruto]] para gloria del Padre y del Hijo *12,24* *15,8*. El [[Espiritu|Espíritu]] Santo, enviado por el Padre y el Hijo es, con el agua y la sangre sacramentales *1Jn 5,7*, el artífice de esta glorificación. Los cristianos entran por él en el [[conocer|conocimiento]] y en la posesión de las [[riquezas|riquezas]] de Cristo *Jn 16,14s* *2Cor 1,22* *5,5*. La gloria de Cristo resucitado se refleja ya en ellos, transformándolos a su [[imagen|imagen]] «de gloria en gloria» *3,18* *Col 1,10s* *2Tes 1,12*. Por el Espíritu queda transfigurado el mismo [[sufrimiento|sufrimiento]] *1Pe 4,14*.
+La glorificación de Cristo se consuma en los cristianos *Jn 17,10*. En ellos el sacrificio de Jesús da su [[fruto|fruto]] para gloria del Padre y del Hijo *12,24* *15,8*. El [[Espiritu|Espíritu]] Santo, enviado por el Padre y el Hijo es, con el agua y la sangre sacramentales *1Jn 5,7*, el artífice de esta glorificación. Los cristianos entran por él en el [[conocer|conocimiento]] y en la posesión de las [[riquezas|riquezas]] de Cristo *Jn 16,14s* *2Cor 1,22* *5,5*. La gloria de Cristo resucitado se refleja ya en ellos, transformándolos a su [[imagen_de_dios|imagen]] «de gloria en gloria» *3,18* *Col 1,10s* *2Tes 1,12*. Por el Espíritu queda transfigurado el mismo [[sufrimiento|sufrimiento]] *1Pe 4,14*.
 
 #### El honor cristiano.
 

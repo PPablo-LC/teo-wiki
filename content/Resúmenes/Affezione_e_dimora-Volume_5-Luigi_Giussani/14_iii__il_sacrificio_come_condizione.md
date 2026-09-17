@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "**III** - **IL SACRIFICIO COME CONDIZIONE**"
 fuente: Affezione_e_dimora-Volume_5-Luigi_Giussani
 capítulo: 14
-timestamp: 2026-09-13
+timestamp: 2026-09-17
 description: "Resumen de '**III** - **IL SACRIFICIO COME CONDIZIONE**' — Affezione_e_dimora-Volume_5-Luigi_Giussani"
 tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 ---
@@ -12,31 +12,18 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sacrificio]] — el sacrificio como condición necesaria para la posesión verdadera de la realidad y la realización del corazón
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `14_iii_il_sacrificio_come_condizione.md`
+Tercera parte de *Affezione e dimora*, que reúne los diálogos (Tischreden) dedicados al tema del [[sacrificio]] como condición indispensable para la vida afectiva auténtica. Los encuentros incluidos en esta sección abordan la cuestión del sacrificio desde múltiples ángulos: el sacrificio como corazón de la cuestión humana, su relación con la armonía general de la creación, la afirmación amorosa de la positividad, y el modo en que el sacrificio hace verdadero todo vínculo.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | **III** - **IL SACRIFICIO COME CONDIZIONE** |
 
-
 ## Secciones incluidas
 
+Solo el título de parte: encabezado de la Parte III.

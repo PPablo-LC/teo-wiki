@@ -27,7 +27,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[piedra]] — el corazón de piedra
 - [[carne]] — el corazón de carne
 - [[fariseos]] — el formalismo de los fariseos
-- [[puro]] — los corazones puros y el corazón puro
+- [[pureza]] — los corazones puros y el corazón puro
 - [[fe]] — la adhesión del corazón
 - [[nuevo]] — el espíritu nuevo derramado
 - [[comunion]] — la comunión del creyente con Dios

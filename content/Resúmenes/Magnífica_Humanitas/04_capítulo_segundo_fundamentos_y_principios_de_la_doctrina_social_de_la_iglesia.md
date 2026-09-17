@@ -12,7 +12,7 @@ tags: ["resumen", "magnífica humanitas", "doctrina_social_de_la_iglesia", "dign
 
 ## Conceptos básicos referenciados en esta sección
 
-- [[dignidad_de_la_persona_humana]] — fundamento de la DSI
+- [[dignidad_de_la_persona]] — fundamento de la DSI
 - [[bien_común]] — primer gran principio
 - [[destino_universal_de_los_bienes]] — principio del ordenamiento ético-social
 - [[subsidiariedad]] — principio que respeta los cuerpos intermedios

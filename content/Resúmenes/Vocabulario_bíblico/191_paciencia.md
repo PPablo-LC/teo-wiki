@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[persecucion]] — la persecución afrontada con paciencia
-- [[prueba_tentacion]] — las pruebas
+- [[prueba_y_tentación]] — las pruebas
 - [[esperanza]] — la esperanza llena de paciencia
 - [[justicia]] — la justicia divina manifestada en la paciencia
 - [[tiempo]] — el tiempo de la paciencia divina
@@ -25,7 +25,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[misericordia]] — el amor misericordioso
 - [[juicio]] — el día de la ira
 - [[perdon]] — el perdón divino
-- [[penitencia_conversion]] — la paciencia como llamamiento a la conversión
+- [[penitencia_y_conversión]] — la paciencia como llamamiento a la conversión
 - [[endurecimiento]] — el endurecimiento del corazón
 - [[palabra_de_dios]] — la palabra que hay que escuchar
 - [[reposo]] — el reposo de Dios
@@ -33,7 +33,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sufrimiento]] — el sentido de los sufrimientos
 - [[pecado]] — el pecado y el sufrimiento
 - [[fe]] — la fe puesta a prueba
-- [[reino]] — el reino mesiánico
+- [[reino_de_dios]] — el reino mesiánico
 - [[gloria]] — la gloria de Cristo
 - [[fidelidad]] — la fidelidad en las pruebas
 - [[bienaventuranza]] — la bienaventuranza prometida
@@ -43,13 +43,13 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-Frente a su pueblo, «de dura cerviz», como frente a las naciones pecadoras se muestra Dios paciente, porque los ama y quiere salvarlos. Esta paciencia divina, de la que Jesús da la suprema revelación y el modelo acabado, deberá imitar el hombre *Ef 5,1* *Mt 5,45*. El discípulo, a ejemplo de su maestro, deberá afrontar la [[persecucion|persecución]] y las [[prueba_tentacion|pruebas]] en una fidelidad constante y gozosa, totalmente llena de [[esperanza|esperanza]]; más humildemente, deberá también soportar cada día los defectos del prójimo con mansedumbre y caridad.
+Frente a su pueblo, «de dura cerviz», como frente a las naciones pecadoras se muestra Dios paciente, porque los ama y quiere salvarlos. Esta paciencia divina, de la que Jesús da la suprema revelación y el modelo acabado, deberá imitar el hombre *Ef 5,1* *Mt 5,45*. El discípulo, a ejemplo de su maestro, deberá afrontar la [[persecucion|persecución]] y las [[prueba_y_tentación|pruebas]] en una fidelidad constante y gozosa, totalmente llena de [[esperanza|esperanza]]; más humildemente, deberá también soportar cada día los defectos del prójimo con mansedumbre y caridad.
 
 ## I. La paciencia de Dios
 
 ### Antiguo Testamento
 
-«Dios afirma su [[justicia|justicia]] al no tener en cuenta los pecados cometidos anteriormente en el tiempo de la paciencia divina» *Rom 3,25s*. Así, el AT es concebido por san Pablo como un [[tiempo|tiempo]] en el que Dios soportaba los pecados de su pueblo y los de las [[naciones|naciones]] en vistas a manifestar su justicia salvífica «en el tiempo presente» *1Pe 3,20* *Rom 9,22ss*. A lo largo de su historia adquirió el pueblo santo una conciencia cada vez más profunda de esta paciencia de Dios. En el momento de la revelación hecha a Moisés proclama Yahveh: «Dios de ternura y de piedad, tardo a la [[ira|ira]], rico de [[gracia|gracia]] y de fidelidad, que mantiene su gracia a millares, tolera falta, transgresión y pecado»; pero es también el que «no deja nada impune y castiga las faltas de los padres en los hijos y en los nietos hasta la tercera y cuarta generación» *Ex 34,6s* *Num 14,18*. Las revelaciones sucesivas insistirán más y más en la paciencia, en el amor [[misericordia|misericordioso]] del Padre que «sabe de qué hemos sido amasados; tardo a la ira y lleno de amor, no nos trata según nuestras faltas» *Sal 103,8* *Eclo 18,8-14*. Aunque no se desvanecen nunca los temas de la [[ira|ira]] y del [[juicio|juicio]], los profetas cargan más el acento sobre el [[perdon|perdón]] divino, y algunos textos muestran a Dios muy dispuesto a arrepentirse de sus amenazas *Jl 2,13s* *Jon 4,2*. Pero esta paciencia de Dios no es nunca debilidad: es llamamiento a la [[penitencia_conversion|conversión]]: «Volved a Yahveh vuestro Dios, pues es ternura y piedad, tardo a la ira, rico de gracia...» *Jl 2,13* *Is 55,6*. Israel comprende también que no es el único beneficiario de esta paciencia: también las naciones son amadas por Yahveh; la historia de Jonás recuerda que la misericordia de Dios está abierta a todos los hombres que hacen penitencia.
+«Dios afirma su [[justicia|justicia]] al no tener en cuenta los pecados cometidos anteriormente en el tiempo de la paciencia divina» *Rom 3,25s*. Así, el AT es concebido por san Pablo como un [[tiempo|tiempo]] en el que Dios soportaba los pecados de su pueblo y los de las [[naciones|naciones]] en vistas a manifestar su justicia salvífica «en el tiempo presente» *1Pe 3,20* *Rom 9,22ss*. A lo largo de su historia adquirió el pueblo santo una conciencia cada vez más profunda de esta paciencia de Dios. En el momento de la revelación hecha a Moisés proclama Yahveh: «Dios de ternura y de piedad, tardo a la [[ira|ira]], rico de [[gracia|gracia]] y de fidelidad, que mantiene su gracia a millares, tolera falta, transgresión y pecado»; pero es también el que «no deja nada impune y castiga las faltas de los padres en los hijos y en los nietos hasta la tercera y cuarta generación» *Ex 34,6s* *Num 14,18*. Las revelaciones sucesivas insistirán más y más en la paciencia, en el amor [[misericordia|misericordioso]] del Padre que «sabe de qué hemos sido amasados; tardo a la ira y lleno de amor, no nos trata según nuestras faltas» *Sal 103,8* *Eclo 18,8-14*. Aunque no se desvanecen nunca los temas de la [[ira|ira]] y del [[juicio|juicio]], los profetas cargan más el acento sobre el [[perdon|perdón]] divino, y algunos textos muestran a Dios muy dispuesto a arrepentirse de sus amenazas *Jl 2,13s* *Jon 4,2*. Pero esta paciencia de Dios no es nunca debilidad: es llamamiento a la [[penitencia_y_conversión|conversión]]: «Volved a Yahveh vuestro Dios, pues es ternura y piedad, tardo a la ira, rico de gracia...» *Jl 2,13* *Is 55,6*. Israel comprende también que no es el único beneficiario de esta paciencia: también las naciones son amadas por Yahveh; la historia de Jonás recuerda que la misericordia de Dios está abierta a todos los hombres que hacen penitencia.
 
 ### Nuevo Testamento
 
@@ -65,7 +65,7 @@ El hombre debe inspirarse en la paciencia de Dios y en la de Jesús. En el sufri
 
 El hombre, delante de Dios, que lo prueba con sufrimientos o permite la persecución, al descubrir poco a poco el sentido de estos [[sufrimiento|sufrimientos]] aprende a situarse en relación con ellos en una paciencia que le ayuda a «llevar fruto».
 
-Job comprende que el sufrimiento no es necesariamente el castigo del [[pecado|pecado]], y ante él se muestra paciente: se trata de una [[prueba_tentacion|prueba]] de su [[fe|fe]]: frente al misterio se somete humildemente, pero sin percibir todavía el significado ni el valor de su prueba. Paciencia también la del pueblo judío perseguido que soporta las pruebas con constancia, totalmente orientado hacia la venida del [[reino|reino]] mesiánico (*1Mac*, *2Mac*, *Dan 12,12*); ¿no debe el justo oprimido confiar con perseverancia constante en la palabra y en el amor de Yahveh *Sal 130,5* *25,3.5.21* *Eclo 2*?
+Job comprende que el sufrimiento no es necesariamente el castigo del [[pecado|pecado]], y ante él se muestra paciente: se trata de una [[prueba_y_tentación|prueba]] de su [[fe|fe]]: frente al misterio se somete humildemente, pero sin percibir todavía el significado ni el valor de su prueba. Paciencia también la del pueblo judío perseguido que soporta las pruebas con constancia, totalmente orientado hacia la venida del [[reino_de_dios|reino]] mesiánico (*1Mac*, *2Mac*, *Dan 12,12*); ¿no debe el justo oprimido confiar con perseverancia constante en la palabra y en el amor de Yahveh *Sal 130,5* *25,3.5.21* *Eclo 2*?
 
 El cristiano que sabe que «Cristo debía sufrir para entrar en su [[gloria|gloria]]» debe a ejemplo suyo soportar con constancia las pruebas y las [[persecucion|persecuciones]]: las soporta con la esperanza de la salvación al retorno glorioso de Jesús, y sabe que así, con sus sufrimientos y su paciencia, coopera con el Salvador; «participa en los padecimientos de Cristo para ser glorificado con él» *Flp 3,10* *Rom 8,17*. En la adversidad tomará «por modelo de sufrimiento y de paciencia a los profetas que hablaron en nombre del Señor» *Sant 5,10*, y en general a todos los grandes servidores de Dios en el AT *Heb 6,12* *11*, especialmente a Abraham *Heb 6,15* y a Job *Sant 5,11*. Pero ante todo imitará la paciencia de Jesús *Act 8,32* *Heb 12,2s* *2Tes 3,5* y, fijos los ojos en él, «correrá con constancia la prueba que se le propone» *Heb 12,1s*. Esta paciencia, al igual que el amor, es «[[fruto|fruto]] del Espíritu» *Gal 5,22* *1Cor 10,13* *Col 1,11*; la constancia, madurada en la prueba *Rom 5,3ss* *Sant 1,2ss*, produce a su vez la esperanza, que no decepciona *Rom 5,5*.
 

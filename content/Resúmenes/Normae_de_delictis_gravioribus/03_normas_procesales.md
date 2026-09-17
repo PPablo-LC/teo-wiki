@@ -12,7 +12,7 @@ tags: ["resumen", "normae_de_gravioribus_delictis", "derecho_canónico", "proces
 
 ## Conceptos básicos referenciados
 
-- [[congregación_para_la_doctrina_de_la_fe]] — Supremo Tribunal Apostólico
+- [[dicasterio_para_la_doctrina_de_la_fe]] — Supremo Tribunal Apostólico
 - [[proceso_penal_canónico]] — Procedimiento para juzgar delitos reservados
 - [[secreto_pontificio]] — Obligación de reserva en causas penales
 - [[prescripción_de_la_acción_criminal]] — Plazos de extinción de la acción criminal

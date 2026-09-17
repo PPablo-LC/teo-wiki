@@ -18,7 +18,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[presencia_de_dios]] — Dios presente en su nombre
 - [[adoracion]] — adorar bajo el verdadero nombre
 - [[culto]] — invocar el nombre de Dios
-- [[prueba_tentacion]] — no tentar a Dios usando su nombre
+- [[prueba_y_tentación]] — no tentar a Dios usando su nombre
 - [[gloria]] — la gloria del nombre de Dios
 - [[templo]] — el templo donde habita su nombre
 - [[senor]] — el nombre de Señor
@@ -35,7 +35,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[juan_bautista]] — Juan, nombre dado por Dios
 - [[diestra]] — sentado a la diestra
 - [[milagro]] — milagros en el nombre
-- [[enfermedad_curacion]] — curar en el nombre
+- [[enfermedad_y_curación]] — curar en el nombre
 - [[pastor_y_rebano]] — el buen pastor conoce a cada oveja por su nombre
 - [[libro]] — el libro de la vida
 - [[nuevo]] — el nombre nuevo
@@ -62,7 +62,7 @@ Entre los israelitas, [[dios|Dios]] mismo se digna nombrarse. Anteriormente el D
 
 Si Dios reveló su nombre, fue para que se le [[adoracion|adorase]] bajo este verdadero nombre, el único auténtico *Ex 3,15*. Será por tanto la divisa de reunión de las tribus durante la conquista y después de ella *Jue 7,20*. Es el nombre del único Dios verdadero, dirán más tarde los profetas: «Antes de mí ningún Dios fue formado, ni lo habrá después de mí. Yo, yo soy Yahveh» *Is 43,10s*.
 
-Es, pues, el único nombre que estará autorizado en los labios de Israel *Ex 23,13*, el único invocado en Jerusalén cuando David haya hecho de la ciudad la capital religiosa, pues «Yahveh es celoso de su nombre» *Ex 34,14*. «Invocar el nombre de Yahveh» es propiamente dar [[culto|culto]] a Dios, orarle: se grita su nombre *Is 12,4*, se le llama *Sal 28,1* *Is 41,25*, se hace llamamiento a él *Sal 99,6*. Pero si Dios confió así su nombre propio a Israel, éste, en cambio, no debe «pronunciar en vano el nombre de Yahveh» *Ex 20,7* *Dt 5,11*: en efecto, no está a su disposición, de modo que abuse de él y acabe por [[prueba_tentacion|tentar]] a Dios: esto no sería ya servir a Dios, sino servirse de él para sus propios fines.
+Es, pues, el único nombre que estará autorizado en los labios de Israel *Ex 23,13*, el único invocado en Jerusalén cuando David haya hecho de la ciudad la capital religiosa, pues «Yahveh es celoso de su nombre» *Ex 34,14*. «Invocar el nombre de Yahveh» es propiamente dar [[culto|culto]] a Dios, orarle: se grita su nombre *Is 12,4*, se le llama *Sal 28,1* *Is 41,25*, se hace llamamiento a él *Sal 99,6*. Pero si Dios confió así su nombre propio a Israel, éste, en cambio, no debe «pronunciar en vano el nombre de Yahveh» *Ex 20,7* *Dt 5,11*: en efecto, no está a su disposición, de modo que abuse de él y acabe por [[prueba_y_tentación|tentar]] a Dios: esto no sería ya servir a Dios, sino servirse de él para sus propios fines.
 
 ### El nombre es Dios mismo
 
@@ -80,7 +80,7 @@ Jesús pide al Padre que glorifique su nombre *Jn 12,28* e invita a sus discípu
 
 ### El nombre de Jesús
 
-Los discípulos, recurriendo al nombre de Jesús, [[enfermedad_curacion|curan]] a los enfermos *Act 3,6* *9,34*, expulsan a los demonios *Mc 9,38* *16,17* *Lc 10,17* *Act 16,18* *19,13*, realizando toda clase de [[milagro|milagros]] *Mt 7,22* *Act 4,30*. [[jesus|Jesús]] aparece así tal como su nombre lo indica: el que salva *Mt 1,21-25* devolviendo la salud a los enfermos *Act 3,16*, pero también y sobre todo procurando la salvación eterna a los que creen en él *Act 4,7-12* *5,31* *13,23*.
+Los discípulos, recurriendo al nombre de Jesús, [[enfermedad_y_curación|curan]] a los enfermos *Act 3,6* *9,34*, expulsan a los demonios *Mc 9,38* *16,17* *Lc 10,17* *Act 16,18* *19,13*, realizando toda clase de [[milagro|milagros]] *Mt 7,22* *Act 4,30*. [[jesus|Jesús]] aparece así tal como su nombre lo indica: el que salva *Mt 1,21-25* devolviendo la salud a los enfermos *Act 3,16*, pero también y sobre todo procurando la salvación eterna a los que creen en él *Act 4,7-12* *5,31* *13,23*.
 
 ### El nombre del Señor
 

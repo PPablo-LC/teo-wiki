@@ -1,81 +1,57 @@
 ---
 type: ResumenFuente
 title: "Siega"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 256
-timestamp: 2026-08-24
-description: "Resumen de 'Siega' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "La siega en la Biblia: gozo de los segadores, correspondencia entre siembra y cosecha, y la siega como juicio de Dios en los tiempos mesiánicos."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Siega
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
+> 📄 **Fuente original:** `siega.md`
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `siega.md`
+La siega, como la [[vendimia|vendimia]], significa a los ojos del campesino el [[fruto|fruto]] de su [[trabajo|trabajo]] y la garantía de su subsistencia anual. Este juicio pronunciado por la naturaleza sobre el trabajo del hombre puede significar también el [[juicio|juicio]] de Dios.
 
+## I. EL GOZO DE LOS SEGADORES
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La recolección de la cebada (abril) y la del trigo (mayo) son ocasión de regocijos populares: de colina en colina se propaga el canto de los grupos de segadores, que hace olvidar la ruda fatiga del trabajo con la hoz, bajo un sol abrasador *Rut 2* *Is 9,2* *Jer 31,12* *Sal 126,6*. En este [[gozo|gozo]] no se olvida a Yahveh: la recolección es signo y fruto de la [[bendicion|bendición]] divina. A Dios que ha dado el [[crecimiento|crecimiento]] *1Cor 3,6s*, corresponde la acción de gracias *Sal 67,7* *85,13*; ésta se expresa por la fiesta litúrgica de la siega, [[pentecostes|pentecostés]], durante la cual se ofrecen las [[primicias|primicias]] de la cosecha *Ex 23,16* *34,22*, especialmente la primera gavilla *Lev 23,10*.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Siega |
-| 5 | H2 | I. EL GOZO DE LOS SEGADORES |
-| 10 | H2 | II. LA SIEGA Y LA SEMENTERA |
-| 12 | H3 | 1. La cosecha es el fruto |
-| 22 | H3 | 2. Aunque la siega es de la misma naturaleza que la |
-| 32 | H3 | 3. Finalmente, aunque el ideal es cosechar lo que se ha |
-| 39 | H2 | III. LA SIEGA, JUICIO DE DIOS |
-| 42 | H3 | El día de Yahveh. |
-| 46 | H3 | En los tiempos mesiánicos. |
+El segador debe también compartir su alegría con los demás mostrándose liberal. La ley prescribe que «no se ponga bozal al buey que trilla» *Dt 25,4* *1Cor 9,9* y sobre todo que «no se siegue hasta lo último del campo y que no se recoja la rebusca» *Lev 19,9* *Dt 24,19* para reservar su parte al pobre y al [[extranjero|extranjero]]. A esta liberalidad debió Booz el encontrarse y casarse con Rut, la extranjera, a la que se considera como la abuela de David y del Mesías *Rut 2,15ss* *Mt 1,5*.
 
+Sin embargo, este gozo legítimo y fraternal no debe pegar a la tierra la mirada del campesino. Es sin duda lo que quería inculcar la ley acerca del año [[sabado|sabático]], que imponía que se dejara reposar a la tierra cada siete años *Lev 25,4s*, invitando al campesino a volver a una vida pastoril y a poner más su confianza en solo Dios. Y Jesús lo puntualiza: hay que abandonarse al Padre celestial como «los cuervos que no siembran ni siegan» *Lc 12,24 p*. Así pues, el campesino no pondrá su seguridad ni su esperanza en sus graneros llenos de trigo, y no acaparará para sí mismo, sino «en vista de Dios» que un día cosechará su alma *Lc 12,16-21* *Jer 17,11*.
 
-## Secciones incluidas
+## II. LA SIEGA Y LA SEMENTERA
 
-# I. EL GOZO DE LOS SEGADORES
+### 1. La cosecha es el fruto de la siembra.
 
-[Contenido de esta sección...]
+Entre ambas hay correspondencia en diferentes grados. Se cosecha lo que se ha sembrado *Gal 6,7*; sin laboreo, no hay cosecha *Prov 20,4*; «quien siembra la injusticia recoge el infortunio» *Prov 22,8*; hacer siembra de justicia es recoger una cosecha de bondad *Os 10,12s*. Todo esto significa que «Dios da a cada uno el fruto de sus [[obras|obras]]» *Jer 17,10*. Inútil protestar diciendo como el siervo perezoso: «Dios cosecha donde no ha sembrado» *Lc 19,21*, porque Dios, al crear y rescatar a los hombres, sembró su palabra en todos los corazones *Jer 1,21* *Mc 4,20*.
 
-# II. LA SIEGA Y LA SEMENTERA
+### 2. Aunque la siega es de la misma naturaleza que la siembra, difiere, sin embargo, de ella por el modo como se realiza.
 
-[Contenido de esta sección...]
+«Los que siembran en lágrimas cosechan cantando» *Sal 126,5*. Difiere también en la medida; cierto, «quien siembra escaso, escaso cosechará, y quien siembra col. largueza, con largueza cosechará» *2Cor 9,6*, pero, a la manera de Dios, siempre sobreabundante en sus obras, la cosecha es superior a lo sembrado y puede llegar hasta el céntuplo en el caso de Isaac *Gen 26,12* o en el de la buena tierra que acoge la palabra de Dios *Mt 13,8.23 p*.
 
-## 1. La cosecha es el fruto
+### 3. Finalmente, aunque el ideal es cosechar lo que se ha sembrado *Is 37,30*, Dios ha distribuido los tiempos de la siembra y de la siega *Gen 8,22* *Jer 5,24* de modo que el hombre deba aguardar con [[paciencia|paciencia]] mientras madura el grano *Mc 4,26-29*, pero con plena confianza, pese al refrán: «Uno siembra y otro cosecha» *Jn 4,37*.
 
-[Contenido de esta sección...]
+## III. LA SIEGA, JUICIO DE DIOS
 
-## 2. Aunque la siega es de la misma naturaleza que la
+Al segar Dios las obras de los hombres los [[juicio|juzga]] según la [[retribucion|retribución]] de su [[justicia|justicia]]. Este juicio que tendrá lugar al fin de los tiempos, es anticipado por la venida de Jesucristo.
 
-[Contenido de esta sección...]
+### El día de Yahveh.
 
-## 3. Finalmente, aunque el ideal es cosechar lo que se ha
+La siega tiene doble aspecto. Al recogerla, [[gozo|gozo]], alegría; al cortarla, golpearla sobre la hierba, trillarla y por fin quemar la paja *Is 28,27s*, es el [[castigos|castigo]].
 
-[Contenido de esta sección...]
+Dios, a la manera de un segador, corta, aplasta, criba cuando castiga a Israel *Is 17,5* *Jer 13,24* o a Babilonia *Jer 51,2.33*. Y cuando la malicia de los hombres llega al colmo, hay que «echar la hoz: la mies está madura» *Jl 4,13*, la mies del juicio de los pueblos. Pero al mismo tiempo, por un contraste radical que reflejan los oráculos proféticos, viene inmediatamente el anuncio de la recolección gozosa, que sigue de cerca a la fatiga de las faenas *Jl 4,18* *Am 9,13* *Os 6,11* *Sal 126,5s*.
 
-# III. LA SIEGA, JUICIO DE DIOS
+### En los tiempos mesiánicos.
 
-[Contenido de esta sección...]
+Este anuncio se hace realidad con la venida de Jesús.
 
-## El día de Yahveh.
+a. El sembrador y el segador. Mientras que para el Precursor es Cristo el aventador que limpia su era y separa el grano de la barcia *Mt 3,12 p*, los cristianos ven en Jesús a la vez al sembrador por excelencia que esparce la palabra en el corazón de los hombres *Mc 4,3-9 p* y al segador que mete la hoz en el campo en que está la mies en su punto *4,29*. No hay que aguardar: «los campos están blancos para la siega:..; el sembrador comparte así el gozo del segador» *Jn 4,35s*.
 
-[Contenido de esta sección...]
+b. Los obreros de la siega. Si la mies está ya madura, el maestro llama a la tarea *Mt 9,38 p*. Los discípulos, enviados por el mundo, recogerán el fruto del trabajo de sus predecesores, sobre todo de Jesús, que pagó con su sangre la multiplicación del grano de trigo. En esto se verifica el refrán que distingue al sembrador y a los segadores *Jn 4,37*. Sin embargo, los segadores mismos serán «pasados por la criba» de la [[prueba_y_tentación|prueba]] y de la [[persecucion|persecución]] *Lc 22,31*.
 
-## En los tiempos mesiánicos.
-
-[Contenido de esta sección...]
+c. En espera de la siega final. Si es cierto que el nuevo [[pentecostes|pentecostés]] inaugura la siega de la Iglesia, ésta, sin embargo, no se concluirá sino el [[día_del_señor|día]] del Señor, cuando el [[hijo|Hijo]] del hombre eche la hoz en la mies finalmente madura *Ap 14,14ss* *Mc 4,29*. Hasta este momento la cizaña continúa mezclada con el buen grano; si bien corresponde a la Iglesia juzgar y condenar el mal, no tiene la misión de arrojar a los malos al fuego. El Hijo del hombre será quien, al fin de los tiempos, envíe a sus ángeles a ejecutar el [[juicio|juicio]] que haya pronunciado sobre las obras de los hombres *Mt 13,24-30.36-43*.

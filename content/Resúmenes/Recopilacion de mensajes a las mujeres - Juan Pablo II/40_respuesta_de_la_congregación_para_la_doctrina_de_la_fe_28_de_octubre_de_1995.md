@@ -23,7 +23,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Respuesta de la Congregación para la Doctrina de la Fe 28 de octubre de 1995
 
-Como colofón de estos Mensajes del Papa a las mujeres, se presenta el Documento de la [[Congregación_para_la_Doctrina_de_la_Fe]] —28 de octubre de 1995—, aprobado por el Romano Pontífice, sobre la doctrina relacionada con la [[ordenación_sacerdotal]] de las mujeres que, por formar parte del [[depósito_de_la_fe]], exige el asentimiento definitivo de los fieles.
+Como colofón de estos Mensajes del Papa a las mujeres, se presenta el Documento de la [[dicasterio_para_la_doctrina_de_la_fe]] —28 de octubre de 1995—, aprobado por el Romano Pontífice, sobre la doctrina relacionada con la [[ordenación_sacerdotal]] de las mujeres que, por formar parte del [[depósito_de_la_fe]], exige el asentimiento definitivo de los fieles.
 
 ### I. Respuesta de la Congregación para la Doctrina de la Fe a la pregunta acerca de la doctrina contenida en la Carta Apostólica Ordinatio sacerdotalis
 

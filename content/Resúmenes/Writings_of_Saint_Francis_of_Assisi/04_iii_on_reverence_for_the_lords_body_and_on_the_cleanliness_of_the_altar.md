@@ -12,7 +12,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-- [[santísimo_sacramento]] — Reverencia al Cuerpo y Sangre de Cristo en la Eucaristía
+- [[eucaristía]] — Reverencia al Cuerpo y Sangre de Cristo en la Eucaristía
 - [[eucaristía]] — El misterio más alto de la fe: presencia real de Cristo
 - [[sacramento_de_la_eucaristía]] — La consagración se realiza por las palabras deinstitution
 - [[reverencia_eucarística]] — Cuidado de los vasos sagrados y del altar

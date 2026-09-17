@@ -15,7 +15,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[mujeres_constructoras_de_paz]] — figuras femeninas que se han distinguido por su obra de paz
 - [[paz]] — misión de la mujer como educadora para la paz
 - [[testimonio_cristiano]] — santidad de vida y servicio a la paz
-- [[santa_María]] — modelo de las grandes mujeres de la historia
+- [[maría]] — modelo de las grandes mujeres de la historia
 
 ## Contenido
 

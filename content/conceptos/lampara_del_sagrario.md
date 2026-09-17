@@ -9,13 +9,13 @@ timestamp: 2026-07-15
 > Área: Liturgia
 > Última actualización: 2026-07-15
 ## Definición
-La Lámpara del Sagrario (o lámpara del Santísimo) es una luz que arde constantemente cerca del [[sagrario]] para indicar y honrar la presencia real de [[jesucristo|Cristo]] en el [[santísimo_sacramento|Santísimo Sacramento]].
+La Lámpara del Sagrario (o lámpara del Santísimo) es una luz que arde constantemente cerca del [[sagrario]] para indicar y honrar la presencia real de [[jesucristo|Cristo]] en el [[eucaristía|Santísimo Sacramento]].
 ## Perspectivas por fuente
 ### Según la IGMR (2000)
 Se debe tener cerca del sagrario una lámpara que esté ardiendo constantemente (§316). Sigue el consejo de que «no se le debe olvidar ninguna de las normas de la ley que pertenece a la colocación del Santísimo» (§317).
 ## Ver también
 - [[sagrario]]
-- [[santísimo_sacramento]]
+- [[eucaristía]]
 - [[adoración_eucarística]]
 ## Referencias
 - IGMR (2000), §316-317

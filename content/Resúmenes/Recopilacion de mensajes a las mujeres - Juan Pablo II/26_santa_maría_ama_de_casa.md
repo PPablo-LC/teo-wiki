@@ -12,7 +12,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[santa_María]] — modelo de mujer «artesana de la casa» y del trabajo doméstico
+- [[maría]] — modelo de mujer «artesana de la casa» y del trabajo doméstico
 - [[familia]] — relación entre mujer, familia y trabajo
 - [[trabajo]] — revalorización social de las funciones maternas
 - [[Laborem_exercens]] — Encíclica sobre el trabajo humano (n. 19)
@@ -30,7 +30,7 @@ Numerosas voces invitan hoy a afrontar con mayor serenidad la relación entre mu
 
 La Familia de Nazaret ofrece un ejemplo significativo: María trabaja al lado de José según un estilo personal y femenino. Su armonía se ve favorecida por el trabajo artesanal de su esposo, que pudo trabajar cerca de su familia enseñando a Jesús su oficio de carpintero.
 
-El Papa dirige su plegaria a [[santa_María]], «Madre de Jesús y esposa de José artesano», pidiéndole que proteja a todas las mujeres que se esfuerzan diariamente para que la comunidad doméstica viva en armonía efectiva, y que les alcance la gracia de ser mujeres cristianamente sabias, expertas en oración y en humanidad, fuertes en la esperanza y en las tribulaciones, artífices de la paz auténtica.
+El Papa dirige su plegaria a [[maría]], «Madre de Jesús y esposa de José artesano», pidiéndole que proteja a todas las mujeres que se esfuerzan diariamente para que la comunidad doméstica viva en armonía efectiva, y que les alcance la gracia de ser mujeres cristianamente sabias, expertas en oración y en humanidad, fuertes en la esperanza y en las tribulaciones, artífices de la paz auténtica.
 
 ## Mapa del archivo fuente
 

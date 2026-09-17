@@ -16,11 +16,11 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[esclavo]] — los hebreos esclavos de Faraón
 - [[castigos]] — la cautividad como castigo de las infidelidades
-- [[babel_babilonia]] — la cautividad de Babilonia por excelencia
+- [[babel]] — la cautividad de Babilonia por excelencia
 - [[exilio]] — la cautividad y el exilio
-- [[prueba_tentacion]] — la detención como prueba providencial
+- [[prueba_y_tentación]] — la detención como prueba providencial
 - [[obras]] — la visita de los encarcelados como obra de misericordia
-- [[liberacion_libertad]] — la promesa de libertad al pueblo cautivo
+- [[liberación_y_libertad]] — la promesa de libertad al pueblo cautivo
 - [[pecado]] — el pecado como alienación
 - [[justificacion]] — la condición del hombre antes de su justificación
 - [[gustar]] — Jesús que gustó la muerte

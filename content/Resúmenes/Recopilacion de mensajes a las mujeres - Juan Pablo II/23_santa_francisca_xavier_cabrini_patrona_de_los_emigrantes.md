@@ -31,7 +31,7 @@ Nació en Lombardía a mediados del siglo pasado y se dedicó a los emigrantes e
 
 Su obra, auténtico milagro de [[caridad]], es una contribución singular a la causa de la paz, una verdadera pedagogía de paz. La Madre Cabrini se dio cuenta de que no bastaba ofrecer una ayuda material; era necesario ayudarles a integrarse plenamente en la nueva realidad social, sin perder los valores auténticos de su cultura. Ella misma, sin dejar de amar a Italia, adoptó la nacionalidad estadounidense.
 
-A causa de las crecientes corrientes migratorias, la construcción de este futuro exige hombres y mujeres de paz. En particular, necesita corazones maternos como el de la Madre Cabrini, ricos de las potencialidades del alma femenina acrisolada por el amor evangélico. Se encomienda a [[santa_María]] el camino de la integración entre los pueblos: que María forme a todos en la acogida y en la solidaridad, y conceda a las mujeres una viva conciencia de su papel imprescindible en la construcción de una sociedad rica en color humano y fraternidad generosa.
+A causa de las crecientes corrientes migratorias, la construcción de este futuro exige hombres y mujeres de paz. En particular, necesita corazones maternos como el de la Madre Cabrini, ricos de las potencialidades del alma femenina acrisolada por el amor evangélico. Se encomienda a [[maría]] el camino de la integración entre los pueblos: que María forme a todos en la acogida y en la solidaridad, y conceda a las mujeres una viva conciencia de su papel imprescindible en la construcción de una sociedad rica en color humano y fraternidad generosa.
 
 ## Mapa del archivo fuente
 

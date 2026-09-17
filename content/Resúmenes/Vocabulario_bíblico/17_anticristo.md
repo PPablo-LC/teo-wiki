@@ -16,11 +16,11 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[creacion]] — el combate entre Dios creador y las fuerzas del caos
 - [[mar]] — bestias monstruosas que personifican el poder indomable del mar
-- [[bestia_bestias]] — las bestias monstruosas del Apocalipsis
-- [[satan]] — el adversario de Dios por excelencia
+- [[bestia]] — las bestias monstruosas del Apocalipsis
+- [[satanás]] — el adversario de Dios por excelencia
 - [[enemigo]] — los enemigos del pueblo de Dios como adversarios de Dios
 - [[egipto]] — Egipto como poder adverso en el momento del éxodo
-- [[babel_babilonia]] — Babilonia como opresora de Israel
+- [[babel]] — Babilonia como opresora de Israel
 - [[impio]] — el impío que pretende ocupar el lugar de Dios
 - [[verdad]] — la adhesión a la verdad frente a la mentira
 - [[mentira]] — los hombres que se adhieren a la mentira

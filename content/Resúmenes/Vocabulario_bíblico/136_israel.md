@@ -28,7 +28,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[eleccion]] — el elegido de Yahveh
 - [[hijo]] — el hijo primogénito
 - [[herencia]] — la herencia de Yahveh
-- [[vigna]] — la viña de Yahveh
+- [[viña]] — la viña de Yahveh
 - [[esposo]] — la esposa de Yahveh
 - [[judio]] — los judíos en el judaísmo
 - [[promesas]] — las promesas proféticas
@@ -39,7 +39,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[consolacion]] — la consolación de Israel
 - [[salvacion]] — la salvación de Israel
 - [[misericordia]] — la misericordia con Israel
-- [[penitencia_conversion]] — la conversión de Israel
+- [[penitencia_y_conversión]] — la conversión de Israel
 - [[gloria]] — la gloria de Israel
 - [[resurreccion]] — la esperanza fundada en la resurrección
 - [[apostoles]] — los doce apóstoles
@@ -65,7 +65,7 @@ Israel tiene como estructura nacional fundamental a las doce tribus que llevan e
 
 ### Yahveh Dios de Israel e Israel pueblo de Yahveh.
 
-Por la alianza se ligó Dios en cierto modo con Israel: él es el [[dios|Dios]] *Is 17,6* *Jer 7,3* *Ez 8,4*, el [[santo|santo]] *Is 1,4* *44,14* *Sal 89,19*, el [[fuerza|fuerte]] *Is 1,25*, la [[roca|roca]] *Is 30,29*, el [[rey|rey]] *Is 43,15*, el [[redenccion|redentor]] *Is 44,6* de Israel. El [[dios|Dios]] de la revelación entra así en la historia de las religiones como el Dios particular de Israel. Por su parte, sólo a Israel elige para hacerlo depositario de su [[designio_de_dios|designio]] de salvación. También en este sentido son significativos los títulos dados a Israel: es el [[pueblo|pueblo]] de Yahveh *Is 1,3* *Am 7,8* *Jer 12,14* *Ez 14,9* *Sal 50,7*, su [[servir|servidor]] *Is 44,21*, su [[eleccion|elegido]] *Is 45,4*, su [[hijo|hijo]] primogénito *Ex 4,22* *Os 11,1*, su bien sagrado *Jer 2,3*, su [[herencia|herencia]] *Is 19,25*, su rebaño *Sal 95,7*, su [[vigna|viña]] *Is 5,7*, su posesión *Sal 114,2*, su [[esposo|esposa]] *Os 2,4*... Israel no pertenece por tanto sólo a la historia política de la humanidad: se halla por elección divina en el centro de la historia sagrada.
+Por la alianza se ligó Dios en cierto modo con Israel: él es el [[dios|Dios]] *Is 17,6* *Jer 7,3* *Ez 8,4*, el [[santo|santo]] *Is 1,4* *44,14* *Sal 89,19*, el [[fuerza|fuerte]] *Is 1,25*, la [[roca|roca]] *Is 30,29*, el [[rey|rey]] *Is 43,15*, el [[redenccion|redentor]] *Is 44,6* de Israel. El [[dios|Dios]] de la revelación entra así en la historia de las religiones como el Dios particular de Israel. Por su parte, sólo a Israel elige para hacerlo depositario de su [[designio_de_dios|designio]] de salvación. También en este sentido son significativos los títulos dados a Israel: es el [[pueblo|pueblo]] de Yahveh *Is 1,3* *Am 7,8* *Jer 12,14* *Ez 14,9* *Sal 50,7*, su [[servir|servidor]] *Is 44,21*, su [[eleccion|elegido]] *Is 45,4*, su [[hijo|hijo]] primogénito *Ex 4,22* *Os 11,1*, su bien sagrado *Jer 2,3*, su [[herencia|herencia]] *Is 19,25*, su rebaño *Sal 95,7*, su [[viña|viña]] *Is 5,7*, su posesión *Sal 114,2*, su [[esposo|esposa]] *Os 2,4*... Israel no pertenece por tanto sólo a la historia política de la humanidad: se halla por elección divina en el centro de la historia sagrada.
 
 ### Israel y Judá.
 
@@ -81,7 +81,7 @@ En efecto, los oráculos escatológicos de los profetas anunciaron en el futuro 
 
 ### El Evangelio y el antiguo Israel.
 
-El orden providencial de las cosas quiso que el acontecimiento de la salvación se realizara en Israel y que Israel, como pueblo de la Alianza, recibiera su primer anuncio. Tal es ya el fin del bautismo de Juan *Jn 1,31*. En vida de Jesús la misión del Salvador, como la de los discípulos, se restringe todavía a sólo Israel *Mt 10,6.23* *15,24*. Después de su resurrección, la buena nueva se notifica en primer lugar a Israel *Act 2,36* *4,10*. En efecto, Israel y las naciones, que han participado juntos en el drama de la pasión *4,27*, están, sí, llamados a la fe sin distinción *9,15*, pero siguiendo cierto orden: primero los judíos, que son «israelitas» por nacimiento *Rom 9,4*, luego todos los demás *Rom 1,16* *2,9s* *Act 13,46*. En efecto, la salvación aportada por el Evangelio colma la esperanza de los que aguardan la [[consolacion|consolación]] de Israel *Lc 2,25*, la [[salvacion|salvación]] de Israel *Lc 24,21*, la restauración de la realeza para Israel *Act 1,6*; por medio de Jesús ha venido Dios a socorrer a Israel *Lc 1,54*, a usar con él de [[misericordia|misericordia]] *Lc 1,68*, a otorgarle la [[penitencia_conversion|conversión]] y la remisión de los pecados *Act 5,31*; Jesús es la [[gloria|gloria]] de Israel *Lc 2,32*, su [[rey|rey]] *Mt 27,42 p* *Jn 1,50* *12,13*, su [[salvacion|salvador]] *Act 13,23s*; la nueva esperanza fundada en su [[resurreccion|resurrección]] no es otra cosa sino la esperanza misma de Israel *Act 28,20*. En una palabra, Israel constituye el nexo orgánico que vincula la realización de la salvación a toda la historia humana.
+El orden providencial de las cosas quiso que el acontecimiento de la salvación se realizara en Israel y que Israel, como pueblo de la Alianza, recibiera su primer anuncio. Tal es ya el fin del bautismo de Juan *Jn 1,31*. En vida de Jesús la misión del Salvador, como la de los discípulos, se restringe todavía a sólo Israel *Mt 10,6.23* *15,24*. Después de su resurrección, la buena nueva se notifica en primer lugar a Israel *Act 2,36* *4,10*. En efecto, Israel y las naciones, que han participado juntos en el drama de la pasión *4,27*, están, sí, llamados a la fe sin distinción *9,15*, pero siguiendo cierto orden: primero los judíos, que son «israelitas» por nacimiento *Rom 9,4*, luego todos los demás *Rom 1,16* *2,9s* *Act 13,46*. En efecto, la salvación aportada por el Evangelio colma la esperanza de los que aguardan la [[consolacion|consolación]] de Israel *Lc 2,25*, la [[salvacion|salvación]] de Israel *Lc 24,21*, la restauración de la realeza para Israel *Act 1,6*; por medio de Jesús ha venido Dios a socorrer a Israel *Lc 1,54*, a usar con él de [[misericordia|misericordia]] *Lc 1,68*, a otorgarle la [[penitencia_y_conversión|conversión]] y la remisión de los pecados *Act 5,31*; Jesús es la [[gloria|gloria]] de Israel *Lc 2,32*, su [[rey|rey]] *Mt 27,42 p* *Jn 1,50* *12,13*, su [[salvacion|salvador]] *Act 13,23s*; la nueva esperanza fundada en su [[resurreccion|resurrección]] no es otra cosa sino la esperanza misma de Israel *Act 28,20*. En una palabra, Israel constituye el nexo orgánico que vincula la realización de la salvación a toda la historia humana.
 
 ### El nuevo Israel.
 

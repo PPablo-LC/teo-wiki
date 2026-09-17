@@ -25,21 +25,21 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[silencio]] — el silencio del universo
 - [[accion_de_gracias]] — la acción de gracias
 - [[voluntad_de_dios]] — la sumisión a la voluntad de Dios
-- [[prueba_tentacion]] — la obediencia como prueba
+- [[prueba_y_tentación]] — la obediencia como prueba
 - [[alianza]] — la alianza y la obediencia
 - [[ley]] — la ley dentro de la alianza
 - [[pueblo]] — Israel, pueblo de Dios
 - [[fidelidad]] — la fidelidad a la alianza
 - [[amor]] — la obediencia como proceso de amor
 - [[esclavo]] — el hombre esclavo del pecado
-- [[siervo_de_yahveh]] — el siervo que obedece
+- [[siervo_de_yahvé]] — el siervo que obedece
 - [[autoridad]] — las autoridades humanas
 - [[cruz]] — la obediencia hasta la cruz
 - [[sacrificio]] — el sacrificio más precioso
 - [[senor]] — Jesús constituido Señor
 - [[iglesia]] — la obediencia a la Iglesia
 - [[misterio]] — el misterio de la salvación
-- [[liberacion_libertad]] — la libertad humana
+- [[liberación_y_libertad]] — la libertad humana
 - [[abraham]] — la obediencia de Abraham
 
 ## Contenido
@@ -58,7 +58,7 @@ Ya en los orígenes desobedece Adán a Dios, arrastrando en su rebelión a todos
 
 ### 2. La obediencia de Abraham
 
-Para salvar a la humanidad suscita Dios la fe de [[abraham|Abraham]], y para asegurarse de esta fe la hace pasar por la obediencia: «Deja tu país» *Gen 12,1*, «Camina en mi presencia y sé perfecto» *17,1*, «Toma a tu hijo... ofrécelo en holocausto» *22,2*. Toda la existencia de Abraham reposa en la palabra de Dios, pero esta palabra le impone constantemente avanzar a ciegas y realizar gestos cuyo sentido no se le alcanza. De este modo la obediencia es para él una [[prueba_tentacion|prueba]], una tentación de Dios *22,1*, y para Dios un testimonio sin precio: «Tú no me has rehusado a tu hijo único» *22,16*.
+Para salvar a la humanidad suscita Dios la fe de [[abraham|Abraham]], y para asegurarse de esta fe la hace pasar por la obediencia: «Deja tu país» *Gen 12,1*, «Camina en mi presencia y sé perfecto» *17,1*, «Toma a tu hijo... ofrécelo en holocausto» *22,2*. Toda la existencia de Abraham reposa en la palabra de Dios, pero esta palabra le impone constantemente avanzar a ciegas y realizar gestos cuyo sentido no se le alcanza. De este modo la obediencia es para él una [[prueba_y_tentación|prueba]], una tentación de Dios *22,1*, y para Dios un testimonio sin precio: «Tú no me has rehusado a tu hijo único» *22,16*.
 
 ### 3. La alianza
 
@@ -66,7 +66,7 @@ La [[alianza|alianza]] supone exactamente el mismo proceso. «Todo lo que ha dic
 
 ## III. Cristo, nuestra obediencia
 
-Pero nadie obedece a Dios. Israel es «una casa rebelde» *Ez 2,5*; son «hijos rebelados» *Is 1,2*; «gloriándose en su ley, deshonra a Dios infringiéndola» *Rom 2,23*; no puede hacer valer superioridad alguna sobre el pagano, pues como él está «incluido en la desobediencia» *3,10* *11,32*. El hombre, [[esclavo|esclavo]] del [[pecado|pecado]], aunque desde el fondo de él mismo aspira a obedecer a Dios, es incapaz de hacerlo *7,14*. Para llegar a ello, para que halle «la ley en el fondo de su ser» *Jer 31,33*, es preciso que Dios envíe a su [[siervo_de_yahveh|siervo]], que «todas las mañanas despierte [su] oído» *Is 50,4* a fin de que pueda decir «Heme aquí que vengo... a hacer tus voluntades» *Sal 40,7ss*.
+Pero nadie obedece a Dios. Israel es «una casa rebelde» *Ez 2,5*; son «hijos rebelados» *Is 1,2*; «gloriándose en su ley, deshonra a Dios infringiéndola» *Rom 2,23*; no puede hacer valer superioridad alguna sobre el pagano, pues como él está «incluido en la desobediencia» *3,10* *11,32*. El hombre, [[esclavo|esclavo]] del [[pecado|pecado]], aunque desde el fondo de él mismo aspira a obedecer a Dios, es incapaz de hacerlo *7,14*. Para llegar a ello, para que halle «la ley en el fondo de su ser» *Jer 31,33*, es preciso que Dios envíe a su [[siervo_de_yahvé|siervo]], que «todas las mañanas despierte [su] oído» *Is 50,4* a fin de que pueda decir «Heme aquí que vengo... a hacer tus voluntades» *Sal 40,7ss*.
 
 «Así como por la desobediencia de uno solo la multitud fue constituida pecadora, así por la obediencia de uno solo la multitud será constituida justa» *Rom 5,19*. La obediencia de Jesucristo es nuestra salvación y por ella nos es dado volver a la obediencia a Dios. La vida de Jesucristo fue, desde «su entrada en el mundo» *Heb 10,5* y «hasta la muerte de cruz» *Flp 2,8*, obediencia, es decir, adhesión a Dios a través de una serie de intermediarios: personajes, acontecimientos, instituciones, Escrituras de su pueblo, [[autoridad|autoridades]] humanas. Venido «para hacer no [su] voluntad, sino la voluntad del que [le] ha enviado» *Jn 6,38* *Mt 26,39*, pasa toda su vida en los deberes normales de la obediencia a los padres *Lc 2,51*, a las autoridades legítimas *Mt 17,27*. En su [[cruz|pasión]] llega al colmo su obediencia, al entregarse sin resistir a poderes inhumanos e injustos, «haciendo a través de todos estos sufrimientos la experiencia de la obediencia» *Heb 5,8*, haciendo de su muerte el [[sacrificio|sacrificio]] más precioso a Dios, el de la obediencia *10,5-10* *1Sa 15,22*.
 

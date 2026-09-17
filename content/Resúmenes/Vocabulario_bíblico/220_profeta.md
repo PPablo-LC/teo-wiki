@@ -27,7 +27,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sacerdocio]] — el sacerdocio
 - [[vocación]] — la vocación del profeta
 - [[Moisés]] — Moisés, fuente de la profecía
-- [[siervo_de_yahveh]] — el Siervo de Yahveh
+- [[siervo_de_yahvé]] — el Siervo de Yahveh
 - [[misión]] — la misión del profeta
 - [[muerte]] — la muerte de los profetas
 - [[silencio]] — el silencio del cordero
@@ -157,7 +157,7 @@ Jesús aparece en medio de una red de profetismo, representada por Zacarías *Lc
 
 Se reconocen en Jesús muchos rasgos proféticos: revela los «signos de los tiempos» *Mt 16,2s* y anuncia su fin *Mt 24-25*; su actitud frente a los valores recibidos reasume la crítica de los profetas: severidad para con los que tienen la llave *Lc 11,52*, [[ira]] contra la [[hipocresía]] religiosa *Mt 15,7* *Is 29,13*, discusión de la calidad de hijos de [[abraham|Abraham]] *Jn 8,39*, clarificación de una [[herencia]] espiritual enmarañada, purificación del templo *Mc 11,15ss p* y anuncio de un [[culto]] perfecto *Jn 2,16* *Zac 14,21*. Finalmente, ve denegado su mensaje, rechazado por aquella Jerusalén que había matado a los profetas *Mt 23,37s p*. A medida que se acerca este término, lo anuncia y explica su sentido, siendo él mismo su propio profeta.
 
-La multitud da espontáneamente a [[jesus|Jesús]] el título de profeta *Mt 16,14* *Jn 4,19* *9,17*, que en ciertos casos designa al profeta por excelencia anunciado en las Escrituras *Jn 1,21* *6,14* *7,40*. Jesús mismo no adopta este título sino incidentalmente *Mt 13,57 p*; la Iglesia naciente tampoco le asignará gran lugar *Act 3,22s*. La personalidad de Jesús desborda la tradición profética: él es el [[mesias|Mesías]], el [[siervo_de_yahveh|Siervo]] de Dios, el [[hijo|Hijo]] del hombre, y su autoridad es la del Hijo, lo cual le sitúa por encima de toda la serie de los profetas *Heb 1,1ss*. ¿Qué profeta se habría presentado como fuente de [[verdad]] y de [[vida]]? Los profetas decían: «Oráculo de Yahveh.» Jesús dice: «En verdad, en verdad os digo...» Su misión y su persona no son ya del mismo orden.
+La multitud da espontáneamente a [[jesus|Jesús]] el título de profeta *Mt 16,14* *Jn 4,19* *9,17*, que en ciertos casos designa al profeta por excelencia anunciado en las Escrituras *Jn 1,21* *6,14* *7,40*. Jesús mismo no adopta este título sino incidentalmente *Mt 13,57 p*; la Iglesia naciente tampoco le asignará gran lugar *Act 3,22s*. La personalidad de Jesús desborda la tradición profética: él es el [[mesias|Mesías]], el [[siervo_de_yahvé|Siervo]] de Dios, el [[hijo|Hijo]] del hombre, y su autoridad es la del Hijo, lo cual le sitúa por encima de toda la serie de los profetas *Heb 1,1ss*. ¿Qué profeta se habría presentado como fuente de [[verdad]] y de [[vida]]? Los profetas decían: «Oráculo de Yahveh.» Jesús dice: «En verdad, en verdad os digo...» Su misión y su persona no son ya del mismo orden.
 
 #### La Iglesia
 

@@ -32,7 +32,7 @@ La experiencia de Catalina es un caso ejemplar de lo escrito en el Mensaje de co
 
 Son conocidas sus palabras al Papa Gregorio XI: «¡Paz, paz, paz, mi dulce padre, y no más guerra!» (Carta 218). No dudaba en emprender difíciles viajes para despertar sentimientos de reconciliación. El Papa reconoce que Catalina era hija de su tiempo cuando hacía suya la mentalidad de que la defensa de los santos lugares podía requerir el recurso a las armas. Hoy hay que agradecer al Espíritu que se comprenda que el modo apropiado es el del [[diálogo]] paciente, firme y respetuoso. Sin embargo, el celo de Catalina sigue siendo ejemplo de amor valiente y fuerte.
 
-Invocamos a [[santa_María]], Reina de la Paz, para que la Iglesia llegue a ser cada vez más eficaz [[sacramento_de_unidad]] para todo el género humano, y suscite mujeres emprendedoras y valientes como Catalina, artífices de unidad y paz.
+Invocamos a [[maría]], Reina de la Paz, para que la Iglesia llegue a ser cada vez más eficaz [[sacramento_de_unidad]] para todo el género humano, y suscite mujeres emprendedoras y valientes como Catalina, artífices de unidad y paz.
 
 ## Mapa del archivo fuente
 

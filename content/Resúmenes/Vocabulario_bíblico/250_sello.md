@@ -1,51 +1,27 @@
 ---
 type: ResumenFuente
 title: "Sello"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 250
-timestamp: 2026-08-24
-description: "Resumen de 'Sello' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "El sello en la Biblia: símbolo de autoridad y pertenencia, el sello de Dios sobre la creación y sobre Cristo, y el sello del Espíritu en los cristianos."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Sello
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
+> 📄 **Fuente original:** `sello.md`
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `sello.md`
+### Sentido y uso del sello.
 
+El sello no es sólo una joya grabada con arte *Eclo 32,5s*: es también un símbolo de la persona *Gen 38,18* y de su autoridad *Gen 41,42* *1Mac 6,15*; así va con frecuencia fijo en un anillo, del que no se separa uno sino por motivo grave *Ag 2,23* *Jer 22,24*. La oblea o nema sobre la que uno pone su sello atestigua que un objeto le pertenece *Dt 32,34*, que una acción emana de él *1Re 21,8*, que está prohibido el acceso a una de sus posesiones *Dan 14,10*. El sello es, pues, como una firma; garantiza la validez de un documento *Jer 32,10*; indica también su fin *Rom 15,28*; a veces da un carácter secreto, como en el caso de un rollo sellado que nadie puede leer, salvo el que tiene derecho a romper el sello *Is 29,11*.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### El sello de Dios.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Sello |
-| 3 | H3 | Sentido y uso del sello. |
-| 6 | H3 | El sello de Dios. |
+a. El sello de Dios es un símbolo poético de su dominio sobre las criaturas y sobre la historia; puede sellar las estrellas *Job 9,7*, en la noche obscura; sella el [[libro|libro]] de sus [[designio_de_dios|designios]] *Ap 5,1-8,1*, y nadie descifra su secreto, excepto el [[cordero_de_dios|cordero]] que los [[cumplir|cumple]]. Dios sella los pecados, en cuanto que les pone término, ya sean pecados individuales *Job 14,17* o colectivos *Dan 9,24*; en este último caso sella al mismo tiempo la «[[profeta|profecía]]», es decir, le pone término realizándola (ibíd.).
 
+b. El simbolismo adquiere nuevo valor cuando Cristo se dice marcado con el sello de Dios, su Padre *Jn 6,27*; en efecto, este sello del Padre sobre el Hijo del hombre no es sencillamente el poder que le da de realizar su obra *Jn 5,32.36*, sino también la consagración que lo hace [[hijo|Hijo]] de Dios *Jn 10,36*. En esta consagración participa el cristiano cuando lo marca Dios con su sello dándole el [[Espíritu|Espíritu]] *2Cor 1,22* *Ef 1,13s*, don que es exigencia de fidelidad al Espíritu *Ef 4,30*. Este sello es la marca de los servidores de Dios y su salvaguardia en el momento de la prueba escatológica *Ap 7,2-4* *9,4*.
 
-## Secciones incluidas
-
-## Sentido y uso del sello.
-
-[Contenido de esta sección...]
-
-## El sello de Dios.
-
-[Contenido de esta sección...]
+Gracias a él podrán mantenerse fieles a las palabras divinas: éstas, en efecto, sellan la carta de fundación de la vida cristiana e invitan a los creyentes a ser [[fidelidad|fieles]] a la gracia de la [[eleccion|elección]] *2Tim 2,19*.

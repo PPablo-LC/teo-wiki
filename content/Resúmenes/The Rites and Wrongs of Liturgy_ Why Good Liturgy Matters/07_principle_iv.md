@@ -18,7 +18,7 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 - [[Iglesia]]
 - [[Espíritu_Santo]]
 - [[Eucaristía]]
-- [[discípulos_de_cristo]]
+- [[discípulo]]
 
 ## Contenido
 

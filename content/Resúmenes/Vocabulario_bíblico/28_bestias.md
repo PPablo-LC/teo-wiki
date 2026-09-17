@@ -21,10 +21,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[guerra]] — la guerra primordial entre Yahveh y sus enemigos
 - [[enemigo]] — los enfrentamientos históricos entre Yahveh y sus enemigos
 - [[paraiso]] — el drama del paraíso como primer enfrentamiento
-- [[satan]] — la serpiente del Génesis como Satán
+- [[satanás]] — la serpiente del Génesis como Satán
 - [[mujer]] — la posteridad de la mujer sobre la que la serpiente adquirió poder
 - [[juicio]] — las bestias como artífices del juicio de Dios
-- [[dia_domini]] — las langostas como anuncio del día de Yahveh
+- [[día_del_señor]] — las langostas como anuncio del día de Yahveh
 - [[ira]] — los rigores de la ira divina atraídos por la idolatría
 - [[anticristo]] — la bestia como anticristo frente a Cristo rey
 - [[victoria]] — la victoria final sobre la bestia

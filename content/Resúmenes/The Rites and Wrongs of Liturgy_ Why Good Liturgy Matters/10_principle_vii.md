@@ -16,7 +16,7 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 - [[Eucaristía]]
 - [[pobres]]
 - [[justicia_social]]
-- [[discípulos_de_cristo]]
+- [[discípulo]]
 - [[Evangelio]]
 - [[ética_cristiana]]
 - [[comunidad]]
@@ -39,7 +39,7 @@ En cuanto a que toda liturgia cristiana necesita proclamar la absoluta generosid
 
 ### Practical Action; Generous Attitudes
 
-La generosidad no puede limitarse a proveer recursos para los pobres —eso es un requisito mínimo constante— sino que debe mostrar a la comunidad relacionándose activamente con todos quienes se encuentran marginados por raza, color, género, orientación sexual, discapacidad, estado cívico o lo que sea. Abrazar a todos estos marginados debe ser parte del [[discípulos_de_cristo]] (Mateo 25:31-40) y una parte sentida de la liturgia que proclama la redención. Cuando una liturgia no valora a los marginados, corre el peligro de no reconocer que el cambio social está en el corazón del cristianismo. Jesús está entre nosotros como quien sirve (Lucas 22:27), y hay un fuerte argumento de que esto es un aspecto del discipulado al que Jesús dio forma ritual en el lavatorio de pies.
+La generosidad no puede limitarse a proveer recursos para los pobres —eso es un requisito mínimo constante— sino que debe mostrar a la comunidad relacionándose activamente con todos quienes se encuentran marginados por raza, color, género, orientación sexual, discapacidad, estado cívico o lo que sea. Abrazar a todos estos marginados debe ser parte del [[discípulo]] (Mateo 25:31-40) y una parte sentida de la liturgia que proclama la redención. Cuando una liturgia no valora a los marginados, corre el peligro de no reconocer que el cambio social está en el corazón del cristianismo. Jesús está entre nosotros como quien sirve (Lucas 22:27), y hay un fuerte argumento de que esto es un aspecto del discipulado al que Jesús dio forma ritual en el lavatorio de pies.
 
 ### Liturgy and Ethics, Chalk and Cheese!
 

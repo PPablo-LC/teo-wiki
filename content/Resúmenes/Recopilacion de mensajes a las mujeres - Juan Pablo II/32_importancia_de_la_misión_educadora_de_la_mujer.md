@@ -15,7 +15,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[mujer_educadora]] — misión de la mujer en la educación integral del hombre
 - [[educación]] — crecimiento del hombre en todas sus dimensiones, no árida transmisión de nociones
 - [[genio_femenino]] — singular capacidad para mirar a la persona concreta
-- [[santa_María]] — discípula dócil y educadora de la humanidad de Jesús (Lc 2, 52)
+- [[maría]] — discípula dócil y educadora de la humanidad de Jesús (Lc 2, 52)
 - [[Conferencia_de_Pekin]] — ocasión para destacar la contribución silenciosa de las mujeres
 
 ## Contenido

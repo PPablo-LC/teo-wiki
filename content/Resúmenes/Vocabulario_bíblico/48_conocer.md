@@ -31,8 +31,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sabiduria]] — toda sabiduría viene del Señor
 - [[ley]] — la ley promulgada por Moisés
 - [[padres_y_padre]] — Jesús capaz de revelar al Padre
-- [[reino]] — el misterio del reino
-- [[penitencia_conversion]] — la llamada a la conversión
+- [[reino_de_dios]] — el misterio del reino
+- [[penitencia_y_conversión]] — la llamada a la conversión
 - [[revelacion]] — la revelación progresiva en Juan
 - [[comunion]] — el conocimiento como comunión
 - [[cruz]] — la cruz de Cristo predicada

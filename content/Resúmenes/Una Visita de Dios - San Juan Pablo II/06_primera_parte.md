@@ -18,7 +18,7 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "teo
 - [[pecado]] — mal moral radicalmente contrario a la voluntad de Dios; causa del sufrimiento humano
 - [[Jesucristo]] — camino, verdad y vida; da sentido al sufrimiento y lo transforma en redención
 - [[redención]] — se efectúa concretamente a través de la cruz de Cristo
-- [[María_Santísima]] — modelo de acogida del sufrimiento; principal cooperadora del designio salvador
+- [[maría]] — modelo de acogida del sufrimiento; principal cooperadora del designio salvador
 - [[consolación]] — sola la persona que ha sufrido puede consolar auténticamente
 - [[visita_de_maría_a_isabel]] — ejemplo de cómo un simple saludo lleno de fe puede rasgar la soledad
 - [[parábola_del_hijo_pródigo]] — revela que el pecado es ofensa al amor del Padre
@@ -31,7 +31,7 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "teo
 - [[Paráclito]] — la gracia del Espíritu Santo que el sacramento de la unción invoca
 - [[gracia_santificante]] — la fe y la vida en gracia permiten transformar el dolor en alegría
 - [[oración]] — medio para descubrir gradualmente el verdadero sentido del sufrimiento
-- [[Iglesia_católica|Iglesia]] — presencia de Cristo en los enfermos y en quienes los sirven
+- [[iglesia|Iglesia]] — presencia de Cristo en los enfermos y en quienes los sirven
 
 ## Contenido
 
@@ -91,7 +91,7 @@ Se narra la visita del Papa a monseñor Deskur tras sufrir un derrame cerebral d
 
 #### ¡Sólo puede consolar el que ha sufrido el dolor y el desconsuelo!
 
-El Papa habla desde su propia experiencia: «Conozco el sufrimiento que produce la incapacidad física». Pero ese sufrimiento tiene una vertiente sublime: da capacidad espiritual, es purificación, y puede convertirse en don ofrecido para completar «lo que falta a las tribulaciones de Cristo, en favor de su cuerpo, que es la [[Iglesia_católica|Iglesia]]» (Col 1,24). El sufrimiento capacita para la santidad y tiene un valor salvífico excepcional cuando va unido a los sacrificios de Cristo. Se citan la Carta Apostólica [[Salvifici_doloris]] y la identidad de Cristo como «el mayor realista de la historia del hombre».
+El Papa habla desde su propia experiencia: «Conozco el sufrimiento que produce la incapacidad física». Pero ese sufrimiento tiene una vertiente sublime: da capacidad espiritual, es purificación, y puede convertirse en don ofrecido para completar «lo que falta a las tribulaciones de Cristo, en favor de su cuerpo, que es la [[iglesia|Iglesia]]» (Col 1,24). El sufrimiento capacita para la santidad y tiene un valor salvífico excepcional cuando va unido a los sacrificios de Cristo. Se citan la Carta Apostólica [[Salvifici_doloris]] y la identidad de Cristo como «el mayor realista de la historia del hombre».
 
 Se menciona que en 1944, durante la invasión rusa de Polonia, Karol Wojtyla salvó milagrosamente la vida escondido en la cocina mientras los nazis registraban su casa.
 
@@ -139,7 +139,7 @@ El Papa, a imitación de Jesús, tiene predilección por los enfermos. Quiere en
 
 #### Estoy muy unido a todos los que sufrís
 
-Los sufrimientos de los enfermos, sostenidos por una fe inquebrantable, unidos a los de Cristo, adquieren un valor extraordinario para la vida de la [[Iglesia_católica|Iglesia]] y el bien de la humanidad. A través de los siglos se han escrito páginas admirables de heroísmo en el sufrimiento ofrecido en unión con Cristo.
+Los sufrimientos de los enfermos, sostenidos por una fe inquebrantable, unidos a los de Cristo, adquieren un valor extraordinario para la vida de la [[iglesia|Iglesia]] y el bien de la humanidad. A través de los siglos se han escrito páginas admirables de heroísmo en el sufrimiento ofrecido en unión con Cristo.
 
 #### Ayudáis a la salvación del mundo entero
 
@@ -183,7 +183,7 @@ La enfermedad es una «prueba» en el camino de la vida. Pero el Hijo de Dios he
 
 #### Un beso de Dios que sana el cuerpo y el alma
 
-La [[Iglesia_católica|Iglesia]], a ejemplo de su Redentor, ofrece gracia y fuerza mediante el [[unción_de_enfermos|sacramento de la unción de enfermos]]. Este sacramento es un encuentro personal con Cristo, el Redentor y Salvador de la humanidad.
+La [[iglesia|Iglesia]], a ejemplo de su Redentor, ofrece gracia y fuerza mediante el [[unción_de_enfermos|sacramento de la unción de enfermos]]. Este sacramento es un encuentro personal con Cristo, el Redentor y Salvador de la humanidad.
 
 #### Jesucristo es nuestra esperanza
 
@@ -195,7 +195,7 @@ Al lado de Cristo, en primerísimo lugar, está siempre su Madre Santísima. Sus
 
 #### Estar cerca de la Virgen que tanto nos quiere
 
-El amor de la [[María_Santísima|Virgen]] nació al pie de la [[cruz]], cuando Cristo la encomendó a Juan: «Aquí tienes a tu hijo» (Jn 19,26). Creemos que somos amados por este amor, rodeados por el amor de Dios que se ha revelado en la [[redención]]. Amar quiere decir estar cercano, recordar, meditar.
+El amor de la [[maría|Virgen]] nació al pie de la [[cruz]], cuando Cristo la encomendó a Juan: «Aquí tienes a tu hijo» (Jn 19,26). Creemos que somos amados por este amor, rodeados por el amor de Dios que se ha revelado en la [[redención]]. Amar quiere decir estar cercano, recordar, meditar.
 
 #### Seguir al Señor generosamente
 
@@ -207,7 +207,7 @@ Solo el hombre capaz de acoger el amor misericordioso podrá darlo sin egoísmos
 
 #### Jesús y María siguen pendientes de los que sufren
 
-Cristo «pasó haciendo el bien» (Heb 10,38): curaba, consolaba, alimentaba, liberaba. Puso en el centro las ocho [[beatitudes]]. [[María_Santísima|María]] tiene un papel esencial en hacernos comprender la cruz; nos introduce en el misterio con sabiduría materna; sufre con Jesús y con nosotros.
+Cristo «pasó haciendo el bien» (Heb 10,38): curaba, consolaba, alimentaba, liberaba. Puso en el centro las ocho [[beatitudes]]. [[maría|María]] tiene un papel esencial en hacernos comprender la cruz; nos introduce en el misterio con sabiduría materna; sufre con Jesús y con nosotros.
 
 #### El tiempo del sufrimiento puede ser el más fecundo
 
@@ -223,7 +223,7 @@ El Verbo encarnado, que quiso sufrir y morir en [[cruz]], es quien puede compren
 
 #### Como en el parto, del dolor nace de nuevo la vida
 
-El Papa afirma que ama a los enfermos: porque el dolor les confiere dignidad, porque son los tesoros de la [[Iglesia_católica|Iglesia]], porque peregrinan al cielo siguiendo un sendero duro, porque les pertenece la bienaventuranza reservada por Cristo. En el designio divino, todo dolor es dolor de parto: contribuye al nacimiento de una nueva humanidad. Cristo, al reconciliar al hombre con Dios, lo ha reconciliado con el sufrimiento.
+El Papa afirma que ama a los enfermos: porque el dolor les confiere dignidad, porque son los tesoros de la [[iglesia|Iglesia]], porque peregrinan al cielo siguiendo un sendero duro, porque les pertenece la bienaventuranza reservada por Cristo. En el designio divino, todo dolor es dolor de parto: contribuye al nacimiento de una nueva humanidad. Cristo, al reconciliar al hombre con Dios, lo ha reconciliado con el sufrimiento.
 
 #### Una idea de lo que será el cielo
 
@@ -231,11 +231,11 @@ Los resucitados «ni ellos tomarán mujer, ni ellas marido, ni pueden ya morir, 
 
 #### No es un castigo inmerecido, sino un inmerecido tesoro
 
-Las enfermedades están inscritas en el plan de amor de Dios. No veáis en ellas una ciega fatalidad. La unión con el sufrimiento de Cristo constituye el culmen de la actitud de fe. Quienes sufren con Cristo no sufren un castigo, sino que son invitados a participar en una tarea fecunda. El sufrimiento es purificación, fuente de glorificación, don ofrecido para completar «lo que falta a las tribulaciones de Cristo en favor de su Cuerpo que es la [[Iglesia_católica|Iglesia]]» (Col 1,24).
+Las enfermedades están inscritas en el plan de amor de Dios. No veáis en ellas una ciega fatalidad. La unión con el sufrimiento de Cristo constituye el culmen de la actitud de fe. Quienes sufren con Cristo no sufren un castigo, sino que son invitados a participar en una tarea fecunda. El sufrimiento es purificación, fuente de glorificación, don ofrecido para completar «lo que falta a las tribulaciones de Cristo en favor de su Cuerpo que es la [[iglesia|Iglesia]]» (Col 1,24).
 
 #### La Unción de enfermos es un Sacramento que sana cuerpo y alma
 
-El apóstol Santiago recomienda que los presbíteros vayan a ver a los enfermos (Sant 5,13-15). La [[Iglesia_católica|Iglesia]] ofrece gracia y fuerza mediante el [[unción_de_enfermos|sacramento de la unción de enfermos]], que ayuda al enfermo con la gracia del [[Espíritu_Santo|Espíritu Santo]], lo libera del pecado y lo levanta.
+El apóstol Santiago recomienda que los presbíteros vayan a ver a los enfermos (Sant 5,13-15). La [[iglesia|Iglesia]] ofrece gracia y fuerza mediante el [[unción_de_enfermos|sacramento de la unción de enfermos]], que ayuda al enfermo con la gracia del [[Espíritu_Santo|Espíritu Santo]], lo libera del pecado y lo levanta.
 
 #### El dolor es una caricia de Dios; y la confesión, un abrazo
 
@@ -249,7 +249,7 @@ María está unida perfectamente a Cristo en su despojamiento. A los pies de la 
 
 #### ¡La Resurrección es la fiesta cristiana!
 
-Morimos corporalmente cuando se extinguen las energías. Morimos por el [[pecado]] cuando el amor muere. Fuera del Amor no hay Vida. La fuente de la victoria es la [[cruz]] de Jesucristo: su muerte y [[resurrección]]. La Pascua es la solemnidad mayor de la [[Iglesia_católica|Iglesia]]: «Cristo, realmente muerto, ha resucitado verdaderamente».
+Morimos corporalmente cuando se extinguen las energías. Morimos por el [[pecado]] cuando el amor muere. Fuera del Amor no hay Vida. La fuente de la victoria es la [[cruz]] de Jesucristo: su muerte y [[resurrección]]. La Pascua es la solemnidad mayor de la [[iglesia|Iglesia]]: «Cristo, realmente muerto, ha resucitado verdaderamente».
 
 #### ¡Abrid las puertas a Cristo!
 

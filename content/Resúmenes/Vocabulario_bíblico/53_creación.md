@@ -26,7 +26,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[maldicion]] — la maldición introducida por el pecado
 - [[bien_y_mal]] — el mundo bueno en su origen
 - [[palabra_de_dios]] — la creación por la palabra
-- [[imagen]] — el hombre a imagen y semejanza de Dios
+- [[imagen_de_dios]] — el hombre a imagen y semejanza de Dios
 - [[reposo]] — el reposo del séptimo día
 - [[semana]] — el marco temporal de la creación
 - [[trabajo]] — la actividad creadora de Dios, modelo del trabajo humano
@@ -38,7 +38,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[eleccion]] — la elección del pueblo de Dios
 - [[exodo]] — la liberación del Éxodo
 - [[milagro]] — la serie de los milagros de Dios
-- [[bestia_bestias]] — las bestias que personifican el caos
+- [[bestia]] — las bestias que personifican el caos
 - [[victoria]] — la creación, primera victoria de Dios
 - [[nuevo]] — la nueva creación
 - [[jerusalen]] — la nueva Jerusalén
@@ -47,7 +47,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[presencia_de_dios]] — la presencia divina imposible de esquivar
 - [[piedad]] — la piedad regida por la conciencia de criatura
 - [[enemigo]] — los enemigos del pueblo aniquilados por el Creador
-- [[puro]] — la bondad de toda criatura
+- [[pureza]] — la bondad de toda criatura
 - [[alabanza]] — la alabanza del Creador
 - [[padres_y_padre]] — el Dios creador, Padre de Jesucristo
 - [[hijo]] — el Hijo asociado a la actividad creadora

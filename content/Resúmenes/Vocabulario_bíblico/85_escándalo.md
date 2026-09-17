@@ -17,15 +17,15 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[piedra]] — la piedra de escándalo y la piedra angular
 - [[endurecimiento]] — Jesús como ocasión de endurecimiento para muchos
 - [[cruz]] — el escándalo de la cruz
-- [[Satán]] — los escándalos instigados por el maligno
+- [[satanás]] — los escándalos instigados por el maligno
 - [[persecucion]] — la persecución como ocasión de caída
 - [[fidelidad]] — resistir al escándalo para guardar la fidelidad
-- [[liberacion_libertad]] — la libertad cristiana penetrada de caridad
+- [[liberación_y_libertad]] — la libertad cristiana penetrada de caridad
 - [[discipulo]] — el discípulo que no debe escandalizar
 
 ## Contenido
 
-Escandalizar significa hacer caer, ser ocasión de caída. La tentación de [[Satán]], la [[prueba_tentacion|prueba]] de Dios, son «escándalos». Pero siempre se trata de la fe en Dios.
+Escandalizar significa hacer caer, ser ocasión de caída. La tentación de [[satanás]], la [[prueba_y_tentación|prueba]] de Dios, son «escándalos». Pero siempre se trata de la fe en Dios.
 
 ### I. CRISTO, ESCÁNDALO PARA EL HOMBRE
 
@@ -59,4 +59,4 @@ Jesús concentró en sí el poder humano del escándalo; es a sus discípulos a 
 
 Este escándalo puede venir del discípulo mismo; por eso Jesús exige la renuncia a todo lo que pueda poner obstáculo al reino. «Si tu ojo te escandaliza, arráncatelo y lánzalo lejos de ti» *Mt 5,29s* *18,8s*.
 
-Pablo quiere que se evite escandalizar las conciencias débiles: «Guardaos de que la libertad de que vosotros usáis sea ocasión de caída para los débiles» *1Cor 8,9* *Rom 14,13-15.20*. La [[liberacion_libertad|libertad]] cristiana sólo es auténtica si está penetrada de caridad *Gal 5,13*; la fe sólo es verdadera si sostiene la fe de los hermanos *Rom 14,1-23*.
+Pablo quiere que se evite escandalizar las conciencias débiles: «Guardaos de que la libertad de que vosotros usáis sea ocasión de caída para los débiles» *1Cor 8,9* *Rom 14,13-15.20*. La [[liberación_y_libertad|libertad]] cristiana sólo es auténtica si está penetrada de caridad *Gal 5,13*; la fe sólo es verdadera si sostiene la fe de los hermanos *Rom 14,1-23*.

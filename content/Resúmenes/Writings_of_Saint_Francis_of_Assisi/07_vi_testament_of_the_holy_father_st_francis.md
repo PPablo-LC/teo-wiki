@@ -14,7 +14,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 - [[testamento_de_san_francisco]] — Documento espiritual de máxima autoridad
 - [[conversión]] — El llamado de Dios entre los leprosos como inicio de la penitencia
-- [[santísimo_sacramento]] — Reverencia absoluta al Cuerpo y Sangre de Cristo
+- [[eucaristía]] — Reverencia absoluta al Cuerpo y Sangre de Cristo
 - [[jerarquía_eclesiástica]] — Respeto incondicional a los sacerdotes
 - [[regla_de_los_frailes_menores]] — Observancia del santo Evangelio como fundamento
 - [[pobreza_evangelica]] — Renuncia total a la propiedad

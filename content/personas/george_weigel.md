@@ -17,7 +17,7 @@ timestamp: "2026-09-02"
 
 ## Definición
 
-George Weigel, teólogo y escritor católico estadounidense, es el biógrafo de referencia de [[san_juan_pablo_ii]] (*Testigo de la esperanza*) y un destacado comentarista del magisterio y de la teología política católica. Su lectura del pontificado de Wojtyła subraya la experiencia, la libertad y el sentido del sufrimiento como claves.
+George Weigel, teólogo y escritor católico estadounidense, es el biógrafo de referencia de [[juan_pablo_ii]] (*Testigo de la esperanza*) y un destacado comentarista del magisterio y de la teología política católica. Su lectura del pontificado de Wojtyła subraya la experiencia, la libertad y el sentido del sufrimiento como claves.
 
 ## Desarrollo histórico
 
@@ -40,7 +40,7 @@ Weigel articula la visión de Juan Pablo II del sufrimiento como transcendencia,
 
 ## Ver también
 
-[[san_juan_pablo_ii]], [[salvifici_doloris]], [[sufrimiento_redentor]], [[teología_del_cuerpo]], [[parábola_del_buen_samaritano]], [[san_juan_de_la_cruz]]
+[[juan_pablo_ii]], [[salvifici_doloris]], [[sufrimiento_redentor]], [[teología_del_cuerpo]], [[parábola_del_buen_samaritano]], [[san_juan_de_la_cruz]]
 
 ## Referencias
 

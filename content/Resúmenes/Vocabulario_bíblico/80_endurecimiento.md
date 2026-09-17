@@ -21,7 +21,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[resto]] — el designio de Dios ordenado al resto
 - [[paciencia]] — la paciencia de Dios que no aniquila al pecador
 - [[misericordia]] — la última palabra que corresponde a Dios
-- [[penitencia_conversion]] — la conversión como única salida
+- [[penitencia_y_conversión]] — la conversión como única salida
 - [[Espíritu]] — el Espíritu que rompe la fatalidad del mal
 
 ## Contenido
@@ -48,4 +48,4 @@ Juan sugiere una inteligencia más profunda a partir de la imagen de la [[luz]].
 
 ### III. LA VICTORIA DE DIOS
 
-Este endurecimiento no puede cesar sino con la [[penitencia_conversion|penitencia]]: «Si oís la voz de Dios, no endurezcáis vuestros corazones» *Sal 95,7s*=*Heb 3,7s*. Pero ¿cómo podría convertirse el pecador endurecido? «¿Por qué, Señor, nos dejas errar lejos de tus caminos y dejas que nuestros corazones se endurezcan contra tu temor?» *Is 63,17*. El creyente sabe que Dios puede romper la fatalidad del mal y hallar el camino del [[corazon|corazón]] de su esposa *Os 2*. La última palabra corresponde a Dios: el [[corazon|corazón]] de piedra sería reemplazado un día por un corazón de carne *Ez 36,26* y el [[Espíritu]] de Dios haría posible lo que es imposible a los hombres. Cristo vino y dio el Espíritu que hace dóciles a las enseñanzas de Dios.
+Este endurecimiento no puede cesar sino con la [[penitencia_y_conversión|penitencia]]: «Si oís la voz de Dios, no endurezcáis vuestros corazones» *Sal 95,7s*=*Heb 3,7s*. Pero ¿cómo podría convertirse el pecador endurecido? «¿Por qué, Señor, nos dejas errar lejos de tus caminos y dejas que nuestros corazones se endurezcan contra tu temor?» *Is 63,17*. El creyente sabe que Dios puede romper la fatalidad del mal y hallar el camino del [[corazon|corazón]] de su esposa *Os 2*. La última palabra corresponde a Dios: el [[corazon|corazón]] de piedra sería reemplazado un día por un corazón de carne *Ez 36,26* y el [[Espíritu]] de Dios haría posible lo que es imposible a los hombres. Cristo vino y dio el Espíritu que hace dóciles a las enseñanzas de Dios.

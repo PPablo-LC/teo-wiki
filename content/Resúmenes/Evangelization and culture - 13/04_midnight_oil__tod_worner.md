@@ -18,7 +18,7 @@ tags: ["resumen", "evangelization and culture - 13"]
 - [[silencio]] — las preguntas reales de la vida se plantean en silencio
 - [[sacrificio_eucarístico]] — la re-presentación del sacrificio de Cristo
 - [[sagrada_eucaristía]] — el pan consagrado se ha convertido en Dios
-- [[santa_misa]] — la liturgia que declara que el pan y el vino se han convertido en Dios
+- [[misa]] — la liturgia que declara que el pan y el vino se han convertido en Dios
 - [[primeras_comuniones]] — la aprehensión del milagro eucarístico
 
 ## Contenido

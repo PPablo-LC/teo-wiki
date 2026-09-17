@@ -16,7 +16,7 @@ tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "sacerdocio", "vida_rel
 
 - [[sacerdocio]]
 - [[espiritualidad_sacerdotal]]
-- [[santa_misa]]
+- [[misa]]
 - [[breviario]]
 - [[oración_litúrgica]]
 - [[oración_privada]]

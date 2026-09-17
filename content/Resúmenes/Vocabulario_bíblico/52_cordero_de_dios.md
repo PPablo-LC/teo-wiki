@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[alianza]] — la alianza sellada por la sangre
 - [[mundo]] — la liberación del mundo malvado
 - [[culto]] — el culto espiritual de una vida irreprochable
-- [[reino]] — el reino de sacerdotes y la luz del reino
+- [[reino_de_dios]] — el reino de sacerdotes y la luz del reino
 - [[exodo]] — el éxodo espiritual de los rescatados
 - [[poder]] — el poder que confiere la exaltación
 - [[victoria]] — la victoria del león de Judá

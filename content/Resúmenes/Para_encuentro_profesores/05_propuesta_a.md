@@ -17,7 +17,7 @@ tags: ["resumen", "para encuentro profesores"]
 - [[Lectio Divina]]
 - [[Discernimiento apostólico]]
 - [[Conversión personal]]
-- [[Santa Misa]]
+- [[misa]]
 - [[Santidad]]
 
 ## Contenido
@@ -58,7 +58,7 @@ La Propuesta A se titula *Lectura Orante · Compromisos de Vida Cristiana · Dis
 
 ### Bloque 3: Discernimiento Apostólico — Las Decisiones
 
-**Fundamento del documento:** "A través de los acontecimientos, Dios mismo nos habla y nos llama a colaborar con él." El [[Discernimiento apostólico]] busca responder: "¿Dónde está haciendo crecer Dios su Reino en el ambiente donde nos toca vivir, cómo nos corresponde colaborar?" El actuar no es activismo sino correspondencia amorosa: "todo apostolado cristiano comienza por la [[conversión personal]]." Los compromisos que nazcan aquí se ofrecen al Padre en la [[Santa Misa]].
+**Fundamento del documento:** "A través de los acontecimientos, Dios mismo nos habla y nos llama a colaborar con él." El [[Discernimiento apostólico]] busca responder: "¿Dónde está haciendo crecer Dios su Reino en el ambiente donde nos toca vivir, cómo nos corresponde colaborar?" El actuar no es activismo sino correspondencia amorosa: "todo apostolado cristiano comienza por la [[conversión personal]]." Los compromisos que nazcan aquí se ofrecen al Padre en la [[misa]].
 
 **Exposición del padre (30 min):**
 - Leer los signos de los tiempos a la luz del [[Evangelio]]: *Gaudium et Spes* 4 y 11.
@@ -66,7 +66,7 @@ La Propuesta A se titula *Lectura Orante · Compromisos de Vida Cristiana · Dis
 - ¿Dónde está creciendo el Reino en el IHST?
 - De las convicciones a las decisiones: el compromiso apostólico como respuesta de amor.
 - Compromisos personales y comunitarios: concretos, posibles y verificables.
-- Preparación del corazón para ofrecer los compromisos en la [[Santa Misa]].
+- Preparación del corazón para ofrecer los compromisos en la [[misa]].
 
 **Oración en grupos (30 min):** [[Evangelio]] Mateo 28, 18-20 (el envío misionero: "Id y haced discípulos"). Lectura pausada → silencio ("¿A qué me envía Cristo desde mi lugar como educador/a?") → oración ("Señor, te ofrezco este compromiso concreto: ...") → decisión concreta (compromiso personal + comunitario).
 

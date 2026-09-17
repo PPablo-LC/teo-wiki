@@ -20,9 +20,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[palabra_de_dios]] — la palabra de Dios
 - [[verdad]] — la verdad con valor de vida
 - [[evangelio]] — el evangelio frente a la conferencia
-- [[penitencia_conversión]] — el llamamiento a la conversión
+- [[penitencia_y_conversión]] — el llamamiento a la conversión
 - [[cumplir]] — el cumplimiento de las profecías
-- [[reino]] — el reino de los cielos está cerca
+- [[reino_de_dios]] — el reino de los cielos está cerca
 - [[Espíritu]] — el don del Espíritu
 - [[iglesia]] — el nacimiento de la Iglesia
 - [[resurrección]] — la resurrección de Cristo
@@ -34,7 +34,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sabiduría]] — la sabiduría del lenguaje recusada
 - [[promesas]] — las promesas cumplidas
 - [[padres_y_padre]] — la promesa hecha a los padres
-- [[siervo_de_yahveh]] — el poema del siervo
+- [[siervo_de_yahvé]] — el poema del siervo
 - [[bautismo]] — el bautismo como participación
 - [[fe]] — la fe nacida de la predicación
 - [[ira]] — la ira para los que rechazan la palabra
@@ -52,11 +52,11 @@ Las predicaciones de Juan Bautista, de Jesús, de Pedro o de Pablo ofrecen un mi
 
 #### Llamamiento a la conversión
 
-Una misma palabra inaugura la predicación de Jesús y la de su Precursor, y corona los primeros sermones apostólicos: «¡Arrepentíos!» *Mt 3,2* *4,17* *Act 2,38* *3,19* *5,31* *13,38s*. La verdad anunciada requiere del oyente un compromiso, pues [[palabra_de_dios|palabra]] y [[verdad]], según su sentido bíblico, tienen valor de vida. Toda predicación que no venga a parar en un llamamiento a la [[penitencia_conversión|penitencia]] se expone a cesar de ser [[evangelio]] para convertirse en conferencia.
+Una misma palabra inaugura la predicación de Jesús y la de su Precursor, y corona los primeros sermones apostólicos: «¡Arrepentíos!» *Mt 3,2* *4,17* *Act 2,38* *3,19* *5,31* *13,38s*. La verdad anunciada requiere del oyente un compromiso, pues [[palabra_de_dios|palabra]] y [[verdad]], según su sentido bíblico, tienen valor de vida. Toda predicación que no venga a parar en un llamamiento a la [[penitencia_y_conversión|penitencia]] se expone a cesar de ser [[evangelio]] para convertirse en conferencia.
 
 #### Proclamación de un acontecimiento
 
-Si la predicación exige conversión, es porque anuncia el acontecimiento de la salvación. «El [[reino]] de los cielos está cerca» *Mt 4,17*, proclama Jesús, como el Precursor *3,2*; los discípulos anuncian el mismo hecho: se han [[cumplir|cumplido]] las profecías. Jesús se presenta como el [[siervo_de_yahveh|siervo]] que evangeliza a los pobres: «hoy se ha cumplido esta palabra» *Lc 4,17-21* *Is 61,1s*.
+Si la predicación exige conversión, es porque anuncia el acontecimiento de la salvación. «El [[reino_de_dios]] de los cielos está cerca» *Mt 4,17*, proclama Jesús, como el Precursor *3,2*; los discípulos anuncian el mismo hecho: se han [[cumplir|cumplido]] las profecías. Jesús se presenta como el [[siervo_de_yahvé|siervo]] que evangeliza a los pobres: «hoy se ha cumplido esta palabra» *Lc 4,17-21* *Is 61,1s*.
 
 El día de Pascua el reino se manifestó en la gloria del resucitado; el día de Pentecostés el don del [[Espíritu]] dio nacimiento a la [[iglesia|Iglesia]]. En adelante la predicación proclama un hecho actual que muestra al Espíritu Santo en acción, que remite a un acontecimiento pasado (la pascua de Cristo) y a un acontecimiento futuro (la parusía del Señor). Jesús resucitó y vive: es [[Señor]], glorificado en el cielo *3,21* y ha de volver triunfalmente para el [[juicio]] *1Tes 1,10* *2Tes 1,7*. La predicación es esencialmente el mensaje pascual y con ello la revelación del misterio de la historia sagrada.
 

@@ -13,7 +13,7 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento"]
 ## Conceptos básicos referenciados
 
 - [[Salvifici_doloris]] — Carta Apostólica citada en múltiples notas ([6], [46], [61], [66], [72], [91], [92])
-- [[san_juan_pablo_ii]] — autor de todas las alocuciones, homilías y documentos referenciados
+- [[juan_pablo_ii]] — autor de todas las alocuciones, homilías y documentos referenciados
 - [[LOURDES]] — santuario referenciado en notas [98]-[105]
 
 ## Contenido

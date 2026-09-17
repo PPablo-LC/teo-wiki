@@ -18,7 +18,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mision]] — el cuidado de la misión del apóstol
 - [[sabiduria]] — la búsqueda de la sabiduría
 - [[mundo]] — los cuidados de este mundo
-- [[reino]] — cuidadse únicamente del reino de Dios
+- [[reino_de_dios]] — cuidadse únicamente del reino de Dios
 - [[confianza]] — la confianza en el amor paterno de Dios
 - [[fe]] — los cuidados como llamamiento a la fe
 - [[temor]] — el temor y la angustia

@@ -36,7 +36,7 @@ Pablo prosigue la crítica asociando la idolatría al culto de los demonios. La 
 
 ## Relaciones doctrinales
 
-[[idolatría]], [[adoración]], [[imagen]], [[demonio]], [[pecado_contra_el_primer_mandamiento]], [[conversión]]
+[[idolatría]], [[adoración]], [[imagen_de_dios]], [[demonio]], [[pecado_contra_el_primer_mandamiento]], [[conversión]]
 
 ## Ver también
 

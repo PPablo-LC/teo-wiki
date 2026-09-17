@@ -20,7 +20,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[venganza]] — el talión y la sobreabundancia del perdón
 - [[amor]] — el mandamiento de amar a los enemigos
 - [[discipulo]] — el discípulo que perdona a imitación de Jesús
-- [[Satán]] — el enemigo por excelencia
+- [[satanás]] — el enemigo por excelencia
 - [[cruz]] — la victoria sobre la enemistad por medio de la cruz
 - [[reconciliacion]] — el muro de enemistad derribado por Cristo
 
@@ -30,7 +30,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 #### Constancia y límites.
 
-El hombre bíblico está siempre frente a su enemigo, un hecho sobre el que ni siquiera se plantea cuestiones. Ya en el círculo familiar una enemistad operante opone a Caín y Abel *Gen 4,1-16*, a Sara y Agar *Gen 16,1-7*, a Jacob y Esaú *Gen 27-29*, a José y sus hermanos *Gen 37,4*, a Ana y Penina *1Sa 1,6s*. En la ciudad, los [[profeta]]s y los salmistas se quejan de sus enemigos *Sal 31* *35*. Ha venido a ser un esquema de pensamiento: tras toda adversidad se descubre un adversario, y el [[enfermedad_curacion|enfermo]] de los Salmos es casi siempre perseguido *Sal 13* *38,1-16*. Sin embargo, la ley ve en el enemigo de Israel un sujeto de derechos *Ex 23,4* *Num 35,15*. La hostilidad conoce matices: sin piedad con los cananeos *Ex 17,16* *1Sa 15*, guerra fría con Moab y Amón *Dt 23,4-7*, y el Deuteronomio deja entender que [[extranjero]] no significa necesariamente enemigo *Dt 23,8*.
+El hombre bíblico está siempre frente a su enemigo, un hecho sobre el que ni siquiera se plantea cuestiones. Ya en el círculo familiar una enemistad operante opone a Caín y Abel *Gen 4,1-16*, a Sara y Agar *Gen 16,1-7*, a Jacob y Esaú *Gen 27-29*, a José y sus hermanos *Gen 37,4*, a Ana y Penina *1Sa 1,6s*. En la ciudad, los [[profeta]]s y los salmistas se quejan de sus enemigos *Sal 31* *35*. Ha venido a ser un esquema de pensamiento: tras toda adversidad se descubre un adversario, y el [[enfermedad_y_curación|enfermo]] de los Salmos es casi siempre perseguido *Sal 13* *38,1-16*. Sin embargo, la ley ve en el enemigo de Israel un sujeto de derechos *Ex 23,4* *Num 35,15*. La hostilidad conoce matices: sin piedad con los cananeos *Ex 17,16* *1Sa 15*, guerra fría con Moab y Amón *Dt 23,4-7*, y el Deuteronomio deja entender que [[extranjero]] no significa necesariamente enemigo *Dt 23,8*.
 
 #### Origen.
 
@@ -58,4 +58,4 @@ La experiencia y la luz divina orientan los corazones hacia el [[amor]]. Ben Sir
 
 #### La victoria sobre la enemistad.
 
-Jesús no niega la enemistad, sino que la vence. Es un misterio, signo del reinado de [[Satán]], enemigo por excelencia: desde el huerto del Edén *Gen 3,15*. Siembra en la tierra la cizaña *Mt 13,39*. Pero Jesús dio a los suyos poder sobre todo [[poder]] que venga del enemigo *Lc 10,19*. Habiéndose ofrecido a los golpes de Satán a través de los de sus enemigos, venció a la muerte con la muerte, derribando el «muro de enemistad» *Ef 2,14-16*. En tanto llega el [[día]] en que Cristo destruye a la muerte, «el último enemigo» *1Cor 15,25s*, el cristiano combate con Jesús contra el viejo enemigo *Ef 6,11-17*. Esta [[cruz]] es el lugar fuera del cual no hay [[reconciliacion|reconciliación]] con Dios ni entre los hombres.
+Jesús no niega la enemistad, sino que la vence. Es un misterio, signo del reinado de [[satanás]], enemigo por excelencia: desde el huerto del Edén *Gen 3,15*. Siembra en la tierra la cizaña *Mt 13,39*. Pero Jesús dio a los suyos poder sobre todo [[poder]] que venga del enemigo *Lc 10,19*. Habiéndose ofrecido a los golpes de Satán a través de los de sus enemigos, venció a la muerte con la muerte, derribando el «muro de enemistad» *Ef 2,14-16*. En tanto llega el [[día]] en que Cristo destruye a la muerte, «el último enemigo» *1Cor 15,25s*, el cristiano combate con Jesús contra el viejo enemigo *Ef 6,11-17*. Esta [[cruz]] es el lugar fuera del cual no hay [[reconciliacion|reconciliación]] con Dios ni entre los hombres.

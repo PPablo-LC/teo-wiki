@@ -25,7 +25,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mediador]] — el único mediador
 - [[muerte]] — las puertas de la muerte
 - [[infierno]] — las puertas del Hades
-- [[reino]] — el reino cuyas llaves ha recibido Pedro
+- [[reino_de_dios]] — el reino cuyas llaves ha recibido Pedro
 - [[iglesia]] — la Iglesia
 - [[Pedro]] — la llave de Pedro
 - [[fe]] — la apertura por la fe
@@ -50,6 +50,6 @@ Cierto que Yahveh abre las puertas del cielo para enviar la lluvia, el maná *Sa
 
 #### NT
 
-Jesús trae la respuesta; en su bautismo se abre el cielo y él mismo viene a ser la verdadera puerta del cielo bajada a la tierra *Jn 1,51* *Gen 28,17*, la puerta que introduce en los pastos donde se ofrecen libremente los bienes divinos *Jn 10,9*, el único [[mediador]]: por él se comunica Dios a los hombres, por él tienen los hombres acceso al Padre *Ef 2,18* *Heb 10,19*. Por haberse él apoderado de la llave de la [[muerte]] y del [[infierno]] *Ap 1,18*, su [[iglesia|Iglesia]] echará abajo las «puertas del Hades» y acogerá a los elegidos en el [[reino]] cuyas llaves ha recibido [[pedro|Pedro]] *Mt 16,18s*. Pero si la puerta del reino es estrecha *Lc 13,24ss*, Jesús tiene su llave, la llave de David *Ap 3,7*. El cielo se abre a todo el que se abre por la [[fe]] *Act 14,27* *Ef 3,12*, a quien abre a Jesús, que llama a la puerta *Ap 3,20*.
+Jesús trae la respuesta; en su bautismo se abre el cielo y él mismo viene a ser la verdadera puerta del cielo bajada a la tierra *Jn 1,51* *Gen 28,17*, la puerta que introduce en los pastos donde se ofrecen libremente los bienes divinos *Jn 10,9*, el único [[mediador]]: por él se comunica Dios a los hombres, por él tienen los hombres acceso al Padre *Ef 2,18* *Heb 10,19*. Por haberse él apoderado de la llave de la [[muerte]] y del [[infierno]] *Ap 1,18*, su [[iglesia|Iglesia]] echará abajo las «puertas del Hades» y acogerá a los elegidos en el [[reino_de_dios]] cuyas llaves ha recibido [[pedro|Pedro]] *Mt 16,18s*. Pero si la puerta del reino es estrecha *Lc 13,24ss*, Jesús tiene su llave, la llave de David *Ap 3,7*. El cielo se abre a todo el que se abre por la [[fe]] *Act 14,27* *Ef 3,12*, a quien abre a Jesús, que llama a la puerta *Ap 3,20*.
 
 Al final de los tiempos coinciden ciudad y cielo. La [[jerusalen|Jerusalén]] celestial tiene doce puertas; están siempre abiertas *Ap 21,12-25* y, sin embargo, hay seguridad total y perfecta justicia *Is 1,26* *26,1-5*; el mal no entra ya en ella *Ap 21,27* *22,15*; hay intercambio perfecto entre Dios y la humanidad: dones de Dios y ofrendas del hombre circulan libremente *Zac 2,8s* *14* *Is 60,11* *Ap 21,26* *22,14*.

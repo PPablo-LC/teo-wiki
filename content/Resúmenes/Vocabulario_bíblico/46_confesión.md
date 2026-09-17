@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[penitencia_conversion]] — el sacramento de la penitencia
+- [[penitencia_y_conversión]] — el sacramento de la penitencia
 - [[fe]] — la confesión como profesión pública de fe
 - [[santo]] — la confesión del pecador como proclamación de la santidad de Dios
 - [[accion_de_gracias]] — la confesión como justificación de la acción de gracias
@@ -27,7 +27,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[alianza]] — los derechos restaurados por la alianza
 - [[pecado]] — la falta cometida contra Yahveh
 - [[perdon]] — el perdón concedido tras la confesión
-- [[liberacion_libertad]] — la liberación que aporta Cristo
+- [[liberación_y_libertad]] — la liberación que aporta Cristo
 - [[mesias]] — Jesús dado al mundo como Mesías y Salvador
 - [[permanecer]] — la palabra que permanece en nosotros
 - [[bautismo]] — la confesión que acompaña al bautismo

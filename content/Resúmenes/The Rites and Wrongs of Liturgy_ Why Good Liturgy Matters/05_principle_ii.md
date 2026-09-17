@@ -35,7 +35,7 @@ Hay dos peligros reales: confundir una liturgia *oficial* con una liturgia *ofic
 
 ### A Theology of Joy
 
-Incluso en la profundidad de la tristeza en un funeral, somos un pueblo de esperanza: el día de la Pasión es el Viernes *Santo*. Nuestra [[fe]] es en la salvación, la redención y la victoria del amor y la vida sobre la muerte. Cualquier liturgia que no manifieste esto es indigna. Las liturgias deben reflejar la tensión inherente al [[discípulos_de_cristo]]: tomamos el sufrimiento con seriedad, pero "nuestra esperanza es rica en inmortalidad". Incluso en las ocasiones más sombrías debemos recordar nuestro [[gozo]].
+Incluso en la profundidad de la tristeza en un funeral, somos un pueblo de esperanza: el día de la Pasión es el Viernes *Santo*. Nuestra [[fe]] es en la salvación, la redención y la victoria del amor y la vida sobre la muerte. Cualquier liturgia que no manifieste esto es indigna. Las liturgias deben reflejar la tensión inherente al [[discípulo]]: tomamos el sufrimiento con seriedad, pero "nuestra esperanza es rica en inmortalidad". Incluso en las ocasiones más sombrías debemos recordar nuestro [[gozo]].
 
 Un filósofo ateo dijo que si los cristianos están redimidos, sus rostros no lo muestran. Nuestra respuesta no puede ser una falso optimismo profesional, pero tampoco los gestos sombríos. Somos redimidos y podemos ser gozosos, disfrutando de esa alegría como hijos del Padre que nos ama. Las religiones son intrínseca y optimistas; el hecho crudo del [[ritual]] proclama que hay un futuro. El [[gozo]] tiene la última palabra.
 

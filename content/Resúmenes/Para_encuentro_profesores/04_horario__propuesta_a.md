@@ -16,7 +16,7 @@ tags: ["resumen", "para encuentro profesores"]
 - [[Oración contemplativa]]
 - [[Lectio Divina]]
 - [[Discernimiento apostólico]]
-- [[Santa Misa]]
+- [[misa]]
 
 ## Contenido
 
@@ -77,7 +77,7 @@ El documento enseña que el Encuentro "integra los cinco elementos de la vida de
 - ¿Dónde está creciendo el Reino en el IHST?
 - De las convicciones a las decisiones: el compromiso apostólico como respuesta de amor.
 - Compromisos personales y comunitarios: concretos, posibles y verificables.
-- Preparación del corazón para ofrecer los compromisos en la [[Santa Misa]].
+- Preparación del corazón para ofrecer los compromisos en la [[misa]].
 
 **Oración y contemplación en grupos (30 min):** [[Evangelio]] Mateo 28, 18-20 (el envío misionero: "Id y haced discípulos"). Lectura pausada → silencio → oración ("Señor, ¿qué quieres que yo haga?") → decisión concreta.
 

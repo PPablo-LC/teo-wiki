@@ -21,16 +21,16 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[labios]] — la mentira de los labios
 - [[servir]] — servir al Dios vivo y verdadero
 - [[impio]] — los impíos, enemigos del hombre de bien
-- [[siervo_de_yahveh]] — el siervo de Yahveh
+- [[siervo_de_yahvé]] — el siervo de Yahveh
 - [[resto]] — el humilde resto
 - [[verdad]] — la verdad divina revelada en Jesús
 - [[anticristo]] — el anticristo, mentiroso
 - [[profeta]] — los profetas de mentira
 - [[palabra_de_dios]] — la palabra de Dios adulterada
 - [[hipocrita]] — los hipócritas, guías ciegos
-- [[satan]] — Satán, padre de mentira
+- [[satanás]] — Satán, padre de mentira
 - [[hijo]] — hijo del diablo
-- [[bestia_bestias]] — la bestia del mar
+- [[bestia]] — la bestia del mar
 
 ## Contenido
 
@@ -50,7 +50,7 @@ Yahveh es el [[dios|Dios]] de verdad. Desconocerlo volviéndose a los [[idolos|�
 
 ### Pecado de mentira y vida religiosa
 
-**a.** El AT conoce también una manera más sutil de desconocer al verdadero Dios: consiste en aclimatar en la propia vida el hábito de la mentira. Tal es la manera de proceder de los [[impio|impíos]], enemigos del hombre de bien: son astutos *Eclo 5,14*, que sólo tienen la mentira en la boca *Sal 59,13* *Eclo 51,2* *Jer 9,2*; se refugian en la mentira *Os 10,13*, se aferran a ella hasta negarse a convertirse *Jer 8,5*, y hasta sus aparentes conversiones son mentirosas *3,10*. Es inútil abrigar ilusiones acerca del hombre abandonado a sí mismo; es espontáneamente mentiroso *Sal 116,11*. Por el contrario, el verdadero fiel proscribe de su vida la mentira para estar en comunión con el Dios de verdad *Sal 15,2ss* *26,4s*. Así hará en los últimos tiempos el [[siervo_de_yahveh|siervo]] de Yahveh *Is 53,9*, así como el humilde [[resto|resto]] que Dios dejará entonces a su pueblo *Sof 3,13*.
+**a.** El AT conoce también una manera más sutil de desconocer al verdadero Dios: consiste en aclimatar en la propia vida el hábito de la mentira. Tal es la manera de proceder de los [[impio|impíos]], enemigos del hombre de bien: son astutos *Eclo 5,14*, que sólo tienen la mentira en la boca *Sal 59,13* *Eclo 51,2* *Jer 9,2*; se refugian en la mentira *Os 10,13*, se aferran a ella hasta negarse a convertirse *Jer 8,5*, y hasta sus aparentes conversiones son mentirosas *3,10*. Es inútil abrigar ilusiones acerca del hombre abandonado a sí mismo; es espontáneamente mentiroso *Sal 116,11*. Por el contrario, el verdadero fiel proscribe de su vida la mentira para estar en comunión con el Dios de verdad *Sal 15,2ss* *26,4s*. Así hará en los últimos tiempos el [[siervo_de_yahvé|siervo]] de Yahveh *Is 53,9*, así como el humilde [[resto|resto]] que Dios dejará entonces a su pueblo *Sof 3,13*.
 
 **b.** El NT halla este ideal realizado en Cristo *1Pe 2,22*. Por eso la renuncia a toda mentira es una exigencia primaria de la vida cristiana *1Pe 2,1*. Con esto se ha de entender no sólo la mentira de los labios, sino la que está incluida en todos los vicios *Ap 21,8*: ésta no la han conocido jamás los elegidos, compañeros de Cristo *14,5*. Muy especialmente merece el nombre de mentiroso el que desconoce la [[verdad|verdad]] divina revelada en Jesús: el [[anticristo|anticristo]], que niega que Jesús sea Cristo *1Jn 2,22*. En él la mentira no es ya de orden moral, es religiosa por esencia, al igual que la de la idolatría.
 
@@ -62,4 +62,4 @@ Yahveh es el [[dios|Dios]] de verdad. Desconocerlo volviéndose a los [[idolos|�
 
 ## III. Satán, padre de mentira
 
-Así se divide el mundo en dos campos: el del bien y el del mal, el de la verdad y el de la mentira, en el doble sentido moral y religioso. El primero es concretamente el de Dios. El segundo tiene también su jefe: [[satan|Satán]], la antigua serpiente que seduce al mundo entero *Ap 12,9* desde el día en que sedujo a Eva *Gen 3,13* y, separándola del árbol de vida, fue «homicida desde el principio» *Jn 8,44*. Él es el que induce a Ananías y a Safira a mentir al Espíritu Santo *Act 5,3*, y el mago Elimas es «[[hijo|hijo]]» suyo *Act 13,10*. De él dependen los judíos incrédulos que se niegan a creer en Jesús: son hijos del diablo, mentiroso y padre de mentira *Jn 8,41-44*; así quieren matar a Jesús, porque «les ha dicho la [[verdad|verdad]]» *Jn 8,40*. Él es quien suscita a los falsos doctores, enemigos de la verdad evangélica *1Tim 4,2*; él, quien para guerrear contra los cristianos *Ap 12,17*, da sus poderes a la [[bestia_bestias|bestia]] del mar, el imperio «totalitario», con la boca llena de blasfemias *13,1-8*; y la bestia de la tierra que maneja a los falsos profetas para engañar a los hombres y hacerle adorar al ídolo mentiroso, depende también de él *13,11-17*. El eje del mundo pasa entre estos dos campos, e importa que los cristianos no se dejen seducir por los ardides del diablo hasta el punto de corromperse su fe *2Cor 11,3*. Para permanecer en la verdad deben, pues, orar a Dios que los libre del maligno *Mt 6,13*.
+Así se divide el mundo en dos campos: el del bien y el del mal, el de la verdad y el de la mentira, en el doble sentido moral y religioso. El primero es concretamente el de Dios. El segundo tiene también su jefe: [[satanás|Satán]], la antigua serpiente que seduce al mundo entero *Ap 12,9* desde el día en que sedujo a Eva *Gen 3,13* y, separándola del árbol de vida, fue «homicida desde el principio» *Jn 8,44*. Él es el que induce a Ananías y a Safira a mentir al Espíritu Santo *Act 5,3*, y el mago Elimas es «[[hijo|hijo]]» suyo *Act 13,10*. De él dependen los judíos incrédulos que se niegan a creer en Jesús: son hijos del diablo, mentiroso y padre de mentira *Jn 8,41-44*; así quieren matar a Jesús, porque «les ha dicho la [[verdad|verdad]]» *Jn 8,40*. Él es quien suscita a los falsos doctores, enemigos de la verdad evangélica *1Tim 4,2*; él, quien para guerrear contra los cristianos *Ap 12,17*, da sus poderes a la [[bestia|bestia]] del mar, el imperio «totalitario», con la boca llena de blasfemias *13,1-8*; y la bestia de la tierra que maneja a los falsos profetas para engañar a los hombres y hacerle adorar al ídolo mentiroso, depende también de él *13,11-17*. El eje del mundo pasa entre estos dos campos, e importa que los cristianos no se dejen seducir por los ardides del diablo hasta el punto de corromperse su fe *2Cor 11,3*. Para permanecer en la verdad deben, pues, orar a Dios que los libre del maligno *Mt 6,13*.

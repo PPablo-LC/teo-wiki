@@ -14,7 +14,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 - [[juicio_final]] — Cuenta que habrán de rendir los gobernantes ante Dios
 - [[muerte]] — Muerte como realidad ineludible que se aproxima
-- [[santísimo_sacramento]] — Recibir el Cuerpo y Sangre del Señor en santa conmemoración
+- [[eucaristía]] — Recibir el Cuerpo y Sangre del Señor en santa conmemoración
 - [[autoridad_civil]] — Responsabilidad de los gobernantes ante Dios
 - [[devoción_eucarística]] — Exhortación al pueblo a dar gracias a Dios
 

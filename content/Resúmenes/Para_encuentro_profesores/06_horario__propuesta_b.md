@@ -16,7 +16,7 @@ tags: ["resumen", "para encuentro profesores"]
 - [[Revisión de vida]]
 - [[Discernimiento apostólico]]
 - VER-JUZGAR-ACTUAR
-- [[Santa Misa]]
+- [[misa]]
 
 ## Contenido
 
@@ -68,7 +68,7 @@ El JUZGAR "es el momento en el que nos dejamos cuestionar y poner en discusión 
 
 ### Bloque 3: ACTUAR — Las Decisiones
 
-"En el momento del actuar, buscamos responder con nuestra iniciativa evangelizadora a la invitación del Señor." El compromiso apostólico es "una respuesta propositiva y creativa, evangélica y evangelizadora." No es activismo sino correspondencia amorosa. "Todo apostolado cristiano comienza por la [[conversión personal]]." Los compromisos se ofrecen en la [[Santa Misa]].
+"En el momento del actuar, buscamos responder con nuestra iniciativa evangelizadora a la invitación del Señor." El compromiso apostólico es "una respuesta propositiva y creativa, evangélica y evangelizadora." No es activismo sino correspondencia amorosa. "Todo apostolado cristiano comienza por la [[conversión personal]]." Los compromisos se ofrecen en la [[misa]].
 
 **Exposición del padre (30 min):**
 - Del juzgar al actuar: la respuesta creativa y generosa al llamado de Cristo.

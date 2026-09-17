@@ -13,7 +13,7 @@ tags: ["resumen", "normae de delictis gravioribus"]
 ## Conceptos básicos referenciados
 
 - [[sacramentorum_sanctitatis_tutela]] — Carta Apostólica motu proprio reformada
-- [[congregación_para_la_doctrina_de_la_fe]] — dicasterio reformador
+- [[dicasterio_para_la_doctrina_de_la_fe]] — dicasterio reformador
 
 ## Contenido
 

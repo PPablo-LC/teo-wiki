@@ -17,7 +17,7 @@ La predicación de Jesús constituye el núcleo de su ministerio público: el an
 
 ## Ver también
 
-[[reino_de_dios]], [[reino]], [[parábolas]], [[bienaventuranzas]], [[conversión]], [[ministerio_de_jesús]], [[evangelio]]
+[[reino_de_dios]], [[reino_de_dios]], [[parábolas]], [[bienaventuranzas]], [[conversión]], [[ministerio_de_jesús]], [[evangelio]]
 
 ## Referencias
 

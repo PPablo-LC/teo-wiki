@@ -15,7 +15,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
 - [[infalibilidad_pontificia]] — privilegio del papa en materia de fe y moral
 - [[sucesión_apostólica]] — transmisión del ministerio episcopal desde los Apóstoles
-- [[iglesia_católica]] — comunidad de fieles fundada por Cristo
+- [[iglesia]] — comunidad de fieles fundada por Cristo
 - [[llaves_de_pedro]] — potestad de atar y desatar
 - [[sedes_patriarcales]] — principales sedes episcopales (Roma, Alejandría, Antioquía)
 

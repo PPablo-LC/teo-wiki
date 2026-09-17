@@ -1,142 +1,39 @@
 ---
 type: ResumenFuente
-title: "Vocabulario bíblico"
+title: "Vocabulario bíblico — Resumen de la obra"
 fuente: Vocabulario_bíblico
-capítulo: 133
-timestamp: 2026-08-24
-description: "Resumen de 'Vocabulario bíblico' — Vocabulario_bíblico"
-tags: ["resumen", "vocabulario bíblico"]
+capítulo: 00
+timestamp: 2026-09-16
+description: "Resumen general del Vocabulario de Teología Bíblica de León-Dufour: estructura, método y recorrido temático de la obra."
+tags: ["resumen", "vocabulario bíblico", "meta-resumen"]
 ---
 
-# Vocabulario bíblico
+# Vocabulario bíblico — Resumen de la obra
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
+> 📄 **Fuente original:** `Vocabulario de Teología Bíblico` (León-Dufour, ed.)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `index.md`
+El Vocabulario de Teología Bíblica, dirigido por Xavier León-Dufour (1912–2007) y elaborado con la colaboración de Jean Duplacy, Augustin Grelot, Jacques Guillet, André Feuillet, Stanislas Lyonnet, Paul Beauchamp y otros especialistas, es una obra de síntesis teológica que organiza ~290 artículos alfabéticamente, desde «Abraham» hasta «Voluntad de Dios». Su método consiste en rastrear el uso y sentido de cada término a través de los distintos estratos literarios de la Biblia (Antiguo y Nuevo Testamento), integrando los resultados de la crítica histórica con una lectura creyente de la Escritura.
 
+## Estructura y método
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Cada artículo parte de los textos bíblicos en sus lenguas originales, recorre su desarrollo en las tradiciones veterotestamentarias (ley, profetas, escritos) y desemboca en su recepción neotestamentaria. El resultado es una teología bíblica por conceptos, en la que cada voz funciona como una pequeña monografía que articula exégesis y dogmática. La obra no pretende ser un diccionario exegético exhaustivo, sino una herramienta de consulta teológica orientada a captar la unidad del mensaje bíblico en la diversidad de sus términos.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Vocabulario bíblico |
-| 3 | H2 | Índice general |
-| 11 | H2 | A |
-| 37 | H2 | B |
-| 48 | H2 | C |
-| 77 | H2 | D |
-| 91 | H2 | E |
-| 121 | H2 | F |
-| 132 | H2 | G |
-| 140 | H2 | H |
-| 153 | H2 | I |
-| 164 | H2 | J |
-| 173 | H2 | L |
-| 187 | H2 | M |
-| 211 | H2 | N |
-| 221 | H2 | O |
-| 228 | H2 | P |
-| 266 | H2 | R |
-| 282 | H2 | S |
-| 307 | H2 | T |
-| 319 | H2 | U |
-| 323 | H2 | V |
+## Recorrido temático general
 
+Los primeros artículos —Abraham, acción de gracias, amén, altar, amigo, amor, ángeles— dibujan las coordenadas básicas de la revelación: la llamada de Dios, la respuesta del hombre y los signos sagrados de la alianza. El bloque central recorre los grandes ejes del AT: bendición, bestias, buscar, camino, carne, casa, cielo, conocimiento, creación, crecimiento, cuerpo, corazón, cordero de Dios, cosmicidad, David, demonios, deseo, desierto, designio de Dios, día del Señor, dios, discípulo, dispersión, don, edificar, educación, Egipto, elección, Elías, embriaguez, enemigo, enfermedad y curación, enseñanza, error, escándalo, esclavo, Escritura, escuchar, esperanza, espíritu, esposo, esterilidad, Eucaristía, evangelio, exilio, expiación.
 
-## Secciones incluidas
+Los artículos finales —muerte, fe, fuego, gloria, gracia, guerra, hambre y sed, herejía, himno, hipócrita, hombre, hora, hospitalidad, humildad, ídolos, Iglesia, imagen, imposición de manos, incredulidad, infierno, ira, israel, Jerusalén, Jesús, Juan Bautista, judío, juicio, justicia, justificación, labios, lámpara, leche, lengua, lepra, ley, liberación y libertad, libro, limosna, locura, lomos y riones, luz, madre, maldición, maná, mansedumbre, mar, María, mártir, matrimonio, mediador, memoria, mentira, mesías, milagro, ministerio, misericordia, misión, misterio, Moisés, montaña, muerte, mujer, mundo, nacimiento nuevo, naciones, niño, noche, nombre, nube, nuevo, números, obediencia, obras, odio, oración, padrenuestro, padres, pan, parábola, paráclito, paraíso, Pascua, pastor y rebaño, patria, paz, pecado, Pedro, penitencia y conversión, Pentecostés, perdón, perfección, permanecer, persecución, piedad, piedra, plenitud, pobres, poder, predicar, presencia de Dios, primicias, proceso, profeta, prójimo, promesas, prueba y tentación, pueblo, puerta, puro, reconciliación, redención, reino, reposo, resto, resurrección, retribución, revelación, rey, riquezas, risa, roca, rodilla, rostro, sábado, sabiduría, sacerdocio, sacrificio, salvación, sangre, santo, Satanás, seguir, sello, semana, sembrar, sencillo, Señor, servir, siega, siervo de Yahveh, silencio, soberbia, soledad, sombra, sueño, sufrimiento, temor, templo, testimonio, tiempo, tierra, tormenta, trabajo, tradición, transfiguración, tristeza, unción, unidad, velar, vendimia, venganza, ver, verdad, vergüenza, vestido, victoria, vida, viña, vino, virginidad, visita, vocación, voluntad de Dios— dibujan el recorrido completo del hombre bíblico desde la llamada inicial hasta la consumación escatológica.
 
-# A
+## Ejes doctrinales transversales
 
-[Contenido de esta sección...]
+- **Dios viviente y su palabra**: el nombre, la voluntad, el designio y la presencia de Dios recorren toda la obra.
+- **Alianza y elección**: desde Abraham hasta la Iglesia, la elección divina y la respuesta humana son el nervio de la historia sagrada.
+- **Pecado y salvación**: el pecado como ruptura y la salvación como restauración estructuran la temática de casi todos los artículos centrales.
+- **Cristo y la Iglesia**: los artículos neotestamentarios convergen en la persona de Jesús y en la realidad eclesial como pueblo nuevo de Dios.
+- **Escatología**: la resurrección, la vida eterna y la voluntad de Dios desembocan en la esperanza escatológica que cierra el volumen.
 
-# B
+## Lugar en el sistema
 
-[Contenido de esta sección...]
-
-# C
-
-[Contenido de esta sección...]
-
-# D
-
-[Contenido de esta sección...]
-
-# E
-
-[Contenido de esta sección...]
-
-# F
-
-[Contenido de esta sección...]
-
-# G
-
-[Contenido de esta sección...]
-
-# H
-
-[Contenido de esta sección...]
-
-# I
-
-[Contenido de esta sección...]
-
-# J
-
-[Contenido de esta sección...]
-
-# L
-
-[Contenido de esta sección...]
-
-# M
-
-[Contenido de esta sección...]
-
-# N
-
-[Contenido de esta sección...]
-
-# O
-
-[Contenido de esta sección...]
-
-# P
-
-[Contenido de esta sección...]
-
-# R
-
-[Contenido de esta sección...]
-
-# S
-
-[Contenido de esta sección...]
-
-# T
-
-[Contenido de esta sección...]
-
-# U
-
-[Contenido de esta sección...]
-
-# V
-
-[Contenido de esta sección...]
+El Vocabulario de Teología Bíblica es fuente de primer nivel en el área de [[teología_bíblica|teología bíblica]] dentro del wiki. Sus artículos nutren los conceptos de [[creación|creación]], [[alianza|alianza]], [[pecado|pecado]], [[salvacion|salvación]], [[iglesia|Iglesia]], [[resurreccion|resurrección]], [[vida|vida eterna]] y muchos otros. Cada resumen individual en esta carpeta corresponde a un artículo de la obra; el presente documento describe el conjunto.

@@ -20,11 +20,11 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[pascua]] — condición indispensable para celebrar la pascua
 - [[promesas]] — las promesas de la alianza
 - [[corazon]] — la circuncisión del corazón
-- [[dia_domini]] — el día de la salvación
+- [[día_del_señor]] — el día de la salvación
 - [[gracia]] — la salud por la gracia
 - [[fe]] — la salud por la fe
 - [[naciones]] — el Evangelio anunciado a las naciones
-- [[liberacion_libertad]] — la libertad respecto a la circuncisión
+- [[liberación_y_libertad]] — la libertad respecto a la circuncisión
 - [[justicia]] — la circuncisión como sello de la justicia por la promesa
 - [[cruz]] — la cruz de Cristo anulada por ligar la salvación a la circuncisión
 - [[bautismo]] — la circuncisión espiritual identificada con el bautismo

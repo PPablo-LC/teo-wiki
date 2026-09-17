@@ -32,7 +32,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[templo]] — Dios promete edificar una casa a David
 - [[edificar]] — el verbo «edificar» que equivale a «hijo»
 - [[fidelidad]] — la alianza eterna y la fidelidad de Dios
-- [[prueba_tentacion]] — la fidelidad en lo más duro de la prueba
+- [[prueba_y_tentación]] — la fidelidad en lo más duro de la prueba
 - [[senor]] — Jesús, Señor de David
 
 ## Contenido

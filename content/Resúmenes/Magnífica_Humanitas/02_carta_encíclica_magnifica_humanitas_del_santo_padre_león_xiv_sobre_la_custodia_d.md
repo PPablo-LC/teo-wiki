@@ -14,7 +14,7 @@ tags: ["resumen", "magnífica humanitas", "inteligencia_artificial"]
 
 - [[inteligencia_artificial]] — tema central de la encíclica
 - [[doctrina_social_de_la_iglesia]] — marco doctrinal
-- [[dignidad_de_la_persona_humana]] — objeto de la custodia
+- [[dignidad_de_la_persona]] — objeto de la custodia
 
 ## El documento y su título
 

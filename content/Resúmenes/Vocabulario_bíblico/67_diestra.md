@@ -18,7 +18,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fuerza]] — la fuerza del «hijo de la diestra»
 - [[salvacion]] — la liberación del pueblo por la diestra divina
 - [[mesias]] — el Mesías, hijo de la diestra
-- [[reino]] — el rey de Israel confirmado por Dios
+- [[reino_de_dios]] — el rey de Israel confirmado por Dios
 - [[testimonio]] — Esteban, testigo a la diestra de Dios
 - [[juicio]] — el Hijo del hombre que pone a los benditos a su diestra
 

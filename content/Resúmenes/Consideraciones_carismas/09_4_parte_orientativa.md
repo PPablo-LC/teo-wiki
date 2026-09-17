@@ -67,6 +67,6 @@ No es posible ofrecer indicaciones demasiado concretas sin caer en casuística; 
 
 - **Actitudes interiores:** humildad profunda, integridad de vida, prudencia, obediencia, honda vida interior. Saberse parte de un cuerpo más amplio y buscar comunión, evitando protagonismos.
 
-- **Normas litúrgicas:** respetar rúbricas de sacramentos y sacramentales. La exposición del [[Santísimo_Sacramento]] tiene finalidad eucarística y no es adecuado combinarla con otras actividades. Distinguir música litúrgica de música cristiana adecuada para festivales.
+- **Normas litúrgicas:** respetar rúbricas de sacramentos y sacramentales. La exposición del [[eucaristía]] tiene finalidad eucarística y no es adecuado combinarla con otras actividades. Distinguir música litúrgica de música cristiana adecuada para festivales.
 
 - **Ambientes seguros:** mantener respeto a la libertad de la persona, no violentar la intimidad, pedir permiso antes de imponer manos o contacto físico, seguir códigos de conducta.

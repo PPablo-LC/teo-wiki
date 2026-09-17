@@ -12,7 +12,7 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-- [[congregación_para_la_doctrina_de_la_fe]] — dicasterio emisor de las Normae de gravioribus delictis
+- [[dicasterio_para_la_doctrina_de_la_fe]] — dicasterio emisor de las Normae de gravioribus delictis
 - [[sacramentorum_sanctitatis_tutela]] — Carta Apostólica cuyas Normas se enmiendan
 
 ## Contenido

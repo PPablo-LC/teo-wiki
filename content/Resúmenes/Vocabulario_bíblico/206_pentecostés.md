@@ -29,7 +29,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[comunión]] — la comunión en el amor fraterno
 - [[amor]] — el amor fraterno
 - [[eucaristía]] — la mesa eucarística
-- [[babel_babilonia]] — Babel como antítesis de Pentecostés
+- [[babel]] — Babel como antítesis de Pentecostés
 - [[misión]] — la partida en misión
 - [[ley]] — la nueva ley
 - [[creación]] — la nueva creación
@@ -64,7 +64,7 @@ b. *Coronamiento de la pascua de Cristo.* Cristo muerto, resucitado y exaltado a
 
 c. *Reunión de la comunidad mesiánica.* Los profetas anunciaban que los [[dispersos]] serían reunidos en la montaña de Sión; Pentecostés realiza en Jerusalén la [[unidad]] espiritual de los judíos y de los prosélitos de todas las naciones; dóciles a la [[enseñanza]] de los apóstoles, [[comunión|comulgan]] en el [[amor]] fraterno en la mesa [[eucarística]] *Act 2,42ss*.
 
-d. *Comunidad abierta a todos los pueblos.* El Espíritu se da con vistas a un testimonio que se ha de llevar hasta los confines de la tierra *Act 1,8*. La división operada en [[babel_babilonia|Babel]] *Gen 11,1-9* halla aquí su antítesis y su término.
+d. *Comunidad abierta a todos los pueblos.* El Espíritu se da con vistas a un testimonio que se ha de llevar hasta los confines de la tierra *Act 1,8*. La división operada en [[babel|Babel]] *Gen 11,1-9* halla aquí su antítesis y su término.
 
 e. *Partida en misión.* El Pentecostés que reúne a la comunidad mesiánica es también el punto de partida de su [[misión]]: «Recibiréis una fuerza, el Espíritu Santo... Entonces me seréis testigos en Jerusalén, en toda la Judea y en Samaria, y hasta los confines de la tierra» *Act 1,8*.
 

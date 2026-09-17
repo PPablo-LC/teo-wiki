@@ -17,12 +17,12 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[designio_de_dios]] — el plan soberano de Dios
 - [[pueblo]] — Israel como pueblo elegido
 - [[alianza]] — la elección inseparable de la alianza
-- [[vocacion]] — la elección de profetas, reyes y sacerdotes
+- [[vocación]] — la elección de profetas, reyes y sacerdotes
 - [[gracia]] — la elección como iniciativa gratuita de Dios
 - [[santo]] — el fin de la elección: constituir un pueblo santo
 - [[iglesia]] — la Iglesia como nuevo pueblo de Dios elegido
 - [[juicio]] — la seriedad de la elección divina
-- [[siervo_de_yahveh]] — el Siervo Elegido del segundo Isaías
+- [[siervo_de_yahvé]] — el Siervo Elegido del segundo Isaías
 
 ## Contenido
 
@@ -40,7 +40,7 @@ Las primeras [[confesiones]] de la elección divina se remontan a las expresione
 
 #### La elección, hecho continuado.
 
-Todas estas confesiones refieren una historia y cantan la continuidad de un [[designio_de_dios]] único. a. *Antes de Abraham*, la historia de la humanidad comporta preferencias divinas (Abel, Noé, Sem) pero no la elección propiamente dicha, que supone la elección de Abraham para bendecir «a todas las naciones» *Gen 12,3*. b. *Sobre los patriarcas*, Dios mantiene la elección pero cada vez una iniciativa particular designa al elegido: Isaac *Gen 18,19*, Jacob y Judá, en contraste paradójico entre las promesas y los gestos divinos que desbaratan los proyectos del hombre. c. *En el interior del pueblo*, se escogía Dios constantemente hombres con una [[misión]]: los [[profeta]]s a través de la [[vocacion]] *Ex 3* *Am 7,15* *Is 8,11*; los [[rey]]s, como David *1Sa 16,1*, escogidos junto con su descendencia *2Sa 7,14ss*; sacerdotes y levitas, separados para el servicio *Dt 18,5* *Num 8,16ss*, en cumplimiento de la vocación de Israel como «reino de sacerdotes» *Ex 19,6*. También la [[tierra]] y los lugares santos fueron escogidos *Sal 78,68* *68,17*.
+Todas estas confesiones refieren una historia y cantan la continuidad de un [[designio_de_dios]] único. a. *Antes de Abraham*, la historia de la humanidad comporta preferencias divinas (Abel, Noé, Sem) pero no la elección propiamente dicha, que supone la elección de Abraham para bendecir «a todas las naciones» *Gen 12,3*. b. *Sobre los patriarcas*, Dios mantiene la elección pero cada vez una iniciativa particular designa al elegido: Isaac *Gen 18,19*, Jacob y Judá, en contraste paradójico entre las promesas y los gestos divinos que desbaratan los proyectos del hombre. c. *En el interior del pueblo*, se escogía Dios constantemente hombres con una [[misión]]: los [[profeta]]s a través de la [[vocación]] *Ex 3* *Am 7,15* *Is 8,11*; los [[rey]]s, como David *1Sa 16,1*, escogidos junto con su descendencia *2Sa 7,14ss*; sacerdotes y levitas, separados para el servicio *Dt 18,5* *Num 8,16ss*, en cumplimiento de la vocación de Israel como «reino de sacerdotes» *Ex 19,6*. También la [[tierra]] y los lugares santos fueron escogidos *Sal 78,68* *68,17*.
 
 ### II. EL SIGNIFICADO DE LA ELECCIÓN
 
@@ -64,7 +64,7 @@ El rigor de la amenaza conserva un aspecto tranquilizador: Dios castiga a su pue
 
 #### He aquí a mi elegido.
 
-El segundo Isaías da el título de «elegido» al nuevo Israel *Is 41,8* *43,10* *45,4*, y en el centro de esta obra hace aparecer al personaje «mi siervo» y «mi elegido» *42,1*, percibido desde el seno materno, cuya existencia es solo servicio y consagración: el elegido es necesariamente el [[siervo_de_yahveh]].
+El segundo Isaías da el título de «elegido» al nuevo Israel *Is 41,8* *43,10* *45,4*, y en el centro de esta obra hace aparecer al personaje «mi siervo» y «mi elegido» *42,1*, percibido desde el seno materno, cuya existencia es solo servicio y consagración: el elegido es necesariamente el [[siervo_de_yahvé]].
 
 ### NT
 

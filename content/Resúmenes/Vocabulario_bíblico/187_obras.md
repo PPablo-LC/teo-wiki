@@ -14,16 +14,16 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[dia_domini]] — el día del Señor
+- [[día_del_señor]] — el día del Señor
 - [[naciones]] — las naciones instrumento de Dios
 - [[creacion]] — la creación como obra de Dios
 - [[palabra_de_dios]] — la palabra creadora
 - [[espiritu]] — el espíritu que dirige el mundo
 - [[sabiduria]] — la sabiduría, obrera divina
-- [[imagen]] — el hombre a imagen de Dios
+- [[imagen_de_dios]] — el hombre a imagen de Dios
 - [[voluntad_de_dios]] — la voluntad de Dios
 - [[designio_de_dios]] — el designio de Yahveh
-- [[liberacion_libertad]] — la libertad humana
+- [[liberación_y_libertad]] — la libertad humana
 - [[ley]] — la ley exterior al hombre
 - [[obediencia]] — la obediencia a la ley
 - [[fecundidad]] — el deber de fecundidad
@@ -33,7 +33,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[idolos]] — los ídolos, obras de las manos
 - [[projimo]] — obras hacia el prójimo
 - [[limosna]] — dar limosna
-- [[reino]] — las obras ordenadas al reino
+- [[reino_de_dios]] — las obras ordenadas al reino
 - [[alianza]] — la alianza mal comprendida
 - [[confianza]] — la confianza excesiva
 - [[justicia]] — la justicia interior
@@ -71,7 +71,7 @@ La obra de Dios tiene dos aspectos: la creación y la salvación. En el AT la re
 
 ### La obra de Dios en la historia
 
-La obra divina comienza a manifestarse por «acciones y altas gestas con que nada se iguala» *Dt 3,24*: la liberación de Israel, los maravillosos episodios del desierto, en que el pueblo «vive las obras» de Yahveh *Sal 95,9*, el establecimiento en la tierra prometida *Dt 11,2-7* *Jos 24,31*. La evocación de este pasado suscita el entusiasmo: «Venid y ved las obras de Dios» *Sal 66,3-6*. Pero no basta con recordar el pasado *Sal 77,12s*; hay que estar atentos a la obra actual de Dios *Is 5,12* *Sal 28,5*, que sin cesar dispone todo *Is 22,11*. Hay que presentir su obra que vendrá en su [[dia_domini|día]] *Is 28,21*, ya se trate de la deportación a Babilonia *Hab 1,5*, ya de la liberación del exilio *Is 45,11*: obrando por intermedio de las [[naciones|naciones]] *Jer 51,10* o del libertador Ciro *Is 45,1-6*, realizará Dios su «obra de salvación» *41,4* en favor de Israel, su pueblo elegido *43,1* *44,2*.
+La obra divina comienza a manifestarse por «acciones y altas gestas con que nada se iguala» *Dt 3,24*: la liberación de Israel, los maravillosos episodios del desierto, en que el pueblo «vive las obras» de Yahveh *Sal 95,9*, el establecimiento en la tierra prometida *Dt 11,2-7* *Jos 24,31*. La evocación de este pasado suscita el entusiasmo: «Venid y ved las obras de Dios» *Sal 66,3-6*. Pero no basta con recordar el pasado *Sal 77,12s*; hay que estar atentos a la obra actual de Dios *Is 5,12* *Sal 28,5*, que sin cesar dispone todo *Is 22,11*. Hay que presentir su obra que vendrá en su [[día_del_señor|día]] *Is 28,21*, ya se trate de la deportación a Babilonia *Hab 1,5*, ya de la liberación del exilio *Is 45,11*: obrando por intermedio de las [[naciones|naciones]] *Jer 51,10* o del libertador Ciro *Is 45,1-6*, realizará Dios su «obra de salvación» *41,4* en favor de Israel, su pueblo elegido *43,1* *44,2*.
 
 La obra divina se refiere, pues, ante todo a Israel, considerado colectivamente. Pero no por eso se desinteresa de los individuos: no sólo de los que Dios suscita con miras a su pueblo, como Moisés y Aarón *1Sa 12,6*, David y los [[profeta|profetas]]; sino también de cada hombre en particular, del que Dios se ocupa hasta en la vida cotidiana, como lo muestra en detalle el libro de Tobías. Tal es «la obra de sus manos», perfecta *Dt 32,4*, fiel y verdadera *Sal 33,4*, profunda *Sal 92,5s*, llena de bondad y de amor *Sal 145,9.17* *138,8*, que debe despertar en el corazón del hombre un gozo desbordante *Sal 107,22* *Tob 12,21*.
 
@@ -85,11 +85,11 @@ El movimiento que lleva del Dios de la historia al Dios creador conduce en un es
 
 ## II. Las obras del hombre
 
-También el hombre debe, a [[imagen|imagen]] de Dios, su creador, operar constantemente.
+También el hombre debe, a [[imagen_de_dios|imagen]] de Dios, su creador, operar constantemente.
 
 ### En la fuente de las obras del hombre
 
-Lo que induce al hombre a obrar no es sencillamente una necesidad interior, sino la [[voluntad_de_dios|voluntad]] de Dios. Ya en el paraíso se le manifiesta bajo la forma de un mandamiento que responde al [[designio_de_dios|designio]] de Yahveh *Gen 2,15s*. Las obras del hombre aparecen así como la eflorescencia de la obra divina. Exigen, sin embargo, por su parte un esfuerzo personal, un empeño, una elección. En efecto, la voluntad de Dios se presenta concretamente a la [[liberacion_libertad|libertad]] humana bajo la forma de una [[ley|ley]] exterior a él, a la que debe [[obediencia|obedecer]].
+Lo que induce al hombre a obrar no es sencillamente una necesidad interior, sino la [[voluntad_de_dios|voluntad]] de Dios. Ya en el paraíso se le manifiesta bajo la forma de un mandamiento que responde al [[designio_de_dios|designio]] de Yahveh *Gen 2,15s*. Las obras del hombre aparecen así como la eflorescencia de la obra divina. Exigen, sin embargo, por su parte un esfuerzo personal, un empeño, una elección. En efecto, la voluntad de Dios se presenta concretamente a la [[liberación_y_libertad|libertad]] humana bajo la forma de una [[ley|ley]] exterior a él, a la que debe [[obediencia|obedecer]].
 
 ### Las obras mayores del hombre
 
@@ -99,7 +99,7 @@ Es cierto que los hombres están expuestos a desviar de su fin sus dos obras ese
 
 ### El fin de las obras
 
-El judaísmo no perdió nunca de vista que las obras prescritas por la ley estaban ordenadas al [[reino|reino]] de Dios. Sin embargo, la casuística desfiguró con frecuencia el verdadero sentido de las obras que hay que realizar, concentrando el esfuerzo del hombre en la letra de la ley. Sobre todo, una falsa comprensión de la [[alianza|alianza]] tendía a transformarla en contrato y a dar a los «practicantes» una [[confianza|confianza]] excesiva en sus posibilidades humanas, como si las obras realizadas otorgaran al hombre un derecho sobre Dios y fueran suficientes para conferirle la [[justicia|justicia]] interior. Contra esta concepción degradada de la religión es contra la que se alzará Jesús haciendo presente el único sentido de las obras humanas: manifestar la [[gloria|gloria]] de Dios, único que obra a través del hombre.
+El judaísmo no perdió nunca de vista que las obras prescritas por la ley estaban ordenadas al [[reino_de_dios|reino]] de Dios. Sin embargo, la casuística desfiguró con frecuencia el verdadero sentido de las obras que hay que realizar, concentrando el esfuerzo del hombre en la letra de la ley. Sobre todo, una falsa comprensión de la [[alianza|alianza]] tendía a transformarla en contrato y a dar a los «practicantes» una [[confianza|confianza]] excesiva en sus posibilidades humanas, como si las obras realizadas otorgaran al hombre un derecho sobre Dios y fueran suficientes para conferirle la [[justicia|justicia]] interior. Contra esta concepción degradada de la religión es contra la que se alzará Jesús haciendo presente el único sentido de las obras humanas: manifestar la [[gloria|gloria]] de Dios, único que obra a través del hombre.
 
 ## NT
 

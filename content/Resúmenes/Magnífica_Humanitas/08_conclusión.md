@@ -13,7 +13,7 @@ tags: ["resumen", "magnífica humanitas", "inteligencia_artificial", "dignidad_d
 ## Conceptos básicos referenciados en esta sección
 
 - [[inteligencia_artificial]] — el contexto del itinerario de vida cristiana
-- [[dignidad_de_la_persona_humana]] — lo que se custodia en el tiempo de la IA
+- [[dignidad_de_la_persona]] — lo que se custodia en el tiempo de la IA
 - [[civilización_del_amor]] — proyecto de construir el bien en el mundo
 - [[doctrina_social_de_la_iglesia]] — marco de discernimiento
 

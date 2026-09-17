@@ -18,7 +18,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[resurrección]] — victoria sobre la muerte
 - [[juicio_final]] — venida de Cristo a juzgar vivos y muertos
 - [[perdón_de_los_pecados]] — efecto del bautismo y la conversión
-- [[iglesia_católica]] — comunidad de fieles fundada por Cristo
+- [[iglesia]] — comunidad de fieles fundada por Cristo
 - [[comunión_de_los_santos]] — unión de todos los fieles en Cristo
 - [[vida_eterna]] — destino final del justo
 
@@ -34,4 +34,4 @@ Esta es la forma completa y más conocida del [[símbolo_apostólico]], que incl
 
 ## Texto Según el Orden romano
 
-Transcripción completa del texto D-7 del [[símbolo_apostólico]] en su forma occidental más desarrollada, conocida como «texto recibido» o «forma del Orden romano». Esta versión incluye todos los artículos del credo que se recitan en la liturgia: la profesión de fe en Dios Padre creador, en Jesucristo Hijo unigénito encarnado, muerto, sepultado, resucitado y glorificado, en el [[Espíritu_Santo]], en la [[iglesia_católica]], la comunión de los Santos, el perdón de los pecados, la resurrección de la carne y la [[vida_eterna]]. Es la forma canónica que ha llegado hasta la liturgia actual.
+Transcripción completa del texto D-7 del [[símbolo_apostólico]] en su forma occidental más desarrollada, conocida como «texto recibido» o «forma del Orden romano». Esta versión incluye todos los artículos del credo que se recitan en la liturgia: la profesión de fe en Dios Padre creador, en Jesucristo Hijo unigénito encarnado, muerto, sepultado, resucitado y glorificado, en el [[Espíritu_Santo]], en la [[iglesia]], la comunión de los Santos, el perdón de los pecados, la resurrección de la carne y la [[vida_eterna]]. Es la forma canónica que ha llegado hasta la liturgia actual.

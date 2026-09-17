@@ -33,14 +33,14 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[egipto]] — la esclavitud en Egipto
 - [[guerra]] — las guerras de Yahveh
 - [[poder]] — la voluntad de poder
-- [[babel_babilonia]] — Babilonia
+- [[babel]] — Babilonia
 - [[juicio]] — el juicio de Dios sobre las naciones
 - [[ira]] — la ira divina
 - [[salvacion]] — la salvación de las naciones
 - [[paz]] — la paz universal
 - [[rey]] — el rey de las naciones
 - [[madre]] — Sión, madre de todos los pueblos
-- [[siervo_de_yahveh]] — el siervo de Yahveh, mediador
+- [[siervo_de_yahvé]] — el siervo de Yahveh, mediador
 - [[mediador]] — la función mediadora
 - [[fariseos]] — el exclusivismo de los fariseos
 - [[testimonio]] — Israel, pueblo testigo
@@ -49,8 +49,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[designio_de_dios]] — el designio de Dios
 - [[pentecostes]] — Pentecostés
 - [[nuevo]] — el hombre nuevo
-- [[satan]] — el poder de Satán
-- [[reino]] — el reino de Dios
+- [[satanás]] — el poder de Satán
+- [[reino_de_dios]] — el reino de Dios
 - [[resto]] — el resto fiel de Israel
 - [[vina]] — la viña de Dios
 - [[circuncision]] — la circuncisión
@@ -61,7 +61,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[misericordia]] — la misericordia de Dios
 - [[abraham]] — el padre de una multitud de naciones
 - [[persecucion]] — los perseguidos
-- [[bestia_bestias]] — las bestias del Apocalipsis
+- [[bestia]] — las bestias del Apocalipsis
 - [[espiritu]] — la inspiración de los profetas
 
 ## Contenido
@@ -90,7 +90,7 @@ Israel no ignora su parentesco natural con ciertas naciones vecinas. Las genealo
 
 En razón de su vocación nacional, Israel es depositario de valores esenciales: el conocimiento y el culto del verdadero Dios, la esperanza de la salvación encerrada en la alianza y las promesas. Ahora bien, sobre todo esto hacen pesar las naciones una doble amenaza: la de la esclavitud política y la de la seducción religiosa.
 
-a. *Amenaza política*. Raros son los siglos en que Israel no ve amenazada su existencia. La soberbia y la codicia guían a las naciones; se enfrentan por cuestiones de prestigio o por la posesión de tierras. Israel, cogido en la marejada de la agitación internacional, debe defender con tenacidad el depósito que tiene confiado. Ha conocido la esclavitud de [[egipto|Egipto]]. Luego las [[guerra|guerras]] de Yahveh lo oponen a los cananeos, a los madianitas, a los filisteos... Bajo David se invierte por algún tiempo la situación *2Sa 8* y el imperio israelita goza de cierto prestigio. Pero rápidamente se degradan las cosas: hostilidad y codicia de los pequeños reinos vecinos, voluntad de [[poder|poder]] de los colosos internacionales, Egipto, Asiria, [[babel_babilonia|Babilonia]]... La época de la monarquía está llena de estos enfrentamientos sangrientos, cuya verdadera fisonomía se descubre a veces: como en el tiempo del Éxodo *Ex 5-14*, las naciones soberbias, adoradoras de falsos dioses, quieren resistir al Dios vivo *2Re 18,33ss* *19,1-7.12-19*. El mismo hecho aparecerá en época tardía cuando Antíoco Epífanes tratará de helenizar a la Judea *1Mac 1,29-42*. Vistas desde este ángulo las relaciones entre Israel y las naciones, no pueden establecerse sino en un plano de hostilidad.
+a. *Amenaza política*. Raros son los siglos en que Israel no ve amenazada su existencia. La soberbia y la codicia guían a las naciones; se enfrentan por cuestiones de prestigio o por la posesión de tierras. Israel, cogido en la marejada de la agitación internacional, debe defender con tenacidad el depósito que tiene confiado. Ha conocido la esclavitud de [[egipto|Egipto]]. Luego las [[guerra|guerras]] de Yahveh lo oponen a los cananeos, a los madianitas, a los filisteos... Bajo David se invierte por algún tiempo la situación *2Sa 8* y el imperio israelita goza de cierto prestigio. Pero rápidamente se degradan las cosas: hostilidad y codicia de los pequeños reinos vecinos, voluntad de [[poder|poder]] de los colosos internacionales, Egipto, Asiria, [[babel|Babilonia]]... La época de la monarquía está llena de estos enfrentamientos sangrientos, cuya verdadera fisonomía se descubre a veces: como en el tiempo del Éxodo *Ex 5-14*, las naciones soberbias, adoradoras de falsos dioses, quieren resistir al Dios vivo *2Re 18,33ss* *19,1-7.12-19*. El mismo hecho aparecerá en época tardía cuando Antíoco Epífanes tratará de helenizar a la Judea *1Mac 1,29-42*. Vistas desde este ángulo las relaciones entre Israel y las naciones, no pueden establecerse sino en un plano de hostilidad.
 
 b. *Seducción religiosa*. Frente al pueblo de Dios las naciones representan también el paganismo, unas veces seductor, otras tiránico. Israel, nacido de antepasados idólatras *Jos 24,2*, propende no poco a imitarlas. En la época de los jueces cae en la [[idolos|idolatría]] cananea *Jue 2,11s*. Salomón, constructor del templo, establece santuarios para los dioses nacionales de los países vecinos *1Re 11,5-8*. En los siglos sucesivos, a los cultos cananeos se añaden los de Asiria, potencia de la que el pueblo elegido es vasallo *2Re 16,10-18* *21,3-7* *Ez 8*. En la época de los Macabeos se experimentará también la tentación del paganismo griego, que tendrá en su favor el prestigio de la cultura, y que Antíoco Epífanes tratará de imponer en el país *1Mac 1,43-61*. En estas condiciones se explican las severas prescripciones del Deuteronomio: Israel debe separarse radicalmente de las naciones extranjeras para no verse contaminado por su paganismo *Dt 7,1-8*.
 
@@ -108,11 +108,11 @@ La perspectiva de la profecía no depende ya aquí de la experiencia; es la real
 
 ### Juicio de las naciones
 
-Los oráculos contra las naciones son clásicos en todos los profetas *Is 13-21* *Jer 46-51* *Ez 25-32*. Adquieren un significado particular en época tardía, cuando la destrucción de los opresores paganos aparece como la condición necesaria de la liberación de Israel. Dios, cuando venga su [[dia_domini|día]], quebrantará a Gog, rey de Magog, tipo de estos tiranos sanguinarios *Ez 38-39*. Se enfrentará con todas las potencias enemigas *Jl 4,9-14* *Zac 14,1-6.12ss*, destruirá sus ciudades *Is 24,7-13* y juzgará a sus reyes *Is 24,21s*. La historia ejemplar de Judit y el apocalipsis de Daniel están construidos sobre este tema *Dan 7* *11,21-45*, al que la persecución de Antíoco da una actualidad trágica.
+Los oráculos contra las naciones son clásicos en todos los profetas *Is 13-21* *Jer 46-51* *Ez 25-32*. Adquieren un significado particular en época tardía, cuando la destrucción de los opresores paganos aparece como la condición necesaria de la liberación de Israel. Dios, cuando venga su [[día_del_señor|día]], quebrantará a Gog, rey de Magog, tipo de estos tiranos sanguinarios *Ez 38-39*. Se enfrentará con todas las potencias enemigas *Jl 4,9-14* *Zac 14,1-6.12ss*, destruirá sus ciudades *Is 24,7-13* y juzgará a sus reyes *Is 24,21s*. La historia ejemplar de Judit y el apocalipsis de Daniel están construidos sobre este tema *Dan 7* *11,21-45*, al que la persecución de Antíoco da una actualidad trágica.
 
 ### Salvación de las naciones
 
-Pero el díptico tiene otra cara. En efecto, la salvación final no será patrimonio de Israel. Si el pecado rompió desde los orígenes la unidad del género humano, la conversión final de las naciones debe permitir rehacerla. Helas que llegan a Jerusalén para aprender la ley de Dios, con lo cual retorna la [[paz|paz]] universal *Is 2,2ss*. Se vuelven hacia el Dios vivo *Is 45,14-17.20-25* y participan en su culto *Is 60,1-16* *25,6* *Zac 14,16*. Egipto y Asiria se convierten e Israel les sirve de enlace *Is 19,16-25*. Yahveh, poniendo término a la dispersión de [[babel_babilonia|Babel]], reúne en torno a sí a todas las naciones y todas las [[lengua|lenguas]] *Is 66,18-21*. Todos los pueblos le reconocen por [[rey|rey]], todos se reúnen con el pueblo de Abraham *Sal 47*, todos dan a Sión el título de [[madre|madre]] *Sal 87*. El [[siervo_de_yahveh|siervo]] de Yahveh desempeña para con ellas, como para con Israel, la función de [[mediador|mediador]] *Is 42,4.6*. Así debe volver a formarse el último día un pueblo único de Dios que recobre el universalismo primitivo. Si la ley daba a Israel una apariencia de exclusivismo, se ve que la profecía vuelve a enlazar con las amplias perspectivas del misterio original.
+Pero el díptico tiene otra cara. En efecto, la salvación final no será patrimonio de Israel. Si el pecado rompió desde los orígenes la unidad del género humano, la conversión final de las naciones debe permitir rehacerla. Helas que llegan a Jerusalén para aprender la ley de Dios, con lo cual retorna la [[paz|paz]] universal *Is 2,2ss*. Se vuelven hacia el Dios vivo *Is 45,14-17.20-25* y participan en su culto *Is 60,1-16* *25,6* *Zac 14,16*. Egipto y Asiria se convierten e Israel les sirve de enlace *Is 19,16-25*. Yahveh, poniendo término a la dispersión de [[babel|Babel]], reúne en torno a sí a todas las naciones y todas las [[lengua|lenguas]] *Is 66,18-21*. Todos los pueblos le reconocen por [[rey|rey]], todos se reúnen con el pueblo de Abraham *Sal 47*, todos dan a Sión el título de [[madre|madre]] *Sal 87*. El [[siervo_de_yahvé|siervo]] de Yahveh desempeña para con ellas, como para con Israel, la función de [[mediador|mediador]] *Is 42,4.6*. Así debe volver a formarse el último día un pueblo único de Dios que recobre el universalismo primitivo. Si la ley daba a Israel una apariencia de exclusivismo, se ve que la profecía vuelve a enlazar con las amplias perspectivas del misterio original.
 
 ## IV. ANTICIPACIONES
 
@@ -136,7 +136,7 @@ Con Jesús se inauguran los últimos tiempos *Mc 1,15*. Podría, pues, pensarse 
 
 a. *Comportamientos particularistas*. Jesús, aun cuando se halla en tierra extranjera, no sale de los límites del judaísmo para anunciar el Evangelio y realizar milagros: «Yo sólo he sido enviado a las ovejas perdidas de la casa de Israel» *Mt 15,24*; «No está bien tomar el pan de los hijos y arrojarlo a los perros» *Mc 7,27*. A los doce, a los que envía en [[mision|misión]], les recomienda igualmente: «No toméis los caminos de los paganos» *Mt 10,5s*.
 
-b. *Perspectivas universalistas*. En cambio, al paso que choca con la mala voluntad de las «ovejas perdidas», no escatima su admiración a los [[extranjero|extranjeros]] que creen en él: el centurión de Cafarnaúm *Mt 8,10 p*, el leproso samaritano *Lc 17,17ss*, la cananea *Mt 15,28*... En el [[reino|reino]] de Dios estas gentes son las primicias de las naciones. Ahora bien, el desarrollo futuro del reino verá acrecentarse su número: de todas partes se acudirá al festín escatológico, mientras que los israelitas, miembros natos del reino, se verán excluidos de él *Lc 13,28s p*... Sorprendente perspectiva, en la que se ve invertida la antigua situación de los judíos y de las naciones en relación con los privilegios de la alianza: la [[vina|viña]] de Dios será retirada a Israel y confiada a otros viñadores *Mt 21,43*.
+b. *Perspectivas universalistas*. En cambio, al paso que choca con la mala voluntad de las «ovejas perdidas», no escatima su admiración a los [[extranjero|extranjeros]] que creen en él: el centurión de Cafarnaúm *Mt 8,10 p*, el leproso samaritano *Lc 17,17ss*, la cananea *Mt 15,28*... En el [[reino_de_dios|reino]] de Dios estas gentes son las primicias de las naciones. Ahora bien, el desarrollo futuro del reino verá acrecentarse su número: de todas partes se acudirá al festín escatológico, mientras que los israelitas, miembros natos del reino, se verán excluidos de él *Lc 13,28s p*... Sorprendente perspectiva, en la que se ve invertida la antigua situación de los judíos y de las naciones en relación con los privilegios de la alianza: la [[vina|viña]] de Dios será retirada a Israel y confiada a otros viñadores *Mt 21,43*.
 
 ### Solución de la antinomia
 
@@ -172,6 +172,6 @@ b. San Juan no descubre tanto esta preocupación porque piensa más en el destin
 
 El Apocalipsis, profecía cristiana, está atento, como los profetas de antaño, a las dos situaciones de las naciones en relación con el designio de Dios.
 
-a. *Juicio de las naciones hostiles*. Al igual que Israel, el nuevo pueblo de Dios se encuentra con naciones paganas que le son hostiles *Ap 11,2*. Tal es el sentido de las [[bestia_bestias|bestias]] que se hacen adorar por los hombres *13*, de [[babel_babilonia|Babilonia]], la prostituida blasfema, que se embriaga con la sangre de los mártires *17*... Estos poderes sostienen contra Cristo la [[guerra|guerra]] escatológica *17,13s* *19,19* *20,7ss*, puesto que son los depositarios del poder de [[satan|Satán]]. Por eso serán juzgados y destruidos *14,6-11* *18*; sucumbirán en su combate contra Cristo *17,14* *19,15.20s*.
+a. *Juicio de las naciones hostiles*. Al igual que Israel, el nuevo pueblo de Dios se encuentra con naciones paganas que le son hostiles *Ap 11,2*. Tal es el sentido de las [[bestia|bestias]] que se hacen adorar por los hombres *13*, de [[babel|Babilonia]], la prostituida blasfema, que se embriaga con la sangre de los mártires *17*... Estos poderes sostienen contra Cristo la [[guerra|guerra]] escatológica *17,13s* *19,19* *20,7ss*, puesto que son los depositarios del poder de [[satanás|Satán]]. Por eso serán juzgados y destruidos *14,6-11* *18*; sucumbirán en su combate contra Cristo *17,14* *19,15.20s*.
 
 b. *Salvación de las naciones convertidas*. Pero frente a la humanidad pecadora que va así a su ruina tenemos a la humanidad nueva salvada por la sangre del cordero: es una multitud de todas las naciones, razas, pueblos y lenguas *7,9-17*, que saluda en Dios al [[rey|rey]] de las naciones *15,3s* y que habitará para siempre la [[jerusalen|Jerusalén]] nueva *21,24ss*. El NT se cierra con esta visión de esperanza, en la que el género humano rescatado recobra por fin su unidad: *«O Rex gentium et desideratus earum, lapisque angularis, qui facie utraque unum: veni, et salva hominem quem de limo formasti!»*

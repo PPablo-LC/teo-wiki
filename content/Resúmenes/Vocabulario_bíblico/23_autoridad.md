@@ -18,7 +18,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[esclavo]] — los derechos de los esclavos precisados por la ley
 - [[educacion]] — la autoridad del padre con por fin la buena educación
 - [[poder]] — el poder que embriaga a los que mandan
-- [[bestia_bestias]] — las bestias satánicas como símbolo de la autoridad pervertida
+- [[bestia]] — las bestias satánicas como símbolo de la autoridad pervertida
 - [[juicio]] — el juicio divino sobre la autoridad pervertida
 - [[salvacion]] — el designio de salvación que da nuevo sentido a la autoridad
 - [[mision]] — la misión de los enviados religiosos
@@ -29,7 +29,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[venganza]] — el llamamiento a la venganza divina contra el imperio pagano
 - [[servir]] — Jesús que ha venido para servir
 - [[discipulo]] — los discípulos como depositarios de la autoridad de Jesús
-- [[satán]] — el poder que Jesús negó a tener de Satán
+- [[satanás]] — el poder que Jesús negó a tener de Satán
 - [[hijo]] — el Hijo del hombre, base de la autoridad de Jesús
 - [[rodilla]] — toda rodilla que se doblará ante Cristo
 

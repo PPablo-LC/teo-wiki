@@ -12,7 +12,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[Ordinatio_sacerdotalis]] — Carta Apostólica de [[san_juan_pablo_ii]] sobre la ordenación sacerdotal
+- [[Ordinatio_sacerdotalis]] — Carta Apostólica de [[juan_pablo_ii]] sobre la ordenación sacerdotal
 - [[ordenación_sacerdotal]] — no admisión de las mujeres, doctrina *definitive tenenda*
 - [[depósito_de_la_fe]] — doctrina propuesta infaliblemente por el Magisterio ordinario universal
 - [[constitución_divina_de_la_Iglesia]] — doctrina que atañe a la constitución misma de la Iglesia
@@ -26,7 +26,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Ordinatio sacerdotalis
 
-Con ocasión de la publicación de la Respuesta de la [[Congregación_para_la_Doctrina_de_la_Fe]] a un *dubium* sobre el motivo por el que la doctrina de la Carta Apostólica *Ordinatio sacerdotalis* debe considerarse como *definitive tenenda*, se presentan algunas reflexiones.
+Con ocasión de la publicación de la Respuesta de la [[dicasterio_para_la_doctrina_de_la_fe]] a un *dubium* sobre el motivo por el que la doctrina de la Carta Apostólica *Ordinatio sacerdotalis* debe considerarse como *definitive tenenda*, se presentan algunas reflexiones.
 
 La fecha de publicación —22 de mayo de 1994, solemnidad de Pentecostés— subrayaba la importancia eclesiológica de esta Carta Apostólica. Su importancia se descubre sobre todo en las palabras conclusivas: «Con el fin de alejar toda duda sobre una cuestión de gran importancia que atañe a la misma constitución divina de la Iglesia, en virtud de mi ministerio de confirmar en la fe a los hermanos (cfr Lc 22, 32), declaro que la Iglesia no tiene en modo alguno la facultad de conferir la ordenación sacerdotal a las mujeres, y que este dictamen debe ser considerado como definitivo por todos los fieles de la Iglesia» (n. 4).
 

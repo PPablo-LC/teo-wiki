@@ -24,7 +24,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[amor]] — el amor divino que obtiene la conversión
 - [[paciencia]] — la paciencia divina
 - [[misericordia]] — la misericordia divina
-- [[penitencia_conversion]] — la conversión del pecador
+- [[penitencia_y_conversión]] — la conversión del pecador
 - [[calamidad]] — las calamidades como castigos
 - [[diluvio]] — el diluvio como castigo
 - [[guerra]] — la guerra como castigo
@@ -35,7 +35,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[don]] — el don de Dios en el punto de partida
 - [[endurecimiento]] — el endurecimiento ante el llamamiento
 - [[corazon]] — la abertura del corazón ante el castigo
-- [[babel_babilonia]] — Babel como castigo «cerrado»
+- [[babel]] — Babel como castigo «cerrado»
 - [[santo]] — el pecado incompatible con la santidad divina
 - [[retribucion]] — el castigo como retribución del pecado
 - [[gracia]] — la gracia de la visita divina
@@ -50,9 +50,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sabiduria]] — la sabiduría de Dios en la cruz
 - [[educacion]] — la educación de la libertad por la corrección
 - [[ley]] — el castigo ligado con la ley
-- [[liberacion_libertad]] — el cristiano del Espíritu liberado del castigo
+- [[liberación_y_libertad]] — el cristiano del Espíritu liberado del castigo
 - [[padres_y_padre]] — el castigo permitido por el amor del Padre
-- [[reino]] — el juicio anticipando la condenación
+- [[reino_de_dios]] — el juicio anticipando la condenación
 - [[justificacion]] — el juicio como justificación para el espiritual
 - [[carne]] — el hombre carnal frente al espiritual
 - [[espiritu]] — vivir según el Espíritu

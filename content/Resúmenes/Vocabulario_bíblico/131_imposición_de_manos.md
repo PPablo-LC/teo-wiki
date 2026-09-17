@@ -23,7 +23,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[nino]] — Jesús impone las manos a los niños
 - [[bienaventuranza]] — la bienaventuranza anunciada a los pobres
 - [[pobres]] — los pobres
-- [[enfermedad_curacion]] — la imposición de manos, signo de liberación
+- [[enfermedad_y_curación]] — la imposición de manos, signo de liberación
 - [[mision]] — el poder espiritual transmitido para una misión
 
 ## Contenido
@@ -42,7 +42,7 @@ La imposición de manos, símbolo de identificación, establece una unión entre
 
 ### En la vida de Jesús.
 
-En signo de bendición impuso Jesús las manos a los [[nino|niños]] pequeños *Mc 10,16*, confiriéndoles la [[bienaventuranza|bienaventuranza]] que anunciaba a los [[pobres|pobres]] *Mt 5,3*, obteniendo de su Padre los frutos de su propia «oración» *Mt 19,13*. La imposición de las manos es también signo de liberación. En efecto, por este gesto cura Jesús a los [[enfermedad_curacion|enfermos]]: «Mujer, ya estás limpia de tu enfermedad», dijo a la mujer encorvada, luego le impuso las manos, y ella se enderezó en el mismo instante *Lc 13,13*. Igual gesto para la curación del ciego de Betsaida *Mc 8,23ss*, o para cada uno de los numerosos enfermos que acudían a la puesta del sol *Lc 4,40*.
+En signo de bendición impuso Jesús las manos a los [[nino|niños]] pequeños *Mc 10,16*, confiriéndoles la [[bienaventuranza|bienaventuranza]] que anunciaba a los [[pobres|pobres]] *Mt 5,3*, obteniendo de su Padre los frutos de su propia «oración» *Mt 19,13*. La imposición de las manos es también signo de liberación. En efecto, por este gesto cura Jesús a los [[enfermedad_y_curación|enfermos]]: «Mujer, ya estás limpia de tu enfermedad», dijo a la mujer encorvada, luego le impuso las manos, y ella se enderezó en el mismo instante *Lc 13,13*. Igual gesto para la curación del ciego de Betsaida *Mc 8,23ss*, o para cada uno de los numerosos enfermos que acudían a la puesta del sol *Lc 4,40*.
 
 ### En la vida de la Iglesia.
 

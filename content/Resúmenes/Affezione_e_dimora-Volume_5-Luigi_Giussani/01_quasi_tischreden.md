@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "***Quasi*** **TISCHREDEN**"
 fuente: Affezione_e_dimora-Volume_5-Luigi_Giussani
 capítulo: 1
-timestamp: 2026-09-13
+timestamp: 2026-09-17
 description: "Resumen de '***Quasi*** **TISCHREDEN**' — Affezione_e_dimora-Volume_5-Luigi_Giussani"
 tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 ---
@@ -12,31 +12,15 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[tischreden]] — Título de la serie: «Quasi Tischreden» («Casi charlas de sobremesa»), homenaje a las *Tischreden* de Lutero.
+- [[capacidad_afectiva]] — El texto alude implícitamente a la capacidad afectiva como tema vertebral de la serie.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_quasi_tischreden.md`
+Archivo de solo título. El nombre de la serie, *Quasi Tischreden*, designa «casi charlas de sobremesa» (*discorsi a tavola*), en homenaje a las *Tischreden* de Martin Lutero. El «casi» (*quasi*) expresa una actitud de pudor frente al significado histórico del término original. Este título encabeza la obra y anuncia su naturaleza: diálogos informales de sobremesa celebrados semanalmente con jóvenes de los *Memores Domini*, donde se exploran palabras fundamentales para la vida cristiana.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | ***Quasi*** **TISCHREDEN** |
-
-
-## Secciones incluidas
-

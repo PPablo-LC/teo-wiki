@@ -16,7 +16,7 @@ tags: ["resumen", "arca_de_la_nueva_alianza", "visitación", "tipología", "new_
 - [[visitación]] — Lc 1:39-56; María visita a Elizabeth; paralelos con el transporte del Arca por David.
 - [[tipología]] — El Arca del AT como tipo de María en el NT.
 - [[apocalipsis_12]] — Ap 11,19 y 12,1: el Arca visible en el cielo se identifica con la mujer vestida de sol.
-- [[santísimo_sacramento]] — El Arca contenía el maná; María contiene el Pan de Vida.
+- [[eucaristía]] — El Arca contenía el maná; María contiene el Pan de Vida.
 
 ## Contenido
 

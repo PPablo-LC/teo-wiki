@@ -28,7 +28,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[profeta]] — el profeta, suscitado por vocación personal
 - [[mision]] — la misión del profeta
 - [[palabra_de_dios]] — la palabra llevada al pueblo
-- [[siervo_de_yahveh]] — el siervo de Dios
+- [[siervo_de_yahvé]] — el siervo de Dios
 - [[resto]] — el resto de Israel
 - [[naciones]] — la luz de las naciones
 - [[sufrimiento]] — el sufrimiento del siervo
@@ -71,7 +71,7 @@ La escatología profética transpone a los últimos tiempos diversos elementos d
 
 En las evocaciones del nuevo pueblo se hallan diversos mediadores que desempeñan un papel análogo a los del pasado: unas veces el [[mesias|Mesías]] rey, otras el [[profeta|profeta]] anunciador de la salvación (*Is 61,1ss* *Dt 18,15* interpretado por la tradición judía), más raras veces el [[sacerdocio|sacerdote]] de los nuevos tiempos *Zac 4,14*, elemento desarrollado en las tradiciones de Qumrán.
 
-El [[siervo_de_yahveh|siervo]] de Dios, en *Is 40-55*, es una figura ideal que parece personificar al [[resto|resto]] de Israel en su función de mediador entre Dios y los hombres. Es un profeta llamado por Dios «para aportar a las naciones el derecho» *Is 42,1*, reunir a Israel disperso, ser «la luz de las naciones» *42,6* *49,5-6* y la alianza del pueblo *42,6* *49,8*, es decir, para formar el nuevo pueblo que constituyen el Israel rescatado y las [[naciones|naciones]] convertidas. Su misión no es sólo predicar el mensaje de la salvación e interceder, como lo hacían los profetas precedentes: debe «cargar con los pecados de las multitudes» e intervenir en su redención por su propio [[sufrimiento|sufrimiento]] *Is 52,14* *53,12*. Representa así un nuevo tipo de mediación sacerdotal.
+El [[siervo_de_yahvé|siervo]] de Dios, en *Is 40-55*, es una figura ideal que parece personificar al [[resto|resto]] de Israel en su función de mediador entre Dios y los hombres. Es un profeta llamado por Dios «para aportar a las naciones el derecho» *Is 42,1*, reunir a Israel disperso, ser «la luz de las naciones» *42,6* *49,5-6* y la alianza del pueblo *42,6* *49,8*, es decir, para formar el nuevo pueblo que constituyen el Israel rescatado y las [[naciones|naciones]] convertidas. Su misión no es sólo predicar el mensaje de la salvación e interceder, como lo hacían los profetas precedentes: debe «cargar con los pecados de las multitudes» e intervenir en su redención por su propio [[sufrimiento|sufrimiento]] *Is 52,14* *53,12*. Representa así un nuevo tipo de mediación sacerdotal.
 
 En *Dan 7,13.18*, el [[hijo|Hijo]] del hombre representa en primer lugar al «pueblo de los santos» oprimidos por los poderes paganos antes de ser exaltado por el juicio de Dios. Finalmente, reinará sobre las [[naciones|naciones]] *7,14.27* y asegurará así el reinado de Yahveh sobre el mundo. La relación entre estos diferentes mediadores escatológicos no está establecida claramente en el AT. Sólo el hecho de Jesús mostrará cómo se confunden en la persona del único mediador de salvación.
 

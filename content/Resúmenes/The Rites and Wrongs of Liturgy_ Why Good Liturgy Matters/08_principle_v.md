@@ -17,7 +17,7 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 - [[Eucaristía]]
 - [[bautismo]]
 - [[hospitalidad_de_Dios]]
-- [[discípulos_de_cristo]]
+- [[discípulo]]
 - [[Dios]]
 - [[comunidad]]
 

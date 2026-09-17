@@ -1,96 +1,67 @@
 ---
 type: ResumenFuente
 title: "Trabajo"
-fuente: Vocabulario_bíblico
+fuente: Vocabulario bíblico
 capítulo: 270
-timestamp: 2026-08-24
-description: "Resumen de 'Trabajo' — Vocabulario_bíblico"
+timestamp: 2026-09-16
+description: "El trabajo en la Biblia: su valor, la fatiga derivada del pecado, la redención del trabajo y su sentido cristiano."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Trabajo
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
+> 📄 **Fuente original:** `trabajo.md`
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `trabajo.md`
+Por todas partes en la Biblia está el hombre dado al trabajo. No obstante, por ser este trabajo, de artesano o de pequeño cultivador, muy diferente del trabajo intensivo y organizado que evocan en nosotros las visiones modernas del trabajo, nos sentimos inclinados a creer que la Escritura ignora el trabajo o que lo conoce mal. Y como, por otra parte, apenas si comporta juicios de principio sobre el valor y el significado del trabajo, nos vemos a veces tentados a aislar en nuestra fantasía tal o cual fórmula tomada al azar para utilizarla en apoyo de nuestras propias tesis. Si la Biblia no responde a todas nuestras cuestiones, sin embargo, tomada en su totalidad, nos introduce en la realidad del trabajo, de su valor, de su fatiga y de su redención.
 
+## I. VALOR DEL TRABAJO
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### El mandamiento del creador.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Trabajo |
-| 5 | H2 | I. VALOR DEL TRABAJO |
-| 7 | H3 | El mandamiento del creador. |
-| 10 | H3 | Valor natural del trabajo. |
-| 15 | H3 | Valor social del trabajo. |
-| 18 | H2 | II. LA FATIGA DEL TRABAJO |
-| 22 | H2 | III. LA REDENCIÓN DEL TRABAJO |
-| 25 | H2 | IV. EL NUEVO TESTAMENTO |
-| 28 | H3 | El trabajo perecedero. |
-| 31 | H3 | Valor positivo del trabajo. |
-| 34 | H3 | Valor cristiano del trabajo. |
-| 38 | H3 | El trabajo y el universo nuevo. |
+Pese al prejuicio corriente, el trabajo no viene del [[pecado|pecado]]: antes de la caída «tomó Yahveh al hombre y lo estableció en el huerto del Edén para que lo cultivara y lo guardara» *Gen 2,15*. Si el Decálogo prescribe el [[sabado|sábado]], lo hace al final de seis días de trabajo *Ex 20,8ss*. Esta semana de trabajo recuerda los seis días que empleó Dios para [[creacion|crear]] el universo y subraya así que Dios, al formar al hombre «a su imagen» *Gen 1,26* quiso asociarlo a su designio, que después de haber puesto en orden el universo lo entregó en manos del hombre dando a éste el poder de ocupar la [[tierra|tierra]] y de someterla *1,28*. Todos los que trabajan, aun cuando «no brillen por la cultura ni por el juicio», todos, sin embargo, cada uno en su oficio, «sostienen la creación» (*Eclo 38,34*, Trad. Bib. de Jerusalén). Así no tiene nada de extraño que la acción del creador se describa fácilmente con gestos de obrero, modelando al hombre *Gen 2,7*, fabricando el cielo «con [sus] dedos» y fijando las estrellas en su puesto *Sal 8,4*; viceversa, el gran himno que celebra al Dios creador pinta al hombre por la mañana «saliendo para su faena, a hacer su trabajo hasta la tarde» *Sal 104,23* *Eclo 7,15*. Este trabajo del hombre es la expansión de la creación de Dios, es el cumplimiento de su [[voluntad_de_dios|voluntad]*.
 
+### Valor natural del trabajo.
 
-## Secciones incluidas
+Esta auténtica voluntad de Dios no se expresa en ninguna parte entre los mandamientos de la alianza, ni en los del Decálogo, ni en los del Evangelio. Lo cual no es sorprendente, sino más bien normal: el trabajo es una ley de la condición humana, se impone a todo hombre, aun antes de que se sienta llamado a la [[salvacion|salvación]] de Dios. De ahí proviene que muchas reacciones de la Biblia frente al trabajo traducen sencillamente el juicio de una conciencia sana y recta y figuran en los escritos de los sabios, deliberadamente atentos a hacer que la religión de Israel saque partido de lo mejor de la experiencia moral de la humanidad.
 
-# I. VALOR DEL TRABAJO
+Así la Biblia es severa con la ociosidad en nombre del sentido común: el perezoso no tiene qué comer *Prov 13,4* y se expone a morir de hambre *21,25*; nada hay como el hambre para estimular al trabajo *16,26*, y san Pablo no vacila en utilizar este argumento para mostrar su aberración a los que se niegan a trabajar: «que no coman tampoco» *2Tes 3,10*. La ociosidad es además una degradación: se admira a la mujer siempre solícita, que «no come el pan de la ociosidad» *Prov 31,27* y se moteja al perezoso: «La puerta da vueltas sobre sus goznes, y el perezoso sobre su cama» *26,14*. Ya no es un hombre, es «una pella de cieno», «un puñado de estiércol» *Eclo 22,1s*: que se aparta de uno con asco.
 
-[Contenido de esta sección...]
+La Biblia, por el contrario, sabe apreciar el trabajo bien hecho, la habilidad y el empeño que pone en su labor el labrador, el herrero o el alfarero *Eclo 38,26.28.30*. Se llena de admiración ante los logros del arte, el palacio de Salomón *1Re 7,1-12* y su trono, «sin rival en ningún reino» *10,20*, pero sobre todo el templo de Yahveh y sus maravillas *1Re 6* *7,13-50*. No tiene piedad para con la ceguera del fabricador de [[idolos|ídolos]], pero respeta su habilidad y se indigna de que tantos esfuerzos se gasten sin provecho, por algo que es «nada» *Is 40,19s* *41,6s*.
 
-## El mandamiento del creador.
+### Valor social del trabajo.
 
-[Contenido de esta sección...]
+Esta estima del trabajo no nace sólo de la admiración ante los logros del arte: reposa en una visión más firme del lugar que tiene el trabajo en la vida social y en las relaciones económicas. Sin los labradores y los artesanos «ninguna ciudad podría construirse» *Eclo 38,32*. Tres factores se combinan en el origen de la navegación: «la sed de lucro... la sabiduría del artífice... la dirección de la Providencia» *Sab 14,2s*. Concepción realista y equilibrada, susceptible de explicar, según el lugar respectivo de estos tres elementos, las aberraciones que puede conocer el trabajo, como también las maravillas que puede realizar, por ejemplo, la que permite al navegante «osar confiar su vida a un minúsculo leño» y redondear así la creación de Dios impidiendo que «resulten estériles las obras de [su] Sabiduría» *Sab 14,5*.
 
-## Valor natural del trabajo.
+## II. LA FATIGA DEL TRABAJO
 
-[Contenido de esta sección...]
+Dado que el trabajo es un dato fundamental de la existencia humana, se halla afectado directa y profundamente por el [[pecado|pecado]]: «Comerás el pan con el sudor de tu frente» *Gen 3,19*. La [[maldicion|maldición]] divina no tiene por objeto el trabajo, como tampoco tiene por objeto el parto de la mujer. Como el parto es la [[victoria|victoria]] dolorosa de la vida sobre la muerte, así la fatiga cotidiana y sin fin del hombre en el trabajo es el precio que debe pagar por el poder que Dios le ha dado sobre su creación; el poder subsiste, pero el suelo, maldito, resiste y debe ser domado *3,17s*. Lo peor de este [[sufrimiento|sufrimiento]] del esfuerzo es que, aun cuando a veces alcanza logros espectaculares, como el de Salomón, viene la [[muerte|muerte]] que lo desbarata: «¿Qué le queda de todo su trabajo...? ¿Y los días de fatiga, y la preocupación de los negocios, y las noches de insomnio? También esto es vanidad» *Ecl 2,22s*.
 
-## Valor social del trabajo.
+Doloroso y con frecuencia estéril, el trabajo es además en la humanidad uno de los terrenos en que más ampliamente despliega el pecado su poder. Arbitrariedad, violencia, injusticia, rapacidad hacen constantemente del trabajo no sólo un peso abrumador, sino un objeto de [[odio|odio]] y de divisiones. Obreros privados de su salario *Jer 22,13* *Sant 5,4*, labradores esquilmados por el impuesto *Am 5,11*, poblaciones sometidas a prestaciones forzosas por un gobierno enemigo *2Sa 12,31* y también por el propio soberano *1Sa 8,10-18* *1Re 5,27* *12,1-14*, [[esclavo|esclavos]] condenados al trabajo y a los golpes *Eclo 33,25-29*: no hay siempre falta personal en este cuadro siniestro, sino que es sencillamente el mundo ordinario del trabajo en la raza de Adán. Este mundo lo conoció Israel en la forma más inhumana en [[egipto|Egipto]]: trabajo forzado, a un ritmo agotador, bajo una vigilancia despiadada, en medio de una población hostil, en provecho de un gobierno enemigo, trabajo organizado sistemáticamente para aniquilar a un pueblo y quitarle toda capacidad de resistencia *Ex 1,8-14* *2,11-15* *5,6-18*; se trata ya del mundo de los campos de concentración, del campo de trabajo.
 
-[Contenido de esta sección...]
+## III. LA REDENCIÓN DEL TRABAJO
 
-# II. LA FATIGA DEL TRABAJO
+Ahora bien, Yahveh [[liberación_y_libertad|liberó]] a su pueblo de este universo inhumano, fruto del pecado. Su alianza con Israel comporta una serie de cláusulas destinadas a preservar el trabajo, si no ya de todo lo que tiene de penoso, por lo menos de las formas monstruosas que le da la maldad del hombre. El [[sabado|sábado]] tiene por fin introducir una tregua en la agobiadora sucesión de los trabajos *Ex 20,9ss*, para asegurar al hombre y a todo lo que trabaja sobre la tierra un tiempo de [[reposo|reposo]] *Ex 23,12* *Dt 5,14*, a ejemplo de un Dios que se ha revelado como un Dios que trabaja, un Dios que reposa, un Dios que libera de la servidumbre *Dt 5,15*. Diversos artículos de la ley están destinados a proteger al [[esclavo|esclavo]] o al asalariado, al que se debe pagar el día mismo *Lev 19,13* y no se le debe explotar *Dt 24,14s*. Los profetas traerán a la memoria estas exigencias *Jer 22,13*. Si es Israel fiel a la alianza, no se le dispensará del trabajo, pero éste será fecundo, pues «Dios [[bendicion|bendecirá]] la obra de sus manos» *Dt 14,29* *16,15* *28,12* *Sal 128,2*. El trabajo producirá su [[fruto|fruto]] normal: el que plante una viña gozará de su fruto, el que construya una casa la habitará *Am 9,14* *Is 62,8s* *Dt 28,30*.
 
-[Contenido de esta sección...]
+## IV. EL NUEVO TESTAMENTO
 
-# III. LA REDENCIÓN DEL TRABAJO
+La venida de Jesucristo proyecta sobre el trabajo las paradojas y las luces del Evangelio. En el NT el trabajo es a la vez ensalzado y como ignorado o tratado con desdén, como un detalle sin importancia. Es ensalzado por el ejemplo de Jesús, obrero *Mc 6,3* e hijo de obrero *Mt 13,55*, y por el ejemplo de Pablo, que trabaja con sus manos *Act 18,3* y se gloría de ello *Act 20,34* *1Cor 4,12*. Sin embargo, los evangelios observan sobre el trabajo un silencio sorprendente; no parecen conocer la palabra sino para designar las obras a las que hay que aplicarse, que son las obras de Dios *Jn 5,17* *6,28*, o para presentar como ejemplo a las aves del cielo «que no siembran ni siegan» *Mt 6,26* y a los lirios de los campos que «no se fatigan ni hilan» *6,28*. La poca importancia por una parte y por otra la importancia dada al trabajo no son en modo alguno datos contradictorios, sino dos polos de una actitud cristiana esencial.
 
-[Contenido de esta sección...]
+### El trabajo perecedero.
 
-# IV. EL NUEVO TESTAMENTO
+«Trabajad, no por el alimento perecedero, sino por el alimento que permanece en vida eterna» *Jn 6,27*. Jesucristo viene a traer el [[reino_de_dios|reino]] de Dios; no tiene otra misión ni habla de otra cosa. Es que este reino es lo primero de todo *Mt 6,33*. Lo demás, comer, beber, [[vestido|vestirse]], no carece de importancia, pero quien se preocupa de ello hasta el punto de perder el reino, lo ha perdido todo, aun cuando hubiera conquistado el universo *Lc 9,25*. Ante lo absoluto que es la posesión de Dios, todo lo demás se esfuma; en este mundo, cuya «figura pasa» *1Cor 7,31*, sólo vale lo que une al Señor sin impedimentos *7,35*.
 
-[Contenido de esta sección...]
+### Valor positivo del trabajo.
 
-## El trabajo perecedero.
+Poner el trabajo en su puesto, distinto de Dios, no es en modo alguno desvalorizarlo, sino, por el contrario, restaurar su verdadero valor en la [[creacion|creación]]. Ahora bien, este valor es muy alto. Jesús, como Yahveh en el AT, no sólo toma títulos y comparaciones del mundo del trabajo: pastor, viñador, médico, sembrador, sin la sombra de la condescendencia del Eclesiastés, tan típica del intelectual, con el trabajo de las manos, su necesidad y sus límites *Eclo 38,32ss*; no sólo presenta el [[apostoles|apostolado]] como un trabajo, el de la [[siega|siega]] *Mt 9,37* *Jn 4,38* o de la pesca *Mt 4,19*; no sólo está atento al oficio de los que escoge *Mt 4,18*; sino que con todo su comportamiento supone un mundo en trabajo, el labrador en su campo, la mujer de casa con su escoba *Lc 15,8*, y considera anormal dejar enterrado el talento sin hacerlo fructificar *Mt 25,14-30*. Si multiplica los panes —panes cocidos en nuestros hornos—, pone empeño en mostrar que es una excepción y que deja al hombre el cuidado de hacerse y cocerse el pan. Con este mismo espíritu de adhesión leal a la condición humana recomendará Pablo «distanciarse de todo hermano que viva en la ociosidad» bajo pretexto de que está próxima la parusía *2Tes 3,6*.
 
-[Contenido de esta sección...]
+### Valor cristiano del trabajo.
 
-## Valor positivo del trabajo.
+Cristo, nuevo [[adan|Adán]], permite a la humanidad llenar su misión de dominar el mundo *Heb 2,5ss* *Ef 1,9ss*: salvando al hombre da al trabajo su pleno valor. Hace su obligación más apremiante fundándola en las exigencias concretas del [[amor|amor]] sobrenatural; revelando la vocación de los hijos de Dios, muestra toda la dignidad del [[hombre|hombre]] y del trabajo que está a su servicio, establece una jerarquía de valores que ayuda a juzgar y a comportarse en el trabajo.
 
-[Contenido de esta sección...]
+Instaurando el [[reino_de_dios|reino]] que no es de este mundo, pero se halla en él como un fermento, devuelve su calidad espiritual al trabajador, da a su trabajo las dimensiones de la caridad y funda las relaciones engendradas por el trabajo, en el principio nuevo de la fraternidad en Cristo (Flm). En virtud de su ley de amor *Jn 13,34*, obliga a reaccionar contra el egoísmo y a hacer todo lo posible por disminuir la fatiga de los hombres en el trabajo; sin embargo, al introducir al cristiano en el misterio de su [[muerte|muerte]] y de sus [[sufrimiento|sufrimientos]], da un nuevo valor a esta pena fatal.
 
-## Valor cristiano del trabajo.
+### El trabajo y el universo nuevo.
 
-[Contenido de esta sección...]
-
-## El trabajo y el universo nuevo.
-
-[Contenido de esta sección...]
+Finalmente, cuando en la parusía del Señor su [[gloria|gloria]] de resucitado revista a todos sus elegidos, el dominio del universo por la humanidad será plenamente realizado por él y en él, sin trabas de pecado, de muerte o de sufrimiento. Aun antes del último día, el trabajo, en la medida en que se realiza en Cristo, contribuye ya al retorno de la [[creacion|creación]] a Dios. El [[esclavo|esclavo]] que soporta su condición en Cristo es ya «un liberto del Señor» *1Cor 7,22* y prepara la creación para que «ella también sea liberada de la servidumbre de la corrupción para entrar en la libertad de la gloria de los hijos de Dios» *Rom 8,21*. ¿Se dará además una permanencia de la obra realizada? La Escritura no fomenta ningún mesianismo temporal: «pasa la figura de este mundo» *1Cor 7,31*, y la ruptura entre el estado actual y el estado futuro del mundo no deja lugar para un acondicionamiento que hiciera pasar con pie seguro al mundo venidero. Sin embargo, cierta permanencia de la obra del hombre, en forma imposible de precisar, parece hallarse en la línea de las afirmaciones paulinas acerca de la dominación y recapitulación del universo por Cristo *Rom 8,19ss* *Ef 1,10* *Col 1,16.20*. Aunque no hay ningún texto que nos permita satisfacer una curiosidad fatalmente ingenua y limitada, la Escritura en su conjunto nos invita a esperar que la creación rescatada y liberada sea siempre el universo de los hijos de Dios reunidos en Cristo.

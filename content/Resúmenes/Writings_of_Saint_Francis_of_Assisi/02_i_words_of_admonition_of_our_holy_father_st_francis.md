@@ -12,7 +12,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-- [[santísimo_sacramento]] — Adoración y reverencia al Cuerpo y Sangre de Cristo
+- [[eucaristía]] — Adoración y reverencia al Cuerpo y Sangre de Cristo
 - [[eucaristía]] — Presencia real de Cristo bajo las especies de pan y vino
 - [[obediencia_franciscana]] — Renuncia a la voluntad propia en manos del superior
 - [[pobreza_espiritual]] — Beatitud de los pobres de espíritu

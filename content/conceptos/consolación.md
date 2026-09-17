@@ -45,7 +45,7 @@ La Virgen María es presentada como «Consuelo de los afligidos»: «Junto al qu
 
 ## Ver también
 
-[[persecucion]], [[enfermedad_curacion]], [[pobres]], [[promesas]], [[mesias]]
+[[persecucion]], [[enfermedad_y_curación]], [[pobres]], [[promesas]], [[mesias]]
 
 ## Referencias
 

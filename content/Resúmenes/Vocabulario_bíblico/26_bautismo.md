@@ -17,7 +17,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[agua]] — el simbolismo del agua como signo de purificación y vida
 - [[diluvio]] — el diluvio como prefiguración del bautismo
 - [[mar]] — el paso del mar Rojo como prefiguración bautismal
-- [[puro]] — las abluciones rituales que purifican y capacitan para el culto
+- [[pureza]] — las abluciones rituales que purifican y capacitan para el culto
 - [[exilio]] — el judaísmo posterior al exilio multiplicando las abluciones
 - [[circuncision]] — el bautismo de los prosélitos tan necesario como la circuncisión
 - [[juan_bautista]] — el bautismo de Juan como preparación para el mesías
@@ -40,7 +40,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[luz]] — el paso de las tinieblas a la luz de Cristo resucitado
 - [[fe]] — la fe en Jesucristo como supuesto del bautismo
 - [[confesion]] — la confesión de fe anterior al bautismo
-- [[penitencia_conversion]] — la conversión total como punto de partida
+- [[penitencia_y_conversión]] — la conversión total como punto de partida
 - [[justificacion]] — la justificación por la fe frente a la de las obras
 - [[obras]] — las obras de la ley frente a la justificación por la fe
 - [[gracia]] — la respuesta a la llamada divina como obra de la gracia

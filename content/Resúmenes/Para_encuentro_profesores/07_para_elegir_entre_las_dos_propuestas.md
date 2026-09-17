@@ -15,7 +15,7 @@ tags: ["resumen", "para encuentro profesores"]
 - [[Encuentro con Cristo]]
 - [[Revisión de vida]]
 - [[Discernimiento apostólico]]
-- [[Santa Misa]]
+- [[misa]]
 - [[Eucaristía]]
 - [[Oración contemplativa]]
 
@@ -33,7 +33,7 @@ tags: ["resumen", "para encuentro profesores"]
 
 ### Nota sobre la Santa Misa — cierre de la jornada
 
-La [[Santa Misa]] no es el "final" de la jornada sino su punto culminante. En ella, los compromisos asumidos se ofrecen al Padre junto con el Pan y el Vino. Se sugiere al P. Luis que en la homilía o en las moniciones integre los compromisos recogidos en los plenarios, para que la [[Eucaristía]] sea verdaderamente el envío de toda la jornada. El documento señala:
+La [[misa]] no es el "final" de la jornada sino su punto culminante. En ella, los compromisos asumidos se ofrecen al Padre junto con el Pan y el Vino. Se sugiere al P. Luis que en la homilía o en las moniciones integre los compromisos recogidos en los plenarios, para que la [[Eucaristía]] sea verdaderamente el envío de toda la jornada. El documento señala:
 
 > "El medio privilegiado para encontrar a Cristo es el texto de la Sagrada Escritura y el gesto de la fracción del Pan." — Parte II.
 

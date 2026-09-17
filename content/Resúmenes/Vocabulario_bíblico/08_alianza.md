@@ -21,7 +21,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[éxodo]] — la liberación de Egipto, contexto de la alianza
 - [[fe]] — la fe del pueblo libertado, respuesta al acontecimiento salvador
 - [[pueblo]] — Israel, pueblo de Yahveh
-- [[reino]] — Israel, reino de sacerdotes y nación consagrada
+- [[reino_de_dios]] — Israel, reino de sacerdotes y nación consagrada
 - [[culto]] — Israel, comunidad cultual entregada al servicio de Dios
 - [[naciones]] — la separación de las naciones paganas
 - [[ángeles]] — el ángel de Yahveh, guía del pueblo en la conquista
@@ -42,7 +42,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fidelidad]] — la salvación, no como salario de la fidelidad humana
 - [[david]] — la alianza davídica
 - [[pastor_y_rebano]] — Israel es el rebaño y Yahveh el pastor
-- [[vigna]] — Israel es la viña y Yahveh el viñador
+- [[viña]] — Israel es la viña y Yahveh el viñador
 - [[hijo]] — Israel, hijo de Yahveh
 - [[padres_y_padre]] — Yahveh, el padre
 - [[esposo]] — Israel, la esposa; Yahveh, el esposo
@@ -57,7 +57,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[espíritu]] — el don del Espíritu divino
 - [[conocer]] — el conocimiento de Dios en los nuevos esponsales
 - [[justicia]] — la justicia entre los rasgos de la nueva alianza
-- [[siervo_de_yahveh]] — el siervo, alianza del pueblo y luz de las naciones
+- [[siervo_de_yahvé]] — el siervo, alianza del pueblo y luz de las naciones
 - [[mediador]] — Jesús, mediador de la alianza
 - [[redención]] — la muerte de Cristo por la redención de la multitud
 - [[eucaristía]] — la participación eucarística, unión con el misterio de la nueva alianza

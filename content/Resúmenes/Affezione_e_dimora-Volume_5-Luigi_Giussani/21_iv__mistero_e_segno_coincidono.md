@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "**IV** - **MISTERO E SEGNO COINCIDONO**"
 fuente: Affezione_e_dimora-Volume_5-Luigi_Giussani
 capítulo: 21
-timestamp: 2026-09-13
+timestamp: 2026-09-17
 description: "Resumen de '**IV** - **MISTERO E SEGNO COINCIDONO**' — Affezione_e_dimora-Volume_5-Luigi_Giussani"
 tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 ---
@@ -12,31 +12,15 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[misterio]] — el Misterio y su signo coinciden; tesis que da título a la Parte IV.
+- [[signo]] — el signo concreto en el que el Misterio se hace presente; el misterio coincide con el signo.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `21_iv_mistero_e_segno_coincidono.md`
+El archivo es el rótulo de apertura de la **Parte IV** de la obra, titulada *Mistero e segno coincidono* («Misterio y signo coinciden»). Según el índice conceptual, esta parte reúne los Tischreden 102, 100 y 179, dedicados a la coincidencia entre el [[misterio]] y su [[signo]]: la [[adoración]] posible (la oferta como posesión completa), la distancia de Dios como estar dentro y la preferencia como misterio y signo.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | **IV** - **MISTERO E SEGNO COINCIDONO** |
-
-
-## Secciones incluidas
-

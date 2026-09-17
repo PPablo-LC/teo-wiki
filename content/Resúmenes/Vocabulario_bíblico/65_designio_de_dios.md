@@ -33,9 +33,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[redencion]] — la redención de los pecados
 - [[fe]] — la fe que unifica la historia
 - [[escritura]] — las Escrituras como cifra del designio
-- [[reino]] — el reino de Dios como venida de los imperios
+- [[reino_de_dios]] — el reino de Dios como venida de los imperios
 - [[parabola]] — las parábolas que revelan los misterios del reino
-- [[vigna]] — la viña del reino
+- [[viña]] — la viña del reino
 - [[bodas]] — el festín de las bodas escatológicas
 - [[houra]] — la hora de Jesús
 - [[cruz]] — la cruz en el designio de Dios

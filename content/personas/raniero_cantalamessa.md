@@ -18,7 +18,7 @@ timestamp: "2026-09-02"
 
 ## Definición
 
-Raniero Cantalamessa, cardenal y sacerdote capuchino italiano, es predicador de la Casa Pontificia desde el pontificado de [[san_juan_pablo_ii]]. Teólogo de la vida nueva en el [[espíritu_santo]] y autor de obras de predicación litúrgica y espiritualidad, su reflexión sobre el [[misterio_pascual]] y la [[cruz]] lo hace referencia sobre el sentido cristiano del sufrimiento.
+Raniero Cantalamessa, cardenal y sacerdote capuchino italiano, es predicador de la Casa Pontificia desde el pontificado de [[juan_pablo_ii]]. Teólogo de la vida nueva en el [[espíritu_santo]] y autor de obras de predicación litúrgica y espiritualidad, su reflexión sobre el [[misterio_pascual]] y la [[cruz]] lo hace referencia sobre el sentido cristiano del sufrimiento.
 
 ## Desarrollo histórico
 
@@ -40,7 +40,7 @@ Cantalamessa presenta la cruz no solo como expiación sino como victoria y rever
 
 ## Ver también
 
-[[misterio_pascual]], [[siervo_de_yahvé]], [[opción_preferencial_por_los_pobres]], [[cruz]], [[redención]], [[san_juan_pablo_ii]]
+[[misterio_pascual]], [[siervo_de_yahvé]], [[opción_preferencial_por_los_pobres]], [[cruz]], [[redención]], [[juan_pablo_ii]]
 
 ## Referencias
 

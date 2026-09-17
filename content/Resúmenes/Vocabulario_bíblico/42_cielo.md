@@ -28,12 +28,12 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[verdad]] — la verdad de Dios en el cielo
 - [[gracia]] — la gracia de Dios
 - [[fidelidad]] — la fidelidad de Dios
-- [[enfermedad_curacion]] — la salud que derrama sobre la tierra
+- [[enfermedad_y_curación]] — la salud que derrama sobre la tierra
 - [[bendicion]] — la lluvia y el rocío como bendición
 - [[esperanza]] — la espera de un acontecimiento venido del cielo
 - [[hijo]] — el Hijo del hombre que viene sobre las nubes
 - [[angeles]] — los ángeles del cielo
-- [[reino]] — el reino de los cielos
+- [[reino_de_dios]] — el reino de los cielos
 - [[padres_y_padre]] — el Padre que está en los cielos
 - [[obras]] — las obras de Cristo
 - [[pan]] — el pan venido del cielo
