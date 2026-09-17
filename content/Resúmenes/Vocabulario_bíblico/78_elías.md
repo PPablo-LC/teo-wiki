@@ -45,7 +45,7 @@ El hombre de Dios desaparece misteriosamente, arrebatado por «el torbellino», 
 
 #### El precursor.
 
-Al rapto corresponde un retorno escatológico: «He aquí que os envío al profeta Elías antes de que venga el [[día]] de Yahveh»; su obra, «volver el corazón de los padres hacia los hijos y el corazón de los hijos hacia sus padres» *Mal 3,23s*, será el último plazo fijado por Dios «para apagar la [[ira]] antes de que estalle» *Eclo 48,10*.
+Al rapto corresponde un retorno escatológico: «He aquí que os envío al profeta Elías antes de que venga el [[día_del_señor|día]] de Yahveh»; su obra, «volver el corazón de los padres hacia los hijos y el corazón de los hijos hacia sus padres» *Mal 3,23s*, será el último plazo fijado por Dios «para apagar la [[ira]] antes de que estalle» *Eclo 48,10*.
 
 ### NT
 

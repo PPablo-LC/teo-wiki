@@ -90,7 +90,7 @@ Esta fuente aporta una visión teológica, espiritual, filosófica y testimonial
 - [[gratitud]] y [[esperanza]] — «el hombre más afortunado del mundo» (Gehrig); «quien tiene esperanza vive de manera diferente» (Benedicto XVI)
 - [[cuerpo]] y [[unidad_alma_cuerpo]] — la fisicalidad concreta de la fe; el cuerpo como don (Barron; Goodwin; Hohenecker)
 - [[san_sebastián]], [[mike_piazza]], [[vin_scully]], [[lou_gehrig]], [[eunice_kennedy_shriver]] — las figuras del número
-- [[santo_tomás_de_aquino]], [[san_juan_de_la_cruz]], [[santa_teresa_de_ávila]], [[san_ignacio_de_loyola]], [[juan_pablo_ii]], [[benedicto_xvi]] — los maestros citados
+- [[santo_tomás_de_aquino]], [[san_juan_de_la_cruz]], [[santa_teresa_de_jesús]], [[san_ignacio_de_loyola]], [[juan_pablo_ii]], [[benedicto_xvi]] — los maestros citados
 
 ## Ver también
 

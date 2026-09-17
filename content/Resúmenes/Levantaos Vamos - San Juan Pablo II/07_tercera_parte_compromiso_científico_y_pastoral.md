@@ -13,7 +13,7 @@ tags: ["resumen", "levantaos vamos"]
 ## Conceptos básicos referenciados
 
 - [[fe_y_razón|fe y razón]] — conocimiento de Dios a través del mundo creado (Rom 1,20)
-- [[edith_stein|Edith Stein]] — copatrona de Europa, filósofa, mártir en Auschwitz
+- [[beata_edith_stein|Edith Stein]] — copatrona de Europa, filósofa, mártir en Auschwitz
 - [[catequesis|catequesis]] — nace del Evangelio y de la comprensión del lenguaje del hombre
 - [[caridad|caridad]] — «nueva fantasía de la caridad» (*Novo millennio ineunte*)
 
@@ -21,7 +21,7 @@ tags: ["resumen", "levantaos vamos"]
 
 **La facultad de Teología:** como obispo defendió contra el Estado comunista la facultad teológica de la Jagellónica; de aquella contienda nacieron la Pontificia de Teología y luego la Academia Pontificia. Reuniones con físicos sobre cosmología confirmaban Rom 1,20: del mundo creado se alcanza cierto conocimiento de Dios; promovió una pastoral específica para los hombres de ciencia (capellán: Stanisław Nagy).
 
-**El obispo y la cultura:** vale la pena que pastores e intelectuales mantengan relación personal. Su postura filosófica oscila entre el tomismo aristotélico y la fenomenología. Figura central: [[edith_stein|Edith Stein]], discípula de Husserl, judía convertida, carmelita, mártir en Auschwitz —beatificada y canonizada por él, copatrona de Europa junto a Brígida y Catalina—.
+**El obispo y la cultura:** vale la pena que pastores e intelectuales mantengan relación personal. Su postura filosófica oscila entre el tomismo aristotélico y la fenomenología. Figura central: [[beata_edith_stein|Edith Stein]], discípula de Husserl, judía convertida, carmelita, mártir en Auschwitz —beatificada y canonizada por él, copatrona de Europa junto a Brígida y Catalina—.
 
 **Los libros y el estudio:** el obispo necesita recogimiento y formación actualizada. Recuenta su itinerario intelectual en dos etapas: de lo literario (teatro, Sienkiewicz, Norwid) a la metafísica (manual de Wais, seminario clandestino) y de la metafísica a la fenomenología (tesis sobre Scheler, habilitación en 1953; enseñanza en Lublin desde 1954). En la lectura une fe, pensamiento y corazón: asombro ante el milagro de la persona.
 

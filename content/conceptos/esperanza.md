@@ -172,6 +172,22 @@ El número 6 de *Evangelization & Culture* está enteramente dedicado a la esper
 
 **La esperanza como entrega vocacional (21_spotlight_masters.md):** Fr. Burke Masters describe su transición de aspirante a ejecutivo de Grandes Ligas a sacerdote como un acto de esperanza: «la batalla continúa». La Adoración eucarística fue el espacio donde la esperanza se hizo concreta: no saber el futuro, pero confiar en quien lo tiene. El deporte enseña que «no ha terminado hasta que termina» (Yogi Berra), y la esperanza cristiana lleva esa verdad a la eternidad.
 
+### Según ¡El amor es más fuerte! (LC-2015)
+
+El P. Álvaro Corcuera presenta la esperanza como **ancla en la eternidad que sostiene la vida presente**:
+
+- **Virtud teologal central**: junto con fe y caridad, «creemos en Dios, esperamos en Él, y a Él lo amamos... tienen al mismo Dios como objeto» (cap. 11, §69).
+- **Gratitud y memoria**: «considerar más a menudo cómo, en los sucesos de nuestra vida, el Señor nos ha protegido, guiado, ayudado y así alabarlo por todo lo que ha hecho por nosotros... Esta atención, que se convierte en gratitud, es muy importante para nosotros y nos crea un recuerdo del bien que nos ayuda también en las horas de oscuridad» (Benedicto XVI, Audiencia 12 oct 2011; cap. 11, §75).
+- **Cruz y esperanza**: «las dificultades y tristezas... tienden a quitarnos la paz y la alegría. Pero la esperanza nos transmite una fuerza capaz de afrontar esos momentos como oportunidades de oro para unirnos más a Dios y para caminar con mayor decisión hacia el cielo» (cap. 11, §77).
+- **Santa Teresa**: «Quien a Dios tiene, nada le falta… Sólo Dios basta» (cap. 11, §77).
+- **Benedicto XVI**: «Donde está Dios, hay futuro, hay esperanza» (viaje a Alemania; cap. 11, §77).
+- **Consolar al triste**: «Sin esperanza, el dolor es insufrible. Pero gracias a la esperanza, podemos convertir el dolor en oración y en la oración hallamos consuelo» (cap. 10, §67).
+- **Alegría y esperanza**: «vuestra tristeza se volverá en gozo... nadie será capaz de quitaros vuestra alegría» (Jn 16, 20-22; cap. 10, §69). «La alegría es un signo distintivo del cristianismo... el vestido de la fe» (cap. 10, §69).
+- **Testimonio de los padres Rodríguez y Coady**: «los últimos momentos de sus vidas los dedicaron a consolar, animar, fortalecer y acompañar a los demás... el misterio maravilloso de la fuerza del amor que todo lo puede, que aguanta sin límites, soporta sin límites, se da sin límites» (1 Co 13, 7; cap. 10, §69).
+- **María**: «consuelo de los afligidos» (letanías lauretanas); la Salve «gimiendo y llorando en este valle de lágrimas» (cap. 10, §67).
+- **Legión y Regnum Christi**: «la esperanza bien puesta en el corazón... todas las pruebas, todo el camino y las dificultades nos parecen tan pocas en comparación con el abrazo eterno de Dios» (cap. 13, §57).
+- **Navidad**: «No temáis, pues os anuncio una gran alegría» (Lc 2, 10); «aunque en algunos momentos caminemos por cañadas oscuras, nada tememos, porque el Señor va con nosotros» (Sal 23; cap. 13, §§205, 231).
+
 ### Según Il senso religioso (SR)
 
 **La vida como promesa (cap. V).** Giussani, recogiendo la expresión de Cesare Pavese —«la vita promette»—, describe la esperanza como la estructura profunda de la conciencia: la vida se presenta como promesa de plenitud. Esperar es la postura de quien se fía de esa promesa inscrita en la realidad (SR, `12_capitolo_quinto.md`, §81-95).

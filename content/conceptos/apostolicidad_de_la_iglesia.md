@@ -25,8 +25,13 @@ Las columnas de la catedral son, en la carta de León XIV, «la imagen de los ap
 
 [[notas_de_la_iglesia]], [[apóstol]], [[sucesión_apostólica]], [[magisterio_de_la_iglesia]], [[depósito_de_la_fe]]
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC entiende la apostolicidad como la nota que indica «la capacità della Chiesa di affrontare in modo organicamente unitario il tempo» — su dimensión histórica (Parte IV, §4): Cristo ligó su obra y presencia a los apóstoles, indicando a uno de ellos como punto de referencia autoritativo, y la Iglesia está ligada a los sucesores de Pedro y de los apóstoles. La sucesión, «storicamente documentabile per il vescovo di Roma», es unitaria e ininterrumpida: Ireneo (Contro le eresie III,3,1-2) la enumera meticulosamente y concluye que en Roma, «come in un ricco tesoro», los apóstoles amasaron todo lo que concierne a la Verdad. El valor de esta sucesión es el de un milagro dentro del fenómeno Iglesia: «la resistenza costruttiva nel tempo... è, nella dimensione storica della Chiesa, il miracolo più grande», que radica en la historia las palabras de Jesús «se uno osserva la mia parola, non conoscerà mai la morte» (Gv 8,51). La apostolicidad no es solo conservación del pasado: es «sfida all'avvenire», fruto de la asistencia del Espíritu a la comunidad del Suo Señor.
+
 ## Referencias
 
 - CEC 857–860
 - LG 18–27
 - [CIS, «La catedral interior del sacerdote», 2026]
+- PLDC, `06_parte_quarta_la_verifica_della_presenza_del_divino_nella_vit.md` (§4 Apostolicidad; Ireneo)

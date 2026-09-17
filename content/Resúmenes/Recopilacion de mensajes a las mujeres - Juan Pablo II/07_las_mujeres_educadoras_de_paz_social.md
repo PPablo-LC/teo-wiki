@@ -27,7 +27,7 @@ Sin embargo, este reconocimiento no debe disminuir su función insustituible den
 
 El Papa lamenta el dramático crecimiento de todo tipo de violencia, en la que mujeres y niños son víctimas frecuentes. Pide que se haga lo posible por alejar no sólo la tragedia de la guerra, sino también toda violación de los [[derechos_humanos]], a partir del derecho a la vida desde la concepción. En la violación del derecho a la vida está contenida en germen la extrema violencia de la guerra. Hace un llamamiento a las mujeres para que se unan siempre en favor de la vida.
 
-Cita a [[san_juan_XXIII]] que vio en la participación de las mujeres en la vida pública uno de los signos de nuestro tiempo. Las mujeres tienen el derecho de exigir que se respete su dignidad y el deber de trabajar por la promoción de la dignidad de todas las personas. El Papa hace votos para que las iniciativas internacionales de 1995, incluida la Conferencia de Pekín, constituyan una ocasión importante para humanizar las relaciones interpersonales y sociales en el signo de la paz.
+Cita a [[san_juan_xxiii]] que vio en la participación de las mujeres en la vida pública uno de los signos de nuestro tiempo. Las mujeres tienen el derecho de exigir que se respete su dignidad y el deber de trabajar por la promoción de la dignidad de todas las personas. El Papa hace votos para que las iniciativas internacionales de 1995, incluida la Conferencia de Pekín, constituyan una ocasión importante para humanizar las relaciones interpersonales y sociales en el signo de la paz.
 
 ## Mapa del archivo fuente
 

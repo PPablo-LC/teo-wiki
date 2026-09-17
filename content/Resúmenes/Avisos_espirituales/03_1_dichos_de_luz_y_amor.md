@@ -68,7 +68,7 @@ El autor declara que, careciendo de la obra y virtud que sus dichos enseñan, lo
 
 **Sobre la naturaleza y la gracia (§43):** «Tu carne es flaca»; nada del mundo puede dar fortaleza al espíritu; «lo que nace del mundo, mundo es, y lo que nace de la carne, carne es; y el buen espíritu sólo nace del espíritu de Dios» ([[naturaleza_y_gracia]]).
 
-**Sobre la razón (§44-46):** Entrar en cuenta con la razón en el camino de Dios vale más que todas las obras sin esa advertencia y todos los sabores espirituales. Bienaventurado quien, dejado su gusto, mira las cosas «en razón y justicia» ([[virtud_cardinal_prudencia]]). El que obra por razón come sustancia; el que se mueve por el gusto de su voluntad come fruta floja ([[acto_humano]]).
+**Sobre la razón (§44-46):** Entrar en cuenta con la razón en el camino de Dios vale más que todas las obras sin esa advertencia y todos los sabores espirituales. Bienaventurado quien, dejado su gusto, mira las cosas «en razón y justicia» ([[virtud_de_la_prudencia]]). El que obra por razón come sustancia; el que se mueve por el gusto de su voluntad come fruta floja ([[acto_humano]]).
 
 **Sobre la misericordia y la justicia divina (§47-48):** Dios vuelve con alegría y amor a levantar al que le ofende, y el hombre no vuelve a honrar al que le enoja ([[misericordia_de_dios]]). Si una centella de la justicia divina tanto hace en el príncipe mortal, «¿qué hará tu omnipotente justicia sobre el justo y el pecador?» ([[justicia_divina]]).
 

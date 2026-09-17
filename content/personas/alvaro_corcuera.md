@@ -3,13 +3,13 @@ type: Persona
 title: "Álvaro Corcuera"
 description: "Director General de los Legionarios de Cristo 2005-2014; dispensado del cargo por enfermedad; falleció en 2014."
 tags: [espiritualidad_legionaria, historia_—_iglesia, vida_consagrada]
-timestamp: 2026-06-28
+timestamp: 2026-09-17
 ---
 
 # P. Álvaro Corcuera, L.C.
 
 > Área: Espiritualidad legionaria — Historia de la LC
-> Última actualización: 2026-06-28
+> Última actualización: 2026-09-17
 
 ## Datos biográficos
 
@@ -44,6 +44,22 @@ El Card. De Paolis le dedicó la homilía del 5 de julio de 2014 (`04_segunda_pa
 ### Según el Comunicado del Capítulo General 2020 (CapGral-2020)
 
 El Comunicado del IV Capítulo General ordinario (2020) reconoce el sacrificio personal del P. Corcuera durante el proceso de renovación. Su disposición a aceptar la dispensa del gobierno es presentada como un acto de obediencia eclesial y de servicio a la Congregación.
+
+### Según la Antología "¡El amor es más fuerte!" (LC-2015)
+
+La antología póstuma (2015) recopila 13 capítulos de escritos y conferencias del P. Corcuera durante su período como Director General (2005-2014). Revela su perfil espiritual:
+
+- **Cristocentrismo radical**: «No anteponer nada a Cristo» como eje de la vida consagrada (Presentación, cap. 2).
+- **Eucaristía y oración como centro**: la vida eucarística intensa y la oración diaria como fundamento del apostolado (cap. 4, 7).
+- **María como modelo y madre**: devoción mariana en clave de fidelidad y maternidad espiritual (cap. 5).
+- **Amor apasionado a la Iglesia**: fidelidad al Papa, obispos, magisterio; celo por la unidad (cap. 6).
+- **Caridad como distintivo legionario**: la caridad fraterna como «arma» de la nueva evangelización (cap. 9, 12).
+- **Virtudes y votos vividos desde el amor**: humildad (columna fundamental), pureza de intención, pobreza, castidad, obediencia como respuesta de amor (cap. 11).
+- **Celo apostólico y gradualidad**: «rema mar adentro»; despertar, responder, acompañar (cap. 12).
+- **Identidad y legado**: «La Legión no es la Legión, sino la Legión de Cristo»; continuidad con los cofundadores (cap. 13).
+- **Santidad en la cruz**: enfermedad como participación en la cruz; «el bien no hace ruido» (P. Escribano).
+
+El P. Corcuera aparece como autor directo de todas las cartas y homilías citadas (véase documentos internos).
 
 ## Lección espiritual
 
@@ -86,3 +102,4 @@ El P. Corcuera es presentado en la Antología como ejemplo de:
 - **AntDp-2015**, `02_introduccion.md:69-83` (sobre su renuncia al ejercicio del gobierno); `04_segunda_parte.md:1500-1535` (homilía del Card. De Paolis en su memoria).
 - **CRPS-2020**, passim.
 - **CapGral-2020**, Comunicación final.
+- **LC-2015**, antología completa (13 capítulos, ~2969 líneas): presentada en `raw/Espritualidad_LC-raw/El amor es mas fuerte - Alvaro Corcuera LC/índice.md`.

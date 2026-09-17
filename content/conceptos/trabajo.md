@@ -65,6 +65,10 @@ Juan Pablo II describe su experiencia del trabajo manual en la cantera de Solvay
 
 La Vida de Jesús dedica una extensa reflexión al trabajo (Cap. II): Jesús trabajó materialmente como carpintero con san José. Al elegir para sí ese oficio, Cristo enriqueció el trabajo humano con una dignidad inigualable. El cristianismo ha cambiado totalmente la valoración del trabajo manual: desde que el Hijo de Dios aceptó inclinarse sobre el banco de trabajo junto al carpintero José, el cansancio físico ha dejado de ser considerado algo innoble. Jesús incorporó el trabajo a su obra de redención.
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC sitúa el trabajo dentro del mistero de la unidad eclesial (Parte IV, cap. 2, §1c): el trabajo es «il tentativo dell'uomo di investire di sé, del suo progetto, della sua idea, tempo e spazio»; después del pecado original la realidad es ambigua, pero en Cristo «storia e universo riprendono il loro vero significato» — y la comunidad cristiana prosigue esta redención. «Il lavoro è il riflesso ancora crepuscolare della liturgia sul cosmo intero»: colaboración al dilatarse del alba de la resurrección a todos los rapporti creativi del hombre con el tiempo y el espacio; es «prezzo che l'uomo paga alla sua redenzione», camino punteado de la documentación de la presencia de Dios. Además, el compromiso en los problemas que el tiempo plantea — donde el trabajo tiene su lugar — es «la prima forma di carità» en la historia en la que Dios se hizo carne (Parte III, cap. 2, §7); el trabajo figura entre las cuatro categorías de problemas humanos (con cultura, amor y política) en las que la Iglesia no da soluciones sino la condición religiosa óptima.
+
 ### Según la Regla de San Benito (RegSB)
 
 La RSB integra el trabajo manual como eje de la vida cenobítica, bajo el principio ora et labora.

@@ -16,7 +16,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[arrianismo]] — herejía que niega la consustancialidad del Hijo
 - [[sabelianismo]] — herejía que confunde las Personas divinas
 - [[triteísmo]] — error de afirmar tres dioses separados
-- [[consustancial]] — igualdad de sustancia entre las Personas divinas
+- [[consustancialidad]] — igualdad de sustancia entre las Personas divinas
 - [[encarnación]] — el Verbo se hizo hombre
 - [[creación]] — obra de Dios sobre el universo
 

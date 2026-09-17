@@ -27,6 +27,10 @@ El *fiat* es el acto de obediencia de la fe por excelencia. María responde con 
 
 [JPII, Redemptoris Mater §39]: Las palabras «he aquí la esclava del Señor» expresan que desde el principio María acogió y entendió la propia maternidad como donación total de sí, de su persona, al servicio de los designios salvíficos del Altísimo.
 
+### Giussani — Perché la Chiesa (PLDC)
+
+El último capítulo de PLDC («Se' di speranza fontana vivace») culmina en el *fiat* de Nazaret: «Il fiat di Maria è abbandono al Mistero, segna la giustizia perfetta di una creatura di fronte al suo Creatore, riconoscimento di una Presenza più grande di sé: è la fede». Giussani subraya su medida humana: «Questo enorme gesto, senza del quale tutta la storia dell'universo sarebbe cambiata, era come un soffio! *Fiat*, il soffio della libertà» — la libertad como capacidad de adherirse al Ser. La fede es «aquella fuerza llena de atención con la que el alma se adhiere al signo de que Dios se ha servido y permanece fiel a este signo a pesar de todo» — tras el «E l'angelo se ne partì da lei»: la soledad de la muchacha sin evidencia comúnmente humana, sostenida solo por la lealtad con el recuerdo. La prefación de 2003 lo hace criterio de todo el PerCorso: «Dio rimane un qualcosa di incomprensibile... se non si introduce la figura della Madonna, scelta da Dio stesso per farsi da noi riconoscere, metodo del Suo comunicarsi all'uomo attraverso il 'caldo' del suo grembo» — sin la Madonna no se entiende el sentido religioso, ni la pretensión cristiana, ni la Iglesia.
+
 ## Distinciones importantes
 
 - El *fiat* no es un acto pasivo sino activo: María coopera libremente

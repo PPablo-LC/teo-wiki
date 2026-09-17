@@ -12,10 +12,10 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[Edith_Stein]] — carmelita y mártir del siglo XX, beatificada por [[juan_pablo_ii]]
+- [[beata_edith_stein]] — carmelita y mártir del siglo XX, beatificada por [[juan_pablo_ii]]
 - [[martirio]] — sacrificio de Edith Stein como grito y servicio a la paz
 - [[dignidad_de_la_mujer]] — contribución a la promoción de la mujer y la femineidad
-- [[mística_carmelitana]] — tras los pasos de [[santa_Teresa_de_Avila]]
+- [[mística_carmelitana]] — tras los pasos de [[santa_teresa_de_jesús]]
 - [[sabiduría_de_la_cruz]] — escuela de solidaridad con los sufrimientos de los hermanos
 - [[diálogo_interreligioso]] — armonía y paz entre creyentes de diversas religiones
 
@@ -25,9 +25,9 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 #### (Angelus 26-02-1995)
 
-Entre las mujeres que han servido a la causa de la paz, el Papa recuerda hoy a una mártir de nuestro siglo, a la que él mismo tuvo la alegría de elevar al honor de los altares en 1987: la carmelita [[Edith_Stein]].
+Entre las mujeres que han servido a la causa de la paz, el Papa recuerda hoy a una mártir de nuestro siglo, a la que él mismo tuvo la alegría de elevar al honor de los altares en 1987: la carmelita [[beata_edith_stein]].
 
-Fue asesinada en el campo de concentración de Auschwitz. De familia judía y educada en sus tradiciones, la opción por el Evangelio, a la que llegó tras una ardua búsqueda, no significó el rechazo de sus raíces. Cristo, a quien conoció siguiendo los pasos de [[santa_Teresa_de_Avila]], la ayudó a leer la historia de su pueblo de modo más profundo. Con la mirada fija en el Redentor, aprendió la [[sabiduría_de_la_cruz]], que le permitió practicar una nueva solidaridad con los sufrimientos de sus hermanos.
+Fue asesinada en el campo de concentración de Auschwitz. De familia judía y educada en sus tradiciones, la opción por el Evangelio, a la que llegó tras una ardua búsqueda, no significó el rechazo de sus raíces. Cristo, a quien conoció siguiendo los pasos de [[santa_teresa_de_jesús]], la ayudó a leer la historia de su pueblo de modo más profundo. Con la mirada fija en el Redentor, aprendió la [[sabiduría_de_la_cruz]], que le permitió practicar una nueva solidaridad con los sufrimientos de sus hermanos.
 
 Unirse al dolor del Dios hecho hombre, ofreciendo la vida por su gente, llegó a ser su mayor aspiración. A su sacrificio, el Papa lo denomina un grito de paz, un servicio a la paz.
 

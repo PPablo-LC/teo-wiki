@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[obra|obras]] — Dios paga a cada uno según sus obras
+- [[mérito]] — Dios paga a cada uno según sus obras
 - [[juicio]] — ser retribuido es pasar al juicio de Dios
 - [[visita]] — la retribución como resultado de una visita de Dios
 - [[pobres]] — el hombre es pobre y mendigo delante de Dios
@@ -46,11 +46,11 @@ El hombre hace de la retribución una cuestión de justicia: toda actividad mere
 
 ### Retribución y salario.
 
-La retribución es un dato básico de la vida religiosa, enraizada en la experiencia de la relación entre amo y servidor, pero la desborda infinitamente, pues quien la funda es Dios. Se expresa con palabras que designan el «salario», pero no se reduce al salario debido a un trabajo: éste es efecto de un contrato, al paso que la retribución es el resultado de una [[visita]] de Dios, que sanciona con un juicio la [[obra|obra]] de su servidor.
+La retribución es un dato básico de la vida religiosa, enraizada en la experiencia de la relación entre amo y servidor, pero la desborda infinitamente, pues quien la funda es Dios. Se expresa con palabras que designan el «salario», pero no se reduce al salario debido a un trabajo: éste es efecto de un contrato, al paso que la retribución es el resultado de una [[visita]] de Dios, que sanciona con un juicio la obra de su servidor.
 
 Desde los orígenes está el hombre en la tierra a fin de trabajar para Dios *Gen 2,15* *Mt 20,1-15*, y este trabajo comporta un salario *Job 7,1s*. Dios es un amo equitativo: no puede menos de dar a cada uno lo que le corresponde. Por otra parte, el hombre delante de Dios es el [[pobres|pobre]], el mendigo, el [[servir|servidor]], ya que no el [[esclavo]], que no tiene nada sino lo que el amo le otorga día tras día. La retribución aparece no como el objetivo de la vida religiosa, sino como un fruto normal del servicio de Dios.
 
-Por eso promete Dios un salario a Abraham *Gen 15,1*; y este «salario en proporción con el trabajo» reaparece en las últimas líneas de la Biblia *Ap 22,12*. Entre los dos repite la Escritura que Dios paga a cada uno según sus [[obra|obras]] *Prov 12,14* *Jer 31,16* *Sal 28,4* *Job 34,11* *Rom 2,6*, paga que corresponde sólo a Dios *Dt 32,35* *Rom 12,17-20*. Lo propio del [[impío]] es negar la retribución *Sab 2,22*; la fe en Dios que «paga un salario a los que le buscan» es el complemento indispensable de la fe en su existencia *Heb 11,6*. El que rehúsa la tarea se ve privado del salario, despojado del derecho a existir delante de Dios. Ser retribuido es pasar al [[juicio]] de Dios, recibir recompensa o castigo: alternativa que significa la opción entre la vida y la muerte. Este juicio rebasa el juicio del hombre, pues sólo Dios sondea los riñones y los corazones, en el misterio de su [[misericordia]] y su [[ira]], su [[fidelidad]], su [[justicia]] y su [[amor]].
+Por eso promete Dios un salario a Abraham *Gen 15,1*; y este «salario en proporción con el trabajo» reaparece en las últimas líneas de la Biblia *Ap 22,12*. Entre los dos repite la Escritura que Dios paga a cada uno según sus obras *Prov 12,14* *Jer 31,16* *Sal 28,4* *Job 34,11* *Rom 2,6*, paga que corresponde sólo a Dios *Dt 32,35* *Rom 12,17-20*. Lo propio del [[impío]] es negar la retribución *Sab 2,22*; la fe en Dios que «paga un salario a los que le buscan» es el complemento indispensable de la fe en su existencia *Heb 11,6*. El que rehúsa la tarea se ve privado del salario, despojado del derecho a existir delante de Dios. Ser retribuido es pasar al [[juicio]] de Dios, recibir recompensa o castigo: alternativa que significa la opción entre la vida y la muerte. Este juicio rebasa el juicio del hombre, pues sólo Dios sondea los riñones y los corazones, en el misterio de su [[misericordia]] y su [[ira]], su [[fidelidad]], su [[justicia]] y su [[amor]].
 
 ### Las etapas de la revelación.
 
@@ -78,7 +78,7 @@ En una última etapa, la fe en la [[resurrección]] personal da la solución. Di
 
 #### Mantenimiento de la retribución individual.
 
-Jesús y sus apóstoles mantienen firmemente la auténtica tradición de Israel *Mt 22,31s* *25,31-46* *1Cor 15,13-19*. Dios pagará un salario por las [[obra|obras]] *Mt 16,27*; el combate de la carrera se emprende para alcanzar el premio *1Cor 9,24-27* *2Tim 4,7*. La prueba última de la retribución perfecta es que Jesús ha resucitado *Act 3,14ss* *Col 2,12s*.
+Jesús y sus apóstoles mantienen firmemente la auténtica tradición de Israel *Mt 22,31s* *25,31-46* *1Cor 15,13-19*. Dios pagará un salario por las obras *Mt 16,27*; el combate de la carrera se emprende para alcanzar el premio *1Cor 9,24-27* *2Tim 4,7*. La prueba última de la retribución perfecta es que Jesús ha resucitado *Act 3,14ss* *Col 2,12s*.
 
 #### El peligro farisaico.
 

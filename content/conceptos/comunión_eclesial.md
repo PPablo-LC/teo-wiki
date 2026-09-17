@@ -78,6 +78,10 @@ La comunión eclesial es el fundamento de la [[sucesión_apostólica]] y de la c
 
 [[comunión]], [[comunión_de_los_santos]], [[iglesia]], [[cuerpo_místico]], [[pueblo_de_dios]]
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC reconstruye la *koinonia* como tercer factor constitutivo del fenómeno cristiano (Parte II, cap. 2, §3), en seis connotaciones acumuladas: (a) **ética** — la «vita diversa» de la comunión de los bienes, vivida en libertad y alegría («Il Signore ama chi dà con gioia», 2 Cor 9,7); el sacrificio hecho con coacción genera mentira: Ananías y Safira (At 5) no fueron castigados por dar la mitad sino por mentir; (b) **institucional** — el gesto de la «derecha» de comunión de Giacomo, Cefa e Giovanni (Gal 2,9); *koinonia* y *communio* sinónimos de *ecclesia*: la unidad social orgánica; (c) **ritual** — la fracción del pan como signo supremo de la unidad; las «lettere di comunione» como pasaporte de la *communio* (de aquí el sentido original de «scomunica»); (d) **jerárquica** — los *episkopoi* como funciones que el Señor ha querido en el cuerpo; (e) **misionera** — el fervor comunicativo pertenece a la experiencia del amor: «la Chiesa è il corpo della carità sulla terra... Nessun focolare chiuso potrebbe illudersi di conservare in sé il suo calore» (de Lubac); la comunicación de una certeza es ayuda, no violencia; (f) **moral** — la moralidad como dinamismo de camino: la comunidad de «santi» hecha de pecadores en movimiento hacia la meta (Fp 3,12-14).
+
 ## Referencias
 
 - CEC §787-795, 815-816, 946-953

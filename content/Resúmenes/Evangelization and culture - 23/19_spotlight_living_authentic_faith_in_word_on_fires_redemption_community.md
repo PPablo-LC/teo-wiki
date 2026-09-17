@@ -20,7 +20,7 @@ tags: ["resumen", "evangelization and culture - 23"]
 - [[pobreza_de_espíritu]] — actitud de quien reconoce su necesidad de Cristo
 - [[sacramento_de_la_reconciliación]] — espacio de encuentro con la misericordia divina
 - [[tres_trascendentales]] — belleza, bondad y verdad como horizonte de la vida cristiana
-- [[beatitudes]] — modelo de vida cristiana y fuente de bendición para los demás
+- [[bienaventuranzas]] — modelo de vida cristiana y fuente de bendición para los demás
 - [[parábola_del_hijo_pródigo]] — eje de la reflexión sobre la misericordia
 
 ## Contenido
@@ -39,7 +39,7 @@ De 125 solicitudes, se seleccionaron **once participantes** (edades 25–65) med
 
 ### Temas y reflexiones
 
-Los temas abarcan las [[beatitudes]], la [[cruz]], la parábola del rico y la vida de San Pablo. Ocampo cita a San Agustín: «En mi herida más profunda vi tu gloria, y me deslumbró». La comunidad ofrece un espacio para conversaciones reales y crudas, enfatizando que las heridas pueden ser ocasión para Cristo.
+Los temas abarcan las [[bienaventuranzas]], la [[cruz]], la parábola del rico y la vida de San Pablo. Ocampo cita a San Agustín: «En mi herida más profunda vi tu gloria, y me deslumbró». La comunidad ofrece un espacio para conversaciones reales y crudas, enfatizando que las heridas pueden ser ocasión para Cristo.
 
 ### Génesis, fraternidad y misericordia
 
@@ -50,7 +50,7 @@ Los participantes presentan sus heridas ante Cristo y se define que **no somos l
 Los tres objetivos derivan de la exhortación de Bishop Barron a liderar con belleza, bondad y verdad — los [[tres_trascendentales]]:
 1. **Ver de una manera más auténtica** — una nueva visión de la vida.
 2. **Vivir una vida más plena y hermosa** — siguiendo el ejemplo de los santos.
-3. **Bendecir a otros con el bien recibido** — las [[beatitudes]] como patrón de discipulado.
+3. **Bendecir a otros con el bien recibido** — las [[bienaventuranzas]] como patrón de discipulado.
 
 El programa ha generado un impacto profundo: la respuesta de misericordia ante los hermanos que luchan, la conversión de participantes y la educación de Ocampo a pedir a Cristo «más profundamente». Concluye con la certeza de que «el mayor pecador es digno de una conversión más luminosa que la propia».
 

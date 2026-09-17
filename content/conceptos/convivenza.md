@@ -27,6 +27,10 @@ La convivenza tiene también una dimensión eclesial: la compañía es el lugar 
 
 ODPC 08 (cap. 4, §2a): «Condivisone e convivenza» como primer riel de método: en el Evangelio entendieron los que lo siguieron, no la multitud. ODPC 09 (cap. 5, §1): la trayectoria de la convicción desde Cana; «e i suoi discepoli credettero in lui» repetido; von Balthasar: en la medida en que el hombre realiza lo que este hombre expresa, experimenta que debe creerle para comprenderlo. ODPC 09 (§3): la certeza moral como «culla di un'esistenza ragionevole», nacida de la disponibilidad fiel en el tiempo; el balenar del excepcional ante la multitud curiosa no genera juicio alguno.
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC eleva la convivenza a condición de la eclesiología: «La Chiesa non solo è espressione di vita... ma è una vita», y «conditio sine qua non per l'intelligenza della vita è la convivenza con essa» (Parte I, cap. 1): quien quiera verificar una propia opinión sobre la Iglesia debe aceptar un tiempo no calculable de convivencia con esa vida. La convivenza fundamenta también el método del *testigo* (Parte II, cap. 2): la metáfora semítica de la verdad como roca («amen» = estabilidad) indica que el hombre está más persuadido por lo que oye — la totalidad de una persona apoyada en el «tú» de otro (S. Tomás, SCG III,40) — que por lo que ve por sí mismo; la comunidad primitiva se entendió como el lugar de una «convivenza sicura» donde la solidez de la roca bíblica se hace espacio para la reconstrucción del hombre. Finalmente, la convivenza es el criterio de la verificación de la Iglesia (Parte IV): «si tratta innanzitutto di convivere con la vita della Chiesa là dove essa è vissuta autenticamente», y la Iglesia proclama los santos precisamente como indicaciones de cómo sea posible vivir seriamente la propuesta con los más diferentes temperamentos.
+
 ## Distinciones importantes
 
 - **Convivenza vs. curiosidad**: la multitud que va a ver prodigios toca el fenómeno tangencialmente y no genera juicio; el juicio exige la «durata» de la experiencia compartida.

@@ -19,7 +19,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 - [[eucaristía]] — Referencia a Cristo como "pan nuestro de cada día"
 - [[pasión_de_cristo]] — Mención de la Pasión como fuente de perdón
 - [[caridad]] — Amor a Dios y al prójimo como centro de la vida cristiana
-- [[pobreza_espiritual]] — Renuncia a los bienes terrenos
+- [[pobreza_de_espíritu]] — Renuncia a los bienes terrenos
 - [[santos]] — Invocación de la corte celestial en las alabanzas
 
 ## Contenido

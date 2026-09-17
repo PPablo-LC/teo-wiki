@@ -15,7 +15,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 - [[consejos_evangélicos]]
 - [[pobreza_religiosa]]
 - [[castidad_religiosa]]
-- [[voto_proprio]]
+- [[voto_privado]]
 
 ## Contenido
 
@@ -51,7 +51,7 @@ Los legionarios traten con naturalidad y madurez a todas las personas. En el tra
 
 **Voto propio y votaciones (CLC 37):**
 
-El [[voto_proprio]] se aplica también al realizar votaciones para el Capítulo General o asambleas territoriales, y en consultas sobre nombramientos de superiores. No se falta al voto cuando se responde a una consulta con sinceridad de modo personal, ni cuando se pide discretamente información sobre candidatos.
+El [[voto_privado]] se aplica también al realizar votaciones para el Capítulo General o asambleas territoriales, y en consultas sobre nombramientos de superiores. No se falta al voto cuando se responde a una consulta con sinceridad de modo personal, ni cuando se pide discretamente información sobre candidatos.
 
 ## Secciones incluidas
 

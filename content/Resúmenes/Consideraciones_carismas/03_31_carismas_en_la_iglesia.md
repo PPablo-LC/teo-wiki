@@ -12,14 +12,14 @@ tags: ["resumen", "consideraciones carismas"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[carismas_del_espíritu_santo]] — dones especiales que el Espíritu distribuye «como él quiere» para el bien de la comunidad
+- [[carismas]] — dones especiales que el Espíritu distribuye «como él quiere» para el bien de la comunidad
 - [[gracia_santificante]] — gracia que constituye la vida sobrenatural, con las virtudes teologales y dones del Espíritu
 - [[virtudes_teorales]] — fe, esperanza y caridad, dones sobrenaturales del alma
 - [[virtudes_adquiridas]] — virtudes alcanzadas con la gracia actual de Dios
 - [[virtudes_infusas]] — virtudes dadas directamente por Dios junto con la gracia
 - [[cuerpo_místico_de_cristo]] — la Iglesia como cuerpo del que Cristo es cabeza
 - [[lumen_gentium]] — Constitución Dogmática del Concilio Vaticano II sobre la Iglesia
-- [[juvenesccit_ecclesia]] — Carta de la Congregación para la Doctrina de la Fe sobre dones jerárquicos y carismáticos
+- [[iuvenescit_ecclesia]] — Carta de la Congregación para la Doctrina de la Fe sobre dones jerárquicos y carismáticos
 - [[nueva_evangelización]] — tarea de re-evangelizar culturas y personas que perdieron la fe
 
 ## Contenido
@@ -36,4 +36,4 @@ San Pablo enseña magistralmente sobre los carismas en 1 Cor 12-14: fe, curació
 
 ### Doctrina postconciliar
 
-San Juan Pablo II explicó que los dones del Espíritu pertenecen a la vida ordinaria de la Iglesia y están orientados al servicio a los demás, no principalmente a la santificación personal. Según Ratzinger, «el Espíritu Santo ha pedido de nuevo la palabra» en la era postconciliar. La llamada del Papa Francisco a ser Iglesia «en salida» requiere releer la vida cristiana en clave misionera, reconociendo y apreciando los carismas para alimentar la fe del Pueblo de Dios ([[juvenesccit_ecclesia]] 1). El Concilio enseña que de la recepción de los carismas surge el derecho y la obligación de ejercitarlos para bien de los hombres y edificación de la Iglesia ([[Apostolicam_Actuositatem]] 30).
+San Juan Pablo II explicó que los dones del Espíritu pertenecen a la vida ordinaria de la Iglesia y están orientados al servicio a los demás, no principalmente a la santificación personal. Según Ratzinger, «el Espíritu Santo ha pedido de nuevo la palabra» en la era postconciliar. La llamada del Papa Francisco a ser Iglesia «en salida» requiere releer la vida cristiana en clave misionera, reconociendo y apreciando los carismas para alimentar la fe del Pueblo de Dios ([[iuvenescit_ecclesia]] 1). El Concilio enseña que de la recepción de los carismas surge el derecho y la obligación de ejercitarlos para bien de los hombres y edificación de la Iglesia ([[Apostolicam_Actuositatem]] 30).

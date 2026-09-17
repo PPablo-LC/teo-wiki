@@ -15,7 +15,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[bautismo_de_los_herejes]] — controversia sobre la validez del bautismo administrado por herejes
 - [[donatismo]] — herejía que cuestionaba la validez de los sacramentos
 - [[símbolo_niceno]] — credo definido en el Primer Concilio de Nicea (325)
-- [[consustancial]] — igualdad de sustancia entre las Personas divinas
+- [[consustancialidad]] — igualdad de sustancia entre las Personas divinas
 - [[arrianismo]] — herejía que niega la consustancialidad del Hijo
 - [[viático]] — Eucaristía administrada al moribundo
 - [[bautismo]] — sacramento de iniciación cristiana
@@ -48,4 +48,4 @@ Versión de Hilario de Poitiers: misma fórmula con la adición de la traducció
 
 ## SAN SILVESTRE I, 314-335 — PRIMER CONCILIO DE ARLES, 314
 
-Dos documentos fundamentales: (1) Cánones del Concilio de Arles (314) contra los [[donatismo|donatistas]], sobre el [[bautismo_de_los_herejes]] y el [[viático]]; (2) El [[símbolo_niceno]] en sus dos versiones (griega y latina de Hilario de Poitiers), que define la [[consustancial]] del Hijo con el Padre y condena el [[arrianismo]].
+Dos documentos fundamentales: (1) Cánones del Concilio de Arles (314) contra los [[donatismo|donatistas]], sobre el [[bautismo_de_los_herejes]] y el [[viático]]; (2) El [[símbolo_niceno]] en sus dos versiones (griega y latina de Hilario de Poitiers), que define la [[consustancialidad]] del Hijo con el Padre y condena el [[arrianismo]].

@@ -15,7 +15,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[educacion_para_la_paz]] — misión de la mujer como testigo, mensajera y maestra de paz
 - [[dignidad_de_la_persona]] — fundamento de la convivencia humana ordenada
 - [[paz]] — objetivo que requiere el reconocimiento de la dignidad de cada persona
-- [[Pacem_in_terriss]] — Encíclica de [[san_juan_XXIII]] sobre los fundamentos de la paz
+- [[Pacem_in_terriss]] — Encíclica de [[san_juan_xxiii]] sobre los fundamentos de la paz
 
 ## Contenido
 

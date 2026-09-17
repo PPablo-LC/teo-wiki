@@ -69,11 +69,11 @@ El abad no debe amar a uno más que a otro por motivos terrenos, sino por las bu
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[humildad]] pastoral, la [[obediencia]] religiosa, la [[autoridad_religiosa]], la [[correccion_fraterna]], el [[gobierno_religioso]], el [[pastor]] y la [[responsabilidad_pastoral]].
+Se relaciona con la [[humildad]] pastoral, la [[obediencia]] religiosa, la [[autoridad_religiosa]], la [[correccion_fraterna]], el [[gobierno_religioso]], el [[buen_pastor]] y la [[responsabilidad_pastoral]].
 
 ## Ver también
 
-[[humildad]], [[obediencia]], [[correccion_fraterna]], [[autoridad_religiosa]], [[gobierno_religioso]], [[vida_monastica]], [[pastor]]
+[[humildad]], [[obediencia]], [[correccion_fraterna]], [[autoridad_religiosa]], [[gobierno_religioso]], [[vida_monastica]], [[buen_pastor]]
 
 ## Referencias
 

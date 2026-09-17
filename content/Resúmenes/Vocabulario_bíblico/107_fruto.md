@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[fecundidad]] — el fruto del vientre en sentido propio
-- [[mieses]] — Dios recoge los frutos que deben manifestar su gloria
+- [[juicio]] — Dios recoge los frutos que deben manifestar su gloria
 - [[sembrar]] — la semilla de vida puesta en todo ser
 - [[viña]] — Dios exige frutos a su viña
 - [[obras]] — reconocer la obra de Dios a través de la propia obra
@@ -35,7 +35,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-La palabra fruto, ya signifique en sentido propio la [[fecundidad|fecundidad]] (p. ej., el fruto del vientre: *Lc 1,42*), o en sentido figurado el resultado obtenido (p. ej., el fruto de las acciones: *Jer 17,10*), designa lo que es producido por un ser vivo, más precisamente por una criatura, pues si Dios planta y siembra como un hombre, no por eso se dice que lleva frutos: Dios recoge ([[mieses|mies]]) los frutos que deben manifestar su gloria.
+La palabra fruto, ya signifique en sentido propio la [[fecundidad|fecundidad]] (p. ej., el fruto del vientre: *Lc 1,42*), o en sentido figurado el resultado obtenido (p. ej., el fruto de las acciones: *Jer 17,10*), designa lo que es producido por un ser vivo, más precisamente por una criatura, pues si Dios planta y siembra como un hombre, no por eso se dice que lleva frutos: Dios recoge los frutos que deben manifestar su gloria.
 
 ### I. EL DEBER DE FRUCTIFICAR
 

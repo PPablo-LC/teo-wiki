@@ -25,6 +25,10 @@ El laicismo es la ideología que pretende excluir a Dios y a la Iglesia de la vi
 
 **San Pío X** — Encíclica *Vehementer nos* (1906, D‑1995): Condenó la ley francesa de separación de la Iglesia y el Estado por ultrajar a Dios, violar el derecho natural y oponerse a la constitución divina de la Iglesia.
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC traza la genealogía histórica del laicismo como fruto de la disarticulación de la mentalidad religiosa medieval (Parte I, cap. 3): Umanesimo (fragmentación del ideal único; la Fama y la Fortuna como sustitutos de Dios), Rinascimento (la *natura* panteística como fuente de la energía humana: naturalismo), razionalismo (la razón *norma sui* y *norma universi*), hasta el scientismo y el mito del progreso. «Questa mentalità derivata dal razionalismo... si chiama *laicismo*»: un Dios que acepta mantenerse aparte de las vicisitudes humanas no es el Dios del mensaje cristiano — el laicismo es, implícitamente, ateísmo. Su símbolo es el «confino di polizia della religione»: la religión admitida solo en un lugar apartado de la vida social; pero «un Dio perciò confinato al luogo di culto o alla sacrestia è quel Dio inutile dell'antica tentazione» (Gn 3,5: «sarete come Dio» — no «Dio non c'è», sino «Dio è inutile all'uomo»), y «dell'uomo senza Dio, non ha più misura».
+
 ## Relaciones doctrinales
 
 El laicismo se opone al [[reinado_social_de_cristo]] y a la doctrina sobre las [[relaciones_iglesia_estado]]. Se relaciona con el [[naturalismo]], el [[indiferentismo]], la [[masonería]] y el [[liberalismo]].

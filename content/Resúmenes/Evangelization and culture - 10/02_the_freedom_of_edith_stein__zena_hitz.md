@@ -22,6 +22,6 @@ tags: ["resumen", "evangelization and culture - 10"]
 
 Zena Hitz narra el itinerario de Edith Stein como búsqueda de una libertad más profunda que la liberal. Stein — mujer judía, discípula de Husserl, doctora en filosofía, activista feminista — alcanzó todas las libertades que su época podía ofrecer y las halló insuficientes.
 
-Su conversión al catolicismo llegó vía la autobiografía de [[santa_teresa_de_ávila]]; ingresó en el Carmelo y adoptó el nombre de Teresa Benedicta de la Cruz. Cuando los nazis arrestaron a las conversas tras la carta pastoral de los obispos holandeses (1942), no buscó escapar: «Vamos, vamos por nuestro pueblo» — murmuradas al salir hacia Auschwitz, donde murió el 2 de agosto de 1942.
+Su conversión al catolicismo llegó vía la autobiografía de [[santa_teresa_de_jesús]]; ingresó en el Carmelo y adoptó el nombre de Teresa Benedicta de la Cruz. Cuando los nazis arrestaron a las conversas tras la carta pastoral de los obispos holandeses (1942), no buscó escapar: «Vamos, vamos por nuestro pueblo» — murmuradas al salir hacia Auschwitz, donde murió el 2 de agosto de 1942.
 
 Hitz lee este final a la luz de Rm 8,35-39: «¿Quién nos separará del amor de Cristo? Ni tribulación ni angustia… nada podrá separarnos del amor de Dios». La libertad cristiana de la renuncia total no es fuga del mundo sino entrega radical: Stein encontró la libertad suprema precisamente donde toda libertad externa había sido abolida.

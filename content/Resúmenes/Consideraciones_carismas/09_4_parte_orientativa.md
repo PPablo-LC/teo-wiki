@@ -12,7 +12,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[carismas_del_espíritu_santo]] — dones que deben servir a la unidad, no a la división
+- [[carismas]] — dones que deben servir a la unidad, no a la división
 - [[discernimiento_espiritual]] — proceso de distinguir la acción auténtica del Espíritu de engaños
 - [[obediencia_a_la_iglesia]] — sumisión a los pastores como criterio de autenticidad carismática
 - [[virtud_de_la_prudencia]] — virtud cardinal que guía el juicio de conciencia
@@ -20,7 +20,7 @@ tags: ["resumen", "consideraciones carismas"]
 - [[don_de_consejo]] — don del Espíritu para descubrir las inspiraciones divinas
 - [[lumen_gentium]] — Constitución sobre la Iglesia del Concilio Vaticano II
 - [[comunión_eclesial]] — unidad de los fieles entre sí y con los pastores
-- [[juvenesccit_ecclesia]] — Carta sobre dones jerárquicos y carismáticos
+- [[iuvenescit_ecclesia]] — Carta sobre dones jerárquicos y carismáticos
 - [[caridad]] — amor que edifica la Iglesia y da sentido a los carismas
 - [[fidelidad_creativa]] — adaptación del carisma a nuevas situaciones sin perder la identidad
 - [[encuentro_con_cristo]] — actividad propia del RC
@@ -47,7 +47,7 @@ San Juan de la Cruz recomienda no centrar la vida espiritual en manifestaciones 
 3. **Armonía con la autoridad de la Iglesia** y aceptación de sus disposiciones (1 Co 14, 37). El auténtico carismático se reconoce por su docilidad sincera.
 4. **Edificación de la comunidad:** «Todo sea para edificación» (1 Co 14, 26).
 
-**Criterios de [[juvenesccit_ecclesia]]** (n. 18): primado de la vocación a la santidad; compromiso misionero; confesión de la fe católica; testimonio de comunión; respeto a la complementariedad; aceptación de pruebas en el discernimiento; frutos de caridad, alegría, humildad y paz; dimensión social de la evangelización.
+**Criterios de [[iuvenescit_ecclesia]]** (n. 18): primado de la vocación a la santidad; compromiso misionero; confesión de la fe católica; testimonio de comunión; respeto a la complementariedad; aceptación de pruebas en el discernimiento; frutos de caridad, alegría, humildad y paz; dimensión social de la evangelización.
 
 Un criterio clave: el don auténtico conduce y alimenta la [[comunión_eclesial]]; si aísla, separa de la comunidad o lleva a disputas, no es auténtico ([[Christifideles_Laici]] 20). La unidad ha de procurarse especialmente en la localidad del RC, donde interactúan miembros de distintas vocaciones.
 

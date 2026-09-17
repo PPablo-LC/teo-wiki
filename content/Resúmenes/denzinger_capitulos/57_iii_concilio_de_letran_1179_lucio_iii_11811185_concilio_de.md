@@ -18,7 +18,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[matrimonio]] — sacramento del matrimonio
 - [[sacramentos]] — doctrina de los sacramentos de la Iglesia
 - [[herejía]] — juicio de herejía de la Iglesia Romana y de los obispos
-- [[anatema]] — vínculo de perpetuo anatema a los herejes
+- [[excomunión|anatema]] — vínculo de perpetuo anatema a los herejes
 
 
 ## Contenido
@@ -27,7 +27,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 **De los sacramentos (contra los albigenses)** [Del Decreto *Ad abolendum* contra los herejes]:
 
-**D-402** A todos los que no temen sentir o enseñar de otro modo que como predica y observa la sacrosanta Iglesia Romana acerca del sacramento del cuerpo y de la sangre de nuestro Señor Jesucristo, del [[bautismo]], de la confesión de los pecados, del [[matrimonio]] o de los demás sacramentos de la Iglesia; y en general, a cuantos la misma Iglesia Romana o los obispos por sus diócesis con el consejo de sus clérigos, o los clérigos mismos, de estar vacante la sede, hubieren juzgado por herejes, se les liga con igual vínculo de perpetuo [[anatema]].
+**D-402** A todos los que no temen sentir o enseñar de otro modo que como predica y observa la sacrosanta Iglesia Romana acerca del sacramento del cuerpo y de la sangre de nuestro Señor Jesucristo, del [[bautismo]], de la confesión de los pecados, del [[matrimonio]] o de los demás sacramentos de la Iglesia; y en general, a cuantos la misma Iglesia Romana o los obispos por sus diócesis con el consejo de sus clérigos, o los clérigos mismos, de estar vacante la sede, hubieren juzgado por herejes, se les liga con igual vínculo de perpetuo [[excomunión|anatema]].
 
 
 ## Secciones incluidas

@@ -64,6 +64,20 @@ La fidelidad de Cristo alcanza en la Cruz su máxima expresión, por lo que «se
 
 > **Referencia:** VocExp, §Perseverancia y fidelidad
 
+### Según ¡El amor es más fuerte! (LC-2015)
+
+El P. Álvaro Corcuera presenta la fidelidad como **identificación con la voluntad de Dios y caridad vivida hasta el extremo**:
+
+- **Fidelidad y caridad**: «La mejor expresión de la fidelidad en todos los campos es la caridad» (cap. 11, §187; cap. 9, §155).
+- **Plan de Dios**: «La fidelidad consiste en hacer realidad el plan de Dios poniendo a su servicio las fuerzas de la inteligencia y de la voluntad... A mayor amor, mayor fidelidad. Y también, a mayor fidelidad, más crece nuestro amor» (cap. 11, §183).
+- **San Bernardo**: «El amor se basta por sí solo, satisface por sí solo y por causa de sí. El amor no requiere otro motivo fuera de él mismo, ni tampoco ningún provecho; su fruto consiste en su misma práctica. Amo porque amo, amor por amar» (Sermón Cantar 83; cap. 11, §183).
+- **Perseverancia**: «el que persevere hasta al final se salvará» (Mt 10, 22; cap. 11, §183).
+- **María, modelo**: cuatro etapas — búsqueda del plan de Dios, acogida, coherencia cotidiana, constancia hasta la muerte (Juan Pablo II, México 1979; cap. 11, §185).
+- **Juan Pablo II**: «Fiel hasta morir en la raya... reprodujo la imagen viva de Jesucristo en la cruz... ha respondido con su silencio y su heroica fidelidad, calcando así el ejemplo de su Señor» (cap. 11, §§189-202).
+- **En la enfermedad**: «El viernes por la mañana, después de haber pasado una noche con fiebre alta... lo primero que pidió fue que le leyeran las estaciones del Vía Crucis para unirse a la Pasión de Nuestro Señor» (cap. 11, §199).
+- **Desprendimiento**: «El amor a la cruz les hará libres... Mientras más desprendidos estemos, habrá más gozo en nuestra alma, pues van desapareciendo los temores» (cap. 11, §213).
+- **Cofundadores**: «mártires de la fidelidad de cada día... el que es fiel en lo pequeño, es fiel en lo grande» (Lc 16, 10; cap. 13, §37).
+
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
 
 La fachada de la catedral enseña que la diversidad de estilos sacerdotales es una riqueza «siempre y cuando se mantenga un doble compromiso de fidelidad: de fidelidad al Dios que se nos ha revelado y fidelidad a los hombres que buscan a Dios». En las columnas, León XIV pide fidelidad doctrinal: «la caridad sin la verdad es un engaño que, con frecuencia, esconde la búsqueda de reconocimiento o también la mundanización». Munilla subraya que «tú tenías que estar afianzado en la revelación de la Iglesia, que tú no respondías desde ti mismo»: el sacerdote que deja de hablar desde Cristo «pierde el fundamento» y acaba contagiándose de las dudas de los demás (como el sacerdote secularizado de Milán, que citaba entre sus razones «dudas doctrinales por preguntas de los jóvenes»). La fidelidad es la condición de las columnas: «sin columnas, la bóveda se cae» [CIS, 2026].

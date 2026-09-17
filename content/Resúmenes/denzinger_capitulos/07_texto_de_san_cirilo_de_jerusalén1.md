@@ -15,8 +15,8 @@ tags: ["resumen", "denzinger capitulos"]
 - [[símbolo_apostólico]] — credo que resume la fe cristiana
 - [[trinidad]] — misterio de un solo Dios en tres Personas
 - [[encarnación]] — el Verbo se hizo hombre
-- [[consustancial]] — igualdad de sustancia entre las Personas divinas
-- [[anatema]] — sentencia de condenación de una herejía
+- [[consustancialidad]] — igualdad de sustancia entre las Personas divinas
+- [[excomunión|anatema]] — sentencia de condenación de una herejía
 - [[priscilianismo]] — herejía que mezclaba elementos gnósticos y maniqueos
 - [[símbolo_atanasiano]] — profesión de fe sobre la Trinidad y la Encarnación
 - [[resurrección]] — victoria sobre la muerte
@@ -54,7 +54,7 @@ Profesión de fe completa sobre la Trinidad (D-39): «Todo el que quiera salvars
 
 ## Texto de San Cirilo de Jerusalén (1)
 
-Contiene el símbolo breve de San Cirilo (D-9) y su exposición más amplia (D-13-14) del [[símbolo_niceno]], con la profesión de fe trinitaria y cristológica completa, incluyendo la [[consustancial]] del Hijo con el Padre y la processión del [[Espíritu_Santo]].
+Contiene el símbolo breve de San Cirilo (D-9) y su exposición más amplia (D-13-14) del [[símbolo_niceno]], con la profesión de fe trinitaria y cristológica completa, incluyendo la [[consustancialidad]] del Hijo con el Padre y la processión del [[Espíritu_Santo]].
 
 ### FÓRMULA LLAMADA FE DE DAMASO (1)
 

@@ -19,7 +19,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[bautismo]] — sacramento de iniciación cristiana
 - [[justificación]] — don de la gracia que hace justo al pecador
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
-- [[infalibilidad_pontificia]] — privilegio del papa en materia de fe y moral
+- [[infalibilidad_papal]] — privilegio del papa en materia de fe y moral
 
 ## Contenido
 

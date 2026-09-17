@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization_and_culture", "oración"]
 ## Conceptos básicos referenciados
 
 - [[oración]] — la oración como arte que requiere aprendizaje y perseverancia
-- [[pobreza_espiritual]] — la oración del pobre que alcanza los cielos
+- [[pobreza_de_espíritu]] — la oración del pobre que alcanza los cielos
 
 ## Contenido
 

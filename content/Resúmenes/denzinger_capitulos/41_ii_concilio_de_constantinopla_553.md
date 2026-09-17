@@ -38,8 +38,8 @@ V ecuménico (sobre los tres capítulos).
 - **D-213** Can. 1: condena de quien no confiese una sola naturaleza o sustancia de la [[trinidad]], Trinidad consustancial adorada en tres hipóstasis.
 - **D-214** Can. 2: condena de quien niegue los dos nacimientos de Dios Verbo: uno del Padre antes de los siglos, otro de [[theotokos|María madre de Dios]] en la [[encarnación]].
 - **D-215** Can. 3: condena de quien separe el Verbo que hizo milagros del Cristo que padeció; es uno solo y el mismo Señor [[jesucristo|Jesucristo]].
-- **D-216** Can. 4: condena de quien niegue que la unión de Dios Verbo con el hombre se hizo «según composición» o «según hipóstasis» (unión personal), atribuyéndola a la gracia, al honor o a la mera voluntad, como enseñaron [[herejía_nestoriana|Nestorio]] y [[herejía_monofisita|Eutiques]].
-- **D-217** Can. 5: condena de quien admita dos hipóstasis o personas en Cristo, confesando la unidad solo en la dignidad y la adoración, como enseñaron [[herejía_nestoriana|Nestorio]] y Teodoro.
+- **D-216** Can. 4: condena de quien niegue que la unión de Dios Verbo con el hombre se hizo «según composición» o «según hipóstasis» (unión personal), atribuyéndola a la gracia, al honor o a la mera voluntad, como enseñaron [[nestorianismo|Nestorio]] y [[herejía_monofisita|Eutiques]].
+- **D-217** Can. 5: condena de quien admita dos hipóstasis o personas en Cristo, confesando la unidad solo en la dignidad y la adoración, como enseñaron [[nestorianismo|Nestorio]] y Teodoro.
 - **D-218** Can. 6: condena de quien llame a María «madre de Dios» solo en sentido figurado, o la llame «madre de un hombre» o «madre de Cristo»; debe confesarse propiamente y según verdad [[theotokos|madre de Dios]].
 - **D-219** Can. 7: condena de quien tome «en dos naturalezas» como si Cristo tuviese las naturalezas separadas y con personalidad propia; la expresión indica la diferencia de naturalezas mantenidas sin confusión.
 - **D-220** Can. 8: condena de quien confunda las dos naturalezas en una sola naturaleza o sustancia, o quien niegue que de la unión resultó un solo Cristo, Dios y hombre.

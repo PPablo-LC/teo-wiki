@@ -32,7 +32,7 @@ Pablo III declaró a María «Madre de la Iglesia» al clausurar la tercera sesi
 
 ## Ver también
 
-[[concilio_vaticano_ii]], [[juan_xxiii]], [[humanae_vitae]], [[populorum_progressio]], [[ecclesiam_suam]], [[reforma_litúrgica]], [[madre_de_la_iglesia]]
+[[concilio_vaticano_ii]], [[san_juan_xxiii]], [[humanae_vitae]], [[populorum_progressio]], [[ecclesiam_suam]], [[reforma_litúrgica]], [[madre_de_la_iglesia]]
 
 ## Referencias
 

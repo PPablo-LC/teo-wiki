@@ -18,7 +18,7 @@ tags: ["resumen", "capitulos lc frg"]
 - [[Sociedad_de_Vida_Apostólica]]
 - [[Federación_Regnum_Christi]]
 - [[Vida_consagrada]]
-- [[Consagración_laical]]
+- [[consagración]]
 - [[Comunión]]
 - [[Código_de_Derecho_Canónico]]
 

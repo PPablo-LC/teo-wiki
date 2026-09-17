@@ -18,7 +18,7 @@ tags: ["resumen", "consideraciones carismas"]
 - [[liturgia]] — culto público de la Iglesia, centrado en la [[eucaristía]]
 - [[virtudes_teorales]] — fe, esperanza y caridad
 - [[filiación_divina]] — identidad de hijos de Dios recibida en el bautismo
-- [[juvenesccit_ecclesia]] — Carta sobre la complementariedad de dones jerárquicos y carismáticos
+- [[iuvenescit_ecclesia]] — Carta sobre la complementariedad de dones jerárquicos y carismáticos
 - [[encuentro_con_cristo]] — actividad propia del RC para nutrir la vida espiritual
 
 ## Contenido
@@ -27,7 +27,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 ### Espiritualidad centrada en Cristo por la acción del Espíritu
 
-La [[espiritualidad_del_regnum_christi]] se centra en Jesucristo y nace de la experiencia de su amor. Por la acción del [[espíritu_santo]], somos hijos en el Hijo, que es centro, criterio y modelo de la vida (EFRC 12, 19). La unión con Cristo no se da sin relación íntima con el Espíritu, que es «el guía y artífice de nuestra transformación en Cristo y de la fecundidad apostólica» (EFRC 19). Según [[juvenesccit_ecclesia]], toda la economía sacramental es la realización pneumatológica de la encarnación; todos los dones del Espíritu están en relación con el Verbo encarnado.
+La [[espiritualidad_del_regnum_christi]] se centra en Jesucristo y nace de la experiencia de su amor. Por la acción del [[espíritu_santo]], somos hijos en el Hijo, que es centro, criterio y modelo de la vida (EFRC 12, 19). La unión con Cristo no se da sin relación íntima con el Espíritu, que es «el guía y artífice de nuestra transformación en Cristo y de la fecundidad apostólica» (EFRC 19). Según [[iuvenescit_ecclesia]], toda la economía sacramental es la realización pneumatológica de la encarnación; todos los dones del Espíritu están en relación con el Verbo encarnado.
 
 ### Medios espirituales propios del RC
 

@@ -14,7 +14,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 - [[eucaristía]] — Reverencia suprema al Cuerpo y Sangre de Cristo en el altar
 - [[eucaristía]] — El Santo Sacrificio de la Misa como centro de la vida franciscana
-- [[obediencia_franciscana]] — Observancia inviolable de la Regla
+- [[obediencia]] — Observancia inviolable de la Regla
 - [[oficio_divino]] — Rezo con armonía de mente, no con melodia de voz
 - [[regla_de_los_frailes_menores]] — Invocación a la observancia íntegra
 - [[jerarquía_eclesiástica]] — Confesión de pecados y sujeción al ministro general

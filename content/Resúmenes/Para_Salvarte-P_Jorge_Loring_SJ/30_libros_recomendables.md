@@ -12,7 +12,7 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[formación_religiosa]] — lecturas recomendadas para la educación en la fe
+- [[formación_cristiana]] — lecturas recomendadas para la educación en la fe
 - [[castidad]] — tema de varios libros recomendados (juventud, pureza, noviazgo)
 - [[noviazgo]] — libros sobre amor y preparación cristiana al matrimonio
 - [[matrimonio]] — libros de vida conyugal y educación de los hijos

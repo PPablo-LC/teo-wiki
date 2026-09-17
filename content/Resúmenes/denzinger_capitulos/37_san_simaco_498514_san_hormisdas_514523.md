@@ -13,7 +13,7 @@ tags: ["resumen", "denzinger capitulos"]
 ## Conceptos básicos referenciados
 
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
-- [[infalibilidad_pontificia]] — privilegio del papa en materia de fe y moral
+- [[infalibilidad_papal]] — privilegio del papa en materia de fe y moral
 - [[depositum_fidei]] — depósito de la fe confiado a la Iglesia
 - [[tradición_apostólica]] — doctrina transmitida por los Apóstoles
 - [[dioscóricos]] — seguidores de Dioscóro, monofisitas
@@ -35,4 +35,4 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## SAN SIMACO, 498-514 — SAN HORMISDAS, 514-523
 
-Documentos que defienden la [[infalibilidad_pontificia]] y el [[primado_del_romano_pontífice]]: la Sede Apostólica nunca ha sido juzgada por nadie y tiene autoridad suprema en materia de fe. El papa es cabeza de todos los templos de Dios; quien se opone a esta Sede contradice la fe. Quien no está en comunión con ella no pertenece a la Iglesia.
+Documentos que defienden la [[infalibilidad_papal]] y el [[primado_del_romano_pontífice]]: la Sede Apostólica nunca ha sido juzgada por nadie y tiene autoridad suprema en materia de fe. El papa es cabeza de todos los templos de Dios; quien se opone a esta Sede contradice la fe. Quien no está en comunión con ella no pertenece a la Iglesia.

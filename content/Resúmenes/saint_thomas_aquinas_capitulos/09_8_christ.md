@@ -17,7 +17,7 @@ tags: ["resumen", "saint thomas aquinas capitulos"]
 - [[comunicatio_idiomatum]] — Dios nació, Dios fue crucificado
 - [[satisfacción]] / [[redención]] — la obra salvífica; satisfacción y amor
 - [[misterio_pascual]] — los sacrificios del AT; la reconciliación en Cristo
-- [[bautismo_de_cristo]] / [[transfiguración]] / [[descenso_a_los_infiernos]] / [[resurrección_de_cristo]] / [[ascensión]] — los misterios de la vida de Cristo
+- [[bautismo|bautismo]] / [[transfiguración]] / [[descenso_a_los_infiernos]] / [[resurrección_de_cristo]] / [[ascensión]] — los misterios de la vida de Cristo
 - [[iglesia]] / [[cuerpo_místico]] — la gracia de Cristo rebosa al cuerpo
 - [[herejías_cristológicas]] / [[nestorianismo]] / [[docetismo]] / [[apolinarismo]] / [[adopcionismo]] — los errores
 

@@ -21,7 +21,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[pascua]] — la pascua, fiesta pastoril de primavera
 - [[expiacion]] — el día de la expiación
 - [[primicias]] — la ofrenda de las primicias del ganado
-- [[mieses]] — la fiesta de las mieses o semanas
+- [[pentecostés]] — la fiesta de las mieses o semanas (cincuentena)
 - [[vendimia]] — la fiesta de la recolección o vendimia
 - [[desierto]] — los tabernáculos recuerdan las marchas por el desierto
 - [[esperanza]] — la fiesta actualiza el término de la salud
@@ -45,7 +45,7 @@ En todas las religiones es la fiesta un elemento esencial del culto: con ciertos
 
 El retorno del ciclo lunar, que delimitaba el mes israelita, dio muy naturalmente lugar a fiestas: a veces la luna llena *Sal 81,4*, ordinariamente la luna nueva (*neomenia*: *1Sa 20,5* *2Re 4,23* *Am 8,5*), finalmente el [[sabado|sábado]] que fijaba el ritmo de la [[semana|semana]] *Ex 20,8-11*. El ciclo solar traía consigo la fiesta del Año Nuevo, conocida en todas las civilizaciones; en un principio se unió a la fiesta de la recolección en otoño *Ex 23,16*, luego a la [[pascua|pascua]] de la primavera *Ex 12,2*; de esta liturgia derivan ciertos ritos del día de la [[expiacion|expiación]] *Lev 16*.
 
-Además del marco formado por el ritmo de los astros, la vida cotidiana del israelita, pastor y luego agricultor, dio lugar a fiestas que tienden a confundirse con las precedentes. El día de [[pascua|pascua]], fiesta pastoril de primavera, tenía lugar la ofrenda de las [[primicias|primicias]] del ganado; el trabajo de la tierra dio origen a tres grandes fiestas anuales: ázimos en primavera, [[mieses|mieses]] o semanas en verano, recolección o [[vendimia|vendimia]] en otoño *Ex 23,14-17* *34,18.22*. El Deuteronomio une la pascua a los ázimos y da a la fiesta de la recolección el nombre de fiesta de los tabernáculos *Dt 16,1-17*. Ciertos ritos de las fiestas actuales no pueden comprenderse sino en razón de su abolengo pastoril o agrario.
+Además del marco formado por el ritmo de los astros, la vida cotidiana del israelita, pastor y luego agricultor, dio lugar a fiestas que tienden a confundirse con las precedentes. El día de [[pascua|pascua]], fiesta pastoril de primavera, tenía lugar la ofrenda de las [[primicias|primicias]] del ganado; el trabajo de la tierra dio origen a tres grandes fiestas anuales: ázimos en primavera, [[pentecostés|mieses]] o semanas en verano, recolección o [[vendimia|vendimia]] en otoño *Ex 23,14-17* *34,18.22*. El Deuteronomio une la pascua a los ázimos y da a la fiesta de la recolección el nombre de fiesta de los tabernáculos *Dt 16,1-17*. Ciertos ritos de las fiestas actuales no pueden comprenderse sino en razón de su abolengo pastoril o agrario.
 
 Después del exilio aparecieron algunas fiestas secundarias: Purim *Est 9,26* *2Mac 15,36s*, dedicación y día de Nicanor *1Mac 4,52-59* *7,49* *2Mac 10,5s* *15,36s*.
 

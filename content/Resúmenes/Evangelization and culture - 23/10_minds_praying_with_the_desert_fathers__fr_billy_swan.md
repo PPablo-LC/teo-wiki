@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization and culture - 23"]
 
 ## Conceptos básicos referenciados
 
-[[oración]], [[padres_del_desierto]], [[san_antonio_abad]], [[silencio]], [[soledad]], [[purificación_del_corazón]], [[pobreza_de_espíritu]], [[san_bernardo_de_la_clarvaux]], [[san_benito]], [[agustín_de_hipona]], [[papa_francisco]], [[dilexit_nos]], [[beatitudes]], [[paz_interior]], [[unión_transformante]]
+[[oración]], [[padres_del_desierto]], [[san_antonio_abad]], [[silencio]], [[soledad]], [[purificación_del_corazón]], [[pobreza_de_espíritu]], [[san_bernardo_de_la_clarvaux]], [[san_benito]], [[agustín_de_hipona]], [[papa_francisco]], [[dilexit_nos]], [[bienaventuranzas]], [[paz_interior]], [[unión_transformante]]
 
 ## Contenido
 
@@ -28,7 +28,7 @@ La **soledad** se distingue de la **soledad negativa** (*loneliness*): esta es d
 
 Los Padres del Desierto internaron el desierto del corazón humano, mucho antes de la psicología moderna. No huían de la realidad, sino de las distracciones que impedían enfrentar quiénes somos realmente: seres privilegiados pero imperfectos. AbbaArsenius recibió de Dios la indicación: "Huye, calla, ora siempre, pues estas son las fuentes de la impureza."
 
-La [[paz_interior]] del corazón era la meta espiritual, respondiendo a la enseñanza de las [[beatitudes]]: "Bienaventurados los puros de corazón, porque verán a Dios" (Mt_5:8). Para alcanzar esta pureza era necesaria la purgación, porque del corazón salen las intenciones malvadas (Mt_15:19). Para Juan Casiano y otros Padres, la pureza del corazón era la búsqueda unidireccional de Dios; el ayuno, las oraciones y las prácticas ascéticas servían a esta pureza y a la unidad del ser necesario para amar totalmente.
+La [[paz_interior]] del corazón era la meta espiritual, respondiendo a la enseñanza de las [[bienaventuranzas]]: "Bienaventurados los puros de corazón, porque verán a Dios" (Mt_5:8). Para alcanzar esta pureza era necesaria la purgación, porque del corazón salen las intenciones malvadas (Mt_15:19). Para Juan Casiano y otros Padres, la pureza del corazón era la búsqueda unidireccional de Dios; el ayuno, las oraciones y las prácticas ascéticas servían a esta pureza y a la unidad del ser necesario para amar totalmente.
 
 Los Padres diagnosticaron que la oración nace de un corazón dividido, y que la oración genuina surge cuando somos conscientes de ello. Evagrio de Ponto: "Nada es más esencial a la oración que la atención." Se requiere coraje para enfrentarse a los propios demonios —adicciones y pasiones desordenadas—, pero el combate se libra junto al Guerrero que ya venció: en lo más profundo de la oscuridad encontramos a [[cristo]], Señor de la luz, donde "donde el pecado abundó, sobreabundó la [[gracia]]" (Rm_5:20).
 

@@ -121,6 +121,10 @@ La gracia santificante es el alma de todo el [[organismo_sobrenatural]], del que
 ## Ver también
 [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[gracias_actuales]], [[perfección_cristiana]], [[organismo_sobrenatural]], [[jorge_loring]]
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC presenta la grazia santificante como la comunicación del divino *como realidad* (no solo como verdad) en la Iglesia (Parte III, cap. 3, §2): «il comunicarsi della realtà divina stessa, alla partecipazione dell'umano alla vita di Dio». En el hombre que libremente acoge el rapporto con Cristo se verifica un «mutamento nella sua natura d'uomo» — una «esaltazione ontologica dell'io», salto de calidad en la participación al Essere: el hombre queda hombre, pero se hace algo más. El Vangelo lo llama *rinascita* (Gv 3, el coloquio con Nicodemo); el NT, *creatura nuova* (2 Cor 5,17; Gal 6,15; Ef 4,23-24; Col 3,9-10; 1 Pt 1,23; Gc 1,18); Paolo, *membra del corpo di Cristo* (1 Cor 12,27). La palabra «grazia» es «la più bella del nostro vocabolario cristiano», porque indica la gratuidad absoluta del fenómeno; «santificante» porque es Dios quien inicia y prolonga en la historia una humanidad nueva. El dinamismo de esta comunicación es misterioso «come il vento» (Gv 3,8), pero verificable; se comunica a través de gestos eficaces — los sacramentos — dentro de la vida de la auténtica comunidad eclesial, no del sentimiento o de la imaginación. Giussani deplora cómo «si è dilapidato nell'uso moralistico il concetto di 'grazia santificante': le due parole più perfette e più belle di tutta la teologia sono diventate non più espressive della loro potenza» — la exaltación ontológica es la radicalidad de la novedad del Vangelo que responde al gemido de toda la creación (Rm 8,19.22).
+
 ## Referencias
 
 - [TPCr, Parte II, Cap. 1]

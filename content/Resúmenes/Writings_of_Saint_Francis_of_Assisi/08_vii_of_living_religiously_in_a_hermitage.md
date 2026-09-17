@@ -15,7 +15,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 - [[vida_contemplativa]] — Vida de oración y soledad en los eremitorios
 - [[vida_activa]] — Vida de servicio activo junto a la contemplativa
 - [[eremitorios_franciscanos]] — Celle, Carceri, Greccio, Lo Speco como lugares de retiro
-- [[obediencia_franciscana]] — Sujeción al custos y a las normas de la comunidad
+- [[obediencia]] — Sujeción al custos y a las normas de la comunidad
 - [[oficio_divino]] — Liturgia de las horas en régimen de eremitorio
 - [[silencio_contemplativo]] — Guarda del silencio como medio de oración
 

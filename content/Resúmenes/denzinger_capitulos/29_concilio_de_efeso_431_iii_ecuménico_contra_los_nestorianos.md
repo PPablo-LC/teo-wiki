@@ -19,7 +19,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[unión_hipostática]] — unión de las dos naturalezas en una persona
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
 - [[pelagianismo]] — herejía que niega la necesidad de la gracia
-- [[anatema]] — sentencia de condenación de una herejía
+- [[excomunión|anatema]] — sentencia de condenación de una herejía
 
 ## Contenido
 

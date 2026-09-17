@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[pastor]] — el pastor, tema de la comparación
+- [[buen_pastor]] — el pastor, tema de la comparación
 - [[matrimonio]] — el matrimonio, tema de la comparación
 - [[reino_de_dios]] — el reino de Dios en las parábolas
 - [[revelacion]] — el contenido de la revelación envuelto en imágenes
@@ -34,7 +34,7 @@ Israel, desde los comienzos de su historia, se hallaba ante este trance de tener
 
 ### Alcance religioso de las parábolas.
 
-Los profetas, ilustrando con las realidades concretas de la vida cotidiana su enseñanza sobre el sentido de la historia sagrada, hacen de ellas verdaderos temas: el [[pastor|pastor]], el [[matrimonio|matrimonio]], la viña, que se encuentran también en las parábolas evangélicas. El amor gratuito y benévolo de Dios, las reticencias del pueblo en su respuesta forman la trama de estas amplificaciones en imágenes (p.e. *Is 5,1-7* *Os 2* *Ez 16*), aunque también se pueden hallar en ellas alusiones más precisas a tal o cual actitud de vida moral *Prov 4,18s* *6,6-11* *15,4*, o a una determinada situación social *Jue 9,8-15*. En el Evangelio se centra la perspectiva en la realización definitiva del [[reino_de_dios|reino de Dios]] en la persona de Jesús. De ahí el grupo importante de las parábolas del reino (sobre todo *Mt 13,1-50 p* *20,1-16* *21,33-22,14 p* *24,45-25,30*).
+Los profetas, ilustrando con las realidades concretas de la vida cotidiana su enseñanza sobre el sentido de la historia sagrada, hacen de ellas verdaderos temas: el [[buen_pastor|pastor]], el [[matrimonio|matrimonio]], la viña, que se encuentran también en las parábolas evangélicas. El amor gratuito y benévolo de Dios, las reticencias del pueblo en su respuesta forman la trama de estas amplificaciones en imágenes (p.e. *Is 5,1-7* *Os 2* *Ez 16*), aunque también se pueden hallar en ellas alusiones más precisas a tal o cual actitud de vida moral *Prov 4,18s* *6,6-11* *15,4*, o a una determinada situación social *Jue 9,8-15*. En el Evangelio se centra la perspectiva en la realización definitiva del [[reino_de_dios|reino de Dios]] en la persona de Jesús. De ahí el grupo importante de las parábolas del reino (sobre todo *Mt 13,1-50 p* *20,1-16* *21,33-22,14 p* *24,45-25,30*).
 
 ### Parábola y alegoría.
 

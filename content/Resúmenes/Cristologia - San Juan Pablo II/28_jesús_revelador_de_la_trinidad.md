@@ -14,7 +14,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "trinidad", "rev
 
 - [[trinidad]] — Misterio íntimo de Dios revelado por el Hijo
 - [[revelación_trinitaria]] — Verdad suprema de la fe
-- [[bautismo_de_cristo]] — Teofanía trinitaria
+- [[bautismo|bautismo]] — Teofanía trinitaria
 - [[gran_comisión]] — Bautizar en nombre del Padre, Hijo y Espíritu
 
 ## Contenido

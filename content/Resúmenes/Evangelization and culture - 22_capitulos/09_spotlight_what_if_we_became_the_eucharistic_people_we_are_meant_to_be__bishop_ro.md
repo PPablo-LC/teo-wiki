@@ -18,7 +18,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 - [[pobreza_evangelica]] — primer consejo evangélico: desapego de los bienes mundanos para vivir en Cristo
 - [[castidad]] — segundo consejo evangélico: vivir la sexualidad bajo el signo del amor donado
 - [[obediencia]] — tercer consejo evangélico: escuchar la voz de Dios por encima de las voces del mundo
-- [[virtud_cardinal]] — las virtudes de prudencia, justicia, fortaleza y templanza que sostienen la vida moral
+- [[virtudes_cardinales]] — las virtudes de prudencia, justicia, fortaleza y templanza que sostienen la vida moral
 - [[iglesia]] — el pueblo eucarístico enviado al mundo secular como lumen gentium
 - [[vaticano_ii]] — Concilio que convocó a los laicos a ser cuerpo dado y sangre vertida en el mundo
 - [[conciencia_moral]] — la capacidad de discernir la voz de Dios entre las voces de la cultura
@@ -27,7 +27,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 
 ### Spotlight: What If We Became the Eucharistic People We Are Meant to Be
 
-El obispo [[robert_barron]] ofrece esta ponencia como discurso inaugural del Congreso Eucarístico Nacional de 2024 en Indianápolis. Se abre con una cita de [[santa_teresa_de_avila]]: «Quien tiene a Dios no le falta nada; Dios solo basta.»
+El obispo [[robert_barron]] ofrece esta ponencia como discurso inaugural del Congreso Eucarístico Nacional de 2024 en Indianápolis. Se abre con una cita de [[santa_teresa_de_jesús]]: «Quien tiene a Dios no le falta nada; Dios solo basta.»
 
 ### La obediencia al mandato eucarístico
 

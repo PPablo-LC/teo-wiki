@@ -13,7 +13,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 ## Conceptos básicos referenciados
 
 - [[santa_clara_de_asis]] — Fundadora de las Clarisas; destinataria de los fragmentos
-- [[pobreza_espiritual]] — Compromiso radical con la pobreza de Cristo
+- [[pobreza_de_espíritu]] — Compromiso radical con la pobreza de Cristo
 - [[regla_de_las_clarisas]] — Formula vitae escrita por San Francisco para las Clarisas
 - [[voto_de_pobreza]] — La más santa pobreza como camino de salvación
 - [[evangelio_santo]] — Seguir la perfección del santo Evangelio
@@ -36,4 +36,4 @@ Es error afirmar, como hacen Wadding y otros, que Santa Clara abandonó esta Reg
 
 "Yo, pequeño hermano Francisco, quiero seguir la vida y pobreza de Jesucristo nuestro Altísimo Señor y de su Santísima Madre, y perseverar en ello hasta el fin. Y os suplico a todas, mis señoras, y os aconsejo, que viváis siempre en esta santísima vida y pobreza. Y guardaos bien de que no os apartéis de ella por la enseñanza o consejo de nadie."
 
-Ambos fragmentos reflejan la devoción de San Francisco a la [[pobreza_espiritual]] como camino esencial de santificación, y su compromiso de proteger a las Clarisas en esa vocación.
+Ambos fragmentos reflejan la devoción de San Francisco a la [[pobreza_de_espíritu]] como camino esencial de santificación, y su compromiso de proteger a las Clarisas en esa vocación.

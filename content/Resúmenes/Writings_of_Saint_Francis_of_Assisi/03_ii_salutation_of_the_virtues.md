@@ -15,10 +15,10 @@ tags: ["resumen", "writings of saint francis of assisi"]
 - [[virtudes]] — Sabiduría, simplicidad, pobreza, humildad, caridad y obediencia
 - [[sabiduría]] — Reina de las virtudes; confunde a Satanás y su maldad
 - [[simplicidad_pura]] — Confunde toda la sabiduría del mundo y de la carne
-- [[pobreza_espiritual]] — Confunde la codicia, la avaricia y las preocupaciones del mundo
+- [[pobreza_de_espíritu]] — Confunde la codicia, la avaricia y las preocupaciones del mundo
 - [[humildad_cristiana]] — Confunde la soberbia y todos los hombres del mundo
 - [[caridad]] — Confunde todas las tentaciones diabólicas y carnales
-- [[obediencia_franciscana]] — Confunde todos los deseos carnales y mantiene el cuerpo mortificado
+- [[obediencia]] — Confunde todos los deseos carnales y mantiene el cuerpo mortificado
 
 ## Contenido
 

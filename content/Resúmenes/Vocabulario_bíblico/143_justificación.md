@@ -28,7 +28,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[bautismo]] — la justificación en el bautismo
 - [[espiritu]] — el Espíritu que da vida
 - [[libre_arbitrio]] — la respuesta del hombre
-- [[merito]] — la obra y el mérito del hombre
+- [[mérito]] — la obra y el mérito del hombre
 - [[predicar]] — la predicación de la fe
 
 ## Contenido

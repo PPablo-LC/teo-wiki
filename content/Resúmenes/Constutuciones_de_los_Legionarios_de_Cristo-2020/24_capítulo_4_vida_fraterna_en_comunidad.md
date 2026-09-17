@@ -12,7 +12,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-- [[vida_fraterna]]
+- [[vida_fraterna_religiosa]]
 - [[comunión_trinitaria]]
 - [[comunión_eclesial]]
 - [[comunidad_religiosa]]
@@ -26,11 +26,11 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Contenido
 
-El capítulo 4 de las *Constituciones* de los Legionarios de Cristo (2020) desarrolla la dimensión de la [[vida_fraterna]] en comunidad como componente esencial de la [[vida_religiosa]]. Se abre citando al Regnum Christi sobre los religiosos como expertos en comunión, llamados a ser testigos del proyecto de comunión en la Iglesia y en el mundo.
+El capítulo 4 de las *Constituciones* de los Legionarios de Cristo (2020) desarrolla la dimensión de la [[vida_fraterna_religiosa]] en comunidad como componente esencial de la [[vida_religiosa]]. Se abre citando al Regnum Christi sobre los religiosos como expertos en comunión, llamados a ser testigos del proyecto de comunión en la Iglesia y en el mundo.
 
 ### Vida fraterna en comunidad
 
-La [[vida_fraterna]] en comunidad, reflejo de la [[comunión_trinitaria]] y [[comunión_eclesial]], es una dimensión esencial de la vida religiosa. Los legionarios se inspiran en el testimonio de Jesucristo con sus Apóstoles y en la primitiva comunidad cristiana. Los religiosos deben residir en su propia casa religiosa, haciendo vida en común y no ausentándose sin licencia del superior.
+La [[vida_fraterna_religiosa]] en comunidad, reflejo de la [[comunión_trinitaria]] y [[comunión_eclesial]], es una dimensión esencial de la vida religiosa. Los legionarios se inspiran en el testimonio de Jesucristo con sus Apóstoles y en la primitiva comunidad cristiana. Los religiosos deben residir en su propia casa religiosa, haciendo vida en común y no ausentándose sin licencia del superior.
 
 Se valora la vida fraterna como camino común de santidad y ayuda mutua para el fervor, pidiendo a todos que se sientan constructores y corresponsables para que reine la [[caridad_fraterna]] y el espíritu de familia, compartiendo alegrías y sufrimientos. Bajo la guía de los superiores, todos promuevan y evalúen juntos la buena marcha de la comunidad en: oración en común, cumplimiento de la misión apostólica, crecimiento en confianza y amistad, afecto y perdón mutuo, y descanso.
 
@@ -40,7 +40,7 @@ Se pide cultivar un ambiente donde se armonicen intensa vida de oración, [[disc
 
 ### Normas de vida religiosa
 
-Para dar testimonio de la consagración y fomentar la [[vida_fraterna]], se pide interiorizar las normas y vivirlas con fidelidad y madurez.
+Para dar testimonio de la consagración y fomentar la [[vida_fraterna_religiosa]], se pide interiorizar las normas y vivirlas con fidelidad y madurez.
 
 ### Clausura y silencio
 

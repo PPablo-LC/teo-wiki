@@ -39,7 +39,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fidelidad]] — el pueblo consolidado en la fidelidad
 - [[naciones]] — las naciones que se convertirán
 - [[perdón]] — el perdón de Dios
-- [[enfermedad__curación]] — los salmos de los enfermos
+- [[enfermedad_y_curación]] — los salmos de los enfermos
 - [[persecución]] — los salmos de los perseguidos
 - [[juan_bautista]] — Juan Bautista, el último de los profetas
 - [[juicio]] — el juicio que debe preceder a la venida del reino
@@ -54,7 +54,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[generación]] — una generación mala
 - [[esterilidad]] — la higuera estéril
 - [[niño]] — volver a ser como un niño pequeño
-- [[pastor]] — el pastor que sale en busca de la oveja perdida
+- [[buen_pastor]] — el pastor que sale en busca de la oveja perdida
 - [[misericordia]] — la misericordia del Padre
 - [[apóstoles]] — los apóstoles enviados a predicar la conversión
 - [[incredulidad]] — la incredulidad
@@ -122,7 +122,7 @@ fue el doble fruto de la predicación profética y de la prueba del exilio. El e
 
 ### 2. No menor es el esfuerzo en el plano individual,
 
-pues se ha comprendido la lección de Ezequiel. Los salmos de los [[enfermedad__curación|enfermos]] y de los [[persecución|perseguidos]] se orientan más de una vez a la confesión del pecado *Sal 6,2* *32* *38* *103,3s* *143,1s* y el poeta de Job muestra un sentido muy profundo de la radical impureza del hombre *Job 9,30s* *14,4*. La expresión más perfecta de estos sentimientos es el *Miserere* *Sal 51*, en el que la doctrina de la conversión se traduce totalmente en oración: reconocimiento de las faltas (v. 5ss), demanda de purificación interior (v. 3s.9), recurso a la gracia, única que puede cambiar el corazón (v. 12ss), orientación hacia una vida ferviente (v. 15-19). La liturgia de penitencia tiene ahora por centro el sacrificio del «[[corazón|corazón]] contrito» (v. 18s). Se comprende que los sectarios de Qumrán, formados en la escuela de tal texto y herederos de toda la tradición que le precedía, tuvieran la idea de retirarse al desierto para convertirse sinceramente a la ley de Dios y «prepararle el camino». Si bien su empeño tiene cierta marca de legalismo, no está muy lejos del que vamos a descubrir en el NT.
+pues se ha comprendido la lección de Ezequiel. Los salmos de los [[enfermedad_y_curación|enfermos]] y de los [[persecución|perseguidos]] se orientan más de una vez a la confesión del pecado *Sal 6,2* *32* *38* *103,3s* *143,1s* y el poeta de Job muestra un sentido muy profundo de la radical impureza del hombre *Job 9,30s* *14,4*. La expresión más perfecta de estos sentimientos es el *Miserere* *Sal 51*, en el que la doctrina de la conversión se traduce totalmente en oración: reconocimiento de las faltas (v. 5ss), demanda de purificación interior (v. 3s.9), recurso a la gracia, única que puede cambiar el corazón (v. 12ss), orientación hacia una vida ferviente (v. 15-19). La liturgia de penitencia tiene ahora por centro el sacrificio del «[[corazón|corazón]] contrito» (v. 18s). Se comprende que los sectarios de Qumrán, formados en la escuela de tal texto y herederos de toda la tradición que le precedía, tuvieran la idea de retirarse al desierto para convertirse sinceramente a la ley de Dios y «prepararle el camino». Si bien su empeño tiene cierta marca de legalismo, no está muy lejos del que vamos a descubrir en el NT.
 
 ## NT
 
@@ -138,7 +138,7 @@ del [[reino_de_dios|reino]] de Dios. Comienza por realizarla con poder: con él 
 
 ### 2. Cuando Jesús reclama la conversión
 
-no hace alusión alguna a las liturgias penitenciales. Hasta desconfía de los signos demasiado vistosos *Mt 6,16ss*. Lo que cuenta es la conversión del corazón que hace que uno vuelva a ser como un [[niño|niño]] pequeño *Mt 18,3 p*. Luego, el esfuerzo continuo por «buscar el reino de Dios y su [[justicia|justicia]]» *Mt 6,33*, es decir, por regular la propia vida según la [[nuevo|nueva]] ley. El acto mismo de la conversión se evoca con palabras muy expresivas. Si bien implica una voluntad de transformación moral, es, sobre todo, llamamiento humilde, acto de confianza: «Dios mío, tened piedad de mí, que soy pecador» *Lc 18,13*. La conversión es una [[gracia|gracia]] preparada siempre por la iniciativa divina, por el [[pastor|pastor]] que sale en busca de la oveja perdida *Lc 15,4ss* *15,8*. La respuesta humana a esta gracia se analiza concretamente en la parábola del hijo pródigo, que pone en estupendo relieve la [[misericordia|misericordia]] del Padre *Lc 15,11-32*. En efecto, el Evangelio del reino implica esta revelación desconcertante: «Hay más alegría en el cielo por un pecador que se convierte que por noventa y nueve justos que no tienen necesidad de penitencian» *Lc 15,7.10*. Así también Jesús manifiesta a los pecadores una actitud acogedora que escandaliza a los fariseos *Mt 9,10-13 p* *Lc 15,2*, pero provoca conversiones; y el Evangelio de Lucas se complace en referir en detalle algunas de estas vueltas a Dios, como la de la pecadora *Lc 7,36-50* y la de Zaqueo *19,5-9*.
+no hace alusión alguna a las liturgias penitenciales. Hasta desconfía de los signos demasiado vistosos *Mt 6,16ss*. Lo que cuenta es la conversión del corazón que hace que uno vuelva a ser como un [[niño|niño]] pequeño *Mt 18,3 p*. Luego, el esfuerzo continuo por «buscar el reino de Dios y su [[justicia|justicia]]» *Mt 6,33*, es decir, por regular la propia vida según la [[nuevo|nueva]] ley. El acto mismo de la conversión se evoca con palabras muy expresivas. Si bien implica una voluntad de transformación moral, es, sobre todo, llamamiento humilde, acto de confianza: «Dios mío, tened piedad de mí, que soy pecador» *Lc 18,13*. La conversión es una [[gracia|gracia]] preparada siempre por la iniciativa divina, por el [[buen_pastor|pastor]] que sale en busca de la oveja perdida *Lc 15,4ss* *15,8*. La respuesta humana a esta gracia se analiza concretamente en la parábola del hijo pródigo, que pone en estupendo relieve la [[misericordia|misericordia]] del Padre *Lc 15,11-32*. En efecto, el Evangelio del reino implica esta revelación desconcertante: «Hay más alegría en el cielo por un pecador que se convierte que por noventa y nueve justos que no tienen necesidad de penitencian» *Lc 15,7.10*. Así también Jesús manifiesta a los pecadores una actitud acogedora que escandaliza a los fariseos *Mt 9,10-13 p* *Lc 15,2*, pero provoca conversiones; y el Evangelio de Lucas se complace en referir en detalle algunas de estas vueltas a Dios, como la de la pecadora *Lc 7,36-50* y la de Zaqueo *19,5-9*.
 
 ## III. Conversión y bautismo
 

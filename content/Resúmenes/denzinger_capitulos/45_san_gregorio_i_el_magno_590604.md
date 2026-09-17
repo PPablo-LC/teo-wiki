@@ -16,7 +16,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[agnoetas]] — condena de quienes niegan la omnisciencia de la Sabiduría encarnada
 - [[encarnación]] — la ciencia humana de Cristo no alcanza lo que solo la divinidad conoce
 - [[bautismo]] — validez del bautismo de herejes conferido en nombre de la Trinidad
-- [[herejía_nestoriana]] — recepción de los nestorianos conservando sus órdenes
+- [[nestorianismo]] — recepción de los nestorianos conservando sus órdenes
 - [[unión_hipostática]] — el Verbo se hizo carne en el instante de la concepción
 - [[sacramentalidad]] — la unción del crisma y la imposición de las manos como rito de recepción
 
@@ -31,7 +31,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 **Del bautismo y órdenes de los herejes** [Carta *Quia charitati* a los obispos de Hiberia, junio de 601]:
 
-**D-249** De la antigua tradición de los Padres, quienes son bautizados en la herejía en el nombre de la Trinidad, cuando vuelven a la Santa Iglesia, son recibidos por la unción del crisma, la imposición de las manos o la sola profesión de la fe: el [[bautismo]] recibido entre los herejes alcanza su fuerza purificadora cuando se unen a la fe santa. Los herejes que no fueron bautizados en nombre de la Trinidad deben ser bautizados al venir a la Iglesia (aunque no puede decirse que sea un bautismo repetido). A los que vuelven del error de [[herejía_nestoriana|Nestorio]] se les recibe conservándoles sus propias órdenes.
+**D-249** De la antigua tradición de los Padres, quienes son bautizados en la herejía en el nombre de la Trinidad, cuando vuelven a la Santa Iglesia, son recibidos por la unción del crisma, la imposición de las manos o la sola profesión de la fe: el [[bautismo]] recibido entre los herejes alcanza su fuerza purificadora cuando se unen a la fe santa. Los herejes que no fueron bautizados en nombre de la Trinidad deben ser bautizados al venir a la Iglesia (aunque no puede decirse que sea un bautismo repetido). A los que vuelven del error de [[nestorianismo|Nestorio]] se les recibe conservándoles sus propias órdenes.
 
 **Del tiempo de la unión hipostática** [De la misma Carta a los obispos de Hiberia]:
 

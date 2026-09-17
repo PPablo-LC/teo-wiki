@@ -19,7 +19,7 @@ tags: ["resumen", "capitulos lc frg"]
 - [[Sociedad_de_Vida_Apostólica]]
 - [[Federación_Regnum_Christi]]
 - [[Vida_consagrada]]
-- [[Consagración_laical]]
+- [[consagración]]
 - [[Comunión]]
 - [[Convención_Internacional_de_los_Laicos_del_Regnum_Christi_2016]]
 

@@ -12,7 +12,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[carismas_del_espíritu_santo]] — dones del Espíritu Santo tratados en la bibliografía
+- [[carismas]] — dones del Espíritu Santo tratados en la bibliografía
 - [[discernimiento_de_espíritus]] — tema central de varias obras referenciadas
 - [[exorcismo_y_oraciones_de_liberación]] — ministerio eclesiástico documentado en obras de referencia
 - [[renovación_carismática]] — movimiento eclesial con documentación doctrinal propia

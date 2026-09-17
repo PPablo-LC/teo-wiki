@@ -15,7 +15,7 @@ tags: ["resumen", "nueva_era", "analisis_doctrinal"]
 - [[hinduismo]] — religión politeísta analizada en el documental como amenaza a la fe cristiana
 - [[yoga]] — presentado como vehículo misionero del hinduismo en Occidente
 - [[reencarnación]] — doctrina central del hinduismo contrastada con la [[resurrección]]
-- [[new_age]] — movimiento sincrético que difunde ideas hindúes en Occidente
+- [[nueva_era]] — movimiento sincrético que difunde ideas hindúes en Occidente
 - [[meditación_trascendental]] — técnica de control mental vinculada a gurúes
 - [[kundalini]] — energía serpiente que el yoga pretende despertar
 - [[ocultismo]] — prácticas esotéricas que el documental asocia con el hinduismo
@@ -47,7 +47,7 @@ El único vídeo procesado (*Documental_dioses de la nueva era*) cubre 58:54 de 
 
 | # | Vídeo | Tema principal | Frames | Momentos | Duración |
 |---|-------|----------------|-------:|---------:|---------:|
-| 1 | Documental_dioses de la nueva era.webm | Crítica al [[hinduismo]], [[new_age]] y [[yoga]] | 29 | 10 | 58:54 |
+| 1 | Documental_dioses de la nueva era.webm | Crítica al [[hinduismo]], [[nueva_era]] y [[yoga]] | 29 | 10 | 58:54 |
 
 ### Pasos del workflow ejecutados
 

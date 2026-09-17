@@ -12,13 +12,13 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-- [[canon_de_la_escritura]] — lista de los libros inspirados
+- [[canon_bíblico]] — lista de los libros inspirados
 - [[Antiguo_Testamento]] — primera parte de la Biblia
 - [[Nuevo_Testamento]] — segunda parte de la Biblia
 - [[Evangelios]] — los cuatro libros de la vida de Cristo
 - [[Epístolas_de_pablo]] — cartas del Apóstol San Pablo
 - [[Apocalipsis]] — libro profético de San Juan
-- [[mártires]] — cristianos que dieron su vida por la fe
+- [[mártir]] — cristianos que dieron su vida por la fe
 
 ## Contenido
 
@@ -36,4 +36,4 @@ Lista de las Escrituras canónicas:
 
 ## III CONCILIO DE CARTAGO, 397
 
-Cánones del III Concilio de Cartago que establecen el [[canon_de_la_escritura]] para la Iglesia en África del Norte. La lista coincide en lo esencial con el canon del Decreto de Dámaso (382) y es un testimonio fundamental de la tradición bíblica de la Iglesia primitiva. Se confirma que solo las Escrituras canónicas deben leerse en la Iglesia como divinas, y se permite la lectura de las pasiones de los [[mártires]] en sus aniversarios.
+Cánones del III Concilio de Cartago que establecen el [[canon_bíblico]] para la Iglesia en África del Norte. La lista coincide en lo esencial con el canon del Decreto de Dámaso (382) y es un testimonio fundamental de la tradición bíblica de la Iglesia primitiva. Se confirma que solo las Escrituras canónicas deben leerse en la Iglesia como divinas, y se permite la lectura de las pasiones de los [[mártir]] en sus aniversarios.

@@ -107,7 +107,7 @@ La contrariedad requeriria oposicion sobre un mismo objeto bajo el mismo aspecto
 
 ## Ver tambien
 
-[[voluntad_de_dios]], [[actos_humanos]], [[merito]]
+[[voluntad_de_dios]], [[actos_humanos]], [[mérito]]
 
 ## Referencias
 

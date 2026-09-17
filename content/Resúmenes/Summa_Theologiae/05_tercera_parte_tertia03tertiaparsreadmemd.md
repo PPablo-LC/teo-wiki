@@ -16,7 +16,7 @@ tags: ["resumen", "summa theologiae"]
 - [[verbo_divino]], [[naturaleza_humana]], [[naturaleza_divina]]
 - [[gracia_de_cristo]], [[ciencia_de_cristo]], [[sacerdocio_de_cristo]]
 - [[virgen_maría]], [[inmaculada_concepción]], [[asunción]]
-- [[natividad_de_cristo]], [[circuncisión]], [[bautismo_de_cristo]]
+- [[natividad_de_cristo]], [[circuncisión]], [[bautismo|bautismo]]
 - [[tentación_de_cristo]], [[transfiguración]]
 - [[pasión_de_cristo]], [[muerte_de_cristo]], [[resurrección_de_cristo]], [[ascensión]]
 - [[descenso_a_los_infiernos]]
@@ -54,7 +54,7 @@ Dado que nuestro Salvador y Señor [[jesucristo]], salvando al pueblo de sus pec
 
 #### Vida de Cristo
 
-- **Q.37–39 — Inicios**: La [[circuncisión]] demostró la realidad de la naturaleza humana; el [[bautismo_de_san_juan]] preparó la predicación; el [[bautismo_de_cristo]] fue por humiliación y para santificar las aguas.
+- **Q.37–39 — Inicios**: La [[circuncisión]] demostró la realidad de la naturaleza humana; el [[bautismo_de_san_juan]] preparó la predicación; el [[bautismo|bautismo]] fue por humiliación y para santificar las aguas.
 - **Q.40–45 — Vida pública**: El género de vida de Cristo fue de pobreza y predicación; fue [[tentación_de_cristo|tentado]] por el diablo para ser ejemplo; enseñó con autoridad; realizó [[milagros]] como prueba de su misión; la [[transfiguración]] reveló su gloria divina.
 
 #### Pasión, muerte y resurrección de Cristo

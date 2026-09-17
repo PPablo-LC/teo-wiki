@@ -18,13 +18,13 @@ tags: ["resumen", "nueva_era", "analisis_doctrinal"]
 - [[kundalini]] — energía serpiente que el yoga pretende despertar en la base de la columna vertebral
 - [[meditación_trascendental]] — técnica de Maharishi Mahesh Yogi; reporta daño psicológico
 - [[tantra]] — expresión máxima del hinduismo y magia negra/blanca
-- [[new_age]] — movimiento sincrético que difunde ideas hindúes en Occidente
+- [[nueva_era]] — movimiento sincrético que difunde ideas hindúes en Occidente
 - [[ocultismo]] — prácticas esotéricas presentadas como ciencia
 - [[gurúes]] — líderes religiosos que van al Occidente a "convertir" gente
 - [[anticristo]] — figura escatológica vinculada con el movements new age
 - [[nazismo]] — comparación histórica: Hitler sacó ideas del hinduismo
 - [[infiltración_institucional]] — yoga en escuelas, hospitales, universidades, ONU
-- [[relativismo_moral]] — ausencia de normas morales absolutas en la filosofía hindú
+- [[relativismo]] — ausencia de normas morales absolutas en la filosofía hindú
 - [[potencial_humano]] — movimiento occidentalizado: autoestima, autoamor, "todos somos dios"
 - [[sadhus]] — sacerdotes desnudos cubiertos de cenizas de cremaciones y estiércol de vaca
 - [[pranayama]] — ejercicios respiratorios para absorber prana y despertar kundalini
@@ -50,7 +50,7 @@ La India es descrita como séptima masa de tierra, segunda nación más poblada,
 #### Los [[gurúes]] y el daño espiritual
 Ravindranath Mahara (antiguo gurú) explica que el hindú necesita ver a su gurú como "único medio de salvación" y como "poder divino equivalente al de Dios". Los gurúes van al Occidente para convertir gente y porque "tienen algo que ofrecer: una comunidad". Miles de personas emocionalmente heridas son víctimas. Los ashrams no tienen lugar para niños; estos pierden individualidad e identidad. El pastor Friedrich Haak documenta que los niños de cultos "nunca experimentan libertad ni vida responsable". Edson E.C. (ex-Hare Krishna) explica que la destrucción familiar es "una cuestión de control: divide y vencerás". Según el Gita, el discípulo debe someterse al gurú con todas sus pertenencias. Muchos gurúes son extremadamente ricos en Occidente, con haciendas, guardias armados y flotas de aviones.
 
-#### [[Relativismo_moral]] y control
+#### [[relativismo]] y control
 El hinduismo enseña a "matar la voz de la conciencia interior"; no hay pecados. Gurúes justifican crímenes en nombre de la "estafa divina". Katy (discípula de Maharishi por 15 años) confiesa: "pierdes la capacidad de tomar decisiones de cualquier índole". La filosofía hindú es "muy relativa; no hay normas morales absolutas". Ellen (portavoz de Brahma Kumaris Raja Yoga) afirma que "la causa del sufrimiento está dentro" y se enseña a "adormecer emociones y compasión".
 
 #### [[Reencarnación]] vs. [[resurrección]]
@@ -80,7 +80,7 @@ En 1966 la conferencia hindú internacional planificó convertir al mundo; los g
 #### [[Infiltración_institucional]]
 En escuelas públicas, la oración cristiana está proscrita pero "el yoga y las técnicas orientales de meditación no solo sean permitidas sino activamente promovidas". Se enseña a niños a "imaginar nubes suaves" y "ver el cielo azul en sus mentes". George Lucas popularizó "La Fuerza" (concepto hindú de energía cósmica). El 66% de universidades ofrece yoga. Hospitales, YMCA y doctores promueven prácticas hindúes sin ser conscientes de su origen religioso.
 
-#### Medicina alternativa y [[new_age]]
+#### Medicina alternativa y [[nueva_era]]
 La hipnosis es "el puente principal entre el hinduismo y la ciencia moderna". La bioretroalimentación es "yoga electrónico" usado en deportes olímpicos. La acupuntura "manipula las fuerzas de kundalini con agujas". La macrobiótica intenta "manipulación espiritual a través de la dieta".
 
 #### Movimiento de [[potencial_humano]]

@@ -79,7 +79,7 @@ Se relaciona con [[filiación_divina]] (la filiación adoptiva del cristiano com
 
 ## Ver también
 
-[[filiación_divina]], [[mesías]], [[verdadero_dios_y_verdadero_hombre]], [[yo_soy]], [[unigénito]], [[consustancial]]
+[[filiación_divina]], [[mesías]], [[verdadero_dios_y_verdadero_hombre]], [[yo_soy]], [[unigénito]], [[consustancialidad]]
 
 ## Referencias
 

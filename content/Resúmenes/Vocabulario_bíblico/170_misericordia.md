@@ -46,7 +46,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fe]] — la justicia de la fe
 - [[ley]] — la práctica de la ley
 - [[obras]] — la justicia a partir de las obras
-- [[perfeccion]] — la perfección exigida a los discípulos
+- [[perfección_cristiana]] — la perfección exigida a los discípulos
 
 ## Contenido
 
@@ -114,6 +114,6 @@ El ápice de la epístola a los Romanos está en esta revelación. Mientras que 
 
 ## II. Sed misericordiosos
 
-La «[[perfeccion|perfección]]» que Jesús, según *Mt 5,48*, exige a sus discípulos, consiste según *Lc 6,36* en el deber de ser misericordiosos «como vuestro Padre es misericordioso». Es una condición esencial para entrar en el reino de los cielos *Mt 5,7*, que Jesús reitera después del profeta Oseas *Mt 9,13* *12,7*. Esta ternura debe hacerme [[projimo|prójimo]] del miserable al que encuentro en mi camino, a ejemplo del buen Samaritano *Lc 10,30-37*, debe llenarme de compasión para con el que me ha ofendido *Mt 18,23-35*, porque Dios ha tenido compasión conmigo *18,32s*. Así seremos nosotros juzgados según la misericordia que hayamos practicado, quizás inconscientemente, para con Jesús en persona *Mt 25,31-46*.
+La «[[perfección_cristiana|perfección]]» que Jesús, según *Mt 5,48*, exige a sus discípulos, consiste según *Lc 6,36* en el deber de ser misericordiosos «como vuestro Padre es misericordioso». Es una condición esencial para entrar en el reino de los cielos *Mt 5,7*, que Jesús reitera después del profeta Oseas *Mt 9,13* *12,7*. Esta ternura debe hacerme [[projimo|prójimo]] del miserable al que encuentro en mi camino, a ejemplo del buen Samaritano *Lc 10,30-37*, debe llenarme de compasión para con el que me ha ofendido *Mt 18,23-35*, porque Dios ha tenido compasión conmigo *18,32s*. Así seremos nosotros juzgados según la misericordia que hayamos practicado, quizás inconscientemente, para con Jesús en persona *Mt 25,31-46*.
 
 Mientras que la ausencia de misericordia entre los paganos desencadena la ira divina *Rom 1,31*, el cristiano debe amar y «simpatizar» *Flp 2,1*, tener una auténtica compasión en el corazón *Ef 4,32* *1Pe 3,8*; no puede «cerrar sus entrañas» ante un hermano que se halla en la necesidad: el [[amor|amor]] de Dios no mora sino en los que practican la misericordia *1Jn 3,17*.

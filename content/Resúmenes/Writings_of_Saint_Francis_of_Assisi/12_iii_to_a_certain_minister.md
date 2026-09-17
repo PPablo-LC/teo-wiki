@@ -13,7 +13,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 ## Conceptos básicos referenciados
 
 - [[misericordia]] — Exhortación a la misericordia con los hermanos pecadores
-- [[obediencia_franciscana]] — Obediencia al superior como señal de amor a Dios
+- [[obediencia]] — Obediencia al superior como señal de amor a Dios
 - [[penitencia]] — Procedimiento para hermanos que pecan mortalmente
 - [[caridad_fraterna]] — Amar más al hermano pecador que a uno mismo
 - [[disciplina_franciscana]] — Procedimiento canónico para hermanos que pecan

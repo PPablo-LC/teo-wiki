@@ -15,7 +15,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 - [[hermano_león]] — Compañero íntimo de San Francisco; destinatario de la carta
 - [[pobreza_evangelica]] — Seguir las huellas de Cristo en la pobreza
 - [[consuelo_espiritual]] — Palabra de aliento y consejo para quien duda
-- [[obediencia_franciscana]] — Hacer lo que parezca mejor para agradar al Señor
+- [[obediencia]] — Hacer lo que parezca mejor para agradar al Señor
 - [[humildad_cristiana]] — Cambio de roles por humildad en la suscripción de la carta
 
 ## Contenido

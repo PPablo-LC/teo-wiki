@@ -12,7 +12,7 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-- [[tribunal_supremo_apostólico_cdf]] — supremo tribunal apostólico para la Iglesia latina y orientales
+- [[dicasterio_para_la_doctrina_de_la_fe]] — supremo tribunal apostólico para la Iglesia latina y orientales
 
 ## Contenido
 

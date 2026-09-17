@@ -119,9 +119,9 @@ Ver artículo principal: [[iglesia_cuerpo_místico]]
 
 [[iglesia_cuerpo_místico]], [[magisterio_de_la_iglesia]], [[configuración_con_cristo]], [[jorge_loring]]
 
-### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+### Según Perché la Chiesa (PLDC)
 
-Al tratar de la gracia de Cristo, Tomás introduce a la Iglesia: el cuerpo de Cristo, en el que somos incorporados para recibir la gracia que fluye de su humanidad. Cabeza y cuerpo forman como una sola «persona mística»: por eso su pasión nos merita, pues somos miembros de su cuerpo. La gracia rebosa de la cabeza al cuerpo (*redundat*) «como una transfusión vital a los miembros»; no la recibimos por naturaleza (de Adán) sino por la acción personal de Cristo.
+Giussani define la palabra «Iglesia» como «un fenómeno histórico il cui unico significato consiste nell'esser per l'uomo la possibilità di raggiungere la certezza su Cristo» — fenómeno histórico cuyo único significado es ser para el hombre la posibilidad de alcanzar certeza sobre Cristo. La Iglesia no es solo expresión de vida: es una *vida* que nos alcanza desde hace muchos siglos, y su inteligencia exige convivenza. Tres actitudes culturales se confrontan con ella: la racionalista (Cristo como hecho del pasado, método que según Schweitzer desemboca en el Jesús ignoto o extraño), la protestante (iluminación interior, caída en el mismo subjetivismo) y la ortodoxo-católica, coherente con la estructura del acontecimiento cristiano: Dios hecho presencia integralmente humana, alcanzable por el método del encuentro con la compañía de los creyentes (Lc 10,16). Históricamente la realidad se llama «Chiesa», sociológicamente «popolo di Dio», ontológicamente «Corpo misterioso di Cristo». La Iglesia se define como el divino que se comunica a través de lo humano (el escándalo del «carpintero», Mc 6,3), educando al sentido religioso de la humanidad sin resolver los problemas humanos; el divino se comunica en ella como verdad (magistero ordinario y extraordinario, tradición) y como realidad (gracia santificante, sacramentos). Sus notas son verificables por los frutos: unidad, santidad (milagro, equilibrio, intensidad), catolicidad y apostolicidad (Ireneo). El criterio final es mariano: «Dio rimane un qualcosa di incomprensibile, se non si introduce la figura della Madonna... metodo del Suo comunicarsi all'uomo».
 
 ## Analizado para
 
@@ -133,3 +133,4 @@ Al tratar de la gracia de Cristo, Tomás introduce a la Iglesia: el cuerpo de Cr
 - PS §07-08
 - [VJ, Cap. VIII]
 - [CIS, «La catedral interior del sacerdote», 2026]
+- PLDC, `00_preliminares.md`; `02_parte_prima_al_cuore_del_problema_chiesa.md`; `04_sezione_seconda_il_segno_efficace_del_divino_nella_storia.md`; `05_parte_terza_come_la_chiesa_ha_definito_se_stessa.md`; `06_parte_quarta_la_verifica_della_presenza_del_divino_nella_vit.md`; `01_prefazione_alla_nuova_edizione.md`

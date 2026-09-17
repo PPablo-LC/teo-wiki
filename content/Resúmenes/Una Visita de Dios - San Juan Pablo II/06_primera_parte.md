@@ -27,7 +27,7 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "teo
 - [[Salvifici_doloris]] — Carta Apostólica sobre el sentido cristiano del sufrimiento
 - [[cruz]] — centro de la vida y del misterio pascual; el sufrimiento, unido a la cruz, tiene valor salvífico
 - [[resurrección]] — esperanza que el sufrimiento introduce; fiesta cristiana por excelencia
-- [[beatitudes]] — Cristo puso en el centro de sus enseñanzas las bienaventuranzas para los hombres probados por el sufrimiento
+- [[bienaventuranzas]] — Cristo puso en el centro de sus enseñanzas las bienaventuranzas para los hombres probados por el sufrimiento
 - [[Paráclito]] — la gracia del Espíritu Santo que el sacramento de la unción invoca
 - [[gracia_santificante]] — la fe y la vida en gracia permiten transformar el dolor en alegría
 - [[oración]] — medio para descubrir gradualmente el verdadero sentido del sufrimiento
@@ -107,7 +107,7 @@ La vida de los ancianos ayuda a ver con claridad la escala de los valores humano
 
 #### El hospital: el Calvario de hoy
 
-El hospital tiene algo de Calvario porque allí se ofrecen vidas por la [[redención]] del mundo. No hay que considerar la enfermedad como inútil; estos momentos pueden ser ante Dios los más decisivos. Jesús se acercó a los enfermos, «pasó haciendo el bien» (Heb 10,38), curó, consoló, y puso en el centro de sus enseñanzas las ocho [[beatitudes]].
+El hospital tiene algo de Calvario porque allí se ofrecen vidas por la [[redención]] del mundo. No hay que considerar la enfermedad como inútil; estos momentos pueden ser ante Dios los más decisivos. Jesús se acercó a los enfermos, «pasó haciendo el bien» (Heb 10,38), curó, consoló, y puso en el centro de sus enseñanzas las ocho [[bienaventuranzas]].
 
 Se menciona la infección que sufrió el Papa tras la transfusión de sangre del atentado, y las palabras del cirujano Dr. Crucitti: «He visto triunfar en él la dimensión espiritual del hombre».
 
@@ -167,7 +167,7 @@ El [[abandono_providencial|abandono confiado en Dios]] no es un refugio alienant
 
 #### El consuelo de mirar a Jesucristo
 
-Cristo es el Verbo encarnado, único en el mundo; comparte la naturaleza divina y la humana. Su ofrenda de vida nos alcanza, nos salva, nos purifica, nos libera, nos eleva. Proclamó el programa de las [[beatitudes]] sobre el camino de la pobreza, la mansedumbre, la justicia, la esperanza, la misericordia, la pureza, la paz, la fidelidad.
+Cristo es el Verbo encarnado, único en el mundo; comparte la naturaleza divina y la humana. Su ofrenda de vida nos alcanza, nos salva, nos purifica, nos libera, nos eleva. Proclamó el programa de las [[bienaventuranzas]] sobre el camino de la pobreza, la mansedumbre, la justicia, la esperanza, la misericordia, la pureza, la paz, la fidelidad.
 
 #### Viviremos eternamente la misma vida de Dios
 
@@ -207,7 +207,7 @@ Solo el hombre capaz de acoger el amor misericordioso podrá darlo sin egoísmos
 
 #### Jesús y María siguen pendientes de los que sufren
 
-Cristo «pasó haciendo el bien» (Heb 10,38): curaba, consolaba, alimentaba, liberaba. Puso en el centro las ocho [[beatitudes]]. [[maría|María]] tiene un papel esencial en hacernos comprender la cruz; nos introduce en el misterio con sabiduría materna; sufre con Jesús y con nosotros.
+Cristo «pasó haciendo el bien» (Heb 10,38): curaba, consolaba, alimentaba, liberaba. Puso en el centro las ocho [[bienaventuranzas]]. [[maría|María]] tiene un papel esencial en hacernos comprender la cruz; nos introduce en el misterio con sabiduría materna; sufre con Jesús y con nosotros.
 
 #### El tiempo del sufrimiento puede ser el más fecundo
 

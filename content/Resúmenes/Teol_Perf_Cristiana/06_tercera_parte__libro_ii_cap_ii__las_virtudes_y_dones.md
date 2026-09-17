@@ -14,7 +14,7 @@ tags: ["resumen", "teol_perf_cristiana", "virtudes", "dones_del_Espíritu_Santo"
 
 ## Conceptos básicos referenciados
 
-[[virtud teologal]], [[virtud cardinal]], [[fe]], [[esperanza]], [[caridad]], [[don de entendimiento]], [[don de ciencia]], [[don de temor]], [[prudencia]], [[don de consejo]], [[justicia]], [[fortaleza]], [[don de fortaleza]], [[templanza]], [[don de piedad]], [[don de sabiduría]], [[bienaventuranzas]], [[frutos del Espíritu Santo]], [[contemplación infusa]], [[fe pura]], [[vía ascética]], [[vía mística]]
+[[virtud teologal]], [[virtudes cardinales]], [[fe]], [[esperanza]], [[caridad]], [[don de entendimiento]], [[don de ciencia]], [[don de temor]], [[prudencia]], [[don de consejo]], [[justicia]], [[fortaleza]], [[don de fortaleza]], [[templanza]], [[don de piedad]], [[don de sabiduría]], [[bienaventuranzas]], [[frutos del Espíritu Santo]], [[contemplación infusa]], [[fe pura]], [[vía ascética]], [[vía mística]]
 
 ## Contenido
 

@@ -63,6 +63,10 @@ La libertad es «una categoría ética» que se realiza por medio de la verdad. 
 
 «El Creador ha dado al hombre la libertad como don y tarea a la vez. Porque el hombre, mediante la libertad, está llamado a acoger y realizar el verdadero bien» [MI, cap. 8]. El abuso de la libertad provoca la reacción totalitaria: «el abuso de la libertad provoca una reacción que toma la forma de uno u otro sistema totalitario» [MI, cap. 8].
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC sitúa la libertad como el aspecto más dramático del método de Dios (Parte III, cap. 1, §2b): «il metodo che Dio ha seguito gioca tutto sulla libertà» — el hombre es cristiano con toda su libertad particular, de modo que el ideal cristiano será actuado en la medida en que la libertad lo quiere, y el mismo individuo podrá portar el ideal y al mismo tiempo contradecirlo viviéndolo. El mensaje divino pasa por un vehículo finito y libre: nunca la libertad humana realizará integralmente el ideal; y sin embargo «Dio si è legato a questa nostra particolare attuazione della libertà». En el orden sacramental, la libertad es condición de la gracia: el sacramento no opera mecánicamente; su eficacia (*ex opere operato*) es dono, pero exige la participación libre de la persona; incluso el bautismo de los niños salva la libertad inscribiéndola en el contexto comunitario educador y en el futuro de su vida consciente. Finalmente, en el *fiat* de María la libertad muestra su cima: «soplo de la libertad», capacidad de adherirse al Ser que invade la vida.
+
 ## Analizado para
 
 - [[jeff_lacour_true_freedom_through_prayer]]

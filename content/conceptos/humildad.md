@@ -194,6 +194,21 @@ La humildad aparece así como la virtud que hace posible la metanoia y la [[vía
 
 **El narrador humilde (11_minds.md):** El tributo a Vin Scully destaca su humildad como narrador: «Scully nunca se ponía a sí mismo por delante de la historia. Su voz servía al juego, no a su ego». Su fe católica y su arte de contar historias se entrelazaban en una humildad que le permitía desaparecer detrás de la narración, dejando que el béisbol hablara por sí mismo. «Su grandeza estaba en su pequeñez: se hacía pequeño para que el juego fuera grande».
 
+### Según ¡El amor es más fuerte! (LC-2015)
+
+El P. Álvaro Corcuera presenta la humildad como **columna fundamental de la vida legionario**:
+
+- **Fundamento**: «Columna fundamental en nuestra vida, que aprendemos contemplando el misterio de Belén; condición y base de todas las demás virtudes» (cap. 11, §5).
+- **Belén**: «Dios es tan grande que puede hacerse pequeño» (Benedicto XVI, Nochebuena 2006); «Nuestra grandeza consiste en hacernos pequeños, en servir sin buscar protagonismo» (cap. 11, §9).
+- **Orgullo vs. humildad**: «La peor cruz es la que Dios no quiere que llevemos. Una de éstas es el orgullo, que crea y produce un sufrimiento que no procede del amor. El orgullo es como el cáncer de la vida espiritual» (cap. 11, §7).
+- **Oración**: «El alma que saborea a Dios en la oración difícilmente caerá presa de la soberbia» (MMRC 180; cap. 11, §11).
+- **Gracia**: «No yo, sino la gracia de Dios que está conmigo» (1 Co 15, 10); «Te basta mi gracia, pues mi fuerza se manifiesta en tu debilidad» (2 Co 12, 9; cap. 11, §13).
+- **Pureza de intención**: «la humildad debe dirigirnos de forma natural a la pureza de intención, que no busca sino el bien de Cristo, de la Iglesia, de las almas, olvidándose de sí mismo... Es preciso que Él crezca y que yo disminuya» (Jn 3, 30; cap. 11, §23).
+- **Grano de trigo**: «Ese grano —cada uno de nosotros— está llamado a caer, a hundirse. Pero, justamente por esta caída, crecerá una planta cuya espiga estará cuajada de numerosos frutos» (Jn 12, 24; cap. 11, §27).
+- **Letanías de la humildad**: «Que los demás sean más amados que yo, que sean preferidos a mí... por amor a quien se humilló hasta la muerte y una muerte de cruz» (Flp 2, 8; cap. 11, §29).
+- **Papa Francisco**: «humildad, bondad, mansedumbre, ternura del amor de Dios que no sería posible sin la humildad... morir a nosotros mismos nos permite vivir más libres y en paz» (cap. 11, §33).
+- **Imitación de Cristo**: «No te importe mucho quién está contigo o contra ti; tú sólo busca que Dios esté contigo en todo lo que eres y en todo lo que haces... Al humilde, Dios lo ama y lo consuela... después de este abatimiento, lo levanta con amor» (Libro II, 6; cap. 11, §43).
+
 ### Según Il senso religioso (SR)
 
 **Hacerse como niños (cap. III).** Giussani lee «si no os hacéis como niños» (Mt 18,3) como condición del conocer: la humildad es la apertura de quien acepta dejarse enseñar por la realidad, frente a quien cree poseerla ya. El ejemplo de la niña y otras figuras muestran que la conciencia de los propios límites dispone a la mirada verdadera (SR, `10_capitolo_terzo.md`, §45-55).

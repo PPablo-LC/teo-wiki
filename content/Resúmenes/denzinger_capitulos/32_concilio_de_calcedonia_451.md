@@ -21,7 +21,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[hipóstasis]] — persona en la terminología cristológica
 - [[madre_de_dios]] — título de María (Theotokos)
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
-- [[anatema]] — sentencia de condenación de una herejía
+- [[excomunión|anatema]] — sentencia de condenación de una herejía
 
 ## Contenido
 

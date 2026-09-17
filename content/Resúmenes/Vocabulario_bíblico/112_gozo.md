@@ -19,7 +19,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[promesas]] — las alegrías como elemento de las promesas
 - [[vino]] — el vino creado para proporcionar alegría
 - [[vendimia]] — la vendimia, tiempo de alegría
-- [[mieses]] — la siega
+- [[trabajo]] — la siega
 - [[culto]] — el gozo de alabar a Dios en el culto
 - [[alabanza]] — el gozo de alabar
 - [[presencia_de_dios]] — regocijarse en su presencia
@@ -48,7 +48,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fruto]] — el gozo es fruto del Espíritu
 - [[prueba_y_tentación]] — la prueba de la fe
 - [[ejemplo]] — ser ejemplo en la prueba
-- [[perfeccion]] — la perfección cristiana
+- [[perfección_cristiana]] — la perfección cristiana
 - [[fidelidad]] — la fidelidad a la verdad
 - [[verdad]] — la fidelidad a la verdad
 - [[oracion]] — el gozo alimentado por la oración
@@ -68,7 +68,7 @@ La revelación del Dios creador y salvador provoca en el hombre un gozo desborda
 
 #### I. LAS ALEGRÍAS DE LA VIDA
 
-Las alegrías de la vida humana son un elemento de las [[promesas|promesas]] de Dios *Dt 28,3-8* *Jer 33,11*, que castiga la infidelidad con su privación *Dt 28,30-33.47s* *Jer 7,34* *25,10s*. El humilde gozo que el hombre halla con la mujer que ama *Ecl 9,9*, en el fruto de su trabajo *3,22*, alimentándose y divirtiéndose un poco *2,24* *3,12s* resiste a la crítica despiadada del mismo Eclesiastés, que alaba este gozo, con el cual puede el hombre olvidar las calamidades de la vida; es la parte que Dios le otorga *5,16-19*. En efecto, el [[vino|vino]] fue creado para proporcionar alegría *Jue 9,13* *Sal 104,15* a quien lo usa con moderación *Eclo 31,27*; así la [[vendimia|vendimia]] misma es tiempo de alegría *Is 16,10*, al igual que la siega ([[mieses|mies]]) *Sal 126,5s*. En cuanto al gozo de que una mujer colma a su marido con su gracia y su virtud *Prov 5,18* *Eclo 26,2.13*, es la imagen de los goces más altos *Is 62,5*; para los esposos la fecundidad es causa de júbilo *1Sa 2,1.5* *Sal 113,9* *Jn 16,21*, sobre todo si su hijo es bueno *Prov 10,1*.
+Las alegrías de la vida humana son un elemento de las [[promesas|promesas]] de Dios *Dt 28,3-8* *Jer 33,11*, que castiga la infidelidad con su privación *Dt 28,30-33.47s* *Jer 7,34* *25,10s*. El humilde gozo que el hombre halla con la mujer que ama *Ecl 9,9*, en el fruto de su trabajo *3,22*, alimentándose y divirtiéndose un poco *2,24* *3,12s* resiste a la crítica despiadada del mismo Eclesiastés, que alaba este gozo, con el cual puede el hombre olvidar las calamidades de la vida; es la parte que Dios le otorga *5,16-19*. En efecto, el [[vino|vino]] fue creado para proporcionar alegría *Jue 9,13* *Sal 104,15* a quien lo usa con moderación *Eclo 31,27*; así la [[vendimia|vendimia]] misma es tiempo de alegría *Is 16,10*, al igual que la siega *Sal 126,5s*. En cuanto al gozo de que una mujer colma a su marido con su gracia y su virtud *Prov 5,18* *Eclo 26,2.13*, es la imagen de los goces más altos *Is 62,5*; para los esposos la fecundidad es causa de júbilo *1Sa 2,1.5* *Sal 113,9* *Jn 16,21*, sobre todo si su hijo es bueno *Prov 10,1*.
 
 Además de las alegrías ruidosas de los grandes días, coronación del rey *1Re 1,40*, victoria *1Sa 18,6* o regreso de prisioneros *Sal 126,2s*, hay otras que no se pueden comunicar a un extraño *Prov 14,10*. El sabio conoce el valor de esta alegría del corazón, que es incluso factor de buena salud *Prov 17,22* y a la que se puede contribuir con una buena palabra *12,25* o con una mirada benévola *15,30*. Dios condena sólo los goces perversos, los que se persiguen haciendo mal *2,14*, en particular la alegría maligna que la desgracia del justo procura a sus enemigos *Sal 13,5* *35,26*.
 
@@ -114,7 +114,7 @@ La palabra de Jesús produjo su fruto: los que creen en él tienen en sí mismos
 
 ##### Las fuentes del gozo espiritual.
 
-El gozo es, en efecto, [[fruto|fruto]] del Espíritu *Gal 5,22* y una nota característica del reino de Dios *Rom 14,17*. No se trata del entusiasmo pasajero que suscita la [[palabra_de_dios|palabra]] y que destruye la tribulación *Mc 4,16*, sino del gozo espiritual de los creyentes que, en la [[prueba_y_tentación|prueba]], son [[ejemplo|ejemplo]] *1Tes 1,6s* y que, con su gozosa generosidad *2Cor 8,2* *9,7*, con su [[perfeccion|perfección]] *2Cor 13,9*, con su unión *Flp 2,2*, con su docilidad *Heb 13,17* y su [[fidelidad|fidelidad]] a la [[verdad|verdad]] *2Jn 4* *3Jn 3s* son ahora y serán en el [[día_del_señor|día]] del Señor el gozo de sus apóstoles *1Tes 2,19s*.
+El gozo es, en efecto, [[fruto|fruto]] del Espíritu *Gal 5,22* y una nota característica del reino de Dios *Rom 14,17*. No se trata del entusiasmo pasajero que suscita la [[palabra_de_dios|palabra]] y que destruye la tribulación *Mc 4,16*, sino del gozo espiritual de los creyentes que, en la [[prueba_y_tentación|prueba]], son [[ejemplo|ejemplo]] *1Tes 1,6s* y que, con su gozosa generosidad *2Cor 8,2* *9,7*, con su [[perfección_cristiana|perfección]] *2Cor 13,9*, con su unión *Flp 2,2*, con su docilidad *Heb 13,17* y su [[fidelidad|fidelidad]] a la [[verdad|verdad]] *2Jn 4* *3Jn 3s* son ahora y serán en el [[día_del_señor|día]] del Señor el gozo de sus apóstoles *1Tes 2,19s*.
 
 La caridad que hace comulgar a los creyentes en la verdad *1Cor 13,6* les procura un gozo constante alimentado por su [[oracion|oración]] y su [[accion_de_gracias|acción de gracias]] incesantes *1Tes 5,16* *Flp 3,1* *4,4ss*. ¿Cómo dar gracias al Padre por haber sido transferidos al reino de su Hijo muy amado, sin experimentar alegría *Col 1,11ss*? Y la oración asidua es fuente de gozo y alegría porque la anima la [[esperanza|esperanza]] y porque el Dios de la esperanza responde a ella colmando de gozo al creyente *Rom 12,12* *15,13*. También Pedro invita a éste a bendecir a Dios con exultación; su [[fe|fe]], probada por la aflicción, pero segura de obtener la salvación, le procura un gozo inefable, que es un gusto anticipado de la gloria *1Pe 1,3-9*.
 

@@ -43,6 +43,10 @@ La unidad de la Iglesia se funda en la unidad de la fe, del culto y del gobierno
 
 PS subraya que Jesucristo fundó una sola Iglesia y habla de ella en singular: «Tú eres Pedro y sobre esta piedra edificaré mi Iglesia» (Mt 16,18) [PS §07,4]. La Iglesia es una en su doctrina —el mismo Credo desde hace dos mil años—, en su gobierno bajo el Romano Pontífice, y en sus siete sacramentos, idénticos para todos los católicos del mundo [PS §07,6]. La libre interpretación de la Biblia lleva a la desunión, mientras que el Magisterio de la Iglesia conduce a la unidad mediante la autoridad infalible del Papa y los Concilios [PS §07,6]. Cristo pidió al Padre que todos los que creen en Él formen «un solo rebaño con un solo Pastor» (Jn 10,16) [PS §07,6].
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC presenta la unidad como el primer fruto verificable de la presencia del divino en la Iglesia (Parte IV, cap. 2, §1), fundada en la oración de Jesús: «siano anch'essi in noi una cosa sola» (Gv 17,21); con Schnackenburg, es unidad fundada en Dios, no solo unión «horizzontale». La unidad fecunda en tres niveles: (a) *unidad de la conciencia* — la lucidez experimentada sobre el sentido de la existencia, que es «el genio de la visión católica»: una unidad de actitud que valora todo sin escandalizarse de nada, sin necesidad de negar o renegar algo (Gv 3,16-17); (b) *unidad como explicación de la realidad* — el criterio de interpretación unitaria del real, que no es un principio intelectual sino una Persona; genera inclusividad y capacidad de crítica («Esaminate ogni cosa, trattenete ciò che vale», 1 Ts 5,21); (c) *unidad como impostación de la vida* — de donde nace el concepto de mérito: todo gesto, incluso el más oculto, es gesto responsable para el universo; la comunidad se hace fuente de la afirmación de la personalidad. En este horizonte, la liturgia es «creazione redenta e orante» (Guardini) y el trabajo el eco de la liturgia sobre el cosmos entero.
+
 ## Distinciones importantes
 
 - Unidad esencial (indestructible, fundada por Cristo) vs. unidad visible (dañada por divisiones históricas)

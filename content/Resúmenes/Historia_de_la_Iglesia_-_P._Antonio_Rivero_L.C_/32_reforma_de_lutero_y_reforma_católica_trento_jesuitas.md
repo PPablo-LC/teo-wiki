@@ -23,7 +23,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 - [[virgen_de_guadalupe]] — apariciones a Juan Diego en el Tepeyac (1531)
 - [[juan_diego]] — primer santo indígena de América, canonizado en 2002
 - [[erasmo_de_rotterdam]] — príncipe de los humanistas
-- [[santa_teresa_de_ávila]] — mística y reformadora del Carmelo
+- [[santa_teresa_de_jesús]] — mística y reformadora del Carmelo
 - [[san_juan_de_la_cruz]] — místico carmelita, doctor de la Iglesia
 
 ## INTRODUCCIÓN

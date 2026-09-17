@@ -62,6 +62,10 @@ El hombre es el camino primero y fundamental de la Iglesia: «este hombre es el 
 
 La Iglesia está solícita por la vocación del hombre en Cristo. Cristo, mediante la encarnación, se ha unido a todo hombre y de esta unión nace el «hombre nuevo» [RH §18]. La Iglesia, penetrando en este misterio, vive más profundamente su propia naturaleza y misión.
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC precisa la función de la Iglesia ante el hombre terreno (Parte III, cap. 2): su misión es la misma de Jesús — «l'educazione al senso religioso dell'uomo e dell'umanità» —, no la solución de los problemas humanos. Su palabra definitiva es doble: «persona» (la irredutibilidad del «io») y «regno di Dio» (el significado hacia el que tiende todo). La Iglesia llama al hombre al justo atittudine ante el real — condición óptima para resolver los problemas en las cuatro grandes categorías (cultura, amor, trabajo, política) — pero no sustituye el trabajo del hombre: «l'attualità del Vangelo passa attraverso i problemi degli uomini» (Chenu), y el compromiso en los problemas que el tiempo plantea es «la prima forma di carità» en la historia en la que Dios se hizo carne. La misión incluye también el materno recuerdo a la realidad: «Santa madre Chiesa» — la imagen ambrosiana «Ecco la donna, madre di tutti i viventi».
+
 ## Distinciones importantes
 
 - Misión de la Iglesia universal vs. misiones particulares (ad gentes).

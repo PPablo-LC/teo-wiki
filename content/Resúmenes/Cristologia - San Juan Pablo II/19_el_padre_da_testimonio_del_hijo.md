@@ -13,7 +13,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "testimonio", "t
 ## Conceptos básicos referenciados
 
 - [[filiación_divina]] — «Hijo de la misma naturaleza que el Padre»
-- [[bautismo_de_cristo]] — Teofanía trinitaria en el Jordán
+- [[bautismo|bautismo]] — Teofanía trinitaria en el Jordán
 - [[transfiguración]] — Confirmación celestial de la filiación divina
 - [[pedro]] — Confesión y revelación interior
 

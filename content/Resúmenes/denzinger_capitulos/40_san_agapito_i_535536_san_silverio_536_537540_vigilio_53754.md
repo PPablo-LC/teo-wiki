@@ -26,7 +26,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 *Liber adversus Orígenes* del emperador Justiniano, de 543. Sínodo endémousa bajo el patriarca Menna, confirmado por el Sumo Pontífice Vigilio.
 
-**D-203** Can. 1. Condena de la preexistencia de las almas: si alguno dice que las almas preexistentes como potencias inteligentes y santas se enfriaron en el amor de Dios y fueron arrojadas a los cuerpos por castigo, sea [[anatema|anatema]].
+**D-203** Can. 1. Condena de la preexistencia de las almas: si alguno dice que las almas preexistentes como potencias inteligentes y santas se enfriaron en el amor de Dios y fueron arrojadas a los cuerpos por castigo, sea [[excomunión|anatema]].
 
 **D-204** Can. 2. Condena de la preexistencia del alma del Señor: si alguno dice que el alma de Cristo preexistía y se unió al Verbo antes de encarnarse, sea anatema.
 

@@ -13,7 +13,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 ## Conceptos básicos referenciados
 
 - [[regla_de_los_frailes_menores]] — Legislación fundacional de la Orden Franciscana
-- [[obediencia_franciscana]] — Voto central de la vida religiosa franciscana
+- [[obediencia]] — Voto central de la vida religiosa franciscana
 - [[pobreza_evangelica]] — Renuncia absoluta a la propiedad material
 - [[castidad]] — Tercer voto de la profesión religiosa
 - [[sagrada_escritura]] — Base de toda la legislación franciscana

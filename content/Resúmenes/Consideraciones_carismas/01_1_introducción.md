@@ -12,7 +12,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[carismas_del_espíritu_santo]] — dones especiales distribuidos por el Espíritu para bien de la comunidad
+- [[carismas]] — dones especiales distribuidos por el Espíritu para bien de la comunidad
 - [[espiritualidad_del_regnum_christi]] — vida espiritual centrada en Jesucristo y su amor, propia de la familia espiritual del RC
 - [[discernimiento_espiritual]] — proceso de distinguir los auténticos dones del Espíritu de posibles engaños
 - [[vida_en_el_espíritu]] — expresiones de espiritualidad carismática incorporadas en la vida y apostolado del RC
@@ -22,7 +22,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 📄 **Fuente original:** `02_introduccion.md`
 
-El documento responde a un encargo capitular: varias asambleas territoriales de la Legión de Cristo pidieron al Capítulo General de 2020 un parecer sobre la compatibilidad entre el carisma del Regnum Christi y ciertas formas de expresión de la [[espiritualidad carismática]]. El Capítulo reconoció «el valor de los [[carismas_del_espíritu_santo]] como una manifestación del Espíritu para bien de la comunidad» y reafirmó que la vocación legionaria está abierta a la multiplicidad de dones del Espíritu, pero insistió en la necesidad de «formación teológica sólida, humildad e integridad de vida, acompañamiento cercano de parte de expertos y obediencia a la autoridad competente».
+El documento responde a un encargo capitular: varias asambleas territoriales de la Legión de Cristo pidieron al Capítulo General de 2020 un parecer sobre la compatibilidad entre el carisma del Regnum Christi y ciertas formas de expresión de la [[espiritualidad carismática]]. El Capítulo reconoció «el valor de los [[carismas]] como una manifestación del Espíritu para bien de la comunidad» y reafirmó que la vocación legionaria está abierta a la multiplicidad de dones del Espíritu, pero insistió en la necesidad de «formación teológica sólida, humildad e integridad de vida, acompañamiento cercano de parte de expertos y obediencia a la autoridad competente».
 
 En cumplimiento, se erigieron dos comisiones: la «Comisión de estudio sobre los carismas personales del Espíritu y el ejercicio de oraciones de liberación y sanación» (Legión de Cristo, 19 de abril de 2021) y la «Comisión sobre la Pastoral de Sanación y los dones carismáticos» (Federación Regnum Christi, 1 de julio de 2021). Ambas trabajaron coordinadamente, escuchando experiencias de un amplio grupo de personas y directores.
 

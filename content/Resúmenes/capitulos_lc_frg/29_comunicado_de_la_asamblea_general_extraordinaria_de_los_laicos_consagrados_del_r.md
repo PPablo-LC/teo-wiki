@@ -20,7 +20,7 @@ tags: ["resumen", "capitulos lc frg"]
 - [[Legionarios_de_Cristo]]
 - [[Consagradas_del_Regnum_Christi]]
 - [[Vida_consagrada]]
-- [[Consagración_laical]]
+- [[consagración]]
 - [[Gobierno_colegial]]
 - [[Comunión]]
 

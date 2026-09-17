@@ -13,7 +13,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "espíritu_santo
 ## Conceptos básicos referenciados
 
 - [[unción_del_espíritu_santo]] — Mesías como «consagrado con unción»
-- [[bautismo_de_cristo]] — Descenso del Espíritu como paloma
+- [[bautismo|bautismo]] — Descenso del Espíritu como paloma
 - [[kénosis]] — Encarnación por obra del Espíritu
 - [[resurrección]] — Jesús constituido Hijo de Dios con potencia
 

@@ -29,6 +29,10 @@ San Bonifacio I (D-110) declara tajantemente que «no puede apelarse de nuestro 
 
 El Denzinger recoge la progresiva conciencia del magisterio romano sobre su infalibilidad. D-100 (Inocencio I) establece la Sede Apostólica como fuente incorrupta de doctrina. D-109 (Zósimo) afirma que la Sede Apostólica tiene tanta autoridad que nadie puede apelar de su juicio. D-110 (Bonifacio I) formula explícitamente la inapelabilidad de las decisiones romanas: «nunca fue lícito tratar nuevamente un asunto que haya sido una vez establecido por la Sede Apostólica».
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC sitúa el dogma de la infalibilidad (Pastor Aeternus, 1870) dentro de la pedagogía eclesial (Parte III, cap. 3, §1b): la infalibilidad no es una capacidad del hombre sino «prerogativa della potenza di Dio», que asegura su Espíritu a la Iglesia guiada por el sucesor de Pedro (Leclercq: «l'infallibilità pontificia non è che una semplice modalità dell'infallibilità della Chiesa»). Durante el debate conciliar la mayor parte de las objeciones versó sobre la oportunidad de la definición, no sobre su contenido (Franzen); la Iglesia eligió, en una sociedad donde la concepción racionalista era ya mentalidad común, «la provocación de afirmar solenmente que el hombre no es la única medida del real».
+
 ## Relaciones doctrinales
 
 La infalibilidad papal es consecuencia del [[primado_papal]] y de la [[sucesión_apostólica]]. Se ejerce en comunión con el Colegio Episcopal y en continuidad con la [[tradición_apostólica]]. Está al servicio de la [[unidad_de_la_iglesia]] y de la [[sede_apostólica]].

@@ -185,6 +185,21 @@ Benedicto XVI dedica los capítulos 6 al 8 de *Jesús de Nazaret II* a la Últim
 
 **De la cena a la Eucaristía dominical.** El mandato de Jesús no preveía una forma litúrgica definitiva; esta debió desarrollarse en la vida de la Iglesia. La Eucaristía dominical de la mañana sustituyó a la cena comunitaria de la tarde, como desarrollo orgánico de la práctica de la Iglesia naciente.
 
+### Según ¡El amor es más fuerte! (LC-2015)
+
+El P. Álvaro Corcuera presenta la Eucaristía como **centro vital de la vida legionario y fuente de toda fecundidad apostólica**:
+
+- **Centro de la vida**: «La vida eucarística intensa... incrementar nuestra unión con Cristo» (cap. 11, §65; cap. 12, §47).
+- **Sagrario**: «el sagrario, el encuentro con Cristo» (cap. 11, §65); «en la capilla privada en el último Vía Crucis, cuando ya no pudo estar en el Coliseo. Abrazado a la cruz... buscaba los tiempos para rezar... 'Salve, oh cruz, esperanza única'» (cap. 11, §209).
+- **Transforma el corazón**: «que la Eucaristía vaya trasformando nuestros corazones, y los llene de un santo celo por la salvación de las almas» (cap. 11, §81).
+- **Beber del agua**: «beber del agua que Cristo nos quiere dar, en la oración y el contacto personal con Él en la Eucaristía» (cap. 12, §153).
+- **Consolar al triste**: «No hay problema que no se pueda resolver ante la Eucaristía. No hay tristeza que no se pueda consolar en el Sagrario» (cap. 10, §65).
+- **María de Betania**: «El Maestro está aquí y te llama» (Jn 11, 28); llevar al que sufre a Jesús (cap. 10, §65).
+- **Sacerdocio**: «el sacerdote... poder de consagrar y absolver... El sacerdote es algo grande... poder de perdonar» (cap. 8, §15-16; cap. 13, §159).
+- **P. Alfredo Márquez**: experiencia en clínica Las Condes visitando a alumnos heridos (cap. 10, §135).
+- **Adoración**: «adoración eucarística» como medio de perseverancia (cap. 7, §§61-62; cap. 12, §47).
+- **Cruz y Eucaristía**: «el Viernes por la mañana... pidió que le leyeran las estaciones del Vía Crucis para unirse a la Pasión de Nuestro Señor» (cap. 11, §199).
+
 ### Según la Guía de Liturgia (GLit-2024)
 
 La Guía de Liturgia de la Legión de Cristo afirma que la santa misa es «el centro de la vida cristiana y el culmen de la acción por la que Dios santifica al mundo en Cristo, y del culto que los hombres ofrecen al Padre» [GLit-2024, n. 70, citando CLC 51]. Merece ser celebrada con todo el respeto y veneración de que se es capaz.

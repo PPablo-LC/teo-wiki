@@ -32,7 +32,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fe]] — la fe que se purifica en la prueba
 - [[esperanza]] — la esperanza que sostiene
 - [[Espíritu]] — el Espíritu que asiste al perseguido
-- [[mártires]] — los mártires del AT y del NT
+- [[mártir]] — los mártires del AT y del NT
 - [[prueba_y_tentación]] — la persecución como prueba
 - [[paciencia]] — la paciencia de los justos
 - [[endurecimiento]] — el endurecimiento de los perseguidores
@@ -79,7 +79,7 @@ El creyente cuya [[fe]] penetra en el misterio de la persecución halla en su [[
 
 Los justos del AT adoptaron todos ante la persecución una actitud de [[paciencia]] y de valiente fidelidad en la esperanza. Jeremías es el tipo del perseguido fiel y orante *Jer 1,8.19*. Lo mismo se diga del siervo doliente *Is 52-53* y de los salmistas perseguidos: «¡Señor, sálvame de los que me persiguen!» *Sal 7,2*.
 
-Jesús perseguido no sólo confía en su Padre *Mt 26,53* *Jn 16,32*, sino que ora por sus perseguidores *Lc 23,34*. Los [[mártires|apóstoles]] y los primeros cristianos, blanco de las persecuciones, oran para verse libres y poder así anunciar el [[Evangelio]] *Act 4,29* *12,5*; como su maestro, se muestran pacientes *2Tes 1,4* y piden a Dios que perdone a sus verdugos *Act 7,60*.
+Jesús perseguido no sólo confía en su Padre *Mt 26,53* *Jn 16,32*, sino que ora por sus perseguidores *Lc 23,34*. Los [[mártir|apóstoles]] y los primeros cristianos, blanco de las persecuciones, oran para verse libres y poder así anunciar el [[Evangelio]] *Act 4,29* *12,5*; como su maestro, se muestran pacientes *2Tes 1,4* y piden a Dios que perdone a sus verdugos *Act 7,60*.
 
 #### Los consejos de Jesús
 

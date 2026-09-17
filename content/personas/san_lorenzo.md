@@ -36,7 +36,7 @@ San Lorenzo encarna el [[humor_negro]] cristiano en grado heroico: quien cree en
 
 ## Ver también
 
-[[humor_negro]], [[mártires]], [[señal_de_contradicción]], [[tomás_moro]], [[diácono]]
+[[humor_negro]], [[mártir]], [[señal_de_contradicción]], [[tomás_moro]], [[diácono]]
 
 ## Referencias
 

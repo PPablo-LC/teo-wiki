@@ -34,7 +34,7 @@ La Humanae Vitae se inscribe en la doctrina católica sobre el matrimonio y la s
 
 ## Ver también
 
-[[concilio_vaticano_ii]], [[humanae_vitae]], [[evangelii_nuntiandi]], [[ecumenismo]], [[nueva_evangelización]], [[juan_xxiii]]
+[[concilio_vaticano_ii]], [[humanae_vitae]], [[evangelii_nuntiandi]], [[ecumenismo]], [[nueva_evangelización]], [[san_juan_xxiii]]
 
 ## Referencias
 

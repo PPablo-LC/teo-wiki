@@ -40,7 +40,7 @@ Con [[abraham]] comienza verdaderamente la historia de la esperanza bíblica. El
 
 ### La falsa esperanza.
 
-Israel se veía tentado a asegurarse el porvenir como las [[naciones]], con un [[culto]] formalista, la [[idolos|idolatría]], el [[poder]] o las alianzas. Los profetas denuncian esta esperanza ilusoria *Jer 8,15* *13,16*. El [[día]] de Yahveh, «sombrío», será «el día de la [[ira]]» *Am 5,20* *Sof 1,15ss*.
+Israel se veía tentado a asegurarse el porvenir como las [[naciones]], con un [[culto]] formalista, la [[idolos|idolatría]], el [[poder]] o las alianzas. Los profetas denuncian esta esperanza ilusoria *Jer 8,15* *13,16*. El [[día_del_señor|día]] de Yahveh, «sombrío», será «el día de la [[ira]]» *Am 5,20* *Sof 1,15ss*.
 
 ### La verdadera esperanza.
 

@@ -32,7 +32,7 @@ Weigel estudió en el St. Mary's Seminary donde fue discípulo del padre John Co
 - **El pecado original como origen:** per la [[teología_del_cuerpo]], el sufrimiento nace de la auto-afirmación frente al auto-don.
 - **El amor fuente de sentido:** «el amor es la fuente más plena de la respuesta al sentido del sufrimiento», demostrado «en la cruz de Jesucristo» (SD 13); el cristiano participa del sufrimiento redentor de Cristo; el sufrimiento queda así «transformado de absurdo en misión».
 - **El Buen Samaritano:** detenerse junto al que sufre «no significa curiosidad sino disponibilidad» (SD 28).
-- **La cruz como eje:** «la cruz de Cristo es el eje alrededor del cual giran la historia y el cosmos» (de la espiritualidad carmelitana: [[san_juan_de_la_cruz]] y [[santa_teresa_de_ávila]]).
+- **La cruz como eje:** «la cruz de Cristo es el eje alrededor del cual giran la historia y el cosmos» (de la espiritualidad carmelitana: [[san_juan_de_la_cruz]] y [[santa_teresa_de_jesús]]).
 
 ## Relevancia teológica
 

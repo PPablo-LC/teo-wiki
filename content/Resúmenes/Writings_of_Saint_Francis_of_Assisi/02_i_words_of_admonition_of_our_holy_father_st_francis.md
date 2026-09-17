@@ -14,8 +14,8 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 - [[eucaristía]] — Adoración y reverencia al Cuerpo y Sangre de Cristo
 - [[eucaristía]] — Presencia real de Cristo bajo las especies de pan y vino
-- [[obediencia_franciscana]] — Renuncia a la voluntad propia en manos del superior
-- [[pobreza_espiritual]] — Beatitud de los pobres de espíritu
+- [[obediencia]] — Renuncia a la voluntad propia en manos del superior
+- [[pobreza_de_espíritu]] — Beatitud de los pobres de espíritu
 - [[humildad_cristiana]] — Virtud fundamental en la vida religiosa
 - [[caridad_fraterna]] — Amor al prójimo, incluso al enemigo
 - [[penitencia]] — Mortificación corporal y conversión del corazón

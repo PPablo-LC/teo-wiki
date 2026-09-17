@@ -12,7 +12,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[carismas_del_espíritu_santo]] — dones especiales del Espíritu para bien de la comunidad
+- [[carismas]] — dones especiales del Espíritu para bien de la comunidad
 - [[oraciones_de_sanación]] — oración orientada a la sanación interior, física o espiritual
 - [[exorcismo_y_oraciones_de_liberación]] — lucha contra la acción del demonio
 - [[primacía_de_la_gracia]] — predominio de la acción de Dios sobre el esfuerzo humano

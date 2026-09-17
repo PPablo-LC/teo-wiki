@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization and culture - 23"]
 
 ## Conceptos básicos referenciados
 
-[[oración]], [[fe]], [[esperanza]], [[caridad]], [[virtudes_teologales]], [[adoración_eucarística]], [[gracia]], [[aridez_espiritual]], [[pobreza_espiritual]], [[misericordia_de_dios]], [[santa_teresa_de_lisieux]], [[santa_bernadette_soubirous]], [[oración_de_los_pobres]], [[parábola_del_fariseo_y_el_publicano]], [[jubileo]], [[perdón_de_dios]]
+[[oración]], [[fe]], [[esperanza]], [[caridad]], [[virtudes_teologales]], [[adoración_eucarística]], [[gracia]], [[aridez_espiritual]], [[pobreza_de_espíritu]], [[misericordia_de_dios]], [[santa_teresa_de_lisieux]], [[santa_bernadette_soubirous]], [[oración_de_los_pobres]], [[parábola_del_fariseo_y_el_publicano]], [[jubileo]], [[perdón_de_dios]]
 
 ## Contenido
 

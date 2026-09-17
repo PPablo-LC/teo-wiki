@@ -33,7 +33,7 @@ El documental cristiano *Dioses de la nueva era* examina el yoga como una de las
 
 ### Según Hinduismo (artículo del wiki)
 
-El artículo [[hinduismo]] integra el yoga entre los elementos del hinduismo difundidos en Occidente mediante el movimiento [[new_age]], con la tensión señalada entre la valoración conciliar del hinduismo (NA 2) y la advertencia apologética del documental.
+El artículo [[hinduismo]] integra el yoga entre los elementos del hinduismo difundidos en Occidente mediante el movimiento [[nueva_era]], con la tensión señalada entre la valoración conciliar del hinduismo (NA 2) y la advertencia apologética del documental.
 
 **Tensión entre fuentes**: la Iglesia valora con respeto la búsqueda religiosa hindú en su conjunto (NA 2) y no ha emitido en las fuentes del wiki un juicio único sobre la práctica del yoga; el Documental «Dioses de la nueva era» presenta la advertencia más severa, subrayando el origen y los fines religiosos de las técnicas y su incompatibilidad práctica con la oración cristiana cuando se adoptan como substituto de ella.
 
@@ -45,14 +45,14 @@ El artículo [[hinduismo]] integra el yoga entre los elementos del hinduismo dif
 
 ## Relaciones doctrinales
 
-- Pertenece al [[hinduismo]] y se difunde vía [[new_age]]
+- Pertenece al [[hinduismo]] y se difunde vía [[nueva_era]]
 - Se vincula con [[kundalini]], [[reencarnación]], [[meditación]] y la oración cristiana
 - Su análisis se enmarca en [[teología_de_las_religiones]] y el discernimiento de la [[espiritualidad]]
 - Ofrece contraste con la [[meditación_cristiana]] y los estados de [[contemplación]]
 
 ## Ver también
 
-[[hinduismo]], [[new_age]], [[reencarnación]], [[meditación]], [[oración]], [[espiritualidad]], [[religiones]], [[teología_de_las_religiones]], [[resurrección]]
+[[hinduismo]], [[nueva_era]], [[reencarnación]], [[meditación]], [[oración]], [[espiritualidad]], [[religiones]], [[teología_de_las_religiones]], [[resurrección]]
 
 ## Referencias
 

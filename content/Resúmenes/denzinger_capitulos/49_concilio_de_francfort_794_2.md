@@ -17,7 +17,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[naturaleza_de_cristo]] — dos naturalezas y una sola persona; se rechaza «tres sustancias»
 - [[encarnación]] — la persona del Hijo unió la naturaleza humana: Dios hombre y hombre Dios
 - [[concilio_de_nicea]] — la fe de Nicea como norma del lenguaje cristológico
-- [[herejía_nestoriana]] — paralelo de la herejía adopciana con Nestorio
+- [[nestorianismo]] — paralelo de la herejía adopciana con Nestorio
 
 
 ## Contenido

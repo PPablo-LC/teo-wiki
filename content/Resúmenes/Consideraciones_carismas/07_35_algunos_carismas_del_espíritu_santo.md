@@ -12,7 +12,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[carismas_del_espíritu_santo]] — gracias especiales ordenadas al bien común de la Iglesia
+- [[carismas]] — gracias especiales ordenadas al bien común de la Iglesia
 - [[gracia_santificante]] — gracia que santifica; los carismas están ordenados a ella
 - [[don_de_lenguas]] — carisma de hablar inspirado por el Espíritu en lengua desconocida (xenolalia o glosolalia)
 - [[don_de_profecía]] — carisma de recibir palabras, imágenes o visiones para el bien de la comunidad

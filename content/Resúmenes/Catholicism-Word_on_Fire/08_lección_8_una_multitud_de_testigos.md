@@ -20,7 +20,7 @@ tags:
 
 - [[santidad|vocación_a_la_santidad]] — «un santo es quien deja que Cristo se suba a su barco»
 - [[gracia]] — invasión del amor divino que no socava sino fortalece lo que toca
-- [[virtud_cardinal]] — justicia, prudencia, fortaleza y templanza elevadas y transfiguradas por el amor
+- [[virtudes_cardinales]] — justicia, prudencia, fortaleza y templanza elevadas y transfiguradas por el amor
 - [[caminito]] — niñez espiritual de Santa Teresita; florecita bajo el sol universal de la gracia
 - [[comunión_de_los_santos]] — diversidad irrepetible refractando una sola luz
 

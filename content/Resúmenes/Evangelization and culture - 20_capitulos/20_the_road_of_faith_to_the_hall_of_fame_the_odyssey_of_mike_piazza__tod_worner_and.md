@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 ## Conceptos básicos referenciados
 
 - [[mike_piazza]] — receptor del Salón de la Fama del béisbol y católico practicante
-- [[fe_cristiana]] — el fundamento de la vida y carrera de Mike Piazza
+- [[fe]] — el fundamento de la vida y carrera de Mike Piazza
 - [[perseverancia]] — superar la adversidad y el rechazo desde la humildad
 - [[vocación]] — descubrir el plan de Dios a través del talento y el servicio
 - [[benedicto_xvi]] — «El que tiene esperanza vive de otra manera»

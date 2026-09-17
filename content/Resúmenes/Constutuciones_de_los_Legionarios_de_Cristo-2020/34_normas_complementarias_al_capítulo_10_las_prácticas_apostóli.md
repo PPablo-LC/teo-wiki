@@ -13,7 +13,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 ## Conceptos básicos referenciados
 
 - [[prácticas_apostólicas]]
-- [[formación_religiosa]]
+- [[formación_cristiana]]
 - [[apostolado]]
 - [[discernimiento_vocacional]]
 
@@ -21,7 +21,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ### Normas complementarias al Capítulo 10. Las prácticas apostólicas
 
-Considerando que las [[prácticas_apostólicas]] son una etapa de [[formación_religiosa]], estas normas establecen:
+Considerando que las [[prácticas_apostólicas]] son una etapa de [[formación_cristiana]], estas normas establecen:
 
 1. Los religiosos deben destinarse a lugares donde se garantice la debida atención y acompañamiento por parte de los superiores y directores de apostolado.
 2. Al asignarles encargos apostólicos, se considere ante todo que las prácticas tienen una finalidad formativa.

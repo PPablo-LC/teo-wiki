@@ -84,6 +84,10 @@ Giussani parte de una crítica de la mentalidad moderna: «la mentalidad moderna
 
 **Razón y salvación.** Concluye citando la STh I q.1 a.1: la verdad sobre Dios investigada con la sola razón llega a pocos, tras largo tiempo y con mezcla de error; de ahí la necesidad de la revelación, a la que la razón queda abierta (SR, cap. XIV).
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC documenta la degeneración histórica del concepto de razón (Parte I, cap. 3, §5): el racionalismo — desde la madurez del Renacimiento — concibe una razón «che non ammette né interferenza né integrazioni dal di fuori», *norma sui* y *norma universi* (Spinoza); la *illuminatio* agustiniana se convierte en autoiluminación de la razón autónoma. Contra ella, Giussani reivindica la ley suprema del realismo: «è l'oggetto a dettare il metodo di conoscenza» — la razón como conciencia del real en la totalidad de sus factores, donde existe la categoría de la posibilidad (el racionalismo es «l'abolizione della categoria della possibilità»). El corazón del desafío: «Che cosa è l'uomo? Un nulla capace di Dio» (de Bérulle); y la constatación final de la crisis: el hombre sin Dios «non ha più misura».
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[fe]], la [[verdad]], la [[libertad]], la [[ley_natural]], la [[revelación]], la [[gracia]], la [[filosofía]], la [[teología]] y el [[conocimiento_de_dios]].

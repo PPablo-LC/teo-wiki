@@ -18,7 +18,7 @@ tags: ["resumen", "capitulos lc frg"]
 - [[Federación_Regnum_Christi]]
 - [[Vida_consagrada]]
 - [[Consejos_evangélicos]]
-- [[Consagración_laical]]
+- [[consagración]]
 - [[Código_de_Derecho_Canónico]]
 
 

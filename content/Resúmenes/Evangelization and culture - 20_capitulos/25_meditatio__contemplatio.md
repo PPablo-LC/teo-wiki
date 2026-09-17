@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 ## Conceptos básicos referenciados
 
 - [[deporte]] — tema central de reflexión para la vida cristiana
-- [[fe_cristiana]] — los paralelos entre el entrenamiento deportivo y la vida de fe
+- [[fe]] — los paralelos entre el entrenamiento deportivo y la vida de fe
 - [[virtud]] — la mediación de la virtud a través del deporte
 - [[comunidad]] — el impacto del deporte en personas con discapacidades y sus familias
 - [[evangelización]] — cómo el deporte puede ser herramienta de evangelización

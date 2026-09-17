@@ -49,6 +49,10 @@ La actitud justa ante el Misterio es la de Job: «Aunque me matara, esperaré en
 
 ODPC tematiza el Misterio como «X» inabarcable al fondo de la experiencia: el objeto adecuado a la exigencia humana es «incommensurable con la razón como medida»; «la percepción de la existencia del misterio representa el vértice de la razón» — la razón intuye su existencia pero no puede alcanzarlo por sí ([[vertigine_dell_esistenza]]). Sobre este fondo, dos gestos son decisivos: (1) la razón no puede imponer medida al Misterio: negar de antemano que pueda revelarse y hacerse hombre es «la última forma extrema de idolatría» ([[exigencia_de_revelación]]); (2) si el Misterio ha entrado en la historia como hecho, la pregunta se vuelve histórica y no especulativa ([[hecho_de_cristo]]). La Encarnación es así el Misterio que no traiciona la trascendencia sino que la expresa: la distancia de Dios es estar dentro; y su modo final es pedagógico: se desvela por pasos que respetan la libertad ([[pedagogía_divina]]).
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC aporta dos matices decisivos (Parte I, cap. 3, §2; Parte IV, cap. 3). (1) En sentido cristiano «mistero» no es lo desconocido en general: «il mistero indica sì l'inattingibile e l'inafferrabile, in quanto però... si rivela nella nostra finitezza e si rende parte della nostra esperienza» — el misterio que se hace conocer sensiblemente; los sacramentos lo comunican permanentemente. (2) La prefación de 2003 define el desvelamiento final: «giunti al termine del cammino, quando tutto dovrebbe essere finalmente chiaro e compreso, proprio allora saremo costretti a riconoscere che tutto è Mistero... se non si introduce la figura della Madonna» — la humanidad de María como método del comunicarse de Dios, en el «caldo» de su seno.
+
 ## Distinciones importantes
 
 - **Misterio en la Biblia vs. misterios paganos**: el misterio bíblico no es esotérico ni iniciático; es un secreto divino revelado públicamente en Cristo y accesible por la fe.

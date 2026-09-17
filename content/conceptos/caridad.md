@@ -265,6 +265,20 @@ La caridad en San Francisco es amor concreto, universal y que incluye al enemigo
 ## Ver también
 [[virtud_de_la_caridad]], [[virtudes_teologales]], [[virtudes_infusas]]
 
+### Según ¡El amor es más fuerte! (LC-2015)
+
+El P. Álvaro Corcuera presenta la caridad como **eje central de la espiritualidad legionaria**:
+
+- **Distintivo del legionario**: «La caridad es el distintivo del seguidor de Cristo... no hay verdadera santidad sin caridad, que con la caridad todo es posible y que sin ella nuestra vida cristiana pierde su valor» (cap. 9, §11).
+- **Motor del apostolado**: «Sólo con caridad nuestro apostolado es auténtico... la caridad también es un medio de apostolado, pues sólo amándonos podremos dar un testimonio auténtico» (cap. 9, §19).
+- **Benedicencia**: «La benedicencia es una forma de apostolado que todos podemos realizar, es un modo concreto de pasar por el mundo... "haciendo el bien" (Hch 10, 38) y de edificar y servir a la Iglesia» (cap. 9, §103).
+- **Contra la maledicencia**: «La maledicencia es la más eficaz destructora del espíritu cristiano... la benedicencia va más allá, busca difundir el buen nombre de los demás» (cap. 9, §97).
+- **Puentes, no muros**: «Dios nos llama a ser puentes... El muro divide, crea tristezas y separación. Son los muros del orgullo» (cap. 9, §149).
+- **Fidelidad y caridad**: «La mejor expresión de la fidelidad en todos los campos es la caridad» (cap. 11, §187).
+- **Celo apostólico**: «El celo apostólico nace y se nutre de la caridad» (cap. 11, §81).
+- **Juicio final**: «Al final de nuestra vida no seremos juzgados por los grandes logros materiales que hayamos alcanzado en nuestro apostolado, sino que seremos juzgados sobre el amor» (cap. 12, §57).
+- **Ejemplo de Juan Pablo II**: «Vivía olvidado de sí mismo, sin importarle la fama o la crítica; simplemente amaba y, a ejemplo de Cristo, pasaba haciendo el bien» (cap. 12, §163).
+
 ### Según fuentes históricas LC-Wik (1980-1998)
 
 #### Constituciones — Legionarios de Cristo (1984, Art. 3)

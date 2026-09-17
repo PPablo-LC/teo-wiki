@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 
 ## Conceptos básicos referenciados
 
-- [[fe_cristiana]] — el viaje desde el ateísmo hasta la Iglesia Católica
+- [[fe]] — el viaje desde el ateísmo hasta la Iglesia Católica
 - [[conversión]] — encuentros con la belleza de la naturaleza y la Palabra de Dios
 - [[eucaristía]] — la hambre por la Presencia Real y el encuentro con el Esposo
 - [[diseño_inteligente]] — la investigación científica como testimonio del Creador

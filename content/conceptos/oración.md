@@ -230,6 +230,24 @@ Las Constituciones identifican la **meditación** como oración primaria y prior
 
 El *Salterio de mis Días* (manual de oración del Regnum Christi) describe la oración como **diálogo personal con Cristo**: no recitación mecánica, sino conversación amistosa con quien se sabe que nos ama. El *desapego* es señal de oración auténtica: desprenderse de las criaturas para adherirse a Dios. La oración aprende a amar más a Dios que las consolaciones sensibles.
 
+### Según ¡El amor es más fuerte! (LC-2015)
+
+El P. Álvaro Corcuera presenta la oración como **corazón de la vida legionario y fundamento del apostolado**:
+
+- **Vida de piedad, lo primero**: «La vida de piedad es lo primero que tenemos que cuidar si de verdad amamos a Dios nuestro Señor y queremos dar fruto en nuestro apostolado. Estar y conversar con Cristo, conocerlo y amarlo a través del Evangelio, la vida sacramental y la oración diaria hecha con toda la atención y profundidad que nos pide el amor» (cap. 11, §61).
+- **Actos de piedad**: «Todos y cada uno de los religiosos... vivan con fervor e íntima persuasión sus actos de piedad» (CLC 1998, 318; cap. 11, §63).
+- **P. Mora y P. Arumí**: no permitían salir al apostolado sin oración de la mañana; «primariedad teologal» (vivencia real de fe, esperanza, caridad) (cap. 11, §63-65).
+- **Discernimiento y purificación**: «Incrementemos por tanto, en cantidad y calidad, los tiempos que dedicamos a la oración y a la reflexión... adoración por turnos a lo largo del día... la oración, el contacto íntimo con Dios, irá alimentando en nuestros corazones las virtudes teologales» (cap. 11, §67).
+- **Fe, esperanza, caridad**: la oración alimenta las tres virtudes teologales (cap. 11, §69-81).
+- **Humildad y oración**: «El alma que saborea a Dios en la oración difícilmente caerá presa de la soberbia» (MMRC 180; cap. 11, §11).
+- **Padrenuestro**: «Jaculatorias: "Jesús, manso y humilde de corazón, ¡haz mi corazón semejante al tuyo!"... "Señor Jesús, te entrego mi mente para que Tú pienses en mí"» (cap. 9, §67; cap. 11, §29).
+- **Autenticidad**: «La oración es un elemento imprescindible para cultivar la conciencia clara y habitual de lo que Dios... quiere de mí... me proporciona también la fuerza, los motivos, para amar ese querer divino» (cap. 11, §155).
+- **Cristo modelo**: «Cuánto nos estimula contemplar a Jesús absorto tantas veces en oración durante amplios ratos! Ante las grandes decisiones, en las horas de oscuridad de su Pasión... Cristo supo descubrir en la oración la luz y la fuerza» (cap. 11, §155).
+- **Dirección espiritual**: «el sabio consejo del director espiritual puede ayudarnos a conocernos y a discernir mejor las manifestaciones concretas de este querer de Dios» (cap. 11, §155).
+- **Celo apostólico**: «beber del agua que Cristo nos quiere dar, en la oración y el contacto personal con Él en la Eucaristía... No olvidemos que al mismo tiempo que acompañamos a nuestros hermanos, nosotros mismos vamos recorriendo el camino, necesitados de la gracia de Dios» (cap. 12, §153).
+- **Juan Pablo II**: «¿De dónde venía este celo apostólico de Juan Pablo II? De su oración y de la seguridad en la fecundidad de la cruz... Quienes lo veíamos orar en su capilla privada o en las celebraciones de la Eucaristía, sabíamos que su corazón ardía de amor por Cristo, porque era un hombre que oraba» (cap. 12, §161).
+- **Misiones**: «Lo primero que tenemos que hacer es creer en la fuerza de la oración. Cuando oramos comunicamos a Cristo, o más bien, Cristo se comunica a través de quien ora» (cap. 12, §185).
+
 ### Según Evangelization ### Según Evangelization & Culture (EAC-3) Culture n.º 3 «The Digital Age» (EAC-3)
 
 La evangelización digital exige una vida interior sólida. «El mayor peligro para los evangelizadores online es el cinismo» —los que se desaniman ante la falta de respuestas o los ataques de los críticos. La solución es desarrollar una «profunda vida de oración afectiva que anude constantemente la voluntad a la de Cristo» y mantenerse ligado a la identidad de «hijo amado de Dios», de modo que la resistencia no desvíe de la misión [EAC-3, 15_vogt_media_evangelist].

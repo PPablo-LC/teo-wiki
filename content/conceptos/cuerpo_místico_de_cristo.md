@@ -67,10 +67,13 @@ El deseo de disolución en Dios expresa la tensión ascética hacia la unidad pe
 - La [[caridad]] es el vínculo de la unidad: sin caridad no hay Cuerpo místico, sino multitud desarticulada
 - Se actualiza sacramentalmente en la [[eucaristía]], que hace presentes a los miembros unidos a Cristo (CEC §950-953)
 - Se despliega en la [[iglesia]] como pueblo de Dios, nueva alianza y reino de Cristo
-- La [[comunión_de_los_santos]] es la trama concreta de la fraternidad que edifica el Cuerpo místico
+- La [[comunión_de_los_santos]] es la trama concreta de la fraternidad que edifica el Cuerpo místico## Ver también
 
-## Ver también
 [[cabeza_de_la_iglesia]], [[caridad]], [[iglesia]], [[comunión_de_los_santos]], [[eucaristía]], [[espíritu_santo]], [[voto_privado]], [[unidad_y_caridad]]
+
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC define el «Corpo misterioso di Cristo» como la tercera fisonomía del único fenómeno eclesial: «storicamente parlando questa realtà si chiama 'Chiesa', sociologicamente parlando 'popolo di Dio', ontologicamente parlando... 'Corpo misterioso di Cristo'» (Parte I, cap. 2). Giussani recupera la idea hebrea de «corpo», que indica también lo que el hombre produce — el hijo es cuerpo de los padres, la obra hace cuerpo con el artista —: Cristo «investe così profondamente l'uomo che egli è parte di Lui, fa corpo con Lui»; las experiencias humanas más intensas (artística, afectiva) son presentimientos de esa unidad concreta. La energía con que Cristo debe poseer la historia «afferra il credente in modo tale da assimilarlo come parte del mistero della Sua stessa persona»: lo documenta el encuentro de Damascus (At 9,4: «perché mi perseguiti?» — y no había conocido a Cristo: perseguía a los que creían en Él), que Pablo expresará después con «Noi, pur essendo molti, siamo un corpo solo» (1 Cor 10,17), la imagen mediterránea de la vite (Gv 15,5) y la expresión más bella del método del anuncio: lo que las manos tocaron de la Palabra de vida (1 Gv 1,1-3).
 
 ## Referencias
 

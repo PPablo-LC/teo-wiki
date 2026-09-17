@@ -20,7 +20,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[misión]] — la misión confiada a Pedro
 - [[iglesia]] — la Iglesia construida sobre Pedro
 - [[fe]] — impedir que desfallezca su fe
-- [[pastor]] — el buen pastor que da la vida por sus ovejas
+- [[buen_pastor]] — el buen pastor que da la vida por sus ovejas
 - [[vida]] — comunicar la vida eterna a las ovejas
 
 ## Contenido
@@ -45,6 +45,6 @@ b. *Lc 22,31s* y Hechos. Jesús, haciendo sin duda alusión al nombre de Pedro, 
 
 Por otra parte, el hecho de que Pedro se vea obligado a justificar su conducta en el bautismo de Cornelio *11,1-18*, el modo de desarrollarse el concilio de Jerusalén *15,1-35*, así como las alusiones de Pablo en su epístola a los Gálatas *Gal 1,18-2,14*, revelan que en la dirección, en gran parte colegial, de la Iglesia de Jerusalén tiene Santiago una posición importante y que su conformidad era capital. Pero estos hechos y su relación, en lugar de representar un obstáculo para el primado y la misión de Pedro, ponen en claro su sentido profundo. En efecto, la autoridad de Santiago no tiene las mismas raíces ni la misma expresión que la de Pedro: con un título particular recibió éste la misión —con todo lo que ella comporta— de transmitir una regla de fe sin quiebra *Gal 1,18*, y es el depositario de las promesas de vida *Mt 16,18s*.
 
-c. *Jn 21*. Por tres veces, en forma solemne y quizá jurídica, Cristo resucitado confía a Pedro el cuidado de la grey entera, corderos y ovejas. A la luz de la parábola del buen [[pastor|pastor]] *Jn 10,1-28* debe comprenderse esta misión. El buen pastor salva a sus ovejas, reunidas en un solo rebaño *10,16* *11,52*, y éstas tienen la vida en abundancia; da incluso su propia vida por sus ovejas *10,11*; así Cristo, anunciando a Pedro su martirio futuro, añade: «Sígueme.» Si ha de seguir las huellas de su maestro, no es solamente dando su vida, sino comunicando la [[vida|vida]] eterna a sus ovejas, a fin de que nunca perezcan *10,28*.
+c. *Jn 21*. Por tres veces, en forma solemne y quizá jurídica, Cristo resucitado confía a Pedro el cuidado de la grey entera, corderos y ovejas. A la luz de la parábola del buen [[buen_pastor|pastor]] *Jn 10,1-28* debe comprenderse esta misión. El buen pastor salva a sus ovejas, reunidas en un solo rebaño *10,16* *11,52*, y éstas tienen la vida en abundancia; da incluso su propia vida por sus ovejas *10,11*; así Cristo, anunciando a Pedro su martirio futuro, añade: «Sígueme.» Si ha de seguir las huellas de su maestro, no es solamente dando su vida, sino comunicando la [[vida|vida]] eterna a sus ovejas, a fin de que nunca perezcan *10,28*.
 
 Como Cristo, roca, piedra viva *1Pe 2,4*, pastor que tiene el poder de admitir en la Iglesia, es decir, de salvar de la muerte a los fieles y de comunicarles la vida divina, Pedro, inaugurando una función esencial en la Iglesia, es verdaderamente el «vicario» de Cristo. En esto consiste su misión y su grandeza.

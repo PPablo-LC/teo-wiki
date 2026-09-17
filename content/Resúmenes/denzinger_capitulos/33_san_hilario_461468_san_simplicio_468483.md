@@ -17,7 +17,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[depositum_fidei]] — depósito de la fe confiado a la Iglesia
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
 - [[jerarquía_eclesiástica]] — orden de autoridad en la Iglesia
-- [[infalibilidad_pontificia]] — privilegio del papa en materia de fe y moral
+- [[infalibilidad_papal]] — privilegio del papa en materia de fe y moral
 
 ## Contenido
 

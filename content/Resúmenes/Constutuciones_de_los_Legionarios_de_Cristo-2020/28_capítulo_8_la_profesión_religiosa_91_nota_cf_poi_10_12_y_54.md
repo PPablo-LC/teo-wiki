@@ -18,7 +18,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 - [[votos_temporales]]
 - [[votos_perpetuos]]
 - [[alianza_de_amor]]
-- [[voto_proprio]]
+- [[voto_privado]]
 
 ## Contenido
 
@@ -56,7 +56,7 @@ Los superiores mayores tienen facultad para recibir la [[profesión_religiosa]] 
 
 ### Fórmula para la emisión de la profesión religiosa
 
-La fórmula incluye la promesa y voto a Dios omnipotente de vivir en pobreza, castidad y obediencia según las Constituciones, con la confianza en el auxilio de la gracia divina, los méritos del Corazón de Jesucristo y la intercesión de María y los santos patronos. Incluye también el [[voto_proprio]] de no obrar para alcanzar o conservar cargos de gobierno en la Congregación.
+La fórmula incluye la promesa y voto a Dios omnipotente de vivir en pobreza, castidad y obediencia según las Constituciones, con la confianza en el auxilio de la gracia divina, los méritos del Corazón de Jesucristo y la intercesión de María y los santos patronos. Incluye también el [[voto_privado]] de no obrar para alcanzar o conservar cargos de gobierno en la Congregación.
 
 ## Secciones incluidas
 

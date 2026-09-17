@@ -17,7 +17,7 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 - [[fortaleza]] — valor para perseverar ante la adversidad
 - [[humildad]] — aprender de los errores y seguir creciendo
 - [[gratitud]] — ver todo como un don de Dios
-- [[fe_cristiana]] — la base de la filosofía de entrenamiento y la vida diaria
+- [[fe]] — la base de la filosofía de entrenamiento y la vida diaria
 - [[comunidad]] — respeto y amor mutuo dentro del equipo
 - [[integridad]] — hacer lo correcto incluso cuando nadie mira
 

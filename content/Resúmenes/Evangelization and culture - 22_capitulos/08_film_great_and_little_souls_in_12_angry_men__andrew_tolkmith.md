@@ -14,7 +14,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 
 - [[fortaleza]] — virtud necesaria para perseverar en el bien frente a la presión del vicio
 - [[justicia]] — virtud que exige firmeza y coraje para administrar derecho conforme a la verdad
-- [[virtud_cardinal]] — las cuatro virtudes de las que depende toda vida moral buena
+- [[virtudes_cardinales]] — las cuatro virtudes de las que depende toda vida moral buena
 - [[beatitud]] — la cuarta bienaventuranza (hambre y sed de justicia) como florecimiento de la fortaleza
 - [[conciencia_moral]] — facultad del jurado para discernir la culpabilidad o inocencia del acusado
 - [[dignidad_humana]] — la persona real de carne y hueso que está en juego en cada acto de justicia
@@ -31,7 +31,7 @@ Doce hombres encerrados en una habitación estrecha de Nueva York en pleno veran
 
 ### El jurado apacible y la justicia como bien personal
 
-Cada jurado busca completar su deber lo más rápido posible: uno tiene boletos para un juego de béisbol, otro quiere escapar de simpatías personales con el caso, algunos disfrutan la posibilidad de vindicar su prejuicio racial, otros están sinceramente convencidos de que la evidencia es concluyente. Tolkmith señala que muchos de estos jurados se aferran pasivamente a la idea de que el sistema de justicia se sostiene por sí mismo, sin comprender que la justicia es profundamente personal —concierne a personas de carne y hueso. Las [[virtud_cardinal]] no existen en un vacío abstracto; la fortaleza se refiere a la acción real orientada al bien real que persiste a través de obstáculos, y la justicia es un bien real que exige fortaleza.
+Cada jurado busca completar su deber lo más rápido posible: uno tiene boletos para un juego de béisbol, otro quiere escapar de simpatías personales con el caso, algunos disfrutan la posibilidad de vindicar su prejuicio racial, otros están sinceramente convencidos de que la evidencia es concluyente. Tolkmith señala que muchos de estos jurados se aferran pasivamente a la idea de que el sistema de justicia se sostiene por sí mismo, sin comprender que la justicia es profundamente personal —concierne a personas de carne y hueso. Las [[virtudes_cardinales]] no existen en un vacío abstracto; la fortaleza se refiere a la acción real orientada al bien real que persiste a través de obstáculos, y la justicia es un bien real que exige fortaleza.
 
 ### La cuarta bienaventuranza y el don de fortaleza
 

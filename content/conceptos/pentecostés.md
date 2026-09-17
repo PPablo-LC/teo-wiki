@@ -60,6 +60,10 @@ Giussani vincula Pentecostés con la Ascensión y con la victoria de Cristo sobr
 
 «En Pentecostés la posesión que Cristo tiene de la vida —hasta el punto de que de doce personas hace una sola cosa— comienza a mostrarse»: Pentecostés es «el momento en que el fruto de la victoria de Cristo, que en la historia se llama Iglesia, comienza a existir, a mostrarse». Y la Iglesia es «un modo de verse entre hombres, de concebirse, de concebir las relaciones, de entender qué es el otro —el valor del otro—, de querer bien al otro, de quererse bien; en suma, una compañía vocacional, una compañía de gente en camino hacia la explosión de su destino» (AED, 32, 57-61).
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC precisa la relación entre Pentecostés y la comunidad: el don del Espíritu «non è nel senso che ora per la prima volta viene in esistenza la comunità di Gesù Cristo — la comunità di Cristo già c'era —, ma perché l'essenza di questa comunità viene chiarita nella sua origine in quanto investita da una 'Forza dall'alto'» (Parte II, cap. 2, §2). Guardini: la Pentecostés es «l'ora natalizia della fede cristiana come un essere in Cristo». Giussani nota el juego semántico de *altus*: no significa solo «alto» sino también «profondo» — una fuerza que está en la raíz del ser. El don del Espíritu genera una personalidad nueva (las imágenes de unción, sigillo y caparra de 2 Cor 1,21-22) y la capacidad profética de pronunciarse ante el mundo; es para todos los bautizados, no solo para personalidades eminentes (At 2,38-39).
+
 ## Distinciones importantes
 
 - Pentecostés culmina el tiempo pascual (50 días después de Pascua)

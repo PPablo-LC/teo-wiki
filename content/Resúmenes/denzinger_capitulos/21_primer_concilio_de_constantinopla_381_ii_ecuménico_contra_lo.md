@@ -16,7 +16,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[arrianismo]] — herejía que niega la consustancialidad del Hijo
 - [[acedismo]] — herejía que niega la divinidad del Espíritu Santo
 - [[sabelianismo]] — herejía que confunde las Personas divinas
-- [[consustancial]] — igualdad de sustancia entre las Personas divinas
+- [[consustancialidad]] — igualdad de sustancia entre las Personas divinas
 - [[Espíritu_Santo]] — tercera Persona de la Trinidad
 - [[Filioque]] — adición «y del Hijo» al credo
 - [[bautismo]] — sacramento de iniciación cristiana
@@ -42,4 +42,4 @@ Versión de Dionisio el Exiguo: misma fórmula con variantes menores y la adici�
 
 ## PRIMER CONCILIO DE CONSTANTINOPLA, 381 — II ECUMÉNICO
 
-El II Concilio Ecuménico (Constantinopla, 381) condena las herejías anticristianas y confirma el [[símbolo_niceno_constantinopolitano]], que es la profesión de fe completa de la Iglesia sobre la [[trinidad]] y la [[encarnación]]. El símbolo incluye la [[consustancial]] del Hijo con el Padre, la Encarnación por obra del [[Espíritu_Santo]] y de María Virgen, y la processión del Espíritu Santo del Padre (con la adición posterior del Filioque).
+El II Concilio Ecuménico (Constantinopla, 381) condena las herejías anticristianas y confirma el [[símbolo_niceno_constantinopolitano]], que es la profesión de fe completa de la Iglesia sobre la [[trinidad]] y la [[encarnación]]. El símbolo incluye la [[consustancialidad]] del Hijo con el Padre, la Encarnación por obra del [[Espíritu_Santo]] y de María Virgen, y la processión del Espíritu Santo del Padre (con la adición posterior del Filioque).

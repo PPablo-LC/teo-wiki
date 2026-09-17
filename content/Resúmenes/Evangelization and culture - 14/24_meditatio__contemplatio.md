@@ -20,7 +20,7 @@ tags: ["resumen", "evangelization and culture - 14"]
 - [[deseo]] — anhelo interior que impulsa la búsqueda de Dios y la plenitud
 - [[pro_vida]] — defensa de la vida humana desde la concepción en el mundo post-Roe
 - [[san_buenaventura]] — Doctor de la Iglesia franciscano, maestro de la vida contemplativa
-- [[santa_teresa_de_ávila]] — Doctora de la Iglesia, mística del *Éxtasis* de Bernini
+- [[santa_teresa_de_jesús]] — Doctora de la Iglesia, mística del *Éxtasis* de Bernini
 - [[blas_pascal]] — filósofo y matemático, autor de las «Apuestas de Pascal»
 - [[rabino_jonathan_blake]] — reflexión sobre la «sensación de carencia» como obstáculo para la alegría
 - [[juan_duns_scoto]] — beato y filósofo escolástico, contribuciones a la evangelización

@@ -12,7 +12,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-- [[vida_fraterna]]
+- [[vida_fraterna_religiosa]]
 - [[salud]]
 - [[difuntos]]
 - [[sufragios]]

@@ -12,7 +12,7 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-- [[tribunal_supremo_apostólico_cdf]] — naturaleza del tribunal de la CDF
+- [[dicasterio_para_la_doctrina_de_la_fe]] — naturaleza del tribunal de la CDF
 - [[proceso_penal_canónico]] — marco procesal aplicable
 
 ## Contenido

@@ -33,7 +33,7 @@ En la teología de las religiones de Juan Pablo II, el hinduismo es la religión
 
 ### Según el Documental «Dioses de la nueva era» (DocNDE)
 
-Una perspectiva divergente pero complementaria ofrece el análisis del documental cristiano *Dioses de la nueva era*, que examina la presencia del hinduismo en Occidente desde la advertencia pastoral. Para el documental, el hinduismo es una religión politeísta que se presenta como amenaza espiritual cuando se difunde descosida de su contexto: el [[yoga]] como «vehículo misionero» (considerado por la producción como práctica espiritual ligada a la [[kundalini]] y al despertar de energías psíquicas), la [[reencarnación]] como doctrina central en contraste con la [[resurrección]], el [[relativismo_moral]] de su filosofía, los [[gurúes]] como líderes que propagan su fe en Occidente, la [[new_age]] como movimiento sincrético que difunde ideas hindúes, y la supuesta «infiltración institucional» en escuelas, hospitales y organismos internacionales. El documental conecta el panteísmo hindú con la «La Fuerza» de Star Wars y con analogías históricas (suástica, nazismo) rechazadas por otros análisis.
+Una perspectiva divergente pero complementaria ofrece el análisis del documental cristiano *Dioses de la nueva era*, que examina la presencia del hinduismo en Occidente desde la advertencia pastoral. Para el documental, el hinduismo es una religión politeísta que se presenta como amenaza espiritual cuando se difunde descosida de su contexto: el [[yoga]] como «vehículo misionero» (considerado por la producción como práctica espiritual ligada a la [[kundalini]] y al despertar de energías psíquicas), la [[reencarnación]] como doctrina central en contraste con la [[resurrección]], el [[relativismo]] de su filosofía, los [[gurúes]] como líderes que propagan su fe en Occidente, la [[nueva_era]] como movimiento sincrético que difunde ideas hindúes, y la supuesta «infiltración institucional» en escuelas, hospitales y organismos internacionales. El documental conecta el panteísmo hindú con la «La Fuerza» de Star Wars y con analogías históricas (suástica, nazismo) rechazadas por otros análisis.
 
 **Tensión entre fuentes**: *Nostra Aetate* y la UDE presentan el hinduismo en clave de respeto y reconocimiento de lo verdadero y santo, dentro del diálogo interreligioso; el Documental de la nueva era lo presenta en clave de advertencia apologética, subrayando los riesgos de la difusión neohindú en Occidente y el conflicto doctrinal (reencarnación vs. resurrección). Ambas perspectivas coexisten: la valoración conciliar de la sinceridad religiosa no implica aceptar la doctrina hindú como complementaria de la Revelación cristiana.
 
@@ -48,11 +48,11 @@ Una perspectiva divergente pero complementaria ofrece el análisis del documenta
 - Se enmarca en [[religiones]], [[religiones_no_cristianas]], [[teología_de_las_religiones]] y [[diálogo_interreligioso]]
 - Se articula con [[semina_verbi]], [[nostra_aetate]], [[islam]], [[budismo]], [[judaísmo]]
 - Su contraste esencial es [[reencarnación]] vs. [[resurrección]]
-- Su difusión contemporánea se relaciona con [[new_age]], [[yoga]], [[ocultismo]], [[esoterismo]]
+- Su difusión contemporánea se relaciona con [[nueva_era]], [[yoga]], [[ocultismo]], [[esoterismo]]
 
 ## Ver también
 
-[[religiones]], [[teología_de_las_religiones]], [[diálogo_interreligioso]], [[semina_verbi]], [[nostra_aetate]], [[budismo]], [[reencarnación]], [[resurrección]], [[yoga]], [[new_age]], [[salvación_de_los_no_cristianos]]
+[[religiones]], [[teología_de_las_religiones]], [[diálogo_interreligioso]], [[semina_verbi]], [[nostra_aetate]], [[budismo]], [[reencarnación]], [[resurrección]], [[yoga]], [[nueva_era]], [[salvación_de_los_no_cristianos]]
 
 ## Referencias
 

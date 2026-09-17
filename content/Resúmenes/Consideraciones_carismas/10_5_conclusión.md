@@ -12,7 +12,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[carismas_del_espíritu_santo]] — dones del Espíritu que siguen actuando en el «hoy» de la Iglesia
+- [[carismas]] — dones del Espíritu que siguen actuando en el «hoy» de la Iglesia
 - [[espíritu_santo]] — protagonista de toda renovación verdadera
 - [[renovación_carismática]] — gracia pentecostal para toda la Iglesia reconocida por el Papa Francisco
 - [[discernimiento_espiritual]] — examinarlo todo y quedarse con lo bueno (1 Tes 5, 19-21)
@@ -21,7 +21,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 📄 **Fuente original:** `11_conclusion.md`
 
-Estas consideraciones no son la última palabra sobre los [[carismas_del_espíritu_santo]]. Pretenden cumplir el encargo de estudiar el tema y ofrecer indicaciones doctrinales y orientaciones pastorales, siendo útiles a quienes pidieron mayor claridad y a quienes ejercen la autoridad.
+Estas consideraciones no son la última palabra sobre los [[carismas]]. Pretenden cumplir el encargo de estudiar el tema y ofrecer indicaciones doctrinales y orientaciones pastorales, siendo útiles a quienes pidieron mayor claridad y a quienes ejercen la autoridad.
 
 El [[espíritu_santo]] sigue actuando en el «hoy» de la Iglesia, como en Pentecostés. El Papa Francisco afirmó que «la [[renovación_carismática]] es una gracia pentecostal para toda la Iglesia» (Discurso, 3 de julio de 2015). El mismo Espíritu que suscita los carismas interviene a lo largo de la historia para revitalizarlos. Las expresiones externas pueden variar con el tiempo, pero el secreto de toda renovación verdadera pasa por una mayor apertura y docilidad al Espíritu. Cuando el Espíritu derrama sus dones y revitaliza un carisma, los frutos siempre son buenos.
 

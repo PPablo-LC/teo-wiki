@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 - [[icono]] — imagen que apunta a algo mayor, en el arte y en la fe
 - [[idolatría]] — peligro de adorar la imagen en sí misma en lugar de lo que representa
 - [[arte]] — medio para elevar la mirada hacia lo trascendente
-- [[fe_cristiana]] — la transformación en Cristo a través de la cruz
+- [[fe]] — la transformación en Cristo a través de la cruz
 - [[evangelización]] — uso de las dotes personales para proyectar la promesa eterna
 
 ## Contenido

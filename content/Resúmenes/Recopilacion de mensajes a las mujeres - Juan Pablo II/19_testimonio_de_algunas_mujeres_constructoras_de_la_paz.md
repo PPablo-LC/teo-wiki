@@ -21,7 +21,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## TESTIMONIO DE ALGUNAS MUJERES CONSTRUCTORAS DE LA PAZ
 
-Este apartado sirve como título de sección para las meditaciones dominicales del Santo Padre durante el mes de febrero de 1995, en las que comentó el testimonio de cuatro figuras femeninas que en la historia de la Iglesia se distinguieron por su obra de [[paz]]: [[santa_Brigida_de_Suecia]], [[santa_Catalina_de_Siena]], [[santa_Francisca_Xavier_Cabrini]] y la Beata [[Edith_Stein]]. A través de estos testimonios, el Papa desarrolla su reflexión sobre la mujer como educadora para la paz y sobre el papel del [[testimonio_cristiano]] en la construcción de una paz auténtica y duradera.
+Este apartado sirve como título de sección para las meditaciones dominicales del Santo Padre durante el mes de febrero de 1995, en las que comentó el testimonio de cuatro figuras femeninas que en la historia de la Iglesia se distinguieron por su obra de [[paz]]: [[santa_Brigida_de_Suecia]], [[santa_Catalina_de_Siena]], [[santa_Francisca_Xavier_Cabrini]] y la Beata [[beata_edith_stein]]. A través de estos testimonios, el Papa desarrolla su reflexión sobre la mujer como educadora para la paz y sobre el papel del [[testimonio_cristiano]] en la construcción de una paz auténtica y duradera.
 
 ## Mapa del archivo fuente
 

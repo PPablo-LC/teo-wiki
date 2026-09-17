@@ -15,7 +15,7 @@ tags: ["resumen", "nueva_era", "analisis_doctrinal"]
 - [[hinduismo]] — religión cuyas prácticas se documentan visualmente
 - [[yoga]] — posturas (asanas, cobra) y técnicas respiratorias (pranayama) filmadas
 - [[sadhus]] — sacerdotes desnudos con cenizas de cremaciones documentados en imagen
-- [[new_age]] — movimiento cuya normalización se rastrea en cultura infantil
+- [[nueva_era]] — movimiento cuya normalización se rastrea en cultura infantil
 - [[kundalini]] — energía serpiente cuya representación visual se documenta
 - [[ocultismo]] — criaturas reptilianas en dibujos animados y películas infantiles
 - [[nazismo]] — archivos históricos del régimen nazi usados como paralelo visual

@@ -59,6 +59,10 @@ La Veritatis Splendor (§27) reafirma la Tradición viva como el medio por el cu
 
 **La ruptura con el pasado (cap. VIII).** La negación de la pregunta de fondo —con su reducción de la realidad— rompe la continuidad de la experiencia: el hombre que niega la tradición heredada se queda sin las claves que otros ya comprendieron, vaciando la pregunta y condenándose a la soledad y la incomunicabilidad. La fidelidad a la tradición, en cambio, mantiene viva la experiencia acumulada del sentido (SR, `15_capitolo_ottavo.md`, §1-15, 16-30).
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC describe la tradición como el instrumento más grande de la comunicación del verdadero en la vida de la Iglesia (Parte III, cap. 3, §1a): «la coscienza della comunità che vive ora, ricca della memoria di tutta la sua vicenda storica». Siguiendo a de Lubac sobre *Dei Verbum*, la tradición es «tradizione concreta e vivente, che fruttifica durante il tempo»: la comunidad cristiana, como una persona que crece, toma conciencia de la verdad que Dios le ha puesto dentro; la memoria es elemento fundamental de su personalidad, y su falta sería síntoma de esclerosis. La unidad del cristiano con la tradición es una de las grandes contra-pruebas de su autenticidad religiosa. Contra la objeción de que la Iglesia sea una corrupción del cristianismo, Newman: tras la serie de sus desarrollos, «se fosse una corruzione, avremmo un esempio di un errore continuato così nuovo... da parere quasi un miracolo» — y Whitehead había observado que una ideología no mantiene coherencia con su origen más de una generación: «la Chiesa con la sua storia ormai millenaria osa affermare di non essersi mai contraddetta. Tale sfida è già miracolo». Por eso «la fedeltà alla tradizione non è mai ripetizione servile» (de Lubac): referirse a los primitivos y a los Padres puede ser fecundo solo en el acontecimiento de una dimensión personal nueva.
+
 ## Ver también
 
 [[tradición_apostólica]], [[sagrada_escritura]], [[magisterio_de_la_iglesia]], [[depósito_de_la_fe]], [[revelación_divina]], [[dei_verbum]]

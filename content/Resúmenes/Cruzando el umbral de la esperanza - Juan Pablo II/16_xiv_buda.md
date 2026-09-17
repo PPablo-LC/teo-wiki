@@ -15,7 +15,7 @@ tags: ["resumen", "cruzando el umbral de la esperanza"]
 - [[nirvana|nirvana]] — estado de perfecta indiferencia respecto al mundo, culmen de la soteriología budista
 - [[mística_cristiana|mística cristiana]] — nacida de la Revelación del Dios vivo, no de una iluminación negativa
 - [[desprendimiento|desprendimiento cristiano]] — medio para la unión amorosa con Dios personal (san Juan de la Cruz)
-- [[new_age|New Age]] — renacimiento de las antiguas ideas gnósticas
+- [[nueva_era|New Age]] — renacimiento de las antiguas ideas gnósticas
 
 ## Contenido
 
@@ -23,4 +23,4 @@ El budismo, como el cristianismo, es una religión de salvación; pero sus soter
 
 Contra la conexión a veces propuesta con los místicos cristianos (Eckhart, Tauler, Ruysbroeck, santa Teresa), el Papa muestra que san Juan de la Cruz no concibe el desprendimiento como fin en sí mismo: propone desprenderse del mundo para unirse a lo que está fuera del mundo, no un nirvana sino un Dios personal, mediante la purificación activa y pasiva preparatoria de la *Llama de amor viva*: la unión se realiza por el amor. La [[mística_cristiana|mística cristiana]] nace de la Revelación del Dios vivo, no de una iluminación puramente negativa, y edifica la Iglesia y la civilización occidental marcada por positiva referencia al mundo.
 
-Cita *Gaudium et Spes* 2: el mundo, creado y conservado por el amor del Creador, sometido al pecado pero destinado en Cristo a transformarse. Para el cristianismo no tiene sentido hablar del mundo como mal radical. Por eso alerta a los cristianos entusiastas de técnicas orientales de meditación, a veces aceptadas acríticamente: hay que conocer primero el propio patrimonio espiritual, remitiéndose al documento de la Congregación para la Doctrina de la Fe sobre la meditación cristiana (1989). Cuestión aparte es la [[new_age|New Age]], nuevo modo de practicar la gnosis que tergiversa la Palabra de Dios sustituyéndola por palabras meramente humanas.
+Cita *Gaudium et Spes* 2: el mundo, creado y conservado por el amor del Creador, sometido al pecado pero destinado en Cristo a transformarse. Para el cristianismo no tiene sentido hablar del mundo como mal radical. Por eso alerta a los cristianos entusiastas de técnicas orientales de meditación, a veces aceptadas acríticamente: hay que conocer primero el propio patrimonio espiritual, remitiéndose al documento de la Congregación para la Doctrina de la Fe sobre la meditación cristiana (1989). Cuestión aparte es la [[nueva_era|New Age]], nuevo modo de practicar la gnosis que tergiversa la Palabra de Dios sustituyéndola por palabras meramente humanas.

@@ -36,7 +36,7 @@ Delp es testigo de que la alegría cristiana no depende de las circunstancias si
 
 ## Ver también
 
-[[alegría_cristiana]], [[humor]], [[esperanza_cristiana]], [[mártires]]
+[[alegría_cristiana]], [[humor]], [[esperanza_cristiana]], [[mártir]]
 
 ## Referencias
 

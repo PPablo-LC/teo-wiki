@@ -46,7 +46,23 @@ Royo Marín dedica un amplio tratado a la mariología: estudia la maternidad div
 
 Juan Pablo II consagra a María la catequesis de la Teología del Cuerpo (María como modelo de integración de cuerpo y espíritu) y la encíclica *Redemptoris Mater* (1987): María es la Madre del Redentor, residente en el centro de la Iglesia peregrina, modelo de fe y de peregrinación espiritual. Su cooperación a la obra de Cristo es singular e insustituible.
 
-## Distinciones importantes
+### Según ¡El amor es más fuerte! (LC-2015)
+
+El P. Álvaro Corcuera presenta a María como **madre, modelo y maestra de la vida legionario**:
+
+- **Madre del Sí**: «María, la Virgen del sí, la mujer auténtica y coherente por antonomasia, fiel a la palabra dada a Dios y a los hombres» (cap. 11, §179).
+- **Belén y Annunciación**: «¿Quién no se conmueve al ver que Dios nos ha amado tanto que se ha hecho hombre para salvarnos? Desde el portal de Belén... María y José nos enseñan a vivir para Dios, sirviendo siempre y sin buscar recompensas» (cap. 11, §9).
+- **Escucha de la Palabra**: «María escucha, incluso en el silencio de las palabras... ¡Qué atenta está luego para ir a ayudar a su prima Isabel! ¡Cómo se da cuenta de que los novios en Caná no tienen vino!» (cap. 9, §45).
+- **Modelo de humildad**: «mirar a María... el hombre no vacila a mostrarse en su fragilidad... la mirada materna de María nos invita a la humildad de corazón» (Benedicto XVI, Lourdes 2008; cap. 11, §21).
+- **Consuelo de los afligidos**: «las letanías lauretanas... invocan a María como "consuelo de los afligidos"... ¿Hay alguien que no experimente paz y consuelo en brazos de su Madre?» (cap. 10, §67).
+- **Padre Nuestro**: «Por tu Inmaculada Concepción, oh María, purifica mi cuerpo y santifica mi alma» (oración diaria legionaria; cap. 11, §115).
+- **Totus tuus**: «Que nuestro corazón de hijos esté siempre unido al de nuestra Madre, para que Ella nos ayude a formarlo como el de Jesucristo» (Juan Pablo II; cap. 11, §115).
+- **En la cruz**: «como hizo María, consolando a su Hijo con su presencia al pie de la cruz» (cap. 10, §63).
+- **Regina de la Paz**: «María, Reina de la Paz, que nos llena de esperanza, sabiendo con certeza que nos conduce a puerto seguro» (cap. 13, §165).
+- **Protección**: «Que María Santísima sea la que nos proteja y nos cuide... Ella, como a los apóstoles en Pentecostés, nos llena de su paz y de su fortaleza, nos dice que no hemos de temer porque Ella está ahí, siempre fiel» (cap. 13, §§15, 101).
+- **Cofundadores**: P. Escribano «veía la caridad de los primeros; entonces, él estaba convencido de que estaba llamado a amar a Cristo y a la Iglesia... en una congregación que estaba naciendo» (cap. 13, §61).
+
+### Distinciones importantes
 
 - **Culto de hiperdulía ≠ culto de latría**: solo Dios recibe culto de latría; a María se le tributa el culto más alto de veneración que corresponde a una criatura.
 - **Mediación de María ≠ mediación de Cristo**: Cristo es el único Mediador (1 Tm 2,5); la mediación de María es participada, subordinada y dependiente de la de Cristo.

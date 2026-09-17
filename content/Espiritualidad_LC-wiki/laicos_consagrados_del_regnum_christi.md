@@ -49,11 +49,11 @@ La 1.ª parte, cap. 1 establece que la Federación está formada por la Congrega
 
 ## Relaciones doctrinales
 
-Los Laicos Consagrados del Regnum Christi se relacionan con el [[regnum_christi]], la [[federación_regnum_christi]], la [[vida_consagrada]], la [[consagración_laical]], los [[consejos_evangélicos]], la [[sociedad_de_vida_apostólica]] y la [[vida_consagrada_rc]].
+Los Laicos Consagrados del Regnum Christi se relacionan con el [[regnum_christi]], la [[federación_regnum_christi]], la [[vida_consagrada]], la [[consagración]], los [[consejos_evangélicos]], la [[sociedad_de_vida_apostólica]] y la [[vida_consagrada_rc]].
 
 ## Ver también
 
-[[regnum_christi]], [[federación_regnum_christi]], [[legionarios_de_cristo]], [[consagradas_del_regnum_christi]], [[vida_consagrada_rc]], [[asamblea_general_regnum_christi]], [[capítulo_general]], [[consagración_laical]], [[sociedad_de_vida_apostólica]]
+[[regnum_christi]], [[federación_regnum_christi]], [[legionarios_de_cristo]], [[consagradas_del_regnum_christi]], [[vida_consagrada_rc]], [[asamblea_general_regnum_christi]], [[capítulo_general]], [[consagración]], [[sociedad_de_vida_apostólica]]
 
 ## Referencias
 

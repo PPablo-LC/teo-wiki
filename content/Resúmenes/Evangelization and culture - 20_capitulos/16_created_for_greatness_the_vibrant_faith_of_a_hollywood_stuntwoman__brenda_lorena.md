@@ -18,7 +18,7 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 - [[desprendimiento]] — renunciar a las ofertas del mundo para buscar a Dios
 - [[divinización]] — el destino último del creyente: unirse a Dios
 - [[cruz]] — el sacrificio personal como camino de santidad
-- [[fe_cristiana]] — la fuerza que guía las decisiones éticas y vocacionales
+- [[fe]] — la fuerza que guía las decisiones éticas y vocacionales
 - [[san_ignacio_de_loyola]] — referencia al propósito del hombre de alabar y servir a Dios
 - [[san_juan_de_la_cruz]] — «A la nada venga el todo»
 

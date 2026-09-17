@@ -15,11 +15,11 @@ tags: ["resumen", "denzinger capitulos"]
 - [[bautismo_de_los_herejes]] — controversia sobre la validez del bautismo administrado por herejes
 - [[penitencia]] — sacramento de reconciliación
 - [[viático]] — Eucaristía administrada al moribundo
-- [[canon_de_la_escritura]] — lista de los libros inspirados
+- [[canon_bíblico]] — lista de los libros inspirados
 - [[confirmación]] — sacramento que perfecciona el bautismo
 - [[extremaunción]] — sacramento de los enfermos
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
-- [[infalibilidad_pontificia]] — privilegio del papa en materia de fe y moral
+- [[infalibilidad_papal]] — privilegio del papa en materia de fe y moral
 - [[novacianismo]] — herejía que niega el perdón de los pecados
 - [[apócrifos]] — escritos no recibidos por la Iglesia
 
@@ -57,4 +57,4 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## SAN INOCENCIO I, 401-417 (2)
 
-Documentos de San Inocencio I sobre diversas materias doctrinales y disciplinares: el [[bautismo_de_los_herejes]] (novacianos y paulianistas), la [[reconciliación]] en el artículo de muerte, el [[canon_de_la_escritura]] y la condena de los apócrifos, el ministro de la [[confirmación]] (que corresponde solo al [[obispo]]) y de la [[extremaunción]], y el [[primado_del_romano_pontífice]], con afirmación de la autoridad suprema de la Sede Apostólica.
+Documentos de San Inocencio I sobre diversas materias doctrinales y disciplinares: el [[bautismo_de_los_herejes]] (novacianos y paulianistas), la [[reconciliación]] en el artículo de muerte, el [[canon_bíblico]] y la condena de los apócrifos, el ministro de la [[confirmación]] (que corresponde solo al [[obispo]]) y de la [[extremaunción]], y el [[primado_del_romano_pontífice]], con afirmación de la autoridad suprema de la Sede Apostólica.

@@ -17,7 +17,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 - [[castidad_religiosa]]
 - [[obediencia_religiosa]]
 - [[votos_religiosos]]
-- [[voto_proprio]]
+- [[voto_privado]]
 - [[consagración_religiosa]]
 - [[seguimiento_de_cristo]]
 - [[vida_religiosa]]
@@ -67,7 +67,7 @@ Los [[superiores_religiosos]], que dan cuenta a Dios de las almas encomendadas, 
 
 ### Art. 5. Voto propio
 
-El [[voto_proprio]] de los Legionarios de Cristo consiste en no obrar para alcanzar o conservar, ni para sí ni para otros, puestos de gobierno o cargos en la Congregación. Vivido por amor a Jesucristo, promueve el desprendimiento de sí, la disponibilidad total al servicio del Reino, y la armonía, paz y progreso de las comunidades y de toda la Congregación.
+El [[voto_privado]] de los Legionarios de Cristo consiste en no obrar para alcanzar o conservar, ni para sí ni para otros, puestos de gobierno o cargos en la Congregación. Vivido por amor a Jesucristo, promueve el desprendimiento de sí, la disponibilidad total al servicio del Reino, y la armonía, paz y progreso de las comunidades y de toda la Congregación.
 
 ## Secciones incluidas
 

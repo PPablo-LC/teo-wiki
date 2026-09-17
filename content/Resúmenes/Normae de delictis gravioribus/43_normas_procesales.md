@@ -12,7 +12,7 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-- [[tribunal_supremo_apostólico_cdf]] — constitución y competencia del tribunal
+- [[dicasterio_para_la_doctrina_de_la_fe]] — constitución y competencia del tribunal
 - [[proceso_penal_canónico]] — el orden judicial
 - [[medidas_cautelares_canónicas]] — medidas cautelares durante la investigación previa
 - [[cosa_juzgada_canónica]] — cosa juzgada

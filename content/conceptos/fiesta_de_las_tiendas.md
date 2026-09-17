@@ -43,7 +43,7 @@ El CEC menciona la Fiesta de las Tiendas como marco del discurso de Jesús sobre
 - [[templo_de_jerusalén]]
 - [[pan_eucarístico]]
 - [[yo_soy]]
-- [[pastor]]
+- [[buen_pastor]]
 
 ## Ver también
 

@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 ## Conceptos básicos referenciados
 
 - [[vocación]] — el discernimiento del llamado sacerdotal frente a la carrera profesional
-- [[fe_cristiana]] — la guía a través de la incertidumbre y la búsqueda de propósito
+- [[fe]] — la guía a través de la incertidumbre y la búsqueda de propósito
 - [[conversión]] — el impacto del Cursillo y los sacramentos en su vida
 - [[eucaristía]] — la Adoración como medio de encuentro con la voluntad de Dios
 - [[sacramento_de_la_reconciliación]] — la experiencia liberadora de la primera confesión

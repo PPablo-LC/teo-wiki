@@ -18,7 +18,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[sabelianismo]] — herejía que confunde las Personas divinas
 - [[acedismo]] — herejía que niega la divinidad del Espíritu Santo
 - [[fotinianismo]] — herejía que niega la preexistencia de Cristo
-- [[canon_de_la_escritura]] — lista de los libros inspirados
+- [[canon_bíblico]] — lista de los libros inspirados
 - [[concilio_ecuménico]] — asamblea de obispos con autoridad doctrinal
 
 ## Contenido
@@ -54,4 +54,4 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## SAN LIBERIO, 352-366 — CONCILIO ROMANO, 382
 
-El Tomus Damasi del Concilio de Roma (382) contiene 24 cánones que condenan las principales herejías: [[arrianismo]], [[sabelianismo]], [[acedismo]], [[fotinianismo]] y otras. Definen la Trinidad y la Encarnación, y establecen que el [[Espíritu_Santo]] es de la misma sustancia que el Padre y el Hijo. También incluye el Decreto Damasi sobre el [[canon_de_la_escritura]], que enumera los libros inspirados del Antiguo y Nuevo Testamento.
+El Tomus Damasi del Concilio de Roma (382) contiene 24 cánones que condenan las principales herejías: [[arrianismo]], [[sabelianismo]], [[acedismo]], [[fotinianismo]] y otras. Definen la Trinidad y la Encarnación, y establecen que el [[Espíritu_Santo]] es de la misma sustancia que el Padre y el Hijo. También incluye el Decreto Damasi sobre el [[canon_bíblico]], que enumera los libros inspirados del Antiguo y Nuevo Testamento.

@@ -18,13 +18,13 @@ tags: ["resumen", "nueva_era", "analisis_doctrinal"]
 - [[kundalini]] — energía serpiente que el yoga pretende despertar
 - [[meditación_trascendental]] — técnica de control mental vinculada a gurúes
 - [[tantra]] — expresión máxima del hinduismo y la magia
-- [[new_age]] — movimiento sincrético que difunde ideas hindúes
+- [[nueva_era]] — movimiento sincrético que difunde ideas hindúes
 - [[ocultismo]] — prácticas esotéricas asociadas con el hinduismo
 - [[gurúes]] — líderes religiosos hindúes que propagan su fe en Occidente
 - [[anticristo]] — figura escatológica vinculada con el movements new age
 - [[nazismo]] — comparación histórica con el movimiento new age
 - [[infiltración_institucional]] — penetración del hinduismo en escuelas, hospitales, ONU
-- [[relativismo_moral]] — ausencia de normas morales absolutas en la filosofía hindú
+- [[relativismo]] — ausencia de normas morales absolutas en la filosofía hindú
 - [[potencial_humano]] — movimiento occidentalizado de autorrealización yogui
 - [[sadhus]] — sacerdotes hindúes desnudos con prácticas ascéticas extremas
 - [[pranayama]] — ejercicios respiratorios del yoga para absorber prana

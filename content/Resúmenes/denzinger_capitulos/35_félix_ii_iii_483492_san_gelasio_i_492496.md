@@ -15,7 +15,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[inmutabilidad_de_la_doctrina]] — la fe no cambia con el tiempo
 - [[depositum_fidei]] — depósito de la fe confiado a la Iglesia
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
-- [[anatema]] — sentencia de condenación de una herejía
+- [[excomunión|anatema]] — sentencia de condenación de una herejía
 - [[cristología]] — doctrina sobre la persona de Cristo
 - [[concilios_ecuménicos]] — asambleas universales de la Iglesia
 

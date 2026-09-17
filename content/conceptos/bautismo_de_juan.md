@@ -49,7 +49,7 @@ El rito del bautismo de Juan provenía de Dios por revelación del Espíritu San
 
 ## Relaciones doctrinales
 
-Se relaciona con [[juan_bautista]], [[bautismo]], [[conversión]], [[penitencia]], [[preparación_al_mesías]], [[bautismo_de_cristo]].
+Se relaciona con [[juan_bautista]], [[bautismo]], [[conversión]], [[penitencia]], [[preparación_al_mesías]], [[bautismo|bautismo]].
 
 ## Referencias
 

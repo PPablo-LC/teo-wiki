@@ -18,13 +18,13 @@ tags: ["resumen", "nueva_era", "analisis_doctrinal"]
 - [[kundalini]] — energía serpiente que el yoga pretende despertar
 - [[meditación_trascendental]] — técnica de control mental vinculada a gurúes
 - [[tantra]] — expresión máxima del [[hinduismo]] y la magia
-- [[new_age]] — movimiento sincrético que difunde ideas hindúes en Occidente
+- [[nueva_era]] — movimiento sincrético que difunde ideas hindúes en Occidente
 - [[ocultismo]] — prácticas esotéricas asociadas con el hinduismo
 - [[gurúes]] — líderes religiosos hindúes con poder sobre discípulos
 - [[anticristo]] — figura escatológica vinculada con el movements new age
 - [[nazismo]] — comparación histórica con el movimiento new age
 - [[infiltración_institucional]] — penetración del hinduismo en escuelas, hospitales, ONU
-- [[relativismo_moral]] — ausencia de normas morales absolutas en la filosofía hindú
+- [[relativismo]] — ausencia de normas morales absolutas en la filosofía hindú
 - [[potencial_humano]] — movimiento occidentalizado de autorrealización yogui
 
 ## Contenido
@@ -49,7 +49,7 @@ El documental se estructura en 14 bloques temáticos:
 
 8. **La serpiente como símbolo hindú** — [[Kundalini]] como energía serpiente; contraste con la serpiente bíblica (engañador en el Edén); normalización cultural: se enseña a niños a aceptar la serpiente; ejercicios de cobra como conexión con shakti.
 
-9. **Hipnosis, medicina alternativa y [[new_age]]** — Hipnosis como puente entre hinduismo y ciencia moderna; bioretroalimentación como "yoga electrónico"; terapias de vidas pasadas; acupuntura como manipulación de kundalini.
+9. **Hipnosis, medicina alternativa y [[nueva_era]]** — Hipnosis como puente entre hinduismo y ciencia moderna; bioretroalimentación como "yoga electrónico"; terapias de vidas pasadas; acupuntura como manipulación de kundalini.
 
 10. **El movimiento de [[potencial_humano]]** — Autoestima, autoamor como versión occidentalizada de autorrealización yogui; "Todos somos dios" como concepto guru; disfraz científico del [[ocultismo]].
 
@@ -57,7 +57,7 @@ El documental se estructura en 14 bloques temáticos:
 
 12. **Redefinición de conceptos bíblicos** — Dios como fuerza impersonal vs. persona individual; Jesús como "maestro iluminado"; bondad inherente vs. [[pecado_original]]; reinterpretación de la Biblia por gurúes.
 
-13. **Influencia política y Naciones Unidas** — Grupos [[new_age]] bajo protección de la ONU; gurú residente en la ONU (Chinmoy); salas de meditación en el Pentágono; preparación para un líder mundial carismático.
+13. **Influencia política y Naciones Unidas** — Grupos [[nueva_era]] bajo protección de la ONU; gurú residente en la ONU (Chinmoy); salas de meditación en el Pentágono; preparación para un líder mundial carismático.
 
 14. **El [[anticristo]] y la [[apostasía]]** — Preparación espiritual para el "último gran engaño"; el imitador antes del regreso de Jesús; nueva religión universal del dictador mundial; advertencias bíblicas sobre falsos profetas.
 
@@ -69,7 +69,7 @@ El documental se estructura en 14 bloques temáticos:
 
 3. **Daño psicológico documentado** — Testimonios de ex-discípulos sobre enfermedades mentales, dependencia, estados de inconsciencia. Red de 4500 psiquiatras creada.
 
-4. **[[Relativismo_moral]] como herramienta de control** — La filosofía hindú niega normas morales absolutas; gurúes justifican crímenes como "estafa divina".
+4. **[[relativismo]] como herramienta de control** — La filosofía hindú niega normas morales absolutas; gurúes justifican crímenes como "estafa divina".
 
 5. **[[Reencarnación]] vs. [[resurrección]] como conflicto central** — División teológica fundamental; ambas no pueden ser verdaderas simultáneamente.
 
