@@ -12,13 +12,13 @@ tags: ["resumen", "memoria e identidad"]
 
 ## Conceptos básicos referenciados
 
-- [[miserere|Miserere]] — clamor del pecador David; el salmo de la fragilidad moral y la misericordia
+- [[salmo_miserere|Miserere]] — clamor del pecador David; el salmo de la fragilidad moral y la misericordia
 - [[divina_misericordia|Divina Misericordia]] — límite definitivo impuesto al mal; mística de santa Faustina
 - [[cristo_resucitado|Cristo resucitado y misericordioso]] — Faustina lo contempla glorioso, no sólo en la cruz
 
 ## Contenido
 
-Sobre el misterio del amor y de la Misericordia, Juan Pablo II parte del salmo *[[miserere|Miserere]]*: nació del clamor del rey David tras su adulterio con Betsabé y la muerte de Urías, cuando el profeta Natán le señala: «¡Eres tú!» (2 Sam 12,7). De aquella iluminación brota la oración que más se usa en la liturgia, citada extensamente en latín y en castellano.
+Sobre el misterio del amor y de la Misericordia, Juan Pablo II parte del salmo *[[salmo_miserere|Miserere]]*: nació del clamor del rey David tras su adulterio con Betsabé y la muerte de Urías, cuando el profeta Natán le señala: «¡Eres tú!» (2 Sam 12,7). De aquella iluminación brota la oración que más se usa en la liturgia, citada extensamente en latín y en castellano.
 
 Las palabras hablan por sí solas y revelan la verdad de la fragilidad moral del hombre: se declara culpable ante Dios sabiendo que el pecado contradice la santidad del Creador, pero sabe también que la misericordia divina es infinita: Dios está dispuesto a perdonar y justificar una y otra vez al pecador.
 

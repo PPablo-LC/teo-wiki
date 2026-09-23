@@ -19,9 +19,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[celo]] — el ardiente celo por Yahveh
 - [[profeta]] — la vocación profética
 - [[justicia]] — Elías defensor de la justicia y de los débiles
-- [[salvacion]] — la salvación que rebasa los límites de Israel
+- [[salvación]] — la salvación que rebasa los límites de Israel
 - [[penitencia_y_conversión]] — Juan Bautista como precursor
-- [[Espíritu]] — el nuevo fuego del Espíritu Santo
+- [[espíritu]] — el nuevo fuego del Espíritu Santo
 
 ## Contenido
 
@@ -29,7 +29,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 #### Retorno al desierto.
 
-El [[desierto]] adonde debe huir Elías le revela la solicitud de su Dios *1Re 17,2ss* *19,4-8*, que le concede llegar hasta el Horeb. Allí se le manifiesta Dios, en el mismo lugar en que [[moises]] vio a Yahveh «de espaldas» *19,9-14* *Ex 33,21.23*. Como [[moises]], el tesbita se convierte por su encuentro con Yahveh en fuente de santidad para el pueblo *1Re 19,15-18*.
+El [[desierto]] adonde debe huir Elías le revela la solicitud de su Dios *1Re 17,2ss* *19,4-8*, que le concede llegar hasta el Horeb. Allí se le manifiesta Dios, en el mismo lugar en que [[moisés]] vio a Yahveh «de espaldas» *19,9-14* *Ex 33,21.23*. Como [[moisés]], el tesbita se convierte por su encuentro con Yahveh en fuente de santidad para el pueblo *1Re 19,15-18*.
 
 #### El paladín de Dios y de los oprimidos.
 
@@ -37,7 +37,7 @@ El [[desierto]] adonde debe huir Elías le revela la solicitud de su Dios *1Re 1
 
 #### Testigo de Dios entre los paganos.
 
-Para Dios, la obra de la [[salvacion|salvación]] rebasa los límites de la alianza: una pagana es salvada del hambre *1Re 17,10-16* y su hijo arrebatado a la muerte *17,17-24*.
+Para Dios, la obra de la [[salvación|salvación]] rebasa los límites de la alianza: una pagana es salvada del hambre *1Re 17,10-16* y su hijo arrebatado a la muerte *17,17-24*.
 
 #### Rapto de Elías al cielo.
 
@@ -55,7 +55,7 @@ Esta espera escatológica *Mc 15,35s* se realiza en [[juan_bautista]] *Mt 17,10-
 
 #### Jesús y Elías.
 
-Juan Bautista realiza la [[figura]] de Elías en la [[penitencia_y_conversión|penitencia]] en el desierto *Mt 3,4* *2Re 1,8*, pero Jesús realiza los rasgos mayores. Define su [[misión]] universal en relación con la de Elías *Lc 4,25s*. El milagro de Sarepta se lee en el de Naín *Lc 7,11-16* *1Re 17,17-24*. Elías había hecho bajar del cielo un fuego vengador *2Re 1,9.14*; Jesús aporta el nuevo fuego del [[Espíritu]] Santo *Lc 12,49*. En el monte de los Olivos, Jesús es [[consolacion|consolado]] por un ángel como Elías *Lc 22,43* *1Re 19,5.7*. Elías arrebatado al cielo prefigura la [[ascension]] de Cristo *Lc 24,51*.
+Juan Bautista realiza la [[figura]] de Elías en la [[penitencia_y_conversión|penitencia]] en el desierto *Mt 3,4* *2Re 1,8*, pero Jesús realiza los rasgos mayores. Define su [[misión]] universal en relación con la de Elías *Lc 4,25s*. El milagro de Sarepta se lee en el de Naín *Lc 7,11-16* *1Re 17,17-24*. Elías había hecho bajar del cielo un fuego vengador *2Re 1,9.14*; Jesús aporta el nuevo fuego del [[espíritu]] Santo *Lc 12,49*. En el monte de los Olivos, Jesús es [[consolación|consolado]] por un ángel como Elías *Lc 22,43* *1Re 19,5.7*. Elías arrebatado al cielo prefigura la [[ascensión]] de Cristo *Lc 24,51*.
 
 #### El creyente y Elías.
 

@@ -108,7 +108,7 @@ La bienaventuranza se relaciona con el [[cielo]], la [[visión_beatífica]], la 
 
 ## Ver también
 
-[[cielo]], [[gloria_de_Dios]], [[visión_beatífica]], [[bienaventuranzas]], [[filiación_divina]], [[fin_último]]
+[[cielo]], [[gloria_de_dios]], [[visión_beatífica]], [[bienaventuranzas]], [[filiación_divina]], [[fin_último]]
 
 ## Referencias
 

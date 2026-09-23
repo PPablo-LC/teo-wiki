@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[obras]] — la visita de los encarcelados como obra de misericordia
 - [[liberación_y_libertad]] — la promesa de libertad al pueblo cautivo
 - [[pecado]] — el pecado como alienación
-- [[justificacion]] — la condición del hombre antes de su justificación
+- [[justificación]] — la condición del hombre antes de su justificación
 - [[gustar]] — Jesús que gustó la muerte
 - [[muerte]] — los lazos de la muerte
 - [[ley]] — la ley como «calabozo» antes de la fe

@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[cautividad]] — el pueblo cautivo libertado de los egipcios
-- [[redencion]] — el valor redentor de la sangre del cordero
+- [[redención]] — el valor redentor de la sangre del cordero
 - [[sangre]] — la sangre del cordero pascual y de Cristo
 - [[pascua]] — la pascua cristiana
 - [[esclavo]] — el rescate de la esclavitud de Egipto
@@ -23,12 +23,12 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mundo]] — la liberación del mundo malvado
 - [[culto]] — el culto espiritual de una vida irreprochable
 - [[reino_de_dios]] — el reino de sacerdotes y la luz del reino
-- [[exodo]] — el éxodo espiritual de los rescatados
+- [[éxodo]] — el éxodo espiritual de los rescatados
 - [[poder]] — el poder que confiere la exaltación
 - [[victoria]] — la victoria del león de Judá
 - [[ira]] — la ira del cordero contra los impíos
 - [[guerra]] — la guerra escatológica contra los poderes del mal
-- [[pastor_y_rebano]] — el cordero pastor que conduce a los fieles
+- [[pastor_y_rebaño]] — el cordero pastor que conduce a los fieles
 - [[agua]] — las fuentes de agua viva de la bienaventuranza
 
 ## Contenido

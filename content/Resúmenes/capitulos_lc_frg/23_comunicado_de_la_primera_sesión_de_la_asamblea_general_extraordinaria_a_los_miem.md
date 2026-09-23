@@ -12,30 +12,30 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Consagradas_del_Regnum_Christi]]
-- [[Sociedad_de_Vida_Apostólica]]
-- [[Regnum_Christi]]
-- [[Federación_Regnum_Christi]]
-- [[Legionarios_de_Cristo]]
-- [[Laicos_Consagrados_del_Regnum_Christi]]
-- [[Vida_consagrada]]
-- [[Comunión_eclesial]]
-- [[Consejos_evangélicos]]
+- [[consagradas_del_regnum_christi]]
+- [[sociedad_de_vida_apostólica]]
+- [[regnum_christi]]
+- [[federación_regnum_christi]]
+- [[legionarios_de_cristo]]
+- [[laicos_consagrados_del_regnum_christi]]
+- [[vida_consagrada]]
+- [[comunión_eclesial]]
+- [[consejos_evangélicos]]
 
 
 ## Contenido
 
 📄 **Fuente original:** `23_comunicado_de_la_primera_sesión_de_la_asamblea_general_extra.md`
 
-Comunicado de la [[consagradas_del_regnum_christi]] dirigido a todos los miembros del [[Regnum_Christi]], emitido en Castel di Guido, Roma, el 8 de abril de 2018 (Prot. DG CRC 539/2018).
+Comunicado de la [[consagradas_del_regnum_christi]] dirigido a todos los miembros del [[regnum_christi]], emitido en Castel di Guido, Roma, el 8 de abril de 2018 (Prot. DG CRC 539/2018).
 
 ### Configuración jurídica
 
-La Asamblea consideró la [[Sociedad_de_Vida_Apostólica]] como la figura más adecuada, por tres motivos: necesidad de figura canónica, preservación de la identidad y posibilidad de relación jurídica con las otras ramas.
+La Asamblea consideró la [[sociedad_de_vida_apostólica]] como la figura más adecuada, por tres motivos: necesidad de figura canónica, preservación de la identidad y posibilidad de relación jurídica con las otras ramas.
 
 ### El Regnum Christi y la Federación
 
-Se reconoce que participamos de un mismo carisma del que somos corresponsables. La propuesta de [[Federación_Regnum_Christi]] es la opción más adecuada, aunque no expresión plena del Movimiento. Se acepta como primer paso positivo. La Congregación para los Institutos de Vida Consagrada es competente porque entre sus miembros hay una congregación religiosa clerical.
+Se reconoce que participamos de un mismo carisma del que somos corresponsables. La propuesta de [[federación_regnum_christi]] es la opción más adecuada, aunque no expresión plena del Movimiento. Se acepta como primer paso positivo. La Congregación para los Institutos de Vida Consagrada es competente porque entre sus miembros hay una congregación religiosa clerical.
 
 ### Formación común
 
@@ -47,7 +47,7 @@ Se acepta que tanto las ramas como la Federación puedan dirigir las obras. Se c
 
 ### Presidencia
 
-Preferencia unánime por que no coincidan el director general del [[Regnum_Christi]] y el moderador de una rama. Apertura a que el director general sea habitualmente un legionario.
+Preferencia unánime por que no coincidan el director general del [[regnum_christi]] y el moderador de una rama. Apertura a que el director general sea habitualmente un legionario.
 
 ### Agradecimientos y reconciliación
 

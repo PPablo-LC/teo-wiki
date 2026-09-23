@@ -41,6 +41,15 @@ ODPC retoma el sentido religioso como punto de partida del segundo volumen del P
 
 PLDC hace del sentido religioso la clave de la misión de la Iglesia: «la funzione di Gesù nella storia è l'educazione al senso religioso dell'uomo e dell'umanità (proprio per poter 'salvare' l'uomo!)» — y como la Iglesia es prolongamiento de Cristo, esa es su función en la historia (Parte III, cap. 2): solícita preocupación pedagógica de que el hombre tenga conciencia de aquello que Dios es, un llamado apasionado a recordar la dependencia originaria. Por eso la Iglesia no resuelve los problemas humanos (cultura, amor, trabajo, política), sino que coloca al hombre en la condición óptima para resolverlos — la posición del fundamento antes de construir (Lc 6,46-49). El sentido religioso ineducado es también la raíz de la dificultad moderna ante el lenguaje cristiano (Parte I, cap. 3): su atrofia se documenta en la «ripugnanza divenuta istintiva a che il senso religioso domini, determini ogni azione coscientemente» — el síntoma es la extrañeza ante la afirmación de que el «dio» es el determinante de todo: elegir, estudiar, trabajar, amar, gobernar.
 
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+DLV, sexto volumen del PerCorso, distingue expresamente el sentido religioso de la fe para evitar las dos reducciones del racionalismo:
+
+- **El racionalismo confunde sentido religioso y fe** — el sentido religioso no es un sentimiento: está «agli inizi della vita della ragione»; el niño, ante el espectáculo de la naturaleza, dice «Che bello!» (DLV 11, 17-23).
+- **La fe supera el sentido religioso** — la fe en Cristo sobrepasa el sentido religioso porque la razón no puede acceder por sí al objeto que la fe revela (Mt 13,58); `Cristo, Segno di tutti i segni` (DLV 10, 3-31).
+- **Reducción de la fe a sentido religioso** — si la propuesta no es sugestiva, la reducimos a nuestro arbitrio: así se reduce la fe a sentido religioso y el sentimiento a única razón adecuada (DLV 12, 15-19).
+- **La fe como reconocimiento de una Presencia** — frente al sentido religioso (pregunta), la fe es «riconoscimento di una Presenza»: un acontecimiento presente, no una idea ni un sentimiento (DLV 11, 17-23; DLV 15, 109).
+
 ## Distinciones importantes
 
 - **Sentido religioso vs. religión particular**: el sentido religioso es la estructura radical del hombre, anterior a toda religión positiva; las religiones son formas históricas de su expresión.

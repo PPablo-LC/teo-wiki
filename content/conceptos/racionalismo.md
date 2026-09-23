@@ -17,7 +17,7 @@ El **racionalismo** es la corriente filosófica que exalta la [[razón]] humana 
 
 ## Relaciones
 
-[[fe_y_razón]], [[revelación]], [[naturalismo]], [[modernismo]], [[ilustración]], [[error]], [[ontologismo]], [[tradicionalismo]], [[pascendi]], [[lamentabili]]
+[[fe_y_razón]], [[revelación]], [[naturalismo]], [[modernismo]], [[ilustracion]], [[error]], [[ontologismo]], [[tradicionalismo]], [[pascendi]], [[lamentabili]]
 
 ## Ver también
 

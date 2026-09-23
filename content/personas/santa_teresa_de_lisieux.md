@@ -36,7 +36,7 @@ Juan Pablo II la proclamó Doctora de la Iglesia el 19 de octubre de 1997, desta
 
 ## Relaciones
 
-[[infancia_espiritual]], [[pequeña_vía]], [[confianza_en_dios]], [[abandono_en_dios]], [[humildad]], [[amor_puro]], [[santidad]], [[oracion_de_abandono]], [[perfeccion_cristiana]], [[misericordia]], [[adoración_eucarística]], [[hora_santa]]
+[[infancia_espiritual]], [[pequeña_vía]], [[confianza_en_dios]], [[abandono_en_dios]], [[humildad]], [[amor_puro]], [[santidad]], [[oración_de_abandono]], [[perfeccion_cristiana]], [[misericordia]], [[adoración_eucarística]], [[hora_santa]]
 
 ## Perspectivas por fuente
 
@@ -67,9 +67,28 @@ Capítulo 03 (Santa Teresa di Gesù Bambino — patrona de todas las misiones), 
 - **La misión desde el cielo**: «Non posso riposarmi finché ci saranno anime da salvare»; «voglio passare il mio Cielo a fare del bene sulla terra».
 - **«Attirami, noi correremo»** (Ct 1,3): la clave misionera final — la misión por atracción, no proselitismo; la apropiación al femenino de la oración sacerdotal de Jn 17.
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. II, la presenta como icono de los que
+«mueren de amor». Su infancia espiritual no fue «una espiritualización o
+idealización poética de la edad infantil, sino de una asimilación
+ecclesial de la infancia de Jesús, que se mantuvo siempre como el Niño
+del Padre, desde la cuna hasta la Cruz»: no se trataba de "ser" niños,
+sino de "hacerse niño" aprendiendo de Jesús. Intuyendo que Dios tenía
+prisa en llamarla, comprendió que una de sus tareas más importantes sería
+"aprender a morir".
+
+El relato de su agonía (tuberculosis con dolores intolerables) contiene
+"algunas de las páginas más bellas de su magisterio": el abandono
+instante por instante («Sufro solo instante por instante. Los niños no se
+maltratan»), la corrección humilde de quien la alababa («No he tenido
+todavía un solo momento de paciencia. No es mi paciencia… ¡Me confunden
+siempre!»), y la muerte con la expresión totalizante «¡Dios mío, yo te
+amo!» — título y estribillo de su poema *Morir de amor*.
+
 ## Ver también
 
-[[infancia_espiritual]], [[pequeña_vía]], [[confianza_en_dios]], [[oracion_de_abandono]], [[perfeccion_cristiana]], [[san_juan_de_la_cruz]], [[hora_santa]], [[adoración_eucarística]], [[sanación]], [[vocación_universal_a_la_santidad]]
+[[infancia_espiritual]], [[pequeña_vía]], [[confianza_en_dios]], [[oración_de_abandono]], [[perfeccion_cristiana]], [[san_juan_de_la_cruz]], [[hora_santa]], [[adoración_eucarística]], [[sanación]], [[vocación_universal_a_la_santidad]]
 
 ## Referencias
 
@@ -79,3 +98,4 @@ Capítulo 03 (Santa Teresa di Gesù Bambino — patrona de todas las misiones), 
 - *Evangelization & Culture* 13, «The Case for the Holy Hour» (Autumn 2022).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (19_spotlight_princesses.md).
 - A. M. Sicari, *Il Volto dei Santi*, vol. III, cap. 3: «Santa Teresa di Gesù Bambino» (Edizioni OCD, Roma 2025).
+- A. M. Sicari, *Así mueren los santos*, cap. II (Rialp, 2020).

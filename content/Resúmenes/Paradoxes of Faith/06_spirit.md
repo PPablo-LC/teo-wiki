@@ -18,8 +18,8 @@ tags: ["resumen", "paradoxes of faith"]
 - [[vida_espiritual]] — creación continua; el espíritu necesita condiciones no demasiado favorables
 - [[cristianismo]] — hay que redescubrirlo siempre en su plenitud y pureza
 - [[tradición]] — no se transmite pasivamente; requiere esfuerzo intelectual análogo al de los Padres
-- [[pascal]] — citado sobre las causas y los efectos
-- [[nietzsche]] — citado sobre las preguntas que uno oye
+- [[blaise_pascal]] — citado sobre las causas y los efectos
+- [[friedrich_nietzsche]] — citado sobre las preguntas que uno oye
 - [[sinceridad]] — fidelidad a la propia vocación
 - [[vocación]] — el hombre no tiene vocación, es vocación
 

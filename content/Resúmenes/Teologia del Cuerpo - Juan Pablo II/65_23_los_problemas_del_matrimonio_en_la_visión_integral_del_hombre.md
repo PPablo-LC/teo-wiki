@@ -19,7 +19,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[teología_del_cuerpo]] — el «principio» como fundamento
 - [[redención]] — el misterio de la redención y la «redención del cuerpo»
 - [[concilio_vaticano_ii]] — las preguntas al último Concilio y a Pablo VI
-- [[pablo_vi]] — la Encíclica Humanæ vitæ y la «visión integral del hombre»
+- [[san_pablo_vi]] — la Encíclica Humanæ vitæ y la «visión integral del hombre»
 - [[sacramento]] — el matrimonio como sacramento de la Iglesia
 - [[vocación]] — el camino de salvación y santidad en el matrimonio
 - [[dignidad_del_cuerpo]] — la dignidad personal del cuerpo y del sexo

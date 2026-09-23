@@ -40,10 +40,10 @@ El acto jurídico canónico requiere, para ser válido: (1) una persona capaz, (
 - **Error substancial**: conocimiento falso que recae sobre la esencia del acto.
 
 ## Relaciones doctrinales
-El acto jurídico canónico se relaciona con la [[validez_canónica]] (cualidad del acto válido), la [[ley_eclesiástica]] (que impone formalidades), el [[acto_administrativo_canónico]] (especie de acto jurídico), la [[dispensa_canónica]] (que puede exceptuar requisitos), y la [[persona_física]] (sujeto capaz del acto).
+El acto jurídico canónico se relaciona con la [[validez_canónica]] (cualidad del acto válido), la [[ley_eclesiástica]] (que impone formalidades), el [[acto_administrativo_canónico]] (especie de acto jurídico), la [[dispensa_canónica]] (que puede exceptuar requisitos), y la [[persona_fisica]] (sujeto capaz del acto).
 
 ## Ver también
-[[validez_canónica]], [[acto_administrativo_canónico]], [[ley_eclesiástica]], [[persona_física]], [[dispensa_canónica]], [[derecho_canónico]], [[forma_canónica]]
+[[validez_canónica]], [[acto_administrativo_canónico]], [[ley_eclesiástica]], [[persona_fisica]], [[dispensa_canónica]], [[derecho_canónico]], [[forma_canónica]]
 
 ## Referencias
 - [CIC cc. 124-128]

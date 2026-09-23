@@ -12,15 +12,15 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Consagradas_del_Regnum_Christi]]
-- [[Sociedad_de_Vida_Apostólica]]
-- [[Regnum_Christi]]
-- [[Federación_Regnum_Christi]]
-- [[Legionarios_de_Cristo]]
-- [[Laicos_Consagrados_del_Regnum_Christi]]
+- [[consagradas_del_regnum_christi]]
+- [[sociedad_de_vida_apostólica]]
+- [[regnum_christi]]
+- [[federación_regnum_christi]]
+- [[legionarios_de_cristo]]
+- [[laicos_consagrados_del_regnum_christi]]
 - [[estatutos_federación_regnum_christi]]
 - [[consagradas_del_regnum_christi]]
-- [[Vida_consagrada]]
+- [[vida_consagrada]]
 
 
 ## Contenido
@@ -31,7 +31,7 @@ Comunicado de la segunda sesión de la [[consagradas_del_regnum_christi]] (19-24
 
 ### Decreto de erección canónica
 
-Considerado providencial: el decreto de erección de la [[Sociedad_de_Vida_Apostólica]] «Consagradas del Regnum Christi» fue firmado el 25 de noviembre de 2018, solemnidad de Cristo Reyes, y recibido el día del inicio de la Asamblea del Regnum Christi. Mons. Rodríguez Carballo exhortó a ser signo del Reino con fidelidad creativa.
+Considerado providencial: el decreto de erección de la [[sociedad_de_vida_apostólica]] «Consagradas del Regnum Christi» fue firmado el 25 de noviembre de 2018, solemnidad de Cristo Reyes, y recibido el día del inicio de la Asamblea del Regnum Christi. Mons. Rodríguez Carballo exhortó a ser signo del Reino con fidelidad creativa.
 
 ### Encuentro previo entre ramas
 
@@ -45,8 +45,8 @@ La víspera de la apertura, los delegados del Capítulo y de las asambleas de la
 
 ### Federación / Movimiento
 
-- El [[Regnum_Christi]] es una familia espiritual y cuerpo apostólico.
-- La [[Federación_Regnum_Christi]] es el instrumento canónico que vincula sus partes.
+- El [[regnum_christi]] es una familia espiritual y cuerpo apostólico.
+- La [[federación_regnum_christi]] es el instrumento canónico que vincula sus partes.
 
 ### Espiritualidad
 

@@ -31,7 +31,7 @@ El CIC reconoce el derecho de los fieles laicos a asociarse para fines apostóli
 
 ## Relaciones doctrinales
 
-La Acción Católica se distingue de otras asociaciones piadosas o devocionales por su carácter explícitamente apostólico y su vinculación jerárquica. Se relaciona con el [[apostolado_seglar]], las [[asociaciones_de_fieles]] y la [[acción_católica]].
+La Acción Católica se distingue de otras asociaciones piadosas o devocionales por su carácter explícitamente apostólico y su vinculación jerárquica. Se relaciona con el [[apostolado_seglar]], las [[asociaciones_de_fieles]] y la **acción católica**.
 
 
 ## Analizado para

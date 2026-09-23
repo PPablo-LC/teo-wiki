@@ -21,7 +21,7 @@ tags: ["resumen", "aparecida", "comunión", "eclesiología", "ministerios", "ecu
 - [[pueblo_de_dios]] — todos los bautizados convocados a la santidad en la comunión y la misión
 - [[sacerdocio_común_de_los_fieles]] — mediación por la que todos los bautizados participan de la comunión trinitaria
 - [[eucaristía]] — fuente y culmen de la vida cristiana y de la vida en comunión
-- [[fracción_del_pan]] — práctica de las primeras comunidades cristianas
+- [[fraccion_del_pan]] — práctica de las primeras comunidades cristianas
 - [[comunión_de_los_santos]] — comunión en los bienes divinos entre todos los miembros de la Iglesia
 - [[iglesia_peregrina]] — vive anticipadamente la comunión perfecta del final de los tiempos
 - [[religiosidad_popular]] — fe esporádica de muchos católicos, expresada en la piedad a Cristo, la Virgen y los santos

@@ -48,10 +48,10 @@ Las personas jurídicas se constituyen por la misma prescripción del derecho (i
 - **Personalidad por decreto**: por concesión expresa de la autoridad.
 
 ## Relaciones doctrinales
-La persona jurídica canónica se relaciona con la [[persona_física]] (sujeto individual), el [[estatuto_canónico]] (normas fundamentales requeridas por c. 117), las [[asociaciones_de_fieles]], los [[instituto_de_vida_consagrada|institutos de vida consagrada]], las parroquias, las diócesis, y los [[bienes_eclesiásticos]] (patrimonio de la persona jurídica).
+La persona jurídica canónica se relaciona con la [[persona_fisica]] (sujeto individual), el [[estatuto_canónico]] (normas fundamentales requeridas por c. 117), las [[asociaciones_de_fieles]], los [[instituto_de_vida_consagrada|institutos de vida consagrada]], las parroquias, las diócesis, y los [[bienes_eclesiásticos]] (patrimonio de la persona jurídica).
 
 ## Ver también
-[[persona_jurídica]], [[personalidad_jurídica_canónica]], [[estatuto_canónico]], [[asociaciones_de_fieles]], [[instituto_de_vida_consagrada]], [[bienes_eclesiásticos]], [[persona_física]]
+[[persona_jurídica]], [[personalidad_jurídica_canónica]], [[estatuto_canónico]], [[asociaciones_de_fieles]], [[instituto_de_vida_consagrada]], [[bienes_eclesiásticos]], [[persona_fisica]]
 
 ## Referencias
 - [CIC cc. 113-123]

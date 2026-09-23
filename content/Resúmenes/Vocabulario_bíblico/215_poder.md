@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[creación]] — la creación por la palabra de Dios
-- [[exodo]] — la liberación del Éxodo
+- [[éxodo]] — la liberación del Éxodo
 - [[liberación_y_libertad]] — la liberación del pueblo
 - [[victoria]] — la victoria dada por Dios
 - [[fuerza]] — Dios, fuerza de su pueblo
@@ -25,31 +25,31 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[temor]] — el temor infundido por los poderes
 - [[esclavo]] — la esclavitud social
 - [[humildad]] — los humildes instrumentos de Dios
-- [[Moises]] — Moisés, instrumento de los prodigios
+- [[moisés]] — Moisés, instrumento de los prodigios
 - [[castigos]] — el castigo a los que no creyeron
 - [[perdón]] — el perdón que desarrolla el poder divino
-- [[Espíritu]] — el Espíritu, fuerza divina
+- [[espíritu]] — el Espíritu, fuerza divina
 - [[palabra_de_dios]] — la palabra siempre eficaz
-- [[Mesías]] — el Mesías, «Dios fuerte»
+- [[mesías]] — el Mesías, «Dios fuerte»
 - [[resurrección]] — el resucitado por el poder de Dios
 - [[siervo_de_yahvé]] — el siervo que muere por las multitudes
 - [[muerte]] — la muerte como secuela del pecado
 - [[hijo]] — el Hijo del hombre que viene sobre las nubes
-- [[idolos]] — los ídolos impotentes
+- [[ídolos]] — los ídolos impotentes
 - [[demonios]] — los poderes demoníacos
 - [[astros]] — los astros divinizados
 - [[naciones]] — las naciones sometidas a Dios
 - [[soberbia]] — los soberbios que abusan del poder
 - [[justicia]] — la justicia que Dios quiere que amen
-- [[Babel]] — el pecado colectivo de Babel
+- [[babel]] — el pecado colectivo de Babel
 - [[gloria]] — la gloria del Padre
 - [[milagro]] — los milagros que acreditan
-- [[uncion]] — el ungido de Espíritu y de poder
+- [[unción]] — el ungido de Espíritu y de poder
 - [[mundo]] — el príncipe de este mundo destronado
-- [[discipulo]] — los discípulos enviados
+- [[discípulo]] — los discípulos enviados
 - [[nombre]] — el poder de su nombre
 - [[oración]] — la fe que da omnipotencia a la oración
-- [[apostoles]] — los apóstoles llenos del Espíritu
+- [[apóstoles]] — los apóstoles llenos del Espíritu
 - [[evangelio]] — el poder de salvación del evangelio
 - [[conocer]] — conocer a Cristo y el poder de su resurrección
 - [[cuerpo]] — la resurrección de los cuerpos
@@ -57,7 +57,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[reino_de_dios]] — el reino establecido por el todopoderoso
 - [[amor]] — el reino de amor
 - [[día_del_señor]] — el día de su advenimiento
-- [[Israel]] — el nombre del pueblo escogido
+- [[israel]] — el nombre del pueblo escogido
 - [[arca]] — el arca que asegura la presencia
 - [[demonios]] — los poderes malignos que esclavizan
 
@@ -69,7 +69,7 @@ En todas las religiones es el poder un atributo esencial de la divinidad. La fe 
 
 #### 1. Manifestaciones en la tierra
 
-En los relatos de los patriarcas, este poder se ejerce soberanamente: a Dios nada le es imposible *Gen 18,14*. Con este Dios todopoderoso debe luchar Jacob; al final de la lucha lo bendice Dios y le da el nombre de [[israel|Israel]] *Gen 32,27-30*. La fuerza de Israel reside en el auxilio del Dios que es «el poderoso de Jacob» *Gen 49,24* *Is 1,24* *49,26* *Sal 132,2*. Con su mano fuerte *Ex 3,19* y su brazo extendido *Dt 4,34* [[liberación_y_libertad|libera]] a su pueblo en la gesta del [[exodo|Éxodo]]; Yahveh se revela como único Todopoderoso en el cielo y en la tierra *Dt 4,32-39*.
+En los relatos de los patriarcas, este poder se ejerce soberanamente: a Dios nada le es imposible *Gen 18,14*. Con este Dios todopoderoso debe luchar Jacob; al final de la lucha lo bendice Dios y le da el nombre de [[israel|Israel]] *Gen 32,27-30*. La fuerza de Israel reside en el auxilio del Dios que es «el poderoso de Jacob» *Gen 49,24* *Is 1,24* *49,26* *Sal 132,2*. Con su mano fuerte *Ex 3,19* y su brazo extendido *Dt 4,34* [[liberación_y_libertad|libera]] a su pueblo en la gesta del [[éxodo|Éxodo]]; Yahveh se revela como único Todopoderoso en el cielo y en la tierra *Dt 4,32-39*.
 
 Yahveh, jefe de los ejércitos de Israel, es un guerrero que da a su pueblo la [[victoria]]; tal es el sentido primario de su nombre Sabaot *Sal 24,8ss* *Ex 15,2ss* *1Sa 17,45*; por medio del [[arca]] asegura el Todopoderoso su presencia a su pueblo *2Sa 6,2* *Sal 132,8*.
 
@@ -101,23 +101,23 @@ La opresión del hombre por el hombre aparece tan pronto como los poderosos olvi
 
 #### 2. Los poderes demoníacos
 
-Los que desconocen al todopoderoso que los ha creado honran a dioses que ellos mismos se fabrican; profetas y sabios se mofan de los [[idolos]] y de su impotencia *Is 44,17ss* *Jer 10,3ss* *Sal 115,4-7*. Los paganos, honrando a los [[astros]] o a las criaturas, desconocen al Señor que es su autor *Sab 13,1-8*. Ahora bien, tras estos falsos dioses se ocultan poderes [[demonios|demoníacos]] *Sal 106,36s* *Dt 32,17* *1Cor 8,4* *10,19*. El diablo, después de haber inducido al hombre a pecar *Gen 3,5* *Sab 2,24*, trata de hacerse adorar bajo diversas máscaras *2Tes 2,9* *Ap 12,2-8* *Mt 4,8s*. Es un poder de [[muerte]], y por el temor de la muerte esclaviza a los hombres *Heb 2,14s*.
+Los que desconocen al todopoderoso que los ha creado honran a dioses que ellos mismos se fabrican; profetas y sabios se mofan de los [[ídolos]] y de su impotencia *Is 44,17ss* *Jer 10,3ss* *Sal 115,4-7*. Los paganos, honrando a los [[astros]] o a las criaturas, desconocen al Señor que es su autor *Sab 13,1-8*. Ahora bien, tras estos falsos dioses se ocultan poderes [[demonios|demoníacos]] *Sal 106,36s* *Dt 32,17* *1Cor 8,4* *10,19*. El diablo, después de haber inducido al hombre a pecar *Gen 3,5* *Sab 2,24*, trata de hacerse adorar bajo diversas máscaras *2Tes 2,9* *Ap 12,2-8* *Mt 4,8s*. Es un poder de [[muerte]], y por el temor de la muerte esclaviza a los hombres *Heb 2,14s*.
 
-Frente a los falsos dioses el nombre de Yahveh Sabaot cobra un sentido nuevo: el verdadero Dios es el Dios de los ejércitos, es decir, de todos los poderes del universo, ejércitos de los astros *Is 40,26* *Sal 147,4* y ejércitos de los [[angeles]] *Sal 103,20s* *148,2* *Lc 2,13s*. Este Dios va a intervenir para liberar a los hombres.
+Frente a los falsos dioses el nombre de Yahveh Sabaot cobra un sentido nuevo: el verdadero Dios es el Dios de los ejércitos, es decir, de todos los poderes del universo, ejércitos de los astros *Is 40,26* *Sal 147,4* y ejércitos de los [[ángeles]] *Sal 103,20s* *148,2* *Lc 2,13s*. Este Dios va a intervenir para liberar a los hombres.
 
 ### IV. El poder del Salvador y de su siervo
 
 #### 1. La liberación del Éxodo
 
-Cómo el todopoderoso pone fin a la [[esclavo|esclavitud]] social de los débiles y a la servidumbre espiritual de los pecadores es lo que revela ya el Éxodo, liberación que es el tipo de todas las otras y cuyo recuerdo guarda la Pascua *Ex 13,3*. La resistencia del faraón es para Yahveh la ocasión de mostrar mejor su poder *Ex 9,14s*. En cuanto al instrumento de estos prodigios, es un hombre consciente de su flaqueza, el más humilde de los hombres, [[moises|Moisés]] *Ex 4,10-13* *Num 12,3*, del que Dios hace un profeta sin segundo *Dt 34,10ss*.
+Cómo el todopoderoso pone fin a la [[esclavo|esclavitud]] social de los débiles y a la servidumbre espiritual de los pecadores es lo que revela ya el Éxodo, liberación que es el tipo de todas las otras y cuyo recuerdo guarda la Pascua *Ex 13,3*. La resistencia del faraón es para Yahveh la ocasión de mostrar mejor su poder *Ex 9,14s*. En cuanto al instrumento de estos prodigios, es un hombre consciente de su flaqueza, el más humilde de los hombres, [[moisés|Moisés]] *Ex 4,10-13* *Num 12,3*, del que Dios hace un profeta sin segundo *Dt 34,10ss*.
 
 El pueblo liberado resiste a su libertador; Dios [[castigos|castiga]] a los que no han creído en su poder *Num 14,22s*. Pero Dios, a petición de Moisés, no destruye a este pueblo rebelde, no sea que los paganos duden de su poder *Num 14,16*; por eso la desarrolla [[perdón|perdonando]] *Num 14,17ss*.
 
 #### 2. Las vías del Señor
 
-Las vías del Señor son las mismas a lo largo de la historia; para realizar su designio suscita los poderes de este mundo. Cuando quiere castigar a su pueblo con el exilio, Nabucodonosor es su servidor *Jer 25,9*; cuando termina la prueba, recibe Ciro de él su poder universal para ordenar el retorno a Sión *Is 44,28-45,4*; este nuevo [[exodo|éxodo]] es obra del todopoderoso que da nuevas fuerzas a los que esperan en él *Is 40,10s.29ss*.
+Las vías del Señor son las mismas a lo largo de la historia; para realizar su designio suscita los poderes de este mundo. Cuando quiere castigar a su pueblo con el exilio, Nabucodonosor es su servidor *Jer 25,9*; cuando termina la prueba, recibe Ciro de él su poder universal para ordenar el retorno a Sión *Is 44,28-45,4*; este nuevo [[éxodo|éxodo]] es obra del todopoderoso que da nuevas fuerzas a los que esperan en él *Is 40,10s.29ss*.
 
-Por su [[Espíritu]], fuerza divina que los profetas oponen a la debilidad del hombre que es «[[carne]]» *Is 31,3* *Zac 4,6*, o por su [[palabra_de_dios|palabra]] siempre eficaz *Is 55,11*, hace Dios fuertes a los humildes instrumentos que ha escogido. [[david|David]], el pastor, lleno del Espíritu por la unción regia *1Sa 16,13*, libera a Israel de todos sus enemigos; de su raza nacerá el [[mesias|Mesías]], cuyo nombre será «Dios fuerte», en quien reposará el Espíritu de Dios *Is 9,5s* *11,1s*. Jeremías, aunque inepto para hablar, proclama con fuerza invencible las palabras que la mano de Dios pone en su boca *Jer 1,6-10.18s*. El pueblo de Israel será [[resurrección|resucitado]] por el Espíritu de Dios *Ez 37,11-14*.
+Por su [[espíritu]], fuerza divina que los profetas oponen a la debilidad del hombre que es «[[carne]]» *Is 31,3* *Zac 4,6*, o por su [[palabra_de_dios|palabra]] siempre eficaz *Is 55,11*, hace Dios fuertes a los humildes instrumentos que ha escogido. [[david|David]], el pastor, lleno del Espíritu por la unción regia *1Sa 16,13*, libera a Israel de todos sus enemigos; de su raza nacerá el [[mesías|Mesías]], cuyo nombre será «Dios fuerte», en quien reposará el Espíritu de Dios *Is 9,5s* *11,1s*. Jeremías, aunque inepto para hablar, proclama con fuerza invencible las palabras que la mano de Dios pone en su boca *Jer 1,6-10.18s*. El pueblo de Israel será [[resurrección|resucitado]] por el Espíritu de Dios *Ez 37,11-14*.
 
 #### 3. El poder de resurrección
 
@@ -137,11 +137,11 @@ Un holocausto va a sellar la nueva alianza, el de Jesús, en quien el todopodero
 
 Lejos de ejercer su poder para su propia [[gloria]] según las ideas de un mesianismo temporal *Mt 4,3-7* *Jn 8,50*, Jesús no busca sino la gloria de su Padre y el cumplimiento de su voluntad *Jn 5,30* *17,4*. Esta [[humildad]] es la fuente de sus poderes. La creación le está sometida *Mt 8,27 p* *14,19ss p*; cura a los enfermos y resucita a los muertos *Mt 4,23s p* *9,25 p*; perdona los pecados *Mt 9,6ss* y expulsa a los demonios *Mt 12,28 p*. Afirma su poder de dar la vida y de volver a tomarla *Jn 10,18*. Finalmente, anuncia su venida el último día para ejercer su poder de juez soberano *Mc 13,26 p* *Jn 5,21-29*. «Veréis al Hijo del hombre sentado a la diestra del poder y venir sobre las nubes del cielo» *Mt 26,64 p*.
 
-Pero Jesús, «una vez elevado», manifiesta quién es y cuál es su poder: destrona a las potencias *Col 2,15* y atrae todo a sí *Jn 12,31s*. Para esto envía a sus [[discipulo|discípulos]] a testimoniar que tiene todo poder en el cielo y en la tierra y a someter a todas las naciones a su reinado espiritual *Mt 28,18ss*. Para que cumplan esta misión estará siempre con ellos por su Espíritu, fuerza de lo alto *Lc 24,49* *Act 1,8*.
+Pero Jesús, «una vez elevado», manifiesta quién es y cuál es su poder: destrona a las potencias *Col 2,15* y atrae todo a sí *Jn 12,31s*. Para esto envía a sus [[discípulo|discípulos]] a testimoniar que tiene todo poder en el cielo y en la tierra y a someter a todas las naciones a su reinado espiritual *Mt 28,18ss*. Para que cumplan esta misión estará siempre con ellos por su Espíritu, fuerza de lo alto *Lc 24,49* *Act 1,8*.
 
 #### 3. El Espíritu dado a la Iglesia
 
-El Espíritu que llena a los [[apostoles|apóstoles]] el día de Pentecostés *Act 2,4* es un don de Cristo resucitado que manifiesta su poder de salvador *Act 2,32-36* *4,7-12*. Los apóstoles ejercen su poder de perdonar los pecados *Jn 20,21ss* y de dar el Espíritu *Act 8,17*. La expansión de la Iglesia confirma la promesa de Jesús: hacen obras más grandes que las suyas y obtienen del Padre todo lo que le piden en [[nombre]] de su Hijo *Jn 14,12ss* *16,23s*. La fe da omnipotencia a la [[oración]] *Mc 9,23* *10,27* *11,22ss*.
+El Espíritu que llena a los [[apóstoles|apóstoles]] el día de Pentecostés *Act 2,4* es un don de Cristo resucitado que manifiesta su poder de salvador *Act 2,32-36* *4,7-12*. Los apóstoles ejercen su poder de perdonar los pecados *Jn 20,21ss* y de dar el Espíritu *Act 8,17*. La expansión de la Iglesia confirma la promesa de Jesús: hacen obras más grandes que las suyas y obtienen del Padre todo lo que le piden en [[nombre]] de su Hijo *Jn 14,12ss* *16,23s*. La fe da omnipotencia a la [[oración]] *Mc 9,23* *10,27* *11,22ss*.
 
 Pablo hace eco a Jesús enseñando que por la [[fe]] se abre el hombre al poder de salvación que es el [[evangelio]] *Rom 1,16*. De la fe viene el «[[conocer]] a Cristo y el poder de su resurrección y la participación en sus padecimientos» *Flp 3,9s*. Jesús crucificado, para los creyentes, es poder de Dios *1Cor 1,18.23s*; porque la debilidad de Dios es más fuerte que los hombres, y su poder se despliega en la debilidad de sus testigos *1Cor 1,25* *2Cor 12,9*; cuando éstos son entregados a la muerte, la vida de Jesús se manifiesta en ellos *2Cor 4,10ss*, que han creído en el poder de Dios que resucitó a Cristo *Col 2,12* *2Cor 13,4*; son poderosamente fortificados por su Espíritu *Ef 3,16*, que hace que su palabra tenga su poder *1Tes 1,5* *2,13*; en ellos obra la inconmensurable grandeza del poder divino que rebasa toda petición *2Cor 4,7* *Ef 3,20*.
 

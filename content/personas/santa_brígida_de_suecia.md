@@ -23,6 +23,20 @@ Juan Pablo II la presentó como modelo de mujer educadora para la paz. Desde los
 
 [[mujer]], [[feminidad]], [[paz]], [[educación_para_la_paz]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. III: princesa sueca que en 1349, muerto su
+marido, marchó a Roma «ciudad que los papas habían abandonado desde hacía
+más de cuarenta años», convirtiéndose «para los romanos y para el mismo
+pontífice lejano en una verdadera guía espiritual». Hasta los últimos
+días imploró al Pontífice que volviese de Aviñón. Sus últimas palabras, a
+su hija Karin, fueron: «**¡Paciencia y silencio!**». Su confesor cuenta:
+«Cinco días antes de que Brígida muriese, Nuestro Señor le dijo: "Yo he
+hecho contigo lo que hace el Esposo cuando se esconde a la Esposa para
+hacerse desear más ardientemente"». En este deseo de encontrarlo,
+finalmente satisfecho, murió. Con Catalina de Siena fue proclamada
+Patrona de Europa.
+
 ## Referencias
 
 - [JPII, Muj 21: Santa Brígida de Suecia, Ángelus 5-II-1995]

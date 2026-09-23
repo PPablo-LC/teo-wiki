@@ -75,7 +75,7 @@ El editor Bishop Robert Barron abre con una carta que invita a los lectores a «
 
 ## Ver también
 
-[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[creatividad]], [[imaginación]], [[nihilismo]], [[fra_angelico]], [[encarnación]], [[imagen_de_Dios]], [[vía_de_la_belleza]], [[nueva_evangelización]]
+[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[creatividad]], [[imaginación]], [[nihilismo]], [[fra_angelico]], [[encarnación]], [[imagen_de_dios]], [[vía_de_la_belleza]], [[nueva_evangelización]]
 
 ## Referencias
 

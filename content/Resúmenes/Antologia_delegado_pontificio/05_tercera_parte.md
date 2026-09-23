@@ -19,13 +19,13 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[constituciones_de_la_legion_de_cristo]] — código fundamental a revisar conforme al c. 587 CIC
 - [[derecho_propio_del_instituto]] — conjunto de normas que expresan el carisma
 - [[vida_consagrada]] — seguimiento radical de Cristo en la profesión de los consejos evangélicos
-- [[consejos_evangelicos]] — pobreza, castidad y obediencia
+- [[consejos_evangélicos]] — pobreza, castidad y obediencia
 - [[vida_fraterna_en_comunidad]] — dimensión esencial de la vida religiosa
 - [[comunion_fraterna]] — «el amor siempre tiende a la unidad» (c. 602 CIC)
 - [[gobierno_religioso]] — potestad al servicio del carisma y de la comunidad
 - [[formacion_religiosa]] — proceso de maduración humana y espiritual
 - [[libertad_de_conciencia]] — derecho del religioso a la protección de su intimidad
-- [[capitulo_general]] — órgano supremo normativo del instituto
+- [[capítulo_general]] — órgano supremo normativo del instituto
 - [[marcial_maciel]] — fundador histórico cuya vida inmoral plantea la cuestión del carisma
 - [[gratia_gratis_data]] — gracia dada para bien de otros, distinta de la *gratia gratum faciens*
 - [[refundacion]] — sentido recto: volver a los fundamentos carismáticos perennes
@@ -33,7 +33,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[codice_de_derecho_canonico]] — legislación canónica de referencia
 - [[autonomia_de_los_consagrados]] — justa autonomía de los miembros del tercer grado del RC
 - [[regnum_christi]] — Movimiento en proceso de configuración canónica
-- [[asociacion_de_fieles]] — forma jurídica prevista para los consagrados del RC
+- [[asociación_de_fieles]] — forma jurídica prevista para los consagrados del RC
 - [[fase_iluminativa]] — período de conferencias y reflexión previo a la revisión de Estatutos
 
 ## Contenido
@@ -84,11 +84,11 @@ El Papa pide «revisar el carisma», lo que presupone que existe. La cuestión e
 
 #### Revisión del carisma y discernimiento espiritual comunitario
 
-La revisión comporta un discernimiento a dos niveles: global (individuar el don originario del Espíritu, purificado de lo que el fundador pudo haber infundido) y particular (discernimiento sobre cada parte de las Constituciones). Los datos son: las Constituciones actuales, la praxis, las conclusiones de las Visitas Apostólicas y la experiencia personal. Todo debe realizarse en clima de oración, con apertura y escucha del otro como instrumento del Espíritu. La Comisión Central elaborará borradores que serán *instrumenta laboris* para la reflexión comunitaria, y el [[capitulo_general]] hará el discernimiento final.
+La revisión comporta un discernimiento a dos niveles: global (individuar el don originario del Espíritu, purificado de lo que el fundador pudo haber infundido) y particular (discernimiento sobre cada parte de las Constituciones). Los datos son: las Constituciones actuales, la praxis, las conclusiones de las Visitas Apostólicas y la experiencia personal. Todo debe realizarse en clima de oración, con apertura y escucha del otro como instrumento del Espíritu. La Comisión Central elaborará borradores que serán *instrumenta laboris* para la reflexión comunitaria, y el [[capítulo_general]] hará el discernimiento final.
 
 #### Tutela del carisma
 
-Los elementos estructurales fundamentales son: el estilo de vida (modo de vivir los [[consejos_evangelicos]] y la [[vida_fraterna_en_comunidad]]), el apostolado, la incorporación y formación, y la estructura de gobierno. Las Constituciones no son solo normas a seguir, sino criterios de discernimiento espiritual para progresar en la santidad y medio de comunión. La estabilidad interna depende de su origen en la experiencia y el discernimiento; la externa, de la aprobación eclesiástica. En la tradición de la Iglesia, las constituciones no obligan bajo pena de pecado, excepto en materia de votos.
+Los elementos estructurales fundamentales son: el estilo de vida (modo de vivir los [[consejos_evangélicos]] y la [[vida_fraterna_en_comunidad]]), el apostolado, la incorporación y formación, y la estructura de gobierno. Las Constituciones no son solo normas a seguir, sino criterios de discernimiento espiritual para progresar en la santidad y medio de comunión. La estabilidad interna depende de su origen en la experiencia y el discernimiento; la externa, de la aprobación eclesiástica. En la tradición de la Iglesia, las constituciones no obligan bajo pena de pecado, excepto en materia de votos.
 
 #### Criterios para la revisión
 

@@ -105,7 +105,7 @@ La creación es «la emanación del ser entero»: no una cadena de inteligencias
 - [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta la creación como producto del azar evolutivo, cuando la doctrina católica enseña que Dios creó libremente de la nada por amor
 
 ## Ver también
-[[providencia_divina]], [[gloria_de_Dios]], [[hombre]], [[ángeles]], [[pecado_original]], [[redención]], [[santísima_trinidad]]
+[[providencia_divina]], [[gloria_de_dios]], [[hombre]], [[ángeles]], [[pecado_original]], [[redención]], [[santísima_trinidad]]
 
 ## Referencias
 

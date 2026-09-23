@@ -24,7 +24,7 @@ tags: ["resumen", "mortificación", "cuaresma", "custodia_de_los_sentidos", "cas
 - [[fortaleza]] — tolerancia a la adversidad, calma y virtud bajo la prueba
 - [[pecado]] — evitar las ocasiones próximas de pecado
 - [[exorcismo]] — algunos vicios requieren oración y ayuno
-- [[imitación_de_cristo]] — negarse a sí mismo, tomar la cruz y seguir a Cristo
+- [[imitacion_de_cristo]] — negarse a sí mismo, tomar la cruz y seguir a Cristo
 
 ## Introducción
 Tim Barry, oficial naval retirado, católico de toda la vida y padre de siete hijos, define la [[mortificación]] como penitencia: ayuno, abstinencia, duchas frías (vía Exodus 90). Duración 18:07.
@@ -67,4 +67,4 @@ Levantarse inmediatamente cuando suena la alarma como batalla espiritual diaria.
 Deben evitarse las ocasiones próximas de [[pecado]]; algunos vicios requieren oración y ayuno ([[exorcismo]] de tendencias).
 
 ## Conclusión: imitar a Cristo
-La mortificación es camino de unión con Dios mediante la negación propia en [[imitación_de_cristo]]: "Si alguno quiere venir en pos de mí, niéguese a sí mismo, tome su cruz y sígame."
+La mortificación es camino de unión con Dios mediante la negación propia en [[imitacion_de_cristo]]: "Si alguno quiere venir en pos de mí, niéguese a sí mismo, tome su cruz y sígame."

@@ -37,7 +37,7 @@ En la estructura de la Suma (FMC cap. IX), santo Tomás sitúa los actos humanos
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata sistemáticamente los actos humanos en Ia-IIae qq.6-21. Los [[actos_humanos]] se dividen en:
+Santo Tomás trata sistemáticamente los actos humanos en Ia-IIae qq.6-21. Los **actos humanos** se dividen en:
 
 - **Actos voluntarios (q.6):** El acto humano es voluntario porque procede de un principio intrínseco (la [[voluntad]]) con conocimiento del fin. La voluntariedad es la esencia del acto humano.
 - **Actos elícitos e imperados (q.6 a.4, q.17):** Los actos elícitos proceden inmediatamente de la voluntad (amar, querer); los actos imperados son mandados por la voluntad a otras potencias (andar, hablar). La [[voluntad]] no puede ser violentada en sus actos elícitos (q.6 a.4), pero sí en los imperados (q.6 a.5).

@@ -49,6 +49,19 @@ En la Tischrede 129 (AED, 15, 145), la pertenencia define el amor cristiano: «A
 
 La pertenencia es condición de la preferencia: «Se tu non incominci a far parte, come fai a giungere alla preferenza? Non giungerai mai» (AED, 15, 39). Por eso la invocación al Espíritu: «Fammi accettare il miracolo della compagnia» (AED, 15, 33). Coincide con el análisis bíblico-teológico expuesto: la pertenencia auténtica es don recíproco y comunión, no posesión.
 
+### Luigi Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+Los Esercizi 2000 y 2001 hacen de la *appartenenza* «la parola decisiva per l'esistenza»:
+
+- **El hombre depende: ha sido hecho** — la pertenencia es la condición originaria: «il cambiamento è traspositare, cancellare o approfondire un vínculo»; el hombre comienza a afirmarse a sí mismo «accettando di esistere» (*Il senso religioso*, p. 12; Sal 32(31),9; Sal 139(138),13-16) (DLV 14, 3-29).
+- **La negación de la pertenencia** — la cultura moderna abole el pasado y mata la pertenencia (Arendt); «la libertad sin pertenencia es fuente de mentira y violencia» (Gv 8,43-44); el *daimon*, el ángel rebelde que no reconoce ser hecho: «No, non Ti riconosco» (DLV 14, 33-71; DLV 16, 7-15).
+- **Perstencia a Dios = pertenencia a Cristo** — si Dios se ha hecho un hombre, pertenecer a Dios coincide con pertenecer a Cristo; el Bautismo como nacimiento de la «creatura nuova» (2Cor 5,14-15; Rm 14,7-8; Gal 2,20) (DLV 15, 15-31).
+- **Gaber** — «L'appartenenza / è avere gli altri dentro di sé»; «Sarei certo di cambiare la mia vita / se potessi cominciare / a dire noi»: la pertenencia como síntesis del hombre hacia Dios (DLV 15, 3-15).
+- **Huida de la libertad** — la pertenencia es la fuente de la libertad: «la libertà non crea se stessa»; la libertad como reconocer que Dios es todo en todo (DLV 16, 7-15).
+- **Estoricità** — la pertenencia a Dios implica historia: la elección de Abramo (Gn 17,1-3; Dt 7,7-8), la Alianza como «modalità suprema del rapporto tra l'uomo e Dio» (Buber) (DLV 14, 73-121).
+- **Primera pertenencia: padre/madre** — Dios se nos da a través de padre y madre (DLV 16, 43).
+- **La moralidad como pertenencia** — «riconoscimento amoroso di una Presenza connessa col destino»; la justicia juzgada por la ley de la pertenencia (DLV 10, 81-126; DLV 16, 17-25).
+
 ## Analizado en contexto cultural
 
 - [[los_dones_de_la_imperfeccion_brene_brown]] — la pertenencia junto al amor como experiencia esencial humana; convergencia con la vocación a la comunión; tensión por horizonte inmanente.

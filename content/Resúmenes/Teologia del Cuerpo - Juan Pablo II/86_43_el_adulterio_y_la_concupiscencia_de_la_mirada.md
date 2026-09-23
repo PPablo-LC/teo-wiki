@@ -21,7 +21,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[comunión_de_personas]] — la deformación del carácter de comunión
 - [[interpretación_psicológica]] — el límite de la interpretación «sexológica»
 - [[interpretación_teológica]] — la relación orgánica entre acto y disposición
-- [[pureza_del_corazón]] — Mv 5, 8 y el cumplimiento de la ley
+- [[pureza_del_corazon]] — Mv 5, 8 y el cumplimiento de la ley
 - [[indisolubilidad_del_matrimonio]] — la justa motivación del mandamiento
 - [[redención_del_cuerpo]] — la liberta del don y la «redención del cuerpo»
 - [[convivencia]] — toda forma de convivencia hombre-mujer

@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization and culture - 11"]
 - [[novísimos]] — cómo afectan la vida diaria
 - [[sufragios]] — orar por las almas del purgatorio (san Nicolás de Tolentino)
 - [[imanentización_del_escatón]] — el peligro de hacer cielo político
-- [[presencia_de_Dios]] — Dios camina entre nosotros
+- [[presencia_de_dios]] — Dios camina entre nosotros
 - [[antropología_teológica]] — ¿quiénes somos y qué hacemos?
 - [[apologética]] — explicar las postrimerías a un escéptico
 

@@ -57,12 +57,34 @@ La libertad no tiene que ver con el capricho sino con la sabiduría: es racional
 - [[testimonio]]: La santidad como "propaganda" más eficaz que los argumentos racionales
 - [[misiones]]: Fundación de las Misioneras de la Caridad como respuesta al llamado de los pobres
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. IV, la recuerda entre las santas de
+caridad maternal. De Albania, en la India fue directora de una escuela
+católica; a los treinta y seis años, removida al ver agonizar a una pobre
+mujer en la calle, percibió «una llamada dentro de la llamada» y dejó el
+convento para consagrarse al servicio «de los más pobres entre los
+pobres», fundando las Misioneras de la Caridad. «Todos los heridos de la
+calle» encontraron en sus casas acogida y escucha.
+
+Es significativo que quisiera que algunas hermanas se dedicaran
+exclusivamente a la contemplación de Jesús Eucaristía. Explicaba su obra
+siempre del mismo modo: «Todo lo que hacemos —oración, trabajo,
+sacrificio— lo hacemos por Jesús… Solo Jesús es la explicación de nuestra
+vida». Con el Premio Nobel de la Paz defendió los derechos de los niños
+aún no nacidos. Se sentía solo como una «pobre pluma» de Dios. En los
+últimos años Dios le pidió —como a los grandes místicos— la prueba de las
+tinieblas interiores, para hacerle compartir los sufrimientos de Cristo
+en el Calvario e incluso los de los no creyentes. Los aceptó: «He
+comenzado a amar mis tinieblas porque creo que son parte, una pequeña
+parte, de las tinieblas de Jesús y de su pena en la tierra».
+
 ## Ver también
 
-- [[maximiliano_kolbe]]
-- [[óscar_romero]]
-- [[francisco_de_asís]]
-- [[teresa_de_jesús]]
+- [[san_maximiliano_kolbe]]
+- [[san_oscar_romero]]
+- [[san_francisco_de_asís]]
+- [[santa_teresa_de_jesús]]
 - [[hora_santa]]
 - [[adoración_eucarística]]
 - [[ecumenismo]]

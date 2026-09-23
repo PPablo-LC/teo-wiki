@@ -31,11 +31,11 @@ Thompson sostiene que la lectura orante de la Escritura requiere humildad, silen
 
 ## Relaciones doctrinales
 
-La exégesis católica se relaciona con la [[inspiración_bíblica]], la [[interpretación_bíblica]], la [[Tradición]], el [[Magisterio]], la [[oración]] y la [[fe]].
+La exégesis católica se relaciona con la [[inspiración_bíblica]], la [[interpretación_bíblica]], la [[tradición]], el [[magisterio]], la [[oración]] y la [[fe]].
 
 ## Ver también
 
-[[inspiración_bíblica]], [[interpretación_bíblica]], [[oración]], [[fe]], [[Magisterio]]
+[[inspiración_bíblica]], [[interpretación_bíblica]], [[oración]], [[fe]], [[magisterio]]
 
 ## Referencias
 

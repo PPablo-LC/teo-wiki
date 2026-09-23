@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[egipto]] — Egipto con significado ambiguo frente a Babilonia como poder de mal
-- [[idolos]] — la torre de Babel como signo de la idolatría babilónica
+- [[ídolos]] — la torre de Babel como signo de la idolatría babilónica
 - [[soberbia]] — la torre de Babel como símbolo de la soberbia humana
 - [[lengua]] — la confusión de las lenguas como castigo
 - [[fuerza]] — Babilonia que «hace de su fuerza su Dios»
@@ -23,11 +23,11 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[copa]] — Babilonia como cáliz de oro con que Yahveh embriaga a los pueblos
 - [[exilio]] — el exilio en Babilonia como castigo y purificación
 - [[cautividad]] — la cautividad donde recogerá Dios el resto de su pueblo
-- [[numeros]] — los 70 años predichos como número convencional
-- [[exodo]] — el retorno de Babilonia como un nuevo éxodo
+- [[números]] — los 70 años predichos como número convencional
+- [[éxodo]] — el retorno de Babilonia como un nuevo éxodo
 - [[día_del_señor]] — el día de Yahveh contra Babilonia
 - [[venganza]] — la venganza de Yahveh contra los dioses de Babilonia
-- [[jerusalen]] — Jerusalén frente a Babilonia como las dos ciudades
+- [[jerusalén]] — Jerusalén frente a Babilonia como las dos ciudades
 - [[satanás]] — Babilonia como ciudad de Satán
 - [[bestia]] — la bestia sobre la que se sienta la prostituta babilónica
 - [[anticristo]] — Babilonia haciendo causa común con el anticristo

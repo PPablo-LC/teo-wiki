@@ -14,7 +14,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 
 - [[coraje]] — redefinido como virtud silenciosa y cotidiana, no solo heroica o pública
 - [[humildad]] — raíz del verdadero coraje: reconocerse criatura, no Creador
-- [[maria]] — el fiat de Nuestra Señora como ejemplo perfecto de coraje humilde
+- [[maría]] — el fiat de Nuestra Señora como ejemplo perfecto de coraje humilde
 - [[miedo]] — resistencia al miedo, no ausencia de él
 - [[santa_teresita_de_lisieux]] — la sencillez del alma que se abandona a la gracia como modelo de coraje
 - [[consejos_evangélicos]] — la santidad cotidiana requiere coraje para practicar todas las virtudes
@@ -32,7 +32,7 @@ En Estados Unidos, donde no amenaza el martirio de la espada, se ha concebido el
 
 ### Courage as Humble Surrender
 
-La redefinición propuesta: el coraje como **rendición a la realidad y al lugar que uno ocupa**. El acto más valiente es ejercer la [[humildad]], nacida del reconocimiento de que somos criatura, no Creador. El ejemplo perfecto es el fiat de [[maria]]: su «sí» a Dios no fue un acto de apropiación de gloria personal, sino entrega total para glorificar a Dios. Lo que profesó ante el ángel tuvo luego que vivir: llevar a su hijo en el vientre, acunarlo en Belén, abrazar su cuerpo al pie de la cruz. Los mártires cristianos enfrentaron la muerte con humildad, no con deseo de auto-glorificación. Nuestra fe no nos pide buscar la persecución; los primeros cristianos no declaraban a las autoridades que se reunían secretamente en las catacumbas.
+La redefinición propuesta: el coraje como **rendición a la realidad y al lugar que uno ocupa**. El acto más valiente es ejercer la [[humildad]], nacida del reconocimiento de que somos criatura, no Creador. El ejemplo perfecto es el fiat de [[maría]]: su «sí» a Dios no fue un acto de apropiación de gloria personal, sino entrega total para glorificar a Dios. Lo que profesó ante el ángel tuvo luego que vivir: llevar a su hijo en el vientre, acunarlo en Belén, abrazar su cuerpo al pie de la cruz. Los mártires cristianos enfrentaron la muerte con humildad, no con deseo de auto-glorificación. Nuestra fe no nos pide buscar la persecución; los primeros cristianos no declaraban a las autoridades que se reunían secretamente en las catacumbas.
 
 ### The Seduction of False Courage
 
@@ -48,7 +48,7 @@ DeSanctis cita a [[c_s_lewis]] en *The Screwtape Letters*: «El coraje no es sim
 
 ### The Heroic Minute and the Art of Small Deeds
 
-DeSanctis destaca la expresión de [[josemaria_escriva]] del «minuto heroico» — levantarse y comenzar el día en el momento exacto que suena la alarma. Hay heroísmo en abrazar el deber del momento, en aceptar cada día por lo que es. Cita a Alice von Hildebrand: «Nada es pequeño para quien ama… Pequeñas acciones en la cocina hechas por amor tienen mayor valor que una brillante fusión de Wall Street lograda por avaricia.» La vida consiste en una serie de acciones pequeñas; el arte de vivir consiste en encontrar el significado en esas tareas pequeñas relacionándolas con el amor.
+DeSanctis destaca la expresión de [[san_josemaría_escrivá]] del «minuto heroico» — levantarse y comenzar el día en el momento exacto que suena la alarma. Hay heroísmo en abrazar el deber del momento, en aceptar cada día por lo que es. Cita a Alice von Hildebrand: «Nada es pequeño para quien ama… Pequeñas acciones en la cocina hechas por amor tienen mayor valor que una brillante fusión de Wall Street lograda por avaricia.» La vida consiste en una serie de acciones pequeñas; el arte de vivir consiste en encontrar el significado en esas tareas pequeñas relacionándolas con el amor.
 
 ### The Examples of St. Thérèse and the Hemorrhaging Woman
 

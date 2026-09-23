@@ -41,7 +41,7 @@ Scott Hahn (BMV, lección 2) presenta la Anunciación como la escena en que Mar�
 
 ## Relaciones doctrinales
 
-Se relaciona con [[encarnación]], [[fiat]], [[unión_hipostática]], [[llena_de_gracia]], [[anunciación]], [[espíritu_santo]], [[redención]].
+Se relaciona con [[encarnación]], [[fiat]], [[unión_hipostática]], [[llena_de_gracia]], **anunciación**, [[espíritu_santo]], [[redención]].
 
 ## Ver también
 

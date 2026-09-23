@@ -30,7 +30,7 @@ Los cánones 1008-1054 regulan los ministros sagrados y el sacramento del Orden.
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium enseña en LG §10 la distinción esencial entre el [[sacerdocio_común]] y el [[sacerdocio_ministerial]]: «aunque diferentes esencialmente y no sólo en grado, se ordenan, sin embargo, el uno al otro, pues ambos participan a su manera del único sacerdocio de Cristo». El sacerdocio ministerial, «por la potestad sagrada de que goza, forma y dirige el pueblo sacerdotal, confecciona el sacrificio eucarístico en la persona de Cristo y lo ofrece en nombre de todo el pueblo a Dios» [ConcVatII, LG §10].
+Lumen Gentium enseña en LG §10 la distinción esencial entre el [[sacerdocio_común]] y el **sacerdocio ministerial**: «aunque diferentes esencialmente y no sólo en grado, se ordenan, sin embargo, el uno al otro, pues ambos participan a su manera del único sacerdocio de Cristo». El sacerdocio ministerial, «por la potestad sagrada de que goza, forma y dirige el pueblo sacerdotal, confecciona el sacrificio eucarístico en la persona de Cristo y lo ofrece en nombre de todo el pueblo a Dios» [ConcVatII, LG §10].
 
 Los presbíteros, en virtud del sacramento del orden, han sido consagrados como verdaderos sacerdotes del Nuevo Testamento a imagen de Cristo, sumo y eterno Sacerdote, para predicar el Evangelio, apacentar los fieles y celebrar el culto divino [ConcVatII, LG §28]. Su oficio sagrado lo ejercen sobre todo en el culto eucarístico, donde obrando en nombre de Cristo y proclamando su misterio, unen las oraciones de los fieles al sacrificio de su Cabeza [ConcVatII, LG §28].
 

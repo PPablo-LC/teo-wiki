@@ -17,7 +17,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[penitencia_y_conversión]] — el sacramento de la penitencia
 - [[fe]] — la confesión como profesión pública de fe
 - [[santo]] — la confesión del pecador como proclamación de la santidad de Dios
-- [[accion_de_gracias]] — la confesión como justificación de la acción de gracias
+- [[acción_de_gracias]] — la confesión como justificación de la acción de gracias
 - [[alabanza]] — la confesión como expresión de la alabanza
 - [[testimonio]] — la confesión frente al testimonio
 - [[obras]] — las obras de Dios proclamadas en la confesión
@@ -26,15 +26,15 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[dios]] — el Dios único que ha hecho alianza
 - [[alianza]] — los derechos restaurados por la alianza
 - [[pecado]] — la falta cometida contra Yahveh
-- [[perdon]] — el perdón concedido tras la confesión
+- [[perdón]] — el perdón concedido tras la confesión
 - [[liberación_y_libertad]] — la liberación que aporta Cristo
-- [[mesias]] — Jesús dado al mundo como Mesías y Salvador
+- [[mesías]] — Jesús dado al mundo como Mesías y Salvador
 - [[permanecer]] — la palabra que permanece en nosotros
 - [[bautismo]] — la confesión que acompaña al bautismo
-- [[persecucion]] — confesar la fe en la persecución
-- [[martir]] — hasta el martirio
-- [[espiritu]] — la confesión producida por el Espíritu
-- [[corazon]] — el arrepentimiento del corazón
+- [[persecución]] — confesar la fe en la persecución
+- [[mártir]] — hasta el martirio
+- [[espíritu]] — la confesión producida por el Espíritu
+- [[corazón]] — el arrepentimiento del corazón
 - [[labios]] — la confesión de los labios
 
 ## Contenido

@@ -16,9 +16,9 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[gracia]] — la generosidad que pretende preceder a la gracia
 - [[promesas]] — el tiempo de la promesa
-- [[circuncision]] — la circuncisión del corazón
+- [[circuncisión]] — la circuncisión del corazón
 - [[ley]] — la ley, don excelente entre todos
-- [[corazon]] — el corazón nuevo que hace falta a Israel
+- [[corazón]] — el corazón nuevo que hace falta a Israel
 - [[gloria]] — la presencia de la gloria en el templo
 - [[pan]] — el pan del cielo
 - [[agua]] — el agua de la roca
@@ -28,12 +28,12 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[limosna]] — el don a los pobres
 - [[amor]] — el amor del Padre que da a su Hijo
 - [[fidelidad]] — la fidelidad de Jesús al amor del Padre
-- [[espiritu]] — el Espíritu prometido, don de Dios
+- [[espíritu]] — el Espíritu prometido, don de Dios
 - [[herencia]] — las arras de la herencia
 - [[vida]] — la vida eterna, don gratuito de Dios
 - [[fruto]] — la gracia recibida para que fructifique
 - [[riquezas]] — los bienes confiados para el servicio de los demás
-- [[accion_de_gracias]] — la acción de gracias suscitada por el don
+- [[acción_de_gracias]] — la acción de gracias suscitada por el don
 
 ## Contenido
 
@@ -45,9 +45,9 @@ En el origen de todo don enseña la Biblia a reconocer una iniciativa divina. «
 
 El AT es, más que el tiempo del don, el tiempo de la [[promesas|promesa]]. Los dones mismos no hacen sino prefigurar y preparar el don definitivo.
 
-«A tu posteridad doy yo este país» dice Yahveh a Abraham *Gen 15,18*. El eco de esta palabra resuena por todo lo largo del Pentateuco. El Deuteronomio se aplica a hacer apreciar tal don *Dt 8,7* *11,10*, pero anuncia también que las infidelidades acarrearán el exilio; otro don es necesario: la [[circuncision|circuncisión]] del corazón, condición del retorno y de la vida *Dt 29,21-30,6*.
+«A tu posteridad doy yo este país» dice Yahveh a Abraham *Gen 15,18*. El eco de esta palabra resuena por todo lo largo del Pentateuco. El Deuteronomio se aplica a hacer apreciar tal don *Dt 8,7* *11,10*, pero anuncia también que las infidelidades acarrearán el exilio; otro don es necesario: la [[circuncisión|circuncisión]] del corazón, condición del retorno y de la vida *Dt 29,21-30,6*.
 
-Por medio de Moisés da Dios a su pueblo la [[ley]] *Dt 5,22*, don excelente entre todos *Sal 147,19s*, pues es una participación en su propia sabiduría *Eclo 24,23* *Dt 4,5-8*. Pero la ley es impotente, si es malo el corazón que la recibe *Neh 9,13.26*. A Israel le hace falta un [[corazon|corazón]] nuevo; tal es el don futuro, hacia el que orientan los profetas sus aspiraciones *Jer 24,7* *Ez 36,26ss*.
+Por medio de Moisés da Dios a su pueblo la [[ley]] *Dt 5,22*, don excelente entre todos *Sal 147,19s*, pues es una participación en su propia sabiduría *Eclo 24,23* *Dt 4,5-8*. Pero la ley es impotente, si es malo el corazón que la recibe *Neh 9,13.26*. A Israel le hace falta un [[corazón|corazón]] nuevo; tal es el don futuro, hacia el que orientan los profetas sus aspiraciones *Jer 24,7* *Ez 36,26ss*.
 
 Lo mismo se puede decir de todos los dones del AT: los unos parecen quedar interrumpidos (dinastía davídica, presencia de la [[gloria]] en el templo) y sucesivas decepciones fuerzan a dirigir las esperanzas más adelante; los otros no son ya sino recuerdos que atizan los deseos, [[pan]] del cielo *Sab 16,20s*, [[agua]] de la roca *Sal 105,41*. Israel ha recibido mucho, pero aguarda todavía más.
 
@@ -69,7 +69,7 @@ El don a los pobres, recomendado en términos magníficos ([[limosna]]), tiende 
 
 El Padre nos revela su [[amor]] al darnos a su Hijo *Jn 3,16*, y en el Hijo se da el Padre mismo, pues Jesús está totalmente lleno de la riqueza del Padre *Jn 1,14*: palabras y obras, poder de juzgar y de vivificar, nombre, gloria, amor, todo lo que pertenece al Padre es dado a Jesús *Jn 17*.
 
-En su [[fidelidad]] al amor que le une al Padre *Jn 15,10* realiza Jesús el don completo de sí mismo: «da su vida» *Mt 20,28 p*. «Verdadero pan del cielo dado por el Padre», da «su carne por la vida del mundo» *Jn 6,32.51* *Lc 22,19*: «Esto es mi cuerpo dado por vosotros.» Por su sacrificio obtiene que se nos comunique el [[espiritu|Espíritu]] prometido *Act 2,33*, «don de Dios» por excelencia *Act 8,20* *11,17*. Ya en esta tierra poseemos así las arras de nuestra [[herencia]]: somos enriquecidos con todo don espiritual *1Cor 1,5ss* y jamás se celebrará bastante la sobreabundancia del don de la [[gracia]] *Rom 5,15-21*. En forma secreta, pero real *Col 3,3s* vivimos ya de la [[vida]] eterna, «don gratuito de Dios» *Rom 6,23*.
+En su [[fidelidad]] al amor que le une al Padre *Jn 15,10* realiza Jesús el don completo de sí mismo: «da su vida» *Mt 20,28 p*. «Verdadero pan del cielo dado por el Padre», da «su carne por la vida del mundo» *Jn 6,32.51* *Lc 22,19*: «Esto es mi cuerpo dado por vosotros.» Por su sacrificio obtiene que se nos comunique el [[espíritu|Espíritu]] prometido *Act 2,33*, «don de Dios» por excelencia *Act 8,20* *11,17*. Ya en esta tierra poseemos así las arras de nuestra [[herencia]]: somos enriquecidos con todo don espiritual *1Cor 1,5ss* y jamás se celebrará bastante la sobreabundancia del don de la [[gracia]] *Rom 5,15-21*. En forma secreta, pero real *Col 3,3s* vivimos ya de la [[vida]] eterna, «don gratuito de Dios» *Rom 6,23*.
 
 ### El don a Dios en Jesucristo.
 
@@ -81,4 +81,4 @@ El movimiento del don a los otros adquiere, pues, una amplitud y una intensidad 
 
 «Da a quien te pida» *Mt 5,42*. «Habéis recibido gratis, dad gratis» *Mt 10,8*. El cristiano está llamado a considerar todo, bienes materiales o dones espirituales, como [[riquezas]] de las que sólo es administrador y que le han sido confiadas para el servicio de los demás *1Pe 4,10s*. Y, consejo inaudito, al que desea la perfección le exhorta Jesús incluso a dar toda su fortuna *Lc 18,22*. El don de Dios en Jesucristo nos lleva todavía más lejos: Jesús «ofreció su vida por nosotros», y así la gracia nos impele a «ofrecer también nosotros nuestra vida por nuestros hermanos» *1Jn 3,16*; «no hay mayor amor...» *Jn 15,13*.
 
-El don realiza la unión en el amor y suscita en todos la [[accion_de_gracias|acción]] de gracias *2Cor 9,12-15*. El donante da gracias a Dios tanto y más que el beneficiario, pues sabe que su misma generosidad es una gracia *2Cor 8,1*, fruto del amor que viene de Dios *1Jn 3,14-18*. Y por eso en definitiva «hay más dicha en dar que en recibir» *Act 20,35*.
+El don realiza la unión en el amor y suscita en todos la [[acción_de_gracias|acción]] de gracias *2Cor 9,12-15*. El donante da gracias a Dios tanto y más que el beneficiario, pues sabe que su misma generosidad es una gracia *2Cor 8,1*, fruto del amor que viene de Dios *1Jn 3,14-18*. Y por eso en definitiva «hay más dicha en dar que en recibir» *Act 20,35*.

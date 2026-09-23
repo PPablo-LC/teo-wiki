@@ -37,11 +37,11 @@ Segundo, el fundamento nuevo es Jesucristo, piedra angular desechada y convertid
 
 ## Relaciones doctrinales
 
-La edificación se relaciona con la [[iglesia]] como edificio de Dios, el [[templo]] de Jerusalén como figura, [[Cristo]] como fundamento y piedra angular, y los [[apóstoles]] como cimientos. Se proyecta hacia la [[nueva_Jerusalén]] escatológica.
+La edificación se relaciona con la [[iglesia]] como edificio de Dios, el [[templo]] de Jerusalén como figura, [[cristo]] como fundamento y piedra angular, y los [[apóstoles]] como cimientos. Se proyecta hacia la [[nueva_jerusalen]] escatológica.
 
 ## Ver también
 
-[[iglesia]], [[templo]], [[piedra_angular]], [[cuerpo_de_cristo]], [[apóstoles]], [[nueva_Jerusalén]], [[gracia]]
+[[iglesia]], [[templo]], [[piedra_angular]], [[cuerpo_de_cristo]], [[apóstoles]], [[nueva_jerusalen]], [[gracia]]
 
 ## Referencias
 

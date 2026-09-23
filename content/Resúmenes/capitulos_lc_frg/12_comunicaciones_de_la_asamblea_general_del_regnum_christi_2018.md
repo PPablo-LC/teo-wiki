@@ -13,7 +13,7 @@ tags: ["resumen", "capitulos lc frg"]
 ## Conceptos básicos referenciados
 
 - [[asamblea_general_regnum_christi]]
-- [[Regnum_Christi]]
+- [[regnum_christi]]
 
 
 ## Contenido

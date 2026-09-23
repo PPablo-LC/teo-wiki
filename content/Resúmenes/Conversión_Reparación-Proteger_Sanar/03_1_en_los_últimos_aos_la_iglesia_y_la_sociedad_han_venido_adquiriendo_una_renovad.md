@@ -12,13 +12,13 @@ tags: ["resumen", "conversión_reparación-proteger_sanar"]
 
 ## Conceptos básicos referenciados
 
-- [[interes_superior_del_menor]] — principio rector que guía todas las actuaciones de la Congregación
+- [[interés_superior_del_menor]] — principio rector que guía todas las actuaciones de la Congregación
 - [[abusos_sexuales_en_la_iglesia]] — fenómeno que la Congregación pretende erradicar con medidas concretas
 - [[ambientes_seguros]] — estándares de prevención, respuesta y supervisión en instituciones de la Legión de Cristo
 - [[justicia_restaurativa]] — procesos restaurativos para encuentro, escucha y sanación con víctimas
 - [[prescripcion_de_delitos_canonicos]] — posibilidad de levantar prescripción para juzgar abusos del pasado
-- [[tribunal_eclesiastico]] — tribunal constituido por la Legión de Cristo para juzgar causas canónicas de abusos
-- [[presuncion_de_inocencia]] — derecho del legionario acusado hasta que se demuestre culpabilidad
+- [[tribunal_eclesiástico]] — tribunal constituido por la Legión de Cristo para juzgar causas canónicas de abusos
+- [[presunción_de_inocencia]] — derecho del legionario acusado hasta que se demuestre culpabilidad
 - [[confidencialidad]] — prohibición de imponer cláusulas de confidencialidad en acuerdos con víctimas
 - [[vitis_estis_lux_mundi]] — Motu Proprio del papa Francisco contra abusos en la Iglesia
 - [[codes_de_conducta]] — normas de comportamiento obligatorias para miembros y colaboradores

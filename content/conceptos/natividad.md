@@ -109,11 +109,11 @@ Benedicto XVI profundiza en el nacimiento de Jesús en Belén desde los relatos 
 
 ## Relaciones doctrinales
 
-La Natividad presupone la [[encarnacion]] y la [[concepcion_virginal]], y manifiesta la [[maternidad_divina]] de Maria. Se relaciona con la [[redención]] (Cristo nace para morir por nuestros pecados) y con la [[gracia_cristica]] (nace perfecto en gracia). La adoracion de los Magos prefigura la vocacion de los gentiles a la fe.
+La Natividad presupone la [[encarnacion]] y la [[concepción_virginal]], y manifiesta la [[maternidad_divina]] de Maria. Se relaciona con la [[redención]] (Cristo nace para morir por nuestros pecados) y con la [[gracia_cristica]] (nace perfecto en gracia). La adoracion de los Magos prefigura la vocacion de los gentiles a la fe.
 
 ## Ver tambien
 
-[[encarnacion]], [[concepcion_virginal]], [[maternidad_divina]], [[virgen_maría]], [[redención]], [[jesucristo]], [[epifania]]
+[[encarnacion]], [[concepción_virginal]], [[maternidad_divina]], [[virgen_maría]], [[redención]], [[jesucristo]], [[epifanía]]
 
 ## Referencias
 

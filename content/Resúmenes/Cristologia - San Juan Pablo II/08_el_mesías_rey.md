@@ -17,7 +17,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "messías", "rea
 - [[reino_de_dios]] — Reino no terreno sino espiritual
 - [[david]] — Promesa mesiánica del trono eterno
 - [[pentecostés]] — Reconocimiento de Jesús como Señor y Mesías
-- [[pilato]] — Diálogo sobre la realeza de Jesús
+- [[poncio_pilato]] — Diálogo sobre la realeza de Jesús
 
 ## Contenido
 

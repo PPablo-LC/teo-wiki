@@ -12,7 +12,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-- [[santa_clara_de_asis]] — Fundadora de las Clarisas; destinataria de los fragmentos
+- [[santa_clara_de_asís]] — Fundadora de las Clarisas; destinataria de los fragmentos
 - [[pobreza_de_espíritu]] — Compromiso radical con la pobreza de Cristo
 - [[regla_de_las_clarisas]] — Formula vitae escrita por San Francisco para las Clarisas
 - [[voto_de_pobreza]] — La más santa pobreza como camino de salvación

@@ -14,7 +14,7 @@ tags: ["resumen", "evangelization_and_culture", "teología"]
 
 - [[teología]] — los ocho principios del movimiento Word on Fire
 - [[evangelización]] — la síntesis entre fe y cultura
-- [[Eucaristía]] — la Eucaristía como fuente y cumbre de la vida cristiana
+- [[eucaristía]] — la Eucaristía como fuente y cumbre de la vida cristiana
 
 ## Contenido
 

@@ -21,7 +21,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[penitencia_y_conversión]] — la respuesta al evangelio será penitencia y fe
 - [[fe]] — la fe, respuesta al evangelio
 - [[cruz]] — el evangelio prolonga el misterio de la cruz
-- [[escandalo]] — el evangelio, escándalo y «locura» para unos
+- [[escándalo]] — el evangelio, escándalo y «locura» para unos
 - [[predicar]] — la fuerza salvadora que se propaga por la predicación
 - [[escritura]] — el evangelio como cumplimiento de las Escrituras
 - [[promesas]] — la promesa hecha a Abraham, «preevangelio»
@@ -57,11 +57,11 @@ Jesús resucitado prescribe que «vayan por todo el mundo a proclamar el evangel
 
 #### El mensaje.
 
-La buena nueva es siempre la del reino de Dios *Act 8,12* *14,21s* *19,8* *20,25* *28,23*; anuncia que «se ha cumplido la promesa hecha a nuestros padres» *13,32*. Es gracia de perdón, don del Espíritu *2,38* *3,26* *10,43* *13,38* *17,30*. Pero ahora es ya la «buena nueva de Jesús» *8,35* *17,18*, del [[nombre]] de Jesucristo *8,12*, del [[senor|Señor]] Jesús *11,20*, de la paz por Jesucristo *10,36*. La resurrección de Cristo pasa al centro del evangelio.
+La buena nueva es siempre la del reino de Dios *Act 8,12* *14,21s* *19,8* *20,25* *28,23*; anuncia que «se ha cumplido la promesa hecha a nuestros padres» *13,32*. Es gracia de perdón, don del Espíritu *2,38* *3,26* *10,43* *13,38* *17,30*. Pero ahora es ya la «buena nueva de Jesús» *8,35* *17,18*, del [[nombre]] de Jesucristo *8,12*, del [[señor|Señor]] Jesús *11,20*, de la paz por Jesucristo *10,36*. La resurrección de Cristo pasa al centro del evangelio.
 
 #### La acogida del evangelio.
 
-La buena nueva va acompañada de los «signos» prometidos por Jesús *Mc 16,17* *Act 4,30* *5,12.16* *8,6ss* *19,11s*. Se propaga en una atmósfera de pobreza, sencillez, caridad comunitaria y gozo *Act 2,46* *5,41* *8,8.39*. Encuentra por todas partes [[corazon|corazones]] en armonía con él, «deseosos de oír la [[palabra_de_dios|palabra]] de Dios» *13,7.12*, ávidos de saber qué hay que hacer para salvarse *16,29s*: tienen el rasgo común de «escuchar» *2,22.37* *3,22s*, «acoger» *8,14* *11,1* *17,11*, «obedecer» *6,7*. La suficiencia desdeñosa *13,41* y envidiosa *13,45s*, la ligereza *17,32* cierran el corazón al evangelio.
+La buena nueva va acompañada de los «signos» prometidos por Jesús *Mc 16,17* *Act 4,30* *5,12.16* *8,6ss* *19,11s*. Se propaga en una atmósfera de pobreza, sencillez, caridad comunitaria y gozo *Act 2,46* *5,41* *8,8.39*. Encuentra por todas partes [[corazón|corazones]] en armonía con él, «deseosos de oír la [[palabra_de_dios|palabra]] de Dios» *13,7.12*, ávidos de saber qué hay que hacer para salvarse *16,29s*: tienen el rasgo común de «escuchar» *2,22.37* *3,22s*, «acoger» *8,14* *11,1* *17,11*, «obedecer» *6,7*. La suficiencia desdeñosa *13,41* y envidiosa *13,45s*, la ligereza *17,32* cierran el corazón al evangelio.
 
 ### IV. SAN PABLO
 
@@ -75,7 +75,7 @@ b. *Cumplimiento de las Escrituras*. Pablo subraya la continuidad entre el evang
 
 #### La respuesta humana al evangelio.
 
-El evangelio sólo ejerce su virtud salvadora si el hombre le responde por la [[fe]]: «Es fuerza de Dios para la salvación de todo creyente... En él se revela la justicia de Dios de la fe a la fe» *Rom 1,16s* *1Cor 1,18.20*. Es el punto de una opción. Desplegando en la debilidad su fuerza salvadora y prolongando el misterio de la [[cruz]] *1Cor 1,17-2,5*, para unos es [[escandalo|escándalo]], «locura» *1Cor 1,18.21.23* *Rom 9,32s* *Gal 5,11*, «permanece velado»: cegados por «el dios de este mundo», «no ven resplandecer el evangelio de la gloria de Cristo» *2Cor 4,4*; no le [[obediencia|obedecen]] *2Tes 1,8*. Los otros reciben el evangelio en «la obediencia de la fe» *Rom 1,5* *2Cor 10,5*.
+El evangelio sólo ejerce su virtud salvadora si el hombre le responde por la [[fe]]: «Es fuerza de Dios para la salvación de todo creyente... En él se revela la justicia de Dios de la fe a la fe» *Rom 1,16s* *1Cor 1,18.20*. Es el punto de una opción. Desplegando en la debilidad su fuerza salvadora y prolongando el misterio de la [[cruz]] *1Cor 1,17-2,5*, para unos es [[escándalo|escándalo]], «locura» *1Cor 1,18.21.23* *Rom 9,32s* *Gal 5,11*, «permanece velado»: cegados por «el dios de este mundo», «no ven resplandecer el evangelio de la gloria de Cristo» *2Cor 4,4*; no le [[obediencia|obedecen]] *2Tes 1,8*. Los otros reciben el evangelio en «la obediencia de la fe» *Rom 1,5* *2Cor 10,5*.
 
 ### V. SAN JUAN
 

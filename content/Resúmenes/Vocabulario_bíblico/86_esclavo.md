@@ -19,7 +19,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[pecado]] — pecado y esclavitud van de la mano
 - [[justicia]] — esclavos de Dios y de la justicia
 - [[hombre]] — en el hombre nuevo no existe la vieja antinomia
-- [[discipulo]] — el cristiano que sirve como Cristo
+- [[discípulo]] — el cristiano que sirve como Cristo
 
 ## Contenido
 

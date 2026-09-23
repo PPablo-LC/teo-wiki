@@ -51,7 +51,7 @@ La circuncisión fue preparación y figura del bautismo: era profesión de fe en
 
 ## Ver también
 
-[[abraham]], [[promesas]], [[corazon]], [[pueblo_elegido]], [[naciones]]
+[[abraham]], [[promesas]], [[corazón]], [[pueblo_elegido]], [[naciones]]
 
 ## Referencias
 

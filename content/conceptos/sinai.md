@@ -45,10 +45,10 @@ El VocTeoBib presenta el Sinaí como el lugar de la revelación de la Ley y de l
 
 ## Relaciones doctrinales
 
-Sevincula con la [[ley_mosaica]], la [[alianza]], la [[decalogo]], la [[teofanía]], la [[ley_natural]], la [[montaña]], la [[tormenta]], el [[fuego]] y el [[poder]].
+Sevincula con la [[ley_mosaica]], la [[alianza]], la [[decálogo]], la [[teofanía]], la [[ley_natural]], la [[montaña]], la [[tormenta]], el [[fuego]] y el [[poder]].
 
 ## Ver también
-[[ley_mosaica]], [[alianza]], [[decalogo]], [[teofanía]]
+[[ley_mosaica]], [[alianza]], [[decálogo]], [[teofanía]]
 
 ## Referencias
 - [CEC §2056-2060]

@@ -37,6 +37,15 @@ ODPC dedica a la oración-pregunta su tratamiento más denso (cap. 8, §2.4). La
 
 Contra los dos errores sobre la oración (que altera la mente de Dios; que es inútil), Selman expone la solución tomista: la oración no cambia la providencia — **es parte de la providencia**: «Dios concede algunas cosas que sabe serán pedidas». No informamos a Dios (ya lo sabe): mostramos que verdaderamente queremos, nos disponemos a recibir, despertamos humildad y confianza. Implica la esperanza (mirar a Dios por ayuda) y presupone la fe; incluso sin respuesta aumenta la caridad, porque expresa el deseo. Lo principal que se ha de pedir es la unión con Dios; Dios mismo inspira los deseos que expresamos: «no movemos a Dios con la oración: Él nos mueve a orar»; el Espíritu «intercede» haciéndonos pedir lo que conviene. La oración es *ascensus mentis in Deum* (Damaseno); la intención sostiene el beneficio aunque la mente se distraiga (como la flecha sigue el rumbo dado al salir); para el consuelo se necesita además atención al fin al que se dirige: Dios.
 
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+En DLV la oración-petición se radicaliza en *domanda di essere*:
+
+- **Toda criatura es domanda di essere** — el ser participado se expresa como oración, *domanda* de ser (1Tm 4,4; 1Cor 10,31; 1Ts 5,10); la «morale cristiana» coincide con reconocer que Dios es todo (DLV 04, 77-79).
+- **Toda acción es oración** — `Ogni azione è domanda a Dio di essere, cioè è preghiera`: cada acción del yo busca afirmar su propio cumplimiento (Péguy, *Véronique*: «Voi toccate Dio dappertutto») (DLV 07, 11-13).
+- **Pregare = scongiurare a Quien pertenecemos** — «bisogna pregare nel senso letterale del termine, vale a dire, scongiurare Colui a cui apparteniamo perché non ci abbia chiamati invano» (DLV 19, 7-11).
+- **«¿Prego por muchas cosas, pero qué quiere decir “domanda di essere”?»** — toda oración es, en el fondo, petición de ser (asamblea 1998, DLV 06, 53).
+
 ## Distinciones importantes
 
 - **Petición vs. intercesión**: la petición es por las propias necesidades; la intercesión, por las de otros

@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 - [[martirio]] — tema central: la representación artística del martirio y el coraje de los mártires
 - [[coraje]] — la valentía de los mártires como fruto del amor, no de la fuerza de voluntad
 - [[amor_a_dios]] — la fuente del coraje mártir: una respuesta nacida de relación, no de mera convicción
-- [[dones_del_espiritu_santo]] — el poder del Espíritu Santo como don gratuitamente dado en el momento del martirio
+- [[dones_del_espíritu_santo]] — el poder del Espíritu Santo como don gratuitamente dado en el momento del martirio
 - [[encarnación]] — la preparación para el martirio mediante la inmersión en la vida de Cristo
 
 ## Contenido
@@ -26,7 +26,7 @@ Lee plantea la pregunta: ¿alguna vez pensamos en nuestro propio martirio? Cita 
 
 ### The Courage of the Martyrs
 
-San Pedro de Verona (siglo XIV), que combatía la herejía, fue asesinado a hachazos y, mientras moría, escribió «Creo en Dios» — las primeras palabras del Credo — con su propia sangre en el suelo. Lee relata una conversación con un profesor de teología sobre la preparación para el martirio, y la respuesta fue que ese tipo de coraje no se construye por resilience, entrenamiento o fortaleza mental, sino de amor. Es una respuesta nacida de relación, no de mera convicción. El camino apropiado de preparación es sumergirse profundamente en la vida de Cristo, vivirla y enamorarse de él. El gran *both/and* del catolicismo reconoce que una vida de sacrificio brota naturalmente de quien ama a Cristo, pero no es el sacrificio lo que prepara al mártir: es siempre el amor. El poder del [[dones_del_espiritu_santo]] está disponible para quien conoce bien al Espíritu, y es infinitamente superior a la propia volición — pero no se accede a él por un acto de voluntad: es un don.
+San Pedro de Verona (siglo XIV), que combatía la herejía, fue asesinado a hachazos y, mientras moría, escribió «Creo en Dios» — las primeras palabras del Credo — con su propia sangre en el suelo. Lee relata una conversación con un profesor de teología sobre la preparación para el martirio, y la respuesta fue que ese tipo de coraje no se construye por resilience, entrenamiento o fortaleza mental, sino de amor. Es una respuesta nacida de relación, no de mera convicción. El camino apropiado de preparación es sumergirse profundamente en la vida de Cristo, vivirla y enamorarse de él. El gran *both/and* del catolicismo reconoce que una vida de sacrificio brota naturalmente de quien ama a Cristo, pero no es el sacrificio lo que prepara al mártir: es siempre el amor. El poder del [[dones_del_espíritu_santo]] está disponible para quien conoce bien al Espíritu, y es infinitamente superior a la propia volición — pero no se accede a él por un acto de voluntad: es un don.
 
 ### The Martyrs as Witnesses to Sacrificial Love
 

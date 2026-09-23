@@ -14,7 +14,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 - [[justificación]] — la fórmula paulina de la justificación por la fe
 - [[redención_del_cuerpo]] — la dimensión cósmica y personal
-- [[vida_segun_el_espíritu]] — la pureza realizada en la libertad
+- [[vida_según_el_espíritu]] — la pureza realizada en la libertad
 - [[obras_de_la_carne]] — el significado amplio y metonímico de la «carne»
 - [[metáfora_de_la_carne]] — los «pecados del espíritu» también llamados de la carne
 - [[rectificación_de_la_libertad]] — la libertad no como pretexto para la carne

@@ -14,27 +14,27 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[eleccion]] — el conocimiento como misterio de elección
+- [[elección]] — el conocimiento como misterio de elección
 - [[nombre]] — conocer por el nombre
 - [[temor]] — el temor de Dios
 - [[santo]] — la santidad de Dios reconocida
 - [[pecado]] — el propio pecado reconocido
 - [[castigos]] — el castigo por falta de ciencia
 - [[exilio]] — el anuncio de los castigos
-- [[corazon]] — el corazón perfecto para conocer a Dios
+- [[corazón]] — el corazón perfecto para conocer a Dios
 - [[alianza]] — la nueva alianza como fuente de conocimiento directo
-- [[espiritu]] — el espíritu de Dios en la renovación interior
+- [[espíritu]] — el espíritu de Dios en la renovación interior
 - [[pueblo]] — la resurrección del pueblo de Dios
 - [[naciones]] — Dios conocido por las naciones paganas
-- [[idolos]] — la idolatría sufriendo un choque
-- [[exodo]] — el nuevo éxodo
-- [[sabiduria]] — toda sabiduría viene del Señor
+- [[ídolos]] — la idolatría sufriendo un choque
+- [[éxodo]] — el nuevo éxodo
+- [[sabiduría]] — toda sabiduría viene del Señor
 - [[ley]] — la ley promulgada por Moisés
 - [[padres_y_padre]] — Jesús capaz de revelar al Padre
 - [[reino_de_dios]] — el misterio del reino
 - [[penitencia_y_conversión]] — la llamada a la conversión
-- [[revelacion]] — la revelación progresiva en Juan
-- [[comunion]] — el conocimiento como comunión
+- [[revelación]] — la revelación progresiva en Juan
+- [[comunión]] — el conocimiento como comunión
 - [[cruz]] — la cruz de Cristo predicada
 - [[fe]] — la fe en Cristo crucificado
 - [[poder]] — el poder de la resurrección

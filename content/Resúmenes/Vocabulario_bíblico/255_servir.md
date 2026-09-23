@@ -28,7 +28,7 @@ Servir a Dios es un honor para el pueblo con el que él ha hecho alianza. Pero n
 
 Servir a Dios es primero ofrecerle dones y sacrificios y asumir el cuidado del templo. A este título los sacerdotes y los levitas son «los que sirven a Yahveh» *Num 18* *1Sa 2,11.18* *3,1* *Jer 33,21s*. El [[sacerdocio|sacerdote]] se define, en efecto, como el guardián del santuario, el servidor del dios que lo habita, el intérprete de los oráculos que pronuncia *Jue 17,5s*.
 
-A su vez el fiel que cumple un acto de culto «viene a servir a Yahveh» *2Sa 15,8*. Finalmente, la expresión designa el culto habitual de Dios y viene a ser poco a poco sinónimo de [[adoracion|adorar]] *Jos 24,22*.
+A su vez el fiel que cumple un acto de culto «viene a servir a Yahveh» *2Sa 15,8*. Finalmente, la expresión designa el culto habitual de Dios y viene a ser poco a poco sinónimo de [[adoración|adorar]] *Jos 24,22*.
 
 ### Obediencia.
 
@@ -36,7 +36,7 @@ El servicio que exige Yahveh no se limita a un culto ritual; se extiende a toda 
 
 ## III. SERVIR A DIOS SIRVIENDO A LOS HOMBRES
 
-Jesús utiliza los términos mismos de la ley y de los profetas *Mt 4,10* *9,13* para recordar que el servicio de Dios excluye cualquier otro culto y que en razón del amor que lo inspira debe ser integral. Puntualiza el nombre del rival que puede poner obstáculo a su servicio: el dinero, cuyo servicio hace al hombre injusto *Lc 16,9* y cuyo amor dirá el Apóstol, haciéndose eco del Maestro, que es un culto [[idolos|idolátrico]] *Ef 5,5*. Es preciso escoger: «No se puede servir a dos señores... No podéis servir a Dios y al dinero» *Mt 6,24 p*. Si se ama al uno, se odiará y se despreciará al otro. Por eso la renuncia a las riquezas es necesaria a quien quiera [[seguir|seguir]] a Jesús, que es el [[siervo_de_yahvé|siervo]] de Dios *Mt 19,21*.
+Jesús utiliza los términos mismos de la ley y de los profetas *Mt 4,10* *9,13* para recordar que el servicio de Dios excluye cualquier otro culto y que en razón del amor que lo inspira debe ser integral. Puntualiza el nombre del rival que puede poner obstáculo a su servicio: el dinero, cuyo servicio hace al hombre injusto *Lc 16,9* y cuyo amor dirá el Apóstol, haciéndose eco del Maestro, que es un culto [[ídolos|idolátrico]] *Ef 5,5*. Es preciso escoger: «No se puede servir a dos señores... No podéis servir a Dios y al dinero» *Mt 6,24 p*. Si se ama al uno, se odiará y se despreciará al otro. Por eso la renuncia a las riquezas es necesaria a quien quiera [[seguir|seguir]] a Jesús, que es el [[siervo_de_yahvé|siervo]] de Dios *Mt 19,21*.
 
 ### El servicio de Jesús.
 

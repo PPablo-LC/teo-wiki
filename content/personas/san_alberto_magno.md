@@ -38,6 +38,20 @@ Su síntesis se fundamenta en el [[logos]]: la verdad constituye la misma estruc
 
 [[santo_tomás_de_aquino]], [[fe_y_razón]], [[logos]], [[ciencia_y_fe]], [[providencia]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: Benedicto XVI escribió de él: «entre
+ciencia y fe hay amistad. Y que los hombres de ciencia pueden recorrer,
+a través de su vocación al estudio de la naturaleza, un auténtico y
+fascinante camino de santidad». La *Legenda Coloniensis* relata la
+profecía de la Virgen en su juventud: «cuando un día veas que pierdes la
+memoria durante una lección en público, esta será la señal de que tu
+Juez está a punto de visitarte… Volverás a ser como un niño». Cumplida
+la profecía, «renovó su profesión de fe, pidió perdón por todas las
+eventuales inexactitudes que hubiese dicho o enseñado, y llorando
+humildemente bajó de la cátedra». Murió el 15 de noviembre de 1280 *in
+dulcedine societatis* —en la dulzura de la comunión fraterna—.
+
 ## Referencias
 
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Petrusek, 05_lives.md).

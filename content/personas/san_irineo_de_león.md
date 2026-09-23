@@ -25,7 +25,7 @@ Su obra principal, *Adversus Haereses* (Contra las herejías, c. 180), expone y 
 
 ### Sucesión apostólica y Tradición
 
-Ireneo formuló por primera vez con precisión la doctrina de la [[sucesión_apostólica]]: la verdadera doctrina se conserva en las Iglesias fundadas por los apóstoles y, de modo eminente, en la [[Iglesia_de_Roma]]. Su testimonio sobre el [[canon_bíblico]] y la [[tradición_apóstólica]] es fundamental para la patrística.
+Ireneo formuló por primera vez con precisión la doctrina de la [[sucesión_apostólica]]: la verdadera doctrina se conserva en las Iglesias fundadas por los apóstoles y, de modo eminente, en la [[iglesia_de_roma]]. Su testimonio sobre el [[canon_bíblico]] y la [[tradición_apostólica]] es fundamental para la patrística.
 
 ### Testimonio sobre la autoría de los Evangelios
 

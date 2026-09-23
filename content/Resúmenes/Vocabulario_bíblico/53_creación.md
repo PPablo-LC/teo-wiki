@@ -18,31 +18,31 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mundo]] — la creación del mundo y su renovación
 - [[hombre]] — el hombre creado a imagen de Dios
 - [[nombre]] — el nombre divino, «el que hace ser»
-- [[salvacion]] — la historia de la salvación que continúa la creación
-- [[paraiso]] — el huerto de Edén
+- [[salvación]] — la historia de la salvación que continúa la creación
+- [[paraíso]] — el huerto de Edén
 - [[animales]] — los animales como servidores del hombre
 - [[mujer]] — la mujer compañera sacada del hombre
 - [[obras]] — la obra perfecta del Creador y la sabiduría en sus obras
-- [[maldicion]] — la maldición introducida por el pecado
+- [[maldición]] — la maldición introducida por el pecado
 - [[bien_y_mal]] — el mundo bueno en su origen
 - [[palabra_de_dios]] — la creación por la palabra
 - [[imagen_de_dios]] — el hombre a imagen y semejanza de Dios
 - [[reposo]] — el reposo del séptimo día
 - [[semana]] — el marco temporal de la creación
 - [[trabajo]] — la actividad creadora de Dios, modelo del trabajo humano
-- [[idolos]] — la polémica de los profetas contra los ídolos
-- [[sabiduria]] — la creación con sabiduría
-- [[espiritu]] — la creación por el espíritu de Dios, preludio del Espíritu Santo
+- [[ídolos]] — la polémica de los profetas contra los ídolos
+- [[sabiduría]] — la creación con sabiduría
+- [[espíritu]] — la creación por el espíritu de Dios, preludio del Espíritu Santo
 - [[designio_de_dios]] — el designio de Dios y la historia de la salvación
 - [[poder]] — potencia creadora y dominio de la historia
-- [[eleccion]] — la elección del pueblo de Dios
-- [[exodo]] — la liberación del Éxodo
+- [[elección]] — la elección del pueblo de Dios
+- [[éxodo]] — la liberación del Éxodo
 - [[milagro]] — la serie de los milagros de Dios
 - [[bestia]] — las bestias que personifican el caos
 - [[victoria]] — la creación, primera victoria de Dios
 - [[nuevo]] — la nueva creación
-- [[jerusalen]] — la nueva Jerusalén
-- [[corazon]] — el corazón renovado en la nueva creación
+- [[jerusalén]] — la nueva Jerusalén
+- [[corazón]] — el corazón renovado en la nueva creación
 - [[humildad]] — la humildad del hombre ante el Creador
 - [[presencia_de_dios]] — la presencia divina imposible de esquivar
 - [[piedad]] — la piedad regida por la conciencia de criatura
@@ -54,8 +54,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[vida]] — el Verbo, vida y luz en el universo
 - [[luz]] — el Verbo, luz desde los comienzos
 - [[bautismo]] — el hombre renovado por el bautismo a imagen de su Creador
-- [[redencion]] — creación y redención
-- [[adan]] — el nuevo Adán, cabeza de la humanidad rescatada
+- [[redención]] — creación y redención
+- [[adán]] — el nuevo Adán, cabeza de la humanidad rescatada
 - [[cuerpo]] — la humanidad rescatada, cuerpo de Cristo
 - [[plenitud]] — la plenitud del Espíritu comunicada por Cristo
 

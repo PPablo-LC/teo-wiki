@@ -30,7 +30,7 @@ tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "oracion", "ascetica", 
 - [[vía_purgativa]]
 - [[vía_iluminativa]]
 - [[vía_unitiva]]
-- [[dones_del_Espíritu_Santo]]
+- [[dones_del_espíritu_santo]]
 - [[fe]]
 - [[caridad]]
 

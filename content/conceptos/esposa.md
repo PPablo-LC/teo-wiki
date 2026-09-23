@@ -45,7 +45,7 @@ El VocTeoBib desarrolla la imagen de la esposa en tres planos: el matrimonio com
 
 ## Relaciones doctrinales
 
-Se vincula con el [[matrimonio]], la [[jerusalen]], la [[iglesia_pueblo_de_dios]], la [[alianza]], el [[apocalipsis]], la [[virgen_maría]], la [[fecundidad]] y la [[indisolubilidad]].
+Se vincula con el [[matrimonio]], la [[jerusalén]], la [[iglesia_pueblo_de_dios]], la [[alianza]], el [[apocalipsis]], la [[virgen_maría]], la [[fecundidad]] y la [[indisolubilidad]].
 
 ## Ver también
 [[matrimonio]], [[jerusalén]], [[iglesia_pueblo_de_dios]], [[alianza]]

@@ -99,7 +99,7 @@ El número dedicado al humor diagnostica la soberbia desde su síntoma más visi
 
 ### Según EAC-18 — Word on Fire Institute
 
-Robert Barron señala la [[soberbia]] como el obstáculo radical para la gracia: el orgullo que se repliega sobre sí impide recibir el don, mientras que la conversión exige reconocer la propia indigencia y abrirse a Cristo [EAC-18, 18_spotlight_barron.md]. El [[verdadero_y_falso_yo]] del pecador —la imagen de sí que fabrica para no depender de Dios— es el bastión que la gracia debe derribar para que nazca la vida nueva [EAC-18, 18_spotlight_barron.md].
+Robert Barron señala la **soberbia** como el obstáculo radical para la gracia: el orgullo que se repliega sobre sí impide recibir el don, mientras que la conversión exige reconocer la propia indigencia y abrirse a Cristo [EAC-18, 18_spotlight_barron.md]. El [[verdadero_y_falso_yo]] del pecador —la imagen de sí que fabrica para no depender de Dios— es el bastión que la gracia debe derribar para que nazca la vida nueva [EAC-18, 18_spotlight_barron.md].
 
 Elizabeth Worner conecta la soberbia con la incapacidad de dejarse amar: quien se cree autosuficiente no puede rendirse a la misericordia, mientras que la [[humildad]] del que acepta ser amado es la puerta de la conversión [EAC-18, 04_midnight_oil.md].
 

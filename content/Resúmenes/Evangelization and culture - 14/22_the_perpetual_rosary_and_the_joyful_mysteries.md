@@ -19,7 +19,7 @@ tags: ["resumen", "evangelization and culture - 14"]
 - [[vita_consagrada]] — don de sí mismo a Dios en la vida monástica
 - [[virtudes_teologales]] — fe, esperanza y caridad; virtades infusionadas por Dios para la unión sobrenatural con Él
 - [[alegría]] — experiencia de la presencia de un bien amado en la mente
-- [[magnificat]] — cántico de María en la Visitación (Lc 1:46-55)
+- [[magníficat]] — cántico de María en la Visitación (Lc 1:46-55)
 - [[escuela_de_maría]] — el Rosario como escuela donde María enseña a amar a Jesús
 - [[resurrección]] — victoria de Cristo sobre la muerte
 - [[comunión]] — recepción real del Cuerpo y Sangre de Cristo

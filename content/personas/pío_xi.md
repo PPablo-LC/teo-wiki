@@ -45,7 +45,7 @@ Le tocó gobernar la Iglesia durante el ascenso de los regímenes totalitarios. 
 
 ## Relaciones
 
-[[cristo_rey]], [[matrimonio]], [[educación_cristiana]], [[laicismo]], [[accion_católica]], [[cuadragésimo_anno]], [[casti_connubii]], [[pío_xii]]
+[[cristo_rey]], [[matrimonio]], [[educación_cristiana]], [[laicismo]], [[acción_católica]], [[cuadragésimo_anno]], [[casti_connubii]], [[pío_xii]]
 
 ## Ver también
 

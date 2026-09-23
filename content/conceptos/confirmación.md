@@ -73,9 +73,9 @@ El CIC regula la confirmación en los cánones 879-896. Imprime carácter, enriq
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium enseña en LG §11 que por el sacramento de la [[confirmación]] los fieles «se vinculan más estrechamente a la Iglesia, se enriquecen con una fuerza especial del Espíritu Santo, y con ello quedan obligados más estrictamente a difundir y defender la fe, como verdaderos testigos de Cristo, por la palabra juntamente con las obras» [ConcVatII, LG §11].
+Lumen Gentium enseña en LG §11 que por el sacramento de la **confirmación** los fieles «se vinculan más estrechamente a la Iglesia, se enriquecen con una fuerza especial del Espíritu Santo, y con ello quedan obligados más estrictamente a difundir y defender la fe, como verdaderos testigos de Cristo, por la palabra juntamente con las obras» [ConcVatII, LG §11].
 
-El apostolado de los laicos es participación en la misión salvífica de la Iglesia, apostolado al que todos están destinados por el Señor mismo en virtud del [[bautismo]] y de la [[confirmación]] [ConcVatII, LG §33]. Los Obispos son los ministros originarios de la confirmación [ConcVatII, LG §26].
+El apostolado de los laicos es participación en la misión salvífica de la Iglesia, apostolado al que todos están destinados por el Señor mismo en virtud del [[bautismo]] y de la **confirmación** [ConcVatII, LG §33]. Los Obispos son los ministros originarios de la confirmación [ConcVatII, LG §26].
 
 ### Según el Concilio Vaticano II (ConcVatII)
 

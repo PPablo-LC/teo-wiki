@@ -20,7 +20,7 @@ Jesús instituye el mandamiento del amor como distintivo de sus discípulos: «E
 
 ## Ver también
 
-[[caridad]], [[ley_nueva]], [[jesucristo]], [[doble_mandamiento_del_amor]], [[ágape]]
+[[caridad]], [[ley_nueva]], [[jesucristo]], [[doble_mandamiento_del_amor]], [[agapē]]
 
 ## Referencias
 

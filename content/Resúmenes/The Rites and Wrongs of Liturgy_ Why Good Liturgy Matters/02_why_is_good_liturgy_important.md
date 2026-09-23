@@ -15,9 +15,9 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 - [[liturgia]]
 - [[ritual]]
 - [[discípulo]]
-- [[Iglesia]]
+- [[iglesia]]
 - [[fe]]
-- [[Evangelio]]
+- [[evangelio]]
 - [[misión]]
 
 ## Contenido
@@ -32,13 +32,13 @@ Como criaturas relacionales que comunican, los seres humanos desean realizar est
 
 ### Experiencing Church
 
-La forma más obria en que experimentamos la [[Iglesia]] es en la [[liturgia]]. Cuando las personas optan por identificarse públicamente como cristianos practicantes, suelen elegir la liturgia; cuando se alejan, también es de ella. Es crucial preguntarse: ¿la experiencia fue enriquecedora? ¿Las personas se sintieron bienvenidas y valoradas, o sintieron que era un círculo interno exclusivo? Muchas personas rechazan el [[Evangelio]] porque se han sentido rechazadas por la experiencia de culto. La liturgia debe sintonizarnos con lo real, alertarnos sobre lo que sucede en las profundidades de nuestra vida, vincularnos con la comunidad de fe y abrirnos al misterio. En la sociedad contemporánea, tanto el *creer* como el *pertenecer* son invitaciones, no supuestos. La liturgia debe ayudar a afirmar la decisión de caminar por el [[discípulo|camino]], apoyar en el viaje y hacerlo gozoso. Si la liturgia nos apaga o da una idea confusa de la conversión, se ha vuelto autodestructiva.
+La forma más obria en que experimentamos la [[iglesia]] es en la [[liturgia]]. Cuando las personas optan por identificarse públicamente como cristianos practicantes, suelen elegir la liturgia; cuando se alejan, también es de ella. Es crucial preguntarse: ¿la experiencia fue enriquecedora? ¿Las personas se sintieron bienvenidas y valoradas, o sintieron que era un círculo interno exclusivo? Muchas personas rechazan el [[evangelio]] porque se han sentido rechazadas por la experiencia de culto. La liturgia debe sintonizarnos con lo real, alertarnos sobre lo que sucede en las profundidades de nuestra vida, vincularnos con la comunidad de fe y abrirnos al misterio. En la sociedad contemporánea, tanto el *creer* como el *pertenecer* son invitaciones, no supuestos. La liturgia debe ayudar a afirmar la decisión de caminar por el [[discípulo|camino]], apoyar en el viaje y hacerlo gozoso. Si la liturgia nos apaga o da una idea confusa de la conversión, se ha vuelto autodestructiva.
 
 ### Growing in Faith
 
-La [[fe]] en el [[Evangelio]] y la pertenencia al pueblo de Dios no son estáticas. El crecimiento en la fe y la pertenencia es crecimiento en una relación con Dios que puede volverse más íntima, más exigente y más gratificante, o puede devenir convención o marchitarse. La buena liturgia puede alimentar esta vida de fe, renovarla y profundizarla; por el contrario, la mala liturgia puede estancar el crecimiento y producir ideas erróneas contrarias al [[Evangelio]].
+La [[fe]] en el [[evangelio]] y la pertenencia al pueblo de Dios no son estáticas. El crecimiento en la fe y la pertenencia es crecimiento en una relación con Dios que puede volverse más íntima, más exigente y más gratificante, o puede devenir convención o marchitarse. La buena liturgia puede alimentar esta vida de fe, renovarla y profundizarla; por el contrario, la mala liturgia puede estancar el crecimiento y producir ideas erróneas contrarias al [[evangelio]].
 
-Nuestra comprensión de Dios es de un misterio completamente generoso y amoroso. Muchos antiguos pensaban la divinidad como una fuerza cuya ira podía comprarse con sacrificios fijos. La [[liturgia]] a veces se convirtió en la moneda para pagar a "Dios", y muchas prácticas estancaron el crecimiento más allá de estas visiones falsas. La liturgia es importante: positivamente puede abrir el misterio; negativamente puede reforzar las ideas de las cuales el [[Evangelio]] debería liberarnos. Las malas celebraciones debilitan y destruyen la [[fe]]; las buenas celebraciones la fomentan y alimentan.
+Nuestra comprensión de Dios es de un misterio completamente generoso y amoroso. Muchos antiguos pensaban la divinidad como una fuerza cuya ira podía comprarse con sacrificios fijos. La [[liturgia]] a veces se convirtió en la moneda para pagar a "Dios", y muchas prácticas estancaron el crecimiento más allá de estas visiones falsas. La liturgia es importante: positivamente puede abrir el misterio; negativamente puede reforzar las ideas de las cuales el [[evangelio]] debería liberarnos. Las malas celebraciones debilitan y destruyen la [[fe]]; las buenas celebraciones la fomentan y alimentan.
 
 ## Secciones incluidas
 

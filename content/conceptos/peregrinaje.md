@@ -65,11 +65,11 @@ Juan Pablo II vio el peregrinaje como parte integral de la Nueva Evangelización
 - **[[transcendencia]]**: El peregrinaje es antídoto contra la inmanencia postmoderna.
 - **[[iglesia_doméstica]]**: La familia es la primera escuela del peregrinaje.
 - **[[san_maximiliano_kolbe]]**: Kolbe ofreció su vida en Auschwitz como culmen de su peregrinaje.
-- **[[via_pulchritudinis]]**: El peregrino descubre la belleza como camino hacia Dios.
+- **[[vía_pulchritudinis]]**: El peregrino descubre la belleza como camino hacia Dios.
 
 ## Ver también
 
-[[esperanza]], [[virtudes]], [[transcendencia]], [[iglesia_doméstica]], [[via_pulchritudinis]], [[longanimitas]]
+[[esperanza]], [[virtudes]], [[transcendencia]], [[iglesia_doméstica]], [[vía_pulchritudinis]], [[longanimitas]]
 
 ## Referencias
 

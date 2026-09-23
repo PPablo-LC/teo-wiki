@@ -15,8 +15,8 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[maría]] — modelo de mujer «artesana de la casa» y del trabajo doméstico
 - [[familia]] — relación entre mujer, familia y trabajo
 - [[trabajo]] — revalorización social de las funciones maternas
-- [[Laborem_exercens]] — Encíclica sobre el trabajo humano (n. 19)
-- [[Sagrada_Familia]] — María, José y el niño Jesús como ejemplo de armonía familiar
+- [[laborem_exercens]] — Encíclica sobre el trabajo humano (n. 19)
+- [[sagrada_familia]] — María, José y el niño Jesús como ejemplo de armonía familiar
 
 ## Contenido
 

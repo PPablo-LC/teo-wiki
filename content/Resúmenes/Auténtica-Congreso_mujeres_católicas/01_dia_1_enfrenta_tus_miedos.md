@@ -13,7 +13,7 @@ tags: ["resumen", "espiritualidad", "mujer", "psicología", "biblia"]
 ## Conceptos básicos referenciados en este capítulo
 
 - [[oración]] —arma de conexión con Dios al inicio del evento
-- [[Espíritu_Santo]] — guía y sanador en el proceso de autoconocimiento
+- [[espíritu_santo]] — guía y sanador en el proceso de autoconocimiento
 - [[imagen_de_dios]] — fundamento de la dignidad femenina
 - [[dignidad_de_la_mujer]] — valor intrínseco como creación de Dios
 - [[fortaleza]] —virtud necesaria para enfrentar miedos
@@ -22,7 +22,7 @@ tags: ["resumen", "espiritualidad", "mujer", "psicología", "biblia"]
 - [[vocación]] — llamado personal de Dios para cada mujer
 - [[providencia_divina]] — Dios actúa en la historia personal
 - [[discernimiento]] — capacidad de distinguir la voluntad de Dios
-- [[Teología_del_Cuerpo]] — enseñanza de Juan Pablo II sobre el cuerpo y la sexualidad
+- [[teologia_del_cuerpo]] — enseñanza de Juan Pablo II sobre el cuerpo y la sexualidad
 - [[autoconocimiento]] — conocimiento profundo de uno mismo para crecer
 - [[miedo]] — obstáculo principal a superar
 - [[identidad_cristiana]] — quién soy en Cristo
@@ -83,7 +83,7 @@ Tabla para identificar patrones:
 La verdadera identidad se fundamenta en ser hija amada de Dios ([[filiación_divina]]), con dignidad ontológica que no depende de logros externos.
 
 ### Espíritu Santo como sanador
-El [[Espíritu_Santo]] puede sanar las heridas profundas que generan los miedos. La oración de sanación permite aceptar, respirar y ofrecer las dificultades a Dios.
+El [[espíritu_santo]] puede sanar las heridas profundas que generan los miedos. La oración de sanación permite aceptar, respirar y ofrecer las dificultades a Dios.
 
 ## Conferencia 2: Karen — Discierne en la Sagrada Escritura
 

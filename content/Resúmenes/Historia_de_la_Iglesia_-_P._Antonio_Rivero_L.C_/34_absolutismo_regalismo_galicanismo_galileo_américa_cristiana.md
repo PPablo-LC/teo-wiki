@@ -19,7 +19,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 - [[jansenismo]] — herejía sobre la gracia y la predestinación
 - [[quietismo]] — herejía de Miguel de Molinos sobre el abandono pasivo
 - [[sagrado_corazón_de_jesús]] — devoción impulsada por santa Margarita María de Alacoque
-- [[san_rosa_de_lima]] — santa terciaria dominica del siglo XVII
+- [[santa_rosa_de_lima]] — santa terciaria dominica del siglo XVII
 - [[san_pedro_claver]] — jesuita apóstol de los esclavos en Cartagena
 - [[san_francisco_de_sales]] — obispo y doctor de la Iglesia, autor de la Introducción a la vida devota
 - [[san_vicente_de_paúl]] — fundador de congregaciones caritativas

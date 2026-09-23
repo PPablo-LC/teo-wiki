@@ -13,7 +13,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 ## Conceptos básicos referenciados
 
 - [[delegado_pontificio]] — delegado personal del Papa para la Congregación de los Legionarios de Cristo
-- [[visita_apostolica]] — proceso de inspección y acompañamiento por parte de la Santa Sede
+- [[visita_apostólica]] — proceso de inspección y acompañamiento por parte de la Santa Sede
 - [[capítulo_general]] — capítulo convocado para la revisión de las Constituciones
 - [[renovacion_de_la_legion]] — camino de purificación y renovación de la Congregación
 - [[vida_consagrada]] — estado eclesial de quienes profesan los consejos evangélicos

@@ -45,11 +45,11 @@ En *Jesús de Nazaret III*, Benedicto XVI analiza la Matanza de los Inocentes en
 
 ## Relaciones doctrinales
 
-Se relaciona con [[herodes_el_grande]] (el responsable de la matanza), [[belen]] (lugar de la matanza), [[misterio_pascual]] (la muerte de los inocentes preanuncia la cruz de Jesús), [[martirio]] (los niños son los primeros mártires), [[cruz]] (la cruz es la respuesta definitiva al lamento de Raquel).
+Se relaciona con [[herodes_el_grande]] (el responsable de la matanza), [[belén]] (lugar de la matanza), [[misterio_pascual]] (la muerte de los inocentes preanuncia la cruz de Jesús), [[martirio]] (los niños son los primeros mártires), [[cruz]] (la cruz es la respuesta definitiva al lamento de Raquel).
 
 ## Ver también
 
-[[herodes_el_grande]], [[belen]], [[misterio_pascual]], [[martirio]], [[cruz]], [[adoracion_de_los_magos]]
+[[herodes_el_grande]], [[belén]], [[misterio_pascual]], [[martirio]], [[cruz]], [[adoracion_de_los_magos]]
 
 ## Referencias
 

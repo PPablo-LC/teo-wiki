@@ -37,6 +37,19 @@ Aparece en el Índice Onomástico con más de 100 referencias. Es la autoridad e
 ## Ver también
 [[san_juan_de_la_cruz]], [[san_francisco_de_sales]], [[san_agustín]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. III: Teresa «encarnó la imagen de la
+Iglesia, esposa enamorada y operativa, que construye infatigablemente
+tantas moradas para Jesús Eucaristía», y puso a la experiencia
+contemplativa una finalidad apostólica: «Dios no pretende nunca mimar a
+las almas, sino **darlas al mundo**, como ha hecho con su mismo Hijo
+Jesús». En 1582, en Alba de Tormes, al ver entrar al Señor en el viático,
+se levantó sin ayuda de nadie, diciendo: «¡Oh, Señor mío, y Esposo mío,
+ha llegado la hora que tanto he deseado!». Murió apretando el crucifijo
+con tanta fuerza que no consiguieron quitárselo. El arbolito seco ante
+su ventana floreció al alba al día siguiente.
+
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.18]
 - [TPCr, Introducción General n.28]

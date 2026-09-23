@@ -16,8 +16,8 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 - [[obediencia]] — fundamento de la vida religiosa legionaria
 - [[caridad]] — la virtud de la unidad con Dios y los hombres
 - [[constituciones]] — norma suprema de vida del legionario
-- [[direccion_espiritual]] — medio para el fervor y la perseverancia
-- [[espiritu_santo]] — el guía de la Iglesia y de la Legión
+- [[dirección_espiritual]] — medio para el fervor y la perseverancia
+- [[espíritu_santo]] — el guía de la Iglesia y de la Legión
 
 
 ## Contenido

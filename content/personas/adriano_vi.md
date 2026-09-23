@@ -34,7 +34,7 @@ Adriano VI reconoció la necesidad de reforma en la Iglesia y trabajó para conv
 
 ## Ver también
 
-[[concilio_de_trento]], [[león_x]]
+[[concilio_de_trento]], [[leon_x]]
 
 ## Referencias
 

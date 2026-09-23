@@ -182,7 +182,7 @@ La humildad se manifiesta en la obediencia, el silencio y la renuncia a la propi
 
 ### Según EAC-18 — Word on Fire Institute
 
-Robert Barron presenta la [[humildad]] como la condición de la conversión: solo el alma que reconoce sus límites y su pecado puede acoger la [[gracia_divina]] que precede a toda obra buena. El orgullo del [[verdadero_y_falso_yo]] cierra el paso a Cristo, mientras que el humilde —como la samaritana del pozo o el publicano del Evangelio— se abre al don [EAC-18, 18_spotlight_barron.md].
+Robert Barron presenta la **humildad** como la condición de la conversión: solo el alma que reconoce sus límites y su pecado puede acoger la [[gracia_divina]] que precede a toda obra buena. El orgullo del [[verdadero_y_falso_yo]] cierra el paso a Cristo, mientras que el humilde —como la samaritana del pozo o el publicano del Evangelio— se abre al don [EAC-18, 18_spotlight_barron.md].
 
 Elizabeth Worner subraya la humildad como rendición al amor: sorprende comprobar que Dios obra con los pequeños y con los que no confían en sí mismos, mientras que la autosuficiencia impide dejarse llevar [EAC-18, 04_midnight_oil.md].
 

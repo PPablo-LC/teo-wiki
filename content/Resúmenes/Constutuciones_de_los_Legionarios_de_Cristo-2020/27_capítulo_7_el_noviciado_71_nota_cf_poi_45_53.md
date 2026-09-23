@@ -19,7 +19,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 - [[formación_cristocéntrica]]
 - [[consejos_evangélicos]]
 - [[profesión_religiosa]]
-- [[Regnum_Christi]]
+- [[regnum_christi]]
 - [[vida_religiosa]]
 
 ## Contenido

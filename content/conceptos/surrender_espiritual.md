@@ -37,11 +37,11 @@ Royo Marin trata el abandono en la divina Providencia como una disposicion esenc
 
 ## Relaciones doctrinales
 
-Se relaciona con [[abandono_en_la_Divina_Providencia]], [[confianza]], [[esperanza]], [[filiación_divina]], [[voluntad_de_Dios]], [[humildad]], [[santa_indiferencia]], [[oración_de_abandono]]
+Se relaciona con [[abandono_en_la_divina_providencia]], [[confianza]], [[esperanza]], [[filiación_divina]], [[voluntad_de_dios]], [[humildad]], [[santa_indiferencia]], [[oración_de_abandono]]
 
 ## Ver también
 
-[[abandono_en_la_Divina_Providencia]], [[confianza]], [[esperanza]], [[filiación_divina]], [[voluntad_de_Dios]], [[santa_indiferencia]]
+[[abandono_en_la_divina_providencia]], [[confianza]], [[esperanza]], [[filiación_divina]], [[voluntad_de_dios]], [[santa_indiferencia]]
 
 ## Referencias
 

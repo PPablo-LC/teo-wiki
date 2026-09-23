@@ -12,11 +12,11 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[Asunción_de_María]] — solemnidad litúrgica celebrada por la Iglesia el 15 de agosto
+- [[asunción_de_maría]] — solemnidad litúrgica celebrada por la Iglesia el 15 de agosto
 - [[maría]] — «figura y primicia de la Iglesia», Reina de la Paz
 - [[dignidad_de_la_mujer]] — afirmación auténtica al dirigir la mirada a María
 - [[vida_humana]] — defensa de la vida como contribución indispensable de la mujer
-- [[Lumen_gentium]] — María como «señal de esperanza cierta y de consuelo» (n. 68)
+- [[lumen_gentium]] — María como «señal de esperanza cierta y de consuelo» (n. 68)
 - [[promoción_humana]] — contribución de la mujer en todos los campos
 
 ## Contenido
@@ -27,7 +27,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 Hoy la Iglesia celebra a María Santísima elevada al Cielo. «Maravillas» (Lc 1, 49) hizo el Señor, preservando de la corrupción de la muerte a quien ofreció al mundo el Dador de la vida. El Concilio Vaticano II la invoca como «señal de esperanza cierta y de consuelo» (*Lumen gentium*, 68).
 
-María resplandece como «figura y primicia de la Iglesia», habiéndose realizado ya en su persona, en virtud del misterio pascual de Cristo, ese destino de salvación al que Dios llama a toda criatura humana. A María, «mujer vestida de sol» (Apc 12, 1), el pueblo de los creyentes dirige su mirada como a estrella luminosa. Su [[Asunción_de_María]] al Cielo no es sólo el coronamiento de su vocación de Madre y discípula del Señor, sino también el signo elocuente de la fidelidad de Dios al plan salvífico universal.
+María resplandece como «figura y primicia de la Iglesia», habiéndose realizado ya en su persona, en virtud del misterio pascual de Cristo, ese destino de salvación al que Dios llama a toda criatura humana. A María, «mujer vestida de sol» (Apc 12, 1), el pueblo de los creyentes dirige su mirada como a estrella luminosa. Su [[asunción_de_maría]] al Cielo no es sólo el coronamiento de su vocación de Madre y discípula del Señor, sino también el signo elocuente de la fidelidad de Dios al plan salvífico universal.
 
 En María, virgen y madre, encuentra expresión plena la femineidad, puesto que las cualidades personales que distinguen a la mujer con respecto al hombre pudieron manifestarse en Ella en todo su esplendor. Toda mujer puede descubrir la afirmación auténtica de su propia dignidad dirigiendo su mirada a Ella.
 

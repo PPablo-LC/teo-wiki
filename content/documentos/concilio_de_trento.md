@@ -62,7 +62,7 @@ El Concilio de Trento constituye la definición dogmática más completa de la I
 
 ## Relaciones
 
-[[concilio_de_trento]], [[concilio_vaticano_i]], [[concilio_vaticano_ii]]
+**concilio de trento**, [[concilio_vaticano_i]], [[concilio_vaticano_ii]]
 
 ## Referencias
 

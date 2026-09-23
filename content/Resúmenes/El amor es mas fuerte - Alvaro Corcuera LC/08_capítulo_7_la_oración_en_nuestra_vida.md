@@ -12,75 +12,42 @@ tags: ["resumen", "el amor es mas fuerte - alvaro corcuera lc"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+[[oración]], [[padrenuestro]], [[virtudes_teologales]], [[fe]], [[esperanza]], [[caridad]], [[gratitud]], [[humildad]], [[confianza]], [[eucaristía]], [[confesión]], [[silencio]], [[maría]], [[juan_pablo_ii]], [[benedicto_xvi]], [[misericordia_de_dios]], [[sentido_de_eternidad]], [[alvaro_corcuera]], [[espiritualidad_legionaria]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_capítulo_7_la_oraci_n_en_nuestra_vida.md`
+### 1. Respuesta al amor
 
+Para el que ama, todo contribuye al bien (Rm 8, 28); cuando hay oración, la vida se llena de esperanza, porque Dios todo lo lleva hacia un bien mayor, incluso las penas, las caídas y los fracasos. «La oración no es un recurso de emergencia, sino una respuesta de amor a Dios que es amor»: es hablar con quien sabemos que nos ama y, sobre todo, escucha del dulce huésped del alma. El que ora adelanta el cielo, porque el cielo es estar con Dios; la pregunta del juicio final será sobre el amor: «¿amaste?». «Si alguno dice: "Amo a Dios", y aborrece a su hermano, es un mentiroso» (1 Jn 4, 20). A mayor oración, mayor amor; a mayor amor, mayor santidad y menor temor. Hay que poner a Cristo en el centro: la oración no es para mirarnos a nosotros mismos ni para «sentirnos bien», sino para ver nuestra vida desde la mirada amorosa de Cristo. «La corona de la oración son nuestras obras»: el fruto más hermoso de la oración es la caridad, la decisión de vivir para cumplir la voluntad de Dios. Como en Getsemaní, la oración es un acto de entrega: «no se haga mi voluntad, sino la tuya» (Lc 22, 42). Sólo si Dios se inclina hacia nosotros, como un Padre a su hijo, podemos orar; por eso pedimos con los apóstoles: «¡enséñanos a orar!». Que nuestra oración auténtica sea hacer, por amor, su voluntad.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### 2. Necesitamos de la oración a ejemplo de Cristo
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo 7. La oración en nuestra vida |
-| 5 | H3 | 1. Respuesta al amor |
-| 19 | H3 | 2. Necesitamos de la oración a ejemplo de Cristo |
-| 35 | H3 | 3. Invitación personal de Cristo a estar e identificarnos con Él |
-| 53 | H3 | 4. Oportunidad para agradecer, pedir perdón y suplicar |
-| 71 | H3 | 5. La oración que Cristo nos enseñó |
-| 121 | H3 | 6. Oración y virtudes teologales |
-| 135 | H3 | 7. El cultivo de la gratitud, humildad y confianza |
-| 153 | H3 | 8. María, maestra de oración |
-| 159 | H3 | 9. El ejemplo de Juan Pablo II |
+La alegoría de la vid y los sarmientos (Jn 15, 4-5) enseña que «separados de mí no podéis hacer nada»: la vida de oración debe ser una actitud interior permanente que permea cada instante, orar sin intermisión, estar siempre con el Amigo fiel. En ese diálogo amoroso y de corazón a corazón, Cristo va realizando la transformación de nuestras almas. «El contacto con Dios a través de la oración es fuente de certezas y convicciones…» (MMRC 106); su primer fruto es la escucha y la acogida serena de la voluntad de Dios. Hay que estar atentos a la voz del Espíritu Santo, «dulce huésped de nuestra alma»: nadie puede decir «Jesús es Señor» sino con el Espíritu Santo (1 Co 12, 3). El silencio que aprendemos del Evangelio no es desprecio ni repliegue, sino apertura: «un silencio que escucha para poder dar», que tiene su expresión más plena en la oración. Cristo se retiraba a orar y pasaba horas en oración; san Pablo nos dice que debemos rezar siempre, sin intermisión (1 Ts 5, 17). El que ora tiene presente las verdades fundamentales de su existencia —de dónde viene, a dónde va— y ve todo con la perspectiva de la eternidad; «en todas las cosas interviene Dios para bien de los que le aman» (Rm 8, 28). Orar no es pensar, es amar: no nos entregamos a una persona porque la entendemos, sino porque la amamos. Dios toma la iniciativa: «no en que nosotros hayamos amado a Dios, sino en que Él nos amó primero» (1 Jn 4, 10). «¡Necesitamos orar! Orar es nuestro mejor respiro y es el latir de nuestro corazón»; podemos elevar el corazón a Dios en las situaciones más ordinarias —en el campo, en el tráfico, en el trabajo—, porque la oración no se limita a actos sino que se prolonga durante toda la jornada, como el estar juntos en familia.
 
+### 3. Invitación personal de Cristo a estar e identificarnos con Él
 
-## Secciones incluidas
+Al iniciar el diálogo con Jesús, lo primero es pedir la gracia de entender la oración como una invitación que Él nos hace a estar con Él: la oración es vivida como una verdadera invitación a estar con Cristo; es Él quien toma la iniciativa y me invita. Por eso se dedica un momento a ponerse en la presencia de Dios y brota un diálogo sincero: «Señor, acepto con todo mi corazón tu invitación a colocar mi mente, mi corazón, mi vida en tus manos». La Imitación de Cristo: «Dios protege al humilde y lo salva, lo ama y lo consuela; se inclina, por decirlo así, al hombre humilde». De esta apertura nacen, casi espontáneamente, las actitudes fundamentales de fe, esperanza y caridad: «La oración supone el ejercicio de las virtudes teologales… son fuente de su vida interior y apostólica» (MMRC 111). Una fe que se entrega no a unas ideas sino a la persona amada de Jesús, el amigo de mi alma, y que nos hace caminar siempre hacia adelante. La oración lleva a asemejarnos a Cristo y debe ser para nosotros una necesidad vital. La oración cristiana es un encuentro con Cristo que nos transforma: «La oración es el encuentro de la sed de Dios con la sed del hombre» (san Agustín). Dios nos da un corazón nuevo, capaz de amar, de perdonar y de entregarse, nos hace conocer y asumir sus sentimientos (Flp 2, 5). Esta transformación es fruto de nuestra apertura a la gracia, en la oración y en los sacramentos; hasta poder decir como san Pablo: «No soy yo el que vive, es Cristo quien vive en mí» (Ga 2, 20). Cuando oramos crece nuestro entusiasmo por la misión: «un tesoro que no podemos guardar para nosotros mismos».
 
-## 1. Respuesta al amor
+### 4. Oportunidad para agradecer, pedir perdón y suplicar
 
-[Contenido de esta sección...]
+Tres actitudes de la oración. Primera, la gratitud: «Señor, gracias»; agradecer por la familia, el don de la vida y de la fe, los talentos, los formadores, e incluso las pruebas y los dolores: «si cultivamos esta actitud de acción de gracias, percibiremos la mano bondadosa de Dios Padre en todos los acontecimientos». Segunda, el perdón: pedirlo con humildad no sólo por nuestras faltas sino por nuestras omisiones, por todo aquello que haya podido lastimar a Dios, también en el hermano; es un perdón que no entristece sino que hace confiar más y amar más. De esta oración brota la imitación de Cristo: reinamos con Él desde la humildad y la bondad; su corona fueron el perdón, la misericordia y la grandeza del alma. Tercera, la súplica: a Dios le agrada que le pidamos —«pedid lo que queráis y lo conseguiréis» (Jn 15, 7)—, incluso aquello que no nos atrevemos a pedir (colecta del XXVII domingo del tiempo ordinario); lo único que Él desea es nuestra felicidad. Del celo apostólico auténtico —no crecer por crecer ni medirse por lo cuantitativo— brota comunicar el amor de Dios «por medio de la oración, palabra, ejemplo y obras»; «el que ora nunca puede salir igual». La verdadera oración hace emerger una certeza de fe: Dios ha escogido la cruz como medio de Redención y nos asocia a esa dinámica. El padrenuestro es el modelo para presentar nuestras peticiones, con pureza de intención y confianza. «Sin duda que la mejor ayuda que podemos ofrecer a una persona es rezar por ella»; la mejor contribución del cristiano a la paz es la oración (Benedicto XVI, en la preparación del encuentro de Asís). El que ora aprende a mirar el mal con el corazón redentor de Cristo, que no vino a juzgar ni condenar sino a salvar.
 
-## 2. Necesitamos de la oración a ejemplo de Cristo
+### 5. La oración que Cristo nos enseñó
 
-[Contenido de esta sección...]
+Meditación del padrenuestro, versículo a versículo. **Padre Nuestro**: la oración de Jesús está en plural; todos somos creados a imagen y semejanza de Dios, cuya imagen es el amor. Somos una familia, un solo cuerpo: «mirad cómo se aman». **Que estás en los cielos**: el cielo como patria; el sentido apostólico es transmitir este amor y este anhelo por la eternidad, caminando hacia el cielo con esperanza y seguridad. **Santificado sea tu nombre**: reconocer que todo lo hemos recibido —«Señor, que Tú seas todo para mí»—; esto nos libra de la esclavitud de ser nosotros los importantes; nuestra vocación es la santidad: «sed santos como vuestro Padre celestial es santo». **Venga tu Reino**: es nuestro lema y nuestra vocación; reino de la humildad —Dios se revela manso y humilde, y su paz libera de la esclavitud del orgullo— y reino de la caridad —no dar lo que tengo sino darme a mí mismo—. Corcuera narra su experiencia de la operación y la caridad recibida: «el vivir las obras de misericordia con todo el corazón». «¡El amor es más fuerte!», como decía Juan Pablo II: «el amor es más fuerte que el temor y que la muerte». **Hágase tu voluntad en la tierra como en el cielo**: «tu voluntad es mi delicia» (Sal 118); la voluntad de Dios es nuestra felicidad; lo rezamos como familia, estimando en más cada uno a los otros (Rm 12, 9-10). **Danos hoy nuestro pan de cada día**: Jesucristo asocia el pan a la voluntad del Padre; el verdadero alimento es la Eucaristía. En la terapia intensiva, el anhelo de recibir a Cristo; «en la Eucaristía, todo es posible». También se pide por los pobres y necesitados; «la caridad es la forma como todos los hombres más nos unimos». **Perdona nuestras ofensas como también nosotros perdonamos a los que nos ofenden**: el pecado es la tristeza profunda del hombre; pedir perdón y perdonar nos libera; en la confesión, el abrazo de Dios —«más que exponer nuestras faltas, es un encuentro íntimo con Jesucristo, que verdaderamente me sana»—. El perdón nos hace más compasivos y nos libra del rencor; de él brota la caridad. Anécdota de la enfermera de las radiaciones: «caridad auténtica: darse sin otra recompensa que el alivio del corazón del otro». **No nos dejes caer en la tentación y líbranos del mal**: reconocer nuestra fragilidad; la tentación es oportunidad para volver a Él y renovar el amor. San Agustín: Jesús fue tentado para que sepamos que no estamos solos en la tentación. «Llevamos un tesoro en vasijas frágiles»: las pruebas son las manos del Alfarero que moldean nuestra vida; debemos tener la certeza de que el Amor es mucho más fuerte y nos librará del mal.
 
-## 3. Invitación personal de Cristo a estar e identificarnos con Él
+### 6. Oración y virtudes teologales
 
-[Contenido de esta sección...]
+En nosotros late el deseo de vivir más cerca de Dios; la respuesta no está en un método. Benedicto XVI, hablando con sacerdotes y seminaristas: «Una prioridad fundamental de la vida sacerdotal es estar con el Señor y, por tanto, dedicar tiempo a la oración» —«cada día una hora de tiempo para estar en silencio para el Señor y con el Señor»—; y la gente lo aprecia cuando el sacerdote ora por los demás. Las Constituciones y Estatutos invitan a vivir los actos de piedad sabiendo que la «propia perfección y fecundidad apostólica dependen principalmente de la unión con Dios» (CLC 318; ERRC 69). Las virtudes teologales —fe, esperanza y caridad— no pueden ser conceptos abstractos, sino «fuente de nuestra vida interior y apostólica» (CLC 230; ERRC 49); son la roca sobre la cual edificar la santidad y la consagración, la que nos hace pensar, hablar y actuar desde el corazón de Cristo. La Eucaristía es el medio privilegiado para alimentar la vida teologal: vivir cerca del sagrario, rezar ante la Eucaristía la liturgia de las horas, acudir al sagrario durante la jornada. Junto a ella, la Sagrada Escritura es «fuente de continua meditación y diálogo con Cristo»: de una atenta mirada al Evangelio brotan puntos esenciales de nuestra espiritualidad —Encarnación, Getsemaní, la vid y los sarmientos.
 
-## 4. Oportunidad para agradecer, pedir perdón y suplicar
+### 7. El cultivo de la gratitud, humildad y confianza
 
-[Contenido de esta sección...]
+Momento de gratitud por el don de las ordenaciones, por la maternidad de la Iglesia, por el don de la Legión y del Regnum Christi; y de pedir el don de no acostumbrarnos a los regalos de Dios: «El día en que nuestro corazón deja de agradecer, es el día en que nuestro corazón ha empezado a envejecer». La gratitud rejuvenece el corazón y nos hace querer darlo todo. Es el mejor camino para la humildad, «puerta de todas las demás virtudes». Corcuera narra la anécdota de la viejecita de la Basílica de San Pablo Extramuros que, con dos bolsas de plástico, regaló estolas, casullas y vinajeras a los nuevos sacerdotes: «estaba limosneando el dar lo que tenía». Agradecemos dando lo que somos y lo que tenemos; el desprendimiento —también de nuestros proyectos e ilusiones, al vernos «como sin nada»— es la verdadera libertad interior que Dios nos da. **Humildad y confianza**: la humildad es la puerta para entrar en la presencia de Dios; nos libra del amor propio, principal obstáculo para contemplar a Dios. La humildad pone nuestra confianza en Dios: «Dirigirse al Señor en la oración implica siempre un acto de confianza… Él nos guía, está siempre cerca y no nos faltará nada» (Benedicto XVI, audiencia del 5 de octubre de 2011). Humildad y confianza son «las llaves que nos permiten entrar en ese dinamismo de contacto transformante con el corazón de Jesús que es la oración». La humildad es la verdad con la que nos vemos a nosotros mismos, la visión auténtica que es fruto de la oración; esta sinceridad no lleva al desaliento sino a la confianza. Cuando la oración es humilde, es también agradecida: «Te doy gracias, Padre, porque Tú siempre me escuchas» (Jn 11, 41). Para el alma agradecida no pasan desapercibidos los dones de Dios; la gratitud abre a la esperanza: «Ámalo y se te acercará: ámalo y habitará en ti» (san Agustín).
 
-## 5. La oración que Cristo nos enseñó
+### 8. María, maestra de oración
 
-[Contenido de esta sección...]
+«María es la más grande maestra de oración de la historia». Quien quiera aprender a orar es necesario que se haga como niño en manos de María; seguramente fue ella quien enseñó a Jesús, en los años ocultos de Nazaret, sus primeras oraciones. Con Benedicto XVI (santuario de Nuestra Señora de Pompeya): «es necesario ante todo dejarse conducir de la mano por la Virgen María para contemplar el rostro de Cristo: rostro gozoso, luminoso, doloroso y glorioso. Quien, como María y juntamente con ella, conserva y medita asiduamente los misterios de Jesús, asimila cada vez más sus sentimientos y se configura con él». Pidamos a María la gracia de no dejar de impresionarnos ante la bondad de Dios. «Sin oración nuestra alma va muriendo y nuestra tierra se torna árida y sin frutos. Con la oración, la tierra da frutos para la vida eterna. Con Ella estamos seguros de que no tenemos nada que temer». Valen las palabras de la Virgen de Guadalupe: «¿No estoy yo aquí, que soy tu Madre?».
 
-## 6. Oración y virtudes teologales
+### 9. El ejemplo de Juan Pablo II
 
-[Contenido de esta sección...]
-
-## 7. El cultivo de la gratitud, humildad y confianza
-
-[Contenido de esta sección...]
-
-## 8. María, maestra de oración
-
-[Contenido de esta sección...]
-
-## 9. El ejemplo de Juan Pablo II
-
-[Contenido de esta sección...]
+El testimonio de Juan Pablo II lleva a imitar el ejemplo de Jesucristo. Era un hombre de oración y de silencio: en su primera carta a los sacerdotes (1979) decía que la esencia del sacerdote es su oración —«el hombre consagrado es lo que es su oración»—. Hay que dar a la oración toda la prioridad y vivir el silencio interior como escucha constante para dejar espacio a la acción de Dios. Sólo en la oración podemos renovar constantemente nuestra consagración y librarnos del activismo y del espíritu del mundo. Vivía la Eucaristía como centro de su vida: se preparaba para la misa con la oración, pensaba y decidía ante el Sagrario; «cuando oramos, Él mismo se refleja en nosotros, aun sin que lo percibamos». Rezaba el rosario meditando los misterios de Cristo a través de los ojos de María; de ahí brotaba su gran humildad: en la adversidad crecía más, viviendo «¡No tengáis miedo!». Anécdota del sacerdote preocupado por las frases de un discurso que serían signo de contradicción: el Papa le dijo que no debía preocuparse, con esa libertad de espíritu para hablar con la verdad y con la caridad. «Fue la fuerza de la oración. Sin ver, creyó». Así debe ser nuestra fe: aunque no sepamos cómo saldrán las cosas, estamos seguros de que Dios las llevará a término para un bien mayor. Otro medio de santificación recomendado es la confesión, «encuentro personal y renovador con Cristo»: Corcuera evoca al confesor del Papa que iba cada semana a verle en el Vaticano.

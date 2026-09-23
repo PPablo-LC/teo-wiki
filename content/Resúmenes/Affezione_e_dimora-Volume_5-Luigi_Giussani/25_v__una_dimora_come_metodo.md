@@ -12,7 +12,7 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ## Conceptos básicos referenciados
 
-- [[dimora]] — morada como método concreto con que Dios se hace presente en la vida del creyente
+- [[affezione_e_dimora]] — morada como método concreto con que Dios se hace presente en la vida del creyente
 - [[templo]] — el templo como intersección entre tiempo y espacio donde el Mistero se hace presencia
 
 ## Contenido

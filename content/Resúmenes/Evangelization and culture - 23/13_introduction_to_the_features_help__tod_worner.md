@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization and culture - 23"]
 
 ## Conceptos básicos referenciados
 
-[[oración]], [[fe]], [[santa_escritura]], [[padre_nuestro]], [[ave_maría]], [[petición]], [[confesión]]
+[[oración]], [[fe]], [[escritura]], [[padre_nuestro]], [[ave_maría]], [[oración_de_petición]], [[confesión]]
 
 ## Contenido
 

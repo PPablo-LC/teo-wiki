@@ -52,7 +52,7 @@ Los resúmenes estructurados están en `wiki/Resúmenes/Catequesis sobre el matr
 
 ## Ver también
 
-[[teología_del_cuerpo]], [[matrimonio]], [[castidad]], [[pureza_de_corazón]], [[sermón_de_la_montaña]], [[san_pablo]], [[génesis]], [[donación_mutua]], [[significado_esponsal_del_cuerpo]], [[sacramentalidad_del_matrimonio]]
+[[teología_del_cuerpo]], [[matrimonio]], [[castidad]], [[pureza_de_corazón]], [[sermón_de_la_montaña]], [[san_pablo]], [[génesis]], [[donacion_mutua]], [[significado_esponsal_del_cuerpo]], [[sacramentalidad_del_matrimonio]]
 
 ## Referencias
 

@@ -65,7 +65,7 @@ Sacerdotes desnudos cubiertos de cenizas de cremaciones y estiércol de vaca, co
 
 Tomas aéreas y terrestres de 20 millones de hindúes reunidos en procesión (probablemente el Kumbh Mela), confirmando la magnitud del fenómeno religioso.
 
-#### [[Yoga]] y posturas específicas
+#### [[yoga]] y posturas específicas
 
 Demostración visual de asanas (Bhujangasana), con instructor corrigiendo posturas. Conexión entre ejercicio físico y práctica espiritual hindú.
 

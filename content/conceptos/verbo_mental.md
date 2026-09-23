@@ -12,7 +12,7 @@ timestamp: 2026-09-15
 
 ## Definición
 
-El verbo mental (*verbum mentis*) es el concepto o palabra interior que el intelecto forma acerca de un objeto conocido. Es la concepción intelectual mediante la cual la mente aprehende una realidad: no es la cosa conocida en sí misma, sino la expresión interior de la cosa tal como está en el intelecto. En el hombre, el verbo mental se forma a partir de los fantasmas por acción del entendimiento agente. En Dios, el verbo mental es el Verbo eterno (Logos), la Segunda Persona de la [[Santísima_Trinidad]], concebida por el Padre en un acto de autoconocimiento intelectual perfecto. Esta analogía entre el verbo humano y el Verbo divino es la base de la generación intelectual en la Trinidad.
+El verbo mental (*verbum mentis*) es el concepto o palabra interior que el intelecto forma acerca de un objeto conocido. Es la concepción intelectual mediante la cual la mente aprehende una realidad: no es la cosa conocida en sí misma, sino la expresión interior de la cosa tal como está en el intelecto. En el hombre, el verbo mental se forma a partir de los fantasmas por acción del entendimiento agente. En Dios, el verbo mental es el Verbo eterno (Logos), la Segunda Persona de la [[santísima_trinidad]], concebida por el Padre en un acto de autoconocimiento intelectual perfecto. Esta analogía entre el verbo humano y el Verbo divino es la base de la generación intelectual en la Trinidad.
 
 ## Desarrollo doctrinal
 
@@ -71,11 +71,11 @@ Selman desarrolla la analogía del verbo mental: la concepción interior de la m
 
 ## Relaciones doctrinales
 
-El verbum mental es puente entre la [[epistemología_tomista]] (teoría del conocimiento) y la [[teología_trinitaria]] (misterio de la Trinidad). Se conecta con el [[entendimiento_agente]] (el poder que forma el verbum), las [[especies_inteligibles]] (las formas por las que se conoce), la [[segunda_persona_de_la_trinidad]] (el Verbo eterno), la [[generación_divina]] (la generación intelectual), la [[Santísima_Trinidad]] (misterio trinitario), la [[conocimiento_humano]] (la estructura del conocer en el hombre) y la [[contemplación]] (el vaciamiento de los verba humana en la oración superior).
+El verbum mental es puente entre la [[epistemología_tomista]] (teoría del conocimiento) y la [[teología_trinitaria]] (misterio de la Trinidad). Se conecta con el [[entendimiento_agente]] (el poder que forma el verbum), las [[especies_inteligibles]] (las formas por las que se conoce), la [[segunda_persona_de_la_trinidad]] (el Verbo eterno), la [[generación_divina]] (la generación intelectual), la [[santísima_trinidad]] (misterio trinitario), la [[conocimiento_humano]] (la estructura del conocer en el hombre) y la [[contemplación]] (el vaciamiento de los verba humana en la oración superior).
 
 ## Ver también
 
-[[segunda_persona_de_la_trinidad]], [[generación_divina]], [[entendimiento_agente]], [[especies_inteligibles]], [[Santísima_Trinidad]], [[conocimiento_humano]]
+[[segunda_persona_de_la_trinidad]], [[generación_divina]], [[entendimiento_agente]], [[especies_inteligibles]], [[santísima_trinidad]], [[conocimiento_humano]]
 
 ## Referencias
 

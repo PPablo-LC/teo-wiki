@@ -14,14 +14,14 @@ tags: ["resumen", "capitulos lc frg"]
 
 - [[capítulo_general]]
 - [[asamblea_general_regnum_christi]]
-- [[Regnum_Christi]]
+- [[regnum_christi]]
 
 
 ## Contenido
 
 📄 **Fuente original:** `02_convocatoria_del_capítulo_general_extraordinario_de_los_legi.md`
 
-Sección de encabezado que sirve como entrada maestra de la convocatoria conjunta del [[capítulo_general]] y de las asambleas extraordinarias de las Consagradas y de los Laicos Consagrados del [[Regnum_Christi]], todos ellos celebrados en 2018. El texto es un título de sección sin contenido adicional, remitiendo a los decretos de convocación que figuran en los capítulos siguientes del volumen.
+Sección de encabezado que sirve como entrada maestra de la convocatoria conjunta del [[capítulo_general]] y de las asambleas extraordinarias de las Consagradas y de los Laicos Consagrados del [[regnum_christi]], todos ellos celebrados en 2018. El texto es un título de sección sin contenido adicional, remitiendo a los decretos de convocación que figuran en los capítulos siguientes del volumen.
 
 
 ## Mapa del archivo fuente

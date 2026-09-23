@@ -37,7 +37,7 @@ El VocTeoBib estudia la imagen de la piedra en cinco aspectos. Primero, las pied
 
 ## Ver también
 
-[[jesus]], [[iglesia]], [[san_pedro]], [[templo]], [[escritura]]
+[[jesús]], [[iglesia]], [[san_pedro]], [[templo]], [[escritura]]
 
 ## Referencias
 

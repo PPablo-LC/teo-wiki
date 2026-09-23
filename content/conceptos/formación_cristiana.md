@@ -45,7 +45,7 @@ La Veritatis Splendor (§64) enseña que la formación de la conciencia es una t
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
-Tóth distingue tres errores en la [[formación_cristiana]]: intelectualismo (solo razón), voluntarismo (solo voluntad) y sentimentalismo (solo sentimientos). La formación integral requiere atender mente, voluntad y sentimientos. El educador debe entusiasmarse con su tarea, como [[san_juan_crisostomo]]: «Moldear las almas es más excelente que dibujar figuras». La autoeducación es el camino para esculpir en el alma la imagen que Dios concibió [JvC-Rel, Archivos 02, 07].
+Tóth distingue tres errores en la **formación cristiana**: intelectualismo (solo razón), voluntarismo (solo voluntad) y sentimentalismo (solo sentimientos). La formación integral requiere atender mente, voluntad y sentimientos. El educador debe entusiasmarse con su tarea, como [[san_juan_crisostomo]]: «Moldear las almas es más excelente que dibujar figuras». La autoeducación es el camino para esculpir en el alma la imagen que Dios concibió [JvC-Rel, Archivos 02, 07].
 
 ## Distinciones importantes
 

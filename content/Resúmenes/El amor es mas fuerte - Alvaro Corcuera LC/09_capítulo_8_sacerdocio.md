@@ -12,85 +12,50 @@ tags: ["resumen", "el amor es mas fuerte - alvaro corcuera lc"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+[[sacerdocio]], [[vocación_sacerdotal]], [[alter_christus]], [[cura_de_ars]], [[sagrado_corazón]], [[eucaristía]], [[oración]], [[misericordia_de_dios]], [[humildad]], [[fidelidad]], [[caridad]], [[espiritualidad_sacerdotal]], [[amor_a_cristo]], [[devoción_mariana]], [[iglesia]], [[papa]], [[vida_religiosa]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_capítulo_8_sacerdocio.md`
+### 1. El misterio de la elección y don gratuito de Dios
 
+El sacerdocio tiene su origen en el amor eterno y gratuito de Dios (Jr 1, 5-8; Jn 15, 16). La [[vocación_sacerdotal]] es puro misterio de elección divina: "No me habéis elegido vosotros a mí, sino que yo os he elegido a vosotros". No hay mérito propio; somos "recipientes de barro" que llevan un tesoro (2 Co 4, 7). Cristo llama a sus sacerdotes "amigos" y es el Amigo fiel que sostiene el ministerio. Benedicto XVI definió la "grandeza que se oculta en la palabra sacerdocio" como la audacia de Dios, que se abandona en manos de seres humanos débiles.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### 2. El ideal del sacerdote legionario
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo 8. Sacerdocio |
-| 3 | H3 | 1. El misterio de la elección y don gratuito de Dios |
-| 11 | H3 | 2. El ideal del sacerdote legionario |
-| 63 | H3 | 3. Amores del legionario en el sacerdocio |
-| 73 | H3 | 1. En primer lugar, el amor a Cristo. |
-| 79 | H3 | 2. El segundo amor de sus vidas ha sido el amor a Ma- |
-| 87 | H3 | 3. El tercer amor ha sido el amor a la Iglesia y al |
-| 99 | H3 | 4. La cruz siempre presente |
-| 121 | H3 | 5. La identificación con el corazón de Cristo en la dificultad |
-| 143 | H3 | 6. El ejemplo del cura de Ars(note: En el 150º aniversario de su muert |
-| 151 | H3 | 7. Renovar el amor con corazón siempre joven |
-| 175 | H3 | 8. Orar unos por otros |
+Bajo el lema del año sacerdotal "Fidelidad de Cristo. Fidelidad del sacerdote", el sacerdote legionario es: a) **Hombre de Dios** (*homo Dei*), que se forja en la [[oración]], la vida interior ([[vida_religiosa]]), la meditación de la Palabra y la participación sacramental; "un sacerdote es lo que es su oración", y la [[eucaristía]] es el centro de la jornada. b) **Humilde servidor de todos**, como el [[cura_de_ars]], que vivía todo "bajo los ojos de Dios"; reina "desde el trono de la humildad", repara el Corazón de Cristo y es instrumento de perdón en la confesión, necesitado él mismo de la [[misericordia_de_dios]]. c) **Incansable salvador de almas**, porque "la predicación y extensión del Reino de Cristo constituye el ideal" de la Congregación (CLC 1998); puerta abierta, mártir del servicio al prójimo y hombre de la gratitud y de la paz.
 
+### 3. Amores del legionario en el sacerdocio
 
-## Secciones incluidas
+En la homilía por los aniversarios de ordenación de Mons. Jorge Bernal y Mons. Pedro Pablo Elizondo, identifica los amores que sostienen la vida sacerdotal.
 
-## 1. El misterio de la elección y don gratuito de Dios
+### 1. En primer lugar, el amor a Cristo.
 
-[Contenido de esta sección...]
+"¡Ser sacerdote, es ser alter Christus!". Es Cristo quien llama; por Él vale la pena venderlo todo; su amor es el gran tesoro que une.
 
-## 2. El ideal del sacerdote legionario
+### 2. El segundo amor de sus vidas ha sido el amor a Ma-
 
-[Contenido de esta sección...]
+ría. La Virgen de Guadalupe acompaña como a san Juan Diego: "¿No estoy yo aquí que soy tu madre?". Ella anima a la entrega sin miedo.
 
-## 3. Amores del legionario en el sacerdocio
+### 3. El tercer amor ha sido el amor a la Iglesia y al
 
-[Contenido de esta sección...]
+Papa. La Iglesia es Madre: bautismo, sacramentos, ordenación; el amor a ella es afectivo y efectivo, a imitación de san Atanasio, signo de contradicción en un mundo que no conoce a Cristo. El cuarto amor es el amor a las almas, identificado con el Corazón del Buen Pastor que da la vida.
 
-## 1. En primer lugar, el amor a Cristo.
+### 4. La cruz siempre presente
 
-[Contenido de esta sección...]
+El cansancio, la crisis, el fracaso apostólico hacen pesar la cruz, pero Cristo está ahí: "¡Señor, sálvanos, que perecemos!" (Mt 8, 25). El año sacerdotal y la situación de la Legión son un tiempo de purificación para volver a lo esencial, crecer en la vivencia de las virtudes y en la "humildad sustancial", unidos a la Vid: "sin mí, nada podéis hacer" (Jn 15, 5).
 
-## 2. El segundo amor de sus vidas ha sido el amor a Ma-
+### 5. La identificación con el corazón de Cristo en la dificultad
 
-[Contenido de esta sección...]
+En la solemnidad del [[sagrado_corazón]] se contempla "el misterio del Corazón de un Dios que se conmueve". La misericordia de Dios vence el mal y hace de toda situación de pecado ocasión de nuevo inicio; las pruebas de la Legión son oportunidad de crecer en el amor misericordioso, la humildad y la fortaleza: "¡Aquí estoy, Señor, para hacer tu voluntad! No importa el precio, porque el amor es más fuerte". El peligro es abandonar el amor primero (Ap 2, 3-5).
 
-## 3. El tercer amor ha sido el amor a la Iglesia y al
+### 6. El ejemplo del cura de Ars
 
-[Contenido de esta sección...]
+San Juan María Vianney desgastó su vida por la salvación de las almas; su secreto fue el amor a Dios y la mirada fija en el cielo. El sacerdote es puente para llegar a Dios: absuelve y hace presente el sacrificio de Cristo en la [[eucaristía]]; "no se sabrá lo que es, sino en el cielo".
 
-## 4. La cruz siempre presente
+### 7. Renovar el amor con corazón siempre joven
 
-[Contenido de esta sección...]
+El amor primero se recupera en la oración: Cristo renueva "como un águila" la juventud del alma (Sal 103, 5), como la hija de Jairo: "no está muerta, está dormida" (Mc 5, 36-42). Se trata de celebrar cada misa como la primera, única o última, bajo el lema *Christus vita vestra*.
 
-## 5. La identificación con el corazón de Cristo en la dificultad
+### 8. Orar unos por otros
 
-[Contenido de esta sección...]
-
-## 6. El ejemplo del cura de Ars(note: En el 150º aniversario de su muerte, Benedicto XVI lo proclamó Patrono de todos los sacerdotes del mundo.)
-
-[Contenido de esta sección...]
-
-## 7. Renovar el amor con corazón siempre joven
-
-[Contenido de esta sección...]
-
-## 8. Orar unos por otros
-
-[Contenido de esta sección...]
+Se cierra con la oración de Pablo VI al Espíritu Santo por la santificación de los sacerdotes: un corazón nuevo, puro y grande, "feliz solamente de palpitar con el Corazón de Cristo y de cumplir con humildad, fidelidad y valentía la voluntad divina".

@@ -25,7 +25,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[confirmación]] — reservada al obispo, no a los presbíteros
 - [[transubstanciación]] — el pan y el vino se transustancian en el cuerpo y la sangre de Cristo
 - [[eucaristía]] — efectos de la comunión digna; no es mero alimento corporal
-- [[órdenes_sagradas]] — las órdenes de la Iglesia, conferidas sin simonía
+- [[ordenes_sagradas]] — las órdenes de la Iglesia, conferidas sin simonía
 - [[primado_del_papa|primado]] — contra los errores de los armenios sobre la potestad de los obispos
 
 
@@ -71,4 +71,4 @@ Constitución *Benedictus Deus*: definición de la [[visión_beatífica]] inmedi
 
 ## Errores de los armenios (1) [Del Memorial Iam dudum, remitido a los armenios el año 1341
 
-Memorial *Iam dudum* (1341): errores armenios sobre el [[pecado_original]], la creación del alma, el [[purgatorio]], la concupiscencia, la gracia y los sacramentos, la [[absolución_de_los_pecados|absolución]], el [[bautismo]], la [[confirmación]], la [[transubstanciación]] y las [[órdenes_sagradas]] (D-532 a D-549).
+Memorial *Iam dudum* (1341): errores armenios sobre el [[pecado_original]], la creación del alma, el [[purgatorio]], la concupiscencia, la gracia y los sacramentos, la [[absolución_de_los_pecados|absolución]], el [[bautismo]], la [[confirmación]], la [[transubstanciación]] y las [[ordenes_sagradas]] (D-532 a D-549).

@@ -23,7 +23,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[muerte]] — el cuerpo sometido al poder de la muerte
 - [[cuerpo]] — el cuerpo de Cristo, al que somos incorporados
 - [[gloria]] — el cuerpo transformado en cuerpo de gloria
-- [[adan]] — la imagen del Adán celestial
+- [[adán]] — la imagen del Adán celestial
 
 ## Contenido
 

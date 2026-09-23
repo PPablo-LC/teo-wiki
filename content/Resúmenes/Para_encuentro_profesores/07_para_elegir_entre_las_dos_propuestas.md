@@ -12,12 +12,12 @@ tags: ["resumen", "para encuentro profesores"]
 
 ## Conceptos básicos referenciados
 
-- [[Encuentro con Cristo]]
-- [[Revisión de vida]]
-- [[Discernimiento apostólico]]
+- [[encuentro_con_cristo]]
+- [[revisión_de_vida]]
+- [[discernimiento_apostólico]]
 - [[misa]]
-- [[Eucaristía]]
-- [[Oración contemplativa]]
+- [[eucaristía]]
+- [[oración_contemplativa]]
 
 ## Contenido
 
@@ -25,15 +25,15 @@ tags: ["resumen", "para encuentro profesores"]
 
 | | PROPUESTA A | PROPUESTA B |
 |---|---|---|
-| **Movimiento** | Del [[Evangelio]] a la vida | De la vida al [[Evangelio]] |
+| **Movimiento** | Del [[evangelio]] a la vida | De la vida al [[evangelio]] |
 | **Evangelios** | Jn 1,37-39 · Jn 15,1-5 · Mt 28,18-20 | Jn 1,35-39 · Lc 10,30-34 · Lc 10,1-9 |
 | **Énfasis** | Contemplativo y espiritual | Evangelizador y apostólico |
-| **Adecuado para** | Grupos con menos práctica de discernimiento grupal | Grupos con experiencia en [[Revisión de vida]] |
-| **Estructura** | Lectura Orante · Compromisos · [[Discernimiento apostólico]] | VER · JUZGAR · ACTUAR |
+| **Adecuado para** | Grupos con menos práctica de discernimiento grupal | Grupos con experiencia en [[revisión_de_vida]] |
+| **Estructura** | Lectura Orante · Compromisos · [[discernimiento_apostólico]] | VER · JUZGAR · ACTUAR |
 
 ### Nota sobre la Santa Misa — cierre de la jornada
 
-La [[misa]] no es el "final" de la jornada sino su punto culminante. En ella, los compromisos asumidos se ofrecen al Padre junto con el Pan y el Vino. Se sugiere al P. Luis que en la homilía o en las moniciones integre los compromisos recogidos en los plenarios, para que la [[Eucaristía]] sea verdaderamente el envío de toda la jornada. El documento señala:
+La [[misa]] no es el "final" de la jornada sino su punto culminante. En ella, los compromisos asumidos se ofrecen al Padre junto con el Pan y el Vino. Se sugiere al P. Luis que en la homilía o en las moniciones integre los compromisos recogidos en los plenarios, para que la [[eucaristía]] sea verdaderamente el envío de toda la jornada. El documento señala:
 
 > "El medio privilegiado para encontrar a Cristo es el texto de la Sagrada Escritura y el gesto de la fracción del Pan." — Parte II.
 

@@ -19,7 +19,7 @@ tags: ["resumen", "doctrina_social", "introducción", "humanismo", "solidaridad"
 - [[nueva_evangelización]] — Proceso de reevangelización de las sociedades cristianas
 - [[dignidad_humana]] — Valor trascendente de cada persona
 - [[justicia_social]] — Orden social conforme a la dignidad humana
-- [[Concilio_Vaticano_II]] — Concilio que renovó la relación Iglesia-mundo
+- [[concilio_vaticano_ii]] — Concilio que renovó la relación Iglesia-mundo
 
 ## Contenido
 

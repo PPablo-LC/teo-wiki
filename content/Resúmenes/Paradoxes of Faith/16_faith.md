@@ -23,7 +23,7 @@ tags: ["resumen", "paradoxes of faith"]
 - [[agustín_de_hipona]] — *Ama, et fac quod vis*
 - [[revelación]] — la sumisión total del espíritu a la Revelación es fertilizante
 - [[fariseísmo]] — para repetir las invectivas de Jesús contra el fariseísmo, hay que no tener nada de fariseo
-- [[pascal]] — citado sobre la razón y la fe
+- [[blaise_pascal]] — citado sobre la razón y la fe
 
 ## Contenido
 

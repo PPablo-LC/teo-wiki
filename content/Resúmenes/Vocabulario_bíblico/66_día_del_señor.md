@@ -18,7 +18,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[tiempo]] — los días y horas privilegiados, el tiempo histórico
 - [[hora]] — las horas de la intervención divina
 - [[juicio]] — el día como juicio del mundo
-- [[salvacion]] — el día como salvación de los creyentes
+- [[salvación]] — el día como salvación de los creyentes
 - [[culto]] — la designación cultual del día del Señor
 - [[luz]] — el «día de luz» esperado
 - [[guerra]] — la guerra de Yahveh contra sus enemigos
@@ -26,28 +26,28 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[resto]] — el resto para el que el día será victoria
 - [[naciones]] — el día alcanza a las naciones enemigas
 - [[ira]] — el día de la ira de Yahveh
-- [[paraiso]] — el paraíso renovado
+- [[paraíso]] — el paraíso renovado
 - [[venganza]] — el día de la venganza de Yahveh
 - [[bestia]] — las bestias del combate original
 - [[hijo]] — el Hijo del hombre
-- [[persecucion]] — la parusía anunciada por la persecución
+- [[persecución]] — la parusía anunciada por la persecución
 - [[gozo]] — el gozo de la persecución
 - [[esperanza]] — la esperanza del creyente
-- [[oracion]] — la oración de los cristianos: «que venga el reino»
+- [[oración]] — la oración de los cristianos: «que venga el reino»
 - [[confianza]] — la confianza en la obra de Dios
 - [[orgullo]] — el orgullo que garantiza Juan
 - [[velar]] — el deber de velar
-- [[bendicion]] — la bendición de la parusía
+- [[bendición]] — la bendición de la parusía
 - [[castigos]] — el castigo del mundo por el fuego
 - [[fuego]] — el juicio por el fuego
 - [[paciencia]] — la paciencia de Dios que espera la conversión
 - [[reino_de_dios]] — el advenimiento del reino en su plenitud
 - [[noche]] — los hijos del día que no pertenecen a la noche
-- [[sabado]] — el domingo, día siguiente al sábado
+- [[sábado]] — el domingo, día siguiente al sábado
 
 ## Contenido
 
-Para el creyente no es la historia un comienzo perpetuo; la historia conoce un progreso marcado por las [[visita]]s de Dios a sus [[tiempo]]s, en días, [[hora]]s, momentos privilegiados: el Señor vino, viene sin cesar, vendrá, para [[juicio|juzgar]] al mundo y [[salvacion|salvar]] a los creyentes. En tal conjunto, para designar la intervención solemne de Dios en el transcurso de la historia, el término «el día del Señor» es una expresión privilegiada, a veces abreviada en «el día» o en «aquel día». Esta expresión recubre una acepción doble. Es en primer lugar un acontecimiento histórico, el día por excelencia que ve el triunfo del Señor sobre sus enemigos. Es también una designación cultual, el día especialmente consagrado al [[culto]] de Dios. Estas dos significaciones no carecen de correlación mutua. El [[culto]] conmemora y anuncia la intervención de Dios en la historia: el acontecimiento histórico, puesto que emana de Dios, emerge fuera del tiempo; pertenece al presente eterno de Dios, que el culto debe actualizar en el [[tiempo]] histórico.
+Para el creyente no es la historia un comienzo perpetuo; la historia conoce un progreso marcado por las [[visita]]s de Dios a sus [[tiempo]]s, en días, [[hora]]s, momentos privilegiados: el Señor vino, viene sin cesar, vendrá, para [[juicio|juzgar]] al mundo y [[salvación|salvar]] a los creyentes. En tal conjunto, para designar la intervención solemne de Dios en el transcurso de la historia, el término «el día del Señor» es una expresión privilegiada, a veces abreviada en «el día» o en «aquel día». Esta expresión recubre una acepción doble. Es en primer lugar un acontecimiento histórico, el día por excelencia que ve el triunfo del Señor sobre sus enemigos. Es también una designación cultual, el día especialmente consagrado al [[culto]] de Dios. Estas dos significaciones no carecen de correlación mutua. El [[culto]] conmemora y anuncia la intervención de Dios en la historia: el acontecimiento histórico, puesto que emana de Dios, emerge fuera del tiempo; pertenece al presente eterno de Dios, que el culto debe actualizar en el [[tiempo]] histórico.
 
 ### AT
 
@@ -59,7 +59,7 @@ Aun cuando después del exilio esta descripción se refiera al último día, se 
 
 ### II. LA ESPERA DEL ÚLTIMO DÍA
 
-Yahveh conduce también la historia a su término. El anuncio del día de Yahveh para Israel va, pues, a transformarse en el anuncio de un día para el mundo entero. Este día no tendrá lugar en el transcurso del tiempo, sino al final de los tiempos, al fin del mundo presente. Primitivamente, el horizonte del día de Yahveh se limitaba a Israel. Los profetas, luchando contra la falsa seguridad del pueblo, que estimaba deber ser salvado sin condiciones de todas sus dificultades, iban contra la corriente de la esperanza popular con la expresión «día de Yahveh» o sin ella *Am 5,18ss* *Os* *Is 28,14ss* *Miq 1,2s* *Jer 4*: sólo para un [[resto]] sería este día la victoria de Israel. Con el profeta Sofonías se amplía el horizonte (siglo Iv); el día alcanzará a las [[naciones]] enemigas *Sof 2,4-15*, preparará su conversión y el restablecimiento de Israel *3,9-18*. Luego, una vez que Jerusalén ha pasado por el día de la [[ira]] de Yahveh *Lam 1,12*, los profetas se aplican más y más a restaurar la esperanza en el pueblo oprimido por las naciones: el día alcanza a Babel *Is 13*, a Edom *Is 34*; en cuanto a Israel, que todavía debe ser purificado *Mal 3,2* *Zac 13,1s*, se trata de una protección asegurada *Zac 12,1-4*, del don del Espíritu *Jl 3* *Zac 12,10*, de un [[paraiso]] renovado *Jl 4,18* *Zac 14,8*. Israel será vengado de sus enemigos *Jer 46,10*, habiendo sonado la hora de las naciones *Ez 30,3s*: tal es «el día de la [[venganza]] de Yahveh» *Is 34,8*.
+Yahveh conduce también la historia a su término. El anuncio del día de Yahveh para Israel va, pues, a transformarse en el anuncio de un día para el mundo entero. Este día no tendrá lugar en el transcurso del tiempo, sino al final de los tiempos, al fin del mundo presente. Primitivamente, el horizonte del día de Yahveh se limitaba a Israel. Los profetas, luchando contra la falsa seguridad del pueblo, que estimaba deber ser salvado sin condiciones de todas sus dificultades, iban contra la corriente de la esperanza popular con la expresión «día de Yahveh» o sin ella *Am 5,18ss* *Os* *Is 28,14ss* *Miq 1,2s* *Jer 4*: sólo para un [[resto]] sería este día la victoria de Israel. Con el profeta Sofonías se amplía el horizonte (siglo Iv); el día alcanzará a las [[naciones]] enemigas *Sof 2,4-15*, preparará su conversión y el restablecimiento de Israel *3,9-18*. Luego, una vez que Jerusalén ha pasado por el día de la [[ira]] de Yahveh *Lam 1,12*, los profetas se aplican más y más a restaurar la esperanza en el pueblo oprimido por las naciones: el día alcanza a Babel *Is 13*, a Edom *Is 34*; en cuanto a Israel, que todavía debe ser purificado *Mal 3,2* *Zac 13,1s*, se trata de una protección asegurada *Zac 12,1-4*, del don del Espíritu *Jl 3* *Zac 12,10*, de un [[paraíso]] renovado *Jl 4,18* *Zac 14,8*. Israel será vengado de sus enemigos *Jer 46,10*, habiendo sonado la hora de las naciones *Ez 30,3s*: tal es «el día de la [[venganza]] de Yahveh» *Is 34,8*.
 
 La extensión del día a las naciones se completa con una ampliación en el tiempo. Ya para Ezequiel el día marcaba un «fin» *Ez 7,6s*; con Daniel será el «fin del mundo» *Dan 9,26* *11,27* *12,13*, precedido por «el tiempo del fin» *8,17* *11,35.40* *12,4.9*. Las imágenes de la [[guerra]] de Yahveh contra los enemigos de Israel *Zac 14,12-20* se enriquecen con imágenes cósmicas que representan el combate original de Yahveh cuando triunfó de las [[bestia|bestias]] y del caos. Sin embargo, se sigue en contacto con la historia, la coalición organizada en los cuatro ángulos de la tierra contra Jerusalén *Zac 12,3* será desbaratada por Yahveh, que será reconocido juez de toda la tierra *Sal 94,2* *96,13*; la tierra entera será despoblada *Is 24,1*, serán aniquilados los pueblos guiados por Gog *Ez 38*, como los dioses que los inspiraban. El día de Yahveh marcará de esta manera la [[victoria]] definitiva de Dios sobre sus enemigos. Los salmos del reino traducen en oración esta esperanza, haciendo llamamiento al Dios de las venganzas *Sal 94* o anunciando que Dios reina *Sal 93* *96-99*.
 
@@ -77,7 +77,7 @@ Sin embargo, el que se espera para el fin de los tiempos es Jesús glorificado b
 
 #### Luz sobre la existencia cotidiana.
 
-Este hecho venidero tiene ya cierto alcance acá abajo y determina el comportamiento del creyente. La parusía permite apreciar a los hombres en su justo valor *1Cor 1,18*, juzgar el significado de las obras humanas *4,3ss*, estimar el peso y la solidez de este mundo, cuya «figura pasa» *7,31*. No pocos juicios paulinos están formulados a la luz de la parusía *6,12ss* *7,26.*. Ésta es anunciada por la [[persecucion|persecución]] que, por consiguiente, no asombra ya, sino que colma de [[gozo]] *1Pe 5,13s*. Su perspectiva mantiene al creyente en la [[esperanza]] *Tit 2,13*. La parusía es deseable: la [[oracion|oración]] de los cristianos es «que venga el reino de Dios». El creyente tiene [[confianza]] en que Dios llevará a término su obra *Flp 1,6* haciendo a sus fieles firmes e irreprochables *1Cor 1,8* *Flp 1,9s* *2Tim 1,12.18*, a los que esperan con amor esta última «epifanía» *2Tim 4,8*; tal es la confianza que quiere inculcar el Apocalipsis, el [[orgullo]] que garantiza Juan *1Jn 2,28* *4,17*. Las imágenes son incluso actualizadas por este último cuando el anticristo del fin se manifiesta en los anticristos de nuestros días *4,1-4*.
+Este hecho venidero tiene ya cierto alcance acá abajo y determina el comportamiento del creyente. La parusía permite apreciar a los hombres en su justo valor *1Cor 1,18*, juzgar el significado de las obras humanas *4,3ss*, estimar el peso y la solidez de este mundo, cuya «figura pasa» *7,31*. No pocos juicios paulinos están formulados a la luz de la parusía *6,12ss* *7,26.*. Ésta es anunciada por la [[persecución|persecución]] que, por consiguiente, no asombra ya, sino que colma de [[gozo]] *1Pe 5,13s*. Su perspectiva mantiene al creyente en la [[esperanza]] *Tit 2,13*. La parusía es deseable: la [[oración|oración]] de los cristianos es «que venga el reino de Dios». El creyente tiene [[confianza]] en que Dios llevará a término su obra *Flp 1,6* haciendo a sus fieles firmes e irreprochables *1Cor 1,8* *Flp 1,9s* *2Tim 1,12.18*, a los que esperan con amor esta última «epifanía» *2Tim 4,8*; tal es la confianza que quiere inculcar el Apocalipsis, el [[orgullo]] que garantiza Juan *1Jn 2,28* *4,17*. Las imágenes son incluso actualizadas por este último cuando el anticristo del fin se manifiesta en los anticristos de nuestros días *4,1-4*.
 
 ### II. INMINENCIA Y RETRASO DE LA PARUSÍA
 
@@ -85,7 +85,7 @@ Como la venida del Señor, también su espera es ambigua, pues si se asegura a l
 
 #### De la proximidad de la parusía.
 
-Parece ser que en los principios de la Iglesia los creyentes, totalmente poseídos por la luz de pascua y de pentecostés, pensaron que Cristo iba a retornar inmediatamente. La comunidad de Tesalónica refleja todavía esta convicción con excesos que son instructivos: los difuntos no tendrían la menor participación en la [[bendicion|bendición]] de la parusía *1Tes 4,13.*; el trabajo no es ya necesario, puesto que el Señor viene *2Tes 3,6*; más aún, la parusía habría tenido ya lugar. Pablo, para corregir estas ilusiones, no dice nunca que la parusía tendrá lugar después de un prolongado lapso de tiempo; por el contrario, abriga la esperanza de hallarse entonces todavía en vida *1Tes 4,17*. Mantiene sobre todo el deber de [[velar]] porque «el día viene como un ladrón en plena noche» *1Tes 5,2*. Por lo demás, el carácter inminente de la parusía es difícil de expresar sin proyectarlo en el cuadrante del tiempo: lo que es inminente parece «próximo». Así, los autores del NT presentan la parusía como «más próxima» ahora que al principio *Rom 13,11*: el día se aproxima, el juicio está muy próximo *1Pe 4,5ss*; todavía un poco y llegará el día *Heb 10,25.37*. Jesús dice: «Vengo luego» *Ap 22,20*.
+Parece ser que en los principios de la Iglesia los creyentes, totalmente poseídos por la luz de pascua y de pentecostés, pensaron que Cristo iba a retornar inmediatamente. La comunidad de Tesalónica refleja todavía esta convicción con excesos que son instructivos: los difuntos no tendrían la menor participación en la [[bendición|bendición]] de la parusía *1Tes 4,13.*; el trabajo no es ya necesario, puesto que el Señor viene *2Tes 3,6*; más aún, la parusía habría tenido ya lugar. Pablo, para corregir estas ilusiones, no dice nunca que la parusía tendrá lugar después de un prolongado lapso de tiempo; por el contrario, abriga la esperanza de hallarse entonces todavía en vida *1Tes 4,17*. Mantiene sobre todo el deber de [[velar]] porque «el día viene como un ladrón en plena noche» *1Tes 5,2*. Por lo demás, el carácter inminente de la parusía es difícil de expresar sin proyectarlo en el cuadrante del tiempo: lo que es inminente parece «próximo». Así, los autores del NT presentan la parusía como «más próxima» ahora que al principio *Rom 13,11*: el día se aproxima, el juicio está muy próximo *1Pe 4,5ss*; todavía un poco y llegará el día *Heb 10,25.37*. Jesús dice: «Vengo luego» *Ap 22,20*.
 
 #### Del retraso de la parusía.
 
@@ -105,4 +105,4 @@ Si bien la realidad actual de la salvación predomina frente a la espera del fut
 
 #### 3. El domingo, día del Señor.
 
-La parusía se actualiza también en el culto. En el Apocalipsis habla Juan del «día señorial», *dies dominica* *Ap 1,10*, durante el cual tuvo él su visión. Se trata en primer lugar del «primer día de la semana» *1Cor 16,2* *Act 20,7*, el día siguiente al [[sabado|sábado]], durante el cual los cristianos festejaban al Señor; sin embargo, este día no se escogió para suplantar al sábado, sino para conmemorar un acontecimiento histórico, el día de pascua, según la puntualización que se expresará a comienzos del siglo u. El domingo recuerda, en efecto, la victoria del Señor en el gran día de la resurrección; como, por otra parte, es el día de la celebración eucarística, anuncia también la vuelta del Señor, su parusía *1Cor 11,26*. La tradición completará esta interpretación llamando al domingo «el día octavo», para recordar que en este día de pascua, que anticipa la parusía, la creación del primer día llegó a su pleno acabamiento.
+La parusía se actualiza también en el culto. En el Apocalipsis habla Juan del «día señorial», *dies dominica* *Ap 1,10*, durante el cual tuvo él su visión. Se trata en primer lugar del «primer día de la semana» *1Cor 16,2* *Act 20,7*, el día siguiente al [[sábado|sábado]], durante el cual los cristianos festejaban al Señor; sin embargo, este día no se escogió para suplantar al sábado, sino para conmemorar un acontecimiento histórico, el día de pascua, según la puntualización que se expresará a comienzos del siglo u. El domingo recuerda, en efecto, la victoria del Señor en el gran día de la resurrección; como, por otra parte, es el día de la celebración eucarística, anuncia también la vuelta del Señor, su parusía *1Cor 11,26*. La tradición completará esta interpretación llamando al domingo «el día octavo», para recordar que en este día de pascua, que anticipa la parusía, la creación del primer día llegó a su pleno acabamiento.

@@ -30,24 +30,24 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[alianza]] — la elección tiene por fin la alianza
 - [[tierra]] — la tierra, símbolo de la gracia
 - [[conocer]] — la gracia, gesto de conocimiento
-- [[comunion]] — la gracia pide un intercambio
-- [[bendicion]] — la bendición, efecto de la gracia
+- [[comunión]] — la gracia pide un intercambio
+- [[bendición]] — la bendición, efecto de la gracia
 - [[plenitud]] — la plenitud de la fuerza
 - [[fuerza]] — la fuerza de la bendición
 - [[rostro]] — la irradiación de su rostro
 - [[padres_y_padre]] — al padre corresponde bendecir
 - [[santo]] — la elección, llamamiento a la santidad
-- [[corazon]] — los corazones rebeldes
+- [[corazón]] — los corazones rebeldes
 - [[nuevo]] — corazones nuevos
-- [[espiritu]] — la obra del Espíritu
-- [[redencion]] — la gracia, secreto de la redención
+- [[espíritu]] — la obra del Espíritu
+- [[redención]] — la gracia, secreto de la redención
 - [[carisma]] — la variedad de los carismas
-- [[eleccion]] — la elección revelada por los carismas
-- [[mision]] — la misión propia
+- [[elección]] — la elección revelada por los carismas
+- [[misión]] — la misión propia
 - [[poder]] — su poder brilla en las estrecheces
 - [[fe]] — la generosidad divina sólo se percibe por la fe
-- [[justificacion]] — la justificación, estado del hombre
-- [[maria]] — la gracia de que está colmada María
+- [[justificación]] — la justificación, estado del hombre
+- [[maría]] — la gracia de que está colmada María
 - [[paz]] — la gracia y la paz
 
 ## Contenido
@@ -72,13 +72,13 @@ Dar y perdonar, derramar por todas partes su generosidad, inclinarse con atenci�
 
 La generosidad de Dios se derrama sobre toda carne *Eclo 1,10*, su gracia no es un tesoro guardado codiciosamente. Pero el signo esplendente de esta generosidad es la elección de Israel. Es una iniciativa totalmente gratuita, no justificada en el pueblo elegido por ningún mérito, por ningún valor antecedente, ni por el número *Dt 7,7*, la buena conducta *9,4*, el «vigor de (su) mano» *8,17*, sino únicamente por «el amor a vosotros y la fidelidad al juramento hecho a vuestros padres» *7,8* *4,37*. Como punto de partida de Israel sólo hay una explicación, la gracia del Dios fiel que guarda su [[alianza|alianza]] y su [[amor|amor]] *7,9*. El símbolo de esta gracia es la [[tierra|tierra]] que da Dios a su pueblo, «país de torrentes y de manantiales» *8,7*, «de montañas y de valles regados por la lluvia del cielo» *11,11*, «ciudades que tú no has construido... casas que tú no has llenado, pozos que tú no has excavado» *6,10s*.
 
-Esta gratuidad no carece de fin, no vuelca ciegamente las [[riquezas|riquezas]] con las que no sabe qué hacer. La elección tiene por fin la alianza; la gracia que escoge y que da es un gesto de [[conocer|conocimiento]], se adhiere a aquel que escoge y aguarda de él una respuesta, el reconocimiento y el amor: tal es la predicación del Deuteronomio *Dt 6,5.12s* *10,12s* *11,1*. La gracia de Dios quiere tener asociados, pide un intercambio, una [[comunion|comunión]].
+Esta gratuidad no carece de fin, no vuelca ciegamente las [[riquezas|riquezas]] con las que no sabe qué hacer. La elección tiene por fin la alianza; la gracia que escoge y que da es un gesto de [[conocer|conocimiento]], se adhiere a aquel que escoge y aguarda de él una respuesta, el reconocimiento y el amor: tal es la predicación del Deuteronomio *Dt 6,5.12s* *10,12s* *11,1*. La gracia de Dios quiere tener asociados, pide un intercambio, una [[comunión|comunión]].
 
 #### La gracia de Dios sobre sus elegidos.
 
-La palabra que sin duda traduce mejor el efecto producido en el hombre por la generosidad de Dios es la de [[bendicion|bendición]]. La bendición es mucho más que una protección exterior: en el que la recibe mantiene la [[vida|vida]], el [[gozo|gozo]], la [[plenitud|plenitud]] de la [[fuerza|fuerza]], establece entre Dios y su criatura un contacto personal, hace que se posen sobre el hombre la mirada y la sonrisa de Dios, la irradiación de su [[rostro|rostro]] y de su gracia (*hen*, *Num 6,25*), y esta relación tiene algo de vital, afecta a la potencia creadora. Al [[padres_y_padre|padre]] corresponde bendecir, y si la historia de Israel es la de una bendición destinada a todas las naciones *Gen 12,3*, es porque Dios es padre y plasma el destino de sus hijos *Is 45,10ss*. La gracia de Dios es un amor de padre y crea [[hijo|hijos]]. Como esta bendición es la del Dios [[santo|santo]], el vínculo que establece con sus elegidos es el de una consagración. La elección es llamamiento a la santidad y promesa de vida consagrada *Ex 19,6* *Is 6,7* *Lev 19,2*.
+La palabra que sin duda traduce mejor el efecto producido en el hombre por la generosidad de Dios es la de [[bendición|bendición]]. La bendición es mucho más que una protección exterior: en el que la recibe mantiene la [[vida|vida]], el [[gozo|gozo]], la [[plenitud|plenitud]] de la [[fuerza|fuerza]], establece entre Dios y su criatura un contacto personal, hace que se posen sobre el hombre la mirada y la sonrisa de Dios, la irradiación de su [[rostro|rostro]] y de su gracia (*hen*, *Num 6,25*), y esta relación tiene algo de vital, afecta a la potencia creadora. Al [[padres_y_padre|padre]] corresponde bendecir, y si la historia de Israel es la de una bendición destinada a todas las naciones *Gen 12,3*, es porque Dios es padre y plasma el destino de sus hijos *Is 45,10ss*. La gracia de Dios es un amor de padre y crea [[hijo|hijos]]. Como esta bendición es la del Dios [[santo|santo]], el vínculo que establece con sus elegidos es el de una consagración. La elección es llamamiento a la santidad y promesa de vida consagrada *Ex 19,6* *Is 6,7* *Lev 19,2*.
 
-A esta respuesta filial, a esta consagración de la vida y del corazón se niega Israel *Os 4,1s* *Is 1,4* *Jer 9,4s*. «Como mana el agua en un pozo, así mana en (Jerusalén) la maldad» *Jer 6,7* *Ez 16* *20*. Entonces Dios piensa hacer en el hombre algo de lo que el hombre es radicalmente incapaz, y hacer que el hombre mismo sea su autor. De una Jerusalén corrompida hará una ciudad justa *Is 1,21-26*, de [[corazon|corazones]] incurablemente rebeldes *Jer 5,1ss* hará corazones [[nuevo|nuevos]], capaces de [[conocer|conocerle]] *Os 2,21* *Jer 31,31*. Esto será obra de su [[Espiritu|Espíritu]] *Ez 36,27*; será el advenimiento de su propia [[justicia|justicia]] en el mundo *Is 45,8.24* *51,6*.
+A esta respuesta filial, a esta consagración de la vida y del corazón se niega Israel *Os 4,1s* *Is 1,4* *Jer 9,4s*. «Como mana el agua en un pozo, así mana en (Jerusalén) la maldad» *Jer 6,7* *Ez 16* *20*. Entonces Dios piensa hacer en el hombre algo de lo que el hombre es radicalmente incapaz, y hacer que el hombre mismo sea su autor. De una Jerusalén corrompida hará una ciudad justa *Is 1,21-26*, de [[corazón|corazones]] incurablemente rebeldes *Jer 5,1ss* hará corazones [[nuevo|nuevos]], capaces de [[conocer|conocerle]] *Os 2,21* *Jer 31,31*. Esto será obra de su [[espíritu|Espíritu]] *Ez 36,27*; será el advenimiento de su propia [[justicia|justicia]] en el mundo *Is 45,8.24* *51,6*.
 
 ### III. LA GRACIA DE DIOS SE REVELÓ EN JESUCRISTO
 
@@ -90,9 +90,9 @@ Si bien la tradición evangélica común a los sinópticos no conoce la palabra,
 
 ### IV. GRACIA Y ELECCIÓN
 
-Si la gracia de Dios es el secreto de la [[redencion|redención]], es también el secreto de la forma concreta cómo la recibe y la vive cada cristiano *Rom 12,6* *Ef 6,7* y cada Iglesia. Las iglesias de Macedonia han recibido la gracia de la generosidad *2Cor 8,1s*, los filipenses han recibido su parte de la gracia del apostolado *Flp 1,7* *2Tim 2,9*, que explica toda la actividad de Pablo *Rom 1,5* *1Cor 3,10* *Gal 1,15* *Ef 3,2*.
+Si la gracia de Dios es el secreto de la [[redención|redención]], es también el secreto de la forma concreta cómo la recibe y la vive cada cristiano *Rom 12,6* *Ef 6,7* y cada Iglesia. Las iglesias de Macedonia han recibido la gracia de la generosidad *2Cor 8,1s*, los filipenses han recibido su parte de la gracia del apostolado *Flp 1,7* *2Tim 2,9*, que explica toda la actividad de Pablo *Rom 1,5* *1Cor 3,10* *Gal 1,15* *Ef 3,2*.
 
-A través de la variedad de los [[carisma|carismas]] se revela la [[eleccion|elección]], elección venida de Dios antes de todas las opciones humanas *Rom 1,5* *Gal 1,15*, que introduce en la salvación *Gal 1,6* *2Tim 1,9*, que consagra a una [[mision|misión]] propia *1Cor 3,10* *Gal 2,8s*.
+A través de la variedad de los [[carisma|carismas]] se revela la [[elección|elección]], elección venida de Dios antes de todas las opciones humanas *Rom 1,5* *Gal 1,15*, que introduce en la salvación *Gal 1,6* *2Tim 1,9*, que consagra a una [[misión|misión]] propia *1Cor 3,10* *Gal 2,8s*.
 
 Esta gracia no es sólo la elección inicial, es en los apóstoles la fuente inagotable de su actividad *Act 14,26* *15,40*; hace de Pablo todo lo que es y hace en él todo lo que él hace *1Cor 15,10*, tanto que lo más personal en él, «lo que yo soy», es precisamente la obra de esta gracia. Como es en él principio de transformación y de acción, requiere su colaboración, y Pablo, «investido de este ministerio, no flaquea» *2Cor 4,1*, atento siempre a «obedecer a la gracia» *2Cor 1,12* y a «responderle» *Rom 15,15* *Flp 2,12s*. Jamás falta esta gracia: siempre «basta», aun en las mayores estrecheces, pues entonces es cuando brilla su [[poder|poder]] *2Cor 12,9*.
 
@@ -102,4 +102,4 @@ El rasgo específicamente paulino de la gracia, el que le induce a repetir const
 
 ### VI. GRACIA Y JUSTIFICACIÓN
 
-La generosidad de Dios consiste en poner frente a él un ser que constituya su [[gozo|gozo]]. A esto llama Pablo la [[justificacion|justificación]], estado del hombre capaz de parecer delante de Dios. Ahora bien, ésta es puro efecto de la gracia *Rom 3,24*. En un vocabulario diferente, en que está ausente la palabra justicia, pero en el que se puso de intento la palabra gracia, sugiere Lucas este gozo divino frente a Jesús *Lc 2,40.52* y frente a [[maria|María]] *1,28.30*. Se diría que esta gracia es a la vez la benevolencia divina que los designa y los envuelve, y el atractivo que por este mismo hecho ejercen, si podemos permitirnos la expresión, en Dios y también en los hombres *2,52* *4,22*. Sin duda, a la gracia de que está colmada María *1,28* hay que dar esta plenitud de sentido: a la vez privilegiada de la generosidad de Dios y llena ante sus ojos de un valor único.
+La generosidad de Dios consiste en poner frente a él un ser que constituya su [[gozo|gozo]]. A esto llama Pablo la [[justificación|justificación]], estado del hombre capaz de parecer delante de Dios. Ahora bien, ésta es puro efecto de la gracia *Rom 3,24*. En un vocabulario diferente, en que está ausente la palabra justicia, pero en el que se puso de intento la palabra gracia, sugiere Lucas este gozo divino frente a Jesús *Lc 2,40.52* y frente a [[maría|María]] *1,28.30*. Se diría que esta gracia es a la vez la benevolencia divina que los designa y los envuelve, y el atractivo que por este mismo hecho ejercen, si podemos permitirnos la expresión, en Dios y también en los hombres *2,52* *4,22*. Sin duda, a la gracia de que está colmada María *1,28* hay que dar esta plenitud de sentido: a la vez privilegiada de la generosidad de Dios y llena ante sus ojos de un valor único.

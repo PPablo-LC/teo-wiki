@@ -23,7 +23,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[frutos_del_espíritu_santo]] — Gál 5, 22: el hombre «espiritual» productor
 - [[autonomia_de_la_sensualidad]] — la fuerza que «ata» al espíritu
 - [[aristóteles]] — hyle del dualismo antropológico superado
-- [[Espíritu_Santo]] — el don definitivo por la resurrección de Cristo
+- [[espíritu_santo]] — el don definitivo por la resurrección de Cristo
 - [[integración]] — la armonia sensibilidad-actividad del espíritu
 - [[muerte]] — la condenación del «cuerpo animal»
 - [[resurrección]] — la reintegración y la nueva plenitud histórica

@@ -25,7 +25,7 @@ Las cruzadas representan un capítulo complejo de la historia de la Iglesia en e
 
 **Primera cruzada (1095–1099) — HI, Archivo 22:**
 
-Convocada por el papa [[Urbano_II|Urbano II]] en el concilio de Clermont (1095), respondió a la petición de auxilio del emperador bizantino Alejo I Comneno frente a los turcos selyúcidas. El llamamiento tuvo un éxito inesperado: campesinos, caballeros y nobles acudieron bajo la consigna *Deus vult* («Dios lo quiere»). La expedición, encabezada por Godofredo de Bouillon, conquistó Jerusalén en 1099 y fundó el Reino de Jerusalén junto con otros estados cruzados (Condado de Trípoli, Principado de Antioquía, Condado de Edesa).
+Convocada por el papa [[urbano_ii|Urbano II]] en el concilio de Clermont (1095), respondió a la petición de auxilio del emperador bizantino Alejo I Comneno frente a los turcos selyúcidas. El llamamiento tuvo un éxito inesperado: campesinos, caballeros y nobles acudieron bajo la consigna *Deus vult* («Dios lo quiere»). La expedición, encabezada por Godofredo de Bouillon, conquistó Jerusalén en 1099 y fundó el Reino de Jerusalén junto con otros estados cruzados (Condado de Trípoli, Principado de Antioquía, Condado de Edesa).
 
 **Segunda cruzada (1147–1149) — HI, Archivo 24:**
 
@@ -63,7 +63,7 @@ Se relaciona con la [[guerra_justa]], la [[indulgencias]], el [[monacato]] (much
 
 ## Ver también
 
-[[guerra_justa]], [[indulgencias]], [[cisma_de_oriente]], [[Urbano_II]], [[san_bernardo_de_clairvaux]], [[saladino]]
+[[guerra_justa]], [[indulgencias]], [[cisma_de_oriente]], [[urbano_ii]], [[san_bernardo_de_clairvaux]], [[saladino]]
 
 ## Referencias
 

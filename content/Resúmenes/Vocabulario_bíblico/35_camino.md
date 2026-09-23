@@ -20,17 +20,17 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[vida]] — el camino bueno como camino de vida
 - [[muerte]] — el camino malo conduciendo a la muerte
 - [[alianza]] — el éxodo como entrada en la alianza
-- [[exodo]] — el éxodo como ejemplo privilegiado de los caminos de Dios
+- [[éxodo]] — el éxodo como ejemplo privilegiado de los caminos de Dios
 - [[desierto]] — el desierto como tiempo de prueba
 - [[prueba_y_tentación]] — el desierto como tiempo de prueba
 - [[reposo]] — el reposo como término del camino de Dios
 - [[ley]] — la ley como camino del hombre
 - [[exilio]] — la desobediencia conduciendo al exilio
-- [[moises]] — Jesús como nuevo Moisés
+- [[moisés]] — Jesús como nuevo Moisés
 - [[cruz]] — la entrada en la gloria solo posible por el camino de la cruz
 - [[sangre]] — la sangre de Jesús abriendo el camino al santuario verdadero
-- [[jesus]] — Cristo como camino vivo y nueva persona
-- [[espiritu]] — el acceso al Padre en un solo Espíritu
+- [[jesús]] — Cristo como camino vivo y nueva persona
+- [[espíritu]] — el acceso al Padre en un solo Espíritu
 - [[reino_de_dios]] — el reino glorioso anticipado en la transfiguración
 
 ## Contenido

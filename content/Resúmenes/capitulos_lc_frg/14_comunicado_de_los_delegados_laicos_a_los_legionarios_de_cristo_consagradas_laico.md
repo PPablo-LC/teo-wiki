@@ -12,15 +12,15 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Legionarios_de_Cristo]]
-- [[Consagradas_del_Regnum_Christi]]
-- [[Laicos_Consagrados_del_Regnum_Christi]]
-- [[Regnum_Christi]]
-- [[Federación_Regnum_Christi]]
+- [[legionarios_de_cristo]]
+- [[consagradas_del_regnum_christi]]
+- [[laicos_consagrados_del_regnum_christi]]
+- [[regnum_christi]]
+- [[federación_regnum_christi]]
 - [[Reglamento_de_los_Fieles_Asociados_a_la_Federación_Regnum_Christi]]
 - [[estatutos_federación_regnum_christi]]
-- [[Vida_consagrada]]
-- [[Laicado]]
+- [[vida_consagrada]]
+- [[laicado]]
 
 
 ## Contenido
@@ -31,19 +31,19 @@ Comunicado de los delegados laicos que participaron en la [[asamblea_general_reg
 
 ### Introducción
 
-Celebración de la aprobación del *Reglamento de los Fieles Asociados*, del envío de los *Estatutos de la [[Federación_Regnum_Christi]]* a la Santa Sede, y de la erección canónica de las dos [[Sociedad_de_Vida_Apostólica]].
+Celebración de la aprobación del *Reglamento de los Fieles Asociados*, del envío de los *Estatutos de la [[federación_regnum_christi]]* a la Santa Sede, y de la erección canónica de las dos [[sociedad_de_vida_apostólica]].
 
 ### Historia del proceso
 
-Desde junio de 2013, a petición del cardenal Velasio De Paolis, los laicos iniciaron un proceso de discernimiento sobre su identidad. Participaron 10.882 laicos. En la Convención Internacional de 2016, los laicos decidieron no constituir una asociación propia sino asociarse individualmente al [[Regnum_Christi]], y expresaron su deseo de participar en los procesos de gobierno.
+Desde junio de 2013, a petición del cardenal Velasio De Paolis, los laicos iniciaron un proceso de discernimiento sobre su identidad. Participaron 10.882 laicos. En la Convención Internacional de 2016, los laicos decidieron no constituir una asociación propia sino asociarse individualmente al [[regnum_christi]], y expresaron su deseo de participar en los procesos de gobierno.
 
 ### Aspectos de especial relevancia
 
-Los *Estatutos de la [[Federación_Regnum_Christi]]* contienen los fundamentos espirituales compartidos y regulan la participación de los laicos en los órganos de gobierno con voto consultivo (y deliberativo para su propio *Reglamento*). El *Reglamento de los Fieles Asociados* reconoce cinco elementos del estilo de vida laical: vida espiritual, formación, apostolado, acompañamiento personal y vida de equipo.
+Los *Estatutos de la [[federación_regnum_christi]]* contienen los fundamentos espirituales compartidos y regulan la participación de los laicos en los órganos de gobierno con voto consultivo (y deliberativo para su propio *Reglamento*). El *Reglamento de los Fieles Asociados* reconoce cinco elementos del estilo de vida laical: vida espiritual, formación, apostolado, acompañamiento personal y vida de equipo.
 
 ### Retos y metas
 
-Los laicos asumen la forma de [[Federación_Regnum_Christi]] como un primer paso, conscientes de sus limitaciones, y quieren seguir profundizando en su identidad como levadura en el mundo.
+Los laicos asumen la forma de [[federación_regnum_christi]] como un primer paso, conscientes de sus limitaciones, y quieren seguir profundizando en su identidad como levadura en el mundo.
 
 ### Al Comité General y al futuro gobierno
 

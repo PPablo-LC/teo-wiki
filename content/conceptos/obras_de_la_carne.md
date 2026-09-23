@@ -38,11 +38,11 @@ Las obras de la carne —«fornicación, impureza, libertinaje... embriaguez, or
 
 ## Relaciones doctrinales
 
-Se relaciona con [[vida_segun_el_espíritu]], [[mortificación]], [[caridad]], [[concupiscencia]], [[teología_del_cuerpo]], [[libertad]], [[espiritualización_del_cuerpo]].
+Se relaciona con [[vida_según_el_espíritu]], [[mortificación]], [[caridad]], [[concupiscencia]], [[teología_del_cuerpo]], [[libertad]], [[espiritualización_del_cuerpo]].
 
 ## Ver también
 
-[[vida_segun_el_espíritu]], [[concupiscencia]], [[teología_del_cuerpo]], [[espiritualización_del_cuerpo]]
+[[vida_según_el_espíritu]], [[concupiscencia]], [[teología_del_cuerpo]], [[espiritualización_del_cuerpo]]
 
 ## Referencias
 

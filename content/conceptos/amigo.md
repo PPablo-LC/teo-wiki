@@ -32,7 +32,7 @@ Dios mostró ser «amigo de los hombres» al enviar a su Hijo. Jesús amó tiern
 [[amor]], [[discípulo]], [[servir]], [[memoria]], [[temor]]
 
 ## Ver también
-[[projimo]], [[enemigo]], [[caridad]]
+[[prójimo]], [[enemigo]], [[caridad]]
 
 ## Referencias
 - [VocTeoBib, «Amigo»]

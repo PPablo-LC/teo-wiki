@@ -42,7 +42,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[jerusalén]] — una fuente inagotable en la Jerusalén restaurada
 - [[templo]] — el río que brota del templo
 - [[abraham]] — la tierra prometida a los padres
-- [[paraiso]] — el retorno de la dicha paradisíaca
+- [[paraíso]] — el retorno de la dicha paradisíaca
 - [[jordan]] — el Jordán que purificó a Naamán
 - [[bautismo]] — el simbolismo del agua en el bautismo cristiano
 - [[rescate]] — la virtud redentora de la sangre de Cristo

@@ -43,11 +43,11 @@ El documental se estructura en 14 bloques temáticos:
 
 5. **El [[yoga]] como corazón del [[hinduismo]]** — Origen religioso (Shiva, Krishna, Gita); significado real: unión con Brahma; técnicas: pranas, asanas, mantras, tantra; el yoga como vehículo misionero.
 
-6. **[[Meditación_trascendental]] y técnicas peligrosas** — Meditación dinámica de Osho; riesgos de enfermedades mentales, suicidios y crímenes; dependencia similar a drogas; red de 4500 psiquiatras para tratar afectados.
+6. **[[meditación_trascendental]] y técnicas peligrosas** — Meditación dinámica de Osho; riesgos de enfermedades mentales, suicidios y crímenes; dependencia similar a drogas; red de 4500 psiquiatras para tratar afectados.
 
 7. **[[Tantra]] y magia** — Tantra como magia negra/blanca; Anton LaVey rechaza la idea de "magia blanca"; todas las prácticas de poder psíquico tienen origen oculto.
 
-8. **La serpiente como símbolo hindú** — [[Kundalini]] como energía serpiente; contraste con la serpiente bíblica (engañador en el Edén); normalización cultural: se enseña a niños a aceptar la serpiente; ejercicios de cobra como conexión con shakti.
+8. **La serpiente como símbolo hindú** — [[kundalini]] como energía serpiente; contraste con la serpiente bíblica (engañador en el Edén); normalización cultural: se enseña a niños a aceptar la serpiente; ejercicios de cobra como conexión con shakti.
 
 9. **Hipnosis, medicina alternativa y [[nueva_era]]** — Hipnosis como puente entre hinduismo y ciencia moderna; bioretroalimentación como "yoga electrónico"; terapias de vidas pasadas; acupuntura como manipulación de kundalini.
 
@@ -71,7 +71,7 @@ El documental se estructura en 14 bloques temáticos:
 
 4. **[[relativismo]] como herramienta de control** — La filosofía hindú niega normas morales absolutas; gurúes justifican crímenes como "estafa divina".
 
-5. **[[Reencarnación]] vs. [[resurrección]] como conflicto central** — División teológica fundamental; ambas no pueden ser verdaderas simultáneamente.
+5. **[[reencarnación]] vs. [[resurrección]] como conflicto central** — División teológica fundamental; ambas no pueden ser verdaderas simultáneamente.
 
 6. **[[Infiltración_institucional]] sistémica** — Desde escuelas hasta la ONU, el hinduismo se infiltra en instituciones occidentales.
 

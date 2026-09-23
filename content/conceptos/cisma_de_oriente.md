@@ -41,7 +41,7 @@ El patriarca Miguel Cerulario cerró las iglesias latinas de Constantinopla y at
 
 **Esfuerzos de unidad — HI, Archivo 22:**
 
-El concilio de Lyon II (1274) y el concilio de Florencia (1439) intentaron la unión, pero sin éxito duradero. El papa [[pablo_vi|Pablo VI]] levantó mutuamente las excomuniones de 1054 el 7 de diciembre de 1965, al final del Concilio Vaticano II, como gesto ecuménico. San [[juan_pablo_ii|Juan Pablo II]] profundizó el diálogo con el patriarca ecuménico Bartolomé I, y en 2001 celebraron juntos la liturgia en Estambul. Sin embargo, la plena comunión no se ha restaurado.
+El concilio de Lyon II (1274) y el concilio de Florencia (1439) intentaron la unión, pero sin éxito duradero. El papa [[san_pablo_vi|Pablo VI]] levantó mutuamente las excomuniones de 1054 el 7 de diciembre de 1965, al final del Concilio Vaticano II, como gesto ecuménico. San [[juan_pablo_ii|Juan Pablo II]] profundizó el diálogo con el patriarca ecuménico Bartolomé I, y en 2001 celebraron juntos la liturgia en Estambul. Sin embargo, la plena comunión no se ha restaurado.
 
 ## Distinciones importantes
 

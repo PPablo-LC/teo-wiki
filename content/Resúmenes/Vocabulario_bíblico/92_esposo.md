@@ -18,8 +18,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[alianza]] — la alianza adopta un carácter nupcial
 - [[matrimonio]] — el artículo que expone el hogar humano
 - [[misericordia]] — la misericordia sobre la infidelidad del pueblo
-- [[idolos]] — la idolatría como prostitución
-- [[parabola]] — el Cantar de los Cantares tratado como parábola
+- [[ídolos]] — la idolatría como prostitución
+- [[parábola]] — el Cantar de los Cantares tratado como parábola
 - [[cordero_de_dios]] — el Apocalipsis llama a Jerusalén esposa del cordero
 - [[mujer]] — las dos mujeres, símbolo de las dos ciudades espirituales
 - [[madre]] — la esposa es madre de los hijos de Dios
@@ -31,7 +31,7 @@ El nombre de esposo es uno de los que se da Dios *Is 54,5* y que expresa su [[am
 
 ### AT
 
-Dios no se revela solamente en su [[nombre]] misterioso *Ex 3,14s*; otros nombres tomados de la vida cotidiana lo dan a conocer en sus relaciones con su pueblo: es su [[pastor_y_rebano|pastor]], su [[padres_y_padre|padre]], como también su esposo. No se trata de un mito como en la religión cananea, donde el dios esposo fecunda la tierra de la que es el Baal, con ritos sexuales y prostitución sagrada; estos ritos aparecen ligados a la [[idolos|idolatría]], que el Dios celoso llama prostitución *Ex 34,15s* *Is 1,21*. El Dios de Israel es esposo, no de su tierra, sino de su pueblo; el amor que los une tiene una historia. Las atenciones gratuitas de Dios y el triunfo de su [[misericordia]] sobre la infidelidad de su pueblo son temas proféticos, que aparecen primero en Oseas.
+Dios no se revela solamente en su [[nombre]] misterioso *Ex 3,14s*; otros nombres tomados de la vida cotidiana lo dan a conocer en sus relaciones con su pueblo: es su [[pastor_y_rebaño|pastor]], su [[padres_y_padre|padre]], como también su esposo. No se trata de un mito como en la religión cananea, donde el dios esposo fecunda la tierra de la que es el Baal, con ritos sexuales y prostitución sagrada; estos ritos aparecen ligados a la [[ídolos|idolatría]], que el Dios celoso llama prostitución *Ex 34,15s* *Is 1,21*. El Dios de Israel es esposo, no de su tierra, sino de su pueblo; el amor que los une tiene una historia. Las atenciones gratuitas de Dios y el triunfo de su [[misericordia]] sobre la infidelidad de su pueblo son temas proféticos, que aparecen primero en Oseas.
 
 #### La experiencia de Oseas: la esposa amada e infiel.
 
@@ -39,11 +39,11 @@ Oseas toma por esposa a una mujer amada que el abandona para entregarse a la pro
 
 #### El mensaje profético: el esposo amante y fiel.
 
-Jeremías reasume el simbolismo nupcial para oponer la traición y corrupción de Israel al amor eterno de Dios: «Recuerdo el afecto de tu juventud, el amor de tus desposorios» *Jer 2,2*; «con amor eterno te he amado, y así te he mantenido mi favor» *31,3*. Las imágenes de Ezequiel representan a Israel como a una niña abandonada que su salvador toma por esposa y que se prostituye; pero él restablecerá la alianza *Ez 16,1-43.59-63* *23*. El libro de la Consolación halla los acentos más impresionantes: «Tu esposo es tu creador... con amor eterno me apiado de ti» *Is 54,4-8*. El amor del esposo, gratuito y fiel, transformará a la infiel en una esposa virginal *61,10* *62,4s*. En cuanto al Cantar de los Cantares, sea que describan alegóricamente la historia de Israel o que canten el amor conyugal, nunca se identifica a Yahveh con el esposo; por legítima que sea una interpretación alegórica, parece preferible tratarlo como una [[parabola|parábola]]: se canta un amor fuerte como la muerte, imagen del amor celoso de Dios hacia su pueblo *Cant 8,6s*. Las nupcias del salmo 45 son las del rey mesías, preludio de la revelación de la filiación divina de Cristo *Sal 45,7s* *Heb 1,8*.
+Jeremías reasume el simbolismo nupcial para oponer la traición y corrupción de Israel al amor eterno de Dios: «Recuerdo el afecto de tu juventud, el amor de tus desposorios» *Jer 2,2*; «con amor eterno te he amado, y así te he mantenido mi favor» *31,3*. Las imágenes de Ezequiel representan a Israel como a una niña abandonada que su salvador toma por esposa y que se prostituye; pero él restablecerá la alianza *Ez 16,1-43.59-63* *23*. El libro de la Consolación halla los acentos más impresionantes: «Tu esposo es tu creador... con amor eterno me apiado de ti» *Is 54,4-8*. El amor del esposo, gratuito y fiel, transformará a la infiel en una esposa virginal *61,10* *62,4s*. En cuanto al Cantar de los Cantares, sea que describan alegóricamente la historia de Israel o que canten el amor conyugal, nunca se identifica a Yahveh con el esposo; por legítima que sea una interpretación alegórica, parece preferible tratarlo como una [[parábola|parábola]]: se canta un amor fuerte como la muerte, imagen del amor celoso de Dios hacia su pueblo *Cant 8,6s*. Las nupcias del salmo 45 son las del rey mesías, preludio de la revelación de la filiación divina de Cristo *Sal 45,7s* *Heb 1,8*.
 
 #### Sabiduría y unión con Dios.
 
-La meditación de los sabios subraya el carácter personal e interior de la unión realizada por el amor divino. Dios comunica a su fiel una [[sabiduria|sabiduría]] que es su hija *Prov 8,22* y que se comporta con el hombre como una esposa *Eclo 15,2*. El libro de la Sabiduría reasume la imagen: adquirir la sabiduría es ser amigo de Dios *Sab 7,14*; como esposa que sólo Dios puede dar *8,21*, hace inmortal al que está unido con ella. Enviada de Dios, como el Espíritu Santo *9,17*, es un don espiritual que redondea en nosotros la obra de Dios y engendra virtudes *8,6s*. Así se prepara la revelación del misterio que consumará la unión del hombre con Dios: la encarnación del que es la sabiduría de Dios y sus nupcias con la Iglesia, su esposa.
+La meditación de los sabios subraya el carácter personal e interior de la unión realizada por el amor divino. Dios comunica a su fiel una [[sabiduría|sabiduría]] que es su hija *Prov 8,22* y que se comporta con el hombre como una esposa *Eclo 15,2*. El libro de la Sabiduría reasume la imagen: adquirir la sabiduría es ser amigo de Dios *Sab 7,14*; como esposa que sólo Dios puede dar *8,21*, hace inmortal al que está unido con ella. Enviada de Dios, como el Espíritu Santo *9,17*, es un don espiritual que redondea en nosotros la obra de Dios y engendra virtudes *8,6s*. Así se prepara la revelación del misterio que consumará la unión del hombre con Dios: la encarnación del que es la sabiduría de Dios y sus nupcias con la Iglesia, su esposa.
 
 ### NT
 
@@ -53,13 +53,13 @@ La sabiduría aparece en la carne: es Cristo, sabiduría de Dios *1Cor 1,24*; en
 
 #### La Iglesia, esposa de la nueva alianza.
 
-La [[Jerusalén]] llamada a la alianza con el Hijo de Dios no es ya la sierva antigua, sino la mujer libre, la Jerusalén de lo alto *Gal 4,22-27*. Desde la venida del esposo, al que rindió testimonio el Precursor, su amigo *Jn 3,29*, la humanidad está representada por dos [[mujer|mujeres]]: la «prostituida», tipo de la Babilonia idólatra *Ap 17,1.7*, y la esposa del cordero, tipo de la Jerusalén santa que viene del cielo *Ap 21,2.9s*. Esta mujer es la [[madre]] de los hijos de Dios, que el cordero libra del dragón por la virtud de su sangre *12,1s.11.17*. La esposa de Cristo no es únicamente el conjunto de los elegidos: es su madre, por la cual y en la cual cada uno ha nacido; son santificados por la gracia de Cristo su esposo *2Cor 11,2*, unidos para siempre con el cordero *Ap 14,4*.
+La [[jerusalén]] llamada a la alianza con el Hijo de Dios no es ya la sierva antigua, sino la mujer libre, la Jerusalén de lo alto *Gal 4,22-27*. Desde la venida del esposo, al que rindió testimonio el Precursor, su amigo *Jn 3,29*, la humanidad está representada por dos [[mujer|mujeres]]: la «prostituida», tipo de la Babilonia idólatra *Ap 17,1.7*, y la esposa del cordero, tipo de la Jerusalén santa que viene del cielo *Ap 21,2.9s*. Esta mujer es la [[madre]] de los hijos de Dios, que el cordero libra del dragón por la virtud de su sangre *12,1s.11.17*. La esposa de Cristo no es únicamente el conjunto de los elegidos: es su madre, por la cual y en la cual cada uno ha nacido; son santificados por la gracia de Cristo su esposo *2Cor 11,2*, unidos para siempre con el cordero *Ap 14,4*.
 
 #### Las nupcias eternas.
 
 Las nupcias del cordero y de la esposa comportan diversas etapas, por el hecho de que la Iglesia es a la vez la madre de los elegidos y la ciudad que los reúne.
 
-a. La primera etapa, el tiempo de la venida de Cristo *Mt 9,15 p*, se acaba a la hora en que Cristo, nuevo [[Adán]], santifica en la cruz a la nueva Eva, simbolizada por el [[agua]] y la [[sangre]] de los sacramentos *Jn 19,34* *1Jn 5,6*. El amor del esposo a su esposa es modelo de las nupcias cristianas *Ef 5,25-32*.
+a. La primera etapa, el tiempo de la venida de Cristo *Mt 9,15 p*, se acaba a la hora en que Cristo, nuevo [[adán]], santifica en la cruz a la nueva Eva, simbolizada por el [[agua]] y la [[sangre]] de los sacramentos *Jn 19,34* *1Jn 5,6*. El amor del esposo a su esposa es modelo de las nupcias cristianas *Ef 5,25-32*.
 
 b. A estas nupcias invita Cristo a los hombres *Mt 22,1-10*; no basta responder a la invitación, hay que vestirse el [[vestido]] nupcial *22,11ss*. La invitación resuena a lo largo del tiempo de la Iglesia y exige [[velar|vigilancia]], a fin de que el esposo halle dispuestas a las vírgenes invitadas al banquete *25,1-13*.
 

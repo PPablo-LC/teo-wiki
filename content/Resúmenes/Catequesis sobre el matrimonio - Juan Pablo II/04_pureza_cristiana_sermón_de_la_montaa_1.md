@@ -26,13 +26,13 @@ tags: ["resumen", "catequesis sobre el matrimonio - juan pablo ii"]
 - [[inocencia_original]] — referencia constante frente al «hombre histórico» de la concupiscencia.
 - [[don_de_sí]] — llamado perenne del hombre y la mujer a la comunión mediante el don recíproco.
 - [[matrimonio]] — alianza interpersonal monogámica; el adulterio como su antítesis.
-- [[pureza_del_corazón]] — bien prometido por Cristo a los «limpios de corazón»; objetivo del nuevo ethos.
+- [[pureza_del_corazon]] — bien prometido por Cristo a los «limpios de corazón»; objetivo del nuevo ethos.
 
 ## Contenido
 
 ### 16-04-80 · Cristo apela al corazón del hombre: adulterio, conciencia y pureza interior
 
-Tras analizar Gn 2,24 («principio»), Juan Pablo II toma la segunda clave de la [[teología_del_cuerpo]]: Mt 5,27-28. En el Sermón de la Montaña Cristo repite el Decálogo (5º, 6º, 8º mandamientos) con la fórmula «pero yo os digo», presentándose como consumador de la Ley (Mt 5,17) y exigiendo una justicia que sobreabunde respecto de la de los escribas y fariseos. No se trata solo de moral objetiva, sino de la percepción interior de los valores: el «adulterio cometido en el corazón» es apelación directa al hombre interior y anuncio de la [[pureza_del_corazón]] como bien prometido.
+Tras analizar Gn 2,24 («principio»), Juan Pablo II toma la segunda clave de la [[teología_del_cuerpo]]: Mt 5,27-28. En el Sermón de la Montaña Cristo repite el Decálogo (5º, 6º, 8º mandamientos) con la fórmula «pero yo os digo», presentándose como consumador de la Ley (Mt 5,17) y exigiendo una justicia que sobreabunde respecto de la de los escribas y fariseos. No se trata solo de moral objetiva, sino de la percepción interior de los valores: el «adulterio cometido en el corazón» es apelación directa al hombre interior y anuncio de la [[pureza_del_corazon]] como bien prometido.
 
 ### 23-04-80 · «No cometerás adulterio». Significado del cuerpo desde el «principio»
 

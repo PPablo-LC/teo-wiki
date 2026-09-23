@@ -17,39 +17,39 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[voluntad_de_dios]] — el designio conforme a la voluntad de Dios
 - [[misterio]] — el misterio de la voluntad de Dios
 - [[tiempo]] — la plenitud de los tiempos
-- [[revelacion]] — la revelación del AT esbozando el designio
+- [[revelación]] — la revelación del AT esbozando el designio
 - [[palabra_de_dios]] — la palabra de Dios aporta su revelación a través de los hechos
-- [[eleccion]] — la elección de los antepasados
+- [[elección]] — la elección de los antepasados
 - [[promesas]] — la promesa de posteridad y de tierra
 - [[cumplir]] — el cumplimiento de la promesa
-- [[exodo]] — el éxodo en el designio de Dios
+- [[éxodo]] — el éxodo en el designio de Dios
 - [[alianza]] — la alianza del Sinaí
 - [[ley]] — el don de la ley
 - [[voluntad_de_dios]] — la voluntad de beneplácito
 - [[ira]] — la ira de Dios contra pueblos culpables
-- [[salvacion]] — la salvación como término del designio
+- [[salvación]] — la salvación como término del designio
 - [[naciones]] — la salvación de todas las naciones
 - [[figura]] — los acontecimientos que prefiguraban
-- [[redencion]] — la redención de los pecados
+- [[redención]] — la redención de los pecados
 - [[fe]] — la fe que unifica la historia
 - [[escritura]] — las Escrituras como cifra del designio
 - [[reino_de_dios]] — el reino de Dios como venida de los imperios
-- [[parabola]] — las parábolas que revelan los misterios del reino
+- [[parábola]] — las parábolas que revelan los misterios del reino
 - [[viña]] — la viña del reino
 - [[bodas]] — el festín de las bodas escatológicas
 - [[houra]] — la hora de Jesús
 - [[cruz]] — la cruz en el designio de Dios
-- [[jesus]] — Jesucristo, centro del designio
+- [[jesús]] — Jesucristo, centro del designio
 - [[iglesia]] — la Iglesia, institución visible del reino
 - [[nombre]] — el nombre de Jesús
-- [[mesias]] — el Mesías, objeto del escándalo
+- [[mesías]] — el Mesías, objeto del escándalo
 - [[hijo]] — el Hijo del hombre
 - [[endurecimiento]] — el endurecimiento de Israel
 - [[misericordia]] — la misericordia con todos
 - [[unidad]] — la unidad de los hombres en Cristo
 - [[resto]] — el resto de Israel
 - [[anticristo]] — las seducciones del anticristo
-- [[persecucion]] — las persecuciones
+- [[persecución]] — las persecuciones
 - [[juicio]] — el juicio final
 
 ## Contenido

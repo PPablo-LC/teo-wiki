@@ -54,7 +54,7 @@ La **barca de Cristo** es una imagen eclesial tomada de la tempestad calmada (Mc
 - [[regnum_christi]]
 - [[cristo]]
 - [[providencia]]
-- [[maria]]
+- [[maría]]
 - [[tempestad_calmada]]
 - [[historia_de_la_legión]]
 - [[confianza_providenzial]]

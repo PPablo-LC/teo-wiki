@@ -17,7 +17,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[pureza]] — la purificación ritual del leproso
 - [[pecado]] — la lepra como signo del pecado
 - [[enfermedad_y_curación]] — las enfermedades que Jesús toma sobre sí
-- [[espiritu]] — la unción del profeta
+- [[espíritu]] — la unción del profeta
 - [[reino_de_dios]] — el reino de Dios presente
 - [[evangelio]] — la misión de los doce
 

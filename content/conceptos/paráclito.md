@@ -33,7 +33,7 @@ El VocTeoBib destaca tres funciones del Paráclito. Primera: es la presencia de 
 
 ## Relaciones doctrinales
 
-[[espíritu_santo]], [[verdad]], [[jesus]], [[iglesia]], [[testimonio]]
+[[espíritu_santo]], [[verdad]], [[jesús]], [[iglesia]], [[testimonio]]
 
 ## Ver también
 

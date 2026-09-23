@@ -44,7 +44,7 @@ Juan Pablo II, citando a San Agustín, presenta los milagros de Cristo como «ob
 
 ## Relaciones doctrinales
 
-Se relaciona con [[naturaleza_y_gracia]], [[gracia_santificante]], [[organismo_sobrenatural]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[sobrenatural]], [[justificación]] y [[gloria_de_Dios]].
+Se relaciona con [[naturaleza_y_gracia]], [[gracia_santificante]], [[organismo_sobrenatural]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[sobrenatural]], [[justificación]] y [[gloria_de_dios]].
 
 ## Ver también
 

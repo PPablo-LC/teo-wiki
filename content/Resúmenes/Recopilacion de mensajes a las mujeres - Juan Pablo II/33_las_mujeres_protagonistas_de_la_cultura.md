@@ -24,7 +24,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 #### (Ángelus 06-08-95)
 
-El Papa introduce la reflexión con un pensamiento del Siervo de Dios [[san_pablo_VI]], que murió en Castelgandolfo hace 17 años. En 1970, hablando de [[María_Montessori]], hacía notar que el secreto de su éxito se debía buscar en su alma, en aquella sensibilidad espiritual y femenina que le permitió el descubrimiento vital del niño y la impulsó a construir un modelo educativo original.
+El Papa introduce la reflexión con un pensamiento del Siervo de Dios [[san_pablo_vi]], que murió en Castelgandolfo hace 17 años. En 1970, hablando de [[María_Montessori]], hacía notar que el secreto de su éxito se debía buscar en su alma, en aquella sensibilidad espiritual y femenina que le permitió el descubrimiento vital del niño y la impulsó a construir un modelo educativo original.
 
 El nombre de María Montessori representa a las numerosas mujeres que han dado importantes contribuciones al progreso de la cultura. Contemplando con objetividad la realidad histórica, es preciso constatar con tristeza que, también en este nivel, las mujeres han sufrido una marginación constante. Durante demasiado tiempo se les ha negado o limitado la posibilidad de expresarse fuera de la familia.
 

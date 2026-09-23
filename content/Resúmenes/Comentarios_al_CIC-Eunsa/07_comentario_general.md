@@ -19,7 +19,7 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "derecho_penal_canónico", "p
 - [[latae_sententiae]] — Penas que se incurren ipso facto por la comisión del delito
 - [[ferendae_sententiae]] — Penas que deben ser impuestas por autoridad competente
 - [[imputabilidad]] — Capacidad de ser responsable de las propias acciones
-- [[Concilio_Vaticano_II]] — Concilio que renovó el derecho penal de la Iglesia
+- [[concilio_vaticano_ii]] — Concilio que renovó el derecho penal de la Iglesia
 
 ## Comentario General
 

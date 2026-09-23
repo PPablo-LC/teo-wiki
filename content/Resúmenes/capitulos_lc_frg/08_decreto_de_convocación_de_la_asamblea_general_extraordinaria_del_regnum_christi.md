@@ -13,18 +13,18 @@ tags: ["resumen", "capitulos lc frg"]
 ## Conceptos básicos referenciados
 
 - [[asamblea_general_regnum_christi]]
-- [[Regnum_Christi]]
-- [[Federación_Regnum_Christi]]
-- [[Legionarios_de_Cristo]]
-- [[Consagradas_del_Regnum_Christi]]
-- [[Laicos_Consagrados_del_Regnum_Christi]]
+- [[regnum_christi]]
+- [[federación_regnum_christi]]
+- [[legionarios_de_cristo]]
+- [[consagradas_del_regnum_christi]]
+- [[laicos_consagrados_del_regnum_christi]]
 
 
 ## Contenido
 
 📄 **Fuente original:** `08_decreto_de_convocación_de_la_asamblea_general_extraordinaria.md`
 
-Decreto del director general del [[Regnum_Christi]], P. Eduardo Robles-Gil (Prot. DG-RC 792-2017, 2 de febrero de 2018, Fiesta de la Presentación del Señor), que convoca la [[asamblea_general_regnum_christi]] en Roma en dos fases: del 9 al 18 de abril de 2018 y del 27 de noviembre al 5 de diciembre de 2018.
+Decreto del director general del [[regnum_christi]], P. Eduardo Robles-Gil (Prot. DG-RC 792-2017, 2 de febrero de 2018, Fiesta de la Presentación del Señor), que convoca la [[asamblea_general_regnum_christi]] en Roma en dos fases: del 9 al 18 de abril de 2018 y del 27 de noviembre al 5 de diciembre de 2018.
 
 **Composición de la Asamblea** (§ 2):
 - **Participantes por oficio**: director general, moderadores generales y primeros consejeros generales de las ramas consagradas, miembros del Comité Directivo General, administrador general, secretario general y directores territoriales.

@@ -14,9 +14,9 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[creacion]] — los animales como parte de la naturaleza creada por Dios
+- [[creación]] — los animales como parte de la naturaleza creada por Dios
 - [[cordero_de_dios]] — el cordero como representación de Cristo
-- [[espiritu]] — la paloma como símbolo del Espíritu Santo
+- [[espíritu]] — la paloma como símbolo del Espíritu Santo
 - [[muerte]] — el destino común del hombre y el animal a partir del polvo
 - [[pureza]] — la división de animales en puros e impuros
 - [[sacrificio]] — los animales como materia de los sacrificios del AT

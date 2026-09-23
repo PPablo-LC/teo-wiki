@@ -139,7 +139,7 @@ El abad imita al buen Pastor: enviando a los «senpectas» (ancianos prudentes) 
 
 Las *Normae de gravioribus delictis* (SST-2010) establecen en el **art. 5** la excomunión *latae sententiae* reservada a la Sede Apostólica para el delito de atentada ordenación sagrada de una mujer:
 
-- **Art. 5 n.1**: Quien atente conferir el orden sagrado a una mujer, así como la mujer que atente recibir el orden sagrado, incurre en [[excomunión]] *latae sententiae* reservada a la Sede Apostólica (para la Iglesia latina).
+- **Art. 5 n.1**: Quien atente conferir el orden sagrado a una mujer, así como la mujer que atente recibir el orden sagrado, incurre en **excomunión** *latae sententiae* reservada a la Sede Apostólica (para la Iglesia latina).
 - **Art. 5 n.2**: Para los fieles cristianos sujetos al CCEO, la pena es la excomunión mayor, cuya remisión se reserva también a la Sede Apostólica.
 - **Art. 5 n.3**: Si el reo es un clérigo, puede ser castigado además con la [[dimisión_del_estado_clerical]] o la [[deposición]].
 

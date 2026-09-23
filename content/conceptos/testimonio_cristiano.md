@@ -41,7 +41,7 @@ El apostolado es exigencia de la catolicidad de la Iglesia y la vocación cristi
 
 ### Según EAC-18 — Word on Fire Institute
 
-El bloque «Emmaus» del fascículo presenta el [[testimonio_cristiano]] en su forma narrativa: la adoración eucarística de la parroquia de Phoenix, la fe familiar de los Jumbam en Camerún y la Eucaristía diaria de los nuevos conversos — cada vida es un relato de la [[gracia_divina]] que se ofrece a los demás [EAC-18, 09_spotlight_stories.md].
+El bloque «Emmaus» del fascículo presenta el **testimonio cristiano** en su forma narrativa: la adoración eucarística de la parroquia de Phoenix, la fe familiar de los Jumbam en Camerún y la Eucaristía diaria de los nuevos conversos — cada vida es un relato de la [[gracia_divina]] que se ofrece a los demás [EAC-18, 09_spotlight_stories.md].
 
 Fernanda Psihas, misionera en la sección «Mission», resume el testimonio con una fórmula sencilla: «ser yo misma ya es evangelizar». En medio de rechazos e incomprensiones, descubrió que la presencia fiel y humilde muestra a Cristo más que cualquier discurso [EAC-18, 20_mission_psihas.md].
 

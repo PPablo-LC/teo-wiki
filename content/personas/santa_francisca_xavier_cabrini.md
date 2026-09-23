@@ -23,6 +23,21 @@ Juan Pablo II la presentó como modelo de mujer educadora para la paz. Su obra e
 
 [[mujer]], [[emigración]], [[paz]], [[caridad]], [[providencia_divina]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. III: en su época había «catorce millones
+de inmigrantes italianos, un pueblo anónimo de "esclavos blancos",
+amontonados en colmenas humanas… sin escuelas, sin hospitales, sin
+iglesias». Llegó a Nueva York en 1889 con siete compañeras; en
+«treinta y siete años de actividad puso en marcha cerca de sesenta y
+siete institutos educativos u hospitales», cruzando decenas de veces el
+Atlántico. Decía: «¡El mundo es demasiado pequeño! ¡Quisiera abrazarlo
+entero!». A sus misioneras: «Jesús es para nosotras una bendita
+necesidad». En un diario de juventud había escrito: «Deseo morir de amor
+después de una vida de total entrega… Si tuviese los medios, construiría
+una nave y la llamaría *Cristoforo*, el que porta a Cristo».
+
 ## Referencias
 
 - [JPII, Muj 23: Santa Francisca Xavier Cabrini, Ángelus 19-II-1995]
+- A. M. Sicari, *Así mueren los santos*, cap. III (Rialp, 2020)

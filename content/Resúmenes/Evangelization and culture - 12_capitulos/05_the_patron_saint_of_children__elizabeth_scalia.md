@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization_and_culture_12", "san_nicolás", "intercesión
 - [[san_nicolás_de_mira]] — obispo del s. IV, "Taumaturgo" en Oriente, patrono de niños, marineros, prestamistas, etc.
 - [[intercesión_de_los_santos]] — petición de oración a los santos como amigos y ayudantes espirituales
 - [[autismo]] — diagnóstico de "autismo severo", pronóstico de no verbal y dependencia vitalicia
-- [[oración_perseverante]] — "perseverando en la oración" (Rom 12,12), años de súplica
+- [[oracion_perseverante]] — "perseverando en la oración" (Rom 12,12), años de súplica
 - [[comunión_de_los_santos]] — nube de testigos que interceden (Hb 12,1)
 - [[milagro]] — vida transformada más allá de expectativas médicas
 - [[vocación]] — del patrono de la infancia a patrono de artesanos/mecánicos (San Eligio, Santa Catalina de Alejandría)

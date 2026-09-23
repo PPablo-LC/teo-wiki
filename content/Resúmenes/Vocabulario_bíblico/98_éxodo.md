@@ -14,14 +14,14 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[salvacion]] — el éxodo como prenda de salvación
+- [[salvación]] — el éxodo como prenda de salvación
 - [[cautividad]] — la liberación de la cautividad de Egipto
 - [[desierto]] — la peregrinación por el desierto
 - [[nacimiento_nuevo]] — el nacimiento del pueblo de Dios
 - [[padres_y_padre]] — Dios padre de Israel
-- [[redencion]] — la redención prefigurada por el éxodo
+- [[redención]] — la redención prefigurada por el éxodo
 - [[cordero_de_dios]] — Jesús, verdadero cordero pascual
-- [[moises]] — Jesús, nuevo Moisés
+- [[moisés]] — Jesús, nuevo Moisés
 - [[pascua]] — el paso de este mundo al Padre
 - [[maná]] — el pan vivo bajado del cielo
 
@@ -33,19 +33,19 @@ La palabra griega *exodos* significa «camino de salida»; de ahí «partida». 
 
 #### El primer éxodo.
 
-El éxodo marcó el verdadero [[nacimiento_nuevo|nacimiento]] del pueblo de Dios, efectuado en la [[sangre]] *Ez 16,4-7*. Entonces engendró Dios a Israel *Dt 32,5-10* y vino a ser para él un [[padres_y_padre|padre]] lleno de amor y solicitud *Os 11,1* *Jer 31,9* *Is 63,16* *64,7*. Signo del amor divino, el éxodo es prenda de [[salvacion|salvación]]: Dios, que libró una vez a su pueblo de la [[cautividad]] de Egipto, lo salvará en el peligro asirio *Is 10,25ss* *Miq 7,14s* o babilónico *Jer 16,14s* *Is 63-64* *Sal 107,31-35* *Sab 19*. A esta solicitud divina no respondió Israel sino con ingratitud *Am 2,10* *Miq 6,3ss* *Jer 2,1-8* *Dt 32* *Sal 106*.
+El éxodo marcó el verdadero [[nacimiento_nuevo|nacimiento]] del pueblo de Dios, efectuado en la [[sangre]] *Ez 16,4-7*. Entonces engendró Dios a Israel *Dt 32,5-10* y vino a ser para él un [[padres_y_padre|padre]] lleno de amor y solicitud *Os 11,1* *Jer 31,9* *Is 63,16* *64,7*. Signo del amor divino, el éxodo es prenda de [[salvación|salvación]]: Dios, que libró una vez a su pueblo de la [[cautividad]] de Egipto, lo salvará en el peligro asirio *Is 10,25ss* *Miq 7,14s* o babilónico *Jer 16,14s* *Is 63-64* *Sal 107,31-35* *Sab 19*. A esta solicitud divina no respondió Israel sino con ingratitud *Am 2,10* *Miq 6,3ss* *Jer 2,1-8* *Dt 32* *Sal 106*.
 
 #### El nuevo éxodo.
 
-Al pueblo nuevamente cautivo en Babilonia se le anuncia la liberación como una renovación del éxodo. De nuevo va Dios a [[redencion|rescatar]] a su pueblo *Is 63,16*; que los lisiados y débiles recobren fuerzas *Is 35,3-6* *40,1* *41,10* *42,7-16* *Sof 3,18ss*. Se trazará un [[camino]] en el desierto *Is 35,8ss* *40,3* *43,19* *49,11* *11,16*; Dios hará brotar el agua como en Meriba *Is 35,6s* *41,18* *43,20* *44,3* *48,21* *Ex 17,1-7* y el desierto se convertirá en vergel *Is 35,7* *41,19*. El Éufrates, como en otro tiempo el mar Rojo, se dividirá *Is 11,15s* *43,16s* *51,10*, a la caravana del nuevo éxodo la llevará Dios sobre sus alas *Is 46,3s* *63,9* *Ex 19,4* *Dt 32,11* y su guía será él mismo *Is 52,12* *Ex 14,19*.
+Al pueblo nuevamente cautivo en Babilonia se le anuncia la liberación como una renovación del éxodo. De nuevo va Dios a [[redención|rescatar]] a su pueblo *Is 63,16*; que los lisiados y débiles recobren fuerzas *Is 35,3-6* *40,1* *41,10* *42,7-16* *Sof 3,18ss*. Se trazará un [[camino]] en el desierto *Is 35,8ss* *40,3* *43,19* *49,11* *11,16*; Dios hará brotar el agua como en Meriba *Is 35,6s* *41,18* *43,20* *44,3* *48,21* *Ex 17,1-7* y el desierto se convertirá en vergel *Is 35,7* *41,19*. El Éufrates, como en otro tiempo el mar Rojo, se dividirá *Is 11,15s* *43,16s* *51,10*, a la caravana del nuevo éxodo la llevará Dios sobre sus alas *Is 46,3s* *63,9* *Ex 19,4* *Dt 32,11* y su guía será él mismo *Is 52,12* *Ex 14,19*.
 
 ### NT
 
-La tradición apostólica, viendo en [[juan_bautista|Juan]] Bautista «la voz de aquel que clama: En el desierto preparad el camino del Señor» *Mt 3,3 p* *Is 40,3*, afirmó que la obra de [[redencion|redención]] efectuada por Cristo era el cumplimiento del misterio de salvación prefigurado por el éxodo; consideró a Jesús como el nuevo [[moises|Moisés]] anunciado por *Dt 18,18* *Act 3,15.22* *5,31* *7,35ss*.
+La tradición apostólica, viendo en [[juan_bautista|Juan]] Bautista «la voz de aquel que clama: En el desierto preparad el camino del Señor» *Mt 3,3 p* *Is 40,3*, afirmó que la obra de [[redención|redención]] efectuada por Cristo era el cumplimiento del misterio de salvación prefigurado por el éxodo; consideró a Jesús como el nuevo [[moisés|Moisés]] anunciado por *Dt 18,18* *Act 3,15.22* *5,31* *7,35ss*.
 
 #### 1. San Pablo.
 
-San Pablo se limita a rozar el tema: Jesús es el verdadero [[cordero_de_dios|cordero]] pascual inmolado por nosotros *1Cor 5,7*, y los prodigios del éxodo (paso del mar Rojo, [[mana|maná]], [[roca]]) fueron las [[figura|figuras]] de las realidades espirituales aportadas por Cristo *1Cor 10,1-6*.
+San Pablo se limita a rozar el tema: Jesús es el verdadero [[cordero_de_dios|cordero]] pascual inmolado por nosotros *1Cor 5,7*, y los prodigios del éxodo (paso del mar Rojo, [[maná|maná]], [[roca]]) fueron las [[figura|figuras]] de las realidades espirituales aportadas por Cristo *1Cor 10,1-6*.
 
 #### 2. San Pedro.
 

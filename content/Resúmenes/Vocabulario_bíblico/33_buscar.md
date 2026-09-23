@@ -27,12 +27,12 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sencillo]] — la simplicidad del corazón como condición de la búsqueda
 - [[humildad]] — la humildad como condición de la búsqueda
 - [[pobres]] — la pobreza como condición de la búsqueda
-- [[corazon]] — el corazón como sede de la búsqueda auténtica
+- [[corazón]] — el corazón como sede de la búsqueda auténtica
 - [[voluntad_de_dios]] — la voluntad de Dios sobre la voluntad propia
 - [[fe]] — dejarse alcanzar por Cristo en la fe
 - [[gracia]] — la iniciativa de la gracia divina
-- [[salvacion]] — el Hijo venido a buscar y salvar lo perdido
-- [[pastor_y_rebano]] — Dios como pastor que busca a la oveja perdida
+- [[salvación]] — el Hijo venido a buscar y salvar lo perdido
+- [[pastor_y_rebaño]] — Dios como pastor que busca a la oveja perdida
 
 ## Contenido
 

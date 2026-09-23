@@ -31,7 +31,7 @@ Los cánones 224-231 regulan las obligaciones y derechos de los fieles laicos. S
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium dedica el capítulo IV a los [[laicos]]. Con el nombre de laicos se designan «todos los fieles cristianos, a excepción de los miembros del orden sagrado y los del estado religioso aprobado por la Iglesia» [ConcVatII, LG §31]. «El carácter secular es propio y peculiar de los laicos» [ConcVatII, LG §31]. A ellos corresponde, por propia vocación, «tratar de obtener el reino de Dios gestionando los asuntos temporales y ordenándolos según Dios» [ConcVatII, LG §31].
+Lumen Gentium dedica el capítulo IV a los **laicos**. Con el nombre de laicos se designan «todos los fieles cristianos, a excepción de los miembros del orden sagrado y los del estado religioso aprobado por la Iglesia» [ConcVatII, LG §31]. «El carácter secular es propio y peculiar de los laicos» [ConcVatII, LG §31]. A ellos corresponde, por propia vocación, «tratar de obtener el reino de Dios gestionando los asuntos temporales y ordenándolos según Dios» [ConcVatII, LG §31].
 
 Existe una auténtica igualdad entre todos en cuanto a la dignidad y a la acción común en orden a la edificación del Cuerpo de Cristo [ConcVatII, LG §32]. El apostolado de los laicos es «participación en la misma misión salvífica de la Iglesia», al que todos están destinados por el Señor en virtud del [[bautismo]] y de la [[confirmación]] [ConcVatII, LG §33].
 

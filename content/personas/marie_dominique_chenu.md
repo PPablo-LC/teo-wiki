@@ -27,7 +27,7 @@ En *Peripheries* (23_peripheries_paone.md), Jason C. Paone presenta a Chenu junt
 
 ## Relaciones doctrinales
 
-[[ressourcement]], [[henri_de_lubac]], [[yves_congar]], [[jean_danielou]], [[concílio_vaticano_ii]], [[teología]], [[coraje]]
+[[ressourcement]], [[henri_de_lubac]], [[yves_congar]], [[jean_danielou]], [[concilio_vaticano_ii]], [[teología]], [[coraje]]
 
 ## Ver también
 

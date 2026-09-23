@@ -55,11 +55,11 @@ La encomienda fue la institución colonial que otorgaba a un conquistador (*enco
 
 ## Relaciones doctrinales
 
-La conquista se relaciona con la [[evangelización_de_america]], la [[contrarreforma]], los [[derechos_humanos]], la [[guerra_justa]], la [[Compañía_de_Jesús]] y la [[escuela_de_salamanca]].
+La conquista se relaciona con la [[evangelizacion_de_america]], la [[contrarreforma]], los [[derechos_humanos]], la [[guerra_justa]], la [[compañía_de_jesús]] y la [[escuela_de_salamanca]].
 
 ## Ver también
 
-[[evangelización_de_america]], [[contrarreforma]], [Francisco de Vitoria], [Bartolomé de las Casas], [Hernán Cortés], [Francisco Pizarro], [Encomienda]
+[[evangelizacion_de_america]], [[contrarreforma]], [Francisco de Vitoria], [Bartolomé de las Casas], [Hernán Cortés], [Francisco Pizarro], [Encomienda]
 
 ## Referencias
 

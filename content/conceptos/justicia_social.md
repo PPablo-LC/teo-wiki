@@ -37,7 +37,7 @@ La justicia social representa un verdadero desarrollo de la justicia general, re
 
 ### Según el Compendio (CompDS)
 
-Los preceptos del año sabático y del año jubilar constituyen una doctrina social «in nuce» y muestran cómo los principios de la [[justicia_social]] y la [[solidaridad]] están inspirados por la gratuidad del evento de salvación realizado por Dios [CompDS §25]. Han de ser la referencia normativa a la que todas las generaciones deben conformarse.
+Los preceptos del año sabático y del año jubilar constituyen una doctrina social «in nuce» y muestran cómo los principios de la **justicia social** y la [[solidaridad]] están inspirados por la gratuidad del evento de salvación realizado por Dios [CompDS §25]. Han de ser la referencia normativa a la que todas las generaciones deben conformarse.
 
 El amor cristiano impulsa a la denuncia, a la propuesta y al compromiso con proyección cultural y social [CompDS §6]. La humanidad reclama una mayor justicia al afrontar el vasto fenómeno de la globalización, y siente la necesidad de salvaguardar la identidad nacional sin perder de vista la unidad de la familia humana [CompDS §3].
 

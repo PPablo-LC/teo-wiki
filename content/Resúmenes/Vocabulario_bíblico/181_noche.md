@@ -23,15 +23,15 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sombra]] — oscuridad y sombra espesa
 - [[resto]] — el resto de Israel
 - [[liberación_y_libertad]] — la liberación
-- [[resurreccion]] — la resurrección
-- [[sueno]] — el sueño de la muerte
-- [[creacion]] — una nueva creación
+- [[resurrección]] — la resurrección
+- [[sueño]] — el sueño de la muerte
+- [[creación]] — una nueva creación
 - [[hora]] — la hora de Jesús
-- [[escandalo]] — los discípulos escandalizados
+- [[escándalo]] — los discípulos escandalizados
 - [[gloria]] — la gloria de Cristo reflejada
 - [[vestido]] — revestirse de Cristo
-- [[lampara]] — lámpara en lugar oscuro
-- [[transfiguracion]] — la transfiguración
+- [[lámpara]] — lámpara en lugar oscuro
+- [[transfiguración]] — la transfiguración
 
 ## Contenido
 
@@ -49,15 +49,15 @@ Israel no cesó de soñar con el [[día_del_señor|día]] en que Yahveh lo liber
 
 ### En la noche de la prueba
 
-Sabios y salmistas trasladaron a la vida individual la experiencia del juicio divino que se opera en la noche y por la noche. Si practicas la justicia, «tu luz brotará como la aurora» *Is 58,8* *Sal 112,4*. Job se lamenta, sí, del día de su nacimiento, que hubiera debido quedar sepultado en la noche del seno materno *Job 3,7*. Pero el salmista da vueltas en su lecho en plena noche para llamar al Señor: la noche le pertenece *Sal 74,16* y él puede, por tanto, liberar al hombre como antaño en los tiempos del Éxodo *Sal 63,7* *77,3* *119,55*. «Mi alma te desea por la noche para que ejecutes tu juicio» *Is 26,9* *Sal 42,2*. Los apocalipsis, prolongando esta evocación de la salvación como una [[liberación_y_libertad|liberación]] de la prueba nocturna, describen la [[resurreccion|resurrección]] como un despertar después del [[sueno|sueño]] de la muerte *Is 26,19* *Dan 12,2*, una vuelta a la luz después de la inmersión en la noche total del *seol*.
+Sabios y salmistas trasladaron a la vida individual la experiencia del juicio divino que se opera en la noche y por la noche. Si practicas la justicia, «tu luz brotará como la aurora» *Is 58,8* *Sal 112,4*. Job se lamenta, sí, del día de su nacimiento, que hubiera debido quedar sepultado en la noche del seno materno *Job 3,7*. Pero el salmista da vueltas en su lecho en plena noche para llamar al Señor: la noche le pertenece *Sal 74,16* y él puede, por tanto, liberar al hombre como antaño en los tiempos del Éxodo *Sal 63,7* *77,3* *119,55*. «Mi alma te desea por la noche para que ejecutes tu juicio» *Is 26,9* *Sal 42,2*. Los apocalipsis, prolongando esta evocación de la salvación como una [[liberación_y_libertad|liberación]] de la prueba nocturna, describen la [[resurrección|resurrección]] como un despertar después del [[sueño|sueño]] de la muerte *Is 26,19* *Dan 12,2*, una vuelta a la luz después de la inmersión en la noche total del *seol*.
 
 ## NT
 
-El salmista decía a Dios: «La tiniebla no es tiniebla delante de ti, y la noche es luminosa como el día» *Sal 139,12*. Esta palabra debía realizarse en forma maravillosa, como una nueva [[creacion|creación]] operada por aquél que dijo: «¡Brote la luz de las tinieblas!» *2Cor 4,6*: con la [[resurreccion|resurrección]] de Cristo brotó el día de la noche, y esto para siempre.
+El salmista decía a Dios: «La tiniebla no es tiniebla delante de ti, y la noche es luminosa como el día» *Sal 139,12*. Esta palabra debía realizarse en forma maravillosa, como una nueva [[creación|creación]] operada por aquél que dijo: «¡Brote la luz de las tinieblas!» *2Cor 4,6*: con la [[resurrección|resurrección]] de Cristo brotó el día de la noche, y esto para siempre.
 
 ### La noche y el día de pascua
 
-Mientras era de día hacía Jesús irradiar la luz de sus obras *Jn 9,4*. Llegada la [[hora|hora]], se entrega a las asechanzas de la noche *11,10*, de esa noche en que se ha sumergido el traidor Judas *13,30*, en que sus discípulos van a [[escandalo|escandalizarse]] *Mt 26,31 p*; él ha querido afrontar esta «hora y el reino de las tinieblas» *Lc 22,53*. La liturgia primitiva conserva para siempre su recuerdo: «la noche en que fue entregado» fue cuando instituyó la Eucaristía *1Cor 11,23*. Y el día mismo de su muerte se convierte en tinieblas que cubren toda la tierra *Mt 27,45 p* *Act 2,20*=*Jl 3,4*.
+Mientras era de día hacía Jesús irradiar la luz de sus obras *Jn 9,4*. Llegada la [[hora|hora]], se entrega a las asechanzas de la noche *11,10*, de esa noche en que se ha sumergido el traidor Judas *13,30*, en que sus discípulos van a [[escándalo|escandalizarse]] *Mt 26,31 p*; él ha querido afrontar esta «hora y el reino de las tinieblas» *Lc 22,53*. La liturgia primitiva conserva para siempre su recuerdo: «la noche en que fue entregado» fue cuando instituyó la Eucaristía *1Cor 11,23*. Y el día mismo de su muerte se convierte en tinieblas que cubren toda la tierra *Mt 27,45 p* *Act 2,20*=*Jl 3,4*.
 
 Pero he aquí que «al despuntar el alba» irrumpe el relámpago de los ángeles *Mt 28,3* anunciando el triunfo de la vida y de la luz sobre las tinieblas de la noche. Esta aurora la habían conocido ya los discípulos cuando Jesús se había reunido con ellos caminando sobre las aguas enfurecidas «en la cuarta vigilia de la noche» *Mt 14,25*. Noche de liberación que todavía conocerán los apóstoles, milagrosamente libertados de su prisión en plena noche *Act 5,19* *12,6s* *16,25s*. Noche de luz para Pablo, cuyos ojos están sumidos en las tinieblas, para despertarlo a la [[luz|luz]] de la fe *Act 9,3.8.18*.
 
@@ -67,4 +67,4 @@ En adelante la vida del creyente reviste un sentido en función del día de pasc
 
 ### El día en medio de la noche
 
-Puesto que el cristiano ha sido «conducido de las tinieblas a la admirable luz» *Act 26,18* *1Pe 2,9*, no puede verse sorprendido por el [[día_del_señor|día]] del Señor, que viene como ladrón en la noche *1Tes 5,2.4*. Cierto que actualmente se halla todavía «en la noche», pero esta noche «avanza» hacia el día muy próximo que le pondrá fin *Rom 13,12*. Tiene ya en sí mismo la luz, pero aguarda una luz todavía más plena. Con Pedro, iluminado durante la noche en que se [[transfiguracion|transfiguró]] Cristo *Lc 9,29.37*, halla en las Escrituras una luz, como una [[lampara|lámpara]] que brilla en un lugar oscuro, hasta que comience a despuntar el día y salga en su corazón la estrella de la mañana *2Pe 1,19*. De este día que viene no reveló Jesús el momento exacto *Mc 13,35*, pero habrá identidad entre «ese día» y «esa noche» *Lc 17,31.34*. Cristo-esposo vendrá en medio de la noche *Mt 25,6*; como las vírgenes prudentes con las lámparas encendidas, dice la esposa: «Yo duermo, pero mi corazón vela» *Cant 5,2*. En su espera se esfuerza por pensar en él día y noche, imitando a los vivientes *Ap 4,8* y a los elegidos del cielo *7,15* que, día y noche, proclaman las alabanzas divinas. El Apóstol, con el mismo espíritu, trabaja día y noche *1Tes 2,9* *2Tes 3,8*, exhorta *Act 20,31* y ora *1Tes 3,10*. Todavía en la tierra los servidores de Cristo anticipan así en cierto modo el día sin fin en que «ya no habrá noche» *Ap 21,15* *22,5*.
+Puesto que el cristiano ha sido «conducido de las tinieblas a la admirable luz» *Act 26,18* *1Pe 2,9*, no puede verse sorprendido por el [[día_del_señor|día]] del Señor, que viene como ladrón en la noche *1Tes 5,2.4*. Cierto que actualmente se halla todavía «en la noche», pero esta noche «avanza» hacia el día muy próximo que le pondrá fin *Rom 13,12*. Tiene ya en sí mismo la luz, pero aguarda una luz todavía más plena. Con Pedro, iluminado durante la noche en que se [[transfiguración|transfiguró]] Cristo *Lc 9,29.37*, halla en las Escrituras una luz, como una [[lámpara|lámpara]] que brilla en un lugar oscuro, hasta que comience a despuntar el día y salga en su corazón la estrella de la mañana *2Pe 1,19*. De este día que viene no reveló Jesús el momento exacto *Mc 13,35*, pero habrá identidad entre «ese día» y «esa noche» *Lc 17,31.34*. Cristo-esposo vendrá en medio de la noche *Mt 25,6*; como las vírgenes prudentes con las lámparas encendidas, dice la esposa: «Yo duermo, pero mi corazón vela» *Cant 5,2*. En su espera se esfuerza por pensar en él día y noche, imitando a los vivientes *Ap 4,8* y a los elegidos del cielo *7,15* que, día y noche, proclaman las alabanzas divinas. El Apóstol, con el mismo espíritu, trabaja día y noche *1Tes 2,9* *2Tes 3,8*, exhorta *Act 20,31* y ora *1Tes 3,10*. Todavía en la tierra los servidores de Cristo anticipan así en cierto modo el día sin fin en que «ya no habrá noche» *Ap 21,15* *22,5*.

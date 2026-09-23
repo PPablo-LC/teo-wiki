@@ -31,6 +31,19 @@ Es abundantemente citado a lo largo de toda la obra. Aparece en el Índice Onom�
 ## Ver también
 [[santo_tomás_de_aquino]], [[san_bernardo]], [[teología_ascética_y_mística]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: Agustín «se vio forzado a asistir a la
+sistemática destrucción de todas las florecientes iglesias africanas por
+parte de los vándalos». Bajo el asedio de Hipona vivió sus últimos días
+«tan amargos», rogando y ofreciendo su vida; «pedía perdón para él y para
+todos, y lloraba continuamente con lágrimas ardientes». Decía: «**No temo
+morir, porque tenemos un buen Señor**». Murió a los setenta y seis años
+«dejando a la Iglesia una riqueza inmensa: sus monasterios y sus libros,
+todos llenos de pasión por la Santísima Trinidad». De sus *Confesiones*:
+«Mi peso es el amor (*Pondus meum amor meus*). Es el amor lo que me lleva
+a todas partes».
+
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.6]
 - [TPCr, Índice Onomástico]

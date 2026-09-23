@@ -45,7 +45,7 @@ León XIV recuerda que el sacerdote no es la fuente de la gracia sino el cauce: 
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II presenta el [[sacerdocio_ordenado]] como un «don y misterio» que sumerge al hombre en el [[mysterium_fidei]] [DyM, VIII]. El sacerdote es «administrador de los misterios de Dios» (1 Co 4,1), que actúa *[[in_persona_christi]]* en la Eucaristía y los demás sacramentos. La ordenación es un [[admirabile_commercium]]: el hombre ofrece su humanidad a Cristo para que Él la use como instrumento de salvación [DyM, VIII]. El sacerdote está llamado a la [[santidad]] como condición para la [[cura_animarum]] [DyM, IX].
+Juan Pablo II presenta el **sacerdocio ordenado** como un «don y misterio» que sumerge al hombre en el [[mysterium_fidei]] [DyM, VIII]. El sacerdote es «administrador de los misterios de Dios» (1 Co 4,1), que actúa *[[in_persona_christi]]* en la Eucaristía y los demás sacramentos. La ordenación es un [[admirabile_commercium]]: el hombre ofrece su humanidad a Cristo para que Él la use como instrumento de salvación [DyM, VIII]. El sacerdote está llamado a la [[santidad]] como condición para la [[cura_animarum]] [DyM, IX].
 
 ## Distinciones importantes
 

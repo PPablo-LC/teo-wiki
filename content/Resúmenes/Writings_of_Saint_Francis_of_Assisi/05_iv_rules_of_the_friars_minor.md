@@ -14,7 +14,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 - [[regla_de_los_frailes_menores]] — Legislación fundacional de la Orden Franciscana
 - [[obediencia]] — Voto central de la vida religiosa franciscana
-- [[pobreza_evangelica]] — Renuncia absoluta a la propiedad material
+- [[pobreza_evangélica]] — Renuncia absoluta a la propiedad material
 - [[castidad]] — Tercer voto de la profesión religiosa
 - [[sagrada_escritura]] — Base de toda la legislación franciscana
 - [[sacramento_de_la_eucaristía]] — Referencia constante al culto divino

@@ -40,7 +40,7 @@ Los consejos evangélicos —castidad consagrada a Dios, pobreza y obediencia—
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-El Decreto *Perfectae Caritatis* enseña que la prosecución de la caridad perfecta por la práctica de los [[consejos_evangélicos]] tiene su origen en la doctrina y en los ejemplos del Divino Maestro y se presenta como preclaro signo del Reino de los cielos [ConcVatII, PC §1]. Los consejos evangélicos —[[voto_de_castidad|castidad]], [[voto_de_pobreza|pobreza]] y [[voto_de_obediencia|obediencia]]— constituyen la base de la vida consagrada [ConcVatII, PC §1]. Quienes los profesan se consagran de modo particular al Señor, siguiendo a Cristo, que fue virgen, pobre y obediente (PC §1). La renovación de la vida religiosa debe tener como regla suprema el seguimiento de Cristo según el Evangelio [ConcVatII, PC §2a]. *Lumen Gentium* enseña que los consejos evangélicos, «aunque diferentes en cada Instituto, contribuyen mucho a la santidad de los hijos de Dios» [ConcVatII, LG §43].
+El Decreto *Perfectae Caritatis* enseña que la prosecución de la caridad perfecta por la práctica de los **consejos evangélicos** tiene su origen en la doctrina y en los ejemplos del Divino Maestro y se presenta como preclaro signo del Reino de los cielos [ConcVatII, PC §1]. Los consejos evangélicos —[[voto_de_castidad|castidad]], [[voto_de_pobreza|pobreza]] y [[voto_de_obediencia|obediencia]]— constituyen la base de la vida consagrada [ConcVatII, PC §1]. Quienes los profesan se consagran de modo particular al Señor, siguiendo a Cristo, que fue virgen, pobre y obediente (PC §1). La renovación de la vida religiosa debe tener como regla suprema el seguimiento de Cristo según el Evangelio [ConcVatII, PC §2a]. *Lumen Gentium* enseña que los consejos evangélicos, «aunque diferentes en cada Instituto, contribuyen mucho a la santidad de los hijos de Dios» [ConcVatII, LG §43].
 
 ### Según Royo Marín (TPCr)
 
@@ -55,7 +55,7 @@ La práctica de los consejos evangélicos constituye un verdadero holocausto ofr
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II aborda los [[consejos_evangélicos]] especialmente en el [[celibato_sacerdotal]] como don que permite la plena disponibilidad para la [[cura_animarum]] [DyM, V]. La castidad sacerdotal, vivida por los santos como San Juan María Vianney, es testimonio profético del Reino y configuración con Cristo [DyM, V].
+Juan Pablo II aborda los **consejos evangélicos** especialmente en el [[celibato_sacerdotal]] como don que permite la plena disponibilidad para la [[cura_animarum]] [DyM, V]. La castidad sacerdotal, vivida por los santos como San Juan María Vianney, es testimonio profético del Reino y configuración con Cristo [DyM, V].
 
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
 

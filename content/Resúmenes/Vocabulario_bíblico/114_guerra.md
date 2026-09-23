@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[salvacion]] — el drama de la humanidad en juego
+- [[salvación]] — el drama de la humanidad en juego
 - [[paz]] — el designio de Dios tiene por objetivo la paz
 - [[victoria]] — la victoria alcanzada a costa de combate
 - [[designio_de_dios]] — la perspectiva del designio de Dios
@@ -37,16 +37,16 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[iglesia]] — la Iglesia militante
 - [[pueblo]] — el antiguo pueblo de Israel
 - [[fe]] — la fe vence al maligno
-- [[persecucion]] — los cristianos perseguidos
+- [[persecución]] — los cristianos perseguidos
 - [[cordero_de_dios]] — el cordero vencedor
-- [[martir]] — el triunfo por el martirio
+- [[mártir]] — el triunfo por el martirio
 - [[anticristo]] — el campo del anticristo
-- [[senor]] — el señorío visible de Cristo
-- [[paraiso]] — la paz de la nueva Jerusalén
+- [[señor]] — el señorío visible de Cristo
+- [[paraíso]] — la paz de la nueva Jerusalén
 
 ## Contenido
 
-La guerra no es solamente un hecho humano que plantea problemas de moral. Gracias a su presencia en el mundo bíblico puede la revelación expresar, a partir de una experiencia común, un aspecto esencial del drama de la humanidad, en el que está en juego su [[salvacion|salvación]]: el combate espiritual entre Dios y Satán. Es cierto que el [[designio_de_dios|designio]] de Dios tiene por objetivo la [[paz|paz]]; pero esta misma paz supone una [[victoria|victoria]] alcanzada a costa de combate.
+La guerra no es solamente un hecho humano que plantea problemas de moral. Gracias a su presencia en el mundo bíblico puede la revelación expresar, a partir de una experiencia común, un aspecto esencial del drama de la humanidad, en el que está en juego su [[salvación|salvación]]: el combate espiritual entre Dios y Satán. Es cierto que el [[designio_de_dios|designio]] de Dios tiene por objetivo la [[paz|paz]]; pero esta misma paz supone una [[victoria|victoria]] alcanzada a costa de combate.
 
 ### AT
 
@@ -80,7 +80,7 @@ Las guerras de Yahveh emprendidas por Israel no son, sin embargo, más que un as
 
 Ahora bien, los combates de Dios en la tierra no tienen por fin último el triunfo temporal de Israel. Su [[gloria|gloria]] es de otra naturaleza; su reino, de otro orden. Lo que él quiere es el establecimiento de un [[reino_de_dios|reino]] de prosperidad y de justicia, tal como lo define su [[ley|ley]]. Israel tiene la misión de realizarlo, pero si falta a ella, deberá Dios combatir a su pueblo pecador con el mismo título con que combate a las potencias paganas. Por esta razón Israel, a consecuencia de sus infidelidades, pasa también por la experiencia de los reveses militares: en la época del desierto *Num 14,39-44*, de Josué *Jos 7,2*, de los jueces *1Sa 4*, de Saúl *1Sa 31*. En la época de los reyes se repite el hecho periódicamente, y después de los estragos de múltiples invasiones, Israel y Judá acabarán por conocer incluso una ruina nacional completa. A los ojos de los profetas es esto el resultado de los [[juicio|juicios]] divinos: Yahveh hiere a su pueblo pecador *Is 1,4-9*; él mismo expide a los invasores encargados de [[castigos|castigarlo]] *Jer 4,5-5,17* *6* *Is 5,26-30*. Los ejércitos de [[babel|Babilonia]] están a sus órdenes *Jer 25,14-38* y Nabucodonosor es su servidor *Jer 27,6ss*.
 
-A través de estos acontecimientos terribles comprende ahora Israel que la guerra es fundamentalmente un mal. Resultado del [[odio|odio]] fratricida entre los hombres *Gen 4*, está ligada al destino de una raza pecadora. Azote de Dios, no desaparecerá, por tanto, radicalmente de acá abajo, sino una vez que haya desaparecido también el [[pecado|pecado]] *Sal 46,10* *Ez 39,9s*. Por eso todas las promesas escatológicas de los profetas acaban con una maravillosa visión de [[paz|paz]] universal *Is 2,4* *11,6-9, etc*. Tal es la [[salvacion|salvación]] auténtica a que debe aspirar Israel, más bien que a guerras santas de conquista y de destrucción.
+A través de estos acontecimientos terribles comprende ahora Israel que la guerra es fundamentalmente un mal. Resultado del [[odio|odio]] fratricida entre los hombres *Gen 4*, está ligada al destino de una raza pecadora. Azote de Dios, no desaparecerá, por tanto, radicalmente de acá abajo, sino una vez que haya desaparecido también el [[pecado|pecado]] *Sal 46,10* *Ez 39,9s*. Por eso todas las promesas escatológicas de los profetas acaban con una maravillosa visión de [[paz|paz]] universal *Is 2,4* *11,6-9, etc*. Tal es la [[salvación|salvación]] auténtica a que debe aspirar Israel, más bien que a guerras santas de conquista y de destrucción.
 
 #### IV. LOS COMBATES ESCATOLÓGICOS
 
@@ -108,7 +108,7 @@ La [[iglesia|Iglesia]] no es una magnitud de orden temporal, como lo era todaví
 
 ##### Los ejércitos cristianos.
 
-En este combate la Iglesia y sus miembros no se sirven ya de armas temporales, sino de las que ha legado Jesús. Las virtudes cristianas son las armas de luz de que se reviste el soldado de Cristo *1Tes 5,8* *Ef 6,11.13-17*; la [[fe|fe]] en Cristo es la que vence al maligno y al mundo *1Jn 2,14* *4,4* *5,4s*. En apariencia, el [[mundo|mundo]] puede triunfar de los cristianos cuando los [[persecucion|persigue]] y les quita la vida *Ap 11,7-10*; victoria precaria, que preludia una transformación radical de la situación, como la cruz de Cristo preparaba su resurrección en gloria *Ap 11,11.15-18*. El [[cordero_de_dios|cordero]] fue vencedor del diablo por su muerte; asimismo sus compañeros triunfan de él por el [[martir|martirio]] *Ap 12,11* *14,1-5*. El heroísmo de tales combates rebasa con mucho al de las antiguas guerras de Yahveh y no exige menor valentía.
+En este combate la Iglesia y sus miembros no se sirven ya de armas temporales, sino de las que ha legado Jesús. Las virtudes cristianas son las armas de luz de que se reviste el soldado de Cristo *1Tes 5,8* *Ef 6,11.13-17*; la [[fe|fe]] en Cristo es la que vence al maligno y al mundo *1Jn 2,14* *4,4* *5,4s*. En apariencia, el [[mundo|mundo]] puede triunfar de los cristianos cuando los [[persecución|persigue]] y les quita la vida *Ap 11,7-10*; victoria precaria, que preludia una transformación radical de la situación, como la cruz de Cristo preparaba su resurrección en gloria *Ap 11,11.15-18*. El [[cordero_de_dios|cordero]] fue vencedor del diablo por su muerte; asimismo sus compañeros triunfan de él por el [[mártir|martirio]] *Ap 12,11* *14,1-5*. El heroísmo de tales combates rebasa con mucho al de las antiguas guerras de Yahveh y no exige menor valentía.
 
 #### III. EL COMBATE FINAL
 
@@ -118,4 +118,4 @@ Los «últimos tiempos» inaugurados por Jesús adoptan así el aspecto de una g
 
 ##### Imágenes del último combate.
 
-En efecto, el tiempo se desliza indefectiblemente hacia su fin. Si por una parte Cristo reúne poco a poco en su Iglesia a todos los hijos de Dios dispersos *Jn 11,52*, por otra parte Satán, que le remeda, se esfuerza también por unir en un solo ejército a los hombres a los que ha seducido. El Apocalipsis nos los presenta al fin de los siglos, reunidos bajo su guía para librar su último combate *Ap 19,19* *20,7ss*. Pero esta vez Cristo vencedor hará que brille visiblemente su [[senor|señorío]], apareciendo como Verbo de Dios en su gloria en función de exterminador *Ap 19,11-16.21* *Mt 24,30 p*. La fisonomía temporal de los hechos venideros se nos oculta a nosotros tras esta evocación sobrenatural, que desemboca más allá del tiempo en el castigo eterno de Satán y de sus satélites *Ap 19,20* *20,10*. Después de esto, una vez superada toda contradicción tanto entre Dios y los hombres como entre los diversos grupos humanos, la [[paz|paz]] perfecta de la nueva Jerusalén reintroducirá en el [[paraiso|paraíso]] a la humanidad salvada *Ap 21*. Visión de [[victoria|victoria]] final, que funda la constancia y la confianza de los santos *Ap 12,10*, pues entonces la Iglesia militante se cambiará para siempre en Iglesia triunfante, reunida en torno a Cristo vencedor *Ap 3,21s* *7*.
+En efecto, el tiempo se desliza indefectiblemente hacia su fin. Si por una parte Cristo reúne poco a poco en su Iglesia a todos los hijos de Dios dispersos *Jn 11,52*, por otra parte Satán, que le remeda, se esfuerza también por unir en un solo ejército a los hombres a los que ha seducido. El Apocalipsis nos los presenta al fin de los siglos, reunidos bajo su guía para librar su último combate *Ap 19,19* *20,7ss*. Pero esta vez Cristo vencedor hará que brille visiblemente su [[señor|señorío]], apareciendo como Verbo de Dios en su gloria en función de exterminador *Ap 19,11-16.21* *Mt 24,30 p*. La fisonomía temporal de los hechos venideros se nos oculta a nosotros tras esta evocación sobrenatural, que desemboca más allá del tiempo en el castigo eterno de Satán y de sus satélites *Ap 19,20* *20,10*. Después de esto, una vez superada toda contradicción tanto entre Dios y los hombres como entre los diversos grupos humanos, la [[paz|paz]] perfecta de la nueva Jerusalén reintroducirá en el [[paraíso|paraíso]] a la humanidad salvada *Ap 21*. Visión de [[victoria|victoria]] final, que funda la constancia y la confianza de los santos *Ap 12,10*, pues entonces la Iglesia militante se cambiará para siempre en Iglesia triunfante, reunida en torno a Cristo vencedor *Ap 3,21s* *7*.

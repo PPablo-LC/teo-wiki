@@ -20,7 +20,7 @@ tags: ["resumen", "discurso", "juan_pablo_ii", "juventud", "chile"]
 ## Contenido
 
 1. **Responsabilidad de los jóvenes:** El futuro de Chile depende de las decisiones y acciones presentes de los jóvenes; no deben ser indiferentes ante la [[injusticia]].
-2. **[[Cristo]] como centro:** La fe no es algo abstracto, es Cristo vivo; es necesario mirar a Cristo para descubrir el rostro de Dios y dar razón de la [[esperanza_cristiana]].
+2. **[[cristo]] como centro:** La fe no es algo abstracto, es Cristo vivo; es necesario mirar a Cristo para descubrir el rostro de Dios y dar razón de la [[esperanza_cristiana]].
 3. **El [[amor]] vence siempre:** A pesar de las dificultades y situaciones que parecen injustas o desesperanzadoras, el amor y la fe en Cristo son la fuerza salvadora.
 4. **Resistencia contra el mal:** La lucha contra el [[pecado]] (personal y social) es fundamental para la [[dignidad_humana]] y el progreso.
 5. **Propuestas de solución:** No basta con denunciar los males; es necesario que los jóvenes articulen propuestas de solución compatibles con su fe.

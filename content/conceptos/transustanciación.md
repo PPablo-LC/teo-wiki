@@ -66,7 +66,7 @@ La transustanciación fundamenta la [[presencia_real]] de Cristo en la [[eucaris
 
 ## Ver también
 
-[[eucaristía]], [[presencia_real]], [[especies_sacramentales]], [[materia_de_la_eucaristía]], [[concilio_de_letrán_iv]], [[concilio_de_constanza]], [[santo_tomas_de_aquino]]
+[[eucaristía]], [[presencia_real]], [[especies_sacramentales]], [[materia_de_la_eucaristía]], [[concilio_de_letrán_iv]], [[concilio_de_constanza]], [[santo_tomás_de_aquino]]
 
 ## Referencias
 

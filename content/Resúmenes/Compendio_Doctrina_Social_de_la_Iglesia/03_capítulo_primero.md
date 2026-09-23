@@ -17,11 +17,11 @@ tags: ["resumen", "doctrina_social", "designio_divino", "liberación", "Jesucris
 - [[alianza]] — Pacto entre Dios y su pueblo
 - [[decálogo]] — Diez mandamientos como expresión de la ley natural
 - [[año_sabático]] — Institución que promueve la justicia y la solidaridad
-- [[Jesucristo]] — Cumplimiento del designio de amor del Padre
+- [[jesucristo]] — Cumplimiento del designio de amor del Padre
 - [[Amor_trinitario]] — Misterio de Dios como comunión de amor
 - [[dignidad_humana]] — Valor trascendente de cada persona
 - [[salvación_integral]] — Salvación que abarca al hombre entero
-- [[Concilio_Vaticano_II]] — Concilio que renovó la comprensión de la persona humana
+- [[concilio_vaticano_ii]] — Concilio que renovó la comprensión de la persona humana
 
 ## I. LA ACCIÓN LIBERADORA DE DIOS EN LA HISTORIA DE ISRAEL
 

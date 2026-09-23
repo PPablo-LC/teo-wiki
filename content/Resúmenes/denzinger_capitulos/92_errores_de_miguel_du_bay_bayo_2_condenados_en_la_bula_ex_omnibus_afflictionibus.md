@@ -12,7 +12,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-- [[bayo]] — errores de Miguel du Bay (Bayo)
+- [[miguel_bayo]] — errores de Miguel du Bay (Bayo)
 - [[gracia]] — naturaleza de la gracia y su necesidad
 - [[mérito]] — mérito de las obras
 - [[justificación]] — justificación del impío

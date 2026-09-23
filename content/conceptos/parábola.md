@@ -37,7 +37,7 @@ El VocTeoBib distingue entre parábola y alegoría: en la alegoría todos los de
 
 ## Ver también
 
-[[evangelio]], [[jesus]], [[predicación]], [[reino_de_dios]]
+[[evangelio]], [[jesús]], [[predicación]], [[reino_de_dios]]
 
 ## Referencias
 

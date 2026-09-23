@@ -12,16 +12,16 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Laicos_Consagrados_del_Regnum_Christi]]
+- [[laicos_consagrados_del_regnum_christi]]
 - [[asamblea_general_regnum_christi]]
-- [[Regnum_Christi]]
+- [[regnum_christi]]
 
 
 ## Contenido
 
 📄 **Fuente original:** `07_decreto_de_convocación_de_la_segunda_sesión_de_la_asamblea_d.md`
 
-Decreto de la Asamblea General extraordinaria de los [[Laicos_Consagrados_del_Regnum_Christi]] (Acto de gobierno LCRC-AGE 1-2018), aprobado en el Centro de retiros de Santa María del Lago, Chapala, Jalisco, del 27 de diciembre de 2017 al 3 de enero de 2018, que aprueba la composición de la segunda sesión de la Asamblea General extraordinaria a celebrarse a finales de 2018.
+Decreto de la Asamblea General extraordinaria de los [[laicos_consagrados_del_regnum_christi]] (Acto de gobierno LCRC-AGE 1-2018), aprobado en el Centro de retiros de Santa María del Lago, Chapala, Jalisco, del 27 de diciembre de 2017 al 3 de enero de 2018, que aprueba la composición de la segunda sesión de la Asamblea General extraordinaria a celebrarse a finales de 2018.
 
 **Participantes**:
 - Por oficio: el gobierno general.

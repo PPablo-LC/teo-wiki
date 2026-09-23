@@ -80,7 +80,7 @@ La infografía de la carta a los Filipenses del PdB subraya la kenosis como mode
 
 ## Relaciones doctrinales
 
-Este concepto se vincula con [[encarnación]], [[humildad_de_cristo]], [[obediencia_de_cristo]], [[pasión_de_cristo]], [[exaltación_de_cristo]], [[redención]], [[Flp_2,6-11]], [[cristología]], [[amor_de_Dios]], [[imitación_de_Cristo]].
+Este concepto se vincula con [[encarnación]], [[humildad_de_cristo]], [[obediencia_de_cristo]], [[pasión_de_cristo]], [[exaltación_de_cristo]], [[redención]], [[Flp_2,6-11]], [[cristología]], [[amor_de_dios]], [[imitacion_de_cristo]].
 
 ## Analizado para
 
@@ -89,7 +89,7 @@ Este concepto se vincula con [[encarnación]], [[humildad_de_cristo]], [[obedien
 
 ## Ver también
 
-[[encarnación]], [[humildad_de_cristo]], [[obediencia_de_cristo]], [[pasión_de_cristo]], [[exaltación_de_cristo]], [[redención]], [[cristología]], [[imitación_de_Cristo]], [[cruz]]
+[[encarnación]], [[humildad_de_cristo]], [[obediencia_de_cristo]], [[pasión_de_cristo]], [[exaltación_de_cristo]], [[redención]], [[cristología]], [[imitacion_de_cristo]], [[cruz]]
 
 ## Referencias
 

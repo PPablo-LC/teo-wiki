@@ -53,10 +53,10 @@ JvC-Muj presenta el mismo principio: «En todo hombre hay un santo y un criminal
 
 ## Relaciones doctrinales
 
-Se vincula con la [[tentacion]], el [[discernimiento_de_espíritus]], la [[acedia]], la [[desolacion_espiritual]], la [[noche_oscura]], los [[ejercicios_espirituales]], la [[mortificacion]] y la [[purificacion]].
+Se vincula con la [[tentación]], el [[discernimiento_de_espíritus]], la [[acedia]], la [[desolación_espiritual]], la [[noche_oscura]], los [[ejercicios_espirituales]], la [[mortificación]] y la [[purificación]].
 
 ## Ver también
-[[tentacion]], [[discernimiento_de_espíritus]], [[acedia]], [[desolacion_espiritual]]
+[[tentación]], [[discernimiento_de_espíritus]], [[acedia]], [[desolación_espiritual]]
 
 ## Referencias
 - [CEC §2725-2728]

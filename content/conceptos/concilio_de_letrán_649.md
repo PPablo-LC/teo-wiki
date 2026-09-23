@@ -13,7 +13,7 @@ timestamp: 2026-07-01
 
 ## Definición
 
-El [[concilio]] de Letrán de 649 fue convocado por el papa [[Martín I]] (sin autorización imperial) para condenar el [[monotelismo]] y el [[monoenergismo]]. Afirmó que en Cristo hay dos voluntades y dos operaciones naturales, divina y humana.
+El [[concilio]] de Letrán de 649 fue convocado por el papa [[martín_i]] (sin autorización imperial) para condenar el [[monotelismo]] y el [[monoenergismo]]. Afirmó que en Cristo hay dos voluntades y dos operaciones naturales, divina y humana.
 
 ## Relaciones
 

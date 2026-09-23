@@ -16,6 +16,6 @@ No se permite la sustitución de cantos o himnos para el Cordero de Dios u otras
 ## Ver también
 - [[misa]]
 - [[propio_de_la_misa]]
-- [[música_litúrgica]]
+- [[musica_liturgica]]
 ## Referencias
 - IGMR (2000), §125-126, §137, §155, §216, §366

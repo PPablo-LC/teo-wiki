@@ -13,9 +13,9 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "teo
 ## Conceptos básicos referenciados
 
 - [[sufrimiento]] — enigma fundamental que la humanidad siempre ha tenido ante sí
-- [[Providencia_Divina]] — Dios no puede callar ante el sufrimiento humano
+- [[providencia_divina]] — Dios no puede callar ante el sufrimiento humano
 - [[juan_pablo_ii]] — Papa que experimentó en su propia carne muchos sufrimientos: orfandad, persecución, hambre, pérdida de seres queridos, intento de asesinato
-- [[Salvifici_doloris]] — Carta Apostólica del Papa sobre el sentido cristiano del sufrimiento
+- [[salvifici_doloris]] — Carta Apostólica del Papa sobre el sentido cristiano del sufrimiento
 - [[cruz]] — camino del hombre, signo orientador que conduce a la esperanza
 - [[resurrección]] — esperanza cierta que el sufrimiento introduce
 - [[consolación]] — obra de misericordia de consolar al que sufre
@@ -35,7 +35,7 @@ Se destaca que el Papa ha experimentado en su propia carne numerosos sufrimiento
 
 ### Contenido del libro
 
-La obra reúne las enseñanzas del Papa sobre el sufrimiento, compiladas por el sacerdote Don Pedro Beteta. Estas páginas dan respuesta a las preguntas sobre el dolor, acercan a [[Jesucristo]] y animan a caminar por la vida «fijos los ojos en Jesús» (Heb 12,2). Se cita Heb 4,15: Cristo fue «probado en todo igual a nosotros, excepto en el pecado», y Rom 8,17: «si sufrimos con Él seremos también glorificados con Él».
+La obra reúne las enseñanzas del Papa sobre el sufrimiento, compiladas por el sacerdote Don Pedro Beteta. Estas páginas dan respuesta a las preguntas sobre el dolor, acercan a [[jesucristo]] y animan a caminar por la vida «fijos los ojos en Jesús» (Heb 12,2). Se cita Heb 4,15: Cristo fue «probado en todo igual a nosotros, excepto en el pecado», y Rom 8,17: «si sufrimos con Él seremos también glorificados con Él».
 
 ### El papel de María
 

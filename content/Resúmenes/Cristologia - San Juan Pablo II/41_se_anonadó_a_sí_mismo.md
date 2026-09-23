@@ -12,7 +12,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "kénosis", "enc
 
 ## Conceptos básicos referenciados
 
-- [[kénosis]] — Despojamiento voluntario del Hijo de Dios
+- [[kenosis]] — Despojamiento voluntario del Hijo de Dios
 - [[encarnación]] — Asumir condición de siervo
 - [[pobreza_de_cristo]] — Vida marcada por la precariedad
 - [[obediencia]] — Hasta la muerte de cruz

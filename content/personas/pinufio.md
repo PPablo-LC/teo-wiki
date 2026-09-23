@@ -25,7 +25,7 @@ Pinufio es conferenciante de la Conferencia XX de Juan Casiano, que trata sobre 
 
 ## Ver también
 
-[[penitencia]], [[conversion]], [[compunción_del_corazón]], [[perdón_de_los_pecados]]
+[[penitencia]], [[conversión]], [[compunción_del_corazón]], [[perdón_de_los_pecados]]
 
 ## Referencias
 

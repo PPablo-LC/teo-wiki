@@ -17,7 +17,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[herejía]] — enseñanza contraria a la fe ortodoxa
 - [[rebatismo]] — administración del bautismo por segunda vez
 - [[tradición]] — transmisión de la fe de los Apóstoles
-- [[Espíritu_Santo]] — tercera Persona de la Trinidad
+- [[espíritu_santo]] — tercera Persona de la Trinidad
 - [[penitencia]] — sacramento de reconciliación
 
 ## Contenido

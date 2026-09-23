@@ -43,7 +43,7 @@ La misericordia fue un tema transversal en todo el viaje. León XIV la proclamó
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II se presenta a sí mismo como «ministro de la misericordia», dedicado al sacramento de la [[sacramento_de_la_reconciliación|penitencia]] con disponibilidad total [DyM, IX]. La [[misericordia]] es el rasgo del sacerdote que, como el buen pastor, está siempre dispuesto a acoger a los pecadores. Su experiencia en el confesionario y su devoción a la Divina Misericordia (Santa Faustina) son referencias constantes [DyM, IX].
+Juan Pablo II se presenta a sí mismo como «ministro de la misericordia», dedicado al sacramento de la [[sacramento_de_la_reconciliación|penitencia]] con disponibilidad total [DyM, IX]. La **misericordia** es el rasgo del sacerdote que, como el buen pastor, está siempre dispuesto a acoger a los pecadores. Su experiencia en el confesionario y su devoción a la Divina Misericordia (Santa Faustina) son referencias constantes [DyM, IX].
 
 ### Según la Dives in Misericordia (DM)
 

@@ -47,11 +47,11 @@ La synesis se distingue de la eubulia porque la bondad del juicio no siempre aco
 - Parte potencial de la [[virtud_de_la_prudencia]]
 - Virtud del juicio recto según la ley común
 - Se complementa con la [[eubulia]] (consejo) y la [[gnome]] (juicio excepcional)
-- Su defecto opuesto es la [[inconsideración]]
+- Su defecto opuesto es la [[inconsideracion]]
 
 ## Ver también
 
-[[virtud_de_la_prudencia]], [[eubulia]], [[gnome]], [[inconsideración]], [[sindéresis]], [[don_de_consejo]]
+[[virtud_de_la_prudencia]], [[eubulia]], [[gnome]], [[inconsideracion]], [[sindéresis]], [[don_de_consejo]]
 
 ## Referencias
 

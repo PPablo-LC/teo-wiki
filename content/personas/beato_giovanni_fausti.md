@@ -17,7 +17,7 @@ Giovanni Fausti (Brescia, 1899 – Scutari, 1946) fue un sacerdote jesuita, amig
 
 ## Relevancia teológica
 
-Fausti es el «martire del dialogo col mondo musulmano»: el martirio no corona aquí una vida de confrontación sino de diálogo apasionado. Su *L'Islam nella luce del pensiero cattolico* sigue siendo «un capolavoro di sapienza»: rechaza el colonialismo eclesiástico («il cattolicesimo è tutt'altro che "religione di corazzate e di mitragliatrici"») y abre a la esperanza misionera: «dobbiamo parlare all'Oriente per intenderci, non per insultarci». Su figura es precursora de la [[Nostra_aetate]] y del «espíritu de Asís».
+Fausti es el «martire del dialogo col mondo musulmano»: el martirio no corona aquí una vida de confrontación sino de diálogo apasionado. Su *L'Islam nella luce del pensiero cattolico* sigue siendo «un capolavoro di sapienza»: rechaza el colonialismo eclesiástico («il cattolicesimo è tutt'altro che "religione di corazzate e di mitragliatrici"») y abre a la esperanza misionera: «dobbiamo parlare all'Oriente per intenderci, non per insultarci». Su figura es precursora de la [[nostra_aetate]] y del «espíritu de Asís».
 
 Su *Diario* espiritual muestra la espiritualidad sacerdotal que funda el martirio: «il ministro di Gesù deve scomparire per far conoscere Gesù alle anime»; «La morte — La cara consigliera... Che io non la tema mai»; «il mistero dell'Eucaristia doveva essere veramente il centro di tutta la sua vita». El juicio del card. Amato en la beatificación condensa su lección eclesial: «non sono i persecutori, bensì i martiri gli autentici protagonisti della storia dell'umanità».
 

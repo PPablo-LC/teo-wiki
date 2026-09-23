@@ -22,13 +22,13 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[gozo]] — celebrar con gozo al creador
 - [[tierra]] — la tierra prometida como reposo
 - [[buscar]] — la búsqueda de Dios
-- [[pastor_y_rebano|pastor]] — el pastor que conduce a las aguas del reposo
+- [[pastor_y_rebaño|pastor]] — el pastor que conduce a las aguas del reposo
 - [[castigos]] — la amenaza del exilio y del nomadeo
-- [[Templo]] — Dios se toma reposo en el Templo
+- [[templo]] — Dios se toma reposo en el Templo
 - [[paz]] — la paz y la quietud
 - [[muerte]] — el sueño de la muerte como reposo
 - [[cielo]] — el reposo del cielo
-- [[Evangelio]] — el Evangelio de la reconciliación
+- [[evangelio]] — el Evangelio de la reconciliación
 - [[ley]] — la ley como camino del reposo
 - [[pobres]] — los pobres que reposan sin que nadie les moleste
 - [[prueba_y_tentación|pruebas]] — las pruebas de Job
@@ -67,7 +67,7 @@ Por otro camino fue llevado Israel a descubrir el carácter espiritual del repos
 
 Los hebreos, saliendo de Egipto huían hacia la [[tierra]] de libertad, hacia el reposo después de la esclavitud; este reposo esperado debía ser fruto de una lenta conquista (p. e. *Jue 1,19.21* *Jos 21,43s*), hasta que el rey David quede por fin «desembarazado de todos sus enemigos» *2Sa 7,1*. Salomón pudo exclamar con motivo de la consagración del templo: «¡Bendito sea Yahveh que ha concedido reposo a su pueblo Israel según todas sus promesas!» *1Re 8,56*: en el tiempo del «hombre de paz» da Dios a Israel «paz y quietud» *1Par 22,9*. Ahora ya se puede «vivir a sus anchas, cada uno bajo su viña y su higuera» *1Re 4,20* *5,5*. Reposo todavía muy terrenal, pero garantizado por Yahveh, que decidió tomar él mismo su reposo en el [[templo]] *Sal 132,14*: [[buscar|buscó]] a los que le buscaban y les otorgó el reposo *2Par 14,6*.
 
-La fidelidad a la [[alianza]] condiciona, pues, la naturaleza y la duración del reposo en la tierra. Ahora bien, éste degeneró pronto en abandono y en rebelión contra Dios *Dt 32,15* *Neh 9,25-28*; siendo así que la salvación está en la conversión y en la calma *Is 30,15*, Ajaz tiene miedo de los enemigos de Yahveh *7,2.4* y cansa a Dios por su falta de fe *7,13*. Consiguientemente pesa sobre el pueblo la amenaza del exilio y del nomadeo; pero después de las penas del [[castigos|castigo]] el pueblo comprende mejor que será liberado por Yahveh en persona *Jer 30,10s*; e Israel va a marchar de nuevo hacia su reposo *31,2*, hacia la danza, la alegría, el consuelo y la saturación de bendiciones *31,12s*. El [[pastor_y_rebano|pastor]] conduce sus ovejas a los buenos pastos *Ez 34,12-16* *Is 40,10s*. En esta perspectiva, Dios, que da, adquiere más importancia que la tierra dada: Israel se encamina hacia el reposo de Dios.
+La fidelidad a la [[alianza]] condiciona, pues, la naturaleza y la duración del reposo en la tierra. Ahora bien, éste degeneró pronto en abandono y en rebelión contra Dios *Dt 32,15* *Neh 9,25-28*; siendo así que la salvación está en la conversión y en la calma *Is 30,15*, Ajaz tiene miedo de los enemigos de Yahveh *7,2.4* y cansa a Dios por su falta de fe *7,13*. Consiguientemente pesa sobre el pueblo la amenaza del exilio y del nomadeo; pero después de las penas del [[castigos|castigo]] el pueblo comprende mejor que será liberado por Yahveh en persona *Jer 30,10s*; e Israel va a marchar de nuevo hacia su reposo *31,2*, hacia la danza, la alegría, el consuelo y la saturación de bendiciones *31,12s*. El [[pastor_y_rebaño|pastor]] conduce sus ovejas a los buenos pastos *Ez 34,12-16* *Is 40,10s*. En esta perspectiva, Dios, que da, adquiere más importancia que la tierra dada: Israel se encamina hacia el reposo de Dios.
 
 #### Gusto anticipado del reposo definitivo
 

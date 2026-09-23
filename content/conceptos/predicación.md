@@ -59,7 +59,7 @@ En cuanto a las mujeres (q.177 a.2), la gracia de la palabra pública en la Igle
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II describe la [[predicación]] como tarea del sacerdote «hombre de la Palabra», que debe «conjugar la evangelización con la inteligencia de la fe» [DyM, IX]. La predicación está centrada en el [[mysterium_fidei]]: el misterio de Cristo muerto y resucitado. El Papa testimonia que, desde el comienzo de su ministerio, buscó integrar teología y cultura para predicar de modo comprensible al hombre contemporáneo [DyM, IX].
+Juan Pablo II describe la **predicación** como tarea del sacerdote «hombre de la Palabra», que debe «conjugar la evangelización con la inteligencia de la fe» [DyM, IX]. La predicación está centrada en el [[mysterium_fidei]]: el misterio de Cristo muerto y resucitado. El Papa testimonia que, desde el comienzo de su ministerio, buscó integrar teología y cultura para predicar de modo comprensible al hombre contemporáneo [DyM, IX].
 
 ## Distinciones importantes
 

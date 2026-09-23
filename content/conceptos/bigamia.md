@@ -44,11 +44,11 @@ Santo Tomás trata la bigamia en el Suplemento (q.66). Su tratamiento se centra 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[poligamia]], [[segundas_nupcias]], [[matrimonio]], [[órdenes_sagradas]], [[irregularidad]], [[indisolubilidad]], [[sacramento_del_matrimonio]]
+Se relaciona con [[poligamia]], [[segundas_nupcias]], [[matrimonio]], [[ordenes_sagradas]], [[irregularidad]], [[indisolubilidad]], [[sacramento_del_matrimonio]]
 
 ## Ver también
 
-[[poligamia]], [[segundas_nupcias]], [[matrimonio]], [[órdenes_sagradas]], [[indisolubilidad]]
+[[poligamia]], [[segundas_nupcias]], [[matrimonio]], [[ordenes_sagradas]], [[indisolubilidad]]
 
 ## Referencias
 

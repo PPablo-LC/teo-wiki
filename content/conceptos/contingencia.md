@@ -23,6 +23,14 @@ La contingencia es la propiedad de aquello que existe sin que su esencia impliqu
 
 **Lo contingente como signo del necesario (cap. X).** La constatación de que el mundo es «dato» y «don» —y no el principio de sí mismo— abre al Creador: Sab 13,1-5 («por las obras se conoce al autor»), Rm 1,19-21 y Jb 38 testimonian que el orden contingente remite al Ser necesario y providente (SR, `17_capitolo_decimo.md`, §11-20, 46-58).
 
+### Luigi Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+DLV radicaliza la contingencia en la experiencia de la dependencia originaria:
+
+- **El hombre depende: ha sido hecho** — «il cambiamento è traspositare, cancellare o approfondire un vínculo»; el hombre comienza a afirmarse a sí mismo «accettando di esistere» (*Il senso religioso*, p. 12; Sal 32(31),9; Sal 139(138),13-16) (DLV 14, 3-29).
+- **La negación de la contingencia** — el *daimon*, el ángel rebelde que no reconoce ser hecho: «No, non Ti riconosco»; la cultura moderna abole el pasado y mata la pertenencia (Arendt) (DLV 14, 33-71).
+- **La criatura, domanda de ser** — el ser participado se expresa como oración, *domanda* de ser (1Tm 4,4; 1Cor 10,31; 1Ts 5,10) (DLV 04, 77-79).
+
 ## Ver también
 
 [[existencia_de_dios]], [[pruebas_de_la_existencia_de_dios]], [[ser_necesario]], [[esencia_y_existencia]], [[creación]]

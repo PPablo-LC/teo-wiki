@@ -15,9 +15,9 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[día_del_señor]] — el día de la salvación
-- [[sabado]] — el sábado, día santo
-- [[apostoles]] — los 12 apóstoles
-- [[jerusalen]] — la nueva Jerusalén
+- [[sábado]] — el sábado, día santo
+- [[apóstoles]] — los 12 apóstoles
+- [[jerusalén]] — la nueva Jerusalén
 - [[mujer]] — la mujer coronada de estrellas
 
 ## Contenido
@@ -40,9 +40,9 @@ El antiguo Oriente gustó mucho del simbolismo de los números. En Mesopotamia, 
 
 El 4, cifra de la totalidad cósmica (que forma también el trasfondo de los «4 vivientes» en *Ez 1,5* *Ap 4,6*) acaba por designar todo lo que tiene carácter de plenitud: 4 plagas en *Ez 14,21*; 4 bienaventuranzas en *Lc 6,20ss* (y 8 en *Mt 5,1-10*).
 
-El 7 designa tradicionalmente una serie completa: 7 aspersiones con la sangre *Lev 4,6.17* *8,11* *14,7* *Num 19,4* *2Re 5,10*, inmolación de 7 animales *Num 28,11* *Ez 45,23* *Job 42,8* *2Par 29,21*. Se aplica fácilmente a objetos sacrosantos: los 7 ángeles de *Tob 12,15*; los 7 ojos sobre la piedra en *Zac 3,9*. Es sobre todo el número de los días de la semana y caracteriza al [[sabado|sábado]], día santo por excelencia *Gen 2,2*. De ahí las especulaciones apocalípticas de *Dan 9,2.24*, donde las 70 semanas de años (10 jubileos de 7 veces siete años) rematan en el [[día_del_señor|día]] de la salvación, independientemente de toda cronología real. El 7, cifra de perfección divisible en 3+4, figura por esta razón en las visiones proféticas *Is 30,26* *Zac 4,2* y sobre todo en los apocalipsis *Ap 1,12.16* *3,1* *4,5* *5,1.6* *8,2* *10,3* *15,1* *17,9*, pero también se menciona su mitad, 3 1/2 *Dan 7,25* *8,14* *9,27* *12,8.11s* *Ap 11,2s.9ss* *12,6.14* *13,5*. Por el contrario, 6 (7-1) es el tipo de la perfección fallida *Ap 13,18*: 666.
+El 7 designa tradicionalmente una serie completa: 7 aspersiones con la sangre *Lev 4,6.17* *8,11* *14,7* *Num 19,4* *2Re 5,10*, inmolación de 7 animales *Num 28,11* *Ez 45,23* *Job 42,8* *2Par 29,21*. Se aplica fácilmente a objetos sacrosantos: los 7 ángeles de *Tob 12,15*; los 7 ojos sobre la piedra en *Zac 3,9*. Es sobre todo el número de los días de la semana y caracteriza al [[sábado|sábado]], día santo por excelencia *Gen 2,2*. De ahí las especulaciones apocalípticas de *Dan 9,2.24*, donde las 70 semanas de años (10 jubileos de 7 veces siete años) rematan en el [[día_del_señor|día]] de la salvación, independientemente de toda cronología real. El 7, cifra de perfección divisible en 3+4, figura por esta razón en las visiones proféticas *Is 30,26* *Zac 4,2* y sobre todo en los apocalipsis *Ap 1,12.16* *3,1* *4,5* *5,1.6* *8,2* *10,3* *15,1* *17,9*, pero también se menciona su mitad, 3 1/2 *Dan 7,25* *8,14* *9,27* *12,8.11s* *Ap 11,2s.9ss* *12,6.14* *13,5*. Por el contrario, 6 (7-1) es el tipo de la perfección fallida *Ap 13,18*: 666.
 
-El 12, como cifra de las 12 tribus, es también una cifra perfecta, que se aplica simbólicamente al pueblo de Dios. De ahí su empleo significativo en el caso de los 12 [[apostoles|Apóstoles]] de Jesús, que regirán a las 12 tribus del nuevo Israel *Mt 19,28 p*. Así la nueva [[jerusalen|Jerusalén]] del Apocalipsis tiene 12 puertas, en las que están grabados los nombres de las 12 tribus *Ap 21,12*, y 12 hiladas que llevan los nombres de los 12 apóstoles *21,14*. Igualmente, el pueblo salvado forma el número de 144 000, 12 millares por cada tribu de Israel *7,4-8*. Pero las 12 estrellas que coronan a la [[mujer|mujer]] (otro símbolo de la nueva humanidad) podrían hacer alusión a las 12 constelaciones zodiacales *12,1*.
+El 12, como cifra de las 12 tribus, es también una cifra perfecta, que se aplica simbólicamente al pueblo de Dios. De ahí su empleo significativo en el caso de los 12 [[apóstoles|Apóstoles]] de Jesús, que regirán a las 12 tribus del nuevo Israel *Mt 19,28 p*. Así la nueva [[jerusalén|Jerusalén]] del Apocalipsis tiene 12 puertas, en las que están grabados los nombres de las 12 tribus *Ap 21,12*, y 12 hiladas que llevan los nombres de los 12 apóstoles *21,14*. Igualmente, el pueblo salvado forma el número de 144 000, 12 millares por cada tribu de Israel *7,4-8*. Pero las 12 estrellas que coronan a la [[mujer|mujer]] (otro símbolo de la nueva humanidad) podrían hacer alusión a las 12 constelaciones zodiacales *12,1*.
 
 ### Gematrias
 

@@ -16,7 +16,7 @@ tags: ["resumen", "la vocacion explicada - san juan pablo ii"]
 - [[vocación_sacerdotal|seguir a Cristo]] — llamada exigente que invita a dejar «pescar» por Él completamente
 - [[celibato_sacerdotal|celibato libremente elegido]] — modo maravilloso de realizar el amor en la vida
 - [[virginidad_consagrada|virginidad por el Reino]] — vocación que exige rezar tenazmente y decir un alegre sí
-- [[elección_divina|Dios nos llamó por nuestro nombre]] — pensados desde la eternidad como personas únicas e irrepetibles
+- [[eleccion_divina|Dios nos llamó por nuestro nombre]] — pensados desde la eternidad como personas únicas e irrepetibles
 
 ## Contenido
 

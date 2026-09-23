@@ -20,7 +20,7 @@ tags: ["resumen", "león xiv-viaje españa-2026"]
 - [[evangelización]] — el arte y la belleza como canales de transmisión del Evangelio
 - [[esperanza_cristiana]] — los muros del recinto, testigos de esperanza
 - [[fraternidad_universal]] — reconocerse hermanos donde nadie quede excluido
-- [[ignacio_de_loyola]] — su conversión ante la Virgen de Montserrat
+- [[san_ignacio_de_loyola]] — su conversión ante la Virgen de Montserrat
 - [[comunión]] — la comunión más fuerte que toda división
 
 ## Discurso del Santo Padre

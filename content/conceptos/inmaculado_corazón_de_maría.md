@@ -13,7 +13,7 @@ description: "Devoción al corazón de la Virgen María como símbolo de su amor
 
 ## Definición
 
-Devoción católica que venera el corazón de la Virgen María como símbolo de su amor inmaculado y perfecto a Dios, su pureza virginal y su compasión maternal por todos los hombres. Está estrechamente vinculada al [[Sagrado Corazón de Jesús]] y fue promovida especialmente a partir de las apariciones de Fátima (1917). Su fiesta litúrgica se celebra el día después del Sagrado Corazón de Jesús.
+Devoción católica que venera el corazón de la Virgen María como símbolo de su amor inmaculado y perfecto a Dios, su pureza virginal y su compasión maternal por todos los hombres. Está estrechamente vinculada al [[sagrado_corazón_de_jesús]] y fue promovida especialmente a partir de las apariciones de Fátima (1917). Su fiesta litúrgica se celebra el día después del Sagrado Corazón de Jesús.
 
 ## Desarrollo doctrinal
 

@@ -17,7 +17,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 - [[eucaristía]] — Reverencia absoluta al Cuerpo y Sangre de Cristo
 - [[jerarquía_eclesiástica]] — Respeto incondicional a los sacerdotes
 - [[regla_de_los_frailes_menores]] — Observancia del santo Evangelio como fundamento
-- [[pobreza_evangelica]] — Renuncia total a la propiedad
+- [[pobreza_evangélica]] — Renuncia total a la propiedad
 - [[obediencia]] — Sujeción al ministro general y guardianes
 - [[trabajo]] — Exigencia de trabajar para no ser ocioso
 - [[evangelio_santo]] — La Regla como recordatorio de la vida evangélica

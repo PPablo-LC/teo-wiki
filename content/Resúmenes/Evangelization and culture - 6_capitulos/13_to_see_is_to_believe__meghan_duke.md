@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization_and_culture", "arte"]
 ## Conceptos básicos referenciados
 
 - [[arte]] — el icono de la Inmaculada Concepción y la evangelización visual
-- [[María]] — los iconos de la Virgen y su papel en la fe
+- [[maría]] — los iconos de la Virgen y su papel en la fe
 
 ## Contenido
 

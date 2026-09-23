@@ -33,7 +33,7 @@ Rivero describe a Carlomagno como el artífice de la síntesis entre poder tempo
 
 ## Relaciones doctrinales
 
-La labor de Carlomagno está vinculada con la cuestión de las [[investiduras]] (que estalló tras su muerte), el [[filioque]] (cuya inclusión en el Credo promovió en Occidente), el adopcionismo (condenado en Frankfort), y la formación de los [[estados_pontificios]]. Su nieto Carlos el Calvo continuó la política de protección de la Iglesia y la promoción cultural.
+La labor de Carlomagno está vinculada con la cuestión de las [[disputa_de_las_investiduras]] (que estalló tras su muerte), el [[filioque]] (cuya inclusión en el Credo promovió en Occidente), el adopcionismo (condenado en Frankfort), y la formación de los [[estados_pontificios]]. Su nieto Carlos el Calvo continuó la política de protección de la Iglesia y la promoción cultural.
 
 ## Ver también
 

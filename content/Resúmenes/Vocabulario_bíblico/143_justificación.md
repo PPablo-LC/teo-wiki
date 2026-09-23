@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[judio]] — el judaísmo contemporáneo de Jesús
+- [[judío]] — el judaísmo contemporáneo de Jesús
 - [[justicia]] — la justicia de Dios
 - [[pecado]] — la oposición del pecado a la justificación
 - [[dios]] — Dios, juez que justifica
@@ -23,10 +23,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[gracia]] — la gracia que justifica
 - [[cristo_jesus]] — Cristo, nuestra justificación
 - [[paz]] — la paz con Dios
-- [[reconciliacion]] — la reconciliación
-- [[santificacion]] — la santificación
+- [[reconciliación]] — la reconciliación
+- [[santificación]] — la santificación
 - [[bautismo]] — la justificación en el bautismo
-- [[espiritu]] — el Espíritu que da vida
+- [[espíritu]] — el Espíritu que da vida
 - [[libre_arbitrio]] — la respuesta del hombre
 - [[mérito]] — la obra y el mérito del hombre
 - [[predicar]] — la predicación de la fe
@@ -39,7 +39,7 @@ Ateniéndose al sentido orgánico de la justicia de Dios, conviene considerar la
 
 En la raíz de la justificación, tal como la entiende el NT, está la justicia de Dios en el AT. La justicia de Dios no era la de un juez aplicando las leyes: era la del [[dios|Dios]] que obra la justicia en favor de los suyos: "hacer justicia" era otorgar la salvación. Israel había comprendido que su Dios era justo, y que su justicia era la justicia que salva.
 
-En el [[judio|judaísmo]] contemporáneo de Jesús se corre el peligro de someter la justicia de Dios a la ley. La salvación se busca en una justicia adquirida por las obras: el hombre que cumple la ley se hace justo delante de Dios. San Pablo se enfrentará a esta mentalidad: el hombre no puede conseguir su justicia por sus propias fuerzas; el camino correcto es la fe.
+En el [[judío|judaísmo]] contemporáneo de Jesús se corre el peligro de someter la justicia de Dios a la ley. La salvación se busca en una justicia adquirida por las obras: el hombre que cumple la ley se hace justo delante de Dios. San Pablo se enfrentará a esta mentalidad: el hombre no puede conseguir su justicia por sus propias fuerzas; el camino correcto es la fe.
 
 ## La justificación del pecador
 
@@ -51,7 +51,7 @@ La justificación se realiza por la muerte y resurrección de Cristo. Dios justi
 
 San Pablo considera la justificación como el corazón de su evangelio. La justificación por la fe es la respuesta a la cuestión decisiva: ¿cómo se salva el hombre pecador? La respuesta es: gratuitamente, por la fe en Jesucristo. Nadie es justificado por las obras de la ley *Rom 3,28*. La ley descubría el pecado, pero no daba la fuerza para vencerlo *Rom 7*.
 
-La justificación es un acto de Dios, no una conquista humana. Es una gracia: don del amor divino, no un pago. El justificado recibe la [[gracia]] del Espíritu y se convierte en criatura nueva. La justificación lleva consigo la [[paz]] con Dios *Rom 5,1* y la [[reconciliacion|reconciliación]] *Rom 5,10s*.
+La justificación es un acto de Dios, no una conquista humana. Es una gracia: don del amor divino, no un pago. El justificado recibe la [[gracia]] del Espíritu y se convierte en criatura nueva. La justificación lleva consigo la [[paz]] con Dios *Rom 5,1* y la [[reconciliación|reconciliación]] *Rom 5,10s*.
 
 El orden de la gratuidad se funda en la obra de Cristo: Dios hace justicia en Jesucristo y nos justifica a nosotros. Esta justicia de Dios "se manifiesta por la fe en Jesucristo para todos los que creen" *Rom 3,22*.
 

@@ -13,7 +13,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ## Conceptos básicos referenciados
 
 - [[participación_femenina]] — participación de las mujeres en la vida de la Iglesia sin discriminación
-- [[Jesucristo]] — eligió a sus Apóstoles entre los hombres, elección normativa para sus sucesores
+- [[jesucristo]] — eligió a sus Apóstoles entre los hombres, elección normativa para sus sucesores
 - [[resurrección]] — las mujeres como primeras testigos y heraldos
 - [[Christifideles_laici]] — Sínodo sobre los laicos (1987), Propositio 47, n. 51
 - [[genio_femenino]] — actuación plena en los diversos ámbitos de la vida de la Iglesia

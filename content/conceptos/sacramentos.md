@@ -122,7 +122,7 @@ El CIC regula los sacramentos en los cánones 840-848 como principios comunes. S
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium presenta los [[sacramentos]] como medios por los cuales la vida de Cristo se comunica a los creyentes «de un modo arcano, pero real» [ConcVatII, LG §7]. «El carácter sagrado y orgánicamente estructurado de la comunidad sacerdotal se actualiza por los sacramentos y por las virtudes» [ConcVatII, LG §11].
+Lumen Gentium presenta los **sacramentos** como medios por los cuales la vida de Cristo se comunica a los creyentes «de un modo arcano, pero real» [ConcVatII, LG §7]. «El carácter sagrado y orgánicamente estructurado de la comunidad sacerdotal se actualiza por los sacramentos y por las virtudes» [ConcVatII, LG §11].
 
 Los fieles, incorporados a la Iglesia por el [[bautismo]], quedan destinados por el carácter al culto de la religión cristiana. Por la [[confirmación]] se vinculan más estrechamente a la Iglesia y se enriquecen con una fuerza especial del Espíritu Santo. El sacrificio eucarístico es «fuente y cumbre de toda la vida cristiana» [ConcVatII, LG §11]. La [[sacramento_de_la_reconciliación|penitencia]] reconcilia con Dios y con la Iglesia. La [[unción_de_los_enfermos]] encomienda los enfermos al Señor. El [[sacramento_del_orden]] sella a los que son destinados a apacentar la Iglesia. El [[matrimonio]] significa y participa el misterio de unidad entre Cristo y la Iglesia [ConcVatII, LG §11].
 

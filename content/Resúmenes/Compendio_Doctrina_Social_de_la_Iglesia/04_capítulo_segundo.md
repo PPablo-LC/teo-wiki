@@ -18,7 +18,7 @@ tags: ["resumen", "doctrina_social", "evangelización", "magisterio", "misión_e
 - [[bien_común]] — Bienestar de la comunidad social
 - [[justicia_social]] — Orden social conforme a la dignidad humana
 - [[solidaridad]] — Virtud que une a los hombres como hermanos
-- [[Concilio_Vaticano_II]] — Concilio que renovó la relación Iglesia-mundo
+- [[concilio_vaticano_ii]] — Concilio que renovó la relación Iglesia-mundo
 - [[teología_moral]] — Ciencia que estudia la conducta moral del hombre
 
 ## I. EVANGELIZACIÓN Y DOCTRINA SOCIAL

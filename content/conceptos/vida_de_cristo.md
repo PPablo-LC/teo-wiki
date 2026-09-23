@@ -34,11 +34,11 @@ La pobreza de Cristo fue voluntaria, no forzada por necesidad, y por ello merito
 
 ## Relaciones doctrinales
 
-El genero de vida de Cristo es la manifestacion concreta de la [[encarnacion]] y modelo para toda [[vida_cristiana]]. Su pobreza voluntaria es fundamento de la [[pobreza_evangelica]] y los [[consejos_evangelicos]]. Su observancia de la ley mosaica muestra la relacion entre la [[ley_mosaica]] y la [[ley_nueva]]. La distincion entre [[vida_activa]] y [[vida_contemplativa]] se ilumina en su ejemplo.
+El genero de vida de Cristo es la manifestacion concreta de la [[encarnacion]] y modelo para toda [[vida_cristiana]]. Su pobreza voluntaria es fundamento de la [[pobreza_evangélica]] y los [[consejos_evangélicos]]. Su observancia de la ley mosaica muestra la relacion entre la [[ley_mosaica]] y la [[ley_nueva]]. La distincion entre [[vida_activa]] y [[vida_contemplativa]] se ilumina en su ejemplo.
 
 ## Ver tambien
 
-[[encarnacion]], [[natividad]], [[bautismo]], [[predicacion]], [[milagros]], [[pobreza_evangelica]], [[humildad]], [[ley_mosaica]], [[circuncision]], [[ayuno]], [[vida_contemplativa]], [[vida_activa]], [[consejos_evangelicos]], [[tentacion]]
+[[encarnacion]], [[natividad]], [[bautismo]], [[predicación]], [[milagros]], [[pobreza_evangélica]], [[humildad]], [[ley_mosaica]], [[circuncisión]], [[ayuno]], [[vida_contemplativa]], [[vida_activa]], [[consejos_evangélicos]], [[tentación]]
 
 ## Referencias
 

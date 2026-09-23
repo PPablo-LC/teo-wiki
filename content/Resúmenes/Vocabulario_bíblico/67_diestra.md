@@ -16,8 +16,8 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[poder]] — la diestra como símbolo del poder de Dios
 - [[fuerza]] — la fuerza del «hijo de la diestra»
-- [[salvacion]] — la liberación del pueblo por la diestra divina
-- [[mesias]] — el Mesías, hijo de la diestra
+- [[salvación]] — la liberación del pueblo por la diestra divina
+- [[mesías]] — el Mesías, hijo de la diestra
 - [[reino_de_dios]] — el rey de Israel confirmado por Dios
 - [[testimonio]] — Esteban, testigo a la diestra de Dios
 - [[juicio]] — el Hijo del hombre que pone a los benditos a su diestra
@@ -32,4 +32,4 @@ No sólo es la más hábil de las dos, sino también la más fuerte, la mano que
 
 ### El puesto a la derecha.
 
-La mano derecha protege a los que se hallan en este puesto; la diestra de Dios es el lugar donde sus amigos gustarán de las delicias eternas *Sal 16,11*, el lugar donde el [[mesias|Mesías]] se sentará como Señor junto a él *Sal 110,1*. Jesús confirma y realiza estas promesas de la antigua alianza. Cuando venga a juzgar como rey a todo el universo, el Hijo del hombre pondrá a su diestra a los benditos de su Padre *Mt 25,31-34*. Él mismo afirma que se le verá sentado a la diestra del Poder, según el anuncio del Salmo 110 *Mt 26,64*; y antes del momento en que sus enemigos le vean aparecer en este puesto como juez, Esteban lo ve allí de pie como [[testimonio|testigo]] *Act 7,55*.
+La mano derecha protege a los que se hallan en este puesto; la diestra de Dios es el lugar donde sus amigos gustarán de las delicias eternas *Sal 16,11*, el lugar donde el [[mesías|Mesías]] se sentará como Señor junto a él *Sal 110,1*. Jesús confirma y realiza estas promesas de la antigua alianza. Cuando venga a juzgar como rey a todo el universo, el Hijo del hombre pondrá a su diestra a los benditos de su Padre *Mt 25,31-34*. Él mismo afirma que se le verá sentado a la diestra del Poder, según el anuncio del Salmo 110 *Mt 26,64*; y antes del momento en que sus enemigos le vean aparecer en este puesto como juez, Esteban lo ve allí de pie como [[testimonio|testigo]] *Act 7,55*.

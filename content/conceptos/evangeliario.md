@@ -13,7 +13,7 @@ timestamp: 2026-07-15
 
 ## Definición
 
-El Evangeliario (o *Evangelario*) es el [[libros_litúrgicos|libro litúrgico]] que contiene exclusivamente los textos de los [[evangelio|Evangelios]] para su proclamación en la [[misa|Misa]]. Se distingue del [[leccionario]], que contiene todas las lecturas bíblicas.
+El Evangeliario (o *Evangelario*) es el [[libros_liturgicos|libro litúrgico]] que contiene exclusivamente los textos de los [[evangelio|Evangelios]] para su proclamación en la [[misa|Misa]]. Se distingue del [[leccionario]], que contiene todas las lecturas bíblicas.
 
 ## Desarrollo doctrinal
 

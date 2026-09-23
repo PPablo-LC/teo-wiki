@@ -38,11 +38,11 @@ La exhortación apostólica Gaudete et exsultate (2018) desarrolla el neo-pelagi
 
 ## Relaciones doctrinales
 
-Se relaciona con [[neo-gnosticismo]], [[emociones_y_fe]], [[corazon]], [[pelagianismo]], [[gracia]], [[gaudete_et_exsultate]]
+Se relaciona con [[neo-gnosticismo]], [[emociones_y_fe]], [[corazón]], [[pelagianismo]], [[gracia]], [[gaudete_et_exsultate]]
 
 ## Ver también
 
-[[neo-gnosticismo]], [[emociones_y_fe]], [[corazon]], [[gaudete_et_exsultate]]
+[[neo-gnosticismo]], [[emociones_y_fe]], [[corazón]], [[gaudete_et_exsultate]]
 
 ## Referencias
 

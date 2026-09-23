@@ -33,7 +33,22 @@ El capítulo cita también a Emmanuel Mounier ante su hija convertida en «un pi
 
 ## Ver también
 
-[[san_camillo_de_lellis]], [[san_vicente_de_paul]], [[san_juan_bosco]], [[caridad]], [[providencia]]
+[[san_camillo_de_lellis]], [[san_vicente_de_paúl]], [[san_juan_bosco]], [[caridad]], [[providencia]]
+
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. V: todo cambió «la noche en que fue llamado
+to a la cabecera de una parturienta febril (ya madre de cinco hijos) que
+moría en un cobertizo, por haber sido rechazada por todos los hospitales».
+Salió de allí con una certeza: «La gracia está hecha. ¡Bendita sea la
+santa Virgen!». Su genialidad fue pensar su casa «con el sistema de las
+"familias"» y fundar también cinco monasterios contemplativos y uno de
+ermitaños, para mantener vivo «un corazón comprometido en la intercesión
+y la adoración de Dios». Se definía siempre solo como «**el peón de la
+Divina Providencia**»; su obra era «mi Arca de Noé», aunque había quien
+sugirió el título de «Universidad de la caridad cristiana». Murió
+repitiendo: «*Misericordia, Domine!* ¡Buena y santa Providencia! ¡Virgen
+santa… ahora os toca a Vosotros!»
 
 ## Referencias
 

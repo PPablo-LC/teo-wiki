@@ -16,21 +16,21 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[tiempo]] — ciertos ritos asignados a ciertos tiempos
 - [[gozo]] — la fiesta religiosa del gozo
-- [[sabado]] — el sábado que fija el ritmo de la semana
+- [[sábado]] — el sábado que fija el ritmo de la semana
 - [[semana]] — el ritmo semanal
 - [[pascua]] — la pascua, fiesta pastoril de primavera
-- [[expiacion]] — el día de la expiación
+- [[expiación]] — el día de la expiación
 - [[primicias]] — la ofrenda de las primicias del ganado
 - [[pentecostés]] — la fiesta de las mieses o semanas (cincuentena)
 - [[vendimia]] — la fiesta de la recolección o vendimia
 - [[desierto]] — los tabernáculos recuerdan las marchas por el desierto
 - [[esperanza]] — la fiesta actualiza el término de la salud
 - [[nuevo]] — un nuevo éxodo anunciado
-- [[exodo]] — el éxodo conmemorado anuncia un nuevo éxodo
+- [[éxodo]] — el éxodo conmemorado anuncia un nuevo éxodo
 - [[naciones]] — las naciones subirán a Jerusalén
-- [[confesion]] — las confesiones colectivas del día de la expiación
+- [[confesión]] — las confesiones colectivas del día de la expiación
 - [[deseo]] — el deseo de una conversión profunda
-- [[eucaristia]] — el misterio pascual conmemorado en la eucaristía
+- [[eucaristía]] — el misterio pascual conmemorado en la eucaristía
 - [[día_del_señor]] — el domingo, día de la resurrección del Señor
 - [[cordero_de_dios]] — el verdadero cordero pascual
 - [[misterio_pascual]] — la celebración del misterio pascual
@@ -43,7 +43,7 @@ En todas las religiones es la fiesta un elemento esencial del culto: con ciertos
 
 #### I. ORIGEN DE LAS FIESTAS JUDÍAS
 
-El retorno del ciclo lunar, que delimitaba el mes israelita, dio muy naturalmente lugar a fiestas: a veces la luna llena *Sal 81,4*, ordinariamente la luna nueva (*neomenia*: *1Sa 20,5* *2Re 4,23* *Am 8,5*), finalmente el [[sabado|sábado]] que fijaba el ritmo de la [[semana|semana]] *Ex 20,8-11*. El ciclo solar traía consigo la fiesta del Año Nuevo, conocida en todas las civilizaciones; en un principio se unió a la fiesta de la recolección en otoño *Ex 23,16*, luego a la [[pascua|pascua]] de la primavera *Ex 12,2*; de esta liturgia derivan ciertos ritos del día de la [[expiacion|expiación]] *Lev 16*.
+El retorno del ciclo lunar, que delimitaba el mes israelita, dio muy naturalmente lugar a fiestas: a veces la luna llena *Sal 81,4*, ordinariamente la luna nueva (*neomenia*: *1Sa 20,5* *2Re 4,23* *Am 8,5*), finalmente el [[sábado|sábado]] que fijaba el ritmo de la [[semana|semana]] *Ex 20,8-11*. El ciclo solar traía consigo la fiesta del Año Nuevo, conocida en todas las civilizaciones; en un principio se unió a la fiesta de la recolección en otoño *Ex 23,16*, luego a la [[pascua|pascua]] de la primavera *Ex 12,2*; de esta liturgia derivan ciertos ritos del día de la [[expiación|expiación]] *Lev 16*.
 
 Además del marco formado por el ritmo de los astros, la vida cotidiana del israelita, pastor y luego agricultor, dio lugar a fiestas que tienden a confundirse con las precedentes. El día de [[pascua|pascua]], fiesta pastoril de primavera, tenía lugar la ofrenda de las [[primicias|primicias]] del ganado; el trabajo de la tierra dio origen a tres grandes fiestas anuales: ázimos en primavera, [[pentecostés|mieses]] o semanas en verano, recolección o [[vendimia|vendimia]] en otoño *Ex 23,14-17* *34,18.22*. El Deuteronomio une la pascua a los ázimos y da a la fiesta de la recolección el nombre de fiesta de los tabernáculos *Dt 16,1-17*. Ciertos ritos de las fiestas actuales no pueden comprenderse sino en razón de su abolengo pastoril o agrario.
 
@@ -59,11 +59,11 @@ Israel celebra a su Dios por diversos títulos. Al Creador se le conmemora cada 
 
 ##### Anticipación gozosa del porvenir.
 
-La fiesta actualiza en una [[esperanza|esperanza]] auténtica el término de la salud: el pasado de Dios asegura el porvenir del pueblo. El éxodo conmemorado anuncia y garantiza un [[nuevo|nuevo]] [[exodo|éxodo]]: Israel será un día definitivamente liberado *Is 43,15-21* *52,1-12* *55,12s*, el reinado de Yahveh se extenderá a todas las [[naciones|naciones]], que subirán a Jerusalén para la fiesta de los tabernáculos *Zac 14,16-19*. El pueblo debe, pues, «llenarse todo de [[gozo|gozo]]» *Sal 118* *122* *126*: ¿no está en presencia de Dios *Dt 16,11-15* *Lev 23,40*?
+La fiesta actualiza en una [[esperanza|esperanza]] auténtica el término de la salud: el pasado de Dios asegura el porvenir del pueblo. El éxodo conmemorado anuncia y garantiza un [[nuevo|nuevo]] [[éxodo|éxodo]]: Israel será un día definitivamente liberado *Is 43,15-21* *52,1-12* *55,12s*, el reinado de Yahveh se extenderá a todas las [[naciones|naciones]], que subirán a Jerusalén para la fiesta de los tabernáculos *Zac 14,16-19*. El pueblo debe, pues, «llenarse todo de [[gozo|gozo]]» *Sal 118* *122* *126*: ¿no está en presencia de Dios *Dt 16,11-15* *Lev 23,40*?
 
 ##### Exigencias para el presente.
 
-Pero este gozo no es auténtico sino cuando emana de un corazón contrito y purificado; los mismos salmos gozosos hacen presentes estas exigencias: «¡Oh Israel, ojalá me escucharas!», se dice con ocasión de la fiesta de los tabernáculos *Sal 81,9ss*. Precisando más, la fiesta de la expiación dice el [[deseo|deseo]] de una conversión profunda a través de las [[confesion|confesiones]] colectivas *Sal 106* *Neh 9,5-37* *Dan 9,4-19*. Por su parte, los profetas no cesan de protestar contra la seguridad ilusoria que puede dar una liturgia gozosa celebrada por corazones infieles: «Odio, desdeño vuestras fiestas...» *Am 5,21* *Os 2,13* *Is 1,13s*. Con estos oráculos aparentemente destructores no se pretende la supresión real de las fiestas, sino la realización de su sentido pleno: el encuentro con el Dios viviente *Ex 19,17*.
+Pero este gozo no es auténtico sino cuando emana de un corazón contrito y purificado; los mismos salmos gozosos hacen presentes estas exigencias: «¡Oh Israel, ojalá me escucharas!», se dice con ocasión de la fiesta de los tabernáculos *Sal 81,9ss*. Precisando más, la fiesta de la expiación dice el [[deseo|deseo]] de una conversión profunda a través de las [[confesión|confesiones]] colectivas *Sal 106* *Neh 9,5-37* *Dan 9,4-19*. Por su parte, los profetas no cesan de protestar contra la seguridad ilusoria que puede dar una liturgia gozosa celebrada por corazones infieles: «Odio, desdeño vuestras fiestas...» *Am 5,21* *Os 2,13* *Is 1,13s*. Con estos oráculos aparentemente destructores no se pretende la supresión real de las fiestas, sino la realización de su sentido pleno: el encuentro con el Dios viviente *Ex 19,17*.
 
 ### NT
 
@@ -75,6 +75,6 @@ Jesús practicó sin duda las fiestas judías de su tiempo, pero mostraba ya que
 
 Si la pascua del cielo redujo a su unidad escatológica la multiplicidad de las fiestas judías, en adelante confiere un nuevo sentido a las múltiples fiestas de la Iglesia en la tierra. A diferencia de las fiestas judías, conmemoran un acontecimiento acaecido de una vez para siempre, que tiene valor de eternidad; pero las fiestas cristianas, como las fiestas judías, están sometidas al ritmo del tiempo y de la tierra, aun cuando refiriéndose a los hechos mayores de la existencia de Cristo. La Iglesia, si bien debe procurar que no se dé valor excesivo a sus fiestas *Gal 4,10*, las cuales también son sombras de la verdadera fiesta *Col 2,16*, sin embargo, no tiene por qué temer la multiplicidad de aquéllas.
 
-En primer lugar concentra la celebración en el [[misterio_pascual|misterio pascual]] conmemorado en la [[eucaristia|eucaristía]], que congrega a la comunidad el domingo, [[día_del_señor|día]] de la resurrección del Señor *Act 20,7* *1Cor 16,2* *Ap 1,10*. El domingo, punto de partida de la [[semana|semana]], cuyo término era el sábado, marca la novedad radical de la fiesta cristiana, fiesta única, cuya irradiación ilumina el año entero, y cuya riqueza se desarrolla en un ciclo festivo centrado en pascua.
+En primer lugar concentra la celebración en el [[misterio_pascual|misterio pascual]] conmemorado en la [[eucaristía|eucaristía]], que congrega a la comunidad el domingo, [[día_del_señor|día]] de la resurrección del Señor *Act 20,7* *1Cor 16,2* *Ap 1,10*. El domingo, punto de partida de la [[semana|semana]], cuyo término era el sábado, marca la novedad radical de la fiesta cristiana, fiesta única, cuya irradiación ilumina el año entero, y cuya riqueza se desarrolla en un ciclo festivo centrado en pascua.
 
 Luego podrá empalmar con los ciclos naturales (p. ej., las cuatro témporas) evocando las riquezas de su patrimonio judío, pero siempre actualizándolo mediante el acontecimiento de Cristo y orientándolo según el misterio de la eterna fiesta celeste.

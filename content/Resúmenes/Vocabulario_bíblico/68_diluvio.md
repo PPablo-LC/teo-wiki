@@ -16,16 +16,16 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[juicio]] — el juicio divino que hiere al pecador
 - [[arca]] — el arca liberadora
-- [[adan]] — Noé, justo como Adán, representa a los suyos
-- [[eleccion]] — la elección gratuita del resto
+- [[adán]] — Noé, justo como Adán, representa a los suyos
+- [[elección]] — la elección gratuita del resto
 - [[resto]] — el pequeño resto que será el tronco de un pueblo nuevo
 - [[misericordia]] — la misericordia que se opone al castigo vindicativo
 - [[penitencia_y_conversión]] — la vía abierta a la conversión
 - [[agua]] — el juicio por las aguas
 - [[alianza]] — la alianza que asegura la fidelidad de Dios
-- [[exodo]] — el tipo de los juicios salvíficos
+- [[éxodo]] — el tipo de los juicios salvíficos
 - [[figura]] — Noé, figura de Jesucristo
-- [[creacion]] — la nueva creación
+- [[creación]] — la nueva creación
 - [[muerte]] — las aguas de la muerte
 - [[bautismo]] — el agua del bautismo
 - [[iglesia]] — el arca, figura de la Iglesia
@@ -36,13 +36,13 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ### El antiguo diluvio.
 
-El recuerdo de una inundación catastrófica, que se remonta a un pasado muy lejano, fue conservado y agrandado por leyendas sumero-babilónicas de fechas diversas. A la luz de la fe monoteísta, la tradición bíblica hizo una selección de los materiales de esta herencia popular y los cargó de enseñanza moral y religiosa. Lo que se atribuía al capricho de los dioses celosos, aparece ya como obra justa del Dios único; la idea de desastre cede el puesto a la de depuración con miras a una [[salvacion|salvación]], representada por el [[arca]] liberadora; más allá de las fuerzas irresponsables resalta un [[juicio]] divino que hiere al pecador y hace del justo la simiente de una humanidad nueva. La aventura de Noé cesa así de ser un episodio accidental; resume y simboliza toda la historia de Israel y la historia misma de la humanidad.
+El recuerdo de una inundación catastrófica, que se remonta a un pasado muy lejano, fue conservado y agrandado por leyendas sumero-babilónicas de fechas diversas. A la luz de la fe monoteísta, la tradición bíblica hizo una selección de los materiales de esta herencia popular y los cargó de enseñanza moral y religiosa. Lo que se atribuía al capricho de los dioses celosos, aparece ya como obra justa del Dios único; la idea de desastre cede el puesto a la de depuración con miras a una [[salvación|salvación]], representada por el [[arca]] liberadora; más allá de las fuerzas irresponsables resalta un [[juicio]] divino que hiere al pecador y hace del justo la simiente de una humanidad nueva. La aventura de Noé cesa así de ser un episodio accidental; resume y simboliza toda la historia de Israel y la historia misma de la humanidad.
 
-Sólo a Noé se llama justo *Gen 7,1*, pero, como [[adan|Adán]], representa a todos los suyos y los salva juntos con él *Gen 7,1.7.13*. Con esta [[eleccion|elección]] gratuita se reserva Dios un pequeño [[resto]], los que salen indemnes, que serán el tronco de un pueblo nuevo. Si el corazón del hombre que ha sido salvado es todavía proclive al pecado, Dios, no obstante, se declara desde ahora paciente: su [[misericordia]] se opone al castigo puramente vindicativo y abre la vía a la [[penitencia_y_conversión|conversión]] *Gen 8,15-22*. El juicio por las [[agua|aguas]] aboca así a una [[alianza]] que asegura la fidelidad de Dios a la humanidad entera al mismo tiempo que a la familia de Noé *Gen 9,1-17*.
+Sólo a Noé se llama justo *Gen 7,1*, pero, como [[adán|Adán]], representa a todos los suyos y los salva juntos con él *Gen 7,1.7.13*. Con esta [[elección|elección]] gratuita se reserva Dios un pequeño [[resto]], los que salen indemnes, que serán el tronco de un pueblo nuevo. Si el corazón del hombre que ha sido salvado es todavía proclive al pecado, Dios, no obstante, se declara desde ahora paciente: su [[misericordia]] se opone al castigo puramente vindicativo y abre la vía a la [[penitencia_y_conversión|conversión]] *Gen 8,15-22*. El juicio por las [[agua|aguas]] aboca así a una [[alianza]] que asegura la fidelidad de Dios a la humanidad entera al mismo tiempo que a la familia de Noé *Gen 9,1-17*.
 
 ### Figura del futuro.
 
-La teología profética reconoció en el diluvio, como en la liberación por las aguas del mar Rojo en el momento del [[exodo|éxodo]], el tipo mismo de los juicios salvíficos de Dios. La vuelta del exilio, del resto, que será la simiente de un pueblo nuevo, aparece no sólo como un nuevo éxodo, sino como la reiteración de la obra de Noé al salir del arca: «En un amor eterno me apiadé de ti, dice Yahveh, tu redentor. Será como al tiempo de Noé, en que juré que nunca más las aguas de Noé sumergirían a la tierra» *Is 54,7ss*. Los sabios evocan la idea de un juicio saludable: «Noé fue hallado enteramente justo y en el tiempo de la cólera fue retoño. Por él se conservó un resto en la tierra cuando ocurrió el diluvio; alianzas eternas hizo Dios con él» *Eclo 44,17s* *Sab 10,4s* *14,6*. Las imágenes mesiánicas del retoño y del resto hacen ya a Noé [[figura]] de Jesucristo, que será un día el principio de una nueva [[creacion|creación]].
+La teología profética reconoció en el diluvio, como en la liberación por las aguas del mar Rojo en el momento del [[éxodo|éxodo]], el tipo mismo de los juicios salvíficos de Dios. La vuelta del exilio, del resto, que será la simiente de un pueblo nuevo, aparece no sólo como un nuevo éxodo, sino como la reiteración de la obra de Noé al salir del arca: «En un amor eterno me apiadé de ti, dice Yahveh, tu redentor. Será como al tiempo de Noé, en que juré que nunca más las aguas de Noé sumergirían a la tierra» *Is 54,7ss*. Los sabios evocan la idea de un juicio saludable: «Noé fue hallado enteramente justo y en el tiempo de la cólera fue retoño. Por él se conservó un resto en la tierra cuando ocurrió el diluvio; alianzas eternas hizo Dios con él» *Eclo 44,17s* *Sab 10,4s* *14,6*. Las imágenes mesiánicas del retoño y del resto hacen ya a Noé [[figura]] de Jesucristo, que será un día el principio de una nueva [[creación|creación]].
 
 ### El diluvio de los tiempos nuevos.
 

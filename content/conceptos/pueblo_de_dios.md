@@ -48,7 +48,7 @@ El mandamiento del amor recíproco constituye la ley de vida del pueblo de Dios 
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium dedica el capítulo II al [[pueblo_de_dios]]. Cristo convocó un pueblo de judíos y gentiles, unificado no según la carne sino en el Espíritu, constituyendo el nuevo Pueblo de Dios [ConcVatII, LG §9]. Este pueblo mesiánico tiene por cabeza a Cristo, su condición es la dignidad y libertad de los hijos de Dios, su ley el mandato del amor, y su fin dilatar el [[reino_de_dios]] [ConcVatII, LG §9].
+Lumen Gentium dedica el capítulo II al **pueblo de dios**. Cristo convocó un pueblo de judíos y gentiles, unificado no según la carne sino en el Espíritu, constituyendo el nuevo Pueblo de Dios [ConcVatII, LG §9]. Este pueblo mesiánico tiene por cabeza a Cristo, su condición es la dignidad y libertad de los hijos de Dios, su ley el mandato del amor, y su fin dilatar el [[reino_de_dios]] [ConcVatII, LG §9].
 
 Los bautizados son consagrados como casa espiritual y [[sacerdocio_común]], para ofrecer sacrificios espirituales [ConcVatII, LG §10]. El carácter orgánico de la comunidad sacerdotal se actualiza por los [[sacramentos]] y las virtudes [ConcVatII, LG §11]. Todo el Pueblo de Dios participa de la función profética de Cristo, y la totalidad de los fieles posee el [[sensus_fidei]] que no puede equivocarse cuando cree [ConcVatII, LG §12].
 

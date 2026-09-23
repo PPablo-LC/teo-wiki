@@ -48,6 +48,15 @@ Para Giussani, la amistad cristiana no niega la afectividad sino que la lleva a 
 
 La amistad dura en la medida en que se sostiene en Dios: «es un vínculo más fuerte que el atractivo de la simpatía, el de la pasión o el del interés egoísta», hecho para «atravesar el periodo de la tempestad y volver a la luz del sol»; el vínculo es «el resultado, la obra de la libertad», no su contradicción (AED, 28, 73-77). Su raíz es la fe en Cristo presente en la compañía — como el método de estos diálogos, que «se presentan en toma directa» como testimonio de una amistad que investiga lo verdadero (AED, 03, 19).
 
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+DLV presenta la amistad como la sustancia del comportamiento moral y como el lugar de comunión de las criaturas en Cristo:
+
+- **La moralidad como amistad** — «la cosa más sublime del comportamiento moral que Cristo enseña: toda acción, como relación, es amistad»; lo que no es amistad es deficiente, mentiroso (DLV 07, 31).
+- **San Máximo Confesor: Cristo, lugar común de amistad** — las criaturas, convergiendo en Cristo como centro, tienen «común lugar de amistad y paz» (*Mistagogia* I) (DLV 05, 5-11).
+- **El tema de los Esercizi 1997** — *Tu, o dell'amicizia*: la amistad como vía para hablar de Cristo (DLV 02).
+- **Amistad y pertenencia** — adventir a la amistad es «riconoscere di appartenere»; la pertenencia a Cristo funda la amistad verdadera (cfr. [[pertenencia]]) (DLV 01, 77).
+
 ## Distinciones importantes
 
 - **Amistad natural**: por parentesco, intereses o costumbres — inestable

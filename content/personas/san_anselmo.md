@@ -25,7 +25,7 @@ Fue nombrado arzobispo de Canterbury en 1093 por el papa [[urbano_ii]], donde tu
 
 ### Según Historia de la Iglesia — P. Antonio Rivero L.C. (HI)
 
-Rivero presenta a San Anselmo como la figura clave de la pre-escolástica, un período de transición entre la teología patrística y la escolástica plena de [[pedro_lombardo]] y [[santo_tomas_de_aquino]]. Destaca que Anselmo «incentivó a la razón en la explicación de la fe» sin oponerlas, sino mostrando que la fe racionalmente fundamentada es más robusta. Su *Proslogion* contiene el famoso argumento ontológico de la existencia de Dios, y el *Cur Deus Homo* ofrece una teología racional de la redención. Rivero señala que Anselmo sentó las bases para la teología sistemática de la escolástica posterior (HI, cap. 24).
+Rivero presenta a San Anselmo como la figura clave de la pre-escolástica, un período de transición entre la teología patrística y la escolástica plena de [[pedro_lombardo]] y [[santo_tomás_de_aquino]]. Destaca que Anselmo «incentivó a la razón en la explicación de la fe» sin oponerlas, sino mostrando que la fe racionalmente fundamentada es más robusta. Su *Proslogion* contiene el famoso argumento ontológico de la existencia de Dios, y el *Cur Deus Homo* ofrece una teología racional de la redención. Rivero señala que Anselmo sentó las bases para la teología sistemática de la escolástica posterior (HI, cap. 24).
 
 ## Obras principales
 
@@ -37,11 +37,25 @@ Rivero presenta a San Anselmo como la figura clave de la pre-escolástica, un pe
 
 ## Relaciones doctrinales
 
-San Anselmo representa el hito fundacional de la [[escolástica]] medieval. Su método influyó decisivamente en [[santo_tomas_de_aquino]], quien perfeccionó la integración de fe y razón. El argumento ontológico fue debatido posteriormente por Kant y otros filósofos modernos, pero mantuvo centralidad en la metafísica teísta.
+San Anselmo representa el hito fundacional de la [[escolástica]] medieval. Su método influyó decisivamente en [[santo_tomás_de_aquino]], quien perfeccionó la integración de fe y razón. El argumento ontológico fue debatido posteriormente por Kant y otros filósofos modernos, pero mantuvo centralidad en la metafísica teísta.
 
 ## Ver también
 
-[[escolástica]], [[pedro_lombardo]], [[santo_tomas_de_aquino]], [[urbano_ii]], [[fides_quaerens_intellectum]]
+[[escolástica]], [[pedro_lombardo]], [[santo_tomás_de_aquino]], [[urbano_ii]], [[fides_quaerens_intellectum]]
+
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: «Junto a san Agustín y santo Tomás de
+Aquino, es considerado uno de los tres grandes teólogos de la Iglesia en
+Occidente». Como arzobispo de Canterbury tropezó con las pretensiones de
+los reyes Guillermo el Rojo y Enrique I, que lo enviaron repetidamente al
+exilio por defender la libertad de la Iglesia. Su teología «se convierte
+de hecho en oración». Su muerte estuvo marcada por una dulce coincidencia:
+de niño había soñado que Dios le daba a comer «un pan blanquísimo» en su
+mansión más allá de los Alpes; murió después de escuchar el evangelio de
+Lc 22,28: «He preparado para vosotros un reino… para que comáis y bebáis
+en mi mesa».
 
 ## Referencias
 - [HI, Archivo 24]
+- A. M. Sicari, *Así mueren los santos*, cap. VI (Rialp, 2020)

@@ -41,7 +41,7 @@ Además de la dirección espiritual, las Constituciones establecen el diálogo p
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
-Tóth insiste en la [[dirección_espiritual]] como necesaria en todas las etapas: pequeños escolares, adolescentes y universitarios. El director debe conocer el alma, ser optimista pedagógico, tener coherencia de vida y amor sobrenatural. La dirección espiritual de universitarios requiere abordar la crisis de fe en la universidad y el diálogo [[fe]]-[[razón]]. El acompañamiento espiritual personalizado es irremplazable para el crecimiento en la vida interior [JvC-Rel, Archivos 06, 07, 08, 11, 21].
+Tóth insiste en la **dirección espiritual** como necesaria en todas las etapas: pequeños escolares, adolescentes y universitarios. El director debe conocer el alma, ser optimista pedagógico, tener coherencia de vida y amor sobrenatural. La dirección espiritual de universitarios requiere abordar la crisis de fe en la universidad y el diálogo [[fe]]-[[razón]]. El acompañamiento espiritual personalizado es irremplazable para el crecimiento en la vida interior [JvC-Rel, Archivos 06, 07, 08, 11, 21].
 
 ### Según Juan Pablo II (VocExp)
 

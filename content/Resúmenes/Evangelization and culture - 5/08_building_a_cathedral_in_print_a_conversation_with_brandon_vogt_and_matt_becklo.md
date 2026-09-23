@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization_and_culture", "biblia"]
 ## Conceptos básicos referenciados
 
 - [[biblia]] — la Biblia Word on Fire como herramienta de evangelización
-- [[via_pulchritudinis]] — la vía de la belleza como camino evangelizador
+- [[vía_pulchritudinis]] — la vía de la belleza como camino evangelizador
 
 ## Contenido
 

@@ -25,7 +25,7 @@ En el AT, las naciones son a la vez adversarias de Dios (por su [[idolatría]] y
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
-**En el AT: misterio de los orígenes.** La Escritura afirma la [[unidad]] del género humano (Hch 17,26; Gn 9,18s) y la diversificación de las naciones como querida por Dios (Gn 10; Dt 32,8s). Pero el [[pecado]] intervino: Adán y Eva quisieron «ser como dioses» (Gn 3,5); los hombres en Sinear intentaron construir una torre que llegara al cielo (Gn 11,4). La condición humana actual —con odios sangrientos y confusión de [[lenguas]]— es consecuencia de esta desmesura. Las naciones nacen a la historia con la doble tara de la [[idolatría]] y la [[soberbia]]. Sobre este trasfondo surge la vocación de [[Abraham]] (Gn 12,1ss).
+**En el AT: misterio de los orígenes.** La Escritura afirma la [[unidad]] del género humano (Hch 17,26; Gn 9,18s) y la diversificación de las naciones como querida por Dios (Gn 10; Dt 32,8s). Pero el [[pecado]] intervino: Adán y Eva quisieron «ser como dioses» (Gn 3,5); los hombres en Sinear intentaron construir una torre que llegara al cielo (Gn 11,4). La condición humana actual —con odios sangrientos y confusión de [[don_de_lenguas]]— es consecuencia de esta desmesura. Las naciones nacen a la historia con la doble tara de la [[idolatría]] y la [[soberbia]]. Sobre este trasfondo surge la vocación de [[abraham]] (Gn 12,1ss).
 
 **Israel y las naciones en la historia.** Las naciones son adversarias de Dios por partida doble: amenaza política (Egipto, Asiria, Babilonia) y seducción religiosa (cultos cananeos, helenismo). Israel debe separarse de ellas para no contaminarse (Dt 7,1-8). Sin embargo, Yahveh es un Dios universal: tiene planes sobre todas las naciones (Am 9,7), las somete a su [[juicio]] (Am 1,3–2,3) y las usa como instrumentos de su designio (Is 10,5; 41,1-5). Algunos de sus miembros se incorporan al pueblo de la alianza: Melquisedec (Gn 14,18ss), Rahab (Jos 6,25), Rut (Rt 1,16), los gabaonitas (Jos 9,19-27), anticipando el universalismo futuro.
 
@@ -44,7 +44,7 @@ En el AT, las naciones son a la vez adversarias de Dios (por su [[idolatría]] y
 
 ## Relaciones doctrinales
 
-Se relaciona con [[israel]], [[pueblo_de_dios]], [[iglesia]], [[judío]], [[extranjero]], [[elección]], [[alianza]], [[universalismo]], [[babel]], [[misión]], [[apóstoles]], [[pablo]].
+Se relaciona con [[israel]], [[pueblo_de_dios]], [[iglesia]], [[judío]], [[extranjero]], [[elección]], [[alianza]], [[universalismo]], [[babel]], [[misión]], [[apóstoles]], [[san_pablo]].
 
 ## Ver también
 

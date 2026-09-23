@@ -43,7 +43,7 @@ Varden retoma la distinción agustiniana: cualquier deformidad infligida por una
 
 ## Relaciones doctrinales
 
-Se relaciona con [[gloria]], [[gloria_de_Dios]], [[gracia_santificante]], [[santidad]], [[perfección_cristiana]], [[eucaristía]], [[cruz]], [[tribulación]], [[imagen_de_dios]], [[esperanza]]
+Se relaciona con [[gloria]], [[gloria_de_dios]], [[gracia_santificante]], [[santidad]], [[perfección_cristiana]], [[eucaristía]], [[cruz]], [[tribulación]], [[imagen_de_dios]], [[esperanza]]
 
 ## Referencias
 

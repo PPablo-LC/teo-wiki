@@ -37,11 +37,11 @@ Tercero, la casa espiritual del Padre y de sus hijos: Cristo es la Sabiduría qu
 
 ## Relaciones doctrinales
 
-La casa se vincula con el [[templo]], la [[iglesia]], la [[familia]], la [[habitación_de_dios]], la [[Jerusalén_celestial]], el [[hogar]], la [[herencia]] y la [[filiación_divina]].
+La casa se vincula con el [[templo]], la [[iglesia]], la [[familia]], la [[habitación_de_dios]], la [[jerusalén_celestial]], el [[hogar]], la [[herencia]] y la [[filiación_divina]].
 
 ## Ver también
 
-[[templo]], [[iglesia]], [[familia]], [[habitación_trinitaria]], [[Jerusalén_celestial]], [[filiación_divina]], [[pueblo_de_dios]]
+[[templo]], [[iglesia]], [[familia]], [[habitación_trinitaria]], [[jerusalén_celestial]], [[filiación_divina]], [[pueblo_de_dios]]
 
 ## Referencias
 

@@ -17,7 +17,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[buen_pastor]] — el pastor, tema de la comparación
 - [[matrimonio]] — el matrimonio, tema de la comparación
 - [[reino_de_dios]] — el reino de Dios en las parábolas
-- [[revelacion]] — el contenido de la revelación envuelto en imágenes
+- [[revelación]] — el contenido de la revelación envuelto en imágenes
 - [[misterio]] — el misterio que ocultan las parábolas
 - [[endurecimiento]] — el endurecimiento de los judíos ante el mensaje
 - [[dios]] — el Padre de los cielos
@@ -44,7 +44,7 @@ Se da el caso de que el recurso a la comparación no se relacione sólo con el c
 
 ### En la profecía del AT.
 
-Mucho más que a los enigmas de los sabios *1Re 10,1-3* *Eclo 39,3*, hay que recurrir a la presentación voluntariamente misteriosa de escritos tardíos, para explicar el carácter enigmático de ciertas parábolas evangélicas. A partir de Ezequiel el anuncio profético del porvenir se transforma poco a poco en apocalipsis; es decir que envuelve voluntariamente el contenido de la [[revelacion|revelación]] en una serie de imágenes que tienen necesidad de explicación para poderse comprender. La presencia de un «ángel-intérprete» hace generalmente resaltar la profundidad del mensaje y su dificultad. Así la alegoría del águila en *Ez 17,3-10*, llamada «enigma» y «parábola» (*masal*) es explicada luego por el profeta *17,12-21*. Las visiones de Zacarías comportan un ángel-intérprete *Zac 1,9ss* *4,5s..* y sobre todo las grandes visiones apocalípticas de Daniel, en las que se supone constantemente que el vidente no comprende *Dan 7,15s* *8,15s* *9,22*.
+Mucho más que a los enigmas de los sabios *1Re 10,1-3* *Eclo 39,3*, hay que recurrir a la presentación voluntariamente misteriosa de escritos tardíos, para explicar el carácter enigmático de ciertas parábolas evangélicas. A partir de Ezequiel el anuncio profético del porvenir se transforma poco a poco en apocalipsis; es decir que envuelve voluntariamente el contenido de la [[revelación|revelación]] en una serie de imágenes que tienen necesidad de explicación para poderse comprender. La presencia de un «ángel-intérprete» hace generalmente resaltar la profundidad del mensaje y su dificultad. Así la alegoría del águila en *Ez 17,3-10*, llamada «enigma» y «parábola» (*masal*) es explicada luego por el profeta *17,12-21*. Las visiones de Zacarías comportan un ángel-intérprete *Zac 1,9ss* *4,5s..* y sobre todo las grandes visiones apocalípticas de Daniel, en las que se supone constantemente que el vidente no comprende *Dan 7,15s* *8,15s* *9,22*.
 
 ### En el Evangelio.
 

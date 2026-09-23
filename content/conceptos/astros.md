@@ -29,7 +29,7 @@ Israel sucumbió a la tentación de los cultos astrales, pero los profetas y la 
 - Astros que se oscurecen (signos escatológicos) vs. gloria divina que ilumina la nueva Jerusalén
 
 ## Relaciones doctrinales
-[[creación]], [[ángeles]], [[idolos]], [[cielo]], [[gloria]]
+[[creación]], [[ángeles]], [[ídolos]], [[cielo]], [[gloria]]
 
 ## Ver también
 [[tiempo]], [[luz]], [[parusía]], [[juicio]]

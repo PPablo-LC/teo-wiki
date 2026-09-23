@@ -47,7 +47,7 @@ El galicanismo hunde sus raíces en el conciliarismo medieval (Constanza, Basile
 
 ## Relaciones doctrinales
 
-[[primado_del_romano_pontífice]], [[infalibilidad_papal]], [[conciliarismo]], [[relación_iglesia_estado]], [[potestad_indirecta]], [[febronianismo]], [[jansenismo]], [[sínodo_de_pistoya]]
+[[primado_del_romano_pontífice]], [[infalibilidad_papal]], [[conciliarismo]], [[relación_iglesia_estado]], [[potestad_indirecta]], [[febronianismo]], [[jansenismo]], [[sinodo_de_pistoya]]
 
 ## Ver también
 

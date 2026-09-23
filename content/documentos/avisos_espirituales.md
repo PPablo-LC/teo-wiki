@@ -28,7 +28,7 @@ La obra se organiza en seis secciones:
 
 2. **Puntos de amor, reunidos en Beas** (42 puntos): Instrucciones dadas a las monjas del convento de Beas de Segura. Desarrollan la vida contemplativa: [[silencio_interior]], [[paz_interior]], [[contemplación_infusa]], las condiciones del pájaro solitario como imagen del alma contemplativa (§41), los cinco daños del [[apetito]] (§33), la [[perfección_cristiana]] en humildad y rendimiento (§34), y la insignia de la [[divinización]] (§27: «Lo que pretende Dios es hacernos dioses por participación»).
 
-3. **Avisos copiados por Magdalena del Espíritu Santo, en Beas** (7 avisos): Breves instrucciones sobre [[imitación_de_cristo]], mortificación de las cuatro pasiones (§3), y la prontitud en la [[obediencia]], el gozo en el padecer, la mortificación de la vista, el silencio y la esperanza (§6).
+3. **Avisos copiados por Magdalena del Espíritu Santo, en Beas** (7 avisos): Breves instrucciones sobre [[imitacion_de_cristo]], mortificación de las cuatro pasiones (§3), y la prontitud en la [[obediencia]], el gozo en el padecer, la mortificación de la vista, el silencio y la esperanza (§6).
 
 4. **Avisos conservados por la M. María de Jesús** (5 avisos): Aforismos breves sobre levantarse sobre sí mismo, huir con el pensamiento, limpiar de aficiones, y el canto con compunción.
 

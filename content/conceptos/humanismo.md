@@ -60,7 +60,7 @@ El humanismo dignificó al hombre, promovió el estudio crítico de los textos (
 
 ## Relaciones doctrinales
 
-El humanismo se relaciona con la [[reforma_protestante]] (preparó el terreno filológico y crítico), la [[ilustración]] (su heredera secularizada), la [[escolástica]] (a la que desplazó temporalmente), la [[imprenta]] (su medio de difusión) y la [[evangelización_de_america]] (los misioneros humanistas llevaron la cultura letrada al Nuevo Mundo).
+El humanismo se relaciona con la [[reforma_protestante]] (preparó el terreno filológico y crítico), la [[ilustracion]] (su heredera secularizada), la [[escolástica]] (a la que desplazó temporalmente), la [[imprenta]] (su medio de difusión) y la [[evangelizacion_de_america]] (los misioneros humanistas llevaron la cultura letrada al Nuevo Mundo).
 
 ## Ver también
 

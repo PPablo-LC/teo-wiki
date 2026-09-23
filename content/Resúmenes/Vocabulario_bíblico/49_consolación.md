@@ -16,18 +16,18 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[tristeza]] — la tristeza como circunstancia de la consolación
 - [[enfermedad_y_curación]] — la enfermedad como circunstancia
-- [[persecucion]] — la persecución como circunstancia
+- [[persecución]] — la persecución como circunstancia
 - [[exilio]] — la experiencia del abandono de Jerusalén
 - [[esperanza]] — la esperanza del pueblo consolado
 - [[castigos]] — el castigo del exilio
 - [[promesas]] — las promesas hechas por los profetas
 - [[amor]] — el proceder de amor de Dios
-- [[pastor_y_rebano]] — Dios consuela con bondad de pastor
+- [[pastor_y_rebaño]] — Dios consuela con bondad de pastor
 - [[padres_y_padre]] — el afecto de un padre
 - [[esposo]] — el ardor de un prometido, de un esposo
 - [[madre]] — la ternura de una madre
 - [[enfermedad_y_curación]] — la salud escatológica
-- [[mesias]] — el Mesías, «consolación de Israel»
+- [[mesías]] — el Mesías, «consolación de Israel»
 - [[fidelidad]] — los fieles en la peregrinación terrena
 - [[prueba_y_tentación]] — los fieles animados en sus pruebas
 - [[pobres]] — el mensaje de consolación a los afligidos y pobres
@@ -35,7 +35,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[reino_de_dios]] — el reino de su Padre
 - [[pecado]] — los abrumados por sus pecados
 - [[reposo]] — el reposo ofrecido a los que penan
-- [[paraclito]] — el Paráclito, Espíritu de consolación
+- [[paráclito]] — el Paráclito, Espíritu de consolación
 - [[milagro]] — los milagros como signos del Dios que consuela
 - [[gozo]] — el gozo que nace en el corazón
 - [[sufrimiento]] — la prueba unida al sufrimiento de Cristo

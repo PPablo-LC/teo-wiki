@@ -14,8 +14,8 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "juan_pablo_ii", "vaticano_ii
 
 - [[derecho_canónico]] — Legislación de la Iglesia latina
 - [[código_de_derecho_canónico]] — Corpus legal promulgado en 1983
-- [[Concilio_Vaticano_II]] — Concilio que inspiró la renovación del Código
-- [[Juan_Pablo_II]] — Papa que promulgó el Código en 1983
+- [[concilio_vaticano_ii]] — Concilio que inspiró la renovación del Código
+- [[juan_pablo_ii]] — Papa que promulgó el Código en 1983
 - [[Iglesia_latina]] — Iglesia sujeta al Código de Derecho Canónico
 - [[disciplina_eclesiástica]] — Orden y normas de la vida eclesial
 - [[Instituto_Martín_de_Azpilcueta]] — Instituto que preparó esta edición

@@ -19,7 +19,7 @@ tags: ["resumen", "paradoxes of faith"]
 - [[cristianismo]] — misterio ante el que siempre somos ignorantes
 - [[apostolado]] — debe vivir, pensar y sufrir con los hombres de su tiempo
 - [[fe]] — se pierde cuando se descubre un universo donde el cristianismo parece no tener lugar
-- [[pascal]] — citado
+- [[blaise_pascal]] — citado
 
 ## Contenido
 

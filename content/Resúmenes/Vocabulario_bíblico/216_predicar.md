@@ -23,10 +23,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[penitencia_y_conversión]] — el llamamiento a la conversión
 - [[cumplir]] — el cumplimiento de las profecías
 - [[reino_de_dios]] — el reino de los cielos está cerca
-- [[Espíritu]] — el don del Espíritu
+- [[espíritu]] — el don del Espíritu
 - [[iglesia]] — el nacimiento de la Iglesia
 - [[resurrección]] — la resurrección de Cristo
-- [[Señor]] — Jesús, Señor glorificado
+- [[señor]] — Jesús, Señor glorificado
 - [[juicio]] — el juicio futuro
 - [[victoria]] — la victoria de Cristo sobre la muerte
 - [[muerte]] — la muerte vencida
@@ -58,7 +58,7 @@ Una misma palabra inaugura la predicación de Jesús y la de su Precursor, y cor
 
 Si la predicación exige conversión, es porque anuncia el acontecimiento de la salvación. «El [[reino_de_dios]] de los cielos está cerca» *Mt 4,17*, proclama Jesús, como el Precursor *3,2*; los discípulos anuncian el mismo hecho: se han [[cumplir|cumplido]] las profecías. Jesús se presenta como el [[siervo_de_yahvé|siervo]] que evangeliza a los pobres: «hoy se ha cumplido esta palabra» *Lc 4,17-21* *Is 61,1s*.
 
-El día de Pascua el reino se manifestó en la gloria del resucitado; el día de Pentecostés el don del [[Espíritu]] dio nacimiento a la [[iglesia|Iglesia]]. En adelante la predicación proclama un hecho actual que muestra al Espíritu Santo en acción, que remite a un acontecimiento pasado (la pascua de Cristo) y a un acontecimiento futuro (la parusía del Señor). Jesús resucitó y vive: es [[Señor]], glorificado en el cielo *3,21* y ha de volver triunfalmente para el [[juicio]] *1Tes 1,10* *2Tes 1,7*. La predicación es esencialmente el mensaje pascual y con ello la revelación del misterio de la historia sagrada.
+El día de Pascua el reino se manifestó en la gloria del resucitado; el día de Pentecostés el don del [[espíritu]] dio nacimiento a la [[iglesia|Iglesia]]. En adelante la predicación proclama un hecho actual que muestra al Espíritu Santo en acción, que remite a un acontecimiento pasado (la pascua de Cristo) y a un acontecimiento futuro (la parusía del Señor). Jesús resucitó y vive: es [[señor]], glorificado en el cielo *3,21* y ha de volver triunfalmente para el [[juicio]] *1Tes 1,10* *2Tes 1,7*. La predicación es esencialmente el mensaje pascual y con ello la revelación del misterio de la historia sagrada.
 
 #### Presentación del acontecimiento
 

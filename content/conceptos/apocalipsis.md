@@ -49,10 +49,10 @@ El VocTeoBib trata extensamente el Apocalipsis como revelación (*apokálypsis*)
 
 ## Relaciones doctrinales
 
-Se vincula con el [[juicio_final]], la [[parusía]], la [[nueva_jerusalén]], la [[vida_eterna]], el [[infierno]], la [[resurrección_de_cristo]], la [[bestia]], el [[dragón]] y la [[iglesia_pueblo_de_dios]].
+Se vincula con el [[juicio_final]], la [[parusía]], la [[nueva_jerusalen]], la [[vida_eterna]], el [[infierno]], la [[resurrección_de_cristo]], la [[bestia]], el [[dragón]] y la [[iglesia_pueblo_de_dios]].
 
 ## Ver también
-[[juicio_final]], [[nueva_jerusalén]], [[bestia]], [[vida_eterna]], [[parusía]]
+[[juicio_final]], [[nueva_jerusalen]], [[bestia]], [[vida_eterna]], [[parusía]]
 
 ## Referencias
 - [CEC §2632-2635, §1021-1022]

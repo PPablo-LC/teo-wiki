@@ -13,16 +13,16 @@ tags: ["resumen", "capitulos lc frg"]
 ## Conceptos básicos referenciados
 
 - [[capítulo_general]]
-- [[Legionarios_de_Cristo]]
-- [[Regnum_Christi]]
-- [[Federación_Regnum_Christi]]
+- [[legionarios_de_cristo]]
+- [[regnum_christi]]
+- [[federación_regnum_christi]]
 - [[estatutos_federación_regnum_christi]]
-- [[Consagradas_del_Regnum_Christi]]
-- [[Laicos_Consagrados_del_Regnum_Christi]]
-- [[Sociedad_de_Vida_Apostólica]]
+- [[consagradas_del_regnum_christi]]
+- [[laicos_consagrados_del_regnum_christi]]
+- [[sociedad_de_vida_apostólica]]
 - [[constituciones_legionarios_de_cristo]]
 - [[Reglamento_de_los_Fieles_Asociados_a_la_Federación_Regnum_Christi]]
-- [[ECYD]]
+- [[ecyd]]
 
 
 ## Contenido
@@ -33,7 +33,7 @@ Comunicado final del [[capítulo_general]] al término de su segunda sesión, em
 
 ### Introducción y agradecimientos
 
-Los padres capitulares comparten los resultados del Capítulo y de la [[asamblea_general_regnum_christi]]. Agradecen a Dios, a los papas Benedicto XVI y Francisco, al cardenal De Paolis, al P. Ghirlanda, al P. Robles-Gil y a todos los miembros del [[Regnum_Christi]]. Celebran la erección canónica de las dos [[Sociedad_de_Vida_Apostólica]].
+Los padres capitulares comparten los resultados del Capítulo y de la [[asamblea_general_regnum_christi]]. Agradecen a Dios, a los papas Benedicto XVI y Francisco, al cardenal De Paolis, al P. Ghirlanda, al P. Robles-Gil y a todos los miembros del [[regnum_christi]]. Celebran la erección canónica de las dos [[sociedad_de_vida_apostólica]].
 
 ### A. Breve reseña del camino recorrido
 
@@ -41,8 +41,8 @@ Recorre los principales eventos: crisis institucional, visita apostólica (2009-
 
 ### B. Resultados sintéticos
 
-1. El Capítulo reconoce que la [[Legionarios_de_Cristo]] forma parte del [[Regnum_Christi]].
-2. La [[Federación_Regnum_Christi]] se compone de tres instituciones (Legión, Consagradas, Laicos Consagrados) y los fieles asociados individualmente.
+1. El Capítulo reconoce que la [[legionarios_de_cristo]] forma parte del [[regnum_christi]].
+2. La [[federación_regnum_christi]] se compone de tres instituciones (Legión, Consagradas, Laicos Consagrados) y los fieles asociados individualmente.
 3. La Federación no equivale al Movimiento en todos sus aspectos; es su expresión jurídica.
 4. La Federación será principalmente de planeación, proyección y coordinación.
 5. Gobierno colegial (Colegio Directivo General y Territorial).
@@ -52,7 +52,7 @@ Recorre los principales eventos: crisis institucional, visita apostólica (2009-
 ### C. Explicación detallada
 
 - **Composición de la Federación**: tres ramas consagradas como miembros; los laicos se asocian individualmente. La Congregación para los Institutos de Vida Consagrada no puede dar plena participación a no consagrados.
-- **Distinción Federación / Movimiento**: dos aspectos (carismático y jurídico) de un único [[Regnum_Christi]].
+- **Distinción Federación / Movimiento**: dos aspectos (carismático y jurídico) de un único [[regnum_christi]].
 - **Finalidades de la Federación** (n. 4 de los *Estatutos*): estructura canónica, custodia del carisma, impulso de la misión, comunión, participación laical, vocaciones, solidaridad.
 - **La Legión en la Federación**: aporta la consagración religioso-sacerdotal, el ministerio sacerdotal y la acción apostólica (n. 5 § 3).
 - **Dinamismo apostólico**: conexión entre amor redentor, vocación y acción apostólica (cap. 3 de los *Estatutos*).

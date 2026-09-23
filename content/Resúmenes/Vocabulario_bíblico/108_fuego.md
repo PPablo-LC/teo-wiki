@@ -16,14 +16,14 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[santo]] — la santidad divina en su doble aspecto, atractivo y temeroso
 - [[desierto]] — la experiencia fundamental en el desierto
-- [[elias]] — el profeta semejante al fuego
+- [[elías]] — el profeta semejante al fuego
 - [[vocación]] — la purificación en el momento de la vocación
 - [[labios]] — los labios purificados por un tizón de fuego
 - [[tormenta]] — la tormenta y el fuego se asocian al arco iris
 - [[nube]] — la nube luminosa del Éxodo
 - [[presencia_de_dios]] — el marco de la presencia divina
 - [[juicio]] — el fuego en la descripción del juicio
-- [[revelacion]] — revelación del Dios vivo
+- [[revelación]] — revelación del Dios vivo
 - [[imagen_de_dios]] — no hay lugar a representarlo con imágenes
 - [[pecado]] — la intransigencia de Dios frente al pecado
 - [[venganza]] — el fuego que venga la santidad divina
@@ -34,7 +34,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[día_del_señor]] — el día de Yahveh como fuego del fundidor
 - [[tiempo]] — los últimos tiempos
 - [[bautismo]] — el bautismo en el espíritu y en el fuego
-- [[pentecostes]] — el fuego descendido en pentecostés
+- [[pentecostés]] — el fuego descendido en pentecostés
 - [[naciones]] — el mismo lenguaje del Espíritu
 - [[culto]] — el holocausto de nuestras vidas en un culto agradable
 
@@ -50,7 +50,7 @@ Desde la elección de Abraham el signo del fuego resplandece en la historia de l
 
 El fuego presenta a la [[santo|santidad]] divina en su doble aspecto, atractivo y temeroso. En el monte Horeb, Moisés es atraído por el espectáculo de la zarza ardiente que no es «devorada» por el fuego; pero la voz divina le notifica que no puede aproximarse si Dios no lo llama y si él no se purifica *Ex 3,2s*. En el Sinaí humea la montaña bajo el fuego que la rodea *19,18*, sin que por ello quede destruida; mientras que el pueblo tiembla de pavor y no debe acercarse, Moisés se ve, en cambio, llamado a subir cerca de Dios, que se revela. Así, cuando Dios se manifiesta como un incendio devorador, no lo hace para consumir todo lo que halla a su paso, puesto que llama a los que él vuelve puros.
 
-Una experiencia ulterior hecha en el mismo lugar ayuda a percibir mejor el valor simbólico del fuego. [[elias|Elías]], el profeta semejante al fuego *Eclo 48,1*, busca en el Sinaí la presencia de Yahveh. Después del huracán y del temblor de tierra, ve fuego; pero «Yahveh no estaba en el fuego»: aquí un símbolo inverso anuncia el paso de Dios: una brisa ligera *1Re 19,12*. Así, cuando Elías sea arrebatado al cielo en un carro de fuego *2Re 2,11*, este fuego no será sino un símbolo de tantos para expresar la visita del Dios vivo.
+Una experiencia ulterior hecha en el mismo lugar ayuda a percibir mejor el valor simbólico del fuego. [[elías|Elías]], el profeta semejante al fuego *Eclo 48,1*, busca en el Sinaí la presencia de Yahveh. Después del huracán y del temblor de tierra, ve fuego; pero «Yahveh no estaba en el fuego»: aquí un símbolo inverso anuncia el paso de Dios: una brisa ligera *1Re 19,12*. Así, cuando Elías sea arrebatado al cielo en un carro de fuego *2Re 2,11*, este fuego no será sino un símbolo de tantos para expresar la visita del Dios vivo.
 
 ##### 2. La tradición profética.
 
@@ -58,7 +58,7 @@ La tradición profética tiende también a situar en su lugar el signo del fuego
 
 ##### 3. Las tradiciones deuteronómica y sacerdotal.
 
-Al interpretar la teofanía del desierto precisaron el doble alcance del signo del fuego: [[revelacion|revelación]] del Dios vivo y exigencia de pureza del Dios santo. Desde el fuego habló Dios *Dt 4,12* *5,4.22.24* y dio las tablas de la ley *9,10*, a fin de hacer comprender que no hay lugar a representarlo con [[imagen_de_dios|imágenes]]. Pero se trataba también de un fuego destructor *5,25* *18,16*, aterrador para el hombre *5,5*; sólo el elegido de Dios comprueba que ha podido afrontar su presencia sin morir *4,33*. Israel, una vez llegado a este estadio puede, sin exponerse a confundir a Dios con un elemento natural, mirar a su Dios como «un fuego devorador» *4,24* *6,15*; la expresión no hace sino transponer el tema de los celos divinos *Ex 20,5* *34,14* *Dt 5,9* *6,15*. El fuego simboliza la intransigencia de Dios frente al [[pecado|pecado]]; devora al que encuentra: de la misma manera Dios respecto al pecador endurecido. No sucede lo mismo con sus elegidos, pero de todas formas, debe transformar a quien entra en contacto con él.
+Al interpretar la teofanía del desierto precisaron el doble alcance del signo del fuego: [[revelación|revelación]] del Dios vivo y exigencia de pureza del Dios santo. Desde el fuego habló Dios *Dt 4,12* *5,4.22.24* y dio las tablas de la ley *9,10*, a fin de hacer comprender que no hay lugar a representarlo con [[imagen_de_dios|imágenes]]. Pero se trataba también de un fuego destructor *5,25* *18,16*, aterrador para el hombre *5,5*; sólo el elegido de Dios comprueba que ha podido afrontar su presencia sin morir *4,33*. Israel, una vez llegado a este estadio puede, sin exponerse a confundir a Dios con un elemento natural, mirar a su Dios como «un fuego devorador» *4,24* *6,15*; la expresión no hace sino transponer el tema de los celos divinos *Ex 20,5* *34,14* *Dt 5,9* *6,15*. El fuego simboliza la intransigencia de Dios frente al [[pecado|pecado]]; devora al que encuentra: de la misma manera Dios respecto al pecador endurecido. No sucede lo mismo con sus elegidos, pero de todas formas, debe transformar a quien entra en contacto con él.
 
 #### II. EN EL TRANSCURSO DE LA HISTORIA
 
@@ -106,6 +106,6 @@ Jesús inauguró una época nueva. No obró inmediatamente como lo preveía Juan
 
 ##### 2. Desde ahora la Iglesia vive de este fuego.
 
-Desde ahora la Iglesia vive de este fuego que abrasa al mundo gracias al sacrificio de Cristo. Este fuego ardía en el corazón de los peregrinos de Emaús mientras oían hablar al resucitado *Lc 24,32*. Descendió sobre los discípulos reunidos el día de [[pentecostes|pentecostés]] *Act 2,3*. Este fuego del cielo no es el del juicio, es el de las teofanías, que realiza el bautismo de fuego y de espíritu *Act 1,5*: el fuego simboliza ahora el Espíritu, y si no se dice que este Espíritu es la caridad misma, el relato de pentecostés muestra que tiene como misión la de transformar a los que han de propagar a través de todas las [[naciones|naciones]] el mismo lenguaje, el del Espíritu.
+Desde ahora la Iglesia vive de este fuego que abrasa al mundo gracias al sacrificio de Cristo. Este fuego ardía en el corazón de los peregrinos de Emaús mientras oían hablar al resucitado *Lc 24,32*. Descendió sobre los discípulos reunidos el día de [[pentecostés|pentecostés]] *Act 2,3*. Este fuego del cielo no es el del juicio, es el de las teofanías, que realiza el bautismo de fuego y de espíritu *Act 1,5*: el fuego simboliza ahora el Espíritu, y si no se dice que este Espíritu es la caridad misma, el relato de pentecostés muestra que tiene como misión la de transformar a los que han de propagar a través de todas las [[naciones|naciones]] el mismo lenguaje, el del Espíritu.
 
 La vida cristiana está también bajo el signo del fuego cultual, no ya el del Sinaí *Heb 12,18*, sino del que consume el holocausto de nuestras vidas en un [[culto|culto]] agradable a Dios *12,29*. Transponiendo los celos divinos en una consagración cultual de cada instante, este fuego viene a ser un fuego consumidor. Pero para los que han dado acogida al fuego del Espíritu, la distancia entre el hombre y Dios es superada por Dios mismo, que se ha interiorizado perfectamente en el hombre; quizá sea éste el sentido de la palabra enigmática: uno se vuelve fiel cuando ha sido «salado al fuego», al fuego del juicio y al del Espíritu *Mc 9,48s*. Según una expresión atribuida por Orígenes a Jesús: «Quien está cerca de mí está cerca del fuego; quien está lejos de mí está lejos del reino.»

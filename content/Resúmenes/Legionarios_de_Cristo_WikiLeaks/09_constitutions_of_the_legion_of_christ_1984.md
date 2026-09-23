@@ -24,9 +24,9 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 - [[vida_religiosa]] — la vida consagrada por la profesión de los consejos evangélicos
 - [[ejercicios_espirituales]] — medio anual de renovación espiritual
 - [[noviciado_lc]] — primera etapa de formación en la Legión
-- [[oracion_mental]] — acto de piedad diario prescrito por las Constituciones
-- [[formacion_cristiana]] — formación humana y cristiana integral del legionario
-- [[direccion_espiritual]] — medio de perseverancia y crecimiento espiritual
+- [[oración_mental]] — acto de piedad diario prescrito por las Constituciones
+- [[formación_cristiana]] — formación humana y cristiana integral del legionario
+- [[dirección_espiritual]] — medio de perseverancia y crecimiento espiritual
 
 
 ## Contenido

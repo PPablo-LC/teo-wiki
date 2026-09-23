@@ -12,7 +12,7 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ## Conceptos básicos referenciados
 
-- [[dimora]] — «La morada»: el método según el cual se vive la vida cristiana concretamente, en una casa/compañía donde Cristo está presente.
+- [[affezione_e_dimora]] — «La morada»: el método según el cual se vive la vida cristiana concretamente, en una casa/compañía donde Cristo está presente.
 - [[casa]] — La casa como lugar concreto donde este método se hace experiencia: punto de intersección de tiempo y espacio, templo de la presencia.
 
 ## Contenido

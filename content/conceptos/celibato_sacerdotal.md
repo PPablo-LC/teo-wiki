@@ -59,7 +59,7 @@ Mons. Munilla subraya que la carta de León XIV sitúa el celibato en el umbral,
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II aborda el [[celibato_sacerdotal]] a través del testimonio de San Juan María Vianney, cuyo celibato fue una entrega total a Cristo y a las almas. El Papa lo presenta como un don que permite al sacerdote estar plenamente disponible para la [[cura_animarum]] [DyM, V]. El celibato se inscribe en la lógica del [[admirabile_commercium]]: el sacerdote ofrece a Cristo su humanidad y recibe a cambio la capacidad de ser instrumento de salvación [DyM, VIII].
+Juan Pablo II aborda el **celibato sacerdotal** a través del testimonio de San Juan María Vianney, cuyo celibato fue una entrega total a Cristo y a las almas. El Papa lo presenta como un don que permite al sacerdote estar plenamente disponible para la [[cura_animarum]] [DyM, V]. El celibato se inscribe en la lógica del [[admirabile_commercium]]: el sacerdote ofrece a Cristo su humanidad y recibe a cambio la capacidad de ser instrumento de salvación [DyM, VIII].
 
 ## Distinciones importantes
 

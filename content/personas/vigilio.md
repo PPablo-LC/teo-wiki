@@ -35,7 +35,7 @@ Su figura es controvertida por las presiones imperiales que sufrió y por su cam
 
 ## Ver también
 
-[[II Concilio de Constantinopla|II Concilio de Constantinopla (553)]], [[teodoro_de_mopsuestia]], [[nestorianismo]], [[justiniano_i]]
+[[ii_concilio_de_constantinopla|II Concilio de Constantinopla (553)]], [[teodoro_de_mopsuestia]], [[nestorianismo]], [[justiniano_i]]
 
 ## Referencias
 

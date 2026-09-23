@@ -39,10 +39,10 @@ La inconsideración se manifiesta en quien no pondera debidamente las circunstan
 
 ## Relaciones doctrinales
 
-Se vincula con la [[imprudencia]], la [[precipitación]], la [[inconstancia]], la [[virtud_de_la_prudencia]], la [[lujuria]], la [[negligencia]], la [[astucia]] y la [[gnome]].
+Se vincula con la [[imprudencia]], la [[precipitacion]], la [[inconstancia]], la [[virtud_de_la_prudencia]], la [[lujuria]], la [[negligencia]], la [[astucia]] y la [[gnome]].
 
 ## Ver también
-[[imprudencia]], [[precipitación]], [[inconstancia]], [[virtud_de_la_prudencia]], [[gnome]]
+[[imprudencia]], [[precipitacion]], [[inconstancia]], [[virtud_de_la_prudencia]], [[gnome]]
 
 ## Referencias
 - [SmTh IIa-IIae q.53 a.4, a.6]

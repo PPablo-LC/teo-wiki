@@ -13,11 +13,11 @@ tags: ["resumen", "denzinger capitulos"]
 ## Conceptos básicos referenciados
 
 - [[canon_bíblico]] — lista de los libros inspirados
-- [[Antiguo_Testamento]] — primera parte de la Biblia
-- [[Nuevo_Testamento]] — segunda parte de la Biblia
-- [[Evangelios]] — los cuatro libros de la vida de Cristo
+- [[antiguo_testamento]] — primera parte de la Biblia
+- [[nuevo_testamento]] — segunda parte de la Biblia
+- [[evangelios]] — los cuatro libros de la vida de Cristo
 - [[Epístolas_de_pablo]] — cartas del Apóstol San Pablo
-- [[Apocalipsis]] — libro profético de San Juan
+- [[apocalipsis]] — libro profético de San Juan
 - [[mártir]] — cristianos que dieron su vida por la fe
 
 ## Contenido

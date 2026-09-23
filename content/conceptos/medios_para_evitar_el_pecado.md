@@ -30,7 +30,7 @@ Royo Marin dedica amplio espacio a los medios para evitar el pecado en el Libro 
 
 > **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-La conferencia de Tim Barry (mortification_maketh_man.md) subraya la necesidad de evitar las ocasiones proximas de pecado, observando que algunos vicios requieren oracion y ayuno (Mc 9,29), aplicando pastoralmente la doctrina de la [[tentacion]].
+La conferencia de Tim Barry (mortification_maketh_man.md) subraya la necesidad de evitar las ocasiones proximas de pecado, observando que algunos vicios requieren oracion y ayuno (Mc 9,29), aplicando pastoralmente la doctrina de la [[tentación]].
 
 ## Distinciones importantes
 

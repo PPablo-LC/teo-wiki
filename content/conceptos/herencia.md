@@ -30,7 +30,7 @@ El VocTeoBib desarrolla la noción de herencia más allá del sentido jurídico,
 
 El tema se desarrolla en dos direcciones: escatológica y espiritualizada. La conquista de Canaán, comprometida por los pecados de Israel, es reemplazada por la esperanza de una herencia futura en los últimos tiempos, reservada al [[resto]] fiel. Paralelamente, la condición de los levitas —«Yahveh es su herencia»— se aplica progresivamente a todo el pueblo, espiritualizando la noción hasta identificar la herencia con la posesión misma de Dios, el bien perfecto que colma el corazón.
 
-En el NT, Cristo es el heredero único, concentrando en sí la descendencia de Abraham. Su muerte y resurrección hacen pasar a los hombres del estado de esclavos al de hijos, y por tanto de herederos. Los creyentes, hijos adoptivos por el Espíritu, son coherederos con Cristo. La herencia prometida no es ya la tierra de Canaán sino la [[vida eterna]], el [[reino de Dios]], la [[salvación]]; el Espíritu Santo constituye sus arras en espera de la posesión perfecta en la parusía.
+En el NT, Cristo es el heredero único, concentrando en sí la descendencia de Abraham. Su muerte y resurrección hacen pasar a los hombres del estado de esclavos al de hijos, y por tanto de herederos. Los creyentes, hijos adoptivos por el Espíritu, son coherederos con Cristo. La herencia prometida no es ya la tierra de Canaán sino la [[vida_eterna]], el [[reino_de_dios]], la [[salvación]]; el Espíritu Santo constituye sus arras en espera de la posesión perfecta en la parusía.
 
 
 ## Distinciones importantes

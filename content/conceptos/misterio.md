@@ -62,11 +62,11 @@ PLDC aporta dos matices decisivos (Parte I, cap. 3, §2; Parte IV, cap. 3). (1) 
 
 ## Relaciones doctrinales
 
-El misterio se vincula con la [[revelación]], el [[reino de Dios]], la [[encarnación]], la [[redención]], la [[Iglesia]] como [[cuerpo místico]], la [[recapitulación]], la [[economía de la salvación]], la [[gracia]], la [[fe]], el [[designio de Dios]], el [[Evangelio]] y la [[parusía]].
+El misterio se vincula con la [[revelación]], el [[reino_de_dios]], la [[encarnación]], la [[redención]], la [[iglesia]] como [[cuerpo_místico]], la [[recapitulación]], la [[economía_de_la_salvación]], la [[gracia]], la [[fe]], el [[designio_de_dios]], el [[evangelio]] y la [[parusía]].
 
 ## Ver también
 
-[[revelación]], [[reino de Dios]], [[designio de Dios]], [[encarnación]], [[redención]], [[Iglesia]], [[cuerpo místico]], [[consumación de los siglos]], [[parusía]]
+[[revelación]], [[reino_de_dios]], [[designio_de_dios]], [[encarnación]], [[redención]], [[iglesia]], [[cuerpo_místico]], [[consumación_de_los_siglos]], [[parusía]]
 
 ## Referencias
 

@@ -39,11 +39,11 @@ La vida cristiana es «vida en Cristo»: incorporación a Cristo por el bautismo
 
 ## Relaciones doctrinales
 
-El fin de la vida cristiana es el principio unificador de toda la teología espiritual. Se relaciona con la [[gloria_de_Dios]] (aspecto teocéntrico), la [[santísima_trinidad]] (comunión de vida divina), la [[gracia_santificante]] (principio de la vida sobrenatural) y la [[perfección_cristiana]] (plenitud de la vida cristiana en esta vida).
+El fin de la vida cristiana es el principio unificador de toda la teología espiritual. Se relaciona con la [[gloria_de_dios]] (aspecto teocéntrico), la [[santísima_trinidad]] (comunión de vida divina), la [[gracia_santificante]] (principio de la vida sobrenatural) y la [[perfección_cristiana]] (plenitud de la vida cristiana en esta vida).
 
 ## Ver también
 
-[[gloria_de_Dios]], [[perfección_cristiana]], [[gracia_santificante]], [[configuración_con_cristo]]
+[[gloria_de_dios]], [[perfección_cristiana]], [[gracia_santificante]], [[configuración_con_cristo]]
 
 ## Referencias
 

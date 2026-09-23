@@ -38,7 +38,7 @@ El segundo canto *Is 49,1-6* desarrolla el tema de la vocación del Siervo desde
 
 El tercer canto *Is 50,4-9* muestra al Siervo como el discípulo perfecto, que escucha la palabra de Dios y acepta el sufrimiento sin rebelarse, confiado en la ayuda divina.
 
-El cuarto canto *Is 52,13-53,12* es el más importante: el Siervo es presentado como el «varón de dolores», que carga con las faltas de los demás, que es herido por nuestros pecados y que, por sus llagas, nos trae la [[salvacion|salvación]]. Este canto anuncia la pasión redentora de Cristo: «Él fue traspasado por nuestros delitos, molido por nuestras iniquidades; el castigo que nos da la salvación cayó sobre él» *Is 53,5*.
+El cuarto canto *Is 52,13-53,12* es el más importante: el Siervo es presentado como el «varón de dolores», que carga con las faltas de los demás, que es herido por nuestros pecados y que, por sus llagas, nos trae la [[salvación|salvación]]. Este canto anuncia la pasión redentora de Cristo: «Él fue traspasado por nuestros delitos, molido por nuestras iniquidades; el castigo que nos da la salvación cayó sobre él» *Is 53,5*.
 
 ## III. EL SIERVO DE YAHVEH EN EL NUEVO TESTAMENTO
 

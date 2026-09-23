@@ -23,7 +23,7 @@ La fe cristiana no conoce «energías» espirituales impersonales que se operen 
 
 ### Según el Documental «Dioses de la nueva era» (DocNDE)
 
-El documental *Dioses de la nueva era* define el [[yoga]] como «realinear la fuerza de la serpiente dentro del cuerpo»: la [[kundalini]] es la «energía serpiente» enrollada en la base del espinazo que el yoga pretende despertar. El documental establece una equivalencia simbólica con la serpiente de Gn 3: «las mentiras de la serpiente en el Jardín del Edén son las mismas mentiras con que la serpiente engañó a Eva» — la promesa de deificación autónoma («seréis como dioses») por una técnica. Presenta el despertar de la kundalini como el corazón oculto del yoga, que en Occidente se difunde despojado de esta finalidad y presentado como ejercicio físico o bienestar, y cita testimonios de experiencias adversas asociadas a su «despertar» forzado.
+El documental *Dioses de la nueva era* define el [[yoga]] como «realinear la fuerza de la serpiente dentro del cuerpo»: la **kundalini** es la «energía serpiente» enrollada en la base del espinazo que el yoga pretende despertar. El documental establece una equivalencia simbólica con la serpiente de Gn 3: «las mentiras de la serpiente en el Jardín del Edén son las mismas mentiras con que la serpiente engañó a Eva» — la promesa de deificación autónoma («seréis como dioses») por una técnica. Presenta el despertar de la kundalini como el corazón oculto del yoga, que en Occidente se difunde despojado de esta finalidad y presentado como ejercicio físico o bienestar, y cita testimonios de experiencias adversas asociadas a su «despertar» forzado.
 
 ## Distinciones importantes
 

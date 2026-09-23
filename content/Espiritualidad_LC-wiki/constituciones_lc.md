@@ -74,7 +74,7 @@ El paso de la edición de 1984 a la de 1998 introduce novedades principalmente e
 
 ## Relaciones doctrinales
 
-Se relaciona con [[legión_de_cristo]], [[mística_legionaria]], [[voto_privado]], [[voto_propio]], [[votos_religiosos]], [[obediencia_religiosa]], [[pobreza_religiosa]], [[castidad_religiosa]], [[disciplina_religiosa]], [[carisma_legionario]], [[constituciones_lc]]
+Se relaciona con [[legión_de_cristo]], [[mística_legionaria]], [[voto_privado]], [[voto_propio]], [[votos_religiosos]], [[obediencia_religiosa]], [[pobreza_religiosa]], [[castidad_religiosa]], [[disciplina_religiosa]], [[carisma_legionario]], **constituciones lc**
 
 ## Ver también
 

@@ -14,12 +14,12 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 
 - [[liturgia]]
 - [[ritual]]
-- [[Iglesia]]
+- [[iglesia]]
 - [[fe]]
-- [[Concilio_Vaticano_II]]
+- [[concilio_vaticano_ii]]
 - [[rubricas]]
 - [[estetica_liturgica]]
-- [[participacion_activa]]
+- [[participación_activa]]
 
 ## Contenido
 

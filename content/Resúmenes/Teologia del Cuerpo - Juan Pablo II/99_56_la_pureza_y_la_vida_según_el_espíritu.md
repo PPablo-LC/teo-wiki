@@ -25,11 +25,11 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 -[[redención_del_cuerpo]] — la nueva medida de santidad
 -[[pecado_contra_el_cuerpo]] — la nota peculiar del pecado de la fornicación
 - [[profanación]] — la profanación del cuerpo como privación de respeto y profanación del templo
-- [[Espíritu_Santo]] — la presencia del Espíritu en alma y cuerpo
+- [[espíritu_santo]] — la presencia del Espíritu en alma y cuerpo
 - [[capacidad]] — la pureza como capacidad nueva de obrar
 - [[carisma]] — la dimensión carismática de la pureza
 - [[virtud]] — la dimensión moral de la pureza
-- [[Respeto]] — el respeto debido a la presencia del Espíritu
+- [[respeto]] — el respeto debido a la presencia del Espíritu
 
 ## Contenido
 

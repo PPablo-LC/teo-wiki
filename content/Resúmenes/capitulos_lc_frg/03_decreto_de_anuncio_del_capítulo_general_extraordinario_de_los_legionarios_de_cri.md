@@ -14,8 +14,8 @@ tags: ["resumen", "capitulos lc frg"]
 
 - [[capítulo_general]]
 - [[constituciones_legionarios_de_cristo]]
-- [[Código_de_Derecho_Canónico]]
-- [[Regnum_Christi]]
+- [[código_de_derecho_canónico]]
+- [[regnum_christi]]
 
 
 ## Contenido
@@ -26,7 +26,7 @@ Decreto de la [[gobierno_congregacional]] (Prot. DG-LC 5623-2017, 16 de octubre 
 
 **Finalidades del Capítulo** (§ 1):
 
-1. Revisar el *Borrador del Estatuto General del [[Regnum_Christi]]* y formular recomendaciones para la [[asamblea_general_regnum_christi]].
+1. Revisar el *Borrador del Estatuto General del [[regnum_christi]]* y formular recomendaciones para la [[asamblea_general_regnum_christi]].
 2. Definir la modalidad de ratificación del Estatuto General aprobado por la [[asamblea_general_regnum_christi]] de 2018 por parte del [[capítulo_general]].
 3. Elegir a los delegados de la Legión de Cristo que participarán como miembros elegidos en la [[asamblea_general_regnum_christi]].
 

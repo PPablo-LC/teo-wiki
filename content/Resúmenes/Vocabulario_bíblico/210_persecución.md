@@ -21,7 +21,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fidelidad]] — la fidelidad de los justos perseguidos
 - [[juicio]] — la persecución como preparación del juicio
 - [[reino_de_dios]] — la venida del reino
-- [[impio]] — el impío que odia al justo
+- [[impío]] — el impío que odia al justo
 - [[testimonio]] — el justo como testigo de Dios
 - [[incredulidad]] — la incredulidad del perseguidor
 - [[seguir]] — seguir a Jesús en la persecución
@@ -31,7 +31,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[gozo]] — el gozo de ser perseguidos
 - [[fe]] — la fe que se purifica en la prueba
 - [[esperanza]] — la esperanza que sostiene
-- [[Espíritu]] — el Espíritu que asiste al perseguido
+- [[espíritu]] — el Espíritu que asiste al perseguido
 - [[mártir]] — los mártires del AT y del NT
 - [[prueba_y_tentación]] — la persecución como prueba
 - [[paciencia]] — la paciencia de los justos
@@ -67,7 +67,7 @@ Primeramente los judíos los oprimen *Act 4,1* *5,17* *8,1*; también los [[mund
 
 #### El fondo del problema
 
-a. La persecución es un aspecto de la *guerra secular* que opone a [[Satanás]] y a los poderes del mal contra Dios y sus servidores. Desde la aparición del pecado *Gen 3* hasta las luchas finales descritas en el Apocalipsis, el dragón «persigue» a la mujer y a su descendencia *Ap 12* *17* *19*. Esta lucha llega a su punto culminante con la pasión de Jesús. En la Iglesia las persecuciones son signo y condición de la [[victoria]] definitiva de Cristo. Poseen un significado escatológico, pues son como un pródromo del juicio *1Pe 4,17ss* y de la instauración completa del reino.
+a. La persecución es un aspecto de la *guerra secular* que opone a [[satanás]] y a los poderes del mal contra Dios y sus servidores. Desde la aparición del pecado *Gen 3* hasta las luchas finales descritas en el Apocalipsis, el dragón «persigue» a la mujer y a su descendencia *Ap 12* *17* *19*. Esta lucha llega a su punto culminante con la pasión de Jesús. En la Iglesia las persecuciones son signo y condición de la [[victoria]] definitiva de Cristo. Poseen un significado escatológico, pues son como un pródromo del juicio *1Pe 4,17ss* y de la instauración completa del reino.
 
 b. Si los perseguidos que permanecieron fieles en la [[prueba_y_tentación|prueba]] son ahora vencedores, su suerte gloriosa no debe hacer olvidar el aspecto trágico del castigo de los perseguidores. La [[ira]] de Dios caerá al fin de los tiempos sobre los que se hayan [[endurecimiento|endurecido]], en particular sobre los perseguidores *1Tes 2,16* *2Tes 1,5-8* *Ap 6,9ss*.
 
@@ -79,11 +79,11 @@ El creyente cuya [[fe]] penetra en el misterio de la persecución halla en su [[
 
 Los justos del AT adoptaron todos ante la persecución una actitud de [[paciencia]] y de valiente fidelidad en la esperanza. Jeremías es el tipo del perseguido fiel y orante *Jer 1,8.19*. Lo mismo se diga del siervo doliente *Is 52-53* y de los salmistas perseguidos: «¡Señor, sálvame de los que me persiguen!» *Sal 7,2*.
 
-Jesús perseguido no sólo confía en su Padre *Mt 26,53* *Jn 16,32*, sino que ora por sus perseguidores *Lc 23,34*. Los [[mártir|apóstoles]] y los primeros cristianos, blanco de las persecuciones, oran para verse libres y poder así anunciar el [[Evangelio]] *Act 4,29* *12,5*; como su maestro, se muestran pacientes *2Tes 1,4* y piden a Dios que perdone a sus verdugos *Act 7,60*.
+Jesús perseguido no sólo confía en su Padre *Mt 26,53* *Jn 16,32*, sino que ora por sus perseguidores *Lc 23,34*. Los [[mártir|apóstoles]] y los primeros cristianos, blanco de las persecuciones, oran para verse libres y poder así anunciar el [[evangelio]] *Act 4,29* *12,5*; como su maestro, se muestran pacientes *2Tes 1,4* y piden a Dios que perdone a sus verdugos *Act 7,60*.
 
 #### Los consejos de Jesús
 
-Como él, el discípulo debe orar por los que le persiguen *Mt 5,44 p* *Rom 12,14*. Debe afrontar la persecución con valor; aunque no debe ser temerario, debe estar dispuesto a verse encarcelado, herido y entregado a la muerte *Mt 10,16-39* *Jn 16,1-4*. Pero no debe tener miedo: su maestro venció al [[mundo]] *Jn 16,33* y triunfará de los perseguidores «con los suyos, los llamados, los escogidos, los fieles» *Ap 17,14*. Los [[enemigo|enemigos]] del discípulo no pueden nada contra su alma *Mt 10,28-31*. El [[Espíritu]] de Dios le asistirá *Mt 10,19s*. Con todo, hay que velar y orar constantemente, pues la persecución es una [[prueba_y_tentación|prueba]], una tentación, y si el espíritu está pronto, la carne es flaca *Mt 26,41 p*.
+Como él, el discípulo debe orar por los que le persiguen *Mt 5,44 p* *Rom 12,14*. Debe afrontar la persecución con valor; aunque no debe ser temerario, debe estar dispuesto a verse encarcelado, herido y entregado a la muerte *Mt 10,16-39* *Jn 16,1-4*. Pero no debe tener miedo: su maestro venció al [[mundo]] *Jn 16,33* y triunfará de los perseguidores «con los suyos, los llamados, los escogidos, los fieles» *Ap 17,14*. Los [[enemigo|enemigos]] del discípulo no pueden nada contra su alma *Mt 10,28-31*. El [[espíritu]] de Dios le asistirá *Mt 10,19s*. Con todo, hay que velar y orar constantemente, pues la persecución es una [[prueba_y_tentación|prueba]], una tentación, y si el espíritu está pronto, la carne es flaca *Mt 26,41 p*.
 
 Pablo reitera las consignas de Jesús: nada puede separarnos del amor de Cristo, ni siquiera la persecución o la espada *Rom 8,35*. El discípulo afronta la persecución con una esperanza que lo hace fiel, constante y gozoso *Rom 12,12*. Sabe en quién ha puesto su confianza *2Tim 1,12*. Fijando los ojos en Cristo «que soportó tal hostilidad», corre hacia la meta, con aguante, sin desanimarse *Heb 11,1-12,3*.
 

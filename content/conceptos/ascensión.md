@@ -53,7 +53,7 @@ La Ascensión se relaciona con la [[resurrección_de_jesucristo]], la [[gloria]]
 
 ## Ver también
 
-[[jesucristo]], [[resurrección_de_jesucristo]], [[cielo]], [[gloria_de_Dios]], [[redención]]
+[[jesucristo]], [[resurrección_de_jesucristo]], [[cielo]], [[gloria_de_dios]], [[redención]]
 
 ## Referencias
 

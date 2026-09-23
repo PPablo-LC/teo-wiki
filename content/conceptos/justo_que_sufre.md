@@ -44,7 +44,7 @@ Benedicto XVI aborda el tema del justo que sufre como trasfondo espiritual de la
 
 ## Relaciones doctrinales
 
-Se relaciona con [[rico_epulón]], [[estado_intermedio]], [[juicio_final]], [[siervo_sufriente]], [[providencia_divina]], [[justicia_divina]], [[pobreza_evangelica]], [[riqueza]].
+Se relaciona con [[rico_epulón]], [[estado_intermedio]], [[juicio_final]], [[siervo_sufriente]], [[providencia_divina]], [[justicia_divina]], [[pobreza_evangélica]], [[riqueza]].
 
 ## Ver también
 

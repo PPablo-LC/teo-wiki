@@ -14,7 +14,7 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 
 - [[constituciones_legionarios_de_cristo]] — la edición de 1998 de las Constituciones de la Legión
 - [[voto_privado]] — votos privados de no buscar cargos y no criticar a los superiores
-- [[capitulo_general]] — asamblea que elige autoridades y legisla para la Congregación
+- [[capítulo_general]] — asamblea que elige autoridades y legisla para la Congregación
 - [[voto_propio]] — el voto de fidelidad y caridad como voto propio de la Legión
 
 

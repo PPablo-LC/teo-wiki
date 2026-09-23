@@ -31,7 +31,7 @@ V ecuménico (sobre los tres capítulos).
 
 **Sobre la tradición eclesiástica:**
 
-**D-212** Confesión de fe: se mantiene y predica la fe transmitida por los Apóstoles y confirmada por los cuatro primeros concilios ecuménicos ([[concilio_de_nicea|Nicea]], [[primer_concilio_de_constantinopla|Constantinopla I]], [[concilio_de_efeso|Efeso]] y [[concilio_de_calcedonia|Calcedonia]]). Todo lo que no concuerde con estos cuatro concilios se condena y anatematiza.
+**D-212** Confesión de fe: se mantiene y predica la fe transmitida por los Apóstoles y confirmada por los cuatro primeros concilios ecuménicos ([[concilio_de_nicea|Nicea]], [[primer_concilio_de_constantinopla|Constantinopla I]], [[concilio_de_éfeso|Efeso]] y [[concilio_de_calcedonia|Calcedonia]]). Todo lo que no concuerde con estos cuatro concilios se condena y anatematiza.
 
 **Anatematismos sobre los tres capítulos** (D-213 a D-228):
 
@@ -47,7 +47,7 @@ V ecuménico (sobre los tres capítulos).
 - **D-222** Can. 10: condena de quien niegue que Jesucristo crucificado en la carne es Dios verdadero y uno de la Santa Trinidad.
 - **D-223** Can. 11: condena de quien no anatematice a Arrio, Eunomio, Macedonio, Apolinar, Nestorio, Eutiques y [[herejía_origenista|Orígenes]], junto con sus escritos.
 - **D-224–225** Can. 12: condena de quien defienda a Teodoro de Mopsuesta, que separó a Dios Verbo de Cristo, atribuyó a Cristo pasionesHumanas y progresos morales, y comparó a Cristo con Platón, Maniqueo, Epicuro y Marción.
-- **D-226** Can. 13: condena de quien defienda los escritos de Teodoreto contra la fe y contra [[concilio_de_efeso|San Cirilo]] y sus doce capítulos.
+- **D-226** Can. 13: condena de quien defienda los escritos de Teodoreto contra la fe y contra [[concilio_de_éfeso|San Cirilo]] y sus doce capítulos.
 - **D-227** Can. 14: condena de quien defienda la carta de Ibas a Mares, que niega la verdadera [[encarnación]] y tacha de hereje a San Cirilo.
 - **D-228** Clausura: quien enseñe o escriba contra lo definido será despojado del episcopado o del estado clerical, o anatematizado si es monje o laico.
 

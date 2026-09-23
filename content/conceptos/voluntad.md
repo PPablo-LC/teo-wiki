@@ -47,7 +47,7 @@ Los votos religiosos tienen como fin ofrecer a Dios la propia voluntad mediante 
 
 **Ia-IIae q.8 — El objeto de la voluntad (el bien y el fin):**
 
-**q.8 a.1 — La voluntad es del bien:** La [[voluntad]] tiene por objeto propio el bien. Todo acto de la voluntad se ordena al bien como a su objeto formal.
+**q.8 a.1 — La voluntad es del bien:** La **voluntad** tiene por objeto propio el bien. Todo acto de la voluntad se ordena al bien como a su objeto formal.
 
 **q.8 a.2 — La voluntad es del fin:** La voluntad tiende al fin como a su término propio. El fin es el objeto de la voluntad en cuanto es el bien por el cual algo se quiere.
 

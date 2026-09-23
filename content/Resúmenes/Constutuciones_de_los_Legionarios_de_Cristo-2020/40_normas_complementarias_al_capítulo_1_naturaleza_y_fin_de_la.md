@@ -14,7 +14,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 - [[naturaleza_y_fin_de_la_Congregación]]
 - [[apostolado]]
-- [[Regnum_Christi]]
+- [[regnum_christi]]
 - [[liderazgo]]
 - [[carisma]]
 - [[iglesia_local]]

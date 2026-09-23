@@ -14,21 +14,21 @@ tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "dogmatica"]
 
 ## Conceptos básicos referenciados
 
-- [[gloria_de_Dios]]
+- [[gloria_de_dios]]
 - [[fin_último]]
 - [[fin_próximo]]
 - [[santificación]]
-- [[Santísima_Trinidad]]
+- [[santísima_trinidad]]
 - [[inhabitación_trinitaria]]
 - [[gracia_santificante]]
-- [[configuración_con_Cristo]]
-- [[Jesucristo]]
-- [[misterio_de_Cristo]]
-- [[Virgen_María]]
+- [[configuración_con_cristo]]
+- [[jesucristo]]
+- [[misterio_de_cristo]]
+- [[virgen_maría]]
 - [[mediación_mariana]]
 - [[esclavitud_mariana]]
-- [[Iglesia]]
-- [[Cuerpo_místico_de_Cristo]]
+- [[iglesia]]
+- [[cuerpo_místico_de_cristo]]
 
 ## CAPITULO I — El fin de la vida cristiana
 

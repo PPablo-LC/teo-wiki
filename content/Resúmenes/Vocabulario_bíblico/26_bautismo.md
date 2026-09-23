@@ -19,7 +19,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mar]] — el paso del mar Rojo como prefiguración bautismal
 - [[pureza]] — las abluciones rituales que purifican y capacitan para el culto
 - [[exilio]] — el judaísmo posterior al exilio multiplicando las abluciones
-- [[circuncision]] — el bautismo de los prosélitos tan necesario como la circuncisión
+- [[circuncisión]] — el bautismo de los prosélitos tan necesario como la circuncisión
 - [[juan_bautista]] — el bautismo de Juan como preparación para el mesías
 - [[resto]] — el resto de Israel sustraído a la ira de Dios
 - [[ira]] — la ira de Dios de la que sustrae el bautismo de Juan
@@ -27,21 +27,21 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[juicio]] — el fuego como juicio que comienza con la venida de Jesús
 - [[cordero_de_dios]] — Jesús como cordero que toma sobre sí el pecado del mundo
 - [[sangre]] — el agua y la sangre brotando del costado de Jesús
-- [[espiritu]] — la bajada del Espíritu Santo sobre Jesús en el bautismo
-- [[pentecostes]] — el bautismo en el Espíritu inaugurado en pentecostés
+- [[espíritu]] — la bajada del Espíritu Santo sobre Jesús en el bautismo
+- [[pentecostés]] — el bautismo en el Espíritu inaugurado en pentecostés
 - [[hijo]] — la proclamación de la filiación divina de Jesús
-- [[resurreccion]] — el bautismo como participación en la muerte y resurrección de Cristo
+- [[resurrección]] — el bautismo como participación en la muerte y resurrección de Cristo
 - [[plenitud]] — la plenitud del Espíritu recibida por la humanidad glorificada
 - [[cuerpo]] — el bautismo como entrada en el cuerpo de Cristo
 - [[fidelidad]] — la condición de fidelidad perseverante tras el bautismo
 - [[nacimiento_nuevo]] — el bautismo como nuevo nacimiento del agua y del Espíritu
-- [[circuncision]] — la circuncisión de Cristo como nueva circuncisión
+- [[circuncisión]] — la circuncisión de Cristo como nueva circuncisión
 - [[sello]] — el sello del Espíritu Santo impreso en el alma
 - [[luz]] — el paso de las tinieblas a la luz de Cristo resucitado
 - [[fe]] — la fe en Jesucristo como supuesto del bautismo
-- [[confesion]] — la confesión de fe anterior al bautismo
+- [[confesión]] — la confesión de fe anterior al bautismo
 - [[penitencia_y_conversión]] — la conversión total como punto de partida
-- [[justificacion]] — la justificación por la fe frente a la de las obras
+- [[justificación]] — la justificación por la fe frente a la de las obras
 - [[obras]] — las obras de la ley frente a la justificación por la fe
 - [[gracia]] — la respuesta a la llamada divina como obra de la gracia
 - [[reino_de_dios]] — el bautismo como entrada en el reino de Dios
@@ -50,7 +50,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[muerte]] — la inmersión como participación en la muerte de Cristo
 - [[unidad]] — la unidad de los bautizados en Cristo
 - [[vestido]] — los bautizados que se revisten de Cristo
-- [[comunion]] — la comunión con Cristo y con el Padre en el don del Espíritu
+- [[comunión]] — la comunión con Cristo y con el Padre en el don del Espíritu
 - [[don]] — el don del único Espíritu
 - [[vita]] — la vida nueva del bautizado
 

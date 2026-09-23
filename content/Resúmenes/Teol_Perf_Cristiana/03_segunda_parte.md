@@ -16,7 +16,7 @@ tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "dogmatica", "ascetica"
 
 - [[gracia_santificante]]
 - [[virtud_infusa]]
-- [[dones_del_Espíritu_Santo]]
+- [[dones_del_espíritu_santo]]
 - [[gracia_actual]]
 - [[perfección_cristiana]]
 - [[mística]]

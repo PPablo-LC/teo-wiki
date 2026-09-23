@@ -24,7 +24,7 @@ tags: ["resumen", "teodicea", "sufrimiento", "belleza", "problema_del_mal"]
 - [[job]] — el libro de Job como drama de preguntas, no de respuestas
 - [[inocencia_de_job]] — Job como sufridor inocente, ruptura radical con la cosmovisión antigua
 - [[providencia_divina]] — Dios transforma el mal en bien (metáfora del *kintsugi*)
-- [[pobreza_evangelica]] — desapego de los bienes materiales (joven rico)
+- [[pobreza_evangélica]] — desapego de los bienes materiales (joven rico)
 - [[lamento_cristiano]] — «Jesús lloró» (Jn 11,35): el duelo como práctica cristiana olvidada
 - [[problema_del_mal]] — si Dios es todopoderoso y bueno, ¿por qué permite el mal?
 - [[teodrama]] — poder relacional y autodonador en la Trinidad (Balthasar)
@@ -50,7 +50,7 @@ Jesús vence el mal con su propio sufrimiento, y sin embargo nos llama a tomar l
 Un drama de preguntas (Dios, Satán, Job). Lectura de Gerald Jansen: Job es llamado a una fe madura más allá del «ojo por ojo». Job como **sufridor inocente** — ruptura radical con la cosmovisión antigua de la retribución ([[inocencia_de_job]]). La respuesta de Dios es **belleza y creación**, no una explicación lógica: Job encuentra la bondad de Dios, no una solución ([[providencia_divina]]).
 
 ## Pérdida material y providencia espiritual
-La mentalidad de los amigos de Job sigue viva hoy. Jesús y el joven rico: el **desapego de los bienes** ([[pobreza_evangelica]]). La providencia de Dios transforma el mal en bien — metáfora del ***kintsugi***: la cerámica rota se repara con oro, y las grietas se vuelven más hermosas que el original.
+La mentalidad de los amigos de Job sigue viva hoy. Jesús y el joven rico: el **desapego de los bienes** ([[pobreza_evangélica]]). La providencia de Dios transforma el mal en bien — metáfora del ***kintsugi***: la cerámica rota se repara con oro, y las grietas se vuelven más hermosas que el original.
 
 ## Duelo y lamento
 «Jesús lloró» (Jn 11,35): el **lamento** es una práctica cristiana olvidada ([[lamento_cristiano]]). El duelo como testimonio: «esto no es como debería ser». Frederick Buechner sobre el duelo y la creatividad; arte nacido de la oscuridad — Hopkins, Chesterton, Mark Twain crearon obras maestras desde el dolor.

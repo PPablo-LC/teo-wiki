@@ -24,7 +24,7 @@ A sabiendas de todos se apoyaba uno en un auxilio exterior, en un plan, en un ar
 
 ### Vergüenza y desnudez.
 
-La vergüenza de verse sin [[vestido|vestidos]] forma parte de los hechos misteriosos que el relato del [[paraiso|paraíso]] hace remontar al primer pecado. Es el hecho de asomarse a la conciencia una [[soledad|soledad]] que proviene del desorden. Dejarlas desnudas será una vergüenza infligida como castigo a las muchachas de Israel o de otras partes *Ez 23,29* *Is 47,1ss*.
+La vergüenza de verse sin [[vestido|vestidos]] forma parte de los hechos misteriosos que el relato del [[paraíso|paraíso]] hace remontar al primer pecado. Es el hecho de asomarse a la conciencia una [[soledad|soledad]] que proviene del desorden. Dejarlas desnudas será una vergüenza infligida como castigo a las muchachas de Israel o de otras partes *Ez 23,29* *Is 47,1ss*.
 
 ### Vergüenza y esterilidad.
 
@@ -32,7 +32,7 @@ El que no justifique con algún [[fruto|fruto]] su existencia ante los otros se 
 
 ### Vergüenza e idolatría.
 
-«Vergüenza» es casi un nombre propio del [[idolos|ídolo]] (de Baal: *2Sa 2,8* heb.). En efecto, éste es frágil e ilusorio, mentira y esterilidad *Sab 4,11* *Is 41,23s* *44,19*, mientras que la mirada al [[rostro|rostro]] de Yahveh salva de la vergüenza *Sal 34,6*.
+«Vergüenza» es casi un nombre propio del [[ídolos|ídolo]] (de Baal: *2Sa 2,8* heb.). En efecto, éste es frágil e ilusorio, mentira y esterilidad *Sab 4,11* *Is 41,23s* *44,19*, mientras que la mirada al [[rostro|rostro]] de Yahveh salva de la vergüenza *Sal 34,6*.
 
 ## II. EL JUSTO SALVADO DE LA VERGÜENZA
 

@@ -20,7 +20,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 - [[amor_a_los_enemigos]] — Mandato evangélico de amar a los enemigos
 - [[humildad_cristiana]] — Renuncia a la propia excelncia
 - [[juicio_final]] — Descripción realism de la muerte del rico
-- [[pobreza_evangelica]] — Cristo y su Madre eligieron la pobreza
+- [[pobreza_evangélica]] — Cristo y su Madre eligieron la pobreza
 
 ## Contenido
 

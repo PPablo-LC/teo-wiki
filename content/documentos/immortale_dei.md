@@ -13,7 +13,7 @@ timestamp: 2026-07-02
 
 ## Definición
 
-*Immortale Dei* («Del inmortal Dios») es una encíclica del Papa León XIII, promulgada el 1 de noviembre de 1885. Es uno de los documentos fundacionales de la [[doctrina_social_de_la_iglesia]] y constituye la exposición más sistemática del magisterio leonino sobre las relaciones entre la [[Iglesia]] y el [[Estado]]. La encíclica responde a los desafíos del liberalismo y el laicismo del siglo XIX, reafirmando la soberanía de la Iglesia en el orden espiritual y la necesidad de armonía entre ambas potestades.
+*Immortale Dei* («Del inmortal Dios») es una encíclica del Papa León XIII, promulgada el 1 de noviembre de 1885. Es uno de los documentos fundacionales de la [[doctrina_social_de_la_iglesia]] y constituye la exposición más sistemática del magisterio leonino sobre las relaciones entre la [[iglesia]] y el [[estado]]. La encíclica responde a los desafíos del liberalismo y el laicismo del siglo XIX, reafirmando la soberanía de la Iglesia en el orden espiritual y la necesidad de armonía entre ambas potestades.
 
 ## Contenido
 

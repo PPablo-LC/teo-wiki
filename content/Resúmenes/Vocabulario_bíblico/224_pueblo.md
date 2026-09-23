@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[Israel]] — la vida de Israel
+- [[israel]] — la vida de Israel
 - [[iglesia]] — la Iglesia, nuevo pueblo de Dios
 - [[cuerpo]] — cuerpo de Cristo
 - [[alianza]] — la antigua y la nueva alianza
@@ -35,7 +35,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mediador]] — el pueblo mediador
 - [[bendición]] — la bendición de las naciones
 - [[padres_y_padre|padres]] — los patriarcas, padres de la raza
-- [[Abraham]] — de Abraham por Isaac a Jacob-Israel
+- [[abraham]] — de Abraham por Isaac a Jacob-Israel
 - [[hebreo]] — los patriarcas hebreos
 - [[pureza]] — la pureza de la sangre judía
 - [[extranjero]] — los extranjeros que se convierten
@@ -46,7 +46,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[juicio]] — juicios ejemplares
 - [[revelación]] — la historia como revelación
 - [[tierra]] — la tierra prometida
-- [[Jerusalén]] — morada de Yahveh
+- [[jerusalén]] — morada de Yahveh
 - [[dispersión]] — la dispersión
 - [[patria]] — el apego a la patria
 - [[lengua]] — la lengua santa
@@ -58,14 +58,14 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[tiempos|tiempo]] — los últimos tiempos
 - [[nuevo]] — una economía nueva
 - [[corazón]] — el corazón cambiado
-- [[Espíritu]] — el Espíritu derramado
+- [[espíritu]] — el Espíritu derramado
 - [[resto]] — el resto humilde y justo
 - [[creación]] — el pueblo creado por él
 - [[unidad]] — la unidad primitiva
 - [[madre]] — la madre simbólica
 - [[rey]] — el rey, hijo de David
 - [[luz]] — la luz aportada a las naciones
-- [[exodo|éxodo]] — el nuevo éxodo
+- [[éxodo|éxodo]] — el nuevo éxodo
 - [[desierto]] — la nueva marcha por el desierto
 - [[salvación]] — la historia de la salvación
 - [[paz]] — la paz universal
@@ -87,7 +87,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mundo]] — el pueblo que no pertenece a este mundo
 - [[evangelio]] — el anuncio del Evangelio
 - [[profeta]] — el profeta semejante a Moisés
-- [[Moisés]] — Moisés
+- [[moisés]] — Moisés
 - [[redención]] — la redención
 - [[gloria]] — la gloria
 - [[hijo]] — los hijos de Dios dispersos
@@ -129,7 +129,7 @@ Paralelamente a las instituciones que estructuran la nación, la comunidad de de
 
 #### El enraizamiento en una patria
 
-Del desierto, su *habitat* primitivo, fue conducido el pueblo de Dios a Canaán. Es la [[tierra]] en que vivieron sus padres y donde tienen sus tumbas *Gen 23* *25,9*; es la tierra prometida *Gen 12,7* *13,15* dada luego por Dios en [[herencia]] *Ex 23,27ss* *Dt 9,1ss* *Jer 2,7* *Sal 78,54s*; es la tierra conquistada a lo largo de una empresa humana que realizaba el designio de Dios *Jos 1,13ss* *24,11s*. No es ya, pues, Canaán, un país pagano, es la tierra de Israel, la tierra santa donde Dios mismo, presente en medio de su pueblo, ha puesto su residencia *1Re 8,15*. [[jerusalen|Jerusalén]], morada de Yahveh y capital política, es un signo sensible de unidad nacional y religiosa a la vez *Sal 122*. Así la [[dispersión]] que sigue a la catástrofe nacional no hace sino reforzar el apego del pueblo de Dios a su tierra. La mística sionista nace ya con el decreto de Ciro *Esd 1,2* y se mantiene viva en los siglos siguientes *Esd 7*. Los judíos, aun cuando viven en medio de los extranjeros, no se sienten nunca totalmente desenraizados, puesto que allá tienen todavía una [[patria]], en la que se hallan las tumbas de sus padres *Neh 2,3* y hacia la que se vuelven para orar *Dan 6,11*.
+Del desierto, su *habitat* primitivo, fue conducido el pueblo de Dios a Canaán. Es la [[tierra]] en que vivieron sus padres y donde tienen sus tumbas *Gen 23* *25,9*; es la tierra prometida *Gen 12,7* *13,15* dada luego por Dios en [[herencia]] *Ex 23,27ss* *Dt 9,1ss* *Jer 2,7* *Sal 78,54s*; es la tierra conquistada a lo largo de una empresa humana que realizaba el designio de Dios *Jos 1,13ss* *24,11s*. No es ya, pues, Canaán, un país pagano, es la tierra de Israel, la tierra santa donde Dios mismo, presente en medio de su pueblo, ha puesto su residencia *1Re 8,15*. [[jerusalén|Jerusalén]], morada de Yahveh y capital política, es un signo sensible de unidad nacional y religiosa a la vez *Sal 122*. Así la [[dispersión]] que sigue a la catástrofe nacional no hace sino reforzar el apego del pueblo de Dios a su tierra. La mística sionista nace ya con el decreto de Ciro *Esd 1,2* y se mantiene viva en los siglos siguientes *Esd 7*. Los judíos, aun cuando viven en medio de los extranjeros, no se sienten nunca totalmente desenraizados, puesto que allá tienen todavía una [[patria]], en la que se hallan las tumbas de sus padres *Neh 2,3* y hacia la que se vuelven para orar *Dan 6,11*.
 
 #### La comunidad de lenguaje
 
@@ -151,7 +151,7 @@ La economía fundada en la antigua alianza no tenía sólo los límites que acab
 
 #### Superioridad de la nueva alianza
 
-Como en otro tiempo Israel, el pueblo nuevo debe nacer de una iniciativa de Dios. Pero esta vez Dios va a triunfar del pecado que había contrarrestado su primer plan: purificará a su pueblo, cambiará su [[corazón]], derramará en él su [[Espíritu]] *Ez 36,26s*; eliminará de él a los pecadores para conservar un [[resto]] humilde y justo *Is 10,20s* *Sof 3,13* *Job 3,5*. Con este pueblo «[[creación|creado]]» por él *Is 65,18* concluirá una nueva [[alianza]] *Jer 31,31ss* *Ez 37,26*. Este pueblo será el «pueblo santo» *Is 62,12*, el rebaño *Jer 31,10*, y la [[esposo|esposa]] *Os 2,21* de Yahveh. La rectitud interior así descrita contrasta con el estado espiritual de Israel, pueblo pecador; evoca un estado de la humanidad anterior al pecado de su primer [[padres_y_padre|padre]] *Gen 2*.
+Como en otro tiempo Israel, el pueblo nuevo debe nacer de una iniciativa de Dios. Pero esta vez Dios va a triunfar del pecado que había contrarrestado su primer plan: purificará a su pueblo, cambiará su [[corazón]], derramará en él su [[espíritu]] *Ez 36,26s*; eliminará de él a los pecadores para conservar un [[resto]] humilde y justo *Is 10,20s* *Sof 3,13* *Job 3,5*. Con este pueblo «[[creación|creado]]» por él *Is 65,18* concluirá una nueva [[alianza]] *Jer 31,31ss* *Ez 37,26*. Este pueblo será el «pueblo santo» *Is 62,12*, el rebaño *Jer 31,10*, y la [[esposo|esposa]] *Os 2,21* de Yahveh. La rectitud interior así descrita contrasta con el estado espiritual de Israel, pueblo pecador; evoca un estado de la humanidad anterior al pecado de su primer [[padres_y_padre|padre]] *Gen 2*.
 
 #### Universalidad del pueblo nuevo
 
@@ -171,11 +171,11 @@ Para describir anticipadamente el pueblo nuevo como una comunidad organizada se 
 
 #### Los acontecimientos de la salvación
 
-La experiencia histórica de Israel proporciona igualmente el medio de representar los acontecimientos de la salvación: nuevo [[exodo|éxodo]], que será como el primero, [[redención]] y liberación *Jer 31,11* *Is 43,16ss* *44,23*; nueva marcha a través del [[desierto]], que renueve los prodigios de otros tiempos *Os 2,16* *Jer 31,2* *Is 40,3* *43,14* *48,21* *49,10*; retorno a la [[tierra]] prometida *Os 2,17* *Jer 31,12* *Ez 37,21*; triunfo del rey sobre los enemigos de alrededor para inaugurar un reinado pacífico *Is 9*... Pero una vez más se amplía el horizonte: no sólo Samaría participará en la restauración prometida, sino incluso Sodoma *Ez 16,53ss*, tipo de la ciudad pecadora... La [[paz]] universal así restablecida al final de la historia de la [[salvación]] *Is 2* restituirá al género humano a un estado que ya no conocía desde el pecado de Caín *Gen 4,8*.
+La experiencia histórica de Israel proporciona igualmente el medio de representar los acontecimientos de la salvación: nuevo [[éxodo|éxodo]], que será como el primero, [[redención]] y liberación *Jer 31,11* *Is 43,16ss* *44,23*; nueva marcha a través del [[desierto]], que renueve los prodigios de otros tiempos *Os 2,16* *Jer 31,2* *Is 40,3* *43,14* *48,21* *49,10*; retorno a la [[tierra]] prometida *Os 2,17* *Jer 31,12* *Ez 37,21*; triunfo del rey sobre los enemigos de alrededor para inaugurar un reinado pacífico *Is 9*... Pero una vez más se amplía el horizonte: no sólo Samaría participará en la restauración prometida, sino incluso Sodoma *Ez 16,53ss*, tipo de la ciudad pecadora... La [[paz]] universal así restablecida al final de la historia de la [[salvación]] *Is 2* restituirá al género humano a un estado que ya no conocía desde el pecado de Caín *Gen 4,8*.
 
 #### La nueva tierra santa
 
-La [[tierra]] santa será naturalmente el lugar de reunión del nuevo Israel *Ez 34,14* *Jer 31,10ss*. Pero entonces tendrá una [[fecundidad]] maravillosa que dejará muy atrás las más entusiastas descripciones del Deuteronomio *Ez 47,12* *Jl 4,18*. Literalmente será el [[paraíso]] recobrado *Ez 36,35* *Is 51,3*. [[jerusalen|Jerusalén]], su capital, será el centro del mundo entero *Is 2*. Así, en el universo «recreado» *Is 65,17* realizará Dios la unidad de todas las patrias para proporcionar a sus elegidos una felicidad y una [[paz]] paradisíacas *Os 2,20* *Is 65,17-25*.
+La [[tierra]] santa será naturalmente el lugar de reunión del nuevo Israel *Ez 34,14* *Jer 31,10ss*. Pero entonces tendrá una [[fecundidad]] maravillosa que dejará muy atrás las más entusiastas descripciones del Deuteronomio *Ez 47,12* *Jl 4,18*. Literalmente será el [[paraíso]] recobrado *Ez 36,35* *Is 51,3*. [[jerusalén|Jerusalén]], su capital, será el centro del mundo entero *Is 2*. Así, en el universo «recreado» *Is 65,17* realizará Dios la unidad de todas las patrias para proporcionar a sus elegidos una felicidad y una [[paz]] paradisíacas *Os 2,20* *Is 65,17-25*.
 
 #### La reunión de todas las lenguas
 
@@ -199,13 +199,13 @@ En el griego del NT se halla todavía mejor que en los LXX la especialización d
 
 ### I. El nuevo pueblo
 
-Por la nueva [[alianza]], sellada con la sangre de Jesús, ha creado, pues, Dios un nuevo pueblo, acerca del cual se realiza plenamente el dicho de la Escritura: «Vosotros seréis mi pueblo y yo seré vuestro Dios» *2Cor 6,16* *Lev 26,12* *Heb 8,10* *Jer 31,33* *Ap 21,3*. Es el pueblo cuyos pecados [[expiacion|expió]] Jesús *Heb 2,17*, el pueblo al que santificó por medio de su [[sangre]] *13,12*. De este modo los títulos de Israel se trasladan ahora a este pueblo: pueblo particular de Dios *Tit 2,14* *Dt 7,6*; raza elegida, nación santa, pueblo adquirido *1Pe 2,9* *Ex 19,5* *Is 43,20s*; rebaño *Act 20,28* *1Pe 5,2* *Jn 10,16* y [[esposo|esposa]] del Señor *Ef 5,25* *Ap 19,7* *21,2*. Y puesto que el pueblo de la antigua alianza había experimentado las vías de Dios en los acontecimientos de su historia, la experiencia de la salvación otorgada al pueblo nuevo se puede verter en categorías de pensamiento que recuerden estos acontecimientos figurativos: este pueblo debe entrar en el [[reposo]] divino prefigurado por la [[tierra]] prometida *Heb 4,9*; debe salir de [[babel|Babilonia]], ciudad del mal *Ap 18,4*, para reunirse en [[jerusalen|Jerusalén]], residencia de Dios *Ap 21,3*.
+Por la nueva [[alianza]], sellada con la sangre de Jesús, ha creado, pues, Dios un nuevo pueblo, acerca del cual se realiza plenamente el dicho de la Escritura: «Vosotros seréis mi pueblo y yo seré vuestro Dios» *2Cor 6,16* *Lev 26,12* *Heb 8,10* *Jer 31,33* *Ap 21,3*. Es el pueblo cuyos pecados [[expiación|expió]] Jesús *Heb 2,17*, el pueblo al que santificó por medio de su [[sangre]] *13,12*. De este modo los títulos de Israel se trasladan ahora a este pueblo: pueblo particular de Dios *Tit 2,14* *Dt 7,6*; raza elegida, nación santa, pueblo adquirido *1Pe 2,9* *Ex 19,5* *Is 43,20s*; rebaño *Act 20,28* *1Pe 5,2* *Jn 10,16* y [[esposo|esposa]] del Señor *Ef 5,25* *Ap 19,7* *21,2*. Y puesto que el pueblo de la antigua alianza había experimentado las vías de Dios en los acontecimientos de su historia, la experiencia de la salvación otorgada al pueblo nuevo se puede verter en categorías de pensamiento que recuerden estos acontecimientos figurativos: este pueblo debe entrar en el [[reposo]] divino prefigurado por la [[tierra]] prometida *Heb 4,9*; debe salir de [[babel|Babilonia]], ciudad del mal *Ap 18,4*, para reunirse en [[jerusalén|Jerusalén]], residencia de Dios *Ap 21,3*.
 
-Pero esta vez se rebasa el nivel de la vida temporal en que se mueven las [[naciones]]. La trascendencia del pueblo de Dios es total: siendo un «[[reino_de_dios]] sacerdotal» *1Pe 2,9*, no pertenece a este [[mundo]] *Jn 18,36*; su patria está en los cielos *Heb 11,13ss*, donde sus miembros tienen derecho de ciudadanía *Flp 3,20*, pues son los hijos de la [[jerusalen|Jerusalén]] de lo alto *Gal 4,26*, la misma que al final de los tiempos descenderá del cielo a la tierra *Ap 21,1ss*. Sin embargo, este pueblo mora todavía acá en la tierra. Así pues, por él lo espiritual y lo escatológico se articulan en lo temporal y en lo histórico. Después de la paradoja de Israel viene la paradoja de la Iglesia: en su condición terrenal es un pueblo visible llamado a desarrollarse en el tiempo.
+Pero esta vez se rebasa el nivel de la vida temporal en que se mueven las [[naciones]]. La trascendencia del pueblo de Dios es total: siendo un «[[reino_de_dios]] sacerdotal» *1Pe 2,9*, no pertenece a este [[mundo]] *Jn 18,36*; su patria está en los cielos *Heb 11,13ss*, donde sus miembros tienen derecho de ciudadanía *Flp 3,20*, pues son los hijos de la [[jerusalén|Jerusalén]] de lo alto *Gal 4,26*, la misma que al final de los tiempos descenderá del cielo a la tierra *Ap 21,1ss*. Sin embargo, este pueblo mora todavía acá en la tierra. Así pues, por él lo espiritual y lo escatológico se articulan en lo temporal y en lo histórico. Después de la paradoja de Israel viene la paradoja de la Iglesia: en su condición terrenal es un pueblo visible llamado a desarrollarse en el tiempo.
 
 ### II. Israel y las naciones en el nuevo pueblo
 
-Es natural que [[israel|Israel]] sea el primer llamado a formar parte del nuevo pueblo; tal era su vocación desde la primera alianza. Jesús fue enviado como «el [[profeta]] semejante a [[moises|Moisés]]» *Act 3,23* para «salvar a su pueblo» *Mt 1,21*, llevarle [[luz]] *Mt 4,15s*, [[redención]] *Lc 1,68*, conocimiento de la salvación *Lc 1,77*, [[gozo]] *Lc 2,10*, [[gloria]] *Lc 2,32*. Es el jefe que debe regirlo *Mt 2,6* y que finalmente morirá por él *Jn 11,50*. Pero alrededor de Jesús y del anuncio del [[evangelio|Evangelio]] se reproduce después el drama del «pueblo de dura cerviz», del que el AT ofrecía ya ejemplos impresionantes *Mt 13,15* *15,8* *Act 13,45* *28,26* *Rom 10,21* *11,1s*.
+Es natural que [[israel|Israel]] sea el primer llamado a formar parte del nuevo pueblo; tal era su vocación desde la primera alianza. Jesús fue enviado como «el [[profeta]] semejante a [[moisés|Moisés]]» *Act 3,23* para «salvar a su pueblo» *Mt 1,21*, llevarle [[luz]] *Mt 4,15s*, [[redención]] *Lc 1,68*, conocimiento de la salvación *Lc 1,77*, [[gozo]] *Lc 2,10*, [[gloria]] *Lc 2,32*. Es el jefe que debe regirlo *Mt 2,6* y que finalmente morirá por él *Jn 11,50*. Pero alrededor de Jesús y del anuncio del [[evangelio|Evangelio]] se reproduce después el drama del «pueblo de dura cerviz», del que el AT ofrecía ya ejemplos impresionantes *Mt 13,15* *15,8* *Act 13,45* *28,26* *Rom 10,21* *11,1s*.
 
 Entonces es cuando logra su objetivo completo el designio de salvación. En efecto, la muerte de Jesús, que lleva a su colmo el pecado del pueblo de la antigua alianza *Mt 23,32-36* *Act 7,51s*, pone fin a esta primera economía. Derriba la barrera que separaba a Israel de las otras [[naciones]] *Ef 2,14ss*: Jesús muere «no sólo por su nación, sino para congregar en la [[unidad]] a todos los [[hijo|hijos]] de Dios dispersos» *Jn 11,52*. Un [[resto]] del primer pueblo de Dios se convertirá y entrará en el nuevo pueblo; pero Dios tiene resuelto «sacar también de entre las naciones un pueblo para su nombre» *Act 15,14*; de los que no eran su pueblo quiere ahora hacer su pueblo *Rom 9,25s* *1Pe 2,10*, «para que todos tengan participación en la herencia con los santificados» *Act 26,18*.
 

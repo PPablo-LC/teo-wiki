@@ -21,7 +21,7 @@ La esperanza es la segunda de las virtudes teologales, virtud infusa sobrenatura
 
 La esperanza cristiana se funda en la misericordia de Dios. La resurrección de Cristo es la garantía de que «el amor es más fuerte que la muerte» [DM §8] y, por tanto, fundamento de la esperanza. La encíclica eleva una oración confiada para que «en esta etapa de la historia se revele una vez más aquel Amor que está en el Padre y que por obra del Hijo y del Espíritu Santo se haga presente en el mundo contemporáneo como más fuerte que el mal: más fuerte que el pecado y la muerte» [DM §15].
 
-La Iglesia implora la misericordia divina guiada por la [[fe]], la [[esperanza]] y la [[caridad]] «que Cristo ha injertado en nuestros corazones» [DM §15]. El grito de la Iglesia a la misericordia es expresión de esperanza: «Dios es fiel a sí mismo, a su paternidad y a su amor» [DM §15].
+La Iglesia implora la misericordia divina guiada por la [[fe]], la **esperanza** y la [[caridad]] «que Cristo ha injertado en nuestros corazones» [DM §15]. El grito de la Iglesia a la misericordia es expresión de esperanza: «Dios es fiel a sí mismo, a su paternidad y a su amor» [DM §15].
 
 ### Según el Compendio (CompDS)
 
@@ -95,7 +95,7 @@ Cristo desde el primer instante de su concepción gozó de la fruición plena de
 
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
-Mons. Erik Varden dedica la meditación final (capítulo 11) a comunicar la [[esperanza]] cristiana en un tiempo marcado por el dolor sordo de los jóvenes y la desorientación cultural. La esperanza cristiana no es optimismo ingenuo, sino la certeza de que Cristo crucificado y resucitado es el futuro del género humano.
+Mons. Erik Varden dedica la meditación final (capítulo 11) a comunicar la **esperanza** cristiana en un tiempo marcado por el dolor sordo de los jóvenes y la desorientación cultural. La esperanza cristiana no es optimismo ingenuo, sino la certeza de que Cristo crucificado y resucitado es el futuro del género humano.
 
 Varden diagnostica cuatro falacias que la Cruz desmantela: la falacia política de la perfectibilidad humana; la falacia antropológica que divide vidas «dignas» e «indignas»; la falacia cultural que atribuye a las heridas un poder determinista; y la falacia psicológica que se rinde a la desesperanza. La respuesta es la Pasión de Cristo, que permite lamentarse sin ira y abre a la [[compasión]].
 
@@ -199,6 +199,16 @@ El P. Álvaro Corcuera presenta la esperanza como **ancla en la eternidad que so
 ### Giussani — All'origine della pretesa cristiana (ODPC)
 
 En la conclusión de ODPC, la esperanza aparece como el segundo momento del acto existencial generado por la fe: «l'uomo è un camminatore eretto e infaticabile verso una meta non ancora raggiunta, certo del futuro perché tutto poggiato sulla Sua presenza (speranza)». La vida cristiana es esencialmente tensión, caminar, búsqueda de la propia completud: «Non c'è nulla di più anticristiano che il concepire la vita come qualcosa di comodo e soddisfatto» (Lc 6,24-25: «Guai a voi, ricchi, perché avete già la vostra consolazione»). La esperanza no es así optimismo sobre el futuro sino certeza fundada en una presencia presente; su frontera es la tentación de la satisfacción contingente que apaga el caminar ([[fe]], [[caridad]]).
+
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+DLV vincula la esperanza a la fe como reconocimiento de la Presencia y a la victoria de Cristo:
+
+- **Memoria y certeza: esperanza** — la vida del cristiano es memoria y certeza (esperanza): Lc 18,8; la fe en Cristo es reconocimiento de la Presencia, fundamento de la esperanza — también frente a la muerte (1Ts 5,9-11.16-21) (DLV 15, 89-113).
+- **La esperanza como respuesta al dolor** — «Donna, non piangere!» (Lc 7,11-17): la compasión de Cristo ante el llanto de la viuda de Naín; «non piangere, perché non è per la morte, ma per la vita che ti ho fatto!» (DLV 20, 3-25).
+- **La positividad de la vida y la victoria** — «La condizione della vita è positiva comunque»; «La vita è bella: è una promessa fatta da Dio con la vittoria di Cristo»; el perdón como esperanza más allá del poder (Chieffo, «Ballata del potere»: «come può sperare un uomo che ha in mano tutto, ma non ha il perdono») (DLV 21; DLV 18, 35).
+- **El Resucitado como bien** — «il bene che è Cristo risorto»: la positividad que hace razonable continuar viviendo (DLV 21, 33-35).
+- **Abramo: la nascita dell'io** — el io definido por la conciencia del rapporti con el infinito; el orar como scongiurare a Quien pertenecemos, «perché non ci abbia chiamati invano» (DLV 19, 7-11).
 
 ## Relaciones doctrinales
 

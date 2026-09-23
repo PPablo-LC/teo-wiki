@@ -12,29 +12,29 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Regnum_Christi]]
-- [[Federación_Regnum_Christi]]
-- [[Legionarios_de_Cristo]]
+- [[regnum_christi]]
+- [[federación_regnum_christi]]
+- [[legionarios_de_cristo]]
 - [[capítulo_general]]
-- [[Consagradas_del_Regnum_Christi]]
-- [[Laicos_Consagrados_del_Regnum_Christi]]
+- [[consagradas_del_regnum_christi]]
+- [[laicos_consagrados_del_regnum_christi]]
 - [[estatutos_federación_regnum_christi]]
-- [[Discernimiento]]
+- [[discernimiento]]
 
 
 ## Contenido
 
 📄 **Fuente original:** `11_introducción_del_p_eduardo_robles_gil_l_c.md`
 
-Transcripción autorizada de la intervención del P. Eduardo Robles-Gil, L.C., director general de la Legión de Cristo y del [[Regnum_Christi]], pronunciada el 27 de noviembre de 2018 al inicio de la segunda fase de la [[asamblea_general_regnum_christi]] (Prot. DG-RC 413-2018).
+Transcripción autorizada de la intervención del P. Eduardo Robles-Gil, L.C., director general de la Legión de Cristo y del [[regnum_christi]], pronunciada el 27 de noviembre de 2018 al inicio de la segunda fase de la [[asamblea_general_regnum_christi]] (Prot. DG-RC 413-2018).
 
 ### El momento actual y los pasos seguidos en este año
 
-Robles-Gil recuerda los momentos clave del proceso: la decisión de la Congregación para los Institutos de Vida Consagrada de requerir dos sociedades de vida apostólica (diciembre de 2017), la primera etapa de asambleas dividida al inicio pero unida al final, y las reuniones de los tres consejos generales en julio y septiembre con una *Lectio Divina* sobre el Concilio de Jerusalén. Subraya que la Iglesia está abierta a aprobar la [[Federación_Regnum_Christi]].
+Robles-Gil recuerda los momentos clave del proceso: la decisión de la Congregación para los Institutos de Vida Consagrada de requerir dos sociedades de vida apostólica (diciembre de 2017), la primera etapa de asambleas dividida al inicio pero unida al final, y las reuniones de los tres consejos generales en julio y septiembre con una *Lectio Divina* sobre el Concilio de Jerusalén. Subraya que la Iglesia está abierta a aprobar la [[federación_regnum_christi]].
 
 ### La segunda etapa del Capítulo General
 
-El [[capítulo_general]] ha acogido la noticia de la inminente erección de las dos [[Sociedad_de_Vida_Apostólica]] con fe y esperanza. Los legionarios se comprometen a respetar la autonomía de las dos sociedades y reconocen que la unidad del [[Regnum_Christi]] no puede pensarse como en el pasado. La [[Federación_Regnum_Christi]] es la mejor configuración canónica disponible. El Capítulo confirma una federación principalmente de coordinación.
+El [[capítulo_general]] ha acogido la noticia de la inminente erección de las dos [[sociedad_de_vida_apostólica]] con fe y esperanza. Los legionarios se comprometen a respetar la autonomía de las dos sociedades y reconocen que la unidad del [[regnum_christi]] no puede pensarse como en el pasado. La [[federación_regnum_christi]] es la mejor configuración canónica disponible. El Capítulo confirma una federación principalmente de coordinación.
 
 ### Qué esperar de los Estatutos
 

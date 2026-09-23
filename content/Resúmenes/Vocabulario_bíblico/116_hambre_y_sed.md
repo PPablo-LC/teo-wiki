@@ -17,10 +17,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[deseo]] — la necesidad de Dios que apaga el deseo
 - [[prueba_y_tentación]] — el hambre y la sed para probar a Israel
 - [[alimento]] — el alimento que da Yahveh
-- [[mana]] — el maná que viene del cielo
+- [[maná]] — el maná que viene del cielo
 - [[desierto]] — la lección del desierto
-- [[corazon]] — el corazón de Israel
-- [[sabiduria]] — la sed de la sabiduría
+- [[corazón]] — el corazón de Israel
+- [[sabiduría]] — la sed de la sabiduría
 - [[vino]] — el amor, vino embriagador
 - [[agua]] — la sed del agua más pura
 - [[embriaguez]] — la embriaguez de la vida
@@ -31,7 +31,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[ayuno]] — el ayuno agradable a Dios
 - [[palabra_de_dios]] — el deseo de la palabra de Dios
 - [[pan]] — el verdadero pan, que es Jesús
-- [[espiritu]] — el agua viva que es su Espíritu
+- [[espíritu]] — el agua viva que es su Espíritu
 
 ## Contenido
 
@@ -41,11 +41,11 @@ El hambre y la sed, que tan vivamente siente a veces el hombre, expresan simból
 
 #### Hambre y sed, prueba de la fe.
 
-a. En el desierto hizo Dios experimentar a su pueblo el hambre y la sed para [[prueba_y_tentación|probarlo]] y para conocer en la tentación el fondo de su corazón *Dt 8,1ss*. Israel debía aprender que en su existencia dependía totalmente de Yahveh, único que le da el [[alimento|alimento]] y la bebida. Pero, más lejos y más profundamente que estas necesidades físicas, debe descubrir Israel una necesidad todavía más vital, la necesidad de Dios. El [[mana|maná]] que viene del cielo evoca precisamente lo que sale de la boca de Dios mismo, su palabra, la ley, en la que el pueblo debe hallar la vida *Dt 30,15ss* *32,46s*. Pero el pueblo no comprende y sólo piensa en las carnes de Egipto: «¡Oh, qué recuerdo!» *Num 11,4s*, y Dios, en lugar de la prueba saludable del hambre, se ve reducido a hartar a Israel de carne «hasta que le salga por las narices» *11,20* *Sal 78,26.31*.
+a. En el desierto hizo Dios experimentar a su pueblo el hambre y la sed para [[prueba_y_tentación|probarlo]] y para conocer en la tentación el fondo de su corazón *Dt 8,1ss*. Israel debía aprender que en su existencia dependía totalmente de Yahveh, único que le da el [[alimento|alimento]] y la bebida. Pero, más lejos y más profundamente que estas necesidades físicas, debe descubrir Israel una necesidad todavía más vital, la necesidad de Dios. El [[maná|maná]] que viene del cielo evoca precisamente lo que sale de la boca de Dios mismo, su palabra, la ley, en la que el pueblo debe hallar la vida *Dt 30,15ss* *32,46s*. Pero el pueblo no comprende y sólo piensa en las carnes de Egipto: «¡Oh, qué recuerdo!» *Num 11,4s*, y Dios, en lugar de la prueba saludable del hambre, se ve reducido a hartar a Israel de carne «hasta que le salga por las narices» *11,20* *Sal 78,26.31*.
 
-b. Israel, instalado en la tierra y saciado de sus bienes, olvidando la lección del [[desierto|desierto]], los atribuye a sus propios méritos y se gloría delante de Yahveh *Dt 32,10-15* *Os 13,4-8*. Es preciso que Dios vuelva a conducir a su pueblo al desierto *Os 2,5* para que muriendo de sed, llorando su trigo perdido y sus viñas devastadas *2,11.14*, despierte el [[corazon|corazón]] de Israel *2,16* y sienta el hambre y la sed esenciales, los «de oír la palabra de Yahveh» *Am 8,11*.
+b. Israel, instalado en la tierra y saciado de sus bienes, olvidando la lección del [[desierto|desierto]], los atribuye a sus propios méritos y se gloría delante de Yahveh *Dt 32,10-15* *Os 13,4-8*. Es preciso que Dios vuelva a conducir a su pueblo al desierto *Os 2,5* para que muriendo de sed, llorando su trigo perdido y sus viñas devastadas *2,11.14*, despierte el [[corazón|corazón]] de Israel *2,16* y sienta el hambre y la sed esenciales, los «de oír la palabra de Yahveh» *Am 8,11*.
 
-c. Los profetas y los sabios recogen estas lecciones. La necesidad y el deseo de los bienes que reserva Dios a los que le aman se expresa constantemente en las imágenes de la comida, del pan, del agua, del vino. Se tiene hambre del festín que Yahveh prepara sobre su montaña para todos los pueblos *Is 25,6*, se tiene sed de la [[sabiduria|sabiduría]] que refrigera *Prov 5,15* *9,5*, del [[vino|vino]] embriagador que es el amor *Cant 1,4* *4,10*, se corre a recibir de Dios, «sin pagar», la bebida de los sedientos y el alimento que sacia *Is 55,1ss*. Pero de lo que se tiene sed es del [[agua|agua]] más pura, del único vino, cuya [[embriaguez|embriaguez]] es la vida, de Dios *Sal 42,2*; y Dios mismo está pronto a colmar este deseo: «Ensancha tu boca y yo la llenaré» *Sal 81,11*.
+c. Los profetas y los sabios recogen estas lecciones. La necesidad y el deseo de los bienes que reserva Dios a los que le aman se expresa constantemente en las imágenes de la comida, del pan, del agua, del vino. Se tiene hambre del festín que Yahveh prepara sobre su montaña para todos los pueblos *Is 25,6*, se tiene sed de la [[sabiduría|sabiduría]] que refrigera *Prov 5,15* *9,5*, del [[vino|vino]] embriagador que es el amor *Cant 1,4* *4,10*, se corre a recibir de Dios, «sin pagar», la bebida de los sedientos y el alimento que sacia *Is 55,1ss*. Pero de lo que se tiene sed es del [[agua|agua]] más pura, del único vino, cuya [[embriaguez|embriaguez]] es la vida, de Dios *Sal 42,2*; y Dios mismo está pronto a colmar este deseo: «Ensancha tu boca y yo la llenaré» *Sal 81,11*.
 
 #### Hambre y sed, llamamiento a la caridad.
 
@@ -59,7 +59,7 @@ Jesucristo, Mesías de los pobres *Lc 1,53*, proclama la hartura de los que tien
 
 #### Jesús apaga y suscita hambre y sed.
 
-Jesús, como Dios en otro tiempo en el desierto, alivia el hambre del pueblo que le sigue *Mc 8,1ss* y se preocupa también por suscitar el deseo de la [[palabra_de_dios|palabra]] de Dios, del verdadero [[pan|pan]], que es él mismo *Jn 6*, el deseo del [[agua|agua]] viva, que es su [[Espiritu|Espíritu]] *Jn 7,37ss*. Suscita esta sed en la samaritana *Jn 4,1-14*, como también invita a Marta a desear su palabra, única necesaria *Lc 10,39-42*.
+Jesús, como Dios en otro tiempo en el desierto, alivia el hambre del pueblo que le sigue *Mc 8,1ss* y se preocupa también por suscitar el deseo de la [[palabra_de_dios|palabra]] de Dios, del verdadero [[pan|pan]], que es él mismo *Jn 6*, el deseo del [[agua|agua]] viva, que es su [[espíritu|Espíritu]] *Jn 7,37ss*. Suscita esta sed en la samaritana *Jn 4,1-14*, como también invita a Marta a desear su palabra, única necesaria *Lc 10,39-42*.
 
 #### El cristiano y los hambrientos.
 

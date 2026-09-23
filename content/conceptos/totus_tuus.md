@@ -41,7 +41,7 @@ Los santuarios marianos de su vida —Wadowice (Santuario de la Virgen del Perpe
 
 ## Relaciones doctrinales
 
-Se relaciona con [[consagración_a_maría]], [[espiritualidad_mariana]], [[mariología]], [[virgen_maría]], [[nueva_eva]], [[madre_de_la_iglesia]], [[lumen_gentium]], [[san_luis_maría_grignion_de_montfort]], [[advocaciones_marianas]].
+Se relaciona con [[consagración_a_maría]], [[espiritualidad_mariana]], [[mariología]], [[virgen_maría]], [[nueva_eva]], [[madre_de_la_iglesia]], [[lumen_gentium]], [[luis_maría_grignion_de_montfort]], [[advocaciones_marianas]].
 
 ## Ver también
 

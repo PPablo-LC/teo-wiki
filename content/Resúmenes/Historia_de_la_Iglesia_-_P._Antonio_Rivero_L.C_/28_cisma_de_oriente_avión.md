@@ -19,9 +19,9 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 - [[teocracia]] — doctrina de la supremacía del poder espiritual sobre el temporal
 - [[devoción_moderna]] — espiritualidad nacida en Holanda, preludio de la ignaciana
 - [[tomás_de_kempis]] — autor de La imitación de Cristo
-- [[catalina_de_siena]] — santa que urgió al papa a volver a Roma
-- [[brígida_de_suecia]] — santa que también urgió al papa a regresar a Roma
-- [[juana_de_arco]] — doncella de Orleáns que alentó a Francia en la guerra de los cien años
+- [[santa_catalina_de_siena]] — santa que urgió al papa a volver a Roma
+- [[santa_brígida_de_suecia]] — santa que también urgió al papa a regresar a Roma
+- [[santa_juana_de_arco]] — doncella de Orleáns que alentó a Francia en la guerra de los cien años
 
 ## INTRODUCCIÓN
 

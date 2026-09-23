@@ -16,7 +16,7 @@ tags: ["resumen", "pastores dabo vobis"]
 - [[caridad_pastoral]] — principio interior de la vida espiritual presbiteral
 - [[radicalismo_evangelico|radicalismo evangélico]] — obediencia, castidad (celibato) y pobreza
 - [[celibato_sacerdotal|celibato sacerdotal]] — carisma, don inestimable y valor profético
-- [[pobreza_evangelica|pobreza evangélica]] — sumisión de todos los bienes al Bien supremo
+- [[pobreza_evangélica|pobreza evangélica]] — sumisión de todos los bienes al Bien supremo
 
 ## Contenido
 

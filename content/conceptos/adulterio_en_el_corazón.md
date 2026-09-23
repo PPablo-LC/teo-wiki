@@ -29,7 +29,7 @@ Juan Pablo II dedicó a esta palabra varias catequesis de la Teología del Cuerp
 
 5. **Pérdida del signo**: bajo el deseo, la persona «deja de ser sujeto», deja de ser «un lenguaje específico del espíritu» y pierde el carácter de signo: el deseo pasa «sobre las ruinas del significado esponsalicio» hacia el fin exclusivo de satisfacer la necesidad sexual tratando al otro como objeto propio.
 
-6. **Llamamiento al corazón**: contra toda lectura meramente legalista, Mt 5,27-28 revela la dimensión de intencionalidad de los pensamientos y corazones —uno de los filones de la cultura humana universal— y funda la [[pureza_del_corazón]]: el llamamiento de Cristo va al interior del hombre, consciente del peligro de que «el deseo del cuerpo» sea más potente que «el deseo de la mente» (Rm 7,23).
+6. **Llamamiento al corazón**: contra toda lectura meramente legalista, Mt 5,27-28 revela la dimensión de intencionalidad de los pensamientos y corazones —uno de los filones de la cultura humana universal— y funda la [[pureza_del_corazon]]: el llamamiento de Cristo va al interior del hombre, consciente del peligro de que «el deseo del cuerpo» sea más potente que «el deseo de la mente» (Rm 7,23).
 
 ## Perspectivas por fuente
 
@@ -50,11 +50,11 @@ Las catequesis sobre la pureza cristiana en el Sermón de la Montaña reinterpre
 
 ## Relaciones doctrinales
 
-Se relaciona con [[pureza_del_corazón]], [[concupiscencia]], [[concupiscencia_de_la_carne]], [[triple_concupiscencia]], [[adulterio]], [[significado_nupcial_del_cuerpo]], [[castidad]], [[sermón_de_la_montaña]] y [[corazón]].
+Se relaciona con [[pureza_del_corazon]], [[concupiscencia]], [[concupiscencia_de_la_carne]], [[triple_concupiscencia]], [[adulterio]], [[significado_nupcial_del_cuerpo]], [[castidad]], [[sermón_de_la_montaña]] y [[corazón]].
 
 ## Ver también
 
-[[concupiscencia_de_la_carne]], [[pureza_del_corazón]], [[adulterio]]
+[[concupiscencia_de_la_carne]], [[pureza_del_corazon]], [[adulterio]]
 
 ## Referencias
 

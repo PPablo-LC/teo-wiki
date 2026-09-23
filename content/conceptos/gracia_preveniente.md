@@ -19,7 +19,7 @@ La gracia preveniente es la [[gracia_divina]] que precede y prepara la voluntad 
 
 ### Según EAC-18 — Word on Fire Institute
 
-Robert Barron, en el fascículo «Conversion» de *Evangelization & Culture*, muestra la [[gracia_preveniente]] en acción en la conversión: Dios toma siempre la iniciativa y precede el movimiento del alma (1 Jn 4,19); incluso el primer deseo de convertirse es ya un don [EAC-18, 18_spotlight_barron.md].
+Robert Barron, en el fascículo «Conversion» de *Evangelization & Culture*, muestra la **gracia preveniente** en acción en la conversión: Dios toma siempre la iniciativa y precede el movimiento del alma (1 Jn 4,19); incluso el primer deseo de convertirse es ya un don [EAC-18, 18_spotlight_barron.md].
 
 Esta gracia que «va delante» prepara el corazón, ilumina el entendimiento y mueve la voluntad hacia la [[conversión]], de modo que la fe y el arrepentimiento son respuesta a una llamada anterior: el «ven y sígueme» de Cristo precede a la obediencia del discípulo [EAC-18, 18_spotlight_barron.md].
 

@@ -40,7 +40,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-La palabra griega *pentecostés* significa que la fiesta se celebra cincuenta días después de [[pascua]]. Su objeto evolucionó: de fiesta agraria pasó a conmemorar la alianza para convertirse al fin en la fiesta del don del [[Espíritu]] que inaugura la nueva [[alianza]].
+La palabra griega *pentecostés* significa que la fiesta se celebra cincuenta días después de [[pascua]]. Su objeto evolucionó: de fiesta agraria pasó a conmemorar la alianza para convertirse al fin en la fiesta del don del [[espíritu]] que inaugura la nueva [[alianza]].
 
 ### I. AT y judaísmo
 
@@ -54,7 +54,7 @@ Luego la fiesta es un aniversario. La [[alianza]] se había concluido unos cincu
 
 #### La teofanía
 
-El don del Espíritu, con los signos que lo acompañan (viento, [[fuego]]), se sitúa en la prolongación de las teofanías del AT. Un doble milagro subraya el sentido del acontecimiento: los apóstoles se expresan en «lenguas» para cantar las maravillas de Dios *Act 2,3*; el hablar en [[lengua]] es una forma [[carisma|carismática]] de oración. Este día es comprendido por las gentes que se hallan presentes *Act 2,5-11*; este milagro de audición es un signo de la vocación universal de la [[Iglesia]].
+El don del Espíritu, con los signos que lo acompañan (viento, [[fuego]]), se sitúa en la prolongación de las teofanías del AT. Un doble milagro subraya el sentido del acontecimiento: los apóstoles se expresan en «lenguas» para cantar las maravillas de Dios *Act 2,3*; el hablar en [[lengua]] es una forma [[carisma|carismática]] de oración. Este día es comprendido por las gentes que se hallan presentes *Act 2,5-11*; este milagro de audición es un signo de la vocación universal de la [[iglesia]].
 
 #### Sentido del acontecimiento
 
@@ -72,4 +72,4 @@ Los Padres compararon este «bautismo en el Espíritu Santo» con el bautismo de
 
 ### Pentecostés, misterio de salvación
 
-Si fue pasajero el aspecto exterior de la teofanía, el [[don]] hecho a la Iglesia es definitivo. Pentecostés inaugura el tiempo de la [[Iglesia]], que en su peregrinación recibe constantemente de él el Espíritu que la reúne en la fe y en la caridad, la santifica y la envía en misión. Los Hechos revelan la actualidad permanente de este don, el [[carisma]] por excelencia *Act 4,8* *13,2* *15,28* *16,6*. El don del Espíritu califica los «últimos tiempos», período que comienza en la [[ascensión]] y hallará su consumación el último [[día_del_señor|día]], cuando retorne el Señor.
+Si fue pasajero el aspecto exterior de la teofanía, el [[don]] hecho a la Iglesia es definitivo. Pentecostés inaugura el tiempo de la [[iglesia]], que en su peregrinación recibe constantemente de él el Espíritu que la reúne en la fe y en la caridad, la santifica y la envía en misión. Los Hechos revelan la actualidad permanente de este don, el [[carisma]] por excelencia *Act 4,8* *13,2* *15,28* *16,6*. El don del Espíritu califica los «últimos tiempos», período que comienza en la [[ascensión]] y hallará su consumación el último [[día_del_señor|día]], cuando retorne el Señor.

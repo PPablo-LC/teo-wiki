@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[bendicion]] — la bendición divina de multiplicarse y llenar la tierra
+- [[bendición]] — la bendición divina de multiplicarse y llenar la tierra
 - [[unidad]] — la dispersión que se realiza en la unidad
 - [[pueblo]] — el pueblo escogido por Dios
 - [[tierra]] — la tierra dada al pueblo
@@ -22,16 +22,16 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[egipto]] — el exilio como en otro tiempo en Egipto
 - [[extranjero]] — Israel dispersado da a conocer la fe a los extranjeros
 - [[iglesia]] — el pueblo de Dios como iglesia
-- [[pentecostes]] — pentecostés, don de lenguas y de caridad
+- [[pentecostés]] — pentecostés, don de lenguas y de caridad
 - [[lengua]] — el don de lenguas
 - [[naciones]] — la comunión de las naciones
 - [[fe]] — la fe que garantiza la unidad viva
-- [[espiritu]] — el Espíritu de caridad que une
+- [[espíritu]] — el Espíritu de caridad que une
 - [[cuerpo]] — el Cuerpo en que los fieles son unidos
 
 ## Contenido
 
-La dispersión de los hombres en la tierra aparece desde los primeros capítulos del Génesis como un hecho ambiguo. Consecuencia de la [[bendicion|bendición]] divina por la que el hombre debe multiplicarse y llenar la tierra *Gen 9,1* *1,28*, se realiza en la [[unidad]]; castigo del pecado, viene a ser el signo de la división entre los hombres *Gen 11,7s*. Esta doble perspectiva vuelve a hallarse luego en la salud.
+La dispersión de los hombres en la tierra aparece desde los primeros capítulos del Génesis como un hecho ambiguo. Consecuencia de la [[bendición|bendición]] divina por la que el hombre debe multiplicarse y llenar la tierra *Gen 9,1* *1,28*, se realiza en la [[unidad]]; castigo del pecado, viene a ser el signo de la división entre los hombres *Gen 11,7s*. Esta doble perspectiva vuelve a hallarse luego en la salud.
 
 ### Dispersión del pueblo-nación.
 
@@ -41,6 +41,6 @@ No obstante, Dios saca de este mal un bien mayor: Israel dispersado da a conocer
 
 ### Dispersión del pueblo-iglesia.
 
-Con Cristo el pueblo de Dios desborda el marco nacional judío y viene a ser propiamente [[iglesia]]. En [[pentecostes|pentecostés]], mediante el don de [[lengua|lenguas]] y de la caridad, garantiza el Espíritu la comunión de las [[naciones]]; en adelante, al Dios que une a los hombres no se le adora ya aquí o allá, sino «en espíritu y en verdad» *Jn 4,24*. Así, los fieles no temen ya la persecución que los disperse lejos de Jerusalén *Act 8,1* *11,19* y van a hacer irradiar su fe, según la orden del resucitado de reunir a todas las naciones en una sola fe, con un solo bautismo *Mt 28,19s*.
+Con Cristo el pueblo de Dios desborda el marco nacional judío y viene a ser propiamente [[iglesia]]. En [[pentecostés|pentecostés]], mediante el don de [[lengua|lenguas]] y de la caridad, garantiza el Espíritu la comunión de las [[naciones]]; en adelante, al Dios que une a los hombres no se le adora ya aquí o allá, sino «en espíritu y en verdad» *Jn 4,24*. Así, los fieles no temen ya la persecución que los disperse lejos de Jerusalén *Act 8,1* *11,19* y van a hacer irradiar su fe, según la orden del resucitado de reunir a todas las naciones en una sola fe, con un solo bautismo *Mt 28,19s*.
 
-La diáspora judía es sustituida, pues, por otra diáspora querida por Dios para la conversión del mundo. A ella dirige Santiago su epístola *Sant 1,1*; es la que Pedro descubre entre los paganos convertidos, que forman con los judíos fieles el nuevo pueblo de Dios *1Pe 1,1* con el fin de reducir a la unidad a la humanidad dispersa *Act 2,1-11*. En efecto, para los cristianos la unidad de la [[fe]] triunfa sin cesar de la dispersión. Los hijos de Dios son reunidos por el sacrificio de Cristo *Jn 11,52*: en dondequiera que en adelante se hallen, Cristo «elevado sobre la tierra» los atrae a todos a sí *Jn 12,32*, dándoles el [[espiritu|Espíritu]] de caridad que los une en su propio [[cuerpo|Cuerpo]] *1Cor 12*.
+La diáspora judía es sustituida, pues, por otra diáspora querida por Dios para la conversión del mundo. A ella dirige Santiago su epístola *Sant 1,1*; es la que Pedro descubre entre los paganos convertidos, que forman con los judíos fieles el nuevo pueblo de Dios *1Pe 1,1* con el fin de reducir a la unidad a la humanidad dispersa *Act 2,1-11*. En efecto, para los cristianos la unidad de la [[fe]] triunfa sin cesar de la dispersión. Los hijos de Dios son reunidos por el sacrificio de Cristo *Jn 11,52*: en dondequiera que en adelante se hallen, Cristo «elevado sobre la tierra» los atrae a todos a sí *Jn 12,32*, dándoles el [[espíritu|Espíritu]] de caridad que los une en su propio [[cuerpo|Cuerpo]] *1Cor 12*.

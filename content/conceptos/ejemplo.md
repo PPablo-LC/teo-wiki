@@ -37,11 +37,11 @@ En el NT, Jesús da fisonomía al modelo divino: siendo imagen del Dios invisibl
 
 ## Relaciones doctrinales
 
-El ejemplo se relaciona con la [[imitación_de_cristo]], la [[santidad]] cristiana, la [[caridad]] como virtud teologal, el [[discipulado]] y la [[perfección_cristiana]]. Se opone a la hipocresía farisaica (Mt 6,1-18).
+El ejemplo se relaciona con la [[imitacion_de_cristo]], la [[santidad]] cristiana, la [[caridad]] como virtud teologal, el [[discipulado]] y la [[perfección_cristiana]]. Se opone a la hipocresía farisaica (Mt 6,1-18).
 
 ## Ver también
 
-[[imitación_de_cristo]], [[santidad]], [[caridad]], [[discípulo]], [[perfección_cristiana]], [[ejemplo_de_cristo]]
+[[imitacion_de_cristo]], [[santidad]], [[caridad]], [[discípulo]], [[perfección_cristiana]], [[ejemplo_de_cristo]]
 
 ## Referencias
 

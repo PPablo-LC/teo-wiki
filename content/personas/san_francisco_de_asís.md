@@ -61,6 +61,24 @@ Los escritos auténticos de San Francisco (Admoniciones, Reglas, Cartas y Alaban
 
 **Padrenuestro y reino de Dios:** Las Alabanzas presentan una paráfrasis teológica del Padrenuestro donde el «pan de cada día» es Cristo mismo (Laud. 11-13) y el reino es «la clara visión de Ti, el perfecto amor de Ti, la bendita compañía de Ti» (Laud. 23-25).
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. II, lo presenta —junto a san Juan de la
+Cruz— como «enamoramiento paradigmático» de Cristo: personificó a la
+Iglesia Esposa y se hizo semejante a Él. Tommaso da Celano: «Jesús en sus
+labios, Jesús en sus oídos, Jesús en sus ojos, sus manos, en todos sus
+miembros» (*Vita prima*, 115); dialogaba «incluso en alta voz con su
+Señor, daba cuentas al Juez, suplicaba al Padre, hablaba al Amigo,
+bromeaba amablemente con el Esposo» (*Vita seconda*, 61).
+
+De los estigmas —«un milagro que nunca había sucedido», señal de un amor
+tan intenso que brota del alma al cuerpo— san Francisco de Sales ofrece
+la explicación (*Tratado del amor de Dios*, VI,15): el alma, transformada
+en «un segundo Crucifijo», imprimió en el cuerpo «el dolor de las llagas
+que la herían en los lugares correspondientes en los que las sentía su
+Amado». A la muerte del santo, el cortejo fúnebre se detuvo en San
+Damián para que santa Clara y sus monjas pudiesen besarle los estigmas.
+
 ## Ver también
 [[san_buenaventura]], [[san_josé_de_cupertino]], [[san_pedro_de_alcántara]], [[santa_gema_galgani]]
 

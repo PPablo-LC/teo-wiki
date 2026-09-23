@@ -26,7 +26,7 @@ La condenación no es un castigo arbitrario de Dios, sino la autodeterminación 
 
 ## Relaciones
 
-Se relaciona con [[infierno]], [[juicio_de_dios]], [[pena_de_los_condenados]], [[fuego_del_infierno]], [[pena_de_dano]], [[pena_de_sentido]], [[apocatástasis]], [[universalismo]], [[pecado_mortal]]
+Se relaciona con [[infierno]], [[juicio_de_dios]], [[pena_de_los_condenados]], [[fuego_del_infierno]], [[pena_de_daño]], [[pena_de_sentido]], [[apocatástasis]], [[universalismo]], [[pecado_mortal]]
 
 ## Ver también
 

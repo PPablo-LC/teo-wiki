@@ -29,7 +29,7 @@ La primera forma de inquisición fue ejercida por los obispos en sus diócesis, 
 
 **Inquisición pontificia (1232) — HI, Archivo 26:**
 
-El papa [[gregorio_IX|Gregorio IX]] institucionalizó la inquisición en 1232, confiándola a la Orden de los Dominicos (predicadores), que combinaban formación teológica con experiencia pastoral. La inquisición pontificia tenía jurisdicción sobre toda la cristiandad y estaba sujeta directamente a la Santa Sede. Sus procedimientos incluían la investigación secreta, la admisión de testigos anónimos (para protegerlos de represalias) y la posibilidad de apelación al Papa.
+El papa [[gregorio_ix|Gregorio IX]] institucionalizó la inquisición en 1232, confiándola a la Orden de los Dominicos (predicadores), que combinaban formación teológica con experiencia pastoral. La inquisición pontificia tenía jurisdicción sobre toda la cristiandad y estaba sujeta directamente a la Santa Sede. Sus procedimientos incluían la investigación secreta, la admisión de testigos anónimos (para protegerlos de represalias) y la posibilidad de apelación al Papa.
 
 **Inquisición española (1478) — HI, Archivo 26:**
 
@@ -60,7 +60,7 @@ Se relaciona con la [[herejía]], la [[excomunión]], el [[derecho_canónico]], 
 
 ## Ver también
 
-[[herejía]], [[excomunión]], [[derecho_canónico]], [[libertad_religiosa]], [[gregorio_IX]], [[juan_pablo_ii]]
+[[herejía]], [[excomunión]], [[derecho_canónico]], [[libertad_religiosa]], [[gregorio_ix]], [[juan_pablo_ii]]
 
 ## Referencias
 

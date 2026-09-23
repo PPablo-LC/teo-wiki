@@ -15,7 +15,7 @@ tags: ["resumen", "informe_1941_2019", "abuso_sexual", "análisis_del_fenómeno"
 - [[informe_1941_2019]] — Informe sobre el fenómeno del abuso sexual de menores en la Congregación
 - [[abuso_sexual_de_menores]] — Fenómeno estudiado en el informe
 - [[marcial_maciel]] — Fundador y superior general durante el período 1941-2005
-- [[álvaro_corcuera]] — Superior general tras la muerte de Maciel
+- [[alvaro_corcuera]] — Superior general tras la muerte de Maciel
 - [[velasio_de_paolis]] — Delegado Pontificio (2005-2014)
 - [[eduardo_robles_gil]] — Superior general a partir de 2014
 - [[ambientes_seguros]] — Política implementada a partir de 2015

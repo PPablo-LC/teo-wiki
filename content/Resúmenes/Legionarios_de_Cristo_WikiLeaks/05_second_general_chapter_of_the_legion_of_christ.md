@@ -15,9 +15,9 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 - [[voto_privado]] — voto de caridad y unidad específico de los Legionarios de Cristo
 - [[caridad]] — la virtud de la unidad con Dios y los hombres
 - [[unidad]] — el bien supremo que preserva la Legión
-- [[nueva_evangelizacion]] — la misión encomendada por el Papa a la Legión
-- [[espiritu_santo]] — el guía del Capítulo General
-- [[vocacion]] — la llamada a la vida religiosa y sacerdotal
+- [[nueva_evangelización]] — la misión encomendada por el Papa a la Legión
+- [[espíritu_santo]] — el guía del Capítulo General
+- [[vocación]] — la llamada a la vida religiosa y sacerdotal
 
 
 ## Contenido

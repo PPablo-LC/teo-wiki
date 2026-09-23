@@ -31,7 +31,7 @@ La escuela alejandrina se distingue de la escola antioquena por su método exeg�
 
 ## Ver también
 
-[[escuela_antioquena]], [[orígenes]], [[cirilo_de_alejandría]], [[atanasio]], [[exégesis_alegórica]], [[éfeso]], [[didaskaleion]]
+[[escuela_antioquena]], [[orígenes]], [[cirilo_de_alejandría]], [[san_atanasio]], [[exégesis_alegórica]], [[concilio_de_éfeso]], [[didaskaleion]]
 
 ## Referencias
 

@@ -35,7 +35,7 @@ El término «carisma» (*kharisma*, «don gratuito») designa en el NT los done
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium trata los [[carismas]] en LG §12 y §4. El mismo Espíritu Santo «distribuye gracias especiales entre los fieles de cualquier condición, distribuyendo a cada uno según quiere sus dones, con los que les hace aptos y prontos para ejercer las diversas obras y deberes que sean útiles para la renovación y la mayor edificación de la Iglesia» [ConcVatII, LG §12]. Estos carismas, tanto los extraordinarios como los más comunes y difundidos, «deben ser recibidos con gratitud y consuelo, porque son muy adecuados y útiles a las necesidades de la Iglesia» [ConcVatII, LG §12].
+Lumen Gentium trata los **carismas** en LG §12 y §4. El mismo Espíritu Santo «distribuye gracias especiales entre los fieles de cualquier condición, distribuyendo a cada uno según quiere sus dones, con los que les hace aptos y prontos para ejercer las diversas obras y deberes que sean útiles para la renovación y la mayor edificación de la Iglesia» [ConcVatII, LG §12]. Estos carismas, tanto los extraordinarios como los más comunes y difundidos, «deben ser recibidos con gratitud y consuelo, porque son muy adecuados y útiles a las necesidades de la Iglesia» [ConcVatII, LG §12].
 
 Los dones extraordinarios no deben pedirse temerariamente ni esperarse con presunción. El juicio de su autenticidad y de su ejercicio razonable «pertenece a quienes tienen la autoridad en la Iglesia, a los cuales compete ante todo no sofocar el Espíritu, sino probarlo todo y retener lo que es bueno» [ConcVatII, LG §12]. El Espíritu Santo provee y gobierna la Iglesia con diversos dones jerárquicos y carismáticos y la embellece con sus frutos [ConcVatII, LG §4].
 

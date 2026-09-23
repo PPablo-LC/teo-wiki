@@ -29,7 +29,7 @@ El Papa, sucesor de Pedro, es «principio y fundamento perpetuo y visible de la 
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium, siguiendo las huellas del Concilio Vaticano I, enseña y declara que Jesucristo «puso al frente de los demás Apóstoles al bienaventurado Pedro e instituyó en la persona del mismo el principio y fundamento, perpetuo y visible, de la unidad de fe y de comunión» [ConcVatII, LG §18]. Propone nuevamente como objeto de fe la doctrina sobre la institución, perpetuidad, poder y razón de ser del sacro [[primado_petrino]] del Romano Pontífice y de su magisterio infalible [ConcVatII, LG §18].
+Lumen Gentium, siguiendo las huellas del Concilio Vaticano I, enseña y declara que Jesucristo «puso al frente de los demás Apóstoles al bienaventurado Pedro e instituyó en la persona del mismo el principio y fundamento, perpetuo y visible, de la unidad de fe y de comunión» [ConcVatII, LG §18]. Propone nuevamente como objeto de fe la doctrina sobre la institución, perpetuidad, poder y razón de ser del sacro **primado petrino** del Romano Pontífice y de su magisterio infalible [ConcVatII, LG §18].
 
 «El Romano Pontífice tiene sobre la Iglesia, en virtud de su cargo, es decir, como Vicario de Cristo y Pastor de toda la Iglesia, plena, suprema y universal potestad, que puede siempre ejercer libremente» [ConcVatII, LG §22]. El oficio de atar y desatar dado a Pedro consta que fue dado también al Colegio de los Apóstoles unido a su Cabeza [ConcVatII, LG §22].
 

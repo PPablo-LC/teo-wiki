@@ -21,7 +21,7 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "liturgia", "sacramentos", "c
 - [[bautismo]] — Primer sacramento de iniciación cristiana
 - [[eucaristía]] — Sacramento de la unidad eclesial
 - [[orden_sagrado]] — Sacramento que confiere el ministerio eclesiástico
-- [[Concilio_Vaticano_II]] — Concilio que renovó la liturgia y la doctrina sacramental
+- [[concilio_vaticano_ii]] — Concilio que renovó la liturgia y la doctrina sacramental
 
 ## Comentario al Canon 402
 

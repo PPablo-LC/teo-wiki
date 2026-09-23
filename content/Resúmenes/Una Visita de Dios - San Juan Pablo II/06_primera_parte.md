@@ -13,10 +13,10 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "teo
 ## Conceptos básicos referenciados
 
 - [[sufrimiento]] — misterio que el hombre no puede comprender sin la fe; llamada a manifestar la grandeza moral del ser humano
-- [[Providencia_Divina]] — Dios permite el mal por amor a la libertad creada, pero no lo quiere
+- [[providencia_divina]] — Dios permite el mal por amor a la libertad creada, pero no lo quiere
 - [[libertad]] — valor tan esencial para Dios que permite incluso su mal uso antes que privar de ella al mundo
 - [[pecado]] — mal moral radicalmente contrario a la voluntad de Dios; causa del sufrimiento humano
-- [[Jesucristo]] — camino, verdad y vida; da sentido al sufrimiento y lo transforma en redención
+- [[jesucristo]] — camino, verdad y vida; da sentido al sufrimiento y lo transforma en redención
 - [[redención]] — se efectúa concretamente a través de la cruz de Cristo
 - [[maría]] — modelo de acogida del sufrimiento; principal cooperadora del designio salvador
 - [[consolación]] — sola la persona que ha sufrido puede consolar auténticamente
@@ -24,11 +24,11 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "teo
 - [[parábola_del_hijo_pródigo]] — revela que el pecado es ofensa al amor del Padre
 - [[sacramento_de_la_reconciliación]] — pertenece a la revelación del amor y la bondad paterna de Dios
 - [[unción_de_enfermos]] — sacramento que sana cuerpo y alma
-- [[Salvifici_doloris]] — Carta Apostólica sobre el sentido cristiano del sufrimiento
+- [[salvifici_doloris]] — Carta Apostólica sobre el sentido cristiano del sufrimiento
 - [[cruz]] — centro de la vida y del misterio pascual; el sufrimiento, unido a la cruz, tiene valor salvífico
 - [[resurrección]] — esperanza que el sufrimiento introduce; fiesta cristiana por excelencia
 - [[bienaventuranzas]] — Cristo puso en el centro de sus enseñanzas las bienaventuranzas para los hombres probados por el sufrimiento
-- [[Paráclito]] — la gracia del Espíritu Santo que el sacramento de la unción invoca
+- [[paráclito]] — la gracia del Espíritu Santo que el sacramento de la unción invoca
 - [[gracia_santificante]] — la fe y la vida en gracia permiten transformar el dolor en alegría
 - [[oración]] — medio para descubrir gradualmente el verdadero sentido del sufrimiento
 - [[iglesia|Iglesia]] — presencia de Cristo en los enfermos y en quienes los sirven
@@ -69,7 +69,7 @@ Se menciona el viaje del Papa a África (1993), su encuentro con una joven infec
 
 #### Cristo responde sacando bien del mal
 
-Es Cristo quien ofrece la respuesta plena: en el misterio redentor, todo mal, y especialmente el [[pecado]], es sometido al bien de la [[redención]] mediante la [[cruz]] y la [[resurrección]]. «Dios saca bien del mal». Por una parte, Cristo confirma con su vida y su pasión que Dios está al lado del hombre que sufre. El sufrimiento, visto con los ojos de la fe, permite transparentar el misterio de la [[Providencia_Divina]].
+Es Cristo quien ofrece la respuesta plena: en el misterio redentor, todo mal, y especialmente el [[pecado]], es sometido al bien de la [[redención]] mediante la [[cruz]] y la [[resurrección]]. «Dios saca bien del mal». Por una parte, Cristo confirma con su vida y su pasión que Dios está al lado del hombre que sufre. El sufrimiento, visto con los ojos de la fe, permite transparentar el misterio de la [[providencia_divina]].
 
 Se recuerda que el escritor francés André Frossard definió al Papa como «el Papa del hombre», y resumió su pontificado en dos frases: «No tengáis miedo» y «Abrid las puertas a Cristo».
 
@@ -91,7 +91,7 @@ Se narra la visita del Papa a monseñor Deskur tras sufrir un derrame cerebral d
 
 #### ¡Sólo puede consolar el que ha sufrido el dolor y el desconsuelo!
 
-El Papa habla desde su propia experiencia: «Conozco el sufrimiento que produce la incapacidad física». Pero ese sufrimiento tiene una vertiente sublime: da capacidad espiritual, es purificación, y puede convertirse en don ofrecido para completar «lo que falta a las tribulaciones de Cristo, en favor de su cuerpo, que es la [[iglesia|Iglesia]]» (Col 1,24). El sufrimiento capacita para la santidad y tiene un valor salvífico excepcional cuando va unido a los sacrificios de Cristo. Se citan la Carta Apostólica [[Salvifici_doloris]] y la identidad de Cristo como «el mayor realista de la historia del hombre».
+El Papa habla desde su propia experiencia: «Conozco el sufrimiento que produce la incapacidad física». Pero ese sufrimiento tiene una vertiente sublime: da capacidad espiritual, es purificación, y puede convertirse en don ofrecido para completar «lo que falta a las tribulaciones de Cristo, en favor de su cuerpo, que es la [[iglesia|Iglesia]]» (Col 1,24). El sufrimiento capacita para la santidad y tiene un valor salvífico excepcional cuando va unido a los sacrificios de Cristo. Se citan la Carta Apostólica [[salvifici_doloris]] y la identidad de Cristo como «el mayor realista de la historia del hombre».
 
 Se menciona que en 1944, durante la invasión rusa de Polonia, Karol Wojtyla salvó milagrosamente la vida escondido en la cocina mientras los nazis registraban su casa.
 
@@ -117,7 +117,7 @@ La parábola del Buen Samaritano se aplica a los agentes sanitarios. Cristo —e
 
 #### Personal sanitario: ¡gracias por vuestra generosidad!
 
-Se invita a ver en los enfermos al mismo Cristo (Lc 10,33-34). La oración y la frecuencia de sacramentos —especialmente la [[sacramento_de_la_reconciliación|Penitencia]] y la [[Eucaristía]]— darán la fortaleza necesaria. La parábola del buen samaritano se conecta con el juicio final (Mt 25,34-46): «En verdad os digo que cuantas veces hicisteis eso a uno de estos mis hermanos menores, a mí me lo hicisteis».
+Se invita a ver en los enfermos al mismo Cristo (Lc 10,33-34). La oración y la frecuencia de sacramentos —especialmente la [[sacramento_de_la_reconciliación|Penitencia]] y la [[eucaristía]]— darán la fortaleza necesaria. La parábola del buen samaritano se conecta con el juicio final (Mt 25,34-46): «En verdad os digo que cuantas veces hicisteis eso a uno de estos mis hermanos menores, a mí me lo hicisteis».
 
 #### Acompañar como merece al amigo que se va
 
@@ -135,7 +135,7 @@ Esta sección ofrece puntos de meditación directamente a los enfermos, seleccio
 
 #### La predilección del Papa por los enfermos
 
-El Papa, a imitación de Jesús, tiene predilección por los enfermos. Quiere encontrarse con ellos para hablarles de corazón a corazón. «Visto con los ojos de la fe, el sufrimiento… permite transparentar el misterio de la [[Providencia_Divina]]».
+El Papa, a imitación de Jesús, tiene predilección por los enfermos. Quiere encontrarse con ellos para hablarles de corazón a corazón. «Visto con los ojos de la fe, el sufrimiento… permite transparentar el misterio de la [[providencia_divina]]».
 
 #### Estoy muy unido a todos los que sufrís
 
@@ -235,7 +235,7 @@ Las enfermedades están inscritas en el plan de amor de Dios. No veáis en ellas
 
 #### La Unción de enfermos es un Sacramento que sana cuerpo y alma
 
-El apóstol Santiago recomienda que los presbíteros vayan a ver a los enfermos (Sant 5,13-15). La [[iglesia|Iglesia]] ofrece gracia y fuerza mediante el [[unción_de_enfermos|sacramento de la unción de enfermos]], que ayuda al enfermo con la gracia del [[Espíritu_Santo|Espíritu Santo]], lo libera del pecado y lo levanta.
+El apóstol Santiago recomienda que los presbíteros vayan a ver a los enfermos (Sant 5,13-15). La [[iglesia|Iglesia]] ofrece gracia y fuerza mediante el [[unción_de_enfermos|sacramento de la unción de enfermos]], que ayuda al enfermo con la gracia del [[espíritu_santo|Espíritu Santo]], lo libera del pecado y lo levanta.
 
 #### El dolor es una caricia de Dios; y la confesión, un abrazo
 
@@ -245,7 +245,7 @@ Se narra el atentado del 13 de mayo de 1981: las últimas palabras de Juan Pablo
 
 #### Uniros a Cristo como lo hizo María Santísima
 
-María está unida perfectamente a Cristo en su despojamiento. A los pies de la [[cruz]], participa por medio de la fe en el misterio de la muerte redentora. La espada atravesó su corazón. «Hágase en mí según tu palabra» (Lc 1,38) — en la [[Anunciación]] y ahora renueva la disponibilidad en el momento del más grande dolor.
+María está unida perfectamente a Cristo en su despojamiento. A los pies de la [[cruz]], participa por medio de la fe en el misterio de la muerte redentora. La espada atravesó su corazón. «Hágase en mí según tu palabra» (Lc 1,38) — en la [[anunciación]] y ahora renueva la disponibilidad en el momento del más grande dolor.
 
 #### ¡La Resurrección es la fiesta cristiana!
 

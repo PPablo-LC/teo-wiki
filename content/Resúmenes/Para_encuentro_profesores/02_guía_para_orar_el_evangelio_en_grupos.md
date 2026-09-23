@@ -12,9 +12,9 @@ tags: ["resumen", "para encuentro profesores"]
 
 ## Conceptos básicos referenciados
 
-- [[Oración contemplativa]]
-- [[Lectio Divina]]
-- [[San Ignacio de Loyola]]
+- [[oración_contemplativa]]
+- [[lectio_divina]]
+- [[san_ignacio_de_loyola]]
 - [[Coloquio]]
 - Contemplatio
 - Statio

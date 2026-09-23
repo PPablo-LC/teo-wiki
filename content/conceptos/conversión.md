@@ -95,6 +95,11 @@ La colección documenta tres conversiones icónicas del II milenio:
 
 ODPC, tratando de las religiones, recoge la observación de Newman: «la «conversión» no es otra cosa que el descubrimiento más profundo y más auténtico de aquello a lo cual ya se adhería» (Apologia pro vita sua; Grammatica dell'Assenso). La conversión no es cambio de partido sino profundización: el hombre descubre el contenido verdadero de aquello que buscaba. Así se explica la conversión cristiana como cumplimiento del dinamismo religioso: no una sustitución de la búsqueda, sino su hallazgo ([[pretesa_cristiana]]); y así se explica también el camino de los primeros discípulos, que desde la curiosidad llegan al reconocimiento («Abbiamo trovato il Messia») sin traicionar su espera ([[primeros_discípulos]]).
 
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+- **La conversión como reconocimiento de la Presencia** — la fe cristiana es «riconoscimento di una Presenza» conectada con el destino; la conversión es acoger la Presencia que continúa en la historia (Ab 2,4; Rm 1,17) (DLV 10, 81-126).
+- **El «sí» de Pedro y la conversión del corazón** — el seguimiento de Pedro no nace del elenco de sus errores sino del amor a la palabra de Cristo, «la più umana e la più divina» (Jn 21) (DLV 01, 77).
+
 ## Distinciones importantes
 
 - Conversión primera (Bautismo) vs. segunda conversión (penitencia continua)

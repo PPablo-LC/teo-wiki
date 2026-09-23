@@ -41,11 +41,11 @@ La Virgen María es presentada como «Consuelo de los afligidos»: «Junto al qu
 
 ## Relaciones doctrinales
 
-[[tristeza]] — [[gozo]] — [[paraclito]] — [[espiritu_santo]] — [[sufrimiento]] — [[esperanza]]
+[[tristeza]] — [[gozo]] — [[paráclito]] — [[espíritu_santo]] — [[sufrimiento]] — [[esperanza]]
 
 ## Ver también
 
-[[persecucion]], [[enfermedad_y_curación]], [[pobres]], [[promesas]], [[mesias]]
+[[persecución]], [[enfermedad_y_curación]], [[pobres]], [[promesas]], [[mesías]]
 
 ## Referencias
 

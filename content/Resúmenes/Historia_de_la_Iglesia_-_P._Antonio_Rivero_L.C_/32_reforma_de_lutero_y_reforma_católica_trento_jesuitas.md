@@ -13,7 +13,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 ## Conceptos básicos referenciados
 
 - [[reforma_protestante]] — división de la iglesia latina en luteranismo, calvinismo y anglicanismo
-- [[martín_lutero]] — monje agustino protagonista del cisma de Occidente
+- [[martin_lutero]] — monje agustino protagonista del cisma de Occidente
 - [[juan_calvino]] — laico francés creador de la doctrina de la predestinación
 - [[concilio_de_trento]] — gran concilio de la reforma católica (1545-1563)
 - [[compañía_de_jesús]] — orden fundada por san Ignacio, baluarte de la reforma católica

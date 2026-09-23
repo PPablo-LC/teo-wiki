@@ -16,14 +16,14 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[ira]] — el celo semejante a menudo a la ira
 - [[fuego]] — el celo que hace pensar en el fuego
-- [[idolos]] — los ídolos de la envidia de Dios
+- [[ídolos]] — los ídolos de la envidia de Dios
 - [[santo]] — Dios celoso porque es santo
 - [[alianza]] — la alianza como marco de los celos divinos
 - [[esposo]] — la alianza presentada bajo los rasgos de los desposorios
 - [[nombre]] — Yahveh solícito por santificar su nombre
 - [[resto]] — el resto que asegura que sobrevivirá Israel
 - [[naciones]] — el celo de Dios sobre las naciones
-- [[elias]] — el profeta abrasado por el celo divino
+- [[elías]] — el profeta abrasado por el celo divino
 - [[piedad]] — los piadosos celosos por el bien
 - [[buscar]] — buscar ardientemente el bien
 - [[imagen_de_dios]] — el hombre creado a imagen de Dios

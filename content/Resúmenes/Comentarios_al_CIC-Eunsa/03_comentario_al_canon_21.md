@@ -12,13 +12,13 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "pueblo_de_dios", "fieles", "
 
 ## Conceptos básicos referenciados
 
-- [[Pueblo_de_Dios]] — Comunidad de los bautizados incorporados a Cristo
+- [[pueblo_de_dios]] — Comunidad de los bautizados incorporados a Cristo
 - [[fieles_cristianos]] — Todos los bautizados en la Iglesia católica
 - [[derechos_deberes_fieles]] — Conjunto de derechos y deberes que nacen del Bautismo
 - [[igualdad_radical]] — Todos los fieles son iguales en dignidad y derechos
 - [[variedad]] — Diversidad de estados de vida y vocaciones
 - [[jerarquía]] — Constitución de la Iglesia con Obispos, presbíteros y diáconos
-- [[Comunión]] — Unión con Cristo y la Iglesia a través de fe, sacramentos y jerarquía
+- [[comunión]] — Unión con Cristo y la Iglesia a través de fe, sacramentos y jerarquía
 - [[ministros_sagrados]] — Clérigos que han recibido el sacramento del Orden
 - [[laicos]] — Fieles que no son clérigos ni religiosos
 - [[religiosos]] — Fieles que viven según un instituto de vida consagrada

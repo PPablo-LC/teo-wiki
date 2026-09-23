@@ -12,9 +12,9 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Laicos_Consagrados_del_Regnum_Christi]]
+- [[laicos_consagrados_del_regnum_christi]]
 - [[asamblea_general_regnum_christi]]
-- [[Regnum_Christi]]
+- [[regnum_christi]]
 
 
 ## Contenido

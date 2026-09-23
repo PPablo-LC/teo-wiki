@@ -39,10 +39,10 @@ La precipitación se manifiesta en quien obra por impulso, sin reflexionar sobre
 
 ## Relaciones doctrinales
 
-Se vincula con la [[imprudencia]], la [[inconsideración]], la [[inconstancia]], la [[virtud_de_la_prudencia]], la [[eubulia]], la [[lujuria]], la [[negligencia]] y la [[astucia]].
+Se vincula con la [[imprudencia]], la [[inconsideracion]], la [[inconstancia]], la [[virtud_de_la_prudencia]], la [[eubulia]], la [[lujuria]], la [[negligencia]] y la [[astucia]].
 
 ## Ver también
-[[imprudencia]], [[inconsideración]], [[inconstancia]], [[eubulia]]
+[[imprudencia]], [[inconsideracion]], [[inconstancia]], [[eubulia]]
 
 ## Referencias
 - [SmTh IIa-IIae q.53 a.3, a.6]

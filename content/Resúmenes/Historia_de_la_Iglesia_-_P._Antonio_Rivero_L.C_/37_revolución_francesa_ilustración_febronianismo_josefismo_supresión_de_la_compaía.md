@@ -12,7 +12,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c", "siglo_xviii
 
 ## Conceptos básicos referenciados
 
-- [[ilustración]] — Movimiento del «siglo de las luces» que quiso juzgar todas las cosas según la razón y no según la fe y la revelación.
+- [[ilustracion]] — Movimiento del «siglo de las luces» que quiso juzgar todas las cosas según la razón y no según la fe y la revelación.
 - [[deísmo]] — Concepción de una religión natural conforme a la razón que excluye toda revelación.
 - [[voltaire]] — Figura señera de la Ilustración francesa, enemigo acérrimo de la Iglesia católica y defensor del deísmo.
 - [[masonería]] — Sociedades secretas, nacidas en Inglaterra en 1717, que propagaron el deísmo y el librepensamiento.
@@ -24,7 +24,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c", "siglo_xviii
 
 ## INTRODUCCIÓN
 
-Es el siglo de las luces: escritores educados en el cristianismo, muchos con los jesuitas, se llamaron filósofos y quisieron juzgar todas las cosas por las «luces» de la razón y no de la fe, movimiento llamado [[ilustración]], una auténtica máquina anticristiana. El culto a la razón tiene su origen en la manera de pensar de Descartes y Newton. Figuras señeras: [[voltaire]], Montesquieu y Rousseau; el gran filósofo del siglo es Emmanuel Kant, con cuyas obras triunfó plenamente la razón. No obstante, a finales del siglo cundió el gusto por el esoterismo y Rousseau quiso devolver su lugar al sentimiento en una religión natural, preparando el romanticismo.
+Es el siglo de las luces: escritores educados en el cristianismo, muchos con los jesuitas, se llamaron filósofos y quisieron juzgar todas las cosas por las «luces» de la razón y no de la fe, movimiento llamado [[ilustracion]], una auténtica máquina anticristiana. El culto a la razón tiene su origen en la manera de pensar de Descartes y Newton. Figuras señeras: [[voltaire]], Montesquieu y Rousseau; el gran filósofo del siglo es Emmanuel Kant, con cuyas obras triunfó plenamente la razón. No obstante, a finales del siglo cundió el gusto por el esoterismo y Rousseau quiso devolver su lugar al sentimiento en una religión natural, preparando el romanticismo.
 
 ## I. SUCESOS
 

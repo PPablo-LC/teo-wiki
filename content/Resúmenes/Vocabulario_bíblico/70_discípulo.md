@@ -14,19 +14,19 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[ensenar]] — la enseñanza de los sabios y de los profetas
+- [[enseñar]] — la enseñanza de los sabios y de los profetas
 - [[palabra_de_dios]] — la palabra de Dios, fuente de toda sabiduría
-- [[sabiduria]] — la sabiduría divina personificada
+- [[sabiduría]] — la sabiduría divina personificada
 - [[escuchar]] — escuchar las lecciones de la sabiduría
 - [[ley]] — la ley, objeto primero de la enseñanza
-- [[tradicion]] — la tradición recibida de los maestros
-- [[mision]] — la misión de los discípulos enviados por Jesús
+- [[tradición]] — la tradición recibida de los maestros
+- [[misión]] — la misión de los discípulos enviados por Jesús
 - [[seguir]] — seguir a Jesús, adhesión a su persona
 - [[reposo]] — el reposo de las almas prometido por Jesús
 - [[profeta]] — los discípulos de los profetas
 - [[dios]] — ser discípulo de Dios mismo
-- [[jesus]] — los discípulos de Jesús
-- [[mesias]] — reconocer a Jesús por su maestro
+- [[jesús]] — los discípulos de Jesús
+- [[mesías]] — reconocer a Jesús por su maestro
 - [[cruz]] — el discípulo que lleva su cruz
 - [[reino_de_dios]] — recibir de Jesús el reino
 
@@ -38,21 +38,21 @@ El que se pone voluntariamente bajo la dirección de un maestro y comparte sus i
 
 ### Discípulos de los profetas y de los sabios.
 
-De tiempo en tiempo se indica que un Eliseo se une a Elías *1Re 19,19ss* o que un grupo de fervientes discípulos rodea a Isaías, recibiendo en depósito su testimonio y su revelación *Is 8,16*. Más habitualmente los sabios tienen discípulos, a los que llaman sus «hijos» *Prov 1,8.10* *2,1* *3,1* y a los que inculcan sus enseñanzas tradicionales. Pero ni los profetas ni los sabios hubieran osado suplantar con su [[ensenar|enseñanza]] la [[palabra_de_dios|palabra]] de Dios. En efecto, en ésta, y no en las tradiciones de maestro a discípulo, está fundada la alianza.
+De tiempo en tiempo se indica que un Eliseo se une a Elías *1Re 19,19ss* o que un grupo de fervientes discípulos rodea a Isaías, recibiendo en depósito su testimonio y su revelación *Is 8,16*. Más habitualmente los sabios tienen discípulos, a los que llaman sus «hijos» *Prov 1,8.10* *2,1* *3,1* y a los que inculcan sus enseñanzas tradicionales. Pero ni los profetas ni los sabios hubieran osado suplantar con su [[enseñar|enseñanza]] la [[palabra_de_dios|palabra]] de Dios. En efecto, en ésta, y no en las tradiciones de maestro a discípulo, está fundada la alianza.
 
 ### Discípulos de Dios.
 
-Puesto que la [[palabra_de_dios|palabra]] divina es la fuente de toda sabiduría, el ideal no es, por tanto, adherirse a un maestro humano, sino ser discípulo de Dios mismo. La [[sabiduria|sabiduría]] divina personificada llama así a los hombres a [[escuchar|escucharla]] y a seguir sus lecciones *Prov 1,20ss* *8,4ss.32s*. Finalmente, los oráculos escatológicos anuncian que en los últimos tiempos Dios mismo será el maestro de los corazones: no tendrán ya necesidad de maestros terrenales *Jer 31,31-34*, sino que todos serán «discípulos de Yahveh» *Is 54,13*. Al mismo siervo de Yahveh, si bien encargado de enseñar las prescripciones divinas *Is 42,1.4*, se le despiertan los oídos cada mañana y se le da una lengua de discípulo *Is 50,4*. El salmista, fiel a esta profecía, suplicará, pues, infatigablemente: «Señor, ¡enséñame!» *Sal 119,12.26s.33s* *25,4-9.*.
+Puesto que la [[palabra_de_dios|palabra]] divina es la fuente de toda sabiduría, el ideal no es, por tanto, adherirse a un maestro humano, sino ser discípulo de Dios mismo. La [[sabiduría|sabiduría]] divina personificada llama así a los hombres a [[escuchar|escucharla]] y a seguir sus lecciones *Prov 1,20ss* *8,4ss.32s*. Finalmente, los oráculos escatológicos anuncian que en los últimos tiempos Dios mismo será el maestro de los corazones: no tendrán ya necesidad de maestros terrenales *Jer 31,31-34*, sino que todos serán «discípulos de Yahveh» *Is 54,13*. Al mismo siervo de Yahveh, si bien encargado de enseñar las prescripciones divinas *Is 42,1.4*, se le despiertan los oídos cada mañana y se le da una lengua de discípulo *Is 50,4*. El salmista, fiel a esta profecía, suplicará, pues, infatigablemente: «Señor, ¡enséñame!» *Sal 119,12.26s.33s* *25,4-9.*.
 
 ### Maestros y discípulos en el judaísmo.
 
-Al retorno del exilio, habiendo venido a ser la [[ley]] objeto primero de la enseñanza, los maestros encargados de esta institución fundamental son llamados «doctores de la ley». Ahora bien, la autoridad de la palabra de Dios que comentan se añade poco a poco a su autoridad personal *Mt 23,2.16-22*, sobre todo cuando transmiten la [[tradicion|tradición]] que ellos mismos habían recibido de sus maestros. El judaísmo postbíblico se organizará sobre la base de este talmud («enseñanza»). En la época del NT recuerda Pablo que él mismo había sido discípulo de Gamaliel *Act 22,3*.
+Al retorno del exilio, habiendo venido a ser la [[ley]] objeto primero de la enseñanza, los maestros encargados de esta institución fundamental son llamados «doctores de la ley». Ahora bien, la autoridad de la palabra de Dios que comentan se añade poco a poco a su autoridad personal *Mt 23,2.16-22*, sobre todo cuando transmiten la [[tradición|tradición]] que ellos mismos habían recibido de sus maestros. El judaísmo postbíblico se organizará sobre la base de este talmud («enseñanza»). En la época del NT recuerda Pablo que él mismo había sido discípulo de Gamaliel *Act 22,3*.
 
 ### NT
 
 ### Discípulos de Jesús.
 
-Aparte algunas menciones de los discípulos de Moisés *Jn 9,28*, del Bautista (p.e., *Mc 2,18* *Jn 1,35* *Act 19,1ss*) o de los fariseos (p.e., *Mt 22,16*), el NT reserva el nombre de discípulo a los que reconocen a Jesús por su maestro. Así en los evangelios se designa en primer lugar a los doce *Mt 10,1* *12,1.* y, más allá de este círculo íntimo, al grupo que sigue a Jesús *Mt 8,21* y particularmente a los setenta y dos discípulos que envía Jesús en [[mision|misión]] *Lc 10,1*. Estos discípulos fueron sin duda numerosos *Lc 6,17* *19,37* *Jn 6,60*, pero muchos se retiraron *Jn 6,66*. Nadie puede pretender hacerse maestro: si debe «hacer discípulos» *Mt 28,19* *Act 14,21s*, no ha de ser por su cuenta, sino sólo para Cristo. Así, poco a poco, a partir del cap. 6 del libro de los Hechos, la denominación de «discípulo» sin más se refiere a todo creyente, haya o no conocido a Jesús durante su vida terrena *Act 6,1s* *9,10-26.*; los fieles son, pues, desde este punto de vista, asimilados a los mismos doce *Jn 2,11* *8,31* *20,29*.
+Aparte algunas menciones de los discípulos de Moisés *Jn 9,28*, del Bautista (p.e., *Mc 2,18* *Jn 1,35* *Act 19,1ss*) o de los fariseos (p.e., *Mt 22,16*), el NT reserva el nombre de discípulo a los que reconocen a Jesús por su maestro. Así en los evangelios se designa en primer lugar a los doce *Mt 10,1* *12,1.* y, más allá de este círculo íntimo, al grupo que sigue a Jesús *Mt 8,21* y particularmente a los setenta y dos discípulos que envía Jesús en [[misión|misión]] *Lc 10,1*. Estos discípulos fueron sin duda numerosos *Lc 6,17* *19,37* *Jn 6,60*, pero muchos se retiraron *Jn 6,66*. Nadie puede pretender hacerse maestro: si debe «hacer discípulos» *Mt 28,19* *Act 14,21s*, no ha de ser por su cuenta, sino sólo para Cristo. Así, poco a poco, a partir del cap. 6 del libro de los Hechos, la denominación de «discípulo» sin más se refiere a todo creyente, haya o no conocido a Jesús durante su vida terrena *Act 6,1s* *9,10-26.*; los fieles son, pues, desde este punto de vista, asimilados a los mismos doce *Jn 2,11* *8,31* *20,29*.
 
 Jesús, aunque aparentemente idéntico a los doctores judíos de su tiempo, tenía para con sus discípulos exigencias únicas.
 

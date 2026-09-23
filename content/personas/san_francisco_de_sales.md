@@ -35,6 +35,18 @@ Aparece en el Índice Onomástico con numerosas referencias. En la Introducción
 ## Ver también
 [[santa_teresa_de_jesús]], [[san_juan_de_la_cruz]], [[san_ignacio_de_loyola]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: «Reconquistar Ginebra era, para los
+católicos de entonces en Saboya, el argumento candente del día, y casi
+todos pensaban en una lucha armada. Francisco decidió, en cambio:
+"**derribar los muros con la caridad, invadirla con la caridad,
+reconquistarla con la caridad**"». Inventó el sistema de los carteles
+(le valdrá el título de patrono de los periodistas) y compuso la
+*Introducción a la vida devota* y el *Tratado del amor de Dios*, «para
+difundir e ilustrar la doctrina sobre la santidad posible a todo
+ Cristiano y en cualquier estado de vida».
+
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.20]
 - [TPCr, Introducción General n.32-33]

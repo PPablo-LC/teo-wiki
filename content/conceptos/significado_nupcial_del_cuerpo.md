@@ -46,11 +46,11 @@ La reinterpretación del Sermón de la Montaña sitúa la restauración del sign
 
 ## Relaciones doctrinales
 
-Se relaciona con [[teología_del_cuerpo]], [[significado_virginal]], [[donación_mutua]], [[comunión_de_personas]], [[pertenencia]], [[concupiscencia_de_la_carne]], [[adulterio_en_el_corazón]], [[pureza_del_corazón]], [[imagen_de_dios]], [[matrimonio]], [[resurrección_de_la_carne]] y [[juan_pablo_ii]].
+Se relaciona con [[teología_del_cuerpo]], [[significado_virginal]], [[donacion_mutua]], [[comunión_de_personas]], [[pertenencia]], [[concupiscencia_de_la_carne]], [[adulterio_en_el_corazón]], [[pureza_del_corazon]], [[imagen_de_dios]], [[matrimonio]], [[resurrección_de_la_carne]] y [[juan_pablo_ii]].
 
 ## Ver también
 
-[[teología_del_cuerpo]], [[donación_mutua]], [[pureza_del_corazón]]
+[[teología_del_cuerpo]], [[donacion_mutua]], [[pureza_del_corazon]]
 
 ## Referencias
 

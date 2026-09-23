@@ -23,7 +23,7 @@ tags: ["resumen", "evangelii gaudium"]
 
 **25.** Lo expresado aquí tiene sentido programático: todas las comunidades deben poner los medios para avanzar en la [[conversión_misionera|conversión pastoral y misionera]], que no puede dejar las cosas como están. Ya no sirve una «simple administración» (Aparecida, 201): hay que constituirse en «estado permanente de misión».
 
-**26.** Pablo VI (*Ecclesiam suam*) invitó a ampliar la renovación a la Iglesia entera, comparando la imagen ideal que Cristo quiso con el rostro real actual. El [[Concilio Vaticano II]] presentó la conversión eclesial como apertura a una perenne reforma por fidelidad a Jesucristo (*Unitatis redintegratio*, 6). Las estructuras sirven cuando hay vida que las anima: sin vida nueva y auténtico espíritu evangélico, cualquier estructura nueva se corrompe en poco tiempo.
+**26.** Pablo VI (*Ecclesiam suam*) invitó a ampliar la renovación a la Iglesia entera, comparando la imagen ideal que Cristo quiso con el rostro real actual. El [[concilio_vaticano_ii]] presentó la conversión eclesial como apertura a una perenne reforma por fidelidad a Jesucristo (*Unitatis redintegratio*, 6). Las estructuras sirven cuando hay vida que las anima: sin vida nueva y auténtico espíritu evangélico, cualquier estructura nueva se corrompe en poco tiempo.
 
 ### **Una impostergable renovación eclesial**
 

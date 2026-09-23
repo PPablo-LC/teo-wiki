@@ -16,24 +16,24 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[naciones]] — Pablo como apóstol de las naciones paganas
 - [[profeta]] — los profetas con misiones del mismo orden que el apostolado
-- [[mision]] — la misión apostólica como representación del resucitado
+- [[misión]] — la misión apostólica como representación del resucitado
 - [[testimonio]] — los apóstoles como testigos de Cristo resucitado
 - [[israel]] — los doce como fundamentos del nuevo Israel
-- [[numeros]] — el número 12 del colegio apostólico como símbolo
+- [[números]] — el número 12 del colegio apostólico como símbolo
 - [[autoridad]] — la autoridad apostólica en doctrina, ministerio y jurisdicción
 - [[evangelio]] — la predicación del Evangelio como tarea apostólica
-- [[imposicion_de_manos]] — Pablo ordena a Timoteo imponiéndole las manos
-- [[comunion]] — mantener la comunión como fin de la jurisdicción apostólica
-- [[pastor_y_rebano]] — el apóstol como pastor que sirve a los fieles
+- [[imposición_de_manos]] — Pablo ordena a Timoteo imponiéndole las manos
+- [[comunión]] — mantener la comunión como fin de la jurisdicción apostólica
+- [[pastor_y_rebaño]] — el apóstol como pastor que sirve a los fieles
 - [[ejemplo]] — el apóstol como modelo de fe
 - [[carisma]] — el carisma del apostolado y la inteligencia espiritual
 - [[conocer]] — el conocimiento particular del misterio de Cristo
 - [[misterio]] — «Cristo entre las naciones» como misterio de Pablo
 - [[pedro]] — Pedro como jefe de los doce
-- [[discipulo]] — el apostolado como cosa de todo discípulo de Cristo
+- [[discípulo]] — el apostolado como cosa de todo discípulo de Cristo
 - [[vocación]] — la vocación particular de Pablo como apóstol
 - [[gloria]] — el ministerio de la gloria escatológica
-- [[Eclesiologia]] — la Iglesia como «apóstólica»
+- [[eclesiología]] — la Iglesia como «apóstólica»
 
 ## Contenido
 

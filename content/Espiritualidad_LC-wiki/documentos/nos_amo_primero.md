@@ -62,7 +62,7 @@ La antología LC-2015 cita este libro como fuente complementaria, integrando sus
 
 - **Autor**: [[alvaro_corcuera]]
 - **Obra madre**: [[el_amor_es_mas_fuerte]]
-- **Conceptos**: [[benedicencia]], [[consolación]], [[nueva_evangelización]], [[corrección_fraterna]], [[obras_de_misericordia]], [[celo_apostólico]]
+- **Conceptos**: [[benedicencia]], [[consolación]], [[nueva_evangelización]], [[corrección_fraterna]], [[obras_de_misericordia]], [[celo_apostolico]]
 
 ## Ver también
 

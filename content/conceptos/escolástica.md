@@ -56,7 +56,7 @@ Se relaciona con la [[moral_escolástica]], la [[filosofía_cristiana]], la [[te
 
 ## Ver también
 
-[[moral_escolástica]], [[filosofía_cristiana]], [[san_tomás_de_aquino]], [[san_buenaventura]], [[san_alberto_magno]]
+[[moral_escolástica]], [[filosofía_cristiana]], [[santo_tomás_de_aquino]], [[san_buenaventura]], [[san_alberto_magno]]
 
 ## Referencias
 

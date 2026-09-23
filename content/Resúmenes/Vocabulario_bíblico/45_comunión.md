@@ -19,21 +19,21 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[alianza]] — la alianza como forma real de vida común
 - [[ley]] — la ley, carta de la alianza
 - [[amor]] — amar a Dios y buscarle
-- [[oracion]] — la oración como encuentro íntimo con Dios
-- [[bendicion]] — la bendición ante las maravillas divinas
+- [[oración]] — la oración como encuentro íntimo con Dios
+- [[bendición]] — la bendición ante las maravillas divinas
 - [[alabanza]] — la alabanza
-- [[accion_de_gracias]] — la acción de gracias
+- [[acción_de_gracias]] — la acción de gracias
 - [[muerte]] — el encuentro que ni la muerte pueda romper
 - [[hermano]] — el compatriota como hermano
 - [[mediador]] — Jesucristo como único mediador
-- [[mesias]] — el Mesías que forma cuerpo con su pueblo
+- [[mesías]] — el Mesías que forma cuerpo con su pueblo
 - [[rey]] — el rey que forma cuerpo con su pueblo
 - [[unidad]] — la unidad de los corazones
 - [[fe]] — la adhesión a Cristo por la fe
 - [[bautismo]] — la adhesión a Cristo por el bautismo
 - [[misterio]] — la participación en los misterios de Cristo
-- [[eucaristia]] — la participación en el cuerpo eucarístico
-- [[espiritu]] — la acción del Espíritu Santo
+- [[eucaristía]] — la participación en el cuerpo eucarístico
+- [[espíritu]] — la acción del Espíritu Santo
 - [[padres_y_padre]] — la comunión con el Padre
 - [[pan]] — el pan eucarístico como alimento de la comunión permanente
 - [[gustar]] — gustar anticipadamente el gozo eterno

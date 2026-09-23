@@ -52,7 +52,7 @@ Los resúmenes estructurados están en `wiki/Resúmenes/denzinger_capitulos/` (1
 
 ## Ver también
 
-[[magisterio]], [[simbolo_apostolico]], [[concilio_de_trento]], [[concilio_vaticano_i]], [[concilio_vaticano_ii]], [[dogmas]], [[definiciones_dogmáticas]], [[magisterio_ordinario_y_universal]], [[credos]], [[profesión_de_fe]]
+[[magisterio]], [[símbolo_apostólico]], [[concilio_de_trento]], [[concilio_vaticano_i]], [[concilio_vaticano_ii]], [[dogmas]], [[definiciones_dogmáticas]], [[magisterio_ordinario_y_universal]], [[credos]], [[profesión_de_fe]]
 
 ## Referencias
 

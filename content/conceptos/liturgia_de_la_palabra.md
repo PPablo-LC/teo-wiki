@@ -45,7 +45,7 @@ Las lecturas de la Sagrada Escritura deben proclamarse desde el ambón, que tien
 
 ## Relaciones doctrinales
 
-Se relaciona con [[misa]], [[liturgia_eucarística]], [[homilía]], [[salmo_responsorial]], [[evangelio]], [[lecturas_bíblicas]], [[oración_universal]].
+Se relaciona con [[misa]], [[liturgia_eucarística]], [[homilía]], [[salmo_responsorial]], [[evangelio]], [[lecturas_bíblicas]], [[oracion_universal]].
 
 ## Referencias
 

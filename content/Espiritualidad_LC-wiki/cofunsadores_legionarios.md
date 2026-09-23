@@ -70,7 +70,7 @@ Los **cofundadores de la Legión de Cristo** son la primera generación de legio
 - [[historia_de_la_legión]]
 - [[fidelidad]]
 - [[humildad]]
-- [[celo_apostólico]]
+- [[celo_apostolico]]
 - [[dirección_espiritual]]
 - [[carisma_legionario]]
 

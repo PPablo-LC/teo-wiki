@@ -12,16 +12,16 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Regnum_Christi]]
-- [[Federación_Regnum_Christi]]
-- [[Legionarios_de_Cristo]]
-- [[Consagradas_del_Regnum_Christi]]
-- [[Laicos_Consagrados_del_Regnum_Christi]]
-- [[Vida_consagrada]]
-- [[Sociedad_de_Vida_Apostólica]]
-- [[Clericalismo]]
+- [[regnum_christi]]
+- [[federación_regnum_christi]]
+- [[legionarios_de_cristo]]
+- [[consagradas_del_regnum_christi]]
+- [[laicos_consagrados_del_regnum_christi]]
+- [[vida_consagrada]]
+- [[sociedad_de_vida_apostólica]]
+- [[clericalismo]]
 - [[Desolación]]
-- [[Discernimiento]]
+- [[discernimiento]]
 
 
 ## Contenido
@@ -32,7 +32,7 @@ Intervención del P. Gianfranco Ghirlanda, S.J., asistente pontificio, pronuncia
 
 **1. Conclusiones del camino recorrido**: Ghirlanda recuerda que el proceso ha durado al menos seis años y ha servido para aclarar el carisma de los legionarios, las consagradas, los consagrados y los laicos. Subraya que la vida misma irá aclarando lo incierto y que la estrecha colaboración entre las ramas ya existe. Recomienda la oración ante la desolación, citando san Ignacio de Loyola (*Ejercicios Espirituales* nn. 317-326), y la conversación con el confesor para superar visiones parciales.
 
-**2. Relación entre las ramas del Regnum Christi**: La Santa Sede no consiente una relación parecida a la de los *Estatutos* del 2004. La Legión no puede olvidar que las consagradas y consagrados contribuyeron a desarrollar sus obras, y ellos a su vez deben reconocer que sin la Legión no habrían existido. Se configuran tres formas de vida canónicamente reconocidas: un [[Instituto_Religioso]] clerical y dos [[Sociedad_de_Vida_Apostólica]], unidos en una [[Federación_Regnum_Christi]]. La Legión tiene una función histórica de testimonio, no de poder, en relación con las demás ramas. Ghirlanda advierte contra el [[Clericalismo]], citando a san Agustín y al papa Francisco. Las consagradas y consagrados testimonian que la [[consagración_a_Dios]] tiene valor en sí misma independiente del sacerdocio; los laicos testimonian la dimensión secular de la Iglesia.
+**2. Relación entre las ramas del Regnum Christi**: La Santa Sede no consiente una relación parecida a la de los *Estatutos* del 2004. La Legión no puede olvidar que las consagradas y consagrados contribuyeron a desarrollar sus obras, y ellos a su vez deben reconocer que sin la Legión no habrían existido. Se configuran tres formas de vida canónicamente reconocidas: un [[instituto_religioso]] clerical y dos [[sociedad_de_vida_apostólica]], unidos en una [[federación_regnum_christi]]. La Legión tiene una función histórica de testimonio, no de poder, en relación con las demás ramas. Ghirlanda advierte contra el [[clericalismo]], citando a san Agustín y al papa Francisco. Las consagradas y consagrados testimonian que la [[consagración_a_Dios]] tiene valor en sí misma independiente del sacerdocio; los laicos testimonian la dimensión secular de la Iglesia.
 
 **3. Voto indicativo de la primera fase**: Las votaciones indicativas de abril no pueden ser reabiertas en lo fundamental. La segunda fase se funda sobre la primera, que forma parte de una única Asamblea.
 

@@ -16,6 +16,6 @@ La IGMR recomienda que se cante el Salmo Responsorial (§61). Si no se canta, ha
 ## Ver también
 - [[liturgia_de_la_palabra]]
 - [[leccionario]]
-- [[música_litúrgica]]
+- [[musica_liturgica]]
 ## Referencias
 - IGMR (2000), §61

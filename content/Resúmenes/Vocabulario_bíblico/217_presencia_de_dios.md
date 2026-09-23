@@ -16,7 +16,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[nombre]] — el nombre revelado
 - [[poder]] — la presencia omnipotente
-- [[pastor_y_rebano]] — Dios como pastor
+- [[pastor_y_rebaño]] — Dios como pastor
 - [[rey]] — Dios como rey
 - [[esposo]] — Dios como esposo
 - [[redención]] — Dios como redentor
@@ -40,7 +40,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[pecado]] — la conciencia del pecado
 - [[corazón]] — el corazón cambiado
 - [[ley]] — la ley puesta en el corazón
-- [[Espíritu]] — el Espíritu puesto en el corazón
+- [[espíritu]] — el Espíritu puesto en el corazón
 - [[pueblo]] — el pueblo santificado
 - [[don]] — el don de la presencia
 - [[cuerpo]] — el cuerpo templo
@@ -62,7 +62,7 @@ Dios quiere estar presente al hombre; si por el pecado huye éste su presencia, 
 
 Dios se manifiesta a los padres con quienes hace alianza *Gen 17,7* *26,24* *28,15* y a Moisés que tiene la misión de liberar a su pueblo *Ex 3,12*. A este pueblo revela su [[nombre]] y el sentido de este nombre; se denomina Yahveh y se define así: «Yo soy el que soy», es decir, el eterno, el inmutable y el fiel; o también: «Yo soy el que es», que está siempre, en todas partes, marchando con su pueblo *3,13ss* *33,16*. La promesa de esta presencia omnipotente (*[[poder]]*) hecha en la alianza *34,9s* se renueva a Josué y los jueces *Jos 1,5* *Jue 6,16*, los reyes y los profetas *2Sa 7,9* *Jer 1,8.19*. Igualmente significativo es el nombre Emmanuel, «Dios con nosotros» *Is 7,14* *Sal 46,8*.
 
-Incluso cuando debe castigar a su pueblo con el exilio, Dios no le abandona; sigue siendo su [[pastor_y_rebano|pastor]] *Ez 34,15s* *Is 40,10s*, su [[rey]] *Is 52,7*, su [[esposo]] y su [[redención|redentor]] *Is 54,5s*; anuncia que va a salvarlo gratuitamente por fidelidad a sus [[promesas]] *Is 52,3.6*, que su [[gloria]] regresará a la ciudad santa cuyo nombre será «Yahveh está aquí» *Ez 48,35*, que manifestará su presencia a todas las [[naciones]] *Is 45,14s* y las reunirá en Jerusalén a su luz *Is 60*; el último día estará presente como [[juicio|juez]] y rey universal *Mal 3,1* *Zac 14,5.9*.
+Incluso cuando debe castigar a su pueblo con el exilio, Dios no le abandona; sigue siendo su [[pastor_y_rebaño|pastor]] *Ez 34,15s* *Is 40,10s*, su [[rey]] *Is 52,7*, su [[esposo]] y su [[redención|redentor]] *Is 54,5s*; anuncia que va a salvarlo gratuitamente por fidelidad a sus [[promesas]] *Is 52,3.6*, que su [[gloria]] regresará a la ciudad santa cuyo nombre será «Yahveh está aquí» *Ez 48,35*, que manifestará su presencia a todas las [[naciones]] *Is 45,14s* y las reunirá en Jerusalén a su luz *Is 60*; el último día estará presente como [[juicio|juez]] y rey universal *Mal 3,1* *Zac 14,5.9*.
 
 ### II. Los signos de la presencia de Dios
 
@@ -82,7 +82,7 @@ Por el contrario, Dios está cerca de los que caminan con él como los patriarca
 
 #### El don de Dios
 
-En presencia del Dios [[santo]] el hombre adquiere conciencia de su [[pecado]] *Is 6,1-5*, de una corrupción que sólo Dios puede curar *Jer 17,1.14*. ¡Venga, pues, Dios a cambiar el [[corazón]] del hombre, ponga en él su [[ley]] y su [[Espíritu]] *Jer 31,33* *Ez 36,26ss*! Los profetas anuncian esta renovación, fruto de una nueva alianza que hará del [[pueblo]] santificado la habitación de Dios *Ez 37,26ss*. También los sabios anuncian que Dios enviará a los hombres su sabiduría y su Espíritu Santo *Prov 8,31* *Sab 9,17ss*.
+En presencia del Dios [[santo]] el hombre adquiere conciencia de su [[pecado]] *Is 6,1-5*, de una corrupción que sólo Dios puede curar *Jer 17,1.14*. ¡Venga, pues, Dios a cambiar el [[corazón]] del hombre, ponga en él su [[ley]] y su [[espíritu]] *Jer 31,33* *Ez 36,26ss*! Los profetas anuncian esta renovación, fruto de una nueva alianza que hará del [[pueblo]] santificado la habitación de Dios *Ez 37,26ss*. También los sabios anuncian que Dios enviará a los hombres su sabiduría y su Espíritu Santo *Prov 8,31* *Sab 9,17ss*.
 
 ## NT
 

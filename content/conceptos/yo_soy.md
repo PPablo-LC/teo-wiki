@@ -70,7 +70,7 @@ Benedicto XVI dedica la última parte del capítulo 7 de *Jesús de Nazaret I* a
 
 ## Relaciones doctrinales
 
-Se relaciona con [[verdadero_dios_y_verdadero_hombre]], [[divinidad_de_cristo]], [[preexistencia_del_verbo]], [[hijo_de_dios]], [[nombre_de_dios]], [[exodo]], [[cristología_joánica]].
+Se relaciona con [[verdadero_dios_y_verdadero_hombre]], [[divinidad_de_cristo]], [[preexistencia_del_verbo]], [[hijo_de_dios]], [[nombre_de_dios]], [[éxodo]], [[cristología_joánica]].
 
 ## Ver también
 

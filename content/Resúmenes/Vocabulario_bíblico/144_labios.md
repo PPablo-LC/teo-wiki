@@ -16,20 +16,20 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[palabra]] — los labios como órgano de la palabra
 - [[lengua]] — la lengua, compañera de los labios
-- [[corazon]] — el corazón que se expresa por los labios
+- [[corazón]] — el corazón que se expresa por los labios
 - [[justicia]] — los labios justos
 - [[mentira]] — la mentira de los labios
 - [[falso_testimonio]] — el testimonio falso
 - [[juramento]] — la santidad del juramento
 - [[culto]] — la ofrenda de los labios
 - [[alabanza]] — la alabanza de Dios
-- [[oracion]] — la oración de los labios
+- [[oración]] — la oración de los labios
 - [[impureza]] — la impureza de los labios
 - [[pecado]] — el pecado de los labios
-- [[purificacion]] — la purificación de los labios
+- [[purificación]] — la purificación de los labios
 - [[santidad]] — el labio santo
 - [[caridad]] — el amor fraterno en la palabra
-- [[martir]] — la confesión hasta la muerte
+- [[mártir]] — la confesión hasta la muerte
 
 ## Contenido
 
@@ -43,7 +43,7 @@ El sabio de Israel recomienda custodiar los labios: la [[lengua]] y los labios s
 
 ## Los labios en el culto
 
-En el culto, los labios tienen una función privilegiada: son el órgano de la [[alabanza]], de la bendición y de la [[oracion|oración]]. "El fruto de los labios" es la ofrenda que el hombre presenta a Dios: la confesión de su nombre, la acción de gracias, la súplica. El salmista invita a todos a alabar a Dios con labios puros: "Señor, abre mis labios y mi boca pregonará tu alabanza" *Sal 51,17*.
+En el culto, los labios tienen una función privilegiada: son el órgano de la [[alabanza]], de la bendición y de la [[oración|oración]]. "El fruto de los labios" es la ofrenda que el hombre presenta a Dios: la confesión de su nombre, la acción de gracias, la súplica. El salmista invita a todos a alabar a Dios con labios puros: "Señor, abre mis labios y mi boca pregonará tu alabanza" *Sal 51,17*.
 
 Esta alabanza de los labios es inseparable de la rectitud del corazón. Dios no se contenta con una alabanza exterior: la alabanza de labios que no viene del corazón es vana *Is 29,13* *Mt 15,8*. El culto verdadero une la confesión de los labios y la fe del corazón *Rom 10,9s*.
 
@@ -61,7 +61,7 @@ La purificación de los labios es también la exigencia de la santidad: "el labi
 
 ## Los labios y la confesión
 
-En la fe cristiana, los labios sirven para la confesión de la fe: "con la boca se confiesa a Jesús para salvación" *Rom 10,10*. La palabra de los labios testimonia la fe del corazón. La confesión de Cristo con los labios puede llegar hasta el [[martir|martirio]]: los testigos de Jesús dan testimonio con su palabra y con su sangre.
+En la fe cristiana, los labios sirven para la confesión de la fe: "con la boca se confiesa a Jesús para salvación" *Rom 10,10*. La palabra de los labios testimonia la fe del corazón. La confesión de Cristo con los labios puede llegar hasta el [[mártir|martirio]]: los testigos de Jesús dan testimonio con su palabra y con su sangre.
 
 Los labios del justo proclaman la justicia de Dios; los labios del cristiano son el instrumento de la alabanza a Dios y de la edificación del prójimo. La palabra cristiana debe ser enseñanza y consuelo: "ninguna palabra mala salga de vuestra boca, sino la que sea buena para edificación" *Ef 4,29*.
 

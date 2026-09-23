@@ -57,15 +57,15 @@ El Doctor de la verdad católica tiene por misión no sólo ampliar y profundiza
 #### Dios uno
 
 - **Q.2 — Existencia de Dios** (3 a.): La existencia de [[dios]] no es evidente por sí misma al hombre, pero puede demostrarse por cinco vías (movimiento, causalidad eficiente, contingencia, grados de perfección, gobierno final).
-- **Q.3 — Simplicidad de Dios** (8 a.): [[Dios]] es absolutamente [[simplicidad_divina|simple]], sin composición de partes; en Él se identifican esencia y existencia, potencia y acto, género y diferencia.
-- **Q.4 — Perfección de Dios** (3 a.): [[Dios]] posee toda perfección; las perfecciones en las criaturas se encuentran en Él unitariamente.
+- **Q.3 — Simplicidad de Dios** (8 a.): [[dios]] es absolutamente [[simplicidad_divina|simple]], sin composición de partes; en Él se identifican esencia y existencia, potencia y acto, género y diferencia.
+- **Q.4 — Perfección de Dios** (3 a.): [[dios]] posee toda perfección; las perfecciones en las criaturas se encuentran en Él unitariamente.
 - **Q.5 — Bien en general** (6 a.): El [[bien]] es lo que todas las cosas apetecen; es trascendental y se identifica con el ser.
-- **Q.6 — Bondad de Dios** (4 a.): [[Dios]] es [[bondad_divina|sumamente bueno]]; su bondad no es por participación sino por esencia.
-- **Q.7 — Infinitud de Dios** (4 a.): [[Dios]] es [[infinitud_de_dios|infinito]] en perfección; su infinitud se distingue de la materia informe.
-- **Q.8 — Omnipresencia de Dios** (4 a.): [[Dios]] está [[omnipresencia|en todas partes]] por su poder, conocimiento y presencia.
-- **Q.9 — Inmutabilidad de Dios** (2 a.): [[Dios]] es absolutamente [[inmutabilidad_divina|inmutable]]; el cambio presupone potencia, que Él no tiene.
+- **Q.6 — Bondad de Dios** (4 a.): [[dios]] es [[bondad_divina|sumamente bueno]]; su bondad no es por participación sino por esencia.
+- **Q.7 — Infinitud de Dios** (4 a.): [[dios]] es [[infinitud_de_dios|infinito]] en perfección; su infinitud se distingue de la materia informe.
+- **Q.8 — Omnipresencia de Dios** (4 a.): [[dios]] está [[omnipresencia|en todas partes]] por su poder, conocimiento y presencia.
+- **Q.9 — Inmutabilidad de Dios** (2 a.): [[dios]] es absolutamente [[inmutabilidad_divina|inmutable]]; el cambio presupone potencia, que Él no tiene.
 - **Q.10 — Eternidad de Dios** (6 a.): La [[eternidad_divina|eternidad]] de [[dios]] es posesión simultánea de vida interminable; se distingue de la sempiternidad y del tiempo.
-- **Q.11 — Unidad de Dios** (4 a.): [[Dios]] es absolutamente [[unidad_de_dios|uno]], sin división de partes ni de personas en cuanto a la esencia.
+- **Q.11 — Unidad de Dios** (4 a.): [[dios]] es absolutamente [[unidad_de_dios|uno]], sin división de partes ni de personas en cuanto a la esencia.
 - **Q.12 — Cómo conocemos a Dios** (13 a.): Conocemos a [[dios]] por sus efectos, no por su esencia; más conocemos lo que no es que lo que es.
 - **Q.13 — Los nombres de Dios** (12 a.): Los [[nombres_de_dios]] se atribuyen a Él de modo analógico, no unívoco ni equívoco; los nombres sustantivos indican unidad, los adjetivos multiplicidad.
 - **Q.14 — Ciencia de Dios** (16 a.): La [[omnisciencia]] de [[dios]] es causa de las cosas; conoce todo en su esencia; ve lo singular, los futuros contingentes, el mal, lo inexistente; su ciencia es inmutable, especulativa y práctica.
@@ -127,7 +127,7 @@ El Doctor de la verdad católica tiene por misión no sólo ampliar y profundiza
 
 ### El cosmos
 
-- **Q.103–114 — Gobierno divino**: [[Dios]] gobierna el mundo directamente por su providencia y ejecuta mediante [[ángeles]]; los ángeles custodios protegen a los hombres; los demonios tientan.
+- **Q.103–114 — Gobierno divino**: [[dios]] gobierna el mundo directamente por su providencia y ejecuta mediante [[ángeles]]; los ángeles custodios protegen a los hombres; los demonios tientan.
 - **Q.115–119 — Acción de la criatura y propagación**: La criatura corporal actúa; el [[tiempo]] fue creado simultáneamente con la materia; la propagación humana propaga el alma por creación divina.
 
 ## Secciones incluidas

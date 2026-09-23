@@ -15,25 +15,25 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[piedad]] — lo contrario de la impiedad
-- [[adan]] — Adán despreció el mandamiento
+- [[adán]] — Adán despreció el mandamiento
 - [[babel]] — la soberbia Babilonia
 - [[locura]] — los impíos y los locos
 - [[pobres]] — los impíos se encarnizan contra los justos y los pobres
 - [[justicia]] — la justicia de Dios
 - [[venganza]] — la venganza anticipada
-- [[retribucion]] — la retribución de los impíos
-- [[mesias]] — el rey mesías hará perecer a los impíos
+- [[retribución]] — la retribución de los impíos
+- [[mesías]] — el rey mesías hará perecer a los impíos
 - [[juicio]] — el juicio de Dios
-- [[resurreccion]] — no hay resurrección para los impíos
+- [[resurrección]] — no hay resurrección para los impíos
 - [[castigos]] — el castigo final
 - [[muerte]] — el castigo más allá de la muerte
 - [[fariseos]] — la concepción farisaica de la piedad
-- [[tradicion]] — las tradiciones legales
+- [[tradición]] — las tradiciones legales
 - [[pecado]] — todo hombre es pecador
 - [[evangelio]] — el evangelio da a los pecadores la posibilidad de penitencia
 - [[penitencia_y_conversión]] — la penitencia
 - [[sacrificio]] — Cristo murió por la mano de los impíos
-- [[justificacion]] — los justos del NT, impíos justificados por gracia
+- [[justificación]] — los justos del NT, impíos justificados por gracia
 - [[gracia]] — la gracia
 - [[anticristo]] — los falsos doctores, anticristos
 - [[ira]] — la ira de Dios sobre los impíos
@@ -42,7 +42,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-Con un vocabulario variado, tanto en hebreo como en griego, describe la Biblia una actitud espiritual que es lo contrario de la [[piedad|piedad]]: al desprecio de Dios y de su ley añade un matiz de hostilidad y de baladronada. Pablo anuncia la venida del «hombre de impiedad» por excelencia, que en los últimos tiempos se elevará por encima de todo y «se presentará a sí mismo como Dios» *2Tes 2,3s.8*; añade que «el misterio de la impiedad está ya en acción» en el mundo *2,7*. En realidad está en acción desde el principio de la historia, desde que [[adan|Adán]] despreció el mandamiento de Dios *Gen 3,5.22*.
+Con un vocabulario variado, tanto en hebreo como en griego, describe la Biblia una actitud espiritual que es lo contrario de la [[piedad|piedad]]: al desprecio de Dios y de su ley añade un matiz de hostilidad y de baladronada. Pablo anuncia la venida del «hombre de impiedad» por excelencia, que en los últimos tiempos se elevará por encima de todo y «se presentará a sí mismo como Dios» *2Tes 2,3s.8*; añade que «el misterio de la impiedad está ya en acción» en el mundo *2,7*. En realidad está en acción desde el principio de la historia, desde que [[adán|Adán]] despreció el mandamiento de Dios *Gen 3,5.22*.
 
 ## AT
 
@@ -56,17 +56,17 @@ En la literatura sapiencial aparece el género humano dividido en dos categoría
 
 ### La retribución de los impíos.
 
-Los fieles de la alianza saben bien que los impíos van a la ruina *Sal 1,4ss* *34,22* *37,9s.12-17.20*. Pero esta tranquila afirmación de la [[retribucion|retribución]], que todavía se representan en una perspectiva temporal, tropieza con hechos escandalosos. Hay impíos que prosperan *Jer 12,1s* *Job 21,7-16* *Sal 73,2-12*, como si no existiera la sanción divina *Ecl 7,15* *8,10-14*. La escatología profética asegura, sí, que en los últimos tiempos el rey [[mesias|mesías]] hará que perezcan los impíos *Is 11,4* *Sal 72,3*, y que Dios los exterminará cuando llegue su [[juicio|juicio]] *Is 24,1-13* *25,1s*. Pero la cuestión debe liquidarse para todos en el plano individual, y hay que esperar una fecha tardía para que ésta se esclarezca. En la época de los Macabeos se sabe por fin que todos los impíos comparecerán personalmente ante el tribunal de Dios *2Mac 7,34s* y que no habrá para ellos [[resurreccion|resurrección]] a la vida *2Mac 7,14* *Dan 2,2*. Así el libro de la Sabiduría puede trazar el cuadro de su [[castigos|castigo]] final, más allá de la [[muerte|muerte]] *Sab 3,10ss* *4,3-6* *5,7-14*. Este testimonio solemne es fuente de una reflexión salvadora. En efecto, Dios no quiere la muerte del impío, sino que se convierta y viva *Ez 33,11* *18,20-27 y 33,8-19*. Una perspectiva misericordiosa semejante se va a descubrir en el NT.
+Los fieles de la alianza saben bien que los impíos van a la ruina *Sal 1,4ss* *34,22* *37,9s.12-17.20*. Pero esta tranquila afirmación de la [[retribución|retribución]], que todavía se representan en una perspectiva temporal, tropieza con hechos escandalosos. Hay impíos que prosperan *Jer 12,1s* *Job 21,7-16* *Sal 73,2-12*, como si no existiera la sanción divina *Ecl 7,15* *8,10-14*. La escatología profética asegura, sí, que en los últimos tiempos el rey [[mesías|mesías]] hará que perezcan los impíos *Is 11,4* *Sal 72,3*, y que Dios los exterminará cuando llegue su [[juicio|juicio]] *Is 24,1-13* *25,1s*. Pero la cuestión debe liquidarse para todos en el plano individual, y hay que esperar una fecha tardía para que ésta se esclarezca. En la época de los Macabeos se sabe por fin que todos los impíos comparecerán personalmente ante el tribunal de Dios *2Mac 7,34s* y que no habrá para ellos [[resurrección|resurrección]] a la vida *2Mac 7,14* *Dan 2,2*. Así el libro de la Sabiduría puede trazar el cuadro de su [[castigos|castigo]] final, más allá de la [[muerte|muerte]] *Sab 3,10ss* *4,3-6* *5,7-14*. Este testimonio solemne es fuente de una reflexión salvadora. En efecto, Dios no quiere la muerte del impío, sino que se convierta y viva *Ez 33,11* *18,20-27 y 33,8-19*. Una perspectiva misericordiosa semejante se va a descubrir en el NT.
 
 ## NT
 
 ### La verdadera impiedad.
 
-En el vocabulario griego del NT se designa en forma aún más precisa la actitud espiritual estigmatizada por el AT: es la impiedad (*asebeia*), la injusticia (*adikía*), el repudio de la ley (*anomía*). Sin embargo, a través de las discusiones de Jesús con los fariseos no se tarda en ver enfrentarse dos concepciones de este desprecio de Dios. Para los [[fariseos|fariseos]], la piedra de toque de la [[piedad|piedad]] es la práctica de las prescripciones legales y de las [[tradicion|tradiciones]] que las rodean; la ignorancia en esta materia es ya impiedad *Jn 7,49*; así pues, Jesús obra mal comiendo con los pecadores *Mt 9,11 p*, siendo su amigo *Mt 11,19 p*, hospedándose en su casa *Lc 19,7*. Pero Jesús sabe muy bien que todo hombre es [[pecado|pecador]] y que nadie puede llamarse a sí mismo piadoso y justo; el [[evangelio|evangelio]] que él aporta da precisamente a los pecadores una posibilidad de [[penitencia_y_conversión|penitencia]] y de salvación *Lc 5,32*. La piedra de toque de la verdadera piedad será, pues, la actitud adoptada frente a este evangelio.
+En el vocabulario griego del NT se designa en forma aún más precisa la actitud espiritual estigmatizada por el AT: es la impiedad (*asebeia*), la injusticia (*adikía*), el repudio de la ley (*anomía*). Sin embargo, a través de las discusiones de Jesús con los fariseos no se tarda en ver enfrentarse dos concepciones de este desprecio de Dios. Para los [[fariseos|fariseos]], la piedra de toque de la [[piedad|piedad]] es la práctica de las prescripciones legales y de las [[tradición|tradiciones]] que las rodean; la ignorancia en esta materia es ya impiedad *Jn 7,49*; así pues, Jesús obra mal comiendo con los pecadores *Mt 9,11 p*, siendo su amigo *Mt 11,19 p*, hospedándose en su casa *Lc 19,7*. Pero Jesús sabe muy bien que todo hombre es [[pecado|pecador]] y que nadie puede llamarse a sí mismo piadoso y justo; el [[evangelio|evangelio]] que él aporta da precisamente a los pecadores una posibilidad de [[penitencia_y_conversión|penitencia]] y de salvación *Lc 5,32*. La piedra de toque de la verdadera piedad será, pues, la actitud adoptada frente a este evangelio.
 
 ### El llamamiento de los impíos a la salvación.
 
-El problema es exactamente el mismo desde que Cristo consumó su [[sacrificio|sacrificio]] muriendo «por la mano de los impíos» *Act 2,23*. Murió, «justo por los injustos» *1Pe 3,18*, aun cuando quiso «ser computado entre los malhechores» *Mc 15,28 p*. Murió por los impíos *Rom 5,6* a fin de que fueran justificados por la fe en Él *Rom 4,5*. Tales son los [[justificacion|justos del NT]]: impíos justificados por [[gracia|gracia]]. Habiendo reconocido en el Evangelio el llamamiento a la salvación, renunciaron a la impiedad *Tit 2,12* para volverse hacia Cristo. Ahora ya los verdaderos impíos son los hombres que rechazan este mensaje o que lo corrompen: los falsos doctores que turban a los fieles *2Tim 2,16* *Jds 4,18* *2Pe 2,1ss* *3,3s* y merecen el nombre de [[anticristo|anticristos]] *1Jn 2,22*; los indiferentes que viven en una ignorancia voluntaria *2Pe 3,5* *Mt 24,37* *Lc 17,26-30*; con más razón los poderes paganos que suscitarán contra el Señor al impío por excelencia *2Tes 2,3.8*. Tal es el contexto en que en adelante se revela el misterio de la impiedad.
+El problema es exactamente el mismo desde que Cristo consumó su [[sacrificio|sacrificio]] muriendo «por la mano de los impíos» *Act 2,23*. Murió, «justo por los injustos» *1Pe 3,18*, aun cuando quiso «ser computado entre los malhechores» *Mc 15,28 p*. Murió por los impíos *Rom 5,6* a fin de que fueran justificados por la fe en Él *Rom 4,5*. Tales son los [[justificación|justos del NT]]: impíos justificados por [[gracia|gracia]]. Habiendo reconocido en el Evangelio el llamamiento a la salvación, renunciaron a la impiedad *Tit 2,12* para volverse hacia Cristo. Ahora ya los verdaderos impíos son los hombres que rechazan este mensaje o que lo corrompen: los falsos doctores que turban a los fieles *2Tim 2,16* *Jds 4,18* *2Pe 2,1ss* *3,3s* y merecen el nombre de [[anticristo|anticristos]] *1Jn 2,22*; los indiferentes que viven en una ignorancia voluntaria *2Pe 3,5* *Mt 24,37* *Lc 17,26-30*; con más razón los poderes paganos que suscitarán contra el Señor al impío por excelencia *2Tes 2,3.8*. Tal es el contexto en que en adelante se revela el misterio de la impiedad.
 
 ### La ira de Dios sobre los impíos.
 

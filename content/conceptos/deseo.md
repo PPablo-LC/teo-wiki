@@ -49,11 +49,11 @@ El estudio del desear humano se aborda desde dos perspectivas complementarias: e
 
 ## Relaciones doctrinales
 
-El deseo se vincula con la [[concupiscencia]], la [[tentación]], el [[pecado]], el [[Espíritu Santo]], la [[comunión]], la [[vida eterna]], la [[conversión]], la [[pureza]], la [[templanza]] y la [[esperanza]].
+El deseo se vincula con la [[concupiscencia]], la [[tentación]], el [[pecado]], el [[espíritu_santo]], la [[comunión]], la [[vida_eterna]], la [[conversión]], la [[pureza]], la [[templanza]] y la [[esperanza]].
 
 ## Ver también
 
-[[concupiscencia]], [[tentación]], [[conversión]], [[Espíritu Santo]], [[comunión]], [[vida_eterna]], [[pureza]], [[templanza]]
+[[concupiscencia]], [[tentación]], [[conversión]], [[espíritu_santo]], [[comunión]], [[vida_eterna]], [[pureza]], [[templanza]]
 
 ## Referencias
 

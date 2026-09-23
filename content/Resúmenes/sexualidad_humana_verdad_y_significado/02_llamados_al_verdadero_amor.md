@@ -22,7 +22,7 @@ tags: ["resumen", "sexualidad humana verdad y significado"]
 
 ### Creados para amar (n. 8)
 
-«El hombre, en cuanto [[imagen de Dios]], ha sido creado para amar». Esta verdad se revela plenamente en el Nuevo Testamento, junto con el misterio de la vida intratrinitaria: «Dios es amor (1 Jn 4, 8) y vive en sí mismo un misterio de comunión personal de amor. Creándola a su imagen..., Dios inscribe en la humanidad del hombre y de la mujer la vocación y consiguientemente la capacidad y la responsabilidad del amor y de la comunión. El amor es por tanto la vocación fundamental e innata de todo ser humano». Todo el sentido de la libertad y del autodominio está orientado al [[don de sí]] en la comunión y la amistad con Dios y con los demás.
+«El hombre, en cuanto [[imagen_de_dios]], ha sido creado para amar». Esta verdad se revela plenamente en el Nuevo Testamento, junto con el misterio de la vida intratrinitaria: «Dios es amor (1 Jn 4, 8) y vive en sí mismo un misterio de comunión personal de amor. Creándola a su imagen..., Dios inscribe en la humanidad del hombre y de la mujer la vocación y consiguientemente la capacidad y la responsabilidad del amor y de la comunión. El amor es por tanto la vocación fundamental e innata de todo ser humano». Todo el sentido de la libertad y del autodominio está orientado al [[don_de_sí]] en la comunión y la amistad con Dios y con los demás.
 
 ### El amor humano como don de sí (n. 9)
 
@@ -38,6 +38,6 @@ En el centro de la conciencia cristiana de padres e hijos debe estar «el don de
 
 ### El amor conyugal y la apertura a la vida (nn. 14-15)
 
-Cuando el amor se vive en el matrimonio «comprende y supera la amistad y se plasma en la entrega total de un hombre y una mujer», que con el pacto conyugal fundan la comunión de personas en la que nace la vida humana. «A este [[amor conyugal]], y sólo a él, pertenece la donación sexual, que se realiza de modo verdaderamente humano, solamente cuando es parte integrante del amor con el que el hombre y la mujer se comprometen entre sí hasta la muerte». El CEC recuerda que «en el matrimonio, la intimidad corporal de los esposos viene a ser un signo y una garantía de comunión espiritual».
+Cuando el amor se vive en el matrimonio «comprende y supera la amistad y se plasma en la entrega total de un hombre y una mujer», que con el pacto conyugal fundan la comunión de personas en la que nace la vida humana. «A este [[amor_conyugal]], y sólo a él, pertenece la donación sexual, que se realiza de modo verdaderamente humano, solamente cuando es parte integrante del amor con el que el hombre y la mujer se comprometen entre sí hasta la muerte». El CEC recuerda que «en el matrimonio, la intimidad corporal de los esposos viene a ser un signo y una garantía de comunión espiritual».
 
 «Signo revelador de la autenticidad del amor conyugal es la apertura a la vida»: los esposos «se convierten en cooperadores de Dios en el don de la vida a una nueva persona humana... el hijo, reflejo viviente de su amor, signo permanente de la unidad conyugal y síntesis viva e inseparable del padre y de la madre». De esta comunión de amor y de vida reciben los cónyuges la riqueza y el clima positivo para la educación de los hijos en el amor y la castidad.

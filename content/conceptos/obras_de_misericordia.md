@@ -57,11 +57,11 @@ Actualiza la enseñanza a la dimensión social: «entre los hambrientos hoy no s
 
 ## Relaciones doctrinales
 
-Se relaciona con [[misericordia]], [[caridad]], [[limosna]], [[justicia]], [[bienaventuranzas]], [[projimo]], [[amor_al_projimo]]
+Se relaciona con [[misericordia]], [[caridad]], [[limosna]], [[justicia]], [[bienaventuranzas]], [[prójimo]], [[amor_al_prójimo]]
 
 ## Ver también
 
-[[misericordia]], [[caridad]], [[limosna]], [[bienaventuranzas]], [[projimo]]
+[[misericordia]], [[caridad]], [[limosna]], [[bienaventuranzas]], [[prójimo]]
 
 ## Referencias
 

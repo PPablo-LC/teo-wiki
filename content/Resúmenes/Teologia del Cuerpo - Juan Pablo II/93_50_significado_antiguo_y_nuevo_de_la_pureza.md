@@ -28,7 +28,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[espíritu]] — el Espíritu Santo (Gál 5, 16-17; Rom 8, 5)
 - [[triple_concupiscencia]] — la contraposición joánica Padre-mundo
 - [[ética]] — el concepto general de pureza moral
-- [[vida_segun_el_espíritu]] — la realización de la pureza de corazón
+- [[vida_según_el_espíritu]] — la realización de la pureza de corazón
 -[[Resolidaridad]] — las relaciones hombre-mujer en y fuera del matrimonio
 
 ## Contenido

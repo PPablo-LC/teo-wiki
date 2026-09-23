@@ -12,11 +12,11 @@ tags: ["resumen", "para encuentro profesores"]
 
 ## Conceptos básicos referenciados
 
-- [[Encuentro con Cristo]]
-- [[Discernimiento apostólico]]
-- [[Oración contemplativa]]
-- [[Lectio Divina]]
-- [[Revisión de vida]]
+- [[encuentro_con_cristo]]
+- [[discernimiento_apostólico]]
+- [[oración_contemplativa]]
+- [[lectio_divina]]
+- [[revisión_de_vida]]
 - VER-JUZGAR-ACTUAR
 - [[Dios que sale al encuentro]]
 
@@ -35,17 +35,17 @@ El documento presenta dos esquemas alternativos para que los padres elijan:
 
 ### Propuesta A: Lectura Orante · Compromisos de Vida Cristiana · Discernimiento Apostólico
 
-- Movimiento: del [[Evangelio]] a la vida.
+- Movimiento: del [[evangelio]] a la vida.
 - Énfasis contemplativo y espiritual.
-- Estructura: Lectura Orante → Compromisos → [[Discernimiento apostólico]]
+- Estructura: Lectura Orante → Compromisos → [[discernimiento_apostólico]]
 - Evangelios: Jn 1,37-39 · Jn 15,1-5 · Mt 28,18-20
 - Adecuada para grupos con menos práctica de discernimiento grupal.
 
 ### Propuesta B: VER — Encuentro · JUZGAR — Convicciones · ACTUAR — Decisiones
 
-- Movimiento: de la vida al [[Evangelio]].
+- Movimiento: de la vida al [[evangelio]].
 - Énfasis evangelizador y apostólico.
-- Estructura: VER → JUZGAR → ACTUAR (esquema ECYD / [[Revisión de vida]])
+- Estructura: VER → JUZGAR → ACTUAR (esquema ECYD / [[revisión_de_vida]])
 - Evangelios: Jn 1,35-39 · Lc 10,30-34 · Lc 10,1-9
 - Adecuada para grupos con experiencia en revisión de vida.
 

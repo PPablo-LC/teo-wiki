@@ -31,7 +31,7 @@ El Catecismo afirma que «la maternidad espiritual de Maria se extiende a todos 
 
 > **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-La conferencia «Autentica día 2» amplia el concepto de maternidad espiritual al laicado femenino, afirmando que toda mujer esta llamada a «dar vida» mas alla de lo biologico, complementando la doctrina sobre la [[vocacion]] y la [[maternidad_espiritual]] en su aplicacion a la mujer seglar.
+La conferencia «Autentica día 2» amplia el concepto de maternidad espiritual al laicado femenino, afirmando que toda mujer esta llamada a «dar vida» mas alla de lo biologico, complementando la doctrina sobre la [[vocación]] y la **maternidad espiritual** en su aplicacion a la mujer seglar.
 
 ### Según CJeS (1987-1989)
 

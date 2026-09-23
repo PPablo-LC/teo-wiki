@@ -13,7 +13,7 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "teo
 ## Conceptos básicos referenciados
 
 - [[sufrimiento]] — realidad misteriosa y desconcertante que tarde o temprano afecta a todos
-- [[Salvifici_doloris]] — Carta Apostólica elaborada durante la convalecencia tras el atentado de 1981; tesoro teológico sobre el sufrimiento
+- [[salvifici_doloris]] — Carta Apostólica elaborada durante la convalecencia tras el atentado de 1981; tesoro teológico sobre el sufrimiento
 - [[cruz]] — camino del hombre, signo orientador que conduce a la esperanza
 - [[resurrección]] — gozo final que transforma la cruz
 - [[redención]] — el sufrimiento se convierte en corredención con Cristo
@@ -37,11 +37,11 @@ Se presenta la vida del hombre como un camino hacia la felicidad señalizado con
 
 ### Anécdota del Vía Crucis en Madrid (1982)
 
-Durante la primera estancia del Papa en España, en 1982, el Nuncio monseñor Innocenti halló al Papa rezando el [[Vía_Crucis]] a las cuatro de la madrugada. El Papa le respondió: «Usted, señor Nuncio, haga como yo: póngase de rodillas y acompáñeme a hacer el Via Crucis, para afrontar con más gracia de Dios la dura jornada de mañana».
+Durante la primera estancia del Papa en España, en 1982, el Nuncio monseñor Innocenti halló al Papa rezando el [[vía_crucis]] a las cuatro de la madrugada. El Papa le respondió: «Usted, señor Nuncio, haga como yo: póngase de rodillas y acompáñeme a hacer el Via Crucis, para afrontar con más gracia de Dios la dura jornada de mañana».
 
 ### La Carta Apostólica Salvifici doloris
 
-En su convalecencia tras el atentado de 1981, Juan Pablo II elaboró la Carta Apostólica [[Salvifici_doloris]], un tesoro de exposición teológica sobre el sufrimiento. El Papa deseó que esta Carta fuera «una guía para vuestra vida, de forma que contempléis siempre vuestra situación a la luz del Evangelio, fijando la mirada en [[Jesucristo]]».
+En su convalecencia tras el atentado de 1981, Juan Pablo II elaboró la Carta Apostólica [[salvifici_doloris]], un tesoro de exposición teológica sobre el sufrimiento. El Papa deseó que esta Carta fuera «una guía para vuestra vida, de forma que contempléis siempre vuestra situación a la luz del Evangelio, fijando la mirada en [[jesucristo]]».
 
 ### El sufrimiento a la luz de la fe
 

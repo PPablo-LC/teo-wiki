@@ -41,7 +41,7 @@ Scott Hahn (BMV, lección 12) desarrolla la maternidad espiritual de María desd
 
 ## Relaciones doctrinales
 
-Se relaciona con [[virgen_maría]], [[madre_de_dios]], [[maternidad_espiritual]], [[mediación_de_maría]], [[maternidad_de_la_iglesia]], [[cruz]], [[discípulo_amado]], [[pablo_vi]].
+Se relaciona con [[virgen_maría]], [[madre_de_dios]], [[maternidad_espiritual]], [[mediación_de_maría]], [[maternidad_de_la_iglesia]], [[cruz]], [[discípulo_amado]], [[san_pablo_vi]].
 
 ## Ver también
 

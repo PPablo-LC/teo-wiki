@@ -34,11 +34,11 @@ Cristo no excluyo totalmente a los gentiles, sino que reservo su predicacion per
 
 ## Relaciones doctrinales
 
-La ensenanza de Cristo se relaciona con la [[predicacion]] del Reino, la autoridad de su [[magisterio]] y la [[revelacion]] divina. Su transmision a los apostoles constituye la [[tradicion_apostolica]] y la [[escritura]] del [[nuevo_testamento]]. Las [[parábola|parábolas]] son el genero caracteristico de su ensenanza. La predicacion a los judios primero anticipa la [[mision]] universal de la Iglesia.
+La ensenanza de Cristo se relaciona con la [[predicación]] del Reino, la autoridad de su [[magisterio]] y la [[revelación]] divina. Su transmision a los apostoles constituye la [[tradición_apostólica]] y la [[escritura]] del [[nuevo_testamento]]. Las [[parábola|parábolas]] son el genero caracteristico de su ensenanza. La predicacion a los judios primero anticipa la [[misión]] universal de la Iglesia.
 
 ## Ver tambien
 
-[[predicacion]], [[parabola]], [[milagros]], [[revelacion]], [[magisterio]], [[tradicion_apostolica]], [[nuevo_testamento]], [[escritura]], [[judio]], [[gentil]], [[mision]], [[apostoles]], [[encarnacion]], [[cristo_maestro]]
+[[predicación]], [[parábola]], [[milagros]], [[revelación]], [[magisterio]], [[tradición_apostólica]], [[nuevo_testamento]], [[escritura]], [[judío]], [[gentil]], [[misión]], [[apóstoles]], [[encarnacion]], [[cristo_maestro]]
 
 ## Referencias
 

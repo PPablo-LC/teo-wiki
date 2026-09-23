@@ -47,7 +47,7 @@ La «visita al Santísimo Sacramento» se menciona como práctica de piedad (TPC
 
 ## Relaciones doctrinales
 
-Se relaciona con [[misericordia]], [[juicio_de_dios]], [[obras_de_misericordia]], [[adviento]], [[dia_del_señor]], [[navidad]], [[caridad]].
+Se relaciona con [[misericordia]], [[juicio_de_dios]], [[obras_de_misericordia]], [[adviento]], [[día_del_señor]], [[navidad]], [[caridad]].
 
 ## Ver también
 

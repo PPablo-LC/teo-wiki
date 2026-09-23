@@ -47,11 +47,11 @@ La protección contra los principados malignos se encuentra en la oración, los 
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[angelología]], la [[demonología]], la [[oración]], la [[obediencia]] y la [[movilidad_del_alma]].
+Se relaciona con la [[ángelología]], la [[demonología]], la [[oración]], la [[obediencia]] y la [[movilidad_del_alma]].
 
 ## Ver también
 
-[[angelología]], [[demonología]], [[oración]], [[obediencia]], [[movilidad_del_alma]]
+[[ángelología]], [[demonología]], [[oración]], [[obediencia]], [[movilidad_del_alma]]
 
 ## Referencias
 

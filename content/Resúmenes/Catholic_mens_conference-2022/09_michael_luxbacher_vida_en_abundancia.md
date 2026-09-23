@@ -11,7 +11,7 @@ tags: ["resumen", "virtud", "vida_eterna", "liderazgo_cristiano"]
 # Life In Abundance — The Point Of It All
 
 ## Conceptos básicos referenciados en este capítulo
-- [[gloria_de_Dios]] — "La gloria de Dios es el hombre plenamente vivo" (San Ireneo)
+- [[gloria_de_dios]] — "La gloria de Dios es el hombre plenamente vivo" (San Ireneo)
 - [[virtud]] — espacio de libertad en el corazón para responder a Dios
 - [[libertad_cristiana]] — la virtud como camino amplio, no como restricción
 - [[vida_eterna]] — la meta final: florecer, no solo sobrevivir
@@ -46,7 +46,7 @@ Luxbacher rechaza la espiritualidad individualista del "toma la colina." La vida
 
 ## La entrega como "dar de vuelta"
 
-El concepto de *surrender* se etimologiza del francés antiguo *surrendre*: "dar de vuelta." La entrega a Dios no es rendirse pasivamente, sino devolverle lo que Él nos ha dado, una y otra vez, sin cansarse ni contar el costo. La meta es doble: la [[gloria_de_Dios]] y el cielo, pero también florecer aquí en la tierra, desarrollando un corazón fuerte para ser faro de esperanza.
+El concepto de *surrender* se etimologiza del francés antiguo *surrendre*: "dar de vuelta." La entrega a Dios no es rendirse pasivamente, sino devolverle lo que Él nos ha dado, una y otra vez, sin cansarse ni contar el costo. La meta es doble: la [[gloria_de_dios]] y el cielo, pero también florecer aquí en la tierra, desarrollando un corazón fuerte para ser faro de esperanza.
 
 ## Conclusión
 

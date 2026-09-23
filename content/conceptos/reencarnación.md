@@ -23,7 +23,7 @@ La fe cristiana confiesa que «está establecido para los hombres que mueran una
 
 ### Según el Documental «Dioses de la nueva era» (DocNDE)
 
-El documental *Dioses de la nueva era* presenta la [[reencarnación]] como la doctrina central del hinduismo que se difunde en Occidente a través de la [[nueva_era]], el [[yoga]] (que promete «escapar del interminable círculo de la vida y la muerte») y los [[gurúes]]. La contrasta con la [[resurrección]] cristiana: la promesa cristiana no es el retorno a un cuerpo nuevo dentro del ciclo, sino la transformación definitiva del cuerpo y del cosmos en la nueva creación. El documental denuncia además la función moral de la doctrina: el karma relativiza la compasión (el sufrimiento del otro sería mérito o demérito pasado) y desplaza la gracia por el mérito acumulable.
+El documental *Dioses de la nueva era* presenta la **reencarnación** como la doctrina central del hinduismo que se difunde en Occidente a través de la [[nueva_era]], el [[yoga]] (que promete «escapar del interminable círculo de la vida y la muerte») y los [[gurúes]]. La contrasta con la [[resurrección]] cristiana: la promesa cristiana no es el retorno a un cuerpo nuevo dentro del ciclo, sino la transformación definitiva del cuerpo y del cosmos en la nueva creación. El documental denuncia además la función moral de la doctrina: el karma relativiza la compasión (el sufrimiento del otro sería mérito o demérito pasado) y desplaza la gracia por el mérito acumulable.
 
 ### Según el Hinduismo (análisis UDE/NA)
 

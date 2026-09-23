@@ -15,7 +15,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[dignidad_de_la_mujer]] — defensa de la dignidad personal ante la explotación sexual
 - [[sexualidad]] — trivialización perjudicial especialmente para la mujer
 - [[vida_humana]] — respeto, protección, amor y servicio a toda vida humana
-- [[Evangelium_vitae]] — encíclica sobre el valor y la inviolabilidad de la vida (nn. 5 y 87)
+- [[evangelium_vitae]] — encíclica sobre el valor y la inviolabilidad de la vida (nn. 5 y 87)
 - [[familia]] — fortalecimiento del papel de la mujer en la familia
 
 ## Contenido

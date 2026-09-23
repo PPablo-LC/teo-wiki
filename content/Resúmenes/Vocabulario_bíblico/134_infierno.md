@@ -21,18 +21,18 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[noche]] — la obscuridad de la morada de los muertos
 - [[padres_y_padre]] — encontrarse uno con sus padres
 - [[pecado]] — el desorden fruto del pecado
-- [[impio]] — los impíos
+- [[impío]] — los impíos
 - [[fuego]] — el fuego del infierno
 - [[cielo]] — el infierno, «venido» del cielo
 - [[ira]] — la ira de Dios
-- [[persecucion]] — la persecución de los justos
+- [[persecución]] — la persecución de los justos
 - [[vida]] — la vida eterna
-- [[creacion]] — la creación hostil al pecador
-- [[maldicion]] — la maldición divina
+- [[creación]] — la creación hostil al pecador
+- [[maldición]] — la maldición divina
 - [[alma]] — perder el alma y el cuerpo
 - [[cuerpo]] — el cuerpo
 - [[conocer]] — «No os conozco»
-- [[adan]] — la humanidad condenada en Adán
+- [[adán]] — la humanidad condenada en Adán
 - [[redenccion]] — la redención es la abertura de las puertas infernales
 - [[iglesia]] — la Iglesia, fruto de la victoria
 - [[satanás]] — el poder de Satán en el abismo
@@ -56,13 +56,13 @@ Descender a estos infiernos colmado de días, al final de una vejez dichosa, par
 
 ## El infierno de los pecadores
 
-Este escándalo es uno de los resortes de la revelación. El aspecto trágico de la [[muerte|muerte]] manifiesta el desorden del mundo, y uno de los ejes del pensamiento religioso israelita está en descubrir que este desorden es fruto del [[pecado|pecado]]. A medida que se va afirmando esta conciencia, los rasgos del infierno adoptan una figura cada vez más siniestra. Abre sus fauces para englutir a Koré, Datán y Abirón *Num 16,32s*, pone en juego todo su poder para devorar «la gloria de Sión y a su muchedumbre ruidosa, sus gritos, su alegría» *Is 5,14*, hace desaparecer a los [[impio|impíos]] en el espanto *Sal 73,19*.
+Este escándalo es uno de los resortes de la revelación. El aspecto trágico de la [[muerte|muerte]] manifiesta el desorden del mundo, y uno de los ejes del pensamiento religioso israelita está en descubrir que este desorden es fruto del [[pecado|pecado]]. A medida que se va afirmando esta conciencia, los rasgos del infierno adoptan una figura cada vez más siniestra. Abre sus fauces para englutir a Koré, Datán y Abirón *Num 16,32s*, pone en juego todo su poder para devorar «la gloria de Sión y a su muchedumbre ruidosa, sus gritos, su alegría» *Is 5,14*, hace desaparecer a los [[impío|impíos]] en el espanto *Sal 73,19*.
 
 Israel conoció dos imágenes especialmente expresivas de este fin terrorífico: la consunción por las llamas, de Sodoma y de Gomorra *Gen 19,23* *Am 4,11* *Sal 11,6* y la devastación del paraje de Tofet, en el valle de la Gehena, lugar de placer destinado a convertirse en lugar de horror, donde «se verán los cadáveres de los que se rebelaron contra mí, cuyo gusano no morirá y cuyo fuego no se extinguirá» *Is 66,24*.
 
 La muerte en el [[fuego|fuego]], y perpetuándose indefinidamente en la corrupción son ya las imágenes evangélicas del infierno. Es un infierno, que no es ya el infierno, por decirlo así, «normal» que era el seol, sino un infierno que se puede decir caído del [[cielo|cielo]], «venido de Yahveh» *Gen 19,24*. Si reúne «el abismo sin fondo» y «la lluvia de fuego» *Sal 140,11*, la imagen del *seol* y el recuerdo de Sodoma, es que este infierno está encendido por «el soplo de Yahveh» *Is 30,33* y por el «ardor de su [[ira|ira]]» *30,27*.
 
-Este infierno prometido a los pecadores no podía ser la suerte de los justos, sobre todo cuando éstos, para mantenerse fieles a Dios, tenían que sufrir la [[persecucion|persecución]] de los pecadores y a veces la muerte. Es lógico que del «país del polvo», el *seol* tradicional, donde duermen confundidos los santos y los impíos, despierten éstos para «el horror eterno» y sus víctimas despierten «para la [[vida|vida]] eterna» *Dan 2,12*. Y mientras el Señor entrega a los justos su recompensa, «arma a la creación para castigar a sus enemigos» *Sab 5,15ss*. El infierno no se localiza ya en lo profundo de la tierra, sino que es «el universo desencadenado contra los insensatos» *5,20*. Los evangelios utilizan estas imágenes: «En la morada de los muertos» donde el rico es «atormentado por las llamas» reconoce a Lázaro «en el seno de Abraham», pero entre ellos se abre infranqueable «un gran abismo» *Lc 16,23-26*. Fuego y abismo, la [[ira|ira]] de Dios y la [[tierra|tierra]] que se abre, la [[maldicion|maldición]] de Dios y la hostilidad de la [[creacion|creación]], tal es el infierno.
+Este infierno prometido a los pecadores no podía ser la suerte de los justos, sobre todo cuando éstos, para mantenerse fieles a Dios, tenían que sufrir la [[persecución|persecución]] de los pecadores y a veces la muerte. Es lógico que del «país del polvo», el *seol* tradicional, donde duermen confundidos los santos y los impíos, despierten éstos para «el horror eterno» y sus víctimas despierten «para la [[vida|vida]] eterna» *Dan 2,12*. Y mientras el Señor entrega a los justos su recompensa, «arma a la creación para castigar a sus enemigos» *Sab 5,15ss*. El infierno no se localiza ya en lo profundo de la tierra, sino que es «el universo desencadenado contra los insensatos» *5,20*. Los evangelios utilizan estas imágenes: «En la morada de los muertos» donde el rico es «atormentado por las llamas» reconoce a Lázaro «en el seno de Abraham», pero entre ellos se abre infranqueable «un gran abismo» *Lc 16,23-26*. Fuego y abismo, la [[ira|ira]] de Dios y la [[tierra|tierra]] que se abre, la [[maldición|maldición]] de Dios y la hostilidad de la [[creación|creación]], tal es el infierno.
 
 ## NT
 
@@ -70,7 +70,7 @@ Este infierno prometido a los pecadores no podía ser la suerte de los justos, s
 
 Si acaso es problemático sacar de la parábola del rico avariento, que se sirve de las representaciones judías, una afirmación decisiva del Señor sobre el infierno, en todo caso hay que tomar en serio a Jesús cuando utiliza las más violentas y más despiadadas imágenes escriturísticas del infierno: «el llanto y crujir de dientes en el horno ardiente» *Mt 13,42*, «la gehena, donde su gusano no muere y el [[fuego|fuego]] no se apaga» *Mc 9,43-48* *Mt 5,22*, donde Dios puede «perder el [[alma|alma]] y el [[cuerpo|cuerpo]]» *Mt 10,28*.
 
-La gravedad de estas afirmaciones está en que son formuladas por el mismo que tiene poder para arrojar al infierno. Jesús no habla sólo del infierno como de una realidad amenazadora: anuncia que él mismo «enviará a sus ángeles a arrojar en el horno ardiente a los fautores de iniquidad» *Mt 13,41s* y pronunciará la [[maldicion|maldición]]: «¡Apartaos de mí, malditos, al fuego eterno!» *Mt 25,41*. El Señor es quien declara: «No os [[conocer|conozco]]» *25,12*, «Arrojadle fuera, a las tinieblas» *25,30*.
+La gravedad de estas afirmaciones está en que son formuladas por el mismo que tiene poder para arrojar al infierno. Jesús no habla sólo del infierno como de una realidad amenazadora: anuncia que él mismo «enviará a sus ángeles a arrojar en el horno ardiente a los fautores de iniquidad» *Mt 13,41s* y pronunciará la [[maldición|maldición]]: «¡Apartaos de mí, malditos, al fuego eterno!» *Mt 25,41*. El Señor es quien declara: «No os [[conocer|conozco]]» *25,12*, «Arrojadle fuera, a las tinieblas» *25,30*.
 
 ## Jesucristo descendió a los infiernos
 
@@ -78,6 +78,6 @@ La bajada de Cristo a los infiernos es un artículo de fe y es, en efecto, un da
 
 ## Las puertas infernales, forzadas
 
-Por su muerte triunfó Cristo del último enemigo, la [[muerte|muerte]] *1Cor 15,26*, y forzó las puertas infernales. La muerte y el Hades habían estado siempre al descubierto a la mirada de Dios *Am 9,2* *Job 26,6* y ahora se ven obligados a restituir los muertos que retienen *Ap 20,13* *Mt 27,52s*. Hasta la muerte del Señor era el infierno «el punto de cita de toda carne», el término fatal de llegada de una humanidad exilada de Dios, y nadie pedía salir antes de Cristo, «primicias de los que duermen» *1Cor 15,20-23*, «primogénito de entre los muertos» *Ap 1,5*. Para la humanidad condenada en [[adan|Adán]] a la muerte y a la separación de Dios, la [[redenccion|redención]] es la abertura de las [[puerta|puertas]] infernales, el don de la vida eterna. La [[iglesia|Iglesia]] es el fruto y el instrumento de esta victoria *Mt 16,18*.
+Por su muerte triunfó Cristo del último enemigo, la [[muerte|muerte]] *1Cor 15,26*, y forzó las puertas infernales. La muerte y el Hades habían estado siempre al descubierto a la mirada de Dios *Am 9,2* *Job 26,6* y ahora se ven obligados a restituir los muertos que retienen *Ap 20,13* *Mt 27,52s*. Hasta la muerte del Señor era el infierno «el punto de cita de toda carne», el término fatal de llegada de una humanidad exilada de Dios, y nadie pedía salir antes de Cristo, «primicias de los que duermen» *1Cor 15,20-23*, «primogénito de entre los muertos» *Ap 1,5*. Para la humanidad condenada en [[adán|Adán]] a la muerte y a la separación de Dios, la [[redenccion|redención]] es la abertura de las [[puerta|puertas]] infernales, el don de la vida eterna. La [[iglesia|Iglesia]] es el fruto y el instrumento de esta victoria *Mt 16,18*.
 
 Pero Cristo, ya antes de su venida, es prometido y esperado. El hombre del AT, en la medida en que acoge esta promesa, ve iluminarse sus infiernos con una claridad que se convierte en certeza. Y viceversa, en la medida en que la rechaza se convierten sus infiernos en infierno, él mismo se sume en un abismo, en el que el poder de [[satanás|Satán]] se hace más horroroso. Finalmente, cuando aparece Jesucristo, «los que no obedecen a su Evangelio... son castigados con una pérdida eterna, alejados de la faz del Señor» *2Tes 1,8s* y «en el estanque de fuego» se encuentran con la muerte y el Hades *Ap 20,14s*.

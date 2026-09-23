@@ -12,65 +12,34 @@ tags: ["resumen", "el amor es mas fuerte - alvaro corcuera lc"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+[[maría]], [[virtudes_teologales]], [[fe]], [[esperanza]], [[caridad]], [[anunciación]], [[inmaculada_concepción]], [[humildad]], [[fiat]], [[esclava_del_señor]], [[virgen_de_los_dolores]], [[ángelus]], [[providencia]], [[madre_del_buen_consejo]], [[silencio]], [[misericordia_de_dios]], [[juan_pablo_ii]], [[alvaro_corcuera]], [[espiritualidad_legionaria]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `06_capítulo_5_la_sant_sima_virgen.md`
+### 1. Cultiva las virtudes teologales
 
+A las puertas de la Semana Santa, la contemplación de los misterios inefables descubre una presencia sigilosa y materna: María santísima, presente en Nazaret, Belén y el Calvario, no como espectadora sino plenamente inmersa en el misterio, tomando parte activa. El alma de María se revela llena de fe, de esperanza y de amor teologales: «las tres virtudes que Dios nos pide cultivar intensamente». La fe ilumina el pasado: María conservaba todas las cosas en su corazón (Lc 2, 51), las meditaba sin entender, platicaba con Dios sin pedirle cuentas. Al pie de la cruz su alma resplandecía de fe, respondiendo «sí»: meditaba creyendo, creía confiando. Ésa es la fe que Dios pide también a la Legión de Cristo y al Regnum Christi ante el misterio de su historia: creer que «todas las cosas cooperan al bien de los que aman a Dios» (Rm 8, 28) y que la Providencia saca bienes mayores de un mal (cf. CEC 312). La esperanza alienta ante el futuro: María nunca sucumbió a la desconfianza y aprendió a ponerse, una y otra vez, en las manos de Dios, que no defraudó su esperanza; la confianza sigue a la fe. El amor compromete en el presente: María sólo se preocupaba de amar a Dios y cumplir su voluntad. Por amor seguimos sirviendo a la Iglesia desinteresadamente, viviendo el carisma recibido, caminando juntos hacia el cielo, y siendo cirineos que ayudan a los hermanos a cargar su cruz.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### 2. El «sí» de María en la anunciación
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo 5. La Santísima Virgen |
-| 5 | H3 | 1. Cultiva las virtudes teologales |
-| 35 | H3 | 2. El «sí» de María en la anunciación |
-| 65 | H3 | 3. Fidelidad desde el ángelus al Calvario |
-| 113 | H3 | 4. Nos señala el camino de la cruz |
-| 147 | H3 | 5. La Inmaculada Concepción y la humildad |
-| 163 | H3 | 6. El consejo de María en nuestra vida |
-| 255 | H3 | 7. Coloquio con María |
+La fiesta de la Anunciación es cristocéntrica: María da su «sí» para que la Encarnación fuese posible. Dios nos creó para ser felices: «Alégrate, llena de gracia»; la felicidad está dentro de nosotros cuando estamos en la gracia, es decir, cuando Cristo es el centro y el amigo fiel de nuestra vida. María experimentó la turbación y el temor; su turbación nació de la humildad, de sentirse indigna de un plan tan maravilloso. «El día en que nosotros dejamos de ver el fin de nuestra vida… se nos escapa la alegría». Su pregunta «¿Cómo va a ser esto posible?» no fue duda, sino la pregunta más hermosa que podemos hacer a Dios: «¿cómo puedo realizar mejor tu plan?». Las dificultades fortalecen y son una bendición, como las olas y la tormenta hicieron creer a los apóstoles. El Espíritu Santo cubre con su sombra, como un rayo de sol en medio de la nieve y la oscuridad; en nuestro corazón siempre tiene que haber paz y alegría porque estamos con Cristo. Tras el diálogo con el ángel, María responde: «Aquí está la esclava del Señor, hágase en mí según tu palabra»: fue un «sí» en el misterio, hoja en blanco total, sin importar las consecuencias. La esclavitud del Señor es estar listos para servir incondicionalmente: ser esclavos del Señor es la mejor libertad. Dios actúa en nuestra fragilidad: «Tú has escondido el fuego en las cenizas de nuestra humanidad» (Santa Catalina de Siena).
 
+### 3. Fidelidad desde el ángelus al Calvario
 
-## Secciones incluidas
+Sobre la fiesta de la Virgen de los Dolores, patrona de la Legión de Cristo: María, nuestra Madre, siempre fiel, sufrió unida a su Hijo por la salvación de todos los hombres —«una espada atravesará tu corazón»—. Esa espada que traspasa su corazón llega a ser espada que nos defiende a nosotros, sus hijos, y enseña a buscar a Dios sobre todas las cosas tomando la cruz cada día por amor. El ángelus resume el camino de fidelidad de María: María es la «Virgo fidelis» (Juan Pablo II, homilía en Ciudad de México, 1979). Su fidelidad fue búsqueda —«¿cuál es el querer de mi Dios?»— en un profundo ambiente de silencio e interioridad; y acogida, pues «escuchar nunca basta para el que ama». La coherencia es la tercera dimensión de la fidelidad: «vivir de acuerdo con lo que se cree… aquí se encuentra quizás el núcleo más íntimo de la fidelidad». La fidelidad es un don de Dios: su «sí» coherente llevó a María a la fidelidad iuxta crucem. La confianza engendra la constancia: es fácil decir sí en la luz, costoso en la oscuridad; la constancia es la prueba máxima del amor. María, esclava del Señor, era «la mujer más libre»: por la humildad vivía la verdadera libertad interior, nada le impedía seguir el querer de Dios. «No debemos temer desaparecer para que Dios aparezca más». María fue fiel hasta el final: stabat iuxta crucem, firme al pie de la cruz, para el día de la Asunción recibir el premio eterno. «¡Hermosa vida tenemos! Toda una vida para vivir por amor día a día el sí que dimos a Dios».
 
-## 1. Cultiva las virtudes teologales
+### 4. Nos señala el camino de la cruz
 
-[Contenido de esta sección...]
+El misterio de la Iglesia y de la Legión dentro de ella: nuestra patrona nos hace acompañar a Cristo hasta el último momento con la característica de la fidelidad, en el misterio de la cruz. «María nos da el ejemplo de que solamente es posible acompañar a Cristo en la cruz cuando hay oración y contemplación; sin ellas sería ir a una guerra sin escudo». Para que la Legión sea santa, ha de pasar como María por el camino de la cruz; Dios nos va revelando el camino de su cruz y nos regala el camino de la soledad para que lo tengamos solamente a Él. Al pie de la cruz el dolor de María no produjo odio ni rebelión, sino amor que perdonó, que nos ofreció a los hijos y enseñó a sufrir con amor, viviendo más para sanar las heridas del prójimo. Los apoyos humanos van cayendo, como las bases de los cohetes, y es precisamente el desprendimiento el que nos permite subir hacia el cielo, como María, solamente con Cristo. «La cruz es el puente para llegar al cielo»: Cristo quiso que la cruz ya no fuera una desgracia sino una corona de amor. La vocación legionaria es amar sin límites y ser signo de contradicción; nuestro único soporte es Cristo en su santa cruz. Quien ora, persevera; el crecimiento es proporcional al grado de cruz. San Pablo fue «Diamante de Dios», pulido por las pruebas y purificaciones. Si Cristo está en el corazón, la Legión y el Movimiento serán santos y crecerán como Dios quiere. «Nos amó hasta el extremo»: la cruz sólo se puede entender con mucho amor.
 
-## 2. El «sí» de María en la anunciación
+### 5. La Inmaculada Concepción y la humildad
 
-[Contenido de esta sección...]
+«¡La Inmaculada vencerá!»: en un mundo secularizado, María se hace presente eligiendo a santa Bernardita, una niña sencilla que no sabía leer ni escribir. «Dios se va a revelar cuando nos hacemos como los niños»: es la madurez de la fe, la humildad del corazón. Pero el corazón de niño se puede ir haciendo duro con el paso de los años, cerrando la acción de la gracia. La criatura más grande se presenta como esclava: es momento de hacer un examen de conciencia sereno y renovar con libertad interior nuestra esclavitud a Dios; en la vida consagrada hemos ofrecido todo nuestro ser «como una hoja en blanco», y no tenemos más derecho que el de servir y amar. Las letanías de la humildad se aplican a la Virgen: exigimos perdón pero pocas veces pedimos perdón; María nos ayuda a moldear nuestro corazón. En este período la caridad es un imperativo: «Nada puede justificar la falta de caridad». Ante las heridas del combate, más que echar la culpa, hay que suavizar las heridas de mi hermano y levantarlo, olvidándome de mis propias heridas. María, madre de la paz, nos enseña a ser apóstoles de la paz y a mirar siempre el cielo. El peor peligro es el desánimo: renovar el entusiasmo purificado y fortalecido por la intimidad con Jesucristo.
 
-## 3. Fidelidad desde el ángelus al Calvario
+### 6. El consejo de María en nuestra vida
 
-[Contenido de esta sección...]
+Los apóstoles, reunidos en oración, recibieron al Espíritu Santo acompañados por la Santísima Virgen; aunque era diferente el carácter de cada uno, estaban unidos en el amor de Cristo. «María posiblemente no les dijo ninguna palabra, pero su presencia era el mejor consejo». María, Madre del buen consejo: todos necesitamos el consejo de una madre, que nos aconseja con cariño, ternura y sabiduría para que lleguemos al cielo. Pero hace falta hacerse como los niños: «El orgulloso no escucha consejos». A nosotros también nos toca aconsejar a nuestros hermanos —«cada corazón es un libro diferente»— y para recibir el consejo de María hace falta ser hombres de mucho silencio: no el silencio del repliegue o del desprecio, sino «un silencio humilde, amoroso, que escucha para dar». Dios nos pide ser hombres de mucha oración: es nuestro principal apostolado. La santidad es hacer la voluntad del Padre sin importar el precio. En Caná, María no quedó inactiva: observó para ayudar y dio por hecho que Jesús no le negaría nada; el consejo de María cambia nuestros planes y los supera, y Jesús dio el mejor vino. «Del pecado y de la miseria, Dios siempre saca amor y misericordia»: ésa es nuestra vocación. Los apóstoles, en la prueba, se reunían a orar, perseverantes en la oración, con los ojos de la resurrección. La peregrinación enseña que nuestra vida es una peregrinación hacia el cielo: «No quiero llegar solo. Llegamos todos juntos». Cierra con una oración a María, Madre del Buen Consejo, para que en el silencio del corazón busquemos lo que Jesús quiere, con corazón manso y humilde, abiertos a sus consejos aunque «nos lleven a la cruz».
 
-## 4. Nos señala el camino de la cruz
+### 7. Coloquio con María
 
-[Contenido de esta sección...]
-
-## 5. La Inmaculada Concepción y la humildad
-
-[Contenido de esta sección...]
-
-## 6. El consejo de María en nuestra vida
-
-[Contenido de esta sección...]
-
-## 7. Coloquio con María
-
-[Contenido de esta sección...]
+Meditación-oración dirigida al apostolado Virgen Peregrina de la Familia: agradecer a María su maternidad y su mirada amorosa; pedir vivir siempre en actitud de escucha, aprender de su silencio para que se convierta en oración y nuestras palabras sean las palabras de Cristo. Imitar a la esclava del Señor: «Tú siendo nuestra Madre, nuestra reina, quisiste ser esclava porque el amor es lo que nos ata al querer de tu Hijo»; le ofrecemos nuestra libertad. Escucharla como en Caná: «haced lo que Él os diga», haciendo de esa obediencia el interés que guía nuestra vida, sin importar la fatiga o el sufrimiento, porque dar la vida por Dios es la mayor alegría y el mayor descanso de las almas. Ser diligentes al socorrer las necesidades del prójimo, como María cuando fue a acompañar a santa Isabel, siendo puentes: «conviene que Él crezca y yo disminuya». Virgen Peregrina, enseñarnos el camino de la peregrinación hacia la casa del Padre, sostener a todos los que van por el mismo rumbo, unir a las familias, ser faros del amor y de la caridad. Vivir el silencio como apostolado, ser fieles en la cruz como María con su Hijo, servir a la Iglesia fieles al Papa. Pedir ser «apóstoles de la caridad, de la bondad, peregrinos de la caridad», y un perdón que no hunde sino que descubre la misericordia: «quien experimenta el perdón no puede sino ser un apóstol». Pedir por las familias, sostenidas por estas hijas incansables en el amor.

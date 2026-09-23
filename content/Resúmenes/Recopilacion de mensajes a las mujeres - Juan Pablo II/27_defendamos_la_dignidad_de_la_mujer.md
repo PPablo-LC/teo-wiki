@@ -17,7 +17,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[mulieris_dignitatem]] — Carta Apostólica sobre la dignidad de la mujer
 - [[genio_femenino]] — modo específico de ser «en femenino»
 - [[subjetividad]] — fuente de autonomía responsable que se plenifica en el amor
-- [[Gaudium_et_spes]] — realización plena en la entrega sincera de sí (n. 24)
+- [[gaudium_et_spes]] — realización plena en la entrega sincera de sí (n. 24)
 
 ## Contenido
 

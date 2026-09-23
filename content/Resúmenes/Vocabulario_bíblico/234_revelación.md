@@ -55,7 +55,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[amor]] — el amor de Dios manifestado
 - [[persecución]] — la persecución en el destino histórico de la Iglesia
 - [[victoria]] — la victoria de Dios sobre el mundo y sobre Satán
-- [[jesus|Jesús]] — el revelador por excelencia
+- [[jesús|Jesús]] — el revelador por excelencia
 - [[permanecer]] — permanecer en Dios
 
 ## Contenido
@@ -106,7 +106,7 @@ Los apóstoles no comprendieron todo por sí mismos, sino gracias a una revelaci
 
 #### San Juan.
 
-En el vocabulario joánico el tema se expresa sobre todo con el verbo manifestar. a. La manifestación sensible de Jesús: el [[jesus|Hijo]] de Dios venido en carne se hizo objeto de experiencia sensible *1Jn 3,5.8*, manifestación cuasi-secreta y paradójica que culminó en la elevación en [[cruz]] *Jn 12,32*; sólo después de su resurrección se manifestó en gloria, y sólo a sus discípulos *Jn 21,1.14*. b. La manifestación de Dios en Jesucristo: revelación suprema de [[dios|Dios]] —por las palabras: él, que como Hijo ha visto a Dios, explica a los hombres *Jn 1,18*; por los actos: sus [[milagros]] eran signos por los que manifestaba su gloria *2,11*. Así manifestó a los hombres el [[nombre]] de Dios, el misterio de su ser, coronando toda la revelación del AT *1,17*. En Jesús se manifestó la [[vida]] *1Jn 1,2* y el [[amor]] de Dios para con nosotros *4,9*.
+En el vocabulario joánico el tema se expresa sobre todo con el verbo manifestar. a. La manifestación sensible de Jesús: el [[jesús|Hijo]] de Dios venido en carne se hizo objeto de experiencia sensible *1Jn 3,5.8*, manifestación cuasi-secreta y paradójica que culminó en la elevación en [[cruz]] *Jn 12,32*; sólo después de su resurrección se manifestó en gloria, y sólo a sus discípulos *Jn 21,1.14*. b. La manifestación de Dios en Jesucristo: revelación suprema de [[dios|Dios]] —por las palabras: él, que como Hijo ha visto a Dios, explica a los hombres *Jn 1,18*; por los actos: sus [[milagros]] eran signos por los que manifestaba su gloria *2,11*. Así manifestó a los hombres el [[nombre]] de Dios, el misterio de su ser, coronando toda la revelación del AT *1,17*. En Jesús se manifestó la [[vida]] *1Jn 1,2* y el [[amor]] de Dios para con nosotros *4,9*.
 
 Esta revelación no fue recibida por todos: su aceptación requería una [[gracia]] interior: «Nadie viene a mí si no lo atrae el Padre que me envió» *Jn 6,44*; muchos pertenecen al [[mundo]] maligno y prefieren las tinieblas *3,19ss*. A los escogidos confió la misión de dar [[testimonio|testimonio]] de él *16,27*; por eso les enviará el Espíritu Santo para que los guíe hacia la verdad entera *16,12ss*. Todo hombre que acoja el testimonio apostólico «entra en comunión con el Padre y su Hijo, Jesucristo» *1Jn 1,3s*. A través del misterio del Verbo hecho carne la gloria divina se contempla todavía en la fe: se [[permanecer|permanece]] en Dios sin haber alcanzado el término. Día llegará en que Cristo se manifestará en gloria *2,28*; «seremos semejantes a Dios porque le veremos tal cual es» *3,2*. Tal es el objeto de la esperanza cristiana.
 

@@ -25,7 +25,7 @@ Promovió la aplicación del ideal reformador en toda la cristiandad: sínodos e
 
 ### Según Historia de la Iglesia — P. Antonio Rivero L.C. (HI)
 
-Rivero sitúa a Urbano II dentro del desarrollo de la reforma gregoriana y de la afirmación del papado medieval. En el contexto de la querella de las investiduras, el papa [[urbano_ii]] nombró arzobispo de Canterbury a [[san_anselmo]] en 1093, figura clave de la pre-escolástica (HI, cap. 24). También recibió en Roma a [[san_bruno]], fundador de la Cartuja, que abandonó su monasterio en 1090 para acudir a la llamada del papa y fundó una nueva cartuja en Calabria (HI).
+Rivero sitúa a Urbano II dentro del desarrollo de la reforma gregoriana y de la afirmación del papado medieval. En el contexto de la querella de las investiduras, el papa **urbano ii** nombró arzobispo de Canterbury a [[san_anselmo]] en 1093, figura clave de la pre-escolástica (HI, cap. 24). También recibió en Roma a [[san_bruno]], fundador de la Cartuja, que abandonó su monasterio en 1090 para acudir a la llamada del papa y fundó una nueva cartuja en Calabria (HI).
 
 ## Relaciones doctrinales
 

@@ -48,11 +48,11 @@ Las notas de las conferencias de Cuaresma y de la Vigilia Pascual subrayan que l
 
 ## Relaciones doctrinales
 
-Este concepto se vincula con [[resurrección_de_Cristo]], [[vida_eterna]], [[escatología]], [[parusía]], [[juicio_final]], [[cuerpo_glorioso]], [[cielo]], [[infierno]], [[virtud_esperanza]].
+Este concepto se vincula con [[resurrección_de_cristo]], [[vida_eterna]], [[escatología]], [[parusía]], [[juicio_final]], [[cuerpo_glorioso]], [[cielo]], [[infierno]], [[virtud_esperanza]].
 
 ## Ver también
 
-[[resurrección_de_Cristo]], [[vida_eterna]], [[escatología]], [[parusía]], [[juicio_final]], [[cuerpo_glorioso]], [[cielo]], [[virtud_esperanza]], [[muerte]]
+[[resurrección_de_cristo]], [[vida_eterna]], [[escatología]], [[parusía]], [[juicio_final]], [[cuerpo_glorioso]], [[cielo]], [[virtud_esperanza]], [[muerte]]
 
 ## Referencias
 

@@ -36,11 +36,11 @@ En el NT, Jesús gusta de retirarse a la montaña para orar *Mt 14,23 p* *Lc 6,1
 
 ## Relaciones doctrinales
 
-Se relaciona con [[sinaí]], [[sión]], [[jerusalén]], [[sermón_de_la_montaña]], [[transfiguración]], [[templo]], [[revelación]].
+Se relaciona con [[sinai]], [[sión]], [[jerusalén]], [[sermón_de_la_montaña]], [[transfiguración]], [[templo]], [[revelación]].
 
 ## Ver también
 
-[[montaña]], [[sinaí]], [[sión]], [[jerusalén]], [[transfiguración]]
+[[montaña]], [[sinai]], [[sión]], [[jerusalén]], [[transfiguración]]
 
 ## Referencias
 

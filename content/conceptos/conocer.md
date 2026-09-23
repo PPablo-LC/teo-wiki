@@ -37,11 +37,11 @@ En el **NT**, el conocimiento perfecto se da en Jesucristo. En los **Sinópticos
 
 ## Relaciones doctrinales
 
-El conocimiento bíblico se vincula con la [[revelación]], la [[fe]], la [[alianza]], la [[sabiduría]], el [[corazón]], el [[Espíritu Santo]], la [[comunión]], la [[vida eterna]], la [[verdad]] y la [[ciencia]] como don del Espíritu Santo.
+El conocimiento bíblico se vincula con la [[revelación]], la [[fe]], la [[alianza]], la [[sabiduría]], el [[corazón]], el [[espíritu_santo]], la [[comunión]], la [[vida_eterna]], la [[verdad]] y la [[ciencia]] como don del Espíritu Santo.
 
 ## Ver también
 
-[[fe]], [[revelación]], [[sabiduría]], [[verdad]], [[comunión]], [[vida_eterna]], [[corazón]], [[Espíritu Santo]]
+[[fe]], [[revelación]], [[sabiduría]], [[verdad]], [[comunión]], [[vida_eterna]], [[corazón]], [[espíritu_santo]]
 
 ## Referencias
 

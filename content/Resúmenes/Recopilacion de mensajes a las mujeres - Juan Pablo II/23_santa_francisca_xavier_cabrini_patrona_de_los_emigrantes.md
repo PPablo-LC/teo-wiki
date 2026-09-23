@@ -12,7 +12,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[santa_Francisca_Xavier_Cabrini]] — Patrona de los emigrantes, fundadora
+- [[santa_francisca_xavier_cabrini]] — Patrona de los emigrantes, fundadora
 - [[caridad]] — obra como auténtico milagro de caridad
 - [[emigración]] — campo de apostolado de gran actualidad
 - [[providencia_divina]] — confianza únicamente en la divina Providencia
@@ -25,7 +25,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 #### (Angelus 19-02-1995)
 
-El Papa señala que son numerosas las figuras femeninas que han desempeñado la misión de ser «testigos, mensajeras, maestras de paz» de modo ejemplar. Entre éstas destaca a [[santa_Francisca_Xavier_Cabrini]], Patrona de los emigrantes, un campo de apostolado de gran actualidad.
+El Papa señala que son numerosas las figuras femeninas que han desempeñado la misión de ser «testigos, mensajeras, maestras de paz» de modo ejemplar. Entre éstas destaca a [[santa_francisca_xavier_cabrini]], Patrona de los emigrantes, un campo de apostolado de gran actualidad.
 
 Nació en Lombardía a mediados del siglo pasado y se dedicó a los emigrantes en los Estados Unidos y en otros países de América, organizando escuelas, asilos, colegios, hospitales y orfanatos a pesar de contar con poquísimos medios, confiando únicamente en la [[providencia_divina]]. El amor al Corazón de Cristo la impulsaba y sostenía. Era Cristo a quien reconocía y servía en el rostro de los emigrantes.
 

@@ -18,7 +18,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[espontaneidad]] — la madura espontaneidad como fruto gradual del discernimiento
 - [[significado_esponsal_del_cuerpo]] — el sentido personal del significado del cuerpo
 - [[dignidad_del_don]] — la auténtica dignidad del don
-- [[pureza_del_corazón]] — la «pureza del corazón» y su contenido positivo
+- [[pureza_del_corazon]] — la «pureza del corazón» y su contenido positivo
 - [[conciencia]] — la recta conciencia y la natural señoría del corazón
 - [[complacencia_noble]] — la distinción entre complacencia noble y deseo sexual
 - [[emoción_profunda]] — la excitación sensual vs. la emoción profunda

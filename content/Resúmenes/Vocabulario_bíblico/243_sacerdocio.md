@@ -40,7 +40,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[muerte]] — muerte de Jesús como sacrificio que él mismo ofrece
 - [[copa]] — beber su cáliz (copa) participación en su sacerdocio
 - [[discípulo]] — todo discípulo debe tomar su cruz y dar testimonio
-- [[apostoles]] — apóstoles prolongan el sacerdocio de Jesús
+- [[apóstoles]] — apóstoles prolongan el sacerdocio de Jesús
 - [[carisma]] — reflexión de Pablo sobre apostolado y carismas
 - [[eucaristía]] — Jesús confía la Eucaristía a los Doce
 - [[mediaciones]] — mediaciones subordinadas al servicio del sacerdocio único y del pueblo
@@ -101,7 +101,7 @@ Misión comportaba exigencias altas; siempre hubo sacerdotes indignos. Profetas 
 
 ##### El ideal sacerdotal.
 
-Críticas y planes de reforma inspirados en ideal sacerdotal. Profetas exigen [[culto]] puro, fidelidad a Torah. Legistas definen [[pureza|pureza]], [[santo|santidad]] *Ez 44,15-31* *Lev 21* *10*. Experiencia: hombre abandonado a sí mismo incapaz de esta pureza. Se espera de Dios la realización del sacerdocio perfecto el [[día_del_señor|día]] de la restauración *Zac 3* y del [[juicio]] *Mal 3,1-4*. Se aguarda sacerdote fiel al lado del [[Mesías|Mesías]], hijo de David *Zac 4* *6,12s* *Jer 33,17-22*. Esperanza de dos mesías (Aarón e Israel) en Qumrán y «Testamentos de los patriarcas». Primacía del mesías sacerdotal = armonía con «pueblo-sacerdote» *Ex 19,6* *Is 61,6* *2Mac 2,17s*; en consumación tributará culto perfecto *Ez 40-48* *Is 60-62* *2,1-5*.
+Críticas y planes de reforma inspirados en ideal sacerdotal. Profetas exigen [[culto]] puro, fidelidad a Torah. Legistas definen [[pureza|pureza]], [[santo|santidad]] *Ez 44,15-31* *Lev 21* *10*. Experiencia: hombre abandonado a sí mismo incapaz de esta pureza. Se espera de Dios la realización del sacerdocio perfecto el [[día_del_señor|día]] de la restauración *Zac 3* y del [[juicio]] *Mal 3,1-4*. Se aguarda sacerdote fiel al lado del [[mesías|Mesías]], hijo de David *Zac 4* *6,12s* *Jer 33,17-22*. Esperanza de dos mesías (Aarón e Israel) en Qumrán y «Testamentos de los patriarcas». Primacía del mesías sacerdotal = armonía con «pueblo-sacerdote» *Ex 19,6* *Is 61,6* *2Mac 2,17s*; en consumación tributará culto perfecto *Ez 40-48* *Is 60-62* *2,1-5*.
 
 Otras mediaciones en AT: [[rey]] (guía temporal/espiritual), [[profeta]] (palabra original, salvación de hermanos). Sacerdote: misión religiosa en marco institucional, designado por herencia, aplicado a santuario, lleva palabra en nombre de [[tradición]], conmemora historia sagrada, enseña ley, lleva oración en liturgia, responde con bendición, mantiene continuidad religiosa.
 
@@ -113,7 +113,7 @@ Los valores del AT cobran todo su sentido en Jesús que los cumple superándolos
 
 ##### Los evangelios sinópticos.
 
-Jesús no se atribuye título de sacerdote (reservado a Leví). Comprende su quehacer muy diferente, más amplio y creador. Se llama [[Hijo|Hijo]] e [[Hijo|Hijo del hombre]]. Pero define su misión con términos sacerdotales (implícitos, figurados).
+Jesús no se atribuye título de sacerdote (reservado a Leví). Comprende su quehacer muy diferente, más amplio y creador. Se llama [[hijo|Hijo]] e [[hijo|Hijo del hombre]]. Pero define su misión con términos sacerdotales (implícitos, figurados).
 
 Claro cuando habla de su [[muerte]]: para enemigos = castigo blasfemia; discípulos = fracaso. Para él = [[sacrificio]], descrito con figuras AT: sacrificio expiatorio del [[siervo_de_yahvé|Siervo]] *Mc 10,45* *14,24* *Is 53*; sacrificio de [[alianza]] de Moisés *Mc 14,24* *Ex 24,8*; sangre en pascua = cordero pascual *Mc 14,24* *Ex 12,7.13.22s*. Acepta la muerte, la ofrece como el sacerdote la víctima; espera expiación, nueva Alianza, salvación. En una palabra: sacerdote de su propio sacrificio.
 
@@ -155,4 +155,4 @@ Los preparó para servicio de la [[palabra_de_dios|palabra]]; transmitió podere
 
 ##### 2. Los apóstoles establecen responsables que prolonguen su acción.
 
-Algunos llevan título de ancianos = origen de «presbíteros» *presbyteroi* *Act 14,23* *20,17* *Tit 1,5*. Reflexión de Pablo sobre [[apostoles|apostolado]] y [[carisma|carismas]] se orienta hacia sacerdocio de ministros. A responsables da títulos sacerdotales: «dispensadores de los misterios de Dios» *1Cor 4,1s*, «ministros de la nueva Alianza» *2Cor 3,6*; predicación apostólica = servicio litúrgico *Rom 1,9* *15,15s*. Punto de partida de explicitaciones ulteriores sobre sacerdocio ministerial. No constituye casta de privilegiados. No menoscaba sacerdocio único de Cristo ni sacerdocio de los fieles. Al servicio de ambos, es una de las [[mediaciones]] subordinadas, numerosas en el pueblo de Dios.
+Algunos llevan título de ancianos = origen de «presbíteros» *presbyteroi* *Act 14,23* *20,17* *Tit 1,5*. Reflexión de Pablo sobre [[apóstoles|apostolado]] y [[carisma|carismas]] se orienta hacia sacerdocio de ministros. A responsables da títulos sacerdotales: «dispensadores de los misterios de Dios» *1Cor 4,1s*, «ministros de la nueva Alianza» *2Cor 3,6*; predicación apostólica = servicio litúrgico *Rom 1,9* *15,15s*. Punto de partida de explicitaciones ulteriores sobre sacerdocio ministerial. No constituye casta de privilegiados. No menoscaba sacerdocio único de Cristo ni sacerdocio de los fieles. Al servicio de ambos, es una de las [[mediaciones]] subordinadas, numerosas en el pueblo de Dios.

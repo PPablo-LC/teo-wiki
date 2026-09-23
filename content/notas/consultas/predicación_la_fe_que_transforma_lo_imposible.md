@@ -58,7 +58,7 @@ deriva de su espíritu filial, debería bastar, **como bastó… al oficial real
 (4,50)» [VocTeoBib, «Milagro»]. Con una sola palabra realiza Jesús los milagros
 que son signos del Reino: Jn 4,50-53 aparece citado expresamente como ejemplo
 de la palabra creadora operando la salvación [VocTeoBib,
-«[[Palabra de Dios|palabra_de_dios]]»].
+«[[palabra_de_dios|palabra_de_dios]]»].
 
 Santo Tomás recoge esta línea con precisión: «tiene una **fe más perfecta** el
 que no exige ayudas de esta naturaleza para creer», y quienes creen sin

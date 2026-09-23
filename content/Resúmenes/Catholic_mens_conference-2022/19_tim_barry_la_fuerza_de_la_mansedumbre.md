@@ -23,7 +23,7 @@ tags: ["resumen", "mansedumbre", "ira", "templanza", "prudencia", "bienaventuran
 - [[virgen_maría]] — María al pie de la cruz, soportando los agravios con paciencia
 - [[dolor_de_maría]] — la paciencia de María ante el sufrimiento
 - [[perfección_cristiana]] — consiste en guardar el alma en mansedumbre
-- [[imitación_de_cristo]] — la meta final es imitar a Cristo
+- [[imitacion_de_cristo]] — la meta final es imitar a Cristo
 
 ## Introducción
 Presentación de Tim Barry, oficial naval retirado, católico, casado 20 años, siete hijos.
@@ -83,4 +83,4 @@ Llevado como cordero al matadero, "Padre, perdónalos"; en su resurrección: "La
 María al pie de la cruz, soportando los agravios con paciencia ([[dolor_de_maría]]).
 
 ## Mansedumbre y perfección
-Santo Tomás, citando al Eclesiástico: la perfección consiste en guardar el alma en mansedumbre; la meta es la [[imitación_de_cristo]] (la [[perfección_cristiana]]).
+Santo Tomás, citando al Eclesiástico: la perfección consiste en guardar el alma en mansedumbre; la meta es la [[imitacion_de_cristo]] (la [[perfección_cristiana]]).

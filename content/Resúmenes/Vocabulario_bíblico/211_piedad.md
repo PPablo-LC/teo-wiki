@@ -25,7 +25,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[temor]] — el culto con religión y temor
 - [[persecución]] — la constancia en las persecuciones
 - [[prueba_y_tentación]] — el auxilio de Dios en las pruebas
-- [[pastor_y_rebano]] — la piedad del pastor
+- [[pastor_y_rebaño]] — la piedad del pastor
 - [[hombre]] — el hombre nuevo
 - [[pobreza]] — la solicitud por los pobres
 
@@ -57,6 +57,6 @@ La espera de los que desean «servir a Dios en la piedad (*hosiotes*) y en la ju
 
 Esta piedad es renovada por Jesús y por el don del Espíritu. Conforme al lenguaje paulino, su culto está animado ahora por un espíritu [[hijo|filial]] para con Dios *Gal 4,6*, y su justicia es la de la [[fe]] que obra por la caridad *Gal 5,6*. Tal es la piedad (*hosiotes*) del [[hombre]] nuevo *Ef 4,24*, que Pablo opone a las prácticas vanas de una piedad falsa y completamente humana *Col 2,16-23*; por ella damos a Dios un culto agradable, con religión (*eulabeia*) y [[temor]] *Heb 12,28*.
 
-En las epístolas pastorales y en la segunda epístola de Pedro, la piedad (*eusebeia*) cuenta entre las virtudes fundamentales del [[pastor_y_rebano|pastor]], del hombre de Dios *1Tim 6,11* *Tit 1,8*. Dos caracteres se subrayan. En primer lugar, la piedad libra del amor del dinero *1Tim 6,5-10*. En segundo lugar, da fuerza para soportar las [[persecución|persecuciones]], destino de los que tienen por modelo la piedad de Cristo *2Tim 3,10ss*. Sin este desasimiento y esta constancia sólo se tiene apariencias de piedad *3,5*. A la verdadera piedad está prometido el auxilio de Dios en las [[prueba_y_tentación|pruebas]] de esta vida, y además la vida eterna *2Pe 2,9* *1Tim 4,7s*.
+En las epístolas pastorales y en la segunda epístola de Pedro, la piedad (*eusebeia*) cuenta entre las virtudes fundamentales del [[pastor_y_rebaño|pastor]], del hombre de Dios *1Tim 6,11* *Tit 1,8*. Dos caracteres se subrayan. En primer lugar, la piedad libra del amor del dinero *1Tim 6,5-10*. En segundo lugar, da fuerza para soportar las [[persecución|persecuciones]], destino de los que tienen por modelo la piedad de Cristo *2Tim 3,10ss*. Sin este desasimiento y esta constancia sólo se tiene apariencias de piedad *3,5*. A la verdadera piedad está prometido el auxilio de Dios en las [[prueba_y_tentación|pruebas]] de esta vida, y además la vida eterna *2Pe 2,9* *1Tim 4,7s*.
 
 La piedad así comprendida designa finalmente la vida cristiana con todas sus exigencias *1Tim 6,3* *Tit 1,1*: para responder al amor del que es «el único piadoso» *Ap 15,4*, el cristiano debe imitarlo y revelar así a sus hermanos el rostro de su Padre celestial.

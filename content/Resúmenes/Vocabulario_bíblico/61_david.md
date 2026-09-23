@@ -17,15 +17,15 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[alianza]] — la alianza a través del rey
 - [[rey]] — el trono de Israel como trono de David
 - [[victoria]] — las victorias de David que anuncian las del Mesías
-- [[mesias]] — el Mesías, hijo de David
-- [[uncion]] — David consagrado por la unción
-- [[bendicion]] — David, bendito de Dios
+- [[mesías]] — el Mesías, hijo de David
+- [[unción]] — David consagrado por la unción
+- [[bendición]] — David, bendito de Dios
 - [[presencia_de_dios]] — Dios asiste con su presencia a David
-- [[moises]] — David, como Moisés, pastor de Israel
-- [[pastor_y_rebano]] — David, pastor de Israel
+- [[moisés]] — David, como Moisés, pastor de Israel
+- [[pastor_y_rebaño]] — David, pastor de Israel
 - [[promesas]] — las promesas hechas a David y a los patriarcas
 - [[tierra]] — la posesión de la tierra de Canaán
-- [[jerusalen]] — la toma de Jerusalén como capital
+- [[jerusalén]] — la toma de Jerusalén como capital
 - [[unidad]] — la unidad de las tribus en torno a Jerusalén
 - [[arca]] — el arca introducida en Jerusalén
 - [[pueblo]] — todo Israel como un solo pueblo en torno a su Dios
@@ -33,7 +33,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[edificar]] — el verbo «edificar» que equivale a «hijo»
 - [[fidelidad]] — la alianza eterna y la fidelidad de Dios
 - [[prueba_y_tentación]] — la fidelidad en lo más duro de la prueba
-- [[senor]] — Jesús, Señor de David
+- [[señor]] — Jesús, Señor de David
 
 ## Contenido
 

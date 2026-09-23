@@ -16,31 +16,31 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[dios]] — el Dios que se revela con su nombre
 - [[presencia_de_dios]] — Dios presente en su nombre
-- [[adoracion]] — adorar bajo el verdadero nombre
+- [[adoración]] — adorar bajo el verdadero nombre
 - [[culto]] — invocar el nombre de Dios
 - [[prueba_y_tentación]] — no tentar a Dios usando su nombre
 - [[gloria]] — la gloria del nombre de Dios
 - [[templo]] — el templo donde habita su nombre
-- [[senor]] — el nombre de Señor
+- [[señor]] — el nombre de Señor
 - [[padres_y_padre]] — el nombre del Padre
 - [[hijo]] — el nombre del Hijo
 - [[santo]] — santificar el nombre
 - [[poder]] — el poder en el nombre
 - [[alabanza]] — alabar el nombre
-- [[confesion]] — confesar que Jesús es Señor
+- [[confesión]] — confesar que Jesús es Señor
 - [[bautismo]] — bautizar en el nombre
-- [[jesus]] — Jesús, el que salva
+- [[jesús]] — Jesús, el que salva
 - [[pedro]] — Pedro, nombre nuevo
-- [[maria]] — María, nombre que magnifica
+- [[maría]] — María, nombre que magnifica
 - [[juan_bautista]] — Juan, nombre dado por Dios
 - [[diestra]] — sentado a la diestra
 - [[milagro]] — milagros en el nombre
 - [[enfermedad_y_curación]] — curar en el nombre
-- [[pastor_y_rebano]] — el buen pastor conoce a cada oveja por su nombre
+- [[pastor_y_rebaño]] — el buen pastor conoce a cada oveja por su nombre
 - [[libro]] — el libro de la vida
 - [[nuevo]] — el nombre nuevo
 - [[orgullo]] — con intrepidez y orgullo
-- [[senor]] — Jesús es Señor
+- [[señor]] — Jesús es Señor
 
 ## Contenido
 
@@ -60,7 +60,7 @@ Entre los israelitas, [[dios|Dios]] mismo se digna nombrarse. Anteriormente el D
 
 ### Invocar el nombre de Dios
 
-Si Dios reveló su nombre, fue para que se le [[adoracion|adorase]] bajo este verdadero nombre, el único auténtico *Ex 3,15*. Será por tanto la divisa de reunión de las tribus durante la conquista y después de ella *Jue 7,20*. Es el nombre del único Dios verdadero, dirán más tarde los profetas: «Antes de mí ningún Dios fue formado, ni lo habrá después de mí. Yo, yo soy Yahveh» *Is 43,10s*.
+Si Dios reveló su nombre, fue para que se le [[adoración|adorase]] bajo este verdadero nombre, el único auténtico *Ex 3,15*. Será por tanto la divisa de reunión de las tribus durante la conquista y después de ella *Jue 7,20*. Es el nombre del único Dios verdadero, dirán más tarde los profetas: «Antes de mí ningún Dios fue formado, ni lo habrá después de mí. Yo, yo soy Yahveh» *Is 43,10s*.
 
 Es, pues, el único nombre que estará autorizado en los labios de Israel *Ex 23,13*, el único invocado en Jerusalén cuando David haya hecho de la ciudad la capital religiosa, pues «Yahveh es celoso de su nombre» *Ex 34,14*. «Invocar el nombre de Yahveh» es propiamente dar [[culto|culto]] a Dios, orarle: se grita su nombre *Is 12,4*, se le llama *Sal 28,1* *Is 41,25*, se hace llamamiento a él *Sal 99,6*. Pero si Dios confió así su nombre propio a Israel, éste, en cambio, no debe «pronunciar en vano el nombre de Yahveh» *Ex 20,7* *Dt 5,11*: en efecto, no está a su disposición, de modo que abuse de él y acabe por [[prueba_y_tentación|tentar]] a Dios: esto no sería ya servir a Dios, sino servirse de él para sus propios fines.
 
@@ -68,7 +68,7 @@ Es, pues, el único nombre que estará autorizado en los labios de Israel *Ex 23
 
 Dios se identifica de tal manera con su nombre que hablando de él se designa a sí mismo. Este nombre es amado *Sal 5,12*, alabado *Sal 7,18*, santificado *Is 29,23*. Nombre temeroso *Dt 28,58*, eterno *Sal 135,13*. «Por su gran nombre» *Jos 7,9*, a causa de su nombre *Ez 20,9* obra en favor de Israel; esto quiere decir: por su [[gloria|gloria]], para ser reconocido como grande y santo.
 
-Para marcar mejor la trascendencia del Dios inaccesible y misterioso, basta el nombre para designar a Dios. Así como para evitar una localización indigna de Dios, el [[templo|templo]] es el lugar donde Dios «ha hecho habitar su nombre» *Dt 12,5*, allí se va a su presencia *Ex 34,23*, a este templo que «lleva su nombre» *Jer 7,10.14*. Es el nombre que, de lejos, va a pasar a las naciones por la criba de la destrucción *Is 30,27s*. Finalmente, en un texto tardío *Lev 24,11-16*, «el nombre» designa a Yahveh sin más precisiones, como lo hará más tarde el lenguaje rabínico. En efecto, por un respeto más y más acentuado, el judaísmo tenderá a no osar ya pronunciar el nombre revelado en el Horeb. En la lectura será reemplazado por Dios (Elohím) o más frecuentemente Adonai, «mi Señor». Así, los judíos que traduzcan los libros sagrados del hebreo al griego no transcribirán nunca el nombre de Yahveh, sino lo expresarán por *kyrios*, [[senor|señor]]. Al paso que el nombre de Yahveh, bajo la forma de Yau u otras, pasa a un uso mágico o profano, el nombre de Señor recibiría su consagración en el NT.
+Para marcar mejor la trascendencia del Dios inaccesible y misterioso, basta el nombre para designar a Dios. Así como para evitar una localización indigna de Dios, el [[templo|templo]] es el lugar donde Dios «ha hecho habitar su nombre» *Dt 12,5*, allí se va a su presencia *Ex 34,23*, a este templo que «lleva su nombre» *Jer 7,10.14*. Es el nombre que, de lejos, va a pasar a las naciones por la criba de la destrucción *Is 30,27s*. Finalmente, en un texto tardío *Lev 24,11-16*, «el nombre» designa a Yahveh sin más precisiones, como lo hará más tarde el lenguaje rabínico. En efecto, por un respeto más y más acentuado, el judaísmo tenderá a no osar ya pronunciar el nombre revelado en el Horeb. En la lectura será reemplazado por Dios (Elohím) o más frecuentemente Adonai, «mi Señor». Así, los judíos que traduzcan los libros sagrados del hebreo al griego no transcribirán nunca el nombre de Yahveh, sino lo expresarán por *kyrios*, [[señor|señor]]. Al paso que el nombre de Yahveh, bajo la forma de Yau u otras, pasa a un uso mágico o profano, el nombre de Señor recibiría su consagración en el NT.
 
 ## NT
 
@@ -80,15 +80,15 @@ Jesús pide al Padre que glorifique su nombre *Jn 12,28* e invita a sus discípu
 
 ### El nombre de Jesús
 
-Los discípulos, recurriendo al nombre de Jesús, [[enfermedad_y_curación|curan]] a los enfermos *Act 3,6* *9,34*, expulsan a los demonios *Mc 9,38* *16,17* *Lc 10,17* *Act 16,18* *19,13*, realizando toda clase de [[milagro|milagros]] *Mt 7,22* *Act 4,30*. [[jesus|Jesús]] aparece así tal como su nombre lo indica: el que salva *Mt 1,21-25* devolviendo la salud a los enfermos *Act 3,16*, pero también y sobre todo procurando la salvación eterna a los que creen en él *Act 4,7-12* *5,31* *13,23*.
+Los discípulos, recurriendo al nombre de Jesús, [[enfermedad_y_curación|curan]] a los enfermos *Act 3,6* *9,34*, expulsan a los demonios *Mc 9,38* *16,17* *Lc 10,17* *Act 16,18* *19,13*, realizando toda clase de [[milagro|milagros]] *Mt 7,22* *Act 4,30*. [[jesús|Jesús]] aparece así tal como su nombre lo indica: el que salva *Mt 1,21-25* devolviendo la salud a los enfermos *Act 3,16*, pero también y sobre todo procurando la salvación eterna a los que creen en él *Act 4,7-12* *5,31* *13,23*.
 
 ### El nombre del Señor
 
-Dios, resucitando a Jesús y haciéndolo sentar a su [[diestra|diestra]], le dio el nombre que está por encima de todo nombre *Flp 2,9* *Ef 1,20s*, un nombre nuevo *Ap 3,12*, que no es distinto del de Dios *14,1* *22,3s* y participa en su misterio *19,12*. Este nombre inefable halla, no obstante, su traducción en la apelación de [[senor|Señor]], que conviene a Jesús resucitado con el mismo título que a Dios *Flp 2,10s*=*Is 45,23* *Ap 19,13.16*=*Dt 10,17*, y en la designación de Hijo, que en este sentido no comparte con ninguna criatura *Heb 1,3ss* *5,5* *Act 13,33* *Rom 1,4*, según *Sal 2,7*.
+Dios, resucitando a Jesús y haciéndolo sentar a su [[diestra|diestra]], le dio el nombre que está por encima de todo nombre *Flp 2,9* *Ef 1,20s*, un nombre nuevo *Ap 3,12*, que no es distinto del de Dios *14,1* *22,3s* y participa en su misterio *19,12*. Este nombre inefable halla, no obstante, su traducción en la apelación de [[señor|Señor]], que conviene a Jesús resucitado con el mismo título que a Dios *Flp 2,10s*=*Is 45,23* *Ap 19,13.16*=*Dt 10,17*, y en la designación de Hijo, que en este sentido no comparte con ninguna criatura *Heb 1,3ss* *5,5* *Act 13,33* *Rom 1,4*, según *Sal 2,7*.
 
 Los primeros cristianos no vacilan en referir a Jesús una de las apelaciones más características del judaísmo para hablar de Dios: se declara a los apóstoles sumamente gozosos de haber sido «juzgados dignos de sufrir por el nombre» *Act 5,41*; se cita a misioneros que «se pusieron en camino por el nombre» *3Jn 1,7*.
 
-a. *La fe cristiana* consiste en «creer que Dios resucitó a Jesús de entre los muertos», en «[[confesion|confesar]] que Jesús es [[senor|Señor]]», en «invocar el nombre del Señor»: estas tres expresiones son prácticamente equivalentes *Rom 10,9-13*. Los primeros cristianos se designan naturalmente como «los que invocan el nombre del Señor» *Act 9,14.21* *1Cor 1,2* *2Tim 2,22* *Act 2,21*=*Jl 3,5*, significando así que reconocen a Jesús por Señor *Act 2,36*. La profesión de fe se impone particularmente en el momento del [[bautismo|bautismo]], que se confiere en nombre del Señor Jesús *Act 8,16* *19,5* *1Cor 6,11*, o también en nombre de Cristo *Gal 3,27*, de Cristo Jesús *Rom 6,3*. El neófito invoca el nombre del Señor *Act 22,16*, el nombre del Señor se invoca sobre él *Sant 2,7*; se halla así bajo el poder de aquél cuyo señorío reconoce.
+a. *La fe cristiana* consiste en «creer que Dios resucitó a Jesús de entre los muertos», en «[[confesión|confesar]] que Jesús es [[señor|Señor]]», en «invocar el nombre del Señor»: estas tres expresiones son prácticamente equivalentes *Rom 10,9-13*. Los primeros cristianos se designan naturalmente como «los que invocan el nombre del Señor» *Act 9,14.21* *1Cor 1,2* *2Tim 2,22* *Act 2,21*=*Jl 3,5*, significando así que reconocen a Jesús por Señor *Act 2,36*. La profesión de fe se impone particularmente en el momento del [[bautismo|bautismo]], que se confiere en nombre del Señor Jesús *Act 8,16* *19,5* *1Cor 6,11*, o también en nombre de Cristo *Gal 3,27*, de Cristo Jesús *Rom 6,3*. El neófito invoca el nombre del Señor *Act 22,16*, el nombre del Señor se invoca sobre él *Sant 2,7*; se halla así bajo el poder de aquél cuyo señorío reconoce.
 
 En Jn, el objeto propio de la fe cristiana no es tanto el nombre del Señor cuanto el del [[hijo|Hijo]]: para poseer la vida importa creer en el nombre del Hijo único de Dios *Jn 3,17s* *1,12* *2,23* *20,30s* *1Jn 3,23* *5,5.10.13*, es decir, adherirse a la persona de Jesús reconociendo que es el Hijo de Dios, que «Hijo de Dios» es el nombre que expresa su verdadero ser.
 
@@ -98,6 +98,6 @@ c. *La vida cristiana* está totalmente impregnada por la fe: los cristianos se 
 
 ### Otros nombres
 
-Cada ser lleva el nombre que corresponde al papel que le ha sido asignado. Cuando su misión es divina, su nombre viene del cielo, como el de [[juan_bautista|Juan]] *Lc 1,13.63*. Aun dado por los hombres, el nombre es signo de una guía por parte de Dios: Zacarías *1,5.72*: «Dios se ha acordado», Isabel *1,5.73*: «el juramento que él había jurado», [[maria|María]] *1,27.46.52*: «magnificada, ensalzada». Al dar Jesús a Simón el nombre de [[pedro|Pedro]], muestra el papel que le confía y la nueva personalidad que crea en él *Mt 16,18*.
+Cada ser lleva el nombre que corresponde al papel que le ha sido asignado. Cuando su misión es divina, su nombre viene del cielo, como el de [[juan_bautista|Juan]] *Lc 1,13.63*. Aun dado por los hombres, el nombre es signo de una guía por parte de Dios: Zacarías *1,5.72*: «Dios se ha acordado», Isabel *1,5.73*: «el juramento que él había jurado», [[maría|María]] *1,27.46.52*: «magnificada, ensalzada». Al dar Jesús a Simón el nombre de [[pedro|Pedro]], muestra el papel que le confía y la nueva personalidad que crea en él *Mt 16,18*.
 
-El buen [[pastor_y_rebano|pastor]] conoce a cada una de sus ovejas por su nombre *Jn 10,3*. Los nombres de los elegidos están inscritos en el cielo *Lc 10,20*, en el [[libro|libro]] de la vida *Flp 4,5* *Ap 3,5* *13,8* *17,8*. Entrando en la gloria recibirán un nombre [[nuevo|nuevo]] e inefable *Ap 2,17*; participando de la existencia de Dios llevarán el nombre del Padre y el de su Hijo *3,12* *14,1*; Dios los llamará sus hijos *Mt 5,9*, pues lo serán en realidad *1Jn 3,1*.
+El buen [[pastor_y_rebaño|pastor]] conoce a cada una de sus ovejas por su nombre *Jn 10,3*. Los nombres de los elegidos están inscritos en el cielo *Lc 10,20*, en el [[libro|libro]] de la vida *Flp 4,5* *Ap 3,5* *13,8* *17,8*. Entrando en la gloria recibirán un nombre [[nuevo|nuevo]] e inefable *Ap 2,17*; participando de la existencia de Dios llevarán el nombre del Padre y el de su Hijo *3,12* *14,1*; Dios los llamará sus hijos *Mt 5,9*, pues lo serán en realidad *1Jn 3,1*.

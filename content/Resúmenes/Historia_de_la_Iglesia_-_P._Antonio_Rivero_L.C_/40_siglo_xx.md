@@ -17,7 +17,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c", "siglo_xx"]
 - [[guerra_cristera]] — Guerra de los católicos mexicanos por la defensa de su fe contra la persecución de Calles.
 - [[guerra_civil_española]] — Contienda fratricida de 1936-1939, de fuerte componente religioso, con la persecución de la Iglesia.
 - [[concilio_vaticano_ii]] — Concilio pastoral convocado por Juan XXIII (1962-1965), el gran evento eclesial del siglo.
-- [[teología_de_la_liberación]] — Corriente de inspiración marxista que redujo la salvación a la liberación política y social.
+- [[teologia_de_la_liberacion]] — Corriente de inspiración marxista que redujo la salvación a la liberación política y social.
 - [[juan_pablo_ii]] — Papa polaco, «papa de la certidumbre», que llevó la Iglesia al tercer milenio.
 - [[pío_xii]] — Papa que salvó a miles de judíos durante la guerra, protagonista de un apéndice sobre sus «silencios».
 - [[modernismo]] — Error teológico condenado por san Pío X, «encrucijada de todas las herejías».
@@ -101,7 +101,7 @@ La intuición fue de Juan XXIII («abrir las ventanas») con finalidad pastoral 
 
 ### Consecuencias imprevistas (por desviada interpretación, no por el concilio)
 
-1) Tensiones: la contestación del 68, de base marxista y no soviética, que desembocó en ateísmo, hedonismo y rechazo de dogmas esenciales. 2) Crisis sacerdotal y religiosa: deserciones masivas, descenso de vocaciones y secularismo; Pablo VI lamentó que «de la autocrítica se pasara a la autodestrucción». 3) Regulación de la natalidad: Pablo VI fue fiel a la doctrina tradicional en Humanae vitae (1968), rechazando los métodos artificiales que separan las dimensiones unitiva y procreativa del acto conyugal. 4) Cristianos por el socialismo y [[teología_de_la_liberación]]: nació en 1968 (Camilo Torres, Gustavo Gutiérrez) reduciendo la liberación a lo político-social mediante la lucha de clases; la Iglesia la valoró en cuanto a su denuncia social pero la condenó por marxista: la liberación cristiana es ante todo del pecado («enfrentamiento entre la teología de los rojos y de los verdes», o teología verde que cae en panteísmo). 5) Movimientos pseudorreligiosos y Nueva Era: sectas, esoterismo, ocultismo y la Nueva Era (era de Acuario), con su relativismo moral y su sincretismo que niega la unicidad salvadora de Cristo.
+1) Tensiones: la contestación del 68, de base marxista y no soviética, que desembocó en ateísmo, hedonismo y rechazo de dogmas esenciales. 2) Crisis sacerdotal y religiosa: deserciones masivas, descenso de vocaciones y secularismo; Pablo VI lamentó que «de la autocrítica se pasara a la autodestrucción». 3) Regulación de la natalidad: Pablo VI fue fiel a la doctrina tradicional en Humanae vitae (1968), rechazando los métodos artificiales que separan las dimensiones unitiva y procreativa del acto conyugal. 4) Cristianos por el socialismo y [[teologia_de_la_liberacion]]: nació en 1968 (Camilo Torres, Gustavo Gutiérrez) reduciendo la liberación a lo político-social mediante la lucha de clases; la Iglesia la valoró en cuanto a su denuncia social pero la condenó por marxista: la liberación cristiana es ante todo del pecado («enfrentamiento entre la teología de los rojos y de los verdes», o teología verde que cae en panteísmo). 5) Movimientos pseudorreligiosos y Nueva Era: sectas, esoterismo, ocultismo y la Nueva Era (era de Acuario), con su relativismo moral y su sincretismo que niega la unicidad salvadora de Cristo.
 
 ### Frutos positivos del concilio
 

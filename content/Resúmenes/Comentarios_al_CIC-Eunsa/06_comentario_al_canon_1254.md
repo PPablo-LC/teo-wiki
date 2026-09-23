@@ -18,7 +18,7 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "patrimonio_eclesiástico", "
 - [[derecho_canónico]] — Derecho propio de la Iglesia católica
 - [[potestad_pontificia]] — Autoridad suprema del Romano Pontífice sobre los bienes de la Iglesia
 - [[ius_natumm]] — Derecho nativo de la Iglesia sobre sus bienes temporales
-- [[Concilio_Vaticano_II]] — Concilio que renovó la eclesiología y la disciplina patrimonial
+- [[concilio_vaticano_ii]] — Concilio que renovó la eclesiología y la disciplina patrimonial
 
 ## Comentario al Canon 1254
 

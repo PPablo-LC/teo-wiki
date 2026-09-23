@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[muerte]] — la muerte como calamidad
 - [[castigos]] — la calamidad emparentada con el castigo
 - [[pecado]] — el pecado como origen último de la calamidad
-- [[creacion]] — la calamidad afectando a la creación entera
+- [[creación]] — la calamidad afectando a la creación entera
 - [[satanás]] — Satán como rostro que se revela en la calamidad
 - [[prueba_y_tentación]] — el mundo sometido a la prueba
 - [[juicio]] — la calamidad como pieza del gran juicio
@@ -30,11 +30,11 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[liberación_y_libertad]] — la calamidad como inicio de la liberación
 - [[victoria]] — la calamidad como punto de partida de la victoria de Cristo
 - [[cruz]] — el amor de Dios actuando en la cruz cambiando el sentido de la calamidad
-- [[idolos]] — la tentación de volverse hacia ídolos ante la calamidad
+- [[ídolos]] — la tentación de volverse hacia ídolos ante la calamidad
 - [[penitencia_y_conversión]] — la calamidad como invitación a la conversión
 - [[anticristo]] — la calamidad acompañando el desenvolvimiento del misterio del anticristo
 - [[mundo]] — la calamidad como indicio del alumbramiento de un mundo nuevo
-- [[espiritu]] — el Espíritu encaminando la creación hacia la redención total
+- [[espíritu]] — el Espíritu encaminando la creación hacia la redención total
 
 ## Contenido
 

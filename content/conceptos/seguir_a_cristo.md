@@ -47,10 +47,10 @@ El verbo griego *akolouthein* significa «seguir», «acompañar». En los Evang
 
 ## Relaciones doctrinales
 
-Se vincula con el [[discipulado]], la [[imitacion_de_cristo]], la [[vocacion]], la [[conversion]], la [[perfeccion_cristiana]], la [[obediencia_de_cristo]] y la [[kinesis]].
+Se vincula con el [[discipulado]], la [[imitacion_de_cristo]], la [[vocación]], la [[conversión]], la [[perfeccion_cristiana]], la [[obediencia_de_cristo]] y la [[kinesis]].
 
 ## Ver también
-[[discipulado]], [[imitacion_de_cristo]], [[vocacion]], [[conversion]]
+[[discipulado]], [[imitacion_de_cristo]], [[vocación]], [[conversión]]
 
 ## Referencias
 - [CEC §1694]

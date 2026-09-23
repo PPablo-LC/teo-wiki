@@ -43,11 +43,11 @@ Los bienes de la dignidad humana, la fraternidad y la libertad, purificados y tr
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium presenta el [[reino_de_dios]] como estrechamente unido al misterio de la Iglesia. Cristo inauguró en la tierra «el reino de los cielos» y la Iglesia o reino de Cristo, «presente actualmente en misterio, por el poder de Dios crece visiblemente en el mundo» [ConcVatII, LG §3]. Jesús dio comienzo a la Iglesia predicando la buena nueva de la llegada del [[reino_de_dios]]; este reino «brilla ante los hombres en la palabra, en las obras y en la presencia de Cristo» [ConcVatII, LG §5].
+Lumen Gentium presenta el **reino de dios** como estrechamente unido al misterio de la Iglesia. Cristo inauguró en la tierra «el reino de los cielos» y la Iglesia o reino de Cristo, «presente actualmente en misterio, por el poder de Dios crece visiblemente en el mundo» [ConcVatII, LG §3]. Jesús dio comienzo a la Iglesia predicando la buena nueva de la llegada del **reino de dios**; este reino «brilla ante los hombres en la palabra, en las obras y en la presencia de Cristo» [ConcVatII, LG §5].
 
 La Iglesia «recibe la misión de anunciar el reino de Cristo y de Dios e instaurarlo en todos los pueblos, y constituye en la tierra el germen y el principio de ese reino» [ConcVatII, LG §5]. «Mientras ella paulatinamente va creciendo, anhela simultáneamente el reino consumado y con todas sus fuerzas espera y ansía unirse con su Rey en la gloria» [ConcVatII, LG §5].
 
-El Pueblo de Dios tiene como fin «dilatar más y más el [[reino_de_dios]], incoado por el mismo Dios en la tierra, hasta que al final de los tiempos El mismo también lo consume» [ConcVatII, LG §9]. Cristo desea dilatar su reino también por medio de los fieles laicos: «reino de verdad y de vida, reino de santidad y de gracia, reino de justicia, de amor y de paz» [ConcVatII, LG §36].
+El Pueblo de Dios tiene como fin «dilatar más y más el **reino de dios**, incoado por el mismo Dios en la tierra, hasta que al final de los tiempos El mismo también lo consume» [ConcVatII, LG §9]. Cristo desea dilatar su reino también por medio de los fieles laicos: «reino de verdad y de vida, reino de santidad y de gracia, reino de justicia, de amor y de paz» [ConcVatII, LG §36].
 ### Según Benedicto XVI (JdN_I)
 
 Benedicto XVI trata el Reino de Dios como la categoría fundamental del mensaje de Jesús, particularmente en el capítulo 1 de *JdN_I* dedicado a las Bienaventuranzas. El Reino no es una realidad futura lejana, sino que irrumpe ya en la persona y las palabras de Jesús: «Con Jesús, entra alegría en la tribulación» (JdN_I). Las Bienaventuranzas son la «carta magna» del Reino porque en ellas se invierten los valores del mundo desde la perspectiva de Dios.
@@ -84,7 +84,7 @@ La Vida de Jesús (VJ) expone el Reino de Dios como núcleo de la predicación d
 
 ### Según la Catequesis de Juan Pablo II (CrSJP)
 
-En la catequesis del 4 de noviembre de 1987, JPII desarrolla la instauración del [[reino_de_dios]] por Jesucristo como realización de las promesas del Antiguo Testamento (Dn 2,44; Sal 46/47; Sal 144/145). Jesús proclama desde el comienzo: «Cumplido es el tiempo, y el reino de Dios está cercano» (Mc 1,15), dando una nueva dirección a la esperanza escatológica de Israel: el Reino comienza ya en la historia, aunque se proyecta hacia un cumplimiento final (CrSJP, cateq. 4-XI-1987, n. 3).
+En la catequesis del 4 de noviembre de 1987, JPII desarrolla la instauración del **reino de dios** por Jesucristo como realización de las promesas del Antiguo Testamento (Dn 2,44; Sal 46/47; Sal 144/145). Jesús proclama desde el comienzo: «Cumplido es el tiempo, y el reino de Dios está cercano» (Mc 1,15), dando una nueva dirección a la esperanza escatológica de Israel: el Reino comienza ya en la historia, aunque se proyecta hacia un cumplimiento final (CrSJP, cateq. 4-XI-1987, n. 3).
 
 Jesús no solo adoctrina sobre el Reino, sino que lo instaura con poder divino. Declara: «Me ha sido dado todo poder en el cielo y en la tierra» (Mt 28,18). Expulsa demonios «por el dedo de Dios» como señal de que el Reino ha llegado (Lc 11,20). Habla del Reino como realidad viva que fermenta toda la masa humana (parábola de la levadura, Mt 13,33). Transmite el Reino a los Apóstoles: «Yo dispongo del reino a favor vuestro, como mi Padre ha dispuesto de él a favor mío» (Lc 22,29), vinculándolo al poder de perdonar pecados y al [[misterio_pascual]] (CrSJP, cateq. 4-XI-1987, nn. 5-9).
 

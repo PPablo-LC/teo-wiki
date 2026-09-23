@@ -13,7 +13,7 @@ timestamp: 2026-07-01
 
 ## Definición
 
-**Hijo de David** es un título mesiánico aplicado a [[Jesucristo]] que expresa su descendencia del rey David y su identidad como el [[mesías]] esperado, conforme a las promesas del Antiguo Testamento.
+**Hijo de David** es un título mesiánico aplicado a [[jesucristo]] que expresa su descendencia del rey David y su identidad como el [[mesías]] esperado, conforme a las promesas del Antiguo Testamento.
 
 ## Desarrollo doctrinal
 

@@ -17,14 +17,14 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[agua]] — el árbol en el desierto indica los lugares donde el agua permite la vida
 - [[fruto]] — árboles buenos y malos que se reconocen por sus frutos
 - [[juicio]] — los hombres en el momento del juicio de Dios comparados con árboles
-- [[paraiso]] — el árbol de la vida en el Paraíso primitivo
+- [[paraíso]] — el árbol de la vida en el Paraíso primitivo
 - [[vida]] — el árbol cuyo fruto comunica la inmortalidad
-- [[sabiduria]] — la sabiduría como árbol de la vida
+- [[sabiduría]] — la sabiduría como árbol de la vida
 - [[sombra]] — los imperios humanos que cobijan bajo su sombra a tantos pueblos
 - [[soberbia]] — la grandeza ficticia de los imperios fundada en la soberbia
 - [[reino_de_dios]] — el reino nacido de una humilde semilla que se convierte en gran árbol
 - [[cruz]] — el árbol de la cruz como leño que salva
-- [[maldicion]] — el árbol como patíbulo para los condenados a muerte
+- [[maldición]] — el árbol como patíbulo para los condenados a muerte
 - [[tierra]] — la tierra santa descrita como paraíso con árboles maravillosos
 
 ## Contenido

@@ -50,18 +50,18 @@ Solo son enviadas las personas que proceden (el Padre nunca): las misiones visib
 
 ## Distinciones importantes
 
-- **Misión trinitaria vs. misión eclesiológica**: la primera es el envío del Hijo y del Espíritu Santo (Dogmática trinitaria); la segunda es el envío de la Iglesia a evangelizar (Eclesiología). La [[mision|misión eclesiológica]] participa de la misión trinitaria.
+- **Misión trinitaria vs. misión eclesiológica**: la primera es el envío del Hijo y del Espíritu Santo (Dogmática trinitaria); la segunda es el envío de la Iglesia a evangelizar (Eclesiología). La [[misión|misión eclesiológica]] participa de la misión trinitaria.
 - **Misión visible vs. invisible**: la visible implica signos sensibles (Encarnación, paloma, lenguas); la invisible es la inhabitación por la gracia
 - **Misión del Hijo vs. misión del Espíritu Santo**: el Hijo es enviado como autor de la santificación; el Espíritu Santo como don de la santificación
 - **Misión ≠ procesión eterna**: la misión añade a la procesión eterna un efecto temporal (nuevo modo de presencia)
 
 ## Relaciones doctrinales
 
-Las misiones divinas presuponen las [[procesiones_divinas]] y las [[relaciones_trinitarias]], se fundan en los [[actos_nocionales]], se ordenan a la [[inhabitación_trinitaria]] en el alma, culminan en la [[encarnación]] y [[pentecostés]], y son el fundamento de la [[mision|misión eclesiológica]] de la Iglesia.
+Las misiones divinas presuponen las [[procesiones_divinas]] y las [[relaciones_trinitarias]], se fundan en los [[actos_nocionales]], se ordenan a la [[inhabitación_trinitaria]] en el alma, culminan en la [[encarnación]] y [[pentecostés]], y son el fundamento de la [[misión|misión eclesiológica]] de la Iglesia.
 
 ## Ver también
 
-[[trinidad]], [[procesiones_divinas]], [[actos_nocionales]], [[persona_del_hijo]], [[espíritu_santo]], [[inhabitación_trinitaria]], [[encarnación]], [[pentecostés]], [[gracia_santificante]], [[mision]]
+[[trinidad]], [[procesiones_divinas]], [[actos_nocionales]], [[persona_del_hijo]], [[espíritu_santo]], [[inhabitación_trinitaria]], [[encarnación]], [[pentecostés]], [[gracia_santificante]], [[misión]]
 
 ## Referencias
 

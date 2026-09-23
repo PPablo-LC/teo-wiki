@@ -100,13 +100,13 @@ En el Issue 4 sobre el cine, Bishop Robert Barron desarrolla la *via pulchritudi
 - **[[belleza]]**: La belleza es una de las transcendentalias (junto con verdad y bondad) que apuntan a Dios.
 - **[[encarnación]]**: El arte encarnacional une lo espiritual y lo físico, reflejando la unión de divino y humano en Cristo.
 - **[[evangelización]]**: El arte es una herramienta privilegiada de evangelización, especialmente en culturas postmodernas.
-- **[[via_pulchritudinis]]**: La vía de la belleza como camino teológico.
+- **[[vía_pulchritudinis]]**: La vía de la belleza como camino teológico.
 - **[[juan_pablo_ii]]**: Desarrolló la teología del arte en la Carta a los artistas.
 - **[[benedicto_xvi]]**: Profundizó la *via pulchritudinis* como acceso a la trascendencia.
 
 ## Ver también
 
-[[belleza]], [[encarnación]], [[evangelización]], [[via_pulchritudinis]], [[juan_pablo_ii]], [[benedicto_xvi]], [[van_gogh]], [[cine]], [[logos_espermatikos]]
+[[belleza]], [[encarnación]], [[evangelización]], [[vía_pulchritudinis]], [[juan_pablo_ii]], [[benedicto_xvi]], [[van_gogh]], [[cine]], [[logos_espermatikos]]
 
 ## Referencias
 

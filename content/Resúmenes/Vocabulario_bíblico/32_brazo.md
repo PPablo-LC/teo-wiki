@@ -15,13 +15,13 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[poder]] — el brazo como signo de poder
-- [[creacion]] — la mano de Dios haciendo el cielo y la tierra
+- [[creación]] — la mano de Dios haciendo el cielo y la tierra
 - [[profeta]] — la mano de Dios tomando posesión del profeta
 - [[carne]] — el «brazo de carne» comparado con el brazo de Dios
-- [[bendicion]] — el gesto de la mano expresando la bendición
-- [[adoracion]] — las manos expresando la oración y la adoración
-- [[oracion]] — las manos como instrumento de oración
-- [[imposicion_de_manos]] — los apóstoles comunicando el Espíritu por imposición de manos
+- [[bendición]] — el gesto de la mano expresando la bendición
+- [[adoración]] — las manos expresando la oración y la adoración
+- [[oración]] — las manos como instrumento de oración
+- [[imposición_de_manos]] — los apóstoles comunicando el Espíritu por imposición de manos
 
 ## Contenido
 

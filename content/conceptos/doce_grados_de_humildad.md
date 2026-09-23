@@ -85,11 +85,11 @@ Los doce grados se distribuyen en tres grupos, según Santo Tomás:
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[humildad]], la [[soberbia]] (su opuesto), la [[obediencia]], el [[silencio]], la [[paciencia]], la [[contricion]], el [[temor_de_Dios]], el [[amor_a_Dios]], la [[paciencia]], el [[Espíritu_Santo]] y la [[oración]].
+Se relaciona con la [[humildad]], la [[soberbia]] (su opuesto), la [[obediencia]], el [[silencio]], la [[paciencia]], la [[contrición]], el [[temor_de_dios]], el [[amor_a_dios]], la [[paciencia]], el [[espíritu_santo]] y la [[oración]].
 
 ## Ver también
 
-[[humildad]], [[soberbia]], [[obediencia]], [[silencio]], [[paciencia]], [[temor_de_Dios]], [[amor_a_Dios]], [[Espíritu_Santo]], [[vida_monastica]]
+[[humildad]], [[soberbia]], [[obediencia]], [[silencio]], [[paciencia]], [[temor_de_dios]], [[amor_a_dios]], [[espíritu_santo]], [[vida_monastica]]
 
 ## Referencias
 

@@ -48,11 +48,11 @@ En las conferencias de Alfonso Durán sobre la Santa Misa se destaca que la entr
 
 ## Relaciones doctrinales
 
-Este concepto se vincula con [[abandono_en_Dios]], [[obediencia]], [[humildad]], [[fe]], [[caridad]], [[perfección_cristiana]], [[consagración]], [[Providencia_divina]], [[voluntad_de_Dios]], [[imitación_de_Cristo]].
+Este concepto se vincula con [[abandono_en_dios]], [[obediencia]], [[humildad]], [[fe]], [[caridad]], [[perfección_cristiana]], [[consagración]], [[providencia_divina]], [[voluntad_de_dios]], [[imitacion_de_cristo]].
 
 ## Ver también
 
-[[abandono_en_Dios]], [[obediencia]], [[humildad]], [[fe]], [[caridad]], [[perfección_cristiana]], [[consagración]], [[Providencia_divina]], [[oblación]]
+[[abandono_en_dios]], [[obediencia]], [[humildad]], [[fe]], [[caridad]], [[perfección_cristiana]], [[consagración]], [[providencia_divina]], [[oblación]]
 
 ## Referencias
 

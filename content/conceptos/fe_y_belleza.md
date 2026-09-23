@@ -61,14 +61,14 @@ Benedicto XVI desarrolló la *via pulchritudinis* como una de las tres vías de 
 ## Relaciones doctrinales
 
 - **[[arte_y_fe]]**: La fe y la belleza se encuentran en el arte como expresión de la verdad divina.
-- **[[via_pulchritudinis]]**: La vía de la belleza como camino teológico hacia Dios.
+- **[[vía_pulchritudinis]]**: La vía de la belleza como camino teológico hacia Dios.
 - **[[encarnación]]**: La Encarnación es el acto supremo de belleza divina: Dios se hace visible en Cristo.
 - **[[evangelización]]**: La belleza es herramienta privilegiada de evangelización en culturas postmodernas.
 - **[[esperanza]]**: La belleza despierta la esperanza al revelar que el mundo no está desprovisto de sentido.
 
 ## Ver también
 
-[[arte_y_fe]], [[via_pulchritudinis]], [[encarnación]], [[evangelización]], [[esperanza]], [[cine]]
+[[arte_y_fe]], [[vía_pulchritudinis]], [[encarnación]], [[evangelización]], [[esperanza]], [[cine]]
 
 ## Referencias
 

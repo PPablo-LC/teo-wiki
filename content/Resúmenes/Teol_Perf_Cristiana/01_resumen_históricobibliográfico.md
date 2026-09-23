@@ -21,14 +21,14 @@ tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "bibliografia", "introd
 - [[vida_sobrenatural]]
 - [[gracia_santificante]]
 - [[virtudes_infusas]]
-- [[dones_del_Espíritu_Santo]]
+- [[dones_del_espíritu_santo]]
 - [[contemplación]]
-- [[unión_con_Dios]]
+- [[unión_con_dios]]
 - [[método_teológico]]
 - [[fuentes_de_la_teología]]
-- [[Sagrada_Escritura]]
-- [[Tradición]]
-- [[Magisterio_de_la_Iglesia]]
+- [[sagrada_escritura]]
+- [[tradición]]
+- [[magisterio_de_la_iglesia]]
 
 ## Resumen Histórico-Bibliográfico
 

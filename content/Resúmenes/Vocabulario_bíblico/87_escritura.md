@@ -20,7 +20,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[promesas]] — las promesas selladas en la escritura
 - [[profeta]] — los profetas que confían sus oráculos a la escritura
 - [[santo]] — las Escrituras sagradas, cargadas de santidad
-- [[Espíritu]] — el Espíritu que vivifica frente a la letra que mata
+- [[espíritu]] — el Espíritu que vivifica frente a la letra que mata
 - [[ley]] — la ley inscrita en los corazones
 - [[libro]] — la Biblia como colección de libros sagrados
 
@@ -48,7 +48,7 @@ El NT emplea la expresión rabínica «las Sagradas Escrituras» *Rom 1,2*; «la
 
 «Es preciso que se cumpla todo lo que está escrito de mí» *Lc 24,44*. Dios no habla en vano *Ez 6,10* y su Escritura «no puede ser abolida» *Jn 10,35*. Jesús no dejó ningún escrito, pero consagró solemnemente el valor de la Escritura hasta la más menudo signo gráfico: «una sola tilde» *Mt 5,18*.
 
-Pero sólo puede permanecer cumpliéndose; hay en la Escritura la permanencia viva de la palabra eterna, pero puede haber condiciones antiguas destinadas a pasar; hay un [[Espíritu]] que vivifica y una letra que mata *2Cor 3,6*. Cristo es quien hace pasar de la letra al Espíritu *3,14*; reconociendo a Cristo a través de las Escrituras se halla la vida eterna *Jn 5,39*.
+Pero sólo puede permanecer cumpliéndose; hay en la Escritura la permanencia viva de la palabra eterna, pero puede haber condiciones antiguas destinadas a pasar; hay un [[espíritu]] que vivifica y una letra que mata *2Cor 3,6*. Cristo es quien hace pasar de la letra al Espíritu *3,14*; reconociendo a Cristo a través de las Escrituras se halla la vida eterna *Jn 5,39*.
 
 ### V. LA LEY ESCRITA EN LOS CORAZONES
 

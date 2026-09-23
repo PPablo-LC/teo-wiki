@@ -44,7 +44,7 @@ La sujeción al pecado se llama [[esclavitud_espiritual]] (spiritual bondage). P
 - **Emocional:** emociones negativas incontrolables (miedo, culpa, celos, ira).
 - **Relacional:** apego dañino, codependencia o manipulación.
 
-Aunque condicionan mucho, no determinan a la persona. La gracia de Dios es eficaz y la [[Redención]] está destinada a todo hombre.
+Aunque condicionan mucho, no determinan a la persona. La gracia de Dios es eficaz y la [[redención]] está destinada a todo hombre.
 
 ### 3.6.2 La acción extraordinaria del enemigo
 

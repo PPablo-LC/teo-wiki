@@ -20,12 +20,12 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[nube]] — la nube que vela la gloria y presencia de Dios
 - [[gloria]] — la gloria de Dios en la tienda
 - [[presencia_de_dios]] — la presencia manifestada a toda la casa de Israel
-- [[moises]] — el servidor con acceso constante a la casa de Dios
+- [[moisés]] — el servidor con acceso constante a la casa de Dios
 - [[tierra]] — la tierra como «casa» de Dios
 - [[cielo]] — los cielos que no pueden contener a Dios
 - [[nombre]] — la casa para el nombre de Yahveh
 - [[arca]] — el arca como símbolo de su presencia
-- [[espiritu]] — la efusión del Espíritu sobre la casa de Israel
+- [[espíritu]] — la efusión del Espíritu sobre la casa de Israel
 - [[naciones]] — la casa de Dios abierta a todas las naciones
 - [[humildad]] — el corazón humilde y contrito para entrar en su casa
 - [[palabra_de_dios]] — el Verbo que viene a habitar entre nosotros

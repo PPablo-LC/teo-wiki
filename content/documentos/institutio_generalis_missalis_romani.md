@@ -27,9 +27,9 @@ El análisis recorre los cinco capítulos tradicionales más el nuevo capítulo 
 
 **I. El Obispo, el Sacerdote y el Diácono** — Define la celebración eucarística como acción de Cristo y de la Iglesia, con el [[obispo]] al centro de la [[iglesia_particular]], el [[sacerdocio_ordenado]] como presidente de la [[eucaristía]] (con recomendación de celebración diaria), y el [[diácono]] como primer ministro después del sacerdote por virtud de su ordenación.
 
-**II. Los Ministros Laicos** — Regula los ministerios de [[lector]] y [[acólito]] instituidos, [[ministro_extraordinario_de_la_comunión]], y los gestos y posturas corporales de la asamblea ([[genuflexión]], [[inclinación]], uniformidad postural como signo de unidad).
+**II. Los Ministros Laicos** — Regula los ministerios de [[lector]] y [[acolito]] instituidos, [[ministro_extraordinario_de_la_comunion]], y los gestos y posturas corporales de la asamblea ([[genuflexion]], [[inclinacion]], uniformidad postural como signo de unidad).
 
-**III. Cambios en el Rito** — Liturgia de la Palabra (prohibición de lecturas no bíblicas, [[salmo_responsorial]] cantado), [[silencio_litúrgico]], [[música_litúrgica]] ([[canto_gregoriano]] como propio de la liturgia romana), [[comunión_bajo_dos_especies]], purificación de vasos sagrados.
+**III. Cambios en el Rito** — Liturgia de la Palabra (prohibición de lecturas no bíblicas, [[salmo_responsorial]] cantado), [[silencio_liturgico]], [[musica_liturgica]] ([[canto_gregoriano]] como propio de la liturgia romana), [[comunion_bajo_dos_especies]], purificación de vasos sagrados.
 
 **IV. Objetos destinados al Uso de la Iglesia** — [[altar]] fijo y consagrado, [[cruz]] con figura de Cristo crucificado, [[ambón]], [[silla_presidencial]], [[sagrario]] (no sobre altar de celebración), [[vasos_sagrados]] (metal noble), [[imágenes_sagradas]] en marco escatológico.
 

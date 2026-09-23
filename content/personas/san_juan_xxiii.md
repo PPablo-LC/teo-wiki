@@ -35,6 +35,20 @@ Su experiencia diplomática en Bulgaria, Turquía, Grecia y Francia lo formó co
 
 [[concilio_vaticano_ii]], [[papa]], [[san_pablo_vi]], [[pacem_in_terris]], [[mater_et_magistra]], [[ecumenismo]], [[aggiornamento]], [[juan_pablo_ii]], [[papa_francisco]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: sus últimas palabras de despedida al
+recibir los sacramentos: «**Este lecho es un altar y el altar requiere su
+víctima. Aquí estoy dispuesto. Ofrezco mi vida por la Iglesia, por la
+continuación del concilio ecuménico, por la paz del mundo y la unión de
+los cristianos**… Mi jornada terrena termina, pero Cristo vive, la
+Iglesia continúa». A su secretario, tres días después: «¿Por qué llorar?
+Este es un momento de alegría, un momento de gloria». En la Plaza de San
+Pedro se celebraba una misa por el Pontífice moribundo, que expiró
+«mientras el celebrante pronuncia las palabras conclusivas: *Ite Missa
+est*, como para confirmar que, como sacerdote de Dios, ha cumplido su
+largo ministerio».
+
 ## Referencias
 
 - Juan XXIII, *Humanae Salutis* (1961); *Mater et Magistra* (1961); *Pacem in Terris* (1963).

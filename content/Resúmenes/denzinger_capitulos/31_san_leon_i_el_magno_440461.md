@@ -27,7 +27,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 **D-143** (Epístola XXVIII, *Tomus ad Flavianum*, 449): «Saludando a la persona y cuidado de este religioso lleno de ardor me alegro... La ignorancia de la verdad no era tan digna de excusa como la incredulidad en la verdad enseñada.» Se muestra dónde está la raíz del error de Eutiques: no quiso entender el misterio de la encarnación del Verbo.
 
-**D-144**: La [[encarnación]] es obra del [[Espíritu_Santo]]: «el Espíritu Santo fecundó a la Virgen». La fe católica confiesa a Dios y hombre verdaderos en un solo Señor Jesucristo.
+**D-144**: La [[encarnación]] es obra del [[espíritu_santo]]: «el Espíritu Santo fecundó a la Virgen». La fe católica confiesa a Dios y hombre verdaderos en un solo Señor Jesucristo.
 
 **D-145**: El Verbo nació de la Virgen: «De aquí procede, al hacerse hombre el Verbo, la unión de la naturaleza divina y humana por la venida de este Espíritu en el seno de la Virgen.» Cristo, verdadero Dios, nació también verdadero hombre para pagar el precio de nuestra redención.
 
@@ -43,4 +43,4 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## SAN LEÓN I EL MAGNO, 440-461 — TOMUS AD FLAVIANUM
 
-El *[[Tomus ad Flavianum]]* de San León Magno es el documento cristológico fundamental que define la doctrina de las dos naturalezas de Cristo unidas en una sola persona ([[unión_hipostática]]), sin confusión ni separación. Condena el error de Eutiques y de Nestorio, afirma a Cristo verdadero Dios y verdadero hombre, y a María como [[madre_de_dios]]. Este documento será la base dogmática del Concilio de Calcedonia (451).
+El *[[tomus_ad_flavianum]]* de San León Magno es el documento cristológico fundamental que define la doctrina de las dos naturalezas de Cristo unidas en una sola persona ([[unión_hipostática]]), sin confusión ni separación. Condena el error de Eutiques y de Nestorio, afirma a Cristo verdadero Dios y verdadero hombre, y a María como [[madre_de_dios]]. Este documento será la base dogmática del Concilio de Calcedonia (451).

@@ -14,7 +14,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 - [[Conferencia_de_Pekin]] — IV Conferencia Mundial de la ONU sobre la Mujer (1995)
 - [[dignidad_de_la_mujer]] — dignidad, papel y derechos de la mujer como tema central
-- [[Santa_Sede]] — participación activa en las reuniones preparatorias
+- [[santa_sede]] — participación activa en las reuniones preparatorias
 
 ## Contenido
 
@@ -26,7 +26,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 Este mensaje fue entregado a la señora Gertrude Mongella, Secretaria General de la [[Conferencia_de_Pekin]]. El Papa expresa su profundo aprecio por los esfuerzos encaminados a hacer de la Conferencia —cuyo tema es «Acción por la igualdad, el desarrollo y la paz»— una ocasión para reflexionar serena y objetivamente sobre las metas vitales que atañen a la dignidad, al papel y a los derechos de la mujer.
 
-La Santa Sede ha participado activamente en las reuniones preparatorias y regionales, discutiendo tanto cuestiones locales como globales de particular interés para la mujer. La Delegación de la [[Santa_Sede]], compuesta en su mayor parte por mujeres, ha escuchado con gran interés las esperanzas, temores, preocupaciones y exigencias de mujeres de todo el mundo.
+La Santa Sede ha participado activamente en las reuniones preparatorias y regionales, discutiendo tanto cuestiones locales como globales de particular interés para la mujer. La Delegación de la [[santa_sede]], compuesta en su mayor parte por mujeres, ha escuchado con gran interés las esperanzas, temores, preocupaciones y exigencias de mujeres de todo el mundo.
 
 ## Mapa del archivo fuente
 

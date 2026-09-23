@@ -19,7 +19,7 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "procesos_canónicos", "tribu
 - [[potestad_judicial]] — Función de administrar justicia propiamente dicha
 - [[competencia]] — Ámbito material y personal de la jurisdicción
 - [[derecho_canónico]] — Derecho propio de la Iglesia católica
-- [[Concilio_Vaticano_II]] — Concilio que renovó la administración de justicia en la Iglesia
+- [[concilio_vaticano_ii]] — Concilio que renovó la administración de justicia en la Iglesia
 
 ## Comentario al Canon 19
 

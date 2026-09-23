@@ -13,7 +13,7 @@ description: "En el ámbito moral, la pornografía consiste en sacar de la intim
 
 ## Definición
 
-En el ámbito moral, la pornografía consiste en sacar de la intimidad de los protagonistas actos sexuales, reales o simulados, para exhibirlos ante terceras personas de manera deliberada (CEC 2354). Ofende la [[castidad]] porque desnaturaliza la finalidad del acto sexual y atenta gravemente a la [[dignidad_humana]]. En el ámbito canónico-penal, la adquisición, retención o divulgación de [[pornografía]] infantil por parte de un clérigo constituye un *delictum gravius* reservado al Dicasterio para la Doctrina de la Fe (SST-2010 Art. 6 §1 n.2; VELM Art. 1 §1.a.iii; CIC c. 1398 §1).
+En el ámbito moral, la pornografía consiste en sacar de la intimidad de los protagonistas actos sexuales, reales o simulados, para exhibirlos ante terceras personas de manera deliberada (CEC 2354). Ofende la [[castidad]] porque desnaturaliza la finalidad del acto sexual y atenta gravemente a la [[dignidad_humana]]. En el ámbito canónico-penal, la adquisición, retención o divulgación de **pornografía** infantil por parte de un clérigo constituye un *delictum gravius* reservado al Dicasterio para la Doctrina de la Fe (SST-2010 Art. 6 §1 n.2; VELM Art. 1 §1.a.iii; CIC c. 1398 §1).
 
 ## Desarrollo doctrinal
 

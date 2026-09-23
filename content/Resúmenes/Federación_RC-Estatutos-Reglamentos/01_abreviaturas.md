@@ -12,8 +12,8 @@ tags: ["resumen", "federación_rc-estatutos-reglamentos"]
 
 ## Conceptos básicos referenciados
 
-- [[codigo_de_derecho_canonico]] — Código de Derecho Canónico (1983)
-- [[federacion_regnum_christi]] — Federación Regnum Christi
+- [[código_de_derecho_canónico]] — Código de Derecho Canónico (1983)
+- [[federación_regnum_christi]] — Federación Regnum Christi
 
 ## Contenido
 

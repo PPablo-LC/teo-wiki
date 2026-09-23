@@ -41,7 +41,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[hijo]] — el Hijo es la sabiduría del Padre
 - [[siervo_de_yahvé]] — Jesús pasa por el sufrimiento del siervo de Yahveh
 - [[mesías]] — el rey hijo de David poseerá la sabiduría del Espíritu
-- [[ensenar]] — la manera de enseñar de Jesús recuerda a los maestros de sabiduría
+- [[enseñar]] — la manera de enseñar de Jesús recuerda a los maestros de sabiduría
 - [[parábola]] — Jesús adopta los géneros sapienciales (proverbios, parábolas)
 - [[generación]] — la sabiduría justificada por sus hijos/obras
 - [[cruz]] — Dios salva al mundo por la locura de la cruz
@@ -71,7 +71,7 @@ La ruina de Jerusalén confirma las amenazas: la falsa sabiduría condujo a la c
 
 #### Un arte de bien vivir.
 
-El sabio bíblico tiene curiosidad por la naturaleza *1Re 5,13*; ve en ella la mano de Dios *Job 36,22-37,18* *38-41* *Eclo 42,15-43,33*. Se preocupa por conducir la vida para obtener la verdadera felicidad. Es experto en el arte de bien vivir. Psicólogo, conoce el corazón humano *Prov 13,12* *14,13* *Eclo 7,2-6*. [[Educación|Educador]] nato, traza reglas para sus [[discípulo|discípulos]]: prudencia, moderación, trabajo, humildad, lealtad. Toda la moral del Decálogo está en estos consejos. Sentido social: limosna *Eclo 7,32ss* *Tob 4,7-11*, justicia *Prov 11,1* *17,15*, amor a los pobres *Prov 14,31* *17,5* *Eclo 4,1-10*. Transmite la sabiduría adquirida con esfuerzo *Eclo 51,13-20*.
+El sabio bíblico tiene curiosidad por la naturaleza *1Re 5,13*; ve en ella la mano de Dios *Job 36,22-37,18* *38-41* *Eclo 42,15-43,33*. Se preocupa por conducir la vida para obtener la verdadera felicidad. Es experto en el arte de bien vivir. Psicólogo, conoce el corazón humano *Prov 13,12* *14,13* *Eclo 7,2-6*. [[educación|Educador]] nato, traza reglas para sus [[discípulo|discípulos]]: prudencia, moderación, trabajo, humildad, lealtad. Toda la moral del Decálogo está en estos consejos. Sentido social: limosna *Eclo 7,32ss* *Tob 4,7-11*, justicia *Prov 11,1* *17,15*, amor a los pobres *Prov 14,31* *17,5* *Eclo 4,1-10*. Transmite la sabiduría adquirida con esfuerzo *Eclo 51,13-20*.
 
 #### Reflexión sobre la existencia.
 
@@ -105,11 +105,11 @@ Tesoro superior a todo *Sab 7,7-14*. Don de Dios *8,21*, distribuidora de todos 
 
 ##### Jesús, maestro de sabiduría.
 
-Jesús se presenta como profeta *Mt 12,41*, [[mesías]] sufriente *Mc 8,29ss*, doctor no a manera de escribas *Mc 1,21s*. Su manera de [[ensenar]] recuerda a maestros sapienciales del AT: adopta sus géneros (proverbios, [[parábola|parábolas]]), da reglas de vida *Mt 5-7*. Espectadores se maravillan de su sabiduría sin segunda *Mc 6,2*; Lucas la nota en la infancia *Lc 2,40.52*. Jesús: la reina del Mediodía oyó a Salomón; aquí hay más que Salomón *Mt 12,42 p*.
+Jesús se presenta como profeta *Mt 12,41*, [[mesías]] sufriente *Mc 8,29ss*, doctor no a manera de escribas *Mc 1,21s*. Su manera de [[enseñar]] recuerda a maestros sapienciales del AT: adopta sus géneros (proverbios, [[parábola|parábolas]]), da reglas de vida *Mt 5-7*. Espectadores se maravillan de su sabiduría sin segunda *Mc 6,2*; Lucas la nota en la infancia *Lc 2,40.52*. Jesús: la reina del Mediodía oyó a Salomón; aquí hay más que Salomón *Mt 12,42 p*.
 
 ##### Jesús, Sabiduría de Dios.
 
-Promete el don de la sabiduría *Lc 21,15*. Desconocido por su [[generación]] incrédula, acogido por corazones dóciles: «La sabiduría ha sido justificada por sus hijos» *Lc 7,35*; «por sus obras» *Mt 11,19*. Modela su lenguaje según la sabiduría divina AT: «Venid a mí...» *Mt 11,28ss* *Eclo 24,19*; «Quien venga a mí no tendrá hambre...» *Jn 6,35* *4,14* *7,37* *Is 55,1ss* *Prov 9,1-6* *Eclo 24,19-22*. Estos llamamientos rebasan al sabio ordinario; trasluce la personalidad del [[Hijo|Hijo]] *Mt 11,25ss p*. Escritos apostólicos: Jesús es «sabiduría de Dios» *1Cor 1,24.30* —no solo la comunica, él la es. Para su preexistencia usan términos de la sabiduría divina: primogénito anterior a toda criatura, artífice de la [[creación]] *Col 1,15ss* *Prov 8,22-31*, resplandor de la [[gloria]] de Dios *Heb 1,3* *Sab 7,25s*. El [[Hijo|Hijo]] es la sabiduría del Padre, como su [[palabra_de_dios|palabra]] *Jn 1,1ss*. Sabiduría personal oculta en Dios, ahora revelada en Jesucristo. Todos los textos sapienciales del AT adquieren en él su alcance definitivo.
+Promete el don de la sabiduría *Lc 21,15*. Desconocido por su [[generación]] incrédula, acogido por corazones dóciles: «La sabiduría ha sido justificada por sus hijos» *Lc 7,35*; «por sus obras» *Mt 11,19*. Modela su lenguaje según la sabiduría divina AT: «Venid a mí...» *Mt 11,28ss* *Eclo 24,19*; «Quien venga a mí no tendrá hambre...» *Jn 6,35* *4,14* *7,37* *Is 55,1ss* *Prov 9,1-6* *Eclo 24,19-22*. Estos llamamientos rebasan al sabio ordinario; trasluce la personalidad del [[hijo|Hijo]] *Mt 11,25ss p*. Escritos apostólicos: Jesús es «sabiduría de Dios» *1Cor 1,24.30* —no solo la comunica, él la es. Para su preexistencia usan términos de la sabiduría divina: primogénito anterior a toda criatura, artífice de la [[creación]] *Col 1,15ss* *Prov 8,22-31*, resplandor de la [[gloria]] de Dios *Heb 1,3* *Sab 7,25s*. El [[hijo|Hijo]] es la sabiduría del Padre, como su [[palabra_de_dios|palabra]] *Jn 1,1ss*. Sabiduría personal oculta en Dios, ahora revelada en Jesucristo. Todos los textos sapienciales del AT adquieren en él su alcance definitivo.
 
 #### II. Sabiduría del mundo y sabiduría cristiana.
 

@@ -113,6 +113,29 @@ D-92 (III Concilio de Cartago 397): se permite la lectura de las pasiones de los
 
 [[fortaleza]], [[caridad]], [[confesión_de_la_fe]], [[persecución]], [[santidad]], [[bautismo_de_sangre]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. I, formula las **dos condiciones del
+martirio cristiano**:
+
+1. **La fuerza no proviene de fortaleza humana.** «Dar la vida» por la
+patria o una justa causa no es aún martirio. «Al cristiano conducido al
+martirio solo se le pide llegar *con fe* al umbral de lo insoportable,
+*creyendo* que Cristo (*su verdadero «yo»*) lo padecerá en su lugar».
+Así santa Felicidad a los verdugos: «¡Ahora soy yo quien sufro, pero
+allí será Otro quien sufrirá en mi lugar!».
+
+2. **Morir sin una pizca de odio o rencor hacia los perseguidores**, casi
+llevándolos con él «en su perdón, en su amor y su esperanza».
+
+Los mártires «se saben ya *resucitados con Cristo*, mientras son llamados,
+por gracia, a *completar Su pasión en sus propios miembros*» (Col 1,24).
+AMS añade la categoría del **martirio pobre o cotidiano** (ver
+[[martirio_cotidiano]]) y la unión de martirio y Eucaristía: «todos los
+mártires mezclan su sangre con la de Jesús; los que mueren abrazados a la
+Eucaristía, o celebrando el sacrificio eucarístico, son unos
+privilegiados».
+
 ## Referencias
 
 - [CEC §2473-2474]

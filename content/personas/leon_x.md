@@ -46,7 +46,7 @@ León X ocupa un lugar clave en la historia de la teología católica por haber 
 
 ## Ver también
 
-[[v_concilio_de_letran]], [[martín_lutero]], [[indulgencias]], [[primado_del_romano_pontífice]], [[inmaculada_concepción]], [[julio_ii]]
+[[v_concilio_de_letran]], [[martin_lutero]], [[indulgencias]], [[primado_del_romano_pontífice]], [[inmaculada_concepción]], [[julio_ii]]
 
 ## Referencias
 

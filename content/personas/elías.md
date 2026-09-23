@@ -54,7 +54,7 @@ Respecto a la identificación de Elías con Juan Bautista, Benedicto XVI señala
 
 ## Ver también
 
-[[ascensión]], [[profeta]], [[Moisés]], [[Juan Bautista]], [[transfiguración]], [[desierto]], [[oración]], [[celo]], [[Carmelo]]
+[[ascensión]], [[profeta]], [[moisés]], [[Juan Bautista]], [[transfiguración]], [[desierto]], [[oración]], [[celo]], [[Carmelo]]
 
 ## Referencias
 

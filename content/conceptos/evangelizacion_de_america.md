@@ -55,7 +55,7 @@ El Real Patronato Indio (concedido por bulas alexandrinas de Alejandro VI y Juli
 
 ## Relaciones doctrinales
 
-La evangelización se relaciona con la [[conquista_de_america]], la [[contrarreforma]], la [[inculturación]], los [[derechos_humanos]], la [[Compañía_de_Jesús]] y la [[misionología]].
+La evangelización se relaciona con la [[conquista_de_america]], la [[contrarreforma]], la [[inculturación]], los [[derechos_humanos]], la [[compañía_de_jesús]] y la [[misionología]].
 
 ## Ver también
 

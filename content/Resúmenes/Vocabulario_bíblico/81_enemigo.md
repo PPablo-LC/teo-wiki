@@ -15,14 +15,14 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[odio]] — la enemistad como dato introducido por el pecado
-- [[persecucion]] — el enemigo del justo perseguido
+- [[persecución]] — el enemigo del justo perseguido
 - [[guerra]] — la guerra santa y la defensa de Israel
 - [[venganza]] — el talión y la sobreabundancia del perdón
 - [[amor]] — el mandamiento de amar a los enemigos
-- [[discipulo]] — el discípulo que perdona a imitación de Jesús
+- [[discípulo]] — el discípulo que perdona a imitación de Jesús
 - [[satanás]] — el enemigo por excelencia
 - [[cruz]] — la victoria sobre la enemistad por medio de la cruz
-- [[reconciliacion]] — el muro de enemistad derribado por Cristo
+- [[reconciliación]] — el muro de enemistad derribado por Cristo
 
 ## Contenido
 
@@ -44,11 +44,11 @@ La lucha de Saúl contra David es el relato más detallado de una enemistad pers
 
 #### La experiencia de la derrota.
 
-Israel como nación pasó por una experiencia parecida. La imagen del enemigo se confundió con la del opresor. Así aprendió que Yahveh, lejos de hacer al justo más [[fuerza|fuerte]], prefiere liberarlo él mismo *Ex 14,13s*. El enemigo no es vencido por el justo; perece víctima de sí mismo *Sal 7,13-17*. Su eliminación completa está ligada con la [[bendicion|plenitud]] de la bendición *Gen 22,17*. Pero a través de la historia, Yahveh lo deja subsistir *Jue 2,3*, señalando el nivel de cumplimiento de la [[promesa]] y de la [[fidelidad]] del pueblo.
+Israel como nación pasó por una experiencia parecida. La imagen del enemigo se confundió con la del opresor. Así aprendió que Yahveh, lejos de hacer al justo más [[fuerza|fuerte]], prefiere liberarlo él mismo *Ex 14,13s*. El enemigo no es vencido por el justo; perece víctima de sí mismo *Sal 7,13-17*. Su eliminación completa está ligada con la [[bendición|plenitud]] de la bendición *Gen 22,17*. Pero a través de la historia, Yahveh lo deja subsistir *Jue 2,3*, señalando el nivel de cumplimiento de la [[promesa]] y de la [[fidelidad]] del pueblo.
 
 #### La obra del tiempo.
 
-La experiencia y la luz divina orientan los corazones hacia el [[amor]]. Ben Sira pide que el hombre [[perdon|perdone]] para ser perdonado por Dios *Eclo 28,1-7* *Prov 24,29*. Es la exigencia de Jesús mismo.
+La experiencia y la luz divina orientan los corazones hacia el [[amor]]. Ben Sira pide que el hombre [[perdón|perdone]] para ser perdonado por Dios *Eclo 28,1-7* *Prov 24,29*. Es la exigencia de Jesús mismo.
 
 ### III. JESÚS TRIUNFA DE LA ENEMISTAD
 
@@ -58,4 +58,4 @@ La experiencia y la luz divina orientan los corazones hacia el [[amor]]. Ben Sir
 
 #### La victoria sobre la enemistad.
 
-Jesús no niega la enemistad, sino que la vence. Es un misterio, signo del reinado de [[satanás]], enemigo por excelencia: desde el huerto del Edén *Gen 3,15*. Siembra en la tierra la cizaña *Mt 13,39*. Pero Jesús dio a los suyos poder sobre todo [[poder]] que venga del enemigo *Lc 10,19*. Habiéndose ofrecido a los golpes de Satán a través de los de sus enemigos, venció a la muerte con la muerte, derribando el «muro de enemistad» *Ef 2,14-16*. En tanto llega el [[día_del_juicio|día]] en que Cristo destruye a la muerte, «el último enemigo» *1Cor 15,25s*, el cristiano combate con Jesús contra el viejo enemigo *Ef 6,11-17*. Esta [[cruz]] es el lugar fuera del cual no hay [[reconciliacion|reconciliación]] con Dios ni entre los hombres.
+Jesús no niega la enemistad, sino que la vence. Es un misterio, signo del reinado de [[satanás]], enemigo por excelencia: desde el huerto del Edén *Gen 3,15*. Siembra en la tierra la cizaña *Mt 13,39*. Pero Jesús dio a los suyos poder sobre todo [[poder]] que venga del enemigo *Lc 10,19*. Habiéndose ofrecido a los golpes de Satán a través de los de sus enemigos, venció a la muerte con la muerte, derribando el «muro de enemistad» *Ef 2,14-16*. En tanto llega el [[día_del_juicio|día]] en que Cristo destruye a la muerte, «el último enemigo» *1Cor 15,25s*, el cristiano combate con Jesús contra el viejo enemigo *Ef 6,11-17*. Esta [[cruz]] es el lugar fuera del cual no hay [[reconciliación|reconciliación]] con Dios ni entre los hombres.

@@ -24,7 +24,7 @@ tags: ["resumen", "discurso", "juan_pablo_ii", "juventud", "chile"]
 - **Introducción:** Saludo y alegría por el encuentro con los jóvenes chilenos.
 - **Diagnóstico:** Reconocimiento de los problemas, inquietudes y [[esperanza_cristiana]] manifestados en cartas. Necesidad de una [[resurrección_espiritual]].
 - **Llamada a la acción:** Los jóvenes son el futuro y deben asumir su [[responsabilidad]]; no permanecer pasivos.
-- **Fe y Compromiso:** La [[fe]] en [[Cristo]] como motor para el cambio social, superando el [[pecado]] y el pesimismo.
+- **Fe y Compromiso:** La [[fe]] en [[cristo]] como motor para el cambio social, superando el [[pecado]] y el pesimismo.
 - **Mensaje central:** Buscar, mirar y vivir en Cristo como piedra angular de una nueva civilización basada en la [[solidaridad]].
 
 ### Ideas más relevantes

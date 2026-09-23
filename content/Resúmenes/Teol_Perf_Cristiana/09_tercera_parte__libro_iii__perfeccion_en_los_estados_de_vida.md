@@ -40,7 +40,7 @@ tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "sacerdocio", "vida_rel
 - [[apostolado_seglar]]
 - [[bautismo]]
 - [[confirmación]]
-- [[cuerpo_místico_de_Cristo]]
+- [[cuerpo_místico_de_cristo]]
 - [[gracia_santificante]]
 - [[caridad]]
 - [[función_sacerdotal_profética_y_real]]
@@ -81,7 +81,7 @@ Elemento constitutivo del estado religioso, junto con los votos. Implica: incorp
 
 ### 4. Los votos religiosos
 
-**a) [[Voto de pobreza]]:** no poseer nada como propio, no disponer de nada sin permiso, vivir pobremente a imitación de Cristo. Esta tercera obligación es la más importante y difícil. **b) [[Voto de castidad]]:** renuncia a los placeres carnales y, sobre todo, virginidad del corazón; consagración total a Dios. Solo el amor divino llevado a la obsesión hace posible su cumplimiento. **c) [[Voto de obediencia]]:** el más excelente de los tres (II-II, 186, 8) porque ofrece a Dios la propia voluntad, bien más excelente que el cuerpo y las cosas exteriores; encierra la materia de los otros dos; es el más esencial al estado religioso. Grados, cualidades y ventajas de la obediencia ya fueron tratados en otra parte de la obra (n. 416ss).
+**a) [[voto_de_pobreza]]:** no poseer nada como propio, no disponer de nada sin permiso, vivir pobremente a imitación de Cristo. Esta tercera obligación es la más importante y difícil. **b) [[voto_de_castidad]]:** renuncia a los placeres carnales y, sobre todo, virginidad del corazón; consagración total a Dios. Solo el amor divino llevado a la obsesión hace posible su cumplimiento. **c) [[voto_de_obediencia]]:** el más excelente de los tres (II-II, 186, 8) porque ofrece a Dios la propia voluntad, bien más excelente que el cuerpo y las cosas exteriores; encierra la materia de los otros dos; es el más esencial al estado religioso. Grados, cualidades y ventajas de la obediencia ya fueron tratados en otra parte de la obra (n. 416ss).
 
 ### 5. La regla y constituciones
 

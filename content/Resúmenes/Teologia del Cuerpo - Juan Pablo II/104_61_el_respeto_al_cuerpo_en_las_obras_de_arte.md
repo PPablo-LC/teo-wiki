@@ -21,7 +21,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[pornovisión]] — la acusación a las producciones visuales
 - [[pornografía]] — el término más antiguo para la literatura
 - [[campos_de_concentración]] — el uso de la desnudez contra la dignidad
-- [[dignidad humana]] — el sentido de la dignidad contrarrestado
+- [[dignidad_humana]] — el sentido de la dignidad contrarrestado
 - [[objetivación]] — el cuerpo humano perdido como significado
 - [[apropiación]] — el adueñarse del otro a través de la imagen
 - [[comunión_de_personas]] — la inscripción profunda del don

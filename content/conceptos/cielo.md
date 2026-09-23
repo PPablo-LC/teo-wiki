@@ -66,7 +66,7 @@ El cielo se relaciona con la [[visión_beatífica]], la [[gloria]], la [[bienave
 
 ## Ver también
 
-[[bienaventuranza]], [[gloria_de_Dios]], [[visión_beatífica]], [[comunión_de_los_santos]], [[fin_último]], [[purgatorio]], [[infierno]], [[novísimos]], [[jorge_loring]], [[viático]], [[evangelization_and_culture_issue_11_four_last_things]]
+[[bienaventuranza]], [[gloria_de_dios]], [[visión_beatífica]], [[comunión_de_los_santos]], [[fin_último]], [[purgatorio]], [[infierno]], [[novísimos]], [[jorge_loring]], [[viático]], [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
 

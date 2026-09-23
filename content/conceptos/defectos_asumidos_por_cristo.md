@@ -13,7 +13,7 @@ description: "Defectos corporales y pasibles que Cristo asumió voluntariamente 
 
 ## Definición
 
-Los defectos asumidos por Cristo se refieren a las limitaciones y sufrimientos propios de la naturaleza humana que el [[verbo_divino|Verbo Encarnado]] tomó voluntariamente en la [[encarnación]] como medio de [[redención]]. La teología distingue entre los defectos corporales (hambre, sed, fatiga, dolor, muerte) y los defectos pasibles del alma (tristeza, temor, ignorancia experimental). Cristo no asumió los defectos del alma que implican imperfección moral (pecado, ignorancia culpable, inclinación desordenada). La [[Summa Theologiae]] (IIIa, q.14-15) trata esta materia: Cristo asumió los defectos de la naturaleza humana para satisfacer por el pecado, manifestar la realidad de su humanidad y ser ejemplo de virtud.
+Los defectos asumidos por Cristo se refieren a las limitaciones y sufrimientos propios de la naturaleza humana que el [[verbo_divino|Verbo Encarnado]] tomó voluntariamente en la [[encarnación]] como medio de [[redención]]. La teología distingue entre los defectos corporales (hambre, sed, fatiga, dolor, muerte) y los defectos pasibles del alma (tristeza, temor, ignorancia experimental). Cristo no asumió los defectos del alma que implican imperfección moral (pecado, ignorancia culpable, inclinación desordenada). La [[summa_theologiae]] (IIIa, q.14-15) trata esta materia: Cristo asumió los defectos de la naturaleza humana para satisfacer por el pecado, manifestar la realidad de su humanidad y ser ejemplo de virtud.
 
 ## Ver también
 

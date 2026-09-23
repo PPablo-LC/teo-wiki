@@ -64,15 +64,15 @@ La *Lumen Gentium* del Concilio Vaticano II reafirma que Cristo comunica la vida
 
 ## Relaciones doctrinales
 
-La gracia capital se relaciona estrechamente con la doctrina de la [[comunion_de_los_santos]], pues es por ella que los fieles participan de los bienes espirituales de Cristo y se comunican entre sí. Se vincula también con la [[eficacia_de_los_sacramentos]], en la medida en que los sacramentos actúan por la gracia de la Cabeza. Asimismo, conecta con la eclesiología del [[cuerpo_mistico_de_cristo]] y con la [[mediacion_de_cristo]] como único mediador entre Dios y los hombres.
+La gracia capital se relaciona estrechamente con la doctrina de la [[comunión_de_los_santos]], pues es por ella que los fieles participan de los bienes espirituales de Cristo y se comunican entre sí. Se vincula también con la [[eficacia_de_los_sacramentos]], en la medida en que los sacramentos actúan por la gracia de la Cabeza. Asimismo, conecta con la eclesiología del [[cuerpo_místico_de_cristo]] y con la [[mediación_de_cristo]] como único mediador entre Dios y los hombres.
 
 ## Ver también
 
 - [[cristo_cabeza]]
 - [[autoridad_de_cristo]]
-- [[comunion_de_los_santos]]
+- [[comunión_de_los_santos]]
 - [[eficacia_de_los_sacramentos]]
-- [[cuerpo_mistico_de_cristo]]
+- [[cuerpo_místico_de_cristo]]
 
 ## Referencias
 

@@ -67,12 +67,12 @@ Dr. William Havlicek, en "The Gospel According to Van Gogh" (§09), presenta una
 - **[[encarnación]]**: El «natural-supernaturalismo» de Van Gogh es una visión encarnacional del mundo.
 - **[[arte_y_fe]]**: Su obra es ejemplo de la integración entre fe y arte.
 - **[[esperanza]]**: La Noche Estrellada como imagen de esperanza cósmica.
-- **[[via_pulchritudinis]]**: La belleza como vía de acceso a Dios en su arte.
+- **[[vía_pulchritudinis]]**: La belleza como vía de acceso a Dios en su arte.
 - **[[perdón]]**: El Buen Samaritano como imagen del perdón y la misericordia.
 
 ## Ver también
 
-[[encarnación]], [[arte_y_fe]], [[esperanza]], [[via_pulchritudinis]], [[perdón]], [[dante_alighieri]]
+[[encarnación]], [[arte_y_fe]], [[esperanza]], [[vía_pulchritudinis]], [[perdón]], [[dante_alighieri]]
 
 ## Referencias
 

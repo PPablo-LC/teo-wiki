@@ -41,7 +41,7 @@ Completa la obra del [[concilio_de_nicea_i]] (325), definiendo la divinidad del 
 
 ## Ver también
 
-[[concilio_de_nicea_i]], [[credo_niceno-constantinopolitano]], [[espíritu_santo]], [[pneumatómacos]], [[teodosio_i]]
+[[concilio_de_nicea_i]], [[credo_niceno-constantinopolitano]], [[espíritu_santo]], [[pneumatomacos]], [[teodosio_i]]
 
 ## Referencias
 

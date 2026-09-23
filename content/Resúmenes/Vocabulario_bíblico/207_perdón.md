@@ -58,7 +58,7 @@ Cristo corona su obra obteniendo a los pecadores el perdón de su Padre *Lc 23,3
 
 Cristo resucitado comunica a los apóstoles el poder de perdonar los pecados *Jn 20,22s* *Mt 16,19* *18,18*. La primera remisión se otorgará en el [[bautismo]], a todos los que se conviertan y crean en el nombre de Jesús *Mt 28,19* *Act 2,38*.
 
-Los apóstoles predican la remisión de los pecados *Act 2,38* *5,31* *10,43*, pero en sus escritos insisten menos en el aspecto jurídico del perdón que en el [[amor]] divino que nos salva y nos santifica *Rom 5,1-11*. Se destaca el papel de la oración de la [[Iglesia]] y de la [[confesión]] mutua de las faltas *Sant 5,15s*.
+Los apóstoles predican la remisión de los pecados *Act 2,38* *5,31* *10,43*, pero en sus escritos insisten menos en el aspecto jurídico del perdón que en el [[amor]] divino que nos salva y nos santifica *Rom 5,1-11*. Se destaca el papel de la oración de la [[iglesia]] y de la [[confesión]] mutua de las faltas *Sant 5,15s*.
 
 ### III. El perdón de las ofensas
 

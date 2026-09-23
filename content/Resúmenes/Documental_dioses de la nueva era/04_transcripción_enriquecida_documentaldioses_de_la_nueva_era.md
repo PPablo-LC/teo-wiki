@@ -53,7 +53,7 @@ Ravindranath Mahara (antiguo gurú) explica que el hindú necesita ver a su gur�
 #### [[relativismo]] y control
 El hinduismo enseña a "matar la voz de la conciencia interior"; no hay pecados. Gurúes justifican crímenes en nombre de la "estafa divina". Katy (discípula de Maharishi por 15 años) confiesa: "pierdes la capacidad de tomar decisiones de cualquier índole". La filosofía hindú es "muy relativa; no hay normas morales absolutas". Ellen (portavoz de Brahma Kumaris Raja Yoga) afirma que "la causa del sufrimiento está dentro" y se enseña a "adormecer emociones y compasión".
 
-#### [[Reencarnación]] vs. [[resurrección]]
+#### [[reencarnación]] vs. [[resurrección]]
 El documental presenta esto como el conflicto teológico central: "uno tiene que creer en la reencarnación o en la resurrección; ambas no pueden ser verdad". Hasta los años 60 solo una élite occidental creía en la reencarnación; hoy la aceptan 25% de americanos y 50% de europeos. En Occidente es "una moda", pero en la India "es una forma de castigo". El propósito del hinduismo es "escapar del interminable círculo de la vida y la muerte" mediante el [[yoga]]. La Biblia enseña que Jesús "resucitó, no reencarnó"; "el hombre morirá una vez y después vendrá el juicio".
 
 #### El [[yoga]] como corazón del hinduismo
@@ -71,7 +71,7 @@ Los ejercicios respiratorios "están diseñados para enseñarte a absorber el pr
 #### Meditación dinámica de Osho
 Combinación de hinduismo y psicoterapia: respiración catártica, fases de gritos y saltos que llevan a "un estado en el que tu mente deja tu cuerpo". Testimonio: "lo más próximo es la inconsciencia". Se reportan miles de trastornos emocionales, suicidios, crímenes y violaciones en centros de gurúes.
 
-#### [[Kundalini]] y la serpiente
+#### [[kundalini]] y la serpiente
 El yoga se define como "realinear la fuerza de la serpiente dentro del cuerpo". Cada yoga "fue diseñado para matar la voluntad, la mente y las emociones para sacar el alma del eterno ciclo de la reencarnación". La dependencia del yoga "es como las drogas".
 
 #### Movimiento misionero hindú

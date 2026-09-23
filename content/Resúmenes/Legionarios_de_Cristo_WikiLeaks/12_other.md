@@ -17,7 +17,7 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 - [[sacerdotes_diocesanos]] — los presbíteros del clero secular, destinatarios de esta misión
 - [[legión_de_cristo]] — la Congregación que impulsa esta misión hacia los sacerdotes
 - [[pastores_dabo_vobis]] — exhortación apostólica de San Juan Pablo II citada sobre el sacerdote como pastor
-- [[captacion_de_lideres]] — la captación y promoción de líderes cristianos, rasgo distintivo del Movimiento
+- [[captación_de_líderes]] — la captación y promoción de líderes cristianos, rasgo distintivo del Movimiento
 - [[reino_de_dios]] — el Reino de Cristo que el Movimiento busca establecer en la sociedad
 
 

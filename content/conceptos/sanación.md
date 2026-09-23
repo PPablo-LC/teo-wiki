@@ -46,7 +46,7 @@ Se relaciona con [[milagro]], [[sanación_interior]], [[liberación]], [[miseric
 
 ## Ver también
 
-[[sanación_interior]], [[milagro]], [[liberación]], [[misericordia]], [[uncion_de_los_enfermos]]
+[[sanación_interior]], [[milagro]], [[liberación]], [[misericordia]], [[unción_de_los_enfermos]]
 
 ## Referencias
 

@@ -13,7 +13,7 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 ## Conceptos básicos referenciados
 
 - [[templo]] — el templo como punto de intersección entre tiempo y espacio donde el Mistero se hace presencia
-- [[dimora]] — la casa/dimora como el lugar que Dios elige para habitar con el hombre
+- [[affezione_e_dimora]] — la casa/dimora como el lugar que Dios elige para habitar con el hombre
 - [[misterio]] — Dios como Mistero incommensurable con el hombre, que solo puede revelarse desde sí mismo
 - [[revelación]] — la forma en que el Mistero se da a conocer: no como pasado abstracto ni futuro imaginado, sino como acontecimiento presente
 - [[fe]] — la fe como racionalidad suprema que reconoce el último factor de la realidad

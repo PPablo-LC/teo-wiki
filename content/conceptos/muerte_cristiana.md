@@ -42,6 +42,26 @@ Contra estas muertes, el capítulo 3 (Benedetta Bianchi Porro) describe la cultu
 
 [[resurrección]], [[penitencia]], [[unción_de_los_enfermos]], [[martirio]], [[sufrimiento]], [[esperanza]], [[juicio_particular]], [[cultura_de_la_muerte]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]] hace de la muerte cristiana su tesis central:
+«cuando muere un santo, es la muerte la que muere». Toda promesa de amor
+contiene la promesa de eternidad («¡Tú no morirás nunca!», Gabriel
+Marcel); los amantes mortales no pueden mantenerla, y la promesa «no se
+revela falsa, sino que se convierte en invocación»: solo el Amor
+Crucificado Resucitado puede cumplirla. «Todo creyente debería pedir la
+gracia de ser sepultado teniendo en las manos» Jn 6,35-40: «esta es la
+voluntad de mi Padre: que todo el que ve al Hijo y cree en él tenga vida
+eterna, y yo le resucitaré en el último día».
+
+La esperanza cristiana se abre con Simeón («poder irse en paz, después de
+que sus brazos pudieran abrazar al Niño»): «ir al encuentro de la muerte
+con la certeza gozosa de abrazar la Vida, después de contemplar en la
+tierra, humanamente, al Salvador». En la muerte de los santos se
+manifiesta «la ley de reversibilidad» del amor: «no muere cada uno para
+sí, sino los unos por los otros, o quizá los unos en lugar de los otros,
+¡quién sabe!» (Bernanos; cf. Rm 14,7-9).
+
 ## Ver también
 
 [[san_camillo_de_lellis]], [[san_juan_maría_vianney]], [[san_giuseppe_benedetto_cottolengo]], [[tomás_moro]], [[benedetta_bianchi_porro]]
@@ -50,3 +70,4 @@ Contra estas muertes, el capítulo 3 (Benedetta Bianchi Porro) describe la cultu
 
 - RdS, cap. 4, 8, 9, 13
 - [CEC §1005-1019, §1014]
+- A. M. Sicari, *Así mueren los santos*, caps. intro y VIII (Rialp, 2020)

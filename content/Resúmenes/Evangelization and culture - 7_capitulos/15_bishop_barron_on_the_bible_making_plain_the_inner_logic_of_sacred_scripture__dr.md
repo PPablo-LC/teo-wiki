@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization_and_culture", "biblia"]
 
 ## Conceptos básicos referenciados
 
-- [[Biblia]] — la Biblia como fundamento del ministerio de Barron
+- [[biblia]] — la Biblia como fundamento del ministerio de Barron
 - [[exégesis]] — la interpretación bíblica más allá del método histórico-crítico
 - [[teología]] — la teología como estudio sostenido de la Biblia
 

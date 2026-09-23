@@ -46,7 +46,7 @@ La experiencia bíblica de Dios está saturada de esta ambivalencia: la zarza ar
 
 - Expresa la [[trascendencia_divina]] unida a la condescendencia salvífica ([[encarnación]])
 - Fundamenta la necesidad de la [[teología_negativa]]: ningún nombre agota al Misterio
-- Se vincula con el [[mysterium_tremendum_et_fascinans]] en su fuente: [[misterio_de_dios]]
+- Se vincula con el **mysterium tremendum et fascinans** en su fuente: [[misterio_de_dios]]
 - Su dinámica de atracción/amenaza ilumina el [[pecado_original]] (aferrar y esconderse)
 
 ## Ver también

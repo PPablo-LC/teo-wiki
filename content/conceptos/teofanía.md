@@ -66,11 +66,11 @@ La teofanía concedida a Moisés en la zarza ardiente constituye el testimonio d
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[presencia_de_dios]], la [[gloria_de_dios]], la [[revelación]], la [[alianza]], el [[sinaí]], la [[nube]], el [[fuego]], la [[transfiguración]], la [[ascensión_de_cristo]], el [[pentecostés]] y la [[gloria]].
+Se relaciona con la [[presencia_de_dios]], la [[gloria_de_dios]], la [[revelación]], la [[alianza]], el [[sinai]], la [[nube]], el [[fuego]], la [[transfiguración]], la [[ascensión_de_cristo]], el [[pentecostés]] y la [[gloria]].
 
 ## Ver también
 
-[[presencia_de_dios]], [[gloria_de_dios]], [[revelación]], [[alianza]], [[sinaí]], [[nube]], [[fuego]], [[transfiguración]], [[pentecostés]]
+[[presencia_de_dios]], [[gloria_de_dios]], [[revelación]], [[alianza]], [[sinai]], [[nube]], [[fuego]], [[transfiguración]], [[pentecostés]]
 
 ## Referencias
 

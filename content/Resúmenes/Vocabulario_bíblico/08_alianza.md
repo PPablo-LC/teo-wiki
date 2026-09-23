@@ -41,7 +41,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[don]] — la alianza, libre don de Dios
 - [[fidelidad]] — la salvación, no como salario de la fidelidad humana
 - [[david]] — la alianza davídica
-- [[pastor_y_rebano]] — Israel es el rebaño y Yahveh el pastor
+- [[pastor_y_rebaño]] — Israel es el rebaño y Yahveh el pastor
 - [[viña]] — Israel es la viña y Yahveh el viñador
 - [[hijo]] — Israel, hijo de Yahveh
 - [[padres_y_padre]] — Yahveh, el padre

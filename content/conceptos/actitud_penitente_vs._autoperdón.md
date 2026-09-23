@@ -33,7 +33,7 @@ El publicano presenta una conciencia «penitente» que es plenamente consciente 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[pecado]], [[conversión]], [[metánoia]], [[misericordia_de_dios]], [[gracia]], [[arrepentimiento]], [[fariseos]].
+Se relaciona con [[pecado]], [[conversión]], [[metanoia]], [[misericordia_de_dios]], [[gracia]], [[arrepentimiento]], [[fariseos]].
 
 ## Ver también
 

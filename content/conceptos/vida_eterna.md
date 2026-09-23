@@ -51,9 +51,9 @@ Visión beatífica «cara a cara» (1 Cor 13,12). Resurrección de los cuerpos. 
 
 ### Según Las siete lámparas de la vida cristiana (7_Lamps)
 
-La [[virtud_de_la_esperanza]] desemboca en el [[Paraíso]]: el cristiano está «comprometido en un destino de salvación, que desembocará un día en el Paraíso» [7_Lamps, JPI La esperanza — Audiencia general, 20-IX-1978].
+La [[virtud_de_la_esperanza]] desemboca en el [[paraíso]]: el cristiano está «comprometido en un destino de salvación, que desembocará un día en el Paraíso» [7_Lamps, JPI La esperanza — Audiencia general, 20-IX-1978].
 
-El Papa evoca a [[San_Agustín]], quien en una homilía de Pascua distinguía el Aleluya del cielo del de la tierra: «El verdadero Aleluya lo cantaremos en el Paraíso. Aquél será el Aleluya del amor pleno; éste de acá abajo, es el Aleluya del amor hambriento, esto es, de la esperanza». En la misma línea, recuerda el coloquio de Ostia donde [[Agustín_de_Hipona|Agustín]] y [[Santa_Mónica|Mónica]], «olvidados del pasado y mirando hacia el porvenir, se preguntaban lo que sería la vida eterna» (*Confess.* IX,10) [7_Lamps].
+El Papa evoca a [[san_agustín]], quien en una homilía de Pascua distinguía el Aleluya del cielo del de la tierra: «El verdadero Aleluya lo cantaremos en el Paraíso. Aquél será el Aleluya del amor pleno; éste de acá abajo, es el Aleluya del amor hambriento, esto es, de la esperanza». En la misma línea, recuerda el coloquio de Ostia donde [[agustín_de_hipona|Agustín]] y [[santa_monica|Mónica]], «olvidados del pasado y mirando hacia el porvenir, se preguntaban lo que sería la vida eterna» (*Confess.* IX,10) [7_Lamps].
 
 Juan Pablo I advierte que la esperanza cristiana no se reduce a la [[promoción_humana]] ni al progreso terreno. Aunque la Iglesia debe «humanizar» y luchar por la justicia y la paz, «es un error afirmar que la liberación política, económica y social coincide con la [[salvación]] en Jesucristo; que el *Regnum Dei* se identifica con el *Regnum hominis*». La esperanza cristiana mira a la [[eternidad]] [7_Lamps].
 

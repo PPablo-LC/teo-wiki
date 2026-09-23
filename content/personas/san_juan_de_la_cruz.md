@@ -50,6 +50,24 @@ En el artículo «John Paul II: Knowing Suffering from Inside» (George Weigel, 
 
 San Juan de la Cruz es reconocido como Doctor Místico de la Iglesia (1926, Pío XI). Su influencia se extiende mucho más allá del Carmelo: su doctrina sobre la purificación, la noche oscura y la unión transformante constituye el punto de referencia fundamental para toda la teología mística posterior. Autores como [[antonio_royo_marín]], Hans Urs von Balthasar, Jacques Maritain y Edith Stein se han apoyado en su doctrina.
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. II, subraya su magisterio histórico: en
+la crisis provocada por la Reforma, cuando parecía que la reflexión
+ecclesial sobre el *Cantar de los Cantares* quedaba reducida «a
+reflexiones cada vez más rígidas sobre la fe, en detrimento del amor y de
+la caridad», Juan tuvo «la misión de salvar» el texto bíblico nupcial,
+releyéndolo «con renovada inspiración poética» en las cuarenta estrofas
+del *Cántico Espiritual*, dándole «un acabado trinitario en la *Llama de
+amor viva*». Fue «el *maestro de la fe*» (JPII, Carta apostólica
+14-XII-1990) que repitió a la Iglesia Esposa la palabra del Amado.
+
+Su muerte encarna su doctrina: interrumpió las oraciones de los
+agonizantes —«Padre, no necesito esto, léame algo del *Cantar de los
+Cantares*»—, exclamó «¡Qué perlas tan preciosas!», y a medianoche:
+«¡Gloria a Dios, iré a cantarlo en el cielo!». Los presentes contaron
+que una suave luz y un intenso perfume llenaron la celda.
+
 ## Ver también
 [[santa_teresa_de_jesús]], [[santo_tomás_de_aquino]], [[pseudo-dionisio_areopagita]], [[contemplación]], [[matrimonio_espiritual]]
 

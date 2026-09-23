@@ -13,10 +13,10 @@ tags: ["resumen", "los-carismas-y-las-nuevas-realidades-eclesiales"]
 ## Conceptos básicos referenciados
 
 - [[movimientos_eclesiales]] — realidades asociativas de fieles
-- [[Regnum_Christi]] — movimiento eclesial del cual forman parte los Legionarios de Cristo
-- [[Legionarios_de_Cristo]] — instituto de vida consagrada masculina
-- [[Christifideles_laici]] — Exhortación apostólica postsinodal de San [[Juan_Pablo_II]]
-- [[Evangelii_Gaudium]] — Exhortación apostólica del Papa Francisco
+- [[regnum_christi]] — movimiento eclesial del cual forman parte los Legionarios de Cristo
+- [[legionarios_de_cristo]] — instituto de vida consagrada masculina
+- [[Christifideles_laici]] — Exhortación apostólica postsinodal de San [[juan_pablo_ii]]
+- [[evangelii_gaudium]] — Exhortación apostólica del Papa Francisco
 - [[vocación]] — llamamiento de Dios a cada persona
 - [[complementariedad]] — complemento mutuo entre diferentes estados de vida
 - [[sacerdocio]] — ministerio de los presbíteros
@@ -25,7 +25,7 @@ tags: ["resumen", "los-carismas-y-las-nuevas-realidades-eclesiales"]
 
 ## Contenido
 
-El subsidio concluye con siete preguntas de asimilación diseñadas para la reflexión en equipo, que buscan integrar lo aprendido y aplicarlo a la vida concreta de los miembros del [[Regnum_Christi]].
+El subsidio concluye con siete preguntas de asimilación diseñadas para la reflexión en equipo, que buscan integrar lo aprendido y aplicarlo a la vida concreta de los miembros del [[regnum_christi]].
 
 ### Preguntas de reflexión
 
@@ -35,13 +35,13 @@ El subsidio concluye con siete preguntas de asimilación diseñadas para la refl
 
 3. **Criterios de eclesialidad**: ¿Cuáles son los criterios de eclesialidad enunciados en la exhortación apostólica postsinodal *[[Christifideles_laici]]*?
 
-4. **Fecundidad para la misión**: ¿Cuáles características propias de los movimientos consideras especialmente fecundos para la misión de la [[Iglesia]]?
+4. **Fecundidad para la misión**: ¿Cuáles características propias de los movimientos consideras especialmente fecundos para la misión de la [[iglesia]]?
 
-5. **Aplicación al Regnum Christi**: ¿Qué nos dice la exhortación apostólica *[[Evangelii_Gaudium]]* sobre los movimientos y cómo lo podemos aplicar al [[Regnum_Christi]]?
+5. **Aplicación al Regnum Christi**: ¿Qué nos dice la exhortación apostólica *[[evangelii_gaudium]]* sobre los movimientos y cómo lo podemos aplicar al [[regnum_christi]]?
 
-6. **Pertenencia al movimiento**: ¿Qué me ha llevado a participar en el [[Regnum_Christi]], en vez de recorrer mi camino como cristiano sin la pertenencia a ningún movimiento?
+6. **Pertenencia al movimiento**: ¿Qué me ha llevado a participar en el [[regnum_christi]], en vez de recorrer mi camino como cristiano sin la pertenencia a ningún movimiento?
 
-7. **Complementariedad vocacional**: ¿Cómo vivo la [[complementariedad]] con las otras vocaciones del [[Regnum_Christi]]? ¿Con los sacerdotes [[Legionarios_de_Cristo]]? ¿Con las consagradas? ¿Con los consagrados? ¿Qué recibo de ellos y qué les aporto yo como miembro laico?
+7. **Complementariedad vocacional**: ¿Cómo vivo la [[complementariedad]] con las otras vocaciones del [[regnum_christi]]? ¿Con los sacerdotes [[legionarios_de_cristo]]? ¿Con las consagradas? ¿Con los consagrados? ¿Qué recibo de ellos y qué les aporto yo como miembro laico?
 
 ## Lecturas recomendadas
 

@@ -67,6 +67,14 @@ La libertad es «una categoría ética» que se realiza por medio de la verdad. 
 
 PLDC sitúa la libertad como el aspecto más dramático del método de Dios (Parte III, cap. 1, §2b): «il metodo che Dio ha seguito gioca tutto sulla libertà» — el hombre es cristiano con toda su libertad particular, de modo que el ideal cristiano será actuado en la medida en que la libertad lo quiere, y el mismo individuo podrá portar el ideal y al mismo tiempo contradecirlo viviéndolo. El mensaje divino pasa por un vehículo finito y libre: nunca la libertad humana realizará integralmente el ideal; y sin embargo «Dio si è legato a questa nostra particolare attuazione della libertà». En el orden sacramental, la libertad es condición de la gracia: el sacramento no opera mecánicamente; su eficacia (*ex opere operato*) es dono, pero exige la participación libre de la persona; incluso el bautismo de los niños salva la libertad inscribiéndola en el contexto comunitario educador y en el futuro de su vida consciente. Finalmente, en el *fiat* de María la libertad muestra su cima: «soplo de la libertad», capacidad de adherirse al Ser que invade la vida.
 
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+DLV profundiza la libertad en clave de pertenencia y de destino:
+
+- **La libertad sin pertenencia es fuente de mentira y violencia** — la cultura moderna abole el pasado y mata la pertenencia (Arendt); «la libertad sin pertenencia es fuente de mentira y violencia» (Gv 8,43-44) (DLV 14, 33-71).
+- **Huida de la libertad** — la libertad no se crea a sí misma; la libertad es reconocer que Dios es todo en todo (DLV 16, 7-15).
+- **La libertad del yo y el destino** — el hombre no se autoconstituye: comienza a afirmarse «accettando di esistere»; la libertad se realiza aceptando ser hecho y destinado (DLV 14, 3-29).
+
 ## Analizado para
 
 - [[jeff_lacour_true_freedom_through_prayer]]

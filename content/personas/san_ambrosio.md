@@ -39,6 +39,18 @@ Se le atribuye la organización del canto ambrosiano y la composición de numero
 
 [[padres_de_la_iglesia]], [[san_agustín]], [[arrianismo]], [[patrística]], [[concilio_de_constantinopla_i]], [[espíritu_santo]], [[hispana]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: elegido obispo de Milán en 374 siendo
+aún catecúmeno, mientras garantizaba el orden público en la disputa entre
+católicos y arrianos: la multitud gritó «¡Ambrosio Obispo!». Convertido a
+Agustín, mantenía que «el emperador está dentro de la Iglesia, no sobre
+la Iglesia», y exigió a Teodosio pública reparación por la represión de
+Tesalónica. Su agonía comenzó el Viernes Santo del 397: «cuando se dejó
+ir para volar al Señor, desde las cinco de la tarde hasta el momento que
+entregó el alma, rezó con los brazos abiertos en cruz». Algunos jóvenes
+dijeron ver brillar una estrella en su frente.
+
 ## Referencias
 
 - *De Fide* (Sobre la fe)

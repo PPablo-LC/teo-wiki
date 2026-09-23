@@ -27,6 +27,13 @@ En la Tischrede 82 se formula la crítica del moralismo: «¿Amas el sacrificio?
 
 En la Tischrede 83 se subraya el primado del amor a una Presencia antes de todo sacrificio: «La actitud que inmediatamente hay que tener antes del sacrificio es el amor a una Presencia. Si no hay amor a esta Presencia, entonces —sacrificio pequeño, sacrificio grande— uno cae. En cambio, si hay amor a esta Presencia, uno está siempre listo: estote parati» (AED, 19, 123-125).
 
+### Luigi Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+DLV refuerza la crítica del moralismo desde la moralidad como amistad:
+
+- **La moralidad nueva como reconocimiento amoroso** — la moral cristiana es «riconoscimento amoroso di una Presenza connessa col destino» que continúa en la historia (Ab 2,4; Rm 1,17); reducida a esfuerzo autónomo degenera en moralismo (DLV 10, 81-126).
+- **Lo que no es amistad es mentira** — la moralidad de Cristo: toda acción, como relación, es amistad; todo lo que no es amistad es deficiente y mentiroso — el moralismo es precisamente la acción sin amistad (DLV 07, 31).
+
 ## Distinciones importantes
 
 - **Sacrificio como medio vs. sacrificio como fin**: El amor se ordena a lo verdadero y al otro; el moralismo invierte la jerarquía y hace del sacrificio un fin.

@@ -104,7 +104,7 @@ La obra de Terrence Malick conecta con múltiples temas teológicos:
 
 ## Ver también
 
-[[cine]], [[contemplación]], [[peregrinación]], [[theo-drama]], [[naturaleza_y_gracia]], [[vía_pulchritudinis]], [[laudato_si']], [[tolstoy]], [[the_tree_of_life]]
+[[cine]], [[contemplación]], [[peregrinación]], [[theo-drama]], [[naturaleza_y_gracia]], [[vía_pulchritudinis]], [[laudato_si']], [[león_tolstoy]], [[the_tree_of_life]]
 
 ## Referencias
 

@@ -32,7 +32,7 @@ El cisma anglicano se diferencia de la Reforma protestante en sus orígenes (pol
 
 ## Ver también
 
-[[martin_lutero]], [[reforma_protestante]], [[cisma]], [[primado_papal]], [[santo_tomas_moro]], [[león_x]]
+[[martin_lutero]], [[reforma_protestante]], [[cisma]], [[primado_papal]], [[tomás_moro]], [[leon_x]]
 
 ## Referencias
 

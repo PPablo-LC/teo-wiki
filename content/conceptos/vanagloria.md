@@ -48,7 +48,7 @@ La vanagloria busca fama y nombradía sin méritos en que apoyarla o sin ordenar
 Se relaciona con [[soberbia]], [[humildad]], [[veracidad]], [[presunción]], [[hipocresía]], [[respeto_humano]].
 
 ## Ver también
-[[virtud_de_la_religión]], [[gloria_de_Dios]]
+[[virtud_de_la_religión]], [[gloria_de_dios]]
 ## Referencias
 
 - [CEC §1753; §2481]

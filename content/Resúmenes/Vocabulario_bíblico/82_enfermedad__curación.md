@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[milagro]] — la curación como milagro y signo
 - [[fe]] — la fe como condición de la curación
 - [[reino_de_dios]] — la curación como signo del reino de Dios
-- [[Espíritu]] — la unción y los carismas de curación
+- [[espíritu]] — la unción y los carismas de curación
 - [[sufrimiento]] — la enfermedad integrada en el orden de la salvación
 
 ## Contenido
@@ -43,7 +43,7 @@ Es un golpe de Dios que hiere al hombre *Ex 4,6* *Job 16,12ss*. En dependencia d
 
 ##### 3. El nexo entre enfermedad y pecado.
 
-La revelación bíblica no contradice este nexo; lo precisa. Dios creó al hombre para la felicidad *Gen 2*. La enfermedad no entró en el mundo sino como consecuencia del pecado *Gen 3,16-19*. Es uno de los signos de la [[ira]] de Dios contra un mundo pecador *Ex 9,1-12*. En el marco de la [[alianza]], es una de las maldiciones principales contra el pueblo infiel *Dt 28,21s*. La demanda de curación va siempre acompañada de una confesión de faltas *Sal 38,2-6*. Sin embargo, no toda enfermedad tiene por causa el pecado personal. Cuando aflige a los justos, puede ser una prueba providencial *Tob 12,13*. En el caso del [[siervo_de_yahvé]], adquiere valor de [[expiacion|expiación]] *Is 53,4s*.
+La revelación bíblica no contradice este nexo; lo precisa. Dios creó al hombre para la felicidad *Gen 2*. La enfermedad no entró en el mundo sino como consecuencia del pecado *Gen 3,16-19*. Es uno de los signos de la [[ira]] de Dios contra un mundo pecador *Ex 9,1-12*. En el marco de la [[alianza]], es una de las maldiciones principales contra el pueblo infiel *Dt 28,21s*. La demanda de curación va siempre acompañada de una confesión de faltas *Sal 38,2-6*. Sin embargo, no toda enfermedad tiene por causa el pecado personal. Cuando aflige a los justos, puede ser una prueba providencial *Tob 12,13*. En el caso del [[siervo_de_yahvé]], adquiere valor de [[expiación|expiación]] *Is 53,4s*.
 
 #### II. LA CURACIÓN
 
@@ -79,4 +79,4 @@ Desde la primera misión, Jesús asoció a los apóstoles a su poder de curar *M
 
 ##### 2. La enfermedad no se suprime infaliblemente.
 
-La humanidad deberá sobrellevar las consecuencias del pecado. Pero Jesús, «tomando sobre sí nuestras enfermedades», les dio un significado nuevo: tienen ya valor de redención. Pablo sabe que unen al hombre con Cristo paciente: «Llevamos en nuestros cuerpos los sufrimientos de muerte de Jesús» *2Cor 4,10*. El cristiano se regocija de «completar en su carne lo que falta a las pruebas de Cristo» *Col 1,24*. En tanto llega el retorno al [[paraiso|paraíso]] *Ap 22,2* *Ez 47,12*, la [[sufrimiento|enfermedad]], como el sufrimiento y como la [[muerte]], es integrada en el orden de la [[salvacion|salvación]]. Servir a los enfermos es servir a Jesús mismo: «Estaba enfermo y me visitasteis» *Mt 25,36*. El enfermo, en el mundo cristiano, es la imagen y el signo de Cristo Jesús.
+La humanidad deberá sobrellevar las consecuencias del pecado. Pero Jesús, «tomando sobre sí nuestras enfermedades», les dio un significado nuevo: tienen ya valor de redención. Pablo sabe que unen al hombre con Cristo paciente: «Llevamos en nuestros cuerpos los sufrimientos de muerte de Jesús» *2Cor 4,10*. El cristiano se regocija de «completar en su carne lo que falta a las pruebas de Cristo» *Col 1,24*. En tanto llega el retorno al [[paraíso|paraíso]] *Ap 22,2* *Ez 47,12*, la [[sufrimiento|enfermedad]], como el sufrimiento y como la [[muerte]], es integrada en el orden de la [[salvación|salvación]]. Servir a los enfermos es servir a Jesús mismo: «Estaba enfermo y me visitasteis» *Mt 25,36*. El enfermo, en el mundo cristiano, es la imagen y el signo de Cristo Jesús.

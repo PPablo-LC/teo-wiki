@@ -14,8 +14,8 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[accion_de_gracias]] — sentido primero del término eucaristía
-- [[bendicion]] — la eucaristía-bendición que celebra las maravillas de Dios
+- [[acción_de_gracias]] — sentido primero del término eucaristía
+- [[bendición]] — la eucaristía-bendición que celebra las maravillas de Dios
 - [[alabanza]] — matiz de reconocimiento de la alabanza
 - [[memoria]] — la anamnesis que evoca el pasado
 - [[maná]] — figura del don verdadero bajado del cielo
@@ -23,7 +23,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sacrificio]] — la sangre derramada como sacrificio de la nueva alianza
 - [[cordero_de_dios]] — el cordero pascual
 - [[alianza]] — la nueva alianza anunciada por Jeremías
-- [[comunion]] — la comunión en el sacrificio y en el cuerpo de Cristo
+- [[comunión]] — la comunión en el sacrificio y en el cuerpo de Cristo
 - [[mediador]] — Cristo, mediador de la nueva alianza
 - [[cautividad]] — la liberación, no de una cautividad temporal, sino del pecado
 
@@ -33,7 +33,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 #### Acción de gracias y bendición.
 
-Eucaristía significa de suyo reconocimiento, gratitud; de ahí, acción de gracias. Este sentido, el más ordinario en el griego profano, se halla también en la Biblia griega *Sab 18,2* *2Mac 2,27* *Act 24,3* *Rom 16,4*. Para con Dios, la [[accion_de_gracias|acción de gracias]] adopta de ordinario la forma de una oración *Sab 16,28* *1Tes 5,17s* *2Cor 1,11* *Col 3,17*. Converge naturalmente con la [[bendicion]] que celebra las «maravillas» de Dios, pues se expresan en beneficios que dan a la [[alabanza]] un matiz de reconocimiento; la acción de gracias va acompañada de una *anamnesis* por la que la [[memoria]] evoca el pasado *Jdt 8,25s* *Ap 11,17s*, y el *eukharistein* equivale al *eulogein* *1Cor 14,16ss*. Esta *eulogía-eucaristía* se halla particularmente en las comidas judías, cuyas bendiciones dan gracias por los alimentos. Pablo habla de comer con «eucaristía» *Rom 14,6* *1Cor 10,30* *1Tim 4,3s*.
+Eucaristía significa de suyo reconocimiento, gratitud; de ahí, acción de gracias. Este sentido, el más ordinario en el griego profano, se halla también en la Biblia griega *Sab 18,2* *2Mac 2,27* *Act 24,3* *Rom 16,4*. Para con Dios, la [[acción_de_gracias|acción de gracias]] adopta de ordinario la forma de una oración *Sab 16,28* *1Tes 5,17s* *2Cor 1,11* *Col 3,17*. Converge naturalmente con la [[bendición]] que celebra las «maravillas» de Dios, pues se expresan en beneficios que dan a la [[alabanza]] un matiz de reconocimiento; la acción de gracias va acompañada de una *anamnesis* por la que la [[memoria]] evoca el pasado *Jdt 8,25s* *Ap 11,17s*, y el *eukharistein* equivale al *eulogein* *1Cor 14,16ss*. Esta *eulogía-eucaristía* se halla particularmente en las comidas judías, cuyas bendiciones dan gracias por los alimentos. Pablo habla de comer con «eucaristía» *Rom 14,6* *1Cor 10,30* *1Tim 4,3s*.
 
 #### El uso de Jesús y el uso cristiano.
 
@@ -61,11 +61,11 @@ Instituida durante una comida, la eucaristía es un rito de nutrición. Desde lo
 
 #### De las figuras a la realidad.
 
-[[alimento|Alimentos]] y comida sirven para expresar la comunicación de vida que Dios hace a su pueblo. El [[mana|maná]] y las codornices del [[exodo|Éxodo]], el [[agua]] que brotó de la roca de Horeb *Sal 78,20-29*, prefiguran el [[don]] verdadero que sale de la boca de Dios *Dt 8,3* *Mt 4,4*, la [[palabra_de_dios|palabra]], verdadero [[pan]] bajado del cielo *Ex 16,4*. Estas figuras se realizan en Jesús: él es el «pan de vida», primero por su palabra *Jn 6,26-51a*, luego por su [[carne]] y su [[sangre]] dados como comida y bebida *Jn 6,51b-58*, dichas después de alimentar milagrosamente a la multitud *Jn 6,1-15*. El don que promete, opuesto al maná *6,31s.49s*, enlaza con las maravillas del éxodo y se sitúa en el horizonte del banquete mesiánico *Is 25,6* *Mt 8,11* *22,2-14* *Lc 14,15* *Ap 19,9*.
+[[alimento|Alimentos]] y comida sirven para expresar la comunicación de vida que Dios hace a su pueblo. El [[maná|maná]] y las codornices del [[éxodo|Éxodo]], el [[agua]] que brotó de la roca de Horeb *Sal 78,20-29*, prefiguran el [[don]] verdadero que sale de la boca de Dios *Dt 8,3* *Mt 4,4*, la [[palabra_de_dios|palabra]], verdadero [[pan]] bajado del cielo *Ex 16,4*. Estas figuras se realizan en Jesús: él es el «pan de vida», primero por su palabra *Jn 6,26-51a*, luego por su [[carne]] y su [[sangre]] dados como comida y bebida *Jn 6,51b-58*, dichas después de alimentar milagrosamente a la multitud *Jn 6,1-15*. El don que promete, opuesto al maná *6,31s.49s*, enlaza con las maravillas del éxodo y se sitúa en el horizonte del banquete mesiánico *Is 25,6* *Mt 8,11* *22,2-14* *Lc 14,15* *Ap 19,9*.
 
 #### La comida del Señor, memorial y promesa.
 
-La última cena es como la última preparación del banquete mesiánico en que Jesús volverá a encontrarse con los suyos. La «pascua cumplida» *Lc 22,15s* y el «vino nuevo» *Mc 14,25 p* preparan el pan y el vino para significar la realidad nueva de su cuerpo y de su sangre. Las palabras que pronunciaba el padre de familia conferían poder de evocación y de esperanza; Jesús usa de ese poder creador de la palabra y lo aumenta con su autoridad soberana: dando al pan y al vino su nuevo sentido, no los explica, sino que los transforma. No interpreta, sino que decide, decreta: esto es mi cuerpo. La cópula «ser» no bastaría para justificar este realismo, pues puede expresar un significado en imágenes: «la siega es el fin del mundo» *Mt 13,39*. La situación exige un sentido fuerte: Jesús no propone una [[parabola|parábola]], preside una comida, en la que las bendiciones rituales confieren a los alimentos un valor de otro orden. En él este valor es de una amplitud y de un realismo incomparables, que le vienen de la realidad en juego: una muerte redentora que a través de una resurrección desemboca en la vida escatológica.
+La última cena es como la última preparación del banquete mesiánico en que Jesús volverá a encontrarse con los suyos. La «pascua cumplida» *Lc 22,15s* y el «vino nuevo» *Mc 14,25 p* preparan el pan y el vino para significar la realidad nueva de su cuerpo y de su sangre. Las palabras que pronunciaba el padre de familia conferían poder de evocación y de esperanza; Jesús usa de ese poder creador de la palabra y lo aumenta con su autoridad soberana: dando al pan y al vino su nuevo sentido, no los explica, sino que los transforma. No interpreta, sino que decide, decreta: esto es mi cuerpo. La cópula «ser» no bastaría para justificar este realismo, pues puede expresar un significado en imágenes: «la siega es el fin del mundo» *Mt 13,39*. La situación exige un sentido fuerte: Jesús no propone una [[parábola|parábola]], preside una comida, en la que las bendiciones rituales confieren a los alimentos un valor de otro orden. En él este valor es de una amplitud y de un realismo incomparables, que le vienen de la realidad en juego: una muerte redentora que a través de una resurrección desemboca en la vida escatológica.
 
 ### IV. LA EUCARISTÍA, SACRAMENTO DE UN SACRIFICIO
 
@@ -75,7 +75,7 @@ El cuerpo será «dado por vosotros», la sangre «derramada por vosotros» (Lc)
 
 #### La comunión en el sacrificio.
 
-Lo más nuevo es que Jesucristo encierra la riqueza de este sacrificio en alimentos. En Israel se acostumbraba percibir los frutos de un sacrificio consumiendo la víctima *1Cor 10,18-21*. Los fieles de Jesús, comiendo su cuerpo inmolado y bebiendo su sangre, tendrán parte en su sacrificio, haciendo suya su ofrenda de amor. Escoge alimentos muy corrientes, y ordena a sus discípulos que repitan las palabras que por su autoridad operarán este cambio, dándoles una participación delegada en su [[sacerdocio]]. Cada vez que reproducen este gesto, «anuncian la muerte del Señor hasta que venga» *1Cor 11,26*, «en [[memoria]] suya» *11,25* *Lc 22,19*, es decir, lo hacen presente al recuerdo de Dios *Lev 24,7* *Num 10,9s*, como una ofrenda incesantemente renovada que atrae su gracia. *Anamnesis* del recuerdo admirativo de las maravillas de Dios, la mayor de las cuales es el sacrificio de su Hijo; en ella los hombres participan uniéndose por la [[comunion|comunión]] al cuerpo del Señor y en él a todos sus miembros *1Cor 10,14-22*. Sacramento del sacrificio de Cristo es la eucaristía: sacramento de la caridad, de la unión en el [[cuerpo]] de Cristo.
+Lo más nuevo es que Jesucristo encierra la riqueza de este sacrificio en alimentos. En Israel se acostumbraba percibir los frutos de un sacrificio consumiendo la víctima *1Cor 10,18-21*. Los fieles de Jesús, comiendo su cuerpo inmolado y bebiendo su sangre, tendrán parte en su sacrificio, haciendo suya su ofrenda de amor. Escoge alimentos muy corrientes, y ordena a sus discípulos que repitan las palabras que por su autoridad operarán este cambio, dándoles una participación delegada en su [[sacerdocio]]. Cada vez que reproducen este gesto, «anuncian la muerte del Señor hasta que venga» *1Cor 11,26*, «en [[memoria]] suya» *11,25* *Lc 22,19*, es decir, lo hacen presente al recuerdo de Dios *Lev 24,7* *Num 10,9s*, como una ofrenda incesantemente renovada que atrae su gracia. *Anamnesis* del recuerdo admirativo de las maravillas de Dios, la mayor de las cuales es el sacrificio de su Hijo; en ella los hombres participan uniéndose por la [[comunión|comunión]] al cuerpo del Señor y en él a todos sus miembros *1Cor 10,14-22*. Sacramento del sacrificio de Cristo es la eucaristía: sacramento de la caridad, de la unión en el [[cuerpo]] de Cristo.
 
 ### V. LA EUCARISTÍA, SACRAMENTO ESCATOLÓGICO
 

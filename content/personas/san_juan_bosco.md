@@ -44,6 +44,18 @@ El sistema preventivo de Don Bosco se opone al sistema represivo. Se fundamenta 
 
 [[salesianos]], [[educación_católica]], [[sistema_preventivo]], [[María_Auxiliadora]], [[oratorio_festivo]], [[alegría]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: estaba convencido del «**método
+preventivo**, que consiste en saber obtener todo de los alumnos con el
+amor y no con la fuerza, acompañándolos para saber prevenir sus
+limitaciones». Lo que tenía en el corazón al morir lo sabemos por lo que
+había repetido a sus muchachos: «He prometido a Dios que hasta mi último
+suspiro sería para vosotros, jóvenes. Por vosotros estudio, por vosotros
+trabajo, por vosotros estoy también dispuesto a dar la vida». En la
+agonía revivía sus preocupaciones por los muchachos; a un colaborador le
+recomendó: «Di a los jóvenes que los espero a todos en el Paraíso».
+
 ## Referencias
 
 - HI, Archivo 40

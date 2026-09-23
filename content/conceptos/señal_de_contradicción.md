@@ -35,7 +35,7 @@ Elizabeth Scalia extiende la categoría a la condición cristiana contemporánea
 
 ## Relaciones doctrinales
 
-Se relaciona con [[cruz]], [[virgen_maría]], [[simeón]], [[presentación_en_el_templo]], [[kenosis]], [[maternidad_espiritual]].
+Se relaciona con [[cruz]], [[virgen_maría]], [[simeon]], [[presentacion_en_el_templo]], [[kenosis]], [[maternidad_espiritual]].
 
 ## Ver también
 

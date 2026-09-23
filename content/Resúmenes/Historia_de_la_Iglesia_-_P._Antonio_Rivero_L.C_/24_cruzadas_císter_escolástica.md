@@ -15,7 +15,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 - [[san_bernardo_de_claraval]] — maestro espiritual y doctor de la Iglesia, impulsor de la orden cisterciense
 - [[escolástica]] — método teológico nacido en las escuelas medievales en torno al siglo XII
 - [[cruzadas]] — empresas de la cristiandad para liberar Tierra Santa
-- [[cister]] — orden monástica fundada por san Roberto de Molesmes, reformada por san Bernardo
+- [[orden_del_císter]] — orden monástica fundada por san Roberto de Molesmes, reformada por san Bernardo
 - [[cisma_de_oriente]] — referido como ruptura previa de la cristiandad (contexto)
 - [[inocencio_iii]] — papa con el que el papado alcanza la cumbre de su poder
 

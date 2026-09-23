@@ -45,10 +45,10 @@ El VocTeoBib trata la teofanía como un concepto central de la revelación bíbl
 
 ## Relaciones doctrinales
 
-Se vincula con la [[revelación_divina]], la [[encarnación]], la [[transfiguración]], el [[bautismo_del_señor]], el [[sinaí]], [[pentecostés]], la [[manifestaciones_de_dios]] y la [[nube]].
+Se vincula con la [[revelación_divina]], la [[encarnación]], la [[transfiguración]], el [[bautismo_del_señor]], el [[sinai]], [[pentecostés]], la [[manifestaciones_de_dios]] y la [[nube]].
 
 ## Ver también
-[[transfiguración]], [[sinaí]], [[pentecostés]], [[encarnación]], [[revelación_divina]]
+[[transfiguración]], [[sinai]], [[pentecostés]], [[encarnación]], [[revelación_divina]]
 
 ## Referencias
 - [CEC §697-701]

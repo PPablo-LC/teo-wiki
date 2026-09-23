@@ -54,7 +54,7 @@ La nota 60 señala que en el Magníficat, *hesed* designa «la fidelidad que Dio
 
 ## Ver también
 
-[[misericordia]], [[rahamim]], [[alianza]], [[fidelidad_de_dios]], [[elección]], [[antiguo_testamento]], [[exodo]]
+[[misericordia]], [[rahamim]], [[alianza]], [[fidelidad_de_dios]], [[elección]], [[antiguo_testamento]], [[éxodo]]
 
 ## Referencias
 

@@ -12,10 +12,10 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 
 ## Conceptos básicos referenciados
 
-- [[vocacion]] — la llamada de Dios a la vida sacerdotal y consagrada
-- [[formacion_cristiana]] — la formación humana y cristiana de los niños y adolescentes
+- [[vocación]] — la llamada de Dios a la vida sacerdotal y consagrada
+- [[formación_cristiana]] — la formación humana y cristiana de los niños y adolescentes
 - [[apostolado]] — la misión de extender el Reino de Cristo
-- [[direccion_espiritual]] — medio de formación y cultivo vocacional
+- [[dirección_espiritual]] — medio de formación y cultivo vocacional
 - [[reino_de_dios]] — el ideal que inspira a ECYD
 
 

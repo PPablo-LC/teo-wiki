@@ -41,11 +41,11 @@ Santo Tomás trata el celo (*zelus*) como un efecto del amor. Procede de la inte
 
 ## Relaciones doctrinales
 
-[[ira]] — [[fuego]] — [[amor]] — [[santo]] — [[piedad]] — [[adoración]] — [[idolos]]
+[[ira]] — [[fuego]] — [[amor]] — [[santo]] — [[piedad]] — [[adoración]] — [[ídolos]]
 
 ## Ver también
 
-[[elias]], [[buscar]], [[naciones]], [[mision]]
+[[elías]], [[buscar]], [[naciones]], [[misión]]
 
 ## Referencias
 

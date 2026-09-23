@@ -16,7 +16,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[bienaventuranza]] — el reino bajo el signo de la bienaventuranza
 - [[designio_de_dios]] — el designio ordenado a reconciliar toda criatura
-- [[reconciliacion]] — la reconciliación de toda criatura con Dios
+- [[reconciliación]] — la reconciliación de toda criatura con Dios
 - [[infierno]] — el infierno separa definitivamente de Dios
 - [[pecado]] — el pecado subyacente al castigo
 - [[ira]] — la ira subyacente al castigo
@@ -31,13 +31,13 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[muerte]] — la muerte como castigo
 - [[incredulidad]] — las ciudades castigadas por su incredulidad
 - [[naciones]] — las naciones enemigas del pueblo de Dios
-- [[creacion]] — la creación sujeta a la vanidad
+- [[creación]] — la creación sujeta a la vanidad
 - [[don]] — el don de Dios en el punto de partida
 - [[endurecimiento]] — el endurecimiento ante el llamamiento
-- [[corazon]] — la abertura del corazón ante el castigo
+- [[corazón]] — la abertura del corazón ante el castigo
 - [[babel]] — Babel como castigo «cerrado»
 - [[santo]] — el pecado incompatible con la santidad divina
-- [[retribucion]] — el castigo como retribución del pecado
+- [[retribución]] — el castigo como retribución del pecado
 - [[gracia]] — la gracia de la visita divina
 - [[visita]] — la visita divina
 - [[presencia_de_dios]] — la presencia suave al corazón puro
@@ -45,17 +45,17 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[alianza]] — la intransigencia celosa una vez en la alianza
 - [[venganza]] — la venganza frente a los enemigos
 - [[justicia]] — la justicia divina
-- [[perdon]] — la voluntad de perdón
+- [[perdón]] — la voluntad de perdón
 - [[cruz]] — la cruz como castigo que hiere de muerte al tentador
-- [[sabiduria]] — la sabiduría de Dios en la cruz
-- [[educacion]] — la educación de la libertad por la corrección
+- [[sabiduría]] — la sabiduría de Dios en la cruz
+- [[educación]] — la educación de la libertad por la corrección
 - [[ley]] — el castigo ligado con la ley
 - [[liberación_y_libertad]] — el cristiano del Espíritu liberado del castigo
 - [[padres_y_padre]] — el castigo permitido por el amor del Padre
 - [[reino_de_dios]] — el juicio anticipando la condenación
-- [[justificacion]] — el juicio como justificación para el espiritual
+- [[justificación]] — el juicio como justificación para el espiritual
 - [[carne]] — el hombre carnal frente al espiritual
-- [[espiritu]] — vivir según el Espíritu
+- [[espíritu]] — vivir según el Espíritu
 
 ## Contenido
 

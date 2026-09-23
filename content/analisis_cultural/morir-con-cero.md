@@ -66,7 +66,7 @@ El autor dedica un capítulo entero a describir las «estaciones de la vida» y 
 
 **En la obra:** El trabajo es un medio para financiar la vida deseada. Perkins no otorga valor intrínseco al trabajo: se trabaja para ganar dinero que se gastará en experiencias. El capítulo 9 («Equilibra la balanza») critica la «cultura del trabajo» que pospone la vida a la jubilación, y propone que el trabajo debe subordinarse a los objetivos vitales.
 
-**Convergencias:** La crítica a la idolatría del trabajo y al activismo desmedido es saludable. [[Laborem Exercens]] advierte contra el «capitalismo salvaje» que convierte al trabajador en mero instrumento. La idea de que el trabajo está al servicio de la persona y no al revés es un principio de la doctrina social de la Iglesia (LE §6).
+**Convergencias:** La crítica a la idolatría del trabajo y al activismo desmedido es saludable. [[laborem_exercens]] advierte contra el «capitalismo salvaje» que convierte al trabajador en mero instrumento. La idea de que el trabajo está al servicio de la persona y no al revés es un principio de la doctrina social de la Iglesia (LE §6).
 
 **Tensiones:** La teología cristiana del trabajo es mucho más rica: el trabajo es participación en la obra creadora de Dios (LE §4), camino de santificación (LE §25), y servicio al bien común. Perkins no valora el trabajo como vocación ni como ámbito de crecimiento moral. Su visión es instrumental y hedonista: el trabajo solo vale por lo que permite consumir después.
 

@@ -57,7 +57,7 @@ La perspectiva es predominantemente evangélico-protestante (Church of England),
 - **[[dones_del_espíritu_santo]]**: El episodio 10 enumera los dones carismáticos (1 Corintios 12:4-11) y los presenta como dones para el servicio de la comunidad.
 - **[[iglesia_cuerpo_místico]]**: El episodio 16 presenta la iglesia como «cuerpo de Cristo» (1 Corintios 12:27) y «novia de Cristo» (Efesios 5), imágenes centrales de la eclesiología paulina.
 - **[[pecado]]**: El episodio 13 presenta las tácticas del mal (duda, mentira, tentación, engaño) y la triple alianza (mundo/cuerpo/diablo), convergente con la enseñanza de la Iglesia sobre la realidad del demonio (CEC §391-395).
-- **[[Providencia_divina]]**: El episodio 7 presenta la guía divina a través de cinco canales (Biblia, Espíritu, consejo, sentido común, circunstancias), con referencias a Salmo 32:8, Jeremías 29:11 y Filipenses 2:13.
+- **[[providencia_divina]]**: El episodio 7 presenta la guía divina a través de cinco canales (Biblia, Espíritu, consejo, sentido común, circunstancias), con referencias a Salmo 32:8, Jeremías 29:11 y Filipenses 2:13.
 
 ### Complementos y aportaciones nuevos
 

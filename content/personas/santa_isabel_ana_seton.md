@@ -43,8 +43,23 @@ Alexandra DeSanctis («On the Chief Study of God: The Formative Mind of St. Eliz
 - [[san_vicente_de_paúl]]
 - [[santa_luisa_de_marillac]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. III: conversa al catolicismo tras la
+muerte de su marido en Livorno, «experimentando una fuerte atracción por
+la Eucaristía: sentía que siempre la había deseado —sin saberlo—, y había
+sufrido por carecer de ella». Sufrió «el drama de la madre que sabe
+educar a los hijos de los demás, pero no encuentra correspondencia en los
+suyos propios»; para todos los demás hijos «se hacía dulce
+Providencia». En el lecho de muerte, repetía: «¡Solo el querer de Dios! —
+¡Dios solo!», y si pedía algo, era: «¡Dadme mi Bien!». A las hermanas:
+«¡Sed hijas de la Iglesia, sed verdaderas hijas de la Iglesia!». «Cuando
+murió había experimentado todas las vocaciones femeninas posibles (esposa,
+madre, viuda, mujer consagrada, educadora)».
+
 ## Referencias
 
 - Mixa, Robert. «Education and Christ: A Conversation», en *Evangelization & Culture* 10 (Winter 2021).
 - DeSanctis, Alexandra. «On the Chief Study of God: The Formative Mind of St. Elizabeth Ann Seton», en *Evangelization & Culture* 12 (Summer 2022).
 - [EAC-12, 10_minds.md]
+- A. M. Sicari, *Así mueren los santos*, cap. III (Rialp, 2020)

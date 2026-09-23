@@ -39,7 +39,7 @@ El CEC §2015 enseña que la vía de la perfección pasa por la cruz. No hay san
 
 El abad [[abraham_simple|Abraham "el Simple"]] expone en la Conferencia XXIV la doctrina sobre la mortificación interior. Enseña que el monje debe combatir las pasiones mediante la paciencia y el dominio de sí. La mortificación no se limita a la abstinencia corporal, sino que abarca el dominio de la ira, la paciencia con los hermanos y la aceptación humilde de las propias limitaciones.
 
-El abad [[piamón|Piamón]] en la Conferencia XVIII presenta la obediencia cenobítica como medio de mortificación: el cenobita mortifica su propia voluntad sometiéndose al abad, imitando a Cristo que «se hizo obediente hasta la muerte» (Flp 2,8). La vida común es un campo de mortificación constante por la convivencia con hermanos de diversas condiciones.
+El abad [[piamon|Piamón]] en la Conferencia XVIII presenta la obediencia cenobítica como medio de mortificación: el cenobita mortifica su propia voluntad sometiéndose al abad, imitando a Cristo que «se hizo obediente hasta la muerte» (Flp 2,8). La vida común es un campo de mortificación constante por la convivencia con hermanos de diversas condiciones.
 
 > **Referencia:** ColCas-II, Conferencias XVIII, XXIV
 

@@ -48,11 +48,11 @@ La santificación como voluntad de Dios es una enseñanza especialmente patente 
 
 ## Relaciones doctrinales
 
-La santificación se vincula intrínsecamente con la [[gracia_santificante]], que es su principio formal; con la [[justificación]], que la inicia; con la [[configuración_con_cristo]], que es su contenido esencial; con la [[inhabitación_trinitaria]], que es su misterio fontal; con la [[gloria_de_Dios]], que es su fin último; con el [[espíritu_santo]], que es su agente principal; y con los [[sacramentos]], que son sus medios ordinarios.
+La santificación se vincula intrínsecamente con la [[gracia_santificante]], que es su principio formal; con la [[justificación]], que la inicia; con la [[configuración_con_cristo]], que es su contenido esencial; con la [[inhabitación_trinitaria]], que es su misterio fontal; con la [[gloria_de_dios]], que es su fin último; con el [[espíritu_santo]], que es su agente principal; y con los [[sacramentos]], que son sus medios ordinarios.
 
 ## Ver también
 
-[[gracia_santificante]], [[justificación]], [[santidad]], [[configuración_con_cristo]], [[perfección_cristiana]], [[gloria_de_Dios]], [[fin_de_la_vida_cristiana]], [[gracia_habitual]], [[santificación_del_mundo]]
+[[gracia_santificante]], [[justificación]], [[santidad]], [[configuración_con_cristo]], [[perfección_cristiana]], [[gloria_de_dios]], [[fin_de_la_vida_cristiana]], [[gracia_habitual]], [[santificación_del_mundo]]
 
 ## Referencias
 

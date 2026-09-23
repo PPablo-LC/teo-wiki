@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[comunión_de_personas]] — el contenido auténticamente esponsalicio
 - [[autoeducación]] — el descubrimiento interior del valor del cuerpo
 -[[inocencia_originaria]] — la referencia sin retorno al estado primer
--[[vida_segun_el_espíritu]] — la pureza del hombre de la concupiscencia
+-[[vida_según_el_espíritu]] — la pureza del hombre de la concupiscencia
 -[[herencia_pecaminosa]] — el estado heredado y la pureza accesible
 
 ## Contenido

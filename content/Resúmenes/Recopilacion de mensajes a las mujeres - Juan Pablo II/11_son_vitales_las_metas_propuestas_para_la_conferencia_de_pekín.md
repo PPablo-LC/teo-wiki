@@ -14,7 +14,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 - [[Conferencia_de_Pekin]] — IV Conferencia Mundial de la ONU sobre la Mujer
 - [[igualdad_desarrollo_y_paz]] — temas centrales de la Conferencia sobre la mujer
-- [[Santa_Sede]] — participación activa en las reuniones preparatorias
+- [[santa_sede]] — participación activa en las reuniones preparatorias
 - [[dignidad_de_la_mujer]] — dignidad, papel y derechos de la mujer
 
 ## Contenido

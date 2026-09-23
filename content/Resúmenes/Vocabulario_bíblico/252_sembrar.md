@@ -20,11 +20,11 @@ El devenir de la naturaleza, la historia de las generaciones humanas, el gesto c
 
 ### La acción divina.
 
-El día de la [[creacion|creación]] dio Dios a la tierra el poder de producir una vegetación capaz de reproducirse, de «sembrar una semilla» *Gen 1,11s.29*; el que incesantemente «proporciona al labrador la semilla... os la proporcionará también a vosotros» *2Cor 9,10*. Regulando los tiempos de la siembra y de la recolección *Gen 8,22*, bendice las sementeras del justo con el céntuplo *Gen 26,12* o, por el contrario, frustra la esperanza de los malos *Is 5,10* *Miq 6,15*, que «sembraron trigo» y «recogen abrojos» *Jer 12,13* *Gen 3,18*.
+El día de la [[creación|creación]] dio Dios a la tierra el poder de producir una vegetación capaz de reproducirse, de «sembrar una semilla» *Gen 1,11s.29*; el que incesantemente «proporciona al labrador la semilla... os la proporcionará también a vosotros» *2Cor 9,10*. Regulando los tiempos de la siembra y de la recolección *Gen 8,22*, bendice las sementeras del justo con el céntuplo *Gen 26,12* o, por el contrario, frustra la esperanza de los malos *Is 5,10* *Miq 6,15*, que «sembraron trigo» y «recogen abrojos» *Jer 12,13* *Gen 3,18*.
 
 Pero si el hombre se convierte, Dios «dará la lluvia para la semilla sembrada en la tierra» *Is 30,23*, las tierras podrán ser sembradas *Ez 36,9*.
 
-Si Dios bendice así la siembra, parece, sin embargo, temer que el cultivador se aclimate demasiado bien en esta [[tierra|tierra]]. El deber de no sembrar la tierra durante el año [[sabado|sabático]] *Lev 25,4* exige quizá al israelita el retorno a la vida pastoril que practicaban los *rekabitas* *Jer 35,7*; Jesús da ciertamente a sus discípulos el ejemplo de las aves del cielo, que no siembran ni siegan *Mt 6,26 p*, a fin de enseñar a confiar plenamente en el Padre celestial.
+Si Dios bendice así la siembra, parece, sin embargo, temer que el cultivador se aclimate demasiado bien en esta [[tierra|tierra]]. El deber de no sembrar la tierra durante el año [[sábado|sabático]] *Lev 25,4* exige quizá al israelita el retorno a la vida pastoril que practicaban los *rekabitas* *Jer 35,7*; Jesús da ciertamente a sus discípulos el ejemplo de las aves del cielo, que no siembran ni siegan *Mt 6,26 p*, a fin de enseñar a confiar plenamente en el Padre celestial.
 
 ### El papel del hombre.
 
@@ -38,7 +38,7 @@ Al hombre le corresponde también el rudo laboreo (que según el uso de Palestin
 
 b. Acto de esperanza. Si bien es cierto que el labrador debe tener su parte del producto *1Cor 9,10* y que el ideal es cosechar de lo que se ha sembrado, sin embargo, con frecuencia se verifica el refrán: «uno es el que siembra y otro es el que cosecha» *Jn 4,37*. El sembrador debe por tanto fiarse de la tierra fecunda, esperar el agua del cielo sin pensar en someter estos elementos. Siembre, pues, sin espiar el viento *Ecl 11,4*, pues de lo contrario no hará nada; «ya duerma o se levante, día y noche germina la semilla y crece, y él no sabe cómo» *Mc 4,27*. Pero acuérdese siempre de la experiencia de los hombres: «el que siembra escasamente cosechará escasamente; el que siembra copiosamente cosechará abundantemente» *2Cor 9,6*. La más pequeña de las semillas puede convertirse en un gran árbol *Mc 4,31s*, el grano fecundo puede dar hasta el ciento por uno *Mt 13,8 p*.
 
-Esta esperanza anima a enterrar en el suelo la semilla, a dejarla morir para que produzca fruto *Jn 12,24*; si el que lleva la semilla «se va llorando», sabe que «cantará al traer las gavillas» *Sal 126,5s*. Esta imagen es una pintura del servicio «en favor de los santos» *Gal 6,7-10* *2Cor 9,6-13* y la labor apostólica *Jn 4,38* *1Cor 3,8* *2Cor 9,10ss*. Finalmente, si el grano debe morir a fin de recobrar vida *1Cor 15,36*, lo mismo sucede al hombre mortal que debe [[resurreccion|resucitar]]: «Se siembra en corrupción y resucita en incorrupción... se siembra un cuerpo psíquico y resucita un cuerpo espiritual» *15,42ss*: el cuerpo, confiado a la tierra, resucitará en la gloria de Cristo.
+Esta esperanza anima a enterrar en el suelo la semilla, a dejarla morir para que produzca fruto *Jn 12,24*; si el que lleva la semilla «se va llorando», sabe que «cantará al traer las gavillas» *Sal 126,5s*. Esta imagen es una pintura del servicio «en favor de los santos» *Gal 6,7-10* *2Cor 9,6-13* y la labor apostólica *Jn 4,38* *1Cor 3,8* *2Cor 9,10ss*. Finalmente, si el grano debe morir a fin de recobrar vida *1Cor 15,36*, lo mismo sucede al hombre mortal que debe [[resurrección|resucitar]]: «Se siembra en corrupción y resucita en incorrupción... se siembra un cuerpo psíquico y resucita un cuerpo espiritual» *15,42ss*: el cuerpo, confiado a la tierra, resucitará en la gloria de Cristo.
 
 ## II. SIEMBRA DIVINA
 
@@ -46,11 +46,11 @@ Dios mismo es sembrador: siembra la palabra en el corazón de los hombres, siemb
 
 ### La semilla divina.
 
-Dios bendice a Adán haciéndolo [[fecundidad|fecundo]]. El término «semilla» (gr. *sperma*) sirve para designar a la posteridad, la descendencia, el linaje, la raza. Desde los orígenes se establece un contraste entre la semilla del hombre que se transmite en las [[generacion|generaciones]] y el linaje que debe triunfar de la serpiente *Gen 3,15*.
+Dios bendice a Adán haciéndolo [[fecundidad|fecundo]]. El término «semilla» (gr. *sperma*) sirve para designar a la posteridad, la descendencia, el linaje, la raza. Desde los orígenes se establece un contraste entre la semilla del hombre que se transmite en las [[generación|generaciones]] y el linaje que debe triunfar de la serpiente *Gen 3,15*.
 
 Por un lado se trata de la bendición asegurada a la posteridad de Noé *Gen 9,9*, de Abraham *Gen 12,7*, de Isaac *26,4*, de Jacob *32,13*, que será tan numerosa como el polvo de la tierra *13,15s*, la arena del mar *22,17* o las estrellas del cielo *15,5* *26,4*; la alianza se hace con un individuo y su «semilla», no sólo con la de Abraham, sino con la de David *2Sa 7,12* *22,51*.
 
-Por otro lado nos hallamos con la decepción de Dios ante la infidelidad de esta semilla. Será preciso que sea derribado y cortado el árbol de Jesé, y de su tronco germinará entonces una «semilla santa» *Is 6,13*. En efecto, Dios será de nuevo el sembrador *Os 2,25* *Jer 31,27* que repoblará a Judá, raza maléfica *Is 1,4* diezmada por el [[castigos|castigo]]. Más exactamente, esta semilla se concentrará en un germen, que viene a ser uno de los [[nombre|nombres]] del [[mesias|mesías]]. «He aquí un varón cuyo nombre es germen; donde él está, algo germinará; él reconstruirá el santuario» *Zac 6,12s*.
+Por otro lado nos hallamos con la decepción de Dios ante la infidelidad de esta semilla. Será preciso que sea derribado y cortado el árbol de Jesé, y de su tronco germinará entonces una «semilla santa» *Is 6,13*. En efecto, Dios será de nuevo el sembrador *Os 2,25* *Jer 31,27* que repoblará a Judá, raza maléfica *Is 1,4* diezmada por el [[castigos|castigo]]. Más exactamente, esta semilla se concentrará en un germen, que viene a ser uno de los [[nombre|nombres]] del [[mesías|mesías]]. «He aquí un varón cuyo nombre es germen; donde él está, algo germinará; él reconstruirá el santuario» *Zac 6,12s*.
 
 ### La palabra de Dios.
 

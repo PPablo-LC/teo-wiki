@@ -32,7 +32,7 @@ El tono: comprometido pero desafiante, hermoso pero sustancial, estimulante pero
 
 ### Formación
 
-El objetivo principal es la **formación**: de la vida interior, intelectual y estética. Cultivar una fe más profunda y una amistad cálida con [[Cristo]].
+El objetivo principal es la **formación**: de la vida interior, intelectual y estética. Cultivar una fe más profunda y una amistad cálida con [[cristo]].
 
 Chesterton: «Sentí nostalgia en casa» — la revista recuerda el hogar espiritual (Agustín: «Nuestro corazón está inquieto hasta que descanse en Ti»).
 

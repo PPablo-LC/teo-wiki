@@ -36,7 +36,7 @@ Cristo quitó la ambigüedad entre buenos y malos frutos. Vivió la ley de la fr
 
 ## Relaciones doctrinales
 
-[[frutos_del_espíritu_santo]], [[vid]], [[sarmiento]], [[crecimiento]], [[fé]], [[obras]]
+[[frutos_del_espíritu_santo]], [[vid]], [[sarmiento]], [[crecimiento]], [[fe]], [[obras]]
 
 ## Ver también
 

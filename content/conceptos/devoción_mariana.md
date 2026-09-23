@@ -46,7 +46,7 @@ La devoción mariana se funda en la maternidad espiritual de María (Jn 19,26-27
 
 ## Ver también
 
-[[san_maximiliano_kolbe]], [[maría]], [[inmaculada_concepción]], [[rosario]], [[maría_auxiliadora]], [[santa_maria_goretti]]
+[[san_maximiliano_kolbe]], [[maría]], [[inmaculada_concepción]], [[rosario]], [[maría_auxiliadora]], [[santa_maría_goretti]]
 
 ## Referencias
 

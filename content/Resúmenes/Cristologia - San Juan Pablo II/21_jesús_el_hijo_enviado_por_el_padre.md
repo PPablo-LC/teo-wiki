@@ -14,7 +14,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "misión", "env�
 
 - [[envío_del_hijo]] — Misión mesiánica de parte del Padre
 - [[redención]] — Entrega del Hijo por amor al mundo
-- [[kénosis]] — Anonadamiento del Hijo en forma de siervo
+- [[kenosis]] — Anonadamiento del Hijo en forma de siervo
 - [[obediencia]] — Hasta la muerte de cruz
 
 ## Contenido

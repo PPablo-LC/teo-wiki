@@ -17,7 +17,7 @@ La presencia real y vivida de Cristo resucitado en el bautizado: la verdad revel
 
 ## Desarrollo doctrinal
 
-El fundamento es la fórmula paulina de Gal 2,20, verdad de todo bautizado por la [[gracia santificante]] (la inhabitación de la Trinidad en el alma en gracia) y de todo ser humano en cierto modo. Pero el punto decisivo —subrayado por la fuente RdS— es la diferencia entre una verdad **creída** y una verdad **experimentada**: la presencia de Cristo en nosotros «resta así muchas veces opaca y no experimentada por nuestro excesivo protagonismo carnal, y a veces incluso espiritual; por nuestro oscuro olvido».
+El fundamento es la fórmula paulina de Gal 2,20, verdad de todo bautizado por la [[gracia_santificante]] (la inhabitación de la Trinidad en el alma en gracia) y de todo ser humano en cierto modo. Pero el punto decisivo —subrayado por la fuente RdS— es la diferencia entre una verdad **creída** y una verdad **experimentada**: la presencia de Cristo en nosotros «resta así muchas veces opaca y no experimentada por nuestro excesivo protagonismo carnal, y a veces incluso espiritual; por nuestro oscuro olvido».
 
 El acontecimiento que hace experiencia esta verdad no es un entusiasmo místico extraordinario sino, paradójicamente, el límite: en el punto en que el hombre se queda sin fuerzas, la presencia de Cristo se demuestra como «estar ahí». La verificación de la santidad de Benedetta Bianchi Porro —paralizada, sorda, ciega, muriendo— es paradigma de esta estructura: Cristo no anestesia el dolor sino que lo atraviesa acompañando.
 

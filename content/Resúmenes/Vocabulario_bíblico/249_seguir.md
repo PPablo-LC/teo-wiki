@@ -14,11 +14,11 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-Seguir a Dios es andar por los [[camino|caminos]] de Dios, por los que condujo a su pueblo en tiempos del [[exodo|éxodo]], los que trazará su Hijo para conducir a todos los hombres al término del nuevo y verdadero Éxodo.
+Seguir a Dios es andar por los [[camino|caminos]] de Dios, por los que condujo a su pueblo en tiempos del [[éxodo|éxodo]], los que trazará su Hijo para conducir a todos los hombres al término del nuevo y verdadero Éxodo.
 
 ### La vocación de Israel.
 
-Saliendo de Egipto respondía el pueblo a Yahveh que lo llamaba a seguirle *Os 11,1*. En el desierto camina Israel detrás de Yahveh, que le guía en la columna de nube y en la columna de fuego *Ex 13,21*, que envía a su ángel para abrir un camino a su pueblo *Ex 23,20.23*. Israel oye sin cesar este llamamiento a seguir a Yahveh, como la prometida sigue a su prometido *Jer 2,2*, como el rebaño sigue a su [[pastor_y_rebano|pastor]] *Sal 80,2*, como el pueblo sigue a su [[rey|rey]] *2Sa 15,13* *17,9*, como el fiel sigue a su [[dios|Dios]] *1Re 18,21*.
+Saliendo de Egipto respondía el pueblo a Yahveh que lo llamaba a seguirle *Os 11,1*. En el desierto camina Israel detrás de Yahveh, que le guía en la columna de nube y en la columna de fuego *Ex 13,21*, que envía a su ángel para abrir un camino a su pueblo *Ex 23,20.23*. Israel oye sin cesar este llamamiento a seguir a Yahveh, como la prometida sigue a su prometido *Jer 2,2*, como el rebaño sigue a su [[pastor_y_rebaño|pastor]] *Sal 80,2*, como el pueblo sigue a su [[rey|rey]] *2Sa 15,13* *17,9*, como el fiel sigue a su [[dios|Dios]] *1Re 18,21*.
 
 En efecto, seguir significa adhesión total y sumisión absoluta, es decir, [[fe|fe]] y [[obediencia|obediencia]]. Por eso el hombre que no dudó jamás, Caleb, es recompensado por haber «seguido plenamente a Yahveh» *Dt 1,36*; David, que observó los mandamientos, es el modelo de los que siguen a Dios con todo su corazón *1Re 14,8*. Cuando el rey Josías y todo el pueblo se comprometen a vivir según la alianza, deciden «seguir a Yahveh».
 
@@ -36,4 +36,4 @@ c. Imitar y creer. Los teólogos del NT transpusieron la metáfora. Para Pablo, 
 
 Según Juan, seguir a Cristo es entregarle la [[fe|fe]], una fe entera, fundada en su sola palabra y no en signos exteriores *Jn 4,42*, fe que sabe superar las vacilaciones de la sabiduría humana *Jn 6,2.66-69*; es seguir la luz del mundo tomándola por guía *Jn 8,12*; es situarse entre las ovejas que reúne en un solo rebaño el único pastor *Jn 10,1-16*.
 
-Finalmente, el creyente que sigue a los [[apostoles|apóstoles]] *Act 13,43* comienza así a seguir a Cristo «dondequiera que va» *Ap 14,4* *Jn 8,21s* hasta penetrar en pos de él, «en el otro lado del velo, donde entró él como precursor» *Heb 6,20*. Entonces se realizará la promesa de Jesús: «Si alguien me sirve, sígame, y donde yo estoy, allí estará también mi servidor» *Jn 12,26*.
+Finalmente, el creyente que sigue a los [[apóstoles|apóstoles]] *Act 13,43* comienza así a seguir a Cristo «dondequiera que va» *Ap 14,4* *Jn 8,21s* hasta penetrar en pos de él, «en el otro lado del velo, donde entró él como precursor» *Heb 6,20*. Entonces se realizará la promesa de Jesús: «Si alguien me sirve, sígame, y donde yo estoy, allí estará también mi servidor» *Jn 12,26*.

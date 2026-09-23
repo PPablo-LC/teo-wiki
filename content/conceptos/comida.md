@@ -35,11 +35,11 @@ Jesús confiere a las comidas su pleno valor. Come con publicanos y pecadores, p
 
 ## Relaciones doctrinales
 
-[[eucaristía]] — [[alianza]] — [[sacrificio]] — [[pan]] — [[vino]] — [[comunion]] — [[acciones_de_gracias]]
+[[eucaristía]] — [[alianza]] — [[sacrificio]] — [[pan]] — [[vino]] — [[comunión]] — [[acciones_de_gracias]]
 
 ## Ver también
 
-[[alimento]], [[hospitalidad]], [[bendicion]], [[pascua]], [[reino_de_dios]]
+[[alimento]], [[hospitalidad]], [[bendición]], [[pascua]], [[reino_de_dios]]
 
 ## Referencias
 

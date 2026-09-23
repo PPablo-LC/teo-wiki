@@ -14,7 +14,7 @@ tags: ["resumen", "teol_perf_cristiana", "teología_ascética", "teología_moral
 
 ## Conceptos básicos referenciados
 
-[[pecado mortal]], [[pecado venial]], [[imperfección]], [[mundo]], [[demonio]], [[tentación]], [[obsesión diabólica]], [[posesión diabólica]], [[carne]], [[concupiscencia]], [[purificación activa]], [[purificación pasiva]], [[noche del sentido]], [[noche del espíritu]], [[vía purgativa]], [[vía iluminativa]], [[vía unitiva]], [[gracia santificante]], [[virtudes infusas]], [[dones del Espíritu Santo]], [[caridad]], [[respeto humano]], [[oración]], [[dirección espiritual]]
+[[pecado_mortal]], [[pecado_venial]], [[imperfección]], [[mundo]], [[demonio]], [[tentación]], [[obsesión_diabólica]], [[posesión_diabólica]], [[carne]], [[concupiscencia]], [[purificación_activa]], [[purificación_pasiva]], [[noche_del_sentido]], [[noche_del_espíritu]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]], [[gracia_santificante]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[caridad]], [[respeto_humano]], [[oración]], [[dirección_espiritual]]
 
 ## Contenido
 

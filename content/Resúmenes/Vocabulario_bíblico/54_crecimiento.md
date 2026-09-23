@@ -15,13 +15,13 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[vida]] — realizar la naturaleza de toda vida
-- [[creacion]] — Yahveh, autor de la creación
-- [[justificacion]] — Dios hace crecer al justo
-- [[bendicion]] — la bendición que acompaña a todo viviente
+- [[creación]] — Yahveh, autor de la creación
+- [[justificación]] — Dios hace crecer al justo
+- [[bendición]] — la bendición que acompaña a todo viviente
 - [[fecundidad]] — la prosperidad y fecundidad del individuo y del pueblo
 - [[bienaventuranza]] — la bienaventuranza no es obra de las manos humanas
 - [[pecado]] — el hombre por sí solo no es capaz sino de pecado
-- [[arbol]] — las espinas reemplazan al árbol de vida
+- [[árbol]] — las espinas reemplazan al árbol de vida
 - [[fruto]] — la tierra no da frutos sino a costa de fatigas
 - [[fe]] — la fe asegura la fecundidad
 - [[fidelidad]] — la fidelidad a la alianza
@@ -39,10 +39,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[siega]] — el grano y la cizaña hasta la siega
 - [[fariseos]] — la oposición de los fariseos
 - [[mundo]] — la oposición del mundo
-- [[revelacion]] — la revelación creciente de Jesús
+- [[revelación]] — la revelación creciente de Jesús
 - [[endurecimiento]] — el endurecimiento junto al amor
 - [[hora]] — la hora del reino de las tinieblas
-- [[impio]] — el aniquilamiento del impío
+- [[impío]] — el aniquilamiento del impío
 
 ## Contenido
 

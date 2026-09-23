@@ -33,7 +33,7 @@ San Estanislao de Kostka es ejemplo de santidad juvenil y perseverancia vocacion
 
 ## Ver también
 
-[[san_luis_gonzaga]], [[san_francisco_de_borja]], [[vocación]], [[pureza]], [[compañía_de_jesus]]
+[[san_luis_gonzaga]], [[san_francisco_de_borja]], [[vocación]], [[pureza]], [[compañía_de_jesús]]
 
 ## Referencias
 

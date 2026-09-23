@@ -52,11 +52,11 @@ En las notas se aborda la fraternidad como don de la Pascua. La comunidad cristi
 
 ## Relaciones doctrinales
 
-Este concepto se vincula con [[filiación_divina]], [[caridad]], [[amor_al_prójimo]], [[pueblo_de_Dios]], [[cuerpo_místico]], [[solidaridad]], [[comunión]], [[corrección_fraterna]], [[paz]], [[justicia_social]].
+Este concepto se vincula con [[filiación_divina]], [[caridad]], [[amor_al_prójimo]], [[pueblo_de_dios]], [[cuerpo_místico]], [[solidaridad]], [[comunión]], [[corrección_fraterna]], [[paz]], [[justicia_social]].
 
 ## Ver también
 
-[[filiación_divina]], [[caridad]], [[amor_al_prójimo]], [[pueblo_de_Dios]], [[cuerpo_místico]], [[solidaridad]], [[comunión]], [[corrección_fraterna]], [[paz]]
+[[filiación_divina]], [[caridad]], [[amor_al_prójimo]], [[pueblo_de_dios]], [[cuerpo_místico]], [[solidaridad]], [[comunión]], [[corrección_fraterna]], [[paz]]
 
 ## Referencias
 

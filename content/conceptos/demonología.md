@@ -37,11 +37,11 @@ La demonología se ocupa de los espíritus caídos en su relación con el plan d
 
 ## Relaciones doctrinales
 
-La demonología se relaciona con la [[angelología]], el [[demonio]], la [[lucha_contra_el_demonio]], el [[discernimiento_de_espíritus]], los [[principados_espirituales]] y la [[pena_de_los_demonios]]. Su marco es la victoria de Cristo sobre el mal.
+La demonología se relaciona con la [[ángelología]], el [[demonio]], la [[lucha_contra_el_demonio]], el [[discernimiento_de_espíritus]], los [[principados_espirituales]] y la [[pena_de_los_demonios]]. Su marco es la victoria de Cristo sobre el mal.
 
 ## Ver también
 
-[[demonio]], [[angelología]], [[lucha_contra_el_demonio]], [[discernimiento_de_espíritus]], [[principados_espirituales]], [[pena_de_los_demonios]], [[movilidad_del_alma]]
+[[demonio]], [[ángelología]], [[lucha_contra_el_demonio]], [[discernimiento_de_espíritus]], [[principados_espirituales]], [[pena_de_los_demonios]], [[movilidad_del_alma]]
 
 ## Referencias
 

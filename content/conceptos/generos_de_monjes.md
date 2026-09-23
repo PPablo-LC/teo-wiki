@@ -17,7 +17,7 @@ La clasificación de los géneros de monjes establece cuatro modos de vida moná
 
 ## Desarrollo doctrinal
 
-Juan Casiano, por boca del abad [[piamón|Piamón]], expone en la Conferencia XVIII la clasificación de los tres —y luego cuatro— géneros de monjes. La clasificación tiene raíces en los primeros siglos del monacato egipcio y fue recogida por la tradición monástica occidental, especialmente por la Regla de San Benito.
+Juan Casiano, por boca del abad [[piamon|Piamón]], expone en la Conferencia XVIII la clasificación de los tres —y luego cuatro— géneros de monjes. La clasificación tiene raíces en los primeros siglos del monacato egipcio y fue recogida por la tradición monástica occidental, especialmente por la Regla de San Benito.
 
 ## Perspectivas por fuente
 
@@ -27,7 +27,7 @@ El abad Piamón presenta en la Conferencia XVIII la enseñanza sobre los género
 
 **Cenobitas** (*κοινός βίος*, vida común): viven en comunidad bajo la obediencia a un abad. Piamón los presenta como el género más seguro y perfecto, equiparándolos a la Iglesia primitiva que «tenía un solo corazón y un alma sola» (Act 4,32). La vida cenobítica permite mortificar la voluntad propia mediante la obediencia y la convivencia con hermanos de diversas condiciones.
 
-**Anacoretas o ermitaños** (*ἀνάχωρησις*, retiro): han sido antes cenobitas y alcanzaron la perfección en la comunidad. Fundadores: [[san_pablo_ermitaño|San Pablo Ermitaño]] y [[antonio_abad|San Antonio]]. Imitadores de [[elías|Elías]], [[eliseo|Eliseo]] y [[san_juan_bautista|San Juan Bautista]]. Viven en soledad para la contemplación, pero solo deben emprenderla quienes han sido previamente formados en la comunidad.
+**Anacoretas o ermitaños** (*ἀνάχωρησις*, retiro): han sido antes cenobitas y alcanzaron la perfección en la comunidad. Fundadores: [[san_pablo_ermitaño|San Pablo Ermitaño]] y [[san_antonio_abad|San Antonio]]. Imitadores de [[elías|Elías]], [[eliseo|Eliseo]] y [[san_juan_bautista|San Juan Bautista]]. Viven en soledad para la contemplación, pero solo deben emprenderla quienes han sido previamente formados en la comunidad.
 
 **Sarabaítas** (*σαραβαΐται*): descienden espiritualmente de [[ananías_y_safira|Ananías y Safira]]. Viven de dos en dos o en pequeños grupos, sin obediencia a un abad, sin régimen establecido. Su vida es tibia y relajada.
 

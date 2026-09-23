@@ -39,7 +39,7 @@ Pero la Biblia también advierte del peligro de dejarse absorber por los cuidado
 
 ## Ver también
 
-[[mision]], [[sabiduria]], [[temor]], [[sufrimiento]]
+[[misión]], [[sabiduría]], [[temor]], [[sufrimiento]]
 
 ## Referencias
 

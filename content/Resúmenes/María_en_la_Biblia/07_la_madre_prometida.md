@@ -17,7 +17,7 @@ tags: ["resumen", "reina_madre", "gebirá", "rey_davídico", "marta", "maternida
 - [[realeza_de_cristo]] — Jesús como el hijo de David que reina eternamente; María como su Reina Madre.
 - [[isaias_7_14]] — La promesa de la virgen que concebirá: la madre del rey prometido.
 - [[micías_5_1]] — El gobernante que saldrá de Belén; su madre es mencionada.
-- [[genealogía_de_jesús]] — Mt 1: el lugar de María en la genealogía davídica.
+- [[genealogia_de_jesus]] — Mt 1: el lugar de María en la genealogía davídica.
 
 ## Contenido
 

@@ -15,27 +15,27 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[hambre_y_sed]] — Jesús sujeto al hambre y la sed
-- [[sueno]] — Jesús sujeto al sueño
+- [[sueño]] — Jesús sujeto al sueño
 - [[sufrimiento]] — Jesús sujeto al sufrimiento
 - [[carne]] — la carne de Jesús en el prólogo de Juan
 - [[cruz]] — la muerte de Jesús en la cruz
 - [[pecado]] — los pecados llevados en su cuerpo
-- [[reconciliacion]] — la reconciliación en su cuerpo de carne
+- [[reconciliación]] — la reconciliación en su cuerpo de carne
 - [[code]] — el cordero pascual
-- [[redencion]] — el cuerpo, instrumento de la redención
+- [[redención]] — el cuerpo, instrumento de la redención
 - [[sangre]] — la sangre y el agua del costado
 - [[agua]] — la sangre y el agua del costado
 - [[sacrificio]] — el sacrificio de Cristo
-- [[resurreccion]] — la glorificación del cuerpo de Jesús
+- [[resurrección]] — la glorificación del cuerpo de Jesús
 - [[templo]] — el cuerpo resucitado sustituye al templo
 - [[presencia_de_dios]] — la presencia de Dios entre los hombres
 - [[diestra]] — el cuerpo a la diestra de Dios
-- [[eucaristia]] — el rito eucarístico
+- [[eucaristía]] — el rito eucarístico
 - [[pan]] — los signos del pan y del vino
 - [[vino]] — los signos del pan y del vino
 - [[memoria]] — el memorial de la muerte de Cristo
 - [[bautismo]] — la unificación por el bautismo
-- [[comunion]] — la comunión eucarística
+- [[comunión]] — la comunión eucarística
 - [[cordero_de_dios]] — Cristo, verdadero cordero pascual
 - [[iglesia]] — la Iglesia, cuerpo de Cristo
 - [[plenitud]] — la Iglesia, plenitud de Cristo

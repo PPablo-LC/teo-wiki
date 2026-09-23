@@ -53,11 +53,11 @@ La Vida de Jesús recuerda que la luz que guía a los Magos es un signo de que l
 
 ## Relaciones doctrinales
 
-La Epifanía confirma la [[divinidad_de_cristo]], su [[realeza]] y su misión redentora universal. Prefigura la vocación de los gentiles y la universalidad de la [[salvación]]. Se relaciona con la [[natividad]] y con la [[estrella_de_belén]] como signo celestial.
+La Epifanía confirma la [[divinidad_de_cristo]], su [[realeza]] y su misión redentora universal. Prefigura la vocación de los gentiles y la universalidad de la [[salvación]]. Se relaciona con la [[natividad]] y con la [[estrella_de_belen]] como signo celestial.
 
 ## Ver también
 
-[[natividad]], [[jesucristo]], [[estrella_de_belén]], [[magi]], [[salvación]], [[realeza_de_cristo]]
+[[natividad]], [[jesucristo]], [[estrella_de_belen]], [[magi]], [[salvación]], [[realeza_de_cristo]]
 
 ## Referencias
 

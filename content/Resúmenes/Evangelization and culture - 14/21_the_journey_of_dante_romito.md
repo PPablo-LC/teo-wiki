@@ -21,7 +21,7 @@ tags: ["resumen", "evangelization and culture - 14"]
 - [[palabra_de_dios]] — revelación de Dios comunicada a través de las Escrituras
 - [[sacramento_de_la_reconciliación]] — sacramento de la misericordia y el perdón
 - [[liturgia_de_las_horas]] — oración oficial de la Iglesia en comunidad
-- [[santo_domingo_de_guzmán]] — fundador de la Orden de Predicadores, promotor del Rosario
+- [[san_domingo_de_guzmán]] — fundador de la Orden de Predicadores, promotor del Rosario
 - [[rosario]] — oración mariana que medita los misterios de la vida de Cristo con María
 - [[theo-drama]] — visión teológica de Balthasar de la historia como drama divino-humano
 - [[sacramento_del_matrimonio]] — unión de varón y mujer que refleja la alianza de Cristo con la Iglesia

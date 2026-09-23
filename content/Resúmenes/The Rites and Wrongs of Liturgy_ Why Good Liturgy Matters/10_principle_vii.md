@@ -13,11 +13,11 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 ## Conceptos básicos referenciados
 
 - [[liturgia]]
-- [[Eucaristía]]
+- [[eucaristía]]
 - [[pobres]]
 - [[justicia_social]]
 - [[discípulo]]
-- [[Evangelio]]
+- [[evangelio]]
 - [[ética_cristiana]]
 - [[comunidad]]
 
@@ -25,7 +25,7 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 
 ### Introducción
 
-La escena de una catedral en una gran solemnidad: bancas llenas de personas comunes con entrada por ticket, guardias fuera manteniendo a otros a raya, zonas centrales reservadas con precedencia estricta, al frente el representante del jefe de estado con su edecán y un monseñor. La procesión de clérigos, modelo de rangos diversos, llegó; el cardenal se inclinó ante el dignatario civil, y comenzó la [[Misa]]. Fue un teatro espléndido, una representación de un ideal de sociedad ordenada y obediente. Muchos se sintieron profundamente movidos —fácilmente confundimos lo solemne con lo sagrado—, pero dejó una inquietud: ¿representó la visión del [[Cristo]] del pueblo de Dios donde los primeros son los últimos, donde Dios ama por igual a todos como hermanas y hermanos?
+La escena de una catedral en una gran solemnidad: bancas llenas de personas comunes con entrada por ticket, guardias fuera manteniendo a otros a raya, zonas centrales reservadas con precedencia estricta, al frente el representante del jefe de estado con su edecán y un monseñor. La procesión de clérigos, modelo de rangos diversos, llegó; el cardenal se inclinó ante el dignatario civil, y comenzó la [[misa]]. Fue un teatro espléndido, una representación de un ideal de sociedad ordenada y obediente. Muchos se sintieron profundamente movidos —fácilmente confundimos lo solemne con lo sagrado—, pero dejó una inquietud: ¿representó la visión del [[cristo]] del pueblo de Dios donde los primeros son los últimos, donde Dios ama por igual a todos como hermanas y hermanos?
 
 Es demasiado fácil para el ritual aislarse de la realidad vivida de nuestras vidas desordenadas y de la humanidad sufriente. Cuando esto sucede, ya no es la obra pública de quienes se comprometen a transmitir liberación y redención; se ha convertido en refugio de la realidad. Las palabras usadas en liturgia sin mayor compromiso toman la forma de lo que Marx condenó: el "gesto lastimero" mientras se justifican la esclavitud, la servidumbre y la opresión.
 
@@ -43,7 +43,7 @@ La generosidad no puede limitarse a proveer recursos para los pobres —eso es u
 
 ### Liturgy and Ethics, Chalk and Cheese!
 
-El autor ha encontrado a muchos expertos en ética cristiana que descuidan la liturgia como "juego infantil", y a muchos devotos de liturgia y espiritualidad que ven las cuestiones sociales y morales como meramente prácticas frente a sus preocupaciones más sublimes. Esta división tiene una historia larga entre los cristianos, retrocesando a Casiano y su priorización de la *theoria* sobre la *praxis*. Pero una ética sin liturgia puede convertir el [[Evangelio]] en un envoltorio para una filosofía social. Una liturgia que no se compromete simultáneamente con la situación humana deja de estar ubicada en la realidad, convirtiéndose en una variante de un culto esotérico. Se necesita una visión litúrgico-social. La liturgia realiza la sociedad que Dios quiere para las personas y que, como discípulos de Jesús, proclamamos como el [[Evangelio]]. La [[Eucaristía]] convoca a los participantes a comportamiento basado en valores como la igualdad en lugar de la jerarquía; el servicio mutuo en lugar de la competencia; y la humildad en lugar de la movilidad ascendente consagrada en las estructuras de poder del mundo greco-romano.
+El autor ha encontrado a muchos expertos en ética cristiana que descuidan la liturgia como "juego infantil", y a muchos devotos de liturgia y espiritualidad que ven las cuestiones sociales y morales como meramente prácticas frente a sus preocupaciones más sublimes. Esta división tiene una historia larga entre los cristianos, retrocesando a Casiano y su priorización de la *theoria* sobre la *praxis*. Pero una ética sin liturgia puede convertir el [[evangelio]] en un envoltorio para una filosofía social. Una liturgia que no se compromete simultáneamente con la situación humana deja de estar ubicada en la realidad, convirtiéndose en una variante de un culto esotérico. Se necesita una visión litúrgico-social. La liturgia realiza la sociedad que Dios quiere para las personas y que, como discípulos de Jesús, proclamamos como el [[evangelio]]. La [[eucaristía]] convoca a los participantes a comportamiento basado en valores como la igualdad en lugar de la jerarquía; el servicio mutuo en lugar de la competencia; y la humildad en lugar de la movilidad ascendente consagrada en las estructuras de poder del mundo greco-romano.
 
 ## Secciones incluidas
 

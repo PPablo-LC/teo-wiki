@@ -13,7 +13,7 @@ tags: ["resumen", "capitulos lc frg"]
 ## Conceptos básicos referenciados
 
 - [[capítulo_general]]
-- [[Regnum_Christi]]
+- [[regnum_christi]]
 
 
 ## Contenido

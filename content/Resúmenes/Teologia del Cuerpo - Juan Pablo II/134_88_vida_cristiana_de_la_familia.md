@@ -22,12 +22,12 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[clara_vita_de_la_comunidad]] — el clima de vida espiritual
 - [[temor_de_cristo]] — la pietas que conforma las relaciones
 - [[familia]] — la vida cristiana de la familia
-- [[Educación_de_los_hijos]] — el texto de Ef 6: «honra a tu padre y a tu madre»
+- [[educación_de_los_hijos]] — el texto de Ef 6: «honra a tu padre y a tu madre»
 - [[siervos_y_amos]] — las orientaciones de Ef 6, 5-9
 - [[haustafeln]] — losanaul códigos domésticos (definición de Lutero)
 - [[lucha_espiritual]] — la conclusión de la Carta (Ef 6, 10-20)
 - [[sumisión]] — «sujetos los unos a los otros» (Ef 5, 21)
-- [[Gracia]] — el manifiesto de la gracia de Dios en Cristo
+- [[gracia]] — el manifiesto de la gracia de Dios en Cristo
 -[[toro_mistico]] — el misterio de Cristo en la Iglesia
 - [[unidad_en_el_Espíritu]] — los dones diversos en unidad
 - [[vicis]] — el superar los vicios y las virtudes correspondientes

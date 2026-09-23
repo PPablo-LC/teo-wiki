@@ -43,6 +43,20 @@ El número dedicado al coraje presenta a Edith Stein como el ejemplo paradigmát
 
 [[mujer]], [[paz]], [[judaísmo]], [[martirio]], [[cruz]], [[feminidad]], [[razón_y_fe]], [[conversión]], [[adoración_eucarística]], [[coraje]], [[fortaleza]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. III, la cuenta —pese a ser mártir— entre
+las santas «de pasión eclesial» por su rostro maternal. «Fue hebrea,
+filósofa, docente, escritora, conversa, carmelita y mártir; personificó
+las más diversas expresiones de la identidad femenina centroeuropea y
+defendió, al final, esa "dignidad de la mujer" que siempre había
+enseñado con pasión». En el campo de Westerbork «se movía entre las
+mujeres como un ángel consolador… se ocupó de los niños pequeños, los
+lavó, los peinó, procuró su alimentación». En una carta anterior: «Estoy
+segura… de que el Señor ha aceptado mi vida por todos. Pienso en la reina
+Esther… Yo soy una pequeña Esther, pobre e impotente, pero el Rey que me
+ha elegido es infinitamente grande y misericordioso».
+
 ## Referencias
 
 - [JPII, Muj 24: Beata Edith Stein, Ángelus 26-II-1995]

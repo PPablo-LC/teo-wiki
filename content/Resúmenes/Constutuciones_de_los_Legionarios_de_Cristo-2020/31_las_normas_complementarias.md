@@ -15,8 +15,8 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 - [[normas_complementarias]]
 - [[derecho_propio]]
 - [[códigos_secundarios]]
-- [[Capítulo_General]]
-- [[Ratio_institutionis]]
+- [[capítulo_general]]
+- [[ratio_institutionis]]
 
 ## Contenido
 

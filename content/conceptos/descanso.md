@@ -27,7 +27,7 @@ El c. 1247 establece que el domingo y las demás fiestas de precepto los fieles 
 
 ## Relaciones doctrinales
 
-El [[descanso]] dominical está íntimamente ligado al [[domingo]] como día del Señor, y se concreta en los [[días_de_precepto]] y el [[descanso_festivo]]. Se opone al trabajo excesivo y protege la dignidad del [[trabajo_humano]].
+El **descanso** dominical está íntimamente ligado al [[domingo]] como día del Señor, y se concreta en los [[días_de_precepto]] y el [[descanso_festivo]]. Se opone al trabajo excesivo y protege la dignidad del [[trabajo_humano]].
 
 ## Analizado en contexto cultural
 

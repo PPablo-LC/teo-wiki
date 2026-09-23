@@ -24,7 +24,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[salvación]] — las promesas de salvación, restauración de los lazos de amor
 - [[amigo]] — Abraham, amigo de Dios
 - [[temor]] — el misterio del temor de Dios que es amor
-- [[moises]] — Moisés, confidente de Dios
+- [[moisés]] — Moisés, confidente de Dios
 - [[prójimo]] — el amor al prójimo, mandamiento segundo
 - [[santo]] — el amor que no sacrifica nada de la santidad
 - [[amor]] — el drama del amor y de la ira de Yahveh
@@ -33,7 +33,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[perdón]] — el amor más fuerte que el pecado, que perdona
 - [[corazón]] — Dios recrea en Israel un corazón nuevo capaz de amar
 - [[nuevo]] — el corazón nuevo
-- [[pastor_y_rebano]] — la imagen del pastor para expresar el celo divino
+- [[pastor_y_rebaño]] — la imagen del pastor para expresar el celo divino
 - [[viña]] — la imagen de la viña
 - [[idolatría]] — el culto de los ídolos frente al amor de Dios
 - [[adoración]] — el amor expresado en actos de adoración

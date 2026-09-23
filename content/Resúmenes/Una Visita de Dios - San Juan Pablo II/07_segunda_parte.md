@@ -18,11 +18,11 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "LOU
 - [[bernardette_soubirous]] — vidente de Lourdes; modelo de disponibilidad, humildad y valentía
 - [[gracia_santificante]] — donde está María abunda la gracia; la curación espiritual precede a la física
 - [[sufrimiento_redentor]] — los enfermos, unidos a Cristo, se salvan y redimen a todos
-- [[Milagros]] — signo excepcional de la acción salvadora de Cristo obtenida por intercesión de María
+- [[milagros]] — signo excepcional de la acción salvadora de Cristo obtenida por intercesión de María
 - [[penitencia]] — mensaje central de María en Lourdes: «¡Penitencia, penitencia, penitencia!»
 - [[Rosario]] — María aparece en actitud orante y pide que se recite el rosario
-- [[Eucaristía]] — Bernardette comparó ver a la Virgen con recibir la primera comunión: «¡Los dos hechos me han hecho completamente feliz!»
-- [[Magnificat]] — cántico de María que resume el sentido y el valor de la fe
+- [[eucaristía]] — Bernardette comparó ver a la Virgen con recibir la primera comunión: «¡Los dos hechos me han hecho completamente feliz!»
+- [[magníficat]] — cántico de María que resume el sentido y el valor de la fe
 - [[Czestochowa]] — imagen de la Virgen Reina de Polonia, querida de Juan Pablo II; leyenda «Totus tuus»
 
 ## Contenido
@@ -51,7 +51,7 @@ A Lourdes no se va sólo a recibir gracias, sino a dar o a prepararse para dar. 
 
 María apareció dieciocho veces a [[bernardette_soubirous|Bernardette]] del 11 de febrero al 16 de julio de 1858. En Lourdes, María recordó al mundo que el sentido de la vida en la tierra es su orientación hacia el cielo. Vino a proponer de nuevo el núcleo del mensaje evangélico: la [[penitencia]]. El 24 de febrero de 1858 repitió tres veces: «¡Penitencia, penitencia, penitencia!». En Lourdes la Virgen enseña el valor redentor del dolor; da ánimos, paciencia y resignación; ilumina el misterio de nuestra participación en la pasión de Cristo. Bernardette, enferma y en Nevers, decía: «¡Lourdes no es para mí!» y «¡Es necesario!» (cuando le preguntaban si sufría mucho).
 
-El mensaje de Lourdes se completa con la invitación a la [[oración]]: la Virgen aparece en actitud orante, quiere que se recite el [[Rosario]], pide una capilla y procesiones. Bernardette, al recibir la primera comunión, dijo que ver a la Virgen y recibir la [[Eucaristía]] le habían hecho «completamente feliz».
+El mensaje de Lourdes se completa con la invitación a la [[oración]]: la Virgen aparece en actitud orante, quiere que se recite el [[Rosario]], pide una capilla y procesiones. Bernardette, al recibir la primera comunión, dijo que ver a la Virgen y recibir la [[eucaristía]] le habían hecho «completamente feliz».
 
 ### Los enfermos, unidos a Cristo, se salvan ellos y redimen a todos
 
@@ -65,7 +65,7 @@ María nos introduce con sabiduría materna en el misterio de la cruz; sufre con
 
 La [[maría|Virgen]] obtiene gracias extraordinarias de curación física para ayudarnos a creer o reforzar nuestra fe en la potencia de Jesús de perdonar los pecados y conducirnos a la vida eterna. Lo que el Corazón de la Señora desea es que cada uno asuma su responsabilidad individual y colectiva, aceptando y ofreciendo la propia porción de sufrimiento con adhesión humilde a la voluntad de Dios.
 
-Toda la historia de Lourdes es una ilustración de las palabras del [[Magnificat]]: «Ha desplegado la potencia de su brazo… ha exaltado a los humildes… ha colmado de bienes a los difamados». Lourdes es una profecía de justicia y de paz. [[bernardette_soubirous|Bernardette»], joven sencilla y humilde, ha recorrido el mundo con su testimonio.
+Toda la historia de Lourdes es una ilustración de las palabras del [[magníficat]]: «Ha desplegado la potencia de su brazo… ha exaltado a los humildes… ha colmado de bienes a los difamados». Lourdes es una profecía de justicia y de paz. [[bernardette_soubirous|Bernardette»], joven sencilla y humilde, ha recorrido el mundo con su testimonio.
 
 Se concluye con una invitación: «Tenid fija la mirada en Cristo»; siguiendo su ejemplo, el miedo se cambia en serenidad, la angustia en esperanza, la tristeza en alegría, y el sufrimiento es purificación y mérito para las almas, además de contribución preciosa para el bien espiritual de la [[iglesia|Iglesia]] (Col 1,24).
 

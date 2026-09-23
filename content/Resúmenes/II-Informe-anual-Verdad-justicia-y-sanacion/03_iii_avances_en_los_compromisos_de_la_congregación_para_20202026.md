@@ -14,7 +14,7 @@ tags: ["resumen", "espiritualidad_legionaria", "informe_anual", "vjys_ii", "aten
 
 - [[compromisos_cg_2020]] — 7 compromisos (A-G) asumidos en Capítulo General 2020
 - [[atención_a_víctimas]] — A: acercamiento activo, canal independiente Eshmá, contacto 56/170 víctimas
-- [[eshma]] — Institución externa independiente (víctimas + terapeutas + juristas), justicia restaurativa
+- [[eshmá]] — Institución externa independiente (víctimas + terapeutas + juristas), justicia restaurativa
 - [[reparación_económica]] — B: guía basada en estudio comparativo internacional, programa estable 2022, justicia restaurativa
 - [[procedimientos_canónicos]] — C: 4 concluidos (2 culpables, 2 medidas ratificadas CDF), 6 en curso, 2 nuevos iniciados
 - [[dicasterio_para_la_doctrina_de_la_fe]] — CDF: indicaciones, tribunales, canonistas externos

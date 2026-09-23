@@ -14,7 +14,7 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 
 - [[voto_privado]] — voto de caridad y unidad específico de los Legionarios de Cristo
 - [[obediencia]] — fundamento de la vida religiosa legionaria
-- [[direccion_espiritual]] — medio para el fervor y la perseverancia
+- [[dirección_espiritual]] — medio para el fervor y la perseverancia
 - [[formacion_religiosa]] — formación humana, espiritual y doctrinal del legionario
 - [[carisma]] — la herencia espiritual específica de la Legión
 

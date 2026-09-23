@@ -26,7 +26,7 @@ Cristo, sumo sacerdote y único mediador, ha hecho de la Iglesia «un Reino de s
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium enseña en LG §10 la doctrina clásica sobre el [[sacerdocio_común]]: «Cristo Señor, Pontífice tomado de entre los hombres, de su nuevo pueblo hizo un reino y sacerdotes para Dios, su Padre». Los bautizados son consagrados por la regeneración y la unción del Espíritu Santo como casa espiritual y sacerdocio santo, para ofrecer sacrificios espirituales y anunciar el poder de Dios [ConcVatII, LG §10].
+Lumen Gentium enseña en LG §10 la doctrina clásica sobre el **sacerdocio común**: «Cristo Señor, Pontífice tomado de entre los hombres, de su nuevo pueblo hizo un reino y sacerdotes para Dios, su Padre». Los bautizados son consagrados por la regeneración y la unción del Espíritu Santo como casa espiritual y sacerdocio santo, para ofrecer sacrificios espirituales y anunciar el poder de Dios [ConcVatII, LG §10].
 
 «El sacerdocio común de los fieles y el sacerdocio ministerial o jerárquico, aunque diferentes esencialmente y no sólo en grado, se ordenan, sin embargo, el uno al otro, pues ambos participan a su manera del único sacerdocio de Cristo» [ConcVatII, LG §10]. El sacerdocio ministerial forma y dirige el pueblo sacerdotal, confecciona el sacrificio eucarístico in persona Christi y lo ofrece en nombre de todo el pueblo. Los fieles, en cambio, en virtud de su sacerdocio regio, concurren a la ofrenda de la Eucaristía y lo ejercen en la recepción de los sacramentos, la oración, el testimonio de una vida santa y la caridad operante [ConcVatII, LG §10].
 

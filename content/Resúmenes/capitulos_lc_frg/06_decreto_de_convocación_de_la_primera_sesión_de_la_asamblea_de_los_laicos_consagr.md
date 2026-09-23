@@ -12,16 +12,16 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Laicos_Consagrados_del_Regnum_Christi]]
+- [[laicos_consagrados_del_regnum_christi]]
 - [[asamblea_general_regnum_christi]]
-- [[Regnum_Christi]]
+- [[regnum_christi]]
 
 
 ## Contenido
 
 📄 **Fuente original:** `06_decreto_de_convocación_de_la_primera_sesión_de_la_asamblea_d.md`
 
-Decreto del responsable general de los [[Laicos_Consagrados_del_Regnum_Christi]], Dr. Jorge López González (Acto de gobierno LCRC 24-2017, Roma, 15 de septiembre de 2017), que convoca la primera sesión de la Asamblea General extraordinaria de los [[Laicos_Consagrados_del_Regnum_Christi]].
+Decreto del responsable general de los [[laicos_consagrados_del_regnum_christi]], Dr. Jorge López González (Acto de gobierno LCRC 24-2017, Roma, 15 de septiembre de 2017), que convoca la primera sesión de la Asamblea General extraordinaria de los [[laicos_consagrados_del_regnum_christi]].
 
 **Fecha y lugar**: del 27 de diciembre de 2017 al 3 de enero de 2018, en el Centro de retiros Santa María del Lago, Chapala, Jalisco, México.
 

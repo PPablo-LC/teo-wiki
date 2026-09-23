@@ -33,11 +33,11 @@ El VocTeoBib desarrolla el tema siguiendo la historia bíblica. En el AT, Dios c
 
 ## Relaciones doctrinales
 
-[[jesus]], [[reino_de_dios]], [[san_pedro]], [[ministerio_petrino]], [[ministerio_ordenado]], [[obispo]]
+[[jesús]], [[reino_de_dios]], [[san_pedro]], [[ministerio_petrino]], [[ministerio_ordenado]], [[obispo]]
 
 ## Ver también
 
-[[jesus]], [[buen_pastor]], [[iglesia]], [[ministerio_pastoral]], [[san_pedro]]
+[[jesús]], [[buen_pastor]], [[iglesia]], [[ministerio_pastoral]], [[san_pedro]]
 
 ## Referencias
 

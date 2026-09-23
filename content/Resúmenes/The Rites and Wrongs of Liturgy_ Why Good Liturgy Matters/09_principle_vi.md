@@ -14,12 +14,12 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 
 - [[liturgia]]
 - [[creación]]
-- [[Eucaristía]]
-- [[Encarnación]]
+- [[eucaristía]]
+- [[encarnacion]]
 - [[ecología]]
 - [[Dios_Creador]]
 - [[cena_del_señor]]
-- [[evangelio_de_Juan]]
+- [[evangelio_de_juan]]
 
 ## Contenido
 
@@ -31,7 +31,7 @@ La acción de encender una lámpara a partir de una llama viva era un momento de
 
 Uno de los hechos más básicos de los seres humanos es que comparten comidas. No lo hacemos *para* hacer algo else, sino simplemente porque lo hacemos y nos gusta. El vínculo con quienes nos rodean es una consecuencia. Antes de usar una comida, debemos estar bastante seguros de que las comidas son parte de nuestra forma humana de ser. Del mismo modo, es la realidad básica de ser agradecidos por nuestra comida y compañía lo que nos lleva a reconocer a Dios en nuestras comidas.
 
-La desviación del pensamiento binario (material vs. espiritual, signos vs. realidades, ritual vs. realidad) transforma la liturgia en un juego donde nada es lo que es y todo es un código para otra cosa. "Entender la liturgia" se convierte en decodificar símbolos, y la participación real puede quedar como opcional. Un ejemplo: un sermón del Jueves Santo explicaba que la realidad real era el amor del Padre y del Hijo, la cena celestial era un código para esto, la Última Cena era un código para la cena celestial, y la [[Misa]] era un código para la Última Cena; pero luego, al compartir la comida real, se usaba un ciborio del sagrario con una hostia sin relación con el pan real, y solo el presidía bebía del cáliz. Las señales estaban divorciadas de la experiencia creada. Esta liturgia no estaba arraigada en la creación.
+La desviación del pensamiento binario (material vs. espiritual, signos vs. realidades, ritual vs. realidad) transforma la liturgia en un juego donde nada es lo que es y todo es un código para otra cosa. "Entender la liturgia" se convierte en decodificar símbolos, y la participación real puede quedar como opcional. Un ejemplo: un sermón del Jueves Santo explicaba que la realidad real era el amor del Padre y del Hijo, la cena celestial era un código para esto, la Última Cena era un código para la cena celestial, y la [[misa]] era un código para la Última Cena; pero luego, al compartir la comida real, se usaba un ciborio del sagrario con una hostia sin relación con el pan real, y solo el presidía bebía del cáliz. Las señales estaban divorciadas de la experiencia creada. Esta liturgia no estaba arraigada en la creación.
 
 Si realmente creemos que Jesús es Dios viniendo entre nosotros, podemos estar codo a codo con lo divino cuando comemos. La liturgia debe darnos la visión que permita ver esto, no solo en la mesa de la iglesia, sino en cada mesa.
 

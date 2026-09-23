@@ -13,7 +13,7 @@ tags: ["resumen", "maría josé y la vida oculta de jesús"]
 ## Conceptos básicos referenciados
 
 - [[visitación]] — preludio de la misión de Jesús; María como primera evangelista
-- [[magnificat]] — cántico teológico que revela la experiencia del rostro de Dios hecha por María
+- [[magníficat]] — cántico teológico que revela la experiencia del rostro de Dios hecha por María
 - [[madre_de_dios|Theotokos]] — Madre del Verbo encarnado, definida en Éfeso (431)
 - [[maternidad_divina|maternidad divina]] — se refiere a la generación humana del Hijo, no a su generación eterna
 - [[llena_de_gracia|la llena de gracia]] — inicio de una intervención divina que supera las esperanzas mesiánicas

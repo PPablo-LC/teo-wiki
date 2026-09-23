@@ -14,8 +14,8 @@ tags: ["resumen", "conversión_reparación-proteger_sanar"]
 
 - [[decreto_de_promulgacion]] — acto formal por el que el director general promulga normas vinculantes para la Congregación
 - [[proteger_y_sanar]] — documento capitular con principios, protocolos y normas para protección de menores
-- [[estandares_de_ambientes_seguros]] — normativa vigente de prevención y respuesta ante abusos
-- [[codigo_de_derecho_canonico]] — legislación universal de la Iglesia aplicable a los institutos de vida consagrada
+- [[estándares_de_ambientes_seguros]] — normativa vigente de prevención y respuesta ante abusos
+- [[código_de_derecho_canónico]] — legislación universal de la Iglesia aplicable a los institutos de vida consagrada
 - [[capítulo_general_2020_legionarios_de_cristo]] — autoridad suprema que aprobó el documento "Proteger y sanar"
 - [[legionarios_de_cristo]] — Congregación destinataria del decreto
 

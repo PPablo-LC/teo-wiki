@@ -41,6 +41,14 @@ En la Tischrede 45 (AED, 17, 81-89), la elección positiva es la elección amoro
 
 En la Tischrede 45 (AED, 17, 239), la represa de la positividad: «La positività del reale... è implicata, implicita nella curiosità che la realtà desta come conseguenza immediata nel cuore dell'uomo». El misterio del ser es positividad: «Il mistero dell'essere è positività, è Padre, è Essere».
 
+### Luigi Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+DLV está atravesado por la afirmación final de la positividad de la vida y de la victoria de Cristo:
+
+- **«La vita è bella»** — «la condición de la vida es positiva comunque»; «la vita è bella: è una promessa fatta da Dio con la vittoria di Cristo»; la positividad que hace razonable continuar viviendo (DLV 21, 33-35).
+- **El bien que es «Cristo risorto»** — la positividad última es la resurrección: el Resucitado como el bien que sostiene la esperanza (DLV 21, 33-35).
+- **La compasión vence sobre lo negativo** — «Donna, non piangere!» (Lc 7,11-17): Cristo afirma la vida sobre la muerte (DLV 20, 3-25).
+
 ## Distinciones importantes
 
 - **Positividad en sí vs. uso de la positividad**: La positividad percibida es siempre verdadera; el error está en el uso — quedarse estancado en ella en vez de caminar hacia las conclusiones.

@@ -14,12 +14,12 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[verguenza]] — la vergüenza de no estar circuncidado
+- [[vergüenza]] — la vergüenza de no estar circuncidado
 - [[alianza]] — la circuncisión como signo físico de la alianza
 - [[sangre]] — la sangre derramada como «sangre de la alianza»
 - [[pascua]] — condición indispensable para celebrar la pascua
 - [[promesas]] — las promesas de la alianza
-- [[corazon]] — la circuncisión del corazón
+- [[corazón]] — la circuncisión del corazón
 - [[día_del_señor]] — el día de la salvación
 - [[gracia]] — la salud por la gracia
 - [[fe]] — la salud por la fe

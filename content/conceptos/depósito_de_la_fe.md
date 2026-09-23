@@ -33,7 +33,7 @@ Las revelaciones privadas no pertenecen al depósito de la fe; su función no es
 
 ### Según el Código de Derecho Canónico (CIC)
 
-El canon 747 §1 establece que Cristo Nuestro Señor encomendó a la Iglesia «el depósito de la fe, para que, con la asistencia del Espíritu Santo, custodiase santamente la verdad revelada, profundizase en ella y la anunciase y expusiese fielmente». El canon 750 vincula el [[depósito_de_la_fe]] con la fe divina y católica: todo lo que se contiene en la palabra de Dios escrita o transmitida por tradición —es decir, en el único depósito de la fe encomendado a la Iglesia— y es propuesto como revelado por Dios debe creerse con fe divina y católica.
+El canon 747 §1 establece que Cristo Nuestro Señor encomendó a la Iglesia «el depósito de la fe, para que, con la asistencia del Espíritu Santo, custodiase santamente la verdad revelada, profundizase en ella y la anunciase y expusiese fielmente». El canon 750 vincula el **depósito de la fe** con la fe divina y católica: todo lo que se contiene en la palabra de Dios escrita o transmitida por tradición —es decir, en el único depósito de la fe encomendado a la Iglesia— y es propuesto como revelado por Dios debe creerse con fe divina y católica.
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Dei Verbum* 10 establece que la Sagrada Tradición y la Sagrada Escritura «constituyen un solo depósito sagrado de la palabra de Dios, confiado a la Iglesia». Todo el pueblo santo, unido con sus pastores, persevera en la doctrina de los Apóstoles y en la comunión. El Magisterio, de este único depósito de la fe, «saca todo lo que propone como verdad revelada por Dios que se ha de creer».

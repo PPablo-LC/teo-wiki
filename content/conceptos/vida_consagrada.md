@@ -39,7 +39,7 @@ El estado religioso constituye un verdadero estado de perfección, por el cual l
 
 ### Colaciones II — Juan Casiano (ColCas-II)
 
-Juan Casiano, por boca de los abades [[queremon_de_la_perfección|Queremón]], [[nesteros|Nesteros]], [[piamón|Piamón]] y [[juan_monje|Juan]], expone en las Conferencias XI-XX la doctrina sobre la vida monástica consagrada. El abad Queremón define la perfección como no aferrarse a nada bueno temporal, no sentir la tristeza y no conocer la cólera (Conf. XI). El abad Nesteros distingue entre la ciencia práctica (reforma de costumbres) y la teorética (contemplación), y presenta los carismas como dones para la edificación de la Iglesia (Conf. XIV-XV).
+Juan Casiano, por boca de los abades [[queremon_de_la_perfección|Queremón]], [[nesteros|Nesteros]], [[piamon|Piamón]] y [[juan_monje|Juan]], expone en las Conferencias XI-XX la doctrina sobre la vida monástica consagrada. El abad Queremón define la perfección como no aferrarse a nada bueno temporal, no sentir la tristeza y no conocer la cólera (Conf. XI). El abad Nesteros distingue entre la ciencia práctica (reforma de costumbres) y la teorética (contemplación), y presenta los carismas como dones para la edificación de la Iglesia (Conf. XIV-XV).
 
 El abad Piamón clasifica los cuatro géneros de monjes: cenobitas (vida común bajo obediencia), anacoretas (vida solitaria), sarabaítas (sin obediencia) y giróvagos (vagabundos) (Conf. XVIII). El abad Juan distingue los fines propios del cenobita (mortificar la voluntad mediante la obediencia) y del ermitaño (la unión con Cristo en la contemplación) (Conf. XIX).
 

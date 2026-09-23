@@ -26,7 +26,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[bendición]] — la bendición prometida
 - [[herencia]] — la herencia prometida
 - [[tierra]] — la tierra prometida
-- [[Abraham]] — Abraham, el que recibe las promesas
+- [[abraham]] — Abraham, el que recibe las promesas
 - [[nombre]] — el nombre de Abraham bendecido
 - [[maldición]] — la reparación de la maldición
 - [[pecado]] — el pecado del hombre
@@ -39,7 +39,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[justicia]] — la justicia de Israel
 - [[rey]] — la monarquía y David
 - [[templo]] — el templo
-- [[Jerusalén]] — la nueva Jerusalén
+- [[jerusalén]] — la nueva Jerusalén
 - [[madre]] — madre de una raza incontable
 - [[sabiduría]] — los escritos de sabiduría
 - [[esperanza]] — la esperanza venida de fuera
@@ -56,7 +56,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[resurrección]] — la resurrección
 - [[gloria]] — la gloria de Dios
 - [[carne]] — todo lo dado en la carne
-- [[Espíritu]] — la promesa del Espíritu
+- [[espíritu]] — la promesa del Espíritu
 - [[unción]] — la unción del Espíritu
 - [[sello]] — el sello del Espíritu
 - [[primicias]] — las primicias de la redención
@@ -92,7 +92,7 @@ Para que la existencia entera de Israel repose sobre la fe precisa que todas sus
 
 #### Las nuevas promesas
 
-A la hora en que Israel ya no existe, habiendo perdido su [[rey]], su capital, su [[templo]], su honra, despierta Dios su fe con [[nuevo|nuevas]] promesas. Osa apoyarse en «las cosas antiguas» que había predicho a Israel, en las amenazas de destrucción que se han verificado con exactitud aterradora *Is 48,3ss* *43,18* para prometerle «cosas nuevas, secretas y desconocidas» *48,6* *42,9* *43,19*, maravillas inimaginables. La síntesis más expresiva de estas maravillas es la nueva [[jerusalen|Jerusalén]], «casa de oración para todos los pueblos» *Is 56,7*, [[madre]] de una raza incontable *54,3* *60,4*, gozo y orgullo de Dios *60,15*.
+A la hora en que Israel ya no existe, habiendo perdido su [[rey]], su capital, su [[templo]], su honra, despierta Dios su fe con [[nuevo|nuevas]] promesas. Osa apoyarse en «las cosas antiguas» que había predicho a Israel, en las amenazas de destrucción que se han verificado con exactitud aterradora *Is 48,3ss* *43,18* para prometerle «cosas nuevas, secretas y desconocidas» *48,6* *42,9* *43,19*, maravillas inimaginables. La síntesis más expresiva de estas maravillas es la nueva [[jerusalén|Jerusalén]], «casa de oración para todos los pueblos» *Is 56,7*, [[madre]] de una raza incontable *54,3* *60,4*, gozo y orgullo de Dios *60,15*.
 
 #### Las promesas de la sabiduría
 

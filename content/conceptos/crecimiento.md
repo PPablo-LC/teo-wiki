@@ -39,7 +39,7 @@ En el NT, Jesucristo lleva el influjo creciente de Yahveh a su cumplimiento. «C
 
 ## Ver también
 
-[[creacion]], [[fruto]], [[vida]], [[conocer]], [[palabra_de_dios]]
+[[creación]], [[fruto]], [[vida]], [[conocer]], [[palabra_de_dios]]
 
 ## Referencias
 

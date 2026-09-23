@@ -14,7 +14,7 @@ tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "ascetica", "direccion_
 
 ## Conceptos básicos referenciados
 
-- [[presencia_de_Dios]]
+- [[presencia_de_dios]]
 - [[examen_de_conciencia]]
 - [[energía_de_carácter]]
 - [[deseo_de_perfección]]
@@ -31,7 +31,7 @@ tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "ascetica", "direccion_
 - [[vida_mixta]]
 - [[dirección_espiritual]]
 - [[discernimiento_de_espíritus]]
-- [[dones_del_Espíritu_Santo]]
+- [[dones_del_espíritu_santo]]
 - [[don_de_consejo]]
 - [[oración]]
 - [[contemplación]]
@@ -87,7 +87,7 @@ Valor del buen amigo: «alianza de dos almas que se unen para obrar el bien» (B
 
 ### ARTICULO 4 — El apostolado
 
-Concepto: enviado de Dios para predicar el Evangelio. Grados: Cristo (supremo), apóstoles, Papa y obispos, sacerdotes, seglares en organizaciones apostólicas, cualquier persona. Obligatoriedad universal: exigencia de la caridad (para con Dios, el prójimo y uno mismo) y consecuencia del dogma del [[Cuerpo_Místico_de_Cristo]]. Formas: como estado (Papa y obispos), como vida (sacerdotes), como práctica (seglares). Relaciones con la [[perfección_cristiana]]: el [[apostolado]] es efecto formal del amor; la vida mixta (contemplación + acción) es la más perfecta. Errores: activismo (herejía de la acción) y quietismo. Fórmula justa: _contemplari et contemplata aliis tradere_.
+Concepto: enviado de Dios para predicar el Evangelio. Grados: Cristo (supremo), apóstoles, Papa y obispos, sacerdotes, seglares en organizaciones apostólicas, cualquier persona. Obligatoriedad universal: exigencia de la caridad (para con Dios, el prójimo y uno mismo) y consecuencia del dogma del [[cuerpo_místico_de_cristo]]. Formas: como estado (Papa y obispos), como vida (sacerdotes), como práctica (seglares). Relaciones con la [[perfección_cristiana]]: el [[apostolado]] es efecto formal del amor; la vida mixta (contemplación + acción) es la más perfecta. Errores: activismo (herejía de la acción) y quietismo. Fórmula justa: _contemplari et contemplata aliis tradere_.
 
 ### ARTICULO 5 — La dirección espiritual
 

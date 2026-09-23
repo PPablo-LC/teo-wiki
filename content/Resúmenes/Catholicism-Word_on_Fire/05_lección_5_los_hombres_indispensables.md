@@ -19,7 +19,7 @@ tags:
 ## Conceptos básicos referenciados en esta lección
 
 - [[pedro]] — líder del nuevo Israel, roca, testigo definitivo de la resurrección
-- [[pablo]] — primer gran teólogo cristiano, apóstol de los gentiles
+- [[san_pablo]] — primer gran teólogo cristiano, apóstol de los gentiles
 - [[resurrección]] — centro de la predicación de ambos
 - [[justificación]] — por la fe; aumento por el amor (participación en Cristo)
 - [[caridad]] — himno de 1 Cor 13: lo que permanece
@@ -70,4 +70,4 @@ Pedro establece el oficio: estructura, jerarquía, liderazgo — cómo la Iglesi
 
 ## Ver también
 
-- [[pedro]] · [[pablo]] · [[justificación]] · [[caridad]]
+- [[pedro]] · [[san_pablo]] · [[justificación]] · [[caridad]]

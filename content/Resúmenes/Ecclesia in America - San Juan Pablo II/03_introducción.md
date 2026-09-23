@@ -12,9 +12,9 @@ tags: ["resumen", "ecclesia in america"]
 
 ## Conceptos básicos referenciados
 
-- [[evangelización_de_america|evangelización de América]] — don del Señor y fuente de nuevas responsabilidades
+- [[evangelizacion_de_america|evangelización de América]] — don del Señor y fuente de nuevas responsabilidades
 - [[nueva_evangelización|nueva evangelización]] — marco de la Asamblea: nueva en su ardor, en sus métodos, en su expresión
-- [[sinodo_de_los_obispos|Asamblea Especial para América]] — 16-XI a 12-XII-1997; primera que reunió a obispos de todo el Continente
+- [[sínodo_de_los_obispos|Asamblea Especial para América]] — 16-XI a 12-XII-1997; primera que reunió a obispos de todo el Continente
 
 ## Contenido
 

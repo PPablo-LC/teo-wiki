@@ -67,7 +67,7 @@ Juan Pablo II profundiza en la institución de los Doce Apóstoles, su elección
 
 ### Según Las siete lámparas de la vida cristiana (7_Lamps)
 
-Juan Pablo I, en su audiencia general del 13 de septiembre de 1978, desarrolló la [[iglesia]] como inseparable de Cristo y de la fe. Retomando la enseñanza de San Pablo, afirma que Jesús y la Iglesia son una misma cosa: «indivisible, inseparable» (*Corpus Christi quod est Ecclesia*, 1 Cor 12,27). Perseguir a los cristianos es perseguir a Cristo mismo, como experimentó Pablo en Damasco. Por tanto, no es posible creer en Jesús sin aceptar la Iglesia.
+Juan Pablo I, en su audiencia general del 13 de septiembre de 1978, desarrolló la **iglesia** como inseparable de Cristo y de la fe. Retomando la enseñanza de San Pablo, afirma que Jesús y la Iglesia son una misma cosa: «indivisible, inseparable» (*Corpus Christi quod est Ecclesia*, 1 Cor 12,27). Perseguir a los cristianos es perseguir a Cristo mismo, como experimentó Pablo en Damasco. Por tanto, no es posible creer en Jesús sin aceptar la Iglesia.
 
 La Iglesia es **madre y maestra** (*Mater et Magistra*). Como madre, debe ser amada aun con sus defectos: «si mi madre se quedase coja, yo la querría todavía más». JPI ofrece la imagen del «jabón» de la Iglesia —evangelio, sacramentos, oración— como el medio para la santidad: «un jabón maravilloso capaz de hacernos santos a todos. No somos todos santos por no haber utilizado bastante este jabón». La Iglesia, aunque formada por pecadores, posee en Cristo los medios para santificarlos.
 

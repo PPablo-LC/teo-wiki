@@ -39,7 +39,7 @@ El CIC regula la unción de los enfermos en los cánones 998-1007. Se administra
 
 *Sacrosanctum Concilium* 73 indica que la «extremaunción», que también y mejor puede llamarse «unción de enfermos», no es solo el sacramento de quienes se encuentran en los últimos momentos de su vida; el tiempo oportuno para recibirlo comienza cuando el cristiano empieza a estar en peligro de muerte por enfermedad o vejez. SC 74 ordena redactar un rito continuado que incluya confesión, unción y viático. SC 75 manda adaptar el número de las unciones y revisar las oraciones.
 
-Lumen Gentium menciona la [[unción_de_los_enfermos]] en LG §11: «Con la unción de los enfermos y la oración de los presbíteros, toda la Iglesia encomienda los enfermos al Señor paciente y glorificado, para que los alivie y los salve, e incluso les exhorta a que, asociándose voluntariamente a la pasión y muerte de Cristo, contribuyan así al bien del Pueblo de Dios» [ConcVatII, LG §11, citando St 5,14-16].
+Lumen Gentium menciona la **unción de los enfermos** en LG §11: «Con la unción de los enfermos y la oración de los presbíteros, toda la Iglesia encomienda los enfermos al Señor paciente y glorificado, para que los alivie y los salve, e incluso les exhorta a que, asociándose voluntariamente a la pasión y muerte de Cristo, contribuyan así al bien del Pueblo de Dios» [ConcVatII, LG §11, citando St 5,14-16].
 
 ### Según la Summa Theologiae (SmTh)
 

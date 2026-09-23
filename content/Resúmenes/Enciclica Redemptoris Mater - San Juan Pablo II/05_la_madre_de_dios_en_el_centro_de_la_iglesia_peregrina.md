@@ -15,7 +15,7 @@ tags: ["resumen", "redemptoris mater"]
 - [[iglesia_peregrina|Iglesia peregrina]] — peregrinación a través de la fe en el Espíritu Santo (§25-28)
 - [[testigo_singular_del_misterio_de_cristo|María, testigo singular]] — primera en creer; su fe precede al testimonio apostólico
 - [[ecumenismo|unidad de los cristianos]] — «para que todos sean uno»; María, Madre común (§29-34)
-- [[theotókos|Theotókos]] — vínculo profundo con las Iglesias orientales; iconos marianos
+- [[theotokos|Theotókos]] — vínculo profundo con las Iglesias orientales; iconos marianos
 - [[magníficat|Magníficat]] — cántico de la Iglesia en camino (§35-37)
 - [[opción_preferencial_por_los_pobres|amor preferencial por los pobres]] — inscrito en el Magníficat
 - [[libertad_y_liberación|libertad y liberación]] — María, imagen más perfecta de la libertad de la humanidad

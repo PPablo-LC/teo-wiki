@@ -32,7 +32,7 @@ tags: ["resumen", "avisos espirituales", "teología_mística", "san_juan_de_la_c
 - [[paz_interior]] — conservar el corazón en paz
 - [[voluntad_de_dios]] — no reparar en quién es contra o con ella
 - [[perfección_cristiana]] — las doce estrellas para la suma perfección
-- [[imitación_de_cristo]] — no tomar ejemplo del hombre sino de Cristo
+- [[imitacion_de_cristo]] — no tomar ejemplo del hombre sino de Cristo
 - [[caridad]] — hablar sin ofender; no negar cosa que tenga
 - [[secularización]] — vivir como si solo hubiese Dios y ella
 
@@ -74,7 +74,7 @@ Colección final de 36 avisos recogidos por la edición de Gerona:
 32. **Corazón en paz:** procure conservar el corazón en paz; no le desasosiegue ningún suceso de este mundo; mire que todo se ha de acabar ([[paz_interior]]).
 33. **Agradar a Dios:** no pare mucho ni poco en quién es contra ella o con ella; procure siempre agradar a su Dios; pídale que se haga en ella su voluntad; ámele mucho, que se lo debe ([[voluntad_de_dios]]).
 34. **Doce estrellas:** para llegar a la suma perfección: amor de Dios, amor del prójimo, obediencia, castidad, pobreza, asistir al coro, penitencia, humildad, mortificación, oración, silencio y paz ([[perfección_cristiana]]).
-35. **Ejemplo de Cristo:** nunca tomes por ejemplo al hombre en lo que hubieres de hacer, por santo que sea, porque el demonio te pondrá delante sus imperfecciones; imita a Cristo, que es sumamente perfecto y sumamente santo, y nunca errarás ([[imitación_de_cristo]]).
+35. **Ejemplo de Cristo:** nunca tomes por ejemplo al hombre en lo que hubieres de hacer, por santo que sea, porque el demonio te pondrá delante sus imperfecciones; imita a Cristo, que es sumamente perfecto y sumamente santo, y nunca errarás ([[imitacion_de_cristo]]).
 36. **Leyendo, meditando, orando, contemplando:** «Buscad leyendo y hallaréis meditando; llamad orando y abriros han contemplando» ([[contemplación]]).
 
 ## Mapa del archivo fuente

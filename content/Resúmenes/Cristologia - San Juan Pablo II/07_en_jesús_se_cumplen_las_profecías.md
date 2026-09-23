@@ -16,7 +16,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "profecías", "a
 - [[antiguo_testamento]] — Preparación y anuncio del Salvador
 - [[ley_mosaica]] — Cumplida, no abrogada por Jesús
 - [[sermón_de_la_montaña]] — Nuevo cumplimiento de la ley
-- [[abrahám]] — Promesa mesiánica
+- [[abraham]] — Promesa mesiánica
 - [[recapitulación]] — Cristo como centro de toda la humanidad
 
 ## Contenido

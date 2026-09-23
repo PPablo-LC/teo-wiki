@@ -16,7 +16,7 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 - [[matrimonio]] — El vínculo hombre-mujer en su estabilidad tiene como razón de ser el reino de los cielos (Mt 19).
 - [[celibato]] — «No conviene más casarse» (Mt 19, 10): la indisolubilidad como el sacrificio más grande; imposible al hombre sin Dios.
 - [[fidelidad]] — «La fedeltà è la moralità dell'amore»; el neso entre el amor tal como se percibe y la totalidad.
-- [[discreción]] — La discreción como actitud fundamental hacia la libertad, propia y ajena; respecto religioso ante el otro.
+- [[discrecion]] — La discreción como actitud fundamental hacia la libertad, propia y ajena; respecto religioso ante el otro.
 - [[respeto]] — Tratar la libertad con discreción es tratarla como amiga; pedir «permiso» antes de entrar.
 - [[vocación]] — El designio de Dios se aparece como propuesta, no se impone: se puede decir no, pero diciendo no «te spacchi».
 - [[unidad_y_comunión]] — El miracolo del mundo es la unidad; el *Tu* se conoce y se ama en el articularse del actuar en casa.

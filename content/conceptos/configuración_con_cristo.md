@@ -48,7 +48,7 @@ León XIV, en su mensaje a los sacerdotes para la Jornada de Santificación Sace
 
 ### Según Don y Misterio (DyM)
 
-La configuración con Cristo se realiza en el sacramento del Orden, que «configura» al sacerdote con Cristo Cabeza y Pastor. Juan Pablo II describe la postración del ordenando —«yacer por tierra en forma de Cruz»— como gesto que significa «acoger en la propia vida —como Pedro— la Cruz de Cristo y hacerse con el Apóstol "suelo" para los hermanos» [DyM, IV]. La [[configuración_con_cristo]] es el fundamento de la actuación *[[in_persona_christi]]* en la Eucaristía: el sacerdote queda «como envuelto por el poder del Espíritu Santo y las palabras que dice adquieren la misma eficacia que las pronunciadas por Cristo durante la Última Cena» [DyM, VIII]. El [[admirabile_commercium]] expresa esta configuración como un intercambio de donación personal.
+La configuración con Cristo se realiza en el sacramento del Orden, que «configura» al sacerdote con Cristo Cabeza y Pastor. Juan Pablo II describe la postración del ordenando —«yacer por tierra en forma de Cruz»— como gesto que significa «acoger en la propia vida —como Pedro— la Cruz de Cristo y hacerse con el Apóstol "suelo" para los hermanos» [DyM, IV]. La **configuración con cristo** es el fundamento de la actuación *[[in_persona_christi]]* en la Eucaristía: el sacerdote queda «como envuelto por el poder del Espíritu Santo y las palabras que dice adquieren la misma eficacia que las pronunciadas por Cristo durante la Última Cena» [DyM, VIII]. El [[admirabile_commercium]] expresa esta configuración como un intercambio de donación personal.
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 

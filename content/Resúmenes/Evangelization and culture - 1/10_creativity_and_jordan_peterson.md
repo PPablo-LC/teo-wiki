@@ -13,7 +13,7 @@ tags: ["resumen", "creatividad", "imagen_de_Dios", "pecado_original", "soberbia"
 ## Conceptos básicos referenciados
 
 - [[creatividad]] — Reflejo de la creatividad divina
-- [[imagen_de_Dios]] — El ser humano creativo a imagen de Dios
+- [[imagen_de_dios]] — El ser humano creativo a imagen de Dios
 - [[pecado_original]] — Tentación de ser Dios
 - [[soberbia]] — Intentar reemplazar a Dios
 

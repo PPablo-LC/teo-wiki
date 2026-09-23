@@ -45,11 +45,11 @@ Los criterios teológico-pastorales que ofrece la nota son: dimensión trinitari
 
 ## Relaciones doctrinales
 
-Se relaciona con [[fe]], [[corazon]], [[afectividad]], [[emotivismo]], [[pasiones]], [[gozo_espiritual]], [[primer_anuncio]], [[discernimiento]], [[abuso_espiritual]], [[falso_misticismo]], [[neo-gnosticismo]], [[neo-pelagianismo]]
+Se relaciona con [[fe]], [[corazón]], [[afectividad]], [[emotivismo]], [[pasiones]], [[gozo_espiritual]], [[primer_anuncio]], [[discernimiento]], [[abuso_espiritual]], [[falso_misticismo]], [[neo-gnosticismo]], [[neo-pelagianismo]]
 
 ## Ver también
 
-[[fe]], [[corazon]], [[afectividad]], [[emotivismo]], [[pasiones]], [[primer_anuncio]]
+[[fe]], [[corazón]], [[afectividad]], [[emotivismo]], [[pasiones]], [[primer_anuncio]]
 
 ## Referencias
 

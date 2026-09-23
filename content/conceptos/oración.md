@@ -180,6 +180,12 @@ Para Giussani, «el valor de la oración está en que pide explícitamente aquel
 
 La oración encuentra su forma concreta en la compañía: su «milagro» es que se convierte en «la autoridad de nuestra vida» — no un poder externo, sino la carne viva de la memoria de Cristo que sostiene el pedir diario (AED, 12, 113-115).
 
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+- **Toda criatura es domanda di essere** — el ser participado se expresa como oración, *domanda* de ser (1Tm 4,4; 1Cor 10,31; 1Ts 5,10); la «morale cristiana» coincide con reconocer que Dios es todo (DLV 04, 77-79).
+- **Toda acción es oración** — «Ogni azione è domanda a Dio di essere, cioè è preghiera» (Péguy, *Véronique*: «Voi toccate Dio dappertutto») (DLV 07, 11-13).
+- **Pregare = scongiurare a Quien pertenecemos** — «bisogna pregare nel senso letterale del termine, vale a dire, scongiurare Colui a cui apparteniamo perché non ci abbia chiamati invano» (DLV 19, 7-11).
+
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 La oración es «una elevación de la mente a Dios» (*oratio est ascensus mentis in Deum*, Damaseno): acto de la mente movido por la voluntad — viene del corazón, por la caridad. Las palabras no son siempre necesarias, pero ayudan a despertar la devoción interior; lo que más la despierta es la humanidad de Cristo. Su duración: mientras despierte fervor de deseo. El deseo de caridad hace la oración continua (actual o virtualmente): así interpreta Tomás «orad sin cesar» — asidua aunque estemos ocupados en las tareas diarias.

@@ -14,7 +14,7 @@ tags: ["resumen", "aparecida", "discipulado", "evangelización"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[Jesucristo]] — Camino, Verdad y Vida; único Salvador de la humanidad
+- [[jesucristo]] — Camino, Verdad y Vida; único Salvador de la humanidad
 - [[discipulado_misionero]] — identidad del bautizado que sigue y anuncia a Jesucristo
 - [[evangelización]] — misión de la Iglesia, unida siempre a la promoción humana
 - [[acción_de_gracias]] — respuesta de alabanza al Dios que bendice a su pueblo

@@ -16,14 +16,14 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[fecundidad]] — el deseo de fecundidad, eco del llamamiento del Creador
 - [[sufrimiento]] — la esterilidad como mal, semejante al sufrimiento y la muerte
-- [[eleccion]] — el misterio de la elección gratuita en las mujeres estériles
+- [[elección]] — el misterio de la elección gratuita en las mujeres estériles
 - [[gracia]] — la gracia fecunda de Dios
 - [[fe]] — la fe triunfa de la muerte estéril y suscita la vida
 - [[virginidad]] — de la esterilidad a la virginidad fecunda
 - [[carisma]] — el celibato como carisma
 - [[castigos]] — la esterilidad no es sencillamente un castigo
 - [[nombre]] — un nombre eterno mejor que hijos e hijas
-- [[maldicion]] — la esterilidad, antes maldición, luego carisma
+- [[maldición]] — la esterilidad, antes maldición, luego carisma
 
 ## Contenido
 
@@ -33,7 +33,7 @@ El pueblo de Dios muestra a lo largo de su historia un profundo deseo de [[fecun
 
 #### 1. La esterilidad es un mal.
 
-La esterilidad es un mal, como el [[sufrimiento]] y la [[muerte]]; parece oponerse al mandamiento del Creador que quiere la fecundidad y la vida. Es una [[verguenza|vergüenza]] no lograr uno que sobreviva su [[nombre]]. De ahí las lamentaciones de Abraham: «¿Qué importa mi siervo adoptado, si yo me voy sin hijos?» *Gen 15,2s*; Sara se siente despreciada por la sierva fecunda *16,4s*; Raquel grita: «¡Dame hijos!, o me muero» *Gen 30,1*, y Jacob responde: «¿Estoy yo en lugar de Dios que te ha rehusado la maternidad?» *30,2*. Dios solo es el señor.
+La esterilidad es un mal, como el [[sufrimiento]] y la [[muerte]]; parece oponerse al mandamiento del Creador que quiere la fecundidad y la vida. Es una [[vergüenza|vergüenza]] no lograr uno que sobreviva su [[nombre]]. De ahí las lamentaciones de Abraham: «¿Qué importa mi siervo adoptado, si yo me voy sin hijos?» *Gen 15,2s*; Sara se siente despreciada por la sierva fecunda *16,4s*; Raquel grita: «¡Dame hijos!, o me muero» *Gen 30,1*, y Jacob responde: «¿Estoy yo en lugar de Dios que te ha rehusado la maternidad?» *30,2*. Dios solo es el señor.
 
 #### 2. Contra este mal se debe luchar.
 
@@ -41,7 +41,7 @@ Raquel, como Sara *Gen 16,2*, dando a su esposo una de sus siervas para que «en
 
 #### 3. Dios vencedor de la esterilidad.
 
-Con estratagemas el hombre domina el estancamiento de la corriente de la vida; pero no puede hacer fecunda a la mujer estéril, cosa reservada a Dios, que con ello anuncia un gran misterio. El escritor sagrado subrayó que habían sido estériles las mujeres de los tres antepasados del pueblo elegido: Sara *Gen 11,30* *16,1*, Rebeca *25,21*, Raquel *29,31*. La escenificación del nacimiento de Isaac quiere mostrar a la vez el misterio de la [[eleccion|elección]] gratuita y de la [[gracia]] fecunda. Como lo interpretará Pablo, el hombre debe reconocerse impotente y confesar con fe el poder de Dios para suscitar la vida en una tierra desierta: la [[fe]] triunfa de la muerte estéril y suscita la vida *Rom 4,18-24*. Elección gratuita que ensalza Ana, la estéril *1Sam 2,1-10*.
+Con estratagemas el hombre domina el estancamiento de la corriente de la vida; pero no puede hacer fecunda a la mujer estéril, cosa reservada a Dios, que con ello anuncia un gran misterio. El escritor sagrado subrayó que habían sido estériles las mujeres de los tres antepasados del pueblo elegido: Sara *Gen 11,30* *16,1*, Rebeca *25,21*, Raquel *29,31*. La escenificación del nacimiento de Isaac quiere mostrar a la vez el misterio de la [[elección|elección]] gratuita y de la [[gracia]] fecunda. Como lo interpretará Pablo, el hombre debe reconocerse impotente y confesar con fe el poder de Dios para suscitar la vida en una tierra desierta: la [[fe]] triunfa de la muerte estéril y suscita la vida *Rom 4,18-24*. Elección gratuita que ensalza Ana, la estéril *1Sam 2,1-10*.
 
 ### II. LA ESTERILIDAD ACEPTADA
 
@@ -53,4 +53,4 @@ En los sabios se observa el mismo progreso: «Más vale un hijo que mil, y morir
 
 ### III. LA ESTERILIDAD VOLUNTARIA
 
-La hija de Jefté, condenada a morir sin hijos, llora su «virginidad» *Jue 11,37s*; en cambio Jeremías acepta la misión divina de guardar celibato *Jer 16,1s*: simboliza la esterilidad culpable del pueblo *Lc 23,29*. Sin embargo, en [[figura]], el AT anunciaba ya positivamente la [[virginidad]] fecunda. El signo que recibe María en la anunciación *Lc 1,36s* es la concepción maravillosa de su prima Isabel: la estéril vuelta fecunda por la [[visita]] de Dios significa para María la maternidad virginal anunciada; en ella se inaugura una nueva era cuyo fruto es el mismo Hijo de Dios, plenitud de la [[fecundidad]]. En esta nueva era llama Jesús a los «eunucos que se hacen tales con miras al reino de los cielos» *Mt 19,12*. Lo que se sufría como una [[maldicion|maldición]], o se soportaba como un mal cuyo buen fruto maduraría en el cielo, se convierte en un [[carisma]] a los ojos de Pablo *1Cor 7,7*: mientras el Génesis decía «No es bueno que el hombre esté solo» *Gen 2,18*, Pablo osa proclamar «Es bueno que el hombre esté así» *1Cor 7,26*, es decir, célibe, solo, sin hijos. Llegada a este estadio, la esterilidad voluntaria puede realizarse en virginidad.
+La hija de Jefté, condenada a morir sin hijos, llora su «virginidad» *Jue 11,37s*; en cambio Jeremías acepta la misión divina de guardar celibato *Jer 16,1s*: simboliza la esterilidad culpable del pueblo *Lc 23,29*. Sin embargo, en [[figura]], el AT anunciaba ya positivamente la [[virginidad]] fecunda. El signo que recibe María en la anunciación *Lc 1,36s* es la concepción maravillosa de su prima Isabel: la estéril vuelta fecunda por la [[visita]] de Dios significa para María la maternidad virginal anunciada; en ella se inaugura una nueva era cuyo fruto es el mismo Hijo de Dios, plenitud de la [[fecundidad]]. En esta nueva era llama Jesús a los «eunucos que se hacen tales con miras al reino de los cielos» *Mt 19,12*. Lo que se sufría como una [[maldición|maldición]], o se soportaba como un mal cuyo buen fruto maduraría en el cielo, se convierte en un [[carisma]] a los ojos de Pablo *1Cor 7,7*: mientras el Génesis decía «No es bueno que el hombre esté solo» *Gen 2,18*, Pablo osa proclamar «Es bueno que el hombre esté así» *1Cor 7,26*, es decir, célibe, solo, sin hijos. Llegada a este estadio, la esterilidad voluntaria puede realizarse en virginidad.

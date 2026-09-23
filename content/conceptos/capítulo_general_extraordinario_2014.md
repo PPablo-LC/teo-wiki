@@ -17,7 +17,7 @@ El **Capítulo General Extraordinario 2014** (CapExt-2014) fue el capítulo gene
 
 ## Contexto
 
-Tras la [[visita_apóstólica]] y el nombramiento del [[delegado_pontificio]] (2010), se inició un proceso de revisión de las constituciones legionarias. El capítulo extraordinario fue convocado para dar forma definitiva a la renovación de la vida consagrada en la Legión.
+Tras la [[visita_apostólica]] y el nombramiento del [[delegado_pontificio]] (2010), se inició un proceso de revisión de las constituciones legionarias. El capítulo extraordinario fue convocado para dar forma definitiva a la renovación de la vida consagrada en la Legión.
 
 ## Trabajos
 
@@ -34,7 +34,7 @@ El CapExt-2014 marcó el fin de la primera fase del proceso de renovación de la
 
 ## Ver también
 
-[[legión_de_cristo]], [[delegado_pontificio]], [[comisión_central_para_la_revisión_de_las_constituciones]], [[visita_apóstólica]], [[antología_del_delegado_pontificio]], [[capítulo_general_extraordinario_2018]], [[sylvester_heereman]], [[velasio_de_paolis]]
+[[legión_de_cristo]], [[delegado_pontificio]], [[comisión_central_para_la_revisión_de_las_constituciones]], [[visita_apostólica]], [[antología_del_delegado_pontificio]], [[capítulo_general_extraordinario_2018]], [[sylvester_heereman]], [[velasio_de_paolis]]
 
 ## Referencias
 

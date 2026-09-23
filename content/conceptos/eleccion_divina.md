@@ -48,11 +48,11 @@ Las notas abordan la predestinación a la luz de Romanos 8,28-30. Subrayan que, 
 
 ## Relaciones doctrinales
 
-Este concepto se vincula con [[predestinación]], [[gracia]], [[Providencia_divina]], [[voluntad_de_Dios]], [[libertad_humana]], [[reprobación]], [[misterio_de_la_salvación]], [[amor_de_Dios]].
+Este concepto se vincula con [[predestinación]], [[gracia]], [[providencia_divina]], [[voluntad_de_dios]], [[libertad_humana]], [[reprobación]], [[misterio_de_la_salvación]], [[amor_de_dios]].
 
 ## Ver también
 
-[[predestinación]], [[gracia]], [[Providencia_divina]], [[voluntad_de_Dios]], [[libertad_humana]], [[salvación]], [[justificación]], [[misterio]]
+[[predestinación]], [[gracia]], [[providencia_divina]], [[voluntad_de_dios]], [[libertad_humana]], [[salvación]], [[justificación]], [[misterio]]
 
 ## Referencias
 

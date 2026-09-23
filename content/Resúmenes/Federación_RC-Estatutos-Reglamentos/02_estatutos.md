@@ -13,11 +13,11 @@ tags: ["resumen", "federación_rc-estatutos-reglamentos"]
 ## Conceptos básicos referenciados
 
 - [[regnum_christi]] — Movimiento eclesial de apostolado
-- [[federacion_regnum_christi]] — Estructura canónica que vincula las instituciones del RC
+- [[federación_regnum_christi]] — Estructura canónica que vincula las instituciones del RC
 - [[legionarios_de_cristo]] — Congregación religiosa fundada en 1959
-- [[consagracion_legionaria]] — Formas de consagración laical con vínculo sagrado
+- [[consagración_legionaria]] — Formas de consagración laical con vínculo sagrado
 - [[laicado]] — Vocación bautismal de los fieles seglares
-- [[comunion_eclesial]] — Unidad y colaboración apostólica
+- [[comunión_eclesial]] — Unidad y colaboración apostólica
 - [[gobierno_religioso]] — Autonomía y gobierno de las instituciones federadas
 
 ## Contenido

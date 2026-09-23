@@ -12,17 +12,17 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Laicos_Consagrados_del_Regnum_Christi]]
-- [[Regnum_Christi]]
-- [[Sociedad_de_Vida_Apostólica]]
-- [[Federación_Regnum_Christi]]
+- [[laicos_consagrados_del_regnum_christi]]
+- [[regnum_christi]]
+- [[sociedad_de_vida_apostólica]]
+- [[federación_regnum_christi]]
 - [[estatutos_federación_regnum_christi]]
-- [[Legionarios_de_Cristo]]
-- [[Consagradas_del_Regnum_Christi]]
-- [[Vida_consagrada]]
+- [[legionarios_de_cristo]]
+- [[consagradas_del_regnum_christi]]
+- [[vida_consagrada]]
 - [[consagración]]
-- [[Gobierno_colegial]]
-- [[Comunión]]
+- [[gobierno_colegial]]
+- [[comunión]]
 
 
 ## Contenido
@@ -33,7 +33,7 @@ Comunicado de los delegados de la segunda sesión de la Asamblea General extraor
 
 ### Gozo por la erección canónica
 
-La segunda sesión estuvo marcada por el gozo de la erección canónica de la [[Sociedad_de_Vida_Apostólica]] de derecho pontificio. Mons. José Rodríguez Carballo, secretario de la Congregación para los Institutos de Vida Consagrada y las Sociedades de Vida Apostólica, entregó el decreto a Jorge López, director general. Representa una confirmación del carisma de consagración laical por parte del Sucesor de Pedro. Se agradece al papa Francisco.
+La segunda sesión estuvo marcada por el gozo de la erección canónica de la [[sociedad_de_vida_apostólica]] de derecho pontificio. Mons. José Rodríguez Carballo, secretario de la Congregación para los Institutos de Vida Consagrada y las Sociedades de Vida Apostólica, entregó el decreto a Jorge López, director general. Representa una confirmación del carisma de consagración laical por parte del Sucesor de Pedro. Se agradece al papa Francisco.
 
 ### Ratificación de los Estatutos de la Federación
 
@@ -45,7 +45,7 @@ Los *Estatutos* son un buen texto, fruto de un largo camino y los primeros en la
 
 ### Federación y Movimiento
 
-El [[Regnum_Christi]] es una familia espiritual y cuerpo apostólico; la [[Federación_Regnum_Christi]] es el instrumento canónico que vincula sus partes. Una unidad articulada como un cuerpo, vivificada por una espiritualidad común, siendo el carisma uno aunque las formas de desarrollarlo sean diversas. La configuración en la unidad refleja el dinamismo del amor de Dios: sin perder la especificidad, no se es sin el otro.
+El [[regnum_christi]] es una familia espiritual y cuerpo apostólico; la [[federación_regnum_christi]] es el instrumento canónico que vincula sus partes. Una unidad articulada como un cuerpo, vivificada por una espiritualidad común, siendo el carisma uno aunque las formas de desarrollarlo sean diversas. La configuración en la unidad refleja el dinamismo del amor de Dios: sin perder la especificidad, no se es sin el otro.
 
 ### Gobierno colegial
 

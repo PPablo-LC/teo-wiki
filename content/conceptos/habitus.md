@@ -24,7 +24,7 @@ Santo Tomás distingue:
 
 La [[virtud]] es un *habitus operativus bonus* (hábito operativo bueno). Las [[virtudes_infusas]] son *habitus* sobrenaturales infundidos por Dios.
 
-[[Ockham]] y el [[nominalismo]] negaron el valor de los *habitus* como disposiciones estables, reduciéndolos a meras costumbres psicológicas. Esta negación es clave en el paso de una moral de la virtud a una moral de la obligación.
+[[ockham]] y el [[nominalismo]] negaron el valor de los *habitus* como disposiciones estables, reduciéndolos a meras costumbres psicológicas. Esta negación es clave en el paso de una moral de la virtud a una moral de la obligación.
 
 ## Relaciones
 

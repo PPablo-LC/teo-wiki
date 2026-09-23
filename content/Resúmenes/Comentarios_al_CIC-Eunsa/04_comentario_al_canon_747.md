@@ -13,7 +13,7 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "magisterio", "enseñanza", "
 ## Conceptos básicos referenciados
 
 - [[magisterio]] — Función de enseñanza de la Iglesia
-- [[Revelación]] — Manifestación de Dios de sí mismo y de su designio de salvación
+- [[revelación]] — Manifestación de Dios de sí mismo y de su designio de salvación
 - [[infalibilidad]] — Carisma que preserva del error al magisterio en determinadas condiciones
 - [[fe_divina_y_católica]] — Asentimiento pleno de la fe a las verdades reveladas
 - [[herejía]] — Negación pertinaz de una verdad de fe
@@ -21,7 +21,7 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "magisterio", "enseñanza", "
 - [[apostasía]] — Abandono total de la fe cristiana
 - [[asentimiento_religioso]] — Adhesión al magisterio auténtico
 - [[ministerio_de_la_palabra]] — Función de anunciar la doctrina cristiana
-- [[Concilio_Vaticano_II]] — Concilio que renovó la eclesiología y la doctrina sobre el magisterio
+- [[concilio_vaticano_ii]] — Concilio que renovó la eclesiología y la doctrina sobre el magisterio
 
 ## Comentario al Canon 747
 

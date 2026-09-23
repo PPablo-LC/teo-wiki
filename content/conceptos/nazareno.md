@@ -49,7 +49,7 @@ Se relaciona con [[jesucristo]] (el título se aplica a Jesús), [[genealogia_de
 
 ## Ver también
 
-[[jesucristo]], [[genealogia_de_jesus]], [[isaías]], [[hijo_de_dios]], [[cruz]], [[belen]]
+[[jesucristo]], [[genealogia_de_jesus]], [[isaías]], [[hijo_de_dios]], [[cruz]], [[belén]]
 
 ## Referencias
 

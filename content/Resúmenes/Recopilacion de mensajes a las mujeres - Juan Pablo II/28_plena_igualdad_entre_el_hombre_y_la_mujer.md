@@ -15,7 +15,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[igualdad_entre_hombre_y_mujer]] — gran conquista de la civilización, afirmada en la creación
 - [[imagen_y_semejanza_de_Dios]] — fundamento bíblico de la dignidad de ambos sexos (Gen 1, 27)
 - [[mulieris_dignitatem]] — Carta Apostólica sobre la dignidad de la mujer (nn. 14-15)
-- [[Jesucristo]] — actitud del Señor como coherente reproche a lo que ofende la dignidad de la mujer
+- [[jesucristo]] — actitud del Señor como coherente reproche a lo que ofende la dignidad de la mujer
 - [[resurrección]] — las mujeres como primeros testigos del Señor resucitado
 - [[maría]] — espejo y medida de verdadera femineidad
 
@@ -27,9 +27,9 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 El respeto a la plena [[igualdad_entre_hombre_y_mujer]], en todos los ámbitos de la vida, es una gran conquista de la civilización. A ella han contribuido las mujeres con su sufrido y generoso testimonio diario. No faltan aún situaciones en las que la mujer vive, de hecho si no jurídicamente, una condición de inferioridad. Es urgente hacer que madure por doquier una cultura de la igualdad, que será duradera en la medida en que refleje el plan de Dios.
 
-La igualdad entre el hombre y la mujer se halla afirmada ya desde las primeras páginas de la [[Biblia]], en el magnífico relato de la creación: «Creó Dios al ser humano a imagen y semejanza suya, a imagen de Dios lo creó, varón y mujer los creó» (Gen 1, 27). La razón profunda de la grandeza del hombre es que lleva grabada en su interior la imagen de Dios, y eso vale por igual para el varón y para la mujer.
+La igualdad entre el hombre y la mujer se halla afirmada ya desde las primeras páginas de la [[biblia]], en el magnífico relato de la creación: «Creó Dios al ser humano a imagen y semejanza suya, a imagen de Dios lo creó, varón y mujer los creó» (Gen 1, 27). La razón profunda de la grandeza del hombre es que lleva grabada en su interior la imagen de Dios, y eso vale por igual para el varón y para la mujer.
 
-Este mensaje bíblico alcanzó su plena expresión en las palabras y gestos de [[Jesucristo]]. En su tiempo pesaba sobre las mujeres una mentalidad que las discriminaba profundamente. La actitud del Señor es «un coherente reproche a cuanto ofende la dignidad de la mujer» (*Mulieris dignitatem*, 15). Cristo establece con las mujeres una relación de gran libertad y amistad. Aunque no les confiere la misión de los Apóstoles, las llama a ser los primeros testigos de su [[resurrección]] y las valora para el anuncio del reino de Dios. Las mujeres recuperan «la propia subjetividad y dignidad» (Ibid., 14).
+Este mensaje bíblico alcanzó su plena expresión en las palabras y gestos de [[jesucristo]]. En su tiempo pesaba sobre las mujeres una mentalidad que las discriminaba profundamente. La actitud del Señor es «un coherente reproche a cuanto ofende la dignidad de la mujer» (*Mulieris dignitatem*, 15). Cristo establece con las mujeres una relación de gran libertad y amistad. Aunque no les confiere la misión de los Apóstoles, las llama a ser los primeros testigos de su [[resurrección]] y las valora para el anuncio del reino de Dios. Las mujeres recuperan «la propia subjetividad y dignidad» (Ibid., 14).
 
 Siguiendo el ejemplo de su divino Fundador, la Iglesia anuncia con convicción este mensaje. El hecho de que algunos de sus hijos no hayan sabido vivirlo con coherencia constituye un motivo de gran pesar. El Papa volvió a proponer este mensaje en toda su riqueza en la Carta Apostólica *Mulieris dignitatem*.
 

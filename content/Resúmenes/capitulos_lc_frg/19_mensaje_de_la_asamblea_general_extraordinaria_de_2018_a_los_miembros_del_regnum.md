@@ -13,13 +13,13 @@ tags: ["resumen", "capitulos lc frg"]
 ## Conceptos básicos referenciados
 
 - [[asamblea_general_regnum_christi]]
-- [[Regnum_Christi]]
-- [[Federación_Regnum_Christi]]
-- [[Legionarios_de_Cristo]]
-- [[Consagradas_del_Regnum_Christi]]
-- [[Laicos_Consagrados_del_Regnum_Christi]]
+- [[regnum_christi]]
+- [[federación_regnum_christi]]
+- [[legionarios_de_cristo]]
+- [[consagradas_del_regnum_christi]]
+- [[laicos_consagrados_del_regnum_christi]]
 - [[Convención_Internacional_de_los_Laicos_del_Regnum_Christi_2016]]
-- [[Discernimiento]]
+- [[discernimiento]]
 
 
 ## Contenido
@@ -34,7 +34,7 @@ La Asamblea se enmarca en el tramo final del camino guiado por la Iglesia. Se re
 
 ### Desarrollo de la Asamblea
 
-Las asambleas de las Consagradas, los Laicos Consagrados y el Capítulo de la Legión acogieron la figura de [[Sociedad_de_Vida_Apostólica]] para las ramas laicales y la propuesta de [[Federación_Regnum_Christi]]. La Asamblea reunió por primera vez a delegados de las tres ramas y de los laicos.
+Las asambleas de las Consagradas, los Laicos Consagrados y el Capítulo de la Legión acogieron la figura de [[sociedad_de_vida_apostólica]] para las ramas laicales y la propuesta de [[federación_regnum_christi]]. La Asamblea reunió por primera vez a delegados de las tres ramas y de los laicos.
 
 ### Los laicos del Regnum Christi
 

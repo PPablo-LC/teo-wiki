@@ -12,15 +12,15 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Laicos_Consagrados_del_Regnum_Christi]]
-- [[Legionarios_de_Cristo]]
-- [[Consagradas_del_Regnum_Christi]]
-- [[Regnum_Christi]]
-- [[Sociedad_de_Vida_Apostólica]]
-- [[Federación_Regnum_Christi]]
-- [[Vida_consagrada]]
+- [[laicos_consagrados_del_regnum_christi]]
+- [[legionarios_de_cristo]]
+- [[consagradas_del_regnum_christi]]
+- [[regnum_christi]]
+- [[sociedad_de_vida_apostólica]]
+- [[federación_regnum_christi]]
+- [[vida_consagrada]]
 - [[consagración]]
-- [[Comunión]]
+- [[comunión]]
 - [[Convención_Internacional_de_los_Laicos_del_Regnum_Christi_2016]]
 
 
@@ -36,7 +36,7 @@ Casi la totalidad de los miembros de la asociación participaron, permitiendo ex
 
 ### Proceso de renovación y configuración canónica
 
-El Movimiento se encuentra en un proceso de renovación que pasa por encontrar una configuración canónica. La Santa Sede espera una propuesta para dotarlo de personalidad jurídica. Se revisó el *Borrador del Estatuto General* y el cambio propuesto de la naturaleza jurídica de la Asociación a [[Sociedad_de_Vida_Apostólica]], para que la proyectada federación pueda hacerse entre realidades canónicas de competencia de la Congregación para los Institutos de Vida Consagrada y las Sociedades de Vida Apostólica.
+El Movimiento se encuentra en un proceso de renovación que pasa por encontrar una configuración canónica. La Santa Sede espera una propuesta para dotarlo de personalidad jurídica. Se revisó el *Borrador del Estatuto General* y el cambio propuesto de la naturaleza jurídica de la Asociación a [[sociedad_de_vida_apostólica]], para que la proyectada federación pueda hacerse entre realidades canónicas de competencia de la Congregación para los Institutos de Vida Consagrada y las Sociedades de Vida Apostólica.
 
 ### Naturaleza carismática del Regnum Christi
 
@@ -44,7 +44,7 @@ El Regnum Christi no se entiende como una simple suma de sus partes, sino como u
 
 ### Decisión de constituirse en Sociedad de Vida Apostólica
 
-Desde junio de 2012 las Consagradas y los Laicos Consagrados cuentan con gobierno propio, conforme a lo establecido por el delegado pontificio card. Velasio De Paolis. La Asamblea General extraordinaria decidió solicitar a la Santa Sede que se erija como [[Sociedad_de_Vida_Apostólica]] laical, tras reflexionar que esta figura respeta las exigencias de su vocación específica y evidencia su estilo de vida como comunidad de apóstoles. Mantienen su consagración de vida con votos privados. Se convertirán, si lo aprueba la Santa Sede, en una entidad pública en la Iglesia.
+Desde junio de 2012 las Consagradas y los Laicos Consagrados cuentan con gobierno propio, conforme a lo establecido por el delegado pontificio card. Velasio De Paolis. La Asamblea General extraordinaria decidió solicitar a la Santa Sede que se erija como [[sociedad_de_vida_apostólica]] laical, tras reflexionar que esta figura respeta las exigencias de su vocación específica y evidencia su estilo de vida como comunidad de apóstoles. Mantienen su consagración de vida con votos privados. Se convertirán, si lo aprueba la Santa Sede, en una entidad pública en la Iglesia.
 
 ### La federación como bien para todo el Movimiento
 

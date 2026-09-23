@@ -43,7 +43,7 @@ El Concilio Vaticano II, en *Ad Gentes* §6, enseña que «la actividad misional
 
 ### Según EAC-18 — Word on Fire Institute
 
-Andrew Allen recuerda que el anuncio del [[kerygma]] —el primer anuncio de Jesucristo muerto y resucitado— es el corazón del itinerario del [[catecumenado]]: la conversión responde a ese anuncio, pues «la fe nace de la escucha», y el camino catecumenal se ordena a hacer de cada bautizando un discípulo (CEC 1432) [EAC-18, 16_feature_allen.md].
+Andrew Allen recuerda que el anuncio del **kerygma** —el primer anuncio de Jesucristo muerto y resucitado— es el corazón del itinerario del [[catecumenado]]: la conversión responde a ese anuncio, pues «la fe nace de la escucha», y el camino catecumenal se ordena a hacer de cada bautizando un discípulo (CEC 1432) [EAC-18, 16_feature_allen.md].
 
 David Rinaldi, desde las periferias misioneras, sostiene que el kerygma se proclama de modo privilegiado con el testimonio: «la fe se contagia más que se enseña», porque el primer anuncio es más que doctrina — es el encuentro con una Persona viva que se comunica en la Iglesia y por la evangelización [EAC-18, 22_peripheries.md].
 

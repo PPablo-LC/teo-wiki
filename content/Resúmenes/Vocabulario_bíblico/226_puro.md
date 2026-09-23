@@ -30,7 +30,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[bautismo]] — la purificación radical
 - [[cruz]] — la eficacia de la cruz
 - [[agua]] — las aguas del bautismo
-- [[Espíritu]] — el Espíritu que regenera
+- [[espíritu]] — el Espíritu que regenera
 - [[alimento]] — el alimento ya no contamina
 - [[fe]] — la fe que purifica
 - [[esperanza]] — purificados por la esperanza

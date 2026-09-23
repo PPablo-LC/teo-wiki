@@ -83,6 +83,18 @@ La vida y el martirio de Tomás Moro conectan con múltiples temas teológicos y
 
 [[martirio]], [[conciencia_moral]], [[libertad_religiosa]], [[theo-drama]], [[cine]], [[ley_natural]], [[acta_de_supremacía]], [[enrique_viii]], [[utopía]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. I: Moro «siempre respondía que "la mayor
+parte de los santos había pensado en vida como él pensaba", y que "el
+concilio de un solo reino no tenía autoridad contra el concilio general
+de la Cristiandad"». En el patíbulo, evocando a san Esteban, deseó a sus
+jueces encontrarse «con gozo en el cielo por nuestra salvación eterna»:
+«el ideal humanístico del *verdadero hombre* alcanzó una cumbre altísima:
+la de reconocer la plena dignidad humana incluso a los perseguidores,
+hasta el punto de desearles, con verdadera esperanza, la misma santidad,
+citándoles en el paraíso».
+
 ## Referencias
 
 - WoF-4, análisis de *A Man for All Seasons* como theo-drama (Leah Susanka).
@@ -92,3 +104,4 @@ La vida y el martirio de Tomás Moro conectan con múltiples temas teológicos y
 - More, Thomas, *Utopia* (1516).
 - Ackroyd, Peter, *The Life of Thomas More* (1998).
 - Siedentop, Larry, *Inventing the Individual: The Origins of Western Liberalism* (2014).
+- A. M. Sicari, *Así mueren los santos*, cap. I (Rialp, 2020).

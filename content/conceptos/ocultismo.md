@@ -27,7 +27,7 @@ El CEC (2115-2117) es la fuente normativa: rechaza «toda forma de adivinación�
 
 ### Según el Documental «Dioses de la nueva era» (DocNDE)
 
-El documental *Dioses de la nueva era* sitúa el [[ocultismo]] en el umbral de difusión de la [[nueva_era]]: el esoterismo, el espiritismo y las prácticas adivinatorias reaparecen en Occidente con la caída de la fe, y la [[kundalini]], la [[meditación_trascendental]] y las terapias «energéticas» conforman un continuum con las formas clásicas de ocultismo. Bajo el signo del bienestar «holístico», el documental señala que se reactivan las estructuras espirituales de la magia: poder obtenido por técnica, no don recibido por gracia.
+El documental *Dioses de la nueva era* sitúa el **ocultismo** en el umbral de difusión de la [[nueva_era]]: el esoterismo, el espiritismo y las prácticas adivinatorias reaparecen en Occidente con la caída de la fe, y la [[kundalini]], la [[meditación_trascendental]] y las terapias «energéticas» conforman un continuum con las formas clásicas de ocultismo. Bajo el signo del bienestar «holístico», el documental señala que se reactivan las estructuras espirituales de la magia: poder obtenido por técnica, no don recibido por gracia.
 
 ## Distinciones importantes
 

@@ -28,7 +28,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[libre_albedrío]] — el libre albedrío después del pecado
 - [[excomunión]] — naturaleza de las excomuniones
 - [[gracia_santificante]] — los sacramentos de la Nueva Ley confieren la gracia
-- [[martín_lutero]] — errores condenados
+- [[martin_lutero]] — errores condenados
 
 ## Contenido
 

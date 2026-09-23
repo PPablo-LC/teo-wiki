@@ -27,7 +27,7 @@ La Iglesia es el Cuerpo de Cristo por el Espíritu y su acción en los sacrament
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium desarrolla la doctrina del [[cuerpo_místico]] principalmente en LG §7. Cristo constituyó a sus hermanos, congregados de entre todos los pueblos, místicamente su cuerpo, comunicándoles su Espíritu [ConcVatII, LG §7]. «La Cabeza de este cuerpo es Cristo», imagen de Dios invisible, primogénito de toda criatura, que con su poder domina los cielos y la tierra [ConcVatII, LG §7].
+Lumen Gentium desarrolla la doctrina del **cuerpo místico** principalmente en LG §7. Cristo constituyó a sus hermanos, congregados de entre todos los pueblos, místicamente su cuerpo, comunicándoles su Espíritu [ConcVatII, LG §7]. «La Cabeza de este cuerpo es Cristo», imagen de Dios invisible, primogénito de toda criatura, que con su poder domina los cielos y la tierra [ConcVatII, LG §7].
 
 En el cuerpo de Cristo «está vigente la diversidad de miembros y oficios». Uno solo es el Espíritu, que distribuye sus variados dones para el bien de la Iglesia [ConcVatII, LG §7]. «El mismo produce y urge la caridad entre los fieles, unificando el cuerpo por sí y con su virtud». El Espíritu Santo, «siendo uno solo en la Cabeza y en los miembros, de tal modo vivifica todo el cuerpo, lo une y lo mueve, que su oficio pudo ser comparado por los Santos Padres con la función que ejerce el principio de vida o el alma en el cuerpo humano» [ConcVatII, LG §7].
 
@@ -57,7 +57,7 @@ En la infografía de la primera carta a los Corintios, el PdB señala que san Pa
 
 ### Según EAC-18 — Word on Fire Institute
 
-La sección «Soul» del fascículo presenta la pertenencia al [[cuerpo_místico]] de Cristo como la meta de la conversión: el que se convierte no queda aislado, sino que es incorporado a una comunidad concreta —la parroquia y la Iglesia universal— donde la fe se vive y se transmite [EAC-18, 21_soul.md].
+La sección «Soul» del fascículo presenta la pertenencia al **cuerpo místico** de Cristo como la meta de la conversión: el que se convierte no queda aislado, sino que es incorporado a una comunidad concreta —la parroquia y la Iglesia universal— donde la fe se vive y se transmite [EAC-18, 21_soul.md].
 
 En la [[era_secular]], el hombre contemporáneo busca pertenencia y sentido; la Iglesia ofrece el lugar del encuentro con Cristo, pues todo el cuerpo —con sus carismas y ministerios— está al servicio de la comunión y de la misión [EAC-18, 21_soul.md].
 

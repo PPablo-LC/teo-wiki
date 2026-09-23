@@ -47,11 +47,11 @@ No hay un tratamiento doctrinal específico del verbo «seguir» como concepto e
 
 ## Relaciones doctrinales
 
-Se relaciona con [[discipulado]], [[vocación]], [[cruz]], [[conversión]], [[imitación_de_cristo]], [[renuncia]].
+Se relaciona con [[discipulado]], [[vocación]], [[cruz]], [[conversión]], [[imitacion_de_cristo]], [[renuncia]].
 
 ## Ver también
 
-[[discipulado]], [[vocación]], [[cruz]], [[imitación_de_cristo]], [[conversión]]
+[[discipulado]], [[vocación]], [[cruz]], [[imitacion_de_cristo]], [[conversión]]
 
 ## Referencias
 

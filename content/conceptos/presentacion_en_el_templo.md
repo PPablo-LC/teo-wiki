@@ -53,11 +53,11 @@ En *Jesús de Nazaret III*, Benedicto XVI ofrece una interpretación detallada d
 
 ## Relaciones doctrinales
 
-Se relaciona con [[virgen_maría]] (María cumple la Ley), [[san_josé]] (José acompaña a María), [[simeon]] (el profeta que reconoce al Salvador), [[natividad]] (la Presentación es la continuación de la Navidad), [[ley_mosaica]] (cumplimiento de la Ley), [[templo_de_jerusalén]] (primer encuentro de Jesús con el templo), [[cruz]] (la profecía de Simeón apunta a la Pasión).
+Se relaciona con [[virgen_maría]] (María cumple la Ley), [[san_josé]] (José acompaña a María), [[simeon]] (el profeta que reconoce al Salvador), [[natividad]] (la Presentación es la continuación de la Navidad), [[ley_mosaica]] (cumplimiento de la Ley), [[templo_de_Jerusalén]] (primer encuentro de Jesús con el templo), [[cruz]] (la profecía de Simeón apunta a la Pasión).
 
 ## Ver también
 
-[[virgen_maría]], [[san_josé]], [[simeon]], [[natividad]], [[ley_mosaica]], [[templo_de_jerusalén]], [[cruz]]
+[[virgen_maría]], [[san_josé]], [[simeon]], [[natividad]], [[ley_mosaica]], [[templo_de_Jerusalén]], [[cruz]]
 
 ## Referencias
 

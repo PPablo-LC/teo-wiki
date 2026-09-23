@@ -18,8 +18,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[copa]] — la copa de la [[ira]]
 - [[designio_de_dios]] — lo que olvida el hombre ebrio
 - [[velar]] — la embriaguez como abandono de la vigilancia
-- [[Espíritu]] — la plenitud del Espíritu frente a la embriaguez
-- [[pentecostes]] — la acusación de embriaguez el día de Pentecostés
+- [[espíritu]] — la plenitud del Espíritu frente a la embriaguez
+- [[pentecostés]] — la acusación de embriaguez el día de Pentecostés
 - [[gozo]] — la satisfacción propia de la embriaguez
 
 ## Contenido
@@ -34,4 +34,4 @@ Una notación moral: la embriaguez lleva a olvidar. La madre de Lemuel ve en las
 
 ### Embriaguez y Espíritu.
 
-La embriaguez cierra el acceso al reino *1Cor 5,11* *6,10* *Gal 5,21*; sin embargo, trata de penetrar en la esfera de lo sagrado: los corintios la mezclan con los ágapes *1Cor 11,21*. El día de [[pentecostés]], había quienes atribuían en son de burla a la embriaguez los efectos del [[Espíritu]] *Act 2,13-15*. Lo que suscita las burlas es la visita liberadora del Espíritu. San Pablo ordena que se evite la embriaguez para buscar la plenitud del Espíritu *Ef 5,18*. En la embriaguez el hombre trata de liberarse de todo lo que pone trabas a su ser, hallando una satisfacción ([[gozo]]) que el Cantar de los Cantares asocia a la del amor *Cant 5,1*. Pero en verdad sólo el Espíritu puede procurarle esta plenitud.
+La embriaguez cierra el acceso al reino *1Cor 5,11* *6,10* *Gal 5,21*; sin embargo, trata de penetrar en la esfera de lo sagrado: los corintios la mezclan con los ágapes *1Cor 11,21*. El día de [[pentecostés]], había quienes atribuían en son de burla a la embriaguez los efectos del [[espíritu]] *Act 2,13-15*. Lo que suscita las burlas es la visita liberadora del Espíritu. San Pablo ordena que se evite la embriaguez para buscar la plenitud del Espíritu *Ef 5,18*. En la embriaguez el hombre trata de liberarse de todo lo que pone trabas a su ser, hallando una satisfacción ([[gozo]]) que el Cantar de los Cantares asocia a la del amor *Cant 5,1*. Pero en verdad sólo el Espíritu puede procurarle esta plenitud.

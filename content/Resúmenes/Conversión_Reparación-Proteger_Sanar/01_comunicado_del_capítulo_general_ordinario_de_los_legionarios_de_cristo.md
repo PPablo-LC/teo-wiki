@@ -12,7 +12,7 @@ tags: ["resumen", "conversión_reparación-proteger_sanar"]
 
 ## Conceptos básicos referenciados
 
-- [[conversion]] — llamado a la conversión personal e institucional ante el escándalo de los abusos
+- [[conversión]] — llamado a la conversión personal e institucional ante el escándalo de los abusos
 - [[penitencia_y_reparacion]] — reconocimiento del daño causado y compromiso de reparación concreta
 - [[examen_de_conciencia]] — proceso reflexivo individual e institucional sobre las actitudes y omisiones
 - [[abusos_sexuales_en_la_iglesia]] — denuncia de los delitos y crímenes cometidos por miembros de la Congregación

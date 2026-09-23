@@ -24,7 +24,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 
 ### Minds: St. Maximilian Kolbe's Red Crown of Courage
 
-Michael D. Wick abre citando al [[catecismo_de_la_iglesia_catolica]]: las virtudes «disponen todas las potencias del ser humano para la comunión con el amor divino». [[santo_tomas_de_aquino]] declara que la virtud de fortaleza es condición necesaria de toda virtud, pues provee la fuerza para ejercitar cualquier virtud de manera constante. En la vida inspiradora y la muerte heroica de [[san_maximiliano_kolbe]] —fraile, sacerdote, misionero y mártir— vemos el coraje vivido en grado heroico.
+Michael D. Wick abre citando al [[catecismo_de_la_iglesia_católica]]: las virtudes «disponen todas las potencias del ser humano para la comunión con el amor divino». [[santo_tomás_de_aquino]] declara que la virtud de fortaleza es condición necesaria de toda virtud, pues provee la fuerza para ejercitar cualquier virtud de manera constante. En la vida inspiradora y la muerte heroica de [[san_maximiliano_kolbe]] —fraile, sacerdote, misionero y mártir— vemos el coraje vivido en grado heroico.
 
 ### La escena de Auschwitz
 

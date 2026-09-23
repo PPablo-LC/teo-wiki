@@ -48,11 +48,11 @@ Las notas de las conferencias subrayan que «la fe sin obras es una fe estéril�
 
 ## Relaciones doctrinales
 
-Este concepto se vincula con [[justificación]], [[gracia]], [[caridad]], [[fe]], [[mérito]], [[obras_buenas]], [[concilio_de_Trento]], [[santificación]], [[libre_albedrío]].
+Este concepto se vincula con [[justificación]], [[gracia]], [[caridad]], [[fe]], [[mérito]], [[obras_buenas]], [[concilio_de_trento]], [[santificación]], [[libre_albedrío]].
 
 ## Ver también
 
-[[justificación]], [[gracia]], [[caridad]], [[fe]], [[mérito]], [[obras_buenas]], [[concilio_de_Trento]], [[santificación]], [[fe_viva]]
+[[justificación]], [[gracia]], [[caridad]], [[fe]], [[mérito]], [[obras_buenas]], [[concilio_de_trento]], [[santificación]], [[fe_viva]]
 
 ## Referencias
 

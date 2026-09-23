@@ -46,7 +46,7 @@ El Decreto *Optatam Totius* establece que la formación de los candidatos al sac
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II describe su propia [[formación_sacerdotal]]: seminario clandestino en Cracovia durante la ocupación nazi, estudios en el Angelicum de Roma y un trienio en la Facultad de Teología de la Universidad Jagellónica [DyM, II, V]. Destaca la importancia de la formación filosófica y teológica, integrando aristotelismo-tomismo con fenomenología: «Sobre mi precedente formación aristotélico-tomista se injertaba así el método fenomenológico, lo cual me ha permitido emprender numerosos ensayos creativos en este campo» [DyM, IX]. La formación comprende cuatro dimensiones: humana, espiritual, intelectual y pastoral. Considera fundamental «aprender Roma» para adquirir una visión universal de la Iglesia [DyM, V].
+Juan Pablo II describe su propia **formación sacerdotal**: seminario clandestino en Cracovia durante la ocupación nazi, estudios en el Angelicum de Roma y un trienio en la Facultad de Teología de la Universidad Jagellónica [DyM, II, V]. Destaca la importancia de la formación filosófica y teológica, integrando aristotelismo-tomismo con fenomenología: «Sobre mi precedente formación aristotélico-tomista se injertaba así el método fenomenológico, lo cual me ha permitido emprender numerosos ensayos creativos en este campo» [DyM, IX]. La formación comprende cuatro dimensiones: humana, espiritual, intelectual y pastoral. Considera fundamental «aprender Roma» para adquirir una visión universal de la Iglesia [DyM, V].
 
 ### Según León XIV (UFGF)
 

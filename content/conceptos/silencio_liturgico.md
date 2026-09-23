@@ -16,6 +16,6 @@ La sección sobre el silencio se ha ampliado significativamente. Se recomienda q
 ## Ver también
 - [[liturgia]]
 - [[oración]]
-- [[gestos_litúrgicos]]
+- [[gestos_liturgicos]]
 ## Referencias
 - IGMR (2000), §45, §56

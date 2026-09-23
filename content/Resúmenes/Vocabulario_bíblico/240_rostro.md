@@ -24,7 +24,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[espíritu]] — la acción del Señor, que es Espíritu
 - [[evangelio]] — el servicio del Evangelio hace irradiar la gloria
 - [[deseo]] — el deseo colmado de ver el rostro de Dios
-- [[jesus|Jesús]] — la gloria de la transfiguración
+- [[jesús|Jesús]] — la gloria de la transfiguración
 - [[nombre]] — la bendición que hace brillar el rostro de Dios
 
 ## Contenido
@@ -51,7 +51,7 @@ El rostro de Dios es mortalmente temible para el hombre *Jue 13,22* *Ex 33,20* a
 
 ### En el rostro de Cristo.
 
-En el rostro de Cristo hizo Dios irradiar para nosotros su rostro y nos ha otorgado su favor *Num 6,24*. En este rostro resplandece la [[gloria]] de Dios *2Cor 4,6*; la gloria de la transfiguración *Mt 17,2 p* es un signo de que en [[jesus|Jesús]] Dios mismo se deparó una fisonomía *Ap 1,16* y de que en él se mostró el rostro que «nadie ha visto nunca» *Jn 1,18*: «Quien me ha visto, ha visto al Padre» *Jn 14,9*. Es un rostro humano, escarnecido, velado *Mc 14,65 p*, desfigurado *Is 52,14*, pero es «la efigie de la sustancia divina» *Heb 1,3*.
+En el rostro de Cristo hizo Dios irradiar para nosotros su rostro y nos ha otorgado su favor *Num 6,24*. En este rostro resplandece la [[gloria]] de Dios *2Cor 4,6*; la gloria de la transfiguración *Mt 17,2 p* es un signo de que en [[jesús|Jesús]] Dios mismo se deparó una fisonomía *Ap 1,16* y de que en él se mostró el rostro que «nadie ha visto nunca» *Jn 1,18*: «Quien me ha visto, ha visto al Padre» *Jn 14,9*. Es un rostro humano, escarnecido, velado *Mc 14,65 p*, desfigurado *Is 52,14*, pero es «la efigie de la sustancia divina» *Heb 1,3*.
 
 El cristiano, por haber visto la gloria de este rostro gracias al [[espíritu|Espíritu]] Santo que habita en él, queda habitualmente iluminado y transformado, no como el rostro de Moisés, con una manifestación pasajera *2Cor 3,7s*, sino con una irradiación de vida y de salvación: «Todos nosotros que, a cara descubierta, reflejamos como en un espejo la gloria del Señor, nos transformamos en la misma imagen, cada vez más gloriosa, como conviene a la acción del Señor, que es Espíritu» *2Cor 3,18*. Esta «gloria de Dios en el rostro de Cristo» es la que el servicio del [[evangelio|Evangelio]] hace irradiar «sobre toda conciencia humana» *2Cor 4,2-6*.
 

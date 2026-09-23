@@ -52,7 +52,7 @@ La revelación profética se transmite ordinariamente por ministerio de los áng
 
 ## Ver también
 
-[[elías]], [[moisés]], [[jeremías]], [[isaias]], [[ezequiel]], [[ley]], [[culto]], [[exilio]], [[resto]], [[juicio]], [[salvación]], [[cumplimiento_de_las_profecías]]
+[[elías]], [[moisés]], [[jeremías]], [[isaías]], [[ezequiel]], [[ley]], [[culto]], [[exilio]], [[resto]], [[juicio]], [[salvación]], [[cumplimiento_de_las_profecías]]
 
 ## Referencias
 

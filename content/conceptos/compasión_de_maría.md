@@ -13,7 +13,7 @@ timestamp: 2026-07-01
 
 ## Definición
 
-La **compasión de María** (del latín *compassio*, «sufrir con») es la participación íntima de la [[virgen_maría]] en los sufrimientos de su Hijo [[Jesucristo]], especialmente al pie de la cruz (Jn 19,25–27). Es un aspecto central de su maternidad espiritual y de su asociación a la obra redentora.
+La **compasión de María** (del latín *compassio*, «sufrir con») es la participación íntima de la [[virgen_maría]] en los sufrimientos de su Hijo [[jesucristo]], especialmente al pie de la cruz (Jn 19,25–27). Es un aspecto central de su maternidad espiritual y de su asociación a la obra redentora.
 
 ## Relaciones
 

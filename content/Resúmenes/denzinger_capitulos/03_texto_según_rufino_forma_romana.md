@@ -24,7 +24,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 **D-4** Texto del Símbolo Apostólico según Rufo de Aquilea (+410), en su forma romana (siglo IV):
 
-> Creo en Dios Padre omnipotente; y en Jesucristo su único Hijo, nuestro Señor, que nació de María Virgen por obra del [[Espíritu_Santo]], fue crucificado bajo Poncio Pilato y sepultado, al tercer día resucitó de entre los muertos, subió a los cielos, está sentado a la diestra del Padre, desde allí ha de venir a juzgar a los vivos y a los muertos, y en el Espíritu Santo, la Santa Iglesia, el perdón de los pecados y la resurrección de la carne.
+> Creo en Dios Padre omnipotente; y en Jesucristo su único Hijo, nuestro Señor, que nació de María Virgen por obra del [[espíritu_santo]], fue crucificado bajo Poncio Pilato y sepultado, al tercer día resucitó de entre los muertos, subió a los cielos, está sentado a la diestra del Padre, desde allí ha de venir a juzgar a los vivos y a los muertos, y en el Espíritu Santo, la Santa Iglesia, el perdón de los pecados y la resurrección de la carne.
 
 Este texto es la versión completa del credo en su forma occidental (R), que incluye la parte trinitaria y la parte cristológica. Rufo, pbro. de Aquilea, transmitió esta forma del símbolo tanto de la Iglesia de Roma como de la de Aquilea.
 
@@ -32,4 +32,4 @@ Este texto es la versión completa del credo en su forma occidental (R), que inc
 
 ## Texto según Rufo (forma romana)
 
-Transcripción del texto D-4 del Símbolo Apostólico en su forma occidental según Rufo de Aquilea. El símbolo presenta la estructura trinitaria completa: [[fe]] en el Padre creador, en el Hijo encarnado, muerto y resucitado, y en el [[Espíritu_Santo]], la Iglesia, el perdón de los pecados y la resurrección de la carne. Es una de las versiones más antiguas del credo en latín y fue usada como texto de referencia para la reconstrucción de la forma primitiva del símbolo romano.
+Transcripción del texto D-4 del Símbolo Apostólico en su forma occidental según Rufo de Aquilea. El símbolo presenta la estructura trinitaria completa: [[fe]] en el Padre creador, en el Hijo encarnado, muerto y resucitado, y en el [[espíritu_santo]], la Iglesia, el perdón de los pecados y la resurrección de la carne. Es una de las versiones más antiguas del credo en latín y fue usada como texto de referencia para la reconstrucción de la forma primitiva del símbolo romano.

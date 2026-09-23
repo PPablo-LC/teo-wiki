@@ -46,7 +46,7 @@ Consejo de Jordan de Sajonia: mantener el vínculo de caridad con los hermanos; 
 
 #### Una visión del prójimo
 
-Santa [[catalina_de_siena]] es la figura sobresaliente. En la oración, Dios le revela la dignidad y belleza de su criatura racional: «Abre los ojos de tu mente y verás la dignidad y belleza de mi criatura racional.» La fuente de su visión del prójimo es la experiencia contemplativa: «Si vieras la belleza del alma humana... sufrirías la muerte cien veces por llevar una sola alma a la salvación.»
+Santa [[santa_catalina_de_siena]] es la figura sobresaliente. En la oración, Dios le revela la dignidad y belleza de su criatura racional: «Abre los ojos de tu mente y verás la dignidad y belleza de mi criatura racional.» La fuente de su visión del prójimo es la experiencia contemplativa: «Si vieras la belleza del alma humana... sufrirías la muerte cien veces por llevar una sola alma a la salvación.»
 
 A diferencia de Teresa de Ávila (que dice «muero porque no muero» refiriéndose a la unión con Cristo), Catalina dice «muero y no puedo morir» como expresión de su angustia por la renovación de la Iglesia. Su misticismo es eclesial y de servicio, no de entusiasmo psicológico. A los ermitaños que se niegan a abandonar el silencio forestal, les escribe con sarcasmo mordaz: «Aparentemente Dios es aceptador de lugares y solo se encuentra en un bosque.» «¡Es el silencio lo que mata al mundo!»
 

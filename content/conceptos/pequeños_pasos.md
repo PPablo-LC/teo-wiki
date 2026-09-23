@@ -37,7 +37,7 @@ Royo Marin expone que la perfeccion cristiana no requiere necesariamente grandes
 
 ## Relaciones doctrinales
 
-Se relaciona con [[infancia_espiritual]], [[fidelidad]], [[perseverancia]], [[humildad]], [[pequeña_vía]], [[santa_Teresa_de_Lisieux]], [[perfección_cristiana]], [[santidad]]
+Se relaciona con [[infancia_espiritual]], [[fidelidad]], [[perseverancia]], [[humildad]], [[pequeña_vía]], [[santa_teresa_de_lisieux]], [[perfección_cristiana]], [[santidad]]
 
 ## Ver también
 

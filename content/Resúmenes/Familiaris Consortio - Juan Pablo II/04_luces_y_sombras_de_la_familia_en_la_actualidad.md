@@ -12,7 +12,7 @@ tags: ["resumen", "familiaris consortio"]
 
 ## Conceptos básicos referenciados
 
-- [[discernimiento_evangelico|discernimiento evangélico]] — obra de toda la Iglesia mediante el sentido de la fe
+- [[discernimiento_evangélico|discernimiento evangélico]] — obra de toda la Iglesia mediante el sentido de la fe
 - [[sentido_de_la_fe|sentido sobrenatural de la fe]] — don participado por el Espíritu a todos los fieles
 - [[libertad]] — concepción corrompida como autoafirmación egoísta frente a su verdad
 - [[inculturación]] — aceptación de las culturas compatibles con el Evangelio

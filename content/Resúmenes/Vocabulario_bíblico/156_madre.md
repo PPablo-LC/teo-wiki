@@ -20,15 +20,15 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[piedad]] — la piedad filial transfigurada
 - [[odio]] — odiar a padre y madre por amor a Jesús
 - [[hora]] — la hora de la cruz
-- [[maria]] — la fe de María
+- [[maría]] — la fe de María
 - [[vida]] — la plenitud de vida en Dios
 - [[padres_y_padre]] — los nombres de padre y de madre dados a Dios
-- [[sabiduria]] — la sabiduría que se dirige a sus hijos como una madre
+- [[sabiduría]] — la sabiduría que se dirige a sus hijos como una madre
 - [[palabra_de_dios]] — la sabiduría, palabra de Dios
 - [[pan]] — el pan de la inteligencia
 - [[agua]] — el agua de la sabiduría
 - [[virginidad]] — la Virgen madre
-- [[jerusalen]] — Jerusalén, la ciudad madre
+- [[jerusalén]] — Jerusalén, la ciudad madre
 - [[justicia]] — la justicia derivada de Jerusalén
 - [[conocer]] — el conocimiento de Yahveh
 - [[pueblo]] — la madre de todos los pueblos
@@ -62,7 +62,7 @@ Una misión particular parece incumbir a la madre del [[rey|rey]], única que, a
 
 Con la venida de Cristo no se suprime el deber de [[piedad|piedad]] filial, sino que se le da cumplimiento: la catequesis apostólica lo mantiene claramente *Col 3,20s* *Ef 6,1-4*; Jesús truena contra los fariseos que lo eluden con vanos pretextos cultuales *Mt 15,4-9 p*. Sin embargo, desde ahora, por amor a Jesús hay que saber rebasar la piedad filial coronándola por la piedad para con Dios mismo. Cristo vino a «separar a la hija de la madre» *Mt 10,35* y promete el céntuplo a quien deje por él a su padre o a su madre *Mt 19,29*. Para ser digno de él hay que ser capaz de «[[odio|odiar]] a su padre y a su madre» *Lc 14,26*, es decir, de amar a Jesús más que a los propios padres *Mt 10,37*.
 
-Jesús mismo dio ejemplo de este sacrificio de los vínculos maternos. De doce años, en el templo, reivindica frente a su madre el derecho a entregarse a los asuntos de su Padre *Lc 2,49s*. En Caná, si bien otorga finalmente lo que le pide su madre, le da, sin embargo, a entender que no tiene ya por qué intervenir cerca de él, sea porque no ha sonado todavía la [[hora|hora]] de su ministerio público, sea porque no ha llegado aún la hora de la cruz *Jn 2,4*. Pero si Jesús se distancia así de su madre, no es porque desconozca su verdadera grandeza; por el contrario, la revela en la fe de [[maria|María]] *Lc 11,27s*. «¿Quién es mi madre y quiénes son mis hermanos?», y señala con la mano a sus discípulos *Mt 12,48ss*; a la mujer que admiraba la maternidad carnal de María le insinúa incluso que ella misma es la fiel por excelencia, escuchando la palabra de Dios y poniéndola en práctica. Jesús extiende esta maternidad de orden espiritual a todos sus discípulos cuando desde lo alto de la cruz dice al discípulo amado: «He ahí a tu madre» *Jn 19,26s*.
+Jesús mismo dio ejemplo de este sacrificio de los vínculos maternos. De doce años, en el templo, reivindica frente a su madre el derecho a entregarse a los asuntos de su Padre *Lc 2,49s*. En Caná, si bien otorga finalmente lo que le pide su madre, le da, sin embargo, a entender que no tiene ya por qué intervenir cerca de él, sea porque no ha sonado todavía la [[hora|hora]] de su ministerio público, sea porque no ha llegado aún la hora de la cruz *Jn 2,4*. Pero si Jesús se distancia así de su madre, no es porque desconozca su verdadera grandeza; por el contrario, la revela en la fe de [[maría|María]] *Lc 11,27s*. «¿Quién es mi madre y quiénes son mis hermanos?», y señala con la mano a sus discípulos *Mt 12,48ss*; a la mujer que admiraba la maternidad carnal de María le insinúa incluso que ella misma es la fiel por excelencia, escuchando la palabra de Dios y poniéndola en práctica. Jesús extiende esta maternidad de orden espiritual a todos sus discípulos cuando desde lo alto de la cruz dice al discípulo amado: «He ahí a tu madre» *Jn 19,26s*.
 
 ## II. La madre en la historia de la salvación
 
@@ -72,7 +72,7 @@ Las características de la madre se descubren, traducidas metafóricamente, ya p
 
 Hay en Dios tal plenitud de [[vida|vida]] que Israel le da los nombres de [[padres_y_padre|padre]] y de madre. Para expresar la misericordiosa ternura de Dios, *rahamim* designa las entrañas maternas y evoca la emoción visceral que experimenta la madre para con sus hijos *Sal 25,6* *116,5*. Dios nos consuela como una madre *Is 66,13*, y si una madre fuera capaz de olvidar al hijo de sus entrañas, él no olvidará jamás a Israel *49,15*.
 
-La [[sabiduria|sabiduría]], que es la [[palabra_de_dios|palabra]] de Dios encargada de realizar sus designios *Sab 18,14s* saliendo de su misma boca *Eclo 24,3*, se dirige a sus hijos como una madre *Prov 8-9*, recomendándoles sus instrucciones, alimentándolos con el [[pan|pan]] de la inteligencia, dándoles a beber su [[agua|agua]] *Eclo 15,2s*. Sus hijos le harán justicia *Lc 7,35*, reconociendo en Jesús al que desempeña su papel: «Quien viniere a mí no tendrá jamás hambre, quien creyere en mí no tendrá jamás sed» *Jn 6,35* *8,47*.
+La [[sabiduría|sabiduría]], que es la [[palabra_de_dios|palabra]] de Dios encargada de realizar sus designios *Sab 18,14s* saliendo de su misma boca *Eclo 24,3*, se dirige a sus hijos como una madre *Prov 8-9*, recomendándoles sus instrucciones, alimentándolos con el [[pan|pan]] de la inteligencia, dándoles a beber su [[agua|agua]] *Eclo 15,2s*. Sus hijos le harán justicia *Lc 7,35*, reconociendo en Jesús al que desempeña su papel: «Quien viniere a mí no tendrá jamás hambre, quien creyere en mí no tendrá jamás sed» *Jn 6,35* *8,47*.
 
 ### La madre del Mesías
 
@@ -80,7 +80,7 @@ El protoevangelio anuncia ya que es madre la mujer cuya posteridad aplastará la
 
 ### La madre de los pueblos
 
-[[jerusalen|Jerusalén]] es la ciudad madre por excelencia *2Sa 20,19*, de la que los habitantes obtienen alimento y protección. De ella sobre todo derivan la [[justicia|justicia]] y el [[conocer|conocimiento]] de Yahveh. Como Rebeca, a quien se desea se multiplique en miles de miríadas *Gen 24,60*, vendrá a ser madre de todos los [[pueblo|pueblos]]: «A Sión dicen todos: 'Madre', pues todos han nacido en ella» *Sal 87,5*, ya sean de Israel o de las [[naciones|naciones]]. Después del castigo que la ha alejado de su esposo la vemos de nuevo colmada: «Lanza gritos de alegría, estéril, la sin hijos..., porque los hijos de la abandonada son más numerosos que los hijos de la que tiene esposo» *Is 54,1* *Gal 4,22-30*. Hacia ella se lanzan «como palomas hacia el palomar» todos los pueblos de la tierra *Is 2,1-5* *60,1-8*.
+[[jerusalén|Jerusalén]] es la ciudad madre por excelencia *2Sa 20,19*, de la que los habitantes obtienen alimento y protección. De ella sobre todo derivan la [[justicia|justicia]] y el [[conocer|conocimiento]] de Yahveh. Como Rebeca, a quien se desea se multiplique en miles de miríadas *Gen 24,60*, vendrá a ser madre de todos los [[pueblo|pueblos]]: «A Sión dicen todos: 'Madre', pues todos han nacido en ella» *Sal 87,5*, ya sean de Israel o de las [[naciones|naciones]]. Después del castigo que la ha alejado de su esposo la vemos de nuevo colmada: «Lanza gritos de alegría, estéril, la sin hijos..., porque los hijos de la abandonada son más numerosos que los hijos de la que tiene esposo» *Is 54,1* *Gal 4,22-30*. Hacia ella se lanzan «como palomas hacia el palomar» todos los pueblos de la tierra *Is 2,1-5* *60,1-8*.
 
 Pero Jerusalén, replegándose sobre sí misma, desechando a Cristo, fue infiel a esta maternidad espiritual *Lc 13,34 p* *19,41-44*, y sus hijos podrán volverse contra ella para reprochárselo *Os 2,4*. Por eso será suplantada por otra Jerusalén, la de lo alto, que es verdaderamente nuestra madre *Gal 4,26*, que desciende del cielo, de junto a Dios *Ap 21,2*. Esta ciudad nueva es la Iglesia, que engendra a sus hijos para la vida de hijos de Dios; es también cada comunidad cristiana en particular *2Jn 1*. Está destinada a dar a Cristo la [[plenitud|plenitud]] de su [[cuerpo|cuerpo]] y a reunir a todos los pueblos en el [[israel|Israel]] espiritual.
 

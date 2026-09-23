@@ -45,7 +45,7 @@ La Biblia no contiene un tratado sobre Dios, sino que enseña a escucharle y res
 
 ## Relaciones doctrinales
 
-El conocimiento de [[dios]] se relaciona con la [[trinidad]], la [[creación]], la [[providencia_divina]], la [[revelación]] y la [[teología_natural]]. Las Personas divinas se distinguen como [[persona_del_padre]], [[persona_del_hijo]] y [[persona_del_espíritu_santo]].
+El conocimiento de **dios** se relaciona con la [[trinidad]], la [[creación]], la [[providencia_divina]], la [[revelación]] y la [[teología_natural]]. Las Personas divinas se distinguen como [[persona_del_padre]], [[persona_del_hijo]] y [[persona_del_espíritu_santo]].
 
 ## Analizado en contexto cultural
 

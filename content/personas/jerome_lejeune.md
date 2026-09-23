@@ -34,6 +34,20 @@ Bradford, padre de un hijo con síndrome de Down, conecta el legado de Lejeune c
 
 [[dignidad_humana]], [[educación_católica]], [[cultura_de_la_vida]], [[aborto]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VIII: de los niños con trisomía 21,
+Lejeune comprendió que «no su humanidad, que en ciertos aspectos
+resultaba incluso más delicada (en la memoria, en la afectividad, en la
+sociabilidad, en la ausencia de agresividad y sobre todo en la capacidad,
+sumamente humana, de *admiración*)». Al descubrir que su hallazgo se
+desvirtuaba con leyes de aborto eugenésico, luchó «contra lo que
+consideraba "la negación de la medicina, y de toda fraternidad
+biológica"». Primer presidente de la Pontificia Academia para la Vida:
+«El papa ha hecho un acto de esperanza nombrando a un moribundo: moriré
+en acto de servicio». Su resumen del Evangelio: Mt 25,40.
+
 ## Referencias
 
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Bradford, 16_feature_bradford.md).
+- A. M. Sicari, *Así mueren los santos*, cap. VIII (Rialp, 2020).

@@ -17,8 +17,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[don]] — la bendición como don que afecta a la vida y su misterio
 - [[palabra_de_dios]] — la bendición como palabra y don
 - [[rodilla]] — la raíz *brk* emparentada quizá con la rodilla
-- [[adoracion]] — la raíz *brk* emparentada con la adoración
-- [[reconciliacion]] — los presentes que sellan una unión o reconciliación
+- [[adoración]] — la raíz *brk* emparentada con la adoración
+- [[reconciliación]] — los presentes que sellan una unión o reconciliación
 - [[paz]] — la bendición asociada a la paz
 - [[riquezas]] — la bendición como plenitud de riqueza
 - [[vida]] — la bendición como riqueza de la vida
@@ -27,22 +27,22 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[cielo]] — las bendiciones de cielo arriba
 - [[gracia]] — la sensibilidad a la generosidad de Dios prepara para la gracia
 - [[padres_y_padre]] — el padre como fuente de la bendición
-- [[maldicion]] — la maldición del padre como temerosa
+- [[maldición]] — la maldición del padre como temerosa
 - [[pobres]] — el débil que bendice al poderoso
 - [[bienaventuranza]] — la fórmula «¡Bendito sea N...!» como la más fuerte
-- [[eleccion]] — el ser bendito como elegido de Dios
-- [[revelacion]] — el ser bendito como revelación de Dios
+- [[elección]] — el ser bendito como elegido de Dios
+- [[revelación]] — el ser bendito como revelación de Dios
 - [[santo]] — la diferencia entre santo y bendito
-- [[confesion]] — la bendición como confesión pública
-- [[accion_de_gracias]] — la bendición como acción de gracias
+- [[confesión]] — la bendición como confesión pública
+- [[acción_de_gracias]] — la bendición como acción de gracias
 - [[designio_de_dios]] — el designio de Dios de bendecir a todas las naciones
 - [[naciones]] — la promesa de bendición a todas las naciones
 - [[alianza]] — la bendición y el mandamiento como principio de la alianza
 - [[ley]] — la ley como medio para hacer vivir a un pueblo bendito
 - [[profeta]] — los profetas que apenas conocen el lenguaje de la bendición
-- [[oracion]] — la bendición como tema mayor de la oración de Israel
-- [[eucaristia]] — el cáliz de bendición como rito de la nueva alianza
-- [[espiritu]] — la bendición de Dios por excelencia es su Espíritu Santo
+- [[oración]] — la bendición como tema mayor de la oración de Israel
+- [[eucaristía]] — el cáliz de bendición como rito de la nueva alianza
+- [[espíritu]] — la bendición de Dios por excelencia es su Espíritu Santo
 - [[fruto]] — los frutos del Espíritu como grandes temas de la bendición
 
 ## Contenido

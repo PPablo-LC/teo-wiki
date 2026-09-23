@@ -37,7 +37,7 @@ Eugenio IV fijó la doctrina católica sobre el *Filioque* en forma definitiva, 
 
 ## Ver también
 
-[[concilio_de_florencia]], [[martín_v]], [[pío_ii]], [[primado_del_romano_pontífice]], [[filioque]], [[extra_ecclesiam_nulla_salus]]
+[[concilio_de_florencia]], [[martin_v]], [[pio_ii]], [[primado_del_romano_pontífice]], [[filioque]], [[extra_ecclesiam_nulla_salus]]
 
 ## Referencias
 

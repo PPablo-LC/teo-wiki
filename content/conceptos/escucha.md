@@ -27,7 +27,7 @@ El Capítulo General de 2026 destaca la escucha como actitud esencial del discer
 
 ### Según Vos estis lux mundi (VELM)
 
-VELM (2023) reconoce el derecho de las personas que afirman haber sido víctimas de abuso a ser tratadas con dignidad y respeto. El art. 5 §1 establece que las autoridades eclesiásticas deben ofrecerles: «acogida, [[escucha]] y acompañamiento, incluso mediante servicios específicos» (art. 5 §1 a); atención espiritual (art. 5 §1 b); asistencia médica, terapéutica y psicológica (art. 5 §1 c). La escucha de la víctima no es facultativa sino obligación positiva de la autoridad eclesiástica.
+VELM (2023) reconoce el derecho de las personas que afirman haber sido víctimas de abuso a ser tratadas con dignidad y respeto. El art. 5 §1 establece que las autoridades eclesiásticas deben ofrecerles: «acogida, **escucha** y acompañamiento, incluso mediante servicios específicos» (art. 5 §1 a); atención espiritual (art. 5 §1 b); asistencia médica, terapéutica y psicológica (art. 5 §1 c). La escucha de la víctima no es facultativa sino obligación positiva de la autoridad eclesiástica.
 
 Además, el art. 4 §3 dispone que a la persona que afirma haber sido ofendida no se le puede imponer obligación de guardar silencio sobre el contenido del informe. El art. 18 §3 prevé que el Metropolitano, a solicitud del ofendido y cumpliendo instrucciones del Dicasterio, informe del resultado de la investigación a la persona ofendida.
 

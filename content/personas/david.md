@@ -35,11 +35,11 @@ David responde a su vocación con profunda adhesión a Dios. Es humilde servidor
 
 ## Relaciones doctrinales
 
-[[rey]] — [[mesias]] — [[alianza]] — [[promesas]] — [[unción]] — [[siervo_de_yahvé]] — [[jerusalen]]
+[[rey]] — [[mesías]] — [[alianza]] — [[promesas]] — [[unción]] — [[siervo_de_yahvé]] — [[jerusalén]]
 
 ## Ver también
 
-[[victoria]], [[edificar]], [[fidelidad]], [[senor]], [[presencia_de_dios]]
+[[victoria]], [[edificar]], [[fidelidad]], [[señor]], [[presencia_de_dios]]
 
 ## Referencias
 

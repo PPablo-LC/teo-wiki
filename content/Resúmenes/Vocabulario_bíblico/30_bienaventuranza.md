@@ -18,16 +18,16 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[paz]] — la paz como bienaventuranza
 - [[gozo]] — el gozo como bienaventuranza
 - [[reposo]] — el reposo como bienaventuranza
-- [[bendicion]] — la bendición como bienaventuranza
-- [[salvacion]] — la salvación como bienaventuranza
-- [[maldicion]] — la maldición como desgracia
+- [[bendición]] — la bendición como bienaventuranza
+- [[salvación]] — la salvación como bienaventuranza
+- [[maldición]] — la maldición como desgracia
 - [[gloria]] — la bienaventuranza como participación de la gloria de Dios
 - [[gracia]] — la bienaventuranza como derivo de la gracia divina
 - [[camino]] — los caminos de la verdadera felicidad
-- [[retribucion]] — la retribución como horizonte de la bienaventuranza
+- [[retribución]] — la retribución como horizonte de la bienaventuranza
 - [[confianza]] — la confianza sin límites en Dios
 - [[deseo]] — la depuración lenta del deseo hacia Dios
-- [[justificacion]] — el justo dichoso esperando la dimensión de la vida eterna
+- [[justificación]] — el justo dichoso esperando la dimensión de la vida eterna
 - [[pobres]] — los pobres de Yahveh proclamando el bien absoluto en la confianza en Dios
 - [[cumplir]] — Jesús como el que cumple y realiza la aspiración a la felicidad
 - [[reino_de_dios]] — el reino de los cielos presente en Jesús
@@ -37,7 +37,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[mansedumbre]] — la mansedumbre como bienaventuranza
 - [[pureza]] — la pureza como bienaventuranza
 - [[misericordia]] — la misericordia como bienaventuranza
-- [[persecucion]] — la persecución por amor de Cristo como bienaventuranza
+- [[persecución]] — la persecución por amor de Cristo como bienaventuranza
 - [[testimonio]] — el testimonio como camino de bienaventuranza
 - [[ver]] — creer sin haber visto como bienaventuranza
 

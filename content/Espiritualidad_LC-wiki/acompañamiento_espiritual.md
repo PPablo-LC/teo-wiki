@@ -65,7 +65,7 @@ El **acompañamiento espiritual** es la ayuda personalizada que un cristiano (sa
 - [[p_arumí]]
 - [[p_escribano]]
 - [[cofunsadores_legionarios]]
-- [[celo_apostólico]]
+- [[celo_apostolico]]
 - [[regnum_christi]]
 
 ## Referencias

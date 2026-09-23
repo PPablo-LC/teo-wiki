@@ -54,7 +54,7 @@ Los **formadores** en el Regnum Christi son miembros (legionarios, consagrados, 
 - [[acompañamiento_espiritual]]
 - [[dirección_espiritual]]
 - [[formación_integral]]
-- [[celo_apostólico]]
+- [[celo_apostolico]]
 - [[regnum_christi]]
 - [[sección_rc]]
 - [[director_de_sección]]

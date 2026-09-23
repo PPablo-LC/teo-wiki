@@ -35,6 +35,17 @@ Su obra se inscribe en la reforma católica posterior al Concilio de Trento. La 
 
 [[concilio_de_trento]], [[reforma_católica]], [[seminario]], [[catequesis]], [[reforma_protestante]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: en la carestía de 1570 y la peste de
+1576 «se prodigó para organizar las ayudas… entregando toda la tela del
+palacio arzobispal para confeccionar ropa para los enfermos; hizo vender
+toda la plata y mandó al lazareto incluso su cama». Vivía en continua
+penitencia; a quien le reprendía respondía: «**La candela para dar luz a
+los demás debe consumirse… Eso debemos hacer nosotros**». Murió a los
+46 años contemplando las escenas de la Pasión que había hecho traer junto
+a su lecho: «Mira, Señor, estoy llegando…».
+
 ## Referencias
 
 - HI, Archivo 32

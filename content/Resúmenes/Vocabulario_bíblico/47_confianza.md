@@ -21,13 +21,13 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[sentido]] — renunciar a la confianza en el propio sentir
 - [[justicia]] — no confiar en la propia justicia
 - [[humildad]] — la confianza humilde
-- [[oracion]] — la oración de los pobres
+- [[oración]] — la oración de los pobres
 - [[pobres]] — la oración de los pobres
 - [[gracia]] — la gracia que ciñe al que confía
-- [[salvacion]] — la salvación por la oración confiada
+- [[salvación]] — la salvación por la oración confiada
 - [[confianza]] — la confianza fundada en la de Dios
 - [[fidelidad]] — la confianza condición de la fidelidad
-- [[parresia]] — la libertad para anunciar la palabra
+- [[parresía]] — la libertad para anunciar la palabra
 - [[amor]] — el amor perfecto destierra el temor
 - [[juicio]] — la seguridad el día del juicio
 - [[gozo]] — el gozo que nadie podrá quitar

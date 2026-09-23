@@ -31,7 +31,7 @@ La familia cristiana, fundada en el [[matrimonio]] sacramento, es reconocida com
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium menciona la [[iglesia_doméstica]] en LG §11 al tratar el [[matrimonio]] y la familia cristiana. Del consorcio matrimonial cristiano «procede la familia, en la que nacen nuevos ciudadanos de la sociedad humana, quienes, por la gracia del Espíritu Santo, quedan constituidos en el bautismo hijos de Dios, que perpetuarán a través del tiempo el Pueblo de Dios». Esta familia es descrita como «una especie de Iglesia doméstica» en la que los padres deben ser para sus hijos «los primeros predicadores de la fe, mediante la palabra y el ejemplo» y fomentar la vocación propia de cada uno, especialmente la vocación sagrada [ConcVatII, LG §11].
+Lumen Gentium menciona la **iglesia doméstica** en LG §11 al tratar el [[matrimonio]] y la familia cristiana. Del consorcio matrimonial cristiano «procede la familia, en la que nacen nuevos ciudadanos de la sociedad humana, quienes, por la gracia del Espíritu Santo, quedan constituidos en el bautismo hijos de Dios, que perpetuarán a través del tiempo el Pueblo de Dios». Esta familia es descrita como «una especie de Iglesia doméstica» en la que los padres deben ser para sus hijos «los primeros predicadores de la fe, mediante la palabra y el ejemplo» y fomentar la vocación propia de cada uno, especialmente la vocación sagrada [ConcVatII, LG §11].
 
 Los esposos y padres cristianos, siguiendo su propio camino mediante la fidelidad en el amor, deben sostenerse mutuamente en la gracia e inculcar la doctrina cristiana a los hijos, contribuyendo así al establecimiento de la fraternidad en la caridad [ConcVatII, LG §41].
 
@@ -45,7 +45,7 @@ La familia cristiana es llamada a santificarse y a santificar a la comunidad ecl
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
-Tóth presenta a los padres como «ministros de la [[gracia]] sacramental» en la [[iglesia_doméstica]]. El [[sacerdocio_bautismal]] implica el derecho y deber de transmitir la [[fe]]. La educación preescolar es responsabilidad primaria de los padres, no de la escuela. La veracidad, obediencia y pudor se forman en el hogar desde los primeros años. El hogar cristiano es la primera escuela de virtudes [JvC-Rel, Archivos 05, 23].
+Tóth presenta a los padres como «ministros de la [[gracia]] sacramental» en la **iglesia doméstica**. El [[sacerdocio_bautismal]] implica el derecho y deber de transmitir la [[fe]]. La educación preescolar es responsabilidad primaria de los padres, no de la escuela. La veracidad, obediencia y pudor se forman en el hogar desde los primeros años. El hogar cristiano es la primera escuela de virtudes [JvC-Rel, Archivos 05, 23].
 
 ### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
 
@@ -73,7 +73,7 @@ Haley Stewart, en "The Hope of the Domestic Church" (§11), presenta la iglesia 
 
 ### Según EAC-18 — Word on Fire Institute
 
-En el bloque «Emmaus», el testimonio de la familia Jumbam en Camerún muestra a la [[iglesia_doméstica]] como el primer lugar de la conversión y de la transmisión de la fe: el hogar donde la oración, la Palabra y la fraternidad hacen de cada miembro un discípulo misionero [EAC-18, 09_spotlight_stories.md]. La familia emerge así como ámbito privilegiado de la nueva evangelización.
+En el bloque «Emmaus», el testimonio de la familia Jumbam en Camerún muestra a la **iglesia doméstica** como el primer lugar de la conversión y de la transmisión de la fe: el hogar donde la oración, la Palabra y la fraternidad hacen de cada miembro un discípulo misionero [EAC-18, 09_spotlight_stories.md]. La familia emerge así como ámbito privilegiado de la nueva evangelización.
 
 Francis Beckwith, desde su experiencia de [[reversión]], evoca el papel decisivo del hogar y de las amistades fieles en el retorno a la fe: la gracia se abre camino a través de las mediaciones humanas —la familia, los amigos, la comunidad— hasta traer de regreso al alejado [EAC-18, 15_feature_beckwith.md].
 

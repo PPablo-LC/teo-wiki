@@ -15,7 +15,7 @@ tags: ["resumen", "virginidad_perpetua", "dogmas_marianos", "isaias_7_14", "jer�
 - [[virginidad_perpetua]] — Dogma que declara a María virgen antes, durante y después del parto.
 - [[dogmas_marianos]] — Cuatro dogmas: inmaculada concepción, maternidad divina, asunción, virginidad perpetua.
 - [[isaias_7_14]] — «La virgen concebirá y dará a luz un hijo» (signo de Emanuel).
-- [[jerónimo]] — Padre de la Iglesia; refutó a Helvidio defendiendo la virginidad post-partum.
+- [[san_jerónimo]] — Padre de la Iglesia; refutó a Helvidio defendiendo la virginidad post-partum.
 - [[helvidio]] — Hereje del s. IV que negó la virginidad perpetua.
 - [[tipología]] — La virginidad de María como signo de su consagración interior a Dios.
 

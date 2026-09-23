@@ -27,7 +27,7 @@ En *Peripheries* (23_peripheries_paone.md), Jason C. Paone menciona a Daniélou 
 
 ## Relaciones doctrinales
 
-[[ressourcement]], [[henri_de_lubac]], [[yves_congar]], [[marie_dominique_chenu]], [[patrística]], [[padres_de_la_iglesia]], [[concílio_vaticano_ii]], [[exégesis_patrística]]
+[[ressourcement]], [[henri_de_lubac]], [[yves_congar]], [[marie_dominique_chenu]], [[patrística]], [[padres_de_la_iglesia]], [[concilio_vaticano_ii]], [[exégesis_patrística]]
 
 ## Ver también
 

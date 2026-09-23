@@ -17,11 +17,11 @@ Walker Percy (Birmingham, 1916 – Covington, Louisiana, 1990) fue médico y nov
 
 ## Relevancia teológica
 
-Percy diagnostica el «malaise» americano: pese al progreso científico, «el hombre no tiene la más remota idea de quién es o qué está haciendo». En *Love in the Ruins*, su protagonista Dr. Tom More — psiquiatra, «mal católico», descendiente ficticio de [[santo_tomás_moro|Tomás Moro]] — inventa un «lapsómetro ontológico» que mide las «perturbaciones del alma»: el hombre occidental oscila entre *angelismo* (abstracción del yo respecto de sí mismo) y *bestialismo* (pérdida del yo en los impulsos corporales), herida abierta desde que Descartes separó cuerpo y mente. Percy ve una ambivalencia curiosa ante la catástrofe: «la perspectiva de la catástrofe tiene sus atracciones»; el deseo secreto de apocalipsis revela la alienación de quien anhela que algo pase para sentirse vivo. Pero su advertencia no es sobre el fin de los tiempos sino «sobre nuestros tiempos»: la salida es encarnacional — confesión, Misa, Salve Regina «bailando como David ante el arca» — y la esperanza de que alguien entre a su consultorio «como fantasma o bestia y salga como hombre». Su regla de novelista: «El profeta aspira a acertar; el novelista profetiza para equivocarse».
+Percy diagnostica el «malaise» americano: pese al progreso científico, «el hombre no tiene la más remota idea de quién es o qué está haciendo». En *Love in the Ruins*, su protagonista Dr. Tom More — psiquiatra, «mal católico», descendiente ficticio de [[tomás_moro|Tomás Moro]] — inventa un «lapsómetro ontológico» que mide las «perturbaciones del alma»: el hombre occidental oscila entre *angelismo* (abstracción del yo respecto de sí mismo) y *bestialismo* (pérdida del yo en los impulsos corporales), herida abierta desde que Descartes separó cuerpo y mente. Percy ve una ambivalencia curiosa ante la catástrofe: «la perspectiva de la catástrofe tiene sus atracciones»; el deseo secreto de apocalipsis revela la alienación de quien anhela que algo pase para sentirse vivo. Pero su advertencia no es sobre el fin de los tiempos sino «sobre nuestros tiempos»: la salida es encarnacional — confesión, Misa, Salve Regina «bailando como David ante el arca» — y la esperanza de que alguien entre a su consultorio «como fantasma o bestia y salga como hombre». Su regla de novelista: «El profeta aspira a acertar; el novelista profetiza para equivocarse».
 
 ## Relaciones doctrinales
 
-[[antropología_teológica]], [[dualismo_cuerpo_alma]], [[esperanza_cristiana]], [[apocalipsis]], [[santo_tomás_moro]], [[descartes]]
+[[antropología_teológica]], [[dualismo_cuerpo_alma]], [[esperanza_cristiana]], [[apocalipsis]], [[tomás_moro]], [[descartes]]
 
 ## Ver también
 

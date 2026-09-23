@@ -42,7 +42,7 @@ Versión de Hilario de Poitiers: misma fórmula con la adición de la traducció
 
 **D-56** Can. 19: Sobre los paulianistas: sean rebautizados de todo punto; si algunos en el tiempo pasado pertenecieron al clero, después de rebautizados, impónganseles las manos.
 
-**D-57** Can. 13: Del viático de los moribundos: que si alguno va a salir de este mundo, no se le prive del último y más necesario viático. Si pide participar de la [[Eucaristía]], el [[obispo]], después de examen, debe dársela.
+**D-57** Can. 13: Del viático de los moribundos: que si alguno va a salir de este mundo, no se le prive del último y más necesario viático. Si pide participar de la [[eucaristía]], el [[obispo]], después de examen, debe dársela.
 
 ## Secciones incluidas
 

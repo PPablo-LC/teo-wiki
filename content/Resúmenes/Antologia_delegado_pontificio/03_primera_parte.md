@@ -13,16 +13,16 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 ## Conceptos básicos referenciados
 
 - [[delegado_pontificio]] — card. Velasio De Paolis, C.S.
-- [[visita_apostolica]] — proceso de inspección por la Santa Sede
+- [[visita_apostólica]] — proceso de inspección por la Santa Sede
 - [[marcial_maciel]] — fundador de la Legión de Cristo
 - [[constituciones_de_la_legion_de_cristo]] — texto fundamental de la Congregación
 - [[carisma_legionario]] — don del Espíritu a preservar y purificar
-- [[comision_central_para_la_revision_de_las_constituciones]] — organismo para la revisión constitucional
-- [[comision_de_acercamiento]] — para atender a personas afectadas por los hechos del fundador
+- [[comisión_central_para_la_revisión_de_las_constituciones]] — organismo para la revisión constitucional
+- [[comisión_de_acercamiento]] — para atender a personas afectadas por los hechos del fundador
 - [[comision_para_estudiar_los_asuntos_economicos]] — revisión de la gestión económica
 - [[regnum_christi]] — Movimiento vinculado a la Legión de Cristo
 - [[vida_consagrada]] — estado de los miembros consagrados del RC
-- [[consejos_evangelicos]] — pobreza, castidad y obediencia
+- [[consejos_evangélicos]] — pobreza, castidad y obediencia
 - [[obediencia]] — voto que vincula a los religiosos con la autoridad
 - [[libertad_de_conciencia]] — derecho de los religiosos a la protección de su intimidad
 - [[foro_interno]] — ámbito de la confesión y la dirección espiritual
@@ -39,7 +39,7 @@ La primera parte reúne los documentos oficiales de la Santa Sede, del delegado 
 
 ### Carta del Card. Bertone (10 de marzo de 2009)
 
-El Secretario de Estado transmite la solidaridad y plegaria de Benedicto XVI a los Legionarios en momentos delicados y anuncia la decisión del Papa de llevar a cabo una [[visita_apostolica]] por medio de un equipo de Prelados.
+El Secretario de Estado transmite la solidaridad y plegaria de Benedicto XVI a los Legionarios en momentos delicados y anuncia la decisión del Papa de llevar a cabo una [[visita_apostólica]] por medio de un equipo de Prelados.
 
 ### Comunicado de la Santa Sede sobre la Visita Apostólica (1 de mayo de 2010)
 
@@ -109,7 +109,7 @@ Se establece la comisión con representantes de legionarios, consagrados y consa
 
 | Sección | Contenido |
 |---------|-----------|
-| Carta Bertone (10 marzo 2009) | Anuncio de la [[visita_apostolica]] y solidaridad del Papa |
+| Carta Bertone (10 marzo 2009) | Anuncio de la [[visita_apostólica]] y solidaridad del Papa |
 | Comunicado (1 mayo 2010) | Conclusiones de la Visita Apostólica |
 | Nombramiento delegado (16 junio 2010) | Carta de Benedicto XVI |
 | Decreto modalidades (9 julio 2010) | Precisiones sobre la autoridad del delegado |

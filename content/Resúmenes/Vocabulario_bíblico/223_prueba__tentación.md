@@ -25,7 +25,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fidelidad]] — la prueba del amor
 - [[fuego]] — la imagen del fuego y del fundidor
 - [[exilio]] — el exilio que sanciona la idolatría
-- [[idolos|idolatría]] — la idolatría que es un adulterio
+- [[ídolos|idolatría]] — la idolatría que es un adulterio
 - [[resto]] — el pequeño resto que sale probado
 - [[cautividad]] — la prueba del pequeño resto desde el exilio
 - [[gracia]] — por pura gracia
@@ -73,7 +73,7 @@ La experiencia del desierto ayuda a dar su valor teológico a la expresión «te
 
 #### 2. Dios concluye una alianza con el aglomerado del que ha sacado un pueblo. En esta segunda etapa, la prueba versa sobre la fidelidad a la alianza. Se la puede llamar la prueba del amor
 
-El pueblo ha escogido, sí, servir a su Dios *Jos 24,18*; pero su corazón es falso; la prueba obliga al amor a declararse y a probarse: purifica el corazón. Es una obra de grandes alientos, en la que Dios pone la mano (imagen del [[fuego]] y del fundidor: *Is 1,25s*). Lentamente se elaboran los códigos (alianza, santidad, sacerdotal), en los que se oye el llamamiento a la santidad que Dios dirige a su pueblo (Lev, passim). Un nuevo juicio corresponde a esta nueva prueba; el [[exilio]], el retorno al desierto sanciona la [[idolos|idolatría]], que es un adulterio *Os 2*.
+El pueblo ha escogido, sí, servir a su Dios *Jos 24,18*; pero su corazón es falso; la prueba obliga al amor a declararse y a probarse: purifica el corazón. Es una obra de grandes alientos, en la que Dios pone la mano (imagen del [[fuego]] y del fundidor: *Is 1,25s*). Lentamente se elaboran los códigos (alianza, santidad, sacerdotal), en los que se oye el llamamiento a la santidad que Dios dirige a su pueblo (Lev, passim). Un nuevo juicio corresponde a esta nueva prueba; el [[exilio]], el retorno al desierto sanciona la [[ídolos|idolatría]], que es un adulterio *Os 2*.
 
 #### 3. Sólo un pequeño resto saldrá probado de la cautividad
 

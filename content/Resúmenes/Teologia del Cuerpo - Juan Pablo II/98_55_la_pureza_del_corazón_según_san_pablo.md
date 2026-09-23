@@ -19,7 +19,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[valoración]] — el hilo de valuación en la descripción realista
 - [[dignidad]] — la dignidad debida a la verdad de la creación
 - [[armonía]] — la armonía objetiva y subjetiva de los miembros
-- [[pureza_del_corazón]] — la «pureza del corazón» que armoniza
+- [[pureza_del_corazon]] — la «pureza del corazón» que armoniza
 - [[communio_personarum]] — la unión personal de varón y mujer
 - [[inocencia_originaria]] — la experiencia de los prenunciadores sin vergüena
 - [[cuerpo]] — los miembros menos decentes, más débiles, más viles

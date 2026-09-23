@@ -80,7 +80,7 @@ El número combina historia de la relación Iglesia-cine (desde León XIII hasta
 
 ## Ver también
 
-[[cine]], [[evangelización]], [[belleza]], [[via_pulchritudinis]], [[ley_natural]], [[arte]], [[conciencia_moral]], [[dignidad_humana]], [[conversión]], [[contemplación]], [[theo-drama]], [[tomás_moro]], [[san_genesio]], [[elizabeth_anscombe]], [[terrence_malick]]
+[[cine]], [[evangelización]], [[belleza]], [[vía_pulchritudinis]], [[ley_natural]], [[arte]], [[conciencia_moral]], [[dignidad_humana]], [[conversión]], [[contemplación]], [[theo-drama]], [[tomás_moro]], [[san_genesio]], [[elizabeth_anscombe]], [[terrence_malick]]
 
 ## Referencias
 

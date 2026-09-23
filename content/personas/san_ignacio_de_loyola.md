@@ -44,6 +44,17 @@ Citado en el Índice Onomástico. Aparece en el Resumen histórico-bibliográfic
 ## Ver también
 [[santa_teresa_de_jesús]], [[san_francisco_de_sales]], [[conversión]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: en su *Autobiografía* reveló que,
+«pensando en la muerte experimentaba una tal alegría y un consuelo
+espiritual tan grande… que se derretía en lágrimas. Este estado se hizo
+de tal modo continuo que muchas veces evitaba pensar en la muerte para
+no tener tanta consolación». Murió en 1556 «con tanta sencillez y casi en
+soledad, como una persona común, sin esos gestos que se suelen esperar de
+un fundador. Pero cuando en Roma corrió la voz de su final, todos
+exclamaban: "¡Ha muerto un santo!"».
+
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.8, 19]
 - [TPCr, Índice Onomástico]

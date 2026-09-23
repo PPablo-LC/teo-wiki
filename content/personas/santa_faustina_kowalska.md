@@ -69,6 +69,24 @@ Santa Faustina se relaciona con la [[misericordia_divina]], la [[misericordia]],
 
 [[misericordia_divina]], [[misericordia]], [[dives_in_misericordia]], [[conversión]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. II, la cuenta entre las «humildes
+enamoradas»: rechazada por varios institutos «por no tener dote ni
+instrucción», fue acogida por las Hermanas de Nuestra Señora de la
+Misericordia «como colaboradora en las tareas domésticas. Durante trece
+años fue cocinera, jardinera, portera en los conventos de Cracovia y
+Vilna, y solo enriquecida por su inmenso amor por Cristo». Jesús la
+llamaba y trataba como «una secretaria» que debía transcribir y comunicar
+todo. Cuando enfermó a los treinta y tres años, hubo quien le hizo pesar
+su evidente «inutilidad»: fue así como pudo experimentar «el encuentro
+entre la miseria de las criaturas y la ternura del Creador, convirtiéndose
+también ella en toda misericordia». Una joven hermana la describió: «**Lo
+amaba tan tiernamente como los esposos, o mejor, como los novios se
+quieren en este mundo**… Pensaba solo en Él»: «precisamente es esa la
+misión eclesial de las santas *enamoradas*: experimentar y desvelar el
+secreto divino escondido en cualquier otro amor».
+
 ## Referencias
 
 - [MI, cap. 2, 10]

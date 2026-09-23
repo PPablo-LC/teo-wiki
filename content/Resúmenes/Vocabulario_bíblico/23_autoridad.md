@@ -16,19 +16,19 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[ley]] — la ley que modera el ejercicio de la autoridad
 - [[esclavo]] — los derechos de los esclavos precisados por la ley
-- [[educacion]] — la autoridad del padre con por fin la buena educación
+- [[educación]] — la autoridad del padre con por fin la buena educación
 - [[poder]] — el poder que embriaga a los que mandan
 - [[bestia]] — las bestias satánicas como símbolo de la autoridad pervertida
 - [[juicio]] — el juicio divino sobre la autoridad pervertida
-- [[salvacion]] — el designio de salvación que da nuevo sentido a la autoridad
-- [[mision]] — la misión de los enviados religiosos
-- [[moises]] — Moisés como depositario del poder espiritual
+- [[salvación]] — el designio de salvación que da nuevo sentido a la autoridad
+- [[misión]] — la misión de los enviados religiosos
+- [[moisés]] — Moisés como depositario del poder espiritual
 - [[profeta]] — los profetas como depositarios del poder espiritual
 - [[sacerdocio]] — los sacerdotes como depositarios del poder espiritual
 - [[rey]] — los reyes en la autoridad del pueblo de Dios
 - [[venganza]] — el llamamiento a la venganza divina contra el imperio pagano
 - [[servir]] — Jesús que ha venido para servir
-- [[discipulo]] — los discípulos como depositarios de la autoridad de Jesús
+- [[discípulo]] — los discípulos como depositarios de la autoridad de Jesús
 - [[satanás]] — el poder que Jesús negó a tener de Satán
 - [[hijo]] — el Hijo del hombre, base de la autoridad de Jesús
 - [[rodilla]] — toda rodilla que se doblará ante Cristo

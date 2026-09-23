@@ -19,7 +19,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[esclavo]] — la liberación de la servidumbre
 - [[liberación_y_libertad|liberación]] — la liberación del pecado
 - [[exilio]] — la liberación del exilio
-- [[Espíritu]] — la comunicación del espíritu de Yahveh
+- [[espíritu]] — la comunicación del espíritu de Yahveh
 - [[ley]] — la ley como don
 - [[figura]] — la figura y su cumplimiento
 - [[cumplir]] — el cumplimiento de la profecía
@@ -39,7 +39,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[carne]] — la carne de Cristo
 - [[obediencia]] — la obediencia y el amor
 - [[mundo]] — el amor hasta el fin del mundo
-- [[Evangelio]] — el Evangelio de la reconciliación
+- [[evangelio]] — el Evangelio de la reconciliación
 - [[salvación]] — la salvación
 
 ## Contenido
@@ -56,7 +56,7 @@ Así la noción de redención es esencialmente positiva: en ella no se afirma me
 
 #### La redención mesiánica
 
-Los profetas recurren intencionadamente a las mismas fórmulas a propósito de la liberación del [[exilio]], y entonces el «redentor» viene a ser uno de los títulos preferidos por Yahveh, particularmente en el segundo Isaías. A nadie sorprenderá que el objeto de la grande esperanza mesiánica se exprese todavía en términos de «redención»: «En Yahveh está la gracia, en él la abundancia del rescate, Él rescatará a Israel de todas sus faltas» *Sal 130,7s*. Más que todos Ezequiel subraya la absoluta gratuidad de tal «redención» otorgada a los pecadores *Ez 16,60-63* *36,21ss*; y usando los términos del oráculo de Jeremías *Jer 31,33* precisa la naturaleza de esta «nueva alianza»: no ya el don de una [[ley]], por perfecta que sea, sino la comunicación del propio [[Espíritu]] de Yahveh *Ez 36,27*.
+Los profetas recurren intencionadamente a las mismas fórmulas a propósito de la liberación del [[exilio]], y entonces el «redentor» viene a ser uno de los títulos preferidos por Yahveh, particularmente en el segundo Isaías. A nadie sorprenderá que el objeto de la grande esperanza mesiánica se exprese todavía en términos de «redención»: «En Yahveh está la gracia, en él la abundancia del rescate, Él rescatará a Israel de todas sus faltas» *Sal 130,7s*. Más que todos Ezequiel subraya la absoluta gratuidad de tal «redención» otorgada a los pecadores *Ez 16,60-63* *36,21ss*; y usando los términos del oráculo de Jeremías *Jer 31,33* precisa la naturaleza de esta «nueva alianza»: no ya el don de una [[ley]], por perfecta que sea, sino la comunicación del propio [[espíritu]] de Yahveh *Ez 36,27*.
 
 ### II. La redención en el NT
 
@@ -88,7 +88,7 @@ Así Lucas pone cuidado en situar bajo el signo de la ascensión *Lc 9,51* todo 
 
 #### Misterio de amor
 
-**San Juan.** Es que para Juan el misterio redentor es esencialmente un misterio de amor y por consiguiente de vida divina, puesto que «Dios es amor» *1Jn 4,8*. Amor del Padre, ciertamente, que «amó al mundo hasta darle a su Hijo único» *Jn 3,16* *17,23* *1Jn 4,9*; pero igualmente amor del Hijo a su Padre *Jn 14,31* y a los hombres *10,11* *1Jn 3,16* *Ap 1,5*; amor que él recibe de su Padre, del que en todo depende, y por consiguiente amor «obediente» *Jn 14,31*; amor, en fin, tal que no existe otro mayor *15,13*. Porque si toda la vida de Cristo fue «amor a los suyos», la pasión es el momento en que «los amó hasta el fin», hasta la «consumación» (*gr. telos*) del amor *13,1*: lo cual significa concretamente hasta consentir en ser traicionado por uno de los doce *18,2s*, renegado por su jefe *18,25ss*, condenado como blasfemo en el nombre mismo de la ley *19,7*, y en morir con el suplicio más infamante, el de la cruz, como un facineroso cuyo cadáver colgado del patíbulo contaminaba la tierra de Israel *19,31*. En este momento preciso puede declarar con toda verdad que «se ha consumado» *19,30*: *gr. tetelestai* —ha alcanzado su «actuación» suprema— el amor del Padre tal como estaba revelado en las Escrituras y se había encarnado en el corazón humano de Jesús. Y si muere por amor es para comunicar este amor a los hombres, sus hermanos: del costado «traspasado» *19,37* *Zac 12,10* ve Juan brotar «la fuente abierta a la casa de David y a los habitantes de Jerusalén, para el pecado y la impureza» *Zac 13,1*, preludio de la efusión del [[Espíritu]] *Jn 20,22* que Juan Bautista había visto descender en el bautismo y reposar sobre el Mesías *1,32s*.
+**San Juan.** Es que para Juan el misterio redentor es esencialmente un misterio de amor y por consiguiente de vida divina, puesto que «Dios es amor» *1Jn 4,8*. Amor del Padre, ciertamente, que «amó al mundo hasta darle a su Hijo único» *Jn 3,16* *17,23* *1Jn 4,9*; pero igualmente amor del Hijo a su Padre *Jn 14,31* y a los hombres *10,11* *1Jn 3,16* *Ap 1,5*; amor que él recibe de su Padre, del que en todo depende, y por consiguiente amor «obediente» *Jn 14,31*; amor, en fin, tal que no existe otro mayor *15,13*. Porque si toda la vida de Cristo fue «amor a los suyos», la pasión es el momento en que «los amó hasta el fin», hasta la «consumación» (*gr. telos*) del amor *13,1*: lo cual significa concretamente hasta consentir en ser traicionado por uno de los doce *18,2s*, renegado por su jefe *18,25ss*, condenado como blasfemo en el nombre mismo de la ley *19,7*, y en morir con el suplicio más infamante, el de la cruz, como un facineroso cuyo cadáver colgado del patíbulo contaminaba la tierra de Israel *19,31*. En este momento preciso puede declarar con toda verdad que «se ha consumado» *19,30*: *gr. tetelestai* —ha alcanzado su «actuación» suprema— el amor del Padre tal como estaba revelado en las Escrituras y se había encarnado en el corazón humano de Jesús. Y si muere por amor es para comunicar este amor a los hombres, sus hermanos: del costado «traspasado» *19,37* *Zac 12,10* ve Juan brotar «la fuente abierta a la casa de David y a los habitantes de Jerusalén, para el pecado y la impureza» *Zac 13,1*, preludio de la efusión del [[espíritu]] *Jn 20,22* que Juan Bautista había visto descender en el bautismo y reposar sobre el Mesías *1,32s*.
 
 **San Pablo.** Ahora bien, este aspecto no tiene menos relieve en san Pablo. También él discierne primero en la muerte de Cristo un misterio de amor: amor del Padre *Rom 5,5-8* *8,39* *Ef 1,3-6* *2,4* *Col 1,13*, «cuando todavía éramos pecadores» *Rom 5,8*, sus «enemigos» *5,10*; amor del Hijo a la vez para con su Padre, bajo la forma de [[obediencia]], para reparar así la desobediencia del primer Adán *5,19* *Flp 2,6* y para con los hombres *Rom 5,7s* *8,34*. A este propósito Pablo no sólo recurre a la fórmula de la catequesis primitiva *Mc 10,45* inspirada probablemente en *Is 53,10.12*, y declara que «Cristo se entregó por nosotros» o «por nuestros pecados» *Gal 1,4* *1Tim 2,6* *Tit 2,14*, sino que tiene empeño en precisar que lo hizo «porque me amó» *Gal 2,20* *Ef 5,2.25*.
 

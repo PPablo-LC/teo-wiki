@@ -23,7 +23,20 @@ Las apariciones de la rue du Bac confirmaron, antes de la definición dogmática
 
 ## Ver también
 
-[[medalla_milagrosa]], [[apariciones_marianas]], [[inmaculada_concepción]], [[santa_vicente_de_paúl]]
+[[medalla_milagrosa]], [[apariciones_marianas]], [[inmaculada_concepción]], [[san_vicente_de_paúl]]
+
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. IV, la recuerda entre las santas de
+caridad maternal: recibió de la Virgen «la indicación de un remedio
+querido por el cielo», pero «siguió siendo desconocida y nadie, salvo sus
+superiores, supo nunca de sus visiones. Era conocida solo como la monja
+que cuidaba a las huérfanas o trabajaba en el hospicio para ancianos de
+Enghien. Aquí trabajó durante cuarenta y cinco años, cumpliendo los
+oficios más humildes, siempre con la sonrisa en los labios». Durante la
+guerra franco-prusiana preparaba más de 1.200 comidas al día. Ante el
+miedo a morir respondía con la sonrisa de quien sabe: «¿Por qué temer ir
+a ver a Nuestro Señor, a su Madre y a san Vicente?».
 
 ## Referencias
 

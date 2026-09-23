@@ -21,7 +21,7 @@ Dios revela su nombre a Moisés en la zarza ardiente: YHWH, «Yo soy el que soy�
 
 ## Relaciones doctrinales
 
-Se relaciona con [[yo_soy]], [[señor]], [[kyrios]], [[tetragrama]], [[exodo]], [[divinidad_de_cristo]], [[revelación]], [[nombre_divino]]
+Se relaciona con [[yo_soy]], [[señor]], [[kyrios]], [[tetragrama]], [[éxodo]], [[divinidad_de_cristo]], [[revelación]], [[nombre_divino]]
 
 ## Ver también
 

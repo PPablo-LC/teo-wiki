@@ -37,6 +37,17 @@ CEC §1749-1761: La moralidad de los actos humanos depende de tres fuentes: el o
 
 ODPC propone una definición de fondo de la moralidad: «la moralità è il rapporto tra il gesto e la concezione del tutto in esso implicato» — la relación entre el gesto y la concepción del todo implicada en él. El hombre se mueve siempre por dimensión universal, explícita o no; por eso la capacidad moral no se identifica con un nivel de santidad sino con una apertura original del ánimo: disponibilidad y dependencia, no autosuficiencia. La religiosidad vivida — hacer todas las acciones como dependientes de Dios — «si chiama moralità» (Mt 7,21; la casa edificada sobre roca, Mt 7,24-27). La conciencia es el lugar donde se percibe la dependencia y emerge la directriz de un Otro: solo esta hipótesis funda la libertad de conciencia, «salva la libertà dall'identificarsi con una reazione endogena o indotta» ([[genialità_morale]], [[dependencia_de_dios]]).
 
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+DLV aporta una determinación de la moralidad desde la pertenencia y la ontología:
+
+- **La moralidad nace de la pertenencia a Cristo** — el «sì» de Pedro (Jn 21) no por el elenco de sus errores sino por el amor a la palabra de Cristo, «la più umana e la più divina» (DLV 01, 77).
+- **Moralidad nueva como reconocimiento amoroso de una Presencia** — la moralidad nueva es «riconoscimento amoroso di una Presenza connessa col destino» que continúa en la historia (Ab 2,4; Rm 1,17) (DLV 10, 81-126).
+- **La morale cristiana coincide con reconocer que Dios es todo** — la criatura es *domanda di essere* (oración); la «morale cristiana» (1Cor 10,31; 1Ts 5,10) se hace en el reconocimiento (DLV 04, 77-79).
+- **Moralidad como amistad** — «la cosa más sublime del comportamiento moral que Cristo enseña: toda acción, como relación, es amistad»; lo que no es amistad es deficiente, mentiroso (DLV 07, 31).
+- **La Iglesia, fuente de moral** — «la Chiesa come sorgente con cui si paragona tutta la morale» (DLV 05, 19-37).
+- **Desde la estética a la ética** — `l'etica deriva dall'estetica`: de la sugestividad de la figura de Cristo nace la bondad; sin ella la moral no es persuasiva (DLV 12, 7-9).
+
 ## Distinciones importantes
 
 - **Moralidad objetiva vs. subjetiva**: la moralidad objetiva depende del acto mismo; la subjetiva de la intención y el conocimiento del agente

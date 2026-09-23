@@ -43,16 +43,16 @@ El CEC desarrolla cada petición del Padrenuestro en los nn. 2803-2865. Las tres
 ## Relaciones doctrinales
 
 - [[padrenuestro]]
-- [[oración_pura]]
+- [[oracion_pura]]
 - [[voluntad_de_dios]]
 - [[reino_de_dios]]
-- [[getsemani]]
+- [[getsemaní]]
 - [[santificación_del_nombre]]
 
 ## Ver también
 
 - [[padrenuestro]]
-- [[oración_pura]]
+- [[oracion_pura]]
 
 ## Referencias
 

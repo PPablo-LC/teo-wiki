@@ -18,7 +18,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[nombre]] — al nombre de Jesús toda rodilla debe doblarse
 - [[señor]] — reconocer que Jesús es Señor
 - [[oración]] — la oración de rodillas, imploración y súplica profunda
-- [[jesus|Jesús]] — la oración de rodillas de la agonía
+- [[jesús|Jesús]] — la oración de rodillas de la agonía
 - [[dios]] — la oración que confiesa a Dios
 - [[pedro]] — Pedro arrodillado antes de resucitar a Tabita
 
@@ -34,4 +34,4 @@ La oración de rodillas, forma más sencilla de la postración completa, caracte
 
 Tres casos de tal oración se refieren en el AT. Al final de la dedicación del templo, Salomón bendice a la asamblea y le dirige un discurso *1Re 8,14-21*; luego se vuelve hacia el altar y durante su larga oración *8,22-53* permanece «arrodillado con las manos extendidas hacia el cielo» *8,54*. Varios siglos después, Esdras, a la noticia de los matrimonios contraídos con extranjeras, «salió de mi postración, caí de rodillas extendiendo las manos hacia el cielo» *Esd 9,4s*, oración a la que se unió el pueblo con lágrimas *10,1*. Finalmente Daniel, solo en su cuarto alto, «tres veces al día se ponía de rodillas orando y confesando a Dios: así lo había hecho siempre» *Dan 6,11*.
 
-En cuanto a [[jesus|Jesús]], sólo se le ve arrodillarse para la oración de la agonía *Lc 22,41*, «caído en tierra» *Mc 14,35*, «el rostro contra la tierra» *Mt 26,39*. Pero san Lucas señala expresamente que en circunstancias solemnes se hace la oración de rodillas: Esteban, en el momento en que perdona a sus verdugos *Act 7,60*, [[pedro|Pedro]] antes de resucitar a Tabita *9,40*, Pablo después de su alocución de adiós a los ancianos de Éfeso *20,36*, y todos los cristianos a una sobre la playa en el momento de la separación *21,5*. Orar de rodillas es una postura normal en la oración para expresar la súplica en la adoración *Ef 3,14*.
+En cuanto a [[jesús|Jesús]], sólo se le ve arrodillarse para la oración de la agonía *Lc 22,41*, «caído en tierra» *Mc 14,35*, «el rostro contra la tierra» *Mt 26,39*. Pero san Lucas señala expresamente que en circunstancias solemnes se hace la oración de rodillas: Esteban, en el momento en que perdona a sus verdugos *Act 7,60*, [[pedro|Pedro]] antes de resucitar a Tabita *9,40*, Pablo después de su alocución de adiós a los ancianos de Éfeso *20,36*, y todos los cristianos a una sobre la playa en el momento de la separación *21,5*. Orar de rodillas es una postura normal en la oración para expresar la súplica en la adoración *Ef 3,14*.

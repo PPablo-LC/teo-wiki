@@ -45,7 +45,7 @@ Teodoro fue un exégeta notable de la Escuela de Antioquía, con aportes valioso
 
 ## Ver también
 
-[[nestorianismo]], [[II_concilio_de_constantinopla]], [[escuela_de_antioquía]], [[vigilio]], [[cristología]]
+[[nestorianismo]], [[ii_concilio_de_constantinopla]], [[escuela_de_antioquía]], [[vigilio]], [[cristología]]
 
 ## Referencias
 

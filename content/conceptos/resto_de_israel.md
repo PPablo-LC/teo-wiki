@@ -17,7 +17,7 @@ El **resto de Israel** es la porción fiel del pueblo elegido que permanece fiel
 
 ## Ver también
 
-[[resto]], [[pueblo_de_dios]], [[israel]], [[elección_divina]], [[pueblo_elegido]]
+[[resto]], [[pueblo_de_dios]], [[israel]], [[eleccion_divina]], [[pueblo_elegido]]
 
 ## Referencias
 

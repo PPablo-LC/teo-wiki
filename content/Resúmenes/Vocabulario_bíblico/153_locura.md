@@ -14,10 +14,10 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[sabiduria]] — la sabiduría a la que se opone la locura
+- [[sabiduría]] — la sabiduría a la que se opone la locura
 - [[vida]] — la locura definida en relación con la conducta de la vida
 - [[conocer]] — el conocimiento de Dios
-- [[impio]] — el loco como impío
+- [[impío]] — el loco como impío
 - [[riquezas]] — la locura de apoyarse en la propia riqueza
 - [[fariseos]] — la locura de los fariseos
 - [[cruz]] — el Cristo crucificado
@@ -25,7 +25,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-En la Biblia la locura se opone a la [[sabiduria|sabiduría]] (p. e., *Prov 10,1.14*) y como ella se define en relación con la conducta de la [[vida|vida]] y con el [[conocer|conocimiento]] de Dios. El loco es el tonto y el imprudente, es también el [[impio|impío]] *Prov 1,22-32* *Eclo 22,9-18*.
+En la Biblia la locura se opone a la [[sabiduría|sabiduría]] (p. e., *Prov 10,1.14*) y como ella se define en relación con la conducta de la [[vida|vida]] y con el [[conocer|conocimiento]] de Dios. El loco es el tonto y el imprudente, es también el [[impío|impío]] *Prov 1,22-32* *Eclo 22,9-18*.
 
 ## AT
 

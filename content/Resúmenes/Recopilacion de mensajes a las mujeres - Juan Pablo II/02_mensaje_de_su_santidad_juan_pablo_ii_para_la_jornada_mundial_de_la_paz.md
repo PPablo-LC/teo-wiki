@@ -14,7 +14,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 - [[paz]] — bien fundamental de la humanidad, fruto de la justicia, la verdad, el amor y la libertad
 - [[dignidad_de_la_persona]] — fundamento de todos los derechos humanos universales
-- [[educacion_para_la_paz]] — proyecto educativo que abarca toda la vida para formar personas responsables
+- [[educación_para_la_paz]] — proyecto educativo que abarca toda la vida para formar personas responsables
 - [[mulieris_dignitatem]] — Carta Apostólica sobre la dignidad de la mujer
 
 ## Contenido

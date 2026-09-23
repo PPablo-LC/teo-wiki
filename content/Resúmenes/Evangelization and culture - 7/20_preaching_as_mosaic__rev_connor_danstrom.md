@@ -14,7 +14,7 @@ tags: ["resumen", "evangelization_and_culture", "homilética"]
 
 - [[predicación]] — la homilía como mosaico de fe
 - [[asentimiento]] — el asentimiento real como transformación de la fe
-- [[Eucaristía]] — la Misa como sacrificio re-presentado
+- [[eucaristía]] — la Misa como sacrificio re-presentado
 
 ## Contenido
 

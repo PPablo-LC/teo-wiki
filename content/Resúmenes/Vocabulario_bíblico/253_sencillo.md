@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-La sencillez que caracteriza al [[nino|niño]] (hebr. *peti*; gr. *nepios*; vulg. *parvulus, innocens*) tiene aspectos diversos: falta de experiencia y de prudencia, docilidad, ausencia de cálculo, rectitud de corazón que lleva consigo la sinceridad del lenguaje y excluye la malevolencia de la mirada y de la acción. Se opone así al discernimiento o a la doblez.
+La sencillez que caracteriza al [[niño|niño]] (hebr. *peti*; gr. *nepios*; vulg. *parvulus, innocens*) tiene aspectos diversos: falta de experiencia y de prudencia, docilidad, ausencia de cálculo, rectitud de corazón que lleva consigo la sinceridad del lenguaje y excluye la malevolencia de la mirada y de la acción. Se opone así al discernimiento o a la doblez.
 
 ### Sencillez y sabiduría.
 

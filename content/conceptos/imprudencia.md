@@ -59,13 +59,13 @@ El vicio fija en el ánimo una finalidad torcida («todo lo que produce placer h
 ## Relaciones doctrinales
 
 - Vicio opuesto a la [[virtud_de_la_prudencia]]
-- Se divide en [[precipitación]], [[inconsideración]] e [[inconstancia]]
+- Se divide en [[precipitacion]], [[inconsideracion]] e [[inconstancia]]
 - Se distingue de la [[negligencia]] (q.54) y de la [[astucia]] (q.55)
 - Tiene su raíz en la [[lujuria]]
 
 ## Ver también
 
-[[virtud_de_la_prudencia]], [[negligencia]], [[astucia]], [[precipitación]], [[inconstancia]], [[inconsideración]], [[lujuria]], [[pecado]]
+[[virtud_de_la_prudencia]], [[negligencia]], [[astucia]], [[precipitacion]], [[inconstancia]], [[inconsideracion]], [[lujuria]], [[pecado]]
 
 ## Referencias
 

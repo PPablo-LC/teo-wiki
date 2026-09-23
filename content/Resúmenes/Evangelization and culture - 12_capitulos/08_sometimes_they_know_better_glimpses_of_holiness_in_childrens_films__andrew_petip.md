@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization_and_culture_12", "cine_infantil", "pureza_de_c
 
 ## Conceptos básicos referenciados
 
-- [[pureza_de_corazon]] — "Bienaventurados los limpios de corazón, porque ellos verán a Dios" (Mt 5,8)
+- [[pureza_de_corazón]] — "Bienaventurados los limpios de corazón, porque ellos verán a Dios" (Mt 5,8)
 - [[infancia_espiritual]] — niños nombrados para tareas que requieren pureza (David, Jesús en el templo, pastorcitos de Fátima)
 - [[evangelio_de_los_niños]] — Juan Pablo II: "Todo el Evangelio podría leerse como 'Evangelio de los niños'" (Carta a los Niños, 1994)
 - [[miopía_espiritual_adulta]] — corazones adultos nublados vs. asombro infantil

@@ -16,16 +16,16 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[cielo]] — los astros como manifestación del mundo celeste
 - [[tiempo]] — los ciclos de los astros para medir el tiempo
-- [[angeles]] — los astros confundidos con los ángeles, la corte de Dios
+- [[ángeles]] — los astros confundidos con los ángeles, la corte de Dios
 - [[gloria]] — los astros cantando la gloria del Dios único
-- [[idolos]] — la seducción del culto astral idolátrico
+- [[ídolos]] — la seducción del culto astral idolátrico
 - [[temor]] — el temor instintivo hacia los poderes cósmicos
 - [[guerra]] — el viejo tema mítico de la guerra de los dioses
 - [[satanás]] — la figura de Satán enriquecida con elementos simbólicos astrales
 - [[día_del_señor]] — el juicio del ejército de los cielos en el día de Yahveh
 - [[juicio]] — el juicio de los astros como ángeles malos
 - [[cruz]] — la cruz que liberta de la angustia cósmica
-- [[resurreccion]] — la gloria eterna de los justos resucitados comparada con los astros
+- [[resurrección]] — la gloria eterna de los justos resucitados comparada con los astros
 
 ## Contenido
 

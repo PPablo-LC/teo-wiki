@@ -84,7 +84,7 @@ Sobre la fe como virtud infusa:
 
 ### Según Las siete lámparas de la vida cristiana (7_Lamps)
 
-Juan Pablo I, en su audiencia general del 13 de septiembre de 1978, desarrolló la primera de las «siete lámparas de la santificación» —las siete virtudes—, dedicándola a la [[virtud_de_la_fe]]. El Papa Albino Luciani ofrece una visión profundamente personal y experiencial de la fe.
+Juan Pablo I, en su audiencia general del 13 de septiembre de 1978, desarrolló la primera de las «siete lámparas de la santificación» —las siete virtudes—, dedicándola a la **virtud de la fe**. El Papa Albino Luciani ofrece una visión profundamente personal y experiencial de la fe.
 
 La fe es, ante todo, **rendirse a Dios transformando la propia vida**. JPI contrapone el poema de Trilussa (la fe como una ciega que guía) con la teología paulina: el gran director de escena es Dios. San Pablo, perseguidor, fue «aferrado» por Cristo en el camino de Damasco: «Dios me aferró; desde entonces no hago sino correr tras Él para ver si soy capaz de aferrarle yo también, imitándole y amándole cada vez más» (Flp 3,12). La fe no es mero asentimiento intelectual, sino una entrega que transforma enteramente la vida, como la de San Agustín, que tras la lucha interior respondió por fin al «empujón» del Señor.
 

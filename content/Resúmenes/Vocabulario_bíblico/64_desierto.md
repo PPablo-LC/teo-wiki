@@ -16,26 +16,26 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[demonios]] — los demonios que habitan en el desierto
 - [[bestia]] — las bestias maléficas del desierto
-- [[maldicion]] — el desierto, tierra sin bendición
-- [[bendicion]] — el desierto opuesto a la bendición
+- [[maldición]] — el desierto, tierra sin bendición
+- [[bendición]] — el desierto opuesto a la bendición
 - [[soledad]] — el desierto no como mística de la soledad
 - [[camino]] — el desierto como camino escogido por Dios
 - [[ley]] — la ley recibida en el desierto del Sinaí
 - [[alianza]] — la alianza concluida en el desierto
 - [[pueblo]] — el pueblo de Dios nacido en el desierto
 - [[egipto]] — la buena tierra de Egipto, preferida a la fe
-- [[mana]] — el maná, alimento insípido comparado con las carnes
+- [[maná]] — el maná, alimento insípido comparado con las carnes
 - [[endurecimiento]] — el pueblo que se endurece en el desierto
 - [[castigos]] — el castigo de los pecadores en el desierto
 - [[tierra]] — la tierra prometida
 - [[memoria]] — la memoria como invitación a la conversión
-- [[pastor_y_rebano]] — Dios como pastor del desierto
+- [[pastor_y_rebaño]] — Dios como pastor del desierto
 - [[alimento]] — el maná, alimento celeste
 - [[pan]] — el pan de sabores variados
 - [[esposo]] — el tiempo de los desposorios de Dios con su pueblo
 - [[figura]] — el desierto como figura figurativa
-- [[exodo]] — el nuevo éxodo
-- [[paraiso]] — la transformación del desierto en paraíso
+- [[éxodo]] — el nuevo éxodo
+- [[paraíso]] — la transformación del desierto en paraíso
 - [[juan_bautista]] — Juan Bautista en el desierto
 - [[roca]] — la roca que es Cristo
 - [[reposo]] — la entrada en el reposo de Dios

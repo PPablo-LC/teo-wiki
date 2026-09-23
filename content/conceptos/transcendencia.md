@@ -68,11 +68,11 @@ Fr. Piotr Roszak, en "The Sacrament of Pilgrimage" (§16), presenta el peregrina
 - **[[esperanza]]**: La esperanza es la virtud que mantiene la apertura a la trascendencia en medio de la oscuridad.
 - **[[peregrinaje]]**: El peregrinaje es experiencia concreta de trascendencia: caminar hacia una meta que trasciende lo visible.
 - **[[fe_y_razón]]**: La integración de fe y razón es la vía de acceso a la trascendencia.
-- **[[via_pulchritudinis]]**: La belleza como vía de acceso a la trascendencia.
+- **[[vía_pulchritudinis]]**: La belleza como vía de acceso a la trascendencia.
 
 ## Ver también
 
-[[encarnación]], [[esperanza]], [[peregrinaje]], [[fe_y_razón]], [[via_pulchritudinis]], [[antropología_teológica]]
+[[encarnación]], [[esperanza]], [[peregrinaje]], [[fe_y_razón]], [[vía_pulchritudinis]], [[antropología_teológica]]
 
 ## Referencias
 

@@ -31,6 +31,23 @@ En el contexto de *Evangelization & Culture* 12 (Childhood), la figura vicentina
 - [[evangelization_and_culture_issue_12_childhood]]
 - [[evangelization_and_culture_issue_10_freedom]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. V: Vicente «luchó contra el proyecto de la
+"gran reclusión", que pretendía la hospitalización forzosa de todos los
+mendigos, creando en cambio "centros de rehabilitación para el trabajo" y
+la obra de las "pequeñas casas", que permitiesen a los mendigos mantener
+sus vínculos familiares: mostró así que "**la caridad es creativa hasta el
+infinito**"». Pero «no debemos olvidar que su mayor caridad fue su lucha
+insistente, que duró años, para combatir el jansenismo: el hombre inmerso
+totalmente en la caridad consideraba aún más decisivas las cuestiones de
+la defensa de la verdadera fe». Enseñaba: «El fin principal al que Dios
+nos ha llamado es amar a Nuestro Señor Jesucristo. Si nos alejamos del
+pensamiento de que los pobres son los miembros de Jesucristo, infaliblemente
+disminuirán en nosotros la dulzura y la caridad». H. Brémond: «no son los
+pobres los que lo han llevado a Dios, sino que al contrario, Dios es quien
+le ha llevado a los pobres».
+
 ## Referencias
 
 - «Education and Christ: A Conversation», en *Evangelization & Culture* 10 (Winter 2021).

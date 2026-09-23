@@ -31,7 +31,7 @@ Los confesores se distinguen de los [[mártir|mártires]] (que mueren por la fe)
 
 ## Ver también
 
-[[martirio]], [[arrianismo]], [[concilio_de_nicea_i]], [[persecución]], [[testimonio]], [[liberio]], [[hilario_de_poitiers]]
+[[martirio]], [[arrianismo]], [[concilio_de_nicea_i]], [[persecución]], [[testimonio]], [[liberio]], [[san_hilario_de_poitiers]]
 
 ## Referencias
 

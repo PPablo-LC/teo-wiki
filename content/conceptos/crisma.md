@@ -33,7 +33,7 @@ El crisma («santo crisma») es materia de la Confirmación. Royo Marín lo menc
 
 #### Materia de la confirmación (IIIª q.72 a.2)
 
-El [[crisma]] (óleo de oliva mezclado con bálsamo) es la materia propia del sacramento de la [[confirmación]] (q.72 a.2). El **aceite de oliva**, por su naturaleza pingüe y penetrante, significa la plenitud del Espíritu Santo que se comunica al confirmado. El **bálsamo**, por su fragancia, significa el buen olor de Cristo que los confirmados difunden. Santo Tomás explica que solo el obispo puede consagrar el crisma que sirve de materia remota del sacramento, mientras que la materia próxima se constituye en el mismo acto de ungir con él (ad 2). El crisma es necesario per se para la validez del sacramento.
+El **crisma** (óleo de oliva mezclado con bálsamo) es la materia propia del sacramento de la [[confirmación]] (q.72 a.2). El **aceite de oliva**, por su naturaleza pingüe y penetrante, significa la plenitud del Espíritu Santo que se comunica al confirmado. El **bálsamo**, por su fragancia, significa el buen olor de Cristo que los confirmados difunden. Santo Tomás explica que solo el obispo puede consagrar el crisma que sirve de materia remota del sacramento, mientras que la materia próxima se constituye en el mismo acto de ungir con él (ad 2). El crisma es necesario per se para la validez del sacramento.
 
 #### Consagración del crisma (IIIª q.72 a.3)
 

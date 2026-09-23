@@ -47,7 +47,7 @@ Mons. Munilla recoge la valoración de Orígenes sobre el cuarto Evangelio —«
 
 ## Ver también
 
-[[origenismo]], [[apocatástasis]], [[preexistencia_de_las_almas]], [[exégesis_patrística]], [[escuela_alejandrina]], [[II_concilio_de_constantinopla]]
+[[origenismo]], [[apocatástasis]], [[preexistencia_de_las_almas]], [[exégesis_patrística]], [[escuela_alejandrina]], [[ii_concilio_de_constantinopla]]
 
 ## Referencias
 

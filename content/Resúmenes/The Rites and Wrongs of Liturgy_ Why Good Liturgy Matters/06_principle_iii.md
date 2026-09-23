@@ -15,12 +15,12 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 - [[liturgia]]
 - [[comunidad]]
 - [[identidad]]
-- [[Iglesia]]
-- [[Concilio_Vaticano_II]]
+- [[iglesia]]
+- [[concilio_vaticano_ii]]
 - [[bautismo]]
-- [[participacion_activa]]
+- [[participación_activa]]
 - [[eucaristía]]
-- [[mision]]
+- [[misión]]
 
 ## Contenido
 
@@ -38,7 +38,7 @@ Los cristianos orientales tradicionalmente ven el *oikoumene* como varias iglesi
 
 La cultura no solo se refiere a lo heredado del pasado sino que es dinámica, fluida y de límites difusos. Una liturgia congelada en un momento puede ser defendida encarecidamente, pero eso no se debe confundir con expresar ante Dios quiénes somos como discípulos hoy.
 
-En la actualidad, la mayoría de los cristianos viven en situaciones multiculturales: el cristianismo es solo una opción entre otras. Esto se parece más al mundo que conocía [[Pablo_apóstol|Pablo]] de Tarso que al de nuestros abuelos. Negociar entre la visión de ritual como expresión de continuidad étnica y ritual como expresión de una decisión deliberada por el [[Evangelio]] es una tarea urgente.
+En la actualidad, la mayoría de los cristianos viven en situaciones multiculturales: el cristianismo es solo una opción entre otras. Esto se parece más al mundo que conocía [[Pablo_apóstol|Pablo]] de Tarso que al de nuestros abuelos. Negociar entre la visión de ritual como expresión de continuidad étnica y ritual como expresión de una decisión deliberada por el [[evangelio]] es una tarea urgente.
 
 ### Whose Community?
 
@@ -50,7 +50,7 @@ La extensión es un gran obstáculo: la liturgia que permite participación genu
 
 ### Openness and Identity
 
-Quizás el ideal debería ser atraer a la reunión real de modo que se reconozcan como comunidad en Cristo porque están allí adorando. La liturgia no solo debe expresar comunidad sino construir la nueva comunidad de discípulos. Cada persona es miembro del pueblo de Dios, y la adoración debe ser la ofrenda común de todos los presentes. Esta es la gran meta de la "participación plena y activa" llamada por el [[Concilio_Vaticano_II]]. Se trata de descubrir, en esta situación concreta, cómo somos comunidad, qué nos caracteriza, qué ofrecemos y cómo adaptar lo heredado a la espontaneidad de este momento.
+Quizás el ideal debería ser atraer a la reunión real de modo que se reconozcan como comunidad en Cristo porque están allí adorando. La liturgia no solo debe expresar comunidad sino construir la nueva comunidad de discípulos. Cada persona es miembro del pueblo de Dios, y la adoración debe ser la ofrenda común de todos los presentes. Esta es la gran meta de la "participación plena y activa" llamada por el [[concilio_vaticano_ii]]. Se trata de descubrir, en esta situación concreta, cómo somos comunidad, qué nos caracteriza, qué ofrecemos y cómo adaptar lo heredado a la espontaneidad de este momento.
 
 ### Constant Tensions
 

@@ -16,7 +16,7 @@ Ezequiel fue un profeta y sacerdote del Antiguo Testamento, deportado a Babiloni
 
 ## Ver también
 
-[[profetas]], [[jeremías]], [[isaias]], [[exilio]], [[restauración_de_israel]]
+[[profetas]], [[jeremías]], [[isaías]], [[exilio]], [[restauración_de_israel]]
 
 ## Referencias
 

@@ -35,7 +35,7 @@ La «humildad del cuerpo y del corazón» que exige la templanza es condición p
 
 ### Según EAC-18 — Word on Fire Institute
 
-Matthew David Bulman relaciona la conversión con la [[divinización]]: el fin del camino cristiano es la participación en la vida divina (la *theosis* de la tradición oriental), pues Dios se hizo hombre para que el hombre se hiciera Dios por gracia [EAC-18, 14_feature_bulman.md]. Bulman recupera la enseñanza de que el hombre solo se encuentra a sí mismo «en la entrega sincera de sí mismo» (GS 24), citada también por Benedicto XVI, y llama a recuperar la mística como meta de la vida cristiana.
+Matthew David Bulman relaciona la conversión con la **divinización**: el fin del camino cristiano es la participación en la vida divina (la *theosis* de la tradición oriental), pues Dios se hizo hombre para que el hombre se hiciera Dios por gracia [EAC-18, 14_feature_bulman.md]. Bulman recupera la enseñanza de que el hombre solo se encuentra a sí mismo «en la entrega sincera de sí mismo» (GS 24), citada también por Benedicto XVI, y llama a recuperar la mística como meta de la vida cristiana.
 
 Andrew Allen muestra el itinerario de la iniciación cristiana como el camino sacramental de la divinización: por el [[bautismo]] y las demás etapas del [[catecumenado]], el cristiano es incorporado a Cristo e introducido progresivamente en la comunión trinitaria [EAC-18, 16_feature_allen.md].
 

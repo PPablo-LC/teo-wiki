@@ -14,7 +14,7 @@ tags: ["resumen", "redemptor hominis"]
 
 - [[concilio_vaticano_ii|Concilio Vaticano II]] — herencia vigorosamente enraizada en la conciencia de la Iglesia
 - [[iglesia_como_sacramento|Iglesia, sacramento]] — «signo e instrumento de la unión íntima con Dios y de la unidad del género humano»
-- [[pablo_vi|Pablo VI]] — timonel de la barca de Pedro en el difícil período posconciliar
+- [[san_pablo_vi|Pablo VI]] — timonel de la barca de Pedro en el difícil período posconciliar
 - [[conciencia_eclesial|conciencia de la Iglesia]] — tema de *Ecclesiam suam*
 
 ## Contenido

@@ -51,7 +51,7 @@ Se relaciona con la [[redención]], la [[salvación]], el [[éxodo]], la [[liber
 
 ## Ver también
 
-[[redención]], [[salvación]], [[éxodo]], [[libertad_cristiana]], [[justificación]], [[liberación_del_pecado]], [[teología_de_la_liberación]], [[doctrina_social_de_la_iglesia]]
+[[redención]], [[salvación]], [[éxodo]], [[libertad_cristiana]], [[justificación]], [[liberación_del_pecado]], [[teologia_de_la_liberacion]], [[doctrina_social_de_la_iglesia]]
 
 ## Referencias
 

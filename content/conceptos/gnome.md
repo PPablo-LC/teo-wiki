@@ -51,7 +51,7 @@ La gnome es virtud especial distinta de la synesis (q.51 a.4). Se distingue por 
 
 ## Ver también
 
-[[virtud_de_la_prudencia]], [[eubulia]], [[synesis]], [[epiqueya]], [[sindéresis]], [[don_de_consejo]], [[inconsideración]]
+[[virtud_de_la_prudencia]], [[eubulia]], [[synesis]], [[epiqueya]], [[sindéresis]], [[don_de_consejo]], [[inconsideracion]]
 
 ## Referencias
 

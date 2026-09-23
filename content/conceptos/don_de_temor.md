@@ -94,7 +94,7 @@ Este don produce la humildad:
 
 **Cristo tuvo el don de temor (IIIª q.7 a.6):**
 
-Cristo tuvo el [[don_de_temor]], pero no como temor de separación de Dios o de castigo (temor servil), sino como temor reverencial (temor filial) ante la infinita superioridad de la divinidad. Su alma humana se movía hacia Dios con afecto reverencial y sumiso, reconociendo la excelsa majestad divina. La carta a los Hebreos (5,7) dice que Cristo fue «escuchado por su reverencial temor». El don de temor se refiere al bien (la superioridad divina), no al mal. La [[caridad]] perfecta echa fuera el temor servil (que teme la pena), pero no el temor filial, que es compatible con la caridad perfectísima de Cristo.
+Cristo tuvo el **don de temor**, pero no como temor de separación de Dios o de castigo (temor servil), sino como temor reverencial (temor filial) ante la infinita superioridad de la divinidad. Su alma humana se movía hacia Dios con afecto reverencial y sumiso, reconociendo la excelsa majestad divina. La carta a los Hebreos (5,7) dice que Cristo fue «escuchado por su reverencial temor». El don de temor se refiere al bien (la superioridad divina), no al mal. La [[caridad]] perfecta echa fuera el temor servil (que teme la pena), pero no el temor filial, que es compatible con la caridad perfectísima de Cristo.
 
 ## Distinciones importantes
 

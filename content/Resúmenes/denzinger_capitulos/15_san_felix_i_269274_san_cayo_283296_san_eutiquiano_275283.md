@@ -19,7 +19,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[bautismo]] — sacramento de iniciación cristiana
 - [[confirmación]] — sacramento que perfecciona el bautismo
 - [[obispo]] — sucesor de los Apóstoles
-- [[diacono]] — ministerio de servicio en la Iglesia
+- [[diácono]] — ministerio de servicio en la Iglesia
 
 ## Contenido
 

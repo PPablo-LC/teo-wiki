@@ -22,11 +22,11 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[hijo]] — el Hijo del hombre sobre las nubes
 - [[templo]] — el templo lleno de la nube
 - [[presencia_de_dios]] — la presencia de Dios
-- [[transfiguracion]] — la transfiguración en la nube
+- [[transfiguración]] — la transfiguración en la nube
 - [[figura]] — la nube como figura del Espíritu
-- [[espiritu]] — el Espíritu como verdadera nube
+- [[espíritu]] — el Espíritu como verdadera nube
 - [[mar]] — el bautismo en la nube y en el mar
-- [[creacion]] — la creación renovada
+- [[creación]] — la creación renovada
 
 ## Contenido
 
@@ -48,8 +48,8 @@ En correspondencia con las teofanías del Éxodo, el [[día_del_señor|día]] de
 
 ### Cristo y la nube
 
-El Hijo del hombre, antes de venir sobre las nubes del cielo es concebido de la Virgen María, recubierta por la [[sombra|sombra]] del Espíritu Santo y por el poder del Altísimo *Lc 1,15*. Como en el AT, la nube manifiesta la [[presencia_de_dios|presencia]] de Dios y la gloria de su Hijo [[transfiguracion|transfigurado]] *Mt 17,1-8 p*. Lo sustrae luego a las miradas de los discípulos, probando que mora en el cielo, más allá de las cosas visibles *Act 1,9*, pero presente a sus testigos *7,5s*. Todavía como en el AT, la nube será su carro celestial cuando el [[hijo|Hijo]] del hombre venga el último [[día_del_señor|día]], «con» o «sobre» las nubes *Mt 24,30 p* *26,64 p*. Entre tanto, el vidente del Apocalipsis contempla a un Hijo de hombre «sentado sobre una nube blanca» *Ap 14,14* y viniendo escoltado por las nubes *1,7*: tal es el aparato del Señor de la historia.
+El Hijo del hombre, antes de venir sobre las nubes del cielo es concebido de la Virgen María, recubierta por la [[sombra|sombra]] del Espíritu Santo y por el poder del Altísimo *Lc 1,15*. Como en el AT, la nube manifiesta la [[presencia_de_dios|presencia]] de Dios y la gloria de su Hijo [[transfiguración|transfigurado]] *Mt 17,1-8 p*. Lo sustrae luego a las miradas de los discípulos, probando que mora en el cielo, más allá de las cosas visibles *Act 1,9*, pero presente a sus testigos *7,5s*. Todavía como en el AT, la nube será su carro celestial cuando el [[hijo|Hijo]] del hombre venga el último [[día_del_señor|día]], «con» o «sobre» las nubes *Mt 24,30 p* *26,64 p*. Entre tanto, el vidente del Apocalipsis contempla a un Hijo de hombre «sentado sobre una nube blanca» *Ap 14,14* y viniendo escoltado por las nubes *1,7*: tal es el aparato del Señor de la historia.
 
 ### Los cristianos en la nube
 
-Mientras que los hebreos habían sido «bautizados en Moisés, en la nube y en el [[mar|mar]]» *1Cor 10,1s*, el cristiano es bautizado en Cristo, en el Espíritu Santo y en el agua. La [[figura|figura]] cede el puesto a la realidad, como lo anunciaba la profecía *Is 63,13*. La verdadera nube es el [[espiritu|Espíritu]] que revela *Jn 14,26*, que dirige *16,13*. El «velo» que cubría el rostro de Moisés ha caído para los que se han vuelto hacia el Señor, que es el Espíritu *2Cor 3,12-18*. Sin embargo, la imagen de las nubes escatológicas sigue conservando su valor para significar que el último día también los creyentes serán arrebatados de la tierra para salir al encuentro del Señor que viene *1Tes 4,17* *Ap 11,12*.
+Mientras que los hebreos habían sido «bautizados en Moisés, en la nube y en el [[mar|mar]]» *1Cor 10,1s*, el cristiano es bautizado en Cristo, en el Espíritu Santo y en el agua. La [[figura|figura]] cede el puesto a la realidad, como lo anunciaba la profecía *Is 63,13*. La verdadera nube es el [[espíritu|Espíritu]] que revela *Jn 14,26*, que dirige *16,13*. El «velo» que cubría el rostro de Moisés ha caído para los que se han vuelto hacia el Señor, que es el Espíritu *2Cor 3,12-18*. Sin embargo, la imagen de las nubes escatológicas sigue conservando su valor para significar que el último día también los creyentes serán arrebatados de la tierra para salir al encuentro del Señor que viene *1Tes 4,17* *Ap 11,12*.

@@ -27,15 +27,15 @@ Esta obra se convirtió en el manual estándar de teología en todas las univers
 
 ### Según Historia de la Iglesia — P. Antonio Rivero L.C. (HI)
 
-Rivero presenta a Pedro Lombardo como la figura que sistematizó la teología escolástica en su forma canónica. Su método de recopilación y exposición ordenada de las opiniones teológicas anteriores sentó las bases para la teología sistemática de la escolástica plena. Fue maestro de la escuela catedralicia de París, centro neurálgico de la enseñanza teológica en el siglo XII. Rivero destaca que las *Sentencias* se usaron como texto de estudio en las universidades hasta el siglo XVI, y que teólogos de la talla de [[santo_tomas_de_aquino]], [[san_buenaventura]] y Guillermo de Ockham escribieron comentarios sobre ellas (HI, cap. 24).
+Rivero presenta a Pedro Lombardo como la figura que sistematizó la teología escolástica en su forma canónica. Su método de recopilación y exposición ordenada de las opiniones teológicas anteriores sentó las bases para la teología sistemática de la escolástica plena. Fue maestro de la escuela catedralicia de París, centro neurálgico de la enseñanza teológica en el siglo XII. Rivero destaca que las *Sentencias* se usaron como texto de estudio en las universidades hasta el siglo XVI, y que teólogos de la talla de [[santo_tomás_de_aquino]], [[san_buenaventura]] y Guillermo de Ockham escribieron comentarios sobre ellas (HI, cap. 24).
 
 ## Relaciones doctrinales
 
-Pedro Lombardo ocupa un lugar central en la historia de la [[escolástica]]: su obra sirvió de puente entre la teología pre-escolástica de [[san_anselmo]] y la síntesis tomista de [[santo_tomas_de_aquino]]. Su método de exposición de las *auctoritates* influyó en el desarrollo de la teología sistemática hasta la edad moderna.
+Pedro Lombardo ocupa un lugar central en la historia de la [[escolástica]]: su obra sirvió de puente entre la teología pre-escolástica de [[san_anselmo]] y la síntesis tomista de [[santo_tomás_de_aquino]]. Su método de exposición de las *auctoritates* influyó en el desarrollo de la teología sistemática hasta la edad moderna.
 
 ## Ver también
 
-[[escolástica]], [[san_anselmo]], [[santo_tomas_de_aquino]], [[san_buenaventura]], [[teología_sistemática]]
+[[escolástica]], [[san_anselmo]], [[santo_tomás_de_aquino]], [[san_buenaventura]], [[teología_sistemática]]
 
 ## Referencias
 - [HI, Archivo 24]

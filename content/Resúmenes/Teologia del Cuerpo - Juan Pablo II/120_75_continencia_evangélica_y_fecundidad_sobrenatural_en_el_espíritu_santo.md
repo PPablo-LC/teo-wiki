@@ -21,7 +21,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[virginidad_escatológica]] — el absoluto significado esponsalicio del cuerpo glorificado
 - [[semejanza_con_cristo]] — un rasgo particular de semejanza con Cristo
 - [[cuerpo_glorificado]] — el cuerpo que tiende a la glorificación
-- [[comunion_de_los_santos]] — la perfecta intersubjetividad
+- [[comunión_de_los_santos]] — la perfecta intersubjetividad
 - [[pobreza_mental]] — el apartamiento de la tradición veterotestamentaria
 - [[evangelio_de_la_infancia]] — el desvelamiento gradual
 - [[nueva_alianza]] — la conciencia evangélica de la Nueva Alianza

@@ -103,7 +103,7 @@ La contrariedad requeriria oposicion sobre un mismo objeto bajo el mismo aspecto
 
 ## Relaciones doctrinales
 
-[[libre_albedrio]], [[operacion_de_cristo]], [[gracia_de_cristo]], [[ciencia_de_cristo]], [[pasion_de_cristo]], [[unidad_hipostatica]], [[naturaleza_humana_de_cristo]], [[monotelismo]]
+[[libre_albedrío]], [[operacion_de_cristo]], [[gracia_de_cristo]], [[ciencia_de_cristo]], [[pasión_de_cristo]], [[unidad_hipostática]], [[naturaleza_humana_de_cristo]], [[monotelismo]]
 
 ## Ver tambien
 

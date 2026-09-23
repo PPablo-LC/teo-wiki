@@ -14,17 +14,17 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[adoracion]] — la adoración de Dios en espíritu y en verdad
+- [[adoración]] — la adoración de Dios en espíritu y en verdad
 - [[arca]] — el arca, símbolo de la presencia de Dios
 - [[altar]] — los altares erigidos a Yahveh
 - [[sacerdocio]] — los sacerdotes y el pueblo sacerdotal
 - [[fiestas]] — los tiempos sagrados
-- [[sabado]] — el sábado
-- [[circuncision]] — la circuncisión sin valor en el NT
+- [[sábado]] — el sábado
+- [[circuncisión]] — la circuncisión sin valor en el NT
 - [[sacrificio]] — el sacrificio en el culto
-- [[oracion]] — la oración en todas sus formas
+- [[oración]] — la oración en todas sus formas
 - [[ayuno]] — las prescripciones cultuales
-- [[arbol]] — el árbol de la ciencia y el árbol de vida
+- [[árbol]] — el árbol de la ciencia y el árbol de vida
 - [[presencia_de_dios]] — la presencia de Dios entre su pueblo
 - [[templo]] — el templo de Jerusalén y el culto
 - [[alianza]] — la alianza que funda el culto
@@ -33,23 +33,23 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[profeta]] — los profetas, testigos del designio
 - [[dios]] — no hay más Dios que Yahveh
 - [[santo]] — Dios santo y pueblo santo
-- [[accion_de_gracias]] — la acción de gracias, fuente de todo don
+- [[acción_de_gracias]] — la acción de gracias, fuente de todo don
 - [[don]] — los dones de los sacrificios
 - [[pobres]] — los corazones pobres, condición del verdadero culto
 - [[figura]] — el culto figurativo del templo y las figuras del culto venidero
-- [[espiritu]] — el culto espiritual imposible sin el Espíritu Santo
-- [[expiacion]] — la expiación de los pecados del mundo
+- [[espíritu]] — el culto espiritual imposible sin el Espíritu Santo
+- [[expiación]] — la expiación de los pecados del mundo
 - [[carne]] — la comunión en la carne de Cristo
 - [[sangre]] — la comunión en la sangre de Cristo
-- [[eucaristia]] — la eucaristía, centro del culto nuevo
+- [[eucaristía]] — la eucaristía, centro del culto nuevo
 - [[bautismo]] — el rito bautismal, condición de la vida nueva
-- [[imposicion_de_manos]] — la imposición de manos apostólica
+- [[imposición_de_manos]] — la imposición de manos apostólica
 - [[semana]] — el domingo, primer día de la semana
 - [[día_del_señor]] — el día del Señor
 - [[mujer]] — el velo de las mujeres en las asambleas
 - [[imagen_de_dios]] — el culto cristiano, imagen del régimen futuro
 - [[cruz]] — el altar de la cruz
-- [[comunion]] — la comunión que prepara la comunión eterna
+- [[comunión]] — la comunión que prepara la comunión eterna
 - [[cuerpo]] — un solo cuerpo glorificando al Padre
 - [[cordero_de_dios]] — el culto del cordero inmolado
 - [[pecado]] — morir al pecado por el bautismo

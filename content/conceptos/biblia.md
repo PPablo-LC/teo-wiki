@@ -41,7 +41,7 @@ La obra de Joan Konner, al presentar la Biblia como «libro de ficción» lleno 
 
 ## Relaciones doctrinales
 
-La Biblia es la [[sagrada_escritura]] dentro de la [[palabra_de_dios]]; su lista de libros es el [[canon_bíblico]]; se transmite en la [[tradición_apóstolica]] y se interpreta bajo el [[magisterio]]. Su núcleo es la [[historia_de_la_salvación]] y las alianzas con el pueblo de Dios.
+La Biblia es la [[sagrada_escritura]] dentro de la [[palabra_de_dios]]; su lista de libros es el [[canon_bíblico]]; se transmite en la [[tradición_apostólica]] y se interpreta bajo el [[magisterio]]. Su núcleo es la [[historia_de_la_salvación]] y las alianzas con el pueblo de Dios.
 
 ## Ver también
 

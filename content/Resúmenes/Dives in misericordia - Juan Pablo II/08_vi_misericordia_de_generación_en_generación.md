@@ -12,7 +12,7 @@ tags: ["resumen", "dives in misericordia"]
 
 ## Conceptos básicas referenciadas
 
-- [[magnificat|imagen de nuestra generación]] — contenido profético que afecta también al futuro del Pueblo de Dios
+- [[magníficat|imagen de nuestra generación]] — contenido profético que afecta también al futuro del Pueblo de Dios
 - [[justicia_social|¿basta la justicia?]] — los programas fundados en justicia sufren deformaciones; summum ius, summa iniuria
 
 ## Contenido

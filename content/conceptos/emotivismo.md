@@ -45,11 +45,11 @@ Los nn. 7-10 desarrollan el fenómeno del emotivismo. La nota lo define como «l
 
 ## Relaciones doctrinales
 
-Se relaciona con [[afectividad]], [[emociones_y_fe]], [[fe]], [[corazon]], [[abuso_espiritual]], [[falso_misticismo]], [[neo-gnosticismo]], [[neo-pelagianismo]]
+Se relaciona con [[afectividad]], [[emociones_y_fe]], [[fe]], [[corazón]], [[abuso_espiritual]], [[falso_misticismo]], [[neo-gnosticismo]], [[neo-pelagianismo]]
 
 ## Ver también
 
-[[afectividad]], [[emociones_y_fe]], [[corazon]], [[abuso_espiritual]]
+[[afectividad]], [[emociones_y_fe]], [[corazón]], [[abuso_espiritual]]
 
 ## Referencias
 

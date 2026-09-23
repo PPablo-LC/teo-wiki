@@ -26,7 +26,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[acto_conyugal]] — el acto exterior lícito en la relación conyugal
 - [[ética]] — la dimensión ética de la mirada de deseo
 - [[sermón_de_la_montaña]] — la enunciación de Mt 5, 27-28
-- [[bíblia]] — David y Betsabé como ejemplo (2 Sam 11, 2)
+- [[biblia]] — David y Betsabé como ejemplo (2 Sam 11, 2)
 - [[justicia]] — la sobreabundancia de la justicia evangélica
 - [[cuerpo]] — el cuerpo humano y su significado personal
 - [[hombre_histórico]] — el hombre de la historia universal

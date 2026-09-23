@@ -36,4 +36,4 @@ Los artículos finales —muerte, fe, fuego, gloria, gracia, guerra, hambre y se
 
 ## Lugar en el sistema
 
-El Vocabulario de Teología Bíblica es fuente de primer nivel en el área de [[teología_bíblica|teología bíblica]] dentro del wiki. Sus artículos nutren los conceptos de [[creación|creación]], [[alianza|alianza]], [[pecado|pecado]], [[salvacion|salvación]], [[iglesia|Iglesia]], [[resurreccion|resurrección]], [[vida|vida eterna]] y muchos otros. Cada resumen individual en esta carpeta corresponde a un artículo de la obra; el presente documento describe el conjunto.
+El Vocabulario de Teología Bíblica es fuente de primer nivel en el área de [[teología_bíblica|teología bíblica]] dentro del wiki. Sus artículos nutren los conceptos de [[creación|creación]], [[alianza|alianza]], [[pecado|pecado]], [[salvación|salvación]], [[iglesia|Iglesia]], [[resurrección|resurrección]], [[vida|vida eterna]] y muchos otros. Cada resumen individual en esta carpeta corresponde a un artículo de la obra; el presente documento describe el conjunto.

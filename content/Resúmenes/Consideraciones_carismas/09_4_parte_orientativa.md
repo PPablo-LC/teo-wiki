@@ -61,7 +61,7 @@ No es posible ofrecer indicaciones demasiado concretas sin caer en casuística; 
 
 - **Acompañamiento:** superiores y directores deben tener o desarrollar capacidad de acompañar adecuadamente. Se recomienda tener asesor experto y consultar a médicos o psicólogos creyentes para temas de sanación.
 
-- **Formación:** formación teológica sólida, mes de [[Ejercicios_Espirituales]] con director reconocido, dirección espiritual frecuente. Los intercesores deben estar capacitados y preparados.
+- **Formación:** formación teológica sólida, mes de [[ejercicios_espirituales]] con director reconocido, dirección espiritual frecuente. Los intercesores deben estar capacitados y preparados.
 
 - **Equilibrio:** las actividades deben complementar, no opacar, otros medios espirituales ([[encuentro_con_cristo]], adoración, apostolado). Evitar absolutizar la sanación; la vida espiritual no consiste solo en sanar, sino en crecer en la plenitud de la gracia en Cristo.
 

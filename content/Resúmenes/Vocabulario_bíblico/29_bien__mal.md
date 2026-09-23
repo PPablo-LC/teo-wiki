@@ -18,24 +18,24 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[enfermedad_y_curación]] — la enfermedad como forma de mal
 - [[sufrimiento]] — el sufrimiento en todas sus formas
 - [[muerte]] — la muerte como mal por excelencia
-- [[creacion]] — la bondad objetiva de las criaturas en relación con Dios creador
+- [[creación]] — la bondad objetiva de las criaturas en relación con Dios creador
 - [[conocer]] — el árbol del conocimiento del bien y del mal
 - [[prueba_y_tentación]] — la prueba decisiva de la libertad
 - [[liberación_y_libertad]] — la libertad como capacidad de elección
 - [[ley]] — la ley de Dios como camino del bien
 - [[voluntad_de_dios]] — conformarse con la voluntad de Dios
 - [[pecado]] — el pecado como elección del mal fuera de la voluntad de Dios
-- [[corazon]] — el mal que sale del propio corazón del hombre
+- [[corazón]] — el mal que sale del propio corazón del hombre
 - [[guerra]] — la guerra incesante entre Dios y el mal
 - [[libertador]] — Dios como libertador que arranca de la muerte
 - [[tierra]] — la tierra prometida como «buen país»
 - [[leche]] — la tierra donde fluyen leche y miel
 - [[alianza]] — la alianza como condición de la bienaventuranza
-- [[bendicion]] — la bendición y la maldición ante las que se sitúa Israel
-- [[maldicion]] — la maldición como alternativa a la bendición
+- [[bendición]] — la bendición y la maldición ante las que se sitúa Israel
+- [[maldición]] — la maldición como alternativa a la bendición
 - [[desierto]] — la tierra que se convertirá en desierto por la infidelidad
-- [[impio]] — la felicidad aparente de los impíos
-- [[justificacion]] — los justos que sufren
+- [[impío]] — la felicidad aparente de los impíos
+- [[justificación]] — los justos que sufren
 - [[servir]] — el servidor de Yahveh perseguido
 - [[profeta]] — los profetas entregados a muerte
 - [[pobres]] — los pobres de Yahveh aprendiendo a despegarse de los bienes terrenos
@@ -43,9 +43,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[esperanza]] — la esperanza heroica de los pobres de Yahveh
 - [[victoria]] — la victoria sobre el mal
 - [[mundo]] — el príncipe de este mundo
-- [[adan]] — Jesús como nuevo Adán sin pecado
+- [[adán]] — Jesús como nuevo Adán sin pecado
 - [[cruz]] — la obediencia hasta la muerte de cruz
-- [[maldicion]] — Cristo hecho maldición por nosotros
+- [[maldición]] — Cristo hecho maldición por nosotros
 - [[gracia]] — el hombre transformado por la gracia capaz de hacer el bien
 - [[obras]] — las buenas obras como fruto de la gracia
 - [[paciencia]] — la paciencia adquirida con las tribulaciones

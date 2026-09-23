@@ -44,7 +44,7 @@ Benedicto XVI analiza esta parábola en el capítulo 3 de *Jesús de Nazaret I*,
 
 ## Relaciones doctrinales
 
-Se relaciona con [[estado_intermedio]], [[juicio_final]], [[justo_que_sufre]], [[purgatorio]], [[infierno]], [[riqueza]], [[pobreza_evangelica]], [[limosna]], [[parábolas_de_jesús]].
+Se relaciona con [[estado_intermedio]], [[juicio_final]], [[justo_que_sufre]], [[purgatorio]], [[infierno]], [[riqueza]], [[pobreza_evangélica]], [[limosna]], [[parábolas_de_jesús]].
 
 ## Ver también
 

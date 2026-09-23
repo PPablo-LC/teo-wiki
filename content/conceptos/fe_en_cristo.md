@@ -43,6 +43,16 @@ También en la catequesis 33 (21 de octubre de 1987), Juan Pablo II desarrolla l
 
 Al hablar de su propia persona, Jesús no pide solo fe en el Mesías como Enviado, sino fe en el Hijo que es de la misma naturaleza que el Padre: «Creed en Dios, creed también en mí» (Jn 14,1). «El que me ha visto a mí ha visto al Padre» (Jn 14,9). Jesucristo se identifica con Dios como objeto de la fe que pide a sus seguidores (CrSJP 33 §3).
 
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+Giussani formula la síntesis del volumen como `fede in Dio è fede in Cristo`:
+
+- **Fórmula sintética** — `fede in Dio è fede in Cristo`: la fe en Dios no es separable de la fe en Jesús de Nazaret; quien se encuentra con el hombre Jesús se encuentra con el Misterio (DLV 10, 3-31).
+- **Cristo, «Segno di tutti i segni»** — la fe en Cristo supera el sentido religioso: la razón no puede acceder por sí al objeto que la fe revela (Mt 13,58); en los sacramentos el signo coincide plenamente con el Misterio (DLV 09, 33-85; DLV 10, 3-31).
+- **La fe como reconocimiento de una Presencia** — «la fede è riconoscimento di una Presenza» conectada con el destino; el «sì» de Pedro nace de una evidencia, no del elenco de sus errores (Jn 21) (DLV 10, 81-126; DLV 01, 77).
+- **Perstencia a Dios = pertenencia a Cristo** — si Dios se ha hecho un hombre, pertenecer a Dios coincide con pertenecer a Cristo; el sentido de la historia está en Cristo (DLV 15, 15-31).
+- **La fe nueva en Cristo abre a una mentalidad y moralidad nuevas** — `Cristo è entrato nel mondo in polemica col mondo` (Garofalo) (DLV 10, 3-31).
+
 ## Relaciones doctrinales
 
 La fe en Cristo se relaciona con [[milagro_y_fe]] como dos caras de una misma realidad: el milagro es signo que llama a la fe, y la fe es condición para que el signo se realice. Se ordena a la [[salvación]], pues la fe es condición para la vida eterna (Jn 20,31). Depende de la [[revelación]] como su fundamento objetivo. Las [[bienaventuranzas]] incluyen la bienaventuranza de los que creen sin haber visto (Jn 20,29).

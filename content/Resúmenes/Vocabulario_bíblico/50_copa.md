@@ -15,19 +15,19 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[comida]] — la copa que circula durante las comidas
-- [[comunion]] — la copa como símbolo de comunión
-- [[impio]] — los impíos que prefieren la copa de los demonios
+- [[comunión]] — la copa como símbolo de comunión
+- [[impío]] — los impíos que prefieren la copa de los demonios
 - [[ira]] — la ira de Dios
 - [[vino]] — el vino que regocija el corazón
 - [[embriaguez]] — la embriaguez vergonzosa
 - [[castigos]] — el castigo reservado a los impíos
 - [[penitencia_y_conversión]] — la conversión que esquiva la ira
-- [[expiacion]] — los sacrificios de expiación
+- [[expiación]] — los sacrificios de expiación
 - [[sangre]] — la sangre de las víctimas y la de Cristo
 - [[figura]] — los ritos que figuraban el sacrificio de Cristo
 - [[sacrificio]] — el sacrificio de expiación perfecta
 - [[obediencia]] — la obediencia filial de Jesús
-- [[eucaristia]] — el cáliz eucarístico
+- [[eucaristía]] — el cáliz eucarístico
 - [[reino_de_dios]] — beber a la mesa del Hijo en el reino
 
 ## Contenido

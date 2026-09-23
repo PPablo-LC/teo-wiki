@@ -43,7 +43,7 @@ Juan Pablo II ofrece en esta catequesis juvenil su testimonio personal como mode
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II describe su propia [[vocación_sacerdotal]] como un misterio que comenzó en la infancia en Wadowice, maduró durante la guerra y la ocupación nazi, y se definió en el seminario clandestino de Cracovia [DyM, I-II]. La vocación es un [[admirabile_commercium]]: «un "maravilloso intercambio" entre Dios y el hombre» [DyM, VIII]. El Papa testimonia que en el momento de la ordenación, durante la postración, comprendió que la vocación significa «acoger en la propia vida —como Pedro— la Cruz de Cristo y hacerse con el Apóstol "suelo" para los hermanos» [DyM, IV]. Identifica influencias decisivas: su familia, Jan Tyranowski, los carmelitas, San Juan María Vianney y la experiencia del martirio de sacerdotes polacos durante la guerra [DyM, III].
+Juan Pablo II describe su propia **vocación sacerdotal** como un misterio que comenzó en la infancia en Wadowice, maduró durante la guerra y la ocupación nazi, y se definió en el seminario clandestino de Cracovia [DyM, I-II]. La vocación es un [[admirabile_commercium]]: «un "maravilloso intercambio" entre Dios y el hombre» [DyM, VIII]. El Papa testimonia que en el momento de la ordenación, durante la postración, comprendió que la vocación significa «acoger en la propia vida —como Pedro— la Cruz de Cristo y hacerse con el Apóstol "suelo" para los hermanos» [DyM, IV]. Identifica influencias decisivas: su familia, Jan Tyranowski, los carmelitas, San Juan María Vianney y la experiencia del martirio de sacerdotes polacos durante la guerra [DyM, III].
 
 ### Según León XIV (UFGF)
 

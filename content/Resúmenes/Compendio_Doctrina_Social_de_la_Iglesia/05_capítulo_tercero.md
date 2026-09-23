@@ -19,7 +19,7 @@ tags: ["resumen", "doctrina_social", "persona_humana", "dignidad_humana", "derec
 - [[libertad]] — Don de Dios para buscar el bien
 - [[ley_natural]] — Luz de la inteligencia infundida por Dios
 - [[sociabilidad]] — Naturaleza constitutivamente social del hombre
-- [[Concilio_Vaticano_II]] — Concilio que afirmó la centralidad de la persona
+- [[concilio_vaticano_ii]] — Concilio que afirmó la centralidad de la persona
 
 ## I. DOCTRINA SOCIAL Y PRINCIPIO PERSONALISTA
 

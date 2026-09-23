@@ -13,14 +13,14 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 ## Conceptos básicos referenciados
 
 - [[liturgia]]
-- [[Dios]]
+- [[dios]]
 - [[fe]]
 - [[superstición]]
 - [[idolatría]]
 - [[oración]]
-- [[Eucaristía]]
+- [[eucaristía]]
 - [[libertad_de_los_hijos_de_Dios]]
-- [[Espíritu_Santo]]
+- [[espíritu_santo]]
 
 ## Contenido
 
@@ -42,15 +42,15 @@ El miedo es parte de la vida humana: miedo a la pérdida, por los seres queridos
 
 ¿Qué ejemplos de esta calidad —o de intento consciente de evitar los peligros de una religión mercantil— hay en la liturgia?
 
-Los católicos tienen la larga tradición de "decir Misas por encargo". Aunque hay una advertencia estricta contra dar la impresión de comercio con Dios, rápidamente se desliza en el modo *do ut des*. Anunciar "Esta [[Misa]] se ofrece por..." da la impresión de la liturgia como una mercancía cuantificable.
+Los católicos tienen la larga tradición de "decir Misas por encargo". Aunque hay una advertencia estricta contra dar la impresión de comercio con Dios, rápidamente se desliza en el modo *do ut des*. Anunciar "Esta [[misa]] se ofrece por..." da la impresión de la liturgia como una mercancía cuantificable.
 
 En casi toda liturgia hay un período de oración intercesora: la oración de los fieles, cuando la asamblea se pone de pie e intercede ante el Padre como pueblo sacerdotal. Pero es fácil deslizarse a un lenguaje causal donde imaginamos que podemos ordenar a Dios que intervenga. Igualmente, asumimos fácilmente que nuestra voluntad o nuestra visión debe coincidir con las mejores intenciones de la voluntad divina.
 
 El ritual es por naturaleza repetitivo: sabemos lo que pasará y el desempeño pasado es guía para el futuro. Lo que fue un accidente un día se vuelve significativo al siguiente y se considera esencial la vez después. Con este proceso humano surge la tentación de imaginar que nuestra relación con Dios depende del desempeño correcto del ritual. A menos que se usen las vestimentas correctas, se pronuncien las fórmulas correctas, se hagan las cosas correctas, nada sucede. Pero Dios está siempre presente, siempre amando, y adorar en la montaña correcta o en la incorrecta no importa, mientras se adore en espíritu y en verdad (Juan 4:24).
 
-La recolección es parte de la vida humana —¿cuántas tarjetas de fidelidad tienes en tu bolsillo?— y esta tendencia la traemos a nuestra adoración donde puede subvertirla en consumismo. Un período de nueve días como tiempo especial de oración es buena idea —hay los nueve días imaginados en Hechos 1-2 entre la [[Ascensión_del_señor|Ascensión]] y [[Pentecostés]]— pero ¿qué si se convierte en coleccionar las nueve? Si alguien pregunta "Me perdí el jueves pasado, ¿he hecho la novena?", esa persona ha pasado a ver su relación con Dios en términos de comercio con un proveedor todopoderoso.
+La recolección es parte de la vida humana —¿cuántas tarjetas de fidelidad tienes en tu bolsillo?— y esta tendencia la traemos a nuestra adoración donde puede subvertirla en consumismo. Un período de nueve días como tiempo especial de oración es buena idea —hay los nueve días imaginados en Hechos 1-2 entre la [[Ascensión_del_señor|Ascensión]] y [[pentecostés]]— pero ¿qué si se convierte en coleccionar las nueve? Si alguien pregunta "Me perdí el jueves pasado, ¿he hecho la novena?", esa persona ha pasado a ver su relación con Dios en términos de comercio con un proveedor todopoderoso.
 
-¿Qué decir de los cálculos minuciosos en liturgia? ¿Tres gotas de agua en el [[bautismo]]? ¿Cuántas velas para la [[Misa]]? Tales preguntas imaginan el ritual por analogía con mezclar cemento o un experimento químico. La liturgia, sin embargo, es sobre relación e historia. Vale la pena recordar lo que la *Didache* dijo: "Si no tienes agua corriente, usa otra agua, si no fría, ¡usa caliente!" (7:2). O lo que un viejo sacerdote le dijo a un joven diácono que goteaba agua mililitro a mililitro en varios cálices de vino: "Escucha, hijo, ¡es un ritual, no una receta!"
+¿Qué decir de los cálculos minuciosos en liturgia? ¿Tres gotas de agua en el [[bautismo]]? ¿Cuántas velas para la [[misa]]? Tales preguntas imaginan el ritual por analogía con mezclar cemento o un experimento químico. La liturgia, sin embargo, es sobre relación e historia. Vale la pena recordar lo que la *Didache* dijo: "Si no tienes agua corriente, usa otra agua, si no fría, ¡usa caliente!" (7:2). O lo que un viejo sacerdote le dijo a un joven diácono que goteaba agua mililitro a mililitro en varios cálices de vino: "Escucha, hijo, ¡es un ritual, no una receta!"
 
 La libertad de los hijos de Dios es que un nuevo comienzo siempre es posible. Esto es así porque Dios es infinito en apertura, misericordia y amor. Es este misterio la base de nuestro gozo en la liturgia.
 

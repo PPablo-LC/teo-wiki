@@ -25,7 +25,7 @@ tags:
 - [[reino_de_dios]] — «el reino de Dios está dentro de vosotros»: justicia, paz y gozo en el Espíritu Santo
 - [[inmortalidad_del_alma]] — las almas separadas no están inactivas ni privadas de sentimiento
 - [[pensamientos]] — movilidad del alma; muela de molino; tres principios
-- [[discernimiento_de_espiritus]] — arte del hábil cambista
+- [[discernimiento_de_espíritus]] — arte del hábil cambista
 
 ## Contenido
 

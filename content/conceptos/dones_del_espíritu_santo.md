@@ -55,7 +55,7 @@ Pinckaers denuncia que los manuales postridentinos omitieron el tratado de los d
 
 **Cristo poseyó los dones (IIIª q.7 a.5):**
 
-Los dones del Espíritu Santo son perfecciones que hacen al alma dócil para ser movida por el Espíritu Santo. El alma de Cristo fue movida por el Espíritu Santo en grado perfectísimo, pues la humanidad de Cristo fue el instrumento perfecto de la divinidad. Por tanto, Cristo tuvo todos los [[dones_del_espíritu_santo]] en grado excelentísimo, sin medida. Las virtudes, incluso las teologales, necesitan la ayuda de los dones para ser movidas por el Espíritu Santo, y en Cristo esta moción fue plenísima. Cristo da los dones como Dios (en cuanto creador y fuente de toda gracia) y los recibe como hombre (en cuanto su alma humana es perfeccionada por el Espíritu Santo).
+Los dones del Espíritu Santo son perfecciones que hacen al alma dócil para ser movida por el Espíritu Santo. El alma de Cristo fue movida por el Espíritu Santo en grado perfectísimo, pues la humanidad de Cristo fue el instrumento perfecto de la divinidad. Por tanto, Cristo tuvo todos los **dones del espíritu santo** en grado excelentísimo, sin medida. Las virtudes, incluso las teologales, necesitan la ayuda de los dones para ser movidas por el Espíritu Santo, y en Cristo esta moción fue plenísima. Cristo da los dones como Dios (en cuanto creador y fuente de toda gracia) y los recibe como hombre (en cuanto su alma humana es perfeccionada por el Espíritu Santo).
 
 [SmTh IIIª q.7 a.5]
 

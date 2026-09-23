@@ -17,10 +17,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[luz]] — el blanco como color de luz
 - [[vida]] — el blanco como color de vida
 - [[gloria]] — el blanco como marca de los asociados a la gloria de Dios
-- [[transfiguracion]] — el blanco en la transfiguración de Cristo
+- [[transfiguración]] — el blanco en la transfiguración de Cristo
 - [[santo]] — los santos purificados y revestidos de blanco
 - [[cordero_de_dios]] — los blanqueados en la sangre del cordero
-- [[resurreccion]] — la blancura como participación del estado celestial glorioso
+- [[resurrección]] — la blancura como participación del estado celestial glorioso
 
 ## Contenido
 

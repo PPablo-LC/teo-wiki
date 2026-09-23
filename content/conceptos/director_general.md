@@ -17,7 +17,7 @@ El **Director General** es el superior mayor de la [[legión_de_cristo]], elegid
 
 ## Función
 
-Como sucesor del fundador [[Marcial_Maciel]] y primer Director General, el cargo tiene autoridad sobre todos los miembros y comunidades de la Legión. Sus responsabilidades incluyen:
+Como sucesor del fundador [[marcial_maciel]] y primer Director General, el cargo tiene autoridad sobre todos los miembros y comunidades de la Legión. Sus responsabilidades incluyen:
 
 - Gobierno y administración general de la congregación
 - Nombramiento de directores territoriales y superiores
@@ -28,7 +28,7 @@ Como sucesor del fundador [[Marcial_Maciel]] y primer Director General, el cargo
 
 - [[eduardo_robles_gil]] (último Director General antes de la intervención)
 - [[sylvester_heereman]] (como Delegado Pontificio y posteriormente Director General)
-- [[álvaro_corcuera]] (Director General durante el proceso de renovación)
+- [[alvaro_corcuera]] (Director General durante el proceso de renovación)
 - [[john_conner]], [[jorge_lópez]], directores generales recientes
 
 ## Ver también

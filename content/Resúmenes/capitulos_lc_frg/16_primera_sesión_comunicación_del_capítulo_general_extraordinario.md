@@ -13,13 +13,13 @@ tags: ["resumen", "capitulos lc frg"]
 ## Conceptos básicos referenciados
 
 - [[capítulo_general]]
-- [[Legionarios_de_Cristo]]
-- [[Regnum_Christi]]
-- [[Federación_Regnum_Christi]]
-- [[Consagradas_del_Regnum_Christi]]
-- [[Laicos_Consagrados_del_Regnum_Christi]]
+- [[legionarios_de_cristo]]
+- [[regnum_christi]]
+- [[federación_regnum_christi]]
+- [[consagradas_del_regnum_christi]]
+- [[laicos_consagrados_del_regnum_christi]]
 - [[constituciones_legionarios_de_cristo]]
-- [[Código_de_Derecho_Canónico]]
+- [[código_de_derecho_canónico]]
 
 
 ## Contenido

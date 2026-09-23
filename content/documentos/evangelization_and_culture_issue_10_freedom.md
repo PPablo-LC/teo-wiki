@@ -172,7 +172,7 @@ Los resúmenes estructurados del número están en `wiki/Resúmenes/Evangelizati
 - [[libertad_religiosa]]
 - [[resurrección_de_cristo]]
 - [[lectura_espiritual]]
-- [[santo_ocío]]
+- [[ocio]]
 - [[verdad]]
 - [[beata_edith_stein]]
 - [[george_orwell]]

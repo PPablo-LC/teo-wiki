@@ -12,55 +12,30 @@ tags: ["resumen", "el amor es mas fuerte - alvaro corcuera lc"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+[[iglesia]], [[cuerpo_místico]], [[amor_a_la_iglesia]], [[sacramento_universal_de_salvación]], [[papado]], [[magisterio]], [[eucaristía]], [[vocaciones]], [[unidad_de_la_iglesia]], [[caridad]], [[misericordia_de_dios]], [[maría]], [[juan_pablo_ii]], [[alvaro_corcuera]], [[espiritualidad_legionaria]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `07_capítulo_6_amor_apasionado_a_la_iglesia.md`
+### 1. Aspecto esencial e irrenunciable
 
+La Iglesia, cuerpo místico de Cristo, es uno de los amores fundamentales del miembro del Movimiento (cf. MMRC 79-87); este amor deriva de nuestro amor a Cristo. San Pablo enseña que «Cristo amó a la Iglesia y se entregó a sí mismo por ella» (Ef 5, 26); del mismo modo estamos llamados a profesar y testimoniar un amor semejante. Los miembros de la Legión de Cristo y del Regnum Christi sirven a la Iglesia con su testimonio, su tiempo y sus talentos de forma desinteresada, sabiéndose instrumentos, canales, puentes para que los demás lleguen a Él, imitando a san Juan Bautista: «conviene que Él crezca, y yo disminuya» (Jn 3, 30). En el año sacerdotal, cada miembro debe destacar por su sentido de Iglesia, poniendo todo el empeño e iniciativa apostólica al servicio de la comunidad eclesial local, de acuerdo con las directrices de los obispos y párrocos. Recuerda la beatificación de los cuatrocientos noventa y ocho mártires españoles, que murieron al grito de «¡viva Cristo Rey!». El amor y la fidelidad heroica a la Iglesia es uno de los rasgos más sobresalientes de los mártires y de los santos; «el amor apasionado a la Iglesia es un aspecto irrenunciable de nuestra vida espiritual».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### 2. Fundamentos de nuestra fe y amor a la Iglesia
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo 6. Amor apasionado a la Iglesia |
-| 3 | H3 | 1. Aspecto esencial e irrenunciable |
-| 11 | H3 | 2. Fundamentos de nuestra fe y amor a la Iglesia |
-| 25 | H3 | 3. Manifestaciones de nuestro amor a la Iglesia |
-| 53 | H3 | 4. El testimonio de Juan Pablo II |
-| 107 | H3 | 5. No estamos solos |
+Creemos y amamos a la Iglesia porque tenemos la certeza de que no es nuestra sino de Cristo; éste es el motivo principal de nuestra fidelidad: en Él la Iglesia encuentra su origen, su sostén y la razón de ser de su existencia. Fundada por Jesucristo, subsiste en la Iglesia católica gobernada por el Papa, sucesor de Pedro, y por los obispos en comunión con él; es sacramento universal de salvación, el instrumento por el cual los frutos de la redención llegan a todos los hombres. Sobre la roca firme de la palabra de Cristo —«las puertas de la muerte no prevalecerán contra ella» (Mt 16, 18)— la historia de dos mil años, llena de persecuciones, cismas y herejías, es prueba irrefutable; Cristo es quien guía la barca de Pedro. Segundo motivo: Cristo «amó a la Iglesia y se entregó a sí mismo por ella» (Ef 5, 26); no la constituyó con un acto formal, sino que la engendró con sus obras y sus lágrimas, derramando por ella su preciosa sangre: «la Iglesia vale la cruz de Cristo» (cf. CEC 766). Tercer motivo: Cristo está presente en ella y vive en ella; es el «lugar donde florece el Espíritu Santo» (CEC 749), y en ella se cumple la promesa «Yo estoy con vosotros hasta el final de los tiempos» (Mt 28, 20). No podemos decir «Cristo sí, Iglesia no»: nuestra fe va unida a la práctica y a las obras (cf. St 2, 18). La Iglesia no es una suma de individuos sino un Cuerpo, donde todos vamos juntos y nadie debe sentirse solo. Afirma con san Cipriano: «No puede tener a Dios como Padre quien no tiene a la Iglesia como Madre».
 
+### 3. Manifestaciones de nuestro amor a la Iglesia
 
-## Secciones incluidas
+Corcuera ofrece aplicaciones concretas para crecer en el amor filial a la Iglesia:
+- **Amor y adhesión al Papa**: el Movimiento inculca la adhesión ardiente y personal al Papa, Vicario de Jesucristo, sucesor de Pedro, signo de unidad de fe y comunión; esa adhesión no se basa en la simpatía ni en la opinión de la gente, sino en la fe y el amor a nuestro Señor. La primera manifestación es rezar por él, como Jesús rezó por Pedro para que su fe no desfalleciera (Lc 22, 31-32); Benedicto XVI pedía con frecuencia nuestras oraciones. Hay dos modos de seguir al pastor: interior —escuchar la voz de Cristo a través del Papa, con asentimiento a sus enseñanzas— y exterior —difundir su magisterio y el amor al Santo Padre, defendiendo su persona con valentía—.
+- **Apoyo a los obispos y sacerdotes**: sucesores de los apóstoles «en comunión con el Papa», «otros Cristos», puentes de la gracia; merecen veneración, cercanía de oraciones, estima y apoyo. La única razón de ser del Movimiento es «servir a la Iglesia y a sus pastores, y, desde la Iglesia… servir a los hombres» (MMRC 11, 42). Con san Juan Eudes: «vamos completando en nuestra carne lo que le falta a la Pasión de Cristo en su cuerpo, que es la Iglesia». El carisma recibido gratuitamente hay que ponerlo al servicio de obispos y párrocos —«hacer siempre el bien, sin mirar a quién».
+- **Rezar, promover y sostener las vocaciones**: inquietud y ocupación prioritaria de todo hijo de la Iglesia; ante la mies inmensa, hay que pedir al Dueño de la mies que envíe obreros (Mt 9, 38); «¡ay de mí si no evangelizare!». Incluye la adoración por las vocaciones, la pastoral vocacional y apadrinar seminaristas.
+- **Custodiar y promover la unión y caridad**: la fuerza de la Iglesia y su poder transformador dependen principalmente de la unión y la caridad («¡Mirad cómo se aman!», Tertuliano). Hay que rechazar la calumnia, el chisme y la maledicencia, descubrir lo bueno, disculpar lo malo, sobrellevar las cargas, perdonar y olvidar las ofensas: «el día del juicio, Dios nos juzgará sobre el amor». Cristo reinó sin poder ni fuerza: «el amor es más fuerte, es lo único que cambia los corazones de los hombres».
 
-## 1. Aspecto esencial e irrenunciable
+### 4. El testimonio de Juan Pablo II
 
-[Contenido de esta sección...]
+Homilía pronunciada por Corcuera en las exequias de Juan Pablo II (5 de abril de 2005). «Lo mejor es el silencio»: el silencio es la mejor reflexión ante el Santo Padre. «El amor es muy ingenioso, hace cosas que nadie puede imaginar: por eso la Encarnación; por eso hemos sido rescatados». Narra la anécdota del niño que cargó durante el primer viaje del Papa a México (1979): el Papa lo tomó en brazos y lo besó; años después, aquel joven le escribió: «El Papa ha marcado nuestra vida». Debemos cargar las almas que Dios nos encomienda como el Buen Pastor, como el cirineo, sin escatimar nada. Juan Pablo II fue «el Papa de la Eucaristía»: nos gobernó desde el sagrario, vivió su jornada diaria desde el sagrario, entregó su vida desde el sagrario; de él brotaron sus ciento cuatro viajes, sus catorce encíclicas y sus miles de discursos. «El Santo Padre nos gobernó desde el sagrario… la presencia de Jesucristo eucarístico fue la que transformó las almas». Su mensaje «¡No tengáis miedo!» y su valor venían de la oración. «¡El amor es más fuerte!»: es mucho más fuerte que el temor; «¿quién nos separará del amor de Cristo?» (Rm 8, 35). Fue fiel «hasta morir en la raya», entregó su vida a María —totus tuus—, perdonó a quien le hirió, creyó en la misericordia y murió en la víspera de la Divina Misericordia; hemos de ser apóstoles de la misericordia de Cristo. Quedó inconclusa su encíclica de la caridad: «nos toca escribirla a nosotros… con la caridad de Jesucristo». Renovemos la fidelidad al Magisterio, a la Iglesia y a cualquier Papa: «fieles hasta morir en la raya».
 
-## 2. Fundamentos de nuestra fe y amor a la Iglesia
+### 5. No estamos solos
 
-[Contenido de esta sección...]
-
-## 3. Manifestaciones de nuestro amor a la Iglesia
-
-[Contenido de esta sección...]
-
-## 4. El testimonio de Juan Pablo II
-
-[Contenido de esta sección...]
-
-## 5. No estamos solos
-
-[Contenido de esta sección...]
+Todos nuestros esfuerzos deben estar orientados a la transformación de los corazones, a que las almas vuelvan a Cristo y a su Cuerpo Místico por medio de los sacramentos. El miembro del Movimiento se debe a la Iglesia; su apostolado consiste en edificarla: «Por la Iglesia y en la Iglesia recibimos la fe en Cristo, los sacramentos que nos comunican la gracia, y la plena verdad sobre Dios y sobre sus designios de salvación» (MMRC 152). Ante una misión tan grande, lo fundamental es adquirir una confianza ilimitada en Dios: no estamos solos. Dios estuvo con Abraham, con Isaac, con Jacob, con Moisés, con Josué, con Gedeón, con David, con Isaías y con Jeremías; todos eran hombres conscientes de sus limitaciones que abrieron su corazón a la acción de Dios. Cristo es el Amigo fiel de nuestras almas: «Yo estaré con vosotros día tras día, hasta el fin del mundo» (Mt 28, 20). Tampoco estamos solos porque el Regnum Christi no es una realidad aislada: somos parte de la gran familia de Dios, valoramos las demás fuerzas vivas de la Iglesia y contamos con la guía de nuestros pastores, los obispos. Sigamos rezando unos por otros para amar cada día más a nuestra Iglesia Católica. En el día de Cristo Rey nos encomendamos a María, espejo de la Iglesia, para que, como en Caná, nuestra vida consista en «hacer lo que Él nos diga» (Jn 2, 5).

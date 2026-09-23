@@ -19,15 +19,15 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[naciones]] — el judío y el griego
 - [[nombre]] — el nombre de judío como título de gloria
 - [[ley]] — los privilegios de la ley
-- [[circuncision]] — los privilegios de la circuncisión
+- [[circuncisión]] — los privilegios de la circuncisión
 - [[fe]] — la fe como fuente de la justicia
 - [[justicia]] — la justicia por la fe
-- [[reconciliacion]] — la reconciliación de las naciones
+- [[reconciliación]] — la reconciliación de las naciones
 - [[israel]] — Israel endurecido
 - [[endurecimiento]] — el endurecimiento de Israel
 - [[incredulidad]] — la incredulidad del mundo
 - [[mundo]] — el mundo perseguidor
-- [[paraclito]] — el testimonio del Paráclito
+- [[paráclito]] — el testimonio del Paráclito
 
 ## Contenido
 
@@ -39,13 +39,13 @@ Para Pablo como para los profetas se divide la humanidad en dos grupos: el puebl
 
 ### Las ventajas del judío.
 
-El [[nombre|nombre]] mismo de judío es un título de gloria *Rom 2,17*, sin duda según la etimología del nombre de Judá: «daré gloria a Yahveh» *Gen 29,35* y en virtud de la bendición de Jacob: «tus hermanos te alabarán» *49,8*. En realidad, en él recaen los privilegios de la [[ley|ley]] y de la [[circuncision|circuncisión]] *Rom 2,17-29*. Título de orgullo que reivindica Pablo: «Nosotros somos judíos de nacimiento, no pecadores procedentes de la gentilidad» *Gal 2,15*; esta exclamación ayuda a comprender la oración del judío piadoso, que cada día da gracias a Dios por no haberlo hecho *goy*, pagano. Así Pablo, con todo lo cristiano que es, proclama solemnemente en Jerusalén: «Yo soy judío» *Act 22,3*, de la misma manera que se dice israelita *Rom 11,1* *Flp 3,5*. Apolo, convertido a Cristo, es designado por Lucas como «judío» *Act 18,24*.
+El [[nombre|nombre]] mismo de judío es un título de gloria *Rom 2,17*, sin duda según la etimología del nombre de Judá: «daré gloria a Yahveh» *Gen 29,35* y en virtud de la bendición de Jacob: «tus hermanos te alabarán» *49,8*. En realidad, en él recaen los privilegios de la [[ley|ley]] y de la [[circuncisión|circuncisión]] *Rom 2,17-29*. Título de orgullo que reivindica Pablo: «Nosotros somos judíos de nacimiento, no pecadores procedentes de la gentilidad» *Gal 2,15*; esta exclamación ayuda a comprender la oración del judío piadoso, que cada día da gracias a Dios por no haberlo hecho *goy*, pagano. Así Pablo, con todo lo cristiano que es, proclama solemnemente en Jerusalén: «Yo soy judío» *Act 22,3*, de la misma manera que se dice israelita *Rom 11,1* *Flp 3,5*. Apolo, convertido a Cristo, es designado por Lucas como «judío» *Act 18,24*.
 
-Los dones de Dios son grandes bajo todos los aspectos, pero... ¡nobleza obliga! Pablo acusa al judío de no practicar la ley que enseña a los otros y, a fin de cuentas, de hacer que se blasfeme el nombre de Dios entre las naciones *Rom 2,17-24* en lugar de hacer que se le alabe; el privilegio de la [[circuncision|circuncisión]] sólo vale si es uno circunciso de corazón, como lo reclamaban los profetas *Jer 4,4* *Dt 30,6* *Lev 26,41*. El judío incrédulo es sólo judío en apariencia *Rom 2,28*, usurpa este nombre glorioso *Ap 2,9* *3,9*. El cristiano es el verdadero circunciso *Flp 3,2*, el «judío por dentro» *Rom 2,29*. Al final de la requisitoria de Pablo parecen abolidos los privilegios del judío: todos son igualmente pecadores *3,10*.
+Los dones de Dios son grandes bajo todos los aspectos, pero... ¡nobleza obliga! Pablo acusa al judío de no practicar la ley que enseña a los otros y, a fin de cuentas, de hacer que se blasfeme el nombre de Dios entre las naciones *Rom 2,17-24* en lugar de hacer que se le alabe; el privilegio de la [[circuncisión|circuncisión]] sólo vale si es uno circunciso de corazón, como lo reclamaban los profetas *Jer 4,4* *Dt 30,6* *Lev 26,41*. El judío incrédulo es sólo judío en apariencia *Rom 2,28*, usurpa este nombre glorioso *Ap 2,9* *3,9*. El cristiano es el verdadero circunciso *Flp 3,2*, el «judío por dentro» *Rom 2,29*. Al final de la requisitoria de Pablo parecen abolidos los privilegios del judío: todos son igualmente pecadores *3,10*.
 
 ### El pagano convertido y el judío incrédulo.
 
-Sin embargo, es compleja la situación respectiva de las dos fracciones de la humanidad. Por una parte, toda diferencia queda nivelada, no sólo en el plano del pecado, sino también en el de la gracia: «Ya no hay judío ni griego» *Gal 3,28*, pues en Cristo todos formamos un solo ser: la [[fe|fe]], no la práctica de la ley, es la fuente de la [[justicia|justicia]] *Col 3,11*. En estas condiciones la [[reconciliacion|reconciliación]] de las naciones, anunciada por los profetas, puede efectuarse: «Dios es también Dios de los paganos» *Rom 3,29* *10,12*.
+Sin embargo, es compleja la situación respectiva de las dos fracciones de la humanidad. Por una parte, toda diferencia queda nivelada, no sólo en el plano del pecado, sino también en el de la gracia: «Ya no hay judío ni griego» *Gal 3,28*, pues en Cristo todos formamos un solo ser: la [[fe|fe]], no la práctica de la ley, es la fuente de la [[justicia|justicia]] *Col 3,11*. En estas condiciones la [[reconciliación|reconciliación]] de las naciones, anunciada por los profetas, puede efectuarse: «Dios es también Dios de los paganos» *Rom 3,29* *10,12*.
 
 Por otra parte, Pablo mantiene celosamente la prioridad del judío frente al pagano, tanto para el castigo como para la recompensa: «al judío primero, luego al griego» *Rom 2,9s* *1,16* *Mt 15,24 p* *Act 13,46* *18,6*, tribulación o gloria. La misma prioridad se recuerda al pagano convertido que pudiera verse tentado a pensar que ha asumido la sucesión del judío en el designio de Dios. La «superioridad» del judío *Rom 3,1* persiste, pues los dones de Dios son irrevocables *11,29*. Los judíos convertidos constituyen las «ramas naturales» del olivo, al paso que los cristianos de origen pagano han sido «injertados contra la naturaleza» *11,24*. [[israel|Israel]], aún [[endurecimiento|endurecido]], tiene su papel en la Iglesia de Cristo: es un «fallo» que debe hacer «sentir gran tristeza y un dolor incesante en el corazón» de todo creyente *9,2*.
 
@@ -55,4 +55,4 @@ Los evangelios, el cuarto como los otros, hablan de los judíos contemporáneos 
 
 En su evangelio se habla de las costumbres y de las fiestas judías como de las de un pueblo extranjero *Jn 2,6.13* *5,1* *6,4* *7,2.*; a diferencia de Nicodemo *7,51*, Jesús habla a los judíos como a extranjeros *8,17* *10,34* *7,19.22*; ordinariamente designa el término a adversarios de Jesús *2,18.20* *5,16.18* *6,41.*; y, viceversa, quienquiera que pertenezca a Jesús o se interese verdaderamente por él es tratado como enemigo de los judíos, aunque sea de origen judío (*5,15* *7,13* comp. con *7,11* *1,19*). «Los judíos» acaban por ser, en los escritos de Juan, un tipo de la incredulidad, lo cual implica un peligro de utilización antisemita del cuarto evangelio.
 
-Esto, sin embargo, no debiera suceder, pues en la medida en que se trata de los judíos que participaron en la crucifixión de Jesús, éstos han sido relevados por el [[mundo|mundo]], que se ha hecho a su vez perseguidor de los discípulos de Cristo. Así como Jesús fue constituido juez de los judíos *19,13* que no quisieron reconocerle por su rey *19,14.19-22*, así el cristiano debe juzgar al mundo que quiere juzgarle: para esto oye sin cesar el testimonio del [[paraclito|Paráclito]], defensor de Jesús.
+Esto, sin embargo, no debiera suceder, pues en la medida en que se trata de los judíos que participaron en la crucifixión de Jesús, éstos han sido relevados por el [[mundo|mundo]], que se ha hecho a su vez perseguidor de los discípulos de Cristo. Así como Jesús fue constituido juez de los judíos *19,13* que no quisieron reconocerle por su rey *19,14.19-22*, así el cristiano debe juzgar al mundo que quiere juzgarle: para esto oye sin cesar el testimonio del [[paráclito|Paráclito]], defensor de Jesús.

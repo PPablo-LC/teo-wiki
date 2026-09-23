@@ -15,18 +15,18 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[hospitalidad]] — la comida como muestra de cortesía y hospitalidad
-- [[accion_de_gracias]] — la comida como acción de gracias
+- [[acción_de_gracias]] — la comida como acción de gracias
 - [[gozo]] — el gozo de la comida
-- [[eucaristia]] — la comida que inaugura la nueva alianza
+- [[eucaristía]] — la comida que inaugura la nueva alianza
 - [[alianza]] — la comida sagrada como rito que confirma la alianza
 - [[sacrificio]] — la comida sacrificial
 - [[fiestas]] — la fiesta regocijada en presencia de Yahveh
 - [[alabanza]] — el sacrificio de alabanza, fruto de los labios
-- [[bendicion]] — Jesús pronunciando la bendición
+- [[bendición]] — Jesús pronunciando la bendición
 - [[alimento]] — la carne de Cristo como alimento
 - [[pan]] — el pan verdadero ofrecido por la vida del mundo
-- [[mana]] — el maná sustituido por la carne de Cristo
-- [[comunion]] — la comunión fraterna
+- [[maná]] — el maná sustituido por la carne de Cristo
+- [[comunión]] — la comunión fraterna
 - [[bienaventuranza]] — la bienaventuranza prometida a los discípulos
 - [[vestido]] — el vestido nupcial del banquete
 - [[velar]] — la fidelidad en velar como condición del festín

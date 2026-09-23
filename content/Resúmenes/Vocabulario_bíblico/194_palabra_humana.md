@@ -17,10 +17,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[lengua]] — la lengua que causa víctimas
 - [[palabra_de_dios]] — la palabra de hombre que expresa la palabra de Dios
 - [[silencio]] — tiempo de callar
-- [[sabiduria]] — la sabiduría en el hablar
-- [[corazon]] — la boca habla de la abundancia del corazón
-- [[espiritu]] — hablar bajo la acción del Espíritu Santo
-- [[maldicion]] — la palabra de mal augurio
+- [[sabiduría]] — la sabiduría en el hablar
+- [[corazón]] — la boca habla de la abundancia del corazón
+- [[espíritu]] — hablar bajo la acción del Espíritu Santo
+- [[maldición]] — la palabra de mal augurio
 - [[pureza]] — las palabras impuras
 - [[verdad]] — la sinceridad que hace inútiles los juramentos
 

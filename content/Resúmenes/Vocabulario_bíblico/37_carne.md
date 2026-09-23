@@ -17,9 +17,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[cuerpo]] — la carne como cuerpo
 - [[hombre]] — la carne designando al hombre en su totalidad concreta
 - [[alma]] — el alma como término paralelo para designar a la persona
-- [[espiritu]] — la carne frente al espíritu
+- [[espíritu]] — la carne frente al espíritu
 - [[dios]] — la criatura frente a Dios
-- [[corazon]] — el corazón de carne prometido por Ezequiel
+- [[corazón]] — el corazón de carne prometido por Ezequiel
 - [[hijo]] — el Hijo de Dios asumiendo la carne
 - [[mundo]] — el mundo calificado de pecador
 - [[confianza]] — la confianza pecadora en la carne

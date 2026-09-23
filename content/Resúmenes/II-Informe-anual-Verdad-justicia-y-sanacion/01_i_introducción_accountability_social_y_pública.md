@@ -17,7 +17,7 @@ tags: ["resumen", "espiritualidad_legionaria", "informe_anual", "vjys_ii", "prot
 - [[conversión_reparación_proteger_y_sanar]] — Documentos capitulares 2020
 - [[ambientes_seguros]] — Política internacional, estándares Praesidium, acreditación externa
 - [[praesidium]] — Empresa experta en acreditación de ambientes seguros
-- [[eshma]] — Institución independiente para acogida/atención a víctimas
+- [[eshmá]] — Institución independiente para acogida/atención a víctimas
 - [[accountability_social]] — Rendición de cuentas pública y social
 - [[centralidad_de_la_víctima]] — Víctimas como centro de los caminos de sanación
 - [[reparación_integral]] — Programa sistemático de reparación (económica + acompañamiento)

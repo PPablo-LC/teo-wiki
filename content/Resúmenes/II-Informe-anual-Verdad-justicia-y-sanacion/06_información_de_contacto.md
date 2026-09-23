@@ -13,7 +13,7 @@ tags: ["resumen", "espiritualidad_legionaria", "informe_anual", "vjys_ii", "cana
 ## Conceptos básicos referenciados
 
 - [[canales_denuncia]] — Vías institucionales e independientes para reportar abusos
-- [[eshma]] — Institución independiente atención víctimas (web, email, teléfono/WhatsApp/Telegram)
+- [[eshmá]] — Institución independiente atención víctimas (web, email, teléfono/WhatsApp/Telegram)
 - [[0abusos.org]] — Portal oficial Congregación para denuncias, informes, estándares, acreditación
 - [[transparencia_institucional]] — Publicación de contactos para accesibilidad y rendición cuentas
 

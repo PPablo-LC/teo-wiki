@@ -98,7 +98,7 @@ León XIV manifestó su devoción mariana en la Oración a la Virgen de la Almud
 
 ### Según Don y Misterio (DyM)
 
-La [[virgen_maría]] ocupa un lugar central en la vida sacerdotal de Juan Pablo II, quien asumió el lema *Totus Tuus* desde su ordenación episcopal, tomado del Tratado de la Verdadera Devoción de San Luis María Grignion de Montfort [DyM, VI]. El Papa identifica a María como «la Madre de mi sacerdocio» [DyM, VI]. La devoción mariana no es un complemento sino dimensión constitutiva de la [[espiritualidad_sacerdotal]]: María acompaña al sacerdote como estuvo al pie de la Cruz y en el Cenáculo [DyM, VI].
+La **virgen maría** ocupa un lugar central en la vida sacerdotal de Juan Pablo II, quien asumió el lema *Totus Tuus* desde su ordenación episcopal, tomado del Tratado de la Verdadera Devoción de San Luis María Grignion de Montfort [DyM, VI]. El Papa identifica a María como «la Madre de mi sacerdocio» [DyM, VI]. La devoción mariana no es un complemento sino dimensión constitutiva de la [[espiritualidad_sacerdotal]]: María acompaña al sacerdote como estuvo al pie de la Cruz y en el Cenáculo [DyM, VI].
 
 ### Según María, José y la vida oculta de Jesús (MJV)
 

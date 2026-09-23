@@ -13,7 +13,7 @@ timestamp: 2026-07-01
 
 ## Definición
 
-El título **sumo sacerdote** se aplica a [[Jesucristo]] como el único y eterno mediador entre Dios y los hombres. La carta a los Hebreos desarrolla esta figura de manera central: Cristo es «sumo sacerdote según el orden de [[melquisedec]]» (Heb 4,14–5,10).
+El título **sumo sacerdote** se aplica a [[jesucristo]] como el único y eterno mediador entre Dios y los hombres. La carta a los Hebreos desarrolla esta figura de manera central: Cristo es «sumo sacerdote según el orden de [[melquisedec]]» (Heb 4,14–5,10).
 
 ## Desarrollo doctrinal
 

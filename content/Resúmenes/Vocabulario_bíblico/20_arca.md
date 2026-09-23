@@ -22,8 +22,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[alianza]] — el arca como arca de alianza y del testimonio
 - [[palabra_de_dios]] — el arca como lugar de la palabra de Dios
 - [[ley]] — las tablas de la ley contenidas en el arca
-- [[moises]] — Moisés consultando a Yahveh desde el arca
-- [[jerusalen]] — la nueva Jerusalén como trono de Yahveh
+- [[moisés]] — Moisés consultando a Yahveh desde el arca
+- [[jerusalén]] — la nueva Jerusalén como trono de Yahveh
 - [[naciones]] — Jerusalén como centro de las naciones
 - [[gloria]] — la «gloria» que abandona el templo para trasladarse a los deportados
 - [[resto]] — la comunidad santa como resto fiel

@@ -19,11 +19,11 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fe]] — la fe, secreto de la obediencia
 - [[servir]] — el servicio de Dios
 - [[gozo]] — el gozo de la obediencia
-- [[creacion]] — la creación que obedece
+- [[creación]] — la creación que obedece
 - [[demonios]] — los demonios obedecen a Cristo
 - [[temor]] — el temor religioso
 - [[silencio]] — el silencio del universo
-- [[accion_de_gracias]] — la acción de gracias
+- [[acción_de_gracias]] — la acción de gracias
 - [[voluntad_de_dios]] — la sumisión a la voluntad de Dios
 - [[prueba_y_tentación]] — la obediencia como prueba
 - [[alianza]] — la alianza y la obediencia
@@ -36,7 +36,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[autoridad]] — las autoridades humanas
 - [[cruz]] — la obediencia hasta la cruz
 - [[sacrificio]] — el sacrificio más precioso
-- [[senor]] — Jesús constituido Señor
+- [[señor]] — Jesús constituido Señor
 - [[iglesia]] — la obediencia a la Iglesia
 - [[misterio]] — el misterio de la salvación
 - [[liberación_y_libertad]] — la libertad humana
@@ -48,7 +48,7 @@ La obediencia, lejos de ser una sujeción que se soporta y una sumisión pasiva,
 
 ## I. La creación obedece a Dios
 
-En la [[creacion|creación]] misma, fuera del hombre, aparece como un presentimiento de esta obediencia y de este gozo. Que el Señor ponga un garfio a Behemot *Job 40,24* o divida a Rahab *Sal 89,11*, es prueba de su dominio soberano: que Jesús calme la tempestad o expulse a los [[demonios|demonios]] es prueba de que, al igual que los demonios, «los vientos y el mar le obedecen» *Mt 8,27 p* *Mc 1,27*, y estos gestos de poder provocan un [[temor|temor]] religioso; pero lo que, más que el [[silencio|silencio]] del universo que reconoce a su dueño, maravilla a la Biblia y la hace prorrumpir en [[accion_de_gracias|acciones]] de gracias, es el ímpetu gozoso con que las criaturas acuden a la voz de Dios: «Los astros brillan... complacidos; él los llama y dicen: 'Henos aquí' y brillan con gozo para el que los creó» *Bar 3,34s* *Sal 104,4* *Eclo 42,23* *43,13-26*. Ante este ardor con que las más bellas de las criaturas cumplen la misión que Dios les asigna en el universo, la humanidad «encerrada en la desobediencia» *Rom 11,32* evoca inconsciente y dolorosamente lo que habría debido ser su obediencia. Y Dios le hace entrever y esperar lo que puede ser la obediencia espontánea y unánime de la creación liberada por la obediencia de su Hijo *Rom 8,19-22*.
+En la [[creación|creación]] misma, fuera del hombre, aparece como un presentimiento de esta obediencia y de este gozo. Que el Señor ponga un garfio a Behemot *Job 40,24* o divida a Rahab *Sal 89,11*, es prueba de su dominio soberano: que Jesús calme la tempestad o expulse a los [[demonios|demonios]] es prueba de que, al igual que los demonios, «los vientos y el mar le obedecen» *Mt 8,27 p* *Mc 1,27*, y estos gestos de poder provocan un [[temor|temor]] religioso; pero lo que, más que el [[silencio|silencio]] del universo que reconoce a su dueño, maravilla a la Biblia y la hace prorrumpir en [[acción_de_gracias|acciones]] de gracias, es el ímpetu gozoso con que las criaturas acuden a la voz de Dios: «Los astros brillan... complacidos; él los llama y dicen: 'Henos aquí' y brillan con gozo para el que los creó» *Bar 3,34s* *Sal 104,4* *Eclo 42,23* *43,13-26*. Ante este ardor con que las más bellas de las criaturas cumplen la misión que Dios les asigna en el universo, la humanidad «encerrada en la desobediencia» *Rom 11,32* evoca inconsciente y dolorosamente lo que habría debido ser su obediencia. Y Dios le hace entrever y esperar lo que puede ser la obediencia espontánea y unánime de la creación liberada por la obediencia de su Hijo *Rom 8,19-22*.
 
 ## II. El drama de la desobediencia
 
@@ -72,4 +72,4 @@ Pero nadie obedece a Dios. Israel es «una casa rebelde» *Ez 2,5*; son «hijos 
 
 ## IV. La obediencia del cristiano
 
-Jesucristo, que por su obediencia fue constituido «el [[senor|Señor]]» *Flp 2,11*, revestido de «todo poder en el cielo y en la tierra» *Mt 28,18*, tiene derecho a la obediencia de toda criatura. Por él, por la obediencia a su Evangelio y a la palabra de su [[iglesia|Iglesia]] *2Tes 3,14* *Mt 10,40 p*, alcanza el hombre a Dios en la fe *Act 6,7* *Rom 1,5* *10,3* *2Tes 1,8*, escapa a la desobediencia original y entra en el [[misterio|misterio]] de la salvación: Jesucristo es la única [[ley|ley]] del cristiano *1Cor 9,21*. Esta ley comprende también la obediencia a las autoridades humanas legítimas: padres *Col 3,20*, maestros *3,22*, esposos *3,18*, poderes públicos, reconociendo en todas partes la «autoridad de Dios» *Rom 13,1-7*. Pero como el cristiano no obedece nunca sino para [[servir|servir]] a Dios, es capaz, si es preciso, de enfrentarse con una orden injusta y «obedecer a Dios más que a los hombres» *Act 4,19*.
+Jesucristo, que por su obediencia fue constituido «el [[señor|Señor]]» *Flp 2,11*, revestido de «todo poder en el cielo y en la tierra» *Mt 28,18*, tiene derecho a la obediencia de toda criatura. Por él, por la obediencia a su Evangelio y a la palabra de su [[iglesia|Iglesia]] *2Tes 3,14* *Mt 10,40 p*, alcanza el hombre a Dios en la fe *Act 6,7* *Rom 1,5* *10,3* *2Tes 1,8*, escapa a la desobediencia original y entra en el [[misterio|misterio]] de la salvación: Jesucristo es la única [[ley|ley]] del cristiano *1Cor 9,21*. Esta ley comprende también la obediencia a las autoridades humanas legítimas: padres *Col 3,20*, maestros *3,22*, esposos *3,18*, poderes públicos, reconociendo en todas partes la «autoridad de Dios» *Rom 13,1-7*. Pero como el cristiano no obedece nunca sino para [[servir|servir]] a Dios, es capaz, si es preciso, de enfrentarse con una orden injusta y «obedecer a Dios más que a los hombres» *Act 4,19*.

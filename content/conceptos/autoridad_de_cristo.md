@@ -66,14 +66,14 @@ El Concilio Vaticano II insiste en que la autoridad en la Iglesia es servicio, n
 
 ## Relaciones doctrinales
 
-La autoridad de Cristo se conecta directamente con su condición de [[cristo_cabeza]], pues la autoridad es un aspecto del poder de la Cabeza sobre el cuerpo. Se vincula con la [[gracia_capital]], ya que la autoridad se ejerce en parte por la comunicación de la gracia. Se relaciona con la eclesiología del [[cuerpo_mistico_de_cristo]] y la estructura de la Iglesia, pues toda autoridad eclesial participa de la de Cristo. Asimismo, conecta con los sacramentos, cuya eficacia deriva de la autoridad de Cristo que los instituyó.
+La autoridad de Cristo se conecta directamente con su condición de [[cristo_cabeza]], pues la autoridad es un aspecto del poder de la Cabeza sobre el cuerpo. Se vincula con la [[gracia_capital]], ya que la autoridad se ejerce en parte por la comunicación de la gracia. Se relaciona con la eclesiología del [[cuerpo_místico_de_cristo]] y la estructura de la Iglesia, pues toda autoridad eclesial participa de la de Cristo. Asimismo, conecta con los sacramentos, cuya eficacia deriva de la autoridad de Cristo que los instituyó.
 
 ## Ver también
 
 - [[cristo_cabeza]]
 - [[gracia_capital]]
-- [[cuerpo_mistico_de_cristo]]
-- [[comunion_de_los_santos]]
+- [[cuerpo_místico_de_cristo]]
+- [[comunión_de_los_santos]]
 
 ## Referencias
 

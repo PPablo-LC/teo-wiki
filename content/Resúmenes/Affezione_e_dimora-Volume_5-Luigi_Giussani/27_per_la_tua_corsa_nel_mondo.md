@@ -12,7 +12,7 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ## Conceptos básicos referenciados
 
-- [[dimora]] — la casa como lugar que Dios crea objetivamente y en el que pone al creyente para que aprenda y se lance a la misión
+- [[affezione_e_dimora]] — la casa como lugar que Dios crea objetivamente y en el que pone al creyente para que aprenda y se lance a la misión
 - [[templo]] — el templo como la porción de espacio y tiempo donde la misericordia de Dios se hace sensible
 - [[dignidad_humana]] — dignidad ontológicamente perfecta derivada de la presencia de Dios en la comunidad
 - [[misión]] — la casa como punto de partida para la carrera del creyente en el universo, hacia los confines de la tierra

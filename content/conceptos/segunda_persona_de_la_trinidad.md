@@ -12,7 +12,7 @@ timestamp: 2026-07-11
 
 ## Definición
 
-La Segunda Persona de la [[Santísima_Trinidad]] es el Hijo eterno del Padre, llamado Verbo (*Verbum*) o Logos. Procede del Padre por generación intelectual: es la Concepción perfecta con la que el Padre se conoce a sí mismo, concepción que subsiste como Persona. Es consubstantial (*homoousios*) y coeterno con el Padre, nacido (*generatus*), no hecho (*factus*). Su relación personal con el Padre es la filiación divina (SmTh Iª q.33 a.2). Es la perfecta Imagen del Padre, porque procede por vía de intelecto, que es la más noble de las procesiones personales en Dios.
+La Segunda Persona de la [[santísima_trinidad]] es el Hijo eterno del Padre, llamado Verbo (*Verbum*) o Logos. Procede del Padre por generación intelectual: es la Concepción perfecta con la que el Padre se conoce a sí mismo, concepción que subsiste como Persona. Es consubstantial (*homoousios*) y coeterno con el Padre, nacido (*generatus*), no hecho (*factus*). Su relación personal con el Padre es la filiación divina (SmTh Iª q.33 a.2). Es la perfecta Imagen del Padre, porque procede por vía de intelecto, que es la más noble de las procesiones personales en Dios.
 
 ## Desarrollo doctrinal
 
@@ -79,11 +79,11 @@ El Concilio afirma que «la economía de la salvación, dispuesta por Dios, reve
 
 ## Relaciones doctrinales
 
-La Segunda Persona se conecta con la [[Santísima_Trinidad]] (misterio trinitario), la [[primera_persona_de_la_trinidad]] (el Padre que engendra), la [[tercera_persona_de_la_trinidad]] (el Espíritu Santo que procede), la [[consubstancia]] (igualdad de naturaleza), la [[generación_divina]] (el modo de engendramiento), el [[verbo_mental]] (analogía con el conocimiento intelectual), la [[encarnación]] (el Verbo se hace carne), la [[cristología]] (Cristo, verdadero Dios y verdadero hombre), la [[inmanencia_divina]] (Dios en las cosas) y la [[procesión_del_espíritu_santo]] (la otra procesión trinitaria).
+La Segunda Persona se conecta con la [[santísima_trinidad]] (misterio trinitario), la [[primera_persona_de_la_trinidad]] (el Padre que engendra), la [[tercera_persona_de_la_trinidad]] (el Espíritu Santo que procede), la [[consubstancia]] (igualdad de naturaleza), la [[generación_divina]] (el modo de engendramiento), el [[verbo_mental]] (analogía con el conocimiento intelectual), la [[encarnación]] (el Verbo se hace carne), la [[cristología]] (Cristo, verdadero Dios y verdadero hombre), la [[inmanencia_divina]] (Dios en las cosas) y la [[procesión_del_espíritu_santo]] (la otra procesión trinitaria).
 
 ## Ver también
 
-[[Santísima_Trinidad]], [[primera_persona_de_la_trinidad]], [[tercera_persona_de_la_trinidad]], [[generación_divina]], [[verbo_mental]], [[consubstancia]], [[cristología]], [[encarnación]]
+[[santísima_trinidad]], [[primera_persona_de_la_trinidad]], [[tercera_persona_de_la_trinidad]], [[generación_divina]], [[verbo_mental]], [[consubstancia]], [[cristología]], [[encarnación]]
 
 ## Referencias
 

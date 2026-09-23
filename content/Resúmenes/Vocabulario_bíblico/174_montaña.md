@@ -24,14 +24,14 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[ira]] — el día de la ira
 - [[fuego]] — el fuego divino
 - [[rostro]] — el rostro del Señor
-- [[creacion]] — la creación entera
+- [[creación]] — la creación entera
 - [[gloria]] — la gloria de Dios
 - [[altar]] — el altar, pequeña altura
 - [[culto]] — la centralización del culto
 - [[permanecer]] — permanecer con el Señor
 - [[naciones]] — las naciones que afluirán
 - [[extranjero]] — el festín para los extranjeros
-- [[jerusalen]] — Jerusalén
+- [[jerusalén]] — Jerusalén
 - [[soledad]] — la soledad
 - [[desierto]] — la soledad desértica
 - [[memoria]] — la memoria mantenida viva
@@ -59,7 +59,7 @@ La montaña, elevada por encima de las llanuras, asoladas con frecuencia por las
 
 ## II. Los montes privilegiados
 
-Ciertas montañas, aunque abocadas a una transformación total, como la [[creacion|creación]] entera, fueron reservadas para una función duradera y gloriosa.
+Ciertas montañas, aunque abocadas a una transformación total, como la [[creación|creación]] entera, fueron reservadas para una función duradera y gloriosa.
 
 ### 1. «La montaña de Dios» u Horeb, en el Sinaí
 
@@ -77,7 +77,7 @@ El hombre no debe por tanto decir: «Yo escalaré los cielos, yo erigiré mi tro
 
 Al final de los tiempos ¿qué sucede de estos montes consagrados por Dios mismo? En la literatura escatológica no halla ya lugar el Sinaí; no es ya sino el lugar de otro tiempo, donde fueron dadas «las palabras de vida» *Act 7,38* y de donde partió Dios para dirigirse al lugar de su verdadero santuario, Sión *Sal 68,16ss*.
 
-A diferencia del Sinaí, que se sumerge en el pasado, el monte Sión conserva efectivamente un valor escatológico. «La montaña de la casa de Yahveh se establecerá en la cima de las montañas y se elevará por encima de las colinas. Todas las [[naciones|naciones]] afluirán a ella... ¡Venid! Subamos a la montaña de Yahveh!» *Is 2,2s*, esta montaña santa *11,9* *Dan 9,16*. Allí será rey Yahveh *Is 24,23*, allí preparará un gran festín *25,6-10* para los dispersos al fin reunidos *27,13* *66,20*, e incluso para los [[extranjero|extranjeros]] *56,6s*. En efecto, mientras que el país será transformado en llanura, [[jerusalen|Jerusalén]] será realzada, aunque permaneciendo en su puesto *Zac 14,10* y todos deberán «subir» allá para siempre *14,16ss*.
+A diferencia del Sinaí, que se sumerge en el pasado, el monte Sión conserva efectivamente un valor escatológico. «La montaña de la casa de Yahveh se establecerá en la cima de las montañas y se elevará por encima de las colinas. Todas las [[naciones|naciones]] afluirán a ella... ¡Venid! Subamos a la montaña de Yahveh!» *Is 2,2s*, esta montaña santa *11,9* *Dan 9,16*. Allí será rey Yahveh *Is 24,23*, allí preparará un gran festín *25,6-10* para los dispersos al fin reunidos *27,13* *66,20*, e incluso para los [[extranjero|extranjeros]] *56,6s*. En efecto, mientras que el país será transformado en llanura, [[jerusalén|Jerusalén]] será realzada, aunque permaneciendo en su puesto *Zac 14,10* y todos deberán «subir» allá para siempre *14,16ss*.
 
 ## III. Cristo y las montañas
 
@@ -91,4 +91,4 @@ Para Lucas, la «subida» a Jerusalén representa el [[camino|camino]] de la glo
 
 ### 2. Los otros escritos del NT
 
-Los otros escritos del NT no ofrecen enseñanza unificada sobre *las montañas privilegiadas del AT*. El Sinaí es asimilado por la polémica paulina a la casa de servidumbre *Gal 4,24ss* o sirve para dar realce, por contraste, al monte Sión, al que ahora es ya posible acercarse *Heb 12,18.22*. En el mismo sentido, el Apocalipsis presenta al cordero que al fin de los tiempos está sobre el monte Sión *Ap 14,1*; no obstante, en otro lugar ejerce una crítica radical de este santo lugar: la montaña no es, como en la visión de Ezequiel, el lugar sobre el que parece estar construida la ciudad *Ez 40,2*, sino únicamente un observatorio desde el que se contempla a la [[jerusalen|Jerusalén]] que desciende del cielo *Ap 21,10*.
+Los otros escritos del NT no ofrecen enseñanza unificada sobre *las montañas privilegiadas del AT*. El Sinaí es asimilado por la polémica paulina a la casa de servidumbre *Gal 4,24ss* o sirve para dar realce, por contraste, al monte Sión, al que ahora es ya posible acercarse *Heb 12,18.22*. En el mismo sentido, el Apocalipsis presenta al cordero que al fin de los tiempos está sobre el monte Sión *Ap 14,1*; no obstante, en otro lugar ejerce una crítica radical de este santo lugar: la montaña no es, como en la visión de Ezequiel, el lugar sobre el que parece estar construida la ciudad *Ez 40,2*, sino únicamente un observatorio desde el que se contempla a la [[jerusalén|Jerusalén]] que desciende del cielo *Ap 21,10*.

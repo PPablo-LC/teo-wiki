@@ -137,7 +137,7 @@ del mundo greco-romano».
 ## Ver también
 
 [[eucaristía]], [[liturgia_eucarística]], [[comunión]],
-[[comunión_bajo_una_sola_especie]], [[mesa_del_señor]],
+[[comunion_bajo_una_sola_especie]], [[mesa_del_señor]],
 [[liturgia_encarnacional]], [[diez_principios_de_buena_liturgia]]
 
 ## Referencias

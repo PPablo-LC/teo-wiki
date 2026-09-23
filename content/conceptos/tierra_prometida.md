@@ -56,11 +56,11 @@ Royo Marín sitúa la terra prometida como figura de la perfección cristiana y 
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[promesas_de_dios]], la [[alianza]], la [[herencia]], el [[éxodo]], la [[entrada_en_la_tierra]], la [[canán]], el [[descanso_sabático]], la [[nueva_jerusalén]], la [[historia_de_la_salvación]] y la [[escatología]].
+Se relaciona con la [[promesas_de_dios]], la [[alianza]], la [[herencia]], el [[éxodo]], la [[entrada_en_la_tierra]], la [[canán]], el [[descanso_sabático]], la [[nueva_jerusalen]], la [[historia_de_la_salvación]] y la [[escatología]].
 
 ## Ver también
 
-[[promesas_de_dios]], [[alianza]], [[herencia]], [[éxodo]], [[canán]], [[nueva_jerusalén]], [[historia_de_la_salvación]], [[descanso_sabático]]
+[[promesas_de_dios]], [[alianza]], [[herencia]], [[éxodo]], [[canán]], [[nueva_jerusalen]], [[historia_de_la_salvación]], [[descanso_sabático]]
 
 ## Referencias
 

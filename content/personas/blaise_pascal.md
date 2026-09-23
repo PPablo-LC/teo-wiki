@@ -37,7 +37,7 @@ Parte de la teología católica ha criticado el tono austero de la apologética 
 
 ## Relaciones
 
-[[fe_y_razón]], [[apologética]], [[jansenismo]], [[existencia_de_dios]], [[razón]], [[corazón]], [[condición_humana]], [[blaise_pascal]]
+[[fe_y_razón]], [[apologética]], [[jansenismo]], [[existencia_de_dios]], [[razón]], [[corazón]], [[condición_humana]], **blaise pascal**
 
 ## Ver también
 

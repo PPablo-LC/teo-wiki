@@ -16,13 +16,13 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[carisma]] — la exhortación figura en las listas de carismas
 - [[designio_de_dios]] — el designio divino de la salvación
-- [[salvacion]] — la salvación anunciada con exhortación
-- [[corazon]] — dirigirse al corazón
+- [[salvación]] — la salvación anunciada con exhortación
+- [[corazón]] — dirigirse al corazón
 - [[penitencia_y_conversión]] — invitar a convertirse
 - [[fidelidad]] — la animosa fidelidad para con Yahveh
 - [[reino_de_dios]] — el mensaje del reino
 - [[predicar]] — no se predica sin exhortar
-- [[persecucion]] — exhortación en las persecuciones
+- [[persecución]] — exhortación en las persecuciones
 
 ## Contenido
 
@@ -30,7 +30,7 @@ La exhortación (gr. *paraklesis*) figura una sola vez *Rom 12,8* en las listas 
 
 ### AT
 
-Los testigos de Dios no se contentaron jamás con exponer fríamente el [[designio_de_dios|designio]] divino de la [[salvacion|salvación]]: los discursos sacerdotales *Dt 4-11*, proféticos *Is 1,16* y sapienciales *Prov 1-9* se dirigen al [[corazon|corazón]] no menos que al espíritu de los oyentes; los invitan, los animan, los estimulan por parte de Dios a [[escuchar]], a [[penitencia_y_conversión|convertirse]] y a [[buscar]] a Dios. Desde los tiempos antiguos hasta los Macabeos hallamos siempre el mismo movimiento, la misma llamada: no se [[predicar|predica]] sin exhortar a una animosa [[fidelidad]] para con Yahveh y para con su [[ley]] *Dt 5,32* *6,4ss* *32,45ss*, particularmente en las [[persecucion|persecuciones]] *2Mac 7,5* o en el momento de la [[guerra]] santa *2Mac 8,16* *13,12.14*.
+Los testigos de Dios no se contentaron jamás con exponer fríamente el [[designio_de_dios|designio]] divino de la [[salvación|salvación]]: los discursos sacerdotales *Dt 4-11*, proféticos *Is 1,16* y sapienciales *Prov 1-9* se dirigen al [[corazón|corazón]] no menos que al espíritu de los oyentes; los invitan, los animan, los estimulan por parte de Dios a [[escuchar]], a [[penitencia_y_conversión|convertirse]] y a [[buscar]] a Dios. Desde los tiempos antiguos hasta los Macabeos hallamos siempre el mismo movimiento, la misma llamada: no se [[predicar|predica]] sin exhortar a una animosa [[fidelidad]] para con Yahveh y para con su [[ley]] *Dt 5,32* *6,4ss* *32,45ss*, particularmente en las [[persecución|persecuciones]] *2Mac 7,5* o en el momento de la [[guerra]] santa *2Mac 8,16* *13,12.14*.
 
 ### NT
 

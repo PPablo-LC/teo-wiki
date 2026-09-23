@@ -63,7 +63,7 @@ El designio de Dios se realiza en el tiempo como una educación: Israel vivió b
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
-Tóth enseña que la [[educación]] religiosa no puede ser meramente intelectualista, sino que debe formar la voluntad y los sentimientos junto con la razón. La [[moral]] católica se fundamenta en [[dios]] como base y centro de toda educación eficaz. Señala tres errores a evitar: el intelectualismo exagerado, el voluntarismo y el sentimentalismo. La [[gracia]] divina coopera con la libertad humana, y [[jesucristo]] es el punto central de la pedagogía religiosa. La educación integral requiere atender las tres dimensiones del alma racional [JvC-Rel, Archivos 02-04].
+Tóth enseña que la **educación** religiosa no puede ser meramente intelectualista, sino que debe formar la voluntad y los sentimientos junto con la razón. La [[moral]] católica se fundamenta en [[dios]] como base y centro de toda educación eficaz. Señala tres errores a evitar: el intelectualismo exagerado, el voluntarismo y el sentimentalismo. La [[gracia]] divina coopera con la libertad humana, y [[jesucristo]] es el punto central de la pedagogía religiosa. La educación integral requiere atender las tres dimensiones del alma racional [JvC-Rel, Archivos 02-04].
 
 ### Según EAC-17 — Word on Fire Institute
 

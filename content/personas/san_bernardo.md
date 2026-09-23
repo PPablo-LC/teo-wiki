@@ -50,7 +50,19 @@ De Bernardo se destacan los siguientes aspectos:
 ## Ver también
 [[san_agustín]], [[santo_tomás_de_aquino]], [[pseudo-dionisio_areopagita]], [[erik_varden]], [[ejercicios_espirituales_2026]], [[gloria_oculta]], [[consideración]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: «el último de los grandes padres de la
+Iglesia y el primero de sus modernos doctores». En 1130 recorrió Europa
+para reconstruir la unidad herida por el cisma de Anacleto II; en 1140 se
+opuso al racionalismo de Abelardo. A este «doctor melifluo» se le debe «el
+auge de la devoción popular a la santa Humanidad de Cristo» y es
+considerado «el padre del sentimiento europeo». En las vidrieras de
+Issoudun: en el corazón de Bernardo está escrito *Jesús*, y en el corazón
+de Jesús, *Bernardo*.
+
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.8]
+- A. M. Sicari, *Así mueren los santos*, cap. VI (Rialp, 2020)
 - [TPCr, Índice Onomástico]
 - [EjEsp2026, caps. 1-11]

@@ -23,6 +23,23 @@ Juan Pablo II la presentó como testimonio de mujer mensajera de paz. Su «pasi�
 
 [[mujer]], [[paz]], [[educación_para_la_paz]], [[diálogo]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. III, la cuenta como muerta «de pasión
+ecclesial»: heredó de santa Brígida la pasión infatigable por reconducir
+gregorio XI a Roma; al estallar el gran Cisma, solo podía rezar. Había
+hecho voto de acudir cada mañana a San Pedro «para acompañar al Esposo,
+también Él abandonado», aunque debían sostenerla por la calle. Ante el
+mosaico de la barca de Giotto escribía: «me parece que este tiempo lo
+debio emplear en padecer un nuevo martirio *en la dulzura del alma mía,
+esto es, en la santa Iglesia*» (Carta 373).
+
+Derrumbada ante el mosaico, tras ocho semanas de agonía dijo: «La única
+causa de mi muerte es **mi ardiente amor por la Iglesia, que me
+consume**». Expiró a los treinta y tres años invocando la sangre de
+Jesús. Con Brígida de Suecia fue proclamada Patrona de Europa.
+
 ## Referencias
 
 - [JPII, Muj 22: El testimonio de Santa Catalina de Siena, Ángelus 12-II-1995]
+- A. M. Sicari, *Así mueren los santos*, cap. III (Rialp, 2020)

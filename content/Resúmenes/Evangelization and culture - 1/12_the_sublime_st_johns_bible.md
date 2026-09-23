@@ -23,7 +23,7 @@ tags: ["resumen", "biblia", "arte", "liturgia", "belleza"]
 
 **Materiales:** Vitela, plumas de ave, tintes artesanales, pan de oro. Siete volúmenes con expectativa de vida de 2.000+ años.
 
-**Propósito:** Reflejar la experiencia cristiana del siglo XXI y testificar la importancia perenne de la [[Biblia]] como fundamento de la espiritualidad, teología, liturgia y oración católica.
+**Propósito:** Reflejar la experiencia cristiana del siglo XXI y testificar la importancia perenne de la [[biblia]] como fundamento de la espiritualidad, teología, liturgia y oración católica.
 
 **Iluminaciones destacadas:**
 - **Wisdom Woman:** La face de una mujer mayor como rostro de la verdadera belleza

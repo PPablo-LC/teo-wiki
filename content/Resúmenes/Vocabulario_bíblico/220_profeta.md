@@ -18,7 +18,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[tradición]] — la tradición viva
 - [[escritura]] — la escritura profética
 - [[libro]] — la palabra del profeta escrita
-- [[Espíritu]] — el Espíritu de Dios que los anima
+- [[espíritu]] — el Espíritu de Dios que los anima
 - [[palabra_de_dios]] — la palabra recibida de Dios
 - [[carisma]] — el carisma profético
 - [[revelación]] — la revelación divina
@@ -26,7 +26,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[rey]] — la consagración del rey
 - [[sacerdocio]] — el sacerdocio
 - [[vocación]] — la vocación del profeta
-- [[Moisés]] — Moisés, fuente de la profecía
+- [[moisés]] — Moisés, fuente de la profecía
 - [[siervo_de_yahvé]] — el Siervo de Yahveh
 - [[misión]] — la misión del profeta
 - [[muerte]] — la muerte de los profetas
@@ -35,7 +35,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[ley]] — la ley y el profetismo
 - [[mentira]] — la mentira condenada
 - [[desierto]] — los recuerdos del desierto
-- [[exodo]] — los recuerdos del Éxodo
+- [[éxodo]] — los recuerdos del Éxodo
 - [[sacrificio]] — los sacrificios condenados
 - [[arca]] — el arca
 - [[templo]] — el templo
@@ -55,17 +55,17 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[cumplir]] — el cumplimiento de las promesas
 - [[ira]] — la ira anuncia
 - [[hipocresía]] — la hipocresía religiosa
-- [[Abraham]] — los hijos de Abraham
+- [[abraham]] — los hijos de Abraham
 - [[herencia]] — la herencia espiritual
 - [[culto]] — el culto perfecto
-- [[Jesús]] — Jesús, reasume la crítica de los profetas
-- [[Mesías]] — Jesús, el Mesías
-- [[Hijo]] — Jesús, el Hijo
+- [[jesús]] — Jesús, reasume la crítica de los profetas
+- [[mesías]] — Jesús, el Mesías
+- [[hijo]] — Jesús, el Hijo
 - [[verdad]] — Jesús, fuente de verdad
 - [[vida]] — Jesús, fuente de vida
 - [[tiempos]] — el fin de los tiempos
 - [[pentecostés]] — el día de pentecostés
-- [[lenguas]] — el don de lenguas
+- [[don_de_lenguas]] — el don de lenguas
 - [[predicar]] — la predicación
 - [[Juan]] — el profeta Juan Bautista
 
@@ -77,11 +77,11 @@ En todas partes del antiguo Oriente existen hombres que ejercen la adivinación 
 
 #### Orígenes
 
-A Abraham se da el título de profeta, pero es una transposición tardía *Gen 20,7*. En cuanto a [[moises|Moisés]], auténtico enviado divino *Ex 3-4*, es una fuente por lo que atañe a la profecía *Ex 7,1* *Num 11,17-25* y por tanto más que un profeta *Num 12,6-8*. El Deuteronomio es el único libro de la ley que le da este nombre *Dt 18,15*; después de él nadie le igualó *Dt 34,10*. Al final de la época de los jueces surgen bandas de «hijos de profetas» *1Sa 10,5s*; con ellos entra en uso la palabra *nabi* («¿llamado?»). Al lado de este título subsisten los antiguos: «vidente» *1Sa 9,9*, «hombre de Dios» *1Sa 9,7s*, título principal de Elías y sobre todo de Eliseo *2Re 4,9*. El título de *nabi* no está reservado a los profetas auténticos: al lado de ellos hay *nabim* de Baal *1Re 18,22* y hombres que hacen del profetismo un oficio *1Re 22,5s*.
+A Abraham se da el título de profeta, pero es una transposición tardía *Gen 20,7*. En cuanto a [[moisés|Moisés]], auténtico enviado divino *Ex 3-4*, es una fuente por lo que atañe a la profecía *Ex 7,1* *Num 11,17-25* y por tanto más que un profeta *Num 12,6-8*. El Deuteronomio es el único libro de la ley que le da este nombre *Dt 18,15*; después de él nadie le igualó *Dt 34,10*. Al final de la época de los jueces surgen bandas de «hijos de profetas» *1Sa 10,5s*; con ellos entra en uso la palabra *nabi* («¿llamado?»). Al lado de este título subsisten los antiguos: «vidente» *1Sa 9,9*, «hombre de Dios» *1Sa 9,7s*, título principal de Elías y sobre todo de Eliseo *2Re 4,9*. El título de *nabi* no está reservado a los profetas auténticos: al lado de ellos hay *nabim* de Baal *1Re 18,22* y hombres que hacen del profetismo un oficio *1Re 22,5s*.
 
 #### Continuidad
 
-Existió una verdadera tradición profética perpetuada por los [[discípulo|discípulos]] de los profetas. El Espíritu se comunica, como en el caso de Moisés *Num 11,17*: de Elías a Eliseo *2Re 2*. Isaías menciona a sus discípulos *Is 8,16*; Jeremías va acompañado de Baruc. El siervo de Yahveh, cuya figura desborda el profetismo, asume los rasgos de un profeta-discípulo docente *Is 50,4s*. En este marco de una [[tradición]] viva, la [[escritura]] desempeña un papel que crece con el tiempo: Yahveh no pone ya en la boca de Ezequiel sus solas palabras, sino un [[libro]] *Ez 2*. La tradición profética tiene una fuente de unidad que es de orden distinto: todos están animados por el mismo [[Espíritu]] de Dios. De Dios es de quien reciben la [[palabra_de_dios|palabra]]. El [[carisma]] profético es un carisma de [[revelación]] *Am 3,7* *Jer 23,18*, que da a conocer al hombre lo que no podría descubrir por sus propias fuerzas. Su objeto es múltiple y único: el [[designio_de_dios|designio]] de salvación que se cumplirá y se unificará en Jesucristo *Heb 1,1s*.
+Existió una verdadera tradición profética perpetuada por los [[discípulo|discípulos]] de los profetas. El Espíritu se comunica, como en el caso de Moisés *Num 11,17*: de Elías a Eliseo *2Re 2*. Isaías menciona a sus discípulos *Is 8,16*; Jeremías va acompañado de Baruc. El siervo de Yahveh, cuya figura desborda el profetismo, asume los rasgos de un profeta-discípulo docente *Is 50,4s*. En este marco de una [[tradición]] viva, la [[escritura]] desempeña un papel que crece con el tiempo: Yahveh no pone ya en la boca de Ezequiel sus solas palabras, sino un [[libro]] *Ez 2*. La tradición profética tiene una fuente de unidad que es de orden distinto: todos están animados por el mismo [[espíritu]] de Dios. De Dios es de quien reciben la [[palabra_de_dios|palabra]]. El [[carisma]] profético es un carisma de [[revelación]] *Am 3,7* *Jer 23,18*, que da a conocer al hombre lo que no podría descubrir por sus propias fuerzas. Su objeto es múltiple y único: el [[designio_de_dios|designio]] de salvación que se cumplirá y se unificará en Jesucristo *Heb 1,1s*.
 
 #### El profeta en la comunidad
 
@@ -109,11 +109,11 @@ Se exterminó a los profetas bajo Ajab *1Re 18,4.13*, bajo Manasés *2Re 21,16*,
 
 #### La ley
 
-Profetismo y [[ley]] no expresan dos corrientes divergentes: se trata de funciones distintas en el interior de una totalidad. El profeta denuncia las faltas que surgen contra la ley; no aguarda a que se le someta un caso, y lo hace sin referirse a un poder transmitido por la sociedad. Pone nombres, dice al pecador, como Natán a David: «Tú eres ese hombre» *2Sa 12,7*. Oseas *Os 4,2*, Jeremías *Jer 7,9* hacen alusión al decálogo; Ezequiel *Ez 18,5-18* a las leyes y costumbres. El no pagar el salario *Jer 22,13* *Mal 3,5*, el fraude *Am 8,5* *Os 12,8*, la venalidad de los jueces *Miq 3,11* *Is 1,23*, el negarse a manumitir a los esclavos *Jer 34,8-22*, la inhumanidad de los prestamistas *Am 2,8*: he aquí faltas contra la alianza. En la situación de hecho se rehúsa el derecho, se retuerce *Miq 3,9s* *Jer 8,8*, al bien se le llama mal y viceversa *Is 5,20*; tal es la [[mentira]] condenada por Jeremías *Jer 6,6*. Los [[pastor_y_rebano|pastores]] enturbian el agua a las ovejas *Ez 34,18s*, se extravía a los débiles *Is 3,12-15* *Am 2,7*. Los profetas vituperan más violentamente a los sacerdotes y a todos los responsables *Is 3,2* *Jer 5,4s* que representan las normas y las falsean. En la perversión de los signos el único recurso está en el discernimiento entre dos espíritus: es la situación en que se enfrentan profeta contra profeta *Jer 28*.
+Profetismo y [[ley]] no expresan dos corrientes divergentes: se trata de funciones distintas en el interior de una totalidad. El profeta denuncia las faltas que surgen contra la ley; no aguarda a que se le someta un caso, y lo hace sin referirse a un poder transmitido por la sociedad. Pone nombres, dice al pecador, como Natán a David: «Tú eres ese hombre» *2Sa 12,7*. Oseas *Os 4,2*, Jeremías *Jer 7,9* hacen alusión al decálogo; Ezequiel *Ez 18,5-18* a las leyes y costumbres. El no pagar el salario *Jer 22,13* *Mal 3,5*, el fraude *Am 8,5* *Os 12,8*, la venalidad de los jueces *Miq 3,11* *Is 1,23*, el negarse a manumitir a los esclavos *Jer 34,8-22*, la inhumanidad de los prestamistas *Am 2,8*: he aquí faltas contra la alianza. En la situación de hecho se rehúsa el derecho, se retuerce *Miq 3,9s* *Jer 8,8*, al bien se le llama mal y viceversa *Is 5,20*; tal es la [[mentira]] condenada por Jeremías *Jer 6,6*. Los [[pastor_y_rebaño|pastores]] enturbian el agua a las ovejas *Ez 34,18s*, se extravía a los débiles *Is 3,12-15* *Am 2,7*. Los profetas vituperan más violentamente a los sacerdotes y a todos los responsables *Is 3,2* *Jer 5,4s* que representan las normas y las falsean. En la perversión de los signos el único recurso está en el discernimiento entre dos espíritus: es la situación en que se enfrentan profeta contra profeta *Jer 28*.
 
 #### Las tradiciones
 
-Los profetas no tratan de hacer volver a un estado anterior de cosas. Se oponen al pueblo, aferrado a una imagen venturosa del pasado *Miq 3,11* *Os 8,2*, para quienes «mañana será como hoy» *Is 56,12*. Éstos se hallan en su centro en la predicación tranquilizadora de los falsos profetas *Jer 23,17*. Sin embargo, los profetas de Dios son el extremo opuesto de una ruptura radical con el pasado: Elías vuelve al Horeb; Oseas *Os 11,1-5* y Jeremías *Jer 2,2s* están prendados de los recuerdos del [[desierto]]; el Déutero-Isaías, de los del [[exodo|Éxodo]] *Is 43,16-21*. No confunden este pasado con sus sobrevivencias muertas: les sirve para centrar la religión del pueblo en su verdadero eje.
+Los profetas no tratan de hacer volver a un estado anterior de cosas. Se oponen al pueblo, aferrado a una imagen venturosa del pasado *Miq 3,11* *Os 8,2*, para quienes «mañana será como hoy» *Is 56,12*. Éstos se hallan en su centro en la predicación tranquilizadora de los falsos profetas *Jer 23,17*. Sin embargo, los profetas de Dios son el extremo opuesto de una ruptura radical con el pasado: Elías vuelve al Horeb; Oseas *Os 11,1-5* y Jeremías *Jer 2,2s* están prendados de los recuerdos del [[desierto]]; el Déutero-Isaías, de los del [[éxodo|Éxodo]] *Is 43,16-21*. No confunden este pasado con sus sobrevivencias muertas: les sirve para centrar la religión del pueblo en su verdadero eje.
 
 #### El culto
 
@@ -157,8 +157,8 @@ Jesús aparece en medio de una red de profetismo, representada por Zacarías *Lc
 
 Se reconocen en Jesús muchos rasgos proféticos: revela los «signos de los tiempos» *Mt 16,2s* y anuncia su fin *Mt 24-25*; su actitud frente a los valores recibidos reasume la crítica de los profetas: severidad para con los que tienen la llave *Lc 11,52*, [[ira]] contra la [[hipocresía]] religiosa *Mt 15,7* *Is 29,13*, discusión de la calidad de hijos de [[abraham|Abraham]] *Jn 8,39*, clarificación de una [[herencia]] espiritual enmarañada, purificación del templo *Mc 11,15ss p* y anuncio de un [[culto]] perfecto *Jn 2,16* *Zac 14,21*. Finalmente, ve denegado su mensaje, rechazado por aquella Jerusalén que había matado a los profetas *Mt 23,37s p*. A medida que se acerca este término, lo anuncia y explica su sentido, siendo él mismo su propio profeta.
 
-La multitud da espontáneamente a [[jesus|Jesús]] el título de profeta *Mt 16,14* *Jn 4,19* *9,17*, que en ciertos casos designa al profeta por excelencia anunciado en las Escrituras *Jn 1,21* *6,14* *7,40*. Jesús mismo no adopta este título sino incidentalmente *Mt 13,57 p*; la Iglesia naciente tampoco le asignará gran lugar *Act 3,22s*. La personalidad de Jesús desborda la tradición profética: él es el [[mesias|Mesías]], el [[siervo_de_yahvé|Siervo]] de Dios, el [[hijo|Hijo]] del hombre, y su autoridad es la del Hijo, lo cual le sitúa por encima de toda la serie de los profetas *Heb 1,1ss*. ¿Qué profeta se habría presentado como fuente de [[verdad]] y de [[vida]]? Los profetas decían: «Oráculo de Yahveh.» Jesús dice: «En verdad, en verdad os digo...» Su misión y su persona no son ya del mismo orden.
+La multitud da espontáneamente a [[jesús|Jesús]] el título de profeta *Mt 16,14* *Jn 4,19* *9,17*, que en ciertos casos designa al profeta por excelencia anunciado en las Escrituras *Jn 1,21* *6,14* *7,40*. Jesús mismo no adopta este título sino incidentalmente *Mt 13,57 p*; la Iglesia naciente tampoco le asignará gran lugar *Act 3,22s*. La personalidad de Jesús desborda la tradición profética: él es el [[mesías|Mesías]], el [[siervo_de_yahvé|Siervo]] de Dios, el [[hijo|Hijo]] del hombre, y su autoridad es la del Hijo, lo cual le sitúa por encima de toda la serie de los profetas *Heb 1,1ss*. ¿Qué profeta se habría presentado como fuente de [[verdad]] y de [[vida]]? Los profetas decían: «Oráculo de Yahveh.» Jesús dice: «En verdad, en verdad os digo...» Su misión y su persona no son ya del mismo orden.
 
 #### La Iglesia
 
-«Las profecías desaparecerán un día», explica Pablo *1Cor 13,8*. Pero esto será al fin de los [[tiempo|tiempos]]. La venida de Cristo, lejos de eliminar el carisma de profecía, provocó la extensión del mismo. «¡Ojalá que todo el pueblo fuera profeta!», era el deseo de Moisés *Num 11,29*. El día de [[pentecostés]] declara Pedro cumplida la profecía de Joel: el [[Espíritu]] de Jesús se ha derramado sobre toda carne. El carisma de las profecías es frecuente en la Iglesia apostólica *Act 11,27s* *13,1* *21,10s*. Pablo quiere que no sea depreciado *1Tes 5,20* y lo sitúa muy por encima del don de [[lenguas]] *1Cor 14,1-5*; sin embargo, quiere que se ejerza dentro del orden y para el bien de la comunidad *14,29-32*. El profeta del NT no tiene por única función predecir el porvenir: «edifica, exhorta, consuela» *1Cor 14,3*, funciones que se acercan a la [[predicar|predicación]]. El autor del Apocalipsis comienza por desvelar a las siete iglesias lo que ellas mismas son *Ap 2-3*. El profeta, sometido al control de los otros profetas *1Cor 14,32* y a las órdenes de la autoridad *14,37*, no puede pretender gobernar la Iglesia. Ya en el AT el Deuteronomio veía en la doctrina de los profetas el signo auténtico de su misión divina *Dt 13,2-6*. El profetismo no se extinguirá con la edad apostólica; sería difícil comprender la misión de muchos santos en la Iglesia sin referirse al carisma profético, sometido a las reglas dictadas por san Pablo.
+«Las profecías desaparecerán un día», explica Pablo *1Cor 13,8*. Pero esto será al fin de los [[tiempo|tiempos]]. La venida de Cristo, lejos de eliminar el carisma de profecía, provocó la extensión del mismo. «¡Ojalá que todo el pueblo fuera profeta!», era el deseo de Moisés *Num 11,29*. El día de [[pentecostés]] declara Pedro cumplida la profecía de Joel: el [[espíritu]] de Jesús se ha derramado sobre toda carne. El carisma de las profecías es frecuente en la Iglesia apostólica *Act 11,27s* *13,1* *21,10s*. Pablo quiere que no sea depreciado *1Tes 5,20* y lo sitúa muy por encima del don de [[don_de_lenguas]] *1Cor 14,1-5*; sin embargo, quiere que se ejerza dentro del orden y para el bien de la comunidad *14,29-32*. El profeta del NT no tiene por única función predecir el porvenir: «edifica, exhorta, consuela» *1Cor 14,3*, funciones que se acercan a la [[predicar|predicación]]. El autor del Apocalipsis comienza por desvelar a las siete iglesias lo que ellas mismas son *Ap 2-3*. El profeta, sometido al control de los otros profetas *1Cor 14,32* y a las órdenes de la autoridad *14,37*, no puede pretender gobernar la Iglesia. Ya en el AT el Deuteronomio veía en la doctrina de los profetas el signo auténtico de su misión divina *Dt 13,2-6*. El profetismo no se extinguirá con la edad apostólica; sería difícil comprender la misión de muchos santos en la Iglesia sin referirse al carisma profético, sometido a las reglas dictadas por san Pablo.

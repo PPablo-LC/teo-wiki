@@ -35,11 +35,11 @@ La gran contribución del NT es revelar la cautividad espiritual del pecado. San
 
 ## Relaciones doctrinales
 
-[[esclavo]] — [[exilio]] — [[liberación_y_libertad]] — [[pecado]] — [[justificacion]] — [[victoria]] — [[prueba_y_tentación]]
+[[esclavo]] — [[exilio]] — [[liberación_y_libertad]] — [[pecado]] — [[justificación]] — [[victoria]] — [[prueba_y_tentación]]
 
 ## Ver también
 
-[[babel]], [[castigos]], [[muerte]], [[obediencia]], [[redencion]]
+[[babel]], [[castigos]], [[muerte]], [[obediencia]], [[redención]]
 
 ## Referencias
 

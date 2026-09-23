@@ -12,7 +12,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[donación_mutua]] — la donación mutua como estructura del matrimonio
+- [[donacion_mutua]] — la donación mutua como estructura del matrimonio
 - [[equilibrio_del_don]] — la custodia del equilibrio recíproco del don
 - [[apropiación]] — la relación de recíproca apropiación tras el pecado
 - [[pertenencia]] — la pertenencia recíproca según la analogía personal

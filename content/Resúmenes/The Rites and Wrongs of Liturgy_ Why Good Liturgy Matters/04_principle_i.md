@@ -13,12 +13,12 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 ## Conceptos básicos referenciados
 
 - [[liturgia]]
-- [[Eucaristía]]
-- [[Palabra_de_Dios]]
+- [[eucaristía]]
+- [[palabra_de_dios]]
 - [[celebración_eucarística]]
 - [[discípulo]]
 - [[bautismo]]
-- [[liturgia_de_la_Palabra]]
+- [[liturgia_de_la_palabra]]
 
 ## Contenido
 
@@ -32,19 +32,19 @@ Dado que la [[liturgia]] es cuestión de lenguaje y gestos, es especialmente vul
 
 El autor presenta ejemplos concretos de la brecha entre palabras/gestos y experiencia litúrgica:
 
-1. **La [[liturgia_de_la_Palabra]]**: Se habla de la importancia de escuchar la Palabra del Señor, pero se apresura la proclamación y se teme al silencio. Decir "Palabra del Señor" e inmediatamente pasar a otra cosa no corresponde al honor que reclamamos para estas lecturas.
+1. **La [[liturgia_de_la_palabra]]**: Se habla de la importancia de escuchar la Palabra del Señor, pero se apresura la proclamación y se teme al silencio. Decir "Palabra del Señor" e inmediatamente pasar a otra cosa no corresponde al honor que reclamamos para estas lecturas.
 
 2. **La imagen de la mesa**: Se usa abundantemente el lenguaje de estar reunidos alrededor de la mesa del Señor, de banquete de bienvenida (parábola del [[Hijo_pródigo]], Jesús comiendo con Zaqueo), pero la experiencia real es estar en un auditorio mirando una mesa con una sola persona, el presidente. Una vez que un grupo ha experimentado estar realmente alrededor de la mesa, surge una nueva comprensión de la comunión como evento humano y cristiano.
 
-3. **Ser hermanos y hermanas**: El lenguaje de hermandad implica igualdad ante el Padre celestial. La [[Eucaristía]] es una de las instituciones más antiguas donde la igualdad humana era parte fundamental: los pobres debían compartir con los ricos; todos debían recibir bienvenida. Pero la liturgia a menudo es un ejercicio de separaciones.
+3. **Ser hermanos y hermanas**: El lenguaje de hermandad implica igualdad ante el Padre celestial. La [[eucaristía]] es una de las instituciones más antiguas donde la igualdad humana era parte fundamental: los pobres debían compartir con los ricos; todos debían recibir bienvenida. Pero la liturgia a menudo es un ejercicio de separaciones.
 
 ### Why Is Liturgical Honesty Important?
 
-Como imaginamos la liturgia teniendo lugar en la corte celestial, debemos buscar la mayor autenticidad en lo que hacemos en un mundo de signos, que al menos sea autoconsistente y coherente con lo que predicamos. La liturgia es frecuentemente discordante porque tiene capas de acumulación que desvían nuestras acciones y teología. Un ejemplo significativo es la discrepancia entre los textos de oración (que proclaman la [[Eucaristía]] como acción de gracias) y los rituales (percibidos por quienes están presentes, enfocados en la [[transubstanciación]]). Decimos "Bebed esto" pero no bebemos; decimos "lo partió" pero usamos hostias individuales sin romper.
+Como imaginamos la liturgia teniendo lugar en la corte celestial, debemos buscar la mayor autenticidad en lo que hacemos en un mundo de signos, que al menos sea autoconsistente y coherente con lo que predicamos. La liturgia es frecuentemente discordante porque tiene capas de acumulación que desvían nuestras acciones y teología. Un ejemplo significativo es la discrepancia entre los textos de oración (que proclaman la [[eucaristía]] como acción de gracias) y los rituales (percibidos por quienes están presentes, enfocados en la [[transubstanciación]]). Decimos "Bebed esto" pero no bebemos; decimos "lo partió" pero usamos hostias individuales sin romper.
 
 ### "Honesty Is the Best Policy"
 
-Para evitar la brecha entre el mensaje del [[Evangelio]] en celebración y las señales realmente recibidas, debemos mantener las celebraciones bajo revisión constante. La conexión transparente entre lo que se hace formalmente y lo que se hace informalmente, entre lo que decimos y lo que se escucha, debe ser uno de nuestros ideales. Cuando la conexión directa entre palabras y acciones rituales se deshace, terminamos con signos infinitos que potencialmente dicen todo y nada. La búsqueda de honestidad entre la variedad de nuestros signos debe ser una cualidad primordial de la liturgia: la buena liturgia debe hacer lo que dice y decir lo que hace.
+Para evitar la brecha entre el mensaje del [[evangelio]] en celebración y las señales realmente recibidas, debemos mantener las celebraciones bajo revisión constante. La conexión transparente entre lo que se hace formalmente y lo que se hace informalmente, entre lo que decimos y lo que se escucha, debe ser uno de nuestros ideales. Cuando la conexión directa entre palabras y acciones rituales se deshace, terminamos con signos infinitos que potencialmente dicen todo y nada. La búsqueda de honestidad entre la variedad de nuestros signos debe ser una cualidad primordial de la liturgia: la buena liturgia debe hacer lo que dice y decir lo que hace.
 
 ## Secciones incluidas
 

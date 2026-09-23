@@ -48,7 +48,7 @@ Las notas de las conferencias de Auténtica 2026 insisten en la formación progr
 
 ## Relaciones doctrinales
 
-Este concepto se vincula con [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]], [[perfección_cristiana]], [[conversión]], [[santidad]], [[dirección_espiritual]], [[virtud]], [[dones_del_Espíritu_Santo]], [[contemplación]].
+Este concepto se vincula con [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]], [[perfección_cristiana]], [[conversión]], [[santidad]], [[dirección_espiritual]], [[virtud]], [[dones_del_espíritu_santo]], [[contemplación]].
 
 ## Ver también
 

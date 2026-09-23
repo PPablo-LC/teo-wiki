@@ -42,11 +42,11 @@ El don sin correspondencia es la novedad cristiana: en lugar de buscar la recipr
 
 ## Relaciones doctrinales
 
-El don se vincula con la [[gracia]], el [[Espíritu Santo]], la [[caridad]], la [[limosna]], la [[Eucaristía]], la [[redención]], el [[sacrificio]], la [[misericordia]], la [[providencia]] y la [[acción_de_gracias]].
+El don se vincula con la [[gracia]], el [[espíritu_santo]], la [[caridad]], la [[limosna]], la [[eucaristía]], la [[redención]], el [[sacrificio]], la [[misericordia]], la [[providencia]] y la [[acción_de_gracias]].
 
 ## Ver también
 
-[[gracia]], [[Espíritu Santo]], [[caridad]], [[limosna]], [[Eucaristía]], [[redención]], [[sacrificio]], [[acción_de_gracias]]
+[[gracia]], [[espíritu_santo]], [[caridad]], [[limosna]], [[eucaristía]], [[redención]], [[sacrificio]], [[acción_de_gracias]]
 
 ## Referencias
 

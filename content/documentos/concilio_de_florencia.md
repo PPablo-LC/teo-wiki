@@ -68,7 +68,7 @@ Su enseñanza sobre los sacramentos (D-695–702) es la primera exposición conc
 
 ## Ver también
 
-[[eugenio_iv]], [[pío_ii]], [[primado_del_romano_pontífice]], [[filioque]], [[extra_ecclesiam_nulla_salus]], [[novisimos]], [[sacramentos]], [[trinidad]], [[encarnacion]]
+[[eugenio_iv]], [[pio_ii]], [[primado_del_romano_pontífice]], [[filioque]], [[extra_ecclesiam_nulla_salus]], [[novisimos]], [[sacramentos]], [[trinidad]], [[encarnacion]]
 
 ## Referencias
 

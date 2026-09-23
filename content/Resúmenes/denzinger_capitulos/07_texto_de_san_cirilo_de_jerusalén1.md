@@ -54,7 +54,7 @@ Profesión de fe completa sobre la Trinidad (D-39): «Todo el que quiera salvars
 
 ## Texto de San Cirilo de Jerusalén (1)
 
-Contiene el símbolo breve de San Cirilo (D-9) y su exposición más amplia (D-13-14) del [[símbolo_niceno]], con la profesión de fe trinitaria y cristológica completa, incluyendo la [[consustancialidad]] del Hijo con el Padre y la processión del [[Espíritu_Santo]].
+Contiene el símbolo breve de San Cirilo (D-9) y su exposición más amplia (D-13-14) del [[símbolo_niceno]], con la profesión de fe trinitaria y cristológica completa, incluyendo la [[consustancialidad]] del Hijo con el Padre y la processión del [[espíritu_santo]].
 
 ### FÓRMULA LLAMADA FE DE DAMASO (1)
 

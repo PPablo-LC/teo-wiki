@@ -24,7 +24,7 @@ tags: ["resumen", "paradoxes of faith"]
 - [[vida_eterna]] — comienza aquí por la caridad
 - [[san_agustín]] — citado varias veces
 - [[san_pablo]] — citado sobre la oposición entre lo efímero y lo perfecto
-- [[pascal]] — citado sobre piedad supersticiosa
+- [[blaise_pascal]] — citado sobre piedad supersticiosa
 
 ## Contenido
 

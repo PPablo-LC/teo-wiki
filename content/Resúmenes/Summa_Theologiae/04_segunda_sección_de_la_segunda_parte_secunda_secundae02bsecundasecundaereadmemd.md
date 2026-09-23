@@ -22,7 +22,7 @@ tags: ["resumen", "summa theologiae"]
 - [[homicidio]], [[hurto]], [[usura]], [[fraude]]
 - [[religión]], [[devoción]], [[oración]], [[adoración]], [[sacrificio]]
 - [[voto]], [[juramento]], [[superstición]], [[idolatría]], [[perjurio]], [[sacrilegio]], [[simonía]]
-- [[piedad]], [[observancia]], [[dulia]], [[obediencia]]
+- [[piedad]], [[observancia]], [[dulía]], [[obediencia]]
 - [[verdad]], [[simulación]], [[jactancia]]
 - [[liberalidad]], [[avaricia]], [[prodigalidad]]
 - [[fortaleza]], [[martirio]], [[magnanimidad]], [[magnificencia]], [[paciencia]], [[perseverancia]]
@@ -64,7 +64,7 @@ Después de considerar, en general, las [[virtudes]] y los vicios, con lo demás
 
 #### Justicia
 
-- **Q.57–122 — La justicia y sus partes**: La [[justicia]] es virtud que da a cada uno lo suyo; su objeto es el [[derecho]]; se divide en conmutativa (entre iguales), distributiva (del gobernante) y legal (del bien común). Sus partes integrales son: juicio, verdad, restitución, no acepción de personas. Las partes potenciales incluyen: [[religión]] (culto a Dios), [[piedad]] (culto a los padres y patria), [[observancia]] (honrar a los superiores), [[dulia]] (honrar a los santos), [[obediencia]] (seguir la ley superior), gratitud, venganza, [[verdad]], [[liberalidad]], epiqueya. También trata vicios opuestos: [[homicidio]], [[hurto]], [[usura]], [[fraude]], contumelia, detracción, mofa, maldición, perjurio, [[sacrilegio]], [[simonía]], [[superstición]], [[idolatría]], adivinación, tentación de Dios.
+- **Q.57–122 — La justicia y sus partes**: La [[justicia]] es virtud que da a cada uno lo suyo; su objeto es el [[derecho]]; se divide en conmutativa (entre iguales), distributiva (del gobernante) y legal (del bien común). Sus partes integrales son: juicio, verdad, restitución, no acepción de personas. Las partes potenciales incluyen: [[religión]] (culto a Dios), [[piedad]] (culto a los padres y patria), [[observancia]] (honrar a los superiores), [[dulía]] (honrar a los santos), [[obediencia]] (seguir la ley superior), gratitud, venganza, [[verdad]], [[liberalidad]], epiqueya. También trata vicios opuestos: [[homicidio]], [[hurto]], [[usura]], [[fraude]], contumelia, detracción, mofa, maldición, perjurio, [[sacrilegio]], [[simonía]], [[superstición]], [[idolatría]], adivinación, tentación de Dios.
 
 #### Fortaleza
 

@@ -35,7 +35,7 @@ La copa de la ira tiene su contrapartida en el cáliz de salvación. Los sacrifi
 
 ## Relaciones doctrinales
 
-[[comida]] — [[comunion]] — [[sacrificio]] — [[eucaristía]] — [[sangre]] — [[ira]] — [[vino]]
+[[comida]] — [[comunión]] — [[sacrificio]] — [[eucaristía]] — [[sangre]] — [[ira]] — [[vino]]
 
 ## Ver también
 

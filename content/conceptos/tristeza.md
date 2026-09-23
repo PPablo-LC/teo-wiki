@@ -68,7 +68,7 @@ TPCr trata la tristeza como uno de los pecados capitales. La acedia es el pecado
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[acedia]], la [[pereza]], el [[desaliento]], la [[alegría]] (virtud opuesta), la [[esperanza]], la [[tibieza]], la [[tristeza]] del mundo (que lleva a la muerte) y la [[contrición]] (tristeza buena).
+Se relaciona con la [[acedia]], la [[pereza]], el [[desaliento]], la [[alegría]] (virtud opuesta), la [[esperanza]], la [[tibieza]], la **tristeza** del mundo (que lleva a la muerte) y la [[contrición]] (tristeza buena).
 
 ## Ver también
 

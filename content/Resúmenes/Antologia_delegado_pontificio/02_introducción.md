@@ -12,27 +12,27 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 
 ## Conceptos básicos referenciados
 
-- [[visita_apostolica]] — inspección de la Congregación por cinco obispos visitadores (2009-2010)
+- [[visita_apostólica]] — inspección de la Congregación por cinco obispos visitadores (2009-2010)
 - [[delegado_pontificio]] — card. Velasio De Paolis, nombrado por Benedicto XVI el 16 de junio de 2010
 - [[marcial_maciel]] — fundador de la Legión de Cristo cuya conducta causó consecuencias graves
 - [[capítulo_general]] — capítulo de 2014 para aprobar nuevas Constituciones
-- [[comision_central_para_la_revision_de_las_constituciones]] — organismo encargado de la revisión constitucional
-- [[comision_de_acercamiento]] — creada para atender a personas afectadas por los hechos del fundador
+- [[comisión_central_para_la_revisión_de_las_constituciones]] — organismo encargado de la revisión constitucional
+- [[comisión_de_acercamiento]] — creada para atender a personas afectadas por los hechos del fundador
 - [[comision_para_estudiar_los_asuntos_economicos]] — encargada de revisar la situación económica
 - [[constituciones_de_la_legion_de_cristo]] — texto fundamental a revisar
 - [[carisma_legionario]] — don del Espíritu a revisar y purificar
 - [[regnum_christi]] — Movimiento vinculado a la Legión de Cristo
 - [[vida_consagrada]] — estado de los miembros consagrados del Regnum Christi
 - [[obediencia]] — voto que vincula a los religiosos con sus superiores
-- [[consejos_evangelicos]] — pobreza, castidad y obediencia profesados en la vida religiosa
+- [[consejos_evangélicos]] — pobreza, castidad y obediencia profesados en la vida religiosa
 - [[renovacion_postconciliar]] — proceso de actualización de las estructuras eclesiales tras el Concilio Vaticano II
-- [[nueva_evangelizacion]] — urgencia de anunciar el Evangelio en el mundo contemporáneo
+- [[nueva_evangelización]] — urgencia de anunciar el Evangelio en el mundo contemporáneo
 
 ## Contenido
 
 ### Introducción
 
-La Introducción, redactada por el P. Jaime Rodríguez, L.C., presenta un recorrido cronológico por los hitos principales del camino de purificación y renovación de la Legión de Cristo entre marzo de 2009 (anuncio de la [[visita_apostolica]]) y febrero de 2014 (conclusión del [[capítulo_general]]). Los documentos de la antología se ordenan en tres partes: decretos y cartas oficiales (primera parte), homilías y conferencias del delegado pontificio (segunda parte), y conferencias del P. Ghirlanda sobre eclesiología de la vida consagrada (tercera parte).
+La Introducción, redactada por el P. Jaime Rodríguez, L.C., presenta un recorrido cronológico por los hitos principales del camino de purificación y renovación de la Legión de Cristo entre marzo de 2009 (anuncio de la [[visita_apostólica]]) y febrero de 2014 (conclusión del [[capítulo_general]]). Los documentos de la antología se ordenan en tres partes: decretos y cartas oficiales (primera parte), homilías y conferencias del delegado pontificio (segunda parte), y conferencias del P. Ghirlanda sobre eclesiología de la vida consagrada (tercera parte).
 
 ### A. La Visita Apostólica
 
@@ -76,7 +76,7 @@ Mediante decretos específicos se derogaron los artículos sobre nuncios ordinar
 
 ### K. Los miembros consagrados del Regnum Christi
 
-Mons. Blázquez realizó la [[visita_apostolica]] a los consagrados (enero-junio 2011). Las conclusiones señalaron: juicio positivo sobre la vida vocacional, deseo de justa autonomía y necesidad de personalidad jurídica propia. Entre marzo y mayo de 2012, el delegado reorganizó el gobierno, nombrando responsables generales y territoriales. En junio de 2012 entraron en funcionamiento los nuevos gobiernos. En noviembre y diciembre de 2013 tuvieron lugar las asambleas generales de consagrados y consagradas, con aprobación de Estatutos y elección de gobiernos (Jorge López y Gloria Rodríguez).
+Mons. Blázquez realizó la [[visita_apostólica]] a los consagrados (enero-junio 2011). Las conclusiones señalaron: juicio positivo sobre la vida vocacional, deseo de justa autonomía y necesidad de personalidad jurídica propia. Entre marzo y mayo de 2012, el delegado reorganizó el gobierno, nombrando responsables generales y territoriales. En junio de 2012 entraron en funcionamiento los nuevos gobiernos. En noviembre y diciembre de 2013 tuvieron lugar las asambleas generales de consagrados y consagradas, con aprobación de Estatutos y elección de gobiernos (Jorge López y Gloria Rodríguez).
 
 ### L. Hacia la configuración del Regnum Christi
 

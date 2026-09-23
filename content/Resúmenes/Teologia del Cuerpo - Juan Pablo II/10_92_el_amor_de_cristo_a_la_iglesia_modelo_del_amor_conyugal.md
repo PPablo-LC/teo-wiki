@@ -22,7 +22,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[redención]] — el amor redentor y nupcial de Cristo
 - [[significado_esponsal_del_cuerpo]] — el cuerpo como expresión del «yo» y fundamento de identidad
 - [[matrimonio]] — el «sacrum» del cuerpo en las relaciones de los esposos
-- [[ágape]] — lenguaje del amor esponsal según Ef 5
+- [[agapē]] — lenguaje del amor esponsal según Ef 5
 - [[dignidad_del_cuerpo]] — solicitud por el bien del cuerpo del otro (Ef 5,29)
 
 ## Contenido
@@ -49,7 +49,7 @@ En todo el pasaje se conserva claramente el principio de la bi-subjetividad: Cri
 
 ### Unidad moral constituida por el amor
 
-Es la unidad moral condicionada y constituida por el amor: el amor no solo une a dos sujetos, sino que les permite compenetrarse mutuamente, perteneciendo espiritualmente el uno al otro, hasta el punto de que «el que ama a su mujer, a sí mismo se ama» (Ef 5,28): el «yo» se hace, en cierto sentido, el «tú», y el «tú» el «yo». Por eso el texto continúa: «Nadie aborrece jamás su propia carne, sino que la alimenta y la abriga como Cristo a la Iglesia, porque somos miembros de su cuerpo» (Ef 5,29-30). En la unión por amor, el cuerpo «del otro» se convierte en «propio», en el sentido de tener solicitud del bien del cuerpo del otro como del propio. Estas palabras, al caracterizar el amor «carnal» que debe unir a los esposos, expresan su contenido más general y a la vez más esencial: hablan de este amor sobre todo con el lenguaje del «[[ágape]]».
+Es la unidad moral condicionada y constituida por el amor: el amor no solo une a dos sujetos, sino que les permite compenetrarse mutuamente, perteneciendo espiritualmente el uno al otro, hasta el punto de que «el que ama a su mujer, a sí mismo se ama» (Ef 5,28): el «yo» se hace, en cierto sentido, el «tú», y el «tú» el «yo». Por eso el texto continúa: «Nadie aborrece jamás su propia carne, sino que la alimenta y la abriga como Cristo a la Iglesia, porque somos miembros de su cuerpo» (Ef 5,29-30). En la unión por amor, el cuerpo «del otro» se convierte en «propio», en el sentido de tener solicitud del bien del cuerpo del otro como del propio. Estas palabras, al caracterizar el amor «carnal» que debe unir a los esposos, expresan su contenido más general y a la vez más esencial: hablan de este amor sobre todo con el lenguaje del «[[agapē]]».
 
 ### «Alimenta y abriga»: solicitud y «sacrum» del cuerpo
 

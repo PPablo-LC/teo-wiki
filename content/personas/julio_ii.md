@@ -11,7 +11,7 @@ timestamp: 2026-07-02
 > Área: Historia / Papado
 > Última actualización: 2026-07-02
 
-**Julio II** (Giuliano della Rovere, 1443–1513), papa del 1 de noviembre de 1503 al 21 de febrero de 1513. Su pontificado estuvo marcado por la consolidación territorial de los Estados Pontificios, el mecenazgo artístico y la convocatoria del [[V_concilio_de_letrán]].
+**Julio II** (Giuliano della Rovere, 1443–1513), papa del 1 de noviembre de 1503 al 21 de febrero de 1513. Su pontificado estuvo marcado por la consolidación territorial de los Estados Pontificios, el mecenazgo artístico y la convocatoria del [[v_concilio_de_letran]].
 
 ## Contexto histórico y pontificado
 
@@ -23,11 +23,11 @@ Convocado por Julio II mediante la bula *Sacrosanctae Romanae Ecclesiae* (1512),
 
 ## Relaciones
 
-[[leon_x]], [[sixto_iv]], [[v_concilio_de_letrán]], [[renacimiento]], [[estados_pontificios]], [[capilla_sixtina]], [[basílica_de_san_pedro]]
+[[leon_x]], [[sixto_iv]], [[v_concilio_de_letran]], [[renacimiento]], [[estados_pontificios]], [[capilla_sixtina]], [[basílica_de_san_pedro]]
 
 ## Ver también
 
-[[leon_x]], [[sixto_iv]], [[v_concilio_de_letrán]], [[papado]], [[renacimiento]]
+[[leon_x]], [[sixto_iv]], [[v_concilio_de_letran]], [[papado]], [[renacimiento]]
 
 ## Referencias
 

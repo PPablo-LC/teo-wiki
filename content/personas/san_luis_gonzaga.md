@@ -33,7 +33,7 @@ La vida de San Luis Gonzaga es ejemplo de la vía purgativa (penitencia y renunc
 
 ## Ver también
 
-[[san_estanislao_de_kostka]], [[compañía_de_jesus]], [[pureza]], [[vocación]], [[santos_patronos]]
+[[san_estanislao_de_kostka]], [[compañía_de_jesús]], [[pureza]], [[vocación]], [[santos_patronos]]
 
 ## Referencias
 

@@ -15,8 +15,8 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[trabajo]] — la solicitud en la realización de un trabajo
-- [[mision]] — el cuidado de la misión del apóstol
-- [[sabiduria]] — la búsqueda de la sabiduría
+- [[misión]] — el cuidado de la misión del apóstol
+- [[sabiduría]] — la búsqueda de la sabiduría
 - [[mundo]] — los cuidados de este mundo
 - [[reino_de_dios]] — cuidadse únicamente del reino de Dios
 - [[confianza]] — la confianza en el amor paterno de Dios

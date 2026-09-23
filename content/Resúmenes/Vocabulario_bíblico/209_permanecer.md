@@ -31,7 +31,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[exilio]] — la gloria que abandona el templo
 - [[iglesia]] — la Iglesia como ciudad construida
 - [[viña]] — la unión de los sarmientos con la viña
-- [[Espíritu]] — el Espíritu que permanece en nosotros
+- [[espíritu]] — el Espíritu que permanece en nosotros
 - [[fruto]] — el fruto de la permanencia
 - [[plenitud]] — la plenitud de Cristo
 
@@ -39,7 +39,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 Israel, siempre en movimiento, nómada y luego exilado, no ha experimentado nunca verdaderamente lo que es «permanecer». Ni siquiera dispone de una palabra que exprese exactamente esta idea. Hay que aguardar los equivalentes griegos para lograr nuestras imágenes familiares de casa, estabilidad, permanencia.
 
-Y, sin embargo, este pueblo sueña con [[reposo|reposar]] de las fatigas del [[desierto]]: querría instalarse y vivir en paz en la [[tierra]] que le ha prometido Dios *Gen 49,9.15* *Dt 33,12.20*. Pero siempre Yahveh, su [[pastor_y_rebano|pastor]], «destruye sus moradas» *Am 5,15* *Jer 12,14* para castigarlo o para dirigirlo hacia mejores pastos *Sal 23* *Jer 50,19*. Así permanecer es un ideal esperado siempre, pero no alcanzado nunca, que no hallará su realización sino en Dios.
+Y, sin embargo, este pueblo sueña con [[reposo|reposar]] de las fatigas del [[desierto]]: querría instalarse y vivir en paz en la [[tierra]] que le ha prometido Dios *Gen 49,9.15* *Dt 33,12.20*. Pero siempre Yahveh, su [[pastor_y_rebaño|pastor]], «destruye sus moradas» *Am 5,15* *Jer 12,14* para castigarlo o para dirigirlo hacia mejores pastos *Sal 23* *Jer 50,19*. Así permanecer es un ideal esperado siempre, pero no alcanzado nunca, que no hallará su realización sino en Dios.
 
 ### I. Lo que pasa y lo que permanece
 
@@ -71,6 +71,6 @@ El *Emmanuel* *Mt 1,23* *Is 7,14*, cuyo reino no tendrá fin *Lc 1,33*, debe «p
 
 #### Para que se nos dé el Espíritu Santo y permanezca en nosotros
 
-Era necesario el retorno de Cristo a su Padre *Jn 16,7*. El cristiano, habiendo recibido la unción de Cristo *1Jn 2,27s*, permanece en él si «come su [[carne|carne]]» *Jn 6,27-56*, si vive como él vivió *1Jn 2,6*, en su amor *Jn 15,9*, sin pecar *1Jn 3,6* y guardando su palabra *Jn 14,15-23* *1Jn 3,24*. El Padre, como Cristo y el [[Espíritu]], permanecen en él *Jn 14,23*. Una unión tan íntima como la de los sarmientos y la [[viña]] se crea entre Dios y el cristiano *Jn 15,4-7*; esta unión le permite permanecer, es decir, producir [[fruto]] *15,16* y vivir eternamente *Jn 6,56ss*.
+Era necesario el retorno de Cristo a su Padre *Jn 16,7*. El cristiano, habiendo recibido la unción de Cristo *1Jn 2,27s*, permanece en él si «come su [[carne|carne]]» *Jn 6,27-56*, si vive como él vivió *1Jn 2,6*, en su amor *Jn 15,9*, sin pecar *1Jn 3,6* y guardando su palabra *Jn 14,15-23* *1Jn 3,24*. El Padre, como Cristo y el [[espíritu]], permanecen en él *Jn 14,23*. Una unión tan íntima como la de los sarmientos y la [[viña]] se crea entre Dios y el cristiano *Jn 15,4-7*; esta unión le permite permanecer, es decir, producir [[fruto]] *15,16* y vivir eternamente *Jn 6,56ss*.
 
 Cristo, «en quien habita toda la [[plenitud]] de la divinidad» *Col 1,19* *2,9* inaugura el reino que subsiste para siempre *Heb 12,27s* y construye la ciudad sólida *Heb 11,10*, cuyo único fundamento es él mismo *Is 28,16* *1Cor 3,11* *1Pe 2,4*.

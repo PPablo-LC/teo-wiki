@@ -110,9 +110,9 @@ Benedicto XVI no trata el bautismo como sacramento en el sentido sistemático, p
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium enseña que por el [[bautismo]] «nos configuramos en Cristo»: «porque también todos nosotros hemos sido bautizados en un solo Espíritu» [ConcVatII, LG §7, citando 1 Co 12,13]. El bautismo representa y realiza el consorcio con la muerte y resurrección de Cristo: «Con El fuimos sepultados por el bautismo para participar de su muerte; mas, si hemos sido injertados en El por la semejanza de su muerte, también lo seremos por la de su resurrección» [ConcVatII, LG §7, citando Rm 6,4-5].
+Lumen Gentium enseña que por el **bautismo** «nos configuramos en Cristo»: «porque también todos nosotros hemos sido bautizados en un solo Espíritu» [ConcVatII, LG §7, citando 1 Co 12,13]. El bautismo representa y realiza el consorcio con la muerte y resurrección de Cristo: «Con El fuimos sepultados por el bautismo para participar de su muerte; mas, si hemos sido injertados en El por la semejanza de su muerte, también lo seremos por la de su resurrección» [ConcVatII, LG §7, citando Rm 6,4-5].
 
-Los fieles, incorporados a la Iglesia por el [[bautismo]], quedan destinados por el carácter al culto de la religión cristiana y, regenerados como hijos de Dios, están obligados a confesar delante de los hombres la fe que recibieron de Dios mediante la Iglesia [ConcVatII, LG §11]. La Iglesia peregrinante es necesaria para la salvación; los hombres entran en ella por el bautismo «como por una puerta» [ConcVatII, LG §14].
+Los fieles, incorporados a la Iglesia por el **bautismo**, quedan destinados por el carácter al culto de la religión cristiana y, regenerados como hijos de Dios, están obligados a confesar delante de los hombres la fe que recibieron de Dios mediante la Iglesia [ConcVatII, LG §11]. La Iglesia peregrinante es necesaria para la salvación; los hombres entran en ella por el bautismo «como por una puerta» [ConcVatII, LG §14].
 
 Los catecúmenos que, movidos por el Espíritu Santo, solicitan ser incorporados a la Iglesia, «por este mismo deseo ya están vinculados a ella» [ConcVatII, LG §14]. La Iglesia se reconoce unida con quienes, estando bautizados, no profesan la fe en su totalidad [ConcVatII, LG §15].
 
@@ -246,7 +246,7 @@ En el elemento de la pila bautismal, Mons. Munilla subraya que el bautismo recue
 
 El arte de la conversión que EAC-18 estudia (Caravaggio y otros maestros) está en íntima conexión con la catequesis bautismal: la iluminación del neófito, el paso de las tinieblas a la luz y la incorporación a Cristo son escenas que el arte supo plasmar para la memoria de la Iglesia [EAC-18, 12_art.md].
 
-Robert Barron insiste en que la gracia precede y obra el [[bautismo]]: el bautizando no se convierte por sus propias fuerzas, sino que es alcanzado por la iniciativa divina, purificado de la herencia del [[fomes_peccati]] y configurado con la muerte y resurrección de Cristo [EAC-18, 18_spotlight_barron.md].
+Robert Barron insiste en que la gracia precede y obra el **bautismo**: el bautizando no se convierte por sus propias fuerzas, sino que es alcanzado por la iniciativa divina, purificado de la herencia del [[fomes_peccati]] y configurado con la muerte y resurrección de Cristo [EAC-18, 18_spotlight_barron.md].
 
 El fascículo presenta así el bautismo como la puerta de la vida nueva: por él el cristiano es miembro del [[cuerpo_místico]], recibe el don del Espíritu y es enviado a la misión [EAC-18, 18_spotlight_barron.md].
 
@@ -255,6 +255,13 @@ El fascículo presenta así el bautismo como la puerta de la vida nueva: por él
 Giussani subraya el carácter dinámico y comunitario del bautismo: «el Bautismo, en cuanto constituye esta compañía, es una energía continua, que continúa toda la vida, es un acontecimiento que continúa toda la vida; y es a través de la compañía vocacional que actúa» (AED, 32, 41). Las «santas aguas» que «disuelven las culpas y anulan las penas» obran en la realidad concreta de la vida en común: «la vida en común disuelve las culpas, prosigue el gesto del Bautismo», de modo que «es en la compañía vocacional donde son perdonadas las culpas y anuladas las penas» (AED, 32, 51).
 
 Esta compañía es «un viviente aspecto del sacramento», del Bautismo: «Vosotros que habéis sido bautizados, os habéis immedesimado con Cristo» (Gal 3,27-28), hasta el punto de ser «una sola cosa, más aún, un solo ser» (AED, 32, 53). La gracia bautismal se vuelve así presencia operante en la unidad fraterna que ella misma genera (AED, 32, 51-53).
+
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+DLV trata el bautismo como nacimiento de la pertenencia y de la creatura nuova:
+
+- **El Bautismo como nacimiento de la «creatura nuova»** — si Dios se ha hecho un hombre, pertenecer a Dios coincide con pertenecer a Cristo; en el Bautismo el hombre nace criatura nueva (2Cor 5,14-15; Rm 14,7-8; Gal 2,20) (DLV 15, 15-31).
+- **Perstencia y economía bautismal** — la moralidad cristiana brota de la pertenencia bautismal a Cristo (DLV 10, 81-126).
 
 ## Distinciones importantes
 

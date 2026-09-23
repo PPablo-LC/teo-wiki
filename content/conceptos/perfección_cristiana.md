@@ -25,7 +25,7 @@ La perfección cristiana es posible en esta vida, aunque nunca absoluta (solo Di
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium dedica el capítulo V a la llamada universal a la santidad, que es la [[perfección_cristiana]]. «El divino Maestro y Modelo de toda perfección, el Señor Jesús, predicó a todos y cada uno de sus discípulos, cualquiera que fuese su condición, la santidad de vida, de la que El es iniciador y consumador» [ConcVatII, LG §40, citando Mt 5,48].
+Lumen Gentium dedica el capítulo V a la llamada universal a la santidad, que es la **perfección cristiana**. «El divino Maestro y Modelo de toda perfección, el Señor Jesús, predicó a todos y cada uno de sus discípulos, cualquiera que fuese su condición, la santidad de vida, de la que El es iniciador y consumador» [ConcVatII, LG §40, citando Mt 5,48].
 
 «Es, pues, completamente claro que todos los fieles, de cualquier estado o condición, están llamados a la plenitud de la vida cristiana y a la perfección de la caridad» [ConcVatII, LG §40]. En el logro de esta perfección, los fieles deben empeñar las fuerzas recibidas según la medida de la donación de Cristo, siguiendo sus huellas y obedeciendo en todo a la voluntad del Padre [ConcVatII, LG §40].
 

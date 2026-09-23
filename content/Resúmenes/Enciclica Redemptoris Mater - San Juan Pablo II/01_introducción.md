@@ -15,7 +15,7 @@ tags: ["resumen", "redemptoris mater"]
 - [[plenitud_de_los_tiempos]] — momento fijado desde la eternidad para el envío del Hijo
 - [[peregrinación_de_la_fe|peregrinación de la fe]] — itinerario de María que la Iglesia recorre de nuevo
 - [[inmaculada_concepción]] — María como «estrella de la mañana» que precede al sol de justicia
-- [[theotókos|Theotókos]] — dogma confirmado por Éfeso como sello del dogma de la Encarnación
+- [[theotokos|Theotókos]] — dogma confirmado por Éfeso como sello del dogma de la Encarnación
 - [[tipo_de_la_iglesia|María, tipo de la Iglesia]] — madre y virgen, en el orden de la fe, caridad y unión con Cristo
 
 ## Contenido

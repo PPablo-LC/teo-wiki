@@ -62,15 +62,15 @@ La *Lumen Gentium* desarrolla la imagen paulina del Cuerpo místico y afirma que
 
 ## Relaciones doctrinales
 
-El título de Cristo Cabeza es fundamental para la eclesiología del [[cuerpo_mistico_de_cristo]], pues establece la relación jerárquica entre Cristo y la Iglesia. Se conecta con la [[gracia_capital]], que es el medio por el cual la Cabeza comunica la vida sobrenatural. También se vincula con la [[autoridad_de_cristo]], pues la Cabeza gobierna el cuerpo, y con la [[comunion_de_los_santos]], pues la unidad del cuerpo se funda en la Cabeza.
+El título de Cristo Cabeza es fundamental para la eclesiología del [[cuerpo_místico_de_cristo]], pues establece la relación jerárquica entre Cristo y la Iglesia. Se conecta con la [[gracia_capital]], que es el medio por el cual la Cabeza comunica la vida sobrenatural. También se vincula con la [[autoridad_de_cristo]], pues la Cabeza gobierna el cuerpo, y con la [[comunión_de_los_santos]], pues la unidad del cuerpo se funda en la Cabeza.
 
 ## Ver también
 
 - [[gracia_capital]]
 - [[autoridad_de_cristo]]
-- [[cuerpo_mistico_de_cristo]]
-- [[comunion_de_los_santos]]
-- [[mediacion_de_cristo]]
+- [[cuerpo_místico_de_cristo]]
+- [[comunión_de_los_santos]]
+- [[mediación_de_cristo]]
 
 ## Referencias
 

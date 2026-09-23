@@ -14,13 +14,13 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 
 - [[delegado_pontificio]] — card. Velasio De Paolis, C.S.
 - [[sacerdocio]] — sacramento del orden y configuración con Cristo sacerdote
-- [[vocacion_religiosa]] — llamada de Dios a la vida consagrada
-- [[consejos_evangelicos]] — pobreza, castidad y obediencia como forma de vida
+- [[vocación_religiosa]] — llamada de Dios a la vida consagrada
+- [[consejos_evangélicos]] — pobreza, castidad y obediencia como forma de vida
 - [[vida_consagrada]] — «memoria viviente» de Cristo, la forma más elevada de vivir el Evangelio
 - [[regnum_christi]] — Movimiento en proceso de configuración canónica
 - [[carisma_legionario]] — don del Espíritu referido a la realeza de Cristo
-- [[nueva_evangelizacion]] — urgencia de anunciar el Evangelio en el mundo secularizado
-- [[secularizacion]] — pérdida del sentido de lo sagrado y de la trascendencia
+- [[nueva_evangelización]] — urgencia de anunciar el Evangelio en el mundo secularizado
+- [[secularización]] — pérdida del sentido de lo sagrado y de la trascendencia
 - [[realeza_de_cristo]] — misterio central del carisma del Regnum Christi
 - [[espiritualidad_del_regnum_christi]] — modo de relacionarse con Dios a la luz del misterio de Cristo Rey
 - [[vita_consecrata]] — exhortación apostólica de Juan Pablo II sobre la vida consagrada
@@ -28,7 +28,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[marcial_maciel]] — fundador cuya figura enigmática plantea la cuestión del carisma
 - [[consagrados_del_regnum_christi]] — miembros del tercer grado del RC
 - [[consulta]] — participación de los miembros en la toma de decisiones
-- [[fe_y_razon]] — armonía entre la luz de la fe y la luz de la razón
+- [[fe_y_razón]] — armonía entre la luz de la fe y la luz de la razón
 - [[laicismo]] — tendencia cultural que excluye a Dios del ámbito público
 
 ## Contenido
@@ -51,7 +51,7 @@ Reflexión profunda sobre el [[sacerdocio]] cristiano. Los nuevos sacerdotes son
 
 ### Conferencia introductoria — Castel di Guido, 24 de enero de 2012
 
-Conferencia para los miembros consagrados del [[regnum_christi]]. El delegado presenta el contexto: el RC ha crecido a la sombra de la Legión, la turbulencias se reflejan también sobre él, y la Iglesia dirige su atención pastoral al Movimiento. El tercer grado, constituido por personas que profesan los [[consejos_evangelicos]], necesita una justa autonomía. Se presenta el camino recorrido: informe de Mons. Blázquez, carta del 15 de octubre de 2011, carta del 21 de noviembre de 2011, «fase iluminativa» con conferencias del P. Ghirlanda sobre la naturaleza de la [[vida_consagrada]], la vida fraterna, las asociaciones de fieles y la participación en el carisma. Se subraya que la «fase iluminativa» es esencialmente un proceso de iluminación, no de imposición. Se aborda el gobierno interno de los consagrados: competencias, nombramientos y la restructuración de comunidades. El delegado exhorta a superar la desconfianza, a cultivar la oración y la escucha del Espíritu, y a distinguir entre propuestas y decisiones formales.
+Conferencia para los miembros consagrados del [[regnum_christi]]. El delegado presenta el contexto: el RC ha crecido a la sombra de la Legión, la turbulencias se reflejan también sobre él, y la Iglesia dirige su atención pastoral al Movimiento. El tercer grado, constituido por personas que profesan los [[consejos_evangélicos]], necesita una justa autonomía. Se presenta el camino recorrido: informe de Mons. Blázquez, carta del 15 de octubre de 2011, carta del 21 de noviembre de 2011, «fase iluminativa» con conferencias del P. Ghirlanda sobre la naturaleza de la [[vida_consagrada]], la vida fraterna, las asociaciones de fieles y la participación en el carisma. Se subraya que la «fase iluminativa» es esencialmente un proceso de iluminación, no de imposición. Se aborda el gobierno interno de los consagrados: competencias, nombramientos y la restructuración de comunidades. El delegado exhorta a superar la desconfianza, a cultivar la oración y la escucha del Espíritu, y a distinguir entre propuestas y decisiones formales.
 
 ### Saludo — Encuentro de Juventud y Familia del RC, León, México, 25 de febrero de 2012
 

@@ -19,7 +19,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 - [[nombramientos]]
 - [[delegación]]
 - [[territorio]]
-- [[Regnum_Christi]]
+- [[regnum_christi]]
 
 ## Contenido
 

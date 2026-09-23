@@ -27,7 +27,7 @@ En *Peripheries* (23_peripheries_paone.md), Jason C. Paone presenta a Congar y a
 
 ## Relaciones doctrinales
 
-[[ressourcement]], [[henri_de_lubac]], [[eclesiología]], [[concílio_vaticano_ii]], [[lumen_gentium]], [[dei_verbum]], [[coraje]], [[reforma_de_la_iglesia]]
+[[ressourcement]], [[henri_de_lubac]], [[eclesiología]], [[concilio_vaticano_ii]], [[lumen_gentium]], [[dei_verbum]], [[coraje]], [[reforma_de_la_iglesia]]
 
 ## Ver también
 

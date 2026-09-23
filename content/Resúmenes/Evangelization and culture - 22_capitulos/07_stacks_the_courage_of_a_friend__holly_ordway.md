@@ -22,7 +22,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 
 ### The Courage of a Friend
 
-Holly Ordway comienza citando el [[catecismo_de_la_iglesia_catolica]] sobre la [[fortaleza]] (n. 1808): «es la virtud moral que asegura firmeza en las dificultades y constancia en la búsqueda del bien». No se limita a los grandes momentos de crisis, sino que es una virtud para el uso cotidiano. Ordway propone a Samwise Gamgee, el hobbit de *El Señor de los Anillos* de [[j_r_r_tolkien]], como el mejor modelo de esta valentía humilde y cotidiana.
+Holly Ordway comienza citando el [[catecismo_de_la_iglesia_católica]] sobre la [[fortaleza]] (n. 1808): «es la virtud moral que asegura firmeza en las dificultades y constancia en la búsqueda del bien». No se limita a los grandes momentos de crisis, sino que es una virtud para el uso cotidiano. Ordway propone a Samwise Gamgee, el hobbit de *El Señor de los Anillos* de [[j_r_r_tolkien]], como el mejor modelo de esta valentía humilde y cotidiana.
 
 ### La firmeza de Sam
 

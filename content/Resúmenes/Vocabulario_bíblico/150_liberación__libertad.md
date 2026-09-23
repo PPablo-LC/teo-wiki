@@ -14,13 +14,13 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[salvacion]] — la salvación, aspecto esencial del evangelio
-- [[redencion]] — la primera redención como liberación victoriosa
+- [[salvación]] — la salvación, aspecto esencial del evangelio
+- [[redención]] — la primera redención como liberación victoriosa
 - [[exilio]] — la ruina de Jerusalén y la deportación
 - [[babel]] — la liberación de los deportados a Babilonia
 - [[venganza]] — el góel que venga a un pariente asesinado
 - [[alianza]] — el vínculo de parentesco entre Yahveh e Israel
-- [[exodo]] — el primer éxodo
+- [[éxodo]] — el primer éxodo
 - [[esposo]] — la esposa de Yahveh
 - [[misericordia]] — la misericordia divina
 - [[castigos]] — el castigo de los pecados del pueblo
@@ -34,9 +34,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[gracia]] — la sobreabundancia de la gracia
 - [[bautismo]] — la adhesión a Cristo en el bautismo
 - [[muerte]] — la muerte vencida
-- [[resurreccion]] — la resurrección gloriosa
+- [[resurrección]] — la resurrección gloriosa
 - [[ley]] — la ley del Espíritu que da la vida
-- [[espiritu]] — el Espíritu que cumple la ley en nosotros
+- [[espíritu]] — el Espíritu que cumple la ley en nosotros
 - [[orgullo]] — la confianza intrépida, la parresia
 - [[hijo]] — el espíritu de hijo adoptivo
 - [[carne]] — la libertad que no es pretexto para la carne
@@ -47,19 +47,19 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-«Hermanos, habéis sido llamados a la libertad» *Gal 5,13*: éste es uno de los aspectos esenciales del evangelio de la [[salvacion|salvación]]; Jesús vino a «anunciar a los cautivos la liberación, a devolver la libertad a los oprimidos» *Lc 4,18*. Su intervención es eficaz para todos: paganos de otro tiempo, que se sentían regidos por la fatalidad, y judíos que se negaban a confesarse esclavos *Jn 8,33*, pero también masas humanas de hoy día, que aspiran confusamente a una liberación total. Cierto, hay libertad y libertad. La Biblia no da definición; hace algo mejor: traza un camino. Muestra cómo Dios se cuidó de liberar a su pueblo (I), y cómo la fe en Cristo hace posible la auténtica libertad (II).
+«Hermanos, habéis sido llamados a la libertad» *Gal 5,13*: éste es uno de los aspectos esenciales del evangelio de la [[salvación|salvación]]; Jesús vino a «anunciar a los cautivos la liberación, a devolver la libertad a los oprimidos» *Lc 4,18*. Su intervención es eficaz para todos: paganos de otro tiempo, que se sentían regidos por la fatalidad, y judíos que se negaban a confesarse esclavos *Jn 8,33*, pero también masas humanas de hoy día, que aspiran confusamente a una liberación total. Cierto, hay libertad y libertad. La Biblia no da definición; hace algo mejor: traza un camino. Muestra cómo Dios se cuidó de liberar a su pueblo (I), y cómo la fe en Cristo hace posible la auténtica libertad (II).
 
 ## I. La liberación de Israel
 
 ### La salida de Egipto
 
-Un acontecimiento fundamental marcó los orígenes del pueblo elegido, su liberación por Dios de la servidumbre de Egipto *Ex 1-15*. El AT emplea a este propósito sobre todo dos verbos característicos, el primero de los cuales (*gá'al*: *Ex 6,6* *Sal 74,2* *77,16*) es un término de derecho familiar, mientras que el segundo (*pádáh*: *Dt 7,8* *9,26* *Sal 78,42*) pertenece originariamente al derecho comercial («liberar contra equivalente»). Pero los dos verbos son prácticamente sinónimos cuando tienen por sujeto a Dios, y en la inmensa mayoría de los casos la LXX los tradujo de la misma manera (por *lytrusthai*, con frecuencia traducido en latín por *redímere*). La etimología del verbo griego (*lytron*, «rescate») no debe inducir a error acerca de su significado: el conjunto de los textos bíblicos muestra que la primera [[redencion|redención]] fue una liberación victoriosa, y que Yahveh no pagó rescate alguno a los opresores de Israel.
+Un acontecimiento fundamental marcó los orígenes del pueblo elegido, su liberación por Dios de la servidumbre de Egipto *Ex 1-15*. El AT emplea a este propósito sobre todo dos verbos característicos, el primero de los cuales (*gá'al*: *Ex 6,6* *Sal 74,2* *77,16*) es un término de derecho familiar, mientras que el segundo (*pádáh*: *Dt 7,8* *9,26* *Sal 78,42*) pertenece originariamente al derecho comercial («liberar contra equivalente»). Pero los dos verbos son prácticamente sinónimos cuando tienen por sujeto a Dios, y en la inmensa mayoría de los casos la LXX los tradujo de la misma manera (por *lytrusthai*, con frecuencia traducido en latín por *redímere*). La etimología del verbo griego (*lytron*, «rescate») no debe inducir a error acerca de su significado: el conjunto de los textos bíblicos muestra que la primera [[redención|redención]] fue una liberación victoriosa, y que Yahveh no pagó rescate alguno a los opresores de Israel.
 
 ### Dios, el «góel» de Israel
 
 Cuando las infidelidades del pueblo de Dios dieron por resultado la ruina de Jerusalén y el [[exilio|exilio]], la liberación de los judíos deportados a [[babel|Babilonia]] fue una segunda redención, cuya buena nueva constituye el mensaje principal de *Is 40-55*. Yahveh, el Santo de Israel, es su «libertador», su *góel* *Is 43,14* *44,6.24* *47,4* *Jer 50,34*.
 
-En el antiguo derecho hebreo, el *góel* es el pariente próximo, a quien incumbe el deber de defender a los suyos, ya se trate de mantener el patrimonio familiar *Lev 25,23ss*, de liberar a un «hermano» caído en esclavitud *Lev 25,26-49*, de proteger a una viuda *Rut 4,5* o de [[venganza|vengar]] a un pariente asesinado *Num 35,19ss*. El empleo del título de *góel* en *Is 40-55* sugiere la persistencia de un vínculo de parentesco entre Yahveh e Israel: por razón de la [[alianza|alianza]] contraída en tiempos del primer [[exodo|éxodo]] (ya *Ex 4,22*), la nación escogida es, a pesar de sus faltas, la [[esposo|esposa]] de Yahveh *Is 50,1*. Es manifiesto el paralelismo entre las dos liberaciones *Is 10,25ss* *40,3*; la segunda es gratuita no menos que la primera *Is 45,13* *52,3*, y la [[misericordia|misericordia]] de Dios aparece en ella todavía más, puesto que el exilio era el [[castigos|castigo]] de los pecados del pueblo.
+En el antiguo derecho hebreo, el *góel* es el pariente próximo, a quien incumbe el deber de defender a los suyos, ya se trate de mantener el patrimonio familiar *Lev 25,23ss*, de liberar a un «hermano» caído en esclavitud *Lev 25,26-49*, de proteger a una viuda *Rut 4,5* o de [[venganza|vengar]] a un pariente asesinado *Num 35,19ss*. El empleo del título de *góel* en *Is 40-55* sugiere la persistencia de un vínculo de parentesco entre Yahveh e Israel: por razón de la [[alianza|alianza]] contraída en tiempos del primer [[éxodo|éxodo]] (ya *Ex 4,22*), la nación escogida es, a pesar de sus faltas, la [[esposo|esposa]] de Yahveh *Is 50,1*. Es manifiesto el paralelismo entre las dos liberaciones *Is 10,25ss* *40,3*; la segunda es gratuita no menos que la primera *Is 45,13* *52,3*, y la [[misericordia|misericordia]] de Dios aparece en ella todavía más, puesto que el exilio era el [[castigos|castigo]] de los pecados del pueblo.
 
 ### La espera de la liberación definitiva
 
@@ -89,9 +89,9 @@ Su eficacia se traduce en un terreno triple: respecto al pecado, a la muerte, a 
 
 a. *El pecado* es el verdadero déspota, de cuyo yugo nos arranca Jesucristo. En *Rom 1-3* describe Pablo el rigor de la tiranía universal que ejercía el [[pecado|pecado]] en el mundo; pero lo hace para poner tanto más de relieve la sobreabundancia de la [[gracia|gracia]] *Rom 5,15.20* *8,2*. El [[bautismo|bautismo]], asociándonos al misterio de la muerte y de la resurrección de Cristo, puso fin a nuestra servidumbre *Rom 6,6*. Con esta liberación se realiza lo esencial de la espera del AT, tal como la comprendía la élite de Israel *Lc 1,68-75*. Citando Pablo a *Is 59,20*, según los LXX, destaca bien el carácter espiritual de esta liberación: «De Sión vendrá el libertador, que quitará las impiedades de en medio de Jacob» *Rom 11,26*. Y el Apóstol revela en otro lugar a los paganos el «misterio» de su pleno acceso a los privilegios del pueblo elegido; las maravillas de la primera liberación se han renovado para todos nosotros: «Dios nos ha sustraído al imperio de las tinieblas y nos ha transferido al reino de su Hijo muy amado, en quien tenemos la redención, la remisión de los pecados» *Col 1,13s*.
 
-b. *La muerte*. La [[muerte|muerte]], compañera del pecado *Gen 2,17* *Sab 2,23s* *Rom 5,12*, es también vencida; ha perdido su veneno *1Cor 15,56*. Los cristianos no están ya esclavizados por su temor *Heb 2,14s*. Desde luego, la liberación en este punto no será perfecta sino en la [[resurreccion|resurrección]] gloriosa *1Cor 15,26.54s* y nosotros estamos todavía «en espera de la redención de nuestro cuerpo» *Rom 8,25*. Pero ya en cierto modo se han inaugurado los últimos tiempos y nosotros «hemos pasado de la muerte a la vida» *1Jn 3,14* *Jn 5,24* en la medida en que vivimos en la fe y en la caridad.
+b. *La muerte*. La [[muerte|muerte]], compañera del pecado *Gen 2,17* *Sab 2,23s* *Rom 5,12*, es también vencida; ha perdido su veneno *1Cor 15,56*. Los cristianos no están ya esclavizados por su temor *Heb 2,14s*. Desde luego, la liberación en este punto no será perfecta sino en la [[resurrección|resurrección]] gloriosa *1Cor 15,26.54s* y nosotros estamos todavía «en espera de la redención de nuestro cuerpo» *Rom 8,25*. Pero ya en cierto modo se han inaugurado los últimos tiempos y nosotros «hemos pasado de la muerte a la vida» *1Jn 3,14* *Jn 5,24* en la medida en que vivimos en la fe y en la caridad.
 
-c. *La ley*. Por lo mismo nosotros «no estamos ya bajo la [[ley|ley]], sino bajo la [[gracia|gracia]]» *Rom 6,15*. Por sorprendente, o trivial, que pueda parecer esta afirmación de Pablo, no conviene minimizarla, so pena de desnaturalizar el Evangelio de salvación anunciado por el Apóstol. Puesto que hemos muerto en forma mística con Cristo, estamos ya desligados de la ley *Rom 7,1-6*, y no podemos buscar el principio de nuestra salvación en el cumplimiento de una ley exterior *Gal 3,2.13* *4,3ss*. Estamos bajo un régimen nuevo, al que Pablo, es cierto, da a veces el nombre de «ley», pero «es la ley del Espíritu que da la vida» *Rom 8,2*, una ley que el mismo [[espiritu|Espíritu]] Santo cumple en nosotros; ahora bien, «donde está el Espíritu del Señor, allí está la libertad» *2Cor 3,17* *Gal 5,16.22s*.
+c. *La ley*. Por lo mismo nosotros «no estamos ya bajo la [[ley|ley]], sino bajo la [[gracia|gracia]]» *Rom 6,15*. Por sorprendente, o trivial, que pueda parecer esta afirmación de Pablo, no conviene minimizarla, so pena de desnaturalizar el Evangelio de salvación anunciado por el Apóstol. Puesto que hemos muerto en forma mística con Cristo, estamos ya desligados de la ley *Rom 7,1-6*, y no podemos buscar el principio de nuestra salvación en el cumplimiento de una ley exterior *Gal 3,2.13* *4,3ss*. Estamos bajo un régimen nuevo, al que Pablo, es cierto, da a veces el nombre de «ley», pero «es la ley del Espíritu que da la vida» *Rom 8,2*, una ley que el mismo [[espíritu|Espíritu]] Santo cumple en nosotros; ahora bien, «donde está el Espíritu del Señor, allí está la libertad» *2Cor 3,17* *Gal 5,16.22s*.
 
 ### El ejercicio de la libertad cristiana
 

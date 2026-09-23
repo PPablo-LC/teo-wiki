@@ -32,7 +32,7 @@ tags: ["resumen", "creatividad", "fe", "conversión", "narrativa"]
 - Criado en Cristianismo Científico; rechazó esa fe en la adolescencia
 - Argumento «mentiroso, lunático o Señor»
 - Bishop Barron «cerró el trato»: amable, inteligente, sin aguas
-- «Nadie puede ser escritor sin leer la [[Biblia]]»
+- «Nadie puede ser escritor sin leer la [[biblia]]»
 
 **La felicidad no está en las cosas:**
 - «No hay alegría que encontrar dentro de uno mismo, excepto a través del Señor»

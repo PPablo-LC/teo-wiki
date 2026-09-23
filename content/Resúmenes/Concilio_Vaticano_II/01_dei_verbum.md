@@ -14,7 +14,7 @@ tags: ["resumen", "concilio vaticano ii", "revelación"]
 
 - [[revelación_divina]] — Dios se revela a sí mismo y da a conocer el misterio de su voluntad
 - [[historia_de_la_salvación]] — plan de la revelación realizado con hechos y palabras conexos
-- [[tradición_apóstólica]] — transmisión íntegra de la palabra de Dios a los sucesores de los Apóstoles
+- [[tradición_apostólica]] — transmisión íntegra de la palabra de Dios a los sucesores de los Apóstoles
 - [[sagrada_escritura]] — palabra de Dios consignada por escrito bajo inspiración del Espíritu Santo
 - [[magisterio_de_la_iglesia]] — único oficio de interpretar auténticamente la palabra de Dios
 - [[depósito_de_la_fe]] — la Sagrada Tradición y la Sagrada Escritura constituyen un solo depósito sagrado

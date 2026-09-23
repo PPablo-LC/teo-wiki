@@ -39,6 +39,27 @@ San Maximiliano Kolbe es presentado como el modelo supremo de liderazgo sacrific
 
 **El coraje de los santos (01_from_the_desk.md).** Barron cita a Kolbe entre los modelos de coraje transfigurado por la gracia (con María, Juana de Arco y Teresa Benedicta de la Cruz).
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. I, lo recuerda como «mártir de la caridad»:
+franciscano conventual polaco de ardor apostólico, fundó en Niepokalanov
+la Ciudad de la Inmaculada (basílica mariana, convento de 762 frailes y
+complejo editorial con proyección hasta Japón). Detenido por los nazis,
+consideró el *lager* como un nuevo campo de misión. Durante un castigo
+colectivo tras la fuga de un preso, se ofreció espontáneamente a
+sustituir a un padre de familia condenado al bunker del hambre. La larga
+agonía quedó marcada por las oraciones e himnos que recitaba en alta voz,
+respondidos desde las celdas vecinas: «el campo se convirtió en un lugar
+sagrado». Murió el 14 de agosto de 1941 —víspera de la Asunción—,
+«radiante de un modo insólito» según su carcelero: «la fe y la caridad
+habían alcanzado la victoria, allí donde se había programado la
+destrucción de la misma humanidad del hombre».
+
+AMS subraya que su sustitución encarna la «ley de reversibilidad» de la
+caridad y las dos condiciones del martirio: la fuerza no viene de
+fortaleza humana sino de la debilidad sostenida por Cristo (cf.
+[[martirio]], [[caridad]]).
+
 ## Ver también
 
 [[fortaleza]], [[virtud_de_la_fortaleza]], [[martirio]], [[caridad]], [[espiritualidad_mariana]], [[inmaculada_concepción]], [[milicia_de_la_inmaculada]]
@@ -49,3 +70,4 @@ San Maximiliano Kolbe es presentado como el modelo supremo de liderazgo sacrific
 - John Wissler, *Leading with Charity Through Self-Sacrifice* (2022)
 - Sean Glass, *A Call to Fortitude* (2022)
 - EAC-15, archivos 13 y 22 (*What Is Suffering?*; *Lessons from Elijah*)
+- A. M. Sicari, *Así mueren los santos*, cap. I (Rialp, 2020)

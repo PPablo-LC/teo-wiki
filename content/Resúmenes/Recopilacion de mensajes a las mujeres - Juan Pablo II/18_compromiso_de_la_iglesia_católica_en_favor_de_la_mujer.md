@@ -40,7 +40,7 @@ El Papa exhorta a:
 - las mujeres y organizaciones de mujeres a establecer modelos de solidaridad;
 - los hombres en la Iglesia a realizar un cambio de corazón y tener una visión positiva de la mujer.
 
-Como seguidores de [[Jesucristo]], que se identifica con los más pequeños, no podemos permanecer insensibles ante las necesidades de las niñas víctimas de la violencia y de la falta de respeto a su dignidad.
+Como seguidores de [[jesucristo]], que se identifica con los más pequeños, no podemos permanecer insensibles ante las necesidades de las niñas víctimas de la violencia y de la falta de respeto a su dignidad.
 
 ## Mapa del archivo fuente
 

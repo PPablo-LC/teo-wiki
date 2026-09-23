@@ -28,6 +28,20 @@ Luisa representa la **santidad laical activa**: madre y viuda, no monja de claus
 - [[san_vicente_de_paúl]]
 - [[evangelization_and_culture_issue_12_childhood]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. IV: Luisa y Vicente «eran muy distintos,
+tanto por origen social como por mentalidad, pero descubrieron tener el
+mismo corazón cuando se trataba de acercarse a Jesús y a sus pobres».
+Vicente le escribió: «Solo Dios sabe lo que yo soy para ti y lo que tú
+eres para mí… **Mi corazón no es ya mío, sino tuyo y de Nuestro
+Señor**». Ya en 1637, viéndola consumir en la caridad todas sus fuerzas,
+decía de ella: «Considerando el orden natural de las cosas, la considero
+ya muerta desde hace diez años… Pero Dios sabe cuánta fuerza de espíritu
+tiene». En el lecho de muerte pidió ver por última vez a «el padre de su
+alma»; Vicente mandó decir: «Señora, usted parte antes que yo». Y así
+sucedió: «se rencontraron en el Paraíso seis meses después».
+
 ## Referencias
 
 - *Evangelization & Culture* 12, §10.

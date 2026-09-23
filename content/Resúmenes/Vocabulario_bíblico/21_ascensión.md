@@ -18,22 +18,22 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[dios]] — Dios como señor del cielo y la tierra
 - [[tierra]] — la residencia de los hombres, escabel de Dios
 - [[nube]] — vehículo de la presencia divina
-- [[espiritu]] — el Espíritu enviado por Dios que debe también descender
+- [[espíritu]] — el Espíritu enviado por Dios que debe también descender
 - [[palabra_de_dios]] — la palabra que vuelve a Dios una vez realizada su obra
-- [[angeles]] — los ángeles que habitan el cielo con Dios
-- [[montana]] — Dios dando cita a los hombres en la cima de montañas
+- [[ángeles]] — los ángeles que habitan el cielo con Dios
+- [[montaña]] — Dios dando cita a los hombres en la cima de montañas
 - [[hijo]] — el Hijo del hombre que viene hacia el anciano de días
-- [[resurreccion]] — la ascensión como etapa distinta de la resurrección
+- [[resurrección]] — la ascensión como etapa distinta de la resurrección
 - [[diestra]] — Cristo exaltado a la diestra de Dios
 - [[rey]] — Cristo que señorea como rey en la ascensión
 - [[gloria]] — el estado glorificado de Cristo
-- [[numeros]] — el número 40 de los días de apariciones
-- [[pentecostes]] — la ascensión preparando el envío del Espíritu
+- [[números]] — el número 40 de los días de apariciones
+- [[pentecostés]] — la ascensión preparando el envío del Espíritu
 - [[presencia_de_dios]] — la retirada de la presencia manifiesta de Cristo
 - [[esperanza]] — la espiritualidad de ascensión basada en la esperanza
 - [[vida]] — la vida verdadera escondida con Cristo en Dios
 - [[cruz]] — el triunfo de la cruz sobre los poderes celestiales
-- [[elias]] — Elías como precedente bíblico del arrebatamiento al cielo
+- [[elías]] — Elías como precedente bíblico del arrebatamiento al cielo
 
 ## Contenido
 

@@ -14,12 +14,12 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[espiritu]] — el Espíritu Santo como primer don
+- [[espíritu]] — el Espíritu Santo como primer don
 - [[don]] — los carismas como dones gratuitos
 - [[gracia]] — el carisma como «don gratuito» relacionado con la gracia
-- [[pentecostes]] — la manifestación del Espíritu el día de pentecostés
+- [[pentecostés]] — la manifestación del Espíritu el día de pentecostés
 - [[profeta]] — el carisma de la profecía
-- [[apostoles]] — el apostolado como primer carisma
+- [[apóstoles]] — el apostolado como primer carisma
 - [[milagro]] — el don de milagros
 - [[lengua]] — el hablar en lenguas
 - [[poder]] — la predicación acompañada de obras de poder
@@ -27,11 +27,11 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[iglesia]] — la Iglesia como cuerpo de Cristo edificada por los carismas
 - [[unidad]] — la unidad de los dones en el único Espíritu
 - [[cuerpo]] — el cuerpo de Cristo y la comparación del cuerpo humano
-- [[jesus]] — confesar que Jesús es el Señor como criterio absoluto
+- [[jesús]] — confesar que Jesús es el Señor como criterio absoluto
 - [[anticristo]] — el falso profeta animado del espíritu del anticristo
 - [[caridad]] — la caridad como primer don
 - [[autoridad]] — los carismas sometidos a la autoridad eclesiástica
-- [[imposicion_de_manos]] — el don recibido por imposición de manos
+- [[imposición_de_manos]] — el don recibido por imposición de manos
 
 ## Contenido
 

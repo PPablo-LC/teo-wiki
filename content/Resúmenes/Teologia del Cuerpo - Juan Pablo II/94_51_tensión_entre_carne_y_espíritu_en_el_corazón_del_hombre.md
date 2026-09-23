@@ -14,7 +14,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 - [[tensión_carne_espíritu]] — la contraposición Gál 5, 17 en el corazón
 - [[vida_segun_la_carne]] — el hombre de la triple concupiscencia
-- [[vida_segun_el_espíritu]] — el fruto del Espíritu Santo
+- [[vida_según_el_espíritu]] — el fruto del Espíritu Santo
 - [[combate]] — la lucha entre el bien y el mal en el corazón
 - [[justificación]] — la justificación por la fe y la potencia de Cristo
 - [[frutos_del_espíritu_santo]] — caridad, gozo, paz... templanza

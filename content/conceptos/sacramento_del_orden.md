@@ -34,7 +34,7 @@ El CIC regula el sacramento del orden en los cánones 1008-1054. Los órdenes so
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium desarrolla el [[sacramento_del_orden]] en los números LG §10-11, §21, §28-29. El sacerdocio ministerial, esencialmente distinto del común, confecciona el sacrificio eucarístico en la persona de Cristo y lo ofrece en nombre de todo el pueblo [ConcVatII, LG §10].
+Lumen Gentium desarrolla el **sacramento del orden** en los números LG §10-11, §21, §28-29. El sacerdocio ministerial, esencialmente distinto del común, confecciona el sacrificio eucarístico en la persona de Cristo y lo ofrece en nombre de todo el pueblo [ConcVatII, LG §10].
 
 En la consagración episcopal se confiere «la plenitud del sacramento del orden, llamada, en la práctica litúrgica de la Iglesia y en la enseñanza de los Santos Padres, sumo sacerdocio, cumbre del ministerio sagrado». Junto con el oficio de santificar, confiere también los oficios de enseñar y de regir [ConcVatII, LG §21]. Por la imposición de las manos y las palabras de la consagración se confiere la gracia del Espíritu Santo y se imprime el sagrado carácter [ConcVatII, LG §21].
 
@@ -47,7 +47,7 @@ El sacramento del orden puede definirse como «un sacramento instituido por Nues
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II describe el [[sacramento_del_orden]] como «don y misterio» que configura al sacerdote con Cristo Cabeza y Pastor. En la ceremonia, la postración —«yacer por tierra en forma de Cruz»— significa «acoger en la propia vida la Cruz de Cristo» [DyM, IV]. La imposición de manos y la oración consecratoria confieren el poder de actuar *[[in_persona_christi]]*, especialmente en la Eucaristía [DyM, VIII]. El sacramento no es meramente funcional sino ontológico: transforma el ser del sacerdote para siempre [DyM, VII].
+Juan Pablo II describe el **sacramento del orden** como «don y misterio» que configura al sacerdote con Cristo Cabeza y Pastor. En la ceremonia, la postración —«yacer por tierra en forma de Cruz»— significa «acoger en la propia vida la Cruz de Cristo» [DyM, IV]. La imposición de manos y la oración consecratoria confieren el poder de actuar *[[in_persona_christi]]*, especialmente en la Eucaristía [DyM, VIII]. El sacramento no es meramente funcional sino ontológico: transforma el ser del sacerdote para siempre [DyM, VII].
 
 ## Distinciones importantes
 

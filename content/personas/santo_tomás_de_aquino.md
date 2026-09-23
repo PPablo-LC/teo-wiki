@@ -81,6 +81,25 @@ Selman lo llama «existencialista en el verdadero sentido de la palabra», más 
 - [[john_wissler_virtuous_leadership]]
 - [[tim_barry_the_strength_of_meekness]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI, añade el retrato devocional: Tomás
+compuso «con corazón ardiente, los preciosos himnos eucarísticos que se
+emplean todavía hoy en la oración litúrgica». Ante el Crucificado oyó:
+«Tomás, has escrito bien de mí. ¿Qué recompensa quieres?», y respondió:
+«¡Nada más que a ti, Señor!». Tres meses antes de morir, tras una
+experiencia mística durante la Misa, no quiso escribir más: «Lo que he
+escrito es solo paja respecto a cuanto me ha sido revelado».
+
+Enfermo camino del Concilio de Lyon, hospedado en Fossanova, comentó el
+*Cantar de los Cantares* a petición de los monjes; al séptimo capítulo,
+en las palabras «Ven, Amado mío, entremos en el jardín…», «leyó con
+vehemente ardor de espíritu y enseguida exhaló el alma… hacia el jardín
+de la felicidad eterna». Tenía 49 años. Al objetarse que no había hecho
+milagros en vida, Juan XXII respondió en el proceso: «**¡Cuantas
+afirmaciones teológicas escribió, fueron otros tantos milagros!**» — la
+síntesis prodigiosa de intelecto y amor con que compuso sus obras.
+
 ## Ver también
 [[san_agustín]], [[pseudo-dionisio_areopagita]], [[antonio_royo_marín]], [[teología_ascética_y_mística]], [[eucaristía]], [[presencia_real]], [[transubstanciación]], [[persona_eucarística]], [[inteligencia_artificial]], [[libre_albedrío]], [[st_thomas_aquinas_teacher_of_truth]], [[san_alberto_magno]]
 

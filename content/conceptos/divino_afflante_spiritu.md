@@ -13,7 +13,7 @@ description: "Encíclica del Papa Pío XII publicada el 30 de septiembre de 1943
 
 ## Definición
 
-Encíclica del Papa Pío XII publicada el 30 de septiembre de 1943, considerada un hito en la exégesis católica contemporánea. Promovió el estudio de los géneros literarios en la Biblia, alentó el recurso a las lenguas originales (hebreo y griego) y reconoció la legítima autonomía del método histórico-crítico dentro del marco de la fe. Abrió el camino para posteriores desarrollos en hermenéutica bíblica, culminados en la constitución *[[Dei Verbum]]* del Concilio Vaticano II.
+Encíclica del Papa Pío XII publicada el 30 de septiembre de 1943, considerada un hito en la exégesis católica contemporánea. Promovió el estudio de los géneros literarios en la Biblia, alentó el recurso a las lenguas originales (hebreo y griego) y reconoció la legítima autonomía del método histórico-crítico dentro del marco de la fe. Abrió el camino para posteriores desarrollos en hermenéutica bíblica, culminados en la constitución *[[dei_verbum]]* del Concilio Vaticano II.
 
 ## Ver también
 

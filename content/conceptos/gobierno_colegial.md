@@ -16,7 +16,7 @@ El gobierno colegial es el modo de ejercer la potestad eclesiástica en el que v
 
 ## Ver también
 
-[[colegialidad_episcopal]], [[colegio_apostólico]], [[concilio_ecuménico]], [[conferencias_episcopales]], [[sinodo_de_los_obispos]]
+[[colegialidad_episcopal]], [[colegio_apostólico]], [[concilio_ecuménico]], [[conferencias_episcopales]], [[sínodo_de_los_obispos]]
 
 ## Referencias
 

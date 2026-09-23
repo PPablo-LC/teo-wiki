@@ -17,10 +17,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[animales]] — la fauna maligna en conexión con los demonios
 - [[demonios]] — los sátiros y la presencia de los demonios
 - [[mar]] — el dragón como encarnación del mar en la simbólica oriental
-- [[creacion]] — el acto creador de Dios como combate victorioso contra el monstruo primordial
+- [[creación]] — el acto creador de Dios como combate victorioso contra el monstruo primordial
 - [[guerra]] — la guerra primordial entre Yahveh y sus enemigos
 - [[enemigo]] — los enfrentamientos históricos entre Yahveh y sus enemigos
-- [[paraiso]] — el drama del paraíso como primer enfrentamiento
+- [[paraíso]] — el drama del paraíso como primer enfrentamiento
 - [[satanás]] — la serpiente del Génesis como Satán
 - [[mujer]] — la posteridad de la mujer sobre la que la serpiente adquirió poder
 - [[juicio]] — las bestias como artífices del juicio de Dios

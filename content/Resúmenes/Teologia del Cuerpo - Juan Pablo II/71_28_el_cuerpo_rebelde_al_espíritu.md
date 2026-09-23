@@ -20,7 +20,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[autoposesión]] — la estructura de autoposesión y autodominio
 - [[inocencia_originaria]] — el cuerpo que sacaba fuerza del Espíritu
 - [[hombre_de_concupiscencia]] — el «hombre de la concupiscencia» tras el pecado
-- [[spiritu]] — el espíritu humano y su rebeldía
+- [[divino_afflante_spiritu]] — el espíritu humano y su rebeldía
 - [[triple_concupiscencia]] — la dimensión joánica de la concupiscencia
 - [[sexualidad]] — el carácter «sexual» de la vergüena originaria
 - [[corazón]] — el corazón como sede de deseo y pudor

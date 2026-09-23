@@ -15,7 +15,7 @@ tags: ["resumen", "creatividad", "inteligencia_artificial", "libre_albedrío", "
 - [[creatividad]] — Diferencia entre creación divina, humana y artificial
 - [[libre_albedrío]] — Decisión libre de crear
 - [[alma]] — Reflexividad como rasgo de la mente racional
-- [[imagen_de_Dios]] — Procreación como reflejo de la creación divina
+- [[imagen_de_dios]] — Procreación como reflejo de la creación divina
 
 ## Contenido
 

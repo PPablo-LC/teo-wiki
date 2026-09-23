@@ -12,7 +12,7 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 
 ## Conceptos básicos referenciados
 
-- [[formacion_cristiana]] — formación humana integral del legionario, base de su formación espiritual
+- [[formación_cristiana]] — formación humana integral del legionario, base de su formación espiritual
 - [[espiritualidad_legionaria]] — el espíritu que inspira las normas de urbanidad y trato
 - [[disciplina_religiosa]] — la observancia de las normas de conducta y vida común
 - [[pobreza]] — el espíritu de pobreza aplicado a la mesa y las necesidades personales

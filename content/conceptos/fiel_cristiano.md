@@ -27,7 +27,7 @@ El CIC dedica los cánones 204-223 a la condición fundamental de los fieles cri
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium establece la condición fundamental de los [[fiel_cristiano]]. Todos los fieles, incorporados a la Iglesia por el [[bautismo]], quedan destinados por el carácter al culto de la religión cristiana y obligados a confesar la fe [ConcVatII, LG §11]. Por el bautismo son consagrados como casa espiritual y [[sacerdocio_común]] [ConcVatII, LG §10].
+Lumen Gentium establece la condición fundamental de los **fiel cristiano**. Todos los fieles, incorporados a la Iglesia por el [[bautismo]], quedan destinados por el carácter al culto de la religión cristiana y obligados a confesar la fe [ConcVatII, LG §11]. Por el bautismo son consagrados como casa espiritual y [[sacerdocio_común]] [ConcVatII, LG §10].
 
 El Pueblo de Dios es uno: «un Señor, una fe, un bautismo» [ConcVatII, LG §32, citando Ef 4,5]. «Es común la dignidad de los miembros, que deriva de su regeneración en Cristo; común la gracia de la filiación; común la llamada a la perfección» [ConcVatII, LG §32]. Existe una auténtica igualdad entre todos en cuanto a la dignidad, aunque hay diversidad de ministerios [ConcVatII, LG §32].
 

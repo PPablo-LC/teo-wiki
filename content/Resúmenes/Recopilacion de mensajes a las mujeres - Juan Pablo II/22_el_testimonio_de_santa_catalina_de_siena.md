@@ -12,7 +12,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[santa_Catalina_de_Siena]] — mística del siglo XIV, mensajera de paz
+- [[santa_catalina_de_siena]] — mística del siglo XIV, mensajera de paz
 - [[mujer_educadora_de_paz]] — caso ejemplar del papel de la mujer en la sociedad
 - [[reconciliación]] — fruto de la palabra firme y dulce de Catalina
 - [[diálogo]] — modo apropiado y evangélico para afrontar los problemas entre pueblos
@@ -24,7 +24,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 #### (Angelus 12-02-95)
 
-Siguiendo la reflexión sobre la misión de paz de la mujer, el Papa presenta el testimonio de [[santa_Catalina_de_Siena]]. Tiene algo de increíble la vida de esta mujer, que vivió sólo 33 años y desempeñó un papel de primer plano en la Iglesia de su tiempo. El secreto de su personalidad excepcional era el fuego interior que la consumía: la pasión por Cristo y por la Iglesia.
+Siguiendo la reflexión sobre la misión de paz de la mujer, el Papa presenta el testimonio de [[santa_catalina_de_siena]]. Tiene algo de increíble la vida de esta mujer, que vivió sólo 33 años y desempeñó un papel de primer plano en la Iglesia de su tiempo. El secreto de su personalidad excepcional era el fuego interior que la consumía: la pasión por Cristo y por la Iglesia.
 
 La situación de la cristiandad en la segunda mitad del siglo XIV le parecía insoportable: el Papa estaba lejos de Roma y los príncipes cristianos no lograban vivir en paz. Por eso se hizo mensajera de paz. Su palabra ardiente corría en todas las direcciones, con un timbre materno, caracterizado por una firmeza intrépida y una dulzura persuasiva. A su alrededor se ablandaba la dureza de los corazones, y las familias y comunidades enteras volvían a gustar la alegría de la [[reconciliación]].
 

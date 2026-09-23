@@ -112,7 +112,28 @@ La obra cita abundantemente la correspondencia y homilías del P. Corcuera:
 - **Cargo**: [[director_general]]
 - **Cofundadores citados**: [[p_escribano]], [[p_arumí]], [[p_tena]], [[p_lagoa]], [[p_yépez]], [[cesar_fernández]]
 - **Documentos legionarios**: [[constituciones_legionarios_de_cristo_2020]], [[militia_christi]], [[espiritualidad_legionaria]]
-- **Conceptos centrales**: [[caridad]], [[celo_apostólico]], [[humildad]], [[fidelidad]], [[santidad]], [[oración]], [[eucaristía]], [[maría]], [[obediencia]], [[pobreza]], [[castidad]], [[benedicencia]], [[misericordia_de_dios]], [[providencia]]
+- **Conceptos centrales**: [[caridad]], [[celo_apostolico]], [[humildad]], [[fidelidad]], [[santidad]], [[oración]], [[eucaristía]], [[maría]], [[obediencia]], [[pobreza]], [[castidad]], [[benedicencia]], [[misericordia_de_dios]], [[providencia]]
+
+## Resúmenes
+
+Los resúmenes estructurados están en `wiki/Resúmenes/El amor es mas fuerte - Alvaro Corcuera LC/` (14 archivos, completados 2026-09-18).
+
+| # | Sección | Resumen |
+|---|---------|---------|
+| 0 | Presentación | [[01_presentación]] |
+| 1 | El amor de Dios viene a nosotros | [[02_capítulo_1_el_amor_de_dios_viene_a_nosotros]] |
+| 2 | Cristo, criterio, centro y modelo | [[03_capítulo_2_cristo_criterio_centro_y_modelo]] |
+| 3 | El Artífice de nuestra santificación | [[04_capítulo_3_el_artífice_de_nuestra_santificación]] |
+| 4 | La Eucaristía | [[05_capítulo_4_eucaristía]] |
+| 5 | La Santísima Virgen | [[06_capítulo_5_la_santísima_virgen]] |
+| 6 | Amor apasionado a la Iglesia | [[07_capítulo_6_amor_apasionado_a_la_iglesia]] |
+| 7 | La oración en nuestra vida | [[08_capítulo_7_la_oración_en_nuestra_vida]] |
+| 8 | El sacerdocio | [[09_capítulo_8_sacerdocio]] |
+| 9 | La caridad | [[10_capítulo_9_caridad]] |
+| 10 | Las obras de misericordia | [[11_capítulo_10_las_obras_de_misericordia]] |
+| 11 | Algunas virtudes y los votos | [[12_capítulo_11_algunas_virtudes_y_los_votos]] |
+| 12 | El celo apostólico | [[13_capítulo_12_el_celo_apostólico]] |
+| 13 | Legión y Regnum Christi | [[14_capítulo_13_legión_y_regnum_christi]] |
 
 ## Ver también
 

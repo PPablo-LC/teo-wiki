@@ -104,7 +104,7 @@ Cristo llama a esta pureza de corazón que es «exigencia del amor» y «la dime
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
-Tóth presenta la [[pureza_de_corazón]] como la batalla espiritual central de la juventud. La educación en la [[castidad]] requiere formar la voluntad, la afectividad y la imaginación. El cuerpo es [[templo_del_espíritu_santo]] (1 Cor 6,19). La mortalidad, la actividad continua y el dominio de sí mismo son medios esenciales. La sexualidad humana es un misterio sagrado que debe ser presentada positivamente, no solo como prohibición. La gracia cooperando con el esfuerzo humano produce la pureza [JvC-Rel, Archivos 12, 22, 27, 29].
+Tóth presenta la [[pureza_de_corazón]] como la batalla espiritual central de la juventud. La educación en la **castidad** requiere formar la voluntad, la afectividad y la imaginación. El cuerpo es [[templo_del_espíritu_santo]] (1 Cor 6,19). La mortalidad, la actividad continua y el dominio de sí mismo son medios esenciales. La sexualidad humana es un misterio sagrado que debe ser presentada positivamente, no solo como prohibición. La gracia cooperando con el esfuerzo humano produce la pureza [JvC-Rel, Archivos 12, 22, 27, 29].
 
 ### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
 

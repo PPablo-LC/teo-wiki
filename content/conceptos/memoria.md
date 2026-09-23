@@ -47,6 +47,14 @@ La memoria se alimenta de todo lo que te la evoca, «en primer lugar la casa»: 
 
 ODPC aplica la memoria al documento evangélico: los Evangelios no son estenografías ni protocollos, sino memoria y anuncio: «el recuerdo de un hecho excepcional transmitido por alguien que lo considera vital comunicar a otros» (Dei Verbum 19). La memoria no retiene un hilo ininterrumpido de hechos, sino puntos emergentes que llenan de sentido: así Jn 1,35-51 funciona como apunte personal que el recuerdo completa. Eliade: el elemento esencial del cristianismo como religión fundada es precisamente «la memoria: es el recuerdo de Gesù lo que constituye el modelo para todos los cristianos». La memoria exige además hacerse provocar por la totalidad del hecho: los recortes la vuelven incomprensible (von Balthasar). Conlleva también una regla de verificación: la memoria del testigo vale por la vida compartida — la convivencia es su título de legitimidad ([[evangelios]], [[convivenza]]).
 
+### Giussani — Dare la vita per l'opera di un Altro (DLV)
+
+DLV añade el carácter de *riqueza del cristianismo*:
+
+- **El cristianismo es un avvenimento presente como memoria** — «non è il ricordo, ma è il riaccadere della Presenza stessa»: la fe no recuerda un hecho pasado, es el volver a acontecer de la Presencia de Cristo (DLV 09, 45-49).
+- **Memoria, certeza, esperanza** — la vida del cristiano es memoria y certeza (esperanza): Lc 18,8 (`il Figlio dell'Uomo troverà la fede sulla terra?`); la fe en Cristo es reconocimiento de la Presencia, fundamento de la esperanza — también frente a la muerte (1Ts 5,9-11.16-21) (DLV 15, 89-113).
+- **La memoria litúrgica** — la oración del lunes de Semana Santa y las antífonas litúrgicas (Messale Ambrosiano) sostienen la memoria de la Presencia (DLV 11, 47; DLV 14).
+
 ## Relaciones doctrinales
 
 [[entendimiento]], [[voluntad]], [[potencias_del_alma]], [[alma_espiritual]], [[noche_oscura]]

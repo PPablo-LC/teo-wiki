@@ -17,7 +17,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[pecado]] — universalidad del pecado, condición adámica
 - [[muerte]] — la muerte, consecuencia del pecado del primer Adán
 - [[soberbia]] — la falta del ser maravilloso caído por orgullo
-- [[paraiso]] — el huerto de Dios; los profetas anuncian un fin de los tiempos como el antiguo paraíso
+- [[paraíso]] — el huerto de Dios; los profetas anuncian un fin de los tiempos como el antiguo paraíso
 - [[creación]] — los relatos de la creación del yahvista y del sacerdotal
 - [[hombre]] — Adán designa al Hombre que pecó; el hombre por excelencia en Cristo
 - [[imagen_de_dios]] — el hombre creado a imagen de Dios

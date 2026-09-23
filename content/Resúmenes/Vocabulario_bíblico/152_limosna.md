@@ -21,15 +21,15 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[ley]] — la ley que codifica la limosna
 - [[extranjero]] — el levita, el extranjero, el huérfano y la viuda
 - [[fiestas]] — la limosna ligada a las fiestas
-- [[retribucion]] — el derecho a la retribución divina
-- [[perdon]] — el perdón de los pecados
+- [[retribución]] — el derecho a la retribución divina
+- [[perdón]] — el perdón de los pecados
 - [[ayuno]] — uno de los tres pilares de la vida religiosa
-- [[oracion]] — uno de los tres pilares de la vida religiosa
+- [[oración]] — uno de los tres pilares de la vida religiosa
 - [[trabajo]] — el trabajo para venir en ayuda al necesitado
 - [[amigo]] — los amigos que se granjea uno en el cielo
 - [[seguir]] — seguir a Jesús sin echar de menos los propios bienes
-- [[projimo]] — socorrer al prójimo
-- [[comunion]] — la comunión eucarística
+- [[prójimo]] — socorrer al prójimo
+- [[comunión]] — la comunión eucarística
 - [[unidad]] — la unión de las iglesias
 - [[cuerpo]] — el cuerpo de Cristo
 - [[sembrar]] — sembrar abundantemente
@@ -46,7 +46,7 @@ Si la palabra es tardía, la idea de la limosna es tan antigua como la religión
 
 ### Limosna y vida religiosa
 
-Esta limosna no debe ser mera filantropía, sino gesto religioso. La generosidad con los pobres, ligada con frecuencia a las celebraciones litúrgicas excepcionales *2Sa 6,19* *Neh 8,10ss* *2Par 30,21-26* *35,7ss*, forma parte del curso normal de las [[fiestas|fiestas]] *Dt 16,11.14* *Tob 2,1s*. Más aún, este gesto adquiere su valor del hecho de alcanzar a Dios mismo *Prov 19,17* y crea un derecho a su [[retribucion|retribución]] *Ez 18,7* *16,49* *Prov 21,13* *28,27* y al [[perdon|perdón]] de los pecados *Dan 4,24* *Eclo 3,30*. Equivale a un sacrificio ofrecido a Dios *Eclo 35,2*. El hombre, al privarse de su bien, se constituye un tesoro *Eclo 29,12*. «Bienaventurado el que piensa en el pobre y en el débil» *Sal 41,1-4* *Prov 14,21*. El viejo Tobías exhorta así a su hijo con ardor: «No apartes el rostro de ningún pobre y Dios no lo apartará de ti. Si abundares en bienes, haz de ellos limosna, y si éstos fueren escasos, según esa tu escasez no temas hacerlo... Todo cuanto te sobrare, dalo en limosna, y no se te vayan los ojos tras lo que dieres...» *Tob 4,7-11.15*.
+Esta limosna no debe ser mera filantropía, sino gesto religioso. La generosidad con los pobres, ligada con frecuencia a las celebraciones litúrgicas excepcionales *2Sa 6,19* *Neh 8,10ss* *2Par 30,21-26* *35,7ss*, forma parte del curso normal de las [[fiestas|fiestas]] *Dt 16,11.14* *Tob 2,1s*. Más aún, este gesto adquiere su valor del hecho de alcanzar a Dios mismo *Prov 19,17* y crea un derecho a su [[retribución|retribución]] *Ez 18,7* *16,49* *Prov 21,13* *28,27* y al [[perdón|perdón]] de los pecados *Dan 4,24* *Eclo 3,30*. Equivale a un sacrificio ofrecido a Dios *Eclo 35,2*. El hombre, al privarse de su bien, se constituye un tesoro *Eclo 29,12*. «Bienaventurado el que piensa en el pobre y en el débil» *Sal 41,1-4* *Prov 14,21*. El viejo Tobías exhorta así a su hijo con ardor: «No apartes el rostro de ningún pobre y Dios no lo apartará de ti. Si abundares en bienes, haz de ellos limosna, y si éstos fueren escasos, según esa tu escasez no temas hacerlo... Todo cuanto te sobrare, dalo en limosna, y no se te vayan los ojos tras lo que dieres...» *Tob 4,7-11.15*.
 
 ## NT
 
@@ -54,7 +54,7 @@ Con la venida de Cristo la limosna conserva su valor, pero se sitúa en una econ
 
 ### La práctica de la limosna
 
-Es admirada por los creyentes, sobre todo cuando es practicada por [[extranjero|extranjeros]], por personas que «temen a Dios», que así manifiestan su simpatía por la fe *Lc 7,5* *Act 9,36* *10,2*. Por lo demás, Jesús la había contado, juntamente con el [[ayuno|ayuno]] y la [[oracion|oración]], como uno de los tres pilares de la vida religiosa *Mt 6,1-18*.
+Es admirada por los creyentes, sobre todo cuando es practicada por [[extranjero|extranjeros]], por personas que «temen a Dios», que así manifiestan su simpatía por la fe *Lc 7,5* *Act 9,36* *10,2*. Por lo demás, Jesús la había contado, juntamente con el [[ayuno|ayuno]] y la [[oración|oración]], como uno de los tres pilares de la vida religiosa *Mt 6,1-18*.
 
 Pero Jesús, al recomendarla, exige que se haga con perfecto desinterés, sin la menor ostentación *Mt 6,1-4*, «sin esperar nada a cambio» *Lc 6,35* *14,14*, hasta sin medida *Lc 6,30*. En efecto, no podemos contentarnos con alcanzar un máximo codificado: el diezmo tradicional parece sustituirlo Juan Bautista por una repartición por mitades *Lc 3,11*, que Zaqueo realiza efectivamente *Lc 19,8*; más aún, no hay que hacerse sordos a ningún llamamiento *Mt 5,42 p*, porque los [[pobres|pobres]] están siempre entre nosotros *Mt 26,11*; finalmente, si uno no tiene ya nada propio *Act 2,44*, queda todavía el deber de comunicar por lo menos los dones de Cristo *Act 3,6*, y de [[trabajo|trabajar]] para venir en ayuda a los que se hallan en la necesidad *Ef 4,28*.
 
@@ -62,7 +62,7 @@ Pero Jesús, al recomendarla, exige que se haga con perfecto desinterés, sin la
 
 Si la limosna es un deber tan radical, es que halla su sentido en la fe en Cristo, lo cual puede tener un significado más o menos profundo.
 
-a. Si Jesús sostiene con la tradición judía que la limosna es fuente de [[retribucion|retribución]] celestial *Mt 6,2.4*, que constituye un tesoro en el cielo *Lc 12,21.33s*, gracias a los [[amigo|amigos]] que se granjea uno allí *Lc 16,9*, no lo hace por razón de un cálculo interesado, sino porque a través de nuestros [[hermano|hermanos]] desgraciados alcanzamos a Cristo en persona: «Lo que hiciereis a uno de estos pequeñuelos...» *Mt 25,31-46*.
+a. Si Jesús sostiene con la tradición judía que la limosna es fuente de [[retribución|retribución]] celestial *Mt 6,2.4*, que constituye un tesoro en el cielo *Lc 12,21.33s*, gracias a los [[amigo|amigos]] que se granjea uno allí *Lc 16,9*, no lo hace por razón de un cálculo interesado, sino porque a través de nuestros [[hermano|hermanos]] desgraciados alcanzamos a Cristo en persona: «Lo que hiciereis a uno de estos pequeñuelos...» *Mt 25,31-46*.
 
 b. Si el discípulo debe darlo todo en limosna *Lc 11,41* *12,33* *18,22* es, en primer lugar, para [[seguir|seguir]] a Jesús sin echar de menos los propios bienes *Mt 19,21s p*, y después, para ser liberal como Jesús mismo, que «siendo rico se hizo pobre por vosotros a fin de enriqueceros con su pobreza» *2Cor 8,9*.
 
@@ -70,6 +70,6 @@ c. Finalmente, para impedir que se degrade la limosna rebajándola a mera filant
 
 ### La limosna en la Iglesia
 
-Aun cuando sean necesarios ciertos gestos gratuitos para impedir que se confunda el Evangelio del reino con la extinción del pauperismo, todavía hay que socorrer a nuestro [[projimo|prójimo]] para alcanzar al esposo que nos ha sido arrebatado *Mt 9,15*: «¿cómo mora la caridad de Dios en el que cierra sus entrañas ante su hermano necesitado?» *1Jn 3,17* *Sant 2,15*. ¿Cómo celebrar el sacramento de la [[comunion|comunión]] eucarística sin compartir fraternalmente los propios bienes? *1Cor 11,20ss*.
+Aun cuando sean necesarios ciertos gestos gratuitos para impedir que se confunda el Evangelio del reino con la extinción del pauperismo, todavía hay que socorrer a nuestro [[prójimo|prójimo]] para alcanzar al esposo que nos ha sido arrebatado *Mt 9,15*: «¿cómo mora la caridad de Dios en el que cierra sus entrañas ante su hermano necesitado?» *1Jn 3,17* *Sant 2,15*. ¿Cómo celebrar el sacramento de la [[comunión|comunión]] eucarística sin compartir fraternalmente los propios bienes? *1Cor 11,20ss*.
 
 Ahora bien, la limosna puede tener un alcance todavía más vasto y significar la [[unidad|unión]] de las iglesias. Es lo que san Pablo quiere decir cuando da un nombre sagrado a la cuestación, a la colecta que hace en favor de la Iglesia madre de Jerusalén: es una *diaconía* *2Cor 8,4* *9,1.12s*, una *liturgia* *9,12*. En efecto, para colmar el foso que comenzaba a cavarse entre la Iglesia de origen pagano y la Iglesia de origen judío, se preocupa Pablo por traducir en limosnas sustanciosas la unión de estas dos categorías de miembros del mismo [[cuerpo|cuerpo]] de Cristo *Act 11,29* *Gal 2,10* *Rom 15,26s* *1Cor 16,1-4*; ¡con qué ardor pronuncia un verdadero «sermón de caridad» destinado a los corintios! *2Cor 8-9*. Hay que aspirar a establecer la igualdad entre los hermanos *8,13*, imitando la liberalidad de Cristo *8,9*; para que Dios sea glorificado *9,11-14* hay que «[[sembrar|sembrar]] abundantemente», pues «Dios ama al que da con alegría» *9,6s*.

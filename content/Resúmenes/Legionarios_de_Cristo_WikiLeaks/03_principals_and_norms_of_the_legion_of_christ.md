@@ -14,7 +14,7 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 
 - [[obediencia]] — fundamento de la vida religiosa legionaria
 - [[oración]] — fuente de luz, amor y acción para el alma
-- [[direccion_espiritual]] — medio para la formación y perseverancia
+- [[dirección_espiritual]] — medio para la formación y perseverancia
 - [[voto_privado]] — voto de caridad y unidad específico de los Legionarios de Cristo
 - [[constituciones]] — norma suprema de vida del legionario
 - [[vida_religiosa]] — la consagración a Dios mediante los consejos evangélicos

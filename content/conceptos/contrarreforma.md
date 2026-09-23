@@ -60,11 +60,11 @@ El siglo XVI español produjo dos figuras místicas de primer orden:
 
 ## Relaciones doctrinales
 
-La Contrarreforma se relaciona con la [[reforma_protestante]], el [[concilio_de_trento]], la [[Compañía_de_Jesús]], la [[evangelización_de_america]], la [[mística]], la [[justificación]] y la [[Eucaristía]].
+La Contrarreforma se relaciona con la [[reforma_protestante]], el [[concilio_de_trento]], la [[compañía_de_jesús]], la [[evangelizacion_de_america]], la [[mística]], la [[justificación]] y la [[eucaristía]].
 
 ## Ver también
 
-[[reforma_protestante]], [[concilio_de_trento]], [[evangelización_de_america]], [Compañía de Jesús], [Santa Teresa de Jesús], [San Juan de la Cruz], [Concilio de Trento]
+[[reforma_protestante]], [[concilio_de_trento]], [[evangelizacion_de_america]], [Compañía de Jesús], [Santa Teresa de Jesús], [San Juan de la Cruz], [Concilio de Trento]
 
 ## Referencias
 

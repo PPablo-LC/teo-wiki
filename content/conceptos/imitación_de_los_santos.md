@@ -41,11 +41,11 @@ Los santos enseñan además la **libertad de espíritu**: sacrificando valores i
 
 ## Relaciones doctrinales
 
-Se funda en la [[comunión_de_los_santos]] y en la [[llamada_universal_a_la_santidad]]. Es aplicación pedagógica de la [[imitación_de_cristo]] y testimonio de que la gracia robustece la voluntad humana hasta el heroísmo. Se relaciona con la [[educación_del_carácter]] y con el culto litúrgico de las fiestas de los santos.
+Se funda en la [[comunión_de_los_santos]] y en la [[llamada_universal_a_la_santidad]]. Es aplicación pedagógica de la [[imitacion_de_cristo]] y testimonio de que la gracia robustece la voluntad humana hasta el heroísmo. Se relaciona con la [[educación_del_carácter]] y con el culto litúrgico de las fiestas de los santos.
 
 ## Ver también
 
-[[veneración_de_los_santos]], [[santidad]], [[llamada_universal_a_la_santidad]], [[imitación_de_cristo]], [[libertad_de_espíritu]], [[comunión_de_los_santos]]
+[[veneración_de_los_santos]], [[santidad]], [[llamada_universal_a_la_santidad]], [[imitacion_de_cristo]], [[libertad_de_espíritu]], [[comunión_de_los_santos]]
 
 ## Referencias
 

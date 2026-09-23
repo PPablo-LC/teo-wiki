@@ -16,7 +16,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[mulieris_dignitatem]] — referencias al genio femenino (nn. 18 y 30)
 - [[maternidad]] — acogida de la persona concreta, no sólo física sino afectiva y espiritual
 - [[signo_de_los_tiempos]] — creciente reconocimiento del papel de la mujer
-- [[bodas_de_Cana]] — detalle sugestivo de la personalidad de María en el Evangelio de Juan
+- [[bodas_de_caná]] — detalle sugestivo de la personalidad de María en el Evangelio de Juan
 
 ## Contenido
 
@@ -32,7 +32,7 @@ En realidad, la mujer tiene su «genio» —el [[genio_femenino]]—, que tanto 
 
 En *Mulieris dignitatem* el Papa puso de relieve un aspecto del genio femenino que ahora subraya: la mujer está dotada de una capacidad particular de acoger a la persona concreta (cfr n. 18). Este rasgo singular la abre a una maternidad no sólo física sino también afectiva y espiritual, parte del plan de Dios, que ha confiado el ser humano a la mujer de un modo muy particular (cfr n. 30). La mujer, al igual que el hombre, debe vigilar para que su sensibilidad no caiga en la tentación del egoísmo posesivo y para ponerla al servicio de un amor auténtico. Con estas condiciones, la mujer aporta en todas partes un toque de generosidad, ternura y gusto por la vida.
 
-Contemplemos el modelo de la Virgen Santísima. En las [[bodas_de_Cana]], el Evangelio de San Juan nos ofrece un detalle sugestivo: sólo Ella se da cuenta de que estaba a punto de faltar el vino, y pide a Jesús su primer milagro. ¡Ése es el «genio» de la mujer! La delicadeza solícita, plenamente femenina y materna, de María ha de ser el espejo ideal de toda auténtica femineidad y maternidad.
+Contemplemos el modelo de la Virgen Santísima. En las [[bodas_de_caná]], el Evangelio de San Juan nos ofrece un detalle sugestivo: sólo Ella se da cuenta de que estaba a punto de faltar el vino, y pide a Jesús su primer milagro. ¡Ése es el «genio» de la mujer! La delicadeza solícita, plenamente femenina y materna, de María ha de ser el espejo ideal de toda auténtica femineidad y maternidad.
 
 ## Mapa del archivo fuente
 

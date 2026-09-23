@@ -21,9 +21,9 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[ira]] — la ira divina
 - [[calamidad]] — las calamidades nacionales
 - [[fe]] — la fe que Yahveh espera
-- [[martir]] — el martirio
+- [[mártir]] — el martirio
 - [[mundo]] — la lucha entre Jesús y el mundo
-- [[adoracion]] — la tentación de adorar la imagen de la bestia
+- [[adoración]] — la tentación de adorar la imagen de la bestia
 - [[bestia]] — la imagen de la bestia
 - [[altar]] — el altar de Yahveh
 - [[demonios]] — el culto de los demonios
@@ -40,9 +40,9 @@ La Biblia es en cierto sentido la historia de un pueblo que se desentiende de lo
 
 En efecto, la idolatría puede filtrarse en el interior mismo del yahvismo. Ya en el Decálogo aprende Israel que no debe fabricarse [[imagen_de_dios|imágenes]] *Ex 20,3ss* *Dt 5,7ss*, pues sólo el [[hombre|hombre]] es la imagen auténtica de Dios *Gen 1,26s*. Por ejemplo, el toro que esculpe para simbolizar la [[fuerza|fuerza]] divina *Ex 32* *1Re 12,28* *Jue 17-18*, le acarreará junto con la [[ira|ira]] divina la ironía acerba de los profetas *Os 8,5* *13,2*. Dios castiga la infidelidad, ya se trate de falsos dioses o de su propia imagen *Dt 13*; abandona a los que le abandonan o le caricaturizan, entregándolos a las [[calamidad|calamidades]] nacionales *Jue 2,11-15* *2Re 17,7-12* *Jer 32,28-35* *Ez 16* *20* *23*.
 
-Cuando el exilio viene a confirmar trágicamente esta visión profética de la historia, el pueblo recapacita, sin que por eso desaparezcan idólatras *Sal 31,7* y negadores de Dios *Sal 10,4.11ss*. Finalmente, en el tiempo de los Macabeos, servir a los ídolos *1Mac 1,43* es adherirse a un humanismo pagano incompatible con la [[fe|fe]] que Yahveh espera de los suyos: hay que escoger entre los ídolos y el [[martir|martirio]] *2Mac 6,18-7,42* *Dan 3*.
+Cuando el exilio viene a confirmar trágicamente esta visión profética de la historia, el pueblo recapacita, sin que por eso desaparezcan idólatras *Sal 31,7* y negadores de Dios *Sal 10,4.11ss*. Finalmente, en el tiempo de los Macabeos, servir a los ídolos *1Mac 1,43* es adherirse a un humanismo pagano incompatible con la [[fe|fe]] que Yahveh espera de los suyos: hay que escoger entre los ídolos y el [[mártir|martirio]] *2Mac 6,18-7,42* *Dan 3*.
 
-El NT diseña el mismo itinerario. Los creyentes, arrancados a los ídolos para volverse hacia el verdadero Dios *1Tes 1,9*, se ven constantemente en la tentación de reincidir en el paganismo que impregna la vida corriente *1Cor 10,25-30*. Hay que huir de la idolatría para entrar en el reino *1Cor 10,14* *2Cor 6,16* *Gal 5,20* *1Jn 5,21* *Ap 21,8* *22,15*. La Iglesia, en la que continúa la lucha implacable entre Jesús y el [[mundo|mundo]], vive una historia marcada por la tentación de [[adoracion|adorar]] «la imagen de la [[bestia|bestia]]» *Ap 13,14* *16,2*, de aceptar que se erija en el templo el «ídolo devastador» *Mt 24,15* *Dan 9,27*.
+El NT diseña el mismo itinerario. Los creyentes, arrancados a los ídolos para volverse hacia el verdadero Dios *1Tes 1,9*, se ven constantemente en la tentación de reincidir en el paganismo que impregna la vida corriente *1Cor 10,25-30*. Hay que huir de la idolatría para entrar en el reino *1Cor 10,14* *2Cor 6,16* *Gal 5,20* *1Jn 5,21* *Ap 21,8* *22,15*. La Iglesia, en la que continúa la lucha implacable entre Jesús y el [[mundo|mundo]], vive una historia marcada por la tentación de [[adoración|adorar]] «la imagen de la [[bestia|bestia]]» *Ap 13,14* *16,2*, de aceptar que se erija en el templo el «ídolo devastador» *Mt 24,15* *Dan 9,27*.
 
 ### II. Significado de la idolatría
 

@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[oracion]] — la oración inseparable del ayuno
+- [[oración]] — la oración inseparable del ayuno
 - [[limosna]] — la limosna junto con la oración y el ayuno
 - [[humildad]] — el ayuno como expresión de humildad ante Dios
 - [[esperanza]] — el ayuno como expresión de la esperanza
@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[alma]] — el alma que necesita de los actos del cuerpo
 - [[cuerpo]] — el cuerpo como instrumento del alma para obrar
 - [[desierto]] — el ayuno de Jesús en el desierto como inauguración de su misión
-- [[mision]] — la misión mesiánica inaugurada con ayuno y abandono
+- [[misión]] — la misión mesiánica inaugurada con ayuno y abandono
 - [[justicia]] — el ayuno como elemento de la justicia definida por la ley
 - [[cumplir]] — Jesús que viene a cumplir o consumar la justicia
 

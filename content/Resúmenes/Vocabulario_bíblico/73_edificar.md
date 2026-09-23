@@ -18,17 +18,17 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[casa]] — las casas, las ciudades, la casa de la familia
 - [[templo]] — el templo, la nueva construcción
 - [[designio_de_dios]] — la construcción en el designio de salvación
-- [[bendicion]] — la bendición de la obra de las manos del hombre
+- [[bendición]] — la bendición de la obra de las manos del hombre
 - [[castigos]] — el castigo como destrucción de las obras
 - [[ira]] — la ira que vuelca la oleada destructora
 - [[david]] — la dinastía de David edificada por Dios
 - [[israel]] — el pueblo de Israel edificado
-- [[jerusalen]] — Jerusalén restaurada
+- [[jerusalén]] — Jerusalén restaurada
 - [[piedra]] — la piedra destinada a ser la cimera
 - [[nuevo]] — el pueblo nuevo
 - [[pedro]] — Pedro, puesto como base
 - [[cuerpo]] — el Cuerpo construido en la caridad
-- [[apostoles]] — los apóstoles, cimientos
+- [[apóstoles]] — los apóstoles, cimientos
 - [[iglesia]] — las iglesias, la Iglesia edificada
 - [[santo]] — los santos, campo de la edificación de Dios
 - [[carisma]] — el carisma apostólico y su discernimiento
@@ -51,9 +51,9 @@ Edificar se dice de una familia como de una construcción: Dios edifica a la muj
 
 ### Construir y destruir.
 
-[[bendicion|Bendiciendo]] «la obra de las manos del hombre» *Dt 14,29* *15,10* le da Dios su acabamiento y su solidez, la «edifica». Pero si el hombre olvida a Dios, destruirá Dios la obra edificada sin él *Jer 24,6* *42,10*. El aniquilamiento de las personas, de las habitaciones, de las ciudades y de los pueblos será el testimonio de su [[castigos|castigo]]. Jeremías, el profeta de esta destrucción, es enviado para «destruir y arrancar, para construir y plantar» *Jer 1,10*.
+[[bendición|Bendiciendo]] «la obra de las manos del hombre» *Dt 14,29* *15,10* le da Dios su acabamiento y su solidez, la «edifica». Pero si el hombre olvida a Dios, destruirá Dios la obra edificada sin él *Jer 24,6* *42,10*. El aniquilamiento de las personas, de las habitaciones, de las ciudades y de los pueblos será el testimonio de su [[castigos|castigo]]. Jeremías, el profeta de esta destrucción, es enviado para «destruir y arrancar, para construir y plantar» *Jer 1,10*.
 
-Pero Dios, que es fiel y que construye (el nombre propio *Yibneya*, «Yahveh construye», *1Par 9,8*), no destruye totalmente y sin remedio. Aun en el caso en que vuelca sobre toda grandeza humana *Is 2,11* la oleada destructora de su [[ira]] *Is 28,18* *30,28*, continúa siempre haciendo obra de construcción *Is 28,16*. La choza de David demolida será reconstruida *Am 9,11*, el pueblo retornará del exilio y reconstruirá sus ciudades *Jer 30,4.18*, [[jerusalen|Jerusalén]] y el [[templo]] serán restaurados *Ag 1,8* *Zac 6,13* *Jer 31,38*. Las mismas imágenes representan las reconstrucciones materiales y la restauración del pueblo, las casas que se elevan y la población que afluye *Is 49,19-21* *Jer 30,18s*.
+Pero Dios, que es fiel y que construye (el nombre propio *Yibneya*, «Yahveh construye», *1Par 9,8*), no destruye totalmente y sin remedio. Aun en el caso en que vuelca sobre toda grandeza humana *Is 2,11* la oleada destructora de su [[ira]] *Is 28,18* *30,28*, continúa siempre haciendo obra de construcción *Is 28,16*. La choza de David demolida será reconstruida *Am 9,11*, el pueblo retornará del exilio y reconstruirá sus ciudades *Jer 30,4.18*, [[jerusalén|Jerusalén]] y el [[templo]] serán restaurados *Ag 1,8* *Zac 6,13* *Jer 31,38*. Las mismas imágenes representan las reconstrucciones materiales y la restauración del pueblo, las casas que se elevan y la población que afluye *Is 49,19-21* *Jer 30,18s*.
 
 ### II. EL FUNDAMENTO NUEVO
 
@@ -69,7 +69,7 @@ Jesús, piedra angular y templo santo, no es solamente el nuevo edificio; es tam
 
 ### Los que construyen.
 
-Son en primer lugar los que fueron puestos por Cristo como «cimientos»: los [[apostoles|apóstoles]] *Ef 2,20*. Son a la vez «cimientos» o fundamento y «fundadores» de las [[iglesia|iglesias]] a las que dan origen. Así como para Jeremías edificar era parte del ministerio profético *Jer 1,10* *24,6*, así también para Pablo edificar es lo propio del [[carisma]] apostólico *2Cor 10,8* *12,19* *13,10*. Los apóstoles, «cooperadores de Dios» *1Cor 3,9*, tienen que plantar *3,6*, que «poner el fundamento», que es Jesucristo *3,10s*.
+Son en primer lugar los que fueron puestos por Cristo como «cimientos»: los [[apóstoles|apóstoles]] *Ef 2,20*. Son a la vez «cimientos» o fundamento y «fundadores» de las [[iglesia|iglesias]] a las que dan origen. Así como para Jeremías edificar era parte del ministerio profético *Jer 1,10* *24,6*, así también para Pablo edificar es lo propio del [[carisma]] apostólico *2Cor 10,8* *12,19* *13,10*. Los apóstoles, «cooperadores de Dios» *1Cor 3,9*, tienen que plantar *3,6*, que «poner el fundamento», que es Jesucristo *3,10s*.
 
 ### El cuerpo que se construye.
 
@@ -77,4 +77,4 @@ Bajo la acción de la cabeza, Cristo, el cuerpo entero «se construye a sí mism
 
 ### 4. El nuevo edificio.
 
-El nuevo edificio es la ciudad santa, la nueva [[jerusalen|Jerusalén]] *Ap 21,2*. Desciende del [[cielo]], de cerca de Dios, pues en él no se halla ya nada de lo que produce el pecado: ni muerte, ni llanto, ni grito, ni pena, y todo entero es obra de Dios *Ap 21,4*. Sin embargo, «reposa sobre doce hiladas, cada una de las cuales lleva el nombre de uno de los doce apóstoles del cordero» *21,14*, y «sobre sus puertas están inscritos los nombres de las doce tribus de Israel» *21,12*. Es, pues, sin duda alguna el edificio fundado por Jesucristo y confiado por él a sus apóstoles, es la Iglesia edificada por la labor de todos sus santos. Es, en efecto, la esposa, y su ornato, «el lino de una blancura resplandeciente», pero también todas las pedrerías que por todas partes reflejan y se envían mutuamente la luz de la gloria divina *21,19-23*, son «las buenas acciones de los fieles» *19,8*. En este edificio todo es obra de Dios, y todo entero es construido por los santos. Tal es el misterio de la [[gracia]].
+El nuevo edificio es la ciudad santa, la nueva [[jerusalén|Jerusalén]] *Ap 21,2*. Desciende del [[cielo]], de cerca de Dios, pues en él no se halla ya nada de lo que produce el pecado: ni muerte, ni llanto, ni grito, ni pena, y todo entero es obra de Dios *Ap 21,4*. Sin embargo, «reposa sobre doce hiladas, cada una de las cuales lleva el nombre de uno de los doce apóstoles del cordero» *21,14*, y «sobre sus puertas están inscritos los nombres de las doce tribus de Israel» *21,12*. Es, pues, sin duda alguna el edificio fundado por Jesucristo y confiado por él a sus apóstoles, es la Iglesia edificada por la labor de todos sus santos. Es, en efecto, la esposa, y su ornato, «el lino de una blancura resplandeciente», pero también todas las pedrerías que por todas partes reflejan y se envían mutuamente la luz de la gloria divina *21,19-23*, son «las buenas acciones de los fieles» *19,8*. En este edificio todo es obra de Dios, y todo entero es construido por los santos. Tal es el misterio de la [[gracia]].

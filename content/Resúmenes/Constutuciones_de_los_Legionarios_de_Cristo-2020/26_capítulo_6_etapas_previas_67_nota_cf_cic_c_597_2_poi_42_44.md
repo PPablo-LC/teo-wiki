@@ -16,7 +16,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 - [[discernimiento_vocacional]]
 - [[candidatado]]
 - [[formación_humana]]
-- [[Regnum_Christi]]
+- [[regnum_christi]]
 - [[vida_religiosa]]
 - [[vocación_sacerdotal]]
 
@@ -28,7 +28,7 @@ El capítulo 6 de las *Constituciones* de los Legionarios de Cristo (2020) trata
 
 Se busca establecer [[centros_vocacionales]] donde los adolescentes, en un ambiente de armonía con su edad y de auténtica libertad interior, con la ayuda de formadores competentes y el apoyo de su familia, puedan madurar vocacionalmente y decidirse a seguir a Cristo en la Legión.
 
-La formación espiritual en estos centros debe educar en un amor apasionado a Cristo, un amor tierno y filial a María, un amor inquebrantable a la Iglesia y al papa, y un amor creciente a la Legión y al [[Regnum_Christi]]. Aunque los alumnos no sean miembros de la Congregación, los formadores deben acogerlos como parte de la familia legionaria. Se pide facilitar el armónico desarrollo humano, psicológico y afectivo, manteniendo relación con la familia y trato con adolescentes de su edad.
+La formación espiritual en estos centros debe educar en un amor apasionado a Cristo, un amor tierno y filial a María, un amor inquebrantable a la Iglesia y al papa, y un amor creciente a la Legión y al [[regnum_christi]]. Aunque los alumnos no sean miembros de la Congregación, los formadores deben acogerlos como parte de la familia legionaria. Se pide facilitar el armónico desarrollo humano, psicológico y afectivo, manteniendo relación con la familia y trato con adolescentes de su edad.
 
 Los formadores deben cultivar en los adolescentes las virtudes humanas y cristianas adecuadas a su edad (sinceridad, reciedumbre, generosidad, recta conciencia, piedad, pureza) y las virtudes propias de la Congregación (caridad, obediencia, confianza en los formadores y amor a las almas), introduciéndolos oportunamente en la vida de oración.
 

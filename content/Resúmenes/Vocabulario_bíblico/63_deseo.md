@@ -17,26 +17,26 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[vida]] — la raíz de todos los deseos: poseer la vida en plenitud
 - [[prueba_y_tentación]] — el deseo como tentación permanente
 - [[pecado]] — Eva pecó por dejarse seducir por el árbol
-- [[arbol]] — el árbol prohibido, bueno para comerse
+- [[árbol]] — el árbol prohibido, bueno para comerse
 - [[mujer]] — la mujer, víctima del deseo
 - [[carne]] — la concupiscencia de la carne
 - [[riquezas]] — la soberbia de la riqueza
 - [[satanás]] — el reino de Satán
 - [[hambre_y_sed]] — el hambre de Israel en el desierto
 - [[fe]] — la fe en la palabra de Dios
-- [[corazon]] — el corazón, fuente de pecado
+- [[corazón]] — el corazón, fuente de pecado
 - [[muerte]] — los apetitos de la carne, la muerte
-- [[espiritu]] — el Espíritu de Dios que libera del deseo de la carne
+- [[espíritu]] — el Espíritu de Dios que libera del deseo de la carne
 - [[ley]] — la ley, espiritual
-- [[sabiduria]] — el deseo de sabiduría
-- [[jerusalen]] — la nostalgia de Jerusalén
+- [[sabiduría]] — el deseo de sabiduría
+- [[jerusalén]] — la nostalgia de Jerusalén
 - [[templo]] — el deseo de subir al templo
 - [[bautismo]] — el deseo ardiente de Jesús
 - [[gloria]] — el deseo de glorificar al Padre
 - [[hijo]] — el deseo del Hijo
 - [[padres_y_padre]] — el deseo del Hijo hacia su Padre
 - [[pascua]] — el deseo de comer la pascua con los suyos
-- [[comunion]] — el deseo de comunión con Dios
+- [[comunión]] — el deseo de comunión con Dios
 
 ## Contenido
 

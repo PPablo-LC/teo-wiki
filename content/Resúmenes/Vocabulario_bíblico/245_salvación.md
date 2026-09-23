@@ -49,8 +49,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[generación]] — salvarse de esta generación extraviada
 - [[gracia]] — gracia del Señor es la que salva
 - [[resto]] — conversión y resto que se ha de salvar
-- [[apostoles]] — apóstol no tiene otro fin que la salvación
-- [[redencion]] — obra redentora de Jesús
+- [[apóstoles]] — apóstol no tiene otro fin que la salvación
+- [[redención]] — obra redentora de Jesús
 - [[mundo]] — Hijo como salvador del mundo
 - [[iglesia]] — salvador del cuerpo que es la Iglesia
 - [[cuerpo]] — transformación de nuestro cuerpo en la salvación final
@@ -61,7 +61,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[herencia]] — herencia que se revelará al final del tiempo
 - [[tiempo]] — final del tiempo
 - [[reconciliación]] — reconciliados por la muerte de su Hijo
-- [[justificacion]] — justificados por su sangre
+- [[justificación]] — justificados por su sangre
 - [[sangre]] — justificados por su sangre
 - [[ira]] — salvados de la ira
 - [[sufrimiento]] — abolidos enfermedad, sufrimiento, muerte
@@ -87,7 +87,7 @@ En hora de gran prueba nacional, Israel mira con confianza a Dios *Miq 7,7*. Tí
 
 ##### Las certezas de la fe.
 
-Salvación = don de Dios: certeza fundamental, apoyada en experiencia de conquista *Sal 44,4.7s*. Inútil [[confianza]] presuntuosa en [[fuerza]]s humanas *Sal 33,16-19*: salvación de justos viene de Yahveh *Sal 37,39s*; él mismo es la salvación *Sal 27,1* *35,3* *62,7*. Corroborada por experiencias: ¡cuántos hombres en peligro salvados clamando a Él *Sal 107,13.19.28* *22-6*! Oraciones de acción de gracias *Sal 118,14*: salvados del peligro *Sal 18,20*, de la prueba *Eclo 51,11*, de la muerte *Sal 116,6*. Libros tardíos: tres muchachos salvados del fuego *Dan 3,28*=*95*, Daniel del foso *Dan 6,28*, porque Dios salva al que espera en Él *Dan 13,60*. Asegura a cada servidor *Sal 91,14ss*, como prometió para su pueblo *Sal 69,36* y su ungido *Sal 20,7*. Salmos enumeran clientes de Dios que salva cuando lo invocan: [[justificacion|justos]] *34,16.19*, [[pobres]] *34,7* *109,31*, [[humildad|humildes]] *18,28* *76,10* *149,4*, pequeños *116,6*, [[persecución|perseguidos]] *55,17* *31,12.16* *43,1* *59,2*, corazones rectos *7,11*, espíritus abatidos *34,19*, todos los que le temen *145,19*. Inspira confianza e incita a la oración.
+Salvación = don de Dios: certeza fundamental, apoyada en experiencia de conquista *Sal 44,4.7s*. Inútil [[confianza]] presuntuosa en [[fuerza]]s humanas *Sal 33,16-19*: salvación de justos viene de Yahveh *Sal 37,39s*; él mismo es la salvación *Sal 27,1* *35,3* *62,7*. Corroborada por experiencias: ¡cuántos hombres en peligro salvados clamando a Él *Sal 107,13.19.28* *22-6*! Oraciones de acción de gracias *Sal 118,14*: salvados del peligro *Sal 18,20*, de la prueba *Eclo 51,11*, de la muerte *Sal 116,6*. Libros tardíos: tres muchachos salvados del fuego *Dan 3,28*=*95*, Daniel del foso *Dan 6,28*, porque Dios salva al que espera en Él *Dan 13,60*. Asegura a cada servidor *Sal 91,14ss*, como prometió para su pueblo *Sal 69,36* y su ungido *Sal 20,7*. Salmos enumeran clientes de Dios que salva cuando lo invocan: [[justificación|justos]] *34,16.19*, [[pobres]] *34,7* *109,31*, [[humildad|humildes]] *18,28* *76,10* *149,4*, pequeños *116,6*, [[persecución|perseguidos]] *55,17* *31,12.16* *43,1* *59,2*, corazones rectos *7,11*, espíritus abatidos *34,19*, todos los que le temen *145,19*. Inspira confianza e incita a la oración.
 
 ##### Los llamamientos al Dios salvador.
 
@@ -101,7 +101,7 @@ Suplicantes invocan a Dios bajo título de salvador *Eclo 51,1*; «Salvador de l
 
 ###### a. Actos significativos.
 
-Salva a [[enfermedad|enfermos]] curándolos *Mt 9,21 p* *Mc 3,4* *5,23* *6,56*; salva a Pedro caminando sobre aguas y a discípulos en tempestad *Mt 8,25* *14,30*. Esencial: creer en él. [[Fe|Fe]] salva a enfermos *Lc 8,48* *17,19* *18,42*; discípulos reprochados por dudar *Mt 8,26* *14,31*. Muestran economía de la salvación. Pero no limitarse a salud corporal.
+Salva a [[enfermedad|enfermos]] curándolos *Mt 9,21 p* *Mc 3,4* *5,23* *6,56*; salva a Pedro caminando sobre aguas y a discípulos en tempestad *Mt 8,25* *14,30*. Esencial: creer en él. [[fe|Fe]] salva a enfermos *Lc 8,48* *17,19* *18,42*; discípulos reprochados por dudar *Mt 8,26* *14,31*. Muestran economía de la salvación. Pero no limitarse a salud corporal.
 
 Jesucristo aporta salvación más importante: pecadora se salva porque perdona pecados *Lc 7,48ss*; salvación entra en casa de Zaqueo penitente *Lc 19,9*. Para ser salvo: acoger con fe el Evangelio del Reino *Lc 8,12*. Objetivo de su vida: vino para salvar lo perdido *Lc 9,56* *19,10*, para salvar al mundo no condenarlo *Jn 3,17* *12,47*. Si habla, es para salvar *Jn 5,34*. Él es la [[puerta]]: quien entre será salvo *Jn 10,9*.
 
@@ -113,7 +113,7 @@ Pecado pone en peligro de perdición. [[satanás|Satán]] intenta perderlos *Lc 
 
 ###### a. Después de resurrección y pentecostés.
 
-Mensaje apostólico: salvación realizada conforme a Escrituras. Por [[resurrección]] Jesús establecido por Dios «cabeza y salvador» *Act 5,31* *13,23*. [[Milagro|Milagros]] de apóstoles confirman: si se salvan enfermos por virtud del [[nombre]] de Jesús, no hay otro nombre para ser salvos *Act 4,9-12* *14,3*. [[Evangelio]] = «palabra de la salvación» *Act 13,26* *11,14*, dirigida a judíos *Act 13,26* y naciones *Act 13,47* *28,28*. Invitación a creer «para salvarse de esta [[generación]] extraviada» *Act 2,40*. Condición: [[fe]] en Señor Jesús *Act 16,30s* *Mc 16,16*, invocación de su nombre *Act 2,21* *Jl 3,5*. Judíos y paganos en posición idéntica. No se salvan solos: [[gracia]] del Señor los salva *Act 15,11*. Apóstoles aportan única «vía de salvación» *Act 6,17*. Convertidos se consideran [[resto]] que se ha de salvar *Act 2,47*.
+Mensaje apostólico: salvación realizada conforme a Escrituras. Por [[resurrección]] Jesús establecido por Dios «cabeza y salvador» *Act 5,31* *13,23*. [[milagro|Milagros]] de apóstoles confirman: si se salvan enfermos por virtud del [[nombre]] de Jesús, no hay otro nombre para ser salvos *Act 4,9-12* *14,3*. [[evangelio]] = «palabra de la salvación» *Act 13,26* *11,14*, dirigida a judíos *Act 13,26* y naciones *Act 13,47* *28,28*. Invitación a creer «para salvarse de esta [[generación]] extraviada» *Act 2,40*. Condición: [[fe]] en Señor Jesús *Act 16,30s* *Mc 16,16*, invocación de su nombre *Act 2,21* *Jl 3,5*. Judíos y paganos en posición idéntica. No se salvan solos: [[gracia]] del Señor los salva *Act 15,11*. Apóstoles aportan única «vía de salvación» *Act 6,17*. Convertidos se consideran [[resto]] que se ha de salvar *Act 2,47*.
 
 ###### b. Infancia de Jesús y papel de salvador.
 
@@ -121,16 +121,16 @@ Mateo y Lucas subrayan desde infancia su futuro papel. Mateo: nombre = «Yahveh 
 
 #### II. Teología cristiana de la salvación.
 
-Escritos apostólicos usan vocabulario variado para obra [[redencion|redentora]] de Jesús; síntesis doctrinal en torno a idea de salvación.
+Escritos apostólicos usan vocabulario variado para obra [[redención|redentora]] de Jesús; síntesis doctrinal en torno a idea de salvación.
 
 ##### Sentido de la vida de Cristo.
 
-«Dios quiere la salvación de todos los hombres» *1Tim 2,4* *4,10*. Envía a su Hijo como salvador del [[mundo]] *1Jn 4,14*. Aparecido «nuestro Dios y salvador» *Tit 2,13*, para salvar pecadores *1Tim 1,15*, se manifestaron gracia y amor de Dios salvador *Tit 2,11* *3,4*. Por muerte y resurrección Cristo = «principio de salvación eterna» *Heb 5,9*, salvador del [[cuerpo]] que es la [[iglesia]] *Ef 5,23*. Título de salvador conviene a Padre *1Tim 1,1* *2,3* *4,10* *Tit 1,3* *2,10* y a Jesús *Tit 1,4* *2,13* *3,6* *2Pe 1,11* *2,20* *3,2.18*. Evangelio = «[[fuerza]] de Dios para salvación de todo creyente» *Rom 1,16*. [[Apostoles|Apóstol]] no tiene otro fin que salvación *1Cor 9,22* *10,33* *1Tim 1,15*, ya trate de paganos *Rom 11,11* o judíos, de los cuales por lo menos un [[resto]] se salvó *Rom 9,27* *11,14* antes de que finalmente se salve todo Israel *Rom 11,26*.
+«Dios quiere la salvación de todos los hombres» *1Tim 2,4* *4,10*. Envía a su Hijo como salvador del [[mundo]] *1Jn 4,14*. Aparecido «nuestro Dios y salvador» *Tit 2,13*, para salvar pecadores *1Tim 1,15*, se manifestaron gracia y amor de Dios salvador *Tit 2,11* *3,4*. Por muerte y resurrección Cristo = «principio de salvación eterna» *Heb 5,9*, salvador del [[cuerpo]] que es la [[iglesia]] *Ef 5,23*. Título de salvador conviene a Padre *1Tim 1,1* *2,3* *4,10* *Tit 1,3* *2,10* y a Jesús *Tit 1,4* *2,13* *3,6* *2Pe 1,11* *2,20* *3,2.18*. Evangelio = «[[fuerza]] de Dios para salvación de todo creyente» *Rom 1,16*. [[apóstoles|Apóstol]] no tiene otro fin que salvación *1Cor 9,22* *10,33* *1Tim 1,15*, ya trate de paganos *Rom 11,11* o judíos, de los cuales por lo menos un [[resto]] se salvó *Rom 9,27* *11,14* antes de que finalmente se salve todo Israel *Rom 11,26*.
 
 ##### Sentido de la vida cristiana.
 
-Evangelio propuesto por palabra apostólica → elección que determina suerte: salvación o pérdida *2Tes 2,10* *2Cor 2,15*, [[vida]] o [[muerte]]. Creen y [[confesion|confiesan]] fe → se salvan *Rom 10,9s.13*, sellada fe por [[bautismo]] = verdadera experiencia de salvación *1Pe 3,21*. Dios salva por pura [[misericordia]], sin considerar obras *2Tim 1,9* *Tit 3,5*, por [[gracia]] *Ef 2,5.8*, dando Espíritu Santo *2Tes 2,13* *Ef 1,13* *Tit 3,5s*. A partir de entonces: guardar con fidelidad [[palabra_de_dios|palabra]] que puede salvar [[alma]] *Sant 1,21*; alimentar fe con conocimiento Escrituras *2Tim 3,15* y fructificar en buenas [[obras]] *Sant 2,14*; trabajar con [[temor]] y temblor para «realizar su salvación» *Flp 2,12*. Supone ejercicio constante virtudes saludables *1Tes 5,8*, gracias a las cuales [[crecimiento|crecerá]] con vistas a salvación *1Pe 2,2*. No negligencia permitida; salvación ofrecida cada instante *Heb 2,3*; «ahora es el [[día_del_señor|día]] de la salvación» *2Cor 6,2*.
+Evangelio propuesto por palabra apostólica → elección que determina suerte: salvación o pérdida *2Tes 2,10* *2Cor 2,15*, [[vida]] o [[muerte]]. Creen y [[confesión|confiesan]] fe → se salvan *Rom 10,9s.13*, sellada fe por [[bautismo]] = verdadera experiencia de salvación *1Pe 3,21*. Dios salva por pura [[misericordia]], sin considerar obras *2Tim 1,9* *Tit 3,5*, por [[gracia]] *Ef 2,5.8*, dando Espíritu Santo *2Tes 2,13* *Ef 1,13* *Tit 3,5s*. A partir de entonces: guardar con fidelidad [[palabra_de_dios|palabra]] que puede salvar [[alma]] *Sant 1,21*; alimentar fe con conocimiento Escrituras *2Tim 3,15* y fructificar en buenas [[obras]] *Sant 2,14*; trabajar con [[temor]] y temblor para «realizar su salvación» *Flp 2,12*. Supone ejercicio constante virtudes saludables *1Tes 5,8*, gracias a las cuales [[crecimiento|crecerá]] con vistas a salvación *1Pe 2,2*. No negligencia permitida; salvación ofrecida cada instante *Heb 2,3*; «ahora es el [[día_del_señor|día]] de la salvación» *2Cor 6,2*.
 
 ##### La espera de la salvación final.
 
-Si herederos de salvación *Heb 1,14* y plenamente [[justificacion|justificados]] *Rom 5,1*, todavía no salvados más que en [[esperanza]] *Rom 8,24*. Dios nos tiene reservados para salvación *1Tes 5,9*, pero [[herencia]] que sólo se revelará al final del [[tiempo]] *1Pe 1,5*. Esfuerzo vida cristiana se impone porque cada día aproxima final *Rom 13,11*. Salvación (sentido fuerte) = perspectiva escatológica del [[día_del_señor|día]] del Señor *1Cor 3,1ss* *5,5*. [[Reconciliación|Reconciliados]] por muerte de Hijo y [[justificacion|justificados]] por [[sangre]], seremos salvados por Él de la [[ira]] *Rom 5,9ss*. Cristo aparecerá para darnos salvación *Heb 9,28*. Aguardamos manifestación final que acabará su obra transformando nuestro [[cuerpo]] *Flp 3,20s*; en esto salvación = objeto de esperanza *Rom 8,23ss*. Entonces salvados de [[enfermedad]], [[sufrimiento]], [[muerte]]; todos males que pedían ser librados (salmistas) y que Jesús triunfaba por [[milagro]], abolidos definitivamente. Cumplimiento = [[victoria]] por excelencia de Dios y Cristo. Aclamaciones litúrgicas Apocalipsis: «La salvación es de nuestro Dios y del cordero» *Ap 7,10* *12,10* *19,1*.
+Si herederos de salvación *Heb 1,14* y plenamente [[justificación|justificados]] *Rom 5,1*, todavía no salvados más que en [[esperanza]] *Rom 8,24*. Dios nos tiene reservados para salvación *1Tes 5,9*, pero [[herencia]] que sólo se revelará al final del [[tiempo]] *1Pe 1,5*. Esfuerzo vida cristiana se impone porque cada día aproxima final *Rom 13,11*. Salvación (sentido fuerte) = perspectiva escatológica del [[día_del_señor|día]] del Señor *1Cor 3,1ss* *5,5*. [[reconciliación|Reconciliados]] por muerte de Hijo y [[justificación|justificados]] por [[sangre]], seremos salvados por Él de la [[ira]] *Rom 5,9ss*. Cristo aparecerá para darnos salvación *Heb 9,28*. Aguardamos manifestación final que acabará su obra transformando nuestro [[cuerpo]] *Flp 3,20s*; en esto salvación = objeto de esperanza *Rom 8,23ss*. Entonces salvados de [[enfermedad]], [[sufrimiento]], [[muerte]]; todos males que pedían ser librados (salmistas) y que Jesús triunfaba por [[milagro]], abolidos definitivamente. Cumplimiento = [[victoria]] por excelencia de Dios y Cristo. Aclamaciones litúrgicas Apocalipsis: «La salvación es de nuestro Dios y del cordero» *Ap 7,10* *12,10* *19,1*.

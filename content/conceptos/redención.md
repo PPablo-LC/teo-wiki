@@ -95,7 +95,7 @@ El valor de la redención deriva de la persona que la obra: si Cristo fuera solo
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II relaciona la [[redención]] con su propia vocación sacerdotal: «la Cruz de Cristo ha sido siempre mi punto de referencia. Diría más: el centro de mi vida sacerdotal» [DyM, VIII]. La Eucaristía renueva el sacrificio redentor de Cristo. El sacerdote, al celebrarla, se sumerge en el [[mysterium_fidei]] —el misterio pascual de Cristo—, quedando envuelto por el poder del Espíritu Santo [DyM, VIII].
+Juan Pablo II relaciona la **redención** con su propia vocación sacerdotal: «la Cruz de Cristo ha sido siempre mi punto de referencia. Diría más: el centro de mi vida sacerdotal» [DyM, VIII]. La Eucaristía renueva el sacrificio redentor de Cristo. El sacerdote, al celebrarla, se sumerge en el [[mysterium_fidei]] —el misterio pascual de Cristo—, quedando envuelto por el poder del Espíritu Santo [DyM, VIII].
 
 ### Según Memoria e Identidad (MI)
 

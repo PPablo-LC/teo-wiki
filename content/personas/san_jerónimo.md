@@ -11,7 +11,7 @@ timestamp: 2026-07-02
 > Área: Patrística / Teología bíblica
 > Última actualización: 2026-07-02
 
-**San Jerónimo** (Eusebius Sophronius Hieronymus, c. 347–420), Padre y Doctor de la Iglesia, es conocido principalmente por su traducción de la Sagrada Escritura al latín —la [[Vulgata]]—, que se convirtió en la versión oficial de la Iglesia latina durante más de un milenio.
+**San Jerónimo** (Eusebius Sophronius Hieronymus, c. 347–420), Padre y Doctor de la Iglesia, es conocido principalmente por su traducción de la Sagrada Escritura al latín —la [[vulgata]]—, que se convirtió en la versión oficial de la Iglesia latina durante más de un milenio.
 
 ## Contexto histórico y biografía
 
@@ -21,7 +21,7 @@ Nacido en Estridón (Dalmacia), estudió en Roma bajo el gramático Donato. Fue 
 
 ### Traducción de la Vulgata
 
-La [[Vulgata]] es su obra cumbre: traducción directa del hebreo y el griego al latín culto, realizada con criterios filológicos avanzados para su tiempo. Fue declarada versión auténtica de la Iglesia por el Concilio de Trento (1546) y sustituyó a las anteriores versiones (*Vetus Latina*).
+La [[vulgata]] es su obra cumbre: traducción directa del hebreo y el griego al latín culto, realizada con criterios filológicos avanzados para su tiempo. Fue declarada versión auténtica de la Iglesia por el Concilio de Trento (1546) y sustituyó a las anteriores versiones (*Vetus Latina*).
 
 ### Exégesis bíblica
 
@@ -34,6 +34,17 @@ Participó activamente en las controversias de su tiempo: contra el [[origenismo
 ## Ver también
 
 [[padres_de_la_iglesia]], [[vulgata]], [[sagrada_escritura]], [[exégesis_bíblica]], [[san_agustín]], [[patrística]], [[dámaso_i]], [[orígenes]]
+
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: la conversión decisiva llegó en una
+grave enfermedad: «Soñó que debía pasar al juicio de Dios y, al
+presentarse como cristiano, oyó que le decían: "**¡Tú no eres cristiano,
+sino ciceroniano!**"». Curó en cuerpo y alma, y «la Biblia fue su único
+tesoro»: estudió hebreo, tradujo la *Vulgata* en Belén. Murió anciano,
+agotado por el trabajo («un viejo burrito que no puede más»), con la
+alegría de quien se estremece por el deseo de encontrarse con el Cristo
+tan largamente buscado en los textos sagrados.
 
 ## Referencias
 

@@ -207,7 +207,7 @@ Pío V condenó los errores de Bayo sobre la caridad (D‑1031–D‑1034, D‑1
 
 ### Según EAC-18 — Word on Fire Institute
 
-El análisis de *The Mission* ofrece la clave del fascículo: la [[caridad]] es el alma de la conversión. Mendoza descubre que la penitencia sin amor es estéril; solo el amor (1 Co 13) da sentido a la ascesis y hace fructificar la justicia — la gracia de Cristo ordena al pecador a la entrega de sí [EAC-18, 07_film.md].
+El análisis de *The Mission* ofrece la clave del fascículo: la **caridad** es el alma de la conversión. Mendoza descubre que la penitencia sin amor es estéril; solo el amor (1 Co 13) da sentido a la ascesis y hace fructificar la justicia — la gracia de Cristo ordena al pecador a la entrega de sí [EAC-18, 07_film.md].
 
 Mary Cording afirma que convertirse es «aprender a amar»: la vida cristiana no es primeramente un conjunto de deberes, sino la respuesta al amor primero de Dios, que hace del corazón un amante; de ahí que el amor sea la forma de toda virtud y de toda misión [EAC-18, 17_special_feature_cording.md].
 

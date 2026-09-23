@@ -36,13 +36,13 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[muerte]] — la muerte redentora
 - [[amor]] — el amor de Dios que entrega a su Hijo
 - [[resurrección]] — la resurrección de Jesús
-- [[Jerusalén]] — los tribunales de Jerusalén
-- [[Hijo]] — la calidad de Hijo de Dios
+- [[jerusalén]] — los tribunales de Jerusalén
+- [[hijo]] — la calidad de Hijo de Dios
 - [[mundo]] — el testimonio cristiano al mundo
 - [[odio]] — el odio del mundo
 - [[persecución]] — la persecución de los discípulos
 - [[esperanza]] — la defensa de la esperanza
-- [[Espíritu]] — el testimonio del Espíritu Santo
+- [[espíritu]] — el testimonio del Espíritu Santo
 - [[paráclito]] — el Paráclito, abogado infalible
 
 ## Contenido
@@ -77,7 +77,7 @@ Este triunfo es al mismo tiempo la salvación del hombre. El pecador que acepta 
 
 ### III. El proceso de Jesús
 
-La reacción del pecador consiste en rehusar la generosidad de Dios, en repudiar al que él envía, en ver blasfemias en los signos de su misión. El proceso entablado por Caifás, seguido ante todos los tribunales de [[Jerusalén]], es el tipo acabado del proceso entablado por el hombre contra Dios a partir del primer pecado.
+La reacción del pecador consiste en rehusar la generosidad de Dios, en repudiar al que él envía, en ver blasfemias en los signos de su misión. El proceso entablado por Caifás, seguido ante todos los tribunales de [[jerusalén]], es el tipo acabado del proceso entablado por el hombre contra Dios a partir del primer pecado.
 
 #### 1. Los relatos de la pasión
 
@@ -85,10 +85,10 @@ Todos ponen en el centro la cuestión decisiva: Jesús ¿es Cristo, el enviado d
 
 #### 2. El evangelio de Juan
 
-Marca todavía más el carácter ejemplar del proceso de Jesús. Se desenvuelve a lo largo de toda su vida pública: «los judíos buscan pleito a Jesús» *Jn 5,16* y prevén su muerte *5,18*; todas las discusiones son como la instrucción de un proceso en el que Jesús aduce sus testimonios, el de Juan *5,33* y sus obras, que constituyen el único testimonio en que quiere basarse, el de Dios *5,31-37* *8,13-18*. El objeto es la personalidad mesiánica y divina de Jesús, su calidad de [[Hijo]] de Dios *5,18* *8,25* *10,22-38* *19,7*.
+Marca todavía más el carácter ejemplar del proceso de Jesús. Se desenvuelve a lo largo de toda su vida pública: «los judíos buscan pleito a Jesús» *Jn 5,16* y prevén su muerte *5,18*; todas las discusiones son como la instrucción de un proceso en el que Jesús aduce sus testimonios, el de Juan *5,33* y sus obras, que constituyen el único testimonio en que quiere basarse, el de Dios *5,31-37* *8,13-18*. El objeto es la personalidad mesiánica y divina de Jesús, su calidad de [[hijo]] de Dios *5,18* *8,25* *10,22-38* *19,7*.
 
 #### 3. La revisión del proceso de Jesús
 
 La revisión del proceso de Jesús es el primer gesto público de la Iglesia y sigue siendo sumisión permanente. Dios, resucitando a Jesús, demostró solemnemente la justicia de su causa y confundió a sus adversarios, hizo «Señor y Cristo» *Act 2,36* a aquel al que habían condenado a muerte. No obstante, al hacer de esta [[resurrección]], en lugar de una demostración de fuerza, un llamamiento a la fe y a la conversión, muestra Dios que su victoria es la de su perdón. Este doble anuncio es el tema esencial de la predicación de la Iglesia naciente *Act 2,36.38* *3,13.19* *4,10.12* *5,30s*.
 
-Tal es el testimonio que el cristiano aporta al [[mundo]]. Su misión consiste en demostrar al mundo la injusticia del proceso que no cesa de seguir contra Dios y contra Cristo. Es normal que el cristiano sea llevado ante los tribunales *Mc 13,9-13 p*; es fatal que el mundo [[odio|odie]] y [[persecución|persiga]] a los discípulos *Jn 15,18ss*; es preciso que estén «siempre prontos a defender (su) [[esperanza]]» *1Pe 3,15*. Pero este proceso no es el suyo, sino el de Cristo, que se continúa. Así su testimonio no es el suyo, sino el del [[Espíritu]] Santo *Mc 13,11*; el [[paráclito|Paráclito]], como abogado infalible, «confundirá al mundo» por su boca y por su vida, haciendo brillar la injusticia de su causa y la justicia de Jesucristo *Jn 16,8-11*.
+Tal es el testimonio que el cristiano aporta al [[mundo]]. Su misión consiste en demostrar al mundo la injusticia del proceso que no cesa de seguir contra Dios y contra Cristo. Es normal que el cristiano sea llevado ante los tribunales *Mc 13,9-13 p*; es fatal que el mundo [[odio|odie]] y [[persecución|persiga]] a los discípulos *Jn 15,18ss*; es preciso que estén «siempre prontos a defender (su) [[esperanza]]» *1Pe 3,15*. Pero este proceso no es el suyo, sino el de Cristo, que se continúa. Así su testimonio no es el suyo, sino el del [[espíritu]] Santo *Mc 13,11*; el [[paráclito|Paráclito]], como abogado infalible, «confundirá al mundo» por su boca y por su vida, haciendo brillar la injusticia de su causa y la justicia de Jesucristo *Jn 16,8-11*.

@@ -41,11 +41,11 @@ CEC §2382: el Señor Jesús insistió en la intención original del Creador que
 
 ## Relaciones doctrinales
 
-Se relaciona con [[matrimonio]], [[indisolubilidad]], [[divorcio]], [[bigamia]], [[votum]], [[sacramento_del_matrimonio]], [[órdenes_sagradas]].
+Se relaciona con [[matrimonio]], [[indisolubilidad]], [[divorcio]], [[bigamia]], [[votum]], [[sacramento_del_matrimonio]], [[ordenes_sagradas]].
 
 ## Ver también
 
-[[matrimonio]], [[indisolubilidad]], [[bigamia]], [[viudedad]], [[órdenes_sagradas]]
+[[matrimonio]], [[indisolubilidad]], [[bigamia]], [[viudedad]], [[ordenes_sagradas]]
 
 ## Referencias
 

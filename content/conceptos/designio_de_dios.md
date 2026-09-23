@@ -64,11 +64,11 @@ Royo Marín trata del designio de Dios sobre la perfección cristiana como vocac
 - Fundamento de la [[providencia_divina]]
 - Se cumple en [[jesucristo]]
 - Incluye la [[vocación]] universal a la [[santidad]]
-- Manifiesta la [[gloria_de_Dios]]
+- Manifiesta la [[gloria_de_dios]]
 
 ## Ver también
 
-[[providencia_divina]], [[revelación_divina]], [[creación]], [[redención]], [[vocación]], [[santidad]], [[voluntad_de_dios]], [[gloria_de_Dios]]
+[[providencia_divina]], [[revelación_divina]], [[creación]], [[redención]], [[vocación]], [[santidad]], [[voluntad_de_dios]], [[gloria_de_dios]]
 
 ## Referencias
 

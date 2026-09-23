@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization and culture - 16 capitulos"]
 
 ## Conceptos básicos referenciados
 
-- [[belleza]] / [[via_pulchritudinis]] — el camino de la belleza como camino de fe y de teología
+- [[belleza]] / [[vía_pulchritudinis]] — el camino de la belleza como camino de fe y de teología
 - [[arte]] / [[arte_sacro]] — el arte al servicio de la fe y de la liturgia
 - [[evangelización]] / [[nueva_evangelización]] — el arte como anuncio del misterio
 - [[teología_de_la_belleza]] — la belleza como acceso al Misterio y a Dios

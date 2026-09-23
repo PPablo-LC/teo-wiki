@@ -14,7 +14,7 @@ tags: ["resumen", "el encuentro con cristo"]
 
 - [[reinado_de_cristo|Reino de Cristo]] — dar gloria a Dios y hacerlo presente en corazones y sociedad (EFRC 7)
 - [[carisma_del_regnum_christi|carisma común]] — familia espiritual y cuerpo apostólico unido por el Encuentro
-- [[celo_apostólico|corazón contemplativo, celo apostólico]] — modo regnista de seguir viviendo el Encuentro
+- [[celo_apostolico|corazón contemplativo, celo apostólico]] — modo regnista de seguir viviendo el Encuentro
 
 ## Contenido
 

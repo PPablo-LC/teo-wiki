@@ -18,10 +18,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[verdad]] — el error como rechazo de la verdad
 - [[castigos]] — vagar como castigo del error
 - [[camino]] — extraviarse del camino prescrito por Yahveh
-- [[idolos]] — la idolatría como consecuencia del error
+- [[ídolos]] — la idolatría como consecuencia del error
 - [[penitencia_y_conversión]] — la conversión como salida del error
 - [[endurecimiento]] — el endurecimiento que hace proliferar el error
-- [[sabiduria]] — la sabiduría de Dios que los príncipes no conocieron
+- [[sabiduría]] — la sabiduría de Dios que los príncipes no conocieron
 - [[anticristo]] — el espíritu de error en los últimos tiempos
 - [[satanás]] — el seductor del mundo entero
 
@@ -31,13 +31,13 @@ El error no equivale a la ignorancia. No consiste en los titubeos de la intelige
 
 ### AT
 
-El error está situado en el plano religioso: una desobediencia que ciega. Errar es «extraviarse lejos del [[camino]] prescrito por Yahveh» *Dt 13,6.11*. Ligado a la apostasía de Israel, conduce a la [[idolos|idolatría]] *Am 2,4* *Is 44,20* *Sab 12,24* y deriva del abandono de Yahveh *Sab 5,6*. El [[justo]] camina con seguridad *Sal 26,1.3*; los [[impio|impíos]] son entregados a un extravío *Is 63,17* que Dios sanciona abandonándolos *Ez 14,6-11*, a menos que se [[penitencia_y_conversión|convirtan]] *Bar 4,28*. Con el [[endurecimiento]], el error prolifera *Sab 14,22-31*, y tienen gran responsabilidad los jefes del pueblo *Is 9,15*, los levitas *Ez 44,10-13* y los falsos [[profeta]]s *Os 4,5* *Is 30,10s* *Jer 23,9-40*. Se anuncia el error diabólico de los últimos tiempos *Dan 11,33ss*.
+El error está situado en el plano religioso: una desobediencia que ciega. Errar es «extraviarse lejos del [[camino]] prescrito por Yahveh» *Dt 13,6.11*. Ligado a la apostasía de Israel, conduce a la [[ídolos|idolatría]] *Am 2,4* *Is 44,20* *Sab 12,24* y deriva del abandono de Yahveh *Sab 5,6*. El [[justo]] camina con seguridad *Sal 26,1.3*; los [[impío|impíos]] son entregados a un extravío *Is 63,17* que Dios sanciona abandonándolos *Ez 14,6-11*, a menos que se [[penitencia_y_conversión|convirtan]] *Bar 4,28*. Con el [[endurecimiento]], el error prolifera *Sab 14,22-31*, y tienen gran responsabilidad los jefes del pueblo *Is 9,15*, los levitas *Ez 44,10-13* y los falsos [[profeta]]s *Os 4,5* *Is 30,10s* *Jer 23,9-40*. Se anuncia el error diabólico de los últimos tiempos *Dan 11,33ss*.
 
 ### NT
 
 El error escatológico alcanza su paroxismo en contacto con Jesucristo, la verdad en persona *Jn 14,6*.
 
-Jesús denuncia los errores de sus contemporáneos *Mt 22,29* y los apóstoles ponen a los fieles en guardia *1Cor 6,9* *15,33*; pero el maestro y sus discípulos serán denunciados como impostores *2Cor 6,8*, hasta tal punto se extraviaron los fariseos que se dejaron cegar *Jn 9,41*. Los «príncipes de este mundo no conocieron la [[sabiduria|sabiduría]] de Dios» y crucificaron al Señor de la gloria *1Cor 2,8*.
+Jesús denuncia los errores de sus contemporáneos *Mt 22,29* y los apóstoles ponen a los fieles en guardia *1Cor 6,9* *15,33*; pero el maestro y sus discípulos serán denunciados como impostores *2Cor 6,8*, hasta tal punto se extraviaron los fariseos que se dejaron cegar *Jn 9,41*. Los «príncipes de este mundo no conocieron la [[sabiduría|sabiduría]] de Dios» y crucificaron al Señor de la gloria *1Cor 2,8*.
 
 El error se mantiene activo entre los pecadores, «a la vez engañadores y engañados» *2Tim 3,13*. Hay que velar *Sant 1,16* *1Jn 2,26s*, desconfiar de las fábulas de los falsos doctores *1Tim 1,4* *2Pe 2,1s*, de la impostura de los hombres *Ef 4,14.25* *Tit 1,14*. Todos tienen el deber de reducir al pecador extraviado *Sant 5,20*.
 

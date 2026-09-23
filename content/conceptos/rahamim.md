@@ -54,7 +54,7 @@ El Magníficat de María también resuena este contenido: María proclama la mis
 
 ## Relaciones doctrinales
 
-*Rahamim* expresa la dimensión materna del amor de [[Dios]], complementaria de [[hesed]]. Junto con [[hesed]], constituye el fundamento veterotestamentario de la [[misericordia]] revelada plenamente en Cristo. Se relaciona también con [[alianza]], [[ternura_de_dios]], [[amor]], [[perdón]] y [[compasión]].
+*Rahamim* expresa la dimensión materna del amor de [[dios]], complementaria de [[hesed]]. Junto con [[hesed]], constituye el fundamento veterotestamentario de la [[misericordia]] revelada plenamente en Cristo. Se relaciona también con [[alianza]], [[ternura_de_dios]], [[amor]], [[perdón]] y [[compasión]].
 
 ## Ver también
 

@@ -14,7 +14,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 
 - [[renacimiento]] — nueva concepción del mundo centrada en el hombre
 - [[descubrimiento_de_américa]] — gesta de Colón que abrió un nuevo mundo a la Iglesia
-- [[evangelización_de_américa]] — obra misionera de la Iglesia en el Nuevo Mundo
+- [[evangelizacion_de_america]] — obra misionera de la Iglesia en el Nuevo Mundo
 - [[bartolomé_de_las_casas]] — dominico defensor de los indios, autor de la Brevísima relación de la destrucción de las Indias
 - [[francisco_de_vitoria]] — fundador del Derecho Internacional, defensor de los derechos de los indios
 - [[virgen_de_guadalupe]] — apariciones a Juan Diego (1531) que impulsaron la evangelización de México

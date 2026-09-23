@@ -15,7 +15,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[inocencia_originaria]] — la inocencia en la recíproca experiencia del cuerpo
 - [[don]] — el intercambio interior del don de la persona
 - [[don_sincero_de_sí]] — el «don sincero de sí» (Gaudium et spes, 24)
-- [[donación_mutua]] — la donación mutua que crea la comunión de las personas
+- [[donacion_mutua]] — la donación mutua que crea la comunión de las personas
 - [[acogida]] — la recíproca aceptación del otro como don
 - [[comunión_de_personas]] — la comunión creada por el intercambio del don
 - [[vergüenza]] — el comienzo de la vergüenza como amenaza al don

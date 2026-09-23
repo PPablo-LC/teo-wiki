@@ -53,11 +53,11 @@ En *Jesús de Nazaret III*, Benedicto XVI dedica el capítulo IV a los Magos de 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[natividad]] (los Magos visitan al Niño recién nacido), [[reino_de_dios]] (los Magos reconocen la realeza de Jesús), [[hijo_de_dios]] (lo adoran como Dios), [[misterio_pascual]] (la mirra anuncia la cruz), [[mision_de_la_iglesia]] (los Magos prefiguran la conversión de los gentiles), [[belen]] (lugar de la adoración).
+Se relaciona con [[natividad]] (los Magos visitan al Niño recién nacido), [[reino_de_dios]] (los Magos reconocen la realeza de Jesús), [[hijo_de_dios]] (lo adoran como Dios), [[misterio_pascual]] (la mirra anuncia la cruz), [[misión_de_la_iglesia]] (los Magos prefiguran la conversión de los gentiles), [[belén]] (lugar de la adoración).
 
 ## Ver también
 
-[[natividad]], [[reino_de_dios]], [[hijo_de_dios]], [[misterio_pascual]], [[mision_de_la_iglesia]], [[belen]], [[estrella_de_belen]]
+[[natividad]], [[reino_de_dios]], [[hijo_de_dios]], [[misterio_pascual]], [[misión_de_la_iglesia]], [[belén]], [[estrella_de_belen]]
 
 ## Referencias
 

@@ -36,11 +36,11 @@ Brian Cochran (my_personal_emmaus.md) menciona la vocacion de Pedro como paradig
 
 ## Relaciones doctrinales
 
-Se relaciona con [[apóstoles]], [[primado_petrino]], [[Iglesia]], [[papado]], [[confesión_de_Pedro]], [[llaves_del_Reino]], [[sucesión_apostólica]], [[ministerio_petrino]], [[magisterio_petrino]]
+Se relaciona con [[apóstoles]], [[primado_petrino]], [[iglesia]], [[papado]], [[confesión_de_Pedro]], [[llaves_del_reino]], [[sucesión_apostólica]], [[ministerio_petrino]], [[magisterio_petrino]]
 
 ## Ver también
 
-[[primado_petrino]], [[apóstoles]], [[Iglesia]], [[papado]], [[confesión_de_Pedro]], [[ministerio_petrino]], [[magisterio_petrino]]
+[[primado_petrino]], [[apóstoles]], [[iglesia]], [[papado]], [[confesión_de_Pedro]], [[ministerio_petrino]], [[magisterio_petrino]]
 
 ## Referencias
 

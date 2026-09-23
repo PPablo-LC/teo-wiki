@@ -13,7 +13,7 @@ description: "La gloria (en sentido escatológico) es el estado de bienaventuran
 
 ## Definición
 
-La gloria (en sentido escatológico) es el estado de bienaventuranza eterna en el cielo, donde el alma —y finalmente también el cuerpo resucitado— goza de la visión beatífica de Dios, participa de su misma vida y felicidad, y recibe el premio eterno prometido a los que perseveran en la gracia. Se distingue de la [[gloria_de_Dios]] en que esta es el fin objetivo de toda la creación, mientras que aquella es la participación subjetiva del bienaventurado en la gloria divina.
+La gloria (en sentido escatológico) es el estado de bienaventuranza eterna en el cielo, donde el alma —y finalmente también el cuerpo resucitado— goza de la visión beatífica de Dios, participa de su misma vida y felicidad, y recibe el premio eterno prometido a los que perseveran en la gracia. Se distingue de la [[gloria_de_dios]] en que esta es el fin objetivo de toda la creación, mientras que aquella es la participación subjetiva del bienaventurado en la gloria divina.
 
 ## Desarrollo doctrinal
 
@@ -63,7 +63,7 @@ En la cuestión 93 del Suplemento, Santo Tomás añade que la gloria de los sant
 
 ## Relaciones doctrinales
 
-La gloria se relaciona con la [[gracia_santificante]] (semilla de gloria), con el [[cielo]] (estado de gloria), con la [[visión_beatífica]] (acto esencial de la gloria), con la [[resurrección_de_la_carne]] (gloria del cuerpo), con la [[gloria_de_Dios]] (fin objetivo), con la [[perfección_cristiana]] (anticipo de la gloria) y con las [[dotes]] del cuerpo glorioso (impasibilidad, sutileza, agilidad, claridad).
+La gloria se relaciona con la [[gracia_santificante]] (semilla de gloria), con el [[cielo]] (estado de gloria), con la [[visión_beatífica]] (acto esencial de la gloria), con la [[resurrección_de_la_carne]] (gloria del cuerpo), con la [[gloria_de_dios]] (fin objetivo), con la [[perfección_cristiana]] (anticipo de la gloria) y con las [[dotes]] del cuerpo glorioso (impasibilidad, sutileza, agilidad, claridad).
 
 
 ## Analizado para
@@ -71,7 +71,7 @@ La gloria se relaciona con la [[gracia_santificante]] (semilla de gloria), con e
 - [[primeros_pasos_en_la_vida_espiritual]]
 
 ## Ver también
-[[gloria_de_Dios]], [[gracia_santificante]], [[cielo]], [[visión_beatífica]], [[resurrección_de_la_carne]], [[bienaventuranzas]], [[dotes]], [[cuerpos_gloriosos]]
+[[gloria_de_dios]], [[gracia_santificante]], [[cielo]], [[visión_beatífica]], [[resurrección_de_la_carne]], [[bienaventuranzas]], [[dotes]], [[cuerpos_gloriosos]]
 
 ## Referencias
 

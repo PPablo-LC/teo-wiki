@@ -13,7 +13,7 @@ tags: ["resumen", "denzinger capitulos"]
 ## Conceptos básicos referenciados
 
 - [[trinidad]] — misterio de un solo Dios en tres Personas
-- [[Espíritu_Santo]] — tercera Persona de la Trinidad
+- [[espíritu_santo]] — tercera Persona de la Trinidad
 - [[arrianismo]] — herejía que niega la consustancialidad del Hijo
 - [[sabelianismo]] — herejía que confunde las Personas divinas
 - [[acedismo]] — herejía que niega la divinidad del Espíritu Santo
@@ -54,4 +54,4 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## SAN LIBERIO, 352-366 — CONCILIO ROMANO, 382
 
-El Tomus Damasi del Concilio de Roma (382) contiene 24 cánones que condenan las principales herejías: [[arrianismo]], [[sabelianismo]], [[acedismo]], [[fotinianismo]] y otras. Definen la Trinidad y la Encarnación, y establecen que el [[Espíritu_Santo]] es de la misma sustancia que el Padre y el Hijo. También incluye el Decreto Damasi sobre el [[canon_bíblico]], que enumera los libros inspirados del Antiguo y Nuevo Testamento.
+El Tomus Damasi del Concilio de Roma (382) contiene 24 cánones que condenan las principales herejías: [[arrianismo]], [[sabelianismo]], [[acedismo]], [[fotinianismo]] y otras. Definen la Trinidad y la Encarnación, y establecen que el [[espíritu_santo]] es de la misma sustancia que el Padre y el Hijo. También incluye el Decreto Damasi sobre el [[canon_bíblico]], que enumera los libros inspirados del Antiguo y Nuevo Testamento.

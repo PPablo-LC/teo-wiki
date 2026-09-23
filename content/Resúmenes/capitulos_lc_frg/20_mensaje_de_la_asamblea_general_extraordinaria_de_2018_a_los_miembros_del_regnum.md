@@ -13,11 +13,11 @@ tags: ["resumen", "capitulos lc frg"]
 ## Conceptos básicos referenciados
 
 - [[asamblea_general_regnum_christi]]
-- [[Regnum_Christi]]
-- [[Comunión]]
-- [[Reconciliación]]
-- [[Perdón]]
-- [[Comunión_eclesial]]
+- [[regnum_christi]]
+- [[comunión]]
+- [[reconciliación]]
+- [[perdón]]
+- [[comunión_eclesial]]
 
 
 ## Contenido
@@ -28,13 +28,13 @@ Mensaje de la primera sesión de la [[asamblea_general_regnum_christi]] sobre co
 
 El documento se estructura en 10 puntos:
 
-1. **La comunión como don**: La experiencia de las primeras comunidades cristianas (*Hch* 4,32) refleja la comunión que Dios ha dado al [[Regnum_Christi]].
+1. **La comunión como don**: La experiencia de las primeras comunidades cristianas (*Hch* 4,32) refleja la comunión que Dios ha dado al [[regnum_christi]].
 
 2. **Alegría y retos de la comunión**: Los miembros de las distintas ramas, reunidos por primera vez, experimentaron alegría de estar juntos pero también los retos de escuchar, confiar y abrirse.
 
 3. **Heridas de la historia**: Los últimos años han sido difíciles; se han hecho más conscientes de las heridas provocadas unas a otras, a nivel personal e institucional, generando desconfianza y actitudes defensivas.
 
-4. **Historia de misericordia**: La historia del [[Regnum_Christi]] es una historia de misericordia y perdón de Dios. Se reconoce la necesidad de pedir perdón y perdonar.
+4. **Historia de misericordia**: La historia del [[regnum_christi]] es una historia de misericordia y perdón de Dios. Se reconoce la necesidad de pedir perdón y perdonar.
 
 5. **El perdón como don y camino**: El perdón es un don de Dios que pone en juego la libertad humana. Solo cuando la herida es reconocida puede curarse.
 

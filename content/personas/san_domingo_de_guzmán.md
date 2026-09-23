@@ -31,5 +31,19 @@ Fr. Paul Murray OP destaca la tradición contemplativa dominicana en su artícul
 [[rosario]]
 [[orden_de_los_predicadores]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. VI: combatió el catarismo en el sur de
+Francia «en humildad y pobreza, como un solitario peregrino de Cristo»;
+las Constituciones de la Orden son «una obra maestra de sabiduría
+jurídica». Pasó los últimos años dedicado solo «a hablar con Dios, o a
+hablar de Dios». Murió en Bolonia en un catre de cuerdas; quiso ser
+sepultado «bajo los pies de sus frailes»: por humildad, «pero quizá
+también para seguir siendo su apoyo». Su última confidencia reveló el
+candor de su alma: no había conseguido evitar la imperfección de
+«encontrar más atractiva la conversación con las mujeres jóvenes»; para
+sus frailes jóvenes «hubiera deseado incluso esa última pureza que él no
+había conseguido alcanzar».
+
 ## Referencias
 - EAC-23 raw files (07_dominican_tradition.md)

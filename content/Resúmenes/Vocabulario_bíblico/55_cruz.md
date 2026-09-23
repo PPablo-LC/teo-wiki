@@ -17,35 +17,35 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[muerte]] — la muerte de Jesús crucificado
 - [[sufrimiento]] — el sufrimiento redentor
 - [[sangre]] — la sangre redentora
-- [[escandalo]] — el escándalo de la cruz
+- [[escándalo]] — el escándalo de la cruz
 - [[locura]] — la locura de la cruz para los paganos
-- [[maldicion]] — el condenado marcado con la maldición divina
+- [[maldición]] — el condenado marcado con la maldición divina
 - [[obediencia]] — la obediencia a la voluntad del Padre
 - [[voluntad_de_dios]] — la voluntad del Padre
 - [[designio_de_dios]] — la cruz en el designio de Dios
-- [[mesias]] — la crucifixión del Mesías
+- [[mesías]] — la crucifixión del Mesías
 - [[odio]] — el odio de sus hermanos
 - [[cumplir]] — la realización de lo escrito acerca de Cristo
 - [[escritura]] — la conformidad con las Escrituras
-- [[sabiduria]] — la cruz, verdadera sabiduría
+- [[sabiduría]] — la cruz, verdadera sabiduría
 - [[fuerza]] — la fuerza de Dios en la debilidad
-- [[arbol]] — el colgado del árbol y el árbol de la vida
+- [[árbol]] — el colgado del árbol y el árbol de la vida
 - [[carne]] — la carne semejante a la del pecado
 - [[pecado]] — condenar el pecado en la carne
 - [[ley]] — la sentencia de la ley suprimida en la cruz
-- [[reconciliacion]] — la reconciliación por la sangre de su cruz
+- [[reconciliación]] — la reconciliación por la sangre de su cruz
 - [[paz]] — la paz restablecida
 - [[unidad]] — la unidad entre judíos y paganos
 - [[cuerpo]] — un solo cuerpo
 - [[gloria]] — la cruz, gloria anticipada
 - [[hijo]] — el Hijo del hombre elevado
-- [[espiritu]] — el Espíritu dado al fundar la Iglesia
+- [[espíritu]] — el Espíritu dado al fundar la Iglesia
 - [[agua]] — la sangre y el agua del costado
-- [[discipulo]] — la suerte de los discípulos con la del Maestro
+- [[discípulo]] — la suerte de los discípulos con la del Maestro
 - [[seguir]] — seguir a Jesús cargando con la cruz
 - [[mundo]] — morir al mundo
-- [[persecucion]] — la condición de perseguido
-- [[justificacion]] — la única justificación
+- [[persecución]] — la condición de perseguido
+- [[justificación]] — la única justificación
 - [[obras]] — la justificación no por las obras de la ley
 - [[bautismo]] — crucificado con Cristo en el bautismo
 - [[confianza]] — la confianza en la sola fuerza de Cristo

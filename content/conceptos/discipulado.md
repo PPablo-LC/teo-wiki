@@ -53,11 +53,11 @@ En clave juvenil: los adolescentes «buscan una experiencia de amistad con Jesú
 
 ## Relaciones doctrinales
 
-Este concepto se vincula con [[vocación_cristiana]], [[imitación_de_Cristo]], [[fe]], [[seguimiento_de_Cristo]], [[apostolado]], [[Iglesia]], [[perfección_cristiana]], [[caridad]], [[conversión]].
+Este concepto se vincula con [[vocación_cristiana]], [[imitacion_de_cristo]], [[fe]], [[seguimiento_de_cristo]], [[apostolado]], [[iglesia]], [[perfección_cristiana]], [[caridad]], [[conversión]].
 
 ## Ver también
 
-[[vocación_cristiana]], [[imitación_de_Cristo]], [[fe]], [[seguimiento_de_Cristo]], [[apostolado]], [[Iglesia]], [[perfección_cristiana]], [[evangelización]]
+[[vocación_cristiana]], [[imitacion_de_cristo]], [[fe]], [[seguimiento_de_cristo]], [[apostolado]], [[iglesia]], [[perfección_cristiana]], [[evangelización]]
 
 ## Referencias
 

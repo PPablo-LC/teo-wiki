@@ -26,7 +26,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[victoria_sobre_el_pecado]] — la esperanza de «cada día»
 - [[venzaer_el_mal_con_el_bien]] — la vida cristiana cotidiana (Rom 12, 21)
 - [[dignidad]] — la dignidad del ser humano y el significado nupcial
-- [[vocacion]] — la altísima vocación del hombre (GS 22)
+- [[vocación]] — la altísima vocación del hombre (GS 22)
 - [[misterio_de_la_redención]] — el fundamento definitivo
 
 ## Contenido

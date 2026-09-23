@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization and culture - 11"]
 - [[muerte_como_encuentro]] — Teresita: «no es la Muerte, es el buen Dios»
 - [[infierno]] — la inscripción del Inferno de Dante
 - [[cielo]] — «la tierra no tiene pena que el cielo no pueda curar»
-- [[santa_teresa_de_lisieux]], [[santo_tomás_moro]], [[dante_alighieri]] — voces del número
+- [[santa_teresa_de_lisieux]], [[tomás_moro]], [[dante_alighieri]] — voces del número
 - [[sacramentos]] — purificarán; las gracias abrumarán
 
 ## Contenido

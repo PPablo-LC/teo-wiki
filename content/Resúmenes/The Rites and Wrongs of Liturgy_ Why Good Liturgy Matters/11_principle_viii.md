@@ -14,9 +14,9 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 
 - [[liturgia]]
 - [[ritual]]
-- [[Eucaristía]]
+- [[eucaristía]]
 - [[lavabo]]
-- [[Pascua]]
+- [[pascua]]
 - [[comunicación_litúrgica]]
 - [[proclamación_del_Evangelio]]
 - [[simbolismo_litúrgico]]
@@ -35,11 +35,11 @@ El autor describe una escena de Pascua: el santuario cubierto con flores caras e
 
 ### Liturgy Is Open to Interpretations
 
-El segundo fenómeno es nuestro deseo de unir todos los fragmentos de experiencia en una historia con sentido. Los fragmentos pueden sumar una historia que no se ajusta bien al [[Evangelio]]. El ejemplo del lavabo es significativo: originalmente era la necesidad práctica del presidente de lavarse las manos tras manipular alimentos. Más tarde los alimentos desaparecieron pero el lavado permaneció; luego incluso la presentación del pan y el vino desapareció, pero seguía lavándose las manos. Para dar sentido a este sub-ritual, se añadieron oraciones. Pero ¿qué pensaban los que lo veían? Una explicación popular fue: así como Pilato se lavó las manos antes de la crucifixión, el sacerdote se las lava porque está a punto de hacer que Jesús sufra su sacrificio una vez más. La liturgia es más parecida a la poesía que a la prosa en su apertura a interpretaciones, pero cuando se llega a una interpretación así, se ha ido más allá de la interpretación legítima hacia un peligroso territorio de fantasía. Hoy, el ritual del lavabo es simplemente exceso que se dudó en eliminar en 1970.
+El segundo fenómeno es nuestro deseo de unir todos los fragmentos de experiencia en una historia con sentido. Los fragmentos pueden sumar una historia que no se ajusta bien al [[evangelio]]. El ejemplo del lavabo es significativo: originalmente era la necesidad práctica del presidente de lavarse las manos tras manipular alimentos. Más tarde los alimentos desaparecieron pero el lavado permaneció; luego incluso la presentación del pan y el vino desapareció, pero seguía lavándose las manos. Para dar sentido a este sub-ritual, se añadieron oraciones. Pero ¿qué pensaban los que lo veían? Una explicación popular fue: así como Pilato se lavó las manos antes de la crucifixión, el sacerdote se las lava porque está a punto de hacer que Jesús sufra su sacrificio una vez más. La liturgia es más parecida a la poesía que a la prosa en su apertura a interpretaciones, pero cuando se llega a una interpretación así, se ha ido más allá de la interpretación legítima hacia un peligroso territorio de fantasía. Hoy, el ritual del lavabo es simplemente exceso que se dudó en eliminar en 1970.
 
 ### Liturgy, Communication, and Proclamation
 
-Toda liturgia comunica, y debemos examinar repetidamente qué mensaje estamos enviando. Debemos buscar armonía entre los mensajes que se pueden llevar y el [[Evangelio]] de Jesús que estamos comisionados a proclamar. Debemos asegurarnos de no sobrecargar la comunicación ritual de modo que sugiera que todo es igual a todo lo demás. Los mensajes incorrectos de la liturgia son mayormente resultado del exceso de elementos, el ruido y las distracciones de perder el panorama general por tener tantos elementos que simplemente están ahí porque ya estaban ahí.
+Toda liturgia comunica, y debemos examinar repetidamente qué mensaje estamos enviando. Debemos buscar armonía entre los mensajes que se pueden llevar y el [[evangelio]] de Jesús que estamos comisionados a proclamar. Debemos asegurarnos de no sobrecargar la comunicación ritual de modo que sugiera que todo es igual a todo lo demás. Los mensajes incorrectos de la liturgia son mayormente resultado del exceso de elementos, el ruido y las distracciones de perder el panorama general por tener tantos elementos que simplemente están ahí porque ya estaban ahí.
 
 Un paso inicial para una mejor [[proclamación_del_Evangelio|proclamación]] es ver la evitación del exceso como parte de una buena liturgia. En domingo de Pascua, asegurarse de que la vela pascual —la luz del Señor resucitado— sea lo suficientemente grande para destacar y no confundirse con otras velas. Invitar a cada persona a encender su propia vela de ella, en la manera de la Vigilia antes de la profesión de fe pascual. Una liturgia llena de distracciones, complicaciones innecesarias o curiosidades anacrónicas desvía nuestro enfoque del misterio divino hacia un laberinto de curiosidades.
 

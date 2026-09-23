@@ -18,10 +18,10 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[endurecimiento]] — Jesús como ocasión de endurecimiento para muchos
 - [[cruz]] — el escándalo de la cruz
 - [[satanás]] — los escándalos instigados por el maligno
-- [[persecucion]] — la persecución como ocasión de caída
+- [[persecución]] — la persecución como ocasión de caída
 - [[fidelidad]] — resistir al escándalo para guardar la fidelidad
 - [[liberación_y_libertad]] — la libertad cristiana penetrada de caridad
-- [[discipulo]] — el discípulo que no debe escandalizar
+- [[discípulo]] — el discípulo que no debe escandalizar
 
 ## Contenido
 
@@ -37,7 +37,7 @@ Jesús apareció a los hombres como signo de contradicción. Fue enviado para la
 
 #### 2. Juan pone de relieve el carácter escandaloso del Evangelio.
 
-Jesús es un hombre semejante a los otros *Jn 1,14*, cuyo origen se cree saber *1,46* *6,42* y cuyo designio redentor por la [[cruz]] *6,52* y por la [[ascension]] *6,62* no se llega a comprender. Los oyentes tropiezan en el triple misterio de la encarnación, la redención y la ascensión; a unos los levanta Jesús, otros se obstinan: su pecado no tiene excusa *15,22ss*.
+Jesús es un hombre semejante a los otros *Jn 1,14*, cuyo origen se cree saber *1,46* *6,42* y cuyo designio redentor por la [[cruz]] *6,52* y por la [[ascensión]] *6,62* no se llega a comprender. Los oyentes tropiezan en el triple misterio de la encarnación, la redención y la ascensión; a unos los levanta Jesús, otros se obstinan: su pecado no tiene excusa *15,22ss*.
 
 #### 3. Jesús puso a los hombres en la contingencia de optar.
 
@@ -45,11 +45,11 @@ Jesús es un hombre semejante a los otros *Jn 1,14*, cuyo origen se cree saber *
 
 #### 4. Pablo debió afrontar este escándalo.
 
-Cristo crucificado es «escándalo para los judíos y locura para los paganos» *1Cor 1,23*. «La cruz es locura para los que se pierden, pero para los que se salvan es el [[poder]] de Dios» *1Cor 1,18*. La sabiduría humana no puede comprender que Dios quiera salvar por un Cristo humillado, crucificado. Sólo el [[Espíritu]] de Dios da al hombre poder superar el escándalo de la cruz, o reconocer en él la suprema [[sabiduria|sabiduría]] *1Cor 1,25* *2,11-16*.
+Cristo crucificado es «escándalo para los judíos y locura para los paganos» *1Cor 1,23*. «La cruz es locura para los que se pierden, pero para los que se salvan es el [[poder]] de Dios» *1Cor 1,18*. La sabiduría humana no puede comprender que Dios quiera salvar por un Cristo humillado, crucificado. Sólo el [[espíritu]] de Dios da al hombre poder superar el escándalo de la cruz, o reconocer en él la suprema [[sabiduría|sabiduría]] *1Cor 1,25* *2,11-16*.
 
 #### 5. El escándalo continúa a través de la historia de la Iglesia.
 
-La Iglesia es siempre en el mundo un signo de contradicción, y el odio, la [[persecucion|persecución]] son para muchos ocasión de caída *Mt 13,21* *24,10*, aun cuando Jesús anunció todo esto para que los discípulos no sucumbieran *Jn 16,1*.
+La Iglesia es siempre en el mundo un signo de contradicción, y el odio, la [[persecución|persecución]] son para muchos ocasión de caída *Mt 13,21* *24,10*, aun cuando Jesús anunció todo esto para que los discípulos no sucumbieran *Jn 16,1*.
 
 ### II. EL HOMBRE, ESCÁNDALO PARA EL HOMBRE
 

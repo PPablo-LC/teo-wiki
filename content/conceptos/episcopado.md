@@ -31,9 +31,9 @@ Los obispos son sucesores de los Apóstoles por institución divina (c. 375 §1)
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-Lumen Gentium dedica el capítulo III a la constitución jerárquica de la Iglesia y particularmente al [[episcopado]]. Cristo instituyó a los Apóstoles a modo de colegio estable, al frente del cual puso a Pedro, y quiso que sus sucesores —los Obispos— fuesen pastores en su Iglesia hasta la consumación de los siglos [ConcVatII, LG §18-19].
+Lumen Gentium dedica el capítulo III a la constitución jerárquica de la Iglesia y particularmente al **episcopado**. Cristo instituyó a los Apóstoles a modo de colegio estable, al frente del cual puso a Pedro, y quiso que sus sucesores —los Obispos— fuesen pastores en su Iglesia hasta la consumación de los siglos [ConcVatII, LG §18-19].
 
-La divina misión confiada por Cristo a los Apóstoles ha de durar hasta el fin del mundo, por lo que los Apóstoles cuidaron de establecer sucesores [ConcVatII, LG §20]. Los Obispos han sucedido por institución divina a los Apóstoles como pastores de la Iglesia [ConcVatII, LG §20]. El [[episcopado]] es la plenitud del sacramento del orden, el sumo sacerdocio, que confiere junto con el oficio de santificar los oficios de enseñar y regir, los cuales no pueden ejercerse sino en comunión jerárquica con la Cabeza y los miembros del Colegio [ConcVatII, LG §21].
+La divina misión confiada por Cristo a los Apóstoles ha de durar hasta el fin del mundo, por lo que los Apóstoles cuidaron de establecer sucesores [ConcVatII, LG §20]. Los Obispos han sucedido por institución divina a los Apóstoles como pastores de la Iglesia [ConcVatII, LG §20]. El **episcopado** es la plenitud del sacramento del orden, el sumo sacerdocio, que confiere junto con el oficio de santificar los oficios de enseñar y regir, los cuales no pueden ejercerse sino en comunión jerárquica con la Cabeza y los miembros del Colegio [ConcVatII, LG §21].
 
 Los Obispos, en cuanto sucesores de los Apóstoles, reciben del Señor la misión de enseñar a todas las gentes [ConcVatII, LG §24]. Entre los principales oficios de los Obispos se destaca la predicación del Evangelio [ConcVatII, LG §25]. Rigen como vicarios y legados de Cristo las Iglesias particulares, con potestad propia, ordinaria e inmediata, no como vicarios de los Romanos Pontífices [ConcVatII, LG §27].
 ### Según Royo Marín (TPCr)

@@ -31,6 +31,19 @@ Santa Clara de Asís es presentada por Ali Ghaffari como ejemplo de preparación
 
 [[san_francisco_de_asís]], [[pobreza_evangélica]], [[eucaristía]], [[fortaleza]], [[vida_contemplativa]], [[clausura]], [[clarisas]]
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. III: «Es hermoso contemplarla muriendo en
+su pobre lecho, pero aún en espera, como sucede a algunas madres que no
+pueden irse antes de haber completado su misión». Al término de su larga
+experiencia había escrito la regla para sus monjas —«la primera regla
+redactada por una mujer»— y deseaba que el papa confirmase definitivamente
+el **privilegio de la pobreza** («No querer tener nada, sino a Nuestro
+Señor»). Inocencio IV vino en persona; Clara besó la bula «como había
+deseado. Y al día siguiente murió». En los últimos instantes murmuraba:
+«Vete segura, porque tienes una buena escolta… Le hablo a mi bendita
+alma».
+
 ## Referencias
 
 - [TPCr, Cuarta Parte, Cap. II: fenómeno del perfume sobrenatural en sus restos]

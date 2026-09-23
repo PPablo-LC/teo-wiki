@@ -47,11 +47,11 @@ La eubulia es la rectitud en el consejo (q.51 a.1). El consejo implica investiga
 - Parte potencial de la [[virtud_de_la_prudencia]]
 - Virtud secundaria ordenada a la prudencia como la investigación al imperio
 - Se complementa con la [[synesis]] y la [[gnome]] para el acto perfecto de la razón práctica
-- Se opone a la [[precipitación]] (defecto en el consejo)
+- Se opone a la [[precipitacion]] (defecto en el consejo)
 
 ## Ver también
 
-[[virtud_de_la_prudencia]], [[synesis]], [[gnome]], [[precipitación]], [[inconsideración]], [[inconstancia]], [[don_de_consejo]]
+[[virtud_de_la_prudencia]], [[synesis]], [[gnome]], [[precipitacion]], [[inconsideracion]], [[inconstancia]], [[don_de_consejo]]
 
 ## Referencias
 

@@ -12,7 +12,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-- [[parusia]] — segundo advenimiento de Cristo; ignorancia del tiempo de la Parusia, propia de los hombres
+- [[parusía]] — segundo advenimiento de Cristo; ignorancia del tiempo de la Parusia, propia de los hombres
 - [[sagrada_escritura]] — inerrancia e inspiración (Spiritus Paraclitus); todo lo que el hagiógrafo afirma es afirmado por el Espíritu Santo
 - [[inspiración_bíblica]] — extensión de la inspiración; condicional a la inerrancia
 - [[inerrancia_bíblica]] — absoluta inmunidad de las Escrituras respecto de todo error

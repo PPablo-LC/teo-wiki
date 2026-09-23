@@ -21,7 +21,7 @@ tags: ["resumen", "catequesis sobre el matrimonio - juan pablo ii"]
 - [[desnudez_originaria]] — experiencia del cuerpo sin vergüenza, ligada a la libertad del don.
 - [[significado_esponsalicio_del_cuerpo]] — capacidad del cuerpo de expresar el amor-don.
 - [[don_de_sí]] — hermenéutica del don: el hombre se realiza mediante un don sincero de sí (GS 24).
-- [[imagen_de_Dios]] — clave teológica de la creación del hombre varón y mujer.
+- [[imagen_de_dios]] — clave teológica de la creación del hombre varón y mujer.
 - [[comunión_de_las_personas]] — communio personarum que forman varón y mujer desde el principio.
 - [[sacramento_primordial]] — el mundo y el hombre como signo visible del misterio invisible de Dios.
 - [[conocimiento_generación]] — término bíblico de la unión conyugal y su fruto (Gn 4,1).

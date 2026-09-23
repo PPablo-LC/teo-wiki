@@ -21,8 +21,8 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[justicia]] — el testimonio de la justicia de Dios
 - [[pecado]] — el testimonio del pecado del hombre
 - [[palabra_de_dios]] — el libro que contiene la palabra de Dios
-- [[mision]] — la misión del profeta
-- [[jerusalen]] — los inscritos como ciudadanos de Sión
+- [[misión]] — la misión del profeta
+- [[jerusalén]] — los inscritos como ciudadanos de Sión
 - [[vida]] — el libro de la vida
 - [[juicio]] — los libros abiertos en el juicio
 - [[designio_de_dios]] — la dirección infalible del designio divino
@@ -49,9 +49,9 @@ A una necesidad análoga responde la formación de las colecciones proféticas. 
 
 ### III. Libros terrenales, libros celestiales
 
-Dado que los libros en que están recogidas las palabras de los profetas contienen la [[palabra_de_dios|palabra]] de Dios, es natural que un visionario como Ezequiel, cuando se pone a profetizar y piensa en su [[mision|misión]], se vea a sí mismo devorando un volumen celestial y repitiendo en la tierra un texto compuesto en el cielo *Ez 2,8* *3,3*. Esta visión expresiva traduce en forma viva, y evitando el literalismo miope de tantos comentaristas posteriores, la naturaleza del libro inspirado, totalmente obra de Dios y del todo compuesto por el autor humano.
+Dado que los libros en que están recogidas las palabras de los profetas contienen la [[palabra_de_dios|palabra]] de Dios, es natural que un visionario como Ezequiel, cuando se pone a profetizar y piensa en su [[misión|misión]], se vea a sí mismo devorando un volumen celestial y repitiendo en la tierra un texto compuesto en el cielo *Ez 2,8* *3,3*. Esta visión expresiva traduce en forma viva, y evitando el literalismo miope de tantos comentaristas posteriores, la naturaleza del libro inspirado, totalmente obra de Dios y del todo compuesto por el autor humano.
 
-Por lo demás, hay otros libros más misteriosos cuyo contenido se reserva Dios en forma más o menos exclusiva: tal es el «libro de ciudadanía», donde inscribe a los paganos entre los ciudadanos de Sión *Sal 87,5s* *Is 4,3* y del que borra a los falsos profetas *Ez 13,19*. Pero como estar inscrito en [[jerusalen|Jerusalén]] es estar «inscrito para sobrevivir» *Is 4,3*, este libro coincide con el «Libro de [[vida|vida]]» *Sal 69,29*, donde Dios inscribe a los suyos para que vivan sobre la tierra *Ex 32,32s* y en los cielos *Dan 12,1* *Lc 10,20*. Y si existe un libro en el que están inscritos, antes de que aparezcan, nuestros días y todos nuestros gestos *Sal 139,16*, es, sin embargo, diferente de los libros que se presentarán y se abrirán a la hora del [[juicio|juicio]] *Dan 7,10* *Ap 20,12*. A través de todas estas imágenes se trata mucho menos de contar y de calcular que de proclamar la soberana justeza de la mirada divina y la dirección infalible de su [[designio_de_dios|designio]]. Si su libro contiene cuentas, son las de nuestras lágrimas *Sal 56,9*.
+Por lo demás, hay otros libros más misteriosos cuyo contenido se reserva Dios en forma más o menos exclusiva: tal es el «libro de ciudadanía», donde inscribe a los paganos entre los ciudadanos de Sión *Sal 87,5s* *Is 4,3* y del que borra a los falsos profetas *Ez 13,19*. Pero como estar inscrito en [[jerusalén|Jerusalén]] es estar «inscrito para sobrevivir» *Is 4,3*, este libro coincide con el «Libro de [[vida|vida]]» *Sal 69,29*, donde Dios inscribe a los suyos para que vivan sobre la tierra *Ex 32,32s* y en los cielos *Dan 12,1* *Lc 10,20*. Y si existe un libro en el que están inscritos, antes de que aparezcan, nuestros días y todos nuestros gestos *Sal 139,16*, es, sin embargo, diferente de los libros que se presentarán y se abrirán a la hora del [[juicio|juicio]] *Dan 7,10* *Ap 20,12*. A través de todas estas imágenes se trata mucho menos de contar y de calcular que de proclamar la soberana justeza de la mirada divina y la dirección infalible de su [[designio_de_dios|designio]]. Si su libro contiene cuentas, son las de nuestras lágrimas *Sal 56,9*.
 
 ### IV. El libro sellado y descifrado
 

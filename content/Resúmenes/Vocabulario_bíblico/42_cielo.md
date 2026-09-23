@@ -15,7 +15,7 @@ tags: ["resumen", "vocabulario bíblico"]
 ## Conceptos básicos referenciados
 
 - [[tierra]] — el cielo y la tierra como universo
-- [[revelacion]] — Dios se revela a través de la creación
+- [[revelación]] — Dios se revela a través de la creación
 - [[luz]] — la luz del cielo
 - [[astros]] — los astros fijados en el firmamento
 - [[misterio]] — el misterio impenetrable del cielo
@@ -23,28 +23,28 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[casa]] — el cielo como morada de Dios
 - [[agua]] — las aguas sobre las que edifica su palacio
 - [[tormenta]] — la voz de Dios en el estruendo de la tormenta
-- [[senor]] — el Señor que domina en los cielos
+- [[señor]] — el Señor que domina en los cielos
 - [[presencia_de_dios]] — la presencia sumamente próxima
 - [[verdad]] — la verdad de Dios en el cielo
 - [[gracia]] — la gracia de Dios
 - [[fidelidad]] — la fidelidad de Dios
 - [[enfermedad_y_curación]] — la salud que derrama sobre la tierra
-- [[bendicion]] — la lluvia y el rocío como bendición
+- [[bendición]] — la lluvia y el rocío como bendición
 - [[esperanza]] — la espera de un acontecimiento venido del cielo
 - [[hijo]] — el Hijo del hombre que viene sobre las nubes
-- [[angeles]] — los ángeles del cielo
+- [[ángeles]] — los ángeles del cielo
 - [[reino_de_dios]] — el reino de los cielos
 - [[padres_y_padre]] — el Padre que está en los cielos
 - [[obras]] — las obras de Cristo
 - [[pan]] — el pan venido del cielo
 - [[vida]] — la vida eterna
 - [[voluntad_de_dios]] — la voluntad de Dios en la tierra como en el cielo
-- [[resurreccion]] — el poder recibido en la resurrección
+- [[resurrección]] — el poder recibido en la resurrección
 - [[sacrificio]] — el sacrificio que penetra en el santuario
-- [[reconciliacion]] — la reconciliación de todo lo creado
+- [[reconciliación]] — la reconciliación de todo lo creado
 - [[nuevo]] — los nuevos cielos y la nueva tierra
-- [[jerusalen]] — la nueva Jerusalén
-- [[comunion]] — el cielo como comunión con el Señor
+- [[jerusalén]] — la nueva Jerusalén
+- [[comunión]] — el cielo como comunión con el Señor
 - [[carne]] — el universo del Verbo hecho carne
 
 ## Contenido

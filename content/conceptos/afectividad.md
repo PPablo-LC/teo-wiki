@@ -50,11 +50,11 @@ Las ciencias psicológicas y la experiencia concuerdan en destacar «la importan
 
 ## Relaciones doctrinales
 
-Se relaciona con [[emociones_y_fe]], [[corazon]], [[pasiones]], [[emotivismo]], [[fe]], [[sentidos_externos]], [[sentidos_internos]], [[guardia_del_corazón]], [[sentimientos]], [[educación_moral_de_la_afectividad]]
+Se relaciona con [[emociones_y_fe]], [[corazón]], [[pasiones]], [[emotivismo]], [[fe]], [[sentidos_externos]], [[sentidos_internos]], [[guardia_del_corazón]], [[sentimientos]], [[educación_moral_de_la_afectividad]]
 
 ## Ver también
 
-[[emociones_y_fe]], [[corazon]], [[pasiones]], [[emotivismo]], [[sentimientos]], [[apetito_sensitivo]], [[educación_moral_de_la_afectividad]]
+[[emociones_y_fe]], [[corazón]], [[pasiones]], [[emotivismo]], [[sentimientos]], [[apetito_sensitivo]], [[educación_moral_de_la_afectividad]]
 
 ## Referencias
 

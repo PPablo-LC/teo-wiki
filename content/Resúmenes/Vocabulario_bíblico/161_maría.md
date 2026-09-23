@@ -14,7 +14,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Conceptos básicos referenciados
 
-- [[jesus]] — el misterio de Jesús inseparable de la mujer
+- [[jesús]] — el misterio de Jesús inseparable de la mujer
 - [[mujer]] — la mujer de la que Jesús había querido nacer
 - [[nombre]] — el nombre de María, corriente en la época de Jesús
 - [[pueblo]] — María, personificación del pueblo de Dios
@@ -28,7 +28,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[vocación]] — la vocación de María
 - [[servir]] — el servicio como libertad
 - [[madre]] — la educación de Jesús por su madre
-- [[mision]] — la misión de María
+- [[misión]] — la misión de María
 - [[crecimiento]] — la sumisión durante el crecimiento de Jesús
 - [[fe]] — la fe de María, primera creyente
 - [[rey]] — Jesús, hijo de David, rey de Israel
@@ -37,13 +37,13 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[pobres]] — la pobreza de María
 - [[bienaventuranza]] — el misterio de las bienaventuranzas
 - [[esposo]] — la Iglesia, esposa de Cristo
-- [[jerusalen]] — la nueva Jerusalén
-- [[adan]] — Jesús, el nuevo Adán
+- [[jerusalén]] — la nueva Jerusalén
+- [[adán]] — Jesús, el nuevo Adán
 - [[mediador]] — el mediador único
 
 ## Contenido
 
-El papel importante que desempeña la madre de Jesús en la tradición cristiana quedó esbozado desde la revelación escrituraria. Si la primera generación cristiana centró su interés en el ministerio de Jesús, desde su bautismo hasta Pascua *Act 1,22* *10,37ss* *13,24ss*, fue porque debía responder a lo más urgente de la misión apostólica. Era normal que los relatos sobre la infancia de Jesús aparecieran sólo tardíamente; Marcos los ignora, contentándose con mencionar sólo dos veces a la madre de Jesús *Mc 3,31-35* *6,3*. Mateo los conoce, pero los centra en José, el descendiente de David que recibe los mensajes celestiales *Mt 1,20s* *2,13.20.22* y da el nombre de Jesús al hijo de la Virgen *1,18-25*. Con Lucas sale María a plena luz; ella tiene en los orígenes del Evangelio el primer papel con una verdadera personalidad; en los orígenes de la Iglesia ella toma parte con los discípulos en la oración del Cenáculo *Act 1,14*. Finalmente, Juan encuadra la vida de Jesús entre dos escenas mariales *Jn 2,1-12* *19,25ss*: en Caná, como en el Calvario, define Jesús con autoridad la función de María, primero como creyente, luego como madre de sus discípulos. Esta progresiva toma de conciencia de la misión de María no debe explicarse sencillamente por motivos psicológicos: refleja una inteligencia cada vez más profunda del misterio mismo de [[jesus|Jesús]], inseparable de la «[[mujer|mujer]]» de la que había querido nacer *Gal 4,4*. Se pueden reunir en algunos títulos los datos dispersos en el NT.
+El papel importante que desempeña la madre de Jesús en la tradición cristiana quedó esbozado desde la revelación escrituraria. Si la primera generación cristiana centró su interés en el ministerio de Jesús, desde su bautismo hasta Pascua *Act 1,22* *10,37ss* *13,24ss*, fue porque debía responder a lo más urgente de la misión apostólica. Era normal que los relatos sobre la infancia de Jesús aparecieran sólo tardíamente; Marcos los ignora, contentándose con mencionar sólo dos veces a la madre de Jesús *Mc 3,31-35* *6,3*. Mateo los conoce, pero los centra en José, el descendiente de David que recibe los mensajes celestiales *Mt 1,20s* *2,13.20.22* y da el nombre de Jesús al hijo de la Virgen *1,18-25*. Con Lucas sale María a plena luz; ella tiene en los orígenes del Evangelio el primer papel con una verdadera personalidad; en los orígenes de la Iglesia ella toma parte con los discípulos en la oración del Cenáculo *Act 1,14*. Finalmente, Juan encuadra la vida de Jesús entre dos escenas mariales *Jn 2,1-12* *19,25ss*: en Caná, como en el Calvario, define Jesús con autoridad la función de María, primero como creyente, luego como madre de sus discípulos. Esta progresiva toma de conciencia de la misión de María no debe explicarse sencillamente por motivos psicológicos: refleja una inteligencia cada vez más profunda del misterio mismo de [[jesús|Jesús]], inseparable de la «[[mujer|mujer]]» de la que había querido nacer *Gal 4,4*. Se pueden reunir en algunos títulos los datos dispersos en el NT.
 
 ## I. La hija de Sión
 
@@ -67,7 +67,7 @@ A todos los niveles de la tradición evangélica es María ante todo «la madre 
 
 **1.** Esta maternidad es voluntaria. El relato de la anunciación lo pone claramente de relieve *Lc 1,26-38*. Ante la [[vocación|vocación]] inesperada que anuncia el ángel a María, la presenta Lucas preocupada por ver claro: ¿cómo conciliar este nuevo llamamiento de Dios con el llamamiento a la virginidad que ha oído ya anteriormente? El ángel le revela que una concepción virginal permitirá responder a la vez a los dos llamamientos. María, completamente iluminada, acepta; es la sierva del Señor, como fueron sus siervos Abraham, Moisés y los profetas; su [[servir|servicio]], como el de ellos, y todavía más, es libertad.
 
-**2.** Cuando María da a luz a Jesús, su quehacer, como el de todas las [[madre|madres]], no hace sino comenzar. Tiene que *educar a Jesús*. Con José, que comparte sus responsabilidades, lleva al niño al templo para presentarlo al Señor, para expresar la oblación de que todavía es incapaz su conciencia humana. Recibe de Simeón, en su lugar, el anuncio de su [[mision|misión]] *Lc 2,29-32.34s*. Finalmente, acoge la «sumisión» de que daba prueba para con sus padres durante el tiempo de su [[crecimiento|crecimiento]] *2,51s*.
+**2.** Cuando María da a luz a Jesús, su quehacer, como el de todas las [[madre|madres]], no hace sino comenzar. Tiene que *educar a Jesús*. Con José, que comparte sus responsabilidades, lleva al niño al templo para presentarlo al Señor, para expresar la oblación de que todavía es incapaz su conciencia humana. Recibe de Simeón, en su lugar, el anuncio de su [[misión|misión]] *Lc 2,29-32.34s*. Finalmente, acoge la «sumisión» de que daba prueba para con sus padres durante el tiempo de su [[crecimiento|crecimiento]] *2,51s*.
 
 **3.** María no es menos madre *cuando llega Jesús a la edad adulta*. Se halla junto a su hijo en los momentos de separaciones dolorosas *Mc 3,21.31* *Jn 19,25ss*. Pero su quehacer adopta entonces nueva forma. Lucas y Juan lo dan a entender en las dos etapas mayores del desarrollo de Jesús. A los doce años, israelita con pleno derecho, proclama Jesús a sus padres de la tierra que debe ante todo entregarse al culto de su Padre celestial *Lc 2,49*. Cuando inicia su misión en Caná, sus palabras a María: «Mujer, déjame» *Jn 2,4* no son tanto las de un hijo cuanto las del responsable del reino; así reivindica su independencia de enviado de Dios. En adelante la madre desaparece tras la creyente *Mc 3,32-35 p* *Lc 11,27s*.
 
@@ -79,7 +79,7 @@ Los evangelistas, lejos de hacer consistir la grandeza de María en luces excepc
 
 ### La revelación hecha a María
 
-Desde la anunciación se ofrece Jesús a María como objeto de su fe, fe que es iluminada por mensajes enraizados en los oráculos del AT. El niño se llamará [[jesus|Jesús]], será hijo del Altísimo, hijo de David, el [[rey|rey]] de Israel, el Mesías anunciado. En la presentación en el templo oye María aplicar a su Hijo los oráculos del siervo de Dios: luz de las naciones y signo de contradicción. A estas pocas palabras explícitas hay que añadir, aunque los textos no lo dicen, que María experimenta en sí misma la vida de un niño que es el Mesías, presencia que se dilata en el silencio y en la pobreza. Y cuando Jesús habla a su madre, le habla con palabras que tienen el tono abrupto de los oráculos proféticos; María debe reconocer en ellas la independencia y la autoridad de su hijo, la superioridad de la fe sobre la maternidad carnal.
+Desde la anunciación se ofrece Jesús a María como objeto de su fe, fe que es iluminada por mensajes enraizados en los oráculos del AT. El niño se llamará [[jesús|Jesús]], será hijo del Altísimo, hijo de David, el [[rey|rey]] de Israel, el Mesías anunciado. En la presentación en el templo oye María aplicar a su Hijo los oráculos del siervo de Dios: luz de las naciones y signo de contradicción. A estas pocas palabras explícitas hay que añadir, aunque los textos no lo dicen, que María experimenta en sí misma la vida de un niño que es el Mesías, presencia que se dilata en el silencio y en la pobreza. Y cuando Jesús habla a su madre, le habla con palabras que tienen el tono abrupto de los oráculos proféticos; María debe reconocer en ellas la independencia y la autoridad de su hijo, la superioridad de la fe sobre la maternidad carnal.
 
 ### La fidelidad de María
 
@@ -99,7 +99,7 @@ María, creyente tipo, llamada a la salvación en la fe por la gracia de Dios, r
 
 ### La Madre
 
-Además, respecto a Jesús se halla María en una situación especial que no pertenece a ningún otro miembro de la Iglesia. Es la [[madre|madre]]; es el punto de la humanidad en que se realiza el parto del Hijo de Dios. Esta función es la que permite asimilarla a la Hija de Sión *Sof 3,14* *Lc 1,28*, a la nueva [[jerusalen|Jerusalén]], en su función materna. Si la nueva humanidad es comparable a la [[mujer|mujer]], cuyo primogénito es Cristo cabeza *Ap 12,5*, ¿se podrá olvidar que tal misterio se cumplió concretamente en María, que esta mujer y esta madre no es un puro símbolo, sino que gracias a María ha tenido una existencia personal? Todavía en este punto, el nexo de María y de la Iglesia se afirma con tal fuerza que, tras la mujer arrebatada por Dios a los ataques de la serpiente *Ap 12,13-16*, contrapartida de Eva engañada por la misma serpiente *2Cor 11,3* *Gen 3,13*, se perfila María al mismo tiempo que la Iglesia, puesto que tal fue su misión en el designio de la salvación. Por eso la tradición ha visto con toda razón en María y en la Iglesia, conjuntamente, a la «nueva Eva», así como Jesús es el «nuevo [[adan|Adán]]».
+Además, respecto a Jesús se halla María en una situación especial que no pertenece a ningún otro miembro de la Iglesia. Es la [[madre|madre]]; es el punto de la humanidad en que se realiza el parto del Hijo de Dios. Esta función es la que permite asimilarla a la Hija de Sión *Sof 3,14* *Lc 1,28*, a la nueva [[jerusalén|Jerusalén]], en su función materna. Si la nueva humanidad es comparable a la [[mujer|mujer]], cuyo primogénito es Cristo cabeza *Ap 12,5*, ¿se podrá olvidar que tal misterio se cumplió concretamente en María, que esta mujer y esta madre no es un puro símbolo, sino que gracias a María ha tenido una existencia personal? Todavía en este punto, el nexo de María y de la Iglesia se afirma con tal fuerza que, tras la mujer arrebatada por Dios a los ataques de la serpiente *Ap 12,13-16*, contrapartida de Eva engañada por la misma serpiente *2Cor 11,3* *Gen 3,13*, se perfila María al mismo tiempo que la Iglesia, puesto que tal fue su misión en el designio de la salvación. Por eso la tradición ha visto con toda razón en María y en la Iglesia, conjuntamente, a la «nueva Eva», así como Jesús es el «nuevo [[adán|Adán]]».
 
 ### El misterio de María
 
