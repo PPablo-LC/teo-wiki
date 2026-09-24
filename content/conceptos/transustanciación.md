@@ -53,6 +53,11 @@ Ratzinger aborda la transubstanciación de manera extensa y original en el archi
 
 **La Eucaristía como lo más real (GINU, archivo 05, §b):** «La Eucaristía es más real que las cosas con las que tratamos a diario. Aquí está la genuina realidad. Esta es la vara de medir, el corazón de las cosas; aquí encontramos esa realidad contra la cual necesitamos aprender a medir todas las demás realidades» (GINU, archivo 05, §b).
 
+### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
+
+Tóth acude al dogma definido por Trento —Cristo presente «verdadera, real y substancialmente»— para fundar el homenaje de la Iglesia: a la presencia eucarística se debe el culto de latria, a diferencia de la presencia por la gracia (como imagen) [EMA, cap. 1]. Frente a los sentidos («nada veo»), defiende el misterio con apólogos: el espejo roto que refleja la imagen entera en cada fragmento (Cristo entero en cada partícula), las realidades invisibles pero verdaderas (la rotación de la Tierra); el verso tomista: «uno o mil su cuerpo tomen, en todos y cada uno entero vive» [EMA, cap. 3]. El **milagro de Bolsena** (1263) confirma la fe vacilante y origina la fiesta del Corpus Christi: la Eucaristía como «piedra de toque de la fe».
+
+
 ## Distinciones importantes
 
 - **Transustanciación** ≠ **consubstanciación**: la primera afirma la conversión total de sustancia; la segunda (luterana) sostiene la coexistencia de pan y Cuerpo de Cristo.
@@ -70,6 +75,7 @@ La transustanciación fundamenta la [[presencia_real]] de Cristo en la [[eucaris
 
 ## Referencias
 
+- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 1, 3.
 - IV Concilio de Letrán (1215), cap. 1 (*Firmiter credimus*)
 - Concilio de Constanza (1414-1418)
 - CEC §1373-1376

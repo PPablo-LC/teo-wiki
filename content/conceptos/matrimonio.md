@@ -242,6 +242,15 @@ La indisolubilidad —«la eternidad dentro de una relación humana»— es impo
 El matrimonio no es «el resultado de conveniencias ni de una mera atracción sexual»: por ser una vocación «comporta siempre una elección bien meditada, el mutuo compromiso ante de Dios, y la constante petición de su ayuda en la oración» (SHVS 27). Es «una sabia institución del Creador para realizar en la humanidad su designio de amor»; en los bautizados reviste «la dignidad de signo sacramental de la gracia, en cuanto representa la unión de Cristo y de la Iglesia» (SHVS 28). Es «una *communio personarum*» con cierta semejanza a la unión de las Personas divinas (SHVS 28). El don del sacramento «es al mismo tiempo vocación y mandamiento para los esposos cristianos, para que permanezcan siempre fieles entre sí, por encima de toda prueba y dificultad» (SHVS 30). El documento enseña también el «sentido vocacional del matrimonio, que nunca debe ser considerado por un cristiano sólo como una aventura humana» (Ef 5, 32: «Gran misterio es éste, lo digo respecto a Cristo y a la Iglesia») (SHVS 101).
 
 
+### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
+
+Tóth traza el arco completo del matrimonio: institución divina en la creación (Gen 1,27-28: bendición sobre la unión monógama original), degenerado por el pecado (poligamia como aberración), y restituido por Cristo a su forma ideal — «Lo que Dios ha unido, no lo separe el hombre» (Mc 10,9) — y elevado a sacramento [EMC, caps. 2-3, 17]. La esencia del matrimonio no depende de la voluntad humana: «el matrimonio no es invención humana sino institución divina; el hombre no puede legislar su esencia». Frente a las «reformas» modernas (matrimonio de prueba, de hecho, «amor libre»), Tóth opone el **símil del sol y los relojes**: los ideales no se ajustan a la realidad decadente; hay valores absolutos que la Iglesia no cede aunque el mundo los abandone [EMC, cap. 8].
+
+**El matrimonio como camino de santificación**, no de mero goce: los obstáculos para contraerlo son externos (comodidad, cálculos económicos) e internos (egoísmo, miedo al sacrificio, hedonismo moderno) [EMC, cap. 6]. La elección del cónyuge y el noviazgo cristiano (tiempo de conocimiento mutuo y de virtud, con pureza) preparan una decisión que compromete toda la vida [EMC, caps. 4-5].
+
+**El matrimonio feliz** descansa en **la mesa familiar, el crucifijo y la cuna**: dos columnas — **autoridad y amor** (Ef 5,22-26). La obediencia de la esposa no humilla: la mujer es «el corazón» de la familia, el esposo «la cabeza»; el amor evangélico del esposo es abnegado, dispuesto a dar la vida como Cristo con la Iglesia; «la alfombra persa» del hogar entrelaza hilos oscuros de sufrimiento, autoridad, disciplina, indulgencia y perdón; el matrimonio contraído ante el altar = lugar del sacrificio. El secreto: «dos caminos humanos que se encuentran en Dios» [EMC, cap. 12].
+
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento
@@ -288,6 +297,7 @@ El matrimonio no es «el resultado de conveniencias ni de una mera atracción se
 - [TdC 25.08.1982]
 - [TdC 10.10.1984]
 - [TdC 05.09.1979]
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 2-8, 12, 17.
 - [TdC 13.02.1980]
 - [TdC 20.02.1980]
 - [TdC 02.04.1980]

@@ -47,6 +47,11 @@ El matrimonio es "sacramento según el significado generalmente conocido... es u
 
 El Cantar de los Cantares y el libro de Tobías confirman la belleza y verdad del amor conyugal. En Ef 5, el "gran misterio" de Cristo y la Iglesia revela la dimensión definitiva del sacramento del matrimonio. "El lenguaje litúrgico, es decir, el lenguaje del sacramento y del 'mysterium', se convierte en su vida y coexistencia en 'lenguaje del cuerpo' en toda su profundidad, sencillez y belleza hasta ahora desconocida" (TdC 13.06.1984, aud 113).
 
+### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
+
+Cristo restituye el matrimonio a su forma ideal y lo **eleva a sacramento**: «Lo que Dios ha unido, no lo separe el hombre» (Mc 10,9); la monogamia y la indisolubilidad son la ley básica de la esencia matrimonial, que no depende de la voluntad humana. La Iglesia ha sido durante dos milenios la defensora del matrimonio y ha sufrido reproches por no ceder del ideal [EMC, cap. 3]. El matrimonio contraído ante el altar es lugar del sacrificio: la vida conyugal participa del espíritu de la cruz (crucifijo en el hogar, continencia, perdón) [EMC, cap. 12].
+
+
 ## Distinciones importantes
 
 - **Sacramento primordial vs. sacramento de la redención:** el primero brota del misterio de la creación; el segundo, del misterio de la redención, pero ambos convergen en Cristo
@@ -63,6 +68,7 @@ La teología del matrimonio como sacramento se conecta con la [[teología_nupcia
 
 ## Referencias
 
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 3, 12, 17.
 - TdC 30.06.1982 (aud 100)
 - TdC 18.08.1982 (aud 101)
 - TdC 25.08.1982 (aud 102)
@@ -75,3 +81,4 @@ La teología del matrimonio como sacramento se conecta con la [[teología_nupcia
 - TdC 30.05.1984 (aud 111)
 - TdC 06.06.1984 (aud 112)
 - TdC 13.06.1984 (aud 113)
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 3, 12, 17.

@@ -39,11 +39,11 @@ El comunismo cayó por su propia debilidad interna. Sus errores y abusos contra 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[doctrina_social_de_la_iglesia]], [[providencia_divina]], [[rerum_novarum]], [[fatima]], [[consagración_de_rusia]], [[ateísmo]], [[teología_de_la_historia]], [[dignidad_humana]], [[mater_ecclesiae]].
+Se relaciona con [[doctrina_social_de_la_iglesia]], [[providencia_divina]], [[rerum_novarum]], [[fátima]], [[consagración_de_rusia]], [[ateísmo]], [[teología_de_la_historia]], [[dignidad_humana]], [[mater_ecclesiae]].
 
 ## Ver también
 
-[[doctrina_social_de_la_iglesia]], [[providencia_divina]], [[teología_de_la_historia]], [[fatima]], [[rerum_novarum]]
+[[doctrina_social_de_la_iglesia]], [[providencia_divina]], [[teología_de_la_historia]], [[fátima]], [[rerum_novarum]]
 
 ## Referencias
 

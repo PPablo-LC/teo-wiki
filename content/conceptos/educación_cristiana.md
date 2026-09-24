@@ -43,6 +43,13 @@ La fuente muestra la educación cristiana en acción en tres escenarios:
 - **Educación cristiana** ≠ **instrucción religiosa**: la primera forma la persona entera por vía de vida y testimonio; la segunda es su componente didáctico.
 - **Educadores** ≠ **docentes**: los primeros educadores son los padres (CEC §2223); la escuela coopera.
 
+### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
+
+Tóth dedica dos capítulos a la educación de los hijos en la familia numerosa. La familia cristiana **respeta al niño** — «res sacra puer»: san Leónidas arrodillado ante el pequeño Orígenes («adoro al Espíritu Santo que mora en él»); santa Perpetua con su hijo en la cárcel — y **educa**: formar cuerpo y espíritu, con el amor paterno como fuerza inagotable y la **misión sacerdotal de los padres** (enseñar a orar, el Niño Jesús, la Virgen, las verdades de la fe); la madre de los Macabeos como prototipo (2 Mac 7,28-29) y María como modelo [EMC, cap. 15].
+
+Las **virtudes a inculcar**: 1) **obediencia** (Ef 6,1.4; contra el sentimentalismo: «el niño u obedece o manda»); 2) **respeto a la autoridad** dentro y fuera de la familia; 3) **veracidad**, fundamento del carácter — no castigar la sinceridad, porque la severidad arbitraria induce a mentir; 4) **pureza**, con ambiente apropiado y vigilancia de las amistades (san Agustín, *Confesiones* I-II); 5) **educación religiosa**, fundamento de toda educación — contra el miedo a que el hijo «sea un beato» [EMC, cap. 16]. Todo apoyado en el **ejemplo de los padres**: el mal ejemplo mina la corrección; modelo: los padres de santa Teresita de Lisieux y san José con María («vámonos a la sinagoga»).
+
+
 ## Relaciones doctrinales
 
 [[familia]], [[sistema_preventivo]], [[gracia_santificante]], [[catequesis]], [[conciencia_moral]]
@@ -56,3 +63,4 @@ La fuente muestra la educación cristiana en acción en tres escenarios:
 - ConcVatII, *Gravissimum Educationis* §1-3
 - CEC §2221-2231
 - RdS, cap. 7, 11 y 13
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 15-16.

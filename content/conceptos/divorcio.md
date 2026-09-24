@@ -37,6 +37,11 @@ Santo Tomás trata la separación por fornicación en el Suplemento (q.62) y el 
 
 **León XIII** — Decreto del Santo Oficio (27 de mayo de 1886, D‑1865): Respondió negativamente a si un juez católico puede, en el contexto de la ley civil de divorcio, dictar sentencia de divorcio mirando solo los efectos civiles, cuando el matrimonio es válido ante la Iglesia. Afirmó que no es lícito al juez ni al síndico declarar el divorcio ni unir civilmente a un divorciado con otra persona mientras viva el cónyuge legítimo.
 
+### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
+
+Tóth narra la **historia y expansión del divorcio**: de los casos graves se pasa a la supresión de facto de la institución matrimonial — «si no reparamos un descosido, el vestido se rompe del todo» [EMC, cap. 11]. El **mal del divorcio** despliega consecuencias psicológicas, sociales y religiosas; la estadística del divorcio se corresponde con la falta de hijos [EMC, cap. 10]. Contra la pretensión estatal, el **bien común** está sobre los intereses individuales y el Estado es incapaz de crear los fundamentos morales del matrimonio: las leyes matrimoniales de Augusto fracasaron porque sin la religión las leyes civiles son insuficientes [EMC, caps. 11, 17]. La Iglesia, «segunda arca de Noé», «salvará de nuevo la familia»: no las conferencias internacionales ni los Estados, sino los padres y madres santos salvarán el mundo [EMC, cap. 17].
+
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[indisolubilidad]], [[uniones_de_hecho]], [[familia]], [[fidelidad]]
@@ -49,3 +54,4 @@ Se relaciona con [[matrimonio]], [[indisolubilidad]], [[uniones_de_hecho]], [[fa
 
 - [CompDS §225-226]
 - SmTh, Suppl., q. 62, q. 67
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 10-11, 17.

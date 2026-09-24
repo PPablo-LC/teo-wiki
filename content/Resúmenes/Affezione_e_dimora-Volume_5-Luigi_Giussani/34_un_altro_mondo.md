@@ -14,7 +14,7 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 - [[ideal_cristiano]] — el ideal por el que vale la pena dar la vida
 - [[virginidad]] — el milagro más grande, testimonio del ideal cristiano
-- [[persona]] — el yo consiste en lo que le sucede, en la adhesión al Ser
+- [[persona_humana]] — el yo consiste en lo que le sucede, en la adhesión al Ser
 - [[mártir]] — dar la vida por algo verdadero: la cuestión de por qué entregar la existencia
 - [[amistad_cristiana]] — nace a nivel de virginidad, como correspondencia al deseo del otro
 - [[cielo_nuevo_y_tierra_nueva]] — la novedad cristiana como otro mundo que penetra y posee este mundo

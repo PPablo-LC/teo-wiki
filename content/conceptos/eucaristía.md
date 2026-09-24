@@ -449,6 +449,21 @@ Andrew Allen, en su estudio sobre la iniciación cristiana, subraya que la [[mis
 
 De este modo, el fascículo conecta directamente el camino de la conversión con el banquete pascual: la [[presencia_real]] de Cristo en la Eucaristía sostiene al alma en la [[vía_purgativa]] y la configura con él hasta poder decir «ya no vivo yo, es Cristo quien vive en mí» (Ga 2,20) [EAC-18, 16].
 
+### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
+
+Tóth organiza todo el misterio eucarístico en **tres relaciones de Cristo**: por nosotros (la misa), en nosotros (la comunión) y entre nosotros (la adoración) [EMA, cap. 14]. La obra, escrita para el Congreso Eucarístico de Budapest (1938), se propone «despertar el asombro eucarístico».
+
+**La abnegación del amor divino.** Si Cristo no hubiera dejado la Eucaristía, habría sido «el Cristo olvidado»: «¿A quién quiso dejarnos? ¿Un recuerdo, una imagen? A nadie: a sí mismo» [EMA, cap. 3]. La Eucaristía es el modo de quedarse: «Yo estaré con vosotros todos los días» (Mt 28,20). La ley básica del amor —estar juntos, ser uno, vivir el uno por el otro— encuentra su realización suprema en la unión eucarística, que supera la unión del esposo y la esposa [EMA, cap. 2].
+
+**Argumento desde la adoración.** Si Cristo no estuviera realmente presente en la Hostia, la adoración de la Iglesia sería idolatría; y Cristo no pudo dejar a su Iglesia en error durante veinte siglos [EMA, cap. 2]. La interpretación literal de Jn 6 queda confirmada porque Cristo no corrigió el escándalo de sus oyentes, como corrigió otros malentendidos.
+
+**El cuádruple efecto del pan del peregrino.** La comunión da: paz en la guerra, victoria en la lucha, ayuda en la necesidad y vida en la muerte [EMA, cap. 4]. Es «vitamina de la vida espiritual» y «panis vivus et vitalis»: necesaria para el individuo y para la sociedad, «la verdadera organización de las Naciones Unidas» por su vínculo de caridad e igualdad bautismal [EMA, cap. 5].
+
+**La doble transformación en la Consagración.** «En este momento se cifra toda la misa»: la hostia se transforma en el Cuerpo de Cristo y el hombre viejo debe transformarse en imagen viva de Jesucristo (Rom 6,3-4) [EMA, cap. 10]. La comunión bien hecha exige avivar fe, esperanza y amor antes de recibir, y acción de gracias después: «Somos dos: Jesús y yo»; el mejor acto de gratitud es hacer la voluntad de Dios todo el día [EMA, cap. 13]. El que comulga es Cristóforo: «llevas en hombros a quien lleva el universo».
+
+**La espera de Cristo.** En la adoración se invierte la relación: «antes el hombre esperaba a Dios; ahora es Dios quien espera al hombre» [EMA, cap. 15]. El Santísimo es «central eléctrica del cristianismo» y la visita al Sagrario, acumulador matinal y válvula nocturna; san Alfonso María de Ligorio la llama «la primera de las devociones». Concluye Tóth: «desde la institución de la Eucaristía no estamos a oscuras, no estamos solos» — la Iglesia sin Eucaristía serían «casas vacías, monstruos de piedra» [EMA, cap. 16].
+
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]
@@ -499,6 +514,7 @@ De este modo, el fascículo conecta directamente el camino de la conversión con
 - [SFrAs, Cust. 14-15 — Comunión necesaria]
 - [SFrAs, Laud. 21 — Pan cotidiano como Cristo]
 - [JdN_I, cap. 4]
+- [EMA, caps. 1-17 — Eucaristía, misterio de amor, Mons. Tihamér Tóth]
 - Ele_Xto_Stos, Cap. III, §4b
 - Healy Jr., Nicholas J.; Millare, Roland. Artículos en *Evangelization & Culture* 11 (Spring 2022).
 - Barron, Robert; Salkeld, Brett; O'Malley, Timothy P.; Worner, Tod; Becklo, Matthew; Johnson, Fr. Josh; Torres, Sr. Alicia; Whittington, Fr. Richard T.; Granados, José; De Clue, Richard; Nelson, Dr. Matt; Bulman, Rachel; Petiprin, Andrew. Artículos en *Evangelization & Culture* 13 (Autumn 2022).

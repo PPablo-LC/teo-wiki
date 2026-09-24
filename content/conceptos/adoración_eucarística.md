@@ -123,6 +123,17 @@ Benedicto enseña que la Eucaristía es a la vez re-presentación del sacrificio
 
 **El Cordero Místico de van Eyck (12_art.md):** Nicolas Fredrickson analiza el *Adoración del Cordero Místico* de los hermanos van Eyck (Ghent Altarpiece, 1432). La pintura representa un cordero sacrificial aludiendo a la visión de San Juan en Apocalipsis 5,6: «un Cordero de pie como si hubiera sido sacrificado». Tribus de diferentes culturas acuden a adorar al Cordero, Jesús, cumpliéndose el Salmo 86,9: «Todas las naciones que hiciste vendrán y postrarse ante ti, Señor». Originalmente concebida para un contexto litúrgico, Dr. William M. Wright IV descubrió que, según la ubicación original del retablo, cuando el sacerdote elevaba la Hostia para la consagración, esta se alineaba con la figura del cordero, comunicando bellamente la realidad del Cordero Pascual cuya sangre fue «derramada por vosotros y por muchos para el perdón de los pecados» (1 Co 5,7-8). Los ojos del cordero miran al espectador, atrayéndonos a este festín celestial.
 
+### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
+
+Tóth dedica la cuarta parte de su obra («Cristo entre nosotros») a la adoración. Las **tres relaciones de Cristo** — por nosotros (misa), en nosotros (comunión), entre nosotros (adoración) — culminan en la visita al Santísimo [EMA, cap. 14].
+
+**La espera de Cristo.** «¿Qué hace en la Eucaristía? Espera» (Jn 12,32); «antes el hombre esperaba a Dios; ahora es Dios quien espera al hombre» [EMA, cap. 15].
+
+**El orden correcto de la visita:** adoración → acción de gracias → reparación → impetración, primero por la Iglesia, los sacerdotes y los perseguidos; los asuntos personales al final [EMA, cap. 14]. El **silencio de asombro** (Lam 3,26) es «la forma más excelsa de adoración». San Alfonso María de Ligorio: «entre todas las devociones, ésta, después de los sacramentos, es la primera».
+
+**Efectos.** El Santísimo es «central eléctrica del cristianismo»: la visita es acumulador matinal y válvula nocturna; el secreto de la santidad según Mercier son «cinco minutos diarios de silencio con el Espíritu Santo» [EMA, cap. 14]. La adoración repara las irreverencias que Cristo soporta y transforma las espinas de la corona «en flores»; nadie sale igual — como los Magos, regresa «por otro camino» (Mt 2,12) [EMA, cap. 15]. Con el campesino del cura de Ars: «Yo le miro, Él me mira» [EMA, cap. 16].
+
+
 ## Distinciones importantes
 
 - **Adoración eucarística vs. comunión**: una es culto de presencia, la otra es recepción sacramental
@@ -153,3 +164,4 @@ La adoración eucarística es expresión máxima de la [[virtud_de_la_religión]
 - [EAC-23, 12_art.md — Fredrickson, el Cordero Místico de van Eyck]
 - [EAC-23, 14_feature_levering.md — Levering, el culto eucarístico como cuarto camino]
 - [EAC-23, 15_feature_declue.md — DeClue, Benedicto XVI sobre la liturgia divina]
+- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 14-16.

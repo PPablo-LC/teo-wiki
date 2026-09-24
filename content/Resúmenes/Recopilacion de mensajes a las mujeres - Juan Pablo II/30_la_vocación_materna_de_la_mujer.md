@@ -12,7 +12,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[vocacion_materna]] — don y tarea propios de la mujer, papel de fundación de la sociedad
+- [[vocación_materna]] — don y tarea propios de la mujer, papel de fundación de la sociedad
 - [[maternidad]] — la mujer asume casi un papel de fundación con respecto a la sociedad
 - [[mulieris_dignitatem]] — sobre la deuda del hombre con la mujer (n. 18)
 - [[virgen_del_Carmen]] — María, invocada bajo este título, hizo plenamente la experiencia materna
@@ -24,7 +24,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 #### (Ángelus 16-07-95)
 
-Entre los dones y las tareas propias de la mujer destaca de una manera especial su [[vocacion_materna]]. Con ella, la mujer asume casi un papel de fundación con respecto a la sociedad. Es un papel que comparte con su esposo, pero es indiscutible que la naturaleza le ha atribuido a ella la parte mayor.
+Entre los dones y las tareas propias de la mujer destaca de una manera especial su [[vocación_materna]]. Con ella, la mujer asume casi un papel de fundación con respecto a la sociedad. Es un papel que comparte con su esposo, pero es indiscutible que la naturaleza le ha atribuido a ella la parte mayor.
 
 El Papa cita *Mulieris dignitatem*: «Aunque “el hecho de ser padres” pertenece a los dos, es una realidad más profunda en la mujer, especialmente en el período prenatal. La mujer es “la que paga” directamente por este común engendrar, que absorbe literalmente las energías de su cuerpo y de su alma. Por consiguiente, es necesario que el hombre sea plenamente consciente de que, en este ser padres en común, él contrae una deuda especial con la mujer» (n. 18).
 

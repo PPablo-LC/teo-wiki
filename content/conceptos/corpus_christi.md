@@ -33,6 +33,11 @@ El c. 934 §1 ordena que en todas las iglesias se reserve el Santísimo Sacramen
 
 El Comentario Eunsa destaca que la solemnidad de Corpus Christi es expresión culminante del culto eucarístico fuera de la Misa (c. 944). La procesión manifiesta públicamente la fe en la presencia real y tiene carácter de testimonio comunitario. Los cc. 934-944 se interpretan a la luz de la [[eucaristía]] como «fuente y cumbre de toda la vida cristiana» (LG 11).
 
+### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
+
+Tóth describe la procesión del Corpus y los Congresos Eucarísticos Internacionales como «renovación solemne» del homenaje de la Iglesia entera a la Santa Hostia — como en la «Disputa» de Rafael, donde el cielo y la tierra se reúnen sobre el altar [EMA, cap. 1]. Recuerda el **milagro de Bolsena** (1263), del que nació la fiesta instituida por Urbano IV: la hostia sangrante confirmó la fe de un sacerdote que dudaba, y la Eucaristía quedó como «piedra de toque de la fe» [EMA, cap. 3].
+
+
 ## Distinciones importantes
 
 - Corpus Christi (solemnidad con procesión pública) vs. Jueves Santo (institución de la Eucaristía, celebración más reservada)
@@ -52,3 +57,4 @@ Se vincula con la [[eucaristía]] (misterio celebrado), la [[presencia_real]] (d
 - CEC §1374; §1379; §1382
 - CIC cc. 934-944
 - Urbano IV, bula Transiturus de hoc mundo (1264)
+- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 1, 3.

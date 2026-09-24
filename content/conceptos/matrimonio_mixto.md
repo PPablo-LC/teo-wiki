@@ -36,6 +36,11 @@ Los cc. 1124-1131 regulan los matrimonios mixtos. El matrimonio mixto requiere l
 - **D‑1498**: Si el cónyuge católico, arrepentido, desea volver al redil de la Iglesia, el párroco no debe negarle los sacramentos ni echarlo en cara su falta, sino acogerlo benignamente.
 - **D‑1499**: Precisó que el cónyuge católico que contrajo matrimonio mixto «en las iglesias de los herejes» o ante el magistrado civil, si está arrepentido, puede ser absuelto de la excomunión y admitido a los sacramentos, en conciencia.
 
+### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
+
+Tóth advierte, en la preparación para el matrimonio, sobre el **matrimonio mixto y la incredulidad del futuro cónyuge**: peligros para la fe y la armonía conyugal [EMC, cap. 4].
+
+
 ## Relaciones doctrinales
 
 El matrimonio mixto se relaciona con el [[matrimonio]], los [[impedimentos_dirimentes]], la [[disparidad_de_culto]], el [[ecumenismo]] y la [[libertad_religiosa]].
@@ -48,3 +53,4 @@ El matrimonio mixto se relaciona con el [[matrimonio]], los [[impedimentos_dirim
 
 - CEC §1634-1637
 - CIC cc. 1124-1131
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), cap. 4.

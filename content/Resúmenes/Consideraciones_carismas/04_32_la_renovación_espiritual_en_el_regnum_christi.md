@@ -16,7 +16,7 @@ tags: ["resumen", "consideraciones carismas"]
 - [[espíritu_santo]] — guía y artífice de la transformación en Cristo
 - [[vita_contemplativa]] — vida interior y oración como centro del caminar espiritual
 - [[liturgia]] — culto público de la Iglesia, centrado en la [[eucaristía]]
-- [[virtudes_teorales]] — fe, esperanza y caridad
+- [[virtudes_teologales]] — fe, esperanza y caridad
 - [[filiación_divina]] — identidad de hijos de Dios recibida en el bautismo
 - [[iuvenescit_ecclesia]] — Carta sobre la complementariedad de dones jerárquicos y carismáticos
 - [[encuentro_con_cristo]] — actividad propia del RC para nutrir la vida espiritual

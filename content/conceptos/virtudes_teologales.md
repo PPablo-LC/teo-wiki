@@ -53,6 +53,23 @@ En la respuesta católica al protestantismo (FMC cap. XII:2), las virtudes teolo
 
 Las virtudes teologales —fe, esperanza y caridad— son los principios operativos inmediatos de la [[vida_cristiana]]. La vida cristiana tiene como principios operativos, además de las virtudes teologales, las virtudes morales infusas y los [[dones_del_espíritu_santo]]. La [[caridad]] unifica el conjunto del organismo sobrenatural, haciendo del amor el «lazo de la perfección». El Espíritu Santo, con sus dones, es el agente principal del progreso moral del hombre, que es su colaborador libre (Cap. I, §1a).
 
+### Según el Catecismo (CEC)
+
+Las virtudes teologales tienen a **Dios mismo** por objeto, motivo y fin, y por causa inmediata a Dios que las infunde en el alma junto con la [[gracia santificante]] (§1812-1813). Son el «germen de las obras buenas» y «la garantía de la presencia del Espíritu Santo en el corazón» (§1813).
+
+- **Fe**: virtud por la que «creemos en Dios y creemos todo lo que Él nos ha dicho y revelado» (§1814); sin obras está muerta (St 2,17.26).
+- **Esperanza**: virtud por la que «deseamos y aguardamos con firme confianza la vida eterna» y la gracia para conseguirla (§1817-1821); se opone a la desesperación y a la presunción.
+- **Caridad**: «madre y forma de todas las virtudes», amistad divina que ama a Dios sobre todo y al prójimo por Dios (§1822-1829); sin caridad nada salva (1 Cor 13,1-3).
+
+Las teologales «animan y sostienen» a las virtudes morales, las purifican y elevan (§1811): la justicia cristiana supera la legal, la fortaleza recibe el don del martirio; la razón humana y la gracia cooperan ([[naturaleza_y_gracia]]).
+
+## Distinciones importantes
+
+- **Teologales** (objeto: Dios mismo) ≠ **morales** (objeto: actos ordenados a la razón); las primeras son infusas, las segundas adquiridas (aunque también existan morales infusas).
+- ≠ **dones del Espíritu Santo**: los dones (sabiduría, entendimiento…) hacen dócil al hombre a la inspiración divina; las virtudes teologales son potencias operativas permanentes.
+- **Caridad** ≠ mero sentimiento: es amistad eficaz que «hace posible dar la vida» (Jn 15,13).
+- Se pierden solo con el pecado mortal directamente opuesto (infidelidad, desesperación/presunción, odio a Dios); se recuperan por la penitencia.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtudes_infusas]]
@@ -72,6 +89,8 @@ Las teologales (fe, esperanza, caridad) se llaman «teologales» porque su objet
 
 ## Referencias
 
-- CEC §1812-1829
+- CEC §1812-1845
+- SmTh I-II q.62; II-II qq.1-46
 - TPCr, Parte II, Cap. 2
+- STA, F. J. Selman (fe, esperanza, caridad como participación de la naturaleza divina)
 - [PS §09,42,1]

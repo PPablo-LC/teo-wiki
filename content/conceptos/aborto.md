@@ -61,6 +61,11 @@ El desorden en el uso del sexo «lleva sucesivamente al desprecio de la vida hum
 - **Aborto terapéutico**: la Iglesia no acepta el aborto terapéutico directo, aunque puede permitirse la remoción de un órgano enfermo aunque resulte la muerte del feto (principio del doble efecto)
 - **Excomunión**: el aborto acarrea excomunión *latae sententiae* (c.1398)
 
+### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
+
+Tóth cierra su condena del matrimonio deliberadamente estéril contrastando la matanza de los inocentes de Herodes con las madres modernas que «van en busca del verdugo y le pagan por matarlos» [EMC, cap. 13] — anticipación profética de la crisis abortiva. Frente a ella, exalta a las **mártires de la maternidad**, madres que arriesgan la vida por el hijo (1 Tim 2,15: «se salvarán dando a luz») [EMC, cap. 14].
+
+
 ## Relaciones doctrinales
 
 Se vincula con la [[vida_humana]], la [[dignidad_del_nacer]], los [[mandamientos]], el [[homicidio]], la [[eutanasia]], la [[procreación]], la [[familia]] y la [[ética_médica]].
@@ -74,3 +79,4 @@ Se vincula con la [[vida_humana]], la [[dignidad_del_nacer]], los [[mandamientos
 - [CIC c.1398]
 - [CompDS §227-228]
 - [TPCr, Tercera Parte]
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 13-14.

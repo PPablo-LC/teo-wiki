@@ -96,6 +96,13 @@ La celebración diaria es encomiable y recomendable para que los fieles nutran s
 
 [[eucaristía]], [[presencia_real]], [[sacerdocio]], [[liturgia]], [[sacramentos]]
 
+### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
+
+Tóth recorre las partes de la misa como el «engarce del diamante»: todo el rito conduce a la piedra de la transubstanciación [EMA, cap. 8]. Recoge la descripción de san Justino (Apol. 1,6) y el simbolismo del altar (crucifijo, velas, flores). Destaca el **Kyrie eleison** como confesión de fe frente al culto pagano al emperador; el Canon rezado en voz baja, como Moisés en el Santo de los Santos [EMA, cap. 9]; y la **Consagración como centro**: «en este momento se cifra toda la misa», con su doble transformación — la hostia en el Cuerpo de Cristo y el hombre viejo en imagen viva de Cristo [EMA, cap. 10]. El **Ite missa est** no es simple despedida sino envío: «ahora comienza tu sacrificio».
+
+**Cómo asistir:** los fieles participan con su sacerdocio real, ofreciendo la Víctima divina y a sí mismos con ella; tres momentos: oración expiatoria, oblación (poner en la patena las pruebas del día) y la elevación («Señor mío y Dios mío»). «Cual fuere tu misa, tal será tu fe, tu moral y tu vida» [EMA, cap. 6].
+
+
 ## Ver también
 
 [[transubstanciación]], [[comunión]]
@@ -105,3 +112,4 @@ La celebración diaria es encomiable y recomendable para que los fieles nutran s
 - CEC §1345-1355
 - CEC §1382-1419
 - TPCr, Parte III, Libro II, Cap. I
+- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 6, 8-10.
