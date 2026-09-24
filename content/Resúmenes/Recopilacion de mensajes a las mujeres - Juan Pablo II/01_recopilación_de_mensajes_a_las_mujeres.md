@@ -14,7 +14,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 - [[dignidad_de_la_mujer]] — dignidad inherente e inalienable de la mujer como persona humana
 - [[educación_para_la_paz]] — formación integral para la paz en todas las dimensiones de la vida
-- [[vocación_materna]] — misión propia de la mujer en la acogida y cuidado de la vida
+- [[vocacion_materna]] — misión propia de la mujer en la acogida y cuidado de la vida
 - [[genio_femenino]] — dones singulares de la feminidad al servicio de la sociedad y la Iglesia
 
 ## Contenido

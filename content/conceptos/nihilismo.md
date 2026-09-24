@@ -40,6 +40,12 @@ La Escritura misma plantea la apuesta nihilista con una crudeza sorprendente: «
 
 Robert Mixa, glosando el capítulo 4 de *On the Internet* de Dreyfus («Nihilismo en la autopista de la información: anonimato vs. compromiso en la época presente»), identifica una forma específicamente digital de nihilismo: el aplastamiento de la significación. Como en «Highway 61 Revisited» de Dylan, en Internet «lo altamente significativo y lo trivial están puestos juntos»: toda la información yace en la autopista informacional con relevancia y significado reducidos a mera elección del usuario —a un clic—. Siguiendo la crítica de Kierkegaard a la prensa, Dreyfus concluye que Internet es «el enemigo absoluto del compromiso incondicional», es decir, del compromiso que determina cuál será la cuestión significativa de mi vida para siempre: su flexibilidad pura inhibe el salto final al mundo, fomenta el anonimato sin riesgo y la creación del «hombre de masas». La red no es pues neutra sino que puede «enmarcar» todo (*Gestell*, Heidegger) como mera información disponible y manipulable. El contrapeso cristiano es doble: el compromiso incondicional que da sentido a la vida (la vocación, la amistad dispuesta a dar la vida) y el evento focal encarnado de la Eucaristía.
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Prefacio (archivo `00_preliminares.md`) — Benedicto XVI:** tras la caída del «socialismo real», el marxismo «se ha revelado en verdad una forma de nihilismo»; hoy el nihilismo, «casi inevitable», compenetra también, a nivel de máximas prácticas, estratos sociales que no se plantean preguntas filosóficas: «lo demuestra la difusión de la droga, pero también y sobre todo una nihilista cultura del placer cada vez más difusa y con rasgos cada vez más manifiestos de una antireligión» (00, PREFAZIONE).
+- **Parte prima (archivo `06_...`)** — el nihilismo como desenlace del racionalismo frustrado: «la razón-medida-de-todas-las-cosas ha llevado al hombre al miedo de perder no solo la propia vida, sino también la propia humanidad»; «así todo se convierte en nada» (Pavese) (L217, L293); el voluntarismo estoico que reacciona —Russell: «la vida del hombre es una larga marcha a través de la noche rodeado de enemigos invisibles»— muestra «su ceguera y su irracionalidad» (L306).
+- **Parte prima** — el nihilismo, como toda negación, es fruto de una «opción» de libertad (Althusser: «la alternativa entre la existencia de Dios y el marxismo no es cuestión de razón, es una pura opción») — una penumbra: «si vuelve la espalda a la luz, la penumbra es el comienzo de la nada, de las tinieblas»; y una opción que debe «olvidar o renegar» algo: «que las cosas existen… y por eso mismo son signo de expresión de la gran Presencia» (L318-320, L343).
+
 ## Distinciones importantes
 
 - **Nihilismo ≠ ateísmo:** el nihilismo es el ateísmo consecuente consigo mismo; existen ateísmos que no extraen todas sus conclusiones.
@@ -56,6 +62,8 @@ Se opone a la [[verdad]] revelada y al realismo metafísico del [[tomismo]]; se 
 [[verdad]], [[tomismo]], [[resurrección_de_cristo]], [[sentido_de_la_vida]], [[fe_y_razón]], [[belleza]], [[conversión]], [[esperanza]], [[santo_tomás_de_aquino]]
 
 ## Referencias
+
+- SDL, Prefacio y Parte prima, Capp. 4-6 (archivos `00_preliminares.md`, `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
 
 - [EAC-1, Issue 1 «Creativity»: archivos 07 (Letters from a Hillbilly Thomist), 23 (Monks, Punks, and Death to the World), 22 (Finally Comes the Poet)]
 - [EAC-3, Issue 3 «The Digital Age», archivo 07 (Mixa); Dreyfus, *On the Internet*, cap. 4]

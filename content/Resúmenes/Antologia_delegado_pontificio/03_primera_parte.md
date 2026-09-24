@@ -26,7 +26,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[obediencia]] — voto que vincula a los religiosos con la autoridad
 - [[libertad_de_conciencia]] — derecho de los religiosos a la protección de su intimidad
 - [[foro_interno]] — ámbito de la confesión y la dirección espiritual
-- [[dirección_espiritual]] — ayuda espiritual distinta de la confesión
+- [[direction_espiritual]] — ayuda espiritual distinta de la confesión
 - [[nuevas_normas_correspondencia_e_internet]] — decreto del 19 de mayo de 2011
 - [[renovacion_de_la_legion]] — camino de purificación y conversión
 - [[comunicado_de_la_santa_sede_1_de_mayo_2010]] — resultado de la Visita Apostólica

@@ -1,18 +1,18 @@
 ---
 type: Persona
 title: "Luigi Giussani"
-description: "Sacerdote y teólogo italiano (1922-2005), fundador de Comunione e Liberazione y autor del PerCorso (Il senso religioso, All'origine della pretesa cristiana, Perché la Chiesa)."
+description: "Sacerdote y teólogo italiano (1922-2005), fundador de Comunione e Liberazione y autor del PerCorso (Il senso religioso, All'origine della pretesa cristiana, Perché la Chiesa) e Il senso di Dio e l'uomo moderno."
 tags:
   - teología_fundamental
   - pedagogía
   - movimiento_eclesial
   - comunión_y_liberación
   - sentido_religioso
-timestamp: 2026-09-15
+timestamp: 2026-09-24
 ---
 
 > Área: Personas / Teología fundamental
-> Última actualización: 2026-09-15
+> Última actualización: 2026-09-24
 
 # Luigi Giussani
 
@@ -43,9 +43,13 @@ Tercer volumen del PerCorso, con el que concluye la trilogía. La presentación 
 
 Sexto volumen del PerCorso (BUR Rizzoli, a cura di Julián Carrón, 2017), que recoge los Esercizi spirituali della Fraternità di CL (Rimini 1997-2004). El 25-3-2004 Giussani pidió ser relevado de la guía de la Fraternità tras los encuentros de 2003 (DLV 14, 141-153). El volumen se abre con la fórmula que atraviesa los ocho años: `fede in Dio è fede in Cristo` (Esercizi 2001) (DLV 10, 3-31). Muestra al Giussani de los últimos años en la cima de su reflexión: la fe como reconocimiento de una Presencia (no por el elenco de los errores del yo: el «sí» de Pedro, Jn 21), la pertenencia como «parola decisiva per l'esistenza» (Esercizi 2000), el destino del hombre y la resurrección de la carne (Esercizi 2002, «L'uomo e il suo destino»), el sentido del sufrimiento («Perché la sofferenza?»), la positividad de la vida («La vita è bella») y la victoria de Cristo (DLV 18, 21, 20).
 
+### Il senso di Dio e l'uomo moderno (SDL)
+
+Edición que reúne dos ensayos: *Il senso religioso* (apuntes del liceo Berchet, 1954-1960) y *La coscienza religiosa nell'uomo moderno* (veinte años después), con **prefacio de Benedicto XVI** (00, PREFAZIONE). Benedetto XVI muestra al Giussani maestro del diálogo con la cultura moderna: tras la caída del «socialismo real», el marxismo «se ha revelado en verdad una forma de nihilismo»; hoy un nihilismo «casi inevitable» compenetra estratos sociales enteros a través de una «cultura del placer» con rasgos de «antireligión». Giussani responde mostrando que «en las simples experiencias fundamentales de cada hombre está contenida la búsqueda de Dios, que continúa permaneciendo presente también en el ateísmo». El volumen exhibe su método en acción: el análisis del drama del mundo moderno (Parte prima de *La coscienza religiosa*: laicismo, naturalismo, racionalismo, humanismo divistico, nihilismo) y la defensa de la Iglesia ante la acusación de haber abandonado a la humanidad (Parte seconda: protestantización, subjetivismo, moralismo, primado del Romano Pontífice, «La Chiesa è movimento», la fe que deviene cultura). Los conceptos que vertebra son los de su obra entera: [[sentido_religioso]], [[signo]], [[analogía]], [[providencia]], [[idolatría]], [[revelación]], [[encuentro_con_cristo]], [[filiación_divina]], [[hecho_cristiano]], [[razón]] y [[cultura]].
+
 ## Ver también
 
-- [[comunione_e_liberazione]] [[il_senso_religioso]] [[allorigine_della_pretesa_cristiana]] [[perché_la_chiesa]] [[sentido_religioso]] [[razón]] [[fe_y_razón]] [[hecho_cristiano]] [[pretesa_cristiana]] [[hecho_de_cristo]] [[divinidad_de_cristo]] [[affezione_e_dimora]] [[afección]] [[capacidad_afectiva]] [[preferencia_por_cristo]] [[morada]] [[compañía]]
+- [[comunione_e_liberazione]] [[il_senso_religioso]] [[allorigine_della_pretesa_cristiana]] [[perché_la_chiesa]] [[il_senso_di_dio_e_luomo_moderno]] [[sentido_religioso]] [[razón]] [[fe_y_razón]] [[hecho_cristiano]] [[pretesa_cristiana]] [[hecho_de_cristo]] [[divinidad_de_cristo]] [[affezione_e_dimora]] [[afección]] [[capacidad_afectiva]] [[preferencia_por_cristo]] [[morada]] [[compañía]]
 
 ## Referencias
 
@@ -56,3 +60,4 @@ Sexto volumen del PerCorso (BUR Rizzoli, a cura di Julián Carrón, 2017), que r
 - ODPC, archivo `02_luigi_giussani.md` — bio: especialización en la motivación racional de la adhesión a la fe
 - ODPC, archivo `03_prefazione.md` — prefación (2001): criterio rector y gran inversión de método
 - PLDC, archivos `00_preliminares.md` y `01_prefazione_alla_nuova_edizione.md` — tesis del volumen y prefación (2003) sobre la Madonna
+- SDL, archivos `00_preliminares.md` (prefacio de Benedicto XVI), `01_parte_prima_il_fondo_della_questione.md`, `02_parte_seconda_conoscenza_e_mistero.md`, `03_parte_terza_rivelazione.md`, `04_parte_quarta_presenza_e_storia.md`, `05_una_premessa.md`, `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`, `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md` y `08_post_scriptum.md`

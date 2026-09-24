@@ -41,11 +41,18 @@ Esta doctrina es fundamental para todo el lenguaje teológico.
 
 Selman traza la analogía desde su fundamento bíblico («analogos» en Sab 13,5) y su fuente dionisiana (De Divinis Nominibus). De Dios se conocen dos cosas: que es causa de todo y que difiere de todo lo causado; de ahí las dos vías: de la **eminencia** y de la **negación** (via remotionis): las negaciones no especifican la naturaleza divina sino que quitan límites — por eso Dios es incomprehensible y no entra en ninguna clase (el ser no es género). Si los nombres fueran unívocos, Dios se reduciría al nivel de las criaturas; si equívocos, nada significativo se podría decir de Él. La analogía propia (bondad, justicia, sabiduría) se distingue de la metáfora (roca, escudo, lámpara): en aquella, *cómo* significa la palabra es como en las criaturas, pero *qué* significa se aplica primero a Dios, causa de las perfecciones; «toda analogía implica la relación de causa». Los muchos nombres de Dios no lo hacen compuesto: sus perfecciones son una en Él y múltiples en las criaturas; el hombre *tiene* sabiduría, Dios *es* la sabiduría (el «is» de identidad). La primera analogía es la del ser: Dios es el Ser y las criaturas son entes por participación («lo que tiene el ser y no es el ser mismo es ente por participación»), recibiendo su existencia de algo que es su Existencia misma.
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — «dall'effetto si conosce la causa»: el principio de la *analogía* —«el mundo es como una palabra (o *logos*) que reenvía, llama a otro, más allá de sí, más arriba (*anà*)»— (L69); «la realidad creada es una verdadera *Palabra* con la que Dios se hace sentir a la conciencia humana» (L20-22).
+- **Parte seconda** — Sab 13,1-5: «dalla grandezza e dalla bellezza delle creature si può conoscere, per analogia, el Creador»; y Rm 1,19-20: «sus invisibles propiedades, desde la creación del mundo, se dejan ver por la inteligencia a través de sus obras: su eterna potencia y su divinidad» (L31-35).
+
 ## Ver también
 
 [[conocimiento_natural_de_dios]], [[deseo_de_dios]], [[revelación_divina]], [[santísima_trinidad]]
 
 ## Referencias
+
+- SDL, Parte seconda, Capp. 1-4 (archivo `02_parte_seconda_conoscenza_e_mistero.md`)
 
 - [CEC §39-43]
 - [Concilio de Letrán IV, DS 806]

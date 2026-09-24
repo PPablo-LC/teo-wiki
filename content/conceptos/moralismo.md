@@ -34,6 +34,12 @@ DLV refuerza la crítica del moralismo desde la moralidad como amistad:
 - **La moralidad nueva como reconocimiento amoroso** — la moral cristiana es «riconoscimento amoroso di una Presenza connessa col destino» que continúa en la historia (Ab 2,4; Rm 1,17); reducida a esfuerzo autónomo degenera en moralismo (DLV 10, 81-126).
 - **Lo que no es amistad es mentira** — la moralidad de Cristo: toda acción, como relación, es amistad; todo lo que no es amistad es deficiente y mentiroso — el moralismo es precisamente la acción sin amistad (DLV 07, 31).
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — el «moralismo» como segunda mutilación del catolicismo protestantizado: reducido el cristianismo a «Palabra» interpretable por la conciencia, el comportamiento del hombre «necesariamente será guiado e identificado como valor por los ideales que la cultura dominante aprobará»: «la moralidad es entonces algo que deriva de las leyes y de la coherencia con una concepción de la vida avalada por el poder» (L37).
+- **Parte seconda** — «el moralismo es siempre reductivo del horizonte moral y es siempre acusativo del hombre»: exalta unos valores y censura otros; «la moralidad se convierte en moralismo encarnizado: o el comportamiento fluye del dinamismo intrínseco de un avvenimiento al que uno pertenece, o es una selección arbitraria y pretenciosa de afirmaciones» dominadas por las elecciones más publicitadas por el poder (L43-47).
+- **Parte seconda** — frente al moralismo, «la moralidad como gracia»: «el hombre deviene sí mismo, camina hacia su realización, por una gracia», viviendo dentro del «hecho familiar» de la fraternidad en Cristo; «la salvación como gracia, es decir, como algo que es dado permaneciendo y perseverando en una realidad viva» (L99-107).
+
 ## Distinciones importantes
 
 - **Sacrificio como medio vs. sacrificio como fin**: El amor se ordena a lo verdadero y al otro; el moralismo invierte la jerarquía y hace del sacrificio un fin.
@@ -58,6 +64,8 @@ El moralismo se opone a [[caridad]] y [[virtud_de_la_caridad]], pues invierte el
 [[moralidad]]
 
 ## Referencias
+
+- SDL, Parte seconda, Capp. 2-3 (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)
 
 - AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
 - AED, 18, 143-149 — Tischrede 82: *Per rendere vero (1)* — es absurdo desear un sacrificio.

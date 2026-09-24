@@ -37,6 +37,11 @@ La Vida de Jesús (VJ) enseña que la filiación divina procede de Cristo y se h
 
 Juan Pablo II dedica la segunda parte de su ciclo cristológico a la filiación divina de Jesús. Jesús es Hijo de Dios en sentido propio, no metafórico ni adoptivo. Solamente Él puede dirigirse a Dios como Abba con plena conciencia de ser el Unigénito del Padre. La confesión de Pedro —«Tú eres el Mesías, el Hijo de Dios vivo» (Mt 16,16)— es el fundamento de la fe de la Iglesia. El testimonio del Padre en el Bautismo y en la Transfiguración confirma esta filiación única. Jesús es acusado de blasfemia por afirmarse Hijo de Dios en sentido propio (Jn 5,18; 10,33) y es condenado a muerte por esta declaración: el Sanedrín lo condena porque afirma ser el Hijo de Dios (Mc 14,61-64). La filiación divina de Jesús es consustancialidad con el Padre: «Yo y el Padre somos una sola cosa» (Jn 10,30; CJeS, segunda parte: catequesis sobre la filiación divina de Cristo). Jesús obtiene para nosotros la filiación adoptiva: somos «hijos en el Hijo». Él nos enseña a decir «Padre nuestro», distinguiendo su propio «mi Padre» del «Padre nuestro» de los discípulos (CJeS, catequesis sobre la filiación adoptiva).
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — con Cristo la dependencia servil se transforma en filiación: «todos sois hijos de Dios por la fe en Cristo Jesús» (Gal 3,24-29); «cuando llegó la plenitud de los tiempos, Dios envió a su Hijo... para que recibiéramos la adopción de hijos»; y «porque sois hijos, Dios envió el Espíritu de su Hijo a vuestros corazones, que grita "¡Abba, Padre!"» (Gal 4,1-7). Ya no es el siervo que queda al margen, sino una compañía precisa con el misterio.
+- **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — la adopción «no es puro símbolo»: por ella el hombre es llevado «dentro de la vida misma de Dios», participando realmente de la generación del Verbo (Ef 1,3-6); «todavía no se ha manifestado lo que seremos» (1 Jn 3,2) y la unidad de Gv 17,11.23: «para que sean uno como nosotros somos uno». Es «gracia», «dono».
+
 ## Distinciones importantes
 
 - Filiación natural (propia del Verbo) vs. filiación adoptiva (propia del cristiano por gracia).
@@ -60,6 +65,8 @@ Se relaciona con la [[gracia_santificante]], la [[inhabitación_trinitaria]], el
 [[adopción_sobrenatural]], [[gracia_actual]], [[virtudes_infusas]]
 
 ## Referencias
+
+- SDL, Parte terza, Cap. 2 y Parte quarta, Cap. 1 (archivos `03_parte_terza_rivelazione.md`, `04_parte_quarta_presenza_e_storia.md`)
 
 - [CEC §536]
 - [CEC §1698]

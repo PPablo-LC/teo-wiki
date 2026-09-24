@@ -69,6 +69,11 @@ Von Hildebrand enumera las características que distinguen la cultura de la civi
 
 **Platón, la escritura y el temor a la tecnología (Tom Hoopes).** Tom Hoopes recuerda que ya Platón alzó la alarma sobre una tecnología clave: la palabra escrita. En el *Fedro*, Sócrates transmite esta advertencia: «Este descubrimiento tuyo creará el olvido en las almas de los aprendices. No usarán sus memorias; confiarán en los caracteres escritos externos y no recordarán de sí mismos» [EAC-19, 22_peripheries, L17]. Y de hecho ha sucedido: la palabra escrita se ha vuelto «una extensión del hombre», como dijo Marshall McLuhan, por lo que ya no podemos recitar la *Ilíada* ni la *Odisea* —«lo cual es una pérdida»—, pero también tenemos todavía la *Ilíada* y la *Odisea*: y «eso es un gran beneficio» [L17]. Cada tecnología tiene su pérdida y su ganancia; la Iglesia, de la imprenta al radio y al internet, ha abrazado las tecnologías para dar al mundo «la alegría de escuchar la voz del Santo Padre» [L21-23].
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — «La fede diventa cultura»: «si la fe invierte cada inflexión de la vida humana, la fe deviene fuente de cultura y de una cultura nueva: de lo contrario no se encarna, y sería como si no comenzara la redención del presente histórico»; Juan Pablo II al MEIC: «una fe que no se haga cultura será una fe no plenamente acogida, no enteramente pensada, no fielmente vivida» (L131).
+- **Parte seconda** — definición de cultura: «conciencia crítica y sistemática de la experiencia humana en desarrollo»; la cultura es la respuesta del sujeto a la realidad que «lo problematiza» (responsabilidad); los valores que definen la personalidad «fluyen en el yo de la historia vivida a la que el yo mismo pertenece», por eso «el pueblo de Dios deviene un horizonte cultural nuevo para cada sujeto que le pertenezca» y «la educación a la fe es educación a una capacidad cultural» (L133-147).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación]], [[educación_católica]], [[humanismo_integral]], [[autonomía_de_las_realidades_terrenas]], [[ciencia]], [[arte]]
@@ -82,5 +87,7 @@ Se relaciona con [[educación]], [[educación_católica]], [[humanismo_integral]
 [[educación]], [[humanismo_integral]], [[autonomía_de_las_realidades_terrenas]], [[educación_católica]]
 
 ## Referencias
+
+- SDL, Parte seconda, Cap. 4 (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)
 
 - ConcVatII, GS §53-62

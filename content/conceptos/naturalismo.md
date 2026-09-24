@@ -25,6 +25,14 @@ Formas de naturalismo han sido condenadas repetidamente por el magisterio:
 
 Se opone al principio de la [[gracia]] que perfecciona la naturaleza sin destruirla (*gratia perficit naturam*). El naturalismo subyace a corrientes como el [[laicismo]] y la [[masonería]].
 
+## Perspectivas por fuente
+
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — el «naturalismo» define la ética renacentista: «l'uomo naturalmente agisce bene»; de la naturaleza —sustitución concreta de la divinidad abstracta, panteísticamente entendida— «¿qué brota? El impulso, lo espontáneo, el instinto: el "bien" se convierte en el instinto»; Rabelais: «Faz lo que quieras, porque por naturaleza el hombre está impulsado a actos virtuosos» (L113-115).
+- **Parte prima** — matiz: la Iglesia defiende la ley natural («por naturaleza el hombre es impulsado a actos virtuosos»), pero el realismo cristiano recuerda el límite que Rabelais «olvida totalmente», «cuya origen la tradición cristiana llama "pecado original"»: «veo lo que es mejor y hago lo peor» (Ovidio); la línea que sobre el terreno se camina sin dificultad, elevada cien metros se hace imposible para muchos (L117-119).
+- **Parte prima** — la frase de Maquiavelo registra el clima: «nosotros somos los hombres más impíos e inmorales que se puedan imaginar»; y en el Renacimiento comienza «una sutil pero real hostilidad al Dios cristiano»: un Dios que dice «sí» o «no» y busca podar los instintos humanos comienza a devenir «un enemigo potencial o actual» (L121-123).
+
 ## Relaciones
 
 Se relaciona con [[laicismo]], [[masonería]], [[racionalismo]], [[modernismo]], [[agnosticismo]], [[gracia]], [[sobrenatural]], [[fe_y_razón]]
@@ -34,6 +42,8 @@ Se relaciona con [[laicismo]], [[masonería]], [[racionalismo]], [[modernismo]],
 [[modernismo]], [[laicismo]], [[racionalismo]], [[fe_y_razón]], [[sobrenatural]]
 
 ## Referencias
+
+- SDL, Parte prima, Cap. 4 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
 
 - Pío IX, Enc. *Quanta Cura* (1864) y Syllabus
 - Pío X, Enc. *Pascendi* (1907)

@@ -78,6 +78,11 @@ El designio de Dios «se te aparece como propuesta», no como imposición: «la 
 «Dios inscribe en la humanidad del hombre y de la mujer la vocación y consiguientemente la capacidad y la responsabilidad del amor y de la comunión. El amor es por tanto la vocación fundamental e innata de todo ser humano» (SHVS 8). «Dios llama a la santidad a todos los hombres y, para cada uno de ellos tiene proyectos bien precisos: una *vocación personal* que cada uno debe reconocer, acoger y desarrollar» (SHVS 100). «La vida humana adquiere plenitud cuando se hace *don de sí*: un don que puede expresarse en el *matrimonio*, en la *virginidad consagrada*, en la *dedicación al prójimo* por un ideal, en la *elección del sacerdocio ministerial*» (SHVS 34).
 
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte prima (archivo `01_parte_prima_il_fondo_della_questione.md`)** — el sentido religioso como vocación: esa capacidad «no nos la formamos solos, la encontramos dentro de nuestra naturaleza»; es una aspiración nativa «suscitada, despertada en nosotros por un poder superior a nosotros», provocada antes de que intervenga nuestro parecer: «somos como ante una voz que llama. Podremos responder o no, pero no podemos impedir que llame»; «el sentido religioso es una *vocación*; es la vocación de la vida» (01, L58).
+- **Parte seconda (archivo `02_...`)** — la llamada llega a través de la realidad creada (Rm 1,19-20; Sab 13,1-5) y del movimiento de la historia (At 14,15-17; 17,26-28): el hombre está hecho «para buscar a Dios como a tientas, "y Él no está lejos de cada uno de nosotros"».
+
 ## Distinciones importantes
 
 - **Vocación universal a la santidad**: llamada que Dios dirige a todos los bautizados, sin excepción.
@@ -99,6 +104,8 @@ La vocación se relaciona con la [[santidad]], la [[perfección_cristiana]], la 
 [[perfección_cristiana]], [[santidad]], [[discernimiento_de_espíritus]], [[dirección_espiritual]], [[sacerdocio]], [[matrimonio]], [[filiación_divina]], [[vida_consagrada]]
 
 ## Referencias
+
+- SDL, Parti prima e seconda (archivos `01_parte_prima_il_fondo_della_questione.md`, `02_parte_seconda_conoscenza_e_mistero.md`)
 
 - [CEC §1-3, §825-829, §1533, §1600-1606, §1618-1620, §1877-1880]
 - [TPCr, Primera Parte, Cap. 1; Tercera Parte, Caps. sobre la perfección cristiana]

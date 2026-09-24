@@ -111,6 +111,12 @@ León XIV describe a la Iglesia, en la nave de la catedral, como «hogar común 
 
 **La barca de Pedro (Gioia/Carl).** «La barca de Pedro está ya en el muelle, llena de puentes divinamente revelados hacia la relación con la Fuente de todo misterio; la artesanía de la poesía puede ser balsa salvavidas para llevar almas perdidas hacia el barco»: la Iglesia como destino de la búsqueda poética de trascendencia.
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — la Iglesia como **presencia de Cristo en la historia**: «He aquí dónde está ahora Cristo: donde está la Iglesia». Esta unidad de los cristianos con Cristo y con el Padre (Gv 17,20-23) *es* la Iglesia, el «cuerpo místico» en el que Cristo sigue siendo objeto de encuentro. El método para llegar a Cristo hoy es un «incontro presente, esistenziale»: vivir la comunidad cristiana actual («metodológicamente, solo viviendo la comunidad cristiana presente se puede adquirir adecuación al problema de Cristo»). Pertenecer a la Iglesia es «la función suprema que un hombre está llamado a realizar en el mundo».
+- **Parte quarta** — la Iglesia como pilar del sentido religioso: Cristo confió a su Iglesia el hecho de la Revelación para conservarlo con perenne infalibilidad; «la autoridad de la Iglesia —Papa y Obispos— son el pilar de sostenimiento del sentido religioso de cada época» (Mt 16,16-18, Cesarea de Filippi); los libros sagrados están confiados a la interpretación auténtica de la autoridad de la Iglesia.
+- **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — frente a la «protestantización» que reduce el hecho cristiano a Palabra y conciencia, la Iglesia es la «compañía» católica que mantiene la unidad visible de los creyentes (Jn 17,9: «no ruego por el mundo») y la objetividad del camino al verdadero.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[iglesia_cuerpo_místico]]
@@ -128,6 +134,8 @@ Giussani define la palabra «Iglesia» como «un fenómeno histórico il cui uni
 - [[the_search_serie_análisis]] — convergencia: Iglesia como comunidad, barca de Pedro, legado civilizatorio; tensión: eclesiología más comunitaria que institucional, ausencia de Mariología y purgatorio
 
 ## Referencias
+
+- SDL, Parti quarta e seconda (archivos `04_parte_quarta_presenza_e_storia.md`, `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)
 
 - CEC §748-975
 - PS §07-08

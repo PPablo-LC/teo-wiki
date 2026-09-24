@@ -27,6 +27,12 @@ La elección del hombre es radical: «o concepirsi libero da tutto l'universo e 
 
 ODPC 12 (cap. 8, §2: «L'originale dipendenza»): el argumento del fundamento del valor; los ángeles de los pequeños (Mt 18,10); el tesoro y la perla (Mt 13,44-46); Mt 11,27 y Mt 16,17 (conocimiento indeducible, revelado); el gran mandamiento (Mt 22,36-39); los pajarillos y los cabellos contados (Mt 10,28-33); las bienaventuranzas como himno a esta dignidad; Gratry: el «cielo» del Padre nuestro como profundidad última del ser; la religiosidad cristiana no nace como gusto filosófico sino de la acérrima insistencia de Jesús, que veía en el rapporto con el Padre la única posibilidad de salvaguardar el valor de la persona. ODPC 12 (§3): la moralidad como religiosidad que hace vivir todos los actos como dependientes de Dios (Mt 7,21; la casa sobre roca, Mt 7,24-27); la conciencia como lugar donde se percibe la dependencia; la libertad como respuesta a un Otro.
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte prima (archivo `01_parte_prima_il_fondo_della_questione.md`)** — el sentido religioso coincide con «el sentido de original, total dependencia», la evidencia más grande del hombre de todos los tiempos; el hombre es dependiente por origen y en cada acto (SDL `02`).
+- **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — la dependencia como clave de interpretación del mundo (signo): «el lenguaje de las cosas»; implica dos virtudes: la *atención* (mirar el mundo como gratuidad) y la *aceptación* (recibir el dato sin presunción); es la educación que pide la montaña de las bienaventuranzas — «bienaventurados los pobres de espíritu» — y el modelo del niño (Mt 18,3).
+- **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — con la revelación la dependencia se hace «terriblemente más comprometedora»: ya no se trata de comprender sino de abandonarse como criterio y estar a merced de un Otro; y la **dependencia total solo se da en el amor**: «la voluntad del otro es como si fuera mía»; «no vivo yo, sino que Cristo vive en mí» (Gal 2,20); máxima de la unidad (Gv 17,21-23).
+
 ## Distinciones importantes
 
 - **Dependencia vs. esclavitud**: la dependencia de Dios libera; la independencia de Dios vuelve esclavo de las circunstancias, de los tiranos y de las reacciones.
@@ -43,6 +49,8 @@ Fundamenta la [[valía_personal]] y la [[dignidad_humana]] (creación a imagen d
 [[valía_personal]] [[dignidad_humana]] [[religiosidad_natural]] [[moralidad]] [[oración_de_petición]] [[libertad]] [[pecado_original]] [[comunión]] [[allorigine_della_pretesa_cristiana]]
 
 ## Referencias
+
+- SDL, Parti prima, seconda e terza (archivos `01_parte_prima_il_fondo_della_questione.md`, `02_parte_seconda_conoscenza_e_mistero.md`, `03_parte_terza_rivelazione.md`)
 
 - ODPC — Giussani, *All'origine della pretesa cristiana*, BUR Rizzoli.
 - ODPC 12 (§2-3) — cap. 8: *L'originale dipendenza*; *L'esistenza umana*.

@@ -69,17 +69,6 @@ Ratzinger desarrolla el aspecto sacrificial de la Eucaristía en los archivos 02
 
 **Brett Salkeld (cola del Academic Feature)** señala que el sacrificio eucarístico puede ser afirmación de lo que católicos y protestantes comparten: la primacía de la cruz. La mera visión simbólica hace de la Eucaristía «lo que nosotros hacemos en lugar de lo que Dios ha hecho y está haciendo», es decir, un «pelagianismo litúrgico» (George Hunsinger); la posición católica sobre el sacrificio re-presentado se acerca a una de las partes del debate intra-protestante.
 
-### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
-
-Tóth presenta la misa como **renovación incruenta del sacrificio de la Cruz**: las palabras de la institución llevan sello sacrificial («Éste es mi cuerpo *que por vosotros es entregado*»; «Haced esto» = carácter sacrificial; «en memoria mía» = sustitución vicaria) [EMA, cap. 6]. En la misa, el **mismo sacerdote y la misma víctima**: Cristo; por eso el Papa y el sacerdote prisionero —con pan negro y lata por cáliz— celebran el mismo sacrificio. La consagración separada del pan y del vino simboliza la «muerte mística» sin derramamiento de sangre.
-
-**Los cuatro fines:** adoración digna, impetración, expiación y desagravio — «el fuego ha de arder siempre en el altar» (Lev 6,12-13); la profecía de Malaquías se realiza en «la redondez de la tierra como un único templo». Los fieles participan con su [[sacerdocio real]]: ofrecen a Dios la Víctima divina y a sí mismos con ella (LG §11) [EMA, cap. 6].
-
-**La Consagración como centro:** «en este momento se cifra toda la misa»; por ella existen altares, sacerdotes e Iglesia. La doble transformación: la hostia se transforma en el Cuerpo de Cristo y el hombre viejo debe transformarse en imagen viva de Jesucristo (Rom 6,3-4) [EMA, cap. 10].
-
-**Los frutos:** adoración (una sola misa vale más que todas las oraciones de los santos, porque la ofrenda es Dios mismo), acción de gracias, reparación e impetración; perdón de veniales, alivio del [[purgatorio]], gracia de contrición — fecundidad proporcional al recipiente: «los cántaros distintos en la misma fuente» [EMA, cap. 7].
-
-
 ## Distinciones importantes
 
 - El sacrificio de la Misa es el mismo que el de la cruz, pero ofrecido de modo incruento
@@ -106,4 +95,3 @@ Se relaciona con [[eucaristía]], [[misa]], [[sacrificio]], [[cruz]], [[redenci�
 - TPCr, Tercera Parte, Libro II, Cap. I
 - O'Malley, Timothy P.; Salkeld, Brett. Artículos en *Evangelization & Culture* 13 (Autumn 2022).
 - Ratzinger, Joseph. *Spirit of the Liturgy*.
-- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 6-7, 10.

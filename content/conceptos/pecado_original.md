@@ -207,6 +207,10 @@ PLDC da del pecado original una formulación antropológica y realista (Parte I,
 
 ODPC describe el pecado original como el «disordine umano»: «l'uomo è di fatto incapace di vivere compiutamente la grande dipendenza da Colui che è la sua verità e la proiezione di essa nella vita come dono, amore e servizio... vive uno strano egocentrismo, per cui... invece di darsi, tenta di prendersi, invece di amare, di sfruttare». Este dato depende de «una situazione originale, nativa», que la tradición cristiana atribuye a un desorden heredado, responsabilmente introducido; determina el clima del mundo en dirección contraria al designio de Dios (Gv 1,10; 12,31; 15,18). Su experiencia es universal: «Quanto più un uomo è sensibile e cosciente... tanto più si accorge di non riuscire a esserlo»; y su grito es el de Pablo: «Me infelice, chi mi libererà da questa situazione mortale?» (Rm 7,24) — «questo grido è l'unica origine perché un uomo possa considerare seriamente la proposta di Cristo». De ahí la compañía como esencial: «non si può essere se stessi da soli» ([[compañía]], [[dependencia_de_dios]]).
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+**El límite negado (parte seconda).** La sugerencia de la serpiente —«seréis como dioses, conocedores del bien y del mal» (Gn 3,5)— es «la tentación de transgredir el límite que constituye la condición de la criatura»; la Torre de Babele es «la versión, en términos sociales, del pecado original, del pecado contra el misterio» — «la pretensión de dictar a Dios lo que tiene que ver con el hombre» (02, L221-225). La mentalidad moderna insiste en que el bien «coincide con el instinto» y que pecar es solo una «estructura de la libertad» con que el instinto se autojustifica: así se olvida «el límite, el pecado original» — en la fórmula de Rabelais «Faz lo que quieras…» al himno a Lauso el Ovidio («¡vigílate, joven!»), el hombre pretende dominarlo todo como nuevo Prometeo (06, L113-123).
+
 ### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
 
 El amor está expuesto, como toda la vida de la persona, «a la fragilidad debida al pecado original»; pero «la redención del Señor ha hecho de la práctica positiva de la castidad una realidad posible y un motivo de alegría» (SHVS 3). El primer principio operativo es doctrinal: «La sexualidad humana es un misterio sagrado que debe ser presentado según la enseñanza doctrinal y moral de la Iglesia, teniendo siempre en cuenta los efectos del pecado original», es decir, «la debilidad humana y la necesidad de la gracia de Dios para superar las tentaciones y evitar el pecado» (SHVS 122-123). El realismo cristiano excluye tanto la ingenuidad como la desconfianza hacia el cuerpo: la sexualidad es un gran don de Dios y no «una realidad vergonzosa o sucia» (SHVS 96).
@@ -246,5 +250,7 @@ El amor está expuesto, como toda la vida de la persona, «a la fragilidad debid
 [[creación]], [[hombre]], [[redención]], [[bautismo]], [[gracia_santificante]], [[jesucristo]], [[ángeles]], [[jorge_loring]], [[soberbia]], [[tentación]]
 
 ## Referencias
+
+- SDL, Parti seconda e prima (archivos `02_parte_seconda_conoscenza_e_mistero.md`, `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
 
 - [EAC-15, 05, 09, 17, 18]

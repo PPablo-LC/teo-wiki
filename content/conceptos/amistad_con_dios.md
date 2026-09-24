@@ -41,6 +41,11 @@ El ensayo desarrolla la teología de «Dios, Amigo del hombre» (Parte II) desde
 
 La caridad es amistad con Dios: la gracia es «el amor especial por el que Dios atrae a la criatura racional, por encima de la naturaleza, a participar del bien divino». La amistad exige reciprocidad, comunicación y algo común (aquí: su bienaventuranza); es posible porque estamos hechos a su imagen y Dios nos ama en su Hijo, que tomó nuestra naturaleza. La conversación con Dios en esta vida es imperfecta; solo será perfecta en la patria. Nuestro amor nunca iguala al suyo; lo máximo es amarlo con todo lo que somos: el movimiento circular del amor — Dios ama, devolvemos el amor, y este desborda hacia los demás.
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — el paso de «siervos» a «amigos»: «ya no os llamo siervos, porque el siervo no sabe lo que hace su señor; os he llamado amigos, porque os he dado a conocer todo lo que he oído de mi Padre» (Gv 15,15) — «un máximo de comunicación»—; y el máximo del amor: «nadie tiene amor más grande que este: dar la vida por sus amigos» (Gv 15,13) (03, L131-133).
+- **Parte terza** — la convivencia como camino de la amistad con Cristo: el comentario al primer signo de Caná —«y creyeron entonces en él sus amigos» (Gv 2,11)— «la certeza crecía según un devenir que la convivencia con Él aseguraba… su certeza era verificada y valorizada cada vez que era confirmada por un hecho del que eran testigos»; lo mismo vale «para la historia del rapport avec cualquier amigo nuestro» (03, L101-103).
+
 ## Distinciones importantes
 
 - **Amistad con Dios por gracia vs. amistad por gloria**: aquí comienza por la gracia, en el cielo se consuma por la visión beatífica
@@ -60,6 +65,8 @@ Se relaciona con [[gracia_santificante]], [[caridad]], [[virtud_de_la_caridad]],
 [[amor_a_dios]], [[amor_al_prójimo]], [[gracia_santificante]], [[caridad]]
 
 ## Referencias
+
+- SDL, Parte terza, Cap. 2 (archivos `03_parte_terza_rivelazione.md`)
 
 - [CEC §374, §384, §396, §1023, §1030, §1468, §1829, §1863, §2709]
 - [TPCr, Tercera Parte, Libro II, Cap. III]

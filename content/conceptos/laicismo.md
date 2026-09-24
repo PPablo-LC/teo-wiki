@@ -29,6 +29,12 @@ El laicismo es la ideología que pretende excluir a Dios y a la Iglesia de la vi
 
 PLDC traza la genealogía histórica del laicismo como fruto de la disarticulación de la mentalidad religiosa medieval (Parte I, cap. 3): Umanesimo (fragmentación del ideal único; la Fama y la Fortuna como sustitutos de Dios), Rinascimento (la *natura* panteística como fuente de la energía humana: naturalismo), razionalismo (la razón *norma sui* y *norma universi*), hasta el scientismo y el mito del progreso. «Questa mentalità derivata dal razionalismo... si chiama *laicismo*»: un Dios que acepta mantenerse aparte de las vicisitudes humanas no es el Dios del mensaje cristiano — el laicismo es, implícitamente, ateísmo. Su símbolo es el «confino di polizia della religione»: la religión admitida solo en un lugar apartado de la vida social; pero «un Dio perciò confinato al luogo di culto o alla sacrestia è quel Dio inutile dell'antica tentazione» (Gn 3,5: «sarete come Dio» — no «Dio non c'è», sino «Dio è inutile all'uomo»), y «dell'uomo senza Dio, non ha più misura».
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — el epígrafe del capítulo III: «Dio, se c'è, non c'entra» (Cornelio Fabro): Dios no es eliminado sino excluido subrepticiamente — «Dios no tiene relación con el hombre concreto, con sus intereses, con sus problemas, ámbito en el que el hombre es medida de sí mismo, señor de sí mismo, fuente de la imaginación del proyecto y de la energía concreta para su realización» (L141).
+- **Parte prima** — «Il laicismo»: «es la profesión de la pertenencia del hombre a sí mismo y basta» (Fabro), la presunción de una autonomía total, hecha mentalidad social mediante el influjo cultural dominante, el poder político y la educación pública; e implica la división entre un sacro y un profano, «como si pudiera existir algo que esté fuera de la "templa" de Dios, que es el cosmos entero» (L147). Su coherencia última: «un Dios no interesante para la actividad del hombre… en el mejor de los casos constituye una pérdida de tiempo y, sacando todas las consecuencias, es ciertamente algo a eliminar»: «la fórmula "Dio, se c'è, non c'entra" trae consigo como coherencia última: "Dio non c'è"» (L155).
+- **Parte prima** — «el verdadero enemigo de una religiosidad auténtica, a mi juicio, no es tanto el ateísmo cuanto este laicismo»: un sacro que no «c'entri» con el campo concreto de los intereses cotidianos del hombre vuelve concebible la relación con Dios «solo como totalmente subjetiva», y la realidad humana queda «a merced de los criterios del hombre, en la práctica fácilmente determinable por el poder» (L157).
+
 ## Relaciones doctrinales
 
 El laicismo se opone al [[reinado_social_de_cristo]] y a la doctrina sobre las [[relaciones_iglesia_estado]]. Se relaciona con el [[naturalismo]], el [[indiferentismo]], la [[masonería]] y el [[liberalismo]].
@@ -38,6 +44,8 @@ El laicismo se opone al [[reinado_social_de_cristo]] y a la doctrina sobre las [
 [[reinado_social_de_cristo]], [[relaciones_iglesia_estado]], [[masonería]], [[indiferentismo]], [[naturalismo]], [[león_xiii]], [[pío_xi]], [[san_pío_x]]
 
 ## Referencias
+
+- SDL, Parte prima, Cap. 3 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
 
 - Pío XI, *Quas Primas* (1925), D‑2197
 - León XIII, *Immortale Dei* (1885), D‑1866–D‑1888

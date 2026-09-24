@@ -137,6 +137,10 @@ Robert Barron subraya que la gracia es causa de la vida nueva y no su consecuenc
 
 **La gracia en el camino de la verificación (cap. I).** En el método «deja de lado prejuicios y verifica», la gracia acompaña el esfuerzo de sinceridad: el amor a la verdad y la limpieza del corazón —sostenidos por la gracia— son condición de un conocer trasparente (SR, `08_capitolo_primo.md`, §53-75).
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+**La elección como gracia (parte quarta).** Giussani cita la «bendición espiritual celeste en Cristo»: Dios «nos ha elegido en él antes de la fundación del mundo, para ser santos e irreprensibles en su presencia, por amor, habiéndonos predestinado a ser sus hijos adoptivos por medio de Jesucristo» (Ef 1,3-6a); esta «adopción» no es puro símbolo: por ella el hombre es «llevado más allá de sí mismo, dentro de la vida misma de Dios», participando realmente de la generación del Verbo — «es "gracia", "dono"»—; «todavía no se ha manifestado lo que seremos» (1 Gv 3,2) (04, L99-101). El cristianismo, «a través del porsi objetivo del hecho que lleva al hombre a su destino», propone «la salvación como gracia, es decir, como algo que es dado permaneciendo y perseverando en una realidad viva»: lo que el moralismo sofoca, la «moralidad come grazia» lo restaura — el hombre adulto se «salva», crece y madura «descubriéndose siempre más inmanente a Aquel para quien es hecho, y a quien toda su naturaleza grita» (07, L99-107).
+
 ### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
 
 «La redención del Señor ha hecho de la práctica positiva de la castidad una realidad posible y un motivo de alegría» (SHVS 3). «Con la gracia de Cristo, que brota de su amor esponsal por la Iglesia, todos pueden vivir castamente aunque se encuentren en circunstancias poco favorables» (SHVS 19). Dios, concediendo a los esposos el privilegio de ser padres, «les concede la gracia para cumplir adecuadamente su propia misión»; como ministros de la gracia sacramental del matrimonio están sostenidos por «energías particulares de orden espiritual» (SHVS 37). Los hijos experimentarán los efectos «de la gracia y de la misericordia de Dios en los sacramentos» y serán capaces de vivir la castidad «como don de Dios» (SHVS 74). La ayuda de Dios no falta nunca «si se pone el empeño necesario para corresponder a la gracia de Dios» (SHVS 74).
@@ -165,6 +169,8 @@ Robert Barron subraya que la gracia es causa de la vida nueva y no su consecuenc
 - [[jeff_lacour_true_freedom_through_prayer]]
 
 ## Referencias
+
+- SDL, Parte quarta, Cap. 1 y Parte seconda, Cap. 5 (archivos `04_parte_quarta_presenza_e_storia.md`, `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)
 - CEC §1996-2026
 - TPCr, Parte II, Cap. 1
 - Denzinger D‑1351–D‑1375, D‑1384–D‑1387 (Clemente XI, *Unigenitus*)

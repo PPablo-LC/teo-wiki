@@ -36,6 +36,11 @@ El autor presenta la razón creadora como:
 - Superación tanto del racionalismo abstracto como del tradicionalismo cerrado.
 - Fuente de creatividad cultural y social.
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — la razón, «estructura del ser humano» mediante la cual el hombre se relaciona con todo, puede convertirse en «stanza» (invención determinista, caja cerrada de lo mensurable) o en «finestra» (razón abierta a la totalidad, al misterio): «quien se abre al misterio no traiciona la razón; la cumple» y «la religiosidad es el culmen de la racionalidad» (06, L163-167).
+- **Parte prima** — la categoría de la posibilidad: la razón, para no mutilarse, debe incluir lo que Einstein llamara «siempre la categoría de la posibilidad»: la razón que no se reconoce hecha para lo infinito termina reduciendo el mundo a su propia «mujer» proyectada; la razón creadora se despliega en el esfuerzo consciente y libre de la espera del Misterio (06, L167-169).
+
 ## Distinciones importantes
 
 - **Razón creadora vs. racionalismo**: La razón creadora reconoce sus límites y dialogue con la fe; el racionalismo prescinde de la fe.
@@ -53,6 +58,8 @@ El autor presenta la razón creadora como:
 - [[justa_autonomía_de_la_razón_práctica]]
 
 ## Referencias
+
+- SDL, Parte prima, Cap. 4 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
 
 - FR, nn. 56-57, 105-108
 - Ele_Xto_Stos, Cap. I, §3a

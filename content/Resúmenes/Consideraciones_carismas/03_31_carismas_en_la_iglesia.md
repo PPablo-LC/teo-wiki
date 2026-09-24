@@ -14,7 +14,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 - [[carismas]] — dones especiales que el Espíritu distribuye «como él quiere» para el bien de la comunidad
 - [[gracia_santificante]] — gracia que constituye la vida sobrenatural, con las virtudes teologales y dones del Espíritu
-- [[virtudes_teologales]] — fe, esperanza y caridad, dones sobrenaturales del alma
+- [[virtudes_teorales]] — fe, esperanza y caridad, dones sobrenaturales del alma
 - [[virtudes_adquiridas]] — virtudes alcanzadas con la gracia actual de Dios
 - [[virtudes_infusas]] — virtudes dadas directamente por Dios junto con la gracia
 - [[cuerpo_místico_de_cristo]] — la Iglesia como cuerpo del que Cristo es cabeza

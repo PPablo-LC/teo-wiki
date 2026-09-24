@@ -31,11 +31,18 @@ El misterio de Dios designa la realidad divina en su carácter inefable e inacce
 
 **Las espaldas de Dios (Ex 33,18-23).** Moisés pide ver la gloria; Dios lo coloca en la grieta de la roca y solo permite ver sus espaldas: cuando nos hemos despojado de las herramientas de caza y manipulación, «Dios a veces aparece, mirándonos por encima del hombro». Paradoja final: «tan familiar que no puede ser ignorado y tan distante que no puede ser controlado»: «en suma, la deshecha del pecado original».
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte seconda, Cap. 3 (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — el concepto de misterio: la razón, fiel a su naturaleza, se ve «obligada a admitir la existencia de un incomprensible»: un *quid* constitucionalmente más allá de la posibilidad humana de comprensión, inmesurable (Rilke: la «pared sutil»; Rebora: el «tronco del misterio» que se hunde en el abismo). De ahí que solo podamos usar para Dios **términos negativos** (In-finito, In-menso, In-efable, In-comprensible) o **términos totalitarios** que niegan las condiciones de ser a nosotros conocidas (Omni-potente, Omni-sciente, Omni-presente); los atributos positivos son introducciones, no definiciones (Dionisio Areopagita; Gilson; Tácito: *secretum illud quod sola reverentia vident*).
+- **Parte seconda, Cap. 3** — el misterio como «el Dios escondido» (Is 45,15): la racionalidad culmina en adoración y en la actitud de quien acepta y espera («a Dios es posible todo»), como Job.
+
 ## Ver también
 
 [[revelación]], [[misterio_trinitario]], [[teología_fundamental]], [[fe]], [[conocimiento_de_dios]]
 
 ## Referencias
+
+- SDL, Parte seconda, Capp. 1-4 (archivo `02_parte_seconda_conoscenza_e_mistero.md`)
 
 - [CEC §230-237]
 - [1Tm 6,15-16]

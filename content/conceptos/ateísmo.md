@@ -46,6 +46,11 @@ La encíclica subraya que el fenómeno de la incredulidad, la arreligiosidad y e
 
 **El ateísmo como idolatría (cap. XIV).** La negación de Dios no es neutral: el hombre que «pretende ser Dios» (Gn 3) termina cayendo en la idolatría —cambiar la verdad de Dios por la mentira (Rm 1,22-31)—. El ateísmo absoluto se convierte en fabricación de ídolos (idea, estado, placer), origen de violencia y guerra (SR, `21_capitolo_quattordicesimo.md`, §89-115).
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Prefacio (archivo `00_preliminares.md`) — Benedicto XVI:** «Giussani nos muestra cómo en las simples experiencias fundamentales de cada hombre está contenida la búsqueda de Dios, que continúa permaneciendo presente también en el ateísmo» (00, PREFAZIONE).
+- **Parte prima (archivo `06_...`)** — el ateísmo moderno niega de palabra pero conserva la religiosidad como necesidad: «se niega a Dios, pero la dimensión religiosa, la búsqueda de la relación con Dios, intenta realizarse de todos modos en el rapporto con "dioses" inconscientes, no proclamados como tales»; el sentido religioso, «culmen de la razón», no puede ser «arrancado» ni quedar demasiado tiempo eludido (L77).
+
 ## Distinciones importantes
 
 - **Ateísmo práctico** vs. **ateísmo teórico**: el primero vive como si Dios no existiera; el segundo niega su existencia
@@ -61,6 +66,8 @@ Se relaciona con [[fe]], [[religión]], [[incredulidad]], [[herejía]], [[aposta
 [[fe]], [[incredulidad]], [[apostasía]], [[dignidad_humana]], [[libertad_religiosa]]
 
 ## Referencias
+
+- SDL, Prefacio (archivo `00_preliminares.md`) y Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
 
 - ConcVatII, GS §19-21
 - CEC §2123-2126

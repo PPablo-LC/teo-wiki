@@ -35,6 +35,11 @@ La madurez espiritual del sujeto condiciona la perfección de la comunión: «Si
 
 El hombre no puede «encontrarse plenamente sino a través de una donación sincera de sí mismo» (GS 24): la plenitud del sujeto personal se alcanza en la donación, no en el encierro en sí mismo.
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — el «subjetivismo» (1) como consecuencia metodológica de la reducción del cristianismo a «Palabra»: la Palabra de Dios tendría «como último criterio interpretativo la conciencia personal»; cada hombre es «fuente de dictado, última cátedra y profeta de sí mismo, a merced de su sensibilidad, de su resentimiento, del instante que vive»; *tot capita, tot sententiae* — «tantas cabezas, tantos pareceres… posible eslogan de la libertad racionalista» (L27).
+- **Parte seconda** — el subjetivismo no se corrige apelando a los intelectuales ni a la comunidad de base: «Cristo no ha confiado a ninguna de estas entidades como tales la inequívoca última objetividad de Su guía»; frente a él se afirma la «objetividad del camino al verdadero»: «no se trata de imaginar o inventar, sino de seguir» (L29, L91).
+
 ## Distinciones importantes
 
 - **Subjetividad** ≠ **naturaleza**: la naturaleza es el ser del hombre; la subjetividad es la dimensión personal de la conciencia y de la libertad.
@@ -50,6 +55,8 @@ La subjetividad se relaciona con la [[persona_humana]], la [[madurez_espiritual]
 [[persona_humana]], [[madurez_espiritual]], [[conciencia]], [[comunión_de_personas]], [[donación_de_sí]], [[libertad]], [[cuerpo]]
 
 ## Referencias
+
+- SDL, Parte seconda, Cap. 1 (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)
 
 - TdC, Catequesis 17, 18, 59, 67, 68 (Juan Pablo II)
 - GS 24

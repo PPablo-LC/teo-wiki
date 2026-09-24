@@ -96,6 +96,12 @@ La Iglesia es **madre y maestra** (*Mater et Magistra*). Como madre, debe ser am
 
 La fe, en suma, es para Juan Pablo I un sí generoso e inmediato al Señor, que transforma la vida, confía en la Persona de Dios, y se vive en y con la Iglesia.
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — la fe como obediencia a la Palabra de quien es Persona: «ya no es nuestra razón la que explica, sino que es Él quien indica sus criterios» (Is 55,8-9). El acto de fe en su sentido más completo incluye la disponibilidad que la naturaleza exige: «eccomi» de Abrahán, Moisés y Samuel (1 Sam 3,10), y culmina en el sacrificio de Isaac (Gn 22,1-14): «la fe anima el gesto sublime». La fe es la respuesta a la iniciativa divina que educa y dispone al hombre: «Dios premia la fidelidad de quien acepta todo de Él».
+- **Parte terza** — la certeza de la fe crece por la *convivencia* con Cristo (Jn 2,11): los discípulos creían ya, pero la convivencia verificaba y acrecentaba la certeza; la fe no es una idea sino una relación con una Persona presente (la comunidad de la Iglesia en SDL 04).
+- **Parte prima (archivo `01_parte_prima_il_fondo_della_questione.md`)** — fe y obras: el *sentido del pecado* es precisamente la incoherencia entre la fe afirmada y la obra efectiva.
+
 ## Distinciones importantes
 
 - **Fe vs. conocimiento natural**: la fe no tiene evidencia intrínseca, se apoya en la autoridad de Dios revelante
@@ -122,6 +128,8 @@ La fe, en suma, es para Juan Pablo I un sí generoso e inmediato al Señor, que 
 - [[virtud_de_la_caridad]]
 
 ## Referencias
+
+- SDL, Parti prima e terza (archivos `01_parte_prima_il_fondo_della_questione.md`, `03_parte_terza_rivelazione.md`)
 
 - TPCr, Tercera Parte, Libro I, Cap. IV
 - Marcos 16,16

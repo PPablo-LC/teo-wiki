@@ -24,7 +24,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[realeza_de_cristo]] — misterio central del carisma del Regnum Christi
 - [[espiritualidad_del_regnum_christi]] — modo de relacionarse con Dios a la luz del misterio de Cristo Rey
 - [[vita_consecrata]] — exhortación apostólica de Juan Pablo II sobre la vida consagrada
-- [[dirección_espiritual]] — ayuda espiritual para discernir la voluntad de Dios
+- [[direction_espiritual]] — ayuda espiritual para discernir la voluntad de Dios
 - [[marcial_maciel]] — fundador cuya figura enigmática plantea la cuestión del carisma
 - [[consagrados_del_regnum_christi]] — miembros del tercer grado del RC
 - [[consulta]] — participación de los miembros en la toma de decisiones
@@ -43,7 +43,7 @@ Homilía inaugural al inicio del mandato. El delegado expresa su emoción ante e
 
 ### Homilía — Ateneo Pontificio Regina Apostolorum, Roma, 7 de octubre de 2010
 
-Homilía para la inauguración del año académico. Reflexión sobre la acción del [[dirección_espiritual|Espíritu Santo]] en la creación, en la historia de la salvación y en la vida de la Iglesia. El Espíritu que aleteaba sobre las aguas es quien renueva la faz de la tierra. La secularización ha empobrecido la visión del hombre: «el hombre secularizado no sabe decir nada sobre la grandeza de sí mismo». La ciencia, sin la fe, se detiene en la superficie de las cosas. Las universidades pontificias deben insertarse en la historia, ofrecer la visión cristiana a la luz del Espíritu,hermanar fe y razón. «Descubrir a Dios es descubrir al hombre.» Se invita a que la fe, nutrida del Espíritu, encuentre los caminos para ser comunicada a los demás, no para dominar sino para que el mundo descubra la verdad.
+Homilía para la inauguración del año académico. Reflexión sobre la acción del [[direction_espiritual|Espíritu Santo]] en la creación, en la historia de la salvación y en la vida de la Iglesia. El Espíritu que aleteaba sobre las aguas es quien renueva la faz de la tierra. La secularización ha empobrecido la visión del hombre: «el hombre secularizado no sabe decir nada sobre la grandeza de sí mismo». La ciencia, sin la fe, se detiene en la superficie de las cosas. Las universidades pontificias deben insertarse en la historia, ofrecer la visión cristiana a la luz del Espíritu,hermanar fe y razón. «Descubrir a Dios es descubrir al hombre.» Se invita a que la fe, nutrida del Espíritu, encuentre los caminos para ser comunicada a los demás, no para dominar sino para que el mundo descubra la verdad.
 
 ### Homilía — Ordenación sacerdotal, Basílica de San Pablo Extramuros, Roma, 24 de diciembre de 2010
 

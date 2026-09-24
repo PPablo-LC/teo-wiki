@@ -12,7 +12,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 
 ## Conceptos básicos referenciados
 
-- [[dirección_espiritual]] — ayuda para discernir la voluntad de Dios en la vida espiritual
+- [[direction_espiritual]] — ayuda para discernir la voluntad de Dios en la vida espiritual
 - [[discernimiento_espiritual]] — proceso de escucha del Espíritu Santo para llegar a una decisión conforme a la voluntad de Dios
 - [[discernimiento_de_los_espiritus]] — fase del discernimiento que valora las mociones interiores de consolación y desolación
 - [[carisma_del_instituto]] — don colectivo del Espíritu que define la identidad de un instituto religioso
@@ -46,7 +46,7 @@ La tercera parte recoge las conferencias del P. Ghirlanda, consejero personal de
 
 #### Problemática general
 
-Para el cristiano que busca la [[dirección_espiritual|voluntad de Dios]], la dirección espiritual es el «lugar» privilegiado del itinerario de búsqueda. Presupone que las personas quieren vivir una auténtica vida espiritual, que no consiste en especulaciones ni en ejecución de normas, sino en la libre decisión de la voluntad de darse a Dios y a los demás.
+Para el cristiano que busca la [[direction_espiritual|voluntad de Dios]], la dirección espiritual es el «lugar» privilegiado del itinerario de búsqueda. Presupone que las personas quieren vivir una auténtica vida espiritual, que no consiste en especulaciones ni en ejecución de normas, sino en la libre decisión de la voluntad de darse a Dios y a los demás.
 
 #### Qué significa «hacer la voluntad de Dios»
 

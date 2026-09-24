@@ -34,6 +34,11 @@ En *Affezione e dimora*, Giussani retoma el signo como «una cosa cuyo significa
 
 El opuesto del signo es el poseer: quien posee detiene la relación que la cosa abre; el signo, en cambio, se adora — se «deja atraer tanto por la apariencia que se llega a la intimidad de la apariencia», hasta desembocar en el Tú que la habita (AED, 09, 23; AED, 29, 107-109). La madurez consiste precisamente en esto: penetrar la apariencia sin quedarse en ella, porque «si no, no es verdad que amas la apariencia: quieres poseerla, pero no la amas» (AED, 29, 107).
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte seconda, Cap. 2 (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — la definición del signo: «se llama signo a una cosa cuyo sentido es otra cosa» (el ejemplo del grito «¡Socorro!» en el desierto); el mundo entero es signo de Dios, y por eso «a través del mundo Dios no se hace evidente en el sentido inmediato»: *Dios se propone, Dios es discreto*, y el signo, mientras revela, vela (Cap. 3). El primer paso hacia Dios es la interpretación libre del signo, que exige una educación del espíritu —la dependencia— y las virtudes de la atención y la aceptación.
+- **Parte seconda, Cap. 2** — la existencia como «inmensa parábola»: «quien tiene oídos para oír, que oiga» (Mt 13,9); la realidad como *penumbra* (vestíbulo de oscuridad para quien vuelve las espaldas a la luz, vestíbulo de luz para quien busca la claridad); de ahí el `riesgo` de la interpretación.
+
 ## Distinciones importantes
 
 - **Signo vs. fenómeno**: el fenómeno es lo que aparece; el signo, además, remite a otra realidad distinta de sí.
@@ -59,5 +64,7 @@ El opuesto del signo es el poseer: quien posee detiene la relación que la cosa 
 - [[sentido_religioso]] [[misterio]] [[razón]] [[libertad]] [[revelación]] [[creatura]] [[positivismo]]
 
 ## Referencias
+
+- SDL, Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)
 
 - SR, caps. X, XI, XII y XIV (archivos `17_capitolo_decimo.md`, `18_capitolo_undicesimo.md`, `19_capitolo_dodicesimo.md`, `21_capitolo_quattordicesimo.md`)

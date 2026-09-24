@@ -78,7 +78,7 @@ Esta fuente aporta una visión teológica, filosófica, científica, artística 
 
 - [[inteligencia_artificial]] y [[tecnología]] — el tema central del número
 - [[unidad_alma_cuerpo]] y [[alma]] — el error categorial de la IA (Petrusek, Vukov)
-- [[persona_humana]] — los atributos de la persona: razón, libertad, abstracción, amor (Barron)
+- [[persona]] y [[persona_humana]] — los atributos de la persona: razón, libertad, abstracción, amor (Barron)
 - [[imagen_de_dios]] y [[dignidad_humana]] — la dignidad ontológica no depende del CI (Vukov)
 - [[libre_albedrío]] y [[libertad]] — la libertad frente a la predicción y manipulación algorítmica (Ramelow)
 - [[idolatría]] y [[providencia_divina]] — "no los usamos nosotros; ellos nos usan" (Barron, Hoopes)
@@ -99,7 +99,7 @@ Esta fuente aporta una visión teológica, filosófica, científica, artística 
 - [[evangelization_and_culture_issue_16_benedict_xvi]] — Issue 16 (Benedicto XVI)
 - [[evangelization_and_culture_issue_17_education]] — Issue 17 (Educación)
 - [[evangelization_and_culture_issue_18_conversion]] — Issue 18 (Conversión)
-- [[inteligencia_artificial]], [[tecnología]], [[unidad_alma_cuerpo]], [[persona_humana]], [[imagen_de_dios]], [[dignidad_humana]], [[libre_albedrío]], [[idolatría]], [[providencia_divina]], [[tecnocracia_espiritual]], [[mesianismo_terrestre]], [[civilización_y_cultura]], [[reverencia]], [[contemplación]], [[liturgia]], [[habitación_china]], [[sintaxis_vs_semántica]], [[subcreación]], [[literatura]], [[educación_católica]], [[evangelización]]
+- [[inteligencia_artificial]], [[tecnología]], [[unidad_alma_cuerpo]], [[persona]], [[imagen_de_dios]], [[dignidad_humana]], [[libre_albedrío]], [[idolatría]], [[providencia_divina]], [[tecnocracia_espiritual]], [[mesianismo_terrestre]], [[civilización_y_cultura]], [[reverencia]], [[contemplación]], [[liturgia]], [[habitación_china]], [[sintaxis_vs_semántica]], [[subcreación]], [[literatura]], [[educación_católica]], [[evangelización]]
 
 ## Resúmenes
 

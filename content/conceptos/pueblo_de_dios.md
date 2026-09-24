@@ -89,6 +89,12 @@ La entrada «Pueblo» del VocTeoBib es una de las más extensas. Israel fue eleg
 
 En el elemento tercero de la catedral, la nave, León XIV describe a la Iglesia como «hogar común donde todos tienen lugar», una casa que acoge, protege y no abandona. Munilla la llama «la barca en travesía»: el pueblo de Dios en camino. La nave recuerda al sacerdote que la pila bautismal lo constituye primero como hijo del pueblo de Dios antes que como pastor: «nuestro gran tesoro es la condición de hijos, en la cual se integra nuestra paternidad». El sacerdote debe amar a la comunidad real que Dios le confía —«las personas concretas que se sientan en los bancos»— y «no soñar en otro pueblo de Dios, con más cualidades». «Amar la Iglesia abstracta es fácil, pero amar la nave concreta que Dios me confía con sus ritmos lentos, con sus heridas, esa es la verdadera caridad pastoral»; ser «pastor de rostros concretos, de sus historias, de sus heridas, de sus procesos», llamado no solo a predicar sino a escuchar [CIS, 2026].
 
+### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+
+- **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — «la Chiesa è un popolo: una convivenza… un ente etnico sui generis»: «el pueblo de Dios, de cuya savia vivíamos, es para nosotros un elemento eterno de pertenencia; pero si esta pertenencia no se hace "cuerpo" en un vivir común» (expressión de Pablo VI); Jesús vino a formar «un solo pueblo» —singular— donde judíos y paganos ya no se distinguen (Ef 2,14-16; Gal 3,26-29) (07, L85, L137-141).
+- **Parte seconda** — «el pueblo de Dios deviene un horizonte cultural nuevo para cada sujeto que le pertenezca»: la cultura es la respuesta del sujeto a la realidad, y los valores que definen la personalidad fluyen de la historia vivida a la que el sujeto pertenece — de ahí que «la educación a la fe es educación a una capacidad cultural» (07, L141-147).
+- **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — la unidad del pueblo —«que todos sean uno… para que el mundo crea» (Gv 17,20-23)— es «el signo» del hecho cristiano: como Pablo VI definía a la Iglesia, «un ente étnico sui generis», un pueblo cuya sola permanencia en el tiempo «es el fenómeno más demostrativo» de la divinidad de Cristo (04, L39-55).
+
 ## Distinciones importantes
 
 - No es un pueblo étnico ni político sino religioso y sobrenatural
@@ -101,5 +107,7 @@ En el elemento tercero de la catedral, la nave, León XIV describe a la Iglesia 
 [[iglesia_cuerpo_místico]], [[cristo]], [[sacerdocio_bautismal]], [[sacerdocio]], [[reinado_de_cristo]]
 
 ## Referencias
+
+- SDL, Parti quarta e seconda (archivos `04_parte_quarta_presenza_e_storia.md`, `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)
 
 - [CIS, «La catedral interior del sacerdote», 2026]
