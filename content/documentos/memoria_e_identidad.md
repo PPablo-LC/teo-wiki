@@ -21,7 +21,7 @@ description: "*Memoria e Identidad. Conversaciones al filo de dos milenios* es e
 El libro aborda los temas cruciales para el destino de la humanidad tras los primeros pasos del tercer milenio, organizados en cinco grandes bloques:
 
 ### I. Mysterium iniquitatis (Archivos 03–08)
-Reflexión sobre la coexistencia del bien y del mal en la historia, las ideologías del mal (nazismo y comunismo), el límite que Dios impone al mal mediante la Redención, el misterio de la Redención como victoria del bien sobre el mal, y laRedención como tarea encomendada al hombre (las tres vías de la vida espiritual).
+Reflexión sobre la coexistencia del bien y del mal en la historia, las ideologías del mal (nazismo y comunismo), el límite que Dios impone al mal mediante la Redención, el misterio de la Redención como victoria del bien sobre el mal, y la Redención como tarea encomendada al hombre (las tres vías de la vida espiritual).
 
 ### II. Libertad y responsabilidad (Archivos 09–12)
 Análisis del uso apropiado de la libertad humana, la distinción entre *bonum honestum*, *bonum utile* y *bonum delectabile*, la crítica al utilitarismo, la ética kantiana del imperativo categórico, el personalismo ético y el misterio de la misericordia divina.

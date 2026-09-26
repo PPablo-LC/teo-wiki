@@ -11,7 +11,7 @@ timestamp: 2026-09-19
 > Área: Hagiografía / Inocencia cristiana
 > Última actualización: 2026-09-19
 
-**Santa Rosa de Viterbo** (1233-1251) encarna elEvangelio: «para entrar en
+**Santa Rosa de Viterbo** (1233-1251) encarna el Evangelio: «para entrar en
 el reino de los cielos, es necesario "hacerse como niños"». Según
 [[asi_mueren_los_santos]], se dan «épocas y situaciones tan endurecidas y
 malas, que Dios elige a criaturas inocentes para hablar a los fuertes y

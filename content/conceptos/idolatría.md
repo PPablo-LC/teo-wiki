@@ -76,12 +76,6 @@ Giussani describe el apaño idolátrico como la «reducción de lo divino a los 
 
 **La idolatría como apaño.** La reducción de Dios a los propios términos es una de las tres formas en que el hombre intenta librarse del misterio apelando a su propia autonomía; las otras son la negación (el reduccionismo de la razón) y la exaltación (la absolutización del propio yo). En todas ellas la certeza buscada degenera en ídolo (SR, `03_capitolo_i.md`, `21_capitulo_xiv.md`).
 
-### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
-
-- **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — en la corrupción del sentido religioso, la razón «no puede hacer otra cosa que identificar el valor último prematura y presuntuosamente con un elemento interno a la existencia, con un aspecto de su experiencia: y es lo que la Biblia llama *idolatría* (Dios deviene un *eidolon*, una apariencia contingente)»; «significativamente, la Biblia no contrapone tanto el religioso al ateo, cuanto el *verdadero religioso al idólatra*» (L215-219).
-- **Parte seconda** — el ídolo nunca corresponde a la pregunta humana a la que pretende ser respuesta: «tienen boca y no hablan, tienen ojos y no ven» (Sal 135,16-17a) — «no mantienen jamás su promesa»; la idolatría es la raíz de la guerra (el mal que Dios previde a Noé) y la Torre de Babele es «la versión, en términos sociales, del pecado original, del pecado contra el misterio», «la primera "internacional" de la que la humanidad esperó la salvación» (L221-225).
-- **Parte seconda** — las formas idolátricas evolucionan: primitivamente tiende a identificar a Dios con lo aspectualmente más clamoroso (rayo, fuego, sol), bárbaramente con el principio generador de la realidad social (antepasados, tribu, nación, estado), racionalísticamente con algo «más inmanente al yo» (de la experiencia panteística al progresismo cientista) (L229). El gesto idolátrico es siempre la pretensión de «definir a Dios con algo comprensible» (L233); y lo decisivo: «cualquier actitud que tienda a negar la posibilidad de una revelación de Dios en la historia reconstituye una verdadera idolatría», «el aspecto más evolucionado y astuto de la idolatría», «el extremo intento que la presunción humana compie de dictar al divino qué pueda hacer y qué no» (L249); por eso santo Tomás afirma la necesidad de la revelación (STh I q.1 a.1) (L241).
-
 ## Relaciones doctrinales
 
 La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mandamiento]] y vicia la virtud de la [[religión]]. Se distingue de la [[superstición]] (que da culto al verdadero Dios de modo indebido) y de la [[herejía]] (error intelectual sobre la fe).
@@ -95,8 +89,6 @@ La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mand
 [[adoración]], [[superstición]], [[primer_mandamiento]], [[religión]], [[pecado_mortal]], [[virtud_de_la_religión]], [[sátira]]
 
 ## Referencias
-
-- SDL, Parte seconda, Cap. 4 (archivo `02_parte_seconda_conoscenza_e_mistero.md`)
 
 - CEC §2112-2114, §2130
 - TPCr, tratado de la virtud de la religión

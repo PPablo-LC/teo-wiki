@@ -137,11 +137,11 @@ El fruto maduro de la libertad es el vínculo: «el vínculo es el resultado, la
 
 ODPC contiene la definición más sintética de la libertad en Giussani: «la libertà è la capacità che l'essere cosciente possiede di realizzare completamente se stesso»: capacidad de infinito, sed de Dios, por eso amor — «capacità di qualcosa che non è noi». La libertad está en devenir: los objetos que encuentra son anticipos y reverberos del fin; ninguno la compromete toda: aquí está la posibilidad de la elección y su contradicción — detenerse en lo que satisface más ahora, siendo hecha para la completud. Esta contradicción equivale al mal: «chi fa il male si rende schiavo di una misura che non è quella per cui è fatto» (Gv 3,20; 12,35). La tentación es estar más atraído por lo psicológicamente más fuerte que por lo ontológicamente más cercano al fin. «Normalmente l'uomo non può resistere a lungo da solo alla tentazione. Gesù Cristo è l'essere che gli ridà continuamente il potere di scegliere bene» (Gv 8,31-32). Además: la libertad es «responsabilidad», respuesta a un Otro; y Dios la valora: «il modo con cui Dio ci tratta asseconda una decisione già presa della nostra libertà» (Mt 13,12); «la libertà non è rappresentata da scelte clamorose... La libertà è quanto di più discreto esista» — una posición originaria ante el real, que el problema de Cristo hace emerger ([[dependencia_de_dios]], [[escándalo]]).
 
+
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte prima, Cap. 3 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — frente a la libertad moderna entendida como «ausencia de lazos, abandono al propio impulso de instinto, imagen u opinión», para el cristianismo «la libertad es energía de adhesión al real, al ser: adhesión a otro que nos completa, que hace crecer y realiza la persona». Es «una fuerza afectiva que conduce a un Tú último», energía constructiva del yo mediante la adhesión a otro.
 - **Parte prima, Cap. 6** — la opción de la penumbra: la posición moderna ante el misterio (Dios/no-Dios) no es fruto de razonamiento sino de una «opción», de una opción de libertad (Althusser); quien se vuelve de espaldas a la luz convierte la realidad en vestíbulo de oscuridad. La libertad se educa dando «energía de adhesión al ser»: su lugar natural es la comunidad humana (SDL 02, `02_parte_seconda_conoscenza_e_mistero.md`), que sostiene ante el vacío del riesgo.
-
 ## Relaciones doctrinales
 
 La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].
@@ -159,8 +159,6 @@ Selman recoge la defensa tomista de la libertad frente a dos equívocos. Contra 
 [[libertad_humana]], [[libre_albedrío]], [[acto_humano]], [[gracia]], [[conciencia_moral]], [[ley_natural]], [[dignidad_humana]], [[libertad_cristiana]], [[ley_nueva_como_ley_de_libertad]]
 
 ## Referencias
-
-- SDL, Parti seconda e prima (archivos `02_parte_seconda_conoscenza_e_mistero.md`, `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
 
 - CEC §1730-1748, §1804
 - TPCr, Tratado de la libertad

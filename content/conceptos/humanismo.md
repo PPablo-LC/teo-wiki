@@ -52,11 +52,11 @@ Nicolás Copérnico (1473–1543), canónigo regular, publicó *De revolutionibu
 
 El humanismo dignificó al hombre, promovió el estudio crítico de los textos (incluida la Biblia), impulsó las artes y las ciencias, y abrió el camino a la modernidad. Sin embargo, su tendencia al antropocentrismo —colocar al hombre en el centro de todas las cosas— preparó el terreno para el racionalismo ilustrado y las secularizaciones posteriores.
 
+
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — en el Humanismo, la figura del santo como imagen ejemplar de la personalidad —unidad de todos los factores humanos en Dios— se sustituye por el ideal de la «riuscita umana»: no ya el Dios a quien todo debe confluir en unidad armónica, sino el «divo», el hombre «riuscito» que «cuenta con sus fuerzas»; «al Dios aún hoy se sustituye el divo» (L93-101).
 - **Parte prima** — la *riuscita* es un valor —la tradición cristiana lo subraya con el concepto de «mérito»— pero su absolutización es el error: «cada error es una verdad enloquecida» (Chesterton); cuando la dignidad no se apoya en la relación objetiva con Dios queda «a merced del caso», y «el semen del racismo espera atracar en este terreno» (L95-99). La pedagogía de Dewey —«l'efficienza sociale» como supremo criterio educativo— lleva muy cerca del «divo» de los humanistas (L103).
-
 ## Distinciones importantes
 
 - **Humanismo cristiano vs. humanismo secular:** Erasmo y Vives mantuvieron la fe como centro; Maquiavelo y, en parte, Pico della Mirandola enfatizaron la autonomía humana.
@@ -72,7 +72,5 @@ El humanismo se relaciona con la [[reforma_protestante]] (preparó el terreno fi
 [[reforma_protestante]], [[ilustracion]], [[escolástica]], [Erasmo de Rotterdam], [Dante Alighieri], [Miguel Ángel], [Rafael Sanzio]
 
 ## Referencias
-
-- SDL, Parte prima, Cap. 4 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
 
 - [HI, Archivo 32 — Humanismo: figuras, artes, Copérnico, consecuencias]

@@ -63,7 +63,7 @@ El encuentro con Cristo lleva necesariamente a evangelizar: «El primer impulso 
 
 ### Según la Evangelii Gaudium (EG)
 
-La Evangelii Gaudium constituye la exposición más completa del pontificado de Francisco sobre la evangelización. El Papa enseña que la evangelización es la «tarea primordial» de la Iglesia (EG 14), superando tanto el proselitismo como la mera「estrategia de propaganda»: «La Iglesia no crece por proselitismo sino «por atracción»» (EG 16). La evangelización debe ser «nueva en su ardor, en sus métodos, en su expresión» (EG 14), y tiene como centro el encuentro personal con Jesucristo que transforma la vida y la llena de alegría (EG 1-3).
+La Evangelii Gaudium constituye la exposición más completa del pontificado de Francisco sobre la evangelización. El Papa enseña que la evangelización es la «tarea primordial» de la Iglesia (EG 14), superando tanto el proselitismo como la mera «estrategia de propaganda»: «La Iglesia no crece por proselitismo sino «por atracción»» (EG 16). La evangelización debe ser «nueva en su ardor, en sus métodos, en su expresión» (EG 14), y tiene como centro el encuentro personal con Jesucristo que transforma la vida y la llena de alegría (EG 1-3).
 
 La EG distingue tres ámbitos de la nueva evangelización: la pastoral ordinaria (los creyentes practicantes), los bautizados que se han alejado de la fe, y quienes no conocen a Jesucristo (EG 14). La «salida misionera» es el paradigma de toda la obra eclesial (EG 14-19), y la evangelización no puede prescindir de la dimensión social: «No existe ningún kerygma auténtico sin la promoción de la justicia» (EG 182).
 

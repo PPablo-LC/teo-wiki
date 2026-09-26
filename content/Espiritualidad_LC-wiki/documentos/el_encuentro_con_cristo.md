@@ -29,7 +29,7 @@ timestamp: 2026-09-03
 | **Parte II** | 03_parte_ii.md | Teología del Encuentro: fundamento bíblico, cristológico, trinitario, eclesial y mariano |
 | **Parte III** | 04_parte_iii.md | Dinámica del Encuentro: experiencia, conversión, configuración, misión, comunidad |
 | Conclusión | 05_conclusion.md | Conclusión: el Encuentro como corazón de la identidad |
-| Anexo | 06_anexo.md | Anexo: textos de referencia y bibliografía |
+| Metodología | 06 Metodología - Encuentro con Cristo.md | Ficha modelo de la metodología: oración inicial, lectura orante del Evangelio, discernimiento apostólico (ver–juzgar–actuar) y oración final |
 
 ## Contenido doctrinal principal
 

@@ -44,7 +44,7 @@ More se destacó como juez eficiente y justo, conocido por su preocupación por 
 
 ### Mártir de la conciencia
 
-More renunció a la cancillería, aceptando la pobreza. Cuando Enrique recurrió a amenazas de traición, More permaneció firme,象eificado en la Bienaventuranza de pureza de corazón: amaba a Enrique y a su país, pero amaba a Dios más. Durante su encarcelamiento en la Torre de Londres, su juicio y ejecución, More exudó la Bienaventuranza de mansedumbre, consolando incluso a quienes venían a consolarlo. En su discurso al Parlamento, miró hacia la reconciliación en el cielo, citando el ejemplo de San Pablo y San Esteban.
+More renunció a la cancillería, aceptando la pobreza. Cuando Enrique recurrió a amenazas de traición, More permaneció firme, dignificado en la Bienaventuranza de pureza de corazón: amaba a Enrique y a su país, pero amaba a Dios más. Durante su encarcelamiento en la Torre de Londres, su juicio y ejecución, More exudó la Bienaventuranza de mansedumbre, consolando incluso a quienes venían a consolarlo. En su discurso al Parlamento, miró hacia la reconciliación en el cielo, citando el ejemplo de San Pablo y San Esteban.
 
 ### Muerte y legado
 

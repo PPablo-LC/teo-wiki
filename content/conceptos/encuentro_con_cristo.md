@@ -49,11 +49,11 @@ La dimensión comunitaria del encuentro es esencial: siguiendo el modelo de los 
 
 El Encuentro con Cristo integra los cinco elementos propios del miembro del RC (vida espiritual, formación, apostolado, acompañamiento y vida de equipo), constituyendo un «catalizador que fortalece y vivifica nuestra identidad» [RC-EcC-2022, Parte I]. Los presupuestos para su vivencia son la fraternidad cristiana, el carisma del Regnum Christi y una misión comunitaria compartida [RC-EcC-2022, Parte III].
 
+
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — «Venite e vedrete»: el encuentro comienza como convivencia; los primeros discípulos «fueron, pues, a ver dónde habitaba y permanecieron junto a él aquel día» (Gv 1,38-39); el comentario al primer signo de Caná —«y creyeron entonces en él sus amigos» (Gv 2,11)— «la certeza crecía según un devenir que la convivencia con Él aseguraba» (03, L97-103).
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — el encuentro con Cristo hoy es un «incontro presente, esistenziale» con la comunidad cristiana: «metodológicamente, solo viviendo la comunidad cristiana presente se puede adquirir adecuación al problema de Cristo»; y el método del hecho cristiano para «convertir» al mundo es la unidad visible de los creyentes (Gv 17,20-23).
-
 ## Distinciones importantes
 
 - **Encuentro personal vs. comunitario:** Ambos se complementan; los encuentros comunitarios (especialmente la Eucaristía) tienen una importancia fundamental para la constitución de la Iglesia.
@@ -72,8 +72,6 @@ Se conecta con [[conversión]] (el encuentro mueve a la conversión), [[comunió
 [[evangelización]], [[conversión]], [[comunión_eclesial]], [[solidaridad]], [[nueva_evangelización]], [[eucaristía]], [[jesucristo]], [[revisión_de_vida]], [[discernimiento_apostólico]]
 
 ## Referencias
-
-- SDL, Parte terza, Capp. 1-2 y Parte quarta, Cap. 1 (archivos `03_parte_terza_rivelazione.md`, `04_parte_quarta_presenza_e_storia.md`)
 
 - EA §3, 8-12, 68
 - [RC-EcC-2022, Parte I-III]

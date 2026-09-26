@@ -29,7 +29,7 @@ Paul Kurtz: el principio de la sabiduría es tener conciencia de que no hay prue
 
 ### La fe ciega (anónimo / Einstein / Schopenhauer)
 
-Un anónimoDefine la fe ciega como un regalo paradójico para corresponder a la inteligencia. Albert Einstein: el pensamiento religioso es un intento de encontrar una salida allí donde no hay puerta. Arthur Schopenhauer: la religión es el chef d'oeuvre del aleccionamiento, sobre todo del aleccionamiento de la capacidad de pensar; se implanta antes de los seis años por repetición constante.
+Un anónimo define la fe ciega como un regalo paradójico para corresponder a la inteligencia. Albert Einstein: el pensamiento religioso es un intento de encontrar una salida allí donde no hay puerta. Arthur Schopenhauer: la religión es el chef d'oeuvre del aleccionamiento, sobre todo del aleccionamiento de la capacidad de pensar; se implanta antes de los seis años por repetición constante.
 
 ### La crítica a la creencia (Butler / Maugham / O'Toole)
 

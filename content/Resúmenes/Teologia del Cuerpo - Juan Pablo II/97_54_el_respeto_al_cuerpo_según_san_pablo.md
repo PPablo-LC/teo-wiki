@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[cuerpo_humano]] — el cuerpo en la analogía eclesiológica
 - [[pasiones_libidinosas]] — la superación de los impulsos
 - [[voluntad]] — la raíz volitiva de la virtud
-- [[omocentro]] — la objetividad de la「ciencia」y la justa valoración
+- [[omocentro]] — la objetividad de la «ciencia»y la justa valoración
 - [[somática]] — el organismo somático del hombre
 
 ## Contenido

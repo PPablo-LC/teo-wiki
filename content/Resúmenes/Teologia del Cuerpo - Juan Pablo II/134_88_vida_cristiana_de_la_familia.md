@@ -10,7 +10,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 # 88. Vida cristiana de la familia
 
-## Conceptos бásicos referenciados
+## Conceptos básicos referenciados
 
 - [[efesios]] — la estructura y el destino de la Carta
 - [[plan_de_salvación]] — el plan eterno del Padre en Jesucristo (Ef 1)

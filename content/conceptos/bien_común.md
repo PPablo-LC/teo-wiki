@@ -81,11 +81,6 @@ En cuanto al uso de la propiedad privada, «el bien común —no mi propio bien�
 
 Barron añade la condición cultural: los sistemas económicos y políticos deben inscribirse en valores morales firmes, absolutos e inmutables —no sometidos a los vaivenes del mercado ni de la opinión—. Por eso «la dictadura del relativismo es enemiga de la política y de la economía»: es en la Misa y los sacramentos donde se aprenden los valores que deben circunscribir un mercado que funcione rectamente, y donde la familia se rompe, se rompe también la sociedad —incluida su vida económica— [EAC-2, 15_cst_market_economy].
 
-### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
-
-Aplicado al matrimonio, Tóth subordina los intereses individuales al **bien común**: el divorcio defiende intereses particulares a costa de la sociedad; el Estado es incapaz de crear los fundamentos morales del matrimonio (el fracaso de las leyes de Augusto), y la defensa de la indisolubilidad por parte de la Iglesia es un servicio a la humanidad entera [EMC, caps. 11, 17].
-
-
 ## Analizado para
 
 - [[closing_keynote_virtuous_leader]]
@@ -100,4 +95,3 @@ Aplicado al matrimonio, Tóth subordina los intereses individuales al **bien com
 - [CEC §1877-1889]
 - [CEC §1928-1948]
 - [GS 25-26]
-- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 11, 17.

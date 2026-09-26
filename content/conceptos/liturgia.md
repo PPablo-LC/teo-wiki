@@ -89,18 +89,16 @@ Para Giussani, la liturgia es el lugar donde «el Misterio coincide con el signo
 
 Esta coincidencia del Misterio con lo humano es precisamente lo que la fe anuncia y lo que escandaliza a la mentalidad moderna: «la fidelidad a la liturgia es el anuncio de que el Misterio, que es el sentido de todo, se ha hecho un hombre» (AED, 28, 183). La liturgia no es un culto inventado por los hombres sino la acción en la que la Presencia de Cristo, que coincide con el signo, se ofrece a todos los hombres (AED, 28, 183).
 
+
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte quarta, Cap. 2 (archivo `04_parte_quarta_presenza_e_storia.md`)** — la liturgia como «desarrollo orgánico, en palabras y acciones, de los gestos sacramentales en que Dios se comunica al hombre»: es el lugar concreto donde el sentido religioso alcanza su Objeto divino con la máxima certeza y seguridad concedida al hombre en camino. Es también «el más perfecto instrumento de educación del sentido religioso, la más segura y completa pedagogía».
 - **Parte quarta, Cap. 2** — el *espíritu litúrgico* tiene dos directrices educativas: renunciar a la afirmación autónoma e independiente de uno mismo para integrarse en el todo orgánico de la comunidad, y comprometerse del todo para enriquecer la comunidad con la propia personalidad. De la persona, debe invadir la sociedad en todos sus niveles y animar el movimiento de la historia y del cosmos.
-
 ## Ver también
 
 [[sacramentos]], [[eucaristía]], [[oración_litúrgica]], [[iglesia_cuerpo_místico]], [[sacramentales]]
 
 ## Referencias
-
-- SDL, Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)
 
 - [CEC §1077-1134]
 - [CEC §1135-1209]

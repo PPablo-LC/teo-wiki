@@ -39,11 +39,6 @@ La elección es el acto elícito de la voluntad que tiene por objeto la acción 
 
 El objeto de la deliberación y la elección no puede ser un fin: deliberar sobre un bien y elegirlo significa ordenarlo a otro, considerarlo como medio (Ele_Xto_Stos, Cap. VI, §3).
 
-### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
-
-- **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — la elección como máximo de iniciativa divina y de comunicación: «no vosotros me habéis elegido a mí, sino que yo os he elegido a vosotros y os he destinado a que vayáis y deis fruto» (Gv 15,16); «ya no os llamo siervos, porque el siervo no sabe lo que hace su señor; os he llamado amigos, porque os he dado a conocer todo lo que he oído de mi Padre» (Gv 15,15) — «un máximo de comunicación» (03, L131-133).
-- **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — la elección está en el origen de la filiación adoptiva: «nos eligió en él antes de la fundación del mundo, para ser santos e irreprensibles en su presencia, por amor, habiéndonos predestinado a ser sus hijos adoptivos por medio de Jesucristo» (Ef 1,3-6a) — elección eterna que es «gracia, don» (04, L99-101).
-
 ## Distinciones importantes
 
 - Elección gratuita vs. mérito humano: la elección no se funda en cualidades del elegido sino en el amor de Dios
@@ -59,8 +54,6 @@ El objeto de la deliberación y la elección no puede ser un fin: deliberar sobr
 [[siervo_de_yahvé]]
 
 ## Referencias
-
-- SDL, Parte terza, Cap. 2 y Parte quarta, Cap. 1 (archivos `03_parte_terza_rivelazione.md`, `04_parte_quarta_presenza_e_storia.md`)
 
 - [VocTeoBib, «Elección»]
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §3

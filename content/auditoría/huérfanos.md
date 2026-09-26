@@ -4585,6 +4585,19 @@ naturalezas de variante:
    `[[creacion]]`→`creación`, `[[mision]]`→`misión`, `[[salvacion]]`→`salvación`,
    `[[resurreccion]]`→`resurrección`, `[[revelacion]]`→`revelación`, etc.
 
+## Sembrados por el índice de Retratos de santos (RetS) — A. M. Sicari (2026-09-25)
+
+Al indexar `raw/Bases_doctrinales-raw/Retratos de santos - Antonio Maria Sicari/`
+se sembraron o confirmaron los siguientes wikilinks sin artículo propio
+(forward references). Su contenido está tratado en la fuente raw y en el
+índice de la fuente:
+
+| Wikilink | Referencias | Nota |
+|----------|-------------|------|
+| `[[beatificación]]` | 1 | Nuevo en `14_luis_gonzaga.md` (L13-17: beatificado en 1604, «apenas catorce años después de su muerte», por presión popular). No confundir con `[[vision_beatifica]]`, que es la visión beata; el proceso canónico tiene artículo afín en `[[canonización]]`. Requiere artículo propio. |
+| `[[jesuitas]]` | ya registrado (nº 59) | Reaparece en `14_luis_gonzaga.md` (L13-17, L19-31): la Compañía de Jesús presionó para retrasar la canonización de san Luis respecto a Ignacio de Loyola, y es el instrumento de la acusación de «imbécil exaltado artificialmente por los jesuitas». Suma referencias. |
+| `[[misticismo]]` | ya registrado (nº 3527) | Reaparece en `14_luis_gonzaga.md` (L3-11: la experiencia «mística» de los santos, «más real que cualquier otra cosa»). Se mantiene como huérfano legítimo: **no** se retargetea a `[[falso_misticismo]]` por ambigüedad semántica (aquí se trata de la experiencia mística auténtica, no de la mística falsa). |
+
 **Metodología:** análisis programático de todos los wikilinks contra el
 inventario de artículos; solo se retargetearon huérfanos con **un único
 candidato canónico inequívoco** (normalización NFD + prefijos de santidad +

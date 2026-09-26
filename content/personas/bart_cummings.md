@@ -13,7 +13,7 @@ timestamp: 2026-09-08
 
 ## Definición
 
-James Bartholomew "Bart" Cummings fue un legendario entrenador y criador de caballos de carrera australiano. Famoso por su haber ganado多次 el Melbourne Cup, fue conocido no solo por su éxito deportivo, sino también por su profunda fe católica y su carácter reservado y bondadoso.
+James Bartholomew "Bart" Cummings fue un legendario entrenador y criador de caballos de carrera australiano. Famoso por su haber ganado varias veces el Melbourne Cup, fue conocido no solo por su éxito deportivo, sino también por su profunda fe católica y su carácter reservado y bondadoso.
 
 ## Desarrollo doctrinal
 

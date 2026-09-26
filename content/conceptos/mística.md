@@ -51,11 +51,6 @@ Bishop Robert Barron dedica la Lección 9 completa ("El fuego de su amor") a la 
 
 > «La mística es la experiencia directa de Dios — no algo reservado a unos pocos, sino la culminación normal de la vida cristiana» (WoF, L9)
 
-### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
-
-- **Parte quarta, Cap. 2 (archivo `04_parte_quarta_presenza_e_storia.md`)** — la vida mística como **vocación de todos**: «per Spiritum Sanctum qui datus est nobis». La inteligencia se ejerce sobre el misterio revelado, pero no como razón sola: es la razón investida y elevada por la virtud de la fe, infusa en el bautismo, potenciada por los dones del Espíritu Santo, que dan una sensibilidad cada vez más aguda hacia las realidades divinas «por lo cual el misterio se hace cada vez más luminoso y casi se vuelve, aunque oscuramente, en cierto modo experiencia: vida mística».
-- **Parte quarta, Cap. 2** — los pasos del sentido religioso hacia el Vero cristiano: comienza como **instrucción** (participación en la verdad), prosigue como **meditación** (estudio) y termina como **contemplación** (visión oscura); esta actividad espiritual de todos se convierte en ayuda y colaboración de la autoridad, a la que solo pertenece definir.
-
 ## Distinciones importantes
 
 - Ascética (esfuerzo humano bajo la gracia ordinaria) vs. Mística (moción divina directa).
@@ -71,8 +66,6 @@ Se relaciona con [[naturaleza_de_la_mística]], [[perfección_y_mística]], [[co
 [[naturaleza_de_la_mística]], [[perfección_y_mística]], [[contemplación_infusa]], [[grados_de_oración]], [[unión_transformante]]
 
 ## Referencias
-
-- SDL, Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)
 
 - [CEC §2709-2719]
 - [TPCr, Segunda Parte, Cap. 3 y 4]

@@ -53,11 +53,6 @@ Fr. Richard T. Whittington («Food for the Road: The Eucharist as Viaticum») de
 
 [[eucaristía]], [[visión_beatífica]], [[novísimos]], [[muerte]], [[resurrección_de_los_muertos]], [[cuerpo_místico_de_cristo]], [[benedicto_xii]]
 
-### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
-
-El santo viático es «medicina de la inmortalidad» para el último viaje: «vida en la muerte» es el cuarto efecto del pan del peregrino. La comunión como «prenda de la resurrección», «semilla de vida eterna» (Jn 6,55) transforma el lecho de muerte en «campo de aviación»: donde el mundo ve el fin, la Eucaristía abre el despegue hacia el cielo [EMA, cap. 4].
-
-
 ## Ver también
 
 - [[eucaristía]]
@@ -70,4 +65,3 @@ El santo viático es «medicina de la inmortalidad» para el último viaje: «vi
 - Whittington, Fr. Richard T. «Food for the Road: The Eucharist as Viaticum», en *Evangelization & Culture* 13 (Autumn 2022).
 - Tomás de Aquino. *Summa Theologiae* III q.73 a.4.
 - Catecismo de la Iglesia Católica 1402, 1524-1525.
-- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), cap. 4.

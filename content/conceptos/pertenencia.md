@@ -62,12 +62,12 @@ Los Esercizi 2000 y 2001 hacen de la *appartenenza* «la parola decisiva per l'e
 - **Primera pertenencia: padre/madre** — Dios se nos da a través de padre y madre (DLV 16, 43).
 - **La moralidad como pertenencia** — «riconoscimento amoroso di una Presenza connessa col destino»; la justicia juzgada por la ley de la pertenencia (DLV 10, 81-126; DLV 16, 17-25).
 
+
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — si el hombre está hecho para buscar a Dios a través de Cristo y Cristo se encuentra en la unidad de los cristianos, «pertenecer a la Iglesia, ser cristianos, es la función suprema que un hombre está llamado a realizar en el mundo»; es un «peso», un «giogo», una responsabilidad, pero también una elección de predilección (Rm 8,31-39).
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — la pertenencia como lugar del hecho cristiano totalizante y de la fe que deviene cultura: la objetividad del camino al verdadero y el «encuentro» que sobrepasa el subjetivismo; «no se trata de imaginar o inventar, sino de seguir». La unidad visible de los creyentes (Jn 17,9) permanece como condición de la fe.
 - **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — la vida de grupo como lugar natural del «riesgo»: solo en comunidad la libertad encuentra el alimento para resistir al vacío del riesgo; «el hombre solitario normalmente no puede resistir el vacío del riesgo».
-
 ## Analizado en contexto cultural
 
 - [[los_dones_de_la_imperfeccion_brene_brown]] — la pertenencia junto al amor como experiencia esencial humana; convergencia con la vocación a la comunión; tensión por horizonte inmanente.
@@ -87,8 +87,6 @@ Se relaciona con [[amor]], [[amor_propio]], [[valía_personal]], [[autenticidad]
 [[los_dones_de_la_imperfeccion_brene_brown]], [[conexión]], [[valía_personal]], [[significado_nupcial_del_cuerpo]]
 
 ## Referencias
-
-- SDL, Parti seconda, quarta e seconda (archivos `02_parte_seconda_conoscenza_e_mistero.md`, `04_parte_quarta_presenza_e_storia.md`, `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)
 
 - Brown, B. (2010). *Los dones de la imperfección*, cap. 5
 - Juan Pablo II, Catequesis sobre la Teología del Cuerpo, n. 33 (la donación mutua del hombre y la mujer en el matrimonio)

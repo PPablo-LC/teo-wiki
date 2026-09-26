@@ -25,11 +25,6 @@ La Eucaristía es el sacramento por excelencia, instituido por Cristo en la Últ
 
 El CEC §1322-1419 presenta la Eucaristía como «fuente y cumbre de toda la vida cristiana» (§1324). Trata la institución (§1337-1344), el sacrificio eucarístico (§1362-1372), la presencia real de Cristo (§1373-1381), la comunión (§1382-1390) y la adoración eucarística (§1418). El misterio eucarístico contiene «todo el bien espiritual de la Iglesia, es decir, Cristo mismo» (§1324).
 
-### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
-
-Tóth estructura el misterio eucarístico en las **tres relaciones de Cristo**: por nosotros (la misa, «Cristo por nosotros»), en nosotros (la comunión, «Cristo en nosotros») y entre nosotros (la adoración, «Cristo entre nosotros») [EMA, caps. 6-17]. El Misterio no consiente reducciones (JEE 61): «desde la institución de la Eucaristía no estamos a oscuras, no estamos solos»; la Iglesia sin Eucaristía serían «casas vacías, monstruos de piedra» [EMA, cap. 16]. La Eucaristía es el **vínculo de amor** con el Padre, el Hijo, el Espíritu Santo y entre los hermanos — «un pedazo de cielo», «pan de la propia casa» [EMA, apéndice].
-
-
 ## Relaciones doctrinales
 
 El misterio eucarístico se relaciona con la [[eucaristía]] como sacramento, la [[presencia_real]] como modo de presencia de Cristo, la [[transubstanciación]] como cambio substancial, el [[sacrificio_eucarístico]] como memorial de la cruz, y la [[misa]] como celebración litúrgica del misterio.
@@ -42,4 +37,3 @@ El misterio eucarístico se relaciona con la [[eucaristía]] como sacramento, la
 
 - CEC §1322-1419
 - Concilio de Trento, Ses. XIII (DS 1635-1656)
-- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 6-17, apéndice.

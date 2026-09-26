@@ -32,6 +32,6 @@ Lewis — «ateo, luego ateo, luego cristiano protestante, luego anglicano» —
 
 ### El deseo insaciable
 
-Cada deseo (Sehnsucht) «es satisfactorio como un momento que te da más» — «lo sacro es terrible, y sin embargo nos recuerda que hay un miHojo sagrado en medio de la Tierra, un lugar santo, un Tores del alma, un Bosque Sagrado».
+Cada deseo (Sehnsucht) «es satisfactorio como un momento que te da más» — «lo sacro es terrible, y sin embargo nos recuerda que hay un mi yo sagrado en medio de la Tierra, un lugar santo, un Tores del alma, un Bosque Sagrado».
 
 > «Cuando regresamos a casa, volvemos a lo que nunca dejamos».

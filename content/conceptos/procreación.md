@@ -44,11 +44,6 @@ La Iglesia condena como ofensa grave a la dignidad humana todas aquellas activid
 El respeto de los padres hacia la vida y hacia el misterio de la procreación evitará en los hijos «la falsa idea de que las dos dimensiones del acto conyugal, la unitiva y la procreativa, puedan separarse según el propio arbitrio». La contracepción busca el placer «interviniendo sobre la expresión del acto conyugal a fin de evitar la concepción»; la procreación artificial busca la concepción «sustituyendo el acto conyugal por una técnica»: ambas «contrario a la verdad del amor conyugal y a la plena comunión esponsal» (SHVS 32). En la pubertad hay que evitar la «*mentalidad contraceptiva*» ya extendida (SHVS 92); y se subrayan «los valores morales, espirituales y sanitarios de los métodos de la regulación natural de la fertilidad» y la «sustancial y profunda diferencia» entre métodos naturales y artificiales (SHVS 125, 137).
 
 
-### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
-
-La procreación es **fin principal del matrimonio**: el acto conyugal como colaboración con el Creador. Tóth condena la **esterilidad voluntaria** como «árbol seco» y pecado triple: contra Dios (la mentalidad frívola que ve el hijo como «plaga»), contra el hijo y contra los padres [EMC, cap. 13]. Cuando la miseria real lo exige, el único medio lícito de regular la natalidad es la **continencia conyugal** (evitar las fases fértiles del ciclo), nunca el aborto ni los anticonceptivos; la Iglesia reclama además mejoras sociales para las familias numerosas [EMC, cap. 14]. Destaca a las **mártires de la maternidad**, madres que arriesgan la vida por el hijo: «se salvarán dando a luz» (1 Tim 2,15). Los grandes hombres provenían de familias numerosas: Mozart (5º hijo), Rembrandt (6º), Wagner (7º), Napoleón (8º), Schubert (13º) [EMC, cap. 14].
-
-
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[paternidad_responsable]], [[familia]], [[anticoncepción]], [[clonación]], [[amor_conyugal]]
@@ -62,4 +57,3 @@ Se relaciona con [[matrimonio]], [[paternidad_responsable]], [[familia]], [[anti
 - [CompDS §218]
 - [CompDS §230-237]
 - [FC §14, §30]
-- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 13-14.

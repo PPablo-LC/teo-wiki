@@ -43,8 +43,6 @@ Se relaciona con [[laicismo]], [[masonería]], [[racionalismo]], [[modernismo]],
 
 ## Referencias
 
-- SDL, Parte prima, Cap. 4 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
-
 - Pío IX, Enc. *Quanta Cura* (1864) y Syllabus
 - Pío X, Enc. *Pascendi* (1907)
 - Denzinger D-2890–D-2896

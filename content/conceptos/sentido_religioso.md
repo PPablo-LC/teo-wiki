@@ -50,6 +50,7 @@ DLV, sexto volumen del PerCorso, distingue expresamente el sentido religioso de 
 - **Reducción de la fe a sentido religioso** — si la propuesta no es sugestiva, la reducimos a nuestro arbitrio: así se reduce la fe a sentido religioso y el sentimiento a única razón adecuada (DLV 12, 15-19).
 - **La fe como reconocimiento de una Presencia** — frente al sentido religioso (pregunta), la fe es «riconoscimento di una Presenza»: un acontecimiento presente, no una idea ni un sentimiento (DLV 11, 17-23; DLV 15, 109).
 
+
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 SDL reúne los dos ensayos de Giussani sobre el sentido religioso y la conciencia religiosa moderna.
@@ -57,7 +58,6 @@ SDL reúne los dos ensayos de Giussani sobre el sentido religioso y la concienci
 - **Parte prima (archivo `01_parte_prima_il_fondo_della_questione.md`)** — precisa el contenido: el sentido religioso coincide con las preguntas últimas («¿para qué vale la pena vivir?») y con *cualquier respuesta* que se les dé; es implicación inevitable de la vida y da incondicionada devoción a un «dios» cualquiera (el Partido, la salud, la carrera, el dinero). Se identifica con la *vis appetitiva* («fuerza de aspiración») y con el sentido de original, total dependencia; es «la vocación de la vida» y la «sintesi dello spirito» (Montini, Cuaresma 1957).
 - **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — el sentido religioso es una capacidad que necesita ser provocada; el llamamiento no viene directamente de Dios, sino a través de la realidad creada: es la «vocación original continuada a través del mundo». Su itinerario es el del signo: el mundo remite a un Trascendente, pero Dios se propone, es discreto, no se impone; la realidad es como una penumbra y su interpretación comporta riesgo. Quien se educa en atención y aceptación (dependencia) encuentra en el mundo la voz de Dios.
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — los tres momentos posibles del sentido religioso en la historia y en la vida personal: la *ricerca a tastoni* (búsqueda), la *dipendenza servile* (dependencia servil) y el *amore filiale* (amor filial); solo este último es el definitivo, el que trajo Cristo. «Cristo como respuesta a lo que soy "yo"»; la Iglesia como presencia de Cristo es el ambiente donde el sentido religioso alcanza su objeto.
-
 ## Distinciones importantes
 
 - **Sentido religioso vs. religión particular**: el sentido religioso es la estructura radical del hombre, anterior a toda religión positiva; las religiones son formas históricas de su expresión.
@@ -84,8 +84,6 @@ SDL reúne los dos ensayos de Giussani sobre el sentido religioso y la concienci
 - [[razón]] [[misterio]] [[signo]] [[realismo]] [[experiencia_elemental]] [[sensibilidad_religiosa]] [[revelación]] [[ideología]] [[idolatría]] [[positivismo]]
 
 ## Referencias
-
-- SDL, Parti prima, seconda e quarta (archivos `01_parte_prima_il_fondo_della_questione.md`, `02_parte_seconda_conoscenza_e_mistero.md`, `04_parte_quarta_presenza_e_storia.md`)
 
 - SR, caps. IV, V, IX, X, XI (archivos `11_capitolo_quarto.md`, `12_capitolo_quinto.md`, `16_capitolo_nono.md`, `17_capitolo_decimo.md`, `18_capitolo_undicesimo.md`)
 - SR, archivos `00_trama.md` y `05_prefazione.md`

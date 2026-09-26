@@ -28,12 +28,12 @@ La preocupación educativa de Giussani es comunicar «la razonabilidad del hecho
 - Capítulos XI y XII — el mundo como signo que remite a Otro; el hecho cristiano como interpretación de ese signo y la libertad en la interpretación (Mt 13,10ss; Jn 15,22-25)
 - Capítulo XV — la hipótesis de la revelación: que Dios entre en la historia «como un factor interno a la historia» (Fedón de Platón; Eliot)
 
+
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — el «hecho anómalo» en la historia religiosa: no un fundador que propone un camino, sino una Voz que afirma «Yo soy la Via, la Verdad y la Vida» (Jn 14,6); «en un momento determinado, dentro del tiempo» (Lc 3,1-2). Frente a la religión como constructo humano —«tentativa de construcción teórica, ética y ritual del modo en que el hombre imagina la relación con el destino»—, el cristianismo es un hecho acontecido que se acoge: después de Cristo el mundo «fijó los años» para aquel camino.
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — método para llegar al hecho: un «incontro presente, esistenziale», la comunidad cristiana actual; «Ecco dov'è Cristo: dov'è la Chiesa»; el hecho cristiano permanece como presencia y pertenencia.
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — características que la conciencia moderna arriesga perder: (a) el hecho cristiano como **fatto totalizzante** (lo abarca todo: no dimension aparte de la vida); (b) su **objetividad** — «no se trata de imaginar o inventar, sino de seguir» (Claudel); (c) la fe que deviene *cultura* — una manera de estar en la realidad que no se reduce a culto; y la reductio «protestante» (a Palabra y a conciencia) que lo afievola.
-
 ## Distinciones importantes
 
 - **Hecho vs. teoría**: el cristianismo es un acontecimiento, no un sistema de ideas; se verifica en la experiencia.
@@ -58,8 +58,6 @@ La preocupación educativa de Giussani es comunicar «la razonabilidad del hecho
 - [[sentido_religioso]] [[revelación]] [[cristo]] [[iglesia]] [[fe_y_razón]] [[conversión]]
 
 ## Referencias
-
-- SDL, Parti quarta, prima e seconda (archivos `04_parte_quarta_presenza_e_storia.md`, `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`, `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)
 
 - SR, archivos `00_trama.md` y `05_prefazione.md`
 - SR, caps. XI, XII y XV (archivos `18_capitolo_undicesimo.md`, `19_capitolo_dodicesimo.md`, `22_capitolo_quindicesimo.md`)

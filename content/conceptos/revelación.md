@@ -65,12 +65,6 @@ Giussani desarrolla la hipótesis de la revelación como «una novedad no previs
 
 **Revelación y razón.** La revelación no contradice la razón: el hombre es tal que «no puede alcanzar la totalidad», y la revelación se ofrece para responder a esa apertura estructural. Citando la STh I q.1 a.1, Giussani señala que la salvación no habría llegado sino por la revelación divina (SR, `21_capitulo_xiv.md`).
 
-### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
-
-- **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — la revelación es «el misterio de Dios que emerge como gesto humano en la historia»; su descubrimiento es la registración de un hecho, no fruto de razonamiento (historia recibida por testimonio, noticia). **Dos características** de la revelación: (1) se hace en términos adecuados y comprensibles a nosotros (Dios habla a Abrahán de tierra, casa, padre, pacto: Gn 12,1-4; 15,7-18) y (2) suscita «una conciencia todavía más profunda del misterio como misterio» — no reduce la trascendencia, la afirma más educativamente (Is 55,8-9). La iniciativa divina educa dos actitudes: *ascoltare* y *credere* (la fe, «acto de fe en su sentido más completo»); el paradigma es el sacrificio de Isaac (Gn 22,1-14) — «si es tan simple obedecer» (Claudel).
-- **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — la necesidad de la revelación (STh I q.1 a.1: la verdad sobre Dios alcanzable por la sola razón queda para pocos, tarde y con errores); una revelación es «una hipótesis adecuada a nosotros» (Platón, *Fedón*), y la categoría suprema de la razón es la categoría de la posibilidad: negar la posibilidad de revelación es la idolatría más refinada.
-- **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — con Cristo la revelación se completa («con la muerte del último apóstol la revelación divina ha terminado»); se confía a la Iglesia para su conservación con perenne infalibilidad e interpretación auténtica.
-
 ## Distinciones importantes
 
 - **Revelación natural vs. sobrenatural**: la primera por las criaturas; la segunda por comunicación directa de Dios
@@ -86,8 +80,6 @@ Se relaciona con [[revelación_divina]], [[revelaciones]], [[virtud_de_la_fe]], 
 [[revelación_divina]], [[revelaciones]], [[fe_católica]], [[interpretación_de_la_escritura]]
 
 ## Referencias
-
-- SDL, Parti seconda, terza e quarta (archivos `02_parte_seconda_conoscenza_e_mistero.md`, `03_parte_terza_rivelazione.md`, `04_parte_quarta_presenza_e_storia.md`)
 
 - CEC §50-73, §142-143, §153, §156
 - TPCr, Primera Parte, Cap. III, n.38

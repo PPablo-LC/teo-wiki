@@ -34,7 +34,7 @@ Una vez establecido, un amigo lo invita a un fin de semana de Cursillo. En él, 
 A pesar de amar a su novia Stephanie y tener oportunidades laborales soñadas en el béisbol, la idea de ser sacerdote no lo deja en paz. Tras múltiples señales y una conversación con un sacerdote que le pide explícitamente que sea sacerdote (una señal que pedía a Dios), finalmente rinde su voluntad.
 
 ### La obediencia y la entrega
-Aunque al principio duda y se aferra a su plan,最终mente ingresa al seminario para poner a prueba la llamada. Reconoce que Dios tuvo paciencia con su terquedad y que Él siempre provee para quienes lo siguen.
+Aunque al principio duda y se aferra a su plan, finalmente ingresa al seminario para poner a prueba la llamada. Reconoce que Dios tuvo paciencia con su terquedad y que Él siempre provee para quienes lo siguen.
 
 ### Mensaje final
 La historia de Masters es un testimonio de cómo la fe y la escucha de Dios pueden redirigir la vida de una persona desde el éxito mundano hacia un servicio trascendente.

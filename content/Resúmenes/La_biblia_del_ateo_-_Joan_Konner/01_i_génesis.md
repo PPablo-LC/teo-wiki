@@ -30,7 +30,7 @@ Petronio: «El miedo es lo que hizo los dioses de este mundo». Aristóteles: lo
 
 ### Evolución vs. creacionismo (Gould / anónimo)
 
-Stephen Jay Gould explica que estamos aquí por razones evolutivas, no por designio divino. Un anónimoDefine el creacionismo como «cerrar los ojos y berrear: ¡No!». La evolución es la explicación que subyace a la geología, paleontología y taxonomía.
+Stephen Jay Gould explica que estamos aquí por razones evolutivas, no por designio divino. Un anónimo define el creacionismo como «cerrar los ojos y berrear: ¡No!». La evolución es la explicación que subyace a la geología, paleontología y taxonomía.
 
 ### La humanidad como fin en sí misma (Clarke / Dostoievski / Abbey)
 

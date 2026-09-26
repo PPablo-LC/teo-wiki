@@ -17,7 +17,7 @@ Santa María Goretti (Corinaldo, 1890 – Nettuno, 1902) fue una niña campesina
 
 ## Relevancia teológica
 
-El núcleo doctrinal de su martirio lo formula la fuente: «quella bambina ha preferito morire piuttosto che offendere la volontà di Dio. Il martirio non è altra cosa». Su caso es además el paradigma de la **pureza vivida como defensa del cuerpo-sacramento-de-la-persona**: María Goretti «non aveva molte idee filosofiche sulla persona e sul corpo. Non avendole, si fidava delle idee di Dio» — y las ideas de Dios, expresadas ya en los mandamientos, decían que no cometer actos impuros. El capítulo la defiende de la «smascheración» laicista (que la reduce a «pobre santa», víctima de represiones), mostrando que deducir de la pobreza física e intelectual una «necesaria» pobreza moral «significa non saper nulla dell'amore infinito che Dio ha per tutte le sue creature».
+El núcleo doctrinal de su martirio lo formula la fuente: «quella bambina ha preferito morire piuttosto che offendere la volontà di Dio. Il martirio non è altra cosa». Su caso es además el paradigma de la **pureza vivida como defensa del cuerpo-sacramento de la persona**: María Goretti «non aveva molte idee filosofiche sulla persona e sul corpo. Non avendole, si fidava delle idee di Dio» — y las ideas de Dios, expresadas ya en los mandamientos, decían que no cometer actos impuros. El capítulo la defiende de la «smascheración» laicista (que la reduce a «pobre santa», víctima de represiones), mostrando que deducir de la pobreza física e intelectual una «necesaria» pobreza moral «significa non saper nulla dell'amore infinito che Dio ha per tutte le sue creature».
 
 ## Perspectivas por fuente
 

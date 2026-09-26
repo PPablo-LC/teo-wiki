@@ -30,7 +30,7 @@ Mark Bradford, Fellow para Personas con Discapacidades Intelectuales y del Desar
 
 ### El versículo 3 del Salmo 8: los niños y los humildes
 
-Bradford omite deliberadamente el versículo 3 para subrayarlo después. Este versículo habla del «babbling» de los niños pequeños y las妈s de leche como alabanza perfecta que «confunde a tus enemigos y hace callar a las lenguas maliciosas y vengativas». San Pablo ecoa esta idea: Dios eligió «lo bajo y despreciado del mundo, las cosas que no son» (1 Cor 1,28–29). La Virgen María canta en su *Magnificat*: «Derribó a los poderosos de sus tronos y enaltecó a los humildes» (Lc 1,52). Las oraciones de los niños, los pobres, los débiles y los discapacitados son poderosas si pueden silenciar lenguas maliciosas y destruir enemigos.
+Bradford omite deliberadamente el versículo 3 para subrayarlo después. Este versículo habla del «babbling» de los niños pequeños y las mamás de leche como alabanza perfecta que «confunde a tus enemigos y hace callar a las lenguas maliciosas y vengativas». San Pablo ecoa esta idea: Dios eligió «lo bajo y despreciado del mundo, las cosas que no son» (1 Cor 1,28–29). La Virgen María canta en su *Magnificat*: «Derribó a los poderosos de sus tronos y enaltecó a los humildes» (Lc 1,52). Las oraciones de los niños, los pobres, los débiles y los discapacitados son poderosas si pueden silenciar lenguas maliciosas y destruir enemigos.
 
 ### Santos de discapacidad: ejemplos de santidad
 
@@ -48,4 +48,4 @@ Chloe Kondrich, también con síndrome de Down, visitaba la tumba del oficial Pa
 
 ### Conclusión
 
-Bradford cierra con el versículo del Salmo 8: «Has puesto en boca de los niños, de las妈s de leche, una alabanza perfecta». Invita a aprender de estos jóvenes santos que «siempre hay mucho más en la humanidad de lo que se ve a simple vista».
+Bradford cierra con el versículo del Salmo 8: «Has puesto en boca de los niños, de las mamás de leche, una alabanza perfecta». Invita a aprender de estos jóvenes santos que «siempre hay mucho más en la humanidad de lo que se ve a simple vista».

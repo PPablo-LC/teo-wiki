@@ -47,12 +47,12 @@ PS subraya que Jesucristo fundó una sola Iglesia y habla de ella en singular: �
 
 PLDC presenta la unidad como el primer fruto verificable de la presencia del divino en la Iglesia (Parte IV, cap. 2, §1), fundada en la oración de Jesús: «siano anch'essi in noi una cosa sola» (Gv 17,21); con Schnackenburg, es unidad fundada en Dios, no solo unión «horizzontale». La unidad fecunda en tres niveles: (a) *unidad de la conciencia* — la lucidez experimentada sobre el sentido de la existencia, que es «el genio de la visión católica»: una unidad de actitud que valora todo sin escandalizarse de nada, sin necesidad de negar o renegar algo (Gv 3,16-17); (b) *unidad como explicación de la realidad* — el criterio de interpretación unitaria del real, que no es un principio intelectual sino una Persona; genera inclusividad y capacidad de crítica («Esaminate ogni cosa, trattenete ciò che vale», 1 Ts 5,21); (c) *unidad como impostación de la vida* — de donde nace el concepto de mérito: todo gesto, incluso el más oculto, es gesto responsable para el universo; la comunidad se hace fuente de la afirmación de la personalidad. En este horizonte, la liturgia es «creazione redenta e orante» (Guardini) y el trabajo el eco de la liturgia sobre el cosmos entero.
 
+
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — la unidad de los creyentes como «signo» de la presencia salvífica de Cristo: Cristo pide «que todos sean uno; como Tú, Padre, en mí y yo en ti, que también ellos sean uno en nosotros, para que el mundo crea que tú me has enviado» (Gv 17,20-23); ser cristiano, pertenecer a la Iglesia, es «la función suprema que un hombre está llamado a desempeñar en el mundo» (04, L39-55).
 - **Parte seconda (archivo `07_...`)** — la presencia del hecho cristiano «está en la unidad de los creyentes»: «este es el fenómeno más demostrativo: este es el milagro, el signo»; lo humanamente imposible —la abolición de la extrañeza y el nacimiento de una consanguinidad nueva que no viene de la carne— es la evidencia de la divinidad de Cristo (Gv 17,21; cfr. Gal 3,26-29); sin esa unidad visible «no se sostendría una religiosidad cristiana» (07, L155-157).
 - **Parte seconda** — la «reducción protestante» debilita la «unidad orgánica» del hecho cristiano: el aflojarse de la sequela al Pontífice (congregazionalismo, episcopalismo) rarefá el primado real del Vescovo di Roma y con él «el único anclaje adecuado de la relación con Dios, que es el misterio de la Iglesia en su totalidad» (07, L49-53).
-
 ## Distinciones importantes
 
 - Unidad esencial (indestructible, fundada por Cristo) vs. unidad visible (dañada por divisiones históricas)
@@ -75,8 +75,6 @@ D-44 (San Cornelio / San Cipriano): «Hay un solo Dios y un solo Señor Jesucris
 El **Papa Pelagio II** (585), en su carta a los obispos cismáticos de Istria (D-247), citando a San Agustín y San Cipriano, enseñó que la Iglesia está constituida en aquellos que presiden en las Sedes Apostólicas por sucesión de obispos; quien se separa de su comunión y autoridad está en cisma. Citando a Cipriano: «El comienzo parte de la unidad, y a Pedro se le da el primado para demostrar que la Iglesia y la cátedra de Cristo es una sola». El pecado de cisma es peor que el de quienes sacrificaron a los ídolos: «Aun cuando ardieren entregados a las llamas de la hoguera; aun cuando arrojados a las fieras den su vida, no será aquella la corona de la fe, sino el castigo de la perfidia; ni muerte gloriosa, sino perdición desesperada».
 
 ## Referencias
-
-- SDL, Parti quarta e seconda (archivos `04_parte_quarta_presenza_e_storia.md`, `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)
 
 - CEC §813-822; §866; §1271
 - TPCr, Tercera Parte, Libro II, Cap. I

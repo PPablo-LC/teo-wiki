@@ -33,8 +33,6 @@ El **primado de Pedro** es la preeminencia que Cristo confirió a [[san_pedro]] 
 
 ## Referencias
 
-- SDL, Parti quarta e seconda (archivos `04_parte_quarta_presenza_e_storia.md`, `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)
-
 - Mt 16,18–19; Jn 21,15–17
 - CEC 552–553, 880–882
 - Concilio Vaticano I, *Pastor Aeternus*

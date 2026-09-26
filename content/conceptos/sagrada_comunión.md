@@ -49,13 +49,6 @@ Santo Tomás trata la recepción de la eucaristía en las cuestiones 79 (efectos
 
 **Disposiciones para comulgar (Q80 a.1-9):** Para recibir dignamente la comunión se requiere: estado de gracia (sin pecado mortal), intención recta (devoción, no vanidad), ayuno corporal (Q80 a.8), y discernimiento del Cuerpo del Señor. Quien comulga indignamente recibe el sacramento pero no su gracia, y comete sacrilegio.
 
-### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
-
-Tóth despliega los efectos de la comunión con el **cuádruple efecto del pan del peregrino**: paz en la guerra, victoria en la lucha, ayuda en la necesidad y vida en la muerte [EMA, cap. 4]. La comunión da **fuerza** (los mártires: «entonces habrá en mí Alguien que sufrirá por mí»; «medicina de la inmortalidad») y **alegría** (banquete del Cordero, la alegría de las catacumbas) [EMA, cap. 11]; comunica además **valentía** para el «martirio incruento» de la vida cristiana, **serenidad** y **hermosura**: la conformidad con Cristo (Rom 8,29) como el escultor que trabaja el mármol del alma [EMA, cap. 12].
-
-**La comunión bien hecha** [EMA, cap. 13]: no basta no estar en pecado grave (1 Co 11,28; Trento); requiere avivar la **fe** (la confesión de Pedro ante la Hostia), la **esperanza** («Señor, ¿a quién iremos?») y el **amor** («¿Me amas tú más que estos?») antes de recibir, y **acción de gracias** después: «Somos dos: Jesús y yo» — cuya mejor forma es hacer la voluntad de Dios todo el día. El que comulga es Cristóforo: «llevas en hombros a quien lleva el universo».
-
-
 ## Ver también
 
 [[eucaristía]], [[misa]], [[primera_comunión]], [[viático]], [[ayuno_eucarístico]], [[comunión_espiritual]]
@@ -63,5 +56,4 @@ Tóth despliega los efectos de la comunión con el **cuádruple efecto del pan d
 ## Referencias
 
 - CIC cc. 910-923, 925
-- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 4, 11-13.
 - CEC §1373-1381, §1384-1401, §1418-1419

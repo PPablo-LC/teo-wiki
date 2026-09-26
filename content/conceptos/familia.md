@@ -98,6 +98,7 @@ La familia es «la primera y fundamental escuela de paz» [Muj 06 §7]. La madre
 La familia es «el lugar normal y originario» para la formación de los hijos en las virtudes y, por tanto, en la castidad; como [[iglesia_doméstica]] es «*la escuela más rica en humanidad*» (SHVS 48). Las ciencias psicológicas y la experiencia concuerdan en destacar «la importancia decisiva... del *clima afectivo que reina en la familia*», especialmente en los primeros años (SHVS 50). La familia cristiana es «capaz de ofrecer una atmósfera impregnada de aquel amor a Dios que hace posible el auténtico don recíproco»; es «la primera y fundamental escuela de socialidad» (SHVS 52). El papel de la familia es decisivo en el nacer de las vocaciones; donde existe una pastoral familiar adecuada «florecen las vocaciones» (SHVS 26). La familia debe ser ante todo «casa de fe y de oración» (SHVS 62). Es «el mejor ambiente para cumplir el deber de asegurar una gradual educación de la vida sexual», con «reservas afectivas capaces de llevar a aceptar, sin traumas, aun las realidades más delicadas» (SHVS 64).
 
 
+
 ### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
 
 Tóth abre con la familia como **célula de la sociedad**: fundamento del edificio cultural; donde la familia se disuelve, la sociedad pierde su papel en la historia [EMC, cap. 1]. El hogar feliz se sostiene en **la mesa familiar, el crucifijo y la cuna** [EMC, cap. 12].
@@ -107,8 +108,6 @@ Tóth abre con la familia como **célula de la sociedad**: fundamento del edific
 **La familia cristiana respeta y educa al niño:** «res sacra puer» — san Leónidas arrodillado ante el pequeño Orígenes: «adoro al Espíritu Santo que mora en él». La misión sacerdotal de los padres (enseñar a orar); el ejemplo de los padres y las virtudes a inculcar: obediencia, respeto a la autoridad, veracidad, pureza y educación religiosa [EMC, caps. 15-16].
 
 **La familia, ámbito de renovación de la humanidad:** santuario de virtudes y «puerta por la que entra la nueva generación humana»; la Iglesia como «segunda arca de Noé» que «salvará de nuevo la familia» [EMC, cap. 17].
-
-
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]
@@ -139,4 +138,3 @@ Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]
 - [CIC cc. 226, 1135-1136]
 - [FC §17, §18, §42, §43, §46, §47, §86]
 - [JdN_I, caps. 1]
-- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 1, 12-17.

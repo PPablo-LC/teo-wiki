@@ -43,7 +43,7 @@ Aislado y exhausto, el profeta exhausto yac bajo una retama. Es un retrato de la
 
 Dios responde al sufrimiento de Elías de manera gradual:
 
-**Primero, cuida sus necesidades físicas.** Le permite dormir —un recordatorio de atender lo básico: alimentación saludable, ejercicio, amistades, aire libre. Un ángel lo despierta diciendo: «Levántate y come» (1 Re 19,5). Dios provee un pan dePasswordField y un jarro de agua, la misma comida que la viuda de Sarepta le había dado antes (1 Re 17,13). Es una invitación a recordar que, como proveed a la viuda, proveerá para Elías. «Cuando los tiempos se pongan duros, asegúrate de que el Señor siempre proveerá para ti, ¡pero debes recordarlo!»
+**Primero, cuida sus necesidades físicas.** Le permite dormir —un recordatorio de atender lo básico: alimentación saludable, ejercicio, amistades, aire libre. Un ángel lo despierta diciendo: «Levántate y come» (1 Re 19,5). Dios provee un pan y un jarro de agua, la misma comida que la viuda de Sarepta le había dado antes (1 Re 17,13). Es una invitación a recordar que, como proveed a la viuda, proveerá para Elías. «Cuando los tiempos se pongan duros, asegúrate de que el Señor siempre proveerá para ti, ¡pero debes recordarlo!»
 
 **Después, lo lleva al Horeb.** Se le dice que suba al monte Horeb (Sinaí), donde Moisés pasó cuarenta días y noches con Dios (Ex 24,13). A diferencia del encuentro espectacular con Moisés —fuego, viento, terremoto—, Dios se revelará a Elías de modo sorprendentemente distinto.
 

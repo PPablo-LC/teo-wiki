@@ -88,11 +88,6 @@ Giussani parte de una crítica de la mentalidad moderna: «la mentalidad moderna
 
 PLDC documenta la degeneración histórica del concepto de razón (Parte I, cap. 3, §5): el racionalismo — desde la madurez del Renacimiento — concibe una razón «che non ammette né interferenza né integrazioni dal di fuori», *norma sui* y *norma universi* (Spinoza); la *illuminatio* agustiniana se convierte en autoiluminación de la razón autónoma. Contra ella, Giussani reivindica la ley suprema del realismo: «è l'oggetto a dettare il metodo di conoscenza» — la razón como conciencia del real en la totalidad de sus factores, donde existe la categoría de la posibilidad (el racionalismo es «l'abolizione della categoria della possibilità»). El corazón del desafío: «Che cosa è l'uomo? Un nulla capace di Dio» (de Bérulle); y la constatación final de la crisis: el hombre sin Dios «non ha più misura».
 
-### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
-
-- **Parte prima, Cap. 3 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — el laicismo produce una reducción del concepto de razón: la razón entendida como «medida del real» se vuelve una «habitación» (stanza) cerrada, destinada a convertirse en tumba del hombre; elimina la novedad («como en el meccano infantil: cambia la construcción formal, pero las piezas son siempre las mismas») y mortifica la aventura de la vida. Para la tradición cristiana, en cambio, «la razón es una mirada abierta, no stanza sino *finestra* abierta sobre una realidad en la que no ha terminado de entrar»: razón = conciencia de la realidad según la totalidad de sus factores, por lo que «la religiosidad es el culmen de la racionalidad» en cuanto afirmación del significado total.
-- **Parte prima, Cap. 3** — la categoría de la posibilidad como dimensión característica de la razón verdadera (Einstein: quien no reconoce el «insondable misterio» no podría ser ni científico); la razón no es creadora de la realidad.
-
 ## Relaciones doctrinales
 
 Se relaciona con la [[fe]], la [[verdad]], la [[libertad]], la [[ley_natural]], la [[revelación]], la [[gracia]], la [[filosofía]], la [[teología]] y el [[conocimiento_de_dios]].
@@ -102,8 +97,6 @@ Se relaciona con la [[fe]], la [[verdad]], la [[libertad]], la [[ley_natural]], 
 [[fe_y_razón]], [[ley_natural]], [[conocimiento_de_dios]], [[verdad]], [[libertad]], [[filosofía_cristiana]]
 
 ## Referencias
-
-- SDL, Parte prima, Cap. 4 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
 
 - [CEC §1954-1960, §2700-2719]
 - [Fides et Ratio, passim, especialmente §§4, 16, 22, 36-48, 83-84]

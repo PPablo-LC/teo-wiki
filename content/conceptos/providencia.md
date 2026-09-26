@@ -103,11 +103,11 @@ La fuente muestra la providencia en tres modos:
 
 La providencia es la idea de Dios que ordena todo a un fin, el bien divino; su fuente es la sabiduría divina. Su alcance es universal: «si algo estuviera excluido de su providencia, se aniquilaría», pues escaparía de la causa universal del ser; Dios no está fuera de su creación (como el alfarero del vaso) sino en ella sosteniéndola. Incluye el azar, la necesidad y la contingencia: los acontecimientos son totalmente de Dios y totalmente de las causas secundarias (*in virtute divina*); «lejos de contradecir la providencia, el azar la presupone y la prueba» — lo no intencional presupone lo intencional. El mal cae dentro de la providencia porque cae dentro la libertad; incluso el mal puede llevar a un bien (la maldad de los perseguidores, causa de la virtud de los mártires). La oración no cambia el plan: **es parte del plan** — «Dios concede algunas cosas que sabe serán pedidas»; orar no informa a Dios, sino que muestra el deseo y dispone a recibir; «no movemos a Dios con la oración: Él nos mueve a orar».
 
+
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — dentro de la belleza del cosmos hay «un signo aún más claramente elocuente, una palabra más cercana: el moto del cosmos, ese orden que nos da el día y la noche, los ciclos de las estaciones, los ritmos de la naturaleza que nos aseguran las siembras y las cosechas»; «esta es la presencia más sentida: es la primera revelación de la Providencia, como estable significado y utilidad de las cosas» (L45-47).
 - **Parte seconda** — la prueba que Pablo lleva a los paganos de Listra (At 14,15-17: «no se dejó a sí mismo sin testimonio, otorgando lluvias del cielo y estaciones fructíferas») y el eco de la promesa a Noé (Gn 8,21-22: «mientras la tierra exista, la sementera y la cosecha, el frío y el calor, el verano y el invierno, la noche y el día no cesarán»); y no solo el movimiento de la naturaleza sino el de los hombres y los pueblos (At 17,26-28): «Él no está lejos de cada uno de nosotros, pues en Él tenemos la vida, el movimiento y el ser» (L49-53).
-
 ## Distinciones importantes
 
 - **Providencia (razón del orden) vs. gobierno (ejecución del orden)**: la primera es eterna; la segunda, temporal.
@@ -131,8 +131,6 @@ Se relaciona con la [[predestinación]] (q.23, que es la providencia respecto al
 [[providencia_divina]], [[predestinación]], [[creación]], [[confianza_en_dios]], [[abandono_en_la_providencia_divina]], [[oración]], [[voluntad_de_dios]]
 
 ## Referencias
-
-- SDL, Parte seconda, Cap. 2 (archivo `02_parte_seconda_conoscenza_e_mistero.md`)
 
 - CEC §301-314, la providencia
 - CEC §321-324, providencia y oración

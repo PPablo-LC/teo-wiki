@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Algunas notas sobre el proceso de redacción de laRatio institutionis"
+title: "Algunas notas sobre el proceso de redacción de la Ratio institutionis"
 fuente: Ratio_Institutionis-Christus_Vita_Vestra
 capítulo: 1
 timestamp: 2026-08-24
-description: "Resumen de 'Algunas notas sobre el proceso de redacción de laRatio institutionis' — Ratio_Institutionis-Christus_Vita_Vestra"
+description: "Resumen de 'Algunas notas sobre el proceso de redacción de la Ratio institutionis' — Ratio_Institutionis-Christus_Vita_Vestra"
 tags: ["resumen", "ratio institutionis-christus vita vestra"]
 ---
 
-# Algunas notas sobre el proceso de redacción de laRatio institutionis
+# Algunas notas sobre el proceso de redacción de la Ratio institutionis
 
 ## Conceptos básicos referenciados
 

@@ -116,6 +116,7 @@ La sección «Soul» añade que, en la [[era_secular]], el escepticismo ante la 
 
 La sustancia es entera en el todo y entera en la parte: por eso el Cristo entero está bajo cada especie, y no se rompe cuando se rompen las apariencias («se rompe el signo, no la realidad», Lauda Sion); los sentidos no se engañan — ven lo que hay: apariencias divididas. Contra Berengario: lo que se come, se come bajo sus propias apariencias — pero Cristo está bajo apariencias *sacramentales*, no propias; contra la transignificación (cambio nominal: la moneda sigue siendo plata, el pan no queda pan): Jesús «no dice 'significa mi carne' sino 'ES mi carne': lo que se come en realidad es verdaderamente el cuerpo de Cristo». Cristo oculto bajo las apariencias: en la tierra su humanidad era visible y su divinidad oculta; aquí su humanidad también está oculta — hay que entrar por el velo, como el sumo sacerdote en el Santo de los santos. El cuerpo en el sacramento es el mismo que en el cielo, con un modo de existencia distinto (en el cielo en su apariencia propia; en el sacramento como la sustancia es); y el sacramento es «de la verdad»: no hay engaño — la fe aprehende la realidad; «nil hoc verbo veritatis verius» (Adoro te devote).
 
+
 ### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
 
 Tóth funda la presencia real en la **interpretación literal de Jn 6**: Cristo no corrigió el escándalo de sus oyentes («¿Cómo puede éste darnos a comer su carne?»), como corrigió otros malentendidos, sino que insistió con mayor crudeza [EMA, cap. 2]. El argumento decisivo es el de la adoración: si Cristo no estuviera realmente presente en la Hostia, la adoración de la Iglesia sería idolatría; y Cristo no pudo dejar en error a su Iglesia durante veinte siglos. El acuerdo de los cinco autores inspirados (Jn: la promesa; Mt, Mc, Lc y Pablo: la institución) descarta la lectura simbólica.
@@ -123,8 +124,6 @@ Tóth funda la presencia real en la **interpretación literal de Jn 6**: Cristo 
 **El símil del espejo.** Como un espejo roto refleja la imagen entera en cada fragmento, así Cristo entero está en cada partícula de la Hostia; recoge el verso tomista: «uno o mil su cuerpo tomen, en todos y cada uno entero vive» [EMA, cap. 3]. Frente a los sentidos («nada veo»), apela a realidades invisibles pero verdaderas —la rotación de la Tierra, la presión atmosférica—. El **milagro de Bolsena** (1263), del que nació el Corpus Christi y la catedral de Orvieto, es la «piedra de toque de la fe»: donde la fe vacila, la señal la confirma.
 
 **El prodigio del amor divino.** La presencia real es abnegación de Cristo: «¿A quién quiso dejarnos? ¿Un recuerdo, una imagen? A nadie: a sí mismo» — permaneciendo oculto y vigilante en el Sagrario, intercediendo y expiando por el mundo [EMA, cap. 3].
-
-
 ## Distinciones importantes
 
 - Presencia real no es solo presencia simbólica ni espiritual
@@ -146,4 +145,3 @@ Tóth funda la presencia real en la **interpretación literal de Jn 6**: Cristo 
 - Salkeld, Brett. «What is the Catholic Teaching on Christ's Eucharistic Presence?», en *Evangelization & Culture* 13 (Autumn 2022).
 - Barron, Robert. «If It's a Symbol, to Hell with It: Bishop Barron on the Eucharist», en *Evangelization & Culture* 13 (Autumn 2022).
 - O'Malley, Timothy P. «Eucharistic Personhood», en *Evangelization & Culture* 13 (Autumn 2022).
-- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 2-3.

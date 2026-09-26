@@ -42,7 +42,7 @@ libertad; su crisis moderna es la ideología de la autoinvención.
 - **Identidad** (unidad personal estable) ≠ **roles** (funciones
   cambiables); ≠ **personalidad** (temperamento, psique).
 - **Identidad cristiana** ≠ disolución de la persona en el colectivo: la
-  filiación divina singulariza, no anonadа.
+  filiación divina singulariza, no anonada.
 
 ## Relaciones doctrinales
 

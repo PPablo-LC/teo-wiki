@@ -64,7 +64,7 @@ La resurrección significa el cumplimiento definitivo de la redención del cuerp
 
 Bishop Robert Barron dedica la Lección 10 completa ("Mundo sin fin") a la escatología, presentándola como la culminación de toda la historia de la salvación. Su enfoque es **pastoral y apologético**: la escatología no es terror sino la promesa de que Dios cumplirá su palabra.
 
-**Juicio particular (§31-60):** "Después de la muerte, cada alma será juzgada". Barron insiste en que el juicio particular es real y personal: cada unoComparece solo ante Dios. La muerte "fija irrevocablemente" el destino del alma.
+**Juicio particular (§31-60):** "Después de la muerte, cada alma será juzgada". Barron insiste en que el juicio particular es real y personal: cada uno comparece solo ante Dios. La muerte "fija irrevocablemente" el destino del alma.
 
 **Cielo (§61-90):** El cielo es la "visión beatífica" — ver a Dios cara a cara. No es un lugar geográfico sino una relación plena con Dios. La felicidad del cielo es proporcional a los méritos de cada uno en esta vida.
 

@@ -17,7 +17,7 @@ description: "*Una Visita de Dios* (subtítulo.)"
 ## Estructura
 
 **Primera parte**: Palabras de consuelo del Papa a los que sufren
-- a) En los seres queridos: sentido de la vida, del dolor, de la muerte; laProvidencia Divina; el valor del acompañamiento; ver a Cristo en el enfermo; la ancianidad; el hospital como Calvario; el personal sanitario como «buenos samaritanos»; el sacramento de la Reconciliación
+- a) En los seres queridos: sentido de la vida, del dolor, de la muerte; la Providencia Divina; el valor del acompañamiento; ver a Cristo en el enfermo; la ancianidad; el hospital como Calvario; el personal sanitario como «buenos samaritanos»; el sacramento de la Reconciliación
 - b) En su propio ser: unión del Papa con los enfermos; la alegría de estar en gracia; la solidaridad por el dolor; el consuelo de mirar a Cristo; la vida eterna; la Unción de Enfermos; la Resurrección
 
 **Segunda parte**: Nuestra Señora de Lourdes, consuelo de los que sufren

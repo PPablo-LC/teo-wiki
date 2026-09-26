@@ -47,7 +47,7 @@ El delito comprende **todo pecado externo contra el sexto mandamiento** cometido
 
 ### II. Notitia de delicto (nn. 9–31)
 
-**Qué es** (nn. 9–15): Toda información sobre un posible delito que llegue al Ordinario o Jerarca, de cualquier fuente (denuncia formal, oral, escrita, autoridades civiles, medios de comunicación, rumores). No es necesario que sea una denuncia formal. El anonimato no lleva a descartarla automáticamente, pero exige cautela. La noticia adquirida en confesión está bajo **estRICTÍSIMO vínculo del sigilo sacramental** (c. 983 §1 CIC).
+**Qué es** (nn. 9–15): Toda información sobre un posible delito que llegue al Ordinario o Jerarca, de cualquier fuente (denuncia formal, oral, escrita, autoridades civiles, medios de comunicación, rumores). No es necesario que sea una denuncia formal. El anonimato no lleva a descartarla automáticamente, pero exige cautela. La noticia adquirida en confesión está bajo **estrictísimo vínculo del sigilo sacramental** (c. 983 §1 CIC).
 
 **Investigación previa** (nn. 16–30): Recibida la *notitia de delicto*, se realiza investigación previa si es «*saltem verisimilis*». Si no lo es, se conserva la documentación con las razones de la decisión. Se recomienda informar a autoridades civiles cuando sea indispensable para proteger a menores. La omisión de investigar puede constituir delito (c. 1717 CIC; *Como una madre amorosa*; VELM art. 1 §1, b).
 

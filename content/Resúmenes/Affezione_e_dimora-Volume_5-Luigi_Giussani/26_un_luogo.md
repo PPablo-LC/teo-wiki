@@ -29,7 +29,7 @@ El encuentro abre con la recitación de las estrofas 8-9 del himno *Christe cunc
 
 #### ¿Por qué debe venire Él para que podamos encontrarlo?
 
-Giussani plantea que, si el Misterio es realmente tal —incommensurable con el hombre—, no puede ser encontrado por un movimiento自主del hombre hacia él; solo puede ser encontrado si es Él quien se mueve hacia el hombre. Hay tres posibilidades de «revelación» del Mistero:
+Giussani plantea que, si el Misterio es realmente tal —incommensurable con el hombre—, no puede ser encontrado por un movimiento autónomo del hombre hacia él; solo puede ser encontrado si es Él quien se mueve hacia el hombre. Hay tres posibilidades de «revelación» del Mistero:
 
 1. **Desde el pasado**: como un gran pasado que el hombre debe interpretar. Pero entonces cada uno interpreta a su manera (*tot capita tot sententiae*), y cada religión se convierte en una imagen fabricada por el hombre.
 2. **Desde el futuro**: como una esperanza imaginada. Pero también queda sujeta a la fantasía y la presunción humana.

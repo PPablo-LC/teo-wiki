@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization and culture - 23"]
 
 ## Conceptos básicos referenciados
 
-- [[misericordia]] —中心 del programa: descubrir de nuevo la misericordia salvadora de Cristo
+- [[misericordia]] — centro del programa: descubrir de nuevo la misericordia salvadora de Cristo
 - [[evangelización]] — misión de Word on Fire: proclamar a Cristo en la cultura
 - [[gracia]] — don gratuito de Dios que posibilita la conversión y la vida cristiana
 - [[bautismo]] — fuente de la vida plena y compañía de la Iglesia

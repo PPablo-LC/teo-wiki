@@ -33,8 +33,6 @@ El **racionalismo** es la corriente filosófica que exalta la [[razón]] humana 
 
 ## Referencias
 
-- SDL, Parte prima, Capp. 1-2, 4 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
-
 - Concilio Vaticano I, *Dei Filius*
 - CEC 36–38
 - Pío X, *Pascendi Dominici Gregis*

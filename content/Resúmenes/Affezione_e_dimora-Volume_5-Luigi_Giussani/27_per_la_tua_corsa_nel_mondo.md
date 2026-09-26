@@ -48,7 +48,7 @@ Una joven medita sobre la objetividad del templo: la casa es el trozo de espacio
 
 #### La dignidad ontológica de los compañeros
 
-La年轻人 Anna reflexiona: María vivió su relación con el Misterio viviendo la dependencia de ese niño; los apóstoles entendieron quiénes eran y qué era el Misterio en la amistad con Jesús. Giussani confirma: estar juntos en la casa tiene una dignidad directamente derivada de Dios, ontológicamente perfecta. No es necesario que cada persona sea «buena»; el hecho de estar ahí es pura voluntad de Dios. El sacrificio de la cruz se convierte en la misericordia paciente de Dios sobre los demás.
+La joven Anna reflexiona: María vivió su relación con el Misterio viviendo la dependencia de ese niño; los apóstoles entendieron quiénes eran y qué era el Misterio en la amistad con Jesús. Giussani confirma: estar juntos en la casa tiene una dignidad directamente derivada de Dios, ontológicamente perfecta. No es necesario que cada persona sea «buena»; el hecho de estar ahí es pura voluntad de Dios. El sacrificio de la cruz se convierte en la misericordia paciente de Dios sobre los demás.
 
 > La dignidad no viene de tu cálculo sobre si cambian o no. Mirándoles dices: «¿Quién me las puso aquí?». El hecho de estar allí es purísimo: es voluntad, diseño de Dios.
 

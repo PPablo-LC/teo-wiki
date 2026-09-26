@@ -51,11 +51,11 @@ Fr. Blake Britton describe una epidemia de soledad en la era digital: aunque cad
 
 **La soledad del yo ante la fe (cap. II).** La adhesión razonable a la fe —como la del niño a sus padres— se adquiere también en la soledad del juicio personal: nadie puede creer por otro, y cada hombre debe alcanzar por sí mismo los motivos de credibilidad (SR, `09_capitolo_secondo.md`, §45-63).
 
+
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — la soledad como consecuencia del yo-misura-de-la-realidad: «si el hombre es medida de todo, es solitario, como un dios sin compañía»; Sartre: «¿mis manos, qué son mis manos? La distancia inconmensurable que me divide del mundo de los objetos y me separa de ellos para siempre» — «cada apretón aleja del objeto que se retira… una soledad abisal»; el hombre «condenado a una cierta concepción de la libertad descubre que la libertad es extrañeza: está libre para nada» (L291).
 - **Parte prima** — a esa soledad solo responde un amor al destino del otro: comentando a Pavese —«todos quieren decir: sé cómo estás hecho, y servirse de ello, pero nadie le concede un día de simpatía total»— «para conceder crédito de simpatía total a un hombre es necesario un amor a su destino» (L289).
-
 ## Distinciones importantes
 
 - Soledad eremítica (búsqueda de Dios) vs. soledad de abandono (sufrimiento)
@@ -76,8 +76,6 @@ León XIV aborda la soledad sacerdotal como uno de los riesgos más graves del m
 [[desierto]], [[retiro_espiritual]], [[vida_eremítica]], [[noche_oscura]], [[abandono_en_dios]]
 
 ## Referencias
-
-- SDL, Parte prima, Cap. 4 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)
 
 - VocTeoBib, artículo «Soledad», Xavier León-Dufour (ed.)
 - Mc 1,35; Lc 6,12; Mc 15,34; Jn 16,32; Os 2,16

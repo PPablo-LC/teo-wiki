@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "Naturaleza y finalidad de estaGuía"
+title: "Naturaleza y finalidad de esta Guía"
 fuente: Guia_liturgia-2024
 capítulo: 2
 timestamp: 2026-08-15
@@ -8,7 +8,7 @@ description: "Naturaleza y finalidad de la Guía de liturgia y oración en comú
 tags: ["resumen", "guia liturgia-2024"]
 ---
 
-# Naturaleza y finalidad de estaGuía
+# Naturaleza y finalidad de esta Guía
 
 ## Conceptos básicos referenciados
 
@@ -34,4 +34,4 @@ tags: ["resumen", "guia liturgia-2024"]
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | Naturaleza y finalidad de estaGuía |
+| 1 | H1 | Naturaleza y finalidad de esta Guía |

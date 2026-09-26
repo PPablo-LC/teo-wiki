@@ -34,7 +34,7 @@ Kaczor argumenta que estos resultados son inesperados, tanto desde la perspectiv
 
 Dios no es un títere que manipulemos, sino un **Padre** a quien podemos acudir. Dios elige responder a la oración porque quiere fomentar una relación con nosotros y convertirnos en mejores hijos suyos —del mismo modo que un padre concede lo que sus hijos piden condicionado a que digan "por favor" para fomentar la cortesía. Dios no siempre concede lo que se pide porque a veces juzga que no es bueno.
 
-La oración de petición no siempre conduce a la sanación milagrosa. El sufrimiento y la muerte son un misterio: la voluntad de Dios al permitir el mal permanece incomprensible, pues su esencia es infinita. Sin embargo, Jesús nos muestra que el sufrimiento no es señal de que Dios no nos escuche:尽管 amó al Padre más que nadie, no fue exento de la [[pasión]] en Getsemaní. Aquellos que sufren y mueren se hacen semejantes a [[cristo]]. "La pasión de Cristo es la compasión de Dios." Los moribundos no están abandonados, pues es por la muerte que los enfermos son conducidos a la vida eterna.
+La oración de petición no siempre conduce a la sanación milagrosa. El sufrimiento y la muerte son un misterio: la voluntad de Dios al permitir el mal permanece incomprensible, pues su esencia es infinita. Sin embargo, Jesús nos muestra que el sufrimiento no es señal de que Dios no nos escuche: aunque amó al Padre más que nadie, no fue exento de la [[pasión]] en Getsemaní. Aquellos que sufren y mueren se hacen semejantes a [[cristo]]. "La pasión de Cristo es la compasión de Dios." Los moribundos no están abandonados, pues es por la muerte que los enfermos son conducidos a la vida eterna.
 
 ### El verdadero poder de la oración
 

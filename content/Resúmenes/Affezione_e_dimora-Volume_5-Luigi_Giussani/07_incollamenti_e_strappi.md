@@ -47,7 +47,7 @@ Los «encolamientos» afectivos corresponden al sentimiento pero no al juicio. E
 
 ### La cultura di oggi odia il padre
 
-La cultura contemporánea odia al padre porque la paternidad implica que lo que uno es depende de algo que vino antes. Reconocer la paternidad es obedecer; la obediencia es la virtud de la vida. Sin embargo, la mentalidad actualReduce la paternidad a dispotismo o sentimentalismo, destruyendo en ambos casos el valor de la preferencia.
+La cultura contemporánea odia al padre porque la paternidad implica que lo que uno es depende de algo que vino antes. Reconocer la paternidad es obedecer; la obediencia es la virtud de la vida. Sin embargo, la mentalidad actual. Reduce la paternidad a dispotismo o sentimentalismo, destruyendo en ambos casos el valor de la preferencia.
 
 ### Dispotismo o sentimentalismo
 
@@ -71,7 +71,7 @@ Una joven compartió la carta de su ex novio al entrar en la casa: «Sé que te 
 
 ### Il sacrificio: riconoscere una Presenza (continuación)
 
-La memoria (*Memores Domini*) es la sustancia de la persona; la persona está hecha de un Otro. El método más fácil para comprender todo esto es preguntar y seguir: ser padre y madre, no simplemente tener «el bello o la bella». La historia de la novicia que leyó la carta de su ex novio, la segunda noche compartió la tentación del gesto de cariño contenido por respeto, y la tercero la或ación de la niña que le acarició el cabello como un milagro, ilustra cómo la pureza y el sacrificio abren a una humanidad más profunda.
+La memoria (*Memores Domini*) es la sustancia de la persona; la persona está hecha de un Otro. El método más fácil para comprender todo esto es preguntar y seguir: ser padre y madre, no simplemente tener «el bello o la bella». La historia de la novicia que leyó la carta de su ex novio, la segunda noche compartió la tentación del gesto de cariño contenido por respeto, y la tercero la oración de la niña que le acarició el cabello como un milagro, ilustra cómo la pureza y el sacrificio abren a una humanidad más profunda.
 
 ### La necessità di un tema per il raduno
 

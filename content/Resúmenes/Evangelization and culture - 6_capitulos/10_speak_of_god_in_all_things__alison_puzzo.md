@@ -28,7 +28,7 @@ En 2016, Puzzo volvió a la confesión después de 20 años. En una Misa, el sac
 
 ### El Programa Cornerstone
 
-Después de la confesión, empezó a trabajar con el programa de formación de padres. «Supe que la Iglesia Católica tenía lo que los demás buscaban, pero tal vez necesitábamos hacerlo de manera más atractiva, más fácil». Atrajeron a 200 padres en dos seminarios y currentPositionmente más de 3,500 graduados en 100 parroquias.
+Después de la confesión, empezó a trabajar con el programa de formación de padres. «Supe que la Iglesia Católica tenía lo que los demás buscaban, pero tal vez necesitábamos hacerlo de manera más atractiva, más fácil». Atrajeron a 200 padres en dos seminarios y actualmente más de 3.500 graduados en 100 parroquias.
 
 ### Madres evangelizadoras
 

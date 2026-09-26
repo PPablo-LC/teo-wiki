@@ -55,16 +55,15 @@ El aborto es un pecado mortal gravísimo que atenta contra la vida inocente. Con
 El desorden en el uso del sexo «lleva sucesivamente al desprecio de la vida humana concebida que se considera como un mal que amenaza el placer personal. "La banalización de la sexualidad", en efecto, "es uno de los factores principales que están en la raíz del desprecio por la vida naciente: sólo un amor verdadero sabe custodiar la vida"» (SHVS 105). El carácter inmoral del aborto «procurado quirúrgica o químicamente, antes de la adolescencia puede ser explicado gradualmente en los términos de la moral católica y de la reverencia por la vida humana» (SHVS 137). El documento rechaza «la educación sexual secularizada y antinatalista, que pone a Dios al margen de la vida y considera el nacimiento de un hijo como una amenaza», difundida por organismos promotores del aborto, la esterilización y la contracepción (SHVS 136).
 
 
+
+### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
+
+Tóth cierra su condena del matrimonio deliberadamente estéril contrastando la matanza de los inocentes de Herodes con las madres modernas que «van en busca del verdugo y le pagan por matarlos» [EMC, cap. 13] — anticipación profética de la crisis abortiva. Frente a ella, exalta a las **mártires de la maternidad**, madres que arriesgan la vida por el hijo (1 Tim 2,15: «se salvarán dando a luz») [EMC, cap. 14].
 ## Distinciones importantes
 
 - **Aborto directo vs. indirecto**: el aborto directo (intencional) siempre es ilícito; el indirecto (consecuencia no querida de un acto lícito) requiere análisis moral particular
 - **Aborto terapéutico**: la Iglesia no acepta el aborto terapéutico directo, aunque puede permitirse la remoción de un órgano enfermo aunque resulte la muerte del feto (principio del doble efecto)
 - **Excomunión**: el aborto acarrea excomunión *latae sententiae* (c.1398)
-
-### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
-
-Tóth cierra su condena del matrimonio deliberadamente estéril contrastando la matanza de los inocentes de Herodes con las madres modernas que «van en busca del verdugo y le pagan por matarlos» [EMC, cap. 13] — anticipación profética de la crisis abortiva. Frente a ella, exalta a las **mártires de la maternidad**, madres que arriesgan la vida por el hijo (1 Tim 2,15: «se salvarán dando a luz») [EMC, cap. 14].
-
 
 ## Relaciones doctrinales
 
@@ -79,4 +78,3 @@ Se vincula con la [[vida_humana]], la [[dignidad_del_nacer]], los [[mandamientos
 - [CIC c.1398]
 - [CompDS §227-228]
 - [TPCr, Tercera Parte]
-- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 13-14.
