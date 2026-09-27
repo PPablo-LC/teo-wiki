@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-09-25'
+updated: '2026-09-26'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -2928,6 +2928,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[santidad_en_el_anticuo_testamento]]
 - [[santidad_en_el_nuevo_testamento]]
 - [[santidad_inicial]]
+- [[santidad_laical]]
 - [[santidad_moral_como_coincidencia_conciencia-elección]]
 - [[santidad_ontológica_inicial]]
 - [[santificación]]
@@ -3922,6 +3923,8 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[san_jerónimo_emiliano]]
 - [[san_josé]]
 - [[san_josé_de_cupertino]]
+- [[san_jose_rafael_kalinowski]]
+- [[san_josé_rafael_kalinowski]]
 - [[san_josemaría_escrivá]]
 - [[san_juan_bautista]]
 - [[san_juan_bosco]]
@@ -4242,6 +4245,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[recopilación_de_mensajes_a_las_mujeres]]
 - [[redemptor_hominis]]
 - [[redemptoris_mater]]
+- [[retratos_de_santos]]
 - [[rites_and_wrongs_of_liturgy]]
 - [[ritratti_di_santi]]
 
