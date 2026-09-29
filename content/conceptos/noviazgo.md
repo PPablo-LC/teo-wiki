@@ -34,3 +34,4 @@ Tóth dedica el cap. 4 a la **preparación para el matrimonio**: la elección de
 
 - [CEC §1632]
 - [FC §66]
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 4-5.

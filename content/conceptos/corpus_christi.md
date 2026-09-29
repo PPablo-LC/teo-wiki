@@ -56,3 +56,4 @@ Se vincula con la [[eucaristía]] (misterio celebrado), la [[presencia_real]] (d
 - CEC §1374; §1379; §1382
 - CIC cc. 934-944
 - Urbano IV, bula Transiturus de hoc mundo (1264)
+- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 1, 3.

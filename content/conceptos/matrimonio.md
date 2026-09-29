@@ -306,3 +306,4 @@ Tóth traza el arco completo del matrimonio: institución divina en la creación
 - AED, 33, 61-65 — Tischrede 49: *La discrezione* — la relación hombre-mujer, ordenada al reino de los cielos.
 - AED, 33, 75 — Tischrede 49: *La discrezione* — el reino hace resultar la belleza y la permanencia del amor.
 - AED, 33, 83-85 — Tischrede 49: *La discrezione* — la fidelidad como moralidad del amor.
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 2-8, 12, 17.

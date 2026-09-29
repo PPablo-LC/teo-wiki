@@ -86,6 +86,10 @@ Barron añade la condición cultural: los sistemas económicos y políticos debe
 - [[closing_keynote_virtuous_leader]]
 - [[john_wissler_virtuous_leadership]]
 
+### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
+
+Aplicado al matrimonio, Tóth subordina los intereses individuales al **bien común**: el divorcio defiende intereses particulares a costa de la sociedad; el Estado es incapaz de crear los fundamentos morales del matrimonio (el fracaso de las leyes de Augusto), y la defensa de la indisolubilidad por parte de la Iglesia es un servicio a la humanidad entera [EMC, caps. 11, 17].
+
 ## Ver también
 [[justicia_social]], [[virtud_de_la_justicia]], [[virtud_de_la_caridad]], [[persona_humana]], [[solidaridad]]
 
@@ -95,3 +99,4 @@ Barron añade la condición cultural: los sistemas económicos y políticos debe
 - [CEC §1877-1889]
 - [CEC §1928-1948]
 - [GS 25-26]
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 11, 17.

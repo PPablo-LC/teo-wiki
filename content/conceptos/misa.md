@@ -111,3 +111,4 @@ Tóth recorre las partes de la misa como el «engarce del diamante»: todo el ri
 - CEC §1345-1355
 - CEC §1382-1419
 - TPCr, Parte III, Libro II, Cap. I
+- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 6, 8-10.

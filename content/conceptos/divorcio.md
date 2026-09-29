@@ -53,3 +53,4 @@ Se relaciona con [[matrimonio]], [[indisolubilidad]], [[uniones_de_hecho]], [[fa
 
 - [CompDS §225-226]
 - SmTh, Suppl., q. 62, q. 67
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 10-11, 17.

@@ -52,3 +52,4 @@ El matrimonio mixto se relaciona con el [[matrimonio]], los [[impedimentos_dirim
 
 - CEC §1634-1637
 - CIC cc. 1124-1131
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), cap. 4.

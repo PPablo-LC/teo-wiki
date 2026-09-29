@@ -4631,3 +4631,71 @@ Obsidian/Quartz; quedan anotados como mejora futura de estilo.
 | `[[castillo_interior]]` | 1 | Nuevo, sembrado en `09_teresa_de_jesus.md` (L367-381): la metáfora del castillo del alma con moradas y miles de aposentos dispuestos concéntricamente en torno a la morada central donde habita la Santísima Trinidad; la puerta de entrada es la oración, siempre abierta. Título de la obra maestra de santa Teresa de Jesús. Requiere artículo propio. |
 | `[[memoria_de_dios]]` | 1 | Nuevo, sembrado en `09_teresa_de_jesus.md` (L189-193): el «recuerdo lo llena de silencio» (Laurentius el Eremita) que permite decir y amar de nuevo todo, pero «en Él»; el silencio último de quien recuerda siempre lo que le ha sucedido. Requiere artículo propio. |
 | `[[voto_de_lo_más_perfecto]]` | 1 | Nuevo, sembrado en `09_teresa_de_jesus.md` (L317-323): compromiso de «actuar con la máxima perfección posible», elegir en cada ocasión la mejor manera de complacer a Dios; tan radical que los confesores de Teresa lo hicieron matizar. Distinto de [[voto_de_castidad]], [[voto_de_pobreza]] y [[voto_de_obediencia]]. Requiere artículo propio. |
+
+## Sembrados por el índice de La convenienza umana della fede (CUDF) — L. Giussani (2026-09-29)
+
+Al indexar y validar `raw/Bases_doctrinales-raw/la_convenienza_umana_della_fede_capitoli/`
+(*La convenienza umana della fede*, 1985-1987; *Cristianesimo alla prova*, vol. 2,
+a cura di Julián Carrón) se sembraron **30 forward references** sin artículo
+propio. Verificación programática: 109 wikilinks únicos en el índice, 79
+resueltos contra el inventario de `wiki/`, estos 30 pendientes en el momento
+de la siembra.
+
+**Actualización de 2026-09-29 (fase 5):** al crear el artículo de la persona,
+uno de estos 30 queda resuelto — `[[julian_carron]]`
+(`wiki/personas/julian_carron.md`) y `[[conveniencia_humana_de_la_fe]]`
+(`wiki/conceptos/conveniencia_humana_de_la_fe.md`, fase 7). Quedan **28
+huérfanos** pendientes.
+
+⚠️ **Dos nombres distintos, ahora ambos con artículo:** el descriptivo de la
+obra es `la_convenienza_umana_della_fede.md`
+(`wiki/documentos/`), porque sigue el título completo del volumen, como
+`affezione_e_dimora.md` o `il_senso_religioso.md`. La **noción** —la
+«conveniencia humana» de la fe— tiene su propio artículo de concepto,
+`conveniencia_humana_de_la_fe.md` (`wiki/conceptos/`). No fusionarlos.
+
+La columna «Índice» da las líneas del `índice.md` de la fuente, para poder
+volver al pasaje concreto del raw.
+
+| Wikilink | Índice | Nota |
+|----------|--------|------|
+| `[[julian_carron]]` | L52, L61, L767 | **RESUELTO** (`wiki/personas/julian_carron.md`, creado 2026-09-29). Era el único de los 30 ya cubierto. Firma de la presentación (00, 5, 99, 119) y curador de los cinco volúmenes de *Cristianesimo alla prova*. **Corrige un error previo:** `progreso/GiussaniCL_progress.md` afirmaba que ya tenía artículo. Es la figura central de las 5 fuentes del lote. |
+| `[[conveniencia_humana_de_la_fe]]` | L38, L249, L354, L776 | **RESUELTO** (`wiki/conceptos/convenienza_umana_della_fede.md`, 2026-09-29). ⚠️ No confundir con el documento `la_convenienza_umana_della_fede.md`. La noción era: la noción que da título a la obra — la «convenienza umana» de la fe, «al di là di ogni calcolo» (00, 27-29, 91; 01, 329-333, 359). La wiki tiene `[[fe]]` y `[[razonabilidad]]`, pero no esta tesis de fondo. |
+| `[[compagnia_vocacional]]` | L162, L772 | Nuevo: la Fraternità de CL y sus «condizioni» (02, 229-257) como grupo de vida vocacional; 03 (199) lo liga al «fare un tipo umano». **No** se retargetea a `[[vocación]]`: la vocación es un tema individual, la compagnia es eclesiológica. |
+| `[[caritas]]` | L771-772 (03, 181-183) | Nuevo: la parábola rusa de la carriola, donde el amor es lo que la vida no puede dejar de ser y acaba siendo reconocido como caridad. Se conserva la forma latina *caritas* del original; la wiki usa `[[caridad]]`. |
+| `[[heroísmo_de_santidad]]` | L165 (01, 343-347) | Nuevo: el cristianismo como «concretez» y la gran compañía de la Iglesia. Distinto de `[[santidad]]` (estado) y de `[[santidad_como_tarea]]`/`[[santidad_como_don]]` ya registradas: aquí el foco es el carácter heroico de la vocación cristiana. |
+| `[[historicidad]]` | L | **RESUELTO** (`wiki/conceptos/historicidad.md`, 2026-09-29).170, L429 (01, 343-347; 03, 251) | Nuevo: el «rapporto storico» de Cristo con nosotros, tesis del título de 03 (*Sperimentare Cristo in un rapporto reale e storico*). Sin candidato canónico en la wiki. |
+| `[[identificación_con_cristo]]` | L | **RESUELTO** (`wiki/conceptos/identificación_con_cristo.md`, 2026-09-29).120, L349 (00, 35-39; 03, 59-93) | Nuevo: la identificación con Cristo a través de Zaqueo (Lc 19). **No** se retargetea a `[[unión_mística]]` ni a `[[unión_con_cristo]]`: aquí es la identificación consciente y voluntaria —«è il tuo nome»—, no un estado de unión mística. |
+| `[[jesus_hombre_y_dios]]` | L46, L51, L61, L339 (00, 69-73; 02, 55-73) | Nuevo: el Padre como centro di gravità de la vida de Cristo y la dependencia radical de Cristo (Gregorio Nazianzeno, *Carmina* II/I). La wiki tiene artículos cristológicos, pero no esta noción unitaria. |
+| `[[alienación]]` | L55 (01, 81-85) | Nuevo: la libertad que elige alienarse por «altro che non Cristo» — satisfacción, dinero, salud, reconocimiento. Distinto de la alienación en sentido marxista; la wiki no tiene artículo propio. |
+| `[[caducidad_del_hombre]]` | L | **RESUELTO** (`wiki/conceptos/caducidad_del_hombre.md`, 2026-09-29).35, L327 (00, 17-21; 01, 71-73) | Nuevo: la caducidad como dato antropológico previo a la fe. Va emparejado con `[[nulidad_del_hombre]]`; la wiki no tiene artículo para ninguno de los dos. |
+| `[[nulidad_del_hombre]]` | L | **RESUELTO** (`wiki/conceptos/nulidad_del_hombre.md`, 2026-09-29).36, L98, L105, L368 (00, 23; 01, 71-73, 107-109) | Nuevo: la nulidad del hombre como raíz de la que brotan la caducidad y la fragilidad. El índice ya lo usa de forma canónica como `nulidad_del_hombre`. |
+| `[[fragilidad_humana]]` | L35, L138, L273, L301, L341 (00, 17-23; 01, 189; 03, 125-135) | Nuevo: la fragilidad «senza sponde» (sin apoyo), con Os 6,4-5 como texto citado; el origen del pecado está «nel dimenticarsi, ma è anche la fragilità». |
+| `[[sentido_del_destino]]` | L | **RESUELTO** (`wiki/conceptos/sentido_del_destino.md`, 2026-09-29).37, L101, L229, L325 (00, 25; 01, 77-83) | Nuevo: el «algo grande» con el que el hombre se topa (Machado, Jiménez) y frente al cual la fe da sentido al destino. |
+| `[[ideal]]` | L | **RESUELTO** (`wiki/conceptos/ideal.md`, 2026-09-29).38, L270, L347 (00, 27-29; 01, 161-167; 02, 201) | Nuevo: el ideal como «totalità di cui siamo funzione», inseparable de la *convenienza umana*. |
+| `[[instante]]` | L47, L127, L198, L227, L350, L430 (00, 55, 79; 01, 125-127, 169-173; 02, 199-203) | Nuevo: la fuente usa el término con dos acepciones, (a) vivir el momento (Zaqueo) y (b) el «instante effimero» que no edifica ni genera. El artículo deberá distinguirlas. |
+| `[[olvido]]` | L89, L124, L271, L335 (01, 53, 87-89, 145-159; 02, 143-147) | Nuevo: la *dimenticanza* como raíz del pecado y como pérdida del pasado. |
+| `[[regla]]` | L | **RESUELTO** (`wiki/conceptos/regla.md`, 2026-09-29).100, L281, L384, L408 (01, 361; 02, 239-241) | Nuevo: la «regola» de la Fraternità y las *Costituzioni/Statuto*. La wiki tiene `[[regla_de_fe]]`, `[[la_regla_de_san_benito]]` y `[[regla_moral]]`; **no** se retargetea por ambigüedad semántica (regla de vida religiosa ≠ regla de fe ≠ norma moral). |
+| `[[simplicidad]]` | L60, L281, L391, L397 (00, 95; 02, 213-217) | Nuevo: «Se non sarete come bambini» (Mt 18,3) y la *semplicità* como condición del corazón. **No** se retargetea a `[[simplicidad_divina]]`: aquí es virtud humana, no la simplicidad divina de la teología clásica. |
+| `[[escuela_de_comunidad]]` | L155, L220, L360, L416 (01, 95-97, 313; 02, 239-241; 03, 29-41) | Nuevo: la *scuola di comunità viva*, donde la victoria de Cristo sobre el mal se vuelve evidencia cuando cambia algo significativo en la vida de la comunidad. |
+| `[[familiaridad_con_dios]]` | L138 (02, 173-179) | Nuevo: «che Dio diventi familiare» como lo que el corazón del hombre más desea, y el método del Misterio. La wiki no tiene artículo propio. |
+| `[[madurez_cristiana]]` | L148 (01, 231-239) | Nuevo: «La Fraternità o non è nient'altro che la maturità di fede, quindi di volontà di ascesi». |
+| `[[crítica_a_la_sociedad_moderna]]` | L155, L359, L422 (02, 123-137) | Nuevo: las tres flexiones de la mentalidad mundana. La crítica giussaniana no es negación del mundo, sino deslinde de su lógica. |
+| `[[crisis_del_mundo_moderno]]` | L82, L210, L424 (03, 5-13) | Nuevo: corrupción política y crisis económica de 1987, con el argumento bíblico de los «que perturban la paz» (Sap 9,15; Rm 1,26-32; 2Tm 3,2-5; Gv 17,9). |
+| `[[perdida_de_la_libertad]]` | L168, L432 (02, 143-147) | Nuevo: la «perdita totale della libertà» como consecuencia de la *dimenticanza*, y la perplexidad de quien ha perdido el pasado. |
+| `[[oración_de_cristo]]` | L211 | Nuevo: la oración como mendicanza y su relación con la fragilidad (03, 125-135). No se retargetea a `[[oración]]` por especificidad. |
+| `[[lumen_fidei]]` | L148, L777 (00, 75) | Nuevo: la luz de la fe como conocimiento que da sentido al destino; contraparte de la `[[crisis_del_mundo_moderno]]`. |
+| `[[humanidad_nueva]]` | L185, L394 (01, 377-379) | Nuevo: «l'umanità nuova o la morale nuova che dalla Fraternità deve dilatarsi nella nostra vita». |
+| `[[icaro]]` | L126, L227, L348 (00, 9-11; 02, 193-203) | Nuevo: el símbolo del *Icaro* de Matisse — el hombre que intenta coser su pequeña vida con el pullular de los seres; el «punto rojo» como símbolo de una insignia invisible. |
+| `[[valor]]` | L49 (01, 59-61) | Nuevo: el valor de lo cotidiano y de la conciencia viva («che la nostra coscienza sia viva, che sia all'erta»; Pavese). **No** se retargetea a `[[libertad_como_valor_y_tarea_ética]]`, ya excluida por ambigüedad semántica en el lote de RetS. |
+| `[[vida_quotidiana]]` | L369 | Nuevo: la vida cotidiana como lugar de la fe y del «ricominciare». |
+
+**Nota sobre la numeración.** Las líneas de la columna «Índice» son las del
+`índice.md` de la fuente, no las del texto raw. Las localizaciones entre
+paréntesis sí son líneas del raw.
+
+**Metodología:** se extrajeron todos los wikilinks del `índice.md` de la
+fuente y se contrastaron contra el inventario real de `wiki/` con
+normalización NFD. No se aplicó ningún retarget: todos los candidatos
+encontrados (vocación, caridad, santidad, regla_de_fe, simplicidad_divina,
+oración, libertad) son ambiguos o de otro alcance semántico.

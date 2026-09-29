@@ -79,3 +79,4 @@ La teología del matrimonio como sacramento se conecta con la [[teología_nupcia
 - TdC 30.05.1984 (aud 111)
 - TdC 06.06.1984 (aud 112)
 - TdC 13.06.1984 (aud 113)
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 3, 12, 17.

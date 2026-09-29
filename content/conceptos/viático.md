@@ -42,6 +42,10 @@ Fr. Richard T. Whittington («Food for the Road: The Eucharist as Viaticum») de
 - **El comulgante como imagen del Arca**: el Arca que Josué cruzó contenía un vaso de maná (Ex 16,33); quienes reciben devotamente la Eucaristía —como viático o de otro modo— «se convierten en imágenes del Arca, como María cuando el Verbo se hizo carne en su seno».
 - **Privilegio sacerdotal**: «no hay mayor privilegio en la vida de un sacerdote que estar en el umbral de la eternidad y ofrecer a un moribundo el pan de vida — el alimento que es nuestro remedio contra la muerte».
 
+### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
+
+El santo viático es «medicina de la inmortalidad» para el último viaje: «vida en la muerte» es el cuarto efecto del pan del peregrino. La comunión como «prenda de la resurrección», «semilla de vida eterna» (Jn 6,55) transforma el lecho de muerte en «campo de aviación»: donde el mundo ve el fin, la Eucaristía abre el despegue hacia el cielo [EMA, cap. 4].
+
 ## Distinciones importantes
 
 - **Viático vs unción de los enfermos**: ambos integran la penitencia cristiana final; el viático es la Eucaristía misma, culminación de los sacramentos del tránsito (CEC 1524-1525).
@@ -65,3 +69,4 @@ Fr. Richard T. Whittington («Food for the Road: The Eucharist as Viaticum») de
 - Whittington, Fr. Richard T. «Food for the Road: The Eucharist as Viaticum», en *Evangelization & Culture* 13 (Autumn 2022).
 - Tomás de Aquino. *Summa Theologiae* III q.73 a.4.
 - Catecismo de la Iglesia Católica 1402, 1524-1525.
+- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), cap. 4.

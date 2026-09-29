@@ -78,3 +78,4 @@ Se vincula con la [[vida_humana]], la [[dignidad_del_nacer]], los [[mandamientos
 - [CIC c.1398]
 - [CompDS §227-228]
 - [TPCr, Tercera Parte]
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 13-14.

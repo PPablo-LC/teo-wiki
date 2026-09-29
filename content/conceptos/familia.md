@@ -138,3 +138,4 @@ Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]
 - [CIC cc. 226, 1135-1136]
 - [FC §17, §18, §42, §43, §46, §47, §86]
 - [JdN_I, caps. 1]
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 1, 12-17.

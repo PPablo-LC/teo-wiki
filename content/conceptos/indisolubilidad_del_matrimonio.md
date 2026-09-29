@@ -55,3 +55,4 @@ Se relaciona con [[matrimonio]], [[sacramento_del_matrimonio]], [[ley_mosaica]],
 ## Referencias
 
 - CrSJP, Catequesis 32, 14 de octubre de 1987, §5
+- EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 9-11, 17.

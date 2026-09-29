@@ -145,3 +145,4 @@ Tóth funda la presencia real en la **interpretación literal de Jn 6**: Cristo 
 - Salkeld, Brett. «What is the Catholic Teaching on Christ's Eucharistic Presence?», en *Evangelization & Culture* 13 (Autumn 2022).
 - Barron, Robert. «If It's a Symbol, to Hell with It: Bishop Barron on the Eucharist», en *Evangelization & Culture* 13 (Autumn 2022).
 - O'Malley, Timothy P. «Eucharistic Personhood», en *Evangelization & Culture* 13 (Autumn 2022).
+- EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 2-3.
