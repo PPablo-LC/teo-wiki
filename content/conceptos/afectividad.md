@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Afectividad
 tags: ["dogmática", "moral", "ascética"]
 
-timestamp: 2026-08-06
+timestamp: 2026-10-02
 description: "Dimensión esencial del ser humano, junto con la razón y la voluntad, que integra las emociones y los sentimientos en la verdad de la persona creada a imagen y semejanza de Dios."
 ---
 # Afectividad
 
 > Área: Dogmática / Moral / Ascética
-> Última actualización: 2026-08-06
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -41,6 +41,25 @@ La esfera tendencial y sentimental es una de las expresiones más claras de la p
 
 Las ciencias psicológicas y la experiencia concuerdan en destacar «la importancia decisiva, en orden a una armónica y válida educación sexual, del *clima afectivo que reina en la familia*», especialmente en los primeros años de la infancia y la adolescencia (SHVS 50). La educación en la castidad «es al mismo tiempo educación del espíritu, de la sensibilidad y de los sentimientos»: depende «no poco de la forma con que administran los sentimientos espontáneos, haciendo crecer algunos, controlando otros» (SHVS 54). Durante la pubertad los adolescentes «son particularmente sensibles a las *influencias emotivas*»; el desarrollo psíquico y emotivo puede hacerlos vulnerables a las fantasías eróticas (SHVS 93, 97).
 
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani describe la afectividad como **una energía que sigue a un juicio**: «Además
+de la inteligencia, la personalidad nueva tiene una energía que se llama libertad o
+voluntad o afectividad. La voluntad humana, la afectividad humana es una energía que
+consecuye a un juicio, y el juicio es el que debe tener como criterio lo que hemos
+dicho antes» (03, 231).
+
+**El heroísmo cotidiano.** «Entonces uno comprende que el hombre puede ser llamado por
+Dios al heroísmo, al heroísmo cotidiano. Es heroísmo aquello a lo que Dios ha llamado
+a algunos de nosotros, por la muerte prematura del hijo, por la muerte del esposo» (03,
+231).
+
+**La fidelidad conyugal.** «La afectividad es una energía consecuente a un juicio, cuyo
+criterio es la gloria de Cristo. Entonces, aunque el corazón se llene de otro afecto,
+la fidelidad a la esposa, la fidelidad al esposo, es el heroísmo al que nos remitía el
+capítulo 19 de san Mateo: el valor está en ser función del designio de Dios, del reino
+de los cielos» (03, 233).
 
 ## Distinciones importantes
 

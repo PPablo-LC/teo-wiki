@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Soledad
 tags: ["ascética", "mística"]
 
-timestamp: 2026-09-12
+timestamp: 2026-10-02
 description: "La soledad es la condición de quien permanece apartado de la compañía humana; lugar de la pregunta por el sentido y apertura al Tú absoluto según Giussani."
 ---
 # Soledad
 
 > Área: Ascética / Mística
-> Última actualización: 2026-09-12
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -56,6 +56,36 @@ Fr. Blake Britton describe una epidemia de soledad en la era digital: aunque cad
 
 - **Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — la soledad como consecuencia del yo-misura-de-la-realidad: «si el hombre es medida de todo, es solitario, como un dios sin compañía»; Sartre: «¿mis manos, qué son mis manos? La distancia inconmensurable que me divide del mundo de los objetos y me separa de ellos para siempre» — «cada apretón aleja del objeto que se retira… una soledad abisal»; el hombre «condenado a una cierta concepción de la libertad descubre que la libertad es extrañeza: está libre para nada» (L291).
 - **Parte prima** — a esa soledad solo responde un amor al destino del otro: comentando a Pavese —«todos quieren decir: sé cómo estás hecho, y servirse de ello, pero nadie le concede un día de simpatía total»— «para conceder crédito de simpatía total a un hombre es necesario un amor a su destino» (L289).
+### Según La convenienza umana della fede (CUDF)
+
+Giussani describe la soledad como **consecuencia del olvido de Dios**: «Hemos
+individualizado en la pérdida total de la libertad la consecuencia del olvido de Dios
+en la vida» (02, 143).
+
+**La alternativa dramática.** «Todo eso lleva a una inconsistencia del hombre. La
+nuestra se convierte así en una época de gente alienada. La alternativa, por tanto, es
+dramática: o se tiene como parámetro a Cristo o se tiene como parámetro lo que establece
+el poder, con las categorías de la cultura de moda» (02, 141).
+
+**El poder que decide por ti.** «Se puede llegar a una pérdida total de la libertad
+porque, cuanto más avanza la ciencia y cuanto más se afina la técnica, tanto más tiene
+el poder la capacidad de sorprender tus pensamientos y tus sentimientos desde su
+nacimiento: “te decide” él, mientras tú estás persuadido de decidir tú» (02, 143).
+
+**La abolición del pasado.** «A la pérdida de la libertad contribuye la abolición del
+pasado, la ruptura con el pasado. El hombre está ahí, solo como un perro, en sentido
+literal de la palabra: el perro no tiene sentido del pasado, un gato no tiene sentido
+del pasado. Lo que caracteriza al hombre, de inmediato y clamorosamente, frente a la
+realidad animal, es el sentido del pasado, que es la señal de que eres capaz de salir,
+de ser libre del presente y de abrazar lo que estaba antes» (02, 145).
+
+**La definición final.** «Abolición de la libertad, abolición del sentido del pasado y,
+por tanto, una soledad. Arrancado el valor de tu presente, porque te lo dicta el poder,
+arrancada la riqueza del pasado, quedas vacío como un saco. ¿Qué dices? Entonces las
+manos que se mueven o los labios que besan o el puño que alzas amenazante son todo.
+Es la abolición del hombre, que se reduce a ser “fragmento de la materia o ciudadano
+anónimo de la ciudad terrena”» (02, 147).
+
 ## Distinciones importantes
 
 - Soledad eremítica (búsqueda de Dios) vs. soledad de abandono (sufrimiento)

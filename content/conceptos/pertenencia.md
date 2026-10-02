@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Pertenencia"
 description: "Necesidad humana innata de formar parte de algo mayor que uno mismo (Brown); en Juan Pablo II, la pertenencia recíproca del hombre y la mujer («mío… mía») se entiende por analogía personal, no como propiedad."
 tags: [antropología, análisis_cultural, matrimonio]
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 ---
 
 # Pertenencia
 
 > Área: Antropología / Análisis cultural / Matrimonio
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -68,6 +68,35 @@ Los Esercizi 2000 y 2001 hacen de la *appartenenza* «la parola decisiva per l'e
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — si el hombre está hecho para buscar a Dios a través de Cristo y Cristo se encuentra en la unidad de los cristianos, «pertenecer a la Iglesia, ser cristianos, es la función suprema que un hombre está llamado a realizar en el mundo»; es un «peso», un «giogo», una responsabilidad, pero también una elección de predilección (Rm 8,31-39).
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — la pertenencia como lugar del hecho cristiano totalizante y de la fe que deviene cultura: la objetividad del camino al verdadero y el «encuentro» que sobrepasa el subjetivismo; «no se trata de imaginar o inventar, sino de seguir». La unidad visible de los creyentes (Jn 17,9) permanece como condición de la fe.
 - **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — la vida de grupo como lugar natural del «riesgo»: solo en comunidad la libertad encuentra el alimento para resistir al vacío del riesgo; «el hombre solitario normalmente no puede resistir el vacío del riesgo».
+### Según La convenienza umana della fede (CUDF)
+
+La pertenencia es, para Giussani, la verdad más veraz y más consoladora. «Si yo
+digo: “Protégeme”, si yo digo: “Ayuda”, si yo digo: “Ten piedad”, es porque yo
+*pertenezco* a Otro. Le pertenezco: esta es la palabra que deberéis personalmente
+perseguir» (01, 97).
+
+**La pertenencia es la consistencia misma.** «Si estamos destinados, significa que
+nuestra consistencia, nuestro valor, nuestro existir es “de”, “se apoya en”,
+pertenece a Otro. Nosotros pertenecemos a Otro» (01, 113).
+
+**El origen fraterno.** «El ser juntos es el modo en que se manifiesta la
+pertenencia, el hecho de que pertenecemos a algo distinto de nosotros: ¡pertenecemos!
+Éste es el fundamento por el que para caminar hay que estar juntos: para ser, hay
+que estar juntos. Traducido en términos teológicos, se podría decir: precisamente
+porque somos hijos del mismo Padre, somos hermanos» (01, 277).
+
+**El «soy tuyo, soy de ti».** «Si el destino está dentro de nosotros, y nuestra
+quilla lo ha sentido alguna vez, […] si este destino está en nosotros y si un grito,
+una pregunta, puede de pronto reverdecer nuestra vida seca […]» (01, 95).
+
+**La Fraternidad educa la pertenencia.** «Nuestra compañía es el comienzo de la
+conciencia de pertenecer a este Pueblo; todo el significado de nuestra compañía es
+la pertenencia a este verdadero Pueblo de Dios» (01, 357).
+
+**La regla suprema.** «Si se desarrolla la conciencia de la pertenencia, entonces
+está claro en qué consiste la regla de la vida: la regla suprema de la vida es la
+secuencia» (01, 357).
+
 ## Analizado en contexto cultural
 
 - [[los_dones_de_la_imperfeccion_brene_brown]] — la pertenencia junto al amor como experiencia esencial humana; convergencia con la vocación a la comunión; tensión por horizonte inmanente.

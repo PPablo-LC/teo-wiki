@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vergüenza
 tags: ["moral"]
 
-timestamp: 2026-06-11
+timestamp: 2026-10-02
 description: "La vergüenza en la Biblia tiene un sentido ambivalente: puede ser la confusión del pecador ante Dios (vergüenza santa que lleva al arrepentimiento) o la desvergüenza del que persiste en el mal."
 ---
 # Vergüenza
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -44,6 +44,25 @@ La TPCr trata la vergüenza en varios contextos. Es parte integral de la virtud 
 Santo Tomás trata la vergüenza en la cuestión 144 como parte integral de la templanza. Define la vergüenza como «el temor a un acto torpe», precisamente el temor al vituperio u oprobio que merece la culpa (a.2). No es una virtud en sentido propio —le falta la perfección del hábito electivo, pues es una pasión, no un hábito— pero es digna de alabanza como disposición a la virtud (a.1).
 
 El hombre se avergüenza más ante las personas allegadas, cuyo testimonio valora más por el conocimiento que tienen de sus hechos y por el posible daño que pueden causarle (a.3). En los hombres virtuosos no suele darse la vergüenza actual porque evitan lo torpe, pero está en ellos como disposición: si hicieran algo torpe, se avergonzarían (a.4).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani sitúa la vergüenza en la raíz de la experiencia cristiana: «La primera verdad
+existencial, histórica, es la vergüenza de Adán y de Eva, como narra la Biblia; la
+primera verdad del hombre golpeado por el vivir es el reconocimiento de su miseria, de
+su inadecuación» (02, 115).
+
+**La vergüenza de Cristo.** «El Evangelio lo dice: seremos juzgados por esto: “Quien
+tenga vergüenza de mí, también yo tendré vergüenza de él”» (01, 269).
+
+**El pecado de este siglo.** Juan Pablo II, en la meditación final de la Vía Crucis,
+recordando a Pío XII: «El pecado de este siglo es la pérdida del sentido del
+pecado» (02, 113; cfr. *Reconciliación y Penitencia*).
+
+**La lectura de Giussani.** «“Pérdida del sentido del pecado” quiere decir pérdida del
+sentido de la pertenencia a Dios: se trata aquí del pecado como rechazo del *logos*,
+como rechazo del mundo ordenado a un designio más grande. Esto se ha convertido en
+forma mental» (02, 117).
 
 ## Distinciones importantes
 

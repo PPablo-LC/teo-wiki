@@ -179,6 +179,14 @@ desarrollados son:
 - [[conveniencia_humana_de_la_fe]] [[compagnia_vocacional]] [[sentido_del_destino]]
 - [[identificación_con_cristo]] [[heroísmo_de_santidad]] [[lumen_fidei]]
 
+## Resúmenes por capítulo (wiki)
+
+- [[Resúmenes/la_convenienza_umana_della_fede_capitoli/01_la_convenienza_umana_della_fede|01 — La convenienza umana della fede (presentación editorial)]]
+- [[Resúmenes/la_convenienza_umana_della_fede_capitoli/02_ricominciare_sempre_1985|02 — Ricominciare sempre (Esercizi 1985)]]
+- [[Resúmenes/la_convenienza_umana_della_fede_capitoli/03_il_volto_del_padre_1986|03 — Il volto del Padre (Esercizi 1986)]]
+- [[Resúmenes/la_convenienza_umana_della_fede_capitoli/04_sperimentare_cristo_in_un_rapporto_reale_e_storico_1987|04 — Sperimentare Cristo in un rapporto reale e storico (Esercizi 1987)]]
+- [[Resúmenes/la_convenienza_umana_della_fede_capitoli/05_fonti|05 — Fonti (nota de fuentes)]]
+
 ## Referencias
 
 - **Fuente primaria**: Luigi Giussani, *La convenienza umana della fede*,

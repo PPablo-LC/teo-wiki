@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Conversión
 tags: ["moral", "ascética"]
 
-timestamp: 2026-09-05
+timestamp: 2026-10-02
 description: "Movimiento del alma que, movida por la gracia, se vuelve a Dios apartándose del pecado."
 ---
 # Conversión
 
 > Área: Moral / Ascética
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -99,6 +99,24 @@ ODPC, tratando de las religiones, recoge la observación de Newman: «la «conve
 
 - **La conversión como reconocimiento de la Presencia** — la fe cristiana es «riconoscimento di una Presenza» conectada con el destino; la conversión es acoger la Presencia que continúa en la historia (Ab 2,4; Rm 1,17) (DLV 10, 81-126).
 - **El «sí» de Pedro y la conversión del corazón** — el seguimiento de Pedro no nace del elenco de sus errores sino del amor a la palabra de Cristo, «la più umana e la più divina» (Jn 21) (DLV 01, 77).
+
+### Según La convenienza umana della fede (CUDF)
+
+La conversión no es un programa de reforma moral, sino un cambio de dirección. «La
+*metanoia*, el cambio en el sentimiento de sí, es la partida» (01, 67). El texto
+bíblico es «Cambiad el corazón, cambiad el modo de concebir, de valorar y de
+sentir» (Mt 4,17; 01, 67).
+
+**El vértice de la conversión es el perdón.** «Y el vértice de este cambio, el
+fruto supremo de este cambio, es la capacidad de perdón» (01, 67).
+
+**El deseo de cambio no se puede quitar.** «Hay algo que el cuerpo extraño que hay
+en nosotros produce, porque no deja tregua: produce continuamente algo que
+incluso la educación más loca no logra quitar: un deseo de cambio» (01, 83). Es
+un deseo que «la alienación profunda produce y que es como desesperado».
+
+**La educación loca.** «Y la educación más loca es la que nunca llama al ideal, es
+el mecanismo habitual y reactivo, que no encuentra una llamada» (01, 85).
 
 ## Distinciones importantes
 

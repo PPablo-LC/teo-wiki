@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pobreza
 tags: ["moral", "ascética"]
 
-timestamp: 2026-08-24
+timestamp: 2026-10-02
 description: "Desprendimiento de los bienes terrenos por amor a Cristo, que constituye la primera bienaventuranza (\"pobreza de espíritu\") y uno de los consejos evangélicos."
 ---
 # Pobreza
 
 > Área: Moral / Ascética
-> Última actualización: 2026-08-24
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -60,6 +60,29 @@ León XIV abordó la pobreza desde el servicio y el encuentro personal con los p
 **La pobreza existencial (Fr. Gadberry).** El encuentro con los pobres revela una verdad incómoda: «un encuentro con los pobres revela la pobreza existencial que maldice a todo ser humano, una pobreza que no puede ser rescatada con ningún bien material». Es irónico que «cuantas más cosas poseemos, más parecidos somos poseídos por esas cosas»; las posesiones materiales no dan vida ni libertad —«Cristo sí»—. Si la guerra revela por qué estamos dispuestos a morir, la pobreza predica el hecho de que debemos morir [EAC-2, 20_peripheries_war_poverty].
 
 **Cristo en su «disfraz angustioso» (Br. Pius Marie Gagne).** Los frailes Franciscanos de la Renovación eligen vivir solo en barrios pobres para ser accesibles a los más necesitados. El encuentro personal con los pobres hace vivas las Escrituras mejor que cualquier comentario: caminar con los pobres romperá tu corazón, «pero es permitiendo que nuestros corazones sean rotos como comienzan a asemejarse al Corazón roto y traspasado por nosotros» [EAC-2, 19_soul_notes_from_inside].
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani presenta la pobreza como **la condición para dilatar el Reino de
+Dios**: «La pobreza es la condición para dilatar el Reino de Dios» (02, 251).
+
+**La riqueza, en cambio, dilata el propio reino.** «Es claro: la riqueza es
+dilatar el propio reino, la riqueza es poseer, es decir, dilatar el propio reino,
+mientras la pobreza es la condición para dilatar el Reino de Dios en el mundo»
+(02, 251).
+
+**El encuentro con el pobre.** «Si tienes en el corazón dilatar el Reino de Dios
+en el mundo, si te topas con un minusválido o con un pobre, ¿cómo haces para no
+ayudarlo?» (02, 251; cfr. Mc 14,6-7).
+
+**El primer modo de la pobreza.** «El primer modo de la pobreza —no el ocasional,
+cuando me encuentro al pobre— es sostener los instrumentos de difusión de
+nuestra experiencia» (02, 253).
+
+**La definición de Jacopone da Todi.** «Povertat'è null'avere / e nulla cosa poi
+volere / e onne cosa possedere / en spirito de libertate» (Jacopone da Todi,
+*Lauda* 36, vv. 119-122; 02, 255). «La pobreza es no tener nada y poseerlo todo
+en espíritu de caridad, es decir, usándolo todo para el Reino de Dios» (02, 255).
 
 ## Distinciones importantes
 

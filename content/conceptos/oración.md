@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Oración
 tags: ["ascética", "mística"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno); conciencia de sí hasta el fondo que se topa con un Otro según Giussani."
 ---
 
 # Oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -194,6 +194,24 @@ La oración es «una elevación de la mente a Dios» (*oratio est ascensus menti
 
 La familia debe ser ante todo «casa de fe y de oración» (SHVS 62). Los padres han de poner siempre su confianza en Dios «a través de la invocación al Espíritu Santo, el dulce Paráclito, dador de todos los bienes», pidiendo la intercesión de María Inmaculada y de San José (SHVS 150). Entre los medios del crecimiento casto: «recurso frecuente a la oración y a los sacramentos de la Penitencia y de la Eucaristía» (SHVS 71); para valorar qué decir a cada hijo, «los padres pidan ante todo luces al Señor en la oración» (SHVS 75).
 
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani insistía en que la oración **no es “la oración de la comunidad”**: «La
+oración es de la persona, y es oración de la comunidad si es la oración de los
+individuos que componen la comunidad. Si no es tu oración, no es oración ni de la
+comunidad» (02, 235).
+
+**Una regla de oración, no excesiva.** «Ante todo, pues, la oración. Cada compañía,
+cada grupo fija una regla de oración, no desmedida» (02, 237).
+
+**La doble verdad del día.** «En esta jornada que nos reúne —porque es una sola, y
+queremos que sea entera e intensa—, debemos partir de esta primera verdad: “Señor, soy
+pecador. ¡Cuánto he faltado a lo largo de todo el arco de este año!”. Pero la segunda
+verdad construye sobre la primera: “Señor, te reconozco”» (01, 55-57).
+
+**Como primera condición de la compañía.** «La primera cosa en la que la compañía debe
+ayudar es la oración» (02, 235).
 
 ## Distinciones importantes
 

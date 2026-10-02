@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -348,6 +348,21 @@ Tóth organiza todo el misterio eucarístico en **tres relaciones de Cristo**: p
 **La doble transformación en la Consagración.** «En este momento se cifra toda la misa»: la hostia se transforma en el Cuerpo de Cristo y el hombre viejo debe transformarse en imagen viva de Jesucristo (Rom 6,3-4) [EMA, cap. 10]. La comunión bien hecha exige avivar fe, esperanza y amor antes de recibir, y acción de gracias después: «Somos dos: Jesús y yo»; el mejor acto de gratitud es hacer la voluntad de Dios todo el día [EMA, cap. 13]. El que comulga es Cristóforo: «llevas en hombros a quien lleva el universo».
 
 **La espera de Cristo.** En la adoración se invierte la relación: «antes el hombre esperaba a Dios; ahora es Dios quien espera al hombre» [EMA, cap. 15]. El Santísimo es «central eléctrica del cristianismo» y la visita al Sagrario, acumulador matinal y válvula nocturna; san Alfonso María de Ligorio la llama «la primera de las devociones». Concluye Tóth: «desde la institución de la Eucaristía no estamos a oscuras, no estamos solos» — la Iglesia sin Eucaristía serían «casas vacías, monstruos de piedra» [EMA, cap. 16].
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani lee la Misa como anticipación de la plenitud del Reino: «“Hemos contemplado,
+oh Dios, las maravillas de tu amor”; hemos contemplado, hemos visto, hemos
+experimentado. “Jesús hizo muchos otros signos en presencia de los discípulos”
+(Jn 20,30); hubo muchos otros signos, muchas otras experiencias excepcionales, de
+modo que los discípulos tuvieron que decir: “¡Es Él! ¡Es verdadero!”» (02, 265).
+
+**La comunidad que cree.** El texto de la Misa continúa con «la multitud de los que
+habían llegado a creer tenía un solo corazón» (Hch 4,32; 02, 265).
+
+**Como criterio que hace verdadero el gesto.** «Nuestra vocación es pertenecer a
+Cristo», recuerda Madre Teresa, y ese criterio es lo que da a cada gesto una música
+distinta (03, 141-155).
 
 ## Distinciones importantes
 

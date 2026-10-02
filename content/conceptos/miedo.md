@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Miedo
 tags: ["moral", "ascética"]
-timestamp: 2026-09-10
+timestamp: 2026-10-02
 description: "Pasión del apetito irascible que huye de un mal futuro percibido como difícil de evitar. En sí mismo indiferente, el miedo se vuelve virtuoso o vicioso según su objeto, intensidad y modo; la confianza en Dios lo vence sin suprimirlo."
 ---
 
 # Miedo
 
 > Área: Moral / Ascética
-> Última actualización: 2026-09-10
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -50,6 +50,26 @@ El número sobre el coraje aborda el miedo como pasión que la fortaleza debe mo
 **El miedo tras el pecado original (18_feature_casey.md):** El coraje bíblico responde al miedo que el pecado introdujo: Adán se esconde (Gn 3,10) y Dios lo viste neutralizando el miedo paralizante (Gn 3,21). Frente a la *andreia* griega, el AT exhorta a un coraje corporativo (*andrizesthai*) fundado en la confianza en el Dios de la alianza; la ansiedad (*merimna*) es vencida por la *parrhesía* del Espíritu (Mc 13,9; Hch 5,41).
 
 **Amor y temor, las dos potencias (22_soul_swan.md):** Swan, basado en 1 Jn 4,18 —«el amor perfecto expulsa el temor»—, explica que Jesús vino a invertir el poder del temor sobre el amor. El temor filial es el que fortalece el vínculo de amor (S. Tomás); el temor de Dios es principio de sabiduría (Sal 111,10). La serie de «No temas» atraviesa la Escritura y los papas: Benedicto XVI en el inicio de su pontificado: «no tengáis miedo de Cristo, que no quita nada y da todo»; Francisco (*Gaudete et Exsultate* 133) advierte de la «paralización por el miedo». El único temor que permanece ante la muerte —donde se recibe la unción y se comienda el espíritu al Padre— es el temor del Señor.
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani describe el miedo como la reacción a un destino con el que hemos embarcado sin
+nos diéramos cuenta. «Siento que mi barco / ha tropezado, allá en el fondo, / con
+algo grande. / ¡Y nada / sucede! Nada… Quietud… Olas…» (J. R. Jiménez, *Mares*; 01,
+79).
+
+**La pregunta que sigue.** «Y “nada ocurre; ¿o todo ha ocurrido ya, y estamos así,
+tranquilos, en lo nuevo?”» (01, 79).
+
+**Dios se vuelve un extraño.** «Así, Dios se vuelve un extraño. Dios, aquello a lo
+que estamos destinados, porque de él estamos hechos, ese algo grande en el que
+nuestra quilla se ha encontrado desde el origen, se convierte como una “pallotola
+di schioppo”» (01, 81).
+
+**El trabajo que no es el nuestro.** «La vida, sin esa alma, carece de vida, o
+como decía el salmo, “acumula riquezas y no sabe quién las recogerá” (Sal 39,7);
+es decir, trabaja donde ella no está: el hombre trabaja donde él no está y
+acumula riquezas» (01, 81).
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Conciencia
 tags: ["moral"]
 
-timestamp: 2026-06-04
+timestamp: 2026-10-02
 description: "La conciencia es el juicio de la razón práctica por el que la persona humana reconoce la cualidad moral de un acto concreto."
 ---
 # Conciencia
 
 > Área: Moral
-> Última actualización: 2026-06-04
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -47,6 +47,27 @@ La conciencia moral es el primer vicario de Cristo, la mensajera de Dios (CEC §
 
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — el «subjetivismo» (1) surge de la reducción del cristianismo a «Palabra»: la Palabra de Dios tendría «como último criterio interpretativo la conciencia personal: dramática relativización en la que cada hombre es fuente de dictado, última cátedra y profeta de sí mismo, a merced de su sensibilidad, de su resentimiento, del instante que vive»; *tot capita, tot sententiae* — «posible también eslogan de la libertad racionalista» (L27).
 - **Parte seconda** — contra ese subjetivismo, la conciencia personal no es el criterio último: no bastan «los intelectuales», ni la «comunidad de base», ni la Iglesia local, porque «Cristo no ha confiado a ninguna de estas entidades como tales la inequívoca última objetividad de Su guía» (L29); se afirma la «oggettività del cammino al vero»: «no se trata de imaginar o inventar, sino de seguir» (Claudel: «¿por qué afanarse tanto cuando es tan simple obedecer?») — la Palabra interpretada por «la conciencia viva de un cuerpo viviente, guiado por una realidad viviente: el magisterio» (L91-93).
+### Según La convenienza umana della fede (CUDF)
+
+Giussani pone la conciencia viva como condición de la experiencia cristiana: «Que
+nuestra conciencia esté viva, que nuestra conciencia esté alerta, que nuestra
+conciencia se mueva, de modo que Él nos cambie, que Él nos mute, que cambie el
+rostro y por tanto el corazón de todas nuestras relaciones» (00, 59).
+
+**La libertad detrás de la conciencia.** «Giussani siempre hace apel a nuestra
+libertad, porque el hombre es su libertad» (00, 59).
+
+**Lo cotidiano deja de cortar las piernas.** «Entonces lo cotidiano, que tantas veces
+“corta las piernas” [según la imagen de Cesare Pavese], se vuelve distinto. Se puede
+vivir allí donde uno está sin huir para no perecer: “¡Podría ser tan grande y noble
+nuestra vida cotidiana! No la ocasión excepcional, no las circunstancias anormales,
+sino nuestra vida cotidiana, porque lo que no toca el instante no es redentor, lo
+que no toca el instante banal no es verdaderamente humano”» (*Dialoghi con Leucò*,
+1947; 00, 61).
+
+**La conciencia como movimiento.** La conciencia no es un estado estático: se pide
+que «se mueva», y en ese movimiento «nos cambie, nos mute» (00, 59).
+
 ## Perspectivas por fuente
 
 ### Según Mons. Tihámer Tóth (JvC)

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Moralidad
 tags: ["moral"]
 
-timestamp: 2026-06-19
+timestamp: 2026-10-02
 description: "La moralidad es la cualidad de los actos humanos que los hace buenos o malos, lícitos o ilícitos."
 ---
 # Moralidad
 
 > Área: Moral
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -47,6 +47,38 @@ DLV aporta una determinación de la moralidad desde la pertenencia y la ontolog�
 - **Moralidad como amistad** — «la cosa más sublime del comportamiento moral que Cristo enseña: toda acción, como relación, es amistad»; lo que no es amistad es deficiente, mentiroso (DLV 07, 31).
 - **La Iglesia, fuente de moral** — «la Chiesa come sorgente con cui si paragona tutta la morale» (DLV 05, 19-37).
 - **Desde la estética a la ética** — `l'etica deriva dall'estetica`: de la sugestividad de la figura de Cristo nace la bondad; sin ella la moral no es persuasiva (DLV 12, 7-9).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani funda la moralidad en la tensión hacia Dios, no en la capacidad del
+hombre: «La moralidad continúa en la vida la disposición original con que Dios nos
+ha hecho, sacándonos de sus manos: la tensión hacia Él. **Un día sin tensión hacia
+Él es inmoral.** Y podría ser un día de fariseo, honesto —honesto—, podría ser
+una semana o un mes, o podrían ser años aparentemente en orden, pero sin tensión
+hacia Él no hay moralidad» (01, 183).
+
+**La moralidad no es capacidad nuestra.** «Así, la moralidad de la vida no es
+capacidad nuestra. Nuestro corazón es malo, tanto es verdad que Jesús lo ha dicho
+una vez: “Todos vosotros sois malos” (Mt 12,34; Lc 11,13). La moralidad no es
+capacidad nuestra. Y quien empuña esta palabra para juzgar a otros, o para
+enarcar programas, es realmente un “pobre hombre”» (03, 113).
+
+**Es la posibilidad de Cristo en nosotros.** «La moralidad no es capacidad
+nuestra, sino la posibilidad de Cristo en nosotros. Y Cristo hace entrar su fuerza
+en nosotros, si lo miramos» (03, 113).
+
+**El clima de la moralidad es la humildad.** «En suma, la moralidad tiene como
+su clima verificador la humildad, porque la humildad es la conciencia de nuestro
+nada y de lo que confirma nuestra nulidad» (01, 187).
+
+**La moralidad es una historia.** «La vida te es dada. Así, la moralidad se convierte
+en nuestra historia, la moralidad es nuestra historia» (03, 119). También el
+Antiguo Testamento describe la moralidad del pueblo elegido como un “mirar a
+Dios”: «Vuélvete, Israel, al Señor tu Dios» (Os 14,2; 03, 123).
+
+**La fe y no la propia justicia.** «He abandonado todo para ganar a Cristo y ser
+encontrado en él, no con una justicia mía derivada de mi moralidad [la Ley], sino
+con la que deriva de la fe en Cristo» (Flp 3,8-9; 03, 119).
 
 ## Distinciones importantes
 

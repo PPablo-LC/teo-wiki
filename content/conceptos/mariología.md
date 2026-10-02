@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mariología
 tags: ["dogmática"]
 
-timestamp: 2026-05-29
+timestamp: 2026-10-02
 description: "La mariología es la parte de la teología dogmática que estudia la persona, los privilegios y la misión de la Santísima Virgen María en la economía de la salvación."
 ---
 # Mariología
 
 > Área: Dogmática
-> Última actualización: 2026-05-29
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -62,6 +62,25 @@ María es el camino más corto y seguro para llegar a Cristo. San Luis María Gr
 ### Según Scott Hahn (The Bible and the Virgin Mary)
 
 Scott Hahn (BMV, lecciones 1-12) propone una mariología fundada en la exégesis tipológica de la Escritura: María es el antitipo de Eva ([[nueva_eva]]), del [[arca_de_la_alianza]] ([[arca_de_la_nueva_alianza]]) y de la Reina Madre (*gebirah*, [[reina_madre]]). Su método combina la lectura literal con la tradición patrística (san Ireneo, san Justino, san Juan de Damasco) y los documentos del magisterio (*Ineffabilis Deus*, *Munificentissimus Deus*, *Lumen Gentium* VIII). El curso insiste en que los dogmas marianos no son «adiciones piadosas» sino la explicitación de lo que la Escritura ya contenía: la llena de gracia (Lc 1,28), la madre del Rey davídico (Lc 1,32-33.43), la mujer del Apocalipsis (Ap 12,1).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani lee a María como la primera en vivir la entrega: «Para el hijo que
+llevaba en el seno, para el niño que tenía delante, para el hombre que se había
+ido de casa, la Virgen no podía, instante a instante, no sentirse a sí misma como
+inmolada en un sacrificio por el mundo, no podía no sentir su propia vida como
+función de algo más grande» (02, 183).
+
+**El fiat mariano.** «Implicándonos en el sentimiento que de sí debía tener la
+Virgen apenas después del anuncio, luego cuando vio nacer a Jesús, y luego cuando
+lo vio crecer, y luego cuando se marchó, debemos pedirle que nos acerque a este
+gran nivel de conciencia de nuestra propia vida, de nuestra propia existencia» (02,
+183).
+
+**La Virgen en el canto de las Lodi.** Giussani coloca la afirmación mariana junto al
+canto de las Lodi: «A nosotros, como ya a María Magdalena, se nos
+revele el Cristo resucitado; nos encuentre y nos llame por nombre, el que estaba
+muerto y está vivo» (*Regina caeli*; 02, 245).
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Caridad fraterna"
 description: "Amor sobrenatural hacia los hermanos por amor de Dios: segunda mesa de la doble caridad; signo de la caridad a Dios y condición de la comunión eclesial."
 tags: [caridad, moral, eclesiología, espiritualidad]
-timestamp: 2026-09-23
+timestamp: 2026-10-02
 ---
 
 # Caridad fraterna
 
 > Área: Moral / Espiritualidad / Eclesiología
-> Última actualización: 2026-09-23
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -35,6 +35,32 @@ Amor sobrenatural hacia el prójimo **por amor de Dios**: segunda mesa del doble
 ## Ver también
 
 [[caridad]], [[amor_al_prójimo]], [[obras_de_misericordia]], [[corrección_fraterna]], [[hospitalidad]], [[perdón]], [[comunión_de_los_santos]], [[cuerpo_místico]], [[misericordia]], [[amistad_cristiana]]
+
+### Según La convenienza umana della fede (CUDF)
+
+La caridad fraterna, en Giussani, es lo que **abolisce la extrañeza**: «El
+sacrificio, que vuelve a proponer la afirmación de una medida más grande, es
+decir, del amor, la afirmación del otro, establece las relaciones entre los
+hombres como fraternidad» (02, 157).
+
+**Abrazar al desconocido.** «La primera vez que ves a gente que nunca has visto
+—más extraños que estos “se more”—, los abrazas como si fueran de casa tuya, y
+si tienen necesidad tú sacarías el pan de la boca» (02, 157).
+
+**Un milagro de humanidad distinta.** «Esto realiza un milagro en este mundo, el
+milagro de una humanidad distinta: será una realidad pequeña, una familia; será
+mayor, una Fraternidad; será mayor todavía, una comunidad, un movimiento» (02, 163).
+
+**La fe se demuestra en los hechos.** «Se llama milagro porque, a través de él, la
+fe demuestra su verdad. La fe, desde Cristo en adelante, ha demostrado su verdad
+por el hecho de que con ella sucedían fenómenos, hechos de humanidad mayor, el
+hombre se volvía más humano» (02, 165).
+
+**Condivisión.** «Después de la oración y de la secuencia, he aquí la segunda
+condición —que corresponde a la de la virginidad—, que es la caridad, es decir, la
+condivisión: usamos nuestro término, *condivisione*. Es decir, la Fraternidad
+debe convertirse en una educación a la capacidad de sentir la vida del otro como
+parte de la propia» (02, 245).
 
 ## Referencias
 

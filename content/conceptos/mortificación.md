@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mortificación
 tags: ["ascética"]
 
-timestamp: 2026-08-22
+timestamp: 2026-10-02
 description: "La mortificación es el ejercicio deliberado de renuncia y dolor voluntario por el que el alma doma las pasiones desordenadas."
 ---
 # Mortificación
 
 > Área: Ascética
-> Última actualización: 2026-08-22
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -60,6 +60,18 @@ La mortificación voluntaria (n.232, 3º) es más perfecta que la mera aceptaci�
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La abnegación o mortificación cristiana tiene como objetivo principal la identificación con el Señor, pero esta identificación requiere la renuncia de sí mismo, del propio yo. Por eso la Iglesia ha establecido algunos tiempos concretos de práctica penitencial y recomienda vivamente las privaciones voluntarias como el ayuno y la limosna (CIC, cann. 1249-1253); además, cada uno puede y debe buscar en su vida cotidiana prácticas adecuadas para unirse a la cruz de Jesús: mortificación de los sentidos y de la imaginación, de la inteligencia y de la voluntad, esfuerzo para servir a los otros y para realizar con perfección los propios deberes, y aceptación alegre de las contrariedades (Ele_Xto_Stos, Cap. III, §4d).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani precisa el sentido cristiano de la mortificación: «Mortificación, en sentido
+cristiano, es plasmar la acción sobre el criterio justo. Tengo ganas de ver la televisión,
+pero debo estudiar, debo terminar un trabajo, debo ayudar a mi esposa, debo ayudar a mi
+hijo, debo ordenar la cocina, y entonces digo: “¡Es que tengo que ordenar la cocina!”, y
+no voy a ver la televisión y ordeno la cocina. Esto es mortificación» (03, 235).
+
+**Mortificación y sacrificio.** «No existe proceso afectivo que sea verdadero sin
+sacrificio… el sacrificio es como el viento que purifica el aire en la afectividad» (03,
+235).
 
 ## Distinciones importantes
 

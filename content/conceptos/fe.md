@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado; acto razonable de adhesión a una persona según Giussani."
 ---
 # Fe
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -102,6 +102,38 @@ La fe es la fuente de toda la vida religiosa [VocTeoBib, «Fe»]. Abraham, «pad
 **Fe vs. evidencia empírica (JdN_I, cap. 3, parábola del rico epulón y Lázaro):** La parábola del rico epulón y el pobre Lázaro introduce la cuestión de la petición de pruebas como problema fundamental de la fe. El rico, desde el Hades, pide a Abraham que mande a Lázaro «desde el más allá» para convencer a sus hermanos. La respuesta de Abraham es categórica: «Quien no crea en la palabra de la Escritura tampoco creerá a uno que venga del más allá» (Lc 16, 31). Benedicto XVI formula el principio: «Las verdades supremas no pueden someterse a la misma evidencia empírica que, por definición, es propia sólo de las cosas materiales» (JdN_I, p. 146).
 
 **La resurrección como signo supremo de fe:** La parábola anticipa el misterio de Lázaro de Betania (Jn 11), cuya resurrección no conduce a la fe sino al endurecimiento del Sanedrín: el milagro no genera fe cuando el corazón está cerrado. La señal de Dios para los hombres es el Hijo del hombre mismo, «el signo de Jonás» (Mt 12, 39-40), es decir, su misterio pascual de muerte y resurrección. En la cruz se descifran las parábolas: la fe no se funda en evidencias experimentales sino en el encuentro con la persona de Cristo.
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani la fe no es una serie de ideas correctas, sino el reconocimiento de
+una Presencia. «Reconocer a Cristo es el contenido de la fe. La fe es reconocer
+esta gran Presencia, que es la realidad de todo, el sentido de todo lo que
+hacemos» (03, 213).
+
+**La fe está dada para desbordar.** «La fe es dada a algunos para que refluya
+sobre los demás. Por esto la fe en nosotros debe convertirse en un movimiento
+dentro de la sociedad» (03, 213).
+
+**Dios deja de ser manipulable.** «El Dios de Cristo no es el Dios de los muertos,
+sino de los vivos; no es el Dios de las medidas de nuestro pensar, de nuestros
+goniómetros y de nuestros metros, no, es el Dios viviente, que ya no puede ser
+manipulado a nuestra conveniencia» (01, 137).
+
+**“Yo soy el camino, la verdad y la vida”.** «Existe un solo caso en toda la
+historia, en toda la literatura universal, de un hombre que haya osado decir no:
+“yo os muestro el camino a la vida”, sino: “Yo soy el camino, la verdad y la vida”
+(Jn 14,6; 01, 141).
+
+**El adjetivo del Padre es «misericordioso».** «El adjetivo propio del Padre, de
+este Último a quien perteneces […] es “misericordioso”; y por tanto, en cierto
+sentido verdadero, la palabra que define últimamente a Dios es “misericordia”» (01,
+143). De ahí: «“¿Cuántas veces tendremos que perdonar: siete veces?” “Setenta
+veces siete.” Es decir, siempre» (Mt 18,21-22; 01, 143).
+
+**Fe y elección.** «Cristo ha elegido a los que han sido llamados a sentirlo, a
+comprenderlo, a vivirlo. Él nos ha elegido a nosotros. “No vosotros me habéis
+elegido a mí, yo os he elegido a vosotros y os he enviado”: he aquí el movimiento
+que comienza» (Jn 15,16; 03, 215).
 
 ## Relaciones doctrinales
 

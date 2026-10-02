@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Liturgia de las horas
 tags: ["liturgia"]
 
-timestamp: 2026-08-30
+timestamp: 2026-10-02
 description: "La liturgia de las horas, también llamada oficio divino, es la oración pública y comunitaria de la Iglesia por la que se alaba a Dios sin cesar con el canto y la oración."
 ---
 # Liturgia de las horas
 
 > Área: Liturgia
-> Última actualización: 2026-08-30
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -57,6 +57,40 @@ Brandon Vogt y Michael Stevens (Word on Fire's Liturgy of the Hours) presentan l
 - **La oración de los laicos**: la constitución invita a los seglares a ella; no es obligación para los laicos, pero sí «el punto culminante» de la oración familiar.
 - **Dimensión material / estética**: el libro impreso frente a la pantalla («las distracciones están incorporadas en nuestros smartphones»); la tradición de la *rúbrica* medieval (tinta roja) aplicada al diseño; la familia como «iglesia doméstica» cuya cultura «se ha vuelto más litúrgica y orante».
 - **Salmodia y expansión del alma**: los santos se «anclaron en los Salmos»; esta oración «expande la vida interior».
+
+### Según La convenienza umana della fede (CUDF)
+
+Las Laudes son «la oración (de la *Liturgia de las Horas* de la Iglesia católica) que
+abre la jornada con la recitación de los salmos; la alabanza caracteriza una
+personalidad comunitaria: iniciativa original de cada uno, incluso en la coralidad de
+la asamblea, y expresión comunitaria, incluso en la soledad de la propia casa. Cada
+jornada de los *Esercizi* espirituales comienza con la recitación comunitaria de las
+Laudes de *Il libro delle ore*» (02, 21).
+
+**El sacrificio de estos días.** «Intentemos cumplir bien el sacrificio de estos días,
+comenzando a ser precisos en el silencio cuando se entra en el salón. El problema no
+son las palabras que nos decimos ni los pensamientos que nos vienen, sino el gesto de
+la vida, que expresa la conciencia de Aquel de quien somos hijos, momento a momento,
+de Aquel que nos es Padre, momento a momento» (02, 23).
+
+**El foco del corazón.** «Mantengamos nuestro corazón enfocado en la gran Presencia, en
+la gran presencia de Dios, más aún en la gran presencia de Cristo entre nosotros,
+porque Cristo está realmente en la comunión, está allí donde vive la comunión entre
+nosotros» (02, 27).
+
+**Las antífonas como tema.** «Las antífonas son el tema con el que la Iglesia quiere
+sacudir el alma: “Ya es hora de que despertéis del sueño” (Rm 13,11). O bien:
+“Cambiaré su luto [su cansancio] en alegría” (Ger 31,13). Y entonces: “Me lanzo en la
+carrera para alcanzarlo” (Fil 3,12), para alcanzar a Cristo» (02, 29).
+
+**“La heredad agotada”.** «“Lluvia abundante derramabas, oh Dios, reponías tu heredad
+agotada” (Sal 67). Estamos aquí, entonces, para recobrar un poco de vena,
+“*venas divini sussurii*”» (02, 39).
+
+**El consuelo de Filipenses.** «“Mi Dios […] que ha iniciado en vosotros esta buena
+obra, la llevará a término”. Esta es la línea de todo el Nuevo Testamento que me da
+más consuelo: si Él ha iniciado en nosotros su obra, es para llevarla hasta el
+final» (02, 41).
 
 ## Ver también
 

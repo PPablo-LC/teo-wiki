@@ -13,11 +13,11 @@ tags:
   - realismo
   - signo
   - ideología
-timestamp: 2026-09-12
+timestamp: 2026-10-02
 ---
 
 > Área: Teología fundamental / Metafísica
-> Última actualización: 2026-09-12
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -60,6 +60,16 @@ La fuente es el propio texto de Giussani. La «trama» (archivo `00_trama.md`) r
 - **La libertad** — se juega en la interpretación del signo; educación a la atención, a la aceptación, a la pregunta y al riesgo
 - **Los ídolos** — el particular elevado a explicación total, pretensión de «la totalidad para un particular»; fuente de la violencia y la guerra
 - **La hipótesis de la revelación** — el Misterio que toma la iniciativa, se hace comprensible sin reducir el misterio
+
+### Según La convenienza umana della fede (CUDF)
+
+Los Esercizi de 1986-1987 se sitúan explícitamente en la continuación del ciclo
+*La coscienza religiosa nell'uomo moderno* (conferencias de dos años, 1984-1986,
+concluidas en la primavera de 1986), cuyo cierre coincide con el año de publicación de
+este volumen (00, 3-5).
+
+**El tema de los Esercizi.** Los ejercicios ponían a tema la relación del hombre con
+el Padre (00, 3-5).
 
 ## Distinciones importantes
 

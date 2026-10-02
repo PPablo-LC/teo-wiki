@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Santidad
 tags: ["dogmática", "ascética"]
 
-timestamp: 2026-09-08
+timestamp: 2026-10-02
 description: "La santidad es la perfección de la caridad, participada por la gracia; el deporte se revela como itinerario de santidad a través de las tres vías y el testimonio de atletas santos."
 ---
 # Santidad
 
 > Área: Dogmática / Ascética
-> Última actualización: 2026-09-08
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -101,6 +101,24 @@ La meditación «La santità del cristiano» (cap. 10) sintetiza la doctrina en 
 4. **Santidad eclesial**: «Non c'è santo la cui santità non si identifichi con un ministero che serve all'edificazione dell'intero corpo»; ninguna santidad aislada: la vocación está «inscritta dentro un perimetro ecclesiale». El gesto pleno de la santidad es «farsi eucarestia, nel distribuire la propria esistenza come cibo» (Ef 5,25-26; Rm 12,1; 1 Tes 5,18: «fate eucarestia di tutte le cose»).
 
 Los retratos muestran además la santidad sin orgullosa separación: «Fu il più santo fra i santi, e tra i peccatori uno di loro» (Vita prima, de S. Francisco); y la santidad nacida en la pobreza: «dobbiamo rispettare la forza e la libertà della Grazia di Dio, e non credere mai che essa debba arrestarsi davanti alla povertà umana» (cap. 11, S. María Goretti). La pregunta de fondo la plantea Camus por boca de Tarrou (*La peste*): «Se si può essere un santo senza Dio è il solo problema concreto che oggi io conosca» — sin Dios solo queda «la presenza d'un amore in qualche modo trascendente, 'mariano', come un lontano abbozzo di grazia».
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani la santidad no es un estado del alma, sino un factor
+histórico. «La santidad es un factor no abstracto de la vida del tiempo y del
+espacio, es el factor que determina últimamente el camino de lo humano, la
+humanización del cosmos» (03, 203).
+
+**Madre Teresa lo entiende así.** «“Madre Teresa”, pregunta el entrevistador,
+“¿debemos mirar este mundo de pobres, de hambrientos, a esta humanidad enferma como
+a un peso, a un castigo, o a una esperanza?” “Ah —pienso que para nosotros es un
+privilegio el hecho de que tengamos la oportunidad de transformar nuestro amor a
+Dios en acción viviente, sirviendo y cuidando de ellos”» (03, 205).
+
+**La diferencia con el servicio social.** «Uno de los responsables de la asistencia
+social, aquí en Nueva Delhi, ha dicho: “Vosotros y nosotros estamos haciendo el
+mismo trabajo social, pero hay una diferencia entre vosotros y nosotros: nosotros lo
+hacemos por algo, vosotros lo hacéis a alguien”» (03, 205).
 
 ## Distinciones importantes
 

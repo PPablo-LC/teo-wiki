@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misericordia
 tags: ["dogmática"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 description: "La misericordia es el atributo divino por el cual Dios, movido por su infinita bondad, se compadece de la miseria humana."
 ---
 # Misericordia
 
 > Área: Dogmática
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -147,6 +147,21 @@ DeLorenzo conecta esta geografía de la misericordia con la evangelización de l
 En la Tischrede 184 (AED, 20, 27-29), la certeza de ser «guardata con misericordia» es la experiencia que cambia la vida: «Con amore. Perché la scelta è il sintomo più sintetico ed essenziale dell'essere amati».
 
 En la Tischrede 179 (AED, 24, 209), la misericordia escapa a la lógica de la justicia: «Non ti perdona perché conclude un'equazione, ma ti abbraccia e redime perché è misericordia». La nota a ese pasaje la define como «il Mistero da cui tutto in noi s'origina, a cui tutto in noi è diretto, di cui tutto è fatto» (AED, 24, nota 21), y la imagen del padre la ilustra: «quando allarga le braccia, non abbraccia il figlio, abbraccia tutte le porcherie che ha fatto» (AED, 24, nota 22; Tischrede 168). La misericordia culmina en la certeza: «Chi ha vissuto quell'istante, Dio non lo può più misconoscere: questa è la misericordia» (AED, 24, 221).
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani el adjetivo propio del Padre es «misericordioso»: «El adjetivo propio
+de este Padre, de este Último al que perteneces, de esta realidad atrayente y que por tanto
+moviliza nuestro ser, en la que se revela la verdad de todo, el adjetivo propio
+del Padre es “misericordioso”; y por tanto, en cierto sentido verdadero, la palabra que define ulteriormente a Dios es “misericordia”» (01, 143).
+
+**«Siempre».** «“¿Cuántas veces tendremos que perdonar: ¿siete veces?”. “Setenta
+veces siete” (Mt 18,21-22). Es decir, siempre» (01, 143).
+
+**El «pecado de este siglo».** En el marco del «pecado de este siglo», Giussani
+recuerda a Pío XII: «El pecado de este siglo es la pérdida del sentido del pecado»
+(Juan Pablo II, *Discorso durante la meditazione alla “Via Crucis”*, 28 de marzo de
+1986, 4; 01, 109-121).
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Silencio
 tags: ["ascética", "moral", "mística"]
 
-timestamp: 2026-09-11
+timestamp: 2026-10-02
 description: "El silencio, en la vida espiritual, es la abstención voluntaria de hablar o la suspensión del ruido exterior e interior para disponer el alma a la escucha de Dios y el cultivo de la presencia divina."
 ---
 # Silencio
 
 > Área: Ascética / Moral / Mística
-> Última actualización: 2026-09-11
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -112,6 +112,20 @@ Swan distingue soledad y aislamiento: «La soledad es un estado de desconexión,
 - El sigilo sacramental es absoluto e inviolable (CIC c. 983), pero no puede excusar la omisión de denuncia en el fuero externo cuando hay obligación de informar.
 - Silencio exterior (disciplina de la palabra) ≠ silencio interior (disposición contemplativa).
 - Guardar silencio ≠ silenciar (Marion): callar ante Dios lo honra; cubrirlo con charla atareada lo silencia.
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani el silencio no es una técnica de concentración, sino una
+condición para la novedad. «Cada uno de nosotros sabe ya muy bien que el silencio
+es condición para una novedad de pensamientos y de sentimientos» (01, 61).
+
+**Silencio y Palabra de Dios.** «Dispongamos nuestro corazón para entender la
+palabra que esperamos se identifique lo más posible con la lectura de la Sagrada
+Escritura, es decir, que se identifique lo más posible con la directa Palabra de
+Dios» (01, 61).
+
+**Silencio y tiempo libre.** «Dispongamos nuestro corazón también no
+disipándonos excesivamente en el tiempo libre» (01, 63).
 
 ## Relaciones doctrinales
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cristología
 tags: ["dogmática_(cristología)"]
 
-timestamp: 2026-06-21
+timestamp: 2026-10-02
 description: "Rama de la teología dogmática que estudia la persona y la obra de [[jesucristo]]."
 ---
 # Cristología
 
 > Área: Dogmática (Cristología)
-> Última actualización: 2026-06-21
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -40,6 +40,32 @@ El ciclo de catequesis «Catequesis sobre Jesús SS» constituye un curso comple
 **Tríptico «Christ Sightings» (O'Donnell).** i. Vadeando las aguas del Jordán «como niños en busca de una bendición»: «¿habrían saludado también a Ti, mientras Juan vertía el Jordán sobre tu cabeza desnuda?» ([[bautismo_de_jesús]]); ii. La mujer sorprendida en adulterio y la misericordia que escribe en la arena ([[misericordia_divina]]); iii. Belén: «Nacido cuando menos se le espera y más se le necesita… el amor duerme en un pesebre sucio» ([[navidad]]).
 
 **La Encarnación según Colonna.** «En carne vino y desafió toda lógica, no asustando sino consolando como el rubor rojo del atardecer».
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani la cristología se resuelve en la conciencia del Padre. **El texto de
+Ratzinger que abre los Esercizi de 1986**: «¿Qué ocurre cuando yo mismo me hago
+cristiano, cuando me someto al nombre de este Cristo, aprobándolo así como el
+hombre modelo, como el parámetro normativo de todo obrar humano?» (02, 59-61).
+
+**Cristo, hombre modelo del sentimiento del Padre.** «Cristo, como hombre, estaba
+totalmente determinado por esta conciencia, tanto es verdad que ha podido decir:
+“Yo y el Padre somos uno” (Jn 10,30)» (02, 65).
+
+**“El que me ha enviado está conmigo”.** «“El que me ha enviado está conmigo”. Probemos
+a pensar, a imaginar una persona, un hombre, que diez, cien, mil veces al día toma
+conciencia del hecho de que Aquel que lo ha enviado, es decir, Aquel que lo hace, el
+Misterio que lo hace, está con él, que Dios está con él» (02, 69).
+
+**La conciencia de ser «del» Padre.** «Nuestra vida reconoce al Padre: ésta es la
+gran palabra. Y entonces, lo primero que hace suceder en nosotros, lo fundamental
+que debe hacer suceder en nosotros Cristo como hombre, Cristo como modelo de vida,
+como parámetro, como criterio del obrar: la conciencia de que nosotros somos “de”
+algo más grande, somos “del” Padre» (02, 63).
+
+**La pasión por la felicidad de la gente.** «No se entiende el cristianismo si no se
+llega a este punto. Decimos estas cosas, queremos decirlas a los hijos, a los
+amigos, a los compañeros, para que la gente sea más feliz» (02, 87).
 
 ## Relaciones doctrinales
 

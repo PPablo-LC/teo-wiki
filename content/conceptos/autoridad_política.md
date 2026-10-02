@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Autoridad política
 tags: ["eclesiología", "moral_social"]
 
-timestamp: 2026-06-19
+timestamp: 2026-10-02
 description: "La autoridad política es el poder legítimo de gobernar una comunidad política, ordenado al bien común."
 ---
 # Autoridad política
 
 > Área: Eclesiología / Moral social
-> Última actualización: 2026-06-19
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -26,6 +26,26 @@ La autoridad política tiene su fundamento último en Dios, señor de la histori
 [§377-383]: El pueblo de Israel reconoce solamente el señorío de Yahvéh; el rey, elegido por Él, debe hacer visible su señorío y su designio de salvación. David es el prototipo de rey elegido, depositario de la promesa mesiánica que culmina en Jesucristo. Jesús rechaza el poder opresivo pero jamás rechaza las autoridades de su tiempo; afirma dar a Dios lo que es de Dios y al César lo que es del César, condenando la absolutización del poder temporal [§379]. San Pablo exhorta a la sumisión por razones de conciencia y al pago de tributos [§380]. San Pedro enseña la obediencia libre y responsable a la autoridad que asegura la justicia y el bien común [§380]. Cuando el poder se auto-diviniza se convierte en la Bestia del Apocalipsis [§382]. La Iglesia anuncia que Cristo ha vencido a todo poder que se absolutiza; la autoridad humana encuentra su significado auténtico en el servicio [§383].
 
 [§393-396]: La autoridad política es necesaria porque «como Dios ha creado a los hombres sociales por naturaleza y ninguna sociedad puede conservarse sin un jefe supremo... resulta necesaria en toda sociedad humana una autoridad que la dirija; una autoridad que, como la misma sociedad, surge y deriva de la naturaleza, y, por tanto, del mismo Dios» [§393]. Debe garantizar la vida ordenada y recta de la comunidad sin suplantar la libre actividad de las personas [§394]. El sujeto de la autoridad política es el pueblo, titular de la soberanía, que la transfiere a sus representantes [§395]. La autoridad debe dejarse guiar por la ley moral; toda su dignidad deriva de ejercitarla en el ámbito del orden moral que tiene a Dios como primer principio y último fin [§396].
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani insiste en el carácter **público** del compromiso cristiano: «La segunda
+cosa era una exigencia de que cada uno de nosotros pudiera llegar a ser más presencia
+inconfundible, sobre todo en el nivel más público en el que se juega» (01, 215).
+
+**El movimiento como modo de la misión.** «Si el móvil de la Fraternidad es la
+llamada a la gran Presencia que hay entre nosotros y a invertir nuestra vida en ella,
+uno comprende que el fin del vivir es la misión, es decir, el movimiento: el movimiento,
+en efecto, es el modo de nuestra misión» (01, 269).
+
+**Ante el mundo.** «Cada uno de nosotros tiene delante del mundo la exigencia de una
+misión» (01, 87).
+
+**El marco histórico.** «La corrupción política y los primeros indicios de una crisis
+económica provocaban reacciones y preocupaciones; nuevos moralismos se estaban
+manifestando en la opinión pública, y también en la Iglesia, aunque ya se percibieran
+sus límites y diversas dudas sobre la suficiencia de la propuesta que pretendían
+llevar» (03, 9).
 
 ## Distinciones importantes
 

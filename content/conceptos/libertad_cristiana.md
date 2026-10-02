@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libertad cristiana
 tags: ["teología_moral"]
 
-timestamp: 2026-06-18
+timestamp: 2026-10-02
 description: "La libertad cristiana es la verdadera libertad del hombre redimido por Cristo, que consiste no en la ausencia de vínculos sino en la capacidad de amar y servir a Dios y al prójimo."
 ---
 # Libertad cristiana
 
 > Área: Teología moral
-> Última actualización: 2026-06-18
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -52,6 +52,36 @@ La libertad cristiana tiene una dimensión comunitaria: el hombre libre es aquel
 **Libertad vs. autonomía arbitraria:** En la parábola del hijo pródigo, el hijo busca una «libertad radical», sin ningún precepto ni autoridad. Pero el hombre que entiende la libertad como puro arbitrio «vive en la mentira, pues por su propia naturaleza forma parte de una reciprocidad». «Una falsa autonomía conduce a la esclavitud: la historia, entretanto, nos lo ha demostrado de sobra» (JdN_I).
 
 **Laicidad de la ausencia vs. laicidad de la presencia:** La universalización de la fe de Israel libera los ordenamientos políticos de la sacralidad inmediata. Este proceso produjo la «justa laicidad del Estado». Pero en la modernidad se transformó en «laicismo» — el olvido de Dios. Para el creyente, «la búsqueda de la voluntad de Dios en la communión con Jesús sigue siendo como una señal de orientación para su razón, sin la cual corre siempre el peligro de quedar ofuscado, ciego».
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani sitúa la libertad en el centro del misterio: «La libertad: esto es
+verdaderamente el misterio más grande, junto al misterio de Cristo» (01, 89-101).
+
+**No hay nada mecánico.** «¿Por qué uno no tiene miedo y el otro, en cambio, es
+totalmente cínico consigo mismo, porque dice que es imposible? ¿Por qué uno es así
+y el otro es distinto? ¿Por qué? ¡Responded! Es la libertad. La libertad se juega
+precisamente en la elección entre el miedo, el esconderse en el pecado, y el sin
+temor, el no tener miedo» (00, 83).
+
+**El deseo de cambio que ninguna educación puede quitar.** «Hay algo, sin embargo, que
+el cuerpo extraño que hay en nosotros produce, porque no deja tregua: produce
+continuamente algo que ni la más loca educación puede quitar: un deseo de cambio. Es
+un deseo que produce el desasosiego profundo y que es como desesperado» (01, 83).
+
+**La raíz de la libertad.** «Hay un pasaje del profeta Jeremías, en su capítulo 20, que
+tantas veces hemos meditado, donde se dice como inicio de confesión: “Tú me has
+seducido, Señor, y yo me he dejado seducir”» (01, 85).
+
+**La libertad y el Espíritu.** «Sin el Espíritu, Cristo está en el pasado, porque sin el
+Espíritu Cristo está vacío de su divinidad» (03, 199).
+
+**El punto de partida radical.** El encuentro con Cristo «puede redimir el sentido de nuestro
+nada, de nuestro mal, puede volver orgánico ese centro de gravedad que es nuestro
+corazón» (01, 121).
+
+**Una compañía “totalmente libre”.** La Fraternidad «nace de manera totalmente libre,
+como lugar de ayuda, para mantener despierto el Ícaro en nosotros» (03, 219-227).
 
 ## Distinciones importantes
 

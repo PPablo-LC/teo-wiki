@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sagrada Escritura
 tags: ["dogmática", "teología_fundamental"]
 
-timestamp: 2026-06-28
+timestamp: 2026-10-02
 description: "La sagrada Escritura es la Palabra de Dios expresada en lenguas humanas, escrita por inspiración del Espíritu Santo."
 ---
 # Sagrada Escritura
 
 > Área: Dogmática / Teología fundamental
-> Última actualización: 2026-06-26
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -73,6 +73,21 @@ La sagrada Escritura es inspirada por Dios y ha sido confiada a la Iglesia, en l
 **Hare** propone que Scripture provides the context of intelligibility: sin la Escritura, los hechos de la historia de la salvación —la Encarnación, la Pasión, la Resurrección— carecerían de marco interpretativo. La Biblia no es solo fuente de datos sino el horizonte mismo que hace inteligible el plan de Dios.
 
 **Múltiples autores** coinciden en how Scripture transforms: la lectura asidua de la Palabra de Dios no es meramente informativa sino transformativa. La Escritura cambia al que la lee, porque la Palabra de Dios es viva y eficaz (Heb 4,12), y penetrar en ella es dejarse penetrar por Dios mismo, que habita en su Palabra.
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani usa el ejemplo de Moisés para mostrar que **ninguna acción propia libera**: «Cuando
+Moisés se dio cuenta de que su pueblo era esclavo, intentó hacer él algo, mató a un
+egipcio. No sólo no sacó nada, sino que empeoró la situación y tuvo que huir él
+también» (Ex 2,11-15; 01, 119).
+
+**El tesoro.** En el mismo pasaje, «donde está el tesoro» (Mt 6,19; 01, 119).
+
+**La Escritura como diálogo.** El diálogo de Moisés con Dios en la zarza (Ex
+3,1-10) es el modelo del encuentro con la Palabra (01, 119).
+
+**Sin lectura no hay día de silencio.** «No se puede suponer un día de silencio sin
+una meditación personal que rehabilite cada palabra» (01, 123).
 
 ## Distinciones importantes
 

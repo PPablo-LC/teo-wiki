@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Iglesia
 tags: ["eclesiología"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 description: "La Iglesia es el Pueblo de Dios, el Cuerpo Místico de Cristo y el Templo del Espíritu Santo, instituida por Jesucristo como sacramento universal de salvación."
 ---
 # Iglesia
 
 > Área: Eclesiología
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -121,6 +121,21 @@ Al tratar de la gracia de Cristo, Tomás introduce a la Iglesia: el cuerpo de Cr
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — la Iglesia como **presencia de Cristo en la historia**: «He aquí dónde está ahora Cristo: donde está la Iglesia». Esta unidad de los cristianos con Cristo y con el Padre (Gv 17,20-23) *es* la Iglesia, el «cuerpo místico» en el que Cristo sigue siendo objeto de encuentro. El método para llegar a Cristo hoy es un «incontro presente, esistenziale»: vivir la comunidad cristiana actual («metodológicamente, solo viviendo la comunidad cristiana presente se puede adquirir adecuación al problema de Cristo»). Pertenecer a la Iglesia es «la función suprema que un hombre está llamado a realizar en el mundo».
 - **Parte quarta** — la Iglesia como pilar del sentido religioso: Cristo confió a su Iglesia el hecho de la Revelación para conservarlo con perenne infalibilidad; «la autoridad de la Iglesia —Papa y Obispos— son el pilar de sostenimiento del sentido religioso de cada época» (Mt 16,16-18, Cesarea de Filippi); los libros sagrados están confiados a la interpretación auténtica de la autoridad de la Iglesia.
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — frente a la «protestantización» que reduce el hecho cristiano a Palabra y conciencia, la Iglesia es la «compañía» católica que mantiene la unidad visible de los creyentes (Jn 17,9: «no ruego por el mundo») y la objetividad del camino al verdadero.
+### Según La convenienza umana della fede (CUDF)
+
+Giussani define la Iglesia por su etimología: «La Iglesia se llama precisamente
+“compañía que se reúne”; el nombre significa eso» (01, 345).
+
+**La primera condición de la compañía.** «Por tanto, la primera condición de esta
+compañía es que pertenezca, a su vez, a la gran compañía de la Iglesia […] que tu
+Fraternidad o tu grupo o tu comunidad pertenezca, viva la conciencia de la
+pertenencia a la Iglesia, como la Iglesia vive y no puede dejar de vivir —camino para
+todos los hombres— su pertenencia a Cristo» (01, 345).
+
+**El reconocimiento eclesial.** «La Iglesia nos ha reconocido, porque la Iglesia ha
+reconocido nuestra pertenencia a ella. Esta es la libertad y esta es la fuente de la
+alegría para nosotros, seguridad y alegría» (01, 347).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[iglesia_cuerpo_místico]]

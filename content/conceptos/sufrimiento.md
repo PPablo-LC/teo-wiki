@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sufrimiento
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-09-08
+timestamp: 2026-10-02
 description: "El sufrimiento es la experiencia del mal en cuerpo y espíritu; en la cruz se revela valor redentor, testimoniado en el deporte como gracia a través del dolor."
 ---
 # Sufrimiento
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-09-08
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -63,6 +63,35 @@ El capítulo 3 (Benedetta Bianchi Porro) presenta el sufrimiento como la apuesta
 La experiencia de Benedetta define el modo cristiano de sufrir con una fórmula precisa — «sono in due» —: «Benedetta soffre e Cristo è lì che l'accarezza, la consola, la rende felice. Non: Benedetta soffre e una presenza spirituale le fa dimenticare di soffrire, come se fosse una suggestione, una droga. No: Benedetta soffre interamente col suo povero corpo e la sua povera anima feriti, ma Lui c'è». Cristo no es «narcótico espiritual» (como no lo fue en la Pasión de Cristo misma): la pasión de Benedetta «restò intatta e terribile», y por eso el autor pide que en el proceso de beatificación no se «expliquen ni corrijan» sus expresiones casi desesperadas, «come voler correggere il Vangelo quando Gesù chiede al Padre di far passare il suo calice».
 
 En el mismo registro, Mounier ante su hija convertida en «un piccolo vegetale»: «Non dobbiamo pensare al dolore come a qualcosa che ci viene strappato, ma come a qualcosa che noi doniamo... Chi sa se non ci è domandato di custodire e adorare un'ostia in mezzo a noi» (cap. 9). Y Camillo: «io sto mangiando pane di dolore, per vedere patire questi membri di Giesù Christo» (cap. 4).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani abre su homilía de 1985 con una advertencia «Nadie debería tener el valor de
+erguirse en eco de la palabra recién escuchada. Está en esto, en efecto, el aspecto
+más grave del sacrificio que el sacerdote comparte ante el pueblo de Dios:
+convocar a todos a aquella verdad que es tan frágil y olvidada o renegada en su
+propia vida» (01, 51).
+
+**La primera verdad.** «La primera verdad es que cada uno de nosotros no es digno de
+aquello de lo que, instante a instante, está hecho. Pero me he equivocado al decir:
+“de aquello”» (01, 51).
+
+**La mayor traición es el olvido.** «¿Cuántas personas en el mundo han sido
+alcanzadas por su palabra como nosotros? ¿Y sin embargo, cuanta distancia,
+olvido, superficialidad, irresponsabilidad, traición hay en nosotros!
+Indudablemente, la mayor traición es el olvido. Y es también la más infantil de todas
+las traiciones, pero es una traición» (01, 51-53).
+
+**El grito dentro de Job.** Clemente Rebora traduce el sentimiento de Job:
+«Qualunque cosa digas o hagas / hay como un grito dentro: / ¡No es por esto, no es
+por esto! […] / Y así todo remite / a una secreta pregunta: / el acto es un pretexto.
+[…] En la inminencia de Dios / la vida hace tabla rasa / de las reservas rancias,
+mientras cada uno se aferra / a un bien propio que le grita: ¡adiós!» (*Sacchi a
+terra per gli occhi*; 01, 75; cfr. Gb 19,1.23-27).
+
+**La tragedia del puerto de Ravena.** Giussani recuerda la muerte de trece personas,
+casi todas muy jóvenes, en el casco de una nave en reparación por un incendio
+(01, 49-53).
 
 ## Distinciones importantes
 

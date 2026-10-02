@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cultura
 tags: ["doctrina_social"]
 
-timestamp: 2026-09-07
+timestamp: 2026-10-02
 description: "Todo aquello con lo que el hombre afina y desarrolla sus innumerables cualidades espirituales y corporales; procura someter el orbe terrestre con su conocimiento y trabajo."
 ---
 # Cultura
 
 > Área: Doctrina Social
-> Última actualización: 2026-09-07
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -74,6 +74,25 @@ Von Hildebrand enumera las características que distinguen la cultura de la civi
 
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — «La fede diventa cultura»: «si la fe invierte cada inflexión de la vida humana, la fe deviene fuente de cultura y de una cultura nueva: de lo contrario no se encarna, y sería como si no comenzara la redención del presente histórico»; Juan Pablo II al MEIC: «una fe que no se haga cultura será una fe no plenamente acogida, no enteramente pensada, no fielmente vivida» (L131).
 - **Parte seconda** — definición de cultura: «conciencia crítica y sistemática de la experiencia humana en desarrollo»; la cultura es la respuesta del sujeto a la realidad que «lo problematiza» (responsabilidad); los valores que definen la personalidad «fluyen en el yo de la historia vivida a la que el yo mismo pertenece», por eso «el pueblo de Dios deviene un horizonte cultural nuevo para cada sujeto que le pertenezca» y «la educación a la fe es educación a una capacidad cultural» (L133-147).
+### Según La convenienza umana della fede (CUDF)
+
+Giussani sitúa la cultura en el criterio de la gloria de Cristo: «La mayor división en la
+historia de la cultura humana y en el fenómeno de la socialidad humana es la producida
+por la fórmula “gloria de Cristo”. Todos los tipos de cultura y todos los tipos de
+socialidad se pueden reconducir a las mismas categorías, a las mismas premisas y a los
+mismos contenidos, pero una vida mirada y afrontada, una socialidad vivida por la gloria
+de Cristo, esto establece una posición que no tiene iguales, irreductible a cualquier
+otra» (03, 209; cfr. 00, 87).
+
+**La vida dada para la gloria de Cristo.** «La vida nos ha sido dada para la gloria de
+Cristo. “Caminad, pues” —dice Pablo a los Colosenses (2, 9; 3, 15)— “en el Señor
+Jesucristo, como la habéis recibido, bien enraizados, edificados en él» (03, 211).
+
+**La fe como reconocimiento.** «Reconocer a Cristo es el contenido de la fe. La fe es
+reconocer esta gran Presencia que es la realidad de todo, el sentido de todo lo que
+hacemos. La fe es dada a algunos para que fluya sobre los demás. Por esto la fe en
+nosotros debe convertirse en un movimiento dentro de la sociedad» (03, 213).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación]], [[educación_católica]], [[humanismo_integral]], [[autonomía_de_las_realidades_terrenas]], [[ciencia]], [[arte]]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Nueva evangelización
 tags: ["doctrina_social", "eclesiología"]
 
-timestamp: 2026-08-22
+timestamp: 2026-10-02
 description: "La nueva evangelización es el renovado impulso misionero de la Iglesia para anunciar el Evangelio en un mundo marcado por la secularización."
 ---
 # Nueva evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-08-22
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -66,6 +66,32 @@ La Veritatis Splendor (§105-108) sitúa la enseñanza moral en el corazón de l
 ### Según UDE (1994)
 
 Juan Pablo II expresa la urgencia de la evangelización ante el año 2000. Recorre la historia de la evangelización desde San Pablo en el Areópago, pasando por Cirilo y Metodio, la evangelización de América y Francisco Javier. El discurso de Pablo en el Areópago es presentado como modelo de inculturación. El Papa recuerda *Redemptoris missio*: la Iglesia «in statu missionis»; los nuevos areópagos (ciencia, cultura, medios de comunicación). Cita *Evangelii nuntiandi* de Pablo VI. Habla de la «anti-evangelización» como lucha por el alma del mundo contemporáneo. Señala la religiosidad popular y las peregrinaciones como signos de renovación, y destaca el papel de los nuevos movimientos eclesiales (UDE, Cap. XVIII).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani recoge el testimonio de un grupo de Tierra del Fuego: «Allí donde se
+experimenta precisamente la verdad de lo que hemos encontrado, en la medida en que
+se vive como verdad para sí y también como libertad en la misión,
+verdaderamente no tiene límites» (01, 323).
+
+**El testimonio del seminista palestino.** «Una noche el seminarista palestino
+escribió, en un papelito (que yo guardo en la portadilla del nuevo libro de *Scuola
+di comunità*, *Alla ricerca del volto umano*), en árabe: “¡Qué bonito es que los
+hermanos estén juntos!”» (01, 323).
+
+**El milagro del cristianismo.** «Y con este testimonio al milagro del cristianismo,
+*perdón*, al milagro de Cristo, por el que ya no hay lejanía entre los hombres y ya
+no hay extrañeza, hasta tal punto que ya no hay extrañeza ni siquiera con nosotros
+mismos, damos gracias a todos los que han intervenido y rogamos a Dios que nuestras
+Fraternidades sean un lugar donde la extrañeza queda abolida por el amor a la
+Presencia (que es también el fin)» (01, 325).
+
+**La Iglesia que reconoce.** «Por eso hemos pedido a Dios y hemos insistido ante los
+hombres, y ahora damos gracias a Dios —¡démosle gracias todos los días!— y estamos
+agradecidos a los hombres, al Papa y a quien lo ha realizado, estamos
+profundamente agradecidos porque la Iglesia nos ha reconocido, porque la Iglesia ha
+reconocido nuestra pertenencia a ella. Esta es la libertad y esta es la fuente de la
+alegría para nosotros, seguridad y alegría» (01, 347).
 
 ## Relaciones doctrinales
 

@@ -3,11 +3,11 @@ type: Concepto Teológico
 title: "Moralismo"
 description: "Es absurdo desear un sacrificio; amar el sacrificio es moralismo repugnante; antes del sacrificio está el amor a una Presencia."
 tags: ["espiritualidad", "moral", "sacrificio", "moralidad"]
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 ---
 
 > Área: Conceptos Teológicos / Espiritualidad y moral
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -40,6 +40,29 @@ DLV refuerza la crítica del moralismo desde la moralidad como amistad:
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — el «moralismo» como segunda mutilación del catolicismo protestantizado: reducido el cristianismo a «Palabra» interpretable por la conciencia, el comportamiento del hombre «necesariamente será guiado e identificado como valor por los ideales que la cultura dominante aprobará»: «la moralidad es entonces algo que deriva de las leyes y de la coherencia con una concepción de la vida avalada por el poder» (L37).
 - **Parte seconda** — «el moralismo es siempre reductivo del horizonte moral y es siempre acusativo del hombre»: exalta unos valores y censura otros; «la moralidad se convierte en moralismo encarnizado: o el comportamiento fluye del dinamismo intrínseco de un avvenimiento al que uno pertenece, o es una selección arbitraria y pretenciosa de afirmaciones» dominadas por las elecciones más publicitadas por el poder (L43-47).
 - **Parte seconda** — frente al moralismo, «la moralidad como gracia»: «el hombre deviene sí mismo, camina hacia su realización, por una gracia», viviendo dentro del «hecho familiar» de la fraternidad en Cristo; «la salvación como gracia, es decir, como algo que es dado permaneciendo y perseverando en una realidad viva» (L99-107).
+### Según La convenienza umana della fede (CUDF)
+
+Giussani denuncia los **nuevos moralismos** que en 1987 se manifestaban en la opinión
+pública y también en la Iglesia: «La corrupción política y los primeros indicios de una
+crisis económica provocaban reacciones y preocupaciones; nuevos moralismos se estaban
+manifestando en la opinión pública, y también en la Iglesia, aunque ya se percibieran
+sus límites y diversas dudas sobre la suficiencia de la propuesta que pretendían
+llevar» (03, 9).
+
+**El capítulo 19 de Mateo contra los moralistas.** «Parte, como muchos ya sabréis, con
+el problema del divorcio, que plantean a Cristo no los divorcecistas, sino los
+fariseos, los radicales, los moralistas a ultranza» (01, 161).
+
+**La moralidad no es nuestra capacidad.** «Así, la moralidad de la vida no es
+capacidad nuestra. Nuestro corazón es malvado, tanto es verdad que Jesús lo ha dicho una
+vez: “Todos vosotros sois malvados” (Mt 12,34; Lc 11,13). Y quien empuña esa palabra
+para juzgar a otros, o para desplegar programas, es realmente un “pobre hombre”»
+(G. Carducci; 03, 113).
+
+**El voluntarismo.** «La moralidad no consiste en cómo me veo yo, con mi falso examen de
+conciencia, ni es un propósito mío, con mi melancólico voluntarismo, ni es una
+autocrítica que termina siempre, si es sincera, en la desesperación» (03, 117).
+
 ## Distinciones importantes
 
 - **Sacrificio como medio vs. sacrificio como fin**: El amor se ordena a lo verdadero y al otro; el moralismo invierte la jerarquía y hace del sacrificio un fin.

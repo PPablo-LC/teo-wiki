@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gozo
 tags: ["moral", "ascética"]
 
-timestamp: 2026-08-31
+timestamp: 2026-10-02
 description: "El gozo espiritual es un fruto del [[espíritu_santo]] y un efecto de la [[virtud_de_la_caridad]], que consiste en la alegría profunda y estable que experimenta el alma que vive en la gracia de Dios."
 ---
 # Gozo
 
 > Área: Moral / Ascética
-> Última actualización: 2026-08-31
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -59,6 +59,32 @@ Baird y Barron distinguen la alegría (gozo) de la felicidad como estado emocion
 Este gozo vive la paradoja del "ya sí/no aún" del peregrino: nos alegramos porque «yo estoy con vosotros todos los días» (Mt 28,20) mientras lloramos porque «un poco, y ya no me veréis» (Jn 16,16). Barron (01) define la alegría como algo más que un estado emocional pasajero: «no es un estado emocional pasajero... es la paz de estar arraigado en Cristo».
 
 [EAC-14, 14_feature_baird.md, 01_from_the_desk.md]
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani identifica la alegría como **la palabra que señala el fin**: «Lo que señala
+el fin por el que adherimos a la palabra de Dios, por el que adherimos a nuestra
+amistad y a nuestra compañía, por el que aceptamos cargar con el tiempo y aceptamos
+vivir, es la palabra “gozo”. Dios ha hecho al hombre para el gozo» (03, 23).
+
+**El mal como límite del gozo.** «El mal es lo que es contrario al gozo, es
+exactamente el límite del gozo, es lo que lo impide, porque el gozo está en la verdad»
+(03, 63).
+
+**El gozo como argumento de la paz.** El gozo —que, junto al dolor, es el argumento de
+la paz— «se convierta en un premio a la fe y a la fidelidad» (P. Claudel; 03, 27).
+
+**El gozo como energía de la presencia comunicativa.** «Este acontecimiento, tan discretamente y potentemente esbozado en la historia de nuestra
+amiga, rosa del cáncer, […] se convierte verdaderamente en gozo,
+*jouissance*, en un gozarse. El acontecimiento de la relación con Cristo se convierte
+en fuente de gusto, de disfrute, de afecto, de gozo, y solo en el gozo está la energía
+de una presencia comunicativa» (03, 169).
+
+**La vida como verdad, no como éxito.** «He aquí por qué estamos juntos. Como observaba
+uno de vosotros esta mañana, nuestra vida debe realizarse no como éxito, sino como verdad.
+Aquí está el verdadero éxito: “¿Acaso el fin de la vida es vivir? […] No vivir, sino
+morir, y dar con alegría lo que tenemos. Aquí está el gozo, la libertad, la gracia, la
+juventud eterna!”» (P. Claudel, *L'Annuncio a Maria*; 00, 93).
 
 ## Distinciones importantes
 

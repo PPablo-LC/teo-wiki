@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tentación
 tags: ["ascética_y_moral"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 description: "La tentación es toda incitación al mal, ya proceda del demonio, del mundo o de la propia concupiscencia."
 ---
 # Tentación
 
 > Área: Ascética y Moral
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -86,6 +86,31 @@ Tradicionalmente se ha dicho que las tentaciones proceden de tres fuentes. 1) **
 En la Tischrede 59 (AED, 08, 155), la tentación es la insinuación del equívoco: «La tentazione è l'insinuarsi dell'equivoco, è l'equivoco che tenta di insinuarsi. Si dice: "Ti voglio bene" e invece è: "Ti voglio prendere"». En la Tischrede 45 (AED, 17, 149-151), es lo hostil al ser que se presenta como bien: satanás parece positivo —«Mangia di tutto, non fare nessun sacrificio»— «e l'esito è la morte».
 
 En la Tischrede 184 (AED, 20, 45), la tentación «per sua natura tende a durare» (como el verbo iterativo latino *temptare*: continuamente ser arrancado); Giussani remite al CEC §1857 para distinguir el pecado grave de las turbulencias momentáneas. La responsabilidad más grave está en la connivencia con el recuerdo que insiste (AED, 20, 55; cf. Lewis, *Cartas del diablo a su sobrino*). Se supera «non quando la si è cacciata, la si è estirpata, ma quando sembra sopravvivere mentre non ha più le radici» (AED, 20, 111-113).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani enumera las cuatro objeciones al compromiso con la Fraternidad. La segunda
+es **el activismo**: «Servir al movimiento en tanto que hace avanzar “nuestras
+cosas”; nosotros tenemos “nuestras cosas”, el movimiento hace avanzar esas cosas y
+entonces nosotros nos ligamos al movimiento por las cosas que hacemos. No ligamos
+nuestra persona al movimiento, sino que estamos ligados al movimiento por las cosas
+que hacemos. Esto no desarrolla la experiencia de nuestra vida, porque estamos
+encerrados en un trocito, estamos encerrados en la cosa que hacemos» (01, 371).
+
+**La superficialidad.** «En segundo lugar, la superficialidad. Por superficialidad se
+siente mucho más la compañía que no Cristo, es decir, se siente la compañía y no la
+razón por la que se reúne, ni lo que la genera. El contenido de la compañía, como
+decíamos ayer, el afecto a Cristo — vivir este contenido debería hacer estallar
+nuestra vida, transformarla —, está degradado» (01, 373).
+
+**Las decepciones.** «Por último, tengamos cuidado con el significado de nuestras decepciones.
+El movimiento, la Fraternidad, la compañía no es como tú te la imaginas. Pero ¿qué
+esperas? Si esperas a Cristo, si tiendes a Cristo, aunque la comunidad estuviera
+formada, como he dicho, por un rebaño de innobles, de personas innobles, sentirías
+crecer en ti el afecto a Cristo, sentirías tu vida transformarse» (01, 375).
+
+**La primera objeción.** «Estimamos existencialmente más algo que no es Cristo» (01,
+363-375).
 
 ## Distinciones importantes
 

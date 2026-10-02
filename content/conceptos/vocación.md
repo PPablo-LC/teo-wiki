@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vocación
 tags: ["dogmática", "moral", "ascética"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 description: "La vocación es la llamada de Dios al hombre para que, en libertad, responda al designio divino sobre su vida."
 ---
 # Vocación
 
 > Área: Dogmática / Moral / Ascética
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -77,6 +77,24 @@ El designio de Dios «se te aparece como propuesta», no como imposición: «la 
 
 «Dios inscribe en la humanidad del hombre y de la mujer la vocación y consiguientemente la capacidad y la responsabilidad del amor y de la comunión. El amor es por tanto la vocación fundamental e innata de todo ser humano» (SHVS 8). «Dios llama a la santidad a todos los hombres y, para cada uno de ellos tiene proyectos bien precisos: una *vocación personal* que cada uno debe reconocer, acoger y desarrollar» (SHVS 100). «La vida humana adquiere plenitud cuando se hace *don de sí*: un don que puede expresarse en el *matrimonio*, en la *virginidad consagrada*, en la *dedicación al prójimo* por un ideal, en la *elección del sacerdocio ministerial*» (SHVS 34).
 
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani define la vocación como **el impacto de la realidad sobre el yo**:
+«La Fraternidad es para que ocurra mi vocación, es una ayuda a que ocurra mi
+vocación. “Vocación” es la palabra cristiana más bella y menos entendida. La
+vocación es el impacto del cosmos, de la realidad, de la historia sobre mi yo: el
+impacto provoca mi yo; ese “provocar” se llama vocación» (01, 287).
+
+**El destino y la vocación.** «¿Qué determina el sentido del destino? La
+provocación de la realidad. La relación con el destino se llama vocación, pero la
+imagen de mi relación con el destino, o vocación, es provocada por el impacto de
+la realidad conmigo mismo» (01, 287).
+
+**La vocación está determinada por la conciencia del fin.** «Viene determinado en un
+solo modo: por la conciencia que cada uno tiene del fin por el que os reunís. Lo
+que uno recibe de la Fraternidad es según la medida de su contenedor» (*Quiquid
+recipitur ad modum recipientis recipitur*; 01, 291).
 
 ## Distinciones importantes
 

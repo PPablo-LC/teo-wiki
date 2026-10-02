@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Ley moral natural"
 description: "La ley moral natural es la participación de la ley eterna en la criatura racional; es conocida por la recta razón y constituye el fundamento de la ética."
 tags: ["moral_católica", "ética", "derecho_natural"]
-timestamp: 2026-08-18
+timestamp: 2026-10-02
 ---
 
 # Ley moral natural
 
 > Área: Moral / Filosofía moral
-> Última actualización: 2026-08-18
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -30,6 +30,34 @@ Platón, en la *República*, defendió la existencia de un bien universal cognos
 **Amenaza actual:** Frey advierte que la ley moral natural se encuentra actualmente amenazada por la democracia corrupta: cuando la mayoría decide ignorar los principios morales universales, la ley natural queda desterrada del espacio público. La erosión del derecho natural conlleva la arbitrariedad del poder estatal y la tiranía de las mayorías.
 
 **Consenso pagano y patriarcal:** Frey señala que los ancianos paganos y los patriarcas del Antiguo Testamento apoyaban las prohibiciones universales derivadas del derecho natural: el imperio del *natural law* circulaba entre los gentiles como un conocimiento tácito, transmitido por la tradición y la experiencia humana común. Esta observación subraya la universalidad de la ley natural, anterior a la Revelación específica.
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani lee el capítulo 19 de Mateo (el del matrimonio y el divorcio) como «una evidencia
+estrepitosa», «un capítulo que hay que retomar siempre» (01, 161).
+
+**El ideal determina la estimación última.** «Fieles, pues, a la ley en el hacer
+nuestras cosas: he aquí lo que Cristo produce, recordándonos que el ideal debe
+determinar la estimación última en base a la cual hacemos todo; Cristo produce una
+inclinación poderosa de fidelidad a la ley, porque la ley es el reflejo del ideal
+sobre las circunstancias, es el reflejo del ideal último, de la estimación última,
+sobre las circunstancias, es el reflejo de la conciencia del nexo entre las
+circunstancias y la totalidad del designio» (01, 163).
+
+**Qué es el ideal.** «“El ideal” significa la totalidad de la que es función lo que
+haces. Por tanto, la fidelidad a la ley, como la describo, no es otra cosa que la
+afirmación del amor como supremo dinamismo de la vida: al afirmarme a mí mismo,
+te afirmo a ti; al afirmarme a mí mismo plenamente, de verdad, te afirmo a ti» (01,
+165).
+
+**El cálculo y la gratuidad.** «Es la gratuidad como alma extraña de todo lo que
+se hace. Y fíjate, por favor, en que no sólo no te exime de calcular bien todo lo
+que tienes que hacer, sino que te obliga a ser más serio en ese cálculo» (01, 165).
+
+**El trabajo como lugar de la gratuidad.** «“Fieles a la ley”, como reflejo del ideal
+sobre las circunstancias; por tanto, afirmación del amor o de la gratuidad; y el
+trabajo como el lugar común y ordinario donde esta gratuidad se ejerce. Nada de
+un trabajo fin a sí mismo o que recupera exclusivamente en sí mismo sus propias razones» (01, 167).
 
 ## Distinciones importantes
 

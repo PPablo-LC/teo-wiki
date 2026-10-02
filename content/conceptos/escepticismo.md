@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Escepticismo"
 description: "Postura filosófica que duda del valor de todo conocimiento cierto; el cristianismo la juzga autocontradictoria y, en la práctica, raíz de la incredulidad moderna."
 tags: [filosofía, apologetica, razón, fe_y_razón]
-timestamp: 2026-09-19
+timestamp: 2026-10-02
 ---
 
 # Escepticismo
 
 > Área: Filosofía / Apologetica
-> Última actualización: 2026-09-19
+> Última actualización: 2026-10-02
 
 El **escepticismo** es la postura filosófica que niega o duda radicalmente de
 la posibilidad de alcanzar la verdad cierta. En sus formas clásicas
@@ -54,6 +54,34 @@ presupone y la [[razón]] defiende.
 
 [[razón]], [[fe_y_razón]], [[verdad]], [[relativismo]], [[ateísmo]],
 [[incredulidad]], [[apologetica]], [[positivismo_lógico]]
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani describe el escepticismo como una serpiente que entra a hurtadillas: «¡Ojo,
+por favor! El escepticismo es un veneno o una serpiente que entra a hurtadillas,
+sin que nadie se dé cuenta, en todos. Porque lo que en última instancia se expresa
+con el “pero” —aunque no se exprese y se guarde por dentro—, o con el “si”, o con
+el “quizá”, es escepticismo, y corta la corriente de la vida, corta del compromiso con
+lo real» (01, 155).
+
+**La raíz común.** «Esta mañana hemos indicado la fuente del pecado como el olvido,
+como el escepticismo, como la confianza en las cosas que hacen nuestras manos» (01,
+145).
+
+**Ante Pilato.** En el diálogo de Cristo con Pilato, «Jesús le dice en cierto
+momento: “He venido a dar testimonio de la verdad”. Entonces Pilato se pone de pie y
+dice, mientras se va: “¿Qué es la verdad?”» (Jn 18,37-38; 01, 157).
+
+**El escepticismo se opone a la confianza en las cosas propias.** «Cristo combate
+con claridad la confianza que ponemos en nuestras cosas, en las cosas hechas por
+nosotros o en los tiempos establecidos por nosotros y proclamados con pretensión
+delante de Dios» (01, 159).
+
+**La convenienza humana es provisional.** «Caminamos, pues, según una conveniencia
+humana —la que san Pablo llama “carne”—, mientras la convenienza humana es una
+indicación provisional, que es justo tomar en serio, pero que debe estar toda
+atravesada por la afirmación, la búsqueda, o mejor, la devoción al valor, es decir,
+al ideal» (01, 159).
 
 ## Referencias
 

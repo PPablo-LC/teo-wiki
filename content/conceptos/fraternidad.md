@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fraternidad
 tags: ["moral", "eclesiología"]
 
-timestamp: 2026-06-03
+timestamp: 2026-10-02
 description: "La fraternidad es la virtud por la cual los cristianos se reconocen como hermanos en Cristo, hijos del mismo Padre celestial, y se tratan con amor, respeto y solidaridad mutuos."
 ---
 # Fraternidad
 
 > Área: Moral / Eclesiología
-> Última actualización: 2026-06-03
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -42,6 +42,36 @@ La caridad fraterna es una parte esencial de la perfección cristiana. El amor a
 > **Nota**: Fuente complementaria de carácter testimonial y pastoral, no magisterial.
 
 En las notas se aborda la fraternidad como don de la Pascua. La comunidad cristiana es el lugar donde se vive la fraternidad como anticipo del Reino. La reconciliación fraterna es condición para la Eucaristía.
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani describe la Fraternidad como **el ámbito donde la fisonomía del
+movimiento vive con más vivacidad**: «Se puede ser también de tres —fíjate en que
+estar en tres debe ser la introducción a estar en dos: una Fraternidad debe ser el
+ámbito donde uno aprende a querer bien a su mujer, porque el “dos” es a la vez el
+máximo de la dificultad y de la realización—» (01, 211).
+
+**El sacrificio funda la fraternidad.** «El sacrificio, que vuelve a proponer la
+afirmación de una medida más grande, es decir, del amor, la afirmación del otro,
+establece las relaciones entre los hombres como fraternidad» (02, 157).
+
+**Es abolida la extrañeza.** «La primera vez que ves a gente que nunca has visto
+—más extraños que estos “se more”, y que quizá te serían incluso antipáticos por
+forma y por manera—, los abrazas como si fueran de casa tuya, y si tienen
+necesidad tú sacarías el pan de la boca» (02, 157).
+
+**El tamaño es secundario.** «Se llama espacio humano; espacio humano no
+significa una cantidad: el movimiento no es solamente, o no es tanto, una
+cantidad más vasta que tu relación con tu mujer o con tu marido» (01, 211).
+
+**La Fraternidad como cordada.** «Es una compañía, es una cordada hacia una
+cumbre, que no es difícil sino por el hecho de que el hombre tiene la extraña
+tentación de no quererla» (01, 213).
+
+**La frase de Ratzinger.** «El amor en abstracto nunca tendrá fuerza en el mundo
+si no hunde sus raíces en comunidades concretas, construidas sobre el amor
+fraterno» (02, 167-169). De ahí la consigna: «La civilización del amor se
+construye únicamente partiendo de pequeñas comunidades fraternas» (02, 169).
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Cristianismo"
 description: "Religión fundada en Jesucristo, Hijo de Dios encarnado, muerto y resucitado; realidad histórica y trascendente que engloba fe, sacramento, vida y cultura."
 tags: [teología_fundamental, cristología, eclesiología]
-timestamp: 2026-09-23
+timestamp: 2026-10-02
 ---
 
 # Cristianismo
 
 > Área: Teología fundamental / Cristología / Eclesiología
-> Última actualización: 2026-09-23
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -35,6 +35,32 @@ La realidad histórica y trascendente fundada en **Jesucristo** —Hijo de Dios 
 ## Ver también
 
 [[iglesia]], [[cristo]], [[misterio_pascual]], [[revelación]], [[fe]], [[sacramentos]], [[nueva_evangelización]], [[cristología]], [[misterio_eucarístico]]
+
+### Según La convenienza umana della fede (CUDF)
+
+La obra es en sí misma una **puesta a prueba del cristianismo**: «*La convenienza umana
+della fede* (1985-1987) es el segundo volumen de la serie BUR
+*Cristianesimo alla prova*» (00, 7).
+
+**El desafío de fondo.** «El fundador de CL lanza un desafío: la incapacidad, la
+debilidad y la incoherencia moral pueden ser *coartadas para no movernos*; todos,
+además, debemos admitir que nos cuesta “acoger el ideal dentro de la convenienza
+humana” por miedo a perder algo» (00, 7).
+
+**El hombre creado para la alegría.** «Si nos abandonamos a Dios, mediante una
+adesión sincera» (00, 7).
+
+**La alternativa radical.** «Nuestra existencia se juega entera ante la gran
+Presencia que es Cristo, que ha entrado en la vicenda humana. Y es “el”
+problema de los problemas; desde el momento en que resonó el anuncio de que “el
+Verbo se ha hecho carne y ha venido a morar entre nosotros”, esta es la alternativa
+radical: “O amar a Cristo en un aniquilamiento de toda la vida en el amor, en el
+ardor, el altruismo y la dedicación” […]» (00, 79).
+
+**El criterio de Ratzinger.** «¿Qué ocurre cuando yo mismo me hago cristiano,
+cuando me someto al nombre de este Cristo, aprobándolo así como el hombre modelo,
+como el parámetro normativo de todo obrar humano?» (J. Ratzinger, *Introduzione al
+cristianesimo*; 02, 11).
 
 ## Referencias
 

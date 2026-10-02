@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gratuidad
 tags: ["moral", "teología_espiritual"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 description: "La gratuidad es la cualidad del amor que se da sin esperar retribución, reflejo del amor mismo de Dios que crea, salva y santifica por pura iniciativa de amor."
 ---
 # Gratuidad
 
 > Área: Moral / Teología espiritual
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -44,6 +44,33 @@ El gesto profético de la visita al CEDIA 24 Horas (6 de junio) concretó esta e
 En la Tischrede 12 (AED, 13, 91-97), la gratuidad nace del «sí» de Cristo: «Cristo non ha tentennato tra il sì e il no, ma ha detto "sì"... e noi dobbiamo dire "Amen", partecipando alla coscienza con cui Cristo affermava le cose come il Padre le voleva» (cf. 2Cor 1,19).
 
 Junto a la moralidad existe «qualcosa d'altro»: «L'impeto della gratuità non è una legge morale descrivibile. È da questo impeto che la fatica fiorisce in letizia ed è capace di sostenere il peso di se stessa» (AED, 13, 95). En la intervención a la Compagnia delle Opere, citada en la nota, «l'amore, lo sappiamo bene, non ha confini. Ci deve essere, allora, in ciò che facciamo qualcosa che non ha i confini di ciò che facciamo» (AED, 13, nota 15). La síntesis es la memoria: «Vivere la memoria: riconoscere Cristo presente in tutto ciò che si fa» (AED, 13, 97).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani identifica el gesto supremo de gratuidad con la **mendicancia**:
+«Mendicancia del Señor. ¿Cuántas veces hemos realizado este gesto supremo de
+gratuidad? Porque el gesto supremo de gratuidad es mendigar a Cristo, mendigar al
+Señor en nuestra vida» (01, 179).
+
+**Maranátha.** «No la búsqueda de la perfección —pues ésta es milagro de Dios: a
+nosotros nos es imposible, pero a Dios todo le es posible—, sino mendigar que
+Cristo venga, que Dios venga. Es la primera oración de los cristianos que nos ha
+sido transmitida: *Maranátha*, “Ven, Señor”, con la que concluye toda la Biblia,
+con la que concluye el Apocalipsis. Y el Señor dice: “Vengo pronto” (Ap 22,20; 01,
+179).
+
+**Empezar por el «gracias».** «Empezar por el “gracias”, antes incluso de tener,
+quiere decir ser capaces de recibir bien, porque es sólo la gratitud la que hace
+capaces de recibir bien. Esta es una condición creatural, porque somos criaturas,
+somos hechos» (02, 187).
+
+**La gratuidad es afirmar a Cristo.** «Se llama gratuidad la afirmación de Cristo,
+porque la afirmación de Cristo, la determinación que Él opera, en la medida en que
+nuestra libertad lo permite, es lo único que da sentido a la vida» (01, 349).
+
+**La caridad es reconocer la gratuidad absoluta.** «La caridad es reconocer a
+Cristo. La gratuidad absoluta, la caridad como gratuidad total, es reconocer que
+Dios se ha hecho uno de nosotros» (03, 247).
 
 ## Distinciones importantes
 

@@ -2,7 +2,7 @@
 type: Persona
 title: Madre Teresa de Calcuta
 description: "Agnes Gonxha Bojaxhiu (1910-1997), fundadora de las Misioneras de la Caridad, Premio Nobel de la Paz 1979"
-timestamp: 2026-09-07
+timestamp: 2026-10-02
 tags:
   - persona
   - caridad
@@ -11,7 +11,7 @@ tags:
 ---
 
 > Área: Persona
-> Última actualización: 2026-09-07
+> Última actualización: 2026-10-02
 
 ## Contexto histórico
 
@@ -48,6 +48,29 @@ En *Evangelization & Culture, Issue 19* (Artificial Intelligence), Fr. Anselm Ra
 > «Si ella siguiera viva hoy, podría predecir que la Madre Teresa no va a asesinarme. Es demasiado virtuosa para eso. Pero, ¿acaso eso significa que la virtud la ha hecho perder su libertad? En absoluto, a menos que pensemos que el comportamiento aleatorio es la marca distintiva de la elección libre» (Ramelow, *E&C* 19).
 
 La libertad no tiene que ver con el capricho sino con la sabiduría: es racional y, por esa razón, predecible. La virtud consiste en seguir el bien moral conocido racionalmente de forma consistente, no caprichosa; esa consistencia no priva de libertad, sino que la aumenta. Los algoritmos que predicen nuestras elecciones se apoyan en estadísticas que no distinguen entre las regularidades que provienen de propensiones depravadas y las que son resultado de la sabiduría y la virtud — las primeras documentan nuestra esclavitud, las segundas nuestra libertad.
+
+### Según La convenienza umana della fede (CUDF)
+
+Madre Teresa aparece en la fuente como **testigo de la verdad del amor**. En la
+entrevista realizada para la RAI, a la pregunta del entrevistador «Madre, ¿qué
+motivaciones tienen sus hermanas para hacer todo lo que hacen?», respondió: «Es
+que aman a Jesús» (03, 65).
+
+**El efecto en la personalidad.** «Será la madurez de la gracia en nuestra vida la
+que hará posible que también nosotros, con esta simplicidad sublime, respondamos con
+esta palabra: “¿Qué motivaciones tienes, hombre, para hacer todo lo que haces?”.
+“Io amo Cristo”» (03, 67).
+
+**El punto de partida del libro.** La entrevista a Madre Teresa fue el punto de
+partida para profundizar el motivo de la presencia y de las *obras* (03, 17).
+
+**Su sello en la mirada sobre el pobre.** «¿Por qué está determinado el rapporto entre
+el hombre y la mujer? Por el hecho de que son dos seres humanos en camino hacia el
+idéntico destino, amados y salvados por el mismo Dios hecho hombre, por Jesús.
+¿Cuándo es verdadero este rapporto? Cuando la memoria se convierte en norma y
+así hace verdadero su rapporto. También en las Hermanas de Madre Teresa de Calcuta
+esos pobres entre los más pobres provocan el horror y la repugnancia que provocan
+en nosotros» (00, 57).
 
 ## Relaciones doctrinales
 

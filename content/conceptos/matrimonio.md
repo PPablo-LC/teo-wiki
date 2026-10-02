@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Matrimonio
 tags: ["sacramental"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 description: "El matrimonio es el sacramento instituido por Nuestro Señor Jesucristo que santifica la unión legítima entre un varón y una mujer."
 ---
 # Matrimonio
 
 > Área: Sacramental
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -250,6 +250,22 @@ Tóth traza el arco completo del matrimonio: institución divina en la creación
 **El matrimonio como camino de santificación**, no de mero goce: los obstáculos para contraerlo son externos (comodidad, cálculos económicos) e internos (egoísmo, miedo al sacrificio, hedonismo moderno) [EMC, cap. 6]. La elección del cónyuge y el noviazgo cristiano (tiempo de conocimiento mutuo y de virtud, con pureza) preparan una decisión que compromete toda la vida [EMC, caps. 4-5].
 
 **El matrimonio feliz** descansa en **la mesa familiar, el crucifijo y la cuna**: dos columnas — **autoridad y amor** (Ef 5,22-26). La obediencia de la esposa no humilla: la mujer es «el corazón» de la familia, el esposo «la cabeza»; el amor evangélico del esposo es abnegado, dispuesto a dar la vida como Cristo con la Iglesia; «la alfombra persa» del hogar entrelaza hilos oscuros de sufrimiento, autoridad, disciplina, indulgencia y perdón; el matrimonio contraído ante el altar = lugar del sacrificio. El secreto: «dos caminos humanos que se encuentran en Dios» [EMC, cap. 12].
+### Según La convenienza umana della fede (CUDF)
+
+Giussani lee Mt 19 como una «evidencia estrepitosa»: «Es un capítulo que hay que
+retomar siempre. Parte, como muchos ya sabréis, con el problema del divorcio, que
+plantean a Cristo no los divorcecistas, sino los fariseos, los radicales, los
+moralistas a ultranza» (01, 161).
+
+**La indisolubilidad.** «Hay un capítulo del Evangelio que yo quería comentar también
+hoy […] es el decimonoveno capítulo de san Mateo, donde Jesús afirma que el hombre no
+puede nunca separarse de la mujer, no puede nunca abandonar la mujer que ha
+desposado. Porque en el principio era así, en el principio no había el divorcio» (02,
+155).
+
+**El valor de la vida.** El valor está «en ser función del designio de Dios, del reino
+de los cielos» (03, 233; cfr. Mt 19).
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento

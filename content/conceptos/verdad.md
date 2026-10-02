@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Verdad
 tags: ["filosofía", "doctrina_social", "moral"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 description: "La verdad es uno de los valores fundamentales de la vida social, inherente a la dignidad de la persona humana; exigencia última del corazón y adecuación del entendimiento según Giussani."
 ---
 # Verdad
 
 > Área: Filosofía / Doctrina Social / Moral
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -128,6 +128,20 @@ Giussani parte de la definición clásica: «*veritas consistit in adaequatione 
 **La verdad os hará libres.** Citando Gv 8,32, Giussani distingue entre la libertad como capacidad del fin último —que se adhiere a la verdad del Misterio— y la libertad degradada a pura satisfacción, consecuencia de la reducción de la pregunta de fondo. La verdad es condición de la verdadera libertad: «la libertad verdadera = capacidad del compimento último» (SR, `15_capitolo_ottavo.md`, §46-60).
 
 **Verdad y moralidad del conocer.** La verdad se reconoce solo con una disposición moral correcta: el desorden afectivo y el prejuicio oscurecen el conocimiento, mientras la limpieza de corazón y la pobreza de espíritu (Mt 5,3) disponen a la verdad (SR, caps. I, III).
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani el problema de la verdad no es enunciarla, sino que penetre en
+la vida. «El problema no es enunciarla; el problema es que penetre en nuestro
+corazón, se vuelva hasta tal punto factor normal del color del mundo, del clima
+de nuestra vida, del sentimiento de nuestro corazón, de nuestra autoconciencia, de
+la conciencia que tenemos de nosotros mismos, se vuelva tan habitual que luego
+incida y determine todas las demás actitudes» (01, 69).
+
+**La verdad como punto de partida.** «Nuestro viaje ha comenzado y vuelve a
+comenzar cada vez desde la verdad de nuestro corazón. Y es por eso que la
+primera palabra que usó el Señor no fue: “Haced esto” o “Haced aquello”, sino:
+“Cambiad el corazón”» (01, 67; Mt 4,17).
 
 ## Relaciones doctrinales
 

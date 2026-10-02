@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Humildad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-09-12
+timestamp: 2026-10-02
 description: "La humildad es la virtud fundamental que cohibe el apetito desordenado de excelencia; hacerse como niños ante la realidad y ante el Misterio según Giussani."
 ---
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-09-12
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -145,6 +145,23 @@ Tres registros de humildad:
 - **La «misericordia conoscita» del Curato d'Ars (cap. 8)**: pide a Dios conocer su miseria y queda sobrecogido: «Se Dio non mi avesse sostenuto, sarei allora immediatamente caduto nella disperazione»; pide la gracia de olvidarla, conservando «abbastanza lucidità... da farmi comprendere che io non sono buono a nulla». Es la «mistica notte» de «Dio tutto, io nulla» (Agustín, Francisco, Catalina de Siena). Su humildad no es complejo psíquico sino verdad vivida: intenta tres veces fugarse de Ars por juzgarse indigno, y al ser retenido: «ho fatto il bambino!».
 - **La piedad del miedo de Tomás Moro (cap. 13)**: no se cree digno del martirio y no lo provoca: «non mi faccio avanti ma mi traggo indietro. Ma se sarà Dio stesso a portarmici, confido che... non mancherà di darmi grazia e forza». La humildad de quien conoce su debilidad («un buffetto mi fa quasi traballare») y no por eso capitoló jamás.
 - **La humildad que recibe todo (Benedetta, cap. 3)**: «Ho capito che mi è stato ripagato quello che mi è stato tolto poiché possiedo la ricchezza dello Spirito»; «non ho che poche briciole di pane» — la pobreza radical que confía que el poco se convierte en oro.
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani ve la humildad como el clima verificador de la moralidad. **Abraham como
+modelo**: «Supongamos que Abraham se preguntara, mientras se marchaba de noche por
+la dirección que Dios misteriosamente le había ofrecido: “¿Quién soy? ¿Quién
+soy?”. Su respuesta era: “Soy tuyo, soy de ti”. No hay ninguna definición
+sustancial más verdadera que ésta» (01, 99).
+
+**Toda la ley de la existencia humana.** «Toda la ley de la existencia humana
+—decía Dostoyevski— está solamente en esto: en que el hombre pueda siempre
+inclinarse ante lo infinitamente grande» (*Los demonios*; 01, 101).
+
+**Ser grandes no exime de lo pequeño.** «Siendo grandes, evidentemente podéis hacer lo que
+queráis, pero sería un lastre más pesado si no supierais hacer lo que saben hacer
+vuestros amigos más pequeños, o incluso vuestros hijos, es decir, reflexionar en
+silencio» (01, 103).
 
 ## Distinciones importantes
 

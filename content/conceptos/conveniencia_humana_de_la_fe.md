@@ -109,7 +109,7 @@ sin temerosa de perder lo suyo.
 - [[regla]] — la concreción de la *convenienza* en hechos
 - [[fraternidad]] — el corolario eclesial: se elimina la extrañeza
 - [[gratuidad]] — la gratuità del motivo último
-- [[caritas]] — el amor como «fate» del hombre
+- [[caridad]] — el amor como «fate» del hombre
 - [[identificación_con_cristo]] — el encuentro que hace orgánico el destino
 - [[luigi_giussani]] — autor de la tesis
 - [[la_convenienza_umana_della_fede]] — la obra donde se desarrolla

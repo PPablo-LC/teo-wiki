@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Espíritu Santo
 tags: ["dogmática"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 description: "Tercera Persona de la Santísima Trinidad, Dios verdadero, consubstancial al Padre y al Hijo, que procede del Padre y del Hijo (Filioque)."
 ---
 # Espíritu Santo
 
 > Área: Dogmática
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -76,6 +76,29 @@ El Espíritu de Dios no puede separarse del Padre y del Hijo; se revela con ello
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 El Espíritu procede como el amor subsistente del Padre y del Hijo: el Verbo «espira amor» (*verbum spirans amorem*); amar no engendra semejante sino que inclina hacia lo amado — de ahí el nombre de Espíritu (*ruah*: viento, aliento). Procede del Padre y del Hijo porque su amor es mutuo («todo lo que tiene el Padre es mío», Jn 16,15), aunque el Padre permanece única fuente de la divinidad: el Hijo tiene del Padre el espirar. Hace obras solo divinas: escudriña las profundidades de Dios, habla, revela, enseña interiormente, habita en nosotros, es derramado en nuestros corazones, llena el universo, crea y santifica. Contra Pedro Lombardo: la presencia del Espíritu es gracia increada, pero sus efectos en nosotros son gracia creada — si toda caridad fuera la mismísima presencia increada, no sería voluntaria en nosotros.
+
+### Según La convenienza umana della fede (CUDF)
+
+Los Esercizi de 1985 se abren con el canto *Discendi, Santo Spirito* (E. Galbiati –
+J. Schweitzer, *Canti*, Milano 2014; 01, 31), y con la invocación «Invocamos, pues,
+con todo el corazón, al Espíritu» (01, 29).
+
+**El Espíritu y la guerra.** «Así, mientras venía aquí, revivía de nuevo la
+presencia de esta guerra, de las cosas que presionan en los días, uno tras otro, y
+que no permiten tanto sentir, o al menos mirar de frente; y junto a esta
+constatación de los fracasos, en esta guerra que continúa (“*Militia est vita
+hominis super terram*” — “la vida del hombre sobre la tierra es una guerra”, dice la
+Biblia —), me volvía a la mente otro punto, recordando por otra parte: “La tristeza
+que hay en mí” tiene “mil siglos”» (01, 35).
+
+**Sin el Espíritu, Cristo está en el pasado.** «Sin el Espíritu, Cristo está en el
+pasado, porque sin el Espíritu, Cristo está vacío de su divinidad. El Espíritu es la
+energía divina con la que Cristo penetra la historia y nos alcanza. Conservemos en el corazón el recuerdo al Espíritu que hemos oído
+antes» (03, 199).
+
+**La compañía vocacional como signo del Espíritu.** «¿Cuál es el signo del Espíritu en
+acción, del Espíritu que hace presente Cristo a nuestra vida? El signo más grande
+para nosotros es nuestra compañía vocacional» (03, 199).
 
 ## Distinciones importantes
 

@@ -3,11 +3,11 @@ type: Concepto Teológico
 title: "Comunione e Liberazione"
 description: "Movimiento eclesial fundado por Luigi Giussani en la década de 1950, presente en casi ochenta países; su Fraternidad fue reconocida por la Santa Sede como asociación de derecho pontificio."
 tags: ["movimientos_eclesiales", "laicado", "comunión", "evangelización"]
-timestamp: 2026-09-12
+timestamp: 2026-10-02
 ---
 
 > Área: Eclesiología / Movimientos eclesiales
-> Última actualización: 2026-09-12
+> Última actualización: 2026-10-02
 
 # Comunione e Liberazione
 
@@ -26,6 +26,28 @@ Los orígenes de CL se remontan a los primeros años cincuenta, cuando Giussani 
 - Archivo `01_biografia.md` — el movimiento, fundado por Giussani desde mediados de los años cincuenta, presente hoy en casi ochenta países
 - Archivo `05_prefazione.md` (James Francis Stafford) — los inicios en los primeros años cincuenta entre los estudiantes; la Fraternidad reconocida como asociación universal de derecho pontificio; la consigna de Juan Pablo II «Andate in tutto il mondo» en el 30º aniversario
 - Capítulo XIII — la dimensión comunitaria como condición del crecimiento de la libertad de la persona («uno más uno hace dosmil veces uno», Chesterton; Mt 18,20), característica de la vida de CL
+
+### Según La convenienza umana della fede (CUDF)
+
+La obra de Comunión y Liberación se presenta como un movimiento que nace de la
+gracia. Los Esercizi de 1985 se celebraron «en un clima particular, porque
+todavía estaba vivo el eco del encuentro con el Papa, ocurrido en septiembre del
+año anterior con motivo del trentenario de vida del movimiento» (01, 9).
+
+**Su naturaleza es histórica.** «Los Esercizi habrían aclarado cómo el cambio
+continuo, o el “volver a empezar siempre”, es la regla fundamental de la vida
+cristiana, y habrían testimoniado qué conviene realmente en la existencia humana»
+(01, 25).
+
+**Instrumento, no fin.** «La primera observación, que saco de la experiencia del
+grupo de la Fraternidad, es que se corre el riesgo de identificar el instrumento,
+es decir, la Fraternidad, con el fin, es decir, que el movimiento ocurra como el
+milagro de mi cambio» (01, 197).
+
+**La respiración del movimiento.** «Se puede decir que, no paradójicamente, pero
+con una contradicción evidente, incluso la trama de las relaciones, el modo de las
+relaciones en la Fraternidad, no tiene la amplitud, la respiración del movimiento»
+(01, 199).
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Paciencia
 tags: ["moral"]
 
-timestamp: 2026-06-11
+timestamp: 2026-10-02
 description: "La paciencia es la virtud que inclina a soportar sin tristeza de espíritu ni abatimiento de corazón los padecimientos físicos y morales. Es parte integral de la virtud cardinal de la fortaleza."
 ---
 # Paciencia
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -64,6 +64,27 @@ La paciencia y la longanimidad son los frutos del don de fortaleza. Los santos n
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 [VocTeoBib, «Paciencia»] El AT revela a Dios como «tardo a la ira y rico de gracia» (Ex 34,6s; Sal 103,8). Su paciencia no es debilidad: es llamamiento a la conversión (Jl 2,13). Jesús encarna y enseña la paciencia divina en la parábola de la higuera estéril (Lc 13,6-9) y del hijo pródigo (Lc 15,11); su pasión es el modelo supremo de paciencia (1Pe 2,23). El retraso aparente de la Parusía manifiesta la longanimidad divina, que «no quiere que nadie perezca, sino que todos vengan a penitencia» (2Pe 3,9). El cristiano debe imitar esta paciencia: en las pruebas, soportándolas con esperanza (Rom 5,3ss; Sant 1,2ss), y en la vida cotidiana, soportando a los otros con caridad (Ef 4,2; Col 3,12s). La paciencia es fruto del Espíritu (Gal 5,22).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani introduce aquí la paciencia: «La moralidad no es una capacidad
+nuestra, sino una capacidad de Cristo en nosotros. Pero si la justicia de estas cosas,
+y por tanto la belleza que de ellas brota, apaciguaran inmediatamente el sacrificio,
+sería absurdo e imposible al hombre de bien, al hombre normal, no adherirse a ellas. Por
+esto propongo la consideración de una gran palabra, casi un segundo paso en nuestra
+meditación: la memoria se convierte en norma y se realiza en la paciencia» (Lc 21,19;
+03, 167).
+
+**La paciencia, madre de muchos hijos.** «La palabra “paciencia” es como una madre con
+tantos hijos, que camina no queriendo…» (03, 167).
+
+**El gozo como energía.** «Solo en el gozo está la energía de una presencia
+comunicativa, y entonces la memoria se convierte en movimiento, se convierte en
+compañía, cuyo dolor supremo es el de no poder abrazar al mundo» (03, 173).
+
+**La alegría que se convierte en movimiento.** «Este acontecimiento […] se convierte
+verdaderamente en gozo, *jouissance*, en un gozarse. […] Solo en el gozo está la energía
+de una presencia comunicativa» (03, 169).
 
 ## Distinciones importantes
 

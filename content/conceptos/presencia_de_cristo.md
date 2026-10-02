@@ -3,11 +3,11 @@ type: Concepto Teológico
 title: "Presencia de Cristo"
 description: "Cristo presente como objeto de preferencia humana, en la compañía, en la mirada y en la carne; la palabra presencia como la más potente del vocabulario humano."
 tags: ["espiritualidad", "fe", "cristología", "encarnación"]
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 ---
 
 > Área: Conceptos Teológicos / Cristología y espiritualidad
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -40,6 +40,26 @@ En la Tischrede 100, la experiencia de la presencia se contagia: «[la experienc
 En la Tischrede 176, Cristo es presencia en la mirada: «Por eso decimos que Cristo es una presencia en la mirada. Al mirar cualquier cosa, Cristo está dentro de la mirada» (AED, 27, 133). Es la única posibilidad de participar del presente, que es la temporalidad propia de Cristo.
 
 En la Tischrede 103, la presencia en la compañía es «el último factor que constituye la experiencia de la realidad»: «afirmar que Cristo está presente en la compañía es afirmar el último factor que constituye la experiencia de la realidad» (AED, 29, 49-51).
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani Cristo **está realmente presente** y lo que hay que aprender es a
+reconocerlo. En el relato de Emaús: «Y en realidad está entre nosotros, “pero sus
+ojos no eran capaces de reconocerlo”» (Lc 24,16; 02, 211).
+
+**La memoria es el nombre de esta actitud.** «La palabra que Cristo ha usado para
+indicar la necesidad que tenemos de volver a mirarlo todas las mañanas, cada hora y
+quizá, como las monjas de Madre Teresa de Calcuta o como los cristianos que
+conozcamos, casi todos los momentos, es “memoria”; la ha llamado memoria: “Haced
+esto en memoria mía” (Lc 22,19). ¿Qué es “esto”? ¿Cuántas veces nos lo hemos
+dicho? ¿Qué quiere decir “esto”? Todo. ¡Todo!» (03, 111).
+
+**El reconocimiento como envoltorio.** «El reconocimiento que hay entre nosotros
+es como el envoltorio sacramental que lo hace presente» (02, 51).
+
+**El problema es la mirada.** «Normalmente somos incapaces de reconocerlo, no es
+habitual que nuestra compañía haga memoria de Él, automáticamente memoria de Él. Y
+así conversamos, discutimos de nuestras cosas» (02, 211).
 
 ## Distinciones importantes
 

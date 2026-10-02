@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Redención
 tags: ["dogmática", "soteriología"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 description: "La Redención es la obra por la cual Jesucristo, el Hijo de Dios hecho hombre, nos libera del pecado y de la muerte mediante su sacrificio en la cruz, reconcilia al hombre con Dios."
 ---
 # Redención
 
 > Área: Dogmática / Soteriología
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -84,6 +84,21 @@ Juan Pablo II presenta la obra de la Redención como elevación de la creación 
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 El valor de la redención deriva de la persona que la obra: si Cristo fuera solo un hombre, no habríamos sido salvados por Dios; la vida entregada tiene su valor por estar unida a la divinidad. No era absolutamente necesaria — «podía salvarnos de otra manera y borrar el pecado con una palabra» —, pero sin la cruz no tendríamos ejemplo de morir al pecado. Beneficios de la pasión: liberación del pecado (el rescate del esclavo), conocimiento del amor de Dios, provocación de nuestra respuesta de amor. Su muerte nos libera del pecado y su resurrección de la muerte: liberación plena en la resurrección de los muertos; ambas eficaces por los sacramentos. Dios nos reconcilia *en* Cristo (2 Cor 5,19): en uno que también es hombre, pues lo que había que quitar estaba en el hombre.
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani la redención está ligada al encuentro: «Sólo el encuentro con Cristo,
+sólo la comunión de este encuentro, el lazo de este encuentro, puede liberar al
+hombre, “redimiendo el tiempo”, dice san Pablo con una frase hermosísima (Ef 5,16)»
+(01, 131).
+
+**Es un encuentro de una libertad suprema con una libertad creada.** «Pero recordemos
+que este encuentro es el encuentro de una libertad suprema con una libertad creada:
+es con mi libertad con la que se mide su elección» (01, 131).
+
+**Liberar el sentido del mal.** El encuentro «puede redimir el sentido de nuestro
+nada, de nuestro mal, puede volver orgánico ese centro de gravedad que es nuestro
+corazón, el corazón de la naturaleza que late en el hombre» (01, 121).
 
 ## Analizado para
 

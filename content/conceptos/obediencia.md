@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Obediencia
 tags: ["moral", "ascética"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 description: "La obediencia es la virtud moral que inclina la voluntad a cumplir los mandatos de la autoridad legítima por consideración a Dios."
 ---
 # Obediencia
 
 > Área: Moral / Ascética
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -99,6 +99,30 @@ La obediencia de San Francisco es total, radical y alegre, basada en la renuncia
 En la Tischrede 44 (AED, 16, 241-249), la obediencia es la traducción existencial de la vigilancia cristiana: «la veglia traduce il suo contenuto: – nell'obbedienza, cioè affermare altro. Affermare altro in quello che vorresti fare... è un sacrificio – e nella regola, che è data dalla compagnia». La obediencia no es sumisión ciega: «l'obbedienza stabilisce come si deve agire», mientras la regla define el camino «già col presentimento, con un gusto iniziale» (AED, 16, 249).
 
 En la Tischrede 45 (AED, 17, 265-269), la obediencia es camino de realización personal: «È dentro l'obbedienza che uno diventa se stesso». Y su dinamismo actuante es la fidelidad: «La parola fedeltà è ancora più giusta, perché è l'obbedienza nel suo dinamismo attuantesi, nel dinamismo con cui si attua» (AED, 17, 269).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani define la obediencia en términos de las tres condiciones de la compañía:
+«1. Ante todo, la obediencia. Podemos decir que la obediencia está definida por la
+oración y por la secuencia» (02, 231).
+
+**La oración como primer modo de obedecer.** «Si el Señor dice: “Haz esto” y yo hago
+esto, obedezco a Dios. Pero si Dios me dice: “Haz esto”, y yo digo: “Sí”, y luego no
+logro hacerlo, o no quiero hacerlo, desobedezco. Entonces digo: “Señor, soy demasiado
+débil y frágil: no puedo. Te ruego, dame la luz y la fuerza para seguirte”» (02, 233).
+
+**El modo del pobre pecador.** «La oración es el primer modo de obedecer, es el modo de
+obedecer del pobre pecador, del hombre pecador» (02, 235).
+
+**Las otras dos condiciones.** «2. Después de la oración y la secuencia, viene la segunda
+condición —que corresponde a la de la virginidad—, que es la caridad, es decir, la
+*condivisione*: la Fraternidad debe convertirse en una educación a la capacidad de
+sentir la vida del otro como parte de la propia» (02, 245).
+
+**La pobreza.** «3. Quiero recordar por último la *povertà*, el espíritu de poverty. La
+pobreza es la condición para dilatar el Reino de Dios. […] La riqueza es dilatar el
+propio reino, la riqueza es poseer, es decir, dilatar el propio reino, mientras la
+pobreza es la condición para dilatar el Reino de Dios en el mundo» (02, 251).
 
 ## Distinciones importantes
 

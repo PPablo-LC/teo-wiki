@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Caridad
 description: "La caridad es la más excelente de las virtudes teologales, virtud infusa sobrenatural por la que amamos a Dios sobre todas las cosas por Sí mismo."
 tags: ["moral", "dogmática"]
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 ---
 
 # Caridad
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -301,9 +301,35 @@ Los Estatutos del Regnum Christi establecen como norma de trato fraterno la proh
 
 El principio *caritas est dare vitam pro aliis* —«la caridad es dar la propia vida por los demás»— está presente en la espiritualidad legionaria como horizonte último: la caridad no es sentimiento abstracto, sino entrega concreta que culmina en la entrega total de la propia vida, como Cristo en la cruz.
 
+### Según La convenienza umana della fede (CUDF)
+
+Giussani da a la caridad el nombre de *caritas* y la convierte en el principio
+que estructura las *opere*: «La vida de la sociedad cambia, si es affrontada en
+sus necesidades, todas, según la dinámica de una presencia viviente, según
+estructuras nuevas animadas por la *caritas*» (03, 181).
+
+**La caridad como amor a Cristo.** «La *caritas* —ese valor sin el cual también
+darlo todo y dar el propio cuerpo a las llamas es nada— es el amor a Cristo, es
+el reconocimiento, gritado en el trabajo de cada día, en la fatiga y en el riesgo
+de cada día, de que todo le pertenece» (03, 181).
+
+**La caridad da nombre a la gran alternativa.** En la parábola rusa de la
+carriola, el tercer hombre responde «Construyo una Santa Iglesia»; Giussani
+identifica esa respuesta con «una sociedad affrontada según la *caritas*, la
+caridad, en la memoria de Cristo, porque la Iglesia es la humanidad —hecha de
+ladrillos, de carne, de sangre, de corazones y de espíritus— investida y vivida,
+abrazada, en la memoria y en el amor a Cristo» (03, 183).
+
+**La caridad y el riesgo.** Más allá del trabajo cotidiano, Giussani subraya el
+valor de «estructuras operativas inventadas, sostenidas en el tiempo libre, pero
+también no en el tiempo libre, arriesgadas como alternativa a un trabajo apacible,
+en el sentido de seguro» (03, 181); son ellas las que «constituyen una verdadera
+aportación de novedad en el tejido y en el rostro social» (03, 181).
+
 ## Referencias
 
 - CEC §1822-1829
+- CUDF (Luigi Giussani, *La convenienza umana della fede*, 1985-1987), 03, 179-183
 - ColCas-II, Conferencia XVI, §§1-28
 - TPCr, Tercera Parte, Libro I, Cap. IV
 - [SFrAs, Adm. 9 — Amor al enemigo]

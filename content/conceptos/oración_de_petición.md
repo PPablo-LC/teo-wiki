@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Oración de petición
 tags: ["espiritualidad", "ascética"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 description: "La oración de petición o súplica es la forma de oración por la cual el cristiano eleva su mente a Dios para pedirle los bienes necesarios para la salvación, tanto espirituales como materiales."
 ---
 # Oración de petición
 
 > Área: Espiritualidad / Ascética
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -45,6 +45,36 @@ En DLV la oración-petición se radicaliza en *domanda di essere*:
 - **Toda acción es oración** — `Ogni azione è domanda a Dio di essere, cioè è preghiera`: cada acción del yo busca afirmar su propio cumplimiento (Péguy, *Véronique*: «Voi toccate Dio dappertutto») (DLV 07, 11-13).
 - **Pregare = scongiurare a Quien pertenecemos** — «bisogna pregare nel senso letterale del termine, vale a dire, scongiurare Colui a cui apparteniamo perché non ci abbia chiamati invano» (DLV 19, 7-11).
 - **«¿Prego por muchas cosas, pero qué quiere decir “domanda di essere”?»** — toda oración es, en el fondo, petición de ser (asamblea 1998, DLV 06, 53).
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani la oración es, sobre todo, **petición**: «Mendicar. La oración es
+mendigar; no es otra cosa, si no preguntar, mendigar. Entonces, mendigar que
+vengas, que vengas a mi vida, oh Cristo, es la fuente de la alegría de cada día»
+(03, 131).
+
+**La parábola del juez injusto.** «Les dijo una parábola sobre la necesidad de orar
+siempre sin cansarse: “En una ciudad había un juez que no temía a Dios ni
+respetaba a nadie […] había también una viuda que iba a él y le decía:
+“¡Hazme justicia contra mi adversario!”» (Lc 18,1-8; 03, 129).
+
+**La fe es petición.** «La fe es petición, así que se expresa en una mendicanza.
+La vida en su pobreza, cubierta de harapos y llena de heridas, pero la vida que
+tiende a la perfección, al cumplimiento, es el hombre que pide a Cristo» (03, 133).
+
+**La primera característica de la personalidad nueva.** «En un mundo en el que la
+gloria de Cristo es todo, la primera característica de la personalidad nueva es la
+oración, la fidelidad a la petición, a la mendicanza. El hombre mendicante […] El yo
+como mendicante» (03, 223).
+
+**Como adultos, pedir es un esfuerzo.** «Pedir es algo muy sencillo, lo hace
+también el niño. Pero de adultos pedir a Cristo es un esfuerzo profundo: hay que
+romper la costra que momento a momento se va sedimentando sobre nosotros, hay que
+romper el velo» (03, 219).
+
+**La oración es la primera forma de obediencia.** «La oración es el primer modo de
+obedecer, es el modo de obedecer del pobre pecador, del hombre pecador. Por eso, lo
+primero en que la compañía debe ayudar es la oración» (02, 235).
 
 ## Distinciones importantes
 

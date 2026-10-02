@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pecado original
 tags: ["dogmática"]
 
-timestamp: 2026-09-12
+timestamp: 2026-10-02
 description: "El pecado original es el pecado cometido por nuestros primeros padres en el origen de la humanidad; pretensión de «ser como dioses» según Giussani."
 ---
 # Pecado original
 
 > Área: Dogmática
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -216,6 +216,27 @@ El amor está expuesto, como toda la vida de la persona, «a la fragilidad debid
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 **El límite negado (parte seconda).** La sugerencia de la serpiente —«seréis como dioses, conocedores del bien y del mal» (Gn 3,5)— es «la tentación de transgredir el límite que constituye la condición de la criatura»; la Torre de Babele es «la versión, en términos sociales, del pecado original, del pecado contra el misterio» — «la pretensión de dictar a Dios lo que tiene que ver con el hombre» (02, L221-225). La mentalidad moderna insiste en que el bien «coincide con el instinto» y que pecar es solo una «estructura de la libertad» con que el instinto se autojustifica: así se olvida «el límite, el pecado original» — en la fórmula de Rabelais «Faz lo que quieras…» al himno a Lauso el Ovidio («¡vigílate, joven!»), el hombre pretende dominarlo todo como nuevo Prometeo (06, L113-123).
+### Según La convenienza umana della fede (CUDF)
+
+Giussani aborda el pecado original desde la experiencia, no desde la
+especulación. «El mal que hay en nosotros tiene “mil siglos”, dice la *Ballata
+dell'uomo vecchio*, resonando lo que decimos en el *Miserere* de Adriana
+Mascagni: “recuerda que yo nací en el pecado”» (02, 107).
+
+**La otra observación.** «Pero a esta permanencia existencial del mal — frente a la
+cual somos tan débiles, impotentes — corresponde la otra observación: “Esto tú lo
+sabes, pero te quedas aquí”. A la permanencia de nuestra debilidad corresponde la
+permanencia de su presencia. Por eso, “si tú quieres, me salvarás”» (02, 107).
+
+**El mal es el límite de la alegría.** «El mal es lo que es contrario a la alegría, es
+exactamente el límite de la alegría, es lo que la impide, porque la alegría está en
+la verdad» (03, 63).
+
+**La raíz es el olvido, no la fragilidad.** «El pecado no es la incoherencia y la
+fragilidad, que tienen una consanguinidad tan grande y evidente con nuestra nulidad
+que dan lástima, sino el intento de aniquilar la percepción de ese algo grande» (01,
+109).
+
 ## Distinciones importantes
 
 - Pecado original contraído ≠ pecado personal cometido.

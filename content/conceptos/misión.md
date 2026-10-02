@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misión
 tags: ["eclesiología", "evangelización"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 description: "La misión es el envío de la [[iglesia]] al mundo para anunciar el Evangelio de [[jesucristo]] a todos los pueblos, prolongando la misión del Hijo y del [[espíritu_santo]] hasta el fin de los tiempos."
 ---
 # Misión
 
 > Área: Eclesiología / Evangelización
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -45,6 +45,25 @@ La comunidad es enviada a hacer discípulos a todos los pueblos (Mt 28,19), pero
 Para Giussani, la misión nace en la casa, que es «la dimensión de lo eterno en el tiempo»: «la vida de la casa inicia el impulso sin límite de la misión: la misión se aprende en casa, no se aprende fuera» (AED, 27, 191-223). La casa «empieza a ser una cosa seria y bella» cuando «la forma de percibir dilata los brazos para abrazar el universo»: «no la casa, sino el mundo, el universo»; «lo que se vive, no se vive para sí, sino para Él — para Cristo —, y la casa no se vive para sí, sino para el mundo» (AED, 31, 225-247).
 
 La misión es también un acto de la fe que la apariencia no puede contener: «uno es libre» ante los demás solo si tiene conciencia de la raíz última de la que proviene, y entonces «se enfrenta con la ciudad en la perspectiva de su destino» (AED, 23, 131). En la música, que «comunica por sí misma», se experimenta la misión como carisma: la música evangeliza porque se convierte en «carisma de unidad» y en «trascendencia» (AED, 23, 209-213). Finalmente, la misión se sostiene en la gracia: «sin misión nuestra vida es inútil» — el espejo que solo se mira a sí mismo ya no es espejo (AED, 33, 189-197).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani identifica el fin de la vida con la misión: «Si el móvil de la Fraternidad es
+la llamada a la gran Presencia que hay entre nosotros y a invertir nuestra vida en
+ella, uno comprende que el fin del vivir es la misión, es decir, el movimiento: el
+movimiento, en efecto, es el modo de nuestra misión» (01, 269).
+
+**El criterio del juicio.** «Seremos juzgados por esto: “Quien tenga vergüenza de mí,
+también yo tendré vergüenza de él”» (01, 269).
+
+**La misión se realiza a través de la persona.** «La experiencia de la Fraternidad
+como experiencia del reacontecer del movimiento ha hecho más verdadera y más transparente
+mi persona. Creo que el movimiento ocurre por la persona y a través de la persona»
+(01, 275).
+
+**El Pueblo de Dios.** El marco social de la misión está en el discurso de Paolo VI
+recogido en *Litterae communionis* (1980): «¿Dónde está el “Pueblo de Dios”, del que
+tanto se ha hablado y se sigue hablando?» (01, 355).
 
 ## Distinciones importantes
 

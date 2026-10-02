@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Memoria
 tags: ["antropología"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 description: "Potencia del alma humana que tiene la capacidad de retener y evocar experiencias pasadas."
 ---
 # Memoria
 
 > Área: Antropología
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -54,6 +54,28 @@ DLV añade el carácter de *riqueza del cristianismo*:
 - **El cristianismo es un avvenimento presente como memoria** — «non è il ricordo, ma è il riaccadere della Presenza stessa»: la fe no recuerda un hecho pasado, es el volver a acontecer de la Presencia de Cristo (DLV 09, 45-49).
 - **Memoria, certeza, esperanza** — la vida del cristiano es memoria y certeza (esperanza): Lc 18,8 (`il Figlio dell'Uomo troverà la fede sulla terra?`); la fe en Cristo es reconocimiento de la Presencia, fundamento de la esperanza — también frente a la muerte (1Ts 5,9-11.16-21) (DLV 15, 89-113).
 - **La memoria litúrgica** — la oración del lunes de Semana Santa y las antífonas litúrgicas (Messale Ambrosiano) sostienen la memoria de la Presencia (DLV 11, 47; DLV 14).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani llama **memoria** a lo contrario del olvido, y la Define con la
+palabra misma de Jesús: «Haced esto en memoria mía» (Lc 22,19; 01, 151). «Esto»,
+¿qué es? Todo: «porque el pan y el vino son el signo cósmico, el signo de todo,
+de todo el horizonte de tu conciencia activa» (01, 151).
+
+**La memoria es una pregunta.** «Lucas, en el capítulo 11, versículos 1-11,
+habla de esta memoria que es pregunta. Si uno tiene hambre, el ver comida, en la
+proporción en que tiene hambre, coincide con agarrarla, con el gesto de
+agarrarla. Por eso, la conciencia de su presencia coincide con la pregunta» (01,
+151).
+
+**Nuestra miseria es no pedir.** «Esta es nuestra miseria, el no pedir. La riqueza
+del pobre es, en cambio, el pedir, es la riqueza del nada a quien le ha sido
+dado el ser» (01, 153).
+
+**Pedir siempre.** «¿Cómo hará vuestro Padre a negar el Espíritu justo a quien
+se lo pide, aunque sea por cincuenta años, aunque sea por sesenta, hasta que se
+muera? Y nos lo dará en este mundo. No creo que pueda haber una moralidad más
+seria y más sencilla que ésta: pedir, pedir siempre» (01, 153).
 
 ## Relaciones doctrinales
 

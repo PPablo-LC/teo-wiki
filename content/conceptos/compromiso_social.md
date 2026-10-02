@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Compromiso social
 tags: ["doctrina_social"]
 
-timestamp: 2026-05-25
+timestamp: 2026-10-02
 description: "Dimensión esencial de la vocación cristiana que impulsa a los fieles, especialmente a los laicos, a trabajar activamente por la transformación de la sociedad según el espíritu del Evangelio."
 ---
 # Compromiso social
 
 > Área: Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -28,6 +28,32 @@ El mensaje social del Evangelio debe orientar a la Iglesia a desarrollar una dob
 La doctrina social dicta los criterios fundamentales de la acción pastoral en campo social: anunciar el Evangelio; confrontar el mensaje evangélico con las realidades sociales; proyectar acciones cuya finalidad sea la renovación de tales realidades, conformándolas a las exigencias de la moral cristiana [CompDS §526]. La acción pastoral de la Iglesia en el ámbito social debe testimoniar ante todo la verdad sobre el hombre [CompDS §527].
 
 Para los fieles laicos, el compromiso político es una expresión cualificada y exigente del empeño cristiano al servicio de los demás [CompDS §565]. La presencia del fiel laico en campo social se caracteriza por el servicio, signo y expresión de la caridad [CompDS §551]. La búsqueda del bien común con espíritu de servicio, el desarrollo de la justicia, el respeto de la autonomía de las realidades terrenas, el principio de subsidiaridad, la promoción del diálogo y de la paz: éstas son las orientaciones que deben inspirar la acción política de los cristianos laicos [CompDS §565].
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani incluye el compromiso social entre las condiciones de la Fraternidad.
+**La condivisión** es la segunda condición, después de la oración y la secuencia:
+«la caridad, es decir, la condivisión […] la Fraternidad debe convertirse en una
+educación a la capacidad de sentir la vida del otro como parte de la propia»
+(02, 245).
+
+**El centro polifuncional de la periferia.** «Desde hace dos años la Fraternidad de
+Comunión y Liberazione gestiona en la periferia de Milán un centro polifuncional,
+que nos fue cedido en alquiler por una congregación de monjas. En ese complejo
+ahora desarrollamos muchas actividades: una serie de escuelas para un total de unos
+mil alumnos, hospitalidad para universitarios, Esercizi spirituales, reuniones de
+distinto nivel para el movimiento» (02, 261).
+
+**El ejemplo de las Famiglie per l'Accoglienza.** «Las familias que producen
+acogida son muchas más de las que están inscritas en la asociación. A mi juicio,
+si os inscribís en la asociación, mejor, dondequiera que estéis. ¡Qué grande cosa
+esta disponibilidad a la hospitalidad de personas que antes no se conocía» (02,
+249).
+
+**Las obras como novedad social.** «Nuestras obras, desde la modalidad del trabajo
+cotidiano, hasta la imaginación tenaz y arriesgada, cargada de dedicación, de
+estructuras operativas para afrontar las necesidades, constituyen una verdadera
+aportación de novedad en el tejido y en el rostro social» (03, 181).
 
 ## Relaciones doctrinales
 

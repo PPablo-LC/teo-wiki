@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Encuentro con Cristo
 tags: ["espiritualidad", "cristología"]
 
-timestamp: 2026-06-28
+timestamp: 2026-10-02
 description: "El encuentro con Cristo es la experiencia personal y comunitaria de contacto con Jesucristo vivo, presente en su Iglesia por medio de la Escritura, la Liturgia, los Sacramentos y los pobres."
 ---
 # Encuentro con Cristo
 
 > Área: Espiritualidad / Cristología
-> Última actualización: 2026-06-28
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -54,6 +54,27 @@ El Encuentro con Cristo integra los cinco elementos propios del miembro del RC (
 
 - **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — «Venite e vedrete»: el encuentro comienza como convivencia; los primeros discípulos «fueron, pues, a ver dónde habitaba y permanecieron junto a él aquel día» (Gv 1,38-39); el comentario al primer signo de Caná —«y creyeron entonces en él sus amigos» (Gv 2,11)— «la certeza crecía según un devenir que la convivencia con Él aseguraba» (03, L97-103).
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — el encuentro con Cristo hoy es un «incontro presente, esistenziale» con la comunidad cristiana: «metodológicamente, solo viviendo la comunidad cristiana presente se puede adquirir adecuación al problema de Cristo»; y el método del hecho cristiano para «convertir» al mundo es la unidad visible de los creyentes (Gv 17,20-23).
+### Según La convenienza umana della fede (CUDF)
+
+Giussani identifica en el encuentro con Cristo el acontecimiento que puede
+liberar al hombre: «¿Cuál es el encuentro que hace posible nuestra liberación, que
+puede redimir el sentido de nuestro nada, de nuestro mal, puede volver orgánico ese
+centro de gravedad que es nuestro corazón?» (01, 121).
+
+**El Verbo.** «En el principio era el Verbo, y el Verbo estaba con Dios y el Verbo
+era Dios. […] En él estaba la vida. La vida es la luz de los hombres; la luz brilla
+en las tinieblas, pero las tinieblas no la han acogido. […] Vino al mundo la luz
+verdadera, la que ilumina a todo hombre» (Jn 1,1-9; 01, 121).
+
+**“He aquí el Cordero de Dios”.** «El día siguiente estaba Juan con dos de sus
+discípulos y, fijando la mirada en Jesús que pasaba, dijo: “¡He aquí el Cordero de
+Dios!” (Jn 1,29). Los dos discípulos, al oírle decir eso, siguieron a Jesús» (01,
+123).
+
+**El encuentro es comunión, no idea.** «Sólo el encuentro con Cristo, sólo la
+comunión de este encuentro, el lazo de este encuentro, puede liberar al hombre» (01,
+131).
+
 ## Distinciones importantes
 
 - **Encuentro personal vs. comunitario:** Ambos se complementan; los encuentros comunitarios (especialmente la Eucaristía) tienen una importancia fundamental para la constitución de la Iglesia.

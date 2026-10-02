@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Idolatría
 tags: ["moral"]
 
-timestamp: 2026-09-12
+timestamp: 2026-10-02
 description: "Pecado contra el primer mandamiento que tributa a una criatura la adoración debida a Dios; la reducción de lo divino a los propios términos según Giussani; el deporte se vuelve ídolo cuando el apego al juego suplanta el amor divino."
 ---
 # Idolatría
 
 > Área: Moral
-> Última actualización: 2026-09-12
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -75,6 +75,25 @@ Giussani describe el apaño idolátrico como la «reducción de lo divino a los 
 **La definición de la totalidad propia.** Pretender definir el significado de todo «equivale a pretender ser Dios»: quien lo hace convierte la propia concepción en ídolo. Toda expresión de la totalidad del real que no parta de un dato —es decir, de una presencia que nos alcanza, no que nosotros producimos— «es una pretensión, una "opinión", un ídolo, una reducción idolátrica» (SR, `21_capitulo_xiv.md`).
 
 **La idolatría como apaño.** La reducción de Dios a los propios términos es una de las tres formas en que el hombre intenta librarse del misterio apelando a su propia autonomía; las otras son la negación (el reduccionismo de la razón) y la exaltación (la absolutización del propio yo). En todas ellas la certeza buscada degenera en ídolo (SR, `03_capitolo_i.md`, `21_capitulo_xiv.md`).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani incluye la idolatría dentro de la «fiducia nelle proprie cose», es decir,
+la confianza en las cosas que hacemos con nuestras propias manos (01, 91). Los
+versos que cita son de T. S. Eliot, «Coro III» (*Cori da "La Rocca"*, BUR 2010,
+p. 63):
+
+> «La palabra del Señor me llegó, diciendo: / ¡Ay, miserable ciudad de hombres
+> intrigantes!, / ¡desdichada generación de hombres cultos, / traicionados en los
+> laberintos de vuestro propio ingenio, / vendidos por las ganancias de vuestros
+> inventos! / Os he dado manos que desviáis de la adoración, / os he dado la palabra y
+> la usáis en infinitas chácharas, / os he dado mi Ley y hacéis contratos, / os he
+> dado labios para expresar sentimientos amistosos, / os he dado corazones y los usáis
+> para suspectear, / os he dado la libre voluntad […]» (01, 91).
+
+**Las imágenes bíblicas del juicio.** La ciudad es señalada por su propia obra; el
+texto del índice remite a Is 5,1-5 (la viña que da espinas), Ger 2,13 (las cisternas
+áridas) y Sal 130.
 
 ## Relaciones doctrinales
 

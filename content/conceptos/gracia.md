@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia
 tags: ["dogmática"]
 
-timestamp: 2026-09-12
+timestamp: 2026-10-02
 description: "Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina y de la vida eterna; el creer mismo es ya obra de la gracia."
 ---
 # Gracia
 
 > Área: Dogmática
-> Última actualización: 2026-09-12
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -146,6 +146,30 @@ Robert Barron subraya que la gracia es causa de la vida nueva y no su consecuenc
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 **La elección como gracia (parte quarta).** Giussani cita la «bendición espiritual celeste en Cristo»: Dios «nos ha elegido en él antes de la fundación del mundo, para ser santos e irreprensibles en su presencia, por amor, habiéndonos predestinado a ser sus hijos adoptivos por medio de Jesucristo» (Ef 1,3-6a); esta «adopción» no es puro símbolo: por ella el hombre es «llevado más allá de sí mismo, dentro de la vida misma de Dios», participando realmente de la generación del Verbo — «es "gracia", "dono"»—; «todavía no se ha manifestado lo que seremos» (1 Gv 3,2) (04, L99-101). El cristianismo, «a través del porsi objetivo del hecho que lleva al hombre a su destino», propone «la salvación como gracia, es decir, como algo que es dado permaneciendo y perseverando en una realidad viva»: lo que el moralismo sofoca, la «moralidad come grazia» lo restaura — el hombre adulto se «salva», crece y madura «descubriéndose siempre más inmanente a Aquel para quien es hecho, y a quien toda su naturaleza grita» (07, L99-107).
+### Según La convenienza umana della fede (CUDF)
+
+Giussani explica la gracia como **un hecho que ha ocurrido en el mundo**: «¿Qué
+es esta gracia que hay en nosotros? La gracia que hay en nosotros es algo que ha
+ocurrido en el mundo. Es Uno que ha venido, ¡se llama Cristo!» (02, 49).
+
+**La gracia que no es vanidad.** San Pablo lo dice así: «Yo soy el último de
+todos, ni siquiera digno de ser llamado cristiano, porque mi vida está llena de
+errores. Pero por la gracia de Dios soy lo que soy, y su gracia no ha sido inútil
+en mí» (1 Cor 15,8-10; 02, 45).
+
+**Cristo es más que todas las imágenes.** «Porque Cristo es más que padre, más que
+madre, más que hermano, más que esposo y esposa, más que hijo, más que amigo: es
+Dios hecho hombre» (02, 49).
+
+**El reconocimiento como envoltorio.** «El reconocimiento que hay entre nosotros
+es como el envoltorio sacramental que lo hace presente» (02, 51).
+
+**La gracia ya operada.** «Si ya estamos perdonados, si ya estamos liberados, si ya
+hemos resucitado, el problema es que aparezca, se manifieste lo que ya está en el
+fondo» (03, 115). Y: «Nuestra vida, nuestra vida digna, la vida de nuestra
+libertad, se apoya en un poder que se ha vuelto cercano, que ya no está lejos, que
+está tan cerca que está dentro de nosotros» (03, 115).
+
 ## Distinciones importantes
 
 - Gracia santificante (habitual) vs. gracias actuales

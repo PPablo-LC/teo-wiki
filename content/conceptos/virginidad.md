@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virginidad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 description: "Estado de vida de quienes renuncian voluntariamente al matrimonio y a la actividad sexual para consagrarse más libremente a Dios y al servicio del Reino."
 ---
 # Virginidad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -83,6 +83,16 @@ En la Tischrede 184 (AED, 20, 21), la profesión inaugura la experiencia de la v
 En la Tischrede 186 (AED, 34, 45-47), la virginidad es el signo más inmediato del ideal por el que vale la pena dar la vida: «il miracolo più grande, cioè la cosa più immediatamente dimostrativa dell'ideale per cui sarebbe giusto dare la vita, è la verginità». Por eso es testimonio, no fuga.
 
 En la Tischrede 102 (AED, 22, 119-121), la virginidad es la virtud ideal de toda relación: «la verginità è un possesso con un distacco dentro»; sin ese desapego, «scivoli». Y en la Tischrede 147 (AED, 07, 77), la vocación a la virginidad o es «consapevole esercizio» de lo que se proclama, o «corrompe il senso del suo tempo»: sin conciencia, la renuncia se vuelve traición de la propia vocación.
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani presenta la virginidad como **segunda de las tres condiciones de la
+compañía**, junto con la oración-secuela y la caridad-condivisión: «Después de la
+oración y la secuencia, viene la segunda condición —que corresponde a la de la
+virginidad—, que es la caridad, es decir, la *condivisione*» (02, 245).
+
+**Su valor propio.** El valor de la vida consiste «en ser función del designio de Dios,
+del reino de los cielos» (Mt 19; 03, 233).
 
 ## Distinciones importantes
 

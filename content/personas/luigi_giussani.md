@@ -8,11 +8,11 @@ tags:
   - movimiento_eclesial
   - comunión_y_liberación
   - sentido_religioso
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 ---
 
 > Área: Personas / Teología fundamental
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 # Luigi Giussani
 
@@ -47,6 +47,39 @@ Sexto volumen del PerCorso (BUR Rizzoli, a cura di Julián Carrón, 2017), que r
 ### Il senso di Dio e l'uomo moderno (SDL)
 
 Edición que reúne dos ensayos: *Il senso religioso* (apuntes del liceo Berchet, 1954-1960) y *La coscienza religiosa nell'uomo moderno* (veinte años después), con **prefacio de Benedicto XVI** (00, PREFAZIONE). Benedetto XVI muestra al Giussani maestro del diálogo con la cultura moderna: tras la caída del «socialismo real», el marxismo «se ha revelado en verdad una forma de nihilismo»; hoy un nihilismo «casi inevitable» compenetra estratos sociales enteros a través de una «cultura del placer» con rasgos de «antireligión». Giussani responde mostrando que «en las simples experiencias fundamentales de cada hombre está contenida la búsqueda de Dios, que continúa permaneciendo presente también en el ateísmo». El volumen exhibe su método en acción: el análisis del drama del mundo moderno (Parte prima de *La coscienza religiosa*: laicismo, naturalismo, racionalismo, humanismo divistico, nihilismo) y la defensa de la Iglesia ante la acusación de haber abandonado a la humanidad (Parte seconda: protestantización, subjetivismo, moralismo, primado del Romano Pontífice, «La Chiesa è movimento», la fe que deviene cultura). Los conceptos que vertebra son los de su obra entera: [[sentido_religioso]], [[signo]], [[analogía]], [[providencia]], [[idolatría]], [[revelación]], [[encuentro_con_cristo]], [[filiación_divina]], [[hecho_cristiano]], [[razón]] y [[cultura]].
+### Según La convenienza umana della fede (CUDF)
+
+Giussani (1922-2005) realizó sus estudios en la Facultad Teológica de Venegono, donde
+enseñó durante algunos años. En 1954 dejó la enseñanza del seminario por la de los
+colegios, y de 1964 a 1990 fue docente de Introducción a la Teología en la Universidad
+Católica de Milán. Desde mediados de los años cincuenta dio vida al movimiento de
+Comunione e Liberazione, hoy presente en Italia y en casi noventa países de todo el
+mundo (00, 11).
+
+**El clima de los Esercizi de 1985.** «Los Esercizi se celebraron en un clima
+particular, porque todavía estaba vivo el eco del encuentro con el Papa, ocurrido en
+septiembre del año anterior con motivo del trigésimo aniversario de vida del
+movimiento» (01, 9).
+
+**El encuentro de 1986.** «*Esercizi spirituali della Fraternità di Comunione e Liberazione,
+4-6 aprile 1986, Rimini*» (02, 3).
+
+**El encuentro de 1987.** «*Esercizi spirituali della Fraternità di Comunione e Liberazione,
+13-15 marzo 1987, Rimini*» (03, 3).
+
+**Su insistencia en el cambio.** «Insisto en la palabra “cambio”», dijo a los
+universitarios un mes antes del encuentro de los Esercizi. «Chicos, la vida es
+cambio: una vida cambia en cada instante, ¡una vida es una vida! […] Sin este cambio,
+el mundo queda variopinto como color, pero disuelto como sustancia; no se
+construye» (*Qui e ora*, 1984-1985; 01, 23).
+
+**Su posición sobre la política.** «A la existencia humana en su conjunto, y al deseo
+que la anima, debían abrirse la sociedad y también la política, como sostuvo don
+Giussani en un discurso dirigido a una asamblea de políticos democristianos reunidos
+en Assago. Y además: hacía falta más sociedad y las “obras”, relacionadas entre sí
+como en una compañía, debían cualificar la política como respuesta concreta y
+creativa a las necesidades» (03, 13).
+
 ## Ver también
 
 - [[comunione_e_liberazione]] [[il_senso_religioso]] [[allorigine_della_pretesa_cristiana]] [[perché_la_chiesa]] [[sentido_religioso]] [[razón]] [[fe_y_razón]] [[hecho_cristiano]] [[pretesa_cristiana]] [[hecho_de_cristo]] [[divinidad_de_cristo]] [[affezione_e_dimora]] [[afección]] [[capacidad_afectiva]] [[preferencia_por_cristo]] [[morada]] [[compañía]]

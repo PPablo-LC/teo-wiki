@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Limosna
 tags: ["moral"]
 
-timestamp: 2026-06-08
+timestamp: 2026-10-02
 description: "La limosna es la obra por la que, movidos por compasión, se da algo al indigente por amor de Dios. Es acto de misericordia imperado por la caridad."
 ---
 # Limosna
 
 > Área: Moral
-> Última actualización: 2026-06-08
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -56,6 +56,21 @@ La verdadera limosna no procede de lo que sobra sino de lo necesario. JvC enseñ
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 [VocTeoBib, «Limosna»] La limosna (gr. *eleemosyne*) designa en la Biblia la misericordia activa hacia el necesitado. En el AT, la ley prescribe formas codificadas de limosna (espigueo, diezmo trienal para pobres, Lv 19,9; Dt 14,28s). Es gesto religioso que alcanza a Dios mismo (Prov 19,17) y obtiene el perdón de los pecados (Eclo 3,30; Dan 4,24). En el NT, Jesús la cuenta entre los tres pilares de la vida religiosa (Mt 6,1-18) y exige que se haga con desinterés absoluto (Mt 6,1-4; Lc 6,35). La limosna halla su sentido último en Cristo: dar al pobre es darlo a Cristo (Mt 25,31-46), imitando al que siendo rico se hizo pobre (2Cor 8,9).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani interpreta la limosna en sentido plenamente teológico. «¡No!
+Eso es lo que dice la Escritura: la limosna purga, libera del pecado (Tb 12,9;
+Sir 3,29). La limosna, la compasión hacia el otro, me hace imitar a Dios y por eso
+me libera del pecado» (01, 305).
+
+**La limosna como imitación de Dios.** Por eso la limosna no es solo un acto de
+generosidad, sino una vía de perdón: al hacer limosna se imita a Dios, que es
+quien libera del pecado.
+
+**El marco: las Famiglie per l'Accoglienza.** La intervención que precede a esta
+respuesta viene de una participante que expone su participación en la asociación
+*Famiglie per l'Accoglienza* (01, 301).
 
 ## Distinciones importantes
 

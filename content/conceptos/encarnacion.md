@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Encarnación
 description: "El misterio por el cual el Verbo eterno de Dios asumió la naturaleza humana en el seno de la Virgen María para la salvación del género humano."
 tags: ["dogmática", "cristología"]
-timestamp: 2026-06-26
+timestamp: 2026-10-02
 ---
 
 # Encarnación
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-06-26
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -62,6 +62,21 @@ Benedicto XVI aborda la Encarnación en el contexto de la pregunta de Pilato —
 **José, «hombre justo».** Mateo presenta a José como un *zaddik*, un justo veterotestamentario cuya vida hunde sus raíces en la Ley (Salmo 1). Su «no» privado a María, antes de la revelación angélica, es signo de amor y justicia. Tras el sueño, su obediencia es la respuesta del justo que confía en Dios: «José no teme aceptar la tarea de hacer visible la fidelidad de Dios a la promesa hecha a David» (JdN_III).
 
 [JdN_II, capítulo sobre el interrogatorio de Pilato; JdN_III, caps. II-III]
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani lee la encarnación como **el hecho que da nombre a la gracia**: «¿Qué es
+esta gracia que hay en nosotros? La gracia que hay en nosotros es algo que ha
+ocurrido en el mundo. Es Uno que ha venido, ¡se llama Cristo!» (02, 49).
+
+**Más que todas las imágenes.** «Porque Cristo es más que padre, más que madre, más
+que hermano, más que esposo y esposa, más que hijo, más que amigo: es Dios hecho
+hombre» (02, 49).
+
+**La presencia concreta.** «Esta ternura y esta agudeza para percibir la gran
+presencia de Este Hombre, nuestro hermano, que es Dios presente entre nosotros,
+presente a la comunión que hay entre nosotros, al reconocimiento que hay entre
+nosotros» (02, 51).
 
 ## Distinciones importantes
 

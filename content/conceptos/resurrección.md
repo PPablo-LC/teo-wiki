@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Resurrección
 tags: ["escatología", "cristología"]
 
-timestamp: 2026-05-22
+timestamp: 2026-10-02
 description: "El misterio central de la fe cristiana: la vuelta a la vida de Jesucristo, verdadero Dios y verdadero hombre, al tercer día después de su muerte en cruz, con su mismo cuerpo glorificado."
 ---
 # Resurrección
 
 > Área: Escatología / Cristología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -48,6 +48,25 @@ Benedicto XVI dedica el capítulo 41-43 de *Jesús de Nazaret II* a la Resurrecc
 **El sepulcro vacío.** Los Evangelios atestiguan el sepulcro vacío como dato histórico: José de Arimatea sepulta a Jesús en su propio sepulcro nuevo; el domingo por la mañana las mujeres encuentran el sepulcro vacío. Benedicto XVI señala que el sepulcro vacío es uno de los hechos históricos mejor atestiguados.
 
 **Encuentro con el Resucitado.** Las apariciones de Jesús resucitado no son proyecciones psicológicas de los discípulos, sino encuentros reales con una persona viva. La relatos de los discípulos de Emaús (Lc 24,13-35) ilustran el proceso de conversión: Yahveh los guía para que pasen de la tristeza a la fe.
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani coloca la resurrección como **el problema primero** que hay que resolver sin
+aplazarlo un solo instante: «¿Cuál es el problema número uno, el problema primero
+para nosotros, que hay que resolver ya, porque no se puede aplazar ni un instante?
+¡Volver a empezar!» (01, 37).
+
+**Es un misterio que hay que experimentar.** «Volver a empezar: este es el punto. La
+resurrección es el misterio que nosotros debemos *experimentar*, al que debemos
+participar» (01, 43).
+
+**La ley única.** «Para cada día, hora e instante de nuestra vida, la resurrección, la
+reemprensión, el volver a empezar deben dictar el camino, deben ser la ley. Tenemos
+una sola ley: recuperar, volver a empezar, resurgir» (01, 47).
+
+**Contra el disgusto de recaer.** Giussani alude a la canción de Francesco Guccini
+«Canzone per Piero», que habla del «hastío de volver a empezar, porque cada vez es
+siempre lo mismo» (01, 37).
 
 ## Distinciones importantes
 

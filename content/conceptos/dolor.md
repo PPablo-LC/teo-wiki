@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dolor
 tags: ["dogmática", "cristología"]
 
-timestamp: 2026-06-12
+timestamp: 2026-10-02
 description: "El dolor sensible es la pasión del apetito sensitivo que sigue a la lesión corporal y a su percepción sensorial."
 ---
 # Dolor
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-06-12
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -34,6 +34,21 @@ La carne de Cristo no estuvo necesariamente sujeta al dolor por el pecado (como 
 ### Según el Catecismo (CEC)
 
 El CEC §602 afirma que Cristo «entregó su vida en expiación de nuestros pecados», asumiendo el sufrimiento y la muerte en su carne. El §612 señala que la muerte de Cristo fue voluntaria y redentora. El §617 relaciona el dolor de Cristo con la libertad de su entrega: «Nadie me la quita [la vida], yo la doy voluntariamente» (Jn 10,18).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani describe el dolor como **la segunda circunstancia de la personalidad nueva**:
+«La segunda circunstancia de la personalidad nueva es el dolor. No se puede hablar de
+amor al dolor, pero la palabra “dolor” implica ya el amor. No se puede vivir un dolor si
+no en el temblor o el estremecimiento de un amor» (03, 243).
+
+**La compañía como sostén.** «La compañía, por una parte, es el sostén; el dolor es la
+condición de todos, que para nadie, sino para quien ama a Cristo, se convierte en
+alimento de la vida, se convierte en factor definitivo de su propio rostro» (03, 243).
+
+**La tragedia de Ravena.** Giussani recuerda la muerte de trece personas, la mayoría muy
+jóvenes, en el casco de la motonave *Elisabetta Montanari* por un incendio en la bodega
+(13 de marzo de 1987; 03, 49-53).
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Marxismo"
 description: "Ideología materialista de la lucha de clases (Marx, Engels) que pretende la revolución total del hombre; juzgada por el magisterio como error teológico y antropológico fundamental."
 tags: [historia_de_la_iglesia, contemporánea, totalitarismo, doctrina_social]
-timestamp: 2026-09-19
+timestamp: 2026-10-02
 ---
 
 # Marxismo
 
 > Área: Historia de la Iglesia / Doctrina social / Antropología
-> Última actualización: 2026-09-19
+> Última actualización: 2026-10-02
 
 El **marxismo** es la ideología de Karl Marx y Friedrich Engels —desarrollada
 en el *Manifiesto comunista* (1848) y *El Capital*— que interpreta la historia
@@ -59,6 +59,24 @@ uno de los grandes errores antropológicos de la modernidad.
 [[totalitarismo]], [[materialismo]], [[doctrina_social_de_la_iglesia]],
 [[ideología]], [[dignidad_humana]], [[beato_stefan_wyszyński]],
 [[libertad_de_la_iglesia]]
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani reduce el liberalismo y el marxismo a la misma categoría: «Hace cincuenta años
+parecía que el liberalismo y el capital por un lado, el marxismo por otro…» (00, 87;
+cfr. 03, 209).
+
+**La división de la cultura.** «La mayor división en la historia de la cultura humana y
+en el fenómeno de la socialidad humana es la producida por la fórmula “gloria de
+Cristo”. Todos los tipos de cultura y todos los tipos de socialidad se pueden reconducir
+a las mismas categorías, a las mismas premisas y a los mismos contenidos, pero una vida
+mirada y afrontada, una socialidad vivida por la gloria de Cristo, esto establece una
+posición que no tiene iguales, irreductible a cualquier otra» (03, 209).
+
+**La respuesta de la Fraternidad.** «A la existencia humana en su conjunto, y al deseo
+que la anima, debían abrirse la sociedad y también la política […] hacía falta más
+sociedad y las “obras”, relacionadas entre sí como en una compañía, debían cualificar la
+política como respuesta concreta y creativa a las necesidades» (03, 13).
 
 ## Referencias
 

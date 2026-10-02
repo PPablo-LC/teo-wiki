@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pecado
 tags: ["moral"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-02
 description: "El pecado es «una trasgresión voluntaria de la ley de Dios». Supone tres elementos esenciales: materia prohibida, advertencia del entendimiento y consentimiento de la voluntad."
 ---
 # Pecado
 
 > Área: Moral
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -122,6 +122,35 @@ San Agustín elabora un cuerpo de doctrina sobre el pecado que, en sus trazos fu
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 La causa del pecado no es Dios ni la naturaleza, sino la voluntad: nadie elige el mal como tal, sino un bien (el anillo) desordenado — el mal no tiene razón de fin. El pecado es discordia con la recta razón o con la ley divina. Dios no causa el pecado: no tiene causa eficaz sino defectiva; cuando «endurece» un corazón (Faraón), solo lo deja a lo que merece y retiene su gracia, que si se debiera no sería gracia — «Dios no causa más la dureza del corazón que el sol la oscuridad de un cuarto con las persianas cerradas». El pecado es aversión de Dios: apartarse de esa luz que nunca se aparta; el mal de culpa es mayor que el de pena, pues separa del bien supremo. Y el mal daña al que lo hace en el mismo hacerlo: vicia su voluntad.
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani define el pecado por su raíz, no por sus síntomas. **El pecado es el
+olvido**: «El pecado no es la incoherencia y la fragilidad, que tienen una
+consanguinidad tan grande y evidente con nuestra nulidad que dan lástima, sino
+el intento de aniquilar la percepción de ese algo grande, es decir, la
+indiferencia ante el Destino» (01, 109).
+
+**La fórmula explícita.** «El pecado es el olvido, el pecado es el escepticismo
+que protege el descompromiso, el pecado es la confianza en algo que hacemos
+nosotros, con nuestras manos, que no estaba ahí y que si tiene valor es solo por
+aquello a lo que está destinado, por la relación con el Destino, con Otro, con
+algo distinto» (01, 109).
+
+**La definición por el Padre.** «El pecado, que es literalmente el faltar a la
+conciencia del Padre, es decir, el faltar a la tensión por hacer realidad esa
+conciencia» (02, 75). De ahí la súplica: «Revivan nuestras fuerzas agotadas»
+(Sal 67, Lodi del sábado; 02, 75).
+
+**El verdadero mal es el olvido.** «El mal es el obrar humano que abandona la
+conciencia de esta relación. Ciertamente hay un mal más dramático, más trágico
+—pero todo mal es dramático—, porque su forma es más grave; pero el verdadero
+mal, la tela del mal, es este olvido» (02, 75).
+
+**El testimonio de Jeremías.** «Tú me has seducido, Señor, y yo me he dejado
+seducir; me has hecho fuerza y has prevalecido. […] Cuando hablo me veo obligado
+a gritar, debo proclamar: “Violencia, ruina para quien olvida a Dios”» (01, 85;
+Jr 20,1-9).
 
 ## Distinciones importantes
 

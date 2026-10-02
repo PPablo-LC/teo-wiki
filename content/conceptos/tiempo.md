@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tiempo
 tags: ["dogmática", "escatología"]
 
-timestamp: 2026-06-02
+timestamp: 2026-10-02
 description: "El tiempo en la teología bíblica no es un ciclo eterno sino una realidad lineal orientada hacia su cumplimiento escatológico."
 ---
 # Tiempo
 
 > Área: Dogmática / Escatología
-> Última actualización: 2026-06-02
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -46,6 +46,23 @@ Para San Agustín, los siete días de la creación no indican sucesión temporal
 ### Según Royo Marín (TPCr)
 
 El tiempo es la duración de la vida terrena en la que se puede merecer. «El tiempo es corto… la figura de este mundo pasa» (1 Cor 7,29-31) (TPCr, n. 753). La caridad puede crecer indefinidamente mientras permanecemos en este mundo, pero en la patria «ha terminado el tiempo de merecer» (n. 1190). La perfección cristiana se mide «habida cuenta de todas las circunstancias de lugar, tiempo, condición del sujeto» (n. 1306). El tiempo debe ser «economizado» y «distribuido juiciosamente» (n. 588).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani abre los Esercizi de 1985 con una afirmación sobre la urgencia del
+tiempo: «Nuestra estar aquí, dentro de un contexto que quizá no habríamos elegido,
+implica una urgencia, para que el tiempo no se pierda, para que la iniciativa tenga
+éxito. Y este éxito depende profundamente de cada uno de nosotros: ya no somos
+niños, y por ello es una responsabilidad que asume cada vez más una extensión a
+todo el horizonte de nuestra personalidad, una responsabilidad cada vez más
+nuestra, frente a nuestro destino personal» (01, 29).
+
+**La invocación del Espíritu.** «Invocamos, pues, con todo el corazón, al Espíritu»
+(01, 29; *Discendi, Sancte Spiritus*; 01, 31).
+
+**El tiempo como medida de la vida.** «¿Pero nosotros nos inclinamos ante lo
+infinito grande en la jornada de nuestra vida? De otro modo, la jornada es un
+soplo, es un nada» (01, 101).
 
 ## Distinciones importantes
 

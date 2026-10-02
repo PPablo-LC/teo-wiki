@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Inteligencia
 tags: ["antropología"]
 
-timestamp: 2026-05-25
+timestamp: 2026-10-02
 description: "La inteligencia es la facultad espiritual del alma humana que conoce la verdad mediante la abstracción de las esencias a partir de los datos sensibles, formando conceptos, juicios y razonamientos."
 ---
 # Inteligencia
 
 > Área: Antropología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -37,6 +37,29 @@ Royo Marín distingue en el orden sobrenatural:
 
 [TPCr, Parte II, Organismo sobrenatural; Parte III, Vía iluminativa y unitiva]
 
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani **inteligencia nueva significa un criterio nuevo**: «Inteligencia nueva
+significa un criterio nuevo. Deberíais haber leído el capítulo 12 de la carta a los
+Romanos, versículos 1 y 2. Os insisto, porque esto es precisamente el manifiesto de la
+inteligencia nueva: “No adoptéis los esquemas del mundo” —literalmente dice san
+Pablo—, “sino transformadvos, haced una metamorfosis, transformadvos en novedad”»
+(Rm 12,2; 03, 229).
+
+**Luz y seguridad.** «En segundo lugar, la inteligencia. Inteligencia, es decir, luz y
+fuerza, seguridad. Porque si uno camina en la luz, sabe dónde poner los pies y camina
+con seguridad. Luz y seguridad son las dos metáforas, las dos comparaciones, con las que
+la Biblia habla de Dios» (03, 225).
+
+**El criterio que cambia.** «Luz y seguridad: esto quiere decir que nuestra personalidad
+debe tener un tipo de juicio diferente. Un juicio es diferente no cuando cambian las
+cosas, sino cuando cambia el criterio» (03, 227).
+
+**La gloria de Cristo como criterio.** «Decir que el fin de la vida —el problema de la
+vida, el mío y el tuyo, quienquiera que seas, aunque no te conozco, porque hemos sido
+llamados juntos en el Bautismo a esto— es la gloria de Cristo, significa conmover
+totalmente la mentalidad común» (03, 227).
 
 ## Distinciones importantes
 

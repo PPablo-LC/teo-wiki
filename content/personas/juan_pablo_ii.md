@@ -3,13 +3,13 @@ type: Persona
 title: Juan Pablo II
 tags: ["papas", "moral", "espiritualidad", "teología_spiritual"]
 
-timestamp: 2026-09-08
+timestamp: 2026-10-02
 description: "Papa Juan Pablo II (1920-2008); su pensamiento en deporte, tecnología, espiritualidad y nueva evangelización, con fundamento en 2 Tim 4:7 y la teología de la caridad."
 ---
 # Juan Pablo II
 
 > Área: Papas / Espiritualidad / Nueva evangelización
-> Última actualización: 2026-09-08
+> Última actualización: 2026-10-02
 
 ## Contexto histórico
 
@@ -52,6 +52,33 @@ En el artículo «Lives: Saint Dymphna's Aid for AI Anxieties» (05_lives.md), A
 **El deporte como "atteggiamento di redenzione" (18_feature_declue.md):** En su homilía del Jubileo del Redentor en el Estadio Olímpico de Roma (12 de abril de 1984), el Papa desarrolla la analogía de San Pablo entre la vida cristiana y una carrera (1 Cor 9,24-27): «San Pablo estableció la actitud cristiana hacia el deporte… una actitud de respeto, estima, aun corrigiendo y elevando: en una palabra, una actitud de redención». No se trata de rechazar el deporte ni de huir del mundo, sino de «redimirlo» desde el cristianismo: el deporte sirve al desarrollo integral del ser humano cuando se practica con dignidad y virtud. El Papa distingue tres dimensiones: (1) el atleta como símbolo del esfuerzo por la excelencia; (2) la competencia como escuela de superación no egoísta; (3) la victoria como metáfora de la gracia santificante.
 
 **El deporte como camino espiritual (23_soul.md):** En su homilía del Jubileo de los Deportistas (29 de octubre de 2000), Juan Pablo II afirma: «el deporte puede enseñar mucho sobre la fe y la vida». Las reglas del juego, la disciplina del entrenamiento y la camaradería del equipo son «parábolas del camino espiritual». El Papa insta a los atletas a usar su plataforma para ser «luz del mundo»: «el que da lo mejor de sí, da gloria a Dios». Su mensaje central: el deporte, cuando se vive con fe, es una escuela de caridad, humildad y perseverancia —virtudes que el Papa conecta con su teología de la caridad redentora.
+
+### Según La convenienza umana della fede (CUDF)
+
+El encuentro con Juan Pablo II (Roma, Aula Pablo VI, 29 de septiembre de 1984)
+marcó el clima de los Esercizi de 1985: «Los Esercizi se celebraron en un clima
+particular, porque todavía estaba vivo el eco del encuentro con el Papa, ocurrido
+en septiembre del año anterior con motivo del trigésimo aniversario de vida del
+movimiento» (01, 9).
+
+**El encargo del Papa.** «En su conmovedor discurso dirigido a los miles de personas
+reunidas en el Aula Pablo VI de Roma, el papa Juan Pablo II dio un encargo
+explicito a todo el movimiento» (01, 13). El Papa, «después de expresar “viva alegría”
+por aquel encuentro y afecto por cada uno, y después de recordar que, en la Iglesia
+y en la sociedad, el movimiento es “un método de educación a la fe porque [ella]
+incida en la vida del hombre y de la historia”, pidió a cada uno ir “por todo el
+mundo”, para “llevar la verdad, la belleza y la paz, que se encuentran en Cristo
+Redentor”» (01, 15).
+
+**El alcance de las raíces.** «“En estos treinta años —dijo el Papa— os habéis abierto a
+las situaciones más variadas, sembrando las semillas de una presencia de vuestro
+movimiento. Sé que ya habéis echado raíces en dieciocho naciones del mundo: en Europa,
+en África, en América, y conozco también la insistencia con la que en otros países
+es solicitada vuestra presencia. Hacíos cargo de esta necesidad eclesial: esta es la
+misión que hoy os dejo”» (01, 17).
+
+**Sus audiencias.** El índice de la fuente registra además la audiencia privada
+de Giussani con Juan Pablo II en la víspera del 4 de abril de 1986 (02, 17).
 
 ## Ver también
 

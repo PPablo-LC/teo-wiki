@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ateísmo
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-09-12
+timestamp: 2026-10-02
 description: "Fenómeno que designa realidades muy diversas; negación o vaciamiento irracional de la pregunta última según Giussani."
 ---
 # Ateísmo
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-09-12
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -45,6 +45,34 @@ La encíclica subraya que el fenómeno de la incredulidad, la arreligiosidad y e
 **Ateísmo y positivismo (cap. VI).** El positivismo es «el bloqueo total de lo humano»: la reducción de la realidad a lo verificable empíricamente es la forma científica del vaciamiento de la pregunta y una de las bases del ateísmo moderno (SR, `13_capitolo_sesto.md`, §81-100).
 
 **El ateísmo como idolatría (cap. XIV).** La negación de Dios no es neutral: el hombre que «pretende ser Dios» (Gn 3) termina cayendo en la idolatría —cambiar la verdad de Dios por la mentira (Rm 1,22-31)—. El ateísmo absoluto se convierte en fabricación de ídolos (idea, estado, placer), origen de violencia y guerra (SR, `21_capitolo_quattordicesimo.md`, §89-115).
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani el ateísmo es, ante todo, una **forma cultural** y no una
+equivocación intelectual. «El rechazo de Dios es forma cultural de nuestro
+tiempo. Y fíjense bien en que ella nos penetra totalmente» (02, 119).
+
+**El ateísmo como forma mental heredada.** «Se ha convertido en forma mental.
+Que para sus hijos, al decidir la universidad, el trabajo, si casarse o no con
+cierta chica, cómo usar el dinero o el propio tiempo, cómo reaccionar ante los
+acontecimientos o ante la vida política, en todo eso Dios no entre (aunque hay
+excepciones, porque hablo de la mesa y de la conversación familiar)» (02, 117).
+
+**«El pecado de este siglo es la pérdida del sentido del pecado».** Juan Pablo II,
+citando a Pío XII, lo afirma así; pero «pérdida del sentido del pecado» quiere
+decir pérdida del sentido de la pertenencia a Dios: «se trata aquí del pecado
+como rechazo del *logos*, como rechazo del mundo ordenado a un designio más
+grande» (02, 117).
+
+**No es el pecado moralista.** El pecado no debe entenderse «en sentido
+moralista ni en sentido, así humano, de la incoherencia —en los gestos, en los
+actos—, sino del pecado propio en su raíz total, que es el rechazo de Dios
+(“Dios que no entra”)» (02, 121).
+
+**La responsabilidad aumenta.** «De una parte, nuestra responsabilidad está
+atenuada; pero, por otra, está muy acentuada: ha disminuido en el acto
+singular porque estamos muy influidos por esa mentalidad, pero se ha hecho
+mucho más terrible de cara al mundo, de cara a la sociedad» (02, 121).
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Autoridad
 tags: ["doctrina_social", "moral"]
 
-timestamp: 2026-09-12
+timestamp: 2026-10-02
 description: "La autoridad política es el principio de coordinación y dirección de la sociedad hacia el bien común, necesario en toda sociedad humana porque Dios ha creado a los hombres sociales por naturaleza."
 ---
 # Autoridad
 
 > Área: Doctrina Social / Moral
-> Última actualización: 2026-09-12
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -59,6 +59,31 @@ El Capítulo General 2026 de los Legionarios de Cristo dedicó un documento tem�
 **El riesgo del autoritarismo como idealización (cap. XIII).** La autoridad educadora se ejerce sin idealizaciones: creer que se puede partir de sí sin la mediación humilde de otros es ilusión; el acceso a la realidad pasa por la confianza en quien ya la ha comprendido (SR, `20_capitolo_tredicesimo.md`, §41-52).
 
 **La autoridad pervertida en ídolo (cap. VIII).** Cuando el Estado o el poder absoluto se erige como única medida, la autoridad legítima se corrompe en totalitarismo: se suprime la libertad y la comunidad para imponer una descripción humana de lo real (SR, `15_capitolo_ottavo.md`, §101-119).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani replantea la autoridad a partir de su raíz en la comunidad. «No existe
+autoridad si no es inmanente, esencialmente ligada, perteneciente, o bien
+generada por una comunidad y luego regenerante de la comunidad. No existe
+autoridad si no es en función de una comunidad» (01, 335).
+
+**La autoridad pertenece a Cristo.** «“Uno solo es vuestro Maestro, y todos
+vosotros sois hermanos” (Mt 23,8); por eso la autoridad es Aquel Hombre que ha
+iniciado aquello a lo que todos participamos, y dentro de este fluir de pueblo,
+dentro de su mistérico Cuerpo, su autoridad florece en palabra de llamada, en
+ejemplos convincentes, resuena en el tiempo y en la historia» (01, 335).
+
+**La conciencia de la pertenencia.** «De cara a la autoridad y a la comunidad,
+aquello que tenemos que desarrollar en nosotros es la conciencia de la
+pertenencia a Algo mayor, la conciencia de la pertenencia a Aquel que está entre
+nosotros, al gran misterio de la Iglesia» (01, 353).
+
+**La Iglesia como pueblo real.** Pablo VI, en el texto reproducido por
+*Litterae communionis* en 1980, pregunta: «¿Dónde está el “Pueblo de Dios”, del
+que tanto se ha hablado y todavía se habla? ¿Dónde está esa entidad étnica *sui
+generis*, ese pueblo real que se distingue y se cualifica por su carácter
+religioso y mesiánico? ¿Cómo está compaginado? ¿Cómo está caracterizado? ¿Cómo
+está organizado?» (01, 355).
 
 ## Relaciones doctrinales
 

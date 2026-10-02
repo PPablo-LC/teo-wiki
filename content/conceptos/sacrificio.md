@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacrificio
 tags: ["dogmática", "sacramental"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 description: "El sacrificio es la ofrenda hecha a Dios en señal de adoración, gratitud, súplica y comunión."
 ---
 # Sacrificio
 
 > Área: Dogmática / Sacramental
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -62,6 +62,29 @@ El sacrificio es el signo de que se reconoce una Presencia que viene antes que u
 ### Giussani — All'origine della pretesa cristiana (ODPC)
 
 ODPC sitúa el sacrificio en el corazón de la concepción que Gesù tiene de la vida: la ley de la existencia es el don de sí — «l'uomo completa se stesso dandosi via, sacrificandosi» — siguiendo el grano de trigo que muere (Gv 12,23-26) y la entrega eucarística ([[don_de_sí]]). La paradoja: «la felicità attraverso il sacrificio»; cuanto más uno la acepta, tanto más experimenta ya en este mundo una mayor completud, que Gesù llamaba «pace». El deber mismo — ordenar la propia impulsividad al todo — tiene por esencia el amor: el sacrificio no es un valor autónomo sino el modo del don; por eso es absurdo «desear el sacrificio» y nada más farisaico que el deber por el deber. La motivación de virginidad y matrimonio es la misma: la entrega «al Regno dei cieli» (Mt 19,12). Sin Cristo, que devuelve al hombre continuamente el poder de elegir bien, el sacrificio es humanamente insostenible ([[libertad]], [[pecado_original]]).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani describe el sacrificio como **la respuesta a la «strettoia»** del pecado y
+del olvido: «Para superar la angostura del pecado, del olvido, hace falta un
+sacrificio. El olvido es una angostura, porque te da como regla de vida lo que tú
+quieres, que es breve, que es como la palma de la mano delante de la nariz, decía
+Dante Alighieri: “Con la vista corta de un palmo” (*Paradiso*, XIX, 81). Y en cambio
+la regla de tu acción, aunque pequeña, es lo infinito, es la dirección de lo
+infinito» (02, 151).
+
+**El sacrificio como imitación de Cristo.** El índice de la fuente resume el sentido
+del sacrificio en el cuaderno de 1985: «El sacrificio es exactamente […] el mantener
+fijos nuestros ojos “donde está la verdadera alegría”, el mantener fijos nuestros ojos
+en el Padre, porque esto es imitar a Cristo» (*Scuola di comunità*, p. 160; 01, 49-53).
+
+**Mortificación y criterio.** «En este sentido, hay que tener claro el concepto de
+mortificación. Mortificación, en sentido cristiano, es plasmar la acción sobre el
+criterio justo» (03, 235).
+
+**El sacrificio no se paga con la espontaneidad.** «De lo contrario vale lo que decía
+Santa Teresita del Niño Jesús: un sacrificio, en vez de hacerlo a desgana, es mejor no
+hacerlo» (02, 237).
 
 ## Relaciones doctrinales
 

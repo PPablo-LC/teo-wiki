@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Voluntad de Dios
 tags: ["dogmática", "moral", "ascética"]
 
-timestamp: 2026-06-02
+timestamp: 2026-10-02
 description: "La voluntad de Dios es el designio eterno y sapientísimo por el cual Dios quiere y ordena todas las cosas para su gloria y la salvación de los hombres."
 ---
 # Voluntad de Dios
 
 > Área: Dogmática / Moral / Ascética
-> Última actualización: 2026-06-02
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -78,6 +78,24 @@ Benedicto XVI desarrolla la relación entre la voluntad humana y la voluntad div
 Como escribe San Cipriano, «la voluntad de Dios es la que Cristo cumplió y enseñó. Es la humildad en la conducta, la firmeza en la fe, el respeto en las palabras, la rectitud en las acciones, la misericordia en las obras, la moderación en las costumbres; es no hacer agravio a los demás y tolerar los que nos hacen a nosotros [...]; es mantenernos inseparablemente unidos a su amor, estar junto a su cruz con fortaleza y confianza [...] esto es querer ser coherederos de Cristo, esto es cumplir el precepto de Dios y la voluntad del Padre» (Ele_Xto_Stos, Cap. III, §4).
 
 El amor y la [[unión_con_cristo|unión con el Señor]], que conllevan el cumplimiento de su voluntad, se alimentan, en primer lugar, a través de un conjunto de comportamientos en relación con Dios, entre los que resaltan: la adoración; la [[oración]]; la aceptación de la [[cruz]] de Cristo; la acción de gracias; la petición; la docilidad; la conducta propia de un hijo de Dios que lleva a un confiado abandono en la divina providencia; la humildad; la penitencia por los pecados (Ele_Xto_Stos, Cap. III, §4).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani lee «Sia fatta la tua volontà» **más allá del moralismo**: «“Sia fatta la tua
+volontà” no tiene ante todo un significado moralista: “Yo debo hacer lo que me
+mandas”. “Sia fatta la tua volontà” quiere decir: “Venga tu reino” —es lo mismo—, que
+tu nombre sea santificado, que tu poder se realice y se manifieste, así que todo el
+universo grite: “¡Gloria!”» (02, 203).
+
+**La acción banal ofrecida.** «Que esta mi acción banal sirva para esto, te ofrezco
+esto. Entonces —insisto— el mito del Ícaro antiguo se convierte en verdad entre
+nosotros» (02, 203).
+
+**El espacio cotidiano del infinito.** «La grandeza de la imagen de Matisse, que para
+nosotros no es un cuento o un mito, sino el mito realizado, el ideal realizado, debe
+convertirse en el espacio cotidiano. Cada uno de nuestros gestos, cada una de nuestras
+acciones, cada uno de nuestros comportamientos es una cárcel o un sepulcro, si no
+tiene este espacio, si no es relación con lo infinito» (02, 201).
 
 ## Relaciones doctrinales
 

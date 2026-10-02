@@ -3,11 +3,11 @@ type: Concepto Teológico
 title: "Compañía"
 description: "Presencia de Cristo que acompaña y ayuda al camino; visibilidad del maestro (Magister adest); medio, no fin; fuente de libertad."
 tags: ["eclesiología", "espiritualidad", "comunión"]
-timestamp: 2026-09-13
+timestamp: 2026-10-02
 ---
 
 > Área: Conceptos Teológicos / Eclesiología y Espiritualidad
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -50,6 +50,34 @@ En la Tischrede 180 (AED, 28, 129), los miembros de la compañía se reconocen �
 En la Tischrede 103 (AED, 29, 51), se explica cómo Cristo está presente en la compañía (comentario a *Di che si tratta*).
 
 En la Tischrede 184 (AED, 20, 163), la compañía es la visibilidad de Cristo: los testigos de una Presencia.
+
+### Según La convenienza umana della fede (CUDF)
+
+Para Giussani la compañía es el lugar donde **la vida riusci non come successo,
+ma come verità**: «Nuestra vida debe riuscire, non como successo, ma come
+verità» (02, 207).
+
+**La verdad y no el éxito.** «Aquí está el verdadero riuscito: “Quizá el fin de
+la vida sea vivir. […] No vivir, sino morir, y dar con alegría lo que tenemos.
+Aquí está la alegría, la libertad, la gracia, la juventud eterna!”» (P. Claudel,
+*L'Annonciation à Marie*; 02, 207).
+
+**Él está realmente entre nosotros.** En el evangelio de Emaús: «Y en realidad está
+entre nosotros, “pero sus ojos no eran capaces de reconocerlo”» (Lc 24,16; 02,
+211). «Normalmente somos incapaces de reconocerlo, no es habitual que nuestra
+compañía haga memoria de Él» (02, 211).
+
+**La simplicidad que se pide.** «Es esta la simplicidad que nuestra compañía
+necesita, y es suficiente: la simplicidad de decir: “No voy” y luego ir» (02, 217).
+
+**Una fe que hace positiva la vida entera.** «La fe vuelve positivo de modo
+absoluto el instante, que es nada, que es como nada. “Ser por”: y la circunstancia
+inmediata que tienes delante» (01, 299).
+
+**El dolor propio se vuelve el lugar del dolor del mundo.** «La compañía dice
+estas cosas como se come y se bebe: uno no responde a su problema si no responde
+al problema de todos, y por eso el dolor de la propia fatiga se vuelve el lugar
+donde resuena el dolor del mundo» (01, 295).
 
 ## Distinciones importantes
 

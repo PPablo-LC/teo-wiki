@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Padre Nuestro
 tags: ["dogmática", "ascética"]
 
-timestamp: 2026-05-22
+timestamp: 2026-10-02
 description: "El Padre Nuestro, u Oración dominical, es la oración cristiana fundamental que el Señor Jesús enseñó a sus discípulos."
 ---
 # Padre Nuestro
 
 > Área: Dogmática / Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-10-02
 
 ## Definición
 
@@ -40,6 +40,29 @@ El Catecismo dedica toda la segunda sección de la cuarta parte al Padre Nuestro
 ### Según el Catecismo (CEC)
 
 El Padre Nuestro es el corazón de las Sagradas Escrituras (§2762-2764). Es oración del Señor porque procede de Jesús (§2765-2766), y es oración de la Iglesia, arraigada en la oración litúrgica desde los comienzos (§2767-2772). «El perdón es cumbre de la oración cristiana» (§2844).
+
+### Según La convenienza umana della fede (CUDF)
+
+Giussani lee el Padrenuestro desde la experiencia de los Esercizi: «Ahora tenemos
+que pensar en algo grande: el Padre, “Padre nuestro que estás en los cielos”, porque
+esto nos enseña el hombre Cristo: es un hombre nuevo porque ha vivido en la
+conciencia de esto» (02, 103).
+
+**La conciencia de ser «del» Padre.** «La primera cosa que produce en nosotros, la
+cosa fundamental que debe producir en nosotros Cristo como hombre, Cristo como modelo
+de vida, como parámetro, como criterio del obrar, es: “La conciencia de que nosotros
+somos de algo más grande, somos del Padre”» (00, 67).
+
+**La petición introduce a Cristo.** «¿Qué significa pedir a Cristo, en nuestra
+pobreza? [Que] introduzca en nosotros la “conciencia profunda y siempre más
+invadente de que pertenecemos a algo más grande a lo que podemos decir ‘Padre’”.
+Tenemos que reconocerlo en nuestro trabajo y en nuestras relaciones, de modo que el
+primero se vuelva intenso y ofrecida, y los segundos estén llenos de misericordia
+y de caridad»» (00, 65).
+
+**El Padre no produce una huida.** «Entonces aflora nuestro mal y se hacen evidentes
+nuestra fuerza, que es el no tener miedo, y nuestra libertad, que debe elegir. Pero
+así nuestra vida se convierte en afirmación buena, amorosa» (02, 103).
 
 ## Ver también
 
