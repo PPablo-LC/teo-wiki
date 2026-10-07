@@ -12,19 +12,19 @@ tags: ["resumen", "fe", "cristianismo", "giussani", "cl"]
 
 ## Conceptos básicos referenciados
 
-- [[caducidad_humana]] — la fugacidad del vivir como primer dato reflejo sobre sí mismo.
-- [[destino]] — el sentido del destino percibido dentro de la fragilidad.
-- [[cristianesimo]] — el cristianismo como respuesta a la pregunta humana por el sentido.
+- [[caducidad_del_hombre]] — la fugacidad del vivir como primer dato reflejo sobre sí mismo.
+- [[sentido_del_destino]] — el sentido del destino percibido dentro de la fragilidad.
+- [[cristianismo]] — el cristianismo como respuesta a la pregunta humana por el sentido.
 - [[encuentro_con_cristo]] — el encuentro que hace organico el sentido del destino.
 - [[gracia]] — la «rivoluzione pacifica e piena di letizia» del abandono en Dios.
-- [[conversion]] — el «volgersi» que es quedarse atento a Jesús.
+- [[conversión]] — el «volgersi» que es quedarse atento a Jesús.
 - [[sacrificio]] — el tener fijos los ojos «dov'è la vera gioia».
 - [[matrimonio]] — el rapporto hombre-mujer determinado por el idéntico destino.
 - [[memoria]] — la memoria que se convierte en norma y hace verdadero el rapporto.
 - [[fraternidad]] — abolida la extrañeza entre los hombres.
 - [[cultura]] — la división de la cultura operada por la fórmula «gloria di Cristo».
 - [[moralismo]] — la moralidad como posibilidad de Cristo en nosotros, no capacidad propia.
-- [[predestinacion]] — el Padre que elige y da en mano a Cristo.
+- [[predestinación]] — el Padre que elige y da en mano a Cristo.
 - [[lumen_fidei]] — la encíclica de Francisco citada sobre la presencia concreta de Dios.
 
 ## CRISTIANESIMO ALLA PROVA - 2
@@ -68,7 +68,7 @@ ocurre «dal di dentro di noi stessi».
 rendere organico el senso del destino». El destino, lo que los hombres llamaron «Dio»,
 «è qualcosa che è accaduto nel mondo. È Uno che è venuto, si chiama Cristo!».
 
-**5. [[zaccheo]] como clave de lectura.** Figura familiar: capo della mafia, re de la
+**5. [[zaqueo]] como clave de lectura.** Figura familiar: capo della mafia, re de la
 violencia, señalado por escribas y fariseos como emblema de deshonestidad. Subió al
 sicomoro; al acercarse Cristo se detiene y lo mira: «Zaccheo, scendi in fretta, vengo a
 casa tua». Zaccheo da la mitad de sus bienes a los pobres y devuelve cuatro veces

@@ -71,7 +71,7 @@ Fraternidad es una Escuela de comunidad, de lo contrario es una formalidad»
 - [[compagnia_vocacional]] — la compañía a la que pertenece la Escuela
 - [[madurez_cristiana]] — lo que la Escuela de comunidad madura
 - [[sequela_christi]] — su relación con la sequela
-- [[comunión_y_liberación]] — el movimiento que da el texto
+- [[comunione_e_liberazione]] — el movimiento que da el texto
 - [[oración_de_cristo]] — el contenido sobre la verdad de la vida
 
 ## Ver también

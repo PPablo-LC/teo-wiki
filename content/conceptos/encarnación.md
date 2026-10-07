@@ -1,15 +1,14 @@
 ---
 type: Concepto Teológico
 title: Encarnación
-tags: ["cristología"]
-
-timestamp: 2026-09-15
+tags: ["dogmática", "cristología"]
+timestamp: 2026-10-06
 description: "La Encarnación es el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo (CEC §483)."
 ---
 # Encarnación
 
-> Área: Cristología
-> Última actualización: 2026-09-15
+> Área: Dogmática / Cristología
+> Última actualización: 2026-10-06
 
 ## Definición
 
@@ -24,24 +23,6 @@ Desde el primer instante de su Encarnación, el Hijo acepta el designio divino d
 La virginidad de María manifiesta la iniciativa absoluta de Dios en la Encarnación (CEC §503). El consentimiento de María precedió a la Encarnación para que, así como una mujer contribuyó a la muerte, así otra mujer contribuyera a la vida (CEC §488).
 
 ## Perspectivas por fuente
-
-### Según la Redemptoris Mater (RM)
-
-[JPII, Redemptoris Mater §1, §4, §7-11, §51]: La Encarnación es el misterio central de la fe, y María es la que lo hizo posible con su *fiat*. «Al llegar la plenitud de los tiempos, envió Dios a su Hijo, nacido de mujer» (Gál 4,4). Esta plenitud señala el momento en que el Espíritu Santo plasmó en el seno virginal de María la naturaleza humana de Cristo [RM §1]. El misterio de la Encarnación —la unión hipostática del Hijo de Dios con la naturaleza humana— se realiza y cumple precisamente en María, que por ello es «llena de gracia» [RM §9]. María «es Madre de Dios (*Theotókos*), ya que por obra del Espíritu Santo concibió en su seno virginal y dio al mundo a Jesucristo, el Hijo de Dios consubstancial al Padre» [RM §4, citando el Concilio de Éfeso]. La Encarnación constituye el cumplimiento sobreabundante de la promesa del protoevangelio (Gn 3,15) [RM §11]. En el centro del asombro de la fe ante la Encarnación se halla María, que ha sido la primera en experimentar la divinización del hombre mediante la «humanización» del Hijo [RM §51].
-
-### Giussani — Perché la Chiesa (PLDC)
-
-PLDC hace de la Encarnación el molde de toda la eclesiología: «l'annuncio di una Presenza: l'Incarnazione è un fatto accaduto» (prefación 2003); la unidad del cristianesimo no es un pensiero ni una ideología, sino la permanencia de ese hecho. La Iglesia es «la continuità dell'avvenimento dell'Incarnazione nella storia, ciò che permette all'uomo di oggi di essere in rapporto con Cristo» (Parte IV, cap. 3): como el Verbo se hizo carne en las entrañas de una muchacha de Nazaret — *Verbum caro hic factum est*, la inscripción que Giussani vio en Nazaret —, así alcanza hoy al hombre a través de la compañía de los creyentes, presencia integralmente humana del divino. La Encarnación define también la pedagogía de Dios: en su vida terrena, Gesù «si assoggetta alle leggi della natura umana... parla il linguaggio del suo tempo» (Leclercq); del mismo modo la Iglesia se comunica dentro de condicionamientos históricos y culturales sin que ello dañe la pretensión universal.
-
-### Según la *Redemptor Hominis* (RH)
-
-La encíclica inaugural de Juan Pablo II se abre precisamente con la verdad-clave de la fe cristiana: «Y el Verbo se hizo carne y habitó entre nosotros» (Jn 1,14) [RH §1]. La Encarnación es presentada como el acontecimiento que da al hombre la dimensión que Dios quiso darle desde el principio, de manera definitiva: «Dios ha entrado en la historia de la humanidad y en cuanto hombre se ha convertido en sujeto suyo» [RH §1].
-
-En Cristo, el mundo visible creado para el hombre —sujeto a la vanidad por el pecado— adquiere nuevamente el vínculo original con la fuente divina de la Sabiduría y del Amor [RH §8]. La Encarnación es el fundamento de la nueva creación: así como en Adán el vínculo quedó roto, «en el Hombre-Cristo ha quedado unido de nuevo» [RH §8].
-
-El Concilio Vaticano II enseña, y Juan Pablo II lo recoge, que «el Hijo de Dios, con su encarnación, se ha unido en cierto modo con todo hombre» [RH §8, citando GS 22]. Cristo ha penetrado de modo único e irrepetible en el misterio del hombre y ha entrado en su «corazón» [RH §8].
-
-El misterio de la Encarnación se formó bajo el corazón de la Virgen de Nazaret cuando pronunció su *fiat*: «desde aquel momento este corazón virginal y materno al mismo tiempo, bajo la acción particular del Espíritu Santo, sigue siempre la obra de su Hijo» [RH §22]. María fue «inserida en la historia de la salvación» desde el momento de la Anunciación [RH §22].
 
 ### Según el Catecismo (CEC)
 
@@ -101,7 +82,7 @@ El Catecismo recorre las herejías que la Iglesia hubo de enfrentar: docetismo, 
 
 **a.1 — Cuerpo perfectamente formado en el primer instante.** La formación del cuerpo de Cristo se realizó en un instante por dos razones: por el poder infinito del Espíritu Santo, y porque era conveniente que el Verbo asumiese un cuerpo ya formado (q.33 a.1).
 
-**a.2 — Animado en el primer instante.** El cuerpo de Cristo fue animado por el alma racional en el primer instante de su concepción, porque el Verbo asumió el cuerpo mediante el alma. No hubo un alma vegetativa o sensitiva previa; desde el instante inicial hubo un cuerpo perfectamente dispuesto y un alma racional infundida (q.33 a.2).
+**a.2 — Animado en el primer instante.** El cuerpo de Cristo fue animado por la alma racional en el primer instante de su concepción, porque el Verbo asumió el cuerpo mediante el alma. No hubo un alma vegetativa o sensitiva previa; desde el instante inicial hubo un cuerpo perfectamente dispuesto y un alma racional infundida (q.33 a.2).
 
 **a.3 — Asumido por el Verbo en el primer instante.** No hubo intervalo entre la concepción y la asunción. La carne de Cristo no fue primero concebida y luego asumida, sino que fue concebida al ser asumida y asumida al ser concebida. De lo contrario, habría tenido una hipóstasis propia distinta del Verbo (q.33 a.3).
 
@@ -114,6 +95,52 @@ La Encarnación es el fundamento de toda la vida cristiana. El Verbo encarnado e
 Royo Marín trata la Encarnación en la Primera Parte (Principios Fundamentales de la Vida Cristiana), donde expone el misterio de Cristo como Cabeza del Cuerpo Místico y fuente de toda gracia.
 
 [TPCr, Parte I, Cap. 3]
+
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §1, §4, §7-11, §51]: La Encarnación es el misterio central de la fe, y María es la que lo hizo posible con su *fiat*. «Al llegar la plenitud de los tiempos, envió Dios a su Hijo, nacido de mujer» (Gál 4,4). Esta plenitud señala el momento en que el Espíritu Santo plasmó en el seno virginal de María la naturaleza humana de Cristo [RM §1]. El misterio de la Encarnación —la unión hipostática del Hijo de Dios con la naturaleza humana— se realiza y cumple precisamente en María, que por ello es «llena de gracia» [RM §9]. María «es Madre de Dios (*Theotókos*), ya que por obra del Espíritu Santo concibió en su seno virginal y dio al mundo a Jesucristo, el Hijo de Dios consubstancial al Padre» [RM §4, citando el Concilio de Éfeso]. La Encarnación constituye el cumplimiento sobreabundante de la promesa del protoevangelio (Gn 3,15) [RM §11]. En el centro del asombro de la fe ante la Encarnación se halla María, que ha sido la primera en experimentar la divinización del hombre mediante la «humanización» del Hijo [RM §51].
+
+### Según la *Redemptor Hominis* (RH)
+
+La encíclica inaugural de Juan Pablo II se abre precisamente con la verdad-clave de la fe cristiana: «Y el Verbo se hizo carne y habitó entre nosotros» (Jn 1,14) [RH §1]. La Encarnación es presentada como el acontecimiento que da al hombre la dimensión que Dios quiso darle desde el principio, de manera definitiva: «Dios ha entrado en la historia de la humanidad y en cuanto hombre se ha convertido en sujeto suyo» [RH §1].
+
+En Cristo, el mundo visible creado para el hombre —sujeto a la vanidad por el pecado— adquiere nuevamente el vínculo original con la fuente divina de la Sabiduría y del Amor [RH §8]. La Encarnación es el fundamento de la nueva creación: así como en Adán el vínculo quedó roto, «en el Hombre-Cristo ha quedado unido de nuevo» [RH §8].
+
+El Concilio Vaticano II enseña, y Juan Pablo II lo recoge, que «el Hijo de Dios, con su encarnación, se ha unido en cierto modo con todo hombre» [RH §8, citando GS 22]. Cristo ha penetrado de modo único e irrepetible en el misterio del hombre y ha entrado en su «corazón» [RH §8].
+
+El misterio de la Encarnación se formó bajo el corazón de la Virgen de Nazaret cuando pronunció su *fiat*: «desde aquel momento este corazón virginal y materno al mismo tiempo, bajo la acción particular del Espíritu Santo, sigue siempre la obra de su Hijo» [RH §22]. María fue «inserida en la historia de la salvación» desde el momento de la Anunciación [RH §22].
+
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC hace de la Encarnación el molde de toda la eclesiología: «l'annuncio di una Presenza: l'Incarnazione è un fatto accaduto» (prefación 2003); la unidad del cristianesimo no es un pensiero ni una ideología, sino la permanencia de ese hecho. La Iglesia es «la continuità dell'avvenimento dell'Incarnazione nella storia, ciò che permette all'uomo di oggi di essere in rapporto con Cristo» (Parte IV, cap. 3): como el Verbo se hizo carne en las entrañas de una muchacha de Nazaret — *Verbum caro hic factum est*, la inscripción que Giussani vio en Nazaret —, así alcanza hoy al hombre a través de la compañía de los creyentes, presencia integralmente humana del divino. La Encarnación define también la pedagogía de Dios: en su vida terrena, Gesù «si assoggetta alle leggi della natura umana... parla il linguaggio del suo tempo» (Leclercq); del mismo modo la Iglesia se comunica dentro de condicionamientos históricos y culturales sin que ello dañe la pretensión universal.
+
+### Giussani — La convenienza umana della fede (CUDF)
+
+Giussani lee la encarnación como **el hecho que da nombre a la gracia**: «¿Qué es esta gracia que hay en nosotros? La gracia que hay en nosotros es algo que ha ocurrido en el mundo. Es Uno que ha venido, ¡se llama Cristo!» (02, 49).
+
+**Más que todas las imágenes.** «Porque Cristo es más que padre, más que madre, más que hermano, más que esposo y esposa, más que hijo, más que amigo: es Dios hecho hombre» (02, 49).
+
+**La presencia concreta.** «Esta ternura y esta agudeza para percibir la gran presencia de Este Hombre, nuestro hermano, que es Dios presente entre nosotros, presente a la comunión que hay entre nosotros, al reconocimiento que hay entre nosotros» (02, 51).
+
+### Según Il senso religioso (SR)
+
+**La Encarnación como hipótesis que se verifica (cap. XV).** Giussani aborda la Encarnación dentro de la «hipótesis de la revelación»: la fe propone que Dios entra en la historia «como un amigo». El misterio se hace cercano en la Persona de Cristo —sin dejar de ser misterio— cumpliendo las condiciones de aceptabilidad de la revelación (SR, `22_capitolo_quindicesimo.md`, §31-40, 51-77).
+
+**De la razón al acontecimiento (cap. XIV).** La «energía de la razón» hacia el ignoto culmina en la posibilidad de la Encarnación: frente a los ídolos fabricados por el hombre (becerro de oro, Es 32), el Misterio inocente divino se ofrece como hipótesis razonable y comprensible (SR, `21_capitolo_quattordicesimo.md`, §59-70, 101-115).
+
+### Giussani — All'origine della pretesa cristiana (ODPC)
+
+ODPC 13 (cap. 9) fija los términos de la Encarnación: que Gesù sea hombre-Dios no significa que Dios «se haya transformado en un hombre», sino que «la Persona divina del Verbo posee, junto a la naturaleza divina, también la naturaleza humana concreta del hombre Gesù» — no confusión de naturalezas, sino expresión de la naturaleza divina a través de la asumida (León Magno, Lettera a Flaviano 28,3-4; [[naturaleza_y_persona]]). La Encarnación establece además el método de Dios: «Dio salva l'uomo attraverso l'uomo» (Dionigi l'Areopagita), que responde a la sensibilidad humana y a la dignidad de la libertad como colaboradora; un método que se prolonga en la historia («Ecco, io sono con voi tutti i giorni») y del que nace la diferencia de la Iglesia católica. La salvación del tiempo es su consecuencia (Eliade: el tiempo se llena porque ha visto nacer, sufrir, morir y resucitar a Gesù). Y documenta la resistencia instintiva del hombre: las objeciones de Celso, el docetismo, el «dogma» moderno de la separación fe/realidad ([[herejías_cristológicas]], [[pretesa_cristiana]]).
+
+### Según Benedicto XVI (Jesús de Nazaret II y III)
+
+**JdN II — El «de dónde» de Jesús.** Benedicto XVI aborda la Encarnación en el contexto de la pregunta de Pilato —«¿De dónde eres tú?» (Jn 19,9)— y de la presentación de la identidad de Jesús. La Encarnación no es un mito ni una adopción divina posterior: Jesús es verdadero hombre desde el primer instante de su existencia. Su humanidad no es una máscara del Verbo, sino una naturaleza real con cuerpo, alma, voluntad y libertad humanas: en Getsemaní, Jesús ora con su voluntad humana —«Padre, si es posible, pase de mí este cáliz»—, no como adorno literario sino como expresión de la repugnancia natural de su humanidad ante el sufrimiento y la muerte.
+
+**Unidad de persona, diversidad de naturalezas.** La fórmula de Calcedonia —«dos naturalezas, una única Persona»— es la clave: la Persona del Verbo asume la naturaleza humana no para destruirla, sino para elevarla: «Obra una y otra forma con comunicación de la otra lo que es propio de ella». La humanidad de Jesús es el instrumento de nuestra redención. La pregunta de Pilato resume el misterio: Jesús viene del Padre; su reino «no es de aquí» (Jn 18,36), no es político. La Encarnación es el «desde dónde» del misterio pascual: solo porque Jesús es verdadero Dios y verdadero hombre, su muerte tiene valor redentor infinito.
+
+**JdN III — Concepción virginal, nombre y José.** El nacimiento de Jesús de la Virgen María se anuncia en Isaías 7,14: «Mirad: la virgen está encinta y da a luz un hijo, y le pondrá por nombre Emmanuel» — una «palabra en espera» que en Cristo adquiere su pleno significado (cf. la observación de Marius Reiser: «La profecía del profeta es como un ojo de cerradura milagrosamente predispuesto, en el cual encaja perfectamente la llave Cristo»). El nombre indicado a María y a José es Jesús (*Jeshua*, «YHWH es salvación»): «El nombre del Sinaí, que había quedado como quien dice incompleto, es pronunciado hasta el fondo. El Dios que es es el Dios presente y salvador» (JdN_III). El «sí» de María —«Hágase en mí según tu palabra» (Lc 1,38)— es el acto libre mediante el cual la Palabra creadora da inicio a una nueva creación: Jesús es el nuevo Adán, un nuevo comienzo *ab integro*; Dios no actúa solo, sino que requiere el consentimiento libre de la criatura. Benedicto XVI examina críticamente las hipótesis que derivarían el nacimiento virginal de mitos egipcios, literaturas judías helenísticas o mitos grecorromanos: en los Evangelios no hay confusión entre Dios y la criatura ni contacto corporal entre la divinidad y la materia; los relatos de Mateo y Lucas son «historia real, acontecida, historia ciertamente interpretada y comprendida sobre la base de la Palabra de Dios» (JdN_III). Mateo presenta a José como *zaddik*, un justo veterotestamentario; su «no» privado a María es signo de amor y justicia, y tras el sueño su obediencia es la respuesta del justo que confía en Dios: «José no teme aceptar la tarea de hacer visible la fidelidad de Dios a la promesa hecha a David» (JdN_III).
+
+[JdN II, capítulo sobre el interrogatorio de Pilato; JdN III, caps. II-III]
 
 ### Según Para Salvarte (PS)
 
@@ -136,6 +163,12 @@ Juan Pablo II, en su ciclo cristológico, trata la encarnación como obra del Es
 El **IV Concilio de Letrán** (1215), en la constitución *Firmemente creemos* (D-428), confiesa que Dios «creó de la nada el universo y todas las criaturas, tanto las espirituales como las corporales». El diablo y los demás demonios fueron creados buenos por naturaleza, pero se hicieron malos por su propia voluntad.
 
 En D-429, el mismo concilio confiesa el misterio de la Encarnación: Jesucristo es verdadero Dios y verdadero hombre, «una sola persona en dos naturalezas», nacido de la siempre Virgen María por obra del Espíritu Santo. «Descendió a los infiernos, resucitó al tercer día, subió a los cielos». Al final de los tiempos vendrá a juzgar a vivos y muertos, y todos resucitarán con sus propios cuerpos para recibir según sus obras.
+
+El **Concilio de Vienne** (1312, D-480) definió que «el Verbo asumió las partes de nuestra naturaleza» —es decir, un cuerpo humano real y un alma racional o intelectiva— y rechazó la doctrina de que «el Verbo o esencia divina... no asumió las partes de nuestra naturaleza». También menciona la llaga del costado de Cristo y la Iglesia como esposa de Cristo (D-480).
+
+El **Concilio de Florencia** (1442, D-708–710), Bula *Cantate Domino*: definió la fe sobre la Encarnación: «Una persona de la Trinidad, verdadero Dios, Hijo de Dios, engendrado del Padre, consustancial y coeterno con el Padre, en la plenitud del tiempo... tomó del seno inmaculado de María Virgen la verdadera e íntegra naturaleza del hombre y se la unió consigo en unidad de persona». «Cuanto allí hay de Dios, no está separado del hombre; y cuanto hay de hombre, no está dividido de la divinidad; y es un solo y mismo indiviso, permaneciendo una y otra naturaleza en sus propiedades». El Hijo de Dios «nació verdaderamente, sufrió verdaderamente, murió y fue sepultado verdaderamente, resucitó verdaderamente» (D-709).
+
+El concilio anatematizó las herejías cristológicas (D-710): Ebión, Cerinto, Marción, Pablo de Samosata y Fotino (que negaban la divinidad de Cristo, confesándole por puro hombre); Maniqueo (que afirmaba cuerpo fantástico); Valentín (que negaba que el Hijo tomara algo de la Virgen); Arrio (que negaba el alma humana de Cristo); Apolinar (que negaba el alma racional, poniendo la divinidad en su lugar); Teodoro de Mopsuesta y Nestorio (que afirmaban dos personas en Cristo, negando la unión hipostática); y Eutiques (que confundía las dos naturalezas).
 
 **Paulo IV** (1555), Constitución *Cum quorundam* (D-993): condenó a quienes niegan que Nuestro Señor Jesucristo fue concebido según la carne en el vientre de la siempre Virgen María por obra del Espíritu Santo; o que no sufrió la muerte de cruz para redimirnos de los pecados y reconciliarnos con el Padre.
 
@@ -181,24 +214,17 @@ Robert Mixa, reseñando *On the Internet* de Hubert Dreyfus, muestra que la crí
 
 **La Encarnación y la unidad de la verdad (Andrew Youngblood, 20_spotlight_youngblood.md).** Toda la realidad, porque fue creada en Cristo y tiende a Él, comparte la unidad de la verdad, la bondad y la belleza. La educación clásica católica se apoya en este principio encarnacional: aprender a pensar con la mente de Cristo, que se encarnó para asumir y elevar todo lo humano, es el núcleo de la *metamorphosis intellectualis* cristiana.
 
-### Según Il senso religioso (SR)
-
-**La Encarnación como hipótesis que se verifica (cap. XV).** Giussani aborda la Encarnación dentro de la «hipótesis de la revelación»: la fe propone que Dios entra en la historia «como un amigo». El misterio se hace cercano en la Persona de Cristo —sin dejar de ser misterio— cumpliendo las condiciones de aceptabilidad de la revelación (SR, `22_capitolo_quindicesimo.md`, §31-40, 51-77).
-
-**De la razón al acontecimiento (cap. XIV).** La «energía de la razón» hacia el ignoto culmina en la posibilidad de la Encarnación: frente a los ídolos fabricados por el hombre (becerro de oro, Es 32), el Misterio inocente divino se ofrece como hipótesis razonable y comprensible (SR, `21_capitolo_quattordicesimo.md`, §59-70, 101-115).
-
-### Giussani — All'origine della pretesa cristiana (ODPC)
-
-ODPC 13 (cap. 9) fija los términos de la Encarnación: que Gesù sea hombre-Dios no significa que Dios «se haya transformado en un hombre», sino que «la Persona divina del Verbo posee, junto a la naturaleza divina, también la naturaleza humana concreta del hombre Gesù» — no confusión de naturalezas, sino expresión de la naturaleza divina a través de la asumida (León Magno, Lettera a Flaviano 28,3-4; [[naturaleza_y_persona]]). La Encarnación establece además el método de Dios: «Dio salva l'uomo attraverso l'uomo» (Dionigi l'Areopagita), que responde a la sensibilidad humana y a la dignidad de la libertad como colaboradora; un método que se prolonga en la historia («Ecco, io sono con voi tutti i giorni») y del que nace la diferencia de la Iglesia católica. La salvación del tiempo es su consecuencia (Eliade: el tiempo se llena porque ha visto nacer, sufrir, morir y resucitar a Gesù). Y documenta la resistencia instintiva del hombre: las objeciones de Celso, el docetismo, el «dogma» moderno de la separación fe/realidad ([[herejías_cristológicas]], [[pretesa_cristiana]]).
-
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 La unión en Cristo es **personal**: ni esencial (Eutiques, que confunde las naturalezas) ni accidental — en una sola persona. Contra Nestorio: «si las dos naturalezas no están unidas en la misma persona, no están realmente unidas»; y contra la unión «por gracia» (el Verbo habita en Cristo como en los santos): la gracia fluye *de* la unión; Cristo no diría «Yo soy la luz del mundo» sino «la luz del mundo habita en mí»; no se hizo Hijo de Dios por favor divino — el Hijo de Dios se hizo hombre. Punto cardinal: **una sola existencia en Cristo** — su humanidad nunca existió *per se*, sino «en otro», «por una asunción inefable»: «Dios no asumió un hombre (*non assumpsit hominem*) sino que se hizo hombre asumiendo la naturaleza humana»; su humanidad es individual, pero no persona ni supuesto: el sujeto es el Hijo eterno. La gramática teológica distingue *acerca de quién* se habla (una persona) y *según qué* (dos naturalezas): por eso la Escritura puede decir que el Señor de la gloria fue crucificado (1 Cor 2,8) y que el que es Dios fue perfeccionado por el sufrimiento (Hb 2,10). La Encarnación no es el ascenso de un hombre sino el **descenso del Verbo** (Jn 3,13): «un hombre no es divinizado, sino que Dios es humanado» (*humanatum*).
 
 ## Distinciones importantes
 
+- **Encarnación vs. unión hipostática**: la Encarnación es el acto de asumir la naturaleza humana; la unión hipostática es el estado permanente de la unión de las dos naturalezas en la persona del Verbo.
 - **Unión hipostática**: unión de las dos naturalezas (divina y humana) en una sola Persona (la del Verbo).
 - **Comunicación de idiomas**: atribución a Cristo de propiedades divinas y humanas por ser una sola Persona.
+- Cristo es perfecto Dios y perfecto hombre; consubstancial al Padre según la divinidad y consubstancial a nosotros según la humanidad (Calcedonia).
+- La asunción de la naturaleza humana incluye cuerpo y alma intelectiva (contra quienes negaban el alma humana de Cristo: Arrio, Apolinar).
 - **Encarnación** ≠ **Adopción**: Cristo es Hijo de Dios por naturaleza, no por adopción.
 - **Encarnación** ≠ **teofanía**: en la Encarnación, Dios asume realmente la naturaleza humana; en las teofanías, solo se manifiesta temporalmente.
 
@@ -206,14 +232,14 @@ La unión en Cristo es **personal**: ni esencial (Eutiques, que confunde las nat
 
 La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_santificante]] como participación de la naturaleza divina, y la razón de la [[mediación_de_cristo]]. Se relaciona con la [[concepción_virginal]], la [[maternidad_divina]] de María, y el [[cuerpo_místico]] del cual Cristo es Cabeza.
 
-
 ## Analizado para
 
 - [[joe_mcinerny_humble_greatness]]
 - [[the_search_serie_análisis]] — convergencia: encarnación como evento único, Jesús afirma explícitamente ser Dios; tensión: no desarrolla la unión hipostática ni la Mariología
 
 ## Ver también
-[[redención]], [[unión_hipostática]], [[concepción_virginal]], [[maternidad_divina]], [[cuerpo_místico]], [[jesucristo]], [[jorge_loring]], [[humor]]
+
+[[redención]], [[unión_hipostática]], [[concepción_virginal]], [[maternidad_divina]], [[cuerpo_místico]], [[jesucristo]], [[virgen_maría]], [[jorge_loring]], [[humor]], [[concilio_de_calcedonia]], [[concilio_de_vienne]]
 
 ## Referencias
 
@@ -223,6 +249,10 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - [PS §25-30]
 - SmTh IIIª q.1 aa.1-6; q.4 a.1; q.5 aa.1-4; q.6 aa.1-5; q.31 aa.1-8; q.32 aa.1-4; q.33 aa.1-4
 - [RH §1, §8, §13, §22]
+- [RM §1, §4, §7-11, §51]
+- Denzinger: D-428-429 (IV Concilio de Letrán); D-480 (Concilio de Vienne); D-708–710 (Concilio de Florencia); D-993 (Paulo IV, *Cum quorundam*)
+- Giussani, *La convenienza umana della fede* (CUDF), 02, 49-51
+- Benedicto XVI, *Jesús de Nazaret* II (interrogatorio de Pilato) y III, caps. II-III
 - Evangelization & Culture, Issue 6 (EcC6): §§09, 11, 17 (Havlicek, Stewart, Garrett)
 - [EAC-8, Issue 8 «Humor», archivos 02, 13, 15]
 - [EAC-1, Issue 1 «Creativity»: archivos 15, 19]

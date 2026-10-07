@@ -32,6 +32,23 @@ Con el tiempo, poco a poco, oyó, leyó, dijo e hizo muchas cosas. Se volvió un
 
 El autor describe el momento de la primera caída en la masturbación: el joven está solo, su corazón late violentamente, la sangre le hierve. Se pregunta si es realmente un deleite exquisito jugando con su propio órgano genital. Animado por el hecho de que nadie puede verlo, arde en el deseo de probarlo; realizar un acto despreciable sobre su propio cuerpo, que bien sabe es un pecado feo contra Dios, su honor y la dignidad humana. «¿Pero a quién le importa el pecado en un momento en que el instinto tirano domina sobre él, cuyas urgencias, ya tan clamorosas, han sido considerablemente incrementadas por conversaciones, lecturas y canciones previas?» Y así se cometió el primer pecado secreto. «El infeliz muchacho se ha hundido en el mar de la corrupción — se ha convertido en autocontaminador.» Todo el «deleite» pudo haber durado solo medio minuto. Después, su conciencia dormida despierta de un sobresalto y llora con gran sollozo. El autor compara: «Así como Napoleón debió de estar en el desierto nevado de Rusia, con los brazos cruzados, meditando, mirando Moscú arder. Así como el profeta Jeremías debió de lamentar la destrucción de Jerusalén y el Templo.» Si lloramos por el cuerpo de un ser querido del que el alma ha partido, cuánto más debemos llorar por un alma de la que Dios ha partido. San Pablo escribió a los Corintios: «¿No sabéis que sois Templo de Dios, y que el Espíritu de Dios habita en vosotros? Pero si alguno viola el Templo de Dios, a ese destruirá Dios. Porque santo es el Templo de Dios, que vosotros sois» (1 Cor 3,16-17).
 
+### DESECRACION: LA CONSCIENCIA QUE SE APAGA
+
+El desenlace de esta primera caída es que **el intervalo de razón dura apenas unos días**. El joven vuelve a la misma compañía, aprende cosas nuevas, se ríe de nuevos chistes; a la semana repite el mismo crimen, y a la siguiente, cada vez con más frecuencia. «Su conciencia lucha un tiempo, como la brasa brillante a punto de apagarse, como una bestia salvaje atrapada en la trampa; pero pronto vuelve a cansarse, y queda muda e inmóvil.»
+
+El autor dramatiza lo que el joven no puede prever a los quince años: «¡Ah, si pudieras prever las lágrimas amargas y hirvientes que derramarás a los veinte como consecuencia de este pecado! ¡Ah, si pudieras tener un presentimiento de cómo este pecado quemará tu corazón tierno hasta convertirlo en una dura masa de lava! ¡Ah, si a tu edad pudieras prever cómo este pecado desgastará y destrozará tu alma blanca y noble hasta convertirla en un trapo sucio y asqueroso!» Lo ilustra con el poema de Kálmán Radványi:
+
+> *Ay de mi pobre corazón, en el que una llama*
+> *extendió antaño su luz allá donde yo llegara.*
+> *Ay de mis pobres ojos, libres de engaño,*
+> *que reflejaban una vez la sonrisa de Dios.*
+> *Ay de mi pobre sangre, tan lenta en su latir!*
+> *¿Dónde está el ardor de su calor juvenil?*
+> *Ay de mí, mi juventud se ha huido*
+> *y todas mis variadas potencias yacen muertas.*
+
+Y formula el principio pedagógico con que cierra la sección: **en el ajedrez, si haces una jugada equivocada, simplemente retiras la pieza y no ha sido una jugada válida; pero los movimientos de la inmoralidad nunca pueden retirarse ni invalidarse.** Añade el verso de John Vajda: *«Desvanécense en la memoria todas nuestras sabidurías de escribir y de vivir: solo permanece aquella hora en que uno se olvidó de sí mismo al dar.»*
+
 ### RAGGED YOUTH — El alma despedazada
 
 «La castidad del alma es como el rocío de la mañana que brilla como diamantes en los pétalos de las flores.» Las gotas de rocío que emiten este brillo fantástico son gotas insignificantes de agua, pero si una mano humana la sacude del cáliz de la flor, no puede ser reemplazada por todos los océanos del mundo. El autor compara la caja de Pandora con los placeres sensuales prohibidos: prometen un tesoro fabuloso desde fuera, pero «¡ay del muchacho que se atreve a abrir esta caja de Pandora!» La vida voluptuosa tiene como resultado final que el alma también se convierte en carne dentro de él; se vuelve un individuo egoísta, insensible y frío. «Su alma es oscura, apática, sombría; y en su cuerpo, pasiones demoníacas, desatadas de sus cadenas, persiguen y acechan entre sí.» Incluso los animales no practican esta inmoralidad, pero el hombre sí — «racional hombre con voluntad libre y creado a semejanza de Dios». Quien proueba con descuido un poco de la miel prohibida de los actos inmorales se vuelve como una rata que ha comido veneno: el estómago arde con un fuego terrible, corre frenéticamente buscando agua, pero el fuego no se apaga hasta que el animal envenenado deja de respirar con un estremecimiento convulso. «Este pecado, según la autoridad médica (Doctor Friebe), es el atajo más seguro y, en algunos aspectos, más terrible hacia la tumba.»
@@ -39,6 +56,24 @@ El autor describe el momento de la primera caída en la masturbación: el joven 
 ### ONWARDS ON THE ROAD TO CORRUPTION — Profundizando en la corrupción
 
 Ahora que el muchacho ha llegado tan lejos, quiere explorar aún más a fondo los secretos de la naturaleza humana. Quiere saberlo todo de la vida sexual y el origen de la vida humana. ¿No es un estudiante de secundaria lo suficientemente maduro para explorar todo en el mundo? Sus amigos ya están bien versados en estas cosas. Con gusto lo llevan a guaridas de vicio, a lugares donde se le inicia en todos los secretos. Quiere conocer chicas aún más desafortunadas que él, y muchas veces no necesita amigos malvados: «¿No es verdad que no se puede caminar por ciertas calles en las grandes ciudades por la noche sin que se le acerque una de estas chicas caídas, que atraen y arrastran a otros al alcantarillado?» La imagen de destrucción es deprimente en cualquier parte. Es triste ver la destrucción de una hermosa iglesia por la guerra, pero «mil veces más triste es la imagen de vandalismo perpetrado sobre el templo de un alma juvenil, donde hace poco brillaba el altar blanco como la nieve del amor a Dios, y ardía la llama sagrada de un alto idealismo». Para este muchacho ya no hay secretos; ha oído, visto, hecho y experimentado todo. ¿Cuándo será feliz si no ahora? ¿Por qué esta tristeza yacentemente pesada sobre su corazón? ¿Por qué la sombra siniestra que oscurece sus facciones? ¿Por qué clava los ojos, incapaz de encontrar la mirada de la gente honesta? ¿Por qué está tan pálido? ¿Por qué va rezagado y lejos en sus estudios? «Sí, lo sabe y — ¡por eso es infeliz!» Pues sabe que la felicidad que persiguió a toda costa, a expensas de su integridad moral, carácter y honor, la persiguió en vano. «Con la cara encendida y el corazón tembloroso, arrebató la mariposa de colores de la felicidad imaginaria, pero la mariposa voló y en su mano solo quedó el polvo de sus alas.» Y con la mariposa volaron la paz, el futuro y la felicidad de un alma juvenil. Y ¿qué quedó del antiguo paraíso? «Un vacío abierto... un vacío sin esperanza, sin alegría, sin estrellas, sombrío, negro... y cuervos revoloteando y graznando en esta alma juvenil que debería haber resonado con las alegres canciones de los ruiseñores.» El autor cita a Carlos IV, último rey de Hungría, desterrado a Madeira, que en su lecho de muerte dijo en oración por sus siete hijos: «Mi Señor, más vale llévatelos a ti a que te ofendan jamás con un pecado mortal.» Y Blanca, reina de Francia, dijo a su hijo, luego San Luis: «Hijo mío, te amo más que a mi propio corazón. Eres el único consuelo que aún me queda en la tierra; eres la esperanza del reino — y sin embargo, preferiría verte muerto antes que oír que hubieras cometido deliberadamente un solo pecado mortal.» Donde pasa el pecado de inmoralidad, con sus terribles secuaces, solo queda un páramo estéril. «Cabezas juveniles, antes sostenidas noblemente erguidas, cuelgan. Espinas dorsales fuertes se debilitan. Caras sonrosadas se desvanecen. Caracteres se destrozan. Lo que podrían haber sido flores sonientas son solo tallos marchitos susurrando en el viento.» El autor cita 1 Corintios 6,18: «Todo pecado que un hombre comete es fuera del cuerpo; pero el que fornicación comete, peca contra su propio cuerpo.»
+
+### EL LAMENTO DE LOS PADRES
+
+Antes de entrar en las profundidades, el autor intercala el duelo de los padres, que es el verdadero precio del pecado de los hijos. Cuatro testimonios: **Carlos IV de Hungría**, último rey del país, desterrado a la isla de Madeira, recitó en su lecho de muerte, pidiendo por sus siete hijos: *«Señor mío, prefiero llevártelos antes que dejar que te ofendan con un pecado mortal»*. **Blanca de Francia**, en una ocasión, dijo a su hijo, el futuro **San Luis**: *«Hijo mío, te amo más que a mi propio corazón. Eres el único consuelo que me queda en la tierra, eres la esperanza del reino; y, sin embargo, preferiría verte muerto antes que oír alguna vez que has cometido deliberadamente un solo pecado mortal»*. De ahí el lema: **«¡Más vale sobre un féretro que en pecado mortal!»**
+
+Y la escena doméstica: «¡Oh, qué amargas serían las lágrimas de unos padres inquietos, cómo el corazón de una madre amorosa se tambalearía bajo el peso de la aflicción si pudiera ver a su hijo luchando en los tormentos del pecado, si pudiera conocer la depravación de su desdichado hijo!» Y la pregunta que el joven no se hace: «¡Oh, cruel hijo, tus padres, que trabajan con tanto esfuerzo!, ¿por qué no les ahorras este dolor físico?»
+
+Añade el poignantísimo detalle de **Leónidas**, uno de los mártires de la Iglesia primitiva, que besó el pecho de su hijo dormido, **Orígenes**, con devoción, pues sabía que «el Eterno había venido a morar en aquel pequeño corazón limpio». «Y oh, joven infeliz, tu alma, que hace poco era blanca como la espuma del mar y fragante como el perfume de las flores de primavera — tu alma, que era el Templo de Dios —, la has salpicado de porquería y mugre de un charco inmundo.»
+
+Y el remate que anuncia el capítulo siguiente: «Y, sin embargo, esto es solo la primera etapa de la depravación. Todavía no hemos llegado a las profundidades.»
+
+### THE LAW OF ACCELERATION OF GRAVITY — La ley de aceleración de la gravedad
+
+Este es el eje central del capítulo, y explica por qué el pecado no se detiene en el primer tropiezo. El autor parte de una ley física: **un cuerpo que cae no se mueve siempre a la misma velocidad, sino que su velocidad se acelera de momento en momento por las misteriosas fuerzas de la tierra a la que está atraído**. Y afirma que **esa misma ley se aplica a la vida espiritual**: «En las profundidades de cada alma se acechan fuerzas diabólicas horrendas que, una vez que han alcanzado el dominio sobre nosotros, se apoderan de nuestra alma con fuerza cada vez mayor y la arrastran hacia las negras profundidades del pecado. Un solo acto descuidado, una sola caída, y la ley de aceleración comienza a funcionar.»
+
+El efecto sobre el ser humano es una ruina silenciosa: «Dondequiera que pasa el pecado de inmoralidad, con sus temibles secuaces, no queda más que un erial estéril. Las cabezas juveniles, antes erguidas con nobleza, se inclinan. Las espinas dorsales fuertes se debilitan. Los rostros rosados se desvanecen. Los caracteres se resquebrajan. Lo que pudo ser flores sonrientes son solo tallos marchitos que crujen al viento; lo que debería florecer en plena floración se convierte en una sequía quebradiza.»
+
+Y la advertencia final, con la cita de San Pablo (1 Cor 6,18): «Muchos hambrientos sabuesos, muchos vampiros que chupan la sangre, se esconden en las profundidades de la naturaleza humana corrompida. No des alimento a estos vampiros: lo que beben es tu sangre joven, fresca y sana. No desatienes a estos sabuesos que ladran, o hundirán sus dientes en tu alma y la infectarán con la rabia. "Todo pecado que el hombre obra es fuera del cuerpo; pero el que fornica, peca contra su propio cuerpo."»
 
 ### AT THE MAZURIAN LAKES — Los Lagos Masurianos
 
@@ -48,9 +83,17 @@ Metáfora histórica de la Primera Guerra Mundial: durante la guerra, el ejérci
 
 | Archivo | Línea | Nivel | Sección |
 |---------|-------|-------|---------|
-| 05_chapter3.md | 1 | — | Continuación: caída del joven del Cap. II |
-| 05_chapter3.md | 5 | H2 | DOWNWARD |
-| 05_chapter3.md | 30 | H2 | RAGGED YOUTH |
-| 05_chapter3.md | 40 | H2 | ONWARDS ON THE ROAD TO CORRUPTION |
-| 05_chapter3.md | 56 | H2 | AT THE MAZURIAN LAKES |
-| 05_chapter3.md | 64 | H1 | IV. CHAPTER IN THE DEPTHS OF CORRUPTION |
+| 04_capitulo_iii.md | 1 | H1 | Chapter III — Frost Bitten in a Night of May |
+| 04_capitulo_iii.md | 5 | H2 | DOWNWARD |
+| 04_capitulo_iii.md | 41 | H2 | DESECRATION |
+| 04_capitulo_iii.md | 79 | H2 | RAGGED YOUTH |
+| 04_capitulo_iii.md | 91 | H2 | ONWARDS ON THE ROAD TO CORRUPTION |
+| 04_capitulo_iii.md | 105 | — | Despedida parental: Carlos IV, Blanca de Francia, Leónidas y Orígenes |
+| 04_capitulo_iii.md | 117 | H2 | THE LAW OF ACCELERATION OF GRAVITY |
+| 04_capitulo_iii.md | 129 | H2 | AT THE MAZURIAN LAKES |
+
+> **Nota de revisión (2026-10-02):** completado a partir de la edición
+> íntegra (`raw/Bases_doctrinales-raw/youth_and_chastity/`). La copia parcial
+> anterior terminaba el capítulo en «At the Mazurian Lakes»: faltaban el
+> desenlace de «Desecration», el duelo de los padres y toda la sección
+> «The Law of Acceleration of Gravity».

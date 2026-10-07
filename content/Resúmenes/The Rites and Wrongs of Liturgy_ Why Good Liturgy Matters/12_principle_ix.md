@@ -13,7 +13,7 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 ## Conceptos básicos referenciados
 
 - [[liturgia]]
-- [[encarnacion]]
+- [[encarnación]]
 - [[eucaristía]]
 - [[sacramento]]
 - [[cena_del_señor]]
@@ -42,7 +42,7 @@ Cuatro ejemplos ilustran la liturgia encarnacional:
 
 **La mesa del Señor:** El centro de la asamblea cristiana es la mesa del Señor: nuestro banquete de acción de gracias que es portador de nuestras más grandes memorias. Durante siglos fue apenas visible como tal, referida solo por la palabra *altar*, lejos de quienes supuestamente estaban reunidos alrededor de ella, y sin enlace entre ella y las mesas en sus hogares. Pero Jesús se reveló cuando estaba codo a codo con la gente a la mesa. Es nuestra comprensión cotidiana de la comunidad de mesa la que fundamenta nuestra apreciación del lenguaje del banquete del [[reino_de_dios]]. Debemos experimentar el sentido de estar reunidos alrededor de su mesa, codo a codo, para comprender que en cada mesa podemos encontrar al Verbo encarnado.
 
-**La unidad de la iglesia:** Para muchas culturas, el alimento básico es el pan, y dar gracias sobre el pan está profundamente en nuestra memoria. Pero cuando miramos las hostias eucarísticas de tamaño simbólico, podemos ser perdonados por no vincular lo que comemos en la [[eucaristía]] con el mundo de la comida ordinaria. La parte distintiva de la acción de gracias de Jesús fue que tomó un pan, lo partió y lo compartió; lo que era digno de registrar y transmitir. Las pequeñas hostias individuales pre-cortadas apenas evocan tener un pedazo de un pan compartido con hermanas y hermanos. La lógica de la [[encarnacion]] significa que nuestra experiencia humana de compartir en nuestras mesas cotidianas nos da base para apreciar el compartir en el encuentro con Dios en la mesa eucarística.
+**La unidad de la iglesia:** Para muchas culturas, el alimento básico es el pan, y dar gracias sobre el pan está profundamente en nuestra memoria. Pero cuando miramos las hostias eucarísticas de tamaño simbólico, podemos ser perdonados por no vincular lo que comemos en la [[eucaristía]] con el mundo de la comida ordinaria. La parte distintiva de la acción de gracias de Jesús fue que tomó un pan, lo partió y lo compartió; lo que era digno de registrar y transmitir. Las pequeñas hostias individuales pre-cortadas apenas evocan tener un pedazo de un pan compartido con hermanas y hermanos. La lógica de la [[encarnación]] significa que nuestra experiencia humana de compartir en nuestras mesas cotidianas nos da base para apreciar el compartir en el encuentro con Dios en la mesa eucarística.
 
 **El cáliz del discipulado:** Si estás leyendo esto, muy pronto beberás algo, y usarás un vaso de algún tipo. Pero será *tu* vaso, y cada persona tendrá el suyo. No compartimos vasos. Pero el [[cáliz]] del Señor es *compartido*, y el compartir es la característica destacada en la memoria. Hay un enlace entre compartir el cáliz en la reunión y estar dispuesto a compartir en el [[discípulo]] y la cruz. A cada cristiano se le dirige la pregunta: "¿Podéis beber el cáliz que yo voy a beber?" (Mateo 20:22). El cáliz del Señor solo tiene sentido en lo profundo de nuestra experiencia humana si se ve tanto en continuidad con todos los otros vasos como —en la forma en que lo pasamos de uno a otro— en contraste con ellos. Si el cáliz se reserva solo para el presidente o un grupo especial, la liturgia no proclama que cada uno es llamado por Jesús.
 

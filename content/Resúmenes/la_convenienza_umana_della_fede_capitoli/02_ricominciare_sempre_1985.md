@@ -12,31 +12,31 @@ tags: ["resumen", "fe", "resurreccion", "compagnia", "fraternidad", "giussani", 
 
 ## Conceptos básicos referenciados
 
-- [[ricominciare]] — el cambio continuo como regla fundamental de la vida cristiana.
-- [[resurreccion]] — «Ricominciare è una parola molto vicina… alla parola finale cristiana».
+- [[conversión]] — el cambio continuo como regla fundamental de la vida cristiana.
+- [[resurrección]] — «Ricominciare è una parola molto vicina… alla parola finale cristiana».
 - [[misericordia]] — el atributo propio del Padre y la palabra que define ultimamente a Dios.
 - [[memoria]] — el opuesto de la dimenticanza: «Fate questo in memoria di me».
-- [[oracion_de_peticion]] — la prayer como domanda: «Chiedere, chiedere sempre».
-- [[perdon]] — la domanda que transforma y disuelve el piombo.
-- [[apartenenza]] — «Noi non ci possediamo», «Io sono Tuo».
+- [[oración_de_petición]] — la prayer como domanda: «Chiedere, chiedere sempre».
+- [[perdón]] — la domanda que transforma y disuelve el piombo.
+- [[pertenencia]] — «Noi non ci possediamo», «Io sono Tuo».
 - [[moralismo]] — superado: el punto es «l'avvenimento di un'appartenenza».
 - [[escepticismo]] — «Ma che cos'è la verità?», el «ma», el «se», il «chissà».
 - [[sequela_christi]] — «la regola suprema della vita è la sequela».
-- [[regeneracion]] — «Si chiama nuova creatura, si chiama rigenerazione».
+- [[nueva_creación]] — «Si chiama nuova creatura, si chiama rigenerazione».
 - [[autoridad]] — «l'autorità è la grande amicizia», el phenomenon que refleja la presencia de Dios.
 - [[fraternidad]] — Fraternita como maturidad de fe y como cordata para una vetta.
-- [[espace_humano]] — «la totalità dei fattori di una persona».
-- [[vocacion]] — «l'impatto della realtà sul mio io».
+- [[fraternidad]] — «la totalità dei fattori di una persona».
+- [[vocación]] — «l'impatto della realtà sul mio io».
 - [[gratitud]] — «la gratuità del motivo ultimo».
 - [[regla]] — «una compagnia guidata al destino».
-- [[comunion_y_liberacion]] — el movimiento como lugar del encuentro con Cristo.
-- [[nueva_creacion]] — el renacer «che cosa fa per il movimento? Fa se stessa per il movimento».
-- [[sequela]] — cfr. [[sequela_christi]].
+- [[comunione_e_liberazione]] — el movimiento como lugar del encuentro con Cristo.
+- [[nueva_creación]] — el renacer «che cosa fa per il movimento? Fa se stessa per il movimento».
+- [[sequela_christi]] — cfr. [[sequela_christi]].
 - [[ley_moral]] — el cauce de la ley como «riverbero dell'ideale sulle circostanze».
 - [[sacrificio]] — «liberi dall'esito», la partecipación a la cruz.
 - [[limosna]] — «l'elemosina purga, libera dal peccato».
 - [[dolor]] — «come mi ha reso capace de respondere… non soltanto alla difficoltà mia, ma alla difficoltà di tutto».
-- [[espejo_de_vanidad]] — cfr. [[vanidad]].
+- [[vanidad]] — cfr. [[vanidad]].
 - [[vanidad]] — «Ciò che avevo afferrato bramosa, / nella mano stretta si sfece».
 
 ## Introduzione

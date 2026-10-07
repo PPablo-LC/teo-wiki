@@ -77,7 +77,7 @@ proceso: consiste en querer continuar la madurez ya adquirida.
 - [[sequela_christi]] — el camino que la madurez continúa
 - [[ascética]] — la voluntad de ascesa que la integra
 - [[humildad]] — su fundamento
-- [[comunión_y_liberación]] — el movimiento en el que se aprende
+- [[comunione_e_liberazione]] — el movimiento en el que se aprende
 
 ## Ver también
 

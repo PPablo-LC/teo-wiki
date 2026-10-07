@@ -76,7 +76,7 @@ si yo digo: “Ayuda”, si yo digo: “Ten piedad”, es porque yo *pertenezco*
 - [[oración_de_cristo]] — la primera forma de obediencia
 - [[escuela_de_comunidad]] — la segunda condición de la compañía
 - [[sequela_christi]] — el seguimiento que define la compañía
-- [[comunión_y_liberación]] — el movimiento que da contenido a la compañía
+- [[comunione_e_liberazione]] — el movimiento que da contenido a la compañía
 - [[regla]] — las reglas de oración y de vida
 - [[espíritu_santo]] — cuyo signo es la compañía vocacional
 

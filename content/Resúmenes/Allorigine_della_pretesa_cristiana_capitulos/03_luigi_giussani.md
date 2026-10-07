@@ -13,7 +13,7 @@ tags: ["resumen", "allorigine della pretesa cristiana capitoli"]
 ## Conceptos básicos referenciados
 
 - [[luigi_giussani]] — artículo biográfico completo en la wiki
-- [[comunión_y_liberación]] — el movimiento fundado por Giussani
+- [[comunione_e_liberazione]] — el movimiento fundado por Giussani
 - [[fe_y_razón]] — la motivación racional de la adhesión a la fe, eje de su obra
 
 ## Contenido

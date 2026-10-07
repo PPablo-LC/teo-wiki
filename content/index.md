@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-10-02'
+updated: '2026-10-06'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -1098,7 +1098,6 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[empresa]]
 - [[empresario]]
 - [[enajenación_de_bienes]]
-- [[encarnacion]]
 - [[encarnación]]
 - [[encarnación_como_finalizada_a_la_salvación]]
 - [[encarnación_milagro_de_los_milagros]]

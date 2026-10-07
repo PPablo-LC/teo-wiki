@@ -75,14 +75,14 @@ Palabra.
 
 - [[familiaridad]] — el modo de conocer a Dios como Padre
 - [[ser_padre]] — el contenido de la familiaridad
-- [[encarnacion]] — el método por el que Dios se hace familiar
+- [[encarnación]] — el método por el que Dios se hace familiar
 - [[predicacion]] — la palabra que revela a los pequeños
 - [[compagnia_vocacional]] — el lugar donde esa familiaridad se vive
 - [[perdon_de_pecados]] — inseparable de la familiaridad (Mt 11,25-27)
 
 ## Ver también
 
-- [[familiaridad]] [[ser_padre]] [[encarnacion]] [[compagnia_vocacional]]
+- [[familiaridad]] [[ser_padre]] [[encarnación]] [[compagnia_vocacional]]
 
 ## Referencias
 

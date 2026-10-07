@@ -2,53 +2,7 @@
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
 timestamp: 2026-08-06
-description: "Registro de wikilinks sin artículo propio en el wiki. 2026-09-17:
-lote 7 de cobertura de alta densidad resuelve 20 huérfanos — 1 artículo nuevo
-(meditación_trascendental) y 19 retargets: espiritu_de_dios→espíritu_santo,
-carismas_del_espíritu_santo→carismas, enfermedad__curacion→enfermedad_y_curación,
-consagración_laical→consagración, voto_proprio→voto_privado,
-tribunal_supremo_apostólico_cdf→dicasterio_para_la_doctrina_de_la_fe,
-vida_fraterna→vida_fraterna_religiosa, obediencia_franciscana→obediencia,
-perfeccion→perfección_cristiana, pastor→buen_pastor, proceso→proceso_canónico/
-proceso_de_jesús (polisémico), anatema→excomunión, pobreza_espiritual→pobreza_de_espíritu,
-fe_cristiana→fe, día→día_del_señor/día_del_juicio, mieses→pentecostés/trabajo,
-obra→mérito/parusía, bautismo_de_cristo→bautismo, formación_religiosa→formación_cristiana;
-retipográfico juvenescit_ecclesia→iuvenescit_ecclesia (huérfano intencional,
-documento CDF sin artículo aún).
-2026-09-17: lote 6 de cobertura de alta densidad resuelve 19 huérfanos — 7 artículos nuevos
-(nueva_era, kundalini, reencarnación, genio_femenino, ocultismo, gurúes,
-mulieris_dignitatem [documento], san_juan_xxiii [persona]) y 12 retargets
-(virtud_cardinal→virtudes_cardinales, santa_teresa_de_avila→santa_teresa_de_jesús,
-edith_stein→beata_edith_stein, infalibilidad_pontificia→infalibilidad_papal,
-canon_de_la_escritura→canon_bíblico, consustancial→consustancialidad,
-herejía_nestoriana→nestorianismo, mártires→mártir, relativismo_moral→relativismo,
-beatitudes→bienaventuranzas, juan_xxiii/san_juan_XXIII→san_juan_xxiii,
-merito→mérito; ver sección «Resueltos por cobertura de alta densidad (lote 6, 2026-09-17)»).
-2026-09-17: PLDC (Perché la Chiesa) siembra 4 huérfanos (percorso, centuplo, cristo_metodo,
-verifica); retargets merito→mérito, esperienza_elementale→experiencia elemental.
-2026-09-17: lote 5 de cobertura de alta densidad resuelve 5 huérfanos — 4 retargets
-(discipulos_de_cristo→discípulo, santa_misa [y «Santa Misa»]→misa,
-santisimo_sacramento→eucaristía, maria_santisima→maría) y 1 artículo nuevo
-(yoga; ver sección «Resueltos por cobertura de alta densidad (lote 5, 2026-09-17)»).
-2026-09-17: lote 4 de cobertura de alta densidad resuelve 5 huérfanos — 3 retargets
-(santa_María→maría, dignidad_de_la_persona_humana→dignidad_de_la_persona,
-vigna→viña) y 2 artículos nuevos (noche; hinduismo; ver sección «Resueltos
-por cobertura de alta densidad (lote 4, 2026-09-17)»).
-2026-09-17: lote 3 de cobertura de alta densidad resuelve 5 huérfanos por retarget
-(enfermedad_curacion→enfermedad_y_curación, iglesia_catolica→iglesia,
-san_juan_pablo_ii→juan_pablo_ii,
-congregacion_para_la_doctrina_de_la_fe→dicasterio_para_la_doctrina_de_la_fe,
-puro→pureza [la entrada VocTeoBib «Puro» ya está integrada en pureza];
-ver sección «Resueltos por cobertura de alta densidad (lote 3, 2026-09-17)»).
-2026-09-17: lote 2 de cobertura de alta densidad resuelve 5 huérfanos por retarget
-(satan→satanás, imagen→imagen_de_dios, babel_babilonia→babel,
-bestia_bestias→bestia, liberacion_libertad→liberación_y_libertad;
-ver sección «Resueltos por cobertura de alta densidad (lote 2, 2026-09-17)»).
-2026-09-17: lote 1 de cobertura de alta densidad resuelve 5 huérfanos
-(reino, siervo_de_yahveh, dia_domini, prueba_tentacion, penitencia_conversion);
-se crea penitencia_y_conversión (ver sección «Resueltos por cobertura de alta densidad
-(lote 1, 2026-09-17)»). 2026-09-14:
-los resúmenes de God Is Near Us (GINU) siembran 7 huérfanos nuevos (catolicismo, dios_con_nosotros, iglesia_del_sufrimiento, sinagoga, statio, sustancia, transignificación; ver sección «Sembrados por los resúmenes de God Is Near Us (GINU) (2026-09-14)»; [[reencarnación]] y [[utopía]] ya estaban registrados). 2026-09-12: el procesamiento de Il senso religioso (SR) siembra 1 huérfano nuevo (estupor, forward reference desde atención; ver sección «Sembrados por el procesamiento de Il senso religioso (SR)»; [[violencia]] ya estaba registrado). 2026-09-11: los artículos de persona del n.º 23 de Evangelization & Culture (EAC-23, «Prayer») siembran 6 huérfanos nuevos (orden_de_los_predicadores, tradición_dominicana, padre_pio, fe_y_duda, literatura_y_fe, purificación_espiritual; ver sección «Sembrados por los artículos de persona de Evangelization & Culture n.º 23 «Prayer»»); retargets testimonio_contemporáneo→testimonio_cristiano y poesía_contemporánea→poesía; y el enriquecimiento de conceptos con EAC-23 siembra 1 huérfano nuevo más (maría_desatanudos; ver sección «Sembrados por el enriquecimiento de conceptos con EAC-23 «Prayer»»). 2026-09-10: se resuelve íntegramente el clúster Legión/Regnum Christi con 4 artículos nuevos (legionarios_de_cristo, consagradas_del_regnum_christi, laicos_consagrados_del_regnum_christi, legionarios_ancianos) y 17 retargets a canónicos (ver sección «Resueltos por el procesamiento del clúster Legión/Regnum Christi (2026-09-10)»). 2026-09-10: el procesamiento de Evangelization & Culture n.º 22 «Courage» (EAC-22, 25 archivos) siembra 5 huérfanos nuevos (conversión_de_san_pedro, cultura_de_la_autoinvención, estoicismo, hans_urs_von_balthasar, jose_maria_escriva; ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 22 «Courage»»); retargets teo-drama→theo-drama y teodramática_de_hans_urs_von_balthasar→theo-drama; añade referencias a diálogo_iglesia_mundo (ya registrado). 2026-09-09: el procesamiento de Evangelization & Culture n.º 21 «Democracy» (EAC-21, 26 archivos) siembra 16 huérfanos nuevos (participación_política, peregrinación_eclesial, ciudad_de_dios_y_ciudad_terrenal, gobierno_limitado, igualdad_humana, legitimidad_política, orden_moral_natural, separación_de_poderes, virtud_cívica, conservadurismo, cristianos_de_oriente, cultura_contemporánea, derechos_naturales, dostoievski, kody_w_cooper, winston_churchill; ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 21 «Democracy»»); retargets tolstói→león_tolstoy, deificación→divinización, persecución_religiosa→persecución y santa_teresa_de_ávila→santa_teresa_de_jesús (Teresa de Ávila vía [[santa_teresa_de_jesús]]); se retira [[iraq]] (nombre de lugar). 2026-09-07: el procesamiento completo de EAC-19 resuelve el huérfano subcreación (creación del artículo) y siembra 7 huérfanos nuevos (angustia_espiritual, conflicto_humano, creación_del_alma, falsos_profetas, progreso, responsabilidad_moral, utopía) desde los conceptos y resúmenes del número; ver sección «Sembrados por los conceptos y resúmenes de Evangelization & Culture n.º 19 «Artificial Intelligence»». 2026-09-05: el procesamiento de Evangelization & Culture n.º 18 «Conversion» (EAC-18, 24 archivos) siembra 13 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 18 «Conversion»»); retarget auto-donación → donación_de_sí; se resuelve conversión_continua. 2026-09-05/06: los resúmenes de cuatro fuentes legionarias (Informe-2020, informe-comision-abusos-es-1941-2019, Sapientia Christi - Ratio studiorum, Informe abusos Legionarios de Cristo_ Conv) siembran 120 huérfanos nuevos (ver sección correspondiente). 2026-09-02: el procesamiento de Evangelization & Culture n.º 17 «Education» (EAC-17, 26 archivos) siembra 2 huérfanos nuevos (trascendentales, bien_supremo; ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 17 «Education»»). 2026-09-02: los resúmenes de Evangelization & Culture n.º 16 «Benedict XVI» (EAC-16, 22 archivos) siembran 49 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Evangelization & Culture n.º 16 «Benedict XVI»»). 2026-09-02: EAC-15 «Suffering» siembra 25 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 15 «Suffering»»). 2026-08-31: el procesamiento de Evangelization & Culture n.º 14 «Joy» (EAC-14) siembra 2 huérfanos nuevos (condición_humana, univocidad; ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 14 «Joy»»). 2026-08-23: cobertura por lotes — lote 1 (silencio_interior, conexión, coraje, razón_instrumental, valía_personal); lote 2 (reinterpretación_tipológica, autenticidad, lenguaje; retargets noche_oscura_del_alma y pobreza_espiritual); lote 3 (pertenencia, castigo, problema_del_mal, adulterio_en_el_corazón; comunicación_y_transparencia en Espiritualidad LC); lote 4 (dicha, espiritualización, historia_de_la_iglesia, moralidad_secular); lote 5 (ocio, recta_razón, significado_nupcial_del_cuerpo, antropología; retarget prescripción_acción_penal). 2026-08-23: el procesamiento de Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11) siembra 35 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 11»). 2026-08-23: EAC-10 siembra 12 (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»). 2026-08-23: el procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9) siembra 3 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»). 2026-08-22: el procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8) siembra 6 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»). 2026-08-24: el procesamiento de Evangelization & Culture n.º 2 «Economics» (EAC-2) siembra 4 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 2 «Economics»»). 2026-08-29: los resúmenes de Lineas_guia_Protección_menores siembran 24 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Lineas_guia_Protección_menores»). 2026-08-29: los resúmenes de Normae de delictis gravioribus siembran 36 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Normae de delictis gravioribus»). 2026-08-29: los resúmenes de Para Salvarte siembran 30 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Para Salvarte»). 2026-08-29: los resúmenes de Paradoxes of Faith siembran 22 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Paradoxes of Faith»). 2026-08-30: el procesamiento de Evangelization & Culture n.º 13 «The Eucharist» (EAC-13) siembra 10 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 13 «The Eucharist»»)."
+description: "Registro acumulativo de wikilinks sin artículo propio: secciones por lote de procesamiento (EAC, Giussani, Legionarios, Denzinger, CUDF, etc.)."
 ---
 # Auditoría de wikilinks huérfanos
 

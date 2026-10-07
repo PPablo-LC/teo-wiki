@@ -94,7 +94,7 @@ el Padre (00, 3-5).
 ## Ver también
 
 - [[luigi_giussani]] — autor de la obra
-- [[comunión_y_liberación]] — movimiento fundado por Giussani
+- [[comunione_e_liberazione]] — movimiento fundado por Giussani
 - [[sentido_religioso]] [[realismo]] [[signo]] [[atención]] [[aceptación]] [[misterio]] [[ideología]] [[prejuicio]] [[positivismo]] [[anarquía]] [[totalitarismo]]
 - [[il_senso_religioso]] — primer volumen del PerCorso (este artículo)
 

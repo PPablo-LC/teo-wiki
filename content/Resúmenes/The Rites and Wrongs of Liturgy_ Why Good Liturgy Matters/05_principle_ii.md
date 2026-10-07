@@ -17,7 +17,7 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 - [[espíritu_santo]]
 - [[solemnidad]]
 - [[santidad]]
-- [[encarnacion]]
+- [[encarnación]]
 - [[evangelio]]
 - [[eucaristía]]
 

@@ -72,14 +72,14 @@ La fuente es el texto integral de las casi Tischreden. Tesis de la portada (arch
 - [[signo]], [[misterio]] y [[adoración]] — misterio y signo coinciden
 - [[virginidad]] y [[esponsalidad]] — el vínculo nupcial con Cristo
 - [[fe]], [[libertad]] y [[pertenencia]] — amar es conciencia de pertenecer
-- [[luigi_giussani]], [[il_senso_religioso]] y [[comunión_y_liberación]] — el PerCorso y el movimiento
+- [[luigi_giussani]], [[il_senso_religioso]] y [[comunione_e_liberazione]] — el PerCorso y el movimiento
 - [[tentación]] y [[misericordia]] — la pedagogía de Dios con nuestra fragilidad
 
 ## Ver también
 
 - [[luigi_giussani]] — autor de la obra
 - [[il_senso_religioso]] — primer volumen del PerCorso
-- [[comunión_y_liberación]] — movimiento fundado por Giussani
+- [[comunione_e_liberazione]] — movimiento fundado por Giussani
 - [[afección]] [[capacidad_afectiva]] [[preferencia_por_cristo]] [[morada]] [[compañía]] [[sacrificio]] [[memoria]] [[virginidad]]
 
 ## Resúmenes

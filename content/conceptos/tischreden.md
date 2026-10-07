@@ -41,7 +41,7 @@ La **collana «QuasiTischreden»** es una colección editorial que reúne conver
 - [[convivenza]] — el método comunitario de la transmisión de la fe
 - [[amistad_cristiana]] — el contexto de la conversación
 - [[encuentro_personal_con_cristo]] — la fe transmitida en el encuentro
-- [[movimientos_eclesiales]] / [[comunión_y_liberación]] — el movimiento de la Fraternità
+- [[movimientos_eclesiales]] / [[comunione_e_liberazione]] — el movimiento de la Fraternità
 - [[dare_la_vita_per_lopera_di_un_altro]] — la fuente DLV
 
 ## Ver también

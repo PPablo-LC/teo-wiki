@@ -38,7 +38,7 @@ La ensenanza de Cristo se relaciona con la [[predicación]] del Reino, la autori
 
 ## Ver tambien
 
-[[predicación]], [[parábola]], [[milagros]], [[revelación]], [[magisterio]], [[tradición_apostólica]], [[nuevo_testamento]], [[escritura]], [[judío]], [[gentil]], [[misión]], [[apóstoles]], [[encarnacion]], [[cristo_maestro]]
+[[predicación]], [[parábola]], [[milagros]], [[revelación]], [[magisterio]], [[tradición_apostólica]], [[nuevo_testamento]], [[escritura]], [[judío]], [[gentil]], [[misión]], [[apóstoles]], [[encarnación]], [[cristo_maestro]]
 
 ## Referencias
 

@@ -169,23 +169,23 @@ desarrollados son:
 - [[memoria_de_dios]] — la memoria que se convierte en norma y obra
 - [[lumen_fidei]] — la luz de la fe frente a la crisis del mundo moderno
 - [[regla]] — la regla de la Fraternità
-- [[compañía]] y [[comunión_y_liberación]] — la dimensión eclesial
+- [[compañía]] y [[comunione_e_liberazione]] — la dimensión eclesial
 
 ## Ver también
 
 - [[luigi_giussani]] — autor de la obra
 - [[julian_carron]] — director de la serie
-- [[il_senso_religioso]] [[attraverso_la_compagnia_dei_credenti]] [[comunión_y_liberación]]
+- [[il_senso_religioso]] [[attraverso_la_compagnia_dei_credenti]] [[comunione_e_liberazione]]
 - [[conveniencia_humana_de_la_fe]] [[compagnia_vocacional]] [[sentido_del_destino]]
 - [[identificación_con_cristo]] [[heroísmo_de_santidad]] [[lumen_fidei]]
 
 ## Resúmenes por capítulo (wiki)
 
-- [[Resúmenes/la_convenienza_umana_della_fede_capitoli/01_la_convenienza_umana_della_fede|01 — La convenienza umana della fede (presentación editorial)]]
-- [[Resúmenes/la_convenienza_umana_della_fede_capitoli/02_ricominciare_sempre_1985|02 — Ricominciare sempre (Esercizi 1985)]]
-- [[Resúmenes/la_convenienza_umana_della_fede_capitoli/03_il_volto_del_padre_1986|03 — Il volto del Padre (Esercizi 1986)]]
-- [[Resúmenes/la_convenienza_umana_della_fede_capitoli/04_sperimentare_cristo_in_un_rapporto_reale_e_storico_1987|04 — Sperimentare Cristo in un rapporto reale e storico (Esercizi 1987)]]
-- [[Resúmenes/la_convenienza_umana_della_fede_capitoli/05_fonti|05 — Fonti (nota de fuentes)]]
+- [[01_la_convenienza_umana_della_fede|01 — La convenienza umana della fede (presentación editorial)]]
+- [[02_ricominciare_sempre_1985|02 — Ricominciare sempre (Esercizi 1985)]]
+- [[03_il_volto_del_padre_1986|03 — Il volto del Padre (Esercizi 1986)]]
+- [[04_sperimentare_cristo_in_un_rapporto_reale_e_storico_1987|04 — Sperimentare Cristo in un rapporto reale e storico (Esercizi 1987)]]
+- [[05_fonti|05 — Fonti (nota de fuentes)]]
 
 ## Referencias
 
