@@ -31,6 +31,30 @@ La función de la familia es determinante e insustituible en la promoción y con
 
 **La cultura de la vida y el cuidado de la creación (Christopher Barnard, 24_peripheries_barnard.md).** La defensa del medio ambiente no debe desembocar en una negación de la vida humana. Frente al anti-natalismo de cierto activismo climático, Barnard recuerda que la protección del no nacido y la protección de la creación son una única ética de la vida: «debemos proteger el medio ambiente para proteger la vida y permitir que la humanidad florezca». Juan Pablo II (*Evangelium Vitae* 42) observa cómo una sociedad que atenta contra los más débiles acaba degradando el medio ambiente; y Francisco (*Laudato Si'*) subraya la «conexión entre la crisis de la naturaleza y la crisis de la persona». El hombre, hecho a imagen de Dios e «infinitamente creativo», es cooperador de Dios en la creación, no un problema a eliminar.
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO, el capítulo 11 —*Cultura della vita e cultura della morte* (Roma,
+Giubileo de la Familia, X-2000)— funda la cultura de la vida como «el
+Evangelio de la vida que se hace cultura»:
+
+- **Base bíblica**: *Sb* 1,13-15 («Dio non ha creato la morte») y
+  *Sb* 2,6-17 (los impíos); la muerte no proviene de Dios (11, 9-15).
+- **Fundamento magisterial**: *Evangelium vitae* de Juan Pablo II; frente
+  a la cultura de la muerte y el nihilismo, la vida es don (11, 9-15).
+- **La vida como misión**: «la vita como missione» (*Jn* 10,10; *Ga*
+  3,27-28): el bautismo y el matrimonio —la «primera misión»— son el
+  punto de partida (11, 39-47).
+- **La educación de los hijos como rostro de la cultura de la vida**:
+  educar (Jungmann) es respetar el destino del hijo, no poseerlo (11,
+  53-67); el «costituirsi di un popolo» (*Mater et magistra*, Juan XXIII)
+  da consistencia social a la cultura de la vida (11, 71-75).
+- **Sacralidad e irreducibilidad de la vida**: la familia abierta a la
+  vida «reconociendo su sacralidad e irreductibilidad última a la pura
+  medida del hombre» (00, 11).
+- **Integridad ética**: la cultura de la vida excluye el aborto y la
+  eutanasia («tutti sono d'accordo sui valori comuni della vita – salvo
+  gli abortisti e i sostenitori dell'eutanasia», 05, 77-79).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[familia]], [[santuario_de_la_vida]], [[ecología_humana]], [[procreación]], [[dignidad_humana]]

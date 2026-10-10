@@ -89,6 +89,36 @@ En los *Esercizi* 1994-1996, la gratuidad emerge como la lógica propia del hech
 
 - **La positividad de la creación**: «Dio non ha creato la morte e non gode per la rovina dei viventi… le creature del mondo sono sane… Dio è l'ipotesi positiva su tutto ciò che l'uomo vive» (Sap 1,13-16; 04, 71). La gratuidad se funda en la bondad original del ser.
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO la gratuidad es presentada como la **raíz de la hospitalidad** y de
+toda la vida cristiana:
+
+- **Su fundamento ontológico**: «non c'eravamo e adesso ci siamo… non ci
+  facciamo da noi stessi»; «en la vibración de esta autoconciencia se
+  desarrolla la posibilidad de una oración real» (03, 15). La raíz está en
+  *Gn* 1,26: imagen y semejanza del Misterio (03, 17).
+- **Su origen: sentirse amados**: solo si se es amado se ama («se un
+  ragazzo è veramente amato dai genitori, sa che cosa è amare»); «sin
+  Dios, es como afrontar un problema sin una hipótesis adecuada» (03,
+  21-29).
+- **Su definición**: «Gratuità, amore senza tornaconto»; la respuesta de
+  Dios al «¿Por qué me has creado?» es «¡Porque te he amado!» (04, 25-27);
+  la *charis* como caridad gratuita de Cristo (04, 29-31).
+- **Nasce en el dolor**: «la gratuità, en la práctica, nace en este dolor»
+  —la condescendencia, el amor al dolor como Cristo (*Mt* 26,39)— (03, 69).
+- **Es vivir la caridad sin medida**: «non si deve misurare: la “misura” è
+  la negazione della carità» (06, 21); el «verdadero trabajo» es el que no
+  se paga, participación al *opus Dei* (04, 33).
+- **Es la experiencia extraña**: en ella Dios «echa el niente» (07, 9); la
+  acogida gratuita es «La più difficile carità, ti impegna totalmente»
+  (04, 39-47).
+
+La gratuidad se hace historia en la asociación
+[[famiglie_per_l_accoglienza]]: el obispo de Oradea subraya «la gratuità
+della vostra ospitalità — non avete chiesto nulla in cambio» como «señal
+importante en una sociedad que está habituada a monetizar todo» (12, 87).
+
 ## Distincioni importanti
 
 - **Gratuidad vs. mérito**: La gratuidad divina no excluye el mérito humano, sino que lo funda; el mérito cristiano procede de la gracia, que es gratuita.

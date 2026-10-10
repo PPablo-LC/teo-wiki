@@ -96,6 +96,27 @@ solo modo: por la conciencia que cada uno tiene del fin por el que os reunís. L
 que uno recibe de la Fraternidad es según la medida de su contenedor» (*Quiquid
 recipitur ad modum recipientis recipitur*; 01, 291).
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO la vocación se articula como **función** de la persona y se ordena a
+la acogida:
+
+- **La función es vocación**: en el apéndice de 1972, la «función» del
+  hombre (también en el matrimonio: ayuda mutua, procreación, educación de
+  la prole) es su vocación; el hombre es «disponibilidad a agotarse en el
+  compito», vivirlo sin agotar la persona (*Jn* 15,13) (10, 23-35).
+- **Las tres mociones de Dios**: «Tre sono le mosse di Dio verso l'uomo:
+  l'elezione, la vocazione, la requisizione»; la vocación se reconoce en
+  los «passi inconscienti» —«el signo de la vocación»— (05, 55-59).
+- **La da Dios, no el hombre**: el distacco del hijo —«la vocazione la dà
+  Dio e nessun altro»— es la gratuidad sublime de la madre (03, 71).
+- **Continuar sintiéndose llamado**: «è questo continuare a sentirsi
+  chiamare… è stata l'esperienza di una conversione» (05, 49).
+- **El matrimonio es la «primera misión»**: la vocación cristiana se vive
+  primero en la familia y en el bautismo (11, 39-47); el Grupo Adulto
+  ([[memores_domini]]) muestra la continuidad vocacional en el movimiento
+  (05, 51).
+
 ## Distinciones importantes
 
 - **Vocación universal a la santidad**: llamada que Dios dirige a todos los bautizados, sin excepción.

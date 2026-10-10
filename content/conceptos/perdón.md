@@ -52,6 +52,26 @@ La parábola del hijo pródigo muestra que «aquel que perdona y aquel que es pe
 
 **El perdón en la oración** (Tod Worner, §01): Mr. Rogers es presentado como ejemplo de perdón cotidiano: su práctica de orar por las personas por su nombre, su paciencia con Lloyd Vogel, su capacidad de escuchar sin juzgar. El perdón se vive en la presencia, la escucha y la oración por el otro.
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO, don [[luigi_giussani]] define el perdón como la **experiencia de
+la acogida del diverso**:
+
+- **Definición**: «Sono solito definire l'esperienza del perdono come
+  esperienza dell'accoglienza del diverso»; sin esta acogida «non ci
+  potrebbe essere neanche una convivenza stabile» (06, 9).
+- **Es el modo de juzgar de Dios**: «il perdono… è il Suo modo di
+  giudicare… perché Cristo è risorto, ha vinto e mi vince» (03, 59).
+- **El perdono a sí** como condición de la libertad y de la acogida
+  (factor metodológico «essere liberi»): percibir la propia pertenencia
+  al Infinito y «el perdono a sí, quell'umiltà che permette la gratuità»
+  (03, 55-59).
+- **No es sacrificio sin alegría**: «Se un sacrificio non lo potete fare,
+  se lo fate senza letizia, piuttosto non fatelo!» (06, 63-67).
+- **El único pecado imperdonable es el rechazo**: la misericordia divina
+  (cf. *Dives in misericordia*; *Sal* 45(44),14) solo se cierra ante el
+  «rifiuto» radical (04, 21).
+
 ## Distinciones importantes
 
 - Perdón de la culpa vs. remisión de la pena temporal

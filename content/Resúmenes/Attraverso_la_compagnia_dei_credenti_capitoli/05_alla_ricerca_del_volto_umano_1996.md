@@ -31,7 +31,7 @@ tags: ["resumen", "attraverso la compagnia dei credenti capitoli"]
 - [[piedad]] — la compasión de Cristo por el «gregge senza pastore» (Mt 9,36)
 - [[libertad_cristiana]] — seguir el atractivo del destino como acto libre
 - [[juan_pablo_ii]] — telegrama a los Ejercicios; el Jubileo *Tertio Millennio Adveniente*
-- [[péguy]] — «Per sperare bisogna aver ricevuto una grande grazia»
+- [[charles_péguy]] — «Per sperare bisogna aver ricevuto una grande grazia»
 - [[julian_carron]] — mencionado entre los sacerdotes que colaboran; estudios sobre el Jesús histórico
 
 ## Contenido

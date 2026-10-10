@@ -61,6 +61,26 @@ Palabra.
   (02, 173-175); la resistencia de la mente y el scandalum de los sabios
   (02, 177); la vida entera como función del *logos* del Padre (02, 179).
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO, don [[luigi_giussani]] formula el principio del que será el
+capítulo 09 del volumen: **la familiaridad como método del Mistero**.
+
+- **Dios ha escogido la «familiarità totale» como método**: «Dio ha
+  scelto la familiarità totale» (*Es* 33,15: «la mia faccia camminerà con
+  voi») — el modo de Dios para educar y salvar no es el prodigio sino la
+  cercanía cotidiana (09, 31-35).
+- **La familiaridad/fraternidad es condición de la acogida**: «una
+  familiarità —o fraternità— che si apre in un abbraccio senza remore»
+  (02, 3); «sentirse en casa, ospitati e sicuri come bimbo tra le braccia
+  del padre» (02, 7).
+- **Su modelo es la Trinità**: el misterio trinitario es «sujeto activo y
+  promotor del gran itinerario educativo»; la familiaridad divina se
+  transmite en la educación (04, 9).
+- **Sant'Ambrogio**: Dios «se riposó después de la creación porque tenía a
+  quien perdonar»; creó el hombre «para poder ser misericordioso» (09,
+  71-75, citado también en TACDC).
+
 ## Distinciones importantes
 
 - **Familiaridad con Dios vs. confianza**: la familiaridad no es solo confianza
@@ -73,16 +93,16 @@ Palabra.
 
 ## Relaciones doctrinales
 
-- [[familiaridad]] — el modo de conocer a Dios como Padre
+- [[familiaridad_con_dios]] — el modo de conocer a Dios como Padre
 - [[ser_padre]] — el contenido de la familiaridad
 - [[encarnación]] — el método por el que Dios se hace familiar
-- [[predicacion]] — la palabra que revela a los pequeños
+- [[predicación]] — la palabra que revela a los pequeños
 - [[compagnia_vocacional]] — el lugar donde esa familiaridad se vive
-- [[perdon_de_pecados]] — inseparable de la familiaridad (Mt 11,25-27)
+- [[perdón_de_los_pecados]] — inseparable de la familiaridad (Mt 11,25-27)
 
 ## Ver también
 
-- [[familiaridad]] [[ser_padre]] [[encarnación]] [[compagnia_vocacional]]
+- [[familiaridad_con_dios]] [[ser_padre]] [[encarnación]] [[compagnia_vocacional]]
 
 ## Referencias
 

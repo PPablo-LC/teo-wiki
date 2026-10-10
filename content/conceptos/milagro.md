@@ -49,6 +49,28 @@ Santo Tomás distingue entre *gracia de curaciones* (que otorga la salud corpora
 
 [VocTeoBib, «Milagro»] En el AT los milagros son «signos y prodigios» que revelan el poder salvador de Dios, concentrados en dos momentos: Moisés y Josué (fundación del pueblo) y Elías y Eliseo (restauración de la Alianza). El milagro está subordinado a la palabra profética (Dt 13,2-6) y tiende a provocar la fe (Ex 4,1-5). En el NT, Jesús realiza milagros como signos de la llegada del Reino (Mt 11,4s), que testimonian su misión divina y manifiestan la victoria sobre el pecado, la enfermedad y el demonio. Son inseparables de la palabra que los acompaña (Jn 20,30s). La Iglesia continúa estos signos por la fuerza del Espíritu (Act 3,1-10; Rom 15,19).
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO, don [[luigi_giussani]] define el **milagro de la hospitalidad**
+con una acepción específica: el miracolo como *incedere* (modo de
+avanzar) del divino en la normalidad. Complementa así las acepciones de
+PLDC (todo como milagro, acento de los avvenimenti, hecho objetivamente
+inexplicable):
+
+- **El miracolo es la excepcionalidad en un comportamiento normal**:
+  «coincide esattamente con quello che cristianamente si chiama
+  miracolo» (07, 25). La hospitalidad parece la cosa más obvia y, sin
+  embargo, cuando ocurre «tutti ci stupiamo» (01, 5-7).
+- **Es el "incedere" del divino**: la modalidad con que Dios se hace
+  presente no es el prodigio espectacular sino la familiaridad total
+  (*Es* 33,15): Dios ha escogido la *familiarità totale* como método del
+  Mistero (09, 31-35).
+- **Su término son los frutos de la Iglesia**: señalado en la Schola de
+  Comunidad del volumen *Perché la Chiesa* (07, 25; cf. PLDC).
+- **Modelo**: María, la primera que «acogió en sí al gran diverso, a
+  Dios» — el miracolo de la acogida tiene su imagen en la Encarnación
+  (07, 5).
+
 ## Distinciones importantes
 
 - **Milagro en sentido estricto** (solo Dios): supera el orden de toda la naturaleza creada.

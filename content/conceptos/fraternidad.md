@@ -90,6 +90,26 @@ En los *Esercizi* 1994-1996, la fraternidad se despliega como la forma concreta 
 
 - **La casa en el amor recíproco**: en la asamblea de 1996, Giussani cita la *Regola definitiva* de Francisco: *«domestici invicem inter se*»* (04, 125). «L'amore fraterno, sempre e dovunque, sarà per essi casa»; «con l'anima piena di gioia, in Lui ci scopriamo fratelli» → «In Lui ci scopriamo amici» (04, 129-131). «Solo l'amicizia – non la nostra compagnia, le nostre congregazioni… – può fare popolo» (04, 133).
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO la fraternidad aparece como el **método de la compañía de acogida**:
+
+- **Familiaridad/fraternidad que se abre en abrazo sin reservas**: «una
+  familiarità —o fraternità— che si apre in un abbraccio senza remore»
+  (02, 3).
+- **La fraternidad es el rostro de la experiencia**: «La vostra esperienza
+  è una compagnia, prima che un'organizzazione o una struttura… la vita di
+  una amicizia» (07, 15); «siete già fraternità» (05, 27-29).
+- **Es educación**: «La Fraternità in cui si sta è una educazione» (05, 71).
+- **El problema de los menores es problema de fraternidad**: acoger, buscar
+  familias para los casos de menores y consolar, es obra de la pieza
+  fraterna del movimiento, no de su estructura (06, 43-53).
+- **Perseverar en el amor fraterno**: «Perseverate nell'amore fraterno»
+  (*Eb* 13,1) — la hospitalidad como obra de la fraternidad peregrina
+  (07, 31-33).
+- **Su fin es la santidad**: «la fraternità per la santità» y el amor al
+  essere (Dionigi l'Areopagita) (09, 51-55).
+
 ## Distincioni importanti
 
 - La fraternidad cristiana es sobrenatural, no meramente filantrópica.

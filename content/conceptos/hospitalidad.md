@@ -31,7 +31,7 @@ El cristiano debe ver en el que llama a su puerta al Hijo de Dios que viene para
 
 ### Según la Regla de San Benito (RegSB)
 
-La RSB sistematiza la hospitalidad como piedra angular de la vida monástica, asociándola directamente a la acogida de [[Cristo]] en el huésped (cap. 53). El abad y la comunidad reciben a los visitantes «como a Cristo mismo», postrándose y orando por ellos, especialmente cuando se trata de huéspedes distinguidos. El cuidado incluye el lavatorio de pies para todo huésped —tanto el que sale como el que entra del servicio semanal—, agua abundante para el aseo, y la posibilidad de romper el ayuno del monasterio cuando ello testifica la caridad.
+La RSB sistematiza la hospitalidad como piedra angular de la vida monástica, asociándola directamente a la acogida de [[cristo]] en el huésped (cap. 53). El abad y la comunidad reciben a los visitantes «como a Cristo mismo», postrándose y orando por ellos, especialmente cuando se trata de huéspedes distinguidos. El cuidado incluye el lavatorio de pies para todo huésped —tanto el que sale como el que entra del servicio semanal—, agua abundante para el aseo, y la posibilidad de romper el ayuno del monasterio cuando ello testifica la caridad.
 
 La regla diferencia la recepción del peregrino de la del hermano monje peregrino (cap. 61): este último, huésped de la propia regla, recibe la hospitalidad de la [[vida_religiosa|vida religiosa]] y puede corregir al abad si encuentra deficiencias en la observancia, pero siempre con humildad y sin escándalo. La hospitalidad benedictina no admite distinción entre rico y pobre, poderoso y mendicante: la caridad es uniforme.
 
@@ -43,6 +43,42 @@ Los hermanos enfermos son también huéspedes del hospital del monasterio: se le
 ### Attraverso la compagnia dei credenti (TACDC)
 
 En *Attraverso la compagnia dei credenti* (TACDC), Giussani lamenta la falta de hospitalidad como una pérdida de humanidad y, al mismo tiempo, como un obstáculo para la presencia de Cristo: «La nostra mancanza di ospitalità blocca la possibilità di comunicazione del messaggio» y «Meno possibilità della Tua presenza, o Cristo, meno umanità» (04_alla_ricerca_del_volto_umano_1996.md, ll. 147). Para él, la hospitalidad no es una cortesía, sino una disposición que hace posible la comunicación del mensaje cristiano y la experiencia de la humanidad misma; donde falta la acogida, se empobrece tanto la humanidad como la posibilidad de encuentro con Cristo.
+
+### Il miracolo dell'ospitalità (MDO)
+
+En *Il miracolo dell'ospitalità* (MDO), don [[luigi_giussani]] hace de la
+hospitalidad la tesis del volumen: «La parola ospitalità —di cui affido e
+adozione sono sinonimo—» (00, 11). Sus rasgos definitorios son:
+
+- **Es un miracolo**: la hospitalidad parece la cosa más obvia y, sin
+  embargo, es tan excepcional que cuando ocurre todos se maravillan
+  (01, 5-7).
+- **Es imitación del gesto de Cristo**: como quien llama «amico» incluso a
+  Judas y se hospeda en casa de Zaqueo (*Lc* 19,5): «L'ospitalità è
+  imitazione del gesto di Cristo. Ogni altra ragione sarebbe sterile
+  sentimentalismo o voluntarismo» (01, 17-19); «non smettere mai di
+  accogliere imitando il gesto di Cristo coi bambini che incontrava»
+  (02, 3).
+- **Es la obra humana y cristiana más grande**: «Non esiste oggettivamente
+  nessun atto più grande dell'ospitalità: da un'ospitalità così radicale
+  come l'adozione, fino all'ospitalità a pranzo» (01, 23; 03, 75). Es dar
+  todo, «la implicación de toda la vida», no dar algo (06, 15).
+- **Es abrazo del diverso (= perdón)**: la misericordia es el «perdón de la
+  diversidad»; la hospitalidad es «una energia, una libertad che supera il
+  vuoto, il gap, la lontananza della diversità» (03, 33-37; 07).
+- **Tiene raíz en la gratuidad**: «ti ho accolto avendo pietà del tuo
+  niente» (03, 37); acogemos porque somos acogidos («Noi accogliamo perché
+  siamo accolti», 06, 59-61).
+- **Fundamento bíblico**: el epígrafe del libro es *Eb* 13,2 —«Non
+  dimenticate l'ospitalità; alcuni, praticandola, hanno accolto degli
+  angeli senza saperlo»— comentado por Giussani: los acogidos «sono più che
+  angeli! Sono figli di Dio, parte del mistero della persona di Cristo»
+  (00, 23-25; 01, 13).
+
+La hospitalidad load tiene un orden jerárquico de frecuencia: por lo
+común, en la familia (primera característica de la familia cristiana,
+06, 11); y en su forma excepcional, el affido y la adopción. Se
+institucionaliza en la asociación [[famiglie_per_l_accoglienza]].
 
 ## Distinciones importantes
 

@@ -121,6 +121,33 @@ En los ejercicios de 1996, la familia emerge como el primer ámbito donde se jue
 
 - **Testimonios concretos**: la carta de Domenico: «il rispondere sta diventando lentamente la modalità stessa della mia vocazione nella famiglia, nel lavoro, nel movimento, nel mondo… guardandoti, io ami sempre più Cristo» (04, 41-42). El niño Pietro (7 años): «ci hai fatto dire il *Gloria* a san Pampuri. Tu sei proprio un grande papà» (04, 43).
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO, la familia cristiana se caracteriza por la **hospitalidad**:
+
+- **La primera característica de la familia cristiana es la capacidad de
+  hospitalidad (hospitalidad o adopción)**: «"Non da carne, né da sangue,
+  ma da Dio siamo nati" (*Jn* 1,13); esta es la obra humana y cristiana
+  más grande» (06, 5-11).
+- **El Concilio da a los padres cristianos como primer ideal la adopción**
+  (03, 75; 07, 31-33); el apéndice de 1972 reconoce la ayuda mutua y la
+  procreación/educación de la prole como funciones de la familia al
+  servicio de la persona (10, 23-35).
+- **La primera comunionalidad es la del marido y la mujer**: la acogida
+  comienza «tra marito e moglie»; de ella nace el equilibrio que es
+  «como una sanidad» (06, 23-25).
+- **La familia es el perno de la sociedad**: «La famiglia è il perno da
+  cui parte… tutta l'architettura della società»; el bienestar de la
+  familia deriva de la concepción de la sociedad (05, 45-47). Por eso
+  existe un [[sindicato_de_las_familias]].
+- **Es «abierta a la vida»** en un doble sentido: a la [[vida]] física y a
+  la vida del diverso; Benedicto XVI la presenta «unita e aperta alla
+  vita… attenta alla qualità delle relazioni» (00, 7-9); Scola la llama
+  «via maestra e prima, insostituibile scuola di comunione, la cui legge
+  è il dono totale di sé» (01, 33).
+- **Su modelo es la Sagrada Familia y su fundamento la indisolubilidad**,
+  que descansa en la misma razón de la virginidad (*Mt* 19,12) (06, 13).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]

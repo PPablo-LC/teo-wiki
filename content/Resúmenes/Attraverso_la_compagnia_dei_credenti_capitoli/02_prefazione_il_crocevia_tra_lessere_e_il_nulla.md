@@ -28,8 +28,8 @@ tags: ["resumen", "attraverso la compagnia dei credenti capitoli"]
 - [[misericordia_de_dios]] — «pecadores todos, amados por el Misterio»
 - [[muerte]] — la «alianza con la muerte» del vivir sin significado
 - [[santidad]] — testimonio de vidas traboccantes de una intensidad única
-- [[péguy]] — citado por la libertad de la salvación y el papel de Dios que «salva» sin incriminar
-- [[ratzinger]] — «la fe cristiana es un nuevo inicio»; «solo reconocemos aquello para lo que se da en nosotros una correspondencia»
+- [[charles_péguy]] — citado por la libertad de la salvación y el papel de Dios que «salva» sin incriminar
+- [[benedicto_xvi]] — «la fe cristiana es un nuevo inicio»; «solo reconocemos aquello para lo que se da en nosotros una correspondencia»
 
 ## Contenido
 

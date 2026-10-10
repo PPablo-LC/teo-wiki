@@ -33,7 +33,7 @@ tags: ["resumen", "attraverso la compagnia dei credenti capitoli"]
 - [[cristo_todo_en_todos]] — san Máximo el Confesor: «Cristo è… tutto in tutti»
 - [[nada]] / [[ser]] — el cruce entre el ser y la nada en el yo
 - [[juan_pablo_ii]] — mensaje a los jóvenes de Roma sobre la experiencia de Tomás
-- [[ratzinger]] — la encarnación y la fe como nuevo inicio
+- [[benedicto_xvi]] — la encarnación y la fe como nuevo inicio
 
 ## Contenido
 

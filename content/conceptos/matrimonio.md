@@ -276,6 +276,31 @@ En los Ejercicios de 1996, Giussani sitúa el matrimonio dentro de la **amistad 
 
 - **La primera amistad: madre y padre** — «"Naturalmente", la prima amicizia dovrebbe essere quella tra madre e padre, genitori e figli, figli e genitori. Ma proprio lì è dove si capisce che per l'amicizia occorre veramente desiderare il destino dell'altro... Non è una cosa semplice. Cioè, è una cosa semplice, ma non è una cosa facile: è morire» (04_alla_ricerca.md, l. 125). El matrimonio es la «prima amicizia» donde se aprende a morir por el destino del otro.
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO, el matrimonio se articula en los tres capítulos del apéndice de
+1972 —persona, función, contexto social— y en su relación con la
+hospitalidad:
+
+- **La persona, la función y el contexto social**: la persona se define por
+  su relación con el destino (Dios); la función del matrimonio (ayuda
+  mutua, procreación y educación de la prole) está al servicio de la
+  persona; el contexto social —determinado por el poder— tiende a
+  instrumentalizar a la familia (el divorcio como efecto) (10, 11-67).
+- **La indisolubilidad arraiga en la misma razón de la virginidad**:
+  «l'indissolubilità del matrimonio è fondata sulla stessa ragione della
+  verginità, vale a dire: "Per il regno dei cieli"» (*Mt* 19,12) (06, 13).
+- **El matrimonio es la «primera comunionalidad»**: la primera acogida es
+  «tra marito e moglie»; de ella nace el equilibrio de la familia
+  (06, 23-25).
+- **Es la «primera misión»**: en el capítulo sobre la cultura de la vida, el
+  matrimonio aparece como la primera vocación y misión del cristiano, raíz
+  de la vida como misión (*Jn* 10,10; *Ga* 3,27-28) (11, 39-47).
+- **La caridad conyugal se vive «sin medida»**: «non si deve misurare: la
+  "misura" è la negazione della carità»; sacrificio y letizia en el amor
+  conyugal («Se un sacrificio non lo potete fare… senza letizia, piuttosto
+  non fatelo!») (06, 21; 06, 63-67).
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento

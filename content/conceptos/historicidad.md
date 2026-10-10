@@ -97,7 +97,7 @@ En *Attraverso la compagnia dei credenti* (TACDC), Giussani subraya que el crist
 - [[memoria]] — el modo de vivir la historicidad en el presente
 - [[identificación_con_cristo]] — la historicidad experimentada personalmente
 - [[sentido_del_destino]] — el destino como «algo que ha ocurrido»
-- [[presencia]] — Cristo como Presencia histórica inextirpable
+- [[presencia_de_cristo]] — Cristo como Presencia histórica inextirpable
 - [[regla]] — la historicidad encarnada en hechos estables
 - [[conveniencia_humana_de_la_fe]] — la fe como respuesta al Acontecimiento histórico
 - [[luigi_giussani]] — autor de la exposición
@@ -105,7 +105,7 @@ En *Attraverso la compagnia dei credenti* (TACDC), Giussani subraya que el crist
 ## Ver también
 
 - [[encuentro_con_dios]] [[memoria]] [[identificación_con_cristo]]
-- [[sentido_del_destino]] [[presencia]] [[regla]]
+- [[sentido_del_destino]] [[presencia_de_cristo]] [[regla]]
 
 ## Referencias
 

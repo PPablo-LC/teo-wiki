@@ -171,6 +171,28 @@ En 1995, comentando el «sì» de Pedro, Giussani cita a [[san_ambrosio]]: Dios 
 
 Con realismo, TACDC añade que «nessuno di noi è misericordioso. Ma dobbiamo cercare di esserlo» (TACDC, 04, §143), y que el paso «dal dire al fare» se llama «il domandare»: «una supplica reale, semplice, come quella di un bambino» (§143), pues «L'uomo che domanda, fosse anche distrutto dal suo male, è vermente figlio di Dio» (§101-103).
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO la misericordia recibe su formulación más antropológica: **el
+perdón de la diversidad**.
+
+- **Definición**: «L'assetto dell'accoglienza, che la parola cristiana
+  "misericordia" definisce, è il perdono della diversità»; la
+  misericordia es «una energia, una libertà che… supera il vuoto, il gap,
+  la lontananza della diversità» (03, 33-37).
+- **Su grado máximo es la ser/nada**: «No hay ninguna diversidad más
+  grande que la que existe entre el ser y el nada»; Pablo: «Cristo nos
+  amó cuando éramos pecadores» (*Rm* 5,8) (03, 39).
+- **Su raíz es la gratuidad**: «ti ho accolto avendo pietà del tuo
+  niente» (*Ger* 31,3) (03, 37); «Dio ha scelto la familiarità totale»
+  (09, 31-35).
+- **El perdón es el modo de juzgar de Dios**: «il perdono… è il Suo modo
+  di giudicare… perché Cristo è risorto, ha vinto e mi vince» (03, 59).
+- **Es la raíz de la convivencia**: «sin la acogida del diverso no podría
+  existir ni siquiera una convivencia estable» (06, 9).
+- **Su modelo es María**: la primera que acogió en sí al «gran diverso»,
+  a Dios (07, 5).
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.

@@ -330,6 +330,35 @@ aportación de novedad en el tejido y en el rostro social» (03, 181).
 
 Para Giussani la *caritas* es aquel amor «senza nessun tipo di calcolo, senza nessun tornaconto, puro; amore puro, gratuito», cuya característica más propia es la «abolizione dell'estraneità»: no solo el propio hijo o la propia madre, sino también «l'uomo che passa per la strada e viene da chissà dove». Ese amor puro es «il miracolo umanamente più affascinante e persuasivo del fatto cristiano», y la amistad que de él nace —«L'amicizia è un amore reciproco. Senza reciprocità non c'è amicizia»— es «l'espressione della natura di Dio». En los Ejercicios de 1994, la caridad aparece además como la vocación misma del cristiano: «la carità – questa imitazione suprema di Dio –, la gratuità, quindi, sia legge»; y como el lugar donde se experimenta ya el inicio del eterno, pues «l'esperienza dell'eterno… è quella della carità tra di noi, dell'amicizia tra di noi», una caridad concreta que quiere que «nessuno di noi abbia un bisogno che non trovi la compassione, cioè la carità, in tutti gli altri».
 
+### Il miracolo dell'ospitalità (MDO)
+
+En MDO la caridad se precisa como **raíz, método y forma** de la
+hospitalidad:
+
+- **La conciencia de ser amados es su raíz**: «Non possiamo condividere…
+  se innanzitutto noi non ci sentiamo accolti, se noi non ci sentiamo
+  amati»; «che cos'è la carità? È il riconoscimento di essere amati» (03,
+  21-25; 06, 59-61).
+- **Su novedad es objeto de "la ragione della carità"** (Convegno 1985):
+  el don del Espíritu puede obrar en cualquiera; el Señor «non è limitato
+  da nulla» (03, 11).
+- **Es amor sin medida**: «non si deve misurare: non bisogna mai misurare,
+  la "misura" è la negazione della carità»; la caridad es *dare tutto*,
+  «l'implicazione di tutta la vita» (06, 15-21).
+- **Es la "más difícil caridad"**: las familias que acogen lo atestiguan:
+  «la ospitalità è la più difficile carità, ti impegna totalmente» (04,
+  39-47); por eso se sostiene en compañía, no en moralismo:
+  «la generosidad de por sí se pierde… o se la lleva adelante por
+  moralismo» (05, 13-19).
+- **Su método es la condescendencia y el amor al dolor**: los «factores
+  metodológicos» de la caridad son ser libres, condescender y amar el
+  dolor (03, 55-69).
+- **Su término es la persona**: «la acogida y la condivisione son la única
+  modalidad de una relación humanamente digna»; la caridad es pasión por la
+  persona como «rapporto con l'Infinito» (03, 43). Y su cima, «l'amore
+  all'Essere» (*1 Co* 13), el amor de la [[compañía_de_las_obras]]
+  (08, 91-93).
+
 ## Referencias
 
 - CEC §1822-1829
