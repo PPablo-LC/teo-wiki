@@ -6,6 +6,7 @@ tags: ["dogmática"]
 timestamp: 2026-06-21
 description: "Condición sobrenatural del cristiano que, por la gracia santificante, es hecho hijo adoptivo de Dios Padre, participando de la filiación natural del Verbo encarnado."
 ---
+
 # Filiación divina
 
 > Área: Dogmática
@@ -37,7 +38,21 @@ La Vida de Jesús (VJ) enseña que la filiación divina procede de Cristo y se h
 
 Juan Pablo II dedica la segunda parte de su ciclo cristológico a la filiación divina de Jesús. Jesús es Hijo de Dios en sentido propio, no metafórico ni adoptivo. Solamente Él puede dirigirse a Dios como Abba con plena conciencia de ser el Unigénito del Padre. La confesión de Pedro —«Tú eres el Mesías, el Hijo de Dios vivo» (Mt 16,16)— es el fundamento de la fe de la Iglesia. El testimonio del Padre en el Bautismo y en la Transfiguración confirma esta filiación única. Jesús es acusado de blasfemia por afirmarse Hijo de Dios en sentido propio (Jn 5,18; 10,33) y es condenado a muerte por esta declaración: el Sanedrín lo condena porque afirma ser el Hijo de Dios (Mc 14,61-64). La filiación divina de Jesús es consustancialidad con el Padre: «Yo y el Padre somos una sola cosa» (Jn 10,30; CJeS, segunda parte: catequesis sobre la filiación divina de Cristo). Jesús obtiene para nosotros la filiación adoptiva: somos «hijos en el Hijo». Él nos enseña a decir «Padre nuestro», distinguiendo su propio «mi Padre» del «Padre nuestro» de los discípulos (CJeS, catequesis sobre la filiación adoptiva).
 
-## Distinciones importantes
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los ejercicios de 1994-1995, la filiación divina se presenta como el reconocimiento vivido de ser hijos en el Hijo, radicado en la obediencia filial de Jesús al Padre:
+
+- **El poder de ser hijos de Dios (Gv 1,11-12)**: «A coloro che l'hanno ricevuto, ha dato il potere di essere figli di Dio»; «sono io, tale e quale… ma il mio "tale e quale" è diverso»; la nota remite a Gal 5,15 (*creatura nuova*) (02, 171). La filiación no anula la personalidad sino que la transfigura.
+
+- **Las sentencias joánicas de la filiación**: Giussani comenta extensamente los textos de Juan donde Jesús revela su dependencia radical del Padre: «Il Padre mio opera sempre e anch'io opero»; «Il Figlio da sé non può fare nulla se non ciò che vede fare dal Padre»; «Io non posso far nulla da me» (Gv 5,17.30.36-37; 6,38-39.44; 7,16.28; 8,16.26-29) (02, 189-191). Esta es la estructura de la filiación: no autonomía sino obediencia gozosa.
+
+- **La oración sacerdotal (Gv 13-17)**: «Padre, è giunta l'ora, glorifica il Figlio tuo»; «Tutte le cose mie sono tue e tutte le cose tue sono mie»; «l'amore con il quale hai amato me sia in essi e io in loro» (Gv 13,3; 14,7-9.20.31; 15,15.24; 16,15.28.32; 17,1-2.6-7.10.18.25-26) (02, 193). La filiación se vive en la comunión trinitaria comunicada a los discípulos.
+
+- **Cristo revela al Padre: la «vida vera»**: «Cristo, mandato dal Padre, è Colui che rivela il Padre agli uomini»: «Questa è la vita vera: che amino te, solo vero Dio… e colui che hai mandato: Gesù Cristo» (Gv 17,3) (02, 233-235). La filiación divina culmina en el conocimiento del Padre por el Hijo.
+
+- **El «sí» de Pedro como vislumbre de Dios**: el «porqué» del sí de Pedro: «aveva intravisto… chi era Dio, chi era lo Jahvè biblico, il vero Jahvè, la verità su Jahvè» (02, 237). La filiación se reconoce en la respuesta amorosa al Hijo.
+
+## Distincioni importanti
 
 - Filiación natural (propia del Verbo) vs. filiación adoptiva (propia del cristiano por gracia).
 - La filiación divina se recibe en el bautismo, se aumenta con la gracia santificante, y puede perderse por el pecado mortal.

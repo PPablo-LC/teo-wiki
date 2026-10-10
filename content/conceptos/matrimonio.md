@@ -266,6 +266,16 @@ desposado. Porque en el principio era así, en el principio no había el divorci
 **El valor de la vida.** El valor está «en ser función del designio de Dios, del reino
 de los cielos» (03, 233; cfr. Mt 19).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los Ejercicios de 1996, Giussani sitúa el matrimonio dentro de la **amistad como virtud suprema** y **correspondencia real en el amor**:
+
+- **La fidelidad como "prospettiva dell'amore" affinata nel tempo** — «Senza questa prospettiva, la corrispondenza non è mai reale. Anche quando tu provi amore e affezione per una donna e questa ti corrisponde e fate famiglia, non è mai sicuro niente fino a quando quella fatica diuturna... quella regola diuturna, quello scontro diuturno con tutto e con tutti e tra di voi non avrà affinato nel vostro animo la prospettiva dell'amore, *questa* prospettiva dell'amore» (04_alla_ricerca.md, l. 117). El matrimonio no es seguro por el consentimiento inicial, sino por la «fatica diuturna» que afina en el alma la perspectiva del amor ordenada al destino.
+
+- **Amistad conyugal y destino del otro** — «Anche se tua moglie ti farà arrabbiare, tu, saggiamente, tacerai; e anche se tuo marito continuerà in una cosa in cui sbaglia gravemente, fino a essere la rovina della famiglia, e tu glielo avessi già detto in cento maniere, tacerai, cioè glielo dirai in cento altre maniere più giuste, facendogli vedere che tu muori per quello. Se non c'è questo, non c'è vera corrispondenza – in niente! –, non c'è amicizia» (ibid.). La amistad conyugal exige desear el destino del otro por encima de los conflictos inmediatos, muriendo por él en el cotidiano.
+
+- **La primera amistad: madre y padre** — «"Naturalmente", la prima amicizia dovrebbe essere quella tra madre e padre, genitori e figli, figli e genitori. Ma proprio lì è dove si capisce che per l'amicizia occorre veramente desiderare il destino dell'altro... Non è una cosa semplice. Cioè, è una cosa semplice, ma non è una cosa facile: è morire» (04_alla_ricerca.md, l. 125). El matrimonio es la «prima amicizia» donde se aprende a morir por el destino del otro.
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento

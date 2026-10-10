@@ -77,6 +77,10 @@ se lo pide, aunque sea por cincuenta años, aunque sea por sesenta, hasta que se
 muera? Y nos lo dará en este mundo. No creo que pueda haber una moralidad más
 seria y más sencilla que ésta: pedir, pedir siempre» (01, 153).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En la nota editorial se destaca que la transmisión del pensamiento de Giussani fue mayormente oral: «gran parte del suo pensiero si è comunicato perciò attraverso la ricchezza e il ritmo di un discorso orale», conservado en las grabaciones del Archivo de la Fraternidad (TACDC, 00_preliminares.md, l. 18). El volumen se redactó «attenendosi ai criteri formulati a suo tempo dallo stesso don Giussani», respetando la naturaleza del discurso (l. 22-28). Esto pone de relieve el papel de la memoria en la conservación y transmisión de la fe en la compagnia.
+
 ## Relaciones doctrinales
 
 [[entendimiento]], [[voluntad]], [[potencias_del_alma]], [[alma_espiritual]], [[noche_oscura]]

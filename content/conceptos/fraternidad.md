@@ -6,6 +6,7 @@ tags: ["moral", "eclesiología"]
 timestamp: 2026-10-02
 description: "La fraternidad es la virtud por la cual los cristianos se reconocen como hermanos en Cristo, hijos del mismo Padre celestial, y se tratan con amor, respeto y solidaridad mutuos."
 ---
+
 # Fraternidad
 
 > Área: Moral / Eclesiología
@@ -48,7 +49,7 @@ En las notas se aborda la fraternidad como don de la Pascua. La comunidad cristi
 Giussani describe la Fraternidad como **el ámbito donde la fisonomía del
 movimiento vive con más vivacidad**: «Se puede ser también de tres —fíjate en que
 estar en tres debe ser la introducción a estar en dos: una Fraternidad debe ser el
-ámbito donde uno aprende a querer bien a su mujer, porque el “dos” es a la vez el
+ámbito donde uno aprende a querer bien a su mujer, porque el "dos" es a la vez el
 máximo de la dificultad y de la realización—» (01, 211).
 
 **El sacrificio funda la fraternidad.** «El sacrificio, que vuelve a proponer la
@@ -56,7 +57,7 @@ afirmación de una medida más grande, es decir, del amor, la afirmación del ot
 establece las relaciones entre los hombres como fraternidad» (02, 157).
 
 **Es abolida la extrañeza.** «La primera vez que ves a gente que nunca has visto
-—más extraños que estos “se more”, y que quizá te serían incluso antipáticos por
+—más extraños que estos "se more", y que quizá te serían incluso antipáticos por
 forma y por manera—, los abrazas como si fueran de casa tuya, y si tienen
 necesidad tú sacarías el pan de la boca» (02, 157).
 
@@ -73,7 +74,23 @@ si no hunde sus raíces en comunidades concretas, construidas sobre el amor
 fraterno» (02, 167-169). De ahí la consigna: «La civilización del amor se
 construye únicamente partiendo de pequeñas comunidades fraternas» (02, 169).
 
-## Distinciones importantes
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los *Esercizi* 1994-1996, la fraternidad se despliega como la forma concreta de la unidad eclesial nacida del carisma:
+
+- **Unidad orgánica de los creyentes**: Cristo «rimane presente attraverso l'unità organica di coloro che credono in Lui… peccatori tutti, amati dal Mistero» (01, 43). La fraternidad no es asociación humana sino «unità dentro la grande unità della Chiesa… Questa unità è un aspetto del corpo di Cristo, a cui tu appartieni: facendo questo incontro e accettandolo… per la compagnia di cui ti ha circondato, Cristo ti fa appartenere a esso» (01, 51).
+
+- **Fraternidad y gloria de Cristo**: «L'unico scopo del vivere… è la gloria di Cristo nel mondo»; «Padre, è venuta l'ora… glorifica il figlio tuo!»; compartir las debilidades «con pacienzia y fraternità»; «è un altro mondo in questo mondo» (02, 241-243).
+
+- **El Direttorio per i gruppi di Fraternità**: su propósito es «una maggiore serietà nella impostazione della loro vita personale e comunionale» (02, 249-251). La obediencia a quien guía la Fraternidad no es adhesión mecánica sino «calare il secchio dentro il pozzo puro della nostra Fraternità» (02, 253-255).
+
+- **La guía autorevole y la unidad**: «Persona autorevole, nel senso evangelico: persona che ha fede»; «la vita cristiana nasce dall'incontro con una presenza, seguendo la quale si cambia» (02, 261-267). La Fraternidad «non è una federazione di realtà autonome»; cada grupo es «il terminale ultimo di quell'influsso educativo alla fede, alla speranza, alla carità» del carisma (02, 269-271).
+
+- **Testimonio de los Memores Domini en Nazaret**: tres jóvenes que «si trattano, come trattano i frati… come trattano gli ospiti… il lavoro della professione profetica non lascia tregua a ogni azione e ogni azione è "offerta a"» (03, 87-89). Su vida es «una "dimora" diversa dalle altre» donde «Verbum caro hic factum est» (03, 91).
+
+- **La casa en el amor recíproco**: en la asamblea de 1996, Giussani cita la *Regola definitiva* de Francisco: *«domestici invicem inter se*»* (04, 125). «L'amore fraterno, sempre e dovunque, sarà per essi casa»; «con l'anima piena di gioia, in Lui ci scopriamo fratelli» → «In Lui ci scopriamo amici» (04, 129-131). «Solo l'amicizia – non la nostra compagnia, le nostre congregazioni… – può fare popolo» (04, 133).
+
+## Distincioni importanti
 
 - La fraternidad cristiana es sobrenatural, no meramente filantrópica.
 - Se funda en la filiación divina recibida en el bautismo.

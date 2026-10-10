@@ -33,6 +33,20 @@ La «Avvertenza» del libro (cap. 02) es el documento fundacional del concepto:
 - **La certeza de los santos vivos**: incluir a Benedetta Bianchi Porro, aún no canonizada, «non vuole affatto anticipare questo giudizio; vuole soltanto esprimere una certezza e una gioia: che i santi sono ancora tra noi» — la experiencia cristiana es hoy, no solo historia.
 - **El fruto**: «Contemplando il loro volto, il desiderio della vostra vera umanità diventa così più struggente» — el aprendizaje experiencial despierta deseo, no mera información.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En TACDC la experiencia cristiana se define como el encuentro con una Presencia que cambia la estructura de sentido de la vida, verificada en la vida ordinaria:
+
+- **La «esperienza della realtà»**: «Il cristianesimo porta nel mondo un uomo nuovo, che ha una "esperienza della realtà"… diverso da quello degli altri»; no porque sea mejor, sino porque «è nuovo in lui il cuore, con conseguenze […] che tendono a investire tutta la vita, in tutti i suoi aspetti. La struttura dell'umano rimane, nella sua apparenza, tale e quale, ma ha un altro significato» (02, 173-177). La cultura nueva «è più corrispondente a tutti i fattori della nostra esistenza».
+
+- **El reconocimiento sencillo**: «se Dio s'è fatto uomo, non può essere che semplice il modo di riconoscerLo!» (03, 35). El «presentimento del vero» (03, 37) despierta la curiosidad y el deseo que llevan a seguir a Cristo como Juan y Andrés.
+
+- **La verificación en lo cotidiano**: la carta de la enfermera Anna muestra cómo el encuentro con una joven enferma de cáncer hace «palpabile che qualcosa deve esserci» (03, 29-33). La experiencia cristiana no exime de las obligaciones —«Il Cristianesimo non ti solleva… dalle incombenze della vita, ma ti dà il giusto motivo per affrontarle» (03, 32-33)— sino que las transfigura.
+
+- **La vocación como estrella**: «la vocazione è la stella che illumina la notte oscura delle circostanze» (testimonio de una joven, 04, 81). La experiencia cristiana sostiene incluso en el sufrimiento extremo: «nulla accade per caso, ma per la gloria di Dio» (03, 31-32).
+
+- **La misericordia como experiencia del Misterio**: «Misericordia è identica a Mistero: è il Mistero, quel che non si capisce» (04, 137). La experiencia cristiana culmina en reconocer que la vida de Dios es «amore gratis: caritas, senza motivo» (04, 137), una gratuidad que excede toda lógica de mérito.
+
 ## Distinciones importantes
 
 - **Experiencia ≠ sentimentalismo**: no se trata de proyectar sobre el santo las propias necesidades afectivas (RdS pide la gracia contraria en el cap. 1), sino de dejar emanar su luz.

@@ -41,6 +41,12 @@ La dimensión "cognoscitiva" del deseo es muy importante para la percepción del
 
 El estudio del desear humano se aborda desde dos perspectivas complementarias: el concepto tomista de inclinación natural, como fundamento ontológico, y el punto de vista descriptivo de la psicología, como mapa del sistema tendencial humano. (Ele_Xto_Stos, Cap. V, §2)
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+El deseo es, en TACDC, la huella del destino en el corazón humano. Los primeros discípulos reconocen a Jesús como «l'eccezionalità di quell'incontro, finalmente corrispondente alle attese profonde della loro umanità» (TACDC, 00, 10): el deseo profundo no es un obstáculo, sino el órgano con que se reconoce la Presencia. El corazón es la «natura originale dell'uomo», hecha de exigencias de «verità, bellezza, giustizia e amore» (TACDC, 02, 149-151), y su deseo tiene ya una correspondencia real: «Quello che il cuore desidera già esiste» (TACDC, 02, 191).
+
+La samaritana es la figura de esta sed: «tutta assettata di una vita che i suoi tentativi non erano stati in grado di soddisfare», se siente desafiada por «l'unica acqua in grado di soddisfare la sua sete spropositata» y pide: «Dammi quest'acqua» (TACDC, 01, 21.29). El «bisogno ultimo... di compimento, di verità, di bellezza, di bontà, di amore» (TACDC, 03, 103) es el mismo que el «desiderio infinito di felicità, di libertà, di bontà, di giustizia, di amore» que constituye la «esperienza elementare» (TACDC, 04, 145-147). El deseo, lejos de ser negado, es el punto de partida: «il cuore è sete di felicità e di bellezza» (TACDC, 03, 171).
+
 ## Distinciones importantes
 
 - **Deseo natural vs. deseo desordenado (concupiscencia)**: el primero está dentro del orden creado y es querido por Dios; el segundo es fruto del pecado y debe ser combatido.

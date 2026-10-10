@@ -51,6 +51,24 @@ Benedicto XVI dedica la primera parte de *Jesús de Nazaret II* a la entrada mes
 
 Jesucristo revela plenamente el designio de amor de Dios. En Él se cumple el acontecimiento decisivo de la historia de Dios con los hombres (§28). El amor que anima su ministerio es el que el Hijo experimenta en la unión íntima con el Padre, Abbá (§29). La Pascua revela el Amor trinitario: «Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor» (§31). Jesucristo revela que Dios es Padre y que todos estamos llamados por gracia a ser hijos suyos en el Espíritu (§31). El mandamiento nuevo del amor recíproco (Jn 13,34) debe inspirar, purificar y elevar todas las relaciones humanas en la vida social y política (§33). La imagen del Dios trino es raíz de todo el ethos humano, cuyo vértice es el mandamiento del amor (§33).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En TACDC, Giussani presenta a Jesucristo como el **avvenimento** (acontecimiento) decisivo que corresponde al corazón humano y lo arranca de la nada:
+
+- **Encuentro originario** — «Giovanni e Andrea, dopo aver trascorso del tempo con Gesù di Nazareth, si resero conto dell'eccezionalità di quell'incontro, finalmente corrispondente alle attese profonde della loro umanità» (00_preliminares.md, l. 10). El cristianismo es «un nuovo inizio, che ogni giorno riviviamo in filigrana nel corso della storia, una storia in cui l'incontro di vita con Gesù viene continuamente ripetuto» (ibid.).
+
+- **Presencia que corresponde al corazón** — Ratzinger: «noi possiamo riconoscere solo ciò per cui si dà in noi una corrispondenza»; Giussani: «Avviene un incontro... che corrisponde al tuo cuore», a una natura «fatta di esigenze di verità, bellezza, giustizia, amore, felicità» (01_prefazione.md, l. 23). La Presencia se hace encontrable en un *avvenimento*: «in qualcosa che si può intercettare con i propri sensi, che si può vedere, udire e toccare» (ibid., l. 25).
+
+- **Cristo como "lampo" en la cruz** — Aleixandre: «Fra due oscurità, un lampo»: «Cristo in croce, questo è il lampo»; «la repentina coscienza di una compagnia, là nel deserto» (02_il_tempo_si_fa_breve.md, l. 129).
+
+- **Encarnación como avvenimento histórico único** — Ratzinger: la encarnación como «avvenimento storico, unico e irripetibile»; «La fede cristiana è un nuovo inizio»; novedad perenne «fra mille anni sarà nuovo come oggi» (02_il_tempo_si_fa_breve.md, l. 127).
+
+- **Cristo centro de todo** — «Cristo è tutto! L'odio a Cristo è l'odio al senso della vita, perché il senso della vita dà una responsabilità che uno non può più gestire per se stesso, è una responsabilità davanti a un Altro... a questo uomo, Gesù, che è l'Altro – Iddio, il mistero di Dio – diventato carne» (03_si_può_vivere_così.md, l. 167).
+
+- **Jesús como "mandato del Padre"** — «Cristo ha risposto: "Io sono il mandato del Padre"»; «L'autonomia dell'uomo di fronte al mistero di Dio equivarrebbe alla nullificazione dell'uomo, al ritorno al nulla» (03_si_può_vivere_così.md, l. 187).
+
+- **Misericordia revelada en Jesús** — «*quell'uomo*, nato da una donna… *Gesù*... La misericordia è il Mistero da cui tutto proviene, da cui tutto è sostenuto, a cui tutto va a finire» (04_alla_ricerca.md, l. 141). La misericordia no es perdón calculado sino «amore gratis: *caritas*, senza motivo» (ibid., l. 137).
+
 ## Analizado para
 
 - [[primeros_pasos_en_la_vida_espiritual]]

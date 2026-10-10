@@ -78,6 +78,10 @@ La conciencia es «la voz de Dios». JvC enseña que quien quiera ser libre debe
 
 JvC-Muj presenta la conciencia como «la voz de Dios»: «No temas a nadie. Teme tan sólo a tu conciencia. No encaja con el carácter el abandonar por miramientos humanos, por miedo a habladurías o a la ironía, lo que aprueba tu conciencia» [JvC-Muj, Cap. I]. La joven de carácter debe acostumbrarse a seguir incondicionalmente la voz de la conciencia, pues «la mejor ayuda para dormir, la mejor almohada, es una buena conciencia» [JvC-Muj, Cap. I].
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los Ejercicios de 1994, Giussani diagnostica la «tensione vuota» de una conciencia que reconoce la ley moral pero no la funda en Dios. Cita a Norberto Bobbio: «il destino delle tavole della legge… è quello di essere violate… Ma guai a noi se le avessimo dimenticate»; comenta que esa tensión, sin la Presencia, es «vuota»: se puede «colorarla di nobiltà quanto volete, ma è vuota». Su fruto extremo es la *Preghiera per un bambino* de M. Bernardi, donde la palabra queda reducida a *flatus vocis*, «puro suono», y el mal y la mentira son erigidos a principio: signo de una conciencia que, desligada de su fundamento, ya no orienta la vida.
+
 ## Relaciones doctrinales
 
 [[conciencia_moral]], [[ley_natural]], [[virtud_de_la_prudencia]], [[actos_humanos]], [[examen_de_conciencia]], [[sindéresis]]

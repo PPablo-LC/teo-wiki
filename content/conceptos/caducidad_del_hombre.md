@@ -62,6 +62,10 @@ La presentación de Carrón abre toda la obra con la caducidad:
   nuestra fragilidad» (00, 25).
 - La dinámica: choque → squarcio → ideal → Cristo que hace orgánico.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los Ejercicios de 1994 Giussani presenta la caducidad como la apariencia inmediata que las cosas tienen para el hombre: «I miei giorni sono come ombra che declina, / io come erba inaridisco» (Sal 102 (101),12); «Come l'erba sono i giorni dell'uomo… Lo investe il vento e più non esiste, / e il suo posto non lo riconosce» (Sal 103 (102),15-16). La conclusión del impío —«Siamo nati per caso e dopo saremo come se non fossimo stati. / È un fumo il soffio delle nostre narici» (Sap 2,1-5)— describe esa experiencia: «La consistenza delle cose sembra proprio un nulla». Pero el mismo Giussani señala que se trata solo de «l'apparenza» de las cosas: la futilità es verdadera experiencia, sí, pero junto a ella se experimenta «il peso d'una responsabilità» y de una «attesa di qualcosa d'altro» que desmiente el desenlace del impío.
+
 ## Distinciones importantes
 
 - **Caducidad vs. pesimismo**: la caducidad es el dato realista, no una

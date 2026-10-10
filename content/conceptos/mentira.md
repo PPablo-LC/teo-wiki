@@ -69,6 +69,10 @@ JvC dedica una sección a «¿Vale la pena mentir?». Los jóvenes mienten por m
 - **Disimulación**: ocultar la verdad sin afirmar falsedad (puede ser lícito por justa causa)
 - **Reserva mental**: uso de expresiones que admiten doble sentido (licita solo por necesidad grave y con justa proporción)
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En TACDC no aparece una referencia directa y específica a la mentira como concepto tratado. Dada la naturaleza de la fuente (ejercicios espirituales centrados en la lucha entre el ser y la nada, el encuentro y la amistad), no se añade aportación particular para este concepto.
+
 ## Analizado en contexto cultural
 
 - [[pinocho]] — convergencia en el vínculo entre mentira y desfiguración interior (la nariz que crece)

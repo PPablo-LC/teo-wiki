@@ -47,7 +47,21 @@ a.6 — Hay un solo evo, como hay un solo tiempo. Aunque haya múltiples seres p
 
 Royo Marín expone la eternidad divina como presupuesto de la vida espiritual: Dios, eterno e inmutable, es el término estable hacia el que tiende el alma peregrina en el tiempo. La eternidad beatífica es la participación de los bienaventurados en la vida eterna de Dios (TPCr, Primera Parte, Cap. II).
 
-## Distinciones importantes
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani presenta la eternidad no como abstracción metafísica sino como medida que pesa sobre cada instante de la existencia concreta:
+
+- **La «misura dell'eterno» en cada latido**: citando a Ada Negri (*Tempo*), «la vita ha in ogni battito la tremenda misura dell'eterno» (01, 13); y en los ejercicios de 1994: «su ogni istante grava il peso dell'eterno» (02, 67). La eternidad no es un «después» sino el peso específico del ahora.
+
+- **La alternativa radical**: cada mañana el hombre elige entre «un tutto che finisce nel niente… e la vita che ha uno scopo», entre «morire come cani» (Pavese) y «vivere secondo la misura dell'eterno» (01, 15-16). Sirácide lo cuantifica: «Come una goccia d'acqua nel mare… questi pochi anni in un giorno dell'eternità» (Sir 18,8-12; 02, 79).
+
+- **El pasado como semilla del futuro**: «la mente cristiana è piena di attesa / e il passato è un seme del futuro o niente» (Luzi, 02, 101). Si el pasado no es semilla de eternidad, se vuelve «nada» — «Mia madre… niente? No!» (02, 103).
+
+- **El arte como «inizio dell'eterno»**: «L'arte, la vera grande arte… è l'esperienza dell'eterno che incomincia» (imágenes de las *Très riches heures* y la capilla Scrovegni; 02, 305-307). La belleza anticipa la eternidad en el tiempo.
+
+- **Cada instante como relación con lo infinito**: «ogni istante che l'uomo vive è grandissimo: è rapporto con l'infinito» — como la cruz, el parto, lavar los platos (04, 87). La fe en el Dios bueno hace que «todo es grande»; sin ella, «tutto rimpicciolisce».
+
+## Distincioni importanti
 
 - **Eternidad (Dios)**: duración sin sucesión, sin principio ni fin, toda simultánea.
 - **Evo (ángeles, almas)**: duración perpetua pero con sucesión en las operaciones.

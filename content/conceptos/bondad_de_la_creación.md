@@ -22,6 +22,12 @@ Verdad revelada en el primer relato de la creación: «Dios vio todo lo que hab�
 - **Consecuencias espirituales**: (a) valor de la materia y del cuerpo (contra la desconfianza maniquea: el cuerpo es templo del Espíritu, 1 Cor 6,19); (b) legitimidad del disfrute agradecido de las cosas creadas (1 Tim 4,4: «todo lo que Dios creó es bueno, y nada hay que rechazar si se toma con acción de gracias»); (c) misión de custodia ( Laudato si': el cuidado de la casa común como respuesta a la bondad creada); (d) legítima [[alegría]] cristiana: la tristeza ante el ser es desorden (contra la acedia).
 - **Liturgia y bondad**: la Eucaristía —pan y vino de la tierra, «fruto de la tierra y del trabajo humano»— confirma que la materia está llamada a ser portadora de gracia ([[visión_sacramental_del_mundo]]).
 
+## Perspectivas por fuente
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+Para Giussani, la primera implicación del carisma cristiano es que «accostare qualsiasi cosa – e persona, ancora di più – deve partire da un'ipotesi positiva». Si la naturaleza del Ser es amor, entonces «lo scopo di tutto ciò che c'è è assolutamente positivo», porque nada se hace a sí mismo y el Misterio «che sta dietro ogni cosa, è come la prospettiva inesorabile di ogni cosa che si vede». De ahí la certeza sobre la bondad de lo creado: «Dio non può azzerare neanche una opera buona – una sola! – fatta dall'uomo! Perché se la natura dell'Essere è amore, quella sola azione può difendere vite intere». Lo confirma el libro de la Sabiduría: «Dio non ha creato la morte e non gode per la rovina dei viventi… le creature del mondo sono sane» (Sap 1,13-16); en síntesis, «Dio è l'ipotesi positiva su tutto ciò che l'uomo vive».
+
 ## Distinciones importantes
 
 - **Bondad ontológica** ≠ perfección moral del hombre: la creación es buena; el pecado (acto de la libertad creada) no lo es ni pertenece a la creación como tal.

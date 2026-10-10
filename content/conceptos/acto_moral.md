@@ -67,6 +67,10 @@ La cooperación formal es siempre ilícita cuando el acto principal es intrínse
 
 La estructura del acto moral se analiza en tres elementos: objeto, intención y circunstancias. La imputabilidad depende del conocimiento y la libertad del agente. La conciencia moral es la norma próxima de valoración del acto. El principio de doble efecto y la cooperación formal/material son herramientas de análisis moral que permiten valorar acciones complejas.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Para Giussani, la moralidad no es primariamente análisis de fenómenos ni cumplimiento de un código, sino respuesta: «L'azione morale è una risposta a una domanda che sale dalle profondità del nostro essere – dal cuore, direbbe la Bibbia –: è una risposta al Mistero che ci fa». El sujeto del acto moral es la persona, y su ley es el amor: «il soggetto dell'atto morale è la persona e la legge di una persona è l'amare: affermare un altro». Por eso la ley de la acción no es la autoafirmación, sino la afirmación de Otro: «La legge della mia azione è affermare un Altro... "Venga il tuo regno; sia fatta la tua volontà"». El criterio último del obrar queda así ligado a la Presencia: «Non esiste moralità al di fuori di un dialogo con "la" Presenza» (TACDC, 03, L217-219.277).
+
 ## Distinciones importantes
 
 - **Acto moral vs. acto jurídico**: El acto moral se refiere a la bondad o maldad intrínseca; el acto jurídico se refiere a su conformidad con la ley positiva

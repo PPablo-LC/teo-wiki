@@ -39,6 +39,12 @@ La elección es el acto elícito de la voluntad que tiene por objeto la acción 
 
 El objeto de la deliberación y la elección no puede ser un fin: deliberar sobre un bien y elegirlo significa ordenarlo a otro, considerarlo como medio (Ele_Xto_Stos, Cap. VI, §3).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+- **Por qué Dios elige a algunos.** Mt 13,10-12: «Beati voi, perché siete stati chiamati a capire il mistero del Regno di Dio»; la elección revela «il modo con cui il Padre salva tutti… svelandosi ad alcuni, perché attraverso di loro anche gli altri siano percossi dalla verità» (02, 59-61).
+- **La elección por abandono objetivo.** Dios no elige la «ispirazione diretta» sino «un abbandono oggettivo»: la figura de Abramo y la promesa de Gen 15,5-6 muestran a Israel como «strumento evocativo» para despertar la atención del hombre (02, 205).
+- **La elección cotidiana del sentido.** «Siamo costretti a scegliere tutte le mattine» entre un todo que acaba en la nada y la vida que «ha uno scopo» (02, 103); la elección del Dios verdadero se renueva cada día, y el pequeño rebaño persiste: «Bisogna che sussista un piccolo gregge, per quanto piccolo esso sia» (03, 129).
+
 ## Distinciones importantes
 
 - Elección gratuita vs. mérito humano: la elección no se funda en cualidades del elegido sino en el amor de Dios

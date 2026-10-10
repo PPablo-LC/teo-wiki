@@ -35,6 +35,10 @@ La compasión no es un cálculo de obligaciones, sino un «rayo de compasión qu
 
 En la parábola del hijo pródigo, la compasión del padre se expresa con la misma imagen: «Se me revuelve el corazón, se me conmueven las entrañas» (Os 11,8, cit. en JdN_I). Dios tiene un corazón que se revuelve «por así decirlo, contra sí mismo»: «el corazón de Dios transforma la ira y cambia el castigo por el perdón» (JdN_I). Esta compasión divina es el modelo de la compasión cristiana.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los Ejercicios de 1996, Giussani presenta la compasión de Jesús como el modelo que educa la mirada: «Come Gesù, che si voltò quella sera a guardare il pendìo della collina zeppo di gente, "ed ebbe compassione di loro, perché erano come un gregge senza pastore"» (Mt 9,36). La *compagnia* de los creyentes es el ámbito donde se aprende esa compasión: «la nostra compagnia è preziosa: è stato l'argomento prezioso con cui Dio ci ha messi su una strada»; y, si la seguimos con sencillez, Dios «ci fa crescere in questa percezione del destino dell'altro e della necessità di una nostra corrispondenza con i bisogni di tutti».
+
 ## Distinciones importantes
 
 - **Compasión natural vs. sobrenatural**: la primera es humana y natural; la segunda es informada por la fe y la caridad

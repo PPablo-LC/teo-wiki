@@ -43,6 +43,12 @@ Denis McNamara profundiza el mismo tema desde la estética y la historia del art
 
 El P. Michael Van Sloun ve en las misas de niños una escuela práctica de esta infancia espiritual: «los niños tienen capacidad para una rica relación con Dios y la capacidad de comprender conceptos e ideas espirituales». La niñez de Jesús es modelo: «Jesús mostró que los niños tienen capacidad para una rica relación con Dios» (Lc 2,46-52) [EAC-12, 22].
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani insiste en la sencillez necesaria para el encuentro con Cristo: «Occorre solo essere come bambini... Ma Tu rendici bambini» (03_si_può_vivere_così_1995.md, ll. 63-71). Esta infancia espiritual no es ingenuidad, sino la condición para acoger el don: el seguimiento es un acto de libertad que resulta fácil y gozoso cuando el corazón recupera la confianza de un niño. El mismo texto pone en relación la existencia dramática —«tutta l'attività della vita è di fronte a un Tu»— con la llamada a la simplicidad, mostrando que la infancia espiritual es la disposición adecuada para responder al encuentro con el Misterio que se nos da como amigo.
+
 ## Distinciones importantes
 
 - **Infancia espiritual vs. inmadurez espiritual**: la infancia espiritual es un estado de plenitud, no de inmadurez

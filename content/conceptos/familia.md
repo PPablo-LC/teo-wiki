@@ -108,6 +108,19 @@ Tóth abre con la familia como **célula de la sociedad**: fundamento del edific
 **La familia cristiana respeta y educa al niño:** «res sacra puer» — san Leónidas arrodillado ante el pequeño Orígenes: «adoro al Espíritu Santo que mora en él». La misión sacerdotal de los padres (enseñar a orar); el ejemplo de los padres y las virtudes a inculcar: obediencia, respeto a la autoridad, veracidad, pureza y educación religiosa [EMC, caps. 15-16].
 
 **La familia, ámbito de renovación de la humanidad:** santuario de virtudes y «puerta por la que entra la nueva generación humana»; la Iglesia como «segunda arca de Noé» que «salvará de nuevo la familia» [EMC, cap. 17].
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los ejercicios de 1996, la familia emerge como el primer ámbito donde se juega la autenticidad del amor y de la amistad cristiana:
+
+- **Correspondencia real en el amor y en la familia**: «fatica diuturna… quella regola diuturna… con tutto e con tutti e tra di voi non avrà affinato nel vostro animo la prospettiva dell'amore»; si no hay esa perspectiva «non c'è vera corrispondenza – in niente! –, non c'è amicizia» (04, 117). La fidelidad conyugal se mide en el silenciar las apprensiones propias por el destino del otro: «anche se tuo marito continuerà in una cosa in cui sbaglia gravemente… tu glielo avessi già detto in cento maniere, tacerai, cioè glielo dirai in cento altre maniere più giuste, facendogli vedere che tu muori per quello» (04, 117-118).
+
+- **La amistad como familia; dar la vida por los amigos**: citando la *Regola definitiva* de Francisco: «domestici invicem inter se»; «la prima amicizia dovrebbe essere quella tra madre e padre, genitori e figli» — «è morire!» (04, 125-127). «Nessuno ama tanto gli amici come colui che dà la vita per i propri amici» (Gv 15,13): «Ma si dà la vita per il Destino!» Dar la vida por otra cosa es «una tragica malinconia».
+
+- **La casa en el amor recíproco**: «Troveranno la loro casa nell'amore vicendevole»; «L'amore fraterno, sempre e dovunque, sarà per essi casa» (04, 129-130). El himno de laudes resume: «con l'anima piena di gioia, in Lui ci scopriamo fratelli» → «In Lui ci scopriamo amici» (04, 131).
+
+- **Testimonios concretos**: la carta de Domenico: «il rispondere sta diventando lentamente la modalità stessa della mia vocazione nella famiglia, nel lavoro, nel movimento, nel mondo… guardandoti, io ami sempre più Cristo» (04, 41-42). El niño Pietro (7 años): «ci hai fatto dire il *Gloria* a san Pampuri. Tu sei proprio un grande papà» (04, 43).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]

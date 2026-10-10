@@ -35,6 +35,12 @@ El título «Hijo del hombre» tiene una doble dimensión: representante de Dios
 
 En su condición de «Hijo del hombre», Jesús asume el lugar que le corresponde entre los hombres como hombre verdadero, como hijo de una mujer, María de Nazaret. Mediante esta mujer, su Madre, Él, el «Hijo de Dios», es al mismo tiempo «Hijo del hombre», hombre verdadero. La Constitución *Gaudium et spes* 22 lo recoge: «Se hizo realmente uno de nosotros, semejante a nosotros en todo, menos en el pecado» (cf. Heb 4,15).
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), la humanidad de Cristo no es un dato teórico, sino una experiencia viva. Don Paolo Pezzi testimonia cómo «l'accorgersi dello scorrere della umanità di Cristo nelle mie vene…» hace percibir que el fin es «la gloria di Cristo» y que existe «un rapporto generativo reale, concreto, oggettivo, non deciso da me» (04_alla_ricerca_del_volto_umano_1996.md, ll. 37-39). Esta experiencia pone de relieve la realidad concreta de la humanidad de Cristo: Cristo no es una idea, sino un Hombre cuyas acciones y presencia llegan hasta lo más íntimo de nuestra existencia.
+
 ## Distinciones importantes
 
 - Humanidad real (carne, alma, voluntad e intelecto humanos) vs. humanidad aparente (docetismo)

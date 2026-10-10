@@ -55,6 +55,10 @@ Royo Marín distingue las «miradas peligrosas» (que provocan la tentación) de
 
 **El estupor ante la presencia (cap. X).** La mirada asombrada ante lo real —el estupor— es el punto de partida del itinerario religioso: ver la presencia como dato y como don es la mirada que conduce a la pregunta última (SR, `17_capitolo_decimo.md`, §1-20, 21-32).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti*, Giussani señala la potencia de una mirada amiga para arrancar al hombre del vacío: «Chi non desidererebbe essere raggiunto da uno sguardo così amico che lo strappa dal nulla?» (TACDC, 00_preliminares.md, l. 10). Esta «mirada amiga» es la que nace del encuentro con Cristo y se hace presente en la compagnia de los creyentes, capaz de disputar al hombre a la nada que lo oprime. 
+
 ## Distinciones importantes
 
 - **Mirada pura ≠ mirada ciega**: ver la belleza del otro no es pecado; reducirla a objeto de uso sí lo es.

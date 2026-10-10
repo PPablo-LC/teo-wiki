@@ -57,6 +57,13 @@ Fraternidad es una Escuela de comunidad, de lo contrario es una formalidad»
 - **Cuaderno 1987 (03)**: el texto de la homilía sobre la verdad y la belleza de
   la vida (03, 39-41).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+- **«L'approfondimento catechetico del Movimento è la Scuola di comunità»** (02, 293-301); «l'opera della Fraternità è l'incremento del Movimento nel servizio alla Chiesa», y «la Santa Messa rappresenta… il gesto conclusivo di ogni desiderio» (02, 293-301).
+- **Palabra *mía*.** «Bruci tutto il movimento… se la Scuola di comunità non diventa parola *mia*»; su inospitalidad es síntoma de verdad (03, 175-177).
+- **Criterio y fruto de la caridad.** La amistad es «il criterio di riferimento per tutte le Scuole di comunità» (04, 57-59); «Non si può fare la Scuola di comunità… senza che la carità aumenti nei rapporti: è impossibile» (03, 329).
+- **El testimonio de la Scuola.** Natasha, tras año y medio de Scuola en Novosibirsk: «dietro ad aride e morte parole… ho sentito un discorso vivo» (03, 349-351).
+
 ## Distinciones importantes
 
 - **Escuela de comunidad vs. clase**: no es transmisión de doctrina abstracta,

@@ -89,6 +89,12 @@ El Dios de la creación se revela también como Dios de la redención, fiel a su
 
 La creación es «la emanación del ser entero»: no una cadena de inteligencias (contra Avicena), sino que Dios causa inmediatamente la existencia de todo. Crear es producir la totalidad del ser: nosotros damos forma a materia preexistente; Dios produce la cosa y aquello de que está hecha — crear de la nada es no hacer a partir de algo existente sino por algo existente; la distancia entre no-ser y ser es infinita (mayor que entre un caracol y una estrella, que al menos tienen el ser en común): solo el acto puro, con poder infinito, puede crear. El primer efecto es la existencia misma («el primero de los creados es el existir», Liber de Causis). Dios conserva el mundo en el ser por la misma acción con que lo creó — no es relojero (ni intervención puntual, contra Newton; ni hipótesis prescindible, contra Laplace): «quita la causa y no hay efecto», como la luz del sol en el aire. Dios está en las criaturas por presencia, esencia y poder: presencia activa — el existir es lo más íntimo de cada cosa.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+TACDC lee la creación desde la bondad del Ser: «la natura dell'Essere... viene da Dio... la natura dell'Essere è amore» (TACDC, 04, 59), y por eso todo lo que existe tiene su raíz en el «Mistero che fa tutte le cose». La criatura es inseparablemente *dato* y *don*: «non c'è nessuna creatura che si faccia da sé, non c'è nessun uomo che si faccia da sé. Il Mistero, che sta dietro ogni cosa, è come la prospettiva inesorabile di ogni cosa che si vede» (TACDC, 04, 65).
+
+En esta línea cita Sab 1,13-16: «Dio non ha creato la morte e non gode per la rovina dei viventi. Egli infatti ha creato tutto per l'esistenza... Ma l'uomo cerca la morte» (TACDC, 04, 71). El pecado y la muerte son, pues, parásitos de una creación que en sí misma es positiva: «Una positività totale nella vita deve guidare l'animo del cristiano... perché Dio, che ha fatto tutti gli esseri, è per il bene» (TACDC, 04, 73). De esta bondad originaria se sigue una consecuencia moral: «se la natura dell'Essere è amore... Dio non può azzerare neanche una opera buona — una sola! — fatta dall'uomo» (TACDC, 04, 67). Y como toda criatura remite a su Autor, «ogni istante che l'uomo vive è grandissimo: è rapporto con l'infinito» (TACDC, 04, 87).
+
 ## Distinciones importantes
 
 - **Creación ≠ emanación**: Dios no «emana» el mundo de su substancia; lo crea libremente de la nada.

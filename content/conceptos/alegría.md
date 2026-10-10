@@ -49,6 +49,10 @@ El número 14 de *Evangelization & Culture* está íntegramente dedicado a la al
 
 **La tensión propia del peregrino (McNamara/Bernini):** el arte de Bernini (*El éxtasis de Santa Teresa*) captura «la paradoja experimentada por todo miembro de la Iglesia peregrina que vive en la alegría y, sin embargo, espera la plenitud que ha de venir» [EAC-14, 12_art.md]. Véase [[unión_transformante]].
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani contrapone la alegría al léxico del mundo: la «gioia» «è una parola sovrumana: la parola "gioia" non esiste nel vocabolario, nel lessico dell'uomo» que vive sin referencia a Dios. El verdadero gozo brota del «rapporto generativo, reale, concreto, oggettivo, non deciso da me»; así lo testimonia don Paolo Pezzi desde Novosibirsk, describiendo como centro de la propia humanidad «lo scopo... la gloria di Cristo», más verdadero «della meschinità dei miei tradimenti». La alegría pertenece a la esperanza: «letizia e gioia sono solo nella speranza», y se funda en «la presenza di Cristo, resa nota dalla memoria, che ci rende certi del futuro» (TACDC, 04, L35-39).
+
 ## Distinciones importantes
 
 - **Alegría espiritual vs. placer sensible**: la primera procede del Espíritu Santo y reside en la voluntad; el segundo depende de los sentidos corporales.

@@ -19,6 +19,12 @@ El agua viva es un símbolo bíblico de la gracia divina, del Espíritu Santo y 
 
 Jesús promete a la Samaritana «agua viva» que salta hasta la vida eterna (Jn 4,10-14), refiriéndose a la gracia del Espíritu Santo. En la fiesta de los Tabernáculos, proclama: «El que tenga sed, venga a mí y beba; del que cree en mí, como dice la Escritura, brotarán ríos de agua viva» (Jn 7,37-38). El agua viva simboliza la doctrina divina, la gracia santificante y los dones del Espíritu Santo. El Apocalipsis presenta el río de agua viva que brota del trono de Dios y del Cordero (Ap 22,1-2), como imagen de la vida eterna.
 
+## Perspectivas por fuente
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani lee la petición de la samaritana como la reacción de quien, ante la Presencia, no puede dejar de pedir: «chi, Lo intercetta nell'arena della vita, in mezzo alla valanga dei condizionamenti, non può trattenersi dal chiedere, come la samaritana al pozzo, tutta assettata di una vita che i suoi tentativi non erano stati in grado di soddisfare: "Dammi quest'acqua"». El agua viva es así la vida que sacia de raíz una «sete spropositata» que los propios intentos del hombre nunca pudieron apagar: la «unica acqua in grado di soddisfare la sua sete» (TACDC, 01, L29).
+
 ## Distinciones importantes
 
 - **Agua viva vs. agua del pozo**: el agua que Cristo da es sobrenatural y eterna, a diferencia del agua material que sacia temporalmente

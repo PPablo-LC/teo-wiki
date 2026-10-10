@@ -118,6 +118,12 @@ un deseo que «la alienación profunda produce y que es como desesperado».
 **La educación loca.** «Y la educación más loca es la que nunca llama al ideal, es
 el mecanismo habitual y reactivo, que no encuentra una llamada» (01, 85).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Para Giussani la conversión no es un programa de reforma, sino la disponibilidad a dejarse cambiar por el acontecimiento: «Questa è la pienezza cristiana del destino: essere pronti all'evento, lasciare che la sua forza ci traversi, finché possa riplasmarci e rifonderci» (TACDC, 02, 121). La fórmula que resume este cambio es «*è, se opera*» —es, si cambia—: «Cambia: questo è il miracolo» (TACDC, 02, 121). No se trata, pues, de proponerse metas («non propositi»), sino de «guardare una Presenza» (TACDC, 02, 169): quien la mira nace de nuevo, porque «ciò che nasce dallo Spirito... è Spirito che cambia la carne» (TACDC, 02, 169).
+
+La conversión se documenta en el testimonio: «La gente che ha fatto quell'incontro è cambiata e si è messa a parlarne», y ese cambio «è come la crescita di un fiore» (TACDC, 02, 167). Es el advenimiento de un «uomo nuovo» con una «esperienza della realtà» distinta (TACDC, 02, 173). Su punto de partida cotidiano es la mañana: «ci è come ci alziamo ogni mattina, perché questa è la chiave di volta di qualsiasi ascesi, di qualsiasi strada spirituale» (TACDC, 03, 173). Y su forma plena es el «sì» de Pedro, que no nace del recuento de los errores ni de la coherencia, sino del amor a una Presencia: «Il numero non c'entra nel rapporto con Lui!» (TACDC, 03, 211-227).
+
 ## Distinciones importantes
 
 - Conversión primera (Bautismo) vs. segunda conversión (penitencia continua)

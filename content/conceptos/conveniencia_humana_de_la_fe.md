@@ -81,6 +81,12 @@ altro amore?», 01, 329-333) como la pregunta que desata toda la «vera
 convenienza»: hasta qué punto la propia *conveniencia* puede asumir el ideal
 sin temerosa de perder lo suyo.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+TACDC confirma la tesis desde su raíz antropológica: la fe es convenientemente humana porque responde a la «natura originale» del hombre. Como recuerda Ratzinger, «noi possiamo riconoscere solo ciò per cui si dà in noi una corrispondenza» (TACDC, 01, 23); y la Presencia se reconoce precisamente porque «corrisponde al tuo cuore», a una naturaleza «fatta di esigenze di verità, bellezza, giustizia, amore, felicità» (TACDC, 01, 23). La fórmula «Quello che il cuore desidera già esiste» (TACDC, 02, 191) es la otra cara de la *convenienza*: la expectativa del corazón humano no es un espejismo, sino que tiene ya una correspondencia real en el encuentro con Cristo.
+
+De ahí que el fin de la vida no sea una ventaja calculable, sino «il destino della mia vita e della tua, fratello» (TACDC, 01, 53), que se posee solo en la libertad y no por imposición: «il Mistero ci ha creato come esseri liberi, sottomettendosi al tribunale della nostra libertà» (TACDC, 01, 53). La *convenienza* se verifica, pues, en la experiencia: en lo que Giussani llama la «esperienza elementare», el deseo infinito de «felicità, di libertà, di bontà, di giustizia, di amore» que solo el Misterio puede colmar (TACDC, 04, 145-147).
+
 ## Distinciones importantes
 
 - **Conveniencia ventajosa vs. conveniencia humana**: el término italiano

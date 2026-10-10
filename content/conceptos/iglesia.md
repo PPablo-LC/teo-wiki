@@ -136,6 +136,12 @@ todos los hombres— su pertenencia a Cristo» (01, 345).
 reconocido nuestra pertenencia a ella. Esta es la libertad y esta es la fuente de la
 alegría para nosotros, seguridad y alegría» (01, 347).
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani presenta a la Iglesia como la continuación del acontecimiento de Cristo en la historia. El hecho cristiano permanece presente a través de «il mistero della Chiesa, corpo misterioso di Cristo» (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, ll. 45). Esta presencia se prolonga en el tiempo: «la Chiesa la continuità di Cristo nel tempo e nello spazio… Cristo è con noi tutti i giorni fino alla fine del mondo» (ibid., ll. 191, 217-219). La Iglesia es, así, el lugar donde el encuentro con Cristo se renueva continuamente (00_preliminares.md, l. 10), la compañía que permite que la Presencia que nos ha alcanzado siga alcanzando a los hombres. También señala que la falta de hospitalidad obstaculiza «la possibilità di comunicazione del messaggio» (04_alla_ricerca_del_volto_umano_1996.md, ll. 147), poniendo de relieve el vínculo entre la vida eclesial y la acogida.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[iglesia_cuerpo_místico]]

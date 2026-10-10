@@ -59,6 +59,11 @@ El desorden en el uso del sexo «lleva sucesivamente al desprecio de la vida hum
 ### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
 
 Tóth cierra su condena del matrimonio deliberadamente estéril contrastando la matanza de los inocentes de Herodes con las madres modernas que «van en busca del verdugo y le pagan por matarlos» [EMC, cap. 13] — anticipación profética de la crisis abortiva. Frente a ella, exalta a las **mártires de la maternidad**, madres que arriesgan la vida por el hijo (1 Tim 2,15: «se salvarán dando a luz») [EMC, cap. 14].
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani enmarca la defensa de la vida en el nacimiento de una «cultura nuova», fruto de la «esperienza nuova della realtà» que brota del encuentro con Cristo. Esa cultura es «più corrispondente a tutti i fattori del nostro io», pues «difendere la vita è più corrispondente che negare la vita, per qualsiasi motivo». De ahí su realismo sobre la reacción del mundo: «è impossibile che il novantanove per cento della gente senta parlare il Papa così insistentemente contro l'aborto, senza averne almeno una specie di seccatura», porque «è intollerabile per loro che uno difenda la vita fino a questo punto». Frente a la debilidad de la afectividad humana, esa misma cultura sostiene «la difesa della fedeltà, della grande virtù della fedeltà»: «Quando ogni altro sentimento cessa, un solo sentimento rimane: la fedeltà» (TACDC, 02, L175).
+
 ## Distinciones importantes
 
 - **Aborto directo vs. indirecto**: el aborto directo (intencional) siempre es ilícito; el indirecto (consecuencia no querida de un acto lícito) requiere análisis moral particular

@@ -50,6 +50,12 @@ La cooperación moral del hombre al don de Dios se expresa en los Escritos Apost
 - **La creatura nuova renacida en el Bautismo** — pertenecer a Dios coincide con pertenecer a Cristo (2Cor 5,14-15; Rm 14,7-8; Gal 2,20) (DLV 15, 15-31).
 - **La mentalidad nueva del cristiano** — «Cristo è entrato nel mondo in polemica col mondo» (Garofalo): la fe nueva en Cristo abre a una mentalidad y a una moralidad nuevas (DLV 10, 3-31).
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani observa que, cuando Cristo actúa, la estructura humana permanece «tale e quale, nella sua apparenza», pero «ha un altro significato»: «è tale e quale, possono tutti osservare i suoi difetti... ma è nuovo in lui il cuore» (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, ll. 87). Esta novedad no es una mejora moral, sino una recreación interior: el bautizado participa en la muerte y resurrección de Cristo que «muta dal di dentro», dando lugar a la «creatura nuova» de san Pablo (ibid., ll. 45). Así, el hombre nuevo no es otro hombre, sino el mismo hombre cuya vida está asumida y transformada por Cristo presente en él.
+
 ## Distinciones importantes
 
 La *Redemptor Hominis* distingue entre la condición del hombre caído (sujeto al pecado, a la vanidad de la creación, a la muerte) y el hombre redimido en Cristo (nuevamente creado, elevado a la filiación divina, destinado a la vida eterna). El paso de una condición a otra se realiza por la unión con Cristo en el misterio de la Redención.

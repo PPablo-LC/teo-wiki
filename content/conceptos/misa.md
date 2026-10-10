@@ -91,6 +91,17 @@ La celebración diaria es encomiable y recomendable para que los fieles nutran s
 Tóth recorre las partes de la misa como el «engarce del diamante»: todo el rito conduce a la piedra de la transubstanciación [EMA, cap. 8]. Recoge la descripción de san Justino (Apol. 1,6) y el simbolismo del altar (crucifijo, velas, flores). Destaca el **Kyrie eleison** como confesión de fe frente al culto pagano al emperador; el Canon rezado en voz baja, como Moisés en el Santo de los Santos [EMA, cap. 9]; y la **Consagración como centro**: «en este momento se cifra toda la misa», con su doble transformación — la hostia en el Cuerpo de Cristo y el hombre viejo en imagen viva de Cristo [EMA, cap. 10]. El **Ite missa est** no es simple despedida sino envío: «ahora comienza tu sacrificio».
 
 **Cómo asistir:** los fieles participan con su sacerdocio real, ofreciendo la Víctima divina y a sí mismos con ella; tres momentos: oración expiatoria, oblación (poner en la patena las pruebas del día) y la elevación («Señor mío y Dios mío»). «Cual fuere tu misa, tal será tu fe, tu moral y tu vida» [EMA, cap. 6].
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En TACDC, la Misa aparece como **precepto vital para la vida cristiana** y **ofrecimiento por los difuntos** dentro de la compagnia:
+
+- **Misa dominical como condición de vida** — «Almeno una volta alla settimana, riunitevi, popolo cristiano! Meno di così si muore: peccato mortale... Almeno una volta ogni tanto, purificatevi al lavacro della croce e della resurrezione di Cristo, nella Confessione. Meno di così si muore: peccato mortale. Almeno quando Cristo risorge nel giorno di Pasqua, almeno nel tempo pasquale, unitevi, riconoscete e accettate di essere appartenenti a Lui» (02_il_tempo_si_fa_breve.md, l. 225). La Misa semanal no es una obligación externa, sino el ritmo vital sin el cual «si muore»: la vida cristiana no se sostiene sin la participación en el Sacrificio eucarístico.
+
+- **La Misa como gesto de pertenencia a Cristo** — Seguir «la Messa e i sacramenti, le leggi fondamentali della vita del popolo cristiano, attraverso cui esso è mantenuto unito, organicamente unito e diretto dai pastori stabiliti da Cristo» (ibid., l. 227). La Misa es el modo objetivo en que el cuerpo místico de Cristo se comunica a la vida de cada creyente.
+
+- **Misa aplicada por los difuntos de la compagnia** — Al final de los Ejercicios de 1996, Giussani pide al nuevo obispo Filippo Santoro que celebre la Misa «per i nostri defunti, i nostri fratelli defunti, chi è appartenuto alla Fraternità ed è defunto, che intercedano dal Cielo per i nostri bisogni che loro ben sanno» (04_alla_ricerca.md, ll. 175-177). La Misa une a los vivos y a los difuntos en la misma compagnia, en la comunión de los santos que sostiene la misión.
+
 ## Distinciones importantes
 
 - La Misa no es una "repetición" del Calvario sino su actualización sacramental

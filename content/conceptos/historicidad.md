@@ -69,6 +69,12 @@ en el tiempo que pasa, hay una Presencia que nadie más podrá arrancar»
 - **1987**: la identificación con Cristo (Zaqueo) como experiencia de un
   acontecimiento que «ha ocurrido una vez» y cambia para siempre (03, 65).
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani subraya que el cristianismo es un *avvenimento* histórico: una Presencia que se ha hecho encontrable con los sentidos, «in qualcosa che si può intercettare con i propri sensi, che si può vedere, udire e toccare» (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, l. 25). Ese acontecimiento inicial no queda relegado al pasado, sino que «continua a rimanere presente» en la historia a través de la Iglesia, «corpo misterioso di Cristo» (ibid., l. 45). Además, la historia misma es el lugar donde este encuentro se repite continuamente: «il cristianesimo è un nuovo inizio, che ogni giorno riviviamo in filigrana nel corso della storia, una storia in cui l'incontro di vita con Gesù viene continuamente ripetuto» (00_preliminares.md, l. 10). De este modo, la historicidad del hecho cristiano no es meramente pasada, sino presente y operante en la historia.
+
 ## Distinciones importantes
 
 - **Historicidad vs. historicismo**: el historicismo disuelve lo eterno

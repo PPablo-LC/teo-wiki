@@ -68,6 +68,10 @@ Para Giussani, la alianza es ante todo fidelidad a la elección gratuita de Dios
 
 La alianza no se mide por los pecados: «Esta es la alianza, porque la alianza no se mide por los pecados o por los no pecados: es siempre un caída moralista la que deprime la grandeza de la relación que Dios ha venido a establecer como hombre cerca de mí». «Estamos aquí porque está el Señor» (AED, 22, 131-133). El fundamento de la vida del creyente es la certeza en la fidelidad de Dios: «La certeza en la fidelidad de Dios es el fundamento, es la alianza» (AED, 22, 145).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani define la Alianza a partir del amor electivo de Dios: «la Bibbia chiama "Alleanza" questo amore che Dio ha verso gli uomini che sceglie perché capiscano chi è... e collaborino alla Sua fantasia creatrice, alla Sua affezione redentiva, alla Sua amicizia elettiva». Dios se pone al hombre como Padre —«un legame di amore generativo, continuamente generativo e ultimamente salvifico»—, y esa elección «piena di preferenza, piena di preferenze» es lo que el creyente reconoce al poder llamarlo «Abbà, Padre!» (Gal 4,6). En contraste, la Escritura llama también «una sorta di alleanza con la morte» a la vida vivida sin significado, aunque «noi non siamo fatti per la morte» (TACDC, 03, L55; 01, L17).
+
 ## Distinciones importantes
 
 - **Antigua Alianza vs. Nueva Alianza**: la primera fue preparatoria y figura de la segunda; la Nueva es eterna y perfecta

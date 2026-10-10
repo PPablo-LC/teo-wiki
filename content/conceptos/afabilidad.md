@@ -45,6 +45,10 @@ La afabilidad o amistad es una virtud, parte potencial de la justicia, que se di
 
 [TPCr, Parte III, Libro II, Cap. II, n.427]
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Comentando Fil 4,4-9, Giussani lee la afabilidad como rasgo del nuevo pueblo: «La vostra affabilità sia nota a tutti gli uomini» —«ci sono delle persone che sono così umane nei rapporti, che sempre fanno venire voglia d'appoggiarsi a loro, di andare da loro, di sentire loro»—. Esa afabilidad debe ser «caratteristica di tutti gli appartenenti a questo gregge, che è questa nuova realtà vivente, protagonista, per Gesù, della storia». Va unida a la alegría («Rallegratevi nel Signore, sempre») y a la paz que custodia el corazón, y nace del anuncio «Il Signore è vicino!» (TACDC, 03, L291).
+
 ## Distinciones importantes
 
 - **Afabilidad vs. caridad**: la caridad obliga en justicia a socorrer al prójimo como hermano; la afabilidad se funda en la honestidad y conveniencia social

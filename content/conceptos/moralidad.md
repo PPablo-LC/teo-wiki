@@ -80,6 +80,14 @@ Dios”: «Vuélvete, Israel, al Señor tu Dios» (Os 14,2; 03, 123).
 encontrado en él, no con una justicia mía derivada de mi moralidad [la Ley], sino
 con la que deriva de la fe en Cristo» (Flp 3,8-9; 03, 119).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+El aporte más característico de TACDC es situar el origen (*scaturigine*) de la moralidad en el «sì» de Pedro a Cristo. El capítulo 21 de san Juan es «la chiave di tutta quanta la concezione cristiana dell'uomo, del suo rapporto con Dio... della sua moralità» (TACDC, 03, §199-201): ante la triple pregunta «Simone... mi ami tu?», el apóstol responde afirmando «una eccellenza suprema», y «È questo "sì" la scaturigine della moralità, il primo fiato di moralità sul deserto arido dell'istinto» (§211). De ahí el principio: «non c'è moralità senza che il gesto abbia come motivo una Presenza» (§211); sin una Presencia dominante el hombre queda como el ciego de [[giovanni_pascoli]], guiado por el mero instinto (§213-217).
+
+La moralidad no es análisis de comportamientos ni cálculo de coherencias: «Non è l'analisi dei fenomeni... l'inizio di una morale; può darsi... l'inizio di una morale laica, ma non di una morale umana. L'atto d'inizio di una moralità umana è un atto di amore» (§257-261). Por eso la esperanza en Cristo prevalece sobre la propia incoherencia: quien vive esa esperanza «continua nell'ascesi», y «La parola "moralità"... gli fa paura... ma Cristo no» (§229). La moralidad es, más bien, seguimiento de una atracción: «La morale segna la strada per andare al destino», y el deseo infinito de «felicità, di libertà, di bontà, di giustizia, di amore» es la «esperienza elementare» (TACDC, 04, §145-147).
+
+En los Ejercicios de 1996, [[josé_miguel_garcía|don José Miguel García]] presenta la amistad como «sorgente della vera moralità», y sitúa el inicio de la moral en el «domandare»: «Tra il dire e il fare c'è di mezzo il mare» → «il domandare»; «L'uomo che domanda, fosse anche distrutto dal suo male, è vermente figlio di Dio» (§101-103).
+
 ## Distinciones importantes
 
 - **Moralidad objetiva vs. subjetiva**: la moralidad objetiva depende del acto mismo; la subjetiva de la intención y el conocimiento del agente

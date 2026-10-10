@@ -210,6 +210,13 @@ DLV vincula la esperanza a la fe como reconocimiento de la Presencia y a la vict
 - **El Resucitado como bien** — «il bene che è Cristo risorto»: la positividad que hace razonable continuar viviendo (DLV 21, 33-35).
 - **Abramo: la nascita dell'io** — el io definido por la conciencia del rapporti con el infinito; el orar como scongiurare a Quien pertenecemos, «perché non ci abbia chiamati invano» (DLV 19, 7-11).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+- **La esperanza como certeza en el futuro por una Presencia presente.** Volantone di Pasqua 1996: «La speranza è una certezza nel futuro in forza di una realtà presente… è la presenza di Cristo, resa nota dalla memoria, che ci rende certi del futuro» (04, 35).
+- **Contra la opinión de que todo acaba en la nada.** La «gratitudine sterminata» y la alegría en el rostro de un amigo «smentiscono l'opinione diffusa che tutto finisca nel nulla e che non ci sia speranza del futuro» (01, 7); con Luzi, «La mente cristiana è piena di attesa / e il passato è un seme del futuro o niente» (02, 101).
+- **La esperanza que prevale sobre la incoherencia.** Cristo «era la fonte, il luogo della sua speranza» pese a los pecados pasados y futuros —«Il numero non c'entra nel rapporto con Lui!»—: «Chiunque ha questa speranza in lui, purifica se stesso, come egli è puro» (1 Gv 3,3) (03, 225-227); «L'uomo che vive questa speranza in Cristo continua nell'ascesi» (03, 229).
+- **La esperanza como gracia.** Con Péguy: «Per sperare […] bisogna aver ricevuto una grande grazia»; y la gran gracia es «che abbiamo saputo che Dio è diventato uno di noi ed è con noi» (04, 45-47). Por eso el cristiano mira al futuro con la certeza de que «c'è un futuro, c'è un domani dell'oggi, nel quale la speranza troverà più spazio» (03, 353-357).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]

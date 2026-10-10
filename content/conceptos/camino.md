@@ -29,6 +29,10 @@ El VocTeoBib desarrolla el tema del camino en tres grandes secciones. Primero, l
 
 Tercero, Cristo como camino vivo: el VocTeoBib subraya que la era mesiánica es un nuevo Éxodo que conduce al reposo de Dios. Jesús, nuevo Moisés, es el guía que llama a seguirle. La transfiguración ilumina un momento este camino, pero el anuncio de la pasión recuerda que la entrada en la gloria pasa por el Calvario. Los Hechos llaman al cristianismo «la Vía» (Act 9,2; 18,25; 24,22), porque este camino no es una ley sino una persona: Jesús (Jn 14,6).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani contrasta la sentencia de Kafka —«Esiste un punto d'arrivo, ma nessuna via»— con la respuesta de Cristo: «Io sono la via, la verità e la vita» (Gv 14,1-6). Comenta que Jesús «è l'unico uomo che, nella storia di tutta l'umanità, abbia potuto dire: "Io sono la via, la verità e la vita"». Frente a las «parole morte» de los sabios, san Bernardo invita a buscar al Verbo hecho carne: «Perché cerchi tra parole morte il Verbo, se Egli, fattosi carne, si è reso visibile?». Y san Agustín desarrolla la paradoja: «Rimanendo presso il Padre, era verità e vita; rivestendosi della nostra carne, è diventato la via… Pigro, alzati! La via stessa è venuta a te… Alzati e cammina!». Así, el camino no es una visión que construimos, sino «una realtà presente» que se nos impone: «è, se opera», es decir, es verdadero si cambia la vida.
+
 ## Distinciones importantes
 
 - **Dos vías**: la moral bíblica presenta la elección fundamental entre el camino del bien (vida) y el del mal (muerte).

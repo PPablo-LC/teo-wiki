@@ -36,6 +36,12 @@ timestamp: 2026-09-18
 - **Il senso della storia è Cristo** — la historia tiene su sentido en Cristo (15, 15-31)
 - **Centro de la creación** — Cristo, momento supremo de la creación, «omnia in ipso constant» (Col 1,17) (11, 59-71)
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+TACDC recoge la fórmula en su sentido más amplio: «Cristo tutto in tutti» (Col 3,11) es «la grande legge della storia, del tempo e dello spazio» (TACDC, 03, 51-53). Giussani la une al ardor del amor a Cristo —«*Fac ut ardeat cor meum in amando Christum Deum*», del *Stabat Mater* de Dvořák (TACDC, 03, 51)— y a la conciencia de que el sentido de la vida es Cristo: «Cristo è tutto! L'odio a Cristo è l'odio al senso della vita» (TACDC, 03, 167).
+
+El texto de san Máximo el Confesor (*Mistagogia* I) vuelve como su clave: Cristo es «come un centro in cui convergono le linee – affinché le creature del Dio unico non restino estranee e nemiche le une con le altre, ma abbiano un luogo comune dove manifestare la loro amicizia e la loro pace» (TACDC, 02, 43). De ahí que «la verginità è riconoscere Cristo “tutto in tutti”», tendiendo a vivirlo en todas las cosas y relaciones (TACDC, 03, 327); y que el sentido de la historia sea «la gloria di Cristo», único fin del vivir (TACDC, 04, 39).
+
 ## Distinciones importantes
 
 - **«Dio tutto in tutto» ≠ «Cristo tutto in tutti»** — la primera es la afirmación ontológica del Ser; la segunda la concreción histórica: el Ser se ha hecho un hombre.

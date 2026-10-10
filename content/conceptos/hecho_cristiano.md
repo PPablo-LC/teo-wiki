@@ -34,6 +34,12 @@ La preocupación educativa de Giussani es comunicar «la razonabilidad del hecho
 - **Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — el «hecho anómalo» en la historia religiosa: no un fundador que propone un camino, sino una Voz que afirma «Yo soy la Via, la Verdad y la Vida» (Jn 14,6); «en un momento determinado, dentro del tiempo» (Lc 3,1-2). Frente a la religión como constructo humano —«tentativa de construcción teórica, ética y ritual del modo en que el hombre imagina la relación con el destino»—, el cristianismo es un hecho acontecido que se acoge: después de Cristo el mundo «fijó los años» para aquel camino.
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — método para llegar al hecho: un «incontro presente, esistenziale», la comunidad cristiana actual; «Ecco dov'è Cristo: dov'è la Chiesa»; el hecho cristiano permanece como presencia y pertenencia.
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — características que la conciencia moderna arriesga perder: (a) el hecho cristiano como **fatto totalizzante** (lo abarca todo: no dimension aparte de la vida); (b) su **objetividad** — «no se trata de imaginar o inventar, sino de seguir» (Claudel); (c) la fe que deviene *cultura* — una manera de estar en la realidad que no se reduce a culto; y la reductio «protestante» (a Palabra y a conciencia) que lo afievola.
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani insiste en que el cristianismo es un *avvenimento*: una Presencia que se ha hecho encontrable en lo sensible, «in qualcosa che si può intercettare con i propri sensi, che si può vedere, udire e toccare» (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, l. 25). Ese acontecimiento permanece en la historia a través de «il mistero della Chiesa, corpo misterioso di Cristo» (l. 45). La única respuesta eficaz al vacío de sentido es una «vita traboccante» que disputa a la muerte; esa vida se comunica no por argumentos, sino por el encuentro con una Presencia que «corrisponde al cuore» (pp. 43-44, 49). Así, el hecho cristiano es el modo concreto en que la misericordia de Dios nos alcanza para arrancarnos del *nulla* (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md).
+
 ## Distinciones importantes
 
 - **Hecho vs. teoría**: el cristianismo es un acontecimiento, no un sistema de ideas; se verifica en la experiencia.

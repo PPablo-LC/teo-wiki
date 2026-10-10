@@ -34,6 +34,10 @@ La práctica de los Ejercicios fue recomendada insistentemente por el Magisterio
 
 TPCr, Tercera Parte: Recomienda los ejercicios espirituales anuales como medio indispensable para la perseverancia y el progreso en la perfección cristiana.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+TACDC reúne precisamente las lecciones y los diálogos de don Giussani «durante gli Esercizi spirituali della Fraternità di Comunione e Liberazione» celebrados en Rimini en 1994 («Il tempo si fa breve»), 1995 («Si può vivere così») y 1996 («Alla ricerca del volto umano») (00, 10; 04, 1-3). Ilustra así el género «ejercicios espirituales» en su forma viva: la predicación como «espressione della sua riflessione, messa in comune con i suoi "amici", come amava dire, per un dialogo sincero e costruttivo» (04, 5); el gesto de apertura bien definido —«chiedere – cioè pregare e ascoltare – e mantenere un rigoroso silenzio» (03, 23-25)—; y su alcance universal: los Ejercicios «sono il giorno di ritiro per tutti, per tutte le comunità del mondo» (04, 97-99). La obra conserva además los telegramas del Papa y de los pastores que manifiestan la escucha eclesial de esta experiencia (04, 21-25).
+
 ## Relaciones doctrinales
 
 Se relaciona con el [[recogimiento]], la [[oración_mental]], el [[examen_de_conciencia]], el [[discernimiento_espiritual]] y la [[conversión]]. Los Ejercicios de San Ignacio están en la base de la [[espiritualidad_ignaciana]].

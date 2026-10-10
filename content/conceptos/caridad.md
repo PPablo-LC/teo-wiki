@@ -326,6 +326,10 @@ también no en el tiempo libre, arriesgadas como alternativa a un trabajo apacib
 en el sentido de seguro» (03, 181); son ellas las que «constituyen una verdadera
 aportación de novedad en el tejido y en el rostro social» (03, 181).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Para Giussani la *caritas* es aquel amor «senza nessun tipo di calcolo, senza nessun tornaconto, puro; amore puro, gratuito», cuya característica más propia es la «abolizione dell'estraneità»: no solo el propio hijo o la propia madre, sino también «l'uomo che passa per la strada e viene da chissà dove». Ese amor puro es «il miracolo umanamente più affascinante e persuasivo del fatto cristiano», y la amistad que de él nace —«L'amicizia è un amore reciproco. Senza reciprocità non c'è amicizia»— es «l'espressione della natura di Dio». En los Ejercicios de 1994, la caridad aparece además como la vocación misma del cristiano: «la carità – questa imitazione suprema di Dio –, la gratuità, quindi, sia legge»; y como el lugar donde se experimenta ya el inicio del eterno, pues «l'esperienza dell'eterno… è quella della carità tra di noi, dell'amicizia tra di noi», una caridad concreta que quiere que «nessuno di noi abbia un bisogno che non trovi la compassione, cioè la carità, in tutti gli altri».
+
 ## Referencias
 
 - CEC §1822-1829

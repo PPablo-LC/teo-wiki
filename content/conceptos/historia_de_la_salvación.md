@@ -56,6 +56,12 @@ La historia de la salvación se presenta como un relato que engarza la variedad 
 
 Se presentan ocho épocas de la Antigua Alianza, cada una con cronología detallada, libros bíblicos relacionados, mapas e infografías. La cronología de la Nueva Alianza adopta el punto de vista de Tierra Santa y sus épocas históricas.
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani señala que el cristianismo es un «nuevo inizio» que se revive en filigrana a lo largo de la historia, pues «l’incontro di vita con Gesù viene continuamente ripetuto» (00_preliminares.md, l. 10). La vida traboccante que Cristo nos comunica disputa a la muerte y, por ello, «Solo una vita traboccante può contendere efficacemente con la morte» (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, ll. 19-21). Esta novedad no permanece abstracta: el hecho cristiano se prolonga en la historia a través de la Iglesia, «corpo misterioso di Cristo», que lo hace presente en cada tiempo (ibid., ll. 23-45). Así, la historia de la salvación no es solo el relato del pasado, sino que el encuentro con Cristo se renueva continuamente en la historia, sustentado por su permanencia eclesial.
+
 ## Distinciones importantes
 
 - **Historia de la salvación vs. historia profana**: La historia de la salvación es la interpretación teológica de los hechos históricos a la luz del designio divino

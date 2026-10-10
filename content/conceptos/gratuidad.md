@@ -6,6 +6,7 @@ tags: ["moral", "teología_espiritual"]
 timestamp: 2026-10-02
 description: "La gratuidad es la cualidad del amor que se da sin esperar retribución, reflejo del amor mismo de Dios que crea, salva y santifica por pura iniciativa de amor."
 ---
+
 # Gratuidad
 
 > Área: Moral / Teología espiritual
@@ -55,11 +56,11 @@ Señor en nuestra vida» (01, 179).
 **Maranátha.** «No la búsqueda de la perfección —pues ésta es milagro de Dios: a
 nosotros nos es imposible, pero a Dios todo le es posible—, sino mendigar que
 Cristo venga, que Dios venga. Es la primera oración de los cristianos que nos ha
-sido transmitida: *Maranátha*, “Ven, Señor”, con la que concluye toda la Biblia,
-con la que concluye el Apocalipsis. Y el Señor dice: “Vengo pronto” (Ap 22,20; 01,
+sido transmitida: *Maranátha*, "Ven, Señor", con la que concluye toda la Biblia,
+con la que concluye el Apocalipsis. Y el Señor dice: "Vengo pronto" (Ap 22,20; 01,
 179).
 
-**Empezar por el «gracias».** «Empezar por el “gracias”, antes incluso de tener,
+**Empezar por el «gracias».** «Empezar por el "gracias", antes incluso de tener,
 quiere decir ser capaces de recibir bien, porque es sólo la gratitud la que hace
 capaces de recibir bien. Esta es una condición creatural, porque somos criaturas,
 somos hechos» (02, 187).
@@ -72,7 +73,23 @@ nuestra libertad lo permite, es lo único que da sentido a la vida» (01, 349).
 Cristo. La gratuidad absoluta, la caridad como gratuidad total, es reconocer que
 Dios se ha hecho uno de nosotros» (03, 247).
 
-## Distinciones importantes
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los *Esercizi* 1994-1996, la gratuidad emerge como la lógica propia del hecho cristiano, opuesta a todo cálculo mundano:
+
+- **La amistad como *charis* (gratuidad)**: «L'amicizia è un amore reciproco. Senza reciprocità non c'è amicizia»; «È abolita l'estraneità» — «il miracolo umanamente più affascinante e persuasivo del fatto cristiano»; *«Charis è una parola greca che vuol dire gratuità… amore senza alcun calcolo»* (01, 57; 04, 61). La gratuidad no es ausencia de reciprocidad, sino reciprocidad sin cálculo: «puro, nudo e crudo amore» (04, 61).
+
+- **Amar «perché c'è»**: citando a Ada Negri, «Ami, e non pensi essere amata… ami il bambino non perché è tuo, ma perché c'è»; «non c'è nessun uomo che si faccia da sé. Il Mistero, che sta dietro ogni cosa, è come la prospettiva inesorabile di ogni cosa che si vede» (04, 63-65). La gratuidad afirma el ser del otro, no su utilidad.
+
+- **La caridad como imitación suprema y gratuidad como ley**: «siamo stati chiamati… a rendere presente il mistero della Sua presenza, facendo della Sua volontà la forma delle nostre azioni»; «la carità – questa imitazione suprema di Dio –, la gratuità, quindi, sia legge» (03, 143-145). La gratuidad no es opcional: es la ley de la vida cristiana.
+
+- **El encuentro como gracia gratuita**: «Cristo ci ha messi insieme attraverso un incontro... Ci ha messi insieme un incontro misterioso, gratuito, una grazia. Impensabile è il modo in cui tu e io ci conosciamo e siamo fratelli» (03, 159). La fraternidad nace de un don inmerecido.
+
+- **La misericordia como «ingiustizia» gratuita**: «la misericordia no! C'è una eccedenza… sembra che Dio compia una "ingiustizia" perdonando perfino quello!» (04, 53). La gratuidad divina excede toda proporción de mérito; el perdón matemático es concebible por la razón, la misericordia no.
+
+- **La positividad de la creación**: «Dio non ha creato la morte e non gode per la rovina dei viventi… le creature del mondo sono sane… Dio è l'ipotesi positiva su tutto ciò che l'uomo vive» (Sap 1,13-16; 04, 71). La gratuidad se funda en la bondad original del ser.
+
+## Distincioni importanti
 
 - **Gratuidad vs. mérito**: La gratuidad divina no excluye el mérito humano, sino que lo funda; el mérito cristiano procede de la gracia, que es gratuita.
 - **Gratuidad vs. intercambio**: La sociedad tiende a reducir todas las relaciones a intercambio; la gratuidad introduce una lógica distinta, la del don.

@@ -33,6 +33,10 @@ Jesús eleva el amor al nivel de mandamiento nuevo: «Os doy un mandamiento nuev
 
 El CEC enseña que el mandamiento del amor es «el mandamiento nuevo» (CEC 1823-1825). El amor es el primer mandamiento de la Ley (CEC 2052). El agapē es el «corazón de la moral evangélica» (CEC 1966).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani funda el *agapē* en la naturaleza misma de Dios: «la natura dell'Essere è amore: *Deus caritas est*». Siendo el hombre creado a su imagen, «la virtù suprema sarà questa caritas», según el mandato «Da questo tutti sapranno che siete miei discepoli, se avrete amore gli uni per gli altri» (Gv 13,35). Su nota propia es la abolición de la extrañeza: «Non solo tuo figlio, non solo tua madre, ma l'uomo che passa per la strada e viene da chissà dove. È abolita l'estraneità», el «miracolo umanamente più affascinante e persuasivo del fatto cristiano». Ese amor es *charis*, «una parola greca che vuol dire gratuità... amore senza alcun calcolo: puro, nudo e crudo amore», y por eso «si chiama *caritas*» (TACDC, 04, L57-61).
+
 ## Distinciones importantes
 
 - **Agapē vs. eros:** El agapē no busca recibir sino dar; no se basa en la atracción sino en la decisión de querer el bien del otro. Sin embargo, en Dios ambos se unen: Dios ama con *agapē* y también desea la salvación del hombre (*eros* divino).

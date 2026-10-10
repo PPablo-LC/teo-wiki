@@ -94,6 +94,19 @@ Esta coincidencia del Misterio con lo humano es precisamente lo que la fe anunci
 
 - **Parte quarta, Cap. 2 (archivo `04_parte_quarta_presenza_e_storia.md`)** — la liturgia como «desarrollo orgánico, en palabras y acciones, de los gestos sacramentales en que Dios se comunica al hombre»: es el lugar concreto donde el sentido religioso alcanza su Objeto divino con la máxima certeza y seguridad concedida al hombre en camino. Es también «el más perfecto instrumento de educación del sentido religioso, la más segura y completa pedagogía».
 - **Parte quarta, Cap. 2** — el *espíritu litúrgico* tiene dos directrices educativas: renunciar a la afirmación autónoma e independiente de uno mismo para integrarse en el todo orgánico de la comunidad, y comprometerse del todo para enriquecer la comunidad con la propia personalidad. De la persona, debe invadir la sociedad en todos sus niveles y animar el movimiento de la historia y del cosmos.
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En TACDC, la liturgia emerge como **lugar donde Dios habita** y **expresión de la misericordia que supera la culpa**:
+
+- **El templo como "dimora" de Dios** — «Il metodo con cui Dio entra in rapporto col mondo... è quello di stabilire un luogo... la Sua "dimora", il Suo tempio. Un luogo, cioè, dove tutto ciò che c'è è per Lui, per servirLo, dove tutto ciò che vi vive dentro è per cantare la Sua gloria, dove tutto ciò che esiste dentro le sue pareti è per "obbedirLo", cioè per amarLo: il luogo dell'amore, il luogo dove tutto è amore come coscienza vivente» (03_si_può_vivere_così.md, l. 139). La liturgia es la realización de este lugar: el espacio donde todo es para Dios y todo es amor como conciencia viva.
+
+- **Liturgia ambrosiana: la misericordia mayor que la culpa** — Prefacio del XVI domingo *per annum*: «donandoci una medicina più forte delle nostre piaghe, una misericordia più grande della nostra colpa... il peccato... è servito ad elevarci alla vita divina» (04_alla_ricerca.md, l. 249). La liturgia celebra que el pecado, por la misericordia, se convierte en ocasión de elevación a la vida divina.
+
+- **Sencillez y liturgia** — «In simplicitate cordis mei laetus obtuli universa»; «Notam faciam gloriam nominis mei in laetitia cordis eorum» (confraterio ambrosiano) (04_alla_ricerca.md, l. 31). La liturgia auténtica nace de la sencillez del corazón y genera la letizia que glorifica el nombre de Dios.
+
+- **Inno delle Lodi** — «L'aurora risplende di luce», Inno delle Lodi della domenica (04_alla_ricerca.md, l. 131, citando *Il libro delle ore*). La oración litúrgica de la mañana expresa la claridad nueva que Cristo trae.
+
 ## Ver también
 
 [[sacramentos]], [[eucaristía]], [[oración_litúrgica]], [[iglesia_cuerpo_místico]], [[sacramentales]]

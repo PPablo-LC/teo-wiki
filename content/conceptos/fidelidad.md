@@ -6,6 +6,7 @@ tags: ["moral"]
 timestamp: 2026-09-13
 description: "La fidelidad es la virtud moral que inclina la voluntad a cumplir lo prometido, conformando la promesa con los hechos. Está íntimamente relacionada con la veracidad y la simplicidad."
 ---
+
 # Fidelidad
 
 > Área: Moral
@@ -87,6 +88,18 @@ La fachada de la catedral enseña que la diversidad de estilos sacerdotales es u
 En la Tischrede 41 (AED, 12, 85), la fidelidad es correspondencia a la alianza: «Come Dio è fedele alla sua alleanza, così noi siamo fedeli all'alleanza che Cristo ha avuto con noi: ci stiamo». La primera cosa es «essere fedeli alla strada», sostenida por «la fedeltà alla compagnia, perché rende facile, visibile e sensibile quello che non è visibile e sensibile sempre»; como de Cristo se dice —«il suo non è un sì o un no: il suo è un sì» (cf. 2Cor 1,19)—, así el fiel «ci sta».
 
 En la Tischrede 49 (AED, 33, 85), «la fedeltà è il nesso tra l'amore, come si percepisce, e la totalità. La fedeltà è la moralità dell'amore»; y en la Tischrede 45 (AED, 17, 269), es «l'obbedienza nel suo dinamismo attuantesi». En la Tischrede 180 (AED, 28, 127-131), su fundamento es ontológico: «vi rende ognuna membro dell'altra; sì, come parte di un corpo il cui io è Cristo» (cf. Rm 12, 5; 1 Cor 12), y «non c'è, per sé, nessuna possibilità di bello o di cattivo che lo possa contestare».
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los ejercicios de 1994-1996, la fidelidad aparece como la correspondencia que sostiene la vida cristiana frente a la tentación del olvido y la dispersión:
+
+- **La fidelidad como único sentimento que permanece**: en los ejercicios de 1994, ante la defensa de la vida y el aborto, Giussani observa: «quando ogni altro sentimento cessa, un solo sentimento rimane: la fedeltà» (02, 175). La fidelidad es lo que queda cuando todo lo demás falla.
+
+- **La dificultad como vía de autenticidad**: en 1995, la carta pascual de una joven expresa: «La difficoltà entra come straniera nella normalità del quotidiano, affinché il rapporto con Cristo sia più autentico… dispoto all'obbedienza totale, fino alla croce, con la certezza della risurrezione» (03, 41). La fidelidad no es ausencia de dificultad, sino obediencia en la dificultad.
+
+- **La palabra dicha con sinceridad**: «pronunciando questa parola con sincerità che le cose incominciano a perdere la loro opacità, come… la notte che passa dall'alba alla prima aurora» (03, 47). La fidelidad se verifica en la sinceridad de repetir las palabras de la fe aun en la incoherencia.
+
+- **Correspondencia real en el amor y en la familia**: «fatica diuturna… quella regola diuturna… con tutto e con tutti e tra di voi non avrà affinato nel vostro animo la prospettiva dell'amore»; sin esa perspectiva «non c'è vera corrispondenza – in niente! –, non c'è amicizia» (04, 117). La fidelidad conyugal se mide en el tacere por el destino del otro: «anche se tuo marito continuerà in una cosa in cui sbaglia gravemente… tu glielo avessi già detto in cento maniere, tacerai, cioè glielo dirai in cento altre maniere più giuste, facendogli vedere che tu muori per quello» (04, 117-118).
 
 ## Distinciones importantes
 

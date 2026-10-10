@@ -29,6 +29,12 @@ La creación (particularmente la criatura humana) está abierta a un destino ete
 
 Los milagros de Cristo entran en el proyecto de la «creación nueva» y están, pues, vinculados al orden de la salvación. Son «signos» salvíficos que llaman a la conversión y a la fe, y en esta línea, a la renovación del mundo sometido a la «corrupción» (Rom 8,19-21). No se detienen en el orden ontológico de la creación (creatio), al que también afectan y restauran, sino que entran en el orden soteriológico de la creación nueva (recreatio totius universi), del cual son co-eficientes y del cual, como «signos», dan testimonio (CrSJP, cateq. 13-I-1988, n. 4).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+La «creatura nueva» paulina expresa en TACDC el efecto del misterio pascual sobre el creyente: la muerte y resurrección de Cristo, «investendone la personalità e la realtà dell'esistenza fin nel midollo, muta dal di dentro» al bautizado, «generando la “creatura nuova” di cui parla san Paolo» (TACDC, 01, 45). El punto de partida bíblico es el prólogo joánico: «A coloro che l'hanno ricevuto, ha dato il potere di essere figli di Dio» (TACDC, 02, 171; Gv 1,11-12), que la edición remite a Gal 6,15 (creatura nueva).
+
+La creación nueva no cambia las apariencias, sino el corazón: el cristiano «è tale e quale, possono tutti osservare i suoi difetti... ma è nuovo in lui il cuore... La struttura dell'umano rimane, nella sua apparenza, tale e quale, ma ha un altro significato» (TACDC, 01, 41). Es el advenimiento de un «uomo nuovo» que posee «una “esperienza della realtà”... diverso da quello degli altri» (TACDC, 02, 173), y que se apoya no en el esfuerzo por estar a la altura, sino en «la sorpresa di una attrattiva» (TACDC, 01, 43).
+
 ## Distinciones importantes
 
 - **Creación (creatio) vs. creación nueva (recreatio)**: la creación nueva no anula la primera, sino que la restaura y perfecciona

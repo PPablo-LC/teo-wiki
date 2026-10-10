@@ -74,6 +74,10 @@ Un segundo aspecto de la Eucaristía es la Comunión, por la que el cristiano se
 
 Mons. Munilla propone las capillas laterales de la catedral como imagen de la comunión de los carismas: «todas comparten una misma orientación, ninguna está girada hacia sí misma, ninguna rompe la armonía del conjunto». La comunión exige «admirarse mutuamente entre los carismas», superando «particularismos exacerbados», y «ser hijos de un carisma no tiene que incapacitarnos para valorar los demás carismas». La corrección fraterna solo es posible en la comunión: «la importancia de amar para poder corregir», porque «si la gente no se siente amada, las correcciones que le hagas se van a sentir agredidas». Los espacios de comunión sacerdotal —coro, claustro, sala capitular— hacen de la fraternidad presbiteral una experiencia concreta de comunión [CIS, 2026].
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+La comunión, en Giussani, tiene un carácter tangible y orgánico: «Quello che noi abbiamo udito, quello che noi abbiamo visto, quello che noi abbiamo toccato del Verbo della vita… lo portiamo a voi, affinché siate in comunione con noi» (1 Gv). Quienes se reúnen participan de «una unità dentro la grande unità della Chiesa… Questa unità è un aspetto del corpo di Cristo, a cui tu appartieni… per la compagnia di cui ti ha circondato». Esa comunión realiza el pueblo nuevo, que es «uno, uno, uno»: «non esiste più né Giudeo, né Greco, né schiavo, né libero, né uomo, né donna, ma tutti voi siete una persona sola in Cristo Gesù» (Gal 3,26-28); unidad que no homogeneiza, pues cada grupo nace «da una grazia particolare dello Spirito… che si chiama "carisma"».
+
 ## Distinciones importantes
 
 - **Comunión sacramental**: recepción del Cuerpo de Cristo en la Eucaristía

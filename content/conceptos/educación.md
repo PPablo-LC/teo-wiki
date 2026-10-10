@@ -81,6 +81,12 @@ Tóth enseña que la **educación** religiosa no puede ser meramente intelectual
 
 **Educación de la libertad como responsabilidad (cap. XIII).** La libertad se educa como capacidad de «responder» (*respondeo*): la atención a la totalidad de los factores y la aceptación de la propuesta en su integridad son condiciones del conocimiento adulto. La educación del carácter comienza con la «attegliamento di domanda» y la curiosidad como simpatía con el ser (SR, `20_capitolo_tredicesimo.md`, §1-40). La comunidad educa a la libertad del individuo (SR, `20_capitolo_tredicesimo.md`, §81-93).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+- **Educar al sentido de la vida, a cualquier edad.** «una riscossa, di una educazione al senso della vita. Non è a dieci anni… è a quaranta, a cinquanta!»: «Educarci, tu e io: questo è lo scopo», entrar «dentro la realtà tutta, dentro tutto il tempo, tutto lo spazio» (03, 161-163).
+- **Poner a Cristo en la cabeza.** La «nostra educazione» consiste en «metterLo nella nostra testa… legando strofa per strofa»; se colabora con el mundo «se quotidianamente non andiamo controcorrente!» (03, 169-171). La mañana es «la chiave di volta di qualsiasi ascesi, di qualsiasi strada spirituale» (03, 173).
+- **La pedagogía del discurso oral.** La obra conserva la instancable actividad educativa de Giussani, comunicada «attraverso la ricchezza e il ritmo di un discorso orale» (00, 18); su origen remite al pecado original y al hecho de que «nessuno ci educa» (03, 157), y su instrumento propio es la [[escuela_de_comunidad|Scuola di comunità]], que «ci forma a capire come questa esperienza del Signore ci sia, tutti i giorni» (03, 181).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

@@ -38,6 +38,12 @@ La regla diferencia la recepción del peregrino de la del hermano monje peregrin
 Los hermanos enfermos son también huéspedes del hospital del monasterio: se les destina una celda aparte con servidor que les atienda, con baños permitidos y carne concedida cuando la enfermedad lo requiera (cap. 36). Quienes trabajan fuera del monasterio y comen fuera del [[refectorio|comedor común]] deben comer su propia ración y no cargar al monasterio (cap. 50). Todo oficio hermano es lugar de hospitalidad: el [[mayordomo]] atiende a enfermos, niños, huéspedes y pobres, rindiendo cuentas de este servicio en el día del juicio (cap. 31).
 
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani lamenta la falta de hospitalidad como una pérdida de humanidad y, al mismo tiempo, como un obstáculo para la presencia de Cristo: «La nostra mancanza di ospitalità blocca la possibilità di comunicazione del messaggio» y «Meno possibilità della Tua presenza, o Cristo, meno umanità» (04_alla_ricerca_del_volto_umano_1996.md, ll. 147). Para él, la hospitalidad no es una cortesía, sino una disposición que hace posible la comunicación del mensaje cristiano y la experiencia de la humanidad misma; donde falta la acogida, se empobrece tanto la humanidad como la posibilidad de encuentro con Cristo.
+
 ## Distinciones importantes
 
 - Hospitalidad como deber moral (obra de misericordia) vs. hospitalidad como encuentro con Cristo (dimensión cristológica)

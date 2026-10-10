@@ -37,6 +37,10 @@ El VocTeoBib presenta a Job como el prototipo del justo que sufre sin comprender
 
 **IIa-IIae q.10 a.11:** El sufrimiento del justo puede ser permitido por Dios para su mayor mérito o para la edificación de los demás.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los Ejercicios de 1996, Giussani cita a Job como modelo de la actitud que sostiene el perdón y la misericordia: «Giobbe che dice: "Dio ha dato, Dio ha tolto: sia benedetto il nome di Dio sempre" (Gb 1,13-22) — questa era la ragione che sosteneva tutto il suo perdono a chi gli aveva fatto il disastro» (04_alla_ricerca_del_volto_umano_1996.md, l. 143). Job no perdona por cálculo humano, sino porque su mirada está fija en Dios: lo que recibe y lo que pierde provienen de Él, y así «sia benedetto il nome di Dio sempre». Esta es, para Giussani, la «ragione che sosteneva tutto il suo perdono»: la aceptación filial de la soberanía divina, que hace posible perdonar incluso lo irreparable.
+
 ## Distinciones importantes
 
 - **Job vs. la teología retributiva**: el libro cuestiona la idea de que el sufrimiento es siempre castigo por el pecado

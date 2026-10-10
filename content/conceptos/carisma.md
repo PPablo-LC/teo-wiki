@@ -30,6 +30,10 @@ Giussani trata el carisma en el contexto del Movimiento de Comunione e Liberazio
 - **Imitación del carisma** — la imitación de Cristo coincide con imitar el carisma: el seguimiento se aprende dentro del don que el Espíritu da a la comunidad (DLV 06, 13-31).
 - **Carisma como origen** — «el que obedece busca el carisma, la origine»: la obediencia a la autoridad es búsqueda de la fuente del don (DLV 16, 29-33).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani describe el carisma como «l'avvenimento del carisma»: la modalidad extrema con que Cristo permanece en la historia, cuando «lo Spirito Santo… ci fa incontrare qualcuno seguendo il quale la fede diventa più facilmente chiara e l'affezione alla fede più facilmente intensa». El carisma «parte da una persona colpita dal dono… secondo le circostanze del carattere, del temperamento, dell'ambito e del momento storico»; a su contacto muchos «restano commosse, toccate, e dicono: "Anche noi vogliamo seguire questo"», y así nacen en la Iglesia «gli ordini, le congregazioni, le associazioni cristiane». De ahí una «questione di metodo»: todos los juicios y decisiones deben «attingere i criteri da questo pozzo profondo e limpido che è dato dal carisma di cui tu fai parte», obedeciendo a quien guía la compañía; quien juzga según su propio análisis «sei fuori, giochi fuori». Todo grupo del pueblo nuevo «essendo nato da una grazia particolare dello Spirito… che si chiama "carisma"»; por eso la Fraternidad «non è una federazione di realtà autonome», sino el terminal de un mismo influjo educativo.
+
 ## Relaciones
 
 [[espíritu_santo]], [[dones_del_espíritu_santo]], [[carismas]], [[ministerios]], [[cuerpo_místico]], [[edificación_de_la_iglesia]], [[discernimiento]]

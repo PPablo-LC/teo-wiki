@@ -53,6 +53,12 @@ El corazón en la Biblia no se limita a los afectos: designa lo más íntimo del
 
 **Limpieza de corazón y conocimiento.** La disposición moral es condición del conocer: la limpieza de corazón (Mt 5,8) dispone a la verdad; el desorden afectivo la oscurece. El corazón limpio es la condición para que la razón reconozca la verdad (SR, `08_capitolo_primo.md`, §64-75; `10_capitolo_terzo.md`, §23-44).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani retoma la noción de *Il senso religioso* y define el corazón como «la natura originale dell'uomo», el lugar donde residen las exigencias de «verità, bellezza, giustizia e amore»; sobre esa estructura se apoya toda posibilidad de reconocer a Cristo, pues «noi possiamo riconoscere solo ciò per cui si dà in noi una corrispondenza» (TACDC, 02, 149-151). El corazón no es aquí el reino del sentimiento, sino la medida de la verdad: es «sete di felicità e di bellezza» (TACDC, 03, 171) y su deseo es la huella de su destino.
+
+De ahí las dos afirmaciones que enmarcan el tema: «Quello che il cuore desidera già esiste» (TACDC, 02, 191), es decir, el deseo del corazón tiene un objeto real y no ilusorio; y «il nostro cuore ha un bisogno ultimo... di compimento, di verità, di bellezza, di bontà, di amore», cuya correspondencia en Cristo «diventa l'eccezionalità suprema» (TACDC, 03, 103). El corazón es, en fin, el *crocevia* donde se decide si el tiempo es tumba o futuro: «L'io, il nostro io, è il crocevia tra l'essere e il nulla» (TACDC, 02, 67).
+
 ## Distinciones importantes
 
 - **Corazón bíblico vs. corazón romántico**: en la Escritura, el corazón designa el centro personal, no el mero sentimentalismo

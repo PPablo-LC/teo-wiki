@@ -45,6 +45,12 @@ El indiferentismo surge en el contexto de la Ilustración y el liberalismo moder
 - D‑1716–D‑1718: Syllabus, proposiciones 15–18
 - D‑1866–D‑1888: Immortale Dei (León XIII)
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani señala el último capilar del rechazo de Cristo en el propio *io*: «Questo ultimo capillare... è il nostro *io*, dimentico e indifferente» (03_si_può_vivere_così_1995.md, ll. 137-141). La indiferencia no es mera distracción, sino una forma de odio-capilar: comienza en el olvido, en la falta de acogida, en la ausencia de Cristo en la propia vida. Allí, en la mente y en el corazón, «il rifiuto comincia lì, la dimenticanza è generata e coltivata lì, l'assenza e l'inospitalità si induriscono lì» (ibid., ll. 137-141). De este modo, el indiferentismo práctico —el olvido de Cristo en la vida ordinaria— es el terminal más decisivo del rechazo.
+
 ## Distinciones importantes
 
 - **Indiferentismo vs tolerancia civil**: la Iglesia distingue entre el error (que no tiene derechos) y el errante (que debe ser tratado con caridad). La tolerancia civil de otros cultos puede ser permitida por razones de bien común, sin que ello suponga aprobar el indiferentismo.

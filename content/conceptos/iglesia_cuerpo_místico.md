@@ -67,6 +67,12 @@ Tomás compara la relación entre el Espíritu Santo y Cristo con la del corazó
 
 **Pío VI** (1794, D‑1515) — Constitución *Auctorem Fidei*. Condenó la proposición de que «la Iglesia debe ser considerada como un solo cuerpo místico, compuesto de Cristo cabeza y de los fieles, que son sus miembros por unión inefable, por la que maravillosamente nos convertimos con El mismo en un solo sacerdote, una sola víctima, un solo adorador perfecto del Padre en espíritu y en verdad», en cuanto entendida en el sentido de que «al cuerpo de la Iglesia sólo pertenecen los fieles que son adoradores del Padre en espíritu y en verdad». Condenada como herética. La condena afirma que la Iglesia visible se compone también de pecadores y que no se identifica exclusivamente con el conjunto de los elegidos.
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani presenta a la Iglesia como «il mistero della Chiesa, corpo misterioso di Cristo» (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, ll. 45). Esta realidad no es meramente metafórica, sino efectiva: la muerte y resurrección de Cristo «muta dal di dentro» al bautizado, generando la «creatura nuova» de san Pablo. Así, el Cuerpo Místico es el lugar donde el acontecimiento de Cristo se hace presente y se comunica a los hombres, renovando el encuentro con Él en la historia (00_preliminares.md, l. 10).
+
 ## Distinciones importantes
 
 - **Cuerpo físico de Cristo**: su humanidad individual, nacida de María.

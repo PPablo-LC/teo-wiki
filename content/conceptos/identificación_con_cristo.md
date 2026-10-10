@@ -71,6 +71,12 @@ como:
 - Dinámica del mal que, en lugar de definir, «nos hace volver a Él».
 - Presencia táctil, abrazo del Misterio.
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani indica que la novedad cristiana afecta al corazón mismo de la persona: el hombre nuevo es «nuovo in lui il cuore» y, no obstante la apariencia de sus defectos, su vida adquiere otro significado (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, ll. 87). Además, el acontecimiento de Cristo nos transforma «dal di dentro» (ibid., l. 45). Esto explica la identificación con Cristo no como mera imitación, sino como una mutación interior operada por la Presencia que nos alcanza en el encuentro, de modo que nuestra existencia queda definida por la relación con Él.
+
 ## Distinciones importantes
 
 - **Identificación vs. imitación**: no es «imitar a Cristo» desde fuera, sino

@@ -75,6 +75,14 @@ Dios!” (Jn 1,29). Los dos discípulos, al oírle decir eso, siguieron a Jesús
 comunión de este encuentro, el lazo de este encuentro, puede liberar al hombre» (01,
 131).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Para TACDC el cristianismo es el acontecimiento de un encuentro: «il metodo con cui l'avvenimento di Cristo si prolunga nella storia: attraverso uomini e donne cambiati dall'incontro con Lui» (TACDC, 03, §7). El encuentro corresponde a las «attese profonde» de la humanidad: «Giovanni e Andrea, dopo aver trascorso del tempo con Gesù di Nazareth, si resero conto dell'eccezionalità di quell'incontro, finalmente corrispondente alle attese profonde della loro umanità» (TACDC, 01, §10).
+
+Su estructura es la del acontecimiento: «È innanzitutto in un avvenimento che tale Presenza si rende incontrabile» (TACDC, 01, §25), y «esso si presenta sempre sotto la forma di un incontro, di un incontro significativo, di un incontro che cambia qualche cosa» (TACDC, 03, §83-85). El Evangelio insiste en el ver: «Il Vangelo usa più di quattrocento volte il verbo “vedere” e meno di duecento volte i verbi “credere”» (TACDC, 02, §157-159), y Gv 1,35-51 —«Ecco l'agnello di Dio»; «Maestro, dove stai di casa?»— es «il quadro più impressionante di questa novità» (§153-155). El encuentro no es una idea ni una visión subjetiva: «Non una visione, ma una realtà presente», pues «la visione la costruisci tu, ma la realtà presente ti si impone» (§123).
+
+El encuentro es comunión y origen de la fraternidad: «Cristo ci ha messi insieme attraverso un incontro... un incontro misterioso, gratuito, una grazia» (TACDC, 03, §159). Quien lo vive queda transformado: «La gente che ha fatto quell'incontro è cambiata e si è messa a parlarne» (TACDC, 02, §167), y por la memoria «l'avvenimento ricomincia con me» (§187).
+
 ## Distinciones importantes
 
 - **Encuentro personal vs. comunitario:** Ambos se complementan; los encuentros comunitarios (especialmente la Eucaristía) tienen una importancia fundamental para la constitución de la Iglesia.

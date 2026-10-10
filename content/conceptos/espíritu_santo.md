@@ -100,7 +100,19 @@ antes» (03, 199).
 acción, del Espíritu que hace presente Cristo a nuestra vida? El signo más grande
 para nosotros es nuestra compañía vocacional» (03, 199).
 
-## Distinciones importantes
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los *Esercizi spirituali* de la Fraternità di Comunione e Liberazione (1994-1996), el Espíritu Santo es invocado y experimentado como el principio vivo que hace presente a Cristo:
+
+- **Invocación inaugural**: cada jornada de ejercicios se abre *in piedi* con el canto *«Discendi, Santo Spirito»* (E. Galbiati–J. Schweitzer, *Canti*, 2014, p. 113), pidiendo que el Espíritu no abandone «especialmente en estos momentos en cui le verità ultime delle cose vengono richiamate con tutta la serietà ed energia di cui il nostro cuore è capace» (02, 21-23). La invocación define el gesto mismo de los ejercicios: «chiedere – cioè pregare e ascoltare – e mantenere un rigoroso silenzio» (03, 23-25).
+
+- **Nacer de lo alto (Gv 3,1-8)**: comentando a Nicodemo, Giussani subraya: «Ciò che nasce dalla carne è carne, ma ciò che nasce dallo Spirito… è Spirito che cambia la carne»; no se trata de propósitos humanos sino de «guardare una Presenza» (02, 169-171).
+
+- **Carisma como gracia particular del Espíritu**: «ogni gruppo… essendo nato da una grazia particolare dello Spirito… che si chiama "carisma"»; cada grupo nace de «una storia in cui un incontro ha messo insieme le persone» (03, 325). El carisma es don del Espíritu que hace «più facilmente chiara» la fe e «più facilmente intensa» l'affezione a ella (01, 49).
+
+- **El Espíritu y la memoria**: la carta de la madre de familia testifica: «Dio aveva scelto quella persona per comunicarmi il dono che voleva farmi, cioè quell'incontro con Lui… Lui attraverso lei mi ha attirata a Sé. Senza catene» (01, 33) — el Espíritu actúa en la libertad, no por coacción.
+
+## Distincioni importanti
 
 - No es una "fuerza" impersonal sino una Persona divina
 - Procede del Padre y del Hijo, no es creado ni engendrado

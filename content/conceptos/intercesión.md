@@ -33,6 +33,12 @@ La oración de intercesión se dirige a Dios directamente, pero se puede y debe 
 
 [JPII, Redemptoris Mater §21, §39-40, §44]: La intercesión de María se manifiesta paradigmáticamente en las Bodas de Caná (Jn 2,1-12), donde su mediación materna se expresa como intercesión y solicitud por las necesidades de los hombres [RM §21]. La intercesión de María es permanente y universal: «la Santísima Virgen continúa obteniéndonos los dones de la salvación eterna con su múltiple intercesión» [RM §40, citando LG §62]. Esta intercesión materna no oscurece la única mediación de Cristo (1 Tm 2,5-6), sino que manifiesta su eficacia y fecundidad: Cristo es el único Mediador, y María participa de esta mediación de modo subordinado, materno y universal [RM §38-40]. La intercesión de María se extiende a todos los hombres, pues Ella es «Madre de la unidad de los creyentes» [RM §40].
 
+
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En *Attraverso la compagnia dei credenti* (TACDC), Giussani hace referencia a la intercesión de los difuntos de la Fraternidad: se pide aplicar la Misa «per i nostri defunti… che intercedano dal Cielo per i nostri bisogni» (04_alla_ricerca_del_volto_umano_1996.md, ll. 175-177). Este pasaje testimonia la fe en la comunión de los santos y en la intercesión de aquellos que han pertenecido a la Fraternità y ya descansan en el Señor.
+
 ## Distinciones importantes
 
 - Intercesión de Cristo: única mediación redentora

@@ -49,6 +49,10 @@ con una contradicción evidente, incluso la trama de las relaciones, el modo de 
 relaciones en la Fraternidad, no tiene la amplitud, la respiración del movimiento»
 (01, 199).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+*Attraverso la compagnia dei credenti* (1994-1996) es el quinto volumen de la serie *Cristianesimo alla prova*: reúne las lecciones y los diálogos de Giussani en los Ejercicios espirituales de la Fraternidad de Comunión y Liberación en Rimini. El propio volumen ofrece el perfil del movimiento: Giussani, docente de Introducción a la Teología en la Universidad Católica de Milán (1964-1990), «dalla metà degli anni Cinquanta dà vita al movimento di Comunione e Liberazione, oggi presente in Italia e in oltre novanta Paesi in tutto il mondo». Su título designa la «compagnia dei credenti» que el Espíritu construye sobre el «sì» humano; en la prefación, el testimonio de una madre lo ilustra: «Prima del 2020 non conoscevo Comunione e Liberazione… Dio aveva scelto quella persona per comunicarmi il dono che voleva farmi, cioè quell'incontro con Lui… Senza catene».
+
 ## Distinciones importantes
 
 - **Movimiento eclesial vs. orden religiosa**: CL es un movimiento de fieles laicos, no una orden religiosa; su Fraternidad es asociación de derecho pontificio.

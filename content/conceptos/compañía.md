@@ -79,6 +79,14 @@ estas cosas como se come y se bebe: uno no responde a su problema si no responde
 al problema de todos, y por eso el dolor de la propia fatiga se vuelve el lugar
 donde resuena el dolor del mundo» (01, 295).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+TACDC reúne los ejercicios espirituales de la Fraternidad de Comunión y Liberación (Rimini 1994-1996) y presenta la compañía cristiana como «realtà creata dal cambiamento che la persona, incontrando Cristo, realizza in se stessa», por lo que es distinta de cualquier otra compañía. No nace de una afinidad natural, sino que es la forma histórica que asume el [[encuentro_con_cristo]]: el mismo acontecimiento que cambió a Juan y Andrés sigue reuniendo a los creyentes.
+
+En la prefación de Carrón, la compañía se define por su inserción en la Iglesia: quienes se reúnen participan de «una unità dentro la grande unità della Chiesa… Questa unità è un aspetto del corpo di Cristo». La compañía no es un compartimento aparte, sino un aspecto del cuerpo de Cristo. Su razón de ser es arrancar del *nulla*: «Quando ci si mette insieme, perché lo facciamo? Per strappare agli amici, e se fosse possibile a tutto il mondo, il nulla in cui ogni uomo si trova».
+
+Un aporte propio de TACDC es la distinción entre «gesto» y «raduno»: el estar juntos no es un raduno, sino un gesto, es decir, un atteggiamento que «porta il mondo e il suo significato». En 1995 la compañía aparece, además, como el lugar donde se guarda la memoria del destino: una carta expresa el deseo de «permanere in questa compagnia… perché è l'unica che mi fa ricordare… qual è il vero destino della mia vita». Y en 1996 Giussani la llama «l'argomento prezioso con cui Dio ci ha messi su una strada» (TACDC, 04, §123), subrayando que es una gracia recibida y no una conquista.
+
 ## Distinciones importantes
 
 - **Compañía como medio vs. como fin**: La compañía es instrumento del camino hacia Cristo, método de la fe. Hacerla fin es el «equivoco» que la corrompe.

@@ -71,6 +71,10 @@ como decía el salmo, “acumula riquezas y no sabe quién las recogerá” (Sal
 es decir, trabaja donde ella no está: el hombre trabaja donde él no está y
 acumula riquezas» (01, 81).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En el prefacio *Il crocevia tra l’essere e il nulla*, Julián Carrón vincula el miedo profundo al vacío del yo: «alla parola "paura"... era solo il primo barlume di quella paura profonda che si è affacciata all’orizzonte del nostro esistere... "vuoto" descrive la percezione che tanti hanno del proprio io, come se niente riuscisse a riempirlo, tanto è smisurato» (TACDC, 01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, l. 5). Solo una vida desbordante puede contender con él: «Solo una presenza traboccante di vita può contendere la scena al nulla, al vuoto, alla paura» (l. 23). Esta presencia se reconoce en el encuentro con Cristo que corresponde al corazón (cfr. l. 23).
+
 ## Distinciones importantes
 
 - **Temor filial vs. temor servil**: el primero teme ofender a Dios por amor; el segundo teme el castigo.

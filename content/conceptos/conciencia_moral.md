@@ -87,6 +87,9 @@ El capítulo 13 (San Tommaso Moro) es el paradigma de la conciencia no dividida:
 
 «Presente "en lo más íntimo de la persona, la conciencia moral" —que es el "núcleo más secreto y el sagrario del hombre", según afirma el Concilio Vaticano II—, "le ordena, en el momento oportuno, practicar el bien y evitar el mal. Juzga también las elecciones concretas, aprobando las buenas y denunciando las malas. Atestigua la autoridad de la verdad con referencia al Bien supremo por el cual la persona humana se siente atraída y cuyos mandamientos acoge"» (SHVS 95). «La conciencia moral es un juicio de la razón por el que la persona humana reconoce la cualidad moral de un acto concreto que piensa hacer, está haciendo o ha hecho» (SHVS 95). La educación sexual debe llevar a los hijos «a conocer y estimar las normas morales como garantía necesaria y preciosa para un crecimiento personal y responsable en la sexualidad humana» (SHVS 43).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani radica la conciencia moral en el diálogo con «la» Presencia. Enseña que «non esiste moralità al di fuori di un dialogo con "la" Presenza, con una presenza che è "la" Presenza»: ni el padre, ni la madre, ni el amigo, ni el superior pueden fundar el origen de nuestros actos ni juzgarlos. De ahí la advertencia: «Nessuno giudichi gli altri. Io neanche me stesso giudico: è Dio solo che giudica» (1 Cor 4,3-4). La vida moral comienza con el «Venga il tuo regno; sia fatta la tua volontà» (Mt 6,10), esto es, con un «sí» que se apoya en Alguien y no en el propio juicio.
 
 ## Distinciones importantes
 

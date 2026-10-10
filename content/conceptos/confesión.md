@@ -55,6 +55,14 @@ El **IV Concilio de Letrán** (1215), en el canon 21 *Omnis utriusque sexus* (D-
 
 **Clemente VIII** (1602, D‑1088‑D‑1089) condenó como «falsa, temeraria y escandalosa» la proposición de que es lícito confesar sacramentalmente los pecados por carta o mensajero a un confesor ausente y recibir la absolución del mismo ausente. Prohibió enseñar, predicar, defender o practicar esta opinión. Posteriormente (D‑1089), el Santo Oficio precisó que la condena vale también «en sentido dividido», esto es, para la confesión o la absolución separadamente. Se exceptuó el caso del moribundo que da señales de penitencia a un sacerdote que llega, por ser «totalmente diverso».
 
+## Perspectivas por fuente
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani sitúa la confesión entre los preceptos que sostienen la vida cristiana, junto a la Misa dominical: «Almeno una volta alla settimana, riunitevi, popolo cristiano! Meno di così si muore: peccato mortale», y define la Confessione como «lavacro della croce e della resurrezione di Cristo» (TACDC, 02, 225). No es un trámite, sino el baño que actualiza la obra pascual en el creyente.
+
+Esta lectura se ilumina con el lugar que el perdón ocupa en la moral: el «sì» de Pedro —origen de la vida moral— se construye sobre el perdón y es dicho «per la coscienza che è piena di perdono la faccia che gli chiede: “Simone, mi ami tu?”» (TACDC, 03, 315-317). El perdón de Cristo «è innanzitutto una riduzione a nulla di tutto quello che ho fatto», y también de todo lo que haré (TACDC, 03, 319), de modo que la confesión no es un recuento de culpas —«il numero non c'entra nel rapporto con Lui!» (TACDC, 03, 227)— sino la acogida de una misericordia que excede toda medida (TACDC, 04, 53).
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]

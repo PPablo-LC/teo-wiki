@@ -38,6 +38,13 @@ El **destino del hombre** es el fin último al que está ordenada la persona hum
 - **El destino del hombre (2004)** — la positividad de la vida; la victoria de Cristo (21, 7-35)
 - **Moralidad nueva y destino** — la moralidad nueva como «riconoscimento amoroso di una Presenza connessa col destino» (10, 81-126)
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+- **El «yo» como cruce entre el ser y la nada.** La prefación y los Ejercicios de 1994 identifican al hombre como «il crocevia tra l'essere e il nulla» (01, 11; 02, 67): el destino se juega cada mañana en la elección entre «un tutto che finisce nel niente […] e la vita che ha uno scopo» (01, 15; 02, 103).
+- **Un destino que se posee.** «L'uomo è fatto per un destino che è chiamato a possedere» (03, 63-71): el Misterio se encuentra «con un volto di amico» y ese encuentro constituye la respuesta a la pregunta por el propio destino.
+- **El destino como medida de la amistad.** «Meno del destino "pre-visto", "pre-sentito"… non c'è amicizia!»: la verdadera naturaleza de la amistad es «vivere liberamente insieme per il destino» (01, 55; 04, 113); la moralidad misma es reconocimiento amoroso de una «Presencia connessa col destino» (04, 145-147).
+- **La vida donada por el destino ajeno.** En el tranvía lleno: «Signore, ti offro la mia giornata e la mia vita per questa gente… È per il loro destino!» (04, 91); «Nessuno ama tanto gli amici come colui che dà la vita per i propri amici… Ma si dà la vita per il Destino!» (01, 59).
+
 ## Distinciones importantes
 
 - **Destino ≠ fatalidad** — el destino cristiano no es un hado ciego: es vocación, amor de Dios que ha hecho al hombre para Sí.

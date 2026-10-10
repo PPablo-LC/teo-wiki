@@ -163,6 +163,14 @@ recuerda a Pío XII: «El pecado de este siglo es la pérdida del sentido del pe
 (Juan Pablo II, *Discorso durante la meditazione alla “Via Crucis”*, 28 de marzo de
 1986, 4; 01, 109-121).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+TACDC aporta una definición de la misericordia que excede el perdón. Frente al perdón, que «si può anche ricostruire… quasi matematicamente», la misericordia presenta «una eccedenza… sembra che Dio compia una "ingiustizia" perdonando perfino quello!» (TACDC, 04, §53), pues «Misericordia è identica a Mistero: è il Mistero, quel che non si capisce» (§135-137). El perdón proporcionado «è concepibile anche dalla ragione», pero no «questo perdono senza limite», que es «la vita di Dio… amore gratis: caritas, senza motivo» (§135-137).
+
+En 1995, comentando el «sì» de Pedro, Giussani cita a [[san_ambrosio]]: Dios «creò l'uomo e... si è riposato, avendo un essere cui rimettere i peccati»; de ahí que «Crea l'uomo per essere misericordioso» y que la pasión de Cristo «rappresenta il senso della creazione» (TACDC, 03, §239). La misericordia es así «l'estrema definizione di Dio che il cristianesimo conosca», como recuerda [[dives_in_misericordia|Dives in misericordia]] 2 al afirmar que Cristo «è... la misericordia» (Ef 2,4) y que en la historia «questa misericordia... porta un nome... Gesù Cristo!» (§241). El prefacio ambrosiano lo formula como «una medicina più forte delle nostre piaghe, una misericordia più grande della nostra colpa» (§249).
+
+Con realismo, TACDC añade que «nessuno di noi è misericordioso. Ma dobbiamo cercare di esserlo» (TACDC, 04, §143), y que el paso «dal dire al fare» se llama «il domandare»: «una supplica reale, semplice, come quella di un bambino» (§143), pues «L'uomo che domanda, fosse anche distrutto dal suo male, è vermente figlio di Dio» (§101-103).
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.

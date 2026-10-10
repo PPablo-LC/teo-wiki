@@ -52,6 +52,12 @@ Marcial Maciel, en el *Salterio de mis Días*, expresa en lenguaje poético la u
 
 El deseo de disolución en Dios expresa la tensión ascética hacia la unidad perfecta con Cristo, en la que el individuo deja de ser un polo autónomo para existir solo en y por la cabeza del Cuerpo. Esta aniquilación del ego es la condición de auténtica membresía: solo vaciándose de sí el miembro puede ser realmente parte viva del Cuerpo (Salterio de mis Días, oración LXXXIX).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani identifica el misterio de la Iglesia con el Cuerpo místico: «il mistero della Chiesa, corpo misterioso di Cristo, che si edifica attraverso la scelta e la preferenza che Cristo ha per gli uomini che il Padre gli dà nelle mani» (TACDC, 01, 45). La Iglesia es la permanencia de Cristo en la historia: «la continuità per cui Cristo è con noi tutti i giorni fino alla fine del mondo: la Chiesa» (TACDC, 01, 47).
+
+Lo tangible de esta realidad se expresa con 1 Jn 1,1-3 —«Quello che noi abbiamo udito, quello che noi abbiamo visto, quello che noi abbiamo toccato del Verbo della vita»— y hace de la Iglesia «il mistero della Chiesa, corpo mistico di Cristo» (TACDC, 02, 215). Por eso perseguir a los creyentes es perseguir a Cristo: «Saulo, Saulo, perché mi perseguiti?» es «il corpo mistico di Cristo che bussa alla porta della nostra vita» (TACDC, 02, 223; At 9,4; Ap 3,20). De esta unión nace «un insieme vivente nuovo che diventa protagonista della storia, diventa lo strumento di Cristo» (TACDC, 03, 285), en el que cada grupo es un aspecto del cuerpo de Cristo dentro de la gran unidad de la Iglesia (TACDC, 01, 51).
+
 ## Distinciones importantes
 
 - **Cuerpo místico vs. estructura institucional**: la Iglesia es simultáneamente Cuerpo místico (unión vital con Cristo) e institución jerárquica visible; no son realidades separadas, sino dos dimensiones de una misma realidad (CEC §771-780).

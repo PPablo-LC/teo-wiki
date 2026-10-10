@@ -53,6 +53,10 @@ misterioso Cuerpo que es la Iglesia —el misterio de Cristo y del pueblo de Dio
 se identifica en la contingencia histórica de la compañía en la que el Señor nos ha
 dado la gracia de encontrarnos» (01, 341).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani ve en la comunidad el lugar donde se sostiene la vida moral. Cita a MacIntyre: ante la decadencia de un orden social, la tarea decisiva de los hombres de buena voluntad fue «la costruzione di nuove forme di comunità entro cui la vita morale potesse essere sostenuta, in modo che sia la civiltà, sia la morale avessero la possibilità di sopravvivere all'epoca incipiente di barbarie e di oscurità». Reconoce en esa concepción una parentela instintiva con la experiencia de la Fraternidad, resumida en el principio «Più società, meno Stato»: quien sostuviera lo contrario «capisce poco Comunione e Liberazione». La comunidad no es, pues, un refugio, sino la forma social en que la moralidad puede ser custodiada y transmitida.
+
 ## Distinciones importantes
 
 - **Comunidad eclesial vs. asociación humana**: la Iglesia es comunión sobrenatural, no mera organización voluntaria

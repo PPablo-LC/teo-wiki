@@ -188,6 +188,22 @@ En *Affezione e dimora*, la fe es la adhesión a una Presencia que «se presenta
 
 La fe culmina ante la presencia de Cristo: «hay solamente o Cristo o la nada, porque solo Cristo afirma la realidad por lo que ella es» (AED, 24, 117-119). Por eso el acto de fe se ordena al sacrificio — «el sacrificio de la pretensión» y de «preferir la afirmación de una presencia a la afirmación de uno mismo» (AED, 18, 219-229) — y nace de una opción de amor: «primero que el sacrificio está el amor a una Presencia»; de ahí el «estote parati» (Mt 24,44), la vigilia de quien vive de su presencia (AED, 19, 123). La razón misma toca su vértice afirmando la fe (AED, 29, 61-63).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los *Esercizi* 1994-1996, Giussani presenta la fe como reconocimiento de una Presencia que corresponde al corazón, no como conjunto de verdades abstractas:
+
+- **La fe como respuesta a una correspondencia**: «C'è il documento di una corrispondenza senza paragone. Avviene un incontro… che corrisponde al tuo cuore», a la naturaleza humana «fatta di esigenze di verità, bellezza, giustizia, amore, felicità» (01, 23). La fe nace del encuentro con Juan y Andrés: «la figura di Giovanni e Andrea con Gesù è il quadro più impressionante di questa novità» (01, 23).
+
+- **La simplicidad del reconocimiento**: «se Dio s'è fatto uomo, non può essere che semplice il modo di riconoscerLo!» (03, 35). El «presentimento del vero» (03, 37) — la curiosidad y deseo de Juan y Andrés — es el inicio de la fe. No hay «otro nombre, non c'è un'altra fonte, non c'è un altro riferimento» que Cristo (03, 37).
+
+- **La fe frente a la mentalidad mondana**: el mundo moderno «si è riuscito a costituire un mondo… senza Gesù… con la nostra connivenza, con la nostra collaborazione» (Péguy, 03, 109-111). La pedagogía del mundo es «non far più pensare a Cristo», tolerable solo «a livello della coscienza individuale» (03, 121). La fe exige ir «controcorrente» cada día (03, 169).
+
+- **El «piccolo gregge» y la fe en cuestión**: Pablo VI a Jean Guitton: «ciò che è in questione è la fede… Bisogna che sussista un piccolo gregge, per quanto piccolo esso sia» (03, 129). La fe se mantiene en la minoría creativa que no se adapta al mundo sin Cristo.
+
+- **La fe como «Tu dato» al Misterio**: «La vita è risposta, è un Tu "dato"… al volto buono del Mistero» (02, 45). La paz viene de «l'incombenza di questo volto buono del Mistero» (02, 43). «Non c'è nessuna verità che più di questa punga il nostro umano orgoglio» — «Il tempo si fa breve» (1Cor 7,29; 02, 53).
+
+- **La palabra dicha con sinceridad**: «pronunciando questa parola con sincerità che le cose incominciano a perdere la loro opacità, come… la notte che passa dall'alba alla prima aurora» (03, 47). La fe se verifica en la vida: «il Cristianesimo non ti solleva… dalle incombenze della vita, ma ti dà il giusto motivo per affrontarle» (03, 32-33).
+
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 La fe es la primera de las teologales, pues hay que aprehender antes de amar. Su objeto: la Primera Verdad y, como camino hacia Ella, la Encarnación y los sacramentos. Es asentimiento al llegar por proposiciones (en esta vida solo conocemos complejamente lo simple), pero «el acto de fe no termina en la proposición sino en la realidad». Es conocimiento imperfecto (no ve lo que confiesa) y «enigmático» (*en ainigmati*, 1 Cor 13,12), pero de mayor certeza que la ciencia, porque se apoya en la mayor autoridad: la Palabra de Dios, «que no puede engañar ni ser engañada»; no bastan los milagros como evidencia — no todos los que los vieron creyeron: se requiere además el motivo interior que mueve la voluntad. Su perfección no está en el modo de conocer sino en la certeza y firmeza de la adhesión a la verdad no vista; es «la sustancia (argumentum) de las cosas que se esperan» (Hb 11,1): la disposición en que la vida eterna comienza en nosotros.

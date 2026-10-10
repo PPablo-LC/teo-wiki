@@ -22,6 +22,14 @@ La realidad histórica y trascendente fundada en **Jesucristo** —Hijo de Dios 
 - **Elementos constitutivos**: el kerygma (anuncio pascual), los sacramentos (continuación de la Encarnación), la caridad (criterio de verdad vivida) y la esperanza escatológica; la unidad de fe, sacramentos y gobierno bajo el sucesor de Pedro.
 - **Plenitud y cristianismos**: el cristianismo pleno subsiste en la Iglesia católica (*subsistit in*, LG 8); el término designa también las realidades históricas derivadas (cristianismo occidental y oriental, cristianismo cultural, «cristianismo de nombre»), que requieren continua conversión a su origen (CEC §816-819; *Evangelii Nuntiandi*).
 
+## Perspectivas por fuente
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani define el cristianismo como «un nuovo inizio», no como «una nuova variante culturale di una struttura religiosa sempre in via di sviluppo» (Ratzinger); y añade que esta novedad «è una novità perenne, fra mille anni sarà nuovo come oggi» (TACDC, 01, 39). Su contenido es el acontecimiento de Cristo: «Cristo, nella sua venuta, ha portato con sé tutta la novità» (Ireneo) (TACDC, 01, 39).
+
+Esta novedad se prolonga en la historia por el encuentro que se repite: «Il cristianesimo è un nuovo inizio, che ogni giorno riviviamo in filigrana nel corso della storia, una storia in cui l'incontro di vita con Gesù viene continuamente ripetuto» (TACDC, 00, 10). No es primariamente un sistema de ideas ni un código moral, sino la irrupción de una Presencia: «l'annuncio cristiano è: “Dio s'è reso presenza tra noi”», y esa presencia se da «innanzitutto... sotto la forma di un incontro» (TACDC, 03, 79-83). De ahí que el cristianismo introduzca en la historia un «uomo nuovo», que «ha una “esperienza della realtà”... diverso da quello degli altri» (TACDC, 02, 173).
+
 ## Distinciones importantes
 
 - **Cristianismo** (realidad fundada por Cristo) ≠ **cristiandad** (orden sociocultural cristiano histórico, reversible y reformable).

@@ -74,6 +74,10 @@ Tóth dedica un capítulo al valor pedagógico de la alegría. Contra quienes ac
 
 Su fuente es la vida espiritual: «para el alma que ama a Dios y tiene su conciencia en paz, la santa comunión, las oraciones cotidianas… son una fuente inagotable de alegría interior»; «vivir en gracia es un tesoro magnífico» (véase [[estado_de_gracia]]) [archivo 19]. Pedagógicamente, «mucho más lograremos si educamos a los jóvenes en el amor al bien que si los educamos en el temor del mal»: mostrar la belleza y bondad de la virtud antes que la maldad del pecado; «no se puede educar sin alegría», siguiendo a San Felipe Neri: «Dejad que estén alegres, con tal que no cometan pecado» [archivo 19]. También la naturaleza educa en la alegría contemplativa: «en los bosques encontrarás algo más que en los libros» (San Bernardo); su silencio facilita la oración y sus bellezas levantan el alma al Creador [archivo 19].
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani presenta la *letizia* como «un lascito di Gesù»: «Vi ho detto tutto quello che vi ho detto perché la mia gioia sia in voi e la vostra gioia sia piena» (Gv 15,11), palabras pronunciadas «poche ore prima d'essere fatto prigioniero e ammazzato». La letizia, afirma, «può esser data solo da una chiarezza, da qualcosa che al cuore appare chiaro, cui il cuore può accedere con umiltà, riconoscendo i propri limiti»; su fuente es «questa compagnia, che da Cristo proviene», en la que se realiza «un'opera che eccede le mani che la fanno, le mani umane che la compiono» (TACDC, 04, L33).
+
 ## Distinciones importantes
 
 - **Alegría cristiana** (gozo de la entrega generosa a Dios y de la coherencia con su llamada) vs. **alegría espiritual** (fruto del Espíritu Santo, gozo de la posesión de Dios en general)

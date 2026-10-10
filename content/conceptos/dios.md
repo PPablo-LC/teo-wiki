@@ -37,6 +37,12 @@ En el capítulo 4 expone el dogma trinitario: un solo Dios verdadero en tres Per
 
 La Biblia no contiene un tratado sobre Dios, sino que enseña a escucharle y responderle [VocTeoBib, «Dios»]. En el AT, Dios es «el primero y el último» (Is 41,4; 44,6), cuya existencia se impone sin demostración. Se revela como Yahveh —«Yo soy el que soy» (Ex 3,14)—, un Dios viviente, santo, celoso y único. El secreto definitivo se revela en Jesucristo: «Dios es amor» (1Jn 4,8.16). En Cristo, «el resplandor de la gloria de Dios y figura de su sustancia» (Heb 1,3), vemos al Padre; y la relación entre el Padre y el Hijo se consuma en el Espíritu Santo. «Dios es espíritu» (Jn 4,24) significa que su esencia consiste en darse: omnipotencia y omni-disponibilidad, afirmación soberana de sí y desasimiento total.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+- **El Misterio con «un volto di amico».** El hombre está hecho para un destino que el Misterio le da a poseer, y el Misterio se encuentra «con un volto di amico» (03, 63-71); la vida misma es respuesta: «La vita è risposta, è un Tu "dato"… al volto buono del Mistero» (02, 43-45).
+- **Dios, la positividad total.** «Dio è l'ipotesi positiva su tutto ciò che l'uomo vive» (04, 73); «la natura dell'Essere è amore: Deus caritas est» (04, 57-59). La misericordia es «l'estrema definizione di Dio che il cristianesimo conosca» (03, 241): Dios creó al hombre para tener «un essere cui rimettere i peccati» (san Ambrosio, 03, 239).
+- **La vida como participación en Dios.** Con Ireneo de Lyon: «È impossibile vivere senza la vita, e la vita consiste essenzialmente nel partecipare a Dio, partecipazione che significa vedere Dio e godere della sua bontà» (01, 31).
+
 ## Distinciones importantes
 
 - **Dios Uno** (unidad de esencia) vs. **Dios Trino** (trinidad de personas): no son tres dioses, sino un solo Dios en tres Personas.

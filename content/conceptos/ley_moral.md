@@ -59,6 +59,10 @@ La ley moral natural contiene las exigencias fundamentales del obrar moral —ex
 
 El magisterio de la Iglesia es competente también en el ámbito de la ley moral natural, como guardián e intérprete de la Revelación (cuyo contenido ético comprende esas exigencias) y en virtud del mandato de Cristo de predicar la salvación; la [[veritatis_splendor]] reafirma la justa autonomía gnoseológica de la razón práctica, sin que ello implique una razón separada de la Inteligencia divina (Cap. I, §1c y §3b).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+TACDC no presenta un tratamiento sistemático de la ley moral como tema explícito. No se añade aportación particular para este concepto, ya que el enfoque de la obra es antropológico y cristológico (lucha entre el ser y la nada, encuentro con Cristo, compañía, amistad) más que jurídico-moral.
+
 ## Relaciones doctrinales
 
 La ley moral se fundamenta en la [[ley_eterna]] y se concreta en la [[ley_natural]] (participación de la eterna en la razón), la [[ley_divina]] (revelada), la [[conciencia_moral]] (aplicación personal), y el [[acto_humano]] (objeto de la ley).

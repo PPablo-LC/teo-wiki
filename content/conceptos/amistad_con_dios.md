@@ -46,6 +46,11 @@ La caridad es amistad con Dios: la gracia es «el amor especial por el que Dios 
 
 - **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — el paso de «siervos» a «amigos»: «ya no os llamo siervos, porque el siervo no sabe lo que hace su señor; os he llamado amigos, porque os he dado a conocer todo lo que he oído de mi Padre» (Gv 15,15) — «un máximo de comunicación»—; y el máximo del amor: «nadie tiene amor más grande que este: dar la vida por sus amigos» (Gv 15,13) (03, L131-133).
 - **Parte terza** — la convivencia como camino de la amistad con Cristo: el comentario al primer signo de Caná —«y creyeron entonces en él sus amigos» (Gv 2,11)— «la certeza crecía según un devenir que la convivencia con Él aseguraba… su certeza era verificada y valorizada cada vez que era confirmada por un hecho del que eran testigos»; lo mismo vale «para la historia del rapport avec cualquier amigo nuestro» (03, L101-103).
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani ensancha la amistad con Dios a todo hombre: «ogni uomo è oggetto dell'amicizia, è parte dell'amicizia di Dio che si rivela in lui... non è possibile accostare un uomo se non con questa coscienza». De ahí la plegaria por el destino de cada desconocido —«Signore, ti offro la mia giornata e la mia vita per questa gente... È per il loro destino!»— y la adoración implícita en el trato con el otro: «L'amicizia è una parola che sta vicina alla parola "Ti adoro, mio Dio"... l'amicizia vera adora l'altro... perché è: perché è!». La amistad con Dios se refleja así en la amistad entre los hombres, que adora en el otro el ser que participa del Misterio (TACDC, 04, L91.119-121).
+
 ## Distinciones importantes
 
 - **Amistad con Dios por gracia vs. amistad por gloria**: aquí comienza por la gracia, en el cielo se consuma por la visión beatífica

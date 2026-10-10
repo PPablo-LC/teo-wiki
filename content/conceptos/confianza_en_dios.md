@@ -59,6 +59,14 @@ El coraje como confianza en Dios es el tema de la *Special Feature* de Michael C
 - **Confianza y providencia**: la entrega confiada al Dios que sostiene, como el niño en brazos de la madre que describe Edith Stein —«En el conocimiento de que el ser me sostiene, descanso segura» (17_feature_nguyen.md).
 - **La providencia en los santos**: Juana de Arco —«lo que hago, lo hago por mandamiento» (05_lives.md)— y Kolbe —todo sufrimiento querido por amor es parte del plan de Dios (10_minds.md)— son modelos de abandono confiado, en la línea de la Oración de la Serenidad (Niebuhr) que Worner glosa para la ansiedad (04_midnight_oil.md).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani formula la confianza como una «ipotesi positiva» que debe presidir todo modo de acercarse a la realidad: «accostare qualsiasi cosa — e persona, ancora di più — deve partire da un'ipotesi positiva», porque si la naturaleza del Ser es amor, «Dio non può azzerare neanche una opera buona — una sola! — fatta dall'uomo» (TACDC, 04, 67). Confiar es afirmar que el Misterio que hace todas las cosas «è per il bene» (TACDC, 04, 73).
+
+Perder esta confianza es, para Giussani, un pecado diabólico: «uno dei più grandi peccati... è perdere la fiducia in Dio. Dio, come misericordia, tutto vince» (TACDC, 04, 79). Frente al propio pecado y a la propia debilidad, la certeza no se apoya en las propias fuerzas sino en la fidelidad de Dios: como Kristin, el creyente puede decir «Io ci sono stata! Ho voluto starci!» (TACDC, 04, 79), y descubrir que «la vocazione è la stella che illumina la notte oscura delle circostanze» (TACDC, 04, 81).
+
+El modelo de este abandono es [[Abraham]], a quien Dios no elige por «ispirazione diretta» sino mediante un «abbandono oggettivo», según «l'ideale del bambino abbandonato in braccio alla madre» (TACDC, 02, 205; Gen 15,5-6). La confianza no brota de argumentos —«nessun discorso... ha di per sé la forza di attrarre il centro dell'io» (TACDC, 01, 19)— sino del encuentro con una Presencia que corresponde al corazón, «una grazia» (TACDC, 03, 159).
+
 ## Distinciones importantes
 
 - **Confianza filial vs. presunción**: la confianza se apoya en la misericordia de Dios con humildad; la presunción espera la salvación sin méritos ni arrepentimiento

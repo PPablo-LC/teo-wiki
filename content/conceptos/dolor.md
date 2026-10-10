@@ -50,6 +50,13 @@ alimento de la vida, se convierte en factor definitivo de su propio rostro» (03
 jóvenes, en el casco de la motonave *Elisabetta Montanari* por un incendio en la bodega
 (13 de marzo de 1987; 03, 49-53).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+- **Contra el «soffrire non serve a niente».** Frente a la mentalidad del mundo, que hace del dolor pura pérdida —Pavese: «La grande, la tremenda verità è questa: soffrire non serve a niente» (02, 99)—, TACDC propone el sufrimiento ofrecido: «la sofferenza ha un senso se offerta a Lui» (03, 29-33), de modo que la enferma «rende sacro quello che per gli altri normalmente è una condanna» (03, 29-33).
+- **La cruz como obediencia y esperanza.** La dificultad entra en lo cotidiano «affinché il rapporto con Cristo sia più autentico»; el cristiano está «disposto all'obbedienza totale, fino alla croce, con la certezza della risurrezione» (03, 41).
+- **El dolor y la esperanza en Cristo.** Cristo «era la fonte, il luogo della sua speranza» aun con los pecados pasados y futuros: «Chiunque ha questa speranza in lui, purifica se stesso, come egli è puro» (1 Gv 3,3; 03, 225-227).
+- **Las víctimas del mal del mundo.** El cristiano no solo es cómplice de la connivencia con el odio a Cristo, sino que puede ser «vittime dell'odio del mondo» (03, 131-133).
+
 ## Distinciones importantes
 
 - **Dolor sensible (lesión corporal percibida)** ≠ **tristeza (mal aprehendido interiormente por la razón)**: el dolor sensible sigue al tacto; la tristeza, a la aprehensión interior.

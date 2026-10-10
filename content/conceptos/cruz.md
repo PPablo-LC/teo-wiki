@@ -166,6 +166,12 @@ multitud, Cristo que pasa con la cruz, y ella que mira a Cristo y se abre un pas
 multitud mirándolo. Todos la miran. Ella, que no tenía rostro, era una mujer como las
 demás, ha adquirido nombre, es decir, rostro, personalidad en la historia» (02, 153).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Para Giussani la cruz entra en la vida cotidiana como la dificultad que vuelve más auténtico el vínculo con Cristo: «La difficoltà entra come straniera nella normalità del quotidiano, affinché il rapporto con Cristo sia più autentico», y exige la disponibilidad a «l'obbedienza totale, fino alla croce, con la certezza della risurrezione» (TACDC, 03, 41; Eb 10,7). El discípulo es llamado a participar en su cruz: el «sì» de Pedro abre esta vía para todos los cristianos, y «il sacrificio è offrire tutta la vita a Cristo» (TACDC, 03, 327).
+
+La cruz es, además, el fundamento de la unidad: «La partecipazione alla croce di Cristo è la nostra unità, e la gioia di Dio è la nostra forza» (TACDC, 04, 13). Y no es un recuerdo lejano, sino una presencia: el sacrificio «è Gesù in croce presente, è Dio fatto uomo... perché noi potessimo avere la forza di superare tutte le difficoltà» (TACDC, 04, 151). El pueblo nuevo nace «come collaborazione allo scopo della creazione, come collaborazione a Gesù, a Gesù in croce», hasta que «la Risurrezione di Cristo, come terminale della croce, penetra... tutto ciò che si è insieme» (TACDC, 03, 331).
+
 ## Distinciones importantes
 
 - **Cruz material**: instrumento de la pasión.

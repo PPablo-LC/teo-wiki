@@ -74,6 +74,10 @@ El amor y la unión con el Señor, que conllevan el cumplimiento de su voluntad,
 
 En la Tischrede 102 (AED, 22, 57-65), Giussani presenta la adoración como la forma más alta del amor: «Il dar su di giri massimo dell'amore sta nella adorazione dell'altro». Adorar es reconocer en lo amado el signo del Mistero, su consistencia en Cristo, y desear su revelación: «Adorazione che implica: riconoscere che Cristo è consistenza della presenza, e struggimento perché si riveli in questa presenza» (AED, 22, 65). De ahí el «metro de distancia» respetuoso del amor humano —«l'uomo non può adorare la donna che ama, se non da un metro di distanza» (AED, 22, 59)— y la paradoja de la posesión verdadera: «se non si adora un oggetto, non lo si possiede bene» (AED, 22, 65). La adoración es la manera de estar en la realidad sin poseerla de manera desordenada.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani aproxima la adoración a la amistad: «L'amicizia è una parola che sta vicina alla parola "Ti adoro, mio Dio"». La amistad verdadera es, en este sentido, una forma de adoración: «l'amicizia vera adora l'altro, non perché ha un bel muso... ma perché è: perché è!». Adorar es reconocer y afirmar el ser del otro sin reducirlo a sus cualidades útiles o agradables —el mismo movimiento gratuito con que se ama al niño «non perché è tuo, ma perché c'è»—, allí donde el otro participa del Misterio del Ser (TACDC, 04, L119-123).
+
 ## Distinciones importantes
 
 - **Adoración (latría) vs. veneración (dulía)**: la adoración se debe solo a Dios; a los santos y ángeles se les da culto de dulía

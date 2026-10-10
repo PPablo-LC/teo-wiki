@@ -59,7 +59,23 @@ La gloria de Dios es el fin de las cosas creadas: Dios crea para comunicar su pe
 
 La santificación o santidad moral constituye el fin último próximo de la vida humana y debe ordenarse a la comunión definitiva con Dios en la vida eterna y, en último término, a la gloria de Dios, fin último absoluto del hombre. Existe una íntima relación entre santidad y gloria en doble sentido: descendente (Dios comunica su gloria al hombre llamándolo a participar de su santidad) y ascendente (el hombre da gloria a Dios cuando corresponde a la gracia con una conducta santa, porque Dios es «glorificado en sus santos», 2 Ts 1, 10).
 
-## Distinciones importantes
+### Attraverso la compagnia dei credenti (TACDC)
+
+En los ejercicios de 1994-1996, la gloria de Dios se presenta como el horizonte que da sentido a la existencia y el criterio de toda acción moral:
+
+- **La gloria de Cristo como ley de la historia**: en 1995, el *Stabat Mater* de Dvořák resume la síntesis: *«Fac ut ardeat cor meum in amando Christum Deum, ut sibi complaceam»* — «Che tutta la mia personalità arda di rapporto con Cristo, ami questa parola, la dica veramente: "Gesù"! Che io sia legato a questa Presenza realmente, perché si compia ciò che Egli vuole, "ut sibi complaceam"» (03, 51-53). «Cristo tutto in tutti» (Col 3,11) es «la grande legge della storia, del tempo e dello spazio» (03, 53).
+
+- **El único propósito del vivir**: en 1994, Giussani afirma: «L'unico scopo del vivere… è la gloria di Cristo nel mondo»; «Padre, è venuta l'ora… glorifica il figlio tuo!» (Gv 17,1), compartiendo las debilidades «con pacienzia y fraternità»; «è un altro mondo in questo mondo» (02, 241-243).
+
+- **La «dimora» de Dios como lugar del amor**: comentando Lv 26,11, «Dio "stabilire un luogo… la Sua 'dimora', il Suo tempio": "dove tutto ciò che c'è è per Lui, per servirLo... tutto è amore come coscienza vivente"» (03, 139). El templo no es un edificio sino la vida ordenada a la gloria.
+
+- **La gloria como fin de la creación y de la redención**: san Ireneo, *Contro le eresie* IV, 20,7: *«Gloria Dei vivens homo»*; «la vita dell'uomo è la gioia di Dio» (03, 153). Isaías: «Ecco, ho fatto una strada nuova, dice Dio. Ma non la vedete?» (Is 43,19) (03, 153).
+
+- **La gloria en la oración sacerdotal**: «Padre, è giunta l'ora, glorifica il Figlio tuo»; «Tutte le cose mie sono tue e tutte le cose tue sono mie»; «l'amore con il quale hai amato me sia in essi e io in loro» (Gv 13,3; 14,7-9.20.31; 15,15.24; 16,15.28.32; 17,1-2.6-7.10.18.25-26) (02, 193). La gloria trinitaria se comunica a los discípulos.
+
+- **Testimonio misionero**: don Paolo Pezzi desde Novosibirsk: «l'accorgersi dello scorrere della umanità di Cristo nelle mie vene… lo scopo… è la gloria di Cristo», en un «rapporto generativo reale, concreto, oggettivo, non deciso da me» (04, 39).
+
+## Distincioni importanti
 
 - **Gloria interna o esencial**: la que Dios posee en sí mismo desde la eternidad, como conocimiento y amor de sí mismo en la Santísima Trinidad. Es infinita e inmutable.
 - **Gloria externa o accidental**: la que recibe Dios de las criaturas, manifestación de su perfección en la creación. Es esta la que puede aumentar.

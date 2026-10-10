@@ -207,11 +207,12 @@ prefación de Carrón. Los conceptos centrales desarrollados son:
 
 ## Resúmenes por capítulo (wiki)
 
-- [[01_prefazione_il_crocevia_tra_lessere_e_il_nulla|01 — Prefación: el cruce entre el ser y la nada]]
-- [[02_il_tempo_si_fa_breve_1994|02 — Il tempo si fa breve (Esercizi 1994)]]
-- [[03_si_può_vivere_così_1995|03 — Si può vivere così (Esercizi 1995)]]
-- [[04_alla_ricerca_del_volto_umano_1996|04 — Alla ricerca del volto umano (Esercizi 1996)]]
-- [[05_fonti|05 — Fuentes (nota de fuentes)]]
+- [[01_attraverso_la_compagnia_dei_credenti_19941996|01 — Preliminares, «Il libro» y «L'autore»]]
+- [[02_prefazione_il_crocevia_tra_lessere_e_il_nulla|02 — Prefación: el cruce entre el ser y la nada]]
+- [[03_il_tempo_si_fa_breve_1994|03 — Il tempo si fa breve (Esercizi 1994)]]
+- [[04_si_pu_vivere_cos_1995|04 — Si può vivere così (Esercizi 1995)]]
+- [[05_alla_ricerca_del_volto_umano_1996|05 — Alla ricerca del volto umano (Esercizi 1996)]]
+- [[06_fonti|06 — Fuentes (nota de fuentes)]]
 
 ## Referencias
 

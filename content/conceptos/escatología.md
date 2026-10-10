@@ -113,6 +113,13 @@ El número monográfico sobre las postrimerías aporta perspectivas metodológic
 
 **El misterio escatológico como lámpara encendida (D.C. Schindler, 14_feature_schindler.md).** Aunque su ensayo se centra en la pedagogía del deseo, Schindler evoca la estructura escatológica del misterio: el misterio (de Dios y de la propia vocación) no se resuelve en esta vida, sino que permanece como «una lámpara necesaria» que sostiene el impulso teológico y la alegría. La vida cristiana vigila con esa lámpara encendida, en la expectativa de que Dios, que «permanece semejante a sí mismo», obre más allá de nuestra comprehensión presente.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+- **El «aldilà» que empieza en el «aldiquà».** Con Evangelium vitae 37-38: «l'aldilà incomincia nell'aldiquà», en «l'esperienza di questa terra, di questo tempo» (03, 181); la eternidad se anticipa ya en la experiencia presente del Señor, y la [[escuela_de_comunidad|Scuola di comunità]] «ci forma a capire come questa esperienza del Signore ci sia, tutti i giorni» (03, 181).
+- **La certeza del futuro por una realidad presente.** Volantone di Pasqua 1996: «La speranza è una certezza nel futuro in forza di una realtà presente… è la presenza di Cristo, resa nota dalla memoria, che ci rende certi del futuro» (04, 35).
+- **El fin que solo el Padre conoce.** Frente al odio del mundo, el pequeño rebaño escucha: «Non temere, piccolo gregge, io ho vinto il mondo» (Gv 16,33); del día y la hora «nessuno lo sa… ma solo il Padre» (Mt 24,36) (03, 131).
+- **La ambigüedad del deseo de muerte.** El hombre, creado para la felicidad, «desidera la morte» (Sap 1,13-16; 03, 167): la escatología cristiana responde a ese «odio alla vita» mostrando que «l'uomo è fatto per un destino che è chiamato a possedere» (03, 63-71).
+
 ## Distinciones importantes
 
 - Escatología individual (muerte, juicio particular) y escatología universal (parusía, juicio final)

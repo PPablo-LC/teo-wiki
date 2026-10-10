@@ -62,8 +62,12 @@ mi persona. Creo que el movimiento ocurre por la persona y a través de la perso
 (01, 275).
 
 **El Pueblo de Dios.** El marco social de la misión está en el discurso de Paolo VI
-recogido en *Litterae communionis* (1980): «¿Dónde está el “Pueblo de Dios”, del que
+recogido en *Litterae communionis* (1980): «¿Dónde está el "Pueblo de Dios", del que
 tanto se ha hablado y se sigue hablando?» (01, 355).
+
+### Attraverso la compagnia dei credenti (TACDC)
+
+En la **prefazione** (2021), Carrón subraya que la *compagnia* existe para «strappare agli amici, e se fosse possibile a tutto il mondo, il nulla in cui ogni uomo si trova» (01, L61): la misión es arrancar al otro del nada mediante el encuentro con Cristo. En los **Ejercicios 1995**, la Asamblea explícita el nexo entre amor a Cristo y misión: «servendo mio marito servo il Mistero che fa tutte le cose… la legge morale altro non è che la descrizione di come una situazione… possa essere al servizio di Dio nel Suo disegno totale» (03, L279-281). Cristo envía: «Pasci i miei agnelli. Pasci le mie pecorelle. Pasci il mio gregge» (Gv 21,15-17); el «gregge» se convierte en «un insieme vivente nuovo che diventa protagonista della storia, diventa lo strumento di Cristo» (03, L283-285). La piedad de Cristo ante la multitud «como un gregge senza pastore» (Mt 9,36) es el «punto genetico» de la catolicidad (03, L289). En los **Ejercicios 1996**, la amistad como virtud suprema se vuelve criterio de la misión: «ogni uomo è oggetto dell'amicizia… È *per il loro destino*!» (04, L91-92); «non possiamo dirci amici, se non amiamo il destino dell'altro sopra ogni cosa» (04, L97-99). Solo la amistad —no la compañía, ni las congregaciones— «può fare popolo» (04, L133).
 
 ## Distinciones importantes
 

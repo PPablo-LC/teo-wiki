@@ -151,6 +151,10 @@ La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico),
 
 Selman recoge la defensa tomista de la libertad frente a dos equívocos. Contra la lectura que hace de la causalidad divina un determinismo: ser causado no es ser forzado (contra Hume, para quien causa = conjunción constante); Dios mueve la voluntad **desde dentro** — solo Él puede, porque está en todas las cosas — y al moverla no hace nada contra su naturaleza, que es querer voluntariamente: «no somos forzados sino inclinados al bien»; la voluntad movida por otro se mueve voluntariamente si ese otro es la causa de su naturaleza voluntaria. Y sin esa inclinación, la voluntad, sin inclinarse a nada, quizá no elegiría: no tanto libre como inerte. La gracia no suprime la libertad sino que la hace verdaderamente libre para el bien; la voluntad conserva siempre la posibilidad de resistir.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Carrón destaca que el encuentro con Cristo deja libre a la persona para acogerlo: «Lui attraverso lei mi ha attirata a Sé. Senza catene... lasciandomi libera di scegliere ancora quel dono» (TACDC, 01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, l. 33). Asimismo, la amistad se funda en una libertad compartida orientada al destino: «la vera natura dell’amicizia è vivere liberamente insieme per il destino» (TACDC, 01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, l. 55).
+
 ## Analizado para
 
 - [[jeff_lacour_true_freedom_through_prayer]]

@@ -43,6 +43,10 @@ Para Cabestrero, la intimidad singular de Jesús con su Dios Abbá es «un torre
 
 El autor señala que Jesús revela a «otro» Dios distinto del que esperaban los dirigentes religiosos: un Dios que «no intervenía» violentando la libertad humana, un Dios de ternura y misericordia que incluye a los últimos. Contra las imágenes de un Dios todopoderoso e intervencionista, Jesús muestra el Abbá que se acerca a los pobres, pecadores y excluidos por pura gracia.
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+Giussani sitúa el grito «Abbà, Padre!» (Gal 4,6) en el marco de la elección gratuita de Dios: el mundo es «oggetto della fantasia creatrice di Dio, oggetto della sua affezione redentrice, oggetto della sua amicizia elettiva, di un Dio che si pone all'uomo come Padre»; por eso «Nessuno può dire a Dio "Padre", come noi». Poder llamarlo Abbá es fruto de la predilección divina, no de una conquista humana. La Biblia llama «Alleanza» a ese amor con que Dios elige a los hombres «perché capiscano chi è... e collaborino alla Sua fantasia creatrice, alla Sua affezione redentiva, alla Sua amicizia elettiva, piena di preferenza, piena di preferenze». El don del Espíritu del Hijo que clama «Abbá» es el «legame di amore generativo, continuamente generativo e ultimamente salvifico» que Dios quiso establecer con el hombre (TACDC, 03, L55).
+
 ## Distinciones importantes
 
 - «Abbá» (exclusivo de Jesús, expresión de su filiación natural) vs. «Padre nuestro» (oración de los discípulos, expresión de la filiación adoptiva). Jesús nunca recomienda a los discípulos usar «Abbá».

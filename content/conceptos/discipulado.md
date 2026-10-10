@@ -45,6 +45,13 @@ Tóth recoge el lenguaje de Aparecida sobre los «discípulos y misioneros de Je
 
 En clave juvenil: los adolescentes «buscan una experiencia de amistad con Jesús»; los jóvenes «son sensibles a descubrir su vocación a ser amigos y discípulos de Cristo… No temen el sacrificio ni la entrega de la propia vida, pero sí una vida sin sentido» [archivo 33]. Tóth mismo hace del encuentro personal con Cristo la meta del catequista: «que cada joven tenga un encuentro con Jesús es la meta que se debe proponer todo catequista», pues Cristo no es «una doctrina» sino Alguien vivo, amigo ideal del joven (véase [[jesucristo]]) [archivo 10].
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+- **Del encuentro nace el discípulo.** El discipulado es en TACDC el fruto del encuentro con una Presencia que cambia: «esso si presenta sempre sotto la forma di un incontro, di un incontro significativo, di un incontro che cambia qualche cosa» (03, 83-85); «La gente che ha fatto quell'incontro è cambiata e si è messa a parlarne» (02, 167).
+- **El modelo fundacional.** Gv 1,35-49 es el «quadro más impresionante»: «Ecco l'agnello di Dio!», «Venite e vedrete», «Abbiamo trovato il Messia», «Tu sei Simone… ti chiamerai Cefa» (03, 95-101; 02, 153-155).
+- **Seguir es un acto de libertad.** «Seguire è un atto di libertà» (03, 63-71): la [[sequela_christi|sequela]] no es un programa moral previo sino respuesta a la mirada de Cristo, que cambia al hombre «come la crescita di un fiore» (02, 167).
+- **La señal del discípulo.** La amistad con Cristo se reconoce en la caridad fraterna: «Da questo tutti sapranno che siete miei discepoli, se avrete amore gli uni per gli altri» (Gv 13,35; 04, 57-59).
+
 ## Distinciones importantes
 
 - Todo cristiano es discípulo de Cristo, llamado a la perfección de la caridad.
