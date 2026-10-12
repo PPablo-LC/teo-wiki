@@ -88,6 +88,33 @@ Giussani parte de una crítica de la mentalidad moderna: «la mentalidad moderna
 
 PLDC documenta la degeneración histórica del concepto de razón (Parte I, cap. 3, §5): el racionalismo — desde la madurez del Renacimiento — concibe una razón «che non ammette né interferenza né integrazioni dal di fuori», *norma sui* y *norma universi* (Spinoza); la *illuminatio* agustiniana se convierte en autoiluminación de la razón autónoma. Contra ella, Giussani reivindica la ley suprema del realismo: «è l'oggetto a dettare il metodo di conoscenza» — la razón como conciencia del real en la totalidad de sus factores, donde existe la categoría de la posibilidad (el racionalismo es «l'abolizione della categoria della possibilità»). El corazón del desafío: «Che cosa è l'uomo? Un nulla capace di Dio» (de Bérulle); y la constatación final de la crisis: el hombre sin Dios «non ha più misura».
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En *Realtà e giovinezza. La sfida*, la razón es la **apertura total a la
+realidad**: «la ragione è come un occhio spalancato sulla realtà» (REG, 09;
+cf. SR). Su ley suprema es que **el objeto dicta el método de conocimiento**,
+y su exigencia propia es la de totalidad: no aceptar nada que no esté
+motivado (REG, 09).
+
+Elementos centrales en REG:
+
+- **La razionalidad como deber moral**: no es lícito renunciar a la
+  [[verificación]]; «la irracionalidad è l'atteggiamento più immorale»
+  (09; ver [[fe_razonable]]). En el método educativo, la razón se ejercita
+  en el **riesgo** y en la [[verificación]] (18).
+- **La razón y la [[pregunta_del_destino]]**: la razón es *esigenza* de
+  sentido; no se detiene ante lo inmediato, sino que se abre al
+  [[misterio]] (09).
+- **Contra el reduccionismo y la ideología**: reducir la razón a lo
+  medible o a una respuesta cerrada es la tentación de la
+  [[ideología]], que clausura la [[pregunta_del_destino]] (01; 09).
+- **La razón y la [[cultura]]**: «fuori della libertà non può esserci
+  cultura»; la cultura que odia la [[autoridad]] y la tradición se vuelve
+  despótica (17).
+- **Razón y [[fe]]**: la fe no es un salto irracional, sino una adhesión
+  razonable que se verifica en la [[experiencia]]; la razón es la medida
+  del «proprio» del hombre (09).
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[fe]], la [[verdad]], la [[libertad]], la [[ley_natural]], la [[revelación]], la [[gracia]], la [[filosofía]], la [[teología]] y el [[conocimiento_de_dios]].

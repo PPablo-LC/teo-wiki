@@ -9,7 +9,7 @@ description: "El descenso a los infiernos es el artículo del Símbolo de la Fe 
 # Descenso a los infiernos
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-11
 
 ## Definición
 
@@ -68,11 +68,11 @@ Entre la pasión y la resurrección, el descenso a los infiernos muestra que su 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[cristo]], [[muerte_de_cristo]], [[resurrección_de_cristo]], [[redención]], [[limbo]], [[seno_de_abraham]], [[misterio_pascual]], [[justos_del_antiguo_testamento]].
+Se relaciona con [[cristo]], [[muerte_de_cristo]], [[resurrección_de_cristo]], [[redención]], [[limbo]], [[limbo_de_los_padres]], [[seno_de_abraham]], [[misterio_pascual]], [[justos_del_antiguo_testamento]].
 
 ## Ver también
 
-[[cristo]], [[redención]], [[misterio_pascual]], [[resurrección_de_cristo]]
+[[cristo]], [[redención]], [[misterio_pascual]], [[resurrección_de_cristo]], [[limbo_de_los_padres]], [[seno_de_abraham]]
 
 ## Referencias
 

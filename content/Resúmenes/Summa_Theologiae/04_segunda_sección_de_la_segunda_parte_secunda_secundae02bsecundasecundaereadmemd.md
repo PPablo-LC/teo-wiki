@@ -15,7 +15,7 @@ tags: ["resumen", "summa theologiae"]
 - [[fe]], [[credenda]], [[infidelidad]], [[herejía]], [[apostasía]]
 - [[esperanza]], [[desesperación]], [[presunción]]
 - [[caridad]], [[amor]], [[gozo]], [[paz]], [[misericordia]], [[beneficencia]], [[limosna]], [[corrección_fraterna]]
-- [[odio]], [[acídia]], [[envidia]], [[discordia]], [[cisma]], [[guerra]], [[escándalo]]
+- [[odio]], [[acedia]], [[envidia]], [[discordia]], [[cisma]], [[guerra]], [[escándalo]]
 - [[dones_del_espíritu_santo]], [[don_de_sabiduría]]
 - [[prudencia]], [[don_de_consejo]]
 - [[justicia]], [[derecho]], [[injusticia]], [[juicio]], [[restitución]]
@@ -53,7 +53,7 @@ Después de considerar, en general, las [[virtudes]] y los vicios, con lo demás
 
 - **Q.23–26 — La caridad en sí misma**: La [[caridad]] es amistad con Dios, infundida por la gracia; su objeto es Dios como fin último y el prójimo en Dios; tiene un orden: primero Dios, luego los ángeles, los hombres, los animales, las cosas.
 - **Q.27–33 — Actos de la caridad**: El [[amor]] es acto principal; le siguen [[gozo]], [[paz]], [[misericordia]], [[beneficencia]], [[limosna]] y [[corrección_fraterna]].
-- **Q.34–43 — Vicios contrarios a la caridad**: El [[odio]] es opuesto al amor; la [[acídia]] es tristeza del bien divino; la [[envidia]] es dolor ajeno bien; la [[discordia]], la [[porfía]], el [[cisma]], la [[guerra]], la riña, la sedición y el [[escándalo]] son pecados contra la unidad y la paz.
+- **Q.34–43 — Vicios contrarios a la caridad**: El [[odio]] es opuesto al amor; la [[acedia]] es tristeza del bien divino; la [[envidia]] es dolor ajeno bien; la [[discordia]], la [[porfía]], el [[cisma]], la [[guerra]], la riña, la sedición y el [[escándalo]] son pecados contra la unidad y la paz.
 - **Q.44–46 — Preceptos y don de sabiduría**: Los preceptos de caridad son dos (amor a Dios y al prójimo); el [[don_de_sabiduría]] juzga todas las cosas según la divina.
 
 ### Virtudes cardinales

@@ -59,6 +59,18 @@ Giussani retoma la noción de *Il senso religioso* y define el corazón como «l
 
 De ahí las dos afirmaciones que enmarcan el tema: «Quello che il cuore desidera già esiste» (TACDC, 02, 191), es decir, el deseo del corazón tiene un objeto real y no ilusorio; y «il nostro cuore ha un bisogno ultimo... di compimento, di verità, di bellezza, di bontà, di amore», cuya correspondencia en Cristo «diventa l'eccezionalità suprema» (TACDC, 03, 103). El corazón es, en fin, el *crocevia* donde se decide si el tiempo es tumba o futuro: «L'io, il nostro io, è il crocevia tra l'essere e il nulla» (TACDC, 02, 67).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+Para Giussani el [[corazón]] es la estructura misma de la persona: «il cuore è ciò di cui l'uomo è fatto», y es lo único que «invece di diventare vecchia, diventa sempre più giovane» (REG, 6). No designa el sentimentalismo, sino el conjunto de las exigencias originarias: «L'esigenza di felicità, di giustizia, di amore, dell'essere soddisfatti nel senso tenero e totale del termine: questo è il cuore» (3). El corazón es la medida del yo y la sede de su [[deseo]] de [[felicidad]]: «quanto più beve, tanto più gode […] e tanto più ha sete. È una sete infinita» (9).
+
+Elementos centrales en REG:
+
+- **El corazón nunca está tranquilo**: su inquietud es signo de juventud y de apertura al [[misterio]] (3).
+- **El corazón se educa o se atrofia**: «Occorrono un esempio e una compagnia che educhino il cuore. Se non si educa, il cuore si atrofizza» (3); así se forma en la [[compañía]].
+- **Fidelidad al corazón**: «La fedeltà a quello che per natura sentiamo è un segno di intelligenza […] e di amore»; «Questo è l'io umano: intelligenza e amore» (5).
+- **El corazón y la promesa de juventud**: «Per rimanere giovani bisogna rimanere fedeli a ciò per cui si è nati, al proprio cuore» (3).
+- **Religión y corazón**: «non c'è religiosità autentica se non si prende sul serio la parola “io”»; el corazón es la exigencia que la [[religiosidad_natural|religiosidad]] custodia (5).
+
 ## Distinciones importantes
 
 - **Corazón bíblico vs. corazón romántico**: en la Escritura, el corazón designa el centro personal, no el mero sentimentalismo

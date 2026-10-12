@@ -148,6 +148,17 @@ En MDO, la familia cristiana se caracteriza por la **hospitalidad**:
 - **Su modelo es la Sagrada Familia y su fundamento la indisolubilidad**,
   que descansa en la misma razón de la virginidad (*Mt* 19,12) (06, 13).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En REG la [[familia]] es el lugar natural de la educación a la [[pertenencia]], entendida como dimensión estructural de la persona: «l'appartenenza vera è libertà», pues la persona «è rapporto con l'essere, è appartenenza al mistero, è relazione con l'infinito» (REG, 18). El vínculo familiar pasa por la [[responsabilidad]], que lo plasma «secondo la coscienza del destino»; de ahí la condición fundamental de que «la coscienza di appartenere a un altro» sea transparente en los padres, mediante la «pressione osmotica» del testimonio (18).
+
+Elementos centrales en REG:
+
+- **Los padres y la [[felicidad]] del hijo**: son el primer lugar donde se toma en serio la palabra «felicidad»: «il papà e la mamma non possono non desiderare la felicità del loro figlio e darebbero la vita per lui» (5).
+- **Pertenencia y crecimiento**: «Quanto più appartenete a qualcosa da cui derivate […] tanto più crescete»; la pertenencia verdadera no aliena, sino que revela la [[libertad]] (7; 18).
+- **La gratuidad del «ci sono»**: la gratitud por la generación y la [[paternidad]]/[[maternidad]] como riconsegna del hijo al Otro, que lo reconoce distinto y libre (18).
+- **El método educativo**: la familia educa a través de la [[experiencia]] —tradición asimilada, conducción de la mano, hipótesis de trabajo, riesgo y compañía estable— y no mediante el [[poder]] (18).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]

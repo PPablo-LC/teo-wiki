@@ -47,6 +47,18 @@ El deseo es, en TACDC, la huella del destino en el corazón humano. Los primeros
 
 La samaritana es la figura de esta sed: «tutta assettata di una vita che i suoi tentativi non erano stati in grado di soddisfare», se siente desafiada por «l'unica acqua in grado di soddisfare la sua sete spropositata» y pide: «Dammi quest'acqua» (TACDC, 01, 21.29). El «bisogno ultimo... di compimento, di verità, di bellezza, di bontà, di amore» (TACDC, 03, 103) es el mismo que el «desiderio infinito di felicità, di libertà, di bontà, di giustizia, di amore» que constituye la «esperienza elementare» (TACDC, 04, 145-147). El deseo, lejos de ser negado, es el punto de partida: «il cuore è sete di felicità e di bellezza» (TACDC, 03, 171).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En REG el [[deseo]] es el fenómeno originario del yo: «una forza operosa ci affatica» (Foscolo) expresa el «incoercibile impeto a realizzare sé», y la *brama* «è […] una *promessa di adempimento*» que funda la simpatía con el propio ser y el «senso di sé» (REG, 11). El deseo no es carencia estéril, sino la huella del [[destino]]: «il fenomeno del *desiderio* […] incarna quella attrattiva profonda con cui Dio ci chiama a Sé» (13). Su objeto es la [[felicidad]] —una «sete infinita» que cuanto más bebe, más tiene sed (9)— y su dinamismo propio es volverse [[pregunta_del_destino|domanda]]: «Il desiderio del vero non può non diventare domanda, se è desiderio autentico» (7).
+
+Elementos centrales en REG:
+
+- **Deseo vs. sogno**: el sueño «nasce dalla testa, dalla fantasia»; el deseo verdadero, en cambio, «è dettato dalla natura» y emerge con el tiempo, como el [[ideal]] (3; 6).
+- **El deseo no se anticipa a la realidad**: «Non bisogna prevenire la realtà col desiderio» (Abelardo); el plan de respuesta al deseo lo fija «chi ti dà il desiderio» (7).
+- **El deseo verdadero pide ayuda**: «Quanto più è vero il desiderio […] tanto più, se non puoi, chiedi aiuto»; cerrarse es lo deshumano (7).
+- **La insatisfacción revela el [[destino]]**: en su concreción, la realidad aparece en su «insoddisfazione finale»; es «promettente» pero «ferita» (10).
+- **Deseo de vida grande y [[vocación]]**: «quella natura che ti spinge a desiderare cose grandi è il cuore, quindi seguilo»; la vocación no la elige el hombre, la da Dios (8).
+
 ## Distinciones importantes
 
 - **Deseo natural vs. deseo desordenado (concupiscencia)**: el primero está dentro del orden creado y es querido por Dios; el segundo es fruto del pecado y debe ser combatido.

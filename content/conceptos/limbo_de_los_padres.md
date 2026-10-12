@@ -57,7 +57,7 @@ La liturgia de la Iglesia celebra este acontecimiento en el Sábado Santo, cuand
 
 El Limbo de los padres conecta con varios aspectos de la teología:
 
-- [[bajada_a_los_infiernos]]: El descenso de Cristo para liberar a los justos del Limbo.
+- [[descenso_a_los_infiernos]]: El descenso de Cristo para liberar a los justos del Limbo.
 - [[pecado_original]]: La causa por la que los justos no podían entrar en el cielo.
 - [[redención_de_cristo]]: El acontecimiento que abre las puertas del cielo para los del Limbo.
 - [[beatitud_beatífica]]: La bienaventuranza plena que los del Limbo esperaban y que recibieron tras la liberación.
@@ -69,7 +69,7 @@ El Limbo de los padres conecta con varios aspectos de la teología:
 
 ## Ver también
 
-[[bajada_a_los_infiernos]], [[pecado_original]], [[redención_de_cristo]], [[beatitud_beatífica]], [[purgatorio]], [[cielo]], [[fe]]
+[[descenso_a_los_infiernos]], [[pecado_original]], [[redención_de_cristo]], [[beatitud_beatífica]], [[purgatorio]], [[cielo]], [[fe]]
 
 ## Referencias
 

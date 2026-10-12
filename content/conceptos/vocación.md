@@ -117,6 +117,17 @@ la acogida:
   ([[memores_domini]]) muestra la continuidad vocacional en el movimiento
   (05, 51).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En REG la [[vocación]] es la respuesta personal al [[destino]] a través de las circunstancias: «Vivere la vita come vocazione significa tendere al Mistero attraverso le circostanze […] La vocazione è abbandonare tutte le circostanze per obbedire […] quello che Cristo vuole da te» (REG, 6). No es una elección del hombre: «La vocazione non la sceglie l'uomo, gliela dà Dio»; amar la vocación es amar el [[ideal]], es decir, «Dios, Cristo, Destino» (8).
+
+Elementos centrales en REG:
+
+- **La vocación nace de un [[encuentro]]**: «Una grande esistenza nasce dall'incontro con una grande occasione»; los primeros discípulos responden al «Venite a vedere» (4; 5).
+- **La vocación como respuesta responsable al destino**: frente al hombre sin nessi que no responde a nadie, «la risposta al destino è la *mia* risposta al destino, e allora si chiama […] vocazione» (12).
+- **El deseo y la vocación**: «Non bisogna prevenire la realtà col desiderio»; «Il piano di risposta al tuo desiderio è fissato da chi ti dà il desiderio» (7).
+- **Vocación y [[compañía]]**: la compañía vocacional ayuda a caminar hacia el Destino y a conocerse (7).
+
 ## Distinciones importantes
 
 - **Vocación universal a la santidad**: llamada que Dios dirige a todos los bautizados, sin excepción.

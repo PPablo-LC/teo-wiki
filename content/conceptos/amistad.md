@@ -31,6 +31,17 @@ La amistad no se reduce al sentimiento ni al cálculo: es «un amore reciproco. 
 
 La amistad es, además, creadora de pueblo y reflejo de la Trinidad: «Senza amicizia… non si crea un popolo, non si assicura una storia»; es «la grande protagonista del creato» que «riverbera… il Mistero nascosto della Trinità» (§111), y «solo l'amicizia – non la nostra compagnia… – può fare popolo» (§129-133). No es refugio cómodo: «Possiamo essere compagni… ma non amici» (§151), y su prueba suprema es dar la vida por los amigos (Gv 15,13), como el padre Kolbe (§153-155). [[josé_miguel_garcía|Don José Miguel García]] la desarrolló como «L'amicizia come metodo del rapporto tra Dio e l'uomo» y «L'amicizia come sorgente della vera moralità» (§101-103).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En REG la [[amistad]] se juega en la [[compañía]] y en la mirada al [[destino]] del otro. La medida de la amistad es la verdad: «È menzogna amare se non si ama il destino dell'altro» (REG, 6), y la compañía vocacional es tal «per il fatto che ti *aiuta a camminare*» y a conocerte, sin disolver la personalidad (7).
+
+Elementos centrales en REG:
+
+- **La ausencia del amigo**: los versos de la *Sevillana del adiós* —el vacío que deja el amigo que se va «es como un pozo sin fondo que no se puede llenar»— expresan la herida que solo una Presencia puede colmar (9).
+- **Amistad y destino**: se quiere al amigo desde su destino; la relación «giusta» con una persona exige «la prospettiva del suo destino» (7).
+- **La compañía como amistad**: «l'io nasce da un noi»; sin un «tú» «l'io si trova smarrito, inaridisce» (6).
+- **Amistad y perdón**: la palabra más grande de la comunidad es «perdono» o «misericordia», que transforman el mal en bien (6).
+
 ## Ver también
 
 [[amistad_con_dios]], [[amor_al_prójimo]], [[caridad]], [[amor_conyugal]], [[bien_común]]

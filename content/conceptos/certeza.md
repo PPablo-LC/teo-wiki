@@ -29,11 +29,36 @@ En el capítulo II (segunda premisa: razonabilidad), Giussani afirma que la cohe
 
 ODPC aplica la certeza existencial (o moral) al problema de Cristo. La certeza moral es «la culla di un'esistenza ragionevole»: nace de una disponibilidad fiel en el tiempo, no de una evidencia inmediata; el juicio exige «includere il tempo della sua durata» ([[convivenza]]). La inteligencia de los indicios es su instrumento: cuanto más potente el hombre, más capta certezzas por pocos indicios (Rousselot: los que no necesitan prodigios para creer no son alabados por creer sin razones, sino por captar una gran verdad con un indicio mínimo); la fe que Jesús solicita es «l'accesso dell'intelligenza a una verità», no credulidad (Tresmontant: el muchacho que aprende a nadar). En los primeros discípulos, la certeza nace de la multiplicación de indicios en la convivencia — prodigios, inteligencia imbatible, bondad, la mirada que revela el corazón — hasta la formulación de Pedro: «Se andiamo via da te, da chi andiamo? Tu solo hai parole che spiegano» ([[confesión_de_pedro]]). Por eso Gesù espera a que el tiempo fije las posiciones antes de revelar explícitamente su misterio: la certeza es libre adhesión, no coacción.
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En *Realtà e giovinezza. La sfida*, Giussani presenta la certeza como la
+condición misma del conocer y del vivir: la certeza es necesaria incluso
+«per andare dalla finestra alla porta» (REG, 09). La certeza cristiana no
+es una conclusión lógica, sino la **[[experiencia]] de una presencia**:
+«La *certezza* è la *condizione del problema*» (09).
+
+Elementos centrales en REG:
+
+- **Problema vs. duda**: «Il dubbio non è una domanda, è già una
+  soluzione!» (09); de la duda nace el niente, del problema nace la
+  búsqueda. La certeza no cierra la búsqueda, la hace posible.
+- **La certeza como experiencia de una presencia**: el creyente no posee
+  una certeza abstracta, sino la experiencia de «Colui che è qui tra
+  noi» (02), que sostiene la [[libertad]] y el sentido de la
+  **[[pertenencia]]** (09).
+- **La «fede ragionevole»** como certeza que se verifica en la
+  [[experiencia]] y se comunica con razones: «rendere ragione della
+  speranza che è in noi» (*1Pt* 3,15) (08; ver [[fe_razonable]]).
+- **La falsa certeza del escepticismo**: «scetticismo equivale sempre a
+  immoralità» (01); quien parte del [[duda|dubbio]] «non troverà più
+  nulla».
+
 ## Distinciones importantes
 
 - **Certeza moral vs. certeza matemática**: la primera es adecuada al objeto humano y deja lugar a la libertad; la segunda es apodíctica.
 - **Certeza razonable vs. certeza sin razones**: la certeza de la fe se funda en motivos adecuados; no es un salto irracional.
 - **Duda productiva vs. duda sistemática**: la duda que investiga es sana; la duda sistemática es patológica e improductiva.
+- **Certeza como condición del problema vs. certeza como solución cerrada** (REG): la certeza verdadera abre la búsqueda; la respuesta cerrada (ideología) la clausura.
 
 ## Relaciones doctrinales
 

@@ -87,6 +87,37 @@ Tóth enseña que la **educación** religiosa no puede ser meramente intelectual
 - **Poner a Cristo en la cabeza.** La «nostra educazione» consiste en «metterLo nella nostra testa… legando strofa per strofa»; se colabora con el mundo «se quotidianamente non andiamo controcorrente!» (03, 169-171). La mañana es «la chiave di volta di qualsiasi ascesi, di qualsiasi strada spirituale» (03, 173).
 - **La pedagogía del discurso oral.** La obra conserva la instancable actividad educativa de Giussani, comunicada «attraverso la ricchezza e il ritmo di un discorso orale» (00, 18); su origen remite al pecado original y al hecho de que «nessuno ci educa» (03, 157), y su instrumento propio es la [[escuela_de_comunidad|Scuola di comunità]], que «ci forma a capire come questa esperienza del Signore ci sia, tutti i giorni» (03, 181).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En *Realtà e giovinezza. La sfida*, la educación es definida con la fórmula
+de [[josef_andreas_jungmann]]: «**L'educazione è introduzione alla realtà
+totale**» (REG, 16). No se trata de transmitir un sector de saber, sino de
+introducir a la persona en la realidad entera, en su significatividad y en
+su apertura al [[misterio]] (ver [[realidad_total]]).
+
+Elementos centrales en REG:
+
+- **La educación como [[comunicación_de_sí]]**: «L'educazione non è
+  questione di strumenti […] ma è questione di *verità di vita* dell'individuo
+  che ha la funzione dell'educatore»; «solo la vita comunica la vita»
+  ([[paul_bourget]]) (17). «La sorgente dell'educazione […] viene dalla mia
+  vita, non dal mio essere insegnante».
+- **El método de la [[experiencia]]**: (a) la [[tradición]] asimilada;
+  (b) el conducir por mano; (c) la hipótesis de trabajo; (d) el **riesgo**;
+  (e) la [[compañía]] estable o fidelidad (18).
+- **[[tradición]], [[autoridad]] y [[verificación]]**: sin autoridad no hay
+  propuesta, sin propuesta no hay confronto (16); «Senza verifica non c'è
+  educazione»; una escuela católica es un ámbito de verificación (16; ver
+  [[verificación]]).
+- **El «riesgo educativo» y la [[libertad_de_educación]]**: el proceso
+  formativo «gioca tutto e sulla libertà di chi educa e sulla libertà di
+  chi viene educato»; «Il rapporto tra Dio e l'uomo è un immenso drammatico
+  rischio educativo» (16). «Fuori della libertà non può esserci cultura».
+- **La dimensión política**: la cultura despótica odia la [[autoridad]] y
+  el [[padre]]; una sociedad que multiplica instrumentos «per mascherare
+  la sua volontà di dominio totale» es tiránica; el [[totalitarismo]]
+  pretende ser la fuente de la verdad (17).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

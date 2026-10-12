@@ -142,6 +142,18 @@ ODPC contiene la definición más sintética de la libertad en Giussani: «la li
 
 - **Parte prima, Cap. 3 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — frente a la libertad moderna entendida como «ausencia de lazos, abandono al propio impulso de instinto, imagen u opinión», para el cristianismo «la libertad es energía de adhesión al real, al ser: adhesión a otro que nos completa, que hace crecer y realiza la persona». Es «una fuerza afectiva que conduce a un Tú último», energía constructiva del yo mediante la adhesión a otro.
 - **Parte prima, Cap. 6** — la opción de la penumbra: la posición moderna ante el misterio (Dios/no-Dios) no es fruto de razonamiento sino de una «opción», de una opción de libertad (Althusser); quien se vuelve de espaldas a la luz convierte la realidad en vestíbulo de oscuridad. La libertad se educa dando «energía de adhesión al ser»: su lugar natural es la comunidad humana (SDL 02, `02_parte_seconda_conoscenza_e_mistero.md`), que sostiene ante el vacío del riesgo.
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En REG la [[libertad]] es la facultad de adherir a la realidad y a su [[destino]]; su ejercicio se mide por la [[certeza]], pues «Nella vita nulla si svolge se non attraverso una certezza» (REG, 3). No es ausencia de vínculo, sino energía de adhesión: el cristianismo «permane in mezzo a questa compagnia di amici», y para «rimanere giovani» hay que «rimanere fedeli a ciò per cui si è nati, al proprio cuore» (3). Su prueba propia es moral: «Aderire alla ragione è ciò che misura la dignità umana. […] Si chiama anche moralità» (8).
+
+Elementos centrales en REG:
+
+- **La libertad y el [[misterio]]**: sin referencia al sentido, la libertad se degrada; el anuncio de Jesús comienza con «Cambiate mentalità», que apela a la libertad y a la [[conversión]] (9).
+- **La libertad y el [[infierno]]**: «L'inferno è il concetto più importante nella concezione cristiana dell'uomo […] perché senza l'inferno non ci sarebbe libertà» (9).
+- **Libertad y [[poder]]**: los instrumentos de comunicación social son «strumenti del potere»; la libertad se defiende como [[libertad_de_educación]] (9).
+- **La libertad y el uso de los bienes**: contra «l'equivoco del possesso», la libertad usa la inteligencia y los bienes según el destino y la [[compañía]] (7).
+- **La rebelión**: «La resistenza a aderire è una potenziale ribellione a Dio» (8).
+
 ## Relaciones doctrinales
 
 La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].

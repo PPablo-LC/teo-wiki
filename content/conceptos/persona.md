@@ -55,6 +55,17 @@ a la instrumentalización del poder. La asociación
 [[famiglie_per_l_accoglienza]] es «una obra de gente, de personas» con
 «gran responsabilidad» (MDO, 05, 7-9).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En REG la [[persona]] —el «io»— es la realidad que mide el universo: «Togliete la parola “io” dall'universo, che cosa rimane? […] solo per un filo distinto dal puro niente» (REG, 5). Su dignidad se dice en la palabra [[felicidad]]: «La dignità dell'*io* vero è la parola “felicità”», y solo la [[religiosidad_natural|religiosidad]] la toma en serio de verdad (5). La persona es, además, un «impeto a realizzare sé», una fuerza orientada a su cumplimiento (11).
+
+Elementos centrales en REG:
+
+- **El yo como relación**: «l'uomo è un angolo aperto all'infinito»; por eso la persona se realiza en la relación con un Otro y en la [[compañía]] (3).
+- **La persona contra la omologación**: un pueblo está hecho de personas, y la «omologazione» que aplana las cabezas es «l'uccisione di un popolo» (9).
+- **Persona y [[responsabilidad]]**: «Responsabilità vuol dire “risposta”»; sin una presencia a la que responder, la persona queda en la [[soledad]] y la [[tedio]] (12).
+- **Persona y [[vocación]]**: la respuesta personal al destino constituye la vocación; la persona no se disuelve en la compañía, sino que en ella se conoce y camina (7; 12).
+
 ## Distinciones importantes
 
 - **Persona vs. individuo**: el individuo se define por sí; la persona es

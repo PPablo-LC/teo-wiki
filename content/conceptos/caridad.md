@@ -359,6 +359,29 @@ hospitalidad:
   all'Essere» (*1 Co* 13), el amor de la [[compañía_de_las_obras]]
   (08, 91-93).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En *Realtà e giovinezza. La sfida*, la caridad es la **forma de toda
+educación y de toda vida cristiana**. El joven no se educa con discursos
+sino con el testimonio de una vida que se da: «Solo la vita comunica la
+vita», y esa comunicación es la **[[comunicación_de_sí]]** que encuentra su
+nombre propio en la *caritas* (REG, 17).
+
+Elementos centrales en REG:
+
+- **La caridad como testimonio que atrae**: la juventud es el campo de la
+  promesa y de la espera; solo una vida entregada por amor responde a la
+  [[exigencias_fundamentales|exigencia de felicidad]] del joven (01; 17).
+- **La caridad como criterio de la comunidad educativa**: la
+  [[compañía]] cristiana se construye sobre la gratuidad —«la caridad no
+  se mide»—, y educa precisamente por la calidad del vínculo que propone
+  (16-18).
+- **La caridad y la renuncia**: el amor verdadero se verifica en el
+  sacrificio y en la entrega concreta, no en el sentimiento; la «via della
+  carità» es camino de madurez y de libertad (ver [[sacrificio]]).
+- **La caridad como respuesta al «otro»**: el prójimo no es un caso de
+  estudio sino una persona cuyo destino interpela; amar es reconocer a cada
+  uno en su relación con Dios (01).
 ## Referencias
 
 - CEC §1822-1829

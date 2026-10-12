@@ -61,6 +61,17 @@ es como el envoltorio sacramental que lo hace presente» (02, 51).
 habitual que nuestra compañía haga memoria de Él, automáticamente memoria de Él. Y
 así conversamos, discutimos de nuestras cosas» (02, 211).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En REG la [[presencia_de_cristo]] es el factor decisivo de toda la vida, y su signo es el cambio del yo: «Se io sono cambiato, vuol dire che è presente» (S. Tomás, *De veritate*, q. 10, a. 8) (REG, 3). Es una presencia contemporánea, no un recuerdo del pasado: contra un cristianismo meramente estético, «Rapportarsi a un defunto, è un rapporto estetico: la sua vita ha perduto il pungolo» (Kierkegaard) (5). «Io sarò con voi tutti i giorni» (*Mt* 28,20): el acontecimiento debe ser presente, y lo es en la [[compañía]].
+
+Elementos centrales en REG:
+
+- **La invisibilidad a dos pasos**: «è a due passi l'invisibile, non è difficile toccarlo, entra dentro la nostra esperienza»; se reconoce «senza obiezione possibile» (4).
+- **Cristo en la compañía**: «Cristo è dentro la compagnia di coloro che lo hanno udito e gli hanno detto “sì”» (5); la compañía lo hace presente en la historia de dos mil años (6).
+- **Sin un Altro la compañía no basta**: «Occorre la presenza di qualcosa d'Altro» (10).
+- **La grande Presenza**: sin reconocer esta Presencia «non riconosco veramente la presenza di niente»; todo lo demás se vuelve efímero, opinión o reactividad (12).
+
 ## Distinciones importantes
 
 - **Presencia vs. idea**: La presencia de Cristo no es un concepto ni un recuerdo nocional; es un acontecimiento actual que se percibe en el signo y en la carne.

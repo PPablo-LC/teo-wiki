@@ -63,6 +63,17 @@ La Veritatis Splendor (§27) reafirma la Tradición viva como el medio por el cu
 
 PLDC describe la tradición como el instrumento más grande de la comunicación del verdadero en la vida de la Iglesia (Parte III, cap. 3, §1a): «la coscienza della comunità che vive ora, ricca della memoria di tutta la sua vicenda storica». Siguiendo a de Lubac sobre *Dei Verbum*, la tradición es «tradizione concreta e vivente, che fruttifica durante il tempo»: la comunidad cristiana, como una persona que crece, toma conciencia de la verdad que Dios le ha puesto dentro; la memoria es elemento fundamental de su personalidad, y su falta sería síntoma de esclerosis. La unidad del cristiano con la tradición es una de las grandes contra-pruebas de su autenticidad religiosa. Contra la objeción de que la Iglesia sea una corrupción del cristianismo, Newman: tras la serie de sus desarrollos, «se fosse una corruzione, avremmo un esempio di un errore continuato così nuovo... da parere quasi un miracolo» — y Whitehead había observado que una ideología no mantiene coherencia con su origen más de una generación: «la Chiesa con la sua storia ormai millenaria osa affermare di non essersi mai contraddetta. Tale sfida è già miracolo». Por eso «la fedeltà alla tradizione non è mai ripetizione servile» (de Lubac): referirse a los primitivos y a los Padres puede ser fecundo solo en el acontecimiento de una dimensión personal nueva.
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En REG la [[tradición]] es la condición del rinnovamento, no un peso muerto: «il *vero concetto di tradizione* è quello di rappresentare un valore universale da riscoprire in nuove esperienze» (REG, 14), y «La tradizione è la condizione del rinnovamento» (Wojtyła) (16). Es la riqueza del pasado que vive como presente y ofrece «un'ipotesi di significato, un'immagine del destino»; sin ella «sollecitiamo una reazione, ma non comunichiamo nulla» (16).
+
+Elementos centrales en REG:
+
+- **Tradición y [[autoridad]]**: la autoridad es el factor comunicativo de la tradición, y la [[familia]] es su primer lugar natural y primera forma de autoridad (16).
+- **Tradición y [[libertad]]**: la «libertà di valorizzare la propria tradizione» es «l'aspetto più acuto della libertà culturale»; el «terrorismo culturale» que la impide es una forma de [[poder]] (16).
+- **Tradición y [[verificación]]**: la tradición es una hipótesis que el joven debe verificar en su experiencia; sin verificación no hay educación (16).
+- **Tradición y [[cultura]]**: la educación es comunicación de una tradición y de una cultura, no de instrumentos (17).
+
 ## Ver también
 
 [[tradición_apostólica]], [[sagrada_escritura]], [[magisterio_de_la_iglesia]], [[depósito_de_la_fe]], [[revelación_divina]], [[dei_verbum]]

@@ -87,6 +87,18 @@ En la prefación de Carrón, la compañía se define por su inserción en la Igl
 
 Un aporte propio de TACDC es la distinción entre «gesto» y «raduno»: el estar juntos no es un raduno, sino un gesto, es decir, un atteggiamento que «porta il mondo e il suo significato». En 1995 la compañía aparece, además, como el lugar donde se guarda la memoria del destino: una carta expresa el deseo de «permanere in questa compagnia… perché è l'unica che mi fa ricordare… qual è il vero destino della mia vita». Y en 1996 Giussani la llama «l'argomento prezioso con cui Dio ci ha messi su una strada» (TACDC, 04, §123), subrayando que es una gracia recibida y no una conquista.
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En REG la [[compañía]] es el «strumento» con que se sostiene la memoria del [[destino]] y la condición para no quedar solos ante la vida: «Senza un “tu” l'io si trova smarrito, inaridisce»; «l'io nasce da un noi» (REG, 6). Es, además, un pueblo: «io divento questa compagnia […] come se generassi […] un popolo nuovo. Noi siamo un popolo» (5), dilatación histórica del [[encuentro]] con Cristo.
+
+Elementos centrales en REG:
+
+- **La compañía sostiene el esfuerzo del singular**: «Solo la compagnia tra noi può sostenere lo sforzo», pero no basta sin «la presenza di qualcosa d'Altro» —sin la [[presencia_de_cristo]] (10).
+- **Compañía y [[vocación]]**: es una «compagnia vocazionale», el lugar donde se prolonga la domanda y la [[letizia]] (7); su función es «aiutarti a camminare» (7).
+- **Compañía y oración**: quien tiene un deseo verdadero y no puede solo, «chiedi aiuto»; la compañía es el lugar del grito y de la [[oración]] (7; 10).
+- **Compañía y [[experiencia]]**: «La prima creazione del cristiano è un'esperienza umana diversa, e non può farlo uno da solo» (9).
+- **La recomendación**: «Vi raccomando una cosa sola: non lasciate mai la compagnia» (6).
+
 ## Distinciones importantes
 
 - **Compañía como medio vs. como fin**: La compañía es instrumento del camino hacia Cristo, método de la fe. Hacerla fin es el «equivoco» que la corrompe.

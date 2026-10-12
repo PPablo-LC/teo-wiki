@@ -85,6 +85,33 @@ generis*, ese pueblo real que se distingue y se cualifica por su carácter
 religioso y mesiánico? ¿Cómo está compaginado? ¿Cómo está caracterizado? ¿Cómo
 está organizado?» (01, 355).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En *Realtà e giovinezza. La sfida*, la [[autoridad]] es presentada como la
+**condición de posibilidad de la educación**. No hay [[educación]] sin
+propuesta, y no hay propuesta sin autoridad: «Senza autorità non c'è
+proposta; senza proposta non c'è confronto» (REG, 16). La autoridad
+auténtica no coarta la [[libertad]], sino que la introduce en la
+[[realidad_total]] y la conduce a la **[[verificación]]** (ver
+[[libertad_de_educación]]).
+
+Elementos centrales en REG:
+
+- **La [[tradición]] y la autoridad**: la pedagogía de Dios es una
+  tradición viva que se transmite mediante un pueblo y sus testigos; la
+  autoridad es el «luogo» humano por el que la realidad llega al joven
+  (16-17).
+- **La autoridad como [[comunicación_de_sí]]**: el educador educa con
+  «verità di vita», no con instrumentos; la autoridad es una vida que se
+  propone y se juega en el **riesgo educativo** (17).
+- **La crítica como «grande bugia»**: «la critica […] è una grande bugia»;
+  la sospecha sistemática hacia la autoridad destruye la posibilidad de
+  educarse (17).
+- **La autoridad y el [[padre]]**: la cultura despótica «odia l'autorità e
+  il padre»; una sociedad que multiplica instrumentos «per mascherare la
+  sua volontà di dominio totale» es tiránica, y el [[totalitarismo]]
+  pretende ser la fuente de la verdad (17).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[estado]], [[bien_común]], [[ley_justa]], [[comunidad_política]], [[democracia]], [[participación]]

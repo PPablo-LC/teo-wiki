@@ -67,6 +67,18 @@ que hace que el ideal deje de ser externo y se vuelva «orgánico» en la vida
 - **1986-1987**: el ideal reaparece como horizonte de la regla (02, 151) y
   de la identificación con Cristo (03).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En REG el [[ideal]] se distingue netamente del sueño y de la utopía: «il sogno e l'utopia nascono dalla testa, dalla fantasia. Invece l'ideale è il centro della realtà» (REG, 3). El ideal es «dettato dalla natura» y emerge con el tiempo, mientras que el sueño es inconsistente y «il tempo incenerisce il sogno» (6). En su raíz el ideal coincide con Dios: «La parola “Dio” è uguale a Ideale» (Gratry), y quien lo sigue no queda traicionado: «Seguiilo, non ti tradirà» (3).
+
+Elementos centrales en REG:
+
+- **El ideal como infinito en el instante**: el ideal es el infinito que se realiza en cada instante; se vive en la concreción, no en la abstracción (3).
+- **Sueño vs. memoria**: frente al sueño que se disuelve, la [[memoria]] hace el ideal más familiar y lo confirma en la historia (8).
+- **El ideal es Cristo, el Destino**: amar el ideal es amar a «Dios, Cristo, Destino»; la [[vocación]] no la elige el hombre, la da Dios (8).
+- **El ideal y el [[sacrificio]]**: el ideal exige una «paradossale condizione per mantenere», el *distacco* que asegura un possesso más verdadero (7).
+- **El ideal y la [[felicidad]]**: «Pretendere la felicità nella vita è un sogno»; vivirla caminando hacia el horizonte es el ideal (6).
+
 ## Distinciones importantes
 
 - **Ideal vs. aspiración abstracta**: el ideal no es un «más allá» sino la

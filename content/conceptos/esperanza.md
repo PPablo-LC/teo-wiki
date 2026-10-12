@@ -217,6 +217,32 @@ DLV vincula la esperanza a la fe como reconocimiento de la Presencia y a la vict
 - **La esperanza que prevale sobre la incoherencia.** Cristo «era la fonte, il luogo della sua speranza» pese a los pecados pasados y futuros —«Il numero non c'entra nel rapporto con Lui!»—: «Chiunque ha questa speranza in lui, purifica se stesso, come egli è puro» (1 Gv 3,3) (03, 225-227); «L'uomo che vive questa speranza in Cristo continua nell'ascesi» (03, 229).
 - **La esperanza como gracia.** Con Péguy: «Per sperare […] bisogna aver ricevuto una grande grazia»; y la gran gracia es «che abbiamo saputo che Dio è diventato uno di noi ed è con noi» (04, 45-47). Por eso el cristiano mira al futuro con la certeza de que «c'è un futuro, c'è un domani dell'oggi, nel quale la speranza troverà più spazio» (03, 353-357).
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+En *Realtà e giovinezza. La sfida*, la esperanza es coextensiva con la
+juventud: la vida es esencialmente **promesa** y el joven es el que vive
+de esa promesa. «La vita promette» ([[c_s_pavese]]); la juventud, en cuanto
+*atteggiamento del cuore*, es la **tensión** hacia el cumplimiento de esa
+promesa (REG, 01; 13).
+
+Elementos centrales en REG:
+
+- **La esperanza como estructura de la conciencia**: la [[exigencias_fundamentales|exigencia de felicidad]]
+  y de verdad es la esperanza elemental inscrita en el corazón; el joven es
+  su portavoz (01; 13).
+- **La esperanza y la [[pregunta_del_destino]]**: el destino no es un
+  destino fatal sino una promesa; la juventud se corrompe cuando deja de
+  esperar y se acomoda en lo inmediato (01).
+- **La esperanza como [[verificación]] de la fe**: «rendere ragione della
+  speranza che è in noi» (*1Pt* 3,15); la esperanza cristiana se prueba en
+  la [[experiencia]] (08; ver [[fe_razonable]]).
+- **La esperanza y el riesgo educativo**: educar es apostar por la
+  [[libertad]] del otro; «il rapporto tra Dio e l'uomo è un immenso
+  drammatico rischio educativo» (16).
+- **La esperanza como fuerza para el compromiso**: la positividad de la
+  vida fundada en la victoria de Cristo sostiene la [[fuerza_moral]] y la
+  [[personalidad]] del joven (13; 15).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]

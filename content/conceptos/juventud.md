@@ -43,9 +43,40 @@ León XIV dedica una atención particular a la juventud. Describe la realidad de
 
 Frente a esta realidad, propone tres líneas de acción: primero, no contentarse con los jóvenes que ya llegan a la parroquia, sino «salir» e «invitar a otros jóvenes» mediante actividades como el deporte, el arte y la cultura; segundo, ofrecer «otro tipo de experiencia de amistad, de compartir y, poco a poco, de comunión», superando el aislamiento que produce el smartphone —«viven solos, aunque digan: 'No, mi amigo está aquí', pero no hay contacto humano»—; tercero, el sacerdote debe ofrecer «un modelo de vida, que ser amigo de Jesús realmente puede llenar sus vidas». Advierte contra la tentación de reducir la evangelización juvenil a «animación» y el discernimiento a «entretenimiento», buscando en cambio «ayudarles a entrar en diálogo con Dios» [L_XIV-ClerRom, 19.02.2026].
 
+### Giussani — Realtà e giovinezza. La sfida (REG)
+
+[[luigi_giussani]] sostiene que la juventud **no es una edad sino un
+*atteggiamento del cuore***: «Al di là del riferimento tipico a un'età
+dell'uomo, la giovinezza è […] un atteggiamento del cuore. Si è giovani
+quando non ci si accomoda, ma si è tesi verso la realtà con l'avidità di
+imparare quel che essa suggerisce sul nostro [[destino]]» (REG, 01). La
+juventud es, pues, la tensión hacia la realidad movida por la
+**[[pregunta_del_destino]]**, y no una etapa que se agota con los años.
+
+Elementos centrales en REG:
+
+- **La juventud se mantiene por la «continua ripresa de la pregunta»**: es
+  esa ripresa cosciente de la [[pregunta_del_destino]] la que mantiene
+  joven a la persona (01).
+- **El joven se corrompe cuando la pregunta es sustituida por una
+  respuesta cerrada** —la [[ideología]] o el partido—, que coloniza su
+  [[libertad]] (01).
+- **La juventud es el momento de las [[exigencias_fundamentales]]**:
+  «verità, bellezza, giustizia, felicità», que el contexto educativo y
+  social tiende a hacer callar (Preliminares); «Giovinezza e vita sono
+  quasi sinonimi» (13).
+- **La juventud como campo de promesa** de filosofías y políticas y como
+  objeto privilegiado de la acción del [[poder]] (Premessa). La
+  [[educación]] de los jóvenes es el «invito positivo» después de una
+  *débâcle*.
+- **El joven se educa en la [[compañía]]** y en el [[encuentro]] con una
+  presencia; el «[[mirada_de_cristo|sguardo amorevole]]» y la consciencia
+  de ser amado y elegido desde la eternidad son lo que lo sostiene (01).
+
 ## Distinciones importantes
 
 - Juventud (etapa de discerimiento y formación) vs. adolescencia (etapa de maduración psicoafectiva)
+- Juventud como edad vs. juventud como *atteggiamento del cuore* (REG): la segunda es una tensión permanente, no una etapa biológica
 - Pastoral juvenil (acompañamiento del joven en su crecimiento integral) vs. pastoral vocacional específica (discernimiento de la vocación consagrada)
 - Joven como destinatario de la pastoral vs. joven como agente evangelizador
 
