@@ -29,6 +29,13 @@ Giussani distingue dos usos del prejuicio. Como punto de partida, es la estructu
 - Capítulo XII — el prejuicio como miopía: «dar la razón a la realidad pero no quedar persuadido», y el positivista que ve solo manchas en el cuadro
 - Capítulo XIII — el preconcetto «impide la atención»: prevalencia del interés, idea ya hecha, sensibilidad concentrada en lo que agrada
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- El prejuicio como **factor externo** que, al penetrar en el mecanismo, lo complica (el «brufolo» en el ojo) (Tischreden 190, 04).
+- El **preconcetto** elimina la definición de razón y se reduce a la tentación de **farsi Dio** (Tischreden 200, 16).
+- Los «ma», «se», «però», «forse» como **trinchera de la mentira** (04).
+- Lo que vence al preconcetto es que el corazón sea *percosso* por un **amor de otro** (16).
+
 ## Distinciones importantes
 
 - **Prejuicio bueno vs. prejuicio deformado**: el primero es hipótesis de partida sometida a verificación; el segundo es juicio de exclusión que cierra la investigación.

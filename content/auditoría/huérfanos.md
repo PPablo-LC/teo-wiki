@@ -4822,3 +4822,37 @@ Notas:
   `descenso_a_los_infiernos.md` ya existe y se enriqueció con el backlink a
   `[[limbo_de_los_padres]]`. Retirado del registro (`[[bajada_a_los_infiernos]]`
   era además término asistemático: el canónico es *descenso*).
+
+## Sembrados por el procesamiento de Quasi Tischreden, vol. 4 (QT4) (2026-10-11)
+
+Nuevos forward references introducidos por el documento descriptivo
+`wiki/documentos/quasi_tischreden_vol_4.md`, sus 19 resúmenes, las 15 personas
+y los 23 conceptos nuevos de QT4:
+
+| Wikilink | Referencias | Categoría |
+|----------|-------------|-----------|
+| `[[distancia]]` | 3 (documento; `límite.md`, `unidad_de_la_persona.md`, resumen `15_14...`) | espiritualidad |
+| `[[factores_de_la_realidad]]` | 3 (documento, `realidad.md`, resumen `04_3__realt_e_ragione`) | gnoseología |
+| `[[immanuel_kant]]` | 1 (resumen `16_15_il_punto_di_fuga`) | filosofía |
+| `[[inteligencia_ventosa]]` | 2 (`afecto.md`, `evidencias.md`) | ascética |
+| `[[milagro_de_rudder]]` | 1 (resumen `18_17_inevitabili_rimandi`) | hagiografía |
+| `[[proyecto]]` | 1 (documento-registro) | ascética |
+| `[[significado]]` | 2 (resumen `11_10_essere_bambini`, documento) | gnoseología |
+| `[[totalidad]]` | 1 (resumen `07_6_da_un_impegno...`) | antropología |
+| `[[vida_entera]]` | 1 (resumen `07_6_da_un_impegno...`) | espiritualidad |
+
+Notas:
+- **Resueltos por retarget (no registrados):** `[[avvenimiento]]` →
+  `[[acontecimiento]]` (resumen 17); `[[ireneus]]` → `[[ireneo_de_lion]]`
+  (resumen 03); `[[leopardi]]` → `[[giacomo_leopardi]]` (resumen 09);
+  `[[luther]]` → `[[martin_lutero]]` (documento y preliminares);
+  `[[pietro]]` → `[[pedro]]` (resúmenes 02 y 03); `[[schlier]]` →
+  `[[heinrich_schlier]]` (resumen 12); `[[sorpresa]]` → `[[asombro]]`
+  (resumen 02); `[[menzogna]]` → `[[mentira]]` (resumen 11); `[[lucha]]` →
+  `[[lucha_espiritual]]` (resumen 10); `[[angustia]]` →
+  `[[angustia_espiritual]]` (resumen 04); `[[moralidad.]]` → `[[moralidad]]`
+  (resumen 06, signo de puntuación espurio); `[[distanza]]` → `[[distancia]]`
+  (resumen 15) y `[[distanzia]]` → `[[distancia]]` (documento, `límite.md`,
+  `unidad_de_la_persona.md`).
+- `[[immanuel_kant]]`: el resumen 16 enlazaba `[[kant]]`; se retargeteó a la
+  forma canónica de nombre completo.

@@ -81,6 +81,13 @@ seria y más sencilla que ésta: pedir, pedir siempre» (01, 153).
 
 En la nota editorial se destaca que la transmisión del pensamiento de Giussani fue mayormente oral: «gran parte del suo pensiero si è comunicato perciò attraverso la ricchezza e il ritmo di un discorso orale», conservado en las grabaciones del Archivo de la Fraternidad (TACDC, 00_preliminares.md, l. 18). El volumen se redactó «attenendosi ai criteri formulati a suo tempo dallo stesso don Giussani», respetando la naturaleza del discurso (l. 22-28). Esto pone de relieve el papel de la memoria en la conservación y transmisión de la fe en la compagnia.
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La memoria «è molto più descritta dalla **profezia** che dal ricordo» (Ratzinger: Cristo viene del mañana) (Tischreden 142, 14).
+- La memoria genera una **autoconsciencia diversa**: «un'autocoscienza diversa giudica in modo diverso» (Tischreden 148, 17).
+- La memoria como fruto y ayuda de la **[[compañía]]** (Tischreden 46, 15).
+- La **casa** como lugar de la memoria (Tischreden 110, 13).
+
 ## Relaciones doctrinales
 
 [[entendimiento]], [[voluntad]], [[potencias_del_alma]], [[alma_espiritual]], [[noche_oscura]]

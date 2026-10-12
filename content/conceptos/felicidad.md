@@ -61,6 +61,13 @@ destinación.
   muerte (20).
 - La felicidad como camino en compañía.
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La felicidad es un ***ón***, un real que se dice «**Tu**» y que apareció en forma humana en Jesús de Belén (Tischreden 191, 06).
+- El **eterno satisfacerse**: la máxima satisfacción se da *mientras* se bebe de la fuente, no cuando se ha bebido (Tischreden 196, 07).
+- La felicidad no es *ser* Dios, sino **beber** de Dios: «Dio è la sorgente dell'acqua […] la felicità non è l'essere Dio, ma […] il bere» (Tischreden 197, 08).
+- La [[libertad]] es «la capacità della felicità» (Tischreden 71, 12).
+
 ## Distinciones importantes
 
 - **Felicidad vs. placer/emoción**: la felicidad responde al deseo

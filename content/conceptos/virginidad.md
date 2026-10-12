@@ -94,6 +94,13 @@ virginidad—, que es la caridad, es decir, la *condivisione*» (02, 245).
 **Su valor propio.** El valor de la vida consiste «en ser función del designio de Dios,
 del reino de los cielos» (Mt 19; 03, 233).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La elección consciente de la virginidad es «il più potente metodo per testimoniare che Cristo è: **perché cambia**» (Tischreden 190, 04).
+- La virginidad exige el **deseo de felicidad** y la **conciencia del destino**; sin ellos es frágil (Tischreden 196, 07).
+- El **milagro de la virginidad**: la suprema forma de milagro (salvo el martirio); la oposición a ella es irreligiosidad (= irracionalidad) (Tischreden 148, 17).
+- La virginidad manifiesta la **familiaridad suprema** de Dios (Encarnación) (17).
+
 ## Distinciones importantes
 
 - Virginidad ≠ castidad: la castidad es virtud para todos; la virginidad es estado de vida

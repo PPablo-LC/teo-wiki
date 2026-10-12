@@ -68,6 +68,13 @@ Elementos centrales en REG:
 - **El Misterio se hace Uno entre nosotros**: el destino de todas las cosas «fatto Uno fra noi»; reconocer esa Presencia es condición de que algo sea serio (12).
 - **Misterio y mendicidad**: «L'uomo è un mendicante»; el hombre nace «come mendicanza dell'Essere» y el Misterio se alcanza pidiendo (10).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La cosa es **signo** del Misterio: «del real a una destinación sin fondo» (Tischreden 188, 02; 46, 15).
+- El Misterio se dice «**Tú**»; sin el «Tú» se degrada en abstracción (Tischreden 197, 08).
+- **Cristo da el nombre del Misterio** ([[johann_adam_möhler]]): la primera dimora del hombre es el rapporto con Cristo (08).
+- El misterio del «**più**»: el Misterio se percibe como respuesta a la [[melancolía]]; se reconoce su existencia ante todo en la oración (Tischreden 99, 11).
+
 ## Distinciones importantes
 
 - **Misterio en la Biblia vs. misterios paganos**: el misterio bíblico no es esotérico ni iniciático; es un secreto divino revelado públicamente en Cristo y accesible por la fe.

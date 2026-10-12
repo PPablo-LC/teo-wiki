@@ -135,6 +135,13 @@ comprenderlo, a vivirlo. Él nos ha elegido a nosotros. “No vosotros me habéi
 elegido a mí, yo os he elegido a vosotros y os he enviado”: he aquí el movimiento
 que comienza» (Jn 15,16; 03, 215).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La fe como **culmen de la razón**: «La fede è quando la cosa ti viene detta da un Tu»; la fe se funda sobre la razón, acto humano (Tischreden 139, 09).
+- La fe como **reconocer un acontecimiento/presencia**: «la fede è riconoscere un avvenimento» (Tischreden 119, 05; [[vito_fornari]]).
+- La fe reconoce a **Cristo hecho histórico, irrepetible e inigualable**; contra el «ecumenismo equivocado» que disuelve a Cristo en el sentimiento religioso (Tischreden 92, 01).
+- El **ojo de la fe** ([[pierre_rousselot]]): atravesar lo real para descubrir lo que lo sostiene; el paso se paga con la cruz (01).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_fe]]

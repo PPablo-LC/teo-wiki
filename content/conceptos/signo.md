@@ -39,6 +39,13 @@ El opuesto del signo es el poseer: quien posee detiene la relación que la cosa 
 
 - **Parte seconda, Cap. 2 (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — la definición del signo: «se llama signo a una cosa cuyo sentido es otra cosa» (el ejemplo del grito «¡Socorro!» en el desierto); el mundo entero es signo de Dios, y por eso «a través del mundo Dios no se hace evidente en el sentido inmediato»: *Dios se propone, Dios es discreto*, y el signo, mientras revela, vela (Cap. 3). El primer paso hacia Dios es la interpretación libre del signo, que exige una educación del espíritu —la dependencia— y las virtudes de la atención y la aceptación.
 - **Parte seconda, Cap. 2** — la existencia como «inmensa parábola»: «quien tiene oídos para oír, que oiga» (Mt 13,9); la realidad como *penumbra* (vestíbulo de oscuridad para quien vuelve las espaldas a la luz, vestíbulo de luz para quien busca la claridad); de ahí el `riesgo` de la interpretación.
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La cosa es **signo**: remite a Otro sin ser ese Otro (Tischreden 46, 15).
+- El **[[punto_de_fuga]]**, referido al sentido religioso, se dice precisamente «signo» (15).
+- Para el cristiano «il creato sussulta, il creato vibra, il creato è una parola» (Tischreden 99, 11).
+- La realidad **despierta la palabra «tú»**; el primer sentimiento es de estupor, no de repulsa (Tischreden 189, 03).
+
 ## Distinciones importantes
 
 - **Signo vs. fenómeno**: el fenómeno es lo que aparece; el signo, además, remite a otra realidad distinta de sí.

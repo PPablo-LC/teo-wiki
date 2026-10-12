@@ -71,6 +71,13 @@ inexplicable):
   Dios» — el miracolo de la acogida tiene su imagen en la Encarnación
   (07, 5).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- El milagro como **avvenimento experimental** que *inevitablemente* remite a Dios: no un problema moral sino **ontológico** (Tischreden 148, 17).
+- Los **milagros del tercer tipo** —objetivos y documentables—: el milagro de **Rudder** (Oostacker, 1875), las curaciones de Lourdes, la conversión del P. [[agostino_gemelli]] (17).
+- El **cosmos** como primer milagro; el hombre «non si fa da sé» (17).
+- La **[[virginidad]]** como el más grande milagro (salvo el martirio) (17).
+
 ## Distinciones importantes
 
 - **Milagro en sentido estricto** (solo Dios): supera el orden de toda la naturaleza creada.

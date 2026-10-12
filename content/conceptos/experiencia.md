@@ -63,6 +63,13 @@ experiencia del otro.
 - La primera creación del cristiano es «una experiencia humana diversa»
   (13).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- «La realtà che emerge alla coscienza mia si chiama **esperienza**» (Tischreden 197, 08).
+- El único punto de partida: «**l'esperienza presente!**», según todos sus capilares (Tischreden 139, 09).
+- Negar la **[[pregunta_del_destino|pregunta]]** va contra la experiencia y es, por tanto, irracional (08).
+- La experiencia como lugar donde la realidad **emerge y se hace conocer**, y donde la libertad se juega (Tischreden 142, 14).
+
 ## Distinciones importantes
 
 - **Experiencia vs. impresión/emoción**: la experiencia incluye el juicio

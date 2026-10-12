@@ -37,6 +37,15 @@ dominar sino dejarse transformar por lo conocido.
   no es información sino comunión ([[amistad_con_cristo]]); por eso la
   crisis de la fe moderna es ante todo crisis de conocimiento vivido.
 
+## Perspectivas por fuente
+
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- No hay conocimiento **sin aceptación**: al viviente se lo conoce acogiéndolo con *lode e gratitudine* (H. Schlier); si Dios fuera demostrable, la razón *poseería* el Misterio (Tischreden 99, 11).
+- El conocimiento **sin afecto no existe**: la inteligencia es una «**ventosa**» que adhiere a la realidad mediante el *affectus*; si la libertad corta la ventosa, el bien se vuelve absurdo (Tischreden 139, 09; 142, 14).
+- El **[[sentimiento]]** es un factor *potenciador* del conocer; el **[[prejuicio]]**, un factor *externo* que lo perturba (Tischreden 190, 04).
+- Conocer es **adherir**; la simpatía positiva es condición (Tischreden 189, 03).
+
 ## Distinciones importantes
 
 - **Conocimiento** (unión intelectual con lo real) ≠ **información**

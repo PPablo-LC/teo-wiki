@@ -237,6 +237,13 @@ fragilidad, que tienen una consanguinidad tan grande y evidente con nuestra nuli
 que dan lástima, sino el intento de aniquilar la percepción de ese algo grande» (01,
 109).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La primera cosa «extraña» que altera el dinamismo de la naturaleza es el pecado original (Tischreden 190, 04).
+- El pecado original como **contradicción dentro de la libertad** (Tischreden 142, 14).
+- La tentación del **preconcetto** se reduce a «**farsi Dio**»; de ahí el terror a salir de la apariencia (Tischreden 200, 16).
+- *Gen* 3,5 («seréis como Dios») es «la formula del razionalismo presente» (Tischreden 188, 02).
+
 ## Distinciones importantes
 
 - Pecado original contraído ≠ pecado personal cometido.

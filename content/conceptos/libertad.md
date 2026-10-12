@@ -154,6 +154,14 @@ Elementos centrales en REG:
 - **La libertad y el uso de los bienes**: contra «l'equivoco del possesso», la libertad usa la inteligencia y los bienes según el destino y la [[compañía]] (7).
 - **La rebelión**: «La resistenza a aderire è una potenziale ribellione a Dio» (8).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La libertad es un **fenómeno dentro el cuadro de la naturaleza**; la gracia viene de fuera (Tischreden 71, 12).
+- La libertad es **capacidad de la felicidad** / «capacità di Dio» / «capacità del fine» (12).
+- La libertad es la **lama** que separa verdad/mentira, bien/mal, ser/nada (Tischreden 142, 14).
+- El hombre sigue siempre la **atracción más fuerte** ([[delectatio_victrix]]); la elección es propia de una libertad *in fieri*, no compiuta (12).
+- La libertad puede **decir no a la evidencia** (Capaneo); Dios se comunica a los hombres «ultimamente attraverso la libertà» (Tischreden 110, 13).
+
 ## Relaciones doctrinales
 
 La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].

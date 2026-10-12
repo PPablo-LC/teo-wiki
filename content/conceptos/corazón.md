@@ -71,6 +71,14 @@ Elementos centrales en REG:
 - **El corazón y la promesa de juventud**: «Per rimanere giovani bisogna rimanere fedeli a ciò per cui si è nati, al proprio cuore» (3).
 - **Religión y corazón**: «non c'è religiosità autentica se non si prende sul serio la parola “io”»; el corazón es la exigencia que la [[religiosidad_natural|religiosidad]] custodia (5).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- El corazón como **sede de exigencias y evidencias**: la exigencia es «evidenza di un'attesa»; el deseo de felicidad es inagotable (Tischreden 190, 04; 46, 15).
+- «**Per sua natura il cuore ti fa desiderare sempre di più**» (15).
+- El corazón como deseo que se convierte en **[[oración]]** (Agustín: el deseo es la oración); el acto fundamental es la *domanda* (15).
+- El **corazón de la experiencia** desborda la apariencia y desmiente toda reducción materialista (Tischreden 200, 16).
+- «La vita dell'uomo consiste nell'affetto che principalmente lo sostiene» (Tomás, *ST* II-II q.179 a.1) (Tischreden 119, 05; 110, 13).
+
 ## Distinciones importantes
 
 - **Corazón bíblico vs. corazón romántico**: en la Escritura, el corazón designa el centro personal, no el mero sentimentalismo

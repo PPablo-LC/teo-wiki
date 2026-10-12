@@ -59,6 +59,13 @@ Elementos centrales en REG:
 - **La insatisfacción revela el [[destino]]**: en su concreción, la realidad aparece en su «insoddisfazione finale»; es «promettente» pero «ferita» (10).
 - **Deseo de vida grande y [[vocación]]**: «quella natura che ti spinge a desiderare cose grandi è il cuore, quindi seguilo»; la vocación no la elige el hombre, la da Dios (8).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- El **deseo inagotable de felicidad** como estructura del corazón: la naturaleza del existir humano es «la historia di una domanda» (Tischreden 46, 15).
+- El deseo que **no se hace domanda** es indecisión; «l'atto fondamentale è la domanda» (15).
+- La **dinámica del deseo** (0) desarrollándose en el tiempo hacia el término (la muerte, *x*) o hacia el infinito [∞] (Tischreden 71, 12).
+- La libertad es «la capacità della soddisfazione […] capacità di Dio», es decir, del deseo total (12).
+
 ## Distinciones importantes
 
 - **Deseo natural vs. deseo desordenado (concupiscencia)**: el primero está dentro del orden creado y es querido por Dios; el segundo es fruto del pecado y debe ser combatido.

@@ -99,6 +99,13 @@ Elementos centrales en REG:
 - **Compañía y [[experiencia]]**: «La prima creazione del cristiano è un'esperienza umana diversa, e non può farlo uno da solo» (9).
 - **La recomendación**: «Vi raccomando una cosa sola: non lasciate mai la compagnia» (6).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La compañía como **presencia de Cristo**: «con noi fino alla fine dei secoli» (*Mt* 28,20) (Tischreden 92, 01).
+- La compañía como lugar donde la **pregunta** no se ahoga y como ayuda a la **memoria** (Tischreden 46, 15).
+- «Senza un'altra cosa che eccede il rapporto, il rapporto **non starebbe**»: la compañía se sostiene por algo que la excede (Tischreden 197, 08).
+- El primer encuentro es el mundo (el estupor del ser); en su vértice, Cristo (01).
+
 ## Distinciones importantes
 
 - **Compañía como medio vs. como fin**: La compañía es instrumento del camino hacia Cristo, método de la fe. Hacerla fin es el «equivoco» que la corrompe.

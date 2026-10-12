@@ -193,6 +193,13 @@ perdón de la diversidad**.
 - **Su modelo es María**: la primera que acogió en sí al «gran diverso»,
   a Dios (07, 5).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La misericordia es «la definizione che il Dio cristiano ha dato di sé» (Tischreden 200, 16; 99, 11).
+- El **rostro del Padre** es espejo del hijo pródigo (Rembrandt): «il volto del padre è misericordia» (Tischreden 189, 03).
+- La misericordia como la palabra que **más define a Dios**: «la parola che più definisce Dio» (Tischreden 119, 05).
+- Es un concepto **inalcanzable** para el hombre, pero ofrecido por el perdón (05).
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.

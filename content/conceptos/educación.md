@@ -118,6 +118,13 @@ Elementos centrales en REG:
   la sua volontà di dominio totale» es tiránica; el [[totalitarismo]]
   pretende ser la fuente de la verdad (17).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La educación «**desta**» (*e-ducere*): «l'importante è che l'educazione consista nel far venir fuori»; puede jugar negativamente (Tischreden 190, 04).
+- No fundar la educación en el **sentido religioso**, sino partir del **incontro** con Cristo (Tischreden 92, 01).
+- Ser niños = recuperar el contacto con la **naturaleza original**; no querer ser expresivos, sino alimentar el **[[estupor]]** (Tischreden 29, 10).
+- Educar a la **conciencia de ser deseo**: la vocación tanto más alta cuanto más exige conciencia y educación (Tischreden 196, 07).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

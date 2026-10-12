@@ -58,6 +58,14 @@ SDL reúne los dos ensayos de Giussani sobre el sentido religioso y la concienci
 - **Parte prima (archivo `01_parte_prima_il_fondo_della_questione.md`)** — precisa el contenido: el sentido religioso coincide con las preguntas últimas («¿para qué vale la pena vivir?») y con *cualquier respuesta* que se les dé; es implicación inevitable de la vida y da incondicionada devoción a un «dios» cualquiera (el Partido, la salud, la carrera, el dinero). Se identifica con la *vis appetitiva* («fuerza de aspiración») y con el sentido de original, total dependencia; es «la vocación de la vida» y la «sintesi dello spirito» (Montini, Cuaresma 1957).
 - **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — el sentido religioso es una capacidad que necesita ser provocada; el llamamiento no viene directamente de Dios, sino a través de la realidad creada: es la «vocación original continuada a través del mundo». Su itinerario es el del signo: el mundo remite a un Trascendente, pero Dios se propone, es discreto, no se impone; la realidad es como una penumbra y su interpretación comporta riesgo. Quien se educa en atención y aceptación (dependencia) encuentra en el mundo la voz de Dios.
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — los tres momentos posibles del sentido religioso en la historia y en la vida personal: la *ricerca a tastoni* (búsqueda), la *dipendenza servile* (dependencia servil) y el *amore filiale* (amor filial); solo este último es el definitivo, el que trajo Cristo. «Cristo como respuesta a lo que soy "yo"»; la Iglesia como presencia de Cristo es el ambiente donde el sentido religioso alcanza su objeto.
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- El sentido religioso como **capacidad activa** de la criatura hecha para Dios: «Tu sei fatto per Dio» (00, páginas iniciales de *Il senso religioso*, 1958).
+- El **equívoco entre fe y sentido religioso**: fundar la educación en el sentimiento religioso haría indistinguible lo cristiano y llevaría a identificar a Cristo con el sentido religioso (Tischreden 92, 01).
+- Por eso no se parte del sentido religioso sino del **[[encuentro]]** con Cristo, hecho histórico irrepetible (01).
+- La **[[melancolía]]** («Torna a Surriento») como definición del sentido religioso: esencia del hombre que espera la felicidad; donde hay promesa, hay Presencia (Tischreden 99, 11).
+- El **[[punto_de_fuga]]** *es* el sentido religioso (Tischreden 46, 15).
+
 ## Distinciones importantes
 
 - **Sentido religioso vs. religión particular**: el sentido religioso es la estructura radical del hombre, anterior a toda religión positiva; las religiones son formas históricas de su expresión.

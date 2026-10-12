@@ -55,6 +55,14 @@ Santo Tomás desarrolla la relación entre razón y voluntad. La razón (*intell
 
 La razón es participante de la ley eterna en cuanto puede ordenar los actos hacia su fin. Los primeros principios de la razón práctica son evidentes por sí mismos y se reducen al amor de Dios y del prójimo.
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- La razón es «**coscienza della realtà secondo la totalità dei suoi fattori**» (Tischreden 188, 02; 189, 03; 46, 15).
+- Conocer es **adherir**: para conocer de verdad hace falta una «simpatía positiva» por la cosa (03).
+- La razón **no crea** la realidad: «la ragione come creatrice della realtà è la grande menzogna di tutta l'epoca moderna, da Cartesio in poi» («tutto è niente») (Tischreden 110, 13).
+- No se puede separar la *ratio* del *affectus*: es la **[[libertad]]** la que puede arrancar el afecto de la razón (Tischreden 139, 09).
+- El verdadero problema es la **definición de razón** (realismo, razonabilidad, moralidad), contra la «ragione sopra ragione» ideológica (09, 15).
+
 ## Distinciones importantes
 
 - **Razón natural**: capacidad de conocer verdades accesible a la naturaleza humana sin revelación

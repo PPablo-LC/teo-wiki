@@ -243,6 +243,13 @@ Elementos centrales en REG:
   vida fundada en la victoria de Cristo sostiene la [[fuerza_moral]] y la
   [[personalidad]] del joven (13; 15).
 
+### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
+
+- El deseo que no se hace **domanda** es indecisión; la esperanza exige preguntar (Tischreden 46, 15).
+- La **memoria profética** (Cristo viene del mañana) como raíz de la esperanza (Tischreden 142, 14).
+- La **tristeza buena** ante el límite, sin eliminar la posibilidad del dolor (Tischreden 200, 16).
+- La realidad «è in mano a un Altro»: la esperanza se funda en que no todo depende de nosotros (Tischreden 139, 09).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]
