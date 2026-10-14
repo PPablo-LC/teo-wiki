@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia
 tags: ["dogmática"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-13
 description: "Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina y de la vida eterna; el creer mismo es ya obra de la gracia."
 ---
 # Gracia
 
 > Área: Dogmática
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -170,6 +170,14 @@ fondo» (03, 115). Y: «Nuestra vida, nuestra vida digna, la vida de nuestra
 libertad, se apoya en un poder que se ha vuelto cercano, que ya no está lejos, que
 está tan cerca que está dentro de nosotros» (03, 115).
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth presenta la pérdida de la gracia como un naufragio. En la alegoría del *Titánic* —el transatlántico «insumergible» en cuya quilla alguien escribió la blasfemia «Este no lo hunde ni Dios»—, la joven que se hunde en la inmoralidad es imagen del alma que pierde la gracia santificante: «Mide, querida joven, la suerte de la muchacha que naufraga en la castidad: la vida inmoral la absorbe y empieza a hundirse» [PyH, cap. 3].
+
+Frente a esa ruina, la gracia es absolutamente indispensable para conservar la pureza. «La que quiere llevar una vida pura sin la gracia de Dios, hace como la que pretende volar sin alas, como la que quiere sacar agua de la roca o cavar un pozo con un cortaplumas» [PyH, cap. 6]. Cita la confesión del autor sagrado: «no podría ser continente si Dios no me lo otorgaba…, acudí al Señor y se lo pedí» (Sab 8,19-21), y recuerda con San Agustín que «si no reina en nuestra alma la caridad de Dios, domina en ella la voluptuosidad» (*Regnat carnalis cupiditas, ubi non est Dei caritas*) [PyH, cap. 6].
+
+La gracia no dispensa de la lucha, sino que se une al «propósito firme» y a la «buena voluntad» de la joven —«Tres cuartos, Teresa y Dios, esto ya es muchísimo»—, y con la ayuda de Cristo hace posible lo que sin Él es imposible: «No es posible llevar una vida pura a no ser con la ayuda de Nuestro Señor Jesucristo» [PyH, cap. 6]. Se relaciona así con la [[conversión]], la [[oración]] y el [[sacramento_de_la_reconciliación]], y se ordena a la [[castidad]].
+
 ## Distinciones importantes
 
 - Gracia santificante (habitual) vs. gracias actuales
@@ -197,3 +205,5 @@ está tan cerca que está dentro de nosotros» (03, 115).
 - TPCr, Parte II, Cap. 1
 - Denzinger D‑1351–D‑1375, D‑1384–D‑1387 (Clemente XI, *Unigenitus*)
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §7a
+- [PyH, Cap. 3]
+- [PyH, Cap. 6]

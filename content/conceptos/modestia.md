@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Modestia
 tags: ["moral"]
 
-timestamp: 2026-06-11
+timestamp: 2026-10-13
 description: "La modestia es una virtud derivada de la templanza que inclina al hombre a comportarse en los movimientos internos y externos y en el aparato exterior de sus cosas dentro de los justos límites que..."
 ---
 # Modestia
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -71,6 +71,11 @@ Los movimientos externos son signos de la disposición interior (Eclo 19,27). Sa
 
 La modestia, con el pudor, es «hermana menor de la castidad» y muy importante «al hablar, obrar y vestir» para crear el clima adecuado a la maduración de la castidad (SHVS 55-56). Los padres deben velar para que ciertas modas y comportamientos inmorales no violen la integridad del hogar, «particularmente a través de un uso desordenado de los *mass media*»; y han de enseñar a sus hijos adolescentes «el valor de la modestia cristiana, de la sobriedad en el vestir, de la necesaria independencia respecto a las modas, característica de un hombre o de una mujer con personalidad madura» (SHVS 56, 97).
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth enseña que el agrado y la [[modestia]] nunca deben separarse: «el agrado y la modestia nunca debieran separarse. ¡Este es el secreto de la joven auténticamente cristiana!» [PyH, Cap. VI]. La modestia en el vestir, el porte y las palabras es una expresión viva de la [[castidad]] y del [[pudor]].
+
+El autor advierte que la exhibición exagerada en el vestir puede poner en gran peligro la pureza femenina, y ofrece consejos prácticos: conservar y realzar los atractivos con discreción, corregir las imperfecciones sin desfigurar la persona, mostrarse con gracia sin afectación, y portarse con modestia en lugares como piscinas, playas o solarios, «evitando cuanto desdiga de una verdadera cristiana» [PyH, Cap. VI]. Así, la modestia protege no solo a quien la practica, sino también a los demás, custodiando la [[pureza]] de los corazones.
 
 ## Relaciones doctrinales
 
@@ -85,3 +90,4 @@ La modestia es parte de la [[templanza]] como virtud potencial. Se relaciona con
 - [CEC §1832, §2521-2524]
 - [TPCr, Parte III, Libro II, Cap. II, n.462, 471-473]
 - [SmTh II-II, q.160, 166-169]
+- [PyH, Cap. VI]

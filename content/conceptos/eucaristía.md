@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-13
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -478,6 +478,14 @@ Andrew Allen, en su estudio sobre la iniciación cristiana, subraya que la [[mis
 
 De este modo, el fascículo conecta directamente el camino de la conversión con el banquete pascual: la [[presencia_real]] de Cristo en la Eucaristía sostiene al alma en la [[vía_purgativa]] y la configura con él hasta poder decir «ya no vivo yo, es Cristo quien vive en mí» (Ga 2,20) [EAC-18, 16].
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth presenta la comunión como la fuente que devuelve la vida al alma y la sostiene en la lucha por la pureza. Parafraseando a santa Teresa, escribe: «Tres cuartos y Teresa poca cosa son. Pero tres cuartos, Teresa y Dios, esto ya es muchísimo» [PyH, cap. 6]. La Eucaristía es «el Pan de los ángeles», «el Pan de los fuertes»: «recibe a Jesús en la santa comunión. Da entrada al Señor en tu alma, en tu navecilla, con frecuencia; y cuando ruja el huracán, pide con vivas instancias… *Domine, salva nos, perimus!*» [PyH, cap. 6].
+
+Su eficacia se expresa con una analogía vital: «perecen en tu alma los microbios de la enfermedad moral cuando te enardece y vivifica después de la sagrada comunión la sangre preciosísima de Jesucristo» [PyH, cap. 6]. El autor une confesión y comunión como los dos medios de la «vida nueva» y propone como acción de gracias la oración *Alma de Cristo*: «Alma de Cristo, santifícame. Cuerpo de Cristo, sálvame. Sangre de Cristo, embriágame…» [PyH, cap. 6].
+
+Todo converge en la persona de Cristo vivo: «La persona de Jesucristo no es un borroso cuadro histórico, sino que también hoy y siempre Él es tu Redentor que irradia energías, que ama tu alma y la conforta» [PyH, cap. 6]. Se relaciona así con la [[comunión_frecuente]], la [[presencia_real]], el [[sacramento_de_la_reconciliación]] y el [[estado_de_gracia]].
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]
@@ -533,3 +541,4 @@ De este modo, el fascículo conecta directamente el camino de la conversión con
 - Barron, Robert; Salkeld, Brett; O'Malley, Timothy P.; Worner, Tod; Becklo, Matthew; Johnson, Fr. Josh; Torres, Sr. Alicia; Whittington, Fr. Richard T.; Granados, José; De Clue, Richard; Nelson, Dr. Matt; Bulman, Rachel; Petiprin, Andrew. Artículos en *Evangelization & Culture* 13 (Autumn 2022).
 - AED, 31 (§59-65) — Tischrede 114: *La radice della compagnia* — la comunión diaria y la fisonomía de Cristo; adorar como posición de la Magdalena.
 - [EMA, caps. 1-17 — Eucaristía, misterio de amor, Mons. Tihamér Tóth]
+- [PyH, Cap. 6]

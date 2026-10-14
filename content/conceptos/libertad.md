@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-13
 description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad; Giussani la presenta como capacidad del fin último."
 ---
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -72,6 +72,10 @@ León XIV aborda la custodia de la libertad frente a la dependencia y la mercant
 La verdadera libertad es dominio de sí, no libertinaje. «No hay palabra que guste tanto a los jóvenes como la palabra "libertad"» [JvC, Cap. I]. Pero la libertad no consiste en luchar contra toda regla o norma —«eso sería libertinaje, desenfreno»— sino contra los obstáculos que se oponen al libre desenvolvimiento del carácter. Las normas no coartan la libertad sino que dirigen y aseguran el recto crecimiento, como el rodrigón sostiene y eleva a la parra.
 
 «Servir a Dios es reinar», dice un proverbio latino. Si el joven quiere ser libre verdaderamente, debe buscar «la independencia interior, el dominio de sí mismo, el dominio contra la desgana, contra el desaliento, el capricho y la pereza». Las órdenes de los padres y las reglas educativas no son «mandatos caprichosos que coartan tu libertad», sino medios para vencer la comodidad, el mal humor, los caprichos y la inconstancia [JvC, Cap. I].
+
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth considera que la verdadera libertad es la libertad del alma pura. El mayor triunfo consiste en dominarse a sí mismo, porque solo quien se vence a sí mismo es verdaderamente libre. «La verdadera libertad consiste en la libertad del alma» [PyH, cap. 7]. La vida inmoral, lejos de ser libertad, es esclavitud: «¿Hay joven de verdad más libre que la que sabe ordenar, mediante el imperio de la razón, el santuario de su propia alma y defenderlo de los bajos instintos? Y ¿hay esclava más digna de compasión que la que se ve atada, cual con cadenas de galera, por los instintos ciegos del propio cuerpo, por el pecado de la impureza?» [PyH, cap. 7]. Por ello, la pureza comunica a la voluntad la fortaleza para alcanzar esa libertad interior, que es el fundamento de la paz y de la alegría.
 
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
@@ -189,3 +193,4 @@ Carrón destaca que el encuentro con Cristo deja libre a la persona para acogerl
 - [EjEsp2026, cap. 4: «Llegar a ser Libre»]
 - [EAC-14, 04_midnight_oil.md]
 - [EAC-20, 03_word_from_institute.md (Petrusek), 01_from_the_desk.md (Barron), 23_soul.md (Gadberry)]
+- [PyH, Cap. 7]

@@ -6,11 +6,11 @@ tags:
   - teología_moral
   - antropología_cristiana
   - escatología
-timestamp: 2026-10-11
+timestamp: 2026-10-13
 ---
 
 > Área: Teología moral / Antropología cristiana / Escatología
-> Última actualización: 2026-10-11
+> Última actualización: 2026-10-13
 
 # Felicidad
 
@@ -68,6 +68,10 @@ destinación.
 - La felicidad no es *ser* Dios, sino **beber** de Dios: «Dio è la sorgente dell'acqua […] la felicità non è l'essere Dio, ma […] il bere» (Tischreden 197, 08).
 - La [[libertad]] es «la capacità della felicità» (Tischreden 71, 12).
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth relaciona la pureza con la verdadera felicidad. Presenta una juventud pura como llena de alegría, fuerza y optimismo: «Mira el ánimo ferviente de vida, la prontitud para la acción, aquella alegría inalterable, aquella felicidad que canta, aquella primavera risueña...» [PyH, cap. 7]. La vida pura trae consigo la paz de la conciencia, mientras que el pecado destruye esa tranquilidad. Por ello anima a luchar por la pureza, mostrando sus frutos: fuerza, alegría, distinción y libertad. «Mira: la vida pura es fuerza, alegría, distinción, libertad, hermosura... ¿No vale la pena de luchar por ella?» [PyH, cap. 7]. La felicidad verdadera no está en la satisfacción pasajera de los instintos, sino en la concordia del alma con Dios y en la serenidad que da la virtud.
+
 ## Distinciones importantes
 
 - **Felicidad vs. placer/emoción**: la felicidad responde al deseo
@@ -96,3 +100,4 @@ destinación.
   «La felicità»).
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/realta_e_giovinezza_la_sfida_capitoli/índice.md`.
+- [PyH, Cap. 7]

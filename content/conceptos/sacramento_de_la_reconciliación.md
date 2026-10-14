@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Sacramento de la reconciliación"
 tags: ["sacramental"]
-timestamp: 2026-08-09
+timestamp: 2026-10-13
 description: "Sacramento instituido por Jesucristo para el perdón de los pecados cometidos después del bautismo, por la contrición, la confesión y la satisfacción."
 ---
 # Sacramento de la reconciliación
 
 > Área: Sacramental
-> Última actualización: 2026-08-09
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -233,6 +233,14 @@ Tóth destaca el valor educativo de la [[confesión]] frecuente: examen de conci
 
 Mons. Munilla presenta el confesionario como «lugar de discreción y de discernimiento», donde «se toca la miseria humana» y se entra en la herida del hombre. El sacerdote no solo administra el sacramento: es él mismo «mendigo» de la misericordia que anuncia, pues León XIV le pide «volver siempre a la misericordia que anunciáis» y «no dejar de confesaros». Munilla narra una anécdota vivida en Santiago de Compostela: una penitente inglesa que no podía confesarse pidió a otra que transmitiera sus pecados y preguntara si el sacerdote podía perdonarla; la italiana que hizo de intermediaria quedó tan impactada que se acercó después a confesarse. La conclusión es que «cuántas veces lo que acontece en el sacramento de la confesión es un impacto para nosotros»: la fe de las almas interpela al sacerdote y lo llama a la conversión. Por eso los sacerdotes están llamados a entregarse a este sacramento «para no desfigurar la parábola de la oveja perdida» (Lc 15) [CIS, 2026].
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth llama a la confesión y la comunión «las fuentes de una vida nueva» y las presenta como un medio poderoso para la lucha de la juventud: «un medio eficaz de autoeducación, de dominio propio, que robustece, enmienda y preserva» [PyH, cap. 6]. Ilustra su necesidad con la imagen del cuerpo envenenado —«el cuerpo envenenado no descansa hasta arrojar el veneno»— y aconseja: «a medida que arrecie la lucha redobla tus visitas al confesionario, y mientras sea posible ve siempre al mismo confesor» [PyH, cap. 6].
+
+Describe el confesionario como el lugar donde la joven encuentra «una mano paternal que te saque las espinas», «un bálsamo que te cure las heridas» y «un Padre benévolo que con amor vela por su hija y la salva del peligro» [PyH, cap. 6]. Pide confesar «con sinceridad… y con firme propósito de enmienda», y subraya el valor de la costumbre de confesarse «una vez al mes, por lo menos»: quien la sigue «no ha de temer mucho por su alma… Es posible que tropiece en la vida…, pero se levantará de nuevo y no se quedará tendida en el pecado» [PyH, cap. 6].
+
+Advierte, por último, sobre la elección del confesor: «No te guíes de la moda para elegir confesor. Busca el que conviene a tu actual modo de ser. "Letrado sobre todo, y no medio letrado", como juiciosamente apunta Santa Teresa de Jesús» [PyH, cap. 6]. La confesión se ordena así a la [[conversión]], se une a la [[eucaristía]] y a la [[dirección_espiritual]], y restaura la [[gracia_santificante]].
+
 ## Distinciones importantes
 
 - **Contrición perfecta vs. atrición**: según el motivo del dolor del pecado
@@ -282,3 +290,4 @@ Mons. Munilla presenta el confesionario como «lugar de discreción y de discern
 - CIC cc. 959-997
 - PS §11
 - [CIS, «La catedral interior del sacerdote», 2026]
+- [PyH, Cap. 6]

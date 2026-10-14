@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Matrimonio
 tags: ["sacramental"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-13
 description: "El matrimonio es el sacramento instituido por Nuestro Señor Jesucristo que santifica la unión legítima entre un varón y una mujer."
 ---
 # Matrimonio
 
 > Área: Sacramental
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -108,6 +108,10 @@ Lumen Gentium presenta el [[matrimonio]] cristiano en LG §11. Los cónyuges cri
 Del matrimonio procede la familia, que es «una especie de Iglesia doméstica» ([[iglesia_doméstica]]) [ConcVatII, LG §11]. Los esposos cristianos, siguiendo su propio camino, mediante la fidelidad en el amor deben sostenerse mutuamente en la gracia y educar a los hijos en la doctrina cristiana, ofreciendo a todos el ejemplo de un amor generoso [ConcVatII, LG §41].
 
 *Gaudium et Spes* dedica el Capítulo I de la Segunda Parte a la dignidad del matrimonio y la familia (GS 47-52). GS 48: La íntima comunidad conyugal de vida y amor se establece sobre la alianza de los cónyuges, sobre su consentimiento personal e irrevocable. «Dios es el autor del matrimonio, al cual ha dotado con bienes y fines varios.» El matrimonio y el amor conyugal están ordenados por sí mismos a la procreación y educación de la prole. Cristo bendijo este amor y elevó el matrimonio a sacramento, haciéndolo imagen de su unión con la Iglesia. GS 49: El amor conyugal es «eminentemente humano, ya que va de persona a persona con el afecto de la voluntad, abarca el bien de toda la persona». GS 50: Los hijos son «el don más excelente del matrimonio». Los cónyuges son cooperadores del amor de Dios Creador. GS 51: El aborto y el infanticidio son crímenes abominables. «La vida desde su concepción ha de ser salvaguardada con el máximo cuidado.» [ConcVatII, GS §47-52].
+
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth subraya que la vida sexual solo es santa cuando se ejercita en el matrimonio indisoluble. Si Dios permitió que esta tendencia fuese satisfecha solamente dentro del matrimonio, fue para que la mujer no se rebajase y para que el amor conyugal estuviera al servicio de la vida. «Solamente en el matrimonio es «santa» la vida sexual, porque sólo en él no perjudica a la parte más noble de todo hombre: el alma» [PyH, cap. 1]. De ahí que toda satisfacción de esa tendencia fuera del matrimonio sea un atentado contra la dignidad de la persona y contra los planes divinos. «Dios no permite la unión de ambos sexos sino dentro de las formas prescritas por El; es a saber: en el matrimonio indisoluble, y aún en éste, sólo con el fin primario de dar vida al hijo» [PyH, cap. 1].
 
 ### Según Royo Marín (TPCr)
 
@@ -358,3 +362,4 @@ hospitalidad:
 - AED, 33, 75 — Tischrede 49: *La discrezione* — el reino hace resultar la belleza y la permanencia del amor.
 - AED, 33, 83-85 — Tischrede 49: *La discrezione* — la fidelidad como moralidad del amor.
 - EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 2-8, 12, 17.
+- [PyH, Cap. 1]

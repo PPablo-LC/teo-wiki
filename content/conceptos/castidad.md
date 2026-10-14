@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Castidad
 tags: ["moral"]
 
-timestamp: 2026-07-23
+timestamp: 2026-10-13
 description: "La castidad es la virtud moral, parte subjetiva de la templanza, que modera el apetito genésico según la recta razón y la fe, integrando la sexualidad en la persona y ordenándola al don total de sí."
 ---
 # Castidad
 
 > Área: Moral
-> Última actualización: 2026-07-23
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -60,6 +60,14 @@ El abad [[queremon_de_la_perfección|Queremón]] expone en la Conferencia XII la
 Queremón presenta la virginidad como un camino espiritual en siete etapas: primero la virginidad por educación (custodia paterna), luego por voto, después por abstinencia del matrimonio, después por costumbre, después por devoción, después por ejemplo de otros, y finalmente por gracia de Dios. La virginidad perfecta es la que se consagra a Dios no solo corporalmente sino también espiritualmente.
 
 > **Referencia:** ColCas-II, Conferencia XII, §§1-34
+
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth une estrechamente la castidad con la pureza y la virginidad. Frente a los falsos placeres, la joven ha de «seguir el camino de la castidad» [PyH, Cap. II]. Para el autor, la castidad es una virtud que exige firmeza de carácter: «la muchacha de carácter es aquella que en sus años juveniles supo sujetar a duro freno sus pasiones» [PyH, Cap. II]. Roma rendía honor a la castidad, e incluso paganos como Tibulo proclamaban: *«Casta placent superis»* — «La castidad es grata a los dioses» [PyH, Cap. VII].
+
+Tóth insiste en que la castidad no es meramente negativa, sino que robustecen el alma y el organismo. La castidad «contribuye de un modo misterioso y benéfico a incrementar la labor espiritual» y hace al alma «lozana, y da fuerza de vida al espíritu y al organismo» [PyH, Cap. VII]. También aborda la defensa de la salud: «la castidad, la vida pura. He ahí la única profilaxis segura» frente a las enfermedades propias de la vida impura [PyH, Cap. V]. Por eso concluye que «la castidad es el *patrimonio y la gloria de las mujeres*» [PyH, Cap. V].
+
+Estas enseñanzas apuntan a la [[pureza]], al [[pudor]] y a la [[modestia]] como aliados de la [[castidad]].
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -163,3 +171,6 @@ La [[templanza]] es la virtud cardinal de la que la castidad es parte subjetiva.
 - [TdC 18.03.1981]
 - ColCas-II, Conferencia XII, §§1-34
 - JvC-Eng, Cap. I-VII
+- [PyH, Cap. II]
+- [PyH, Cap. V]
+- [PyH, Cap. VII]

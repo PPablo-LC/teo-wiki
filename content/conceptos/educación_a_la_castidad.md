@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: Educación a la castidad
 tags: ["moral", "pastoral", "familia"]
-timestamp: 2026-08-24
+timestamp: 2026-10-13
 description: "Educación en el amor verdadero que forma a niños y jóvenes para vivir la castidad según su estado, mediante un clima familiar positivo, información gradual y delicada, motivación espiritual y educación de la voluntad, dentro del plan de Dios sobre la sexualidad."
 ---
 # Educación a la castidad
 
 > Área: Moral / Pastoral / Familia
-> Última actualización: 2026-08-24
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -37,6 +37,16 @@ Tóth añade su tesis pedagógica central: «la mejor educación sexual se funda
 El documento es la fuente misma de esta orientación educativa. La educación de los hijos a la castidad mira a tres objetivos: «a) conservar en la familia *un clima positivo de amor, de virtud y de respeto a los dones de Dios*; b) ayudar gradualmente a los hijos a comprender *el valor de la sexualidad y de la castidad*; c) ayudarles a comprender y a descubrir *la propia vocación al matrimonio o a la virginidad dedicada al Reino de los cielos*» (SHVS 22). La castidad, como virtud, «nunca se reduce a un simple discurso sobre el cumplimiento de actos externos conformes a la norma, sino que exige activar y desarrollar los dinamismos de la naturaleza y de la gracia»; es «inseparable del compromiso de cultivar *todas las otras virtudes*», en particular la caridad; requiere el dominio de sí, que «presupone virtudes como el pudor, la templanza, el respeto propio y ajeno», y las «hermanas menores de la castidad» —modestia y capacidad de sacrificio (SHVS 54-55). El itinerario formativo se desarrolla en el seno de la familia («el lugar normal y originario», «la escuela más rica en humanidad», SHVS 48): clima afectivo (SHVS 50), diálogo (SHVS 51), comunidad de vida y amor (SHVS 52), pudor y modestia (SHVS 56), justa intimidad (SHVS 57), autodominio (SHVS 58), ejemplo de los padres (SHVS 59), espíritu de sacrificio (SHVS 60), acogida de la vida (SHVS 61) y casa de fe y oración (SHVS 62-63). Los pasos en el conocimiento siguen cuatro principios: formación individualizada con diálogo personalizado (preferentemente del mismo sexo), dimensión moral siempre presente, información dentro del contexto de la educación al amor, y comunicaciones claras, delicadas y oportunas (SHVS 64-76). La información ha de respetar las fases: años de la inocencia (formación indirecta, SHVS 78-86), pubertad (SHVS 87-97), adolescencia (SHVS 98-108) y edad adulta (SHVS 109-111). Los cuatro principios operativos: doctrinal (misterio sagrado con los efectos del pecado original), oportunidad según el momento, decencia (jamás material erótico) y respeto al niño y al joven (SHVS 122-127).
 
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+En *Pureza y hermosura* Tóth articula la educación de la castidad como una pedagogía del dominio de sí. A la joven en pleno desarrollo le recuerda que es «un sagrado deber no excitar, no alimentar con lecturas, conversaciones, miradas, imágenes o acciones sensuales, los instintos que se despiertan, sino refrenarlos» [PyH, cap. II]. La fantasía es el campo de batalla: conviene huir de las lecturas, el cine, el teatro y las amistades que «atizan» la concupiscencia y sustituirlas por ocupaciones serias, diversiones nobles y oración [PyH, cap. VI].
+
+Su método es la formación de la voluntad mediante pequeñas victorias: «El mejor método para lograr esta fuerza contra los rebeldes incentivos es imponer a la voluntad una gimnasia dura en otros terrenos, mediante pequeñas pruebas, abnegaciones, renuncias» [PyH, cap. VI]. La que desde niña aprende a privarse de un gusto o a vencer la pereza, a la edad del despertar de los sentidos «sabrá vencer las tentaciones de sus sentidos» [PyH, cap. VI].
+
+Añade consejos concretos de custodia de los sentidos y de la salud —limpieza exterior, sobriedad en la comida y la bebida, ocupación constante, elección del vestido— y recomienda buscar un director espiritual antes que consultar a las amigas [PyH, cap. VI].
+
+Véase también: [[castidad]], [[educación_de_la_voluntad]], [[pudor]], [[educación_sexual]].
+
 ## Distinciones importantes
 
 - **Educación a la castidad vs. información sexual**: aquella integra la información en la educación al amor y a la virtud; esta sola despierta curiosidad sin dar fuerza moral.
@@ -55,3 +65,4 @@ Se ordena a la virtud de la [[castidad]] y al [[matrimonio]], cuya vocación pre
 ## Referencias
 
 - [JvC-Rel, archivos 12, 22-27, 29]
+- [PyH, Cap. II; Cap. VI]

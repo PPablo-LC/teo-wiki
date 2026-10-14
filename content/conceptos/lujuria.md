@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Lujuria
 tags: ["moral"]
 
-timestamp: 2026-06-11
+timestamp: 2026-10-13
 description: "La lujuria es el deseo o goce desordenado del placer venéreo."
 ---
 # Lujuria
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -82,6 +82,16 @@ En los artículos 2 a 12, Santo Tomás examina con detalle cada especie, sus cir
 
 **Alejandro VII** (1666, D‑1140) condenó la proposición: «El acto de besarse, abrazarse y tocarse, cuando procede de un afecto amatorio y de una mutua complacencia, no sale de los límites de un pecado venial...» Condenada como falsa. La condena confirma la doctrina tomista de que la complacencia en la delectación venérea constituye materia grave.
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth describe la lujuria como la pasión que, alimentada por la repetición, acaba esclavizando la voluntad hasta convertirse en «necesidad de la vida». A partir de las primeras complacencias —a menudo nacidas de la curiosidad o la imprudencia— «la repetición frecuente engendra la costumbre, la costumbre se convierte en necesidad» [PyH, cap. IV]; el pecado «no era más que un peregrino casual que pedía albergue de noche; después, ya se instala como huésped; finalmente, manda en plan de dueño» [PyH, cap. IV]. Como Anteo, que recobraba fuerzas al tocar la tierra, la pasión «cobra fuerzas y se hace más tirana cuando el alma toca el fango» [PyH, cap. IV].
+
+Para Tóth, el daño seguro de este vicio está en el alma: «Donde es segura la ruina es en el alma», pues «es muy difícil curar este pecado» porque va embotándose la sensibilidad moral y «la fuerza de voluntad es nula» [PyH, cap. IV]. La impureza «chupa también todas las energías espirituales» de la joven que «incauta cae entre sus garras» [PyH, cap. IV]; quien se entrega a ella acaba «gimiendo en la esclavitud de sus instintos nunca satisfechos» [PyH, cap. IV].
+
+Frente a ella, el autor presenta la castidad como el único preservativo seguro: «La tendencia en sí no es invencible; es sólo la tendencia, artificialmente excitada, la que no puede dominar la voluntad débil» [PyH, cap. V]. El combate, comparado con un «dragón de siete cabezas», dura mientras corre sangre joven, pero «nadie podrá obligarte a capitular, a deponer las armas… si tú no quieres» [PyH, cap. V].
+
+Véase también: [[castidad]], [[concupiscencia]], [[vicio]], [[costumbre]], [[lucha_contra_la_carne]].
+
 ## Distinciones importantes
 
 - **Lujuria (vicio capital)** vs. **pecados contra la castidad**: la lujuria es el vicio capital del que brotan diversas especies de pecados
@@ -102,3 +112,4 @@ La lujuria se opone a la [[castidad]]. Es hija de la [[concupiscencia]] y produc
 - [CEC §1866, §2351-2356, §2396]
 - [TPCr, Parte III, Libro I, n.225-227; Parte III, Libro II, Cap. II, n.341, 457]
 - [Santo Tomás, II-II, q.153-154]
+- [PyH, Cap. IV; Cap. V]

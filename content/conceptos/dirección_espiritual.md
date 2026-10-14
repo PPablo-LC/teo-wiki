@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dirección espiritual
 tags: ["ascética", "mística"]
 
-timestamp: 2026-08-24
+timestamp: 2026-10-13
 description: "La dirección espiritual es el arte de conducir las almas progresivamente desde los comienzos de la vida espiritual hasta las cumbres de la perfección cristiana (n.671)."
 ---
 # Dirección espiritual
 
 > Área: Ascética / Mística
-> Última actualización: 2026-08-24
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -51,6 +51,13 @@ En *La vocación explicada*, la dirección espiritual aparece como uno de los tr
 
 «La guía o dirección espiritual, aunque no coincide necesariamente con el papel del confesor, es ayuda preciosa para la iluminación progresiva de las etapas de maduración y para el apoyo moral» (SHVS 74). Son «muy útiles las lecturas de libros de formación elegidos y aconsejados para ofrecer una formación más amplia y profunda, y proponer ejemplos y testimonios en el camino de la virtud» (SHVS 74).
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth exhorta a la joven a buscar un director espiritual: «Busca un director espiritual. A tus amigas no les preguntes nunca, pero nunca, sobre cosas sexuales. Si un ciego guía a otro ciego, ambos caerán en la fosa» [PyH, cap. 6]. Frente a las dudas graves, remite a la madre «o al director espiritual», con quien hay que ser «completamente sincera»: «Sé con él completamente sincera y sentirás alivio, y tienes la victoria medio ganada» [PyH, cap. 6].
+
+Lo presenta como un «amigo paternal» que no abusará de la confianza depositada: «No se reirá de tus luchas, antes bien, se sentirá honrado de que hayas acudido a él para tranquilizarte» [PyH, cap. 6]. Lo que él aconseje debe guardarse como «un tesoro sagrado», sin divulgarlo imprudentemente, pues «sacarlo a la luz del sol, descubrirlo a otros puede ser perjudicial» [PyH, cap. 6]. El capítulo concluye: «¡Qué bendición es para una muchacha un buen director espiritual!» [PyH, cap. 6].
+
+El «Diario de una joven» ilustra este acompañamiento: la joven se confiesa con su director sobre su enamoramiento, y este la guía con delicadeza —«no rompas violentamente, pero procura olvidarlo todo»— y le pide una sinceridad permanente: «¿serás siempre sincera conmigo?… Mientras vengas con absoluta confianza, no temo por ti» [PyH, cap. 6]. La dirección se ordena así a la [[confesión]], al [[discernimiento_de_espíritus]], al [[examen_de_conciencia]] y a la [[vida_de_oración]].
 
 ## Distinciones importantes
 
@@ -78,3 +85,4 @@ Se relaciona con todos los medios de perfección: [[examen_de_conciencia]], [[pr
 
 - TPCr, Tercera Parte, Libro II, Cap. V, Art. 5, n.670-705
 - AvEsp, Dicho 5 (quien solo se quiere estar sin maestro será como árbol solo); Dicho 7 (alma sola sin maestro, carbón que se enfría); Dicho 11 (el que cae ciego no se levanta ciego solo)
+- [PyH, Cap. 6]

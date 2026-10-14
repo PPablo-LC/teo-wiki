@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Voluntad
 tags: ["antropología"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-13
 description: "La voluntad es una facultad espiritual del alma humana, apetito racional que inclina al bien conocido; hiato con la razón y educación en la libertad según Giussani."
 ---
 # Voluntad
 
 > Área: Antropología
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -119,6 +119,10 @@ La voluntad no es solo deseo: para no reducirla a deseo es necesario asumir un [
 
 La voluntad es la causa del mal: nadie elige el mal como tal, sino un bien desordenado (el mal no tiene razón de fin); por eso el mal viene de lo indeterminado y variable, no del Creador ni de la naturaleza (si fuera necesaria, no habría virtud verdadera, que es voluntaria). En el orden de la gracia: Dios mueve la voluntad desde dentro, como Primera Causa, sin forzarla; ser causado no es contrario a la libertad (el determinismo sí): «no somos forzados sino inclinados al bien»; la voluntad conservada en su naturaleza puede siempre resistir la gracia, y aceptarla requiere un acto suyo.
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Para Tóth, la fortaleza de la voluntad es la llave para conservar la pureza en los años de juventud. Llama a la lucha contra la tentación «un combate de vida o muerte» y anima a ejercitar la voluntad desde lo pequeño, pidiendo a Dios auxilio. «Luchar contra nosotros mismos es el más difícil combate; mas vencernos a nosotros mismos es también la victoria más gloriosa» [PyH, cap. 5]. En el capítulo sexto insiste en que el dominio de los pensamientos y el rechazo inmediato de los malos deseos depende de una voluntad firme y tranquila: «¡Prefiere ser más tímida de lo necesario, que no más osada de lo debido!» [PyH, cap. 6]. Por eso recomienda acudir a la oración diaria para pedir una «santa voluntad», y recuerda que «tú eres ahora el sagrario de la futura generación, y mañana serás el alma o la sepultura de tu patria» [PyH, cap. 5]. La voluntad educada es la que hace posible llegar a la «libertad del alma pura» y al triunfo sobre uno mismo [PyH, cap. 7].
+
 ## Distinciones importantes
 
 - **Voluntad (facultad)** vs. **libre albedrío**: la voluntad es la facultad; el libre albedrío es su propiedad de elegir entre medios
@@ -146,3 +150,6 @@ La voluntad es la facultad donde residen la [[caridad]] y la [[justicia]]. Se re
 - SmTh Ia-IIae q.19 aa.1-9
 - [Santo Tomás, I, q.82-83; I-II, q.6-17]
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §2d
+- [PyH, Cap. 5]
+- [PyH, Cap. 6]
+- [PyH, Cap. 7]

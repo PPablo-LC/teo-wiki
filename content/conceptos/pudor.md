@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pudor
 tags: ["moral"]
 
-timestamp: 2026-08-24
+timestamp: 2026-10-13
 description: "Parte integrante de la virtud de la templanza que preserva la intimidad de la persona y protege su dignidad."
 ---
 # Pudor
 
 > Área: Moral
-> Última actualización: 2026-08-24
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -46,6 +46,12 @@ Tóth presenta el pudor como «una preciosa inclinación natural que los niños 
 
 En la educación de la juventud, «eduquemos en el pudor, salvaguarda de la castidad» [archivo 12]. El Pontificio Consejo para la Familia, citado por Tóth, lo sitúa entre las virtudes que presupone el dominio de sí —«virtudes como el **pudor**, la templanza, el respeto propio y ajeno»— y llama a la modestia y capacidad de sacrificio «las hermanas menores de la castidad»: su práctica «al hablar, obrar y vestir… ha de estar hondamente arraigada en el respeto del propio cuerpo y de la dignidad de los demás», velando los padres para que ciertas modas no violen la integridad del hogar [archivo 23]. En conexión con el pudor está el respeto de la justa intimidad: si un niño ve respetada su intimidad, «sabrá que se espera de él igual comportamiento con los demás», desarrollando vida interior y sentido de responsabilidad [archivo 23]. Durante los años de la inocencia, el niño acepta naturalmente «la necesidad de la modestia en la manera de vestir y en el comportamiento»; enseñar la modestia corrigiendo delicadamente ciertos hábitos no es represivo [archivos 26, 25].
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth considera el pudor como el guardián natural e inmediato de la [[pureza]]. El pudor vela lo que debe permanecer reservado, enseñando a respetar la intimidad del cuerpo humano. El autor recuerda que sólo una vez puede perderse el pudor virginal: «No hay arte capaz de reparar el pudor herido: perece éste para siempre» [PyH, Cap. II], citando las duras palabras de Ovidio.
+
+En el camino de la caída, la joven va perdiendo ese delicado sentido: llega a pensar que «el pudor era cosa sin importancia. ¡Gazmoñerías de beatas!» [PyH, Cap. IV], y cuando llega la desilusión y el arrepentimiento, su corazón se contrista al haber fingido «un pudor virginal del que carece» ante quien la amaba con nobleza [PyH, Cap. IV]. Por ello Tóth exhorta a educar en el pudor y a vivirlo unido a la [[castidad]] y a la [[modestia]] como defensa constante de la pureza [PyH, Cap. V; Cap. VI].
+
 ### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
 
 «La práctica del pudor y de la modestia, al hablar, obrar y vestir, es muy importante para crear un clima adecuado para la maduración de la castidad», arraigada en el respeto del propio cuerpo y de la dignidad de los demás (SHVS 56). El pudor es «espontánea defensa de la persona que se niega a ser vista y tratada como objeto de placer en vez de ser respetada y amada por sí misma»; en estrecha conexión con él, el respeto de la *justa intimidad*: si un niño ve que se respeta su intimidad, «sabrá que se espera de él igual comportamiento con los demás» (SHVS 57). El dominio de sí «presupone virtudes como el pudor» (SHVS 55). Los padres han de proteger a sus hijos de la información sexual prematura y de los mass-media, educando en la modestia y la reserva (SHVS 56, 84-85); el cuarto principio operativo prohíbe invitar u obligar a nadie a actuar «en modo que pueda ofender objetivamente la modestia o lesionar subjetivamente la propia delicadeza y el sentido de "su intimidad"» (SHVS 127).
@@ -73,3 +79,8 @@ En la educación de la juventud, «eduquemos en el pudor, salvaguarda de la cast
 - TPCr, Tercera Parte, Libro II, cap. I
 - SmTh IIª-IIae q.151 a.4
 - [JvC-Rel, archivos 05, 12, 23, 25, 26]
+- [PyH, Cap. I]
+- [PyH, Cap. II]
+- [PyH, Cap. IV]
+- [PyH, Cap. V]
+- [PyH, Cap. VI]

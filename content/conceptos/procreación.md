@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Procreación
 tags: ["moral", "doctrina_social"]
 
-timestamp: 2026-06-20
+timestamp: 2026-10-13
 description: "Dimensión esencial del matrimonio ordenada a la transmisión de la vida humana, que expresa la subjetividad social de la familia e inicia un dinamismo de amor y de solidaridad entre las generaciones."
 ---
 # Procreación
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-06-20
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -48,6 +48,10 @@ El respeto de los padres hacia la vida y hacia el misterio de la procreación ev
 
 La procreación es **fin principal del matrimonio**: el acto conyugal como colaboración con el Creador. Tóth condena la **esterilidad voluntaria** como «árbol seco» y pecado triple: contra Dios (la mentalidad frívola que ve el hijo como «plaga»), contra el hijo y contra los padres [EMC, cap. 13]. Cuando la miseria real lo exige, el único medio lícito de regular la natalidad es la **continencia conyugal** (evitar las fases fértiles del ciclo), nunca el aborto ni los anticonceptivos; la Iglesia reclama además mejoras sociales para las familias numerosas [EMC, cap. 14]. Destaca a las **mártires de la maternidad**, madres que arriesgan la vida por el hijo: «se salvarán dando a luz» (1 Tim 2,15). Los grandes hombres provenían de familias numerosas: Mozart (5º hijo), Rembrandt (6º), Wagner (7º), Napoleón (8º), Schubert (13º) [EMC, cap. 14].
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth presenta la procreación como el fin primario y santísimo de la vida conyugal. Dios ha comunicado al hombre una «fuerza en cierto modo creadora», una capacidad de participar en su obra divina llamando a la existencia nuevas generaciones: «Quería que éstos participasen en su función divina de Hacedor, y compensasen la brecha abierta en nuestro linaje por la muerte, dando vida a nuevas y nuevas generaciones» [PyH, cap. 1]. La transmisión de la vida debe realizarse únicamente dentro del matrimonio indisoluble, porque solo allí la satisfacción del instinto sexual deja de ser una mera caza de placeres para convertirse en la procreación y educación de los hijos. «Tan sólo en el matrimonio la satisfacción de esta tendencia deja de ser mera caza de placeres para trocarse en el germinar de nuevos capullos humanos, la procreación de nuevos seres, cuya esmerada educación sólo puede realizarse dentro del matrimonio indisoluble» [PyH, cap. 1]. Por ello, afirma tajantemente que Dios no permite la unión de ambos sexos sino en el matrimonio indisoluble y «sólo con el fin primario de dar vida al hijo» [PyH, cap. 1].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[paternidad_responsable]], [[familia]], [[anticoncepción]], [[clonación]], [[amor_conyugal]]
@@ -62,3 +66,4 @@ Se relaciona con [[matrimonio]], [[paternidad_responsable]], [[familia]], [[anti
 - [CompDS §230-237]
 - [FC §14, §30]
 - EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 13-14.
+- [PyH, Cap. 1]

@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Educación sexual
 tags: ["moral", "sexualidad", "educación"]
-timestamp: 2026-07-14
+timestamp: 2026-10-13
 description: "Formación integral que acompaña el descubrimiento de la sexualidad en la antropología cristiana."
 ---
 
 # Educación sexual
 
 > Área: Moral / Sexualidad
-> Última actualización: 2026-07-14
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -32,8 +32,20 @@ Tóth presenta la sexualidad como «misterio sagrado» que exige reverencia y de
 La educación sexual es «derecho y deber fundamental de los padres», que debe realizarse «siempre bajo su dirección solícita, tanto en casa como en los centros educativos elegidos y controlados por ellos»; la escuela coopera según la ley de la [[subsidiariedad]], «situándose en el espíritu mismo que anima a los padres» (SHVS 43). Ante una cultura que «banaliza» la sexualidad reduciéndola al cuerpo y al placer egoísta, «el servicio educativo de los padres debe basarse sobre una cultura sexual que sea verdadera y plenamente personal» (SHVS 46). Si los padres no imparten una adecuada formación, «abandonan un preciso deber»; y son culpables si toleran una formación inmoral o inadecuada impartida fuera del hogar (SHVS 44). El documento recomienda a los padres asociarse, informarse exactamente de contenidos y modalidades de la educación complementaria, estar presentes en los encuentros y retirar a los hijos cuando la instrucción no corresponda a sus principios —sin que ello sea motivo de discriminación (SHVS 113-120). Ningún educador puede interferir «el derecho del niño o del joven a vivir la propia sexualidad en modo conforme a los principios cristianos» (SHVS 118); se rechaza «la educación sexual secularizada y antinatalista» y los métodos abusivos (representaciones dramatizadas, peticiones de información personal, exámenes sobre cuestiones genitales o eróticas) (SHVS 136, 127).
 
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth aborda la iniciación en el conocimiento de la sexualidad a partir de una conversación entre madre e hija: la información sobre el origen de la vida debe darla la madre antes de que la hija la reciba de compañeras indiscretas. «Más vale que te la explique yo, y así no tendrás que curiosear con otras personas», dice el autor [PyH, cap. I]; y el origen de la vida ha de presentarse como «misterio conmovedor, misterio sagrado» que exige reverencia [PyH, cap. I].
+
+El libro procura la información fisiológica en el marco del plan del Creador —la fuerza engendradora, la ovulación, la menstruación, el desarrollo del organismo— [PyH, caps. I, II, IV], siempre unida a la formación moral y al respeto del pudor.
+
+Tóth constata, finalmente, el fin «de una era, de aquella en que se hacía gala de la ignorancia como medio de conservar la pureza femenina»: la nueva generación ha de ser formada con clara conciencia de su misión, sin que la ignorancia sea el método [PyH, cap. VII].
+
+Véase también: [[castidad]], [[educación_a_la_castidad]], [[sexualidad]], [[pudor]].
+
 ## Ver también
 
 [[castidad]], [[sexualidad]], [[educación_a_la_castidad]]
 
 ## Referencias
+
+- [PyH, Cap. I; Cap. II; Cap. IV; Cap. VII]

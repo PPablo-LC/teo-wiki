@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Conversión
 tags: ["moral", "ascética"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-13
 description: "Movimiento del alma que, movida por la gracia, se vuelve a Dios apartándose del pecado."
 ---
 # Conversión
 
 > Área: Moral / Ascética
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -225,6 +225,14 @@ Chesterton, en «The Convert», describe una fe donada en el momento menos esper
 
 Andrew Allen presenta el camino del [[catecumenado]] y de los [[rito_de_iniciación_cristiana_de_adultos]] como itinerario sacramental de conversión: la respuesta al primer anuncio del [[kerygma]], los escrutinios y la [[mistagogia]] configuran al neófito con Cristo (CEC 1432) [EAC-18, 16_feature_allen.md]. Robert Barron cierra el fascículo recordando que la gracia precede y obra toda conversión, y que la fe se transmite sobre todo por el testimonio del que ha sido alcanzado y vive en la misión [EAC-18, 18_spotlight_barron.md]; la sección «Soul» añade que esta misión alcanza al hombre de la [[era_secular]], llamado a entrar por el camino de la fe en la comunidad eclesial [EAC-18, 21_soul.md].
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth proclama con insistencia la posibilidad del retorno: «No pronuncies jamás la fatídica palabra "tarde", no digas nunca: "Ya es tarde para mí."… no es verdad: no es tarde. Y cuanto más hayas retardado tu reacción, más urgencia tiene» [PyH, cap. 5]. Frente al desaliento por las caídas pasadas, recuerda la palabra de San Francisco de Sales: «La tristeza que nos acomete después del pecado y quita los bríos y ánimos para levantarnos de la culpa, no es de Dios; recházala como un ardid del demonio» [PyH, cap. 5].
+
+La conversión se presenta como un «morir para resurgir», según la sentencia de Goethe *Stirb und werde!*: «Negarse a sí misma es refrenar las inclinaciones desordenadas y los deseos carnales»; la abnegación «da por resultado *el dominio de sí mismo*», pues «se pierde aquella joven a la que, por falta de abnegación, sojuzgan las pasiones» [PyH, cap. 6]. Y el lema de toda la obra es tajante: «no se pierde irremisiblemente sino la que abdica de sí misma. Por mucho que hayas descendido, querida joven, puedes todavía subir a las alturas: ¡Hay retorno!» [PyH, cap. 7].
+
+El ejemplo culminante es el de la actriz Eve Lavallière, que «después de varios años de tropiezos, encontró de nuevo el camino que lleva a Nuestro Señor» y confesó: «Cuanto más claramente veo mis miserias, mis crímenes y mis vicios, más sublime e incomprensible me parece la divina misericordia» [PyH, cap. 7]. Tóth concluye que la conversión engendra una alegría nueva: «ve en estos renglones el alma de una mujer que despertó llamada por el Amor… ¡Animo y muéstrate alegre, jovial!» [PyH, cap. 7]. Se ordena así al [[arrepentimiento]], a la [[penitencia]], al [[sacramento_de_la_reconciliación]] y a la [[misericordia]].
+
 ## Analizado en contexto cultural
 
 - [[pinocho]] — convergencia en el itinerario de conversión (caída-arrepentimiento-restauración); tensión por la ausencia de dimensión sobrenatural y sacramental
@@ -257,3 +265,6 @@ Andrew Allen presenta el camino del [[catecumenado]] y de los [[rito_de_iniciaci
 - [SFrAs, CFi. 19, 25, 27, 29, 35, 47-49 — Conversión universal]
 - [SFrAs, Adm. 2 — Conversión y renuncia a la propia voluntad]
 - [EAC-23, 19_spotlight_redemption.md — Redemption Community, conversión de Shia LaBeouf]
+- [PyH, Cap. 5]
+- [PyH, Cap. 6]
+- [PyH, Cap. 7]

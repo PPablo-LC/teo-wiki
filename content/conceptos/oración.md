@@ -3,14 +3,13 @@ type: Concepto Teológico
 title: Oración
 tags: ["ascética", "mística"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-13
 description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno); conciencia de sí hasta el fondo que se topa con un Otro según Giussani."
 ---
-
 # Oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -92,7 +91,7 @@ La oración común (litúrgica) tiene eficacia especial porque une las fuerzas d
 
 **a.1 — Cristo oró en cuanto hombre, no en cuanto Dios:** La oración es exposición de la propia voluntad ante Dios para que la satisfaga. Si en Cristo sólo existiese la voluntad divina, no le competería orar, porque la voluntad divina cumple por sí misma lo que desea. Mas por haber en Cristo una voluntad humana, y no ser esta capaz de realizar lo que quiere sino mediante la voluntad divina, a Cristo en cuanto hombre le compete orar. Cristo siendo Dios y hombre quiso orar para enseñarnos a orar y para demostrar que venía del Padre.
 
-**a.2 — Oración según el apetito sensible:** Puede entenderse de dos modos: (1) como acto de la sensibilidad —imposible, porque el movimiento sensitivo no puede ascender a Dios, y la oración es acto de la razón—; (2) en cuanto la razón, al orar, expone a Dios los deseos del apetito sensitivo. En este segundo sentido Cristo oró «con su sensibilidad», como cuando pidió: «Pase de mí este cáliz» (Mt 26,39), para enseñarnos que asumió verdadera naturaleza humana, que es lícito querer algo que Dios no quiere, y que debemos subordinar nuestros deseos a la voluntad divina.
+**a.2 — Oración según el apetito sensible:** Puede entenderse de dos modos: (1) como acto de la sensibilidad —imposible, porque el movimiento sensitivo no puede ascender a Dios, y la oración es acto de la razón—; (2) en cuanto la razón, al orar, expone a Dios los deseos del apetito sensible. En este segundo sentido Cristo oró «con su sensibilidad», como cuando pidió: «Pase de mí este cáliz» (Mt 26,39), para enseñarnos que asumió verdadera naturaleza humana, que es lícito querer algo que Dios no quiere, y que debemos subordinar nuestros deseos a la voluntad divina.
 
 **a.3 — Cristo oró por sí y por otros:** Cristo oró por sí mismo de dos modos: expresando los deseos de su sensibilidad o voluntad natural (ej: que se alejase el cáliz), y exponiendo los deseos de su voluntad deliberada (ej: la gloria de la resurrección). Lo hizo para reconocer al Padre como autor de todo bien y para darnos ejemplo. La oración por sí mismo era también en cierto modo por todos, pues su gloria redunda en nuestra justificación.
 
@@ -132,113 +131,33 @@ Tóth llama a la oración «la respiración del alma» y enseña que «rezar bie
 
 Su método progresivo va de la oración vocal bien hecha —recitada despacio, con recogimiento, postura y orden— a la oración personal: «es de importancia decisiva acostumbrar a los jóvenes a la oración personal. En la oración el alma aprende a conocer y amar a Cristo»; usa la analogía del músico: al principio se reza leyendo un libro de meditación; más adelante «se componen oraciones nuevas, utilizando palabras y sentimientos propios» [archivo 10]. Da reglas prácticas: recojerse antes de rezar, rezar despacio («mejor es rezar poco, atendiendo a lo que se dice, que rezar mucho sin atención»), preguntarse «¿por qué rezo?», y saborear la presencia de Dios durante el día [archivo 10]. Insiste en la meditación diaria y en el examen de conciencia nocturno como medios de progreso [archivo 10], y motiva humanamente la oración: «no simplemente repitamos que la oración es un mandato divino; mostremos cómo es la actividad más noble del alma humana» [archivo 10].
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Para Tóth, la oración es el agua que riega las flores de la vida moral: «Si no riegas la flor, se seca; también las flores de tu vida moral se marchitan, si no las riegas como corresponde, con el agua cristalina de la oración» [PyH, cap. 6]. Recomienda rezar «con regularidad» —cada mañana y cada noche— y, sobre todo, «bien»: «prestando atención, con amor encendido, con el espíritu fresco, de todo corazón, entregándote sin reserva» [PyH, cap. 6]. «Si rezas bien, con regularidad, sentirás cerca de ti la eternidad… se apacigua la tempestad… y se hace fácil o, por lo menos, confiada la lucha» [PyH, cap. 6].
+
+La oración es trato de amistad y compañía continua con Cristo: «Acostúmbrate al pensamiento de que Nuestro Señor Jesucristo está siempre y en todas partes contigo… está contigo en la calle, en el estudio, en el juego, en el trabajo, en el cine» [PyH, cap. 6]. Invita a «enamórate de Jesucristo, ya que, por mucho que busques, no hallarás ideal más noble, amigo más leal y fuerte; ayuda más eficaz» y a unir el combate por la pureza a la petición confiada de los apóstoles: «*Domine, salva nos, perimus!*» [PyH, cap. 6].
+
+Ilustra la eficacia de la oración con santa Teresa de Jesús, que en la fundación de Salamanca, ante los temores de su compañera, pone su corazón en Dios y responde con serenidad: «ahora déjeme dormir» [PyH, cap. 6]. La oración fervorosa es «el más sólido apoyo» para conservar la pureza, pues solo con Cristo «es posible conservar la pureza» [PyH, cap. 6]. Se ordena así a la [[vida_de_oración]], la [[presencia_de_dios]], la [[castidad]] y la [[conversión]].
+
 ### Según EAC-16 — Word on Fire Institute
 
 **La oración como acto fundamental de la religión (Tod Worner / Benedicto XVI).** Benedicto XVI definió la oración como «el acto fundamental de la religión, que en la religión cristiana adquiere un carácter muy específico: es el acto de autoentrega por el que entramos en el Cuerpo de Cristo» [EAC-16, 03_midnight_oil.md]. Esta definición conecta la oración no solo con la piedad individual, sino con la realidad eclesial: orar es entregarse a Cristo y ser incorporado a su Cuerpo.
 
 **Los «períodos secos» y la fe: «el pan crece en invierno» (Ida Friederike Görres / Ratzinger).** Görres, amiga de Ratzinger, escribió durante la crisis de la Iglesia en los años 60 que el sufrimiento de los sacerdotes fieles «es sangre de mártires invisible. Germina las semillas que crecen en la noche de invierno» [EAC-16, 03_midnight_oil.md]. Ratzinger retomó esta imagen: «La fe también necesita la disciplina de los períodos secos; entonces algo crece en el silencio. Así como en los campos de invierno, a pesar de las apariencias, el crecimiento yace oculto. 'El pan crece en invierno', dijo Ida Friederike Görres».
 
-**La oración como disposición frente al dominio (Dan Seseske / Ratzinger).** En *God and the World*, Ratzinger distingue la actitud de dominio —propia de quien investiga las cosas materiales— de la actitud de disponibilidad ante Dios: «Solo empiezo a buscar a Dios cuando dejo a un lado esta actitud de dominio. En su lugar tengo que desarrollar una actitud de disponibilidad, de abrirme, de buscar» [EAC-16, 07_spotlight_reader.md]. La oración exige «esperar con toda humildad y permitir que Él se muestre de la manera en que quiera hacerlo».
+### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
 
-**El ateísmo práctico (*etsi Deus non daretur*).** Benedicto XVI advirtió contra el ateísmo práctico: «las verdades de la fe o los ritos religiosos no se niegan pero se consideran irrelevantes para la vida cotidiana, desvinculados de la vida, inútiles. La gente cree a menudo en Dios de manera superficial y vive "como si Dios no existiera". Al final, sin embargo, esta forma de vida resulta aún más destructiva porque conduce a la indiferencia hacia la fe y hacia la cuestión de Dios» [EAC-16, 07_spotlight_reader.md].
+La evangelización digital exige una vida interior sólida. «El mayor peligro para los evangelizadores online es el cinismo» —los que se desaniman ante la falta de respuestas o los ataques de los críticos. La solución es desarrollar una «profunda vida de oración afectiva que anude constantemente la voluntad a la de Cristo» y mantenerse ligado a la identidad de «hijo amado de Dios», de modo que la resistencia no desvíe de la misión [EAC-3, 15_vogt_media_evangelist].
 
-**La inseparabilidad de teología y oración (Evagrio Póntico / Seseske).** Seseske destaca que en el corpus de Benedicto XVI «se manifiesta la profunda armonía entre la reflexión teológica y la devoción espiritual personal al Señor». Cita a Evagrio Póntico: «Un teólogo es quien ora, y quien ora es un teólogo» [EAC-16, 07_spotlight_reader.md]. En nuestro tiempo, donde la teología a menudo se reduce a materia académica, Benedicto XVI es un recordatorio poderoso de la inseparabilidad de ambas.
+James K. Lee propone tres sugerencias augustinas para la era digital: (1) orar tanto o más de lo que se pasa en redes sociales; (2) ser social y comunitario de manera concreta; (3) participar frecuentemente en la vida sacramental [EAC-3, 17_lee_self_love]. Oliver Jeges, en su testimonio de conversión, destaca que la oración —aunque sea infantil— es buena para el alma y que las respuestas llegan de maneras inesperadas [EAC-3, 19_mission_oliver_jeges].
 
-**La sanación de los sacerdotes a través de la oración (Tod Worner).** Worner relata que el arzobispo, al abordar sacerdotes con problemas en su ministerio, comenzaba por la pregunta: «¿Cuándo dejaste de orar?» [EAC-16, 03_midnight_oil.md]. Las narrativas de vidas de oración que habían dejado de florecer eran el punto central de partida; la reinvigoración de la vida de oración estaba en el centro de la sanación.
+### Según Il senso religioso (SR)
 
-### Según Evangelization & Culture, Issue 23 — Prayer (EAC-23)
+**La oración como educación de la libertad (cap. VIII).** Frente a los «atteggiamenti irragionevoli» que reducen la pregunta de fondo, Giussani presenta la oración no como alienación sino como ejercicio de la libertad ante el Misterio: la adhesión de la libertad al fundamento del real es el gesto en que el hombre se realiza como fin último (SR, `15_capitolo_ottavo.md`, §76-88).
 
-El número 23 de *Evangelization & Culture* está dedicado íntegramente a la oración y enriquece este artículo con múltiples perspectivas.
+**La oración como conciencia de sí (cap. X).** «La oración es la conciencia de sí hasta el fondo que se topa con un Otro»: para Giussani, la oración expresa la conciencia del yo dependiente —el yo que no se hace a sí mismo— y la referencia a quien presencia y sostiene el real (SR, `17_capitolo_decimo.md`, §86-95).
 
-**Definición y naturaleza.** Bishop Robert Barron recoge la definición de San Juan Damasco —«la elevación de la mente y el corazón a Dios»— y la de Santa Teresa de Lisieux —«un impulso del corazón, una simple mirada hacia el cielo, un grito de reconocimiento y de amor»— para definir la oración como el encuentro de dos anhelos: nuestro anhelo por Dios y el anhelo de Dios por nosotros. La oración no nace de la iniciativa humana sino de la iniciativa divina: «lo bueno de nuestra oración es Dios ya orando en nosotros» (Barron, citando a McCabe y Rahner) [EAC-23, 09_spotlight_intro_prayer].
-
-**Oración y amistad con Dios.** Juan de la Cruz presenta la oración como «despejar la pista» para que Cristo, como un helicóptero que aterriza en el corazón, pueda aterrizar en nosotros. La limpieza de apegos es la condición para la presencia de Dios [EAC-23, 09_spotlight_intro_prayer]. Fr. Jacques Philippe enseña que la oración es «un acto de fe, esperanza y amor»: fe en la existencia y bondad de Dios, esperanza de que Él nos escuchará, y amor como acogida de su amor [EAC-23, 18_special_feature_philippe].
-
-**Tipos de oración.** Dr. Chris Kaczor enumera los cuatro tipos de oración (adoración, acción de gracias, contrición, petición) y enseña que la oración es una relación filial, no una manipulación mecánica: «Dios elige responder a la oración porque quiere animarnos a entrar en relación con él, a ser un tipo diferente de persona» [EAC-23, 11_science.md]. La oración «HELP!» es la forma más básica y universal de oración: un grito desde la necesidad [EAC-23, 13_features_intro].
-
-**La oración como acto de esperanza.** Fr. Jacques Philippe vincula la oración con la virtud de la esperanza, especialmente en el Año Jubilar 2025. «La oración es una veces un tiempo de felicidad y acción de gracias, pero a veces también la oración de los pobres que clamamos a Dios» (Sal 34,6). La sequedad en la oración no debe desanimar: «incluso una fe muy pobre, si bien determinada, es suficiente para ponerse en contacto con Dios y permitirle actuar en nosotros» [EAC-23, 18_special_feature_philippe].
-
-**La oración en la Escritura.** Matthew Levering identifica cuatro caminos bíblicos para conocer a Jesús como amigo: el sufrimiento sacrificial (Jn 15,12-14), las obras de misericordia (Mt 25,35-40), la oración (Jn 14,12-14; 15,7; Rom 8,26) y el culto eucarístico (Lc 24,30-31). La oración bíblica incluye Getsemaní («no como yo quiero, sino como quieres tú», Mt 26,39), la Transfiguración (Lc 9,28-36) y la oración del Espíritu que «intercede con gemidos indecibles» (Rom 8,26) [EAC-23, 14_feature_levering].
-
-**La oración y la ciencia.** Dr. Chris Kaczor analiza los ensayos clínicos de oración (estudios doble ciego) y concluye que «los resultados no son concluyentes» porque el diseño experimental no puede controlar quién ora, cuánto ni por quién. La oración «siempre obra en su nivel más profundo», aunque no siempre cure [EAC-23, 11_science.md]. La libertad de Dios (SCG 88, 73) significa que la oración no obliga a Dios mecánicamente.
-
-**Silencio y soledad.** Fr. Billy Swan presenta la oración de los Padres del Desierto: el silencio como condición para encontrar a Dios; San Antonio (251-356) como modelo; la pureza de corazón (Mt 5,8) como visión de Dios; la atención (Evagrio) como principio de la oración; Abba Arsenio —«huye, calla, reza siempre»— [EAC-23, 10_minds.md]. Barron enseña que «el fruto del silencio es la oración» (Madre Teresa) y que en el silencio Dios habla indirectamente [EAC-23, 09_spotlight_intro_prayer].
-
-**Oración y sufrimiento.** Tod Worner describe la oración como el camino en las «estaciones de sufrimiento»: los salmos como oración de súplica (Sals 5, 70, 79, 86), la intercesión de los santos (CEC 2683), y la oración y el ayuno como defensa contra el demonio (Mc 9,29) [EAC-23, 04_midnight_oil].
-
-**Oración y predicación.** Fr. Paul Murray OP explora la tradición contemplativa dominicana: la oración como «gracia» y no como técnica; Peraldus —«la oración es una tarea fácil»—; la contemplación que conduce a la predicación (contemplata aliis tradere); las Nueve Maneras de Orar de Santo Domingo como modelo de oración sencilla y eclesial [EAC-23, 17_feature_murray].
-
-**Oración y arte.** Nicolas Fredrickson reflexiona sobre cuatro obras maestras como iconos de la oración: *El Ángelus* (Millet) como oración de la Encarnación; el *Pantocrátor* del Sinaí como la unión hipostática; la *Adoración del Cordero Místico* (van Eyck; Ap 5,6) como la Misa como banquete; la *Agonía en el huerto* (Perugino; Mt 26,39) como la oración de abandono [EAC-23, 12_art.md].
-
-**Oración y formación.** Sr. Amelia Hueller OP ofrece tres consejos para la oración en jóvenes: la sensibilidad a los sentimientos (Hopkins, «Pied Beauty»), los sacramentos frente a la superstición (S.Th. 3,61,1), y la pureza del corazón como interioridad [EAC-23, 22_soul.md].
-
-**Oración y dignidad humana.** Mark Bradford medita sobre los «balbuceos de los niños» (Sal 8,3) como la oración de los débiles: Dios elige lo despreciado y débil (1 Cor 1,28-29); la amistad con los pequeños es amistad con Cristo (Mt 25,40); los santos con discapacidad como intercesoras privilegiadas [EAC-23, 23_peripheries].
-
-### Giussani — Affezione e dimora (AED)
-
-Para Giussani, «el valor de la oración está en que pide explícitamente aquello que desea»: pedir es el modo de educar el deseo y de reconocer la dependencia (AED, 12, 107-111). La oración se alimenta de todo lo que la recuerda: «este es el valor de la preghiera… el valor de todo lo que te recuerda, en primer lugar la casa» — la casa favorece la disponibilidad precisamente porque te recuerda a Cristo (AED, 12, 109). De ahí la unión entre oración y regla: «en lugar de oración y compañía deberíamos usar una única palabra… Regla», porque «la regla es el camino al destino» (AED, 12, 111).
-
-La oración encuentra su forma concreta en la compañía: su «milagro» es que se convierte en «la autoridad de nuestra vida» — no un poder externo, sino la carne viva de la memoria de Cristo que sostiene el pedir diario (AED, 12, 113-115).
-
-### Giussani — Dare la vita per l'opera di un Altro (DLV)
-
-- **Toda criatura es domanda di essere** — el ser participado se expresa como oración, *domanda* de ser (1Tm 4,4; 1Cor 10,31; 1Ts 5,10); la «morale cristiana» coincide con reconocer que Dios es todo (DLV 04, 77-79).
-- **Toda acción es oración** — «Ogni azione è domanda a Dio di essere, cioè è preghiera» (Péguy, *Véronique*: «Voi toccate Dio dappertutto») (DLV 07, 11-13).
-- **Pregare = scongiurare a Quien pertenecemos** — «bisogna pregare nel senso letterale del termine, vale a dire, scongiurare Colui a cui apparteniamo perché non ci abbia chiamati invano» (DLV 19, 7-11).
-
-### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
-
-La oración es «una elevación de la mente a Dios» (*oratio est ascensus mentis in Deum*, Damaseno): acto de la mente movido por la voluntad — viene del corazón, por la caridad. Las palabras no son siempre necesarias, pero ayudan a despertar la devoción interior; lo que más la despierta es la humanidad de Cristo. Su duración: mientras despierte fervor de deseo. El deseo de caridad hace la oración continua (actual o virtualmente): así interpreta Tomás «orad sin cesar» — asidua aunque estemos ocupados en las tareas diarias.
-
-### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
-
-La familia debe ser ante todo «casa de fe y de oración» (SHVS 62). Los padres han de poner siempre su confianza en Dios «a través de la invocación al Espíritu Santo, el dulce Paráclito, dador de todos los bienes», pidiendo la intercesión de María Inmaculada y de San José (SHVS 150). Entre los medios del crecimiento casto: «recurso frecuente a la oración y a los sacramentos de la Penitencia y de la Eucaristía» (SHVS 71); para valorar qué decir a cada hijo, «los padres pidan ante todo luces al Señor en la oración» (SHVS 75).
-
-
-### Según La convenienza umana della fede (CUDF)
-
-Giussani insistía en que la oración **no es “la oración de la comunidad”**: «La
-oración es de la persona, y es oración de la comunidad si es la oración de los
-individuos que componen la comunidad. Si no es tu oración, no es oración ni de la
-comunidad» (02, 235).
-
-**Una regla de oración, no excesiva.** «Ante todo, pues, la oración. Cada compañía,
-cada grupo fija una regla de oración, no desmedida» (02, 237).
-
-**La doble verdad del día.** «En esta jornada que nos reúne —porque es una sola, y
-queremos que sea entera e intensa—, debemos partir de esta primera verdad: “Señor, soy
-pecador. ¡Cuánto he faltado a lo largo de todo el arco de este año!”. Pero la segunda
-verdad construye sobre la primera: “Señor, te reconozco”» (01, 55-57).
-
-**Como primera condición de la compañía.** «La primera cosa en la que la compañía debe
-ayudar es la oración» (02, 235).
-
-## Distinciones importantes
-
-- Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.
-- Oración en sentido propio: elevación del alma a Dios por la virtud de la religión para alabarle.
-- Oración en sentido estricto: elevación del alma a Dios con finalidad deprecatoria (súplica).
-- La oración no es causa que mueva la voluntad de Dios, sino causa segunda condicional: Dios ha dispuesto conceder ciertas gracias si se las piden.
-
-## Relaciones doctrinales
-
-Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[meditación]], la [[contemplación]] y la [[oración_litúrgica]]. También con la [[fidelidad_a_la_gracia]], pues la perseverancia final se obtiene ordinariamente por la oración.
-
-
-## Analizado para
-
-- [[brian_cochran_my_personal_emmaus]]
-- [[jeff_lacour_true_freedom_through_prayer]]
-- [[primeros_pasos_en_la_vida_espiritual]]
-- [[tim_barry_mortification_maketh_man]]
-- [[curso_alpha_análisis]] — convergencia: oración como diálogo relacional, semáforo de respuestas, Romanos 8:26; tensión: ausencia de oración litúrgica, rosario, intercesión de los santos
-
-## Analizado en contexto cultural
-
-- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta la oración como inútil e ineficaz, cuando la doctrina católica la enseña como encuentro personal con Dios que transforma al que ora
-
-## Ver también
-[[vida_de_oración]], [[grados_de_oración]], [[meditación]], [[contemplación]], [[oración_litúrgica]], [[amor_puro]], [[unigenitus]]
+**La oración como espera atenta (cap. XIV).** Citando el Sal 123,2 («como los ojos de la sierva en las manos de su señora, así nuestros ojos en el Señor nuestro Dios»), describe la vida del hombre que ora como suspección al cenno del Señor: la posición de quien espera la palabra del Otro, en sintonía con la impaciencia de la razón que busca el significado último (SR, `21_capitolo_quattordicesimo.md`, §46-58).
 
 ### Según fuentes históricas LC-Wik (1980-1998)
 
@@ -272,19 +191,30 @@ El P. Álvaro Corcuera presenta la oración como **corazón de la vida legionari
 - **Juan Pablo II**: «¿De dónde venía este celo apostólico de Juan Pablo II? De su oración y de la seguridad en la fecundidad de la cruz... Quienes lo veíamos orar en su capilla privada o en las celebraciones de la Eucaristía, sabíamos que su corazón ardía de amor por Cristo, porque era un hombre que oraba» (cap. 12, §161).
 - **Misiones**: «Lo primero que tenemos que hacer es creer en la fuerza de la oración. Cuando oramos comunicamos a Cristo, o más bien, Cristo se comunica a través de quien ora» (cap. 12, §185).
 
-### Según Evangelization ### Según Evangelization & Culture (EAC-3) Culture n.º 3 «The Digital Age» (EAC-3)
+### Según Giussani — Affezione e dimora (AED)
 
-La evangelización digital exige una vida interior sólida. «El mayor peligro para los evangelizadores online es el cinismo» —los que se desaniman ante la falta de respuestas o los ataques de los críticos. La solución es desarrollar una «profunda vida de oración afectiva que anude constantemente la voluntad a la de Cristo» y mantenerse ligado a la identidad de «hijo amado de Dios», de modo que la resistencia no desvíe de la misión [EAC-3, 15_vogt_media_evangelist].
+### Según Giussani — Dare la vita per l'opera di un Altro (DLV)
 
-James K. Lee propone tres sugerencias augustinas para la era digital: (1) orar tanto o más de lo que se pasa en redes sociales; (2) ser social y comunitario de manera concreta; (3) participar frecuentemente en la vida sacramental [EAC-3, 17_lee_self_love]. Oliver Jeges, en su testimonio de conversión, destaca que la oración —aunque sea infantil— es buena para el alma y que las respuestas llegan de maneras inesperadas [EAC-3, 19_mission_oliver_jeges].
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
-### Según Il senso religioso (SR)
+### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
 
-**La oración como educación de la libertad (cap. VIII).** Frente a los «atteggiamenti irragionevoli» que reducen la pregunta de fondo, Giussani presenta la oración no como alienación sino como ejercicio de la libertad ante el Misterio: la adhesión de la libertad al fundamento del real es el gesto en que el hombre se realiza como fin último (SR, `15_capitolo_ottavo.md`, §76-88).
+### Según La convenienza umana della fede (CUDF)
 
-**La oración como conciencia de sí (cap. X).** «La oración es la conciencia de sí hasta el fondo que se topa con un Otro»: para Giussani, la oración expresa la conciencia del yo dependiente —el yo que no se hace a sí mismo— y la referencia a quien presencia y sostiene el real (SR, `17_capitolo_decimo.md`, §86-95).
+## Distinciones importantes
 
-**La oración como espera atenta (cap. XIV).** Citando el Sal 123,2 («como los ojos de la sierva en las manos de su señora, así nuestros ojos en el Señor nuestro Dios»), describe la vida del hombre que ora como suspección al cenno del Señor: la posición de quien espera la palabra del Otro, en sintonía con la impaciencia de la razón que busca el significado último (SR, `21_capitolo_quattordicesimo.md`, §46-58).
+- Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.
+- Oración en sentido propio: elevación del alma a Dios por la virtud de la religión para alabarle.
+- Oración en sentido estricto: elevación del alma a Dios con finalidad deprecatoria (súplica).
+- La oración no es causa que mueva la voluntad de Dios, sino causa segunda condicional: Dios ha dispuesto conceder ciertas gracias si se las piden.
+
+## Relaciones doctrinales
+
+Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[meditación]], la [[contemplación]] y la [[oración_litúrgica]]. También con la [[fidelidad_a_la_gracia]], pues la perseverancia final se obtiene ordinariamente por la oración.
+
+## Ver también
+
+[[vida_de_oración]], [[grados_de_oración]], [[meditación]], [[contemplación]], [[oración_litúrgica]], [[amor_puro]], [[unigenitus]]
 
 ## Referencias
 
@@ -296,3 +226,4 @@ James K. Lee propone tres sugerencias augustinas para la era digital: (1) orar t
 - Denzinger D‑1409, D‑1418 (Clemente XI, *Unigenitus*)
 - AvEsp, Dicho 26 (oración del alma enamorada); Dicho 66-67 (acudir a Dios en tribulación y gozo); Dicho 79 (soledad santa y oración); Avisos de Antequera §11 (quien huye de oración huye de todo bueno)
 - [EAC-16, 03_midnight_oil.md, 07_spotlight_reader.md]
+- [PyH, Cap. 6]

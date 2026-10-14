@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pureza
 tags: ["moral", "ascética"]
 
-timestamp: 2026-05-25
+timestamp: 2026-10-13
 description: "La pureza es la virtud moral que ordena rectamente la sexualidad humana según la razón iluminada por la fe, integrando la afectividad y el cuerpo en el respeto del propio estado de vida."
 ---
 # Pureza
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-25
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -63,6 +63,16 @@ El capítulo 11 (S. María Goretti) defiende la pureza del martirio contra dos r
 
 «La pureza de mente y de cuerpo ayuda a desarrollar el verdadero respeto de sí y al mismo tiempo hace capaces de respetar a los otros, porque ve en ellos personas, que se han de venerar en cuanto creadas a imagen de Dios y, por la gracia, hijos de Dios, recreados en Cristo» (SHVS 17). La conclusión del documento invoca a «María Inmaculada, Virgen Madre del amor hermoso y modelo de la pureza fiel» y a San José, «su esposo justo y casto», y recuerda la bienaventuranza: «Bienaventurados los puros de corazón, porque verán a Dios» (Mt 5, 8) (SHVS 150).
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth presenta la pureza como el camino elegido frente a la liviandad: «Se abrirán a tus pasos dos caminos. El de la liviandad y el de la pureza» [PyH, Cap. II]. La pureza no es pasiva, sino una custodia vigilante del cuerpo y del alma. En la juventud, cuando despiertan los deseos insólitos, la joven debe «conservar intactos, según el mandato del Señor, tu cuerpo y tu alma; guárdalos para el futuro compañero de tu vida..., para tus futuros hijos...» [PyH, Cap. II].
+
+El autor advierte con fuerza sobre la irreparabilidad del pudor herido, citando a Ovidio: *«Nulla reparabilis arte laesa pudicitia est: deperit illa semel»* — «No hay arte capaz de reparar el pudor herido: perece éste para siempre» [PyH, Cap. II]. Por eso insiste en la vigilancia desde los primeros años: «Sólo una vez puedes perder tu virginal pureza. ¡Ay de ti si das el primer tropiezo, porque ya empiezas a deslizarte por la pendiente» [PyH, Cap. II].
+
+Tóth también usa una bellísima imagen para mostrar lo delicado de este don: «La pureza es para el alma como el rocío, que brilla a guisa de diamante en los pétalos de las flores cuando éstas se despiertan por la mañana... pero si la imprudencia humana la quita del cáliz de la flor, no bastan todos los océanos del mundo para suplirla» [PyH, Cap. III]. Finalmente, señala que quien busca la felicidad a costa de la pureza «la buscaba donde no podía hallarla» [PyH, Cap. III].
+
+La enseñanza de PyH apunta a la [[castidad]], al [[pudor]] y a la [[modestia]] como guardianes de este don sagrado.
+
 
 ## Distinciones importantes
 
@@ -85,3 +95,5 @@ La pureza se relaciona con la [[templanza]], la [[castidad]], el [[celibato]], l
 - [TdC 10.12.1980]
 - [TdC 28.01.1981]
 - [TdC 18.03.1981]
+- [PyH, Cap. II]
+- [PyH, Cap. III]

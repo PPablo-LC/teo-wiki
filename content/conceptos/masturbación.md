@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Masturbación
 description: "La masturbación es el acto de excitarse sexualmente a sí mismo, considerado por la Iglesia como un pecado grave contra la castidad por su carácter intrínsecamente desordenado."
 tags: ["moral"]
-timestamp: 2026-06-27
+timestamp: 2026-10-13
 ---
 
 # Masturbación
 
 > Área: Moral
-> Última actualización: 2026-06-27
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -40,6 +40,16 @@ CEC §2352: «Por masturbación se ha de entender la excitación voluntaria de l
 «La *masturbación* constituye un desorden grave, ilícito en sí mismo, que no puede ser moralmente justificado, aunque "la inmadurez de la adolescencia, que a veces puede prolongarse más allá de esa edad, el desequilibrio psíquico o el hábito contraído pueden influir sobre la conducta, atenuando el carácter deliberado del acto, y hacer que no haya siempre falta subjetivamente grave"» (SHVS 103). «Se debe ayudar a los adolescentes a superar estas manifestaciones de desorden que son frecuentemente expresión de los conflictos internos de la edad y no raramente de una visión egoísta de la sexualidad» (SHVS 103).
 
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth dedica páginas al «pecado solitario» como primera caída que abre «la primera brecha en el baluarte de la fortaleza». La joven que lo comete «se metió por sí misma en el pantano…; se corrompió a sí misma», y aunque el placer «apenas si duró medio minuto», por esa brecha «se escurrirá, poco a poco, toda la energía y belleza de aquel cuerpo joven» [PyH, cap. III]. Lo describe como «el acto prohibido en su propio cuerpo; aquel acto que sabe es pecado contra Dios y contra la dignidad humana» [PyH, cap. III].
+
+En el orden fisiológico, explica que la excitación sexual continuada daña el sistema nervioso en pleno desarrollo y que las glándulas sexuales, activadas prematuramente, alteran el equilibrio hormonal del organismo [PyH, cap. IV]. Distingue, en cambio, la excitación involuntaria —por ejemplo, durante el sueño—, que «no es pecado, sino efecto natural del desarrollo del organismo» [PyH, cap. VI], de la excitación «buscada directamente, adrede», que «es pecado grave» [PyH, cap. VI].
+
+Insiste en que el dominio depende de la voluntad y del consentimiento, y que el remedio es la vigilancia de los pensamientos y la huida de las ocasiones: «quien vive sobriamente… muy poco se sentirá molestado por los incentivos rebeldes» [PyH, cap. V].
+
+Véase también: [[castidad]], [[lujuria]], [[voluntad]], [[pureza_de_corazón]].
+
 ## Distinciones importantes
 
 - **Masturbación vs. acto conyugal**: la masturbación separa el placer sexual de su contexto relacional y procreativo
@@ -55,3 +65,4 @@ CEC §2352: «Por masturbación se ha de entender la excitación voluntaria de l
 - CEC §2352
 - SmTh II-II q.154 a.11-12
 - Denzinger D-1124, D-1199
+- [PyH, Cap. III; Cap. IV; Cap. V; Cap. VI]

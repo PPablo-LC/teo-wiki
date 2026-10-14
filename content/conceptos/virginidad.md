@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virginidad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-13
 description: "Estado de vida de quienes renuncian voluntariamente al matrimonio y a la actividad sexual para consagrarse más libremente a Dios y al servicio del Reino."
 ---
 # Virginidad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -101,6 +101,16 @@ del reino de los cielos» (Mt 19; 03, 233).
 - El **milagro de la virginidad**: la suprema forma de milagro (salvo el martirio); la oposición a ella es irreligiosidad (= irracionalidad) (Tischreden 148, 17).
 - La virginidad manifiesta la **familiaridad suprema** de Dios (Encarnación) (17).
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth cifra la virginidad en la custodia de la pureza íntegra. El plan del Creador pide que «todos, sin excepción, conserven pura el alma y puro el cuerpo hasta el matrimonio»; y quien, por un fin más excelso, no se casa —el sacerdote o las religiosas— «ha de vivir en castidad hasta la muerte» [PyH, cap. I]. A la joven le recuerda el «sagrado deber de guardar estos deseos y tendencias en su pureza, en su virginidad incontaminada» hasta el altar [PyH, cap. II].
+
+La virginidad, lejos de ser una simple abstención física, es «fuente abundantísima de energía»: «La pureza hace mujeres de pies a cabeza. La que se venció a sí misma no será vencida por otro» [PyH, cap. VII]. Las mártires heroicas del cristianismo primitivo eran «de vida virginal», y por ello recibieron el título de *Virgo et martyr* [PyH, cap. VII].
+
+Tóth subraya, además, que la virginidad solo una vez puede perderse: «No hay arte capaz de reparar el pudor herido: perece éste para siempre» [PyH, cap. II]; de ahí su insistencia en no dar «el primer tropiezo» [PyH, cap. II].
+
+Véase también: [[castidad]], [[matrimonio]], [[continencia]], [[virginidad_de_maría]].
+
 ## Distinciones importantes
 
 - Virginidad ≠ castidad: la castidad es virtud para todos; la virginidad es estado de vida
@@ -126,3 +136,4 @@ del reino de los cielos» (Mt 19; 03, 233).
 - AED, 34 (§45-47) — Tischrede 186: *Un altro mondo* — la virginidad como signo del ideal por el que dar la vida.
 - AED, 22 (§119-121) — Tischrede 102: *L'adorazione possibile* — la virginidad como posesión con un desapego dentro.
 - AED, 07 (§77) — Tischrede 147: *Incollamenti e strappi* — la vocación virginal como ejercicio consciente.
+- [PyH, Cap. I; Cap. II; Cap. VII]

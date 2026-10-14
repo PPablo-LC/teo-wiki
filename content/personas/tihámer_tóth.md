@@ -16,7 +16,7 @@ Mons. Tihámer Tóth nació en Szolnok, Hungría, el 17 de enero de 1889, en un 
 
 ## Obras principales
 
-Su obra más conocida es **«El joven de carácter»** (código JvC), un manual de formación espiritual y educación del carácter dirigido a la juventud. La versión femenina, **«La joven de carácter»** (código JvC-Muj), fue adaptada por «María-Rosa» para jóvenes mujeres, preservando el estilo del autor. Entre sus otras obras destacan: *El joven y Cristo*, *Energía y pureza*, *Sé sobrio*, *Los diez mandamientos*, *Cristo Rey*, *Creo en Jesucristo: el Mesías*, *Creo en Jesucristo: el Redentor*, *El matrimonio cristiano*, *Creo en Dios*, *Creo en la vida perdurable*, *Creo en la Iglesia*, *Eucaristía*, *Padre nuestro*, *Venga a nos el tu reino*, *Prensa y cátedra*, *Verdad y caridad* y *Formación religiosa para los jóvenes*. Sus obras se tradujeron a más de veinte idiomas.
+Su obra más conocida es **«El joven de carácter»** (código JvC), un manual de formación espiritual y educación del carácter dirigido a la juventud. La versión femenina, **«La joven de carácter»** (código JvC-Muj), fue adaptada por «María-Rosa» para jóvenes mujeres, preservando el estilo del autor. Otra obra de formación de la juventud es **«Pureza y hermosura»** (código PyH), adaptación femenina de su tratado sobre la pureza y la castidad (original *A tiszta férfiúság*; en inglés *Youth and Chastity*, código JvC-Eng), realizada por [[maría_rosa_vilahur]] para la Colección «MUCHACHAS» de la Sociedad de Educación «Atenas» (Madrid, 11ª ed. 1959). Entre sus otras obras destacan: *El joven y Cristo*, *Energía y pureza*, *Sé sobrio*, *Los diez mandamientos*, *Cristo Rey*, *Creo en Jesucristo: el Mesías*, *Creo en Jesucristo: el Redentor*, *El matrimonio cristiano*, *Creo en Dios*, *Creo en la vida perdurable*, *Creo en la Iglesia*, *Eucaristía*, *Padre nuestro*, *Venga a nos el tu reino*, *Prensa y cátedra*, *Verdad y caridad* y *Formación religiosa para los jóvenes*. Sus obras se tradujeron a más de veinte idiomas.
 
 ## Relevancia teológica
 
@@ -26,9 +26,10 @@ Su enfoque integra elementos de teología moral (virtudes, voluntad, hábitos), 
 
 ## Ver también
 
-[[el_joven_de_carácter]], [[la_joven_de_carácter]], [[educación_cristiana]], [[juventud]], [[voluntad]], [[dominio_de_sí]], [[carácter_moral]]
+[[el_joven_de_carácter]], [[la_joven_de_carácter]], [[pureza_y_hermosura]], [[maría_rosa_vilahur]], [[educación_cristiana]], [[juventud]], [[voluntad]], [[dominio_de_sí]], [[carácter_moral]]
 
 ## Referencias
 
 - JvC, Portada y Prólogo
 - JvC-Muj, Portada y Prólogo
+- PyH, Portada, Prólogo y Epílogo

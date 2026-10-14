@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-10-11'
+updated: '2026-10-13'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -1126,6 +1126,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[enemigos_del_alma]]
 - [[energúmeno]]
 - [[enfermedad]]
+- [[enfermedad_venérea]]
 - [[enfermedad_y_curación]]
 - [[engaño]]
 - [[enseñanza]]
@@ -3897,6 +3898,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[marcial_maciel]]
 - [[margherita_occhiena]]
 - [[maría_de_agreda]]
+- [[maría_rosa_vilahur]]
 - [[marie_dominique_chenu]]
 - [[mario_marchesi]]
 - [[martín_i]]
@@ -4359,6 +4361,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[pastores_dabo_vobis]]
 - [[perché_la_chiesa]]
 - [[portico_de_la_biblia]]
+- [[pureza_y_hermosura]]
 
 ### Q (Documentos)
 

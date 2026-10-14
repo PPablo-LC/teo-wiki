@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sexualidad
 tags: ["moral", "antropología_teológica"]
 
-timestamp: 2026-06-20
+timestamp: 2026-10-13
 description: "Dimensión constitutiva de la persona humana, mediante la cual el hombre y la mujer se dan uno a otro con los actos propios y exclusivos de los esposos."
 ---
 # Sexualidad
 
 > Área: Moral / Antropología teológica
-> Última actualización: 2026-06-20
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -53,6 +53,14 @@ La masculinidad y feminidad están interiormente ordenadas a la comunión de per
 
 Tóth recoge el principio rector del Pontificio Consejo para la Familia: «la sexualidad humana es un misterio sagrado que debe ser presentado según la enseñanza doctrinal y moral de la Iglesia, teniendo siempre en cuenta los efectos del pecado original» [JvC-Rel, archivo 29]. Este principio exige «reverencia y realismo cristiano» y el respeto profundo de la diferencia entre hombre y mujer, que refleja el amor y la fecundidad de Dios mismo [archivo 29]. En clave positiva: la sexualidad «no es algo puramente biológico», sino que mira al núcleo íntimo de la persona; es un bien creado —parte del don que Dios vio que «era muy bueno»— cuyo fin intrínseco es el amor como donación y acogida; su uso tiene plena verdad solo cuando expresa la donación personal hasta la muerte (véase [[matrimonio]], [[castidad]]) [archivo 21, Apéndice II]. El desorden en su uso destruye progresivamente la capacidad de amar y lleva al desprecio de la vida naciente: «solo un amor verdadero sabe custodiar la vida» [archivo 27].
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth responde en *Pureza y hermosura* a la objeción de por qué la vida sexual es lícita y santa dentro del matrimonio y pecado fuera de él. La tendencia sexual, en sí misma, es recta y buena, porque «fué Dios quien creó el cuerpo y sus órganos; quien reguló la tendencia y la vida sexual; por tanto, la tendencia en sí es recta, su actividad no es mala; lo que hace Dios, forzosamente es bueno» [PyH, Cap. I]. El mal no está en la facultad, sino en el uso: «los malos son el hombre o la mujer que usan de los dones de Dios *en el momento y en las circunstancias* en que Dios *no* lo permite» [PyH, Cap. I]. Según la voluntad divina, esta tendencia «sólo puede satisfacerse en el matrimonio, y en éste solamente de manera que tenga por fin primordial el nacimiento de los hijos» [PyH, Cap. I].
+
+Tóth ilumina la razón de esa «ley severa de Dios»: «solamente en el matrimonio es «santa» la vida sexual, porque sólo en él no perjudica a la parte más noble de todo hombre: el alma»; sólo allí la satisfacción de la tendencia «deja de ser mera caza de placeres para trocarse en el germinar de nuevos capullos humanos, la procreación de nuevos seres, cuya esmerada educación sólo puede realizarse dentro del matrimonio indisoluble» [PyH, Cap. I]. En consecuencia, «la que satisface esa tendencia fuera del matrimonio, bien profanando su propio cuerpo con un placer pecaminoso, bien teniendo relaciones sexuales prohibidas, es el verdugo de su honra y de la felicidad propia y ajena» [PyH, Cap. I]. Frente a los falsos maestros que proclaman que «la mujer es libre para disponer de su cuerpo a su placer» y cuyo lema es «Vive como te plazca», Tóth opone el plan del Creador: la unión de un solo hombre y una sola mujer en el matrimonio indisoluble, ordenada a dar nuevos retoños a la Humanidad [PyH, Cap. I].
+
+El despertar de esta tendencia en la adolescencia no ha de causar inquietud, pues «la tendencia sexual que sientes es de suyo algo santo, ya que es participación misteriosa de la fuerza creadora de Dios» [PyH, Cap. II]. En el capítulo final, Tóth describe el instinto sexual como una «fuerza natural que irrumpe con bríos»: abandonada a sí misma «causa una espantosa destrucción» en los ideales, el ánimo de trabajo, el alma y el cuerpo; pero contenida «dentro de los límites señalados por Dios, este mismo instinto, esta fuerza se transforma en fuente de vida risueña y feliz» [PyH, Cap. VII].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[amor_conyugal]], [[matrimonio]], [[castidad]], [[educación_sexual]], [[significado_esponsal_del_cuerpo]], [[anticoncepción]], [[paternidad_responsable]]
@@ -76,3 +84,6 @@ Se relaciona con [[amor_conyugal]], [[matrimonio]], [[castidad]], [[educación_s
 - [TdC 28.05.1980]
 - [TdC 04.06.1980]
 - [TdC 17.09.1980]
+- [PyH, Cap. I]
+- [PyH, Cap. II]
+- [PyH, Cap. VII]

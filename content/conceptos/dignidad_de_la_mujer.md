@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dignidad de la mujer
 tags: ["antropología_teológica", "moral"]
 
-timestamp: 2026-06-20
+timestamp: 2026-10-13
 description: "La dignidad de la mujer es el valor y respeto que le corresponden como persona creada a imagen y semejanza de Dios, con igual dignidad que el varón en cuanto persona."
 ---
 # Dignidad de la mujer
 
 > Área: Antropología teológica / Moral
-> Última actualización: 2026-06-20
+> Última actualización: 2026-10-13
 
 ## Definición
 
@@ -77,6 +77,16 @@ Tóth aporta dos registros. En clave histórica, muestra que la Iglesia «siempr
 
 En clave educativa, cita a Aparecida: la antropología cristiana resalta «la igual dignidad entre varón y mujer… El misterio de la Trinidad nos invita a vivir una comunidad de iguales en la diferencia»; la práctica de Jesús fue decisiva en una época de machismo; María, discípula por excelencia, es fundamental en la recuperación de la identidad de la mujer. La relación entre varón y mujer es de reciprocidad: «la mujer es corresponsable, junto con el hombre, por el presente y el futuro de nuestra sociedad humana»; su maternidad es misión excelente sin oponerse a su desarrollo profesional, pues «la mujer es insustituible en el hogar, la educación de los hijos y la transmisión de la fe» [archivo 40]. En el desafío educativo del amor, la exhortación de Tóth a los muchachos es programática: «Toda mujer ha de ser santa para ti… Ultrajas a la mujer cuando te acercas a cualquiera de ellas con intenciones aviesas» (véase [[educación_a_la_castidad]]) [archivo 12].
 
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+En *Pureza y hermosura* Tóth funda la dignidad de la mujer en el designio creador y en la nobleza de su alma: «La mujer es la reina de la creación. Pero no tanto por su hermosura corporal como por la dignidad de su alma» [PyH, cap. VII]. Su cuerpo es «templo del Espíritu Santo», y de ahí el respeto que se le debe [PyH, cap. I].
+
+Tóth defiende la dignidad femenina frente a toda cosificación: la vida impura «rebaja a instrumento de asquerosas liviandades el don altísimo del Creador» y hace de la joven esclava de sus instintos; la mujer que así vive «en lo más íntimo de su ser, en el fondo mismo de su dignidad, se vuelve infiel a sí misma» [PyH, cap. IV]. Por el contrario, «la castidad es el patrimonio y la gloria de las mujeres» [PyH, cap. V], y la joven pura es «sagrario de la futura generación» [PyH, cap. V].
+
+Tóth enlaza la dignidad con la misión materna y educadora: la que ha custodiado su pureza transmite a sus hijos una herencia espiritual superior a cualquier fortuna material [PyH, cap. IV], y la verdadera «dama» infunde respeto sin despertar malos deseos [PyH, cap. VI].
+
+Véase también: [[dignidad_humana]], [[maternidad]], [[castidad]], [[matrimonio]].
+
 ## Distinciones importantes
 
 - La igualdad en dignidad no implica identidad de funciones: la complementariedad es constitutiva de la persona humana.
@@ -100,3 +110,4 @@ Este concepto se vincula con [[matrimonio]], [[varón_y_mujer]], [[familia]], [[
 - SmTh Iª q.92 aa.1-4; q.102 a.3
 - [Juan Pablo II, Mulieris dignitatem]
 - [FC §22-24]
+- [PyH, Cap. I; Cap. IV; Cap. V; Cap. VI; Cap. VII]
