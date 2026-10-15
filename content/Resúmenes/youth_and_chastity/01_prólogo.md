@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "Prólogo"
-fuente: Youth and Chastity -- Dr_ Tihamer Toth -- 2016
+fuente: youth_and_chastity
 capítulo: 1
 timestamp: 2026-08-16
 description: "Resumen del prólogo de Youth and Chastity: presentación de la obra y motivación pastoral del autor."

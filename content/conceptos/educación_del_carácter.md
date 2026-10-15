@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Educación del carácter
 tags: ["moral", "educación", "formación"]
-timestamp: 2026-07-14
+timestamp: 2026-10-14
 description: "Formación de la determinación moral de la voluntad para obrar bien de forma estable."
 ---
 
 # Educación del carácter
 
 > Área: Educación / Moral
-> Última actualización: 2026-07-14
+> Última actualización: 2026-10-14
 
 ## Definición
 
@@ -32,8 +32,12 @@ Tóth insiste en que la escuela actual forma la inteligencia pero descuida el ca
 La educación al espíritu de sacrificio prepara a los hijos a crecer «en una justa libertad ante los bienes materiales, adoptando un estilo de vida sencillo y austero, convencidos de que "el hombre vale más por lo que es que por lo que tiene"», en una sociedad disgregada «por el choque violento entre los varios individualismos y egoísmos» (SHVS 60). La educación en la castidad exige «activar y desarrollar los dinamismos de la naturaleza y de la gracia», educando el espíritu, la sensibilidad y los sentimientos (SHVS 54).
 
 
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Tóth identifica la formación del carácter con la forja de la voluntad. El joven debe «entrenar» la voluntad en lo pequeño (puntualidad, abnegación, control de sí) para resistir cuando llegan las grandes tentaciones (Cap. VI). La ociosidad es «el colchón del diablo»; el deporte, el trabajo y la ocupación útil refuerzan la castidad. La presión del ambiente no es excusa: se necesita coraje para «nadar contra la corriente».
+
 ## Ver también
 
-[[voluntad]], [[dominio_de_sí]], [[perseverancia]]
+[[voluntad]], [[dominio_de_sí]], [[perseverancia]], [[abnegación]]
 
 ## Referencias

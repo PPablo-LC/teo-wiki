@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vergüenza
 tags: ["moral"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-14
 description: "La vergüenza en la Biblia tiene un sentido ambivalente: puede ser la confusión del pecador ante Dios (vergüenza santa que lleva al arrepentimiento) o la desvergüenza del que persiste en el mal."
 ---
 # Vergüenza
 
 > Área: Moral
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-14
 
 ## Definición
 
@@ -86,3 +86,9 @@ Se relaciona con [[pecado_original]], [[arrepentimiento]], [[confesión_de_fe]],
 
 - VocTeoBib, artículo «Vergüenza», Xavier León-Dufour (ed.)
 - Gén 3,7-10; Mc 8,38; Rom 1,16; 2 Tim 1,8; Dan 12,2
+
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Tóth destaca la vergüenza como un «tesoro y una defensa» del alma (Cap. V, *In the Barrage of Derision*). En la lucha por la pureza, el respeto humano puede tentar al joven a callar o a ceder; sin embargo, la vergüenza sana del pecado se convierte en una brújula que protege la castidad. Solo el que conserva esa delicadeza espiritual podrá salir indemne del «fuego de las burlas».
+
+> «La desaprobación de algunos es el mayor elogio» (JvC-Eng, Cap. V)

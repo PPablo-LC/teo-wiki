@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Continencia
 tags: ["moral"]
 
-timestamp: 2026-06-11
+timestamp: 2026-10-14
 description: "La continencia es la virtud que modera las pasiones vehementes, especialmente los placeres del tacto (venéreos y gustativos)."
 ---
 # Continencia
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-10-14
 
 ## Definición
 
@@ -77,3 +77,11 @@ La continencia se relaciona con la [[templanza]] como disposición imperfecta ha
 - [TdC 03.12.1980]
 - [TdC 14.01.1981]
 - [TdC 12.05.1982]
+
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Tóth presenta la continencia no como «daño a la salud», sino como el único preventivo seguro frente al pecado y a las enfermedades venéreas (Cap. V). Señala que «la verdadera libertad solo puede apreciarla un joven de corazón puro» (Cap. VII) y que el hombre libre es «aquel que puede querer lo que debe hacer».
+
+La refutación de la objeción «la continencia es imposible o dañina» ocupa un lugar destacado (Cap. V): Tóth recurre al testimonio de la ciencia médica (Krafft-Ebing, Farel, Rossier, Herbst, Mantagezza, Eulenberg, Max Gruber, Dr. Paul) y al Congreso Internacional de Higiene de Bruselas (1902) para demostrar que la vida casta es totalmente compatible con la salud.
+
+Además, la continencia es fruto de una voluntad ejercitada (Cap. VI): la abnegación, la disciplina y la actividad marcan el camino para adquirirla. «Las palabras *sano*, *saludable*, *sagrado* y *santo* provienen de la misma raíz» (Cap. V). El objetivo no es solo evitar el pecado, sino alcanzar la dignidad y belleza del alma radiante.

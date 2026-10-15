@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "Capítulo I: El plan del Creador"
-fuente: Youth and Chastity -- Dr_ Tihamer Toth -- 2016
+fuente: youth_and_chastity
 capítulo: 2
 timestamp: 2026-08-16
 description: "Resumen del Capítulo I de Youth and Chastity: el plan de Dios sobre la sexualidad, la creación de los sexos y la seriedad sagrada del cuerpo."

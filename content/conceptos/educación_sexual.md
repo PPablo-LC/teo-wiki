@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Educación sexual
 tags: ["moral", "sexualidad", "educación"]
-timestamp: 2026-10-13
+timestamp: 2026-10-14
 description: "Formación integral que acompaña el descubrimiento de la sexualidad en la antropología cristiana."
 ---
 
 # Educación sexual
 
 > Área: Moral / Sexualidad
-> Última actualización: 2026-10-13
+> Última actualización: 2026-10-14
 
 ## Definición
 
@@ -39,6 +39,12 @@ Tóth aborda la iniciación en el conocimiento de la sexualidad a partir de una 
 El libro procura la información fisiológica en el marco del plan del Creador —la fuerza engendradora, la ovulación, la menstruación, el desarrollo del organismo— [PyH, caps. I, II, IV], siempre unida a la formación moral y al respeto del pudor.
 
 Tóth constata, finalmente, el fin «de una era, de aquella en que se hacía gala de la ignorancia como medio de conservar la pureza femenina»: la nueva generación ha de ser formada con clara conciencia de su misión, sin que la ignorancia sea el método [PyH, cap. VII].
+
+Véase también: [[castidad]], [[educación_a_la_castidad]], [[sexualidad]], [[pudor]].
+
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Para Tóth, la información de la sexualidad debe ir siempre acompañada de formación moral, no solas. El autor presenta la sexualidad como un «misterio sagrado» (Cap. I) que exige reverencia, y desaconseja recibir tales explicaciones de compañeros indiscretos. La verdadera educación a la pureza no está en el secreto, sino en dar la información a tiempo con las fuerzas necesarias para la virtud (Cap. II, VI).
 
 Véase también: [[castidad]], [[educación_a_la_castidad]], [[sexualidad]], [[pudor]].
 

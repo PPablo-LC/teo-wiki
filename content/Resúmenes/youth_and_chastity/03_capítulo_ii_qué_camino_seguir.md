@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "Capítulo II: ¿Qué camino seguir?"
-fuente: Youth and Chastity -- Dr_ Tihamer Toth -- 2016
+fuente: youth_and_chastity
 capítulo: 3
 timestamp: 2026-08-16
 description: "Resumen del Capítulo II de Youth and Chastity: la encrucijada entre Virtud y Pecado, la pubertad y el impulso sexual."

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Abnegación
 tags: ["ascética"]
 
-timestamp: 2026-05-22
+timestamp: 2026-10-14
 description: "La abnegación es la renuncia total a la propia voluntad y al amor propio, condición indispensable para seguir a Cristo y alcanzar la perfección cristiana."
 ---
 # Abnegación
 
 > Área: Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-10-14
 
 ## Definición
 
@@ -59,6 +59,12 @@ La abnegación es presupuesto necesario para la [[vida_de_oración]], la [[morti
 - TPCr, Tercera Parte, Libro I, Cap. V, n.261-262
 - TPCr, Tercera Parte, Libro II, Cap. II, n.409
 - CEC §2015
+
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Tóth hace de la abnegación un medio indispensable para fortalecer la voluntad y conservar la pureza (Cap. VI, «Die and Rise»). La mortificación de los caprichos («una cucharada de sopa fría, un retardo de un minuto, calzarse con prontitud») entrena al alma para resistir cuando llegan las grandes tentaciones. La energía que se vence en las cosas pequeñas se convierte en fuerza para el combate mayor.
+
+> «Muere y resucita. Vive en el sacrificio, y recobrarás la energía para el combate» (JvC-Eng, Cap. VI)
 
 ### Según Mons. Tihámer Tóth (JvC)
 

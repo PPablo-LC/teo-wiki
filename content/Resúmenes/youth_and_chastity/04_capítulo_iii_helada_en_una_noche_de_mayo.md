@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "Capítulo III: Helada en una noche de mayo"
-fuente: Youth and Chastity -- Dr_ Tihamer Toth -- 2016
+fuente: youth_and_chastity
 capítulo: 4
 timestamp: 2026-08-16
 description: "Resumen del Capítulo III de Youth and Chastity: la caída progresiva en la inmoralidad, la destrucción del alma y la imagen de los Lagos Masurianos."

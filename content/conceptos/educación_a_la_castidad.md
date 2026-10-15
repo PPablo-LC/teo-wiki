@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: Educación a la castidad
 tags: ["moral", "pastoral", "familia"]
-timestamp: 2026-10-13
+timestamp: 2026-10-14
 description: "Educación en el amor verdadero que forma a niños y jóvenes para vivir la castidad según su estado, mediante un clima familiar positivo, información gradual y delicada, motivación espiritual y educación de la voluntad, dentro del plan de Dios sobre la sexualidad."
 ---
 # Educación a la castidad
 
 > Área: Moral / Pastoral / Familia
-> Última actualización: 2026-10-13
+> Última actualización: 2026-10-14
 
 ## Definición
 
@@ -46,6 +46,10 @@ Su método es la formación de la voluntad mediante pequeñas victorias: «El me
 Añade consejos concretos de custodia de los sentidos y de la salud —limpieza exterior, sobriedad en la comida y la bebida, ocupación constante, elección del vestido— y recomienda buscar un director espiritual antes que consultar a las amigas [PyH, cap. VI].
 
 Véase también: [[castidad]], [[educación_de_la_voluntad]], [[pudor]], [[educación_sexual]].
+
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Tóth plantea la educación a la castidad como formación del carácter, no como mera prohibición. El joven debe forjar la voluntad mediante ejercicios diarios de abnegación (Cap. VI, «Die and Rise», «Strengthen your Will»), evitar la ociosidad y el «desperdicio de energías» (Cap. VI, «Never Be Idle»), y cultivar la ocupación seria. También recomienda prudencia en lecturas, teatro, cine y en la compañía de mujeres (Cap. VI). La formación remota (ambiente familiar, deporte, naturaleza) es más eficaz que el simple discurso. Los medios sobrenaturales (confesión, comunión, amistad con Cristo) son los pilares de la educación a la pureza.
 
 ## Distinciones importantes
 

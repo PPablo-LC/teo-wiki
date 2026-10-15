@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Embriaguez
 tags: ["moral", "bíblica"]
 
-timestamp: 2026-06-11
-description: "Estado de intoxicación por bebidas alcohólicas que, en la Escritura, aparece asociado a la pérdida de control, la vergüenza."
+timestamp: 2026-10-14
+description: "La embriaguez es un pecado por el cual el hombre se priva deliberadamente del uso de la razón para entregarse al placer de beber en exceso."
 ---
 # Embriaguez
 
-> Área: Moral / Bíblica
-> Última actualización: 2026-06-11
+> Área: Moral
+> Última actualización: 2026-10-14
 
 ## Definición
 
@@ -47,3 +47,7 @@ Santo Tomás trata la embriaguez en la cuestión 150 como vicio opuesto a la sob
 ## Referencias
 
 - [VocTeoBib, «Embriaguez»]
+
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Tóth conecta la embriaguez con la caída de la pureza (Cap. VI, «The Healthy Mode of Life»): «la fornicación, el vino y la embriaguez quitan el corazón». Muchos jóvenes que habían conservado su pureza durante años la perdieron cuando el vino venció su voluntad. Recalca también que, en la cama del enfermo, la fragilidad física puede favorecer pensamientos y actos impuros, por lo que conviene extremar la vigilancia en la enfermedad.

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Castidad
 tags: ["moral"]
 
-timestamp: 2026-10-13
+timestamp: 2026-10-14
 description: "La castidad es la virtud moral, parte subjetiva de la templanza, que modera el apetito genésico según la recta razón y la fe, integrando la sexualidad en la persona y ordenándola al don total de sí."
 ---
 # Castidad
 
 > Área: Moral
-> Última actualización: 2026-10-13
+> Última actualización: 2026-10-14
 
 ## Definición
 
@@ -116,19 +116,25 @@ Tóth presenta la [[pureza_de_corazón]] como la batalla espiritual central de l
 
 ### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
 
-Tóth aborda la castidad en su dimensión más práctica y pastoral, presentándola como **camino de libertad y fortaleza del carácter**. Su planteamiento central es que el instinto sexual no es pecado en sí mismo, sino "una participación misteriosa en el poder creativo de Dios" (Cap. II). La maldidad no está en el acto sexual considerado en abstracto, sino en usarlo "en tiempo y circunstancias que Dios no permite" (Cap. I).
+Tóth aborda la castidad en su dimensión más práctica y pastoral, presentándola como **camino de libertad y fortaleza del carácter**. Su planteamiento central es que el instinto sexual no es pecado en sí mismo, sino «una participación misteriosa en el poder creativo de Dios» (Cap. II). La maldad no está en el acto sexual considerado en abstracto, sino en usarlo «en tiempo y circunstancias que Dios no permite» (Cap. I).
 
-**Plan del Creador sobre la sexualidad (Cap. I):** Tóth presenta la potencia generativa como un poder "esencialmente divino" que Dios compartió con los hombres mediante la procreación. La maternidad es "sagrada" porque la concepción es obra de Dios. El acto sexual solo tiene legitimidad dentro del matrimonio indisoluble y con la finalidad de la procreación.
+**Plan del Creador sobre la sexualidad (Cap. I):** La potencia generativa es un poder «esencialmente divino» que Dios compartió con los hombres mediante la procreación. La maternidad es «sagrada» porque la concepción es obra de Dios. El uso de los órganos generativos solo tiene legitimidad dentro del matrimonio indisoluble y ordenado a la vida. Quien no se casa está llamado a vivir casto hasta la muerte (virginidad o continencia perfecta).
 
-**Castidad como camino de libertad (Cap. VII):** "El hombre libre no es el que hace lo que le place, sino el que puede querer lo que debe hacer". La pureza establece armonía entre los elementos inferiores y superiores del alma: "cielo en la tierra". La victoria sobre uno mismo es "la más gloriosa que un hombre puede ganar".
+**El lirio, emblema de la juventud (Cap. V):** La castidad se simboliza en el lirio, «orgulloso pero gentil, recto sin curva, inmaculado como la nieve que cae». Los jóvenes que beben de la fuente de la Pureza y la Virtud se convierten en «la legión del lirio» y en la «nueva generación» que lleva «la señal de la cruz en la frente».
 
-**Fortalecimiento de la voluntad (Cap. VI):** Tóth propone ejercicios prácticos de autodisciplina como preparación para la tentación: ayuno, obediencia inmediata, control de la ira. La ociosidad es "el colchón del diablo". El deporte y la cultura física son aliados de la pureza: "un cuerpo vigoroso es un instrumento más apto".
+**El voto del joven (Cap. V):** El capítulo se abre con el propósito del joven de no pecar contra la pureza, resumido en el lema *«Malo mori, quam foedari»* — «antes la muerte que la podredumbre del pecado». El autor insiste en que hay retorno (*There is a Comeback*) para el que ha caído: el conde Széchenyi advierte que «un solo acto arruina la felicidad», pero todo pecador puede redimirse.
 
-**Consecuencias morales del pecado (Cap. III-IV):** La caída en la inmoralidad es progresiva: cine inmoral → compañeros corruptos → primera caída → hábito → destrucción del alma. El pecado "se convierte prácticamente en una necesidad de vida, como la nicotina, el alcohol y el opio". La incredulidad es fruto de la impureza: "Nadie es incrédulo si no es impuro" (San Agustín).
+**Castidad como camino de libertad (Cap. VII):** «El hombre libre no es el que hace lo que le place, sino el que puede querer lo que debe hacer». La pureza establece armonía entre los elementos inferiores y superiores del alma: «el cielo en la tierra». La victoria sobre uno mismo es «la más gloriosa que un hombre puede ganar», y los propios paganos la honraban (Cicerón, el templo a *Pudicitia*, las vestales; Tibulo: *«Casta placent superis»*).
 
-**Ciencia médica y continencia (Cap. IV-V):** Tóth cita extensamente a Krafft-Ebing, Farel, Rossier y Herbst para refutar la idea de que la continencia es dañina para la salud. "Las palabras 'sano', 'saludable', 'sagrado' y 'santo' provienen de la misma raíz". El Congreso Médico de Bruselas (1902) confirma la inocuidad de la castidad.
+**Un combate de por vida (Cap. V):** La pureza es un enfrentamiento continuo contra «el dragón de siete cabezas» que regenera las suyas, especialmente entre los 16 y los 24 años. Para vencerlo hay que **resistir** frente a la burla de los compañeros ([[respeto_humano|respeto humano]]), **romper con las malas compañías** y **evitar el pecado** como único preventivo.
 
-**Amistad con Cristo y sacramentos (Cap. VII):** "Deja que te enamores de Nuestro Señor Jesús". La confesión y la Comunión son medios de fortaleza. "La voluntad sagrada" es el espíritu guardián que mantiene al joven firme en la tempestad.
+**Fortalecimiento de la voluntad (Cap. VI):** La castidad exige forjar la voluntad mediante ejercicios prácticos de autodisciplina y abnegación (privaciones, dominio del gusto y del sueño, obediencia inmediata). La ociosidad es «el colchón del diablo». El deporte y la cultura física son aliados de la pureza: el cuerpo es un instrumento que hay que mantener dócil.
+
+**Consecuencias morales del pecado (Cap. III-IV):** La caída en la inmoralidad es progresiva: cine inmoral → compañeros corruptos → primera caída → hábito → destrucción del alma. El pecado «se convierte prácticamente en una necesidad de vida, como la nicotina, el alcohol y el opio». La incredulidad es fruto de la impureza: «Nadie es incrédulo si no es impuro» (San Agustín).
+
+**Pureza y salud. La ciencia médica (Cap. V):** Tóth recoge el testimonio de médicos y psiquiatras (Krafft-Ebing, Farel, Rossier, Herbst, Mantagezza, Eulenberg, Max Gruber, Dr. Paul) para refutar la idea de que la continencia daña la salud. «Las palabras *sano*, *saludable*, *sagrado* y *santo* provienen de la misma raíz». El Congreso Internacional de Higiene de Bruselas (1902) confirma la inocuidad de la vida casta.
+
+**Sacramentos y amistad con Cristo (Cap. VI):** El joven no vence solo. La confesión frecuente (con el mismo confesor) y la comunión son medios de fortaleza; la amistad con Jesucristo sostiene la pureza. «Sin la religión es casi imposible guardar la virginidad y la castidad juveniles».
 
 > «El instinto sexual que sientes no es pecado. Es sagrado porque es una participación misteriosa en el poder creativo de Dios» (JvC-Eng, Cap. II)
 

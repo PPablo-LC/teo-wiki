@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "Capítulo IV: En las profundidades de la corrupción"
-fuente: Youth and Chastity -- Dr_ Tihamer Toth -- 2016
+fuente: youth_and_chastity
 capítulo: 5
 timestamp: 2026-08-16
 description: "Resumen del Capítulo IV de Youth and Chastity: las consecuencias de la inmoralidad — el pecado como hábito, la incredulidad y los castigos físicos."
