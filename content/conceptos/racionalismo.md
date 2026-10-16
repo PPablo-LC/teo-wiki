@@ -1,38 +1,33 @@
 ---
 type: Concepto Teológico
 title: "Racionalismo"
-description: "Corriente filosófica que exalta la razón humana como fuente única o suprema de conocimiento, opuesta a la fe y a la Revelación."
-tags: ["filosofía", "error", "teología_fundamental"]
-timestamp: 2026-07-01
+description: "Corriente que reduce la personalidad a espontaneidad evolutiva y la educación a clarificación de ideas, olvidando el empeño existencial."
+tags:
+  - epistemología
+  - filosofía
+  - educación
+timestamp: 2026-10-15
 ---
+> Área: Epistemología / Filosofía
+> Última actualización: 2026-10-15
 
 # Racionalismo
 
-> Área: Filosofía / Teología Fundamental
-> Última actualización: 2026-07-01
-
 ## Definición
+Giussani critica el **racionalismo** moderno que postula que la personalidad sería el término de una espontaneidad evolutiva, sin que sea necesaria regla o guía fuera de uno mismo, y que reduce la educación a la mera clarificación de ideas (*Il rischio educativo*, I, 39-43; 122-126).
 
-El **racionalismo** es la corriente filosófica que exalta la [[razón]] humana como fuente única o suprema de conocimiento, rechazando o subordinando la [[fe]] y la [[revelación]]. Ha sido condenado por la Iglesia por negar el orden sobrenatural.
+## Desarrollo doctrinal
 
 ## Perspectivas por fuente
 
-### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
+### Giussani — Il rischio educativo (IRE)
+I, 39-43: el racionalismo/laicista desemboca en una falsa autonomía que vive de hecho como alienación. I, 122-126: critica al educador que peca de superficialidad y abstracción, olvidando el empeño existencial necesario para que la verdad comprometa la vida.
 
-- **Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — «L'uomo come Prometeo»: la correspondencia sistemática descubierta entre los dinamismos de la naturaleza y el pensamiento humano lleva al hombre a concebir su razón como «el verdadero hecho dominador del mundo»: «así ha pensado haber encontrado finalmente el auténtico dios, el señor: la razón» (L127-131).
-- **Parte prima** — Daniel-Rops: cuando Watt hizo brotar las primeras chispas de la máquina de vapor, «pareció al hombre haber realizado el antiguo mito de Prometeo, haber robado el fuego a los dioses»; el Dominus que tiene derecho a decidir sobre la vida y el cosmos no es ya Dios sino el hombre a través de su razón (L133).
-- **Parte prima** — el optimismo racionalista —la ciencia y la técnica resolverían todo problema humano sin Dios— fue «frustrado por la tragedia de la primera guerra mundial»; testimonio de Reinhold Niebuhr, *Moral Man and Immoral Society* (1932) (L199).
-
-## Relaciones
-
-[[fe_y_razón]], [[revelación]], [[naturalismo]], [[modernismo]], [[ilustracion]], [[error]], [[ontologismo]], [[tradicionalismo]], [[pascendi]], [[lamentabili]]
+## Relaciones doctrinales
+[[laicismo]], [[alienación]], [[autonomía_de_la_moral]], [[escepticismo]]
 
 ## Ver también
-
-[[fe_y_razón]], [[naturalismo]], [[modernismo]]
+[[fe_y_razón]]
 
 ## Referencias
-
-- Concilio Vaticano I, *Dei Filius*
-- CEC 36–38
-- Pío X, *Pascendi Dominici Gregis*
+- Giussani, L., *Il rischio educativo*, Capitoli, CLUEB, Bologna 2024 (IRE), Cap. I, 39-43; 122-126.

@@ -38,6 +38,15 @@ La fuente muestra la educación cristiana en acción en tres escenarios:
 - **La casa de Tomás Moro** (cap. 13): «l'armonia che vi regna, l'umorismo, l'intelligenza di Tommaso e dei suoi figli (le figlie potevano correggere delle edizioni critiche di testi greci!), la fede vissuta e diffusa»; todos los días Misa, Biblia comentada en familia, noches de Navidad y Pascua en oración, el Viernes Santo con la lectura de la Pasión. La educación cristiana como cultura integral que une rigor intelectual y piedad.
 - **El sistema educativo de don Bosco** (cap. 7): véase [[sistema_preventivo]].
 
+### Giussani — Il rischio educativo (IRE)
+
+La educación cristiana se inscribe en la lógica del *riesgo educativo*: propone el cristianismo como **hipótesis explicativa de la realidad** que debe ser verificada personalmente (I, 29-31; 108-140). Sus elementos específicos:
+- **Fe y gracia**: la experiencia cristiana integra el encuentro con un hecho objetivo, la **gracia de la fe** y la conciencia de la correspondencia entre el significado del Hecho y el de la propia existencia (III, 55-65).
+- **Autoridad eclesial y coherencia**: padres e Iglesia garantizan la coherencia necesaria para que la verificación sea posible (I, 98-100).
+- **Comunidad como lugar educativo**: la dimensión comunitaria (I, 152-164) y la vida en la comunidad cristiana en el ambiente (II, 91-93) son condiciones formativas.
+- **Caridad y misión**: la caridad como ley del ser y la **dimensión misionera** forman parte integral de la educación cristiana (I, 186-190).
+- **Escuela cualificada**: una escuela que propone con claridad una hipótesis de sentido total favorece el verdadero diálogo y la madurez crítica (I, 80).
+
 ### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
 
 Tóth dedica dos capítulos a la educación de los hijos en la familia numerosa. La familia cristiana **respeta al niño** — «res sacra puer»: san Leónidas arrodillado ante el pequeño Orígenes («adoro al Espíritu Santo que mora en él»); santa Perpetua con su hijo en la cárcel — y **educa**: formar cuerpo y espíritu, con el amor paterno como fuerza inagotable y la **misión sacerdotal de los padres** (enseñar a orar, el Niño Jesús, la Virgen, las verdades de la fe); la madre de los Macabeos como prototipo (2 Mac 7,28-29) y María como modelo [EMC, cap. 15].

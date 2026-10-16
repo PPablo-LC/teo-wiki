@@ -1,85 +1,40 @@
 ---
-type: Concepto
+type: Concepto Teológico
 title: "Verificación"
-description: "En Giussani, la verificación es el confronto entre lo que la tradición entrega y los problemas que la experiencia produce. Sin verificación no hay educación."
+description: "El empeño personal por comprobar vitalmente la hipótesis recibida; condición para que la aceptación devenga convicción según Giussani."
 tags:
-  - teología_fundamental
+  - epistemología
   - educación
-  - antropología_cristiana
-timestamp: 2026-10-11
+  - antropología
+  - teología_pastoral_formación_espiritual
+timestamp: 2026-10-15
 ---
-
-> Área: Teología fundamental / Educación / Antropología cristiana
-> Última actualización: 2026-10-11
+> Área: Teología Pastoral / Formación Espiritual
+> Última actualización: 2026-10-15
 
 # Verificación
 
 ## Definición
-
-La **verificación** (*verifica*) es, en el vocabulario de don
-[[luigi_giussani]], «il confronto fra ciò che ci è dato dalla
-[[tradición]] con gli insorgenti problemi che l'[[experiencia]] produce».
-Es el acto por el cual el sujeto comprueba en la experiencia la verdad y la
-capacidad de responder de aquello que se le ha propuesto. Giussani la
-considera «uno dei più importanti […] nel vocabolario cristiano» (REG 17).
+La **verificación** (en el sentido de Giussani) es el empeño personal con la propia origen, mediante el cual el joven verifica vitalmente la hipótesis explicativa de la realidad recibida, para que pase de aceptación recibida a convicción (*Il rischio educativo*, I, 112-140; II, 49-55).
 
 ## Desarrollo doctrinal
 
-### Estructura de la verificación
-
-La verificación requiere tres elementos: una **propuesta** (la tradición
-como hipótesis de significado), una **realidad concreta** donde probarla, y
-un **sujeto libre** que la somete a juicio. No es un examen externo ni un
-control autoritario, sino la lealtad a la propia [[experiencia]]. Su
-resultado no es la condena, sino el reconocimiento de la correspondencia
-entre la promesa y el [[deseo]].
-
-### Verificación y educación
-
-«Senza verifica non c'è educazione» (REG 16): la educación no impone un
-contenido, sino que introduce a una realidad donde el educando puede
-comprobar. Una **escuela católica** es «un ambito di verifica del valore
-della proposta della tradizione cristiana» (*Gravissimum educationis*).
-La verificación exige la [[libertad]] del educando y el respeto de su
-decisión.
-
-### Verificación y tradición
-
-La tradición no se conserva por inercia: «La tradizione diventa problema»
-(προ-βάλλω), es decir, crítica y discriminación. La tradición entrega la
-hipótesis; la verificación la hace propia.
-
 ## Perspectivas por fuente
 
-### Luigi Giussani — Realtà e giovinezza. La sfida (REG)
-
-- Definición como confronto tradición-experiencia (16).
-- «Senza verifica non c'è educazione»; la escuela católica como ámbito de
-  verificación (16).
-- La verificación como principio del vocabulario cristiano (17).
+### Giussani — Il rischio educativo (IRE)
+Giussani insiste en que «occorre suscitare nell'adolescente *personale impegno con la propria origine*» (I, 112). La verificación supone entrar en conexión existencial con lo propuesto: «la convinzione deriva dal fatto che l'idea abbracciata o ricevuta viene scoperta in connessione vitale con le proprie situazioni» (I, 114). Recurre a santo Tomás (*De Veritate*, q. 10, a. 8) para subrayar que no se entiende la realidad si no «ci si sta»: *in hoc aliquis percipit se animam habere et vivere et esse, quod percipit se sentire et intelligere* (I, 118-120). La verificación es también instrumento del diálogo con la tradición (II, 49-55) y constituye una dimensión estructural de la experiencia cristiana (III, 63-69).
 
 ## Distinciones importantes
-
-- **Verificación vs. demostración**: no es una prueba lógica o técnica,
-  sino el contraste con la experiencia vivida.
-- **Verificación vs. duda**: la verificación parte de una hipótesis
-  positiva; la duda como punto de partida no encuentra nada.
-- **Verificación vs. condena**: su finalidad es el reconocimiento, no el
-  juicio que excluye.
+- No es «probar experimentalmente» en sentido positivista, sino **verificación vital**: comprobar en la propia existencia la correspondencia entre lo propuesto y la realidad.
+- Supone la **razón** y la **crítica** bien entendidas, no su disolución (III, 67-69).
+- Requiere condiciones: empeño en el ambiente, dimensión comunitaria, uso del tiempo libre (I, 144-170).
 
 ## Relaciones doctrinales
-
-- [[experiencia]] [[tradición]] [[libertad]] [[razón]] [[educación]]
-- [[hipotesis_positiva]] [[realidad_total]] [[escuela]]
+[[convicción]], [[certeza]], [[experiencia]], [[experiencia_cristiana]], [[correspondencia_al_don_divino]], [[libertad]]
 
 ## Ver también
-
-- [[luigi_giussani]] [[realta_e_giovinezza_la_sfida]]
-- [[experiencia]] [[tradición]] [[libertad]] [[razón]]
-- [[educación]] [[hipotesis_positiva]] [[escuela]]
+[[hipótesis_explicativa_de_la_realidad]], [[educación_cristiana]]
 
 ## Referencias
-
-- **Fuente**: [[realta_e_giovinezza_la_sfida]] (REG), caps. 16 y 17.
-- **Índice de la fuente**:
-  `raw/Bases_doctrinales-raw/realta_e_giovinezza_la_sfida_capitoli/índice.md`.
+- Giussani, L., *Il rischio educativo*, Capitoli, CLUEB, Bologna 2024 (IRE), Cap. I, 112-140; 215; Cap. II, 49-55; Cap. III, 63-69.
+- Tomás de Aquino, *De Veritate*, q. 10, a. 8.

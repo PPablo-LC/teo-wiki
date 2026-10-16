@@ -125,6 +125,18 @@ Elementos centrales en REG:
 - Ser niños = recuperar el contacto con la **naturaleza original**; no querer ser expresivos, sino alimentar el **[[estupor]]** (Tischreden 29, 10).
 - Educar a la **conciencia de ser deseo**: la vocación tanto más alta cuanto más exige conciencia y educación (Tischreden 196, 07).
 
+### Giussani — Il rischio educativo (IRE)
+
+Giussani define la educación como «introduzione alla realtà totale» (Jungmann), entendida como introducción a la realidad en su conjunto y a su significatividad (*Il rischio educativo*, I, 9-15). Esta visión articula varios elementos centrales:
+- **Realismo pedagógico**: una educación vale tanto más cuanto más obedece a la realidad, reconociendo la necesidad de dependencia y la paciencia evolutiva (I, 13-15).
+- **Hipótesis explicativa de la realidad**: la tradición funciona para el joven como una hipótesis explicativa de la realidad que debe ser ofrecida para su **verificación** personal (I, 29-31; 108-140).
+- **Autoridad como función de coherencia** (*auctoritas* = «lo que hace crecer»): educa por la continuidad vital entre convicción y vida (I, 90-106).
+- **Verificación y convicción**: la adhesión pasa de recibida a vital mediante el empeño existencial con la propia origen (I, 112-136, 215).
+- **Condiciones de la verificación**: empeño en el ambiente, dimensión comunitaria, uso del tiempo libre (I, 144-170).
+- **Dimensiones del ánimo**: cultural, de la caridad, misionera (I, 176-190).
+- **Riesgo educativo**: necesario para formar un hombre nuevo que actúe «da sé» (I, 192-211; 215).
+- **Educabilidad y estupor**: la educación cultiva la permanente apertura a crecer y la conmoción ante las cosas (I, 219).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

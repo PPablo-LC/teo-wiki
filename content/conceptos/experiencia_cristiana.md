@@ -33,6 +33,15 @@ La «Avvertenza» del libro (cap. 02) es el documento fundacional del concepto:
 - **La certeza de los santos vivos**: incluir a Benedetta Bianchi Porro, aún no canonizada, «non vuole affatto anticipare questo giudizio; vuole soltanto esprimere una certezza e una gioia: che i santi sono ancora tra noi» — la experiencia cristiana es hoy, no solo historia.
 - **El fruto**: «Contemplando il loro volto, il desiderio della vostra vera umanità diventa così più struggente» — el aprendizaje experiencial despierta deseo, no mera información.
 
+### Giussani — Il rischio educativo (IRE)
+
+Giussani articula la experiencia cristiana en tres factores inseparables (III, 55-65):
+1. **Encuentro con un hecho objetivo**: originalmente independiente de la persona (la comunidad documentada, con su autoridad como criterio y forma).
+2. **Gracia de la fe**: el poder de percibir adecuadamente el significado del encuentro.
+3. **Conciencia de la correspondencia**: entre el significado del hecho cristiano y el significado de la propia existencia, lo que verifica el crecimiento.
+
+Esta experiencia compromete la autoconciencia y la capacidad crítica (la verificación valoriza la razón), y en ella se manifiesta la libertad humana en la aceptación de la propia dependencia constitutiva (III, 67-73). El lugar sobrenatural donde se vive esta experiencia es la Iglesia, Cuerpo místico de Cristo (III, 51).
+
 ### Attraverso la compagnia dei credenti (TACDC)
 
 En TACDC la experiencia cristiana se define como el encuentro con una Presencia que cambia la estructura de sentido de la vida, verificada en la vida ordinaria:

@@ -95,6 +95,10 @@ auténtica no coarta la [[libertad]], sino que la introduce en la
 [[realidad_total]] y la conduce a la **[[verificación]]** (ver
 [[libertad_de_educación]]).
 
+### Giussani — Il rischio educativo (IRE)
+
+Giussani recupera el sentido auténtico de *auctoritas* como «ciò che fa crescere» (I, 90-92). La autoridad cumple una **función de coherencia**: «la funzione educatrice di una vera autorità si configura precisamente come "funzione di coerenza"»; «coerenza è stabilità efficiente nel tempo, è continuità di vita» (I, 94-100). Esta coherencia es garantizada por padres e Iglesia (I, 98-100) y es lo que permite al joven verificar la hipótesis educativa. La experiencia de autoridad surge como encuentro con una persona rica de conciencia de la realidad, generando novedad, estupor y respeto (I, 92-96).
+
 Elementos centrales en REG:
 
 - **La [[tradición]] y la autoridad**: la pedagogía de Dios es una

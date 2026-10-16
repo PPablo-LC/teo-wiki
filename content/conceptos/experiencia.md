@@ -70,6 +70,10 @@ experiencia del otro.
 - Negar la **[[pregunta_del_destino|pregunta]]** va contra la experiencia y es, por tanto, irracional (08).
 - La experiencia como lugar donde la realidad **emerge y se hace conocer**, y donde la libertad se juega (Tischreden 142, 14).
 
+### Giussani — Il rischio educativo (IRE)
+
+Giussani define la experiencia como «vivere ciò che mi fa crescere» y como «accorgersi di crescere» en dos aspectos: capacidad de entender y capacidad de amar (III, 5-13). La experiencia auténtica consiste en «entender una cosa, descubrir su sentido»; ese sentido no lo creamos, sino que es la conexión objetiva de las cosas, que es la «Palabra de un Altro» (III, 15-23). El encuentro con un hecho objetivo (Cristo y la Iglesia) constituye el punto de partida de la **experiencia cristiana** (III, 47-59), que integra la gracia de la fe y la conciencia de la correspondencia (III, 61-65). La naturaleza es el lugar de esos rapporti objetivos que desarrollan la persona (III, 25-31).
+
 ## Distinciones importantes
 
 - **Experiencia vs. impresión/emoción**: la experiencia incluye el juicio
