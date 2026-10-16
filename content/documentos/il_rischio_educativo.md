@@ -40,10 +40,21 @@ Incluida en el lote de procesamiento Giussani-CL (código **IRE**). Giussani pla
 - Social y cultural: [[cultura]], [[catolicidad]], [[democracia]], [[relativismo]], [[crisis]]
 
 ## Ver también
-- [[Luigi_Giussani]]
-- [[Giussani_CL]]
+- [[luigi_giussani]] — autor de la obra
+- [[comunione_e_liberazione]]
+- [[josef_andreas_jungmann]] — fórmula originaria de la tesis
+
+## Resúmenes por capítulo (wiki)
+
+Los resúmenes estructurados de la obra están en `wiki/Resúmenes/il_rischio_educativo_capitoli/` (4 archivos, homólogos a los archivos raw):
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_il_rischio_educativo]] | Título de la obra: el «riesgo» como categoría pedagógica |
+| 02 | [[02_capitolo_primo__dinamica_e_fattori_dellavvenimento_educativo]] | Cap. I — Dinámica y factores del acontecimiento educativo |
+| 03 | [[03_capitolo_secondo__crisi_e_dialogo]] | Cap. II — Crisis y diálogo |
+| 04 | [[04_capitolo_terzo__struttura_dellesperienza]] | Cap. III — Estructura de la experiencia |
 
 ## Referencias
 - Giussani, L., *Il rischio educativo*, Capitoli, CLUEB, Bologna 2024.
 - Registro en `fuentes.md` (IRE).
-- Resúmenes por archivo en `wiki/Resúmenes/il_rischio_educativo_capitoli/`.

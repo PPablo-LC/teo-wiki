@@ -12,4 +12,8 @@ tags: ["resumen", "evangelization_and_culture"]
 
 ## Contenido
 
-Sección institucional que presenta al equipo del Instituto Word on Fire. El número se centra en el cine como herramienta de evangelización.
+Sección institucional (página de créditos o «masthead») que presenta al equipo del Instituto Word on Fire y de los Word on Fire Catholic Ministries. El número se centra en el cine como herramienta de evangelización.
+
+La lista encabeza **[[robert_barron]]** como obispo fundador de Word on Fire (*Founder, Word on Fire*), seguido de los responsables ejecutivos y del instituto: Father Steve Grunow (CEO), Jared Zimmerer (Director del Word on Fire Institute), Sean Lee (Director de Operaciones) y Matt Nelson (Assistant Director). A continuación figuran el equipo editorial (Tod Worner, Managing Editor; Matthew Beck y Elizabeth Scalia, Senior Editors; Daniel Seseske, Copy Editor), el equipo creativo (Rozann Lee, Creative Director; Cassie Pease, Creative Manager; Clare Lococo, Creative Coordinator; Diego Díaz, Graphic Artist) y los servicios de marketing, distribución, impresión, finanzas y asesoría legal (Jon Bator, Drew Pultorak, Patrick McCormack, Robert E. Lee, Michael Benz).
+
+Cierra la página una nota de agradecimiento (*Special thanks*) al personal y a la junta directiva de los Word on Fire Catholic Ministries. No aporta contenido teológico propio: su función es acreditar la autoría institucional de la revista en que se publica el monográfico sobre el cine.

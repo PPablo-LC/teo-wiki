@@ -10,33 +10,31 @@ tags: ["resumen", "il rischio educativo capitoli"]
 
 # Il rischio educativo
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en este capítulo
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[il_rischio_educativo]] — obra de Luigi Giussani (1977) sobre la concepción educativa de la Comunione e Liberazione
+- [[riesgo]] — categoría pedagógica central: educar implica aceptar el riesgo de la libertad del educando
+- [[educación]] — como *introduzione alla realtà totale* (introducción a la realidad total)
+- [[libertad]] — fin de la educación: formar un hombre capaz de actuar «da sé»
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `00_preliminares.md`
+Archivo de título de la obra. *Il rischio educativo* (1977) de **Luigi Giussani** expone la concepción educativa completa de su autor en torno a la fórmula de **Josef Andreas Jungmann**: la educación es *«Eine Einführung in die Gesamtwirklichkeit»*, una **introducción a la realidad total**.
 
+La obra se articula en tres capítulos:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+1. **Cap. I — «Dinamica e fattori dell'avvenimento educativo»**: la dinámica y los factores del acontecimiento educativo — la tradición como hipótesis explicativa de la realidad (fuente de [[certeza]]), la autoridad como lugar de esa propuesta (función de [[coherencia]]), la verificación personal como condición de la [[convicción]] y el [[riesgo]] como condición de la [[libertad]].
+2. **Cap. II — «Crisi e dialogo»**: el pasaje crítico de la adolescencia y la apertura dialógica fundada en la conciencia de sí.
+3. **Cap. III — «Struttura dell'esperienza»**: la estructura de la [[experiencia]] como desarrollo de la persona en el encuentro con un hecho objetivo (Cristo y la [[iglesia]]).
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | Il rischio educativo |
 
-
 ## Secciones incluidas
 
+# Il rischio educativo
+
+Título de la obra. El «riesgo» aparece desde el título como categoría pedagógica: una educación que merezca tal nombre debe aceptar el riesgo que supone la libertad del educando, en lugar de pretender garantizar de antemano sus resultados (desarrollado en el cap. I, §V).
