@@ -56,7 +56,7 @@ En TACDC, la *letizia* (alegría serena) reaparece como **síntoma de la presenc
 - [[testimonio_cristiano]] — la letizia como argumento de testimonio
 - [[gloria_de_cristo]] — la alegría que brota de la gloria contemplada
 - [[belleza]] — afirmar a Cristo como afirmar una belleza objetiva
-- [[bien]] / [[moralidad]] — el bien reconocido y su fruto
+- [[bondad]] / [[moralidad]] — el bien reconocido y su fruto
 - [[esperanza]] — la esperanza cristiana y su término en la letizia
 - [[luigi_giussani]] — el Autor; [[dare_la_vita_per_lopera_di_un_altro]] — la fuente DLV
 

@@ -42,7 +42,7 @@ immenso drammatico rischio educativo» (16).
 La [[tradición]] es el contenido de la propuesta educativa; la
 **[[autoridad]]** es su factor comunicativo («senza autorità non c'è
 proposta e senza proposta non c'è confronto»). La cultura despótica odia
-la autoridad y el [[padre]] porque la autoridad es propuesta de un camino
+la autoridad y el [[padres_y_padre|padre]] porque la autoridad es propuesta de un camino
 que la libertad puede verificar.
 
 ### La libertad de educación como derecho
@@ -81,7 +81,7 @@ cultura».
 
 - [[educación]] [[libertad]] [[autoridad]] [[tradición]] [[cultura]]
 - [[escuela]] [[gravissimum_educationis]] [[juan_pablo_ii]] [[verificación]]
-- [[educación_religiosa]] [[padre]]
+- [[educación_religiosa]] [[padres_y_padre]]
 
 ## Ver también
 

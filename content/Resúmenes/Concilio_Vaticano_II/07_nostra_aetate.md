@@ -12,7 +12,7 @@ tags: ["resumen", "concilio vaticano ii", "diálogo_interreligioso"]
 
 ## Conceptos básicos referenciados en este documento
 
-- [[religiones_no_cristianas]] — religiones no cristianas en las que se encuentra elementos de verdad y santidad que la Iglesia considera con sincero respeto
+- [[religiones]] — religiones no cristianas en las que se encuentra elementos de verdad y santidad que la Iglesia considera con sincero respeto
 - [[hinduismo]] — religión en la que se investiga el misterio divino con mitos, filosofía, vida ascética, meditación y refugio en Dios
 - [[budismo]] — religión que reconoce la insuficiencia radical de este mundo mudable y enseña el camino de la perfecta liberación o suprema iluminación
 - [[diálogo_interreligioso]] — diálogo y colaboración con los adeptos de otras religiones, con prudencia y caridad, dando testimonio de fe y vida cristiana

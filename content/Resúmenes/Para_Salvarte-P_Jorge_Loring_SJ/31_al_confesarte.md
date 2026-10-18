@@ -21,7 +21,7 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 - [[sagrada_comunión]] — frecuentarla
 - [[contrición]] — acto de contrición perfecta ante el pecado grave
 - [[santo_rosario]] y [[avemaría]] — devociones marianas
-- [[pecado_grave]] — no cometerlo nunca
+- [[pecado_mortal|pecado grave]] — no cometerlo nunca
 - [[regulación_natural_de_la_natalidad]] — método de la ovulación (Billings), técnica natural y lícita
 
 ## Oración antes del examen

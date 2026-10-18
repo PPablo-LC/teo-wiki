@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vida contemplativa
 tags: ["ascética", "mística"]
 
-timestamp: 2026-09-11
+timestamp: 2026-10-18
 description: "Estado de vida consagrada total y permanentemente a la oración, la alabanza divina y la penitencia, en clausura, separado del mundo, como anticipación del gozo eterno."
 ---
 # Vida contemplativa
 
 > Área: Ascética / Mística
-> Última actualización: 2026-09-11
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -20,6 +20,10 @@ Estado de vida consagrada total y permanentemente a la oración, la alabanza div
 ### Según el Catecismo (CEC)
 
 La vida contemplativa pertenece a la santidad de la Iglesia (§920). «Las almas llamadas a la vida contemplativa responden a una invitación del Señor a estar con Él» (§921). Es un don de Dios, un anticipo del Reino futuro (§927). Las comunidades contemplativas «contribuyen grandemente a la edificación de la Iglesia» (§921).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Perfectae Caritatis* §7 trata de los institutos de vida contemplativa: están «dedicados íntegramente a la contemplación de Dios en el silencio, la oración y la penitencia», y tienen «gran importancia en el cuerpo místico de Cristo», del cual «la Iglesia espera un renovado y evidente testimonio del admirable unión que existe en Cristo de la vida contemplativa y activa, y de que ésta se nutre de aquella con singular alimento». Deben «observarse fielmente en ellos su espíritu y costumbres propias», procurándose «con especial cuidado el bien espiritual de los miembros» y un «régimen de vida adaptado a las necesidades de nuestro tiempo». Las comunidades claustrales «dediquen también la vida por entero a la oración, así por la Liturgia de las Horas como por la meditación, la Eucaristía y la penitencia», y «procuren hacer participar a los fieles, según la índole de su instituto, de los bienes espirituales de su vida contemplativa, mediante la recepción de personas y con los otros medios de cooperación apostólica» (PC §7).
 
 ### Según Royo Marín (TPCr)
 
@@ -127,6 +131,7 @@ Se relaciona con la [[contemplación]], la [[vida_activa]], la [[vida_consagrada
 - [SFrAs, CFi. 19 — Contemplación en la actividad]
 - [SFrAs, Laud. 33 — Alabanza continua]
 - CEC §920-921, 927
+- ConcVatII, *Perfectae Caritatis* §7 (institutos de vida contemplativa)
 - TPCr, Parte IV (vida contemplativa)
 - SmTh II-II, q.179, a.1-2
 - SmTh II-II, q.180, a.1-8

@@ -14,7 +14,7 @@ tags: ["resumen", "concilio vaticano ii", "eclesiología"]
 
 - [[iglesia]] — sacramento o signo e instrumento de la unión íntima con Dios y de la unidad de todo el género humano
 - [[misterio_de_la_iglesia]] — naturaleza íntima de la Iglesia revelada por el Espíritu y manifiesta en su fundación e imágenes bíblicas
-- [[sacramento_universal_de_salvación]] — la Iglesia es el Cuerpo de Cristo hecho sacramento universal de salvación
+- [[iglesia_como_sacramento_universal_de_salvación]] — la Iglesia es el Cuerpo de Cristo hecho sacramento universal de salvación
 - [[cuerpo_místico]] — la Iglesia como Cuerpo místico de Cristo, cuya Cabeza es Cristo, vivificado por un solo Espíritu
 - [[reino_de_dios]] — anunciado por Jesús, presente en misterio; la Iglesia es su germen y principio en la tierra
 - [[pueblo_de_dios]] — nuevo Pueblo mesiánico convocado por Cristo de judíos y gentiles, unificado en el Espíritu

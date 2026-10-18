@@ -30,11 +30,11 @@ En el derecho penal canónico, los **graviora delicta contra la moral**, definid
 
 ## Relaciones doctrinales
 
-[[delitos_canónicos]], [[delitos_contra_el_sexto_mandamiento]], [[abuso_sexual_de_menores]], [[protección_de_menores]], [[abuso_de_autoridad]], [[SST]], [[SST-2010]], [[Vos_estis_lux_mundi]], [[justicia_restaurativa]], [[derecho_penal_canónico]]
+[[delitos_canónicos]], [[delitos_contra_el_sexto_mandamiento]], [[abuso_sexual_de_menores]], [[protección_de_menores]], [[abuso_de_autoridad]], [[sacramentorum_sanctitatis_tutela|SST]], [[normae_de_gravioribus_delictis|SST-2010]], [[Vos_estis_lux_mundi]], [[justicia_restaurativa]], [[derecho_penal_canónico]]
 
 ## Ver también
 
-[[delitos_canónicos]], [[delitos_contra_el_sexto_mandamiento]], [[abuso_sexual_de_menores]], [[protección_de_menores]], [[abuso_de_autoridad]], [[SST]], [[SST-2010]], [[Vos_estis_lux_mundi]], [[justicia_restaurativa]], [[derecho_penal_canónico]]
+[[delitos_canónicos]], [[delitos_contra_el_sexto_mandamiento]], [[abuso_sexual_de_menores]], [[protección_de_menores]], [[abuso_de_autoridad]], [[sacramentorum_sanctitatis_tutela|SST]], [[normae_de_gravioribus_delictis|SST-2010]], [[Vos_estis_lux_mundi]], [[justicia_restaurativa]], [[derecho_penal_canónico]]
 
 ## Referencias
 

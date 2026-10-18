@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fraternidad presbiteral
 tags: ["eclesiología", "espiritualidad_sacerdotal"]
 
-timestamp: 2026-08-09
+timestamp: 2026-10-18
 description: "Vínculo de comunión entre los presbíteros de una diócesis que, bajo la autoridad del obispo, forman un único presbiterio."
 ---
 # Fraternidad presbiteral
 
 > Área: Eclesiología / Espiritualidad sacerdotal
-> Última actualización: 2026-08-09
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -20,6 +20,16 @@ Vínculo de comunión entre los presbíteros de una diócesis que, bajo la autor
 La fraternidad presbiteral hunde sus raíces en el sacramento del Orden, que incorpora a los presbíteros al único presbiterio de la diócesis presidido por el obispo. León XIV, en su carta a los sacerdotes de Madrid con motivo del Convivium, la desarrolla mediante la imagen de la catedral como hogar común donde todos tienen lugar y donde nadie debería sentirse expuesto o solo en el ejercicio del ministerio.
 
 ## Perspectivas por fuente
+
+### Según el Concilio Vaticano II (Presbyterorum Ordinis)
+
+El decreto *Presbyterorum Ordinis* funda la fraternidad presbiteral en el sacramento del Orden: «Los presbíteros, constituidos por la Ordenación en el Orden del Presbiterado, están unidos todos entre sí por la íntima fraternidad sacramental, y forman un presbiterio especial en la diócesis a cuyo servicio se consagran bajo el obispo propio». Aunque se entreguen a diversas funciones —ministerio parroquial o interparroquial, investigación, enseñanza, trabajo manual u otras obras apostólicas—, desempeñan «un solo ministerio sacerdotal para los hombres», orientado a la edificación del Cuerpo de Cristo. Por eso es de suma trascendencia que «todos los presbíteros, diocesanos o religiosos, se ayuden mutuamente para ser siempre cooperadores de la verdad» [PO 8].
+
+Cada presbítero está unido a los demás miembros del presbiterio «por vínculos especiales de caridad apostólica, de ministerio y de fraternidad», lo que se expresa litúrgicamente desde antiguo: los presbíteros asistentes imponen las manos sobre el nuevo elegido junto con el obispo ordenante, y concelebran la Eucaristía unidos cordialmente. Así se manifiesta «la unidad con que Cristo quiso que fueran consumados para que conozca el mundo que el Hijo fue enviado por el Padre» [PO 8].
+
+El Concilio concreta esta fraternidad en obras: «Guiados por el espíritu fraterno, los presbíteros no olviden la hospitalidad, practiquen la beneficencia y la asistencia mutua», preocupándose sobre todo de los que están «enfermos, afligidos, demasiado recargados de trabajos, aislados, desterrados de la patria, y de los que se ven perseguidos». Recomienda además reunirse para el descanso, recordando la invitación del Señor: «Venid a un lugar desierto, y descansad un poco» (*Mc* 6, 31). Para que encuentren mutua ayuda en el cultivo de la vida espiritual e intelectual, cooperen mejor en el ministerio y se libren «de los peligros que pueden sobrevenir por la soledad», el Concilio pide fomentar «alguna especie de vida común o alguna conexión de vida entre ellos» —vida en común donde sea posible, mesa común o, al menos, frecuentes y periódicas reuniones—, y estimar y promover las asociaciones sacerdotales aprobadas que fomenten la santidad en el ministerio y la fraternal ayuda [PO 8].
+
+En continuidad con esta fraternidad, PO 7 recuerda que los obispos tengan a sus sacerdotes «como hermanos y amigos», y PO 9 que los presbíteros, con todos los regenerados en el bautismo, son «hermanos entre los hermanos», miembros de un mismo Cuerpo de Cristo [PO 7, 9].
 
 ### Según León XIV (DC-Convivium)
 
@@ -59,6 +69,7 @@ Se relaciona con [[presbítero]], [[presbiterio]], [[caridad_pastoral]], [[obisp
 
 ## Referencias
 
+- [PO 7-9]
 - [DC-Convivium, 09.02.2026]
 - [L_XIV-ClerRom, 19.02.2026]
 - [JorSant-2026, 12.06.2026]

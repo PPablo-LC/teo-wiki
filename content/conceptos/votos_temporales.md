@@ -30,11 +30,11 @@ Votos religiosos —castidad, pobreza y obediencia— emitidos **por tiempo dete
 
 ## Relaciones doctrinales
 
-[[votos_religiosos]], [[voto_de_pobreza]], [[voto_de_castidad]], [[voto_de_obediencia]], [[noviciado]], [[vida_consagrada]], [[discernimiento_vocacional]], [[CIC]], [[formación]], [[fidelidad]]
+[[votos_religiosos]], [[voto_de_pobreza]], [[voto_de_castidad]], [[voto_de_obediencia]], [[noviciado]], [[vida_consagrada]], [[discernimiento_vocacional]], [[código_de_derecho_canónico|CIC]], [[formación]], [[fidelidad]]
 
 ## Ver también
 
-[[votos_religiosos]], [[voto_de_pobreza]], [[voto_de_castidad]], [[voto_de_obediencia]], [[noviciado]], [[vida_consagrada]], [[discernimiento_vocacional]], [[CIC]], [[fidelidad]]
+[[votos_religiosos]], [[voto_de_pobreza]], [[voto_de_castidad]], [[voto_de_obediencia]], [[noviciado]], [[vida_consagrada]], [[discernimiento_vocacional]], [[código_de_derecho_canónico|CIC]], [[fidelidad]]
 
 ## Referencias
 

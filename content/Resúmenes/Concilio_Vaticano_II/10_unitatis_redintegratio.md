@@ -17,7 +17,7 @@ tags: ["resumen", "concilio vaticano ii", "ecumenismo"]
 - [[jerarquía_de_las_verdades]] — existe un orden o "jerarquía" de las verdades en la doctrina católica, según su conexión con el fundamento de la fe cristiana
 - [[reforma_de_la_iglesia]] — Cristo llama a la Iglesia peregrinante hacia una perenne reforma, en cuanto institución humana y terrena
 - [[diálogo_ecuménico]] — reuniones entre peritos de diversas Iglesias o comunidades, celebradas en espíritu religioso
-- [[conversión_del_corazón]] — el verdadero ecumenismo no puede darse sin la conversión interior
+- [[conversión]] — el verdadero ecumenismo no puede darse sin la conversión interior
 - [[unitatis_redintegratio]] — decreto del Concilio Vaticano II sobre el ecumenismo
 - [[iglesias_orientales]] — Iglesias particulares o locales del Oriente, con tradición litúrgica, espiritual y disciplinar propias, entre las que ocupan el primer lugar las patriarcales
 

@@ -13,7 +13,7 @@ tags: ["resumen", "conversión", "ateísmo_práctico", "problema_del_mal"]
 ## Conceptos básicos referenciados en este capítulo
 
 - [[conversión]] — La pérdida de fe como experiencia personal.
-- [[ateísmo_práctico]] — El ateísmo como forma de vida, no solo como creencia.
+- [[ateísmo|ateísmo práctico]] — El ateísmo como forma de vida, no solo como creencia.
 - [[problema_del_mal]] — Las catástrofes como evidencia contra un Dios providente.
 
 ## Contenido

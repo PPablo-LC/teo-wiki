@@ -114,7 +114,7 @@ Elementos centrales en REG:
   chi viene educato»; «Il rapporto tra Dio e l'uomo è un immenso drammatico
   rischio educativo» (16). «Fuori della libertà non può esserci cultura».
 - **La dimensión política**: la cultura despótica odia la [[autoridad]] y
-  el [[padre]]; una sociedad que multiplica instrumentos «per mascherare
+  el [[padres_y_padre|padre]]; una sociedad que multiplica instrumentos «per mascherare
   la sua volontà di dominio totale» es tiránica; el [[totalitarismo]]
   pretende ser la fuente de la verdad (17).
 

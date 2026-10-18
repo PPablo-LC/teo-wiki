@@ -33,7 +33,7 @@ Conviene considerar que la dignidad de Dios, ofendida por el pecado, es infinita
 
 ## Relaciones doctrinales
 
-Se relaciona con [[pecado]], [[pecado_mortal]], [[infierno]], [[pasión_de_cristo]], [[satisfacción_de_cristo]], [[bien]], [[dios]].
+Se relaciona con [[pecado]], [[pecado_mortal]], [[infierno]], [[pasión_de_cristo]], [[satisfacción_de_cristo]], [[bondad]], [[dios]].
 
 ## Ver también
 

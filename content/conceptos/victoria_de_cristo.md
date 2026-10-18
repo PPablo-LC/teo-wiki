@@ -21,7 +21,7 @@ Cristo vence al demonio con su obediencia frente a las tentaciones (Mc 1,12–13
 
 La [[resurrección_de_cristo]] es la manifestación definitiva de esta victoria, que será plenamente visible en la [[parusía]]. La victoria de Cristo se comunica a los fieles mediante el [[bautismo]], que los incorpora a su muerte y resurrección (Rom 6,3–11).
 
-El [[bien]] triunfa definitivamente sobre el [[mal]] en Cristo, y los fieles participan de esta victoria por la fe y los sacramentos.
+El [[bondad|bien]] triunfa definitivamente sobre el [[mal]] en Cristo, y los fieles participan de esta victoria por la fe y los sacramentos.
 
 ## Relaciones
 

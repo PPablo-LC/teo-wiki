@@ -19,7 +19,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[bienaventuranzas]] — «Bienaventurados los limpios de corazón» (Mt 5, 8)
 - [[abluciones]] — el consejo del Antiguo Testamento (Lev 15)
 -[[higiene]] — la correspondencia con prescripciones higiénicas
--[[conversión_del_corazón]] — la corriente profética (Is 1; Jer 4; Ez 36)
+- [[conversión]] — la corriente profética (Is 1; Jer 4; Ez 36)
 - [[tradición_sacerdotal]] — el Salmo 51: «crea en mí un corazón puro»
 - [[salmista]] — el Salmo 24 (23): «puro de manos y corazón»
 - [[virtud]] — la pureza como virtud

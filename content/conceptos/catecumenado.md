@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Catecumenado
 tags: ["iniciación_cristiana", "liturgia"]
 
-timestamp: 2026-09-05
+timestamp: 2026-10-18
 description: "El catecumenado es el período de formación catequética y litúrgica por el que los adultos que desean recibir el bautismo son preparados gradualmente para la iniciación cristiana."
 ---
 # Catecumenado
 
 > Área: Iniciación cristiana / Liturgia
-> Última actualización: 2026-09-05
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -28,6 +28,10 @@ El CEC trata el catecumenado en los §§1247-1255 dentro del contexto del bautis
 ### Según el CIC
 
 Los cc. 788-789 establecen que el catecumenado debe estar organizado según las normas de la Conferencia Episcopal, con tiempos determinados y en colaboración con la comunidad parroquial (c. 788 §§1-2). Los catecúmenos tienen un estatuto jurídico especial: ya son miembros de la Iglesia en cierto sentido (c. 788 §3, remitiendo al derecho particular). Los cc. 851-853 regulan la celebración del bautismo y la función de los padrinos, indicando que los adultos pasan por el catecumenado antes de ser bautizados (c. 851 §1).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El decreto *Ad Gentes* §14 ofrece la definición conciliar del catecumenado: los que han recibido la fe «sean admitidos con ceremonias religiosas al catecumenado; que no es una mera exposición de dogmas y preceptos, sino una formación y noviciado convenientemente prolongado de la vida cristiana, en que los discípulos se unen con Cristo su Maestro». Los catecúmenos son iniciados «en el misterio de la salvación, en el ejercicio de las costumbres evangélicas y en los ritos sagrados», e introducidos «en la vida de fe, de la liturgia y de la caridad del Pueblo de Dios». Liberados luego por los sacramentos de la [[iniciación_cristiana]] «del poder de las tinieblas, muertos, sepultados y resucitados con Cristo, reciben el Espíritu de hijos de adopción» (AG §14). El Concilio desea que «la liturgia del tiempo cuaresmal y pascual se restaure de forma que prepare las almas de los catecúmenos para la celebración del misterio pascual». La iniciación durante el catecumenado no incumbe solo a los catequistas y sacerdotes, «sino toda la comunidad de los fieles, y en modo especial los padrinos», de suerte que los catecúmenos sientan «ya desde el principio, que pertenecen al Pueblo de Dios»; y como la vida de la Iglesia es apostólica, han de aprender también «a cooperar activamente en la evangelización» (AG §14). Ya vinculados a la Iglesia y «de la casa de Cristo», el Concilio pide que se exponga claramente «en el nuevo Código [...] el estado jurídico de los catecúmenos» (AG §14).
 
 ### Según el Comentario al CIC (Eunsa)
 
@@ -63,5 +67,6 @@ El catecumenado está intrínsecamente ordenado al [[bautismo]], primer sacramen
 
 - [CEC §§1247-1255]
 - [CIC cc. 788-789, 851-853]
+- ConcVatII, *Ad Gentes* §14 (definición conciliar del catecumenado)
 - [Comentario Exegético al CIC (Eunsa), vol. II/2, cc. 788-789]
 - [RICA (Ritual de Iniciación Cristiana de Adultos, 1972)]

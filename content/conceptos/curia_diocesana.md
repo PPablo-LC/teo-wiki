@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Curia diocesana
 tags: ["eclesiología"]
 
-timestamp: 2026-05-25
+timestamp: 2026-10-18
 description: "La curia diocesana consta de aquellos organismos y personas que colaboran con el Obispo en el gobierno de toda la diócesis, principalmente en la dirección de la actividad pastoral."
 ---
 # Curia diocesana
 
 > Área: Eclesiología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -25,6 +25,10 @@ Corresponde al Obispo diocesano nombrar a quienes desempeñan oficios en la curi
 
 Los cánones 469-494 regulan la curia diocesana. Consta de organismos y personas que colaboran con el Obispo en el gobierno (c. 469). El Obispo diocesano nombra a los oficiales de la curia (c. 470). Debe nombrar un Vicario general para ayudarle en el gobierno (c. 475), y puede nombrar Vicarios episcopales (c. 476). Debe haber un canciller que cuide de las actas y archivos (c. 482) y un archivo diocesano (c. 486) y archivo secreto (c. 489). Debe constituirse un consejo de asuntos económicos (c. 492) y nombrar un ecónomo (c. 494). Puede constituir un consejo episcopal (c. 473 §4) y nombrar un Moderador de la curia (c. 473 §2).
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Christus Dominus* §27 trata de la organización de la curia diocesana: «El cargo principal de la curia diocesana es el de vicario general. Pero siempre que lo requiera el régimen de las diócesis, el Obispo puede nombrar uno o más vicarios episcopales, que, en una parte determinada de la diócesis, o en cierta clase de asuntos, o con relación a los fieles de diverso rito, tienen de derecho la misma facultad que el derecho común confiere al vicario general». Entre los cooperadores en el régimen de la diócesis se cuentan «aquellos presbíteros que constituyen un senado o consejo, como el cabildo de la catedral, el grupo de consultores u otros consejos», instituciones que «hay que reformarlos, en cuanto sea necesario, para acomodarlos a las necesidades actuales». El decreto subraya que «los sacerdotes y seglares que pertenecen a la curia diocesana sepan que prestan su ayuda al ministerio pastoral del Obispo», y que la curia debe ser «un instrumento apto para el Obispo, no sólo en la administración de la diócesis, sino también en el ejercicio de las obras de apostolado» (CD §27).
+
 ## Distinciones importantes
 
 - Curia diocesana (gobierno de la diócesis) vs. Curia Romana (gobierno de la Iglesia universal)
@@ -38,3 +42,4 @@ Los cánones 469-494 regulan la curia diocesana. Consta de organismos y personas
 ## Referencias
 
 - CIC cc. 469-494
+- ConcVatII, *Christus Dominus* §27

@@ -30,11 +30,11 @@ Imagen y realidad con la que la Escritura y la tradición designan el **paso de 
 
 ## Relaciones doctrinales
 
-[[penitencia]], [[sacramento_de_penitencia]], [[gracia_santificante]], [[bautismo]], [[pecado_grave]], [[resurrección_de_cristo]], [[resurrección_de_la_carne]], [[conversión]], [[vida_sobrenatural]], [[esperanza]]
+[[penitencia]], [[sacramento_de_penitencia]], [[gracia_santificante]], [[bautismo]], [[pecado_mortal|pecado grave]], [[resurrección_de_cristo]], [[resurrección_de_la_carne]], [[conversión]], [[vida_sobrenatural]], [[esperanza]]
 
 ## Ver también
 
-[[penitencia]], [[sacramento_de_penitencia]], [[gracia_santificante]], [[bautismo]], [[pecado_grave]], [[resurrección_de_cristo]], [[resurrección_de_la_carne]], [[conversión]], [[esperanza]], [[vida_sobrenatural]]
+[[penitencia]], [[sacramento_de_penitencia]], [[gracia_santificante]], [[bautismo]], [[pecado_mortal|pecado grave]], [[resurrección_de_cristo]], [[resurrección_de_la_carne]], [[conversión]], [[esperanza]], [[vida_sobrenatural]]
 
 ## Referencias
 

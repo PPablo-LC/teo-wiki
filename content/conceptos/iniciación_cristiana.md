@@ -32,6 +32,8 @@ El CIC establece que los sacramentos del bautismo, de la confirmación y de la s
 
 *Sacrosanctum Concilium* 64-71 reforma los ritos de iniciación cristiana. Ordena la restauración del catecumenado de adultos en etapas (SC 64). El bautismo de adultos debe revisarse teniendo en cuenta el catecumenado (SC 66). El bautismo de niños debe adaptarse a su condición (SC 67). La confirmación debe revisarse para que aparezca más claramente su íntima relación con toda la iniciación cristiana (SC 71). SC 6 enseña que por el bautismo los hombres son injertados en el misterio pascual, y que la Iglesia nunca ha dejado de reunirse para celebrar la Eucaristía.
 
+El decreto *Ad Gentes* 14 describe la iniciación cristiana en el marco del catecumenado misionero: los catecúmenos, «liberados [...] por los Sacramentos de la iniciación cristiana del poder de las tinieblas, muertos, sepultados y resucitados con Cristo, reciben el Espíritu de hijos de adopción y asisten con todo el Pueblo de Dios al memorial de la muerte y de la resurrección del Señor». El Concilio desea que «la liturgia del tiempo cuaresmal y pascual se restaure de forma que prepare las almas de los catecúmenos para la celebración del misterio pascual en cuyas solemnidades se regeneran para Cristo por medio del bautismo», y que la iniciación «no deben procurarla solamente los catequistas y sacerdotes, sino toda la comunidad de los fieles, y en modo especial los padrinos» (AG 14).
+
 
 ### Según León XIV (L_XIV-ClerRom)
 

@@ -71,7 +71,7 @@ la [[educación]] y de la [[libertad_de_educación]].
 ## Relaciones doctrinales
 
 - [[evidencias]] [[corazón]] [[deseo]] [[experiencia_elemental]] [[felicidad]]
-- [[verdad]] [[belleza]] [[bien]] [[circunstancia]] [[educación]]
+- [[verdad]] [[belleza]] [[bondad]] [[circunstancia]] [[educación]]
 
 ## Ver también
 

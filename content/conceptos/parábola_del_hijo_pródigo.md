@@ -64,7 +64,7 @@ Benedicto XVI analiza la parábola del hijo pródigo / de los dos hermanos (Lc 1
 
 ## Relaciones doctrinales
 
-Se relaciona con [[misericordia_divina]], [[conversión]], [[penitencia]], [[sacramento_de_la_reconciliación]], [[perdón]], [[padre]], [[pecado]], [[arrepentimiento]]
+Se relaciona con [[misericordia_divina]], [[conversión]], [[penitencia]], [[sacramento_de_la_reconciliación]], [[perdón]], [[dios_padre]], [[pecado]], [[arrepentimiento]]
 
 ## Ver también
 

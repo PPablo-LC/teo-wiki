@@ -59,7 +59,7 @@ El Doctor de la verdad católica tiene por misión no sólo ampliar y profundiza
 - **Q.2 — Existencia de Dios** (3 a.): La existencia de [[dios]] no es evidente por sí misma al hombre, pero puede demostrarse por cinco vías (movimiento, causalidad eficiente, contingencia, grados de perfección, gobierno final).
 - **Q.3 — Simplicidad de Dios** (8 a.): [[dios]] es absolutamente [[simplicidad_divina|simple]], sin composición de partes; en Él se identifican esencia y existencia, potencia y acto, género y diferencia.
 - **Q.4 — Perfección de Dios** (3 a.): [[dios]] posee toda perfección; las perfecciones en las criaturas se encuentran en Él unitariamente.
-- **Q.5 — Bien en general** (6 a.): El [[bien]] es lo que todas las cosas apetecen; es trascendental y se identifica con el ser.
+- **Q.5 — Bien en general** (6 a.): El [[bondad|bien]] es lo que todas las cosas apetecen; es trascendental y se identifica con el ser.
 - **Q.6 — Bondad de Dios** (4 a.): [[dios]] es [[bondad_divina|sumamente bueno]]; su bondad no es por participación sino por esencia.
 - **Q.7 — Infinitud de Dios** (4 a.): [[dios]] es [[infinitud_de_dios|infinito]] en perfección; su infinitud se distingue de la materia informe.
 - **Q.8 — Omnipresencia de Dios** (4 a.): [[dios]] está [[omnipresencia|en todas partes]] por su poder, conocimiento y presencia.

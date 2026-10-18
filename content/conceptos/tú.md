@@ -37,7 +37,7 @@ extranjería» que se vuelve familiar cuando se intuye detrás de las cosas un
 El Misterio no se puede tratar como un objeto: exige el lenguaje del
 **diálogo**. Decir «Tú» al Misterio es la forma de la [[oración]] y de la
 [[religión|religiosidad]] auténtica. Sin el «Tú», el Misterio se degrada en
-abstracción ([[ateísmo_práctico]]).
+abstracción ([[ateísmo|ateísmo práctico]]).
 
 ### El «tú» y el yo
 
@@ -67,7 +67,7 @@ camino hacia el Misterio. La [[compañía]] es el lugar histórico donde el
 ## Relaciones doctrinales
 
 - [[encuentro]] [[misterio]] [[oración]] [[persona]] [[compañía]]
-- [[signo]] [[religión]] [[ateísmo_práctico]] [[comunión]] [[adoración]]
+- [[signo]] [[religión]] [[ateísmo|ateísmo práctico]] [[comunión]] [[adoración]]
 
 ## Ver también
 

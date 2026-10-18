@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Diócesis
 tags: ["derecho_canónico"]
 
-timestamp: 2026-05-26
-description: "La diócesis es una porción del pueblo de Dios cuyo cuidado pastoral se encomienda al Obispo con la cooperación del presbiterio, de manera que."
+timestamp: 2026-10-18
+description: "La diócesis es una porción del pueblo de Dios cuyo cuidado pastoral se encomienda al Obispo con la cooperación del presbiterio."
 ---
 # Diócesis
 
 > Área: Derecho Canónico
-> Última actualización: 2026-05-26
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -30,10 +30,13 @@ Toda diócesis debe dividirse en partes distintas o parroquias (c. 374 §1). Var
 
 Al Obispo diocesano compete en la diócesis toda la potestad ordinaria, propia e inmediata requerida para su función pastoral, excepto las causas reservadas a la autoridad suprema (c. 381 §1). El Obispo representa a la diócesis en todos los negocios jurídicos (c. 393).
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Christus Dominus* §11 define la diócesis: «una porción del Pueblo de Dios que se confía a un Obispo para que la apaciente con la cooperación del presbiterio, de forma que unida a su pastor y reunida por él en el Espíritu Santo por el Evangelio y la Eucaristía, constituye una Iglesia particular, en la que verdaderamente está y obra la Iglesia de Cristo, que es Una, Santa, Católica y Apostólica» (CD §11). El decreto exige revisar prudentemente los límites de las diócesis «según las exigencias del bien de las almas», dividiéndolas, uniéndolas o cambiando sus límites (CD §22), y recuerda que los obispos diocesanos ejercen en ellas «toda la potestad ordinaria, propia e inmediata que se requiere para el ejercicio de su oficio pastoral, salva en todo la potestad que, en virtud de su cargo, tiene el Romano Pontífice» (CD §8).
 
 ## Relaciones doctrinales
 
-La diócesis es la Iglesia particular, presidida por el [[obispo_diocesano]] asistido por su [[presbiterio]]. Se divide en [[parroquia]]s y se agrupa en provincias eclesiásticas. Su gobierno requiere la [[curia_diocesana]], el [[consejo_presbiteral]] y el [[colegio_de_consultores]].
+La diócesis es la Iglesia particular, presidida por el [[obispo_diocesano]] asistido por su [[presbiterio]]. Se divide en [[parroquia]]s y se agrupa en provincias eclesiásticas. Su gobierno requiere la [[curia_diocesana]], el [[consejo_presbiteral]], el [[consejo_pastoral]] y el [[colegio_de_consultores]].
 
 ## Ver también
 
@@ -43,3 +46,4 @@ La diócesis es la Iglesia particular, presidida por el [[obispo_diocesano]] asi
 
 - CIC cc. 368-374, 381, 393
 - CEC §833, §886
+- ConcVatII, *Christus Dominus* §§8, 11, 22

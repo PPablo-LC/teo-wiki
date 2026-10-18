@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Acción Católica
 tags: ["eclesiología", "apostolado_seglar"]
 
-timestamp: 2026-05-26
+timestamp: 2026-10-18
 description: "La Acción Católica es la participación organizada de los fieles laicos en el apostolado jerárquico de la Iglesia, bajo la guía de la autoridad eclesiástica."
 ---
 # Acción Católica
 
 > Área: Eclesiología / Apostolado seglar
-> Última actualización: 2026-05-26
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -28,6 +28,10 @@ El Catecismo no trata de la Acción Católica como institución particular, pero
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC reconoce el derecho de los fieles laicos a asociarse para fines apostólicos (c. 215) y regula las asociaciones de fieles en los cc. 298-329. Aunque no dedica un título específico a la Acción Católica, ésta se encuadra dentro de las asociaciones públicas de fieles que persiguen fines de apostolado (c. 301 §1). El Concilio Vaticano II, en el decreto *Apostolicam actuositatem*, reconoció la Acción Católica como una forma eminente de apostolado seglar.
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Apostolicam Actuositatem* §20 define la Acción Católica como «la cooperación de los laicos en el apostolado jerárquico», y precisa que las organizaciones que con ese título se constituyen se reconocen por la conjunción de cuatro notas: a) «el fin inmediato de estas organizaciones es el fin apostólico de la Iglesia, es decir, la evangelización y santificación de los hombres y la formación cristiana de sus conciencias»; b) «los laicos, cooperando, según su condición, con la jerarquía, ofrecen su experiencia y asumen la responsabilidad en la dirección de estas organizaciones»; c) «los laicos trabajan unidos, a la manera de un cuerpo orgánico, de forma que se manifieste mejor la comunidad de la Iglesia»; d) «los laicos [...] trabajan bajo la dirección superior de la misma jerarquía, que puede sancionar esta cooperación, incluso por un mandato explícito». «Las organizaciones en que, a juicio de la jerarquía, se hallan todas estas notas a la vez han de entenderse como Acción Católica, aunque por exigencias de lugares y pueblos tomen varias formas y nombres» (AA §20). El decreto recomienda «con todo encarecimiento» estas instituciones y exhorta a cooperar fraternalmente con las otras formas de apostolado (AA §21).
 
 ## Relaciones doctrinales
 
@@ -49,4 +53,4 @@ La Acción Católica se distingue de otras asociaciones piadosas o devocionales 
 
 - CEC §897-913
 - CIC cc. 215, 298-329
-- Concilio Vaticano II, Decreto *Apostolicam actuositatem*
+- ConcVatII, *Apostolicam Actuositatem* §20-21 (notas de la Acción Católica)

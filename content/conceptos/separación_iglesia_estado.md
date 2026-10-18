@@ -30,7 +30,7 @@ Principio de ordenamiento jurídico y político que distingue la **sociedad ecle
 
 ## Relaciones doctrinales
 
-[[laicismo]], [[libertad_religiosa]], [[autonomía_de_las_realidades_temporales]], [[doctrina_social_de_la_iglesia]], [[derecho_canónico]], [[laico]], [[compromiso_temporal_del_cristiano]], [[dignidad_humana]], [[cristianismo_y_política]], [[CIC]]
+[[laicismo]], [[libertad_religiosa]], [[autonomía_de_las_realidades_temporales]], [[doctrina_social_de_la_iglesia]], [[derecho_canónico]], [[laico]], [[compromiso_temporal_del_cristiano]], [[dignidad_humana]], [[cristianismo_y_política]], [[código_de_derecho_canónico|CIC]]
 
 ## Ver también
 

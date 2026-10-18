@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Celibato sacerdotal
 tags: ["ascética", "derecho_canónico"]
 
-timestamp: 2026-08-09
+timestamp: 2026-10-18
 description: "El celibato sacerdotal es la disciplina eclesiástica de la Iglesia latina por la cual los candidatos al presbiterado y al episcopado asumen libremente el estado de vida célibe y casto \"por el Reino..."
 ---
 # Celibato sacerdotal
 
 > Área: Ascética / Derecho Canónico
-> Última actualización: 2026-08-09
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -32,6 +32,12 @@ Royo Marín trata la castidad sacerdotal en TPCr Parte I (Ascética), dentro del
 ### Según el CIC
 
 Los cc. 277 y 1037 establecen la disciplina del celibato. El c. 277 §1 ordena que los clérigos están obligados a observar una continencia perfecta y perpetua por el Reino de los Cielos, y por tanto deben abrazar el celibato. El c. 1037 exige que el candidato al diaconado permanente (si es soltero) y al presbiterado dé testimonio público de su compromiso de celibato según el rito aprobado. La violación del celibato puede ser sancionada canónicamente.
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Optatam Totius* §10 dirige a los seminaristas una enseñanza específica sobre el celibato: «los alumnos que, según las leyes santas y firmes de su propio rito, siguen la venerable tradición del celibato sacerdotal, han de ser educados cuidadosamente para este estado, en que, renunciando a la sociedad conyugal por el reino de los cielos, se unen al Señor con amor indiviso y, muy de acuerdo con el Nuevo Testamento, dan testimonio de la resurrección en el siglo futuro, y consiguen de este modo una ayuda aptísima para ejercitar constantemente la perfecta caridad». El Concilio pide que los seminaristas «sientan íntimamente con cuanta gratitud han de abrazar ese estado no sólo como precepto de la ley eclesiástica, sino como un don precioso de Dios que han de alcanzar humildemente, al que han de esforzarse en corresponder libre y generosamente con el estímulo y la ayuda de la gracia del Espíritu Santo» (OT §10). Los seminaristas deben conocer «las obligaciones y la dignidad del matrimonio cristiano que simboliza el amor entre Cristo y la Iglesia», convenciéndose «sin embargo, de la mayor excelencia de la virginidad consagrada a Cristo» (OT §10). El Concilio avisa también de «los peligros que acechan su castidad, sobre todo en la sociedad de estos tiempos», y exhorta a integrar la renuncia del matrimonio de modo que el celibato procure «un dominio más profundo del alma y del cuerpo y una madurez más completa» (OT §10).
+
+*Presbyterorum Ordinis* §16 completa este cuadro: el celibato es «signo del amor pastoral» con el que los presbíteros se unen íntimamente a Cristo y a su Iglesia, y «la Iglesia latina y algunos ritos orientales [...] exigen este estado de vida» para quienes reciben la ordenación, mientras se reconoce que «el celibato [...] no es exigido por la naturaleza misma del sacerdocio» (PO §16).
 
 ### Según Juan Pablo II (PDV)
 
@@ -79,6 +85,7 @@ El celibato sacerdotal está íntimamente unido a la identidad del [[presbítero
 
 - [CEC §§1579-1580]
 - [CIC cc. 277, 1037]
+- [ConcVatII, Optatam Totius §10]
 - [TPCr, Parte I (castidad sacerdotal)]
 - [CapGral-2026, V Capítulo General (carisma legionario)]
 - [Concilio Vaticano II, Presbyterorum Ordinis 16]

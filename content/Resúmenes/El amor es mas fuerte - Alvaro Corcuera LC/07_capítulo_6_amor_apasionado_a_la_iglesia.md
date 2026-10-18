@@ -12,7 +12,7 @@ tags: ["resumen", "el amor es mas fuerte - alvaro corcuera lc"]
 
 ## Conceptos básicos referenciados
 
-[[iglesia]], [[cuerpo_místico]], [[amor_a_la_iglesia]], [[sacramento_universal_de_salvación]], [[papado]], [[magisterio]], [[eucaristía]], [[vocaciones]], [[unidad_de_la_iglesia]], [[caridad]], [[misericordia_de_dios]], [[maría]], [[juan_pablo_ii]], [[alvaro_corcuera]], [[espiritualidad_legionaria]]
+[[iglesia]], [[cuerpo_místico]], [[amor_a_la_iglesia]], [[iglesia_como_sacramento_universal_de_salvación]], [[papado]], [[magisterio]], [[eucaristía]], [[vocaciones]], [[unidad_de_la_iglesia]], [[caridad]], [[misericordia_de_dios]], [[maría]], [[juan_pablo_ii]], [[alvaro_corcuera]], [[espiritualidad_legionaria]]
 
 ## Contenido
 

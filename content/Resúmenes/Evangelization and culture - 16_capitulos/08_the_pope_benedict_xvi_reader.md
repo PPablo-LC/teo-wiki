@@ -14,7 +14,7 @@ tags: ["resumen", "evangelization and culture - 16 capitulos"]
 
 - [[oración]] — la oración como acto de escucha y disposición
 - [[voluntad_de_dios]] — centro de la vida de Benedicto XVI
-- [[ateísmo_práctico]] — creer en Dios de modo superficial y vivir «como si Dios no existiera» (*etsi Deus non daretur*)
+- [[ateísmo|ateísmo práctico]] — creer en Dios de modo superficial y vivir «como si Dios no existiera» (*etsi Deus non daretur*)
 - [[liturgia]] — la liturgia implica una relación real con Otro que se revela
 - [[lectio_divina]] — la «lectura santa» de la Sagrada Escritura, recomendada por Benedicto XVI
 - [[espiritualidad_benedictina]] — la práctica de la lectio divina

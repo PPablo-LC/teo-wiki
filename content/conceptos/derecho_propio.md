@@ -30,11 +30,11 @@ Conjunto de normas propias de cada **instituto de vida consagrada o sociedad de 
 
 ## Relaciones doctrinales
 
-[[vida_consagrada]], [[constituciones]], [[CIC]], [[carisma]], [[fundador]], [[obediencia]], [[capítulo_general]], [[derecho_canónico]], [[comunión_eclesial]], [[Santa_Sede]]
+[[vida_consagrada]], [[constituciones]], [[código_de_derecho_canónico|CIC]], [[carisma]], [[fundador]], [[obediencia]], [[capítulo_general]], [[derecho_canónico]], [[comunión_eclesial]], [[Santa_Sede]]
 
 ## Ver también
 
-[[vida_consagrada]], [[constituciones_legionarios_de_cristo]], [[CIC]], [[carisma]], [[capítulo_general]], [[obediencia]], [[voto_propio]], [[comunión_eclesial]], [[CLC-2020]], [[FRC-2019]]
+[[vida_consagrada]], [[constituciones_legionarios_de_cristo]], [[código_de_derecho_canónico|CIC]], [[carisma]], [[capítulo_general]], [[obediencia]], [[voto_propio]], [[comunión_eclesial]], [[CLC-2020]], [[FRC-2019]]
 
 ## Referencias
 

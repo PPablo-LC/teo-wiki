@@ -20,7 +20,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[humildad]] — la humildad necesaria para seguir a Jesús
 - [[gracia]] — la confianza en la gracia de Dios
 - [[amor]] — la perfección del amor
-- [[Padre]] — imitar al Padre celestial
+- [[padres_y_padre]] — imitar al Padre celestial
 - [[seguir]] — seguir a Jesús con desasimiento
 - [[crecimiento]] — el progreso en el amor
 - [[plenitud]] — la plenitud de Cristo
@@ -63,7 +63,7 @@ Quien quiera participar de la salvación que él aporta debe reconocerse pecador
 
 #### Perfección del amor
 
-La perfección a que son llamados los hijos de Dios es la del [[amor]]. En el pasaje de Lucas paralelo a *Mt 5,48*, en lugar de «perfecto» se lee «misericordioso» *Lc 6,36*. El cristiano debe guardarse del mal *Mt 5,29s*; pero para asemejarse a su [[Padre]] *Mt 5,45* *Ef 5,1s* debe al mismo tiempo preocuparse por el malo *Rom 5,8*, amarlo y «vencer el mal a fuerza de bien» *Rom 12,21* *1Pe 3,9*.
+La perfección a que son llamados los hijos de Dios es la del [[amor]]. En el pasaje de Lucas paralelo a *Mt 5,48*, en lugar de «perfecto» se lee «misericordioso» *Lc 6,36*. El cristiano debe guardarse del mal *Mt 5,29s*; pero para asemejarse a su [[padres_y_padre|Padre]] *Mt 5,45* *Ef 5,1s* debe al mismo tiempo preocuparse por el malo *Rom 5,8*, amarlo y «vencer el mal a fuerza de bien» *Rom 12,21* *1Pe 3,9*.
 
 #### Perfección y progreso
 

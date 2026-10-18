@@ -71,7 +71,7 @@ fuerza moral es inseparable de la educación al **[[encuentro]]** y de la
 ## Relaciones doctrinales
 
 - [[responsabilidad]] [[personalidad]] [[deseo]] [[razón]] [[misterio]]
-- [[sentimentalismo]] [[vocación]] [[libertad]] [[posesión]] [[bien]]
+- [[sentimentalismo]] [[vocación]] [[libertad]] [[posesión]] [[bondad]]
 - [[presencia_de_dios]] [[fuerza_moral]]
 
 ## Ver también

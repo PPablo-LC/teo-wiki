@@ -18,7 +18,7 @@ tags: ["resumen", "giussani", "realidad", "razón", "conocimiento"]
 - [[razón]] / [[factores_de_la_realidad]] / [[experiencia]]
 - [[certeza_moral]] / [[confianza]] / [[libertad]]
 - [[signo]] / [[misterio]] / [[satanás]] / [[cristo]]
-- [[misericordia]] / [[parábola_del_hijo_pródigo]] / [[padre]]
+- [[misericordia]] / [[parábola_del_hijo_pródigo]] / [[dios_padre]]
 
 ## Contenido
 

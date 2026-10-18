@@ -111,7 +111,7 @@ Elementos centrales en REG:
 - **La crítica como «grande bugia»**: «la critica […] è una grande bugia»;
   la sospecha sistemática hacia la autoridad destruye la posibilidad de
   educarse (17).
-- **La autoridad y el [[padre]]**: la cultura despótica «odia l'autorità e
+- **La autoridad y el [[padres_y_padre|padre]]**: la cultura despótica «odia l'autorità e
   il padre»; una sociedad que multiplica instrumentos «per mascherare la
   sua volontà di dominio totale» es tiránica, y el [[totalitarismo]]
   pretende ser la fuente de la verdad (17).

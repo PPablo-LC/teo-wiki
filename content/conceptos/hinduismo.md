@@ -45,7 +45,7 @@ Una perspectiva divergente pero complementaria ofrece el análisis del documenta
 
 ## Relaciones doctrinales
 
-- Se enmarca en [[religiones]], [[religiones_no_cristianas]], [[teología_de_las_religiones]] y [[diálogo_interreligioso]]
+- Se enmarca en [[religiones]], [[teología_de_las_religiones]] y [[diálogo_interreligioso]]
 - Se articula con [[semina_verbi]], [[nostra_aetate]], [[islam]], [[budismo]], [[judaísmo]]
 - Su contraste esencial es [[reencarnación]] vs. [[resurrección]]
 - Su difusión contemporánea se relaciona con [[nueva_era]], [[yoga]], [[ocultismo]], [[esoterismo]]

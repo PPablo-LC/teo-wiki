@@ -9,7 +9,7 @@ timestamp: 2026-09-23
 # Matrimonios mixtos
 
 > Área: Matrimonio / Derecho canónico / Ecumenismo
-> Última actualización: 2026-09-23
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -22,6 +22,12 @@ El CIC distingue dos situaciones: el **matrimonio mixto** propiamente dicho —e
 - **Disparidad de culto** (c. 1086): prohibición dirimente que se dispensa si concurren las condiciones anteriores; la pastoral recomienda mayor cuidado por la ausencia de sacramento y el mayor riesgo de indiferentismo; la celebración conjunta con un ministro no católico es posible con autorización (c. 1127 §3; ecumenismo de la vida doméstica).
 - **Dimensión espiritual**: el matrimonio mixto es llamada a la unidad en la diversidad: el partido católico vive su fe con mayor responsabilidad de testimonio; el diálogo ecuménico doméstico —rezar juntos, conocer la fe del otro, educar en la fe católica— puede ser camino de acercamiento de las Iglesias (Familiaris consortio 78-81).
 
+## Perspectivas por fuente
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+En las Iglesias orientales católicas, *Orientalium Ecclesiarum* §18 establece una norma propia para evitar la invalidez de los matrimonios entre orientales católicos y no católicos bautizados: «la forma canónica de la celebración de estos matrimonios les obligue sólo para la licitud, y baste para la validez la presencia del ministro sagrado, con tal que se guarden las otras normas requeridas por el derecho», procurando así «la firmeza y santidad conyugal y la paz doméstica». *Unitatis Redintegratio* §54, por su parte, exhorta a que en los matrimonios con partes de comunidades separadas se procure con diligencia pastoral «que no se exacerben las dificultades», y recomienda la oración por la conversión mutua.
+
 ## Distinciones importantes
 
 - **Matrimonio mixto** (bautizado no católico) ≠ **disparidad de culto** (no bautizado): el primero es sacramento; el segundo, no.
@@ -30,15 +36,15 @@ El CIC distingue dos situaciones: el **matrimonio mixto** propiamente dicho —e
 
 ## Relaciones doctrinales
 
-[[matrimonio]], [[sacramento_del_matrimonio]], [[dispensa]], [[ecumenismo]], [[fe]], [[unidad_de_la_iglesia]], [[forma_canónica]], [[familia]], [[CIC]], [[consentimiento_matrimonial]]
+[[matrimonio]], [[sacramento_del_matrimonio]], [[dispensa]], [[ecumenismo]], [[fe]], [[unidad_de_la_iglesia]], [[forma_canónica]], [[familia]], [[código_de_derecho_canónico|CIC]], [[consentimiento_matrimonial]]
 
 ## Ver también
 
-[[matrimonio]], [[sacramento_del_matrimonio]], [[dispensa]], [[ecumenismo]], [[matrimonio_mixto]], [[familia]], [[CIC]], [[consentimiento_matrimonial]], [[familiaris_consortio]]
+[[matrimonio]], [[sacramento_del_matrimonio]], [[dispensa]], [[ecumenismo]], [[matrimonio_mixto]], [[familia]], [[código_de_derecho_canónico|CIC]], [[consentimiento_matrimonial]], [[familiaris_consortio]]
 
 ## Referencias
 
 - CIC cc. 1086, 1124-1129; CCEC cc. 813, 846-849
 - CEC §1633-1637
-- Concilio Vaticano II, Unitatis redintegratio §54; Gaudium et spes §52
+- Concilio Vaticano II, Orientalium Ecclesiarum §18; Unitatis redintegratio §54; Gaudium et spes §52
 - Familiaris consortio §78-81; EMC (Tóth, cap. 4: peligros del matrimonio mixto)

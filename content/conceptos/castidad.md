@@ -69,6 +69,10 @@ Tóth insiste en que la castidad no es meramente negativa, sino que robustecen e
 
 Estas enseñanzas apuntan a la [[pureza]], al [[pudor]] y a la [[modestia]] como aliados de la [[castidad]].
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Perfectae Caritatis* §12 trata de la castidad religiosa: «La castidad "por el Reino de los cielos", que profesan los religiosos, debe ser estimada como un singular don de la gracia. Ella libera de modo especial el corazón del hombre para que se inflame más en el amor a Dios y a todos los hombres, y es, por lo mismo, signo peculiar de los bienes celestiales y medio aptísimo para que los religiosos se dediquen con alegría al servicio divino y a las obras de apostolado». El Concilio exhorta a confiar en la palabra del Señor «sin presumir de sus propias fuerzas», practicando «la mortificación y la guarda de los sentidos», y a no dejarse impresionar «por las falsas doctrinas, que presentan la continencia perfecta como imposible o como algo perjudicial al perfeccionamiento del hombre» (PC §12). Advierte que «no se presenten los candidatos a ella sino después de haber sido suficientemente probados y de haber logrado la debida madurez psicológica y afectiva», y que «abra[cen] el celibato consagrado a Dios incluso como un bien de toda la persona» (PC §12).
+
 ### Según la Summa Theologiae (SmTh)
 
 #### Q151: La castidad

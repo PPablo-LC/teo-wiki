@@ -17,7 +17,7 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 - [[sagrado_corazón_de_jesús]] — devoción y medalla que llevar al cuello
 - [[santo_rosario]] — rezar diariamente
 - [[avemaría]] — rezar tres antes de acostarse, prenda de salvación eterna
-- [[pecado_grave]] — no cometerlo nunca; confesión y contrición
+- [[pecado_mortal|pecado grave]] — no cometerlo nunca; confesión y contrición
 - [[contrición]] — acto de contrición perfecta
 - [[confesión]] y [[comunión]] — frecuentarlas
 - [[ejercicios_espirituales]] — hacerlos anualmente si se puede

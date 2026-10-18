@@ -18,7 +18,7 @@ tags: ["resumen", "doctrina_social", "acción_pastoral", "formación", "diálogo
 - [[formación_cristiana]] — Base de la acción social
 - [[diálogo_ecuménico]] — Colaboración entre comunidades cristianas
 - [[fieles_laicado]] — Vocación secular al servicio del Reino
-- [[espiritualidad_laical]] — Síntesis entre fe y vida
+- [[espiritualidad_seglar]] — Síntesis entre fe y vida
 - [[prudencia]] — Virtud de discernir el verdadero bien
 - [[compromiso_político]] — Servicio al bien común
 - [[laicidad]] — Distinción entre esfera política y religiosa

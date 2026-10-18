@@ -15,7 +15,7 @@ tags: ["resumen", "concilio vaticano ii", "laicos"]
 - [[apostolado_seglar]] — la actividad de los laicos destinada a la propagación del Reino de Cristo, que surge de su misma vocación cristiana y no puede faltar nunca en la Iglesia
 - [[laicos]] — cristianos seglares cuyo papel propio y enteramente necesario en la misión de la Iglesia es vivir en medio del mundo y ejercer su apostolado a manera de fermento
 - [[sacerdocio_común]] — los laicos, consagrados como «sacerdocio real y gente santa», obtienen por el bautismo y la confirmación el derecho y obligación del apostolado por su unión con Cristo Cabeza
-- [[espiritualidad_laical]] — vida de unión íntima con Cristo que nutre la fecundidad del apostolado seglar y toma su nota característica del estado de matrimonio, familia, soltería, viudez, enfermedad, actividad profesional y social
+- [[espiritualidad_seglar]] — vida de unión íntima con Cristo que nutre la fecundidad del apostolado seglar y toma su nota característica del estado de matrimonio, familia, soltería, viudez, enfermedad, actividad profesional y social
 - [[evangelización]] — apostolado de anunciar el mensaje de Cristo con palabras y obras y de comunicar su gracia, en el que los laicos son «cooperadores de la verdad»
 - [[acción_católica]] — cooperación de los laicos en el apostolado jerárquico, con unión con la jerarquía, en forma orgánica y bajo su dirección superior
 - [[familia]] — célula primera y vital de la sociedad, santuario doméstico de la Iglesia, cuyo apostolado tiene importancia trascendental tanto para la Iglesia como para la sociedad civil

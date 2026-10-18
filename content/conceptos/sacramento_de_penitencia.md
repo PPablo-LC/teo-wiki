@@ -31,11 +31,11 @@ Sacramento instituido por Cristo —«Recibid el Espíritu Santo: a quienes perd
 
 ## Relaciones doctrinales
 
-[[sacramento_de_la_reconciliación]], [[penitencia]], [[contrición]], [[confesión]], [[absolución]], [[sello_sacramental]], [[eucaristía]], [[gracia_santificante]], [[pecado_grave]], [[purgatorio]], [[conversión]]
+[[sacramento_de_la_reconciliación]], [[penitencia]], [[contrición]], [[confesión]], [[absolución]], [[sello_sacramental]], [[eucaristía]], [[gracia_santificante]], [[pecado_mortal|pecado grave]], [[purgatorio]], [[conversión]]
 
 ## Ver también
 
-[[sacramento_de_la_reconciliación]], [[contrición]], [[confesión]], [[absolución]], [[eucaristía]], [[pecado_grave]], [[conversión]], [[cura_de_almas]], [[penitencia]]
+[[sacramento_de_la_reconciliación]], [[contrición]], [[confesión]], [[absolución]], [[eucaristía]], [[pecado_mortal|pecado grave]], [[conversión]], [[cura_de_almas]], [[penitencia]]
 
 ## Referencias
 

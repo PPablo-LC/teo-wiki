@@ -19,7 +19,7 @@ tags: ["resumen", "concilio vaticano ii", "vida_consagrada"]
 - [[pobreza]] — pobreza voluntaria abrazada por el seguimiento de Cristo, signo muy estimado de participación en su pobreza
 - [[obediencia]] — ofrenda a Dios de la consagración completa de la propia voluntad, que une más constante y seguramente a la divina voluntad salvífica
 - [[vida_contemplativa]] — Institutos destinados por entero a la contemplación, que se dedican a Dios en la soledad, el silencio, la oración asidua y la penitencia
-- [[institutos_seculares]] — Institutos que, sin ser religiosos, realizan en el mundo una verdadera y completa profesión de los consejos evangélicos, conservando su fisonomía secular
+- [[instituto_secular]] — Institutos que, sin ser religiosos, realizan en el mundo una verdadera y completa profesión de los consejos evangélicos, conservando su fisonomía secular
 
 ## PROEMIO
 

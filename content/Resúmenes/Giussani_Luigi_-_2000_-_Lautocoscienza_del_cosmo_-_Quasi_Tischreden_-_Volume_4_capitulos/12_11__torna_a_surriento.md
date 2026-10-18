@@ -13,7 +13,7 @@ tags: ["resumen", "giussani", "melancolía", "oración", "sentido_religioso"]
 ## Conceptos básicos referenciados
 
 - [[conocimiento]] / [[amor]] / [[tú]] / [[heinrich_schlier]]
-- [[dios]] / [[misterio]] / [[ateísmo_práctico]]
+- [[dios]] / [[misterio]] / [[ateísmo|ateísmo práctico]]
 - [[creación]] / [[signo]] / [[naturaleza]]
 - [[sentido_religioso]] / [[melancolía]] / [[promesa]] / [[presencia]] / [[budismo]]
 - [[oración]] / [[existencia_de_dios]] / [[ídolos]] / [[gratitud]]

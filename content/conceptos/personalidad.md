@@ -71,7 +71,7 @@ la formación de la personalidad sea el fin propio de la educación.
 ## Relaciones doctrinales
 
 - [[persona]] [[egoísmo]] [[posesión]] [[amor]] [[comunión]]
-- [[fuerza_moral]] [[comunicación_de_sí]] [[libertad]] [[bien]]
+- [[fuerza_moral]] [[comunicación_de_sí]] [[libertad]] [[bondad]]
 
 ## Ver también
 

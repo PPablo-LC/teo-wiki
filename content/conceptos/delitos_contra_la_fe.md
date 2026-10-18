@@ -34,7 +34,7 @@ En el derecho penal canónico, los **graviora delicta** contra la virtud de la f
 
 ## Ver también
 
-[[delitos_canónicos]], [[apostasía]], [[herejía]], [[cisma]], [[excomunión]], [[fe]], [[unidad_de_la_iglesia]], [[magisterio]], [[SST]], [[SST-2010]], [[delitos_contra_la_moral]]
+[[delitos_canónicos]], [[apostasía]], [[herejía]], [[cisma]], [[excomunión]], [[fe]], [[unidad_de_la_iglesia]], [[magisterio]], [[sacramentorum_sanctitatis_tutela|SST]], [[normae_de_gravioribus_delictis|SST-2010]], [[delitos_contra_la_moral]]
 
 ## Referencias
 

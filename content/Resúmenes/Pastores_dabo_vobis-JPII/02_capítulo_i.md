@@ -15,7 +15,7 @@ tags: ["resumen", "pastores dabo vobis"]
 - [[humanidad_del_sacerdote|humanidad del ministro de Dios]] — «tomado de entre los hombres» (Heb 5, 1)
 - [[discernimiento_evangélico|discernimiento evangélico]] — interpretación de la situación a la luz del Evangelio
 - [[sociedad_de_consumo|sociedad de consumo]] — obstáculo para las vocaciones juveniles
-- [[ateísmo_práctico|ateísmo práctico y existencial]] — visión secularizada de la vida
+- [[ateísmo|ateísmo práctico y existencial]] — visión secularizada de la vida
 - [[concepción_subjetiva_de_la_fe|concepción subjetiva de la fe]] — adhesión subjetiva a lo que agrada
 
 ## Contenido

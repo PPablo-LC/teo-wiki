@@ -34,11 +34,11 @@ Promesas **públicas, solemnes o simples**, hechas legítimamente a Dios por med
 
 ## Relaciones doctrinales
 
-[[voto_de_pobreza]], [[voto_de_castidad]], [[voto_de_obediencia]], [[vida_consagrada]], [[CIC]], [[obediencia]], [[pobreza]], [[castidad]], [[seguimiento_de_cristo]], [[estado_de_perfección]], [[consejos_evangélicos]]
+[[voto_de_pobreza]], [[voto_de_castidad]], [[voto_de_obediencia]], [[vida_consagrada]], [[código_de_derecho_canónico|CIC]], [[obediencia]], [[pobreza]], [[castidad]], [[seguimiento_de_cristo]], [[estado_de_perfección]], [[consejos_evangélicos]]
 
 ## Ver también
 
-[[voto_de_pobreza]], [[voto_de_castidad]], [[voto_de_obediencia]], [[vida_consagrada]], [[consejos_evangélicos]], [[votos_temporales]], [[noviciado]], [[CIC]], [[obediencia]], [[pobreza]]
+[[voto_de_pobreza]], [[voto_de_castidad]], [[voto_de_obediencia]], [[vida_consagrada]], [[consejos_evangélicos]], [[votos_temporales]], [[noviciado]], [[código_de_derecho_canónico|CIC]], [[obediencia]], [[pobreza]]
 
 ## Referencias
 
