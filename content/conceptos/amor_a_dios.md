@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Amor a Dios
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-06-23
+timestamp: 2026-10-18
 description: "Virtud teologal de la caridad por la cual se ama a Dios sobre todas las cosas por ser Él infinitamente bueno y digno de amor, y que constituye el primero y más grande mandamiento de la Ley divina."
 ---
 # Amor a Dios
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-23
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -81,6 +81,14 @@ Juan Pablo I, en su audiencia general del 27 de septiembre de 1978, desarrolló 
 
 El amor a Dios se manifiesta también en el amor a la [[iglesia]], que es madre y maestra. Así como se ama a una madre enferma con más ímpetu, así debe amarse a la Iglesia aun con sus defectos. La caridad, en la enseñanza de Juan Pablo I, no es un sentimiento vago, sino la respuesta concreta y total al amor primero de Dios.
 
+### Según Robert Barron (LGH)
+
+En la homilía *Love God, Not His Benefits* (25.º domingo del Tiempo Ordinario, Mt 20,1-16), Barron convierte la distinción tomista —Dios debe ser amado por sí mismo, no por los beneficios— en la clave de la vida espiritual: «gran parte de la vida espiritual pende de esta distinción» (san Juan de la Cruz).
+
+- **Amar a Dios vs. amar sus beneficios.** «No enamórate de los beneficios de Dios; enamórate de la voluntad de Dios». Ver a Dios como proveedor —medir la fe por los resultados, consolaciones o éxitos— es inmadurez espiritual: se ama al don en lugar del Donador. Fórmula antropológica de cierre: «no es mi vida, es del Señor; pertenezco al Señor»; «nuestras vidas no son sobre nosotros» ([[pertenencia]]).
+- **Las consolaciones como beneficios iniciales.** Dios da primero beneficios —consolaciones al estilo de san Ignacio— para atraer, y los retira después no por crueldad sino para purificar el amor: el alma ha de pasar de amar lo que Dios da a amar a Dios mismo (ver [[consolación_espiritual]], [[noche_oscura]], [[vía_purgativa]]).
+- **Estructuras explicativas fijadas** (ver skill `transcripciones`): el anillo de la Serie Mundial —quien va por el fin no regatea honores—; el cono de helado de la Little League —«no era el premio, era el logro»—; «no mires alrededor; mira hacia arriba» —el remedio a la comparación envidiosa—; la madre que ama más al hijo que más necesita en cada momento —la gracia de Dios proporcional a la necesidad, no a la productividad (ver [[parábola_de_los_trabajadores_de_la_viña]], [[gratuidad]]).
+
 ## Distinciones importantes
 
 - **Amor de Dios por sí mismo (caridad) vs. amor interesado**: la caridad teologal ama a Dios por su infinita bondad, no por utilidad propia
@@ -97,6 +105,8 @@ Se relaciona con [[caridad]], [[amor_al_prójimo]], [[perfección_cristiana]], [
 [[amistad_con_dios]], [[amor_al_prójimo]], [[caridad]], [[mandamientos]]
 
 ## Referencias
+
+- LGH, ready_for_llm/Love God—Not His Benefits.formatted.txt (homilía de Mgs. Robert Barron, 25.º domingo del Tiempo Ordinario)
 
 - [CEC §1822-1829, §2055, §2083, §2093-2094]
 - [TPCr, Tercera Parte, Libro II]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ira
 tags: ["moral", "ascética"]
 
-timestamp: 2026-06-12
+timestamp: 2026-10-18
 description: "La ira es una pasión del apetito irascible que inclina a rechazar con violencia el mal que se presenta como difícil o doloroso."
 ---
 # Ira
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-12
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -66,6 +66,10 @@ La represión de la ira desordenada es un efecto del don de temor, que actúa so
 
 [VocTeoBib, «Ira»] La ira de Dios es un misterio ligado a su santidad y a su amor: «tardo a la ira y rico en misericordia» (Ex 34,6). En el AT, la ira divina se manifiesta como castigo del pecado, pero con intención educativa y llamada a la conversión; Dios domina su pasión y su misericordia triunfa finalmente (Os 11,9; Is 54,7s). En el NT, Jesús revela la ira divina contra el pecado, pero la obra redentora de Cristo nos libera de la ira venidera (1Tes 1,10). La Iglesia vive entre el tiempo de la gracia y la espera del día de la ira definitiva (Ap 6,16-17).
 
+### Según el Augustine Institute (SJC)
+
+El episodio sobre san José de Cupertino aplica la definición tomista de la ira a la psicología del iracundo: la ira «suele fomentarse por el sentimiento de propia baja estima» — el que se siente de poca estima estalla cuando percibe menosprecio (cf. SmTh q.47 a.2-4). San José, de carácter colérico, tuvo que luchar toda su vida contra ello, y el episodio lo lee como **«divino proyecto»**: Dios no espera la eliminación previa del defecto, sino que usa las debilidades y humillaciones para refinar al santo (1 Cor 1,26-29), de modo que la lucha misma contra la ira —aceptada, no negada— se convierte en materia de humildad y de [[minoridad_franciscana]] (ver [[humildad]]).
+
 ## Distinciones importantes
 
 - Ira pasional: movimiento natural del apetito irascible (no pecaminoso en sí)
@@ -90,3 +94,4 @@ Se relaciona con las [[pasiones]], la [[mansedumbre]] (virtud opuesta), la [[pac
 - [TPCr, Tercera Parte, Libro II, Cap. II]
 - SmTh Ia-IIae q.46-48
 - SmTh IIIª q.15 a.9
+- [SJC, podcast «San José de Cupertino», Augustine Institute, 2026]

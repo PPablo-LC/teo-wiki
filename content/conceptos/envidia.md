@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Envidia
 tags: ["moral"]
 
-timestamp: 2026-06-10
+timestamp: 2026-10-18
 description: "La envidia es un pecado capital que consiste en la tristeza experimentada ante el bien del prójimo y el deseo desordenado de poseerlo, incluso de forma indebida."
 ---
 # Envidia
 
 > Área: Moral
-> Última actualización: 2026-06-10
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -49,6 +49,10 @@ Royo Marín trata la envidia entre los pecados opuestos a la caridad (n.367): «
 
 [TPCr, Tercera Parte, Libro II, Cap. 2 (n.367)]
 
+### Según Robert Barron (LGH)
+
+En la homilía *Love God, Not His Benefits* (Mt 20,1-16), la envidia es el pecado que hace sonar injusta la generosidad de Dios: la queja de los primeros trabajadores no constata una injusticia —reciben lo prometido—, sino que *envidia* que el dueño sea generoso con los últimos («¿envidias porque soy generoso?», Mt 20,15). Estructura diagnóstica: la envidia nace de la **mirada comparativa**, de mirar al prójimo en vez del fin — «no mires alrededor; mira hacia arriba». Quien mantiene la mirada puesta en Dios como fin no calcula lo que otros reciben; el cálculo comparativo es síntoma de haber dejado de mirar al Amador (ver [[mirada]], [[parábola_de_los_trabajadores_de_la_viña]], [[amor_a_dios]]).
+
 ## Distinciones importantes
 
 - **Envidia vs. celos**: los celos pueden ser el temor de perder un bien propio; la envidia es tristeza por el bien ajeno.
@@ -73,3 +77,4 @@ León XIV dedica una atención especial a la *invidia clericalis* —la envidia 
 - [L_XIV-ClerRom, 19.02.2026]
 - [TPCr, Tercera Parte, Libro II, Cap. 2 (n.367)]
 - [SmTh Ia-IIae q.36 a.1; II-II q.36]
+- [LGH, ready_for_llm/Love God—Not His Benefits.formatted.txt (homilía de Mgs. Robert Barron)]

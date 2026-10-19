@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Mirada"
 description: "La mirada como umbral de la verdad interior: el acto cognoscitivo fijado en la mirada revela el corazón del hombre; el estupor ante la presencia según Giussani."
 tags: ["teología_del_cuerpo", "moral", "teología_fundamental"]
-timestamp: 2026-09-12
+timestamp: 2026-10-18
 ---
 
 # Mirada
 
 > Área: Teología del cuerpo / Moral
-> Última actualización: 2026-09-12
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -59,6 +59,10 @@ Royo Marín distingue las «miradas peligrosas» (que provocan la tentación) de
 
 En *Attraverso la compagnia dei credenti*, Giussani señala la potencia de una mirada amiga para arrancar al hombre del vacío: «Chi non desidererebbe essere raggiunto da uno sguardo così amico che lo strappa dal nulla?» (TACDC, 00_preliminares.md, l. 10). Esta «mirada amiga» es la que nace del encuentro con Cristo y se hace presente en la compagnia de los creyentes, capaz de disputar al hombre a la nada que lo oprime. 
 
+### Según Robert Barron (LGH)
+
+Estructura explicativa fijada de la homilía *Love God, Not His Benefits* (Mt 20,1-16): **«no mires alrededor; mira hacia arriba»**. La mirada «alrededor» es la comparación con el prójimo — quién recibe más, quién merece más — que alimenta la queja y la [[envidia]] (la queja de los trabajadores de la viña). La mirada «hacia arriba» es la orientación al fin: mantener la vista puesta en Dios, que es el que da y al que se sirve, hace superflu el cálculo comparativo. La homilía lo acompaña con la imagen de la madre que ama más al hijo que más necesita en cada momento: Dios, que ve el interior y el exterior, dosifica su gracia según la necesidad, no según la comparación visible (ver [[parábola_de_los_trabajadores_de_la_viña]], [[gratuidad]], [[amor_a_dios]]).
+
 ## Distinciones importantes
 
 - **Mirada pura ≠ mirada ciega**: ver la belleza del otro no es pecado; reducirla a objeto de uso sí lo es.
@@ -89,3 +93,4 @@ En *Attraverso la compagnia dei credenti*, Giussani señala la potencia de una m
 - [TdC, Catequesis 13 — La paz de la mirada interior (antes de la caída)]
 - [VS §§45-46 — La mirada fija en Dios]
 - [TPCr, Parte III, Trat. VIII — De las miradas peligrosas y pecaminosas]
+- [LGH, ready_for_llm/Love God—Not His Benefits.formatted.txt (homilía de Mgs. Robert Barron)]

@@ -6,13 +6,13 @@ tags:
   - espiritualidad
   - discernimiento
   - desolación
-timestamp: "2026-09-02"
+timestamp: "2026-10-18"
 ---
 
 # Consolación espiritual
 
 > Área: Espiritualidad / Ascética
-> Última actualización: 2026-09-02
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -27,6 +27,14 @@ La consolación se distingue de la alegría puramente sensible: es fruto de la p
 ### Según Evangelization & Culture n.º 15 «Suffering» (EAC-15), archivo 22 (Leonard Andrie, *Lessons from Elijah*)
 
 Andrie describe la desolación del profeta [[elías]] tras el Monte Carmelo (1 Re 19,4): desánimo, agotamiento y deseo de morir; es, en el término espiritual de San Ignacio, una **desolación**. Dios responde a la necesidad física y la alimenta (el ángel y la torta y el jarro de agua, 1 Re 19,5-8), y luego se revela en la «voz mansa y suave» (1 Re 19,12), frente al viento, terremoto y fuego. El silencio es necesario para la gracia (San Maximiliano Kolbe). El profeta, consolado, «vuelve a la misión»: Dios no llama al éxito sino a la fidelidad (Madre Teresa).
+
+### Según Robert Barron (LGH)
+
+En la homilía *Love God, Not His Benefits*, las consolaciones entran como «beneficios iniciales» de Dios en la dinámica purgativa:
+
+- **Consolaciones como atractivo inicial.** Dios comienza la relación concediendo beneficios —luces, gozos, fervores al modo ignaciano— que atraen al alma; el error es instalarse en ellos y amar los beneficios en vez de amar a Dios mismo (ver [[amor_a_dios]]).
+- **La retirada como purificación del amor.** «Dios retira sus beneficios no por crueldad sino para purificar el amor»: cuando desaparecen los dones sensibles, el alma ha de sostenerse en la voluntad de Dios sola — el paso de amar lo que Dios da a amar a Dios tal como es. La sequedad, lejos de ser abandono, es el medio con que Dios lleva al alma a la madurez (ver [[noche_oscura]], [[vía_purgativa]]).
+- **Lectura desde la parábola.** La misma lógica que en Mt 20,1-16: el trabajador de la hora undécima recibe lo mismo sin haber gustado nada antes; la gracia no compensa proporcionalmente los «méritos» de consolación (ver [[parábola_de_los_trabajadores_de_la_viña]], [[gratuidad]]).
 
 ## Distinciones importantes
 
@@ -43,9 +51,10 @@ Andrie describe la desolación del profeta [[elías]] tras el Monte Carmelo (1 R
 
 ## Ver también
 
-[[desolación_espiritual]], [[discernimiento_de_espíritus]], [[silencio]], [[oración]]
+[[desolación_espiritual]], [[discernimiento_de_espíritus]], [[silencio]], [[oración]], [[noche_oscura]], [[amor_a_dios]], [[parábola_de_los_trabajadores_de_la_viña]]
 
 ## Referencias
 
 - EAC-15, archivo 22 (Leonard Andrie), *Lessons from Elijah*
 - 1 Re 19,4-18
+- [LGH, ready_for_llm/Love God—Not His Benefits.formatted.txt (homilía de Mgs. Robert Barron)]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Éxtasis
 tags: ["mística"]
 
-timestamp: 2026-06-06
+timestamp: 2026-10-18
 description: "Fenómeno místico de orden predominantemente afectivo, aunque con repercusión psico-fisiológica."
 ---
 # Éxtasis
 
 > Área: Mística
-> Última actualización: 2026-06-06
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -37,6 +37,11 @@ El éxtasis está íntimamente relacionado con los incendios de amor, pues la le
 
 Royo Marín trata el éxtasis largamente en el lugar que le corresponde (n. 573ss) y lo retoma en la Cuarta Parte al estudiar los fenómenos de orden afectivo. Sigue a Santa Teresa (Moradas sextas c.4-6) y advierte que no debe confundirse con las gracias gratis dadas.
 
+### Según el Augustine Institute (SJC)
+
+- **Teología del éxtasis.** Estructura explicativa del episodio: en el éxtasis «Dios captura el intelecto y la voluntad y fascina la imaginación»; Dios se hace «el centro de la atención» del alma, que sale de sí porque todo su ser es atraído. Compatibilidad con los santos: santa Catalina de Siena cae sin sentido tras la comunión; san Francisco queda insensible a los estímulos externos.
+- **San José de Cupertino.** Éxtasis desde los ocho años, tan frecuentes que le granjearon el apodo burlesco de «boquiabierto» y fueron motivo de rechazo por los Capuchinos («caía en éxtasis con demasiada frecuencia»). Detonantes: la mención del [[santísimo_nombre_de_jesús]], de Jesús, de María, de otros santos y hasta los villancicos de Navidad — a veces en la calle o en conversación, con lo que dificultaba la vida en comunidad (ver [[levitación]]). Véase también [[minoridad_franciscana]]: los dones conviven con una alma que no se atribuye nada (1 Cor 1,26-29).
+
 ## Distinciones importantes
 
 - El éxtasis no es gracia gratis dada, sino epifenómeno normal del desarrollo de la gracia.
@@ -57,3 +62,4 @@ Royo Marín trata el éxtasis largamente en el lugar que le corresponde (n. 573s
 - TPCr, Tercera Parte (n. 573ss)
 - SANTA TERESA, Moradas sextas c.4-6
 - [SmTh Ia-IIae q.28 a.3]
+- [SJC, podcast «San José de Cupertino», Augustine Institute, 2026]

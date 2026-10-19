@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Humildad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-18
 description: "La humildad es la virtud fundamental que cohibe el apetito desordenado de excelencia; hacerse como niños ante la realidad y ante el Misterio según Giussani."
 ---
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -232,6 +232,14 @@ El P. Álvaro Corcuera presenta la humildad como **columna fundamental de la vid
 
 **La humildad ante el Misterio (cap. XIV).** La posición del hombre ante el Misterio es «vertiginosa»: postrado como esclavo a la mirada del Señor (Sal 123,2). Reconocer la propia pequeñez —frente a los *idólatras* que pretenden capturar a Dios— es la raíz de la sabiduría (SR, `21_capitolo_quattordicesimo.md`, §46-58, 101-115).
 
+### Según el Augustine Institute (SJC)
+
+En el episodio sobre san José de Cupertino, la humildad aparece como fruto del rechazo aceptado y de la minoridad:
+
+- **El rechazo como purificación.** José fue rechazado dos veces (por falta de educación; por caer en éxtasis con demasiada frecuencia) y aceptó «no ser franciscano»: «se conformó con no ser franciscano, y eso fue lo que lo hizo humilde bastante para ser franciscano». La vocación se purifica en la renuncia: perseverar sin imponerse es ya humildad operativa.
+- **Estructura explicativa del «divino proyecto».** El episodio invita a reconocer las propias dificultades, humillaciones y tropiezos como *dones* con que Dios refina al santo: sus defectos (temperamento iracundo, falta de formación) son materia prima de la gracia; 1 Cor 1,26-29 («Dios ha escogido lo necio, lo débil, lo despreciado») y el Magnificat («levantó a los humildes») como claves. Humildad no es eliminar la debilidad, sino dejar que Dios trabaje con ella.
+- **Humildad como ligereza («levity»).** No tomarse en serio a uno mismo es «el modo en que volamos a Dios» (Chesterton): la humildad franciscana es alegre, no afligida, y su forma es la [[minoridad_franciscana]]; se expresa también en soportar el ridículo sin rencor (ver [[necedad_evangelica]]).
+
 ## Ver también
 [[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]], [[humor]], [[san_felipe_neri]], [[g_k_chesterton]]
 
@@ -249,3 +257,4 @@ El P. Álvaro Corcuera presenta la humildad como **columna fundamental de la vid
 - [SFrAs, RGl II.10 — Humildad en la vida religiosa]
 - [SFrAs, CFr. 25 — Humildad de Cristo en la Eucaristía]
 - [EAC-20, 23_soul.md (Gadberry), 11_minds.md (Scully)]
+- [SJC, podcast «San José de Cupertino», Augustine Institute, 2026]

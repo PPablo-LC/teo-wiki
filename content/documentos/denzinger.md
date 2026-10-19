@@ -9,7 +9,7 @@ timestamp: 2026-09-03
 # Enchiridion Symbolorum — Denzinger-Hünermann
 
 > Área: Documentos
-> Última actualización: 2026-09-03
+> Última actualización: 2026-10-18
 
 ## Identificación
 
@@ -17,7 +17,7 @@ timestamp: 2026-09-03
 - **Compilador original**: Heinrich Joseph Denzinger (1819–1883)
 - **Continuador**: Adolf Schönmetzer / Peter Hünermann (eds. críticas modernas)
 - **Edición de referencia**: Edición bilingüe latín-español (BAC / Herder)
-- **Código**: — (fuente primaria transversal)
+- **Código**: Denz (fuente primaria transversal)
 - **Estructura**: 114 capítulos cronológicos, desde los Símbolos apostólicos (s. II) hasta el Magisterio pontificio del siglo XX
 
 ## Estructura general (por períodos)

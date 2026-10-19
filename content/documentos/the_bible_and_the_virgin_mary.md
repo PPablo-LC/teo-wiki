@@ -12,7 +12,7 @@ tags:
 ---
 
 > Área: Mariología bíblica / Teología bíblica
-> Última actualización: 2026-08-03
+> Última actualización: 2026-10-18
 
 ## Definición
 
@@ -90,6 +90,21 @@ Scott Hahn presenta una mariología arraigada en la exégesis bíblica tipológi
 - [[justino_mártir]]
 - [[san_juan_de_damasco]]
 - [[luis_maría_grignion_de_montfort]]
+
+## Resúmenes
+
+- [[01_introducción_bíblica_a_maría]] — Introducción Bíblica a María
+- [[02_la_esclava_del_señor]] — La esclava del Señor
+- [[03_bodas_de_caná_y_jardín_del_édén]] — Bodas de Caná — Jardín del Edén
+- [[04_la_nueva_eva]] — La Nueva Eva
+- [[05_el_arca_de_la_nueva_alianza]] — El Arca de la Nueva Alianza
+- [[06_nació_de_una_virgen]] — Nació de una Virgen
+- [[07_la_madre_prometida]] — La Madre prometida
+- [[08_madre_coronada_de_gloria]] — Madre coronada de Gloria
+- [[09_llena_de_gracia]] — Llena de Gracia
+- [[10_santísima]] — Santísima
+- [[11_asunción]] — Asunción
+- [[12_siempre_una_madre]] — Siempre una Madre
 
 ## Referencias
 
