@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Adulterio
 tags: ["moral"]
-timestamp: 2026-06-28
+timestamp: 2026-10-19
 description: "El adulterio es la relación sexual entre una persona casada y otra que no es su cónyuge. Constituye una violación grave de la fidelidad conyugal y del sexto mandamiento."
 ---
 
 # Adulterio
 
 > Área: Moral
-> Última actualización: 2026-06-28
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -32,6 +32,37 @@ Santo Tomás trata el adulterio en SmTh II-II q.154, aa.1-6, dentro de las parte
 ### Según Juan Pablo II (Teología del Cuerpo)
 
 Juan Pablo II dedica extensas catequesis al adulterio en su Teología del Cuerpo (catequesis 30-48). Analiza el «No cometerás adulterio» a la luz de la creación del hombre como varón y mujer, el significado esponsal del cuerpo y la lucha contra la concupiscencia. Cristo denuncia el adulterio del corazón: la mirada concupiscente reduce a la persona a objeto sexual, falsificando el signo de la alianza conyugal.
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+Sicari presenta el sexto mandamiento como «el más conocido» y hoy «el más
+banalizado y ridiculizado», y elige explicarlo a los hijos desde su
+prescripción central: no cometer adulterio. Lo hace mostrando que en esto los
+jóvenes están radicalmente de acuerdo: no es justo que el padre, tras años de
+matrimonio, diga a la madre que ya no quiere saber nada de ella porque se ha
+enamorado de otra; ni que la madre haga lo mismo con el padre; ni que se
+traicionen en «episodios conyugales» ocasionales.
+
+Y añade una razón que toca la condición filial: los hijos son, «en su propia
+persona», la **indisolubilidad** y la **fidelidad** del matrimonio de sus
+padres; aun cuando estos se separen, ellos son —con su cuerpo, su alma, su
+afecto por ambos, su necesidad— testigos vivos de que aquel vínculo no debía
+romperse. El mandamiento no se aplica solo cuando el matrimonio naufraga:
+ordena plantear toda la vida conyugal de modo que el vínculo se robustezca
+(en esto el sexto se une al quinto) y observarlo desde el primer día.
+
+De ahí la extensión al «no cometer actos impuros», con una definición que
+cita: acto impuro es todo acto en que el cuerpo —propio (masturbación, falta
+de pudor, uso malsano de la inteligencia y la fantasía) o ajeno (curiosidad
+morbosa, toda forma de manipulación o de intimidad física prematura)— «se usa
+no para expresar el don total de la persona masculina a la femenina (y
+viceversa) en la entrega total del matrimonio, sino para sacar del cuerpo
+mismo algún placer, disociando el cuerpo de la persona que en él se expresa».
+La impureza, concluye, es más vasta de lo que parece: abarca pensamientos,
+palabras y actitudes que acostumbran a considerar al otro como objeto o
+instrumento para la propia satisfacción ([[impureza]], [[castidad]],
+[[indisolubilidad_del_matrimonio]]).
+
 
 ## Distinciones importantes
 

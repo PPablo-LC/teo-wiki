@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gula
 tags: ["moral"]
 
-timestamp: 2026-06-11
+timestamp: 2026-10-19
 description: "La gula es el apetito desordenado del comer y beber, buscando los placeres del gusto más allá de lo que exige la razón y la necesidad de conservación del individuo."
 ---
 # Gula
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -49,6 +49,18 @@ La gula produce embotamiento del sentido espiritual (a diferencia de la lujuria 
 
 **Inocencio XI** (1679, D‑1158) condenó la proposición: «Comer y beber hasta hartarse, por el solo placer, no es pecado, con tal de que no dañe a la salud; porque lícitamente puede el apetito natural gozar de sus actos.» Condenada como escandalosa. La condena reafirma que el apetito natural debe regirse por la razón y la ley moral, no por el mero deleite sensible; el exceso en la comida y bebida, aunque no dañe la salud, puede ser pecado por la desordenada búsqueda del placer.
 
+### Según Instituciones cenobíticas — Juan Casiano (IC)
+
+Para Casiano la gula es el **primer combate** del monje y la puerta por la que se filtran los demás vicios: «la gula es la antesala de la lujuria» y abre el camino a los ocho principales vicios, que él enumera en orden sucesivo de combate (Libro V, c. I; archivo `16_capitulo.md`, líneas 1-32).
+
+Casiano insiste en que **no todos pueden guardar una regla uniforme de ayuno**: la disciplina debe adaptarse a las fuerzas de cada uno y a la diversidad de costumbres entre monasterios, siguiendo el criterio de los ancianos (c. II, líneas 33-54). El fin último del ayuno no es la cuantía de los alimentos, sino la **abstinencia perfecta**: moderar la cantidad y la calidad de los manjares con vista a la pureza del corazón (c. III, líneas 55-72).
+
+Su aportación específica es la doctrina de la **discreción** como «madre y guarda de todas las virtudes»: ni el rigor extremo que excede las fuerzas ni la tibieza que se ablanda sirven para la vida espiritual; hay que imitar al atleta de la palestra, que gradúa sus esfuerzos (cc. IV-V, líneas 73-158). El ayuno corporal tiene por fin la **abstinencia espiritual** —vencimiento de los vicios, no solo de los alimentos— (cc. VI ss., líneas 159-224).
+
+Ejemplificaciones: las cartas quemadas antes de leerse; la plegaria del abad Teodoro que resuelve una dificultad; la astucia del anciano que procura trabajo al abad Simeón; y los dos adolescentes que murieron de hambre en el desierto llevando higos a un enfermo —caridad que prevalece sobre la regla del ayuno— (líneas 225-428).
+
+[IC, Libro V — Del vicio de la gula (`16_capitulo.md`)]
+
 ## Distinciones importantes
 
 - **Gula (pecado capital)** vs. **glotonería**: la gula es el vicio capital; la glotonería es su manifestación concreta
@@ -70,3 +82,4 @@ La gula se opone a la [[abstinencia]] y a la [[templanza]]. Es puerta de la [[lu
 - [TPCr, Parte III, Libro I, n.241]
 - [TPCr, Parte III, Libro II, Cap. II, n.341]
 - [Santo Tomás, II-II, q.148]
+- [IC, Libro V — Del vicio de la gula]

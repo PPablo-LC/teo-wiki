@@ -13,12 +13,12 @@ tags: ["resumen", "memoria e identidad"]
 ## Conceptos básicos referenciados
 
 - [[cultura|cultura]] — «someter la tierra»: primera definición de la cultura humana (Gn 1,28)
-- [[imagen_y_semejanza|imagen y semejanza de Dios]] — fundamento del hombre como sujeto cultural
+- [[imagen_y_semejanza_divina|imagen y semejanza de Dios]] — fundamento del hombre como sujeto cultural
 - [[soberanía_de_la_cultura|soberanía de la cultura]] — «la nación existe por y para la cultura» (UNESCO 1980)
 
 ## Contenido
 
-¿Cómo entender la cultura? El Papa acude al Génesis: creado a [[imagen_y_semejanza|imagen y semejanza]] de Dios mediante una especie de consulta trinitaria, el hombre recibe el mandato «creced, multiplicaos, llenad la tierra y sometedla» —primera y más completa definición de la [[cultura|cultura]]: descubrir y confirmar la verdad del propio ser humano modelando según esa verdad el mundo visible. Recorre los capítulos bíblicos: soledad del hombre, creación de Eva, vocación matrimonial, pecado original con su promesa del Redentor.
+¿Cómo entender la cultura? El Papa acude al Génesis: creado a [[imagen_y_semejanza_divina|imagen y semejanza]] de Dios mediante una especie de consulta trinitaria, el hombre recibe el mandato «creced, multiplicaos, llenad la tierra y sometedla» —primera y más completa definición de la [[cultura|cultura]]: descubrir y confirmar la verdad del propio ser humano modelando según esa verdad el mundo visible. Recorre los capítulos bíblicos: soledad del hombre, creación de Eva, vocación matrimonial, pecado original con su promesa del Redentor.
 
 De ahí la dimensión cognoscitiva de la civilización —desarrollo de la ciencia, fidelidad a la verdad del objeto del trabajo— y la dimensión de belleza grabada en la cultura desde el principio («y era muy bueno»): fuente del asombro creativo que se expresa en el arte.
 

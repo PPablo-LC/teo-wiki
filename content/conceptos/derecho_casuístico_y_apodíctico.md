@@ -35,7 +35,7 @@ El CEC reconoce que la Ley antigua contiene disposiciones transitorias vinculada
 
 - [[ley_mosaica]]
 - [[torá]]
-- [[doctrina_social_cristiana]]
+- [[doctrina_social_de_la_iglesia]]
 - [[cuarto_mandamiento]]
 - [[metanormas]]
 

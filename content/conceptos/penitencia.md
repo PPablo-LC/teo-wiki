@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Penitencia"
 tags: ["ascética", "moral", "sacramental"]
-timestamp: 2026-09-05
+timestamp: 2026-10-19
 description: "Acto de reparar el mal cometido con un gesto de sacrificio: virtud y práctica ascética que se distingue del sacramento de la reconciliación, del que es disposición y prolongación."
 ---
 # Penitencia
 
 > Área: Ascética / Moral
-> Última actualización: 2026-09-05
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -92,6 +92,25 @@ El capítulo 8 (Curato d'Ars) presenta la penitencia en sus dos caras — la pen
 - **La actualización de JPII en Ars** (octubre 1986): la desafección al Sacramento del Perdono como «mancanza di fede, una mancanza del senso del peccato, del senso della mediazione di Cristo e della Chiesa»; y la síntesis: «Cristo si è veramente fermato ad Ars».
 
 También Camillo (cap. 4) enseña la pedagogía penitencial inversa: mientras daba de comer a los enfermos les contaba sus propios pecados, «perché è convinto di raccontarli direttamente al Signore».
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+En el ritual que propone al final del opúsculo, la **penitencia** se recibe
+«como signo de tu buena voluntad de cambio y como gesto inicial de una vida
+renovada por la Gracia». No es, por tanto, un precio que pague el perdón,
+sino el primer acto de la vida nueva: la respuesta del que ha sido acogido.
+
+La sitúa dentro de un proceso: examen de conciencia antes de confesarse
+(reconocer los dones recibidos y los pecados cometidos en el tiempo
+transcurrido desde la última confesión); confesión sencilla y sincera;
+acogida de la penitencia; acto de dolor; absolución; y, después, unos minutos
+de acción de gracias y el testimonio diario de la misericordia recibida
+([[acción_de_gracias]], [[examen_de_conciencia]]).
+
+Sicari insiste en que la reparación no se limita a la oración: puede incluir
+«obras de caridad o —en ciertos casos— intervenciones directamente
+reparadoras» ([[satisfacción]], [[obras_de_misericordia]]).
+
 
 ## Distinciones importantes
 

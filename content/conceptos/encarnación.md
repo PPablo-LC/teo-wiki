@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: Encarnación
 tags: ["dogmática", "cristología"]
-timestamp: 2026-10-06
+timestamp: 2026-10-19
 description: "La Encarnación es el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo (CEC §483)."
 ---
 # Encarnación
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-10-06
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -34,23 +34,21 @@ El Catecismo recorre las herejías que la Iglesia hubo de enfrentar: docetismo, 
 
 ### Según la Summa Theologiae (SmTh)
 
-**IIIª q.1 — Conveniencia de la Encarnación:**
+**IIIª q.1 — Conveniencia, necesidad y tiempo de la Encarnación:**
 
-**a.1 — ¿Conviene a Dios encarnarse?** Sí, porque es propio de la bondad comunicarse a las criaturas, y la máxima comunicación de Dios a la criatura consiste en unirse a ella hipostáticamente. Lejos de ser indigno de Dios, la Encarnación manifiesta sumamente su bondad.
+**a.1 — Conviene a Dios encarnarse.** Es propio de la bondad comunicarse a los demás, y la comunicación suprema de Dios a la criatura consiste en unirse a ella: «el Verbo, el alma y la carne constituyen una sola persona de tres seres» (Agustín). Por el misterio de la Encarnación se manifiestan a un tiempo la bondad, la sabiduría, la justicia y el poder de Dios (Damasceno). No rebaja la majestad divina: Dios no queda «incorporado» ni abandona el gobierno del mundo, pues es grande por su poder, no por su masa (SmTh IIIa q.1 a.1).
 
-**a.2 — ¿Era necesaria la Encarnación para restaurar al hombre?** No fue absolutamente necesaria (Dios pudo restaurar de otro modo, por su omnipotencia), pero fue *más conveniente*. La Encarnación restaura más plenamente: da satisfacción abundante por el pecado, eleva al hombre a un bien mayor, manifiesta más la dignidad de la naturaleza humana, y quita toda desesperación mostrando cuánto ama Dios al hombre.
+**a.2 — Necesaria no en sentido absoluto, sí para una salvación perfecta.** Un fin puede necesitarse como algo sin lo cual no existe (alimento) o como algo por lo cual se alcanza de modo más perfecto (caballo para viajar): en el primer sentido la Encarnación no fue necesaria (Dios, omnipotente, pudo redimir de infinidad de maneras); en el segundo sí, porque «no existía otro más oportuno para sanar nuestra miseria» (Agustín). Beneficios en el bien: fe más segura (creer al mismo Dios que habla), esperanza confirmada (Dios mostró cuánto nos ama), caridad inflamada, ejemplo de recto comportamiento y plena participación de la divinidad («Dios se hizo hombre para que el hombre se hiciese Dios»). Respecto del mal: el demonio no puede anteponerse al hombre; se manifiesta la dignidad de la naturaleza humana; la gracia es dada «en Cristo hombre sin ningún mérito nuestro»; la soberbia es confundida por la profunda humildad de Dios; y Cristo satisface, librando al hombre de la esclavitud (un simple hombre no podía satisfacer por todo el género humano). Satisfacción: la de un puro hombre podría ser «imperfecta» (acepta el ofendido), pero no perfecta, pues ni compensa el daño de toda la naturaleza corrompida ni iguala la ofensa, que tiene infinitud por la majestad de Dios (SmTh IIIa q.1 a.2).
 
-**a.3 — ¿Se habría encarnado el Hijo si el hombre no hubiera pecado?** La opinión más probable (y la que sigue Santo Tomás) es que no. La Escritura asigna siempre la Encarnación a la redención del pecado. Aunque Dios en potencia absoluta pudo encarnarse sin pecado, el orden de su sabiduría dispuso la Encarnación para remediar la caída.
+**a.3 — Sin pecado no se habría encarnado.** Es la opinión más convincente: las Escrituras señalan todas el pecado del primer hombre como razón de la Encarnación, de modo que esta fue ordenada por Dios para remedio del pecado y no se habría verificado sin él —sin limitar por ello el poder divino, que pudo encarnarse igualmente—. Las demás causas (iluminación por la sabiduría divina, rectitud moral) se reducen al remedio del pecado. Ad 4: la predestinación presupone la previsión; así como Dios predestina salvar a un hombre por las oraciones de otros, así predestinó que la encarnación tuviese lugar para remedio del pecado («¡Oh feliz culpa, que mereció tener tan gran Redentor!») (SmTh IIIa q.1 a.3).
 
-**a.4-5 — Oportunidad de la Encarnación:** No desde el principio del mundo, porque convenía que el hombre fuese preparado gradualmente bajo la ley natural y la ley escrita. Se realizó en la plenitud de los tiempos, cuando el mundo estaba más necesitado, para que nadie dudase de la fe en Cristo.
+**a.4 — Principalmente para borrar el pecado original.** Cristo vino no solo para borrar el pecado original, sino para quitar todos los pecados actuales, ofreciendo satisfacción suficiente para destruir todo pecado. El pecado actual es mayor intensivamente (es más voluntario); el original, extensivamente (corrompió a todo el género humano). Bajo este último aspecto —«el bien del pueblo es más sublime que el bien de un particular»—, Cristo vino más principalmente para quitar el pecado original, aun cuando padeció pena de sentido, con la que satisfizo también por el pecado original, cuyo castigo propio es la pena de daño (SmTh IIIa q.1 a.4).
 
-**a.6 — Pertenece a las tres Personas:** La Encarnación es obra común de la Trinidad en cuanto a la operación divina, aunque solo el Hijo asume la naturaleza humana. Lo que la Trinidad hace juntamente se atribuye apropiadamente al Hijo.
+**a.5 — No desde el principio del mundo.** La medicina es para los enfermos (Mt 9,12): antes del pecado no había lugar. Tampoco inmediatamente después: el hombre pecó por soberbia, y debía ser liberado de modo que, humillado, reconociese necesitar de un libertador, experimentando bajo la ley natural y luego bajo la ley escrita su propia debilidad antes de llamar al médico. Además, el progreso en el bien va de lo imperfecto a lo perfecto; cuanto mayor el juez, más larga la serie de profetas; y con la dilación se enfriaría la fe (SmTh IIIa q.1 a.5).
 
-**IIIª q.4 a.1 — Naturaleza humana caída:** El Verbo asumió la naturaleza humana en la condición de caída, no en estado de gloria, porque vino a satisfacer por el pecado y a restaurar al hombre caído.
+**a.6 — Tampoco aplazada hasta el fin del mundo.** El Verbo encarnado es causa eficiente de la perfección humana («de su plenitud recibimos todos», Jn 1,16), y en la causa eficiente lo perfecto precede en el tiempo a lo imperfecto; por eso no debía aplazarse hasta el fin (la perfección de la gloria sí tendrá lugar al fin del mundo). Si se hubiera aplazado, habrían desaparecido de la tierra el conocimiento de Dios, la reverencia debida y la honestidad de las costumbres; y Dios salvó a los hombres también por la fe en el Cristo venidero, presente y pasado (SmTh IIIa q.1 a.6).
 
-**IIIª q.5 — Partes de la naturaleza humana:** Cristo asumió verdadero cuerpo (no aparente), cuerpo carnal (no celeste), alma racional y entendimiento humano. Asumió todo lo que pertenece a la naturaleza humana íntegra.
-
-**IIIª q.6 — Orden de la asunción:** La naturaleza humana fue asumida mediante la mediación del alma, que es lo más inmediato al Verbo en el orden de la unión. Cristo fue predestinado para ser Hijo de Dios en cuanto hombre, y es Hijo natural (no adoptivo), por la unión hipostática.
+**IIIª q.4-6 — Objeto asumido, partes y orden de la asunción:** el análisis de la naturaleza humana como objeto de la asunción (q.4), de sus partes —verdadero cuerpo, cuerpo carnal, alma e inteligencia— (q.5) y del orden de la asunción (q.6) se desarrolla en [[naturaleza_humana_de_cristo]], [[unión_hipostática]], [[cuerpo_humano_de_cristo]], [[alma_de_cristo]] y [[gracia_de_unión]].
 
 #### IIIª q.31 — Materia de la concepción
 
@@ -254,7 +252,7 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - [CEC §503, §606]
 - [TPCr, Parte I, Cap. 3]
 - [PS §25-30]
-- SmTh IIIª q.1 aa.1-6; q.4 a.1; q.5 aa.1-4; q.6 aa.1-5; q.31 aa.1-8; q.32 aa.1-4; q.33 aa.1-4
+- SmTh IIIª q.1 aa.1-6; q.31 aa.1-8; q.32 aa.1-4; q.33 aa.1-4
 - [RH §1, §8, §13, §22]
 - [RM §1, §4, §7-11, §51]
 - Denzinger: D-428-429 (IV Concilio de Letrán); D-480 (Concilio de Vienne); D-708–710 (Concilio de Florencia); D-993 (Paulo IV, *Cum quorundam*)

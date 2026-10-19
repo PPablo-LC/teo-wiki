@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fornicación
 description: "La fornicación es la relación sexual entre un hombre y una mujer solteros, considerada por la Iglesia como pecado grave contra la castidad."
 tags: ["moral"]
-timestamp: 2026-10-13
+timestamp: 2026-10-19
 ---
 
 # Fornicación
 
 > Área: Moral
-> Última actualización: 2026-10-13
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -43,6 +43,16 @@ Tóth subraya, además, que fuera del matrimonio la vida sexual rebaja a la muje
 
 Véase también: [[castidad]], [[matrimonio]], [[lujuria]], [[sexto_mandamiento]].
 
+### Según Instituciones cenobíticas — Juan Casiano (IC)
+
+Casiano trata la fornicación como el **segundo combate** del monje (Libro VI, archivo `18_capitulo.md`). Distingue un **doble combate**: contra el espíritu de fornicación (la tentación misma, sugerida por el demonio) y contra el pensamiento de la fornicación (cuando el monje consiente la representación en su imaginación). La victoria requiere la huida absoluta de las ocasiones, pero también —y sobre todo— la pureza del corazón: el monje puro puede habitar el desierto sin peligro; el impuro lleva consigo su enemigo (cc. I-III).
+
+Doctrina central: **el don de la castidad supone una gracia especial de Dios**. Ningún esfuerzo humano, por grande que sea, basta para conquistar la pureza; por eso el que la posee no puede jactarse de ella, porque es obra de la gracia (c. IV; cf. `30_capitulo.md` §§IX-XII). Casiano rinde **elogio de la castidad** como participación en la dignidad angelical, y advierte que la perspectiva de la recompensa sublime no es presunción sino acicate de la vigilancia (cc. VIII-IX).
+
+Advierte también —con realismo patrístico— que la lujuria puede volverse contra el mismo que la sufre de modo desordenado, e incluso atormentar al monje con apetitos contrarios a la naturaleza; la causa profunda espiritual se busca en ofensas previas a Dios (anécdota del hermano y el anciano, `30_capitulo.md` §XX).
+
+[IC, Libro VI — Del vicio de la fornicación (`18_capitulo.md`)]
+
 ## Distinciones importantes
 
 - **Fornicación vs. adulterio**: la fornicación es entre solteros; el adulterio implica al menos un casado
@@ -59,3 +69,4 @@ Véase también: [[castidad]], [[matrimonio]], [[lujuria]], [[sexto_mandamiento]
 - SmTh II-II q.154 a.1-3
 - Denzinger D-1198
 - [PyH, Cap. I; Cap. III; Cap. IV]
+- [IC, Libro VI — Del vicio de la fornicación]

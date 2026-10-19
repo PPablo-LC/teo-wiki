@@ -19,7 +19,7 @@ tags: ["resumen", "jesus de nazaret i"]
 - [[domingo]] — día del Señor, heredero de la función social del sábado
 - [[padre_nuestro]] — la oración del Señor, comentario pormenorizado
 - [[iglesia]] — la nueva familia de Jesús, universal
-- [[doctrina_social_cristiana]] — ordenamientos sociales guiados por los principios de la Torá
+- [[doctrina_social_de_la_iglesia]] — ordenamientos sociales guiados por los principios de la Torá
 - [[mesías]] — el esperado portador de una Torá nueva
 
 ## Contenido

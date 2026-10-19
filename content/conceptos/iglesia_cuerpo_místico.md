@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Iglesia Cuerpo Místico
 tags: ["eclesiología", "dogmática"]
 
-timestamp: 2026-06-12
+timestamp: 2026-10-19
 description: "La Iglesia es el Cuerpo Místico de Cristo, una realidad orgánica y sobrenatural en la que Cristo es la Cabeza y los fieles son los miembros, unidos entre sí y con Cristo por la gracia, la fe."
 ---
 # Iglesia Cuerpo Místico
 
 > Área: Eclesiología / Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -43,17 +43,15 @@ La perfección cristiana, aunque es personal, tiene una dimensión eclesial inso
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica la cuestión 8 de la IIIª Pars a la [[gracia_capital]] de Cristo, fundamento de su ser cabeza sobre el [[cuerpo_místico]].
+Tomás fundamenta la noción de cuerpo místico en la IIIª q.8, al tratar la gracia de Cristo como cabeza. La Iglesia es «cuerpo» por analogía con el cuerpo natural (Rom 12,4-5; 1 Cor 12,12ss): una multitud ordenada a la unidad por la diversidad de funciones y por la comunicación de una misma vida.
 
-**IIIª q.8 — La gracia de Cristo como cabeza de la Iglesia**
+**IIIª q.8 a.1 — El cuerpo místico y su cabeza:** La Iglesia se llama cuerpo místico por analogía con el cuerpo natural, que realiza actos diferentes según la diversidad de miembros. Cristo es su cabeza por tres propiedades: orden (es el primero y principio), perfección (en él reside la plenitud de la gracia, como en la cabeza los sentidos) y poder (de él se deriva a los miembros la virtud y el movimiento). La humanidad de Cristo es instrumento de la divinidad para comunicar la gracia. (SmTh IIIª q.8 a.1)
 
-Cristo es cabeza de la Iglesia por tres propiedades: orden (su gracia es más elevada que la de todos los demás), perfección (posee la plenitud de todas las gracias) y poder (hace correr la gracia por todos los miembros) (a.1). La humanidad de Cristo influye en los hombres principalmente en el alma y secundariamente en el cuerpo, por lo que su gracia capital se comunica a todo el cuerpo eclesial (a.2).
+**IIIª q.8 a.5 — Una sola gracia, personal y capital:** La gracia que justifica el alma de Cristo y la que le hace cabeza de la Iglesia son esencialmente la misma: por la eminencia de su gracia personal, Cristo puede comunicarla a otros. La distinción entre «gracia personal» y «gracia capital» es conceptual, no real. (SmTh IIIª q.8 a.5)
 
-Cristo es cabeza de todos los hombres, pero en diversos grados: los unidos por la gloria (bienaventurados), por la caridad (justos en la tierra), por la fe (Iglesia militante) y en potencia (infieles que pueden recibir la gracia) (a.3).
+**IIIª q.8 a.6 — Influjo interior y gobierno exterior:** La cabeza influye en los miembros de dos maneras: por un influjo intrínseco, que deriva a los miembros la virtud de vivir y obrar, y por un gobierno exterior, que orienta sus actos. El influjo interior de la gracia solo proviene de Cristo; el gobierno exterior puede ser compartido por otros, que se llaman cabezas de modo participado (obispos en sus iglesias, el Papa durante su pontificado) y como vicarios de Cristo, no por autoridad propia. (SmTh IIIª q.8 a.6)
 
-La gracia personal de Cristo es esencialmente la misma que su gracia capital: una misma plenitud de gracia recibida por el alma de Cristo en cuanto hombre (a.5). Solo Cristo comunica el influjo interior de la gracia; el Papa, los obispos y demás prelados son cabezas solo por gobierno exterior, no como fuente de vida sobrenatural (a.6).
-
-Tomás compara la relación entre el Espíritu Santo y Cristo con la del corazón y la cabeza en el cuerpo humano: la cabeza tiene superioridad visible y gobierno exterior, mientras que el corazón tiene un influjo oculto y vital (a.1 ad 3). Así, Cristo es cabeza que comunica la gracia visiblemente en su humanidad, mientras que el Espíritu Santo es el corazón que la infunde invisiblemente desde dentro.
+Tomás compara además la relación entre el Espíritu Santo y Cristo con la del corazón y la cabeza en el cuerpo humano: la cabeza tiene superioridad visible y gobierno exterior, mientras que el corazón tiene un influjo oculto y vital (a.1 ad 3). Así, Cristo es cabeza que comunica la gracia en su humanidad, mientras que el Espíritu Santo es el corazón que la infunde invisiblemente desde dentro.
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

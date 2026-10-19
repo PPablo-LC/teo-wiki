@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Fomes peccati"
 tags: ["antropología_teológica", "moral", "espiritualidad"]
-timestamp: 2026-09-05
+timestamp: 2026-10-19
 description: "El 'aguijón del pecado': la concupiscencia que, según el Concilio de Trento, permanece en el bautizado como leña del pecado lista para volver a la vida."
 ---
 # Fomes peccati
 
 > Área: Antropología teológica / Moral / Espiritualidad
-> Última actualización: 2026-09-05
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -27,6 +27,12 @@ El apóstol Pablo da el testimonio clásico del combate que se vive tras la conv
 En el podcast de la revista (18_spotlight_barron.md), ante la cuestión de por qué los conversos recaen (*backsliding*), el obispo Robert Barron responde: «¿Por qué cualquiera de nosotros retrocede?». En cierto modo es el *mysterium iniquitatis*, el misterio del mal. «Saco un extraño consuelo del hecho de que incluso los grandes santos retrocedieron». Cuando retrocedemos tenemos lo que Henri de Lubac llamó *cette claudication mystérieuse*, esta «cojera misteriosa»: «¿De dónde viene? La tenemos incluso después de la conversión. O, como diría el Concilio de Trento, el *fomes peccati* — la leña del pecado lista para volver a la vida — permanece incluso después del bautismo. Por eso hay que estar en guardia todo el tiempo: llevamos dentro deseos torcidos y malformados que permanecen tras la conversión, y por eso necesitamos la [[conversión_continua]]: volvemos una y otra y otra vez a los sacramentos».
 
 La misma fuente precisa que el *fomes* explica por qué la conversión no es «una sola vez»: Merton escribió —y Barron asiente— que «no somos convertidos solo una vez en nuestras vidas, sino muchas veces, en esta serie interminable de conversiones»; si no, «¿por qué volverías a la confesión?». El malformado deseo interior se contrasta con la comparación de la adicción y se responde con la práctica: la vida entera de la Iglesia — liturgia, sacramentos, santos, disciplina comunitaria — está pensada para impedir el retroceso del convertido.
+
+### Según la Summa Theologiae (SmTh)
+
+**IIIª q.15 a.2 — Cristo no tuvo el *fomes* del pecado:** Tomás razona desde la perfección de la virtud: la virtud moral, asentada en la parte irracional del alma, hace que esa zona esté sometida a la razón, y tanto más cuanto más perfecta sea la virtud —así la templanza respecto del concupiscible, y la fortaleza y la mansedumbre respecto del irascible—. El *fomes* consiste precisamente en la inclinación del apetito sensible a lo contrario de la razón; por tanto, cuanto más perfecta es la virtud de un sujeto, más débil es en él la fuerza del *fomes*. Habiendo tenido Cristo la virtud en grado eminentísimo, no existió en él el *fomes* del pecado. A ello se añade que el *fomes* no puede orientarse hacia la satisfacción, porque inclina a lo contrario de ella, y Cristo asumió los defectos para satisfacer. (SmTh IIIª q.15 a.2)
+
+La consecuencia cristológica es clara: si en nosotros el *fomes* es secuela del pecado original y materia de combate, en Cristo no hay combate interior, porque su apetito sensible está perfectamente ordenado. La ausencia del *fomes* no le quita la verdad de la humanidad: le quita la herida del pecado.
 
 ## Distinciones importantes
 
@@ -57,4 +63,5 @@ La misma fuente precisa que el *fomes* explica por qué la conversión no es «u
 
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute:
   - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversion»
+- SmTh IIIª q.15 a.2
 - Concilio de Trento, sesión V, decreto sobre el pecado original (citado en la fuente)

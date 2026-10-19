@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mentira
 tags: ["moral"]
 
-timestamp: 2026-05-26
+timestamp: 2026-10-19
 description: "La mentira consiste en decir una falsedad con intención de engañar al prójimo."
 ---
 # Mentira
 
 > Área: Moral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -61,6 +61,38 @@ JvC dedica una sección a «¿Vale la pena mentir?». Los jóvenes mienten por m
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 [VocTeoBib, «Mentira»] En el AT, la prohibición de la mentira surge en el contexto del falso testimonio (Ex 20,16) y se extiende a todo engaño (Os 4,2; Prov 12,22). La mentira por excelencia es la idolatría: desconocer al Dios verdadero para servir a ídolos falsos (Jer 10,1-16; Rom 1,25). En el NT, Jesús exige una lealtad total: «Sea vuestro lenguaje: sí, sí; no, no» (Mt 5,37). Pablo exhorta a despojarse de la mentira (Col 3,9s) porque los creyentes son miembros unos de otros (Ef 4,25). Satán es el «padre de la mentira» (Jn 8,44), y el anticristo es mentiroso por negar a Jesucristo (1Jn 2,22).
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+El octavo mandamiento parte de la falsa testimonianza en el tribunal, «esa
+mentira con la que se intenta golpear al inocente sirviéndose precisamente de
+aquel "sistema" que debería garantizarlo»; la Biblia la llama «vender al
+inocente», y puede cometerla tanto el testigo mentiroso como el juez inicuo.
+Desde ese centro, el mandamiento condena toda mentira: la cotidiana con la
+que uno se esconde para parecer distinto de lo que es, para eludir una
+responsabilidad o para engañar al prójimo, hasta la red de mentiras tejida
+por costumbre.
+
+La actitud mentirosa puede impregnar todo el tejido de la existencia —ideas,
+afectos, acciones, proyectos— hasta que el propio hipócrita no logra ya
+descifrar el enigma de su vida. Cuando la asume un grupo entero, empezando
+por las familias, estas se convierten en «marañas de víboras» donde cada uno
+espera del otro la mordida fatal y vive para prevenirla o anticiparla; en los
+casos menos graves, las convivencias se vuelven construcciones frágiles de
+equilibrio precario, en las que lo implícito pesa más que lo declarado, y ese
+estado se llama habitualmente «incomprensión».
+
+En la experiencia cotidiana del joven, la mentira se impone cuando las
+circunstancias no se afrontan por adhesión a la realidad —aunque sea dolorosa
+o desagradable— sino por «reacción»: la costumbre de reaccionar siempre y en
+todo ante lo que acontece, en lugar de acogerlo y aprender, genera la
+costumbre de mentirse y de mentir. Son mentira usar las posibilidades de una
+comunidad para desarrollar pequeñas tramas afectivas o de prestigio;
+responder a un reproche solo desde el orgullo herido; contaminar la vida
+común con el flujo constante del propio chisme. «La verdad resplandece; la
+mentira oscurece y entristece» ([[hipocresía]], [[falso_testimonio]],
+[[verdad]]).
+
 
 ## Distinciones importantes
 

@@ -41,6 +41,20 @@ El VocTeoBib presenta a Job como el prototipo del justo que sufre sin comprender
 
 En los Ejercicios de 1996, Giussani cita a Job como modelo de la actitud que sostiene el perdón y la misericordia: «Giobbe che dice: "Dio ha dato, Dio ha tolto: sia benedetto il nome di Dio sempre" (Gb 1,13-22) — questa era la ragione che sosteneva tutto il suo perdono a chi gli aveva fatto il disastro» (04_alla_ricerca_del_volto_umano_1996.md, l. 143). Job no perdona por cálculo humano, sino porque su mirada está fija en Dios: lo que recibe y lo que pierde provienen de Él, y así «sia benedetto il nome di Dio sempre». Esta es, para Giussani, la «ragione che sosteneva tutto il suo perdono»: la aceptación filial de la soberanía divina, que hace posible perdonar incluso lo irreparable.
 
+### Según José Luis Sicre (IAT)
+
+Sicre dedica el capítulo 22 de su *Introducción al Antiguo Testamento* al libro de Job, convencido de que «la hondura del problema que trata merece la pena». Advierte expresamente: «Sobre todo, si tiene la idea de que Job es el “justo paciente”, procure olvidarla».
+
+**El problema.** La cuestión principal no es solo que existan situaciones trágicas, sino el modo de compaginarlas con la existencia de un Dios que nos ha creado y se interesa por nosotros: es el problema del mal en su forma más aguda.
+
+**Job, hombre rebelde.** Frente a la imagen edulcorada del santo que todo lo soporta, en el libro aparece en ocasiones como el hombre que no acepta su destino ni el de todas las personas que sufren, y que acusa a Dios de ello. Sicre cita Job 9,23: «Si una calamidad siembra muerte repentina, Él se burla de la desgracia del inocente». Por eso el libro contiene lo que el capítulo primero de la obra llama «blasfemias»: expresiones que no pueden presentarse sin más como «palabra de Dios».
+
+**Desarrollo.** El libro se abre con una introducción en prosa (prólogo celestial, la apuesta satánica, la pérdida de bienes e hijos), sigue con los tres ciclos de discursos entre Job y los amigos —que defienden la teología de la retribución: el que sufre es porque pecó—, la intervención de Elihú y, finalmente, los discursos de Dios (Job 38–41). Dios no responde a la pregunta de Job con una explicación del sufrimiento, sino revelándose; Job calla.
+
+**Valor.** El libro enseña a vivir la fe en crisis: quien atraviesa una dificultad profunda puede actuar como Job, que «se rebela y lucha, interroga y blasfema en busca de respuesta». Es uno de los modelos de carne y hueso que el AT ofrece al creyente.
+
+[IAT, cap. 22; cap. 2, §2]
+
 ## Distinciones importantes
 
 - **Job vs. la teología retributiva**: el libro cuestiona la idea de que el sufrimiento es siempre castigo por el pecado

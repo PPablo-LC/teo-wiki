@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization_and_culture", "doctrina_social", "economía"]
 
 ## Conceptos básicos referenciados
 
-- [[doctrina_social]] — 10 principios de la vida económica católica
+- [[doctrina_social_de_la_iglesia]] — 10 principios de la vida económica católica
 - [[justicia]] — la economía al servicio de la justicia
 - [[dignidad_humana]] — fundamento de todo principio económico
 - [[bien_común]] — obligación moral de la sociedad

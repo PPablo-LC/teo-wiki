@@ -12,7 +12,7 @@ tags: ["resumen", "jesus de nazaret ii"]
 
 ## Conceptos básicos referenciados
 
-- [[templo_de_Jerusalén]] — casa de oración para todos los pueblos hecha cueva de bandidos
+- [[templo_de_jerusalén]] — casa de oración para todos los pueblos hecha cueva de bandidos
 - [[celo]] — transformación del zélos violento en celo de la cruz (Sal 69)
 - [[cruz]] — la señal pedida a Jesús; signo de Jonás
 - [[resurrección_de_cristo]] — «destruid este templo y yo en tres días lo levantaré»

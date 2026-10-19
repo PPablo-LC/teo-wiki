@@ -61,6 +61,20 @@ El Antiguo Testamento es parte esencial de la Palabra de Dios, y sus libros cons
 
 En sentido estricto, la "Ley" es solo una parte del Antiguo Testamento; concretamente, el contenido esencial del Pentateuco, al que el Nuevo Testamento se refiere a menudo como la «Ley de Moisés». Junto a la 'Ley' se denominan «los Profetas», o «los Profetas y los Salmos». En la teología bíblica se acepta generalmente la distinción entre una ética de la ley, una ética de los profetas y una ética sapiencial, distinción que, sin embargo, no debe entenderse como una separación, ya que existen claras conexiones y puntos en común entre las tres fuentes de la ética del Antiguo Testamento. (Ele_Xto_Stos, Cap. VIII, §3a)
 
+### Según José Luis Sicre (IAT)
+
+Sicre dedica la primera parte de su *Introducción al Antiguo Testamento* a aclarar qué es el AT y qué problemas y valores ofrece al lector de hoy.
+
+**Naturaleza.** El AT, tal como lo aceptan los católicos, es un conjunto de 47 escritos de carácter diverso (narrativo, histórico, espiritual, poético, pedagógico), procedentes de épocas distintas y redactados a lo largo de diez siglos. No es una antología de la literatura israelita ni contiene toda la producción literaria de Israel —cita obras perdidas como el *Libro del Justo*, el *Libro de las guerras de Yahvé* y los *Anales de los reyes de Israel*—, sino una selección hecha desde la fe y para la fe: se recogieron las obras que expresaban la identidad del pueblo elegido y su misión religiosa.
+
+**Problemas.** El AT plantea problemas históricos (datos desconcertantes de Gn 1–11, milagros, longevidad de los patriarcas), morales (narraciones escandalosas, salmos imprecatorios, guerra santa), científicos (Galileo, Darwin, concordismo) y teológicos (la elección de Israel). Muchos nacen del antijudaísmo o de una concepción rígida de la «palabra de Dios» que obliga a defender como revelación lo que es explicación humana.
+
+**Valores.** El AT ayuda a conocer a Dios —su autodefinición de Ex 34,6-7 es la clave: compasivo, clemente, paciente, misericordioso y fiel—, ofrece el ejemplo de hombres de carne y hueso (Job, Eclesiastés, Jeremías), descubre la dimensión sociopolítica de la fe y permite comprender mejor la actividad, el mensaje y la persona de Jesús.
+
+**Moral imperfecta.** Sicre sostiene que la moral del AT es imperfecta y que la revelación definitiva llega en Cristo: «Habéis oído que se enseñó a los antepasados... Pero yo os digo» (Mt 5,21-48). Recoge la afirmación de *Dei Verbum* 15: los libros del AT «muestran a todos el conocimiento de Dios».
+
+[IAT, caps. 1–3]
+
 ## Distinciones importantes
 
 - **Antiguo Testamento vs. Nuevo Testamento**: el Nuevo da cumplimiento al Antiguo; ambos se esclarecen mutuamente

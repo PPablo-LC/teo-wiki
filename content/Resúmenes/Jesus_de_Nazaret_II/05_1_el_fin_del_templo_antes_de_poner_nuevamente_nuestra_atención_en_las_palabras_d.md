@@ -12,7 +12,7 @@ tags: ["resumen", "jesus de nazaret ii"]
 
 ## Conceptos básicos referenciados
 
-- [[templo_de_Jerusalén]] — destrucción del año 70; fin histórico-salvífico del culto sacrificial
+- [[templo_de_jerusalén]] — destrucción del año 70; fin histórico-salvífico del culto sacrificial
 - [[abominación_de_la_desolación]] — signo de Daniel para la fuga a Pella
 - [[esteban]] — primer testigo del fin de la época del templo
 - [[pablo_de_tarso]] — hilastérion: Cristo, propiciación y nuevo templo

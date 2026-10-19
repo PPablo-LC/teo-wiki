@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Inmaculada Concepción
 tags: ["dogmática_(mariología)"]
 
-timestamp: 2026-08-31
+timestamp: 2026-10-19
 description: "Dogma definido por Pío IX el 8 de diciembre de 1854 (Bula *Ineffabilis Deus*)."
 ---
 # Inmaculada Concepción
 
 > Área: Dogmática (Mariología)
-> Última actualización: 2026-08-31
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -72,6 +72,31 @@ La lógica escotista de la primacía de Cristo fundamenta la conveniencia del pr
 
 [EAC-14, 10_minds.md]
 
+### Según Scott Hahn (Hail, Holy Queen)
+
+Hahn analiza la definición de Pío IX en el capítulo 5 y extrae de ella tres afirmaciones:
+
+1. **Es una gracia singular.** Como la encarnación es un acontecimiento único, la preservación de María es un privilegio único en la historia de la salvación.
+2. **Fue ganada por Cristo.** La gracia que preserva a María procede de los méritos de su Hijo: también ella es redimida, y de un modo más eminente.
+3. **Es una preservación, no una obra de María.** El sujeto de la acción es Dios; la Inmaculada no es un logro de la criatura sino un don del Creador.
+
+De ahí su distinción, ya clásica, entre **redención por preservación** y **redención por liberación**: a nosotros la redención nos alcanza después de haber contraído el pecado; a María, antes de contraerlo. La analogía que propone es cotidiana: unos se convierten abandonando hábitos de pecado; otros, por la gracia de una educación cristiana, rechazan el mal desde niños. En ambos casos la redención es obra de Dios. Y responde a la objeción obvia —«si era sin pecado, ¿necesitaba ser redimida?»—: sí, porque su preservación no habría sido posible sin la redención de Cristo; al crearla, Dios la redimió.
+
+Hahn añade dos argumentos de conveniencia. El de Newman: si Eva fue elevada por la gracia desde el primer momento de su existencia, ¿es temerario decir que María tuvo aún mayor gracia? Y el de la maternidad: el Hijo no «pasó» por María como pasamos nosotros por la comunión, sino que tomó de ella su sangre, su sustancia y sus rasgos; era conveniente que el Padre la preparara con una santificación previa. Recoge también la tradición patrística —San Efrén en el siglo IV, San Agustín en el V («excepto la santa Virgen María»)— y la diferencia de acentos: Occidente subraya la ausencia de pecado; Oriente, la plenitud de santidad, y la llama *Panagia*, la Toda Santa.
+
+[HHQ, cap. 5]
+
+### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+
+Pitre reconstruye la lógica bíblica del dogma a partir de la tipología Eva-María y responde a tres malentendidos frecuentes:
+
+- **La regla del tipo y el antitipo.** En la Escritura el tipo nunca es mayor que su cumplimiento: Adán no es mayor que Cristo, David no es mayor que el Hijo de David. Si Eva fue creada «muy buena» —sin pecado— (Gn 1,31), la nueva Eva no puede ser menor. De ahí la conclusión: María fue concebida sin pecado y permaneció libre de pecado.
+- **No es un privilegio que la deshumanice.** Adán y Eva eran plenamente humanos y libres antes del pecado; decir que María fue preservada no la saca de la humanidad ni le quita la libertad. La objeción ortodoxa a la fórmula occidental —que la separaría del resto de los hombres— descansa, según Pitre, en una lectura de Gn 1-3 que olvida el estado original.
+- **No tiene que ver con sus padres ni con la transmisión del pecado a Jesús.** La Inmaculada no significa que Joaquín y Ana fueran sin pecado, ni que María fuera preservada para no transmitir una naturaleza pecaminosa a su Hijo. Significa que fue preservada por «singular gracia» y «en atención a los méritos de Jesucristo» (*Ineffabilis Deus*), como recoge el Catecismo al comentar el protoevangelio (CEC 411).
+- **La cadena patrística.** Justino, Ireneo, Efrén («no hay mancha en tu Madre»), Agustín («excepto la santa Virgen María»), Cirilo de Jerusalén, Crisóstomo y Jerónimo, en Oriente y Occidente, testimonian la convicción antes de la definición de 1854. Newman la formuló como inferencia inevitable: si Eva recibió el don desde el primer momento de su existencia, ¿cómo negarlo a María?
+
+[JRM, cap. 2]
+
 ## Distinciones importantes
 - **Inmaculada Concepción**: María fue concebida sin pecado original
 - **Concepción virginal**: Jesús fue concebido por obra del Espíritu Santo sin intervención de varón
@@ -94,3 +119,5 @@ La Inmaculada Concepción es fundamento de la [[asunción]] (quien no tuvo pecad
 - Redemptoris Mater §9-11
 - Denzinger D-734, D-735, D-1100, D-1314, D-1641-1642
 - [EAC-14, 10_minds.md]
+- Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 5
+- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), cap. 2

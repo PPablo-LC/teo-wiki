@@ -72,7 +72,7 @@ El número combina reflexiones teológicas, testimonios personales, análisis de
 
 ## Ver también
 
-[[doctrina_social]], [[justicia]], [[bien_común]], [[subsidiariedad]], [[solidaridad]], [[trabajo]], [[pobreza]], [[avaricia]], [[dignidad_humana]], [[evangelización]]
+[[doctrina_social_de_la_iglesia]], [[justicia]], [[bien_común]], [[subsidiariedad]], [[solidaridad]], [[trabajo]], [[pobreza]], [[avaricia]], [[dignidad_humana]], [[evangelización]]
 
 ## Referencias
 

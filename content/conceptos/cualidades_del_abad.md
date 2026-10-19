@@ -71,11 +71,11 @@ San Benito enumera las virtudes que debe reunir el abad en el capítulo 64:
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[autoridad_religiosa]], el [[gobierno_religioso]], la [[humildad]] pastoral, la [[discrecion]], la [[justicia]], la [[misericordia]], la [[prudencia]], la [[modestia]] y la [[responsabilidad_pastoral]].
+Se relaciona con la [[autoridad_religiosa]], el [[gobierno_religioso]], la [[humildad]] pastoral, la [[discreción]], la [[justicia]], la [[misericordia]], la [[prudencia]], la [[modestia]] y la [[responsabilidad_pastoral]].
 
 ## Ver también
 
-[[abad]], [[autoridad_religiosa]], [[gobierno_religioso]], [[humildad]], [[discrecion]], [[justicia]], [[misericordia]], [[prudencia]], [[responsabilidad_pastoral]]
+[[abad]], [[autoridad_religiosa]], [[gobierno_religioso]], [[humildad]], [[discreción]], [[justicia]], [[misericordia]], [[prudencia]], [[responsabilidad_pastoral]]
 
 ## Referencias
 

@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Filiación divina
 tags: ["dogmática"]
 
-timestamp: 2026-06-21
+timestamp: 2026-10-19
 description: "Condición sobrenatural del cristiano que, por la gracia santificante, es hecho hijo adoptivo de Dios Padre, participando de la filiación natural del Verbo encarnado."
 ---
 
 # Filiación divina
 
 > Área: Dogmática
-> Última actualización: 2026-06-21
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -18,7 +18,7 @@ Condición sobrenatural del cristiano que, por la gracia santificante, es hecho 
 
 ## Desarrollo doctrinal
 
-La filiación divina es el don más excelente de la gracia, por el cual el hombre es elevado al orden sobrenatural y constituido hijo de Dios en Cristo. No es una filiación natural como la del Verbo, sino adoptiva, aunque real y verdadera. Por ella el cristiano participa de la naturaleza divina (2 Pe 1,4) y puede llamar a Dios «Abba, Padre» (Rm 8,15). Esta condición filial es el fundamento de toda la vida moral y espiritual del creyente, que debe vivir como hijo de Dios en todo momento.
+La filiación divina es el don más excelente de la gracia, por el cual el hombre es elevado al orden sobrenatural y constituido hijo de Dios en Cristo. No es una filiación natural como la del Verbo, sino adoptiva, aunque real y verdadera. Por ella el cristiano participa de la naturaleza divina (2 Pe 1,4) y puede llamar a Dios «[[abba|Abba]], Padre» (Rm 8,15). Esta condición filial es el fundamento de toda la vida moral y espiritual del creyente, que debe vivir como hijo de Dios en todo momento.
 
 ## Perspectivas por fuente
 
@@ -52,6 +52,17 @@ En los ejercicios de 1994-1995, la filiación divina se presenta como el reconoc
 
 - **El «sí» de Pedro como vislumbre de Dios**: el «porqué» del sí de Pedro: «aveva intravisto… chi era Dio, chi era lo Jahvè biblico, il vero Jahvè, la verità su Jahvè» (02, 237). La filiación se reconoce en la respuesta amorosa al Hijo.
 
+### Según Scott Hahn (Hail, Holy Queen)
+
+Hahn hace de la filiación divina el eje del capítulo 6 y la presenta como la clave para entender la devoción mariana:
+
+- **No solo perdón, sino adopción.** Se puede perdonar al mecánico que nos cobró de más, pero no se le adopta. Dios, en cambio, perdona para hacer hijos: la justificación es «traslado del estado en que el hombre nace hijo del primer Adán al estado de gracia y de la adopción de los hijos de Dios por el segundo Adán» (Trento, Sesión VI, c. 4; CEC 654). Somos «hijos en el Hijo»; San Atanasio lo resume: «el Hijo de Dios se hizo hijo del hombre para que los hijos de los hombres fueran hijos de Dios».
+- **Linaje real.** Por el bautismo somos identificados con Cristo y participamos de su triple misión de sacerdote, profeta y rey (1 Pe 2,9). San Agustín llega a decir que «todos los hombres son un solo hombre en Cristo». De esa identificación brota la consecuencia mariana: si compartimos todo con Cristo, compartimos también a su Madre. Pío X lo formula: «¿No es María la Madre de Cristo? Luego es también nuestra Madre».
+- **«Abba», no «Allah».** La diferencia del cristianismo no es el monoteísmo —tres grandes religiones lo profesan— sino la paternidad: solo el cristianismo puede llamar «Padre» a Dios porque solo en la nueva alianza se ha revelado como Padre eterno. Hahn cita a Juan Pablo II (*Cruzando el umbral de la esperanza*): el pecado original intenta abolir la paternidad y deja al hombre solo con la relación amo-esclavo. Mientras se viva esa relación, María parecerá una rival de Dios; cuando se vive la filiación, se la reconoce como madre.
+- **El mérito en clave familiar.** Si «mérito» se entiende en términos económicos, hablar de méritos ante Dios es ofensivo; en clave familiar es tan natural como la herencia o la paga. «Cuando Dios corona nuestros méritos, corona sus propios dones» (San Agustín, CEC 2006); la adopción filial «puede conferirnos un verdadero mérito» por el derecho del amor (CEC 2008-2009). En María no hay distancia entre lo que Dios quiere y lo que ella quiere: por eso la Iglesia le atribuye una capacidad ilimitada de mérito.
+
+[HHQ, cap. 6]
+
 ## Distincioni importanti
 
 - Filiación natural (propia del Verbo) vs. filiación adoptiva (propia del cristiano por gracia).
@@ -81,3 +92,4 @@ Se relaciona con la [[gracia_santificante]], la [[inhabitación_trinitaria]], el
 - [CEC §2009]
 - [CEC §1723]
 - [TPCr, Parte 1, Principios fundamentales]
+- Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 6

@@ -37,7 +37,7 @@ En la Conferencia II, el abba Moisés enseña la doctrina de la discreción. Exp
 
 ## Ver también
 
-[[casiano]], [[fin_ultimo_del_monje]], [[caridad]], [[discrecion]], [[discernimiento_de_espíritus]]
+[[casiano]], [[fin_ultimo_del_monje]], [[caridad]], [[discreción]], [[discernimiento_de_espíritus]]
 
 ## Referencias
 

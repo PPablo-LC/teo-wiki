@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Alianza
 tags: ["dogmática"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-19
 description: "Pacto solemne establecido por Dios con los hombres, por el cual se compromete a ser su Dios y a derramar sobre ellos sus bendiciones a cambio de su fidelidad y obediencia."
 ---
 # Alianza
 
 > Área: Dogmática
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -72,6 +72,19 @@ La alianza no se mide por los pecados: «Esta es la alianza, porque la alianza n
 
 Giussani define la Alianza a partir del amor electivo de Dios: «la Bibbia chiama "Alleanza" questo amore che Dio ha verso gli uomini che sceglie perché capiscano chi è... e collaborino alla Sua fantasia creatrice, alla Sua affezione redentiva, alla Sua amicizia elettiva». Dios se pone al hombre como Padre —«un legame di amore generativo, continuamente generativo e ultimamente salvifico»—, y esa elección «piena di preferenza, piena di preferenze» es lo que el creyente reconoce al poder llamarlo «Abbà, Padre!» (Gal 4,6). En contraste, la Escritura llama también «una sorta di alleanza con la morte» a la vida vivida sin significado, aunque «noi non siamo fatti per la morte» (TACDC, 03, L55; 01, L17).
 
+### Según Scott Hahn (Hail, Holy Queen)
+
+Hahn propone en el capítulo 1 una definición de alianza que gobierna toda su mariología, y la desarrolla en el capítulo 6 frente a la lectura jurídica de la Reforma:
+
+- **La alianza es parentesco, no contrato.** En el antiguo Próximo Oriente, la alianza era «un vínculo sagrado de parentesco basado en un juramento solemne» que introducía a alguien en una relación familiar con otra persona o tribu. De ahí su fórmula constante: «yo seré tu Dios y tú serás mi pueblo», es decir, mi familia, mi parentela.
+- **Contrato vs. alianza.** El contrato intercambia bienes, derechos y servicios; la alianza intercambia personas: «en un contrato esto es tuyo y aquello es mío; en una alianza yo soy tuyo y tú eres mía». Por eso la alianza crea lazos más fuertes que los biológicos, y por eso el matrimonio es su imagen más cercana.
+- **La ampliación progresiva de la familia.** Dios fue introduciendo un círculo cada vez más amplio en su familia: primero una pareja (Adán), luego una familia (Noé), luego un pueblo (Abrahán y Moisés), luego un reino (David) y finalmente el mundo entero en Cristo. Todas las alianzas anteriores fracasaron por la infidelidad humana; solo Dios permanece fiel. Para que un hombre cumpliera la parte humana de la alianza hacía falta uno sin pecado y constante como Dios: por eso Dios se hizo hombre.
+- **Consecuencia mariológica.** Si la alianza crea una familia, y la familia del Rey davídico tiene una reina madre, la presencia de María en Caná y en el Apocalipsis no es un añadido devocional sino la estructura misma de la economía de la salvación. Hahn lee así la historia de la salvación como la historia de un Padre que construye su familia.
+
+Hahn contrapone esta lectura «hebrea» a la lectura «jurídica romana» que, según él, hicieron Calvino y Lutero de Romanos y Gálatas. La contraposición simplifica el debate postridentino sobre la justificación y debe leerse junto a [[concilio_de_trento]] y [[justificación]]; su valor está en recuperar la dimensión familiar y covenantal de la gracia.
+
+[HHQ, caps. 1 y 6]
+
 ## Distinciones importantes
 
 - **Antigua Alianza vs. Nueva Alianza**: la primera fue preparatoria y figura de la segunda; la Nueva es eterna y perfecta
@@ -96,3 +109,4 @@ La alianza se relaciona con [[antigua_alianza]], [[nueva_alianza]], [[decálogo]
 - AED, 12, 83-85 — Tischrede 41: *La preferenza per Cristo* — ser fieles a la alianza es estar en ella.
 - AED, 22, 131-133 — Tischrede 102: *L'adorazione possibile* — la alianza no se mide por los pecados.
 - AED, 22, 145 — Tischrede 102: *L'adorazione possibile* — la certeza en la fidelidad de Dios es el fundamento.
+- Scott Hahn, *Hail, Holy Queen* (HHQ), caps. 1 y 6

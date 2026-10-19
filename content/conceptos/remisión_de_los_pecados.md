@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Remisión de los pecados
 tags: ["dogmática_—_penitencia"]
 
-timestamp: 2026-08-07
+timestamp: 2026-10-19
 description: "La remisión de los pecados es el perdón que Dios concede al pecador arrepentido por los méritos de Jesucristo, ordinariamente a través de los sacramentos del Bautismo y la Penitencia."
 ---
 # Remisión de los pecados
 
 > Área: Dogmática — Penitencia
-> Última actualización: 2026-08-07
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -34,6 +34,27 @@ La Revelación sobre el pecado no se limita a mostrar su realidad y su malicia, 
 La fórmula «remisión de los pecados» es frecuente en los escritos neotestamentarios: predicarla es parte de la misión del Bautista que muestra a Jesús como el Cordero que quita el pecado del mundo; es también el motivo por el cual Jesús se ha hecho en todo igual a nosotros, que da razón de su nombre y de todo su actuar hasta el momento culminante de la cruz. Este perdón forma parte importante de la misión de la Iglesia y del kérigma de los Apóstoles; por eso se encuentra en los Símbolos de la fe desde el primer momento. (Ele_Xto_Stos, Cap. XI, §1e)
 
 El hombre responde a la remisión de los pecados a través de la [[conversión]] que, además de acoger la gracia de Jesús, requiere el reconocimiento de las propias culpas y el inicio de una vida nueva, que se constata por sus frutos. (Ele_Xto_Stos, Cap. XI, §1e)
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+Jesús vino como Salvador y Redentor: todo su magisterio y toda su obra
+tendían a curarnos del mal, y lo rechazaron precisamente «los que se creían
+ya en regla con su conciencia», que no solo no sentían necesidad de un
+Salvador, sino que querían que Jesús se prestara a la ejecución de sus
+proyectos (por ejemplo, la liberación de la opresión política de los
+romanos). Había recibido del Padre un solo encargo: contar a los hombres su
+infinita misericordia y su deseo de abrazar a todos los hijos perdidos (Lc
+15), y realizar esa reconciliación.
+
+La remisión se cumple en la **expiación**: Cristo se cargó con todas las
+culpas y sostuvo su peso con amor, sin separarse de la obediencia al Padre,
+porque su Humanidad estaba abrazada indisolublemente por su Divinidad. Su
+pasión y muerte fueron como una gran confesión de los pecados del mundo; su
+Resurrección, como la gran absolución del Padre. Desde entonces la Iglesia
+tiene el poder de «administrar» esa absolución a quienes confiesan
+humildemente sus pecados y piden perdón, unidos a Jesús crucificado
+([[expiación]], [[absolución]], [[misericordia_de_dios]]).
+
 
 ## Relaciones doctrinales
 

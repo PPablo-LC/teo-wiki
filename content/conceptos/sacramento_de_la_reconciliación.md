@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Sacramento de la reconciliación"
 tags: ["sacramental"]
-timestamp: 2026-10-13
+timestamp: 2026-10-19
 description: "Sacramento instituido por Jesucristo para el perdón de los pecados cometidos después del bautismo, por la contrición, la confesión y la satisfacción."
 ---
 # Sacramento de la reconciliación
 
 > Área: Sacramental
-> Última actualización: 2026-10-13
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -240,6 +240,50 @@ Tóth llama a la confesión y la comunión «las fuentes de una vida nueva» y l
 Describe el confesionario como el lugar donde la joven encuentra «una mano paternal que te saque las espinas», «un bálsamo que te cure las heridas» y «un Padre benévolo que con amor vela por su hija y la salva del peligro» [PyH, cap. 6]. Pide confesar «con sinceridad… y con firme propósito de enmienda», y subraya el valor de la costumbre de confesarse «una vez al mes, por lo menos»: quien la sigue «no ha de temer mucho por su alma… Es posible que tropiece en la vida…, pero se levantará de nuevo y no se quedará tendida en el pecado» [PyH, cap. 6].
 
 Advierte, por último, sobre la elección del confesor: «No te guíes de la moda para elegir confesor. Busca el que conviene a tu actual modo de ser. "Letrado sobre todo, y no medio letrado", como juiciosamente apunta Santa Teresa de Jesús» [PyH, cap. 6]. La confesión se ordena así a la [[conversión]], se une a la [[eucaristía]] y a la [[dirección_espiritual]], y restaura la [[gracia_santificante]].
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+Sicari presenta el sacramento como **don** antes que como trámite: lo que
+recibe el penitente no es el resultado de sus actos, sino un perdón «anterior
+a todos nuestros actos», puesto gratuitamente a disposición por Jesús que
+muere en la cruz. Las condiciones —dolor de haber pecado, confesión sincera
+al sacerdote, reparación mediante la oración y obras de caridad (o, en
+ciertos casos, intervenciones directamente reparadoras) y propósito de no
+volver a pecar— importan porque Dios no trata a las personas como
+marionetas: indican el movimiento de la libertad que dice sí al don, «como
+quien al menos abre las manos para recibir un don que se le ofrece».
+
+El capítulo V responde a cinco objeciones frecuentes:
+
+1. **«No tengo pecados»**: esa misma conciencia es lo que hay que confesar;
+   nace de poca luz y delicadeza (Teresa de Lisieux: el vaso de agua parece
+   limpio hasta que se expone al sol) y de vivir individualistamente, sin
+   advertir la corresponsabilidad en el mal ([[dimensión_social_del_pecado]]).
+2. **«Basta pedir perdón a Dios»**: el cristianismo es lo contrario de un
+   trato puramente interior: Dios envía a su Hijo a buscarnos y a cargar con
+   el mal, y lo hace «de manera humana, como un médico que acoge al enfermo,
+   como un amigo que escucha al amigo». El confesionario es el lugar donde
+   Jesús toma sobre sí el pecado, al pie de la cruz.
+3. **«¿Por qué confesar a otro pecador?»**: precisamente porque es pecador
+   queda claro que el sacerdote no es juez, ni modelo, ni terapeuta, sino
+   «administrador» que se humilla al recordar sus propios pecados; es además
+   signo de la comunidad: en él es la Iglesia herida la que perdona y acoge
+   ([[poder_de_las_llaves]], [[confesor]]).
+4. **«No logro arrepentirme / mis propósitos fallarán»**: si el perdón
+   dependiera de nuestros actos sería casi imposible; el test de la calidad
+   del dolor y del propósito es la disponibilidad gozosa a «trabajar sobre
+   uno mismo» con paciencia ([[contrición]], [[propósito_de_enmienda]]).
+5. **«Siempre los mismos pecados»**: a menudo falta un trabajo personal
+   —oración, compasión por Cristo, huida de la ambigüedad, buena compañía—,
+   es decir, vida eclesial. Cuanto más enfermo se siente uno, más debe quedar
+   donde puede ser curado; cada confesión reconoce la victoria de Cristo,
+   frente al demonio que susurra «tú eres tu pecado» ([[confesión_frecuente]]).
+
+Sobre la comunión eucarística, advierte que quien tiene conciencia de pecado
+grave debe confesarse antes, y que a muchos cristianos les haría más bien
+abstenerse con dolor humilde —cultivando el deseo de la Eucaristía— que
+«absolverse a sí mismos» mezclando pecados y comuniones.
+
 
 ## Distinciones importantes
 

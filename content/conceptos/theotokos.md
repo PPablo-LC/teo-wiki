@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Theotokos
 tags: ["dogmática_—_mariología"]
 
-timestamp: 2026-06-25
+timestamp: 2026-10-19
 description: "Theotokos (en griego Θεοτόκος)."
 ---
 # Theotokos
 
 > Área: Dogmática — Mariología
-> Última actualización: 2026-06-25
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -33,6 +33,17 @@ El Denzinger recoge la definición del Concilio de Éfeso: «Si alguno no confie
 
 Scott Hahn (BMV, lecciones 6-7) presenta el título *Theotokos* como la culminación de la tipología de la Reina Madre: María es la madre del Rey davídico (Lc 1,32-33), aclamada por Isabel como «madre de mi Señor» (Lc 1,43), eco de la *gebirah* de 1 Re 2. El curso defiende que el dogma de Éfeso (431) no es una especulación helenística sino la explicitación de la maternidad real que la Escritura atribuye a María: quien da a luz al Rey es madre del Rey, y el Rey es Dios.
 
+### Según Scott Hahn (Hail, Holy Queen)
+
+Hahn reconstruye en el capítulo 5 la historia del título y su recepción popular:
+
+- **Antigüedad de la invocación.** Ya en el siglo III —y probablemente antes— la Iglesia de Egipto oraba: «Bajo tu amparo nos acogemos, oh santa Madre de Dios». Clemente de Alejandría, Orígenes y Alejandro de Alejandría llamaron a María «Madre de Dios» o «Madre del Señor». La fórmula se apoya en la salutación inspirada de Isabel: «¿quién soy yo para que la madre de mi Señor venga a mí?» (Lc 1,43).
+- **La lógica de la fe.** Si Cristo es Dios y María es su madre, entonces es Madre de Dios. La dificultad del siglo V no era bíblica sino conceptual: algunos temían que el título hiciera de María el «origen» de la divinidad. La respuesta de Cirilo —la madre da a luz una persona, no una naturaleza— se apoya en la [[comunicación_de_idiomas]].
+- **La recepción del pueblo.** Cuando Celestino I convocó el Concilio de Éfeso (431), los cristianos se agolparon en la ciudad esperando el decreto; al oír que María era proclamada Madre de Dios, celebraron llevando en procesión a los doscientos obispos. Hahn comenta que nadie hace eso por un argumento académico ni por una metáfora: lo hicieron por su propia madre.
+- **Consecuencia.** Al llamar a María «Madre de Dios» confesamos a la vez la unidad de la Persona de Cristo y nuestra condición de hijos: somos hermanos del Dios hecho hombre, no solo de su humanidad.
+
+[HHQ, cap. 5]
+
 ## Relaciones doctrinales
 
 El título Theotokos presupone la [[unidad_hipostática]] de las dos naturalezas en Cristo y se opone al [[nestorianismo]], que divide a Cristo en dos personas. Es fundamento de la [[mariología]] católica y de la [[comunicación_de_idiomas]], pues lo que se predica de la humanidad de Cristo se predica de la persona del Verbo.
@@ -44,3 +55,4 @@ El título Theotokos presupone la [[unidad_hipostática]] de las dos naturalezas
 ## Referencias
 
 - Denzinger D-111a, D-113, D-116-117, D-125, D-142a-b, D-218 (Enchiridion Symbolorum)
+- Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 5

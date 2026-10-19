@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pobreza evangélica
 tags: ["ascética"]
 
-timestamp: 2026-09-13
+timestamp: 2026-10-19
 description: "La pobreza evangélica es el desprendimiento voluntario de los bienes temporales por amor a Cristo y al Evangelio."
 ---
 # Pobreza evangélica
 
 > Área: Ascética
-> Última actualización: 2026-09-13
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -102,6 +102,34 @@ San Francisco de Asís encarna la pobreza evangélica en su forma más radical y
 Giussani presenta al pobre por espíritu como quien ofrece: «la ofrenda es, ante todo, reconocer que aquello de lo que la realidad está hecha es Cristo»; quien descubre que Cristo es la consistencia de todas las cosas alcanza «la experiencia de una posesión completa» — «lo que tienes entre las manos, el rostro que tienes entre las manos morirá o está por morir, pero, estando hecho de Cristo, ya no lo pierdes» (AED, 22, 31-43).
 
 Este es el sentido del desapego evangélico: «hay todo el problema del desapego inherente para ser experiencia de posesión completa» (AED, 22, 47). Como el aeroplano que, antes de despegar, hace subir el motor al máximo hasta que toda la estructura vibra, el amor que se detiene a un metro del objeto querido posee más que quien lo agarra con ambas manos: «en aquel momento quieres a la persona cien mil veces más que si la agarraras con las dos manos» (AED, 22, 47-51). La pobreza es así la adoración que reconoce en toda criatura el signo de Cristo y que, por eso, «nada en el mundo la puede cancelar» (AED, 22, 57).
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+En el séptimo mandamiento, Sicari advierte que el mal condenado no se agota en
+el acto material de quitar el dinero ajeno: se radica en la relación que el
+hombre, las comunidades y las naciones establecen con el **tener**, entendido
+ya como un modo de concebir la existencia. Cuando la relación con la realidad
+se vive como posesión y consumo, la única diferencia que cuenta es la que hay
+entre tener y no tener todavía, y «tomar para tener» se convierte en actitud
+de base de todos los vínculos sociales; entonces cada uno se siente ladrón
+solo cuando una fuerza mayor le arrebata lo mal tomado, y considera ladrones a
+los demás cuando usan su fuerza contra él, aunque sea el Estado.
+
+Observar el mandamiento significa, por tanto, comprender y experimentar que la
+felicidad verdadera no depende del tener ni de la cantidad de bienes, sino del
+modo en que cada uno cultiva su propia existencia; y de esa «cultivación» forma
+parte no solo lo necesario para vivir, sino también aquel superfluo que hace
+grata la vida «en una digna sobriedad».
+
+De ahí su propuesta pedagógica: la reeducación, sobre todo de los jóvenes, en
+la **pobreza cristiana**, que «no significa carecer de recursos [...] sino
+tener un corazón que vibra por el deseo de donar lo que se tiene». Y su
+diagnóstico de las sociedades ricas: muchos tienen más de lo que necesitan
+para vivir y son infelices, «insatisfechos por lo que tienen, a causa de lo
+que "son" —o mejor, de lo que no logran ser—». En el contexto de un consumismo
+desconsiderado y escandaloso, el mandamiento pide también el cuidado de la
+sobriedad ([[sobriedad]], [[doctrina_social_de_la_iglesia]], [[hurto]]).
+
 
 ## Distinciones importantes
 

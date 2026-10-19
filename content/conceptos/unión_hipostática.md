@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Unión Hipostática
 tags: ["dogmática", "cristología"]
 
-timestamp: 2026-06-12 (enriquecido con SmTh IIIª q.16-17)
+timestamp: 2026-10-19
 description: "Unión de la naturaleza humana y la naturaleza divina en la única Persona del Verbo (Hijo de Dios), en Jesucristo."
 ---
 # Unión Hipostática
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-06-12 (enriquecido con SmTh IIIª q.16-17)
+> Última actualización: 2026-10-19
 
 ## Definición
 Unión de la naturaleza humana y la naturaleza divina en la única Persona del Verbo (Hijo de Dios), en Jesucristo. Las dos naturalezas, sin mezcla ni confusión, subsisten en una sola hipóstasis o persona divina.
@@ -26,39 +26,51 @@ El Concilio de Calcedonia confesó que «no hay más que una sola hipóstasis [o
 
 **IIIª q.2 — Modo de la unión del Verbo encarnado:**
 
-**a.1 — Unión en la persona, no en la naturaleza:** La unión del Verbo encarnado se realizó en la persona (hipóstasis), no en la naturaleza. Las dos naturalezas (divina y humana) permanecen íntegras y distintas, pero subsisten en una sola Persona, la del Verbo.
+**a.1 — La unión no se realizó en la naturaleza.** «Naturaleza» significa principio intrínseco de movimiento (forma o materia) y, sobre todo, esencia específica. Dos o más realidades solo pueden formar una sola de tres modos: por composición, orden o figura (accidental y artificial, no daría un ser absoluto); por transformación de ambas en un compuesto (la naturaleza divina es inmutable, y lo mixto no conserva la especie de sus elementos); o a base de elementos imperfectos (como alma y cuerpo, que constituyen una naturaleza —no una persona—). Ninguno de estos modos explica la Encarnación: según la definición de Calcedonia, en Cristo hay dos naturalezas «sin confusión, sin cambio, sin división, sin separación». Las palabras de Cirilo sobre «una sola naturaleza hecha carne» se entienden con el V Concilio: la única naturaleza del Verbo se unió a la carne en la persona (SmTh IIIa q.2 a.1).
 
-**a.2 — Contra Nestorio:** La Encarnación consistió en que la naturaleza humana fue asumida por el Verbo en la unidad de la persona, no una mera inhabitación o conjunción moral. La unión en la persona salva la verdad de la Encarnación.
+**a.2 — La unión se realizó en la persona.** Persona y naturaleza se distinguen: la naturaleza es la esencia específica, el supuesto o persona es el individuo subsistente que incluye la naturaleza como parte formal. En Dios solo hay distinción conceptual; en las criaturas compuestos hay diferencia real. Todo lo que existe en una persona —aunque no pertenezca a su naturaleza— está unido a ella en la persona: como la naturaleza humana no pertenece a la naturaleza divina, la unión se hizo en la persona del Verbo, no en su naturaleza. Que la naturaleza humana pierda su personalidad propia no es menoscabo de su dignidad: «es más digno para un sujeto existir en otro más honorable que él, que tener existencia propia». Tampoco basta que sea individuo: no es persona lo que existe en otro ser más perfecto, como la mano de Sócrates (SmTh IIIa q.2 a.2).
 
-**a.3 — ¿Queda suprimida la persona humana?** La naturaleza humana de Cristo no tiene personalidad humana propia porque la persona es el término de la naturaleza; al ser asumida por el Verbo, su término es la Persona increada del Hijo. Cristo no es una persona humana, sino una Persona divina con naturaleza humana.
+**a.3 — La unión se hizo en la hipóstasis.** Persona e hipóstasis no se distinguen sino en que la persona añade la relación con la naturaleza racional; por tanto, atribuir a la naturaleza humana de Cristo personalidad propia es lo mismo que atribuirle hipóstasis propia, y el V Concilio condenó «dos subsistencias o dos personas». Si la unión se hiciera solo «en la persona» entendida como hipóstasis dignificada, sería una unión de dignidad, autoridad o poder —herejía condenada por Cirilo en Efeso—; y si hubiese en Cristo otra hipóstasis distinta de la del Verbo, los hechos humanos (nacer de la Virgen, padecer, ser crucificado) no se realizarían en el Verbo. La naturaleza humana de Cristo, aunque sustancia particular, no es hipóstasis porque está unida al todo completo que es Cristo; y Cristo pertenece a la especie humana por la naturaleza asumida, no por la propia hipóstasis (SmTh IIIa q.2 a.3).
 
-**a.4 — ¿Pudo la naturaleza humana ser asumida sin persona?** Sí, porque la persona es el subsistente distinto. La naturaleza humana de Cristo subsiste en la Persona del Verbo, no tiene un subsistir propio separado.
+**a.4 — La persona de Cristo es compuesta según la razón de persona.** Considerada en sí misma, la persona de Cristo es totalmente simple, como la naturaleza del Verbo; pero considerada según la razón de persona o hipóstasis —a la que pertenece subsistir en una naturaleza—, subsiste en dos naturalezas, de donde se sigue una doble razón de subsistencia: en este sentido se dice que su persona es compuesta, en cuanto un solo ser subsiste en dos naturalezas (SmTh IIIa q.2 a.4).
 
-**a.5 — Unión hipostática:** La unión de las dos naturalezas en una sola hipóstasis define el dogma. «Hipóstasis» significa lo mismo que «persona» (subsistente distinto e incomunicable).
+**a.5 — En Cristo hubo unión real entre alma y cuerpo.** Cristo es llamado hombre unívocamente con los demás hombres (Flp 2,7), y es propio de la especie humana que el alma esté unida al cuerpo; negar esa unión es herético, porque destruye la verdad de la humanidad de Cristo. En los hombres, la unión de alma y cuerpo constituye la persona; en Cristo, en cambio, alma y cuerpo se unen para existir juntos en una realidad superior que subsiste en ellos —el compuesto se une a la persona preexistente del Verbo—, por lo que no surge una nueva hipóstasis. El Verbo es principio de vida eficiente, pero no formal: el alma es la forma del cuerpo, y el Verbo no puede ser forma de nada corpóreo (SmTh IIIa q.2 a.5).
 
-**a.6 — Modo de la asunción:** La naturaleza humana fue asumida ni por mérito (sería anterior a la gracia) ni por necesidad (Dios no necesita nada), sino por la sola gracia y misericordia divina.
+**a.6 — La unión no fue accidental.** Sobre la unión de las dos naturalezas surgieron dos herejías: la de los que las confunden (Eutiques, Dióscoro) y la de los que separan las personas (Nestorio, Teodoro de Mopsuestia), para quien la unión era de inhabitación, de afecto, de operación, de dignidad o de equivocación —todos modos accidentales—. La fe católica confiesa «la unión del Dios Verbo con la carne según unión de composición, es decir, según hipóstasis». La comparación con el hábito o vestido no indica unión accidental, sino que el Verbo se hace visible por la naturaleza humana sin cambio de su naturaleza; lo que sobreviene al Verbo no es accidental porque la naturaleza humana entra en comunión de ser con él; y el carácter instrumental de la humanidad no implica accidente cuando es asumida «en unidad de hipóstasis» (SmTh IIIa q.2 a.6).
 
-**a.7-8 — Gracia de unión y gracia habitual:** La gracia de unión (gratia unionis) es la misma unión personal de la naturaleza humana con el Verbo, que es increada. Distinta de ella es la gracia habitual (gratia habitualis), cualidad creada en el alma de Cristo, que es plenísima: Cristo no recibe la gracia en medida, sino en plenitud, como Cabeza de la Iglesia.
+**a.7 — La unión es algo creado.** La unión es una relación entre la naturaleza divina y la humana conjuntadas en la persona del Hijo; toda relación entre Dios y la criatura es real en la criatura e ideal (de razón) en Dios. Por tanto, la unión no es real en Dios, sino solo de razón, mientras que es real en la naturaleza humana, que es criatura: en consecuencia, la unión es algo creado. Que el término de la unión sea la hipóstasis divina increada no cambia esto, porque el motivo de la relación depende del término, pero su esencia depende del sujeto (SmTh IIIa q.2 a.7).
+
+**a.8 — La unión no es lo mismo que la asunción.** La unión incluye la relación misma; la asunción solo implica acción —por parte de la persona que asume— o pasión —por parte de lo asumido—. De ahí otras diferencias: la asunción expresa el devenir, la unión lo hecho; la asunción supone término de partida y de llegada, la unión es indiferente entre los extremos (por eso se dice que la naturaleza divina está unida, pero no asumida); y el que une y el que asume no son idénticos: la persona del Padre unió la naturaleza humana al Hijo, pero no la unió a sí mismo, por lo que se llama uniente, no asumente (SmTh IIIa q.2 a.8).
+
+**a.9 — Es la máxima de las uniones.** La unión hipostática tiene la supremacía entre todas las uniones por parte de la realidad en que se realizan —la unidad de la persona divina es la máxima—, aunque no por parte de los elementos que se unen. La unidad de la persona divina es unidad subsistente en sí misma, no participada, y superior a la unidad numérica. A la objeción de que «el hombre está en el Hijo más íntimamente que el Hijo en el Padre» (Agustín), Tomás responde que la naturaleza humana no está en el Hijo con la intensidad de la unidad esencial; el hombre está «más» en el Hijo solo en cuanto «hombre» y «Hijo de Dios» designan allí el mismo supuesto (SmTh IIIa q.2 a.9).
+
+> Los aa.10-12 de la q.2 (gracia como principio de la unión, mérito y connaturalidad) se recogen en [[gracia_de_unión]].
 
 **IIIª q.3 — Persona asumente:**
 
-**a.1-2 — Conveniencia de la Persona del Hijo:** Es apropiado que el Hijo asuma la naturaleza humana porque Él es el Verbo (concepto intelectual) y la Encarnación manifiesta la sabiduría divina. Además, el Hijo es la Imagen del Padre, y la naturaleza humana fue hecha a imagen de Dios.
+**a.1 — Asumir compete propiamente a la persona divina.** La asunción incluye principio y término del acto, y la persona es ambas cosas: principio, porque el actuar es propio de la persona y la asunción de la carne se realizó por una acción divina; término, porque la unión se hizo en la persona. La persona infinita no admite adición (nada se añade a Dios, como en la adopción); ser incomunicable solo significa no predicarse de muchos supuestos, lo que no impide que subsista en diversas naturalezas. La naturaleza humana no constituye la persona divina de modo absoluto —el Hijo existe desde la eternidad—, solo le da su existencia humana (SmTh IIIa q.3 a.1).
 
-**a.3-4 — Otras Personas:** El Padre y el Espíritu Santo, en potencia absoluta, pudieron asumir, pero no sería conveniente: el Hijo es la Persona procedente por modo de inteligencia (el Verbo), y la Encarnación es una manifestación de la sabiduría divina.
+**a.2 — El asumir corresponde a la naturaleza divina como principio, no como término.** Por su poder se realizó la asunción, de modo que la naturaleza divina es principio de la asunción; ser término le compete solo por razón de la persona. Por eso primordialmente se dice que la persona asume, y solo secundariamente que la naturaleza asume «a su propia persona» otra naturaleza —hablando de «naturaleza encarnada», no como si se hubiese convertido en carne, sino porque asumió una naturaleza carnal (Damasceno) (SmTh IIIa q.3 a.2).
 
-**a.5-6 — Pluralidad de asunciones:** No convino que varias Personas divinas asumiesen cada una una naturaleza humana (serían varios hijos), ni que una misma Persona asumiese dos naturalezas humanas (sería una sola hipóstasis con dos hombres).
+**a.3 — Prescindiendo mentalmente de la personalidad, la naturaleza divina puede asumir.** El entendimiento puede estudiar a Dios tal como es —donde todo es uno y no puede retenerse una persona suprimiendo otra— o al modo en que él entiende, por partes: así comprende los atributos esenciales dejando aparte las propiedades personales (paternidad, filiación). Prescindiendo mentalmente de éstas, la naturaleza divina subsiste en nuestra consideración como subsistente y como persona, y por su omnipotencia («nada hay imposible para Dios», Lc 1,37) puede concebirse que asuma la naturaleza humana (SmTh IIIa q.3 a.3).
 
-**IIIª q.4 — Objeto asumido:**
+**a.4 — Una persona divina puede asumir sin que asuman las demás.** El acto de asumir proviene del poder divino, común a las tres personas; el término de la asunción es la persona. Así, lo que hay de acción es común a las tres, pero lo que pertenece a la razón de término conviene solo a una: las tres personas hicieron que la naturaleza humana se uniese únicamente a la persona del Hijo. La asunción por gracia de adopción es común también en el término; la asunción por gracia de unión, solo en el principio (SmTh IIIa q.3 a.4).
 
-**a.1 — Naturaleza caída:** El Verbo asumió la naturaleza humana en el estado de caída (con las debilidades consecuentes al pecado: hambre, sed, pasibilidad, mortalidad), no asumió el pecado. Asumió la pena del pecado, no la culpa.
+**a.5 — En potencia, el Padre y el Espíritu Santo pudieron encarnarse.** El poder divino es común e indiferente a las tres personas, y la virtud que se comporta indiferentemente respecto de varios sujetos puede terminar su acción en cualquiera de ellos. No habría confusión de personas: la filiación temporal no constituye la persona, y la filiación adoptiva la recibiríamos del Padre por apropiación o del Espíritu Santo como don, como de hecho la recibimos del Hijo por analogía con su filiación natural (SmTh IIIa q.3 a.5).
 
-**a.2 — De la estirpe de Adán:** Asumió la naturaleza humana de la estirpe de Adán para satisfacer por toda la humanidad, que desciende de Adán.
+**a.6 — Dos o tres personas divinas podrían asumir una única naturaleza humana.** Las personas divinas no se excluyen entre sí de la comunión en una misma naturaleza, sino solo de la comunión en una misma persona; y el misterio de la encarnación «radica en el poder del que lo ejecuta». Por tanto, no es imposible que dos o tres asuman una única naturaleza humana (diríamos «un solo hombre» por unidad de naturaleza, como decimos «un único Dios»), pero sería imposible que asumiesen una única hipóstasis o persona humana: «varias personas no pueden asumir un único y mismo hombre» (Anselmo) (SmTh IIIa q.3 a.6).
 
-**a.3 — Sexo masculino:** Asumió el sexo masculino por conveniencia (Cristo es esposo de la Iglesia, cabeza de la humanidad).
+**a.7 — Una sola persona divina hubiera podido asumir dos naturalezas humanas.** El poder de la persona divina es infinito y no puede quedar limitado a algo creado: lo creado no puede restringir a lo increado. Sería inaceptable que la persona divina hubiese asumido una naturaleza humana de tal modo que no pudiera asumir otra distinta. En tal hipótesis, por la unidad de supuesto habría que hablar de «un hombre con dos naturalezas humanas», no de dos hombres (SmTh IIIa q.3 a.7).
 
-**a.4-5 — Sin personalidad humana:** La naturaleza humana asumida no tiene persona humana propia, y fue propagada convenientemente desde Adán hasta la Virgen María.
+> El a.8 de la q.3 —por qué fue más conveniente la encarnación del Hijo que la del Padre o del Espíritu Santo— se recoge en [[verbo_encarnado]].
 
-**a.6 — Nacido de Virgen:** Convenía que Cristo naciese de una Virgen para que su nacimiento fuese digno del Hijo de Dios, y para que su concepción fuese virginal, sin concupiscencia.
+**IIIª q.4 — Objeto asumido (la naturaleza humana):**
+
+**a.2 — El Hijo de Dios no asumió la persona humana.** Lo asumido se presupone a la asunción, pero la persona humana no se presupone: es término de la asunción. Si se presupusiese, o se corrompería —habría sido asumida en vano—, o permanecería después de la unión, con lo que resultarían dos personas, la asumente y la asumida. Que la persona divina «consumió» la persona del hombre (Inocencio III) se entiende en sentido impropio: la unión impidió que la naturaleza humana tuviera su propia personalidad, que de otro modo habría tenido (SmTh IIIa q.4 a.2).
+
+**a.3 — La persona divina no asumió «a un hombre».** «Hombre» significa la naturaleza humana en cuanto apta para existir en un supuesto; y como en Cristo hay un solo supuesto y una sola hipóstasis, no puede decirse propiamente que el Hijo asumió a un hombre (solo sería propio en la hipótesis nestoriana de dos hipóstasis, condenada). Las autoridades que dicen «el Hijo asumió al hombre» se interpretan piadosamente: fue asumida su naturaleza, y la asunción tuvo como término que el Hijo de Dios sea hombre. El Hijo no es «el hombre que asumió», sino aquel cuya naturaleza asumió (SmTh IIIa q.4 a.3).
+
+> Los aa.1 y 4-6 de la q.4 (aptitud de la naturaleza humana para ser asumida, e individuos concretos de la asunción) se recogen en [[naturaleza_humana_de_cristo]].
 
 **IIIª q.16 — Comunicación de idiomas (consecuencias de la unión):**
 
@@ -125,4 +137,4 @@ Se relaciona con [[encarnación]], [[jesucristo]], [[trinidad]], [[virgen_maría
 
 - [CEC §468-470; §252; §476]
 - [TPCr, Primera Parte, Cap. 1 y 3]
-- SmTh IIIª q.2 aa.1-12; q.3 aa.1-8; q.4 aa.1-6; q.16 aa.1-12; q.17 aa.1-2; q.20 aa.1-2
+- SmTh IIIª q.2 aa.1-9; q.3 aa.1-7; q.4 aa.2-3; q.16 aa.1-12; q.17 aa.1-2; q.20 aa.1-2

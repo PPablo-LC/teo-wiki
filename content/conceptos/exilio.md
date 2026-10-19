@@ -39,7 +39,7 @@ Pero en medio de la prueba, Dios seguía presente. Los profetas consolaron a los
 
 ## Ver también
 
-[[babilonia]], [[cautividad]], [[patria_celestial]]
+[[babilonia]], [[cautividad]], [[patria_celestial]], [[restauración]]
 
 ## Referencias
 

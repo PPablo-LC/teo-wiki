@@ -13,7 +13,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ## Conceptos básicos referenciados
 
 - [[dignidad_de_la_mujer]] — criatura hecha a imagen y semejanza de Dios
-- [[imagen_y_semejanza_de_Dios]] — fundamento de la subjetividad de la mujer
+- [[imagen_y_semejanza_divina]] — fundamento de la subjetividad de la mujer
 - [[mulieris_dignitatem]] — Carta Apostólica sobre la dignidad de la mujer
 - [[genio_femenino]] — modo específico de ser «en femenino»
 - [[subjetividad]] — fuente de autonomía responsable que se plenifica en el amor
@@ -29,7 +29,7 @@ Durante la IV Conferencia Mundial sobre la Mujer, la comunidad internacional ser
 
 En el pasado y todavía hoy, la conciencia de la identidad y del valor de la mujer ha quedado ofuscada por múltiples condicionamientos e incluso ofendida por praxis injustas y violentas. En el umbral del tercer milenio esto es intolerable. La Iglesia une su voz a la denuncia de las injusticias y quiere anunciar de forma positiva el plan de Dios para que madure una cultura respetuosa y acogedora con respecto a la femineidad.
 
-Como ha subrayado especialmente en [[mulieris_dignitatem]], en la base de esta nueva cultura debe ponerse la afirmación de la [[dignidad_de_la_mujer]]: como el hombre y con el hombre, ella es persona, criatura hecha a [[imagen_y_semejanza_de_Dios]]; criatura dotada de una [[subjetividad]] que es fuente de autonomía responsable en la gestión de la propia vida. Esa subjetividad, lejos de aislar, es fuente de relaciones constructivas y encuentra su plenitud en el amor.
+Como ha subrayado especialmente en [[mulieris_dignitatem]], en la base de esta nueva cultura debe ponerse la afirmación de la [[dignidad_de_la_mujer]]: como el hombre y con el hombre, ella es persona, criatura hecha a [[imagen_y_semejanza_divina]]; criatura dotada de una [[subjetividad]] que es fuente de autonomía responsable en la gestión de la propia vida. Esa subjetividad, lejos de aislar, es fuente de relaciones constructivas y encuentra su plenitud en el amor.
 
 La mujer, al igual que el hombre, se realiza plenamente en la entrega sincera de sí (cfr *Gaudium et spes*, 24). Para la mujer esta subjetividad es fundamento de un modo específico de ser, un «ser en femenino», enriquecedor e indispensable para una armoniosa convivencia humana, tanto en la familia como en los demás ámbitos sociales.
 

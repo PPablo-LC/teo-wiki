@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Expiación
 tags: ["dogmática", "soteriología"]
 
-timestamp: 2026-06-12
+timestamp: 2026-10-19
 description: "La expiación es la satisfacción o reparación del pecado mediante la aceptación voluntaria de la pena debida, restableciendo el orden de la justicia violado por la ofensa."
 ---
 # Expiación
 
 > Área: Dogmática / Soteriología
-> Última actualización: 2026-06-12
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -46,6 +46,24 @@ El Día de las Expiaciones (Lev 16) era, en la conciencia judía, el «Día de l
 Royo Marín desarrolla ampliamente la doctrina de la expiación. El pecado desequilibra la balanza de la divina justicia con el peso del placer; el equilibrio se restablece por el peso del dolor. Cristo realizó la principal reparación, pero «falta algo a la pasión de Cristo —se atreve a decir San Pablo (Col 1,24)— que deben ponerlo sus miembros». El dolor cristiano expía los pecados: el reato de pena temporal «hay que pagarlo enteramente a precio de dolor en esta vida o en la otra». Trata también del ofrecimiento como víctima de expiación, cuyo fundamento dogmático es la solidaridad sobrenatural entre todos los miembros del Cuerpo Místico de Cristo.
 
 [TPCr, Tercera Parte, Libro I, Cap. 5, Art. 2]
+
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+La expiación, en Sicari, es el corazón del sacramento: Jesús «se cargó con
+todas nuestras culpas y sostuvo su peso y su sufrimiento —un peso y un
+sufrimiento que ni siquiera logramos imaginar—, y pudo soportarlo porque su
+Humanidad estaba abrazada indisolublemente por su Divinidad», y lo soportó
+«con amor, sin separarse ni un instante de su total obediencia al Padre».
+
+De ahí la fórmula que da su sello a todo el libro: la pasión y muerte de
+Cristo fueron «como una gran Confesión de los pecados del mundo», y su
+Resurrección, «como la gran Absolución concedida por el Padre celestial». La
+Iglesia, por la voluntad de Cristo que dijo a los Apóstoles «a quienes
+perdonéis los pecados, les serán perdonados», administra esa gran Absolución
+a quienes, humildemente y unidos a Jesús crucificado, confiesan sus pecados y
+piden perdón ([[absolución]], [[remisión_de_los_pecados]],
+[[pasión_de_cristo]]).
 
 
 ## Distinciones importantes

@@ -19,7 +19,7 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 - [[caridad]] — amor a Dios sobre todas las cosas
 - [[adoración]] — adorar a Cristo en el Sacramento
 - [[sagrado_corazón_de_jesús]] — consagración y novena de confianza
-- [[corazón_inmaculado_de_maría]] — consagración mariana
+- [[inmaculado_corazón_de_maría]] — consagración mariana
 - [[perseverancia_final]] — gracia de permanecer en la gracia hasta la muerte
 - [[avemaría]] — oración mariana
 

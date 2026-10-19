@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Idolatría
 tags: ["moral"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-19
 description: "Pecado contra el primer mandamiento que tributa a una criatura la adoración debida a Dios; la reducción de lo divino a los propios términos según Giussani; el deporte se vuelve ídolo cuando el apego al juego suplanta el amor divino."
 ---
 # Idolatría
 
 > Área: Moral
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -95,6 +95,28 @@ p. 63):
 texto del índice remite a Is 5,1-5 (la viña que da espinas), Ger 2,13 (las cisternas
 áridas) y Sal 130.
 
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+La idolatría aparece en el primer mandamiento del examen de conciencia, unida
+al [[ateísmo_práctico]]: quien no adora a Dios no queda sin adoración, porque
+«el hombre tiene una necesidad insuprimible de adoración: si no adora a Dios,
+adorará una piedra, un animal o cualquier otra cosa. Y se volverá semejante a
+lo que adora» (Dostoyevski). Sicari lee así la situación contemporánea:
+muchos rechazan adorar a Dios, los mismos cristianos viven en un práctico
+olvido de Él, «y se multiplican los ídolos más feroces (el dinero, el éxito,
+el placer, la salud, el poder) a los que se sacrifica todo, incluso los hijos
+y las criaturas más queridas».
+
+En la denuncia del segundo mandamiento, la blasfemia se entiende como
+«crucifixión continuada»: muestra hasta qué punto podemos herir a Dios y
+hasta qué punto Él se deja herir, pues se puso «en manos de los hombres, a su
+disposición, para ser amado y hasta para ser maltratado». Paradójicamente, la
+frecuencia de la blasfemia entre cristianos se explica por la naturaleza
+«familiar» del cristianismo: el súbdito no puede ser irrespetuoso con su
+dueño, pero el hijo sí puede serlo con sus padres porque está persuadido de
+que no lo rechazarán ([[blasfemia]], [[nombre_de_dios]]).
+
+
 ## Relaciones doctrinales
 
 La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mandamiento]] y vicia la virtud de la [[religión]]. Se distingue de la [[superstición]] (que da culto al verdadero Dios de modo indebido) y de la [[herejía]] (error intelectual sobre la fe).
@@ -105,7 +127,7 @@ La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mand
 - [[brian_cochran_my_personal_emmaus]]
 
 ## Ver también
-[[adoración]], [[superstición]], [[primer_mandamiento]], [[religión]], [[pecado_mortal]], [[virtud_de_la_religión]], [[sátira]]
+[[adoración]], [[superstición]], [[primer_mandamiento]], [[religión]], [[pecado_mortal]], [[virtud_de_la_religión]], [[sátira]], [[baal]]
 
 ## Referencias
 

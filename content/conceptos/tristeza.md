@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tristeza
 tags: ["moral", "ascética"]
 
-timestamp: 2026-09-17
+timestamp: 2026-10-19
 description: "La tristeza espiritual —y particularmente la [[acedia]]— es una aflicción del alma que nace de la percepción del mal presente o de la ausencia del bien, especialmente del bien espiritual."
 ---
 # Tristeza
 
 > Área: Moral / Ascética
-> Última actualización: 2026-09-17
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -56,6 +56,16 @@ Cristo tuvo verdadera tristeza en el apetito sensitivo, distinta del dolor sensi
 
 TPCr trata la tristeza como uno de los pecados capitales. La acedia es el pecado capital que entristece por el bien espiritual y es causa de muchos otros pecados: malicia, rencor, pusilanimidad, desesperación. Se combate con la [[alegría]] espiritual, la [[esperanza]] y la [[perseverancia]].
 
+### Según Instituciones cenobíticas — Juan Casiano (IC)
+
+En el Libro IX (*Del vicio de la tristeza*), Casiano describe al «espíritu de tristeza» como enemigo de la vida interior: la tristeza aleja de la contemplación, fastidia la lectura espiritual y quita la oración; «así como la polilla el vestido y la carcoma la madera, así la tristeza corroe el corazón» (Prov 25, 20), y el alma triste no puede ser templo del Espíritu Santo (IC, `24_capitulo.md`, §§I-III).
+
+**Orígenes:** la tristeza nace de la ira o del deseo frustrado; a veces el enemigo la instiga sin causa alguna. Las causas del pecado están en nosotros, no en los demás, y la paciencia evita la fuga de la convivencia fraterna (§§IV-VIII).
+
+**Distinción capital entre la tristeza según Dios y la del mundo:** la tristeza diabólica (la de Caín y la de Judas) lleva a la desesperación y a la muerte; solo es útil la tristeza que lleva al arrepentimiento: «la tristeza según Dios es causa de penitencia saludable» (II Cor 7,10), mientras «la tristeza del mundo produce la muerte» (§§IX-X). La tristeza santa va acompañada de los frutos del Espíritu Santo (Gal 5,22-23), y sus remedios son la meditación espiritual y la esperanza de los bienes futuros (§§XI-XIII).
+
+[IC, Libro IX — `24_capitulo.md`]
+
 ### Según Il senso religioso (SR)
 
 **La tristeza, carácter de la vida consciente (cap. V).** Giussani describe la tristeza como «carácter fundamental de la vida consciente de sí»: «deseo de un bien ausente», dice san Tomás. Nace de la «diferencia de potencial» entre la destinación ideal y la incompletud histórica —la desproporción del hombre, más grande que su vida (Leopardi, el pastor errante)—; su opuesto lógico es la desesperación, que aplana esa diferencia (SR, `12_capitolo_quinto.md`, §46-60).
@@ -80,4 +90,5 @@ Se relaciona con la [[acedia]], la [[pereza]], el [[desaliento]], la [[alegría]
 - TPCr, Tratado de los pecados capitales
 - SmTh Ia-IIae q.35-39
 - SmTh IIIª q.15 a.6
+- IC, Libro IX — Instituciones cenobíticas, `24_capitulo.md`
 - AED `24_preferenza_e_segno.md`, §Deve prevalere una tristezza

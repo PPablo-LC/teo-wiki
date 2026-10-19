@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Avaricia
 tags: ["moral"]
 
-timestamp: 2026-08-24
+timestamp: 2026-10-19
 description: "Vicio capital que consiste en el deseo desordenado de poseer bienes terrenos, acumulándolos sin medida y apegándose a ellos de modo inmoderado."
 ---
 # Avaricia
 
 > Área: Moral
-> Última actualización: 2026-08-24
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -61,6 +61,16 @@ El excesivamente rico es el más fácilmente engañado haciéndose creer omnipot
 
 Nelson condensa la lógica íntima del vicio: «Vivir como cristiano rico no es intrínsecamente pecaminoso; vivir sin generosidad sí lo es. Lo opuesto de la generosidad es la codicia, y la codicia nunca puede glorificar a Aquel que es Generosidad Infinita». El amor al dinero ahoga la humildad, la gratitud y la generosidad —virtudes que impiden el *incurvatus in se* agustiniano—; por eso el amor al dinero es raíz de todos los males [EAC-2, 07_film_root_of_all_evils].
 
+### Según Instituciones cenobíticas — Juan Casiano (IC)
+
+Para Casiano la avaricia —que designa con el término griego *philargyria*, «amor al dinero», tomado de Pablo (Col 3, 5; 1 Tim 6, 10)— es el **tercer campo de batalla** del monje (Libro VII, archivo `20_capitulo.md`, §§I-VI). Su rasgo distintivo frente a los demás vicios es que es **«pugna más bien exterior» y ajena a la naturaleza**: los otros vicios son casi congénitos, pero la avaricia nace de la tibieza, del abandono del alma y de la renuncia insincera al principio de la vida monástica; sin embargo, «cuanto más fácil es de precaver, tanto más miserable convierte al alma» (§V). Con Pablo la llama **«raíz de todos los males»** y una **especie de idolatría** (§VII): el avaro abandona la imagen de Dios en su alma y se fija en las figuras impresas en oro y plata.
+
+Casiano describe la **progresión del vicio**: del peculio oculto a la duplicación del dinero, la mentira, el robo y en última instancia la traición (§§VII-X). El dinero poseído es el **«viático de la inestabilidad»**: el avaro no puede ya permanecer en el cenobio ni bajo el yugo de la regla (§IX). Divide las **tres facetas de la avaricia** (§XIV): (1) almacenar riquezas nunca poseídas; (2) desear recuperar lo que se renunció; (3) reservar por temor a la pobreza — con los ejemplos de Giezi (lepra), Judas (suicidio) y Ananías y Safira (muerte súbita). Critica la interpretación torcida de «mejor es dar que recibir» para no despojarse de los bienes (§XVI), y recuerda la renuncia total de San Pablo y de los cristianos de Jerusalén (§XVII).
+
+Remedio: el **despojamiento absoluto** —no basta no poseer dinero: «se puede ser avaro sin tener dinero», pues lo que se extirpa es el deseo, no solo el efecto (§§XXI-XXVIII). La victoria perfecta es no alimentar «una sola chispa» del fuego; y el fundamento de todo es la paciencia nacida de la humildad (§XXXI). A propósito de la tibieza de Sinclecio, Casiano transmite la sentencia de San Basilio: «Has sacrificado al senador y no has hecho al monje» (§XIX).
+
+[IC, Libro VII — Del vicio de la avaricia (`20_capitulo.md`)]
+
 ## Distinciones importantes
 
 - **Avaricia vs. liberalidad**: la avaricia es exceso en el amor a las riquezas; la liberalidad modera ese amor
@@ -73,10 +83,11 @@ La avaricia se opone a la [[liberalidad]] y a la [[justicia]]. Es pecado capital
 
 ## Ver también
 
-[[soberbia]], [[lujuria]], [[gula]], [[envidia]], [[pecado]], [[pecado_original]], [[concupiscencia]]
+[[soberbia]], [[lujuria]], [[gula]], [[envidia]], [[pecado]], [[pecado_original]], [[concupiscencia]], [[instituciones_cenobíticas]]
 
 ## Referencias
 
 - [CEC §1866, §2536-2540]
 - [TPCr, Parte III, Libro II, Cap. II, n.415; Parte III, Libro I, Cap. 5]
 - [Santo Tomás, II-II, q.118]
+- [IC, Libro VII — Del vicio de la avaricia]

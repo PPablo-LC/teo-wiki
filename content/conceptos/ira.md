@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ira
 tags: ["moral", "ascética"]
 
-timestamp: 2026-10-18
+timestamp: 2026-10-19
 description: "La ira es una pasión del apetito irascible que inclina a rechazar con violencia el mal que se presenta como difícil o doloroso."
 ---
 # Ira
 
 > Área: Moral / Ascética
-> Última actualización: 2026-10-18
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -70,6 +70,16 @@ La represión de la ira desordenada es un efecto del don de temor, que actúa so
 
 El episodio sobre san José de Cupertino aplica la definición tomista de la ira a la psicología del iracundo: la ira «suele fomentarse por el sentimiento de propia baja estima» — el que se siente de poca estima estalla cuando percibe menosprecio (cf. SmTh q.47 a.2-4). San José, de carácter colérico, tuvo que luchar toda su vida contra ello, y el episodio lo lee como **«divino proyecto»**: Dios no espera la eliminación previa del defecto, sino que usa las debilidades y humillaciones para refinar al santo (1 Cor 1,26-29), de modo que la lucha misma contra la ira —aceptada, no negada— se convierte en materia de humildad y de [[minoridad_franciscana]] (ver [[humildad]]).
 
+### Según Instituciones cenobíticas — Juan Casiano (IC)
+
+La ira es el **cuarto combate** del monje (Libro VIII, archivo `22_capitulo.md`). Mientras resida en el corazón, es imposible adquirir la **discreción**, la sabiduría ni el recto juicio: «mis ojos han sido perturbados por la ira» (Sal 30, 10); «la cólera tiene su morada en el corazón del insensato» (Ecl 7, 10). El capítulo más original trata de la **interpretación figurada de la ira de Dios**: los pasajes que atribuyen a Dios cólera, sueño o miembros corporales no pueden entenderse a la letra sin caer en blasfemia (pues Dios es inmutable y ajeno a toda pasión), sino que expresan su justicia y su providencia en lenguaje humano (§§II-IV).
+
+Casiano distingue una **santa ira** o ira recta: contra los propios movimientos desordenados, contra el demonio y —con celo— contra los que ofenden a Dios (§§VII-IX). David es el modelo: derrama el agua de Belén y soporta las maldiciones de Semeí (§VIII). El vicio se extirpa según la doctrina evangélica: «la raíz más que los frutos» (Mt 3, 10); «quien aborrece a su hermano es homicida» (1 Jn 3, 15); el que se irrita es reo de juicio (Mt 5, 22) — Casiano rechaza la interpolación «sin razón» que algunos manuscritos añaden, porque nadie cree indignarse sin motivo (§XXI).
+
+Conexión práctica: no se puede guardar rencor ni hasta la puesta del sol, pues la ofrenda queda suspendida si el hermano nos guarda algo (Mt 5, 23-24); y **la soledad no cura la ira**: «de nada sirve retirarse al desierto si no se retira uno de sus miserias»; la paciencia se adquiere en la convivencia, y sin ella la cólera estalla incluso contra los objetos inanimados — anécdota de la caña, el cuchillo y el sílex en el desierto (§§XVI-XIX).
+
+[IC, Libro VIII — Del vicio de la ira (`22_capitulo.md`)]
+
 ## Distinciones importantes
 
 - Ira pasional: movimiento natural del apetito irascible (no pecaminoso en sí)
@@ -95,3 +105,4 @@ Se relaciona con las [[pasiones]], la [[mansedumbre]] (virtud opuesta), la [[pac
 - SmTh Ia-IIae q.46-48
 - SmTh IIIª q.15 a.9
 - [SJC, podcast «San José de Cupertino», Augustine Institute, 2026]
+- [IC, Libro VIII — Del vicio de la ira]

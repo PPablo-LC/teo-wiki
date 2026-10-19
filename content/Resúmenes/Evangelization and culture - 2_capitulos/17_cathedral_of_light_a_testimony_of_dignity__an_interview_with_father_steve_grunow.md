@@ -14,7 +14,7 @@ tags: ["resumen", "evangelization_and_culture", "derechos_humanos", "historia"]
 
 - [[derechos_humanos]] — Las Casas como articulador de principios sobre dignidad humana
 - [[dignidad_humana]] — fundamento de los derechos en la ley natural
-- [[doctrina_social]] — influencia de Las Casas en la enseñanza social de la Iglesia
+- [[doctrina_social_de_la_iglesia]] — influencia de Las Casas en la enseñanza social de la Iglesia
 
 ## Contenido
 

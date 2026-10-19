@@ -95,6 +95,18 @@ TACDC lee la creación desde la bondad del Ser: «la natura dell'Essere... viene
 
 En esta línea cita Sab 1,13-16: «Dio non ha creato la morte e non gode per la rovina dei viventi. Egli infatti ha creato tutto per l'esistenza... Ma l'uomo cerca la morte» (TACDC, 04, 71). El pecado y la muerte son, pues, parásitos de una creación que en sí misma es positiva: «Una positività totale nella vita deve guidare l'animo del cristiano... perché Dio, che ha fatto tutti gli esseri, è per il bene» (TACDC, 04, 73). De esta bondad originaria se sigue una consecuencia moral: «se la natura dell'Essere è amore... Dio non può azzerare neanche una opera buona — una sola! — fatta dall'uomo» (TACDC, 04, 67). Y como toda criatura remite a su Autor, «ogni istante che l'uomo vive è grandissimo: è rapporto con l'infinito» (TACDC, 04, 87).
 
+### Según José Luis Sicre (IAT)
+
+Sicre dedica al tema de la creación una atención doble: como problema científico y como clave teológica del Génesis.
+
+**Gn 1 y *Enuma Elish*.** El capítulo primero del Génesis reelabora el poema babilónico de la creación: hay semejanza en la importancia primordial del agua y en la creación por separación, pero las diferencias son más notables. La teogonía está ausente; la creación no es fruto de una batalla; y el mensaje propio de Gn 1 se resume en cinco puntos: todo es obra de Dios (monoteísmo estricto, desmitificación de los astros, bondad de lo creado); lo esencial del ser humano es su semejanza con Dios, que le permite dialogar con Él; todos los miembros de la humanidad, varones y hembras, poseen igual dignidad; la misión del hombre es dominar la tierra continuando la tarea creadora; y el tiempo, con sus estaciones y el sábado, inserta al hombre en el ritmo creador de Dios.
+
+**Dos relatos irreconciliables.** Gn 1,1–2,4a es una cosmogonía acuática (caos, agua, creación por la palabra en seis días); Gn 2,4b-25 es una cosmogonía terrestre (sequedad, alfarero, Adán antes de los vegetales y los animales, Eva de la costilla). Difieren en el orden de la creación, en el medio empleado, en el fin del hombre y en la relación hombre-mujer. Precisamente porque la Biblia usa modelos «científicos» opuestos, demuestra que no pretende enseñar ciencia: lo esencial es la relación de todo lo creado con Dios, la misión del hombre y la relación entre el hombre y la mujer, compatible con cualquier teoría científica que no niegue a Dios. Cita a san Agustín: «La Biblia no enseña cómo va el cielo sino cómo se va al cielo».
+
+**El conflicto con las ciencias.** Sicre rechaza tres posturas —desprestigiar la ciencia, el concordismo (Henry Morris) y una mal entendida «pedagogía divina»— y propone una cuarta: analizar los textos y compararlos entre sí para captar sus afirmaciones fundamentales, que no son científicas.
+
+[IAT, cap. 1, §§2.1, 4.1 y 4.2]
+
 ## Distinciones importantes
 
 - **Creación ≠ emanación**: Dios no «emana» el mundo de su substancia; lo crea libremente de la nada.

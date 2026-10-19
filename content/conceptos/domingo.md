@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Domingo
 tags: ["liturgia", "moral"]
 
-timestamp: 2026-05-26
+timestamp: 2026-10-19
 description: "El domingo es el día del Señor, el primer día de la semana en que Jesucristo resucitó de entre los muertos."
 ---
 # Domingo
 
 > Área: Liturgia / Moral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -42,6 +42,36 @@ Ratzinger desarrolla el domingo y la medida dominical en los archivos 04 y 07:
 **«Primer desayuno conmigo» (archivo 07):** Ratzinger abre la homilía de la Misa de la cena del Señor preguntándose «¿Por qué voy a la Misa dominical?». La respuesta: por aquel desayuno junto al lago (Jn 21,12), «el primer desayuno conmigo», que Jesús preparó para los suyos al amanecer de la resurrección. Las apariciones de Cristo son «la norma y la raíz» de la celebración dominical: la Misa del domingo reúne a la comunidad porque «Dios está cerca. Dios nos conoce. Dios nos espera en Jesucristo en el Santísimo Sacramento. ¡No lo dejemos esperando en vano!» (GINU, archivo 07).
 
 **Domingo, Eucaristía y vida cotidiana (archivo 07):** «La iglesia no es solo un espacio en el que algo sucede temprano por la mañana, mientras el resto del día está vacío». El domingo vuelve central la presencia permanente de Cristo: «¡Qué hermoso es, después de la Misa... dejar un tiempo para la adoración eucarística!». La presencia del Señor en el tabernáculo extiende el domingo a toda la semana (GINU, archivo 07).
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+En el examen de conciencia del tercer mandamiento, Sicari define la fiesta
+como «lo que dice a todos que un hombre es libre»: un pueblo de esclavos no
+tiene derecho a fiestas; en los campos de concentración no hay fiestas, solo
+hombres tratados como bestias de carga. La fiesta dice que el tiempo del
+trabajo puede interrumpirse y que el hombre tiene otras dimensiones que
+cultivar: el culto, el juego, la propia humanidad, los afectos, los gustos.
+
+«Domingo» significa exactamente «día del Señor Jesús»: el día en que el
+cristiano fue hecho hijo de Dios, fue salvado, recibió la Palabra y fue hecho
+hermano de todos. Santificarlo es vivir de modo que se «recuerde profunda y
+vitalmente» lo que ha ocurrido, y ese recuerdo se celebra en la Misa, donde
+las palabras y las obras decisivas de Jesús se actualizan por la predicación
+del Evangelio y la distribución de la Eucaristía.
+
+Pero el mandamiento habla de **un día entero**: la Misa es el gesto central y
+exige ser ampliado con el descanso, el cuidado de los vínculos afectivos y de
+la amistad, el cultivo del propio espíritu, y de modo particular la caridad
+con los más débiles y marginados (educar a los jóvenes en una «actividad
+caritativa» es uno de los modos más bellos de enseñarles qué es un día de
+fiesta). No se santifica la fiesta si en ese día uno se deja embrutecer más
+que en los demás; y advierte que las fiestas cristianas han quedado
+capturadas por la lógica de los ídolos del dinero, del éxito y del poder, que
+las han convertido en un enorme día de mercado en el que el consumo se
+vuelve una tortura. Santificar la fiesta es así un mandamiento que custodia
+la calidad y la dignidad de la vida ([[día_del_señor]], [[eucaristía]],
+[[descanso]]).
+
 
 ## Relaciones doctrinales
 

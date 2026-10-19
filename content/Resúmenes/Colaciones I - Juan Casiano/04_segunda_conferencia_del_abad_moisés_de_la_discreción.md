@@ -18,7 +18,7 @@ tags:
 
 ## Conceptos básicos referenciados
 
-- [[discrecion|discreción]] — don del Espíritu Santo (1 Cor 12,10); «lámpara del cuerpo» (Mt 6,22)
+- [[discreción]] — don del Espíritu Santo (1 Cor 12,10); «lámpara del cuerpo» (Mt 6,22)
 - [[humildad]] — única vía para adquirirla: someter todo al juicio de los ancianos
 - [[manifestacion_de_pensamientos]] — la confesión desarma al demonio oculto
 - [[justo_medio]] — «los excesos son iguales»: ayuno desmedido = gula

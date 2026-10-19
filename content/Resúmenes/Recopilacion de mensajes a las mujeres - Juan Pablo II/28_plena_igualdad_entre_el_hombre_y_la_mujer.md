@@ -13,7 +13,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ## Conceptos básicos referenciados
 
 - [[igualdad_entre_hombre_y_mujer]] — gran conquista de la civilización, afirmada en la creación
-- [[imagen_y_semejanza_de_Dios]] — fundamento bíblico de la dignidad de ambos sexos (Gen 1, 27)
+- [[imagen_y_semejanza_divina]] — fundamento bíblico de la dignidad de ambos sexos (Gen 1, 27)
 - [[mulieris_dignitatem]] — Carta Apostólica sobre la dignidad de la mujer (nn. 14-15)
 - [[jesucristo]] — actitud del Señor como coherente reproche a lo que ofende la dignidad de la mujer
 - [[resurrección]] — las mujeres como primeros testigos del Señor resucitado

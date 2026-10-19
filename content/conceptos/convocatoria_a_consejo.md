@@ -64,11 +64,11 @@ Como preparación para cualquier consejo, San Benito propone una lista de setent
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[autoridad_religiosa]], la [[obediencia]], la [[humildad]], la [[discrecion]], la [[prudencia]], la [[justicia]], el [[gobierno_religioso]], la [[vida_monastica]], la [[caridad]] fraterna y el [[senectud]] / consejo de los ancianos.
+Se relaciona con la [[autoridad_religiosa]], la [[obediencia]], la [[humildad]], la [[discreción]], la [[prudencia]], la [[justicia]], el [[gobierno_religioso]], la [[vida_monastica]], la [[caridad]] fraterna y el [[senectud]] / consejo de los ancianos.
 
 ## Ver también
 
-[[autoridad_religiosa]], [[gobierno_religioso]], [[obediencia]], [[humildad]], [[discrecion]], [[prudencia]], [[vida_monastica]], [[caridad]]
+[[autoridad_religiosa]], [[gobierno_religioso]], [[obediencia]], [[humildad]], [[discreción]], [[prudencia]], [[vida_monastica]], [[caridad]]
 
 ## Referencias
 

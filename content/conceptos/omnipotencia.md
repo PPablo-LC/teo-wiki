@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Omnipotencia
 tags: ["dogmática", "teología_natural"]
 
-timestamp: 2026-06-12
+timestamp: 2026-10-19
 description: "Atributo divino por el cual [[dios]] puede hacer todo cuanto es posible en sí mismo, sin limitación alguna."
 ---
 # Omnipotencia
 
 > Área: Dogmática / Teología natural
-> Última actualización: 2026-06-12
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -39,9 +39,17 @@ a.5 — Dios puede hacer mejores las cosas que hace, pero no puede hacer algo me
 
 a.6 — Dios puede hacer lo que no hace y no hacer lo que hace, porque su poder se extiende más allá de lo que ha creado realmente.
 
-**IIIª q.13 — La potencia del alma de Cristo:**
+**IIIª q.13 — La potencia del alma de Cristo (a.1-4):**
 
-El alma de Cristo no gozó de omnipotencia absoluta, pues la omnipotencia es propia de Dios (a.1). Sin embargo, el alma de Cristo, como instrumento del Verbo, tuvo poder instrumental para realizar cambios en las criaturas, de modo que su humanidad era instrumento de la divinidad para obrar la salvación (a.2). Respecto de su propio cuerpo, el alma de Cristo no tuvo omnipotencia según su naturaleza propia, pero como instrumento del Verbo sí pudo disponer de su cuerpo soberanamente (a.3). Cristo pudo todo lo que quiso realizar por sí mismo en orden a la redención, pues su voluntad humana estaba perfectamente unida al Verbo (a.4).
+La cuestión no pregunta si Cristo es omnipotente como Dios —lo es por naturaleza—, sino si el alma humana de Cristo, en cuanto criatura, gozó de omnipotencia. Tomás responde con una distinción constante: el alma de Cristo puede considerarse según su propia naturaleza y virtud, o como instrumento personalmente unido al Verbo.
+
+a.1 — **El alma de Cristo no poseyó la omnipotencia:** La potencia activa sigue a la forma y, por tanto, a la naturaleza del ser. La omnipotencia es consecuencia de la naturaleza divina, que es el mismo ser incircunscrito y tiene potencia activa respecto de todo lo que puede tener razón de ser. Siendo el alma de Cristo una parte de la naturaleza humana, es imposible que posea la omnipotencia. (SmTh IIIª q.13 a.1)
+
+a.2 — **Tampoco tuvo omnipotencia sobre las criaturas:** Hay que distinguir tres modos de mutación de la criatura —natural, milagrosa y la reducción al no ser— y dos modos de considerar el alma de Cristo: según su propia virtud (natural o gratuita) y como instrumento del Verbo. Según su propia virtud, el alma de Cristo tuvo poder para los efectos que corresponden al alma —gobernar el cuerpo, ordenar los actos humanos, iluminar a las criaturas racionales por la plenitud de gracia y ciencia—. Como instrumento del Verbo, tuvo potencia instrumental para las mutaciones ordenadas al fin de la encarnación, que es «instaurar todas las cosas» (Ef 1,10). Pero los cambios que consisten en reducir la criatura a la nada pertenecen a la creación y conservación, y solo Dios puede hacerlos. Por eso el alma de Cristo no dispuso de omnipotencia respecto de las mutaciones de las criaturas. (SmTh IIIª q.13 a.2)
+
+a.3 — **Su poder sobre el propio cuerpo:** Según su propia naturaleza, el alma guarda una proporción determinada con su cuerpo y no podía alterar su disposición natural, como tampoco desviar los cuerpos exteriores de su curso. Como instrumento unido personalmente al Verbo, en cambio, toda disposición de su cuerpo estaba sometida a su poder; pero esa virtud se atribuye propiamente al agente principal, el Verbo, más que al alma como instrumento. (SmTh IIIª q.13 a.3)
+
+a.4 — **Su poder respecto de la ejecución de su voluntad:** El alma de Cristo quiso las cosas de dos modos: realizándolas por sí misma y realizándolas con su poder divino. En el primer sentido, pudo todo lo que quiso, pues no sería conforme a su sabiduría querer hacer por sí mismo cosas que no estuvieran sujetas a su voluntad. En el segundo —la resurrección de su propio cuerpo y otros milagros—, no podía realizarlas por su propio poder, sino como instrumento de la divinidad. (SmTh IIIª q.13 a.4)
 
 ### Según Royo Marín (TPCr)
 

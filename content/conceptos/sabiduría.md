@@ -27,6 +27,20 @@ En el NT, Cristo es la Sabiduría de Dios (1 Cor 1,24.30). La sabiduría del mun
 
 Juan Pablo II dedica una catequesis a Jesús como Sabiduría de Dios. La tradición sapiencial del AT presenta la Sabiduría personificada como compañera de Dios en la creación (Prov 8,22-31), como reveladora de los caminos divinos (Sir 24) y como esplendor de la luz eterna (Sab 7,25-26). Jesús es la Sabiduría encarnada: es «más que Salomón» (Mt 12,42). Cristo es «sabiduría de Dios, justicia, santificación y redención» (1 Cor 1,30). Es la imagen del Dios invisible, primogénito de toda la creación (Col 1,15-17); en Él fueron creadas todas las cosas. La sabiduría de Dios, que en el AT habitaba en Israel, en la plenitud de los tiempos habita corporalmente en Cristo (CJeS, primera parte: catequesis sobre Jesús Sabiduría de Dios).
 
+### Según José Luis Sicre (IAT)
+
+Sicre dedica el tema V de su *Introducción al Antiguo Testamento* a los libros sapienciales y poéticos, «preciosa aportación de Israel, muchas veces olvidada».
+
+**¿Qué es un sabio?** El término no describe a personas abstraídas en su ciencia, sino a un grupo heterogéneo que abarca al educador, el filósofo, el teólogo, los preceptos de los príncipes y los consejeros de la corte, junto a la sabiduría popular nacida de la observación y de los años. El sabio no busca la respuesta en archivos, como el historiador, ni en un contacto directo con la palabra de Dios, como el profeta: la busca en la experiencia humana, iluminada por la fe. No dice «oráculo del Señor», sino «Hijo mío, haz caso de mi experiencia» (Prov 5,1; 6,20). «Toda sabiduría viene del Señor» (Eclo 1,1).
+
+**Evolución.** El fenómeno sapiencial conoce un humanismo internacional (paralelos egipcios y mesopotámicos), una etapa israelita desde los orígenes al siglo VI, una crisis en los siglos V–III marcada por la helenización y por el derrumbe de la doctrina de la retribución (Job, Eclesiastés), y una etapa final en la que la sabiduría se abre a la historia y a la cultura griega.
+
+**Personificación de la Sabiduría.** En Prov 1–9, Eclo 24 y Sab 6–9 la sabiduría deja de ser un conjunto de conocimientos y aparece como una persona que llama, busca y enamora, y que existe desde antes de la creación. Sicre recoge las tres etapas de Whybray: objeto de inmenso valor (Job 28), mujer que invita en público (Prov 9,1-6) e hipóstasis o ser divino criado por Dios y con existencia propia (Eclo 24). El tema conecta con el Logos joánico.
+
+**El sabio y los profetas.** El sabio es más conservador social y políticamente, y discrepa de los profetas; pero comparte con ellos la convicción de que la vida humana tiene un sentido que debe formularse con precisión.
+
+[IAT, caps. 20–21]
+
 ## Analizado en contexto cultural
 
 - [[morir-con-cero]] — convergencia en la aplicación de la razón a la administración de la vida; tensión por la reducción de la sabiduría a optimización técnica, sin temor de Dios ni apertura al don del Espíritu Santo

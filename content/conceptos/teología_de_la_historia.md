@@ -39,6 +39,18 @@ Agustín enfrenta a su «ciudad terrenal» con el hecho de que ha identificado s
 ### Según Royo Marín (TPCr)
 Aunque no trata explícitamente la «teología de la historia» como disciplina, TPCr presenta la historia de la salvación como el marco de la vida cristiana. La obra entera se sitúa en la perspectiva del designio divino: Dios quiso comunicar sus perfecciones a las criaturas para su gloria (TPCr, Primera Parte, Cap. II). La historia de la salvación culmina en Cristo, y toda la vida cristiana consiste en la incorporación a Él (TPCr, Primera Parte, Cap. VII). El tiempo presente es el tiempo de la Iglesia, durante el cual los fieles son llamados a la perfección de la caridad, en espera de la consumación eterna (TPCr, Segunda Parte, Cap. VI).
 
+### Según José Luis Sicre (IAT)
+
+Sicre plantea la concepción israelita de la historia en el capítulo 4 de su *Introducción al Antiguo Testamento*. La respuesta clásica es que la historia es para Israel el lugar del encuentro con Dios: su fe no se basa en mitos atemporales, sino que nace y se desarrolla en contacto con los acontecimientos. Dios se revela poco a poco, «no a través de un libro, sino a lo largo de la vida»; el AT es «una búsqueda apasionada de Dios».
+
+**Matiz crítico.** Sicre advierte que esta interpretación corre el riesgo de idealizar los hechos: muchos documentos que los autores bíblicos utilizan no fueron escritos desde esa perspectiva. Compara con la historiografía asiria y babilonia, cuyos motivos eran la propaganda política, la finalidad didáctica, la exaltación del héroe y la conciencia de recordar. «Personalmente, pienso que el motivo de la propaganda política está, a veces, mucho más presente en la Biblia incluso que el estrictamente religioso».
+
+**Concepciones diversas.** Dentro de Israel coexisten la historiografía épico-sacral, la profana y la religioso-teológica, separadas por más de diez siglos de distancia. El historiador israelita no tiene la mentalidad del historiador moderno ni busca la objetividad por encima de todo.
+
+**La Historia deuteronomista.** El ejemplo mayor de teología de la historia es la obra que interpreta Josué–Reyes a la luz del Deuteronomio: la fidelidad a la alianza trae la bendición y la idolatría la ruina, hasta explicar teológicamente el destierro. Sicre subraya que los discursos de esta obra son «importantísimos para conocer la mentalidad del autor o autores deuteronomista».
+
+[IAT, caps. 4, 11–13]
+
 ## Distinciones importantes
 
 - Se distingue de la filosofía de la historia (basada solo en la razón) por fundarse en la revelación

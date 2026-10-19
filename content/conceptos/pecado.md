@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pecado
 tags: ["moral"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-19
 description: "El pecado es «una trasgresión voluntaria de la ley de Dios». Supone tres elementos esenciales: materia prohibida, advertencia del entendimiento y consentimiento de la voluntad."
 ---
 # Pecado
 
 > Área: Moral
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -151,6 +151,35 @@ mal, la tela del mal, es este olvido» (02, 75).
 seducir; me has hecho fuerza y has prevalecido. […] Cuando hablo me veo obligado
 a gritar, debo proclamar: “Violencia, ruina para quien olvida a Dios”» (01, 85;
 Jr 20,1-9).
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+Sicari abre su tratado con la **etimología**: *peccatum* deriva de *peccus*,
+el «pie izquierdo» mal posado (como *mancus* designa al manco), de donde
+«pecar, pecado» pasan a significar un mal camino, un resbalón peligroso; los
+latinos decían *equus peccat*, «el caballo tropieza» (Horacio, *Epist.*
+1,1,9). La definición bíblica que prefiere es la de Elías en el Carmelo:
+«¿Hasta cuándo vais a cojear con los dos pies?» (1 Re 18,21), dirigida a un
+pueblo que pretende seguir a la vez dos senderos y por eso «se tambalea como
+un borracho». El pecado, pues, es ante todo [[pecado_como_mal_camino]].
+
+La distinción entre **mortal** y **venial** se explica con la misma imagen:
+
+- *Mortal* es lo que hace morir, como caer por un precipicio: violación de la
+  Ley de Dios en materia grave, con plena conciencia y voluntad deliberada.
+  Lo que muere es el amor debido a Dios, y con él se pierde la vida de la
+  gracia.
+- *Venial* es el ligero tropiezo que empuja a quien va a caer a agarrarse —y
+  ese agarrarse es pedir perdón a Jesús—, mientras otro lo sostiene y lo
+  «corrige»: ese sostén es su perdón.
+
+Del pecado mortal se sale solo «con una nueva iniciativa de Dios», es decir,
+reconfiándose a su misericordia de manera explícita y eclesial: a eso está
+destinado el sacramento de la Confesión ([[sacramento_de_la_reconciliación]]).
+Los veniales no requieren la Confesión, pero esta es «sumamente útil», sobre
+todo para no habituarse a ellos, pues la costumbre dispondría a cometer
+también los graves.
+
 
 ## Distinciones importantes
 

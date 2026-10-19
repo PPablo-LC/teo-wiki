@@ -39,7 +39,7 @@ La alternativa es el «camino de Nehemías»: una obra que «tiene a Dios en el 
 
 - **Babel vs. Pentecostés**: en Babel, la unidad humana se rompe por el orgullo; en Pentecostés, la unidad se restaura por el Espíritu Santo, sin suprimir las lenguas sino transfigurándolas.
 - **Uniformidad vs. comunión**: Babel impone una lengua única y una misma tecnología; el Espíritu Santo respeta y asume la diversidad de los pueblos.
-- **Torre vs. Templo**: la torre de Babel sube al cielo por la fuerza humana; el [[templo_de_Jerusalén]] es lugar donde Dios baja para habitar con los hombres.
+- **Torre vs. Templo**: la torre de Babel sube al cielo por la fuerza humana; el [[templo_de_jerusalén]] es lugar donde Dios baja para habitar con los hombres.
 
 ## Relaciones doctrinales
 

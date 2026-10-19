@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization_and_culture", "doctrina_social"]
 - [[subsidiariedad]] — principio que privilegia la autoridad local sobre la central
 - [[solidaridad]] — sentido del bien común y responsabilidad mutua
 - [[bien_común]] — objetivo de la doctrina social de la Iglesia
-- [[doctrina_social]] — enseñanza social de la Iglesia católica
+- [[doctrina_social_de_la_iglesia]] — enseñanza social de la Iglesia católica
 
 ## Contenido
 

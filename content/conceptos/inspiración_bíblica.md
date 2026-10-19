@@ -65,6 +65,18 @@ La comunidad de fe desempeñó un papel decisivo en el proceso de canon: no conf
 
 [PdB, Cro-1, ms-1]
 
+### Según José Luis Sicre (IAT)
+
+Sicre no niega la inspiración: la presupone al leer el AT como Escritura. Su aportación es una distinción de niveles que evita dos extremos, el racionalismo que desprecia el texto y el literalismo que lo absolutiza.
+
+**Palabra de Dios y palabra de los hombres.** «No podemos interpretar como “palabra de Dios” lo que es palabra de los hombres»: los deseos de venganza de Jeremías o del Salmo 137, o las blasfemias de Job, pertenecen al autor humano y a su cultura. La liturgia, al hacer repetir mecánicamente «palabra de Dios» después de cada pasaje, ha prestado en este punto un mal servicio al pueblo cristiano: hay que «hilar muy fino» para no incurrir en lo que san Pablo reprochaba a los judíos (Rom 2,24).
+
+**Los modelos culturales no son revelación.** Los dos relatos de la creación (Gn 1 y Gn 2) utilizan modelos «científicos» opuestos e irreconciliables. Esto demuestra que lo esencial no es la verdad científica, sino una visión del mundo compatible con cualquier modelo científico: la relación de todo lo creado con Dios, la misión del hombre y la relación entre el hombre y la mujer. Cita a san Agustín y al cardenal Baronio: «La Biblia no enseña cómo está hecho el cielo, sino cómo se va al cielo».
+
+**Consecuencia hermenéutica.** El AT tiene un aspecto profundamente humano: cuenta la vida de personas concretas con sus virtudes y defectos, y «es divino precisamente porque no encubre lo humano». La inspiración no elimina la condición histórica del texto; la lectura creyente debe distinguir el mensaje teológico del vehículo cultural que lo expresa.
+
+[IAT, cap. 1, §§3.3 y 4.2]
+
 ## Distinciones importantes
 
 - **Autor principal divino vs. autores humanos instrumentales**: Dios es el autor principal; los hagiógrafos son verdaderos autores humanos, no meros amanuenses pasivos. La acción divina no anula sino que eleva y utiliza sus facultades.

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vanagloria
 tags: ["moral"]
 
-timestamp: 2026-06-11
+timestamp: 2026-10-19
 description: "Vicio capital que consiste en buscar la fama, el honor o el reconocimiento humano sin mérito verdadero, o sin ordenarlo al fin debido (la gloria de Dios y el bien del prójimo)."
 ---
 # Vanagloria
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-10-19
 
 ## Definición
 Vicio capital que consiste en buscar la fama, el honor o el reconocimiento humano sin mérito verdadero, o sin ordenarlo al fin debido (la gloria de Dios y el bien del prójimo). Es una especie de soberbia que se manifiesta en la jactancia y la presunción.
@@ -38,6 +38,20 @@ La vanagloria o jactancia constituye una falta contra la verdad (§2481). Una in
 
 ### Según Royo Marín (TPCr)
 La vanagloria busca fama y nombradía sin méritos en que apoyarla o sin ordenarla a su verdadero fin, que es la gloria de Dios y el bien del prójimo. Como vicio capital, de él proceden otros muchos pecados: la jactancia, el afán de novedades, hipocresía, pertinacia, discordia, disputas y desobediencias. La presunción (pecado contra la esperanza) suele provenir de la vanagloria y de la soberbia. También combate la vanagloria junto con la templanza, suprimiendo la jactancia, la presunción, la hipocresía, la pertinacia, la discordia, la réplica airada y la desobediencia.
+
+### Según Instituciones cenobíticas — Juan Casiano (IC)
+
+El Libro XI (*Del vicio de la vanagloria*) es la monografía de Casiano sobre este vicio, al que denomina también **cenodoxia** («gloria vana e inane»).
+
+**Naturaleza multiforme:** la vanagloria es el vicio más variado y el que menos se deja ver: ataca no solo la parte sensual del hombre sino el espíritu mismo, y se vale de las mismas virtudes como armas (IC, `28_capitulo.md`, §§I-IV). Casiano la compara a una cebolla —una capa bajo otra, cuanto más se pela más hace llorar— y advierte que **la soledad no la elimina**: tras una victoria cobra más bríos, y se confunde con las virtudes como un arrecife oculto bajo las olas (§§V-IX). «No te desvíes a la derecha ni a la izquierda» (Prov 4,27).
+
+**Ejemplos bíblicos:** Ezequías y Ozías, reyes justos, fueron vencidos por la vanagloria justo después de sus triunfos (II Par 32,24-26; II Par 26,15-16); «Dios esparcirá los huesos de los que lisonjean a los hombres» (Sal 52,6) (§§X-XII).
+
+**Manifestaciones:** vanagloria de la salmodia, del aspecto físico, de la riqueza de los padres; la fantasía de ser ordenado sacerdote; la célebre anécdota del monje que ante un auditorio imaginario ya se veía predicando en su celda del desierto de Escete (§§XIII-XVI).
+
+**Remedio:** no obrar con propósito de ostentación, no salirse de la vida común del cenobio, atribuirlo todo a Dios; «la vanagloria echa a perder los frutos del obrar» (§XIX). El capítulo contiene además el aforismo ascético «el monje debe huir a ultranza de las mujeres y de los obispos» —es decir, de la ambición eclesiástica—, con la confesión personal de Casiano sobre el diaconado y el sacerdocio (§§XVII-XVIII).
+
+[IC, Libro XI — `28_capitulo.md`]
 
 ## Distinciones importantes
 - Vanagloria ≠ justa reputación: la primera es desordenada, la segunda puede ser legítima si se ordena a Dios

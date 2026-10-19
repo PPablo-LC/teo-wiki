@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Contrición
 tags: ["moral", "sacramental"]
 
-timestamp: 2026-06-27
+timestamp: 2026-10-19
 description: "La contrición es el dolor del alma por los pecados cometidos, acompañado del propósito firme de no volver a pecar."
 ---
 # Contrición
 
 > Área: Moral / Sacramental
-> Última actualización: 2026-06-27
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -36,6 +36,32 @@ La contrición del penitente: «"Contrición perfecta" y atrición. Los pecados 
 La contrición es la disposición fundamental para la recepción del sacramento de la Penitencia: «Su falta absoluta haría sacrílega la confesión —si fuera con advertencia— o haría inválida la absolución» (TPCr, Tercera Parte, Libro II, Cap. I).
 
 La contrición debe ser: profunda y humilde, íntegra, universal, y frecuente. «Si se tiene conciencia de haber pecado mortalmente, no acercarse a la Eucaristía sin haber recibido previamente la absolución en el sacramento de la Penitencia, a no ser que concurra un motivo grave y no haya posibilidad de confesarse; y, en este caso, tenga presente que está obligado a hacer un acto de contrición perfecta, que incluye el propósito de confesarse cuanto antes» (TPCr, Tercera Parte, Libro II, Cap. I).
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+La objeción «¿cómo puedo arrepentirme de pecados que siguen fascinándome, y
+cómo prometer lo que casi seguro volveré a hacer?» recibe en Sicari una
+respuesta que desplaza el centro de gravedad del sentimiento al **acto de
+libertad**. Si la remisión dependiera de nuestros actos —argumenta— sería casi
+imposible obtener el perdón cuando falta incluso la fuerza psicológica para
+realizarlos; uno acabaría analizándose sin fin para saber hasta qué punto
+está verdaderamente arrepentido, y sería tanto más inseguro cuanto más se
+analizara.
+
+Pero «no tenemos que *obtener* el perdón»: el perdón es anterior a nuestros
+actos y ha sido puesto gratuitamente a nuestra disposición por Jesús que
+muere en la cruz. No hay que conquistar nada ni garantizar nada. Los actos de
+dolor, de acusación y de propósito son verdaderos y suficientes si indican
+que la libertad busca abrirse para recibir el don: «como quien al menos abre
+las manos para recibir un don que se le ofrece».
+
+El **test** de esa apertura es concreto: la disponibilidad alegre a un
+trabajo sobre uno mismo que refuerce el dolor y el propósito, con paciencia,
+sin desánimos ni cansancios. De esa disponibilidad, y no de la intensidad del
+sentimiento, pueden el confesor y el penitente verificar la calidad
+suficiente del acto ([[propósito_de_enmienda]],
+[[sacramento_de_la_reconciliación]]).
+
 
 ## Distinciones importantes
 

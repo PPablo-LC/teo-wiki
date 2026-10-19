@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Redención
 tags: ["dogmática", "soteriología"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-19
 description: "La Redención es la obra por la cual Jesucristo, el Hijo de Dios hecho hombre, nos libera del pecado y de la muerte mediante su sacrificio en la cruz, reconcilia al hombre con Dios."
 ---
 # Redención
 
 > Área: Dogmática / Soteriología
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -55,17 +55,17 @@ El misterio pascual es «el culmen de esta revelación y actuación de la miseri
 
 **IIIª q.49 — Efectos de la pasión**
 
-**q.49 a.1 (Liberación del pecado):** La pasión causa la remisión de los pecados de tres modos: 1) excitando a la caridad; 2) por vía de redención, como cabeza respecto a los miembros; 3) por vía de eficiencia instrumental. Es causa universal, aplicada mediante los sacramentos (q.49 a.1 in corpore).
+**q.49 a.1 (Liberación del pecado):** La pasión causa la remisión de los pecados de tres modos: 1) excitando a la caridad («Dios prueba su amor en que, siendo aún pecadores, Cristo murió por nosotros»); 2) por vía de redención, como cabeza respecto a los miembros — la Iglesia entera se considera una sola persona con su cabeza, como si un hombre se redimiese con la obra meritoria de sus manos de un pecado cometido con los pies; 3) por vía de eficiencia instrumental, pues la carne de Cristo es instrumento de la divinidad. Es causa universal que libró causalmente de todo género de pecados pasados, presentes y futuros, como el médico que prepara medicina para cualquier enfermedad; se aplica a cada uno mediante bautismo, penitencia y sacramentos (ad 3-4). Ad 5: la fe que nos purifica no es la fe informe, que puede coexistir con el pecado, sino la fe informada por la caridad, para que la pasión se aplique no solo en cuanto al entendimiento, sino también en cuanto a la voluntad (q.49 a.1 in corpore et ad 3-5).
 
-**q.49 a.2 (Liberación del poder del diablo):** Por la remisión de los pecados, por la reconciliación con Dios, y porque el diablo excedió su poder al matar a Cristo inocente (q.49 a.2 in corpore).
+**q.49 a.2 (Liberación del poder del diablo):** Tres cosas precedían al poder del demonio: el merecimiento del hombre por su pecado, la justicia divina que lo abandonó, y la malicia del diablo que impedía la salvación. La pasión libró de las tres: remitiendo los pecados, reconciliando con Dios, y porque el diablo excedió el límite de su poder maquinando la muerte de Cristo, que no la merecía — vencido por la justicia, es justo que los deudores que retenía queden libres (Agustín, XIII De Trin.). El remedio permanece siempre disponible, aun en los tiempos del Anticristo; antes de la pasión, en cambio, nadie podía eludir la caída al infierno (q.49 a.2 in corpore et ad 2-3).
 
-**q.49 a.3 (Liberación de la pena):** Directamente, como satisfacción suficiente y superabundante. Indirectamente, como causa de la remisión del pecado. Los bautizados quedan libres de toda pena satisfactoria; los que pecan después deben configurarse con Cristo paciente (q.49 a.3 in corpore et ad 2).
+**q.49 a.3 (Liberación de la pena):** Directamente, como satisfacción suficiente y superabundante, con la que desaparece el reato de la pena; indirectamente, como causa de la remisión del pecado en el que se asienta el reato. Los condenados en el infierno no perciben su efecto, por no estar unidos a la pasión por fe y caridad. Los bautizados quedan libres de toda pena satisfactoria, configurados con Cristo por el bautismo; pero como Cristo murió una sola vez, quienes pecan después se configuran con él mediante penalidades, suficientes por la cooperación de su satisfacción (q.49 a.3 in corpore et ad 1-3).
 
-**q.49 a.4 (Reconciliación con Dios):** Quitando el pecado y como sacrificio gratísimo a Dios (q.49 a.4 in corpore).
+**q.49 a.4 (Reconciliación con Dios):** De dos modos: quitando el pecado, por el que los hombres se constituyen enemigos de Dios; y como sacrificio gratísimo, cuyo efecto propio es aplacar a Dios. Dios no comenzó a amarnos de nuevo («con amor eterno te he amado»), sino que fue suprimida la causa del odio: el pecado fue purificado y compensado por un bien más aceptable. La caridad de Cristo paciente fue mayor que la iniquidad de sus matadores, de modo que la pasión tuvo más poder para reconciliar que para provocar la ira (q.49 a.4 in corpore et ad 1-3).
 
-**q.49 a.5 (Apertura del cielo):** La pasión nos abrió las puertas del cielo al librarnos del pecado original y de los pecados personales (q.49 a.5 in corpore).
+**q.49 a.5 (Apertura del cielo):** El pecado que impedía la entrada era doble: el común (pecado original, figurado por el querubín con espada de llama) y el personal de cada uno. Por la pasión fuimos librados del primero pagando el precio, y del segundo participando de la pasión por fe, caridad y sacramentos; figurado en la ciudad de refugio: el homicida era libre tras la muerte del sumo sacerdote ungido (Núm 35). Los santos padres merecieron la entrada por la fe en la pasión, pero ni su fe ni su justicia bastaban para quitar el obstáculo del reato de toda la naturaleza. Ad 2: Elías fue arrebatado al cielo aéreo, no al empíreo (lugar de los bienaventurados); Enoc al paraíso terrenal. Ad 3: los cielos se abrieron en el bautismo de Cristo no para él, sino para los bautizados, que reciben la eficacia de su pasión. Ad 4: la pasión mereció la entrada y apartó el obstáculo; la ascensión nos puso en posesión del reino (q.49 a.5 in corpore et ad 1-4).
 
-**q.49 a.6 (Exaltación de Cristo):** Cristo mereció por su pasión ser exaltado en cuatro aspectos: resurrección gloriosa, ascensión al cielo, sesión a la derecha del Padre con manifestación de su divinidad, y potestad de juzgar (q.49 a.6 in corpore).
+**q.49 a.6 (Exaltación de Cristo):** Cristo se humilló por debajo de su dignidad en cuatro campos: 1) la pasión y muerte, de las que no era deudor; 2) el lugar — cuerpo en el sepulcro y alma en el infierno; 3) la confusión y las injurias soportadas; 4) la entrega a los poderes humanos («no tendrías poder sobre mí si no te hubiera sido dado de lo alto»). Y mereció la exaltación en cuatro campos correspondientes: 1) la resurrección gloriosa; 2) la ascensión al cielo; 3) sentarse a la derecha del Padre y la manifestación de su divinidad («le dio el nombre sobre todo nombre»); 4) la potestad de juzgar. Ad 2: por los primeros merecimientos mereció la exaltación por parte del alma, cuya voluntad estaba informada por la caridad; por la pasión la mereció también por parte del cuerpo, sometido a la pasión por caridad. Ad 3: por disposición divina, la gloria del alma de Cristo antes de la pasión no redundaba en su cuerpo, para que lo mereciese de modo más honroso por la pasión (q.49 a.6 in corpore et ad 1-3).
 
 ### Según la Vida de Jesús (VJ)
 

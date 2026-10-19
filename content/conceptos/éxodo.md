@@ -53,6 +53,23 @@ J.R.R. Tolkien describe su propia conversión con esta misma imagen: «salí de 
 
 El fascículo muestra así que la conversión tiene estructura de éxodo: comienza con la salida, prosigue por el desierto de la purificación y culmina en la entrada en la comunión eucarística y eclesial [EAC-18, 01, 13].
 
+### Según José Luis Sicre (IAT)
+
+Sicre titula su comentario a Ex 1–15 «La primera teología de la liberación»: antes de que Gustavo Gutiérrez escribiera su libro, «surgió la teología de la liberación en el pueblo de Israel. No fue fruto de una ideología marxista, como a veces se dice, sino de una experiencia viva del Dios libertador».
+
+**Cuatro protagonistas.** El relato se ordena en torno al pueblo, el faraón, Moisés y Dios.
+
+- **El pueblo** aparece primero («al principio era el pueblo»): se multiplica, gime bajo la esclavitud (1,23), acepta con alegría el mensaje de libertad (4,31), pero pronto se desanima ante el aumento del trabajo (5,21), desconfía (6,9) y, ante el mar, prefiere volver a Egipto (14,10-12).
+- **El faraón** encarna el poder opresor que se endurece ante el signo.
+- **Moisés** es el mediador: liberador, intercesor y guía, con una vocación difícil (Ex 3–4).
+- **Dios** se revela en la historia como el que ve la aflicción, escucha el clamor y baja a liberar (Ex 3,7-8).
+
+**La marcha por el desierto.** En Ex 15,22–18,27 Sicre lee las etapas —Mará, Elim, el maná, Rafidín— como una pedagogía: el pueblo aprende a confiar en Dios a través de la prueba. El maná conoce dos tradiciones (Ex 16, milagrosa; Nm 11, profana); el agua de la roca (Ex 17) queda unida a *Massá* y *Meribá*, el lugar donde se tienta a Dios; Jetró, suegro de Moisés, organiza la administración de la justicia.
+
+**Historicidad.** En el capítulo 24 Sicre presenta tres posturas sobre el Éxodo: conservadora, crítica moderada (el relato ofrece duplicados y la arqueología no lo confirma en todo, pero utiliza datos verosímiles) y crítica radical (que situaría la formación del relato en época del exilio).
+
+[IAT, caps. 8–9, 24]
+
 ## Distinciones importantes
 
 - **Éxodo histórico vs. Éxodo figurado**: el acontecimiento histórico de la salida de Egipto es figura de la redención en Cristo; no se trata de una mera alegoría, sino de un cumplimiento real y analógico.

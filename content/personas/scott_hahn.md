@@ -3,13 +3,13 @@ type: Persona
 title: "Scott Hahn"
 description: "Teólogo católico estadounidense, ex pastor protestante, fundador del St. Paul Center for Biblical Theology, autor de numerosas obras de teología bíblica."
 tags: ["teología_bíblica", "mariología", "exégesis", "teología_del_pacto"]
-timestamp: 2026-08-03
+timestamp: 2026-10-19
 ---
 
 # Scott Hahn
 
 > Área: Teología bíblica / Mariología
-> Última actualización: 2026-08-03
+> Última actualización: 2026-10-19
 
 **Scott Hahn** (1957) es un teólogo y apologista católico estadounidense, converso del presbiterianismo, profesor de teología bíblica y fundador del St. Paul Center for Biblical Theology. Es conocido por su teología del pacto y por la relectura tipológica de la Escritura, aplicada de modo destacado a la mariología.
 
@@ -32,6 +32,10 @@ En el curso *The Bible and the Virgin Mary* (BMV) Hahn presenta a María como cu
 - **Reina Madre** (*gebirah*): la madre del rey davídico como figura de María ([[reina_madre]], [[reina_universal]]).
 - **Madre de Dios y Madre de la Iglesia**: la maternidad de María en Lc 1,43 y Jn 19,26-27.
 
+### *Hail, Holy Queen* (2001)
+
+Es su síntesis divulgativa de mariología bíblica ([[hail_holy_queen]]). Organiza el argumento en tres tipos mayores —Eva ([[nueva_eva]]), el Arca ([[arca_de_la_nueva_alianza]]) y la Reina Madre davídica ([[reina_madre]])— y añade una tesis propia: la alianza bíblica no es un contrato sino un vínculo de parentesco ([[alianza]]), de modo que la historia de la salvación es la ampliación progresiva de la familia de Dios y la madre del Rey pertenece a su estructura. Dedica el capítulo final a la actitud del apologeta: «defender a la madre como ella querría ser defendida», sin convertir la apología en deporte de contacto.
+
 Su método combina exégesis literal con la tradición patrística ([[san_irineo_de_león]], [[justino_mártir]]) y el magisterio (*Ineffabilis Deus*, *Munificentissimus Deus*, *Lumen Gentium* VIII).
 
 ## Ver también
@@ -42,4 +46,4 @@ Su método combina exégesis literal con la tradición patrística ([[san_irineo
 
 - *The Bible and the Virgin Mary* (BMV) — St. Paul Center for Biblical Theology, curso en vídeo de 12 lecciones.
 - *Roma, dulce hogar* (autobiografía espiritual).
-- *Hail, Holy Queen* (mariología bíblica).
+- *Hail, Holy Queen: The Mother of God in the Word of God* (Servant, 2001) — [[hail_holy_queen]].

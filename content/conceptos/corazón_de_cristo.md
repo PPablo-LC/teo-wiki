@@ -30,11 +30,11 @@ El **Corazón de Cristo** es el corazón físico del Verbo encarnado, considerad
 
 ## Relaciones doctrinales
 
-[[sagrado_corazón]], [[cristo]], [[encarnación]], [[unión_hipostática]], [[misericordia]], [[amor_de_cristo]], [[corazón_inmaculado_de_maría]], [[eucaristía]], [[conformidad_con_cristo]], [[devoción]]
+[[sagrado_corazón]], [[cristo]], [[encarnación]], [[unión_hipostática]], [[misericordia]], [[amor_de_cristo]], [[inmaculado_corazón_de_maría]], [[eucaristía]], [[conformidad_con_cristo]], [[devoción]]
 
 ## Ver también
 
-[[sagrado_corazón]], [[sagrado_corazón_de_jesús]], [[cristo]], [[encarnación]], [[misericordia]], [[amor_de_cristo]], [[corazón_inmaculado_de_maría]], [[conformidad_con_cristo]], [[primeros_viernes]]
+[[sagrado_corazón]], [[sagrado_corazón_de_jesús]], [[cristo]], [[encarnación]], [[misericordia]], [[amor_de_cristo]], [[inmaculado_corazón_de_maría]], [[conformidad_con_cristo]], [[primeros_viernes]]
 
 ## Referencias
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mediación de María
 tags: ["dogmática", "mariología"]
 
-timestamp: 2026-08-06
+timestamp: 2026-10-19
 description: "La mediación de María es la participación singular de la Virgen en la obra salvífica de Cristo, su Hijo, como intercesora y dispensadora de las gracias."
 ---
 # Mediación de María
 
 > Área: Dogmática / Mariología
-> Última actualización: 2026-08-06
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -37,6 +37,17 @@ María es Mediadora universal de todas las gracias: toda gracia que Dios concede
 
 [Ele_Xto_Stos, Cap. III, §5] La mediación maternal de María nace del beneplácito de Dios y «brota de la sobreabundancia de los méritos de Cristo, se apoya en su mediación, depende totalmente de ella y de ella saca toda su eficacia; favorece, y de ninguna manera impide, la unión inmediata de los creyentes con Cristo» (LG, n. 60). Lo que la Iglesia entiende por mediación de María es que, según el designio de Dios, «incluso después de su Asunción a los cielos [...] por su múltiple intercesión sigue obteniéndonos los dones que nos aseguran la salvación eterna» (LG, n. 62). María recibió de Jesús una maternidad espiritual que tiene como fin otorgar la vida sobrenatural, mantenerla y hacerla madurar en los cristianos. Desde el punto de vista práctico, el abandono en María constituye el camino más fácil, más rápido y más seguro para alcanzar la unión siempre creciente con Cristo: «No se llega a Dios sino por medio de Jesucristo, ni se llega a Jesucristo sino por medio de María» (San Alfonso María de Ligorio, Las Glorias de María).
 
+### Según Scott Hahn (Hail, Holy Queen)
+
+Hahn aborda la mediación mariana en el capítulo 6 a partir de la objeción clásica: si Cristo es «el único mediador entre Dios y los hombres» (1 Tim 2,5), ¿cómo puede llamarse «Mediadora» a María?
+
+- **La respuesta bíblica.** San Pablo llama a los cristianos «colaboradores de Dios» (1 Cor 3,9). Si Cristo es el único mediador, ¿por qué tiene colaboradores? Porque su obra es la redención, y el Padre forma hijos maduros haciéndolos partícipes de su trabajo. La mediación de María es la forma más íntima de esa colaboración: el Padre quiso que la existencia humana de su Hijo dependiera del consentimiento continuo de su Madre, que lo alimentó, lo cuidó y lo acompañó hasta la cruz.
+- **El «ofrecerlo».** Col 1,24 —«completo en mi carne lo que falta a las tribulaciones de Cristo por su cuerpo, que es la Iglesia»— es la clave que Hahn, como protestante, había pasado por alto. Unir conscientemente el propio sufrimiento al de Cristo es hacerse colaborador; uniendo su corazón al de su Hijo, especialmente en el Calvario, María se convirtió en la colaboradora por excelencia. Es la lógica de la [[corredención]].
+- **«Madre» como verbo y oficio.** Hahn cita *Lumen Gentium* 62 y la «mediación materna» de Juan Pablo II: para el Padre, María es madre del Hijo; para nosotros, madre del Salvador; para el Hijo, madre de sus hermanos. Su mediación no es una función administrativa sino el ejercicio de una maternidad.
+- **Sin economía mercantil.** El marco correcto no es el del contrato sino el de la familia: en una familia nadie «merece» el amor que recibe, y sin embargo el hijo hereda. Por eso la mediación de María no compite con la de Cristo: la manifiesta.
+
+[HHQ, cap. 6]
+
 ## Distinciones importantes
 
 - Mediación de María vs. mediación de Cristo: la primera es participada, subordinada y dependiente de la segunda
@@ -57,3 +68,4 @@ Se relaciona con [[virgen_maría]], [[corredención]], [[intercesión]], [[mater
 - [Jn 19,26-27; 1 Tm 2,5]
 - [TPCr, Parte IV, Libro III, Cap. 2]
 - Ele_Xto_Stos, Cap. III, §5
+- Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 6

@@ -3,13 +3,13 @@ type: Persona
 title: "Antonio Maria Sicari"
 description: "Sacerdote carmelita descalzo, teólogo y agiógrafo (1943-), fundador del Movimento Ecclesiale Carmelitano; el más célebre agiógrafo italiano."
 tags: [personas, hagiografía, carmelo, teología_espiritual]
-timestamp: 2026-09-19
+timestamp: 2026-10-19
 ---
 
 # Antonio Maria Sicari
 
 > Área: Hagiografía / Teología espiritual
-> Última actualización: 2026-09-19
+> Última actualización: 2026-10-19
 
 **Antonio Maria Sicari** (1943) es sacerdote y teólogo carmelita descalzo,
 fundador del «Movimento Ecclesiale Carmelitano». «Gracias a sus numerosos
@@ -40,10 +40,25 @@ Constantes de su obra presentes en el wiki (fuentes RdS, VdS y AMS):
 | *Ritratti di santi. Il volto dei santi* (La Via, 1986-87) | RdS | Retratos biográficos |
 | *Il Volto dei Santi*, vol. III (Edizioni OCD, 2025) | VdS | Diez santos de la misión y el diálogo |
 | *Así mueren los santos* (Rialp, 2020) | AMS | ~100 muertes de santos en 8 modos de morir |
+| *Il dono della confessione* (Archa, 2014) | IDC | Opúsculo sobre el sacramento de la Confesión |
+
+## La predicación sacramental
+
+En *Il dono della confessione* ([[il_dono_della_confessione]]) Sicari pasa de
+la hagiografía a la catequesis sacramental, con el mismo método: partir de
+una experiencia elemental (un sendero de montaña, un vaso de agua al sol) y
+mostrar en ella la estructura teológica del misterio. El eje es la
+**precedencia del perdón**: «no tenemos que *obtener* el perdón [...] el
+perdón es anterior a todos nuestros actos, ha sido puesto gratuitamente a
+nuestra disposición por Jesús que muere en la cruz por nosotros». De ahí su
+desplazamiento del examen psicológico de la propia contrición hacia la
+disponibilidad a trabajar sobre sí y la vida eclesial
+([[contrición]], [[sacramento_de_la_reconciliación]]).
 
 ## Ver también
 
 [[asi_mueren_los_santos]], [[il_volto_dei_santi]], [[ritratti_di_santi]],
+[[il_dono_della_confessione]], [[sacramento_de_la_reconciliación]],
 [[carmelo]], [[hagiografía]], [[muerte_cristiana]]
 
 ## Referencias

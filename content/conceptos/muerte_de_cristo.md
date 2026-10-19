@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Muerte de Cristo
 tags: ["dogmática", "cristología"]
 
-timestamp: 2026-06-20
+timestamp: 2026-10-19
 description: "La muerte de Cristo es el sacrificio redentor por el cual Jesucristo, verdadero Dios y verdadero hombre, ofreció libremente su vida en la cruz para la salvación de todos los hombres."
 ---
 # Muerte de Cristo
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-06-20
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -29,17 +29,17 @@ La muerte de Cristo es el Sacrificio único y definitivo (§613-614). Jesús con
 
 Santo Tomás de Aquino trata la muerte de Cristo en la IIIª q.50, en seis artículos.
 
-**Conveniencia de la muerte (a.1):** Cristo murió por cinco razones: (1) para satisfacer por el género humano, condenado a muerte por el pecado (Gen 2,17; 1 Pe 3,18); (2) para demostrar la verdad de su naturaleza humana; (3) para librarnos del temor de la muerte (Heb 2,14-15); (4) para darnos ejemplo de muerte espiritual al pecado (Rom 6,10-11); (5) para manifestar su poder resucitando y dándonos esperanza de resurrección (1 Cor 15,12).
+**Conveniencia de la muerte (a.1):** Cristo murió por cinco razones: (1) para satisfacer por el género humano, condenado a muerte por el pecado (Gen 2,17; 1 Pe 3,18); (2) para demostrar la verdad de su naturaleza humana — de otro modo, si hubiese desaparecido rehuyendo la muerte, habría parecido un fantasma (Eusebio); (3) para librarnos del temor de la muerte (Heb 2,14-15); (4) para darnos ejemplo de muerte espiritual al pecado (Rom 6,10-11); (5) para manifestar su poder resucitando y dándonos esperanza de resurrección (1 Cor 15,12). Ad 1: Cristo es fuente de la vida en cuanto Dios, no en cuanto hombre; experimentó la muerte por participación de la condición humana sin perder el poder de su naturaleza. Ad 2: no padeció la muerte originada por enfermedad, para no dar la impresión de que moría por necesidad de flaqueza, sino la muerte traída desde el exterior, ofreciéndose espontáneamente, demostrando que su muerte era voluntaria. Ad 3: con su muerte destruyó la nuestra, al modo de quien sufre un castigo por otro.
 
 **Inseparabilidad de la divinidad del cuerpo (a.2):** La gracia de la unión hipostática es más permanente que la gracia de adopción y no puede perderse sin pecado. Cristo no tuvo pecado alguno, por lo que la unión de la divinidad con su cuerpo permaneció incluso después de la muerte. El grito de abandono (Mt 27,46) no indica ruptura de la unión personal, sino que el Padre no lo protegió de los perseguidores (Agustín).
 
 **Inseparabilidad de la divinidad del alma (a.3):** Si la divinidad no se separó del cuerpo, mucho menos se separó del alma, que estuvo unida al Verbo más inmediatamente. Por eso el Símbolo confiesa que el Hijo de Dios «descendió a los infiernos» porque su alma, separada del cuerpo, descendió allí. El Damasceno: «la divinidad se mantuvo inseparable del alma y del cuerpo».
 
-**Cristo hombre durante los tres días (a.4):** Estrictamente, Cristo no fue hombre vivo durante los tres días, pues la muerte verdadera implica la separación del alma, que es esencial a la noción de hombre. Puede llamársele «hombre muerto» (homo mortuus). La persona del Verbo permaneció unida al alma y al cuerpo separados, pero la unión entre ambos se disolvió.
+**Cristo hombre durante los tres días (a.4):** Estrictamente, Cristo no fue hombre vivo durante los tres días, pues la muerte verdadera implica la separación del alma, que es esencial a la noción de hombre; puede llamársele «hombre muerto» (homo mortuus). La persona del Verbo permaneció unida al alma y al cuerpo separados, pero la unión entre ambos se disolvió. Tomás censura a Hugo de San Víctor, que sostenía que Cristo fue hombre en esos tres días porque el alma es el hombre — falso, pues el hombre es el que tiene alma; y al Maestro de las Sentencias (III dist. 22), que creyó que la unión del alma con el cuerpo no era esencial al concepto de hombre, bastando que tenga alma y cuerpo, ya unidos, ya separados — también falso. El ser sacerdote no se pierde por la muerte, pues el carácter del orden se asienta en el alma; y mucho menos lo pierde Cristo, origen de todo sacerdocio.
 
-**Identidad del cuerpo vivo y muerto (a.5):** Absolutamente (simpliciter por identidad del supuesto), el cuerpo fue numéricamente el mismo por la misma hipóstasis del Verbo. Totalmente (simpliciter), no fue el mismo porque la vida es esencial al cuerpo vivo. Cristo experimentó la verdadera muerte (separación alma-cuerpo) pero no la corrupción entendida como disolución en los elementos.
+**Identidad del cuerpo vivo y muerto (a.5):** En un sentido, puramente (simpliciter) = absolutamente, es decir, sin aditamento: el cuerpo vivo y muerto fue numéricamente el mismo por razón del supuesto, pues no tuvo otra hipóstasis que la del Verbo. En otro sentido, simpliciter = totalmente: no fue el mismo totalmente, porque la vida es predicado esencial del cuerpo vivo. Si se dijese que el cuerpo muerto continuaba totalmente el mismo, se negaría la corrupción de la muerte: eso es la herejía de los gayanistas. El Damasceno distingue dos sentidos de «corrupción»: separación alma-cuerpo, y completa disolución en los elementos. Según el primero, el cuerpo del Señor fue corrupto antes de la resurrección — sostener lo contrario es impío (Juliano y Gayano), pues no sería consustancial con nosotros ni habría muerto de verdad; según el segundo, el cuerpo de Cristo fue incorrupto. La muerte y la corrupción corresponden a Cristo por razón de la naturaleza humana, no por razón del supuesto, por el cual se considera la unidad numérica.
 
-**Valor salvífico de la muerte (a.6):** Considerada in fieri (en proceso), la muerte se identifica con la pasión y causa la salvación por mérito. Considerada in facto esse (realizada, como separación alma-cuerpo), causa la salvación por eficiencia: la divinidad permaneció unida al cuerpo, y cuanto acontece al cuerpo de Cristo es saludable por virtud divina. Su efecto es remover la muerte del alma (pecado) y la muerte del cuerpo.
+**Valor salvífico de la muerte (a.6):** Considerada in fieri (en proceso), la muerte se identifica con la pasión y causa la salvación por mérito. Considerada in facto esse (realizada, como separación alma-cuerpo), causa la salvación solo por vía de eficiencia: la divinidad no se separó del cuerpo, y cuanto acontece al cuerpo de Cristo —incluso separada el alma— es saludable por virtud divina. El efecto, conforme a la imagen de la causa (la muerte es privación de la vida), es la remoción de lo contrario a nuestra salud: la muerte del alma, causada por el pecado (Rom 4,25), y la muerte del cuerpo (1 Cor 15,54). Ad 3: la muerte fue corporal, pero su cuerpo fue instrumento de la divinidad, que obraba incluso después de muerto.
 
 [SmTh IIIª q.50 a.1-6]
 
@@ -86,6 +86,6 @@ Se relaciona con [[redención]], [[pasión_de_cristo]], [[eucaristía]], [[obedi
 ## Referencias
 
 - [CEC §609-618, §1323, §1362-1367]
-- [SmTh IIIª q.50 a.1-6]
+- [SmTh IIIª q.50 aa.1-6]
 - [TPCr, Primera Parte, Cap. 3]
 - [VJ, Cap. VI]

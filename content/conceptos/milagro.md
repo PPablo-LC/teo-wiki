@@ -78,6 +78,18 @@ inexplicable):
 - El **cosmos** como primer milagro; el hombre «non si fa da sé» (17).
 - La **[[virginidad]]** como el más grande milagro (salvo el martirio) (17).
 
+### Según José Luis Sicre (IAT)
+
+Sicre dedica al problema de los milagros un apartado del capítulo 1 de su *Introducción al Antiguo Testamento*. Observa que los milagros no están repartidos de forma homogénea: se concentran en dos momentos, los orígenes del pueblo y las tradiciones de Elías y Eliseo. La explicación es cultural (gustos de la época), literaria (diversidad de tradiciones) y teológica (intención de los autores).
+
+**Explicación naturalista.** Recoge el ejemplo de Werner Keller (*Y la Biblia tenía razón*, 1955), que interpreta las plagas de Egipto como fenómenos naturales del Nilo, y reconoce que «ha sido criticado en bastantes aspectos», pero lo considera moderado frente a otros autores.
+
+**Explicación cultural y literaria.** Los orígenes de los pueblos se transmiten mediante epopeyas que engrandecen y exageran los hechos (Rómulo y Remo, Aquiles, Santiago en Clavijo, el Lejano Oeste). «La Biblia también engrandece y exagera lo sucedido. Y, a veces, cuenta cosas que nunca ocurrieron, o que tuvieron lugar de forma muy distinta». El caso del maná es ilustrativo: Ex 16 lo presenta como «pan del cielo», mientras Nm 11 lo describe como una semilla que se muele y cuece, sin nada de milagroso. Lo mismo ocurre con la guía por el desierto: la nube de Nm 9,17-23 contrasta con el ruego de Moisés a Jobab para que sea su guía (Nm 10,29-32). Las tradiciones de Elías y Eliseo, con un núcleo histórico innegable, nacieron en ambientes populares y su intención es inculcar el poder y la dignidad del profeta.
+
+**Posición del autor.** Sicre no niega los milagros: «Dios siempre es libre de realizar milagros cuando y donde quiera. Pero esta libertad divina no debemos confundirla con la afición de ciertas épocas y grupos a descubrir milagros por todas partes». Su advertencia es hermenéutica: los narradores deforman la historia para transmitir un mensaje teológico, y sería un error presentar esas ficciones como palabra de Dios con valor histórico absoluto.
+
+[IAT, cap. 1, §2.3]
+
 ## Distinciones importantes
 
 - **Milagro en sentido estricto** (solo Dios): supera el orden de toda la naturaleza creada.

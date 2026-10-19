@@ -53,6 +53,18 @@ El canon católico fue definido definitivamente por el Concilio de Trento (1546)
 
 La obra presenta un cuadro sintético comparativo de los cánones: Tanak (Biblia hebrea), Septuaginta (Biblia griega), Biblia católica, Biblia de las iglesias ortodoxas y Biblia de las comunidades protestantes. Señala que la Biblia de los primeros cristianos era la Septuaginta, y que los autores del NT escribieron en griego tomando como referencia esta versión. La Iglesia tuvo que discernir sobre la veracidad de las crónicas de la vida de Jesús y las enseñanzas de los Apóstoles hasta quedarse con los libros del canon del NT.
 
+### Según José Luis Sicre (IAT)
+
+Sicre expone la formación del canon como un proceso histórico y creyente a la vez. La selección de los escritos no fue literaria ni cultural, sino teológica: se recogieron las obras que expresaban la identidad del pueblo elegido y su misión religiosa, para animar la fidelidad presente y la esperanza futura.
+
+**El canon judío.** Las teorías que atribuyen la selección a Esdras (s. V a.C.) o a los «hombres de la Gran Sinagoga» (s. IV a.C.) son insostenibles, porque algunos libros aún no estaban escritos. Sí es probable que en tiempos de Esdras el Pentateuco adquiriera su puesto privilegiado —es el único bloque que admiten también los samaritanos—, y que la autoridad persa facilitara su aceptación común. La tesis del «Sínodo de Yamnia» (canon fijado entre los años 90 y 100) ha sido muy criticada; lo más seguro es que durante el siglo I se aceptara popularmente una lista de 22 o 24 libros y que el canon hebreo no se fijara rígidamente hasta finales del siglo II o comienzos del III, siendo los fariseos los responsables últimos. Entre los criterios influyeron la consideración del griego como lengua no sagrada y motivos políticos (los fariseos, enemigos de los Macabeos, no admitieron los libros que trataban de ellos). Los judíos no aceptan Eclesiástico, Sabiduría, Baruc, Judit, Tobías, 1 y 2 Macabeos ni las secciones griegas de Ester y Daniel. Flavio Josefo (*Contra Apión* 37-45) testifica la existencia de 22 libros venerados hasta la muerte.
+
+**El canon cristiano.** Algunos aceptaban solo los libros admitidos por los judíos (canon reducido); otros añadían los deuterocanónicos, valiosos para la piedad y la teología (2 Macabeos, Sabiduría). El debate fue agudo en el siglo XVI: Lutero agrupó los deuterocanónicos al final como «libros que no se igualan con la sagrada Escritura, pero cuya lectura es útil y buena», y lo mismo hicieron la Biblia de Zúrich y la Olivetana. El Concilio de Trento impuso el canon amplio basándose en el uso constante de esos libros en la Iglesia. Entre las Iglesias orientales separadas admiten el canon amplio la siria, copta, armenia y etíope; la rusa rechaza los deuterocanónicos desde el siglo XVIII y la griega lo deja como cuestión libre.
+
+Sicre concluye que esta exposición no afirma ni niega el papel del Espíritu Santo en el proceso: «Dios no actúa con una varita mágica, resolviendo los problemas en cinco segundos».
+
+[IAT, cap. 3, §2]
+
 ## Distinciones importantes
 
 - **Canon cerrado vs. abierto**: El canon católico está cerrado desde el siglo IV (AT) y V (NT). Algunas tradiciones cristianas mantienen un canon más amplio.

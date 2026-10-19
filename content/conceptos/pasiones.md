@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pasiones
 tags: ["moral"]
 
-timestamp: 2026-08-06
+timestamp: 2026-10-19
 description: "Las pasiones son movimientos del apetito sensitivo que siguen a la aprehensión de los sentidos y que inclinan al hombre hacia el bien sensible o le apartan del mal sensible."
 ---
 # Pasiones
 
 > Área: Moral
-> Última actualización: 2026-08-06
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -43,9 +43,15 @@ En el orden sobrenatural, la gracia puede ordenar las pasiones y convertirlas en
 
 **Ia-IIae q.25 — Orden de las pasiones:** El amor es la primera de las pasiones, seguida del deseo y luego del gozo. Las pasiones irascibles se sitúan entre las concupiscibles de movimiento y las de reposo (q.25 aa.1-4).
 
-**IIIª q.14 a.2 — Necesidad natural vs. de coacción en los defectos de Cristo:** Cristo asumió los defectos corporales (hambre, sed, muerte) no por coacción sino por necesidad natural consecuente a la naturaleza humana asumida. Asumió voluntariamente las debilidades de la carne para satisfacer por el pecado, para manifestar la verdad de su humanidad y para darnos ejemplo de paciencia (q.14 a.1). No asumió defectos incompatibles con la perfección de [[ciencia_de_cristo|ciencia]] y [[gracia_habitual|gracia]] (q.14 a.4), como la lepra u otros males particulares, sino solo los comunes a toda la naturaleza humana.
+**IIIª q.14 — Los defectos corporales de Cristo:** La asunción de los defectos corporales (hambre, sed, muerte) y su diferencia respecto de los defectos del alma se estudian en [[defectos_asumidos_por_cristo]] (q.14 aa.1-4).
 
-**IIIª q.15 a.4 — Pasibilidad del alma de Cristo:** El alma de Cristo fue pasible (a.4): padeció por pasión corporal (indirectamente por lesión del cuerpo) y por pasión anímica (afecciones del apetito sensitivo). Las pasiones de Cristo se distinguieron de las nuestras en tres aspectos: en el objeto (nunca tendieron a lo ilícito), en el principio (seguían el imperio de la razón) y en el efecto (no arrastraban a la razón). Jerónimo distingue propasión (comienza en el apetito sensitivo pero no domina la razón) de pasión perfecta (domina la razón); en Cristo hubo propasión, no pasión perfecta. Cristo no tuvo *fomes* del pecado (q.15 a.2) porque la virtud moral sometía perfectamente el apetito sensitivo a la razón.
+**IIIª q.15 a.4 — Pasibilidad del alma de Cristo y sus pasiones:** El alma unida al cuerpo padece de dos modos: por pasión corporal —a causa de una lesión del cuerpo, que la afecta indirectamente por la unidad del compuesto— y por pasión anímica, que en sentido estricto designa las afecciones del apetito sensitivo. Habiendo sido pasible y mortal el cuerpo de Cristo, su alma fue pasible del primer modo; y las afecciones del apetito sensitivo se dieron en él como los demás elementos de la naturaleza humana (Agustín: «tenía un cuerpo y un alma verdaderamente humanos, sus afecciones humanas no eran falsas»).
+
+Las pasiones de Cristo se distinguieron de las nuestras en tres aspectos: **en el objeto**, porque en nosotros tienden ordinariamente a lo ilícito, y no en Cristo; **en el principio**, porque en nosotros se anticipan con frecuencia al juicio de la razón, mientras que en Cristo todos los movimientos del apetito sensitivo seguían el imperio de la razón; y **en el efecto**, porque en nosotros a veces arrastran a la razón, mientras que en Cristo quedaban retenidas en el apetito sensitivo sin impedir a la razón hacer lo que convenía. Jerónimo distingue por eso la *pasión perfecta*, que domina a la razón, de la *propasión*, que se inicia en el apetito sensitivo pero no se propaga: en Cristo hubo propasión, no pasión perfecta. (SmTh IIIª q.15 a.4)
+
+**IIIª q.15 a.8 — La admiración en Cristo:** La admiración tiene por objeto algo nuevo e insólito. No la hubo en Cristo en relación con su ciencia divina, beatífica o infusa, pero sí pudo haberla en relación con su ciencia experimental, en la que cada día podía sucederle algo nuevo. La asumió para instrucción nuestra: «que el Señor se admire significa que nosotros hemos de admirarnos» (Agustín). (SmTh IIIª q.15 a.8)
+
+**IIIª q.15 a.10 — Cristo, viador y bienaventurado:** La bienaventuranza perfecta comprende la del alma —ver y gozar a Dios— y la del cuerpo —gloria e incorrupción—. Antes de su pasión, Cristo veía plenamente a Dios con su alma y poseía la bienaventuranza del alma; pero su alma era pasible y su cuerpo pasible y mortal, de modo que carecía de la bienaventuranza del cuerpo. Por eso era a la vez bienaventurado, por la bienaventuranza del alma, y viador, porque tendía a lo que aún le faltaba. (SmTh IIIª q.15 a.10)
 
 ### Según Royo Marín (TPCr)
 
@@ -102,7 +108,7 @@ Las pasiones se relacionan con la [[templanza]] (las concupiscibles) y la [[fort
 - [TPCr, Parte III, Libro I, Cap. II-III]
 - SmTh Ia-IIae q.22-25
 - SmTh Iª q.95 aa.2-3
-- SmTh IIIª q.14 aa.1-4
-- SmTh IIIª q.15 aa.2,4
+- SmTh IIIª q.15 aa.4, 8, 10
+- SmTh IIIª q.14 aa.1-4 (véase [[defectos_asumidos_por_cristo]])
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §3
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §4

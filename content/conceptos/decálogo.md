@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Decálogo
 tags: ["moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-10-19
 description: "El Decálogo (literalmente «diez palabras») es el conjunto de los diez mandamientos de la Ley de Dios."
 ---
 # Decálogo
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-10-19
 
 ## Definición
 
@@ -51,9 +51,55 @@ La ley tiene un acentuado carácter social: es la ley dada al pueblo de Israel, 
 
 La ley tiene en cuenta la debilidad moral de los hombres y, en algunos puntos, condesciende con la «dureza de vuestro corazón». Aunque los preceptos de la ley se enuncian como mandatos o prohibiciones ("hacer", "no hacer"), se advierte, sin embargo, que intentan conducir al pueblo hacia actitudes virtuosas: la fe y el amor a Dios, la justicia y el amor al prójimo. En el telón de fondo de los mandamientos se encuentra una exigencia de fe y la confianza en Dios. (Ele_Xto_Stos, Cap. VIII, §3b)
 
+### Según José Luis Sicre (IAT)
+
+Sicre estudia el Decálogo dentro de la historia de la legislación de Israel (cap. 10). La legislación ocupa más de un tercio del Pentateuco, y las normas que rigen las relaciones entre los hombres y de estos con Dios son tan importantes como el don de la libertad y el de la tierra prometida.
+
+**Origen y función.** Las leyes de Israel no surgen de mentes calenturientas, sino de necesidades vitales: el relato del «toro de Zacarías» muestra cómo el derecho nace de conflictos concretos (Éx 21,35-36). El Decálogo aparece en dos versiones (Ex 20 y Dt 5) y está formulado de manera apodíctica, como palabra directa de Dios.
+
+**Los códigos del Pentateuco.** Sicre distingue, en la pequeña historia de la legislación israelita:
+
+- la época patriarcal;
+- Moisés;
+- el **Decálogo cultual** (Ex 34);
+- el **Dodecálogo siquemita** (Dt 27,15-26);
+- el **Código de la Alianza** (Ex 20,22–23,19);
+- el **Código deuteronómico** (Dt 12–26);
+- la **Ley de Santidad** (Lv 17–26).
+
+El Decálogo no es, por tanto, un código aislado, sino la formulación programática de la alianza, desarrollada después en cuerpos legales más extensos. Su valor permanente se mantiene en la catequesis cristiana, que lo usa como estructura básica de la moral.
+
+[IAT, cap. 10]
+
 ## Analizado para
 
 - [[kevin_mulaney_prudence_decisions]]
+
+### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+
+Para Sicari el Decálogo es, ante todo, el **sendero trazado**: la respuesta a
+la pregunta por una strada claramente marcada y autorizadamente indicada por
+quien conoce nuestras necesidades, nuestro corazón y los riesgos para nuestra
+vida. Fue revelado a Moisés, y a su vez esos mandamientos «expresan solo más
+claramente lo que el Creador ya pone en el corazón de todos los hombres, sus
+criaturas». De ahí el método del examen de conciencia: parangonarse con esas
+«indicaciones», y del parangón nace el juicio que dice si caminamos cojeando,
+si el «pie izquierdo» está mal posado, si corremos el riesgo de hacernos daño
+([[pecado_como_mal_camino]], [[ley_moral_natural]]).
+
+Su recorrido por los mandamientos tiene un acento propio: el primero como
+denuncia del [[ateísmo_práctico]]; el segundo como denuncia de la blasfemia,
+agravada en los cristianos por la familiaridad con Dios; el tercero como
+defensa de la fiesta y del domingo frente a la lógica del mercado; el cuarto
+como sanación del vínculo con el propio origen; el quinto extendido a la ira,
+al aborto, a la droga y al suicidio; el sexto explicado a los hijos como
+defensa del vínculo del que ellos mismos son testigos vivos; el séptimo como
+crítica del «tener» como forma de concebir la existencia; el octavo como
+denuncia de la mentira que se vuelve maraña; y los dos últimos —que en la
+formulación catequística italiana recogen el noveno y el décimo— como
+interiorización de todo lo anterior, en continuidad con la antifrasis del
+Sermón de la Montaña: «se dijo... pero yo os digo» (Mt 5).
+
 
 ## Ver también
 [[ley_natural]], [[ley_evangélica]], [[virtud_de_la_caridad]], [[pecado]], [[mandamientos_de_la_iglesia]]

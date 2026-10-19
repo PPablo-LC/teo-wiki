@@ -53,7 +53,7 @@ trabajo». Se le definió como *el santo de la esperanza cristiana*.
 ## Ver también
 
 [[laicado]], [[paz]], [[compromiso_político]], [[esperanza]],
-[[doctrina_social]]
+[[doctrina_social_de_la_iglesia]]
 
 ## Referencias
 

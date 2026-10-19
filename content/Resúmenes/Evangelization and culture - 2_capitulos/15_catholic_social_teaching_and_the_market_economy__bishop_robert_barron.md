@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization_and_culture", "doctrina_social", "economía"]
 
 ## Conceptos básicos referenciados
 
-- [[doctrina_social]] — enseñanza social católica sobre economía
+- [[doctrina_social_de_la_iglesia]] — enseñanza social católica sobre economía
 - [[subsidiariedad]] — equilibrio entre mercado libre y estado
 - [[bien_común]] — destino universal de los bienes
 - [[propiedad_privada]] — derecho y límites según la Iglesia

@@ -7,6 +7,7 @@ description: "Registro acumulativo de wikilinks sin artículo propio: secciones 
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
+> **Actualización 2026-10-19 — IAT (Sicre):** 3 artículos nuevos ([[pentateuco]], [[historia_deuteronomista]], [[guerra_santa]]) y 7 huérfanos sembrados (`conquista_de_canaán`, `deuteronomio`, `historia_de_israel`, `josué`, `jueces`, `profetismo`, `salomón`); total detectado por el script: **3.639**. Ver sección «Sembrados por el procesamiento de Introducción al Antiguo Testamento (IAT)».
 > Última actualización: **2026-10-16 — Cobertura de huérfanos de mayor densidad: 5 artículos nuevos (`[[encuentro_con_dios]]`, `[[distancia]]`, `[[insatisfacción]]`, `[[sentimentalismo]]`, `[[beatificación]]`) y 7 retargets a canónicos (padre→`[[padres_y_padre]]`/`[[dios_padre]]`, CIC→`[[código_de_derecho_canónico]]`, SST→`[[sacramentorum_sanctitatis_tutela]]`, SST-2010→`[[normae_de_gravioribus_delictis]]`, bien→`[[bondad]]`, pecado_grave→`[[pecado_mortal]]`, ateísmo_práctico→`[[ateísmo]]`); 1 huérfano nuevo sembrado (`[[dicasterio_de_las_causas_de_los_santos]]`); ver sección «Resueltos por cobertura de huérfanos de mayor densidad (2026-10-16)». 2026-10-16 — Cierre de Il rischio educativo (IRE, Giussani): resúmenes 4/4 completados; 2 huérfanos nuevos sembrados (`[[estupor_filosófico]]`, `[[pregunta]]` desde `estupor.md`), `[[problema]]` ya registrado con +1 conteo, retargets `[[Luigi_Giussani]]`→`[[luigi_giussani]]` y retiro de `[[Giussani_CL]]` (lote sin artículo propio; texto plano) en el documento IRE; ver sección «Sembrados por el procesamiento de Il rischio educativo (IRE) — L. Giussani». 2026-10-13 — Incorporación de Pureza y hermosura (PyH, Mons. Tihámer Tóth): procesamiento integral (índice, 1 documento, 2 personas, 1 concepto nuevo `[[enfermedad_venérea]]`, 28 conceptos enriquecidos, 11 resúmenes) que siembra 40 huérfanos nuevos (blanca_de_castilla, san_luis, caida, sifilis, eve_lavalliere, seneca, contagio_moral, candor, enciclica, adaptacion, misterio_sagrado, menstruacion, primer_amor, fantasia, cornelia, gracos, leonardo_da_vinci, judas, pietro_bandinelli, ciencia_medica_y_castidad, fray_luis_de_leon, susana, santas_ines_lucia_agueda_y_cecilia, santa_fausta, epicteto, alejandro_magno, diogenes, isabel_clara_eugenia, lecturas, espectaculos, teatro, baile, moda, vida_higienica, postrimerias, maria_teresa_de_austria, blanca_de_navarra, schiller, ciceron, goethe); retargets virtud_cristiana→virtudes_cristianas, Santísima_Virgen_María→virgen_maría, seducción_pecaminosa→seducción; ver sección «Sembrados por el procesamiento de Pureza y hermosura (PyH) — Mons. Tihámer Tóth». 2026-10-11 — Procesamiento de Realtà e giovinezza. La sfida (REG, Giussani): siembra ~33 huérfanos nuevos desde el documento, 15 conceptos, 20 enriquecidos y 23 resúmenes (hipotesis_positiva, insatisfacción, educabilidad, distracción, padre, tedio, etc.); retargets incontro→encuentro, fede→fe, ideale→ideal, sogno→sueño, noia→tedio, maturità→madurez, religiosidad→religiosidad_natural; ver sección «Sembrados por el procesamiento de Realtà e giovinezza. La sfida (REG)». 2026-10-10 — Procesamiento de Il miracolo dell'ospitalità (MDO, Giussani): siembra 12 huérfanos nuevos (trascendencia, sacralidad_de_la_vida, discapacidad, fragmentación, imitación_de_dios, don_total_de_sí, ser_padre, agradecimiento, levadura_de_la_gratuidad, refectorio, historia, voto_de_caridad); resuelve `[[nada]]` y `[[destino]]` con artículos nuevos y aplica retargets a canónicos; ver sección «Sembrados por el procesamiento de Il miracolo dell'ospitalità (MDO)». 2026-09-18 — Procesamiento de Dare la vita per l'opera di un Altro (DLV, Giussani): siembra 2 huérfanos nuevos (compasión_de_cristo, cristo_en_cruz; ver sección «Sembrados por el procesamiento de Dare la vita per l'opera di un Altro (DLV) (2026-09-18)»); los 14 artículos nuevos (ontología, estupor, cuerpo_tangible_de_cristo, mentalidad, valor_de_la_persona, panteísmo, letizia, cristo_todo_en_todos, destino_del_hombre, paternidad_de_dios, tischreden, violencia, maestro_y_padre, cristo_resucitado) resuelven los huérfanos correspondientes (estupor y violencia ya registrados). 2026-09-17 — Lote 7 de cobertura de alta densidad: resuelve 20 huérfanos (1 artículo nuevo: meditación_trascendental; 19 retargets a canónicos, incl. el polisémico proceso→proceso_canónico/proceso_de_jesús); retipográfico juvenescit_ecclesia→iuvenescit_ecclesia (huérfano intencional); ver sección «Resueltos por cobertura de alta densidad (lote 7, 2026-09-17)». Lote 6: resuelve 19 huérfanos (7 artículos nuevos: nueva_era, kundalini, reencarnación, genio_femenino, ocultismo, gurúes, mulieris_dignitatem [documento], san_juan_xxiii [persona]; 12 retargets a canónicos); ver sección «Resueltos por cobertura de alta densidad (lote 6, 2026-09-17)». Procesamiento de Perché la Chiesa (PLDC, Giussani): siembra 4 huérfanos nuevos (percorso, centuplo, cristo_metodo, verifica); [[merito]] se retargeta a mérito y [[esperienza_elementale]] se retargeta a experiencia_elemental (ambos canónicos); ver sección «Sembrados por el procesamiento de Perché la Chiesa (PLDC) (2026-09-17)». 2026-09-14 — Resúmenes de God Is Near Us (GINU, Ratzinger): completan 15/15 y siembran 7 huérfanos nuevos (catolicismo, dios_con_nosotros, iglesia_del_sufrimiento, sinagoga, statio, sustancia, transignificación; ver sección «Sembrados por los resúmenes de God Is Near Us (GINU) (2026-09-14)»); [[reencarnación]] y [[utopía]] se referencian desde GINU 13 sin duplicar el registro. 2026-09-12 — Procesamiento de Il senso religioso (SR, Giussani): siembra 1 huérfano nuevo (estupor, forward reference desde [[atención]]; el artículo [[asombro]] ya cubre el «estupor de la presencia»; [[violencia]], sembrado en totalitarismo e ideología, ya estaba registrado; ver sección «Sembrados por el procesamiento de Il senso religioso (SR)»). 2026-09-11 — Artículos de persona de Evangelization & Culture n.º 23 «Prayer» (EAC-23): siembran 6 huérfanos nuevos (orden_de_los_predicadores, tradición_dominicana, padre_pio, fe_y_duda, literatura_y_fe, purificación_espiritual; ver sección «Sembrados por los artículos de persona de Evangelization & Culture n.º 23 «Prayer»»); retargets testimonio_contemporáneo→testimonio_cristiano y poesía_contemporánea→poesía; añade referencias a temporalidad (ya registrado); el enriquecimiento de los conceptos del número siembra maría_desatanudos (ver sección «Sembrados por el enriquecimiento de conceptos con EAC-23 «Prayer»»). 2026-09-10 — Clúster Legión/Regnum Christi resuelto íntegramente (21 huérfanos: 4 artículos nuevos —legionarios_de_cristo, consagradas_del_regnum_christi, laicos_consagrados_del_regnum_christi, legionarios_ancianos— y 17 retargets a canónicos; ver sección «Resueltos por el procesamiento del clúster Legión/Regnum Christi (2026-09-10)»). Procesamiento de Evangelization & Culture n.º 22 «Courage» (EAC-22): siembra 5 huérfanos nuevos (conversión_de_san_pedro, cultura_de_la_autoinvención, estoicismo, hans_urs_von_balthasar, jose_maria_escriva; ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 22 «Courage»»); retargets teo-drama→theo-drama y teodramática_de_hans_urs_von_balthasar→theo-drama; añade referencias a diálogo_iglesia_mundo (ya registrado). 2026-09-09 — Procesamiento de Evangelization & Culture n.º 21 «Democracy» (EAC-21): siembra 16 huérfanos nuevos (participación_política, peregrinación_eclesial, ciudad_de_dios_y_ciudad_terrenal, gobierno_limitado, igualdad_humana, legitimidad_política, orden_moral_natural, separación_de_poderes, virtud_cívica, conservadurismo, cristianos_de_oriente, cultura_contemporánea, derechos_naturales, dostoievski, kody_w_cooper, winston_churchill; ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 21 «Democracy»»); retargets tolstói→león_tolstoy, deificación→divinización, persecución_religiosa→persecución y santa_teresa_de_ávila→santa_teresa_de_jesús; se retira [[iraq]] (nombre de lugar). 2026-09-07 — EAC-19 (procesamiento completo): siembra 22 huérfanos nuevos (anestesia_espiritual, angustia_espiritual, conflicto, conflicto_humano, creación_del_alma, cultura_católica, deseo_rectamente_ordenado, enfermedad_mental, ex_corde_ecclesiae, falsos_profetas, formación_del_carácter, heridas_familiares, jerarquía_de_bienes, mente_humana, pintura, progreso, reduccionismo, responsabilidad_moral, sigmund_freud, trivium, utopía, word_on_fire_institute; subcreación, sembrado por los artículos de persona, queda resuelto el mismo día con la creación de su artículo; ver secciones EAC-19). 2026-09-05 — Procesamiento de Evangelization & Culture n.º 18 «Conversion» (EAC-18): siembra 13 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 18 «Conversion»»); retarget auto-donación → donación_de_sí; se resuelve conversión_continua con la creación de su artículo. 2026-09-05/06 — Resúmenes de cuatro fuentes legionarias: Informe-2020 (29), informe-comision-abusos-es-1941-2019 (14), Sapientia Christi - Ratio studiorum (22) e Informe abusos Legionarios de Cristo_ Conv (55): 120 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes de las fuentes de abusos y de la Sapientia Christi (2026-09-05/06)»). 2026-09-02 — Procesamiento de Evangelization & Culture n.º 17 «Education» (EAC-17): siembra 2 huérfanos nuevos (trascendentales, bien_supremo; ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 17 «Education»»). — Resúmenes de Evangelization & Culture n.º 16 «Benedict XVI» (EAC-16): los 22 resúmenes se completan y siembran 49 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Evangelization & Culture n.º 16 «Benedict XVI»»); se corrigen 10 variantes (papa_benedicto_xvi→benedicto_xvi; segundo_concilio_vaticano→concilio_vaticano_ii; de_lubac→henri_de_lubac; san_benito_de_nursia→san_benito; teo-drama→teodrama; persona→persona_divina/persona_humana; relación→relaciones_trinitarias; verdad_en_el_amor→verdad_en_la_caridad; cristo_centro→cristocentrismo; iglesia_una_santa_católica_apostólica→notas_de_la_iglesia; dignidad→dignidad_humana; gracia; curiaño_litúrgico→año_litúrgico; adores→belleza). 2026-09-02 — Procesamiento de Evangelization & Culture n.º 15 «Suffering» (EAC-15): siembra 25 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 15 «Suffering»»); se corrigen 6 variantes (cruz_de_cristo→cruz; amor_por_los_enemigos→amor_al_enemigo; sufrimiento_de_cristo→sufrimiento_cristiano; acompañamiento→acompañamiento_pastoral; san_juan_pablo_ii→juan_pablo_ii; incarnación→encarnación). 2026-08-31 — Procesamiento de Evangelization & Culture n.º 14 «Joy» (EAC-14): siembra 2 huérfanos nuevos (condición_humana, univocidad; ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 14 «Joy»»); se corrigen 2 variantes (cinema_y_fe→cine; persecución_religiosa→persecución). 2026-08-30 — Procesamiento de Evangelization & Culture n.º 13 «The Eucharist» (EAC-13): siembra 10 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 13 «The Eucharist»»); se corrigen 3 variantes (santa_teresita_de_lisieux→santa_teresa_de_lisieux; sufrir→sufrimiento_redentor; santa_misa→misa). 2026-08-29 — Resúmenes de Paradoxes of Faith (PoF): 16/16 completados; siembran 22 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Paradoxes of Faith»). Resúmenes de Para Salvarte (PS): 31/31 completados; siembran 30 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Para Salvarte»). Resúmenes de Normae de delictis gravioribus (NDG): 47/47 completados; siembran 36 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Normae de delictis gravioribus»). 2026-08-23 — Cobertura de huérfanos por lotes (de mayor a menor densidad), 5 lotes completados. L5: [[ocio]], [[recta_razón]], [[significado_nupcial_del_cuerpo]], [[antropología]]; retarget `[[prescripción_acción_penal]]` → [[prescripción_de_la_acción_criminal]]. L4: [[dicha]], [[espiritualización]], [[historia_de_la_iglesia]], [[moralidad_secular]]; retarget `[[cristo_cabeza_de_la_iglesia]]` → [[cabeza_de_la_iglesia]]. L3: [[pertenencia]], [[castigo]], [[problema_del_mal]], [[adulterio_en_el_corazón]], [[comunicación_y_transparencia]] (LC). L2: [[reinterpretación_tipológica]], [[autenticidad]], [[lenguaje]]; retargets noche_oscura_del_alma y pobreza_espiritual. L1: silencio_interior (18), conexión (13), coraje (11), razón_instrumental (11), valía_personal (10). Ver secciones «Resueltos por lote N». Tabla regenerada con el detector (total 1796).**
 > Total de wikilinks huérfanos registrados: **1807** (pendientes de artículo; 2026-10-16: neto −11 por cobertura de mayor densidad — resueltos 12 (5 artículos nuevos: encuentro_con_dios, distancia, insatisfacción, sentimentalismo, beatificación; 7 retargets: padre, CIC, SST, SST-2010, bien, pecado_grave, ateísmo_práctico) y +1 sembrado (dicasterio_de_las_causas_de_los_santos); ver sección «Resueltos por cobertura de huérfanos de mayor densidad (2026-10-16)». 2026-10-16: +2 por IRE — `[[estupor_filosófico]]`, `[[pregunta]]`; ver sección «Sembrados por el procesamiento de Il rischio educativo (IRE) — L. Giussani». 2026-09-17: lote 5 de cobertura de alta densidad resuelve 5 — discipulos_de_cristo, santa_misa, santisimo_sacramento, maria_santisima (retargets) y yoga (artículo nuevo); ver sección «Resueltos por cobertura de alta densidad (lote 5, 2026-09-17)». 2026-09-17: lote 4 de cobertura de alta densidad resuelve 5 — santa_maria y dignidad_de_la_persona_humana y vigna (retargets) y noche y hinduismo (artículos nuevos); ver sección «Resueltos por cobertura de alta densidad (lote 4, 2026-09-17)». 2026-09-17: lote 3 de cobertura de alta densidad resuelve 5 por retarget — enfermedad_curacion, iglesia_catolica, san_juan_pablo_ii, congregacion_para_la_doctrina_de_la_fe, puro; ver sección «Resueltos por cobertura de alta densidad (lote 3, 2026-09-17)». 2026-09-17: lote 2 de cobertura de alta densidad resuelve 5 por retarget — satan, imagen, babel_babilonia, bestia_bestias, liberacion_libertad; ver sección «Resueltos por cobertura de alta densidad (lote 2, 2026-09-17)». 2026-09-17: lote 1 de cobertura de alta densidad resuelve 5 — reino, siervo_de_yahveh, dia_domini, prueba_tentacion (retargets) y penitencia_conversion (creación de penitencia_y_conversión); ver sección «Resueltos por cobertura de alta densidad (lote 1, 2026-09-17)». 2026-09-14: los resúmenes de God Is Near Us (GINU) siembran 7 huérfanos nuevos — catolicismo, dios_con_nosotros, iglesia_del_sufrimiento, sinagoga, statio, sustancia, transignificación; ver sección «Sembrados por los resúmenes de God Is Near Us (GINU) (2026-09-14)»; reencarnación y utopía ya estaban registrados. 2026-09-12: SR siembra 1 huérfano nuevo (`[[estupor]]`, ver sección «Sembrados por el procesamiento de Il senso religioso (SR)»); 2026-09-11 EAC-23 siembra 6 huérfanos nuevos — ver sección «Sembrados por los artículos de persona de Evangelization & Culture n.º 23 «Prayer»»; y +1 más como forward reference desde conceptos (`maría_desatanudos`, ver sección «Sembrados por el enriquecimiento de conceptos con EAC-23 «Prayer»»); 2026-09-10 EAC-22 siembra 5 huérfanos nuevos — ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 22 «Courage»»; detector 2026-08-14, excluido el falso positivo `[[concepto]]`; 2026-09-09 EAC-21 siembra 16 huérfanos nuevos — ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 21 «Democracy»»; 2026-09-07 EAC-19 completa: +22 nuevos y −1 resuelto (subcreación);EAC-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; EAC-9 introduce 3 huérfanos nuevos (2026-08-23): `[[conversión_cristiana]]`, `[[dana_gioia]]` (resuelto el mismo día con la creación de `wiki/personas/dana_gioia.md`), `[[milagros_de_jesús]]`; EAC-10 introduce 12 huérfanos nuevos (2026-08-23): ver sección correspondiente; 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`; 2026-08-24: completado del procesamiento EAC-3 (Issue 3 «The Digital Age») introduce 1 huérfano nuevo intencional: `[[atención]]`, sembrado desde [[redes_sociales]] como forward reference
 > Resueltos (acumulado; ver secciones «Resueltos…» y notas finales): +12 por cobertura de huérfanos de mayor densidad (2026-10-16): 5 artículos nuevos ([[encuentro_con_dios]], [[distancia]], [[insatisfacción]], [[sentimentalismo]], [[beatificación]]) y 7 retargets a canónicos (padre→[[padres_y_padre]]/[[dios_padre]], CIC→[[código_de_derecho_canónico]], SST→[[sacramentorum_sanctitatis_tutela]], SST-2010→[[normae_de_gravioribus_delictis]], bien→[[bondad]], pecado_grave→[[pecado_mortal]], ateísmo_práctico→[[ateísmo]]); +5 por lote 5 de cobertura de alta densidad (2026-09-17): discipulos_de_cristo→[[discípulo]], santa_misa (y «Santa Misa»)→[[misa]], santisimo_sacramento→[[eucaristía]], maria_santisima→[[maría]] (retargets) y [[yoga]] (artículo nuevo); +5 por lote 4 de cobertura de alta densidad (2026-09-17): santa_María→[[maría]], dignidad_de_la_persona_humana→[[dignidad_de_la_persona]], vigna→[[viña]] (retargets) y [[noche]] y [[hinduismo]] (artículos nuevos); +5 por lote 3 de cobertura de alta densidad (2026-09-17): enfermedad_curacion→[[enfermedad_y_curación]], iglesia_catolica→[[iglesia]], san_juan_pablo_ii→[[juan_pablo_ii]], congregacion_para_la_doctrina_de_la_fe→[[dicasterio_para_la_doctrina_de_la_fe]], puro→[[pureza]] (retargets a canónicos); +5 por lote 2 de cobertura de alta densidad (2026-09-17): satan→[[satanás]], imagen→[[imagen_de_dios]], babel_babilonia→[[babel]], bestia_bestias→[[bestia]], liberacion_libertad→[[liberación_y_libertad]] (retargets a canónicos); +5 por lote 1 de cobertura de alta densidad (2026-09-17): reino→[[reino_de_dios]], siervo_de_yahveh→[[siervo_de_yahvé]], dia_domini→[[día_del_señor]], prueba_tentacion→[[prueba_y_tentación]] (retargets) y penitencia_conversion→[[penitencia_y_conversión]] (artículo nuevo); 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08; +1 el 2026-08-23: `[[dana_gioia]]` resuelto con la creación de su artículo en `wiki/personas/`; +5 por lote 1 de alta densidad (2026-08-23): silencio_interior, conexión, coraje, razón_instrumental, valía_personal; +5 por lote 2 (2026-08-23): 3 artículos nuevos (reinterpretación_tipológica, autenticidad, lenguaje) y 2 retargets a artículos canónicos (noche_oscura_del_alma → noche_oscura; pobreza_espiritual → pobreza_de_espíritu); +5 por lote 3 (2026-08-23): pertenencia, castigo, problema_del_mal, adulterio_en_el_corazón y comunicación_y_transparencia); +5 por lote 4 (2026-08-23): dicha, espiritualización, historia_de_la_iglesia, moralidad_secular + retarget cristo_cabeza_de_la_iglesia → cabeza_de_la_iglesia); +5 por lote 5 (2026-08-23): ocio, recta_razón, significado_nupcial_del_cuerpo, antropología + retarget prescripción_acción_penal → prescripción_de_la_acción_criminal; +15 por lote 1 de cobertura de huérfanos de mayor densidad (2026-09-03): 6 artículos nuevos (donacion_mutua, juego, espiritualidad_del_cuerpo, evolución, mirada, maría) y 9 retargets a artículos canónicos (escritura_sagrada → sagrada_escritura; felicidad → felicidad_humana; indulgencia → indulgencias; infallibilidad → infalibilidad; potencia_apetitiva_y_cognoscitiva → potencias_del_alma; purgativa → vía_purgativa; idolo → idolatría; fe_vs_razon → fe_y_razón; imaginacion → imaginación)
@@ -2922,7 +2923,7 @@ La generación de los 12 resúmenes siembra trece huérfanos nuevos
 (forward references que documentan dónde reside su contenido). Los
 wikilinks [[casiano]], [[san_antonio_abad]] y los conceptos principales
 ([[fin_ultimo_del_monje]], [[pureza_del_corazon]], [[tres_renuncias]],
-[[ocho_vicios_capitales]], [[discrecion]], [[movilidad_del_alma]]) ya
+[[ocho_vicios_capitales]], [[discreción]], [[movilidad_del_alma]]) ya
 resuelven a artículos existentes.
 
 | Wikilink | Referencias | Contenido actual / artículo futuro |
@@ -4997,3 +4998,246 @@ La fuente canónica `raw/Bases_doctrinales-raw/youth_and_chastity/` fue procesad
 
 Notas:
 - El resto de huérfanos referenciados por los 8 resúmenes y por `wiki/conceptos/castidad.md`, `continencia.md`, `vergüenza.md`, `abnegación.md`, `embriaguez.md`, `educación_a_la_castidad.md`, `educación_sexual.md`, `educación_del_carácter.md` ya figuraban registrados en el tracker.
+
+## Sembrados por el procesamiento de Introducción al Antiguo Testamento (IAT) — J. L. Sicre
+
+Fecha: 2026-10-19. Fuente: `raw/Bases_doctrinales-raw/Introduccion_al_Antiguo_Testamento_capitulos/`.
+
+**Artículos nuevos (resuelven huérfanos previos):**
+
+- [[pentateuco]] — artículo nuevo.
+- [[historia_deuteronomista]] — artículo nuevo.
+- [[guerra_santa]] — artículo nuevo.
+
+**Huérfanos nuevos sembrados** (forward references desde los artículos enriquecidos):
+
+| Wikilink | Referencias | Categoría |
+|----------|-------------|-----------|
+| `[[conquista_de_canaán]]` | 2 (`historia_deuteronomista.md`, `guerra_santa.md`) | Biblia |
+| `[[deuteronomio]]` | 2 (`historia_deuteronomista.md`, `guerra_santa.md`) | Biblia |
+| `[[historia_de_israel]]` | 2 (`historia_deuteronomista.md`, `josé_luis_sicre` vía documento) | Biblia |
+| `[[josué]]` | 1 (`historia_deuteronomista.md`) | Personas |
+| `[[jueces]]` | 1 (`historia_deuteronomista.md`) | Biblia |
+| `[[profetismo]]` | 2 (`profetas.md`, `josé_luis_sicre.md`) | Biblia |
+| `[[salomón]]` | 1 (`historia_deuteronomista.md`) | Personas |
+
+Los demás wikilinks de los artículos IAT resuelven a artículos canónicos ya existentes (`maná`, `intercesión`, `promesas_de_dios`, `sabiduría_divina`, `fe_de_abraham`, `misericordia_divina`, `conocimiento_de_dios`, `ciencia_y_fe`, etc.).
+
+## Sembrados por el procesamiento de Hail, Holy Queen (HHQ) — Scott Hahn
+
+Fecha: 2026-10-19. Fuente: `raw/Bases_doctrinales-raw/Hail, Holy Queen  the Mother of God in the word of God - Hahn, Scott/`.
+
+**Artículos nuevos (resuelven o crean referencias):**
+
+- [[hermanos_de_jesús]] — artículo nuevo (Mc 6,3; Helvidio y Jerónimo; «primogénito»).
+- [[mujer_del_apocalipsis]] — artículo nuevo (Ap 12; María, Iglesia e Israel; el Arca).
+- [[hail_holy_queen]] — documento nuevo.
+
+**Huérfanos nuevos sembrados** (forward references desde los artículos enriquecidos y el documento):
+
+| Wikilink | Referencias | Categoría |
+|----------|-------------|-----------|
+| `[[abba]]` | 1 (`filiación_divina.md`) | Teología bíblica |
+| `[[familia_de_nazaret]]` | 1 (`hermanos_de_jesús.md`) | Cristología |
+| `[[santiago_el_menor]]` | 1 (`hermanos_de_jesús.md`) | Personas |
+
+`salve_regina`, `letanías_lauretanas` y `sacerdocio_real` ya estaban registrados como huérfanos por fuentes anteriores; HHQ añade una referencia a `salve_regina` desde el documento descriptivo. Los demás wikilinks de los artículos HHQ resuelven a artículos canónicos existentes (`caná`, `misterios_del_rosario`, `jerusalén_celestial`, `providencia`, `apologética`, `ecumenismo`, `evangelización`, `mérito`, `justificación`, `dogma`, `patrística`, `recapitulación`, `david`, `apocalipsis`, etc.).
+
+## Sembrados por el procesamiento de Jesus and the Jewish Roots of Mary (JRM) — Brant Pitre
+
+Fecha: 2026-10-19. Fuente: `raw/Bases_doctrinales-raw/Jesus_and_the_Jewish_Roots_of_Mary_-_Brant_James_Pitre_capitoli/`.
+
+**Artículos nuevos:**
+
+- [[nueva_raquel]] — artículo nuevo (Raquel, Jer 31,15; Mt 2,18; maternidad doliente e intercesión).
+- [[brant_pitre]] — persona nueva.
+- [[jesus_and_the_jewish_roots_of_mary]] — documento nuevo.
+
+**Huérfanos nuevos sembrados** (forward references desde los artículos enriquecidos, el documento y los resúmenes):
+
+| Wikilink | Referencias | Categoría |
+|----------|-------------|-----------|
+| `[[raquel]]` | 2 (`nueva_raquel.md`, resumen 12) | Personas / AT |
+| `[[josé_hijo_de_jacob]]` | 2 (`nueva_raquel.md`, resumen 12) | Personas / AT |
+| `[[nuevo_moisés]]` | 1 (`arca_de_la_nueva_alianza.md`) | Cristología |
+| `[[hora_de_jesús]]` | 1 (`dolor_de_maría.md`, resumen 11) | Cristología joánica |
+| `[[maría_en_el_calvario]]` | 2 (`madre_de_la_iglesia.md`, resumen 14) | Mariología |
+| `[[sion]]` | 1 (índice JRM, resumen 11) | Teología bíblica |
+| `[[iglesia_de_jerusalén]]` | 1 (`hermanos_de_jesús.md`) | Eclesiología |
+| `[[edward_sri]]` | 1 (`reina_madre.md`, nota de JRM) | Personas |
+| `[[tradición_judía]]` | 1 (índice JRM) | Teología bíblica |
+
+Los demás wikilinks de los artículos JRM resuelven a artículos canónicos existentes (`belén`, `discípulo_amado`, `magníficat`, `caná`, `éxodo`, `sábado`, `pasión_de_cristo`, `sepultura_de_cristo`, `mesianismo_de_cristo`, `resurrección_de_la_carne`, `prefiguraciones_de_cristo`, `patrística`, etc.).
+
+## Sembrados por el procesamiento de Il dono della confessione (IDC) — Antonio Maria Sicari
+
+Fecha: 2026-10-19. Fuente: `raw/Bases_doctrinales-raw/il_dono_della_confessione_capitoli/`.
+
+**Artículos nuevos:**
+
+- [[ateísmo_práctico]] — artículo nuevo (negación existencial de Dios por la conducta).
+- [[pecado_como_mal_camino]] — artículo nuevo (el pecado como «camino malo»).
+- [[il_dono_della_confessione]] — documento nuevo.
+
+**Huérfanos nuevos sembrados** (forward references desde los artículos enriquecidos y los resúmenes):
+
+| Wikilink | Referencias | Categoría |
+|----------|-------------|-----------|
+| `[[falso_testimonio]]` | 3 (`mentira.md`, resumen 03, `../Vocabulario_bíblico/144_labios.md`) | Moral |
+| `[[vida_eclesial]]` | 2 (resumen 06) | Eclesiología |
+| `[[acto_de_dolor]]` | 1 (resumen 09) | Moral / Sacramental |
+
+**Retarget (variante canónica):**
+
+- `[[honra_a_los_padres]]` → `[[cuarto_mandamiento]]` (resumen 03): «Honra a tu padre y a tu madre» es el cuarto mandamiento, ya tratado en `cuarto_mandamiento.md`; se conserva `[[piedad_filial]]` para la virtud.
+
+Los wikilinks `[[01_il_dono_della_confessione]]` a `[[09_come_celebrare_il_sacramento_della_riconciliazione]]` enlazan los resúmenes de `wiki/Resúmenes/il_dono_della_confessione_capitoli/` y el detector los resuelve (no son huérfanos). Los demás wikilinks de los artículos IDC resuelven a artículos canónicos existentes (`verdad`, `conciencia`, `tentación`, `familia`, `perdón`, `misericordia`, `amor`, `alianza`, etc.).
+
+## Sembrados por el procesamiento de Instituciones cenobíticas (IC) — Juan Casiano
+
+Fecha: 2026-10-19. Fuente: `raw/Bases_doctrinales-raw/instituciones_capitulos/`. Artículos ya existentes desde la sesión anterior (7 vicios capitales + [[casiano]]); en esta fase se completaron los 15 resúmenes de la fuente.
+
+**Huérfanos nuevos sembrados** (forward references desde los resúmenes de `wiki/Resúmenes/instituciones_capitulos/`):
+
+| Wikilink | Referencias | Categoría |
+|----------|-------------|-----------|
+| `[[discernimiento_de_pensamientos]]` | 4 (resúmenes 07, 09 y 12) | Ascética / logismoi casianos (no confundir con [[discernimiento_de_espíritus]]) |
+| `[[salmodia]]` | 2 (resúmenes 05 y 06) | Liturgia / oración |
+| `[[juicio_temerario]]` | 2 (resúmenes 10 y 12) | Moral ascética |
+| `[[teófilo_de_alejandría]]` | 1 (resumen 02) | Persona / historia |
+| `[[san_basilio]]` | 1 (resumen 03; ya registrado antes, se mantiene) | Persona / Padres capadocios |
+| `[[oración_habitual]]` | 1 (resumen 01) | Ascética / oración |
+| `[[oración_de_lectura]]` | 1 (resumen 05) | Liturgia / oración |
+| `[[instabilidad_monástica]]` | 1 (resumen 10) | Espiritualidad monástica |
+| `[[horas_canónicas]]` | 1 (resumen 06) | Liturgia |
+| `[[celo_espiritual]]` | 1 (resumen 13) | Ascética |
+| `[[apatheia]]` | 1 (resumen 01) | Ascética patrística (pureza y paz de la mente) |
+| `[[castor]]` | 1 (resumen 03) | Persona / obispo de Apto, destinatario |
+
+**Retarget (variantes canónicas):**
+
+- `[[pobreza_evangelica]]` → `[[pobreza_evangélica]]`
+- `[[frutos_del_Espíritu_Santo]]` → `[[frutos_del_espíritu_santo]]`
+- `[[juan_crisóstomo]]` → `[[san_juan_crisóstomo]]`
+- `[[lucifer]]` → `[[satanás]]` (resumen 15: caída de Luzbel)
+
+**Corrección ortográfica (2026-10-19):** los artículos `discrecion` e `instituciones_cenobiticas` se renombraron con tilde a `[[discreción]]` y `[[instituciones_cenobíticas]]`; todos los wikilinks del vault se actualizaron. Los antiguos retargets hacia las formas sin tilde ya no aplican.
+
+Los demás wikilinks de los resúmenes IC resuelven a artículos canónicos existentes (`monaquismo`, `castidad`, `humildad`, `obediencia_religiosa`, `paciencia`, `acedia`, `vanagloria`, `soberbia`, `ocho_vicios_capitales`, `trabajo_manual`, `cenobitismo`, `renuncia_y_seguimiento`, `temor_de_dios`, `perfección_cristiana`, `ayuno`, `abstinencia`, `gula`, `avaricia`, `ira`, `tristeza`, `fornicación`, etc.).
+
+## Sembrados por el procesamiento de Kings and Prophets (KOC) — 2026-10-19
+
+Procesamiento integral de `raw/Bases_doctrinales-raw/kings_ocr_clean/`: 35 personas (Salomón a Sedecías), 7 conceptos nuevos ([[división_del_reino]], [[reino_de_israel]], [[reino_de_judá]], [[profetismo]], [[samaritanos]], [[unción_de_los_reyes]], [[historia_deuteronomista]]), 4 conceptos enriquecidos y 62 resúmenes. Los siguientes wikilinks quedan sembrados como forward references desde los artículos y resúmenes; ninguno tiene artículo propio todavía.
+
+| Wikilink | Referencias | Categoría |
+|----------|-------------|-----------|
+| `[[asiria]]` | Alta (documento, rr. 39, 42, 44, 47, 50) | Historia / imperio |
+| `[[deuteronomio]]` | Alta (documento, rr. 49, 50) | AT / Pentateuco |
+| `[[restauración]]` | Alta (documento, rr. 58, 60) | Teología de la historia |
+| `[[castigo_de_dios]]` | Media (rr. 44, 58) | Teología bíblica |
+| `[[siria]]` | Alta (rr. 21–23, 27, 29) | Historia / reinos vecinos |
+| `[[baal]]` | Alta (rr. 17–18, 53) | Religiones antiguas |
+| `[[becerros_de_oro]]` | Media (rr. 09, 11) | Idolatría |
+| `[[reina_del_cielo]]` | Baja (r. 53) | Idolatría / religiones del Próximo Oriente |
+| `[[senaquerib]]` | Media (rr. 47, 48) | Persona / Asiria |
+| `[[nabot]]` | Baja (r. 20) | Persona / narrativa de Ajab |
+| `[[baruc]]` | Baja (r. 56) | Persona / escriba de Jeremías |
+| `[[hananías]]` | Baja (r. 55) | Persona / falso profeta |
+| `[[meguido]]` | Baja (rr. 50, 51) | Lugar / geografía bíblica |
+| `[[laquis]]` | Baja (r. 57) | Lugar / arqueología |
+| `[[carquemis]]` | Baja (rr. 50, 54) | Lugar / batalla |
+| `[[silo]]` | Baja (r. 53) | Lugar / santuario |
+| `[[anatot]]` | Baja (rr. 52, 56) | Lugar / patria de Jeremías |
+| `[[samaria]]` | Media (rr. 44, 51) | Ciudad / capital del Norte |
+| `[[medos]]` | Baja (rr. 50, 51) | Historia / pueblos |
+| `[[caldeos]]` | Baja (r. 51) | Historia / pueblos |
+| `[[escitas]]` | Baja (r. 51) | Historia / pueblos |
+| `[[tiglat-pileser_iii]]` | Baja (r. 42) | Persona / Asiria |
+| `[[salmaneser_v]]` | Baja (r. 44) | Persona / Asiria |
+| `[[sargón_ii]]` | Baja (r. 44) | Persona / Asiria |
+| `[[neco_ii]]` | Baja (rr. 50–52) | Persona / Egipto |
+| `[[nabopolasar]]` | Baja (rr. 50, 51) | Persona / Babilonia |
+| `[[ciáxares]]` | Baja (r. 51) | Persona / Medía |
+| `[[guedalías]]` | Baja (r. 57) | Persona / gobernador de Judá |
+| `[[helcías]]` | Baja (rr. 48, 52) | Persona / sumo sacerdote y padre de Jeremías |
+| `[[joacaz]]` | Baja (rr. 52) | Persona / rey de Judá |
+| `[[joaquín]]` | Baja (rr. 52, 54) | Persona / rey de Judá |
+| `[[reforma_de_josías]]` | Media (rr. 48, 49) | Historia / reforma religiosa |
+| `[[reforma_de_ezequías]]` | Media (rr. 46, 47) | Historia / reforma religiosa |
+| `[[asedio_de_jerusalén]]` | Media (rr. 47, 54, 57) | Historia / 597 y 587 a.C. |
+| `[[destrucción_del_templo]]` | Media (rr. 53, 57) | Historia / teología del Templo |
+| `[[cartas_de_laquis]]` | Baja (r. 57) | Arqueología |
+| `[[tradición_yahvista]]` | Baja (r. 49) | AT / fuentes documentarias |
+| `[[tradición_elohísta]]` | Baja (r. 49) | AT / fuentes documentarias |
+| `[[código_de_la_alianza]]` | Baja (rr. 49, 60) | AT / derecho |
+| `[[diez_mandamientos]]` | Baja (rr. 49, 60) | Moral / AT |
+| `[[reino_davídico]]` | Baja (rr. 45, 60) | Teología política |
+| `[[día_del_señor]]` | Resuelto (artículo canónico `día_del_señor`) | — |
+
+**Resueltos por este procesamiento:** `[[profetismo]]`, `[[salomón]]`, `[[deuteronomio]]` (nuevo, en la lista de lagunas), `[[templo_de_jerusalén]]` (renombrado a minúsculas), `[[jeremías]]` y `[[ezequiel]]` (movidos de `conceptos/` a `personas/`).
+
+**Total detectado por el script tras el lote: 3.677 huérfanos únicos.**
+
+## Resueltos por cobertura de los huérfanos de mayor densidad de KOC — 2026-10-19
+
+Se crearon los cinco artículos de mayor densidad detectados tras el procesamiento de Kings and Prophets:
+
+| Artículo nuevo | Huérfano resuelto | Fuentes principales |
+|----------------|-------------------|---------------------|
+| `[[asiria]]` | `asiria` | VocTeoBib («Naciones», «Autoridad», «Agua»), KOC 39-51, IAT 25 |
+| `[[baal]]` | `baal` | VocTeoBib («Ídolos», «Elías»), SmTh II-II q.64/111/172, KOC 17-20 y 53, IAT 26 |
+| `[[siria]]` | `siria` | VocTeoBib («Naciones»), KOC 21-29 y 42, IAT 25 |
+| `[[deuteronomio]]` | `deuteronomio` | CEC §120/2096/2129/2449/2697, VocTeoBib, KOC 48-50, IAT 10 |
+| `[[restauración]]` | `restauración` | VocTeoBib («Agua», «Designio de Dios», «Babel», «Autoridad», «Celo»), KOC 56-59, IAT 26 |
+
+**Huérfanos nuevos sembrados por estos artículos** (forward references sin artículo propio):
+
+| Wikilink | Referencias | Categoría |
+|----------|-------------|-----------|
+| `[[ageo]]` | `restauración` | Persona / profeta postexílico |
+| `[[zacarías]]` | `restauración` | Persona / profeta postexílico |
+| `[[tritoisaías]]` | `restauración` | AT / crítica literaria (Is 56-66) |
+| `[[deuteroisaías]]` | `restauración` | AT / crítica literaria (Is 40-55) |
+
+Los demás wikilinks de los cinco artículos resuelven a canónicos existentes (`idolatría`, `profetismo`, `naciones`, `imperio`, `exilio`, `babilonia`, `jerusalén`, `pentateuco`, `ley`, `alianza`, `pueblo_elegido`, `justicia_social`, `nueva_alianza`, `resto_de_israel`, `mesías`, `esperanza`, `teología_de_la_historia`, `siervo_de_yahvé`, etc.).
+
+## Resueltos: profetas de la restauración — 2026-10-19
+
+Se crearon los cuatro artículos que cerraban los huérfanos sembrados por [[restauración]] y por el procesamiento de KOC:
+
+| Artículo nuevo | Huérfano resuelto | Fuentes principales |
+|----------------|-------------------|---------------------|
+| [[ageo]] | `ageo` | IAT 26; KOC 15; VocTeoBib «Templo», «Profeta»; CEC §120; Ag 1-2; Esd 3-6 |
+| [[zacarías]] | `zacarías` | IAT 26; KOC 15; VocTeoBib «Templo», «Profeta»; CEC §120; Zac 1-8 |
+| [[deuteroisaías]] | `deuteroisaías` | IAT 26; KOC 41; CEC §120; Is 40-55 |
+| [[tritoisaías]] | `tritoisaías` | IAT 26; VocTeoBib «Templo»; CEC §120; Is 56-66 |
+
+**Huérfanos nuevos sembrados por estos artículos** (forward references sin artículo propio):
+
+| Wikilink | Referencias | Categoría |
+|----------|-------------|-----------|
+| `[[ciro]]` | `ageo`, `deuteroisaías` | Persona / Persia aqueménida |
+| `[[zorobabel]]` | `ageo`, `zacarías` | Persona / gobernador de Judá |
+| `[[apocalíptica]]` | `zacarías` | AT / género literario |
+
+Los demás wikilinks de los cuatro artículos resuelven a canónicos existentes (`restauración`, `templo_de_jerusalén`, `exilio`, `profetas`, `profetismo`, `isaías`, `ezequiel`, `siervo_de_yahvé`, `profecía_mesiánica`, `justicia_social`, `babilonia`, `baal`, `alianza`, `pueblo_elegido`, `nueva_alianza`, `esperanza`).
+
+## Clasificación de huérfanos de alta densidad — 2026-10-19
+
+Se clasificaron los cuatro huérfanos de mayor densidad indicados en la sesión, aplicando el criterio del skill: **Nuevo** (concepto genuino sin artículo), **Variante** (mismo concepto bajo otro nombre) o **Sin cobertura**.
+
+| Huérfano | Refs. | Clasificación | Acción ejecutada |
+|----------|-------|---------------|------------------|
+| `doctrina_social` | 6 | **Variante** de [[doctrina_social_de_la_iglesia]] | Retarget de los 6 wikilinks al artículo canónico |
+| `imagen_y_semejanza_de_dios` | 5 | **Variante** de [[imagen_y_semejanza_divina]] | Retarget de los 5 wikilinks (link original `imagen_y_semejanza_de_Dios`) |
+| `corazon_inmaculado_de_maria` | 5 | **Variante** de [[inmaculado_corazón_de_maría]] | Retarget de los 5 wikilinks (link original `corazón_inmaculado_de_maría`) |
+| `proposito_de_enmienda` | 6 | **Nuevo** | Creado [[propósito_de_enmienda]] con CEC §1450-1453, SmTh IIIª q.85-86, TPCr, PS e IDC |
+
+**Variantes adyacentes resueltas en el mismo paso** (no solicitadas, pero del mismo concepto):
+
+| Huérfano | Refs. | Clasificación | Acción |
+|----------|-------|---------------|--------|
+| `doctrina_social_cristiana` | 2 | Variante de [[doctrina_social_de_la_iglesia]] | Retarget |
+| `imagen_y_semejanza` | 2 | Variante de [[imagen_y_semejanza_divina]] | Retarget |
+
+**Criterio de la clasificación de `propósito_de_enmienda` como Nuevo:** no es una variante de [[contrición]] —aunque la integra— ni del [[compromiso_de_enmienda]] legionario (conversión institucional). Tiene tratamiento propio en CEC §1451, SmTh IIIª q.85 a.5 y q.86 a.2, TPCr (disposición fundamental para el fruto del sacramento) y PS (tercera de las cinco condiciones de una buena confesión). Queda enlazado desde [[contrición]], [[reincidencia]] y [[sacramento_de_la_reconciliación]].
