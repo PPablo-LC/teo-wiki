@@ -14,7 +14,7 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 ## Conceptos básicos referenciados
 
-- [[sagrada comunión]] — Cristo que se nos da como alimento
+- [[sagrada_comunión]] — Cristo que se nos da como alimento
 - [[frecuencia de la comunión]] — contra la «cura de adelgazamiento» del alma
 - [[fuerza]] — la comunión fortalece para la vida y la lucha
 - [[alegría]] — la comunión es banquete y fiesta

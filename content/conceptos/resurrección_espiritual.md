@@ -18,7 +18,7 @@ Imagen y realidad con la que la Escritura y la tradición designan el **paso de 
 ## Desarrollo doctrinal
 
 - **Fundamento bautismal**: el bautismo configura una muerte y una resurrección: «fuimos sepultados con Él en la muerte por el bautismo, para que… también nosotros vivamos una vida nueva» (Rom 6,4); «resucitó con Cristo» (Col 3,1): la vida cristiana es vivir «de la vida de Dios» (Ef 4,18).
-- **Efecto de la Penitencia**: la reconciliación del pecador es «resurrección espiritual» (CEC §1468): recobra la [[gracia santificante]], la amistad divina y la herencia del cielo; la tradición lee a Lázaro (Jn 11) y al hijo pródigo (Lc 15) como iconos del pecador que vuelve a la vida.
+- **Efecto de la Penitencia**: la reconciliación del pecador es «resurrección espiritual» (CEC §1468): recobra la [[gracia_santificante]], la amistad divina y la herencia del cielo; la tradición lee a Lázaro (Jn 11) y al hijo pródigo (Lc 15) como iconos del pecador que vuelve a la vida.
 - **Ya y todavía no**: la resurrección espiritual es prenda y anticipo de la **resurrección de la carne** en el último día: quien vive en la gracia ya posee en germen la vida eterna («ha pasado de la muerte a la vida», 1 Jn 3,14); sin embargo espera la plenitud corporal y cósmica de la Pascua final.
 - **Consecuencias espirituales**: alegría pascual (la penitencia no es retroceso sino fiesta: «este hijo estaba muerto y ha vuelto a la vida»), esperanza para los caídos (nunca es tarde mientras hay vida), criterio pastoral (la Iglesia madra que llama a la vida, no condena sin salida).
 

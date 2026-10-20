@@ -30,7 +30,7 @@ Conjunto de concepciones antropológicas que separan radicalmente el **género**
 
 ## Relaciones doctrinales
 
-[[antropología teológica|antropología]], [[teología_del_cuerpo]], [[imagen_de_dios]], [[familia]], [[matrimonio]], [[feminidad]], [[dignidad_humana]], [[nueva_ideología_del_cuerpo|tecnocracia]], [[educación]], [[secularización]]
+[[antropología_teológica|antropología]], [[teología_del_cuerpo]], [[imagen_de_dios]], [[familia]], [[matrimonio]], [[feminidad]], [[dignidad_humana]], [[nueva_ideología_del_cuerpo|tecnocracia]], [[educación]], [[secularización]]
 
 ## Ver también
 

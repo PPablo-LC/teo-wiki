@@ -16,7 +16,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[infalibilidad_del_romano_pontífice]] — infalibilidad ex cathedra
 - [[san_pedro]] — primado instituido en Pedro
 - [[iglesia]] — constitución divina de la Iglesia
-- [[jerarquía]] — potestad inmediata del Romano Pontífice y de los obispos
+- [[jerarquía_eclesiástica]] — potestad inmediata del Romano Pontífice y de los obispos
 - [[episcopado]] — potestad ordinaria e inmediata de los obispos
 - [[transustanciación]] — explicaciones no toleradas
 - [[eucaristía]] — presencia sustancial de Cristo

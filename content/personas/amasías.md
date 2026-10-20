@@ -38,11 +38,11 @@ Amasías no escuchó y la guerra estalló. Jehoás lo derrotó de forma abrumado
 
 ## Relaciones doctrinales
 
-Se relaciona con [[joás]], [[uzzías]], [[jeroboam_ii]], [[reino_de_judá]], [[reino_de_israel]], [[templo_de_jerusalén]]
+Se relaciona con [[joás]], [[uzías]], [[jeroboam_ii]], [[reino_de_judá]], [[reino_de_israel]], [[templo_de_jerusalén]]
 
 ## Ver también
 
-[[joás]], [[uzzías]], [[jeroboam_ii]], [[reino_de_judá]], [[reino_de_israel]]
+[[joás]], [[uzías]], [[jeroboam_ii]], [[reino_de_judá]], [[reino_de_israel]]
 
 ## Referencias
 

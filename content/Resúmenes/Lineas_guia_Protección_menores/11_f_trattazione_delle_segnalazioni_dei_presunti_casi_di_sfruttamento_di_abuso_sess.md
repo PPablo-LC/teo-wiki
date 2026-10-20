@@ -13,7 +13,7 @@ tags: ["resumen", "lineas guia protección menores"]
 ## Conceptos básicos referenciados
 
 - [[derechos_de_la_víctima]] — derecho de las personas ofendidas a ser acogidas, escuchadas y acompañadas
-- [[asistencia_a_víctimas]] — asistencia espiritual, médica, social y psicológica
+- [[acompañamiento_a_víctimas]] — asistencia espiritual, médica, social y psicológica
 - [[obligación_de_denuncia]] — obligación de informar al Vicario General
 - [[formalización_por_escrito_denuncia]] — formalización escrita de la denuncia
 - [[comunicación_a_ordinario]] — comunicación al Ordinario propio si el presunto autor es clérigo o consagrado

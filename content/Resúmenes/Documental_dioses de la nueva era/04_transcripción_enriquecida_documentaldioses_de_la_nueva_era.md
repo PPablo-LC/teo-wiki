@@ -26,7 +26,7 @@ tags: ["resumen", "nueva_era", "analisis_doctrinal"]
 - [[infiltración_institucional]] — yoga en escuelas, hospitales, universidades, ONU
 - [[relativismo]] — ausencia de normas morales absolutas en la filosofía hindú
 - [[potencial_humano]] — movimiento occidentalizado: autoestima, autoamor, "todos somos dios"
-- [[sadhus]] — sacerdotes desnudos cubiertos de cenizas de cremaciones y estiércol de vaca
+- [[hinduismo]] — sacerdotes desnudos cubiertos de cenizas de cremaciones y estiércol de vaca
 - [[pranayama]] — ejercicios respiratorios para absorber prana y despertar kundalini
 - [[chakras]] — canales psíquicos del cuerpo según la tradición hindú
 - [[karma]] — ley que justifica el sufrimiento según la filosofía hindú

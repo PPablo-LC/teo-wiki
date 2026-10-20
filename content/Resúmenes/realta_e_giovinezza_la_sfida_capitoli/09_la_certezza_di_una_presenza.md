@@ -20,7 +20,7 @@ tags: ["resumen", "certeza", "conversión", "compañía", "esperanza", "libertad
 - [[resurrección_de_la_carne]] — Ezequiel 37: las ossa secche que se vuelven pueblo
 - [[sabiduría]] — Sap 1: Dios ama al hombre y lo hace para la felicidad
 - [[muerte]] — «l'uomo cerca la morte» (Sap 1,16)
-- [[historia]] — la sinusoide que avanza hacia la vetta
+- historia — la sinusoide que avanza hacia la vetta
 - [[unidad]] — Gálatas 3,27-28: «tutto è una cosa sola»
 - [[conversión]] — «Cambiate mentalità»; Rm 12,2: «*metamorfousthe*»
 - [[medios_de_comunicación]] / [[poder]] — «gli strumenti del potere»; el plagio como sistema normal

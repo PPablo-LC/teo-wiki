@@ -17,7 +17,7 @@ Para Luigi Giussani, el hombre moderno que niega a Dios no elimina la religiosid
 
 ## Desarrollo doctrinal
 
-Los ídolos modernos no se representan ya en imágenes de oro, pero funcionan igual: el hombre «cree» en la técnica, en la razón que domina ([[racionalismo]], Prometeo), en la naturaleza ([[naturalismo]], Rabelais; la ciumele), en el propio deseo (el hedonismo), en el ser humano como absoluto ([[humanismo]] autónomo). El «divismo» es la versión psicológica de la religiosidad mutilada: la necesidad de ser mirados, reconocidos, pampeados por el mundo — sustituye la relación con el Otro por la búsqueda de los demás como espejo. La crítica es la misma de la [[sentido del pecado|esclavitud contra-natura]]: el hombre no puede «no respirar» (no adorar), de modo que adorará lo que sea — incluso la nada, en la «cultura del placer» nihilista que describía el prefacio de Benedicto XVI.
+Los ídolos modernos no se representan ya en imágenes de oro, pero funcionan igual: el hombre «cree» en la técnica, en la razón que domina ([[racionalismo]], Prometeo), en la naturaleza ([[naturalismo]], Rabelais; la ciumele), en el propio deseo (el hedonismo), en el ser humano como absoluto ([[humanismo]] autónomo). El «divismo» es la versión psicológica de la religiosidad mutilada: la necesidad de ser mirados, reconocidos, pampeados por el mundo — sustituye la relación con el Otro por la búsqueda de los demás como espejo. La crítica es la misma de la [[sentido_del_pecado|esclavitud contra-natura]]: el hombre no puede «no respirar» (no adorar), de modo que adorará lo que sea — incluso la nada, en la «cultura del placer» nihilista que describía el prefacio de Benedicto XVI.
 
 ## Perspectivas por fuente
 

@@ -60,6 +60,10 @@ Se relaciona con [[familia]], [[educación]], [[autoridad]], [[piedad_filial]], 
 
 [[familia]], [[autoridad]], [[piedad_filial]], [[educación_cristiana]], [[bien_común]]
 
+## Analizado en contexto cultural
+
+- [[corazon_de_amicis]] — convergencia en el amor, respeto, gratitud y obediencia debidos a los padres, a los maestros y a la patria, con una autoridad entendida como servicio; tensión por la reducción del mandamiento a su dimensión horizontal (sin su ordenación a la paternidad de Dios) y por el recurso al patetismo como motivo.
+
 ## Referencias
 
 - [CEC §2197-2257]

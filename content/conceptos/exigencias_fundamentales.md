@@ -20,7 +20,7 @@ Las **exigencias fundamentales** son las pretensiones originarias del
 [[corazón]] humano —**verdad, belleza, justicia y felicidad**— que
 constituyen el criterio último para juzgar toda realidad y toda propuesta.
 En don [[luigi_giussani]] son el contenido del [[deseo]] y el fundamento de
-la [[experiencia elemental]]. No son un apéndice sentimental, sino la
+la [[experiencia_elemental]]. No son un apéndice sentimental, sino la
 estructura misma de la [[persona]].
 
 ## Desarrollo doctrinal

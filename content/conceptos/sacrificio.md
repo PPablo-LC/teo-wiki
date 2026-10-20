@@ -94,6 +94,10 @@ Se relaciona con [[sacrificio_eucarístico]], [[misa]], [[redención]], [[cruz]]
 
 [[sacrificio_eucarístico]], [[misa]], [[redención]], [[cruz]]
 
+## Analizado en contexto cultural
+
+- [[corazon_de_amicis]] — convergencia en el don de la vida por amor al otro (Mario en *Naufragio*, Cecilio junto al enfermo, Julio por su padre); tensión por un sacrificio puramente ético y conmovedor, sin referencia a Cristo, a la cruz ni a la caridad infusa que lo hace posible.
+
 ## Referencias
 
 - CEC §2099-2100, §1362-1372, §901

@@ -55,11 +55,11 @@ Sicari destaca: (1) **Crisis de fe en San Petersburgo** y encuentro con Dios en 
 
 ## Relaciones doctrinales
 
-Ilumina [[vocación]] en su dinamismo de conversión progresiva (ingeniero → insurrecto → deportado → educador → carmelita → restaurador → apóstol de la unidad). Ejemplifica [[penitencia]] vivida no como exhibición sino como participación en la Pasión de Cristo («había sufrido menos en diez años en Siberia que en un año de noviciado»). Manifiesta [[caridad]] como justicia social («tierra es de los campesinos… no son mías, de lo contrario yo lo haría rápidamente») y como visita a Cristo en el pobre («alrededor del enfermo veo una luz que no tenemos nosotros»). Testimonia [[unidad_cristiana]] como misión esencial del Carmelo y camino de paz. Su [[muerte_cristiana]] repitiendo la oración sacerdotal de Jesús (Jn 17,21) revela la configuración eucarística de su existencia.
+Ilumina [[vocación]] en su dinamismo de conversión progresiva (ingeniero → insurrecto → deportado → educador → carmelita → restaurador → apóstol de la unidad). Ejemplifica [[penitencia]] vivida no como exhibición sino como participación en la Pasión de Cristo («había sufrido menos en diez años en Siberia que en un año de noviciado»). Manifiesta [[caridad]] como justicia social («tierra es de los campesinos… no son mías, de lo contrario yo lo haría rápidamente») y como visita a Cristo en el pobre («alrededor del enfermo veo una luz que no tenemos nosotros»). Testimonia [[ecumenismo]] como misión esencial del Carmelo y camino de paz. Su [[muerte_cristiana]] repitiendo la oración sacerdotal de Jesús (Jn 17,21) revela la configuración eucarística de su existencia.
 
 ## Ver también
 
-[[antonio_maria_sicari]], [[carmelo]], [[santidad]], [[santidad_laical]], [[unidad_cristiana]], [[maría]], [[providence_divina]], [[sacramento_penitencia]], [[sacerdocio]], [[martirio]], [[ecumenismo]], [[santa_teresa_de_jesús]], [[santa_teresa_de_lisieux]], [[juan_pablo_ii]], [[san_luis_gonzaga]], [[pier_giorgio_frassati]], [[santa_gianna_beretta_molla]]
+[[antonio_maria_sicari]], [[carmelo]], [[santidad]], [[santidad_laical]], [[ecumenismo]], [[maría]], [[providence_divina]], [[sacramento_penitencia]], [[sacerdocio]], [[martirio]], [[ecumenismo]], [[santa_teresa_de_jesús]], [[santa_teresa_de_lisieux]], [[juan_pablo_ii]], [[san_luis_gonzaga]], [[pier_giorgio_frassati]], [[santa_gianna_beretta_molla]]
 
 ## Referencias
 

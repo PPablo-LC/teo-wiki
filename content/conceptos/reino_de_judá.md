@@ -41,7 +41,7 @@ Judá es presentado por los libros de los Reyes como el reino de la promesa dav�
 
 ## Relaciones doctrinales
 
-Se relaciona con [[división_del_reino]], [[reino_de_israel]], [[david]], [[salomón]], [[reoboam]], [[asa]], [[josafat]], [[uzzías]], [[ajaz]], [[ezequías]], [[manasés]], [[josías]], [[sedecías]], [[templo_de_jerusalén]], [[exilio]]
+Se relaciona con [[división_del_reino]], [[reino_de_israel]], [[david]], [[salomón]], [[reoboam]], [[asa]], [[josafat]], [[uzías]], [[ajaz]], [[ezequías]], [[manasés]], [[josías]], [[sedecías]], [[templo_de_jerusalén]], [[exilio]]
 
 ## Ver también
 

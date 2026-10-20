@@ -14,7 +14,7 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 - [[vínculo de caridad]] — la Eucaristía une con Dios y entre los hombres
 - [[congreso eucarístico de budapest]] — XXXIV Congreso Eucarístico Internacional (1938)
-- [[cuerpo místico]] — «no en varios cuerpos, sino en un solo Cuerpo» (Crisóstomo)
+- [[cuerpo_místico]] — «no en varios cuerpos, sino en un solo Cuerpo» (Crisóstomo)
 - [[maría y la eucaristía]] — mujer «eucarística», primer tabernáculo
 - [[fiat y amén]] — analogía entre el fiat de María y el amén de la comunión
 - [[trinidad]] — vínculo con el Padre, el Hijo y el Espíritu Santo

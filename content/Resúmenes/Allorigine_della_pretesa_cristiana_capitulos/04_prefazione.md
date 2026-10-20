@@ -16,7 +16,7 @@ tags: ["resumen", "allorigine della pretesa cristiana capitoli"]
 - [[pretesa_cristiana]] — el objeto de la correspondencia razonable que el libro quiere expresar
 - [[tradición]] — la obediencia a la auténtica tradición de la Iglesia como criterio rector
 - [[sentido_religioso]] — el punto desde el cual la «gran inversión de método» marca el paso a la fe
-- [[historia]] — el momento en el tiempo que dio significado al tiempo (Eliot)
+- historia — el momento en el tiempo que dio significado al tiempo (Eliot)
 
 ## Contenido
 

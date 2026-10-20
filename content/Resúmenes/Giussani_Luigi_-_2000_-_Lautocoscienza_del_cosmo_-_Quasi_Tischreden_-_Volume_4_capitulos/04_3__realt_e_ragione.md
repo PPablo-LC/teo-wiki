@@ -15,7 +15,7 @@ tags: ["resumen", "giussani", "realidad", "razón", "conocimiento"]
 - [[compañía]] — necesidad de la compañía para conocer la realidad
 - [[realidad]] — «suma extranjería» al primer vistazo
 - [[conocimiento]] — conocer es adherir
-- [[razón]] / [[factores_de_la_realidad]] / [[experiencia]]
+- [[razón]] / [[realidad]] / [[experiencia]]
 - [[certeza_moral]] / [[confianza]] / [[libertad]]
 - [[signo]] / [[misterio]] / [[satanás]] / [[cristo]]
 - [[misericordia]] / [[parábola_del_hijo_pródigo]] / [[dios_padre]]

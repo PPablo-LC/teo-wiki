@@ -14,7 +14,7 @@ tags: ["resumen", "kings_ocr_clean", "antiguo_testamento"]
 
 ## Conceptos básicos referenciados
 
-- [[uzzías]] — rey próspero castigado con la lepra
+- [[uzías]] — rey próspero castigado con la lepra
 - [[reino_de_judá]] — prosperidad económica y militar
 - [[templo_de_jerusalén]] — escenario de la usurpación sacerdotal
 - [[sacerdocio]] — solo los hijos de Aarón pueden sacrificar
@@ -43,4 +43,4 @@ Aquel bienestar no duró. El pueblo de Judá, en contacto creciente con los pueb
 
 ## Enlaces
 
-[[uzzías]] · [[reino_de_judá]] · [[templo_de_jerusalén]] · [[sacerdocio]] · [[idolatría]]
+[[uzías]] · [[reino_de_judá]] · [[templo_de_jerusalén]] · [[sacerdocio]] · [[idolatría]]

@@ -14,14 +14,14 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 ## Conceptos básicos referenciados
 
-- [[presencia real]] — el corazón del dogma eucarístico
+- [[presencia_real]] — el corazón del dogma eucarístico
 - [[transustanciación]] — «mysterium fidei» (JEE 15)
 - [[discurso de cafarnaúm]] — Jn 6,48-59, promesa de la Eucaristía
-- [[última cena]] — institución del Sacramento
+- [[última_cena]] — institución del Sacramento
 - [[didaché]] — testimonio del siglo I
-- [[tertuliano]] · [[cipriano de cartago]] · [[cirilo de jerusalén]] — testimonios patrísticos
+- [[tertuliano]] · [[cipriano de cartago]] · [[cirilo_de_jerusalén]] — testimonios patrísticos
 - [[ley del amor]] — estar juntos, ser uno, vivir el uno por el otro
-- [[adoración eucarística]] — consecuente a la fe en la presencia real
+- [[adoración_eucarística]] — consecuente a la fe en la presencia real
 
 ## Contenido
 

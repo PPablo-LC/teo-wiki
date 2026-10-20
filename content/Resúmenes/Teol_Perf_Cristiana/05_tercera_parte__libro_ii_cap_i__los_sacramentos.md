@@ -14,7 +14,7 @@ tags: ["resumen", "teol_perf_cristiana", "sacramentos", "teología_sacramental",
 
 ## Conceptos básicos referenciados
 
-[[gracia_santificante]], [[método]], [[mérito_de_condigno]], [[mérito_de_congruo]], [[oración]], [[virtud_de_la_religión]], [[sacramento]], [[carácter_sacramental]], [[sacerdocio_de_cristo]], [[bautismo]], [[confirmacion]], [[eucaristía]], [[penitencia]], [[unción_de_los_enfermos]], [[orden_sacerdotal]], [[matrimonio]], [[gracia_sacramental]], [[ex_opere_operato]], [[ex opere operantis]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[contrición]], [[propósito de enmienda]], [[espíritu de compunción]], [[misa]], [[participación en el sacerdocio de Cristo]]
+[[gracia_santificante]], [[método]], [[mérito_de_condigno]], [[mérito_de_congruo]], [[oración]], [[virtud_de_la_religión]], [[sacramento]], [[carácter_sacramental]], [[sacerdocio_de_cristo]], [[bautismo]], [[confirmacion]], [[eucaristía]], [[penitencia]], [[unción_de_los_enfermos]], [[orden_sacerdotal]], [[matrimonio]], [[gracia_sacramental]], [[ex_opere_operato]], [[ex opere operantis]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[contrición]], [[propósito_de_enmienda]], [[espíritu de compunción]], [[misa]], [[participación en el sacerdocio de Cristo]]
 
 ## Contenido
 

@@ -13,9 +13,9 @@ tags: ["resumen", "ley protección menores"]
 ## Conceptos básicos referenciados
 
 - [[servicio_de_acompañamiento]] — servicio institucional para las víctimas de abusos.
-- [[asistencia_a_víctimas]] — acompañamiento a las víctimas de abusos.
+- [[acompañamiento_a_víctimas]] — acompañamiento a las víctimas de abusos.
 - [[protección_de_menores_en_la_iglesia]] — líneas guía para la tutela de los menores.
 
 ## Contenido
 
-**(Dirección de Sanidad e Higiene)** El Presidente del Governatorato, a propuesta de la Dirección de Sanidad e Higiene, adopta líneas guía para la tutela de los menores. La Dirección de Sanidad e Higiene dispone de un [[servicio_de_acompañamiento|Servicio de acompañamiento]] para las víctimas de abusos, y designa en su interior a un experto cualificado al que confía, como Responsable, la coordinación de dicho servicio de [[asistencia_a_víctimas|asistencia a las víctimas]], en el marco de la [[protección_de_menores_en_la_iglesia|protección de los menores]].
+**(Dirección de Sanidad e Higiene)** El Presidente del Governatorato, a propuesta de la Dirección de Sanidad e Higiene, adopta líneas guía para la tutela de los menores. La Dirección de Sanidad e Higiene dispone de un [[servicio_de_acompañamiento|Servicio de acompañamiento]] para las víctimas de abusos, y designa en su interior a un experto cualificado al que confía, como Responsable, la coordinación de dicho servicio de [[acompañamiento_a_víctimas|asistencia a las víctimas]], en el marco de la [[protección_de_menores_en_la_iglesia|protección de los menores]].

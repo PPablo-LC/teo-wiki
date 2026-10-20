@@ -15,7 +15,7 @@ tags: ["resumen", "jesus de nazaret ii"]
 - [[lavatorio_de_los_pies]] — gesto sacramental y ejemplar del amor hasta el extremo
 - [[kenosis]] — «se despojó de su rango» (Flp 2, 7); servicio propio de esclavos
 - [[pureza]] — «Vosotros estáis limpios»; purificación por la fe, la palabra y el amor
-- [[mandamiento_nuevo]] — novedad fundada en el don de comunión con Cristo
+- [[mandamiento_del_amor]] — novedad fundada en el don de comunión con Cristo
 - [[eucaristía]] — traición dentro de la fraternidad eucarística (Sal 41)
 - [[confesión]] — el baño bautismal y el lavado continuo de los pies
 

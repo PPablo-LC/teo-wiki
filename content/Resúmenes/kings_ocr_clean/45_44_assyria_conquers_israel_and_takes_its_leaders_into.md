@@ -18,7 +18,7 @@ tags: ["resumen", "kings_ocr_clean", "antiguo_testamento"]
 - [[exilio]] — deportación de las élites a Mesopotamia
 - [[samaritanos]] — mezcla de israelitas y colonos
 - [[profetas]] — el rechazo de su palabra explica la caída
-- [[castigo_de_dios]] — la prueba como camino de purificación
+- [[castigos]] — la prueba como camino de purificación
 
 ## Resumen
 
@@ -40,4 +40,4 @@ Los conquistadores llevaron a cabo un intercambio masivo de poblaciones. Los hab
 
 ## Enlaces
 
-[[reino_de_israel]] · [[exilio]] · [[samaritanos]] · [[profetas]] · [[castigo_de_dios]]
+[[reino_de_israel]] · [[exilio]] · [[samaritanos]] · [[profetas]] · [[castigos]]

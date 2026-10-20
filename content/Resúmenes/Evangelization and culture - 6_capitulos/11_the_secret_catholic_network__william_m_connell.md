@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization_and_culture", "historia"]
 
 ## Conceptos básicos referenciados
 
-- [[historia]] — la red secreta católica entre 1810-1823
+- historia — la red secreta católica entre 1810-1823
 - [[perseverancia]] — la resistencia pacífica católica ante la persecución
 
 ## Contenido

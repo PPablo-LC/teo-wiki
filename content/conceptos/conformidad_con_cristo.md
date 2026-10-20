@@ -13,7 +13,7 @@ timestamp: 2026-09-23
 
 ## Definición
 
-Realización del designio eterno de Dios sobre cada cristiano: «a los que de antemano conoció, los predestinó a ser **conformes a la imagen de su Hijo**» (Rom 8,29). Ser configurados con Cristo —en la mente, el corazón, los criterios y las obras— por la acción de la [[gracia santificante]], la Eucaristía y el trabajo ascético, hasta la plenitud escatológica. Es la forma cristiana de la [[santidad]]: no imitación externa sino transformación interior.
+Realización del designio eterno de Dios sobre cada cristiano: «a los que de antemano conoció, los predestinó a ser **conformes a la imagen de su Hijo**» (Rom 8,29). Ser configurados con Cristo —en la mente, el corazón, los criterios y las obras— por la acción de la [[gracia_santificante]], la Eucaristía y el trabajo ascético, hasta la plenitud escatológica. Es la forma cristiana de la [[santidad]]: no imitación externa sino transformación interior.
 
 ## Desarrollo doctrinal
 
@@ -30,7 +30,7 @@ Realización del designio eterno de Dios sobre cada cristiano: «a los que de an
 
 ## Relaciones doctrinales
 
-[[gracia_santificante]], [[cristo]], [[eucaristía]], [[bautismo]], [[espíritu_santo]], [[santidad]], [[filiación_divina]], [[kenosis]], [[misterio_pascual]], [[conformidad con cristo|síntesis paulina]]
+[[gracia_santificante]], [[cristo]], [[eucaristía]], [[bautismo]], [[espíritu_santo]], [[santidad]], [[filiación_divina]], [[kenosis]], [[misterio_pascual]], [[conformidad_con_cristo|síntesis paulina]]
 
 ## Ver también
 

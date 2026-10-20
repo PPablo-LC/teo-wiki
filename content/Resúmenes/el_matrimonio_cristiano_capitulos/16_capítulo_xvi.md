@@ -12,9 +12,9 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 
 ## Conceptos básicos referenciados
 
-- [[educación cristiana]] — por el ejemplo
+- [[educación_cristiana]] — por el ejemplo
 - [[ejemplo de los padres]] — María y José; padres de santa Teresita
-- [[obediencia filial]] · [[respeto a la autoridad]] · [[veracidad]] · [[pureza]] · [[pudor]] · [[educación religiosa]]
+- [[obediencia_filial]] · [[respeto a la autoridad]] · [[veracidad]] · [[pureza]] · [[pudor]] · [[educación_religiosa]]
 
 ## Contenido
 

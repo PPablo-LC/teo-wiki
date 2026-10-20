@@ -6,11 +6,11 @@ tags:
   - antropología_cristiana
   - teología_fundamental
   - metafísica
-timestamp: 2026-10-11
+timestamp: 2026-10-19
 ---
 
 > Área: Antropología cristiana / Teología fundamental / Metafísica
-> Última actualización: 2026-10-11
+> Última actualización: 2026-10-19
 
 # Realidad
 
@@ -31,12 +31,15 @@ ante ella no es de repulsa sino de estupor intimidado: «Non è la ripulsa il
 primo sentimento verso la realtà». La realidad es «suma extranjería al primer
 vistazo» que despierta la palabra **[[tú]]**.
 
-### La razón y la totalidad de los factores
+### Los factores de la realidad
 
 La [[razón]] es «coscienza della realtà secondo la totalità dei suoi
-fattori»: conocer la realidad exige no reduccionismo, apertura a todos sus
-aspectos. El factor «excesivo» —lo que no se explica por sí mismo— remite a
-Otro ([[signo]], [[punto_de_fuga]], [[factores_de_la_realidad]]).
+fattori»: los **factores de la realidad** son los aspectos que la constituyen
+y que el conocimiento debe acoger sin recortar. Conocer exige, por tanto, no
+reduccionismo y apertura a todos ellos: quien selecciona solo los que encajan
+en su esquema no conoce la realidad, sino una construcción propia. El factor
+«excesivo» —lo que no se explica por sí mismo— remite a Otro ([[signo]],
+[[punto_de_fuga]]).
 
 ### La realidad como primer milagro
 
@@ -74,7 +77,7 @@ historicidad de Cristo. No se puede sustituir la realidad con la ideología
 
 ## Relaciones doctrinales
 
-- [[razón]] [[experiencia]] [[factores_de_la_realidad]] [[signo]] [[tú]]
+- [[razón]] [[experiencia]] [[realidad]] [[signo]] [[tú]]
 - [[misterio]] [[milagro]] [[creación]] [[contingencia]] [[apariencia]]
 
 ## Ver también

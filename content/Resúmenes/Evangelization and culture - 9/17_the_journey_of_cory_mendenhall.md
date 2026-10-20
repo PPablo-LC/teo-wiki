@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization and culture - 9"]
 - [[jacques_maritain]] → Etienne Gilson: Dios no como un ente sino como el Ser mismo
 - [[mysterium_tremendum_et_fascinans]] — primer gusto del «temor de Dios»: puro Amor sosteniéndonos en el ser
 - [[fe_y_belleza]] — las catedrales europeas «haciendo exactamente lo que fueron diseñadas a hacer»
-- [[conversión_cristiana]] — del mormonismo al ateísmo juvenil al catolicismo (RCIA 2020)
+- [[conversión]] — del mormonismo al ateísmo juvenil al catolicismo (RCIA 2020)
 - [[evangelización_de_la_cultura]] — arte religioso (@ForDustThouArt) para atraer a pensamientos más hondos
 
 ## Contenido

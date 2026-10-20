@@ -20,7 +20,7 @@ Amor sobrenatural hacia el prójimo **por amor de Dios**: segunda mesa del doble
 - **Fundamento cristológico**: la caridad fraterna se funda en la Encarnación (Dios se hizo prójimo) y en la comunión de los hermanos con Cristo (el Cuerpo místico: lo que se hace al más pequeño, se hace a Él); es la «ley de reversibilidad» de la caridad: amar a Dios se demuestra amando a los que Él ama (1 Jn 3,16-18).
 - **Nuevo mandamiento**: «que os améis unos a otros como yo os he amado» (Jn 13,34): Cristo eleva el amor fraterno al modelo de su propio amor «hasta el extremo»; por la caridad fraterna se reconoce a los discípulos («en esto conocerán todos que sois mis discípulos», Jn 13,35).
 - **Objetos del amor fraterno**: bien espiritual ante todo (desear la santidad del hermano), bien corporal (obras de misericordia: dar de comer, vestir, visitar, redimir — Mt 25,31-46), perdón («setenta veces siete») y corrección fraterna (Mt 18,15; Sant 5,20).
-- **Comunión eclesial**: la caridad fraterna es el vínculo de la unidad de la Iglesia (Col 3,14: «vínculo de la perfección») y alma de los compromisos comunitarios (vida fraterna consagrada, comunión parroquial, asociaciones); la hospitalidad, la [[corrección fraterna]] y el perdón son sus formas concretas.
+- **Comunión eclesial**: la caridad fraterna es el vínculo de la unidad de la Iglesia (Col 3,14: «vínculo de la perfección») y alma de los compromisos comunitarios (vida fraterna consagrada, comunión parroquial, asociaciones); la hospitalidad, la [[corrección_fraterna]] y el perdón son sus formas concretas.
 
 ## Distinciones importantes
 

@@ -12,9 +12,9 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 
 ## Conceptos básicos referenciados
 
-- [[indisolubilidad del matrimonio]] — núcleo del capítulo
-- [[consentimiento matrimonial]] — donación total y perpetua
-- [[sacramento del matrimonio]] — fundamento cristológico
+- [[indisolubilidad_del_matrimonio]] — núcleo del capítulo
+- [[consentimiento_matrimonial]] — donación total y perpetua
+- [[sacramento_del_matrimonio]] — fundamento cristológico
 
 ## Contenido
 

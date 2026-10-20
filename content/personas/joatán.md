@@ -36,11 +36,11 @@ Joatán es un rey de transición: recibe un reino próspero y lo entrega amenaza
 
 ## Relaciones doctrinales
 
-Se relaciona con [[uzzías]], [[ajaz]], [[ezequías]], [[isaías]], [[miqueas]], [[reino_de_judá]]
+Se relaciona con [[uzías]], [[ajaz]], [[ezequías]], [[isaías]], [[miqueas]], [[reino_de_judá]]
 
 ## Ver también
 
-[[uzzías]], [[ajaz]], [[ezequías]], [[isaías]], [[miqueas]], [[reino_de_judá]]
+[[uzías]], [[ajaz]], [[ezequías]], [[isaías]], [[miqueas]], [[reino_de_judá]]
 
 ## Referencias
 

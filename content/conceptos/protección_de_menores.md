@@ -13,11 +13,11 @@ timestamp: 2026-09-23
 
 ## Definición
 
-Conjunto de deberes jurídicos, formativos y pastorales por los que la Iglesia garantiza la tutela integral de los **menores y las personas vulnerables** en todos sus ámbitos de acción: prevención (ambientes seguros, selección y formación del personal), normas de conducta, recepción y denuncia de las *notitiae criminis*, investigación canónica y sanación de las víctimas. Es exigencia de la [[justicia]] y de la [[caridad pastoral]], y criterio de credibilidad eclesial.
+Conjunto de deberes jurídicos, formativos y pastorales por los que la Iglesia garantiza la tutela integral de los **menores y las personas vulnerables** en todos sus ámbitos de acción: prevención (ambientes seguros, selección y formación del personal), normas de conducta, recepción y denuncia de las *notitiae criminis*, investigación canónica y sanación de las víctimas. Es exigencia de la [[justicia]] y de la [[caridad_pastoral]], y criterio de credibilidad eclesial.
 
 ## Desarrollo doctrinal
 
-- **Fundamento teológico**: la [[dignidad_humana]] del niño como imagen de Dios y la identificación de Cristo con los pequeños («el que reciba a un niño en mi nombre, me recibe a mí», Mt 18,5; «al que escandalice a uno de estos pequeños le convendría que le atanasen una piedra de molino al cuello», Mt 18,6). El abuso es, además de delito, [[escándalo]] en sentido bíblico y [[abuso de autoridad]] espiritual.
+- **Fundamento teológico**: la [[dignidad_humana]] del niño como imagen de Dios y la identificación de Cristo con los pequeños («el que reciba a un niño en mi nombre, me recibe a mí», Mt 18,5; «al que escandalice a uno de estos pequeños le convendría que le atanasen una piedra de molino al cuello», Mt 18,6). El abuso es, además de delito, [[escándalo]] en sentido bíblico y [[abuso_de_autoridad]] espiritual.
 - **Marco magisterial reciente**: *Sacramentorum sanctitatis tutela* (2001) y las *Normae de gravioribus delictis* (2010) reservan a la CDF los delitos contra el sexto mandamiento con menores; el Motu Proprio *Como una madre amorosa* (2016) castiga la negligencia de los superiores; *Vos estis lux mundi* (2023) establece procedimientos universales de denuncia e investigación; la Ley CCXCVII vaticana y las *Linee guida* concretan la tutela en el Estado pontificio.
 - **Criterios operativos** (Encuentro de 2019, PMI): protección efectiva, seriedad impecable, purificación genuina, formación, directrices precisas, acompañamiento de las víctimas, atención al mundo digital.
 - **En la vida legionaria**: «Proteger y sanar» (2020) y los informes de Verdad, Justicia y Sanación articulan la política institucional de [[ambientes_seguros]], protocolos y reparación (véase [[conversión_institucional]], [[justicia_restaurativa]]).

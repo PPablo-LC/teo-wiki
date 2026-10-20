@@ -15,11 +15,11 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 ## Conceptos básicos referenciados
 
 - [[visión al santísimo]] — la visita a Cristo en el Sagrario
-- [[adoración eucarística]] — tercera relación de Cristo: entre nosotros
+- [[adoración_eucarística]] — tercera relación de Cristo: entre nosotros
 - [[preparación de la visita]] — Sagrario, lámpara, primer saludo, genuflexión
 - [[reparación]] — segundo momento de la visita
 - [[alfonso maría de ligorio]] — «entre todas las devociones, ésta es la primera»
-- [[espíritu santo]] — el secreto de la santidad según Mercier
+- [[espíritu_santo]] — el secreto de la santidad según Mercier
 
 ## Contenido
 

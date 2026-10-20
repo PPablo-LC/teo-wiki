@@ -18,7 +18,7 @@ tags: ["resumen", "kings_ocr_clean", "antiguo_testamento"]
 - [[idolatría]] — cultos paganos también en el sur
 - [[templo_de_jerusalén]] — saqueado por el faraón Sisac
 - [[profetas]] — Semajías interpreta la derrota
-- [[castigo_de_dios]] — la derrota como consecuencia del abandono de Dios
+- [[castigos]] — la derrota como consecuencia del abandono de Dios
 
 ## Resumen
 

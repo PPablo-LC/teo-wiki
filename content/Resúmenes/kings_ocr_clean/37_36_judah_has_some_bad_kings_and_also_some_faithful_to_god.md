@@ -17,7 +17,7 @@ tags: ["resumen", "kings_ocr_clean", "antiguo_testamento"]
 - [[atalía]] — usurpadora que mata a la familia real
 - [[joás]] — rey niño salvado en el Templo
 - [[jehoyadá]] — sumo sacerdote que restaura la dinastía
-- [[uzzías]] — rey próspero castigado con la lepra
+- [[uzías]] — rey próspero castigado con la lepra
 - [[ajaz]] — rey que somete Judá a Asiria
 
 ## Resumen
@@ -40,4 +40,4 @@ Joás se mantuvo fiel mientras vivió Jehoyadá, pero después se dejó influir 
 
 ## Enlaces
 
-[[atalía]] · [[joás]] · [[jehoyadá]] · [[amazías]] · [[uzzías]] · [[joatán]] · [[ajaz]] · [[reino_de_judá]]
+[[atalía]] · [[joás]] · [[jehoyadá]] · [[amazías]] · [[uzías]] · [[joatán]] · [[ajaz]] · [[reino_de_judá]]

@@ -36,11 +36,11 @@ Para Giussani, la amistad con Cristo nace de un encuentro que establece familiar
 
 ## Relaciones doctrinales
 
-[[amistad_con_dios]], [[cristo]], [[caridad]], [[fe]], [[oración]], [[eucaristía]], [[seguimiento de cristo]], [[filiación_divina]], [[conformidad_con_cristo]], [[celo_apostólico]]
+[[amistad_con_dios]], [[cristo]], [[caridad]], [[fe]], [[oración]], [[eucaristía]], [[seguimiento_de_cristo]], [[filiación_divina]], [[conformidad_con_cristo]], [[celo_apostólico]]
 
 ## Ver también
 
-[[amistad_con_dios]], [[cristo]], [[caridad]], [[oración]], [[eucaristía]], [[filiación_divina]], [[conformidad_con_cristo]], [[vida_interior]], [[compañía de jesús|ejemplo ignaciano]]
+[[amistad_con_dios]], [[cristo]], [[caridad]], [[oración]], [[eucaristía]], [[filiación_divina]], [[conformidad_con_cristo]], [[vida_interior]], [[compañía_de_jesús|ejemplo ignaciano]]
 
 ## Referencias
 

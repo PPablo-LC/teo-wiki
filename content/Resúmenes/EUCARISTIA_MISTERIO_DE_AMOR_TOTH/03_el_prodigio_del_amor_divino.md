@@ -12,11 +12,11 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 ## Conceptos básicos referenciados
 
-- [[presencia real]] — el prodigio que la fe confiesa
+- [[presencia_real]] — el prodigio que la fe confiesa
 - [[amor de cristo]] — la Eucaristía como «amor hasta el extremo» (Jn 13,1)
 - [[milagro de bolsena]] — confirmación histórica del dogma
-- [[sagrada comunión]] — Cristo entero bajo cada partícula
-- [[adoración eucarística]] — Cristo oculto y vigilante en el Sagrario
+- [[sagrada_comunión]] — Cristo entero bajo cada partícula
+- [[adoración_eucarística]] — Cristo oculto y vigilante en el Sagrario
 - [[ecclesia de eucharistia]] — JEE 11 y 59 intercaladas
 
 ## Contenido
@@ -39,6 +39,6 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 **La fe se ha de recibir.** Como el aire, la luz y el pan, la fe eucarística es don que hay que aceptar: no se inventa, se recibe de Cristo y de la Iglesia.
 
-**El milagro de Bolsena.** La incredulidad de un sacerdote de Boemia, corregida por el milagro de la hostia que sangró (1263), dio origen a la fiesta del [[corpus christi]] y a la catedral de Orvieto. La Eucaristía es «piedra de toque de la fe»: donde la fe vacila, la señal la confirma.
+**El milagro de Bolsena.** La incredulidad de un sacerdote de Boemia, corregida por el milagro de la hostia que sangró (1263), dio origen a la fiesta del [[corpus_christi]] y a la catedral de Orvieto. La Eucaristía es «piedra de toque de la fe»: donde la fe vacila, la señal la confirma.
 
 **JEE 59.** Juan Pablo II ofrece su testimonio personal: su sacerdocio comenzó con la Eucaristía y se renueva ante ella; recoge el himno «Ave, verum corpus».

@@ -15,8 +15,8 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 ## Conceptos básicos referenciados
 
 - [[santa misa]] — la obra sacrificial de Cristo por nosotros
-- [[sacrificio de la misa]] — renovación incruenta del Calvario
-- [[sacrificio de la cruz]] — el sacrificio único, actualizado en la misa
+- [[sacrificio_de_la_misa]] — renovación incruenta del Calvario
+- [[sacrificio_de_la_cruz]] — el sacrificio único, actualizado en la misa
 - [[sacerdocio]] — Cristo sacerdote y víctima
 - [[sacerdocio real]] — participación de los fieles (1 Pe 2,9)
 - [[sacerdote en persona christi]] — el celebrante como instrumento de Cristo

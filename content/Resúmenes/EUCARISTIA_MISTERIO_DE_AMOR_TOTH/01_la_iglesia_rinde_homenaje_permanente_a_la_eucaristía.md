@@ -13,19 +13,19 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 ## Conceptos básicos referenciados
 
 - [[eucaristía]] — el Santísimo Sacramento, objeto del homenaje de la Iglesia
-- [[presencia real]] — Cristo presente «verdadera, real y substancialmente» (Trento)
+- [[presencia_real]] — Cristo presente «verdadera, real y substancialmente» (Trento)
 - [[transustanciación]] — cambio sustancial del pan y del vino
-- [[adoración eucarística]] — homenaje permanente de la Iglesia a la Hostia
-- [[corpus christi]] — procesión y solemnidad del Cuerpo de Cristo
+- [[adoración_eucarística]] — homenaje permanente de la Iglesia a la Hostia
+- [[corpus_christi]] — procesión y solemnidad del Cuerpo de Cristo
 - [[misterio_eucarístico]] — el Sacramento como presencia del Cristo glorioso
 
 ## Contenido
 
 **Antífona:** Flp 2,5-11 — la kénosis y exaltación de Cristo, clave del misterio eucarístico: el que se anonadó asumiendo la forma de siervo se hace presente bajo las especies del pan.
 
-**El homenaje del cielo y de la tierra.** Tóth abre con la «Disputa» de Rafael (Camera della Segnatura): sobre el altar con la Hostia se reúnen el cielo (Dios, los santos, los doctores) y la tierra (los fieles, los teólogos), unidos en el mismo homenaje a la Santa Hostia. Este homenaje se renueva en la adoración silenciosa de las iglesias, en la procesión del [[corpus christi]] y en los Congresos Eucarísticos Internacionales, «renovación solemne» del acto de fe de la Iglesia entera.
+**El homenaje del cielo y de la tierra.** Tóth abre con la «Disputa» de Rafael (Camera della Segnatura): sobre el altar con la Hostia se reúnen el cielo (Dios, los santos, los doctores) y la tierra (los fieles, los teólogos), unidos en el mismo homenaje a la Santa Hostia. Este homenaje se renueva en la adoración silenciosa de las iglesias, en la procesión del [[corpus_christi]] y en los Congresos Eucarísticos Internacionales, «renovación solemne» del acto de fe de la Iglesia entera.
 
-**La presencia real según Trento.** El homenaje se funda en el dogma: Cristo está en la Eucaristía «verdadera, real y substancialmente». Tóth distingue tres modos de presencia de Cristo en el alma —como imagen (por la [[gracia santificante]]), como en el sueño (figurado)— de la presencia eucarística: en los demás sacramentos se recibe una virtud o gracia, pero en la Eucaristía está el mismo Cristo corporalmente. A esa presencia no le sigue el homenaje de una imagen o de un recuerdo, sino el culto de latria debido a Dios mismo.
+**La presencia real según Trento.** El homenaje se funda en el dogma: Cristo está en la Eucaristía «verdadera, real y substancialmente». Tóth distingue tres modos de presencia de Cristo en el alma —como imagen (por la [[gracia_santificante]]), como en el sueño (figurado)— de la presencia eucarística: en los demás sacramentos se recibe una virtud o gracia, pero en la Eucaristía está el mismo Cristo corporalmente. A esa presencia no le sigue el homenaje de una imagen o de un recuerdo, sino el culto de latria debido a Dios mismo.
 
 **El Cristo glorioso.** El Cristo eucarístico no es solo el pobre niño de Belén o el varón de dolores: es el Cristo glorioso, vivo y triunfante, sentado a la derecha del Padre. Por eso el homenaje de la Iglesia no es exagerado, sino proporcionado a su objeto.
 

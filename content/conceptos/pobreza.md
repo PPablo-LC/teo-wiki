@@ -97,6 +97,10 @@ en espíritu de caridad, es decir, usándolo todo para el Reino de Dios» (02, 2
 
 [[bienaventuranzas]], [[estado_religioso]], [[voto_de_pobreza]], [[consejos_evangélicos]], [[perfección_cristiana]], [[desprendimiento]]
 
+## Analizado en contexto cultural
+
+- [[corazon_de_amicis]] — convergencia en la dignidad del pobre y del trabajador, y en la atención concreta al que sufre (la limosna, el respeto al mendigo, el honor del carbonero); tensión por la ausencia de la pobreza de espíritu como bienaventuranza y por una pobreza tratada como estímulo moralizante, no como camino de unión con Dios.
+
 ## Referencias
 
 - CEC §2544-2547

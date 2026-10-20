@@ -12,7 +12,7 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 ## Conceptos básicos referenciados
 
-- [[sagrada comunión]] — el pan del camino del peregrino
+- [[sagrada_comunión]] — el pan del camino del peregrino
 - [[frutos de la eucaristía]] — el cuádruple efecto: paz, victoria, ayuda, vida
 - [[santo viático]] — «medicina de la inmortalidad»
 - [[prenda de la resurrección]] — «semilla de vida eterna»

@@ -19,7 +19,7 @@ Las virtudes teologales son las tres virtudes infusas que tienen a Dios mismo co
 
 ### Según el Catecismo (CEC)
 
-Las virtudes teologales tienen a **Dios mismo** por objeto, motivo y fin, y por causa inmediata a Dios que las infunde en el alma junto con la [[gracia santificante]] (§1812-1813). Son el «germen de las obras buenas» y «la garantía de la presencia del Espíritu Santo en el corazón» (§1813).
+Las virtudes teologales tienen a **Dios mismo** por objeto, motivo y fin, y por causa inmediata a Dios que las infunde en el alma junto con la [[gracia_santificante]] (§1812-1813). Son el «germen de las obras buenas» y «la garantía de la presencia del Espíritu Santo en el corazón» (§1813).
 
 - **Fe**: virtud por la que «creemos en Dios y creemos todo lo que Él nos ha dicho y revelado» (§1814); sin obras está muerta (St 2,17.26).
 - **Esperanza**: virtud por la que «deseamos y aguardamos con firme confianza la vida eterna» y la gracia para conseguirla (§1817-1821); se opone a la desesperación y a la presunción.

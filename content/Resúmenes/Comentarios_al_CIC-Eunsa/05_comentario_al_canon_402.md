@@ -16,7 +16,7 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "liturgia", "sacramentos", "c
 - [[liturgia]] — Culto público tributado por el Cuerpo místico de Cristo
 - [[sacramentos]] — Signos eficaces de la gracia instituidos por Cristo
 - [[sacerdocio_común]] — Participación de todos los fieles en el sacerdocio de Cristo
-- [[jerarquía]] — Estructura de gobierno de la Iglesia
+- [[jerarquía_eclesiástica]] — Estructura de gobierno de la Iglesia
 - [[iniciación_cristiana]] — Proceso de incorporación a la comunidad eclesial
 - [[bautismo]] — Primer sacramento de iniciación cristiana
 - [[eucaristía]] — Sacramento de la unidad eclesial

@@ -50,7 +50,7 @@ un hado ciego sino el horizonte que da consistencia al presente.
 
 ### Luigi Giussani — Il miracolo dell'ospitalità (MDO)
 
-En MDO «destino» es el término de la [[persona]] y de la [[historia]]: la
+En MDO «destino» es el término de la [[persona]] y de la historia: la
 persona como «rapporto con l'Infinito», la vocación como camino hacia el
 destino, la misericordia como cruce del abismo que separa del destino
 común, Cristo. El apéndice de 1972 (archivo 10) es su exposición

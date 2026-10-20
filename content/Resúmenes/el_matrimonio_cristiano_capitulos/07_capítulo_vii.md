@@ -14,7 +14,7 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 
 - [[matrimonio monógamo]] — forma originaria divina
 - [[poligamia]] — refutada
-- [[dignidad de la mujer]] — defensa de la monogamia
+- [[dignidad_de_la_mujer]] — defensa de la monogamia
 - [[unidad conyugal]] — un solo hombre, una sola mujer
 
 ## Contenido

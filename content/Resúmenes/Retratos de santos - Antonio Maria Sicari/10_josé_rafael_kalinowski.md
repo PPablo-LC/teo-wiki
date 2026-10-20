@@ -17,7 +17,7 @@ tags: ["resumen", "vocación", "caridad", "penitencia", "unidad_cristiana", "mar
 - [[oración]] — en Siberia: «El mundo puede quitarme todo, pero me quedará siempre un escondite inaccesible: la oración… Sólo me queda sufrir y rezar. Pero nunca he tenido un tesoro mayor» (L171).
 - [[caridad]] — en el campo: «los demás condenados incluyeron en sus oraciones: "Por las oraciones de José Kalinowski, líbranos Señor"» (L181-183); atención al prisionero borracho moribundo (L179).
 - [[mártir]] — «mártir del confesionario» (Juan Pablo II); en Siberia «la verdadera revolución se da en el corazón de esos pocos hombres que saben defender su humanidad y su fe» (L165).
-- [[unidad_cristiana]] — «La sagrada unidad… el mayor enemigo de nuestra sociedad es la desunión entre los cristianos»; «llevar a Rusia a Cristo y a Cristo a Rusia» (L255-267).
+- [[ecumenismo]] — «La sagrada unidad… el mayor enemigo de nuestra sociedad es la desunión entre los cristianos»; «llevar a Rusia a Cristo y a Cristo a Rusia» (L255-267).
 - [[maría]] — «la unidad se puede realizar sólo a través de María»; «sólo nos puede unir el don de la salvación acogido plenamente… como María se dejó implicar en cuerpo y alma» (L279).
 - [[carmelo]] — «por su específica vocación, el Carmelo se debe preocupar de esto [unidad Oriente-Occidente]» (L267).
 - [[confesión]] — 10 años sin confesarse; en la represión vuelve; como sacerdote «nunca quisiera dejar vacío su confesonario» (L71-73, L125, L239).
@@ -35,7 +35,7 @@ tags: ["resumen", "vocación", "caridad", "penitencia", "unidad_cristiana", "mar
 - [[justicia]] — condición al aceptar ser Ministro de Guerra: «no firmaría nunca una condena de muerte» (L115).
 - [[paz]] — «el camino más seguro para encontrar la paz es precisamente la unidad» (L257).
 - [[ecumenismo]] — «no se rendía a un falso ecumenismo: la separación de Roma significaba… también la separación del Cristo total» (L269).
-- [[historia]] / [[providencia]] — «Dios había sabido recoger todos los signos trazados —incluso los inciertos y erróneos— en un armónico designio de salvación y de santidad útil para toda la Iglesia» (L61).
+- historia / [[providencia]] — «Dios había sabido recoger todos los signos trazados —incluso los inciertos y erróneos— en un armónico designio de salvación y de santidad útil para toda la Iglesia» (L61).
 
 ## 1. 1989 y las raíces del drama (L3-16)
 

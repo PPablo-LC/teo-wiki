@@ -15,15 +15,15 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 - [[valentía]] — fortaleza para el «martirio incruento» de la vida cristiana
 - [[serenidad]] — paz interior prometida al que comulga
 - [[martirio incruento]] — el testimonio diario en ambiente neopagano
-- [[conformidad con cristo]] — Rom 8,29: ser imagen del Hijo
+- [[conformidad_con_cristo]] — Rom 8,29: ser imagen del Hijo
 - [[santificación del alma]] — la campana afinada en el tono de Dios
-- [[sagrada comunión]] — vida en abundancia (Jn 10,10)
+- [[sagrada_comunión]] — vida en abundancia (Jn 10,10)
 
 ## Contenido
 
 **Antífona:** Jn 4,8-14 — la samaritana y el agua viva que salta hasta la vida eterna.
 
-**Vida en abundancia.** Jn 10,10: Cristo vino para que tengamos vida en abundancia. La comunión acrecienta la [[vida sobrenatural]] y comunica tres dones: valor, serenidad y hermosura.
+**Vida en abundancia.** Jn 10,10: Cristo vino para que tengamos vida en abundancia. La comunión acrecienta la [[vida_sobrenatural]] y comunica tres dones: valor, serenidad y hermosura.
 
 **Valentía para el sufrimiento.** Tóth relata los viajes del explorador Svend Hedin y la fe en la Providencia. Si no recibimos lo pedido, recibimos fuerza para perseverar (Hch 1,6-8): hay que pedir fortaleza, no explicaciones. El cristiano de hoy vive un «martirio incruento» en el ambiente neopagano: la vida sexual, el matrimonio, la honradez profesional exigen heroísmo diario. San Pablo es la garantía: «Te basta mi gracia» (2 Co 12,9); «todo lo puedo en Aquel que me conforta» (Flp 4,13).
 

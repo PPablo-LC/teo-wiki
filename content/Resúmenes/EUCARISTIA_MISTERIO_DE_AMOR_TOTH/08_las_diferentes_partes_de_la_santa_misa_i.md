@@ -14,7 +14,7 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 - [[partes de la misa]] — «engarce del diamante» en torno a la transubstanciación
 - [[misa de los catecúmenos]] — primera parte: instructiva y penitencial
-- [[justino mártir]] — descripción de la misa hacia 155 (Apol. 1,6)
+- [[justino_mártir]] — descripción de la misa hacia 155 (Apol. 1,6)
 - [[altar]] — simbolismo del crucifijo, las velas y las flores
 - [[kyrie eleison]] — confesión de fe frente al culto al emperador
 - [[confiteor]] · [[introito]] — entrada penitencial y salmo de nostalgia

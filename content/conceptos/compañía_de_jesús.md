@@ -17,11 +17,11 @@ La **Compañía de Jesús** (jesuitas) es una orden religiosa clerical fundada p
 
 ## Relaciones
 
-[[san_ignacio_de_loyola]], [[jesuitas]], [[vida_religiosa]], [[misiones]], [[educación_católica]], [[contrareforma]], [[ejercicios_espirituales]], [[pablo_iii]]
+[[san_ignacio_de_loyola]], [[vida_religiosa]], [[misiones]], [[educación_católica]], [[contrareforma]], [[ejercicios_espirituales]], [[pablo_iii]]
 
 ## Ver también
 
-[[san_ignacio_de_loyola]], [[jesuitas]], [[ejercicios_espirituales]]
+[[san_ignacio_de_loyola]], [[ejercicios_espirituales]]
 
 ## Referencias
 

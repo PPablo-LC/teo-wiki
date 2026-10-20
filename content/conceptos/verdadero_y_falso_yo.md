@@ -54,7 +54,7 @@ La distinción recoge el dinamismo evangélico de perder la vida para encontrarl
 - Se realiza mediante el [[desprendimiento]] y la purificación del [[pecado_original]]
 - Conecta con la [[humildad]] como verdad sobre uno mismo ante Dios
 - Se expresa en la [[contemplación]]: mirada justa y amorosa que exige *unselfing*
-- Ilumina la [[conversión_cristiana]] como paso del ego al don
+- Ilumina la [[conversión]] como paso del ego al don
 - La tiranía del ego se liga a la [[soberbia]] como vicio capital (EAC-18)
 
 ## Ver también

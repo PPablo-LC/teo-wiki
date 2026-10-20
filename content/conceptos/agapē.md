@@ -49,7 +49,7 @@ Giussani funda el *agapē* en la naturaleza misma de Dios: «la natura dell'Esse
 - [[buen_samaritano]]
 - [[parábolas_de_jesús]]
 - [[cruz]]
-- [[mandamiento_nuevo]]
+- [[mandamiento_del_amor]]
 - [[vid_verdadera]]
 
 ## Ver también

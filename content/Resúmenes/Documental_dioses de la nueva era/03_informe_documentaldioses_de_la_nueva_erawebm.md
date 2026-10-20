@@ -26,7 +26,7 @@ tags: ["resumen", "nueva_era", "analisis_doctrinal"]
 - [[infiltración_institucional]] — penetración del hinduismo en escuelas, hospitales, ONU
 - [[relativismo]] — ausencia de normas morales absolutas en la filosofía hindú
 - [[potencial_humano]] — movimiento occidentalizado de autorrealización yogui
-- [[sadhus]] — sacerdotes hindúes desnudos con prácticas ascéticas extremas
+- [[hinduismo]] — sacerdotes hindúes desnudos con prácticas ascéticas extremas
 - [[pranayama]] — ejercicios respiratorios del yoga para absorber prana
 
 ## Contenido
@@ -57,7 +57,7 @@ Transcripción completa post-procesada en `Documental_dioses de la nueva era.for
 
 El documental abre con imágenes de la India mostrando pobreza extrema contrastada con riqueza espiritual. Templos, peregrinos y calles confirman la descripción de B.S. Naipul sobre una "civilización herida".
 
-#### [[Sadhus]] y prácticas ascéticas extremas
+#### [[hinduismo]] y prácticas ascéticas extremas
 
 Sacerdotes desnudos cubiertos de cenizas de cremaciones y estiércol de vaca, con cuerpos marcados y dependencia de drogas potentes. Han abandonado familias, propiedades y mentes, convirtiéndose en "locos devotos" de sus gurúes.
 

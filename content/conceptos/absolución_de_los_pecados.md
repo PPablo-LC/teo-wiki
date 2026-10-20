@@ -19,7 +19,7 @@ Acto del sacramento de la Penitencia en el que el sacerdote, **en nombre de Cris
 
 - **Naturaleza**: el Concilio de Trento definió que la absolución no es una mera proclamación del perdón ya concedido por la sola contrición, sino un acto judicial por el que el sacerdote, como juez, perdona o retiene los pecados (DS 1670-1673); el ministro actúa *in persona Christi* y en nombre de la Iglesia.
 - **Requisitos**: el penitente debe estar dotado de contrición (perfecta o al menos imperfecta), confesión íntegra de los pecados graves y propósito de enmienda; el ministro necesita potestad de orden (presbiterado) y jurisdicción (facultades concedidas por el ordinario, necesarias contra excomuniones declaradas o reservadas, CIC cc. 966-976).
-- **Efectos**: perdón de la culpa, remisión de la pena eterna y de la temporal (según disposiciones), restauración de la [[gracia santificante]], paz interior, [[resurrección espiritual]] y reconciliación con la Iglesia (CEC §1468-1469).
+- **Efectos**: perdón de la culpa, remisión de la pena eterna y de la temporal (según disposiciones), restauración de la [[gracia_santificante]], paz interior, [[resurrección_espiritual]] y reconciliación con la Iglesia (CEC §1468-1469).
 - **Casos particulares**: absolución del cómplice en pecado contra el sexto mandamiento, inválida (CIC c. 977, delito que retiene la sede penal — censura reservada a la Sede Apostólica); absolución de cómplices en el abuso (delitos graves reservados); absolución colectiva sin confesión individual, solo en gravísima necesidad (CIC c. 961).
 - **Obligación del sigilo**: la absolución cae bajo el [[sello_sacramental]] inviolable: «quebrantarlo es un gravísimo delito» (CIC c. 983-988).
 

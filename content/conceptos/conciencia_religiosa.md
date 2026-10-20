@@ -13,7 +13,7 @@ timestamp: 2026-09-24
 
 ## Definición
 
-Para Luigi Giussani, la conciencia religiosa es el acto por el cual la persona toma conciencia de su propio [[sentido_religioso]] —el factor humano constituido por las preguntas y exigencias últimas que ponen a la persona en relación con su [[destino del hombre|destino]]— y lo vive de modo auténtico. El término da título al segundo ensayo del volumen *Il senso di Dio e l'uomo moderno* («La coscienza religiosa nell'uomo moderno»), que busca identificar, en la situación cultural y social presente, los aspectos que frenan una conciencia religiosa auténtica y el comportamiento del cristianismo frente a ese hecho.
+Para Luigi Giussani, la conciencia religiosa es el acto por el cual la persona toma conciencia de su propio [[sentido_religioso]] —el factor humano constituido por las preguntas y exigencias últimas que ponen a la persona en relación con su [[destino_del_hombre|destino]]— y lo vive de modo auténtico. El término da título al segundo ensayo del volumen *Il senso di Dio e l'uomo moderno* («La coscienza religiosa nell'uomo moderno»), que busca identificar, en la situación cultural y social presente, los aspectos que frenan una conciencia religiosa auténtica y el comportamiento del cristianismo frente a ese hecho.
 
 ## Desarrollo doctrinal
 
@@ -27,7 +27,7 @@ La restauración de la conciencia religiosa no es obra del esfuerzo aislado: se 
 
 - **La premisa (SDL 05)** — los hombres «raramente aprenden lo que creen ya saber» (Niebuhr); todos creemos conocer ya el hecho religioso y el cristianismo; el objetivo es identificar la situación cultural que impide una conciencia religiosa auténtica.
 - **El abandono de la conciencia religiosa (SDL 06)** — la conciencia religiosa moderna ha sido reducida por el [[laicismo]]; «Dio, se c'è, non c'entra» (Fabro): la religión queda como opción privada, consuelo psicológico, «hecho de museo», «opio del pueblo». El enemigo de la religiosidad auténtica no es tanto el [[ateísmo]] como el laicismo.
-- **La restauración por el hecho cristiano (SDL 07)** — el cristianismo «protestantizado» (reducido a Parola interpretable por la conciencia individual) agrava la subjetividad; frente a ello, la conciencia religiosa encuentra su objeto en el [[hecho cristiano]] como hecho objetivo: «no se trata de imaginar o inventar, sino de seguir» (Claudel), en la unidad viva de los creyentes guiada por el [[primado_de_pedro|Vescovo di Roma]].
+- **La restauración por el hecho cristiano (SDL 07)** — el cristianismo «protestantizado» (reducido a Parola interpretable por la conciencia individual) agrava la subjetividad; frente a ello, la conciencia religiosa encuentra su objeto en el [[hecho_cristiano]] como hecho objetivo: «no se trata de imaginar o inventar, sino de seguir» (Claudel), en la unidad viva de los creyentes guiada por el [[primado_de_pedro|Vescovo di Roma]].
 
 ## Distinciones importantes
 

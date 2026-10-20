@@ -61,6 +61,10 @@ El número sobre el coraje desarrolla la fortaleza como virtud clásica heredada
 
 - [[auténtica_día_1_enfrenta_tus_miedos]] — convergencia en superación de miedos mediante autoconocimiento y confianza en Dios
 
+## Analizado en contexto cultural
+
+- [[corazon_de_amicis]] — convergencia en la firmeza y constancia en el bien y en la valentía de lo cotidiano (Estardo, Coreta, el tamborcillo sardo, el pequeño vigía lombardo); tensión por una fortaleza natural y estoica, entendida como esfuerzo de la voluntad e insensibilidad al dolor, sin referencia a la gracia ni a la esperanza teologal.
+
 ## Ver también
 
 [[virtud_de_la_fortaleza]], [[virtudes_cardinales]], [[virtudes_infusas]]

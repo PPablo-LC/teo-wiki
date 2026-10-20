@@ -180,7 +180,7 @@ los [[confesores_de_la_fe]] que entregan la vida en el cumplimiento de la carida
 [[vocación]], [[santos_patronos]], [[caridad]],
 [[entrega]], [[penitencia]], [[oración]],
 [[virgen_maría]], [[beatificación]], [[misticismo]],
-[[jesuitas]], [[santa_luisa_de_marillac]],
+[[compañía_de_jesús]], [[santa_luisa_de_marillac]],
 [[pier_giorgio_frassati]], [[retratos_de_santos]]
 
 ## Referencias

@@ -35,7 +35,7 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 **JEE 8.** Juan Pablo II destaca el carácter «cósmico» de la Eucaristía: el altar del mundo; la misa se ofrece por toda la creación.
 
-**Frutos del sacrificio.** La misa aplica personalmente la Redención: perdona los pecados veniales, disminuye la pena temporal del [[purgatorio]], obtiene gracia de contrición y abundancia de [[gracia actual]] adyuvante y [[gracia santificante]]. El símil del sol: sale cada día, y la finitud del receptor limita el provecho. Hay además fruto social: la hermandad parroquial nace del altar común.
+**Frutos del sacrificio.** La misa aplica personalmente la Redención: perdona los pecados veniales, disminuye la pena temporal del [[purgatorio]], obtiene gracia de contrición y abundancia de [[gracia_actual]] adyuvante y [[gracia_santificante]]. El símil del sol: sale cada día, y la finitud del receptor limita el provecho. Hay además fruto social: la hermandad parroquial nace del altar común.
 
 **JEE 32.** La parroquia, para celebrar la Eucaristía, necesita el sacerdote: la pastoral vocacional brota de la misa misma.
 

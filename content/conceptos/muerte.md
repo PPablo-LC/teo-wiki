@@ -81,6 +81,7 @@ Se relaciona con [[pecado_original]], [[redención]], [[resurrección]], [[juici
 ## Analizado en contexto cultural
 
 - [[morir-con-cero]] — convergencia en la conciencia de la finitud como motor de una vida plena; tensión por la ausencia de trascendencia (muerte como fin absoluto, no como paso a la vida eterna)
+- [[corazon_de_amicis]] — convergencia en la serenidad ante la muerte (la maestra que muere entre sus niños, la madre de Garrón, el chiquitín), en la esperanza del reencuentro y en el respeto ritual al luto; tensión por un más allá vago y sentimental —alma como «ángel», inmortalidad consoladora— sin juicio, resurrección de los cuerpos ni referencia a Cristo resucitado.
 
 ## Ver también
 [[resurrección]], [[juicio_final]], [[purgatorio]], [[cielo]], [[pecado_original]], [[memento_mori]], [[viático]], [[evangelization_and_culture_issue_11_four_last_things]]

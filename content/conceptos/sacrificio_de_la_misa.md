@@ -13,7 +13,7 @@ timestamp: 2026-09-23
 
 ## Definición
 
-La Misa, en cuanto **sacrificio**, es la renovación incruenta del [[sacrificio de la cruz|sacrificio de la Cruz]]: el mismo Cristo, una sola vez muerto en la cruz, se hace presente sacramentalmente en el altar y se ofrece al Padre por ministerio del sacerdote, aplicando a los hombres los frutos de su Redención. «El sacrificio de Cristo y el sacrificio de la Eucaristía son un único sacrificio: la misma víctima y el mismo que se ofrece» (CEC §1367; Trento, DS 1740).
+La Misa, en cuanto **sacrificio**, es la renovación incruenta del [[sacrificio_de_la_cruz|sacrificio de la Cruz]]: el mismo Cristo, una sola vez muerto en la cruz, se hace presente sacramentalmente en el altar y se ofrece al Padre por ministerio del sacerdote, aplicando a los hombres los frutos de su Redención. «El sacrificio de Cristo y el sacrificio de la Eucaristía son un único sacrificio: la misma víctima y el mismo que se ofrece» (CEC §1367; Trento, DS 1740).
 
 ## Desarrollo doctrinal
 
@@ -32,11 +32,11 @@ La Misa, en cuanto **sacrificio**, es la renovación incruenta del [[sacrificio 
 
 ## Relaciones doctrinales
 
-[[sacrificio_eucarístico]], [[sacrificio_de_la_cruz]], [[eucaristía]], [[misa]], [[sacerdocio]], [[sacerdocio_ordenado]], [[sacerdocio_real]], [[presencia_real]], [[transubstanciación]], [[frutos_de_la_misa]], [[purgatorio]]
+[[sacrificio_eucarístico]], [[sacrificio_de_la_cruz]], [[eucaristía]], [[misa]], [[sacerdocio]], [[sacerdocio_ordenado]], [[sacerdocio_bautismal]], [[presencia_real]], [[transubstanciación]], [[frutos_de_la_misa]], [[purgatorio]]
 
 ## Ver también
 
-[[sacrificio_eucarístico]], [[sacrificio_de_la_cruz]], [[eucaristía]], [[misa]], [[sacerdocio_ordenado]], [[sacerdocio_real]], [[presencia_real]], [[transubstanciación]], [[misterio_eucarístico]], [[consagración]]
+[[sacrificio_eucarístico]], [[sacrificio_de_la_cruz]], [[eucaristía]], [[misa]], [[sacerdocio_ordenado]], [[sacerdocio_bautismal]], [[presencia_real]], [[transubstanciación]], [[misterio_eucarístico]], [[consagración]]
 
 ## Referencias
 

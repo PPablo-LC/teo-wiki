@@ -45,7 +45,7 @@ CIC c.1007-1008: El sacramento del Orden se confiere por la imposición de manos
 
 ## Relaciones doctrinales
 
-Sevincula con la [[iglesia_pueblo_de_dios]], la [[jerarquía]], el [[obispo]], el [[presbítero]], el [[diácono]], la [[jerarquía_eclesiástica]], el [[carácter_sacramental]], el [[ministerio_pastoral]], la [[evangelización]] y la [[comunión_eclesial]].
+Sevincula con la [[iglesia_pueblo_de_dios]], la [[jerarquía_eclesiástica]], el [[obispo]], el [[presbítero]], el [[diácono]], la [[jerarquía_eclesiástica]], el [[carácter_sacramental]], el [[ministerio_pastoral]], la [[evangelización]] y la [[comunión_eclesial]].
 
 ## Ver también
 [[presbítero]], [[obispo]], [[diácono]], [[jerarquía_eclesiástica]]

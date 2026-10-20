@@ -14,8 +14,8 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 
 - [[respeto al niño]] · [[res sacra puer]] — el niño es cosa santa
 - [[amor paterno]] — fuerza inagotable
-- [[educación cristiana]] · [[misión sacerdotal de los padres]]
-- [[madre de los macabeos]] · [[bautismo]] · [[vida sobrenatural]] · [[oración en familia]]
+- [[educación_cristiana]] · [[misión sacerdotal de los padres]]
+- [[madre de los macabeos]] · [[bautismo]] · [[vida_sobrenatural]] · [[oración en familia]]
 
 ## Contenido
 

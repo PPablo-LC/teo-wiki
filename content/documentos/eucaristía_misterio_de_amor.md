@@ -70,9 +70,9 @@ validados), con conceptos referenciados por capítulo.
 
 ## Ver también
 
-- [[eucaristía]] · [[presencia real]] · [[transustanciación]]
-- [[sacrificio eucarístico]] · [[sagrada comunión]] · [[adoración eucarística]]
-- [[comunión frecuente]] · [[comunión espiritual]] · [[santo viático]]
+- [[eucaristía]] · [[presencia_real]] · [[transustanciación]]
+- [[sacrificio_eucarístico]] · [[sagrada_comunión]] · [[adoración_eucarística]]
+- [[comunión_frecuente]] · [[comunión_espiritual]] · [[santo viático]]
 - [[ecclesia_de_eucharistia]] · [[santo_tomás_de_aquino]] · [[misterio_eucarístico]]
 
 ## Referencias

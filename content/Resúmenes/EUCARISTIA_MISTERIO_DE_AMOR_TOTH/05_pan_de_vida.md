@@ -12,11 +12,11 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 ## Conceptos básicos referenciados
 
-- [[pan de vida]] — Cristo alimento del alma y de la sociedad
+- [[pan_de_vida]] — Cristo alimento del alma y de la sociedad
 - [[vínculo de caridad]] — la comunión une a los hermanos entre sí
 - [[eucaristía y sociedad]] — la socially salvadora del pan eucarístico
 - [[igualdad bautismal]] — todos iguales ante la Hostia
-- [[unidad de la iglesia]] — un solo pan, un solo cuerpo (1 Co 10,17)
+- [[unidad_de_la_iglesia]] — un solo pan, un solo cuerpo (1 Co 10,17)
 - [[prenda de la gloria futura]] — la escatología que intensifica la vida terrena
 
 ## Contenido

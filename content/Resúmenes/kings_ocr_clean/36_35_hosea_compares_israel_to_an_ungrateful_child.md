@@ -16,7 +16,7 @@ tags: ["resumen", "kings_ocr_clean", "antiguo_testamento"]
 
 - [[oseas]] — profeta de la ternura de Dios
 - [[amor_de_dios]] — Dios como padre que enseña a andar
-- [[castigo_de_dios]] — el exilio como consecuencia de la rebeldía
+- [[castigos]] — el exilio como consecuencia de la rebeldía
 - [[restauración]] — Dios traerá de nuevo a su pueblo
 
 ## Resumen
@@ -39,4 +39,4 @@ El pueblo volverá desde Egipto y desde Asiria, veloz como las palomas, y Dios l
 
 ## Enlaces
 
-[[oseas]] · [[amor_de_dios]] · [[castigo_de_dios]] · [[restauración]]
+[[oseas]] · [[amor_de_dios]] · [[castigos]] · [[restauración]]

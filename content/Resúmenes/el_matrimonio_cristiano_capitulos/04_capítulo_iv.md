@@ -13,10 +13,10 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 ## Conceptos básicos referenciados
 
 - [[noviazgo]] — tiempo de conocimiento mutuo y virtud
-- [[preparación al matrimonio]] — decisión que compromete toda la vida
+- [[preparación_al_matrimonio]] — decisión que compromete toda la vida
 - [[pureza]] — durante el noviazgo
-- [[matrimonio mixto]] — peligros para la fe
-- [[vocación matrimonial]] — discernimiento
+- [[matrimonio_mixto]] — peligros para la fe
+- [[vocación_matrimonial]] — discernimiento
 
 ## Contenido
 

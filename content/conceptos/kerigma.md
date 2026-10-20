@@ -48,13 +48,13 @@ nuevo a los bautizados lo primero.
 ## Relaciones doctrinales
 
 [[evangelización]], [[kerygma]], [[catequesis]], [[resurrección_de_cristo]],
-[[conversión_cristiana]], [[iniciación_cristiana]], [[evangelii_nuntiandi]],
+[[conversión]], [[iniciación_cristiana]], [[evangelii_nuntiandi]],
 [[testimonio_cristiano]], [[alegría]]
 
 ## Ver también
 
 [[evangelización]], [[catequesis]], [[resurrección_de_cristo]],
-[[conversión_cristiana]], [[iniciación_cristiana]], [[evangelii_nuntiandi]],
+[[conversión]], [[iniciación_cristiana]], [[evangelii_nuntiandi]],
 [[testimonio_cristiano]], [[alegría]]
 
 ## Referencias

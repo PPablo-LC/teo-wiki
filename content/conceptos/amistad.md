@@ -46,6 +46,10 @@ Elementos centrales en REG:
 
 [[amistad_con_dios]], [[amor_al_prójimo]], [[caridad]], [[amor_conyugal]], [[bien_común]]
 
+## Analizado en contexto cultural
+
+- [[corazon_de_amicis]] — convergencia en el desinterés, la reciprocidad y la fidelidad de la amistad infantil, y en la amistad que atraviesa las clases sociales; tensión por una amistad puramente humana, sin apertura al horizonte sobrenatural de la amistad con Dios ni de la comunión de los santos.
+
 ## Referencias
 
 - [SmTh I-II q.65 a.5, sobre la caridad como amistad con Dios]

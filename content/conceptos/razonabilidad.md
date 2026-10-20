@@ -67,7 +67,7 @@ la [[libertad]].
 ## Relaciones doctrinales
 
 - [[razón]] [[realismo]] [[fe_razonable]] [[exigencias]] [[corazón]]
-- [[coraje]] [[libertad]] [[experiencia]] [[factores_de_la_realidad]]
+- [[coraje]] [[libertad]] [[experiencia]] [[realidad]]
 
 ## Ver también
 

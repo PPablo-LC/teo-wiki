@@ -18,7 +18,7 @@ Verdad práctica del espíritu que consiste en conocer la propia realidad interi
 ## Desarrollo doctrinal
 
 - **Fundamento teológico**: el hombre se conoce verdaderamente a la luz de Dios: ante su santidad reconoce su pecado (Isaías, Job, Pedro: «apártate de mí, Señor, que soy un hombre pecador», Lc 5,8); la conciencia cristiana es verdad sobre sí *en la escucha de la Palabra*, no autocaption analítica.
-- **Instrumentos del conocimiento de sí**: examen de conciencia diario (metodía práctica de verdad), [[dirección espiritual]] (espejo ajeno objetivo y confiado), confesión (verdad ante Cristo que perdona), la Sagrada Escritura (espejo del alma: «quien mira en el espejo de la Palabra», St 1,23-25), y la vida misma: reacciones, tentaciones, fatigas.
+- **Instrumentos del conocimiento de sí**: examen de conciencia diario (metodía práctica de verdad), [[dirección_espiritual]] (espejo ajeno objetivo y confiado), confesión (verdad ante Cristo que perdona), la Sagrada Escritura (espejo del alma: «quien mira en el espejo de la Palabra», St 1,23-25), y la vida misma: reacciones, tentaciones, fatigas.
 - **Frutos**: humildad realista (no fatalismo ni desprecio), corrección de los defectos dominantes (contra el autoengaño), discernimiento vocacional (¿a qué me llama Dios? depende de saber quién soy), misericordia con los demás (quien conoce su propia miseria no desprecia la ajena), oración verdadera (la oración de quien sabe que necesita).
 - **Riesgos corregidos por la tradición**: el escrúpulo (mirada desproporcionada sobre el propio mal), el narcisismo introspectivo (curarse la mirada con la obra: salir de sí por la caridad y el apostolado), y la autocomplacencia (presunción de haber llegado).
 
@@ -30,7 +30,7 @@ Verdad práctica del espíritu que consiste en conocer la propia realidad interi
 
 ## Relaciones doctrinales
 
-[[humildad]], [[examen de conciencia]], [[dirección_espiritual]], [[conciencia]], [[conversión]], [[humildad_intelectual]], [[misericordia]], [[discernimiento_vocacional]], [[oración]], [[ascesis]]
+[[humildad]], [[examen_de_conciencia]], [[dirección_espiritual]], [[conciencia]], [[conversión]], [[humildad_intelectual]], [[misericordia]], [[discernimiento_vocacional]], [[oración]], [[ascesis]]
 
 ## Ver también
 

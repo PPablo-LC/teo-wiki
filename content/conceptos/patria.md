@@ -9,7 +9,7 @@ description: "La «tierra de los padres» es un elemento central en la experienc
 # Patria
 
 > Área: Moral / Eclesiología
-> Última actualización: 2026-06-02
+> Última actualización: 2026-10-20
 
 ## Definición
 
@@ -45,9 +45,12 @@ El Evangelio ha dado «un significado nuevo al concepto de patria. En su acepci�
 
 [[cielo]], [[jerusalén]], [[peregrinación]], [[reino_de_dios]], [[tierra_prometida]], [[exilio]]
 
-
 - [VocTeoBib, «Patria»]
 - Gen 12; Flp 3,20; Gal 4,26; Ef 2,19; Heb 11,13-16; Heb 13,14
+
+## Analizado en contexto cultural
+
+- [[corazon_de_amicis]] — convergencia en el amor a la patria como extensión de la piedad filial (sangre, lengua, tierra y muertos; la patria como «madre»); tensión por un patriotismo no ordenado a la patria eterna, que tiende a absolutizarse y a cerrarse en la idolatría nacionalista.
 
 ## Ver también
 

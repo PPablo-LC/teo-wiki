@@ -12,7 +12,7 @@ tags: ["resumen", "el amor es mas fuerte - alvaro corcuera lc"]
 
 ## Conceptos básicos referenciados
 
-[[eucaristía]], [[presencia_real]], [[adoración_eucarística]], [[sagrario]], [[comunión_espiritual]], [[cuerpo_místico]], [[unidad_de_la_iglesia]], [[mandamiento_nuevo]], [[caridad]], [[fraccion_del_pan]], [[juan_pablo_ii]], [[benedicto_xvi]], [[alvaro_corcuera]], [[espiritualidad_legionaria]], [[misericordia_de_dios]], [[sentido_de_eternidad]]
+[[eucaristía]], [[presencia_real]], [[adoración_eucarística]], [[sagrario]], [[comunión_espiritual]], [[cuerpo_místico]], [[unidad_de_la_iglesia]], [[mandamiento_del_amor]], [[caridad]], [[fraccion_del_pan]], [[juan_pablo_ii]], [[benedicto_xvi]], [[alvaro_corcuera]], [[espiritualidad_legionaria]], [[misericordia_de_dios]], [[sentido_de_eternidad]]
 
 ## Contenido
 

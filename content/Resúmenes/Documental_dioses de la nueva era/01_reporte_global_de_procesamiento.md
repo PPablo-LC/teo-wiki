@@ -55,7 +55,7 @@ Todos los pasos del workflow completados: detección de modo, detección de fich
 
 ### Detalle por vídeo — Documental_dioses de la nueva era
 
-Se identificaron 10 momentos visuales: (1) introducción de la India, (2) [[sadhus]] y prácticas ascéticas, (3) procesiones masivas, (4) posiciones de [[yoga]] (cobra/asanas), (5) pranayama/respiración, (6) niños en escuelas meditando, (7) cultura infantil y [[ocultismo]], (8) Star Wars y La Fuerza, (9) Alemania nazi, (10) comparación suástica hindú vs. nazi.
+Se identificaron 10 momentos visuales: (1) introducción de la India, (2) [[hinduismo]] y prácticas ascéticas, (3) procesiones masivas, (4) posiciones de [[yoga]] (cobra/asanas), (5) pranayama/respiración, (6) niños en escuelas meditando, (7) cultura infantil y [[ocultismo]], (8) Star Wars y La Fuerza, (9) Alemania nazi, (10) comparación suástica hindú vs. nazi.
 
 ### Resumen temático transversal
 

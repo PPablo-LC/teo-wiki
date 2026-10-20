@@ -27,7 +27,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[epístolas_pastorales]] — autor, integridad y tiempo de composición
 - [[epístola_a_los_hebreos]] — autor y modo de composición
 - [[fe]] — es un acto de la inteligencia, no ciego sentimiento (contra modernistas)
-- [[jerarquía]] — constitución monárquica de la Iglesia, primado de Pedro
+- [[jerarquía_eclesiástica]] — constitución monárquica de la Iglesia, primado de Pedro
 
 ## Contenido
 

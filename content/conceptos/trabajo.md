@@ -103,6 +103,7 @@ Se relaciona con la [[creación]], el [[descanso_sabático]], la [[justicia_soci
 ## Analizado en contexto cultural
 
 - [[morir-con-cero]] — convergencia en la crítica al trabajo excesivo que impide vivir; tensión por la visión puramente instrumental del trabajo, sin dimensión vocacional ni de participación en la obra creadora de Dios
+- [[corazon_de_amicis]] — convergencia en la dignidad del trabajo manual («el trabajo no ensucia»), en la prioridad del trabajador sobre el producto y en la constancia como camino de excelencia; tensión por un trabajo ordenado al deber cívico y familiar, sin dimensión vocacional, redentora ni escatológica.
 
 ## Ver también
 

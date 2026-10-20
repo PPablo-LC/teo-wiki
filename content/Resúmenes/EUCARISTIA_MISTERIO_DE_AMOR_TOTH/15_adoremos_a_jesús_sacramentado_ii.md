@@ -13,10 +13,10 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 ## Conceptos básicos referenciados
 
 - [[espera de cristo]] — «antes el hombre esperaba a Dios; ahora es Dios quien espera al hombre»
-- [[adoración eucarística]] — la oración como respiración del alma
+- [[adoración_eucarística]] — la oración como respiración del alma
 - [[reparación]] — consuelo de los hijos fieles; primeros viernes
 - [[sufrimiento]] — «el beso de Cristo es el sufrimiento»
-- [[comunión espiritual]] — santa Teresa de Jesús (JEE 34)
+- [[comunión_espiritual]] — santa Teresa de Jesús (JEE 34)
 - [[adoración perpetua]] — las contemplativas que montan guardia
 
 ## Contenido
@@ -29,7 +29,7 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 **Nuestra adoración.** La oración como respiración del alma; Prohazka: «Me voy delante del Santísimo». La visita al Santísimo es acumulador eléctrico matinal y válvula de seguridad nocturna: recarga para el día y alivia al caer la tarde.
 
-**Nuestra reparación.** Las humillaciones e irreverencias que Cristo soporta en el Sagrario piden el consuelo de los hijos fieles: el símil familiar del hijo que compensa los desaires con cariño. Ahí tiene su origen espiritual la devoción de los primeros viernes del [[sagrado corazón]].
+**Nuestra reparación.** Las humillaciones e irreverencias que Cristo soporta en el Sagrario piden el consuelo de los hijos fieles: el símil familiar del hijo que compensa los desaires con cariño. Ahí tiene su origen espiritual la devoción de los primeros viernes del [[sagrado_corazón]].
 
 **Nuestra acción de gracias.** El relato del maharajah paralítico: «¿no tienes nada por qué dar gracias?»: la gratitud no depende de la salud.
 

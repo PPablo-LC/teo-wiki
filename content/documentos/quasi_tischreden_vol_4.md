@@ -94,7 +94,7 @@ sentimiento es de estupor intimidado, no de repulsa. Conocer es **adherir**:
 para conocer hay que tener una «simpatía positiva» por la cosa. La razón,
 como conciencia de la realidad según la totalidad de sus factores, es una
 exigencia *moral*: disponibilidad inquieta a la totalidad
-([[factores_de_la_realidad]]). El factor «excesivo» remite a Otro: la
+([[realidad]]). El factor «excesivo» remite a Otro: la
 realidad es **signo**. El ***Tu*** se puede acoger (Abel) o rechazar
 (resentimiento): la verdadera lucha es entre la mentira y la verdad, entre
 Satanás y Cristo. El rostro del Padre (Rembrandt) es espejo del hijo
@@ -129,7 +129,7 @@ perdón la hace posible. La fe es **reconocer un avvenimento**
 **6. Desde un empeño con la vida entera** (Tischreden 191, 18-IV-1996). El
 **dualismo ético** espíritu/carne es absurdo: ontológicamente son dos
 contenidos del ser en unidad, el uno instrumento del otro
-([[resurrección_de_los_cuerpos]]). «La realtà è testarda» ([[julian_carron]]);
+([[resurrección_de_la_carne]]). «La realtà è testarda» ([[julian_carron]]);
 el *todo* es un concepto **espiritual**, no material. La unidad de la
 persona se juega en el empeño con la **vida entera**, que tiene un nombre:
 «Gesù di Nazareth» ([[jesucristo]]). El [[tiempo]] se unifica por la
@@ -273,7 +273,7 @@ páginas se comentan literalmente en varias *Tischreden* (04, 07, 08, 09,
 - [[julian_carron]] — editor del volumen
 - [[memores_domini]] [[comunione_e_liberazione]] [[virginidad]]
 - [[sentido_religioso]] [[fe]] [[encuentro]] [[cristo]] [[compañía]]
-- [[realidad]] [[razón]] [[conocimiento]] [[experiencia]] [[factores_de_la_realidad]]
+- [[realidad]] [[razón]] [[conocimiento]] [[experiencia]] [[realidad]]
 - [[deseo]] [[corazón]] [[felicidad]] [[misterio]] [[origen]] [[destino]]
 - [[libertad]] [[afecto]] [[elección]] [[delectatio_victrix]] [[punto_de_fuga]]
 - [[signo]] [[apariencia]] [[prejuicio]] [[pecado_original]] [[milagro]]

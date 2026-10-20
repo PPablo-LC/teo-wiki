@@ -40,11 +40,11 @@ Joás es el rey restaurado por la fidelidad del sacerdocio. Su infancia escondid
 
 ## Relaciones doctrinales
 
-Se relaciona con [[atalía]], [[jehoyadá]], [[amazías]], [[uzzías]], [[reino_de_judá]], [[templo_de_jerusalén]], [[alianza]], [[idolatría]]
+Se relaciona con [[atalía]], [[jehoyadá]], [[amazías]], [[uzías]], [[reino_de_judá]], [[templo_de_jerusalén]], [[alianza]], [[idolatría]]
 
 ## Ver también
 
-[[atalía]], [[jehoyadá]], [[amazías]], [[uzzías]], [[reino_de_judá]], [[templo_de_jerusalén]]
+[[atalía]], [[jehoyadá]], [[amazías]], [[uzías]], [[reino_de_judá]], [[templo_de_jerusalén]]
 
 ## Referencias
 

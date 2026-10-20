@@ -14,9 +14,9 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 - [[comunión bien hecha]] — preparación y acción de gracias
 - [[preparación a la comunión]] — avivar fe, esperanza y amor
-- [[acción de gracias]] — después de comulgar: «Somos dos: Jesús y yo»
-- [[comunión frecuente]] — Pío X y el «pan nuestro de cada día»
-- [[comunión espiritual]] — para los que no pueden comulgar sacramentalmente
+- [[acción_de_gracias]] — después de comulgar: «Somos dos: Jesús y yo»
+- [[comunión_frecuente]] — Pío X y el «pan nuestro de cada día»
+- [[comunión_espiritual]] — para los que no pueden comulgar sacramentalmente
 - [[examen antes de comulgar]] — 1 Co 11,28; Trento; CEC 1385
 - [[pecado grave]] — obligación de confesarse antes de comulgar
 

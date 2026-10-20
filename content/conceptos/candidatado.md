@@ -13,7 +13,7 @@ timestamp: 2026-09-23
 
 ## Definición
 
-Etapa inicial de la [[formación legionaria]] en la Legión de Cristo: el tiempo y el ambiente en que los **aspirantes** —jóvenes que muestran indicios de vocación— son acompañados en su madurez humana y espiritual, conocen el carisma legionario y discernimentan con libertad su llamada, antes del ingreso al noviciado. El candidatado puede ser residencial (centros vocacionales o casas de aspirantado) o no residencial (acompañamiento mientras el joven sigue sus estudios).
+Etapa inicial de la [[formación_legionaria]] en la Legión de Cristo: el tiempo y el ambiente en que los **aspirantes** —jóvenes que muestran indicios de vocación— son acompañados en su madurez humana y espiritual, conocen el carisma legionario y discernimentan con libertad su llamada, antes del ingreso al noviciado. El candidatado puede ser residencial (centros vocacionales o casas de aspirantado) o no residencial (acompañamiento mientras el joven sigue sus estudios).
 
 ## Desarrollo doctrinal
 

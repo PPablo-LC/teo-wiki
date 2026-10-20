@@ -17,7 +17,7 @@ La **nueva teología** (*nouvelle théologie*) fue un movimiento teológico fran
 
 ## Relaciones
 
-[[ressourcement]], [[concilio_vaticano_ii]], [[humani_generis]], [[teología_francesa]], [[de_condicionibus]], [[de_chardin]], [[dominicos]], [[jesuitas]], [[patrística]], [[exégesis]]
+[[ressourcement]], [[concilio_vaticano_ii]], [[humani_generis]], [[teología_francesa]], [[de_condicionibus]], [[de_chardin]], [[dominicos]], [[compañía_de_jesús]], [[patrística]], [[exégesis]]
 
 ## Ver también
 

@@ -15,7 +15,7 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 - [[familia]] — célula de la sociedad
 - [[célula de la sociedad]] — la familia como unidad constructora
 - [[matrimonio]] — fundamento de la familia
-- [[bien común]] — la familia al servicio de la sociedad
+- [[bien_común]] — la familia al servicio de la sociedad
 
 ## Contenido
 

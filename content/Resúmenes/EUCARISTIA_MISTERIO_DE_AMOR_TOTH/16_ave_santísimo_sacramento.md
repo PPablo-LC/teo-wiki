@@ -13,7 +13,7 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 ## Conceptos básicos referenciados
 
 - [[cristo por nosotros]] — la misa: tres misas por segundo en el mundo
-- [[cristo en nosotros]] — la comunión: el anhelo del alma colmado
+- [[cristo_en_nosotros]] — la comunión: el anhelo del alma colmado
 - [[cristo entre nosotros]] — la adoración: cerrar y abrir el alma a Cristo
 - [[coherencia cristiana]] — el oficial Mario ante Aureliano
 - [[mirada eucarística]] — «Yo le miro, Él me mira» (cura de Ars)

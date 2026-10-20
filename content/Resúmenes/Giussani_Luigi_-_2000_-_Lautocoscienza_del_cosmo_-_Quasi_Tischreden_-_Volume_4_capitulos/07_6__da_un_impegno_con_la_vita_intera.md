@@ -12,7 +12,7 @@ tags: ["resumen", "giussani", "vida_entera", "tradición", "realidad"]
 
 ## Conceptos básicos referenciados
 
-- [[dualismo]] / [[espíritu]] / [[materia]] / [[resurrección_de_los_cuerpos]]
+- [[dualismo]] / [[espíritu]] / [[materia]] / [[resurrección_de_la_carne]]
 - [[encarnación]] — «Dio si è reso uomo, follia […] scandalo»
 - [[realidad]] / [[historicidad]] / [[julián_carron]]
 - [[vida_entera]] / [[totalidad]] / [[cristo]]
@@ -28,7 +28,7 @@ tags: ["resumen", "giussani", "vida_entera", "tradición", "realidad"]
 
 ### Espíritu y materia
 
-El dualismo *ético* (bien/mal, espíritu/carne) es absurdo: «ontológicamente, la carne es el instrumento para hacer presente el espíritu». «Dio si è reso uomo, follia per i filosofi e bestemmia, scandalo per i moralisti» (*1Cor* 1,23) ([[encarnación]], [[resurrección_de_los_cuerpos]]).
+El dualismo *ético* (bien/mal, espíritu/carne) es absurdo: «ontológicamente, la carne es el instrumento para hacer presente el espíritu». «Dio si è reso uomo, follia per i filosofi e bestemmia, scandalo per i moralisti» (*1Cor* 1,23) ([[encarnación]], [[resurrección_de_la_carne]]).
 
 ### «La realidad es testaduda»
 

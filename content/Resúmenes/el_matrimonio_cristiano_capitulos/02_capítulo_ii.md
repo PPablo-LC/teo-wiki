@@ -15,7 +15,7 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 - [[matrimonio]] — institución divina en la creación
 - [[matrimonio monógamo]] — forma original querida por Dios
 - [[poligamia]] — aberración introducida por la caída
-- [[pecado original]] — origen de las degeneraciones matrimoniales
+- [[pecado_original]] — origen de las degeneraciones matrimoniales
 - [[creación]] — «Creced y multiplicaos» (Gen 1,27-28)
 
 ## Contenido
@@ -27,7 +27,7 @@ sino forma originaria querida por el Creador (Gen 2,24).
 
 **Degeneraciones tras el pecado.** La poligamia y la poliandria son
 aberraciones introducidas por la caída: no pertenecen al designio original sino
-a la concupiscencia que siguió al [[pecado original]].
+a la concupiscencia que siguió al [[pecado_original]].
 
 **El matrimonio en el Antiguo Testamento.** Los patriarcas encarnan la
 historia sagrada de la familia. Junto a la revelación, Tóth recoge el aprecio

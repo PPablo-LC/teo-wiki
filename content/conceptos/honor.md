@@ -52,6 +52,10 @@ Royo Marín señala que el honor debido a Dios es la [[latría]] (culto de adora
 
 [[magnanimidad]], [[piedad]], [[religión]], [[dulía]], [[hiperdulía]], [[latría]], [[ambición]], [[gloria]], [[fama]]
 
+## Analizado en contexto cultural
+
+- [[corazon_de_amicis]] — convergencia en el honor debido al anciano, al maestro, al pobre y a la patria como acto de justicia (el padre de Nobis obliga a su hijo a pedir perdón de rodillas al carbonero); tensión porque el «respeto» de la obra se acerca más a un honor social y ceremonial —a la etiqueta burguesa del siglo XIX— que a la virtud ordenada a la magnanimidad.
+
 ## Referencias
 
 - CEC §2197–2200

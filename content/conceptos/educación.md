@@ -145,6 +145,10 @@ Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_c
 
 [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]]
 
+## Analizado en contexto cultural
+
+- [[corazon_de_amicis]] — convergencia en la educación integral del corazón (no mera instrucción), en la escuela como familia y en el maestro como padre espiritual; tensión por una educación moral-cívica sin formación en la fe, sin gracia y sin horizonte sobrenatural.
+
 ## Referencias
 
 - ConcVatII, GS §31, §60-62, §75

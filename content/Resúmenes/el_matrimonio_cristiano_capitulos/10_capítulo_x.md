@@ -12,10 +12,10 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 
 ## Conceptos básicos referenciados
 
-- [[indisolubilidad del matrimonio]] — ante las objeciones
+- [[indisolubilidad_del_matrimonio]] — ante las objeciones
 - [[divorcio]] — sus males
 - [[adulterio]] — caso difícil
-- [[bien común]] — criterio de respuesta
+- [[bien_común]] — criterio de respuesta
 
 ## Contenido
 

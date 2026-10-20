@@ -34,7 +34,7 @@ Perfeccionamientos estables de la mente y de la voluntad que ordenan los actos, 
 
 ## Relaciones doctrinales
 
-[[virtudes_teologales]], [[prudencia]], [[justicia]], [[fortaleza]], [[templanza]], [[acto humano]], [[pasiones]], [[ley_moral_natural]], [[naturaleza_y_gracia]], [[formación_del_carácter]], [[santidad]]
+[[virtudes_teologales]], [[prudencia]], [[justicia]], [[fortaleza]], [[templanza]], [[acto_humano]], [[pasiones]], [[ley_moral_natural]], [[naturaleza_y_gracia]], [[formación_del_carácter]], [[santidad]]
 
 ## Ver también
 

@@ -20,7 +20,7 @@ tags: ["resumen", "paradoxes of faith"]
 - [[trabajo]] — necesidad animal y herramienta de elevación; marca ambigua entre pena y liberación
 - [[pobres]] — siempre los tendremos; no es invitación a cerrar facultades de medicina, sino a luchar contra la pobreza
 - [[esperanza_cristiana]] — precio de liberarse de la fabricación del mundo
-- [[unidad_cristiana]] — cada esfuerzo sincero de unión es un paso real hacia la unión
+- [[ecumenismo]] — cada esfuerzo sincero de unión es un paso real hacia la unión
 
 ## Contenido
 
@@ -34,7 +34,7 @@ La [[caridad]] técnicamente organizada corre el riesgo de dejar de ser caritati
 
 No sabemos lo que sería la realización social del evangelio, pero sabemos que el cristianismo no puede encerrarse en ella. La realización social del evangelio es una cosa; la vida según el evangelio, otra. El cristiano de otros tiempos se sumergía en la contemplación del mundo para liberarse de él y elevarse a Dios; hoy debemos sumergirnos en la historia para liberarnos de ella y descansar en el seno de Dios.
 
-En la búsqueda de la [[unidad_cristiana]], cada esfuerzo sincero de unión es un paso real hacia la unión, porque aumenta la caridad, que es en sí misma un factor unificador. El apóstol fiel al evangelio se encontrará siempre entre dos líneas de adversarios: los que lo juzgan ineficaz porque no traiciona su misión, y los que ven en él un perturbador porque les da mala conciencia.
+En la búsqueda de la [[ecumenismo]], cada esfuerzo sincero de unión es un paso real hacia la unión, porque aumenta la caridad, que es en sí misma un factor unificador. El apóstol fiel al evangelio se encontrará siempre entre dos líneas de adversarios: los que lo juzgan ineficaz porque no traiciona su misión, y los que ven en él un perturbador porque les da mala conciencia.
 
 ## Mapa del archivo fuente
 

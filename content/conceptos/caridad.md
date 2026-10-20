@@ -382,6 +382,11 @@ Elementos centrales en REG:
 - **La caridad como respuesta al «otro»**: el prójimo no es un caso de
   estudio sino una persona cuyo destino interpela; amar es reconocer a cada
   uno en su relación con Dios (01).
+
+## Analizado en contexto cultural
+
+- [[corazon_de_amicis]] — convergencia en la caridad concreta con el pobre, el enfermo y el que sufre (la limosna como testimonio, la dignidad del pobre que da); tensión por una caridad asistencial y conmovedora que no alcanza la exigencia de justicia social ni el fundamento sobrenatural del amor.
+
 ## Referencias
 
 - CEC §1822-1829

@@ -12,9 +12,9 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 
 ## Conceptos básicos referenciados
 
-- [[matrimonio]] · [[sacramento del matrimonio]] — síntesis
-- [[indisolubilidad del matrimonio]] · [[divorcio]]
-- [[familia]] · [[célula de la sociedad]] · [[bien común]]
+- [[matrimonio]] · [[sacramento_del_matrimonio]] — síntesis
+- [[indisolubilidad_del_matrimonio]] · [[divorcio]]
+- [[familia]] · [[célula de la sociedad]] · [[bien_común]]
 - [[ideal cristiano]] · [[segunda arca de noé]] · [[iglesia]]
 
 ## Contenido

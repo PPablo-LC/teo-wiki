@@ -43,7 +43,7 @@ La tradición tomista distingue los bienes particulares —deseados por algo má
 - Fundamenta el [[desprendimiento]]: nada creado puede retenerse si compite con el fin último
 - Ordena el [[sufrimiento_cristiano]] dentro de una vida virtuosa
 - Culmina en la [[visión_beatífica]], posesión plena del Bien supremo
-- Se alcanza por gracia, no por mero esfuerzo natural ([[conversión_cristiana]])
+- Se alcanza por gracia, no por mero esfuerzo natural ([[conversión]])
 
 ## Ver también
 

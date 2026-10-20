@@ -32,7 +32,7 @@ El Concilio de Nicea I (325) define que el Hijo es «Dios de Dios, Luz de Luz, D
 
 ## Ver también
 
-[[sabelianismo]], [[modalismo]], [[teología_trinitaria]], [[herejía]], [[consubstancialidad]], [[nicea_i]], [[tertuliano]]
+[[sabelianismo]], [[modalismo]], [[teología_trinitaria]], [[herejía]], [[consubstancialidad]], [[concilio_de_nicea_i]], [[tertuliano]]
 
 ## Referencias
 

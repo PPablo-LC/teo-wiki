@@ -20,7 +20,7 @@ Adhesión **libre, plena y firme** del entendimiento y de la voluntad a la verda
 - **Estructura del acto**: el acto de fe implica (a) la **gracia** — la fe es don (Ef 2,8; «nadie puede decir: Jesús es Señor, sino por el Espíritu Santo», 1 Cor 12,3); (b) la **razón** — la credibilidad de la revelación (milagros, profecías, la Iglesia) prepara el acto sin imponerlo (CEC §156: los motivos de credibilidad); (c) la **voluntad** — el movimiento de confianza con que la voluntad asiente; fe y razón se cooperan ([[fe_y_razón]]).
 - **Fe personal y fe eclesial**: el acto de fe personal se nutre de la fe de la Iglesia: «nada es más propio de la fe que creer en la Iglesia» («Nihil tam digne fide quam eiusdem credere fide»); el creyente no cree aislado sino dentro del Credo, con el «nosotros» de la comunidad de los creyentes (CEC §166-169).
 - **El «eccomi»**: el acto de fe culmina en la entrega: Abrahán «creyó al Señor» y partió (Gen 15,6; 12,4); María: «hágase en mí según tu palabra» (Lc 1,38); la fe no es simple opinión sino adhesión que ordena toda la existencia («obediencia de la fe», Rom 1,5).
-- **Dinámica vital**: la fe viva se desarrolla: se purifica de la fe «mañana» y de la superstición, crece por la oración y los sacramentos, se prueba en la oscuridad (la noche de la fe: [[noche oscura]]), y culmina en la visión beatífica («la fe de la Iglesia terrestre asume la forma de la visión», CEC §164).
+- **Dinámica vital**: la fe viva se desarrolla: se purifica de la fe «mañana» y de la superstición, crece por la oración y los sacramentos, se prueba en la oscuridad (la noche de la fe: [[noche_oscura]]), y culmina en la visión beatífica («la fe de la Iglesia terrestre asume la forma de la visión», CEC §164).
 
 ## Distinciones importantes
 

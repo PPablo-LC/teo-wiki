@@ -17,7 +17,7 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "pueblo_de_dios", "fieles", "
 - [[derechos_deberes_fieles]] — Conjunto de derechos y deberes que nacen del Bautismo
 - [[igualdad_radical]] — Todos los fieles son iguales en dignidad y derechos
 - [[variedad]] — Diversidad de estados de vida y vocaciones
-- [[jerarquía]] — Constitución de la Iglesia con Obispos, presbíteros y diáconos
+- [[jerarquía_eclesiástica]] — Constitución de la Iglesia con Obispos, presbíteros y diáconos
 - [[comunión]] — Unión con Cristo y la Iglesia a través de fe, sacramentos y jerarquía
 - [[ministros_sagrados]] — Clérigos que han recibido el sacramento del Orden
 - [[laicos]] — Fieles que no son clérigos ni religiosos

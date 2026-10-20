@@ -13,8 +13,8 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 ## Conceptos básicos referenciados
 
 - [[divorcio]] — historia y expansión
-- [[indisolubilidad del matrimonio]] — la defensa cristiana
-- [[bien común]] — sobre los intereses individuales
+- [[indisolubilidad_del_matrimonio]] — la defensa cristiana
+- [[bien_común]] — sobre los intereses individuales
 - Augusto y las leyes matrimoniales — fracaso estatal
 
 ## Contenido

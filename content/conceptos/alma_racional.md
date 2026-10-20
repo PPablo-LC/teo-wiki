@@ -31,11 +31,11 @@ Principio vital, **espiritual e inmaterial** del hombre, creado directamente por
 
 ## Relaciones doctrinales
 
-[[alma]], [[alma_espiritual]], [[antropología]], [[creación]], [[imagen_de_dios]], [[inmortalidad]], [[resurrección_de_los_cuerpos]], [[libertad]], [[dignidad_humana]], [[capax_dei]], [[teología_del_cuerpo]]
+[[alma]], [[alma_espiritual]], [[antropología]], [[creación]], [[imagen_de_dios]], [[inmortalidad]], [[resurrección_de_la_carne]], [[libertad]], [[dignidad_humana]], [[capax_dei]], [[teología_del_cuerpo]]
 
 ## Ver también
 
-[[alma]], [[alma_espiritual]], [[creación]], [[imagen_de_dios]], [[inmortalidad]], [[resurrección_de_los_cuerpos]], [[libertad]], [[dignidad_humana]], [[teología_del_cuerpo]]
+[[alma]], [[alma_espiritual]], [[creación]], [[imagen_de_dios]], [[inmortalidad]], [[resurrección_de_la_carne]], [[libertad]], [[dignidad_humana]], [[teología_del_cuerpo]]
 
 ## Referencias
 

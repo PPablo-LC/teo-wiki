@@ -18,7 +18,7 @@ tags: ["resumen", "ensayo-instituyo-a-los-doce"]
 - [[misión_misionera]] — envío a predicar, expulsar demonios y curar enfermos
 - [[discurso_misionero_mateo_10]] — uno de los cinco discursos del Reino en el Evangelio de Mateo
 - [[gran_comisión_mateo_28]] — envío misionero a todos los pueblos tras la resurrección
-- [[mandamiento_nuevo]] — amor mutuo entre los discípulos como signo del Reino
+- [[mandamiento_del_amor]] — amor mutuo entre los discípulos como signo del Reino
 - [[diakonía]] — servicio al estilo de Cristo como dimensión constitutiva de la comunidad
 - [[kerygma]] — anuncio central de la muerte y resurrección de Cristo
 - [[discernimiento_espiritual]] — docilidad al Espíritu Santo como rasgo distintivo de las primeras comunidades

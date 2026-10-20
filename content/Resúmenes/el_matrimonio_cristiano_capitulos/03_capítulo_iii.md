@@ -13,8 +13,8 @@ tags: ["resumen", "el matrimonio cristiano toth"]
 ## Conceptos básicos referenciados
 
 - [[matrimonio]] — restituido y elevado por Cristo
-- [[sacramento del matrimonio]] — elevación del matrimonio natural
-- [[indisolubilidad del matrimonio]] — ley básica de la esencia matrimonial
+- [[sacramento_del_matrimonio]] — elevación del matrimonio natural
+- [[indisolubilidad_del_matrimonio]] — ley básica de la esencia matrimonial
 - [[cristo]] · [[iglesia]] — restituidor y defensora
 
 ## Contenido
