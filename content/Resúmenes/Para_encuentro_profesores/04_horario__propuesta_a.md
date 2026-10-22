@@ -69,7 +69,7 @@ El documento enseña que el Encuentro "integra los cinco elementos de la vida de
 
 ### Bloque 3: Discernimiento Apostólico — Las Decisiones
 
-"A través de los acontecimientos, Dios mismo nos habla y nos llama a colaborar con él." El [[discernimiento_apostólico]] busca responder: "¿Dónde está haciendo crecer Dios su Reino y cómo nos corresponde colaborar?" Todo apostolado cristiano comienza por la [[conversión personal]].
+"A través de los acontecimientos, Dios mismo nos habla y nos llama a colaborar con él." El [[discernimiento_apostólico]] busca responder: "¿Dónde está haciendo crecer Dios su Reino y cómo nos corresponde colaborar?" Todo apostolado cristiano comienza por la [[conversión_personal]].
 
 **Exposición del padre (30 min):**
 - Leer los signos de los tiempos a la luz del [[evangelio]] (*Gaudium et Spes* 4 y 11).

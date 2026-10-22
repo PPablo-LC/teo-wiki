@@ -16,7 +16,7 @@ tags: ["resumen", "para encuentro profesores"]
 - [[oración_contemplativa]]
 - [[lectio_divina]]
 - [[discernimiento_apostólico]]
-- [[Conversión personal]]
+- [[conversión_personal|Conversión personal]]
 - [[misa]]
 - [[santidad]]
 
@@ -58,7 +58,7 @@ La Propuesta A se titula *Lectura Orante · Compromisos de Vida Cristiana · Dis
 
 ### Bloque 3: Discernimiento Apostólico — Las Decisiones
 
-**Fundamento del documento:** "A través de los acontecimientos, Dios mismo nos habla y nos llama a colaborar con él." El [[discernimiento_apostólico]] busca responder: "¿Dónde está haciendo crecer Dios su Reino en el ambiente donde nos toca vivir, cómo nos corresponde colaborar?" El actuar no es activismo sino correspondencia amorosa: "todo apostolado cristiano comienza por la [[conversión personal]]." Los compromisos que nazcan aquí se ofrecen al Padre en la [[misa]].
+**Fundamento del documento:** "A través de los acontecimientos, Dios mismo nos habla y nos llama a colaborar con él." El [[discernimiento_apostólico]] busca responder: "¿Dónde está haciendo crecer Dios su Reino en el ambiente donde nos toca vivir, cómo nos corresponde colaborar?" El actuar no es activismo sino correspondencia amorosa: "todo apostolado cristiano comienza por la [[conversión_personal]]." Los compromisos que nazcan aquí se ofrecen al Padre en la [[misa]].
 
 **Exposición del padre (30 min):**
 - Leer los signos de los tiempos a la luz del [[evangelio]]: *Gaudium et Spes* 4 y 11.

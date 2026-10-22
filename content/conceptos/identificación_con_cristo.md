@@ -97,7 +97,7 @@ En *Attraverso la compagnia dei credenti* (TACDC), Giussani indica que la noveda
 - [[encuentro_con_dios]] — la categoría antropológica del encuentro
 - [[gracia]] — la identificación es don, no conquista
 - [[conversión]] — el giro que sigue al ser llamado por el nombre
-- [[zacqueo]] — paradigma evangélico de la identificación
+- [[zaqueo]] — paradigma evangélico de la identificación
 - [[madre_teresa_de_calcuta]] — testigo de la simplicidad de la respuesta
 - [[kierkegaard]] — «lo importante: haber visto una vez algo...»
 - [[pascua]] — fundamento objetivo: «Mi has liberado»
@@ -109,7 +109,7 @@ En *Attraverso la compagnia dei credenti* (TACDC), Giussani indica que la noveda
 ## Ver también
 
 - [[encuentro_con_dios]] [[gracia]] [[conversión]] [[pascua]]
-- [[zacqueo]] [[madre_teresa_de_calcuta]] [[kierkegaard]]
+- [[zaqueo]] [[madre_teresa_de_calcuta]] [[kierkegaard]]
 
 ## Referencias
 

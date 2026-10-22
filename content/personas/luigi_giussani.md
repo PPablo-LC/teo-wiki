@@ -8,11 +8,11 @@ tags:
   - movimiento_eclesial
   - comunión_y_liberación
   - sentido_religioso
-timestamp: 2026-10-02
+timestamp: 2026-10-22
 ---
 
 > Área: Personas / Teología fundamental
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-22
 
 # Luigi Giussani
 
@@ -79,6 +79,72 @@ Giussani en un discurso dirigido a una asamblea de políticos democristianos reu
 en Assago. Y además: hacía falta más sociedad y las “obras”, relacionadas entre sí
 como en una compañía, debían cualificar la política como respuesta concreta y
 creativa a las necesidades» (03, 13).
+
+### Breve catechesi sul matrimonio (BCS)
+
+Giussani escribió la prefazione de *Breve catechesi sul matrimonio*
+([[breve_catechesi_sul_matrimonio]]) de Sicari y dialogó con él en la «Conversazione sul matrimonio» final,
+que recoge su reflexión sobre la vocación conyugal.
+
+**La prefazione.** La pregunta con la que abre es: «¿qué implica existencialmente
+—como conciencia— el hecho de que una mujer y un hombre quieran que su
+matrimonio sea «bendecido» por Cristo y se convierta por ello en Sacramento?».
+La respuesta es que la unidad de sus personas se entiende y se vive en
+función del Reino de Dios y, por tanto, de la gloria de Cristo.
+
+De ahí extrae la fórmula paulina que resume toda la vida de fe: «In Cristo
+Gesù». Y de ella extrae la tesis central sobre la virginidad: la palabra
+*virginidad* es «la primera palabra que debería pronunciarse después de la
+palabra fe», porque la fe de cualquiera se repliega si no se vive en una
+dimensión de virginidad.
+
+La frase que condensa su tesis es: «La virginidad no es una renuncia al
+mundo hecha en nombre de Cristo, es elegir Cristo por el mundo». Y cada una
+de las dos flexiones de la única vocación cristiana —virginidad o
+matrimonio— tiene el mismo fin, la gloria de Cristo en el mundo, y la misma
+ley última, el amor a Cristo.
+
+**La «Conversazione sul matrimonio».** El diálogo con Sicari recorre seis
+temas: la unicidad de la vocación cristiana, el matrimonio como «primera»
+realidad que deviene signo y sacramento, el misterio de la unidad y de la
+diferencia sexual a la luz de la Trinidad, la familia misionera
+frente a la familia-nascondiglio, la oración doméstica y el perdón.
+
+- **Una sola vocación.** «Las vocaciones no son tres, al contrario, la
+  vocación es una sola, la cristiana, con dos flexiones distintas»
+  ([[vocación]], [[virginidad_consagrada]], [[sacramento_del_matrimonio]]).
+- **El matrimonio como signo.** En el designio de Dios el matrimonio es la
+  «primera» realidad: custodia la evidencia de la unidad y de la pasión por
+  el otro; pero cuando Cristo viene, esa realidad primera se vuelve segunda,
+  se vuelve signo y sacramento. Por eso es la virginidad la que ilumina la
+  verdad del matrimonio ([[sacramento_del_matrimonio]], [[signo]]).
+- **La familia misionera.** Una familia es «misionera» cuando mira
+  el horizonte abierto por Cristo, cuando su unidad implica «todas las
+  familias del mundo» y cuando se siente responsable de la misión
+  hacia los vecinos: «Una familia que no sienta un llamado hacia quien vive más
+  cerca de ella no es verdaderamente misionera» ([[familia_misión]],
+  [[familia_nascondiglio]], [[pertenencia]]).
+- **El perdón.** «Perdonar quiere decir devolver la posibilidad de vivir,
+  devolver el destino, devolver la verdad de la relación». En el perdón
+  ocurre un milagro: el mal se convierte en bien, porque exige amar más
+  ([[perdón]], [[amor_conyugal]]).
+- **La castidad prematrimonial.** La preparación al matrimonio no es una
+  etapa provisional: es el tiempo en que la pareja aprende a donarse a sí
+  antes de recibir la licencia del sacramento ([[castidad_prematrimonial]]).
+- **El test de la conversión.** La pareja cristiana se reconoce convertida
+  cuando en su vida ya no existe «la objeción» y, por tanto, la costumbre no
+  desgasta; y cuando su amor se pone en relación con la Iglesia, con una tensión
+  «comunal» y «misionaria» ([[conversión]], [[memores_domini]]).
+
+## Breve catechesi sul matrimonio (BCS)
+
+En la misma conversación, Giussani resume el carisma de la virginidad
+cristiana tomada del Antiguo Testamento:
+
+> «Quien vive la virginidad cristiana como estado de vida es como un índice
+> señalizado, en la comunidad, para decir a todos: ¡recordemos quién
+> somos!»
+
 
 ## Ver también
 

@@ -1,168 +1,53 @@
 ---
 type: Concepto Teológico
-title: Redención
-tags: ["dogmática", "soteriología"]
-
-timestamp: 2026-10-19
-description: "La Redención es la obra por la cual Jesucristo, el Hijo de Dios hecho hombre, nos libera del pecado y de la muerte mediante su sacrificio en la cruz, reconcilia al hombre con Dios."
+title: "Redención"
+description: "Liberación de la humanidad del pecado y de la muerte por la pasión, muerte y resurrección de Jesucristo."
+tags: ["soteriología", "cristología", "pasión", "gracia"]
+timestamp: 2026-10-20
 ---
 # Redención
 
-> Área: Dogmática / Soteriología
-> Última actualización: 2026-10-19
+> Área: Soteriología / Cristología
+> Última actualización: 2026-10-20
 
 ## Definición
 
-La Redención es la obra por la cual Jesucristo, el Hijo de Dios hecho hombre, nos libera del pecado y de la muerte mediante su sacrificio en la cruz, reconcilia al hombre con Dios, y nos merece la vida eterna. Es el misterio central de la economía de la salvación, cumplido «de una vez por todas» en el Misterio Pascual (CEC §599-623).
+La **redención** (*redemptio*) es la obra por la cual Jesucristo, con su pasión, muerte y resurrección, nos ha liberado del pecado, del poder del diablo y de la muerte eterna, restaurando nuestra filiación divina y abriéndonos de nuevo el acceso al Padre. Cristo es nuestro Redentor y único Mediador.
 
 ## Desarrollo doctrinal
 
-La muerte redentora de Cristo no fue fruto del azar sino del determinado designio de Dios Padre, que entregó a su Hijo por amor. Cristo se ofreció libremente al Padre por nuestros pecados, en obediencia hasta la muerte. Su sacrificio es único, definitivo y de valor infinito. Nos rescata de la esclavitud del pecado, nos reconcilia con Dios y nos merece la justificación. La Resurrección es la consumación de esta obra redentora.
+El hombre, por el pecado original y los pecados personales, se encontraba esclavizado al pecado y condenado a la muerte (Rm 5,12-21; 6,6-11, 23). Dios, movido por su misericordia, quiso redimirnos (Tt 2,11-14; 3,3-7; 1 Jn 2,2; 4,9-10). El Verbo se hizo hombre para reparar lo que Adán había destruido (Rm 5,18-19; 1 Cor 15,21-22, 45-49).
+
+La redención es a la vez justicia y misericordia: Cristo, inocente, pagó el precio de nuestros pecados (1 Cor 6,20; 7,23; 1 P 1,18-19; Gal 3,13-14). Su sacrificio en la Cruz es el sacrificio perfecto, único y suficiente, que se hace presente en la Eucaristía. Mediante el bautismo somos incorporados a Cristo Redentor y participamos de los frutos de su redención.
+
+San Anselmo (*Cur Deus Homo*), Santo Tomás y toda la tradición han desarrollado la doctrina de la satisfacción vicaria, entendida siempre en el marco del amor gratuito de Dios.
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Según el Catecismo de la Iglesia Católica
+El CEC (§§601-618) explica que Cristo «se entregó por nuestros pecados» (Gal 1,4), que su pasión es el precio de nuestra redención y que «Dios no ha querido salvarnos sin nosotros». Destaca que la redención es universal: «Cristo murió por todos» (2 Cor 5,14-15), aunque no todos se salvan por su propia culpa.
 
-**El designio divino de salvación** (§599-605): Dios tiene la iniciativa del amor redentor universal. «En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que él nos amó y nos envió a su Hijo como propiciación por nuestros pecados» (§604). Cristo ha muerto por todos los hombres sin excepción (§605).
+### Según San Pablo
+Pablo desarrolla magistralmente la teología de la redención: «Cristo nos redimió de la maldición de la ley, hecho maldición por nosotros» (Gal 3,13); «siendo ricos, se hizo pobre por vosotros, para que vosotros os enriquecieseis con su pobreza» (2 Cor 8,9); «Dios estaba en Cristo reconciliando el mundo consigo» (2 Cor 5,19).
 
-**El sacrificio único y definitivo** (§613-617): La muerte de Cristo es el sacrificio pascual y el sacrificio de la Nueva Alianza. Por su obediencia, Jesús reemplaza nuestra desobediencia (§615).
+## Distinciones importantes
 
-**Nuestra participación** (§618): Cristo asocia a su sacrificio redentor a los que son sus primeros beneficiarios. «No hay otra escala del paraíso fuera de la Cruz» (Santa Teresa de Jesús).
+- **Redención vs. liberación meramente política:** La redención es ante todo liberación del pecado y de la muerte, aunque incluye también el deseo de justicia en este mundo.
+- **Vicaria vs. sustitución mecánica:** Cristo se ofrece en nuestra lugar por amor, no como víctima forzada, sino como sumo sacerdote que se ofrece voluntariamente (Jn 10,11, 14-18; Hb 9,11-28).
+- **Universal vs. efectiva:** La redención es universal en su valor y en la intención salvífica de Cristo, pero sus frutos se aplican a quien cree y se une a Él.
+- **Ya vs. todavía no:** Ya hemos sido redimidos (Tt 2,14; Rm 3,24), pero esperamos la redención plena de nuestro cuerpo (Rm 8,18-23).
 
-### Según la Dives in Misericordia (DM)
+## Relaciones doctrinales
 
-La redención es presentada como revelación de la misericordia en su plenitud. «La dimensión divina de la redención» consiste en que «la justicia divina, revelada en la cruz de Cristo, es "a medida" de Dios, porque nace del amor y se completa en el amor, generando frutos de salvación» [DM §7]. La redención «no se actúa solamente haciendo justicia del pecado, sino restituyendo al amor su fuerza creadora en el interior del hombre, gracias a la cual él tiene acceso de nuevo a la plenitud de vida y de santidad, que viene de Dios» [DM §7].
-
-El misterio pascual es «el culmen de esta revelación y actuación de la misericordia, que es capaz de justificar al hombre, de restablecer la justicia en el sentido del orden salvífico querido por Dios desde el principio para el hombre» [DM §7]. La muerte de Cristo es «sobreabundancia de la justicia», porque los pecados del hombre son «compensados» por el sacrificio del Hombre-Dios [DM §7].
-
-### Según la Summa Theologiae (SmTh)
-
-**IIIª q.1 a.2 — Necesidad de la Encarnación para la redención:** No fue absolutamente necesaria (Dios omnipotente pudo redimir de otro modo), pero fue sumamente conveniente. La Encarnación redentora satisface más plenamente: da satisfacción por el pecado proporcionada a la ofensa (Dios mismo satisface como hombre), eleva al hombre a un bien mayor que el perdido, manifiesta la misericordia y la justicia divinas, y quita toda desesperación. La sangre de Cristo, por ser de la Persona del Verbo, tiene valor infinito.
-
-**IIIª q.1 a.3 — Motivo principal:** La Encarnación fue ordenada principalmente a redimir al hombre del pecado, según el testimonio de la Escritura («el Hijo del hombre vino a buscar y salvar lo que se había perdido», Lc 19,10). Si el hombre no hubiera pecado, el Hijo no se habría encarnado.
-
-**IIIª q.48 a.1 (Mérito de la pasión):** Cristo, como cabeza de la Iglesia, mereció con su pasión la salvación para todos sus miembros (q.48 a.1 in corpore).
-
-**IIIª q.48 a.2 (Satisfacción):** Cristo ofreció una satisfacción suficiente y superabundante por todos los pecados del mundo, fundada en la grandeza de su caridad, la dignidad de su vida divino-humana y la universalidad de su pasión (q.48 a.2 in corpore).
-
-**IIIª q.48 a.4 (Redención propiamente dicha):** El hombre estaba encadenado por doble esclavitud: la del pecado (Jn 8,34) y la del reato de la pena. La pasión de Cristo fue satisfacción suficiente y superabundante que sirvió como precio de liberación de ambas. Cristo no pagó precio al diablo sino a Dios, pues la redención se debía a Dios, no al diablo. La satisfacción que alguien ofrece se llama precio con que se redime del pecado (Dan 4,24). El hombre, por el pecado, había ofendido a Dios y se había sometido al diablo; por la pasión, Cristo satisfizo a Dios, y en cuanto al diablo, fue justo que perdiese su dominio porque había excedido su poder al matar a Cristo inocente (q.48 a.4 in corpore et ad 2).
-
-**IIIª q.48 a.5 (Instrumentalidad de la humanidad de Cristo en la redención):** Ser redentor inmediato es propio de Cristo en cuanto hombre. Para redimir se requieren dos cosas: el acto de la redención y el pago del precio. Ambos pertenecen inmediatamente a Cristo en cuanto hombre; a toda la Trinidad como causa primera y remota (q.48 a.5 in corpore). Los sufrimientos de los santos son provechosos a modo de exhortación y ejemplo, no de redención (q.48 a.5 ad 3).
-
-**IIIª q.48 a.6 (Eficiencia instrumental):** La humanidad de Cristo es instrumento de la divinidad. Por eso todas sus acciones y sufrimientos obran instrumentalmente la salvación humana en virtud de la divinidad. La pasión de Cristo, aunque corporal, tiene poder espiritual por su unión con la divinidad, y alcanza eficacia por contacto espiritual: la fe y los sacramentos (q.48 a.6 in corpore et ad 2).
-
-**IIIª q.6 a.4 — Predestinación de Cristo:** Cristo fue predestinado para ser Hijo de Dios y para ser redentor del género humano. Su predestinación es la misma que la nuestra en cuanto a la gracia, pero diversa en cuanto al término (Él es el predestinado por excelencia).
-
-**IIIª q.49 — Efectos de la pasión**
-
-**q.49 a.1 (Liberación del pecado):** La pasión causa la remisión de los pecados de tres modos: 1) excitando a la caridad («Dios prueba su amor en que, siendo aún pecadores, Cristo murió por nosotros»); 2) por vía de redención, como cabeza respecto a los miembros — la Iglesia entera se considera una sola persona con su cabeza, como si un hombre se redimiese con la obra meritoria de sus manos de un pecado cometido con los pies; 3) por vía de eficiencia instrumental, pues la carne de Cristo es instrumento de la divinidad. Es causa universal que libró causalmente de todo género de pecados pasados, presentes y futuros, como el médico que prepara medicina para cualquier enfermedad; se aplica a cada uno mediante bautismo, penitencia y sacramentos (ad 3-4). Ad 5: la fe que nos purifica no es la fe informe, que puede coexistir con el pecado, sino la fe informada por la caridad, para que la pasión se aplique no solo en cuanto al entendimiento, sino también en cuanto a la voluntad (q.49 a.1 in corpore et ad 3-5).
-
-**q.49 a.2 (Liberación del poder del diablo):** Tres cosas precedían al poder del demonio: el merecimiento del hombre por su pecado, la justicia divina que lo abandonó, y la malicia del diablo que impedía la salvación. La pasión libró de las tres: remitiendo los pecados, reconciliando con Dios, y porque el diablo excedió el límite de su poder maquinando la muerte de Cristo, que no la merecía — vencido por la justicia, es justo que los deudores que retenía queden libres (Agustín, XIII De Trin.). El remedio permanece siempre disponible, aun en los tiempos del Anticristo; antes de la pasión, en cambio, nadie podía eludir la caída al infierno (q.49 a.2 in corpore et ad 2-3).
-
-**q.49 a.3 (Liberación de la pena):** Directamente, como satisfacción suficiente y superabundante, con la que desaparece el reato de la pena; indirectamente, como causa de la remisión del pecado en el que se asienta el reato. Los condenados en el infierno no perciben su efecto, por no estar unidos a la pasión por fe y caridad. Los bautizados quedan libres de toda pena satisfactoria, configurados con Cristo por el bautismo; pero como Cristo murió una sola vez, quienes pecan después se configuran con él mediante penalidades, suficientes por la cooperación de su satisfacción (q.49 a.3 in corpore et ad 1-3).
-
-**q.49 a.4 (Reconciliación con Dios):** De dos modos: quitando el pecado, por el que los hombres se constituyen enemigos de Dios; y como sacrificio gratísimo, cuyo efecto propio es aplacar a Dios. Dios no comenzó a amarnos de nuevo («con amor eterno te he amado»), sino que fue suprimida la causa del odio: el pecado fue purificado y compensado por un bien más aceptable. La caridad de Cristo paciente fue mayor que la iniquidad de sus matadores, de modo que la pasión tuvo más poder para reconciliar que para provocar la ira (q.49 a.4 in corpore et ad 1-3).
-
-**q.49 a.5 (Apertura del cielo):** El pecado que impedía la entrada era doble: el común (pecado original, figurado por el querubín con espada de llama) y el personal de cada uno. Por la pasión fuimos librados del primero pagando el precio, y del segundo participando de la pasión por fe, caridad y sacramentos; figurado en la ciudad de refugio: el homicida era libre tras la muerte del sumo sacerdote ungido (Núm 35). Los santos padres merecieron la entrada por la fe en la pasión, pero ni su fe ni su justicia bastaban para quitar el obstáculo del reato de toda la naturaleza. Ad 2: Elías fue arrebatado al cielo aéreo, no al empíreo (lugar de los bienaventurados); Enoc al paraíso terrenal. Ad 3: los cielos se abrieron en el bautismo de Cristo no para él, sino para los bautizados, que reciben la eficacia de su pasión. Ad 4: la pasión mereció la entrada y apartó el obstáculo; la ascensión nos puso en posesión del reino (q.49 a.5 in corpore et ad 1-4).
-
-**q.49 a.6 (Exaltación de Cristo):** Cristo se humilló por debajo de su dignidad en cuatro campos: 1) la pasión y muerte, de las que no era deudor; 2) el lugar — cuerpo en el sepulcro y alma en el infierno; 3) la confusión y las injurias soportadas; 4) la entrega a los poderes humanos («no tendrías poder sobre mí si no te hubiera sido dado de lo alto»). Y mereció la exaltación en cuatro campos correspondientes: 1) la resurrección gloriosa; 2) la ascensión al cielo; 3) sentarse a la derecha del Padre y la manifestación de su divinidad («le dio el nombre sobre todo nombre»); 4) la potestad de juzgar. Ad 2: por los primeros merecimientos mereció la exaltación por parte del alma, cuya voluntad estaba informada por la caridad; por la pasión la mereció también por parte del cuerpo, sometido a la pasión por caridad. Ad 3: por disposición divina, la gloria del alma de Cristo antes de la pasión no redundaba en su cuerpo, para que lo mereciese de modo más honroso por la pasión (q.49 a.6 in corpore et ad 1-3).
-
-### Según la Vida de Jesús (VJ)
-
-La Vida de Jesús (VJ) presenta la redención como la obra cumplida por Cristo desde Getsemaní hasta la cruz. La oración en el huerto, donde Cristo asume la condición de siervo y suda sangre, inicia el camino redentor. La condena por el Sanedrín y Pilato, la tortura y la crucifixión cumplen el Cuarto Poema del Siervo de Yahvé: Cristo es el «Varón de dolores». En la cruz, sus siete palabras revelan las dimensiones de la redención: perdón («Padre, perdónales»), promesa del paraíso al ladrón arrepentido, don de la Madre a la humanidad, solidaridad en el abandono («Dios mío, Dios mío»), sed de la humanidad nueva, cumplimiento de la voluntad del Padre («Todo está cumplido») y entrega confiada («Padre, en tus manos pongo mi espíritu»).
-
-[VJ, Cap. VI]
-
-### Según Para Salvarte (PS)
-
-Para Salvarte presenta la Redención como el rescate del género humano por la sangre de Cristo: «Por los méritos de la Redención de Jesucristo se nos perdonan todos nuestros pecados y se nos abren las puertas del cielo» (PS §33,1). Loring subraya que la ofensa del pecado, por ser contra un Dios infinito, exigía un reparador infinito, de ahí la necesidad de la Encarnación y la Redención (PS §34,1). Cristo, en cuanto Dios, da valor infinito a sus acciones; en cuanto hombre, cabeza de la humanidad, ofrece a Dios la reparación en nuestro nombre (PS §34,1). Destaca también que la aplicación de la Redención requiere la cooperación libre del hombre: «Dios que te ha creado sin ti, no te salvará sin ti» (San Agustín, citado en PS §33,1).
-
-### Según UDE (1994)
-
-Juan Pablo II presenta la obra de la Redención como elevación de la creación a un nuevo nivel. Penetrada por la santificación redentora, incluso la divinización. La fuerza destructiva del pecado es vencida. «O felix culpa quae talem ac tantum meruit habere Redemptorem.» La vida indestructible revelada en la Resurrección «devora» la muerte. «¿Dónde está, oh muerte, tu victoria?» (1 Cor 15,55) (UDE, Cap. III).
-
-### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
-
-El valor de la redención deriva de la persona que la obra: si Cristo fuera solo un hombre, no habríamos sido salvados por Dios; la vida entregada tiene su valor por estar unida a la divinidad. No era absolutamente necesaria — «podía salvarnos de otra manera y borrar el pecado con una palabra» —, pero sin la cruz no tendríamos ejemplo de morir al pecado. Beneficios de la pasión: liberación del pecado (el rescate del esclavo), conocimiento del amor de Dios, provocación de nuestra respuesta de amor. Su muerte nos libera del pecado y su resurrección de la muerte: liberación plena en la resurrección de los muertos; ambas eficaces por los sacramentos. Dios nos reconcilia *en* Cristo (2 Cor 5,19): en uno que también es hombre, pues lo que había que quitar estaba en el hombre.
-
-### Según La convenienza umana della fede (CUDF)
-
-Para Giussani la redención está ligada al encuentro: «Sólo el encuentro con Cristo,
-sólo la comunión de este encuentro, el lazo de este encuentro, puede liberar al
-hombre, “redimiendo el tiempo”, dice san Pablo con una frase hermosísima (Ef 5,16)»
-(01, 131).
-
-**Es un encuentro de una libertad suprema con una libertad creada.** «Pero recordemos
-que este encuentro es el encuentro de una libertad suprema con una libertad creada:
-es con mi libertad con la que se mide su elección» (01, 131).
-
-**Liberar el sentido del mal.** El encuentro «puede redimir el sentido de nuestro
-nada, de nuestro mal, puede volver orgánico ese centro de gravedad que es nuestro
-corazón, el corazón de la naturaleza que late en el hombre» (01, 121).
-
-## Analizado para
-
-- [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en la sanación por la sangre de Cristo (imagen de la cruz de la unidad) como aplicación de la redención objetiva a la sanación interior
-
-### Según la Redemptoris Mater (RM)
-
-[JPII, Redemptoris Mater §11, §18-19, §22, §39-40]: María coopera de modo singular en la obra de la redención. El protoevangelio (Gn 3,15) anuncia la lucha contra la serpiente y la victoria final del linaje de la Mujer, que es Cristo; María es la nueva Eva asociada a esta victoria [RM §11]. En la Cruz, María se asocia al sacrificio redentor de su Hijo: «se condolió vehementemente con su Unigénito y se asoció con corazón maternal a su sacrificio, consintiendo con amor en la inmolación de la víctima engendrada por Ella misma» [RM §18, citando LG §58]. Su participación en la redención es única: «Cooperó por la fe y la obediencia a la generación de los hijos de Dios en la economía de la gracia» [RM §22, citando LG §62]. La maternidad de María en el orden de la gracia brota de su participación en el amor redentor del Hijo [RM §39-40].
-
-### Según Don y Misterio (DyM)
-
-Juan Pablo II relaciona la **redención** con su propia vocación sacerdotal: «la Cruz de Cristo ha sido siempre mi punto de referencia. Diría más: el centro de mi vida sacerdotal» [DyM, VIII]. La Eucaristía renueva el sacrificio redentor de Cristo. El sacerdote, al celebrarla, se sumerge en el [[mysterium_fidei]] —el misterio pascual de Cristo—, quedando envuelto por el poder del Espíritu Santo [DyM, VIII].
-
-### Según Memoria e Identidad (MI)
-
-La Redención es presentada como «el límite divino impuesto al mal»: «Quien puede poner un límite definitivo al mal es Dios mismo. Él es la Justicia misma» [MI, cap. 4]. El Concilio Vaticano II enseñó en *Gaudium et spes* que «el hombre se encuentra hasta tal punto incapaz de vencer eficazmente por sí mismo los ataques del mal, que cada uno se siente como atado con cadenas. Pero el mismo Señor vino para liberar y fortalecer al hombre» [MI, cap. 4, citando GS §13].
-
-La Resurrección es la confirmación de que «el bien instaurado por Dios en la historia del hombre mediante el misterio de la Redención es capaz de satisfacer plenamente la verdad del ser humano» [MI, cap. 5]. El misterio pascual se convierte en «la medida definitiva de la existencia del hombre en el mundo creado por Dios» [MI, cap. 5].
-
-La Redención concede al hombre «la victoria de Cristo sobre el mal, no sólo como un beneficio personal, sino también como tarea» [MI, cap. 6]. El hombre la asume emprendiendo el camino de la vida interior —vía purificativa, iluminativa y unitiva—, siguiendo el «sígueme» de Cristo [MI, cap. 6].
-
-### Según la *Redemptor Hominis* (RH)
-
-Cristo, Redentor del hombre, es «el centro del cosmos y de la historia» [RH §1]. La redención es creación renovada: en Jesucristo «el mundo visible, creado por Dios para el hombre [...] adquiere nuevamente el vínculo original con la misma fuente divina de la Sabiduría y del Amor» [RH §8]. Cristo, el nuevo Adán, «manifiesta plenamente al propio hombre y le descubre la sublimidad de su vocación» [RH §8, citando GS 22].
-
-La redención tiene una dimensión divina y otra humana. En su dimensión divina, «la redención del mundo —ese misterio tremendo del amor, en el que la creación es renovada— es en su raíz más profunda la plenitud de la justicia en un Corazón humano: en el Corazón del Hijo Primogénito» [RH §9]. La Cruz manifiesta la eterna paternidad de Dios y su amor, que «es siempre más grande que todo lo creado» porque «Dios es amor» [RH §9]. En su dimensión humana, «Cristo Redentor revela plenamente el hombre al mismo hombre» [RH §10]. El hombre debe «entrar en Él con todo su ser, debe "apropiarse" y asimilar toda la realidad de la Encarnación y de la Redención para encontrarse a sí mismo» [RH §10]. La Redención, cumplida en el misterio pascual, «ha vuelto a dar definitivamente al hombre la dignidad y el sentido de su existencia en el mundo» [RH §10].
-
-Cristo, mediante la encarnación, «se ha unido en cierto modo a todo hombre» [RH §13, citando GS 22]. La Eucaristía, en la que la Iglesia participa de la fuerza de la acción redentora, es «el centro y el vértice de toda la vida sacramental, por medio de la cual cada cristiano recibe la fuerza salvífica de la Redención» [RH §20].
-
-### Según CJeS (1987-1989)
-
-Juan Pablo II desarrolla la redención como liberación del pecado y del «padre de la mentira» (el diablo). El término *lutron*/*lutrosis* designa el rescate pagado por Cristo. La redención otorga la libertad de los hijos de Dios (Rom 8,21) y la libertad en la verdad (Jn 8,32.36). El agua viva (Jn 4,10-14; 7,37-38) y el costado traspasado del que brotan sangre y agua (Jn 19,34) simbolizan los dones de la redención: los sacramentos y el Espíritu Santo. La redención culmina en la reconciliación universal en Cristo (Ef 2,14-16), que derriba el muro de la enemistad y reconcilia a todos los hombres en un solo cuerpo por la cruz. Cristo, mediante su obediencia hasta la muerte (Flp 2,8), invierte la desobediencia de Adán, constituyéndose como el [[nuevo_adán]] de la humanidad redimida. El hombre está llamado a participar en la obra redentora (Col 1,24) completando en su carne lo que falta a las tribulaciones de Cristo (CJeS, segunda parte: salvación como liberación del pecado; tercera parte: valor redentivo de la Pasión)
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La entrada «Redención» del VocTeoBib muestra la continuidad entre AT y NT: el Éxodo es la redención fundante, en la que Dios libera a su pueblo y lo constituye como propiedad suya mediante la alianza (Ex 6,6s). Los profetas anuncian una nueva redención mesiánica (Sal 130,7s). En el NT, Cristo realiza la redención con su muerte voluntaria (Mt 20,28), pagando el rescate con su sangre (1Pe 1,18s). Muerte y resurrección son dos aspectos indisociables de un único misterio (Rom 6,4.11). La redención es esencialmente un misterio de amor (Jn 3,16; 15,13): Jesús «amó hasta el fin» (Jn 13,1), y su amor obediente repara la desobediencia de Adán (Rom 5,19; Flp 2,8).
-
-### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
-
-**El sufrimiento redentor unido a la cruz (Edyta McNichol, sobre Santa Faustina).** McNichol presenta la vida de Santa Faustina como el testimonio de que el sufrimiento y el amor están «misteriosa pero inseparablemente unidos» en un mundo caído. Dios elige el sufrimiento como medio de salvación: «el Amor mismo eligió el sufrimiento como medio de salvación». La cruz es el signo seguro de que «Dios amó tanto al mundo» (Jn 3,16): «No hay camino al cielo sino el camino de la cruz. Yo lo seguí primero» (Jesús a Faustina). Ofrecer el sufrimiento a Jesús es unirse a su cruz: «cuando ofrecemos nuestro sufrimiento a Jesús, nos unimos a su sufrimiento en la cruz». La redención que el amor realiza por medio del sufrimiento se consuma en la imagen de la Divina Misericordia: los rayos rojo y azul que «brotaron de las profundidades de mi tierna misericordia cuando mi Corazón agónico fue abierto por la lanza en la Cruz». La cruz, sin embargo, no es la última palabra: la participación en la vida de Cristo es participación no solo en su muerte sino en su Resurrección [EAC-15, 05].
-
-**La redención y la justicia divina (Peter Kreeft).** Kreeft, en un relato ficcional sobre la tentación de Cristo, presenta la redención en el contexto del carácter absoluto de los mandamientos y de la justicia divina: el pecado tiene consecuencias eternas porque «Dios es justicia además de amor»; por eso Cristo tuvo que morir —«por qué Dios no podía simplemente chasquear los dedos y salvar a todos»—, pues el demonio tenía «derecho» a las almas por justicia eterna. La agonía de Getsemaní revela el sufrimiento espiritual de Cristo, mayor que el físico, al contemplar los sufrimientos de las almas: «cuanto más amamos, más podemos sufrir». Cristo, en la cruz, resuelve la tensión entre los dos grandes mandamientos: no da una respuesta, «es» la respuesta, «porque es a la vez Dios y hombre» [EAC-15, 14].
-
-**Cristo toma sobre sí el dolor humano (Robert Barron).** Barron enseña que el Misterio Pascual es la clave del sufrimiento: «el crucificado es Dios». Dios «ha tomado sobre sí todo el dolor que aqueja a la condición humana: físico, psicológico y espiritual»; «Dios entra en los lugares más oscuros que habitamos; Dios experimenta el hecho brutal del sufrimiento en todas sus dimensiones». Por eso «el dolor no tiene la última palabra»: «el amor de Dios es más poderoso que el sufrimiento, y es la misericordia divina, no el dolor, lo que es metafísicamente básico». En esto consiste nuestra salvación [EAC-15, 01].
-
-**La salvación y el Médico divino (Christopher Kaczor).** Kaczor, siguiendo a Eleonore Stump, enmarca el sufrimiento en el contexto de la salvación: si solo existiera este mundo, el sufrimiento no estaría justificado; pero si esta vida no es la única, «la posibilidad de la salvación eterna es necesaria para pensar adecuadamente sobre el sufrimiento». Los deseos del corazón y el florecimiento humano más alto «encuentran su culminación en Dios». La redención no fuerza el amor libre, pues «ni siquiera Dios puede forzar a un ser humano a amar libremente a Dios a cambio». El Médico divino usa el sufrimiento como «medicina amarga para sanar a alguien de la soledad autoimpuesta»: «A veces la única forma en que el buen Dios puede entrar en algunos corazones es rompiéndolos» (Fulton Sheen). Lo que hace cruz a una cruz «es que mata al que la lleva» (Mankowski). Los que sufren reconocerán la justificación del sufrimiento en el bien recibido [EAC-15, 16].
-
-**La semilla de trigo y la victoria sobre el mal (Gary Saul Morson).** Morson, al estudiar a Dostoievski, explica que el epígrafe de *Los hermanos Karamázov* —«si el grano de trigo no cae en tierra y muere, queda solo; pero si muere, da mucho fruto» (Jn 12,24)— enseña que hay que sufrir (morir como grano de trigo) antes de que el alma pueda ver la luz y dar fruto. El sufrimiento puede exaltar o envilecer; la elección moral fundamental es la del que, por haber sufrido, evita el sufrimiento a otros (lo cristiano) frente al resentimiento que justifica la crueldad (lo demoníaco). La doctrina del pecado original afirma que «la capacidad del mal es esencial al ser humano. Pero también lo es la capacidad del bien»: los hombres están hechos a imagen de Dios. «La verdadera prueba de quiénes somos es cómo respondemos al sufrimiento profundo» [EAC-15, 17].
-
-.
-
-- [CEC §571-623]
-- [CEC §599-605, designio divino]
-- [CEC §606-618, ofrenda y sacrificio]
-- [PS §33-34]
-- SmTh IIIª q.1 aa.1-3; q.48 aa.1-6; q.49 aa.1-6; q.6 a.4
-- [VJ, Cap. VI]
-- [EAC-15, 05 — McNichol: sufrimiento redentor unido a la cruz (Santa Faustina)]
-- [EAC-15, 14 — Kreeft: la redención y la justicia divina]
-- [EAC-15, 01 — Barron: Cristo toma sobre sí el dolor humano]
-- [EAC-15, 16 — Kaczor: la salvación y el Médico divino]
-- [EAC-15, 17 — Morson: la semilla de trigo y la victoria sobre el mal]
+Se relaciona con [[cruz_de_cristo]], [[pasión_de_cristo]], [[resurrección_de_cristo]], [[expiración_y_redención]], [[satisfacción_vicaria]], [[gracia_redentora]], [[filiación_divina]], [[salvación]].
 
 ## Ver también
 
-[[jesucristo]], [[pecado_original]], [[eucaristía]], [[bautismo]], [[gracia_santificante]], [[iglesia_cuerpo_místico]], [[jorge_loring]], [[cruz]], [[sufrimiento_redentor]]
+[[cruz_de_cristo]], [[pasión_de_cristo]], [[resurrección_de_cristo]], [[gracia]], [[salvación]]
 
 ## Referencias
+
+- Rm 3,21-26; 5,12-21; 1 Cor 15,12-22, 45-57; Gal 3,13-14; 1 P 1,17-21; 1 Jn 2,1-2; 4,9-10.
+- *Catecismo de la Iglesia Católica*, §§601-618.
+- San Anselmo, *Cur Deus Homo*.
+- Santo Tomás, *Suma Teológica*, III, qq. 46-50.

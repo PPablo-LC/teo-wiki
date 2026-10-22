@@ -68,11 +68,11 @@ El JUZGAR "es el momento en el que nos dejamos cuestionar y poner en discusión 
 
 ### Bloque 3: ACTUAR — Las Decisiones
 
-"En el momento del actuar, buscamos responder con nuestra iniciativa evangelizadora a la invitación del Señor." El compromiso apostólico es "una respuesta propositiva y creativa, evangélica y evangelizadora." No es activismo sino correspondencia amorosa. "Todo apostolado cristiano comienza por la [[conversión personal]]." Los compromisos se ofrecen en la [[misa]].
+"En el momento del actuar, buscamos responder con nuestra iniciativa evangelizadora a la invitación del Señor." El compromiso apostólico es "una respuesta propositiva y creativa, evangélica y evangelizadora." No es activismo sino correspondencia amorosa. "Todo apostolado cristiano comienza por la [[conversión_personal]]." Los compromisos se ofrecen en la [[misa]].
 
 **Exposición del padre (30 min):**
 - Del juzgar al actuar: la respuesta creativa y generosa al llamado de Cristo.
-- [[Conversión personal]] y compromiso apostólico: dos dimensiones inseparables.
+- [[conversión_personal|Conversión personal]] y compromiso apostólico: dos dimensiones inseparables.
 - ¿Cómo colaborar con Dios en su obra de hacer crecer el Reino en el IHST este año?
 - El equipo docente como comunidad apostólica.
 - Los compromisos se ofrecen en la Misa: la [[eucaristía]] es el envío final de la jornada.

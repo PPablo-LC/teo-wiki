@@ -21,7 +21,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 - [[liturgia_de_las_horas]]
 - [[conocimiento_de_la_escritura]]
 - [[gracia]]
-- [[virtudes_teorales]]
+- [[virtudes_teologales]]
 - [[dirección_espiritual]]
 - [[ejercicios_espirituales]]
 - [[piedad]]
@@ -61,7 +61,7 @@ Reconocer siempre la [[gracia]], que libera de las ataduras del pecado y conduce
 
 ### Virtudes teologales, humildad, abnegación
 
-Hacer de las [[virtudes_teorales]] fuente de la vida interior y fundamentarla en la práctica de la humildad. Por amor a Cristo, abnegarse principalmente en el ejercicio de la caridad y la obediencia, la fidelidad a la consagración y la entrega al apostolado.
+Hacer de las [[virtudes_teologales]] fuente de la vida interior y fundamentarla en la práctica de la humildad. Por amor a Cristo, abnegarse principalmente en el ejercicio de la caridad y la obediencia, la fidelidad a la consagración y la entrega al apostolado.
 
 ### Conciencia recta
 

@@ -85,14 +85,14 @@ a quien reconoce su nada (Zaqueo, 03, 61-63).
 - [[gracia]] — don que llena la nulidad
 - [[pecado]] — la nulidad moral que Cristo asume
 - [[sentido_del_destino]] — el «algo grande» que choca en la nulidad
-- [[zacqueo]] — paradigma evangélico de nulidad llamada
+- [[zaqueo]] — paradigma evangélico de nulidad llamada
 - [[conveniencia_humana_de_la_fe]] — la fe como respuesta congruente a la nulidad
 - [[luigi_giussani]] — autor de la exposición
 
 ## Ver también
 
 - [[caducidad_del_hombre]] [[identificación_con_cristo]] [[gracia]]
-- [[pecado]] [[sentido_del_destino]] [[zacqueo]]
+- [[pecado]] [[sentido_del_destino]] [[zaqueo]]
 
 ## Referencias
 
