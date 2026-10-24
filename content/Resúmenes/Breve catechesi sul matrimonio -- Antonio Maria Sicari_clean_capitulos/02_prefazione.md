@@ -1,11 +1,43 @@
 ---
 type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
+---
+type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
+---
+type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
+---
+type: ResumenFuente
 title: "Prefazione"
 fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
 capítulo: 2
 timestamp: 2026-10-22
 description: "Resumen de 'Prefazione' — Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos"
 tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capitulos"]
+---
+type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
 ---
 
 # Prefazione
@@ -34,7 +66,63 @@ Instrucciones para el agente:
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
-|-------|-------|---------|
+|---
+type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
+------
+type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
+----|---
+type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
+------
+type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
+----|---
+type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
+------
+type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
+------
+type: ResumenFuente
+title: "Breve catechesi sul matrimonio"
+fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
+capítulo: 2
+timestamp: 2026-10-22
+description: "Resumen del prefacio de Giussani a la Breve catechesi sul matrimonio"
+tags: ["resumen", "breve catechesi sul matrimonio -- antonio maria sicari clean capi"]
+---|
 | 1 | H1 | Prefazione |
 
 

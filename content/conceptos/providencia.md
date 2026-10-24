@@ -126,6 +126,24 @@ Se relaciona con la [[predestinación]] (q.23, que es la providencia respecto al
 - [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]] — convergencia en el proyecto de Dios para cada persona (cita de Benedicto XVI)
 - [[clarkson_gospels_human_suffering]] — convergencia en la permisión del mal y la confianza en Dios; aporta reflexión sobre el libro de Job y la transformación del mal en bien (Kintsugi)
 
+## Perspectivas por fuente
+
+8. Las demás fuentes
+
+### Robert Barron, *2 Samuel* (Brazos, 2015)
+
+Barron presenta la providencia divina como un tema central y sofisticado en su comentario a 2 Samuel. Su contribución clave es la forma en que Dios obra a través de la libertad humana y la moralidad, no de manera determinista o coercitiva. Puntos esenciales:
+
+1. **Dios obra por vías insospechadas**: Barron desarrolla el tema de que Dios elige y mueve dentro de la historia de Israel, actuando "noninvasivamente mediante una multitud de agentes ordinarios y secundarios". Dios no actúa como "una causa competitiva más entre muchas", sino que se relaciona con los agentes humanos de manera "no competitiva", respetando su causalidad propia.
+
+2. **La providencia a través de la depravación moral**: Un tema sorprendente en 2 Samuel es cómo Dios "acomplice lo que quiere mediante la maldad de Saúl". Barron subraya que Dios puede obtener sus propósitos a través del comportamiento pecaminoso de los seres humanos, sin ser Él mismo autor del pecado. Esto conecta con la visión bíblica de la soberanía de Dios que no anula la libertad humana sino que la sobrelleva.
+
+3. **Libertad humana y providencia**: Barron contrapone la visión moderna de la libertad como "elección soberana" (donde la providencia debe ajustarse al libre albedrío) con la visión bíblica donde la libertad es "disciplinamiento del deseo". En esta visión, Dios puede "obrar dentro de" la libertad humana sin anularla, de modo que los humanos son responsables de sus actos mientras Dios realiza sus propósitos designados.
+
+4. **Saul como instrumento providencial**: La "wickedness" (wickedness) de Saúl no es un obstáculo para los propósitos de Dios, sino el medio mediante los cuales Dios forma a David y a su pueblo. Barron cita a Servais Pinckaers: "Dios puede oblicer su providencia a través de la libre decisión del hombre".
+
+Este tratamiento de la providencia en 2 Samuel ofrece una perspectiva rica para reconciliar la soberanía de Dios con la responsabilidad humana, evitando tanto el determinismo como el arminianismo extremo.
+
 ## Ver también
 
 [[providencia_divina]], [[predestinación]], [[creación]], [[confianza_en_dios]], [[abandono_en_la_providencia_divina]], [[oración]], [[voluntad_de_dios]]

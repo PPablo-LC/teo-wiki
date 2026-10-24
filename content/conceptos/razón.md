@@ -23,6 +23,9 @@ El Concilio Vaticano I enseña que la razón humana puede conocer a Dios con cer
 
 ## Perspectivas por fuente
 
+### Según Robert Barron, *Arguing Religion* (ARGREL)
+Barron sostiene que fe y razón son mutuamente implicativas. La razón puede argumentar a favor de la existencia de Dios y de sus atributos (*teología natural*), proporcionando los *preambula fidei* que preparan la fe (*manuductio*). Sin embargo, muchas verdades reveladas trascienden la razón y exigen confianza en quien se revela (*Deus dixit*). El conocimiento de Dios por fe es como el conocimiento interpersonal: tras la investigación, se requiere confianza para conocer el corazón. Barron critica el cientificismo (reducción de todo conocimiento al científico) y el fideísmo (fe sin razón). Propone el modelo tomista de la *quaestio disputata* como paradigma para el diálogo público.
+
 ### Según el Catecismo (CEC)
 
 La razón humana, herida por el pecado, necesita la revelación y la gracia para alcanzar plenamente la verdad. Sin embargo, conserva su dignidad como facultad capaz de conocer la ley natural y de elevarse a Dios (§1954-1960). La aplicación de la ley natural varía según las circunstancias pero sus principios fundamentales son universales e inmutables.

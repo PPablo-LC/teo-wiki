@@ -31,6 +31,11 @@ Pinckaers (*Las Fuentes de la Moral Cristiana*) considera el voluntarismo de Ock
 
 Se relaciona con [[ockham]], [[nominalismo]], [[libertad_de_indiferencia]], [[moral_de_la_obligación]], [[intelectualismo]], [[santo_tomás_de_aquino]], [[ley_natural]], [[duns_escoto]]
 
+## Perspectivas por fuente
+
+### Según Robert Barron, *Arguing Religion* (ARGREL)
+Barron identifica el voluntarismo como una de las herejías más influyentes hoy. Tiene sus raíces en el voluntarismo teológico de [[duns_escoto]] y [[guillermo_de_ockham]], quienes afirmaron el poder absoluto de Dios, con la consecuencia de que las verdades morales o incluso la bondad de los actos podrían depender exclusivamente de la voluntad divina. En la cultura contemporánea esto se traduce en el subjetivismo: la realidad (incluida la identidad) se considera creada por el deseo, con la máxima «las cosas son verdaderas porque yo quiero que lo sean». Frente a ello, Barron sostiene que la realidad es dada, no construida por la voluntad; el intelecto descubre el bien, y la voluntad se dirige a él.
+
 ## Ver también
 
 [[nominalismo]], [[moral_de_la_obligación]], [[ockham]], [[libertad_de_indiferencia]]
@@ -39,3 +44,4 @@ Se relaciona con [[ockham]], [[nominalismo]], [[libertad_de_indiferencia]], [[mo
 
 - Pinckaers, *Las Fuentes de la Moral Cristiana*, caps. X, XIV
 - Ockham, II *Sent*. q. 19 P
+- Barron, Robert. *Arguing Religion: A Bishop Speaks at Facebook and Google* (Word on Fire, 2016), cap. 4.

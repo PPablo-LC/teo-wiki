@@ -17,6 +17,9 @@ La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por l
 
 ## Perspectivas por fuente
 
+### Según Robert Barron, *Arguing Religion* (ARGREL)
+Para Barron, la fe auténtica no es fideísta (aceptar verdades sin razón), sino **suprarracional**: va más allá de la razón, pero nunca contra ella. Es ante todo **confianza** (*pistis*), análoga al modo en que conocemos el corazón de otra persona: tras investigar racionalmente, confiamos cuando alguien se revela. Fe y razón son mutuamente implicativas. La razón provee los *preambula fidei* («preámbulos de la fe») que preparan el camino, pero Dios se ha revelado personalmente (*Deus dixit*). El acto de fe es confiar en quien habla; una vez aceptado, la razón lo comprende más profundamente (*fides quaerens intellectum*). El fideísmo es un error tanto para creyentes como para no creyentes.
+
 ### Según la Dives in Misericordia (DM)
 
 La fe en la misericordia divina es central en la encíclica. «Creer en el Hijo crucificado significa "ver al Padre" (Jn 14,9), significa creer que el amor está presente en el mundo y que este amor es más fuerte que toda clase de mal, en que el hombre, la humanidad, el mundo están metidos. Creer en ese amor significa creer en la misericordia» [DM §7].

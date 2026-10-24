@@ -59,6 +59,22 @@ León XIV denunció en su discurso ante las Cortes la normalización de la guerr
 
 Se relaciona con la [[paz_cristiana]] (fin de toda guerra justa), con la [[justicia]] (que exige causa justa), con la [[caridad]] (que ordena la intención), y con la [[riña]] y la [[sedición]] (otros conflictos con los que se distingue).
 
+## Perspectivas por fuente
+
+8. Las demás fuentes
+
+### Robert Barron, *2 Samuel* (Brazos, 2015)
+
+Barron ofrece una reflexión teologalmente profunda sobre la guerra y la violencia a través de la figura de David, con tres aportaciones significativas:
+
+1. **Realeza no violenta**: Barron developa el tema de la "no-violencia activa" de David. A diferencia de las concepciones de la guerra como ejercicio del poder hegemónico, David demuestra que el rey justo no busca la victoria mediante la destrucción del enemigo, sino mediante la conquista de sí mismo. La famosa decisión de David de no matar a Saúl, aun cuando tiene múltiples oportunidades, se presenta como un acto de realeza virtuosa que prefigura a Cristo.
+
+2. **La "tercera vía"**: Barron identifica en David un patrón que él mismo describe como "aikido espiritual": no luchar contra la agresión con más agresión, sino redirigir la energía del agresor contra sí mismo. Cuando Saúl persigue a David, este se evade, se aparta y responde con respeto en lugar de venganza. Este patrón, según Barron, es una anticipación de la enseñanza de Jesús en el Sermón del Monte: "Si alguien te golpea en la mejilla derecha, preséntale también la izquierda" (Mt 5,39). David "vence con bondad" al mal, shaming a su perseguidor.
+
+3. **Prefiguración de la victoria del Cordero**: La resistencia de David a la violencia, su eleja por Saúl y su canto fúnebre sobre él, prefiguran la pasión de Cristo. Barron señala que tanto David como Jesús son ungidos reyes que vencen no con espada sino con sacrificio. La "victoria del Cordero" (Ap 5,6-10) encuentra su anticipación en la actitud de David de responder al mal con bien, reconciliando la realeza con la misericordia.
+
+Este tratamiento de la guerra en 2 Samuel ofrece una vía católica para pensar la just-war theory con un fuerte énfasis en la evitación de la violencia cuando es posible, y en la redención del agresor a través del amor y el perdón.
+
 ## Ver también
 
 [[paz_cristiana]], [[sedición]], [[riña]], [[discordia]], [[cisma]]

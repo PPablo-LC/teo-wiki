@@ -21,6 +21,9 @@ La cuestión de si tiene sentido argumentar la existencia de Dios para el hombre
 
 ## Perspectivas por fuente
 
+### Según Robert Barron, *Arguing Religion* (ARGREL)
+Barron defiende las demostraciones clásicas para la existencia de Dios. El intelecto humano, por su naturaleza inquisitiva, busca causas últimas y no se satisface con explicaciones meramente contingentes. El método tomista de la *quaestio disputata* (ST I q.2 a.3) consiste en formular la pregunta, presentar las objeciones en su forma más fuerte y responderlas razonadamente. Barron insiste en que estos argumentos son *preambula fidei*: preparan el camino para la fe, pero la fe como confianza (*pistis*) va más allá —requiere abrirse a quien se revela personalmente (*Deus dixit*). Critica el fideísmo y el cientificismo por imponer barreras artificiales al diálogo racional sobre Dios.
+
 ### Según UDE (1994)
 
 Juan Pablo II defiende la perenne validez de los argumentos racionales para la existencia de Dios, frente a las objeciones del positivismo y el cientificismo modernos. El conocimiento humano es inicialmente sensible, pero el hombre —por su inteligencia espiritual— va más allá de los sentidos: tiene la capacidad de conocer verdades que trascienden la experiencia empírica, como la verdad moral y la experiencia religiosa.

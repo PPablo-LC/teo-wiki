@@ -229,6 +229,22 @@ La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [
 
 - [RH §9]
 
+## Perspectivas por fuente
+
+8. Las demás fuentes
+
+### Robert Barron, *2 Samuel* (Brazos, 2015)
+
+Barron desarrolla el tema de la misericordia divina a través de la figura de David, presentando tres dimensiones clave:
+
+1. **Misericordia activa hacia el "enemigo"**: Barron destaca la decisión de David de mostrar bondad a la casa de Saúl, especialmente a Mefiboset, el hijo discapacitado de Jonathan. A pesar de ser el heredero potencial del trono, David lo tiene en su mesa y le devuelve todas las tierras de Saúl. Barron subraya que este acto de misericordia "injustificada" (desde el punto de vista político) es teológicamente profundo: David responde al mal (la persecución de Saúl) con bondad, prefigurando la enseñanza de Jesús: "Amad a vuestros enemigos" (Mt 5,44). La misericordia de David no es debilidad, sino fuerza moral que reconcilia.
+
+2. **Misericordia y justicia combinadas**: Barron observa que David no sacrifica la justicia para ser misericordioso. Cuando los gabaonitas exigen expiación por los crímenes de Saúl contra ellos (2 Sam 21), David cumple con la justicia al entregar a Saúl's hijos, pero luego muestra misericordia sepultando los huesos de Saúl y Jonatán en la tierra de Benjamín. Esto demuestra que la misericordia no anula la justicia, sino que la eleva a un nivel más alto.
+
+3. **Prefiguración de la misericordia de Cristo**: Barron conecta la misericordia de David con la misericordia divina plenamente revelada en Jesucristo. La parábola del hijo pródigo, la historia de la mujer atrapada en adulterio, y el encuentro con Zaqueo encuentran su antecedente en el tratamiento de David hacia los miembros de la casa de Saúl. La misericordia de Cristo en la cruz —"Padre, perdónales, porque no saben lo que hacen"— encuentra su anticipación en el perdón de David a quienes le habían hecho daño. Barron señala que David, como "hombre de misericordia", prefigura el corazón de Dios que "se compadece de la miseria humana".
+
+Este tratamiento de la misericordia en 2 Samuel ofrece una visión integradora de cómo la misericordia divina se manifiesta a través de la bondad humana virtuosa, y cómo la realeza justa y misericordiosa prefigura el reinado de Cristo, el "sumo sacerdote misericordioso" (Heb 4,14-16).
+
 ## Ver también
 [[justicia_divina]], [[penitencia]], [[conversión]], [[caridad]], [[sacramento_de_la_reconciliación]], [[perdón]], [[esperanza]], [[spe_salvi]]
 

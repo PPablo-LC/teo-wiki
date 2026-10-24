@@ -94,6 +94,22 @@ En el archivo 06, la violencia queda ligada al embotamiento de la conciencia y l
 
 Se relaciona con [[frutos_del_espíritu_santo]], [[caridad]], [[don_de_sabiduría]], [[bienaventuranzas]], [[perfección_cristiana]], [[justicia]].
 
+## Perspectivas por fuente
+
+8. Las demás fuentes
+
+### Robert Barron, *2 Samuel* (Brazos, 2015)
+
+Barron conecta el tema de la paz con la figura de David y su reinado, ofreciendo tres dimensiones esenciales:
+
+1. **Paz como fruto del reino de Dios**: Barron desenvolve la enseñanza de Jesús de que el reino de Dios se caracteriza por la paz: "primero la alegría, luego la ética". En 2 Samuel, la paz no es simplemente ausencia de conflicto, sino la presencia de justicia y relación correcta con Dios. La "paz de Cristo" no es un estado emocional pasajero, sino la "paz de estar arraigado en Cristo", como Barron la describe en sus escritos posteriores. David, a pesar de sus guerras civiles, mantiene una relación de confianza con Dios que le produce paz interiora a pesar de las tormentas externas.
+
+2. **Paz mediante el no-violencia**: Como se desarrolló en el artículo "Guerra", la actitud de David de responder al mal con bien produce un efecto de paz en la sociedad. Barron cita el principio de que "la paz no se impone, se construye". David eleja perdonar a Saúl y lamentar su muerte, en lugar de celebrar la derrota del enemigo, produce un efecto de reconciliación parcial sobre el pueblo. Este es un antecedente bíblico de la enseñanza de Juan Pablo II en *Pacem in terris*: la paz es el resultado de la justicia y la caridad.
+
+3. **Paz interior en medio del conflicto**: A pesar de las guerras civiles, los secuestros (Absalón), y los asesinatos (Abimelech), David experimenta una paz interior que proviene de su relación con Dios. Barron conecta esto con la enseñanza de Agustín: la inquietud del corazón encuentra reposo solo en Dios. La eleja de David "Canción del Arco" sobre Saúl y Jonatán, lamentando en lugar de glorificar la victoria, es un modelo de duelo virtuoso y paz espiritual ante la pérdida trágica.
+
+Este tratamiento de la paz en 2 Samuel enriquece la doctrina católica al mostrar que la paz verdadera no es ausencia de tensión, sino presencia de Dios en medio de la tensión.
+
 ## Ver también
 
 [[paz]], [[frutos_del_espíritu_santo]], [[bienaventuranzas]]

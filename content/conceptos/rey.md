@@ -34,7 +34,23 @@ En el NT, Jesús no cede al entusiasmo mesiánico de las multitudes (Jn 6,15). A
 - Reino mesiánico terreno (esperanza judía) vs. reino que no es de este mundo (Jesús)
 - Realeza de Cristo durante su vida terrena vs. su realeza de resucitado
 
-## Relaciones doctrinales
+## Perspectivas por fuente
+
+8. Las demás fuentes
+
+### Robert Barron, *2 Samuel* (Brazos, 2015)
+
+Barron developa el tema de la realeza a partir de la figura de David, presentando un contraste profundo entre el reinado de Saúl y el de David. Mientras Saúl representa la realeza humana fallida, caracterizada por la desobediencia y el resentimiento, David encarna el ideal de rey «hombre de acuerdo con el corazón de Dios». Barron subraya tres aspectos clave:
+
+1. **Realeza como servicio**: A diferencia de las concepciones míticas del antiguo Oriente donde el rey es un dios terreno, la realeza bíblica es una responsabilidad ante Dios. David entiende que su poder proviene de Dios y debe ejercerse en comunión con Él.
+
+2. **El rey después de Dios**: La famosa descripción de David como «hombre después de mi propio corazón» (1 Sm 13,14; Hch 13,22) significa que la realeza verdadera consiste en someterse a la voluntad de Dios, no usurpar Su lugar. David es un "nuevo Adán" que restaura el orden original.
+
+3. **Prefiguración de Cristo**: La realeza de David prefigura a Cristo, el rey mesiánico. Barron señala que los evangelios aplican a Jesús los títulos y los gestos de David: su entrada triunfal en Jerusalén, su relación con los pobres y su realeza a través del servicio y el sacrificio. Cristo es el "hijo de David" que cumple definitivamente lo que David comenzó: un reino de justicia, paz y misericordia que no tiene fin.
+
+Barron también destaca el tema del "no-violencia real": David nunca usurpa la autoridad de Saúl, aunque tenga múltiples oportunidades, prefigurando a Cristo que vence al mal con el bien y no con la violencia.
+
+## Desarrollo doctrinal
 [[reino_de_dios]], [[mesías]], [[unción]], [[david]], [[alianza]], [[realeza_de_cristo]], [[hijo_de_david]]
 
 ## Ver también

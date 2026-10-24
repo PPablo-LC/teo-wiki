@@ -112,3 +112,4 @@ síntesis prodigiosa de intelecto y amor con que compuso sus obras.
 - Barron, Robert. «The Holy Quest: Searching for Meaning in the Problem of Suffering»; Kaczor, Christopher. «Faith and the Defeat of Suffering», en *Evangelization & Culture* 15 (Spring 2023).
 - Ramelow, Anselm OP. «Artificial Intelligence as a Challenge to Human Freedom», en *Evangelization & Culture* 19 (Word on Fire Institute); «Meditatio & Contemplatio», 23_parting_thoughts.md.
 - Selman, F. J. *St Thomas Aquinas: Teacher of Truth* (T&T Clark, Edinburgh 1992). Código STA: biografía, la teología como sabiduría, fe y razón, la verdad como adecuación.
+- Barron, Robert. *Arguing Religion: A Bishop Speaks at Facebook and Google* (Word on Fire, 2016). Cap. 6-7: Tomás como modelo del diálogo público, *quaestio disputata*, *Utrum Deus sit* (ST I q.2 a.3), fe y razón mutuamente implicativas.

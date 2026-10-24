@@ -89,7 +89,23 @@ la acogida del diverso**:
 - [[adam_farber_fortitude_through_excellence_in_mercy]]
 - [[adam_farber_fortitude_through_excellence_in_patience]]
 
-## Referencias
+## Perspectivas por fuente
+
+8. Las demás fuentes
+
+### Robert Barron, *2 Samuel* (Brazos, 2015)
+
+Barron ofrece una reflexión profunda sobre el perdón a través de la figura de David en 2 Samuel, con tres dimensiones clave:
+
+1. **Perdón activo contra el perseguidor**: Barron destaca la decisión de David de no matar a Saúl aun cuando tiene múltiples oportunidades (1 Sam 24, 1 Sam 26). En lugar de vengarse, David corta la franja del manto de Saúl o le quita la lanza mientras duerme, y luego se aleja. Barron observa que David "vence con bondad", shaming a su perseguidor. Este acto de perdón "prefigura la enseñanza de Jesús en el Sermón del Monte: 'Si alguien te golpea en la mejilla derecha, preséntale también la izquierda' (Mt 5,39)". La misericordia de David no es debilidad, sino fuerza moral que rompe el ciclo de violencia.
+
+2. **Perdón y reconciliación con la casa del perseguidor**: La postura de David hacia la casa de Saúl después de su muerte es igualmente notable. David eleja llorar sobre Saúl y Jonatán en el "Canto del Arco" (2 Sam 1), y muestra bondad a Mefiboset, el hijo discapacitado de Jonathan, incorporándolo a su mesa y devolviéndole todas las tierras de Saúl. Barron observa que David "responde al mal con bien", cumpliendo la enseñanza posterior de Pablo: "No te dejes vencer por el mal, sino vence con el bien" (Rom 12,21). La misericordia de David hacia los de la casa del que quiso matarlo es un antecedente bíblico de la enseñanza de Cristo de amar a los enemigos.
+
+3. **Prefiguración del perdón de Cristo**: Barron conecta el perdón de David con el perdón de Cristo en la cruz. Al igual que David perdona a quienes le persiguen, Cristo perdona a quienes le crucifican: "Padre, perdónales, porque no saben lo que hacen" (Lc 23,34). Barron señala que tanto David como Cristo son reyes que vencen no con espada sino con sacrificio y perdón. La "victoria del Cordero" (Ap 5,6-10) encuentra su anticipación en la actitud de perdón de David.
+
+Este tratamiento del perdón en 2 Samuel ofrece una visión católica integradora: el perdón no es debilidad ni negación de la justicia, sino fuerza moral que rompe los ciclos de violencia y refleja el corazón de Dios.
+
+## Ver también
 - CEC §976-987
 - CEC §2839-2845
 - CEC §2631

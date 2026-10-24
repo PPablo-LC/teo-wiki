@@ -84,6 +84,24 @@ La justicia ordena al bien común de la sociedad: dar a cada uno lo que se le de
 - [[closing_keynote_virtuous_leader]]
 - [[primeros_pasos_en_la_vida_espiritual]]
 
+## Perspectivas por fuente
+
+8. Las demás fuentes
+
+### Robert Barron, *2 Samuel* (Brazos, 2015)
+
+Barron trata el tema de la justicia divina a través de la narrativa de 2 Samuel, ofreciendo tres perspectivas esenciales:
+
+1. **Justicia como retribución proporcional**: Barron desarrolla cómo Dios permite las consecuencias naturales del pecado humano. El caso más claro es el censo de David (2 Sam 24), que provoca una peste sobre el pueblo como resultado de orgullo y desobediencia. Barron observa que, en la visión bíblica, la justicia no es arbitrarismo divino, sino que las acciones humanas tienen consecuencias reales que Dios permite permitir. La justicia divina respeta la libertad humana: "Dios no es autor del pecado, pero permite sus consecuencias".
+
+2. **Justicia y misericordia entrelazadas**: A diferencia de la visión de que justicia y misericordia son opuestas, Barron muestra cómo 2 Samuel las presenta como complementarias. Después del pecado de David con Betsabé y Urías, el profeta Natán le declara la culpabilidad, pero David se arrepiente profundamente (Salmo 51). Dios perdona el pecado, pero las consecuencias (la muerte del niño, la revuelta de Absalón) persisten. Barron subraya esta verdad católica: la misericordia de Dios no anula la justicia, sino que la satisface, permitiendo el perdón mientras se conservan las consecuencias educativas.
+
+3. **Arrepentimiento como vía de la justicia**: Barron enfatiza que en 2 Samuel, la justicia divina no se limita al castigo, sino que incluye un camino de restauración. La arrepentimiento genuino de David —"Contra ti, solo contra ti, he pecado"— abre la puerta al perdón. Barron conecta esto con la enseñanza católica sobre el sacramento de la reconciliación: el arrepentimiento verdadero restaura la relación con Dios mientras se tratan las consecuencias temporales del pecado.
+
+4. **El papel de la profecía en la justicia**: El profeta Natán como instrumento de la justicia divina. Barron observa que la justicia no se administra desde el trono sin discernimiento, sino que requiere profetas que denuncien el pecado y guíen al arrepentimiento. Esto prefigura el papel de la Iglesia y sus pastores en la administración de la justicia y el perdón en la comunidad cristiana.
+
+Este tratamiento de la justicia en 2 Samuel proporciona una síntesis católica de cómo la justicia divina respeta la libertad humana, combina castigo y perdón, y ofrece un camino de restauración a través del arrepentimiento.
+
 ## Ver también
 [[virtud_de_la_justicia]], [[virtudes_cardinales]], [[virtudes_infusas]], [[derecho]], [[injusticia]], [[juicio]], [[restitución]]
 

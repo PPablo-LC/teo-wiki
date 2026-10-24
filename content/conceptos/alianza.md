@@ -91,6 +91,14 @@ Hahn contrapone esta lectura «hebrea» a la lectura «jurídica romana» que, s
 - **Alianza condicional vs. incondicional**: la alianza mosaica era condicional (dependía de la fidelidad del pueblo); la nueva alianza en Cristo es irrevocable
 - **Alianza vs. testamento**: la alianza implica reciprocidad; el testamento es disposición unilateral
 
+## Perspectivas por fuente
+
+8. Las demás fuentes
+
+### Robert Barron, *2 Samuel* (Brazos, 2015)
+
+Barron desarrolla la alianza davídica como una promesa **incondicional y eterna** que Dios hace a David. El punto clave es la **inversión de expectativas**: David quiere construir una casa (templo) a Dios, pero Dios promete construir una "casa" (dinastía real) para David. La promesa es: «Tu casa y tu reino serán estables para siempre delante de ti; tu trono será estable eternamente» (2 Sm 7,16). Barron subraya que el hijo de David edificará un templo, pero el descendiente cuyo reino no tendrá fin trasciende a Salomón y se cumple plenamente en Jesucristo. El ángel a María anuncia que el Señor «le dará el trono de David, su padre, y reinará sobre la casa de Jacob eternamente» (Lc 1,32-33). En Cristo se cumple la alianza davídica: el Hijo eterno de David construye el verdadero templo (Jn 2,19-21), reúne a todos los pueblos y establece un reino que no tendrá fin. Barron también conecta esta alianza con el concepto de realeza mesiánica y el reinado de Cristo como cumplimiento de la promesa hecha a David.
+
 ## Relaciones doctrinales
 
 La alianza se relaciona con [[antigua_alianza]], [[nueva_alianza]], [[decálogo]], [[pueblo_de_dios]], [[iglesia]] y [[matrimonio]] (como signo de la alianza).

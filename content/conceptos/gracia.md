@@ -200,7 +200,23 @@ La gracia no dispensa de la lucha, sino que se une al «propósito firme» y a l
 - [[fr_michael_luxbacher_life_in_abundance]]
 - [[jeff_lacour_true_freedom_through_prayer]]
 
-## Referencias
+## Perspectivas por fuente
+
+8. Las demás fuentes
+
+### Robert Barron, *2 Samuel* (Brazos, 2015)
+
+Barron conecta el tema de la gracia con la narrativa de 2 Samuel, destacando tres aspectos determinantes:
+
+1. **Gracia no competitiva**: Barron hace su contribución más original al desarrollar el concepto de "no-competitividad divina". En su comentario a 2 Samuel, argumenta que la gracia de Dios no actúa "como una causa más entre muchas" compitiendo por la primacía, sino que se relaciona con el mundo de manera "noninvasiva" a través de agentes secundarios. Dios "no actúa como uno de los seres presentes en el universo, sino como el Creador de todo lo que existe". Esta visión contrasta con las concepciones modernas de la providencia que plantean un conflicto entre la libertad humana y la acción divina. Para Barron, la gracia de Dios es "sobre-competitiva" en el sentido de que siempre precede y supera cualquier iniciativa humana, pero "no competitiva" en el sentido de que no socava la causalidad creatura.
+
+2. **Gracia en la elección de David**: Barron subraya que la elección de David como rey no se basa en sus méritos naturales (era el menor de los hermanos, un simple pastor), sino en la gracia pura de Dios. Esta "elección gratuita" es un tema central de 2 Samuel y se conecta con la doctrina católica de la gracia santificante: Dios elige y llama no por obras previas, sino según su misericordia (Tt 3,5). La gracia de Dios en la elección de David prefigura la elección gratuita de cada persona en Cristo.
+
+3. **Gracia que perfecciona la naturaleza**: Siguiendo la tradición católica (Concílio de Trento, sesión VI), Barron enseña que la gracia no destruye la naturaleza sino que la eleva y la perfecciona. En 2 Samuel, vemos cómo la gracia de Dios transforma a David de un pastor humilde a un rey justo, y cómo esa misma gracia sigue actuando a través de sus debilidades y caídas. La gracia no anula la personalidad de David ni su libertad, sino que la lleva a su plenitud objetivo.
+
+Barron cierra este tema conectando 2 Samuel con su ensayo sobre "La gracia y la libertad" en *Evangelization & Culture*, donde argumenta que la gracia cristiana es el único fundamento capaz de conciliar la profunda libertad del ser humano con la certeza de la salvación divina.
+
+## Ver también
 - CEC §1996-2026
 - TPCr, Parte II, Cap. 1
 - Denzinger D‑1351–D‑1375, D‑1384–D‑1387 (Clemente XI, *Unigenitus*)
