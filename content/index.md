@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-10-24'
+updated: '2026-10-26'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -4572,6 +4572,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### S (Documentos)
 
 - [[sacramentorum_sanctitatis_tutela]]
+- [[segundo_libro_de_samuel_barron]]
 - [[sexualidad_humana_verdad_y_significado]]
 - [[siete_lamparas]]
 - [[spiritus_paraclitus]]

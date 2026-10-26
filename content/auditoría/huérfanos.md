@@ -7,6 +7,7 @@ description: "Registro acumulativo de wikilinks sin artículo propio: secciones 
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
+> **Actualización 2026-10-26 — 2 Samuel (Barron) [2SamBr]:** se siembran 28 huérfanos (13 conceptos y 15 personas) desde el índice raw, el documento [[segundo_libro_de_samuel_barron]] y el enriquecimiento de [[david]]; se aplican 2 retargets (`[[elección_divina]]`→[[eleccion_divina]], `[[lealtad]]`→[[fidelidad]]) en el índice de la fuente; ver sección «Sembrados por el procesamiento de 2 Samuel (2SamBr) — Robert Barron (2026-10-26)».
 > **Actualización 2026-10-20 — Lotes 7-8 de cobertura de huérfanos de mayor densidad:** resueltos 5 (`pranayama`, `josue`, `estudio`, `discapacidad`, `conversion_personal`) con 5 artículos nuevos; sembrados 2 (`río_jordán`, `jericó`); retarget de `[[conversión personal]]` → `[[conversión_personal]]`; ver sección «Resueltos por cobertura de huérfanos de mayor densidad (lote 7, 2026-10-20)».
 > **Actualización 2026-10-20 — Análisis cultural de Corazón (COR):** se siembran 9 huérfanos intencionales (`luto`, `estudio`, `desinterés`, `mala_compañía`, `garibaldi`, `cavour`, `mazzini`, `víctor_manuel_ii`; `generosidad` ya estaba registrado) y se documentan los retargets aplicados en el índice de la obra; ver sección «Sembrados por el análisis cultural de Corazón (COR) — Edmondo De Amicis (2026-10-20)».
 > **Actualización 2026-10-19 — IAT (Sicre):** 3 artículos nuevos ([[pentateuco]], [[historia_deuteronomista]], [[guerra_santa]]) y 7 huérfanos sembrados (`conquista_de_canaán`, `deuteronomio`, `historia_de_israel`, `josué`, `jueces`, `profetismo`, `salomón`); total detectado por el script: **3.639**. Ver sección «Sembrados por el procesamiento de Introducción al Antiguo Testamento (IAT)».
@@ -5375,3 +5376,49 @@ Los demás wikilinks del índice COR resuelven a artículos canónicos (`caridad
 | `vida_fraterna_en_comunidad` | 4 | **Nuevo** | Creado [[vida_fraterna_en_comunidad]] (Constituciones LC cap. 4; Capítulos 2014/2018; El encuentro con Cristo; Antología DP) |
 
 **Retargets aplicados:** `[[zacqueo]]` en `wiki/conceptos/identificación_con_cristo.md` (2) y `wiki/conceptos/nulidad_del_hombre.md` (2).
+
+## Sembrados por el procesamiento de 2 Samuel (2SamBr) — Robert Barron (2026-10-26)
+
+Comentario teológico a 2 Samuel (Brazos, 2015). Índice raw auditado (30/30 archivos), documento descriptivo [[segundo_libro_de_samuel_barron]] y enriquecimiento de [[david]]. Los huérfanos siguientes proceden del índice, del documento y de la sección «Según 2 Samuel (Barron)» de [[david]], y quedan como referencias prospectivas con material suficiente en la fuente para artículo propio.
+
+**Conceptos (13)**
+
+| Huérfano | Refs. | Clasificación | Dónde aparece |
+|----------|-------|---------------|---------------|
+| `[[trascendencia_no_competitiva]]` | 3 (índice, documento, David) | Dogmática / teología de la historia | Introducción; 2 Sm 6–7; clave hermenéutica de todo el comentario |
+| `[[alianza_davídica]]` | 3 | Biblia / alianza | 2 Sm 7; cf. [[hijo_de_david]], [[mesías_rey]] |
+| `[[dinastía_davídica]]` | 3 | Biblia / mesianismo | 2 Sm 7; 23; promesa de la casa de David |
+| `[[primacía_de_la_gracia]]` | 3 | Gracia / soteriología | 2 Sm 7; 9 (*hesed* a Mefibóset); 12 |
+| `[[templo_del_cuerpo_de_cristo]]` | 1 | Cristología / templo | 2 Sm 7 (Jn 2,19-21); 24 (era de Arauna) |
+| `[[mosaico_bíblico]]` | 1 | Hermenéutica | Prefacio de la serie (imagen de Ireneo) |
+| `[[censo]]` | 2 | Biblia / moral | 2 Sm 24 |
+| `[[demagogia]]` | 2 | Moral / política | 2 Sm 15 (Absalón roba los corazones) |
+| `[[rebelión]]` | 2 | Moral / política | 2 Sm 15; 20 |
+| `[[asesinato]]` | 2 | Moral | 2 Sm 11 (Urías); 3 (Abner); 4 (Isbaal) |
+| `[[abandono]]` | 1 | Espiritualidad / pasión | 2 Sm 15 (huida de David) |
+| `[[rechazo_de_cristo]]` | 1 | Cristología | 2 Sm 10 (embajadores humillados) |
+| `[[violación]]` | 1 | Moral | 2 Sm 13 (Tamar) |
+
+**Personas (15)**
+
+| Huérfano | Refs. | Clasificación | Dónde aparece |
+|----------|-------|---------------|---------------|
+| `[[saúl]]` | 1 | Persona / AT | 2 Sm 1; 3–4 (casa de Saúl) |
+| `[[natán]]` | 1 | Persona / profeta | 2 Sm 7; 12 |
+| `[[absalón]]` | 1 | Persona / AT | 2 Sm 13–19 |
+| `[[joab]]` | 1 | Persona / AT | 2 Sm 2–3; 11; 14; 18; 20 |
+| `[[mefibóset]]` | 1 | Persona / AT | 2 Sm 9 (cf. [[david]]) |
+| `[[mical]]` | 1 | Persona / AT | 2 Sm 6 |
+| `[[urías]]` | 1 | Persona / AT | 2 Sm 11 |
+| `[[betsabé]]` | 1 | Persona / AT | 2 Sm 11–12 |
+| `[[amnón]]` | 1 | Persona / AT | 2 Sm 13 |
+| `[[tamar]]` | 1 | Persona / AT | 2 Sm 13 |
+| `[[simei]]` | 1 | Persona / AT | 2 Sm 16; 19 |
+| `[[ahitofel]]` | 1 | Persona / AT | 2 Sm 15–17 |
+| `[[husai]]` | 1 | Persona / AT | 2 Sm 15–17 |
+| `[[rizpa]]` | 1 | Persona / AT | 2 Sm 21 |
+| `[[arauna]]` | 1 | Persona / AT | 2 Sm 24 (era del jebuseo) |
+
+**Ya registrados o canónicos (no se duplican):** `[[creatio_ex_nihilo]]` (registrado), `[[contrición]]`, `[[problema_del_mal]]`, `[[belleza]]`, `[[calumnia]]`, `[[confianza_en_dios]]`, `[[nueva_alianza]]` (todos con artículo).
+
+**Retargets aplicados en el índice de la fuente:** `[[elección_divina]]` → [[eleccion_divina]]; `[[lealtad]]` → [[fidelidad]].

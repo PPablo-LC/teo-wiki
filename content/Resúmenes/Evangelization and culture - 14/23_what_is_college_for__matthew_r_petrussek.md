@@ -32,7 +32,7 @@ Matthew R. Petrussek (Servais Pinckaers Fellow de Ética Católica en el Word on
 - **Exposición a nuevas ideas:** el 42% de graduados en un estudio reporta que sus universidades no los desafiaron académicamente.
 - **Pensamiento crítico:** el 63.5% de estudiantes siente que no puede hablar libremente en clase (subida de ~10% en dos años). El pensamiento crítico requiere examinar cuestiones fundamentales desde múltiples perspectivas, algo imposible si los estudiantes no pueden expresarse libremente.
 - **Descubrir una carrera:** en 2020, el 41% de graduados trabajaba en empleos que no requerían título universitario, con tasa de desempleo superior a la de quienes no estudiaron. Muchos empleos «manuales» pagan más que algunos «de cuello blanco» sin carga de deuda.
-- **Beneficios sociales:** el 44% de estudiantes reporta depresión y el 66% ansiedad abrumadora. Con un coste medio de $37,600/año ($150,400 en cuatro años, aunque más del 50% tarda más), hay opciones más rentables para divertirse.
+- **Beneficios sociales:** el 44% de estudiantes reporta depresión y el 66% ansiedad abrumadora. Con un coste medio de $37.600 por año ($150,400 en cuatro años, aunque más del 50% tarda más), hay opciones más rentables para divertirse.
 
 ### Respuesta sombría
 

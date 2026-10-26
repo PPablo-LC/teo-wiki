@@ -20,7 +20,7 @@ tags: ["resumen", "evangelization_and_culture", "cultura", "evangelización"]
 
 ### El fenómeno gaming
 
-Philadelphia construirá la primera arena de e-sports del hemisferio occidental ($50M, 3500 asientos). La industria de gaming tuvo más espectadores de torneos que el Super Bowl, Stanley Cup, World Series y NBA Finals combinados. 380 millones de espectadores, 71% menores de 35 años. Los jugadores de DOTA 2 ganaron $2M cada uno (vs. $107K para Patriots). Millennial y post-millennial pasan 901 millones de horas al mes jugando u observando.
+Philadelphia construirá la primera arena de e-sports del hemisferio occidental ($50 millones, 3500 asientos). La industria de gaming tuvo más espectadores de torneos que el Super Bowl, Stanley Cup, World Series y NBA Finals combinados. 380 millones de espectadores, 71% menores de 35 años. Los jugadores de DOTA 2 ganaron $2 millones cada uno (vs. $107 mil para Patriots). Millennial y post-millennial pasan 901 millones de horas al mes jugando u observando.
 
 ### Antropología del gaming
 

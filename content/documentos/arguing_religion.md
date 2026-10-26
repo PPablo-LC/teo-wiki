@@ -2,13 +2,13 @@
 type: Documento
 title: "Arguing Religion: A Bishop Speaks at Facebook and Google"
 tags: ["apologética", "filosofía_de_la_religión", "teología_fundamental", "fe_y_razón"]
-timestamp: 2026-10-24
+timestamp: 2026-10-26
 description: "Obra apologética de Robert Barron sobre fe y razón, cientificismo, tolerancia, voluntarismo y argumentos para la existencia de Dios."
 ---
 # Arguing Religion: A Bishop Speaks at Facebook and Google
 
 > Área: Documentos
-> Última actualización: 2026-10-24
+> Última actualización: 2026-10-26
 
 ## Identificación
 
@@ -35,6 +35,18 @@ Obra que busca eliminar obstáculos al argumento religioso en el espacio públic
 7. **Chapter Seven: An Argument for God’s Existence** — Búsqueda del intelecto hacia lo último; renovado interés tras el «nuevo ateísmo»; advertencia sobre idolatría intelectual.
 8. **Chapter Eight: Elijah and the Priests of Ba’al** — Idolatría como problema central; creación como procesión litúrgica (Gn 1-2); hombre como sacerdote de la creación; restauración del culto verdadero.
 9. **Chapter Nine: The Burning Bush** — Teofanía en Éxodo 3; quitar las sandalias (reverencia); Dios personal (*Yo Soy*, *I am who am*); compasión y vocación para liberar.
+
+## Resúmenes por capítulo
+
+- [[01_capítulo_1_la_fe_no_se_opone_a_la_razón]] — Fe y razón mutuamente implicativas; fideísmo; *pistis* y *fides quaerens intellectum*
+- [[02_capítulo_2_superar_el_cientificismo]] — Cientificismo, positivismo lógico y la caverna de Platón
+- [[03_capítulo_3_ser_intolerante_con_la_tolerancia]] — Privatización de la religión y verdad pública
+- [[04_capítulo_4_evitar_el_voluntarismo]] — De Escoto y Ockham a Nietzsche, Sartre y Foucault
+- [[05_capítulo_5_buscar_entender_la_posición_del_adversario]] — Escucha, humildad y «preocupación última»
+- [[06_capítulo_6_seguir_el_ejemplo_de_tomás_de_aquino]] — *Quaestio disputata* y apertura de la mente
+- [[07_capítulo_7_un_argumento_para_la_existencia_de_dios]] — Argumento desde la contingencia y sus objeciones
+- [[08_capítulo_8_elías_y_los_profetas_de_baal]] — Idolatría, adoración y la felicidad según Tomás
+- [[09_capítulo_9_la_zarza_ardiente]] — Teofanía, «Yo Soy» y conclusión del libro
 
 ## Perspectivas teológicas
 
