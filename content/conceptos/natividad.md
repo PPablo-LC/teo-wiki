@@ -2,11 +2,12 @@
 type: Concepto Teológico
 title: Natividad
 description: "La Natividad es el nacimiento temporal de Jesucristo, Hijo de Dios, en cuanto hombre, de la Virgen Maria en Belen de Juda."
+timestamp: 2026-10-27
 ---
 # Natividad
 
 > Area: Cristologia
-> Ultima actualizacion: 2026-06-12
+> Ultima actualizacion: 2026-10-27
 
 ## Definicion
 
@@ -52,31 +53,13 @@ Cristo nacio perfecto en gracia, con uso de libre albedrio, capacidad de merecer
 
 **a.8 — Tiempo oportuno.** Cristo nacio en la plenitud de los tiempos: cuando el mundo entero estaba bajo un solo imperio (paz universal), sujeto a un rey extranjero (cumplimiento de la profecia de Jacob en Gen 49,10), y cuando la luz del dia comenzaba a crecer (simbolo de la luz de Cristo). Escogio tambien la crudeza del invierno para sufrir por nosotros las penalidades corporales desde entonces (q.35 a.8).
 
-#### IIIa q.36 — Manifestacion del nacimiento
+#### IIIa q.36 — Manifestación del nacimiento
 
-**a.1 — No debio ser manifestado a todos.** El nacimiento de Cristo no debio ser manifestado a todos en general por tres razones: para no impedir la redencion (de haberlo conocido, no le habrian crucificado), para no debilitar el merito de la fe (que es prueba de lo que no se ve), y para no poner en duda la verdad de su humanidad (q.36 a.1).
-
-**a.2 — Debia ser manifestado a algunos.** Convenia que el nacimiento fuese manifestado a algunos para que, por medio de ellos, llegase a otros. Maria y Jose ya conocian el misterio, pero su testimonio familiar podia ser sospechoso; por eso se manifesto a extranos cuyo testimonio fuese fiable (q.36 a.2).
-
-**a.3 — A quienes fue manifestado.** El nacimiento fue revelado a toda condicion de hombres, prefigurando que nadie queda excluido de la salvacion: a pastores (judios, humildes) y a Magos (gentiles, sabios); a justos (Simeon y Ana) y a pecadores; a hombres y mujeres (q.36 a.3).
-
-**a.4 — No por Cristo mismo, sino por criaturas.** Cristo no revelo por si mismo su propio nacimiento porque la fe requiere la demostracion de su humanidad (flaqueza) junto con la manifestacion de su divinidad a traves de las criaturas. La sabiduria escondida no es inutil, porque se manifiesta en el tiempo oportuno (q.36 a.4).
-
-**a.5 — Por angeles a los pastores, por la estrella a los Magos.** A los pastores (judios, acostumbrados a apariciones angelicas) se les manifesto mediante angeles; a los Magos (gentiles, acostumbrados a la contemplacion de los astros) mediante una estrella; a los justos (Simeon y Ana) por instinto interior del Espiritu Santo. Asi, la manifestacion se adapto a la condicion de cada uno (q.36 a.5).
-
-**a.6 — Orden de las manifestaciones.** Primero a los pastores (el mismo dia del nacimiento), despues a los Magos (el dia trece), y finalmente a los justos en el templo (a los cuarenta dias). Los pastores prefiguran a los Apostoles y creyentes judios; los Magos, a la plenitud de las naciones; los justos, a la plenitud de Israel (q.36 a.6).
-
-**a.7 — Naturaleza de la estrella.** La estrella que se aparecio a los Magos no fue uno de los astros del cielo, sino una estrella creada de nuevo en la atmosfera proxima a la tierra, que se desplazaba a voluntad de Dios. Pruebas: se movia de norte a sur, se veia de dia, aparecia y se ocultaba, se detenia sobre la casa senalando el lugar preciso (q.36 a.7).
-
-**a.8 — Veneracion de los Magos.** Los Magos, inspirados por el Espiritu Santo, adoraron al Nino reconociendo a Dios en El, y le ofrecieron oro (como a Rey), incienso (como a Dios) y mirra (como a hombre que habia de morir por la salvacion de todos). Su venida prefigura la fe y devocion de las naciones (q.36 a.8).
+El desglose artículo por artículo de la cuestión 36 (a quiénes y cómo fue manifestado el nacimiento de Cristo, los ángeles y la estrella, y la veneración de los Magos) se recoge en [[epifanía]]. Se retiró de aquí para no duplicarlo: este artículo trata el nacimiento mismo (q.35) y la perfección del concebido (q.34), mientras que la manifestación corresponde al artículo de la Epifanía.
 
 ### Segun el Catecismo (CEC)
 
 El Catecismo trata la Natividad en el contexto del misterio de la Encarnacion (CEC §525-526). Jesus nace en la humildad de un establo, de una familia pobre; los pastores son los primeros testigos del acontecimiento. La Epifania es la manifestacion de Jesus como Mesias de Israel, Hijo de Dios y Salvador del mundo, celebrada con la adoracion de los Magos venidos de Oriente (CEC §528). La estrella de los Magos manifiesta que Cristo ha venido para los gentiles (CEC §437, §528).
-
-### Según la Vida de Jesús (VJ)
-
-La Vida de Jesús (VJ) narra la Natividad con profundidad teológica (Cap. I). El nacimiento en Belén, en la pobreza del establo, revela las características del reino mesiánico: un reino sin honores ni poderes terrenos. María da a luz a su hijo primogénito, lo envuelve en pañales y lo acuesta en un pesebre — «una cuna improvisada que contrasta con la dignidad del Hijo del Altísimo». El Evangelio explica que «no había sitio para ellos en el alojamiento», anticipando los rechazos que Jesús sufriría. El nacimiento de Jesús es el centro del tiempo, la medida fundamental del tiempo humano. Cristo es el Alfa y la Omega, el Principio y el Fin. El Niño indefenso es a la vez el Poder que supera todo cuanto el hombre es.
 
 ### Según la Vida de Jesús (VJ)
 
@@ -118,4 +101,4 @@ La Natividad presupone la [[encarnación]] y la [[concepción_virginal]], y mani
 ## Referencias
 
 - [CEC §437, §525-526, §528]
-- SmTh IIIa q.34 aa.1-4; q.35 aa.1-8; q.36 aa.1-8
+- SmTh IIIa q.34 aa.1-4; q.35 aa.1-8

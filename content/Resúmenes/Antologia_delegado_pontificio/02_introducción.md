@@ -19,7 +19,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[comisión_central_para_la_revisión_de_las_constituciones]] — organismo encargado de la revisión constitucional
 - [[comisión_de_acercamiento]] — creada para atender a personas afectadas por los hechos del fundador
 - [[comision_para_estudiar_los_asuntos_economicos]] — encargada de revisar la situación económica
-- [[constituciones_de_la_legion_de_cristo]] — texto fundamental a revisar
+- [[constituciones_legionarios_de_cristo]] — texto fundamental a revisar
 - [[carisma_legionario]] — don del Espíritu a revisar y purificar
 - [[regnum_christi]] — Movimiento vinculado a la Legión de Cristo
 - [[vida_consagrada]] — estado de los miembros consagrados del Regnum Christi

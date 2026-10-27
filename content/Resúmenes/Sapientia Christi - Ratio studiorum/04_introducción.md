@@ -18,7 +18,7 @@ tags: ["resumen", "ratio_studiorum", "sapientia_christi", "introducción", "cris
 - [[evangelización_de_la_cultura]] — Campo prioritario de la Legión
 - [[búsqueda_de_la_verdad]] — Búsqueda permanente de la verdad en el estudio
 - [[asentimiento_de_la_fe]] — La fe como adhesión personal del hombre a Dios
-- [[constituciones_lc_2020]] — Constituciones que esta Ratio explicita (nn. 96-102)
+- [[constituciones_legionarios_de_cristo]] — Constituciones que esta Ratio explicita (nn. 96-102)
 - [[renovación_en_la_continuidad]] — Criterio hermenéutico seguido en la redacción
 
 ## Contenido

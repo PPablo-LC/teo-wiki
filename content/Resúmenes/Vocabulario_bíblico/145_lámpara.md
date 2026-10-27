@@ -21,7 +21,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[ley]] — la ley, lámpara del hombre
 - [[justicia]] — la lámpara del justo
 - [[vida]] — la lámpara de la vida
-- [[cristo_jesus]] — Cristo, luz del mundo
+- [[jesucristo]] — Cristo, luz del mundo
 - [[reino_de_dios]] — el reino de los cielos
 - [[discípulo]] — los discípulos, lámparas encendidas
 - [[judío]] — el humo y las tinieblas que se disipan

@@ -86,7 +86,7 @@ Las Constituciones enumeran los apostolados propios de la Congregación, incluye
 
 ### Líneas fundamentales de espiritualidad
 
-La espiritualidad legionaria descrita en las [[constituciones_lc|Constituciones]] se fundamenta en:
+La espiritualidad legionaria descrita en las [[constituciones_legionarios_de_cristo|Constituciones]] se fundamenta en:
 
 - El seguimiento radical de Cristo.
 - La devoción al Sagrado Corazón.
@@ -130,7 +130,7 @@ Las normas de disciplina religiosa regulan la vida cotidiana de los legionarios,
 ## Referencias
 
 - LC-Wik, archivo 09.
-- [[constituciones_lc]]
+- [[constituciones_legionarios_de_cristo]]
 - [[mística_legionaria]]
 - [[votos_religiosos]]
 - [[voto_privado]]

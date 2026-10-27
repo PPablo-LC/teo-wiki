@@ -31,11 +31,11 @@ El Denzinger recoge el texto íntegro del Tomus ad Flavianum en los números D-1
 
 ## Relaciones doctrinales
 
-El Tomus ad Flavianum es el fundamento de la [[definición_de_calcedonia]] y expresa con claridad la [[unidad_hipostática]] y la [[comunicación_de_idiomas]]. Se opone al [[monofisismo]] de Eutiques y al [[nestorianismo]].
+El Tomus ad Flavianum es el fundamento de la [[definición_de_calcedonia]] y expresa con claridad la [[unión_hipostática]] y la [[comunicación_de_idiomas]]. Se opone al [[monofisismo]] de Eutiques y al [[nestorianismo]].
 
 ## Ver también
 
-[[definición_de_calcedonia]], [[unidad_hipostática]], [[comunicación_de_idiomas]], [[león_i_magno]], [[concilio_de_calcedonia]], [[monofisismo]]
+[[definición_de_calcedonia]], [[unión_hipostática]], [[comunicación_de_idiomas]], [[león_i_magno]], [[concilio_de_calcedonia]], [[monofisismo]]
 
 ## Referencias
 

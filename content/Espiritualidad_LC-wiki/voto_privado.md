@@ -63,7 +63,7 @@ Los votos privados se relacionan con [[unidad_y_caridad]], que protegen y promue
 
 ## Ver también
 
-[[voto_propio]], [[unidad_y_caridad]], [[obediencia_filial]], [[autoridad_evangélica]], [[profesión_religiosa_legionaria]], [[constituciones_lc]]
+[[voto_propio]], [[unidad_y_caridad]], [[obediencia_filial]], [[autoridad_evangélica]], [[profesión_religiosa_legionaria]], [[constituciones_legionarios_de_cristo]]
 
 ## Referencias
 

@@ -14,7 +14,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 - [[adopcionismo]] — condena de la herejía adopciana de Elipando y Félix
 - [[filiación_divina]] — Cristo es Hijo de Dios natural, no adoptivo, ni por gracia
-- [[naturaleza_de_cristo]] — dos naturalezas y una sola persona; se rechaza «tres sustancias»
+- [[unión_hipostática]] — dos naturalezas y una sola persona; se rechaza «tres sustancias»
 - [[encarnación]] — la persona del Hijo unió la naturaleza humana: Dios hombre y hombre Dios
 - [[concilio_de_nicea]] — la fe de Nicea como norma del lenguaje cristológico
 - [[nestorianismo]] — paralelo de la herejía adopciana con Nestorio

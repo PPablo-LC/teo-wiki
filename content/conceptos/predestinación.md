@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Predestinación
 tags: ["dogmática"]
 
-timestamp: 2026-06-27
+timestamp: 2026-10-27
 description: "Designio eterno de Dios por el cual determina libremente llevar a ciertas criaturas racionales a la gloria eterna. Es un misterio insondable que depende únicamente de la voluntad de Dios."
 ---
 # Predestinación
 
 > Área: Dogmática
-> Última actualización: 2026-06-27
+> Última actualización: 2026-10-27
 
 ## Definición
 
@@ -49,9 +49,15 @@ a.8 — La predestinación no puede ser ayudada por las oraciones de los santos 
 
 #### Predestinación de Cristo (IIIª q.24)
 
-En la IIIª q.24, Santo Tomás aplica la doctrina de la predestinación a Cristo. Cristo fue predestinado (a.1): la unión hipostática —que el hombre fuese Dios y Dios fuese hombre— cae bajo la predestinación eterna de Dios, pues Dios preordenó desde la eternidad que esto se realizase en el tiempo. Fue predestinado en cuanto hombre (a.2): la predestinación le compete por razón de su naturaleza humana, la cual no estuvo siempre unida al Verbo y recibió gratuitamente esa unión. La proposicion "Cristo, en cuanto hombre, fue predestinado a ser Hijo de Dios" es verdadera entendiendo "en cuanto hombre" por razón de la naturaleza humana capaz de recibir la predestinación y no como si la naturaleza humana fuese el sujeto de la filiación.
+En la IIIª q.24 Santo Tomás aplica la doctrina de la predestinación a Cristo, en cuatro artículos.
 
-Su predestinación es ejemplar de la nuestra (a.3): en cuanto al acto divino, con un mismo acto eterno predestinó Dios a Cristo y a nosotros; en cuanto al término, su filiación natural es ejemplar de nuestra filiación adoptiva, pues fuimos predestinados a ser conformes a la imagen de su Hijo (Rom 8,29). Su predestinación es causa de la nuestra (a.4): en cuanto al término, Dios dispuso eternamente que nuestra salvación fuese realizada por Cristo (Ef 1,5).
+**a.1 — Cristo fue predestinado:** la predestinación, en sentido propio, es la preordenación divina eterna de lo que por la gracia de Dios ha de realizarse en el tiempo. Ahora bien, por la gracia de unión hizo Dios que en el tiempo el hombre fuese Dios y Dios fuese hombre; luego la misma unión de las naturalezas en la persona de Cristo cae bajo la predestinación eterna de Dios, y se dice con verdad que Cristo fue predestinado (Rom 1,4). Así como Cristo es Hijo de Dios por naturaleza de un modo singular, así también es predestinado de un modo único; y la predestinación se atribuye a su persona, no en cuanto subsistente en la naturaleza divina, sino en cuanto subsiste en la naturaleza humana (SmTh IIIa q.24 a.1).
+
+**a.2 — Cristo fue predestinado en cuanto hombre:** la predestinación se atribuye a Cristo solo por razón de su naturaleza humana, pues esta no estuvo siempre unida al Verbo y el estar unida al Hijo de Dios en persona le fue concedido por gracia. La proposición «Cristo, en cuanto hombre, fue predestinado a ser Hijo de Dios» es verdadera si «en cuanto hombre» se entiende por la razón propia del acto —la naturaleza humana capaz de recibir esa exaltación—, y no porque la naturaleza humana sea el sujeto material de la filiación. Por eso resulta más propia que la inversa, «Cristo, en cuanto Hijo de Dios, fue predestinado a ser hombre» (SmTh IIIa q.24 a.2).
+
+**a.3 — La predestinación de Cristo es ejemplar de la nuestra:** considerada por parte del acto de quien predestina, con un único y mismo acto eterno Dios nos predestinó a nosotros y a Cristo. Considerada por parte del término, lo es de dos modos: en cuanto al bien a que somos predestinados —Cristo a ser Hijo de Dios por naturaleza, nosotros a ser hijos por adopción, que es semejanza por participación de la filiación natural (Rom 8,29)—, y en cuanto al modo de alcanzarlo, que es la gracia: en Cristo la naturaleza humana fue unida al Hijo de Dios sin mérito previo alguno, y «de su plenitud hemos recibido todos» (Jn 1,16). Por eso Agustín lo llama «luz preclarísima de la predestinación y de la gracia» (SmTh IIIa q.24 a.3).
+
+**a.4 — La predestinación de Cristo es causa de la nuestra:** por parte del acto, no lo es, pues con un mismo acto nos predestinó Dios a nosotros y a Cristo. Por parte del término, sí: Dios, en su predestinación eterna, dispuso que nuestra salvación fuese realizada por Cristo (Ef 1,5). Bajo la predestinación no cae solo lo que ha de ejecutarse en el tiempo, sino también el modo y el orden en que ha de realizarse (SmTh IIIa q.24 a.4).
 
 ### Según Royo Marín (TPCr)
 

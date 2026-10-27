@@ -31,7 +31,7 @@ Es también conocido por su doctrina sobre las dos espadas (autoridad espiritual
 
 ## Ver también
 
-[[félix_ii_iii]], [[primado_papal]], [[canon_bíblico]], [[sedes_patriarcales]], [[apócrifos]], [[autoridad_de_los_concilios]], [[padres_de_la_iglesia]], [[unidad_hipostática]]
+[[félix_ii_iii]], [[primado_papal]], [[canon_bíblico]], [[sedes_patriarcales]], [[apócrifos]], [[autoridad_de_los_concilios]], [[padres_de_la_iglesia]], [[unión_hipostática]]
 
 ## Referencias
 

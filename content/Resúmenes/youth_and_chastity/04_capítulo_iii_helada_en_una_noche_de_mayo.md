@@ -12,7 +12,7 @@ tags: ["resumen", "youth_and_chastity", "pecado", "masturbación", "corrupción"
 
 ## Conceptos básicos referenciados
 
-- [[pecado_contra_la_castidad]] — el pecado secreto de la lujuria; «cada pecado que un hombre comete es sin el cuerpo» (1 Cor 6,18).
+- [[lujuria]] — el pecado secreto de la lujuria; «cada pecado que un hombre comete es sin el cuerpo» (1 Cor 6,18).
 - [[conciencia]] — la conciencia que al principio advierte y luego se acalla.
 - [[masturbación]] — el primer pecado secreto; «se ha hundido en el mar de la corrupción».
 - [[corrupción_moral]] — la trayectoria descendente: curiosidad → tentación → caída → repetición → estancamiento.

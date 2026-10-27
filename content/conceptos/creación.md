@@ -107,6 +107,14 @@ Sicre dedica al tema de la creación una atención doble: como problema científ
 
 [IAT, cap. 1, §§2.1, 4.1 y 4.2]
 
+### Según 2 Samuel (Barron)
+
+Barron llega a la creación *ex nihilo* por la vía de la incomparabilidad divina. En la oración de David (2 Sm 7,22-24) —«no hay Dios fuera de ti»— resuena el lenguaje del Deutero-Isaías: Dios no es «un Dios, aunque grande y supremo, entre muchos», sino el único que existe de un modo que lo hace propiamente incomparable a las criaturas. No está simplemente «en otro lugar», sino que es de otro modo: «no meramente otro, sino *otherly other*» (2SmBr, 2 Sm 7).
+
+De esa identidad metafísica se sigue la creación de la nada: el que hizo la totalidad de lo finito —«cielo y tierra»— no puede ser ingrediente del mundo finito, ni material ni inmaterial. «Si Dios hubiera hecho el mundo a partir de alguna realidad preexistente, entonces podría, en principio, ser clasificado junto a esa materia equiprimordial». La *creatio ex nihilo* es, por tanto, la implicación teológica de la incomparabilidad de Yahvé, y a la vez el fundamento de su [[trascendencia_no_competitiva]]: solo quien ha hecho todo lo finito puede estar presente en cada criatura sin desplazarla ni consumirla (2SmBr, 2 Sm 7).
+
+El comentario ilustra esa presencia con el contraste entre Zeus y Sémela —la epifanía del dios aniquila a la criatura— y la zarza ardiente de Éxodo 3, que arde sin consumirse: la cercanía del Dios Creador no destruye lo creado, lo transfigura. La Encarnación lleva esa lógica a su plenitud, y el axioma de Ireneo —*Gloria Dei homo vivens*, «la gloria de Dios es el hombre viviente»— resume la tradición que de ella deriva (2SmBr, 2 Sm 7).
+
 ## Distinciones importantes
 
 - **Creación ≠ emanación**: Dios no «emana» el mundo de su substancia; lo crea libremente de la nada.

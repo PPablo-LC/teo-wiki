@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Transfiguración
 tags: ["cristología"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-27
 description: "La Transfiguración es la manifestación momentánea de la gloria divina de Jesús ante tres discípulos (Pedro, Santiago y Juan) en el monte Tabor."
 ---
 # Transfiguración
 
 > Área: Cristología
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-27
 
 ## Definición
 
@@ -37,7 +37,17 @@ La Transfiguración anticipa la parusía. Pedro la recordará en su segunda cart
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la Transfiguración en la IIIª q.45. Fue conveniente porque Cristo, tras anunciar su pasión, quiso mostrar a los discípulos la gloria del fin para que soportasen con ánimo las adversidades (IIIª q.45 a.1). La claridad que apareció fue verdadera claridad de la gloria en cuanto a la esencia, pero no permanente sino transeúnte, a modo de milagro (IIIª q.45 a.2). Los testigos fueron Moisés y Elías (la Ley y los Profetas) y tres discípulos (Pedro, Santiago y Juan), para que «por la declaración de dos o tres testigos sea firme este hecho» (IIIª q.45 a.3). La voz del Padre —«Este es mi Hijo amado; escuchadle»— confirmó la filiación natural de Cristo, pues la Transfiguración es sacramento de la segunda regeneración, así como el Bautismo lo es de la primera (IIIª q.45 a.4).
+Santo Tomás trata la Transfiguración en la IIIª q.45, dentro del tratado de la vida de Cristo.
+
+#### IIIª q.45 — Transfiguración de Cristo
+
+**a.1 — Fue conveniente que Cristo se transfigurase:** Después de anunciar su pasión, el Señor había inducido a sus discípulos a seguirle por el mismo camino; y para que uno marche directamente por el camino es necesario que conozca de algún modo el fin con anterioridad, como el sagitario no disparará bien la flecha si antes no conoce el blanco. Esto es especialmente necesario cuando el viaje es difícil y áspero, el camino laborioso y el fin alegre. Cristo llegó a la gloria por medio de su pasión —no solo la del alma, que gozó desde el principio de su concepción, sino también la del cuerpo (Lc 24,26)—, y a esa misma gloria conduce a los que siguen las huellas de su pasión (Act 14,21). Por eso fue conveniente que manifestase a sus discípulos la gloria de su claridad —que es lo mismo que transfigurarse—, con la que configurará a los suyos (Flp 3,21); «por piadosa providencia aconteció que, mediante la breve contemplación del gozo que nunca acaba, tolerasen con mayor ánimo las adversidades» (Beda). (SmTh IIIa q.45 a.1)
+
+**a.2 — Aquella claridad fue la claridad de la gloria:** En cuanto a la esencia, sí; no en cuanto al modo de ser. La claridad del cuerpo glorioso brota de la claridad del alma (Agustín), y del mismo modo la del cuerpo de Cristo en la transfiguración emanó de su divinidad y de la gloria de su alma (Damasceno). Que la gloria del alma no redundase en el cuerpo desde el principio de la concepción aconteció por disposición divina, a fin de que realizase en un cuerpo pasible los misterios de nuestra redención; y no por eso se le quitó a Cristo el poder de hacer venir sobre su cuerpo la gloria de su alma. En el cuerpo glorificado la claridad redunda a modo de cualidad permanente e inmanente, y por eso el resplandor corporal no es algo milagroso; pero en la transfiguración provino a modo de pasión transeúnte, como cuando la atmósfera es iluminada por el sol. Por eso el resplandor que entonces apareció en el cuerpo de Cristo fue milagroso, como lo fue el que caminase sobre las olas del mar (Mt 14,25). De ahí que no deba afirmarse, como dijo Hugo de San Víctor, que Cristo tomó entonces las dotes de claridad, agilidad y sutileza, porque la dote es una cualidad inmanente en el cuerpo glorioso: tuvo milagrosamente lo que es propio de tales dotes. (SmTh IIIa q.45 a.2)
+
+**a.3 — Fue conveniente hacer comparecer testigos:** Cristo quiso transfigurarse para mostrar su gloria a los hombres y provocar en ellos el deseo de la misma. Ahora bien, a la gloria de la eterna bienaventuranza son conducidos por Cristo no solo los que han existido después de él, sino también los que le precedieron —de ahí que las turbas que le seguían y las que le precedían clamaran «hosanna» (Mt 21,9), como si le pidiesen la salvación—. Por eso fue conveniente que estuviesen presentes, como testigos de los que le precedían, Moisés y Elías; y de los que le seguían, Pedro, Santiago y Juan, para que «por la declaración de dos o tres testigos sea firme este hecho» (Dt 19,15). (SmTh IIIa q.45 a.3)
+
+**a.4 — Fue oportuno el testimonio de la voz del Padre:** La adopción de los hijos de Dios se realiza mediante cierta conformidad con la imagen del Hijo natural, y esto acontece de dos maneras: primero, por la gracia de la vida presente, que es una conformidad imperfecta; segundo, mediante la gloria, que es la conformidad perfecta —«Ahora somos hijos de Dios, y aún no se ha manifestado lo que seremos... sabemos que, cuando se manifieste, seremos semejantes a él, porque le veremos tal cual es» (1 Jn 3,2)—. Por consiguiente, así como por el bautismo conseguimos la gracia, en la transfiguración se manifestó anticipadamente la claridad de la gloria futura; por eso, tanto en el bautismo como en la transfiguración fue conveniente que el testimonio del Padre diese a conocer la filiación natural de Cristo —«Este es mi Hijo amado; escuchadle»—, porque solo el Padre, junto con el Hijo y el Espíritu Santo, es perfecto conocedor de aquella generación perfecta. La Transfiguración es así sacramento de la segunda regeneración, como el Bautismo lo es de la primera. (SmTh IIIa q.45 a.4)
 
 ### Según Royo Marín (TPCr)
 

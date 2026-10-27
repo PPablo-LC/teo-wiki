@@ -52,13 +52,13 @@ El autor señala sus efectos devastadores: pérdida de la veracidad («la mentir
 
 ## Relaciones doctrinales
 
-[[pureza]], [[castidad]], [[pudor]], [[lepra]], [[pecado_contra_la_castidad]],
+[[pureza]], [[castidad]], [[pudor]], [[lepra]], [[lujuria]],
 [[teología_del_cuerpo]], [[continencia]], [[torá]], [[corazón]]
 
 ## Ver también
 
 [[pureza]], [[castidad]], [[pudor]], [[teología_del_cuerpo]], [[continencia]],
-[[lepra]], [[corazón]], [[pecado_contra_la_castidad]]
+[[lepra]], [[corazón]], [[lujuria]]
 
 ## Referencias
 

@@ -12,7 +12,7 @@ tags: ["resumen", "youth_and_chastity", "pecado", "incredulidad", "consecuencias
 
 ## Conceptos básicos referenciados
 
-- [[pecado_contra_la_castidad]] — la esclavitud progresiva: «hábito se convierte en necesidad».
+- [[lujuria]] — la esclavitud progresiva: «hábito se convierte en necesidad».
 - [[incredulidad]] — el ateísmo como consecuencia de la impureza: «Nemo incredulus, nisi impurus» (San Agustín).
 - [[voluntad]] — la parálisis de la voluntad por el pecado repetido.
 - [[conciencia]] — la conciencia que advierte y luego se acalla completamente.

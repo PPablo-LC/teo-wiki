@@ -34,7 +34,7 @@ Promovió la Fórmula de Unión del 433 (D-142a-b), que restableció la paz con 
 
 ## Ver también
 
-[[theotokos]], [[nestorianismo]], [[unidad_hipostática]], [[concilio_de_éfeso]], [[celestino_i]], [[comunicación_de_idiomas]]
+[[theotokos]], [[nestorianismo]], [[unión_hipostática]], [[concilio_de_éfeso]], [[celestino_i]], [[comunicación_de_idiomas]]
 
 ## Referencias
 

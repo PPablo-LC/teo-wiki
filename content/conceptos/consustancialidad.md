@@ -33,11 +33,11 @@ El **IV Concilio de Letrán** (1215), en el *Firmemente creemos* (D-428), reafir
 
 ## Relaciones doctrinales
 
-La consustancialidad es el fundamento de la fe [[trinidad|trinitaria]] y [[cristología|cristológica]]. Se relaciona con la [[generación_eterna]] del Hijo, la [[unidad_hipostática]] de las dos naturalezas en Cristo, y el [[filioque]] en la procesión del Espíritu Santo. Su negación constituye el [[arrianismo]].
+La consustancialidad es el fundamento de la fe [[trinidad|trinitaria]] y [[cristología|cristológica]]. Se relaciona con la [[generación_eterna]] del Hijo, la [[unión_hipostática]] de las dos naturalezas en Cristo, y el [[filioque]] en la procesión del Espíritu Santo. Su negación constituye el [[arrianismo]].
 
 ## Ver también
 
-[[arrianismo]], [[trinidad]], [[unidad_hipostática]], [[credo_niceno]], [[concilio_de_nicea_i]], [[filioque]], [[símbolo_atanasiano]]
+[[arrianismo]], [[trinidad]], [[unión_hipostática]], [[credo_niceno]], [[concilio_de_nicea_i]], [[filioque]], [[símbolo_atanasiano]]
 
 ## Referencias
 

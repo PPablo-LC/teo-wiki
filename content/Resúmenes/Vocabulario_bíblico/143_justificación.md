@@ -21,7 +21,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fe]] — la justificación por la fe
 - [[gratuito]] — el carácter gratuito de la justificación
 - [[gracia]] — la gracia que justifica
-- [[cristo_jesus]] — Cristo, nuestra justificación
+- [[jesucristo]] — Cristo, nuestra justificación
 - [[paz]] — la paz con Dios
 - [[reconciliación]] — la reconciliación
 - [[santificación]] — la santificación

@@ -55,7 +55,7 @@ El concilio también condenó a los pelagianos (D-126-127), decretando la deposi
 
 ## Ver también
 
-[[theotokos]], [[nestorianismo]], [[unidad_hipostática]], [[cirilo_de_alejandría]], [[celestino_i]], [[comunicación_de_idiomas]]
+[[theotokos]], [[nestorianismo]], [[unión_hipostática]], [[cirilo_de_alejandría]], [[celestino_i]], [[comunicación_de_idiomas]]
 
 ## Referencias
 

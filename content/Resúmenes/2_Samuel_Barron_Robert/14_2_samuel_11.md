@@ -20,7 +20,7 @@ tags: ["resumen", "2 samuel barron robert"]
 - [[poder]] — Usado tiránicamente cuando se desvincula del servicio a Dios.
 - [[concupiscencia]] — Herida del [[pecado_original]] que desordena mente y voluntad.
 - [[engaño]] — Intento vano de ocultar al hombre lo que Dios ve.
-- [[asesinato]] — Multiplicación del mal para encubrir el mal.
+- [[homicidio]] — Multiplicación del mal para encubrir el mal.
 - [[arrepentimiento]] — Posible solo cuando se acepta ver la verdad ante Dios.
 - [[justicia_divina]] — «La cosa que David había hecho desagradó al Señor» (2 Sam 11:27).
 
@@ -32,7 +32,7 @@ tags: ["resumen", "2 samuel barron robert"]
 
 ### El encubrimiento y el crimen
 
-Descubierto el embarazo, David intenta hacer regresar a Urías de la batalla para que duerma con su mujer. Pero Urías, leal a sus compañeros y al arca, se niega: «¿He de ir yo a mi casa, a comer y a beber y a acostarme con mi mujer?» (2 Sam 11:11). Frustrado, David lo emborracha y, al fracasar, lo envía con una carta a Joab ordenando ponerlo en lo más recio de la lucha para que muera. Así, [[adulterio]], [[engaño]] y [[asesinato]] se encadenan. Muchos mueren con Urías para encubrir un solo pecado.
+Descubierto el embarazo, David intenta hacer regresar a Urías de la batalla para que duerma con su mujer. Pero Urías, leal a sus compañeros y al arca, se niega: «¿He de ir yo a mi casa, a comer y a beber y a acostarme con mi mujer?» (2 Sam 11:11). Frustrado, David lo emborracha y, al fracasar, lo envía con una carta a Joab ordenando ponerlo en lo más recio de la lucha para que muera. Así, [[adulterio]], [[engaño]] y [[homicidio]] se encadenan. Muchos mueren con Urías para encubrir un solo pecado.
 
 ### La omnisciencia de Dios y la raíz del mal
 

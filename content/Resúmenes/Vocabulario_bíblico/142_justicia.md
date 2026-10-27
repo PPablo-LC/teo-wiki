@@ -26,7 +26,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[judío]] — la justicia legal del judaísmo
 - [[fe]] — la justificación por la fe
 - [[justificación]] — la justicia donada
-- [[cristo_jesus]] — Cristo, nuestra justicia
+- [[jesucristo]] — Cristo, nuestra justicia
 - [[gratuito]] — la justificación gratuita
 - [[paz]] — la paz que acompaña a la justicia
 - [[reconciliación]] — el don de la justicia en Cristo

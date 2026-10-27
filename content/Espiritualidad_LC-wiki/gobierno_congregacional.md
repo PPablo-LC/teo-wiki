@@ -64,7 +64,7 @@ Los Capítulos Generales de la Congregación han abordado repetidamente la cuest
 
 ## Relaciones doctrinales
 
-El gobierno congregacional se relaciona con el [[superior_legionario]], la [[obediencia_filial]], la [[federación_regnum_christi]], las [[constituciones_lc]], el [[capítulo_general]], el [[carisma_legionario]] y las [[normas_complementarias]].
+El gobierno congregacional se relaciona con el [[superior_legionario]], la [[obediencia_filial]], la [[federación_regnum_christi]], las [[constituciones_legionarios_de_cristo]], el [[capítulo_general]], el [[carisma_legionario]] y las [[normas_complementarias]].
 
 ## Ver también
 

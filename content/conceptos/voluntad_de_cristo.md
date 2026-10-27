@@ -2,11 +2,12 @@
 type: Concepto Teológico
 title: Voluntad de Cristo
 description: "La voluntad de Cristo designa el principio apetitivo por el cual Cristo quiere y elige."
+timestamp: 2026-10-27
 ---
 # Voluntad de Cristo
 
 > Area: Cristologia
-> Ultima actualizacion: 2026-06-12
+> Ultima actualizacion: 2026-10-27
 
 ## Definicion
 
@@ -103,7 +104,7 @@ La contrariedad requeriria oposicion sobre un mismo objeto bajo el mismo aspecto
 
 ## Relaciones doctrinales
 
-[[libre_albedrío]], [[operacion_de_cristo]], [[gracia_de_cristo]], [[ciencia_de_cristo]], [[pasión_de_cristo]], [[unidad_hipostática]], [[naturaleza_humana_de_cristo]], [[monotelismo]]
+[[libre_albedrío]], [[operación_de_cristo]], [[gracia_de_cristo]], [[ciencia_de_cristo]], [[pasión_de_cristo]], [[unión_hipostática]], [[naturaleza_humana_de_cristo]], [[monotelismo]]
 
 ## Ver tambien
 

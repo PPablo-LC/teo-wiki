@@ -3,13 +3,13 @@ type: Concepto LC
 title: Constituciones Legionarios de Cristo (CLC-2020)
 tags: ["derecho_canónico", "vida_consagrada", "espiritualidad"]
 
-timestamp: 2026-05-29
+timestamp: 2026-10-27
 description: "Las Constituciones de la Congregación de los Legionarios de Cristo (CLC-2020) son el código fundamental del derecho propio de la Legión de Cristo, aprobado por la Santa Sede el 15 de octubre de 2020."
 ---
 # Constituciones Legionarios de Cristo (CLC-2020)
 
 > Área: Derecho Canónico / Vida Consagrada / Espiritualidad
-> Última actualización: 2026-05-29
+> Última actualización: 2026-10-27
 
 ## Definición
 
@@ -52,6 +52,24 @@ Las CLC-2020 se organizan en cuatro partes y veinte capítulos, con 237 números
 
 **Primacía de la gracia.** En el camino de santificación, los legionarios reconocen siempre la primacía de la gracia, colaborando con ella y aprovechando los medios que la Legión ofrece (CLC-2020 55).
 
+### Según las ediciones anteriores (1984 y 1998)
+
+**Edición de 1984 (bilingüe).** Preparada para el 50 aniversario de la Congregación, recoge el texto completo en español e inglés y es la fuente primaria de la identidad y la normativa legionaria antes de la renovación. Su contenido se articula en tres partes:
+
+- **Parte I — Propósito, naturaleza y patronos (nn. 1-57):** santificar a los miembros y edificar el Reino de Cristo a través de grupos selectos de liderazgo, obras educativas, medios de comunicación y apostolados familiares; dedicación al Sagrado Corazón de Jesús, a la Santísima Virgen Dolorosa y a San Juan Evangelista; el legionario es llamado a «centrar toda su existencia en Cristo por medio de un amor real, personal, viril y apasionado».
+- **Parte II — Etapas de la vida legionaria (nn. 58-784):** admisión (Cap. I), con impedimentos detallados que incluyen «tendencia hacia amistades impropias», «juicio inflexible», «hábito de murmurar» y falta de sentido común; candidatura (Cap. II) y noviciado (Cap. III), dos años de formación intensiva con oración, adoración, trabajo agrícola y lectura diaria de la Escritura («ignorancia de la Escritura es ignorancia de Cristo»); profesión religiosa (Cap. IV) y periodo de estudios (Cap. V), con humanidades, filosofía tomista, teología magisterial en latín y siete áreas de especialización; internado (Cap. VI) y ordenación sagrada (Cap. VII), «solo si el grano de trigo cae en tierra y muere dará fruto» (Jn 12,24); renovación espiritual (Cap. VIII); cuidado de enfermos y difuntos (Cap. IX); salida y expulsión (Cap. X), con separación de quienes destruyen la unidad o la caridad de la comunidad.
+- **Parte III — Espíritu y disciplina (nn. 785-1.431):** la [[mística_legionaria]] del «contemplativo y conquistador» (nn. 222-229) y las virtudes más recomendadas (obediencia, humildad, castidad, caridad universal); los votos religiosos de [[pobreza_religiosa|pobreza]], [[castidad_religiosa|castidad]] y [[obediencia_religiosa|obediencia]] («nunca ciega», motivada por la fe); los votos privados —el [[voto_privado]] de no buscar cargos y no criticar externamente, con interpretación amplia que incluye los defectos personales de los superiores— y el voto de fidelidad y caridad; y las normas de disciplina religiosa (clausura, correspondencia, familia, medios).
+
+**Edición de 1998 (extractos).** Publicada como segunda edición, se centra en los votos privados (Art. 5) y en los mecanismos de remoción del Director General:
+
+- **Voto de no criticar:** interpretación ampliada, que incluye no solo los actos formales de gobierno, sino toda crítica externa sobre «su personalidad humana: temperamento, carácter, defectos físicos, defectos intelectuales, defectos morales».
+- **Exención del Director General:** «el director general está exento de este voto» (nn. 314-317).
+- **Monitor del Director General:** rol de supervisión espiritual del DG, elegido por votación secreta pero que debe ser aprobado por el DG, y removido si «expone o critica» aspectos de la vida del DG (nn. 573-577).
+- **Destitución del DG:** mayoría de dos tercios de los Directores Territoriales y del Consejo General (n. 485.3).
+- **Nota histórica:** la renuncia abrupta e inesperada de Maciel en enero de 2005, durante el III Capítulo General, coincidió con la investigación de la Congregación para la Doctrina de la Fe sobre denuncias de abuso sexual.
+
+La edición de 1984 representa el punto de máxima institucionalización de la espiritualidad macielista: junto a elementos doctrinales reconocibles en el Magisterio universal (votos religiosos, doctrina tomista, sacramentos) incluye elementos específicos de la espiritualidad legionaria (votos privados, mística del «co-fundador», normas de disciplina extremadamente detalladas). El paso a la edición de 1998 introduce novedades principalmente en el régimen de gobierno (Monitor del DG, procedimiento de remoción) y en la ampliación del voto privado.
+
 ### Proceso de revisión (2010-2014)
 
 La revisión de las Constituciones tuvo lugar entre 2010 y 2014, bajo la dirección del delegado pontificio Mons. Velasio De Paolis, CS, nombrado por Benedicto XVI. La Comisión Central fue presidida por el delegado pontificio e integrada por los padres Gianfranco Ghirlanda, SJ, Agostino Montan, CSI, y legionarios. Se recibieron aportaciones de todos los territorios y comunidades. El proceso fue confirmado por el papa Francisco en 2013. La versión resultante fue aprobada en 2014, y la versión vigente actual fue aprobada el 15 de octubre de 2020.
@@ -78,7 +96,7 @@ Las Constituciones han conocido siete versiones: 1948 (primera, erección canón
 
 ## Relaciones doctrinales
 
-Se relaciona con [[identidad_legionaria]], [[carisma_legionario]], [[espiritualidad_legionaria]], [[cristocentrismo_legionario]], [[consejos_evangélicos]], [[voto_propio]], [[vida_consagrada]], [[capítulo_general]], [[federación_regnum_christi]].
+Se relaciona con [[identidad_legionaria]], [[carisma_legionario]], [[espiritualidad_legionaria]], [[cristocentrismo_legionario]], [[consejos_evangélicos]], [[voto_propio]], [[vida_consagrada]], [[capítulo_general]], [[federación_regnum_christi]], [[mística_legionaria]], [[voto_privado]], [[disciplina_religiosa]].
 
 ## Ver también
 
@@ -87,6 +105,8 @@ Se relaciona con [[identidad_legionaria]], [[carisma_legionario]], [[espirituali
 ## Referencias
 
 - [AntDp-2015, `03_primera_parte.md:354-408` (decreto sobre criterios de revisión); `03_primera_parte.md:564-580` (decreto sobre nuncios ordinarios); `03_primera_parte.md:583-650` (decreto sobre correspondencia e Internet); `05_tercera_parte.md:315-668` (conferencia del P. Ghirlanda sobre carisma y derecho propio)]
+- [Constituciones de la Legión de Cristo 1984 — edición bilingüe, 1.431 líneas (LC-Wik, archivo 09)]
+- [Constituciones LC, segunda edición 1998 — extractos sobre votos privados, Monitor del DG y remoción (LC-Wik, archivo 10)]
 - [CLC-2020, texto completo, 237 números]
 - [CIC, cc. 578, 587]
 - [Proceso de revisión 2010-2014]

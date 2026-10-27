@@ -69,7 +69,7 @@ La mística legionaria se relaciona estrechamente con [[cristocentrismo_legionar
 
 ## Ver también
 
-[[cristocentrismo_legionario]], [[carisma_legionario]], [[espiritualidad_legionaria]], [[contemplativo_y_conquistador]], [[vida_litúrgica_y_oración]], [[militia_christi]], [[constituciones_lc]]
+[[cristocentrismo_legionario]], [[carisma_legionario]], [[espiritualidad_legionaria]], [[contemplativo_y_conquistador]], [[vida_litúrgica_y_oración]], [[militia_christi]], [[constituciones_legionarios_de_cristo]]
 
 ## Referencias
 

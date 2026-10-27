@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Unión Hipostática
 tags: ["dogmática", "cristología"]
 
-timestamp: 2026-10-19
+timestamp: 2026-10-27
 description: "Unión de la naturaleza humana y la naturaleza divina en la única Persona del Verbo (Hijo de Dios), en Jesucristo."
 ---
 # Unión Hipostática
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-10-19
+> Última actualización: 2026-10-27
 
 ## Definición
 Unión de la naturaleza humana y la naturaleza divina en la única Persona del Verbo (Hijo de Dios), en Jesucristo. Las dos naturalezas, sin mezcla ni confusión, subsisten en una sola hipóstasis o persona divina.
@@ -115,6 +115,8 @@ La unión hipostática es propia y exclusiva de Cristo. No cabe imaginar una uni
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
+Los primeros símbolos y fórmulas de fe ya enseñan la unidad de persona en Cristo. El **Símbolo Niceno en su forma larga** (D-13) afirma que el Verbo «se hizo carne» tomando al hombre perfecto —alma, cuerpo e inteligencia— excepto el pecado, en una sola persona, y que se encarnó «no sufriendo cambio o transformando su divinidad en humanidad, sino juntando en una sola su santa perfección y divinidad; porque uno solo es el Señor Jesucristo y no dos». La **fórmula «Fe de Damaso»** (D-16) añade que Cristo «empezó a ser lo que no era» sin perder lo que era: perfecto en lo suyo y verdadero en lo nuestro. La **fórmula antipriscilianista** (D-20) precisa que en Cristo «convienen en una absolutamente sola persona solo las dos naturalezas, esto es, de la Divinidad y de la carne», y los **cánones antipriscilianistas** (D-25-27) condenan a quienes niegan la integridad de la humanidad asumida o atribuyen mutabilidad o pasibilidad a la divinidad. El **Símbolo Atanasiano** (D-39-40) resume la fe: Jesucristo es «Dios y hombre... perfecto Dios, perfecto hombre... no por conversión de la divinidad en la carne, sino por la asunción de la humanidad en Dios; uno absolutamente, no por confusión de la sustancia, sino por la unidad de la persona».
+
 El **II Concilio de Constantinopla** (553, V ecuménico) definió la unión hipostática con la máxima precisión dogmática. El canon 4 (D-216) enseña que la unión de Dios Verbo con la carne se hizo «según composición, es decir, según hipóstasis», de modo que «una sola persona de Él, que es el Señor Jesucristo, uno de la Santa Trinidad». Se rechaza tanto la unión por confusión (Eutiques, Apolinar) como la unión meramente habitual (Teodoro, Nestorio). El canon 5 (D-217) afirma que la Trinidad no admitió «añadidura de persona o hipóstasis, ni aun con la encarnación de uno de la santa Trinidad, el Dios Verbo». El canon 7 (D-219) confiesa a Cristo conocido «en dos naturalezas» —divinidad y humanidad— que permanecen sin confusión después de la unión. El canon 8 (D-220) precisa que «permaneciendo cada una lo que es, el Verbo se unió a la carne», resultando «un solo Cristo, Dios y hombre, el mismo consustancial al Padre según la divinidad, y el mismo consustancial a nosotros según la humanidad». El canon 10 (D-222) confiesa que el crucificado en la carne es «Dios verdadero y Señor de la gloria y uno de la santa Trinidad».
 
 El **Papa San Gregorio I Magno** (601) determinó el momento de la unión hipostática: «No fue primero concebida la carne en el seno de la Virgen y luego vino la divinidad a la carne; sino inmediatamente, apenas vino el Verbo a su seno, inmediatamente, conservando la virtud de su propia naturaleza, el Verbo se hizo carne... Ni fue primero concebido y luego ungido, sino que el mismo ser concebido por obra del Espíritu Santo de la carne de la Virgen, fue ser ungido por el Espíritu Santo» (D-250).
@@ -129,12 +131,13 @@ El **Papa San Gregorio I Magno** (601) determinó el momento de la unión hipost
 - Comunicación de idiomas: lo que es propio de una naturaleza se predica de la Persona del Verbo
 
 ## Relaciones doctrinales
-Se relaciona con [[encarnación]], [[jesucristo]], [[trinidad]], [[virgen_maría]], [[redención]].
+Se relaciona con [[encarnación]], [[jesucristo]], [[trinidad]], [[virgen_maría]], [[redención]]. Presupone la [[consustancialidad]] del Hijo con el Padre y es la base de la [[comunicación_de_idiomas]] —la atribución mutua de propiedades de ambas naturalezas a la única persona del Verbo—. Se distingue de la inhabitación divina en los justos, que es unión por gracia y no hipostática. De ella derivan las consecuencias de la unión tratadas en [[operación_de_cristo]], [[voluntad_de_cristo]] y [[naturaleza_humana_de_cristo]].
 
 ## Ver también
-[[naturaleza_humana]], [[consubstancial]]
+[[naturaleza_humana]], [[consubstancial]], [[operación_de_cristo]], [[voluntad_de_cristo]]
 ## Referencias
 
 - [CEC §468-470; §252; §476]
 - [TPCr, Primera Parte, Cap. 1 y 3]
 - SmTh IIIª q.2 aa.1-9; q.3 aa.1-7; q.4 aa.2-3; q.16 aa.1-12; q.17 aa.1-2; q.20 aa.1-2
+- Denzinger D-13, D-16, D-20, D-25-27, D-39-40, D-216-217, D-219-220, D-222, D-250 (Enchiridion Symbolorum)

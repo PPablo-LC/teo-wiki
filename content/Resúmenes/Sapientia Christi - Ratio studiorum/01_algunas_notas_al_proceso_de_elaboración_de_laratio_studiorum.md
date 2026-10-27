@@ -15,7 +15,7 @@ tags: ["resumen", "ratio_studiorum", "sapientia_christi", "cristocentrismo", "fo
 - [[sapientia_christi]] — Título de la Ratio studiorum de la Legión de Cristo (2021)
 - [[cristocentrismo]] — Hilo conductor del documento: Cristo como criterio, centro y modelo de la formación intelectual
 - [[ratio_institutionis_christus_vita_vestra]] — Ratio institutionis de la Congregación (2ª ed.)
-- [[constituciones_lc_2020]] — Constituciones aprobadas por la Santa Sede en octubre de 2020
+- [[constituciones_legionarios_de_cristo]] — Constituciones aprobadas por la Santa Sede en octubre de 2020
 - [[john_connor]] — Director general de la Legión de Cristo
 - [[perfil_intelectual]] — Rasgos esenciales del perfil intelectual del legionario
 - [[formación_intelectual]] — Dimensión intelectual de la formación del legionario

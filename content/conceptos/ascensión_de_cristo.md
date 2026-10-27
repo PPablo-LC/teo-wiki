@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ascensión de Cristo
 tags: ["cristología", "liturgia"]
 
-timestamp: 2026-06-20
+timestamp: 2026-10-27
 description: "La Ascensión de Cristo es el misterio glorioso por el cual Jesucristo, cuarenta días después de su [[resurrección_de_cristo]], subió al [[cielo]] en cuerpo y alma."
 ---
 # Ascensión de Cristo
 
 > Área: Cristología / Liturgia
-> Última actualización: 2026-06-20
+> Última actualización: 2026-10-27
 
 ## Definición
 
@@ -29,13 +29,19 @@ La Ascensión marca la entrada definitiva de la humanidad de Cristo en el domini
 
 Tomás de Aquino dedica la cuestión 57 de la IIIª Pars a la ascensión de Cristo, en seis artículos.
 
-**Conveniencia de la ascensión (q.57 a.1).** Cristo resucitado inició una vida inmortal e incorruptible, por lo que era conveniente que no permaneciera en la tierra —lugar de generación y corrupción— sino que subiera al cielo, lugar de incorrupción. Se difirió cuarenta días (a.1 ad 4) para confirmar la verdad de su resurrección. La ascensión nos fue útil para la fe (las cosas que no se ven), para la esperanza (Cristo nos precedió al cielo), y para la caridad (elevando nuestro afecto hacia los bienes celestes y preparando la venida del Espíritu Santo).
+#### IIIª q.57 — Ascensión de Cristo
 
-**Medio de la ascensión: propio poder (a.2-3).** En cuanto a la condición del que asciende, la ascensión compete a Cristo según la naturaleza humana, no según la divina, pues es movimiento local. En cuanto a la causa, ascendió por virtud divina. Ascendió por su propio poder (a.3): por la virtud divina como causa primera, y por la virtud de su alma glorificada, que mueve el cuerpo glorioso donde el espíritu quiere.
+**a.1 — Fue conveniente que Cristo ascendiese a los cielos:** Debe haber proporción entre el lugar y el que lo ocupa. Cristo, por su resurrección, dio comienzo a una vida inmortal e incorruptible; ahora bien, el lugar en que habitamos es de generación y corrupción, mientras que la morada del cielo es lugar de incorrupción. Por eso no fue conveniente que Cristo, después de la resurrección, permaneciese en la tierra, sino que subiera a los cielos. La ascensión se difirió cuarenta días para confirmar la verdad de su resurrección, y nos fue útil para la **fe** (las cosas que no se ven), para la **esperanza** (Cristo nos precedió al cielo) y para la **caridad** (elevando nuestro afecto hacia los bienes celestes y preparando la venida del Espíritu Santo). (SmTh IIIa q.57 a.1)
 
-**Lugar de la ascensión (a.4-5).** Ascendió por encima de todos los cielos corpóreos (a.4): el cuerpo de Cristo, por su gloria, supera en dignidad a todos los cuerpos naturales. Ascendió también por encima de toda criatura espiritual (a.5): no por condición de su naturaleza corporal, sino por la dignidad de la unión hipostática, que excede a toda sustancia espiritual.
+**a.2 — No le conviene por razón de su naturaleza divina:** El *secundum quod* puede indicar la condición del que asciende o la causa de la ascensión. Si designa la **condición del que asciende**, el ascender no puede convenir a Cristo según su naturaleza divina: nada hay más alto que la divinidad adonde pudiera subir, y la ascensión es un movimiento local que no corresponde a la naturaleza divina, inmóvil y no localizable. De este modo la ascensión le compete según la naturaleza humana, que está circunscrita por el lugar y sujeta al movimiento: en este sentido, Cristo sube a los cielos en cuanto hombre, no en cuanto Dios. Pero si el *secundum quod* designa la **causa de la ascensión** —habiendo subido en virtud de la divinidad y no de la naturaleza humana—, será preciso decir que Cristo sube al cielo no en cuanto hombre, sino en cuanto Dios: «Por lo que tenía de nosotros aconteció que el Hijo de Dios fuese colgado en la cruz; por lo que le era propio, ascendió» (Agustín). (SmTh IIIa q.57 a.2)
 
-**Causa de nuestra salvación (a.6).** La ascensión es causa de nuestra salvación de dos modos. Por parte nuestra: polarizando nuestro espíritu en Cristo (fe, esperanza, caridad, reverencia). Por parte de Cristo: (1) preparándonos el camino al cielo como cabeza que precede a los miembros; (2) intercediendo por nosotros al presentar su humanidad glorificada ante el Padre; (3) enviando los dones divinos desde el cielo, especialmente el Espíritu Santo. La ascensión causa nuestra salvación no a modo de mérito sino por vía de eficiencia.
+**a.3 — Ascendió por su propio poder:** En Cristo hay dos naturalezas, y su virtud propia puede entenderse según una y otra. Según la naturaleza humana, esa virtud se desdobla: una **natural**, que procede de los principios de la naturaleza —y es evidente que Cristo no ascendió por ella—, y otra, la **virtud de la gloria**, conforme a la cual ascendió a los cielos. Algunos buscaban la razón en una quintaesencia, opinión ya tratada y descartada (cf. q.76 a.7); omitida ésta, la razón se atribuye al alma glorificada, por cuya redundancia es glorificado el cuerpo, y la obediencia del cuerpo glorificado al alma bienaventurada es tan grande que «donde quiera el espíritu, allí estará el cuerpo al momento» (Agustín). Al cuerpo celeste e inmortal le compete estar en un lugar celestial, y por tal motivo el cuerpo de Cristo subió a los cielos por la virtud de su alma que lo quería. Y como la causa primera de la ascensión es la virtud divina, Cristo subió a los cielos por su propia virtud: en primer lugar, por la virtud divina; después, por la virtud del alma glorificada, que mueve al cuerpo como le place. (SmTh IIIa q.57 a.3)
+
+**a.4 — Ascendió por encima de todos los cielos:** Cuanto más perfectamente participan algunos cuerpos de la bondad divina, tanto más superiores son en el orden corpóreo, que es el orden local. Un cuerpo participa de la bondad divina por la **gloria** más que cualquier cuerpo natural por la forma de su naturaleza, y es evidente que, entre todos los cuerpos gloriosos, el cuerpo de Cristo resplandece con mayor gloria. De donde resulta sumamente conveniente para él ser colocado en lo alto por encima de todos los cuerpos. Por eso, a propósito de «subiendo a las alturas» (Ef 4,8), comenta la *Glosa*: «En lugar y en dignidad». (SmTh IIIa q.57 a.4)
+
+**a.5 — Subió por encima de toda criatura espiritual:** A un ser se le debe un lugar tanto más alto cuanto es más noble, bien por modo de contacto corporal —como sucede con los cuerpos—, bien por modo de contacto espiritual —como acontece con las sustancias espirituales, a las que por cierta conveniencia se les debe el lugar celestial, que es el supremo, porque tales sustancias son las supremas en el orden de las sustancias—. El cuerpo de Cristo, si se atiende a la condición de su naturaleza, está por debajo de las sustancias espirituales; pero, teniendo en cuenta la dignidad de su unión personal con Dios, excede en dignidad a todas las sustancias espirituales. Por eso le es debido un lugar más alto, por encima de toda criatura incluso espiritual: «quien había hecho todas las cosas, por su propia virtud era llevado por encima de todas ellas» (Gregorio). (SmTh IIIa q.57 a.5)
+
+**a.6 — La ascensión es causa de nuestra salvación:** De dos modos: uno, por parte nuestra; otro, por parte de Cristo. **Por parte nuestra**, en cuanto que por la ascensión de Cristo nuestro espíritu se polariza en él: de ella se siguen, primero, la fe; segundo, la esperanza; tercero, la caridad; y cuarto, un aumento de reverencia hacia él, al no considerarlo ya como hombre terreno, sino como Dios celestial —«Aunque conocimos a Cristo según la carne, ahora ya no lo conocemos así» (2 Cor 5,16)—. **Por parte de Cristo**, en cuanto a lo que hizo, al ascender, en favor de nuestra salvación: (1) nos **preparó el camino** para subir al cielo —«Voy a prepararos el lugar» (Jn 14,2); «Sube abriendo camino delante de ellos» (Miq 2,13)—, y por ser él nuestra cabeza es necesario que los miembros vayan adonde les ha precedido la cabeza —«Para que donde estoy yo, estéis también vosotros» (Jn 14,3)—; y en prueba de esto llevó al cielo las almas de los santos que había sacado del infierno, «subiendo a lo alto, llevó cautiva a la misma cautividad» (Sal 67,19); (2) entró en el cielo **para interceder por nosotros** (Heb 7,25), pues su misma presencia con la naturaleza humana que llevó al cielo es una cierta intercesión en nuestro favor, ya que por haber exaltado Dios así la naturaleza humana en Cristo, también se compadecerá de aquellos por los que el Hijo de Dios tomó la naturaleza humana; (3) para que, sentado en el trono del cielo como Dios y Señor, **enviase desde allí los dones divinos** —«Subió sobre todos los cielos para llenarlo todo», a saber, con sus dones (Ef 4,10)—. (SmTh IIIa q.57 a.6)
 
 ### Según Royo Marín (TPCr)
 
@@ -70,5 +76,6 @@ La Ascensión presupone la [[resurrección_de_cristo]] (condición previa), ante
 ## Referencias
 
 - CEC §659-667
+- SmTh IIIª q.57 a.1-6
 - TPCr, Segunda Parte, Misterios de Cristo
 - [VJ, Cap. VIII]

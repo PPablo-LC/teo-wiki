@@ -20,7 +20,7 @@ Documentos eclesiales y de derecho propio citados a lo largo de la obra:
 - [[pastores_dabo_vobis]] — Exhortación apostólica postsinodal de Juan Pablo II (PDV)
 - [[evangelii_gaudium]] — Exhortación apostólica postsinodal del papa Francisco (EG)
 - [[ratio_institutionis]] — Christus vita vestra, Ratio institutionis de los Legionarios de Cristo (CVV)
-- [[constituciones_lc]] — Constituciones de la Congregación de los Legionarios de Cristo, 2014 (CLC)
+- [[constituciones_legionarios_de_cristo]] — Constituciones de la Congregación de los Legionarios de Cristo, 2014 (CLC)
 - [[ecyd]] — Estatutos del ECYD (EECYD)
 
 ## Contenido

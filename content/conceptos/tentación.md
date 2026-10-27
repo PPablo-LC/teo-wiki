@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tentación
 tags: ["ascética_y_moral"]
 
-timestamp: 2026-10-02
+timestamp: 2026-10-27
 description: "La tentación es toda incitación al mal, ya proceda del demonio, del mundo o de la propia concupiscencia."
 ---
 # Tentación
 
 > Área: Ascética y Moral
-> Última actualización: 2026-10-02
+> Última actualización: 2026-10-27
 
 ## Definición
 
@@ -49,15 +49,15 @@ Santo Tomás trata la tentación del demonio en la Iª q.114 (sobre la insidia d
 
 **Insistencia de los demonios (q.114 a.5):** Los demonios no siempre insisten en tentar después de ser vencidos. A veces se retiran por permisión divina o por temor a ser nuevamente derrotados, pero pueden volver más tarde (como el demonio que «volverá a su casa» de Mt 12,44).
 
-#### Tentación de Cristo (IIIª q.41)
+#### IIIª q.41 — Tentación de Cristo
 
-**Conveniencia (q.41 a.1):** Cristo quiso ser tentado por cuatro razones: para proporcionarnos auxilio contra las tentaciones, para nuestra precaución (que nadie se tenga por seguro), para enseñarnos el modo de vencerlas con su ejemplo, y para infundir confianza en su misericordia (Heb 4,15). Cristo fue tentado solo por el enemigo, no por la carne, porque la tentación carnal implica concupiscencia y pecado.
+**a.1 — Convino que Cristo fuese tentado:** Quiso ser tentado por cuatro razones: (1) para **proporcionarnos auxilio** contra las tentaciones —«No era indigno de nuestro Redentor querer ser tentado, él que había venido para ser muerto; para que así venciese nuestras tentaciones con las suyas, lo mismo que aniquiló nuestra muerte con la propia» (Gregorio)—; (2) para nuestra **precaución**, a fin de que nadie, por santo que sea, se tenga por seguro e inmune a la tentación; por eso quiso ser tentado después del bautismo, pues «las tentaciones del diablo se ceban especialísimamente en los santos» (Hilario), y «Hijo, si vienes a servir al Señor, mantente firme en la justicia y el temor, y prepara tu alma para la tentación» (Eclo 2,1); (3) para **ejemplo**, esto es, para enseñarnos el modo de vencer las tentaciones, pues «Cristo se ofreció al diablo para ser tentado, a fin de ser el mediador para superar sus tentaciones, no sólo con la ayuda, sino también con el ejemplo» (Agustín); (4) para infundir en nosotros la **confianza en su misericordia** —«No tenemos un Sumo Sacerdote que no pueda compadecerse de nuestras flaquezas, pues fue tentado en todo, a semejanza nuestra, menos en el pecado» (Heb 4,15)—. Cristo fue tentado solo por el enemigo, no por la carne, porque la tentación carnal implica concupiscencia y pecado. (SmTh IIIa q.41 a.1)
 
-**Lugar (q.41 a.2):** Cristo se retiró al desierto deliberadamente para provocar al diablo, como a un campo de batalla. También lo hizo misteriosamente para liberar del destierro a Adán, y ejemplarmente para mostrar que el diablo envidia a los que tienden a la perfección.
+**a.2 — Cristo debió ser tentado en el desierto:** Por su propia voluntad se presentó al diablo para ser tentado, lo mismo que por su propia voluntad se ofreció a sus miembros para que le matasen; de otra manera, el diablo no se hubiera atrevido a acercarse a él. El diablo solicita más bien al que se encuentra solo —«si alguien prevalece contra uno, dos le hacen frente» (Ecl 4,12)—, y ésa es la explicación de que Cristo se retirase al desierto como a un campo de batalla. Ambrosio añade otras razones: lo hizo *misteriosamente*, para liberar del destierro a Adán, arrojado del paraíso al desierto (Gen 3,23), y *ejemplarmente*, para manifestarnos que el diablo tiene envidia de los que tienden a lo más perfecto. (SmTh IIIa q.41 a.2)
 
-**Tiempo (q.41 a.3):** Cristo quiso ser tentado después del ayuno: para enseñar que necesitamos el ayuno contra las tentaciones, para mostrar que el diablo ataca incluso a los que ayunan, y porque el hambre dio audacia al diablo, siendo vencido por la carne y no por Dios.
+**a.3 — La tentación debió producirse después del ayuno:** Por tres motivos: (1) para **ejemplo**, pues siendo perentorio para todos defenderse contra las tentaciones, al haber ayunado él antes nos enseñó que necesitamos armarnos con el ayuno contra ellas —el Apóstol lo enumera entre las «armas de la justicia» (2 Cor 6,5.7)—; (2) para mostrar que el diablo ataca incluso a los que ayunan, lo mismo que lo hace con los que se dedican a obras buenas; por eso, como Cristo es tentado después del bautismo, así lo es después del ayuno —«Para que aprendas cuán gran bien es el ayuno, y la calidad de escudo que reviste contra el diablo...» (Crisóstomo)—; (3) porque al ayuno siguió el hambre, que dio al diablo audacia para acometerlo: «El diablo no debía ser vencido por Dios, sino por la carne» (Hilario). En el ayuno Cristo no fue más allá que Moisés y Elías, a fin de que no apareciese como increíble su encarnación (Crisóstomo). (SmTh IIIa q.41 a.3)
 
-**Orden de las tentaciones (q.41 a.4):** El diablo siguió un orden ascendente: primero por la gula (convertir las piedras en pan), luego por la vanagloria (precipitarse del templo), y finalmente por la codicia y la idolatría (adorarlo a cambio de los reinos del mundo). Cristo rechazó cada tentación con testimonios de la ley, no con poder propio, venciendo al diablo con la justicia y no con el imperio. Cristo nos enseña a soportar con magnanimidad las injurias propias, pero a no tolerar las injurias contra Dios.
+**a.4 — Conveniencia del modo y del orden de la tentación:** La tentación que viene del enemigo se produce a modo de sugestión (Gregorio), y no puede hacerse a todos de la misma manera, sino que a cada uno se le sugiere algo entre las cosas que constituyen sus aficiones. Por eso el diablo no tienta desde un principio al hombre espiritual con pecados graves, sino que comienza poco a poco con los leves para llevarlo luego a los más graves, como lo hizo con el primer hombre: primero lo solicitó con la comida de la fruta prohibida, luego lo tentó de vanagloria —«Se abrirán vuestros ojos»— y finalmente llevó la tentación hasta la extrema soberbia —«Seréis como dioses» (Gen 3,1-5)—. Guardó también ese mismo orden con Cristo: primero lo tentó con la sustentación de la vida corporal (gula), luego con la vanagloria (hacer algo por ostentación) y por último con el deseo de las riquezas y la gloria del mundo «hasta el desprecio de Dios». Por eso en las dos primeras tentaciones dijo «Si eres el Hijo de Dios», pero no en la tercera, que no conviene a los varones espirituales, que son hijos de Dios por adopción. Cristo hizo frente a estas tentaciones con testimonios de la ley, no con el poder de su virtud, «a fin de que, de ese modo, honrase más al hombre y castigase en mayor grado al enemigo, como si el enemigo del género humano fuese vencido no por Dios, sino por el hombre» (León Magno). Y nos enseña a soportar con magnanimidad las injurias propias, pero a no tolerar las injurias contra Dios. (SmTh IIIa q.41 a.4)
 
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
@@ -133,7 +133,7 @@ Dios no tienta al mal (St 1,13); permite la tentación para mayor bien del alma.
 
 - TPCr, Tercera Parte, Libro I, Cap. III, Art. 1, n.210-213
 - SmTh Iª q.114, sobre la insidia de los demonios
-- SmTh IIIª q.41, sobre la tentación de Cristo
+- SmTh IIIª q.41 a.1-4
 - [EjEsp2026, cap. 1, 5, 8]
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. XI, §6c
 - AED, 08 (§155) — Tischrede 59: *Perché mi è data questa umanità* — la tentación como insinuación del equívoco.

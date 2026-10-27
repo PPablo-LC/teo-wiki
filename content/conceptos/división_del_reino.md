@@ -43,7 +43,7 @@ La división tuvo causas históricas concretas —los impuestos y los trabajos f
 
 ## Relaciones doctrinales
 
-Se relaciona con [[salomón]], [[jeroboam]], [[reoboam]], [[reino_de_israel]], [[reino_de_judá]], [[idolatría]], [[alianza]], [[profetas]], [[dinastía_davídica]]
+Se relaciona con [[salomón]], [[jeroboam]], [[reoboam]], [[reino_de_israel]], [[reino_de_judá]], [[idolatría]], [[alianza]], [[profetas]], [[alianza_davídica]]
 
 ## Ver también
 

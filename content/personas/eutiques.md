@@ -23,7 +23,7 @@ El Concilio de Calcedonia (451, D-148) condenó definitivamente el monofisismo d
 
 ## Ver también
 
-[[monofisismo]], [[unidad_hipostática]], [[concilio_de_calcedonia]], [[flaviano_constantinopla]], [[dióscoro]], [[león_i_magno]], [[tomus_ad_flavianum]]
+[[monofisismo]], [[unión_hipostática]], [[concilio_de_calcedonia]], [[flaviano_constantinopla]], [[dióscoro]], [[león_i_magno]], [[tomus_ad_flavianum]]
 
 ## Referencias
 

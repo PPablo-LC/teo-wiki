@@ -13,11 +13,11 @@ description: "V Capítulo General ordinario de la Legión de Cristo, celebrado e
 
 ## Definición
 
-V Capítulo General ordinario de la [[legión_de_cristo]], celebrado en 2020. Constituyó un hito en el proceso de renovación iniciado tras el Capítulo General Extraordinario de 2014. Aprobó el texto definitivo de las [[constituciones_lc]] (promulgadas en 2020) y emitió el comunicado «Conversión, Reparación, Proteger y Sanar» (CRPS-2020), que aborda la protección de menores, la conversión personal e institucional y la reparación a las víctimas.
+V Capítulo General ordinario de la [[legión_de_cristo]], celebrado en 2020. Constituyó un hito en el proceso de renovación iniciado tras el Capítulo General Extraordinario de 2014. Aprobó el texto definitivo de las [[constituciones_legionarios_de_cristo]] (promulgadas en 2020) y emitió el comunicado «Conversión, Reparación, Proteger y Sanar» (CRPS-2020), que aborda la protección de menores, la conversión personal e institucional y la reparación a las víctimas.
 
 ## Ver también
 
-[[capítulo_general_extraordinario_2014]], [[constituciones_lc]], [[conversión_y_reparación]]
+[[capítulo_general_extraordinario_2014]], [[constituciones_legionarios_de_cristo]], [[conversión_y_reparación]]
 
 ## Referencias
 

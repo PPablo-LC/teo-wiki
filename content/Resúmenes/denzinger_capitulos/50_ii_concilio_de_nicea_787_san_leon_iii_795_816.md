@@ -14,7 +14,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 - [[filiación_divina]] — Cristo es Hijo de Dios verdadero y propio, no adoptivo ni putativo
 - [[encarnación]] — unión de la divinidad y la humanidad en la sola persona de Jesucristo
-- [[naturaleza_de_cristo]] — dos naturalezas sin confusión ni separación
+- [[unión_hipostática]] — dos naturalezas sin confusión ni separación
 - [[adopcionismo]] — condena de quienes llaman adoptivo al Hijo de Dios
 - [[virginidad_de_maría]] — María permaneció virgen después del parto
 

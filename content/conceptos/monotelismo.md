@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Monotelismo
 tags: ["dogmática_—_cristología", "herejías"]
 
-timestamp: 2026-06-25
+timestamp: 2026-10-27
 description: "Herejía cristológica del siglo VII que afirma la existencia de una sola voluntad (*monon thelema*) y una sola operación (*monon energema*) en Cristo."
 ---
 # Monotelismo
 
 > Área: Dogmática — Cristología, Herejías
-> Última actualización: 2026-06-25
+> Última actualización: 2026-10-27
 
 ## Definición
 
@@ -50,11 +50,11 @@ El VI concilio ecuménico definió solemnemente «dos voluntades naturales o que
 
 ## Relaciones doctrinales
 
-El monotelismo se opone a la [[voluntad_de_cristo]] y a la [[unión_hipostática]], pues al negar la voluntad humana de Cristo compromete la integridad de su naturaleza humana. Se relaciona con el [[monofisismo]] y el [[nestorianismo]] como herejías cristológicas. Su condena fue obra de [[martín_i]] y [[agatón]].
+El monotelismo se opone a la [[voluntad_de_cristo]], a la [[operación_de_cristo]] y a la [[unión_hipostática]], pues al negar la voluntad y la operación humanas de Cristo compromete la integridad de su naturaleza humana. Se relaciona con el [[monofisismo]] y el [[nestorianismo]] como herejías cristológicas. Su condena fue obra de [[martín_i]] y [[agatón]].
 
 ## Ver también
 
-[[voluntad_de_cristo]], [[honorio_i]], [[martín_i]], [[agatón]], [[iii_concilio_de_constantinopla]], [[concilio_de_letrán_649]], [[monofisismo]]
+[[voluntad_de_cristo]], [[operación_de_cristo]], [[monoenergismo]], [[honorio_i]], [[martín_i]], [[agatón]], [[iii_concilio_de_constantinopla]], [[concilio_de_letrán_649]], [[monofisismo]]
 
 ## Referencias
 

@@ -23,7 +23,7 @@ En el llamado «Latrocinio de Éfeso» (449), Flaviano fue depuesto y maltratado
 
 ## Ver también
 
-[[león_i_magno]], [[tomus_ad_flavianum]], [[concilio_de_calcedonia]], [[eutiques]], [[dióscoro]], [[unidad_hipostática]], [[monofisismo]]
+[[león_i_magno]], [[tomus_ad_flavianum]], [[concilio_de_calcedonia]], [[eutiques]], [[dióscoro]], [[unión_hipostática]], [[monofisismo]]
 
 ## Referencias
 

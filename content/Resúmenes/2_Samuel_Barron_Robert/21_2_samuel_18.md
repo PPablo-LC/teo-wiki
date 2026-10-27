@@ -16,7 +16,7 @@ tags: ["resumen", "2 samuel barron robert"]
 - [[absalón]] — Hijo de [[david]], que se subleva y muere trágicamente en el bosque de Efraín.
 - [[joab]] — General de [[david]], que desoye la orden de perdonar a [[absalón]] y lo mata.
 - [[alianza]] — Contexto de las promesas dinásticas a [[david]].
-- [[dinastía_davídica]] — Herencia real puesta en tensión por la rebelión.
+- [[alianza_davídica]] — Herencia real puesta en tensión por la rebelión.
 - [[justicia_divina]] — Equilibrio entre justicia y [[misericordia]] de Dios.
 - [[misericordia]] — Amor paterno de Dios reflejado en el dolor de [[david]].
 - [[pecado]] — El adulterio con Betsabé produce frutos amargos.

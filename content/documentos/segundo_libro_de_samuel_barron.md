@@ -85,7 +85,7 @@ La obra distribuye los veinticuatro capítulos de 2 Samuel en cinco series:
 
 - **Personas**: [[david]] (figura central), [[jesucristo]] (cumplimiento tipológico), [[salomón]].
 - **Conceptos**: [[rey]], [[sacerdocio]], [[mesías]], [[mesías_rey]], [[hijo_de_david]], [[alianza]], [[hesed]], [[tipología]], [[teología_de_la_historia]], [[nuevo_adán]], [[providencia_divina]], [[justicia_divina]], [[misericordia_divina]], [[expiación]], [[adoración]], [[arca_de_la_alianza]], [[templo_de_jerusalén]], [[problema_del_mal]].
-- **Referencias adelantadas** (artículos aún no creados): [[trascendencia_no_competitiva]], [[alianza_davídica]], [[dinastía_davídica]], [[primacía_de_la_gracia]], [[creatio_ex_nihilo]], [[censo]], [[demagogia]], [[rebelión]], [[asesinato]].
+- **Referencias adelantadas**: [[trascendencia_no_competitiva]], [[alianza_davídica]] y [[primacía_de_la_gracia]] (artículos creados el 2026-10-26); [[censo]], [[demagogia]] y [[rebelión]] (artículos aún pendientes). Los antiguos enlaces a *creatio ex nihilo* y a «asesinato» se retargetan a [[creación]] y [[homicidio]].
 - Conecta con [[introduccion_al_antiguo_testamento]] (marco histórico y literario de la Historia deuteronomista) y con [[reyes_y_profetas]] (lectura de la realeza davídica en los libros de Reyes).
 
 ## Referencias

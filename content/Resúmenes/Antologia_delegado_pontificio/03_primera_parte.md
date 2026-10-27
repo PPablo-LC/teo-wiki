@@ -15,7 +15,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[delegado_pontificio]] — card. Velasio De Paolis, C.S.
 - [[visita_apostólica]] — proceso de inspección por la Santa Sede
 - [[marcial_maciel]] — fundador de la Legión de Cristo
-- [[constituciones_de_la_legion_de_cristo]] — texto fundamental de la Congregación
+- [[constituciones_legionarios_de_cristo]] — texto fundamental de la Congregación
 - [[carisma_legionario]] — don del Espíritu a preservar y purificar
 - [[comisión_central_para_la_revisión_de_las_constituciones]] — organismo para la revisión constitucional
 - [[comisión_de_acercamiento]] — para atender a personas afectadas por los hechos del fundador

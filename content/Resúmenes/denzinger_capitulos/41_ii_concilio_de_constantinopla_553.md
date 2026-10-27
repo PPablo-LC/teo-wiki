@@ -16,7 +16,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[trinidad]] — una sola naturaleza y sustancia, Trinidad consustancial
 - [[encarnación]] — dos nacimientos del Verbo y unión según hipóstasis
 - [[theotokos]] — María es propiamente madre de Dios
-- [[naturaleza_de_cristo]] — un solo Cristo en dos naturalezas, sin confusión ni división
+- [[unión_hipostática]] — un solo Cristo en dos naturalezas, sin confusión ni división
 - [[aquíesis_monofisita]] — condena de la unión de confusión
 - [[aquíesis_nestoriana]] — condena de la unión habitual o de sola denominación
 - [[tres_capítulos]] — condena de los escritos de Teodoro de Mopsuesta, Teodoreto y la carta de Ibas

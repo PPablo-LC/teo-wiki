@@ -38,7 +38,7 @@ Atalía representa la penetración de la idolatría del norte en Judá a través
 
 ## Relaciones doctrinales
 
-Se relaciona con [[ajab]], [[jezabel]], [[josafat]], [[joás]], [[jehoyadá]], [[reino_de_judá]], [[idolatría]], [[dinastía_davídica]]
+Se relaciona con [[ajab]], [[jezabel]], [[josafat]], [[joás]], [[jehoyadá]], [[reino_de_judá]], [[idolatría]], [[alianza_davídica]]
 
 ## Ver también
 

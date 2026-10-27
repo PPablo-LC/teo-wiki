@@ -16,7 +16,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[discernimiento_espiritual]] — proceso de escucha del Espíritu Santo para llegar a una decisión conforme a la voluntad de Dios
 - [[discernimiento_de_los_espiritus]] — fase del discernimiento que valora las mociones interiores de consolación y desolación
 - [[carisma_del_instituto]] — don colectivo del Espíritu que define la identidad de un instituto religioso
-- [[constituciones_de_la_legion_de_cristo]] — código fundamental a revisar conforme al c. 587 CIC
+- [[constituciones_legionarios_de_cristo]] — código fundamental a revisar conforme al c. 587 CIC
 - [[derecho_propio_del_instituto]] — conjunto de normas que expresan el carisma
 - [[vida_consagrada]] — seguimiento radical de Cristo en la profesión de los consejos evangélicos
 - [[consejos_evangélicos]] — pobreza, castidad y obediencia

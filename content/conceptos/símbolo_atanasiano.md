@@ -33,11 +33,11 @@ El Denzinger recoge el texto íntegro del *Quicumque* en D-39 (parte trinitaria)
 
 ## Relaciones doctrinales
 
-El Símbolo Atanasiano es una exposición detallada de la fe [[trinidad|trinitaria]] y [[cristología|cristológica]]. Se relaciona con la [[consustancialidad]], la [[unidad_hipostática]], la [[comunicación_de_idiomas]] y el [[filioque]]. Su uso litúrgico en el Oficio Divino lo vincula al [[símbolo_de_la_fe]] de la Iglesia latina.
+El Símbolo Atanasiano es una exposición detallada de la fe [[trinidad|trinitaria]] y [[cristología|cristológica]]. Se relaciona con la [[consustancialidad]], la [[unión_hipostática]], la [[comunicación_de_idiomas]] y el [[filioque]]. Su uso litúrgico en el Oficio Divino lo vincula al [[símbolo_de_la_fe]] de la Iglesia latina.
 
 ## Ver también
 
-[[símbolo_apostólico]], [[símbolo_de_la_fe]], [[credo_niceno]], [[trinidad]], [[unidad_hipostática]], [[filioque]], [[consustancialidad]]
+[[símbolo_apostólico]], [[símbolo_de_la_fe]], [[credo_niceno]], [[trinidad]], [[unión_hipostática]], [[filioque]], [[consustancialidad]]
 
 ## Referencias
 

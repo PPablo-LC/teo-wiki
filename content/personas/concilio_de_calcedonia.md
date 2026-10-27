@@ -58,7 +58,7 @@ Calcedonia es el concilio que definió la unión hipostática de las dos natural
 
 ## Ver también
 
-[[definición_de_calcedonia]], [[unidad_hipostática]], [[comunicación_de_idiomas]], [[tomus_ad_flavianum]], [[león_i_magno]], [[monofisismo]], [[eutiques]], [[dióscoro]]
+[[definición_de_calcedonia]], [[unión_hipostática]], [[comunicación_de_idiomas]], [[tomus_ad_flavianum]], [[león_i_magno]], [[monofisismo]], [[eutiques]], [[dióscoro]]
 
 ## Referencias
 

@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-10-26'
+updated: '2026-10-27'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -138,6 +138,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[alegría_de_evangelizar]]
 - [[alegría_litúrgica]]
 - [[alianza]]
+- [[alianza_davídica]]
 - [[alianza_e_infidelidad]]
 - [[alianza_educativa]]
 - [[alianzas]]
@@ -1512,6 +1513,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[gracia_de_la_fe]]
 - [[gracia_de_unión]]
 - [[gracia_divina]]
+- [[gracia_eficaz]]
 - [[gracia_habitual]]
 - [[gracia_preveniente]]
 - [[gracia_sacramental]]
@@ -2383,6 +2385,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[opción_fundamental]]
 - [[opción_por_los_pobres]]
 - [[opción_preferencial_por_los_pobres]]
+- [[operación_de_cristo]]
 - [[operativa_scientia]]
 - [[opinión_pública]]
 - [[optatam_totius]]
@@ -2720,6 +2723,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[prevención_de_conflictos]]
 - [[previsión]]
 - [[primacía_de_cristo]]
+- [[primacía_de_la_gracia]]
 - [[primacía_petrina]]
 - [[primado_de_pedro]]
 - [[primado_del_papa]]
@@ -3413,6 +3417,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[transustanciación]]
 - [[trascendencia]]
 - [[trascendencia_divina]]
+- [[trascendencia_no_competitiva]]
 - [[trascendentales]]
 - [[tres_categorías_de_verdades]]
 - [[tres_grados_de_la_vida_humana]]
@@ -3457,7 +3462,6 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[unidad_del_género_humano]]
 - [[unidad_del_matrimonio]]
 - [[unidad_del_saber_teológico]]
-- [[unidad_hipostática]]
 - [[unidad_moral_de_la_decisión]]
 - [[unidad_originaria]]
 - [[unigenitus]]
@@ -4663,7 +4667,6 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[confianza_providenzial]]
 - [[consagración_legionaria]]
 - [[consagradas_del_regnum_christi]]
-- [[constituciones_lc]]
 - [[constituciones_legionarios_de_cristo]]
 - [[contacto_familiar]]
 - [[contemplativo_y_conquistador]]

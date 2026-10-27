@@ -17,7 +17,7 @@ tags: ["resumen", "mística", "noche_oscura", "misterio_pascual", "esponsalidad"
 - [[noche_oscura]] — la noche verdadera y terrible de la cárcel, con las falsas noticias que hacen creer que todo está perdido, se convierte en «la condición irreductible» para encaminarse a la revelación de Dios (L116-118).
 - [[misterio_pascual]] — lo que no se ha comprendido bastante en la obra de Juan es que su mística no es un «sistema», sino la experiencia del calvario (la cárcel) del que renace la Palabra, como vivificante poesía inspirada, como palabra resucitada (L188).
 - [[unión_con_dios]] — la misteriosa unión de la Nada y del Todo: el amor ya no es un camino ni una búsqueda ansiosa, sino una posesión total y ardiente en la que el Espíritu Santo y el alma se convierten en una llama única (L265-269).
-- [[esposa_de_cristo]] — la Iglesia, «nacida de su costado herido en la cruz y destinada a adherirse a Él de una forma cada vez más esponsal», que en los monasterios contemplativos conserva su imagen viva y adorante (L11, L160).
+- [[iglesia_esposa]] — la Iglesia, «nacida de su costado herido en la cruz y destinada a adherirse a Él de una forma cada vez más esponsal», que en los monasterios contemplativos conserva su imagen viva y adorante (L11, L160).
 - [[contemplación]] — el «quedar a solas de todas las cosas criadas» y el «torrente de la contemplación», en el que Juan pasa largas horas absorto ante el sagrario (L65-67, L118).
 - [[trinidad]] y [[eucaristía]] — los dos grandes misterios que la noche-luminosidad-saciedad hace llegar al hombre: la Trinidad, «flujo que envuelve toda la vida», y la Eucaristía (L122).
 - [[espíritu_santo]] — el fuego que ilumina «mejor que la luz en pleno día» en el corazón del prisionero, y la causa de las estrofas del *Cántico espiritual* (L124, L144).
@@ -164,7 +164,7 @@ Es la misteriosa unión de la Nada y del Todo; pero lo que no ha sido comprendid
 
 Juan de la Cruz destaca sobre todo por haber unido dos vértices aparentemente contradictorios: el vértice de la belleza en sus textos poéticos y el vértice de la dureza ascética en los textos en los que él mismo comentó su propia poesía. Pero esto sólo se comprende si se piensa que las dos realidades están ligadas, primero en la experiencia de su infancia y después en el primer apogeo de su madurez.
 
-Mientras tanto, Juan continúa atrayendo alrededor suyo almas a las que hace gustar y revivir su misma experiencia, que forma parte esencial de la [[esposa_de_cristo]]. Los monasterios fundados por Teresa tendieron de forma natural a acoger y a desear como guía a Juan de la Cruz, y por ellos él acepta manifestar, por decirlo así, la extraordinaria y extraña experiencia de la que nace su magisterio espiritual.
+Mientras tanto, Juan continúa atrayendo alrededor suyo almas a las que hace gustar y revivir su misma experiencia, que forma parte esencial de la [[iglesia_esposa]]. Los monasterios fundados por Teresa tendieron de forma natural a acoger y a desear como guía a Juan de la Cruz, y por ellos él acepta manifestar, por decirlo así, la extraordinaria y extraña experiencia de la que nace su magisterio espiritual.
 
 ## 10. Intentar explicar lo inexplicable (L200-235)
 

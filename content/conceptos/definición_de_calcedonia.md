@@ -33,11 +33,11 @@ El Denzinger recoge la definición calcedonense en D-148. También recoge la car
 
 ## Relaciones doctrinales
 
-La Definición de Calcedonia presupone la [[consustancialidad]] del Hijo (Nicea), la [[theotokos]] (Éfeso), y se fundamenta en el [[tomus_ad_flavianum]] de San León. Es la formulación clásica de la [[unidad_hipostática]] y de la [[comunicación_de_idiomas]].
+La Definición de Calcedonia presupone la [[consustancialidad]] del Hijo (Nicea), la [[theotokos]] (Éfeso), y se fundamenta en el [[tomus_ad_flavianum]] de San León. Es la formulación clásica de la [[unión_hipostática]] y de la [[comunicación_de_idiomas]].
 
 ## Ver también
 
-[[unidad_hipostática]], [[tomus_ad_flavianum]], [[comunicación_de_idiomas]], [[concilio_de_calcedonia]], [[consustancialidad]], [[monofisismo]], [[nestorianismo]], [[león_i_magno]]
+[[unión_hipostática]], [[tomus_ad_flavianum]], [[comunicación_de_idiomas]], [[concilio_de_calcedonia]], [[consustancialidad]], [[monofisismo]], [[nestorianismo]], [[león_i_magno]]
 
 ## Referencias
 

@@ -46,11 +46,11 @@ Hahn reconstruye en el capítulo 5 la historia del título y su recepción popul
 
 ## Relaciones doctrinales
 
-El título Theotokos presupone la [[unidad_hipostática]] de las dos naturalezas en Cristo y se opone al [[nestorianismo]], que divide a Cristo en dos personas. Es fundamento de la [[mariología]] católica y de la [[comunicación_de_idiomas]], pues lo que se predica de la humanidad de Cristo se predica de la persona del Verbo.
+El título Theotokos presupone la [[unión_hipostática]] de las dos naturalezas en Cristo y se opone al [[nestorianismo]], que divide a Cristo en dos personas. Es fundamento de la [[mariología]] católica y de la [[comunicación_de_idiomas]], pues lo que se predica de la humanidad de Cristo se predica de la persona del Verbo.
 
 ## Ver también
 
-[[unidad_hipostática]], [[nestorianismo]], [[encarnación]], [[jesucristo]], [[concilio_de_éfeso]], [[virgen_maría]], [[comunicación_de_idiomas]]
+[[unión_hipostática]], [[nestorianismo]], [[encarnación]], [[jesucristo]], [[concilio_de_éfeso]], [[virgen_maría]], [[comunicación_de_idiomas]]
 
 ## Referencias
 

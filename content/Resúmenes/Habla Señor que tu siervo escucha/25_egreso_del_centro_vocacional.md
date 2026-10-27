@@ -14,7 +14,7 @@ tags: ["resumen", "habla señor que tu siervo escucha"]
 
 - [[candidatado]] — período de formación previo al noviciado en la Legión de Cristo
 - [[noviciado_lc]] — paso al noviciado al que conduce el candidatado
-- [[constituciones_lc]] — normas de la Legión que regulan el candidatado y la admisión
+- [[constituciones_legionarios_de_cristo]] — normas de la Legión que regulan el candidatado y la admisión
 - [[ratio_institutionis]] — cualidades indicadas para la admisión al noviciado
 - [[regnum_christi]] — integración de los antiguos alumnos en las secciones
 - [[ecyd]] — participación de los antiguos alumnos en las secciones del ECYD

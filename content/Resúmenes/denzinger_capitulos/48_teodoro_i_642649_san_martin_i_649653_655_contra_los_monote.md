@@ -15,7 +15,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[trinidad]] — un solo Dios en tres subsistencias consustanciales
 - [[encarnación]] — el Verbo se encarnó del Espíritu Santo y de María siempre Virgen
 - [[theotokos]] — María es madre de Dios y permanece virgen después del parto
-- [[naturaleza_de_cristo]] — dos naturalezas unidas sin confusión ni división
+- [[unión_hipostática]] — dos naturalezas unidas sin confusión ni división
 - [[voluntad_de_cristo]] — dos voluntades naturales, divina y humana
 - [[operaciones_de_cristo]] — dos operaciones naturales en Cristo
 - [[monotelismo]] — condena de una sola voluntad y una sola operación

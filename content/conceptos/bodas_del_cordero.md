@@ -17,7 +17,7 @@ Las **bodas del Cordero** son una imagen bíblica del Apocalipsis que representa
 
 ## Relaciones
 
-[[cordero_de_dios]], [[iglesia]], [[esposa_de_cristo]], [[escatología]], [[apocalipsis]], [[reino_de_dios]], [[cielo_nuevo_y_tierra_nueva]], [[jerusalén_celestial]], [[matrimonio_místico]]
+[[cordero_de_dios]], [[iglesia]], [[iglesia_esposa]], [[escatología]], [[apocalipsis]], [[reino_de_dios]], [[cielo_nuevo_y_tierra_nueva]], [[jerusalén_celestial]], [[matrimonio_místico]]
 
 ## Ver también
 

@@ -7,6 +7,7 @@ description: "Registro acumulativo de wikilinks sin artículo propio: secciones 
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
+> **Actualización 2026-10-26 — Lote 9 de cobertura de huérfanos de mayor densidad:** se crean 2 artículos nuevos —[[gracia_eficaz]] (Denzinger D-1090/D-1097, SmTh Iª-IIª q.111-112, TPCr, ciencia media) y [[primacía_de_la_gracia]] (CEC §§2001/2022, EG 112, 2SamBr, Pinckaers, CLC-2020 55, CVV-2020 386, EFRC 22)— y se aplican 5 retargets a canónicos (`cristo_jesus`→[[jesucrito]], `constituciones_de_la_legion_de_cristo`→[[constituciones_legionarios_de_cristo]], `esposa_de_cristo`→[[iglesia_esposa]], `naturaleza_de_cristo`→[[unión_hipostática]], `pecado_contra_la_castidad`→[[lujuria]]); **no se aplica retarget a `amor_de_cristo` (conservado como referencia prospectiva por distinción theologal: "amor de Cristo" = amor que Cristo tiene por nosotros, distinto de "amor a Cristo" = amor que tenemos nosotros hacia Él*); ver sección «Resueltos por cobertura de huérfanos de mayor densidad (lote 9, 2026-10-26)».
 > **Actualización 2026-10-26 — 2 Samuel (Barron) [2SamBr]:** se siembran 28 huérfanos (13 conceptos y 15 personas) desde el índice raw, el documento [[segundo_libro_de_samuel_barron]] y el enriquecimiento de [[david]]; se aplican 2 retargets (`[[elección_divina]]`→[[eleccion_divina]], `[[lealtad]]`→[[fidelidad]]) en el índice de la fuente; ver sección «Sembrados por el procesamiento de 2 Samuel (2SamBr) — Robert Barron (2026-10-26)».
 > **Actualización 2026-10-20 — Lotes 7-8 de cobertura de huérfanos de mayor densidad:** resueltos 5 (`pranayama`, `josue`, `estudio`, `discapacidad`, `conversion_personal`) con 5 artículos nuevos; sembrados 2 (`río_jordán`, `jericó`); retarget de `[[conversión personal]]` → `[[conversión_personal]]`; ver sección «Resueltos por cobertura de huérfanos de mayor densidad (lote 7, 2026-10-20)».
 > **Actualización 2026-10-20 — Análisis cultural de Corazón (COR):** se siembran 9 huérfanos intencionales (`luto`, `estudio`, `desinterés`, `mala_compañía`, `garibaldi`, `cavour`, `mazzini`, `víctor_manuel_ii`; `generosidad` ya estaba registrado) y se documentan los retargets aplicados en el índice de la obra; ver sección «Sembrados por el análisis cultural de Corazón (COR) — Edmondo De Amicis (2026-10-20)».
@@ -5419,6 +5420,38 @@ Comentario teológico a 2 Samuel (Brazos, 2015). Índice raw auditado (30/30 arc
 | `[[rizpa]]` | 1 | Persona / AT | 2 Sm 21 |
 | `[[arauna]]` | 1 | Persona / AT | 2 Sm 24 (era del jebuseo) |
 
-**Ya registrados o canónicos (no se duplican):** `[[creatio_ex_nihilo]]` (registrado), `[[contrición]]`, `[[problema_del_mal]]`, `[[belleza]]`, `[[calumnia]]`, `[[confianza_en_dios]]`, `[[nueva_alianza]]` (todos con artículo).
+**Ya registrados o canónicos (no se duplican):** `[[creatio_ex_nihilo]]` (retargetado a [[creación]] el 2026-10-26), `[[contrición]]`, `[[problema_del_mal]]`, `[[belleza]]`, `[[calumnia]]`, `[[confianza_en_dios]]`, `[[nueva_alianza]]` (todos con artículo).
 
 **Retargets aplicados en el índice de la fuente:** `[[elección_divina]]` → [[eleccion_divina]]; `[[lealtad]]` → [[fidelidad]].
+
+**Resueltos el 2026-10-26 (cobertura del lote 2SamBr):** se crean 2 artículos nuevos —[[trascendencia_no_competitiva]] (con CEC §§300-308, SmTh Iª q.105 a.4-5, 2Samuel, Catholicism y ARGREL) y [[alianza_davídica]] (con CEC §§559, 709, 2579, VocTeoBib, 2Samuel y Hahn)— y se enriquece [[creación]] con la sección «Según 2 Samuel (Barron)» sobre la *creatio ex nihilo*. Retargets: `[[dinastía_davídica]]` → [[alianza_davídica]] (en [[david]], [[atalía]], [[división_del_reino]], resumen de 2 Sm 18 y documento 2SamBr); `[[asesinato]]` → [[homicidio]] (documento 2SamBr y resumen de 2 Sm 11); `[[creatio_ex_nihilo]]` → [[creación]] (resumen CEC y índice raw de 2SamBr). Permanecen sembrados: `[[primacía_de_la_gracia]]`, `[[templo_del_cuerpo_de_cristo]]`, `[[mosaico_bíblico]]`, `[[censo]]`, `[[demagogia]]`, `[[rebelión]]`, `[[abandono]]`, `[[rechazo_de_cristo]]`, `[[violación]]` y las 15 personas.
+
+## Resueltos por cobertura de huérfanos de mayor densidad (lote 9, 2026-10-26)
+
+| Huérfano | Refs. | Clasificación | Acción |
+|----------|-------|---------------|--------|
+| `[[gracia_eficaz]]` | 3 | **Nuevo** | Creado [[gracia_eficaz]] (CEC §§2001-2022; SmTh Iª-IIª q.111 a.2, q.112 a.3; TPCr II Parte cap. IV y III Parte Libro II cap. IV; Denzinger D-1090/D-1097; ciencia media y escuelas tomista/molinista) |
+| `[[primacía_de_la_gracia]]` | 3 | **Nuevo** | Creado [[primacía_de_la_gracia]] (CEC §§2001/2022; EG 112; 2SmBr 2 Sm 7, 9, 12; Pinckaers FMC cap. XVII; CLC-2020 55; CVV-2020 386; EFRC 22) |
+| `[[cristo_jesus]]` | — | **Retarget** | → [[jesucristo]] (3 resúmenes del Vocabulario bíblico: justicia, justificación, lámpara) |
+| `[[constituciones_de_la_legion_de_cristo]]` | — | **Retarget** | → [[constituciones_legionarios_de_cristo]] (3 resúmenes de la Antología del delegado pontificio) |
+| `[[esposa_de_cristo]]` | 2 | **Retarget** | → [[iglesia_esposa]] ([[bodas_del_cordero]], resumen CEC 08 y [[juan_de_la_cruz]]) |
+| `[[naturaleza_de_cristo]]` | — | **Retarget** | → [[unión_hipostática]] (4 resúmenes del Denzinger: Constantinopla II, Teodoro I, Francfort, Nicea II) |
+| `[[pecado_contra_la_castidad]]` | 2 | **Retarget** | → [[lujuria]] ([[impureza]] y 2 resúmenes de *Youth and Chastity*) |
+| `[[amor_de_cristo]]` | 0 | **Conservado** como referencia prospectiva (distinción theologal: "amor de Cristo" ≠ "amor a Cristo") |
+
+**Retargets aplicados:** 17 archivos de `wiki/` (conceptos y resúmenes). No se tocó el registro de huérfanos.
+
+**Huérfanos nuevos sembrados (forward references):** `[[disputa_de_auxiliis]]` y `[[molinismo]]`, ambos desde [[gracia_eficaz]], con material suficiente en Denzinger y en la historia de la controversia *De Auxiliis*; `[[christus_vita_vestra]]`, desde [[primacía_de_la_gracia]], con material en CVV-2020 386 y en el índice raw de la fuente.
+
+**Nota de desambiguación:** `naturaleza_de_cristo` se retargeta a [[unión_hipostática]] y no a [[naturaleza_humana_de_cristo]], porque los textos conciliares citados afirman las dos naturalezas en una sola persona. Los dos artículos casi homónimos ([[unión_hipostática]] y [[unidad_hipostática]]) se consolidaron el 2026-10-27 (ver sección final).
+
+## Resueltos por la re-auditoría SmTh IIIa Pars Q16–Q26 y consolidación de duplicados (2026-10-27)
+
+| Huérfano / duplicado | Refs. | Clasificación | Acción |
+|----------------------|-------|---------------|--------|
+| `[[operacion_de_cristo]]` | 1 | **Nuevo (variante sin tilde)** | Creado [[operación_de_cristo]] (SmTh IIIa q.19 aa.1-2; Denzinger D-264, D-266-267, D-268, D-291; Concilio de Letrán 649 y III de Constantinopla). Retarget de `[[operacion_de_cristo]]` → `[[operación_de_cristo]]` en [[voluntad_de_cristo]]. |
+| `[[voluntades_de_cristo]]` | — | **Retarget** | → [[voluntad_de_cristo]] (artículo canónico; el enlace roto estaba en [[concilio_de_letrán_649]]). |
+| [[unidad_hipostática]] | — | **Duplicado consolidado** | Contenido único (Denzinger D-13, D-16, D-20, D-25-27, D-39-40) fusionado en [[unión_hipostática]]; artículo eliminado; 13 archivos retargetados ([[eutiques]], [[concilio_de_calcedonia]], [[juan_ii_papa]], [[flaviano_constantinopla]], [[concilio_de_éfeso]], [[gelasio_i]], [[león_i_magno]], [[cirilo_de_alejandría]], [[definición_de_calcedonia]], [[consustancialidad]], [[theotokos]], [[símbolo_atanasiano]], [[tomus_ad_flavianum]]). |
+| [[constituciones_lc]] | — | **Duplicado consolidado** | Contenido único (ediciones de 1984 y 1998) fusionado en [[constituciones_legionarios_de_cristo]]; artículo eliminado; 8 archivos retargetados. Variante `[[constituciones_lc_2020]]` → [[constituciones_legionarios_de_cristo]]. |
+
+**Nota:** la consolidación de los dos pares de artículos homónimos cierra la recomendación registrada el 2026-10-26 al final de la sección del lote 9.

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mérito
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-09-12
+timestamp: 2026-10-27
 description: "El mérito es la retribución debida por parte de una comunidad a la acción de uno de sus miembros; el premio de la vida no se agota en el mundo según Giussani."
 ---
 # Mérito
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-09-12
+> Última actualización: 2026-10-27
 
 ## Definición
 
@@ -79,6 +79,8 @@ Sin la gracia santificante, las obras más heroicas no tienen valor en orden a l
 
 **IIIª q.19 — La operación de Cristo y su mérito:**
 
+*(Los aa.1-2 de esta cuestión, sobre la unidad de operación en Cristo y la unicidad de su operación propiamente humana, se tratan en [[operación_de_cristo]].)*
+
 **q.19 a.3 — Cristo mereció para sí mismo:**
 Poseer un bien por el propio esfuerzo (mérito) es más noble que recibirlo sin mérito. Cristo, por su obediencia hasta la muerte, mereció para sí la gloria del cuerpo (resurrección, ascensión) y las cosas atinentes a su excelencia exterior (veneración, exaltación). No mereció, sin embargo, la gracia, la ciencia, la bienaventuranza del alma ni la divinidad, porque carecer de ellas hubiera sido una imperfección mayor que el aumento de dignidad por el mérito. Como viador a la vez que bienaventurado, Cristo podía merecer en virtud de la caridad propia del estado viador.
 
@@ -120,7 +122,7 @@ Pío V condenó los errores de Miguel Bayo sobre el mérito (D‑1001–D‑1082
 
 ## Relaciones doctrinales
 
-Se relaciona con [[gracia_santificante]], [[gracias_actuales]], [[justificación]], [[virtud_de_la_caridad]], [[filiación_divina]] y [[redención]].
+Se relaciona con [[gracia_santificante]], [[gracias_actuales]], [[justificación]], [[virtud_de_la_caridad]], [[filiación_divina]] y [[redención]]. El fundamento del mérito de Cristo es la realidad de su [[operación_de_cristo|operación humana]], que se extiende a los miembros de su Cuerpo Místico.
 
 ## Ver también
 

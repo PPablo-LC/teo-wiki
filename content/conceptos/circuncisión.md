@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Circuncisión
 tags: ["sacramental", "historia_de_la_salvación"]
 
-timestamp: 2026-06-02
+timestamp: 2026-10-27
 description: "Rito de ablación del prepucio que en el AT constituye el signo físico de la pertenencia al pueblo de la alianza."
 ---
 # Circuncisión
 
 > Área: Sacramental / Historia de la Salvación
-> Última actualización: 2026-06-02
+> Última actualización: 2026-10-27
 
 ## Definición
 
@@ -29,11 +29,15 @@ Jesús fue circuncidado (Lc 2,21), pero su Evangelio debía anunciarse a todas l
 
 ### Según la Summa Theologiae (SmTh)
 
-#### IIIª q.37 — Sobre la circuncisión de Cristo y otras observancias legales
+#### IIIª q.37 — Circuncisión de Cristo y observancias legales
 
-Cristo se sometió voluntariamente a la circuncisión y a las demás observancias de la ley por siete motivos: para demostrar la verdad de su carne (contra las herejías docetas); para dar por buena la circuncisión instituida por Dios; para mostrar que era descendiente de Abrahán; para quitar a los judíos todo pretexto de rechazo; para recomendarnos la virtud de la obediencia; para no desdeñar el remedio con que se purificaba la carne de pecado, siendo él «en semejanza de carne de pecado»; y para cargar sobre sí el peso de la ley y librar a los demás de ella (IIIª q.37 a.1).
+**a.1 — Cristo debió ser circuncidado:** Se sometió voluntariamente a la circuncisión por siete motivos: (1) para demostrar la verdad de su carne humana contra los docetas —Maní, que sostuvo un cuerpo fantástico; Apolinar, que defendió un cuerpo consustancial con la divinidad; y Valentín, que afirmó que trajo su cuerpo del cielo—; (2) para dar por buena la circuncisión instituida antiguamente por Dios; (3) para demostrar que era de la raza de Abrahán, que había recibido el precepto en señal de la fe que tuvo en Dios; (4) para quitar a los judíos el pretexto de no aceptarle si hubiera sido incircunciso; (5) para recomendarnos con su ejemplo la virtud de la obediencia, por lo que fue circuncidado al octavo día, como estaba mandado en la ley (Lev 12,3); (6) para que quien había venido «en semejanza de carne de pecado» no desdeñase el remedio con que se acostumbraba a purificar la carne de pecado; y (7) para que, cargando sobre sí el peso de la ley, librase a los demás de la carga de la misma —«Dios envió a su Hijo, nacido bajo la ley, para que rescatara a los que estaban bajo la ley» (Gal 4,4-5). (SmTh IIIa q.37 a.1)
 
-Respecto del nombre, se le impuso el nombre de Jesús (Salvador) en la circuncisión, nombre acorde con su misión de salvar a todos los hombres (a.2). Cristo fue ofrecido en el templo como primogénito, cumpliendo los dos preceptos legales: la presentación al Señor y el sacrificio de un par de tórtolas o dos pichones (a.3). La Virgen María, aunque no necesitaba purificación, se sometió voluntariamente a la ley para conformarse con la humildad de su Hijo y dar ejemplo de obediencia (a.4).
+**a.2 — Fue adecuado el nombre que le impusieron:** Los nombres deben responder a las propiedades de las cosas, y los nombres de los hombres se imponen según alguna propiedad de quien los recibe: por el tiempo, por el parentesco —como querían los parientes de Juan Bautista (Lc 1,59)—, por algún acontecimiento o por alguna cualidad. Los nombres impuestos por Dios a algunas personas significan siempre algún don gratuito otorgado por la Divinidad: Abrahán «padre de muchos pueblos» (Gen 17,5), Pedro «piedra» sobre la que Cristo edifica su Iglesia (Mt 16,18). Habiéndosele otorgado a Cristo hombre el ministerio de salvar a todos los hombres, le fue impuesto convenientemente el nombre de Jesús, es decir, *Salvador*, anunciado por el ángel no solo a su Madre, sino también a José, porque había de ser su padre nutricio (Lc 1,31; Mt 1,21). (SmTh IIIa q.37 a.2)
+
+**a.3 — Fue conveniente la oblación de Cristo en el templo:** Como quiso «nacer bajo la ley, para rescatar a los que estaban bajo la ley» (Gal 4,4-5) y para que la justificación de la ley se cumpliese espiritualmente en sus miembros (Rom 8,4), se cumplieron en él los dos preceptos que la ley consigna sobre el hijo recién nacido. El general —que afecta a todos— mandaba ofrecer un sacrificio una vez cumplidos los días de la purificación de la madre (Lev 12,6ss): se ofrecía para expiación del pecado en que el hijo había sido concebido y había nacido, y para cierta consagración de la prole, presentada entonces por primera vez en el templo. El especial se refería a los primogénitos, «tanto de los hombres como de los animales», pues el Señor se había reservado todo primogénito en Israel porque, para liberar al pueblo, «había herido a los primogénitos de Egipto» (Ex 13,2.12ss); en él estaba también prefigurado Cristo, «el primogénito entre muchos hermanos» (Rom 8,29). Lucas indica el cumplimiento de ambos: «Lo llevaron a Jerusalén para presentarlo al Señor, como está escrito en la ley del Señor: Todo varón que abre el seno materno será consagrado al Señor» (Lc 2,22) y «para ofrecer en sacrificio un par de tórtolas o dos pichones» (Lc 2,24). (SmTh IIIa q.37 a.3)
+
+**a.4 — Fue conveniente que la Madre de Dios acudiese al templo para purificarse:** Así como la plenitud de la gracia se deriva de Cristo a su Madre, convino que la Madre se conformase con la humildad del Hijo, pues «Dios da su gracia a los humildes» (Sant 4,6). Por eso, así como Cristo, a pesar de no estar sometido a la ley, quiso experimentar la circuncisión y las otras cargas de la ley —para darnos ejemplo de humildad y obediencia, para dar su aprobación a la ley y para quitar a los judíos toda ocasión de calumnia—, por esas mismas razones quiso que también su Madre cumpliese las observancias de la ley, aunque ella no estaba sujeta a ellas. (SmTh IIIa q.37 a.4)
 
 #### IIIª q.70 — La circuncisión como preparación del bautismo
 

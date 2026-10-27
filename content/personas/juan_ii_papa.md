@@ -26,7 +26,7 @@ Contra los monjes acemetas, que impugnaban la fórmula «Uno de la Trinidad ha p
 
 ## Ver también
 
-[[comunicación_de_idiomas]], [[theotokos]], [[unidad_hipostática]], [[nestorianismo]], [[monofisismo]], [[justiniano_emperador]]
+[[comunicación_de_idiomas]], [[theotokos]], [[unión_hipostática]], [[nestorianismo]], [[monofisismo]], [[justiniano_emperador]]
 
 ## Referencias
 
