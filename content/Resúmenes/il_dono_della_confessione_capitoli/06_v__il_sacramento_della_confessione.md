@@ -10,7 +10,7 @@ tags: ["resumen", "il dono della confessione capitoli"]
 
 ## Conceptos básicos referenciados
 
-[[sacramento_de_la_reconciliación]], [[confesión]]],
+[[sacramento_de_la_reconciliación]], [[confesión]],
 [[confesor]], [[contrición]], [[propósito_de_enmienda]],
 [[satisfacción]], [[absolución]], [[penitencia]], [[eucaristía]],
 [[conciencia]], [[poder_de_las_llaves]],

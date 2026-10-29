@@ -28,7 +28,7 @@ La distinción entre contrición perfecta y atrición, el sigilo sacramental (CI
 - [[atrición]]
 - [[confesión]]
 - [[absolución]]
-- [[sello_sacramental]]
+- [[sigilo_sacramental]]
 - [[eucaristía]]
 
 ## Referencias

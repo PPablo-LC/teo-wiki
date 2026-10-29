@@ -49,11 +49,11 @@ El Denzinger recoge el testimonio de los Padres de la Iglesia como testigos de l
 
 ## Relaciones doctrinales
 
-Se relaciona con [[magisterio_de_la_iglesia]] como regla próxima, con [[tradición_apostólica]] y [[sagrada_escritura]] como regla remota, con [[analogía_de_la_fe]] como principio hermenéutico, con [[infalibilidad]] como carisma que garantiza la regla, y con [[depósito_de_la_fe]] como contenido custodiado. Se relaciona también con [[símbolos_de_la_fe]] (Credo) como expresión sintética de la regla de fe.
+Se relaciona con [[magisterio_de_la_iglesia]] como regla próxima, con [[tradición_apostólica]] y [[sagrada_escritura]] como regla remota, con [[analogía_de_la_fe]] como principio hermenéutico, con [[infalibilidad]] como carisma que garantiza la regla, y con [[depósito_de_la_fe]] como contenido custodiado. Se relaciona también con [[símbolo_de_la_fe]] (Credo) como expresión sintética de la regla de fe.
 
 ## Ver también
 
-[[magisterio_de_la_iglesia]], [[tradición_apostólica]], [[sagrada_escritura]], [[analogía_de_la_fe]], [[infalibilidad]], [[depósito_de_la_fe]], [[símbolos_de_la_fe]], [[revelación_divina]], [[dogmas]]
+[[magisterio_de_la_iglesia]], [[tradición_apostólica]], [[sagrada_escritura]], [[analogía_de_la_fe]], [[infalibilidad]], [[depósito_de_la_fe]], [[símbolo_de_la_fe]], [[revelación_divina]], [[dogmas]]
 
 ## Referencias
 

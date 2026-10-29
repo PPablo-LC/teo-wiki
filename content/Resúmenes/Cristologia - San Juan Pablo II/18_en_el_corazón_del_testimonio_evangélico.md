@@ -13,7 +13,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "testimonio", "f
 ## Conceptos básicos referenciados
 
 - [[filiación_divina]] — Verdad central de la fe cristiana
-- [[símbolos_de_la_fe]] — Profesión de fe concisa
+- [[símbolo_de_la_fe]] — Profesión de fe concisa
 - [[revelación_trinitaria]] — Dios se revela como Padre, Hijo y Espíritu
 - [[autorrevelación_de_dios]] — Novedad del Evangelio
 

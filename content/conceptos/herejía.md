@@ -52,7 +52,7 @@ Se relaciona con la [[fe_católica]], el [[depósito_de_la_fe]], el [[magisterio
 
 ## Ver también
 
-[[apostasía]], [[cisma]], [[fe_católica]], [[magisterio_de_la_iglesia]], [[profesión_de_la_fe]]
+[[apostasía]], [[cisma]], [[fe_católica]], [[magisterio_de_la_iglesia]], [[confesión_de_fe]]
 
 ## Referencias
 

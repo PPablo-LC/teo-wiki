@@ -46,7 +46,7 @@ La analogía de la fe se relaciona con el [[magisterio_de_la_iglesia]], la [[tra
 
 ## Ver también
 
-[[magisterio_de_la_iglesia]], [[tradición_apostólica]], [[dogmas]], [[interpretación_de_la_escritura]], [[símbolos_de_la_fe]]
+[[magisterio_de_la_iglesia]], [[tradición_apostólica]], [[dogmas]], [[interpretación_de_la_escritura]], [[símbolo_de_la_fe]]
 
 ## Referencias
 

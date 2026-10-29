@@ -103,7 +103,7 @@ El hilo común: el mártir «ha preferito morire piuttosto che offendere la volo
 
 ## Relaciones doctrinales
 
-El martirio es el acto supremo de la [[fortaleza]] y la [[caridad]]. Se relaciona con la [[confesión_de_fe]]], la [[persecución]], la [[santidad]] heroica, el [[bautismo_de_sangre]] y la [[comunión_de_los_santos]].
+El martirio es el acto supremo de la [[fortaleza]] y la [[caridad]]. Se relaciona con la [[confesión_de_fe]], la [[persecución]], la [[santidad]] heroica, el [[bautismo_de_sangre]] y la [[comunión_de_los_santos]].
 
 ## Denzinger
 
@@ -111,7 +111,7 @@ D-92 (III Concilio de Cartago 397): se permite la lectura de las pasiones de los
 
 ## Ver también
 
-[[fortaleza]], [[caridad]], [[confesión_de_fe]]], [[persecución]], [[santidad]], [[bautismo_de_sangre]]
+[[fortaleza]], [[caridad]], [[confesión_de_fe]], [[persecución]], [[santidad]], [[bautismo_de_sangre]]
 
 ### Según Sicari (AMS)
 

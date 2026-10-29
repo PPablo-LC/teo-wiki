@@ -132,7 +132,7 @@ Los nueve resúmenes generados a partir de la fuente están en
 ## Ver también
 
 [[antonio_maria_sicari]], [[sacramento_de_la_reconciliación]],
-[[confesión]]], [[pecado]], [[pecado_como_mal_camino]],
+[[confesión]], [[pecado]], [[pecado_como_mal_camino]],
 [[ateísmo_práctico]], [[ley_y_gracia]], [[expiación]], [[absolución]],
 [[contrición]], [[penitencia]], [[misericordia_de_dios]]
 

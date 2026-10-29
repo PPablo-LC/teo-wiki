@@ -42,7 +42,7 @@ El pecado contra el Espíritu Santo tiene seis especies: desesperación, presunc
 
 ## Relaciones doctrinales
 
-Se opone a la [[confesión_de_fe]]]. Se relaciona con la [[incredulidad]], la [[herejía]] y la [[apostasía]]. El pecado contra el Espíritu Santo se vincula con la [[desesperación]], [[presunción]], [[impenitencia]] y [[obstinación]].
+Se opone a la [[confesión_de_fe]]. Se relaciona con la [[incredulidad]], la [[herejía]] y la [[apostasía]]. El pecado contra el Espíritu Santo se vincula con la [[desesperación]], [[presunción]], [[impenitencia]] y [[obstinación]].
 
 ## Ver también
 

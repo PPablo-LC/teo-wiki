@@ -1,19 +1,26 @@
 ---
 type: Concepto Teológico
-title: Sigilo sacramental
-tags: ["derecho_canónico", "sacramental"]
-
-timestamp: 2026-06-27
-description: "El sigilo sacramental es la obligación inviolable de guardar secreto absoluto sobre todo lo conocido en la confesión sacramental."
+title: "Sigilo sacramental"
+tags: ["derecho_canónico", "sacramental", "moral"]
+timestamp: 2026-10-29
+description: "Secreto absoluto e inviolable sobre lo conocido en la confesión: obliga al confesor sin excepción y no admite dispensa ni revelación."
 ---
 # Sigilo sacramental
 
-> Área: Derecho Canónico / Sacramental
-> Última actualización: 2026-06-27
+> Área: Derecho Canónico / Sacramental / Moral
+> Última actualización: 2026-10-29
 
 ## Definición
 
-El sigilo sacramental es la obligación inviolable de guardar secreto absoluto sobre todo lo conocido en la confesión sacramental. Obliga al confesor de modo absoluto, sin excepción alguna, y también al intérprete y a cualquier otra persona que hubiera tenido conocimiento de los pecados por la confesión.
+El sigilo sacramental —llamado también **sello sacramental**— es la obligación inviolable de guardar secreto absoluto sobre todo lo conocido en la confesión sacramental. Obliga al confesor de modo absoluto, sin excepción alguna, ni siquiera para salvar su propia vida, y también al intérprete y a cualquier otra persona que hubiera tenido conocimiento de los pecados por la confesión (CIC c. 983 §1; Trento, DS 1683). El Catecismo lo llama «sello sacramental» y precisa su naturaleza: lo que el confesor oye «no es un secreto profesional, sino sagrado», porque la confesión es un diálogo de salvación entre el penitente y Cristo, con el sacerdote como instrumento (CEC §1467).
+
+## Desarrollo doctrinal
+
+El sigilo se funda en dos razones: es esencial al sacramento —el sacerdote conoce el pecado como lo conoce Dios— y se ordena a evitar el escándalo (Suppl. q.11 a.4). Protege la libertad del penitente ante Dios y la integridad del sacramento: sin garantía absoluta de secreto, nadie confesaría con verdad. El confesor no es depositario de un secreto humano, sino testigo del encuentro con Cristo, que es su verdadero depositario; de ahí la fórmula clásica: es «confesor, no testigo».
+
+La Iglesia nunca ha admitido excepción: ni interrogatorios judiciales, ni peligro del Estado, ni conveniencias pastorales. El confesor que viola directamente el sigilo incurre en excomunión *latae sententiae* reservada a la Sede Apostólica (CIC c. 1388 §1). Ni siquiera puede «hacer la menor insinuación» que permita identificar al penitente.
+
+En los Estados que pretenden obligar al confesor a denunciar delitos conocidos en confesión —señaladamente en materia de protección de menores—, la Iglesia mantiene la inviolabilidad absoluta: el confesor no puede denunciar. Se pide en cambio que el delincuente mismo cumpla su deber de denuncia y se fortalecen los mecanismos de protección fuera del confesionario ([[protección_de_menores]]).
 
 ## Perspectivas por fuente
 
@@ -59,17 +66,29 @@ El **IV Concilio de Letrán** (1215), en D-438, establece la obligación del sig
 
 **Benedicto XIV** (1745, D‑1474) — Breve *Suprema omnium Ecclesiarum sollicitudo*. Condenó la práctica de algunos confesores que preguntaban a los penitentes el nombre del cómplice de su pecado y les forzaban a revelarlo bajo amenaza de negar la absolución. Declaró esta práctica como «escandalosa y perniciosa, tan injuriosa a la fama del prójimo como al mismo sacramento, como tendente a la violación del sacrosanto sigilo». Afirmó que el confesor no debe indagar el nombre del cómplice ni el lugar de su domicilio. Esta condena reafirma que el sigilo sacramental protege también la identidad de terceros mencionados en la confesión y que el celo por la corrección del prójimo no puede justificar su violación.
 
+## Distinciones importantes
+
+- **Sigilo sacramental** (inviolable, absoluto, de origen sacramental) ≠ **secreto de oficio** (cesa ante un bien superior y es dispensable por la autoridad) ≠ **secreto profesional** (relativo). La diferencia no es de grado sino de naturaleza: el sigilo no protege un secreto humano, sino el diálogo del penitente con Dios.
+- **Violación directa ≠ violación indirecta:** la directa revela el pecado o al penitente de modo explícito o atribuible; la indirecta es la insinuación que permite reconocerlo sin nombrarlo, y es también gravísima. Ambas están reservadas a la CDF desde 2010.
+- **Sigilo ≠ confidencialidad de la dirección espiritual:** la dirección no es confesión; su secreto es grave, pero no es el sigilo sacramental.
+- **Sigilo ≠ prohibición de hablar del propio pecado:** el penitente es dueño de su secreto y puede revelarlo; la obligación recae sobre quien lo conoce por el sacramento.
+- **Uso del conocimiento ≠ revelación:** el c. 984 añade al sigilo la prohibición de usar lo sabido por confesión, aunque no haya revelación ni peligro de ella, y de emplearlo en el gobierno exterior.
+
 ## Relaciones doctrinales
 
-El sigilo sacramental se fundamenta en la naturaleza misma del sacramento de la [[sacramento_de_la_reconciliación|penitencia]] y en la absoluta confianza que el penitente debe tener en el ministro sagrado. Se distingue del secreto profesional y del secreto natural por su origen sacramental y su inviolabilidad absoluta.
+El sigilo sacramental se fundamenta en la naturaleza misma del [[sacramento_de_la_reconciliación]] y en la absoluta confianza que el penitente debe tener en el ministro sagrado. Se ordena a la [[confesión]] y a la [[absolución]], y protege el ejercicio de la [[potestad_de_las_llaves]] en el [[fuero_interno_y_fuero_externo|fuero interno]]. Su violación es delito tipificado en [[delitos_contra_la_penitencia]] y en [[delitos_canónicos]], y su tutela se articula con la [[protección_de_menores]] cuando las leyes civiles pretenden forzar la denuncia.
 
 ## Ver también
 
-[[sacramento_de_la_reconciliación]], [[confesión]], [[absolución_general]], [[potestad_de_las_llaves]]
+[[sacramento_de_la_reconciliación]], [[confesión]], [[confesor]], [[absolución_general]], [[potestad_de_las_llaves]], [[delitos_contra_la_penitencia]], [[delitos_canónicos]], [[protección_de_menores]], [[fuero_interno_y_fuero_externo]], [[conciencia]], [[sacramentorum_sanctitatis_tutela]], [[normae_de_gravioribus_delictis]]
 
 ## Referencias
 
-- CIC cc. 983-984
-- CIC c. 1388 (penas por violación del sigilo)
+- CIC cc. 983-984 (sigilo), c. 1388 §1 (sanción); CCEC c. 1456
+- CEC §1467
+- Concilio de Trento, sesión XIV (DS 1683)
+- D-438 (IV Letrán); D-1220 (Inocencio XI); D-1474 (Benedicto XIV)
+- *Sacramentorum sanctitatis tutela* (2001); *Normae de gravioribus delictis* (2010) art. 4
 - Com-CIC-Eunsa, comentario a los cc. 983-984
 - SmTh Suppl. q.11
+- PMI (2019); Notas de la Santa Sede sobre el sigilo y las leyes civiles (2019)

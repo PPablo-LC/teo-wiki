@@ -37,7 +37,7 @@ A través de muchas lenguas, culturas, pueblos y naciones, la Iglesia no cesa de
 
 ## Ver también
 
-[[virtud_de_la_fe]], [[iglesia_cuerpo_místico]], [[magisterio_de_la_iglesia]], [[símbolos_de_la_fe]], [[bautismo]]
+[[virtud_de_la_fe]], [[iglesia_cuerpo_místico]], [[magisterio_de_la_iglesia]], [[símbolo_de_la_fe]], [[bautismo]]
 
 ## Referencias
 

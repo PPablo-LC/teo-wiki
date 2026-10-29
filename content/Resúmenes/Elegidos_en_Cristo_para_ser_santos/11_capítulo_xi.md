@@ -46,7 +46,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "peca
 - [[redención]] — Cristo ha vencido el pecado con la cruz
 - [[remisión_de_los_pecados]] — parte de la misión de la Iglesia y del kérigma
 - [[sacramento_de_la_reconciliación]] — vía ordinaria para la remisión de los pecados tras el bautismo
-- [[confesión]]] — necesidad de confesar los pecados mortales en especie y número
+- [[confesión]] — necesidad de confesar los pecados mortales en especie y número
 - [[penitencia]] — actitud penitente exigida al cristiano
 - [[examen_de_conciencia]] — preparación del sacramento de la penitencia
 - [[bautismo]] — morimos con Cristo al pecado y resucitamos a la nueva vida

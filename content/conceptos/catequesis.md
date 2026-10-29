@@ -73,7 +73,7 @@ Tóth distingue entre una enseñanza religiosa meramente teórica —que fracasa
 
 ## Ver también
 
-[[virtud_de_la_fe]], [[tradición_apostólica]], [[magisterio_de_la_iglesia]], [[símbolos_de_la_fe]]
+[[virtud_de_la_fe]], [[tradición_apostólica]], [[magisterio_de_la_iglesia]], [[símbolo_de_la_fe]]
 
 ## Referencias
 

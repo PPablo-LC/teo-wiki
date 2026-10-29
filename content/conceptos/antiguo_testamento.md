@@ -87,7 +87,7 @@ El Antiguo Testamento se relaciona con la [[antigua_alianza]], la [[sagrada_escr
 
 ## Ver también
 
-[[antigua_alianza]], [[alianza]], [[sagrada_escritura]], [[revelación_divina]], [[interpretación_de_la_escritura]], [[símbolos_de_la_fe]]
+[[antigua_alianza]], [[alianza]], [[sagrada_escritura]], [[revelación_divina]], [[interpretación_de_la_escritura]], [[símbolo_de_la_fe]]
 
 ## Referencias
 

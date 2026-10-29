@@ -38,7 +38,7 @@ Inocencio III convocó el Concilio de Letrán IV como la culminación de su prog
 - [[eucaristía]] — el misterio central que el concilio definió
 - [[herejía_albigense]] — condenada en este concilio
 - [[pobres_de_lyon]] — movimientos condenados junto a los albigenses
-- [[confesión]]] — la obligación anual se estableció aquí
+- [[confesión]] — la obligación anual se estableció aquí
 - [[comunión]] — la comunión pascual obligatoria se instauró en este concilio
 
 ## Ver también

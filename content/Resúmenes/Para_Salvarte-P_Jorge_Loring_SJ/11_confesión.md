@@ -13,7 +13,7 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 ## Conceptos básicos referenciados
 
 - [[sacramento_de_la_penitencia]] — sacramento instituido por Cristo para perdonar los pecados cometidos después del bautismo y recobrar la gracia.
-- [[confesión]]] — decir con arrepentimiento al confesor todos los pecados cometidos desde la última confesión bien hecha.
+- [[confesión]] — decir con arrepentimiento al confesor todos los pecados cometidos desde la última confesión bien hecha.
 - [[pecado]] — toda acción u omisión voluntaria contra la ley de Dios; ofensa a Dios y a su amor.
 - [[pecado_mortal]] — pecado de materia grave cometido con pleno conocimiento y deliberado consentimiento.
 - [[pecado_de_omisión]] — dejar de hacer el bien que se estaba obligado a hacer.

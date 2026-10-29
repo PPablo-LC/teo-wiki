@@ -53,7 +53,7 @@ La Vida de Jesús (VJ) enseña que la concepción virginal, excluyendo una pater
 
 ## Ver también
 
-[[jesucristo]], [[virgen_maría]], [[espíritu_santo]], [[encarnación]], [[redención]], [[símbolos_de_la_fe]]
+[[jesucristo]], [[virgen_maría]], [[espíritu_santo]], [[encarnación]], [[redención]], [[símbolo_de_la_fe]]
 
 ## Referencias
 

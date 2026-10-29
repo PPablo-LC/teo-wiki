@@ -66,7 +66,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "ley 
 - [[religión]] — virtud moral regulada por la ley eclesiástica
 - [[penitencia]] — materia de leyes eclesiásticas
 - [[eucaristía]] — recomendación de recibirla con frecuencia
-- [[confesión]]] — obligación de confesar los pecados graves al menos una vez al año
+- [[confesión]] — obligación de confesar los pecados graves al menos una vez al año
 - [[ayuno]] — precepto eclesiástico
 - [[abstinencia]] — precepto eclesiástico
 - [[excomunión]] — pena canónica para apóstata, hereje o cismático

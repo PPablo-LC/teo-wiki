@@ -107,7 +107,7 @@ El P. Ghirlanda dedica una conferencia entera a esta distinción (cf. AntDp-2015
 
 - [[conciencia]]: ámbito del fuero interno.
 - [[dirección_espiritual]]: ámbito del fuero interno no sacramental.
-- [[confesión]]]: ámbito del fuero interno sacramental.
+- [[confesión]]: ámbito del fuero interno sacramental.
 - [[sigilo_sacramental]]: inviolabilidad del fuero interno sacramental.
 - [[secreto_de_oficio]]: protección del fuero interno no sacramental.
 - [[derecho_a_la_intimidad]]: derecho fundamental del fiel.
@@ -123,7 +123,7 @@ El P. Ghirlanda dedica una conferencia entera a esta distinción (cf. AntDp-2015
 
 - [[conciencia]]
 - [[dirección_espiritual]]
-- [[confesión]]]
+- [[confesión]]
 - [[sigilo_sacramental]]
 - [[secreto_de_oficio]]
 - [[derecho_a_la_intimidad]]
