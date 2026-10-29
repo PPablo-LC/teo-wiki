@@ -32,5 +32,5 @@ Su obra mayor, *Le Porche du Mystère de la deuxième vertu* (El pórtico del mi
 ## Referencias
 
 - Millare, Roland. «It's the End of the World as Ratzinger Knows It», en *Evangelization & Culture* 11 (Spring 2022).
-- Healy Jr., Nicholas J. «The Eucharist and the Beatific Vision», en *Evangelization & Culture* 11 (Spring 2022).
+- Healy Jr., Nicholas J. «The Eucharist and the Beatific Visión», en *Evangelization & Culture* 11 (Spring 2022).
 - Péguy, Charles. *The Portal of the Mystery of Hope*. trad. David Louis Schindler Jr. Eerdmans, 1996.

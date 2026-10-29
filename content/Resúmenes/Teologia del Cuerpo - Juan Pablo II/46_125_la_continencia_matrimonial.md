@@ -4,7 +4,7 @@ title: "125. La continencia matrimonial"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 46
 timestamp: 2026-08-01
-description: "Catequesis 125: la continencia como único camino para liberar al hombre de las tensiones interiores, la distinción entre «excitación» y «emoción», y la función positiva del dominio de sí en el influjo recíproco de la masculinidad y femineidad — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 125: la continencia como único camino para liberar al hombre de las tensiones interiores, la distinción entre «excitación» y «emoción», y la función positiva del dominio de sí en el influjo recíproco de la masculinidad y femineidad — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

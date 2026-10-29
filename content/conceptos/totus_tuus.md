@@ -13,7 +13,7 @@ description: "Fórmula de consagración mariana —«Totus Tuus ego sum, et omni
 
 ## Definición
 
-Fórmula de consagración mariana —«Totus Tuus ego sum, et omnia mea tua sunt; accipio te in mea omnia. Praebe mihi cor tuum, Maria»— que expresa la pertenencia total a Cristo por medio de María, según la espiritualidad de San Luis María Grignion de Montfort. Fue el lema del pontificado de San Juan Pablo II y sintetiza su devoción mariana como camino de configuración con Cristo.
+Fórmula de consagración mariana —«Totus Tuus ego sum, et omnia mea tua sunt; accipio te in mea omnia. Praebe mihi cor tuum, María»— que expresa la pertenencia total a Cristo por medio de María, según la espiritualidad de San Luis María Grignion de Montfort. Fue el lema del pontificado de San Juan Pablo II y sintetiza su devoción mariana como camino de configuración con Cristo.
 
 ## Desarrollo doctrinal
 

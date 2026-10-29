@@ -26,7 +26,7 @@ De Gn 1 a Dt 34. Es una obra básicamente narrativa con amplias secciones legale
 
 ## 3. Autor: ¿escribió Moisés el Pentateuco?
 
-La tradición antigua atribuye la obra a Moisés, y Cristo y los apóstoles asumen esa atribución. Las primeras dudas aparecen en Abraham ibn Esdras, Hobbes, Spinoza y Richard Simon.
+La tradición antigua atribuye la obra a Moisés, y Cristo y los apóstoles asumen esa atribución. Las primeras dudas aparecen en Abraham ibn Esdras, Hobbes, Spinoza y Richard Simón.
 
 ## 4. Argumentos contra la teoría tradicional
 

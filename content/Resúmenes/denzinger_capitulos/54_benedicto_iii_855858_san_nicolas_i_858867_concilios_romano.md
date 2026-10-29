@@ -70,7 +70,7 @@ VIII ecuménico (contra Focio). En la primera sesión se leyó y aprobó la regl
 
 **D-342** (Para la canonización de San Udalrico): se decreta que la memoria de San Udalrico, obispo, sea venerada con afecto piadosísimo: se veneran las [[reliquias]] de los mártires y confesores adorando a Aquel de quien son mártires y confesores; se honra a los siervos para que el honor redunde en el Señor (Mt. 10,40).
 
-### GREGORIO V, 996-999 A SAN LEON IX, 1049-1054
+### GREGORIO V, 996-999 A SAN LEÓN IX, 1049-1054
 
 **Símbolo de la fe** [Carta *Congratulamur vehementer* a Pedro, obispo de Antioquía, 13 de abril de 1053]:
 
@@ -89,7 +89,7 @@ VIII ecuménico (contra Focio). En la primera sesión se leyó y aprobó la regl
 - **D-352** Anatema de los Concilios contra quien juzgue contra la Sede suprema, de la que no es lícito juzgar a ningún hombre.
 - **D-353** Como el quicio trae y lleva la puerta, Pedro y sus sucesores tienen libre juicio sobre toda la Iglesia; la Sede suprema por nadie es juzgada.
 
-### VICTOR II, 1055-1057 ESTEBAN IX, 1057-1058 NICOLAS II, 1059-1061
+### VÍCTOR II, 1055-1057 ESTEBAN IX, 1057-1058 NICOLAS II, 1059-1061
 
 **CONCILIO ROMANO DE 1060. De las ordenaciones simoníacas:**
 
@@ -101,7 +101,7 @@ VIII ecuménico (contra Focio). En la primera sesión se leyó y aprobó la regl
 
 - **D-355** Juramento de Berengario: el pan y el vino, por el misterio de la sagrada oración y las palabras del Redentor, «se convierten sustancialmente en la verdadera, propia y vivificante carne y sangre de Jesucristo»; después de la consagración son el verdadero cuerpo de Cristo «no solo por el signo y virtud del sacramento, sino en la propiedad de la naturaleza y verdad de la sustancia».
 
-### VICTOR III, 1087 URBANO II, 1088-1099
+### VÍCTOR III, 1087 URBANO II, 1088-1099
 
 **CONCILIO DE BENEVENTO, 1091. De la índole sacramental del diaconado:**
 
@@ -173,11 +173,11 @@ VIII ecuménico contra Focio: cánones sobre la tradición, las imágenes, la un
 
 Decreto de canonización de San Udalrico y doctrina sobre la veneración de las reliquias (D-342).
 
-## GREGORIO V, 996-999 A SAN LEON IX, 1049-1054
+## GREGORIO V, 996-999 A SAN LEÓN IX, 1049-1054
 
 Símbolo de la fe de San León IX y doctrina sobre el primado del Romano Pontífice frente a los griegos (D-343 a D-353).
 
-## VICTOR II, 1055-1057 A PASCUAL II, 1099-1118
+## VÍCTOR II, 1055-1057 A PASCUAL II, 1099-1118
 
 Concilios romanos de 1060, 1079 y Concilio de Benevento (1091): ordenaciones simoníacas, condena de Berengario sobre la eucaristía, diaconado y obediencia a la Iglesia (D-354 a D-357).
 

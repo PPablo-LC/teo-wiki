@@ -25,6 +25,10 @@ La pureza no consiste en una mera represión de los instintos, sino en la integr
 
 La pureza de corazón es la condición previa para la contemplación de Dios (§2517). La castidad implica un aprendizaje del dominio de sí mismo y es fruto de la gracia y del Espíritu Santo (§2519-2527). Las ofensas a la pureza incluyen la lujuria, la masturbación, la fornicación, la pornografía y la homosexualidad práctica (§2531-2533). La lucha por la pureza requiere virtud, oración y frecuencia de sacramentos (§2520-2522).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Puro» del VocTeoBib traza el desarrollo bíblico de la pureza desde lo cultual a lo moral. En el AT, la pureza legal (Lev 11-16) era la disposición requerida para el culto. Los profetas exigieron una purificación interior (Is 1,15ss; Os 6,6). Jesús proclamó que la única pureza es la interior (Mc 7,14-23): de dentro del corazón proceden los malos deseos. La pureza radical viene por la palabra de Cristo (Jn 15,3) y el bautismo (Ef 5,26). San Pablo enseña que «todo es puro para los puros» (Tit 1,15) y que la caridad brota de un corazón puro (1Tim 1,5). La pureza culmina en la santidad (1Tes 4,7s).
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín sitúa la pureza como parte de la virtud de la templanza, una de las cuatro virtudes cardinales que deben practicar quienes aspiran a la perfección cristiana. La pureza es necesaria para avanzar en la vía purgativa y alcanzar la iluminativa. Las almas llamadas a la perfección deben custodiar la pureza del cuerpo y del espíritu, pues «los puros de corazón verán a Dios». La pureza angélica es propia de los que viven la virginidad consagrada.
@@ -47,15 +51,11 @@ La pureza tiene una función positiva: aliada con el don de la piedad (donum pie
 
 **Inocencio XI** (1679, D‑1199) condenó la proposición: «La masturbación no está prohibida por derecho de la naturaleza...» Condenada como escandalosa y perniciosa. La pureza del cuerpo exige el respeto del orden natural establecido por Dios en el acto sexual.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La entrada «Puro» del VocTeoBib traza el desarrollo bíblico de la pureza desde lo cultual a lo moral. En el AT, la pureza legal (Lev 11-16) era la disposición requerida para el culto. Los profetas exigieron una purificación interior (Is 1,15ss; Os 6,6). Jesús proclamó que la única pureza es la interior (Mc 7,14-23): de dentro del corazón proceden los malos deseos. La pureza radical viene por la palabra de Cristo (Jn 15,3) y el bautismo (Ef 5,26). San Pablo enseña que «todo es puro para los puros» (Tit 1,15) y que la caridad brota de un corazón puro (1Tim 1,5). La pureza culmina en la santidad (1Tes 4,7s).
-
 ### Según Ritratti di santi (RdS)
 
 El capítulo 11 (S. María Goretti) defiende la pureza del martirio contra dos reducciones:
 
-- **Contra la «smascheración» laicista**: quien reduce a la santa a «povera santa» — «un povero ranocchio dalla intelligenza revocata», víctima de represiones y de la «miseria e della ignoranza» — no ha entendido nada: «dedurre dalla povertà fisica e intellettuale... una sua 'necessaria' povertà morale significa non saper nulla dell'amore infinito che Dio ha per tutte le sue creature, né della forza invincibile con cui Egli può attrarle a sé». María Goretti «non aveva molte idee filosofiche sulla persona e sul corpo. Non avendole, si fidava delle idee di Dio».
+- **Contra la «smascheración» laicista**: quien reduce a la santa a «povera santa» — «un povero ranocchio dalla intelligenza revocata», víctima de represiones y de la «miseria e della ignoranza» — no ha entendido nada: «dedurre dalla povertà física e intellettuale... una sua 'necessaria' povertà morale significa non saper nulla dell'amore infinito che Dio ha per tutte le sue creature, né della forza invincibile con cui Egli può attrarle a sé». María Goretti «non aveva molte idee filosofiche sulla persona e sul corpo. Non avendole, si fidava delle idee di Dio».
 - **El cuerpo como lugar donde el yo se comunica**: las ciencias humanas han llegado a decir que no se trata solo de «avere un corpo» sino «di 'essere un corpo', perché il corpo è il luogo in cui l'io si comunica e si realizza» — «è esattamente ciò che la Chiesa ha sempre inteso insegnare quando ha parlato della 'santità' e della 'purezza' del corpo umano». Todo intervención que lacere, manipule o «priva di storia» ese rapporto humilla la persona — «anche se è la persona stessa che lo vuole».
 - **La progenie del ejemplo**: el ataque laicista citaba ironizando a Pierina Morosini; Juan Pablo II la beatificó junto con Antonia Mesina (4-X-1987): dos «vergini e martiri» del mismo cuadro, presentadas a la sociedad actual como «sentiero luminoso per quanti avvertono il fascino delle sfide evangeliche».
 

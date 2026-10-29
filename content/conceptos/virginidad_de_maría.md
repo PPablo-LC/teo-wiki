@@ -41,7 +41,7 @@ Scott Hahn (BMV, lección 6) desarrolla la virginidad perpetua como corolario de
 
 Hahn presenta la virginidad perpetua en el capítulo 5 como exigencia cristológica y como dato tradicional, y resume la controversia con Helvidio:
 
-- **Por qué la Iglesia la confiesa.** La virginidad de María garantiza a la vez la divinidad y la humanidad de Cristo. Santo Tomás lo formula con precisión: «para que se mostrara que el cuerpo de Cristo era un cuerpo real, nació de una mujer; para que se mostrara que su divinidad era clara, nació de una virgen». Por eso los símbolos de la fe no dicen solo «Jesús», sino «nacido de la Virgen María», y por eso «la Virgen» funciona como nombre propio.
+- **Por qué la Iglesia la confiesa.** La virginidad de María garantiza a la vez la divinidad y la humanidad de Cristo. Santo Tomás lo fórmula con precisión: «para que se mostrara que el cuerpo de Cristo era un cuerpo real, nació de una mujer; para que se mostrara que su divinidad era clara, nació de una virgen». Por eso los símbolos de la fe no dicen solo «Jesús», sino «nacido de la Virgen María», y por eso «la Virgen» funciona como nombre propio.
 - **Los «hermanos».** El hebreo no tiene palabra para «primo»; el término «hermano» cubre la parentela amplia, y los primos de Jesús, al ser hijo único, asumían su condición legal de hermanos. «Primogénito» (Lc 2,7) es un término jurídico que designa al que abre el seno materno, haya o no otros hijos después.
 - **«Antes» y «hasta».** Helvidio fundó su argumento en Mt 1,18.25. Jerónimo respondió que la Escritura usa fórmulas de tiempo fijo para designar un tiempo sin límite: «hasta vuestra vejez yo seré el mismo» (Is 46,4), «yo estoy con vosotros hasta el fin del mundo» (Mt 28,20). Nadie concluye que Dios deje de ser Dios cuando sus hijos envejezcan.
 - **Lucas 1,34.** «¿Cómo será esto, si no conozco varón?» es una pregunta extraña si María contaba con tener relaciones conyugales: el ángel solo le ha anunciado un hijo, lo más común en un matrimonio. La pregunta supone que no habría ocasión de concebir. Hahn menciona la hipótesis de un propósito de virginidad asumido antes del matrimonio y recuerda que el celibato no era impensable en el judaísmo del siglo I (Qumrán, Jesús, Pablo).
@@ -51,7 +51,7 @@ Hahn insiste en que la lectura católica no se apoya solo en la filología: los 
 
 [HHQ, cap. 5]
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre defiende la virginidad perpetua con tres líneas de evidencia que, según él, se refuerzan mutuamente:
 
@@ -84,4 +84,4 @@ Se relaciona con [[virgen_maría]], [[inmaculada_concepción]], [[asunción_de_m
 - [LG 52-69]
 - [TPCr, Parte II, Cap. 3]
 - Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 5
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), cap. 5
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), cap. 5

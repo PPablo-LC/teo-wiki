@@ -4,7 +4,7 @@ title: "6. El primer hombre, imagen de Dios"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 20
 timestamp: 2026-08-01
-description: "Catequesis 6: la soledad originaria como estructura ontológica del hombre (autoconciencia y autodeterminación), el hombre como sujeto de la Alianza y 'partner del Absoluto', el cuerpo entre los cuerpos y el dominio de la tierra — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 6: la soledad originaria como estructura ontológica del hombre (autoconciencia y autodeterminación), el hombre como sujeto de la Alianza y 'partner del Absoluto', el cuerpo entre los cuerpos y el dominio de la tierra — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

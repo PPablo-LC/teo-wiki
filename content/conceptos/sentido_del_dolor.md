@@ -21,6 +21,9 @@ La pregunta «¿por qué sufro?» es uno de los interrogantes más profundos del
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC enseña que el sufrimiento puede ser una participación en la Pasión de Cristo: «Los sufrimientos de Cristo tienen valor infinito por su amor y por la dignidad de su persona» (§1508). La oración por los enfermos y el sacramento de la Unción les dan «la gracia del Espíritu Santo que fortalece, alivia y conforta» (§1520).
 ### Según Una Visita de Dios (UVD)
 
 Juan Pablo II aborda la cuestión del sentido del dolor desde su propia experiencia: «Yo conozco también —porque lo he probado en mi persona— el sufrimiento que produce la incapacidad física, la debilidad propia de la enfermedad, la carencia de energías para el trabajo» [UVD]. Pero añade: «ese sufrimiento tiene otra vertiente sublime: da una gran capacidad espiritual» [UVD].
@@ -33,9 +36,6 @@ Juan Pablo II subraya que «sólo una vida de fe sinceramente aceptada e intensa
 
 En la Carta Apostólica *Salvifici Doloris* (1984), Juan Pablo II expone que «el hombre sufre cuando no puede amar» [SD §20]. El sufrimiento tiene una dimensión cristológica: «Cristo ha abierto su propio sufrimiento al hombre para que éste pueda participar en él» [SD §19]. El sentido del dolor se descubre en la Cruz: «El sufrimiento está presente en el mundo para despertar el amor, para hacer nacer obras de caridad» [SD §29].
 
-### Según el Catecismo (CEC)
-
-El CEC enseña que el sufrimiento puede ser una participación en la Pasión de Cristo: «Los sufrimientos de Cristo tienen valor infinito por su amor y por la dignidad de su persona» (§1508). La oración por los enfermos y el sacramento de la Unción les dan «la gracia del Espíritu Santo que fortalece, alivia y conforta» (§1520).
 
 ## Distinciones importantes
 

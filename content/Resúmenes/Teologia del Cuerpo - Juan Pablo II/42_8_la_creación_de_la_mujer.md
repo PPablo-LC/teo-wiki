@@ -4,7 +4,7 @@ title: "8. La creación de la mujer"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 42
 timestamp: 2026-08-01
-description: "Catequesis 8: la unidad originaria del hombre y la mujer, «no es bueno que el hombre esté solo» (Gn 2,18), el sopor de Adán y la creación de la mujer de la costilla, «hueso de mis huesos y carne de mi carne» (Gn 2,23) — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 8: la unidad originaria del hombre y la mujer, «no es bueno que el hombre esté solo» (Gn 2,18), el sopor de Adán y la creación de la mujer de la costilla, «hueso de mis huesos y carne de mi carne» (Gn 2,23) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

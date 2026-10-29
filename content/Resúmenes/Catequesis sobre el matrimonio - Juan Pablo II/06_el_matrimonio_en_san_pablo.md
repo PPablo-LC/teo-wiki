@@ -12,7 +12,7 @@ tags: ["resumen", "catequesis sobre el matrimonio - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[pureza_de_corazón]] — virtud que Pablo formula como «mantener el propio cuerpo en santidad y respeto» (1 Tes 4, 4).
+- [[pureza_de_corazón]] — virtud que Pablo fórmula como «mantener el propio cuerpo en santidad y respeto» (1 Tes 4, 4).
 - [[redención_del_cuerpo]] — misterio realizado por Cristo que fundamenta la nueva dignidad del cuerpo humano.
 - [[templo_del_espíritu_santo]] — nombre paulino del cuerpo humano por inhabitación del Espíritu (1 Cor 6, 19).
 - [[don_de_piedad]] — don del Espíritu Santo más apropiado a la virtud de la pureza.

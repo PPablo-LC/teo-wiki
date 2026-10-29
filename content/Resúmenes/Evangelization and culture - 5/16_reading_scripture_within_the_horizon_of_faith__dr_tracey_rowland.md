@@ -27,7 +27,7 @@ El joven profesor Ratzinger trabajó en *Dei Verbum* (Constitución Dogmática s
 
 ### La crisis de la exégesis moderna
 
-Bultmann negaba que los lectores tuvieran «esperanza de una comprensión objetiva de los eventos allí representados» — lo importante era «el impacto existencial» de la Escritura, no «la historia real». La búsqueda del Jesús histórico, desde Reimarus hasta la Jesus Seminar, siguió «la práctica kantiana de desacoplar la fe de la razón y la exégesis de la Tradición de la Iglesia».
+Bultmann negaba que los lectores tuvieran «esperanza de una comprensión objetiva de los eventos allí representados» — lo importante era «el impacto existencial» de la Escritura, no «la historia real». La búsqueda del Jesús histórico, desde Reimarus hasta la Jesús Seminar, siguió «la práctica kantiana de desacoplar la fe de la razón y la exégesis de la Tradición de la Iglesia».
 
 ### La respuesta: leer desde la fe
 
@@ -35,7 +35,7 @@ Ratzinger/Cardenal: «Es ciertamente una buena práctica académica examinar tex
 
 ### La exégesis espiritual
 
-Los cuatro sentidos de la Escritura (CEC 116-118): literal, alegórico, moral y anagógico. «La precedencia de los cuatro sentidos» — promovida por Henri de Lubac en *Medieval Exegesis*. La tipología: «el método de interpretación cristiana capaz de descubrir relaciones analógicas dentro de la historia» (Boersma). «Leer textos individuales de la Biblia en el contexto del todo — es decir, en el contexto de ambos Testamentos».
+Los cuatro sentidos de la Escritura (CEC 116-118): literal, alegórico, moral y anagógico. «La precedencia de los cuatro sentidos» — promovida por Henri de Lubac en *Medieval Exégesis*. La tipología: «el método de interpretación cristiana capaz de descubrir relaciones analógicas dentro de la historia» (Boersma). «Leer textos individuales de la Biblia en el contexto del todo — es decir, en el contexto de ambos Testamentos».
 
 ### La tradición Communio
 

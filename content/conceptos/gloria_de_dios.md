@@ -38,6 +38,12 @@ La gloria de Dios es el fin último de la creación: «El fin último de la crea
 
 La oración cristiana es comunión con el Espíritu Santo y con el Hijo, y tiende a la gloria del Padre (CEC §2645). «Rogar a Dios por los otros es algo muy propio del Hijo y de los hijos de Dios» (CEC §2798).
 
+### Según Royo Marín (TPCr)
+
+Royo Marín establece que el fin de la vida cristiana es la gloria de Dios y la santificación del hombre, indisolublemente unidas. La gloria de Dios es el fin primario, pero no se opone al bien del hombre, pues Dios es glorificado precisamente en la medida en que el hombre se santifica.
+
+La fórmula clásica «Gloria de Dios y santificación de las almas» resume el doble aspecto de un mismo fin: el aspecto teocéntrico (gloria de Dios) y el aspecto antropológico (santificación del hombre). La verdadera perfección cristiana consiste en vivir orientado hacia la gloria de Dios en todos los actos de la vida (TPCr, Parte I, Cap. 1).
+
 ### Según la Escritura
 
 - **AT**: La gloria de Yahvéh se manifiesta en el Sinaí, llena el templo, habita en la nube (Ex 40,34-35; 1Re 8,10-11). «Los cielos narran la gloria de Dios» (Sal 19,1).
@@ -46,12 +52,6 @@ La oración cristiana es comunión con el Espíritu Santo y con el Hijo, y tiend
 ### Según la Tradición
 
 Los Padres de la Iglesia enseñan que la finalidad última del hombre es la gloria de Dios. San Ireneo: «La gloria de Dios es el hombre vivo, y la vida del hombre es la visión de Dios».
-
-### Según Royo Marín (TPCr)
-
-Royo Marín establece que el fin de la vida cristiana es la gloria de Dios y la santificación del hombre, indisolublemente unidas. La gloria de Dios es el fin primario, pero no se opone al bien del hombre, pues Dios es glorificado precisamente en la medida en que el hombre se santifica.
-
-La fórmula clásica «Gloria de Dios y santificación de las almas» resume el doble aspecto de un mismo fin: el aspecto teocéntrico (gloria de Dios) y el aspecto antropológico (santificación del hombre). La verdadera perfección cristiana consiste en vivir orientado hacia la gloria de Dios en todos los actos de la vida (TPCr, Parte I, Cap. 1).
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
@@ -63,7 +63,7 @@ La santificación o santidad moral constituye el fin último próximo de la vida
 
 En los ejercicios de 1994-1996, la gloria de Dios se presenta como el horizonte que da sentido a la existencia y el criterio de toda acción moral:
 
-- **La gloria de Cristo como ley de la historia**: en 1995, el *Stabat Mater* de Dvořák resume la síntesis: *«Fac ut ardeat cor meum in amando Christum Deum, ut sibi complaceam»* — «Che tutta la mia personalità arda di rapporto con Cristo, ami questa parola, la dica veramente: "Gesù"! Che io sia legato a questa Presenza realmente, perché si compia ciò che Egli vuole, "ut sibi complaceam"» (03, 51-53). «Cristo tutto in tutti» (Col 3,11) es «la grande legge della storia, del tempo e dello spazio» (03, 53).
+- **La gloria de Cristo como ley de la historia**: en 1995, el *Stabat Mater* de Dvořák resume la síntesis: *«Fac ut ardeat cor meum in amando Christum Deum, ut sibi complaceam»* — «Che tutta la mía personalità arda di rapporto con Cristo, ami questa parola, la dica veramente: "Gesù"! Che io sia legato a questa Presenza realmente, perché si compia ciò che Egli vuole, "ut sibi complaceam"» (03, 51-53). «Cristo tutto in tutti» (Col 3,11) es «la grande legge della storia, del tempo e dello spazio» (03, 53).
 
 - **El único propósito del vivir**: en 1994, Giussani afirma: «L'unico scopo del vivere… è la gloria di Cristo nel mondo»; «Padre, è venuta l'ora… glorifica il figlio tuo!» (Gv 17,1), compartiendo las debilidades «con pacienzia y fraternità»; «è un altro mondo in questo mondo» (02, 241-243).
 

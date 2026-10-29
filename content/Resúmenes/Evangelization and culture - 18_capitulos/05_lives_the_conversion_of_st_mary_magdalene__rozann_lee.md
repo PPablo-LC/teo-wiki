@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Lives: The Conversion of St. Mary Magdalene — Rozann Lee"
+title: "Lives: The Conversión of St. Mary Magdalene — Rozann Lee"
 fuente: Evangelization and culture - 18_capitulos
 capítulo: 5
 timestamp: 2026-09-05
-description: "Resumen de 'Lives: The Conversion of St. Mary Magdalene — Rozann Lee' — Evangelization and culture - 18_capitulos"
+description: "Resumen de 'Lives: The Conversión of St. Mary Magdalene — Rozann Lee' — Evangelization and culture - 18_capitulos"
 tags: ["resumen", "evangelization and culture - 18 capitulos"]
 ---
 
-# Lives: The Conversion of St. Mary Magdalene — Rozann Lee
+# Lives: The Conversión of St. Mary Magdalene — Rozann Lee
 
 ## Conceptos básicos referenciados
 

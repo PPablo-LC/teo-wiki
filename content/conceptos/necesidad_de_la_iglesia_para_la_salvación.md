@@ -17,6 +17,10 @@ La necesidad de la Iglesia para la salvación significa que, siendo Cristo el ú
 
 ## Perspectivas por fuente
 
+### Según el Catecismo de la Iglesia Católica (CEC)
+
+El CEC reafirma que «Fuera de la Iglesia no hay salvación» (CEC 846), explicando que toda salvación viene de Cristo-Cabeza mediante la Iglesia, su Cuerpo. Al mismo tiempo, reconoce que quienes ignoran el Evangelio sin culpa pueden ser salvados por Dios (CEC 847-848), que el Bautismo de deseo y la gracia de Dios alcanzan a quienes buscan sinceramente la verdad y el bien (CEC 847-851).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Lumen Gentium* desarrolla esta doctrina con equilibrio y caridad.
@@ -28,10 +32,6 @@ La necesidad de la Iglesia para la salvación significa que, siendo Cristo el ú
 **LG 16.** Sin embargo, «los que, sin culpa, ignoran el Evangelio de Cristo y su Iglesia, pero buscan a Dios con sincero corazón y se esfuerzan, bajo el influjo de la gracia, en cumplir con las obras de su voluntad conocida a través del dictamen de la conciencia, pueden conseguir la salvación eterna». Asimismo, Dios no niega la gracia necesaria para la salvación a quienes no han recibido el Evangelio, sino que los ilumina de diversas maneras para que puedan alcanzar la vida eterna.
 
 Esta enseñanza recoge y precisa la antigua fórmula *extra Ecclesiam nulla salus* («fuera de la Iglesia no hay salvación»), entendida en su sentido auténtico: no hay otra salvación que la que Cristo ha obtenido y comunica mediante la Iglesia, medio ordinario de salvación establecido por Él.
-
-### Según el Catecismo de la Iglesia Católica (CEC)
-
-El CEC reafirma que «Fuera de la Iglesia no hay salvación» (CEC 846), explicando que toda salvación viene de Cristo-Cabeza mediante la Iglesia, su Cuerpo. Al mismo tiempo, reconoce que quienes ignoran el Evangelio sin culpa pueden ser salvados por Dios (CEC 847-848), que el Bautismo de deseo y la gracia de Dios alcanzan a quienes buscan sinceramente la verdad y el bien (CEC 847-851).
 
 ### Según UDE (1994)
 

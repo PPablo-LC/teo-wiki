@@ -29,7 +29,7 @@ En el Regnum Christi, el «Encuentro con Cristo» es también una actividad de e
 
 ### Según San Juan Pablo II (EA)
 
-El encuentro con Jesucristo vivo es el tema central de la Asamblea Especial del Sínodo de los Obispos para América y de la exhortación postsinodal *Ecclesia in America*: «Encuentro con Jesucristo vivo, camino para la conversión, la comunión y la solidaridad en América» [EA §3].
+El encuentro con Jesucristo vivo es el tema central de la Asamblea Especial del Sínodo de los Obispos para América y de la exhortación postsinodal *Ecclesia in América*: «Encuentro con Jesucristo vivo, camino para la conversión, la comunión y la solidaridad en América» [EA §3].
 
 Los encuentros bíblicos más significativos son: la mujer samaritana (cf. Jn 4, 5-42), que descubre al Mesías y lo anuncia a sus conciudadanos; Zaqueo (cf. Lc 19, 1-10), cuya conversión se manifiesta en la restitución y la caridad; María Magdalena (cf. Jn 20, 11-18), llamada «la apóstol de los apóstoles» por ser enviada a anunciar la resurrección; los discípulos de Emaús (cf. Lc 24, 13-35), que reconocen a Cristo en la fracción del pan; y la conversión de Saulo (cf. Hch 9, 3-30) [EA §8].
 
@@ -77,7 +77,7 @@ comunión de este encuentro, el lazo de este encuentro, puede liberar al hombre�
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Para TACDC el cristianismo es el acontecimiento de un encuentro: «il metodo con cui l'avvenimento di Cristo si prolunga nella storia: attraverso uomini e donne cambiati dall'incontro con Lui» (TACDC, 03, §7). El encuentro corresponde a las «attese profonde» de la humanidad: «Giovanni e Andrea, dopo aver trascorso del tempo con Gesù di Nazareth, si resero conto dell'eccezionalità di quell'incontro, finalmente corrispondente alle attese profonde della loro umanità» (TACDC, 01, §10).
+Para TACDC el cristianismo es el acontecimiento de un encuentro: «il método con cui l'avvenimento di Cristo si prolunga nella storia: attraverso uomini e donne cambiati dall'incontro con Lui» (TACDC, 03, §7). El encuentro corresponde a las «attese profonde» de la humanidad: «Giovanni e Andrea, dopo aver trascorso del tempo con Gesù di Nazareth, si resero conto dell'eccezionalità di quell'incontro, finalmente corrispondente alle attese profonde della loro umanità» (TACDC, 01, §10).
 
 Su estructura es la del acontecimiento: «È innanzitutto in un avvenimento che tale Presenza si rende incontrabile» (TACDC, 01, §25), y «esso si presenta sempre sotto la forma di un incontro, di un incontro significativo, di un incontro che cambia qualche cosa» (TACDC, 03, §83-85). El Evangelio insiste en el ver: «Il Vangelo usa più di quattrocento volte il verbo “vedere” e meno di duecento volte i verbi “credere”» (TACDC, 02, §157-159), y Gv 1,35-51 —«Ecco l'agnello di Dio»; «Maestro, dove stai di casa?»— es «il quadro più impressionante di questa novità» (§153-155). El encuentro no es una idea ni una visión subjetiva: «Non una visione, ma una realtà presente», pues «la visione la costruisci tu, ma la realtà presente ti si impone» (§123).
 

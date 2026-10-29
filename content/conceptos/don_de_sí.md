@@ -25,7 +25,7 @@ La paradoja: «la felicità attraverso il sacrificio». El deber mismo — orden
 
 ### Giussani — All'origine della pretesa cristiana (ODPC)
 
-ODPC 12 (cap. 8, §5.1: «Il dono di sé»): Gv 12,23-26 (el grano de trigo); Gv 10,14-15 (el buen Pastor); Gv 6,32-55 (el pan de vida; la Eucaristía, Mt 26,26; Lc 22,19); el comentario de Claudel (L'Annuncio a Maria: «Che vale la vita se non per essere data?»); Mc 10,29-30 (el ciento por uno); la estructura del deber como amor; Mt 19,12 (eunucos por el Reino: virginidad y matrimonio con la misma motivación); «non c'è nulla di profano» (Ries; Eliade). ODPC 12 (§5.2): la incapacidad de vivir el don como desorden heredado ([[pecado_original]]); Rm 7,24; la compañía como esencial para el camino (Gv 14,6; Gv 15,5.13).
+ODPC 12 (cap. 8, §5.1: «Il dono di sé»): Gv 12,23-26 (el grano de trigo); Gv 10,14-15 (el buen Pastor); Gv 6,32-55 (el pan de vida; la Eucaristía, Mt 26,26; Lc 22,19); el comentario de Claudel (L'Annuncio a María: «Che vale la vita se non per essere data?»); Mc 10,29-30 (el ciento por uno); la estructura del deber como amor; Mt 19,12 (eunucos por el Reino: virginidad y matrimonio con la misma motivación); «non c'è nulla di profano» (Ries; Eliade). ODPC 12 (§5.2): la incapacidad de vivir el don como desorden heredado ([[pecado_original]]); Rm 7,24; la compañía como esencial para el camino (Gv 14,6; Gv 15,5.13).
 
 ### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
 
@@ -52,4 +52,4 @@ El don de sí se enraíza en la [[dependencia_de_dios]] (solo quien se reconoce 
 - ODPC — Giussani, *All'origine della pretesa cristiana*, BUR Rizzoli.
 - ODPC 12 (§5.1-2) — cap. 8: *Il dono di sé*; *Il disordine umano*.
 - Citas bíblicas: Gv 12,23-26; 10,14-15; 6,32-55; 14,6; 15,5.13; Lc 9,24; 22,19; Mt 19,12; 26,26; Mc 10,29-30; Rm 7,24.
-- Claudel, P., *L'Annuncio a Maria* (BUR 2001), cit. en ODPC 12.
+- Claudel, P., *L'Annuncio a María* (BUR 2001), cit. en ODPC 12.

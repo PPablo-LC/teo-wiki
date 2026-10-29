@@ -283,7 +283,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 §505 El nuevo Adán inaugura por su concepción virginal el nuevo nacimiento de los hijos de adopción por la fe: la participación en la vida divina no nace "de la sangre, ni de deseo de carne, ni de deseo de hombre, sino de Dios". El sentido esponsal de la vocación humana se lleva a cabo perfectamente en la maternidad virginal de María.
 
-§506 María es virgen porque su virginidad es el signo de su fe no adulterada y de su entrega total a la voluntad de Dios: Beatior est Maria percipiendo fidem Christi quam concipiendo carnem Christi ("Más bienaventurada es María al recibir a Cristo por la fe que al concebir en su seno la carne de Cristo").
+§506 María es virgen porque su virginidad es el signo de su fe no adulterada y de su entrega total a la voluntad de Dios: Beatior est María percipiendo fidem Christi quam concipiendo carnem Christi ("Más bienaventurada es María al recibir a Cristo por la fe que al concebir en su seno la carne de Cristo").
 
 §507 María es a la vez virgen y madre porque es la figura y la más perfecta realización de la Iglesia: la Iglesia "se convierte en Madre por la palabra de Dios acogida con fe" y "también ella es virgen que guarda íntegra y pura la fidelidad prometida al Esposo".
 
@@ -551,7 +551,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ##### Dios le hizo pecado por nosotros
 
-§602 San Pedro formula la fe apostólica: "Habéis sido rescatados (…) con una sangre preciosa, como de cordero sin tacha y sin mancilla, Cristo, predestinado antes de la creación del mundo". Los pecados están sancionados con la muerte. Al enviar a su Hijo en la condición de esclavo, "a quien no conoció pecado, Dios le hizo pecado por nosotros, para que viniésemos a ser justicia de Dios en él".
+§602 San Pedro fórmula la fe apostólica: "Habéis sido rescatados (…) con una sangre preciosa, como de cordero sin tacha y sin mancilla, Cristo, predestinado antes de la creación del mundo". Los pecados están sancionados con la muerte. Al enviar a su Hijo en la condición de esclavo, "a quien no conoció pecado, Dios le hizo pecado por nosotros, para que viniésemos a ser justicia de Dios en él".
 
 §603 Jesús no conoció la reprobación como si él mismo hubiese pecado. Pero, en el amor redentor que le unía al Padre, nos asumió desde el alejamiento por nuestro pecado hasta poder decir en nuestro nombre: "Dios mío, Dios mío, ¿por qué me has abandonado?" Dios "no perdonó ni a su propio Hijo" para que fuéramos "reconciliados con Dios por la muerte de su Hijo".
 

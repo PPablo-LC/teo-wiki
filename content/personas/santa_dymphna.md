@@ -38,6 +38,6 @@ El número 19 de *Evangelization & Culture* la presenta como recurso espiritual 
 
 ## Referencias
 
-- Angela M. Jendro, «Lives: Saint Dymphna's Aid for AI Anxieties» (EAC-19, 05_lives.md)
+- Ángela M. Jendro, «Lives: Saint Dymphna's Aid for AI Anxieties» (EAC-19, 05_lives.md)
 - Feridun Kaya et al., *The Roles of Personality Traits, AI Anxiety, and Demographic Factors in Attitudes toward Artificial Intelligence* (2022)
 - Henck P. J. G. van Bilsen, *Lessons to be learned from the oldest community psychiatric service in the world: Geel in Belgium* (BJPsych Bulletin, 2016)

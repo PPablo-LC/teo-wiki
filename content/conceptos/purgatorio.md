@@ -25,6 +25,10 @@ La Iglesia llama purgatorio a esta purificación final. Su existencia ha sido fo
 
 Aquellos que mueren en la gracia y amistad de Dios, pero imperfectamente purificados, aunque seguros de su salvación eterna, sufren después de la muerte una purificación para obtener la santidad necesaria para entrar en la gloria de Dios (CEC §1030). La Iglesia llama purgatorio a esta purificación final de los elegidos. La tradición de la Iglesia, haciendo referencia a ciertos textos de la Escritura, habla de un fuego purificador (CEC §1031). La Iglesia encomienda los difuntos a la misericordia de Dios y ofrece sufragios en su favor, en particular el santo sacrificio eucarístico (CEC §1055).
 
+### Según la Summa Theologiae (SmTh)
+
+El purgatorio es uno de los cinco estados de las almas después de la muerte: el estado donde las almas son detenidas de recibir su recompensa final por un defecto de la persona (pecados personales que necesitan purificación) [SmTh, Suppl. q.69 a.7 co-ad]. El alma separada puede padecer el fuego corpóreo como instrumento de la justicia divina; el fuego detiene al alma y esta lo aprehende como dañino [SmTh, Suppl. q.70 a.3]. Los sufragios (oraciones, limosnas, sacrificio del altar) aprovechan sin duda a quienes están en el purgatorio, porque la pena del purgatorio está destinada a suplir la satisfacción no completada en vida, y las obras de uno pueden valer para la satisfacción de otro [SmTh, Suppl. q.71 a.6].
+
 ### Según Royo Marín (TPCr)
 
 Las almas del purgatorio están confirmadas en gracia y unidas a Dios de manera definitiva. La Iglesia ofrece sufragios por ellas, especialmente el santo sacrificio de la Misa. Se puede hacer oblación del valor satisfactorio e impetratorio de las propias obras en favor de las almas del purgatorio. Santa Catalina de Génova escribió un precioso Tratado del purgatorio. La purificación en el purgatorio es análoga a las purificaciones pasivas en la tierra, pero después de la muerte.
@@ -44,10 +48,6 @@ El **II Concilio de Lyon** (1274, D-464) definió que las almas de los que muere
 **León X** (1520), Bula *Exsurge Domine* — Condena de los errores de Lutero sobre el purgatorio: Lutero negó que el purgatorio pueda probarse por la Sagrada Escritura que esté en el canon (D-777 — condenado). Afirmó que las almas en el purgatorio no están seguras de su salvación, por lo menos todas, y que no está probado que se hallen fuera del estado de merecer (D-778 — condenado). Sostuvo que las almas del purgatorio pecan sin intermisión mientras buscan el descanso (D-779 — condenado). Afirmó que las almas libradas del purgatorio por los sufragios de los vivientes son menos bienaventuradas que si hubiesen satisfecho por sí mismas (D-780 — condenado). Estas proposiciones fueron reprobadas por contradecir la doctrina católica sobre la certeza de la salvación de las almas del purgatorio, su estado de gracia y la eficacia de los sufragios.
 
 **Concilio de Trento** (Sesión XXV, D-983) enseñó que existe el purgatorio y que las almas allí detenidas son ayudadas por los sufragios de los fieles y particularmente por el sacrificio del altar. Mandó que la sana doctrina sobre el purgatorio sea enseñada y predicada, excluyendo de las predicaciones populares las cuestiones demasiado difíciles y sutiles.
-
-### Según la Summa Theologiae (SmTh)
-
-El purgatorio es uno de los cinco estados de las almas después de la muerte: el estado donde las almas son detenidas de recibir su recompensa final por un defecto de la persona (pecados personales que necesitan purificación) [SmTh, Suppl. q.69 a.7 co-ad]. El alma separada puede padecer el fuego corpóreo como instrumento de la justicia divina; el fuego detiene al alma y esta lo aprehende como dañino [SmTh, Suppl. q.70 a.3]. Los sufragios (oraciones, limosnas, sacrificio del altar) aprovechan sin duda a quienes están en el purgatorio, porque la pena del purgatorio está destinada a suplir la satisfacción no completada en vida, y las obras de uno pueden valer para la satisfacción de otro [SmTh, Suppl. q.71 a.6].
 
 ### Evangelization & Culture 11 (EAC-11)
 
@@ -86,4 +86,4 @@ Esta imagen — que desarrolla la audiencia de Benedicto XVI citada en EAC-11 (�
 - Concilio de Trento
 - TPCr, passim (especialmente sobre el sufragio por las almas del purgatorio)
 - [PS §98]
-- Healy Jr., Nicholas J. / Ghezzi, Bert. «The Patron Saint of Holy Souls», en *Evangelization & Culture* 11 (Spring 2022).
+- Healy Jr., Nicholas J. / Ghezzi, Bert. «The Patrón Saint of Holy Souls», en *Evangelization & Culture* 11 (Spring 2022).

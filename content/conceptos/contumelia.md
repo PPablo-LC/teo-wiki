@@ -21,6 +21,9 @@ La contumelia es pecado contra la justicia conmutativa, pues roba al prójimo el
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §2479: «El respeto de la reputación y el honor de las personas prohíbe toda actitud y toda palabra de maledicencia o de calumnia». La contumelia (injuria) es una ofensa directa contra el honor.
 ### Según la Summa Theologiae (SmTh)
 
 **La contumelia (Q72):** Santo Tomás define la contumelia como una ofensa directa al honor del prójimo mediante palabras, hechos o gestos realizados en su presencia, por desprecio hacia él (q.72 a.1).
@@ -36,9 +39,6 @@ Circunstancias que agravan la contumelia (q.72 a.3):
 
 La contumelia no admite escusa por la provocación recibida: quien es provocado no debe responder con desprecio o injuria, sino que puede usar la corrección fraterna u otros medios lícitos de defensa (a.4).
 
-### Según el Catecismo (CEC)
-
-CEC §2479: «El respeto de la reputación y el honor de las personas prohíbe toda actitud y toda palabra de maledicencia o de calumnia». La contumelia (injuria) es una ofensa directa contra el honor.
 
 ## Distinciones importantes
 

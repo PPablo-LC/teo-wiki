@@ -38,7 +38,7 @@ Los análisis de Mt 5, 27-28 han puesto en claro la **dimensión de la interiori
 
 ### La pluralidad de respuestas históricas y su aprendizaje
 
-Se da siempre una multiforme historia de respuestas, además de las elaboradas por moralistas y científicos: la de cada hombre concreto, **coautor de la moral real y de su historia**, de quien depende el nivel del ethos, su progreso o decadencia. El hombre «histórico» siempre valora a su modo el propio «corazón» y el propio «cuerpo», pasando del polo del pesimismo al del optimismo, **de la severidad puritana al permisivismo contemporáneo**: hay que darse cuenta de ello para que el ethos del sermon tenga siempre debida transparencia en relación a las acciones del hombre.
+Se da siempre una multiforme historia de respuestas, además de las elaboradas por moralistas y científicos: la de cada hombre concreto, **coautor de la moral real y de su historia**, de quien depende el nivel del ethos, su progreso o decadencia. El hombre «histórico» siempre valora a su modo el propio «corazón» y el propio «cuerpo», pasando del polo del pesimismo al del optimismo, **de la severidad puritana al permisivismo contemporáneo**: hay que darse cuenta de ello para que el ethos del sermón tenga siempre debida transparencia en relación a las acciones del hombre.
 
 ### El eco maniqueo: quitar la sencillez y la profundidad
 

@@ -63,5 +63,5 @@ tags: ["resumen", "libertad_de_educación", "educación", "tradición", "autorid
 ## La escuela y la libertad del educador
 
 - La **escuela** es «il grande strumento collaboratore» de la familia y de la verificación; Juan Pablo II (UNESCO): el derecho de las familias a escuelas conformes a su visión del mundo y de los padres creyentes a no ver a sus hijos sometidos a programas ateos; el docente no puede «mettere tra parentesi» su fe.
-- «una scuola cattolica è un ambito di verifica del valore della proposta della tradizione cristiana»; «la verità è ciò che corrisponde alle esigenze originali» del hombre.
+- «una scuola cattolica è un ámbito di verifica del valore della proposta della tradizione cristiana»; «la verità è ciò che corrisponde alle esigenze originali» del hombre.
 - Último factor: la **libertà** del educador, que «è impegno con l'essere e per questo diventa proposta di essere»; el dolor de educar sin coaccionar «è la partecipazione più grande al dolore di Dio verso di noi, perché Dio è morto per proporsi a noi»: «Il rapporto tra Dio e l'uomo è un immenso drammatico rischio educativo».

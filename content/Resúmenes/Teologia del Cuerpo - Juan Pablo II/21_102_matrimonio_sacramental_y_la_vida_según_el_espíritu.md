@@ -4,7 +4,7 @@ title: "102. Matrimonio sacramental y la vida según el Espíritu"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 21
 timestamp: 2026-08-01
-description: "Catequesis 102: el matrimonio sacramental como gracia y ethos, la vida «según el Espíritu» (Rom 8, Gál 5), la procreación y la esperanza escatológica de la redención del cuerpo — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 102: el matrimonio sacramental como gracia y ethos, la vida «según el Espíritu» (Rom 8, Gál 5), la procreación y la esperanza escatológica de la redención del cuerpo — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

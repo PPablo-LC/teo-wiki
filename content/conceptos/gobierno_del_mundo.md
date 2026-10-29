@@ -27,6 +27,12 @@ El gobierno del mundo incluye también la conservación de las criaturas en el s
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Dios guarda y gobierna por su providencia todo lo que creó (§302-314). «Dios es quien obra en vosotros el querer y el obrar» (Flp 2,13, §308). Del mayor mal moral —la muerte del Hijo de Dios— Dios sacó el mayor bien: la glorificación de Cristo y nuestra Redención (§312). Dios se sirve del concurso de las criaturas, a las que da la dignidad de actuar por sí mismas (§306-308).
+
+El gobierno divino se ejercita de modo especial en la historia de la salvación, donde Dios conduce los acontecimientos humanos hacia el cumplimiento de su plan. La oración es un medio de participación en el gobierno divino, pues Dios quiere que las necesidades de los hombres le sean presentadas para que Él las responda según su providencia.
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el gobierno del mundo en SmTh Iª q.103-105, distinguiendo el gobierno en general de sus efectos particulares.
@@ -46,12 +52,6 @@ Santo Tomás trata el gobierno del mundo en SmTh Iª q.103-105, distinguiendo el
 **q.103 a.7 — Nada sucede fuera del orden divino.** Es posible que algo suceda fuera del orden de una causa particular, pero no fuera del orden de la causa universal primera. Lo que parece salirse del orden de la providencia por una causa particular cae dentro de este orden por otra causa particular.
 
 **q.22 a.2 — La providencia se extiende a todas las cosas singulares.** Dios conoce y ordena cada cosa particular, no solo las especies universales. Nada escapa a su providencia, aunque las cosas contingentes se realicen contingentemente.
-
-### Según el Catecismo (CEC)
-
-Dios guarda y gobierna por su providencia todo lo que creó (§302-314). «Dios es quien obra en vosotros el querer y el obrar» (Flp 2,13, §308). Del mayor mal moral —la muerte del Hijo de Dios— Dios sacó el mayor bien: la glorificación de Cristo y nuestra Redención (§312). Dios se sirve del concurso de las criaturas, a las que da la dignidad de actuar por sí mismas (§306-308).
-
-El gobierno divino se ejercita de modo especial en la historia de la salvación, donde Dios conduce los acontecimientos humanos hacia el cumplimiento de su plan. La oración es un medio de participación en el gobierno divino, pues Dios quiere que las necesidades de los hombres le sean presentadas para que Él las responda según su providencia.
 
 ### Según Royo Marín (TPCr)
 

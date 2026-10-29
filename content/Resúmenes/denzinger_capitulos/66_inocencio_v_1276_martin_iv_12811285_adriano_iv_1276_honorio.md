@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "INOCENCIO V 1276 MARTIN IV 1281-1285 ADRIANO IV 1276 HONORIO"
+title: "INOCENCIO V 1276 MARTÍN IV 1281-1285 ADRIANO IV 1276 HONORIO"
 fuente: denzinger_capitulos
 capítulo: 66
 timestamp: 2026-08-24
-description: "Resumen de 'INOCENCIO V 1276 MARTIN IV 1281-1285 ADRIANO IV 1276 HONORIO' — denzinger_capitulos"
+description: "Resumen de 'INOCENCIO V 1276 MARTÍN IV 1281-1285 ADRIANO IV 1276 HONORIO' — denzinger_capitulos"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# INOCENCIO V 1276 MARTIN IV 1281-1285 ADRIANO IV 1276 HONORIO
+# INOCENCIO V 1276 MARTÍN IV 1281-1285 ADRIANO IV 1276 HONORIO
 
 ## Conceptos básicos referenciados
 
@@ -25,7 +25,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### INOCENCIO V, 1276 MARTIN IV, 1281-1285 ADRIANO IV, 1276 HONORIO IV, 1285-1287 JUAN XXI, 1276-1277 NICOLAS IV, 1288-1292 NICOLAS III, 1277-1280 SAN CELESTINO, V 1294-(+1295) BONIFACIO VIII, 1294-1303
+### INOCENCIO V, 1276 MARTÍN IV, 1281-1285 ADRIANO IV, 1276 HONORIO IV, 1285-1287 JUAN XXI, 1276-1277 NICOLAS IV, 1288-1292 NICOLAS III, 1277-1280 SAN CELESTINO, V 1294-(+1295) BONIFACIO VIII, 1294-1303
 
 **De las indulgencias** [Bula del Jubileo *Antiquorum habet*, 22 de febrero de 1300]:
 
@@ -40,6 +40,6 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## INOCENCIO V, 1276 MARTIN IV, 1281-1285 ADRIANO IV, 1276 HONORIO IV, 1285-1287 JUAN XXI, 1276-1277 NICOLAS IV, 1288-1292 NICOLAS III, 1277-1280 SAN CELESTINO, V 1294-(+1295) BONIFACIO VIII, 1294-1303
+## INOCENCIO V, 1276 MARTÍN IV, 1281-1285 ADRIANO IV, 1276 HONORIO IV, 1285-1287 JUAN XXI, 1276-1277 NICOLAS IV, 1288-1292 NICOLAS III, 1277-1280 SAN CELESTINO, V 1294-(+1295) BONIFACIO VIII, 1294-1303
 
 Bula del Jubileo *Antiquorum habet* y Bula *Unam sanctam* de Bonifacio VIII: confirmación de las [[indulgencias]], unidad y catolicidad de la [[iglesia]], el [[primado_del_papa|primado de Pedro y sus sucesores]], la doctrina de las [[dos_espadas]] y la necesidad de salvación de someterse al Romano Pontífice (D-467 a D-469).

@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "1. Hacer un diagnóstico histórico del fenómeno del abuso sexual de menores cometidos por legionarios de Cristo, desde la fundación de la Congregación en 1941 hasta la actualidad."
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 8
 timestamp: 2026-09-05
 description: "Objetivos de la Comisión, definición de 'legionario que ha cometido abuso sexual' y metodología de trabajo del Informe 1941-2019."

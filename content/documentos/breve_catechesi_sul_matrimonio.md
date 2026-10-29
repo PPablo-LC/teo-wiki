@@ -1,7 +1,7 @@
 ---
 type: Documento
 title: "Breve catechesi sul matrimonio"
-description: "Catequesis breve de Antonio Maria Sicari OCD sobre el matrimonio cristiano: el amor como encuentro, el sacramento, el misterio del cuerpo, la moral conyugal y la ley de la gradualidad."
+description: "Catequesis breve de Antonio María Sicari OCD sobre el matrimonio cristiano: el amor como encuentro, el sacramento, el misterio del cuerpo, la moral conyugal y la ley de la gradualidad."
 tags:
   - sacramentos
   - teología_moral
@@ -19,7 +19,7 @@ timestamp: 2026-10-28
 ## Definición
 
 **Breve catechesi sul matrimonio** (código BCS) es una catequesis breve de
-**Antonio Maria Sicari** OCD, publicada por Jaca Book (Milán) en la colección
+**Antonio María Sicari** OCD, publicada por Jaca Book (Milán) en la colección
 «Già e non ancora» (primera edición, octubre de 1990; novena reimpresión,
 enero de 2003; ISBN 88-16-30191-0). Consta de un prefacio de **Luigi
 Giussani**, seis capítulos, un epílogo y una «Conversazione sul matrimonio»
@@ -68,10 +68,10 @@ sacramento del loro matrimonio» (cap. I, §1).
    §6 Altre ragioni per capire; §7 Il problema della «gradualità»; §8
    Procreazione senza unione?
 7. **Cap. VI — Un breve riepilogo**: §1 L'itinerario spirituale dei coniugi
-   (siete «verità»); §2 Il segno e l'invito della verginità (parabola di
-   Claudel); §3 Epilogo.
+   (siete «verità»); §2 Il segno e l'invito della verginità (parábola di
+   Claudel); §3 Epílogo.
 8. **Conversazione sul matrimonio** (Sicari–Giussani): appartenenza, stupore,
-   libertà, estética ed etica, castità prematrimoniale, la famiglia missionaria,
+   libertà, estética ed ética, castità prematrimoniale, la famiglia missionaria,
    il perdono.
 
 ### Tesis centrales
@@ -93,7 +93,7 @@ sacramento del loro matrimonio» (cap. I, §1).
   esperimentano un Amore quasi infinito, è segno che hanno bisogno di un
   Amore infinito». De aquí la tesis trinitaria: la reflexión sobre el amor
   conduce a la Santísima Trinidad, y la historia sagrada entera aparece como
-  «una immensa parabola sponsale» ([[trinidad]], [[redención]]).
+  «una immensa parábola sponsale» ([[trinidad]], [[redención]]).
 - **La Bibbia como historia de educación al amor.** El mandato «Amerai il
   Signore Dio tuo con tutto il tuo cuore» (Dt 6,5) es «il cuore di tutta la
   storia sacra»; la contradicción es que el amor, «essenzialmente libero,
@@ -107,7 +107,7 @@ sacramento del loro matrimonio» (cap. I, §1).
   el amor de Dios y se redefine el propio matrimonio.
 - **Cristo es el único Mediatore y el modelo de la conyugalidad.** «Amare
   come Cristo ha amato»: el cónyuge se convierte en «via a Dios»; en Cristo el
-  otro «merita la mia fedeltà, nonostante il suo peccato è degno di perdono,
+  otro «merita la mía fedeltà, nonostante il suo peccato è degno di perdono,
   nonostante la sua fragilità è degno di un legame indissolubile». El otro
   «non può mai essere 'consumato', né totalmente 'posseduto'» ([[don_de_sí]]).
 - **Los tres valores del sacramento brotan de una misma «liturgia» interior.**
@@ -126,15 +126,15 @@ sacramento del loro matrimonio» (cap. I, §1).
   sigue la «gerarchía nell'unità»: «non l'abolizione della gerarchia nei
   rapporti può salvare la famiglia terrena, ma la sua sostanza d'amore»
   ([[iglesia_doméstica]], [[familia]]).
-- **El cuerpo es «il simbolo reale» de la persona.** «L'uomo non *ha* corpo»
+- **El cuerpo es «il símbolo reale» de la persona.** «L'uomo non *ha* corpo»
   como se posee un objeto; el cuerpo es donde el «io» se revela, se expresa y
    se hace presente. La tortura y la pornografía son los dos casos más trágicos
   de la vicenda humana: el cuerpo «martirizzato» atestigua la inmortalidad
   del «io» ([[dignidad_del_cuerpo]], [[pornografía]]).
 - **La moralidad no es la aplicación mecánica de leyes.** «Parlare di moralità non
   significa voler applicare meccanicamente delle leggi astratte [...] ma
-  descrivere l'armonia che [...] deve intercorrere tra tutti gli aspetti [...]
-  di quel complesso fenomeno che chiamiamo amore». La moral conyugal se
+  descrivere l'armonía che [...] deve intercorrere tra tutti gli aspetti [...]
+  di quel complesso fenómeno che chiamiamo amore». La moral conyugal se
   resuelve en el «lenguaje del cuerpo» entendido como verdad del don
   ([[lenguaje_del_cuerpo]], [[teología_moral]]).
 - **La moralidad pre-conyugal.** «Ogni rapporto preconiugale dev'essere
@@ -172,7 +172,7 @@ sacramento del loro matrimonio» (cap. I, §1).
 - **La procreazione artificiale «non è donazione, è produzione».** «La
   struttura della fecondazione in vitro non è una struttura di *donazione*,
   ma di *produzione*»: non è la coppia che, amandosi, si apre alla vita, ma
-  «una equipe medico-biologica». Y de ahí brota la paradoja final: «non saranno
+  «una equipe medico-biológica». Y de ahí brota la paradoja final: «non saranno
   il padre e la madre a generare i loro figli, ma saranno i figli a generare il
   loro padre e la madre» ([[fecundación_artificial]], [[procreación]]).
 - **Siete «verità» del itinerario espiritual de los cónyuges** (cap. VI):
@@ -214,7 +214,7 @@ sacramento del loro matrimonio» (cap. I, §1).
 - «La procreazione è privata dal punto di vista morale della sua perfezione
   propria quando non è voluta come il frutto dell'atto coniugale» (CDF,
   *Il dono della vita*).
-- «Chi vive la verginità cristiana come stato di vita è come un indice
+- «Chi vive la verginità cristiana come stato di vita è come un índice
   puntato, nella comunità, per dire a tutti: ricordiamoci chi siamo!»
   (Giussani).
 - «Le vocazioni non sono tre, anzi la vocazione è unica, quella cristiana con

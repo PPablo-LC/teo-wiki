@@ -13,7 +13,7 @@ description: "Matthew R. Petrusek, PhD, director senior del Word on Fire Institu
 
 ## Contexto histórico
 
-Matthew R. Petrusek, PhD, es el director senior del Word on Fire Institute y su profesor de ética católica. Ha escrito y editado varios libros, entre ellos *Evangelization and Ideology: How to Understand and Respond to the Political Culture*, *Jordan Peterson, God, and Christianity: The Search for a Meaningful Life*, *Ethics and Advocacy: Bridges and Boundaries* y *Value and Vulnerability: An Interfaith Dialogue on Human Dignity*. Dicta conferencias ampliamente —en inglés y en español— sobre filosofía moral/teología, política, cuestiones sociales y la tradición intelectual católica.
+Matthew R. Petrusek, PhD, es el director senior del Word on Fire Institute y su profesor de ética católica. Ha escrito y editado varios libros, entre ellos *Evangelization and Ideology: How to Understand and Respond to the Political Culture*, *Jordán Peterson, God, and Christianity: The Search for a Meaningful Life*, *Ethics and Advocacy: Bridges and Boundaries* y *Value and Vulnerability: An Interfaith Dialogue on Human Dignity*. Dicta conferencias ampliamente —en inglés y en español— sobre filosofía moral/teología, política, cuestiones sociales y la tradición intelectual católica.
 
 ## Relevancia teológica
 
@@ -47,5 +47,5 @@ En la sección *Ethics* («The Failure to Evangelize», 11_ethics.md), Petrusek 
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Matthew R. Petrusek, 03_a_word_from_the_institute__matthew_r_petrusek.md y 11_ethics.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Matthew R. Petrusek, 03_a_word_from_the_institute__matthew_r_petrusek.md y 11_ethics.md).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (Matthew R. Petrusek, 03_word_from_institute.md).

@@ -40,4 +40,4 @@ Honrar a la reina madre no es adorar al rey. La distinción entre veneración y 
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `07_chapter_4`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `07_chapter_4`

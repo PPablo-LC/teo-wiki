@@ -69,5 +69,5 @@ Se relaciona con [[educación]], [[estudiosidad]], [[trabajo]], [[inteligencia]]
 - Edmondo De Amicis, *Corazón* (COR), caps. «El compañero Coreta», «La voluntad», «El preso», «Los amigos artesanos».
 - Luigi Giussani, *Realtà e giovinezza. La sfida* (REG), cap. 13.
 - Carlo Collodi, *Le avventure di Pinocchio*, caps. 25-26.
-- Antonio Maria Sicari, *Retratos de santos*, «Pier Giorgio Frassati» (L139-140).
+- Antonio María Sicari, *Retratos de santos*, «Pier Giorgio Frassati» (L139-140).
 - *Constituciones de los Legionarios de Cristo* (2020), cap. 9.

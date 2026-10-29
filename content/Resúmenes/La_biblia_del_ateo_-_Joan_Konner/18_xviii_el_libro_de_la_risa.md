@@ -38,7 +38,7 @@ Joseph Heller: cómo se puede reverenciar a un Ser Supremo que ha incluido en el
 
 Robert G. Ingersoll: ningún hombre con sentido del humor fundó nunca una religión. Ambrose Bierce: cristiano es aquel que cree que el Nuevo Testamento es un libro inspirado por la divinidad que casa admirablemente con las necesidades espirituales de su vecino.
 
-### El perdon de Dios (Frost)
+### El perdón de Dios (Frost)
 
 Robert Frost: perdóname, oh Señor, mis bromas sobre ti. Y yo te perdonaré el bromazo que hiciste conmigo.
 

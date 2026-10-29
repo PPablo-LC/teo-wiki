@@ -4,7 +4,7 @@ title: "INFANCIA Y VIDA OCULTA DE JESÚS"
 fuente: Vida de Jesus - San Juan Pablo II
 capítulo: 8
 timestamp: 2026-08-24
-description: "Resumen de 'INFANCIA Y VIDA OCULTA DE JESÚS' — Vida de Jesus - San Juan Pablo II"
+description: "Resumen de 'INFANCIA Y VIDA OCULTA DE JESÚS' — Vida de Jesús - San Juan Pablo II"
 tags: ["resumen", "vida de jesus - san juan pablo ii"]
 ---
 

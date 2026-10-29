@@ -4,7 +4,7 @@ title: "97. El matrimonio, sacramento primordial"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 15
 timestamp: 2026-08-01
-description: "Catequesis 97: el matrimonio como parte central del «sacramento de la creación» en el estado de inocencia originaria, a la luz de la elección eterna en Cristo (Ef 1) — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 97: el matrimonio como parte central del «sacramento de la creación» en el estado de inocencia originaria, a la luz de la elección eterna en Cristo (Ef 1) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

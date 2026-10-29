@@ -36,4 +36,4 @@ La escena funda la maternidad espiritual: desde la cruz, María es madre de todo
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `14_chapter_8`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `14_chapter_8`

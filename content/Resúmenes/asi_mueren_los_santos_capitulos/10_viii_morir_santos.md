@@ -131,7 +131,7 @@ unos en lugar de los otros, ¡quién sabe!». Cierra con Rm 14, 7-9:
 | 17 | H2 | Beata Elisabetta Canori Mora (1774-1825) |
 | 41 | H2 | Venerable Margherita Occhiena, madre de san Juan Bosco (1788-1856) |
 | 63 | H2 | Beato Federico Ozanam, docente universitario (1813-1853) |
-| 95 | H2 | Santa Celia Guérin (1831-1877) y San Luis Martin (1823-1894) |
+| 95 | H2 | Santa Celia Guérin (1831-1877) y San Luis Martín (1823-1894) |
 | 127 | H2 | Beato Giuseppe Tovini, abogado (1841-1897) |
 | 143 | H2 | San Giuseppe Moscati, médico (1880-1927) |
 | 161 | H2 | Sierva de Dios Madeleine Delbrêl, asistente social (1904-1964) |

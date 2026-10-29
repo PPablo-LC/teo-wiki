@@ -41,7 +41,7 @@ Clemente de Alejandría aporta testimonio valioso sobre la autoría de los Evang
 > «De todos los que habían estado con el Señor, solo Mateo y Juan nos dejaron sus recuerdos.»
 > — Clemente de Alejandría, *ap.* Eusebio, *Hist. Ecl.* 6.14.6-7
 
-Clemente añade que Juan escribió su Evangelio después de que los tres primeros estaban distribuidos, para complementarlos con aspectos de la enseñanza de Jesús que no habían sido tratados. Este testimonio es citado en *The Case for Jesus* (CfJ), Sesión 2, líneas [00:17:16]–[00:19:56].
+Clemente añade que Juan escribió su Evangelio después de que los tres primeros estaban distribuidos, para complementarlos con aspectos de la enseñanza de Jesús que no habían sido tratados. Este testimonio es citado en *The Case for Jesús* (CfJ), Sesión 2, líneas [00:17:16]–[00:19:56].
 
 ## Relaciones
 

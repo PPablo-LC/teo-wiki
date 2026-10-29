@@ -107,7 +107,7 @@ La intuición fue de Juan XXIII («abrir las ventanas») con finalidad pastoral 
 
 El ecumenismo y la inculturación del evangelio, los movimientos eclesiales y nuevas comunidades (Focolares, Camino neocatecumenal, Regnum Christi, Comunión y Liberación, etc.), la renovación del gobierno central de la iglesia, la internacionalización de la curia, la desaparición del Santo Oficio y nacimiento de la Congregación para la Doctrina de la Fe, la colegialidad por conferencias episcopales y sínodo, y los laicos en puestos de responsabilidad.
 
-## CONCLUSION
+## CONCLUSIÓN
 
 El cardenal Ratzinger recordó que el Vaticano II está en rigurosa continuidad con Trento y el Vaticano I; es imposible aceptar el uno rechazando los otros. Juan Pablo II, criticado por su firmeza en la moral, es en realidad «testigo fiel» de Jesucristo, pues enseña la moral evangélica que no cambia con la historia. La historia hará justicia a este papa.
 

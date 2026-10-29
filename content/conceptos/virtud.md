@@ -46,6 +46,9 @@ Quienes tienen responsabilidades políticas deben ejercer el poder mediante el r
 
 [SmTh Iª-IIae q.55-67]
 
+### Según Royo Marín (TPCr)
+El Capítulo 1 de la Segunda Parte estudia el organismo sobrenatural: las virtudes infusas (teologales y morales) y los dones del Espíritu Santo. Las virtudes morales infusas son hábitos que disponen las potencias del alma para seguir el dictamen de la razón iluminada por la fe con relación a los medios conducentes al fin sobrenatural. La caridad es la forma de todas las virtudes: sin ella, las demás virtudes no pueden ordenarse al fin último sobrenatural.
+
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **Inocencio XII** (1699, D‑1344–D‑1347) — Breve *Cum alias* contra Fenelón:
@@ -55,9 +58,6 @@ Quienes tienen responsabilidades políticas deben ejercer el poder mediante el r
 **D‑1345**: «En este sentido puede decirse que el alma pasiva y desinteresada ya no quiere ni el mismo amor, en cuanto es su perfección y felicidad, sino solamente en cuanto es lo que Dios quiere de nosotros.» Condenada. La condena afirma que querer la propia perfección y felicidad como fruto del amor no es imperfección.
 
 **D‑1347**: «Los santos místicos excluyeron del estado de las almas transformadas los ejercicios de las virtudes.» Condenada. La condena afirma que las almas transformadas siguen ejercitando las virtudes de modo consciente y deliberado.
-
-### Según Royo Marín (TPCr)
-El Capítulo 1 de la Segunda Parte estudia el organismo sobrenatural: las virtudes infusas (teologales y morales) y los dones del Espíritu Santo. Las virtudes morales infusas son hábitos que disponen las potencias del alma para seguir el dictamen de la razón iluminada por la fe con relación a los medios conducentes al fin sobrenatural. La caridad es la forma de todas las virtudes: sin ella, las demás virtudes no pueden ordenarse al fin último sobrenatural.
 
 ### Según Mons. Tihámer Tóth (JvC)
 

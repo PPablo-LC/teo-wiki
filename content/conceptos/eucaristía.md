@@ -112,12 +112,6 @@ Efectos del sacrificio de la misa:
 
 ## Perspectivas por fuente
 
-### Según la Dives in Misericordia (DM)
-
-La Eucaristía es uno de los sacramentos mediante los cuales la Iglesia dispensa la misericordia del Salvador. En ella «nos acerca siempre a aquel amor que es más fuerte que la muerte: en efecto, "cada vez que comemos de este pan o bebemos de este cáliz", no solo anunciamos la muerte del Redentor, sino que además proclamamos su resurrección, mientras esperamos su venida en la gloria» [DM §13].
-
-El rito eucarístico «atestigua el amor inagotable en virtud del cual desea siempre Él unirse e identificarse con nosotros, saliendo al encuentro de todos los corazones humanos» [DM §13]. Junto con el sacramento de la penitencia, la Eucaristía es fuente de la misericordia divina para la Iglesia [DM §13].
-
 ### Según el Catecismo (CEC)
 
 La Sagrada Eucaristía culmina la iniciación cristiana (§1322). Es «fuente y culmen de toda la vida cristiana» (§1324). «Los demás sacramentos, como también todos los ministerios eclesiales y las obras de apostolado, están unidos a la Eucaristía y a ella se ordenan» (§1324).
@@ -139,14 +133,37 @@ Como sacramento de sacrificio, la eucaristía hace presente la muerte redentora 
 
 *Sacrosanctum Concilium* dedica el capítulo II a la Eucaristía (SC 47-58). Cristo instituyó el Sacrificio Eucarístico en la Última Cena para perpetuar por los siglos el Sacrificio de la Cruz y confiar a la Iglesia el Memorial de su Muerte y Resurrección (SC 47). Se recomienda que los fieles participen consciente, piadosa y activamente, no como extraños y mudos espectadores (SC 48). El Concilio ordena la revisión del Ordinario de la Misa, la ampliación de las lecturas bíblicas (SC 51), la homilía como parte de la liturgia (SC 52), la restauración de la oración de los fieles (SC 53), y el mayor uso de la lengua vernácula (SC 54). La concelebración se amplía como manifestación de la unidad del sacerdocio (SC 57). Las dos partes de la Misa —liturgia de la palabra y liturgia eucarística— constituyen un solo acto de culto (SC 56).
 
-### Según el Concilio Vaticano II (ConcVatII)
-
 Lumen Gentium presenta la [[eucaristía]] como el sacrificio por el cual «la obra de nuestra redención se efectúa cuantas veces se celebra en el altar el sacrificio de la cruz» [ConcVatII, LG §3]. La unidad de los fieles, que constituyen un solo cuerpo en Cristo, «está representada y se realiza por el sacramento del pan eucarístico» [ConcVatII, LG §3].
 
 Participando realmente del Cuerpo del Señor en la fracción del pan eucarístico, «somos elevados a una comunión con El y entre nosotros» [ConcVatII, LG §7]. La Eucaristía es «fuente y cumbre de toda la vida cristiana»; ofrecen a Dios la Víctima divina y se ofrecen a sí mismos juntamente con ella [ConcVatII, LG §11].
 
 El Obispo, revestido de la plenitud del sacramento del orden, es el administrador de la gracia del supremo sacerdocio, sobre todo en la [[eucaristía]], que él mismo celebra o procura que sea celebrada, y mediante la cual la Iglesia vive y crece continuamente [ConcVatII, LG §26]. Los presbíteros ejercen su oficio sagrado sobre todo en el culto eucarístico, obrando en nombre de Cristo [ConcVatII, LG §28].
+### Según la Summa Theologiae (SmTh)
 
+#### IIIª q.73 — El sacramento de la eucaristía
+
+**a.1 — Es sacramento:** La vida espiritual guarda paralelo con la corporal, y así como para esta se requiere generación, crecimiento y alimento, para aquella se requirió el bautismo (generación), la confirmación (crecimiento) y la eucaristía, que es el alimento que conserva la vida. (SmTh IIIa q.73 a.1)
+
+**a.2 — Es un solo sacramento, no varios:** La unidad se dice no solo de lo indivisible, sino también de lo perfecto y acabado, que posee íntegramente cuanto se requiere para su fin. Este sacramento contiene en su integridad todo lo necesario —el alimento espiritual y el sacrificio—, y por eso es uno. (SmTh IIIa q.73 a.2)
+
+**a.3 — Es indispensable para la salvación, pero como consumación:** Hay que distinguir el signo sacramental de la cosa significada. La cosa significada —la unidad del cuerpo místico, fuera de la cual no hay salvación— es indispensable, y puede obtenerse por el deseo antes de recibir el sacramento. La diferencia con el bautismo es doble: aquel incoa la vida espiritual y es puerta de los sacramentos; la eucaristía es su coronación y fin de todos ellos. Y como por el bautismo el hombre se ordena a la eucaristía, los niños bautizados la desean con la intención de la Iglesia y reciben su fruto. (SmTh IIIa q.73 a.3)
+
+**a.4 — Es conveniente darle varios nombres:** Por su triple significado: respecto del pasado es **sacrificio**, conmemoración de la pasión; respecto del presente es **comunión** o **sinaxis**, porque por ella comulgamos con Cristo y entre nosotros; respecto del futuro es **viático** y **eucaristía** —buena gracia, porque la gracia es la vida eterna y porque contiene al lleno de gracia—. Se llama también **metalepsis**, asunción, porque por ella asumimos la divinidad del Hijo. (SmTh IIIa q.73 a.4)
+
+**a.5 — Fue oportuna su institución en la cena:** Por tres razones: por su contenido, pues al ausentarse Cristo con su presencia natural se quedó con presencia sacramental, como se venera la imagen del emperador ausente; por la fe en la pasión, que siempre fue necesaria para la salvación, de modo que el cordero pascual quedó reemplazado por este sacramento conmemorativo; y porque las últimas palabras se graban más en la memoria, y «entre todos los sacrificios ninguno puede haber más importante que el del cuerpo y la sangre de Cristo». (SmTh IIIa q.73 a.5)
+
+**a.6 — El cordero pascual fue su principal figura:** Distinguiendo el *sacramentum tantum* (pan y vino), la *res et sacramentum* (el verdadero cuerpo de Cristo) y la *res tantum* (el efecto), la figura principal en cuanto al primero fue la oblación de Melquisedec, que ofreció pan y vino; en cuanto al segundo, los sacrificios del Antiguo Testamento; y el cordero pascual lo prefiguró en los tres aspectos: se comía con pan ácimo, se inmolaba el día catorce y su sangre libró de la servidumbre y del ángel exterminador. (SmTh IIIa q.73 a.6)
+
+
+#### IIIª q.81 — El uso que Cristo hizo de este sacramento
+
+**a.1 — Cristo asumió su cuerpo y su sangre:** No es plausible que los diera a los discípulos sin ingerirlos, porque Cristo fue el primero en cumplir lo que instituyó para que otros observasen, como quiso ser bautizado antes de imponer el bautismo. (SmTh IIIa q.81 a.1)
+
+**a.2 — Dio su cuerpo a Judas:** San Hilario lo negó, pero Cristo debía dar ejemplo de justicia: no se ajustaba a su magisterio separar de la comunión a un pecador oculto sin acusación ni pruebas, para no dar a los prelados ejemplo de exclusión temeraria. (SmTh IIIa q.81 a.2)
+
+**a.3 — No lo dio en estado impasible:** Era el mismo cuerpo que los discípulos veían en su estado natural, y no era impasible en él, pues estaba ya dispuesto para la pasión. Lo que se daba era impasible **bajo las especies sacramentales**, del mismo modo que se daba invisible siendo en sí visible. (SmTh IIIa q.81 a.3)
+
+**a.4 — Si se hubiera reservado el sacramento durante la muerte de Cristo:** El cuerpo es idéntico en la sustancia, pero no en el modo: en su naturaleza estaba en contacto con los cuerpos por sus propias dimensiones, lo que no ocurre en el sacramento. Por eso no habría estado muerto en él. (SmTh IIIa q.81 a.4)
 ### Según Royo Marín (TPCr)
 
 La eucaristía es «el centro y fin de todos los sacramentos». Es la cima de toda la vida cristiana.
@@ -156,6 +173,12 @@ La eucaristía es «el centro y fin de todos los sacramentos». Es la cima de to
 La eucaristía realiza la unión transformante:
 
 «Como el alimento corporal se asimila y convierte en la naturaleza del que come, así la eucaristía transforma espiritualmente al hombre en Cristo. Es el sacramento de la unión más íntima con Dios por medio de la caridad.»
+
+### Según la Dives in Misericordia (DM)
+
+La Eucaristía es uno de los sacramentos mediante los cuales la Iglesia dispensa la misericordia del Salvador. En ella «nos acerca siempre a aquel amor que es más fuerte que la muerte: en efecto, "cada vez que comemos de este pan o bebemos de este cáliz", no solo anunciamos la muerte del Redentor, sino que además proclamamos su resurrección, mientras esperamos su venida en la gloria» [DM §13].
+
+El rito eucarístico «atestigua el amor inagotable en virtud del cual desea siempre Él unirse e identificarse con nosotros, saliendo al encuentro de todos los corazones humanos» [DM §13]. Junto con el sacramento de la penitencia, la Eucaristía es fuente de la misericordia divina para la Iglesia [DM §13].
 
 ### Según la Vida de Jesús (VJ)
 
@@ -212,32 +235,6 @@ Ofrece indicaciones detalladas para las diversas partes de la misa: ritos inicia
 
 León XIV predicó la Misa de Corpus Christi en la Plaza de Cibeles (Madrid) y la Misa en la Sagrada Familia (Barcelona), presentando la Eucaristía como misterio no solo contemplado sino vivido: «La Eucaristía no es un rito para ser contemplado, sino un misterio para ser vivido» [L_XIV-ViajeEspaña-2026, 04 — Misa de Corpus Christi]. Vinculó la procesión del Corpus a la misión cristiana: «No se trata únicamente de sacar la custodia, sino de dejarnos sacar nosotros mismos del egoísmo, de la indiferencia» [L_XIV-ViajeEspaña-2026, 04 — Misa de Corpus Christi]. La adoración eucarística es «escuela de caridad»: quien contempla a Cristo eucarístico «sale transformado para amar» [L_XIV-ViajeEspaña-2026, 04 — Misa de Corpus Christi]. En Barcelona definió cada Eucaristía como «una Pascua: paso de la muerte a la vida, del egoísmo al amor, de la esclavitud a la libertad» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. En Tenerife vinculó la Eucaristía con el dinamismo misionero [L_XIV-ViajeEspaña-2026, 23 — Misa en Tenerife]. Consistentemente presentó la Eucaristía como el centro de la vida cristiana e inseparable de la caridad.
 
-### Según la Summa Theologiae (SmTh)
-
-#### IIIª q.73 — El sacramento de la eucaristía
-
-**a.1 — Es sacramento:** La vida espiritual guarda paralelo con la corporal, y así como para esta se requiere generación, crecimiento y alimento, para aquella se requirió el bautismo (generación), la confirmación (crecimiento) y la eucaristía, que es el alimento que conserva la vida. (SmTh IIIa q.73 a.1)
-
-**a.2 — Es un solo sacramento, no varios:** La unidad se dice no solo de lo indivisible, sino también de lo perfecto y acabado, que posee íntegramente cuanto se requiere para su fin. Este sacramento contiene en su integridad todo lo necesario —el alimento espiritual y el sacrificio—, y por eso es uno. (SmTh IIIa q.73 a.2)
-
-**a.3 — Es indispensable para la salvación, pero como consumación:** Hay que distinguir el signo sacramental de la cosa significada. La cosa significada —la unidad del cuerpo místico, fuera de la cual no hay salvación— es indispensable, y puede obtenerse por el deseo antes de recibir el sacramento. La diferencia con el bautismo es doble: aquel incoa la vida espiritual y es puerta de los sacramentos; la eucaristía es su coronación y fin de todos ellos. Y como por el bautismo el hombre se ordena a la eucaristía, los niños bautizados la desean con la intención de la Iglesia y reciben su fruto. (SmTh IIIa q.73 a.3)
-
-**a.4 — Es conveniente darle varios nombres:** Por su triple significado: respecto del pasado es **sacrificio**, conmemoración de la pasión; respecto del presente es **comunión** o **sinaxis**, porque por ella comulgamos con Cristo y entre nosotros; respecto del futuro es **viático** y **eucaristía** —buena gracia, porque la gracia es la vida eterna y porque contiene al lleno de gracia—. Se llama también **metalepsis**, asunción, porque por ella asumimos la divinidad del Hijo. (SmTh IIIa q.73 a.4)
-
-**a.5 — Fue oportuna su institución en la cena:** Por tres razones: por su contenido, pues al ausentarse Cristo con su presencia natural se quedó con presencia sacramental, como se venera la imagen del emperador ausente; por la fe en la pasión, que siempre fue necesaria para la salvación, de modo que el cordero pascual quedó reemplazado por este sacramento conmemorativo; y porque las últimas palabras se graban más en la memoria, y «entre todos los sacrificios ninguno puede haber más importante que el del cuerpo y la sangre de Cristo». (SmTh IIIa q.73 a.5)
-
-**a.6 — El cordero pascual fue su principal figura:** Distinguiendo el *sacramentum tantum* (pan y vino), la *res et sacramentum* (el verdadero cuerpo de Cristo) y la *res tantum* (el efecto), la figura principal en cuanto al primero fue la oblación de Melquisedec, que ofreció pan y vino; en cuanto al segundo, los sacrificios del Antiguo Testamento; y el cordero pascual lo prefiguró en los tres aspectos: se comía con pan ácimo, se inmolaba el día catorce y su sangre libró de la servidumbre y del ángel exterminador. (SmTh IIIa q.73 a.6)
-
-
-#### IIIª q.81 — El uso que Cristo hizo de este sacramento
-
-**a.1 — Cristo asumió su cuerpo y su sangre:** No es plausible que los diera a los discípulos sin ingerirlos, porque Cristo fue el primero en cumplir lo que instituyó para que otros observasen, como quiso ser bautizado antes de imponer el bautismo. (SmTh IIIa q.81 a.1)
-
-**a.2 — Dio su cuerpo a Judas:** San Hilario lo negó, pero Cristo debía dar ejemplo de justicia: no se ajustaba a su magisterio separar de la comunión a un pecador oculto sin acusación ni pruebas, para no dar a los prelados ejemplo de exclusión temeraria. (SmTh IIIa q.81 a.2)
-
-**a.3 — No lo dio en estado impasible:** Era el mismo cuerpo que los discípulos veían en su estado natural, y no era impasible en él, pues estaba ya dispuesto para la pasión. Lo que se daba era impasible **bajo las especies sacramentales**, del mismo modo que se daba invisible siendo en sí visible. (SmTh IIIa q.81 a.3)
-
-**a.4 — Si se hubiera reservado el sacramento durante la muerte de Cristo:** El cuerpo es idéntico en la sustancia, pero no en el modo: en su naturaleza estaba en contacto con los cuerpos por sus propias dimensiones, lo que no ocurre en el sacramento. Por eso no habría estado muerto en él. (SmTh IIIa q.81 a.4)
 ### Según Don y Misterio (DyM)
 
 Juan Pablo II testimonia que la [[eucaristía]] es «el momento más importante y sagrado de la jornada y el centro de la vida» del sacerdote [DyM, VIII]. En la consagración, el sacerdote «actúa verdaderamente *in persona Christi*», renovando el sacrificio de Cristo con la fuerza del Espíritu Santo [DyM, VIII]. Tras la consagración, las palabras *Mysterium fidei* —«¡Misterio de la fe!»— se refieren a la Eucaristía, pero «en cierto modo, conciernen también al sacerdocio. No hay Eucaristía sin sacerdocio, como no hay sacerdocio sin Eucaristía» [DyM, VIII]. En la Eucaristía se consuma el [[admirabile_commercium]]: «Cristo devuelve al Padre todo lo que de Él proviene» [DyM, VIII]. Su primera Misa fue en la cripta de San Leonardo en Cracovia [DyM, IV].
@@ -312,7 +309,7 @@ Mons. Munilla desarrolla el elemento del altar y el sagrario de la carta de Leó
 
 **Thompson y Sapier** muestran cómo las prefiguraciones del Antiguo Testamento —el sacrificio de Melquisedec, el maná en el desierto— prefigure Christ's final self-offering: la Eucaristía es el cumplimiento de todas las figuras veterotestamentarias que apuntaban al sacrificio único y definitivo del Cordero de Dios.
 
-**Thompson y Sapier** presentan también a Jesus as the ultimate host at a sacred meal: la Eucaristía como banquete donde Cristo mismo es el anfitrión que invita, alimenta y comunica su propia vida a los comensales, realizando la plenitud de la hospitalidad divina.
+**Thompson y Sapier** presentan también a Jesús as the ultimate host at a sacred meal: la Eucaristía como banquete donde Cristo mismo es el anfitrión que invita, alimenta y comunica su propia vida a los comensales, realizando la plenitud de la hospitalidad divina.
 
 ### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
 
@@ -328,7 +325,7 @@ Los efectos mayores de la comunión es hacernos semejantes a Jesucristo, «que y
 
 ### Giussani — Affezione e dimora (AED)
 
-En la Tischrede 114 (AED, 31, 59-65), la comunión diaria es la vía de familiaridad con Cristo: «hai fatto la Comunione tutti i giorni; dopo due o tre anni di questo atteggiamento, la fisionomia della realtà da cui dipendi, la fisionomia di Cristo è come se acquistasse una forma nei tuoi occhi e nella tua immaginazione» (AED, 31, 59).
+En la Tischrede 114 (AED, 31, 59-65), la comunión diaria es la vía de familiaridad con Cristo: «hai fatto la Comunione tutti i giorni; dopo due o tre anni di questo atteggiamento, la fisionomía della realtà da cui dipendi, la fisionomía di Cristo è come se acquistasse una forma nei tuoi occhi e nella tua immaginazione» (AED, 31, 59).
 
 Hacer la comunión es estar en la posición de la Madalena —«adorare vuol dire stringere le ginocchia» (AED, 31, 63)—, y la Confesión «è realmente, letteralmente questa posizione, è il ripetersi di questa posizione» (AED, 31, 63). Por eso «far la Comunione vuol dire realmente – non immaginativamente, realmente! – essere così, molto più di così» (AED, 31, 65): quien la vive no se siente «più estranea a Cristo».
 
@@ -452,7 +449,7 @@ El testimonio de Rachel Bulman añade la dimensión existencial de la adoración
 
 ### Según Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11)
 
-El Feature central de Nicholas Healy Jr. («The Eucharist and the Beatific Vision») desarrolla la **dimensión escatológica** de la Eucaristía:
+El Feature central de Nicholas Healy Jr. («The Eucharist and the Beatific Visión») desarrolla la **dimensión escatológica** de la Eucaristía:
 
 - **Medicina de inmortalidad**: los Padres llaman así a la Eucaristía (Ignacio de Antioquía, *Ad Eph.* 20,2): prenda y promesa de la resurrección para vida eterna.
 - **Viático que contiene la meta**: la Eucaristía es «pan para el camino» cuyo contenido es la meta misma del camino — comunión con Dios (Aquino: SmTh III q.73 a.4); no medio instrumental que se descarta al llegar. Véase [[viático]].

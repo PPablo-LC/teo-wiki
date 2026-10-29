@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "2. Estadísticas globales 1941-2019 de abusos de menores de parte de sacerdotes de la Congregación"
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 11
 timestamp: 2026-09-05
 description: "Estadísticas globales 1941-2019: 1702 víctimas, 33 sacerdotes abusadores (2,44%), lugares de los abusos, situación judicial, cadenas de abuso y abuso de autoridad de los superiores."

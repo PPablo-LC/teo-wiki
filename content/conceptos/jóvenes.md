@@ -35,7 +35,7 @@ León XIV dedicó dos vigilias de oración a los jóvenes durante su viaje a Esp
 
 ### Según Evangelization & Culture, Issue 12 (EAC-12)
 
-Jackie François Angel («The Art of Evangelizing the Modern Teenager») ofrece un diagnóstico y una pastoral para evangelizar a la generación actual de adolescentes. El dato central: «hay más adolescentes que se identifican como "nones" que cristianos, 44,4% frente a 35% respectivamente», y el principal objetivo profesional de la Generación Z es «convertirse en influencer de YouTube» [EAC-12, 23].
+Jackie François Ángel («The Art of Evangelizing the Modern Teenager») ofrece un diagnóstico y una pastoral para evangelizar a la generación actual de adolescentes. El dato central: «hay más adolescentes que se identifican como "nones" que cristianos, 44,4% frente a 35% respectivamente», y el principal objetivo profesional de la Generación Z es «convertirse en influencer de YouTube» [EAC-12, 23].
 
 A pesar del cambio cultural, la base antropológica es estable: «cada persona de cada lugar, tiempo y cultura está hecha a imagen y semejanza de Dios, que es amor», con anhelos de verdad, belleza y bondad, de ser don para otros y de ser visto, conocido y amado. Como dice el Catecismo en uno de sus párrafos iniciales, solo en Dios hallará el hombre «la verdad y la felicidad que no cesa de buscar» (CEC 27) [EAC-12, 23].
 
@@ -64,5 +64,5 @@ Se relaciona con [[vocación]], [[discernimiento]], [[silencio]], [[oración]], 
 - [L_XIV-ViajeEspaña-2026, 03 — Vigilia de Oración con Jóvenes (Madrid)]
 - [L_XIV-ViajeEspaña-2026, 11 — Vigilia de Oración (Barcelona)]
 - [L_XIV-ViajeEspaña-2026, 08 — Comunidad Diocesana (Bernabéu)]
-- [EAC-12, 23 — Jackie François Angel]
+- [EAC-12, 23 — Jackie François Ángel]
 - [EAC-12, 11 — Michelle Stanford]

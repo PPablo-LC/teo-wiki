@@ -12,7 +12,7 @@ timestamp: 2026-08-06
 
 ## Definición
 
-La ética de la virtud es el enfoque ético que se formula desde la perspectiva de la primera persona: se pregunta «¿qué tipo de persona debo ser?» más que «¿qué debo hacer?», privilegiando el carácter moral del sujeto y la virtud como hábito electivo orientado al bien global del hombre y a la vida buena.
+La ética de la virtud es el enfoque ético que se fórmula desde la perspectiva de la primera persona: se pregunta «¿qué tipo de persona debo ser?» más que «¿qué debo hacer?», privilegiando el carácter moral del sujeto y la virtud como hábito electivo orientado al bien global del hombre y a la vida buena.
 
 ## Desarrollo doctrinal
 

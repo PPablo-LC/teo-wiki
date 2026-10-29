@@ -6,7 +6,7 @@ timestamp: 2026-08-24
 ---
 # Vida interior
 
-> Area: Ascética y Mistica
+> Área: Ascética y Mística
 > Última actualización: 2026-08-24
 
 ## Definición
@@ -15,19 +15,19 @@ La vida del alma en su relación con Dios, caracterizada por la oración, el rec
 
 ## Desarrollo doctrinal
 
-La vida interior es el conjunto de operaciones del alma orientadas a Dios: oración mental, meditación, contemplación, examen de conciencia, lectura espiritual y practica de las virtudes. La tradición ascético-mistica distingue entre vida activa (ejercicio de las virtudes y obras exteriores) y vida contemplativa (oración y union con Dios), que se complementan mutuamente. La vida interior es necesaria para la santidad y debe alimentarse con los sacramentos, especialmente la Eucaristia y la Confesión. Los autores espirituales insisten en que sin vida interior la acción apostolica carece de fruto sobrenatural.
+La vida interior es el conjunto de operaciones del alma orientadas a Dios: oración mental, meditación, contemplación, examen de conciencia, lectura espiritual y practica de las virtudes. La tradición ascético-mística distingue entre vida activa (ejercicio de las virtudes y obras exteriores) y vida contemplativa (oración y unión con Dios), que se complementan mutuamente. La vida interior es necesaria para la santidad y debe alimentarse con los sacramentos, especialmente la Eucaristía y la Confesión. Los autores espirituales insisten en que sin vida interior la acción apostólica carece de fruto sobrenatural.
 
 ## Perspectivas por fuente
 
 ### Según Royo Marin (TPCr)
 
-Royo Marin dedica la mayor parte de su obra a la vida interior, tratando la oración mental, la meditación, la contemplación, la purificación del alma y la union con Dios. La vida interior es el medio principal para alcanzar la perfección cristiana. Sin ella, la vida cristiana se reduce a exterioridad sin sustancia.
+Royo Marin dedica la mayor parte de su obra a la vida interior, tratando la oración mental, la meditación, la contemplación, la purificación del alma y la unión con Dios. La vida interior es el medio principal para alcanzar la perfección cristiana. Sin ella, la vida cristiana se reduce a exterioridad sin sustancia.
 
 ### Según el análisis de conferencias para varones (notas)
 
 > **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-- Adam Farber (fortitude_through_excellence_in_patience.md) menciona la vida interior como el «vientre del apostolado» donde las almas crecen en union con Dios.
+- Adam Farber (fortitude_through_excellence_in_patience.md) menciona la vida interior como el «vientre del apostolado» donde las almas crecen en unión con Dios.
 - Brian Cochran (my_personal_emmaus.md) conecta la vida interior con la superación de las adicciones y la restauración de la filiación divina.
 
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
@@ -40,9 +40,9 @@ Brandon Vogt presenta la vida interior como la condición innegociable del evang
 
 ## Distinciones importantes
 
-- Vida interior (oración y virtudes) vs vida exterior (acción apostolica)
+- Vida interior (oración y virtudes) vs vida exterior (acción apostólica)
 - Vida activa (acción exterior con rectitud) vs vida contemplativa (oración y recogimiento)
-- Vida ascética (esfuerzo humano con la gracia) vs vida mistica (acción divina predominante)
+- Vida ascética (esfuerzo humano con la gracia) vs vida mística (acción divina predominante)
 
 ## Relaciones doctrinales
 

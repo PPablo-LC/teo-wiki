@@ -43,7 +43,7 @@ Por la profesión de los consejos evangélicos los miembros han respondido al ll
 
 ## Ante todo han de cultivar la vida espiritual
 
-Los que profesan los consejos evangélicos, ante todo busquen y amen a Dios y fomenten la vida escondida con Cristo en Dios, de donde brota el amor del prójimo; la práctica misma de los consejos evangélicos está animada y regulada por la caridad. Bebiendo en los manantiales auténticos de la espiritualidad cristiana, han de cultivar el espíritu de oración y la oración misma: manejen cotidianamente la Sagrada Escritura para adquirir "el sublime conocimiento de Cristo Jesús", celebren la sagrada Liturgia y el sacrosanto Misterio de la Eucaristía no sólo con los labios sino también con el corazón, amen fraternalmente a los miembros de Cristo, reverencien a sus pastores y vivan y sientan más y más con la Iglesia.
+Los que profesan los consejos evangélicos, ante todo busquen y amén a Dios y fomenten la vida escondida con Cristo en Dios, de donde brota el amor del prójimo; la práctica misma de los consejos evangélicos está animada y regulada por la caridad. Bebiendo en los manantiales auténticos de la espiritualidad cristiana, han de cultivar el espíritu de oración y la oración misma: manejen cotidianamente la Sagrada Escritura para adquirir "el sublime conocimiento de Cristo Jesús", celebren la sagrada Liturgia y el sacrosanto Misterio de la Eucaristía no sólo con los labios sino también con el corazón, amén fraternalmente a los miembros de Cristo, reverencien a sus pastores y vivan y sientan más y más con la Iglesia.
 
 ## Los Institutos de vida contemplativa
 

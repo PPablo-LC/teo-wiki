@@ -17,7 +17,7 @@ Paolo Takashi Nagai (1908 – 1951) fue un médico radiólogo japonés de Nagasa
 
 ## Relevancia teológica
 
-Nagai es el testigo de que la [[fidelidad]] cristiana puede renacer de la ruina absoluta: «la fede eroica permette di vivere la vita in modo nuovo e umano e divenire sorgente di gioia e di speranza» (mons. Takami). Su lectura teológica de la bomba —Urakami «fu immolata come il mistico Agnello senza macchia in espiazione del cieco odio»— es una de las páginas más discutidas y profundas de la teología del sufrimiento del siglo XX, y su alegre aceptación de la enfermedad y de la muerte anticipa una manera cristiana de mirar el fin de la vida frente a la cultura del «morir con dignidad» eutanásica: «Se sei malato, non vuol dire che ogni singola parte del tuo corpo sia fuori uso... La vita è data per un compito, per il bene del mondo intero».
+Nagai es el testigo de que la [[fidelidad]] cristiana puede renacer de la ruina absoluta: «la fede eroica permette di vivere la vita in modo nuovo e umano e divenire sorgente di gioia e di speranza» (mons. Takami). Su lectura teológica de la bomba —Urakami «fu immolata come il místico Agnello senza macchia in espiazione del cieco odio»— es una de las páginas más discutidas y profundas de la teología del sufrimiento del siglo XX, y su alegre aceptación de la enfermedad y de la muerte anticipa una manera cristiana de mirar el fin de la vida frente a la cultura del «morir con dignidad» eutanásica: «Se sei malato, non vuol dire che ogni singola parte del tuo corpo sia fuori uso... La vita è data per un compito, per il bene del mondo intero».
 
 Su descubrimiento del cuerpo como «proprietà sacra di Dio» —que debe ser respetado porque «deve ritornare in vita come corpo glorioso»— es una síntesis luminosa de [[cuerpo_y_resurrección]] que revierte todo su materialismo de juventud. Y su *Nyokodō* encarna el doble mandamiento: para amar al prójimo hay que empezar «amando noi stessi», es decir, aceptando la propia vida como don y misión.
 
@@ -32,9 +32,9 @@ Capítulo 07 (Paolo Takashi Nagai — «Il Santo di Urakami»):
 - **El médico y la oración**: «non è il medico che guarisce l'ammalato, è la volontà di Dio. Una volta che si è capito questo, la diagnosi medica ingenera la preghiera».
 - **El cuerpo sacro**: «l'uomo immagine di Dio, che non si può profanare... questa carne deve ritornare in vita come corpo glorioso davanti a Dio; perciò non si può trattarla male. Io rispetto da allora questo corpo di carne creato da Dio».
 - **Las cenizas de Midori y el Rosario intacto**: «sentivo la sua voce mormorare: perdono, perdono»; su respuesta: «In ricordo di te, per amore di te... che mi hai portato all'amore di Cristo».
-- **El Nyokodō y la alegría**: «La prima cosa che penso, tutte le mattine, appena mi sveglio, è che sono felice»; «L'atomica mi ha portato via tutto... mi sentivo felice al pensiero che sarei entrato più facilmente in Paradiso».
-- **Las campanas de Dios**: la campana de la catedral hallada intacta entre las ruinas y vuelta a sonar en Navidad: «nemmeno una bomba atomica può far tacere le campane di Dio».
-- **El necrologio de Urakami**: «Urakami fu immolata come il mistico Agnello senza macchia in espiazione del cieco odio... Il 9 agosto... squarciava le tenebre della guerra e salutava l'alba radiosa della pace».
+- **El Nyokodō y la alegría**: «La prima cosa che penso, tutte le mattine, appena mi sveglio, è che sono felice»; «L'atómica mi ha portato via tutto... mi sentivo felice al pensiero che sarei entrato più fácilmente in Paradiso».
+- **Las campanas de Dios**: la campana de la catedral hallada intacta entre las ruinas y vuelta a sonar en Navidad: «nemmeno una bomba atómica può far tacere le campane di Dio».
+- **El necrologio de Urakami**: «Urakami fu immolata come il místico Agnello senza macchia in espiazione del cieco odio... Il 9 agosto... squarciava le tenebre della guerra e salutava l'alba radiosa della pace».
 - **Testamento para los hijos**: «Figli cari. Amate anche i nemici... Non ci sono nemici nel mondo dell'amore. Se non si hanno nemici, non succedono guerre».
 - **Epitafio**: «Siamo servi inutili. Abbiamo fatto quel che dovevamo fare» (Lc 17,10); «Il sole è Gesù. Anch'io rifletto soltanto un po' della sua luce».
 

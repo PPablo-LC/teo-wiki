@@ -25,10 +25,6 @@ Toda ley humana justa deriva su autoridad de la [[ley_natural]] y, en última in
 
 El CEC §1900-1903 trata de la ley humana: «La autoridad humana no puede prescribir nada que se oponga a la ley natural. La ley injusta no obliga en conciencia» (§1902-1903). La ley humana debe ordenarse al bien común y al respeto de la [[dignidad_humana]].
 
-### Según Royo Marín (TPCr)
-
-TPCr distingue la ley humana de la [[ley_eterna]], la [[ley_natural]] y la [[ley_divina]]. La ley humana es mudable y contingente, pero debe estar conforme a la [[ley_moral]] para ser obligatoria. Su fin es el [[bien_común]] temporal en orden al bien espiritual.
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la ley humana en las cuestiones 95–97 de la Ia-IIae.
@@ -41,9 +37,13 @@ Santo Tomás trata la ley humana en las cuestiones 95–97 de la Ia-IIae.
 
 **División** (q.95 a.4). Se divide en derecho de gentes (*ius gentium*), derivado de la ley natural por vía de conclusión (ej. justicia en compraventas), y derecho civil, derivado por vía de determinación. También se divide según las formas de gobierno (monarquía, aristocracia, democracia) y según las materias.
 
-**Poder de la ley humana** (q.96). Se formula en universal (a.1), pues su fin es el [[bien_común]]. No debe reprimir todos los vicios, sino solo los más graves que hacen daño a la sociedad (a.2). Puede prescribir actos de todas las virtudes en cuanto se ordenan al bien común (a.3). Las leyes justas obligan en conciencia por derivar de la [[ley_eterna]] (a.4); las inicuas no obligan en conciencia, salvo para evitar el escándalo. Todos están sujetos a la ley (a.5), aunque los justos no lo están por coacción, y el príncipe lo está en cuanto al poder directivo. En casos de necesidad cabe obrar sin atenerse a la letra de la ley (epiqueia, a.6).
+**Poder de la ley humana** (q.96). Se fórmula en universal (a.1), pues su fin es el [[bien_común]]. No debe reprimir todos los vicios, sino solo los más graves que hacen daño a la sociedad (a.2). Puede prescribir actos de todas las virtudes en cuanto se ordenan al bien común (a.3). Las leyes justas obligan en conciencia por derivar de la [[ley_eterna]] (a.4); las inicuas no obligan en conciencia, salvo para evitar el escándalo. Todos están sujetos a la ley (a.5), aunque los justos no lo están por coacción, y el príncipe lo está en cuanto al poder directivo. En casos de necesidad cabe obrar sin atenerse a la letra de la ley (epiqueia, a.6).
 
 **Mutabilidad** (q.97). La ley humana puede cambiar legítimamente por dos motivos: por parte de la razón (avance de lo imperfecto a lo perfecto) y por parte de los hombres (cambio de condiciones humanas; a.1). No debe cambiarse por cualquier mejora, sino solo cuando del cambio deriva una utilidad grande y manifiesta (a.2). La costumbre puede alcanzar fuerza de ley (a.3). Los gobernantes pueden dispensar de la ley humana cuando esta resulta perjudicial para el bien común en un caso particular (a.4).
+### Según Royo Marín (TPCr)
+
+TPCr distingue la ley humana de la [[ley_eterna]], la [[ley_natural]] y la [[ley_divina]]. La ley humana es mudable y contingente, pero debe estar conforme a la [[ley_moral]] para ser obligatoria. Su fin es el [[bien_común]] temporal en orden al bien espiritual.
+
 
 ## Relaciones doctrinales
 

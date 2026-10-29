@@ -4,7 +4,7 @@ title: "113. El amor conyugal en la Carta a los Efesios"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 33
 timestamp: 2026-08-01
-description: "Catequesis 113: el matrimonio como gran misterio (Ef 5,32), el «lenguaje del cuerpo» en la dimensión mística, el signo sacramental en el lenguaje litúrgico, la castidad como virtud y don, y el ethos del matrimonio en la «redención del cuerpo» — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 113: el matrimonio como gran misterio (Ef 5,32), el «lenguaje del cuerpo» en la dimensión mística, el signo sacramental en el lenguaje litúrgico, la castidad como virtud y don, y el ethos del matrimonio en la «redención del cuerpo» — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

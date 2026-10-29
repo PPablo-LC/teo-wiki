@@ -21,7 +21,7 @@ Giussani habla de las «dimensiones» del espíritu (ánimo) necesarias para edu
 ## Perspectivas por fuente
 
 ### Giussani — Il rischio educativo (IRE)
-I, 176-178: «solo il grande, soltanto il totale, soltanto il sintetico animano l'energia umana». I, 180-184 (cultural): la propuesta debe ser explicación total de todo. I, 186-188 (caridad): amar es concebirse y aceptarse como unión; Dios es convivencia (Trinidad). I, 190 (misionera): sentido del Reino = sentido misionero.
+I, 176-178: «solo il grande, soltanto il totale, soltanto il sintético animano l'energía umana». I, 180-184 (cultural): la propuesta debe ser explicación total de todo. I, 186-188 (caridad): amar es concebirse y aceptarse como unión; Dios es convivencia (Trinidad). I, 190 (misionera): sentido del Reino = sentido misionero.
 
 ## Relaciones doctrinales
 [[cultura]], [[caridad]], [[dimensión_misionera]], [[totalidad]], [[reino_de_dios]]

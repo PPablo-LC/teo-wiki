@@ -18,15 +18,15 @@ La reversión es el retorno a la Iglesia Católica de una persona que fue catól
 
 La reversión presupone la doctrina de la Iglesia como comunidad santa en medios finitos y pecadores: la autenticidad de la Iglesia en su conjunto no depende de la perfección de todas sus partes finitas, y uno de los indicadores más llamativos de su misión divina es que ha sobrevivido y florecido pese a las faltas de algunos de sus miembros. El Catecismo ofrece el fundamento doméstico de la fe: «En un mundo muchas veces ajeno e incluso hostil a la fe, las familias creyentes son importantes como centros de fe viva y radiante» (CEC 1656), la *ecclesia domestica* que ancla la fe de los que después se alejan.
 
-La reversión se sitúa también ante las realidades que las respuestas intelectuales no pueden dar: la absolución, la Eucaristía, la gracia santificante y la continuidad histórica con los Apóstoles — la [[sucesión_apostólica]]. En la tradición espiritual, Agustín formula la inquietud que subyace a la reversión: «Nos hiciste para Ti, Señor, y nuestro corazón está inquieto hasta que descanse en Ti».
+La reversión se sitúa también ante las realidades que las respuestas intelectuales no pueden dar: la absolución, la Eucaristía, la gracia santificante y la continuidad histórica con los Apóstoles — la [[sucesión_apostólica]]. En la tradición espiritual, Agustín fórmula la inquietud que subyace a la reversión: «Nos hiciste para Ti, Señor, y nuestro corazón está inquieto hasta que descanse en Ti».
 
 ## Perspectivas por fuente
 
 ### Según EAC-18 — Word on Fire Institute
 
-**Ver las abolladuras y aun así volver (15):** En su artículo «Reversion», el Dr. Francis J. Beckwith escribe que los conversos que retornan (*reverts*) son una raza peculiar: ven la santidad de los santos, la belleza de la liturgia, la sofisticación de la teología, la sabiduría de sus mejores mentes y la antigüedad del Magisterio, pero ven también «las abolladuras y los arañazos». En algún punto comprenden que la autenticidad de la Iglesia en su conjunto no depende de la perfección de todas sus partes finitas, y que uno de los indicadores más llamativos de su misión divina es que ha sobrevivido y florecido pese a las faltas de sus miembros: «Vemos la gran nube de testigos, incluso en día nublado».
+**Ver las abolladuras y aun así volver (15):** En su artículo «Reversión», el Dr. Francis J. Beckwith escribe que los conversos que retornan (*reverts*) son una raza peculiar: ven la santidad de los santos, la belleza de la liturgia, la sofisticación de la teología, la sabiduría de sus mejores mentes y la antigüedad del Magisterio, pero ven también «las abolladuras y los arañazos». En algún punto comprenden que la autenticidad de la Iglesia en su conjunto no depende de la perfección de todas sus partes finitas, y que uno de los indicadores más llamativos de su misión divina es que ha sobrevivido y florecido pese a las faltas de sus miembros: «Vemos la gran nube de testigos, incluso en día nublado».
 
-**La salida hacia el evangelicalismo (15):** Beckwith salió de la Iglesia en 1973, alrededor de su decimotercer cumpleaños, atraído al mundo del protestantismo evangélico a través de Maranatha House, una comunidad no confesional de los *Jesus People* en Las Vegas. Buscaba respuestas, pero también descanso y consuelo. Su catequesis en escuelas católicas hizo poco por retenerlo: una monja descartó con desdén sus preguntas teológicas y bíblicas. Mirando atrás, se convenció de que fue el ejemplo de sus padres como católicos ordinarios, observantes y caritativos lo que lo mantuvo atado a la fe: su hogar era un centro vibrante de amor, manifestación de la *ecclesia domestica* (CEC 1656).
+**La salida hacia el evangelicalismo (15):** Beckwith salió de la Iglesia en 1973, alrededor de su decimotercer cumpleaños, atraído al mundo del protestantismo evangélico a través de Maranatha House, una comunidad no confesional de los *Jesús People* en Las Vegas. Buscaba respuestas, pero también descanso y consuelo. Su catequesis en escuelas católicas hizo poco por retenerlo: una monja descartó con desdén sus preguntas teológicas y bíblicas. Mirando atrás, se convenció de que fue el ejemplo de sus padres como católicos ordinarios, observantes y caritativos lo que lo mantuvo atado a la fe: su hogar era un centro vibrante de amor, manifestación de la *ecclesia domestica* (CEC 1656).
 
 **El retorno y las semillas de la gracia (15):** Sus estudios en Fordham plantaron las semillas del retorno: profundizó en Aquino y San Agustín. El profesor Dominic Balestra escribió más tarde: «Le dije que te encontraba un verdadero cristiano y que, con el tiempo, la gracia te traerá de regreso a nuestra Iglesia». En 2006, siendo presidente de la Evangelical Theological Society, Beckwith comprendió que solo había cuatro cuestiones que le impedían volver a la plena comunión: la [[penitencia]], la [[eucaristía]], la [[sucesión_apostólica]] y la doctrina de la [[justificación]]. Tras unos meses de estudio concluyó que las posiciones católicas eran alternativas al menos plausibles.
 
@@ -63,6 +63,6 @@ La reversión se sitúa también ante las realidades que las respuestas intelect
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute:
-  - 15_feature_beckwith.md — Dr. Francis J. Beckwith, «Reversion»
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute:
+  - 15_feature_beckwith.md — Dr. Francis J. Beckwith, «Reversión»
 - CEC 1656 (citado en la fuente)

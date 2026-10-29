@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: "Jonathan Askonas"
-description: "Científico político estadounidense, profesor asistente en la Catholic University of America, coautor (con Justin Litke) del ensayo 'How to Think What to Love' del Issue 19 de Evangelization & Culture sobre la muerte aparente de las artes liberales en la era de la IA."
+description: "Científico político estadounidense, profesor asistente en la Catholic University of América, coautor (con Justin Litke) del ensayo 'How to Think What to Love' del Issue 19 de Evangelization & Culture sobre la muerte aparente de las artes liberales en la era de la IA."
 tags: ["ciencia_política", "educación", "inteligencia_artificial", "artes_liberales"]
 timestamp: 2026-09-07
 ---
@@ -11,11 +11,11 @@ timestamp: 2026-09-07
 > Área: Personas / Ciencia política y educación
 > Última actualización: 2026-09-07
 
-**Jonathan Askonas** es un científico político estadounidense, profesor asistente de política en la Catholic University of America (Washington, D.C.). Es senior fellow de *The Federalist* y escribe sobre tecnología, política y cultura.
+**Jonathan Askonas** es un científico político estadounidense, profesor asistente de política en la Catholic University of América (Washington, D.C.). Es senior fellow de *The Federalist* y escribe sobre tecnología, política y cultura.
 
 ## Contexto
 
-Su investigación se centra en la relación entre tecnología, estado y sociedad, con atención al poder y a la política de la innovación. Con Justin Litke —también de la Catholic University of America— ha escrito sobre la tecnología y la formación humana desde una perspectiva de la tradición católica.
+Su investigación se centra en la relación entre tecnología, estado y sociedad, con atención al poder y a la política de la innovación. Con Justin Litke —también de la Catholic University of América— ha escrito sobre la tecnología y la formación humana desde una perspectiva de la tradición católica.
 
 ## Aportación: How to Think What to Love (EAC-19)
 

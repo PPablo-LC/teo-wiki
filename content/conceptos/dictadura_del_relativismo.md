@@ -13,7 +13,7 @@ timestamp: 2026-08-23
 
 ## Definición
 
-La «dictadura del relativismo» es una expresión acuñada por Benedicto XVI en su homilía de la Misa *pro eligendo Pontifice* (18 de abril de 2005) para designar la forma totalitaria asumida por el relativismo contemporáneo: un régimen espiritual que «no reconoce nada como definitivo y cuyo fin último consiste exclusivamente en el propio ego y sus deseos». No se trata de una mera doctrina errónea, sino de una estructura de poder cultural que tolera todas las opciones menos la afirmación de una verdad objetiva.
+La «dictadura del relativismo» es una expresión acuñada por Benedicto XVI en su homilía de la Misa *pro eligendo Pontífice* (18 de abril de 2005) para designar la forma totalitaria asumida por el relativismo contemporáneo: un régimen espiritual que «no reconoce nada como definitivo y cuyo fin último consiste exclusivamente en el propio ego y sus deseos». No se trata de una mera doctrina errónea, sino de una estructura de poder cultural que tolera todas las opciones menos la afirmación de una verdad objetiva.
 
 ## Desarrollo doctrinal
 
@@ -63,7 +63,7 @@ La imagen de la *dictadura* señala tres rasgos: (1) imposición — el relativi
 
 ## Referencias
 
-- Benedicto XVI, Homilía *pro eligendo Pontifice*, 18-IV-2005.
+- Benedicto XVI, Homilía *pro eligendo Pontífice*, 18-IV-2005.
 - Worner, Tod. «Midnight Oil», *Evangelization & Culture* 10 (Winter 2021).
 - Scalia, Elizabeth. «The Liberated Mind in an Unfree Age», *Evangelization & Culture* 10 (Winter 2021).
 - Barron, Robert. «Contours of the Great Story», *Evangelization & Culture* 10 (Winter 2021).

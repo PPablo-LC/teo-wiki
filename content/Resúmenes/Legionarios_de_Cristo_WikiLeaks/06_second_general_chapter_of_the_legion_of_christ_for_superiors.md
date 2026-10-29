@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Second General Chapter of the Legion of Christ for superiors"
+title: "Second General Chapter of the Legión of Christ for superiors"
 fuente: Legionarios_de_Cristo_WikiLeaks
 capítulo: 6
 timestamp: 2026-08-24
-description: "Resumen de 'Second General Chapter of the Legion of Christ for superiors' — Legionarios_de_Cristo_WikiLeaks"
+description: "Resumen de 'Second General Chapter of the Legión of Christ for superiors' — Legionarios_de_Cristo_WikiLeaks"
 tags: ["resumen", "legionarios de cristo wikileaks"]
 ---
 
-# Second General Chapter of the Legion of Christ for superiors
+# Second General Chapter of the Legión of Christ for superiors
 
 ## Conceptos básicos referenciados
 

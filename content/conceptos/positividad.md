@@ -17,11 +17,11 @@ La positividad (*positività*) es la afirmación radicalmente cristiana de que l
 
 Giussani desarrolla la positividad como clave de bóveda de toda su visión cristiana. El amor, el sacrificio, la obediencia y la fidelidad solo pueden entenderse a la luz de la positividad originaria de la realidad. La primera afirmación de la fe es que «todo es positivo porque es creado»; el misterio del ser es positividad, es Padre, es Ser. «Se è Essere, non può essere negativo» (AED, 17, 239).
 
-La positividad es un dato de la experiencia originaria. La naturaleza del corazón humano es «simpatia originale all'essere» (AED, 17, 99): el primer movimiento de la persona, incluso en la prueba, es la afirmación de la realidad como buena. La prueba puede engendrar miedo, pero el miedo es posterior — no originario. Los ojos de Marcellino (el personaje del film de Vajda) son la imagen de esta mirada originaria: dos ojos abiertos sobre la positividad del ser.
+La positividad es un dato de la experiencia originaria. La naturaleza del corazón humano es «simpatía originale all'essere» (AED, 17, 99): el primer movimiento de la persona, incluso en la prueba, es la afirmación de la realidad como buena. La prueba puede engendrar miedo, pero el miedo es posterior — no originario. Los ojos de Marcellino (el personaje del film de Vajda) son la imagen de esta mirada originaria: dos ojos abiertos sobre la positividad del ser.
 
 El «uso» de la positividad es la clave espiritual. Giussani distingue entre la positividad en sí y el uso que de ella se hace: «Rimani superficiale nell'uso della positività; non è superficiale la positività che vedi nelle cose!» (AED, 07, 29). Decir «todo es positivo» y quedarse ahí es un abuso, porque la positividad es una llamada a caminar, a «sacar las consecuencias» de lo bueno que se percibe. Dios coloca al creyente en una posición de facilidad para percibir la positividad de las cosas precisamente para darle fuerzas en las dificultades — «per darmi forza nel portare le cose che saranno pesanti» (AED, 07, 29).
 
-La positividad se relaciona directamente con el sacrificio. El sacrificio no contradice la positividad, sino que es su coronación: «Diventare più grande vuol dire capire che è positivo e che è favorevole — invece di comodo, favorevole — al nostro compimento, all'avvenimento della nostra gioia anche ciò che è sacrificio» (AED, 07, 29). El sacrificio es «favorevole» al cumplimiento del ser humano: no es un mal necesario, sino una condición de plenitud.
+La positividad se relaciona directamente con el sacrificio. El sacrificio no contradice la positividad, sino que es su coronación: «Diventare più grande vuol dire capire che è positivo e che è favorevole — invece di cómodo, favorevole — al nostro compimento, all'avvenimento della nostra gioia anche ciò che è sacrificio» (AED, 07, 29). El sacrificio es «favorevole» al cumplimiento del ser humano: no es un mal necesario, sino una condición de plenitud.
 
 La elección positiva es la elección amorosa: «La scelta positiva è la scelta amorosa» (AED, 17, 81-89). Afirmar el valor de un presente doloroso es la prueba más alta del amor. La solución negativa, en cambio, es un renunciamiento del propio destino: quien niega la positividad de la realidad se niega a sí mismo.
 
@@ -33,13 +33,13 @@ La positividad culmina en la afirmación de que el sacrificio es favorable al cu
 
 En la Tischrede 147 (AED, 07, 29), Giussani distingue entre la positividad de la visión y el uso de la positividad: «È superficialità il tremore che ti viene dopo aver detto: "Son certa, questo è positivo"». La positividad correctamente usada conduce a las consecuencias: camina, saca las conclusiones de lo que percibes.
 
-En la Tischrede 147 (AED, 07, 29), el sacrificio como favorable al cumplimiento: «capire che è positivo e che è favorevole — invece di comodo, favorevole — al nostro compimento... anche ciò che è sacrificio».
+En la Tischrede 147 (AED, 07, 29), el sacrificio como favorable al cumplimiento: «capire che è positivo e che è favorevole — invece di cómodo, favorevole — al nostro compimento... anche ciò che è sacrificio».
 
 En la Tischrede 59 (AED, 08, 165), solo se construye desde lo positivo: «Si parte solo da un positivo».
 
 En la Tischrede 45 (AED, 17, 81-89), la elección positiva es la elección amorosa: «La scelta positiva è la scelta amorosa». La solución negativa es un renunciamiento del destino: «Una soluzione negativa è un rinnegamento del proprio destino».
 
-En la Tischrede 45 (AED, 17, 239), la represa de la positividad: «La positività del reale... è implicata, implicita nella curiosità che la realtà desta come conseguenza immediata nel cuore dell'uomo». El misterio del ser es positividad: «Il mistero dell'essere è positività, è Padre, è Essere».
+En la Tischrede 45 (AED, 17, 239), la represa de la positividad: «La positività del reale... è implicata, implícita nella curiosità che la realtà desta come conseguenza immediata nel cuore dell'uomo». El misterio del ser es positividad: «Il mistero dell'essere è positività, è Padre, è Essere».
 
 ### Luigi Giussani — Dare la vita per l'opera di un Altro (DLV)
 

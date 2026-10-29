@@ -96,5 +96,5 @@ dirección en que el mundo se aleja del *logos*, del mundo como orden de Dios
   `raw/Bases_doctrinales-raw/la_convenienza_umana_della_fede_capitoli/índice.md`
 - **Citas bíblicas**: Jn 8,29.
 - **Otras fuentes**: B. Russell, «Il culto dell'uomo libero», en
-  *Misticismo e logica e altri saggi*, Longanesi, Milano, 1964, p. 77;
+  *Misticismo e lógica e altri saggi*, Longanesi, Milano, 1964, p. 77;
   L. Giussani, *Il senso di Dio e l'uomo moderno*.

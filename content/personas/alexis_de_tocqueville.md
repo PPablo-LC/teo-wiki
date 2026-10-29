@@ -21,7 +21,7 @@ Tocqueville vivió en un momento de profunda transformación: la Francia posteri
 
 ### Word on Fire Institute (EAC-21)
 
-Paul Krause, en «The Spirit of Religion and the Spirit of Liberty: Remembering Tocqueville's Democracy in America» (07_stacks.md), presenta a Tocqueville como la figura sinonímica de la democracia estadounidense y explora su tesis central: la inseparabilidad del espíritu religioso y el espíritu de libertad en la fundación de la democracia americana.
+Paul Krause, en «The Spirit of Religión and the Spirit of Liberty: Remembering Tocqueville's Democracy in América» (07_stacks.md), presenta a Tocqueville como la figura sinonímica de la democracia estadounidense y explora su tesis central: la inseparabilidad del espíritu religioso y el espíritu de libertad en la fundación de la democracia americana.
 
 **La tesis central de Tocqueville.** Tocqueville reconoce que lo más llamativo para un viajero europeo en Estados Unidos es «la ausencia de lo que llamamos gobierno o administración». Sin embargo, su verdadera tesis sobre el genio de la democracia estadounidense no gira en torno al gobierno limitado, sino en torno a su nacimiento desde «un espíritu explícitamente cristiano». En los primeros capítulos de *La democracia en América*, Tocqueville presenta el «espíritu de la religión y el espíritu de la libertad» como twin forces que dan origen al carácter democrático americano.
 
@@ -51,5 +51,5 @@ El análisis de Tocqueville es de extraordinaria relevancia para la teología ca
 
 ## Referencias
 
-- EAC-21, 07_stacks.md (Paul Krause), «The Spirit of Religion and the Spirit of Liberty: Remembering Tocqueville's Democracy in America»
+- EAC-21, 07_stacks.md (Paul Krause), «The Spirit of Religión and the Spirit of Liberty: Remembering Tocqueville's Democracy in América»
 - Tocqueville, Alexis de, *De la démocratie en Amérique* (1835-1840)

@@ -17,6 +17,11 @@ La **confianza providencial** (o **confianza en la Providencia**) es la virtud t
 
 ## Perspectivas por fuente
 
+### Según TPCr (Royo Marín)
+
+- La confianza en la Providencia es hija de la esperanza y de la caridad.
+- «Quien confía en Dios, nada le falta; quien a Dios tiene, nada le falta» (Santa Teresa).
+
 ### Según ¡El amor es más fuerte! (LC-2015)
 
 - **Oración al Sagrado Corazón**: «Confío el pasado a tu misericordia, el presente a tu amor y el futuro a tu providencia. Sagrado Corazón de Jesús, en ti confío» (cap. 9, §179).
@@ -27,11 +32,6 @@ La **confianza providencial** (o **confianza en la Providencia**) es la virtud t
 - **Cofundadores**: «sabían que eran instrumentos y que Dios actuará si nosotros le abrimos nuestro corazón... Ellos han llegado a la eternidad y ahora son una esperanza para nosotros» (cap. 13, §53).
 - **Cruz y providencia**: «La cruz no es una desgracia... es una bendición, porque fue el camino por el que Cristo nos expresó su amor hasta el extremo» (cap. 11, §19).
 - **Desprendimiento**: «con el trabajo constante, con la abnegación y la confianza bien puesta en la Providencia, veremos cómo Dios nos sorprende» (cap. 13, §215).
-
-### Según TPCr (Royo Marín)
-
-- La confianza en la Providencia es hija de la esperanza y de la caridad.
-- «Quien confía en Dios, nada le falta; quien a Dios tiene, nada le falta» (Santa Teresa).
 
 ### Según CLC 1998/2020
 

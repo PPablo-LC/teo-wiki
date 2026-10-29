@@ -23,15 +23,23 @@ El sigilo sacramental se regula en los cc. 983-984. El c. 983 §1 establece que 
 
 El c. 984 §1 prohíbe al confesor hacer uso, con perjuicio del penitente, de los conocimientos adquiridos en la confesión, aunque no haya peligro de revelación. El §2 establece que quien está constituido en autoridad no puede en modo alguno hacer uso, para el gobierno exterior, del conocimiento de pecados que haya adquirido por confesión en cualquier momento.
 
+### Según el Comentario al CIC (Com-CIC-Eunsa)
+
+El comentario al c. 983 señala que la disciplina sobre el sigilo sacramental permanece invariada respecto al CIC 17, con una variación de carácter técnico: el sigilo sacramental propiamente dicho afecta sólo al confesor, mientras que al intérprete y otras personas les afecta más propiamente la obligación del secreto. La violación directa e indirecta del sigilo se tipifica como delito en el c. 1388. La Congregación para la Doctrina de la Fe promulgó un decreto general el 23.IX.1988 por el que incurre automáticamente en excomunión quien capta con instrumentos técnicos o divulga en medios de comunicación social lo dicho por el confesor o el penitente en la confesión sacramental.
+
 ### Según la Summa Theologiae (SmTh) — Suplemento
 
 **Suppl. q.11 — Sello de la confesión:**
 
-a.1 — El confesor está siempre obligado a ocultar los pecados conocidos bajo el sigilo sacramental. Esta obligación es de derecho divino, pues el sacramento de la penitencia requiere absoluta confianza del penitente en el ministro. a.2 — No puede revelarlos ni siquiera por el bien común de la Iglesia o para evitar un mal grave. El mismo Cristo instituyó el sigilo como parte esencial de la administración del sacramento. a.3 — El sigilo se extiende a todo lo que pueda llevar al conocimiento del pecado del penitente, incluso a hechos externos que no sean pecados pero que revelarían la identidad del penitente. a.4 — El confesor no puede usar el conocimiento adquirido en confesión para beneficio propio o perjuicio ajeno, ni siquiera con permiso del penitente, en cuanto al uso público o a la revelación directa. a.5 — El sigilo es absoluto: no puede romperse ni siquiera para evitar la muerte de una persona, porque el daño espiritual de destruir la confianza en el sacramento supera cualquier daño temporal.
+a.1 — El sacerdote está obligado a ocultar siempre los pecados que conoce por la confesión: lo que se hace exteriormente en los sacramentos significa lo que ocurre interiormente, y la confesión, por la que el hombre se somete al sacerdote, significa la sumisión a Dios, que oculta los pecados de quien se le somete por la penitencia. Ni la insinceridad del penitente exime de esta obligación, como no invalida su bautismo.
 
-### Según el Comentario al CIC (Com-CIC-Eunsa)
+a.2 — El sigilo alcanza directamente lo que pertenece a la confesión sacramental, e indirectamente también lo que podría llevar al descubrimiento del pecador o de su pecado; estas cosas deben ocultarse con el mayor cuidado.
 
-El comentario al c. 983 señala que la disciplina sobre el sigilo sacramental permanece invariada respecto al CIC 17, con una variación de carácter técnico: el sigilo sacramental propiamente dicho afecta sólo al confesor, mientras que al intérprete y otras personas les afecta más propiamente la obligación del secreto. La violación directa e indirecta del sigilo se tipifica como delito en el c. 1388. La Congregación para la Doctrina de la Fe promulgó un decreto general el 23.IX.1988 por el que incurre automáticamente en excomunión quien capta con instrumentos técnicos o divulga en medios de comunicación social lo dicho por el confesor o el penitente en la confesión sacramental.
+a.3 — Solo el sacerdote está obligado por el sigilo, porque este afecta al ministro del sacramento; pero quien en un caso de urgencia oye una confesión, aun sin ser sacerdote, participa de algún modo del acto de las llaves y de la consiguiente obligación de secreto.
+
+a.4 — Con permiso del penitente, el sacerdote puede revelar el pecado: el sigilo se debe a dos razones —es esencial al sacramento, pues el sacerdote conoce el pecado como lo conoce Dios, y se ordena a evitar el escándalo—, y el penitente puede hacer que lo conozca también como hombre.
+
+a.5 — Quien conoce el pecado por la confesión y además por otra fuente puede hablar de lo que supo por la otra vía, pero no de lo que oyó en confesión; si dice haberlo visto cuando lo oyó, no revela directamente lo confesado, sino solo de modo indirecto.
 
 ### Según Sacramentorum Sanctitatis Tutela (SST)
 

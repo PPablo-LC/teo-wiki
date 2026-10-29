@@ -23,12 +23,12 @@ Stevens conjuga la estética y la evangelización: su sección *Art* en EAC-18 p
 
 ### Según EAC-18 — Word on Fire Institute
 
-**Michael Stevens** («Art: Images of Conversion», 12_art.md) presenta cuatro obras de [[caravaggio]]:
+**Michael Stevens** («Art: Images of Conversión», 12_art.md) presenta cuatro obras de [[caravaggio]]:
 
 - ***The Calling of Saint Matthew***: el dedo de Cristo, cita oculta de la *Creación de Adán*, muestra a Cristo como el **nuevo Adán** que llama a los pecadores a ser sus amigos. La luz diagonal muestra que nuestras creencias sobre nosotros mismos no tienen relación con la llamada del Señor: «su invitación a la amistad se ofrece sin requisitos previos y se funda en su propia autoridad inmutable».
 - ***The Supper at Emmaus***: el reconocimiento de Cristo resucitado en la fracción del pan; Caravaggio deja sitio para otra silla, invitando al espectador. «Los que reconocemos que Jesús no está muerto sino vivo nunca somos los mismos».
 - ***The Incredulity of Saint Thomas***: Cristo no exige suprimir el escepticismo; ofrece su cuerpo como respuesta, la prueba herida del amor de Dios. «Cristo no se inquieta por sus dudas; al contrario, las acoge activamente para que sean absorbidas en un amor y compasión infinitos».
-- ***The Conversion on the Way to Damascus***: Cristo, fuera de los límites del lienzo, actúa como fuente de luz. Como escribió [[c_s_lewis]]: «Creo en el cristianismo como creo que ha salido el sol: no solo porque lo veo, sino porque por él veo todo lo demás». «San Pablo, cuya identidad entera se está rehaciendo en la luz y el calor de la presencia resucitada de Cristo».
+- ***The Conversión on the Way to Damascus***: Cristo, fuera de los límites del lienzo, actúa como fuente de luz. Como escribió [[c_s_lewis]]: «Creo en el cristianismo como creo que ha salido el sol: no solo porque lo veo, sino porque por él veo todo lo demás». «San Pablo, cuya identidad entera se está rehaciendo en la luz y el calor de la presencia resucitada de Cristo».
 
 Concluye con una meditación sobre la conversión como cambio fundamental: «Algo —mejor, alguien— llega y lo pone todo del revés», en una larga cadena de encuentros con Cristo —los pescadores, los niños, el ciego, el fariseo Saulo— que implican acciones que cambian la vida y aserciones que estremecen el alma.
 
@@ -38,4 +38,4 @@ Concluye con una meditación sobre la conversión como cambio fundamental: «Alg
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Michael Stevens, 12_art.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Michael Stevens, 12_art.md).

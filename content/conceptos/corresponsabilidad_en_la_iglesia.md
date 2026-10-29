@@ -29,11 +29,11 @@ El c. 127 CIC regula los actos colegiales y los actos que requieren el consentim
 
 > § 2. Quod attinet ad consensum:
 > 1º si agitur de actibus quos Superior valide nequit ponere sine consensu alicuius collegii vel coetus personarum, tum consensus ille requiritur ad valorem actus;
-> 2º si agitur de actibus quos Superior valide nequit ponere sine consensu alicuius personae, consensus est requirendus ad valorem actus; itemque, si Superior eiusque consilium consensus consensu sit denegatus, recedere debet ab agendi proposito.
+> 2º si agitur de actibus quos Superior valide nequit ponere sine consensu alicuius personae, consensus est requirendus ad valorem actus; itemque, si Superior eiusque consilium consensus consensu sit denegatus, recedere debet ab agendi propósito.
 
 > § 3. Quod attinet ad consilium:
 > 1º si agitur de actibus ad quos Superior valide nequit procedere sine consilio alicuius collegii vel coetus personarum, pariterque ad actus ad quos Superior valide nequit procedere sine consilio alicuius personae, Superior-consilium requiritur ad valorem actus;
-> 2º si agitur de actibus ad quos Superior valide nequit procedere sine consilio alicuius collegii vel coetus personarum, et consensus consensus consensus denegatus sit, Superior consentire debet ab agendi proposito. Si consensus consensus denegatur, Superior, retentis quidem rationibus, rem agere potest per se ipsum; sed, si consensus consensus denegatur consensus consensus consensus consensus consensus, Superior consentire debet ab agendi proposito.
+> 2º si agitur de actibus ad quos Superior valide nequit procedere sine consilio alicuius collegii vel coetus personarum, et consensus consensus consensus denegatus sit, Superior consentire debet ab agendi propósito. Si consensus consensus denegatur, Superior, retentis quidem rationibus, rem agere potest per se ipsum; sed, si consensus consensus denegatur consensus consensus consensus consensus consensus, Superior consentire debet ab agendi propósito.
 
 > § 4. Si consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus consensus.»
 
@@ -91,6 +91,14 @@ El proceso de renovación LC-RC 2009-2014 aplicó intensamente el principio de c
 
 ## Perspectivas por fuente
 
+### Según la CIC
+
+El CIC de 1983 regula la materia en los cc. 127, 443-459 (concilios plenarios y provinciales, sínodo diocesano, consejo presbiteral, consejo pastoral), 617-633 (gobierno de los religiosos).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Concilio Vaticano II fundamenta la corresponsabilidad en la eclesiología de comunión de *Lumen Gentium*, particularmente en sus nn. 8, 12, 18, 22-25, y en *Christus Dominus* sobre el oficio pastoral de los obispos.
+
 ### Según la Antología del Delegado Pontificio (AntDp-2015)
 
 El P. Ghirlanda dedica una conferencia entera a este principio (cf. AntDp-2015, `05_tercera_parte.md:1652-1918`), titulada «Función de los superiores. Corresponsabilidad y participación». En ella expone:
@@ -101,14 +109,6 @@ El P. Ghirlanda dedica una conferencia entera a este principio (cf. AntDp-2015, 
 4. La interpretación auténtica del 1-VIII-1985.
 5. La inadmisibilidad de la colegialidad exclusiva.
 6. La dinámica de búsqueda del consensus.
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Concilio Vaticano II fundamenta la corresponsabilidad en la eclesiología de comunión de *Lumen Gentium*, particularmente en sus nn. 8, 12, 18, 22-25, y en *Christus Dominus* sobre el oficio pastoral de los obispos.
-
-### Según la CIC
-
-El CIC de 1983 regula la materia en los cc. 127, 443-459 (concilios plenarios y provinciales, sínodo diocesano, consejo presbiteral, consejo pastoral), 617-633 (gobierno de los religiosos).
 
 ### Según Vita Consecrata
 

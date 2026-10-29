@@ -19,15 +19,15 @@ Para Juan, la cruz no es un fracaso sino la «hora» de Jesús, el momento de su
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+El CEC habla de la «gloria de la cruz» como misterio pascual (CEC 572, 651). La resurrección es la «glorificación» del cuerpo de Cristo (CEC 648).
 ### Jesús de Nazaret I (Benedicto XVI — JdN_I)
 
 **La «hora» como glorificación:** En Caná, Jesús declara que su «hora» no ha llegado. Esta «hora» es su «glorificación», en que cruz y resurrección se presentan como un todo único. La hora comienza cuando los corderos de la Pascua son sacrificados: Jesús derrama su sangre como el verdadero Cordero. La sobreabundancia de Caná es un signo de que ha comenzado la fiesta de Dios con la humanidad, su entregarse a sí mismo por los hombres. Este exceso es su «gloria» (JdN_I, p. 53s).
 
 **La Cruz como exaltación:** En Juan, la cruz es «exaltación» (Jn 3, 14; 8, 28; 12, 32-34). La «altura» del amor «hasta el extremo» (Jn 13, 1) coincide con la «altura» de Dios. En la cruz se revela el «Yo soy»: «Entonces sabréis que Yo soy» (Jn 8, 28). La zarza ardiente es imagen de la cruz: la suprema instancia de revelación y la cruz de Jesús son inseparables.
 
-### Catecismo de la Iglesia Católica (CEC)
-
-El CEC habla de la «gloria de la cruz» como misterio pascual (CEC 572, 651). La resurrección es la «glorificación» del cuerpo de Cristo (CEC 648).
 
 ## Relaciones doctrinales
 

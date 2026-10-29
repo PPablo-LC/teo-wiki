@@ -4,7 +4,7 @@ title: "107. El signo del matrimonio como sacramento de la Iglesia"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 26
 timestamp: 2026-08-01
-description: "Catequesis 107: el signo sacramental del matrimonio sobre el «lenguaje del cuerpo», el «profetismo del cuerpo», el hombre como autor de los significados, y la verdad del lenguaje vinculada al ethos conyugal — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 107: el signo sacramental del matrimonio sobre el «lenguaje del cuerpo», el «profetismo del cuerpo», el hombre como autor de los significados, y la verdad del lenguaje vinculada al ethos conyugal — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 
@@ -31,7 +31,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 El signo del matrimonio como sacramento de la Iglesia se constituye cada vez según esa dimensión que le es propia desde el «principio», y al mismo tiempo se constituye sobre el fundamento del amor nupcial de Cristo y de la Iglesia, como la expresión única e irrepetible de la alianza entre «este» hombre y «esta» mujer, que son ministros del matrimonio como sacramento de su vocación y de su vida.
 
-Al decir que el signo se constituye sobre la base del «lenguaje del cuerpo» se usa la analogía (*analogia attributionis*). Es obvio que el cuerpo, como tal, no «habla»: habla el hombre, releyendo lo que exige ser expresado precisamente basándose en el «cuerpo», en la masculinidad o femineidad del sujeto personal, más aún, basándose en lo que el hombre puede expresar únicamente por medio del cuerpo. En este sentido, el hombre —varón o mujer— no solo habla con el lenguaje del cuerpo, sino que permite al cuerpo hablar «por él» y «de parte de él»: en su nombre y con su autoridad personal. De este modo también el concepto de «profetismo del cuerpo» parece tener fundamento: el «profeta» es aquel que habla «por» y «de parte de»: en nombre y con la autoridad de una persona.
+Al decir que el signo se constituye sobre la base del «lenguaje del cuerpo» se usa la analogía (*analogía attributionis*). Es obvio que el cuerpo, como tal, no «habla»: habla el hombre, releyendo lo que exige ser expresado precisamente basándose en el «cuerpo», en la masculinidad o femineidad del sujeto personal, más aún, basándose en lo que el hombre puede expresar únicamente por medio del cuerpo. En este sentido, el hombre —varón o mujer— no solo habla con el lenguaje del cuerpo, sino que permite al cuerpo hablar «por él» y «de parte de él»: en su nombre y con su autoridad personal. De este modo también el concepto de «profetismo del cuerpo» parece tener fundamento: el «profeta» es aquel que habla «por» y «de parte de»: en nombre y con la autoridad de una persona.
 
 ### El signo inicial y su colmación continua
 

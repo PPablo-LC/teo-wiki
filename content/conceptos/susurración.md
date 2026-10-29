@@ -21,13 +21,13 @@ Tomado de la Vulgata (*susurratio*), designa el acto de quien habla mal de otro 
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la susurración en la cuestión 74 de la II-II. La susurración y la detracción coinciden en la materia (hablar mal del prójimo ocultamente) pero difieren en el fin: el detractor tiende a denigrar la fama, mientras que el susurrador (murmurador) tiende a romper la amistad (II-II, q.74, a.1). La susurración es pecado más grave que la detracción, porque la amistad es el más valioso de los bienes exteriores —"sin amigos nadie puede vivir" (Aristóteles, *Ethica* VIII)— y la susurración la destruye directamente (II-II, q.74, a.2). La susurración es más grave que la detracción incluso que la contumelia, "ya que el amigo es preferible al honor" (II-II, q.74, a.2). Proverbios 26,20: "Suprimido el murmurador, cesan las rencillas" (citado en II-II, q.74, a.1). Eclesiástico 28,11: "El hombre pecador turbará a los amigos y en medio de los que viven en paz pondrá enemistad" (citado en II-II, q.74, a.1).
-
 ### Según el Vocabulario de Teología Bíblica
 
 El término susurración se vincula al "silbo suave y apacible" de 1 Reyes 19,12 (la teofanía de Elías en el Horeb), donde Dios no se manifiesta en el huracán, el terremoto o el fuego, sino en el susurro de una brisa suave —una voz de silencio apacible— que simboliza la comunicación divina en la intimidad y el recogimiento.
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la susurración en la cuestión 74 de la II-II. La susurración y la detracción coinciden en la materia (hablar mal del prójimo ocultamente) pero difieren en el fin: el detractor tiende a denigrar la fama, mientras que el susurrador (murmurador) tiende a romper la amistad (II-II, q.74, a.1). La susurración es pecado más grave que la detracción, porque la amistad es el más valioso de los bienes exteriores —"sin amigos nadie puede vivir" (Aristóteles, *Ethica* VIII)— y la susurración la destruye directamente (II-II, q.74, a.2). La susurración es más grave que la detracción incluso que la contumelia, "ya que el amigo es preferible al honor" (II-II, q.74, a.2). Proverbios 26,20: "Suprimido el murmurador, cesan las rencillas" (citado en II-II, q.74, a.1). Eclesiástico 28,11: "El hombre pecador turbará a los amigos y en medio de los que viven en paz pondrá enemistad" (citado en II-II, q.74, a.1).
 
 ### Según Santa Teresa de Jesús
 

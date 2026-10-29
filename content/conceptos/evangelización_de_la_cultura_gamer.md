@@ -25,7 +25,7 @@ Este enfoque respeta la dignidad de los gamers como interlocutores: no son perso
 
 ### Según la Evangelization & Culture, Issue 12 (EAC-12)
 
-El artículo «God and Gaming» [EAC-12, 09] presenta el ministerio homónimo del Word on Fire Institute (YouTube y podcast) como un esfuerzo de evangelización de la cultura gamer. Sus impulsores — entre ellos Fr. Blake Britton y Bobby Angel — dialogan con gamers, analizan videojuegos populares desde una perspectiva católica y buscan puntos de contacto entre la fe y la experiencia del juego. La premisa es que «toda buena historia, toda gran aventura, apunta en última instancia a la historia de Cristo».
+El artículo «God and Gaming» [EAC-12, 09] presenta el ministerio homónimo del Word on Fire Institute (YouTube y podcast) como un esfuerzo de evangelización de la cultura gamer. Sus impulsores — entre ellos Fr. Blake Britton y Bobby Ángel — dialogan con gamers, analizan videojuegos populares desde una perspectiva católica y buscan puntos de contacto entre la fe y la experiencia del juego. La premisa es que «toda buena historia, toda gran aventura, apunta en última instancia a la historia de Cristo».
 
 El mismo enfoque impregna la devoción al Beato Carlo Acutis, presentado como el **patrono de la cultura gamer**: un adolescente de la generación digital que usaba los videojuegos y la informática cotidianamente y, al mismo tiempo, vivía una intensa vida eucarística. Su ejemplo muestra que la santidad no se alcanza renunciando a la cultura contemporánea, sino santificándola «desde dentro»: usando los dones de la era digital al servicio del Reino. El mundo gamer — y la cultura digital en general — es presentado como un espacio en que el testimonio personal de un joven santo puede llegar donde la predicación tradicional no alcanza [EAC-12, 09, 20].
 
@@ -52,6 +52,6 @@ Ya en el número 3 de *Evangelization & Culture* (EAC-3), Fr. Blake Britton hab�
 
 ## Referencias
 
-- EAC-12, 09_spotlight_gaming.md (Fr. Blake Britton, Bobby Angel, Jason & Rachel Bulman)
+- EAC-12, 09_spotlight_gaming.md (Fr. Blake Britton, Bobby Ángel, Jason & Rachel Bulman)
 - EAC-12, 20_spotlight_wof.md (testimonios de miembros, incluido Carlo Acutis)
 - EAC-3 (Fr. Blake Britton, "Videojuegos", wiki/conceptos/videojuegos.md)

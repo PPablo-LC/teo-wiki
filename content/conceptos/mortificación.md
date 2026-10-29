@@ -29,20 +29,6 @@ La mortificación no es un fin en sí misma, sino un medio para alcanzar la libe
 
 El CEC §2015 enseña que la vía de la perfección pasa por la cruz. No hay santidad sin renuncia y sin combate espiritual. La mortificación forma parte de la lucha ascética necesaria para crecer en la gracia.
 
-### Según el Enchiridion Symbolorum (Denzinger)
-
-**Inocencio XII** (1699, D‑1333) — Breve *Cum alias* contra Fenelón:
-
-**D‑1333**: «El abandono no es sino la abnegación o renuncia de sí mismo que Jesucristo nos exige en el Evangelio... Esa abnegación de nosotros mismos no es sino en cuanto al interés propio... Las pruebas extremas en que debe ejercitarse esta abnegación o abandono de sí mismo, son las tentaciones con las que un Dios celoso quiere purgar nuestro amor, no mostrándole refugio ni esperanza alguna en cuanto a su propio interés, ni siquiera el eterno.» Condenada. La condena afirma que la abnegación cristiana no puede extenderse hasta renunciar a la esperanza de la salvación eterna.
-
-### Colaciones II — Juan Casiano (ColCas-II)
-
-El abad [[abraham_simple|Abraham "el Simple"]] expone en la Conferencia XXIV la doctrina sobre la mortificación interior. Enseña que el monje debe combatir las pasiones mediante la paciencia y el dominio de sí. La mortificación no se limita a la abstinencia corporal, sino que abarca el dominio de la ira, la paciencia con los hermanos y la aceptación humilde de las propias limitaciones.
-
-El abad [[piamon|Piamón]] en la Conferencia XVIII presenta la obediencia cenobítica como medio de mortificación: el cenobita mortifica su propia voluntad sometiéndose al abad, imitando a Cristo que «se hizo obediente hasta la muerte» (Flp 2,8). La vida común es un campo de mortificación constante por la convivencia con hermanos de diversas condiciones.
-
-> **Referencia:** ColCas-II, Conferencias XVIII, XXIV
-
 ### Según Royo Marín (TPCr)
 
 Los principales aspectos de la mortificación según TPCr (n.225-252):
@@ -56,6 +42,20 @@ Los principales aspectos de la mortificación según TPCr (n.225-252):
 - **Mortificación de las pasiones**: dominio de las cuatro pasiones fundamentales (gozo, esperanza, dolor, temor)
 
 La mortificación voluntaria (n.232, 3º) es más perfecta que la mera aceptación pasiva de las cruces que Dios envía, pues toma la iniciativa y sale al paso del dolor.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XII** (1699, D‑1333) — Breve *Cum alias* contra Fenelón:
+
+**D‑1333**: «El abandono no es sino la abnegación o renuncia de sí mismo que Jesucristo nos exige en el Evangelio... Esa abnegación de nosotros mismos no es sino en cuanto al interés propio... Las pruebas extremas en que debe ejercitarse esta abnegación o abandono de sí mismo, son las tentaciones con las que un Dios celoso quiere purgar nuestro amor, no mostrándole refugio ni esperanza alguna en cuanto a su propio interés, ni siquiera el eterno.» Condenada. La condena afirma que la abnegación cristiana no puede extenderse hasta renunciar a la esperanza de la salvación eterna.
+
+### Colaciones II — Juan Casiano (ColCas-II)
+
+El abad [[abraham_simple|Abraham "el Simple"]] expone en la Conferencia XXIV la doctrina sobre la mortificación interior. Enseña que el monje debe combatir las pasiones mediante la paciencia y el dominio de sí. La mortificación no se limita a la abstinencia corporal, sino que abarca el dominio de la ira, la paciencia con los hermanos y la aceptación humilde de las propias limitaciones.
+
+El abad [[piamon|Piamón]] en la Conferencia XVIII presenta la obediencia cenobítica como medio de mortificación: el cenobita mortifica su propia voluntad sometiéndose al abad, imitando a Cristo que «se hizo obediente hasta la muerte» (Flp 2,8). La vida común es un campo de mortificación constante por la convivencia con hermanos de diversas condiciones.
+
+> **Referencia:** ColCas-II, Conferencias XVIII, XXIV
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 

@@ -23,14 +23,28 @@ El Concilio Vaticano I enseña que la razón humana puede conocer a Dios con cer
 
 ## Perspectivas por fuente
 
-### Según Robert Barron, *Arguing Religion* (ARGREL)
-Barron sostiene que fe y razón son mutuamente implicativas. La razón puede argumentar a favor de la existencia de Dios y de sus atributos (*teología natural*), proporcionando los *preambula fidei* que preparan la fe (*manuductio*). Sin embargo, muchas verdades reveladas trascienden la razón y exigen confianza en quien se revela (*Deus dixit*). El conocimiento de Dios por fe es como el conocimiento interpersonal: tras la investigación, se requiere confianza para conocer el corazón. Barron critica el cientificismo (reducción de todo conocimiento al científico) y el fideísmo (fe sin razón). Propone el modelo tomista de la *quaestio disputata* como paradigma para el diálogo público.
-
 ### Según el Catecismo (CEC)
 
 La razón humana, herida por el pecado, necesita la revelación y la gracia para alcanzar plenamente la verdad. Sin embargo, conserva su dignidad como facultad capaz de conocer la ley natural y de elevarse a Dios (§1954-1960). La aplicación de la ley natural varía según las circunstancias pero sus principios fundamentales son universales e inmutables.
 
 La fe y la razón se unen en la búsqueda de la verdad: la fe purifica la razón de errores y la fortalece para alcanzar verdades superiores.
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+**Dei Verbum 5**: Dios puede conocerse con certeza «por medio de las cosas creadas, con la luz natural de la razón humana».
+
+**Gaudium et Spes 15**: La inteligencia natural del hombre está herida por el pecado original, pero no destruida. Puede conocer a Dios, al hombre y el orden moral.
+
+**Gravissimum Educationis**: Las universidades católicas deben cultivar el diálogo entre fe y razón.
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás desarrolla la relación entre razón y voluntad. La razón (*intellectus*) conoce la verdad; la voluntad (*voluntas*) desea el bien. La razón práctica se ordena al bien común y fórmula mandamientos de la ley natural (SmTh Ia-IIae, q.90-108).
+
+La razón es participante de la ley eterna en cuanto puede ordenar los actos hacia su fin. Los primeros principios de la razón práctica son evidentes por sí mismos y se reducen al amor de Dios y del prójimo.
+
+### Según Robert Barron, *Arguing Religión* (ARGREL)
+Barron sostiene que fe y razón son mutuamente implicativas. La razón puede argumentar a favor de la existencia de Dios y de sus atributos (*teología natural*), proporcionando los *preambula fidei* que preparan la fe (*manuductio*). Sin embargo, muchas verdades reveladas trascienden la razón y exigen confianza en quien se revela (*Deus dixit*). El conocimiento de Dios por fe es como el conocimiento interpersonal: tras la investigación, se requiere confianza para conocer el corazón. Barron critica el cientificismo (reducción de todo conocimiento al científico) y el fideísmo (fe sin razón). Propone el modelo tomista de la *quaestio disputata* como paradigma para el diálogo público.
 
 ### Según Fides et Ratio (Juan Pablo II)
 
@@ -44,25 +58,11 @@ La encíclica *Fides et Ratio* enseña que fe y razón son como dos alas con las
 
 **Razón y fe no se oponen**: La fe no destruye la razón ni la razón agota la fe. «La fe pide que su objeto sea conocido con la razón; y la razón, en sus investigación, acepta la muerte» (FR §16).
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-**Dei Verbum 5**: Dios puede conocerse con certeza «por medio de las cosas creadas, con la luz natural de la razón humana».
-
-**Gaudium et Spes 15**: La inteligencia natural del hombre está herida por el pecado original, pero no destruida. Puede conocer a Dios, al hombre y el orden moral.
-
-**Gravissimum Educationis**: Las universidades católicas deben cultivar el diálogo entre fe y razón.
-
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás desarrolla la relación entre razón y voluntad. La razón (*intellectus*) conoce la verdad; la voluntad (*voluntas*) desea el bien. La razón práctica se ordena al bien común y formula mandamientos de la ley natural (SmTh Ia-IIae, q.90-108).
-
-La razón es participante de la ley eterna en cuanto puede ordenar los actos hacia su fin. Los primeros principios de la razón práctica son evidentes por sí mismos y se reducen al amor de Dios y del prójimo.
-
 ### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
 
 - La razón es «**coscienza della realtà secondo la totalità dei suoi fattori**» (Tischreden 188, 02; 189, 03; 46, 15).
 - Conocer es **adherir**: para conocer de verdad hace falta una «simpatía positiva» por la cosa (03).
-- La razón **no crea** la realidad: «la ragione come creatrice della realtà è la grande menzogna di tutta l'epoca moderna, da Cartesio in poi» («tutto è niente») (Tischreden 110, 13).
+- La razón **no crea** la realidad: «la ragione come creatrice della realtà è la grande menzogna di tutta l'época moderna, da Cartesio in poi» («tutto è niente») (Tischreden 110, 13).
 - No se puede separar la *ratio* del *affectus*: es la **[[libertad]]** la que puede arrancar el afecto de la razón (Tischreden 139, 09).
 - El verdadero problema es la **definición de razón** (realismo, razonabilidad, moralidad), contra la «ragione sopra ragione» ideológica (09, 15).
 
@@ -97,7 +97,7 @@ Giussani parte de una crítica de la mentalidad moderna: «la mentalidad moderna
 
 ### Giussani — Perché la Chiesa (PLDC)
 
-PLDC documenta la degeneración histórica del concepto de razón (Parte I, cap. 3, §5): el racionalismo — desde la madurez del Renacimiento — concibe una razón «che non ammette né interferenza né integrazioni dal di fuori», *norma sui* y *norma universi* (Spinoza); la *illuminatio* agustiniana se convierte en autoiluminación de la razón autónoma. Contra ella, Giussani reivindica la ley suprema del realismo: «è l'oggetto a dettare il metodo di conoscenza» — la razón como conciencia del real en la totalidad de sus factores, donde existe la categoría de la posibilidad (el racionalismo es «l'abolizione della categoria della possibilità»). El corazón del desafío: «Che cosa è l'uomo? Un nulla capace di Dio» (de Bérulle); y la constatación final de la crisis: el hombre sin Dios «non ha più misura».
+PLDC documenta la degeneración histórica del concepto de razón (Parte I, cap. 3, §5): el racionalismo — desde la madurez del Renacimiento — concibe una razón «che non ammette né interferenza né integrazioni dal di fuori», *norma sui* y *norma universi* (Spinoza); la *illuminatio* agustiniana se convierte en autoiluminación de la razón autónoma. Contra ella, Giussani reivindica la ley suprema del realismo: «è l'oggetto a dettare il método di conoscenza» — la razón como conciencia del real en la totalidad de sus factores, donde existe la categoría de la posibilidad (el racionalismo es «l'abolizione della categoría della possibilità»). El corazón del desafío: «Che cosa è l'uomo? Un nulla capace di Dio» (de Bérulle); y la constatación final de la crisis: el hombre sin Dios «non ha più misura».
 
 ### Giussani — Realtà e giovinezza. La sfida (REG)
 

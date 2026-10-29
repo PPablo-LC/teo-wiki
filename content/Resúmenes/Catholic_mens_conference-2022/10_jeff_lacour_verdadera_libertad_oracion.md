@@ -52,7 +52,7 @@ Jeff describe su batalla con la [[escrupulosidad]], la autoexigencia y la presi�
 
 ## El desierto y la libertad
 
-Jeff recurre a Jordan Peterson y al Éxodo: los israelitas en el desierto prefirieron volver a Egipto porque la libertad era incómoda. Así nosotros: preferimos esclavitudes conocidas a la libertad de la confianza en Dios. La oración requiere coraje, vulnerabilidad y salir al [[desierto]]. Jeff comparte su experiencia de retirarse de un grupo donde recibía afirmación para experimentar la incomodidad de no tener identidad falsa.
+Jeff recurre a Jordán Peterson y al Éxodo: los israelitas en el desierto prefirieron volver a Egipto porque la libertad era incómoda. Así nosotros: preferimos esclavitudes conocidas a la libertad de la confianza en Dios. La oración requiere coraje, vulnerabilidad y salir al [[desierto]]. Jeff comparte su experiencia de retirarse de un grupo donde recibía afirmación para experimentar la incomodidad de no tener identidad falsa.
 
 ## Conclusión
 

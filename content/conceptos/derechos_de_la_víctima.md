@@ -22,7 +22,7 @@ de los abusos.
 
 - **Acogida y escucha**: la persona ofendida tiene derecho a ser acogida con
   respeto y escuchada con paciencia (Ley de protección de menores, art. 4;
-  Vademecum CDF 2020).
+  Vademécum CDF 2020).
 - **Información**: ser informada de sus derechos y de los servicios a su
   disposición; de las fases del proceso y de su desenlace.
 - **Asistencia**: médica, social y psicológica de urgencia (art. 9); con
@@ -39,7 +39,7 @@ La doctrina del wiki integra estos derechos en el principio de la
 [[justicia]] eclesial: el delito de abuso no es solo infracción de una norma
 sino herida infligida a una persona imagen de Dios; la protección de menores
 es preludio de la credibilidad del Evangelio (cf. [[escándalo]]). Las
-*Líneas Guía* de la CDF (2011) y el *Vademecum* (2020) son la referencia
+*Líneas Guía* de la CDF (2011) y el *Vademécum* (2020) son la referencia
 procedimental; el flujo del wiki las procesa en los resúmenes correspondientes.
 
 ## Relaciones doctrinales
@@ -55,6 +55,6 @@ procedimental; el flujo del wiki las procesa en los resúmenes correspondientes.
 
 ## Referencias
 
-- CDF, *Vademecum* sobre las normas processuales para los delitos reservados (2020)
+- CDF, *Vademécum* sobre las normas processuales para los delitos reservados (2020)
 - Ley de protección de menores (arts. 4, 6, 8-9); Líneas Guía CDF (2011)
 - Resúmenes del wiki: Ley_protección_menores, Motu_proprio_protección_menores, Líneas_guia

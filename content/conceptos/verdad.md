@@ -157,8 +157,8 @@ Matt Nelson, en «Where Aristotle Meets Twitter», señala que las redes sociale
 
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
-- **La risa como vehículo de verdad:** George Bernard Shaw: «Si quieres decirle a alguien la verdad, mejor hazlo reír, o te matará». El humor desarma las defensas y permite decir lo que la agresividad cerraría (Angel). Chesterton: la risa «descongela el orgullo y desenrolla el secretismo».
-- **Verdad bajo la burla:** Steve Martin se burló durante décadas del relativismo (lista paródica de libros absurdos: «El relativismo es absurdo») y de la fe; sin embargo, incluso burlándose de la verdad, «Dios siempre está ahí»; sus canciones tardías celebran un universo «diseñado con propósito». La burla presupone la verdad que parodia.
+- **La risa como vehículo de verdad:** George Bernard Shaw: «Si quieres decirle a alguien la verdad, mejor hazlo reír, o te matará». El humor desarma las defensas y permite decir lo que la agresividad cerraría (Ángel). Chesterton: la risa «descongela el orgullo y desenrolla el secretismo».
+- **Verdad bajo la burla:** Steve Martín se burló durante décadas del relativismo (lista paródica de libros absurdos: «El relativismo es absurdo») y de la fe; sin embargo, incluso burlándose de la verdad, «Dios siempre está ahí»; sus canciones tardías celebran un universo «diseñado con propósito». La burla presupone la verdad que parodia.
 - **Sin verdad no hay chiste:** Joel Berry: en la cultura post-verdad no hay base para la comedia; cincuenta años de deconstrucción dejaron «nada que derribar». El chiste exige juicio sobre la realidad (cf. Scruton).
 
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)

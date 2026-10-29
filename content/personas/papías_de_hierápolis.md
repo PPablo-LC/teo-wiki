@@ -57,4 +57,4 @@ Papías atestigua que Marcos fue el intérprete de Pedro y que escribió con fid
 ## Referencias
 
 - Papías, *ap.* Eusebio, *Hist. Ecl.* 3.39.15.
-- *The Case for Jesus* (CfJ), Sesión 2, líneas [00:06:08]–[00:12:47].
+- *The Case for Jesús* (CfJ), Sesión 2, líneas [00:06:08]–[00:12:47].

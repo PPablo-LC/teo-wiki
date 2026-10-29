@@ -4,7 +4,7 @@ title: "2. Primer relato de la creación del hombre"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 6
 timestamp: 2026-07-28
-description: "Catequesis 2: análisis del primer relato de la creación (Gn 1) como clave del «principio» al que se remite Cristo — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 2: análisis del primer relato de la creación (Gn 1) como clave del «principio» al que se remite Cristo — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

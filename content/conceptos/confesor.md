@@ -21,17 +21,26 @@ El confesor debe tener potestad de orden (ser sacerdote) y facultad de jurisdicc
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula la figura del confesor en los cánones 965-986. Solo el sacerdote es ministro del sacramento de la penitencia (c. 965). Para absolver válidamente se requiere potestad de orden y facultad de ejercerla (c. 966). Gozan ipso iure de facultad de oír confesiones: el Romano Pontífice, los Cardenales, los Obispos (c. 967 §1). Por razón del oficio la tienen el Ordinario del lugar, el canónigo penitenciario y el párroco (c. 968 §1). La facultad solo debe concederse a presbíteros considerados aptos mediante examen (c. 970). Al oír confesiones, el sacerdote hace las veces de juez y de médico, ministro de justicia y misericordia divina (c. 978 §1). Debe comportarse con prudencia y discreción (c. 979). No debe negarse ni retrasarse la absolución si no duda de la buena disposición del penitente (c. 980). Debe imponer una satisfacción saludable (c. 981). El sigilo sacramental es inviolable (c. 983). En peligro de muerte, todo sacerdote, aun desprovisto de facultad, absuelve válida y lícitamente (c. 976).
 ### Según la Summa Theologiae (SmTh) — Suplemento
 
 **Suppl. q.8 — Ministro de la confesión:**
 
-a.1 — Solo el sacerdote tiene la potestad de las llaves en el sacramento de la penitencia. El poder de atar y desatar fue dado por Cristo a los apóstoles y a sus sucesores en el sacerdocio. a.2 — El obispo tiene la plenitud de la potestad de orden, y por tanto la jurisdicción suprema en el fuero interno dentro de su diócesis. a.3 — En caso de necesidad (peligro de muerte), cualquier sacerdote, aun sin jurisdicción ordinaria, puede absolver válida y lícitamente, porque la Iglesia suple la jurisdicción en virtud del bien común de la salvación de las almas. a.4 — La jurisdicción para absolver puede ser delegada por el superior competente (obispo, superior religioso) a otros sacerdotes idóneos. a.5 — El penitente a quien su propio confesor niega la absolución sin causa suficiente puede recurrir a otro sacerdote con jurisdicción. a.6 — El superior puede absolver a sus súbditos en cualquier caso no reservado. La reserva de pecados limita la jurisdicción del confesor no autorizado para ciertos pecados graves.
+a.1 — Solo el sacerdote es ministro de este sacramento: la gracia que se da en los sacramentos desciende de la Cabeza a los miembros, y solo quien ejerce ministerio sobre el verdadero cuerpo de Cristo —el sacerdote, que puede consagrar la Eucaristía— lo es de los sacramentos en que se da la gracia.
 
-**Suppl. q.8 a.2 (ad 1) — Poder de atar y desatar:** el sacerdote obra como instrumento de Dios, que es el autor principal de la gracia. La potestad de las llaves no solo perdona el pecado sino que también remite la reato de pena en cuanto está bajo la potestad de la Iglesia. La absolución sacramental actúa en el fuero interno como la sentencia judicial actúa en el fuero externo.
+a.2 — Como el bautismo, sacramento necesario, tiene dos ministros —el propio por oficio y el que lo confiere en caso de necesidad—, así en la penitencia puede oírse la confesión, en caso de necesidad, a quien no es el sacerdote propio. El sacramento tiene algo por parte del ministro —absolución e imposición de satisfacción— y algo por parte del que lo recibe —contrición y confesión—.
 
-### Según el Código de Derecho Canónico (CIC)
+a.3 — Fuera de la necesidad, quien no es sacerdote no puede oír la confesión ni siquiera de pecados veniales: el pecado venial no separa de Dios ni de los sacramentos, y no requiere confesión sacramental; basta un sacramental, como el agua bendita.
 
-El CIC regula la figura del confesor en los cánones 965-986. Solo el sacerdote es ministro del sacramento de la penitencia (c. 965). Para absolver válidamente se requiere potestad de orden y facultad de ejercerla (c. 966). Gozan ipso iure de facultad de oír confesiones: el Romano Pontífice, los Cardenales, los Obispos (c. 967 §1). Por razón del oficio la tienen el Ordinario del lugar, el canónigo penitenciario y el párroco (c. 968 §1). La facultad solo debe concederse a presbíteros considerados aptos mediante examen (c. 970). Al oír confesiones, el sacerdote hace las veces de juez y de médico, ministro de justicia y misericordia divina (c. 978 §1). Debe comportarse con prudencia y discreción (c. 979). No debe negarse ni retrasarse la absolución si no duda de la buena disposición del penitente (c. 980). Debe imponer una satisfacción saludable (c. 981). El sigilo sacramental es inviolable (c. 983). En peligro de muerte, todo sacerdote, aun desprovisto de facultad, absuelve válida y lícitamente (c. 976).
+a.4 — Es necesario confesar al propio sacerdote: a diferencia de los demás sacramentos, que consisten en recibir algo, la penitencia consiste en un acto del que lo recibe, y ese acto debe ejercerse ante el ministro que tiene jurisdicción sobre él (IV Concilio de Letrán, c. 21).
+
+a.5 — Puede confesarse con otro sacerdote en virtud de privilegio o de mandato: quien tiene jurisdicción puede delegar lo que cae bajo ella, porque la potestad de jurisdicción no se da en beneficio del ministro, sino del pueblo y de la gloria de Dios.
+
+a.6 — En peligro de muerte cualquier sacerdote absuelve, aunque carezca de jurisdicción: la necesidad no conoce ley, y la Iglesia, al reconocer la absolución en la hora de la muerte, le concede el uso de la jurisdicción.
+
+a.7 — La pena temporal se impone según el grado de la culpa: se impone para pagar la deuda y como remedio; en cuanto a la deuda, la cantidad de la pena corresponde radicalmente a la cantidad de la culpa, antes de que algo de ella se perdone.
 
 ## Ver también
 

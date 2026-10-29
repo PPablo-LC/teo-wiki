@@ -4,7 +4,7 @@ title: "12. Inocencia y desnudez"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 54
 timestamp: 2026-08-01
-description: "Catequesis 12: el análisis del pudor y de la ausencia originaria de vergüenza (Gén 2, 25) como plenitud de conciencia del significado del cuerpo, la comunicación interpersonal y la visión del hombre en Dios — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 12: el análisis del pudor y de la ausencia originaria de vergüenza (Gén 2, 25) como plenitud de conciencia del significado del cuerpo, la comunicación interpersonal y la visión del hombre en Dios — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

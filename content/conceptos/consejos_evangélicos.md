@@ -23,14 +23,6 @@ Los consejos remueven los principales obstáculos para la perfección de la cari
 
 ## Perspectivas por fuente
 
-### Según Pinckaers (FMC)
-
-Pinckaers trata los consejos evangélicos como parte integrante de la Ley nueva y razón de su carácter de «ley de libertad» (FMC caps. VII, XV:3). Santo Tomás enseña que la Ley evangélica se compone no solo de preceptos sino también de consejos, que son indicaciones para progresar hacia la perfección de la caridad. Los tres consejos principales (pobreza, castidad, obediencia) liberan de las preocupaciones del mundo y constituyen el fundamento del estado religioso.
-
-Pinckaers critica que la moral de los manuales (FMC cap. XI:1) separó los consejos de la moral común, reservándolos a los religiosos, mientras que la tradición tomista los dirige a todos los cristianos como medios de perfección. Esta separación contribuyó a divorciar la moral de la espiritualidad.
-
-[FMC caps. VII, XI:1, XV:3]
-
 ### Según el Catecismo (CEC)
 
 «Los consejos evangélicos están propuestos en su multiplicidad a todos los discípulos de Cristo. La perfección de la caridad a la cual son llamados todos los fieles implica, para quienes asumen libremente el llamamiento a la vida consagrada, la obligación de practicar la castidad en el celibato por el Reino, la pobreza y la obediencia» (§915). «La profesión de estos consejos en un estado de vida estable reconocido por la Iglesia es lo que caracteriza la vida consagrada a Dios» (§916).
@@ -52,6 +44,14 @@ La práctica de los consejos evangélicos constituye un verdadero holocausto ofr
 
 [TPCr, Parte II, n.171; Parte III, Libro III, n.728]
 
+
+### Según Pinckaers (FMC)
+
+Pinckaers trata los consejos evangélicos como parte integrante de la Ley nueva y razón de su carácter de «ley de libertad» (FMC caps. VII, XV:3). Santo Tomás enseña que la Ley evangélica se compone no solo de preceptos sino también de consejos, que son indicaciones para progresar hacia la perfección de la caridad. Los tres consejos principales (pobreza, castidad, obediencia) liberan de las preocupaciones del mundo y constituyen el fundamento del estado religioso.
+
+Pinckaers critica que la moral de los manuales (FMC cap. XI:1) separó los consejos de la moral común, reservándolos a los religiosos, mientras que la tradición tomista los dirige a todos los cristianos como medios de perfección. Esta separación contribuyó a divorciar la moral de la espiritualidad.
+
+[FMC caps. VII, XI:1, XV:3]
 
 ### Según Don y Misterio (DyM)
 

@@ -21,20 +21,9 @@ El Pueblo de Dios tiene su origen en la vocación de Abraham y la elección de I
 
 ## Perspectivas por fuente
 
-### Según la Dives in Misericordia (DM)
-
-El Pueblo de Dios de la Antigua Alianza hizo «una experiencia peculiar de la misericordia de Dios» a lo largo de su historia plurisecular; esta experiencia «era social y comunitaria, como también individual e interior» [DM §4]. El Antiguo Testamento proclama la misericordia del Señor y anima a los hombres a recurrir a ella. «El pueblo de la Antigua Alianza conoció esta miseria desde los tiempos del éxodo» y, ante el pecado del becerro de oro, «triunfó el Señor mismo, manifestándose solemnemente a Moisés como "Dios de ternura y de gracia, lento a la ira y rico en misericordia y fidelidad" (Ex 34,6)» [DM §4].
-
-La Iglesia, nuevo Pueblo de Dios, debe «dar testimonio de la misericordia de Dios en toda su misión» [DM §13], profesándola como «verdad salvífica de fe» y tratando de «introducirla y encarnarla en la vida» de los fieles y de todos los hombres de buena voluntad [DM §13]. Vivir «*in statu conversionis*» es «la componente más profunda de la peregrinación de todo hombre por la tierra *in statu viatoris*» [DM §13].
-
 ### Según el Catecismo (CEC)
 
 _(véase [[iglesia_pueblo_de_dios]] para el desarrollo catequístico principal)_
-
-### Giussani — Perché la Chiesa (PLDC)
-
-PLDC reconstruye la génesis histórica de la conciencia de pueblo en la primera cristiandad (Parte II, cap. 2). El nuevo pueblo hereda de Israel la idea de *elección* (Es 19,5-6: «un regno di sacerdoti e una nazione santa»; Lv 26,11-12; Ez 37,27), pero la revolución cultural más profunda del cristianismo consiste en evacuar todo carácter étnico de esa preferencia: el nuevo pueblo está formado por quienes Dios reúne mediante la fe en Cristo — «non c'è più giudeo né greco... poiché tutti voi siete uno in Cristo Gesù» (Gal 3,26-29; Col 3,11; 1 Cor 12,13). El término mismo lo expresa: *qahal Jahvé* → *ecclesia Dei*, donde el genitivo significa tanto que Dios es el contenido del interés de la asamblea como que es Dios mismo quien la reúne; por eso, «l'ecclesia è convocatio prima d'essere congregatio» (de Lubac). La Iglesia no se forma por adición de comunidades autónomas (contra el congregacionalismo): cada comunidad, por pequeña que sea — como la que se reunía en casa de Prisca y Aquila (Rm 16,3-5) —, vale en cuanto *emergencia* de la Iglesia total, que sin ella no tendría concreción histórica en aquel lugar.
-La palabra "Iglesia" significa "convocación": designa la asamblea de aquellos a quienes Dios convoca para formar el Pueblo de Dios (CEC §777). Las características del Pueblo de Dios: es el Pueblo de Dios, el sacerdocio real, la nación santa (CEC §782). Todo el Pueblo de Dios participa de las funciones de Cristo: sacerdote, profeta y rey (CEC §783-786). Se entra en el Pueblo de Dios por la fe y el Bautismo (CEC §804). Todos los hombres están invitados al Pueblo de Dios (CEC §836). El Pueblo de Dios es uno y único, y ha de extenderse por todo el mundo (CEC §831). La Iglesia es "el Pueblo santo de Dios" (CEC §823).
 
 ### Según el Código de Derecho Canónico (CIC)
 
@@ -54,6 +43,17 @@ Los bautizados son consagrados como casa espiritual y [[sacerdocio_común]], par
 
 El Pueblo de Dios está presente en todas las razas, y su catolicidad hace que cada parte colabore con las demás y con toda la Iglesia [ConcVatII, LG §13]. La Iglesia peregrinante es necesaria para la salvación [ConcVatII, LG §14].
 
+
+### Según la Dives in Misericordia (DM)
+
+El Pueblo de Dios de la Antigua Alianza hizo «una experiencia peculiar de la misericordia de Dios» a lo largo de su historia plurisecular; esta experiencia «era social y comunitaria, como también individual e interior» [DM §4]. El Antiguo Testamento proclama la misericordia del Señor y anima a los hombres a recurrir a ella. «El pueblo de la Antigua Alianza conoció esta miseria desde los tiempos del éxodo» y, ante el pecado del becerro de oro, «triunfó el Señor mismo, manifestándose solemnemente a Moisés como "Dios de ternura y de gracia, lento a la ira y rico en misericordia y fidelidad" (Ex 34,6)» [DM §4].
+
+La Iglesia, nuevo Pueblo de Dios, debe «dar testimonio de la misericordia de Dios en toda su misión» [DM §13], profesándola como «verdad salvífica de fe» y tratando de «introducirla y encarnarla en la vida» de los fieles y de todos los hombres de buena voluntad [DM §13]. Vivir «*in statu conversionis*» es «la componente más profunda de la peregrinación de todo hombre por la tierra *in statu viatoris*» [DM §13].
+
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC reconstruye la génesis histórica de la conciencia de pueblo en la primera cristiandad (Parte II, cap. 2). El nuevo pueblo hereda de Israel la idea de *elección* (Es 19,5-6: «un regno di sacerdoti e una nazione santa»; Lv 26,11-12; Ez 37,27), pero la revolución cultural más profunda del cristianismo consiste en evacuar todo carácter étnico de esa preferencia: el nuevo pueblo está formado por quienes Dios reúne mediante la fe en Cristo — «non c'è più giudeo né greco... poiché tutti voi siete uno in Cristo Gesù» (Gal 3,26-29; Col 3,11; 1 Cor 12,13). El término mismo lo expresa: *qahal Jahvé* → *ecclesia Dei*, donde el genitivo significa tanto que Dios es el contenido del interés de la asamblea como que es Dios mismo quien la reúne; por eso, «l'ecclesia è convocatio prima d'essere congregatio» (de Lubac). La Iglesia no se forma por adición de comunidades autónomas (contra el congregacionalismo): cada comunidad, por pequeña que sea — como la que se reunía en casa de Prisca y Aquila (Rm 16,3-5) —, vale en cuanto *emergencia* de la Iglesia total, que sin ella no tendría concreción histórica en aquel lugar.
+La palabra "Iglesia" significa "convocación": designa la asamblea de aquellos a quienes Dios convoca para formar el Pueblo de Dios (CEC §777). Las características del Pueblo de Dios: es el Pueblo de Dios, el sacerdocio real, la nación santa (CEC §782). Todo el Pueblo de Dios participa de las funciones de Cristo: sacerdote, profeta y rey (CEC §783-786). Se entra en el Pueblo de Dios por la fe y el Bautismo (CEC §804). Todos los hombres están invitados al Pueblo de Dios (CEC §836). El Pueblo de Dios es uno y único, y ha de extenderse por todo el mundo (CEC §831). La Iglesia es "el Pueblo santo de Dios" (CEC §823).
 
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 

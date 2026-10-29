@@ -40,7 +40,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[astros]] — los astros divinizados
 - [[naciones]] — las naciones sometidas a Dios
 - [[soberbia]] — los soberbios que abusan del poder
-- [[justicia]] — la justicia que Dios quiere que amen
+- [[justicia]] — la justicia que Dios quiere que amén
 - [[babel]] — el pecado colectivo de Babel
 - [[gloria]] — la gloria del Padre
 - [[milagro]] — los milagros que acreditan
@@ -63,7 +63,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 ## Contenido
 
-En todas las religiones es el poder un atributo esencial de la divinidad. La fe cristiana formula así el primer artículo de la revelación bíblica: «Creo en Dios Padre todopoderoso, creador del cielo y de la tierra.» Esta fórmula indica tres aspectos de la omnipotencia del verdadero Dios: es universal, pues Dios creó todas las cosas *Gen 1,1* *Jn 1,3*; es amante, pues Dios es el Padre que está en los cielos *Mt 6,9*; es misteriosa, pues sólo la fe puede discernirla en sus manifestaciones y abrirse a su acción salvadora *1Cor 1,18* *2Cor 12,9s*.
+En todas las religiones es el poder un atributo esencial de la divinidad. La fe cristiana fórmula así el primer artículo de la revelación bíblica: «Creo en Dios Padre todopoderoso, creador del cielo y de la tierra.» Esta fórmula indica tres aspectos de la omnipotencia del verdadero Dios: es universal, pues Dios creó todas las cosas *Gen 1,1* *Jn 1,3*; es amante, pues Dios es el Padre que está en los cielos *Mt 6,9*; es misteriosa, pues sólo la fe puede discernirla en sus manifestaciones y abrirse a su acción salvadora *1Cor 1,18* *2Cor 12,9s*.
 
 ### I. El poder de Yahveh, Dios de Israel
 
@@ -97,7 +97,7 @@ El comienzo del Génesis pone en claro los efectos de la voluntad de poder que y
 
 #### 1. La opresión del hombre por el hombre
 
-La opresión del hombre por el hombre aparece tan pronto como los poderosos olvidan que su poder les viene de Dios *Rom 13,1* *1Pe 2,13* *Jn 19,11* y que deben respetar en todo hombre a la imagen del todopoderoso *Gen 9,6*. El Faraón que no reconoce a Yahveh pretende mantener a su pueblo en esclavitud *Ex 5,2.6-18*. Los tiranos pretenden subyugar a las naciones *Is 14,12ss*. Los [[soberbia|soberbios]] abusan de su poder *Am 1,3-2,7*. El hecho de que Yahveh se sirva de las [[naciones]] paganas para castigar a su pueblo no excusa su injusta violencia *Is 47,6*: todavía más culpables son los que tienen el poder en Israel y abusan de él *Is 3,14s* *10,1s* *Miq 3,9ss* *Sal 58,2s*. Acuérdense los poderosos de aquel que los «juzgará poderosamente»: él es el Señor de todos y quiere que amen la [[justicia]] *Sab 1,1* *6,3-8*.
+La opresión del hombre por el hombre aparece tan pronto como los poderosos olvidan que su poder les viene de Dios *Rom 13,1* *1Pe 2,13* *Jn 19,11* y que deben respetar en todo hombre a la imagen del todopoderoso *Gen 9,6*. El Faraón que no reconoce a Yahveh pretende mantener a su pueblo en esclavitud *Ex 5,2.6-18*. Los tiranos pretenden subyugar a las naciones *Is 14,12ss*. Los [[soberbia|soberbios]] abusan de su poder *Am 1,3-2,7*. El hecho de que Yahveh se sirva de las [[naciones]] paganas para castigar a su pueblo no excusa su injusta violencia *Is 47,6*: todavía más culpables son los que tienen el poder en Israel y abusan de él *Is 3,14s* *10,1s* *Miq 3,9ss* *Sal 58,2s*. Acuérdense los poderosos de aquel que los «juzgará poderosamente»: él es el Señor de todos y quiere que amén la [[justicia]] *Sab 1,1* *6,3-8*.
 
 #### 2. Los poderes demoníacos
 

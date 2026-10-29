@@ -24,7 +24,7 @@ tags:
 
 ## Resumen temático
 
-Este octavo número de *Evangelization & Culture* está dedicado íntegramente al **humor** como fenómeno humano, don de Dios y vía de evangelización. La revista reúne ensayos sobre la teología de la risa (la risa como señal de criaturidad y de salud espiritual), el humor de los santos ([[san_felipe_neri]], [[santa_teresa_de_jesús]], [[fulton_sheen]], [[san_lorenzo]]), la [[eutrapelia]] aristotélico-tomista como virtud del ingenio, la [[sátira]] cristiana de tradición profética (Elías, Isaías, Chesterton, *The Babylon Bee*), la [[encarnación]] como «chiste divino» (Barron), el humor negro y sus criterios morales de discernimiento, la crítica a la [[cultura_de_la_cancelación]] y a la solemnidad soberbia que impide reírse de uno mismo, y testimonios de vida religiosa gozosa. El número incluye también poesía, análisis cinematográfico (*El gran Lebowski*, comedias de Christopher Guest, Steve Martin), arte pictórico (los bufones en la pintura) y un *spotlight* sobre Tolkien lector de literatura moderna.
+Este octavo número de *Evangelization & Culture* está dedicado íntegramente al **humor** como fenómeno humano, don de Dios y vía de evangelización. La revista reúne ensayos sobre la teología de la risa (la risa como señal de criaturidad y de salud espiritual), el humor de los santos ([[san_felipe_neri]], [[santa_teresa_de_jesús]], [[fulton_sheen]], [[san_lorenzo]]), la [[eutrapelia]] aristotélico-tomista como virtud del ingenio, la [[sátira]] cristiana de tradición profética (Elías, Isaías, Chesterton, *The Babylon Bee*), la [[encarnación]] como «chiste divino» (Barron), el humor negro y sus criterios morales de discernimiento, la crítica a la [[cultura_de_la_cancelación]] y a la solemnidad soberbia que impide reírse de uno mismo, y testimonios de vida religiosa gozosa. El número incluye también poesía, análisis cinematográfico (*El gran Lebowski*, comedias de Christopher Guest, Steve Martín), arte pictórico (los bufones en la pintura) y un *spotlight* sobre Tolkien lector de literatura moderna.
 
 ## Contenido
 
@@ -39,13 +39,13 @@ Este octavo número de *Evangelization & Culture* está dedicado íntegramente a
 | 7 | Stacks | Jennifer Frey | El ingenio significativo de Oscar Wilde; eutrapelia en Aristóteles y Tomás de Aquino; *El príncipe feliz*; *Dorian Gray* |
 | 8 | Film | Robert Mixa | *El gran Lebowski*; nihilismo y comedia en los Coen; simbolismo de fertilidad frente a la decadencia |
 | 9 | Spotlight: Tolkien | Holly Ordway (entrevistada por Brandon Vogt) | Tolkien lector de literatura moderna; puente entre el mundo medieval y el moderno; crítica a la biografía de Carpenter |
-| 10 | Minds | Andrew Petiprin | Steve Martin; anticomedia y búsqueda de la verdad; *Picasso at the Lapin Agile* |
+| 10 | Minds | Andrew Petiprin | Steve Martín; anticomedia y búsqueda de la verdad; *Picasso at the Lapin Agile* |
 | 11 | Poetry | Tom Zampino | «The Goose in the Window»; memoria y sonrisa vecinal |
 | 12 | Science | Jeremy McLellan | La ciencia del stand-up; la risa recuerda que somos criaturas; orgullo según Pieper |
 | 13 | Art | Tod Worner | Los bufones en la pintura (Chase, Zamacois, Matejko, Wyczółkowski, Nicol); el bufón como espejo de la verdad |
 | 14 | Satire | Joel Berry | Testimonio del editor de *The Babylon Bee*; Isaías 53,6 como chiste perfecto; la Encarnación y la Resurrección como broma a Satanás |
 | 15 | Features intro | — | ¿Qué es el humor? Alfred Delp: creados para la alegría; la jovialidad de Dios (Chesterton) |
-| 16 | Feature: Comedy's Life-Giving Nature | Bobby Angel | Naturaleza vivificante de la comedia; imago Dei; teoría de la incongruencia; Isaac «el que ríe»; problema del mal (Frankl) |
+| 16 | Feature: Comedy's Life-Giving Nature | Bobby Ángel | Naturaleza vivificante de la comedia; imago Dei; teoría de la incongruencia; Isaac «el que ríe»; problema del mal (Frankl) |
 | 17 | Feature: Taking Things Lightly | Elizabeth Scalia | Tomarse a la ligera; santos con humor (Sheen, San Lorenzo, Teresa de Ávila); corrección política; signo de contradicción |
 | 18 | Feature: Christopher Guest | John Kenneth Muir | Comedias de Christopher Guest; anhelo de validación; resiliencia; abrazo humanista |
 | 19 | Feature: Satire in an Age Without Humor | Kyle Mann | El arte de la sátira en una era sin humor; papel profético (Elías, Isaías); consuelo y trascendencia |
@@ -63,7 +63,7 @@ Este octavo número de *Evangelization & Culture* está dedicado íntegramente a
 
 - **Eutrapelia (SmTh II-II q.168 a.2):** El ingenio lúdico como virtud, término medio entre la bufonadería vulgar y la torpeza hosca (Aristóteles, Tomás de Aquino, Frey).
 
-- **Humor y humildad contra la soberbia:** «Si somos demasiado orgullosos para reír de nuestra propia absurdez, hemos perdido una oportunidad de conversión» (Zimmerer). «Satan fell by the force of gravity»: la gravedad como caída hacia la solemnidad, la ligereza como salto (Chesterton, Scalia).
+- **Humor y humildad contra la soberbia:** «Si somos demasiado orgullosos para reír de nuestra propia absurdez, hemos perdido una oportunidad de conversión» (Zimmerer). «Satán fell by the force of gravity»: la gravedad como caída hacia la solemnidad, la ligereza como salto (Chesterton, Scalia).
 
 - **Risa y criaturidad:** «Cuando reímos, nos recordamos que somos criaturas… no somos Dios». El orgullo «niega anti-realísticamente la relación entre criatura y Creador» (Pieper, McLellan).
 
@@ -102,7 +102,7 @@ Este octavo número de *Evangelization & Culture* está dedicado íntegramente a
 |---------|-----|----------------------|
 | Robert Barron (Bishop) | Obispo, fundador de Word on Fire | Encarnación como chiste divino; ortodoxia afirmativa; visión mediática |
 | San Felipe Neri | Patrono del humor y del gozo | Escuela de la Alegría Cristiana; fuego de Pentecostés; humildad juguetona |
-| G.K. Chesterton | Ensayista católico | Levity de los santos; «Satan fell by the force of gravity»; sátira y absurdo |
+| G.K. Chesterton | Ensayista católico | Levity de los santos; «Satán fell by the force of gravity»; sátira y absurdo |
 | Santa Teresa de Ávila | Doctora de la Iglesia | «Tiempo de penitencia y tiempo de perdices»; usar el humor para animar |
 | Fulton J. Sheen | Obispo, evangelizador mediático | «Divine sense of humor» como definición del santo |
 | San Lorenzo | Diácono y mártir | «¡Denme la vuelta, que por este lado ya estoy hecho!»: humor ante el martirio |
@@ -126,7 +126,7 @@ Este octavo número de *Evangelization & Culture* está dedicado íntegramente a
 | Sor Regina María Gorman OCD | Carmelita descalza | Santidad y hilaridad en la vida religiosa |
 | Tim Westermeyer | Pastor luterano | Conversión a través de la historia de la Iglesia; ecumenismo |
 | Holly Ordway | Erudita, Fellow de Word on Fire | Tolkien lector moderno |
-| Steve Martin | Cómico | Anticomedia y búsqueda subterránea de la verdad |
+| Steve Martín | Cómico | Anticomedia y búsqueda subterránea de la verdad |
 
 ## Resúmenes
 
@@ -142,13 +142,13 @@ Los resúmenes estructurados del número están en `wiki/Resúmenes/Evangelizati
 | 06 | [[06_wildes_wit_and_wisdom__jennifer_frey]] | Frey: ingenio de Wilde, eutrapelia en Aristóteles y Tomás |
 | 07 | [[07_the_dude_abides__matthew_becklo]] | *El gran Lebowski*: nihilismo y comedia en los Coen |
 | 08 | [[08_tolkiens_modern_reading__holly_ordway]] | Ordway: Tolkien lector de literatura moderna |
-| 09 | [[09_steve_martins_search_for_truth__dr_gregory_yeske]] | Steve Martin: anticomedia y búsqueda de la verdad |
+| 09 | [[09_steve_martins_search_for_truth__dr_gregory_yeske]] | Steve Martín: anticomedia y búsqueda de la verdad |
 | 10 | [[10_the_goose_in_the_window__tom_zampino]] | Zampino: «The Goose in the Window», memoria y sonrisa vecinal |
 | 11 | [[11_the_comedians_craft__dr_daniel_andreev]] | McLellan: ciencia del stand-up; risa y criaturidad |
 | 12 | [[12_the_jesting_image__dr_tod_worner]] | Worner: bufones en la pintura; espejo de la verdad |
 | 13 | [[13_the_babylon_bee_and_me__kyle_mann]] | Berry/Mann: testimonio del Bee; Isaías 53,6 como chiste perfecto |
 | 14 | [[14_introduction_to_the_features_what_is_humor]] | ¿Qué es el humor? Delp: creados para la alegría |
-| 15 | [[15_the_lifegiving_nature_of_comedy__bobby_angel]] | Angel: naturaleza vivificante de la comedia; incongruencia; Frankl |
+| 15 | [[15_the_lifegiving_nature_of_comedy__bobby_angel]] | Ángel: naturaleza vivificante de la comedia; incongruencia; Frankl |
 | 16 | [[16_taking_ourselves_lightly__elizabeth_scalia]] | Scalia: tomarse a la ligera; santos con humor |
 | 17 | [[17_why_the_comedies_of_christopher_guest_endure__john_kenneth_muir]] | Muir: comedias de Guest; anhelo de validación |
 | 18 | [[18_the_art_of_satire_in_a_humorless_age__kyle_mann]] | Mann: papel profético, aliento y trascendencia de la sátira |

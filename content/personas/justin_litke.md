@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: "Justin Litke"
-description: "Científico político estadounidense, profesor en la Catholic University of America, coautor (con Jonathan Askonas) del ensayo 'How to Think What to Love' del Issue 19 de Evangelization & Culture sobre la formación del carácter en la era de la IA."
+description: "Científico político estadounidense, profesor en la Catholic University of América, coautor (con Jonathan Askonas) del ensayo 'How to Think What to Love' del Issue 19 de Evangelization & Culture sobre la formación del carácter en la era de la IA."
 tags: ["ciencia_política", "educación", "inteligencia_artificial", "formación_del_carácter"]
 timestamp: 2026-09-07
 ---
@@ -11,11 +11,11 @@ timestamp: 2026-09-07
 > Área: Personas / Ciencia política y educación
 > Última actualización: 2026-09-07
 
-**Justin Litke** es un científico político estadounidense, profesor de política en la Catholic University of America (Washington, D.C.). Trabaja sobre teoría política clásica y moderna, y sobre la relación entre fe cristiana y vida pública.
+**Justin Litke** es un científico político estadounidense, profesor de política en la Catholic University of América (Washington, D.C.). Trabaja sobre teoría política clásica y moderna, y sobre la relación entre fe cristiana y vida pública.
 
 ## Contexto
 
-Entre sus intereses están la teoría política de la tradición católica y la formación humana. Con Jonathan Askonas, también de la Catholic University of America, ha reflexionado sobre tecnología, liberal education y el carácter en la era de la IA.
+Entre sus intereses están la teoría política de la tradición católica y la formación humana. Con Jonathan Askonas, también de la Catholic University of América, ha reflexionado sobre tecnología, liberal education y el carácter en la era de la IA.
 
 ## Aportación: How to Think What to Love (EAC-19)
 

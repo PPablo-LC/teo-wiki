@@ -4,7 +4,7 @@ title: "13. El misterio de la creación del hombre: varón y mujer"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 55
 timestamp: 2026-08-01
-description: "Catequesis 13: el verse recíproco a través del misterio de la creación, la paz de la mirada interior sin contraposición espíritu-cuerpo, y la «hermenéutica del don» como clave de la creación — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 13: el verse recíproco a través del misterio de la creación, la paz de la mirada interior sin contraposición espíritu-cuerpo, y la «hermenéutica del don» como clave de la creación — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

@@ -16,7 +16,7 @@ tags: ["resumen", "case for jesus"]
 
 ## Contenido
 
-- **Naturaleza del material**: estudio bíblico en formato vídeo (Lectio) de tres sesiones, basado en el libro *The Case for Jesus: The Biblical and Historical Evidence for Christ*. El orador es profesor de Sagrada Escritura (Augustine Institute, Denver). Es material apologético-catequético, no documento magisterial: sus afirmaciones históricas deben ponderarse con las fuentes citadas (Papías, Ireneo, Eusebio, Celso) y con la crítica bíblica moderna.
+- **Naturaleza del material**: estudio bíblico en formato vídeo (Lectio) de tres sesiones, basado en el libro *The Case for Jesús: The Biblical and Historical Evidence for Christ*. El orador es profesor de Sagrada Escritura (Augustine Institute, Denver). Es material apologético-catequético, no documento magisterial: sus afirmaciones históricas deben ponderarse con las fuentes citadas (Papías, Ireneo, Eusebio, Celso) y con la crítica bíblica moderna.
 - **Procesamiento**: transcripción automática con revisión ortográfica parcial (7 correcciones); los nombres propios y referencias horarias [hh:mm:ss] proceden del pipeline de vídeo-análisis.
-- **Posible imprecisión de atribución**: la fuente identifica al autor como «Dr. Grant Petrie»; la obra *The Case for Jesus* es de **Dr. Brant Pitre**. Verificar la identidad exacta del orador antes de citar.
+- **Posible imprecisión de atribución**: la fuente identifica al autor como «Dr. Grant Petrie»; la obra *The Case for Jesús* es de **Dr. Brant Pitre**. Verificar la identidad exacta del orador antes de citar.
 - **Frames y momentos visuales**: los JPG conservados documentan diapositivas clave (gráfico de manuscritos, títulos griegos, citas de los Padres, tabla comparativa de biografías antiguas y palabras de la institución).

@@ -21,10 +21,6 @@ Royo Marín dedica el artículo 5 del capítulo V al estudio completo de la dire
 
 ## Perspectivas por fuente
 
-### Según Juan Pablo II (PDV)
-
-*Pastores dabo vobis* presenta la dirección espiritual como medio indispensable de la formación espiritual de los candidatos al sacerdocio (PDV 50). Es «necesaria para que el candidato pueda conocer la verdad sobre sí mismo, descubrir sus talentos y sus límites, y madurar en el camino de la santidad» (PDV 50). La dirección espiritual debe ser ejercida por sacerdotes experimentados (PDV 50) y debe integrarse armónicamente con los demás medios de formación: la vida de oración, los sacramentos, la vida comunitaria y la formación intelectual.
-
 ### Según Royo Marín (TPCr)
 
 **Cualidades del director** (n.675-685): debe ser sabio (conocer teología dogmática, moral, ascética y mística), discreto (prudente, claro en sus consejos, firme en exigir su cumplimiento) y experimentado (con experiencia propia y ajena). Cualidades morales: intensa piedad, celo ardiente, bondad de carácter, profunda humildad, perfecto desinterés.
@@ -32,6 +28,10 @@ Royo Marín dedica el artículo 5 del capítulo V al estudio completo de la dire
 **Deberes del dirigido** (n.694-701): plena sinceridad y apertura del corazón, docilidad y obediencia, perseverancia y discreción absoluta. Con relación al director: respeto, confianza y amor sobrenatural.
 
 **Oficios del director** (n.686-692): conocer al alma dirigida, instruirla, estimularla, controlar su vida espiritual, corregir sus defectos, proceder progresivamente, guardar secreto.
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* presenta la dirección espiritual como medio indispensable de la formación espiritual de los candidatos al sacerdocio (PDV 50). Es «necesaria para que el candidato pueda conocer la verdad sobre sí mismo, descubrir sus talentos y sus límites, y madurar en el camino de la santidad» (PDV 50). La dirección espiritual debe ser ejercida por sacerdotes experimentados (PDV 50) y debe integrarse armónicamente con los demás medios de formación: la vida de oración, los sacramentos, la vida comunitaria y la formación intelectual.
 
 ### Según las Constituciones Legionarias (CLC-2020)
 

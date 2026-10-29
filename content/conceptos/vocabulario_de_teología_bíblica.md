@@ -1,20 +1,20 @@
 ---
 type: Concepto Teológico
-title: Vocabulario de teologia bíblica
-description: "Conjunto de terminos, conceptos y expresiones características del lenguaje bíblico que poseen un significado teologico especifico y que requieren conocimiento de las lenguas originales (hebreo.)"
+title: Vocabulario de teología bíblica
+description: "Conjunto de terminos, conceptos y expresiones características del lenguaje bíblico que poseen un significado teológico específico y que requieren conocimiento de las lenguas originales (hebreo.)"
 ---
-# Vocabulario de teologia bíblica
+# Vocabulario de teología bíblica
 
-> Area: Sagrada Escritura
+> Área: Sagrada Escritura
 > Ultima actualización: 2026-06-03
 
 ## Definición
 
-Conjunto de terminos, conceptos y expresiones características del lenguaje bíblico que poseen un significado teologico especifico y que requieren conocimiento de las lenguas originales (hebreo, arameo y griego) para su correcta comprensión e interpretación.
+Conjunto de terminos, conceptos y expresiones características del lenguaje bíblico que poseen un significado teológico específico y que requieren conocimiento de las lenguas originales (hebreo, arameo y griego) para su correcta comprensión e interpretación.
 
 ## Desarrollo doctrinal
 
-El vocabulario de teologia bíblica abarca terminos fundamentales como alianza (berit), justicia (sedaca), misericordia (hesed), verdad (emet), pecado (hatta'at), redención (ga'al), Reino de Dios (basileia), gracia (jaris), fe (pistis), entre muchos otros. La comprensión de estos terminos en sus lenguas originales permite una interpretación mas fiel de la Sagrada Escritura y evita anacronismos o lecturas superficiales. La Dei Verbum del Concilio Vaticano II insiste en la necesidad del estudio de las lenguas bíblicas para una exegesis adecuada.
+El vocabulario de teología bíblica abarca terminos fundamentales como alianza (berit), justicia (sedaca), misericordia (hesed), verdad (emet), pecado (hatta'at), redención (ga'al), Reino de Dios (basileia), gracia (jaris), fe (pistis), entre muchos otros. La comprensión de estos terminos en sus lenguas originales permite una interpretación mas fiel de la Sagrada Escritura y evita anacronismos o lecturas superficiales. La Dei Verbum del Concilio Vaticano II insiste en la necesidad del estudio de las lenguas bíblicas para una exégesis adecuada.
 
 ## Perspectivas por fuente
 

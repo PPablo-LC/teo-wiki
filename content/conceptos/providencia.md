@@ -21,6 +21,12 @@ Dios no es un ser lejano que creó el mundo y lo abandonó a su suerte. Por su p
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo dedica un artículo a la providencia (§301-314). «Dios cuida de todo con fuerza y suavidad» (Sb 8,1). Nada ocurre fuera de la providencia divina, pero Dios respeta la libertad de sus criaturas (§306). La providencia incluye la permisión del mal: «Dios no es, de ninguna manera, ni directa ni indirectamente, la causa del mal moral; sin embargo, lo permite para respetar la libertad de sus criaturas» (§311). Dios puede sacar bien del mal, como se ve en la muerte redentora de Cristo (§312).
+
+El Catecismo también trata la providencia en el contexto de la oración: «La oración nos conduce a una confianza cada vez más filial en nuestro Padre que está en los cielos» (§321-324). La fe en la providencia divina es fuente de esperanza en medio de las pruebas.
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la providencia divina en SmTh Iª q.22, con cuatro artículos.
@@ -33,19 +39,13 @@ Santo Tomás trata la providencia divina en SmTh Iª q.22, con cuatro artículos
 
 **a.4 — La providencia no impone necesidad a todas las cosas:** Dispone causas necesarias para efectos necesarios y causas contingentes para efectos contingentes. La providencia no destruye la contingencia ni la libertad, sino que las establece. La infalibilidad de la providencia se refiere a la certeza del conocimiento divino, no a la necesidad de los efectos.
 
-### Según el Catecismo (CEC)
+### Según Royo Marín (TPCr)
 
-El Catecismo dedica un artículo a la providencia (§301-314). «Dios cuida de todo con fuerza y suavidad» (Sb 8,1). Nada ocurre fuera de la providencia divina, pero Dios respeta la libertad de sus criaturas (§306). La providencia incluye la permisión del mal: «Dios no es, de ninguna manera, ni directa ni indirectamente, la causa del mal moral; sin embargo, lo permite para respetar la libertad de sus criaturas» (§311). Dios puede sacar bien del mal, como se ve en la muerte redentora de Cristo (§312).
-
-El Catecismo también trata la providencia en el contexto de la oración: «La oración nos conduce a una confianza cada vez más filial en nuestro Padre que está en los cielos» (§321-324). La fe en la providencia divina es fuente de esperanza en medio de las pruebas.
+Royo Marín trata la providencia divina en el contexto del abandono en Dios y la vida de oración (TPCr, Parte II, Libro I, Cap. 12-13). La confianza en la providencia es fundamento de la vida espiritual. La aceptación de la voluntad de Dios —tanto la significada (mandamientos) como la de beneplácito (circunstancias)— es requisito para la perfección cristiana. La doctrina de la providencia sostiene teológicamente la virtud de la [[confianza_en_dios]] y el [[abandono_en_la_providencia_divina]].
 
 ### Según Mons. Tihámer Tóth (JvC)
 
 La confianza en la divina Providencia es el fundamento del sufrimiento cristiano. «Dios, mi Padre, conoce mis males; por tanto, si permitió que me visitara esta desgracia, seguro que tenía un plan» [JvC, Cap. III]. El cristiano debe orar: «Hágase, Señor, tu voluntad, aunque no lo comprenda». JvC compara a Dios con el guía de montaña que conduce al turista por senderos pedregosos hacia la cumbre: «¿Por qué senderos pedregosos, duros, estrechos, incómodos, me ha conducido! —exclama el turista—. Sí, señor, por senderos incómodos; pero sepa que si le hubiera guiado por los caminos llanos y fáciles, no estaríamos a estas horas en esta magnífica altura, sino acaso a la orilla de un pantano» [JvC, Cap. III]. «Junto al telar de la Historia está sentado Dios eterno, cuyos designios nos son desconocidos. Sus pensamientos no son los nuestros y sus caminos no son nuestros senderos» [JvC, Cap. III].
-
-### Según Royo Marín (TPCr)
-
-Royo Marín trata la providencia divina en el contexto del abandono en Dios y la vida de oración (TPCr, Parte II, Libro I, Cap. 12-13). La confianza en la providencia es fundamento de la vida espiritual. La aceptación de la voluntad de Dios —tanto la significada (mandamientos) como la de beneplácito (circunstancias)— es requisito para la perfección cristiana. La doctrina de la providencia sostiene teológicamente la virtud de la [[confianza_en_dios]] y el [[abandono_en_la_providencia_divina]].
 
 ### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
 

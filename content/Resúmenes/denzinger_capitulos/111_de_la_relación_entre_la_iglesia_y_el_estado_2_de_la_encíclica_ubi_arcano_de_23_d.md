@@ -32,7 +32,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### PIO XI 1922-1939
+### PÍO XI 1922-1939
 
 ## De la relación entre la Iglesia y el Estado (2) [De la Encíclica Ubi arcano, de 23 de diciembre de 1922]
 
@@ -114,7 +114,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## PIO XI 1922-1939
+## PÍO XI 1922-1939
 
 Documentos de Pío XI (D-2190 a D-2231).
 

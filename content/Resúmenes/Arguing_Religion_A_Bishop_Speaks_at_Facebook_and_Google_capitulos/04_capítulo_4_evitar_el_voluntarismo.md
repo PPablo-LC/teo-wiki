@@ -10,7 +10,7 @@ tags: ["resumen", apologética, voluntarismo, posmodernidad]
 
 # Capítulo 4 — Evitar el voluntarismo
 
-> 📄 **Fuente original:** `04_chapter_four.md` — *Arguing Religion: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 4: «Avoid Voluntarism».
+> 📄 **Fuente original:** `04_chapter_four.md` — *Arguing Religión: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 4: «Avoid Voluntarism».
 
 ## Conceptos básicos referenciados en este capítulo
 
@@ -46,7 +46,7 @@ Ese voluntarismo —el énfasis extremo en la *potentia absoluta* divina— repr
 
 ### Reacción moderna y muerte de Dios
 
-Como suele ocurrir en la historia de las ideas, una posición fuerte suscita una oposición igualmente fuerte. El Dios percibido como opresivo y arbitrario en su libertad fue alejado del mundo por los deístas, identificado con el universo por Spinoza, absorbido en el yo soberano por Hegel y espiritualizado en neutralidad por románticos como Schleiermacher y Emerson. Pronto los pensadores ya no vieron necesidad de ese Dios voluntarista, entendido —con razón— como enemigo del florecimiento humano, y lo retiraron de escena con fanfarria. Feuerbach proclamó su ateísmo con el grito «el no a Dios es el sí al hombre»; Marx con el eslogan «la religión es el opio del pueblo»; el «loco» de Nietzsche gritó «Dios ha muerto, y nosotros lo hemos matado». Así como el Dios voluntarista está dotado de *potentia absoluta*, el yo voluntarista ejerce un poder creador de verdad y valor. Nadie lo articuló más claramente que Nietzsche, que exaltó al *Übermensch*, el héroe en quien la voluntad de poder rompe todo sistema moral e intelectual que la constriñe. Jordan Peterson señala con razón que Nietzsche no vivió la eliminación de Dios y la liberación de la voluntad humana como algo eufórico: veía que abría un abismo.
+Como suele ocurrir en la historia de las ideas, una posición fuerte suscita una oposición igualmente fuerte. El Dios percibido como opresivo y arbitrario en su libertad fue alejado del mundo por los deístas, identificado con el universo por Spinoza, absorbido en el yo soberano por Hegel y espiritualizado en neutralidad por románticos como Schleiermacher y Emerson. Pronto los pensadores ya no vieron necesidad de ese Dios voluntarista, entendido —con razón— como enemigo del florecimiento humano, y lo retiraron de escena con fanfarria. Feuerbach proclamó su ateísmo con el grito «el no a Dios es el sí al hombre»; Marx con el eslogan «la religión es el opio del pueblo»; el «loco» de Nietzsche gritó «Dios ha muerto, y nosotros lo hemos matado». Así como el Dios voluntarista está dotado de *potentia absoluta*, el yo voluntarista ejerce un poder creador de verdad y valor. Nadie lo articuló más claramente que Nietzsche, que exaltó al *Übermensch*, el héroe en quien la voluntad de poder rompe todo sistema moral e intelectual que la constriñe. Jordán Peterson señala con razón que Nietzsche no vivió la eliminación de Dios y la liberación de la voluntad humana como algo eufórico: veía que abría un abismo.
 
 ### Sartre, la Corte Suprema y Foucault
 

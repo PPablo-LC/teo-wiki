@@ -19,7 +19,7 @@ tags: ["resumen", "evangelization and culture - 19 capitulos"]
 - [[bien_y_mal]] — la IA en la gran pantalla como choque simbólico del bien y del mal
 - [[fe]] — la fe omnipresente en la cultura, aun sin convicción personal del director
 - [[evangelización_de_la_cultura]] — la fe expresada en la cultura y el cine
-- [[ángeles]] — término religioso asumido por la cultura («the angel thing»)
+- [[ángeles]] — término religioso asumido por la cultura («the ángel thing»)
 
 ## Contenido
 

@@ -26,7 +26,7 @@ Si María es el Arca, su cuerpo es la morada de Dios en la tierra. El Arca antig
 
 ## La Asunción
 
-El Arca verdadera está en el cielo. El cuerpo que contuvo la Vida no podía conocer la corrupción. Juan Damasceno lo formula: «¿cómo podría la corrupción tocar el cuerpo que contuvo la Vida?». La Asunción es la consecuencia del Arca y de la nueva Eva.
+El Arca verdadera está en el cielo. El cuerpo que contuvo la Vida no podía conocer la corrupción. Juan Damasceno lo fórmula: «¿cómo podría la corrupción tocar el cuerpo que contuvo la Vida?». La Asunción es la consecuencia del Arca y de la nueva Eva.
 
 ## Signo de resurrección
 
@@ -36,4 +36,4 @@ María asunta es primicia y anticipo de la resurrección de los creyentes: lo qu
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `06_assumed_into_heaven`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `06_assumed_into_heaven`

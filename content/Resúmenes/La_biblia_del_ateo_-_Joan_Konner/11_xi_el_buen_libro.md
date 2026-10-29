@@ -29,7 +29,7 @@ Dan Barker: crees en un libro donde hablan animales, magos, brujas, demonios, do
 
 ### La Biblia y los esclavos (Quarles)
 
-Benjamin Quarles: Frederick Douglass afirmó que sería infinitamente mejor soltar a los esclavos con una brújula y una pistola que darles la Biblia.
+Benjamín Quarles: Frederick Douglass afirmó que sería infinitamente mejor soltar a los esclavos con una brújula y una pistola que darles la Biblia.
 
 ### La Biblia y los niños (Green)
 

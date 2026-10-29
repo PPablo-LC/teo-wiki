@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "St. Benedict, Patron Saint"
+title: "St. Benedict, Patrón Saint"
 fuente: Evangelization and culture - 16_capitulos
 capítulo: 5
 timestamp: 2026-09-02
-description: "Resumen de 'St. Benedict, Patron Saint' — Evangelization and culture - 16_capitulos"
+description: "Resumen de 'St. Benedict, Patrón Saint' — Evangelization and culture - 16_capitulos"
 tags: ["resumen", "evangelization and culture - 16 capitulos"]
 ---
 
-# St. Benedict, Patron Saint
+# St. Benedict, Patrón Saint
 
 ## Conceptos básicos referenciados
 
@@ -25,7 +25,7 @@ tags: ["resumen", "evangelization and culture - 16 capitulos"]
 - [[cristo]] — Cristo como núcleo del ser y núcleo de la vida
 - [[san_escolástica]] — gemela de San Benito
 
-## St. Benedict, Patron Saint
+## St. Benedict, Patrón Saint
 
 El autor Bert Ghezzi reflexiona sobre la vida de San Benito para apreciar por qué el papa Benedicto XVI eligió su nombre y lo tomó como patrón de su papado.
 

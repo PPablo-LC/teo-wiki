@@ -4,7 +4,7 @@ title: "22. Conocimiento conyugal y procreación"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 64
 timestamp: 2026-08-01
-description: "Catequesis 22: el ciclo bíblico «conocimiento-generación», la generación como toma de posesión de la propia humanidad, el «conocimiento» frente al eros platónico, y la ley del sufrimiento y de la muerte (Gén 3) — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 22: el ciclo bíblico «conocimiento-generación», la generación como toma de posesión de la propia humanidad, el «conocimiento» frente al eros platónico, y la ley del sufrimiento y de la muerte (Gén 3) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

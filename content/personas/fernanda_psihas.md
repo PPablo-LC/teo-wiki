@@ -41,4 +41,4 @@ Fernanda Psihas encarna la compatibilidad de la [[ciencia_y_fe]]: su vocación c
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Fernanda Psihas, 20_mission_psihas.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Fernanda Psihas, 20_mission_psihas.md).

@@ -23,14 +23,6 @@ El acto moralmente bueno supone la bondad simultánea del objeto, del fin y de l
 
 ## Perspectivas por fuente
 
-### Según Pinckaers (FMC)
-
-Pinckaers trata los actos humanos como parte fundamental de la moral (FMC cap. III). El conocimiento moral distingue cuatro niveles: fontal (experiencia directa del bien), reflejo (conciencia moral), reflexión (elaboración racional) y conocimiento teórico (sistematización científica). El acto humano no puede entenderse solo desde la razón teórica, sino desde la experiencia viva del bien.
-
-En la estructura de la Suma (FMC cap. IX), santo Tomás sitúa los actos humanos (Ia-IIae qq.6-21) como antesala del tratado de las pasiones, virtudes, ley y gracia. La moral de los manuales (FMC cap. XI) redujo los actos humanos a un análisis casuístico del acto obligatorio, perdiendo la conexión con la bienaventuranza y las virtudes.
-
-[FMC caps. I:1, III:1, IX:3 (A.5), XI:2]
-
 ### Según el Catecismo (CEC)
 
 «Es, por tanto, erróneo juzgar de la moralidad de los actos humanos considerando sólo la intención que los inspira o las circunstancias» (§1756). «No está permitido hacer el mal para obtener un bien» (§1756). El CEC rechaza explícitamente el consecuencialismo y el proporcionalismo.
@@ -45,6 +37,14 @@ Santo Tomás trata sistemáticamente los actos humanos en Ia-IIae qq.6-21. Los *
 - **Tres fuentes de la moralidad (q.18):** La bondad o malicia del acto humano depende de tres fuentes: el objeto elegido (q.18 a.2), que da la especie moral; el fin o intención (q.18 a.4), que añade una segunda bondad; y las circunstancias (q.18 a.3), que modifican accidentalmente la moralidad. Un acto es bueno cuando lo son simultáneamente las tres fuentes; basta una sola fuente mala para que el acto sea malo.
 
 - **Mérito y demérito (q.21):** El acto humano, por su bondad o malicia, tiene razón de [[mérito]] o demérito ante la comunidad humana y ante [[dios|Dios]] (q.21 aa.3-4), y es laudable o culpable por estar en nuestra potestad (q.21 a.2).
+### Según Pinckaers (FMC)
+
+Pinckaers trata los actos humanos como parte fundamental de la moral (FMC cap. III). El conocimiento moral distingue cuatro niveles: fontal (experiencia directa del bien), reflejo (conciencia moral), reflexión (elaboración racional) y conocimiento teórico (sistematización científica). El acto humano no puede entenderse solo desde la razón teórica, sino desde la experiencia viva del bien.
+
+En la estructura de la Suma (FMC cap. IX), santo Tomás sitúa los actos humanos (Ia-IIae qq.6-21) como antesala del tratado de las pasiones, virtudes, ley y gracia. La moral de los manuales (FMC cap. XI) redujo los actos humanos a un análisis casuístico del acto obligatorio, perdiendo la conexión con la bienaventuranza y las virtudes.
+
+[FMC caps. I:1, III:1, IX:3 (A.5), XI:2]
+
 
 ## Ver también
 

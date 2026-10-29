@@ -21,6 +21,10 @@ El Concilio Vaticano II enseñó que «toda la Iglesia es misionera» (c. 781 CI
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Ad Gentes* enseña que la Iglesia es enviada por Dios a las gentes para ser el sacramento universal de la salvación [ConcVatII, AG §1]. La misión se realiza mediante la actividad por la cual la Iglesia «se hace presente a todos los hombres y pueblos para conducirlos a la fe, la libertad y la paz de Cristo» [ConcVatII, AG §5].
+
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II insiste en la dimensión misionera de la Iglesia en Europa. «La Iglesia en Europa y en todos los continentes debe darse cuenta de que siempre y en todas partes es Iglesia misionera (*in statu missionis*). La misión pertenece de tal modo a su naturaleza, que nunca y en ninguna parte, ni siquiera en los países de sólida tradición cristiana, puede dejar de ser misionera» [MI, cap. 19].
@@ -28,10 +32,6 @@ Juan Pablo II insiste en la dimensión misionera de la Iglesia en Europa. «La I
 «La Iglesia debe ser incansable en esta misión recibida de Cristo. Debe ser humilde y valiente, como Cristo mismo y como sus Apóstoles. No puede desanimarse ni siquiera ante disidencias, protestas o cualquier tipo de acusación» [MI, cap. 19]. «Sobre todo, no puede dejar de proclamar el Evangelio. [...] Este deber [...] surge del saber muy bien que, bajo el cielo, ningún otro nombre nos puede salvar, sino uno solo: el de Cristo» [MI, cap. 19].
 
 «¡Cristo, sí, Iglesia, no!», objetan algunos. «Pero es una apertura aparente. Cristo, en efecto, cuando es aceptado realmente, lleva siempre consigo la Iglesia, que es su Cuerpo místico» [MI, cap. 19]. «Cristo no existe sin la Encarnación, Cristo no existe sin la Iglesia» [MI, cap. 19].
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Ad Gentes* enseña que la Iglesia es enviada por Dios a las gentes para ser el sacramento universal de la salvación [ConcVatII, AG §1]. La misión se realiza mediante la actividad por la cual la Iglesia «se hace presente a todos los hombres y pueblos para conducirlos a la fe, la libertad y la paz de Cristo» [ConcVatII, AG §5].
 
 ### Según la Evangelii Gaudium (EG)
 

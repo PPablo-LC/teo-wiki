@@ -4,7 +4,7 @@ title: "111. La verdad sobre el amor en el Cantar"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 30
 timestamp: 2026-08-01
-description: "Catequesis 111: la verdad del amor y el lenguaje del cuerpo, la búsqueda y la inquietud del eros, la imposibilidad de posesión de la persona y el ágape que lleva a plenitud al eros (1 Cor 13) — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 111: la verdad del amor y el lenguaje del cuerpo, la búsqueda y la inquietud del eros, la imposibilidad de posesión de la persona y el ágape que lleva a plenitud al eros (1 Cor 13) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

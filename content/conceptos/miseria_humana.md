@@ -28,6 +28,14 @@ La miserabilidad humana no es el último palabra sobre el hombre. La historia de
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«La herida del pecado original afecta a la naturaleza humana en su capacidad natural» (CEC §405). El Catecismo distingue entre la «culpa heredada» y sus «consecuencias», que incluyen la debilidad de la voluntad y la inclinación al pecado (concupiscencia). «La inocencia original se perdió; quedan las huellas de esa ofensa» (CEC §404).
+
+### Según el Concilio Vaticano II
+
+«Los hombres y mujeres se ven a sí mismos amenazados por múltiples formas de mal: el pecado, que los hace inclinarse hacia el mal; y la muerte, que los acosa continuamente» (GS §10). El Concilio reconoce la «miseria» como condición del hombre sin Dios, pero también su aspiración a la liberación: «La Iglesia conoce bien que este mensaje responde a las más profundas aspiraciones del corazón humano» (GS §10).
+
 ### Según la Summa Theologiae (SmTh)
 
 **Iª-IIae q.5 — Sobre las consecuencias del pecado original:**
@@ -45,14 +53,6 @@ a.3 — La concupiscencia no es pecado en sí misma, sino la inclinación al mal
 **Iª-IIae q.109 — Sobre la libertad humana tras el pecado:**
 
 a.1 — Tras el pecado original, el hombre puede obrar el bien o el mal, pero le resulta más difícil obrar el bien sin la gracia. La libertad subsiste, pero está debilitada. Sin la gracia sanante, el hombre no puede merecer la vida eterna ni obrar el bien sobrenatural (SmTh Iª-IIae q.109 a.1).
-
-### Según el Catecismo (CEC)
-
-«La herida del pecado original afecta a la naturaleza humana en su capacidad natural» (CEC §405). El Catecismo distingue entre la «culpa heredada» y sus «consecuencias», que incluyen la debilidad de la voluntad y la inclinación al pecado (concupiscencia). «La inocencia original se perdió; quedan las huellas de esa ofensa» (CEC §404).
-
-### Según el Concilio Vaticano II
-
-«Los hombres y mujeres se ven a sí mismos amenazados por múltiples formas de mal: el pecado, que los hace inclinarse hacia el mal; y la muerte, que los acosa continuamente» (GS §10). El Concilio reconoce la «miseria» como condición del hombre sin Dios, pero también su aspiración a la liberación: «La Iglesia conoce bien que este mensaje responde a las más profundas aspiraciones del corazón humano» (GS §10).
 
 ### Según Royo Marín (TPCr)
 

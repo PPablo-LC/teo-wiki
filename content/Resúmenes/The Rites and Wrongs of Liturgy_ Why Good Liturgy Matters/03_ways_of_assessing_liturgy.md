@@ -35,7 +35,7 @@ La pregunta "¿Cómo lo hicimos?" presentada como una encuesta de cajas de verif
 
 El autor examina varios criterios de evaluación:
 
-**Rubricas ([[rubricas]]):** El estándar rubrical pregunta si la acción se realizó conforme a las reglas de los libros litúrgicos. Sus debilidades son: es fácil seguir reglas sin alcanzar el objetivo de por qué se hace algo; el énfasis en el mínimo necesario conduce al minimalismo; las rubricas se convierten en cuestiones de cosas que conciernen solo a unos pocos ministros; y las reglas quedan obsoletas mientras surgen prácticas nuevas no cubiertas.
+**Rúbricas ([[rubricas]]):** El estándar rubrical pregunta si la acción se realizó conforme a las reglas de los libros litúrgicos. Sus debilidades son: es fácil seguir reglas sin alcanzar el objetivo de por qué se hace algo; el énfasis en el mínimo necesario conduce al minimalismo; las rúbricas se convierten en cuestiones de cosas que conciernen solo a unos pocos ministros; y las reglas quedan obsoletas mientras surgen prácticas nuevas no cubiertas.
 
 **Lo hermoso (estética):** Los seres humanos apreciamos la belleza y hacemos vínculos implícitos entre bondad, verdad y belleza. Sin embargo, los rasgos de la belleza varían entre culturas, épocas y personas. La [[liturgia]] no es una sala de conciertos. La verdadera buena liturgia tendrá una belleza propia que será intrínseca a ella, independientemente de si los elementos exteriores son de "mal gusto". Esta belleza se deriva del objetivo de la liturgia más que ser un ingrediente que se añade.
 

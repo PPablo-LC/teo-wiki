@@ -14,7 +14,7 @@ timestamp: 2026-10-15
 # Crisis
 
 ## Definición
-Giussani distingue entre **crisis** (del griego *krino*, «cribar», «juzgar») y negación: «La parola crisi […] crisi e critica automaticamente coincidono con negazione» — crítica que no es sinónimo de rechazo, sino expresión de la genialidad humana (*Il rischio educativo*, II, 7-11).
+Giussani distingue entre **crisis** (del griego *krino*, «cribar», «juzgar») y negación: «La parola crisi […] crisi e critica automáticamente coincidono con negazione» — crítica que no es sinónimo de rechazo, sino expresión de la genialidad humana (*Il rischio educativo*, II, 7-11).
 
 ## Desarrollo doctrinal
 

@@ -1,7 +1,7 @@
 ---
 type: Documento
 title: "Retratos de santos"
-description: "Diez retratos de santos predicados por Antonio Maria Sicari OCD en los itinerarios cuaresmales del Centro Cultural La Via (Brescia, 1986-1987), sobre la santidad como vocación universal, don y tarea."
+description: "Diez retratos de santos predicados por Antonio María Sicari OCD en los itinerarios cuaresmales del Centro Cultural La Via (Brescia, 1986-1987), sobre la santidad como vocación universal, don y tarea."
 tags:
   - hagiografía
   - santidad
@@ -22,7 +22,7 @@ timestamp: 2026-09-26
 ## Definición
 
 **Retratos de santos** (código RetS) es un conjunto de predicaciones
-cuaresmales de **Antonio Maria Sicari OCD**, pronunciadas en el Centro
+cuaresmales de **Antonio María Sicari OCD**, pronunciadas en el Centro
 Cultural «La Via» de Brescia en los itinerarios de Cuaresma de 1986 y
 1987, cuyo eje declarado es la «contemplación del rostro de los santos».
 La edición española fue publicada por Editorial Encuentro (Madrid, 2009).

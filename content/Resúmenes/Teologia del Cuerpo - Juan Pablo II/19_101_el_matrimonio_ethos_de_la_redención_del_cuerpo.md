@@ -4,7 +4,7 @@ title: "101. El matrimonio, «ethos» de la redención del cuerpo"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 19
 timestamp: 2026-08-01
-description: "Catequesis 101: el matrimonio como sacramento primordial confirmado sobre el misterio de la redención, el ethos de la redención del cuerpo, y el mandamiento «No adulterarás» — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 101: el matrimonio como sacramento primordial confirmado sobre el misterio de la redención, el ethos de la redención del cuerpo, y el mandamiento «No adulterarás» — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

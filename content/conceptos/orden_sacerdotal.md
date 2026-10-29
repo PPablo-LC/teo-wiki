@@ -83,24 +83,6 @@ El sacerdote, en virtud del sacramento del Orden, actúa *in persona Christi Cap
 
 El CIC regula el sacramento del orden en los cánones 1008-1054. Mediante el orden, los ministros sagrados quedan constituidos con carácter indeleble para apacentar el pueblo de Dios, desempeñando en la persona de Cristo Cabeza las funciones de enseñar, santificar y regir (c. 1008). Los órdenes son el episcopado, el presbiterado y el diaconado (c. 1009 §1). Es ministro de la ordenación el Obispo consagrado (c. 1012). La ordenación episcopal requiere mandato pontificio (c. 1013) y al menos dos Obispos consagrantes (c. 1014). Solo el varón bautizado recibe válidamente la ordenación (c. 1024). Para la ordenación lícita se requieren las debidas cualidades, que no afecte irregularidad o impedimento, y los documentos requeridos (c. 1025). El presbiterado requiere veinticinco años cumplidos y suficiente madurez (c. 1031 §1). Los aspirantes deben ser formados con preparación esmerada (c. 1027) y hacer ejercicios espirituales al menos cinco días (c. 1039). Se requiere la confirmación previa (c. 1033). Quienes han recibido las órdenes sagradas atentan inválidamente el matrimonio (c. 1087).
 
-### Según Royo Marín (TPCr)
-
-El orden sacerdotal es «el sacramento que perpetúa en la Iglesia el sacerdocio de Cristo».
-
-«Sin sacerdotes, no habría eucaristía, no habría sacrificio de la misa, no habría perdón de los pecados en la penitencia. Los sacerdotes son los canales ordinarios por los que Cristo derrama su gracia sobre las almas. Ellos son los dispensadores de los misterios de Dios.»
-
-Sobre el carácter indeleble:
-«El carácter del orden es lo más alto que puede recibir una criatura en esta tierra. No se borra ni siquiera con la infidelidad o la apostasía. Un sacerdote, aunque sea condenado, sigue siendo sacerdote para siempre, aunque sin facultad para ejercer su ministerio. Este carácter será en el cielo su gloria, o en el infierno su ignominia.»
-
-Sobre los grados del sacerdocio:
-- **Obispo**: plenitud del sacerdocio, sucesor de los apóstoles
-- **Presbítero**: colaborador del obispo, participa de su sacerdocio
-- **Diácono**: servidor de la comunidad
-
-### Según la Recopilación de mensajes a las mujeres (Muj)
-
-La colección incluye la Carta Apostólica *Ordinatio Sacerdotalis* (22-V-1994) y la respuesta de la Congregación para la Doctrina de la Fe (28-X-1995). Juan Pablo II declara, en virtud de su ministerio de confirmar en la fe, que «la Iglesia no tiene en modo alguno la facultad de conferir la ordenación sacerdotal a las mujeres, y que este dictamen debe ser considerado como definitivo por todos los fieles de la Iglesia» [Muj 41 §1, Ordinatio Sacerdotalis 4]. La CDF respondió que esta doctrina pertenece al depósito de la fe, pues «basada en la Palabra de Dios escrita y constantemente conservada y aplicada en la Tradición de la Iglesia desde el principio, ha sido propuesta infaliblemente por el magisterio ordinario y universal» [Muj 40]. El Papa subraya que el hecho de que «ella [María] no recibiera la misión propia de los Apóstoles ni el sacerdocio ministerial muestra claramente que la no admisión de las mujeres a la ordenación sacerdotal no puede significar una menor dignidad ni una discriminación hacia ellas» [Muj 41 §3, Ordinatio Sacerdotalis 3]. La diversidad en la misión no supone menoscabo de la igualdad en la dignidad personal [Muj 41 §3].
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el sacramento del Orden en la IIIa Pars, q.63-64 (sobre el carácter), y más extensamente en el Suplemento, q.34-40.
@@ -118,6 +100,24 @@ Santo Tomás trata el sacramento del Orden en la IIIa Pars, q.63-64 (sobre el ca
 **Impedimentos (Suppl. q.39).** El sexo femenino es impedimento para la validez del sacramento, pues la mujer no puede significar la eminencia de grado que el Orden confiere (q.39 a.1). Los niños y quienes carecen de uso de razón pueden recibir válidamente las órdenes menores —porque no requieren acto del recipiente— pero no las mayores (q.39 a.2). La esclavitud es impedimento para la licitud, no para la validez (q.39 a.3). El homicidio —incluso por legítima defensa— produce irregularidad (q.39 a.4). La ilegitimidad de nacimiento y los defectos corporales notables son impedimentos para la licitud (q.39 a.5-6).
 
 **Potestad episcopal (Suppl. q.40).** Sobre el sacerdocio debe haber una potestad episcopal, pues el sacerdote depende de una potestad humana superior en sus actos secundarios (jurisdicción, ordenación), aunque no en el principal (consagrar) (q.40 a.4). El episcopado no es un Orden como sacramento (pues no imprime carácter distinto del sacerdotal), pero sí es un orden como oficio jerárquico (q.40 a.5). Sobre todos los obispos está el Romano Pontífice, que posee la potestad suprema para la unidad de toda la Iglesia (q.40 a.6).
+
+### Según Royo Marín (TPCr)
+
+El orden sacerdotal es «el sacramento que perpetúa en la Iglesia el sacerdocio de Cristo».
+
+«Sin sacerdotes, no habría eucaristía, no habría sacrificio de la misa, no habría perdón de los pecados en la penitencia. Los sacerdotes son los canales ordinarios por los que Cristo derrama su gracia sobre las almas. Ellos son los dispensadores de los misterios de Dios.»
+
+Sobre el carácter indeleble:
+«El carácter del orden es lo más alto que puede recibir una criatura en esta tierra. No se borra ni siquiera con la infidelidad o la apostasía. Un sacerdote, aunque sea condenado, sigue siendo sacerdote para siempre, aunque sin facultad para ejercer su ministerio. Este carácter será en el cielo su gloria, o en el infierno su ignominia.»
+
+Sobre los grados del sacerdocio:
+- **Obispo**: plenitud del sacerdocio, sucesor de los apóstoles
+- **Presbítero**: colaborador del obispo, participa de su sacerdocio
+- **Diácono**: servidor de la comunidad
+
+### Según la Recopilación de mensajes a las mujeres (Muj)
+
+La colección incluye la Carta Apostólica *Ordinatio Sacerdotalis* (22-V-1994) y la respuesta de la Congregación para la Doctrina de la Fe (28-X-1995). Juan Pablo II declara, en virtud de su ministerio de confirmar en la fe, que «la Iglesia no tiene en modo alguno la facultad de conferir la ordenación sacerdotal a las mujeres, y que este dictamen debe ser considerado como definitivo por todos los fieles de la Iglesia» [Muj 41 §1, Ordinatio Sacerdotalis 4]. La CDF respondió que esta doctrina pertenece al depósito de la fe, pues «basada en la Palabra de Dios escrita y constantemente conservada y aplicada en la Tradición de la Iglesia desde el principio, ha sido propuesta infaliblemente por el magisterio ordinario y universal» [Muj 40]. El Papa subraya que el hecho de que «ella [María] no recibiera la misión propia de los Apóstoles ni el sacerdocio ministerial muestra claramente que la no admisión de las mujeres a la ordenación sacerdotal no puede significar una menor dignidad ni una discriminación hacia ellas» [Muj 41 §3, Ordinatio Sacerdotalis 3]. La diversidad en la misión no supone menoscabo de la igualdad en la dignidad personal [Muj 41 §3].
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

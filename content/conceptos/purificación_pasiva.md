@@ -23,15 +23,15 @@ En la noche de los sentidos, Dios priva al alma de los consuelos sensibles de la
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
-
-TPCr, Tercera Parte, Libro II, cap. IV-V: Royo Marín describe extensamente la purificación pasiva, distinguiendo la noche de los sentidos y la noche del espíritu. Sigue a San Juan de la Cruz y a Santa Teresa, y da criterios para el discernimiento entre aridez espiritual y depresión natural.
-
 ### Según la Summa Theologiae (SmTh)
 
 I-II, q.88, a.1: La pena del pecado es también medicinal. La purificación pasiva tiene un carácter medicinal y preparatorio.
 
 II-II, q.24, a.9: El crecimiento de la caridad implica purificación.
+### Según Royo Marín (TPCr)
+
+TPCr, Tercera Parte, Libro II, cap. IV-V: Royo Marín describe extensamente la purificación pasiva, distinguiendo la noche de los sentidos y la noche del espíritu. Sigue a San Juan de la Cruz y a Santa Teresa, y da criterios para el discernimiento entre aridez espiritual y depresión natural.
+
 
 ## Distinciones importantes
 

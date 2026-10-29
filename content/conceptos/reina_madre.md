@@ -41,7 +41,7 @@ Hahn dedica el capítulo 4 a la institución de la *gebirah* y la convierte en l
 
 [HHQ, cap. 4]
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre desarrolla la *gebirah* como clave de la realeza de María y responde con ella a la objeción de la «reina del cielo» de Jeremías:
 
@@ -78,4 +78,4 @@ Pitre desarrolla la *gebirah* como clave de la realeza de María y responde con 
 - Lc 1, 32–33.43
 - Scott Hahn, *The Bible and the Virgin Mary*, lección 7 (BMV)
 - Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 4
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), cap. 4
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), cap. 4

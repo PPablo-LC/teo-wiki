@@ -39,6 +39,13 @@ Este conocimiento no era defecto, sino signo de la integridad de su humanidad. S
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica
+
+El Catecismo enseña que la humanidad de Cristo fue dotada de una alma humana verdadera, dotada de inteligencia y voluntad reales (CEC 471-474). El Concilio de Calcedonia (451) afirma que Cristo es verdadero Dios y verdadero hombre, «semejante a nosotros en todo menos en el pecado». Esto implica que Cristo poseía un conocimiento humano auténtico y completo.
+
+### Concilio Vaticano II
+
+El Concilio Vaticano II reafirma la plenitud de la humanidad de Cristo y su condición de modelo para los creyentes (GS 22), lo que incluye el desarrollo progresivo de su conocimiento humano como arquetipo del crecimiento en sabiduría.
 ### Summa Theologiae (Santo Tomás de Aquino)
 
 En la *Summa Theologiae*, Santo Tomás dedica cuatro cuestiones al conocimiento de Cristo (qq. 9-12).
@@ -49,13 +56,6 @@ En la **cuestión 11** (sobre el conocimiento infuso), Tomás explica que Cristo
 
 En la **cuestión 12** (sobre el conocimiento adquirido), Tomás sostiene que Cristo conocía las cosas sensibles abstrayendo de la experiencia, como cualquier hombre (q. 12 a. 2). Esto es necesario para la integridad de la naturaleza humana. Cristo creció en sabiduría, no porque aumentara su conocimiento de Dios, sino porque su humanidad se desarrolló en la plenitud de sus capacidades naturales. La frase de Lc 2, 52 se refiere a este crecimiento en el conocimiento adquirido.
 
-### Catecismo de la Iglesia Católica
-
-El Catecismo enseña que la humanidad de Cristo fue dotada de una alma humana verdadera, dotada de inteligencia y voluntad reales (CEC 471-474). El Concilio de Calcedonia (451) afirma que Cristo es verdadero Dios y verdadero hombre, «semejante a nosotros en todo menos en el pecado». Esto implica que Cristo poseía un conocimiento humano auténtico y completo.
-
-### Concilio Vaticano II
-
-El Concilio Vaticano II reafirma la plenitud de la humanidad de Cristo y su condición de modelo para los creyentes (GS 22), lo que incluye el desarrollo progresivo de su conocimiento humano como arquetipo del crecimiento en sabiduría.
 
 ## Distinciones importantes
 

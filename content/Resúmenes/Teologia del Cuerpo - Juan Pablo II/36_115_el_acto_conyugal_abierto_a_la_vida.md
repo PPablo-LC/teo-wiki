@@ -4,7 +4,7 @@ title: "115. El acto conyugal abierto a la vida"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 36
 timestamp: 2026-08-01
-description: "Catequesis 115: la norma de Humanæ vitæ sobre el acto conyugal abierto a la vida, su carácter razonable, su pertenencia a la ley natural y al orden moral revelado, y su fundamento en la teología del cuerpo — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 115: la norma de Humanæ vitæ sobre el acto conyugal abierto a la vida, su carácter razonable, su pertenencia a la ley natural y al orden moral revelado, y su fundamento en la teología del cuerpo — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

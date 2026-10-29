@@ -32,7 +32,7 @@ El Pentateuco narra la formación del pueblo de Israel: un pueblo sin leyes care
 
 ### Según José Luis Sicre (IAT)
 
-**La cuestión del autor.** Sicre dedica el capítulo 5 de su *Introducción al Antiguo Testamento* a la autoría mosaica. La tradición antigua atribuía el Pentateuco a Moisés, y esa atribución fue asumida por Cristo y los apóstoles; las primeras dudas aparecen en Abraham ibn Esdras, Hobbes, Spinoza y Richard Simon. Los argumentos contra la teoría tradicional son cuatro:
+**La cuestión del autor.** Sicre dedica el capítulo 5 de su *Introducción al Antiguo Testamento* a la autoría mosaica. La tradición antigua atribuía el Pentateuco a Moisés, y esa atribución fue asumida por Cristo y los apóstoles; las primeras dudas aparecen en Abraham ibn Esdras, Hobbes, Spinoza y Richard Simón. Los argumentos contra la teoría tradicional son cuatro:
 
 - **Anacronismos**: referencias a realidades posteriores a Moisés.
 - **Duplicados y triplicados**: dos o tres versiones de los mismos hechos (dos relatos de la creación, dos decálogos, dos relatos del diluvio).

@@ -35,6 +35,10 @@ Artículo «revelación»: Señala que la revelación bíblica no se carga con e
 
 Artículo «liberación/libertad»: Denuncia la falsificación gnóstica de la libertad cristiana en Corinto («todo me está permitido»), que Pablo corrige.
 
+### Según la Summa Theologiae (SmTh)
+
+III, q.5, a.1: Santo Tomás rechaza el error de Valentín, que afirmaba que Cristo asumió un cuerpo celeste, no terreno.
+
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 D-64 (Tomus Damasi): Anatema a los que niegan la verdadera humanidad de Cristo, implícitamente contra el docetismo gnóstico.
@@ -46,10 +50,6 @@ D-710 (Concilio de Florencia): Anatema contra Valentín, que afirmaba que Cristo
 D-2071–2109 (Pascendi, San Pío X): Condena del modernismo, que reproduce principios gnósticos (inmanencia, evolución del dogma, separación entre Cristo histórico y Cristo de la fe).
 
 D-2174 (San Pío X, sobre autenticidad de las Pastorales): Descarta objeciones basadas en supuestos errores gnósticos ya introducidos.
-
-### Según la Summa Theologiae (SmTh)
-
-III, q.5, a.1: Santo Tomás rechaza el error de Valentín, que afirmaba que Cristo asumió un cuerpo celeste, no terreno.
 
 ### Según Cruzando el umbral de la esperanza (Juan Pablo II)
 

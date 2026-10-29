@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "**V** - **UNA DIMORA COME METODO**"
+title: "**V** - **UNA DIMORA COME MÉTODO**"
 fuente: Affezione_e_dimora-Volume_5-Luigi_Giussani
 capítulo: 25
 timestamp: 2026-09-17
-description: "Resumen de '**V** - **UNA DIMORA COME METODO**' — Affezione_e_dimora-Volume_5-Luigi_Giussani"
+description: "Resumen de '**V** - **UNA DIMORA COME MÉTODO**' — Affezione_e_dimora-Volume_5-Luigi_Giussani"
 tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 ---
 
-# **V** - **UNA DIMORA COME METODO**
+# **V** - **UNA DIMORA COME MÉTODO**
 
 ## Conceptos básicos referenciados
 
@@ -23,7 +23,7 @@ Capítulo titular de la **Parte V** de *Affezione e dimora*, dedicada al tema de
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | **V** - **UNA DIMORA COME METODO** |
+| 1 | H1 | **V** - **UNA DIMORA COME MÉTODO** |
 
 ## Secciones incluidas
 

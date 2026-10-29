@@ -1,13 +1,13 @@
 ---
 type: Análisis Doctrinal
-title: "Trent Horn — The Hard Sayings of Jesus: Análisis doctrinal"
+title: "Trent Horn — The Hard Sayings of Jesús: Análisis doctrinal"
 timestamp: 2026-06-06
 description: "Conferencia de Trent Horn (Catholic Answers) en el Scriptures Virtual Summit del Word on Fire Institute."
 ---
-# Trent Horn — The Hard Sayings of Jesus: Análisis doctrinal
+# Trent Horn — The Hard Sayings of Jesús: Análisis doctrinal
 
 > Tipo: Análisis doctrinal
-> Fuente: raw/Para_analizar-raw/Scriptures_Virtual_Summit_Word_on_Fire/Trent Horn_The Hard Sayings of Jesus
+> Fuente: raw/Para_analizar-raw/Scriptures_Virtual_Summit_Word_on_Fire/Trent Horn_The Hard Sayings of Jesús
 > Fecha de análisis: 2026-06-06
 
 ## Resumen del texto

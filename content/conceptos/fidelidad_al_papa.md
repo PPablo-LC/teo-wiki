@@ -25,7 +25,7 @@ La eclesiología católica ve en el Papa el «principio y fundamento perpetuo y 
 
 El capítulo 7 presenta la fidelidad de don Bosco con sus expresiones célebres:
 
-- **En el momento contrario**: cuando todos — incluidos los anticlericales — gritaban «viva Pio IX» esperando un Papa liberal, don Bosco enseñaba a sus jóvenes a gritar «viva il Papa»: fidelidad al ministerio, no al clima.
+- **En el momento contrario**: cuando todos — incluidos los anticlericales — gritaban «viva Pío IX» esperando un Papa liberal, don Bosco enseñaba a sus jóvenes a gritar «viva il Papa»: fidelidad al ministerio, no al clima.
 - **La imagen del polipo**: él se decía «attaccato al pontefice più che il polipo allo scoglio».
 - **Obediencia sin cálculo**: interrogado sobre la cuestión romana, respondía: «Io sono col Papa, sono cattolico, obbedisco al Papa ciecamente... Se vogliamo essere cattolici, dobbiamo pensare e credere, come pensa e crede il Papa».
 - **Fidelidad como opción en disputa**: en una época en que «preti patrioti» politizaban a los jóvenes, la fidelidad al Papa era también un criterio de discernimiento social y político, no solo devocional.

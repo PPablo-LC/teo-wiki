@@ -29,6 +29,10 @@ La obediencia de María: su fiat es el modelo de toda respuesta del alma a Dios 
 
 El voto de obediencia, como consejo evangélico, somete la voluntad al superior legítimo en conformidad con la regla y constituciones (c. 601). Todos los clérigos tienen obligación de obediencia y reverencia al Romano Pontífice y al Ordinario propio (c. 273). Los fieles tienen el deber de obedecer a los pastores sagrados como representantes de Cristo (c. 212 §1). En la vida religiosa, los súbditos deben obedecer con prontitud y humildad (c. 618). Los superiores deben usar su autoridad con espíritu de servicio (c. 618). El Romano Pontífice es la suprema autoridad a quien todos deben obediencia (c. 331).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Obediencia»] La obediencia bíblica es adhesión libre al designio de Dios, no sumisión pasiva. En la creación, los astros acuden gozosos a la voz de Dios (Bar 3,34s). El drama comienza con la desobediencia de Adán (Rom 5,19), que contrasta con la fe obediente de Abraham (Gen 12,1; 22,2). La alianza implica una obediencia de amor (Ex 24,7; Dt 11,13-22). Cristo es nuestra obediencia: «se hizo obediente hasta la muerte y muerte de cruz» (Flp 2,8), y por su obediencia somos constituidos justos (Rom 5,19). El cristiano obedece al Evangelio, a la Iglesia (2Tes 3,14) y a las autoridades legítimas (Rom 13,1-7), pero «hay que obedecer a Dios más que a los hombres» (Act 4,19).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Perfectae Caritatis* §14 trata de la obediencia religiosa: «los religiosos por la profesión de la obediencia, ofrecen a Dios, como sacrificio de sí mismos, la consagración completa de su propia voluntad, y mediante ella se unen de manera más constante y segura a la divina voluntad salvífica». Siguiendo el ejemplo de Cristo, «se someten en fe a los Superiores, que hacen las veces de Dios, y mediante ellos sirven a todos los hermanos en Cristo» (PC §14). «Esta obediencia religiosa no mengua en manera alguna la dignidad de la persona humana, sino que la lleva a la madurez, dilatando la libertad de los hijos de Dios» (PC §14). Los superiores deben ejercer su autoridad «en espíritu de servicio», gobernar «como a hijos de Dios y con respeto a la persona humana», y «dé[jenles] la debida libertad por lo que se refiere al sacramento de la penitencia y a la dirección de conciencia» (PC §14).
@@ -54,10 +58,6 @@ El Capítulo General 2026 de los Legionarios de Cristo, en su documento temátic
 Cristo es presentado como el modelo perfecto de obediencia: «filial, libre y redentora» [CapGral-2026, documento temático n. 5]. La obediencia de Cristo en Getsemaní —«no se haga como yo quiero, sino como quieres tú» (Mt 26,39)— muestra que la obediencia auténtica no es sumisión pasiva, sino un acto supremo de libertad que lleva a la madurez dilatando la libertad de los hijos de Dios.
 
 La obediencia propuesta es «filial: activa, libre y madura» [CapGral-2026, documento temático n. 10], en la que el religioso participa de modo positivo, integrando el discernimiento personal con la aceptación de una voluntad que trasciende la propia. Las Constituciones invitan a tener «una relación confiada con los superiores, y obedecer con reverencia sus mandatos aunque sean difíciles o desagradables, ejercitándose en la oblación de sí» [CapGral-2026, documento temático n. 9].
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Obediencia»] La obediencia bíblica es adhesión libre al designio de Dios, no sumisión pasiva. En la creación, los astros acuden gozosos a la voz de Dios (Bar 3,34s). El drama comienza con la desobediencia de Adán (Rom 5,19), que contrasta con la fe obediente de Abraham (Gen 12,1; 22,2). La alianza implica una obediencia de amor (Ex 24,7; Dt 11,13-22). Cristo es nuestra obediencia: «se hizo obediente hasta la muerte y muerte de cruz» (Flp 2,8), y por su obediencia somos constituidos justos (Rom 5,19). El cristiano obedece al Evangelio, a la Iglesia (2Tes 3,14) y a las autoridades legítimas (Rom 13,1-7), pero «hay que obedecer a Dios más que a los hombres» (Act 4,19).
 
 ### Según la Regla de San Benito (RSB)
 
@@ -186,5 +186,5 @@ Se relaciona con [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_o
 - [SFrAs, Test. 21-22 — Obediencia al ministro general]
 - [SFrAs, CMin. 5-7, 13 — Obediencia como sufrimiento y misericordia]
 - [SFrAs, SalV. 1-9 — Obediencia como virtud]
-- AED, 16 (§241-249) — Tischrede 44: *Secondo l'armonia generale* — obediencia y regla como traducción de la vigilia.
+- AED, 16 (§241-249) — Tischrede 44: *Secondo l'armonía generale* — obediencia y regla como traducción de la vigilia.
 - AED, 17 (§265-269) — Tischrede 45: *L'affermazione amorosa* — la obediencia como dinamismo en que uno se vuelve sí mismo.

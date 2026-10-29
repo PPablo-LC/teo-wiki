@@ -4,7 +4,7 @@ title: "20. El «conocerse» en la convivencia matrimonial"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 62
 timestamp: 2026-08-01
-description: "Catequesis 20: el «conocimiento» bíblico (Gén 4, 1) como arquetipo personal de la corporeidad, la unión conyugal como descubrimiento nuevo del significado del cuerpo en la unidad de dos sujetos diversos — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 20: el «conocimiento» bíblico (Gén 4, 1) como arquetipo personal de la corporeidad, la unión conyugal como descubrimiento nuevo del significado del cuerpo en la unidad de dos sujetos diversos — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

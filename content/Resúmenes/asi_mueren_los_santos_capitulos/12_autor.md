@@ -4,7 +4,7 @@ title: "AUTOR"
 fuente: asi_mueren_los_santos_capitulos
 capítulo: 12
 timestamp: 2026-09-19
-description: "Resumen de la ficha de autor: Antonio Maria Sicari OCD, sacerdote, teólogo y el más célebre agiógrafo italiano."
+description: "Resumen de la ficha de autor: Antonio María Sicari OCD, sacerdote, teólogo y el más célebre agiógrafo italiano."
 tags: ["resumen", "asi mueren los santos capitulos"]
 ---
 
@@ -28,4 +28,4 @@ italiano» (cf. [[hagiografía]]).
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | AUTOR |
-| 3 | — | Ficha biográfica de Antonio Maria Sicari |
+| 3 | — | Ficha biográfica de Antonio María Sicari |

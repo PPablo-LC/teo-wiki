@@ -8,7 +8,7 @@ description: "Brant Pitre defiende que en los cuatro Evangelios, incluso en el m
 tags: ["resumen", "cristología", "divinidad_de_cristo", "evangelios", "teofanía"]
 ---
 
-# Did Jesus Claim to be God? — Dr. Brant Pitre
+# Did Jesús Claim to be God? — Dr. Brant Pitre
 
 ## Conceptos básicos referenciados en este capítulo
 
@@ -24,10 +24,10 @@ tags: ["resumen", "cristología", "divinidad_de_cristo", "evangelios", "teofaní
 - [[divinidad_de_cristo]] — reclamada en los cuatro Evangelios (marcador 4-0)
 - [[interpretación_de_la_escritura]] — revelación gradual judía mediante parábolas, acertijos y alusiones al AT
 - [[cristología]] — las epístolas paulinas confirman la cristología divina
-- [[noviazgo_místico]] — Jesús como Esposo divino de Israel, tema de *Jesus the Bridegroom*
+- [[noviazgo_místico]] — Jesús como Esposo divino de Israel, tema de *Jesús the Bridegroom*
 
-## Introducción: origen de «A Case for Jesus»
-Matt Nelson (Word on Fire Institute) entrevista al Dr. Brant Pitre, profesor distinguido de investigación en el Augustine Institute y antes en Notre Dame Seminary. El libro **«A Case for Jesus»** nació de un reto del obispo Robert Barron: refutar la analogía del «juego del teléfono»* usada contra la fiabilidad de los Evangelios. Tras una conversación en coche hace quince años, Barron escribió el epílogo.
+## Introducción: origen de «A Case for Jesús»
+Matt Nelson (Word on Fire Institute) entrevista al Dr. Brant Pitre, profesor distinguido de investigación en el Augustine Institute y antes en Notre Dame Seminary. El libro **«A Case for Jesús»** nació de un reto del obispo Robert Barron: refutar la analogía del «juego del teléfono»* usada contra la fiabilidad de los Evangelios. Tras una conversación en coche hace quince años, Barron escribió el epílogo.
 
 ## El trilema de C. S. Lewis y la cuarta opción de Ehrman
 Lewis, en *Mere Christianity*, planteó el trilema: si Jesús reclama la divinidad, o era un **mentiroso**, un **lunático**, o era el **Señor**; leyendo los Evangelios concluyó que era el Señor. Bart Ehrman añade una cuarta opción: la **leyenda** — las afirmaciones divinas serían adiciones legendarias no históricas, presentes solo en el Evangelio tardío de Juan (Jn 8,58 «antes que Abraham existiera, yo soy»; Jn 10,30 «yo y el Padre somos uno»). Argumento del «tres contra uno»: los sinópticos (Mt, Mc, Lc) frente a Juan.
@@ -51,8 +51,8 @@ Jesús revela su divinidad de forma **gradual y característicamente judía**: p
 Los **cuatro** Evangelios muestran a Jesús reclamando la divinidad: el marcador es **4-0**, no 3-1. Fue acusado de [[blasfemia]] y crucificado por esta reclamación. El trilema de Lewis sigue en pie: mentiroso, lunático o Señor. Confirmación adicional: las epístolas paulinas (*Paul: A New Covenant Jew*) corroboran la [[cristología]] divina.
 
 ## Recursos recomendados
-- *A Case for Jesus* (Pitre)
+- *A Case for Jesús* (Pitre)
 - *Catholic Introduction to the Bible*, vol. I (AT) — Pitre & Bergsma
-- *Jesus the Bridegroom* (Pitre) — Jesús como Esposo divino, la Esposa de Israel ([[noviazgo_místico]])
+- *Jesús the Bridegroom* (Pitre) — Jesús como Esposo divino, la Esposa de Israel ([[noviazgo_místico]])
 - *Paul: A New Covenant Jew* — Pitre, Barber & Kincaid
 - Word on Fire Bible

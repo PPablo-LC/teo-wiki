@@ -23,6 +23,13 @@ La indisolubilidad del matrimonio se funda en la donación mutua: si cada cónyu
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que el amor conyugal consiste en «la donación mutua y total de los esposos» (CEC §1646). En Humanae Vitae, Pablo VI subraya «el sentido de la donación mutua y de la procreación humana» como inseparables en el acto conyugal (CEC §2370).
+
+### Según la Teología de la Perfección Cristiana (TPCr)
+
+Royo Marín sitúa la donación mutua en el contexto de la teología del amor conyugal: el amor conyugal no es solo afecto sino donación total, que se renueva en la fidelidad cotidiana y se expresa en la apertura a la vida. La donación mutua es el fundamento de la sacramentalidad del matrimonio.
 ### Según la Teología del Cuerpo (TdC) — Catequesis 17
 
 «La donación mutua crea la comunión de las personas» (TdC, cateq. 17). En el relato del Génesis, la donna è data come socia —la mujer es dada como compañera— y el uomo e donna si donano reciprocamente —el hombre y la mujer se donan mutuamente—. Esta donación es la fuente de la comunión interpersonal: no se trata de una unión biológica sino de una entrega personal que constituye al otro como persona amada.
@@ -35,13 +42,6 @@ La catequesis 32 enseña que «la concupiscencia hace perder la libertad interio
 
 Familiaris Consortio §20 afirma que «esta íntima unión, en cuanto donación mutua de dos personas, y el bien de los hijos exigen la fidelidad de los cónyuges y urgen su indisoluble unidad». La donación mutua no es solo un ideal sino la estructura misma del matrimonio como sacramento.
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que el amor conyugal consiste en «la donación mutua y total de los esposos» (CEC §1646). En Humanae Vitae, Pablo VI subraya «el sentido de la donación mutua y de la procreación humana» como inseparables en el acto conyugal (CEC §2370).
-
-### Según la Teología de la Perfección Cristiana (TPCr)
-
-Royo Marín sitúa la donación mutua en el contexto de la teología del amor conyugal: el amor conyugal no es solo afecto sino donación total, que se renueva en la fidelidad cotidiana y se expresa en la apertura a la vida. La donación mutua es el fundamento de la sacramentalidad del matrimonio.
 
 ## Distinciones importantes
 

@@ -21,14 +21,6 @@ Es de fe que en la eucaristía está presente realmente, verdadera y sustancialm
 
 ## Perspectivas por fuente
 
-### Según el IV Concilio de Letrán (1215)
-
-El Concilio de Letrán IV, convocado por Inocencio III (1215), definió el dogma de la transustanciación —la conversión completa del pan y el vino en el Cuerpo y la Sangre de Cristo—, utilizando por primera vez el término *transsubstantiatio* en un documento conciliar. Es la primera definición del dogma en un concilio ecuménico.
-
-### Según el Concilio de Constanza (1414-1418)
-
-El concilio condenó las proposiciones de Jan Hus, reformador checo que negó la transustanciación, el purgatorio y la primacía papal. El concilio reafirmó el dogma de la transustanciación frente a las negaciones de Hus.
-
 ### Según el Catecismo (CEC)
 
 La transubstanciación es el cambio de toda la sustancia del pan y del vino en el Cuerpo y Sangre de Cristo, permaneciendo solo las especies o accidentes (CEC §1376). Por la consagración se realiza la conversión de toda la sustancia del pan en la sustancia del Cuerpo de Cristo y de toda la sustancia del vino en la sustancia de su Sangre (CEC §1376).
@@ -36,6 +28,14 @@ La transubstanciación es el cambio de toda la sustancia del pan y del vino en e
 ### Según Santo Tomás de Aquino
 
 Santo Tomás dedica a la transustanciación la cuestión 75 de la IIIa Pars de la *Summa Theologiae*, dentro del tratado eucarístico (Q73–Q83). Explica que la sustancia del pan y del vino se convierte en el Cuerpo y la Sangre de Cristo (conversión sustancial), permaneciendo los accidentes: «Cristo todo entero está presente en su realidad física» [EA §12].
+
+### Según el IV Concilio de Letrán (1215)
+
+El Concilio de Letrán IV, convocado por Inocencio III (1215), definió el dogma de la transustanciación —la conversión completa del pan y el vino en el Cuerpo y la Sangre de Cristo—, utilizando por primera vez el término *transsubstantiatio* en un documento conciliar. Es la primera definición del dogma en un concilio ecuménico.
+
+### Según el Concilio de Constanza (1414-1418)
+
+El concilio condenó las proposiciones de Jan Hus, reformador checo que negó la transustanciación, el purgatorio y la primacía papal. El concilio reafirmó el dogma de la transustanciación frente a las negaciones de Hus.
 
 ### Según God Is Near Us — Joseph Ratzinger (GINU)
 
@@ -55,7 +55,7 @@ Ratzinger aborda la transubstanciación de manera extensa y original en el archi
 
 ### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
 
-Tóth acude al dogma definido por Trento —Cristo presente «verdadera, real y substancialmente»— para fundar el homenaje de la Iglesia: a la presencia eucarística se debe el culto de latria, a diferencia de la presencia por la gracia (como imagen) [EMA, cap. 1]. Frente a los sentidos («nada veo»), defiende el misterio con apólogos: el espejo roto que refleja la imagen entera en cada fragmento (Cristo entero en cada partícula), las realidades invisibles pero verdaderas (la rotación de la Tierra); el verso tomista: «uno o mil su cuerpo tomen, en todos y cada uno entero vive» [EMA, cap. 3]. El **milagro de Bolsena** (1263) confirma la fe vacilante y origina la fiesta del Corpus Christi: la Eucaristía como «piedra de toque de la fe».
+Tóth acude al dogma definido por Trento —Cristo presente «verdadera, real y substancialmente»— para fundar el homenaje de la Iglesia: a la presencia eucarística se debe el culto de latría, a diferencia de la presencia por la gracia (como imagen) [EMA, cap. 1]. Frente a los sentidos («nada veo»), defiende el misterio con apólogos: el espejo roto que refleja la imagen entera en cada fragmento (Cristo entero en cada partícula), las realidades invisibles pero verdaderas (la rotación de la Tierra); el verso tomista: «uno o mil su cuerpo tomen, en todos y cada uno entero vive» [EMA, cap. 3]. El **milagro de Bolsena** (1263) confirma la fe vacilante y origina la fiesta del Corpus Christi: la Eucaristía como «piedra de toque de la fe».
 
 ## Distinciones importantes
 

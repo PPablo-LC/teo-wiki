@@ -28,6 +28,15 @@ La religión es distinta de la virtud teologal de la caridad: la caridad ama a D
 El primer mandamiento (CEC §2135) se refiere a las virtudes de la religión: adoración, oración y sacrificio. «La adoración es la primera actitud del hombre que se reconoce criatura ante su Creador» (§2628). La virtud de la religión nos obliga a dar culto a Dios, a honrar su santo nombre y a no tener otros dioses delante de Él.
 
 La adoración de Dios tres veces santo «nos llena de humildad y da seguridad a nuestras súplicas» (§2628).
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la religión como parte potencial de la justicia (IIa-IIae q.80-81). La religión es una virtud moral que ordena al hombre a dar el culto debido a Dios, aunque no puede establecer con Él la igualdad que exige la justicia estricta. Es la más excelente de las virtudes morales anejas a la justicia.
+
+La religión es virtud especial (q.81 a.3) con objeto propio: el honor y culto debidos a Dios. Produce actos interiores (devoción, oración) y exteriores (adoración, sacrificio, ofrendas, votos, juramentos). Sus actos se ordenan a significar la reverencia interior (q.81 a.7). La religión es virtud moral, no teologal, porque su objeto no es Dios en sí mismo sino el culto que se le tributa (q.81 a.5).
+
+Las partes cuasi integrales de la justicia (q.79) —hacer el bien y evitar el mal, con sus vicios opuestos de transgresión y omisión— se aplican también a la religión en cuanto virtud aneja a la justicia.
+
+[SmTh IIa-IIae q.79-81]
 ### Según Royo Marín (TPCr)
 
 La religión regula el culto debido a Dios. Pertenece al primer grupo de virtudes anejas a la justicia (las que fallan por defecto de igualdad entre lo que dan y lo que reciben, ya que el hombre nunca puede dar a Dios lo que strictamente le debe).
@@ -38,15 +47,6 @@ La oración tiene valor satisfactorio y meritorio como acto de religión. La san
 
 [TPCr, Parte III, Libro II, Cap. II, n.399, 401]
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la religión como parte potencial de la justicia (IIa-IIae q.80-81). La religión es una virtud moral que ordena al hombre a dar el culto debido a Dios, aunque no puede establecer con Él la igualdad que exige la justicia estricta. Es la más excelente de las virtudes morales anejas a la justicia.
-
-La religión es virtud especial (q.81 a.3) con objeto propio: el honor y culto debidos a Dios. Produce actos interiores (devoción, oración) y exteriores (adoración, sacrificio, ofrendas, votos, juramentos). Sus actos se ordenan a significar la reverencia interior (q.81 a.7). La religión es virtud moral, no teologal, porque su objeto no es Dios en sí mismo sino el culto que se le tributa (q.81 a.5).
-
-Las partes cuasi integrales de la justicia (q.79) —hacer el bien y evitar el mal, con sus vicios opuestos de transgresión y omisión— se aplican también a la religión en cuanto virtud aneja a la justicia.
-
-[SmTh IIa-IIae q.79-81]
 
 ## Distinciones importantes
 

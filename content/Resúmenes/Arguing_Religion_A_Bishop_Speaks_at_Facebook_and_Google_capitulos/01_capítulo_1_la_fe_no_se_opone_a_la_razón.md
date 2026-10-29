@@ -10,7 +10,7 @@ tags: ["resumen", apologética, fe_y_razón, teología_fundamental]
 
 # Capítulo 1 — La fe no se opone a la razón
 
-> 📄 **Fuente original:** `01_chapter_one.md` — *Arguing Religion: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 1: «Faith Is Not Opposed to Reason».
+> 📄 **Fuente original:** `01_chapter_one.md` — *Arguing Religión: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 1: «Faith Is Not Opposed to Reason».
 
 ## Conceptos básicos referenciados en este capítulo
 

@@ -4,7 +4,7 @@ title: "Juana de Arco"
 fuente: RetS
 capítulo: 4
 timestamp: 2026-09-26
-description: "Perfil de Juana de Arco: la question de la fe y la politica, la mockería de Orléans, el proceso por herejía y la hoguera de Ruan."
+description: "Perfil de Juana de Arco: la question de la fe y la política, la mockería de Orléans, el proceso por herejía y la hoguera de Ruan."
 tags: ["resumen", "santidad_laical", "providencia", "herejía", "historia_de_la_salvación"]
 ---
 

@@ -15,12 +15,16 @@ description: "Misterio central de la fe cristiana: un solo Dios en tres Personas
 Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles. Es el misterio de Dios en sí mismo, fuente de todos los otros misterios de la fe.
 
 ## Desarrollo doctrinal
-La Trinidad es un misterio de fe en sentido estricto, inaccesible a la sola razón. Dios ha dejado huellas de su ser trinitario en la creación y en el Antiguo Testamento, pero la plena revelación se dio mediante la Encarnación del Hijo y el envío del Espíritu Santo. La Iglesia formula el dogma afirmando que la Trinidad es una (no tres dioses), las Personas son realmente distintas entre sí por sus relaciones de origen, y las tres poseen la misma naturaleza divina.
+La Trinidad es un misterio de fe en sentido estricto, inaccesible a la sola razón. Dios ha dejado huellas de su ser trinitario en la creación y en el Antiguo Testamento, pero la plena revelación se dio mediante la Encarnación del Hijo y el envío del Espíritu Santo. La Iglesia fórmula el dogma afirmando que la Trinidad es una (no tres dioses), las Personas son realmente distintas entre sí por sus relaciones de origen, y las tres poseen la misma naturaleza divina.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 La Trinidad es el misterio central de la fe y de la vida cristiana (§234). «La fe de todos los cristianos se cimenta en la Santísima Trinidad» (§232). Dios es eterna beatitud, vida inmortal, luz sin ocaso. Dios es amor: Padre, Hijo y Espíritu Santo (§257). Toda la economía divina es obra común de las tres Personas (§258). El fin último de toda la economía divina es la entrada de las criaturas en la unidad perfecta de la Bienaventurada Trinidad (§260).
+
+### Según el Compendio (CompDS)
+
+La revelación de Cristo muestra el misterio de Dios como Amor trinitario: «Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor» (§31). El amor gratuito de Dios por la humanidad se revela como amor fontal del Padre, comunicación gratuita del Hijo que se entrega a los hombres, y fecundidad siempre nueva del Espíritu Santo infundido en los corazones (§31). La comunión trinitaria es el supremo modelo de unidad del género humano: «Este supremo modelo de unidad, reflejo de la vida íntima de Dios, Uno en tres personas, es lo que los cristianos expresamos con la palabra “comunión”» (§33, citando *Sollicitudo rei socialis* 40).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -66,10 +70,6 @@ Juan Pablo II muestra que Jesús revela la Trinidad. En la Anunciación se manif
 **Unidad Padre-Hijo en la oración sacerdotal (Jn 17):** Jesús describe su relación con el Padre: «Todo lo mío es tuyo, y todo lo tuyo es mío» (Jn 17, 10). El «dar» del Padre se consuma en el amor del Hijo «hasta el extremo» (Jn 13, 1), esto es, hasta la cruz. El misterio de amor trinitario que se perfila en la palabra «Hijo» es uno con el misterio de amor en la historia que se cumple en la Pascua de Jesús.
 
 **El homooúsios de Nicea (JdN_I, cap. 7,4):** El primer Concilio de Nicea (325 d.C.) utilizó el término «consustancial» (homooúsios) para proteger la novedad de la revelación cristiana de las interpretaciones mítico-politeístas y políticas. Este término «no ha helenizado la fe, no la sobrecarga con una filosofía ajena, sino que ha permitido fijar lo incomparablemente nuevo y diferente que había aparecido en los diálogos de Jesús con el Padre» (JdN_I, p. 75). En el Credo de Nicea, la Iglesia dice siempre de nuevo a Jesús, con Pedro: «Tú eres Cristo, el Hijo de Dios vivo» (Mt 16, 16).
-
-### Según el Compendio (CompDS)
-
-La revelación de Cristo muestra el misterio de Dios como Amor trinitario: «Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor» (§31). El amor gratuito de Dios por la humanidad se revela como amor fontal del Padre, comunicación gratuita del Hijo que se entrega a los hombres, y fecundidad siempre nueva del Espíritu Santo infundido en los corazones (§31). La comunión trinitaria es el supremo modelo de unidad del género humano: «Este supremo modelo de unidad, reflejo de la vida íntima de Dios, Uno en tres personas, es lo que los cristianos expresamos con la palabra “comunión”» (§33, citando *Sollicitudo rei socialis* 40).
 
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 

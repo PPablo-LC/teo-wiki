@@ -59,8 +59,8 @@ Thomas Merton sintetizó la dimensión continua: «No somos convertidos solo una
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute:
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute:
   - 01_from_the_desk.md — Bishop Robert Barron, «From the Desk of Bishop Robert Barron»
   - 03_word_from_institute.md — Matthew R. Petrusek, «A Word from the Institute»
   - 06_stacks.md — Joseph Susanka, «Stacks: Turning Back to Quo Vadis»
-  - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversion»
+  - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversión»

@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "The Patron Saint of Holy Souls — San Nicolás de Tolentino"
+title: "The Patrón Saint of Holy Souls — San Nicolás de Tolentino"
 fuente: Evangelization and culture - 11
 capítulo: 5
 timestamp: 2026-08-23
@@ -8,7 +8,7 @@ description: "Resumen de Lives: san Nicolás de Tolentino, patrono de las Almas 
 tags: ["resumen", "evangelization and culture - 11"]
 ---
 
-# The Patron Saint of Holy Souls — Dr. Nicholas J. Healy Jr. / Bert Ghezzi
+# The Patrón Saint of Holy Souls — Dr. Nicholas J. Healy Jr. / Bert Ghezzi
 
 ## Conceptos básicos referenciados en este capítulo
 

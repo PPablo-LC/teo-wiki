@@ -1,13 +1,13 @@
 ---
 type: Análisis Doctrinal
-title: "Dr. Brant Pitre — Did Jesus Claim to be God?: Análisis doctrinal"
+title: "Dr. Brant Pitre — Did Jesús Claim to be God?: Análisis doctrinal"
 timestamp: 2026-06-06
 description: "Entrevista de Matt Nelson (Word on Fire Institute) al Dr. Brant Pitre (Augustine Institute) sobre la autoconciencia divina de Jesús en los Evangelios."
 ---
-# Dr. Brant Pitre — Did Jesus Claim to be God?: Análisis doctrinal
+# Dr. Brant Pitre — Did Jesús Claim to be God?: Análisis doctrinal
 
 > Tipo: Análisis doctrinal
-> Fuente: raw/Para_analizar-raw/Scriptures_Virtual_Summit/MattN w- Dr Brant Pitre - Did Jesus Claim to be God--474879358/
+> Fuente: raw/Para_analizar-raw/Scriptures_Virtual_Summit/MattN w- Dr Brant Pitre - Did Jesús Claim to be God--474879358/
 > Fecha de análisis: 2026-06-06
 
 ## Resumen del texto

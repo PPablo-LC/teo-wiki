@@ -75,4 +75,4 @@ Los evangelios apócrifos (también llamados «evangelios perdidos» o *apócrif
 ## Referencias
 
 - Eusebio, *Hist. Ecl.* 3.25.6-7.
-- *The Case for Jesus* (CfJ), Sesión 2, líneas [00:25:15]–[00:32:57].
+- *The Case for Jesús* (CfJ), Sesión 2, líneas [00:25:15]–[00:32:57].

@@ -29,10 +29,6 @@ El pelagianismo fue condenado nuevamente por Trento (1546), que afirmó que el h
 
 §406: «Pelagio sostenía que el hombre podía, por la fuerza natural de su voluntad libre, sin la ayuda necesaria de la gracia de Dios, llevar una vida moralmente buena: así reducía la influencia de la falta de Adán a la de un mal ejemplo».
 
-### Según Royo Marín (TPCr)
-
-TPCr, Segunda Parte: Royo Marín, al tratar la necesidad de la gracia para el ejercicio de las virtudes infusas, recuerda que la razón natural «es absolutamente impotente, no ya para producirlo —lo que es absurdo y herético—, pero ni siquiera para exigirlo o reclamarlo en modo alguno» (citando la doctrina de la Iglesia contra pelagianos y semipelagianos, D-101, 126, 174).
-
 ### Según la Summa Theologiae (SmTh)
 
 I, q.23, a.5: Santo Tomás rechaza la tesis pelagiana de que el inicio del bien obrar depende de nosotros y su consumación de Dios.
@@ -42,6 +38,10 @@ I-II, q.100, a.12, ad 3: El error pelagiano de que el hombre puede cumplir los p
 I-II, q.109, a.2: «Sin la gracia no puede el hombre merecer la vida eterna; aunque sí puede realizar acciones que le conduzcan a algún bien connatural suyo».
 
 II-II, q.6, a.1: «Según los pelagianos, el comienzo de la fe radica en nosotros [...] Pero esto es falso».
+
+### Según Royo Marín (TPCr)
+
+TPCr, Segunda Parte: Royo Marín, al tratar la necesidad de la gracia para el ejercicio de las virtudes infusas, recuerda que la razón natural «es absolutamente impotente, no ya para producirlo —lo que es absurdo y herético—, pero ni siquiera para exigirlo o reclamarlo en modo alguno» (citando la doctrina de la Iglesia contra pelagianos y semipelagianos, D-101, 126, 174).
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

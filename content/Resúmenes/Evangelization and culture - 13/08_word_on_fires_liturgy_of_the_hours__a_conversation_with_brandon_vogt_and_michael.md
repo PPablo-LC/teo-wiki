@@ -62,7 +62,7 @@ Michael Stevens explica que el enfoque del diseño responde a la pregunta: «¿P
 
 ### Publicación mensual
 
-La serie es de folletos mensuales: los suscriptores reciben un folleto nuevo cada mes (similar a *Magnificat* o *The Word Among Us*). Esto es importante porque, a medida que el calendario litúrgico cambia, las oraciones cambian cada mes — no hay dos meses iguales. Word on Fire hace todo el trabajo difícil entre bastidores para que los suscriptores puedan abrir el libro y rezar.
+La serie es de folletos mensuales: los suscriptores reciben un folleto nuevo cada mes (similar a *Magníficat* o *The Word Among Us*). Esto es importante porque, a medida que el calendario litúrgico cambia, las oraciones cambian cada mes — no hay dos meses iguales. Word on Fire hace todo el trabajo difícil entre bastidores para que los suscriptores puedan abrir el libro y rezar.
 
 ### Detalles de diseño y esperanzas
 

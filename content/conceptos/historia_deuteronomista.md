@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: "Historia deuteronomista"
-description: "Obra que abarca Josué, Jueces, Samuel y Reyes, redactada a la luz de los principios teológicos del Deuteronomio y estudiada por Martin Noth como un conjunto unitario."
+description: "Obra que abarca Josué, Jueces, Samuel y Reyes, redactada a la luz de los principios teológicos del Deuteronomio y estudiada por Martín Noth como un conjunto unitario."
 tags: ["sagrada_escritura", "antiguo_testamento", "teología_bíblica", "historia_de_israel"]
 timestamp: 2026-10-19
 ---
@@ -31,7 +31,7 @@ Sicre dedica el tema III de su *Introducción al Antiguo Testamento* a esta obra
 
 Sicre advierte que parte de este relato es ficción didáctica y explica en el capítulo siguiente «qué hay de novela y qué de realidad».
 
-**La investigación.** El capítulo 12 recorre la historia de la investigación: la tradición antigua (Josué autor de Josué, Samuel de Jueces, Jeremías de Reyes), los precursores, y sobre todo la irrupción de **Martin Noth**, que en 1943 propuso leer Josué–Reyes como una obra única, con un autor único en el destierro (Dtr) que habría utilizado fuentes previas. Sicre expone después las reacciones: ¿un autor, dos, tres o una escuela? (Frank Moore Cross, Rudolf Smend, Walter Dietrich, Ernst Axel Knauf), y los elementos previos que la obra reelabora.
+**La investigación.** El capítulo 12 recorre la historia de la investigación: la tradición antigua (Josué autor de Josué, Samuel de Jueces, Jeremías de Reyes), los precursores, y sobre todo la irrupción de **Martín Noth**, que en 1943 propuso leer Josué–Reyes como una obra única, con un autor único en el destierro (Dtr) que habría utilizado fuentes previas. Sicre expone después las reacciones: ¿un autor, dos, tres o una escuela? (Frank Moore Cross, Rudolf Smend, Walter Dietrich, Ernst Axel Knauf), y los elementos previos que la obra reelabora.
 
 **Lectura de los textos.** El capítulo 13 ofrece pautas para leer Josué (discurso inicial, conquista, despedida), Jueces (ciclo pecado-opresión-liberación), Samuel y Reyes. La segunda parte analiza en detalle la «Historia de la subida de David al trono» (1 Sm 16–2 Sm 9) en tres niveles: literario (delimitación, diversidad de materiales, duplicados y fallos), político (las acusaciones contra David) y religioso-teológico (Dios dirige la historia y la promesa dinástica de 2 Sm 7).
 

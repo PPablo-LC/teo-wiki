@@ -16,7 +16,7 @@ La angelología es el tratado dogmático que estudia a los ángeles: criaturas p
 
 ## Desarrollo doctrinal
 
-La existencia de seres espirituales no corporales, que la Sagrada Escritura llama habitualmente ángeles, es una verdad de fe cuyo testimonio es «tan claro como la unanimidad de la Tradición». San Agustín resume su naturaleza con la fórmula *Angelus officii nomen est, non naturae*: «ángel» indica un oficio, no una naturaleza —por naturaleza es espíritu, por lo que hace es ángel—. En tanto que criaturas puramente espirituales tienen inteligencia y voluntad. Cristo es el centro del mundo de los ángeles: fueron creados por Él y para Él y Él los ha hecho mensajeros de su designio de salvación. Desde la creación hasta el juicio final recorren toda la historia de la salvación, y toda la vida de la Iglesia se beneficia de su ayuda misteriosa y poderosa.
+La existencia de seres espirituales no corporales, que la Sagrada Escritura llama habitualmente ángeles, es una verdad de fe cuyo testimonio es «tan claro como la unanimidad de la Tradición». San Agustín resume su naturaleza con la fórmula *Ángelus officii nomen est, non naturae*: «ángel» indica un oficio, no una naturaleza —por naturaleza es espíritu, por lo que hace es ángel—. En tanto que criaturas puramente espirituales tienen inteligencia y voluntad. Cristo es el centro del mundo de los ángeles: fueron creados por Él y para Él y Él los ha hecho mensajeros de su designio de salvación. Desde la creación hasta el juicio final recorren toda la historia de la salvación, y toda la vida de la Iglesia se beneficia de su ayuda misteriosa y poderosa.
 
 ## Perspectivas por fuente
 

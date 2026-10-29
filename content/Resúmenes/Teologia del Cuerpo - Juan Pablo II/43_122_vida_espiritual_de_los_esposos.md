@@ -4,7 +4,7 @@ title: "122. Vida espiritual de los esposos"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 43
 timestamp: 2026-08-01
-description: "Catequesis 122: la vocación cristiana de los esposos especificada por el sacramento del matrimonio, la fuerza de la gracia, el realismo cristiano, y los medios de la oración, la Eucaristía y la penitencia para la espiritualidad conyugal — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 122: la vocación cristiana de los esposos especificada por el sacramento del matrimonio, la fuerza de la gracia, el realismo cristiano, y los medios de la oración, la Eucaristía y la penitencia para la espiritualidad conyugal — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

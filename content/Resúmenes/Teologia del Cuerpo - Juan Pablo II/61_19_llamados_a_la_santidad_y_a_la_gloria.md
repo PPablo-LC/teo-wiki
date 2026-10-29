@@ -4,7 +4,7 @@ title: "19. Llamados a la santidad y a la gloria"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 61
 timestamp: 2026-08-01
-description: "Catequesis 19: la inocencia como pureza de corazón que excluye la reducción del otro a objeto, el sacramento primordial de la creación, y la llamada a la gloria (Rom 8, 30) — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 19: la inocencia como pureza de corazón que excluye la reducción del otro a objeto, el sacramento primordial de la creación, y la llamada a la gloria (Rom 8, 30) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

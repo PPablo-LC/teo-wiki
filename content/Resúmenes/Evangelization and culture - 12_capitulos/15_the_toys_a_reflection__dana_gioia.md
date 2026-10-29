@@ -40,7 +40,7 @@ Dana Gioia (ex Poeta Laureado de California) analiza **"The Toys"** de Coventry 
 - *"Perdónanos nuestras ofensas"* implorado en lenguaje e imágenes personales → antigua súplica oída de nuevo.
 
 **Contexto biográfico**
-- Patmore: best-seller victoriano, amigo de Tennyson, círculos pre-rafaelitas. Matrimonio célebre con Emily (retrato de Millais en Fitzwilliam). *The Angel in the House* (4 vols.) idealizó a Emily; ella muere TB a 38. Patmore viudo con 6 hijos. 2 años después → conversión al catolicismo (siguiendo a Newman).
+- Patmore: best-seller victoriano, amigo de Tennyson, círculos pre-rafaelitas. Matrimonio célebre con Emily (retrato de Millais en Fitzwilliam). *The Ángel in the House* (4 vols.) idealizó a Emily; ella muere TB a 38. Patmore viudo con 6 hijos. 2 años después → conversión al catolicismo (siguiendo a Newman).
 - Poema escrito **tras muerte de Emily**, en medio de duelo y paternidad solitaria.
 
 **Conclusión de Gioia**

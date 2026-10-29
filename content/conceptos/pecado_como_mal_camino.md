@@ -42,7 +42,7 @@ reconciliación, donde el caminante es vuelto a poner en pie y reorientado.
 
 ## Perspectivas por fuente
 
-### Según Antonio Maria Sicari (IDC)
+### Según Antonio María Sicari (IDC)
 
 En *Il dono della confessione* ([[il_dono_della_confessione]]) la etimología
 abre todo el tratado: «*peccus* [...] indica el "pie izquierdo" posado mal.

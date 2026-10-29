@@ -21,6 +21,10 @@ El hurto y la rapiña son pecados contra la justicia conmutativa porque sustraen
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §2401-2463: Tratado del séptimo mandamiento. §2408: El hurto es tomar o retener el bien del prójimo injustamente. §2409: La rapiña es más grave que el hurto por la violencia empleada. §2411: Las promesas deben cumplirse y los contratos respetarse. §2456: El hurto puede ser venial o mortal según la materia y la intención.
+
 ### Según la Summa Theologiae (SmTh)
 
 **El hurto y la rapiña (Q66):** Santo Tomás trata ambos como vicios opuestos a la justicia conmutativa.
@@ -37,10 +41,6 @@ Casos particulares sobre hurto (q.66 a.3-5):
 - Tomar préstamos sin intención de devolver es hurto (a.9)
 
 El hurto de cosas sagradas es sacrilegio además de hurto (q.66 a.10). La [[restitución]] es obligatoria siempre que sea posible (q.66 a.11).
-
-### Según el Catecismo (CEC)
-
-CEC §2401-2463: Tratado del séptimo mandamiento. §2408: El hurto es tomar o retener el bien del prójimo injustamente. §2409: La rapiña es más grave que el hurto por la violencia empleada. §2411: Las promesas deben cumplirse y los contratos respetarse. §2456: El hurto puede ser venial o mortal según la materia y la intención.
 
 ### Según Royo Marín (TPCr)
 

@@ -31,13 +31,6 @@ El sacrificio en el AT incluye varias formas: holocausto, sacrificio de comunió
 Los profetas denuncian el culto sacrificial sin justicia interior: «Aborrezco, desprecio vuestras fiestas… corra el juicio como las aguas» (Am 5,21-24). Oseas dice: «Misericordia quiero, no sacrificio» (Os 6,6). Los Salmos enseñan que el sacrificio agradable a Dios es el espíritu contrito (Sal 51,19).
 
 En el NT, el único sacrificio perfecto y definitivo es el de Cristo en la cruz (Heb 9-10). La carta a los Hebreos muestra cómo el sacrificio de Cristo supera infinitamente los sacrificios del AT: no necesita repetirse. La Eucaristía hace presente este sacrificio de modo incruento. El culto espiritual del cristiano es ofrecerse a sí mismo como «hostia viva, santa, agradable a Dios» (Rom 12,1).
-### Según Royo Marín (TPCr)
-Jesucristo es la causa meritoria de la gracia, y su mérito está íntimamente ligado a su sacrificio redentor. La imposibilidad del linaje humano de satisfacer condignamente el pecado de Adán solo pudo ser superada por un Dios hecho hombre que ofreciera a la justicia divina una satisfacción plena (TPCr, Primera Parte, Cap. VII, n.57). La santa misa contiene las riquezas infinitas del sacrificio de Cristo, ofreciéndose al Padre como adoración, reparación, petición y acción de gracias (TPCr, Tercera Parte, Libro II, Cap. I). La mejor manera de dar gracias consiste en identificarse por el amor con Cristo y ofrecerle al Padre con todas sus infinitas riquezas.
-
-### Según Mons. Tihámer Tóth (JvC)
-
-No se puede aspirar a un alto ideal sin sacrificio. JvC cita Mt 16,24: «Si alguno quiere venir en pos de Mí, niéguese a sí mismo, cargue con su cruz y sígame». «Quien nunca se priva de una cosa lícita no se puede esperar que rehuse todas las prohibidas» [JvC, Cap. II]. La ascesis como «elaboración final» al estilo de los atletas griegos: el hombre de carácter también es resultado de una lucha, de un combate. El ejemplo de los pitagóricos, que llenaban su mesa de platos exquisitos y se levantaban sin haber tocado nada, muestra la importancia decisiva de vencerse a sí mismo. David, que derramó el agua que sus soldados trajeron con peligro de sus vidas: sacrificó «nada más que un sorbo de agua» y perdió «el placer de un solo momento», pero ganó el respeto de sus soldados, el robustecimiento de su voluntad y la gracia de Dios [JvC, Cap. III].
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el sacrificio en la cuestión 85 de la IIa-IIae. El sacrificio es un acto de la virtud de religión, porque se ofrece a Dios en reconocimiento de su supremo dominio sobre todas las cosas (q.85 a.1). Por ley natural, el hombre está obligado a ofrecer a Dios algún signo exterior de su sumisión interior, y el sacrificio es el más expresivo de estos signos (q.85 a.1).
@@ -47,6 +40,13 @@ El sacrificio debe ofrecerse solo a Dios, no a ninguna criatura (q.85 a.2). Es e
 Todo sacrificio visible es signo del sacrificio invisible del corazón, por el cual el hombre se ofrece a sí mismo a Dios (q.85 a.4). La oblación exterior es necesaria para significar y excitar el sacrificio interior. Santo Tomás distingue tres elementos del sacrificio: la ofrenda, la inmolación (o transformación de la víctima) y la participación en lo ofrecido.
 
 [SmTh IIa-IIae q.85]
+
+### Según Royo Marín (TPCr)
+Jesucristo es la causa meritoria de la gracia, y su mérito está íntimamente ligado a su sacrificio redentor. La imposibilidad del linaje humano de satisfacer condignamente el pecado de Adán solo pudo ser superada por un Dios hecho hombre que ofreciera a la justicia divina una satisfacción plena (TPCr, Primera Parte, Cap. VII, n.57). La santa misa contiene las riquezas infinitas del sacrificio de Cristo, ofreciéndose al Padre como adoración, reparación, petición y acción de gracias (TPCr, Tercera Parte, Libro II, Cap. I). La mejor manera de dar gracias consiste en identificarse por el amor con Cristo y ofrecerle al Padre con todas sus infinitas riquezas.
+
+### Según Mons. Tihámer Tóth (JvC)
+
+No se puede aspirar a un alto ideal sin sacrificio. JvC cita Mt 16,24: «Si alguno quiere venir en pos de Mí, niéguese a sí mismo, cargue con su cruz y sígame». «Quien nunca se priva de una cosa lícita no se puede esperar que rehuse todas las prohibidas» [JvC, Cap. II]. La ascesis como «elaboración final» al estilo de los atletas griegos: el hombre de carácter también es resultado de una lucha, de un combate. El ejemplo de los pitagóricos, que llenaban su mesa de platos exquisitos y se levantaban sin haber tocado nada, muestra la importancia decisiva de vencerse a sí mismo. David, que derramó el agua que sus soldados trajeron con peligro de sus vidas: sacrificó «nada más que un sorbo de agua» y perdió «el placer de un solo momento», pero ganó el respeto de sus soldados, el robustecimiento de su voluntad y la gracia de Dios [JvC, Cap. III].
 
 ### Giussani — Affezione e dimora (AED)
 

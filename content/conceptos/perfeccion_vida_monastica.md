@@ -22,6 +22,11 @@ El Catecismo enseña que la vida religiosa es un estado de fidelidad a los conse
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+- CEC §2028: «La perfección cristiana consiste en la caridad: seguir voluntaria y generosamente el designio amoroso de Dios».
+- CEC §915: La vida religiosa es respuesta a la vocación a la santidad: «Cristo invita a algunas personas a seguirle más de cerca y a consagrarse totalmente a Dios».
+- CEC §2012–2016: La gracia santificante opera un crecimiento ordenado hasta la caridad perfecta.
 ### Según La Regla de San Benito (RegSB)
 
 El capítulo 73 (En esta regla no está contenida toda la práctica de la justicia) plantea el marco de la perfección monástica:
@@ -33,11 +38,6 @@ El capítulo 73 (En esta regla no está contenida toda la práctica de la justic
 - La honestidad de costumbres tiene en la Regla su inicio «pero… no en toda su cumplida práctica», que implica el crecimiento progresivo hacia la «cumbre de la perfección» mediante el auxilio de Cristo (§8-9).
 - La perfección, en San Benito, no es una adquisición autónoma, sino una participación creciente en la gracia de Cristo.
 
-### Según el Catecismo (CEC)
-
-- CEC §2028: «La perfección cristiana consiste en la caridad: seguir voluntaria y generosamente el designio amoroso de Dios».
-- CEC §915: La vida religiosa es respuesta a la vocación a la santidad: «Cristo invita a algunas personas a seguirle más de cerca y a consagrarse totalmente a Dios».
-- CEC §2012–2016: La gracia santificante opera un crecimiento ordenado hasta la caridad perfecta.
 
 ## Distinciones importantes
 

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: "Confesión de Pedro"
-description: "Profesión de fe de San Pedro en Cesarea de Filipo, reconociendo a Jesús como el Mesías, el Hijo de Dios vivo, fundamento del primado petrino."
+description: "Profesión de fe de San Pedro en Cesárea de Filipo, reconociendo a Jesús como el Mesías, el Hijo de Dios vivo, fundamento del primado petrino."
 tags: ["cristología", "nuevo_testamento", "eclesiología"]
 timestamp: 2026-07-01
 ---
@@ -13,7 +13,7 @@ timestamp: 2026-07-01
 
 ## Definición
 
-La **confesión de Pedro** es la profesión de fe que Simón Pedro hizo en Cesarea de Filipo: «Tú eres el Mesías, el Hijo de Dios vivo» (Mt 16,16). Es un momento central en el evangelio, que marca el reconocimiento explícito de la identidad divina de Jesús por parte de los apóstoles.
+La **confesión de Pedro** es la profesión de fe que Simón Pedro hizo en Cesárea de Filipo: «Tú eres el Mesías, el Hijo de Dios vivo» (Mt 16,16). Es un momento central en el evangelio, que marca el reconocimiento explícito de la identidad divina de Jesús por parte de los apóstoles.
 
 ## Desarrollo doctrinal
 
@@ -25,7 +25,7 @@ Las versiones de Mc 8,29 y Lc 9,20 presentan la confesión de manera más sobria
 
 ### Giussani — All'origine della pretesa cristiana (ODPC)
 
-ODPC presenta la confesión de Cesarea de Filippo (Mt 16,13-19) como el momento en que «la domanda esplosa» encuentra su primera respuesta formal. Pedro contesta «d'impulso», «ripetendo qualcosa che aveva sentito dire da Gesù stesso»: «Tu sei il Cristo, il Figlio del Dio vivente». Ya había alcanzado la evidencia que lo llevaba a pensar de Gesù: «Se non posso fidarmi di quest'uomo, non posso fidarmi neppure di me stesso». La respuesta de Jesús («Tu sei Pietro e su questa pietra edificherò la mia Chiesa») sale de la mirada hacia la roca de la ciudadela; y el «beato» precedente indica que esa confesión no la encontró Pedro solo, sino que el Padre se la sugirió. La confesión de Pedro pertenece a la trayectoria de la certeza moral construida en la convivencia: «Se andiamo via da te, da chi andiamo?» (Gv 6,68) es su forma más originaria — no definición teológica, sino confianza total nacida de la evidencia de la persona ([[certeza]], [[convivenza]]).
+ODPC presenta la confesión de Cesárea de Filippo (Mt 16,13-19) como el momento en que «la domanda esplosa» encuentra su primera respuesta formal. Pedro contesta «d'impulso», «ripetendo qualcosa che aveva sentito dire da Gesù stesso»: «Tu sei il Cristo, il Figlio del Dio vivente». Ya había alcanzado la evidencia que lo llevaba a pensar de Gesù: «Se non posso fidarmi di quest'uomo, non posso fidarmi neppure di me stesso». La respuesta de Jesús («Tu sei Pietro e su questa pietra edificherò la mía Chiesa») sale de la mirada hacia la roca de la ciudadela; y el «beato» precedente indica que esa confesión no la encontró Pedro solo, sino que el Padre se la sugirió. La confesión de Pedro pertenece a la trayectoria de la certeza moral construida en la convivencia: «Se andiamo via da te, da chi andiamo?» (Gv 6,68) es su forma más originaria — no definición teológica, sino confianza total nacida de la evidencia de la persona ([[certeza]], [[convivenza]]).
 
 ## Relaciones
 

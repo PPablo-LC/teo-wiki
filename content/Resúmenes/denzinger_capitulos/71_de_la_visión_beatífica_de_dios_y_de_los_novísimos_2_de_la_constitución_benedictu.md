@@ -20,7 +20,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[alma]] — el alma racional no se propaga del alma del padre
 - [[gracia]] — para la remisión de los pecados se requiere la gracia gratificante
 - [[concupiscencia]] — la concupiscencia de la carne y el acto matrimonial no son pecado
-- [[absolución_de_los_pecados|absolución]] — los sacerdotes perdonan los pecados ministerialmente
+- [[absolución]] — los sacerdotes perdonan los pecados ministerialmente
 - [[bautismo]] — mejoría del bautismo; agua verdadera, crisma y eucaristía no son necesarios como materia
 - [[confirmación]] — reservada al obispo, no a los presbíteros
 - [[transubstanciación]] — el pan y el vino se transustancian en el cuerpo y la sangre de Cristo
@@ -71,4 +71,4 @@ Constitución *Benedictus Deus*: definición de la [[visión_beatífica]] inmedi
 
 ## Errores de los armenios (1) [Del Memorial Iam dudum, remitido a los armenios el año 1341
 
-Memorial *Iam dudum* (1341): errores armenios sobre el [[pecado_original]], la creación del alma, el [[purgatorio]], la concupiscencia, la gracia y los sacramentos, la [[absolución_de_los_pecados|absolución]], el [[bautismo]], la [[confirmación]], la [[transubstanciación]] y las [[ordenes_sagradas]] (D-532 a D-549).
+Memorial *Iam dudum* (1341): errores armenios sobre el [[pecado_original]], la creación del alma, el [[purgatorio]], la concupiscencia, la gracia y los sacramentos, la [[absolución]], el [[bautismo]], la [[confirmación]], la [[transubstanciación]] y las [[ordenes_sagradas]] (D-532 a D-549).

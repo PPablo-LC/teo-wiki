@@ -17,7 +17,7 @@ tags: ["resumen", "verdad", "razón", "experiencia", "nihilismo", "cristo", "com
 - [[verdad]] — «era per fame e sete di verità, non di falsità»
 - [[posmodernidad]] — respuesta a Umberto Eco: «quando il falso diventa scienza»
 - [[fuerza]] — «La forza a chi la attribuiamo? [...] Chi stimiamo?»
-- [[realidad]] — «La realtà emerge in quel fenomeno che chiamiamo esperienza»
+- [[realidad]] — «La realtà emerge in quel fenómeno che chiamiamo esperienza»
 - [[razón]] — «La razionalità è la trasparenza dell'esperienza»
 - [[experiencia]] — lugar donde se decide el preconcetto
 - [[curiosidad]] — sentimiento original ante las cosas
@@ -42,7 +42,7 @@ tags: ["resumen", "verdad", "razón", "experiencia", "nihilismo", "cristo", "com
 ## El manifiesto de Bolonia contra el «todo es juego»
 
 - El volantino «Il giullare dell'Apocalisse, ovvero quando il falso diventa scienza», respuesta a la lección inaugural de Umberto Eco (1994-95).
-- «in un'ora scarsa è riuscito a leggere un'intera bibliografia senza annoiare l'uditorio».
+- «in un'ora scarsa è riuscito a leggere un'intera bibliografía senza annoiare l'uditorio».
 - «era per fame e sete di verità, non di falsità»; «Guai ai soddisfatti».
 
 ## La fuerza: ¿a quién la atribuimos?
@@ -52,7 +52,7 @@ tags: ["resumen", "verdad", "razón", "experiencia", "nihilismo", "cristo", "com
 
 ## Experiencia, razón y realidad prometiente
 
-- «La realtà emerge in quel fenomeno che chiamiamo esperienza»; el preconcetto como filtro.
+- «La realtà emerge in quel fenómeno che chiamiamo esperienza»; el preconcetto como filtro.
 - «La razionalità è la trasparenza dell'esperienza».
 - La affezione a la realidad; «La realtà appare all'uomo come promettente»; Leopardi, *A Silvia*.
 - El punto de fuga; la insatisfacción final «è casomai una tristezza, non una falsità».
@@ -84,9 +84,9 @@ tags: ["resumen", "verdad", "razón", "experiencia", "nihilismo", "cristo", "com
 
 ## «Yo soy la via, la verdad, la vida»
 
-- Jn 14,6; «Chi vede me, vede il Padre» (Jn 14,8-9); «la mia gioia sia in voi» (Jn 15,11).
+- Jn 14,6; «Chi vede me, vede il Padre» (Jn 14,8-9); «la mía gioia sia in voi» (Jn 15,11).
 - La tradición apostólica y los sacramentos (Eucaristía, Confesión, Matrimonio, Orden).
 - «il sacrificio è abbracciare una distanza»; Miguel Mañara: «Egli solo è».
-- «Sarò con voi tutti i giorni» (Mt 28,20); «Io ho vinto il mondo»; «Di tutto sarò capace insieme a Colui nel quale è la mia forza» (Flp 4,13).
+- «Sarò con voi tutti i giorni» (Mt 28,20); «Io ho vinto il mondo»; «Di tutto sarò capace insieme a Colui nel quale è la mía forza» (Flp 4,13).
 - Andrea y Giovanni (Jn 1): «era un altro uomo»; Zaccheo (Lc 19,5): «vengo a casa tua».
 - «siate mendicanti, mendicanti dell'Essere»; la oración cotidiana.

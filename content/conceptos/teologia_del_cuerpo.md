@@ -29,13 +29,13 @@ La enseñanza central es que el cuerpo humano tiene una dignidad trascendente: e
 
 ## Perspectivas por fuente
 
+### Segun la Summa Theologiae (SmTh)
+
+**Ia q.75-76:** El alma es forma del cuerpo; no hay dualismo entre cuerpo y alma. El cuerpo humano participa de la dignidad de la persona humana.
 ### Según San Juan Pablo II (JPII)
 
 JPII, *Man and Woman He Created Them* (Teología del Cuerpo): «El hombre es la única criatura en la tierra a la que Dios ha amado por sí misma» (GS §24). El cuerpo humano expresa la persona y es camino hacia la comunión interpersonal.
 
-### Segun la Summa Theologiae (SmTh)
-
-**Ia q.75-76:** El alma es forma del cuerpo; no hay dualismo entre cuerpo y alma. El cuerpo humano participa de la dignidad de la persona humana.
 
 ## Distinciones importantes
 

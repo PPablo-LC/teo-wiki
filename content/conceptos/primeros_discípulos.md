@@ -33,7 +33,7 @@ ODPC 08 (cap. 4, §3: «Il punto da cui partire»): la defensa del valor histór
 
 ## Relaciones doctrinales
 
-Los primeros discípulos son el origen histórico de la [[iglesia_primitiva]] y de la sucesión apostólica del testimonio ([[testimonio_cristiano]]). Ilustran la [[convivenza]] y la [[certeza]] como método, y la [[mirada_de_cristo]] (Pedro renombrado, Natanael visto bajo la higuera). Su confesión naciente culmina en la [[confesión_de_pedro]] de Cesarea de Filippo y en la [[pretesa_cristiana]] que la convivenza desvelará.
+Los primeros discípulos son el origen histórico de la [[iglesia_primitiva]] y de la sucesión apostólica del testimonio ([[testimonio_cristiano]]). Ilustran la [[convivenza]] y la [[certeza]] como método, y la [[mirada_de_cristo]] (Pedro renombrado, Natanael visto bajo la higuera). Su confesión naciente culmina en la [[confesión_de_pedro]] de Cesárea de Filippo y en la [[pretesa_cristiana]] que la convivenza desvelará.
 
 ## Ver también
 

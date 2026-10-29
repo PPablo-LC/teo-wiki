@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Lives: St. Thomas More, the Model of Integrity and Allegiance — Angela Jendro"
+title: "Lives: St. Thomas More, the Model of Integrity and Allegiance — Ángela Jendro"
 fuente: Evangelization and culture - 21
 chapter: 5
 timestamp: 2026-09-09
-description: "Resumen de 'Lives: St. Thomas More, the Model of Integrity and Allegiance — Angela Jendro' — Evangelization and culture - 21"
+description: "Resumen de 'Lives: St. Thomas More, the Model of Integrity and Allegiance — Ángela Jendro' — Evangelization and culture - 21"
 tags: ["resumen", "evangelization and culture - 21"]
 ---
 
-# Lives: St. Thomas More, the Model of Integrity and Allegiance — Angela Jendro
+# Lives: St. Thomas More, the Model of Integrity and Allegiance — Ángela Jendro
 
 ## Conceptos básicos referenciados
 
@@ -24,7 +24,7 @@ tags: ["resumen", "evangelization and culture - 21"]
 
 ### El llamado a la integridad política
 
-Angela Jendro presenta a [[tomás_moro]] como modelo de integridad y lealtad para quienes navegan las complejidades de la vida política. Cita a [[juan_pablo_ii]] al declararlo patrón de estadistas y políticos (motu proprio, 31 de octubre de 2000), quien elogió «la armonía entre lo natural y lo sobrenatural» como rasgo definitorio de su personalidad.
+Ángela Jendro presenta a [[tomás_moro]] como modelo de integridad y lealtad para quienes navegan las complejidades de la vida política. Cita a [[juan_pablo_ii]] al declararlo patrón de estadistas y políticos (motu proprio, 31 de octubre de 2000), quien elogió «la armonía entre lo natural y lo sobrenatural» como rasgo definitorio de su personalidad.
 
 ### Formación y juventud
 

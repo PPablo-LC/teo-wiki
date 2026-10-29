@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "PARTE SECONDA — I FATTORI COSTITUTIVI DEL FENOMENO CRISTIANO NELLA STORIA"
+title: "PARTE SECONDA — I FATTORI COSTITUTIVI DEL FENÓMENO CRISTIANO NELLA STORIA"
 fuente: Perche_la_Chiesa_capitulos
 capítulo: 4
 timestamp: 2026-09-17
@@ -8,7 +8,7 @@ description: "La continuidad de Jesús como raíz de la autoconciencia eclesial 
 tags: ["resumen", "perche_la_chiesa_capitulos", "eclesiología", "nt", "iglesia_primitiva", "luigi_giussani"]
 ---
 
-# PARTE SECONDA — I FATTORI COSTITUTIVI DEL FENOMENO CRISTIANO NELLA STORIA
+# PARTE SECONDA — I FATTORI COSTITUTIVI DEL FENÓMENO CRISTIANO NELLA STORIA
 
 ## Conceptos básicos referenciados
 
@@ -28,11 +28,11 @@ De Lubac: la Chiesa «non solo prosegue l'opera di lui, ma continua lui stesso..
 
 ### 1. Una realtà comunitaria sociologicamente identificabile
 
-At 2,42-47 («erano assidui nell'ascoltare l'insegnamento degli apostoli...»); At 4,32 («La moltitudine... aveva un cuor solo e un'anima sola»); At 5,12 (el portico di Salomone): la Iglesia «è cominciata così, letteralmente a 'farsi vedere'» — un grupo individuabile, fenómeno sociológicamente identificable (también Giustino, Prima Apologia). El trasfondo es el concepto veterotestamentario de Israel como popolo di Jahvé (de Lubac: la salvezza «essenzialmente sociale»; Cipriano: el monoteísmo «non poteva essere che una fraternità»).
+At 2,42-47 («erano assidui nell'ascoltare l'insegnamento degli apostoli...»); At 4,32 («La moltitudine... aveva un cuor solo e un'anima sola»); At 5,12 (el pórtico di Salomone): la Iglesia «è cominciata così, letteralmente a 'farsi vedere'» — un grupo individuabile, fenómeno sociológicamente identificable (también Giustino, Prima Apología). El trasfondo es el concepto veterotestamentario de Israel como popolo di Jahvé (de Lubac: la salvezza «essenzialmente sociale»; Cipriano: el monoteísmo «non poteva essere che una fraternità»).
 
-**a) Antica e nuova consapevolezza: la scelta di Dio.** Es 19,5-6 (regno di sacerdoti, nazione santa); la analogía con Tt 2,14; Lv 26,11-12 y Ez 37,27 recogidas en 2 Cor 6,16-18; Giacomo citando Amos (At 15,14-18); la visione de Corinto (At 18,9-10). La «rivoluzione culturale» más profunda: el nuevo pueblo hereda la idea de elección pero «è totalmente evacuato il carattere etnico della preferenza di Dio» — Gal 3,26-29, Col 3,11, 1 Cor 12,13: el pueblo está formado «da coloro che Dio mette insieme nella accettazione della venuta del suo Figlio».
+**a) Antica e nuova consapevolezza: la scelta di Dio.** Es 19,5-6 (regno di sacerdoti, nazione santa); la analogía con Tt 2,14; Lv 26,11-12 y Ez 37,27 recogidas en 2 Cor 6,16-18; Giacomo citando Amos (At 15,14-18); la visione de Corinto (At 18,9-10). La «rivoluzione culturale» más profunda: el nuevo pueblo hereda la idea de elección pero «è totalmente evacuato il carattere étnico della preferenza di Dio» — Gal 3,26-29, Col 3,11, 1 Cor 12,13: el pueblo está formado «da coloro che Dio mette insieme nella accettazione della venuta del suo Figlio».
 
-**b) Il valore culturale di un concetto nuovo di verità.** Contra la metáfora griega de la *luce*, la tradición bíblica usa la *roccia* — en hebreo «amen» tiene la misma raíz que «verità»: estabilidad; el efímero es «menzogna» (Sal 18,2-3; 19,15; 62,2-3; 73,26). S. Tomás (SCG III,40): «l'uomo è molto più persuaso da ciò che ascolta che non da ciò che vede» — al adherirse a quien escucha apoya la totalidad de la persona en el «tú» de otro. El método que emerge: «la solidità del testimone» — el testigo es «tutta una personalità», y su reconocimiento no es irracionalismo sino la inmanencia del actitud crítica en un contexto vivo. «Il Dio vivente è testimoniato da una realtà vivente».
+**b) Il valore culturale di un concetto nuovo di verità.** Contra la metáfora griega de la *luce*, la tradición bíblica usa la *roccia* — en hebreo «amén» tiene la misma raíz que «verità»: estabilidad; el efímero es «menzogna» (Sal 18,2-3; 19,15; 62,2-3; 73,26). S. Tomás (SCG III,40): «l'uomo è molto più persuaso da ciò che ascolta che non da ciò che vede» — al adherirse a quien escucha apoya la totalidad de la persona en el «tú» de otro. El método que emerge: «la solidità del testimone» — el testigo es «tutta una personalità», y su reconocimiento no es irracionalismo sino la inmanencia del actitud crítica en un contexto vivo. «Il Dio vivente è testimoniato da una realtà vivente».
 
 **c) Il termine usato: *ecclesia Dei*.** Del *qahal* hebreo a la *ekklesia* griega (también uso civil: At 19,32); el genitivo *Dei* significa que Dios es el contenido del interés de la asamblea y que es Dios mismo quien reúne: «i raccolti da Dio». La categoría es la de la elezione (Mt 16,16-18; Gv 17,6; Gv 15,16; 1 Cor 12,28); Schnackenburg contra la negación a priori de la intención comunitaria de Jesús.
 
@@ -44,7 +44,7 @@ At 2,1-4: Pentecostés no funda la comunidad — «la comunità di Cristo già c
 
 **a) La consapevolezza di un fatto che ha il potere di cambiare la personalità.** La nueva personalidad no es fruto de la adhesión humana sino don del Espíritu; las imágenes paulinas de 2 Cor 1,21-22 — unzione (elegidos para servir a Dios), sigillo (cambio de rostro, «ontología nueva», que la historia de la Iglesia traducirá con «grazia soprannaturale»), caparra dello Spirito. El don es para *todos* los creyentes y bautizados, no solo para personalidades eminentes: At 2,38-39; Gal 4,4-6 (Abbà); Rm 5,5; 1 Gv 3,24 — «formule fisse del primitivo catecismo cristiano».
 
-**b) Un inizio di cambiamento sperimentabile.** La caparra indica el pegno del mundo nuevo; Mc 10,29-30 (el centuplo ya en el presente): «Se la sfida di questa frase del Vangelo non viene recepita è giustificato il dubbio che si stia parlando di cristianesimo o di fede in modo astratto». La realidad cotidiana se transforma. Guardini: personalidad y comunidad no están en oposición — «Insieme, esse costituiscono la nuova vita».
+**b) Un inizio di cambiamento sperimentabile.** La caparra indica el pegno del mundo nuevo; Mc 10,29-30 (el céntuplo ya en el presente): «Se la sfida di questa frase del Vangelo non viene recepita è giustificato il dubbio che si stia parlando di cristianesimo o di fede in modo astratto». La realidad cotidiana se transforma. Guardini: personalidad y comunidad no están en oposición — «Insieme, esse costituiscono la nuova vita».
 
 **c) La capacità di pronunciarsi di fronte al mondo.** La palabra religiosa adecuada es «profezia» (At 2,16-17, citando Gioele; la vocación de Geremia, Ger 1,4-8; Lc 12,11-12; 1 Ts 1,4-5; 1 Ts 5,19-21: «non spegnete lo Spirito»): fuerza que no es solo verbal sino que inviste e muta los cardini dell'esistenza.
 
@@ -52,9 +52,9 @@ At 2,1-4: Pentecostés no funda la comunidad — «la comunità di Cristo già c
 
 El tercer factor, indicado por la palabra «comunione» (*koinonia*).
 
-**a) Una connotazione etica.** At 2,44-47 y 4,32-35: la comunión de los bienes sin ningún indigente; la colecta para los hermanos de Judea (Rm 15,25-26; Gal 2,10; 1 Cor 16,1); la caridad con todos (Mt 5,47; Rm 12,13; Ef 4,28; 1 Ts 4,11-12; St 2,14-17; 1 Pt 4,8-10; 1 Jn 3,17-18; At 20,35). Motivación: «Il Signore ama chi dà con gioia» (2 Cor 9,7; Pr 22,9) — la comunión «non impone la rinuncia giuridica alla proprietà... è motivata dalla unione che regna tra i credenti» (Moraldi). El criterio de la espontaneidad ilumina el episodio de Ananías y Safira (At 5): fueron castigados no por dar la mitad sino por mentir — el sacrificio con coacción genera mentira; no es moralismo sino don de sí. Teresa di Lisieux: «Ciò che interessa non è il record di sofferenze, ma l'intensità dell'amore» (von Balthasar).
+**a) Una connotazione ética.** At 2,44-47 y 4,32-35: la comunión de los bienes sin ningún indigente; la colecta para los hermanos de Judea (Rm 15,25-26; Gal 2,10; 1 Cor 16,1); la caridad con todos (Mt 5,47; Rm 12,13; Ef 4,28; 1 Ts 4,11-12; St 2,14-17; 1 Pt 4,8-10; 1 Jn 3,17-18; At 20,35). Motivación: «Il Signore ama chi dà con gioia» (2 Cor 9,7; Pr 22,9) — la comunión «non impone la rinuncia giuridica alla proprietà... è motivata dalla unione che regna tra i credenti» (Moraldi). El criterio de la espontaneidad ilumina el episodio de Ananías y Safira (At 5): fueron castigados no por dar la mitad sino por mentir — el sacrificio con coacción genera mentira; no es moralismo sino don de sí. Teresa di Lisieux: «Ciò che interessa non è il record di sofferenze, ma l'intensità dell'amore» (von Balthasar).
 
-**b) Una connotazione istituzionale.** Gal 2,9: la «destra» de comunión de Giacomo, Cefa e Giovanni — «un atto di riconoscimento... della partecipazione comune a una medesima missione»: la Chiesa «non è mai esistita senza ruoli oggettivi di conferma o di verifica ultima». *Koinonia* sinónimo de *ecclesia*: unidad social orgánica; otros sinónimos: *eirene* (Fulgenzio di Ruspe) y *agape* — que indica también el pranzo de caridad (Hamman).
+**b) Una connotazione istituzionale.** Gal 2,9: la «destra» de comunión de Giacomo, Cefa e Giovanni — «un atto di riconoscimento... della partecipazione comune a una medesima missione»: la Chiesa «non è mai esistita senza ruoli oggettivi di conferma o di verifica ultima». *Koinonia* sinónimo de *ecclesia*: unidad social orgánica; otros sinónimos: *eirene* (Fulgenzio di Ruspe) y *ágape* — que indica también el pranzo de caridad (Hamman).
 
 **c) Un'espressione rituale.** El gesto eucarístico: «Il segno più saliente e il coefficiente più efficace della loro unione comunitaria era lo *spezzare del pane*» (Galbiati). «Non è mai esistito originalmente un cristianesimo che non si esprimesse ritualmente». El «sacramento» latino traduce el «mistero» griego — el misterio que se hace experiencia. Los episodios de Policarpo y Aniceto (la Eucaristía como segno di unidad más allá de la controversia) y las «lettere di comunione» — pasaporte de la *communio* —, de donde el sentido original de «scomunica».
 

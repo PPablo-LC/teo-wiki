@@ -16,7 +16,7 @@ Encargo universal de Cristo resucitado a los Apóstoles de predicar el Evangelio
 
 ## Desarrollo doctrinal
 
-El mandato misionero se formula explícitamente en los evangelios sinópticos y en los Hechos de los Apóstoles: «Id por todo el mundo y predicad el Evangelio a toda criatura» (Mc 16,15); «Haced discípulos a todas las naciones, bautizándolos...» (Mt 28,19-20). Constituye la razón de ser de la Iglesia, que es por su naturaleza misionera. La misión no es una actividad opcional sino un deber esencial de todo bautizado, fundado en la voluntad salvífica universal de Dios.
+El mandato misionero se fórmula explícitamente en los evangelios sinópticos y en los Hechos de los Apóstoles: «Id por todo el mundo y predicad el Evangelio a toda criatura» (Mc 16,15); «Haced discípulos a todas las naciones, bautizándolos...» (Mt 28,19-20). Constituye la razón de ser de la Iglesia, que es por su naturaleza misionera. La misión no es una actividad opcional sino un deber esencial de todo bautizado, fundado en la voluntad salvífica universal de Dios.
 
 ## Ver también
 

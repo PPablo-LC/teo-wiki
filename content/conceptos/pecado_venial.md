@@ -21,6 +21,11 @@ El pecado venial constituye un obstáculo insuperable para la perfección cristi
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«El pecado venial, por su parte, permite permanecer en la caridad, aunque la ofende y la hiere» (§1855). «El pecado venial se comete cuando, en materia leve, no se observa la medida prescrita por la ley moral, o cuando se desobedece a la ley moral en materia grave, pero sin pleno conocimiento o sin entero consentimiento» (§1862).
+
+«El pecado venial debilita la caridad; manifiesta un afecto desordenado a bienes creados; impide el progreso del alma en el ejercicio de las virtudes y la práctica del bien moral. Merece penas temporales. El pecado venial deliberado y no borrado por el arrepentimiento nos dispone poco a poco a cometer el pecado mortal» (§1863).
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.88 — Pecado venial en relación con el mortal:**
@@ -45,7 +50,7 @@ El pecado venial constituye un obstáculo insuperable para la perfección cristi
 
 **IIIª q.87 — Remisión de los pecados veniales:**
 
-a.1 — El pecado venial se perdona con penitencia, pero no requiere una penitencia tan perfecta como el mortal. Basta un desagrado virtual: tener tal afecto a Dios que desagrade todo lo que entibia este afecto. No se requiere detestar actualmente cada pecado venial en particular.
+a.1 — Ambos pecados se perdonan con penitencia, porque en los dos queda la voluntad desordenada por la inclinación inmoderada a los bienes creados; y así como el mortal no se perdona mientras la voluntad está adherida a él, tampoco el venial, pues mientras permanece la causa permanece el efecto. Pero el venial no exige una penitencia tan perfecta como el mortal: para este hace falta detestarlo actualmente, recordando cada pecado en particular; para el venial basta un desagrado **virtual** —tener tal afecto a Dios y a las cosas divinas que desagrade todo lo que entibie ese afecto, aunque no se piense en ello actualmente—. No basta el desagrado **habitual** que procede del hábito de la caridad, porque entonces la caridad sería incompatible con el pecado venial, lo cual es falso.
 
 a.2 — No se requiere nueva infusión de gracia habitual; basta un acto procedente de la gracia o de la caridad. La gracia ya presente es suficiente para remover el desorden del venial.
 
@@ -53,11 +58,6 @@ a.3 — Los pecados veniales se perdonan con la eucaristía, la extremaunción y
 
 a.4 — El pecado venial no puede ser perdonado mientras el alma está en pecado mortal, porque quien carece de la gracia no puede ejercer el acto de caridad necesario para su remisión.
 
-### Según el Catecismo (CEC)
-
-«El pecado venial, por su parte, permite permanecer en la caridad, aunque la ofende y la hiere» (§1855). «El pecado venial se comete cuando, en materia leve, no se observa la medida prescrita por la ley moral, o cuando se desobedece a la ley moral en materia grave, pero sin pleno conocimiento o sin entero consentimiento» (§1862).
-
-«El pecado venial debilita la caridad; manifiesta un afecto desordenado a bienes creados; impide el progreso del alma en el ejercicio de las virtudes y la práctica del bien moral. Merece penas temporales. El pecado venial deliberado y no borrado por el arrepentimiento nos dispone poco a poco a cometer el pecado mortal» (§1863).
 ### Según Royo Marín (TPCr)
 
 Tres clases de pecado venial:

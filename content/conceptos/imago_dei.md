@@ -29,6 +29,13 @@ La imagen de Dios tiene también una dimensión comunitaria: el ser humano fue c
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que "la dignidad del hombre consiste en que fue hecho a imagen de Dios" (§356) y que "la imagen de Dios que es el hombre... se refiere a los seres racionales y espirituales" (§356). El ser humano fue creado "capaz de conocer y amar a su Creador" (§356). La imagen se vincula a la libertad: "El ser humano es-image-de-Dios en cuanto es persona, es decir, un ser dotado de razón y de libre albedrío" (§357).
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El Vocabulario distingue entre imagen (*ṣēlem*) y semejanṣ (*dəmûṯ*) en el texto hebreo del Génesis, mostrando que ambos términos se usan en paralelo para enfatizar la plenitud de la representación divina. La imagen se entiende como la realidad objetiva (la naturaleza racional), mientras que la semejanza alude a la cualidad de parecerse a Dios en la conducta moral y espiritual.
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.93 — La imagen de Dios en el ser humano:**
@@ -43,13 +50,6 @@ La imagen de Dios tiene también una dimensión comunitaria: el ser humano fue c
 
 **a.9 — Distinción entre imagen (*imago*) y semejanza (*similitudo*):** La imagen se refiere a la naturaleza racional, que es inseparable del ser humano en cuanto tal. La semejanza se refiere a la gracia gratuitamente concedida, que puede perderse por el pecado mortal. El ser humano en estado de justicia original tenía imagen y semejanza; tras el pecado conserva la imagen pero ha perdido la semejanza (SmTh Iª q.93 a.9).
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que "la dignidad del hombre consiste en que fue hecho a imagen de Dios" (§356) y que "la imagen de Dios que es el hombre... se refiere a los seres racionales y espirituales" (§356). El ser humano fue creado "capaz de conocer y amar a su Creador" (§356). La imagen se vincula a la libertad: "El ser humano es-image-de-Dios en cuanto es persona, es decir, un ser dotado de razón y de libre albedrío" (§357).
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El Vocabulario distingue entre imagen (*ṣēlem*) y semejanṣ (*dəmûṯ*) en el texto hebreo del Génesis, mostrando que ambos términos se usan en paralelo para enfatizar la plenitud de la representación divina. La imagen se entiende como la realidad objetiva (la naturaleza racional), mientras que la semejanza alude a la cualidad de parecerse a Dios en la conducta moral y espiritual.
 
 ## Distinciones importantes
 

@@ -18,7 +18,7 @@ tags: ["resumen", "educación", "juventud", "moral", "autoridad"]
 - [[ambiente]] — «l'educatore – o il diseducatore – sovrano è l'ambiente»
 - [[juventud]] — la primera conocencia de los problemas como forma de juventud
 - [[verdad]] — «l'esperienza della verità (*Adaequatio rei et intellectus*)»
-- [[escepticismo]] — «l'atmosfera dell'anima dello studente»
+- [[escepticismo]] — «l'atmósfera dell'anima dello studente»
 - [[laicismo]] — la pretensión de que la visión unitaria «deve emergere spontaneamente»
 - [[conocimiento]] — la «positività originale» en que la naturaleza nos pone
 - [[razón]] — el «razionalismo» que olvida el impegno existenziale
@@ -68,7 +68,7 @@ tags: ["resumen", "educación", "juventud", "moral", "autoridad"]
 - (a) La **moralità** distingue el «gesto» humano de la simple acción: «La moralità è proprio ciò che stabilisce la posizione di un determinato momento dentro il “tutto”». El joven «moralizza l'istante solo perché ama il tutto»; hace falta una **prospettiva universale** y el **senso missionario** de ogni gesto.
 - (b) El «*vero concetto di tradizione*» es «un valore universale da riscoprire in nuove esperienze»; la experiencia debe hacerla el joven, «perché questo rappresenta la libertà – il rischio e il coraggio della libertà» (Cesare Balbo, *Le speranze d'Italia*).
 - (c) «Il senso dell'universale genera, inesorabilmente, il senso della comunità»; la comunidad no es la asociación desde fuera, sino «dimensione interiore».
-- (d) Sin el verdadero concepto de comunidad no hay **autorità**: es el encuentro con «una esperienza evidentemente più forte della mia, nella quale io mi ritrovo»; «L'autorità in un certo senso è il mio “io” più vero».
+- (d) Sin el verdadero concepto de comunidad no hay **autorità**: es el encuentro con «una esperienza evidentemente più forte della mía, nella quale io mi ritrovo»; «L'autorità in un certo senso è il mio “io” più vero».
 
 ## Conclusión
 

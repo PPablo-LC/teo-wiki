@@ -4,7 +4,7 @@ title: "14. En el jardín del Edén"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 56
 timestamp: 2026-08-01
-description: "Catequesis 14: «no es bueno que el hombre esté solo»; el don recíproco como complemento de la soledad, el cuerpo como testigo de la creación-don, y la libertad interior de la desnudez originaria — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 14: «no es bueno que el hombre esté solo»; el don recíproco como complemento de la soledad, el cuerpo como testigo de la creación-don, y la libertad interior de la desnudez originaria — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

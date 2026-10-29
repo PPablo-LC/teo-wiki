@@ -36,7 +36,7 @@ tags: ["resumen", "creatividad", "fe", "conversión", "narrativa"]
 
 **La felicidad no está en las cosas:**
 - «No hay alegría que encontrar dentro de uno mismo, excepto a través del Señor»
-- Noches oscuras del alma entre Angel y Grimm
+- Noches oscuras del alma entre Ángel y Grimm
 
 **Consejo a escritores jóvenes:**
 - Leer gran literatura, observarse a uno mismo

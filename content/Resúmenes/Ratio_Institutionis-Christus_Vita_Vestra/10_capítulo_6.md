@@ -81,7 +81,7 @@ El año litúrgico es el desarrollo de los misterios de la vida, muerte y resurr
 
 ##### 5. Liturgia de las horas
 
-La liturgia de las horas extiende a las horas del día, como en círculos concéntricos, el Sacrificio eucarístico, y expande sus frutos de gracia al Cuerpo Místico y al mundo entero (cf. *CLC*, 49 § 2). Celebrada comunitaria o individualmente, «manifiesta la vocación a la alabanza y a la intercesión propia de las personas consagradas» (cf. *VC*, 95). El derecho propio señala el rezo común de una de las horas del oficio divino (cf. *NC*, 30); los miembros pueden acordar rezarse alguna hora juntos. Por los salmos la Iglesia recibe del mismo Dios las palabras inspiradas, «molde» donde introduce pensamientos y sentimientos humanos: así rezaba Jesús y así rezaba María en su *Magnificat* (cf. *FES*, 1). Al rezo personal —digno, atento, devoto— ha de darse el tiempo necesario, sin precipitaciones.
+La liturgia de las horas extiende a las horas del día, como en círculos concéntricos, el Sacrificio eucarístico, y expande sus frutos de gracia al Cuerpo Místico y al mundo entero (cf. *CLC*, 49 § 2). Celebrada comunitaria o individualmente, «manifiesta la vocación a la alabanza y a la intercesión propia de las personas consagradas» (cf. *VC*, 95). El derecho propio señala el rezo común de una de las horas del oficio divino (cf. *NC*, 30); los miembros pueden acordar rezarse alguna hora juntos. Por los salmos la Iglesia recibe del mismo Dios las palabras inspiradas, «molde» donde introduce pensamientos y sentimientos humanos: así rezaba Jesús y así rezaba María en su *Magníficat* (cf. *FES*, 1). Al rezo personal —digno, atento, devoto— ha de darse el tiempo necesario, sin precipitaciones.
 
 ##### 6. Oración mental
 

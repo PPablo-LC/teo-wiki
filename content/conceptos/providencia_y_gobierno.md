@@ -31,6 +31,13 @@ La distinción entre providencia y gobierno también ilumina el problema del mal
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo no distingue explícitamente entre providencia y gobierno, sino que trata la divina providencia como concepto unitario (§302-314). Sin embargo, la distinción tomista subyace en la presentación: Dios dispone todas las cosas (providencia) y las ejecuta a través de las causas segundas (gobierno, §306-308). La providencia divina incluye la solicitud de Dios por cada criatura, la dirección de los acontecimientos hacia el fin último, y la coordinación de todos los medios para la salvación de los hombres.
+
+El Catecismo enseña que la providencia divina es concreta e inmediata, tiene cuidado de todo, desde las cosas más pequeñas hasta los grandes acontecimientos (§303). Esta solicitud providente se realiza a través del gobierno divino, que conduce eficazmente todas las cosas hacia su fin último.
+
+La oración es un medio de participación en el gobierno divino, pues Dios quiere que las necesidades de los hombres le sean presentadas para que Él las responda según su providencia (§2635).
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la providencia en la cuestión 22 y el gobierno en las cuestiones 103-105 de la Ia Pars.
@@ -49,13 +56,6 @@ Santo Tomás trata la providencia en la cuestión 22 y el gobierno en las cuesti
 
 Boecio distingue dos conceptos: la providencia (el plan divino en la mente de Dios) y el hado (la ejecución de ese plan en el tiempo a través de las causas secundarias). Santo Tomás interpreta que hado y gobierno son lo mismo, considerado bajo el aspecto de ejecución temporal. Esta distinción boeciana fue adoptada por la teología escolástica y sigue siendo fundamental para comprender la relación entre Dios y el mundo.
 
-### Según el Catecismo (CEC)
-
-El Catecismo no distingue explícitamente entre providencia y gobierno, sino que trata la divina providencia como concepto unitario (§302-314). Sin embargo, la distinción tomista subyace en la presentación: Dios dispone todas las cosas (providencia) y las ejecuta a través de las causas segundas (gobierno, §306-308). La providencia divina incluye la solicitud de Dios por cada criatura, la dirección de los acontecimientos hacia el fin último, y la coordinación de todos los medios para la salvación de los hombres.
-
-El Catecismo enseña que la providencia divina es concreta e inmediata, tiene cuidado de todo, desde las cosas más pequeñas hasta los grandes acontecimientos (§303). Esta solicitud providente se realiza a través del gobierno divino, que conduce eficazmente todas las cosas hacia su fin último.
-
-La oración es un medio de participación en el gobierno divino, pues Dios quiere que las necesidades de los hombres le sean presentadas para que Él las responda según su providencia (§2635).
 
 ## Distinciones importantes
 

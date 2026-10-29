@@ -24,7 +24,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[autonomia_de_la_sensualidad]] — la fuerza que «ata» al espíritu
 - [[aristóteles]] — hyle del dualismo antropológico superado
 - [[espíritu_santo]] — el don definitivo por la resurrección de Cristo
-- [[integración]] — la armonia sensibilidad-actividad del espíritu
+- [[integración]] — la armonía sensibilidad-actividad del espíritu
 - [[muerte]] — la condenación del «cuerpo animal»
 - [[resurrección]] — la reintegración y la nueva plenitud histórica
 - [[verdad]] — la facultad de conocer, querer y amar liberadas

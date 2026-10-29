@@ -28,7 +28,7 @@ tags: ["resumen", "giussani", "materialismo", "prejuicio", "misericordia"]
 
 ### *Ne impedias musicam*
 
-«Ne impedias musicam» (*Sir* 32,5): el orden inefable de la música; el «astronomo» Serafino Dezani (la materia reducida a un metro: «Tutto è vanità fuorché lo spirito»); «Ma cos'è mai l'uomo perché te ne ricordi?» (*Sal* 8,5); «Anche i capelli del vostro capo sono numerati» (*Mt* 10,30).
+«Ne impedias musicam» (*Sir* 32,5): el orden inefable de la música; el «astrónomo» Serafino Dezani (la materia reducida a un metro: «Tutto è vanità fuorché lo spirito»); «Ma cos'è mai l'uomo perché te ne ricordi?» (*Sal* 8,5); «Anche i capelli del vostro capo sono numerati» (*Mt* 10,30).
 
 ### El preconcetto
 
@@ -44,8 +44,8 @@ El modo con que la razón toca el infinito; «Padre, perdona loro» (*Lc* 23,34)
 
 ### El coraje de afirmar lo evidente
 
-La *razonabilidad* de emprender el día desde la **coscienza dello scopo**; el *Angelus*; la [[misericordia]] como definición del Dios cristiano («la definizione che il Dio cristiano ha dato di sé è la parola misericordia»); el cristianismo histórico.
+La *razonabilidad* de emprender el día desde la **coscienza dello scopo**; el *Ángelus*; la [[misericordia]] como definición del Dios cristiano («la definizione che il Dio cristiano ha dato di sé è la parola misericordia»); el cristianismo histórico.
 
 ### Sin eliminar la posibilidad del dolor
 
-La [[tristeza]] buena ante el límite; la [[comunidad]]/compañía como gracia; «la categoria più imponente […] alternativa a tutte le ideologie e a tutti i preconcetti è l'avvenimento»: «Il cristianesimo è un avvenimento».
+La [[tristeza]] buena ante el límite; la [[comunidad]]/compañía como gracia; «la categoría più imponente […] alternativa a tutte le ideologie e a tutti i preconcetti è l'avvenimento»: «Il cristianesimo è un avvenimento».

@@ -23,6 +23,10 @@ El dolor sensible en Cristo convivió con el gozo de la contemplación beatífic
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §602 afirma que Cristo «entregó su vida en expiación de nuestros pecados», asumiendo el sufrimiento y la muerte en su carne. El §612 señala que la muerte de Cristo fue voluntaria y redentora. El §617 relaciona el dolor de Cristo con la libertad de su entrega: «Nadie me la quita [la vida], yo la doy voluntariamente» (Jn 10,18).
+
 ### Según la Summa Theologiae (SmTh)
 
 **IIIª q.15 a.5 — El dolor sensible en Cristo:**
@@ -30,10 +34,6 @@ El dolor sensible en Cristo convivió con el gozo de la contemplación beatífic
 Cristo tuvo verdadero dolor sensible porque su cuerpo era pasible y mortal, y su alma estaba perfectamente dotada de facultades naturales para percibir la lesión corporal. Is 53,4: «soportó nuestras enfermedades». El gozo de la contemplación quedaba retenido en el espíritu sin redundar al cuerpo, para que el dolor sensible no quedase excluido —pues la fruición del sumo bien no impedía la percepción del dolor en el cuerpo.
 
 La carne de Cristo no estuvo necesariamente sujeta al dolor por el pecado (como en los demás hombres), sino por principios naturales de la naturaleza humana asumida. Hilario de Poitiers, al afirmar que Cristo no sintió dolor, no negaba la verdad del dolor sino la necesidad del mismo: Cristo padeció voluntariamente, no por necesidad de su naturaleza caída.
-
-### Según el Catecismo (CEC)
-
-El CEC §602 afirma que Cristo «entregó su vida en expiación de nuestros pecados», asumiendo el sufrimiento y la muerte en su carne. El §612 señala que la muerte de Cristo fue voluntaria y redentora. El §617 relaciona el dolor de Cristo con la libertad de su entrega: «Nadie me la quita [la vida], yo la doy voluntariamente» (Jn 10,18).
 
 ### Según La convenienza umana della fede (CUDF)
 
@@ -53,7 +53,7 @@ jóvenes, en el casco de la motonave *Elisabetta Montanari* por un incendio en l
 ### Attraverso la compagnia dei credenti (TACDC)
 
 - **Contra el «soffrire non serve a niente».** Frente a la mentalidad del mundo, que hace del dolor pura pérdida —Pavese: «La grande, la tremenda verità è questa: soffrire non serve a niente» (02, 99)—, TACDC propone el sufrimiento ofrecido: «la sofferenza ha un senso se offerta a Lui» (03, 29-33), de modo que la enferma «rende sacro quello che per gli altri normalmente è una condanna» (03, 29-33).
-- **La cruz como obediencia y esperanza.** La dificultad entra en lo cotidiano «affinché il rapporto con Cristo sia più autentico»; el cristiano está «disposto all'obbedienza totale, fino alla croce, con la certezza della risurrezione» (03, 41).
+- **La cruz como obediencia y esperanza.** La dificultad entra en lo cotidiano «affinché il rapporto con Cristo sia più auténtico»; el cristiano está «disposto all'obbedienza totale, fino alla croce, con la certezza della risurrezione» (03, 41).
 - **El dolor y la esperanza en Cristo.** Cristo «era la fonte, il luogo della sua speranza» aun con los pecados pasados y futuros: «Chiunque ha questa speranza in lui, purifica se stesso, come egli è puro» (1 Gv 3,3; 03, 225-227).
 - **Las víctimas del mal del mundo.** El cristiano no solo es cómplice de la connivencia con el odio a Cristo, sino que puede ser «vittime dell'odio del mondo» (03, 131-133).
 

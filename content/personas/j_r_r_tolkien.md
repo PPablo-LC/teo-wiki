@@ -33,7 +33,7 @@ La sección *Spotlight* entrevista a Holly Ordway sobre su libro *Tolkien's Mode
 - **Personalidad juguetona:** sentido del juego con hipérboles deliberadas en lo que no importa; leerlo literalmente es error de lector, no defecto del autor.
 - **Relevancia apologética:** reconocer cómo dialoga con la cultura moderna hace su crítica de los fracasos de la modernidad más relevante y significativa.
 
-### Según Evangelization & Culture n.º 18 «Conversion» (EAC-18)
+### Según Evangelization & Culture n.º 18 «Conversión» (EAC-18)
 
 **Holly Ordway** («J.R.R. Tolkien's Journey of Faith», 13_jrr_tolkiens_journey_of_faith.md) narra el viaje espiritual de Tolkien:
 
@@ -71,6 +71,6 @@ Tolkien demuestra la fecundidad de la [[inculturación]] intelectual: la fe no t
 ## Referencias
 
 - EAC-8, archivo 08
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Holly Ordway, 13_jrr_tolkiens_journey_of_faith.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Holly Ordway, 13_jrr_tolkiens_journey_of_faith.md).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 17_feature_stewart.md (Haley Stewart, «Gloriously Human»).
 - EAC-22, *Evangelization & Culture, Issue 22 — Courage* (Winter 2024), Word on Fire Institute (07_stacks.md; 13_features_intro.md; 14_feature_desanctis.md).

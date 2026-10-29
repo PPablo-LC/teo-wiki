@@ -16,7 +16,7 @@ Nombre que la Biblia y la historiografía moderna dan al conjunto de reinos aram
 
 ## Desarrollo doctrinal
 
-Siria encarna en la Escritura la figura del vecino poderoso y hostil, pero también del aliado inseguro. Los arameos de Damasco y de Zoba aparecen ya en tiempos de David y Salomón; durante la monarquía dividida se convierten en el enemigo principal del norte de Israel. Ben-Hadad I y Ben-Hadad II imponen tributos, sitian Samaria y libran batallas sucesivas contra Ajab; este obtiene victorias que no sabe completar, y muere precisamente en la guerra contra Damasco. Bajo Hazael la presión siria se hace especialmente dura, y solo con Jeroboam II Israel recupera las fronteras perdidas y somete a Damasco.
+Siria encarna en la Escritura la figura del vecino poderoso y hostil, pero también del aliado inseguro. Los arameos de Damasco y de Zoba aparecen ya en tiempos de David y Salomón; durante la monarquía dividida se convierten en el enemigo principal del norte de Israel. Ben-Hadad I y Ben-Hadad II imponen tributos, sitian Samaria y libran batallas sucesivas contra Ajab; este obtiene victorias que no sabe completar, y muere precisamente en la guerra contra Damasco. Bajo Hazael la presión siria se hace especialmente dura, y solo con Jeroboam II Israel recupera las fronteras pérdidas y somete a Damasco.
 
 Teológicamente, Siria es el escenario donde se prueba la confianza de Israel en Dios y donde actúa la palabra profética: Eliseo anuncia la victoria y la derrota, unge a Hazael y a Jehú, y sana a Naamán el sirio, mostrando que la salvación de Dios alcanza también a los paganos. La caída de Damasco ante Asiria es leída por Isaías como signo de que la confianza en las coaliciones militares es vana: «si no creéis, no subsistiréis» (Is 7,9).
 

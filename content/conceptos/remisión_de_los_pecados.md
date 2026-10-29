@@ -35,7 +35,7 @@ La fórmula «remisión de los pecados» es frecuente en los escritos neotestame
 
 El hombre responde a la remisión de los pecados a través de la [[conversión]] que, además de acoger la gracia de Jesús, requiere el reconocimiento de las propias culpas y el inicio de una vida nueva, que se constata por sus frutos. (Ele_Xto_Stos, Cap. XI, §1e)
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 Jesús vino como Salvador y Redentor: todo su magisterio y toda su obra
 tendían a curarnos del mal, y lo rechazaron precisamente «los que se creían

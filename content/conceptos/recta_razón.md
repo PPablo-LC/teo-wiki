@@ -29,13 +29,13 @@ La doctrina tomista de la recta razón articula varios elementos presentes en la
 
 ## Perspectivas por fuente
 
+### Según Royo Marín (TPCr)
+
+En la exposición de las virtudes morales y de la conciencia, la recta razón funciona como criterio último de la moralidad objetiva de los actos particulares, en conexión con la ley natural y el juicio de la conciencia: la conciencia recta aplica la ley al caso; la recta razón designa esa función normativa de la razón práctica.
 ### Según Elegidos en Cristo para ser santos
 
 El capítulo VII expone que el acto electivo de la virtud «ha de adecuarse al dictamen de la recta razón», y que la medida impuesta por la razón podría ser sobrepasada o no alcanzada por el movimiento espontáneo de la potencia carente de virtud: ahí radica la necesidad del hábito virtuoso.
 
-### Según Royo Marín (TPCr)
-
-En la exposición de las virtudes morales y de la conciencia, la recta razón funciona como criterio último de la moralidad objetiva de los actos particulares, en conexión con la ley natural y el juicio de la conciencia: la conciencia recta aplica la ley al caso; la recta razón designa esa función normativa de la razón práctica.
 
 ## Distinciones importantes
 

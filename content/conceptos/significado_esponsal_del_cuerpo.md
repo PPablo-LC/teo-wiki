@@ -31,6 +31,14 @@ La redención operada por Cristo restaura y eleva el significado esponsal del cu
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC enseña que el matrimonio es signo de la alianza de Cristo con su Iglesia: «El vínculo matrimonial es establecido por el propio Dios» y los esposos participan del amor de Cristo por su Iglesia (cf. CEC §1612-1613). El matrimonio bautismal confiere la gracia para vivir esta participación.
+
+### Según el Compendio de Doctrina Social (DSI)
+
+El DSI §219 enseña que el matrimonio sacramental es alianza esponsal que eleva la unión conyugal a participación en la alianza redentora de Cristo con la Iglesia.
+
 ### Según la Teología del Cuerpo de Juan Pablo II
 
 El significado esponsal del cuerpo es el concepto que JPII desarrolla en sus catequesis de los miércoles desde 1979 a 1984. Se encuentra desarrollado principalmente en:
@@ -43,17 +51,9 @@ El significado esponsal del cuerpo es el concepto que JPII desarrolla en sus cat
 
 El significado esponsal se realiza plenamente en el don conyugal, pero trasciende el mero placer. Es lenguaje de personas que se dan mutuamente en la totalidad de su ser.
 
-### Según el Catecismo (CEC)
-
-El CEC enseña que el matrimonio es signo de la alianza de Cristo con su Iglesia: «El vínculo matrimonial es establecido por el propio Dios» y los esposos participan del amor de Cristo por su Iglesia (cf. CEC §1612-1613). El matrimonio bautismal confiere la gracia para vivir esta participación.
-
 ### Según Familiaris Consortio (Juan Pablo II)
 
 Familiaris Consortio §11 desarrolla la relación entre el significado esponsal del cuerpo y la transmisión de la vida: «La Chiesa ribadisce la pratica costante e immemorabile di alcuni popoli che, anche nella loro paganità, hanno considerato la procreazione come il fine primario del matrimonio.»
-
-### Según el Compendio de Doctrina Social (DSI)
-
-El DSI §219 enseña que el matrimonio sacramental es alianza esponsal que eleva la unión conyugal a participación en la alianza redentora de Cristo con la Iglesia.
 
 ### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
 

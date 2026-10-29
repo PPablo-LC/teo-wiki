@@ -32,11 +32,11 @@ tags: ["resumen", "giussani", "milagro", "virginidad", "creación"]
 
 ### «No me hago yo mismo»
 
-En cada instante no me hago a mí mismo (cabellos, ojos, pensamientos); «Io sono l'autocoscienza del mondo»; «Io sono Tu che mi fai»; *self-evident* (Newman, *Apologia pro vita sua*): Dios es evidente; el cosmos es el primer milagro ([[creación]], [[contingencia]]).
+En cada instante no me hago a mí mismo (cabellos, ojos, pensamientos); «Io sono l'autocoscienza del mondo»; «Io sono Tu che mi fai»; *self-evident* (Newman, *Apología pro vita sua*): Dios es evidente; el cosmos es el primer milagro ([[creación]], [[contingencia]]).
 
 ### El atteggiamento originale y la memoria
 
-El *bambino* con la boca abierta; el feto («Io sono mia madre»); estar fuera del *nesso originale*. «La questione principale è la memoria»: una autoconciencia diversa juzga de modo diverso ([[memoria]], [[asombro]]).
+El *bambino* con la boca abierta; el feto («Io sono mía madre»); estar fuera del *nesso originale*. «La questione principale è la memoria»: una autoconciencia diversa juzga de modo diverso ([[memoria]], [[asombro]]).
 
 ### El milagro de la virginidad
 

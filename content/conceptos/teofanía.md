@@ -31,6 +31,12 @@ Pentecostés es narrado por Lucas como una teofanía del Espíritu Santo, analog
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC enseña que las «diez palabras» fueron pronunciadas por Dios dentro de una teofanía: «el Señor os habló cara a cara en la montaña, en medio del fuego» (§2059). El don de los mandamientos es don de Dios y de su santa voluntad; al dar a conocer su voluntad, Dios se revela a su pueblo.
+
+La nube y la luz son símbolos de las manifestaciones del Espíritu Santo. En la transfiguración, el Espíritu cubre con su sombra a Jesús, a Moisés ya Elías, y la voz del Padre proclama: «Este es mi Hijo, mi Elegido, escuchadle» (§697).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El VocTeoBib desarrolla extensamente el concepto de teofanía en varios artículos:
@@ -42,12 +48,6 @@ El VocTeoBib desarrolla extensamente el concepto de teofanía en varios artícul
 **Nube**: La nube es signo de la presencia divina. La nube y la luz son inseparables en las manifestaciones del Espíritu Santo. La nube cubrió a Jesús en la transfiguración y ocultó a los discípulos en la ascensión.
 
 **Gloria**: La teofanía del Sinaí suscita el temor sagrado por la tormenta, trueno, fuego y viento. La nube llenaba la tienda del encuentro y más tarde el templo de Salomón.
-
-### Según el Catecismo (CEC)
-
-El CEC enseña que las «diez palabras» fueron pronunciadas por Dios dentro de una teofanía: «el Señor os habló cara a cara en la montaña, en medio del fuego» (§2059). El don de los mandamientos es don de Dios y de su santa voluntad; al dar a conocer su voluntad, Dios se revela a su pueblo.
-
-La nube y la luz son símbolos de las manifestaciones del Espíritu Santo. En la transfiguración, el Espíritu cubre con su sombra a Jesús, a Moisés ya Elías, y la voz del Padre proclama: «Este es mi Hijo, mi Elegido, escuchadle» (§697).
 
 ### Según la Vida de Jesús de Juan Pablo II
 

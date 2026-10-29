@@ -56,5 +56,5 @@ La fuente ofrece el sostén: «¿Qué prácticas y disciplinas evitan el *backsl
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute:
-  - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversion»
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute:
+  - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversión»

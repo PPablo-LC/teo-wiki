@@ -1,27 +1,27 @@
 ---
 type: Concepto Teológico
 title: Maternidad espiritual
-description: "La maternidad espiritual de Maria Santísima es su cooperación en el orden de la gracia para engendrar y educar a los hijos de Dios."
+description: "La maternidad espiritual de María Santísima es su cooperación en el orden de la gracia para engendrar y educar a los hijos de Dios."
 timestamp: 2026-10-19
 ---
 # Maternidad espiritual
 
-> Area: Mariología
+> Área: Mariología
 > Ultima actualización: 2026-08-06
 
 ## Definición
 
-La maternidad espiritual de Maria Santísima es su cooperación en el orden de la gracia para engendrar y educar a los hijos de Dios. Por ser Madre de Cristo, Cabeza del Cuerpo Mistico, Maria es también Madre de todos los miembros de dicho Cuerpo, es decir, de todos los creyentes.
+La maternidad espiritual de María Santísima es su cooperación en el orden de la gracia para engendrar y educar a los hijos de Dios. Por ser Madre de Cristo, Cabeza del Cuerpo Místico, María es también Madre de todos los miembros de dicho Cuerpo, es decir, de todos los creyentes.
 
 ## Desarrollo doctrinal
 
-La maternidad espiritual de Maria se funda en su maternidad divina: al dar a luz a Cristo, Cabeza de la Iglesia, dio a luz también a todos los predestinados. Esta doctrina, desarrollada por los Padres de la Iglesia y por la teologia medieval, fue confirmada por el magisterio, especialmente en la constitución Lumen Gentium (n. 60-65) del Concilio Vaticano II. Maria coopera con amor materno en el nacimiento y desarrollo de la vida sobrenatural en las almas. Su maternidad espiritual se ejercita principalmente mediante su intercesión y su ejemplo.
+La maternidad espiritual de María se funda en su maternidad divina: al dar a luz a Cristo, Cabeza de la Iglesia, dio a luz también a todos los predestinados. Esta doctrina, desarrollada por los Padres de la Iglesia y por la teología medieval, fue confirmada por el magisterio, especialmente en la constitución Lumen Gentium (n. 60-65) del Concilio Vaticano II. María coopera con amor materno en el nacimiento y desarrollo de la vida sobrenatural en las almas. Su maternidad espiritual se ejercita principalmente mediante su intercesión y su ejemplo.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo afirma que «la maternidad espiritual de Maria se extiende a todos los hombres a los cuales Cristo vino a salvar» (§501). Maria «dio a luz al Hijo, al que Dios constituyo el Primogenito entre muchos hermanos, es decir, de los creyentes, a cuyo nacimiento y educación colabora con amor de madre».
+El Catecismo afirma que «la maternidad espiritual de María se extiende a todos los hombres a los cuales Cristo vino a salvar» (§501). María «dio a luz al Hijo, al que Dios constituyo el Primogenito entre muchos hermanos, es decir, de los creyentes, a cuyo nacimiento y educación colabora con amor de madre».
 
 ### Según la Redemptoris Mater (RM)
 
@@ -57,7 +57,7 @@ Hahn recoge la formulación de Pío X: María no concibió al Salvador solo para
 
 [HHQ, caps. 2, 3 y 6]
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre fundamenta la maternidad espiritual en tres datos bíblicos:
 
@@ -72,7 +72,7 @@ Pitre añade la dimensión dolorosa: la maternidad de María se ejerce al pie de
 ## Distinciones importantes
 
 - Maternidad divina (de naturaleza) vs maternidad espiritual (de gracia)
-- Maria como Madre de la Cabeza vs Madre de los miembros
+- María como Madre de la Cabeza vs Madre de los miembros
 - Mediación materna universal vs mediación unica de Cristo
 
 ## Relaciones doctrinales
@@ -89,4 +89,4 @@ Se relaciona con [[virgen_maría]], [[maternidad_divina]], [[mediación_de_marí
 - [Nota: analizados/autentica_día_2_lidera_tu_vida_con_dios.md]
 - Ele_Xto_Stos, Cap. III, §5
 - Scott Hahn, *Hail, Holy Queen* (HHQ), caps. 2, 3 y 6
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), caps. 7 y 8
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), caps. 7 y 8

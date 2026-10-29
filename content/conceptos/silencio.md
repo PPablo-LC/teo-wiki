@@ -39,15 +39,15 @@ En el NT, Jesús guarda silencio ante sus acusadores como el Siervo de Yahvé (I
 
 El silencio de Dios es también una experiencia del justo que clama sin respuesta aparente. El Salmo 22 comienza con el grito de abandono que Jesús hace suyo en la cruz. La tradición monástica ha visto en el silencio el clima de la escucha de Dios.
 
+### Según Royo Marín (TPCr)
+
+El silencio es un medio ascético indispensable para la guarda del corazón y la unión con Dios. La mortificación de la lengua mediante el silencio evita pecados de murmuración, juicios temerarios y palabras ociosas. El silencio facilita el recogimiento interior y prepara el alma para la [[oración_contemplativa]] (TPCr, Segunda Parte, Cap. sobre mortificación). La tradición monástica valora el silencio como «custodia del corazón».
+
 ### Según la Guía de Liturgia (GLit-2024)
 
 La Guía de Liturgia de la Legión de Cristo afirma que el silencio forma parte de la celebración y está implicado en el principio de participación activa de los fieles, «quienes se asocian al sacerdote en la fe y con el silencio» [GLit-2024, n. 51, citando RS 54 y OGMR 45]. El recogimiento con que se vive la celebración, así como dar toda su importancia a los momentos de silencio que prevén los libros litúrgicos —siempre en armonía con el resto de la celebración—, es parte del estilo con el que se vive la liturgia en la Legión [GLit-2024, n. 51].
 
 En la misa se guardan momentos de silencio en diversos momentos: después de la invitación al acto penitencial [GLit-2024, n. 91], después del *oremus* que precede a la colecta [GLit-2024, n. 94], después de la homilía [GLit-2024, n. 96], después de la comunión [GLit-2024, n. 114], y mientras el celebrante y ministros se preparan para la celebración [GLit-2024, n. 87].
-
-### Según Royo Marín (TPCr)
-
-El silencio es un medio ascético indispensable para la guarda del corazón y la unión con Dios. La mortificación de la lengua mediante el silencio evita pecados de murmuración, juicios temerarios y palabras ociosas. El silencio facilita el recogimiento interior y prepara el alma para la [[oración_contemplativa]] (TPCr, Segunda Parte, Cap. sobre mortificación). La tradición monástica valora el silencio como «custodia del corazón».
 
 ### Según la Regla de San Benito (RSB)
 
@@ -79,7 +79,7 @@ León XIV dedicó una atención particular al silencio durante su viaje apostól
 
 ### Según Evangelization ### Según Evangelization & Culture (EAC-3) Culture n.º 3 «The Digital Age» (EAC-3)
 
-Kathryn Jean Lopez recuerda que el ruido de las redes sociales y las pantallas nos aleja del silencio, de la escucha y del encuentro humano real. Benedicto XVI advierte que «a menudo es en el silencio donde observamos la comunicación más auténtica entre personas que se aman: los gestos, las expresiones faciales y el lenguaje corporal son signos por los cuales se revelan el uno al otro» [EAC-3, 14_lopez_news_addict]. La falta de silencio impide discernir lo importante de lo secundario y dificulta la contemplación del plan de salvación de Dios en la historia. En su Mensaje para la 46.ª Jornada Mundial de las Comunicaciones Sociales (2012), Benedicto XVI enfatiza que «el silencio es un elemento integral de la comunicación; en su ausencia, las palabras ricas en contenido no pueden existir» [EAC-3, 14_lopez_news_addict].
+Kathryn Jean López recuerda que el ruido de las redes sociales y las pantallas nos aleja del silencio, de la escucha y del encuentro humano real. Benedicto XVI advierte que «a menudo es en el silencio donde observamos la comunicación más auténtica entre personas que se aman: los gestos, las expresiones faciales y el lenguaje corporal son signos por los cuales se revelan el uno al otro» [EAC-3, 14_lopez_news_addict]. La falta de silencio impide discernir lo importante de lo secundario y dificulta la contemplación del plan de salvación de Dios en la historia. En su Mensaje para la 46.ª Jornada Mundial de las Comunicaciones Sociales (2012), Benedicto XVI enfatiza que «el silencio es un elemento integral de la comunicación; en su ausencia, las palabras ricas en contenido no pueden existir» [EAC-3, 14_lopez_news_addict].
 
 ### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
 

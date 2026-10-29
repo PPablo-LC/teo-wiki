@@ -23,7 +23,7 @@ Su obra más célebre, *La República* (*Politeia*), escrita alrededor del 375 a
 
 Christopher Kaczor, en «Minds: Lessons for Today from Plato's Republic» (10_minds.md), examina la vigencia de *La República* para el pensamiento contemporáneo sobre justicia y gobierno.
 
-**La pregunta fundamental.** La pregunta fundamental de *La República* es sobre la naturaleza de la justicia. Kaczor señala que, aunque existen obras recientes importantísimas sobre justicia (Rawls, Nozick, MacIntyre), la pregunta por la justicia es perenne y Platón la formula con una profundidad que sigue siendo inigualable.
+**La pregunta fundamental.** La pregunta fundamental de *La República* es sobre la naturaleza de la justicia. Kaczor señala que, aunque existen obras recientes importantísimas sobre justicia (Rawls, Nozick, MacIntyre), la pregunta por la justicia es perenne y Platón la fórmula con una profundidad que sigue siendo inigualable.
 
 ***La República* como crítica del utopismo.** Kaczor sostiene que *La República* es «mejor leída como un argumento contra el utopismo, el esfuerzo de hacer el cielo en la tierra». Sócrates propone una serie de requisitos cada vez más absurdos para lograr una orden perfectamente justa: abolir la propiedad privada, que hombres y mujeres hagan ejercicio desnudos, compartir esposas, criar hijos sin conocer a sus padres, fijar el lugar de cada uno desde el nacimiento, y dictar «nobles mentiras» para mantener a cada uno en su lugar. Todo esto debe ser gobernado por un rey filósofo perfectamente sabio y desinteresado. «La palabra que describe este tipo de control absoluto de arriba hacia abajo es totalitarismo».
 
@@ -55,6 +55,6 @@ Platón es de importancia capital para la teología católica porque su filosof�
 - EAC-21, 10_minds.md (Christopher Kaczor), «Minds: Lessons for Today from Plato's Republic»
 - Platón, *La República* (*Politeia*), ca. 375 a.C.
 - Rawls, John, *A Theory of Justice* (1971)
-- Nozick, Robert, *Anarchy, State, and Utopia* (1974)
+- Nozick, Robert, *Anarchy, State, and Utopía* (1974)
 - MacIntyre, Alasdair, *Whose Justice? Which Rationality?* (1988)
 - Hayek, Friedrich, *The Road to Serfdom* (1944)

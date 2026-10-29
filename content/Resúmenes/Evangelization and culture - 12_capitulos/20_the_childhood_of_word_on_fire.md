@@ -18,7 +18,7 @@ tags: ["resumen", "evangelization_and_culture_12", "testimonios_personales", "in
 - [[santidad_infantil]] — "ser niño es ser santo": confianza total en padres = confianza de santos en Dios (Brian A'Hearn)
 - [[teosis_divinización]] — Hans Urs von Balthasar: *Unless You Become Like This Child*; teología de la filiación adoptiva (Rom 8,15); "alcanzamos madurez haciéndonos niños espirituales" (Robert Mixa)
 - [[nueva_evangelización]] — colocar teosis/filialidad en centro del llamado a nueva evangelización (Juan Pablo II)
-- [[sufrimiento_y_gloria]] — "padecimientos presente no comparables a gloria por revelarse" (Rom 8,18); días oscuros vistos como luz en retrospectiva (Tom Martin)
+- [[sufrimiento_y_gloria]] — "padecimientos presente no comparables a gloria por revelarse" (Rom 8,18); días oscuros vistos como luz en retrospectiva (Tom Martín)
 - [[juego_y_aventura]] — juguetes con personalidad (Lucky One, Patcholo, Lassie...), historias épicas bajo cobija de oscuridad (Gianna Torres)
 - [[virtud_heroica_infantil]] — obsesión por salvar gente (Zorro, Superman); ética blanco/negro, sentido natural de justicia (Jared Zimmerer)
 - [[paternidad_espiritual]] — padre como gigante/genio/león con alas de paloma; antorcha de fe transmitida (Tod Worner, Matthew Becklo)
@@ -33,7 +33,7 @@ Sección "Spotlight on Word on Fire" que reúne **20 micro-testimonios** de miem
 
 1. **Caroline Foreman Maurer**: Soñaba panadería/gato/depto a los 13; ahora >13, esposo, casa, hijo recién nacido. "Sócrates: única sabiduría es saber que no sabes nada. Misterio de tu vida te sorprenderá. Misterio de infancia nunca termina; solo cambian roles."
 
-2. **Bobby Angel**: Infancia despreocupada (trabajo duro de padres), inmersión en historias, natación, superhéroes. Educación católica + Misa sábado → imaginación floreció. "Lo católico siempre entrelazado con aventura y belleza". Ahora guía a 4 hijos a conocer Dios, jugar sin freno, amar al prójimo.
+2. **Bobby Ángel**: Infancia despreocupada (trabajo duro de padres), inmersión en historias, natación, superhéroes. Educación católica + Misa sábado → imaginación floreció. "Lo católico siempre entrelazado con aventura y belleza". Ahora guía a 4 hijos a conocer Dios, jugar sin freno, amar al prójimo.
 
 3. **Kurt Crenwelge**: "Brat militar" (Panamá, Alemania, Illinois). Super Nintendo, Toy Story, Lion King, Harry Potter, LOTR, CD Sgt. Pepper, viajes Amtrak, Jeff Foxworthy. **11-S como fin de infancia**: transición a adolescencia, entender magnitud de problemas mundiales. Aún así, infancia maravillosa, optimismo, asombro, tontería.
 
@@ -51,7 +51,7 @@ Sección "Spotlight on Word on Fire" que reúne **20 micro-testimonios** de miem
 
 10. **Robert Mixa**: Mt 18,3 ("hacerse como niños") parece dicho poeta romántico (dulce, insustancial). Pero místicos/santos: **encarna sustancia de vida eclesial**. Hans Urs von Balthasar, *Unless You Become Like This Child*: Niño consumado = Cristo. Haciéndonos niños espirituales —específicamente como *este* Niño, Jesús, que da Espíritu de filiación para gritar "¡Abba! Padre!" (Rom 8,15) → **alcanzamos madurez**. Somos llamados hijos de Dios por adopción. Juan Pablo II: colocar teología de **deificación/teosis** en centro de **Nueva Evangelización**, llamando a todos a abrazar destino childlike en Cristo.
 
-11. **Tom Martin**: Infancia = inocencia mente, simplicidad gozo. Tiempo familia, juegos, buena compañía. "Extraño: aquello fue 'tiempo de gran luz'; hoy se siente más oscuro. Dentro 30 años, estos días serán vistos como luz. ¿Cuál es la verdad? ¿Cómo lo ve Dios? Pista en Pablo: 'Padecimientos presente no comparables a gloria por revelarse' (Rom 8,18). Mirando atrás veo gozo. Olvido luchas. No imagino cuánto gozo pierdo en presente, pero sé que me romperá corazón anhelarlo un día."
+11. **Tom Martín**: Infancia = inocencia mente, simplicidad gozo. Tiempo familia, juegos, buena compañía. "Extraño: aquello fue 'tiempo de gran luz'; hoy se siente más oscuro. Dentro 30 años, estos días serán vistos como luz. ¿Cuál es la verdad? ¿Cómo lo ve Dios? Pista en Pablo: 'Padecimientos presente no comparables a gloria por revelarse' (Rom 8,18). Mirando atrás veo gozo. Olvido luchas. No imagino cuánto gozo pierdo en presente, pero sé que me romperá corazón anhelarlo un día."
 
 12. **Gianna Torres**: Juguetes con personalidad/nombre: Lucky One, Katie, Emma, Jessica (gatos naranjas), Patcholo (conejo blanco), Lassie (zorro rojo), Mary (dálmata), Rosemary (cockapoo), Siam/Jake/Sammy (Beanie Babies). Aventuras grandiosas: salvar mundo de villano oso Bruno von Bear, rescatar Lassie/Mary/Rosemary de perrera, bailes de gala con armadura. Noche → historias continuaban en oscuridad: susurros a hermanas/hermano, tan épicas como juego. Ya no juegan, pero conservan amigos de peluche; historias de Lucky One viven en historias/arte privados que crea para hermano cada Navidad.
 

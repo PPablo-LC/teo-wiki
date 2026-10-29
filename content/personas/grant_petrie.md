@@ -1,7 +1,7 @@
 ---
 type: "Persona"
 title: "Grant Petrie"
-description: "Research professor of Sacred Scripture en el Augustine Institute (Denver), autor de The Case for Jesus."
+description: "Research professor of Sacred Scripture en el Augustine Institute (Denver), autor de The Case for Jesús."
 timestamp: "2026-07-24"
 tags:
   - apologética
@@ -14,7 +14,7 @@ tags:
 
 ## Definición
 
-El Dr. Grant Petrie es research professor of Sacred Scripture en el Augustine Institute (Denver, Colorado). Católico, autor del libro *The Case for Jesus: The Biblical and Historical Evidence for Christ*, presenta un Bible study tipo Lectio que examina la fiabilidad histórica de los Evangelios desde una perspectiva apologética católica académica.
+El Dr. Grant Petrie es research professor of Sacred Scripture en el Augustine Institute (Denver, Colorado). Católico, autor del libro *The Case for Jesús: The Biblical and Historical Evidence for Christ*, presenta un Bible study tipo Lectio que examina la fiabilidad histórica de los Evangelios desde una perspectiva apologética católica académica.
 
 ## Desarrollo doctrinal
 
@@ -39,7 +39,7 @@ El Dr. Petrie presenta un caso histórico para la autoría apostólica de los Ev
 - Católico de toda la vida.
 - Estudió en universidades seculares donde aprendió la teoría del anonimato.
 - Investigó y descubrió las debilidades de dicha teoría.
-- Publicó *The Case for Jesus* como resultado de su investigación.
+- Publicó *The Case for Jesús* como resultado de su investigación.
 
 ## Relaciones doctrinales
 
@@ -55,5 +55,5 @@ El Dr. Petrie presenta un caso histórico para la autoría apostólica de los Ev
 
 ## Referencias
 
-- *The Case for Jesus: The Biblical and Historical Evidence for Christ* — Dr. Grant Petrie, Augustine Institute.
+- *The Case for Jesús: The Biblical and Historical Evidence for Christ* — Dr. Grant Petrie, Augustine Institute.
 - Código: **CfJ** — `raw/Bases_doctrinales-raw/Case_for_Jesus/`

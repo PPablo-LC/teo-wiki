@@ -33,13 +33,19 @@ El hombre es un ser corporal y espiritual: «El cuerpo del hombre participa de l
 
 La persona humana es el corazón y el alma de la enseñanza social católica [CompDS §107]. Toda la vida social es expresión de su inconfundible protagonista: la persona humana [CompDS §106]. El hombre es sujeto, fundamento y fin de la vida social [CompDS §106]. Es un ser único e irrepetible, existente como un «yo» capaz de autocomprenderse, autoposeerse y autodeterminarse [CompDS §131]. Pertenece a la persona la apertura a la trascendencia: está abierta al infinito —a Dios— y a los demás hombres [CompDS §130]. La persona no debe ser considerada como individualidad absoluta ni como mera célula de un organismo social [CompDS §125]. El respeto de la dignidad humana exige «considerar al prójimo como otro yo, cuidando en primer lugar de su vida y de los medios necesarios para vivirla dignamente» [CompDS §132].
 
-### Según el Compendio (CompDS)
-
 La persona humana es el centro de la atención en la familia, como fin y nunca como medio; en ella el niño desarrolla sus potencialidades, se hace consciente de su dignidad y se prepara para afrontar su destino único e irrepetible [CompDS §212-213]. La identidad sexual es condición objetiva para formar una pareja en el matrimonio, según la complementariedad física, moral y espiritual [CompDS §224]. La paternidad y la maternidad son un cometido no solo físico sino espiritual, por el que pasa la genealogía de la persona que tiene su inicio eterno en Dios [CompDS §237]. El trabajo es «actus personae», expresión esencial de la persona; la dimensión subjetiva del trabajo tiene preeminencia sobre la objetiva [CompDS §270-272]. El trabajo confirma la profunda identidad del hombre creado a imagen y semejanza de Dios [CompDS §275]. El hombre mismo es «el recurso principal» y «el factor decisivo» de que dispone [CompDS §278]. El trabajo es un bien útil, digno de él, porque expresa y acrecienta la dignidad humana [CompDS §287]. La persona humana tiene necesidades más allá del «tener»; su naturaleza y vocación están en relación inseparable con el Trascendente [CompDS §318].
-
 ### Según el Concilio Vaticano II (ConcVatII)
 
 La persona humana es «la única criatura en la tierra a la que Dios ha amado por sí misma» (GS 24). Creada a imagen de Dios (GS 12), posee alma espiritual inmortal y cuerpo material que debe ser honrado como criatura de Dios (GS 14). Por su interioridad, la persona es superior al universo entero; «entra dentro de su corazón, donde Dios le aguarda, escrutador de los corazones, y donde él personalmente, bajo la mirada de Dios, decide su propio destino» (GS 14). El hombre es un ser social por naturaleza: «no puede vivir ni desplegar sus cualidades sin relacionarse con los demás» (GS 12). «El principio, el sujeto y el fin de todas las instituciones sociales es y debe ser la persona humana» (GS 25). El misterio de la persona solo se esclarece en el misterio del Verbo encarnado (GS 22).
+### Según Royo Marín (TPCr)
+
+Royo Marín estudia la persona humana en el contexto del organismo sobrenatural. La persona humana es el sujeto de la elevación sobrenatural: recibe la gracia santificante, las virtudes infusas y los dones del Espíritu Santo. El cuerpo y el alma son los dos principios constitutivos del ser humano.
+
+El alma humana, por ser espiritual, es inmortal. La unión del alma con el cuerpo no es accidental sino sustancial. La persona humana está llamada a la perfección del amor, que es la plenitud de la vida cristiana.
+
+[TPCr, Parte II — El Organismo Sobrenatural y la Perfección Cristiana]
+
+
 ### Según la *Redemptor Hominis* (RH)
 
 La persona humana ocupa el centro de la reflexión de la primera encíclica de Juan Pablo II. Cristo, con su encarnación, «se ha unido en cierto modo a todo hombre» [RH §13, citando GS 22]. La Iglesia divisa su cometido fundamental en «lograr que tal unión pueda actuarse y renovarse continuamente» [RH §13]. Jesucristo es «el camino principal de la Iglesia» que conduce de Cristo al hombre [RH §13].
@@ -51,15 +57,6 @@ El hombre en su realidad singular (porque es «persona») tiene una historia pro
 La persona humana es sujeto de derechos inviolables. La Declaración de los Derechos Humanos debe servir como criterio esencial de todos los programas, sistemas y regímenes, cuyo fin fundamental debe ser el bien del hombre —«de la persona en la comunidad»— como factor fundamental del bien común [RH §17]. Se impone la «prioridad de la ética sobre la técnica, el primado de la persona sobre las cosas, la superioridad del espíritu sobre la materia» [RH §16]. El desarrollo debe ser de las personas y no solamente multiplicación de cosas; se trata de «ser más» y no solo de «tener más» [RH §16].
 
 La vocación cristiana consiste en participar en la misión real de Cristo, que se expresa en la disponibilidad a servir según su ejemplo: «no ha venido para ser servido, sino para servir» [RH §21, citando Mt 20,28]. Esta dignidad de la vocación se realiza en la donación sin reservas de toda la persona, en espíritu de amor a Cristo y, a través de Él, a todos los hombres [RH §21].
-
-### Según Royo Marín (TPCr)
-
-Royo Marín estudia la persona humana en el contexto del organismo sobrenatural. La persona humana es el sujeto de la elevación sobrenatural: recibe la gracia santificante, las virtudes infusas y los dones del Espíritu Santo. El cuerpo y el alma son los dos principios constitutivos del ser humano.
-
-El alma humana, por ser espiritual, es inmortal. La unión del alma con el cuerpo no es accidental sino sustancial. La persona humana está llamada a la perfección del amor, que es la plenitud de la vida cristiana.
-
-[TPCr, Parte II — El Organismo Sobrenatural y la Perfección Cristiana]
-
 
 ### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
 

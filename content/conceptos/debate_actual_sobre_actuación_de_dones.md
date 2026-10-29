@@ -16,7 +16,7 @@ Debate teológico contemporáneo sobre el modo de actuación de los [[dones_del_
 
 ## Desarrollo doctrinal
 
-La cuestión se plantea al distinguir la acción de las virtudes cristianas (infusas), guiadas por la razón iluminada por la fe, de la actuación propia de los dones del Espíritu Santo. La interpretación tradicional, siguiendo la lectura del pensamiento tomista de Cayetano y Juan de Santo Tomás, atribuía a los dones un carácter extraordinario y excepcional. La interpretación abierta por Pinckaers y desarrollada por Angela McKay Knobel sostiene, en cambio, que la vida moral cristiana se distingue de un comportamiento informado únicamente por las virtudes humanas adquiridas por la presencia simultánea de las virtudes morales infusas y de los dones del Espíritu Santo.
+La cuestión se plantea al distinguir la acción de las virtudes cristianas (infusas), guiadas por la razón iluminada por la fe, de la actuación propia de los dones del Espíritu Santo. La interpretación tradicional, siguiendo la lectura del pensamiento tomista de Cayetano y Juan de Santo Tomás, atribuía a los dones un carácter extraordinario y excepcional. La interpretación abierta por Pinckaers y desarrollada por Ángela McKay Knobel sostiene, en cambio, que la vida moral cristiana se distingue de un comportamiento informado únicamente por las virtudes humanas adquiridas por la presencia simultánea de las virtudes morales infusas y de los dones del Espíritu Santo.
 
 ## Perspectivas por fuente
 
@@ -24,7 +24,7 @@ La cuestión se plantea al distinguir la acción de las virtudes cristianas (inf
 
 Siguiendo la interpretación del pensamiento tomista propuesta por Gaetano y Juan de Santo Tomás, tradicionalmente se distinguía con claridad la acción de las virtudes cristianas (infusas) guiadas por la razón iluminada por la fe de la actuación de los dones, que tenía un carácter extraordinario y excepcional, propio y casi exclusivo de los santos o de personas con espiritualidad muy elevada. (Ele_Xto_Stos, Cap. VII, §5b)
 
-Siguiendo el camino abierto por Pinckaers, Angela McKay Knobel propuso otra interpretación: la vida moral cristiana se distingue de un comportamiento informado únicamente por las virtudes humanas adquiridas por la presencia simultánea de las virtudes morales infusas y de los dones del Espíritu Santo; la moción del Espíritu Santo, posibilitada por los dones, está presente en la vida cristiana como tal y, por tanto, en la vida de todo cristiano. (Ele_Xto_Stos, Cap. VII, §5b)
+Siguiendo el camino abierto por Pinckaers, Ángela McKay Knobel propuso otra interpretación: la vida moral cristiana se distingue de un comportamiento informado únicamente por las virtudes humanas adquiridas por la presencia simultánea de las virtudes morales infusas y de los dones del Espíritu Santo; la moción del Espíritu Santo, posibilitada por los dones, está presente en la vida cristiana como tal y, por tanto, en la vida de todo cristiano. (Ele_Xto_Stos, Cap. VII, §5b)
 
 El libro coincide con la postura de Knobel en cuanto rechaza la distinción entre una vida cristiana de primera clase (virtudes infusas y dones) y una de segunda clase (solo virtudes infusas); al mismo tiempo, la actuación de los dones se manifiesta de forma gradual, en función de la mayor o menor profundidad de la vida espiritual de cada persona. (Ele_Xto_Stos, Cap. VII, §5b)
 

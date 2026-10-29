@@ -10,7 +10,7 @@ tags: ["resumen", apologética, teofanía, revelación]
 
 # Capítulo 9 — La zarza ardiente
 
-> 📄 **Fuente original:** `09_chapter_nine.md` — *Arguing Religion: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 9: «The Burning Bush», y sección «Conclusion».
+> 📄 **Fuente original:** `09_chapter_nine.md` — *Arguing Religión: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 9: «The Burning Bush», y sección «Conclusión».
 
 ## Conceptos básicos referenciados en este capítulo
 

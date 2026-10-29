@@ -56,7 +56,7 @@ William James comparó a los seres humanos con un perro que entra en una bibliot
 
 La historia del niño que trata de asir a su padre es una metáfora de la relación de Dios con nosotros en el sufrimiento. Un padre no podía explicar a su hijo de tres años por qué debía pasar por el dolor de una cirugía: «solo podía pedirle que confiara en mí en que saldría bien». ¿Hay un «significado» final en nuestro sufrimiento? La Biblia y la tradición obligan a responder afirmativamente. Pero ¿somos capaces, en nuestra condición presente y con nuestras severas limitaciones epistémicas, de captar ese significado pleno? Evidentemente no. ¿Y no miramos a Dios Padre, cuando sufrimos, con una mezcla de perplejidad y enfado? ¿Y no nos promete Dios su solidaridad y su amor, incluso permaneciendo incapaz de «explicarnos» lo que nos ocurre?
 
-### CONCLUSION
+### CONCLUSIÓN
 
 Barron perdió la pista del Abuelo y no sabe qué pasó con sus nietas; ha orado por ellos a lo largo de los años. ¿Estaría aquel hombre más satisfecho con esta reflexión que con su sermón? Lo duda. Pero reiteraría lo que le dijo aquel día: su búsqueda era santa. Aun en medio de su terrible angustia, buscaba a Dios; aunque no llegaban respuestas claras, seguía buscando, y su perseverancia era señal de que, incluso en la oscuridad, la gracia operaba en él. Ese abuelo tenía toda la inteligencia y dignidad de Job; Barron solo puede esperar que haya encontrado algo de consuelo en la terrible voz que viene del torbellino.
 

@@ -23,7 +23,7 @@ Este reconocimiento tiene un término preciso. El sacrificio, en su integridad, 
 
 ### Giussani — Affezione e dimora (AED)
 
-En la Tischrede 147 se formula el principio del sacrificio como reconocimiento: «Si debes arrancarte de una cosa porque debes obedecer al Padre, el sacrificio en su integridad es reconocer una Presencia. Habría que decir: una Presencia que viene antes que tú, que existe antes de que fueras, una Presencia de la que eres hijo» (AED, 07, 193-195). Después de este reconocimiento viene «todo el problema de la gran posibilidad, la más grande posibilidad que se pueda atribuir al Ser: la misericordia y el perdón» (AED, 07, 197).
+En la Tischrede 147 se fórmula el principio del sacrificio como reconocimiento: «Si debes arrancarte de una cosa porque debes obedecer al Padre, el sacrificio en su integridad es reconocer una Presencia. Habría que decir: una Presencia que viene antes que tú, que existe antes de que fueras, una Presencia de la que eres hijo» (AED, 07, 193-195). Después de este reconocimiento viene «todo el problema de la gran posibilidad, la más grande posibilidad que se pueda atribuir al Ser: la misericordia y el perdón» (AED, 07, 197).
 
 En la misma Tischrede se describe el conocimiento como reconocimiento que produce shock: «El hombre es aquel que conoce, y uno conoce cuando el reconocimiento de una realidad le produce un shock, un *affectus*» (AED, 07, 99). Y aclara: «uno no es hombre si no es percutido por la evidencia según el valor que objetivamente tiene o que para él podría tener» (AED, 07, 109).
 

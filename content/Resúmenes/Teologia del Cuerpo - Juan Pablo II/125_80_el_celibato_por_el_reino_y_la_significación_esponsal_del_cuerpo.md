@@ -4,7 +4,7 @@ title: "80. El celibato por el reino y la significación esponsal del cuerpo"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 125
 timestamp: 2026-08-01
-description: "Catequesis 80: la continencia «por el reino de los cielos» se basa en la conciencia del significado esponsal del cuerpo, que distingue al hombre de los animalia y fundamenta tanto el matrimonio como el celibato — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 80: la continencia «por el reino de los cielos» se basa en la conciencia del significado esponsal del cuerpo, que distingue al hombre de los animalia y fundamenta tanto el matrimonio como el celibato — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

@@ -36,6 +36,9 @@ Los cuatro Evangelios tienen origen apostólico y la Iglesia afirma su historici
 - La unidad del Antiguo y Nuevo Testamento se esclarece por la tipología: el Nuevo está escondido en el Antiguo y el Antiguo se hace manifiesto en el Nuevo (CEC §128-129).
 - Cristo mandó a los Apóstoles predicar el Evangelio como fuente de toda verdad salvadora (CEC §75).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+«Evangelio» significa «buena nueva», y fue tomado del AT, donde el mensajero anuncia con el fin del exilio la venida del Reino de Dios (Is 52,7) [VocTeoBib, «Evangelio»]. Jesús se aplica el texto de Is 61,1s para «evangelizar a los pobres» (Lc 4,16-21). «Cumplido es el tiempo y el reino de Dios está cercano» (Mc 1,15): la persona del mensajero se convierte en el centro de la buena nueva —el evangelio es Jesús mismo (Mc 1,1)—. La respuesta exigida es penitencia y fe (Mc 1,15). Los apóstoles proclaman el evangelio hasta los confines de la tierra (Act 1,8), centrado en la muerte y resurrección de Cristo (1Cor 15,1-5). Para Pablo, el evangelio es «fuerza de Dios para la salvación» (Rom 1,16), cumplimiento de las Escrituras (Rom 16,25s). En Juan, el evangelio es la palabra, el testimonio, la verdad y la vida (Ap 14,6s).
 ### Según el Concilio Vaticano II (Dei Verbum)
 
 - Cristo mandó a los Apóstoles predicar a todos los hombres el Evangelio, comunicándoles los dones divinos; este Evangelio fue prometido por los Profetas, completado por Cristo y promulgado con su propia boca como fuente de toda verdad salvadora y ordenación de costumbres (DV 7).
@@ -48,9 +51,6 @@ Los cuatro Evangelios tienen origen apostólico y la Iglesia afirma su historici
 
 Juan Pablo II desarrolla en su catequesis sobre la misión profética de Cristo que Jesús es el Evangelio mismo: la Buena Nueva es inseparable de su persona (cf. *Evangelii Nuntiandi*). Cristo es el «testigo fiel» de la verdad: «Para esto he nacido... para dar testimonio de la verdad» (Jn 18,37). El anuncio del [[reino_de_dios]] constituye el núcleo de su predicación profética; las parábolas del Reino (sembrador, grano de mostaza, levadura, cizaña, banquete de bodas) y las [[bienaventuranzas]] como programa del Evangelio son los contenidos fundamentales de esta proclamación. Cristo revela al Padre: «Quien me ve a mí, ve al Padre» (Jn 14,9), manifestando la unión trinitaria del Hijo con el Padre y su consustancialidad. Como [[cristo_maestro|Maestro]] divino, enseña con autoridad: «Se ha dicho... pero yo os digo», cumpliendo la Ley y los Profetas. La verdad proclamada por Cristo interpela la libertad humana y la conciencia, en consonancia con la doctrina de la [[dignidad_humana|Dignitatis Humanae]] (CJeS, segunda parte: misión profética de Cristo).
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-«Evangelio» significa «buena nueva», y fue tomado del AT, donde el mensajero anuncia con el fin del exilio la venida del Reino de Dios (Is 52,7) [VocTeoBib, «Evangelio»]. Jesús se aplica el texto de Is 61,1s para «evangelizar a los pobres» (Lc 4,16-21). «Cumplido es el tiempo y el reino de Dios está cercano» (Mc 1,15): la persona del mensajero se convierte en el centro de la buena nueva —el evangelio es Jesús mismo (Mc 1,1)—. La respuesta exigida es penitencia y fe (Mc 1,15). Los apóstoles proclaman el evangelio hasta los confines de la tierra (Act 1,8), centrado en la muerte y resurrección de Cristo (1Cor 15,1-5). Para Pablo, el evangelio es «fuerza de Dios para la salvación» (Rom 1,16), cumplimiento de las Escrituras (Rom 16,25s). En Juan, el evangelio es la palabra, el testimonio, la verdad y la vida (Ap 14,6s).
 
 ## Distinciones importantes
 

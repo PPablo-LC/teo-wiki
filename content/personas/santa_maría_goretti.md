@@ -17,7 +17,7 @@ Santa María Goretti (Corinaldo, 1890 – Nettuno, 1902) fue una niña campesina
 
 ## Relevancia teológica
 
-El núcleo doctrinal de su martirio lo formula la fuente: «quella bambina ha preferito morire piuttosto che offendere la volontà di Dio. Il martirio non è altra cosa». Su caso es además el paradigma de la **pureza vivida como defensa del cuerpo-sacramento de la persona**: María Goretti «non aveva molte idee filosofiche sulla persona e sul corpo. Non avendole, si fidava delle idee di Dio» — y las ideas de Dios, expresadas ya en los mandamientos, decían que no cometer actos impuros. El capítulo la defiende de la «smascheración» laicista (que la reduce a «pobre santa», víctima de represiones), mostrando que deducir de la pobreza física e intelectual una «necesaria» pobreza moral «significa non saper nulla dell'amore infinito che Dio ha per tutte le sue creature».
+El núcleo doctrinal de su martirio lo fórmula la fuente: «quella bambina ha preferito morire piuttosto che offendere la volontà di Dio. Il martirio non è altra cosa». Su caso es además el paradigma de la **pureza vivida como defensa del cuerpo-sacramento de la persona**: María Goretti «non aveva molte idee filosofiche sulla persona e sul corpo. Non avendole, si fidava delle idee di Dio» — y las ideas de Dios, expresadas ya en los mandamientos, decían que no cometer actos impuros. El capítulo la defiende de la «smascheración» laicista (que la reduce a «pobre santa», víctima de represiones), mostrando que deducir de la pobreza física e intelectual una «necesaria» pobreza moral «significa non saper nulla dell'amore infinito che Dio ha per tutte le sue creature».
 
 ## Perspectivas por fuente
 
@@ -25,7 +25,7 @@ El núcleo doctrinal de su martirio lo formula la fuente: «quella bambina ha pr
 
 El capítulo 11 desarrolla tres líneas:
 
-- **Contra la deducción sociológica**: la reconstrucción «realista» que pretende explicar la imposibilidad de su santidad por su pobreza, ignorancia y fealdad es «fittizia (tipica dell'intellettuale schifiltoso e razzista)»; «dobbiamo rispettare la forza e la libertà della Grazia di Dio, e non credere mai che essa debba arrestarsi davanti alla povertà umana».
+- **Contra la deducción sociológica**: la reconstrucción «realista» que pretende explicar la imposibilidad de su santidad por su pobreza, ignorancia y fealdad es «fittizia (típica dell'intellettuale schifiltoso e razzista)»; «dobbiamo rispettare la forza e la libertà della Grazia di Dio, e non credere mai che essa debba arrestarsi davanti alla povertà umana».
 - **El cuerpo como manifestación de la persona**: las ciencias humanas han llegado a decir que no se trata solo de «tener un cuerpo» sino de «ser un cuerpo», lugar en que el yo se comunica y se realiza: «è esattamente ciò che la Chiesa ha sempre inteso insegnare quando ha parlato della 'santità' e della 'purezza' del corpo umano». Todo intervien que lacere, manipule o «prive di historia» ese rapporto humilla la persona — aunque lo quiera la propia persona — «e è quindi contro la volontà di quel Dio che ci ha 'interamente' voluti e amati da sempre». La fe añade la amistad con el Dios hecho Uomo, «che ci ha donato il suo Corpo eucarístico, e che ci ha resi 'Tempio' della sua presenza».
 - **La progenie de su ejemplo**: el autor señala que Juan Pablo II beatificó (4-X-1987) no una sino dos «vergini e martiri» del mismo cuadro — **Pierina Morosini**, obrera de Bergamo, y **Antonia Mesina**, de Orgosolo —, precisamente las que un autor laicista había ironizado anticipadamente como «la nueva María Goretti de la sociedad industrial». El Papa: «i passi di Pierina Morosini... continuano a segnare un sentiero luminoso per quanti avvertono il fascino delle sfide evangeliche».
 
@@ -39,6 +39,6 @@ El capítulo 11 desarrolla tres líneas:
 
 ## Referencias
 
-- RdS, cap. 11 «S. Maria Goretti» (`11_s_maria_goretti.md`)
+- RdS, cap. 11 «S. María Goretti» (`11_s_maria_goretti.md`)
 - Fórmula de canonización de Pío XII, 24-VI-1950 (citada en el capítulo)
 - Discurso de Juan Pablo II en la beatificación de Pierina Morosini y Antonia Mesina, 4-X-1987

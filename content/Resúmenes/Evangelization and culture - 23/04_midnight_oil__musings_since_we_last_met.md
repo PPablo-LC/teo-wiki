@@ -46,7 +46,7 @@ Antes de ser católico, Worner nunca habría orado a un santo por su intercesió
 
 ### Exhortación a la oración de William Cowper
 
-Worner cierra su sección principal con el poema «Exhortation to Prayer» de William Cowper, que exhorta a orar temprano y a menudo en lugar de quejarse: la oración hace que las nubes se disipen, trepa la escalera que Jacob vio, da ejercicio a la [[fe]] y al amor, trae toda bendición desde lo alto. El poema concluye: «Restraining prayer, we cease to fight; Prayer makes the Christian's armour bright; And Satan trembles when he sees / The weakest saint upon his knees».
+Worner cierra su sección principal con el poema «Exhortation to Prayer» de William Cowper, que exhorta a orar temprano y a menudo en lugar de quejarse: la oración hace que las nubes se disipen, trepa la escalera que Jacob vio, da ejercicio a la [[fe]] y al amor, trae toda bendición desde lo alto. El poema concluye: «Restraining prayer, we cease to fight; Prayer makes the Christian's armour bright; And Satán trembles when he sees / The weakest saint upon his knees».
 
 ### Books Received
 

@@ -22,7 +22,7 @@ tags: ["resumen", "kings_ocr_clean", "antiguo_testamento"]
 
 ## Resumen
 
-*Kings and Prophets* es el volumen 4 de la serie *The Bible and Its Story*, planificada y producida por Jaca Book—Le Centurion. El texto es de Enrico Galbiati, Elio Guerriero y Antonio Sicari; la traducción inglesa, de Kenneth D. Whitehead, y las ilustraciones, de Antonio Molino. La edición italiana original se titula *Re E Profeti* (1983). Las citas bíblicas proceden de la Revised Standard Version y, cuando se indica, de Today's English Version.
+*Kings and Prophets* es el volumen 4 de la serie *The Bible and Its Story*, planificada y producida por Jaca Book—Le Centurión. El texto es de Enrico Galbiati, Elio Guerriero y Antonio Sicari; la traducción inglesa, de Kenneth D. Whitehead, y las ilustraciones, de Antonio Molino. La edición italiana original se titula *Re E Profeti* (1983). Las citas bíblicas proceden de la Revised Standard Versión y, cuando se indica, de Today's English Versión.
 
 En la introducción, Catherine Litecky explica el punto de vista del volumen: desde Salomón, Israel comenzó a escribir la historia de sus reyes, pero los autores bíblicos la interpretan con un criterio religioso. Si el rey obedecía a Dios, su reinado era un éxito; si adoraba a dioses falsos y descuidaba la alianza, era un fracaso. Los reyes de Israel, a diferencia de los de otros pueblos, estaban bajo la mirada de los profetas, llamados a proclamar el mensaje de Dios al rey y a la comunidad. Algunos profetas, como Elías, no dejaron escritos; otros, como Isaías y Jeremías, pusieron por escrito sus mensajes. Su llamada, también para el lector actual, es «hacer justicia, amar la misericordia y caminar humildemente con Dios» (Miq 6,8).
 

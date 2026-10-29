@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "1. Origen y objetivo del estudio"
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 7
 timestamp: 2026-09-05
 description: "Origen del Informe 1941-2019: la necesidad detectada por la Congregación de afrontar los abusos del pasado y la creación de la Comisión de casos de abuso de menores del pasado."

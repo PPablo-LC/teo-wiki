@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization and culture - 23"]
 - [[conversión]] — proceso central de la vida de Michele: retorno a la fe católica tras un largo camino
 - [[gracia]] — don de Dios que sostiene en el sufrimiento y guía de vuelta a la Iglesia
 - [[esperanza_sobrenatural]] — «forja una confianza enorme en Dios que ninguna cadena lógica de pensamientos puede producir» (Haggerty)
-- [[oración]] — práctica constante que acerca a Dios: el Magnificat, la Hora Santa
+- [[oración]] — práctica constante que acerca a Dios: el Magníficat, la Hora Santa
 - [[evangelización]] — la escritura y el testimonio como instrumentos de proclamación de la fe
 - [[misericordia]] — la presencia de Dios en la vulnerabilidad y el sufrimiento de los enfermos
 - [[encarnación]] — base teológica de la creación y la vida humana
@@ -50,4 +50,4 @@ Michele pertenece al grupo de escritura St. Hildegard y codirige el grupo St. Ro
 
 ### Recomendaciones y consejo final
 
-Recomienda *Conversion* (Fr. Haggerty), *The Better Part* (Fr. Bartunek) y *Jesús de Nazaret* (Benedicto XVI). Su consejo para quienes luchan en la [[oración]]: «Encontrar lo que funciona y ser consistente. En cualquier momento en que nos volvamos de otra cosa hacia Dios, aunque sea solo por un momento, nos ayuda a acercarnos».
+Recomienda *Conversión* (Fr. Haggerty), *The Better Part* (Fr. Bartunek) y *Jesús de Nazaret* (Benedicto XVI). Su consejo para quienes luchan en la [[oración]]: «Encontrar lo que funciona y ser consistente. En cualquier momento en que nos volvamos de otra cosa hacia Dios, aunque sea solo por un momento, nos ayuda a acercarnos».

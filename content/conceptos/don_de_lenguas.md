@@ -23,6 +23,9 @@ El don de lenguas fue concedido a los primeros discípulos para que pudieran pre
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2003 menciona las gracias extraordinarias (carismas) entre las que se cuenta el don de lenguas. El §799-801 trata del discernimiento de los carismas; el don de lenguas está al servicio de la edificación de la Iglesia y requiere discernimiento eclesial.
 ### Según la Summa Theologiae (SmTh)
 
 **Q176 — El don de lenguas:** Los que recibieron el don de lenguas hablaban todas las lenguas necesarias para la predicación del Evangelio, no necesariamente con elegancia y ornato literario, sino con suficiencia para la enseñanza de la fe (q.176 a.1). La Sagrada Escritura muestra que los Apóstoles hablaban en lenguas (Hch 2,4), y la *Glosa* comenta que el Espíritu Santo «les concedió el conocimiento de todas las lenguas».
@@ -36,9 +39,6 @@ San Pablo prefiere la profecía al don de lenguas (1 Cor 14,5: «Es mejor el que
 
 La interpretación de lenguas se reduce al don de profecía, en cuanto que la mente es iluminada para comprender y exponer lo oscuro del discurso (q.176 a.2 ad 4).
 
-### Según el Catecismo (CEC)
-
-El CEC §2003 menciona las gracias extraordinarias (carismas) entre las que se cuenta el don de lenguas. El §799-801 trata del discernimiento de los carismas; el don de lenguas está al servicio de la edificación de la Iglesia y requiere discernimiento eclesial.
 
 ## Distinciones importantes
 

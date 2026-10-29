@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Science: Grace Through Suffering: The Physical and Spiritual Crucifixion of the \"Iron Horse\" — Dr. Jacob Goodwin"
+title: "Science: Grace Through Suffering: The Physical and Spiritual Crucifixión of the \"Iron Horse\" — Dr. Jacob Goodwin"
 fuente: Evangelization and culture - 20_capitulos
 capítulo: 12
 timestamp: 2026-09-08
-description: "Resumen de 'Science: Grace Through Suffering: The Physical and Spiritual Crucifixion of the \"Iron Horse\" — Dr. Jacob Goodwin' — Evangelization and culture - 20_capitulos"
+description: "Resumen de 'Science: Grace Through Suffering: The Physical and Spiritual Crucifixión of the \"Iron Horse\" — Dr. Jacob Goodwin' — Evangelization and culture - 20_capitulos"
 tags: ["resumen", "evangelization and culture - 20 capitulos"]
 ---
 
-# Science: Grace Through Suffering: The Physical and Spiritual Crucifixion of the "Iron Horse" — Dr. Jacob Goodwin
+# Science: Grace Through Suffering: The Physical and Spiritual Crucifixión of the "Iron Horse" — Dr. Jacob Goodwin
 
 ## Conceptos básicos referenciados
 

@@ -32,6 +32,6 @@ San Francisco habla "sobre el asunto de tu alma". Exhorta al ministro a amar a D
 
 La exhortación central es la misericordia con los hermanos pecadores: "Que no haya ningún hermano en el mundo que haya pecado, por grande que sea su pecado, que después de haber visto tu rostro se vaya jamás sin tu misericordia, si busca misericordia; y si no busca misericordia, pregúntale tú si desea misericordia. Y si después aparece ante tu rostro mil veces, ámalo más que a mí, para que puedas atraerlo al Señor, y sobre tales ten siempre misericordia."
 
-Anuncia que en el capítulo de Pentecostés se establecerá que: si algún hermano peca mortalmente, esté obligado por obediencia a acudir a su guardian; los hermanos que lo sepan no le causen vergüenza ni lo difamen, sino que tengan gran misericordia y guarden secreto su pecado, "porque los sanos no necesitan médico, sino los enfermos". El custos cuidará de él misericordiosamente.
+Anuncia que en el capítulo de Pentecostés se establecerá que: si algún hermano peca mortalmente, esté obligado por obediencia a acudir a su guardián; los hermanos que lo sepan no le causen vergüenza ni lo difamen, sino que tengan gran misericordia y guarden secreto su pecado, "porque los sanos no necesitan médico, sino los enfermos". El custos cuidará de él misericordiosamente.
 
 Para los pecados veniales, basta la confesión al hermano sacerdote; donde no haya sacerdote, confessar al hermano hasta encontrar uno que absuelva canónicamente. La única penitencia posible es: "ve y no peques más."

@@ -70,7 +70,7 @@ finita» (00, 53).
 - **Dependencia y subordinación**: la dependencia de Cristo respecto del Padre no
   es una subordinación ontológica, sino la relación propia de la Trinidad.
 - **Cristo modelo vs. Cristo Salvador**: aquí se afirma el Cristo como
-  parametro del obrar humano; el valor salvífico se trata en
+  parámetro del obrar humano; el valor salvífico se trata en
   [[cristo_plenamente_hombre]] y [[identificación_con_cristo]].
 
 ## Relaciones doctrinales

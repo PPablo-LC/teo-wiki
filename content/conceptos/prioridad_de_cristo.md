@@ -28,6 +28,20 @@ Barron invierte deliberadamente el orden de la *Summa Theologiae* de Aquinas: mi
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+- **CEC 422:** «"El Hijo de Dios... se encarnó por nosotros y por nuestra salvación en el seno de la Virgen María, y se hizo verdaderamente hombre." La historia de la salvación se concentra en su vida entera.»
+- **CEC 423:** «Creer en Jesús Hijo de Dios significa creer que él es el Verbo eterno del Padre, que ha venido entre nosotros para hacernos conocer al Padre (cf. Jn 14:9), y para rescatarnos del pecado.»
+### Summa Theologiae (SmTh)
+
+Para Aquinas, Cristo es la recapitulación y cumbre de la *Summa*:
+
+- **Prima pars:** Dios, que es el ejemplar, y los actos de Dios.
+- **Secunda pars:** El hombre, que es la imagen, y los actos del hombre.
+- **Tertia pars:** Cristo, que une a Dios y al hombre, y sus actos.
+
+Michel Corbin, SJ, mentor doctoral de Barron, demostró que «para Aquinas también Cristo es el centro» (*Le chemin de la théologie chez Thomas d'Aquin*, 1974). La estructura de la Summa no es meramente sistemática sino narrativa: culmina en Cristo como punto donde convergen todas las historias.
+
 ### Evangelization & Culture 7 (EcC7)
 
 **Matthew Levering** analiza el debate en detalle:
@@ -44,20 +58,6 @@ Barron responde: «Si Jesús es simplemente un símbolo para o portador de una c
 
 El movimiento de Barron es «en precisamente la dirección opuesta»: quiere dar prioridad a Jesucristo en su vida concreta, muerte y Resurrección. «No es el ser humano en presencia del misterio absoluto lo que finalmente importa, sino más bien el Jesús que muestra de una manera completamente sorprendente la verdadera naturaleza de ese misterio» (Barron, *The Priority of Christ*).
 
-### Summa Theologiae (SmTh)
-
-Para Aquinas, Cristo es la recapitulación y cumbre de la *Summa*:
-
-- **Prima pars:** Dios, que es el ejemplar, y los actos de Dios.
-- **Secunda pars:** El hombre, que es la imagen, y los actos del hombre.
-- **Tertia pars:** Cristo, que une a Dios y al hombre, y sus actos.
-
-Michel Corbin, SJ, mentor doctoral de Barron, demostró que «para Aquinas también Cristo es el centro» (*Le chemin de la théologie chez Thomas d'Aquin*, 1974). La estructura de la Summa no es meramente sistemática sino narrativa: culmina en Cristo como punto donde convergen todas las historias.
-
-### Catecismo de la Iglesia Católica (CEC)
-
-- **CEC 422:** «"El Hijo de Dios... se encarnó por nosotros y por nuestra salvación en el seno de la Virgen María, y se hizo verdaderamente hombre." La historia de la salvación se concentra en su vida entera.»
-- **CEC 423:** «Creer en Jesús Hijo de Dios significa creer que él es el Verbo eterno del Padre, que ha venido entre nosotros para hacernos conocer al Padre (cf. Jn 14:9), y para rescatarnos del pecado.»
 
 ## Distinciones importantes
 

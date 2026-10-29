@@ -49,13 +49,13 @@ CEC §1396: La Eucaristía hace la Iglesia — unidad del Cuerpo místico.
 
 El NT distingue tres sentidos del Cuerpo de Cristo. El cuerpo individual de Jesús: verdadero cuerpo humano, nacido de María, crucificado y resucitado, ahora glorioso. El cuerpo eucarístico: presencia sacramental por la conversión del pan y el vino. La Iglesia como cuerpo de Cristo: por el Bautismo y la Eucaristía los creyentes son incorporados a Cristo formando un solo cuerpo, del cual Él es la Cabeza. En Ef 5, Cristo es la Cabeza y la Iglesia su Esposa. Nuestros cuerpos, miembros de Cristo y templos del Espíritu, resucitarán conformados al cuerpo glorioso de Cristo.
 
-### Según Royo Marín (TPCr)
-
-TPCr, Segunda Parte, Cap. 5: La Iglesia es el Cuerpo místico de Cristo. Cristo es la Cabeza; los miembros están unidos entre sí por la caridad y la comunión de los santos. La desigual distribución de las gracias está ordenada al crecimiento del Cuerpo místico. La Eucaristía es el sacramento que realiza la unidad del Cuerpo.
-
 ### Según el Concilio Vaticano II (ConcVatII)
 
 LG §7: La Iglesia es el Cuerpo de Cristo. Todos los miembros no viven de la misma manera, pero están animados por el mismo Espíritu. Cristo es la Cabeza.
+
+### Según Royo Marín (TPCr)
+
+TPCr, Segunda Parte, Cap. 5: La Iglesia es el Cuerpo místico de Cristo. Cristo es la Cabeza; los miembros están unidos entre sí por la caridad y la comunión de los santos. La desigual distribución de las gracias está ordenada al crecimiento del Cuerpo místico. La Eucaristía es el sacramento que realiza la unidad del Cuerpo.
 
 ### Según Juan Pablo II (Redemptor Hominis)
 

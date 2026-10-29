@@ -40,14 +40,6 @@ Cada uno debe caminar por el camino de la fe viva según los dones y funciones q
 
 [SmTh IIa-IIae Q184 a.1-3]
 
-### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
-
-Mons. Erik Varden aborda la perfección cristiana en el capítulo 5, partiendo de la llamada de Cristo: «Sed perfectos, como vuestro Padre celestial es perfecto» (Mt 5,48). Esta perfección no consiste en estar libre de fallas, sino en volverse «apto para el propósito» —transformado en amor para ver a los demás como Dios los ve.
-
-Varden conecta la perfección con el esplendor de la [[verdad]]. La pretensión cristiana de la verdad se vuelve convincente cuando su esplendor se hace personalmente evidente con amor sacrificial en la [[santidad]], purificada de las tentaciones de contemporizar. La [[llamada_universal_a_la_santidad]] fue «la nota más fuerte que tocó el Concilio Vaticano II».
-
-La perfección se alcanza resistiendo a la [[ambición]], que Bernardo describe como «un mal sutil, un virus secreto, una peste oculta, un artífice del engaño; es madre de la [[hipocresía]], progenitora de la [[envidia]], origen de los vicios».
-
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica las páginas centrales de su obra a la perfección cristiana. Establece que la perfección consiste esencialmente en la caridad, siguiendo la doctrina tomista. La caridad es la forma de todas las virtudes y el vínculo de la perfección (Col 3,14).
@@ -60,6 +52,14 @@ Las tres vías de la perfección son:
 La perfección cristiana no es privilegio de los religiosos o sacerdotes, sino vocación universal: todos los cristianos están llamados a la santidad (Mt 5,48).
 
 [TPCr, obra completa; especialmente Conclusiones de la Segunda Parte y Parte III-IV]
+
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden aborda la perfección cristiana en el capítulo 5, partiendo de la llamada de Cristo: «Sed perfectos, como vuestro Padre celestial es perfecto» (Mt 5,48). Esta perfección no consiste en estar libre de fallas, sino en volverse «apto para el propósito» —transformado en amor para ver a los demás como Dios los ve.
+
+Varden conecta la perfección con el esplendor de la [[verdad]]. La pretensión cristiana de la verdad se vuelve convincente cuando su esplendor se hace personalmente evidente con amor sacrificial en la [[santidad]], purificada de las tentaciones de contemporizar. La [[llamada_universal_a_la_santidad]] fue «la nota más fuerte que tocó el Concilio Vaticano II».
+
+La perfección se alcanza resistiendo a la [[ambición]], que Bernardo describe como «un mal sutil, un virus secreto, una peste oculta, un artífice del engaño; es madre de la [[hipocresía]], progenitora de la [[envidia]], origen de los vicios».
 
 ### Según la Catequesis de Juan Pablo II (CrSJP)
 

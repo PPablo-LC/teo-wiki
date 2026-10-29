@@ -25,10 +25,6 @@ La vida contemplativa pertenece a la santidad de la Iglesia (§920). «Las almas
 
 *Perfectae Caritatis* §7 trata de los institutos de vida contemplativa: están «dedicados íntegramente a la contemplación de Dios en el silencio, la oración y la penitencia», y tienen «gran importancia en el cuerpo místico de Cristo», del cual «la Iglesia espera un renovado y evidente testimonio del admirable unión que existe en Cristo de la vida contemplativa y activa, y de que ésta se nutre de aquella con singular alimento». Deben «observarse fielmente en ellos su espíritu y costumbres propias», procurándose «con especial cuidado el bien espiritual de los miembros» y un «régimen de vida adaptado a las necesidades de nuestro tiempo». Las comunidades claustrales «dediquen también la vida por entero a la oración, así por la Liturgia de las Horas como por la meditación, la Eucaristía y la penitencia», y «procuren hacer participar a los fieles, según la índole de su instituto, de los bienes espirituales de su vida contemplativa, mediante la recepción de personas y con los otros medios de cooperación apostólica» (PC §7).
 
-### Según Royo Marín (TPCr)
-
-La vida contemplativa es la cumbre de la vida cristiana en la tierra, orientada a la [[unión_transformante]] con Dios. El alma contemplativa progresa por las tres vías —purgativa, iluminativa y unitiva— hasta alcanzar la [[contemplación_infusa]] y el [[matrimonio_espiritual]].
-
 ### Según la Summa Theologiae (SmTh)
 
 #### División de la vida (q.179)
@@ -64,6 +60,10 @@ La vida contemplativa es duradera en sí misma porque trata de cosas incorruptib
 #### Comparación con la vida activa (q.182)
 
 La vida contemplativa es mejor que la activa en sí misma (q.182 a.1), más meritoria (q.182 a.2), y anterior en dignidad. La vida activa la ayuda disponiendo las pasiones y es anterior en el tiempo como disposición (q.182 a.3-4). Para más detalle, véase [[vida_activa]].
+
+### Según Royo Marín (TPCr)
+
+La vida contemplativa es la cumbre de la vida cristiana en la tierra, orientada a la [[unión_transformante]] con Dios. El alma contemplativa progresa por las tres vías —purgativa, iluminativa y unitiva— hasta alcanzar la [[contemplación_infusa]] y el [[matrimonio_espiritual]].
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

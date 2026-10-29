@@ -25,13 +25,13 @@ En la Sagrada Escritura, la palabra de Dios (*dabar Yahweh*) es eficaz: realiza 
 
 Dios se revela mediante palabras y acciones. «La palabra de Dios, que es la Palabra de salvación» (CEC §101) se transmite en la Iglesia mediante la Tradición y la Escritura. La fe viene de la escucha de la palabra (CEC §875). La palabra de Dios es «fuerza de Dios para la salvación de todo el que cree» (CEC §104). Jesús, Palabra hecha carne, es la comunicación plena del Padre (CEC §65). La liturgia es el lugar donde la palabra de Dios resuena como Palabra viva (CEC §1100–1103).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La palabra de Dios en el AT es creadora, profética y sapiencial. En el NT, Cristo es la Palabra hecha carne. El término *palabra* abarca tanto la predicación apostólica (*kerygma*) como la enseñanza moral (*didaché*). La palabra humana es don de Dios; la Biblia distingue entre la palabra verdadera (que edifica, alaba, enseña) y la palabra falsa (mentira, blasfemia, murmuración).
 ### Según el Concilio Vaticano II
 
 La Constitución *Dei Verbum* desarrolla la revelación como comunicación de Dios mediante palabras y obras intrínsecamente conexas (DV §2). La palabra humana utilizada por los autores sagrados está inspirada por el Espíritu Santo. *Gaudium et Spes* subraya que la palabra es vehículo de la cultura humana y de la comunicación entre las personas (GS §53).
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La palabra de Dios en el AT es creadora, profética y sapiencial. En el NT, Cristo es la Palabra hecha carne. El término *palabra* abarca tanto la predicación apostólica (*kerygma*) como la enseñanza moral (*didaché*). La palabra humana es don de Dios; la Biblia distingue entre la palabra verdadera (que edifica, alaba, enseña) y la palabra falsa (mentira, blasfemia, murmuración).
 
 ## Distinciones importantes
 

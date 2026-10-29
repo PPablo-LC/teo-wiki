@@ -31,7 +31,7 @@ Ehrman argumenta que los Evangelios no deben interpretarse con un «hermenéutic
 
 ### Crítica desde la perspectiva católica
 
-El Dr. Petrie en *The Case for Jesus* refuta estos argumentos:
+El Dr. Petrie en *The Case for Jesús* refuta estos argumentos:
 
 1. **El anonimato**: La teoría del anonimato no tiene base manuscrita (zero copias anónimas).
 2. **El teléfono**: El caso es distinto porque los Evangelios fueron escritos relativamente pronto y por testigos o sus compañeros directos.
@@ -43,7 +43,7 @@ El Dr. Petrie en *The Case for Jesus* refuta estos argumentos:
 - Antiguo cristiano evangélico, actualmente ateo.
 - Autor de múltiples libros sobre el Nuevo Testamento.
 - Su introducción al NT es la más utilizada en universidades de EE.UU.
-- Citado en *The Case for Jesus* (CfJ), Sesiones 1 y 3.
+- Citado en *The Case for Jesús* (CfJ), Sesiones 1 y 3.
 
 ## Relaciones doctrinales
 
@@ -61,4 +61,4 @@ El Dr. Petrie en *The Case for Jesus* refuta estos argumentos:
 ## Referencias
 
 - Ehrman, Bart D. *The New Testament: A Historical Introduction to the Early Christian Writings*. Oxford University Press.
-- *The Case for Jesus* (CfJ), Sesiones 1 y 3.
+- *The Case for Jesús* (CfJ), Sesiones 1 y 3.

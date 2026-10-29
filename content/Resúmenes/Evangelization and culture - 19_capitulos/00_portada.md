@@ -20,7 +20,7 @@ tags: ["resumen", "evangelization and culture - 19 capitulos"]
 
 ## Contenido
 
-La portada identifica la revista: **Evangelization & Culture: The Journal of the Word on Fire Institute**. Número 19 | Artificial Intelligence (Primavera 2024). La imagen de portada fue creada por Simon Lee (Unsplash) con software de renderizado 3D.
+La portada identifica la revista: **Evangelization & Culture: The Journal of the Word on Fire Institute**. Número 19 | Artificial Intelligence (Primavera 2024). La imagen de portada fue creada por Simón Lee (Unsplash) con software de renderizado 3D.
 
 ### From the Desk / From the Institute
 
@@ -30,7 +30,7 @@ La portada identifica la revista: **Evangelization & Culture: The Journal of the
 ### Sections
 
 - Midnight Oil — musings since we last met
-- Lives: St. Dymphna, patroness of the anxious — Angela M. Jendro
+- Lives: St. Dymphna, patroness of the anxious — Ángela M. Jendro
 - Stacks: resolving conflict with machines — Andre Vlok
 - Film: AI on the silver screen — Kathy Schiffer
 - Spotlight: Word on Fire's The New Ressourcement

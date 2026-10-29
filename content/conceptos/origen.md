@@ -20,7 +20,7 @@ En la antropología de [[luigi_giussani]], el **origen** es el término
 originante del hombre: no un principio neutro o impersonal, sino el
 **Misterio** del que la persona procede y al que tiende. La conciencia de sí
 crece en la medida en que crece la **conciencia del rapporto con el
-origen**: «quanto più cresce la coscienza del rapporto con la mia origine,
+origen**: «quanto più cresce la coscienza del rapporto con la mía origine,
 tanto più cresce la coscienza di me stesso».
 
 ## Desarrollo doctrinal

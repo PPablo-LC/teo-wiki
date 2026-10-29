@@ -66,6 +66,13 @@ a.4 — En la bienaventuranza divina se incluye toda bienaventuranza: toda biena
 
 [SmTh Ia-IIae q.1-5; Suppl. q.93-95]
 
+### Según Royo Marín (TPCr)
+
+El fin de la vida cristiana es la visión beatífica, que constituye la perfección última del hombre. Todas las gracias, virtudes y dones del Espíritu Santo se ordenan a preparar al alma para la bienaventuranza eterna. En el cielo, el alma unida a Dios goza de una felicidad perfecta que consiste en la posesión del Bien infinito.
+
+[TPCr, Parte I, Cap. 1; Parte II, Cap. 2]
+
+
 ### Según Pinckaers (FMC)
 
 Pinckaers trata la bienaventuranza a lo largo de *Las Fuentes de la Moral Cristiana* como el concepto organizador de toda la teología moral.
@@ -79,13 +86,6 @@ Pinckaers trata la bienaventuranza a lo largo de *Las Fuentes de la Moral Cristi
 **Ockham y la eliminación de la bienaventuranza.** Ockham (caps. X y XIV) elimina la inclinación a la felicidad del núcleo de la libertad. Para él, la voluntad puede querer o no querer la bienaventuranza, pues la libertad de indiferencia permanece indeterminada incluso frente al fin último. Esta ruptura prepara el olvido posterior de la bienaventuranza en los manuales. Pinckaers considera que la separación entre la idea de bien moral y las nociones de perfección y felicidad es «uno de los fenómenos más graves de la historia de la moral occidental» (cap. XVII).
 
 **Recuperación.** Pinckaers aboga por restaurar la cuestión de la bienaventuranza como principio ordenador de la moral, siguiendo la estructura de la *Suma Teológica*: la bienaventuranza como primer tratado, las virtudes como vías hacia ella, y la gracia y los dones del Espíritu Santo como medios sobrenaturales. Esta recuperación es condición necesaria para superar la crisis de la moral cristiana contemporánea.
-
-### Según Royo Marín (TPCr)
-
-El fin de la vida cristiana es la visión beatífica, que constituye la perfección última del hombre. Todas las gracias, virtudes y dones del Espíritu Santo se ordenan a preparar al alma para la bienaventuranza eterna. En el cielo, el alma unida a Dios goza de una felicidad perfecta que consiste en la posesión del Bien infinito.
-
-[TPCr, Parte I, Cap. 1; Parte II, Cap. 2]
-
 
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 

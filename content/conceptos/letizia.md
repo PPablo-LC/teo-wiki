@@ -23,7 +23,7 @@ La **letizia** es la alegría serena que brota del bien reconocido: el fruto vis
 
 **Fruto del bien.** El bien tiene una consecuencia visible: la letizia. Quien reconoce que «Dio è tutto» y que la vida es positiva «comunque», lleva en el rostro la alegría que da el Ser acogido (DLV 04, 85-99). La letizia no es optimismo ni diversión: es la paz de quien descubre que su pertenencia es verdadera.
 
-**Argumento de testimonio.** «Renderò evidente la potenza del mio nome dalla letizia dei loro volti» — la antifona ambrosiana de la IV dominica de Adviento (Is 30,30 según la Vulgata) resume el método: Dios hace evidente su potencia en la letizia de los suyos (DLV 11). La alegría cristiana es, por tanto, un **argumento** — no en el sentido de una prueba lógica, sino de una evidencia viva que interpela.
+**Argumento de testimonio.** «Renderò evidente la potenza del mio nome dalla letizia dei loro volti» — la antífona ambrosiana de la IV dominica de Adviento (Is 30,30 según la Vulgata) resume el método: Dios hace evidente su potencia en la letizia de los suyos (DLV 11). La alegría cristiana es, por tanto, un **argumento** — no en el sentido de una prueba lógica, sino de una evidencia viva que interpela.
 
 **La gloria de Cristo.** Afirmar a Cristo es afirmar una belleza objetiva que hace apasionados a la vida (DLV 11, 59-71). La letizia nace de esta pasión: es el gozo propio de quien contempla la gloria de Cristo y se sabe alcanzado por ella.
 
@@ -32,15 +32,15 @@ La **letizia** es la alegría serena que brota del bien reconocido: el fruto vis
 ### Luigi Giussani — Dare la vita per l'opera di un Altro (DLV)
 
 - **La letizia como fruto del bien** — quien reconoce «Dio è tutto» vive la letizia que da el bien (04, 85-99)
-- **Argumento de testimonio** — la letizia como evidencia viva; antifona ambrosiana de Adviento: «Renderò evidente la potenza del mio nome dalla letizia dei loro volti» (11, 59-71)
+- **Argumento de testimonio** — la letizia como evidencia viva; antífona ambrosiana de Adviento: «Renderò evidente la potenza del mio nome dalla letizia dei loro volti» (11, 59-71)
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
 En TACDC, la *letizia* (alegría serena) reaparece como **síntoma de la presencia de Cristo** y **legado de Jesús**:
 
-- **La letizia como herencia de Jesús** — «Vi ho detto tutto quello che vi ho detto perché la mia gioia sia in voi e la vostra gioia sia piena» (Gv 15,11); en el discurso joánico final habla de letizia (Gv 16,20-23); «San Paolo riecheggia questa urgenza di letizia»; la letizia nace de «qualcosa che al cuore appare chiaro» en la compagnia que viene de Cristo (04_alla_ricerca.md, l. 33).
+- **La letizia como herencia de Jesús** — «Vi ho detto tutto quello che vi ho detto perché la mía gioia sia in voi e la vostra gioia sia piena» (Gv 15,11); en el discurso joánico final habla de letizia (Gv 16,20-23); «San Paolo riecheggia questa urgenza di letizia»; la letizia nace de «qualcosa che al cuore appare chiaro» en la compagnia que viene de Cristo (04_alla_ricerca.md, l. 33).
 
-- **La letizia como síntoma de veracidad** — «Renderò evidente la mia presenza attraverso la letizia del loro cuore»; «C'è un sintomo, quindi, da cui possiamo giudicarci: nonostante tutto, la letizia del nostro cuore» (04_alla_ricerca.md, ll. 157-159). La alegría del corazón es el criterio para juzgar la autenticidad de la propia vida cristiana.
+- **La letizia como síntoma de veracidad** — «Renderò evidente la mía presenza attraverso la letizia del loro cuore»; «C'è un sintomo, quindi, da cui possiamo giudicarci: nonostante tutto, la letizia del nostro cuore» (04_alla_ricerca.md, ll. 157-159). La alegría del corazón es el criterio para juzgar la autenticidad de la propia vida cristiana.
 
 - **Dante: la letizia que trasciende todo dolor** — «Dante chiama Dio "luce intellettual, piena d'amore; / amor di vero ben, pien di letizia; / letizia che trascende ogni dolzore"» (Paradiso XXX, vv. 40-42); «ci è quasi impossibile sganciarci del tutto dall'attrattiva di questa chiarità» (04_alla_ricerca.md, l. 29).
 

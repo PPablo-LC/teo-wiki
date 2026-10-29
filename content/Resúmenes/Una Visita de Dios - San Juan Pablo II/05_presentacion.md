@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "PRESENTACION"
+title: "PRESENTACIÓN"
 fuente: Una Visita de Dios - San Juan Pablo II
 capítulo: 5
 timestamp: 2026-08-31
@@ -8,7 +8,7 @@ description: "Presentación del autor — Una Visita de Dios - San Juan Pablo II
 tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "teologia_del_sufrimiento"]
 ---
 
-# PRESENTACION
+# PRESENTACIÓN
 
 ## Conceptos básicos referenciados
 
@@ -53,4 +53,4 @@ Se aconseja que no es un libro para leer de un tirón, sino para ir poco a poco,
 
 ## Secciones incluidas
 
-- PRESENTACION
+- PRESENTACIÓN

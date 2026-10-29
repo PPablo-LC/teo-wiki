@@ -29,6 +29,9 @@ Dios es "Padre de los pobres", del huérfano y de la viuda (CEC §238). El Reino
 
 La opción preferencial por los pobres está en el centro de la doctrina social (CompDS §182). Socorrer a los pobres no es un acto de liberalidad personal sino un deber de justicia (CompDS §184). El Antiguo Testamento presenta el derecho del pobre, el año sabático y el año jubilar como instituciones que protegen al pobre (CompDS §23-25). Quien reconoce su pobreza ante Dios es objeto de atención particular por parte de Él; los pobres son herederos de las promesas divinas (CompDS §324). Jesús asume la tradición sobre riqueza y pobreza instaurando el Reino (CompDS §325). Los Padres de la Iglesia insisten en que el rico es solo administrador y debe compartir con los pobres (CompDS §328-329).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Pobres» del VocTeoBib describe el rico vocabulario hebreo de la pobreza (*ras*, *dal*, *ebyón*, *'ani*, *'anav*). Los profetas defienden a los pobres como víctimas de la injusticia (Am 2,6ss; Is 10,1s). Surge la figura del «pobre de Yahveh» (*anawim*): el humilde que pone su confianza en Dios (Sal 34,5-11; Sof 3,12s). Jesús se proclama Mesías de los pobres (Lc 4,18; Mt 11,5) y se identifica con ellos (Mt 25,34-46). La «pobreza de espíritu» (Mt 5,3) es el desasimiento interior para recibir las verdaderas riquezas. La pobreza efectiva, cuando es signo de desasimiento, tiene valor religioso; el servicio de los pobres es servicio a Cristo mismo (Mt 25,40).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 La Iglesia debe "servir a Cristo es reinar", particularmente "en los pobres y en los que sufren" donde descubre "la imagen de su Fundador pobre y sufriente" (*Lumen Gentium*). La Iglesia debe avanzar por el camino de la pobreza como Cristo (CEC §852, citando *Ad Gentes*).
@@ -41,9 +44,6 @@ Los pobres son los destinatarios privilegiados del Evangelio y el amor a ellos e
 
 León XIV subrayó que "la pobreza no es un dato estadístico; tiene rostro, tiene nombre, tiene historia", e invitó a reconocer la misteriosa sabiduría de Dios escrita en la carne de los pobres [León XIV-ViajeEspaña-2026, encuentro con voluntarios; Tenerife].
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La entrada «Pobres» del VocTeoBib describe el rico vocabulario hebreo de la pobreza (*ras*, *dal*, *ebyón*, *'ani*, *'anav*). Los profetas defienden a los pobres como víctimas de la injusticia (Am 2,6ss; Is 10,1s). Surge la figura del «pobre de Yahveh» (*anawim*): el humilde que pone su confianza en Dios (Sal 34,5-11; Sof 3,12s). Jesús se proclama Mesías de los pobres (Lc 4,18; Mt 11,5) y se identifica con ellos (Mt 25,34-46). La «pobreza de espíritu» (Mt 5,3) es el desasimiento interior para recibir las verdaderas riquezas. La pobreza efectiva, cuando es signo de desasimiento, tiene valor religioso; el servicio de los pobres es servicio a Cristo mismo (Mt 25,40).
 
 ## Distinciones importantes
 

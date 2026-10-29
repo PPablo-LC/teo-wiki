@@ -88,7 +88,7 @@ Continuó su labor como asistente pontificio, presidiendo el V Capítulo General
 - *Il diritto nella vita e nella missione della Compagnia di Gesù* (AdP, 2004).
 - *Le nuove esperienze associative* (2014).
 - Tercera parte completa de la Antología del Delegado Pontificio (AntDp-2015).
-- Numerosos artículos sobre derecho de la vida consagrada en *Periodica de re canonica*, *Ius Ecclesiae* y otras revistas especializadas.
+- Numerosos artículos sobre derecho de la vida consagrada en *Periódica de re canónica*, *Ius Ecclesiae* y otras revistas especializadas.
 
 ## Ver también
 

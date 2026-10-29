@@ -4,7 +4,7 @@ title: "117. Paternidad y maternidad responsables"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 38
 timestamp: 2026-08-01
-description: "Catequesis 117: la «paternidad y maternidad responsables» a la luz de Gaudium et spes y Humanæ vitæ, los criterios objetivos de la conducta, el juicio de la conciencia ante Dios, la concepción integral del hombre y la fidelidad al plan divino — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 117: la «paternidad y maternidad responsables» a la luz de Gaudium et spes y Humanæ vitæ, los criterios objetivos de la conducta, el juicio de la conciencia ante Dios, la concepción integral del hombre y la fidelidad al plan divino — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

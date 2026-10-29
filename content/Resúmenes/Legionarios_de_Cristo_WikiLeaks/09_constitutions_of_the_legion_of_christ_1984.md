@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Constitutions of the Legion of Christ, 1984"
+title: "Constitutions of the Legión of Christ, 1984"
 fuente: Legionarios_de_Cristo_WikiLeaks
 capítulo: 9
 timestamp: 2026-08-24
-description: "Resumen de 'Constitutions of the Legion of Christ, 1984' — Legionarios_de_Cristo_WikiLeaks"
+description: "Resumen de 'Constitutions of the Legión of Christ, 1984' — Legionarios_de_Cristo_WikiLeaks"
 tags: ["resumen", "legionarios de cristo wikileaks"]
 ---
 
-# Constitutions of the Legion of Christ, 1984
+# Constitutions of the Legión of Christ, 1984
 
 ## Conceptos básicos referenciados
 

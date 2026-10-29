@@ -39,14 +39,11 @@ La Declaración «Gravissimum educationis» desarrolla el papel de la familia en
 
 Los padres deben tener «absoluta libertad en la elección de las escuelas» (GE §6), y el Estado debe distribuir las ayudas públicas de modo que puedan escoger con libertad según su conciencia (GE §6).
 
-### Según el Concilio Vaticano II (ConcVatII)
-
 GS 47: «El bienestar de la persona y de la sociedad humana y cristiana está estrechamente ligado a la prosperidad de la comunidad conyugal y familiar.» La dignidad de esta institución está oscurecida por la poligamia, el divorcio, el amor libre y otras deformaciones.
 
 GS 48: La íntima comunidad conyugal de vida y amor se establece sobre la alianza de los cónyuges. Cristo bendijo abundantemente este amor multiforme, formado a semejanza de su unión con la Iglesia.
 
 GS 52: «La familia es escuela del más rico humanismo.» Requiere clima de benévola comunicación, cooperación de los padres en la educación de los hijos, presencia activa del padre y cuidado de la madre en el hogar. La familia, donde distintas generaciones coinciden y se ayudan mutuamente, «constituye el fundamento de la sociedad». El poder civil debe reconocer y proteger la verdadera naturaleza del matrimonio y de la familia.
-
 ### Según la Encíclica Magnífica Humanitas (MH)
 
 León XIV aborda la familia en los §§165-169 de *Magnífica Humanitas*, describiéndola como «un bien social primario» y «la primera sociedad natural, dotada de derechos originales, es la célula fundamental e insustituible de toda organización comunitaria» (§165). Advierte que la familia «es, sin embargo, un bien social frágil, que se ve afectado de forma inmediata por las transformaciones económicas y tecnológicas que están cambiando el mundo laboral» (§166). Denuncia el impacto devastador del desempleo y la precariedad en el tejido familiar: «a largo plazo esto socava los cimientos mismos de la convivencia» (§166). Subraya la responsabilidad pública de sostener a las familias con políticas laborales que favorezcan «la continuidad y la calidad del empleo», «ritmos humanos» que equilibren trabajo, servicios y descanso, e inversión en formación accesible (§169).
@@ -119,7 +116,7 @@ En los ejercicios de 1996, la familia emerge como el primer ámbito donde se jue
 
 - **La casa en el amor recíproco**: «Troveranno la loro casa nell'amore vicendevole»; «L'amore fraterno, sempre e dovunque, sarà per essi casa» (04, 129-130). El himno de laudes resume: «con l'anima piena di gioia, in Lui ci scopriamo fratelli» → «In Lui ci scopriamo amici» (04, 131).
 
-- **Testimonios concretos**: la carta de Domenico: «il rispondere sta diventando lentamente la modalità stessa della mia vocazione nella famiglia, nel lavoro, nel movimento, nel mondo… guardandoti, io ami sempre più Cristo» (04, 41-42). El niño Pietro (7 años): «ci hai fatto dire il *Gloria* a san Pampuri. Tu sei proprio un grande papà» (04, 43).
+- **Testimonios concretos**: la carta de Domenico: «il rispondere sta diventando lentamente la modalità stessa della mía vocazione nella famiglia, nel lavoro, nel movimento, nel mondo… guardandoti, io ami sempre più Cristo» (04, 41-42). El niño Pietro (7 años): «ci hai fatto dire il *Gloria* a san Pampuri. Tu sei proprio un grande papà» (04, 43).
 
 ### Il miracolo dell'ospitalità (MDO)
 

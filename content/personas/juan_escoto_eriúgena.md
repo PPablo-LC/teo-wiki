@@ -26,7 +26,7 @@ Juan Escoto Eriúgena fue un filósofo y teólogo irlandés al servicio de Carlo
 
 ## Doctrinas controvertidas
 
-El III Concilio de Valence (855) rechazó las doctrinas de Eriúgena sobre la predestinación, la gracia y el libre albedrío, refiriéndose a «las ineptas cuestioncillas y los cuentos poco menos que de viejas y los guisados de los escoces que causan náuseas a la pureza de la fe» (D-325). El concilio afirmó que la racionalización excesiva de los misterios divinos lleva al error.
+El III Concilio de Valence (855) rechazó las doctrinas de Eriúgena sobre la predestinación, la gracia y el libre albedrío, refiriéndose a «las ineptas cuestioncillas y los cuentos poco menos que de viejas y los guisados de los escocés que causan náuseas a la pureza de la fe» (D-325). El concilio afirmó que la racionalización excesiva de los misterios divinos lleva al error.
 
 Eriúgena defendía una visión unitaria de la predestinación que los valentinos consideraron peligrosa por su tendencia al racionalismo y por minimizar la gracia divina.
 

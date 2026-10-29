@@ -38,6 +38,13 @@ La gracia capital es la razón por la que todos los dones sobrenaturales de los 
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica
+
+El Catecismo recoge la doctrina de la gracia capital al enseñar que Cristo es la Cabeza de la Iglesia y que de Él fluye toda la vida sobrenatural del Cuerpo místico (CEC 789-791). La Iglesia recibe de Cristo la plenitud de los medios de salvación. El Catecismo subraya también que los fieles reciben la gracia por mediación de la Cabeza, y que esta gracia es la que los constituye en un solo cuerpo.
+
+### Concilio Vaticano II
+
+La *Lumen Gentium* del Concilio Vaticano II reafirma que Cristo comunica la vida sobrenatural a la Iglesia como su Cabeza, y que los fieles participan de esta vida por su incorporación al Cuerpo místico (LG 7). El Concilio subraya la continuidad de esta acción de Cristo a lo largo de la historia, sin que la gracia capital se agote en ningún momento.
 ### Summa Theologiae (Santo Tomás de Aquino)
 
 En la *Summa Theologiae* IIIa q. 8, Santo Tomás aborda la gracia capital al tratar de Cristo como Cabeza. En el artículo 1 demuestra que Cristo es Cabeza de los hombres por tres razones: orden, perfección y poder. El orden se refiere a que la cabeza es lo primero en el cuerpo; la perfección, a que en ella se hallan los sentidos principales; el poder, a que de la cabeza se derivan los movimientos y la vida del cuerpo.
@@ -48,13 +55,6 @@ En el artículo 5, Tomás explica que la gracia que hace a Cristo Cabeza es la m
 
 El apóstol Pablo expresa esta realidad con la imagen del cuerpo: «Así nosotros, siendo muchos, somos un solo cuerpo en Cristo, y todos miembros los unos de los otros» (Rom 12, 4-5; cf. 1 Cor 12, 12-27).
 
-### Catecismo de la Iglesia Católica
-
-El Catecismo recoge la doctrina de la gracia capital al enseñar que Cristo es la Cabeza de la Iglesia y que de Él fluye toda la vida sobrenatural del Cuerpo místico (CEC 789-791). La Iglesia recibe de Cristo la plenitud de los medios de salvación. El Catecismo subraya también que los fieles reciben la gracia por mediación de la Cabeza, y que esta gracia es la que los constituye en un solo cuerpo.
-
-### Concilio Vaticano II
-
-La *Lumen Gentium* del Concilio Vaticano II reafirma que Cristo comunica la vida sobrenatural a la Iglesia como su Cabeza, y que los fieles participan de esta vida por su incorporación al Cuerpo místico (LG 7). El Concilio subraya la continuidad de esta acción de Cristo a lo largo de la historia, sin que la gracia capital se agote en ningún momento.
 
 ## Distinciones importantes
 

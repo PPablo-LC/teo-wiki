@@ -10,7 +10,7 @@ tags: ["resumen", apologética, teología_natural, contingencia]
 
 # Capítulo 7 — Un argumento para la existencia de Dios
 
-> 📄 **Fuente original:** `07_chapter_seven.md` — *Arguing Religion: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 7: «An Argument for God's Existence».
+> 📄 **Fuente original:** `07_chapter_seven.md` — *Arguing Religión: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 7: «An Argument for God's Existence».
 
 ## Conceptos básicos referenciados en este capítulo
 

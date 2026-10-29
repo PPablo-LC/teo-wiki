@@ -21,7 +21,7 @@ Giussani recupera el sentido etimológico de *auctoritas* como «ciò che fa cre
 ## Perspectivas por fuente
 
 ### Giussani — Il rischio educativo (IRE)
-I, 90-92: «È questo il concetto autentico di *autorità* (*auctoritas*, "ciò che fa crescere")». I, 94-100: función de coherencia; estabilidad eficiente en el tiempo (continuidad de vida). I, 98-100: padres e Iglesia como garantía última de esa coherencia.
+I, 90-92: «È questo il concetto auténtico di *autorità* (*auctoritas*, "ciò che fa crescere")». I, 94-100: función de coherencia; estabilidad eficiente en el tiempo (continuidad de vida). I, 98-100: padres e Iglesia como garantía última de esa coherencia.
 
 ## Relaciones doctrinales
 [[autoridad]], [[coherencia]], [[iglesia]], [[familia]], [[maestro_y_padre]]

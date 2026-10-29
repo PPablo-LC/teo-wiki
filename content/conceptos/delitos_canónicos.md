@@ -38,7 +38,7 @@ El CIC tipifica los delitos canónicos en la Parte II del Libro VI (cc. 1364-139
 - c. 1371: Enseñar doctrina condenada o rechazar pertinazmente la doctrina del c. 752; desobediencia a la Sede Apostólica, al Ordinario o al Superior.
 - c. 1372: Recurrir al Concilio Ecuménico contra un acto del Romano Pontífice (censura).
 - c. 1373: Suscitar odio de los súbditos contra la Sede Apostólica o el Ordinario (entredicho).
-- c. 1374: Inscribirse en una asociación que maquina contra la Iglesia (pena justa; entredicho para quien la promueve o dirige).
+- c. 1374: Inscribirse en una asociación que máquina contra la Iglesia (pena justa; entredicho para quien la promueve o dirige).
 - c. 1375: Impedir la libertad del ministerio, elección o potestad eclesiástica.
 - c. 1376: Profanación de cosas sagradas (pena justa).
 - c. 1377: Enajenación de bienes eclesiásticos sin licencia (pena justa).

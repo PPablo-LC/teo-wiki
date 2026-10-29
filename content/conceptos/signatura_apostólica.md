@@ -25,13 +25,13 @@ La Signatura Apostólica es el tribunal más alto de la Curia Romana. Su nombre 
 
 El c. 1444 establece la competencia de la Signatura Apostólica: resuelve las quejas de nulidad contra sentencias de la Rota Romana, las peticiones de restitución *in integrum* contra las mismas, y los recursos contra el denegado recurso en las causas de queja de nulidad (c. 1444 §1, 1º-2º). Conoce de los conflictos de competencia entre tribunales inferiores (c. 1444 §2, 1º) y de las causas contra los jueces de la Rota Romana por actos realizados en el ejercicio de su cargo (c. 1444 §2, 2º). Decide sobre la competencia del tribunal ante el cual se ha presentado un recurso (c. 1444 §3). Ejerce la suprema vigilancia sobre la recta administración de justicia (c. 1445 §1). Puede avocar causas para sí misma (c. 1445 §2). Resuelve los recursos contencioso-administrativos contra actos singulares de los dicasterios de la Curia Romana (c. 1445 §3). También extiende la competencia de los tribunales inferiores (c. 1445 §2).
 
+### Según el Comentario al CIC (Eunsa)
+
+El Comentario Exegético señala que la Signatura Apostólica es el vértice del sistema judicial canónico. Su función de suprema vigilancia sobre la administración de justicia incluye la inspección de tribunales y la potestad de remover jueces por causas graves. Los recursos contencioso-administrativos que conoce constituyen una vía de protección jurídica de los fieles frente a actos administrativos de la Curia Romana.
 ### Según la Constitución *Pastor Bonus* (PB)
 
 PB 121-126 regulan la Signatura Apostólica. Es el supremo tribunal de la Iglesia (PB 121). Está compuesta por cardenales nombrados por el Papa, uno de los cuales actúa como Prefecto (PB 122). Tiene competencia en tres ámbitos: judicial (casación y conflictos), contencioso-administrativo, y de vigilancia administrativa sobre la administración de justicia (PB 123-124). La Signatura resuelve los conflictos de competencia entre dicasterios de la Curia Romana (PB 125). Sus decisiones no admiten ulterior recurso (PB 126).
 
-### Según el Comentario al CIC (Eunsa)
-
-El Comentario Exegético señala que la Signatura Apostólica es el vértice del sistema judicial canónico. Su función de suprema vigilancia sobre la administración de justicia incluye la inspección de tribunales y la potestad de remover jueces por causas graves. Los recursos contencioso-administrativos que conoce constituyen una vía de protección jurídica de los fieles frente a actos administrativos de la Curia Romana.
 
 ## Distinciones importantes
 

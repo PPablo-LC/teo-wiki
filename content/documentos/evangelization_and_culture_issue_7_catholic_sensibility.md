@@ -85,18 +85,18 @@ Este séptimo número de *Evangelization & Culture* está dedicado íntegramente
 - **CEC 2502:** "El arte sagrado es verdadero y bello cuando su forma corresponde a su vocación particular: evocar y glorificar, en fe y adoración, el misterio trascendente de Dios." Citado en el artículo sobre vidrieras medievales.
 - **CEC 460:** Referenciado en el contexto de la deificación: "Para que el Hijo de Dios se hiciera hombre, nosotros podemos hacernos dioses."
 
+### Summa Theologiae (SmTh)
+
+- **ST II-II, q.180, a.7:** La contemplación como máxima actividad del ser humano. Citado en *Word & Midnight Oil*.
+- **ST II-II, q.188, a.6:** "Es mejor iluminar que meramente brillar." Citado por Stewart en el artículo sobre vidrieras.
+- **ST II-II, q.23, a.1 y a.5:** Los dones del Espíritu Santo y la amistad divina. Citado por Stump en *Minds*.
+
 ### Otros documentos magisteriales
 
 - **Dei Verbum 11:** Autoría divina de las Escrituras; Dios como autor que empleó a los hombres como verdaderos autores. Fundamento de la hermenéutica bíblica de Barron.
 - **Lumen Gentium 11:** La Eucaristía como "fuente y cumbre de la vida cristiana"; referenciada por Cush en su análisis de la eclesología de Barron.
 - **Mystici Corporis Christi (Pío XII, 1943):** La Iglesia como Cuerpo Místico de Cristo; fundamenta la visión eclesiológica de Barron.
 - **Gaudium et Spes:** Referenciada por Hamann en el contexto de la responsabilidad del laico en la sociedad civil.
-
-### Summa Theologiae (SmTh)
-
-- **ST II-II, q.180, a.7:** La contemplación como máxima actividad del ser humano. Citado en *Word & Midnight Oil*.
-- **ST II-II, q.188, a.6:** "Es mejor iluminar que meramente brillar." Citado por Stewart en el artículo sobre vidrieras.
-- **ST II-II, q.23, a.1 y a.5:** Los dones del Espíritu Santo y la amistad divina. Citado por Stump en *Minds*.
 
 ### Otros autores
 
@@ -172,5 +172,5 @@ Este séptimo número de *Evangelization & Culture* está dedicado íntegramente
 - Merton, Thomas. *Conjectures of a Guilty Bystander*. Doubleday, 1966.
 - Nelson, Matthew. "The Catholic Sensibility of Bishop Barron & The Pivotal Influence of Robert Sokolowski." *Evangelization & Culture*, No. 7, Spring 2021.
 - Newman, John Henry. *An Essay in Aid of a Grammar of Assent*. Burn, Oates and Co., 1874.
-- Sokolowski, Robert. *The God of Faith and Reason: Foundations of Christian Theology*. The Catholic University of America Press, 1995.
+- Sokolowski, Robert. *The God of Faith and Reason: Foundations of Christian Theology*. The Catholic University of América Press, 1995.
 - Sokolowski, Robert. *Introduction to Phenomenology*. Cambridge University Press, 2000.

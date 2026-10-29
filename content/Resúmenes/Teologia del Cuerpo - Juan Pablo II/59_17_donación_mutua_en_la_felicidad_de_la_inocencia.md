@@ -4,7 +4,7 @@ title: "17. Donación mutua en la felicidad de la inocencia"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 59
 timestamp: 2026-08-01
-description: "Catequesis 17: la inocencia interior como rectitud en el intercambio del don, la acogida recíproca varón-mujer, y cómo el donar y el aceptar se compenetran creando la comunión — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 17: la inocencia interior como rectitud en el intercambio del don, la acogida recíproca varón-mujer, y cómo el donar y el aceptar se compenetran creando la comunión — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

@@ -20,7 +20,7 @@ El **acontecimiento** (*avvenimento*) es la categoría central con que
 [[luigi_giussani]] define el **cristianismo**: no una doctrina, una ética o
 una sabiduría, sino un **hecho** que ocurre en la historia y que puede ser
 reconocido. «La morale nasce come avvenimento»; «l'avvenimento è la
-categoria fondamentale dell'eterno sull'uomo, non uno stato». Creer es
+categoría fondamentale dell'eterno sull'uomo, non uno stato». Creer es
 reconocer un acontecimiento: una presencia excepcional en la que se percibe
 el paso de lo divino.
 
@@ -38,7 +38,7 @@ acontecimiento es **Cristo**.
 ### El acontecimiento y la eternidad
 
 En 07 se afirma que la eternidad no es un estado inerte sino **novedad**
-continua, y precisamente por eso «l'avvenimento è la categoria fondamentale
+continua, y precisamente por eso «l'avvenimento è la categoría fondamentale
 dell'eterno». El eterno no es la negación del tiempo sino su plenitud: la
 satisfacción es *mientras* se bebe de la fuente.
 

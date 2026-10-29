@@ -38,4 +38,4 @@ El artículo cierra con una cita de [[g_k_chesterton]]: «Hacerse católico no e
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Michael Ward, 07_film.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Michael Ward, 07_film.md).

@@ -4,7 +4,7 @@ title: "Parte VI:"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 34
 timestamp: 2026-08-01
-description: "Parte VI: título de la sexta parte de la Teología del Cuerpo (El sacramento del matrimonio como signo de la Alianza de Cristo con la Iglesia — La transmisión de la vida) — Teologia del Cuerpo - Juan Pablo II"
+description: "Parte VI: título de la sexta parte de la Teología del Cuerpo (El sacramento del matrimonio como signo de la Alianza de Cristo con la Iglesia — La transmisión de la vida) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

@@ -79,20 +79,6 @@ El apostolado de los laicos es participación en la misión salvífica de la Igl
 
 *Sacrosanctum Concilium* 71 ordena la revisión del rito de la confirmación para que aparezca más claramente la íntima relación de este sacramento con toda la iniciación cristiana. Dispone que la renovación de las promesas del bautismo preceda a la celebración del sacramento, y que la confirmación puede administrarse dentro de la Misa según las circunstancias.
 
-### Según Royo Marín (TPCr)
-
-La confirmación es el sacramento de la fortaleza cristiana. Es como la mayoría de edad espiritual.
-
-«El bautismo nos da el nacimiento a la vida sobrenatural. La confirmación nos conduce a la edad perfecta. El bautizado es como un niño que acaba de nacer; el confirmado es como un hombre fuerte, hecho y derecho, capaz de luchar y de vencer.»
-
-La confirmación configura con Cristo confirmado en el Jordán:
-
-«Este carácter nos configura con Cristo Jesús, que fue confirmado y ungido por el Espíritu Santo en el Jordán, y nos habilita para profesar con valentía y fortaleza la fe cristiana.»
-
-### Según Para Salvarte (PS)
-
-PS presenta la confirmación como el sacramento que fortalece la gracia recibida en el bautismo [PS §13,97,3]. Se administra mediante la unción del santo crisma en la frente con la mano del ministro y las palabras prescritas, concediendo el Espíritu Santo para creer firmemente, ser testigos de Cristo y defender intrépidamente la fe [PS §13,97,3]. La confirmación imprime en el alma el carácter de soldado de Jesucristo y vigoriza para el combate cristiano [PS §13,97,3]. De ordinario lo administra el Obispo, aunque puede delegar en un sacerdote [PS §13,97,3]. No es absolutamente necesaria para la salvación, pero quien la desprecia comete pecado mortal [PS §13,97,3].
-
 ### Según la Summa Theologiae (SmTh)
 
 #### IIIª q.72 — El sacramento de la confirmación
@@ -121,6 +107,20 @@ PS presenta la confirmación como el sacramento que fortalece la gracia recibida
 
 **a.12 — El rito de la Iglesia es adecuado:** Las decisiones de la Iglesia están regidas por la sabiduría de Cristo, que prometió estar donde dos o tres se congregan en su nombre; por eso debe tenerse por cierto que el rito que emplea en este y en los otros sacramentos es el adecuado. Las determinaciones concretas —el tiempo de la celebración, la bendición del crisma y las demás ceremonias— pertenecen a esa prudente disposición eclesiástica. (SmTh IIIa q.72 a.12)
 
+
+### Según Royo Marín (TPCr)
+
+La confirmación es el sacramento de la fortaleza cristiana. Es como la mayoría de edad espiritual.
+
+«El bautismo nos da el nacimiento a la vida sobrenatural. La confirmación nos conduce a la edad perfecta. El bautizado es como un niño que acaba de nacer; el confirmado es como un hombre fuerte, hecho y derecho, capaz de luchar y de vencer.»
+
+La confirmación configura con Cristo confirmado en el Jordán:
+
+«Este carácter nos configura con Cristo Jesús, que fue confirmado y ungido por el Espíritu Santo en el Jordán, y nos habilita para profesar con valentía y fortaleza la fe cristiana.»
+
+### Según Para Salvarte (PS)
+
+PS presenta la confirmación como el sacramento que fortalece la gracia recibida en el bautismo [PS §13,97,3]. Se administra mediante la unción del santo crisma en la frente con la mano del ministro y las palabras prescritas, concediendo el Espíritu Santo para creer firmemente, ser testigos de Cristo y defender intrépidamente la fe [PS §13,97,3]. La confirmación imprime en el alma el carácter de soldado de Jesucristo y vigoriza para el combate cristiano [PS §13,97,3]. De ordinario lo administra el Obispo, aunque puede delegar en un sacerdote [PS §13,97,3]. No es absolutamente necesaria para la salvación, pero quien la desprecia comete pecado mortal [PS §13,97,3].
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

@@ -39,7 +39,7 @@ Kaczor es autor del ensayo principal del número dedicado a la democracia, «Min
 
 ### Según Evangelization & Culture n.º 15 «Suffering» (EAC-15), archivo 16 (Faith and the Defeat of Suffering)
 
-- **El sufrimiento como «la objeción más fuerte a la existencia de Dios»:** la pregunta se formula a partir de *Wandering in Darkness* de Eleonore Stump y de la historia del argumento (del «todo sufrimiento desmiente a Dios» al «sufrimiento injustificado»).
+- **El sufrimiento como «la objeción más fuerte a la existencia de Dios»:** la pregunta se fórmula a partir de *Wandering in Darkness* de Eleonore Stump y de la historia del argumento (del «todo sufrimiento desmiente a Dios» al «sufrimiento injustificado»).
 - **Definición de sufrimiento:** privación del florecimiento humano objetivo y/o frustración de los deseos del corazón.
 - **«Defeat» del sufrimiento:** recibir un bien que justifica la permisibilidad del mal.
 - **Conocimiento «dominicano» vs. «franciscano»:** el conocimiento racional-proposicional frente al conocimiento narrativo-experiencial; el relato como vía de conocimiento «franciscano» (Job, Sansón, Abraham, María de Betania).

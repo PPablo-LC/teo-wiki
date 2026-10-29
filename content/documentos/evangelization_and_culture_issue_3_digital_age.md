@@ -33,8 +33,8 @@ El número combina ensayos teológicos, análisis cultural, entrevistas con conv
 | 1 | From the Desk of Bishop Robert Barron | Bishop Robert Barron | Los nuevos medios como el Areópago contemporáneo; cuatro pasos para el evangelizador digital |
 | 2 | A Word from the Institute | Jared Zimmerer | El Areópago digital; los «nones» como audiencia; Dave Rubin como modelo de cortesía |
 | 3 | Midnight Oil | Tod Worner | Cuatro ensayos cortos: micro vs. macro-moralidad, la dignidad de los clásicos, la ley de las mareas espirituales, la complejidad humana |
-| 4 | The Patron Saint of the Internet | Matthew Becklo | San Isidoro de Sevilla como patrón de Internet; la Etymologiae como antecedente de Google |
-| 5 | Christ Sightings: A Triptych (poem) | Angela Alaimo O'Donnell | Poesía |
+| 4 | The Patrón Saint of the Internet | Matthew Becklo | San Isidoro de Sevilla como patrón de Internet; la Etymologiae como antecedente de Google |
+| 5 | Christ Sightings: A Triptych (poem) | Ángela Alaimo O'Donnell | Poesía |
 | 6 | Wired for God | Robert Mixa | Reseña de *On the Internet* de Hubert Dreyfus; crítica fenomenológica de la ontología cartesiana de Internet |
 | 7 | Pascal and the Dark Quest | Dr. Thomas Hibbs | Pascal, la búsqueda oscura en el cine; Joker y Breaking Bad como ejemplos de moralidad |
 | 8 | The Microphone of God | Matt Leonard (entrevista) | Fulton J. Sheen como pionero de los nuevos medios; autenticidad y simplicidad |
@@ -42,13 +42,13 @@ El número combina ensayos teológicos, análisis cultural, entrevistas con conv
 | 10 | Video Game Culture and the Millennial Soul | Fr. Blake Britton | Los videojuegos satisfacen comunidad, identidad y misión; la tarea de la Iglesia con los gamers |
 | 11 | Dante's Divine Comedy Through the Eyes of Gustave Doré | Dan Malan | Las ilustraciones de Doré como puente entre arte y teología |
 | 12 | Introduction to the Features | — | ¿Qué es la era digital? «We are drowning in information, but often bereft of wisdom» |
-| 13 | I Missed Mass the Sunday Saddam Hussein Was Captured | Kathryn Jean Lopez | Adicción a las noticias como idolatría; el silencio como elemento de comunicación |
+| 13 | I Missed Mass the Sunday Saddam Hussein Was Captured | Kathryn Jean López | Adicción a las noticias como idolatría; el silencio como elemento de comunicación |
 | 14 | 5 Lessons for a New Media Evangelist | Brandon Vogt | Vida interior, aprender lenguajes, salir de la burbuja, encontrar nicho, buscar pequeñas victorias |
 | 15 | The Delicate Art of Keeping My Soul on Twitter | Elizabeth Scalia | Dopamina, cultura de la cancelación, humildad y misericordia en redes sociales |
 | 16 | The Problem of Self-Love | James K. Lee | San Agustín y el amor propio en la era digital; el remedio es la caridad y los sacramentos |
 | 17 | Reclaiming Thoughtful Conversation | Dave Rubin (entrevista) | Liberalismo clásico, diálogo civil, crítica al Leftism como religión secular |
 | 18 | Finding the Way Home | Oliver Jeges (entrevista) | De ateo a católico; Dean Koontz, Bishop Barron y el milagro de la oración |
-| 19 | God Is Beautiful | Sr. Maria Kim-Ngân Bùi, FSP | Vocación y discernimiento; Cristocentrismo de Alberione |
+| 19 | God Is Beautiful | Sr. María Kim-Ngân Bùi, FSP | Vocación y discernimiento; Cristocentrismo de Alberione |
 | 20 | Where Aristotle Meets Twitter | Matt Nelson | Kjellberg (PewDiePie) abandona Twitter; eudaimonía aristotélica y virtud |
 | 21 | Meditatio & Contemplatio | — | 8 preguntas para la reflexión personal y comunitaria |
 

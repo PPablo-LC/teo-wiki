@@ -85,7 +85,7 @@ TACDC reúne los ejercicios espirituales de la Fraternidad de Comunión y Libera
 
 En la prefación de Carrón, la compañía se define por su inserción en la Iglesia: quienes se reúnen participan de «una unità dentro la grande unità della Chiesa… Questa unità è un aspetto del corpo di Cristo». La compañía no es un compartimento aparte, sino un aspecto del cuerpo de Cristo. Su razón de ser es arrancar del *nulla*: «Quando ci si mette insieme, perché lo facciamo? Per strappare agli amici, e se fosse possibile a tutto il mondo, il nulla in cui ogni uomo si trova».
 
-Un aporte propio de TACDC es la distinción entre «gesto» y «raduno»: el estar juntos no es un raduno, sino un gesto, es decir, un atteggiamento que «porta il mondo e il suo significato». En 1995 la compañía aparece, además, como el lugar donde se guarda la memoria del destino: una carta expresa el deseo de «permanere in questa compagnia… perché è l'unica che mi fa ricordare… qual è il vero destino della mia vita». Y en 1996 Giussani la llama «l'argomento prezioso con cui Dio ci ha messi su una strada» (TACDC, 04, §123), subrayando que es una gracia recibida y no una conquista.
+Un aporte propio de TACDC es la distinción entre «gesto» y «raduno»: el estar juntos no es un raduno, sino un gesto, es decir, un atteggiamento que «porta il mondo e il suo significato». En 1995 la compañía aparece, además, como el lugar donde se guarda la memoria del destino: una carta expresa el deseo de «permanere in questa compagnia… perché è l'unica che mi fa ricordare… qual è il vero destino della mía vita». Y en 1996 Giussani la llama «l'argomento prezioso con cui Dio ci ha messi su una strada» (TACDC, 04, §123), subrayando que es una gracia recibida y no una conquista.
 
 ### Giussani — Realtà e giovinezza. La sfida (REG)
 
@@ -137,7 +137,7 @@ La compañía es el medio de la [[preferencia_por_cristo]], el signo humano de l
 - AED, 05 (§13) — Conversación de apertura: la dimora de la compañía.
 - AED, 08 (§275, 307) — Tischrede 59: *Perché mi è data questa umanità* — da solos se teme el sacrificio; el delito más grave es no acoger la compañía.
 - AED, 09 (§171) — Tischrede 76: *L'implicazione totalizzante* — la pregunta se resuelve en la compañía.
-- AED, 16 (§171) — Tischrede 44: *Secondo l'armonia generale* — domanda e compagnia.
+- AED, 16 (§171) — Tischrede 44: *Secondo l'armonía generale* — domanda e compagnia.
 - AED, 20 (§163) — Tischrede 184: *Situazione temporalesca* — testigos de una Presencia.
 - AED, 27 (§191) — Tischrede 176: *Per la tua corsa nel mondo* — la casa introduce a la carrera en el universo.
 - AED, 28 (§129) — Tischrede 178: *Il legame più forte* — miembros unos de otros.

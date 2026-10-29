@@ -17,10 +17,10 @@ Modo de conocer que **explica una realidad por uno solo de sus elementos**, pret
 
 ## Desarrollo doctrinal
 
-- **Formas principales**: reduccionismo **cientista** (la realidad es solo lo medible experimentalmente: el hombre, quimica y neurología), **sociológico** (la fe, producto de fuerzas sociales), **psicologista** (Dios, proyección del deseo), **economicista** (el ser humano, consumidor/producción), **sentimentalista** (la religiosidad, puro sentimiento sin contenido objetivo).
+- **Formas principales**: reduccionismo **cientista** (la realidad es solo lo medible experimentalmente: el hombre, química y neurología), **sociológico** (la fe, producto de fuerzas sociales), **psicologista** (Dios, proyección del deseo), **economicista** (el ser humano, consumidor/producción), **sentimentalista** (la religiosidad, puro sentimiento sin contenido objetivo).
 - **Diagnóstico teológico**: toda reducción es una «idolatría epistemológica»: se fija el sentido último en un particular, y el resto se recorta (la crítica del ídolo: lo que no responde «a la pregunta total»); Giussani define la actitud correcta como la opuesta: la razón como «finestra spalancata», no «stanza» (SDL); la fe católica pide razón abierta a la totalidad de los factores (Fides et ratio §5: «la fe sin razón se desploma en el mito o la superstición; la razón sin fe se reduce»).
 - **Antropología reduccionista**: negar el alma espiritual reduce al hombre a organismo; negar el pecado original lo reduce a defecto evolutivo; negar la libertad lo reduce a determinismo; cada reducción produce una pedagogía y una política correspondiente (ver [[reduccionismo biológico|tecnocracia]]).
-- **El remedio dogmático**: la doctrina católica es intrínsecamente no-reduccionista: misterio trinitario (unidad-distinción), Encarnación (dos naturaleza en una persona), gracia y libertad (cooperación), fe y razón (armonía), cuerpo y alma (unidad sustancial): la fe católica «sobrepasa» sin destruir (analogia entis).
+- **El remedio dogmático**: la doctrina católica es intrínsecamente no-reduccionista: misterio trinitario (unidad-distinción), Encarnación (dos naturaleza en una persona), gracia y libertad (cooperación), fe y razón (armonía), cuerpo y alma (unidad sustancial): la fe católica «sobrepasa» sin destruir (analogía entis).
 
 ## Distinciones importantes
 

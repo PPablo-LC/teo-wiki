@@ -21,6 +21,9 @@ El Concilio Vaticano II afirma que no se puede invocar a Dios como Padre si se n
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«Salidos de la misma bondad divina, todos los hombres son hermanos» (CEC 360). «Existe cierta semejanza entre la unión de las personas divinas y la fraternidad que los hombres deben instaurar entre ellos, en la verdad y el amor» (CEC 1878). «La fraternidad universal es un precepto de la ley natural» (CEC 1936). El principio de solidaridad es «una exigencia directa de la fraternidad humana y cristiana» (CEC 1939). «La paz no puede alcanzarse sin […] la práctica asidua de la fraternidad» (CEC 2304).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 **Nostra Aetate §5:** «No podemos invocar a Dios, Padre de todos, si nos negamos a conducirnos fraternalmente con algunos hombres, creados a imagen de Dios. La relación del hombre para con Dios Padre y con los demás hombres sus hermanos están de tal forma unidas que, como dice la Escritura: "el que no ama, no ha conocido a Dios" (1 Jn 4,8).» El Concilio reprueba como ajena al espíritu de Cristo cualquier discriminación o vejación por motivos de raza o color, de condición o religión.
@@ -29,9 +32,6 @@ El Concilio Vaticano II afirma que no se puede invocar a Dios como Padre si se n
 
 **Ad Gentes §8:** El Evangelio «se presenta constantemente como germen de fraternidad, de unidad y de paz».
 
-### Según el Catecismo (CEC)
-
-«Salidos de la misma bondad divina, todos los hombres son hermanos» (CEC 360). «Existe cierta semejanza entre la unión de las personas divinas y la fraternidad que los hombres deben instaurar entre ellos, en la verdad y el amor» (CEC 1878). «La fraternidad universal es un precepto de la ley natural» (CEC 1936). El principio de solidaridad es «una exigencia directa de la fraternidad humana y cristiana» (CEC 1939). «La paz no puede alcanzarse sin […] la práctica asidua de la fraternidad» (CEC 2304).
 
 ## Distinciones importantes
 

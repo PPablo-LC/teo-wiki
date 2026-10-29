@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "SECONDO L’ARMONIA GENERALE"
+title: "SECONDO L’ARMONÍA GENERALE"
 fuente: Affezione_e_dimora-Volume_5-Luigi_Giussani
 capítulo: 16
 timestamp: 2026-09-17
-description: "Resumen de 'SECONDO L’ARMONIA GENERALE' — Affezione_e_dimora-Volume_5-Luigi_Giussani"
+description: "Resumen de 'SECONDO L’ARMONÍA GENERALE' — Affezione_e_dimora-Volume_5-Luigi_Giussani"
 tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 ---
 
-# SECONDO L’ARMONIA GENERALE
+# SECONDO L’ARMONÍA GENERALE
 
 ## Conceptos básicos referenciados
 
@@ -35,7 +35,7 @@ Giussani precisa: «come il sacrificio non diventi *obiezione*» o «come divent
 
 > **La condizione per la realizzazione di sé**
 
-Comprender cómo esto es así tiene una duplice respuesta. Saber *cómo* avviene è mistero: ¿por qué para salvar al hombre Cristo debió morir? Porque el disegno del Padre era este: «Non la mia, ma la Tua volontà sia fatta» (Mt 26,39; Mc 14,36; Lc 22,42). Lo que falta en todos los hombres es la consequenzialità, la coherencia en adherir al Mistero; comprender que el Mistero existe es facilísimo para todos, pero vivir según esto es imposible al hombre (aunque no a Dios: Mt 19,26; Mc 10,27; Lc 18,27). La frase riassuntiva de la veglia: el «val la pena» queda después del sacrificio; la realizzazione di sé è dopo e attraverso il sacrificio. No solo no es objeción, es *condición*: sin sacrificio el hombre no se realiza. Esa rebelión al hecho de que para realizarse se necesite el sacrificio es la naturaleza del pecado originale: el hombre dijo «ma non è possibile», y la menzogna se insinuó («si mangi tutto, allora sì sei te stesso»).
+Comprender cómo esto es así tiene una duplice respuesta. Saber *cómo* avviene è mistero: ¿por qué para salvar al hombre Cristo debió morir? Porque el disegno del Padre era este: «Non la mía, ma la Tua volontà sia fatta» (Mt 26,39; Mc 14,36; Lc 22,42). Lo que falta en todos los hombres es la consequenzialità, la coherencia en adherir al Mistero; comprender que el Mistero existe es facilísimo para todos, pero vivir según esto es imposible al hombre (aunque no a Dios: Mt 19,26; Mc 10,27; Lc 18,27). La frase riassuntiva de la veglia: el «val la pena» queda después del sacrificio; la realizzazione di sé è dopo e attraverso il sacrificio. No solo no es objeción, es *condición*: sin sacrificio el hombre no se realiza. Esa rebelión al hecho de que para realizarse se necesite el sacrificio es la naturaleza del pecado originale: el hombre dijo «ma non è possibile», y la menzogna se insinuó («si mangi tutto, allora sì sei te stesso»).
 
 > **Chiamati a farne esperienza**
 
@@ -55,7 +55,7 @@ La armonía general es el disegno di Dio nel mondo; las cosas están hechas de t
 
 > **Il senso del Mistero**
 
-La palabra «Dio» como Mistero es lo más importante; por eso hay que leer el vangelo di san Giovanni. Jesús, con un sentido claro del Mistero, ante una muerte ingiusta dice: «Si es posible..., però non la mia, ma la Tua volontà sia fatta» (Mt 26,39). Hay una analogía: nada se construye sin fatica, sin dispendio di energia; lo que para las cosas físicas es dispendio de energía, para el hombre es sacrificio. El Mistero domina nuestra vida: es más evidente la *existencia* del Mistero que la máxima evidencia de las cosas de este mundo; por eso se le llama «Signore». Jesús, nato dalla Madonna, es este Signore que se hizo hombre para liberarnos del male originale y que *rivela*, es Maestro: «Mi chiamate Maestro e fate bene, perché lo sono» (Gv 13,13); «Uno solo è il vostro Maestro» (Mt 23,8). La iniquidad de la menzogna del diavolo es hacernos mirar la prueba «como si ningún otro la tuviera»; el estar juntos todos los que somos «como te» es la burla que Dios hace al diavolo: «Dio si serve della carne per purificarci dalla carne».
+La palabra «Dio» como Mistero es lo más importante; por eso hay que leer el vangelo di san Giovanni. Jesús, con un sentido claro del Mistero, ante una muerte ingiusta dice: «Si es posible..., però non la mía, ma la Tua volontà sia fatta» (Mt 26,39). Hay una analogía: nada se construye sin fatica, sin dispendio di energía; lo que para las cosas físicas es dispendio de energía, para el hombre es sacrificio. El Mistero domina nuestra vida: es más evidente la *existencia* del Mistero que la máxima evidencia de las cosas de este mundo; por eso se le llama «Signore». Jesús, nato dalla Madonna, es este Signore que se hizo hombre para liberarnos del male originale y que *rivela*, es Maestro: «Mi chiamate Maestro e fate bene, perché lo sono» (Gv 13,13); «Uno solo è il vostro Maestro» (Mt 23,8). La iniquidad de la menzogna del diavolo es hacernos mirar la prueba «como si ningún otro la tuviera»; el estar juntos todos los que somos «como te» es la burla que Dios hace al diavolo: «Dio si serve della carne per purificarci dalla carne».
 
 > **La debolezza nel riconoscere il vero**
 
@@ -73,7 +73,7 @@ Sobre la frase de la veglia de que Cristo en la cruz fue «fatto peccato»: la c
 
 > **Obbedienza e regola**
 
-A la pregunta de la joven que dudaba si debía haberse opuesto a la respuesta de la Coki («Stasera è meglio di no»), Giussani aclara que la lógica es exactamente la contraria: el punto de partida es la veglia, que traduce su contenido — nell'obbedienza (affermare altro en lo que querríais hacer) y nella regola, dada por la compagnia, de la que emerge la indicación de la obediencia y el sostegno para poder obedecer, ya a través de un fascino: la compagnia è «come l'iniziale profezia dell'esperienza totale». La veglia descrive la dinamica costitutiva dell'esistenza con todas sus condiciones; la regla define el camino ya con el presentimiento, con un gusto inicial. Sobre la vocación a la verginità: no es vocación a la solitudine; la compagnia vocazionale de los vergini es, en la comunidad de la Iglesia, «il paragone a cui si devono riferire» todas las familias (como los Hebreos miraban la serpiente de bronce en el desierto y eran salvados, Nm 21,4-9).
+A la pregunta de la joven que dudaba si debía haberse opuesto a la respuesta de la Coki («Stasera è meglio di no»), Giussani aclara que la lógica es exactamente la contraria: el punto de partida es la veglia, que traduce su contenido — nell'obbedienza (affermare altro en lo que querríais hacer) y nella regola, dada por la compagnia, de la que emerge la indicación de la obediencia y el sostegno para poder obedecer, ya a través de un fascino: la compagnia è «come l'iniziale profezia dell'esperienza totale». La veglia descrive la dinámica costitutiva dell'esistenza con todas sus condiciones; la regla define el camino ya con el presentimiento, con un gusto inicial. Sobre la vocación a la verginità: no es vocación a la solitudine; la compagnia vocazionale de los vergini es, en la comunidad de la Iglesia, «il paragone a cui si devono riferire» todas las familias (como los Hebreos miraban la serpiente de bronce en el desierto y eran salvados, Nm 21,4-9).
 
 La joven resume la vida entre dos extremos: la conciencia de que no desea nada y, sin embargo, «essere così graziati da poter dire: non conosco altro che Cristo». Giussani: «Certo, sono i due estremi»; la casa está hecha de estas dos cosas — «l'inizio della verità e l'inizio della menzogna sono nella casa» —; es «la grazia del Mistero che si rende presente», la presencia del Mistero en una realidad efímera y frágil, «anzi, peggio che tutte le altre, perché eravate tutte estranee».
 
@@ -81,7 +81,7 @@ La joven resume la vida entre dos extremos: la conciencia de que no desea nada y
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | SECONDO L’ARMONIA GENERALE |
+| 1 | H1 | SECONDO L’ARMONÍA GENERALE |
 | 53 | Blockquote | Il sacrificio non è obiezione al realizzarsi del cuore |
 | 75 | Blockquote | La condizione per la realizzazione di sé |
 | 85 | Blockquote | Chiamati a farne esperienza |

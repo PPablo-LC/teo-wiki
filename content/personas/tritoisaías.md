@@ -32,15 +32,15 @@ El núcleo básico de la sección se encuentra en los caps. 60-62, con un mensaj
 
 El CEC §120 incluye el libro de Isaías —y con él los caps. 56-66— entre los libros proféticos del canon del Antiguo Testamento. La Iglesia reconoce en estos textos la voz del Espíritu que prepara la venida del Mesías; Jesús mismo asume las palabras de Is 61,1-3 como programa de su misión (Lc 4,18-21).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El Vocabulario, en la voz «Templo», señala que, paralelamente al final del exilio, ciertos profetas ponen en guardia contra un apego excesivo al templo de piedra: «Is 66,1s» presenta el culto espiritual —el de los pobres y los corazones contritos (66,2)— como más grato a Dios que la confianza en el edificio. Es la misma corriente que, junto a la crítica profética del culto sin justicia, prepara la espiritualización del culto que culminará en el Nuevo Testamento.
 ### Según Introducción al Antiguo Testamento (IAT)
 
 IAT (cap. 26) dedica a Tritoisaías el primer apartado de su exposición sobre la profecía de finales del siglo VI. Advierte ante todo que estos capítulos «representan un serio enigma» por la variedad de su contenido y los saltos temáticos, y atribuye su redacción a una escuela profética inspirada remotamente en Isaías y, de forma más inmediata, por Deuteroisaías.
 
 El autor subraya que su mensaje vincula la salvación a la práctica de la justicia —frente a Ageo, que la vincula al Templo— y que explica el retraso de la promesa no por impotencia de Dios, sino por el pecado (59,1-2). Distingue el núcleo de los caps. 60-62 (posiblemente de los años 537-521, según Westermann) y los añadidos posteriores, y ofrece la agrupación de textos que se recoge más arriba. En su visión de conjunto, Tritoisaías pertenece, con [[ageo]] y [[zacarías]], al grupo de los profetas de la restauración (538-515 a.C.), cuyo denominador común es la preocupación por el futuro de un pueblo desanimado.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El Vocabulario, en la voz «Templo», señala que, paralelamente al final del exilio, ciertos profetas ponen en guardia contra un apego excesivo al templo de piedra: «Is 66,1s» presenta el culto espiritual —el de los pobres y los corazones contritos (66,2)— como más grato a Dios que la confianza en el edificio. Es la misma corriente que, junto a la crítica profética del culto sin justicia, prepara la espiritualización del culto que culminará en el Nuevo Testamento.
 
 ## Distinciones importantes
 

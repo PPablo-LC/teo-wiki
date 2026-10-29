@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "CONCLUSION (duplicado)"
+title: "CONCLUSIÓN (duplicado)"
 fuente: sexualidad_humana_verdad_y_significado
 capítulo: 19
 timestamp: 2026-09-15
-description: "Resumen de 'CONCLUSION' (duplicado de la conclusión con formato de encabezados distinto) — sexualidad_humana_verdad_y_significado"
+description: "Resumen de 'CONCLUSIÓN' (duplicado de la conclusión con formato de encabezados distinto) — sexualidad_humana_verdad_y_significado"
 tags: ["resumen", "sexualidad humana verdad y significado"]
 ---
 
-# CONCLUSION (duplicado)
+# CONCLUSIÓN (duplicado)
 
 ## Conceptos básicos referenciados
 

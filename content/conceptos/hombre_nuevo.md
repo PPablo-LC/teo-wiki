@@ -48,7 +48,7 @@ La cooperación moral del hombre al don de Dios se expresa en los Escritos Apost
 ### Luigi Giussani — Dare la vita per l'opera di un Altro (DLV)
 
 - **La creatura nuova renacida en el Bautismo** — pertenecer a Dios coincide con pertenecer a Cristo (2Cor 5,14-15; Rm 14,7-8; Gal 2,20) (DLV 15, 15-31).
-- **La mentalidad nueva del cristiano** — «Cristo è entrato nel mondo in polemica col mondo» (Garofalo): la fe nueva en Cristo abre a una mentalidad y a una moralidad nuevas (DLV 10, 3-31).
+- **La mentalidad nueva del cristiano** — «Cristo è entrato nel mondo in polémica col mondo» (Garofalo): la fe nueva en Cristo abre a una mentalidad y a una moralidad nuevas (DLV 10, 3-31).
 
 
 

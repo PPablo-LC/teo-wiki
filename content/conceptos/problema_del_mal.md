@@ -13,7 +13,7 @@ timestamp: 2026-08-23
 
 ## Definición
 
-El problema del mal es la objeción clásica contra la existencia de Dios: ¿cómo puede existir el mal y el sufrimiento si hay un Dios bueno y todopoderoso? Se formula habitualmente en dos versiones: la **lógica** (el mal es incompatible con un Dios así) y la **evidencial** (la cantidad e intensidad del mal hacen improbable esa existencia). Su tratamiento sistemático pertenece a la [[teodicea]].
+El problema del mal es la objeción clásica contra la existencia de Dios: ¿cómo puede existir el mal y el sufrimiento si hay un Dios bueno y todopoderoso? Se fórmula habitualmente en dos versiones: la **lógica** (el mal es incompatible con un Dios así) y la **evidencial** (la cantidad e intensidad del mal hacen improbable esa existencia). Su tratamiento sistemático pertenece a la [[teodicea]].
 
 ## Desarrollo doctrinal
 
@@ -39,7 +39,7 @@ Frankl, desde su experiencia de los campos de concentración, encarna la respues
 
 ### Según Evangelization & Culture n.º 8 «Humor»
 
-Bobby Angel propone responder a Ricky Gervais desde Chesterton y Tomás de Aquino (la libertad como condición de posibilidad del mal permitido; Cristo acompañando el sufrimiento hasta los abismos) y cita a Frankl. El humor, lejos de evadir la tragedia, «ayuda a sobrellevar las partes más oscuras»: la risa criatural arraiga en la verdad de lo que somos ante Dios.
+Bobby Ángel propone responder a Ricky Gervais desde Chesterton y Tomás de Aquino (la libertad como condición de posibilidad del mal permitido; Cristo acompañando el sufrimiento hasta los abismos) y cita a Frankl. El humor, lejos de evadir la tragedia, «ayuda a sobrellevar las partes más oscuras»: la risa criatural arraiga en la verdad de lo que somos ante Dios.
 
 ### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
 
@@ -69,6 +69,6 @@ Se relaciona con [[teodicea]], [[castigos]], [[libertad_humana]], [[dignidad_hum
 ## Referencias
 
 - Konner, J. *The Atheist's Bible* (análisis cultural: `wiki/analisis_cultural/la_biblia_del_ateo_joan_konner.md`)
-- Angel, B. "The Lifegiving Nature of Comedy." *Evangelization & Culture*, No. 8 (2022)
+- Ángel, B. "The Lifegiving Nature of Comedy." *Evangelization & Culture*, No. 8 (2022)
 - Frankl, V. (véase `wiki/personas/viktor_frankl.md`)
 - *Evangelization & Culture*, No. 15 (2023), archivos 01, 08, 09, 14, 16

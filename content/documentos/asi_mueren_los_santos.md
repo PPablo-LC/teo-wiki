@@ -1,7 +1,7 @@
 ---
 type: Documento
 title: "Así mueren los santos. 100 relatos de vida y resurrección"
-description: "Hagiografía teológica de Antonio Maria Sicari OCD (Rialp 2020): ~100 retratos de santos organizados en 8 modos de morir; la muerte del santo como culminación del amor y hora en que «es la muerte la que muere»."
+description: "Hagiografía teológica de Antonio María Sicari OCD (Rialp 2020): ~100 retratos de santos organizados en 8 modos de morir; la muerte del santo como culminación del amor y hora en que «es la muerte la que muere»."
 tags: [hagiografía, ascética, espiritualidad, santidad, muerte_cristiana]
 timestamp: 2026-09-19
 ---
@@ -111,7 +111,7 @@ Resúmenes completos por capítulo en `wiki/Resúmenes/asi_mueren_los_santos_cap
 
 ## Referencias
 
-- Antonio Maria Sicari OCD, *Así mueren los santos. 100 relatos de vida y
+- Antonio María Sicari OCD, *Así mueren los santos. 100 relatos de vida y
   resurrección*, Ediciones Rialp, Madrid 2020 (orig. *Come muoiono i
   santi*, Edizioni Ares, Milano 2016). Fuente raw:
   `raw/Bases_doctrinales-raw/asi_mueren_los_santos_capitulos/` (código AMS).

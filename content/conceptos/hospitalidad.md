@@ -48,7 +48,7 @@ En *Attraverso la compagnia dei credenti* (TACDC), Giussani lamenta la falta de 
 
 En *Il miracolo dell'ospitalità* (MDO), don [[luigi_giussani]] hace de la
 hospitalidad la tesis del volumen: «La parola ospitalità —di cui affido e
-adozione sono sinonimo—» (00, 11). Sus rasgos definitorios son:
+adozione sono sinónimo—» (00, 11). Sus rasgos definitorios son:
 
 - **Es un miracolo**: la hospitalidad parece la cosa más obvia y, sin
   embargo, es tan excepcional que cuando ocurre todos se maravillan
@@ -64,7 +64,7 @@ adozione sono sinonimo—» (00, 11). Sus rasgos definitorios son:
   come l'adozione, fino all'ospitalità a pranzo» (01, 23; 03, 75). Es dar
   todo, «la implicación de toda la vida», no dar algo (06, 15).
 - **Es abrazo del diverso (= perdón)**: la misericordia es el «perdón de la
-  diversidad»; la hospitalidad es «una energia, una libertad che supera il
+  diversidad»; la hospitalidad es «una energía, una libertad che supera il
   vuoto, il gap, la lontananza della diversità» (03, 33-37; 07).
 - **Tiene raíz en la gratuidad**: «ti ho accolto avendo pietà del tuo
   niente» (03, 37); acogemos porque somos acogidos («Noi accogliamo perché

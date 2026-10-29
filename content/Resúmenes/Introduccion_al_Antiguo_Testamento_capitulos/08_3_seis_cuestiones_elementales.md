@@ -18,7 +18,7 @@ tags: ["resumen", "introduccion al antiguo testamento capitulos"]
 
 ## 1. ¿Qué es el Antiguo Testamento?
 
-«Testamento» tiene un sentido teológico (la alianza de Dios con Israel y, después, con la Iglesia) y otro literario (el conjunto de libros que recogen esa experiencia). Literariamente, el AT católico es un conjunto de 47 escritos diversos, redactados a lo largo de diez siglos. No es una antología literaria ni toda la producción de Israel (cita obras perdidas: *Libro del Justo*, *Libro de las guerras de Yahvé*, *Anales de los reyes de Israel*), sino una selección hecha desde la fe y para la fe.
+«Testamento» tiene un sentido teológico (la alianza de Dios con Israel y, después, con la Iglesia) y otro literario (el conjunto de libros que recogen esa experiencia). Literariamente, el AT católico es un conjunto de 47 escritos diversos, redactados a lo largo de diez siglos. No es una antología literaria ni toda la producción de Israel (cita obras pérdidas: *Libro del Justo*, *Libro de las guerras de Yahvé*, *Anales de los reyes de Israel*), sino una selección hecha desde la fe y para la fe.
 
 ## 2. ¿Cómo se llevó a cabo la selección?
 

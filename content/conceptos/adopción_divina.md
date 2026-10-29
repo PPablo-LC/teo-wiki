@@ -5,7 +5,7 @@ description: "Acto de la bondad divina por el cual Dios admite a la criatura rac
 ---
 # Adopción divina
 
-> Area: Dogmática
+> Área: Dogmática
 > Ultima actualización: 2026-06-12
 
 ## Definición

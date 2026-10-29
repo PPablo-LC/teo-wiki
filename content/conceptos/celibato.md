@@ -31,12 +31,6 @@ En las Iglesias orientales, los obispos son elegidos entre célibes; varones cas
 
 [CEC §915, §1579-1580, §1599, §2349]
 
-### Según Juan Pablo II (PDV)
-
-*Pastores dabo vobis* recoge la enseñanza del Sínodo sobre el celibato sacerdotal (PDV 29). La perfecta continencia por el Reino de los cielos ha sido siempre tenida en la más alta estima por la Iglesia como «señal y estímulo de la caridad y como un manantial extraordinario de espiritual fecundidad en el mundo» (PDV 29, citando LG 42). El celibato es carisma: el Sínodo «reafirma nuevamente y con fuerza cuanto la Iglesia Latina y algunos ritos orientales determinan, a saber, que el sacerdocio se confiera solamente a aquellos hombres que han recibido de Dios el don de la vocación a la castidad célibe» (PDV 29).
-
-El celibato ha de ser presentado y explicado en su plena riqueza bíblica, teológica y espiritual, como «precioso don dado por Dios a su Iglesia y como signo del Reino que no es de este mundo, signo también del amor de Dios a este mundo, y del amor indiviso del sacerdote a Dios y al Pueblo de Dios» (PDV 29).
-
 ### Según el Concilio Vaticano II (ConcVatII)
 
 El Decreto *Presbyterorum Ordinis* dedica un extenso número al celibato sacerdotal. La perfecta y perpetua continencia por el Reino de los cielos, recomendada por Cristo, siempre ha sido tenida en gran aprecio por la Iglesia, especialmente para la vida sacerdotal [ConcVatII, PO §16]. El celibato tiene mucha conformidad con el sacerdocio, pues toda la misión del sacerdote se dedica al servicio de la nueva humanidad que Cristo suscita [ConcVatII, PO §16]. Los presbíteros, por la virginidad o celibato conservado por el Reino de los cielos, se consagran a Cristo de una forma nueva, se unen a Él más fácilmente con corazón indiviso y se dedican más libremente al servicio de Dios y de los hombres [ConcVatII, PO §16]. El **celibato** es emblema y estímulo de la caridad pastoral y fuente peculiar de fecundidad espiritual [ConcVatII, PO §16]. No es exigido por la naturaleza del sacerdocio (como muestra la tradición de las Iglesias orientales), pero es muy conforme a él y la Iglesia Latina lo ha impuesto por ley [ConcVatII, PO §16].
@@ -46,6 +40,12 @@ El Decreto *Presbyterorum Ordinis* dedica un extenso número al celibato sacerdo
 El voto de castidad, que incluye el celibato, se refiere no solo a la abstinencia de los placeres carnales sino también y principalmente a la virginidad del corazón. El religioso se ha consagrado totalmente a Dios y solo para Él ha de guardar su corazón. El celibato es exigido a los sacerdotes en la Iglesia latina como condición para la ordenación, y los religiosos lo abrazan por voto como medio de perfección.
 
 [TPCr, Parte III, Libro III, Art. 2, n.862; n.244]
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* recoge la enseñanza del Sínodo sobre el celibato sacerdotal (PDV 29). La perfecta continencia por el Reino de los cielos ha sido siempre tenida en la más alta estima por la Iglesia como «señal y estímulo de la caridad y como un manantial extraordinario de espiritual fecundidad en el mundo» (PDV 29, citando LG 42). El celibato es carisma: el Sínodo «reafirma nuevamente y con fuerza cuanto la Iglesia Latina y algunos ritos orientales determinan, a saber, que el sacerdocio se confiera solamente a aquellos hombres que han recibido de Dios el don de la vocación a la castidad célibe» (PDV 29).
+
+El celibato ha de ser presentado y explicado en su plena riqueza bíblica, teológica y espiritual, como «precioso don dado por Dios a su Iglesia y como signo del Reino que no es de este mundo, signo también del amor de Dios a este mundo, y del amor indiviso del sacerdote a Dios y al Pueblo de Dios» (PDV 29).
 
 ### Según la Teología del Cuerpo (TdC)
 

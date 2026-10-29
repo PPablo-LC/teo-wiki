@@ -25,14 +25,6 @@ Los dones del Espíritu Santo son necesarios para la salvación y para la perfec
 
 ## Perspectivas por fuente
 
-### Según Pinckaers (FMC)
-
-Pinckaers se refiere a los dones del Espíritu Santo en varios contextos. En la estructura de la Suma (FMC cap. IX), los dones forman parte del organismo sobrenatural junto con la gracia y las virtudes infusas. En la exposición del Sermón de la Montaña según san Agustín (FMC cap. VI), las bienaventuranzas se asocian a los dones del Espíritu Santo (Is 11), estableciendo una conexión íntima entre el evangelio de Mateo y la teología paulina del Espíritu.
-
-Pinckaers denuncia que los manuales postridentinos omitieron el tratado de los dones del Espíritu Santo, junto con la gracia y la Ley evangélica, como parte de una moral reducida a la obligación y los mandamientos (FMC cap. XI:2). Esta omisión empobreció la moral cristiana al perder la dimensión espiritual y mística que los dones proporcionan.
-
-[FMC caps. I:2, VI:2, XI:2]
-
 ### Según la Summa Theologiae (SmTh)
 
 **Naturaleza y distinción de las virtudes (Iª-IIae q.68 a.1):** Los dones del Espíritu Santo se distinguen de las virtudes. Las virtudes perfeccionan al hombre para obrar bien según la regla de la razón humana, mientras que los dones disponen al alma para ser movida por el Espíritu Santo como por un principio superior. La razón de don se toma no solo de que son infundidos por Dios, sino de que hacen al hombre prontamente móvil bajo la inspiración divina. Los dones perfeccionan al hombre para actos más elevados que los actos de las virtudes, pues el Espíritu Santo es motor más excelente que la razón humana.
@@ -68,6 +60,14 @@ Los dones están en todas las almas en gracia, pero pueden estar como dormidos o
 Los dones más íntimos (sabiduría y entendimiento) producen el conocimiento experimental de Dios propio de la contemplación infusa, mientras que los demás dones tienen funciones más variadas: el don de consejo ilumina en las dudas, el de fortaleza robustece en las pruebas, etc.
 
 [TPCr, Parte II, Cap. 3]
+
+### Según Pinckaers (FMC)
+
+Pinckaers se refiere a los dones del Espíritu Santo en varios contextos. En la estructura de la Suma (FMC cap. IX), los dones forman parte del organismo sobrenatural junto con la gracia y las virtudes infusas. En la exposición del Sermón de la Montaña según san Agustín (FMC cap. VI), las bienaventuranzas se asocian a los dones del Espíritu Santo (Is 11), estableciendo una conexión íntima entre el evangelio de Mateo y la teología paulina del Espíritu.
+
+Pinckaers denuncia que los manuales postridentinos omitieron el tratado de los dones del Espíritu Santo, junto con la gracia y la Ley evangélica, como parte de una moral reducida a la obligación y los mandamientos (FMC cap. XI:2). Esta omisión empobreció la moral cristiana al perder la dimensión espiritual y mística que los dones proporcionan.
+
+[FMC caps. I:2, VI:2, XI:2]
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 

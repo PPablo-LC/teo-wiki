@@ -52,7 +52,7 @@ La contemplación no es propia de los principiantes sino de los perfectos, aunqu
 
 ### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
 
-**Carmen: conjuro, canto y oración (Gioia).** Los actos de nombrar conducen la mente al misterio más allá del sentido y «nos arrastran, como una marea, en dirección al asombro»; en esa orilla espera la barca de Pedro: «la artesanía de la poesía puede ser balsa salvavidas para llevar almas perdidas hacia el barco».
+**Carmen: conjuro, canto y oración (Gioia).** Los actos de nombrar conducen la mente al misterio más allá del sentido y «nos arrastran, como una marea, en dirección al asombro»; en esa orilla espera la barca de Pedro: «la artesanía de la poesía puede ser balsa salvavidas para llevar almas pérdidas hacia el barco».
 
 **Oración de Jesús (Cording).** A los 18 años, bajo el influjo de *Franny and Zooey*, busca *El peregrino ruso* y practica la Oración de Jesús («Señor Jesucristo, ten piedad de mí»); su meta errónea: pasar cuanto antes de la oración vocal a la continua del corazón; quería sentir a Dios moverse «como la sangre en mi mano»; no quería el silencio de Dios.
 

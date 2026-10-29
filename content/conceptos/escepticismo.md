@@ -8,7 +8,7 @@ timestamp: 2026-10-02
 
 # Escepticismo
 
-> Área: Filosofía / Apologetica
+> Área: Filosofía / Apologética
 > Última actualización: 2026-10-02
 
 El **escepticismo** es la postura filosófica que niega o duda radicalmente de

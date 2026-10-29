@@ -37,6 +37,13 @@ La agonía en el Huerto (Mt 26, 36-46; Lc 22, 39-46) es el episodio más ilumina
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica
+
+El Catecismo enseña que «Jesús conocía y amaba a todos y a cada uno de los hombres redimidos por él» y que ofreció su vida libremente (CEC 609, 2606-2610). La oración de Getsemaní es presentada como la manifestación suprema de la filiación divina y de la entrega voluntaria. Cristo, en el Huerto, muestra la intensidad de su amor al Padre y a los hombres, hasta el punto de aceptar la muerte más dolorosa.
+
+### Concilio Vaticano II
+
+El Concilio Vaticano II recuerda que Cristo es modelo de la obediencia del creyente (LG 8) y que su obediencia hasta la muerte en cruz es fuente de salvación para la Iglesia. La *Lumen Gentium* presenta la obediencia de Cristo como paradigmática del servicio eclesial.
 ### Summa Theologiae (Santo Tomás de Aquino)
 
 En la *Summa Theologiae* IIIa q. 13, Santo Tomás demuestra que Cristo tiene voluntad humana verdadera (a. 1), distinta de la divina. La voluntad humana no se opone a la divina, sino que le está sometida (a. 3). Esta somisión no es coacción, sino conformidad natural: la voluntad humana, al no estar corrompida por el pecado, se inclina espontáneamente hacia el bien que la divina le propone.
@@ -45,13 +52,6 @@ En la **cuestión 14** (sobre la operación conjunta de ambas voluntades), Tomá
 
 En la **cuestión 21** (sobre la pasión de Cristo), Tomás trata de la agonía en Getsemaní (a. 1). Cristo quiso libremente sufrir y morir por la redención del género humano. La pasión fue voluntaria en Cristo, no por coacción externa, sino por un acto de amor y obediencia al Padre. La repugnancia natural de la humanidad ante el sufrimiento no disminuye la voluntariedad del acto; más bien la enriquece, porque demuestra que Cristo aceptó la pasión a pesar del dolor real que experimentaba.
 
-### Catecismo de la Iglesia Católica
-
-El Catecismo enseña que «Jesús conocía y amaba a todos y a cada uno de los hombres redimidos por él» y que ofreció su vida libremente (CEC 609, 2606-2610). La oración de Getsemaní es presentada como la manifestación suprema de la filiación divina y de la entrega voluntaria. Cristo, en el Huerto, muestra la intensidad de su amor al Padre y a los hombres, hasta el punto de aceptar la muerte más dolorosa.
-
-### Concilio Vaticano II
-
-El Concilio Vaticano II recuerda que Cristo es modelo de la obediencia del creyente (LG 8) y que su obediencia hasta la muerte en cruz es fuente de salvación para la Iglesia. La *Lumen Gentium* presenta la obediencia de Cristo como paradigmática del servicio eclesial.
 
 ## Distinciones importantes
 

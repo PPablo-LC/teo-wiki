@@ -14,7 +14,7 @@ description: "Tomás Moro (1478-1535): Lord Canciller de Inglaterra, mártir y s
 
 Tomás Moro (*Thomas More*) nació el 7 de febrero de 1478 en Londres y fue ejecutado el 6 de julio de 1535 en la Torre de Londres. Jurista, humanista, Lord Canciller de Enrique VIII y santo de la Iglesia católica, es uno de los mártires más emblemáticos de la fidelidad a la conciencia formada conforme a la ley de Dios.
 
-Moro fue uno de los juristas más brillantes de su tiempo. Estudió derecho en Lincoln's Inn y se convirtió en uno de los abogados más respetados de Londres. En 1516 escribió su obra más célebre, *Utopia*, una obra de filosofía política que imagina una sociedad ideal y que se convirtió en un clásico de la literatura occidental. Su amistad con Erasmo de Róterdam, quien le dedicó su *Elogio de la locura*, lo sitúa en la cumbre del humanismo europeo.
+Moro fue uno de los juristas más brillantes de su tiempo. Estudió derecho en Lincoln's Inn y se convirtió en uno de los abogados más respetados de Londres. En 1516 escribió su obra más célebre, *Utopía*, una obra de filosofía política que imagina una sociedad ideal y que se convirtió en un clásico de la literatura occidental. Su amistad con Erasmo de Róterdam, quien le dedicó su *Elogio de la locura*, lo sitúa en la cumbre del humanismo europeo.
 
 En 1529, Enrique VIII lo nombró Lord Canciller de Inglaterra, el cargo civil más alto del reino. Sin embargo, cuando el rey solicitó el divorcio de Catalina de Aragón para casarse con Ana Bolena —un divorcio que la Iglesia no podía reconocer—, Moro se negó a apoyar la separación de la Iglesia de Roma. Renunció al cargo de Lord Canciller en 1532, sabiendo que su negativa implicaría probablemente su muerte.
 
@@ -55,9 +55,9 @@ La reflexión subraya también la relevancia contemporánea del testimonio de Mo
 
 ### Word on Fire Institute (EAC-21)
 
-Angela Jendro, en «Lives: St. Thomas More, the Model of Integrity and Allegiance» (05_lives.md), presenta a Tomás Moro como paradigma de integridad y lealtad en la vida pública, con especial énfasis en su declaración como patrono de los estadistas y políticos por San Juan Pablo II.
+Ángela Jendro, en «Lives: St. Thomas More, the Model of Integrity and Allegiance» (05_lives.md), presenta a Tomás Moro como paradigma de integridad y lealtad en la vida pública, con especial énfasis en su declaración como patrono de los estadistas y políticos por San Juan Pablo II.
 
-**San Juan Pablo II y el motu proprio del 2000.** Jendro cita el motu proprio de Juan Pablo II *Proclaiming Saint Thomas More Patron of Statesman and Politicians* (31 de octubre de 2000), en el que el Papa declara a Moro patrono de los estadistas y políticos porque encarna la armonía entre lo natural y lo sobrenatural: «Esta armonía entre lo natural y lo sobrenatural es quizás el elemento que más que cualquier otro define la personalidad de este gran estadista inglés: vivió su intensa vida pública con una humildad sencilla marcada por buen humor, incluso en el momento de su ejecución».
+**San Juan Pablo II y el motu proprio del 2000.** Jendro cita el motu proprio de Juan Pablo II *Proclaiming Saint Thomas More Patrón of Statesman and Politicians* (31 de octubre de 2000), en el que el Papa declara a Moro patrono de los estadistas y políticos porque encarna la armonía entre lo natural y lo sobrenatural: «Esta armonía entre lo natural y lo sobrenatural es quizás el elemento que más que cualquier otro define la personalidad de este gran estadista inglés: vivió su intensa vida pública con una humildad sencilla marcada por buen humor, incluso en el momento de su ejecución».
 
 **La formación de Moro.** Jendro detalla la trayectoria formativa de Moro: nacido el 7 de febrero de 1478 en Londres, su padre —un juez prominente— guió su formación hacia la carrera jurídica. Estudió en la prestigiosa St. Anthony's School, luego fue paje de John Morton, Arzobispo de Canterbury y Lord Canciller, quien lo envió a Oxford para estudiar latín, griego, francés, lógica formal, matemáticas, historia y música. More no limitó sus estudios al derecho: asistió a los ejercicios espirituales de un monasterio cartujo, estudió las Escrituras y los Padres de la Iglesia con sus habilidades lingüísticas, y impartió conferencias sobre *La Ciudad de Dios* de San Agustín.
 
@@ -98,10 +98,10 @@ citándoles en el paraíso».
 ## Referencias
 
 - WoF-4, análisis de *A Man for All Seasons* como theo-drama (Leah Susanka).
-- EAC-21, 05_lives.md (Angela Jendro), «Lives: St. Thomas More, the Model of Integrity and Allegiance»
-- John Paul II, *Proclaiming Saint Thomas More Patron of Statesman and Politicians*, motu proprio, 31 de octubre de 2000
+- EAC-21, 05_lives.md (Ángela Jendro), «Lives: St. Thomas More, the Model of Integrity and Allegiance»
+- John Paul II, *Proclaiming Saint Thomas More Patrón of Statesman and Politicians*, motu proprio, 31 de octubre de 2000
 - Bolt, Robert, *A Man for All Seasons* (1960).
-- More, Thomas, *Utopia* (1516).
+- More, Thomas, *Utopía* (1516).
 - Ackroyd, Peter, *The Life of Thomas More* (1998).
 - Siedentop, Larry, *Inventing the Individual: The Origins of Western Liberalism* (2014).
 - A. M. Sicari, *Así mueren los santos*, cap. I (Rialp, 2020).

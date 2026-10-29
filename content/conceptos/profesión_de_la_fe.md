@@ -50,11 +50,11 @@ La fe teologal, que se profesa en el Credo, tiene a Dios como objeto y es infusa
 
 ## Relaciones doctrinales
 
-Se funda en la [[virtud_de_la_fe]] y se expresa en los [[símbolos_de_la_fe]]. Custodia el [[depósito_de_la_fe]] y se transmite mediante la [[sucesión_apostólica]]. Se relaciona con la [[confesión_de_la_fe]] (como acto de manifestación), el [[bautismo]] (donde se profesa por primera vez) y el [[magisterio_de_la_iglesia]] (que custodia su integridad).
+Se funda en la [[virtud_de_la_fe]] y se expresa en los [[símbolos_de_la_fe]]. Custodia el [[depósito_de_la_fe]] y se transmite mediante la [[sucesión_apostólica]]. Se relaciona con la [[confesión_de_fe]]] (como acto de manifestación), el [[bautismo]] (donde se profesa por primera vez) y el [[magisterio_de_la_iglesia]] (que custodia su integridad).
 
 ## Ver también
 
-[[virtud_de_la_fe]], [[confesión_de_la_fe]], [[símbolos_de_la_fe]], [[depósito_de_la_fe]], [[sucesión_apostólica]], [[magisterio_de_la_iglesia]], [[bautismo]]
+[[virtud_de_la_fe]], [[confesión_de_fe]]], [[símbolos_de_la_fe]], [[depósito_de_la_fe]], [[sucesión_apostólica]], [[magisterio_de_la_iglesia]], [[bautismo]]
 
 ## Referencias
 

@@ -19,7 +19,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## PIO VIII, 1829-1830
+## PÍO VIII, 1829-1830
 
 Contexto del pontificado.
 
@@ -30,7 +30,7 @@ Contexto del pontificado.
 
 ## Secciones incluidas
 
-## PIO VIII, 1829-1830
+## PÍO VIII, 1829-1830
 
 Contexto del pontificado de Pío VIII.
 

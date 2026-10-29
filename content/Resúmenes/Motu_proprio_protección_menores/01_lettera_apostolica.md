@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "LETTERA APOSTOLICA IN FORMA DI «MOTU PROPRIO» DEL SOMMO PONTEFICE FRANCESCO SULLA PROTEZIONE DEI MINORI E DELLE PERSONE VULNERABILI"
+title: "LETTERA APOSTÓLICA IN FORMA DI «MOTU PROPRIO» DEL SOMMO PONTEFICE FRANCESCO SULLA PROTEZIONE DEI MINORI E DELLE PERSONE VULNERABILI"
 fuente: Motu_proprio_protección_menores
 capítulo: 1
 timestamp: 2026-08-28
@@ -8,7 +8,7 @@ description: "Resumen del Motu Proprio de Francisco sobre la protección de los 
 tags: ["resumen", "motu proprio protección menores", "protección_menores", "derecho_canónico"]
 ---
 
-# LETTERA APOSTOLICA IN FORMA DI «MOTU PROPRIO» DEL SOMMO PONTEFICE FRANCESCO SULLA PROTEZIONE DEI MINORI E DELLE PERSONE VULNERABILI
+# LETTERA APOSTÓLICA IN FORMA DI «MOTU PROPRIO» DEL SOMMO PONTEFICE FRANCESCO SULLA PROTEZIONE DEI MINORI E DELLE PERSONE VULNERABILI
 
 ## Conceptos básicos referenciados en este capítulo
 
@@ -21,7 +21,7 @@ tags: ["resumen", "motu proprio protección menores", "protección_menores", "de
 
 ## Carta Apostólica en forma de Motu Proprio
 
-#### [Salvedad: el «Motu Proprio» es un documento breve. Las cinco líneas del título original (LETTERA APOSTOLICA / IN FORMA DI «MOTU PROPRIO» / DEL SOMMO PONTEFICE / FRANCESCO / SULLA PROTEZIONE...) conforman el título completo del mismo documento, por lo que este resumen lo abarca íntegramente.]
+#### [Salvedad: el «Motu Proprio» es un documento breve. Las cinco líneas del título original (LETTERA APOSTÓLICA / IN FORMA DI «MOTU PROPRIO» / DEL SOMMO PONTEFICE / FRANCESCO / SULLA PROTEZIONE...) conforman el título completo del mismo documento, por lo que este resumen lo abarca íntegramente.]
 
 La tutela de los menores y de las personas vulnerables forma parte integrante del mensaje evangélico que la Iglesia y todos sus miembros están llamados a difundir. Cristo mismo encomendó la cura y protección de los más pequeños e indefensos: «*quien acoja a un niño como este en mi nombre, me acoge a mí*» (Mt 18,5). Todos tienen el deber de acoger con generosidad a los menores y personas vulnerables y de crear para ellos un ambiente seguro, con atención prioritaria a sus intereses. Esto exige una conversión continua y profunda, en la que la santidad personal y el compromiso moral concurran a promover la credibilidad del anuncio evangélico y a renovar la misión educativa de la Iglesia.
 

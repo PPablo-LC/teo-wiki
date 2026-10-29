@@ -47,7 +47,7 @@ Royo Marín se apoya constantemente en las definiciones de los concilios —espe
 
 - Expresión suprema del [[magisterio_de_la_iglesia]]
 - Custodia y explica el [[depósito_de_la_fe]]
-- Formula los [[dogmas]]
+- Fórmula los [[dogmas]]
 - Se relaciona con la [[tradición_apostólica]] y la [[sagrada_escritura]]
 
 ## Ver también

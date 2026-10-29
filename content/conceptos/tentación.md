@@ -59,6 +59,12 @@ Santo Tomás trata la tentación del demonio en la Iª q.114 (sobre la insidia d
 
 **a.4 — Conveniencia del modo y del orden de la tentación:** La tentación que viene del enemigo se produce a modo de sugestión (Gregorio), y no puede hacerse a todos de la misma manera, sino que a cada uno se le sugiere algo entre las cosas que constituyen sus aficiones. Por eso el diablo no tienta desde un principio al hombre espiritual con pecados graves, sino que comienza poco a poco con los leves para llevarlo luego a los más graves, como lo hizo con el primer hombre: primero lo solicitó con la comida de la fruta prohibida, luego lo tentó de vanagloria —«Se abrirán vuestros ojos»— y finalmente llevó la tentación hasta la extrema soberbia —«Seréis como dioses» (Gen 3,1-5)—. Guardó también ese mismo orden con Cristo: primero lo tentó con la sustentación de la vida corporal (gula), luego con la vanagloria (hacer algo por ostentación) y por último con el deseo de las riquezas y la gloria del mundo «hasta el desprecio de Dios». Por eso en las dos primeras tentaciones dijo «Si eres el Hijo de Dios», pero no en la tercera, que no conviene a los varones espirituales, que son hijos de Dios por adopción. Cristo hizo frente a estas tentaciones con testimonios de la ley, no con el poder de su virtud, «a fin de que, de ese modo, honrase más al hombre y castigase en mayor grado al enemigo, como si el enemigo del género humano fuese vencido no por Dios, sino por el hombre» (León Magno). Y nos enseña a soportar con magnanimidad las injurias propias, pero a no tolerar las injurias contra Dios. (SmTh IIIa q.41 a.4)
 
+### Según Royo Marín (TPCr)
+
+Royo Marín enseña que la tentación vencida es fuente de grandes méritos. Dios nunca permite ser tentados sobre nuestras fuerzas (1 Cor 10,13). La tentación declarada al director espiritual está ya medio vencida.
+
+Cita abundantemente la Escritura (Ef 6,11-12; 1 Pe 5,8; St 1,12) y expone la doctrina de Santo Tomás sobre la distinción entre tentación diabólica y tentación de la concupiscencia.
+
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
 Mons. Erik Varden retoma la enseñanza de San Bernardo sobre la tentación en los capítulos 1 y 5: «Os advierto: nadie vive en la tierra sin tentación; si alguien se ve aliviado de una, que espere con seguridad otra». Debemos cultivar el justo equilibrio entre la confianza en la ayuda de Dios y la desconfianza hacia nuestra fragilidad, temiendo las tentaciones mientras aceptamos su inevitabilidad.
@@ -66,12 +72,6 @@ Mons. Erik Varden retoma la enseñanza de San Bernardo sobre la tentación en lo
 Dios nos somete a las tentaciones porque son útiles: al resistir las flechas del Padre de la Mentira, nuestro compromiso con la verdad se fortalece. Habiéndonos apartado de la falsedad que debilita, estamos en forma para fortalecer a nuestros hermanos.
 
 La tentación de Cristo en el desierto (capítulo 8) es el marco desde el cual Satanás cita el Salmo 90 para desafiar a Jesús: «A sus ángeles te encomendará». Bernardo distingue entre la «izquierda» (naturaleza carnal) y la «derecha» (naturaleza espiritual): las bajas son más numerosas a la derecha porque es allí donde se usan las armas más letales en el campo de batalla espiritual.
-
-### Según Royo Marín (TPCr)
-
-Royo Marín enseña que la tentación vencida es fuente de grandes méritos. Dios nunca permite ser tentados sobre nuestras fuerzas (1 Cor 10,13). La tentación declarada al director espiritual está ya medio vencida.
-
-Cita abundantemente la Escritura (Ef 6,11-12; 1 Pe 5,8; St 1,12) y expone la doctrina de Santo Tomás sobre la distinción entre tentación diabólica y tentación de la concupiscencia.
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 

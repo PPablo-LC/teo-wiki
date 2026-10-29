@@ -30,7 +30,7 @@ alla vita è la [[gratuidad]] introdotta nel mondo dal cristianesimo»
 La caritativa no es una actividad asistencial aislada, sino un
 **instrumento pedagógico**: educa a la caridad porque obliga a la
 **regularidad** y a la **fidelidad** del gesto, más allá del entusiasmo
-inicial. Enseña que la caridad «viene prima di ogni simpatia e di ogni
+inicial. Enseña que la caridad «viene prima di ogni simpatía e di ogni
 commozione» y que puede ser «nudo y sin entusiasmo» (REG 19).
 
 ### La ley de la vida: la gratuidad

@@ -14,7 +14,7 @@ tags: ["resumen", "juventud", "antropología_cristiana", "gracia", "esperanza"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[vida]] — *Nemo carnem suam odit*: «una radicale *simpatia* ci lega con la vita»
+- [[vida]] — *Nemo carnem suam odit*: «una radicale *simpatía* ci lega con la vita»
 - [[problema]] — «la conoscenza che ognuno di noi prende di queste reazioni costituisce l'insorgere dei cosiddetti problemi»
 - [[juventud]] — «*Giovinezza* e *vita* sono quasi sinonimi»
 - [[deseo]] — «incarna quella attrattiva profonda con cui Dio ci chiama a Sé»
@@ -33,7 +33,7 @@ tags: ["resumen", "juventud", "antropología_cristiana", "gracia", "esperanza"]
 
 ### La vida como movimiento y semilla
 
-- *Nemo carnem suam odit* (S. Tomás, *Super Ephesios* c. 5): «Nessuno vuole male a se stesso»; «una radicale *simpatia* ci lega con la vita»; en la juventud el fascino del bello y del fuerte hace que «*Giovinezza* e *vita* sono quasi sinonimi».
+- *Nemo carnem suam odit* (S. Tomás, *Super Ephesios* c. 5): «Nessuno vuole male a se stesso»; «una radicale *simpatía* ci lega con la vita»; en la juventud el fascino del bello y del fuerte hace que «*Giovinezza* e *vita* sono quasi sinonimi».
 - La vida es movimiento («Qual è il segno della vita? *Il movimento*») y «un seme che *si sviluppa*»; el contacto con el ambiente produce reacciones cuya conciencia «costituisce l'insorgere dei cosiddetti problemi».
 - «*Quanto più uno vive, tanto più uno sente i problemi*»; la juventud dura en la medida en que se sienten «con forza e con prospettiva positiva».
 
@@ -43,7 +43,7 @@ tags: ["resumen", "juventud", "antropología_cristiana", "gracia", "esperanza"]
 - (b) *Lavoro*: las cosas «sono a disposizione dell'uomo»; «richiamo al *lavoro*».
 - (c) *Amore*: «le cose si usano, le persone si amano»; el problema uomo-donna y la familia.
 - (d) *Comunità sociale*: «il problema della convivenza, della *comunità sociale*».
-- El *interesse* (preocupación, fatiga, satisfacción) y la molla de todo: «il fenomeno del *desiderio*», que «incarna quella attrattiva profonda con cui Dio ci chiama a Sé».
+- El *interesse* (preocupación, fatiga, satisfacción) y la molla de todo: «il fenómeno del *desiderio*», que «incarna quella attrattiva profonda con cui Dio ci chiama a Sé».
 
 ### Cristo y la vida humana
 
@@ -103,4 +103,4 @@ tags: ["resumen", "juventud", "antropología_cristiana", "gracia", "esperanza"]
 
 - «Il Regno è già tra voi»; la **ley de desarrollo**: «*approssimazione indomabile all'ideale*»; «Siate perfetti *come è* perfetto il Padre vostro» (*Mt* 5,48).
 - Las dos determinantes: la **genuina sensibilità cristiana** (vivere Cristo) y la **genuina sensibilità moderna** (vivere il proprio tempo); la vida como *tensione*, *sforzo*, *lotta* (*Gb* 7,1; «*Estote parati*», *Mt* 24,44; la **armatura di Dio**, *Ef* 6,10-17).
-- El símbolo de esta visión de lucha es la **Croce** (agonia = lottare): «*Ave, Crux, spes unica*»; y el alma de todo es la **fe**: «*Justus meus ex fide vivit*» (*Eb* 10,38).
+- El símbolo de esta visión de lucha es la **Croce** (agonía = lottare): «*Ave, Crux, spes unica*»; y el alma de todo es la **fe**: «*Justus meus ex fide vivit*» (*Eb* 10,38).

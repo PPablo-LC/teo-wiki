@@ -15,7 +15,7 @@ tags: ["resumen", "fe", "cristianismo", "giussani", "cl"]
 - [[caducidad_del_hombre]] — la fugacidad del vivir como primer dato reflejo sobre sí mismo.
 - [[sentido_del_destino]] — el sentido del destino percibido dentro de la fragilidad.
 - [[cristianismo]] — el cristianismo como respuesta a la pregunta humana por el sentido.
-- [[encuentro_con_cristo]] — el encuentro que hace organico el sentido del destino.
+- [[encuentro_con_cristo]] — el encuentro que hace orgánico el sentido del destino.
 - [[gracia]] — la «rivoluzione pacifica e piena di letizia» del abandono en Dios.
 - [[conversión]] — el «volgersi» que es quedarse atento a Jesús.
 - [[sacrificio]] — el tener fijos los ojos «dov'è la vera gioia».
@@ -59,13 +59,13 @@ vita, che non ha più il baricentro, il centro di gravità».
 
 **3. El problema de la quietud.** No basta el «ya saberselo»: «tutto il tessuto della
 nostra esistenza è come sprovveduto di esso», y por eso el nivel dramático de la vida «no
-ha pace e non ha ultimamente letizia». Falta la seguridad de lo que da sentido a todo y
+ha pace e non ha últimamente letizia». Falta la seguridad de lo que da sentido a todo y
 falta la anticipación de la felicidad del futuro. En cambio, aceptar el ideal dentro la
 convenienza no supone dejar nada del «vestito umano»: es una revolución pacífica que
 ocurre «dal di dentro di noi stessi».
 
-**4. Cristo, encuentro que hace organico el destino.** «È Cristo l'incontro che può
-rendere organico el senso del destino». El destino, lo que los hombres llamaron «Dio»,
+**4. Cristo, encuentro que hace orgánico el destino.** «È Cristo l'incontro che può
+rendere orgánico el senso del destino». El destino, lo que los hombres llamaron «Dio»,
 «è qualcosa che è accaduto nel mondo. È Uno che è venuto, si chiama Cristo!».
 
 **5. [[zaqueo]] como clave de lectura.** Figura familiar: capo della mafia, re de la
@@ -84,8 +84,8 @@ vía es tan simple que «a noi uomini moderni sembra demasiado poco»: ¿qué fi
 levantarte, con tu mujer, con tus hijos, en el trabajo, en política, en el tiempo libre?
 
 **7. La moralidad como posibilidad de Cristo.** «La moralidad è la possibilità di Cristo
-in noi. L'energia che attua la nostra vita è Cristo…». «La grandezza dell'uomo si chiama
-Cristo: Cristo è l'immagine dell'uomo… e perciò la mia e la tua fisionomia si compiono
+in noi. L'energía che attua la nostra vita è Cristo…». «La grandezza dell'uomo si chiama
+Cristo: Cristo è l'immagine dell'uomo… e perciò la mía e la tua fisionomía si compiono
 nella misura in cui la Sua si compie in noi». «La moralità non è una capacità nostra, ma
 una capacità di Cristo in noi», que «si realizza nella pazienza».
 
@@ -93,18 +93,18 @@ una capacità di Cristo in noi», que «si realizza nella pazienza».
 de Guccini «Canzone per Piero»: «fino al disgusto di ricominciare, perché ogni volta è poi
 sempre lo stesso». «Ricominciare è una parola molto vicina alla parola più cristiana, alla
 parola finale cristiana: “Risorgere”, “risurrezione”», con su secuencia «dalla falsità alla
-verità, dall'incoerenza all'adesione, dalla presunzione e dall'autonomia all'adorazione,
-dalla pesantezza, che fa arrestare, all'energia del camminare». San Gregorio Nazianzeno
+verità, dall'incoerenza all'adesione, dalla presunzione e dall'autonomía all'adorazione,
+dalla pesantezza, che fa arrestare, all'energía del camminare». San Gregorio Nazianzeno
 (Carmina II/I, LXXIV): «Se non fossi tuo, mio Cristo, mi sentirei creatura finita… Ma io
 cosa ho più di loro? Nulla, se non Dio».
 
-**9. Vivere il momento.** «Vivere il momento: forse è questa la formula che racchiude più
+**9. Vivere il momento.** «Vivere il momento: forse è questa la fórmula che racchiude più
 potentemente la capacità redentiva di Cristo». «L'impeto di abbracciare il mondo
 caratterizza il cuore dell'uomo. Ma ciò avviene se uno vive il limite del momento», si
 abrace el mundo abbracciando «l'istante piccolo e breve».
 
 **10. El rapporto con todos.** El rapporto hombre-mujer está determinado por el hecho de
-que son «due esseri umani in cammino verso l'identico destino, amados e salvati dallo
+que son «due esseri umani in cammino verso l'idéntico destino, amados e salvati dallo
 stesso Dio fatto uomo»: es verdadero «quando la memoria diventa norma e così rende
 vero il loro rapporto», como en las Sorelle de Madre Teresa de Calcutta frente a los
 pobres «tra i più poveri». Condición: «che la nostra coscienza sia viva, allerta, che si
@@ -127,7 +127,7 @@ guardare tutte queste cose».
 percezione di questa presenza concreta di Dio… Se fosse così… il suo amore non sarebbe
 veramente potente». El movimiento es «la vostra vita di ogni giorno» y «una coscienza
 nuova, è la coscienza del destino… non del destino che sta là, ma prima di tutto del
-destino che sta dentro di me, perché è la mia origine… sono fatto di qualcosa d'altro».
+destino che sta dentro di me, perché è la mía origine… sono fatto di qualcosa d'altro».
 La alternativa es radical: «O amare Cristo… e allora tutto si salva, uno abbraccia il
 mondo, cioè salva il mondo…; o altrimenti uno, nell'istante effimero, ama se stesso e si
 corrompe, e l'effimero non ha più storia, non edifica, non genera, è inutile».
@@ -136,11 +136,11 @@ corrompe, e l'effimero non ha più storia, non edifica, non genera, è inutile»
 non Cristo. Stimiamo di più la soddisfazione, la certezza di aver soldi, la salute, la
 fama, il potere… perfino il ruolo nella comunità, che neanche Cristo». «La libertà si
 gioca proprio nella scelta tra la paura, l'insabbiarsi nel peccato, e il senza timore». La
-división de la cultura y de la socialidad: «o si ha come parametro Cristo o si ha come
-parametro quello che stabilisce il potere, con le categorie della cultura in voga».
+división de la cultura y de la socialidad: «o si ha come parámetro Cristo o si ha come
+parámetro quello che stabilisce il potere, con le categorie della cultura in voga».
 
 **15. «Gloria di Cristo».** «La più grande divisione nella storia della cultura umana e nel
-fenomeno della socialità umana, è quella prodotta dalla formula “gloria di Cristo”». A
+fenómeno della socialità umana, è quella prodotta dalla fórmula “gloria di Cristo”». A
 diferencia de lo que parecía cincuenta años antes (liberalismo y capital frente a
 marxismo y proletariado), «C'è una sola alternativa, che… spacca il mondo in due, divide
 la cultura e la socialità umana: là dove la gloria di Cristo è il principio e là dove la

@@ -48,7 +48,7 @@ El VocTeoBib presenta la Nueva Jerusalén como símbolo de la plenitud escatoló
 Se vincula con el [[apocalipsis]], la [[cielo]], la [[parusía]], la [[resurrección_de_cristo]], la [[iglesia_pueblo_de_dios]], la [[nueva_alianza]], el [[hombre_nuevo]], la [[jerusalén]] y la [[visión_beatífica]].
 
 ## Ver también
-[[apocalipsis]], [[cielo]], [[parusía]], [[visio_beatifica]]
+[[apocalipsis]], [[cielo]], [[parusía]], [[visión_beatífica]]
 
 ## Referencias
 - [CEC §1026-1029]

@@ -39,7 +39,7 @@ Bulman afirma que «la belleza del arte es una invitación a la trascendencia».
 
 ### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
 
-**El arte como evangelización (Ghezzi sobre Fra Angelico).** Fra Angelico «proclamó el Evangelio con su arte, no con palabras»: con obras que representaban escenas evangélicas atraía a las personas hacia el Señor y animaba a sus hermanos dominicos al discipulado. Véase [[fra_angelico]].
+**El arte como evangelización (Ghezzi sobre Fra Angélico).** Fra Angélico «proclamó el Evangelio con su arte, no con palabras»: con obras que representaban escenas evangélicas atraía a las personas hacia el Señor y animaba a sus hermanos dominicos al discipulado. Véase [[fra_angelico]].
 
 **Arte sagrado vs. arte común (Carl).** Las artes sagradas y devocionales (canto gregoriano, arquitectura eclesial, pintura) se ocupan «principalmente de nuestras percepciones e impulsos más altos», comprimiendo el resto de la vida a un punto de perspectiva casi invisible; por eso son aptas para la liturgia. Pero una respuesta profunda al arte sagrado —«la sensación de haber vislumbrado el cielo»— puede dejarnos desorientados al volver «al resplandor del sol del mediodía y el ruido de la calle». El **arte común** (la ficción, la literatura) tiene la capacidad única de responder a esa pregunta: *¿y ahora qué?* Su belleza «es función de su fidelidad a la experiencia concreta y vivida»; Newman señala que es imposible una «Literatura sin pecado para un hombre pecador» que haga de la edificación su única meta.
 

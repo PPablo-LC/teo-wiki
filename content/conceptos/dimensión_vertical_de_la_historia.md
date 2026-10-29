@@ -21,6 +21,9 @@ La historia del hombre se desarrolla en la dimensión horizontal del espacio y d
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+GS 22 presenta la dimensión vertical de la historia: «Realmente, el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado.» La historia del hombre encuentra su sentido en Cristo, que revela plenamente al hombre al propio hombre.
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II presenta la dimensión vertical como la clave para comprender el sentido de la historia. «La historia del hombre se desarrolla en la dimensión horizontal del espacio y del tiempo. Pero, al mismo tiempo, está como traspasada por una dimensión vertical. En efecto, la historia no está escrita únicamente por los hombres. Junto con ellos la escribe también Dios» [MI, cap. 25].
@@ -31,9 +34,6 @@ La promesa mesiánica del Génesis 3,15 «contiene ya una primera promesa mesiá
 
 «El sentido más hondo de la historia rebasa la historia y encuentra la plena explicación en Cristo, Dios-Hombre. La esperanza cristiana supera los límites del tiempo. El Reino de Dios se inserta y se desarrolla en la historia humana, pero su meta es la vida futura» [MI, cap. 25].
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-GS 22 presenta la dimensión vertical de la historia: «Realmente, el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado.» La historia del hombre encuentra su sentido en Cristo, que revela plenamente al hombre al propio hombre.
 
 ## Distinciones importantes
 

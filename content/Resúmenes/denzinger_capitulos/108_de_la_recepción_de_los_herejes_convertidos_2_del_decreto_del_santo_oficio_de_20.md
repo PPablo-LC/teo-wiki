@@ -36,7 +36,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### LEON XIII, 1878-1903
+### LEÓN XIII, 1878-1903
 
 ## De la recepción de los herejes convertidos (2) [Del Decreto del Santo Oficio de 20 de noviembre de 1878]
 
@@ -230,7 +230,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## LEON XIII, 1878-1903
+## LEÓN XIII, 1878-1903
 
 Documentos de León XIII (D-1848 a D-1978).
 

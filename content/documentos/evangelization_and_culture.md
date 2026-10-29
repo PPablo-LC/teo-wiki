@@ -51,7 +51,7 @@ tags:
 | 15 | Issue 15 | Suffering | Spring 2023 | [[evangelization_and_culture_issue_15_suffering]] |
 | 16 | Issue 16 | Pope Benedict XVI | Summer 2023 | [[evangelization_and_culture_issue_16_benedict_xvi]] |
 | 17 | Issue 17 | Education | Autumn 2023 | [[evangelization_and_culture_issue_17_education]] |
-| 18 | Issue 18 | Conversion | Winter 2023 | [[evangelization_and_culture_issue_18_conversion]] |
+| 18 | Issue 18 | Conversión | Winter 2023 | [[evangelization_and_culture_issue_18_conversion]] |
 | 19 | Issue 19 | Artificial Intelligence | Spring 2024 | [[evangelization_and_culture_issue_19_artificial_intelligence]] |
 | 20 | Issue 20 | Sport | Summer 2024 | [[evangelization_and_culture_issue_20_sport]] |
 | 21 | Issue 21 | Democracy | Fall 2024 | [[evangelization_and_culture_issue_21_democracy]] |
@@ -62,10 +62,10 @@ tags:
 
 ### Issue 1: Creativity (2019)
 Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_1_creativity]].
-- Fra Angelico como artista y evangelizador
+- Fra Angélico como artista y evangelizador
 - Flannery O'Connor: una «hillbilly Thomist»
 - Socrates on Stage: la búsqueda de la verdad
-- Creatividad y Jordan Peterson
+- Creatividad y Jordán Peterson
 - ¿Pueden las computadoras crear?
 - La imaginación como puente entre cielo y tierra
 - Evangelización a través del arte y la narrativa
@@ -124,10 +124,10 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 ### Issue 6: Hope (Winter 2020)
 Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_6_hope]].
 - La esperanza en la oscuridad: Seamus Heaney (Irlanda del Norte), Mr. Rogers, Churchill
-- María como modelo de esperanza (Magnificat)
+- María como modelo de esperanza (Magníficat)
 - San Judas Tadeo: patrono de causas desesperadas
 - Kerouac y la muerte de inocentes (*Visions of Gerard*)
-- El Requiem de Mozart como meditación sobre misericordia y justicia
+- El Réquiem de Mozart como meditación sobre misericordia y justicia
 - Catholicism 101: el "maybe" como semilla de fe
 - Tolstoy y el perdón como actos diminutos
 - La conversión de Mark Galli al catolicismo
@@ -176,7 +176,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Oscar Wilde y la eutrapelia (Aristóteles, SmTh II-II q.168 a.2)
 - *El gran Lebowski*: nihilismo, comedia y fertilidad
 - Tolkien lector de literatura moderna (Holly Ordway)
-- Steve Martin y la anticomedia; búsqueda de la verdad
+- Steve Martín y la anticomedia; búsqueda de la verdad
 - La risa recuerda que somos criaturas (Pieper)
 - Los bufones en la pintura: espejo de la verdad
 - The Babylon Bee e Isaías 53,6: la Resurrección como chiste a Satanás
@@ -191,7 +191,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Dante en Friburgo: «los poetas lo dicen mejor»; encuentro con la Belleza misma (Barron)
 - La gran poesía como oración; mente liberalmente educada = mente católica (Zimmerer)
 - Wojtyła poeta y la resistencia cultural polaca; el presente especioso (Worner)
-- Santa Brígida de Kildare, patrona de los poetas; hospitalidad escatológica (Francois Angel)
+- Santa Brígida de Kildare, patrona de los poetas; hospitalidad escatológica (Francois Ángel)
 - Sufrimiento, pérdida y misión en la Eneida de Virgilio; visión comisionadora de Balthasar
 - Dead Poets Society y carpe diem como memento mori; discurso Nobel de Faulkner (Becklo)
 - Spotlight Dante: infierno-purgatorio-cielo como ensimismamiento→purga→anonadamiento; guías hasta María
@@ -256,7 +256,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Mt 18,2-5: el niño como icono del Reino; la infancia espiritual (Barron)
 - La influencia de los padres «termina alrededor del quinto grado»; pequeñas epifanías (Worner)
 - San Nicolás de Myra, patrono de los niños; intercesión de los santos (Scalia)
-- La infancia como luz y el sufrimiento (Tom Martin; Rom 8,18)
+- La infancia como luz y el sufrimiento (Tom Martín; Rom 8,18)
 - Santa Isabel Ana Seton: «Nuestro único maestro es Cristo»; renacimiento de la escuela católica (DeSanctis)
 - Faith, Medicine, and the Anxiety of Children (Dr. Michelle Stanford)
 - El arte de ser niño: *childish* vs. *childlike*; inocencia y maravilla (McNamara)
@@ -265,9 +265,9 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Autismo y gracia: la cruz como respuesta al «¿por qué?» del inocente (Svellinger)
 - La belleza de la creación evangeliza: *The Secret Garden* (Stewart)
 - Condiciones para evangelizar a los jóvenes: atención, sensibilidad al sufrimiento; misericordia de dos partes; imitación siniestra digital (DeLorenzo)
-- Cultura gamer: God and Gaming (Britton, Angel, Bulman); Beato Carlo Acutis
+- Cultura gamer: God and Gaming (Britton, Ángel, Bulman); Beato Carlo Acutis
 - Misiones: Charles Lewis; misas de niños (Van Sloun)
-- El arte de evangelizar al adolescente moderno: formación humana integral; redes sociales y salud mental (Angel)
+- El arte de evangelizar al adolescente moderno: formación humana integral; redes sociales y salud mental (Ángel)
 - Beato Carlo Acutis: ciberapóstol de la Eucaristía (Spotlight WoF)
 
 ### Issue 13: The Eucharist (Autumn 2022)
@@ -342,7 +342,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Dr. John P. Rossi
 - James K. Lee
 - Matt Nelson
-- Sr. Maria Kim-Ngân Bùi, FSP
+- Sr. María Kim-Ngân Bùi, FSP
 - N.T. Wright (biblista anglicano)
 - Dr. Tracey Rowland (teología de Communio)
 - Dr. Holly Ordway (apologeta)
@@ -381,7 +381,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Tom Zampino (poesía)
 - Jeremy McLellan (comediante)
 - Joel Berry (editor de The Babylon Bee)
-- Bobby Angel (ensayista y poeta)
+- Bobby Ángel (ensayista y poeta)
 - John Kenneth Muir (crítico de cine)
 - Kyle Mann (editor jefe de The Babylon Bee)
 - Tim Westermeyer (pastor luterano)
@@ -396,7 +396,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Fr. Paul Murray OP (dominico, Angelicum)
 - Grace Savard (Word on Fire, periferias)
 - Cory Mendenhall (artista converso)
-- Jackie Francois Angel (Lives: Santa Brígida de Kildare)
+- Jackie Francois Ángel (Lives: Santa Brígida de Kildare)
 - Leonard J. DeLorenzo (teología, University of Notre Dame)
 - Carolyn Svellinger (autismo y gracia)
 - Emily H. Jeffries (deseo de hijos e infertilidad)
@@ -518,13 +518,13 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Fr. John P. Floeder (Saint Paul Seminary)
 - Christopher Barnard (American Conservation Coalition)
 
-### Issue 18: Conversion (Winter 2023)
+### Issue 18: Conversión (Winter 2023)
 
 Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_18_conversion]].
 - La *metanoia* como renovación de la visión, actitud y comportamiento; «el reino de Dios ha llegado; arrepentíos y creed en el Evangelio» (Mc 1,15); el Éxodo como símbolo de la conversión (Barron)
 - La etimología latina *conversio* («giro»); la conversión como proceso continuo y como evento fijo (analogía del matrimonio); la paradoja «ya sí / todavía no» (Petrusek)
 - La sorpresa y la rendición: el fracaso del «programa» humano; «el hombre propone y Dios dispone»; Dios construye un palacio distinto al de nuestros planos (C.S. Lewis) (Worner)
-- Chesterton y la conversión: la conversión como «mil pinceladas»; «la Iglesia es una casa con cien puertas»; *The Catholic Church and Conversion* (Worner, Barron)
+- Chesterton y la conversión: la conversión como «mil pinceladas»; «la Iglesia es una casa con cien puertas»; *The Catholic Church and Conversión* (Worner, Barron)
 - La conversión de Santa María Magdalena: posesión completa, primero por el diablo y luego por Cristo; «somos convertidos para poder ser enviados» (Lee)
 - *Quo Vadis* y la *conversio* aplicable a todos: Pedro, la Roca, debe volverse a la providencia; «Señor, ¿a quién iremos?» (Jn 6,68) (Susanka)
 - *The Mission*: la penitencia de Mendoza; la gracia no cancela el sufrimiento sino que lo santifica; la misión de la Iglesia como indefectible (Ward)
@@ -588,7 +588,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Bishop Robert Barron (director, Word on Fire)
 - Dr. Matthew R. Petrusek (filosofía, Word on Fire Institute)
 - Tod Worner (Managing Editor)
-- Angela M. Jendro (autora, «Lives: St. Dymphna»)
+- Ángela M. Jendro (autora, «Lives: St. Dymphna»)
 - Andre Vlok (autor, «Stacks: Hamlet's Mirror»)
 - Kathy Schiffer (autora, filmografía de la IA)
 - Jason Paone (director de *The New Ressourcement*)
@@ -619,7 +619,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - La deportista estrella de Belén: identidad y vocación del atleta; compartimentación vs. integración de la fe; «integrar a Cristo en los deportes es un superpoder»; el deporte como ayuda al viaje a Dios (Adams)
 - Vin Scully: el deporte como narración de la condición humana; la voz como conducto humilde; el silencio en los momentos cumbre; el sufrimiento, la fe y la gratitud (McLaughlin)
 - Lou Gehrig y la gracia a través del sufrimiento: la ALS como «crucifixión fisiológica»; el dolor como megáfono de Dios (C.S. Lewis); la muerte a sí mismo y el modelo de Cristo (Flp 2,6-8); «el hombre más afortunado» (Goodwin)
-- Iconos, no ídolos: el Jumpman de Jordan como icono cultural; la Cruz como icono del hombre que cambió la historia (Gal 2,19-20); los héroes como iconos de los dones de Dios (Heimann)
+- Iconos, no ídolos: el Jumpman de Jordán como icono cultural; la Cruz como icono del hombre que cambió la historia (Gal 2,19-20); los héroes como iconos de los dones de Dios (Heimann)
 - Qué es el deporte: *frolic*, competencia, esfuerzo intelectual; el deporte nos recuerda la infancia; la alegría que solo un Padre celestial comprende plenamente (features intro)
 - Brenda Lorena García: el deporte como formación del carácter; JPII y el deporte como «signo de los tiempos»; la misión en Hollywood; la divinización; «la gloria de Dios es un ser humano plenamente vivo» (St. Ireneo); Sta. Teresa, St. Ignacio (García)
 - Gregory the Great Academy y el rugby: la pobreza gozosa; el término medio de la virtud; la regla como arraigo; la literatura épica (Ilíada, Beowulf); los Hail Marys en latín; la fe enraizada en el deporte (Culley, Fitzpatrick, van Beek)
@@ -661,7 +661,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Los valores predemocráticos: la democracia presupone valores (dignidad humana, libertad, igualdad, verdad) que ella misma no puede producir; el gobierno de la mayoría no es idéntico a la justicia; la democracia necesita un fundamento moral (Petrusek)
 - La degradación de la democracia en totalitarismo: la República de Weimar y el Holocausto; el testimonio de Gerda Weissmann Klein; la fragilidad de la democracia cuando pierde sus fundamentos morales (Worner)
 - Santo Tomás Moro, patrono de estadistas y políticos: modelo de integridad y lealtad a la conciencia frente al poder; declarado patrono por Juan Pablo II (2000) (Lives)
-- Tocqueville y la religión como fundamento de la libertad: «Democracy in America»; el «espíritu de religión» y el «espíritu de libertad»; el debate sobre el Christian Nationalism (Krause)
+- Tocqueville y la religión como fundamento de la libertad: «Democracy in América»; el «espíritu de religión» y el «espíritu de libertad»; el debate sobre el Christian Nationalism (Krause)
 - Mr. Smith Goes to Washington (Capra 1939): el idealismo cívico frente a la corrupción; la libertad del ciudadano que defiende la verdad mediante el discurso legítimo (Paolelli)
 - Lincoln y el Discurso de Gettysburg; los fundamentos morales y religiosos de la democracia; la libertad auténtica se funda en la verdad (Barron)
 - La República de Platón y la naturaleza de la justicia: la justicia del alma y de la ciudad; la crítica platónica a la democracia (Kaczor)
@@ -675,7 +675,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Chesterton y The Everlasting Man: refutación del materialismo de H.G. Wells; el hombre distinto de la bestia; la Encarnación como centro de la historia; la Iglesia como mensajera
 - La primacía de Cristo y la ciudadanía celestial: Daniel en el exilio; 1 Pe 2,11 (forasteros y peregrinos); Filipos «pequeña Roma»; nuestra ciudadanía está en el cielo (Fil 3,20) (Andrie)
 - Los católicos iraquíes: Arzobispo Bashar Matta Warda; la persecución; los cristianos de Oriente Medio (20% → <4%); las raíces apostólicas (Tomás, Addai, Mari) (Thompson)
-- Poesía: «At the Tomb of Napoleon» (Alan Seeger) y la vanidad del poder; epígrafe de Edmund Burke; «Immigrants» (Angela Alaimo O'Donnell) y Emma Lazarus
+- Poesía: «At the Tomb of Napoleón» (Alan Seeger) y la vanidad del poder; epígrafe de Edmund Burke; «Immigrants» (Ángela Alaimo O'Donnell) y Emma Lazarus
 - La misión de Manny Marquez en Tulsa: la Misa Tradicional Latina y el apostolado laical (Mission)
 - Meditatio & Contemplatio: 8 preguntas de reflexión sobre ciudadanía, verdad e integridad; epígrafe de Tocqueville
 
@@ -695,7 +695,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Fr. Leonard Andrie (autor, «Soul»)
 - Brenden Thompson (autor, «Peripheries»)
 - Manny Marquez (testimonio, «Mission»)
-- Angela Alaimo O'Donnell (poeta, «Immigrants»)
+- Ángela Alaimo O'Donnell (poeta, «Immigrants»)
 
 ### Issue 22: Courage (Winter 2024)
 
@@ -710,7 +710,7 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - San Maximiliano Kolbe: la fortaleza como condición de toda virtud (Aquino); Jn 15,13; las dos coronas; la Militia Immaculatae; la total consagración a la Inmaculada como raíz del coraje; «el odio no es creativo; solo el amor crea»; mártir de la caridad y patrón del siglo difícil (Wick)
 - Escribir libros en la era digital: el oficio del editor como prudencia; la edición que corrige la «herejía accidental»; el libro como medio de tiempo, estructura y permanencia; McLuhan («el medio es el mensaje») (Becklo)
 - El arte de los mártires: la paz serena en el rostro de los mártires (Bartolomé, Ágata, Pedro de Verona, Lorenzo, Lucía); el coraje del mártir como don recibido del amor de Cristo, no conquistado por la voluntad; «no temas» (Lee)
-- Qué es el coraje: la cobardía (Paris, Willoughby, el León Cobarde) frente al valor (Horacio, Frodo); «el coraje es resistencia al miedo, dominio del miedo —no ausencia de miedo—» (Twain); Pedro que niega y Pedro que afirma (features intro)
+- Qué es el coraje: la cobardía (París, Willoughby, el León Cobarde) frente al valor (Horacio, Frodo); «el coraje es resistencia al miedo, dominio del miedo —no ausencia de miedo—» (Twain); Pedro que niega y Pedro que afirma (features intro)
 - La virtud silenciosa del coraje: crítica al «martirio cultural»; el coraje como humilde rendición a la realidad; el fiat de María y el Magníficat; Frodo; «el coraje es la forma de toda virtud en el punto de prueba» (C.S. Lewis); el «minuto heroico» de San Josemaría; la mujer con flujo de sangre (Mc 5) (DeSanctis)
 - Graham Greene y los santos impíos: el hacer antes del oír (Ex 24,7; Lc 8,21; 11,28); Sarah Miles (el coraje que precede a la fe) frente a Scobie (el sacrificio sin confianza que se consume); «la sangre corre solo en una dirección» (DeLorenzo)
 - Criar hijos en una era sin coraje: la paternidad como camino de santidad; Fil 2,12; los hijos como espejo de las propias heridas; «la esperanza tiene dos hijas: la ira y el coraje» (Agustín); «como vaya la familia, irá la nación y el mundo» (JPII, Perth 1986) (Bulman)
@@ -817,7 +817,7 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 15 (2023) — Suffering
 - Evangelization & Culture, Issue 16 (2023) — Pope Benedict XVI
 - Evangelization & Culture, Issue 17 (2023) — Education
-- Evangelization & Culture, Issue 18 (2023) — Conversion
+- Evangelization & Culture, Issue 18 (2023) — Conversión
 - Evangelization & Culture, Issue 19 (2024) — Artificial Intelligence
 - Evangelization & Culture, Issue 20 (2024) — Sport
 - Evangelization & Culture, Issue 21 (2024) — Democracy

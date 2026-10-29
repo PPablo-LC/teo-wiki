@@ -27,6 +27,18 @@ La trascendencia no se opone a la encarnación sino que se realiza en ella: Dios
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+**GS 22**: «El misterio del hombre solo se esclarece en el misterio del Verbo encarnado. Cristo, el nuevo Adán, revela plenamente el hombre al propio hombre y le descubre la sublimidad de su vocación.»
+
+**Dei Verbum 2**: Dios se comunica con el hombre «de diversas maneras»: a través de la creación, las profecías, y finalmente por medio de su Hijo.
+
+### Según la Summa Theologiae (SmTh)
+
+**SmTh Ia, q. 12, a. 1 — ¿Puede el hombre ver a Dios esencialmente?** Santo Tomás enseña que el hombre tiene un deseo natural de ver la esencia divina (*desiderium naturale videndi Deum*), que es la dimensión trascendente de la antropología teológica. Este deseo no se satisface con los bienes creados sino solo con la visión de Dios.
+
+**SmTh Ia, q. 90, a. 1 — La imagen de Dios:** El ser humano fue creado a imagen de Dios, lo que implica una apertura a la trascendencia: su inteligencia y su voluntad lo llevan más allá de lo sensible hacia la verdad y el bien supremo.
+
 ### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
 
 Fr. Piotr Roszak, en "The Sacrament of Pilgrimage" (§16), presenta el peregrinaje como antídoto contra el postmodernismo inmanentista:
@@ -36,18 +48,6 @@ Fr. Piotr Roszak, en "The Sacrament of Pilgrimage" (§16), presenta el peregrina
 **La trascendencia en el camino:** El peregrinaje es una experiencia de trascendencia porque saca al ser humano de la inmediatez y lo orienta hacia una meta que lo trasciende. «La carretera transmite continuidad, y el peregrino —contrario a la fluidez postmoderna y la cultura de la temporalidad— descubre el panorama completo de su vida.»
 
 **La trascendencia y la conversión:** Muchos peregrinos al terminar el Camino dicen que «la vida se puso junta como un rompecabezas que alguien había desordenado.» El encuentro con la trascendencia permite redisentrañar el sentido de la existencia.
-
-### Según la Summa Theologiae (SmTh)
-
-**SmTh Ia, q. 12, a. 1 — ¿Puede el hombre ver a Dios esencialmente?** Santo Tomás enseña que el hombre tiene un deseo natural de ver la esencia divina (*desiderium naturale videndi Deum*), que es la dimensión trascendente de la antropología teológica. Este deseo no se satisface con los bienes creados sino solo con la visión de Dios.
-
-**SmTh Ia, q. 90, a. 1 — La imagen de Dios:** El ser humano fue creado a imagen de Dios, lo que implica una apertura a la trascendencia: su inteligencia y su voluntad lo llevan más allá de lo sensible hacia la verdad y el bien supremo.
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-**GS 22**: «El misterio del hombre solo se esclarece en el misterio del Verbo encarnado. Cristo, el nuevo Adán, revela plenamente el hombre al propio hombre y le descubre la sublimidad de su vocación.»
-
-**Dei Verbum 2**: Dios se comunica con el hombre «de diversas maneras»: a través de la creación, las profecías, y finalmente por medio de su Hijo.
 
 ### Según Juan Pablo II
 

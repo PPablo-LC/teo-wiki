@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Soul: Conversion in an Age of Choice — Fr. Richard T. Whittington"
+title: "Soul: Conversión in an Age of Choice — Fr. Richard T. Whittington"
 fuente: Evangelization and culture - 18_capitulos
 capítulo: 21
 timestamp: 2026-09-05
-description: "Resumen de 'Soul: Conversion in an Age of Choice — Fr. Richard T. Whittington' — Evangelization and culture - 18_capitulos"
+description: "Resumen de 'Soul: Conversión in an Age of Choice — Fr. Richard T. Whittington' — Evangelization and culture - 18_capitulos"
 tags: ["resumen", "evangelization and culture - 18 capitulos"]
 ---
 
-# Soul: Conversion in an Age of Choice — Fr. Richard T. Whittington
+# Soul: Conversión in an Age of Choice — Fr. Richard T. Whittington
 
 ## Conceptos básicos referenciados
 

@@ -17,7 +17,7 @@ El celador (latín *cura*, cuidado) es el hermano del monasterio encargado de ve
 
 ## Desarrollo doctrinal
 
-El celador encarna la doctrina benedictina de la corrección comunitaria regulada por la regla común. No se opone al abad: actúa por autoridad delegada y en unidad con él. Su misión no es la vigilancia policial sino el cuidado pastoral de las almas: el celador es guardian de la comunión, no policía de la disciplina.
+El celador encarna la doctrina benedictina de la corrección comunitaria regulada por la regla común. No se opone al abad: actúa por autoridad delegada y en unidad con él. Su misión no es la vigilancia policial sino el cuidado pastoral de las almas: el celador es guardián de la comunión, no policía de la disciplina.
 
 ## Perspectivas por fuente
 

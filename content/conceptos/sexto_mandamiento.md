@@ -5,7 +5,7 @@ description: "El sexto mandamiento del Decálogo: «No cometeras adulterio» (Ex
 ---
 # Sexto mandamiento
 
-> Area: Moral
+> Área: Moral
 > Ultima actualización: 2026-06-03
 
 ## Definición
@@ -14,13 +14,13 @@ El sexto mandamiento del Decálogo: «No cometeras adulterio» (Ex 20,14; Dt 5,1
 
 ## Desarrollo doctrinal
 
-El sexto mandamiento protege la santidad del matrimonio y la fidelidad conyugal. Jesus radicaliza su interpretación en el Sermon del Monte, ensenando que quien mira a una mujer deseandola ya cometo adulterio en su corazon (Mt 5,27-28). La Iglesia enseña que los actos sexuales solo tienen sentido legitimo dentro del matrimonio, abiertos a la procreación y a la union de los esposos. Comprende la prohibición del adulterio, la fornicación, la pornografia, la masturbación y todas las formas de impureza voluntaria.
+El sexto mandamiento protege la santidad del matrimonio y la fidelidad conyugal. Jesús radicaliza su interpretación en el Sermón del Monte, ensenando que quien mira a una mujer deseandola ya cometo adulterio en su corazón (Mt 5,27-28). La Iglesia enseña que los actos sexuales solo tienen sentido legitimo dentro del matrimonio, abiertos a la procreación y a la unión de los esposos. Comprende la prohibición del adulterio, la fornicación, la pornografía, la masturbación y todas las formas de impureza voluntaria.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo trata el sexto mandamiento en la sección sobre el sexto mandamiento (§2331-2400). Desarrolla la vocación a la castidad, las ofensas a la dignidad del matrimonio (adulterio, divorcio, poligamia, incesto, union libre, actos homosexuales) y la pureza del corazon. El sexto mandamiento se interpreta a la luz de la creación del hombre como varón y mujer, la unidad y la indisolubilidad del matrimonio.
+El Catecismo trata el sexto mandamiento en la sección sobre el sexto mandamiento (§2331-2400). Desarrolla la vocación a la castidad, las ofensas a la dignidad del matrimonio (adulterio, divorcio, poligamia, incesto, unión libre, actos homosexuales) y la pureza del corazón. El sexto mandamiento se interpreta a la luz de la creación del hombre como varón y mujer, la unidad y la indisolubilidad del matrimonio.
 
 ### Según el análisis de conferencias para varones (notas)
 

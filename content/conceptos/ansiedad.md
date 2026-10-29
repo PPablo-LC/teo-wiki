@@ -41,7 +41,7 @@ metafísica moderna, sino la preocupación concreta que deshace el presente.
 - **Ansiedad** (turbación ante lo futuro) ≠ **angustia** (vacío ante el
   sentido) ≠ **miedo** (ante un mal presente determinado).
 - ≠ [[desasosiego]] del pecador sin Dios (Agustín, «inquieto está nuestro
-  corazón»): aquella es sintoma, esta es vocación.
+  corazón»): aquella es síntoma, esta es vocación.
 
 ## Relaciones doctrinales
 

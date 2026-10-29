@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "II CONCILIO DE NICEA 787 SAN LEON III 795 816"
+title: "II CONCILIO DE NICEA 787 SAN LEÓN III 795 816"
 fuente: denzinger_capitulos
 capítulo: 50
 timestamp: 2026-08-24
-description: "Resumen de 'II CONCILIO DE NICEA 787 SAN LEON III 795 816' — denzinger_capitulos"
+description: "Resumen de 'II CONCILIO DE NICEA 787 SAN LEÓN III 795 816' — denzinger_capitulos"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# II CONCILIO DE NICEA 787 SAN LEON III 795 816
+# II CONCILIO DE NICEA 787 SAN LEÓN III 795 816
 
 ## Conceptos básicos referenciados
 
@@ -21,7 +21,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### II CONCILIO DE NICEA, 787 SAN LEON III, 795 816
+### II CONCILIO DE NICEA, 787 SAN LEÓN III, 795 816
 
 **De Cristo, Hijo de Dios, natural, no adoptivo** [Del Símbolo de la fe]:
 
@@ -32,6 +32,6 @@ San León III aceptó la profesión de fe que le presentó el año 811 Nicéforo
 
 ## Secciones incluidas
 
-## II CONCILIO DE NICEA, 787 SAN LEON III, 795 816
+## II CONCILIO DE NICEA, 787 SAN LEÓN III, 795 816
 
 Confesión de Jesucristo como Hijo de Dios natural y propio, no adoptivo, en la unidad de la persona y las dos naturalezas; profesión de fe aceptada por San León III sobre la virginidad de María después del parto (D-314a).

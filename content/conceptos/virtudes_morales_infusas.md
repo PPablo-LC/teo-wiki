@@ -27,6 +27,11 @@ Las virtudes morales infusas acompañan necesariamente a las virtudes teologales
 - **§1803-1845**: Desarrollo de las virtudes morales.
 - **§1813**: Las virtudes morales infusas se reciben en el bautismo y son principios operativos inmediatos de la vida cristiana.
 
+### Summa Theologiae (SmTh)
+
+Santo Tomás distingue entre virtudes morales adquiridas e infusas:
+
+- **I-II, q. 63, a. 4**: Las virtudes morales infusas se distinguen de las adquiridas por su causa (Dios vs. operación humana) y por su objeto (bien sobrenatural vs. natural).
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta las virtudes morales infusas como componentes esenciales de la vida cristiana:
@@ -46,11 +51,6 @@ Solo a las virtudes infusas se refiere en sentido estricto la definición de ori
 
 Debe reconocerse que la existencia de virtudes morales infusas no es materia dogmática sobre la cual la Iglesia se haya pronunciado con un juicio definitivo; es, sin embargo, la doctrina más común entre los grandes teólogos clásicos. La vida moral cristiana podría explicarse también de otro modo (la gracia hace meritorias las actuaciones de las virtudes adquiridas, las virtudes teologales elevan y modifican parcialmente los criterios reguladores de la prudencia humana, la caridad es la «forma» de todas las virtudes); pero la doctrina sobre su existencia facilita la comprensión del actuar moral cristiano, y no se han encontrado argumentos definitivos que refuten lo que la teología clásica ha dicho a favor de su existencia (Ele_Xto_Stos, Cap. VII, §5a).
 
-### Summa Theologiae (SmTh)
-
-Santo Tomás distingue entre virtudes morales adquiridas e infusas:
-
-- **I-II, q. 63, a. 4**: Las virtudes morales infusas se distinguen de las adquiridas por su causa (Dios vs. operación humana) y por su objeto (bien sobrenatural vs. natural).
 
 ## Distinciones importantes
 

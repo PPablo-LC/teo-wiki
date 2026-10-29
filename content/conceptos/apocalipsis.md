@@ -29,6 +29,9 @@ La interpretación del Apocalipsis ha generado diversas escuelas: futurista (los
 
 CEC §2632-2635: La oración en el Apocalipsis se presenta bajo imágenes simbólicas: el «cabello de plata» de la prostituta, las «oraciones de los santos» como incienso presentado al Cordero. CEc §1021-1022: Las imágenes del juicio final (libros abiertos, trono del juez) expresan la verdad de que cada persona rendirá cuentas.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El VocTeoBib trata extensamente el Apocalipsis como revelación (*apokálypsis*): comunicación de un misterio oculto. El libro presenta a Cristo como «Alfa y Omega», vencedor del dragón y de la bestia, y a la Iglesia como esposa preparada para las bodas del Cordero.
 ### Según el Concilio Vaticano II (ConcVatII)
 
 DV §16: El libro del Apocalipsis, como los demás libros proféticos, contiene mensajes revelados que deben ser interpretados a la luz de la tradición viva de la Iglesia.
@@ -37,9 +40,6 @@ DV §16: El libro del Apocalipsis, como los demás libros proféticos, contiene 
 
 **Suppl. q.73-99:** Santo Tomás desarrolla los últimos acontecimientos (venida del Anticristo, resurrección, juicio final, condenación eterna, bienaventuranza) que tienen su correlato en las imágenes apocalípticas.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El VocTeoBib trata extensamente el Apocalipsis como revelación (*apokálypsis*): comunicación de un misterio oculto. El libro presenta a Cristo como «Alfa y Omega», vencedor del dragón y de la bestia, y a la Iglesia como esposa preparada para las bodas del Cordero.
 
 ## Distinciones importantes
 

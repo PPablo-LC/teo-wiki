@@ -4,7 +4,7 @@ title: "9. Comunión interpersonal e imagen de Dios"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 51
 timestamp: 2026-08-01
-description: "Catequesis 9: la creación del hombre como unidad de varón y mujer, la communio personarum como superación de la soledad originaria, y el cuerpo como expresión de la persona imagen de Dios — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 9: la creación del hombre como unidad de varón y mujer, la communio personarum como superación de la soledad originaria, y el cuerpo como expresión de la persona imagen de Dios — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 
@@ -24,7 +24,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[cuerpo]] — el cuerpo humano que revela al hombre
 - [[persona_humana]] — la subjetividad y autodeterminación de la persona
 - [[fecundidad]] — la bendición de la fecundidad unida a la procreación
-- [[procreación]] — la procreación humana y la dimension sacramental
+- [[procreación]] — la procreación humana y la dimensión sacramental
 - [[matrimonio]] — la unidad a través del cuerpo («una sola carne»)
 - [[sacramento]] — la dimensión sacramental de la unidad conyugal (Ef 5)
 - [[ética]] — la ética de la unidad a través del cuerpo (Mt 19)

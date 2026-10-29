@@ -23,14 +23,6 @@ El mal de culpa es mayor que el mal de pena, porque la culpa hace malo al que la
 
 ## Perspectivas por fuente
 
-### Según la Dives in Misericordia (DM)
-
-La encíclica aborda el mal desde la perspectiva de la misericordia divina como respuesta. El mal se manifiesta en múltiples formas: mal físico (sufrimiento, enfermedad, hambre), mal moral (pecado, injusticia, opresión) y mal escatológico (muerte) [DM §7–8, §10–11]. Cristo «ha sido ungido para evangelizar a los pobres, sanar a los quebrantados de corazón, proclamar libertad a los cautivos» precisamente porque el mal está presente en el mundo [DM §3].
-
-La respuesta de Dios al mal no es la aniquilación sino la misericordia: «el amor —que es más fuerte que la muerte, más fuerte que el pecado y que todo mal— eleva al hombre de las caídas graves y lo libera de las más grandes amenazas» [DM §15]. La cruz es «la inclinación más profunda de la Divinidad hacia el hombre y todo lo que el hombre… llama su infeliz destino. La cruz es como un toque del amor eterno sobre las heridas más dolorosas de la existencia terrena del hombre» [DM §8].
-
-La misericordia «se manifiesta en su aspecto verdadero y propio cuando revalida, promueve y extrae el bien de todas las formas de mal existentes en el mundo y en el hombre» [DM §6]. No se deja «vencer por el mal», sino que «vence con el bien al mal» (Rom 12,21) [DM §6].
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el mal en Iª q.48-49, en continuidad con la tradición agustiniana y dionisiana.
@@ -40,6 +32,14 @@ Santo Tomás trata el mal en Iª q.48-49, en continuidad con la tradición agust
 **División del mal (q.48 a.5-6):** El mal se divide en pena (*malum poenae*) y culpa (*malum culpae*). La pena es la privación de la forma o integridad del ser en la criatura; la culpa es la privación de la debida operación en las criaturas dotadas de voluntad (a.5). La culpa tiene más razón de mal que la pena (a.6): por la culpa alguien se hace malo, mientras que la pena no hace malo al que la sufre; Dios es autor del mal de pena (castigo justo), pero no del mal de culpa, que se opone directamente al bien increado.
 
 **Causa del mal (q.49):** El bien es causa del mal solo accidentalmente (a.1): el mal no tiene causa eficiente directa. El fuego, al imprimir su forma, corrompe accidentalmente la forma del agua; la voluntad deficiente actúa sin sujetarse a la regla. Dios no es causa del mal de culpa (a.2): en Él no hay defecto alguno; pero sí causa el mal de pena, en cuanto castigo justo y en cuanto la corrupción de unas cosas acompaña accidentalmente a la producción de otras dentro del orden del universo. No existe un sumo mal como primer principio (a.3): todo ser en cuanto ser es bueno; el mal no puede ser esencial porque no subsiste sin un sujeto bueno. Quienes postularon dos principios (maniqueos) erraron por no remontarse a la causa universal, contentándose con causas particulares.
+
+### Según la Dives in Misericordia (DM)
+
+La encíclica aborda el mal desde la perspectiva de la misericordia divina como respuesta. El mal se manifiesta en múltiples formas: mal físico (sufrimiento, enfermedad, hambre), mal moral (pecado, injusticia, opresión) y mal escatológico (muerte) [DM §7–8, §10–11]. Cristo «ha sido ungido para evangelizar a los pobres, sanar a los quebrantados de corazón, proclamar libertad a los cautivos» precisamente porque el mal está presente en el mundo [DM §3].
+
+La respuesta de Dios al mal no es la aniquilación sino la misericordia: «el amor —que es más fuerte que la muerte, más fuerte que el pecado y que todo mal— eleva al hombre de las caídas graves y lo libera de las más grandes amenazas» [DM §15]. La cruz es «la inclinación más profunda de la Divinidad hacia el hombre y todo lo que el hombre… llama su infeliz destino. La cruz es como un toque del amor eterno sobre las heridas más dolorosas de la existencia terrena del hombre» [DM §8].
+
+La misericordia «se manifiesta en su aspecto verdadero y propio cuando revalida, promueve y extrae el bien de todas las formas de mal existentes en el mundo y en el hombre» [DM §6]. No se deja «vencer por el mal», sino que «vence con el bien al mal» (Rom 12,21) [DM §6].
 
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 

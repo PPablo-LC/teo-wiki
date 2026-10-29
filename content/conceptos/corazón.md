@@ -25,13 +25,17 @@ Creer con el corazón es el antídoto contra el neo-gnosticismo y el neo-pelagia
 
 ## Perspectivas por fuente
 
-### Según la Nota doctrinal «Cor ad cor loquitur» (NotaEmocionesFe)
-
-La afectividad, como dimensión humana fundamental en armonía con la razón y la voluntad, supera al mero sentimentalismo y libera a la fe de las redes del subjetivismo y del emotivismo (n. 19). El amor auténtico conduce a la verdad. La nota dedica la sección «Recuperar el corazón» (nn. 16-20) a desarrollar la centralidad del corazón, citando la encíclica Dilexit nos (2024) donde el corazón es «el núcleo de cada ser humano, su centro más íntimo; no solo el núcleo del alma, sino de toda la persona en su identidad única que es anímica y corpórea» (n. 17). Desde el corazón, la experiencia de fe se convierte en un acontecimiento totalizante que permite decir: «Encontré al amor de mi alma. Lo abracé y no lo solté» (Cant 3,4; n. 18).
-
 ### Según el Catecismo (CEC)
 
 El corazón es el centro de la persona, el lugar de las decisiones, de la verdad, del encuentro y de la Alianza, que solo puede ser sondeado y conocido por el Espíritu de Dios (CEC §2563).
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El corazón en la Biblia no se limita a los afectos: designa lo más íntimo del hombre, donde residen pensamientos, recuerdos, proyectos y la conciencia misma [VocTeoBib, «Corazón»]. Dios mira al corazón, no a las apariencias (1Sa 16,7), y desenmascara la doblez del culto meramente exterior (Is 29,13). Israel comprendió que debía «buscar a Dios con todo el corazón» (Dt 4,29), pero su historia demostró su impotencia radical —corazón rebelde, incircunciso, de doblez— hasta que Dios prometió «dar un corazón nuevo» y «escribir su ley en el corazón» (Jer 31,33; Ez 36,26s). Esta promesa se cumple en Jesucristo, que confiere la pureza de corazón (Mt 5,8) y, resucitado, hace arder el corazón de los discípulos (Lc 24,32). Por la fe habita Cristo en los corazones (Ef 3,17), y el Espíritu del Hijo clama «Abba, Padre» (Gal 4,6).
+
+### Según la Nota doctrinal «Cor ad cor loquitur» (NotaEmocionesFe)
+
+La afectividad, como dimensión humana fundamental en armonía con la razón y la voluntad, supera al mero sentimentalismo y libera a la fe de las redes del subjetivismo y del emotivismo (n. 19). El amor auténtico conduce a la verdad. La nota dedica la sección «Recuperar el corazón» (nn. 16-20) a desarrollar la centralidad del corazón, citando la encíclica Dilexit nos (2024) donde el corazón es «el núcleo de cada ser humano, su centro más íntimo; no solo el núcleo del alma, sino de toda la persona en su identidad única que es anímica y corpórea» (n. 17). Desde el corazón, la experiencia de fe se convierte en un acontecimiento totalizante que permite decir: «Encontré al amor de mi alma. Lo abracé y no lo solté» (Cant 3,4; n. 18).
 
 ### Según la encíclica Dilexit nos (Francisco, 2024)
 
@@ -40,10 +44,6 @@ El corazón es «donde cada persona hace su síntesis; allí donde los seres con
 ### Según la encíclica Haurietis aquas (Pío XII, 1956)
 
 El Corazón del Verbo encarnado es signo y símbolo del triple amor con que ama Cristo: el amor divino (como Dios), el amor espiritual humano (la caridad de su voluntad humana) y el amor sensible (afectos y emociones) (nn. 3, 15-16). La encíclica alerta del peligro del naturalismo y del sentimentalismo.
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El corazón en la Biblia no se limita a los afectos: designa lo más íntimo del hombre, donde residen pensamientos, recuerdos, proyectos y la conciencia misma [VocTeoBib, «Corazón»]. Dios mira al corazón, no a las apariencias (1Sa 16,7), y desenmascara la doblez del culto meramente exterior (Is 29,13). Israel comprendió que debía «buscar a Dios con todo el corazón» (Dt 4,29), pero su historia demostró su impotencia radical —corazón rebelde, incircunciso, de doblez— hasta que Dios prometió «dar un corazón nuevo» y «escribir su ley en el corazón» (Jer 31,33; Ez 36,26s). Esta promesa se cumple en Jesucristo, que confiere la pureza de corazón (Mt 5,8) y, resucitado, hace arder el corazón de los discípulos (Lc 24,32). Por la fe habita Cristo en los corazones (Ef 3,17), y el Espíritu del Hijo clama «Abba, Padre» (Gal 4,6).
 
 ### Según Il senso religioso (SR)
 

@@ -22,6 +22,9 @@ La teología moral no es una ética abstracta, sino que se fundamenta en los mis
 
 ## Perspectivas por fuente
 
+### Código de Derecho Canónico (CIC)
+
+- **c. 252**: La enseñanza de la teología moral debe fundarse en la Sagrada Escritura, la Tradición y el magisterio.
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor insiste en que:
@@ -31,9 +34,6 @@ El autor insiste en que:
 - La dogmática se orienta a la vida moral concreta.
 - La separación de moral y dogma empobrece ambas disciplinas.
 
-### Código de Derecho Canónico (CIC)
-
-- **c. 252**: La enseñanza de la teología moral debe fundarse en la Sagrada Escritura, la Tradición y el magisterio.
 
 ## Distinciones importantes
 

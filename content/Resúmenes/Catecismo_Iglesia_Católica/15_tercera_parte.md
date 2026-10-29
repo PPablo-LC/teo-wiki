@@ -154,7 +154,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ##### II. La formación de la conciencia
 
-§1783-1785 Hay que formar la conciencia y esclarecer el juicio moral: una conciencia bien formada es recta y veraz, y formula sus juicios según la razón, conforme al bien verdadero querido por la sabiduría del Creador. La educación de la conciencia es una tarea de toda la vida: despierta al niño al conocimiento y la práctica de la ley interior, enseña la virtud, preserva o sana del miedo, del egoísmo y del orgullo, garantiza la libertad y engendra la paz del corazón. En su formación, la Palabra de Dios es la luz de nuestro caminar; estamos asistidos por los dones del Espíritu Santo, ayudados por el testimonio o los consejos de otros y guiados por la enseñanza autorizada de la Iglesia.
+§1783-1785 Hay que formar la conciencia y esclarecer el juicio moral: una conciencia bien formada es recta y veraz, y fórmula sus juicios según la razón, conforme al bien verdadero querido por la sabiduría del Creador. La educación de la conciencia es una tarea de toda la vida: despierta al niño al conocimiento y la práctica de la ley interior, enseña la virtud, preserva o sana del miedo, del egoísmo y del orgullo, garantiza la libertad y engendra la paz del corazón. En su formación, la Palabra de Dios es la luz de nuestro caminar; estamos asistidos por los dones del Espíritu Santo, ayudados por el testimonio o los consejos de otros y guiados por la enseñanza autorizada de la Iglesia.
 
 ##### III. Decidir en conciencia
 

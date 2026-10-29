@@ -23,15 +23,15 @@ El matrimonio sacramento, como todo sacramento, es memorial, actualización y pr
 
 ## Perspectivas por fuente
 
+### Según el Compendio (CompDS)
+
+Los bautizados viven la realidad del matrimonio como sacramento, signo e instrumento de gracia (§219). La historia de la salvación está atravesada por el tema de la alianza esponsal, expresión de la comunión de amor entre Dios y los hombres. Jesucristo es el Esposo que ama y se da como Salvador, revelando la verdad original del matrimonio desde el principio (Gn 2,24; Mt 19,5) y liberando al hombre de la dureza del corazón para realizarla plenamente (§219). El sacramento capacita a los esposos a vivir su vocación laical buscando el Reino de Dios en los asuntos temporales (§220). La caridad conyugal, que brota de la caridad de Cristo por medio del sacramento, hace a los cónyuges testigos de una sociabilidad nueva inspirada por el Evangelio (§220).
+
 ### Según la Familiaris Consortio (FC)
 
 La Iglesia, acogiendo y meditando fielmente la Palabra de Dios, ha enseñado solemnemente que el matrimonio de los bautizados es uno de los siete sacramentos de la Nueva Alianza (FC §13). Mediante el bautismo, el hombre y la mujer son insertados definitivamente en la Alianza esponsal de Cristo con la Iglesia, y la comunidad íntima de vida y de amor conyugal es elevada y asumida en la caridad esponsal de Cristo (FC §13). En virtud de la sacramentalidad de su matrimonio, los esposos quedan vinculados uno a otro de la manera más profundamente indisoluble, y su recíproca pertenencia es representación real, mediante el signo sacramental, de la misma relación de Cristo con la Iglesia (FC §13).
 
 El efecto primario e inmediato del matrimonio (*res et sacramentum*) no es la gracia sobrenatural misma, sino el vínculo conyugal cristiano, una comunión en dos típicamente cristiana que representa el misterio de la Encarnación de Cristo y su misterio de Alianza (FC §13). El amor conyugal, asumido en el sacramento, comporta una totalidad que abarca todos los elementos de la persona, mira a una unidad profundamente personal, exige la indisolubilidad y fidelidad de la donación recíproca definitiva y se abre a la fecundidad (FC §13).
-
-### Según el Compendio (CompDS)
-
-Los bautizados viven la realidad del matrimonio como sacramento, signo e instrumento de gracia (§219). La historia de la salvación está atravesada por el tema de la alianza esponsal, expresión de la comunión de amor entre Dios y los hombres. Jesucristo es el Esposo que ama y se da como Salvador, revelando la verdad original del matrimonio desde el principio (Gn 2,24; Mt 19,5) y liberando al hombre de la dureza del corazón para realizarla plenamente (§219). El sacramento capacita a los esposos a vivir su vocación laical buscando el Reino de Dios en los asuntos temporales (§220). La caridad conyugal, que brota de la caridad de Cristo por medio del sacramento, hace a los cónyuges testigos de una sociabilidad nueva inspirada por el Evangelio (§220).
 
 ### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
 

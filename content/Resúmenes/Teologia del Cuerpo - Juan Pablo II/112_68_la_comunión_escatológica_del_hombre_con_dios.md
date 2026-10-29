@@ -4,7 +4,7 @@ title: "68. La comunión escatológica del hombre con Dios"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 112
 timestamp: 2026-08-01
-description: "Catequesis 68: la communio escatológica del hombre con Dios, alimentada por la visión «cara a cara»; la perfección de la subjetividad e intersubjetividad y el cumplimiento del significado esponsalicio del cuerpo en la resurrección — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 68: la communio escatológica del hombre con Dios, alimentada por la visión «cara a cara»; la perfección de la subjetividad e intersubjetividad y el cumplimiento del significado esponsalicio del cuerpo en la resurrección — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

@@ -24,7 +24,7 @@ tags: ["resumen", "evangelization and culture - 16 capitulos"]
 
 Introducción al bloque de artículos (features) de este número dedicado a Benedicto XVI. La pregunta inicial —«¿Quién fue el papa Benedicto XVI?»— recibe como respuesta que fue todo eso y más. Citando el poema de William Wordsworth «My Heart Leaps Up» («El niño es el padre del hombre»), señala que nuestro yo moderno está informado por los jóvenes yo que aún residen dentro de nosotros.
 
-Benedicto XVI fue un niño alemán nacido en la incertidumbre de entreguerras, al amor y cuidado de Joseph Ratzinger padre (policía honrado y recto) y de Maria Ratzinger (madre devota y ama de casa). Sus primeros años estuvieron marcados con amor por los reconfortantes ciclos del calendario litúrgico y las gracias transcendentales de los sacramentos.
+Benedicto XVI fue un niño alemán nacido en la incertidumbre de entreguerras, al amor y cuidado de Joseph Ratzinger padre (policía honrado y recto) y de María Ratzinger (madre devota y ama de casa). Sus primeros años estuvieron marcados con amor por los reconfortantes ciclos del calendario litúrgico y las gracias transcendentales de los sacramentos.
 
 Fue un joven atraído por el sacerdocio cuya vocación católica fue desafiada y cuyas sagradas convicciones se fortalecieron enfrentándose espiritualmente al estado nazi, que exigía su servicio en la guerra y su lealtad en la paz. El futuro papa fue un erudito que deslumbraba con mente aguda, mensaje claro y corazón cálido; junto a sus mentores Henri de Lubac, Romano Guardini y Hans Urs von Balthasar, bebió del profundo pozo del pasado, pero su trabajo siempre miró a la Iglesia del futuro.
 

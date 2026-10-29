@@ -21,6 +21,17 @@ La excomunión es una pena medicinal (censura) cuyo fin no es principalmente pun
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La excomunión es la pena eclesiástica más grave, que tiende a hacer tomar conciencia al delincuente de la gravedad de su falta (CEC §1463).
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula la excomunión en los cc. 1331 y 1364-1369. Al excomulgado se le prohibe: tener cualquier participación ministerial en la celebración del Sacrificio Eucarístico o en otras ceremonias de culto; celebrar los sacramentos o sacramentales y recibir los sacramentos; desempeñar oficios, ministerios o cargos eclesiásticos, o realizar actos de régimen (c. 1331 §1). Cuando la excomunión ha sido impuesta o declarada, el reo realiza inválidamente los actos de régimen, no puede obtener válidamente una dignidad u oficio, y no hace suyos los frutos de los oficios que tenga (c. 1331 §2). Incurren en excomunión latae sententiae: el apóstata, hereje o cismático (c. 1364 §1); quien arroja por tierra las especies consagradas (c. 1367); quien atenta físicamente contra el Romano Pontífice (c. 1370 §1); el sacerdote que absuelve al cómplice (c. 1378 §1); el Obispo que consagra a otro sin mandato pontificio (c. 1382); el confesor que viola directamente el sigilo sacramental (c. 1388 §1); quien procura el aborto (c. 1398). El legislador no debe establecer la excomunión si no es con máxima moderación y solo contra los delitos más graves (c. 1318).
+
+### Según el Comentario al CIC de EUNSA (Com-CIC-Eunsa)
+
+La «comunión» del fiel con la Iglesia tiene una raíz ontológica —el Bautismo— que nunca se pierde, y una doble dimensión: mística y jurídica. La comunión mística o sobrenatural entraña la gracia santificante y la caridad, une al fiel con la Iglesia en cuanto Cuerpo místico, y se pierde en parte por el pecado o plenamente con la pérdida de la fe. La comunión jurídica une al fiel con la Iglesia en cuanto sociedad visible, se expresa por relaciones jurídicas concretadas en derechos y obligaciones, y se pierde mediante un acto constitutivo de la autoridad que priva de los derechos señalados en el c. 1331. El concepto legal de excomunión se refiere solo a la pérdida de la comunión jurídica, sin prejuzgar la comunión mística. No obstante, al recaer sobre un delito especialmente grave, se presupone la existencia de un pecado mortal que rompe al menos parcialmente la comunión mística. La expresión «ministerial» del c. 1331 §1,1º significa participación activa en la celebración. Aunque la prohibición del §1,2º es grave, no afecta en principio a la validez, salvo que la ley lo diga expresamente (como en §2,2º y 4º). Los actos ilícitos del excomulgado no declarado se vuelven inválidos cuando la excomunión es impuesta o declarada (§2). Los delitos que llevan excomunión latae sententiae han de ser poquísimos y gravísimos (c. 1318); el CIC los ha reducido sustancialmente respecto al CIC 17.
+
 ### Según la Summa Theologiae (SmTh) — Suplemento
 
 **Suppl. q.21 — Definición, conveniencia y causa de la excomunión:**
@@ -62,17 +73,6 @@ a.1 — De la excomunión menor puede absolver cualquier sacerdote que pueda abs
 a.2 — Nadie puede ser absuelto contra su voluntad; la pena (a diferencia de la culpa) no necesita ser voluntaria.
 
 a.3 — Puede uno ser absuelto de una excomunión sin serlo de todas, porque las excomuniones no están conectadas como los pecados. Si varias fueron pronunciadas por el mismo juez, la absolución de una se entiende por todas, salvo disposición contraria.
-
-### Según el Catecismo (CEC)
-
-La excomunión es la pena eclesiástica más grave, que tiende a hacer tomar conciencia al delincuente de la gravedad de su falta (CEC §1463).
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula la excomunión en los cc. 1331 y 1364-1369. Al excomulgado se le prohibe: tener cualquier participación ministerial en la celebración del Sacrificio Eucarístico o en otras ceremonias de culto; celebrar los sacramentos o sacramentales y recibir los sacramentos; desempeñar oficios, ministerios o cargos eclesiásticos, o realizar actos de régimen (c. 1331 §1). Cuando la excomunión ha sido impuesta o declarada, el reo realiza inválidamente los actos de régimen, no puede obtener válidamente una dignidad u oficio, y no hace suyos los frutos de los oficios que tenga (c. 1331 §2). Incurren en excomunión latae sententiae: el apóstata, hereje o cismático (c. 1364 §1); quien arroja por tierra las especies consagradas (c. 1367); quien atenta físicamente contra el Romano Pontífice (c. 1370 §1); el sacerdote que absuelve al cómplice (c. 1378 §1); el Obispo que consagra a otro sin mandato pontificio (c. 1382); el confesor que viola directamente el sigilo sacramental (c. 1388 §1); quien procura el aborto (c. 1398). El legislador no debe establecer la excomunión si no es con máxima moderación y solo contra los delitos más graves (c. 1318).
-
-### Según el Comentario al CIC de EUNSA (Com-CIC-Eunsa)
-
-La «comunión» del fiel con la Iglesia tiene una raíz ontológica —el Bautismo— que nunca se pierde, y una doble dimensión: mística y jurídica. La comunión mística o sobrenatural entraña la gracia santificante y la caridad, une al fiel con la Iglesia en cuanto Cuerpo místico, y se pierde en parte por el pecado o plenamente con la pérdida de la fe. La comunión jurídica une al fiel con la Iglesia en cuanto sociedad visible, se expresa por relaciones jurídicas concretadas en derechos y obligaciones, y se pierde mediante un acto constitutivo de la autoridad que priva de los derechos señalados en el c. 1331. El concepto legal de excomunión se refiere solo a la pérdida de la comunión jurídica, sin prejuzgar la comunión mística. No obstante, al recaer sobre un delito especialmente grave, se presupone la existencia de un pecado mortal que rompe al menos parcialmente la comunión mística. La expresión «ministerial» del c. 1331 §1,1º significa participación activa en la celebración. Aunque la prohibición del §1,2º es grave, no afecta en principio a la validez, salvo que la ley lo diga expresamente (como en §2,2º y 4º). Los actos ilícitos del excomulgado no declarado se vuelven inválidos cuando la excomunión es impuesta o declarada (§2). Los delitos que llevan excomunión latae sententiae han de ser poquísimos y gravísimos (c. 1318); el CIC los ha reducido sustancialmente respecto al CIC 17.
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

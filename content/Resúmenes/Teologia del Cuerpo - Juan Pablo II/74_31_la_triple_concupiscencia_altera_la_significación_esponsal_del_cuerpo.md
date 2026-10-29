@@ -4,7 +4,7 @@ title: "31. La triple concupiscencia altera la significación esponsal del cuerp
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 74
 timestamp: 2026-08-01
-description: "Catequesis 31: la vergüena como experiencia secundaria de defensa, la deformación del significado esponsalicio como «medida del corazón», y la nota teologico-antropológica de la concupiscencia de la carne"
+description: "Catequesis 31: la vergüena como experiencia secundaria de defensa, la deformación del significado esponsalicio como «medida del corazón», y la nota teológico-antropológica de la concupiscencia de la carne"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

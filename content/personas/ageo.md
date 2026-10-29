@@ -28,6 +28,9 @@ La promesa de Ageo, sin embargo, no se limita al bienestar agrícola. Anuncia ta
 
 El CEC §120 incluye a Ageo entre los libros proféticos del canon del Antiguo Testamento, recibidos por la Iglesia como palabra de Dios. Su autoridad se funda en la inspiración divina y en la inserción de su mensaje en la única historia de la salvación que culmina en Cristo.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El Vocabulario, en la voz «Templo», recuerda que «el primer cuidado de los judíos repatriados al final del exilio es el de reconstruirlo bajo los estímulos de los profetas Ageo y Zacarías» (Esd 3-6), y que nuevos oráculos cantan su gloria venidera (Ag 2,1-9; Is 60,7-11). En la voz «Profeta» señala que, a partir del exilio, la organización del culto y el profetismo coinciden en Ezequiel, Malaquías y Ageo: la profecía no se imagina una religión sin culto, sino un culto purificado.
 ### Según Introducción al Antiguo Testamento (IAT)
 
 IAT, en el capítulo dedicado a la profecía del destierro y de la restauración (cap. 26), sitúa a Ageo entre los tres testigos proféticos de los primeros decenios después del exilio —junto con [[tritoisaías]] y [[zacarías]]— y lo presenta como el profeta de la reconstrucción del Templo. Frente a Tritoisaías, que vincula la salvación a la práctica de la justicia, Ageo la vincula a la reconstrucción del santuario: lo que impide la irrupción de la salvación no son las injusticias sociales, sino la despreocupación por la casa de Dios.
@@ -40,9 +43,6 @@ IAT encuadra a Ageo en la etapa final de la profecía israelita y en el problema
 
 KOC (cap. 15), al presentar a los profetas escritores frente a los que no dejaron escritos, menciona a Ageo junto con [[zacarías]] entre los profetas cuya predicación fue puesta por escrito. No le dedica un capítulo propio: su figura aparece en el elenco de los profetas que, tras el destierro, siguieron hablando en nombre de Dios y defendiendo la [[alianza]].
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El Vocabulario, en la voz «Templo», recuerda que «el primer cuidado de los judíos repatriados al final del exilio es el de reconstruirlo bajo los estímulos de los profetas Ageo y Zacarías» (Esd 3-6), y que nuevos oráculos cantan su gloria venidera (Ag 2,1-9; Is 60,7-11). En la voz «Profeta» señala que, a partir del exilio, la organización del culto y el profetismo coinciden en Ezequiel, Malaquías y Ageo: la profecía no se imagina una religión sin culto, sino un culto purificado.
 
 ## Distinciones importantes
 

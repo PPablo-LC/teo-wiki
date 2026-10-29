@@ -31,7 +31,7 @@ Las variantes especializadas del wiki profundizan esta base: [[antropología_cri
 
 La crítica de Weizenbaum al «imperialismo» computacional es, de fondo, una disputa antropológica:
 
-- Contra la hipótesis de Herbert A. Simon («el hombre entero, visto como sistema que se comporta, es bastante simple») argumenta que ella implicaría que la capacidad humana de elegir es tan limitada como la de la hormiga.
+- Contra la hipótesis de Herbert A. Simón («el hombre entero, visto como sistema que se comporta, es bastante simple») argumenta que ella implicaría que la capacidad humana de elegir es tan limitada como la de la hormiga.
 - Los modelos computacionales en psicología reducen al hombre a «procesador de información», deshumanizándolo cada vez que lo tratan «como menos que una persona entera».
 - La diferencia crucial: «el hombre, para llegar a ser entero, debe ser para siempre un explorador de sus realidades interiores y exteriores»; riesgo, valor, confianza y superación no significan nada aplicados a máquinas.
 

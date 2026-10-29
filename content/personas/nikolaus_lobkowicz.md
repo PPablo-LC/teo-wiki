@@ -22,7 +22,7 @@ filosofía y rector de la **Universidad Católica de Eichstätt** (Alemania).
 Don [[luigi_giussani]] lo describió como «una delle personalità laiche più
 in vista, ma soprattutto più affascinanti per la sua fede e il suo spirito
 di sacrificio e il suo sforzo per far riconoscere, in tutto il mondo
-intellettuale e politico in cui vive, la Chiesa» (04, 55).
+intellettuale e político in cui vive, la Chiesa» (04, 55).
 
 ## Contexto histórico
 

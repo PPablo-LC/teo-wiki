@@ -33,6 +33,21 @@ El CIC regula la celebración eucarística en los cánones 897-958. La Misa es l
 
 *Sacrosanctum Concilium* 47-56 desarrolla la reforma del Sacrificio Eucarístico. La Misa es el Sacrificio Eucarístico, Memorial de la Muerte y Resurrección del Señor, «sacramento de piedad, signo de unidad, vínculo de caridad, banquete pascual» (SC 47). Se ordena la revisión del Ordinario de la Misa para manifestar con mayor claridad el sentido de cada parte, simplificando los ritos pero conservando la sustancia (SC 50). Se amplían las lecturas bíblicas (SC 51). La homilía es parte de la Misa y nunca debe omitirse en domingos y fiestas (SC 52). Se restablece la oración de los fieles (SC 53). La liturgia de la palabra y la liturgia eucarística constituyen un solo acto de culto (SC 56).
 
+### Según la Summa Theologiae (SmTh)
+
+#### IIIª q.83 — El rito de este sacramento
+
+**a.2 — El tiempo de la celebración:** En la celebración se ha de atender a la representación de la pasión y a la participación de sus frutos. Como del fruto de la pasión necesitamos todos los días a causa de nuestros defectos cotidianos, se celebra diariamente; y por la mañana, porque a esa hora resucitó Cristo y porque así el pueblo se dispone con el ayuno a recibir el sacramento. (SmTh IIIa q.83 a.2)
+
+**a.3 — Edificio y vasos sagrados:** Los ritos de la eucaristía tienen doble finalidad: representar lo que sucedió en la pasión y fomentar la reverencia debida a este sacramento, en el que Cristo está realmente y no solo en figura. Por eso se consagran el templo, el altar, los vasos y los vestidos sagrados. (SmTh IIIa q.83 a.3)
+
+**a.4 — Las palabras y partes del rito:** Como en este sacramento se compendia todo el misterio de la salvación, se celebra con mayor solemnidad. El rito dispone primero la preparación —«Señor, ten piedad», «Gloria», oración—; luego la instrucción del pueblo por los Profetas, los Apóstoles y el Evangelio, con el símbolo de la fe; después la oblación y la consagración, con las palabras del Salvador; y finalmente la consumación —Padrenuestro, comunión— y la acción de gracias. (SmTh IIIa q.83 a.4)
+
+**a.5 — Las ceremonias son oportunas:** En los sacramentos la significación se realiza por palabras y por hechos, y las ceremonias de la misa significan lo que pertenece a la pasión de Cristo, al cuerpo místico y al uso del sacramento, disponiendo a la reverencia y a la devoción. (SmTh IIIa q.83 a.5)
+
+**a.6 — Remedio de los defectos:** Los defectos pueden prevenirse para que no ocurran o, una vez ocurridos, repararse, y quien obró con negligencia debe hacer penitencia. A ambos proveen las leyes de la Iglesia, que ordenan lo necesario para la digna celebración. (SmTh IIIa q.83 a.6)
+
+> El artículo a.1, sobre la inmolación incruenta de Cristo en la misa, se desglosa en [[sacrificio_eucarístico]].
 ### Según Royo Marín (TPCr)
 
 Los sacramentos, y especialmente la Eucaristía, son medios esenciales para la santificación. La Santa Misa es el acto central del culto cristiano. Por medio de la comunión eucarística, el alma se une íntimamente a Cristo, fuente de toda gracia y santidad (TPCr, Parte III, Libro II, Cap. I).
@@ -57,21 +72,6 @@ Las misas solemnes se celebran en 25 días señalados que incluyen las grandes s
 
 **D‑1530**: Condenó la doctrina del Sínodo que afirmaba que «no está en el arbitrio del sacerdote aplicar a quien quiera los frutos del sacrificio; más bien condenamos este error como ofensivo a los derechos de Dios, que es quien solo distribuye los frutos del sacrificio», entendida de modo que la oblación especial o aplicación del sacrificio no aproveche más a aquellos por quienes se aplica que a otros cualesquiera. Declarada falsa, temeraria, perniciosa, injuriosa a la Iglesia e inductiva al error condenado en Wicleff (D‑599). La condena reafirma que la aplicación especial del fruto del sacrificio por parte del sacerdote produce un fruto especial para aquellos por quienes se aplica.
 
-### Según la Summa Theologiae (SmTh)
-
-#### IIIª q.83 — El rito de este sacramento
-
-**a.2 — El tiempo de la celebración:** En la celebración se ha de atender a la representación de la pasión y a la participación de sus frutos. Como del fruto de la pasión necesitamos todos los días a causa de nuestros defectos cotidianos, se celebra diariamente; y por la mañana, porque a esa hora resucitó Cristo y porque así el pueblo se dispone con el ayuno a recibir el sacramento. (SmTh IIIa q.83 a.2)
-
-**a.3 — Edificio y vasos sagrados:** Los ritos de la eucaristía tienen doble finalidad: representar lo que sucedió en la pasión y fomentar la reverencia debida a este sacramento, en el que Cristo está realmente y no solo en figura. Por eso se consagran el templo, el altar, los vasos y los vestidos sagrados. (SmTh IIIa q.83 a.3)
-
-**a.4 — Las palabras y partes del rito:** Como en este sacramento se compendia todo el misterio de la salvación, se celebra con mayor solemnidad. El rito dispone primero la preparación —«Señor, ten piedad», «Gloria», oración—; luego la instrucción del pueblo por los Profetas, los Apóstoles y el Evangelio, con el símbolo de la fe; después la oblación y la consagración, con las palabras del Salvador; y finalmente la consumación —Padrenuestro, comunión— y la acción de gracias. (SmTh IIIa q.83 a.4)
-
-**a.5 — Las ceremonias son oportunas:** En los sacramentos la significación se realiza por palabras y por hechos, y las ceremonias de la misa significan lo que pertenece a la pasión de Cristo, al cuerpo místico y al uso del sacramento, disponiendo a la reverencia y a la devoción. (SmTh IIIa q.83 a.5)
-
-**a.6 — Remedio de los defectos:** Los defectos pueden prevenirse para que no ocurran o, una vez ocurridos, repararse, y quien obró con negligencia debe hacer penitencia. A ambos proveen las leyes de la Iglesia, que ordenan lo necesario para la digna celebración. (SmTh IIIa q.83 a.6)
-
-> El artículo a.1, sobre la inmolación incruenta de Cristo en la misa, se desglosa en [[sacrificio_eucarístico]].
 ### Según San Juan Pablo II (EA)
 
 Los pastores deben «dar a la celebración eucarística dominical una nueva fuerza, como fuente y culminación de la vida de la Iglesia, prenda de su comunión en el Cuerpo de Cristo e invitación a la solidaridad» [EA §35]. Los fieles deben ser conscientes de que la Eucaristía es «un inmenso don» y participar activa y dignamente en ella, «al menos los domingos y días festivos» [EA §35].

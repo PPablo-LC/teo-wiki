@@ -25,6 +25,9 @@ La gloria del alma bienaventurada consiste esencialmente en la visión intuitiva
 
 Los que mueren en gracia de Dios y están purificados entran en la intimidad divina y ven a Dios «tal cual es» (§1023). La Iglesia que peregrina en la tierra está llamada a la gloria del cielo (§1023-1028). Los frutos del Espíritu Santo son «primicias de la gloria eterna» (§1832). La Eucaristía es «prenda de la gloria futura» (§1402-1405). La castidad es promesa de inmortalidad (§2347). Existe una comunión entre la Iglesia peregrina y la Iglesia en la gloria (§954-959).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Gloria»] La gloria (heb. *kabod*, peso, importancia) designa en el AT el valor real de un ser, su peso en la existencia. La «gloria de Yahveh» es Dios mismo revelándose en majestad y poder: epifanía en las altas gestas de salvación y en las apariciones fulgurantes en el Sinaí y el templo. En el NT se centra en Cristo, «resplandor de su gloria» (Heb 1,3), manifestada ya en su vida terrena, plenamente en la resurrección y consumada en la parusía. El cristiano, transformado «de gloria en gloria» (2Cor 3,18), anticipa ya la gloria eterna.
 ### Según Royo Marín (TPCr)
 
 Royo Marín enseña que la gracia habitual es el germen de la gloria. La perfección cristiana en esta vida es una participación incipiente de la gloria que se consumará en el cielo. El dolor bien soportado aumenta el grado de gloria para toda la eternidad. El don de temor permanecerá en el cielo en su aspecto reverencial, aunque cesará el temor de ofender a Dios por la impecabilidad del bienaventurado. La contemplación mística es un anticipo de la gloria eterna.
@@ -44,9 +47,6 @@ Bernardo distingue entre la esperanza en el nombre (*spes in nomine*) y la reali
 
 Cualquier deformidad infligida por una libertad mal empleada será entonces reformada, de modo que la forma aparecerá en su belleza original.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Gloria»] La gloria (heb. *kabod*, peso, importancia) designa en el AT el valor real de un ser, su peso en la existencia. La «gloria de Yahveh» es Dios mismo revelándose en majestad y poder: epifanía en las altas gestas de salvación y en las apariciones fulgurantes en el Sinaí y el templo. En el NT se centra en Cristo, «resplandor de su gloria» (Heb 1,3), manifestada ya en su vida terrena, plenamente en la resurrección y consumada en la parusía. El cristiano, transformado «de gloria en gloria» (2Cor 3,18), anticipa ya la gloria eterna.
 
 ## Distinciones importantes
 
@@ -57,7 +57,7 @@ Cualquier deformidad infligida por una libertad mal empleada será entonces refo
 
 ### Según la Summa Theologiae (SmTh, Suppl.)
 
-En las cuestiones del Suplemento sobre la resurrección (q.79-85), Santo Tomás desarrolla la gloria del cuerpo resucitado. Todos resucitarán en la edad perfecta —la juventud, alrededor de los treinta años— (q.79 a.1). El cuerpo glorioso participa de la gloria del alma mediante cuatro dotes: impasibilidad (q.80), que lo libra de todo dolor; sutileza (q.81), que lo somete plenamente al espíritu; agilidad (q.82), que le permite moverse con la velocidad del pensamiento; y claridad (q.85), que irradia exteriormente la gloria interior del alma. La gloria del cuerpo es accidental respecto de la gloria esencial del alma (visión beatífica), pero es una verdadera participación corpórea de la bienaventuranza.
+En las cuestiones del Suplemento sobre la resurrección (q.81-85), Santo Tomás desarrolla la gloria del cuerpo resucitado. Todos resucitarán en la edad perfecta —la juventud, alrededor de los treinta años— (q.81 a.1). El cuerpo glorioso participa de la gloria del alma mediante cuatro cualidades: impasibilidad (q.82), que lo libra de todo dolor; sutileza (q.83), que lo somete plenamente al espíritu; agilidad (q.84), que le permite moverse con la velocidad del pensamiento; y claridad (q.85), que irradia exteriormente la gloria interior del alma. La gloria del cuerpo es accidental respecto de la gloria esencial del alma (visión beatífica), pero es una verdadera participación corpórea de la bienaventuranza.
 
 En la cuestión 93 del Suplemento, Santo Tomás añade que la gloria de los santos será mayor después del juicio final que antes (q.93 a.1). Esta mayor gloria no es solo extensiva (por la adición de la gloria del cuerpo), sino también intensiva: el alma unida al cuerpo glorioso posee un ser más perfecto y, por tanto, una operación beatífica más perfecta.
 

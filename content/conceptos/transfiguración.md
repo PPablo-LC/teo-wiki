@@ -27,6 +27,7 @@ El relato evoca el Sinaí: la nube, la voz divina, el monte. La presencia de Moi
 
 La Transfiguración es una visión anticipada del Reino y de la gloria divina de Cristo, que confirma la confesión de Pedro y muestra que para entrar en la gloria es necesario pasar por la Cruz (CEC §554-§555). Es «sacramento de la segunda regeneración», nuestra propia resurrección (§556). En ella se manifiesta la Trinidad: el Padre en la voz, el Hijo en el hombre, el Espíritu Santo en la nube luminosa (§555, §697). Fortalece la fe de los apóstoles ante la Pasión (§568).
 
+En la Transfiguración, «la gloria divina se manifiesta en el resplandor del rostro de Cristo y en la nube que los cubre» (§554). «Los tres evangelistas sinópticos relacionan la Transfiguración con la confesión de Pedro, que es anticipación de la confesión de fe de los Apóstoles» (§554). El mandato «Este es mi Hijo amado, escuchadle» es la conclusión de la teofanía, proclamando a Jesús como autoridad suprema (§555).
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La Transfiguración es una epifanía del Reino de Dios presente en Jesús. Pedro propone hacer tres tiendas, evocando la Fiesta de los Tabernáculos, que tenía carácter mesiánico. Marcos sitúa la Transfiguración seis días después de la confesión de Pedro y del primer anuncio de la pasión (Mc 8,27-9,1).
@@ -76,10 +77,6 @@ Benedicto XVI dedica el capítulo 5 de *Jesús de Nazaret I* a la Transfiguraci�
 **Las tiendas de Pedro.** Pedro quiere hacer tres tiendas para prolongar la experiencia. Benedicto XVI explica que esto se entiende en el contexto de la fiesta de las Tiendas, que anuncia la construcción de las «tiendas divinas» en el mundo futuro. Pero Jesús debe descender del monte: la Transfiguración anticipa la gloria, pero no es aún la gloria definitiva. El tiempo mesiánico es, ante todo, el tiempo de la cruz.
 
 **El mandato «Escuchadle».** En la Transfiguración, Dios habla una sola vez: «Este es mi Hijo amado; escuchadle». Con esto concluye la aparición: su sentido más profundo queda recogido en esta única palabra. La Transfiguración es sacramento de la segunda regeneración, nuestra propia resurrección (§556 CEC), porque anticipa la gloria de la resurrección de Cristo.
-
-### Según el Catecismo (CEC)
-
-En la Transfiguración, «la gloria divina se manifiesta en el resplandor del rostro de Cristo y en la nube que los cubre» (§554). «Los tres evangelistas sinópticos relacionan la Transfiguración con la confesión de Pedro, que es anticipación de la confesión de fe de los Apóstoles» (§554). El mandato «Este es mi Hijo amado, escuchadle» es la conclusión de la teofanía, proclamando a Jesús como autoridad suprema (§555).
 
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 

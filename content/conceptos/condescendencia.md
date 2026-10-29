@@ -22,7 +22,7 @@ metodológicos» de la [[caridad]] que don [[luigi_giussani]] expone en *La
 ragione della carità* (1985): la actitud que «los Padres de la Iglesia han
 subrayado sobre todo» —su condescendencia—, que consiste en **descender al
 nivel del otro**, evitar toda pretensión y desear caminar juntos hacia «el
-identico Destino, Cristo» (MDO, 03, 61-65).
+idéntico Destino, Cristo» (MDO, 03, 61-65).
 
 ## Desarrollo doctrinal
 

@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "Genesius, Patron Saint of Actors — Rachel Bulman"
+title: "Genesius, Patrón Saint of Actors — Rachel Bulman"
 fuente: Evangelization and culture - 4
 capítulo: 5
 timestamp: 2026-08-26
@@ -8,7 +8,7 @@ description: "Resumen de la historia de San Genesio de Roma, patrón de los acto
 tags: ["resumen", "evangelization_and_culture", "santos", "cine"]
 ---
 
-# Genesius, Patron Saint of Actors — Rachel Bulman
+# Genesius, Patrón Saint of Actors — Rachel Bulman
 
 ## Conceptos básicos referenciados
 

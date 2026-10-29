@@ -4,7 +4,7 @@ title: "108. La veracidad en «el lenguaje del cuerpo»"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 27
 timestamp: 2026-08-01
-description: "Catequesis 108: el hombre de la concupiscencia llamado y no solo acusado, la posibilidad de releer en la verdad el lenguaje del cuerpo, la conversión del pecado a la castidad y la «hermenéutica del sacramento» — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 108: el hombre de la concupiscencia llamado y no solo acusado, la posibilidad de releer en la verdad el lenguaje del cuerpo, la conversión del pecado a la castidad y la «hermenéutica del sacramento» — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

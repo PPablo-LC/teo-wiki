@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Lives: St. Sebastian, Patron Saint of Athletes — Zelda Caldwell"
+title: "Lives: St. Sebastian, Patrón Saint of Athletes — Zelda Caldwell"
 fuente: Evangelization and culture - 20_capitulos
 capítulo: 5
 timestamp: 2026-09-08
-description: "Resumen de 'Lives: St. Sebastian, Patron Saint of Athletes — Zelda Caldwell' — Evangelization and culture - 20_capitulos"
+description: "Resumen de 'Lives: St. Sebastian, Patrón Saint of Athletes — Zelda Caldwell' — Evangelization and culture - 20_capitulos"
 tags: ["resumen", "evangelization and culture - 20 capitulos"]
 ---
 
-# Lives: St. Sebastian, Patron Saint of Athletes — Zelda Caldwell
+# Lives: St. Sebastian, Patrón Saint of Athletes — Zelda Caldwell
 
 ## Conceptos básicos referenciados
 
@@ -20,7 +20,7 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 
 ## Contenido
 
-## PATRON SAINT OF ATHLETES
+## PATRÓN SAINT OF ATHLETES
 
 Zelda Caldwell explora por qué San Sebastián es el patrón de los atletas, comenzando con la decisión del mariscal de campo Philip Rivers de anunciar su retiro el 20 de enero, día de la fiesta de San Sebastián. Rivers portaba una medalla de San Sebastián, recordando su milagrosa participación en un campeonato de la AFC con un ligamento cruzado roto.
 
@@ -40,5 +40,5 @@ Caldwell reflexiona sobre cómo la perseverancia de atletas como Philip Rivers, 
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | Lives: St. Sebastian, Patron Saint of Athletes — Zelda Caldwell |
-| 3 | H2 | PATRON SAINT OF ATHLETES |
+| 1 | H1 | Lives: St. Sebastian, Patrón Saint of Athletes — Zelda Caldwell |
+| 3 | H2 | PATRÓN SAINT OF ATHLETES |

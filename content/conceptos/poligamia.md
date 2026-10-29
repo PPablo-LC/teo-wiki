@@ -29,6 +29,9 @@ El CEC 1610 señala que la poligamia de los patriarcas y reyes no es criticada e
 
 El CompDS §217 enumera la unidad y la indisolubilidad entre los rasgos característicos del matrimonio, y la poligamia se presenta como negación radical del designio original de Dios, «porque es contraria a la igual dignidad personal del hombre y de la mujer, que en el matrimonio se dan con un amor total y por lo mismo único y exclusivo» (GS 47; Familiaris consortio 19).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El Vocabulario señala que la poligamia era práctica común en el Antiguo Testamento, motivada por el deseo de fecundidad y la preocupación por tener una familia numerosa (Jue 8,30; 12,8; 2Re 10,1). El autor yahvista, cuyo ideal era monogámico (Gn 2,18-24), la estigmatiza atribuyendo su origen a Lamec (Gn 4,19). Sin embargo, a lo largo de la Biblia se encuentra la práctica de tener dos esposas (1Sm 1,2; Dt 21,15) o concubinas (Gn 16,2; 30,3; Ex 21,7-11). Los reyes contraían gran número de uniones por amor o interés político (1Re 11,3). La ley de Moisés no prohibió formalmente la poligamia, aunque la reglamentó (Dt 21,15-17). Después del exilio, los sabios cantan la fidelidad a «la esposa de la juventud» (Pr 5,15-19) y Malaquías afirma que Dios «odia el repudio» (Mal 2,14-16).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 GS 47 señala que «la dignidad de esta institución [matrimonial] no brilla en todas partes con el mismo esplendor, puesto que está oscurecida por la poligamia, la epidemia del divorcio, el llamado amor libre y otras deformaciones».
@@ -43,9 +46,6 @@ Santo Tomás trata la poligamia en el Suplemento (q.65). Desarrolla tres aspecto
 
 **Concubinato (q.65 a.3-5).** Tener concubina es siempre contrario a la ley natural, porque la unión fuera del matrimonio es improporcionada al bien de la prole (fin principal del matrimonio), que requiere la cohabitación permanente de los padres para la crianza e instrucción. El concubinato es contrario a los primeros preceptos de la ley natural, que no admiten dispensa. Las uniones de los patriarcas con sus siervas, que la Escritura llama concubinas, fueron en realidad matrimonios en cuanto al fin principal, aunque carecían de la comunidad de obras propia del fin secundario.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El Vocabulario señala que la poligamia era práctica común en el Antiguo Testamento, motivada por el deseo de fecundidad y la preocupación por tener una familia numerosa (Jue 8,30; 12,8; 2Re 10,1). El autor yahvista, cuyo ideal era monogámico (Gn 2,18-24), la estigmatiza atribuyendo su origen a Lamec (Gn 4,19). Sin embargo, a lo largo de la Biblia se encuentra la práctica de tener dos esposas (1Sm 1,2; Dt 21,15) o concubinas (Gn 16,2; 30,3; Ex 21,7-11). Los reyes contraían gran número de uniones por amor o interés político (1Re 11,3). La ley de Moisés no prohibió formalmente la poligamia, aunque la reglamentó (Dt 21,15-17). Después del exilio, los sabios cantan la fidelidad a «la esposa de la juventud» (Pr 5,15-19) y Malaquías afirma que Dios «odia el repudio» (Mal 2,14-16).
 
 ## Distinciones importantes
 

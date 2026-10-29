@@ -36,4 +36,4 @@ Eva es llamada «mujer» once veces; María, dos (Jn 2,4; 19,26). Eva invita a A
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `03_the_seven_days_of_the_new_creation`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `03_the_seven_days_of_the_new_creation`

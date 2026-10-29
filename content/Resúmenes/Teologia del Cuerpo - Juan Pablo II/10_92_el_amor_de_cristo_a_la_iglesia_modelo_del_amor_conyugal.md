@@ -4,7 +4,7 @@ title: "92. El amor de Cristo a la Iglesia, modelo del amor conyugal"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 10
 timestamp: 2026-07-28
-description: "Catequesis 92: Ef 5,25-33, la analogía nupcial Cristo-Iglesia como modelo del amor conyugal y la unidad moral por amor — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 92: Ef 5,25-33, la analogía nupcial Cristo-Iglesia como modelo del amor conyugal y la unidad moral por amor — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

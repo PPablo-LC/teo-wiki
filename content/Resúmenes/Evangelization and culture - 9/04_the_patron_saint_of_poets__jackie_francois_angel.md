@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "The Patron Saint of Poets — Jackie Francois Angel"
+title: "The Patrón Saint of Poets — Jackie Francois Ángel"
 fuente: Evangelization and culture - 9
 capítulo: 4
 timestamp: 2026-08-23
-description: "Resumen de 'The Patron Saint of Poets: St. Brigid of Kildare' — Evangelization and culture - 9"
+description: "Resumen de 'The Patrón Saint of Poets: St. Brigid of Kildare' — Evangelization and culture - 9"
 tags: ["resumen", "evangelization and culture - 9"]
 ---
 
-# The Patron Saint of Poets — Jackie Francois Angel
+# The Patrón Saint of Poets — Jackie Francois Ángel
 
 ## Conceptos básicos referenciados
 
@@ -35,7 +35,7 @@ Fundó además el monasterio doble de hombres y mujeres en Kildare, donde sirvi�
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | The Patron Saint of Poets — Jackie Francois Angel |
+| 1 | H1 | The Patrón Saint of Poets — Jackie Francois Ángel |
 
 ## Secciones incluidas
 

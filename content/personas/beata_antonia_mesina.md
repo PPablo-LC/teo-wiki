@@ -25,7 +25,7 @@ Antonia representa el martirio de la pureza en la sociedad rural y pastoril: la 
 
 ### Según Ritratti di santi (RdS)
 
-El capítulo 11 (S. Maria Goretti) la incluye — junto a Pierina Morosini — entre las «vergini e martiri» que un autor laicista había ironizado anticipadamente como ejemplos deleteriosos, y que Juan Pablo II beatificó precisamente como respuesta: la Iglesia propone hoy a la sociedad estos testimonios, no los oculta.
+El capítulo 11 (S. María Goretti) la incluye — junto a Pierina Morosini — entre las «vergini e martiri» que un autor laicista había ironizado anticipadamente como ejemplos deleteriosos, y que Juan Pablo II beatificó precisamente como respuesta: la Iglesia propone hoy a la sociedad estos testimonios, no los oculta.
 
 Del discurso de beatificación, la fuente cita las palabras del Papa sobre Antonia: «Il fascio di legna raccolto per fare il pane nel forno di casa (dalla sedicenne Antonia Mesina), quel giorno di maggio del 1935, rimane sui monti accanto al suo corpo straziato da decine e decine di colpi di pietra. Quel giorno si accende un altro fuoco e si prepara un altro pane, per una famiglia molto più grande».
 
@@ -41,5 +41,5 @@ El capítulo sitúa a Antonia (con Goretti y Morosini) en la «beatitudine dei p
 
 ## Referencias
 
-- RdS, cap. 11 «S. Maria Goretti» (`11_s_maria_goretti.md`)
+- RdS, cap. 11 «S. María Goretti» (`11_s_maria_goretti.md`)
 - Discurso de Juan Pablo II en la beatificación de Pierina Morosini y Antonia Mesina, 4-X-1987 (citado en RdS 11)

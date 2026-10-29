@@ -17,7 +17,7 @@ timestamp: 2026-06-28
 - **Coautores / consejeros**: P. Gianfranco Ghirlanda, S.J.; P. Agostino Montan, C.S.I.; P. Álvaro Corcuera, L.C.; P. Sylvester Heereman, L.C.; Jorge López; Gloria Rodríguez.
 - **Presentación**: P. Eduardo Robles-Gil, L.C. (Director General desde febrero 2014).
 - **Introducción histórica**: P. Jaime Rodríguez, L.C.
-- **Edición**: Tipografia Proietti, Roma (2015).
+- **Edición**: Tipografía Proietti, Roma (2015).
 - **Derechos**: Legionarios de Cristo (2010-2014); 2015.
 - **Código de fuente**: AntDp-2015.
 - **Ubicación raw**: `raw/Espritualidad_LC-raw/Antologia_delegado_pontificio/`.

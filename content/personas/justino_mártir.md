@@ -43,7 +43,7 @@ Justino se refiere a los Evangelios como «memorias de los apóstoles» (*Apolog
 
 ### Mariología: el paralelo Eva-María
 
-En el *Diálogo con Trifón* (cap. 100) Justino formula por primera vez el paralelismo Eva-María: así como Eva, virgen, creyó a la serpiente y acarreó la muerte, María, virgen, creyó al ángel y acarreó la vida. Es el testigo más antiguo de la tipología de la [[nueva_eva]], junto con la interpretación de Is 7,14 (LXX: *parthenos*) aplicada a la [[concepción_virginal]]. Scott Hahn (BMV, lecciones 2-3 y 6) presenta a Justino como el primer formulador del paralelo Eva-María en la mariología patrística.
+En el *Diálogo con Trifón* (cap. 100) Justino fórmula por primera vez el paralelismo Eva-María: así como Eva, virgen, creyó a la serpiente y acarreó la muerte, María, virgen, creyó al ángel y acarreó la vida. Es el testigo más antiguo de la tipología de la [[nueva_eva]], junto con la interpretación de Is 7,14 (LXX: *parthenos*) aplicada a la [[concepción_virginal]]. Scott Hahn (BMV, lecciones 2-3 y 6) presenta a Justino como el primer formulador del paralelo Eva-María en la mariología patrística.
 
 ## Relaciones doctrinales
 
@@ -65,4 +65,4 @@ En el *Diálogo con Trifón* (cap. 100) Justino formula por primera vez el paral
 ## Referencias
 
 - Justino Mártir, *Apología I* 67.3.
-- *The Case for Jesus* (CfJ), Sesión 3, línea [00:25:43].
+- *The Case for Jesús* (CfJ), Sesión 3, línea [00:25:43].

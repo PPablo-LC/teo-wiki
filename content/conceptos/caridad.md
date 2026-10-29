@@ -17,23 +17,9 @@ La caridad es la más excelente de las virtudes teologales, virtud infusa sobren
 
 ## Perspectivas por fuente
 
-### Según la Dives in Misericordia (DM)
-
-La caridad es el fundamento de toda la enseñanza de la encíclica. Dios «que es amor» (1 Jn 4,16) se revela como misericordia: «La misericordia en sí misma, en cuanto perfección de Dios infinito, es también infinita» [DM §13]. La caridad «es paciente, es benigna, no es interesada, no se irrita, no se alegra de la injusticia, se complace en la verdad, todo lo espera, todo lo tolera y no pasa jamás» (1 Cor 13,4-8) [DM §6].
-
-La relación entre amor y justicia es clave: «el amor condiciona a la justicia y en definitiva la justicia es servidora de la caridad. La primacía y la superioridad del amor respecto a la justicia se manifiestan precisamente a través de la misericordia» [DM §4]. La caridad es «amor misericordioso», que por su esencia «es amor creador» [DM §14]. Es la única capaz de «restituir el hombre a sí mismo» [DM §14].
-
 ### Según el Compendio (CompDS)
 
 La caridad es el criterio supremo y universal de toda la ética social [CompDS §204]. De todas las vías para afrontar las formas siempre nuevas de la cuestión social, la «más excelente» es la trazada por la caridad [CompDS §204]. Los valores de verdad, justicia y libertad nacen y se desarrollan de la fuente interior de la caridad [CompDS §205]. La caridad presupone y trasciende la justicia: la justicia «ha de complementarse con la caridad» [CompDS §206]. Ninguna legislación ni sistema de reglas logrará persuadir a vivir en la unidad y la paz; solo la caridad, como «forma virtutum», puede animar la actuación social para edificar la paz [CompDS §207]. La caridad se convierte en caridad social y política: nos hace amar el bien común y buscar efectivamente el bien de todas las personas en su dimensión social [CompDS §207-208].
-
-### Según Henri de Lubac (PoF)
-
-De Lubac afirma la realidad sustancial y divina de la caridad: «Debemos creer en la realidad sustancial y divina de la Caridad, como en la de la Verdad, la Justicia y la Sabiduría» [PoF, cap. 2]. «Dios es Caridad» (1 Jn 4,8), y la proposición puede invertirse: «Caridad es Dios» [PoF, cap. 2]. Quien permanece en la caridad permanece en Dios, y esa vida de caridad y unión con Dios no es otra que la vida eterna comenzada ya aquí abajo. La caridad es valor absoluto y eterno: «todo lo que tiene valor absoluto está inscrito por ese mismo hecho en lo absoluto» [PoF, cap. 2]. La caridad no es provisional; es *teleion*, no *echmerous* (cf. 1 Cor 13). La obediencia y la autoridad misma se fundan últimamente en la caridad: es su *raison d'être* y su pedagogía [PoF, cap. 2].
-
-### Según Juan Pablo II (JPII-JovCh)
-
-«El amor vence siempre, el amor vence siempre, como Cristo ha vencido, el amor ha vencido, el amor vence siempre, aunque en ocasiones, ante sucesos y situaciones concretas, pueda parecernos impotente» [JPII-JovCh]. Juan Pablo II presenta el amor como fuerza salvadora que supera toda aparente impotencia, recordando que «Cristo parecía impotente en la cruz» [JPII-JovCh]. Este amor vence incluso el odio y la violencia, que deben ser reconocidos como «engañosos, falsos, incompatibles con su seguimiento» [JPII-JovCh].
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -141,13 +127,27 @@ De Lubac afirma la realidad sustancial y divina de la caridad: «Debemos creer e
 
 Ver artículo principal: [[virtud_de_la_caridad]]
 
+### Según la Dives in Misericordia (DM)
+
+La caridad es el fundamento de toda la enseñanza de la encíclica. Dios «que es amor» (1 Jn 4,16) se revela como misericordia: «La misericordia en sí misma, en cuanto perfección de Dios infinito, es también infinita» [DM §13]. La caridad «es paciente, es benigna, no es interesada, no se irrita, no se alegra de la injusticia, se complace en la verdad, todo lo espera, todo lo tolera y no pasa jamás» (1 Cor 13,4-8) [DM §6].
+
+La relación entre amor y justicia es clave: «el amor condiciona a la justicia y en definitiva la justicia es servidora de la caridad. La primacía y la superioridad del amor respecto a la justicia se manifiestan precisamente a través de la misericordia» [DM §4]. La caridad es «amor misericordioso», que por su esencia «es amor creador» [DM §14]. Es la única capaz de «restituir el hombre a sí mismo» [DM §14].
+
+### Según Henri de Lubac (PoF)
+
+De Lubac afirma la realidad sustancial y divina de la caridad: «Debemos creer en la realidad sustancial y divina de la Caridad, como en la de la Verdad, la Justicia y la Sabiduría» [PoF, cap. 2]. «Dios es Caridad» (1 Jn 4,8), y la proposición puede invertirse: «Caridad es Dios» [PoF, cap. 2]. Quien permanece en la caridad permanece en Dios, y esa vida de caridad y unión con Dios no es otra que la vida eterna comenzada ya aquí abajo. La caridad es valor absoluto y eterno: «todo lo que tiene valor absoluto está inscrito por ese mismo hecho en lo absoluto» [PoF, cap. 2]. La caridad no es provisional; es *teleion*, no *echmerous* (cf. 1 Cor 13). La obediencia y la autoridad misma se fundan últimamente en la caridad: es su *raison d'être* y su pedagogía [PoF, cap. 2].
+
+### Según Juan Pablo II (JPII-JovCh)
+
+«El amor vence siempre, el amor vence siempre, como Cristo ha vencido, el amor ha vencido, el amor vence siempre, aunque en ocasiones, ante sucesos y situaciones concretas, pueda parecernos impotente» [JPII-JovCh]. Juan Pablo II presenta el amor como fuerza salvadora que supera toda aparente impotencia, recordando que «Cristo parecía impotente en la cruz» [JPII-JovCh]. Este amor vence incluso el odio y la violencia, que deben ser reconocidos como «engañosos, falsos, incompatibles con su seguimiento» [JPII-JovCh].
+
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
 León XIV dio un testimonio elocuente de la caridad cristiana en el centro CEDIA 24 Horas (Madrid), donde lavó los pies de los voluntarios y sirvió comida a los necesitados. Allí afirmó: «La caridad no admite demoras» [L_XIV-ViajeEspaña-2026, 02 — CEDIA 24 Horas]. «Cada vez que acogemos a un necesitado, es Cristo quien llama a nuestra puerta» [L_XIV-ViajeEspaña-2026, 02 — CEDIA 24 Horas]. En el encuentro con voluntarios en IFEMA distinguió la caridad cristiana de la mera filantropía: «La caridad cristiana no es filantropía o asistencialismo; nace del encuentro con Cristo» [L_XIV-ViajeEspaña-2026, 09 — Encuentro con Voluntarios]. En la prisión de Brians 1 subrayó su dimensión social: «La justicia sin misericordia es cruel; la misericordia sin justicia es falsa» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. En Barcelona presentó la caridad como «profecía de un mundo nuevo» [L_XIV-ViajeEspaña-2026, 13 — Encuentro con realidades caritativas en Barcelona]. La caridad fue presentada como inseparable de la justicia y de la verdad.
 
 ### Colaciones II — Juan Casiano (ColCas-II)
 
-El abad [[jose_anacoreta|José]] expone en la Conferencia XVI la doctrina sobre la amistad fundada en la caridad. Identifica la caridad con Dios mismo —aunque la anotación del traductor señala que teológicamente la caridad infusa es algo creado, no Dios mismo—. Los grados de caridad incluyen la *agape* (amor universal) y la *diácesis* (amistad particular entre los virtuosos).
+El abad [[jose_anacoreta|José]] expone en la Conferencia XVI la doctrina sobre la amistad fundada en la caridad. Identifica la caridad con Dios mismo —aunque la anotación del traductor señala que teológicamente la caridad infusa es algo creado, no Dios mismo—. Los grados de caridad incluyen la *ágape* (amor universal) y la *diácesis* (amistad particular entre los virtuosos).
 
 José presenta seis principios fundamentales de la amistad perfecta: menosprecio de los bienes materiales, crucifixión de la voluntad propia, prioridad de la paz, rechazo de la ira, solidaridad con los dolores ajenos y consideración de la muerte. La amistad perfecta es posible solo entre los perfectos, pues los imperfectos no pueden soportar las imperfecciones ajenas.
 
@@ -224,7 +224,7 @@ La caridad ama «según la perspectiva última»: la compañía educa a conocer 
 La colección muestra la caridad en tres formas estructurales que van del gesto a la institución:
 
 - **La tenerezza de Camillo** (cap. 4): su programa fundacional — servir a los enfermos «non per mercede, ma volontariamente e per amore d'iddio», con «quell'amorevolezza che sogliono fare le madri verso i propri figli infermi» — sustituye a los mercenarios de los hospitales del '600. Su certeza: «I poveri infermi sono pupilla et cuore di Dio et... quello che facevano allí detti poverelli era fatto allo stesso Dio». La caridad no distingue material y espiritual: «per Camillo qualunque cosa riguarda anche lontanamente i suoi poverelli è sacra». Y su fórmula existencial: vivire significava «morire a se stessi per vivere a Gesù Cristo crocifisso nei malati».
-- **La carità nella fede del Cottolengo** (cap. 9): tesis central: «Di una carità anonima o senza fede i Santi avrebbero riso» — no porque el no creyente no pueda ser generoso, sino porque la caridad verdadera «va incontro al Mistero bruciante che c'è nel cuore dell'uomo», afirmando al otro «in tutta la sua realtà, nella totalità dei suoi bisogni e del suo destino»; por eso construye «opere non effimere che segnano la storia, che fanno cultura, che impongono uno stile sociale, che cambiano l'uomo». «I poveri sono Gesù, non sono una sua immagine. Sono Gesù in persona». La fe se verifica haciendo: «chi vuol far crescere la sua fede... deve farla bruciare subito in gesti veri di carità».
+- **La carità nella fede del Cottolengo** (cap. 9): tesis central: «Di una carità anónima o senza fede i Santi avrebbero riso» — no porque el no creyente no pueda ser generoso, sino porque la caridad verdadera «va incontro al Mistero bruciante che c'è nel cuore dell'uomo», afirmando al otro «in tutta la sua realtà, nella totalità dei suoi bisogni e del suo destino»; por eso construye «opere non effimere che segnano la storia, che fanno cultura, che impongono uno stile sociale, che cambiano l'uomo». «I poveri sono Gesù, non sono una sua immagine. Sono Gesù in persona». La fe se verifica haciendo: «chi vuol far crescere la sua fede... deve farla bruciare subito in gesti veri di carità».
 - **La caridad educativa de don Bosco** (cap. 7): «C'è chi è chiamato a battersi contro le cause dell'ingiustizia e chi è chiamato a battersi subito contro i suoi effetti» — «Noi andiamo diritti ai poveri», porque «i poveri non possono attendere le grandi analisi e i grandi progetti». Y la *amorevolezza*: «Che i giovani non solo siano amati, ma che essi stessi sappiano di essere amati».
 - **La caridad hacia los «poveri più vergognosi» de Moro** (cap. 13): el Lord Canciller recorre la noche los barrios bajos y alquila una casa (*Casa della Provvidenza*) para «vecchi e bambini infermi»: caridad discreta hacia quienes no piden.
 
@@ -328,7 +328,7 @@ aportación de novedad en el tejido y en el rostro social» (03, 181).
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Para Giussani la *caritas* es aquel amor «senza nessun tipo di calcolo, senza nessun tornaconto, puro; amore puro, gratuito», cuya característica más propia es la «abolizione dell'estraneità»: no solo el propio hijo o la propia madre, sino también «l'uomo che passa per la strada e viene da chissà dove». Ese amor puro es «il miracolo umanamente più affascinante e persuasivo del fatto cristiano», y la amistad que de él nace —«L'amicizia è un amore reciproco. Senza reciprocità non c'è amicizia»— es «l'espressione della natura di Dio». En los Ejercicios de 1994, la caridad aparece además como la vocación misma del cristiano: «la carità – questa imitazione suprema di Dio –, la gratuità, quindi, sia legge»; y como el lugar donde se experimenta ya el inicio del eterno, pues «l'esperienza dell'eterno… è quella della carità tra di noi, dell'amicizia tra di noi», una caridad concreta que quiere que «nessuno di noi abbia un bisogno che non trovi la compassione, cioè la carità, in tutti gli altri».
+Para Giussani la *caritas* es aquel amor «senza nessun tipo di calcolo, senza nessun tornaconto, puro; amore puro, gratuito», cuya característica más propia es la «abolizione dell'estraneità»: no solo el propio hijo o la propia madre, sino también «l'uomo che passa per la strada e viene da chissà dove». Ese amor puro es «il miracolo umanamente più affascinante e persuasivo del fatto cristiano», y la amistad que de él nace —«L'amicizia è un amore recíproco. Senza reciprocità non c'è amicizia»— es «l'espressione della natura di Dio». En los Ejercicios de 1994, la caridad aparece además como la vocación misma del cristiano: «la carità – questa imitazione suprema di Dio –, la gratuità, quindi, sia legge»; y como el lugar donde se experimenta ya el inicio del eterno, pues «l'esperienza dell'eterno… è quella della carità tra di noi, dell'amicizia tra di noi», una caridad concreta que quiere que «nessuno di noi abbia un bisogno che non trovi la compassione, cioè la carità, in tutti gli altri».
 
 ### Il miracolo dell'ospitalità (MDO)
 

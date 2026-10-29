@@ -23,7 +23,7 @@ La constitución consta de ocho capítulos: el misterio de la Iglesia (LG 1-8), 
 
 ### Según la Redemptoris Mater (RM)
 
-[JPII, Redemptoris Mater §1-52]: *Lumen Gentium*, especialmente su capítulo VIII (*De Beata Virgine Maria Matre Dei in mysterio Christi et Ecclesiae*), es el fundamento conciliar de toda la *Redemptoris Mater*. La encíclica retoma el concepto de «peregrinación de la fe» de María (LG §58) como su hilo conductor. Desarrolla las afirmaciones de LG sobre la mediación materna de María (LG §60-62), su maternidad espiritual (LG §53-54) y su presencia en el misterio de Cristo y de la Iglesia (LG §52-53). La encíclica profundiza en la enseñanza de LG sobre María como tipo y modelo de la Iglesia [RM §42-44], como Madre de la Iglesia [RM §47] y como signo de esperanza segura para el Pueblo de Dios peregrinante (cf. LG §68-69) [RM §50].
+[JPII, Redemptoris Mater §1-52]: *Lumen Gentium*, especialmente su capítulo VIII (*De Beata Virgine María Matre Dei in mysterio Christi et Ecclesiae*), es el fundamento conciliar de toda la *Redemptoris Mater*. La encíclica retoma el concepto de «peregrinación de la fe» de María (LG §58) como su hilo conductor. Desarrolla las afirmaciones de LG sobre la mediación materna de María (LG §60-62), su maternidad espiritual (LG §53-54) y su presencia en el misterio de Cristo y de la Iglesia (LG §52-53). La encíclica profundiza en la enseñanza de LG sobre María como tipo y modelo de la Iglesia [RM §42-44], como Madre de la Iglesia [RM §47] y como signo de esperanza segura para el Pueblo de Dios peregrinante (cf. LG §68-69) [RM §50].
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 

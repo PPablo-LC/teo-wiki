@@ -25,10 +25,6 @@ Los carismas son gracias del Espíritu Santo que tienen directa o indirectamente
 
 El Catecismo enseña que la gracia comprende también los dones que el Espíritu Santo concede para colaborar en la salvación de las almas: las gracias especiales llamadas carismas (§2003). Los carismas están ordenados a la gracia santificante y tienen por fin el bien común de la Iglesia (§799-801). El discernimiento de carismas corresponde a los pastores de la Iglesia, a quienes compete «no apagar el Espíritu, sino examinarlo todo y quedarse con lo bueno» (§801).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata las gracias gratis dadas en la Segunda Parte, al hablar del organismo sobrenatural. Las distingue de las gracias santificantes. Señala que ciertos fenómenos como la estigmatización participan tanto de lo gratuito como de lo santificante, ocupando un término medio. La comunicación anticipada de las dotes del cuerpo glorioso (como la agilidad) habría que clasificarla entre las gracias gratis dadas de tipo milagroso (Parte IV, Cap. 2).
-
 ### Según la Summa Theologiae (SmTh)
 
 **Marco general desde el prólogo de la IIa-IIae q.171:** Santo Tomás organiza las gracias gratis dadas en tres categorías según su función: las que pertenecen al **conocimiento** (profecía, sabiduría, ciencia, discernimiento de espíritus), las que pertenecen a la **locución** (don de lenguas, gracia de la palabra: sabiduría y ciencia en la elocución) y las que pertenecen a la **operación** (don de milagros, gracia de curaciones) (IIa-IIae q.171 prólogo). Esta triple división sigue la enumeración de 1 Cor 12: «diversidad de gracias, diversidad de operaciones, diversidad de ministerios».
@@ -54,6 +50,10 @@ Royo Marín trata las gracias gratis dadas en la Segunda Parte, al hablar del or
    - **Gracia de curaciones** (q.178 a.1 ad 4): especie particular del don de milagros que otorga la salud corporal.
 
 Todas estas gracias se ordenan a la edificación de la Iglesia y están subordinadas a la caridad y a la gracia santificante. La gracia santificante se ordena al bien común trascendente (Dios), mientras que la gratis data se ordena al bien común eclesial (q.111 a.5).
+### Según Royo Marín (TPCr)
+
+Royo Marín trata las gracias gratis dadas en la Segunda Parte, al hablar del organismo sobrenatural. Las distingue de las gracias santificantes. Señala que ciertos fenómenos como la estigmatización participan tanto de lo gratuito como de lo santificante, ocupando un término medio. La comunicación anticipada de las dotes del cuerpo glorioso (como la agilidad) habría que clasificarla entre las gracias gratis dadas de tipo milagroso (Parte IV, Cap. 2).
+
 
 ## Distinciones importantes
 

@@ -27,13 +27,13 @@ El Concilio Vaticano II subraya la necesidad del discernimiento para reconocer l
 
 El CEC menciona el discernimiento en relación con los carismas: "A ellos compete especialmente no apagar el Espíritu, sino examinarlo todo y quedarse con lo bueno, a fin de que todos los carismas cooperen, en su diversidad y complementariedad, al bien común" (CEC §801). También afirma que el Espíritu Santo da a ciertos fieles "dones de sabiduría, de fe y de discernimiento dirigidos a este bien común que es la oración (dirección espiritual)" (CEC §2690).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás no trata el "discernimiento espiritual" como una virtud separada, sino que lo encuadra dentro de la prudencia (II-IIae, q.47–56). El don de consejo (II-IIae, q.52) perfecciona la prudencia para el discernimiento de los medios concretos ordenados al fin sobrenatural. El discernimiento de espíritus, como carisma gratuito, se trata en II-IIae, q.171–178.
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata el discernimiento dentro de la virtud de la prudencia y sus partes. El discernimiento espiritual es un acto de la prudencia sobrenatural que permite al alma juzgar rectamente sobre lo que debe hacer o evitar en orden a la vida espiritual. Va unido a la docilidad al Espíritu Santo y a la humildad, pues sin ella el alma puede engañarse fácilmente.
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás no trata el "discernimiento espiritual" como una virtud separada, sino que lo encuadra dentro de la prudencia (II-IIae, q.47–56). El don de consejo (II-IIae, q.52) perfecciona la prudencia para el discernimiento de los medios concretos ordenados al fin sobrenatural. El discernimiento de espíritus, como carisma gratuito, se trata en II-IIae, q.171–178.
 
 ## Distinciones importantes
 

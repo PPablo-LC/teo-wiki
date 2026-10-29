@@ -31,6 +31,6 @@ Kirk era seguidor devoto de San Agustín y abrazaba comprensiones platónicas de
 
 ### Los fantasmas y el purgatorio
 
-Kirk creía genuinamente en los fantasmas — criados en un hogar espiritualista, tuvo encuentros con muertos desde niño. Los «bautizó» con comprensión católica: los fantasmas eran «almas perdidas atrapadas en el mundo material, buscando dirección y liberación». El purgatorio explicaba las apariciones fantasmales. La Sábana Santa, pensaba Kirk, «colectaba y reflejaba la energía de lo divino». Los lugares podían ser embrujados — el mal persistía donde se habían cometido grandes males, al igual que la santidad sobre los lugares de milagro y martirio.
+Kirk creía genuinamente en los fantasmas — criados en un hogar espiritualista, tuvo encuentros con muertos desde niño. Los «bautizó» con comprensión católica: los fantasmas eran «almas pérdidas atrapadas en el mundo material, buscando dirección y liberación». El purgatorio explicaba las apariciones fantasmales. La Sábana Santa, pensaba Kirk, «colectaba y reflejaba la energía de lo divino». Los lugares podían ser embrujados — el mal persistía donde se habían cometido grandes males, al igual que la santidad sobre los lugares de milagro y martirio.
 
 > «La imaginación moral es la posesión principal que el hombre no comparte con las bestias».

@@ -32,7 +32,7 @@ belleza estética, precedente histórico o satisfacción individual —
 resultan insuficientes para evaluar una celebración cristiana. Por
 ello, tomando como modelo los principios de Dieter Rams (innovador,
 útil, estético, comprensible, discreto, honesto, duradero, minucioso,
-ecológico, «el mejor diseño es el menos diseño»), formula diez criterios
+ecológico, «el mejor diseño es el menos diseño»), fórmula diez criterios
 para la liturgia.
 
 ## Los diez principios

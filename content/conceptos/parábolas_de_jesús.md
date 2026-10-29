@@ -21,6 +21,9 @@ Estos tres relatos forman un arco que va desde la universalidad del amor al pró
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+El CEC reconoce las parábolas como forma privilegiada de la enseñanza de Jesús sobre el Reino (CEC 546). La parábola del buen samaritano fundamenta la obligación moral de socorrer al necesitado (CEC 1825). La del hijo pródigo ilustra la conversión y el perdón del Padre (CEC 1439, 1847). La de las vírgenes prudentes y necias prepara para la Parusía (CEC 2119).
 ### Jesús de Nazaret I (Benedicto XVI — JdN_I)
 
 **El buen samaritano (Lc 10, 25-37):** La parábola plantea la pregunta fundamental: «¿Qué tengo que hacer para heredar la vida eterna?» (10, 25). El doctor de la Ley conoce la respuesta — amar a Dios y al prójimo — pero la cuestión es: ¿quién es «el prójimo»? La interpretación habitual restringía el prójimo al connacional. Jesús da la vuelta a la pregunta: no se trata de quién sea mi prójimo, sino de convertirme yo en prójimo.
@@ -37,9 +40,6 @@ El hermano mayor representa la obediencia amargada que desconoce la gracia de es
 
 La petición de signos del rico («Manda a Lázaro a mis hermanos») recuerda la respuesta de Jesús sobre el «signo de Jonás»: la señal de Dios es el Hijo del hombre mismo, en su misterio pascual. Lázaro, el que «padeció fuera de la ciudad» (Hb 13, 12), es imagen de Jesús crucificado.
 
-### Catecismo de la Iglesia Católica (CEC)
-
-El CEC reconoce las parábolas como forma privilegiada de la enseñanza de Jesús sobre el Reino (CEC 546). La parábola del buen samaritano fundamenta la obligación moral de socorrer al necesitado (CEC 1825). La del hijo pródigo ilustra la conversión y el perdón del Padre (CEC 1439, 1847). La de las vírgenes prudentes y necias prepara para la Parusía (CEC 2119).
 
 ## Distinciones importantes
 

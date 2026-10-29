@@ -21,15 +21,15 @@ El Concilio Vaticano II desarrolló la eclesiología de comunión en *Lumen Gent
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Lumen Gentium* presenta la Iglesia como «sacramento universal de salvación» (LG §1), que se realiza en la comunión de las Iglesias particulares. *Unitatis Redintegratio* desarrolla los principios del ecumenismo.
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II presenta la *communio ecclesiarum* como el criterio que debe regir las relaciones entre la Iglesia católica y las demás Iglesias. «A la luz de la doctrina conciliar, dichas relaciones debían regirse por el criterio de la *communio ecclesiarum*, una comunión que se traduce en un intercambio de bienes y servicios, con el resultado de un enriquecimiento mutuo» [MI, cap. 21].
 
 La Iglesia católica en Europa «convive desde hace siglos con los cristianos de la Reforma; en el Oriente predominan los ortodoxos. Fuera de Europa, el continente más católico es el latinoamericano» [MI, cap. 21]. Las Iglesias no europeas, «aunque históricamente pueden considerarse una "emanación" de Europa, hoy son de hecho una especie de contrapeso espiritual para el Viejo Continente» [MI, cap. 21].
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Lumen Gentium* presenta la Iglesia como «sacramento universal de salvación» (LG §1), que se realiza en la comunión de las Iglesias particulares. *Unitatis Redintegratio* desarrolla los principios del ecumenismo.
 
 ## Distinciones importantes
 

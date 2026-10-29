@@ -58,7 +58,7 @@ Juan Diego (1531), neófito azteca camino de misa, encuentra en el Tepeyac a la 
 
 ### Teotihuacán: el fin del sacrificio expiatorio
 
-En las pirámides del Sol y de la Luna, escenario de sacrificios humanos, Barron despliega a René Girard: las tensiones comunitarias se descargan en el chivo expiatorio — culpar, perseguir, matar, y sentir renovada la comunidad —; los dioses antiguos se placían en violencia expiatoria. En la tentación de Jesús, Satanás es *ha satan*, «el acusador»: el mecanismo victimario en la fundación de las sociedades. Pero el verdadero Dios anunciado en Guadalupe se hizo en Cristo no perpetrador sino víctima de la violencia expiatoria: en la cruz, Dios está del lado de las víctimas. Con la evangelización terminó el sacrificio humano: la evangelización cambió la naturaleza de la sociedad. Barron no idealiza a los conquistadores — hubo atrocidades — pero el mensaje llegó.
+En las pirámides del Sol y de la Luna, escenario de sacrificios humanos, Barron despliega a René Girard: las tensiones comunitarias se descargan en el chivo expiatorio — culpar, perseguir, matar, y sentir renovada la comunidad —; los dioses antiguos se placían en violencia expiatoria. En la tentación de Jesús, Satanás es *ha satán*, «el acusador»: el mecanismo victimario en la fundación de las sociedades. Pero el verdadero Dios anunciado en Guadalupe se hizo en Cristo no perpetrador sino víctima de la violencia expiatoria: en la cruz, Dios está del lado de las víctimas. Con la evangelización terminó el sacrificio humano: la evangelización cambió la naturaleza de la sociedad. Barron no idealiza a los conquistadores — hubo atrocidades — pero el mensaje llegó.
 
 ### Magníficat: matriz de vida
 

@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: "Theodor W. Adorno"
-description: "Theodor W. Adorno (1903–1969), filósofo y musicólogo alemán de la Escuela de Frankfurt; su «Minima Moralia» es citada en QT4 sobre la apariencia."
+description: "Theodor W. Adorno (1903–1969), filósofo y musicólogo alemán de la Escuela de Frankfurt; su «Mínima Moralia» es citada en QT4 sobre la apariencia."
 tags:
   - personas
   - filósofos
@@ -19,7 +19,7 @@ timestamp: 2026-10-11
 Theodor W. Adorno (Francfort, 1903 – Visp, 1969), filósofo, sociólogo y
 musicólogo alemán, miembro central de la **Escuela de Frankfurt** y de la
 *Teoría Crítica*. Autor, con Horkheimer, de la *Dialéctica de la
-Ilustración* (1944) y de *Minima Moralia* (1951), y de estudios musicales
+Ilustración* (1944) y de *Mínima Moralia* (1951), y de estudios musicales
 sobre Wagner, Mahler y Schoenberg. Crítico radical de la sociedad
 administrada y de la industria cultural.
 
@@ -35,7 +35,7 @@ realidad a lo aparente.
 ### Según QT4 — *Quasi Tischreden*, vol. 4 (Giussani)
 
 En la *Tischreden* 200 (16, «La tentación de la apariencia») Giussani cita
-*Minima Moralia*:
+*Mínima Moralia*:
 
 > «L'apparenza è travolta dal cuore della nostra esperienza».
 
@@ -57,5 +57,5 @@ desmiente.
 
 ## Referencias
 
-- Adorno, T.W. *Minima Moralia* (1951).
+- Adorno, T.W. *Mínima Moralia* (1951).
 - QT4, *Quasi Tischreden*, vol. 4, cap. 16.

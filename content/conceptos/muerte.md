@@ -25,6 +25,10 @@ La muerte entró en el mundo por el pecado de Adán, pero Cristo, con su muerte 
 
 La muerte es el final de la vida terrena (§1007). La muerte es consecuencia del pecado (§1008). Para el cristiano, la muerte tiene sentido positivo: es participación en la muerte del Señor (§1009-1014). El juicio particular ocurre inmediatamente después de la muerte (§1021-1022). La resurrección de los cuerpos al final de los tiempos (§988-1004). El Viático es semilla de vida eterna (§1524-1525).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Muerte»] El AT contempla la muerte con lucidez: es destino universal, morada en el *seol* (sombra, silencio, olvido). La muerte no es mero fenómeno natural: entró en el mundo por el pecado de Adán (Sab 2,23s). Pero Dios no se complace en la muerte del pecador; quiere su conversión (Ez 18,23; 33,11). La esperanza de liberación definitiva se abre paso en el AT tardío: resurrección de los justos (Dan 12,2; Is 26,19). En el NT, Cristo asume nuestra muerte y, por su obediencia, triunfa de ella (Rom 6,9; Heb 2,14). El bautismo nos une a su muerte (Rom 6,3ss), y el cristiano «muere cada día» (1Cor 15,31) para que la vida de Jesús se manifieste en su carne mortal (2Cor 4,10ss). La muerte corporal se transforma así en ganancia (Flp 1,21) y en entrada a la paz (Ap 14,13), en espera de la resurrección final donde «ya no habrá muerte» (Ap 21,4).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 GS 18: «El máximo enigma de la vida humana es la muerte. El hombre sufre con el dolor y con la disolución progresiva del cuerpo. Pero su máximo tormento es el temor por la desaparición perpetua. Juzga con instinto certero cuando se resiste a aceptar la perspectiva de la ruina total y del adiós definitivo. La semilla de eternidad que en sí lleva, por ser irreducible a la sola materia, se levanta contra la muerte.» La Iglesia afirma que el hombre ha sido creado por Dios para un destino feliz más allá de la muerte. «Ha sido Cristo resucitado el que ha ganado esta victoria para el hombre, liberándolo de la muerte con su propia muerte.»
@@ -38,10 +42,6 @@ Royo Marín aborda la muerte dentro de la lucha ascética, especialmente en rela
 
 [TPCr, Tercera Parte, Libro I, Cap. 4, Art. 2]
 
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Muerte»] El AT contempla la muerte con lucidez: es destino universal, morada en el *seol* (sombra, silencio, olvido). La muerte no es mero fenómeno natural: entró en el mundo por el pecado de Adán (Sab 2,23s). Pero Dios no se complace en la muerte del pecador; quiere su conversión (Ez 18,23; 33,11). La esperanza de liberación definitiva se abre paso en el AT tardío: resurrección de los justos (Dan 12,2; Is 26,19). En el NT, Cristo asume nuestra muerte y, por su obediencia, triunfa de ella (Rom 6,9; Heb 2,14). El bautismo nos une a su muerte (Rom 6,3ss), y el cristiano «muere cada día» (1Cor 15,31) para que la vida de Jesús se manifieste en su carne mortal (2Cor 4,10ss). La muerte corporal se transforma así en ganancia (Flp 1,21) y en entrada a la paz (Ap 14,13), en espera de la resurrección final donde «ya no habrá muerte» (Ap 21,4).
 
 ### Evangelization & Culture 11 (EAC-11)
 

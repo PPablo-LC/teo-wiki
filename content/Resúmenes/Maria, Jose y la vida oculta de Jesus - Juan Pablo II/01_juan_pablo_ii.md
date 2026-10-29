@@ -4,7 +4,7 @@ title: "Juan Pablo II"
 fuente: Maria, Jose y la vida oculta de Jesus - Juan Pablo II
 capítulo: 1
 timestamp: 2026-08-25
-description: "Resumen de las diez catequesis de JPII (oct. 1996-ene. 1997) sobre María, José y la vida oculta: Avemaría, Magnificat, Theotokos, Simeón y Nazaret"
+description: "Resumen de las diez catequesis de JPII (oct. 1996-ene. 1997) sobre María, José y la vida oculta: Avemaría, Magníficat, Theotokos, Simeón y Nazaret"
 tags: ["resumen", "maría josé y la vida oculta de jesús"]
 ---
 
@@ -33,7 +33,7 @@ Diez audiencias generales de Juan Pablo II en Roma (2-X-1996 al 29-I-1997) dedic
 
 En la Visitación, la gracia de la Encarnación derrama el Espíritu Santo sobre la casa de Isabel. Lucas usa *anistemi* («levantarse») y subraya que María va «con prontitud» (Lc 1,39): impulso vigoroso bajo la inspiración del Espíritu. La dirección Galilea-Judea anticipa el camino misionero de Jesús; con su visita María realiza el preludio de la misión del Hijo y se vuelve modelo de quienes llevan la luz de Cristo a los hombres: primera evangelista. El saludo de María hace saltar de gozo al Bautista; Isabel, llena del Espíritu Santo, proclama: «Bendita tú entre las mujeres», indicando la razón de la bienaventuranza en la fe de María («¡Feliz la que ha creído!»). Reconoce en ella a «la madre de mi Señor»: dignidad mesiánica y real del Hijo. El Avemaría hace resonar esa exclamación como cántico de alabanza de la Iglesia; la intervención de María produce un preludio de Pentecostés confirmando su cooperación en toda la obra salvadora.
 
-## 2. El «Magnificat», primicia de las expresiones de culto marianas (6-XI-1996)
+## 2. El «Magníficat», primicia de las expresiones de culto marianas (6-XI-1996)
 
 Respuesta de la Virgen al misterio de la Anunciación: alegría por la mirada benévola de Dios sobre su pequeñez (*tapéinosis*, eco del cántico de Ana). «Desde ahora me felicitarán todas las generaciones»: profecía audaz y testimonio de la veneración mariana desde el siglo I; primicia de todas las expresiones de culto mariano. Las «obras grandes» del Poderoso son la concepción virginal; Dios es Poderoso y Misericordioso. La lectura sapiencial de la historia (derribo de los poderosos, exaltación de los humildes) muestra los criterios de la acción de Dios: atrae su benevolencia la humildad del corazón. Finalmente, el cántico exalta la fidelidad de Dios a las promesas hechas a Abraham: en María comienza una intervención divina que supera las esperanzas mesiánicas de Israel: la Encarnación del Verbo.
 

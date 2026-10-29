@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Poetry: The Conversion of St. Ignatius — J.C. Scharl"
+title: "Poetry: The Conversión of St. Ignatius — J.C. Scharl"
 fuente: Evangelization and culture - 18_capitulos
 capítulo: 19
 timestamp: 2026-09-05
-description: "Resumen de 'Poetry: The Conversion of St. Ignatius — J.C. Scharl' — Evangelization and culture - 18_capitulos"
+description: "Resumen de 'Poetry: The Conversión of St. Ignatius — J.C. Scharl' — Evangelization and culture - 18_capitulos"
 tags: ["resumen", "evangelization and culture - 18 capitulos"]
 ---
 
-# Poetry: The Conversion of St. Ignatius — J.C. Scharl
+# Poetry: The Conversión of St. Ignatius — J.C. Scharl
 
 ## Conceptos básicos referenciados
 

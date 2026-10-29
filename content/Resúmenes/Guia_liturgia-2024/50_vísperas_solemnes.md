@@ -39,7 +39,7 @@ tags: ["resumen", "guia liturgia-2024"]
 2. Procúrese que al sacerdote le acompañen un diácono y dos ministros.
 3. El orden de procesión es semejante al de la misa, a no ser que la disposición del presbiterio aconseje otra cosa (por ejemplo, los lectores y el turiferario pueden acercarse solo cuando les corresponde actuar).
 4. Quien preside y el diácono, después de hacer la genuflexión, besan el altar y pasan directamente a la sede. Al terminar la celebración, se besa de nuevo el altar.
-5. Quien preside inciensa el altar durante el *Magnificat*. El diácono inciensa al sacerdote y a la asamblea durante el canto del *Magnificat*. El turiferario hace las partes del diácono, si no lo hay.
+5. Quien preside inciensa el altar durante el *Magníficat*. El diácono inciensa al sacerdote y a la asamblea durante el canto del *Magníficat*. El turiferario hace las partes del diácono, si no lo hay.
 
 - **205.** Cuando haya vísperas solemnes, a juicio del superior, el celebrante puede tener una breve homilía después de la lectura.
 

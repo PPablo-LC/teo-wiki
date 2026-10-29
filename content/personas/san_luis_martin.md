@@ -1,17 +1,17 @@
 ---
 type: Persona
-title: "San Luis Martin"
+title: "San Luis Martín"
 description: "Esposo de Santa Celia Guérin y padre de santa Teresa de Lisieux (1823-1894); canonizado con su esposa en 2015; «Me basta mirarlo para saber cómo rezan los santos»."
 tags: [santos, familia, laicado, santos_de_familia]
 timestamp: 2026-09-19
 ---
 
-# San Luis Martin
+# San Luis Martín
 
 > Área: Hagiografía / Familia
 > Última actualización: 2026-09-19
 
-**San Luis Martin** (1823-1894), esposo de [[santa_celia_guérin]] y padre
+**San Luis Martín** (1823-1894), esposo de [[santa_celia_guérin]] y padre
 de [[santa_teresa_de_lisieux]], sobrevivió diecisiete años a su mujer,
 cuidando a las hijas «con tal ternura que Teresa lo consideraba una
 imagen terrena de "papá el buen Dios"». La santa escribió de él: «Me
@@ -34,7 +34,7 @@ blancos cabellos será como un sol que nos llenará de gozo».
 
 ## Significado
 
-Luis Martin canoniza la paternidad cristiana sufrida: el padre que, tras
+Luis Martín canoniza la paternidad cristiana sufrida: el padre que, tras
 la pérdida de la esposa, ejerce de madre, y cuya enfermedad mental vivida
 con fe se convierte en última lección para la hija Doctora de la Iglesia
 (cf. [[matrimonio]], [[familia]], [[paternidad]], [[sufrimiento]]).

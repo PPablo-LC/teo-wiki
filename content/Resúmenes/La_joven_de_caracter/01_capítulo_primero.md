@@ -8,7 +8,7 @@ description: "Resumen del Capítulo I '¿Cuál es la joven de carácter?' — fo
 tags: ["resumen", "la_joven_de_caracter", "formación_del_carácter", "voluntad"]
 ---
 
-# CAPÍTULO PRIMERO — ¿CUAL ES LA JOVEN DE CARACTER?
+# CAPÍTULO PRIMERO — ¿CUAL ES LA JOVEN DE CARÁCTER?
 
 ## Conceptos básicos referenciados
 
@@ -126,7 +126,7 @@ La torre medieval que desafía siglos es símbolo del carácter firme: «a sus p
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | CAPÍTULO PRIMERO |
-| 3 | H2 | ¿CUAL ES LA JOVEN DE CARACTER? |
+| 3 | H2 | ¿CUAL ES LA JOVEN DE CARÁCTER? |
 | 5 | H2 | I. —La leona sin lengua |
 | 89 | H2 | III—¿Cuál es la joven de carácter |
 | 137 | H2 | IV. —Una voluntad de hierro |

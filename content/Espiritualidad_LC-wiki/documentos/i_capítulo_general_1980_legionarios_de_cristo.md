@@ -35,7 +35,7 @@ El comunicado identifica el secularismo como la amenaza principal contra la voca
 
 #### Amor a la Legión y a su carisma
 
-El Capítulo subraya la necesidad de un amor profundo y operante hacia la Congregación y su [[carisma_legionario]]. Este amor se traduce en la adhesión incondicional a las Constituciones, en la fidelidad a las tradiciones legionarias y en la disposición a sacrificarse por la unidad de la obra. Se presenta como antidoto al relativismo y a la tibieza espiritual.
+El Capítulo subraya la necesidad de un amor profundo y operante hacia la Congregación y su [[carisma_legionario]]. Este amor se traduce en la adhesión incondicional a las Constituciones, en la fidelidad a las tradiciones legionarias y en la disposición a sacrificarse por la unidad de la obra. Se presenta como antídoto al relativismo y a la tibieza espiritual.
 
 #### Unidad mediante el Voto Privado
 

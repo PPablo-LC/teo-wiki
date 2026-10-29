@@ -36,4 +36,4 @@ El cuerpo de María, que dio la vida, y el sepulcro de Jesús, que la devuelve, 
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `11_chapter_6`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `11_chapter_6`

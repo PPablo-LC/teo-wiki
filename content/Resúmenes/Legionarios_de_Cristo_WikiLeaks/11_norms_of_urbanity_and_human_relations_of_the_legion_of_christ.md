@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Norms of Urbanity and Human Relations of the Legion of Christ"
+title: "Norms of Urbanity and Human Relations of the Legión of Christ"
 fuente: Legionarios_de_Cristo_WikiLeaks
 capítulo: 11
 timestamp: 2026-08-24
-description: "Resumen de 'Norms of Urbanity and Human Relations of the Legion of Christ' — Legionarios_de_Cristo_WikiLeaks"
+description: "Resumen de 'Norms of Urbanity and Human Relations of the Legión of Christ' — Legionarios_de_Cristo_WikiLeaks"
 tags: ["resumen", "legionarios de cristo wikileaks"]
 ---
 
-# Norms of Urbanity and Human Relations of the Legion of Christ
+# Norms of Urbanity and Human Relations of the Legión of Christ
 
 ## Conceptos básicos referenciados
 

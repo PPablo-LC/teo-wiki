@@ -36,6 +36,11 @@ Grados de amor al sufrimiento:
 
 ## Perspectivas por fuente
 
+### Según Royo Marín (TPCr)
+
+Royo Marín cita abundantemente a Bossuet, San Pablo, San Agustín, Santa Teresa, San Juan de la Cruz, y presenta el sufrimiento como necesario para reparar el pecado y para la santificación del alma, que consiste en la configuración con Cristo crucificado.
+
+La santidad es imposible sin la cruz: «no hay más santificación posible que la crucifixión con Cristo». La excelencia del dolor se manifiesta en que expía los pecados, somete la carne al espíritu, desprende de la tierra, purifica y hermosea el alma, alcanza todo de Dios, hace verdaderos apóstoles, y asemeja a Jesús y María.
 ### Según Pinckaers (FMC)
 
 Pinckaers trata el conflicto carne/espíritu como elemento central de la moral paulina (FMC cap. V:2 B.3). San Pablo opone la vida según la carne a la vida según el Espíritu: la carne produce fornicación, impureza, discordia, envidia; el Espíritu produce caridad, paz, dominio de sí (Ga 5). La carne no designa el cuerpo material, sino el hombre en cuanto se opone a la acción del Espíritu.
@@ -44,11 +49,6 @@ La lucha contra la carne no es un simple esfuerzo ascético individual, sino el 
 
 [FMC cap. V:2 (B.3)]
 
-### Según Royo Marín (TPCr)
-
-Royo Marín cita abundantemente a Bossuet, San Pablo, San Agustín, Santa Teresa, San Juan de la Cruz, y presenta el sufrimiento como necesario para reparar el pecado y para la santificación del alma, que consiste en la configuración con Cristo crucificado.
-
-La santidad es imposible sin la cruz: «no hay más santificación posible que la crucifixión con Cristo». La excelencia del dolor se manifiesta en que expía los pecados, somete la carne al espíritu, desprende de la tierra, purifica y hermosea el alma, alcanza todo de Dios, hace verdaderos apóstoles, y asemeja a Jesús y María.
 
 ## Distinciones importantes
 

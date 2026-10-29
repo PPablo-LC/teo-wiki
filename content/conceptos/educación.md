@@ -21,6 +21,10 @@ El Concilio Vaticano II, en *Gaudium et Spes*, trata la educación en el context
 
 ## Perspectivas por fuente
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El designio de Dios se realiza en el tiempo como una educación: Israel vivió bajo la ley como un niño bajo un pedagogo hasta la plenitud de los tiempos (Gal 4,1-7; 3,24s) [VocTeoBib, «Educación»]. Dios es el educador por excelencia. En el AT educó a Israel como un padre a su hijo (Dt 8,5; Os 11,1-4), mediante lecciones (la liberación de Egipto, las maravillas del desierto) y correcciones (castigos proféticos). Jesucristo, como perfecto educador, enseña con autoridad, da ejemplo (Jn 13,14s) y toma sobre sí la corrección que merecíamos (Is 53,5). El Espíritu Santo consuma la obra educativa: ya no es la ley nuestro pedagogo (Gal 3,19; 4,2), sino el Espíritu que nos hace clamar «Abba, Padre» (Gal 4,6), trayendo a la memoria las enseñanzas de Jesús (Jn 14,26). La corrección fraterna continúa hasta el fin (Mt 18,15; Heb 12,7s).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 GS 31: «Hay que procurar con suma diligencia una más amplia cultura espiritual, valiéndose para ello de los extraordinarios medios de que el género humano dispone hoy día. Particularmente la educación de los jóvenes... debe orientarse de tal modo, que forme hombres y mujeres que no sólo sean personas cultas, sino también de generoso corazón».
@@ -56,10 +60,6 @@ Juan Pablo II destaca la misión educadora de la mujer como fundamental para la 
 ### Según Mons. Tihámer Tóth (JvC)
 
 La educación verdadera no es mera instrucción sino forja del carácter. JvC denuncia que «la escuela actual tiene un gran defecto porque pone mucho empeño en formar la inteligencia de los jóvenes y olvida demasiado la formación del carácter, es decir, forjar la voluntad y la coherencia del joven. De ahí la triste realidad de que en la sociedad abunden más las cabezas instruidas que las voluntades de acero, que haya más ciencia que carácter» [JvC, Cap. I]. La educación consiste en «inclinar la voluntad del hombre de suerte que en cualquier circunstancia se decida a seguir sin titubeos y con alegría el bien» [JvC, Cap. I]. El ideal de la educación es «el joven que se desarrolla armónicamente en su cuerpo y en su alma» [JvC, Cap. I]. La autoeducación es el camino: «Esculpir en tu propia alma la imagen sublime que Dios concibió al formarte» [JvC, Cap. I].
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El designio de Dios se realiza en el tiempo como una educación: Israel vivió bajo la ley como un niño bajo un pedagogo hasta la plenitud de los tiempos (Gal 4,1-7; 3,24s) [VocTeoBib, «Educación»]. Dios es el educador por excelencia. En el AT educó a Israel como un padre a su hijo (Dt 8,5; Os 11,1-4), mediante lecciones (la liberación de Egipto, las maravillas del desierto) y correcciones (castigos proféticos). Jesucristo, como perfecto educador, enseña con autoridad, da ejemplo (Jn 13,14s) y toma sobre sí la corrección que merecíamos (Is 53,5). El Espíritu Santo consuma la obra educativa: ya no es la ley nuestro pedagogo (Gal 3,19; 4,2), sino el Espíritu que nos hace clamar «Abba, Padre» (Gal 4,6), trayendo a la memoria las enseñanzas de Jesús (Jn 14,26). La corrección fraterna continúa hasta el fin (Mt 18,15; Heb 12,7s).
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
@@ -100,7 +100,7 @@ Elementos centrales en REG:
 - **La educación como [[comunicación_de_sí]]**: «L'educazione non è
   questione di strumenti […] ma è questione di *verità di vita* dell'individuo
   che ha la funzione dell'educatore»; «solo la vita comunica la vita»
-  ([[paul_bourget]]) (17). «La sorgente dell'educazione […] viene dalla mia
+  ([[paul_bourget]]) (17). «La sorgente dell'educazione […] viene dalla mía
   vita, non dal mio essere insegnante».
 - **El método de la [[experiencia]]**: (a) la [[tradición]] asimilada;
   (b) el conducir por mano; (c) la hipótesis de trabajo; (d) el **riesgo**;

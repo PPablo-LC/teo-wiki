@@ -21,7 +21,7 @@ Ambos atributos se complementan: Dios es simultáneamente el «Totalmente Otro»
 
 La Sagrada Escritura afirma simultáneamente la trascendencia absoluta de Dios («¿Quién como el Señor, nuestro Dios, que se sienta en las alturas?» — Sal 113,5) y su inmanencia amorosa («En Él vivimos, nos movemos y existimos» — Hch 17,28). Dios habita «en una luz inaccesible» (1 Tim 6,16) y al mismo tiempo «no está lejos de cada uno de nosotros» (Hch 17,27).
 
-La tradición teológica ha mantenido siempre esta tensión: Dios es el *ipsum esse subsistens* (el Ser mismo subsistente) que da el ser a todas las cosas y está presente en ellas por esencia, presencia y potencia, sin confundirse con ellas ni perder su infinita distancia. El principio del Cuarto Concilio Lateranense (1215) formula esta paradoja: «Entre el Creador y la criatura no se puede notar una semejanza tal que la desemejanza entre ellos no sea mayor todavía».
+La tradición teológica ha mantenido siempre esta tensión: Dios es el *ipsum esse subsistens* (el Ser mismo subsistente) que da el ser a todas las cosas y está presente en ellas por esencia, presencia y potencia, sin confundirse con ellas ni perder su infinita distancia. El principio del Cuarto Concilio Lateranense (1215) fórmula esta paradoja: «Entre el Creador y la criatura no se puede notar una semejanza tal que la desemejanza entre ellos no sea mayor todavía».
 
 ## Perspectivas por fuente
 
@@ -34,6 +34,14 @@ Al hablar de Dios, «entre el Creador y la criatura no se puede señalar una sem
 Podemos nombrar a Dios partiendo de las múltiples perfecciones de las criaturas, aunque nuestro lenguaje limitado no agote su misterio (§48). «Sin el Creador la criatura se diluye» (§49).
 
 Al designar a Dios como «Padre», el lenguaje de la fe indica dos aspectos: que Dios es «origen primero de todo y autoridad transcendente» y que es al mismo tiempo «bondad y solicitud amorosa para todos sus hijos». La imagen de la maternidad expresa más fuertemente «la inmanencia de Dios, la intimidad entre Dios y su criatura» (§239).
+
+### Según el Compendio (CompDS)
+
+El CompDS aborda la trascendencia desde la perspectiva de la persona humana: la persona trasciende el horizonte del universo creado, de la sociedad y de la historia porque su fin último es Dios mismo (§47). El hombre no puede darse a un proyecto solamente humano de la realidad, a un ideal abstracto ni a falsas utopías. En cuanto persona, puede darse a otra persona o a otras personas y, por último, a Dios, que es el autor de su ser y el único que puede acoger plenamente su donación (§47).
+
+« Se aliena el hombre que rechaza trascenderse a sí mismo y vivir la experiencia de la autodonación y de la formación de una auténtica comunidad humana, orientada a su destino último que es Dios. Está alienada una sociedad que, en sus formas de organización social, de producción y consumo, hace más difícil la realización de esta donación y la formación de esa solidaridad interhumana » (§47).
+
+La persona humana no puede ni debe ser instrumentalizada por las estructuras sociales, económicas y políticas, porque todo hombre posee la libertad de orientarse hacia su fin último. Toda realización cultural, social, económica y política debe considerarse siempre en su aspecto de realidad relativa y provisional, porque « la apariencia de este mundo pasa » (§48). Cualquier visión totalitaria de la sociedad y del Estado y cualquier ideología puramente intramundana del progreso son contrarias a la verdad integral de la persona humana y al designio de Dios sobre la historia (§48).
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
@@ -50,14 +58,6 @@ Santo Tomás trata la trascendencia divina en el contexto de los atributos divin
 ### Según Royo Marín (TPCr)
 
 Royo Marín subraya la «trascendencia soberana» de Dios y la necesidad de que el alma reconozca esa infinita distancia para progresar en la vida espiritual. La santificación personal tiene por fin último la gloria de la Trinidad Beatísima, y esta verdad aparece dominando en los santos solo cuando el alma se ha consumado por el amor (TPCr, Parte I, principios fundamentales).
-
-### Según el Compendio (CompDS)
-
-El CompDS aborda la trascendencia desde la perspectiva de la persona humana: la persona trasciende el horizonte del universo creado, de la sociedad y de la historia porque su fin último es Dios mismo (§47). El hombre no puede darse a un proyecto solamente humano de la realidad, a un ideal abstracto ni a falsas utopías. En cuanto persona, puede darse a otra persona o a otras personas y, por último, a Dios, que es el autor de su ser y el único que puede acoger plenamente su donación (§47).
-
-« Se aliena el hombre que rechaza trascenderse a sí mismo y vivir la experiencia de la autodonación y de la formación de una auténtica comunidad humana, orientada a su destino último que es Dios. Está alienada una sociedad que, en sus formas de organización social, de producción y consumo, hace más difícil la realización de esta donación y la formación de esa solidaridad interhumana » (§47).
-
-La persona humana no puede ni debe ser instrumentalizada por las estructuras sociales, económicas y políticas, porque todo hombre posee la libertad de orientarse hacia su fin último. Toda realización cultural, social, económica y política debe considerarse siempre en su aspecto de realidad relativa y provisional, porque « la apariencia de este mundo pasa » (§48). Cualquier visión totalitaria de la sociedad y del Estado y cualquier ideología puramente intramundana del progreso son contrarias a la verdad integral de la persona humana y al designio de Dios sobre la historia (§48).
 
 ### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
 

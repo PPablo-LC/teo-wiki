@@ -31,7 +31,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### SAN PIO X, 1903 -1914
+### SAN PÍO X, 1903 -1914
 
 ## De la Bienaventurada Virgen María, medianera de las gracias (1) [De la Encíclica Ad diem, de 2 de febrero de 1904]
 
@@ -279,7 +279,7 @@ tags: ["resumen", "denzinger capitulos"]
 - D-2155: I. La tradición, unánime desde los comienzos de la Iglesia y confirmada por múltiples argumentos, obliga a afirmar que Marcos, discípulo e intérprete de Pedro, y Lucas, médico, auxiliar y compañero de Pablo, son los autores de los Evangelios que se les atribuyen. Respuesta: afirmativamente.
 - D-2156: II. Las razones de algunos críticos para negar que Marcos escribió los doce últimos versículos (Mc. 16, 9-20) no son tales que permitan dejarlos de recibir como canónicos e inspirados, ni demostrar que no es Marcos su autor. Respuesta: negativamente a las dos partes.
 - D-2157: III. No es lícito dudar de la inspiración y canonicidad de las narraciones de Lucas sobre la infancia de Cristo (Lc. 1-2) ni de la aparición del ángel y el sudor de sangre (Lc. 22, 43 ss), ni demostrar que esas narraciones no pertenecen al auténtico Evangelio de Lucas. Respuesta: negativamente a ambas partes.
-- D-2158: IV. Los documentos rarísimos en que el Magnificat se atribuye a Isabel no pueden prevalecer contra el testimonio concorde de casi todos los códices y versiones, el contexto, el ánimo de la Virgen y la constante tradición. Respuesta: negativamente.
+- D-2158: IV. Los documentos rarísimos en que el Magníficat se atribuye a Isabel no pueden prevalecer contra el testimonio concorde de casi todos los códices y versiones, el contexto, el ánimo de la Virgen y la constante tradición. Respuesta: negativamente.
 - D-2159: V. No es lícito apartarse del orden cronológico atestiguado por la tradición: Mateo primero en lengua patria, Marcos segundo, Lucas tercero; tampoco que el segundo y tercer Evangelio fueron compuestos antes que la traducción griega del primero. Respuesta: negativamente a las dos partes.
 - D-2160: VI. No puede diferirse la composición de Marcos y Lucas hasta la destrucción de Jerusalén, ni sostenerse que Lucas escribió cuando ya estaba iniciado el cerco de la ciudad. Respuesta: negativamente a las dos partes.
 - D-2161: VII. El Evangelio de Lucas precedió al libro de los Hechos y, como este libro, fue terminado hacia el fin de la cautividad romana del Apóstol. Respuesta: afirmativamente.
@@ -303,7 +303,7 @@ tags: ["resumen", "denzinger capitulos"]
 ## Del autor, integridad y tiempo de composición de las Epístolas pastorales de Pablo Apóstol (1) [Respuestas de la Comisión Bíblica, de 12 de junio de 1913]
 
 - D-2172: I. Las Epístolas pastorales, las dos a Timoteo y la una a Tito, fueron escritas por el mismo Apóstol Pablo y contadas perpetuamente entre las auténticas y canónicas, no obstante el atrevimiento de ciertos herejes. Respuesta: afirmativamente.
-- D-2173: II. La hipótesis llamada fragmentaria (que las pastorales fueron entretejidas y aumentadas con fragmentos de cartas paulinas perdidas por autores desconocidos) no puede acarrear perjuicio alguno al testimonio claro y firmísimo de la tradición. Respuesta: negativamente.
+- D-2173: II. La hipótesis llamada fragmentaria (que las pastorales fueron entretejidas y aumentadas con fragmentos de cartas paulinas pérdidas por autores desconocidos) no puede acarrear perjuicio alguno al testimonio claro y firmísimo de la tradición. Respuesta: negativamente.
 - D-2174: III. Las dificultades tomadas del estilo y lengua, de los errores gnósticos descritos o del estado de la jerarquía eclesiástica no debilitan la sentencia que sostiene como probada y cierta la genuinidad de las pastorales. Respuesta: negativamente.
 - D-2175: IV. Dada la doble cautividad romana de Pablo, las Epístolas pastorales fueron escritas en el espacio de tiempo que media entre la liberación de la primera cautividad y la muerte del Apóstol. Respuesta: afirmativamente.
 
@@ -315,7 +315,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SAN PIO X, 1903-1914
+## SAN PÍO X, 1903-1914
 
 Documentos de San Pío X (D-1978a a D-2178).
 

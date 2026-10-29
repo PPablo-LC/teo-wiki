@@ -25,7 +25,7 @@ tags: ["resumen", "evangelization_and_culture", "indice"]
 | 12 | [[12_letters_to_a_poet_in_winter__sheri_dilley\|Letters to a Poet in Winter]] | Sheri Dilley |
 | 13 | [[13_to_see_is_to_believe__meghan_duke\|To See Is to Believe]] | Meghan Duke |
 | 14 | [[14_sinead_oconnor_hope_in_the_dark__sara_roncskevitz\|Sinéad O'Connor: Hope in the Dark]] | Sara Roncskevitz |
-| 15 | [[15_cs_lewis_on_the_courtship_of_joy__martin_lajoie\|C.S. Lewis on the Courtship of Joy]] | Martin Lajoie |
+| 15 | [[15_cs_lewis_on_the_courtship_of_joy__martin_lajoie\|C.S. Lewis on the Courtship of Joy]] | Martín Lajoie |
 | 16 | [[16_proclaiming_the_death_of_the_lord__fr_edward_lo\|Proclaiming the Death of the Lord]] | Fr. Edward Lo |
 | 17 | [[17_now_this_is_living__hallie_lord\|Now This Is Living]] | Hallie Lord |
 | 18 | [[18_what_if_i_knew__maeve_young\|What If I Knew?]] | Maeve Young |

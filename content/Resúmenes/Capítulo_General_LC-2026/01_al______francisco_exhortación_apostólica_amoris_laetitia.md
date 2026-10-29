@@ -36,7 +36,7 @@ Este capítulo es la lista de abreviaturas y siglas utilizadas a lo largo del Co
 - **CV**: Francisco, Exhortación apostólica *Christus vivit* (25 de marzo de 2019).
 - **EG**: Francisco, Exhortación apostólica *Evangelii gaudium* (24 de noviembre de 2013).
 - **EN**: Pablo VI, Exhortación apostólica *Evangelii nuntiandi* (8 de diciembre de 1975).
-- **ET**: Pablo VI, Exhortación apostólica *Evangelica testificatio* (29 de junio de 1971).
+- **ET**: Pablo VI, Exhortación apostólica *Evangélica testificatio* (29 de junio de 1971).
 - **PDV**: Juan Pablo II, Exhortación apostólica *Pastores dabo vobis* (25 de marzo de 1992).
 - **VC**: Juan Pablo II, Exhortación apostólica *Vita consecrata* (25 de marzo de 1995).
 - **VFC**: Congregación para los Institutos de Vida Consagrada y las Sociedades de Vida Apostólica, *La vida fraterna en comunidad* (2 de febrero de 1994).

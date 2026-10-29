@@ -24,10 +24,6 @@ Santo Tomás trata la curiosidad en la Suma Teológica (II-II, q.167) como vicio
 ### Según el Catecismo (CEC)
 
 El CEC no trata la curiosidad como vicio específico, pero enseña principios que la encuadran: la virtud de la templanza modera los apetitos sensibles (§1809); el octavo mandamiento prohíbe la curiosidad malsana sobre la vida ajena (§2517-2519); la pureza de corazón requiere rechazar la curiosidad desordenada (§2530). La formación de la conciencia requiere un conocimiento ordenado a la verdad y al bien (§1783-1785).
-### Según Royo Marín (TPCr)
-
-Royo Marín, siguiendo a Santo Tomás, dedica el número 470 de TPCr a la estudiosidad y sus vicios opuestos. Define la curiosidad como «el deseo inmoderado de saber lo que no nos interesa o puede sernos perjudicial». Incluye en ella la afición desmedida a novelas, espectáculos, diversiones y lecturas que no edifican. Advierte que estas dos cuestiones de Santo Tomás (II-II, qq. 166-167) «deberían ser objeto de frecuente meditación por todos los estudiantes». La curiosidad disipa la mente, enfría la devoción y dificulta el recogimiento necesario para la oración.
-
 ### Según Santo Tomás (SmTh II-II, q.167)
 
 **Curiosidad intelectual (q.167 a.1):** El conocimiento de la verdad es esencialmente bueno, pero puede ser accidentalmente malo por lo que de él se sigue (soberbia, uso para pecar). El deseo de conocer puede ser perverso por cuatro modos:
@@ -43,6 +39,10 @@ Royo Marín, siguiendo a Santo Tomás, dedica el número 470 de TPCr a la estudi
 El presenciar espectáculos viciosos hace propenso a la lascivia o la crueldad. Investigar los actos del prójimo para menospreciarlo o difamarlo es vicioso; hacerlo por caridad o para imitar lo bueno es loable.
 
 La curiosidad es pecado venial por su género, pero puede llegar a ser mortal por la materia o por el fin.
+
+### Según Royo Marín (TPCr)
+
+Royo Marín, siguiendo a Santo Tomás, dedica el número 470 de TPCr a la estudiosidad y sus vicios opuestos. Define la curiosidad como «el deseo inmoderado de saber lo que no nos interesa o puede sernos perjudicial». Incluye en ella la afición desmedida a novelas, espectáculos, diversiones y lecturas que no edifican. Advierte que estas dos cuestiones de Santo Tomás (II-II, qq. 166-167) «deberían ser objeto de frecuente meditación por todos los estudiantes». La curiosidad disipa la mente, enfría la devoción y dificulta el recogimiento necesario para la oración.
 
 ### Según Il senso religioso (SR)
 

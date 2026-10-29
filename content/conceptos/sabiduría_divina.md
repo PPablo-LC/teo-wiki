@@ -33,15 +33,15 @@ Los Padres de la Iglesia (San Justino, San Ireneo, San Atanasio) desarrollaron l
 
 §1951: La ley natural es participación de la sabiduría eterna de Dios.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+Artículo «sabiduría»: La sabiduría bíblica no es especulación abstracta sino conocimiento práctico del orden querido por Dios, fundado en el temor del Señor. En el NT, Cristo es la Sabiduría de Dios, y el cristiano participa de ella por la fe y los dones del Espíritu Santo.
+
 ### Según la Summa Theologiae (SmTh)
 
 I, q.14: La ciencia de Dios es la sabiduría divina en cuanto conocimiento perfecto de sí mismo y de todas las cosas.
 
 II-II, q.45: La sabiduría como don del Espíritu Santo es un conocimiento connatural de las cosas divinas por amor, que permite al justo juzgar rectamente según la verdad divina.
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-Artículo «sabiduría»: La sabiduría bíblica no es especulación abstracta sino conocimiento práctico del orden querido por Dios, fundado en el temor del Señor. En el NT, Cristo es la Sabiduría de Dios, y el cristiano participa de ella por la fe y los dones del Espíritu Santo.
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

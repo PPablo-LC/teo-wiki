@@ -45,7 +45,7 @@ La **fe en Cristo** es condición de salvación vinculada al seguimiento. Las co
 
 En la catequesis 34 (28 de octubre de 1987), Juan Pablo II profundiza en las condiciones del seguimiento. Jesús llama a seguirle personalmente —esta llamada está en el centro mismo del Evangelio (CrSJP 34 §3). Exige una dedicación radical: dejar casa, mujer, hermanos, padres e hijos «por amor del reino de Dios» (Lc 18,29-30), con la promesa del ciento por uno y la vida eterna (Mt 19,29; Mc 10,29-30) (CrSJP 34 §4).
 
-«El que ama al padre o a la madre más que a mí, no es digno de mí; y el que no toma su cruz y sigue en pos de mí, no es digno de mí» (Mt 10,37-38). Lucas formula: «Si alguno viene a mí y no aborrece a su padre, su madre, su mujer, sus hermanos, sus hermanas y aun su propia vida, no puede ser mi discípulo» (Lc 14,26) (CrSJP 34 §5).
+«El que ama al padre o a la madre más que a mí, no es digno de mí; y el que no toma su cruz y sigue en pos de mí, no es digno de mí» (Mt 10,37-38). Lucas fórmula: «Si alguno viene a mí y no aborrece a su padre, su madre, su mujer, sus hermanos, sus hermanas y aun su propia vida, no puede ser mi discípulo» (Lc 14,26) (CrSJP 34 §5).
 
 Las formas concretas de seguir a Cristo están graduadas según las condiciones y carismas de cada persona. La exigencia de los consejos evangélicos compromete a todos «secundum praeparationem animi» (S.Th. II-II q.184 a.7 ad 1), según la disponibilidad del espíritu (CrSJP 34 §5).
 
@@ -69,7 +69,7 @@ En *La vocación explicada*, el seguimiento de Cristo se presenta como respuesta
 
 ### Giussani — All'origine della pretesa cristiana (ODPC)
 
-ODPC reconstruye las líneas del seguimiento como pedagogía revelativa de Jesús: primero el Maestro que se hace seguir («Venite con me»): una palabra comprensible con una implicación mucho mayor, cuyo sentido total aparece solo a distancia de años; después la renuncia (Mt 10,39): desprenderse de lo propio, hasta la renuncia a «sí mismo» como criterio; después el estar «de frente a todos» (Mt 10,32-33): ningún vínculo es verdadero si no logra producirse socialmente — el testimonio no es opcional; finalmente «a causa mia»: la persona de Cristo al centro de la afectividad y de la libertad, donde la indiferencia ya no es posible y nace el amor o la hostilidad ([[centro_de_la_libertad]]). El seguimiento es así el espacio donde se verifica la [[pretesa_cristiana]]: no una ideología que seguir, sino Alguien.
+ODPC reconstruye las líneas del seguimiento como pedagogía revelativa de Jesús: primero el Maestro que se hace seguir («Venite con me»): una palabra comprensible con una implicación mucho mayor, cuyo sentido total aparece solo a distancia de años; después la renuncia (Mt 10,39): desprenderse de lo propio, hasta la renuncia a «sí mismo» como criterio; después el estar «de frente a todos» (Mt 10,32-33): ningún vínculo es verdadero si no logra producirse socialmente — el testimonio no es opcional; finalmente «a causa mía»: la persona de Cristo al centro de la afectividad y de la libertad, donde la indiferencia ya no es posible y nace el amor o la hostilidad ([[centro_de_la_libertad]]). El seguimiento es así el espacio donde se verifica la [[pretesa_cristiana]]: no una ideología que seguir, sino Alguien.
 
 ## Distinciones importantes
 

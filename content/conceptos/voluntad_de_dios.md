@@ -17,6 +17,10 @@ La voluntad de Dios es el designio eterno y sapientísimo por el cual Dios quier
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La voluntad del Padre es que todos los hombres se salven y lleguen al conocimiento de la verdad (cf. 1 Tim 2,4) (§2822). En la oración del Padrenuestro, «hágase tu voluntad», el cristiano pide que el plan de Dios se realice plenamente en la tierra como en el cielo (§2823). Dios, en su providencia, obra todos los acontecimientos para el bien de los que le aman (Rm 8,28) (§303-314). El hombre, dotado de libertad, puede adherirse libremente a la voluntad de Dios o rechazarla (§1730-1737). La gracia no suprime la libertad, sino que la sana y eleva (§1732). El pecado es la desobediencia a la voluntad de Dios (§1870).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 En el AT, la voluntad de Dios se manifiesta en la Ley, la Alianza y las palabras de los profetas. Deuteronomio presenta la voluntad divina como camino de vida: «Mira, hoy pongo delante de ti la vida y el bien, la muerte y el mal» (Dt 30,15). Los salmistas piden ser enseñados en la voluntad de Dios (Sal 143,10).
@@ -54,10 +58,6 @@ a.10 — En Dios hay libre albedrío: puede elegir entre alternativas (como crea
 a.11 — Se distinguen en Dios la voluntad de beneplácito (la voluntad misma de Dios) y la voluntad signo (los signos de lo que Dios quiere: mandato, prohibición, permisión, consejo, operación).
 
 a.12 — El amor es lo primero en la voluntad: toda operación de la voluntad procede del amor.
-
-### Según el Catecismo (CEC)
-
-La voluntad del Padre es que todos los hombres se salven y lleguen al conocimiento de la verdad (cf. 1 Tim 2,4) (§2822). En la oración del Padrenuestro, «hágase tu voluntad», el cristiano pide que el plan de Dios se realice plenamente en la tierra como en el cielo (§2823). Dios, en su providencia, obra todos los acontecimientos para el bien de los que le aman (Rm 8,28) (§303-314). El hombre, dotado de libertad, puede adherirse libremente a la voluntad de Dios o rechazarla (§1730-1737). La gracia no suprime la libertad, sino que la sana y eleva (§1732). El pecado es la desobediencia a la voluntad de Dios (§1870).
 
 ### Según Royo Marín (TPCr)
 

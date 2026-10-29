@@ -37,7 +37,7 @@ Compete al Romano Pontífice convocar, presidir, trasladar, suspender o disolver
 
 ## Relaciones doctrinales
 
-El concilio ecuménico expresa la [[colegialidad_episcopal]] en su grado máximo, custodia la [[tradición_apostólica]] y formula los [[dogmas]]. Se distingue del [[concilio_particular]] y de las [[conferencias_episcopales]].
+El concilio ecuménico expresa la [[colegialidad_episcopal]] en su grado máximo, custodia la [[tradición_apostólica]] y fórmula los [[dogmas]]. Se distingue del [[concilio_particular]] y de las [[conferencias_episcopales]].
 
 ## Ver también
 

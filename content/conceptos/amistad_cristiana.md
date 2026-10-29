@@ -19,9 +19,13 @@ La amistad cristiana es un vínculo espiritual fundado en la semejanza de virtud
 
 Juan Casiano, por boca del abad [[jose_anacoreta|José]], expone en la Conferencia XVI la doctrina sobre la amistad verdadera. José distingue múltiples géneros de amistad humana (por recomendación, contratos, parentesco, afinidad profesional, instinto natural), pero señala que todas son inestables y se disuelven con el tiempo o las circunstancias. Solo la amistad fundada en la semejanza de virtudes es verdadera e indisoluble.
 
-La caridad es su fundamento divino: «Dios es caridad» (1 Jn 4,16). José identifica la caridad con Dios mismo —aunque la anotación del traductor señala que teológicamente la caridad infusa es algo creado, no Dios mismo—. Los grados de caridad incluyen la *agape* (amor universal) y la *diácesis* (amistad particular entre los virtuosos).
+La caridad es su fundamento divino: «Dios es caridad» (1 Jn 4,16). José identifica la caridad con Dios mismo —aunque la anotación del traductor señala que teológicamente la caridad infusa es algo creado, no Dios mismo—. Los grados de caridad incluyen la *ágape* (amor universal) y la *diácesis* (amistad particular entre los virtuosos).
 
 ## Perspectivas por fuente
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la amistad (*amicitia*) en la IIa-IIae q.23-26. La caridad es amistad del hombre con Dios (q.23 a.1). La amistad con los santos es participación en la amistad divina. El orden de la caridad determina la intensidad del amor (q.26).
 
 ### Colaciones II — Juan Casiano (ColCas-II)
 
@@ -37,10 +41,6 @@ El abad José presenta en la Conferencia XVI los seis principios fundamentales d
 José expone también la caridad bien ordenada: «No aborrece a nadie, pero ama a algunos con preferencia, en razón de sus méritos» (Cant 2,4). La amistad perfecta es posible solo entre los perfectos, pues los imperfectos no pueden soportar las imperfecciones ajenas.
 
 > **Referencia:** ColCas-II, Conferencia XVI, §§1-28
-
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la amistad (*amicitia*) en la IIa-IIae q.23-26. La caridad es amistad del hombre con Dios (q.23 a.1). La amistad con los santos es participación en la amistad divina. El orden de la caridad determina la intensidad del amor (q.26).
 
 ### Giussani — Affezione e dimora (AED)
 
@@ -62,7 +62,7 @@ DLV presenta la amistad como la sustancia del comportamiento moral y como el lug
 - **Amistad natural**: por parentesco, intereses o costumbres — inestable
 - **Amistad por semejanza de virtudes**: verdadera y permanente
 - **Amistad perfecta**: solo entre los que han alcanzado la perfección de la caridad
-- **Agape** (*αγάπη*): amor universal que debemos a todos
+- **Ágape** (*αγάπη*): amor universal que debemos a todos
 - **Diácesis** (*διαθεσις*): afección particular reservada a los virtuosos
 
 ## Relaciones doctrinales

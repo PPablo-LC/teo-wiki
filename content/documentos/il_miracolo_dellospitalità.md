@@ -101,7 +101,7 @@ mujer lo recoges, madre eres tú, en el sentido fisiológico y ontológico».
   y la virtud; el moralismo como anticristianismo; los pobres de espíritu
   (*Mt* 5,3); la caridad como amor al Essere (*1 Co* 13); la paternidad y la
   maternidad como generación.
-- **09 · *La familiarità come metodo del Mistero*** (Direttivo Nacional,
+- **09 · *La familiarità come método del Mistero*** (Direttivo Nacional,
   28-I-1996): la testimonianza como método (Giovanni y Andrea); el miracolo
   como *incedere* del divino; Dios ha escogido la *familiarità totale*
   (*Ex* 33,15); la fraternità para la santidad; la moral que nace del «sì»
@@ -149,7 +149,7 @@ La fuente reúne los interventos y diálogos con las Famiglie per
 l'Accoglienza. Los conceptos centrales desarrollados son:
 
 - **La hospitalidad como miracolo** — «la parola ospitalità —di cui affido
-  e adozione sono sinonimo—»; el miracolo como *incedere* del divino, la
+  e adozione sono sinónimo—»; el miracolo como *incedere* del divino, la
   experiencia normal y sin embargo excepcional.
 - **La imitación de Cristo** — la ospitalità como imitación del gesto de
   Cristo (Zaqueo, Judas «amico»); «Ogni altra ragione sarebbe sterile

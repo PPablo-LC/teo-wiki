@@ -29,7 +29,7 @@ tags: ["resumen", "evangelization_and_culture_12", "charles_lewis", "periodismo_
 Entrevista a **Charles Lewis** (escritor católico, Toronto, miembro Word on Fire Institute, 25 años casado con Kathryn Maloney, católico desde 2009 tras largo camino).
 
 **Infancia y familia**
-- Brooklyn, NY. Sin religión. Madre Edith Lee: religión = tontería. Padre Benjamin: mismo. Infantería US en WWII, herido 2 veces, campo POW alemán a los 19. Hermano Charles (Silver Star) muerto en Pacífico.
+- Brooklyn, NY. Sin religión. Madre Edith Lee: religión = tontería. Padre Benjamín: mismo. Infantería US en WWII, herido 2 veces, campo POW alemán a los 19. Hermano Charles (Silver Star) muerto en Pacífico.
 - Padre no concebía Dios que permite guerra/genocidio. Charles sintió igual por años.
 
 **Vida profesional antes de fe**

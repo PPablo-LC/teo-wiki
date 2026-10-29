@@ -17,6 +17,10 @@ La **pureza de intención** es la virtud por la cual el cristiano —especialmen
 
 ## Perspectivas por fuente
 
+### Según TPCr (Teología de la Perfección Cristiana)
+
+- La pureza de intención es condición de mérito sobrenatural: «todo acto para que sea meritorio debe ser hecho por Dios y para Dios».
+- Contra la vanidad y el respeto humano.
 ### Según ¡El amor es más fuerte! (LC-2015)
 
 - **Vínculo con la humildad**: «la humildad debe dirigirnos de forma natural a la pureza de intención, que no busca sino el bien de Cristo, de la Iglesia, de las almas, olvidándose de sí mismo» (cap. 11, §23).
@@ -31,10 +35,6 @@ La **pureza de intención** es la virtud por la cual el cristiano —especialmen
 - La pureza de intención subyace en los votos: pobreza (libertad interior), castidad (amor undivided), obediencia (voluntad de Dios).
 - «Vivir con fe, esperanza y caridad» como actitud fundamental (CLC 1998, 230).
 
-### Según TPCr (Teología de la Perfección Cristiana)
-
-- La pureza de intención es condición de mérito sobrenatural: «todo acto para que sea meritorio debe ser hecho por Dios y para Dios».
-- Contra la vanidad y el respeto humano.
 
 ## Distinciones importantes
 

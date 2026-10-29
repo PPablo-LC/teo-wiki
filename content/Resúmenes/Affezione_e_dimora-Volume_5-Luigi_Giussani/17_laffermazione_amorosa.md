@@ -37,9 +37,9 @@ A la joven que comprende que el sacrificio no es una durezza de decisión sino �
 
 Si en vez de afirmar la positividad se afirmara una fisionomía destructora, un significado negativo, se cedería a la prueba. En ese ceder y decir «es injusto» se es connivente con esos juicios negativos: no son ingenui, en nosotros hay algo que se opone — nuestra naturaleza hecha para el essere, para la positividad —. Una solución negativa es un rinnegamento del propio destino, una valoración negativa de una realidad, de una presencia sacrificante.
 
-Frente al escéptico que puede elegir decir que «todo es mal» (Leopardi: «a me la vita è male»), hay un precedente innegable: como el escéptico no puede negar que su primera impresión es que el tavolo existe, la primera cosa que el hombre tiene dentro es «la simpatia originale all'essere», que es la natura del cuore.
+Frente al escéptico que puede elegir decir que «todo es mal» (Leopardi: «a me la vita è male»), hay un precedente innegable: como el escéptico no puede negar que su primera impresión es que el tavolo existe, la primera cosa que el hombre tiene dentro es «la simpatía originale all'essere», que es la natura del cuore.
 
-> **La natura del cuore è simpatia alla vita**
+> **La natura del cuore è simpatía alla vita**
 
 En qué consiste la simpatía original al essere: en la natura del cuore; los ojos de *Marcellino pane e vino* (Vajda, 1955) son «due occhi sgranati sulla positività dell'essere»; la paura subentra dopo. La solución positiva es scelta amorosa porque «l'amore è affermare una presenza, riconoscere una presenza»; la solución negativa es connivente, porque para producir un juicio negativo hay que ir contra el cuore. La scelta es si es más verdadero lo que hay o lo que lo rinnega: «non si può "negare" nada, se può solo "rinnegare" qualcosa». La muerte, con toda la evidencia de su negatividad, no puede togliere el obstáculo del attaccamento alla vita: la simpatía por la vida; por eso la resurrección — «anche la morte non toglie ciò che fa da ostacolo alla sua negatività» —. La scelta entre el no y el sì es una scelta tra un rinnegamento y una affermazione amorosa; la afirmación del nulla es contradicción *in terminis*.
 
@@ -65,7 +65,7 @@ Sobre la tristeza por la partida de la Coki: se trata de fiarse de «coloro che 
 
 > **La divergenza tra paura dell'ingiusto e letizia**
 
-La madurez es «l'affermarsi dell'unità della nostra vita»: a medida que la vida se vuelve «una», el giusto coincide con las proporciones de la letizia. Lecturas: *Lettere sul dolore* de Emmanuel Mounier y, «la cosa più bella in senso assoluto», *L'Annuncio a Maria* de Paul Claudel. La unidad del yo hay que pedirla al Señor: «Avvenga di me secondo la Tua parola» (Lc 1,38), como la Madonna; además, ser cada vez más conscientes críticamente del bene e del male — el giudizio es el problema número uno —; y la ayuda de la compañía, donde «altri siano più lieti di te», no como comparación humillante sino como respiro crescente. «Diciamo "Tutto ci viene da Cristo" e poi, all'atto pratico, come è terribile!»
+La madurez es «l'affermarsi dell'unità della nostra vita»: a medida que la vida se vuelve «una», el giusto coincide con las proporciones de la letizia. Lecturas: *Lettere sul dolore* de Emmanuel Mounier y, «la cosa più bella in senso assoluto», *L'Annuncio a María* de Paul Claudel. La unidad del yo hay que pedirla al Señor: «Avvenga di me secondo la Tua parola» (Lc 1,38), como la Madonna; además, ser cada vez más conscientes críticamente del bene e del male — el giudizio es el problema número uno —; y la ayuda de la compañía, donde «altri siano più lieti di te», no como comparación humillante sino como respiro crescente. «Diciamo "Tutto ci viene da Cristo" e poi, all'atto pratico, come è terribile!»
 
 > **È questione di abbracciare altro da sé**
 
@@ -90,7 +90,7 @@ Una joven reconoce: «io so che sono fatta per la fedeltà, che la definizione d
 | 1 | H1 | L’AFFERMAZIONE AMOROSA |
 | 81 | Blockquote | La scelta positiva è la scelta amorosa |
 | 89 | Blockquote | La soluzione negativa è un rinnegamento |
-| 99 | Blockquote | La natura del cuore è simpatia alla vita |
+| 99 | Blockquote | La natura del cuore è simpatía alla vita |
 | 113 | Blockquote | Distrazione e connivenza |
 | 133 | Blockquote | «Liberaci dal male» |
 | 143 | Blockquote | Un'immagine drammatica della vita |

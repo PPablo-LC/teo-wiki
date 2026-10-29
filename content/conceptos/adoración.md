@@ -30,12 +30,6 @@ La adoración se debe al único Dios verdadero (§2084-2086). Es el primer acto 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La adoración en la Biblia se expresa mediante gestos corporales —postración y ósculo— que traducen la reacción del hombre ante la proximidad de Dios: conciencia de su insignificancia, veneración trepidante y homenaje jubiloso. El AT la reserva exclusivamente a Yahveh, prohibiendo todo gesto de adoración a ídolos, astros o dioses extranjeros. La novedad del NT es que Jesucristo es reconocido como Señor y recibe la adoración debida a Dios (*Flp 2,9ss*). La adoración cristiana se realiza «en espíritu y en verdad» (*Jn 4,24*), no ligada ya a un lugar nacional, sino en el templo que es el cuerpo de Cristo resucitado [VocTeoBib, «Adoración»].
-### Según Royo Marín (TPCr)
-
-La adoración es acto principal de la virtud de la religión. La religión es una virtud moral aneja a la justicia que inclina a dar a Dios el culto y honor debidos. El sacrificio de la Misa constituye el acto principal de la religión y del culto católico. La adoración perfecta es la del alma que se reconoce criatura y se entrega totalmente a Dios.
-
-[TPCr, Parte III, Libro II, Cap. II, n.427]
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 84 de la IIa-IIae a la adoración externa (latría). La adoración exterior es necesaria porque el alma, unida al cuerpo, necesita expresar sensiblemente su reverencia interior a Dios (q.84 a.1). Los gestos corporales de adoración (inclinación, postración, genuflexión) son actos de la virtud de religión en cuanto que significan la sumisión interior del alma a Dios.
@@ -61,6 +55,12 @@ En la IIIª q.25, Santo Tomás aplica la doctrina de la adoración a Cristo en r
 **La Virgen María recibe hiperdulía, no latría (q.25 a.5).** La Santísima Virgen es una pura criatura racional, por lo que no se le debe culto de latría, que es exclusivo de Dios. Se le debe veneración de dulía, de forma más eminente que a los demás santos por ser Madre de Dios, por lo que se llama hiperdulía.
 
 **Veneración de las reliquias (q.25 a.6).** Las reliquias de los santos deben ser veneradas, no con latría, sino con el honor debido a quienes fueron miembros de Cristo, templos del Espíritu Santo e intercesores nuestros. No se adora el cuerpo insensible por sí mismo, sino por causa del alma que estuvo unida a él y por Dios, cuyos ministros fueron.
+
+### Según Royo Marín (TPCr)
+
+La adoración es acto principal de la virtud de la religión. La religión es una virtud moral aneja a la justicia que inclina a dar a Dios el culto y honor debidos. El sacrificio de la Misa constituye el acto principal de la religión y del culto católico. La adoración perfecta es la del alma que se reconoce criatura y se entrega totalmente a Dios.
+
+[TPCr, Parte III, Libro II, Cap. II, n.427]
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 

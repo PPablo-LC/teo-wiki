@@ -21,17 +21,13 @@ El Espíritu Santo es revelado como persona divina distinta del Padre y del Hijo
 
 ## Perspectivas por fuente
 
-### Según el Enchiridion Symbolorum (Denzinger)
-
-**II Concilio de Lyon** (1274, D-460) definió que el Espíritu Santo «procede eternamente del Padre y del Hijo, no como de dos principios, sino como de un solo principio; no por dos espiraciones, sino por una única y sola espiración». Esta fórmula conciliar selló la doctrina del *Filioque* en el Oriente: la procesión del Espíritu Santo es del Padre y del Hijo como de un solo principio y por una sola espiración, y condenó a quienes negaban esta doctrina (D-463: «condenamos y reprobamos a los que negaren que el Espíritu Santo procede eternamente del Padre y del Hijo»).
-
-**Concilio de Florencia** (1439, D-691), Bula *Laetentur coeli*: definió que el Espíritu Santo «procede eternamente del Padre y del Hijo, y del Padre juntamente y el Hijo tiene su esencia y su ser subsistente, y de uno y otro procede eternamente como de un solo principio, y por única espiración». Declaró que la expresión «procede del Padre por el Hijo» significa que también el Hijo es «causa» (según los griegos) o «principio» (según los latinos) de la subsistencia del Espíritu Santo. Definió además que la adición del *Filioque* al Credo fue «lícita y razonablemente puesta en el Símbolo, en gracia de declarar la verdad y por necesidad entonces urgente».
-
-**Gregorio XIII** (1575, D‑1084), en la profesión de fe prescrita a los griegos, reiteró la definición de Florencia sobre el *Filioque*: el Espíritu Santo procede eternamente del Padre y del Hijo como de un solo principio y única espiración; el Hijo recibe eternamente del Padre el que el Espíritu Santo proceda de Él; la expresión «por el Hijo» significa que el Hijo es también principio de la subsistencia del Espíritu Santo. Confirmó que la adición del *Filioque* al Símbolo fue lícita y racionalmente añadida por necesidad entonces urgente.
-
 ### Según el Catecismo (CEC)
 
 El misterio de la Santísima Trinidad es el misterio central de la fe cristiana (CEC §234). El Espíritu Santo es "Señor y dador de vida", procede del Padre y del Hijo (CEC §245-246). La tradición latina confiesa que el Espíritu procede del Padre y del Hijo (Filioque) (CEC §246). Las personas divinas son realmente distintas pero inseparables en su obrar (CEC §253-267). El Espíritu Santo prepara a los hombres, los previene por su gracia, los atrae hacia Cristo, les manifiesta al Señor resucitado y les hace presente el misterio de Cristo sobre todo en la Eucaristía (CEC §737). El día de Pentecostés revela plenamente la Santísima Trinidad (CEC §732).
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El Espíritu de Dios no puede separarse del Padre y del Hijo; se revela con ellos, pero carece de un nombre que evoque una figura humana —*ruah* (viento, soplo)—, recordando que «Dios es Espíritu» (Jn 4,24) y que «el Señor es el Espíritu» (2Cor 3,17) [VocTeoBib, «Espíritu de Dios»]. En el AT actúa como fuerza divina que transforma personalidades: suscita jueces libertadores (Jue 3,10; 14,6), unge reyes (1Sa 16,13), reposa sobre el Mesías (Is 11,2), inspira a los profetas y consagra al Siervo de Yahveh (Is 42,1; 61,1ss). Se anuncia su efusión sobre todo el pueblo (Jl 3,1s; Ez 36,25-27). En el NT, Jesús es concebido por el Espíritu (Lc 1,35), ungido en su bautismo (Mc 1,10), y toda su acción se realiza en el Espíritu (Lc 4,14.18). Jesús promete el Espíritu como Paráclito (Jn 14,16s.26; 16,13ss) y, resucitado, lo derrama sobre la Iglesia (Jn 20,22s). Pablo describe al Espíritu como fuente de la nueva vida (Rom 8,2.11; Gal 5,19-23) y principio de unidad del Cuerpo de Cristo (1Cor 12,13; Ef 4,3).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -46,6 +42,14 @@ Santo Tomás trata la persona del Espíritu Santo en SmTh Iª q.36 (nombre y pro
 ### Según Royo Marín (TPCr)
 
 El Espíritu Santo es el alma del Cuerpo Místico de Cristo, principio de toda acción vital en todas las partes del cuerpo. Sus dones son el elemento dinámico de la vida sobrenatural, perfeccionando las virtudes infusas. El Espíritu Santo actúa en las almas mediante sus dones y mociones, conduciéndolas a la perfección cristiana. Es el autor principal de la santificación de las almas (TPCr, Parte I, Cap. 2).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**II Concilio de Lyon** (1274, D-460) definió que el Espíritu Santo «procede eternamente del Padre y del Hijo, no como de dos principios, sino como de un solo principio; no por dos espiraciones, sino por una única y sola espiración». Esta fórmula conciliar selló la doctrina del *Filioque* en el Oriente: la procesión del Espíritu Santo es del Padre y del Hijo como de un solo principio y por una sola espiración, y condenó a quienes negaban esta doctrina (D-463: «condenamos y reprobamos a los que negaren que el Espíritu Santo procede eternamente del Padre y del Hijo»).
+
+**Concilio de Florencia** (1439, D-691), Bula *Laetentur coeli*: definió que el Espíritu Santo «procede eternamente del Padre y del Hijo, y del Padre juntamente y el Hijo tiene su esencia y su ser subsistente, y de uno y otro procede eternamente como de un solo principio, y por única espiración». Declaró que la expresión «procede del Padre por el Hijo» significa que también el Hijo es «causa» (según los griegos) o «principio» (según los latinos) de la subsistencia del Espíritu Santo. Definió además que la adición del *Filioque* al Credo fue «lícita y razonablemente puesta en el Símbolo, en gracia de declarar la verdad y por necesidad entonces urgente».
+
+**Gregorio XIII** (1575, D‑1084), en la profesión de fe prescrita a los griegos, reiteró la definición de Florencia sobre el *Filioque*: el Espíritu Santo procede eternamente del Padre y del Hijo como de un solo principio y única espiración; el Hijo recibe eternamente del Padre el que el Espíritu Santo proceda de Él; la expresión «por el Hijo» significa que el Hijo es también principio de la subsistencia del Espíritu Santo. Confirmó que la adición del *Filioque* al Símbolo fue lícita y racionalmente añadida por necesidad entonces urgente.
 
 ### Según la Vida de Jesús (VJ)
 
@@ -68,10 +72,6 @@ Juan Pablo II presenta al Espíritu Santo como protagonista de la oración: «El
 ### Según CJeS (1987-1988)
 
 Juan Pablo II dedica la tercera parte de su ciclo cristológico a la acción del Espíritu Santo en Cristo. Jesús es el Mesías ungido por el Espíritu Santo, según la profecía de Isaías (Is 61,1-2; Lc 4,18). Fue concebido por obra del Espíritu Santo. Toda su actividad pública se realiza en el poder del Espíritu: curaciones, exorcismos, predicación. Su resurrección es obra del Espíritu (Rom 1,4; 8,11). Jesús es quien trae el Espíritu Santo: promete el agua viva (Jn 7,37-39), anuncia el Paráclito (Jn 14-16), y después de la resurrección sopla sobre los Apóstoles diciendo: «Recibid el Espíritu Santo» (Jn 20,22), confiriéndoles el poder de perdonar los pecados. En Pentecostés, el Espíritu es derramado sobre la Iglesia (CJeS, tercera parte: catequesis sobre Jesús ungido por el Espíritu Santo).
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El Espíritu de Dios no puede separarse del Padre y del Hijo; se revela con ellos, pero carece de un nombre que evoque una figura humana —*ruah* (viento, soplo)—, recordando que «Dios es Espíritu» (Jn 4,24) y que «el Señor es el Espíritu» (2Cor 3,17) [VocTeoBib, «Espíritu de Dios»]. En el AT actúa como fuerza divina que transforma personalidades: suscita jueces libertadores (Jue 3,10; 14,6), unge reyes (1Sa 16,13), reposa sobre el Mesías (Is 11,2), inspira a los profetas y consagra al Siervo de Yahveh (Is 42,1; 61,1ss). Se anuncia su efusión sobre todo el pueblo (Jl 3,1s; Ez 36,25-27). En el NT, Jesús es concebido por el Espíritu (Lc 1,35), ungido en su bautismo (Mc 1,10), y toda su acción se realiza en el Espíritu (Lc 4,14.18). Jesús promete el Espíritu como Paráclito (Jn 14,16s.26; 16,13ss) y, resucitado, lo derrama sobre la Iglesia (Jn 20,22s). Pablo describe al Espíritu como fuente de la nueva vida (Rom 8,2.11; Gal 5,19-23) y principio de unidad del Cuerpo de Cristo (1Cor 12,13; Ef 4,3).
 
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
@@ -104,11 +104,11 @@ para nosotros es nuestra compañía vocacional» (03, 199).
 
 En los *Esercizi spirituali* de la Fraternità di Comunione e Liberazione (1994-1996), el Espíritu Santo es invocado y experimentado como el principio vivo que hace presente a Cristo:
 
-- **Invocación inaugural**: cada jornada de ejercicios se abre *in piedi* con el canto *«Discendi, Santo Spirito»* (E. Galbiati–J. Schweitzer, *Canti*, 2014, p. 113), pidiendo que el Espíritu no abandone «especialmente en estos momentos en cui le verità ultime delle cose vengono richiamate con tutta la serietà ed energia di cui il nostro cuore è capace» (02, 21-23). La invocación define el gesto mismo de los ejercicios: «chiedere – cioè pregare e ascoltare – e mantenere un rigoroso silenzio» (03, 23-25).
+- **Invocación inaugural**: cada jornada de ejercicios se abre *in piedi* con el canto *«Discendi, Santo Spirito»* (E. Galbiati–J. Schweitzer, *Canti*, 2014, p. 113), pidiendo que el Espíritu no abandone «especialmente en estos momentos en cui le verità ultime delle cose vengono richiamate con tutta la serietà ed energía di cui il nostro cuore è capace» (02, 21-23). La invocación define el gesto mismo de los ejercicios: «chiedere – cioè pregare e ascoltare – e mantenere un rigoroso silenzio» (03, 23-25).
 
 - **Nacer de lo alto (Gv 3,1-8)**: comentando a Nicodemo, Giussani subraya: «Ciò che nasce dalla carne è carne, ma ciò che nasce dallo Spirito… è Spirito che cambia la carne»; no se trata de propósitos humanos sino de «guardare una Presenza» (02, 169-171).
 
-- **Carisma como gracia particular del Espíritu**: «ogni gruppo… essendo nato da una grazia particolare dello Spirito… che si chiama "carisma"»; cada grupo nace de «una storia in cui un incontro ha messo insieme le persone» (03, 325). El carisma es don del Espíritu que hace «più facilmente chiara» la fe e «più facilmente intensa» l'affezione a ella (01, 49).
+- **Carisma como gracia particular del Espíritu**: «ogni gruppo… essendo nato da una grazia particolare dello Spirito… che si chiama "carisma"»; cada grupo nace de «una storia in cui un incontro ha messo insieme le persone» (03, 325). El carisma es don del Espíritu que hace «più fácilmente chiara» la fe e «più fácilmente intensa» l'affezione a ella (01, 49).
 
 - **El Espíritu y la memoria**: la carta de la madre de familia testifica: «Dio aveva scelto quella persona per comunicarmi il dono che voleva farmi, cioè quell'incontro con Lui… Lui attraverso lei mi ha attirata a Sé. Senza catene» (01, 33) — el Espíritu actúa en la libertad, no por coacción.
 

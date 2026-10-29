@@ -76,7 +76,7 @@ Incluye las fuentes espirituales y filosóficas del capítulo: Russell (*From Sc
 
 ### Chapter 15: Some Implications of NDE Studies
 
-Documenta las referencias sobre la oposición científica (Swaab; Larson y Witham, *Nature*), la reencarnación (Fisher; Stevenson, *Where Reincarnation and Biology Intersect*), la donación de órganos (Stark; Kompanje; Model Protocol holandés; Eurotransplant; Sanghavi, *New York Times* 2009), la muerte cerebral frente a la muerte (Emanuel; Machado y Shewmon), el síndrome de Lázaro (Jordan 1985) y los cambios fisiológicos en pacientes con muerte cerebral (Wetzel; Pennefather).
+Documenta las referencias sobre la oposición científica (Swaab; Larson y Witham, *Nature*), la reencarnación (Fisher; Stevenson, *Where Reincarnation and Biology Intersect*), la donación de órganos (Stark; Kompanje; Model Protocol holandés; Eurotransplant; Sanghavi, *New York Times* 2009), la muerte cerebral frente a la muerte (Emanuel; Machado y Shewmon), el síndrome de Lázaro (Jordán 1985) y los cambios fisiológicos en pacientes con muerte cerebral (Wetzel; Pennefather).
 
 ### Chapter 16: Epilogue
 

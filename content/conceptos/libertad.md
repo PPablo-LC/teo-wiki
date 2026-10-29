@@ -25,6 +25,10 @@ La libertad no es licencia para hacer cualquier cosa, sino capacidad para elegir
 
 «La libertad es el poder, radicado en la razón y en la voluntad, de obrar o de no obrar, de hacer esto o aquello» (CEC §1731). La libertad humana es limitada y falible (§1732-1734). El pecado disminuye la libertad; la gracia de Cristo la libera (§1740-1742). El hombre alcanza la libertad perfecta cuando se somete a la verdad y al bien (§1743-1748). La libertad religiosa es un derecho fundado en la dignidad humana (§1804).
 
+### Según Royo Marín (TPCr)
+
+TPCr trata la libertad en el contexto del acto humano y en la vida espiritual. La libertad es condición indispensable del mérito. El progreso espiritual no disminuye la libertad sino que la perfecciona, y la libertad de los hijos de Dios es el término de la vida cristiana perfecta.
+
 ### Según Pinckaers (FMC)
 
 Pinckaers dedica los capítulos XIV-XVI de *Las Fuentes de la Moral Cristiana* al estudio de la libertad, distinguiendo dos concepciones fundamentales que han engendrado dos sistematizaciones diferentes de la teología moral. Esta oposición es el eje de toda su obra.
@@ -52,10 +56,6 @@ Pinckaers dedica los capítulos XIV-XVI de *Las Fuentes de la Moral Cristiana* a
 **La libertad de calidad en detalle.** Expuesta a través de ejemplos (la libertad del músico virtuoso, del hablante experto en su lengua, del valiente que domina sus miedos), esta concepción entiende la libertad como una capacidad que se desarrolla en tres etapas (cap. XV): disciplina o primera etapa (el Decálogo como pedagogía), progreso y virtud o segunda etapa (las virtudes como hábitos que expanden la libertad), y madurez o tercera etapa (la edad adulta en Cristo, donde se obra el bien con espontaneidad). La libertad se funda en las inclinaciones naturales a la verdad y al bien. No se opone a la naturaleza, sino que se apoya en ella. La elección libre es un acto conjunto de la inteligencia y la voluntad (*intellectus appetitivus*, cap. XVI): el entendimiento intelectual propone el bien y la voluntad tiende a él. La sindéresis, hábito de los primeros principios de la razón práctica, orienta la libertad desde dentro. La orientación al bien es constitutiva de la libertad; la posibilidad de hacer el mal no pertenece a su esencia, sino que es una deficiencia o debilidad. La gracia no se añade desde fuera, sino que sana, eleva y perfecciona esta libertad.
 
 **La encrucijada actual.** Pinckaers sostiene que la crisis de la moral cristiana contemporánea —visible en la disociación entre fe y vida, en el subjetivismo moral y en la reducción de la moral a un código de obligaciones— podría ser un momento favorable para hacer emerger de nuevo la doctrina de la libertad de calidad, que considera «más rica y más adecuada que la libertad de indiferencia» para dar cuenta de la vida cristiana como seguimiento de Cristo y crecimiento en el Espíritu. La cuestión de la libertad —afirma— nos coloca ante «una opción actual que será sin duda determinante para el resurgimiento que ha de llegar a la moral cristiana» (cap. XIV).
-
-### Según Royo Marín (TPCr)
-
-TPCr trata la libertad en el contexto del acto humano y en la vida espiritual. La libertad es condición indispensable del mérito. El progreso espiritual no disminuye la libertad sino que la perfecciona, y la libertad de los hijos de Dios es el término de la vida cristiana perfecta.
 
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
@@ -129,7 +129,7 @@ Bishop Robert Barron (01_from_the_desk.md) completa esta visión: «somos libres
 
 **La opción de fondo (cap. XII).** La libertad se juega en la «aventura de la interpretación»: ante el enigma de lo real, el hombre elige obrar «pane al pane, vino al vino» (reducir la realidad a lo utilizable) o abrirse a la totalidad. Se llega a Dios también con la libertad: la elección de fondo no es un presupuesto sino el primer uso responsable de la libertad (SR, `19_capitolo_dodicesimo.md`, §10-30).
 
-**Educación a la libertad (cap. XIII).** La libertad se educa como responsabilidad: la libertad se juega como interpretación del signo, y educarla es educar la atención, la aceptación y la hipótesis positiva. Cita a Newman (*Apologia pro vita sua*): el yo y Dios son los dos seres evidentes; la libertad crece en la medida en que el hombre adhiere al ser y a su significado (SR, `20_capitolo_tredicesimo.md`, §1-9, 66-93).
+**Educación a la libertad (cap. XIII).** La libertad se educa como responsabilidad: la libertad se juega como interpretación del signo, y educarla es educar la atención, la aceptación y la hipótesis positiva. Cita a Newman (*Apología pro vita sua*): el yo y Dios son los dos seres evidentes; la libertad crece en la medida en que el hombre adhiere al ser y a su significado (SR, `20_capitolo_tredicesimo.md`, §1-9, 66-93).
 
 ### Giussani — Affezione e dimora (AED)
 
@@ -164,7 +164,7 @@ Elementos centrales en REG:
 - La libertad es **capacidad de la felicidad** / «capacità di Dio» / «capacità del fine» (12).
 - La libertad es la **lama** que separa verdad/mentira, bien/mal, ser/nada (Tischreden 142, 14).
 - El hombre sigue siempre la **atracción más fuerte** ([[delectatio_victrix]]); la elección es propia de una libertad *in fieri*, no compiuta (12).
-- La libertad puede **decir no a la evidencia** (Capaneo); Dios se comunica a los hombres «ultimamente attraverso la libertà» (Tischreden 110, 13).
+- La libertad puede **decir no a la evidencia** (Capaneo); Dios se comunica a los hombres «últimamente attraverso la libertà» (Tischreden 110, 13).
 
 ## Relaciones doctrinales
 

@@ -19,7 +19,7 @@ La verdad de Dios es el atributo por el cual Dios es la Verdad misma en su esenc
 
 La revelación del Nombre divino a Moisés (Ex 3,14) manifiesta que Dios es «El que Es». La tradición profética y sapiencial profundiza este nombre descubriendo que Dios es «rico en amor y fidelidad» (*hesed we'emet*). Estas dos dimensiones expresan de forma condensada las riquezas del nombre divino: la verdad de Dios (su fidelidad, constancia, fiabilidad) y su amor (su benevolencia, bondad, gracia).
 
-El apóstol san Juan formula la culminación de esta revelación: «Dios es Luz, en él no hay tiniebla alguna» (1 Jn 1,5) y «Dios es Amor» (1 Jn 4,8). El ser mismo de Dios es Amor: una eterna comunicación de amor entre el Padre, el Hijo y el Espíritu Santo.
+El apóstol san Juan fórmula la culminación de esta revelación: «Dios es Luz, en él no hay tiniebla alguna» (1 Jn 1,5) y «Dios es Amor» (1 Jn 4,8). El ser mismo de Dios es Amor: una eterna comunicación de amor entre el Padre, el Hijo y el Espíritu Santo.
 
 ## Perspectivas por fuente
 

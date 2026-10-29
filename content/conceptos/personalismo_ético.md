@@ -21,6 +21,9 @@ El personalismo ético tiene raíces en la tradición aristotélico-tomista, que
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que «la dignidad de la persona humana es el fundamento último de la moralidad» (CEC §1758). «La persona humana, hecha a imagen y semejanza de Dios, no puede ser tratada como un simple medio» (§1701). El bien y el mal moral se determinan en referencia a la dignidad de la persona.
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II señala que Kant «ha puesto las bases del personalismo ético moderno» al hacer de la persona la categoría de orden primario en su segunda fórmula del imperativo categórico [MI, cap. 7]. Sin embargo, Kant no retomó la tradición del *bonum honestum* como fundamento objetivo de la moral.
@@ -29,9 +32,6 @@ Los neotomistas asumieron el principio del personalismo apoyándose en la concep
 
 El personalismo ético se opone tanto al utilitarismo (que reduce la persona al provecho) como al formalismo kantiano (que funda la moral en la forma a priori de la razón práctica sin referirse al *bonum honestum*). La persona es «la categoría de orden primario» del obrar moral [MI, cap. 7].
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que «la dignidad de la persona humana es el fundamento último de la moralidad» (CEC §1758). «La persona humana, hecha a imagen y semejanza de Dios, no puede ser tratada como un simple medio» (§1701). El bien y el mal moral se determinan en referencia a la dignidad de la persona.
 
 ## Distinciones importantes
 

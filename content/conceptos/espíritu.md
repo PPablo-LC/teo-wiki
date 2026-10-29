@@ -25,15 +25,15 @@ El espíritu del hombre, aludiendo a Gn 1,26 (el hombre creado a imagen y semeja
 
 El CEC enseña que el hombre ha sido creado «a imagen de Dios», como ser espiritual y corporal (§362-368). El alma espiritual es creada inmediatamente por Dios y es inmortal (§366). El Espíritu Santo habita en el alma del justo como en un templo (§797-801). La oración es «la elevación del alma hacia Dios» (§2559; §2590).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+«Espíritu» (hebreo *ruah*) designa en la Biblia el elemento esencial e inaferrable de un ser: es el viento, la respiración, el espíritu del hombre y los espíritus [VocTeoBib, «Espíritu»]. El hálito respiratorio viene de Dios (Gen 2,7) y vuelve a él con la muerte (Job 34,14s). El espíritu del hombre es la expresión misma de su conciencia. El NT revela que el Espíritu Santo se une a nuestro espíritu (Rom 8,16), lo habita y lo transforma, suscitando la oración filial (Rom 8,26; Gal 4,6). «Dios es espíritu» (Jn 4,24): lo que nace del Espíritu es espíritu (Jn 3,6), capaz de servir a Dios «en espíritu y en verdad» (Jn 4,24) y de producir el fruto del Espíritu (Gal 5,22).
 ### Según Royo Marín (TPCr)
 
 Royo Marín, siguiendo a Santo Tomás, enseña que el alma es una sola, racional y espiritual, que unifica todas las potencias del hombre. El espíritu del hombre está ordenado por naturaleza a Dios, pero necesita la elevación sobrenatural de la gracia para alcanzar su fin sobrenatural. La oración es definida como «elevación de la mente a Dios».
 
 [TPCr, Segunda Parte, Cap. 1; Tercera Parte, Libro II, Cap. 3]
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-«Espíritu» (hebreo *ruah*) designa en la Biblia el elemento esencial e inaferrable de un ser: es el viento, la respiración, el espíritu del hombre y los espíritus [VocTeoBib, «Espíritu»]. El hálito respiratorio viene de Dios (Gen 2,7) y vuelve a él con la muerte (Job 34,14s). El espíritu del hombre es la expresión misma de su conciencia. El NT revela que el Espíritu Santo se une a nuestro espíritu (Rom 8,16), lo habita y lo transforma, suscitando la oración filial (Rom 8,26; Gal 4,6). «Dios es espíritu» (Jn 4,24): lo que nace del Espíritu es espíritu (Jn 3,6), capaz de servir a Dios «en espíritu y en verdad» (Jn 4,24) y de producir el fruto del Espíritu (Gal 5,22).
 
 ## Distinciones importantes
 

@@ -45,7 +45,7 @@ El contraste entre Babel y Nehemías recorre toda la Encíclica y constituye su 
 | Proyecto de una sola voluntad | Responsabilidad compartida de todo el pueblo |
 | Dispersión como resultado | Comunión restaurada |
 
-MH §9 formula la elección: «La primera elección no es entre un "sí" o un "no" a la tecnología, sino entre construir Babel o reconstruir Jerusalén».
+MH §9 fórmula la elección: «La primera elección no es entre un "sí" o un "no" a la tecnología, sino entre construir Babel o reconstruir Jerusalén».
 
 ## Relaciones doctrinales
 

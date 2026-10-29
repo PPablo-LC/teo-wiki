@@ -33,15 +33,15 @@ Los presbíteros, ordenados para el servicio de Cristo Cabeza, son cooperadores 
 
 El Decreto *Presbyterorum Ordinis* está dedicado al ministerio y vida de los [[presbítero|presbíteros]]. Por el Sacramento del Orden se configuran con Cristo Sacerdote para la edificación de su Cuerpo, que es la [[iglesia]], como cooperadores del orden episcopal [ConcVatII, PO §12]. Los presbíteros, consagrados por la unción del Espíritu Santo y enviados por Cristo, se entregan totalmente al servicio de los hombres, caminando hacia la santidad con que han sido enriquecidos en Cristo [ConcVatII, PO §12]. Ejercen la triple función de enseñar, santificar y regir [ConcVatII, PO §4-6]. El [[sacrificio_eucarístico]] es el centro y raíz de toda la vida del presbítero [ConcVatII, PO §14]. Están llamados a la caridad pastoral, que es el vínculo de la perfección sacerdotal y fluye sobre todo del Sacrificio Eucarístico [ConcVatII, PO §14].
 
+### Según Royo Marín (TPCr)
+
+El Pontifical Romano prescribe al presbítero: ofrecer, bendecir, presidir, predicar y bautizar (TPCr, Tercera Parte, Libro III). El sacerdote debe vivir para su misa y de su misa, pues la celebración del santo sacrificio es su función primaria (TPCr, Tercera Parte, Libro III). La espiritualidad sacerdotal es específica y distinta de la religiosa (TPCr, Tercera Parte, Libro III). Los presbíteros con los obispos forman la jerarquía de orden en la Iglesia (TPCr, Tercera Parte, Libro II, cap. I).
+
 ### Según Juan Pablo II (PDV)
 
 *Pastores dabo vobis* presenta al presbítero como «representación sacramental de Jesucristo, Cabeza y Pastor» (PDV 15), que proclama con autoridad su palabra, renueva sus gestos de perdón y de ofrecimiento de la salvación, y ejerce el cuidado amoroso del rebaño (PDV 15). El Espíritu Santo, mediante la unción sacramental del Orden, configura al presbítero con Cristo, Cabeza y Pastor, lo conforma y anima con su caridad pastoral (PDV 15). La identidad del presbítero es esencialmente relacional: se define por la relación con Cristo, con el Obispo, con el presbiterio y con los laicos (PDV 12-17). La relación con el Obispo es de comunión y colaboración responsable (PDV 17). Con los demás presbíteros forma un presbiterio unido por vínculos de caridad apostólica, ministerio y fraternidad (PDV 17). Con los laicos tiene una relación positiva y animadora, promoviendo el sacerdocio bautismal (PDV 17).
 
 El presbítero está llamado a la santidad no solo como bautizado, sino específicamente como presbítero (PDV 19). Su vida espiritual se caracteriza por la caridad pastoral (PDV 21-23), la unidad de vida entre el ministerio y la espiritualidad (PDV 33), y el radicalismo evangélico vivido mediante la obediencia apostólica, la castidad célibe y la pobreza pastoral (PDV 27-30).
-
-### Según Royo Marín (TPCr)
-
-El Pontifical Romano prescribe al presbítero: ofrecer, bendecir, presidir, predicar y bautizar (TPCr, Tercera Parte, Libro III). El sacerdote debe vivir para su misa y de su misa, pues la celebración del santo sacrificio es su función primaria (TPCr, Tercera Parte, Libro III). La espiritualidad sacerdotal es específica y distinta de la religiosa (TPCr, Tercera Parte, Libro III). Los presbíteros con los obispos forman la jerarquía de orden en la Iglesia (TPCr, Tercera Parte, Libro II, cap. I).
 
 ### Según León XIV (DC-Convivium)
 

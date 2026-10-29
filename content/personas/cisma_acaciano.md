@@ -19,13 +19,13 @@ Cisma de 35 años (484-519) entre la Sede Apostólica de Roma y la sede de Const
 
 El *Henotikón* afirmaba la unidad de Cristo, condenaba a Nestorio y Eutiques, y aceptaba los doce anatematismos de Cirilo, pero omitía deliberadamente la fórmula calcedonense de «dos naturalezas». Para Roma, esto equivalía a traicionar la definición de Calcedonia y conceder a los monofisitas. El papa Félix III excomulgó a Acacio en 484, dando inicio al cisma.
 
-Durante el cisma, los papas afirmaron la primacía romana como garantía de la ortodoxia: la comunión con la Sede de Pedro era condición para la comunión eclesial plena. La *Formula Hormisdae* (D-171), suscrita en 519 para resolver el cisma, exige la condena de Nestorio, Eutiques, Dióscoro, Timoteo Eluro, Pedro Alejandrino y Acacio, y proclama que «en la Sede Apostólica se conservó siempre inmaculada la religión católica».
+Durante el cisma, los papas afirmaron la primacía romana como garantía de la ortodoxia: la comunión con la Sede de Pedro era condición para la comunión eclesial plena. La *Fórmula Hormisdae* (D-171), suscrita en 519 para resolver el cisma, exige la condena de Nestorio, Eutiques, Dióscoro, Timoteo Eluro, Pedro Alejandrino y Acacio, y proclama que «en la Sede Apostólica se conservó siempre inmaculada la religión católica».
 
 ## Perspectivas por fuente
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
-D-171 (*Formula Hormisdae*): «Primordial salud es guardar la regla de la recta fe [...] en la Sede Apostólica se conservó siempre inmaculada la religión católica». Anatematiza a Nestorio, Eutiques, Dióscoro, Acacio y todos sus seguidores.
+D-171 (*Fórmula Hormisdae*): «Primordial salud es guardar la regla de la recta fe [...] en la Sede Apostólica se conservó siempre inmaculada la religión católica». Anatematiza a Nestorio, Eutiques, Dióscoro, Acacio y todos sus seguidores.
 
 ## Relaciones doctrinales
 

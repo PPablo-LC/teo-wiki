@@ -21,14 +21,6 @@ El hábito es una cualidad del alma que modifica establemente las potencias oper
 
 ## Perspectivas por fuente
 
-### Según Mons. Tihámer Tóth (JvC)
-
-De las acciones repetidas se forma el hábito. JvC cita el proverbio: «Siembra un pensamiento y cosecharás el deseo; siembra un deseo y recogerás la acción; siembra la acción y recogerás la costumbre; siembra la costumbre y recogerás el carácter; siembra el carácter y tendrás por cosecha tu propia suerte» [JvC, Cap. I]. El hábito se forma como el lago helado que los niños alisan patinando: al principio no está liso, pero a medida que patinan sobre él, lo convierten en una pista por la que se deslizan con facilidad. «Cuantas más veces hacemos algo, bueno o malo, tanto más nos acostumbramos, y nos deslizamos ya sin poder pararnos en la dirección tomada» [JvC, Cap. III].
-
-### Según Mons. Tihámer Tóth (JvC-Muj)
-
-JvC-Muj presenta el mismo principio: «Siembra un pensamiento y cosecharás el deseo; siembra un deseo y recogerás la acción; siembra la acción y recogerás la costumbre; siembra la costumbre y recogerás el carácter; siembra el carácter y tendrás por cosecha tu propia suerte» [JvC-Muj, Cap. I]. El hábito se forma como el lago helado que los niños alisan patinando: «Cuantas más veces hacemos algo, bueno o malo, tanto más nos acostumbramos, y nos deslizamos ya sin poder pararnos en la dirección tomada» [JvC-Muj, Cap. III]. La joven de carácter debe vigilar sus pensamientos, pues de ellos nacen los deseos, de los deseos las acciones, y de las acciones el carácter [JvC-Muj, Cap. I].
-
 ### Según el Catecismo (CEC)
 
 El CEC define las virtudes como «disposiciones permanentes del alma» (§1804) y señala que las virtudes humanas son hábitos adquiridos, mientras que las virtudes teologales y los dones del Espíritu Santo son hábitos infusos (§1833). La gracia santificante dispone al alma para recibir estos hábitos sobrenaturales.
@@ -51,6 +43,14 @@ El CEC define las virtudes como «disposiciones permanentes del alma» (§1804) 
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica la Parte 2 al organismo sobrenatural, donde expone la doctrina tomista del hábito. El hábito se distingue de la potencia y del acto: la potencia es la capacidad de obrar; el hábito es la disposición que perfecciona esa capacidad; el acto es el ejercicio de la misma. Las virtudes infusas son hábitos sobrenaturales que se reciben con la [[gracia_santificante]] y que perfeccionan las facultades del alma para obrar actos sobrenaturalmente meritorios.
+
+### Según Mons. Tihámer Tóth (JvC)
+
+De las acciones repetidas se forma el hábito. JvC cita el proverbio: «Siembra un pensamiento y cosecharás el deseo; siembra un deseo y recogerás la acción; siembra la acción y recogerás la costumbre; siembra la costumbre y recogerás el carácter; siembra el carácter y tendrás por cosecha tu propia suerte» [JvC, Cap. I]. El hábito se forma como el lago helado que los niños alisan patinando: al principio no está liso, pero a medida que patinan sobre él, lo convierten en una pista por la que se deslizan con facilidad. «Cuantas más veces hacemos algo, bueno o malo, tanto más nos acostumbramos, y nos deslizamos ya sin poder pararnos en la dirección tomada» [JvC, Cap. III].
+
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj presenta el mismo principio: «Siembra un pensamiento y cosecharás el deseo; siembra un deseo y recogerás la acción; siembra la acción y recogerás la costumbre; siembra la costumbre y recogerás el carácter; siembra el carácter y tendrás por cosecha tu propia suerte» [JvC-Muj, Cap. I]. El hábito se forma como el lago helado que los niños alisan patinando: «Cuantas más veces hacemos algo, bueno o malo, tanto más nos acostumbramos, y nos deslizamos ya sin poder pararnos en la dirección tomada» [JvC-Muj, Cap. III]. La joven de carácter debe vigilar sus pensamientos, pues de ellos nacen los deseos, de los deseos las acciones, y de las acciones el carácter [JvC-Muj, Cap. I].
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 

@@ -13,7 +13,7 @@ timestamp: "2026-09-10"
 
 ## Contexto histórico
 
-Jean Guénolé Marie Daniélou SJ (1905–1974), jesuita francés, padre del *ressourcement* y uno de los grandes patrólogos del siglo XX. Co-fundador —con Henri de Lubac y Victor Mondésert— de la colección *Sources Chrétiennes* (1942), dedicada a las ediciones críticas de los Padres de la Iglesia. Autor de *Platonisme et théologie mystique* (1944) y de estudios sobre el simbolismo bíblico. Cardenal desde 1969, fue miembro de la Academia Francesa.
+Jean Guénolé Marie Daniélou SJ (1905–1974), jesuita francés, padre del *ressourcement* y uno de los grandes patrólogos del siglo XX. Co-fundador —con Henri de Lubac y Víctor Mondésert— de la colección *Sources Chrétiennes* (1942), dedicada a las ediciones críticas de los Padres de la Iglesia. Autor de *Platonisme et théologie mystique* (1944) y de estudios sobre el simbolismo bíblico. Cardenal desde 1969, fue miembro de la Academia Francesa.
 
 ## Relevancia teológica
 

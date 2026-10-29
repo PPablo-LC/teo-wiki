@@ -7,7 +7,7 @@ description: "*María, José y la vida oculta de Jesús* es una recopilación de
 
 > Tipo: Recopilación de catequesis
 > Autor: [[juan_pablo_ii]]
-> Año: 1997 (Libreria Editrice Vaticana)
+> Año: 1997 (Librería Editrice Vaticana)
 > Código: **MJV**
 
 ## Identificación
@@ -19,7 +19,7 @@ description: "*María, José y la vida oculta de Jesús* es una recopilación de
 Consta de 10 catequesis:
 
 1. **El Avemaría, cántico de alabanza de la Iglesia** (2-X-1996) — La Visitación como preludio misionero; María como primera evangelista
-2. **El Magnificat, primicia de las expresiones de culto marianas** (6-XI-1996) — El cántico de María como respuesta a la Anunciación;humildad y misericordia de Dios
+2. **El Magníficat, primicia de las expresiones de culto marianas** (6-XI-1996) — El cántico de María como respuesta a la Anunciación;humildad y misericordia de Dios
 3. **La acción de la Virgen es el resultado de su plena disposición** (20-XI-1996) — El nacimiento de Jesús en Belén; la pobreza del nacimiento; los pastores como primeros evangelizados
 4. **María es la Madre del Verbo encarnado que es Dios** (27-XI-1996) — El título Theotókos; el Concilio de Éfeso (431); la controversia nestoriana
 5. **María acompañó al Hijo de Dios en su crecimiento humano** (4-XII-1996) — La misión educativa de María y José; Jesús sujeto a sus padres
@@ -38,7 +38,7 @@ Los temas centrales incluyen:
 - La **maternidad divina** (Theotókos) y su defensa en el Concilio de Éfeso contra Nestorio
 - La **cooperación de María en la Redención**, asociada a Cristo desde la profecía de Simeón
 - La **misión educativa** de María y José como modelo para todos los padres
-- El **Magnificat** como primicia del culto mariano
+- El **Magníficat** como primicia del culto mariano
 - La **esperanza** y la **fe** de María durante los treinta años de silencio en Nazaret
 - La **dignidad del trabajo** y de la vida doméstica
 - La **filiación divina** de Jesús manifestada en el episodio del Templo a los doce años

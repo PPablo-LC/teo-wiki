@@ -103,7 +103,7 @@ Mistero».
 
 **«Contro il dubbio, per la ragione»** (03; publicado como *De
 Juventute*): la diferencia entre ser adulto y ser joven; el **scopo** y
-el **ideale** frente a la **utopia** y el **sogno**; el **cuore** como
+el **ideale** frente a la **utopía** y el **sogno**; el **cuore** como
 exigencia de verdad, belleza, justicia y felicidad; «Dio = Ideale»; la
 **certeza** frente a la **violenza**; los dos tipos humanos (el
 anarquista y el hombre de sentido religioso); el papel de la **compañía**.
@@ -164,7 +164,7 @@ cotidiano».
 **educación a la fuerza moral** tiene cinco consecuencias: la falta de
 **responsabilidad** (ser «respuesta»), la **falsa personalidad**
 («ipertrofia dell'istinto di difesa», De Greeff) frente a la **vera
-personalità** (istinto di simpatia), etc.; sin el coraje de reconocer la
+personalità** (istinto di simpatía), etc.; sin el coraje de reconocer la
 **Presenza** todo se vuelve efímero y las cosas se poseen de modo
 instrumentalizante.
 

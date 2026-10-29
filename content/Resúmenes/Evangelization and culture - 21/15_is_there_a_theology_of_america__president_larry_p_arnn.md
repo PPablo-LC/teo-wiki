@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Is There a Theology of America? — President Larry P. Arnn"
+title: "Is There a Theology of América? — President Larry P. Arnn"
 fuente: Evangelization and culture - 21
 capítulo: 15
 timestamp: 2026-09-09
-description: "Resumen de 'Is There a Theology of America? — President Larry P. Arnn' — Evangelization and culture - 21"
+description: "Resumen de 'Is There a Theology of América? — President Larry P. Arnn' — Evangelization and culture - 21"
 tags: ["resumen", "evangelization and culture - 21"]
 ---
 
-# Is There a Theology of America? — President Larry P. Arnn
+# Is There a Theology of América? — President Larry P. Arnn
 
 ## Conceptos básicos referenciados
 

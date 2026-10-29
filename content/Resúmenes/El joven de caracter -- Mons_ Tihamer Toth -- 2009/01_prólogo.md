@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "PRÓLOGO"
-fuente: El joven de caracter -- Mons_ Tihamer Toth -- 2009
+fuente: El joven de carácter -- Mons_ Tihamer Toth -- 2009
 capítulo: 1
 timestamp: 2026-08-16
 description: "Resumen del prólogo de El joven de carácter: biografía de Mons. Tihámer Tóth y su carta de presentación al joven lector."

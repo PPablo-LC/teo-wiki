@@ -25,7 +25,7 @@ Pierina representa la continuación del martirio de la pureza en la sociedad ind
 
 ### Según Ritratti di santi (RdS)
 
-El capítulo 11 (S. Maria Goretti) cita el texto laicista que la incluye entre los ejemplos deprecativos: la autora narraba que Pierina, de 16 años e inscrita en la Gioventù Femminile di Azione Cattolica, había asistido en 1947 a la canonización de Maria Goretti, de la que se la escuchó decir «¡Che bello morire come Maria Goretti!» — frase que repetía a sus amigas ante el retrato de Maria colgado en su habitación y en la fábrica — y que un día «a qualcuno viene in mente di provarci. Respinto, la uccide a colpi di pietre in testa». El autor ironizaba: «È in corso il processo di beatificazione. Sarà probabilmente lei — martire operaia — la nuova Maria Goretti della società industriale».
+El capítulo 11 (S. María Goretti) cita el texto laicista que la incluye entre los ejemplos deprecativos: la autora narraba que Pierina, de 16 años e inscrita en la Gioventù Femminile di Azione Cattolica, había asistido en 1947 a la canonización de María Goretti, de la que se la escuchó decir «¡Che bello morire come María Goretti!» — frase que repetía a sus amigas ante el retrato de María colgado en su habitación y en la fábrica — y que un día «a qualcuno viene in mente di provarci. Respinto, la uccide a colpi di pietre in testa». El autor ironizaba: «È in corso il processo di beatificazione. Sarà probabilmente lei — martire operaia — la nuova María Goretti della società industriale».
 
 «L'unica cosa che il nostro autore non ha previsto è che il Papa avrebbe beatificato... non *una* 'vergine e martire', ma *due*», Pierina Morosini y Antonia Mesina, juntas.
 
@@ -43,5 +43,5 @@ El capítulo sitúa a Pierina (con Goretti y Mesina) en la «beatitudine dei pur
 
 ## Referencias
 
-- RdS, cap. 11 «S. Maria Goretti» (`11_s_maria_goretti.md`)
+- RdS, cap. 11 «S. María Goretti» (`11_s_maria_goretti.md`)
 - Discurso de Juan Pablo II en la beatificación de Pierina Morosini y Antonia Mesina, 4-X-1987 (citado en RdS 11)

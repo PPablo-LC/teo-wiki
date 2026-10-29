@@ -23,9 +23,9 @@ Beckwith encarna la figura del *revert* («converso que retorna») que la teolog
 
 ### Según EAC-18 — Word on Fire Institute
 
-**Francis J. Beckwith** («Reversion», 15_feature_beckwith.md) narra su propio camino:
+**Francis J. Beckwith** («Reversión», 15_feature_beckwith.md) narra su propio camino:
 
-- **La salida hacia el evangelicalismo**: a finales de 1973, alrededor de su decimotercer cumpleaños, se sintió atraído al mundo del protestantismo evangélico a través de Maranatha House, una iglesia de los *Jesus People* en Las Vegas.
+- **La salida hacia el evangelicalismo**: a finales de 1973, alrededor de su decimotercer cumpleaños, se sintió atraído al mundo del protestantismo evangélico a través de Maranatha House, una iglesia de los *Jesús People* en Las Vegas.
 - **La *ecclesia domestica* y una catequesis deficiente**: recibió la Primera Comunión en 1968 y la Confirmación cinco años después, y estudió en escuelas católicas. Advierte contra explicar toda apostasía posconciliar por la «mala catequesis»: «Judas, después de todo, no careció de un catequista estelar. *Cave explicationes simplices*». Fue el ejemplo de sus padres como católicos ordinarios, observantes y caritativos lo que lo mantuvo atado a la fe ([[iglesia_doméstica]], CEC 1656).
 - **Las semillas de Fordham**: estudió a Santo Tomás con Norman Geisler (tomista evangélico) y en Fordham con W. Norris Clarke, SJ, y a San Agustín con Gerald McCool, SJ. Un profesor escribió en 2009: «Le dije que te encontraba un verdadero cristiano y que, con el tiempo, la gracia te traerá de regreso a nuestra Iglesia».
 - **Las cuatro cuestiones y Carl Trueman**: solo le impedían volver a la plena comunión la [[penitencia]], la [[eucaristía]], la [[sucesión_apostólica]] y la doctrina de la [[justificación]]. El punto de inflexión fue Carl Trueman: «Roma tiene mejor derecho a la continuidad histórica y a la unidad institucional que cualquier denominación protestante… no ser católico debería ser un acto positivo de voluntad y compromiso». Una semana después de su confesión —la primera en unos treinta años— renunció como presidente de la ETS.
@@ -38,4 +38,4 @@ Beckwith encarna la figura del *revert* («converso que retorna») que la teolog
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Francis J. Beckwith, 15_feature_beckwith.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Francis J. Beckwith, 15_feature_beckwith.md).

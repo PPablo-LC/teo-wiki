@@ -60,7 +60,7 @@ El fundamento teológico de la formación humana en la espiritualidad legionaria
 
 ### Según la Evangelization & Culture, Issue 12 (EAC-12)
 
-Jackie François Angel («The Art of Evangelizing the Modern Teenager») amplía la formación humana más allá del ámbito sacerdotal hacia la pastoral juvenil: la evangelización de los adolescentes exige «una formación humana que puede entenderse en términos de la integración básica de toda la persona —cuerpo, mente, corazón y alma—» al servicio de una vida «sana y santa» [EAC-12, 23]. La clave es que la formación humana precede o acompaña inseparablemente a la formación espiritual:
+Jackie François Ángel («The Art of Evangelizing the Modern Teenager») amplía la formación humana más allá del ámbito sacerdotal hacia la pastoral juvenil: la evangelización de los adolescentes exige «una formación humana que puede entenderse en términos de la integración básica de toda la persona —cuerpo, mente, corazón y alma—» al servicio de una vida «sana y santa» [EAC-12, 23]. La clave es que la formación humana precede o acompaña inseparablemente a la formación espiritual:
 
 > «Parte de la evangelización es el concepto fundacional de sanar a toda la persona de las heridas que con frecuencia impiden vivir vidas de libertad, paz y gozo. Jesús, médico divino, vino a poner en libertad a los cautivos.» [EAC-12, 23]
 

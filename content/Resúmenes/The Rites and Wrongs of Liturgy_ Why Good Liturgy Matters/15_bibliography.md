@@ -27,7 +27,7 @@ La bibliografía recoge las fuentes consultadas por el autor, Thomas O'Loughlin,
 - **Antropología y ritual:** Combs-Schilling (*Sacred Performances*), Connerton (*How Societies Remember*), Eliade (*Myths, Dreams and Mysteries*), Rothenbuhler (*Ritual Communication*), Turner (*The Ritual Process*).
 - **Filosofía y teología:** Küng (*My Struggle for Freedom*), Lewis (*The Four Loves*), Otto (*The Idea of the Holy*), Marx ("The Communism of the Paper Rheinischer Beobachter").
 - **Estudios bíblicos y eucarísticos:** McRae ("Eating with Honor"), Penn ("Performing Family"), Schneiders ("The Foot Washing"), Susai Raj ("Dalits at the Eucharistic Table"), Woolley (*The Bread of the Eucharist*).
-- **Otros estudios de O'Loughlin:** "Building Community, Celebrating Liturgy", "Divisions in Christianity", "Eucharistic Celebrations: The Chasm between Idea and Reality", "The 'Eucharistic Words of Jesus'", "How many priests do we need?", "Introducing a liturgy", "Sharing Food and Breaking Boundaries", "Treating the 'Private Mass' as Normal".
+- **Otros estudios de O'Loughlin:** "Building Community, Celebrating Liturgy", "Divisions in Christianity", "Eucharistic Celebrations: The Chasm between Idea and Reality", "The 'Eucharistic Words of Jesús'", "How many priests do we need?", "Introducing a liturgy", "Sharing Food and Breaking Boundaries", "Treating the 'Private Mass' as Normal".
 - **Geografía y participación:** Brody (*Maps and Dreams*), Panek ("From Mental Maps to GeoParticipation").
 
 ## Secciones incluidas

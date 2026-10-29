@@ -40,13 +40,13 @@ tags: ["resumen", "caridad", "comunione_e_liberazione", "iglesia", "gratuidad"]
 
 ## Consecuencias (I): la atención a la persona
 
-- «La carità è legge dell'essere e viene prima di ogni simpatia e di ogni commozione»; por eso el hacer por los otros es «nudo e può essere privo di entusiasmo». «L'unico atteggiamento “concreto” è l'attenzione alla persona […] cioè *l'amore*»; lo demás viene después, como Jesús, que *dopo* hizo los milagros.
+- «La carità è legge dell'essere e viene prima di ogni simpatía e di ogni commozione»; por eso el hacer por los otros es «nudo e può essere privo di entusiasmo». «L'unico atteggiamento “concreto” è l'attenzione alla persona […] cioè *l'amore*»; lo demás viene después, como Jesús, que *dopo* hizo los milagros.
 - Dos puntos de partida *non chiari*: (1) **sovvenire ai bisogni** — incompleto, pues el verdadero bisogno «non lo so io, non lo misuro io, non ce l'ho io […] è una misura che sta in Dio»; las «leggi» y «giustizie» pueden aplastar a la persona. (2) **l'amicizia** — incompleta: «una corrispondenza che si può trovare o no, un avvenimento non essenziale per la nostra azione di oggi, anche se essenziale per il nostro destino finale».
 
 ## Consecuencias (II): Cristo, sentido de la vida
 
 - «Si capisce facendo!»: amar hace descubrir que «proprio perché li amiamo, *non siamo noi a farli contenti*»; ni la sociedad más perfecta, ni la riqueza, la salud, la belleza o la civilización los harán contentos. «È un Altro che li può fare contenti […] Dio».
-- Entonces «io scopro che Cristo è il senso della mia vita»; ya no es solo la luz de la mente, sino el sentido. El testimonio: «Io continuo ad andare in caritativa perché tutta la mia e la loro sofferenza hanno un senso». «Sperando in Cristo, tutto ha un senso: Cristo».
+- Entonces «io scopro che Cristo è il senso della mía vita»; ya no es solo la luz de la mente, sino el sentido. El testimonio: «Io continuo ad andare in caritativa perché tutta la mía e la loro sofferenza hanno un senso». «Sperando in Cristo, tutto ha un senso: Cristo».
 - En la impotencia final del amor «l'intelligenza affonda nella saggezza, nella cultura vera».
 
 ## Consecuencias (III): Cristo presente en la Iglesia

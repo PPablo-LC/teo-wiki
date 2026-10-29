@@ -25,6 +25,10 @@ El gozo cristiano no depende de las circunstancias exteriores, sino de la inhabi
 
 El CEC menciona la alegría como consecuencia de la fe en la Providencia divina (§301). La bienaventuranza cristiana es la felicidad del hombre que consiste en conocer, servir y amar a Dios (§1720-1724). Los frutos del Espíritu Santo son primicias de la gloria eterna (§1832). David es presentado como modelo de oración: su alabanza es confianza cordial y gozosa (§2579). El Magníficat de María es cántico de acción de gracias y de gozo espiritual (§2619-2622).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Gozo»] La revelación del Dios creador y salvador provoca en el hombre un gozo desbordante, desde las alegrías legítimas de la vida hasta el gozo de la alianza expresado en el culto comunitario. En el NT, Jesús es la fuente del gozo mesiánico; el gozo es fruto del Espíritu Santo (Gal 5,22) y nota característica del reino de Dios (Rom 14,17). El gozo cristiano, lejos de ser incompatible con la cruz, se realiza precisamente en la participación de los sufrimientos de Cristo (1Pe 4,13).
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás distingue el gozo (*gaudium*) de la delectación (*delectatio*): el gozo es la delectación espiritual que sigue a la razón, mientras que la delectación puede ser también corporal (q.31 a.3). El gozo reside en el apetito intelectivo (la voluntad), no en el apetito sensitivo, y no implica mutación corporal (q.31 a.4). Es el reposo en el bien poseído, pasión del concupiscible.
@@ -47,10 +51,6 @@ En cuanto a su moralidad, no toda delectación es buena ni toda es mala: la bond
 Royo Marín trata el gozo principalmente como fruto del Espíritu Santo. La contemplación infusa produce un gozo inefable, «una elevación y una suspensión del espíritu en Dios que es un anticipo de las dulces alegrías eternas». El gozo espiritual es señal de que la gracia actúa en el alma. Los santos experimentan un gozo profundo incluso en medio del dolor, porque su alegría no está en las criaturas sino en Dios. Las alimas que viven la presencia de Dios gozan de una paz y un gozo estables.
 
 [TPCr, Tercera Parte, Libro II, Cap. 3; referencias sobre el gozo espiritual]
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Gozo»] La revelación del Dios creador y salvador provoca en el hombre un gozo desbordante, desde las alegrías legítimas de la vida hasta el gozo de la alianza expresado en el culto comunitario. En el NT, Jesús es la fuente del gozo mesiánico; el gozo es fruto del Espíritu Santo (Gal 5,22) y nota característica del reino de Dios (Rom 14,17). El gozo cristiano, lejos de ser incompatible con la cruz, se realiza precisamente en la participación de los sufrimientos de Cristo (1Pe 4,13).
 
 ### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
 
@@ -84,7 +84,7 @@ de una presencia comunicativa» (03, 169).
 uno de vosotros esta mañana, nuestra vida debe realizarse no como éxito, sino como verdad.
 Aquí está el verdadero éxito: “¿Acaso el fin de la vida es vivir? […] No vivir, sino
 morir, y dar con alegría lo que tenemos. Aquí está el gozo, la libertad, la gracia, la
-juventud eterna!”» (P. Claudel, *L'Annuncio a Maria*; 00, 93).
+juventud eterna!”» (P. Claudel, *L'Annuncio a María*; 00, 93).
 
 ## Distinciones importantes
 

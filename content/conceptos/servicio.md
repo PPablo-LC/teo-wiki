@@ -5,7 +5,7 @@ description: "El acto de ayudar o asistir al prójimo por amor a Dios, considera
 ---
 # Servicio
 
-> Area: Moral
+> Área: Moral
 > Ultima actualización: 2026-06-03
 
 ## Definición
@@ -14,20 +14,20 @@ El acto de ayudar o asistir al prójimo por amor a Dios, considerado en la tradi
 
 ## Desarrollo doctrinal
 
-El servicio (diakonia) es una dimension esencial de la vida cristiana. Jesus lava los pies a sus discípulos como ejemplo de servicio humilde (Jn 13,1-17). El servicio cristiano no es mera filantropia sino expresión de la caridad sobrenatural. La tradición distingue entre las obras de misericordia corporales y espirituales como formas concretas de servicio. El servicio es a la vez un don del Espíritu Santo (carisma de servicio) y un deber de todo cristiano. Implica humildad, desinterés y la disposición a anteponer el bien del prójimo al propio.
+El servicio (diakonia) es una dimensión esencial de la vida cristiana. Jesús lava los pies a sus discípulos como ejemplo de servicio humilde (Jn 13,1-17). El servicio cristiano no es mera filantropia sino expresión de la caridad sobrenatural. La tradición distingue entre las obras de misericordia corporales y espirituales como formas concretas de servicio. El servicio es a la vez un don del Espíritu Santo (carisma de servicio) y un deber de todo cristiano. Implica humildad, desinterés y la disposición a anteponer el bien del prójimo al propio.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo enseña que Cristo asocia a los suyos a su servicio. Los laicos participan del triple oficio de Cristo: sacerdotal, profetico y real, ejerciendo el servicio real mediante el dominio de las pasiones y el servicio a los demás (§783, 898). La enseñanza social de la Iglesia desarrolla el principio del servicio al bien común como base de la vida social.
+El Catecismo enseña que Cristo asocia a los suyos a su servicio. Los laicos participan del triple oficio de Cristo: sacerdotal, profético y real, ejerciendo el servicio real mediante el dominio de las pasiones y el servicio a los demás (§783, 898). La enseñanza social de la Iglesia desarrolla el principio del servicio al bien común como base de la vida social.
 
 ### Según el análisis de conferencias para varones (notas)
 
 > **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
 - John Wissler (leading_with_charity.md) desarrolla el servicio como «servicio de combate» y «servicio de apoyo», distinguiendo entre el servicio inmediato (al que se ve) y el servicio diferido (al que no se ve), en el contexto militar.
-- Christian Bobak (men_of_integrity.md) conecta el servicio con la integridad y el proposito eterno.
+- Christian Bobak (men_of_integrity.md) conecta el servicio con la integridad y el propósito eterno.
 - Brian Cochran (my_personal_emmaus.md) explora el servicio como camino de encuentro personal con Cristo.
 
 ### Según la *Redemptor Hominis* (RH)

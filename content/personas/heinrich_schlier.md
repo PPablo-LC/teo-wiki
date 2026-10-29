@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: "Heinrich Schlier"
-description: "Heinrich Schlier (1900–1978), exegeta alemán, protestante convertido al catolicismo; autor de «Linee fondamentali di una teologia paolina», citado en QT4 sobre el conocimiento como acogida."
+description: "Heinrich Schlier (1900–1978), exegeta alemán, protestante convertido al catolicismo; autor de «Linee fondamentali di una teología paolina», citado en QT4 sobre el conocimiento como acogida."
 tags:
   - personas
   - exégesis
@@ -61,5 +61,5 @@ nace así más de la **gratitud** que de la filosofía.
 
 ## Referencias
 
-- Schlier, Heinrich. *Linee fondamentali di una teologia paolina*. Brescia, Queriniana.
+- Schlier, Heinrich. *Linee fondamentali di una teología paolina*. Brescia, Queriniana.
 - QT4, *Quasi Tischreden*, vol. 4, cap. 11.

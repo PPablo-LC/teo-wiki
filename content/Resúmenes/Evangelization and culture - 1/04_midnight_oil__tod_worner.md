@@ -21,7 +21,7 @@ tags: ["resumen", "evangelización", "belleza", "lectura", "vida_espiritual"]
 
 ### ¿Por qué otra revista católica?
 
-El panorama de publicaciones católicas es vasto (Magnificat, Commonweal, America, etc.). Evangelization & Culture es extensión natural del trabajo de Word on Fire.
+El panorama de publicaciones católicas es vasto (Magníficat, Commonweal, América, etc.). Evangelization & Culture es extensión natural del trabajo de Word on Fire.
 
 **Tres grupos objetivo:**
 1. Miembros del Word on Fire Institute

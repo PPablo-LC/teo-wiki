@@ -31,7 +31,7 @@ El obispo [[robert_barron]] ofrece esta ponencia como discurso inaugural del Con
 
 ### La obediencia al mandato eucarístico
 
-Barron cita a mons. Ronald Knox: casi todos los mandatos de Jesús han sido deshonrados — «Amen a sus enemigos», «Bendigan a los que los maldicen», «No juzguen»— pero extrañamente hay un mandato que hemos obedecido consistentemente: «Hagan esto en memoria mía» a pesar de nuestros pecados y estupideces. Hemos sabido por un instinto muy profundo lo indispensable que es la [[eucaristía]].
+Barron cita a mons. Ronald Knox: casi todos los mandatos de Jesús han sido deshonrados — «Amén a sus enemigos», «Bendigan a los que los maldicen», «No juzguen»— pero extrañamente hay un mandato que hemos obedecido consistentemente: «Hagan esto en memoria mía» a pesar de nuestros pecados y estupideces. Hemos sabido por un instinto muy profundo lo indispensable que es la [[eucaristía]].
 
 ### La plenitud de las palabras de Jesús
 

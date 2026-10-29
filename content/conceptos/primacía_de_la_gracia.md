@@ -17,7 +17,7 @@ La **primacía de la gracia** es el principio según el cual, en toda la econom�
 
 ## Desarrollo doctrinal
 
-El principio tiene raíz bíblica. San Juan lo formula con nitidez: «No es que nosotros hayamos amado a Dios, sino que Él nos amó primero» (1 Jn 4,10); y Jesús recuerda a sus discípulos: «No me elegisteis vosotros a mí, sino que yo os elegí a vosotros» (Jn 15,16). San Pablo lo aplica a la justificación: «Por gracia habéis sido salvados mediante la fe; y esto no viene de vosotros, pues es don de Dios; no viene de las obras, para que nadie se gloríe» (Ef 2,8-9).
+El principio tiene raíz bíblica. San Juan lo fórmula con nitidez: «No es que nosotros hayamos amado a Dios, sino que Él nos amó primero» (1 Jn 4,10); y Jesús recuerda a sus discípulos: «No me elegisteis vosotros a mí, sino que yo os elegí a vosotros» (Jn 15,16). San Pablo lo aplica a la justificación: «Por gracia habéis sido salvados mediante la fe; y esto no viene de vosotros, pues es don de Dios; no viene de las obras, para que nadie se gloríe» (Ef 2,8-9).
 
 La tradición patrística y la doctrina católica lo defendieron frente al pelagianismo y al semipelagianismo: la gracia no solo corona el esfuerzo humano, sino que lo suscita. El Concilio de Trento enseñó que la justificación es gratuita y que la preparación misma para ella procede de la gracia preveniente. El Catecismo lo resume: «La preparación del hombre para acoger la gracia es ya una obra de la gracia» (§2001), y «la iniciativa divina en la obra de la gracia previene, prepara y suscita la respuesta libre del hombre» (§2022).
 

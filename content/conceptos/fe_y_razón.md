@@ -23,16 +23,6 @@ San Pablo enseña que «los atributos invisibles de Dios se hacen visibles al en
 
 ## Perspectivas por fuente
 
-### Según Pinckaers (FMC)
-
-Pinckaers aborda la relación entre fe y razón desde la perspectiva de la moral cristiana. La fe es la fuente de la moral cristiana (FMC cap. V): san Pablo confronta el Evangelio con la sabiduría griega (razón filosófica) y la justicia judía (ley), mostrando que la fe en Cristo supera a ambas sin negarlas.
-
-En la controversia sobre la especificidad de la moral cristiana (FMC cap. IV), Pinckaers defiende que la razón natural puede conocer principios morales universales, pero la fe revela el fin sobrenatural y transforma el obrar desde dentro. La renovación tomista del siglo XX (FMC cap. XIII) buscó reintegrar la razón filosófica al servicio de la teología moral, superando la separación moderna entre fe y razón.
-
-Santo Tomás (FMC cap. IX) integra la ética aristotélica en la moral cristiana: la razón prepara el terreno para la fe, y la fe asume y perfecciona las virtudes humanas. La Ley nueva es principalmente gracia del Espíritu Santo, pero se expresa también en palabras y escritos (elementos secundarios) que incluyen la enseñanza racional y los preceptos.
-
-[FMC caps. V, IV:1, IX:3, XIII:2]
-
 ### Según el Catecismo (CEC)
 
 El Catecismo enseña que «el hombre está dispuesto por naturaleza a conocer la verdad y desea conocerla» (§154). La fe es «razonable» (§156-159): «La fe y la ciencia se apoyan mutuamente, porque, como enseñan las Sagradas Escrituras, la ciencia viene de Dios» (§159).
@@ -50,6 +40,16 @@ Royo Marín, en la Introducción General de su obra, expone la relación entre f
 La teología utiliza la razón para explicar, desarrollar y defender los misterios de la fe. La razón iluminada por la fe alcanza un conocimiento más profundo de las verdades reveladas.
 
 [TPCr, Introducción General]
+
+### Según Pinckaers (FMC)
+
+Pinckaers aborda la relación entre fe y razón desde la perspectiva de la moral cristiana. La fe es la fuente de la moral cristiana (FMC cap. V): san Pablo confronta el Evangelio con la sabiduría griega (razón filosófica) y la justicia judía (ley), mostrando que la fe en Cristo supera a ambas sin negarlas.
+
+En la controversia sobre la especificidad de la moral cristiana (FMC cap. IV), Pinckaers defiende que la razón natural puede conocer principios morales universales, pero la fe revela el fin sobrenatural y transforma el obrar desde dentro. La renovación tomista del siglo XX (FMC cap. XIII) buscó reintegrar la razón filosófica al servicio de la teología moral, superando la separación moderna entre fe y razón.
+
+Santo Tomás (FMC cap. IX) integra la ética aristotélica en la moral cristiana: la razón prepara el terreno para la fe, y la fe asume y perfecciona las virtudes humanas. La Ley nueva es principalmente gracia del Espíritu Santo, pero se expresa también en palabras y escritos (elementos secundarios) que incluyen la enseñanza racional y los preceptos.
+
+[FMC caps. V, IV:1, IX:3, XIII:2]
 
 ### Según la *Fides et Ratio* (FR)
 
@@ -111,7 +111,7 @@ La razón es «el faro que ilumina todo» hasta el límite de lo que puede alcan
 
 ### Giussani — All'origine della pretesa cristiana (ODPC)
 
-ODPC es la obra de la razonabilidad del hecho cristiano: «ho voluto esprimere la ragione per cui un uomo può credere a Cristo: la profonda corrispondenza umana e ragionevole delle sue esigenze con l'avvenimento dell'uomo Gesù di Nazareth» (Prefación). La razón no puede excluir de antemano la revelación: sería «l'ultima estrema forma di idolatria, un gesto supremo di irrazionalidad» ([[exigencia_de_revelación]]); la fe, a su vez, apela constantemente a la inteligencia: «l'accesso dell'intelligenza a una verità... il sì dell'intelligenza convinta» (Tresmontant); los Evangelios bendicen a los que con un mínimo indicio alcanzan una gran verdad (Rousselot) ([[certeza]]). La razón que se cierra al nuevo hecho repite la dialéctica de Jn 8: «se in luogo della parola «Abramo» ci fosse la parola «ragione», e invece dei Farisei «gli intellettuali», tutta la dialettica sarebbe perfettamente applicabile alla tensione fede-cultura mondana propria dei nostri giorni». Y el «dogma» moderno de la división entre fe y realidad mundana es «l'ultima latitudine cui si può spingere la pretesa idolátrica» — la prohibición infantil a Dios de intervenir en la vida.
+ODPC es la obra de la razonabilidad del hecho cristiano: «ho voluto esprimere la ragione per cui un uomo può credere a Cristo: la profonda corrispondenza umana e ragionevole delle sue esigenze con l'avvenimento dell'uomo Gesù di Nazareth» (Prefación). La razón no puede excluir de antemano la revelación: sería «l'ultima estrema forma di idolatría, un gesto supremo di irrazionalidad» ([[exigencia_de_revelación]]); la fe, a su vez, apela constantemente a la inteligencia: «l'accesso dell'intelligenza a una verità... il sì dell'intelligenza convinta» (Tresmontant); los Evangelios bendicen a los que con un mínimo indicio alcanzan una gran verdad (Rousselot) ([[certeza]]). La razón que se cierra al nuevo hecho repite la dialéctica de Jn 8: «se in luogo della parola «Abramo» ci fosse la parola «ragione», e invece dei Farisei «gli intellettuali», tutta la dialettica sarebbe perfettamente applicabile alla tensione fede-cultura mondana propria dei nostri giorni». Y el «dogma» moderno de la división entre fe y realidad mundana es «l'ultima latitudine cui si può spingere la pretesa idolátrica» — la prohibición infantil a Dios de intervenir en la vida.
 
 ### Giussani — Perché la Chiesa (PLDC)
 
@@ -121,7 +121,7 @@ PLDC aplica la razonabilidad a la Iglesia misma (Parte I, cap. 2 y Parte IV): la
 
 En los ejercicios de 1994, Giussani aborda la relación fe-razón a través de la crítica de Chesterton a la razón autónoma:
 
-- **La razón desligada como «locura»**: citando a Chesterton (*Ortodossia*), «Il pazzo non è già l'uomo che ha perduto la ragione, ma l'uomo che ha perduto tutto fuor che la ragione»; el cardenal Colombo comenta: «se la ragione si slega dal resto e si proclama indipendente, allora, si mette a girare per suo conto» y no refleja «l'unità tra tutte le cose, né l'unità delle cose: nessuno scopo è più indicato» (02, 77). La razón, «coscienza della realtà secondo la totalità dei suoi fattori» (Giussani, *Il senso di Dio e l'uomo moderno*, 02, 77), si proclama independiente → «o riduce tutto a materia… o riduce tutto a teoria, a spirito: materialismo o idealismo» (02, 77).
+- **La razón desligada como «locura»**: citando a Chesterton (*Ortodossia*), «Il pazzo non è già l'uomo che ha perduto la ragione, ma l'uomo che ha perduto tutto fuor che la ragione»; el cardenal Colombo comenta: «se la ragione si slega dal resto e si proclama indipendente, allora, si mette a girare per suo conto» y no refleja «l'unità tra tutte le cose, né l'unità delle cose: nessuno scopo è più indicato» (02, 77). La razón, «coscienza della realtà secondo la totalità dei suoi fattori» (Giussani, *Il senso di Dio e l'uomo moderno*, 02, 77), si proclama independiente → «o riduce tutto a materia… o riduce tutto a teoría, a spirito: materialismo o idealismo» (02, 77).
 
 - **La fe como acto que completa a la razón**: la razón es «il faro che illumina tutto» hasta su límite, pero no es «l'ultimo muro di contenzione: c'è qualcosa di più» (AED, 29, 63-67). En TACDC, la fe no contradice la razón porque «la realtà in sua pienezza è segno di una Presenza che la supera» (AED, 17, 225). El reconocimiento de Cristo es «semplice» precisamente porque corresponde a la totalidad de los factores de la experiencia (03, 35).
 

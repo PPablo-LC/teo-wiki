@@ -39,4 +39,4 @@ Cording es presentado en EAC-18 como el poeta invitado del número: su ensayo «
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Robert Cording, 17_special_feature_cording.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Robert Cording, 17_special_feature_cording.md).

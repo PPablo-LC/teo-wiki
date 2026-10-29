@@ -35,7 +35,7 @@ El Papa Pío IX, tras consultar a los obispos de todo el mundo (que respondieron
 
 ### Scott Hahn (The Bible and the Virgin Mary)
 
-El curso BMV (lecciones 8 y 9) presenta *Ineffabilis Deus* como la explicitación dogmática del saludo «llena de gracia» (Lc 1,28) y del tipo de la mujer de Ap 12,1: la plenitud de gracia implica la ausencia total de pecado desde el primer instante. La definición no añade «piedad» a la Escritura sino que formula lo que la Escritura ya contenía en clave tipológica.
+El curso BMV (lecciones 8 y 9) presenta *Ineffabilis Deus* como la explicitación dogmática del saludo «llena de gracia» (Lc 1,28) y del tipo de la mujer de Ap 12,1: la plenitud de gracia implica la ausencia total de pecado desde el primer instante. La definición no añade «piedad» a la Escritura sino que fórmula lo que la Escritura ya contenía en clave tipológica.
 
 ## Distinciones importantes
 

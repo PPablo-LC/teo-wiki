@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "Capítulo II Obstáculos en la formación del carácter"
-fuente: El joven de caracter -- Mons_ Tihamer Toth -- 2009
+fuente: El joven de carácter -- Mons_ Tihamer Toth -- 2009
 capítulo: 3
 timestamp: 2026-08-16
 description: "Resumen del Capítulo II de El joven de carácter: los obstáculos en la formación del carácter (pasión dominante, mal humor, suerte, éxito y dinero)."

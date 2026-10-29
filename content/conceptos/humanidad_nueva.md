@@ -53,7 +53,7 @@ transforma el mundo en el que vive.
 ## Distinciones importantes
 
 - **Humanidad nueva vs. ideal abstracto**: no es un programa, es una tensión.
-- **Humanidad nueva vs. vida_quotidiana**: la tension no está en el lugar
+- **Humanidad nueva vs. vida_quotidiana**: la tensión no está en el lugar
   extraordinario, sino en el gesto ordinario.
 - **Humanidad nueva vs. hombre nuevo**: el «hombre nuevo» es una conciencia;
   la humanidad nueva es su expansión en la sociedad.

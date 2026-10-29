@@ -4,7 +4,7 @@ title: "LA CRUZ SE OTEA YA EN EL HORIZONTE"
 fuente: Vida de Jesus - San Juan Pablo II
 capítulo: 12
 timestamp: 2026-08-24
-description: "Resumen de 'LA CRUZ SE OTEA YA EN EL HORIZONTE' — Vida de Jesus - San Juan Pablo II"
+description: "Resumen de 'LA CRUZ SE OTEA YA EN EL HORIZONTE' — Vida de Jesús - San Juan Pablo II"
 tags: ["resumen", "vida de jesus - san juan pablo ii"]
 ---
 

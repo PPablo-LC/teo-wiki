@@ -67,4 +67,4 @@ Aunque no era apóstol ni testigo ocular, Lucas compiló testimonios de testigos
 
 - Lc 1,1-4; Col 4,10-14; Hech 16,10
 - Ireneo, *Contra las Herejías* 1.1.1
-- *The Case for Jesus* (CfJ), Sesiones 1 y 3
+- *The Case for Jesús* (CfJ), Sesiones 1 y 3

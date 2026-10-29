@@ -23,7 +23,7 @@ El moralismo aparece también cuando se concibe la vida moral como un puro esfue
 
 ### Giussani — Affezione e dimora (AED)
 
-En la Tischrede 82 se formula la crítica del moralismo: «¿Amas el sacrificio? Pero ¿qué es un sacrificio? Es absurdo desear un sacrificio; nunca hay en el vocabulario cristiano “amar el sacrificio”, “desear el sacrificio” —¡esto es moralismo repugnante!—, sino “amar lo verdadero”, “aspirar a lo verdadero”» (AED, 18, 143-145). Y añade: «se desea afirmar al otro, se desea el amor, no el sacrificio» (AED, 18, 145). El sacrificio se inserta en la lógica del amor: se desea lo verdadero, y la exigencia del verdadero puede pedir el sacrificio (AED, 18, 147-149).
+En la Tischrede 82 se fórmula la crítica del moralismo: «¿Amas el sacrificio? Pero ¿qué es un sacrificio? Es absurdo desear un sacrificio; nunca hay en el vocabulario cristiano “amar el sacrificio”, “desear el sacrificio” —¡esto es moralismo repugnante!—, sino “amar lo verdadero”, “aspirar a lo verdadero”» (AED, 18, 143-145). Y añade: «se desea afirmar al otro, se desea el amor, no el sacrificio» (AED, 18, 145). El sacrificio se inserta en la lógica del amor: se desea lo verdadero, y la exigencia del verdadero puede pedir el sacrificio (AED, 18, 147-149).
 
 En la Tischrede 83 se subraya el primado del amor a una Presencia antes de todo sacrificio: «La actitud que inmediatamente hay que tener antes del sacrificio es el amor a una Presencia. Si no hay amor a esta Presencia, entonces —sacrificio pequeño, sacrificio grande— uno cae. En cambio, si hay amor a esta Presencia, uno está siempre listo: estote parati» (AED, 19, 123-125).
 

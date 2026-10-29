@@ -60,5 +60,5 @@ ha elegido es infinitamente grande y misericordioso».
 ## Referencias
 
 - [JPII, Muj 24: Beata Edith Stein, Ángelus 26-II-1995]
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).
 - EAC-22, *Evangelization & Culture, Issue 22 — Courage* (Winter 2024), Word on Fire Institute (01_from_the_desk.md; 17_feature_nguyen.md).

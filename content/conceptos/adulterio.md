@@ -33,7 +33,7 @@ Santo Tomás trata el adulterio en SmTh II-II q.154, aa.1-6, dentro de las parte
 
 Juan Pablo II dedica extensas catequesis al adulterio en su Teología del Cuerpo (catequesis 30-48). Analiza el «No cometerás adulterio» a la luz de la creación del hombre como varón y mujer, el significado esponsal del cuerpo y la lucha contra la concupiscencia. Cristo denuncia el adulterio del corazón: la mirada concupiscente reduce a la persona a objeto sexual, falsificando el signo de la alianza conyugal.
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 Sicari presenta el sexto mandamiento como «el más conocido» y hoy «el más
 banalizado y ridiculizado», y elige explicarlo a los hijos desde su

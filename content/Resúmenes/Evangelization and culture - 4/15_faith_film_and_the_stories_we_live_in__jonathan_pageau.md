@@ -19,7 +19,7 @@ tags: ["resumen", "evangelization_and_culture", "cine", "simbolismo"]
 
 ### La cuestión narrativa
 
-La cultura occidental ha visto un resurgimiento del storytelling — tras décadas del asalto ateísta postmoderno. Jordan Peterson ha sacudido el discurso secularista con su énfasis en la narrativa bíblica. Pageau plantea la pregunta: ¿será un retorno al cristianismo o solo un descubrimiento de la profundidad psicológica de las historias bíblicas? «No es suficiente reinterpretar la narrativa antigua; debemos guiar a nuestros detractores a la gran danza de nuestra liturgia, nuestro arte, nuestra arquitectura».
+La cultura occidental ha visto un resurgimiento del storytelling — tras décadas del asalto ateísta postmoderno. Jordán Peterson ha sacudido el discurso secularista con su énfasis en la narrativa bíblica. Pageau plantea la pregunta: ¿será un retorno al cristianismo o solo un descubrimiento de la profundidad psicológica de las historias bíblicas? «No es suficiente reinterpretar la narrativa antigua; debemos guiar a nuestros detractores a la gran danza de nuestra liturgia, nuestro arte, nuestra arquitectura».
 
 ### La Meta-Historia
 

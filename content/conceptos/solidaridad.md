@@ -83,7 +83,7 @@ En la base de esta tarea está el «sentido de la responsabilidad moral, que deb
 
 ### Según San Juan Pablo II (EA)
 
-El Capítulo V de *Ecclesia in America* está dedicado a la solidaridad como camino. «La solidaridad es fruto de la comunión que se funda en el misterio de Dios uno y trino, y en el Hijo de Dios encarnado y muerto por todos. Se expresa en el amor del cristiano que busca el bien de los otros, especialmente de los más necesitados» [EA §52].
+El Capítulo V de *Ecclesia in América* está dedicado a la solidaridad como camino. «La solidaridad es fruto de la comunión que se funda en el misterio de Dios uno y trino, y en el Hijo de Dios encarnado y muerto por todos. Se expresa en el amor del cristiano que busca el bien de los otros, especialmente de los más necesitados» [EA §52].
 
 Deriva para las Iglesias particulares «el deber de la recíproca solidaridad y de compartir sus dones espirituales y los bienes materiales» [EA §52]. Se ha de promover «una cultura de la solidaridad que incentive oportunas iniciativas de ayuda a los pobres y a los marginados, de modo especial a los refugiados» [EA §52].
 

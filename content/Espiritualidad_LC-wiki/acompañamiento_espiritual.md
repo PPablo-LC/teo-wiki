@@ -17,6 +17,9 @@ El **acompañamiento espiritual** es la ayuda personalizada que un cristiano (sa
 
 ## Perspectivas por fuente
 
+### Según TPCr (Royo Marín)
+
+- La dirección espiritual como medio de perfección: «no hay camino más seguro para la santidad que la obediencia a un director prudente y experimentado».
 ### Según ¡El amor es más fuerte! (LC-2015)
 
 - **P. Rafael Arumí**: «intensa y heroica dedicación diaria a la formación personalizada de cada legionario, muy especialmente por medio de la dirección espiritual» (cap. 13, §39).
@@ -37,9 +40,6 @@ El **acompañamiento espiritual** es la ayuda personalizada que un cristiano (sa
 - Estructurada en: dirección espiritual ordinaria, dirección extraordinaria, confesión frecuente, examen de conciencia.
 - El director espiritual como «padre, hermano, amigo» (CLC 1998, 301-304).
 
-### Según TPCr (Royo Marín)
-
-- La dirección espiritual como medio de perfección: «no hay camino más seguro para la santidad que la obediencia a un director prudente y experimentado».
 
 ## Distinciones importantes
 

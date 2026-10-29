@@ -25,13 +25,13 @@ El término bendición (*benedictio*, del latín *bene dicere* = decir bien) tie
 
 El CEC trata la bendición en los §§1669-1673 como parte de los sacramentales. Señala que la Iglesia instituyó los sacramentales para santificar diversas circunstancias de la vida (CEC §1668). Las bendiciones son alabanza a Dios y oración por su protección (CEC §1671). Incluyen tanto la bendición de personas (abades, vírgenes, enfermos) como de objetos (casas, vehículos, instrumentos de trabajo) destinados al culto o al uso cotidiano. La bendición eucarística es una prolongación del culto eucarístico fuera de la Misa (CEC §1378-1379).
 
+### Según el CIC
+
+El c. 1169 establece que pueden impartir bendiciones los presbíteros y diáconos, y que las bendiciones constitutivas (como la dedicación de iglesias) corresponden al obispo. El c. 1170 permite que cualquier clérigo bendiga objetos de piedad, y que los laicos bendigan según su oficio (por ejemplo, los padres bendicen a sus hijos). Las bendiciones deben impartirse según los ritos aprobados por la Iglesia.
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La bendición (*beraka* en hebreo, *eulogía* en griego) es un don de vida y fecundidad expresado por la palabra. En el AT, Dios bendice la creación (*Gen 1,28*), a los patriarcas (*Gen 12,3*), y el pueblo de la alianza. El gesto supremo de Cristo en la tierra es su bendición (*Lc 24,50-51*). La bendición alcanza su plenitud en la Eucaristía, «cáliz de bendición» (*1Cor 10,16*), y el don perfecto de Dios es el Espíritu Santo, que es en nosotros la bendición recibida (*Ef 1,3*). La bendición tiene siempre una estructura de doble dirección: don que desciende de Dios y acción de gracias que se eleva a Él [VocTeoBib, «Bendición»].
 
-### Según el CIC
-
-El c. 1169 establece que pueden impartir bendiciones los presbíteros y diáconos, y que las bendiciones constitutivas (como la dedicación de iglesias) corresponden al obispo. El c. 1170 permite que cualquier clérigo bendiga objetos de piedad, y que los laicos bendigan según su oficio (por ejemplo, los padres bendicen a sus hijos). Las bendiciones deben impartirse según los ritos aprobados por la Iglesia.
 
 ## Distinciones importantes
 

@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "The Law Is a Form of Grace: How Jordan Peterson Helps Reveal the Saving Power of Biblical Morality — Dr. Matthew Petrusek"
+title: "The Law Is a Form of Grace: How Jordán Peterson Helps Reveal the Saving Power of Biblical Morality — Dr. Matthew Petrusek"
 fuente: Evangelization and culture - 5
 capítulo: 15
 timestamp: 2026-08-26
@@ -8,7 +8,7 @@ description: "Resumen de cómo la ley bíblica es una forma de gracia"
 tags: ["resumen", "evangelization_and_culture", "ética", "ley_moral"]
 ---
 
-# The Law Is a Form of Grace: How Jordan Peterson Helps Reveal the Saving Power of Biblical Morality — Dr. Matthew Petrusek
+# The Law Is a Form of Grace: How Jordán Peterson Helps Reveal the Saving Power of Biblical Morality — Dr. Matthew Petrusek
 
 ## Conceptos básicos referenciados
 
@@ -19,7 +19,7 @@ tags: ["resumen", "evangelization_and_culture", "ética", "ley_moral"]
 
 ### Peterson y la fe
 
-Jordan Peterson: «Vivo como si Dios existiera» — no es negación ni agnosticismo formal, sino «profundo respeto por lo que significa moralmente afirmar que Dios es real». Cree que «el elemento crítico de la fe es la acción» — creer no es solo asentimiento cognitivo, sino «asentimiento cognitivo que encuentra su completa en una conversión moral».
+Jordán Peterson: «Vivo como si Dios existiera» — no es negación ni agnosticismo formal, sino «profundo respeto por lo que significa moralmente afirmar que Dios es real». Cree que «el elemento crítico de la fe es la acción» — creer no es solo asentimiento cognitivo, sino «asentimiento cognitivo que encuentra su completa en una conversión moral».
 
 ### El «no juzgues» malinterpretado
 

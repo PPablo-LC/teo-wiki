@@ -38,4 +38,4 @@ Allen desarrolla la visión de la OCIA como mucho más que un programa de estudi
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Andrew Allen, 16_feature_allen.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Andrew Allen, 16_feature_allen.md).

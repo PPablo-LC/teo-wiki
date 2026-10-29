@@ -31,6 +31,6 @@ Nicolás encarna el [[sufragios|sufragio por los difuntos]] llevado a la heroici
 
 ## Referencias
 
-- Ghezzi, Bert / Healy Jr., Nicholas J. «The Patron Saint of Holy Souls», en *Evangelization & Culture* 11 (Spring 2022).
-- Jordan of Saxony. *The Life of the Brethren*. Augustinian Press, 1993.
+- Ghezzi, Bert / Healy Jr., Nicholas J. «The Patrón Saint of Holy Souls», en *Evangelization & Culture* 11 (Spring 2022).
+- Jordán of Saxony. *The Life of the Brethren*. Augustinian Press, 1993.
 - Butler, Alban. *Lives of the Saints*, vols. I y III.

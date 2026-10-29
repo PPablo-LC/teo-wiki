@@ -11,7 +11,7 @@ timestamp: 2026-09-07
 > Área: Personas / Sacerdote y escritor
 > Última actualización: 2026-09-07
 
-**Dan Steele** es un presbítero de la **Diócesis de Yakima**, Washington. Ordenado en 2016, tiene un doctorado en teología sagrada por el **Seminario de Mundelein** (Illinois) y enseña en el programa de formación en la fe de Yakima, *Magnificat*; sirve actualmente como vicario parroquial de **Holy Angels Mission**. Como escritor de ficción adapta la narrativa especulativa a la exploración teológica: los datos biográficos de esta entrada proceden de la propia revista (EAC-19).
+**Dan Steele** es un presbítero de la **Diócesis de Yakima**, Washington. Ordenado en 2016, tiene un doctorado en teología sagrada por el **Seminario de Mundelein** (Illinois) y enseña en el programa de formación en la fe de Yakima, *Magníficat*; sirve actualmente como vicario parroquial de **Holy Angels Mission**. Como escritor de ficción adapta la narrativa especulativa a la exploración teológica: los datos biográficos de esta entrada proceden de la propia revista (EAC-19).
 
 ## Aportación: The Gonkulator Modulator (EAC-19)
 
@@ -25,7 +25,7 @@ En el Issue 19 de *Evangelization & Culture* publica en la sección *Soul* la s�
 
 ### Según Evangelization & Culture (EAC-19)
 
-Autor de ficción en el número dedicado a la IA: su sátira dramatiza el diagnóstico teológico central del número —la inquietud del corazón humano no es una patología que curar sino el rasgo constitutivo de la creatura espiritual— y critica la ambición técnico-utópica de «gestionar» o erradicar la vida interior mediante la [[inteligencia_artificial]]. La nota biográfica de la revista (ordenación en 2016, doctorado en Mundelein, docencia en *Magnificat*, vicario de Holy Angels Mission) es la única fuente sobre su identidad.
+Autor de ficción en el número dedicado a la IA: su sátira dramatiza el diagnóstico teológico central del número —la inquietud del corazón humano no es una patología que curar sino el rasgo constitutivo de la creatura espiritual— y critica la ambición técnico-utópica de «gestionar» o erradicar la vida interior mediante la [[inteligencia_artificial]]. La nota biográfica de la revista (ordenación en 2016, doctorado en Mundelein, docencia en *Magníficat*, vicario de Holy Angels Mission) es la única fuente sobre su identidad.
 
 ## Relaciones
 

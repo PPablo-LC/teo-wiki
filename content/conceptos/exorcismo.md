@@ -33,6 +33,10 @@ El exorcismo solemne solo puede ser realizado por un sacerdote con permiso del o
 
 El CIC regula el exorcismo en el canon 1172 dentro del título de los sacramentales. Sin licencia peculiar y expresa del Ordinario del lugar, nadie puede realizar legítimamente exorcismos sobre los posesos (c. 1172 §1). El Ordinario del lugar concederá esta licencia solamente a un presbítero piadoso, docto, prudente y con integridad de vida (c. 1172 §2). Esta disposición subraya la gravedad del exorcismo solemne y la necesidad de que el ministro reúna cualidades morales e intelectuales excepcionales, así como la sujeción a la autoridad eclesiástica para su ejercicio.
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata del exorcismo en el contexto de la preparación inmediata al bautismo (q.71 a.2-4). El exorcismo debe preceder al bautismo para expulsar el poder del demonio, que tiene dominio sobre el hombre por el pecado original y personal (a.2). Todos los no bautizados están sometidos a su poder, aunque no sea corporalmente (a.2 ad 1). El exorcismo remueve dos obstáculos que impiden recibir la gracia bautismal: uno extrínseco (el poder del demonio para impedir la recepción del sacramento) y otro intrínseco (el embotamiento de los sentidos para percibir los misterios de salvación) (a.3). Los ritos del exorcismo no son meros signos: producen un efecto real, aunque no son sacramentos sino sacramentales, pues quitan impedimentos sin conferir la gracia remisiva de la culpa (a.3 ad 2). La instrucción catequética y el exorcismo pertenecen principalmente al sacerdote, aunque los ministros inferiores (lectores, exorcistas) cooperan como instrumentos (a.4).
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata el exorcismo en el contexto de la lucha contra el demonio (Parte III, Libro I, Cap. 3). El exorcismo es un medio espiritual para combatir la influencia diabólica. Los exorcismos deben realizarse con autoridad eclesiástica y en un espíritu de fe y oración.
@@ -41,10 +45,6 @@ Además del exorcismo solemne, existen exorcismos simples incluidos en la bendic
 
 [TPCr, Parte III, Libro I, Cap. 3]
 [TPCr, Parte III, Libro II, Caps. IV-V]
-
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata del exorcismo en el contexto de la preparación inmediata al bautismo (q.71 a.2-4). El exorcismo debe preceder al bautismo para expulsar el poder del demonio, que tiene dominio sobre el hombre por el pecado original y personal (a.2). Todos los no bautizados están sometidos a su poder, aunque no sea corporalmente (a.2 ad 1). El exorcismo remueve dos obstáculos que impiden recibir la gracia bautismal: uno extrínseco (el poder del demonio para impedir la recepción del sacramento) y otro intrínseco (el embotamiento de los sentidos para percibir los misterios de salvación) (a.3). Los ritos del exorcismo no son meros signos: producen un efecto real, aunque no son sacramentos sino sacramentales, pues quitan impedimentos sin conferir la gracia remisiva de la culpa (a.3 ad 2). La instrucción catequética y el exorcismo pertenecen principalmente al sacerdote, aunque los ministros inferiores (lectores, exorcistas) cooperan como instrumentos (a.4).
 
 ### Según el Regnum Christi / Legión de Cristo (RC-Carismas-2023)
 

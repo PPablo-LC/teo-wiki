@@ -192,7 +192,7 @@ El concilio anatematizó las herejías cristológicas (D-710): Ebión, Cerinto, 
 
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
-**La Encarnación como chiste divino:** «Todo comienza con un chiste»: la esencia de lo cómico es «la unión de opuestos, la yuxtaposición de cosas incongruentes», y en Belén el Infinito abrazó lo finito: Dios se hizo niño en un pequeño puesto fronterizo del Imperio romano (Barron, *Catholicism* cap. 1). Bobby Angel extiende la idea: Jesús nace bebé desvalido, subvirtiendo las expectativas mesiánicas de poder — guiño divino que mezcla humor y asombro, en línea con la risa de Sara ante Dios (Gn 18) o la burra de Balaam (Nm 22). «Se ha sugerido que el corazón del pecado es tomarse uno mismo demasiado en serio; quizá por esto Dios eligió salvarnos haciéndonos reír». Joel Berry completa el arco: la Resurrección como remate del chiste a Satanás, fundado en Is 53,6.
+**La Encarnación como chiste divino:** «Todo comienza con un chiste»: la esencia de lo cómico es «la unión de opuestos, la yuxtaposición de cosas incongruentes», y en Belén el Infinito abrazó lo finito: Dios se hizo niño en un pequeño puesto fronterizo del Imperio romano (Barron, *Catholicism* cap. 1). Bobby Ángel extiende la idea: Jesús nace bebé desvalido, subvirtiendo las expectativas mesiánicas de poder — guiño divino que mezcla humor y asombro, en línea con la risa de Sara ante Dios (Gn 18) o la burra de Balaam (Nm 22). «Se ha sugerido que el corazón del pecado es tomarse uno mismo demasiado en serio; quizá por esto Dios eligió salvarnos haciéndonos reír». Joel Berry completa el arco: la Resurrección como remate del chiste a Satanás, fundado en Is 53,6.
 
 ### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
 

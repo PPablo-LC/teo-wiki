@@ -37,6 +37,27 @@ Ofensas contra la castidad: lujuria (§2351), masturbación (§2352), fornicaci�
 
 La persona homosexual debe ser respetada en su dignidad y llamada a seguir el plan de Dios con un esfuerzo especial en el ejercicio de la castidad [CompDS §228]. La castidad se presenta como virtud necesaria ante la tendencia a relativizar y banalizar la experiencia del amor y de la sexualidad en la sociedad actual [CompDS §223].
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Perfectae Caritatis* §12 trata de la castidad religiosa: «La castidad "por el Reino de los cielos", que profesan los religiosos, debe ser estimada como un singular don de la gracia. Ella libera de modo especial el corazón del hombre para que se inflame más en el amor a Dios y a todos los hombres, y es, por lo mismo, signo peculiar de los bienes celestiales y medio aptísimo para que los religiosos se dediquen con alegría al servicio divino y a las obras de apostolado». El Concilio exhorta a confiar en la palabra del Señor «sin presumir de sus propias fuerzas», practicando «la mortificación y la guarda de los sentidos», y a no dejarse impresionar «por las falsas doctrinas, que presentan la continencia perfecta como imposible o como algo perjudicial al perfeccionamiento del hombre» (PC §12). Advierte que «no se presenten los candidatos a ella sino después de haber sido suficientemente probados y de haber logrado la debida madurez psicológica y afectiva», y que «abra[cen] el celibato consagrado a Dios incluso como un bien de toda la persona» (PC §12).
+
+### Según la Summa Theologiae (SmTh)
+
+#### Q151: La castidad
+
+**Naturaleza de la castidad (a.1):** La castidad es una virtud. Su nombre deriva del hecho de que la razón reprueba (*castigat*) los actos venéreos que se apartan de la recta razón. Pertenece a la templanza como virtud especial, pues su materia son los actos venéreos, que requieren especial moderación por su intensidad y porque el uso de la razón queda parcialmente impedido durante ellos.
+
+**Virtud general y especial (a.2):** La castidad puede entenderse de dos modos:
+- Como virtud general: en cuanto que todo acto virtuoso requiere cierta honestidad que aparta de la torpeza.
+- Como virtud especial: en cuanto modera los actos venéreos, que tienen su propia especie de torpeza (la incontinencia venérea). Tomás sigue aquí a San Agustín, quien identifica la castidad con la honestidad aplicada a la materia venérea.
+
+**Distinción de la abstinencia (a.3):** La castidad es distinta de la abstinencia. Aunque ambas pertenecen a la templanza, difieren en la materia: la abstinencia modera el placer del gusto (comida y bebida), mientras que la castidad modera el placer venéreo (tacto). Son dos virtudes específicamente distintas, pero unidas en la templanza como su género próximo.
+
+**Relación con el pudor (a.4):** Existe una relación intrínseca entre castidad y pudor (*pudicitia*):
+- El pudor es una parte de la castidad — no una virtud distinta, sino la castidad en cuanto produce vergüenza por lo torpe.
+- El pudor propiamente dicho (*verecundia*) es el temor a la deshonra. La *pudicitia* (pudor en sentido de decencia sexual) es la castidad misma en cuanto se aplica al acto venéreo con el debido orden.
+- Por eso se dice que el pudor es como el "timbre" de la castidad: la castidad da el orden interior, y el pudor lo manifiesta exteriormente.
+
 ### Según Royo Marín (TPCr)
 
 La castidad es «la virtud sobrenatural moderativa del apetito genésico. Es una virtud verdaderamente angélica, por cuanto hace al hombre semejante a los ángeles; pero es una virtud delicada y difícil, a cuya práctica perfecta no se llega ordinariamente sino a base de una continua vigilancia y de una severa austeridad». Es parte subjetiva de la templanza, junto con la virginidad.
@@ -68,27 +89,6 @@ Tóth une estrechamente la castidad con la pureza y la virginidad. Frente a los 
 Tóth insiste en que la castidad no es meramente negativa, sino que robustecen el alma y el organismo. La castidad «contribuye de un modo misterioso y benéfico a incrementar la labor espiritual» y hace al alma «lozana, y da fuerza de vida al espíritu y al organismo» [PyH, Cap. VII]. También aborda la defensa de la salud: «la castidad, la vida pura. He ahí la única profilaxis segura» frente a las enfermedades propias de la vida impura [PyH, Cap. V]. Por eso concluye que «la castidad es el *patrimonio y la gloria de las mujeres*» [PyH, Cap. V].
 
 Estas enseñanzas apuntan a la [[pureza]], al [[pudor]] y a la [[modestia]] como aliados de la [[castidad]].
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Perfectae Caritatis* §12 trata de la castidad religiosa: «La castidad "por el Reino de los cielos", que profesan los religiosos, debe ser estimada como un singular don de la gracia. Ella libera de modo especial el corazón del hombre para que se inflame más en el amor a Dios y a todos los hombres, y es, por lo mismo, signo peculiar de los bienes celestiales y medio aptísimo para que los religiosos se dediquen con alegría al servicio divino y a las obras de apostolado». El Concilio exhorta a confiar en la palabra del Señor «sin presumir de sus propias fuerzas», practicando «la mortificación y la guarda de los sentidos», y a no dejarse impresionar «por las falsas doctrinas, que presentan la continencia perfecta como imposible o como algo perjudicial al perfeccionamiento del hombre» (PC §12). Advierte que «no se presenten los candidatos a ella sino después de haber sido suficientemente probados y de haber logrado la debida madurez psicológica y afectiva», y que «abra[cen] el celibato consagrado a Dios incluso como un bien de toda la persona» (PC §12).
-
-### Según la Summa Theologiae (SmTh)
-
-#### Q151: La castidad
-
-**Naturaleza de la castidad (a.1):** La castidad es una virtud. Su nombre deriva del hecho de que la razón reprueba (*castigat*) los actos venéreos que se apartan de la recta razón. Pertenece a la templanza como virtud especial, pues su materia son los actos venéreos, que requieren especial moderación por su intensidad y porque el uso de la razón queda parcialmente impedido durante ellos.
-
-**Virtud general y especial (a.2):** La castidad puede entenderse de dos modos:
-- Como virtud general: en cuanto que todo acto virtuoso requiere cierta honestidad que aparta de la torpeza.
-- Como virtud especial: en cuanto modera los actos venéreos, que tienen su propia especie de torpeza (la incontinencia venérea). Tomás sigue aquí a San Agustín, quien identifica la castidad con la honestidad aplicada a la materia venérea.
-
-**Distinción de la abstinencia (a.3):** La castidad es distinta de la abstinencia. Aunque ambas pertenecen a la templanza, difieren en la materia: la abstinencia modera el placer del gusto (comida y bebida), mientras que la castidad modera el placer venéreo (tacto). Son dos virtudes específicamente distintas, pero unidas en la templanza como su género próximo.
-
-**Relación con el pudor (a.4):** Existe una relación intrínseca entre castidad y pudor (*pudicitia*):
-- El pudor es una parte de la castidad — no una virtud distinta, sino la castidad en cuanto produce vergüenza por lo torpe.
-- El pudor propiamente dicho (*verecundia*) es el temor a la deshonra. La *pudicitia* (pudor en sentido de decencia sexual) es la castidad misma en cuanto se aplica al acto venéreo con el debido orden.
-- Por eso se dice que el pudor es como el "timbre" de la castidad: la castidad da el orden interior, y el pudor lo manifiesta exteriormente.
 
 ### Según la Teología del Cuerpo (TdC)
 

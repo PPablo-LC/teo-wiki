@@ -30,7 +30,7 @@ Su influencia en la [[teología_trinitaria|teología trinitaria]] fue determinan
 - *Vita Antonii* — vida de San Antonio Abad, modelo de hagiografía monástica
 - *Epístolas festales* (*Festales*) — cartas anuales sobre la datación pascual y la doctrina
 - *De sententia Dionysii* — defensa de la ortodoxia de Dionisio de Alejandría
-- *Ad Afros epistola synodica* — exposición de la fe nicena dirigida a las iglesias de África
+- *Ad Afros epístola synodica* — exposición de la fe nicena dirigida a las iglesias de África
 
 ## Perspectivas por fuente
 

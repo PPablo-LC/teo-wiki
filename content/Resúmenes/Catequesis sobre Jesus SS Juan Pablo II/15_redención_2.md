@@ -4,7 +4,7 @@ title: "REDENCIÓN −2-"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 15
 timestamp: 2026-08-12
-description: "Resumen de 'REDENCIÓN −2-' — Catequesis sobre Jesus SS Juan Pablo II"
+description: "Resumen de 'REDENCIÓN −2-' — Catequesis sobre Jesús SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
 

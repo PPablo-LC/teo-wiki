@@ -21,7 +21,7 @@ En las primeras décadas del siglo XXI, la comunidad cristiana iraquí sufrió u
 
 ### Word on Fire Institute (EAC-21)
 
-Brenden Thompson, en «Peripheries: A Vision of Hope in a Fragile Democracy» (23_peripheries.md), narra su visita a Irak como invitado de la comunidad cristiana y de Arzobispo Warda, y presenta su testimonio como modelo de esperanza cristiana en medio de la persecución.
+Brenden Thompson, en «Peripheries: A Visión of Hope in a Fragile Democracy» (23_peripheries.md), narra su visita a Irak como invitado de la comunidad cristiana y de Arzobispo Warda, y presenta su testimonio como modelo de esperanza cristiana en medio de la persecución.
 
 **La llegada de ISIS y la respuesta pastoral.** En 2014, apenas cuatro años después de su nombramiento, Arzobispo Warda recibió la noticia de que la Catedral de San José y su plaza se inundaron de familias que huían del avance del ISIS: 13.000 refugiados que no querían ir a campamentos de la ONU y buscaban refugio en la Iglesia. Warda abrió todas las propiedades eclesiásticas disponibles para brindar refugio y apoyo. Thompson documenta que el arzobispo habló con poder de los numerosos sacerdotes, religiosos y laicos que conoció personalmente y que fueron asesinados y martirizados.
 
@@ -54,4 +54,4 @@ El testimonio de Arzobispo Warda encarna la doctrina social de la Iglesia en su 
 
 ## Referencias
 
-- EAC-21, 23_peripheries.md (Brenden Thompson), «Peripheries: A Vision of Hope in a Fragile Democracy»
+- EAC-21, 23_peripheries.md (Brenden Thompson), «Peripheries: A Visión of Hope in a Fragile Democracy»

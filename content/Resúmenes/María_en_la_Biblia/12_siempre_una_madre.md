@@ -23,7 +23,7 @@ tags: ["resumen", "reina_del_cielo", "coronación", "mediación_de_maría", "ros
 
 ### Devoción mariana de Juan Pablo II
 
-La lección cierra recordando la devoción mariana del Papa Juan Pablo II: lema «Totus Tuus» (totalmente tuyo, de san Luis María Grignion de Monfort), rosario diario, canonización de Juan Diego, declaracion de Lourdes como Día Mundial del Enfermo, consagración de Rusia y del mundo al Inmaculado Corazón, y la entrega de la bala del atentado en la corona de Nuestra Señora de Fátima.
+La lección cierra recordando la devoción mariana del Papa Juan Pablo II: lema «Totus Tuus» (totalmente tuyo, de san Luis María Grignion de Monfort), rosario diario, canonización de Juan Diego, declaración de Lourdes como Día Mundial del Enfermo, consagración de Rusia y del mundo al Inmaculado Corazón, y la entrega de la bala del atentado en la corona de Nuestra Señora de Fátima.
 
 ### La Asunción y la Coronación
 

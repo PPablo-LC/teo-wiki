@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Art: Images of Conversion — Michael Stevens"
+title: "Art: Images of Conversión — Michael Stevens"
 fuente: Evangelization and culture - 18_capitulos
 capítulo: 12
 timestamp: 2026-09-05
-description: "Resumen de 'Art: Images of Conversion — Michael Stevens' — Evangelization and culture - 18_capitulos"
+description: "Resumen de 'Art: Images of Conversión — Michael Stevens' — Evangelization and culture - 18_capitulos"
 tags: ["resumen", "evangelization and culture - 18 capitulos"]
 ---
 
-# Art: Images of Conversion — Michael Stevens
+# Art: Images of Conversión — Michael Stevens
 
 ## Conceptos básicos referenciados
 
@@ -42,7 +42,7 @@ Michael Stevens presenta cuatro obras maestras de **Caravaggio** como imágenes 
 
 **La incredulidad de Santo Tomás** parte de Jn 20,25: «Si no veo en sus manos la señal de los clavos... no creeré». Cuando Jesús se aparece a Tomás, **no exige que suprima su escepticismo**: le ofrece exactamente la evidencia que quería («Mete tu dedo aquí y mira mis manos... No seas incrédulo sino creyente», Jn 20,27). El texto no dice explícitamente si Tomás llegó a tocar las manos y el costado de Cristo —tras la invitación solo recoge su confesión: «¡Señor mío y Dios mío!»—. Caravaggio, sin embargo, imagina el momento con claridad casi fotográfica, como intentando documentar su historicidad. Imagen movida por los contrastes: la luz y la sombra características guían la mirada; el objeto más brillante y dominante es la túnica de Cristo, que evoca fuertemente un **sudario fúnebre**, subrayando el contraste entre la vida y la muerte. Las arrugas de la mortaja conducen el ojo a la mano derecha de Cristo, que revela su costado herido: el punto focal es la herida misma y el dedo de Tomás dentro de ella, cuyo realismo inquietante queda subrayado por las manos vivas y resucitadas de Cristo. Quizá el contraste más hermoso sea el de los rostros: la expresión de Tomás es de total asombro; la de Cristo, de absoluta paciencia. **Cristo no se inquieta por sus dudas; al contrario, las acoge activamente para que sean absorbidas en un amor y compasión infinitos.** Si *La vocación de San Mateo* muestra que el Señor no teme nuestro pecado, esta obra muestra que el Señor tampoco se deja desconcertar por nuestra duda: en respuesta a nuestras preguntas más profundas, él ofrece su mismo cuerpo como respuesta — **la prueba herida del amor de Dios**.
 
-## The Conversion on the Way to Damascus
+## The Conversión on the Way to Damascus
 
 **La conversión en el camino de Damasco** es una de las representaciones más icónicas de la [[conversión]] en la historia del arte cristiano, notable por su innovador claroscuro y su composición original. En su tiempo, la pintura provocó una intensa controversia: los críticos acusaban a Caravaggio de enfatizar lo mundano y lo físico a costa de lo milagroso —«¿Dónde está la figura de Cristo glorificado y resucitado?», preguntaban—. Pero es la **tremenda contención** de Caravaggio lo que da a la imagen su profundo poder teológico: al situar a Cristo fuera de los límites del lienzo, este actúa como la **fuente de luz** —el mismo elemento que hace posible ver la escena en absoluto—. Muchos años después, el gran escritor cristiano y converso C.S. Lewis escribiría lo que Caravaggio expresó primero en forma visual: «Creo en el cristianismo como creo que ha salido el sol: no solo porque lo veo, sino porque por él veo todo lo demás». Al retener la visión directa del reino divino (una visión que cegó a Saulo), Caravaggio proporciona una visión clara de aquello que ilumina: **San Pablo, cuya identidad entera se está rehaciendo en la luz y el calor de la presencia resucitada de Cristo**.
 

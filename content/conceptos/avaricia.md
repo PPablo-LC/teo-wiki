@@ -27,16 +27,6 @@ El décimo mandamiento prohíbe la avaricia y el deseo de una apropiación inmod
 
 [CEC §1866, §2536-2540]
 
-### Según Royo Marín (TPCr)
-
-La avaricia se opone a la liberalidad. Es uno de los pecados llamados capitales por ser cabeza de otros muchos, particularmente de la dureza de corazón, inquietud, violencia, engaño, fraude, perjurio y traición. Se opone a la justicia y a la confianza en la providencia divina. La avaricia también puede manifestarse en el plano espiritual como apego desordenado a los bienes del espíritu.
-
-[TPCr, Parte III, Libro II, Cap. II, n.415; Parte III, Libro I, Cap. 5-6]
-
-### Según Mons. Tihámer Tóth (JvC)
-
-La caza del dinero ha cautivado a muchos. JvC narra cómo los negros cazan al mono: atan una bolsa con arroz al árbol; el mono mete la mano, llena el puño de arroz, y no puede sacarlo porque el puño no pasa por el agujero. «¡Cuidado!, joven, no te aprisione también el amor ávido del dinero y no te arrastren a sus cárceles la avaricia» [JvC, Cap. II]. Cita a Burne: «El corazón se endurece más aprisa en la riqueza que el huevo en el agua hirviendo» [JvC, Cap. II].
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la avaricia en la q.118 en ocho artículos, ofreciendo el tratamiento más completo de este vicio en la tradición escolástica.
@@ -52,6 +42,16 @@ Santo Tomás trata la avaricia en la q.118 en ocho artículos, ofreciendo el tra
 **Hijas de la avaricia** (q.118 a.8): Son siete: la dureza de corazón (por retener), la inquietud (por el afecto interior desordenado), y por el efecto exterior en la adquisición: la violencia, y dentro del engaño, la mentira (palabras), el perjurio (con juramento), el fraude (obras sobre cosas) y la traición (obras sobre personas).
 
 [SmTh IIa-IIae, q.118, a.1-8]
+
+### Según Royo Marín (TPCr)
+
+La avaricia se opone a la liberalidad. Es uno de los pecados llamados capitales por ser cabeza de otros muchos, particularmente de la dureza de corazón, inquietud, violencia, engaño, fraude, perjurio y traición. Se opone a la justicia y a la confianza en la providencia divina. La avaricia también puede manifestarse en el plano espiritual como apego desordenado a los bienes del espíritu.
+
+[TPCr, Parte III, Libro II, Cap. II, n.415; Parte III, Libro I, Cap. 5-6]
+
+### Según Mons. Tihámer Tóth (JvC)
+
+La caza del dinero ha cautivado a muchos. JvC narra cómo los negros cazan al mono: atan una bolsa con arroz al árbol; el mono mete la mano, llena el puño de arroz, y no puede sacarlo porque el puño no pasa por el agujero. «¡Cuidado!, joven, no te aprisione también el amor ávido del dinero y no te arrastren a sus cárceles la avaricia» [JvC, Cap. II]. Cita a Burne: «El corazón se endurece más aprisa en la riqueza que el huevo en el agua hirviendo» [JvC, Cap. II].
 
 ### Según Evangelization & Culture n.º 2 «Economics» (EAC-2)
 

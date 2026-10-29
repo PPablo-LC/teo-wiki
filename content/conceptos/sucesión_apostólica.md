@@ -77,4 +77,4 @@ La infografía de las cartas pastorales del PdB destaca que en la primera carta 
 
 - Eusebio, *Hist. Ecl.* 3.25.6-7.
 - Ireneo, *Contra las Herejías* 1.1.1.
-- *The Case for Jesus* (CfJ), Sesión 2, líneas [00:02:00]–[00:32:57].
+- *The Case for Jesús* (CfJ), Sesión 2, líneas [00:02:00]–[00:32:57].

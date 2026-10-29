@@ -21,6 +21,10 @@ La hipocresía es una forma de mentira cometida no con palabras sino con obras o
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC menciona la hipocresía entre los pecados contra la verdad: «La verdad o veracidad es la virtud que consiste en mostrarse verdadero en sus actos y en sus palabras, evitando la duplicidad, la simulación y la hipocresía» (§2468; §2505). Los discípulos de Cristo deben «rechazar toda malicia y todo engaño, hipocresías, envidias y toda clase de maledicencias» (§2475). Cristo mismo denunció la hipocresía de los fariseos que reducían la Ley a casuística hipócrita (§579).
+
 ### Según la Summa Theologiae (SmTh)
 
 La hipocresía (q.111 a.2) es una **especie de simulación** (no son términos sinónimos): la simulación es el género, la hipocresía es la simulación de una persona que finge ser lo que no es, especialmente en cuanto a la santidad o virtud. El nombre proviene de los actores teatrales (hipócritas) que representaban personajes distintos de sí mismos (q.111 a.2).
@@ -30,10 +34,6 @@ Se opone **directamente** a la virtud de la verdad por su objeto propio (fingir 
 En cuanto a su gravedad (q.111 a.4), si el hipócrita no se preocupa de tener la santidad y solo aparenta tenerla, es **pecado mortal** (privación total de la santidad). Si simula una santidad que perdió por pecado, la gravedad depende del fin: si el fin se opone a la caridad (sembrar falsas doctrinas, obtener dignidades indignamente) es mortal; si no, es venial. Guardar hábito religioso sin la perfección correspondiente no es necesariamente hipocresía si se tomó con recta intención (q.111 a.2 ad 2).
 
 [SmTh IIa-IIae q.111 a.2-4]
-
-### Según el Catecismo (CEC)
-
-El CEC menciona la hipocresía entre los pecados contra la verdad: «La verdad o veracidad es la virtud que consiste en mostrarse verdadero en sus actos y en sus palabras, evitando la duplicidad, la simulación y la hipocresía» (§2468; §2505). Los discípulos de Cristo deben «rechazar toda malicia y todo engaño, hipocresías, envidias y toda clase de maledicencias» (§2475). Cristo mismo denunció la hipocresía de los fariseos que reducían la Ley a casuística hipócrita (§579).
 
 ### Según Royo Marín (TPCr)
 

@@ -49,7 +49,7 @@ Juan Pablo II no usa explícitamente el término «nueva evangelización» en Dy
 
 ### Según San Juan Pablo II (EA)
 
-*Ecclesia in America* es una de las exposiciones más completas de la nueva evangelización aplicada a un continente. Juan Pablo II recuerda que el término fue acuñado por él mismo ante el CELAM en Puerto Príncipe (1983): «La conmemoración del medio milenio de evangelización tendrá su significación plena si es un compromiso vuestro como Obispos, junto con vuestro presbiterio y fieles; compromiso, no de reevangelización, pero sí de una evangelización nueva. Nueva en su ardor, en sus métodos, en su expresión» [EA §6].
+*Ecclesia in América* es una de las exposiciones más completas de la nueva evangelización aplicada a un continente. Juan Pablo II recuerda que el término fue acuñado por él mismo ante el CELAM en Puerto Príncipe (1983): «La conmemoración del medio milenio de evangelización tendrá su significación plena si es un compromiso vuestro como Obispos, junto con vuestro presbiterio y fieles; compromiso, no de reevangelización, pero sí de una evangelización nueva. Nueva en su ardor, en sus métodos, en su expresión» [EA §6].
 
 La nueva evangelización debe diversificarse según dos situaciones: la de los países muy afectados por el secularismo y la de aquellos donde «todavía se conservan muy vivas las tradiciones de piedad y de religiosidad popular cristiana» [EA §6].
 

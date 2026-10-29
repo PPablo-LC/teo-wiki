@@ -15,7 +15,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 - [[eucaristía]] — Reverencia suprema al Cuerpo y Sangre de Cristo en el altar
 - [[eucaristía]] — El Santo Sacrificio de la Misa como centro de la vida franciscana
 - [[obediencia]] — Observancia inviolable de la Regla
-- [[oficio_divino]] — Rezo con armonía de mente, no con melodia de voz
+- [[oficio_divino]] — Rezo con armonía de mente, no con melodía de voz
 - [[regla_de_los_frailes_menores]] — Invocación a la observancia íntegra
 - [[jerarquía_eclesiástica]] — Confesión de pecados y sujeción al ministro general
 - [[humildad_cristiana]] — "El Señor del universo se humilla tanto que se esconde bajo un trozo de pan"
@@ -40,6 +40,6 @@ Denuncia la miseria de quienes, teniendo a Cristo presente, se preocupan por cua
 
 Recomienda que en cada lugar se celebre solo una Misa al día. Advierta sobre la veneración de las palabras divinas escritas: recogerlas y preservarlas donde estén mal conservadas o esparcidas.
 
-Confiesa sus propios pecados: no haber observado la Regla prometida, no haber dicho el Oficio según la Regla por negligencia, debilidad o ignorancia. Suplica al ministro general que haga observar la Regla inviolablemente, y que los cléricos recen con devoción ante Dios, no atendiendo a melodia de voz sino a armonía de mente.
+Confiesa sus propios pecados: no haber observado la Regla prometida, no haber dicho el Oficio según la Regla por negligencia, debilidad o ignorancia. Suplica al ministro general que haga observar la Regla inviolablemente, y que los cléricos recen con devoción ante Dios, no atendiendo a melodía de voz sino a armonía de mente.
 
 Cierra con una oración solemne: "Dios todopoderoso, eterno, justo y misericordioso, danos, miserables, hacer por Ti lo que sabemos que Tú quieres."

@@ -13,11 +13,11 @@ timestamp: 2026-09-15
 
 ## Definición
 
-La pedagogía divina es el método que Dios elige para revelarse y conducir al hombre: no la definición inmediata y total, sino el camino por pasos que favorecen una evolución por asimilación. En la vida pública de Jesús, Giussani lo describe: «Gesù ha usato una intelligente pedagogia nel definirsi. Lo ha fatto lentamente così da provocare negli altri una graduale evoluzione per assimilazione, attraverso processi destinati a favorire per una specie di osmosi la convinzione». «Nella natura nessun passo della vita è realizzato se non per passaggi infinitesimali»: lo que no se alcanza por evolución no es asimilado.
+La pedagogía divina es el método que Dios elige para revelarse y conducir al hombre: no la definición inmediata y total, sino el camino por pasos que favorecen una evolución por asimilación. En la vida pública de Jesús, Giussani lo describe: «Gesù ha usato una intelligente pedagogía nel definirsi. Lo ha fatto lentamente così da provocare negli altri una graduale evoluzione per assimilazione, attraverso processi destinati a favorire per una specie di osmosi la convinzione». «Nella natura nessun passo della vita è realizzato se non per passaggi infinitesimali»: lo que no se alcanza por evolución no es asimilado.
 
 ## Desarrollo doctrinal
 
-La pedagogía de Cristo al revelarse sigue una trayectoria precisa: (1) pide ser seguido («Venite con me»): una invitación comprensible que contiene una implicación mucho mayor, visible solo a distancia; (2) agrava la petición hasta la renuncia («renunciando a sí mismos», Mt 10,39); (3) exige la confesión social («chi mi riconoscerà davanti agli uomini»): ningún vínculo es verdadero si no se produce delante de todos; (4) se coloca «a causa mia» al centro de la afectividad y de la libertad; (5) se atribuye los gestos reservados a Dios; (6) declara explícitamente su identidad solo cuando las posiciones de la libertad están tomadas. La razón de esta lentitud: una definición anticipada habría sonado locura y habría squalificado la confianza; «una definizione deve formulare una conquista già avvenuta, in caso contrario risulterebbe l'imposizione di uno schema». Dios «valorizza la situazione in cui la nostra libertà si è precedentemente messa» (Mt 13,12).
+La pedagogía de Cristo al revelarse sigue una trayectoria precisa: (1) pide ser seguido («Venite con me»): una invitación comprensible que contiene una implicación mucho mayor, visible solo a distancia; (2) agrava la petición hasta la renuncia («renunciando a sí mismos», Mt 10,39); (3) exige la confesión social («chi mi riconoscerà davanti agli uomini»): ningún vínculo es verdadero si no se produce delante de todos; (4) se coloca «a causa mía» al centro de la afectividad y de la libertad; (5) se atribuye los gestos reservados a Dios; (6) declara explícitamente su identidad solo cuando las posiciones de la libertad están tomadas. La razón de esta lentitud: una definición anticipada habría sonado locura y habría squalificado la confianza; «una definizione deve formulare una conquista già avvenuta, in caso contrario risulterebbe l'imposizione di uno schema». Dios «valorizza la situazione in cui la nostra libertà si è precedentemente messa» (Mt 13,12).
 
 ## Perspectivas por fuente
 
@@ -42,7 +42,7 @@ La pedagogía divina ilumina la [[revelación_divina]] como economía (la prepar
 ## Referencias
 
 - ODPC — Giussani, *All'origine della pretesa cristiana*, BUR Rizzoli.
-- ODPC 10 (§1-3) — cap. 6: *La pedagogia di Cristo nel rivelarsi*.
+- ODPC 10 (§1-3) — cap. 6: *La pedagogía di Cristo nel rivelarsi*.
 - ODPC 11 (intro) — cap. 7: la valorización de la libertad.
 - Citas bíblicas: Mt 10,32-39; 12,46-50; 13,12; 16,13-19.
 - Guardini, R., *La figura di Gesù Cristo nel Nuovo Testamento* (1964).

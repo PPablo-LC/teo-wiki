@@ -25,18 +25,24 @@ La pobreza evangélica se distingue de la mera pobreza material o miseria; es un
 
 «Bienaventurados los pobres de espíritu porque de ellos es el Reino de los cielos» (CEC §544, §2544). Todos los cristianos han de vivir la pobreza de espíritu, que es la humildad voluntaria y la renuncia interior al apego desordenado de las riquezas (CEC §2545-2547). Cristo, siendo rico, se hizo pobre por nosotros para enriquecernos con su pobreza (CEC §544). La Iglesia sigue el camino de la pobreza como su Esposo (CEC §852-853). Los consejos evangélicos incluyen la pobreza como medio de caridad perfecta (CEC §915, §944).
 
-### Según Juan Pablo II (PDV)
-
-*Pastores dabo vobis* dedica el n. 30 a la pobreza evangélica del sacerdote. La pobreza es presentada como «sumisión de todos los bienes al Bien supremo de Dios y de su Reino» (PDV 30). La pobreza del sacerdote, en virtud de su configuración sacramental con Cristo, Cabeza y Pastor, tiene características «pastorales» precisas: los sacerdotes, siguiendo el ejemplo de Cristo que siendo rico se hizo pobre por amor (2 Cor 8,9), deben considerar a los pobres y a los más débiles como confiados a ellos de un modo especial y testimoniar la pobreza con una vida sencilla y austera, renunciando generosamente a lo superfluo (PDV 30; cf. OT 9; CIC c. 282).
-
-La pobreza asegura al sacerdote su disponibilidad a ser enviado donde su trabajo sea más útil y urgente, aunque comporte sacrificio personal. Es condición para la docilidad al Espíritu. El sacerdote debe ofrecer el testimonio de una total transparencia en la administración de los bienes de la comunidad. La libertad interior que la pobreza evangélica custodia prepara al sacerdote para estar al lado de los más débiles, promover la opción preferencial por los pobres y ser signo profético en las sociedades de consumo (PDV 30).
-
 ### Según Royo Marín (TPCr)
 
 La pobreza evangélica es uno de los tres consejos evangélicos esenciales al estado religioso (TPCr, Tercera Parte, Libro III). Por el voto de pobreza, el religioso se obliga a vivir pobremente a imitación de Cristo pobre. La pobreza afectiva (espíritu de desprendimiento) obliga a todos los bautizados. La perfección cristiana exige la santa indiferencia entre riqueza y pobreza, teniendo a Dios como único bien (TPCr, Tercera Parte, Libro II, caps. IV-V).
 
 [TPCr, Tercera Parte, Libro II; Tercera Parte, Libro III]
 
+La pobreza evangélica es uno de los tres consejos evangélicos esenciales al estado religioso (TPCr, Tercera Parte, Libro III). Por el voto de pobreza, el religioso se obliga a vivir pobremente a imitación de Cristo pobre. La pobreza afectiva (espíritu de desprendimiento) obliga a todos los bautizados. La perfección cristiana exige la santa indiferencia entre riqueza y pobreza, teniendo a Dios como único bien (TPCr, Tercera Parte, Libro II, caps. IV-V).
+
+[TPCr, Tercera Parte, Libro II; Tercera Parte, Libro III]
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* dedica el n. 30 a la pobreza evangélica del sacerdote. La pobreza es presentada como «sumisión de todos los bienes al Bien supremo de Dios y de su Reino» (PDV 30). La pobreza del sacerdote, en virtud de su configuración sacramental con Cristo, Cabeza y Pastor, tiene características «pastorales» precisas: los sacerdotes, siguiendo el ejemplo de Cristo que siendo rico se hizo pobre por amor (2 Cor 8,9), deben considerar a los pobres y a los más débiles como confiados a ellos de un modo especial y testimoniar la pobreza con una vida sencilla y austera, renunciando generosamente a lo superfluo (PDV 30; cf. OT 9; CIC c. 282).
+
+La pobreza asegura al sacerdote su disponibilidad a ser enviado donde su trabajo sea más útil y urgente, aunque comporte sacrificio personal. Es condición para la docilidad al Espíritu. El sacerdote debe ofrecer el testimonio de una total transparencia en la administración de los bienes de la comunidad. La libertad interior que la pobreza evangélica custodia prepara al sacerdote para estar al lado de los más débiles, promover la opción preferencial por los pobres y ser signo profético en las sociedades de consumo (PDV 30).
+
+*Pastores dabo vobis* dedica el n. 30 a la pobreza evangélica del sacerdote. La pobreza es presentada como «sumisión de todos los bienes al Bien supremo de Dios y de su Reino» (PDV 30). La pobreza del sacerdote, en virtud de su configuración sacramental con Cristo, Cabeza y Pastor, tiene características «pastorales» precisas: los sacerdotes, siguiendo el ejemplo de Cristo que siendo rico se hizo pobre por amor (2 Cor 8,9), deben considerar a los pobres y a los más débiles como confiados a ellos de un modo especial y testimoniar la pobreza con una vida sencilla y austera, renunciando generosamente a lo superfluo (PDV 30; cf. OT 9; CIC c. 282).
+
+La pobreza asegura al sacerdote su disponibilidad a ser enviado donde su trabajo sea más útil y urgente, aunque comporte sacrificio personal. Es condición para la docilidad al Espíritu. El sacerdote debe ofrecer el testimonio de una total transparencia en la administración de los bienes de la comunidad. La libertad interior que la pobreza evangélica custodia prepara al sacerdote para estar al lado de los más débiles, promover la opción preferencial por los pobres y ser signo profético en las sociedades de consumo (PDV 30).
 ### Según Benedicto XVI (JdN_I)
 
 La primera Bienaventuranza («Bienaventurados los pobres de espíritu, porque de ellos es el Reino de los cielos») es el punto de partida de la reflexión de Benedicto XVI sobre la pobreza evangélica en *JdN_I*. El Papa distingue dos planos que no se oponen, sino que se complementan:
@@ -52,18 +58,6 @@ La primera Bienaventuranza («Bienaventurados los pobres de espíritu, porque de
 **Francisco de Asís.** El Papa analiza la opción radical de Francisco como interpretación paradigmática de la primera Bienaventuranza: «hasta el punto de despojarse de sus vestiduras y hacerse proporcionar otra por el obispo como representante de la bondad paterna de Dios». Su pobreza era «libertad para servir, libertad para la misión, confianza extrema en Dios».
 
 **Pobreza y libertad interior.** La pobreza evangélica no es un fin en sí mismo, sino el camino de la libertad: «Tener como si no se tuviera (cf. 2 Co 7,29 ss): aprender esta tensión interior como la exigencia quizás más difícil y poder revivirla siempre». La pobreza es el presupuesto para acoger el Reino.
-
-### Según Juan Pablo II (PDV)
-
-*Pastores dabo vobis* dedica el n. 30 a la pobreza evangélica del sacerdote. La pobreza es presentada como «sumisión de todos los bienes al Bien supremo de Dios y de su Reino» (PDV 30). La pobreza del sacerdote, en virtud de su configuración sacramental con Cristo, Cabeza y Pastor, tiene características «pastorales» precisas: los sacerdotes, siguiendo el ejemplo de Cristo que siendo rico se hizo pobre por amor (2 Cor 8,9), deben considerar a los pobres y a los más débiles como confiados a ellos de un modo especial y testimoniar la pobreza con una vida sencilla y austera, renunciando generosamente a lo superfluo (PDV 30; cf. OT 9; CIC c. 282).
-
-La pobreza asegura al sacerdote su disponibilidad a ser enviado donde su trabajo sea más útil y urgente, aunque comporte sacrificio personal. Es condición para la docilidad al Espíritu. El sacerdote debe ofrecer el testimonio de una total transparencia en la administración de los bienes de la comunidad. La libertad interior que la pobreza evangélica custodia prepara al sacerdote para estar al lado de los más débiles, promover la opción preferencial por los pobres y ser signo profético en las sociedades de consumo (PDV 30).
-
-### Según Royo Marín (TPCr)
-
-La pobreza evangélica es uno de los tres consejos evangélicos esenciales al estado religioso (TPCr, Tercera Parte, Libro III). Por el voto de pobreza, el religioso se obliga a vivir pobremente a imitación de Cristo pobre. La pobreza afectiva (espíritu de desprendimiento) obliga a todos los bautizados. La perfección cristiana exige la santa indiferencia entre riqueza y pobreza, teniendo a Dios como único bien (TPCr, Tercera Parte, Libro II, caps. IV-V).
-
-[TPCr, Tercera Parte, Libro II; Tercera Parte, Libro III]
 
 ### Según Mons. Tihámer Tóth (JvC-Muj)
 
@@ -103,7 +97,7 @@ Giussani presenta al pobre por espíritu como quien ofrece: «la ofrenda es, ant
 
 Este es el sentido del desapego evangélico: «hay todo el problema del desapego inherente para ser experiencia de posesión completa» (AED, 22, 47). Como el aeroplano que, antes de despegar, hace subir el motor al máximo hasta que toda la estructura vibra, el amor que se detiene a un metro del objeto querido posee más que quien lo agarra con ambas manos: «en aquel momento quieres a la persona cien mil veces más que si la agarraras con las dos manos» (AED, 22, 47-51). La pobreza es así la adoración que reconoce en toda criatura el signo de Cristo y que, por eso, «nada en el mundo la puede cancelar» (AED, 22, 57).
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 En el séptimo mandamiento, Sicari advierte que el mal condenado no se agota en
 el acto material de quitar el dinero ajeno: se radica en la relación que el

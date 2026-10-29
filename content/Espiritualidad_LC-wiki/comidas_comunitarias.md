@@ -16,7 +16,7 @@ Las comidas comunitarias en la Legión de Cristo son los ritos y normas que regu
 
 ## Desarrollo doctrinal
 
-La comida comunitaria tiene un profundo fundamento teológico. Jesús comió con sus discípulos en múltiples ocasiones: en la Última Cena instituyó la Eucaristía; en el lago de Tiberíades preparó la pesca milagrosa y desayunó con los apóstoles resucitado (Jn 21,9-14); en multiple ocasiones cenó con publicanos y pecadores, lo que provocó la crítica de los fariseos. La comida compartida es signo de comunión, de fraternidad y de la alegría del Reino.
+La comida comunitaria tiene un profundo fundamento teológico. Jesús comió con sus discípulos en múltiples ocasiones: en la Última Cena instituyó la Eucaristía; en el lago de Tiberíades preparó la pesca milagrosa y desayunó con los apóstoles resucitado (Jn 21,9-14); en múltiple ocasiones cenó con publicanos y pecadores, lo que provocó la crítica de los fariseos. La comida compartida es signo de comunión, de fraternidad y de la alegría del Reino.
 
 Para los legionarios, la comida comunitaria no es simplemente un momento de nutrición sino un espacio formativo integral. En ella se practican la atención, el dominio propio, el respeto por los demás, la generosidad (sirviendo primero al compañero) y la alegría de compartir. Las normas de etiqueta, que pueden parecer excesivas desde fuera, son en realidad una pedagogía de la atención y del servicio: cada gesto minucioso educate la sensibilidad y la capacidad de cuidar al otro.
 

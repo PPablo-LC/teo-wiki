@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Spotlight: Stories of Conversion"
+title: "Spotlight: Stories of Conversión"
 fuente: Evangelization and culture - 18_capitulos
 capítulo: 9
 timestamp: 2026-09-05
-description: "Resumen de 'Spotlight: Stories of Conversion' — Evangelization and culture - 18_capitulos"
+description: "Resumen de 'Spotlight: Stories of Conversión' — Evangelization and culture - 18_capitulos"
 tags: ["resumen", "evangelization and culture - 18 capitulos"]
 ---
 
-# Spotlight: Stories of Conversion
+# Spotlight: Stories of Conversión
 
 ## Conceptos básicos referenciados
 
@@ -36,7 +36,7 @@ El artículo reúne historias personales de conversión al catolicismo enviadas 
 
 ## A Fugitive Returns Home
 
-*por Martin Jumbam — St. Gertrude Writing Group*
+*por Martín Jumbam — St. Gertrude Writing Group*
 
 El 1 de enero de 1993, el arzobispo de Duala (Camerún), Christian Cardinal Tumi, convoca a sus cristianos y a todos los hombres de buena voluntad a una «**Marcha por la Paz**» por la ciudad. Jumbam, periodista, espera una rueda de prensa del cardenal, célebre por denunciar la violación de los derechos básicos del pueblo por políticos intolerantes. El cardenal llega bendiciendo a la multitud y una camioneta con una estatua engalanada de la **Virgen María**; la procesión se pone en marcha sin que dé rueda de prensa. Guiado quizá por el Espíritu Santo, Jumbam decide seguir a la multitud. Se siente culpable por ser el único sin rosario: es católico de cuna pero llevaba tiempo sin practicar. Una voz interior le dice: «Tú también deberías estar rezando en esta multitud con tu propio rosario», y descubre que ha olvidado oraciones tan sencillas como el Padrenuestro, el Avemaría y el Gloria. Tras horas de caminata bajo el calor de Duala, llegan a la catedral de San Pedro y San Pablo, donde el cardenal habla de la paz: «Que la paz comience con cada uno de nosotros. Solo cuando tenemos paz interior podemos extender esa paz a nuestras familias, que son la **iglesia doméstica** y el microcosmos de la sociedad. Desde ahí, podemos extenderla a nuestra ciudad de Duala y a nuestro país». Jumbam, que pasa cada día por delante de la catedral sin entrar, se siente un intruso. Una voz le susurra: «¿Dónde crees que puedes huir del alcance del Señor? En el fondo del mar, su mano está ahí para recogerte... No eres un extraño. Ocupa tu lugar en su casa, donde perteneces» (cf. Sal 139). «Me incliné», escribe, «porque no es fácil seguir siendo un fugitivo del abrazo amoroso de Dios».
 

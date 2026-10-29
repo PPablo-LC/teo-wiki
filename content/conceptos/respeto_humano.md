@@ -51,7 +51,7 @@ JvC-Muj presenta los mismos ejemplos: la torre del castillo que desafía los sig
 
 ## Relaciones doctrinales
 
-El respeto humano se opone a la [[fortaleza]] y a la [[confesión_de_la_fe]]. Es una manifestación de [[soberbia]] disfrazada (temor a perder la reputación). Se vence mediante la [[humildad]] y el [[temor_de_dios]].
+El respeto humano se opone a la [[fortaleza]] y a la [[confesión_de_fe]]]. Es una manifestación de [[soberbia]] disfrazada (temor a perder la reputación). Se vence mediante la [[humildad]] y el [[temor_de_dios]].
 
 ## Ver también
 

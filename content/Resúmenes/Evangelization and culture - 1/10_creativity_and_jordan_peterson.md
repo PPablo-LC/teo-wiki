@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "Creativity and Jordan Peterson"
+title: "Creativity and Jordán Peterson"
 fuente: Evangelization and culture - 1
 capítulo: 10
 timestamp: 2026-08-25
@@ -8,7 +8,7 @@ description: "Creatividad humana y sus límites según la perspectiva tomista"
 tags: ["resumen", "creatividad", "imagen_de_Dios", "pecado_original", "soberbia"]
 ---
 
-# Creativity and Jordan Peterson
+# Creativity and Jordán Peterson
 
 ## Conceptos básicos referenciados
 

@@ -41,12 +41,12 @@ Chesterton es la figura más citada del número dedicado al humor (7 de 24 archi
 Dale Ahlquist («The Eucharistic Spirituality of G.K. Chesterton») desarrolla la dimensión eucarística de Chesterton:
 
 - **La Eucaristía como punto de inflexión de su conversión.** Ya tenía un gran dominio teológico antes de convertirse, pero «algo sí cambió: empezó a recibir la Eucaristía, lo que significaba… que empezó a ir a la iglesia». Como anglicano nunca iba a la iglesia —su vicario confesó que era un «malísimo anglicano»—; convertido, no faltaba a misa. «Solo una religión que fuera verdadera podía llevar a un hombre a tales extremos».
-- **El temor de Dios ante la Presencia.** No tomaba la Eucaristía a la ligera: temblaba y sudaba ante «esa tremenda Realidad»; repetía una y otra vez el «Señor, no soy digno». Cuando llevaron la Comunión a su esposa Frances enferma, dijo: «Soy un hombre sencillo y tengo miedo cuando Dios viene a mi casa». «El temor del Señor es el principio de la sabiduría. Chesterton era un hombre sabio.»
+- **El temor de Dios ante la Presencia.** No tomaba la Eucaristía a la ligera: temblaba y sudaba ante «esa tremenda Realidad»; repetía una y otra vez el «Señor, no soy digno». Cuando llevaron la Comunión a su esposa Francés enferma, dijo: «Soy un hombre sencillo y tengo miedo cuando Dios viene a mi casa». «El temor del Señor es el principio de la sabiduría. Chesterton era un hombre sabio.»
 - **Contra el protestantismo anti-eucarístico.** El verdadero enemigo en su madurez fue el protestantismo, «ataque al sacerdocio» y por tanto «ataque al altar». La Reforma «quita el altar… quita a Dios»; «la Iglesia católica conserva el altar y a Dios». Su defensa de la transubstanciación con humor y llaneza: «habría una diferencia práctica considerable entre Jehová pervadiendo el universo y Jesucristo entrando en la habitación».
 - **El «materialismo místico» cristiano.** El cristianismo estuvo marcado desde su nacimiento por un «materialismo místico», centrado en el altar y el sacrificio, que es la continuidad histórica que solo la Iglesia católica preserva.
 - **La Eucaristía como acción de gracias.** Su espiritualidad eucarística se resume en la etimología de *eucaristía*: **agradecimiento**. «El agradecimiento es la forma más alta de pensamiento»; «la prueba de toda felicidad es la gratitud». Vivió la contrición y la contemplación como hábito: «estaba completamente consciente de la Cosa… trajo la contemplación a esta tierra y la convirtió en un hábito». De ahí su humildad, bondad y santidad — y por eso fue un hombre feliz.
 
-### Según Evangelization & Culture n.º 18 «Conversion» (EAC-18)
+### Según Evangelization & Culture n.º 18 «Conversión» (EAC-18)
 
 Chesterton es invocado en el número dedicado a la conversión en tres registros:
 
@@ -73,5 +73,5 @@ Chesterton demuestra que el humor no es lo contrario de la seriedad dogmática s
 
 - EAC-8, archivos 02, 04, 13, 14, 16, 18, 20
 - Ahlquist, Dale. «The Eucharistic Spirituality of G.K. Chesterton», en *Evangelization & Culture* 13 (Autumn 2022).
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (08_poetry_the_convert.md; 18_spotlight_barron_on_conversion.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (08_poetry_the_convert.md; 18_spotlight_barron_on_conversion.md).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 09_poetry_chatgpt.md (epígrafe); 13_art.md (Daniel Granitto).

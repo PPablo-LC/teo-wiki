@@ -76,6 +76,6 @@ Las versiones de las palabras de la institución en Mt 26,28, Mc 14,24, Lc 22,20
 
 ## Referencias
 
-- *The Case for Jesus* (CfJ), las 3 sesiones.
-- Dunn, James D.G. *Jesus Remembered*. Eerdmans, 2003.
+- *The Case for Jesús* (CfJ), las 3 sesiones.
+- Dunn, James D.G. *Jesús Remembered*. Eerdmans, 2003.
 - Lucas 1,1-4; Jn 19,35; Jn 21,24-25.

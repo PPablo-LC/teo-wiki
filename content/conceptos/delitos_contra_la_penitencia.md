@@ -30,11 +30,11 @@ Categoría de **graviora delicta** reservadas a la Congregación para la Doctrin
 
 ## Relaciones doctrinales
 
-[[delitos_canónicos]], [[sello_sacramental]], [[sacramento_de_penitencia]], [[absolución_de_los_pecados]], [[absolución_del_cómplice]], [[confesor]], [[excomunión]], [[sacramentorum_sanctitatis_tutela|SST]], [[normae_de_gravioribus_delictis|SST-2010]], [[derecho_penal_canónico]]
+[[delitos_canónicos]], [[sello_sacramental]], [[sacramento_de_penitencia]], [[absolución]]], [[absolución_del_cómplice]], [[confesor]], [[excomunión]], [[sacramentorum_sanctitatis_tutela|SST]], [[normae_de_gravioribus_delictis|SST-2010]], [[derecho_penal_canónico]]
 
 ## Ver también
 
-[[delitos_canónicos]], [[sello_sacramental]], [[sacramento_de_penitencia]], [[absolución_de_los_pecados]], [[absolución_del_cómplice]], [[confesor]], [[sacramentorum_sanctitatis_tutela|SST]], [[normae_de_gravioribus_delictis|SST-2010]], [[delitos_contra_la_fe]], [[delitos_contra_la_moral]]
+[[delitos_canónicos]], [[sello_sacramental]], [[sacramento_de_penitencia]], [[absolución]]], [[absolución_del_cómplice]], [[confesor]], [[sacramentorum_sanctitatis_tutela|SST]], [[normae_de_gravioribus_delictis|SST-2010]], [[delitos_contra_la_fe]], [[delitos_contra_la_moral]]
 
 ## Referencias
 

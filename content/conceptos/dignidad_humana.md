@@ -35,6 +35,21 @@ La [[libertad_humana]] es «un componente esencial de la dignidad humana. El hom
 
 «El honor es el testimonio social dado a la dignidad humana y cada uno posee un derecho natural al honor de su nombre, a su reputación y a su respeto» (§2479).
 
+### Según el Compendio (CompDS)
+
+La Iglesia ve en cada hombre la imagen viva de Dios mismo, que encuentra su plena razón de ser en Cristo [CompDS §105]. La inviolable dignidad de la persona humana es el principio del que se desarrolla toda la doctrina social [CompDS §107]. Una sociedad justa puede realizarse solo en el respeto de la dignidad trascendente de la persona humana, que es el fin último de la sociedad [CompDS §132]. La persona no puede ser instrumentalizada para fines ajenos a su propio desarrollo, que solo puede realizar plenamente en Dios [CompDS §133]. «Dios no hace acepción de personas» (Hch 10,34): todos los hombres tienen la misma dignidad de criaturas a su imagen y semejanza [CompDS §144]. La Encarnación del Hijo de Dios manifiesta la igualdad de todas las personas en cuanto a dignidad [CompDS §144]. Solo el reconocimiento de la dignidad humana hace posible el crecimiento común y personal de todos [CompDS §145].
+
+La dignidad del trabajo se funda en su dimensión subjetiva: la persona es la medida de la dignidad del trabajo, que impide considerarlo como una simple mercancía [CompDS §270-272]. El trabajo es un derecho fundamental y un bien para el hombre, porque expresa y acrecienta la dignidad humana [CompDS §287]. La dignidad de la mujer en el ámbito laboral exige que el trabajo se estructure de manera que no deba pagar su promoción con el abandono de su carácter específico [CompDS §295]. Los derechos de los trabajadores se basan en la naturaleza de la persona humana y en su dignidad trascendente [CompDS §301]. La remuneración debe permitir al hombre y a su familia una vida digna [CompDS §302]. La persona humana tiene necesidades que van más allá del «tener», porque su naturaleza y su vocación están en relación inseparable con el Trascendente [CompDS §318]. Las personas constituyen el patrimonio más valioso de la empresa [CompDS §344]. Los países ricos, aun en medio de la abundancia de bienes materiales, pueden experimentar una alienación y pérdida de la propia humanidad [CompDS §374].
+### Según el Concilio Vaticano II (ConcVatII)
+
+La dignidad de la persona humana tiene su fundamento en haber sido creada «a imagen de Dios» (GS 12), con capacidad para conocer y amar a su Creador, constituida señor de la creación visible. El hombre es superior al universo material por su interioridad espiritual; su alma es inmortal (GS 14). La razón más alta de su dignidad consiste en la vocación a la unión con Dios (GS 19). «En realidad, el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado» (GS 22): Cristo, el nuevo Adán, revela plenamente el hombre al propio hombre. La dignidad humana requiere que el hombre actúe según su conciencia y libre elección (GS 17). El Concilio proclama que «todo cuanto atenta contra la vida... cuanto viola la integridad de la persona humana... cuanto ofende a la dignidad humana... son prácticas infamantes, degradan la civilización humana» (GS 27). La igualdad fundamental entre todos los hombres exige reconocimiento creciente; toda discriminación por motivos de sexo, raza, color, condición social o religión debe ser eliminada (GS 29).
+
+### Según Royo Marín (TPCr)
+
+«El hombre por su naturaleza racional está mil veces por encima del mundo de los animales. [...] Pero mil veces por encima de su dignidad humana, puramente natural, está su dignidad cristiana, estrictamente sobrenatural. Por la gracia, en efecto, el hombre es elevado, de alguna manera, al rango de la divinidad» (TPCr, Tercera Parte, Libro I, Cap. IV).
+
+«El bien sobrenatural de un solo individuo procedente de la gracia santificante está por encima y vale más que el bien natural de todo el universo» (TPCr, citando a Santo Tomás, I-II, 113, 9 ad 2).
+
 ### Según la Dives in Misericordia (DM)
 
 La dignidad humana es un tema recurrente en la encíclica. Juan Pablo II afirma que «la manifestación del hombre en la plena dignidad de su naturaleza no puede tener lugar sin la referencia —no solo conceptual, sino también íntegramente existencial— a Dios» [DM §1]. Cristo «manifiesta plenamente el hombre al propio hombre y le descubre la sublimidad de su vocación» [DM §1, citando GS 22].
@@ -54,24 +69,6 @@ El hombre —todo hombre sin excepción alguna— ha sido redimido por Cristo [R
 El mundo contemporáneo presenta múltiples amenazas a la dignidad humana: la explotación de la tierra, el progreso técnico sin desarrollo moral, la alienación del hombre por sus propios productos [RH §15]. La cuestión fundamental es si el progreso hace la vida «más humana» y «más digna del hombre» [RH §15]. La situación del hombre aparece «distante tanto de las exigencias objetivas del orden moral, como de las exigencias de la justicia o aún más del amor social» [RH §16]. La civilización consumística produce un exceso de bienes para unos mientras otros sufren hambre [RH §16]. Se impone la «prioridad de la ética sobre la técnica, el primado de la persona sobre las cosas, la superioridad del espíritu sobre la materia» [RH §16].
 
 Los derechos humanos son expresión de la dignidad de la persona. La Declaración Universal de los Derechos Humanos constituye un «magnífico esfuerzo» para definir los derechos inviolables del hombre, y la paz se reduce al respeto de estos derechos [RH §17]. La violación de los derechos humanos va acompañada de la violación de los derechos de las naciones [RH §17]. La libertad religiosa es un derecho fundamental cuyo respeto es «una de las verificaciones fundamentales del auténtico progreso del hombre» [RH §17].
-
-### Según el Compendio (CompDS)
-
-La Iglesia ve en cada hombre la imagen viva de Dios mismo, que encuentra su plena razón de ser en Cristo [CompDS §105]. La inviolable dignidad de la persona humana es el principio del que se desarrolla toda la doctrina social [CompDS §107]. Una sociedad justa puede realizarse solo en el respeto de la dignidad trascendente de la persona humana, que es el fin último de la sociedad [CompDS §132]. La persona no puede ser instrumentalizada para fines ajenos a su propio desarrollo, que solo puede realizar plenamente en Dios [CompDS §133]. «Dios no hace acepción de personas» (Hch 10,34): todos los hombres tienen la misma dignidad de criaturas a su imagen y semejanza [CompDS §144]. La Encarnación del Hijo de Dios manifiesta la igualdad de todas las personas en cuanto a dignidad [CompDS §144]. Solo el reconocimiento de la dignidad humana hace posible el crecimiento común y personal de todos [CompDS §145].
-
-### Según el Compendio (CompDS)
-
-La dignidad del trabajo se funda en su dimensión subjetiva: la persona es la medida de la dignidad del trabajo, que impide considerarlo como una simple mercancía [CompDS §270-272]. El trabajo es un derecho fundamental y un bien para el hombre, porque expresa y acrecienta la dignidad humana [CompDS §287]. La dignidad de la mujer en el ámbito laboral exige que el trabajo se estructure de manera que no deba pagar su promoción con el abandono de su carácter específico [CompDS §295]. Los derechos de los trabajadores se basan en la naturaleza de la persona humana y en su dignidad trascendente [CompDS §301]. La remuneración debe permitir al hombre y a su familia una vida digna [CompDS §302]. La persona humana tiene necesidades que van más allá del «tener», porque su naturaleza y su vocación están en relación inseparable con el Trascendente [CompDS §318]. Las personas constituyen el patrimonio más valioso de la empresa [CompDS §344]. Los países ricos, aun en medio de la abundancia de bienes materiales, pueden experimentar una alienación y pérdida de la propia humanidad [CompDS §374].
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-La dignidad de la persona humana tiene su fundamento en haber sido creada «a imagen de Dios» (GS 12), con capacidad para conocer y amar a su Creador, constituida señor de la creación visible. El hombre es superior al universo material por su interioridad espiritual; su alma es inmortal (GS 14). La razón más alta de su dignidad consiste en la vocación a la unión con Dios (GS 19). «En realidad, el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado» (GS 22): Cristo, el nuevo Adán, revela plenamente el hombre al propio hombre. La dignidad humana requiere que el hombre actúe según su conciencia y libre elección (GS 17). El Concilio proclama que «todo cuanto atenta contra la vida... cuanto viola la integridad de la persona humana... cuanto ofende a la dignidad humana... son prácticas infamantes, degradan la civilización humana» (GS 27). La igualdad fundamental entre todos los hombres exige reconocimiento creciente; toda discriminación por motivos de sexo, raza, color, condición social o religión debe ser eliminada (GS 29).
-
-### Según Royo Marín (TPCr)
-
-«El hombre por su naturaleza racional está mil veces por encima del mundo de los animales. [...] Pero mil veces por encima de su dignidad humana, puramente natural, está su dignidad cristiana, estrictamente sobrenatural. Por la gracia, en efecto, el hombre es elevado, de alguna manera, al rango de la divinidad» (TPCr, Tercera Parte, Libro I, Cap. IV).
-
-«El bien sobrenatural de un solo individuo procedente de la gracia santificante está por encima y vale más que el bien natural de todo el universo» (TPCr, citando a Santo Tomás, I-II, 113, 9 ad 2).
 
 ### Según la Encíclica Magnífica Humanitas (MH)
 
@@ -145,7 +142,7 @@ El pudor y la modestia han de estar «hondamente arraigados en el respeto del pr
 
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
-Bobby Angel cita a Viktor Frankl (*Man's Search for Meaning*) al tratar la comedia frente al problema del mal: «El hombre inventó las cámaras de gas de Auschwitz; pero también es ese ser que entró en ellas erguido, con el Padrenuestro o el Shemá Israel en los labios». La dignidad humana permanece incluso en el abismo del mal: libertad y sentido sobreviven al sufrimiento extremo, y con ellas el humor como una de las formas de esa última libertad interior.
+Bobby Ángel cita a Viktor Frankl (*Man's Search for Meaning*) al tratar la comedia frente al problema del mal: «El hombre inventó las cámaras de gas de Auschwitz; pero también es ese ser que entró en ellas erguido, con el Padrenuestro o el Shemá Israel en los labios». La dignidad humana permanece incluso en el abismo del mal: libertad y sentido sobreviven al sufrimiento extremo, y con ellas el humor como una de las formas de esa última libertad interior.
 
 ## Ver también
 [[hombre]], [[persona_humana]], [[gracia_santificante]], [[libertad_humana]], [[conciencia_moral]], [[ley_natural]], [[creación]]

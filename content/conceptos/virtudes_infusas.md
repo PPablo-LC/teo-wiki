@@ -28,10 +28,6 @@ Las virtudes morales infusas perfeccionan el orden de los medios hacia el fin so
 
 ## Perspectivas por fuente
 
-### Según el Enchiridion Symbolorum (Denzinger)
-
-**Concilio de Vienne** (1312, D-483) definió, contra los begardos que negaban la necesidad de las virtudes infusas, que «en el bautismo se infunde la gracia santificante y las virtudes en los niños». Este decreto afirma explícitamente que las virtudes sobrenaturales (virtudes infusas) son infundidas por Dios en el alma junto con la gracia santificante, incluso en los niños que no tienen uso de razón, rechazando así el error de quienes sostenían que solo la fe era necesaria para la justificación.
-
 ### Según Royo Marín (TPCr)
 
 Royo Marín presenta las virtudes infusas como esenciales para la perfección cristiana. La caridad es la reina de todas las virtudes, el vínculo de la perfección y la forma de todas las virtudes (las informa y vivifica). Sin caridad, ni la fe ni la esperanza ni las virtudes morales tienen valor sobrenatural.
@@ -41,6 +37,10 @@ La perfección cristiana consiste formalmente en la caridad: en el amor a Dios y
 Las virtudes infusas crecen con el aumento de la gracia santificante y se pierden con el pecado mortal (las teologales y morales infusas) o con el pecado venial (las morales infusas, según algunos teólogos).
 
 [TPCr, Parte II, Cap. 2]
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Vienne** (1312, D-483) definió, contra los begardos que negaban la necesidad de las virtudes infusas, que «en el bautismo se infunde la gracia santificante y las virtudes en los niños». Este decreto afirma explícitamente que las virtudes sobrenaturales (virtudes infusas) son infundidas por Dios en el alma junto con la gracia santificante, incluso en los niños que no tienen uso de razón, rechazando así el error de quienes sostenían que solo la fe era necesaria para la justificación.
+
 
 ## Distinciones importantes
 

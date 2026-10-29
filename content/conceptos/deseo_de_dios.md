@@ -29,7 +29,7 @@ Dios no cesa de llamar a todo hombre a buscarle para que viva y encuentre la dic
 
 El Catecismo enseña que «la razón más alta de la dignidad humana consiste en la vocación del hombre a la comunión con Dios» (§27). El hombre es invitado al diálogo con Dios desde su nacimiento: no existe sino porque, creado por amor, es conservado siempre por amor; y no vive plenamente según la verdad si no reconoce libremente aquel amor y se entrega a su Creador.
 
-San Agustín formula esta verdad con palabras inmortales: «Nos has hecho para ti, Señor, y nuestro corazón está inquieto mientras no descansa en ti» (§30).
+San Agustín fórmula esta verdad con palabras inmortales: «Nos has hecho para ti, Señor, y nuestro corazón está inquieto mientras no descansa en ti» (§30).
 
 El hombre es por naturaleza y por vocación un ser religioso: «Viniendo de Dios y yendo hacia Dios, el hombre no vive una vida plenamente humana si no vive libremente su vínculo con Dios» (§44).
 

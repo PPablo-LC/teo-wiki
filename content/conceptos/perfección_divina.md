@@ -22,13 +22,13 @@ La teología distingue entre perfecciones puras (ser, bondad, verdad, unidad, sa
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«Dios es la plenitud del Ser y de toda perfección, sin origen y sin fin» (CEC §213). «Todas las criaturas tienen algo de Dios, llevan en sí mismas una cierta semejanza con Él» (CEC §41). La revelación divina muestra la perfección de Dios en sus atributos: Omnipotente, Misericordioso, Santo, Verdad, Amor (CEC §214-221).
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la perfección de Dios en SmTh Iª q.4. Dios es perfecto (a.1): es el principio primero, y todo lo perfecto procede de Él. Dios es perfectísimo (a.2): contiene en sí las perfecciones de todas las cosas, pues Él es la causa de toda perfección. Las perfecciones de las criaturas están en Dios de modo más eminente (a.3): las perfecciones múltiples y diversas en las criaturas preexisten en Dios unida y simplemente.
 
-### Según el Catecismo (CEC)
-
-«Dios es la plenitud del Ser y de toda perfección, sin origen y sin fin» (CEC §213). «Todas las criaturas tienen algo de Dios, llevan en sí mismas una cierta semejanza con Él» (CEC §41). La revelación divina muestra la perfección de Dios en sus atributos: Omnipotente, Misericordioso, Santo, Verdad, Amor (CEC §214-221).
 
 ## Ver también
 

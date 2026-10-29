@@ -20,7 +20,7 @@ tags: ["resumen", "teol_perf_cristiana", "virtudes", "dones_del_Espíritu_Santo"
 
 ## Secciones incluidas
 
-## CAPITULO II — La práctica de las virtudes cristianas y de los dones del Espíritu Santo
+## CAPÍTULO II — La práctica de las virtudes cristianas y de los dones del Espíritu Santo
 
 Se examina el modo de practicar las virtudes cada vez con mayor perfección y cómo disponerse para la actuación de los dones. Se insiste en las siete virtudes principales (tres teologales y cuatro cardinales), estudiando a continuación de cada virtud el don correspondiente, como hace Santo Tomás en la Suma Teológica.
 
@@ -28,7 +28,7 @@ Se examina el modo de practicar las virtudes cada vez con mayor perfección y c�
 
 Son las más importantes de la vida cristiana: unen a Dios como Verdad infinita (fe), Bienaventuranza suprema (esperanza) y sumo Bien en sí mismo (caridad). Son las únicas que dicen relación inmediata a Dios.
 
-### ARTICULO 1 — La Virtud De La Fe
+### ARTÍCULO 1 — La Virtud De La Fe
 
 La fe es una virtud teologal infundida en el entendimiento por la que asentimos a las verdades reveladas por la autoridad de Dios. Es el comienzo, fundamento y raíz de la justificación (Trento). Se distinguen las diversas formas de fe (divina/católica, habitual/actual, formada/informe, explícita/implícita, interna/externa, objetiva/subjetiva) y los pecados contra ella (infidelidad, herejía, apostasía, blasfemia). El crecimiento en la fe sigue tres etapas: principiantes (nutrir la fe, huir de peligros, estudiar dogmas), adelantados (vivir de fe, ver todo a través del prisma sobrenatural), perfectos (fe iluminada por los dones de entendimiento y ciencia, alcanzando intensidad máxima).
 
@@ -48,7 +48,7 @@ Virtud teologal infundida en la voluntad por la que confiamos alcanzar la vida e
 
 Hábito sobrenatural por el que el justo, bajo el instinto del Espíritu Santo, se somete totalmente a Dios por reverencia a su majestad. Distinción de temores: mundano (malo), servil (imperfecto pero bueno), filial (perfecto, propio del don), inicial (intermedio). Sólo el temor filial es propiamente don del Espíritu Santo. Perfecciona tres virtudes principalmente: la esperanza (combate la presunción), la templanza (reprime los placeres carnales) y la humildad (sumerge en la nada ante Dios). Efectos: vivo sentimiento de la grandeza y majestad de Dios, gran horror al pecado y vivísima contrición. Continuará en el cielo en su aspecto reverencial.
 
-### ARTICULO 3 — La Virtud De La Caridad
+### ARTÍCULO 3 — La Virtud De La Caridad
 
 [La caridad es la virtud teologal por la que amamos a Dios sobre todas las cosas por sí mismo y al prójimo como a nosotros mismos por amor de Dios. Es la más excelente de todas las virtudes, forma de todas ellas y raíz del mérito sobrenatural. Royo Marín expone su naturaleza, objeto (Dios como sumo Bien), motivo formal (la bondad infinita de Dios), y su doble mandamiento (amor a Dios y al prójimo). Explica los grados de caridad según Santo Tomás (incipientes, proficientes, perfectos) y su crecimiento mediante actos más intensos. El don correspondiente a la caridad es el don de sabiduría.]
 
@@ -58,7 +58,7 @@ Hábito sobrenatural por el que el justo, bajo el instinto del Espíritu Santo, 
 
 ## B. Las Virtudes Morales
 
-### ARTICULO 4 — La Virtud De La Prudencia
+### ARTÍCULO 4 — La Virtud De La Prudencia
 
 [La prudencia es la virtud cardinal que rectifica la razón práctica para discernir en cada caso concreto lo que se debe hacer y lo que se debe evitar. Es la «auriga virtutum» (conductora de las virtudes) porque dirige todas las demás virtudes morales. Royo Marín expone sus partes integrantes (consejo, juicio, imperio), sus especies y los pecados opuestos (imprudencia, precipitación, inconsideración). La prudencia sobrenatural es informada por la fe y dirigida por el don de consejo.]
 
@@ -66,11 +66,11 @@ Hábito sobrenatural por el que el justo, bajo el instinto del Espíritu Santo, 
 
 [El don de consejo perfecciona la virtud de la prudencia, capacitando al alma para discernir con prontitud y certeza sobrenatural lo que debe hacer en cada situación concreta, especialmente en circunstancias difíciles. Bajo la moción del Espíritu Santo, el alma recibe una luz especial para aplicar los principios eternos a los casos particulares. Bienaventuranza correspondiente: «Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia». Es el don de los directores espirituales y de las almas que deben guiar a otras.]
 
-### ARTICULO 5 — La Virtud De La Justicia
+### ARTÍCULO 5 — La Virtud De La Justicia
 
 [La justicia es la virtud cardinal por la que damos a cada uno lo que le es debido. Royo Marín distingue la justicia conmutativa (entre particulares), distributiva (de la sociedad al individuo) y legal (del individuo a la sociedad). La virtud de la religión (dar a Dios el culto debido) es la principal virtud aneja a la justicia. Se exponen los pecados opuestos (homicidio, hurto, injusticia, etc.) y el crecimiento de la justicia en la vida espiritual.]
 
-### ARTICULO 6 — La Virtud De La Fortaleza
+### ARTÍCULO 6 — La Virtud De La Fortaleza
 
 [La fortaleza es la virtud cardinal que modera el temor y la audacia, firmando al alma en el bien ante las dificultades. Sus actos principales son: acometer (atacar las dificultades) y soportar (sufrir con paciencia). Virtudes anejas: magnanimidad, magnificencia, paciencia y perseverancia. Royo Marín expone cómo el mártir es el modelo perfecto de fortaleza y cómo esta virtud es necesaria para todos los cristianos en la lucha espiritual.]
 
@@ -78,7 +78,7 @@ Hábito sobrenatural por el que el justo, bajo el instinto del Espíritu Santo, 
 
 [El don de fortaleza perfecciona la virtud del mismo nombre, capacitando al alma para emprender y sufrir cosas heroicas bajo la moción del Espíritu Santo, superando toda timidez o flaqueza humana. Produce una confianza inquebrantable en Dios y una energía sobrehumana para afrontar las pruebas más terribles. Bienaventuranza correspondiente: «Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados». Es el don de los mártires y de todos los santos que han llevado a cabo empresas heroicas para la gloria de Dios.]
 
-### ARTICULO 7 — La Virtud De La Templanza
+### ARTÍCULO 7 — La Virtud De La Templanza
 
 [La templanza es la virtud cardinal que modera la concupiscencia y el apetito de los placeres sensibles, especialmente los del tacto y el gusto. Royo Marín expone sus partes: abstinencia, sobriedad, castidad, pudor, virginidad. Los pecados opuestos son la gula, la embriaguez y la lujuria en todas sus formas. La templanza es particularmente necesaria en la vida espiritual para mantener el dominio de la razón sobre los instintos.]
 

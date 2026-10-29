@@ -4,7 +4,7 @@ title: "11. Las experiencias primordiales del hombre"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 53
 timestamp: 2026-08-01
-description: "Catequesis 11: las experiencias primordiales del hombre (soledad, unidad, desnudez), el significado de la desnudez originaria (Gén 2, 25) como elemento-clave de la antropología, y la vergüenza como experiencia «de límite» — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 11: las experiencias primordiales del hombre (soledad, unidad, desnudez), el significado de la desnudez originaria (Gén 2, 25) como elemento-clave de la antropología, y la vergüenza como experiencia «de límite» — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

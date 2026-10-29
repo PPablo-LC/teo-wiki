@@ -23,7 +23,7 @@ Giussani analiza el totalitarismo en su dimensión religiosa: la pretensión del
 
 ### Il senso religioso — Luigi Giussani (SR)
 
-- Capítulo XIV — la raíz idolátrica y la violencia: Rm 1,22-31; Sal 115,5-7; el idolo como fuente de la guerra; la rana de Esopo; los ejemplos del nazi, del marxista y del totalitarismo
+- Capítulo XIV — la raíz idolátrica y la violencia: Rm 1,22-31; Sal 115,5-7; el ídolo como fuente de la guerra; la rana de Esopo; los ejemplos del nazi, del marxista y del totalitarismo
 - Capítulo XIII — la persecución del fenómeno comunitario como la más inteligente; Mt 18,20 («donde dos o tres reunidos en mi nombre»); el paralelo de la planta cortada de raíz
 - Capítulo VIII — la supresión de la libertad religiosa y comunitaria por el Estado (Lenin, Stalin, Hitler) y las consecuencias para la sociedad
 - Capítulo XII — la alternativa total: o el hombre se abre a la realidad o se defiende de ella erigiendo su propio punto de vista en absoluto
@@ -32,7 +32,7 @@ Giussani analiza el totalitarismo en su dimensión religiosa: la pretensión del
 
 - **Poder legítimo vs. poder totalitario**: la autoridad es orden al servicio del hombre; el totalitarismo subordina lo humano a un principio absoluto.
 - **Individualismo vs. totalitarismo**: dos negaciones opuestas del orden objetivo y de la dimensión comunitaria.
-- **Idolatría vs. adoración verdadera**: el idolo promete lo que no puede mantener; el Misterio respeta la libertad.
+- **Idolatría vs. adoración verdadera**: el ídolo promete lo que no puede mantener; el Misterio respeta la libertad.
 - **Persecución abierta vs. persecución sutil**: la supresión de la comunidad es la persecución más eficaz.
 
 ## Relaciones doctrinales

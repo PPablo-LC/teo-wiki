@@ -47,7 +47,7 @@ negro, tomado como símbolo de la experiencia elemental inagotable del hombre, d
 que se abre y busca sin descanso el rapporto con el infinito. La misma imagen había aparecido en
 el Volantone pasquale, acompañada de una frase de la Introduzione al cristianesimo de Joseph
 Ratzinger: «Che cosa accade quando io stesso mi faccio cristiano, quando mi sottometto al nome di
-questo Cristo, approvandolo così come l'uomo modello, come il parametro normativo d'ogni agire
+questo Cristo, approvandolo così come l'uomo modello, come il parámetro normativo d'ogni agire
 umano?». Don Giussani llegó el sábado por la mañana, tras haber sido recibido en audiencia privada
 por [[juan_pablo_ii]] la tarde anterior.
 
@@ -90,12 +90,12 @@ che Cristo è fuori della verità, preferirei esser con Cristo e non con la veri
 tenerezza entrase en todos, el ejemplo de santa Perpetua ante el pretor romano —«Come ti chiami?»,
 «Cristiana»; «E tuo padre?», «Cristiano»; «Cosa fai?», «Sono cristiana»—, donde «il rapporto con
 Cristo abbracciava tutto, era totalizzante» (R. Guardini: «Nell'esperienza di un grande amore […]
-tutto ciò che accade diventa un avvenimento nel suo ambito»).
+tutto ciò che accade diventa un avvenimento nel suo ámbito»).
 
 ### I
 
 **La primera frase** del texto pasqual. «Che cosa accade quando io stesso mi faccio cristiano, quando
-mi sottometto al nome di questo Cristo, approvandolo così come l'uomo modello, come il parametro
+mi sottometto al nome di questo Cristo, approvandolo così come l'uomo modello, come il parámetro
 normativo d'ogni agire umano?» La primera respuesta: «la coscienza che la nostra vita dipende da
 un Altro ed è in funzione di questo Altro». «La nostra vita riconosce il Padre: questa è la grande
 parola.» Se lo capisce quien entiende que toda la existencia del Hijo está «in funzione» del Padre,
@@ -107,7 +107,7 @@ che sei con me e non hai ancora capito? Chi vede me, vede il Padre» (Gv 14,9). 
 En Cristo, hombre, esta conciencia era «totalmente determinata»: «Io e il Padre siamo una cosa
 sola» (Gv 10,30); «Mio cibo è fare la volontà di colui che mi ha mandato e compiere la sua opera»
 (Gv 4,32.34); «Io non posso far nulla da me stesso» (Gv 5,30); «Sono disceso dal cielo non per fare
-la mia volontà, ma la volontà di colui che mi ha mandato» (Gv 6,38); «Come il Padre, che ha la vita,
+la mía volontà, ma la volontà di colui che mi ha mandato» (Gv 6,38); «Come il Padre, che ha la vita,
 mi ha mandato, così io vivo per il Padre» (Gv 6,57). Su vida era «come una mimesi continua, come
 uno specchio»; su conciencia, «continuamente specchio del Padre». Y «Chi parla da se stesso, cerca
 la propria gloria – e questo ci taglia la testa – ma chi cerca la gloria di colui che lo ha mandato,
@@ -115,7 +115,7 @@ questi è veritiero» (Gv 7,18).
 
 De aquí el «movimiento»: «il movimento è questo cuore nuovo, è un uomo nuovo, cioè una coscienza
 nuova, è la coscienza del destino. Non del destino che sta là, ma prima di tutto del destino che
-sta dentro di me, perché è la mia origine… sono fatto di qualcosa d'altro».
+sta dentro di me, perché è la mía origine… sono fatto di qualcosa d'altro».
 
 Y aquí la distinzione decisiva sobre el término: «la parola “coscienza” sulla bocca del cristiano è
 totalmente l'opposto di quella sulla bocca dell'uomo moderno». Para el hombre moderno es «el lugar
@@ -150,7 +150,7 @@ industrial de unos setenta años que le dijo en el tren de San Remo a Milán al 
 «Ho ottenuto tutto quello che volevo ottenere nella vita… ma io, giunto a settant'anni, mi domando se
 non ho perso la vita».
 
-No es una cuestión moralística sino «come una guerra»: no basta el proposito de pensar a Dios en
+No es una cuestión moralística sino «come una guerra»: no basta el propósito de pensar a Dios en
 cada acto; basta la fidelidad a los momentos —«le Lodi, l'Ora Media, il Vespro, la Compieta, la
 Comunione, la Confessione»— y a alguno de ellos «come l'andare a mendicare, nel senso letterale
 della parola». Así «lentamente è come l'accendersi di una luce in un salone», y «l'umanità è
@@ -161,7 +161,7 @@ la fede viene meno la nostra ragione, diventa meno ragionevole il vivere».
 
 El otro sentimiento que vibraba en Cristo era «la passione perché la gente fosse più felice»: «Non
 si capisce il cristianesimo se non s'arriva a questo punto», porque «La pace, infatti, non può nascere
-se non nella letizia» (Ch. Péguy: «Per sperare, bimba mia, bisogna essere molto felici, bisogna aver
+se non nella letizia» (Ch. Péguy: «Per sperare, bimba mía, bisogna essere molto felici, bisogna aver
 ottenuto, ricevuto una grande grazia»). La gioia grande es «questa sicurezza assoluta dell'essere
 posseduti da Chi è più grande di noi, tanto che è Lui che ci fa, ci costruisce».
 
@@ -219,7 +219,7 @@ del mondo».
 
 De aquí se sigue la definición más propia del pecado en este texto: **el pecado como rifiuto del
 Padre**, no como incoherencia (que «non è una capacità dell'uomo, è una grazia di Dio») ni como
-debilidad (que «suscita più facilmente compassione»). El parametro del vivir «proviene da
+debilidad (que «suscita più fácilmente compassione»). El parámetro del vivir «proviene da
 qualcosa di più grande, da ciò cui apparteniamo»; el hombre de hoy «è costruito, è educato
 sistematicamente a portare via lo sguardo da ciò cui appartiene, da Dio», mediante los mass media,
 la acriticidad familiar y «l'insegnamento scolastico di qualunque ordine e grado». Consecuencia: la
@@ -236,7 +236,7 @@ logos, del mondo come ordine di Dio», tal como las indica *La coscienza religio
 
 a) **El sentido de la vida como riuscita**, donde su contenido es fijado por el singular: «Riuscire:
 che malinconico squallore c'è nell'applicazione di questo criterio, perché potrebbe essere il
-diventare caposquadra oppure il diventare diacono!»; «È il riuscire come idolo», «il demone della
+diventare caposquadra oppure il diventare diacono!»; «È il riuscire come ídolo», «il demone della
 riuscita, in qualunque senso, dal riuscire ad avere la donna al riuscire ad avere figli, al riuscire
 ad avere soldi, al riuscire ad avere la salute».
 
@@ -254,10 +254,10 @@ dei nostri tempi?»
 
 ### III
 
-**La consecuencia** es una «inconsistenza dell'uomo», «un'epoca di gente alienata», y la alternativa
-es dramática: «o si ha come parametro Cristo o si ha come parametro quello che stabilisce il
+**La consecuencia** es una «inconsistenza dell'uomo», «un'época di gente alienata», y la alternativa
+es dramática: «o si ha come parámetro Cristo o si ha come parámetro quello che stabilisce il
 potere, con le categorie della cultura in voga». Juan Pablo II resume esa destrucción con una frase
-«tremenda»: el hombre reducido a «un frammento della materia o cittadino anonimo della città terrena»
+«tremenda»: el hombre reducido a «un frammento della materia o cittadino anónimo della città terrena»
 (cfr. *Gaudium et spes*, 14). La biogenética «con tutte le sue scoperte, può rischiare di andare in
 questa direzione. La punta più acuta della presunzione della scienza moderna di costruire l'uomo
 rappresenta il tentativo di distruggerlo»: «Immaginatevi, per favore, un uomo fatto totalmente in modo
@@ -270,8 +270,8 @@ De la pérdida de Dios se siguen tres consecuencias que Giussani individualiza a
 a) **La pérdida total de la libertad**, porque «quanto più la scienza va avanti e quanto più la tecnica
 si scaltrisce, tanto più il potere ha la capacità di sorprendere i tuoi pensieri e i tuoi sentimenti
 dalla nascita: “ti decide” lui, mentre sei persuaso di decidere tu». El ejemplo es el que daba en la
-escuela: «Spartaco era schiavo — era l'epoca della schiavitù —, ma era talmente libero che ha spezzato
-le catene e ha fatto la guerra ai suoi padroni. Nell'epoca di oggi è impossibile». La libertad «non
+escuela: «Spartaco era schiavo — era l'época della schiavitù —, ma era talmente libero che ha spezzato
+le catene e ha fatto la guerra ai suoi padroni. Nell'época di oggi è impossibile». La libertad «non
 può essere concepita se l'uomo è pensato come totalmente derivante dalla biologia dei genitori»,
 porque entonces es parte de un ritmo mecánico; sólo si «nell'uomo c'è qualcosa che non deriva dai
 genitori, ma è rapporto diretto col Mistero» —«anima», decía el Catecismo— «solo in questo caso
@@ -297,7 +297,7 @@ con el infinito y de dolore por el esfuerzo del strappo.
 
 El verso de la Veronica —«Nacque il tuo nome da ciò che fissavi»— introduce el criterio de toda la
 vida: «Se non hai volto, non hai nome, non hai personalità, è perché ti fissi su altro. “Che cosa
-fissi alla mattina… quando sei sul lavoro… quando ti interessi di politica?”» El sacrificio es
+fissi alla mattina… quando sei sul lavoro… quando ti interessi di política?”» El sacrificio es
 «tenere fissi i nostri occhi “dov'è la vera gioia”», el tener los ojos fijos en el Padre, porque eso
 es imitar a Cristo; «anche se sbaglio mille volte, mille volte Tu mi raccogli lo sguardo».
 
@@ -353,7 +353,7 @@ porque «è solo la gratitudine che rende capaci di ricevere bene». La condici�
 è la gratitudine; intellettualmente è lo stupore, e “cordialmente” è la gratitudine, perché quando una
 cosa è bella uno è grato».
 
-El primer sintoma de ser creado «a immagine e somiglianza» (Gen 1,26) es, «secondo me», el «amare
+El primer síntoma de ser creado «a immagine e somiglianza» (Gen 1,26) es, «secondo me», el «amare
 se stessi». Porque «tu non sei tuo, sei di un Altro, perciò tratta bene la “cosa” di questo Altro»:
 el «desiderio di volere bene a sé» es lo que hace posible todo lo demás.
 
@@ -382,7 +382,7 @@ la gloria es interior, «nella coscienza di sé come rapporto con l'infinito».
 «Ogni nostro gesto, ogni nostra azione, ogni nostro comportamento è una prigione o è un sepolcro, se
 non ha questo spazio, se non è rapporto con l'infinito». Y «“Sia fatta la tua volontà” non ha
 innanzitutto un significato moralistico»: vuol dire «“Venga il tuo regno” – è lo stesso –, che il tuo
-nome sia santificato… che tutta la mia azione banale serva a questo, ti offro questo». «Non
+nome sia santificato… che tutta la mía azione banale serva a questo, ti offro questo». «Non
 accontentatevi delle piccole cose: Egli, Iddio, le vuole grandi» (santa Caterina da Siena), y «le cose
 grandi non sono le cose grandi, ma il cuore grande»: «è la figura dell'Icaro spiaccicata per terra».
 Y el mismo criterio vuelve, formulado como pregunta, en «Che importa se l'uomo prende tutto il mondo,
@@ -395,7 +395,7 @@ stesso nell'istante, nell'azione, ora»: la vida no se mide por el resultado, si
 (Claudel: «Forse che fine della vita è vivere? […] Non vivere, ma morire, e dare in letizia ciò che
 abbiamo»).
 
-La página de la Fraternidad es el relato de **Emmaús** (Lc 24,13-32): «Ecco, questa è la pagina della
+La página de la Fraternidad es el relato de **Emmaús** (Lc 24,13-32): «Ecco, questa è la página della
 Fraternità, perché a ognuno di noi capita letteralmente così: come nell'ostia, Cristo penetra nel
 tempo e nello spazio, nella storia, dentro la specie, dentro l'apparenza, dentro il segno della nostra
 comunione. Comunione: riconoscerci fratelli e uniti perché c'è Lui».
@@ -404,7 +404,7 @@ El problema es la mirada: los discípulos del relato «erano incapaci di riconos
 sigue diciendo Giussani con sus palabras: «Normalmente siamo incapaci di riconoscerlo». La primera
 etapa fue el entusiasmo de los jóvenes; la verdadera madurez es «l'adulto, l'anziano a cui maturamente
 si aprono gli occhi e Lo riconosce». «È questa la giovinezza vera, quando la nostra compagnia diventa
-memoria, quando il movimento diventa memoria di Cristo». Y el sintoma de que esto está ocurriendo:
+memoria, quando il movimento diventa memoria di Cristo». Y el síntoma de que esto está ocurriendo:
 «Appena si sono detti: “Non ci ardeva forse il cuore dentro il petto…”, hanno piantato lì tutto e sono
 tornati di corsa a dirlo agli altri… anche la vita daresti».
 
@@ -421,7 +421,7 @@ La compañía «nasce in modo totalmente libero, come luogo di aiuto, a tener de
 para «non dimenticare mai, a risorgere sempre». De ahí el «noi dobbiamo dire: “Padre”, noi osiamo
 dire: “Padre nostro che sei nei cieli”», frente a los fariseos a quienes Jesús replica: «Anche voi dite
 “Dio”… e non lo conoscete» (Gv 8,54-55). Y el punto de llegada: «È come uomo battezzato che, nella
-libertà, io mi decido a vivere la mia vita per Cristo».
+libertà, io mi decido a vivere la mía vita per Cristo».
 
 La libertad, sin embargo, «non è che sia di per sé meglio essere tutti in una casa…»: «il problema è
 semplice… ed è il desiderio reale di essere aiutati». Y «siamo uomini non perché facciamo i robot o
@@ -441,7 +441,7 @@ mendicanza della verità della vita, mendicanza del suo regno». Si define así:
 debole e fragile: non riesco. Ti prego, dammi la luce e la forza per seguirti». Es «il modo di
 obbedire da parte del povero peccatore»: «Attenzione, la preghiera non è “la preghiera della
 comunità”: la preghiera è della persona, ed è preghiera della comunità se è preghiera dei singoli». En
-la arididad, el Salmo 62: «A Te si stringe l'anima mia e la forza della Tua destra mi sostiene».
+la arididad, el Salmo 62: «A Te si stringe l'anima mía e la forza della Tua destra mi sostiene».
 Cada grupo fija una regla de oración «non sovrabbondante», en libertad: «un sacrificio, piuttosto che
 farlo malvolentieri, meglio non farlo».
 
@@ -474,14 +474,14 @@ fissato – e non fissava un'altra cosa –, ma pochi sono stati attivi come lui
 ospitalità di persone che prima non si conoscevano».
 
 **3. La povertà**, «lo spirito di povertà», «la condizione per dilatare il regno di Dio», mientras
-«la ricchezza è dilatare il proprio regno». No es «una formula quantitativa per metterti a posto la
+«la ricchezza è dilatare il proprio regno». No es «una fórmula quantitativa per metterti a posto la
 coscienza e dire: “Io sono bravo”», sino «secondo la libertà del tuo cuore»: «Quello che avevate, non
 potevate tenerlo?» (At 5,1-4). El primer modo de la pobreza «– non quello occasionale, quando
 incontro il povero – è sostenere gli strumenti di diffusione della nostra esperienza»: si trata de
 «usare, dentro la libertà pura e semplicissima, le realtà che possediamo, quello che abbiamo, in
 funzione dell'espansione di questa esperienza». Por eso «il primo modo è quello di sostenere la
 nostra stampa»: a «Litterae communionis» «dovete essere abbonati»; «Il Sabato» es «il primo strumento
-di dialogo col mondo, di esposizione oltre i limiti dei nostri gruppi», y lo mismo el trabajo de
+di diálogo col mondo, di esposizione oltre i limiti dei nostri gruppi», y lo mismo el trabajo de
 p. Romano Scalfi en el Este europeo con «L'Altra Europa». «Sostenere la nostra stampa è certamente
 un atto di povertà, perché… occorre metter lì *dusent mila franc*». Con Jacopone da Todi: «Povertat'è
 null'avere / e nulla cosa poi
@@ -501,7 +501,7 @@ que «chi può dare di più compensi chi non può». Cierra con la frase ya cita
 
 ## Omelia
 
-«Abbiamo contemplato, o Dio, le meraviglie del tuo amore» (antifona al Salmo 117): «È il
+«Abbiamo contemplato, o Dio, le meraviglie del tuo amore» (antífona al Salmo 117): «È il
 cambiamento della nostra vita, è il nostro cambiamento il segno o la meraviglia del Suo amore». Yo,
 «pietra scartata dai costruttori» (Sal 118,22) —«il mondo non mi avrebbe dato cinque centesimi»—,
 «questa pietra, scartata dalla considerazione dei potenti, è divenuta testata d'angolo: sono
@@ -538,8 +538,8 @@ non è fede».
   29 de agosto de 1982.
 - Cfr. H.-E.-B. Matisse, *Icaro*, 1947 (VIII lámina para un libro sobre el jazz).
 - Cfr. F. M. Dostoevskij, «Lettera a N. D. Fonvizina, 1854».
-- Cfr. Ch. Péguy, «Il portico del mistero della seconda virtù», en *I misteri*, Jaca Book, Milano 1997.
-- Cfr. P. Claudel, *L'Annuncio a Maria*, Rizzoli, Milano 2001.
+- Cfr. Ch. Péguy, «Il pórtico del mistero della seconda virtù», en *I misteri*, Jaca Book, Milano 1997.
+- Cfr. P. Claudel, *L'Annuncio a María*, Rizzoli, Milano 2001.
 - Cfr. R. Guardini, *L'essenza del cristianesimo*, Morcelliana, Brescia 1980, p. 12.
 - Cfr. Dante Alighieri, *Paradiso* XIX, 81; *Inferno* XXVI, 90-142.
 - Cfr. santa Caterina da Siena, *Lettera a Stefano Maconi*, n. 368.
@@ -548,6 +548,6 @@ non è fede».
 - Cfr. T. S. Eliot, «Coro VII», en *Cori da «La Rocca»*.
 - Cfr. R. Romano Scalfi, «L'Altra Europa» (revista fundada en 1957 como «Russia Cristiana»).
 - Cfr. L. Giussani, *L'opera del movimento. La Fraternità di Comunione e Liberazione*, San Paolo,
-  Cinisello Balsamo (MI) 2002, pp. 233-243 («Statuto della Fraternità di Comunione e Liberazione»).
-- «L'aurora risplende di luce», Inno delle Lodi della domenica, y «Cantico di Zaccaria», en *Il
+  Cinisello Bálsamo (MI) 2002, pp. 233-243 («Statuto della Fraternità di Comunione e Liberazione»).
+- «L'aurora risplende di luce», Inno delle Lodi della domenica, y «Cántico di Zaccaria», en *Il
   libro delle ore*.

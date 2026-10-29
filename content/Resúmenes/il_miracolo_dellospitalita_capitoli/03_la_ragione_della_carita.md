@@ -28,7 +28,7 @@ tags: ["resumen", "caridad", "gratuidad", "perdón", "condescendencia"]
 
 ## La condivisión y su fundamento
 
-- Para vivir humanamente y cristianamente la condivisione no es necesario que sus condiciones sean conscientes: «Normalmente [...] vengono vissute in modo implicito».
+- Para vivir humanamente y cristianamente la condivisione no es necesario que sus condiciones sean conscientes: «Normalmente [...] vengono vissute in modo implícito».
 - La **vigilancia**: «siate coscienti del vostro destino, del vostro rapporto con Dio, con il principio, la consistenza e il fine».
 - El don del Espíritu «può agire in chiunque: il Signore non è limitato da nulla».
 
@@ -57,7 +57,7 @@ tags: ["resumen", "caridad", "gratuidad", "perdón", "condescendencia"]
 ## Fattori metodologici
 
 1. **Essere liberi**: «Senza libertà non ci può essere accoglienza»; la coscienza della propria appartenenza all'Infinito; el perdón a sí, «quell'umiltà che permette la gratuità». «Questa è la più difficile imitazione di Dio»: el perdón es su modo de juzgar, «perché Cristo è risorto, ha vinto e mi vince».
-2. **Condiscendenza** (Padres de la Iglesia): evitar la pretensión; «desiderio di camminare insieme verso l'identico Destino, Cristo». La diversidad «è veramente un abisso, che soltanto un nesso con l'Infinito, con Dio, può far superare».
+2. **Condiscendenza** (Padres de la Iglesia): evitar la pretensión; «desiderio di camminare insieme verso l'idéntico Destino, Cristo». La diversidad «è veramente un abisso, che soltanto un nesso con l'Infinito, con Dio, può far superare».
 3. **Amore al dolore**: no masoquista sino como lo tuvo Cristo (*Mt* 26,39). «La gratuità, nella pratica, nasce in questo dolore».
 
 ## La acogida concreta

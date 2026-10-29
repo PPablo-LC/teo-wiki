@@ -1,55 +1,38 @@
 ---
 type: Concepto Teológico
-title: "Sacramento de la penitencia"
-description: "Vía ordinaria para la remisión de los pecados cometidos después del bautismo; supone la fe, la nutre, la robustece y la expresa, y opera con una eficacia íntima."
-tags: ["sacramentos", "penitencia", "teología_moral"]
-timestamp: 2026-08-07
+title: "Sacramento de la penitencia (remisión)"
+tags: ["sacramental"]
+timestamp: 2026-10-29
+description: "Remisión: «sacramento de la penitencia» es el mismo sacramento que se trata en [[sacramento_de_la_reconciliación]]."
 ---
-# Sacramento de la penitencia
+# Sacramento de la penitencia (remisión)
 
-> Área: Sacramentos / Moral
-> Última actualización: 2026-08-07
+> Área: Sacramental
+> Última actualización: 2026-10-29
 
 ## Definición
 
-En la actual economía de la salvación, la reconciliación con Dios es posible solamente en Cristo y mediante Cristo. La vía ordinaria para la remisión de los pecados cometidos después del bautismo es el sacramento de la penitencia. (Ele_Xto_Stos, Cap. XI, §9)
+«Sacramento de la penitencia» es el nombre tradicional del sacramento por el que los bautizados que han pecado obtienen el perdón de Dios mediante la absolución del sacerdote y se reconcilian con la Iglesia. Designa la misma realidad sacramental que «sacramento de la reconciliación», «de la confesión», «del perdón» y «de la conversión» (CEC §1423-1424).
 
-## Desarrollo doctrinal
+## Artículo principal
 
-La reconciliación se realiza a través de la Iglesia, sacramento universal de salvación. Jesucristo con su misterio pascual es la causa meritoria y eficiente de la conversión y de la salvación; y para perpetuar en el tiempo esa acción salvífica instituyó los sacramentos, que justifican y transforman a la persona. (Ele_Xto_Stos, Cap. XI, §9)
+Este concepto se desarrolla por completo en **[[sacramento_de_la_reconciliación]]**, que reúne las perspectivas del Catecismo, el Código de Derecho Canónico, el Concilio Vaticano II, la Suma Teológica (IIIª q.84 desglosada artículo por artículo, más Suppl. q.16 y q.28), Royo Marín, *Dives in Misericordia*, *Redemptor Hominis*, el Denzinger, *Elegidos en Cristo para ser santos* y *Sexualidad humana: verdad y significado*.
 
-Los sacramentos suponen la fe, la nutren, la robustecen y la expresan; no actúan solamente como una exhortación o una ocasión para hacer el bien, sino que operan con una eficacia más íntima, sin parangón en la naturaleza, que orienta el hombre hacia Dios y expresa y perfecciona la imagen de la Santísima Trinidad en el alma. (Ele_Xto_Stos, Cap. XI, §9)
-
-## Perspectivas por fuente
-
-### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
-
-En la actual economía de la salvación, la reconciliación con Dios es posible solamente en Cristo y mediante Cristo, que «derroca el imperio del diablo y aleja la multiforme maldad de los pecados». Reconciliación que se realiza a través de la Iglesia, sacramento universal de salvación. (Ele_Xto_Stos, Cap. XI, §9)
-
-Jesucristo con su misterio pascual es la causa meritoria y eficiente de la conversión y de la salvación; y para perpetuar en el tiempo esa acción salvífica instituyó los sacramentos, que justifican y transforman a la persona: estos suponen la fe, la nutren, la robustecen y la expresan; no actúan solamente como una exhortación o una ocasión para hacer el bien, sino que operan con una eficacia más íntima, sin parangón en la naturaleza, que orienta el hombre hacia Dios y expresa y perfecciona la imagen de la Santísima Trinidad en el alma. (Ele_Xto_Stos, Cap. XI, §9)
-
-La vía ordinaria para la remisión de los pecados cometidos después del bautismo es el sacramento de la penitencia. (Ele_Xto_Stos, Cap. XI, §9)
-
-### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
-
-«Una ayuda necesaria y sobrenaturalmente eficaz es frecuentar el Sacramento de la reconciliación, especialmente si se puede contar con un confesor fijo» (SHVS 74). Entre los consejos para crecer en el amor: «recurso frecuente a la oración y a los sacramentos de la Penitencia y de la Eucaristía» (SHVS 71). Los padres deben procurar que los hijos «frecuenten conscientemente los sacramentos, yendo por delante con su ejemplo» (SHVS 74); se recuerda también «el valor pedagógico de la confesión personal» en la adolescencia (SHVS 102).
-
-
-## Distinciones importantes
-
-- Es la vía ordinaria para la remisión de los pecados cometidos después del bautismo.
-- Cristo es la causa meritoria y eficiente de la conversión y de la salvación.
-- Opera con una eficacia íntima: no es mera exhortación u ocasión de hacer el bien.
-- Supone, nutre, robustece y expresa la fe.
-
-## Relaciones doctrinales
-
-Se relaciona con [[penitencia]], [[conversión]], [[reconciliación]], [[sacramentos]], [[bautismo]], [[remisión_de_los_pecados]], [[perdón_de_los_pecados]], [[misterio_pascual]] e [[iglesia]].
+No debe confundirse con [[penitencia]], artículo que trata la penitencia como **virtud** (SmTh IIIª q.85) y sus **partes** (IIIª q.90).
 
 ## Ver también
 
-[[penitencia]], [[conversión]], [[sacramentos]], [[remisión_de_los_pecados]]
+- [[sacramento_de_la_reconciliación]]
+- [[penitencia]]
+- [[contrición]]
+- [[confesión]]
+- [[satisfacción]]
+- [[sacramentos]]
 
 ## Referencias
 
-- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. XI, §9
+- CEC §1422-1498
+- CIC cc. 959-997
+- Concilio de Trento, Ses. XIV (D 895-923)
+- Ele_Xto_Stos, Cap. XI, §9
+- SHVS 71, 74, 102

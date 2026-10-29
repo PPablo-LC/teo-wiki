@@ -25,6 +25,10 @@ Encarnado para nuestra salvación, Jesucristo es el centro de la fe cristiana. S
 
 Calcedonia confesó «un solo y mismo Cristo, Hijo único en dos naturalezas, sin confusión, sin cambio, sin división, sin separación» (§467). Jesús es «consubstancial con el Padre según la divinidad, y consubstancial con nosotros según la humanidad» (§467). Cristo posee un alma racional humana y dos voluntades, divina y humana, no opuestas sino cooperantes (§471-475). «El Hijo de Dios me amó y se entregó a sí mismo por mí» (§478, Corazón de Jesús).
 
+### Según el Compendio (CompDS)
+
+Jesucristo revela plenamente el designio de amor de Dios. En Él se cumple el acontecimiento decisivo de la historia de Dios con los hombres (§28). El amor que anima su ministerio es el que el Hijo experimenta en la unión íntima con el Padre, Abbá (§29). La Pascua revela el Amor trinitario: «Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor» (§31). Jesucristo revela que Dios es Padre y que todos estamos llamados por gracia a ser hijos suyos en el Espíritu (§31). El mandamiento nuevo del amor recíproco (Jn 13,34) debe inspirar, purificar y elevar todas las relaciones humanas en la vida social y política (§33). La imagen del Dios trino es raíz de todo el ethos humano, cuyo vértice es el mandamiento del amor (§33).
+
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor comienza proclamando a Jesucristo como «luz verdadera que ilumina a todo hombre» (Jn 1,9) y respuesta decisiva a todos los interrogantes del hombre (§1-2). El diálogo de Jesús con el joven rico (Mt 19,16-21) constituye el fundamento bíblico de toda la encíclica. Jesús es el «Maestro bueno» que revela que solo Dios es Bueno, que enseña los mandamientos como camino de vida eterna, y que invita al seguimiento como camino de perfección. Cristo es el cumplimiento vivo de la Ley (§15), la Ley viviente y personal que da la gracia del Espíritu Santo. Él es contemporáneo a todo hombre en la Iglesia (§25). El crucificado responde al interrogante sobre libertad y normas morales (§85-87).
@@ -47,10 +51,6 @@ Benedicto XVI dedica la primera parte de *Jesús de Nazaret II* a la entrada mes
 
 **Relación entre lo político y lo religioso.** Benedicto XVI subraya que Jesús establece una separación radical entre la dimensión política y la religiosa, separación que ha cambiado el mundo. El rechazo de Jesús por parte de las autoridades judías no es solo un conflicto político, sino que apunta a lo esencial: Jesús es el Hijo de Dios que inaugura una nueva dimensión de la relación del hombre con Dios.
 
-### Según el Compendio (CompDS)
-
-Jesucristo revela plenamente el designio de amor de Dios. En Él se cumple el acontecimiento decisivo de la historia de Dios con los hombres (§28). El amor que anima su ministerio es el que el Hijo experimenta en la unión íntima con el Padre, Abbá (§29). La Pascua revela el Amor trinitario: «Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor» (§31). Jesucristo revela que Dios es Padre y que todos estamos llamados por gracia a ser hijos suyos en el Espíritu (§31). El mandamiento nuevo del amor recíproco (Jn 13,34) debe inspirar, purificar y elevar todas las relaciones humanas en la vida social y política (§33). La imagen del Dios trino es raíz de todo el ethos humano, cuyo vértice es el mandamiento del amor (§33).
-
 ### Attraverso la compagnia dei credenti (TACDC)
 
 En TACDC, Giussani presenta a Jesucristo como el **avvenimento** (acontecimiento) decisivo que corresponde al corazón humano y lo arranca de la nada:
@@ -65,7 +65,7 @@ En TACDC, Giussani presenta a Jesucristo como el **avvenimento** (acontecimiento
 
 - **Cristo centro de todo** — «Cristo è tutto! L'odio a Cristo è l'odio al senso della vita, perché il senso della vita dà una responsabilità che uno non può più gestire per se stesso, è una responsabilità davanti a un Altro... a questo uomo, Gesù, che è l'Altro – Iddio, il mistero di Dio – diventato carne» (03_si_può_vivere_così.md, l. 167).
 
-- **Jesús como "mandato del Padre"** — «Cristo ha risposto: "Io sono il mandato del Padre"»; «L'autonomia dell'uomo di fronte al mistero di Dio equivarrebbe alla nullificazione dell'uomo, al ritorno al nulla» (03_si_può_vivere_così.md, l. 187).
+- **Jesús como "mandato del Padre"** — «Cristo ha risposto: "Io sono il mandato del Padre"»; «L'autonomía dell'uomo di fronte al mistero di Dio equivarrebbe alla nullificazione dell'uomo, al ritorno al nulla» (03_si_può_vivere_così.md, l. 187).
 
 - **Misericordia revelada en Jesús** — «*quell'uomo*, nato da una donna… *Gesù*... La misericordia è il Mistero da cui tutto proviene, da cui tutto è sostenuto, a cui tutto va a finire» (04_alla_ricerca.md, l. 141). La misericordia no es perdón calculado sino «amore gratis: *caritas*, senza motivo» (ibid., l. 137).
 

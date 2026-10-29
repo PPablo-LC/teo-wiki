@@ -11,7 +11,7 @@ timestamp: 2026-06-28
 > Área: Teología dogmática / Eclesiología
 > Última actualización: 2026-06-28
 
-**Pío IX** (Giovanni Maria Mastai Ferretti, 1792–1878), papa del 16 de junio de 1846 al 7 de febrero de 1878. Su pontificado, el más largo de la historia papal (31 años), fue uno de los más trascendentales de la historia de la Iglesia. Definió la Inmaculada Concepción, convocó el Concilio Vaticano I, promulgó el Syllabus y enfrentó la pérdida de los Estados Pontificios.
+**Pío IX** (Giovanni María Mastai Ferretti, 1792–1878), papa del 16 de junio de 1846 al 7 de febrero de 1878. Su pontificado, el más largo de la historia papal (31 años), fue uno de los más trascendentales de la historia de la Iglesia. Definió la Inmaculada Concepción, convocó el Concilio Vaticano I, promulgó el Syllabus y enfrentó la pérdida de los Estados Pontificios.
 
 ## Contexto histórico y pontificado
 

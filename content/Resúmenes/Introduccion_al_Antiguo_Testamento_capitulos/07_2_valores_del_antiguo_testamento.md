@@ -28,7 +28,7 @@ Modelos de carne y hueso: Job (rebeldía ante el sufrimiento), Eclesiastés (fe 
 
 ## 3. Dimensión sociopolítica
 
-El Magnificat (Lc 1,52-53) y la Carta de Santiago, espiritualizados con frecuencia. El discurso del campesino Sajno en la Duma rusa muestra el uso liberador del AT frente al uso alienante del NT. Bartolomé de las Casas se convirtió leyendo Eclo 34,18-26.
+El Magníficat (Lc 1,52-53) y la Carta de Santiago, espiritualizados con frecuencia. El discurso del campesino Sajno en la Duma rusa muestra el uso liberador del AT frente al uso alienante del NT. Bartolomé de las Casas se convirtió leyendo Eclo 34,18-26.
 
 ## 4. Conocer a Jesús
 

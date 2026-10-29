@@ -30,6 +30,10 @@ La omnipresencia tiene consecuencias prácticas inmediatas. Es fundamento de la 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«Dios está presente en todas sus criaturas» (CEC §300). «Nada está oculto a sus ojos» (CEC §302). La omnipresencia es fundamento de la confianza y de la oración: «Dondequiera que estemos, podemos invocar a Dios» (CEC §2566). El Catecismo distingue cuidadosamente entre la presencia universal de Dios (como Creador y Señor) y la presencia especial en la Iglesia y en los sacramentos.
+
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.8 — Sobre la presencia de Dios en las cosas:**
@@ -43,10 +47,6 @@ a.3 — Dios está en todas las cosas por esencia (causa del ser de todo), por p
 a.4 — Estar en todas partes de modo total y simultáneo es propio de Dios sola y excelentemente. Ninguna criatura puede estar de este modo: ni lo universal, ni la materia prima, ni el alma humana, ni un cuerpo supuesto infinito, si tal fuera posible (SmTh Iª q.8 a.4).
 
 **Iª q.8 a.1 ad 2-3:** Dios habita en los justos de modo especial por la gracia, como morador en su templo. Esta presencia de inhabitación no es solo la presencia de causa, sino la presencia de amigo que mora en el amigo, y de Esposo en la Esposa (SmTh Iª q.8 a.1 ad 2-3).
-
-### Según el Catecismo (CEC)
-
-«Dios está presente en todas sus criaturas» (CEC §300). «Nada está oculto a sus ojos» (CEC §302). La omnipresencia es fundamento de la confianza y de la oración: «Dondequiera que estemos, podemos invocar a Dios» (CEC §2566). El Catecismo distingue cuidadosamente entre la presencia universal de Dios (como Creador y Señor) y la presencia especial en la Iglesia y en los sacramentos.
 
 ### Según Royo Marín (TPCr)
 

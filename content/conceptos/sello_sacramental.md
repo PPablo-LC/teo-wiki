@@ -30,11 +30,11 @@ Secreto **absoluto e inviolable** que obliga a todo confesor a no revelar nada d
 
 ## Relaciones doctrinales
 
-[[sacramento_de_penitencia]], [[absolución_de_los_pecados]], [[confesor]], [[delitos_contra_la_penitencia]], [[protección_de_menores]], [[foro_interno]], [[penitente]], [[conciencia]], [[delitos_canónicos]], [[sacramentorum_sanctitatis_tutela|SST]]
+[[sacramento_de_penitencia]], [[absolución]]], [[confesor]], [[delitos_contra_la_penitencia]], [[protección_de_menores]], [[foro_interno]], [[penitente]], [[conciencia]], [[delitos_canónicos]], [[sacramentorum_sanctitatis_tutela|SST]]
 
 ## Ver también
 
-[[sacramento_de_penitencia]], [[absolución_de_los_pecados]], [[confesor]], [[delitos_contra_la_penitencia]], [[protección_de_menores]], [[penitente]], [[conciencia]], [[delitos_canónicos]], [[sacramentorum_sanctitatis_tutela|SST]], [[normae_de_gravioribus_delictis|SST-2010]]
+[[sacramento_de_penitencia]], [[absolución]]], [[confesor]], [[delitos_contra_la_penitencia]], [[protección_de_menores]], [[penitente]], [[conciencia]], [[delitos_canónicos]], [[sacramentorum_sanctitatis_tutela|SST]], [[normae_de_gravioribus_delictis|SST-2010]]
 
 ## Referencias
 

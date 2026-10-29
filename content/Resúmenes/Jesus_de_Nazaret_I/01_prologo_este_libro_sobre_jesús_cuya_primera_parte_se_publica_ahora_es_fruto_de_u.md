@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "PROLOGO Este libro sobre Jesús, cuya primera parte se publica ahora, es fruto de un largo camino interior. En mis tiempos de juventud—años treinta y cuarenta— había toda una serie de obras fascinantes sobre Jesús: las de Karl Adam, Romano Guardini, Franz Michel Willam, Giovanni Vapini, Daniel-Rops, por mencionar sólo algunas. En ellas se presentaba la figura de Jesús a partir de los Evangelios: cómo vivió en la tierra y cómo —aun siendo verdaderamente hombre— llevó al mismo tiempo a los hombres a Dios, con el cual era uno en cuanto Hijo. Así, Dios se hizo visible a través del hombre Jesús y, desde Dios, se pudo ver la imagen del auténtico hombre."
+title: "PRÓLOGO Este libro sobre Jesús, cuya primera parte se publica ahora, es fruto de un largo camino interior. En mis tiempos de juventud—años treinta y cuarenta— había toda una serie de obras fascinantes sobre Jesús: las de Karl Adam, Romano Guardini, Franz Michel Willam, Giovanni Vapini, Daniel-Rops, por mencionar sólo algunas. En ellas se presentaba la figura de Jesús a partir de los Evangelios: cómo vivió en la tierra y cómo —aun siendo verdaderamente hombre— llevó al mismo tiempo a los hombres a Dios, con el cual era uno en cuanto Hijo. Así, Dios se hizo visible a través del hombre Jesús y, desde Dios, se pudo ver la imagen del auténtico hombre."
 fuente: Jesus_de_Nazaret_I
 capítulo: 1
 timestamp: 2026-08-24
-description: "Resumen de 'PROLOGO Este libro sobre Jesús, cuya primera parte se publica ahora, es fruto de un largo c..."
+description: "Resumen de 'PRÓLOGO Este libro sobre Jesús, cuya primera parte se publica ahora, es fruto de un largo c..."
 tags: ["resumen", "jesus de nazaret i"]
 ---
 
-# PROLOGO Este libro sobre Jesús, cuya primera parte se publica ahora, es fruto de un largo camino interior. En mis tiempos de juventud—años treinta y cuarenta— había toda una serie de obras fascinantes sobre Jesús: las de Karl Adam, Romano Guardini, Franz Michel Willam, Giovanni Vapini, Daniel-Rops, por mencionar sólo algunas. En ellas se presentaba la figura de Jesús a partir de los Evangelios: cómo vivió en la tierra y cómo —aun siendo verdaderamente hombre— llevó al mismo tiempo a los hombres a Dios, con el cual era uno en cuanto Hijo. Así, Dios se hizo visible a través del hombre Jesús y, desde Dios, se pudo ver la imagen del auténtico hombre.
+# PRÓLOGO Este libro sobre Jesús, cuya primera parte se publica ahora, es fruto de un largo camino interior. En mis tiempos de juventud—años treinta y cuarenta— había toda una serie de obras fascinantes sobre Jesús: las de Karl Adam, Romano Guardini, Franz Michel Willam, Giovanni Vapini, Daniel-Rops, por mencionar sólo algunas. En ellas se presentaba la figura de Jesús a partir de los Evangelios: cómo vivió en la tierra y cómo —aun siendo verdaderamente hombre— llevó al mismo tiempo a los hombres a Dios, con el cual era uno en cuanto Hijo. Así, Dios se hizo visible a través del hombre Jesús y, desde Dios, se pudo ver la imagen del auténtico hombre.
 
 ## Conceptos básicos referenciados
 
@@ -35,4 +35,4 @@ tags: ["resumen", "jesus de nazaret i"]
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | PROLOGO Este libro sobre Jesús, cuya primera parte se publica ahora, e |
+| 1 | H1 | PRÓLOGO Este libro sobre Jesús, cuya primera parte se publica ahora, e |

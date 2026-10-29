@@ -32,7 +32,7 @@ tags: ["resumen", "certeza", "conversión", "compañía", "esperanza", "libertad
 - [[martirio]] — Tertuliano: «*semen est sanguis christianorum*»
 - [[experiencia]] — «La prima creazione del cristiano è un'esperienza umana diversa»
 - [[duda]] / [[certeza]] — «La certezza è la condizione del problema»
-- [[idolatría]] — «L'idolo è rendere "assoluto" una parzialità»
+- [[idolatría]] — «L'ídolo è rendere "assoluto" una parzialità»
 - [[compañía]] — «uno strumento di cui un Altro si serve»
 - [[familia]] — puede abrir o cerrar a la realidad
 - [[fidelidad]] — Chieffo: «Fa' in modo che nessuno se ne vada»
@@ -81,7 +81,7 @@ tags: ["resumen", "certeza", "conversión", "compañía", "esperanza", "libertad
 
 ## La compañía y el ídolo
 
-- Pregunta de Maria; «L'idolo è rendere "assoluto" una parzialità».
+- Pregunta de María; «L'ídolo è rendere "assoluto" una parzialità».
 - «la nostra compagnia è uno strumento di cui un Altro si serve»; la familia que cierra en lugar de abrir.
 - Leopardi: «Ma se un discorde accento / Fere l'orecchio, in nulla / Torna quel paradiso in un momento»; Fogazzaro, *Piccolo mondo antico*.
 - Chieffo, «Stella del mattino»: «Fa' in modo che nessuno se ne vada»; «chi se ne va ci perde!».

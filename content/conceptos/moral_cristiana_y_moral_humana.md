@@ -27,6 +27,12 @@ La moral cristiana no anula la moral humana, sino que la cumple y eleva. El homb
 - **§1949-1953**: La ley moral natural como fundamento de la moralidad humana.
 - **§1954-1960**: La ley divina positiva como complemento de la ley natural.
 
+### Summa Theologiae (SmTh)
+
+Santo Tomás muestra la armonía entre razón y fe en el ámbito moral:
+
+- **I-II, q. 66, a. 5**: La caridad no destruye la virtud natural, sino que la perfecciona.
+- **I-II, q. 63, a. 3**: Las virtudes morales pueden existir sin la fe, pero son perfeccionadas por ella.
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor desarrolla extensamente esta relación:
@@ -37,12 +43,6 @@ El autor desarrolla extensamente esta relación:
 - La moral cristiana incluye tanto las virtudes infusas (teologales y morales) como las virtudes morales humanas y la ley natural.
 - No es posible separar la moral cristiana de su fundamento cristológico, eclesiológico y sacramental.
 
-### Summa Theologiae (SmTh)
-
-Santo Tomás muestra la armonía entre razón y fe en el ámbito moral:
-
-- **I-II, q. 66, a. 5**: La caridad no destruye la virtud natural, sino que la perfecciona.
-- **I-II, q. 63, a. 3**: Las virtudes morales pueden existir sin la fe, pero son perfeccionadas por ella.
 
 ## Distinciones importantes
 

@@ -56,7 +56,7 @@ El autor distingue entre:
 - **Intuición ilativa**: reconocer los signos y símbolos que revelan rutas de acceso a la mente y el corazón del otro.
 
 Zimmerer ofrece ejemplos concretos:
-1. **Un cristiano conocedor de apologética** que tiene reservas sobre la Eucaristía y María: la intuición ilativa lleva la conversación de areas de desacuerdo hacia un amor compartido por la literatura, la historia y El Señor de los Anillos, abriendo rutas más profundas hacia la verdad.
+1. **Un cristiano conocedor de apologética** que tiene reservas sobre la Eucaristía y María: la intuición ilativa lleva la conversación de áreas de desacuerdo hacia un amor compartido por la literatura, la historia y El Señor de los Anillos, abriendo rutas más profundas hacia la verdad.
 2. **Un satanista que entra a una librería católica**: en lugar de confrontar su odio, Zimmerer escucha su historia y le ofrece el perdón como camino de sanación.
 3. **Un ateo endurecido**: la ruta de acceso puede ser Shakespeare, Ptolomeo o Freud; la filosofía puede abrir la puerta, pero un poema puede llevar al mundo de Cristo.
 

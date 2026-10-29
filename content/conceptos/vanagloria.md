@@ -19,6 +19,9 @@ La vanagloria es un desorden de la virtud de la veracidad o de la humildad, seg�
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+La vanagloria o jactancia constituye una falta contra la verdad (§2481). Una intención mala sobreañadida, como la vanagloria, convierte en malo un acto que de suyo puede ser bueno, como la limosna (§1753).
+
 ### Según la Summa Theologiae (SmTh)
 
 **IIª-IIae q.132 — La vanagloria:**
@@ -32,9 +35,6 @@ La vanagloria es un desorden de la virtud de la veracidad o de la humildad, seg�
 **a.4 — La vanagloria es pecado grave, pero puede ser venial:** Cuando la vanagloria prefiere la gloria humana a la divina, es pecado mortal. Cuando el desorden es leve, sin apartar del fin último, es pecado venial. Santo Tomás señala que la vanagloria es especialmente peligrosa en quienes ya han progresado en la virtud, porque puede corromper sus obras buenas.
 
 **a.5 — Las hijas de la vanagloria:** Santo Tomás enumera como hijas de la vanagloria: la jactancia (alabarse desordenadamente), el afán de novedades (desear cosas nuevas para ser admirado), la hipocresía (fingir virtud que no se tiene), la pertinacia (obstinarse en el propio parecer por no perder la reputación), la discordia (contradecir para mostrar superioridad), las disputas (altercar por afán de gloria), y la desobediencia (resistir a la autoridad por soberbia).
-
-### Según el Catecismo (CEC)
-La vanagloria o jactancia constituye una falta contra la verdad (§2481). Una intención mala sobreañadida, como la vanagloria, convierte en malo un acto que de suyo puede ser bueno, como la limosna (§1753).
 
 ### Según Royo Marín (TPCr)
 La vanagloria busca fama y nombradía sin méritos en que apoyarla o sin ordenarla a su verdadero fin, que es la gloria de Dios y el bien del prójimo. Como vicio capital, de él proceden otros muchos pecados: la jactancia, el afán de novedades, hipocresía, pertinacia, discordia, disputas y desobediencias. La presunción (pecado contra la esperanza) suele provenir de la vanagloria y de la soberbia. También combate la vanagloria junto con la templanza, suprimiendo la jactancia, la presunción, la hipocresía, la pertinacia, la discordia, la réplica airada y la desobediencia.

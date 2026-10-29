@@ -21,6 +21,10 @@ El discernimiento vocacional no es una decisión puramente humana entre varias o
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La conciencia moral debe ser debidamente formada para el discernimiento vocacional (CEC §1788). La petición «no nos dejes caer en la tentación» supone el discernimiento espiritual de las propias debilidades (CEC §2839, §2847-2848). «Por la oración, podemos "discernir cuál es la voluntad de Dios" y obtener "constancia para cumplirla"» (CEC §2826). El discernimiento de la vocación específica incluye también la consideración de los carismas eclesiales y la llamada del Espíritu Santo a través de la comunidad.
+
 ### Según La vocación explicada (VocExpl)
 
 Juan Pablo II ofrece las claves del discernimiento vocacional en su primera catequesis como Papa, dirigida a los jóvenes. Dios llama de modos concretos a través de los acontecimientos de la vida: «Dios llama a través de las circunstancias ordinarias, de una experiencia particular, de una lectura del Evangelio que resuena de modo nuevo, de la llamada de un testigo, del dolor o de la llamada interior de la gracia» [VocExpl, §¿Cuándo y cómo llama Dios?]. El discernimiento requiere el acompañamiento de la oración, los sacramentos y la dirección espiritual como antídoto contra la arbitrariedad: «La dirección espiritual ayuda a superar el peligro de la arbitrariedad a la hora de conocer y decidir la propia vocación a la luz de Dios» [VocExpl, §El proceso de la vocación].
@@ -37,17 +41,13 @@ Segundo, el seminario como comunidad de discernimiento: «El Seminario es una co
 
 Juan Pablo II testimonia directamente que *Don y Misterio* —su complemento personal de PDV— «fue para muchos una ayuda preciosa para el propio discernimiento vocacional. Fue para mí una alegría muy grande» [LV, §Introducción]. El Papa describe así cómo su propia vida y experiencia sacerdotal pueden servir como criterio de discernimiento para otros: «Espero que Cristo continúe sirviéndose de estas memorias para alentar a otros jóvenes a escuchar su llamada: Venid conmigo y os haré pescadores de hombres (*Mc* 1, 17)» [LV, §Introducción].
 
-### Según Ecclesia in America (EA)
+### Según Ecclesia in América (EA)
 
 La EA subraya que los seminarios deben preparar a los futuros sacerdotes para «vivir en una sólida espiritualidad de comunión con Cristo Pastor y de docilidad a la acción del Espíritu, que los hará especialmente capaces de discernir las expectativas del pueblo de Dios y los diversos carismas» [EA §7 cap. IV]. La formación incluye «la capacidad de observación crítica de la realidad circundante que les permita discernir sus valores y contravalores, pues esto es un requisito indispensable para entablar un diálogo constructivo con el mundo de hoy» [EA §7 cap. IV].
 
 ### Según la *Redemptor Hominis* (RH)
 
 Juan Pablo II sitúa el discernimiento en el contexto de la confianza en el Espíritu de Verdad y la lectura de los signos de los tiempos. En el §3, declara: «Con plena confianza en el Espíritu de Verdad entro pues en la rica herencia de los recientes pontificados» (RH §3). En el §15, propone un discernimiento de la situación contemporánea del hombre, analizando las amenazas —la alienación del hombre por sus propios productos, el progreso técnico sin desarrollo moral correspondiente— y planteando las preguntas esenciales que la Iglesia debe formularse para discernir el bien del mal en el mundo actual (RH §15).
-
-### Según el Catecismo (CEC)
-
-La conciencia moral debe ser debidamente formada para el discernimiento vocacional (CEC §1788). La petición «no nos dejes caer en la tentación» supone el discernimiento espiritual de las propias debilidades (CEC §2839, §2847-2848). «Por la oración, podemos "discernir cuál es la voluntad de Dios" y obtener "constancia para cumplirla"» (CEC §2826). El discernimiento de la vocación específica incluye también la consideración de los carismas eclesiales y la llamada del Espíritu Santo a través de la comunidad.
 
 ### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
 

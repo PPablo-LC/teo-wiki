@@ -19,7 +19,7 @@ El **relativismo** es la postura filosófica que niega la existencia de una verd
 
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
-Andrew Petiprin muestra que incluso el cómico Steve Martin burla el relativismo: su lista paródica de libros absurdos incluye «El relativismo es absurdo» — chiste que solo funciona porque el público sabe que el relativismo efectivamente es absurdo: la burla presupone la verdad que parodia. Quedamos deseando respuestas reales. En clave filosófica, Robert Mixa documenta el diagnóstico posmoderno (fin de los metarrelatos, contingencia sin fundamentos morales) y su respuesta cómica: ante un mundo sin bases («Destruidas las bases, ¿qué hará el justo?», Sal 11,3), el justo «permanece» (*abide*) — la comedia como forma de resistencia al nihilismo relativista.
+Andrew Petiprin muestra que incluso el cómico Steve Martín burla el relativismo: su lista paródica de libros absurdos incluye «El relativismo es absurdo» — chiste que solo funciona porque el público sabe que el relativismo efectivamente es absurdo: la burla presupone la verdad que parodia. Quedamos deseando respuestas reales. En clave filosófica, Robert Mixa documenta el diagnóstico posmoderno (fin de los metarrelatos, contingencia sin fundamentos morales) y su respuesta cómica: ante un mundo sin bases («Destruidas las bases, ¿qué hará el justo?», Sal 11,3), el justo «permanece» (*abide*) — la comedia como forma de resistencia al nihilismo relativista.
 
 ### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
 

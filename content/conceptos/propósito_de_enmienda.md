@@ -48,7 +48,7 @@ Para Salvarte enumera las cinco cosas necesarias para una buena confesión: exam
 
 La misma fuente distingue la contrición perfecta —por amor a Dios, que perdona los pecados aun sin confesión, pero con propósito de confesarse— de la atrición —por temor a los castigos o por la fealdad del pecado—, que basta para la confesión. El propósito de enmienda es, en ambos casos, la bisagra entre el dolor y el sacramento.
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 Sicari sitúa la calidad del dolor y del propósito como el verdadero test de la confesión: el indicio de un propósito auténtico es la disponibilidad gozosa a «trabajar sobre uno mismo» con paciencia. Cuando alguien se confiesa «siempre de los mismos pecados», a menudo no falta el propósito en el momento de la confesión, sino un trabajo personal sostenido —oración, compasión por Cristo, huida de la ambigüedad, buena compañía— que haga efectiva la enmienda.
 

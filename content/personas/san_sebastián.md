@@ -42,4 +42,4 @@ Su historia se relaciona con la [[perseverancia]], la [[fortaleza]] y la [[lucha
 
 ## Referencias
 
-- [EAC-20, 05_lives, Zelda Caldwell, "St. Sebastian, Patron Saint of Athletes"]
+- [EAC-20, 05_lives, Zelda Caldwell, "St. Sebastian, Patrón Saint of Athletes"]

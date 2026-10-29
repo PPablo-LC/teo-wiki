@@ -4,7 +4,7 @@ title: "112. El amor espiritual en el libro de Tobías"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 32
 timestamp: 2026-08-01
-description: "Catequesis 112: el amor de Tobías y Sara en la prueba de la vida y de la muerte, la oración que vence, el «lenguaje del cuerpo» como lengua de la liturgia y el pacto conyugal como sacramento primordial de la Alianza — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 112: el amor de Tobías y Sara en la prueba de la vida y de la muerte, la oración que vence, el «lenguaje del cuerpo» como lengua de la liturgia y el pacto conyugal como sacramento primordial de la Alianza — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

@@ -22,7 +22,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 
 ### Defining Courage Through Its Opposite
 
-El texto introductorio del issue comienza estableciendo que, para comprender la naturaleza del coraje, es importante considerar lo que **no** es. El coraje no es su opuesto: la [[cobardía]]. Se citan tres ejemplos literarios de cobardía: Paris en la *Ilíada* de Homero, huyendo vergonzosamente del duelo con Menelao con ayuda de la diosa Afrodita; John Willoughby en *Sense and Sensibility* de Jane Austen, abandonando a Marianne Dashwood sin explicación y permaneciendo en silencio mudo cuando confrontado públicamente; y el León Cobarde en *The Wizard of Oz* de L. Frank Baum, pasando la mayor parte del viaje a Oz lloriqueando, temblando y huyendo de la voz del Mago y del ladrido de Toto.
+El texto introductorio del issue comienza estableciendo que, para comprender la naturaleza del coraje, es importante considerar lo que **no** es. El coraje no es su opuesto: la [[cobardía]]. Se citan tres ejemplos literarios de cobardía: París en la *Ilíada* de Homero, huyendo vergonzosamente del duelo con Menelao con ayuda de la diosa Afrodita; John Willoughby en *Sense and Sensibility* de Jane Austen, abandonando a Marianne Dashwood sin explicación y permaneciendo en silencio mudo cuando confrontado públicamente; y el León Cobarde en *The Wizard of Oz* de L. Frank Baum, pasando la mayor parte del viaje a Oz lloriqueando, temblando y huyendo de la voz del Mago y del ladrido de Toto.
 
 ### Exemplary Courage in Literature and History
 

@@ -49,10 +49,7 @@ El documento recoge la cercanía del Papa Francisco a los [[movimientos_eclesial
 
 ### Según el Vademécum del DDF
 
-### Según el Vademécum del DDF
-
 El [[vademécum_del_ddf]] (2022) fue promulgado durante su pontificado como instrumento práctico para unificar la praxis procesal en los casos de abuso, desarrollando la legislación de SST, VELM y PGD.
-
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
 
 Mons. Munilla presenta las fotografías del Papa Francisco confesándose y administrando la confesión como «una de las fotografías más emblemáticas del pontificado», junto con las imágenes en las que abraza rostros heridos con todo el cariño. Las considera «los momentos carismáticos de su pontificado», y las aduce como estímulo para que los sacerdotes se entreguen al sacramento de la confesión y se dejen interpelar por él [CIS, 2026].

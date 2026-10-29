@@ -37,6 +37,10 @@ En Cristo, la vida en comunidad hace brotar de forma plena y nueva la identidad 
 
 Ninguna forma expresiva de la sociabilidad —desde la familia hasta la comunidad de los pueblos— puede eludir la cuestión del bien común, que es constitutivo de su significado (§165). La red de relaciones entre individuos y sociedades intermedias forma el tejido social y constituye la base de una verdadera comunidad de personas, haciendo posible formas más elevadas de sociabilidad (§185). La solidaridad confiere particular relieve a la intrínseca sociabilidad de la persona humana (§192). La familia, comunidad natural en donde se experimenta la sociabilidad humana, contribuye en modo único e insustituible al bien de la sociedad (§213).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El hombre es un ser social por su misma naturaleza (carne), no en virtud de un mandamiento extrínseco. La diferencia fundamental de los sexos es el tipo y la fuente de la vida en sociedad, fundada no en la fuerza sino en el amor (VocTeoBib, «hombre», I.c.).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 GS 12: «Dios no creó al hombre en solitario. Desde el principio los hizo hombre y mujer (*Gen* 1,27). Esta sociedad de hombre y mujer es la expresión primera de la comunión de personas humanas. El hombre es, en efecto, por su íntima naturaleza, un ser social, y no puede vivir ni desplegar sus cualidades sin relacionarse con los demás».
@@ -60,10 +64,6 @@ SmTh II-II q.109 a.3 ad 1: «Por el hecho de ser animal social, un hombre a otro
 SmTh II-II q.129 a.6 ad 1: «el hombre es por naturaleza un animal social, que no se basta él solo para vivir».
 
 SmTh III q.65 a.1: «el hombre, por naturaleza, es un animal social».
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El hombre es un ser social por su misma naturaleza (carne), no en virtud de un mandamiento extrínseco. La diferencia fundamental de los sexos es el tipo y la fuente de la vida en sociedad, fundada no en la fuerza sino en el amor (VocTeoBib, «hombre», I.c.).
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 

@@ -23,6 +23,9 @@ La ciencia práctica se divide en múltiples profesiones y estados de vida (sole
 
 ## Perspectivas por fuente
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El concepto de ciencia espiritual se vincula con la tradición bíblica de la sabiduría: «El guardar tus mandamientos me hizo entenderlos» (Sal 118,104). La ciencia auténtica es fruto de la obediencia y la pureza, no del mero estudio intelectual.
 ### Colaciones II — Juan Casiano (ColCas-II)
 
 El abad Nesteros presenta en la Conferencia XIV la enseñanza sobre la ciencia espiritual. Expone que la pureza de corazón es condición necesaria para recibirla: «Los puros de corazón verán a Dios» (Mt 5,8). La ciencia no se adquiere por elocuencia ni erudición humana, sino como fruto de la vida virtuosa. Los apóstoles, «hombres sin letras y de humilde condición» (Act 4,13), poseían la ciencia espiritual en plenitud.
@@ -31,9 +34,6 @@ Nesteros distingue entre la ciencia verdadera y la falsa (*φευδωνυμον*
 
 > **Referencia:** ColCas-II, Conferencia XIV, §§1-19
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El concepto de ciencia espiritual se vincula con la tradición bíblica de la sabiduría: «El guardar tus mandamientos me hizo entenderlos» (Sal 118,104). La ciencia auténtica es fruto de la obediencia y la pureza, no del mero estudio intelectual.
 
 ## Distinciones importantes
 

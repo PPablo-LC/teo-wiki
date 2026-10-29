@@ -4,7 +4,7 @@ title: "10. El matrimonio uno e indisoluble"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 52
 timestamp: 2026-08-01
-description: "Catequesis 10: el conocimiento del hombre a través de la dualidad masculino-femenino, la unidad «una sola carne» como revivir el misterio de la creación, y el carácter electivo del vínculo conyugal — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 10: el conocimiento del hombre a través de la dualidad masculino-femenino, la unidad «una sola carne» como revivir el misterio de la creación, y el carácter electivo del vínculo conyugal — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 
@@ -37,7 +37,7 @@ Cristo, al ser preguntado sobre la unidad e indisolubilidad del matrimonio, se r
 
 ### La unidad «una sola carne»
 
-La unidad de Gén 2, 24 («y vendrán a ser los dos una sola carne») es la que se expresa y se realiza en el **acto conyugal**. La formula bíblica señala el sexo como la característica que permite, al convertirse en «una sola carne», someter toda la humanidad a la bendición de la fecundidad. Pero el contexto no permite tratar el cuerpo y el sexo fuera de la dimensión plena del hombre y de la «comunión de las personas». Uniéndose tan íntimamente que se convierten en «una sola carne», varón y mujer **descubren de nuevo, cada vez, el misterio de la creación**, retornan a esa unión en la humanidad («carne de mi carne») que les permite reconocerse y llamarse por su nombre como la primera vez: esto significa revivir el valor originario virginal del hombre, que emerge del misterio de su soledad ante Dios y en medio del mundo. El sexo expresa, a nivel personal, una superación siempre nueva del límite de la soledad del hombre inherente a la constitución de su cuerpo, una superación que lleva consigo una cierta asunción de la soledad del cuerpo del segundo «yo» como propia.
+La unidad de Gén 2, 24 («y vendrán a ser los dos una sola carne») es la que se expresa y se realiza en el **acto conyugal**. La fórmula bíblica señala el sexo como la característica que permite, al convertirse en «una sola carne», someter toda la humanidad a la bendición de la fecundidad. Pero el contexto no permite tratar el cuerpo y el sexo fuera de la dimensión plena del hombre y de la «comunión de las personas». Uniéndose tan íntimamente que se convierten en «una sola carne», varón y mujer **descubren de nuevo, cada vez, el misterio de la creación**, retornan a esa unión en la humanidad («carne de mi carne») que les permite reconocerse y llamarse por su nombre como la primera vez: esto significa revivir el valor originario virginal del hombre, que emerge del misterio de su soledad ante Dios y en medio del mundo. El sexo expresa, a nivel personal, una superación siempre nueva del límite de la soledad del hombre inherente a la constitución de su cuerpo, una superación que lleva consigo una cierta asunción de la soledad del cuerpo del segundo «yo» como propia.
 
 ### La elección y el pacto conyugal
 

@@ -81,7 +81,7 @@ trasladado de convento en convento bajo vigilancia por sus dones.
   ([[ira]]).
 - Estructura explicativa: reconocer las propias dificultades y humillaciones
   como **dones** con que Dios refina al santo (1 Cor 1,26-29: Dios elige lo
-  bajo y despreciado; el Magnificat: «levantó a los humildes»).
+  bajo y despreciado; el Magníficat: «levantó a los humildes»).
 - «Se conformó con no ser franciscano, y eso fue lo que lo hizo humilde
   bastante para ser franciscano» ([[humildad]]).
 

@@ -48,7 +48,7 @@ tags: ["resumen", "acogida", "perdón", "misericordia", "experiencia_elemental"]
 ## La ospitalità y la persona entera
 
 - «la parola ospitalità o accoglienza riguarda la persona intera [...] questa è la carità alla persona come tale»; «accogliere l'altro vuol dire accogliere Cristo» (*Mt* 25).
-- «L'accoglienza è del diverso [...] C'è una diversità più grande di quella tra l'essere e il nulla?». «Il battesimo è proprio un abbraccio fisico permanente ed eterno».
+- «L'accoglienza è del diverso [...] C'è una diversità più grande di quella tra l'essere e il nulla?». «Il battesimo è proprio un abbraccio físico permanente ed eterno».
 
 ## Perdonar es afirmar el ser del otro
 
@@ -62,4 +62,4 @@ tags: ["resumen", "acogida", "perdón", "misericordia", "experiencia_elemental"]
 
 ## La Iglesia como espectáculo
 
-- *1 Cor* 4,9: «Siamo fatti spettacolo agli angeli, agli uomini e al mondo»; «voi siete stati chiamati a essere simbolo per tutti noi»; «Per l'umano e per l'eterno».
+- *1 Cor* 4,9: «Siamo fatti spettacolo agli angeli, agli uomini e al mondo»; «voi siete stati chiamati a essere símbolo per tutti noi»; «Per l'umano e per l'eterno».

@@ -16,7 +16,7 @@ tags: ["resumen", "lineas guia protección menores"]
 
 ## Contenido
 
-Encabezado que introduce el cuerpo normativo de las **Líneas Guía** del Vicariato. Tras el preámbulo del Santo Padre, se despliega la parte dispositiva del documento, organizada en las secciones: Premessa (premisa), A. Ambito di applicazione, B. Il Referente per la tutela dei minori, C. Gli operatori pastorali, D. Attività pastorali, E. Consenso informato dei genitori o tutori y F. Trattazione delle segnalazioni.
+Encabezado que introduce el cuerpo normativo de las **Líneas Guía** del Vicariato. Tras el preámbulo del Santo Padre, se despliega la parte dispositiva del documento, organizada en las secciones: Premessa (premisa), A. Ámbito di applicazione, B. Il Referente per la tutela dei minori, C. Gli operatori pastorali, D. Attività pastorali, E. Consenso informato dei genitori o tutori y F. Trattazione delle segnalazioni.
 
 ## Secciones incluidas
 

@@ -57,7 +57,7 @@ La persona eucarística se fundamenta en la [[eucaristía]], la [[presencia_real
 ## Referencias
 
 - O'Malley, Timothy P. «Eucharistic Personhood: Renewing All Things in Christ», en *Evangelization & Culture* 13 (Autumn 2022), Academic Feature.
-- O'Malley, Timothy P. *Becoming Eucharistic People* (Ave Maria Press, 2022).
+- O'Malley, Timothy P. *Becoming Eucharistic People* (Ave María Press, 2022).
 - *Sacrosanctum Concilium* 2.
 - Santo Tomás de Aquino, antífona *O Sacrum Convivium* (fiesta del Corpus Christi).
 - Ratzinger, Joseph. *Spirit of the Liturgy*.

@@ -15,7 +15,7 @@ La morada (*dimora*) es el concepto por el que Giussani designa el lugar concret
 
 ## Desarrollo doctrinal
 
-Giussani dedica una entera sección de *Affezione e dimora* al tema de la morada (Parte V: *Una dimora come metodo*), y lo retoma en la Parte VI (*Il metodo nella dimora*). La idea central es que el método de Dios para encontrarse con el ser humano no es la interpretación del pasado ni la especulación sobre el futuro, sino la irrupción en un presente concreto, en un punto del tiempo y del espacio. El Misterio se hace presencia en un lugar: «Il Mistero si rende presenza in un punto d'intersezione del tempo e dello spazio» (AED, 26, 101).
+Giussani dedica una entera sección de *Affezione e dimora* al tema de la morada (Parte V: *Una dimora come método*), y lo retoma en la Parte VI (*Il método nella dimora*). La idea central es que el método de Dios para encontrarse con el ser humano no es la interpretación del pasado ni la especulación sobre el futuro, sino la irrupción en un presente concreto, en un punto del tiempo y del espacio. El Misterio se hace presencia en un lugar: «Il Mistero si rende presenza in un punto d'intersezione del tempo e dello spazio» (AED, 26, 101).
 
 La casa concreta donde viven los *Memores Domini* — que empezó siendo la casa de 9 jóvenes en Milán y creció a más de 50 en tres casas — es el signo visible de esta morada. Pero la morada trasciende el espacio físico: es la dimensión de la compañía, la comunión de personas unidas por el Bautismo que se reconocen como parte del cuerpo de Cristo. «La dimora è là dove quello di cui ho bisogno c'è» (AED, 27, 97): la morada es donde todo lo que el ser humano necesita le es dado.
 
@@ -29,7 +29,7 @@ Giussani insiste en que la morada es el «método» de Dios. Mientras las religi
 
 ### Giussani — Affezione e dimora (AED)
 
-En la presentación (AED, 00, 7), la morada es presentada como obra del Dios encarnado: «Costruisce un'amicizia: un rapporto tra l'uomo e la donna, una casa, una dimora, una società, un'epoca diversi».
+En la presentación (AED, 00, 7), la morada es presentada como obra del Dios encarnado: «Costruisce un'amicizia: un rapporto tra l'uomo e la donna, una casa, una dimora, una società, un'época diversi».
 
 En la conversación de apertura (AED, 05, 13), la morada es identificada con la compañía: «Questa tensione avviene di fatto dentro una dimora che essa crea: la dimora della compagnia in cui Dio ci ha "intruppati"».
 

@@ -13,7 +13,7 @@ description: "Papa número 221 de la Iglesia Católica (1550-1555). Reanudó el 
 
 ## Datos biográficos
 
-- **Nombre secular:** Giovanni Maria Ciocchi del Monte
+- **Nombre secular:** Giovanni María Ciocchi del Monte
 - **Nacimiento:** 10 de septiembre de 1487, Roma
 - **Pontificado:** 8 de febrero de 1550 — 23 de marzo de 1555
 - **Muerte:** 23 de marzo de 1555, Roma

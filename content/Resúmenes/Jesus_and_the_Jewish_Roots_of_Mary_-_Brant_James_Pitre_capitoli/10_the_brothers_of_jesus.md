@@ -36,4 +36,4 @@ El griego bíblico usa «hermanos» para los parientes: Jacob y los hijos de Lab
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `10_the_brothers_of_jesus`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `10_the_brothers_of_jesus`

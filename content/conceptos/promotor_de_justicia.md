@@ -29,13 +29,13 @@ Tiene derecho a apelar las sentencias en las causas que requieren su presencia (
 
 Está legitimado para impugnar la nulidad del matrimonio cuando la nulidad se ha divulgado y no es posible o conveniente convalidarlo (c. 1674, 2.º). Debe intervenir en las causas de separación de los cónyuges (c. 1696).
 
+### Según los Comentarios al CIC (Eunsa)
+
+El promotor de justicia es necesario en toda diócesis (c. 1430). Pueden constituirse varios para distintas materias. Su finalidad es promover y tutelar el bien público, la *salus animarum* como ley suprema en la Iglesia. No tiene potestad de jurisdicción. Su oficio es eclesiástico estable (c. 145 §1). El ámbito de sus intervenciones es amplísimo: causas matrimoniales, de personas morales, pupilos, amentes, causas criminales (Comentarios Eunsa, c. 1430). Pueden ser removidos por el Obispo con causa justa; la remoción sin causa es ilícita pero válida.
 ### Según las Normae de delictis gravioribus
 
 El promotor de justicia para los delitos más graves debe ser sacerdote, con doctorado en derecho canónico, de buenas costumbres y de reconocida prudencia y experiencia jurídica, y cumple su oficio en todos los grados del juicio (*Normae de delictis gravioribus*, Art. 11).
 
-### Según los Comentarios al CIC (Eunsa)
-
-El promotor de justicia es necesario en toda diócesis (c. 1430). Pueden constituirse varios para distintas materias. Su finalidad es promover y tutelar el bien público, la *salus animarum* como ley suprema en la Iglesia. No tiene potestad de jurisdicción. Su oficio es eclesiástico estable (c. 145 §1). El ámbito de sus intervenciones es amplísimo: causas matrimoniales, de personas morales, pupilos, amentes, causas criminales (Comentarios Eunsa, c. 1430). Pueden ser removidos por el Obispo con causa justa; la remoción sin causa es ilícita pero válida.
 
 ## Distinciones importantes
 

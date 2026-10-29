@@ -25,6 +25,9 @@ La impotencia se distingue de la esterilidad (incapacidad para procrear): la est
 
 CIC c. 1084: la impotencia antecedente y perpetua, absoluta o relativa, dirime el matrimonio. Si es dudosa, no se debe impedir el matrimonio. La esterilidad no prohibe ni dirime el matrimonio.
 
+### Según el Comentario al CIC (Com-CIC-Eunsa)
+
+El comentario al c. 1084 (F. Urrutia) distingue entre impotencia coeundi (incapacidad para el acto sexual) y esterilidad (incapacidad para la generación). Solo la primera es impedimento dirimente. La impotencia debe ser antecedente (preexistente al matrimonio) y perpetua (no curable por medios lícitos). La impotencia relativa (solo con ese cónyuge) también es dirimente. La duda de derecho (si el impedimento existe realmente) no impide el matrimonio; la duda de hecho requiere consulta al Ordinario.
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la impotencia en el Suplemento (q.58 a.1), como el primero de los impedimentos mencionados en el verso clásico. La impotencia impide la cópula carnal y, por tanto, la realización del contrato matrimonial, pues en el matrimonio se entrega el poder sobre el propio cuerpo para el débito conyugal. Quien no puede pagar ese débito no puede obligarse válidamente.
@@ -37,9 +40,6 @@ Para determinar si la impotencia es perpetua, la Iglesia establece un plazo de p
 
 La impotencia, como la esclavitud, tiene la particularidad de que si es conocida por la otra parte al contraer matrimonio, no lo invalida, porque la parte que conoce la incapacidad renuncia voluntariamente al derecho al débito (q.58 a.1 ad 4). Esto la distingue de impedimentos como la consanguinidad, que invalidan el matrimonio incluso si son conocidos.
 
-### Según el Comentario al CIC (Com-CIC-Eunsa)
-
-El comentario al c. 1084 (F. Urrutia) distingue entre impotencia coeundi (incapacidad para el acto sexual) y esterilidad (incapacidad para la generación). Solo la primera es impedimento dirimente. La impotencia debe ser antecedente (preexistente al matrimonio) y perpetua (no curable por medios lícitos). La impotencia relativa (solo con ese cónyuge) también es dirimente. La duda de derecho (si el impedimento existe realmente) no impide el matrimonio; la duda de hecho requiere consulta al Ordinario.
 
 ## Otras cuestiones conexas (Q58)
 

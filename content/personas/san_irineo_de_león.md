@@ -38,7 +38,7 @@ Este testimonio es particularmente valioso porque:
 - Ireneo fue discípulo de Policarpo, quien a su vez fue discípulo de San Juan.
 - Viene de una tradición que se remonta directamente a los apóstoles.
 - Confirma la autoría de los cuatro Evangelios y el contexto histórico de cada uno.
-- Es citado en *The Case for Jesus* (CfJ), Sesión 2, línea [00:13:07].
+- Es citado en *The Case for Jesús* (CfJ), Sesión 2, línea [00:13:07].
 
 ### Teología de la recapitulación
 

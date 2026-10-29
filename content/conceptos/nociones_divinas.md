@@ -31,6 +31,17 @@ Las nociones se distinguen también de los atributos esenciales: los atributos (
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo trata las propiedades personales de las personas divinas en el contexto de la revelación trinitaria (§232-267). Las nociones son los fundamentos de las misiones divinas, pues las personas son conocidas por sus propiedades y por sus misiones. Las nociones permiten comprender cómo las personas son realmente distintas y cómo se distinguen entre sí sin composición real.
+
+El Catecismo enseña que las personas divinas se distinguen por sus relaciones de origen: «Lo que distingue a las personas divinas entre sí es únicamente la relación de las que proceden» (§254). Estas relaciones son las nociones consideradas bajo el aspecto de formas subsistentes.
+
+Las nociones son también el fundamento de la unidad de la Trinidad: como todas se identifican realmente entre sí y con la esencia divina, la distinción de personas no implica división alguna en Dios, sino solo diversidad de relaciones subsistentes. Esta doctrina es fundamental para comprender que la Trinidad no es tres dioses, sino un solo Dios en tres personas realmente distintas.
+
+La doctrina de las nociones tiene implicaciones pastorales: permite explicar por qué cada persona divina tiene una misión propia en la economía de la salvación, y cómo las misiones de las personas se distinguen entre sí.
+
+Las nociones son también el fundamento de la oración trinitaria: el cristiano, movido por el Espíritu Santo, se dirige al Padre por el Hijo, siguiendo el orden de las nociones divinas. Esta estructura trinitaria de la oración se funda en las propiedades personales de las personas divinas.
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata las nociones divinas en SmTh Iª q.40.
@@ -43,17 +54,6 @@ Santo Tomás trata las nociones divinas en SmTh Iª q.40.
 
 **q.40 a.4 — Número de las nociones.** Hay cuatro nociones, no más ni menos: la paternidad, la filiación, la espiración activa y la procesión pasiva. No hay quinta noción porque no hay quinta persona, ni porque la distinción de personas se agota en estas cuatro propiedades. Cada persona divina tiene al menos una noción que la distingue: el Padre tiene la paternidad, el Hijo la filiación, y el Espíritu Santo la procesión pasiva. La espiración activa es común al Padre y al Hijo.
 
-### Según el Catecismo (CEC)
-
-El Catecismo trata las propiedades personales de las personas divinas en el contexto de la revelación trinitaria (§232-267). Las nociones son los fundamentos de las misiones divinas, pues las personas son conocidas por sus propiedades y por sus misiones. Las nociones permiten comprender cómo las personas son realmente distintas y cómo se distinguen entre sí sin composición real.
-
-El Catecismo enseña que las personas divinas se distinguen por sus relaciones de origen: «Lo que distingue a las personas divinas entre sí es únicamente la relación de las que proceden» (§254). Estas relaciones son las nociones consideradas bajo el aspecto de formas subsistentes.
-
-Las nociones son también el fundamento de la unidad de la Trinidad: como todas se identifican realmente entre sí y con la esencia divina, la distinción de personas no implica división alguna en Dios, sino solo diversidad de relaciones subsistentes. Esta doctrina es fundamental para comprender que la Trinidad no es tres dioses, sino un solo Dios en tres personas realmente distintas.
-
-La doctrina de las nociones tiene implicaciones pastorales: permite explicar por qué cada persona divina tiene una misión propia en la economía de la salvación, y cómo las misiones de las personas se distinguen entre sí.
-
-Las nociones son también el fundamento de la oración trinitaria: el cristiano, movido por el Espíritu Santo, se dirige al Padre por el Hijo, siguiendo el orden de las nociones divinas. Esta estructura trinitaria de la oración se funda en las propiedades personales de las personas divinas.
 
 ## Distinciones importantes
 

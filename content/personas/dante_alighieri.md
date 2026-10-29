@@ -37,6 +37,11 @@ Cacciaguida, mártir en las Cruzadas, instruye a Dante sobre lo que significa se
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+**SmTh II-II, q. 17, a. 1 — La esperanza como virtud:** Santo Tomás enseña que la esperanza es una virtud teológica que se apoya en la omnipotencia y misericordia divinas. Dante personifica esta virtud en su peregrino que avanza a través del más allá.
+
+**SmTh Ia, q. 90, a. 1 — La imagen de Dios:** El ser humano fue creado a imagen de Dios, lo que implica una apertura a la trascendencia. La Divina Comedia es la exploración poética de esta apertura.
 ### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
 
 Dr. Jessica Hooten Wilson, en "The Virtue of Pilgrims, Poets, and Prophets" (§13), presenta una teología de la esperanza a través de Dante:
@@ -55,11 +60,6 @@ Dr. Jessica Hooten Wilson, en "The Virtue of Pilgrims, Poets, and Prophets" (§1
 
 **La esperanza universal:** «La mayoría de nosotros no somos llamados a ser profetas o poetas, pero... el libro bíblico [de Jeremías] no podría traernos esperanza sin el escriba Baruc.» La vocación de esperanza es para todos.
 
-### Según la Summa Theologiae (SmTh)
-
-**SmTh II-II, q. 17, a. 1 — La esperanza como virtud:** Santo Tomás enseña que la esperanza es una virtud teológica que se apoya en la omnipotencia y misericordia divinas. Dante personifica esta virtud en su peregrino que avanza a través del más allá.
-
-**SmTh Ia, q. 90, a. 1 — La imagen de Dios:** El ser humano fue creado a imagen de Dios, lo que implica una apertura a la trascendencia. La Divina Comedia es la exploración poética de esta apertura.
 
 ## Distinciones importantes
 

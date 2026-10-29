@@ -4,7 +4,7 @@ title: "Resumen"
 fuente: Case_for_Jesus
 capítulo: 1
 timestamp: 2026-08-25
-description: "Resumen global del estudio bíblico The Case for Jesus (Dr. Grant Petrie): autoría apostólica de los Evangelios por evidencia interna y externa, y su género biográfico histórico"
+description: "Resumen global del estudio bíblico The Case for Jesús (Dr. Grant Petrie): autoría apostólica de los Evangelios por evidencia interna y externa, y su género biográfico histórico"
 tags: ["resumen", "case for jesus"]
 ---
 

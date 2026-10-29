@@ -22,6 +22,9 @@ La teología no es un mosaico de disciplinas inconexas, sino una ciencia unitari
 
 ## Perspectivas por fuente
 
+### Santo Tomás de Aquino
+
+- **Summa Theologiae, I, prooemium**: La teología es una ciencia que trata de Dios y de las cosas en relación con Dios.
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor subraya que:
@@ -31,9 +34,6 @@ El autor subraya que:
 - No es posible afrontar la moral cristiana sin su fundamento cristológico, eclesiológico y sacramental.
 - La teología moral depende de la teología dogmática y viceversa.
 
-### Santo Tomás de Aquino
-
-- **Summa Theologiae, I, prooemium**: La teología es una ciencia que trata de Dios y de las cosas en relación con Dios.
 
 ## Distinciones importantes
 

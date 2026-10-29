@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "The Patron Saint of the Internet — Matthew Becklo"
+title: "The Patrón Saint of the Internet — Matthew Becklo"
 fuente: Evangelization and culture - 3
 capítulo: 5
 timestamp: 2026-08-24
-description: "Resumen de 'The Patron Saint of the Internet' — San Isidro de Sevilla como patrono digital"
+description: "Resumen de 'The Patrón Saint of the Internet' — San Isidro de Sevilla como patrono digital"
 tags: ["resumen", "evangelization_and_culture", "santos", "evangelización_digital"]
 ---
 
-# The Patron Saint of the Internet — Matthew Becklo
+# The Patrón Saint of the Internet — Matthew Becklo
 
 ## Conceptos básicos referenciados
 

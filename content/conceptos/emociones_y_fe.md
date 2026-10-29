@@ -23,12 +23,6 @@ El reto es facilitar el encuentro con Dios sin abusar de las emociones, al mismo
 
 ## Perspectivas por fuente
 
-### Según la Nota doctrinal «Cor ad cor loquitur» (NotaEmocionesFe)
-
-La fe no se reduce al asentimiento teórico a determinados dogmas, sino que es un acto por el que toda la persona se entrega libremente a Dios (n. 24). La nota advierte del riesgo de un reduccionismo «emotivista» de la fe que lleva a muchas personas a convertirse en consumidoras de experiencias de impacto y buscadoras insaciables de la complacencia del sentimiento espiritual (n. 4). El anuncio de Cristo no busca de modo directo provocar sentimientos, sino testimoniar un acontecimiento que transforma la historia (Jn 3,16; n. 4).
-
-Los criterios teológico-pastorales que ofrece la nota son: dimensión trinitaria (nn. 22-23), dimensión personal (nn. 24-26), dimensión objetiva de la fe (nn. 27-28), dimensión eclesial (nn. 29-32), dimensión ética y caritativa (nn. 33-34) y dimensión celebrativa (nn. 35-37). La fe sin verdad no salva: «se queda en una bella fábula, proyección de nuestros deseos de felicidad» (Lumen fidei 24, cit. en n. 9).
-
 ### Según el Catecismo (CEC)
 
 «No creemos en fórmulas, sino en las realidades que estas expresan y que la fe nos permite "tocar"» (CEC §170). La fe es la respuesta del hombre a Dios que se revela (CEC §142-143). El corazón es el lugar de las decisiones, de la verdad, del encuentro y de la Alianza (CEC §2563).
@@ -36,6 +30,12 @@ Los criterios teológico-pastorales que ofrece la nota son: dimensión trinitari
 ### Según el Concilio Vaticano II (ConcVatII)
 
 «El misterio del hombre solo se esclarece en el misterio del Verbo encarnado», que «manifiesta plenamente el hombre al propio hombre» (GS 22). La obediencia de la fe requiere la gracia de Dios y los auxilios internos del Espíritu Santo, que mueve el corazón (DV 5).
+### Según la Nota doctrinal «Cor ad cor loquitur» (NotaEmocionesFe)
+
+La fe no se reduce al asentimiento teórico a determinados dogmas, sino que es un acto por el que toda la persona se entrega libremente a Dios (n. 24). La nota advierte del riesgo de un reduccionismo «emotivista» de la fe que lleva a muchas personas a convertirse en consumidoras de experiencias de impacto y buscadoras insaciables de la complacencia del sentimiento espiritual (n. 4). El anuncio de Cristo no busca de modo directo provocar sentimientos, sino testimoniar un acontecimiento que transforma la historia (Jn 3,16; n. 4).
+
+Los criterios teológico-pastorales que ofrece la nota son: dimensión trinitaria (nn. 22-23), dimensión personal (nn. 24-26), dimensión objetiva de la fe (nn. 27-28), dimensión eclesial (nn. 29-32), dimensión ética y caritativa (nn. 33-34) y dimensión celebrativa (nn. 35-37). La fe sin verdad no salva: «se queda en una bella fábula, proyección de nuestros deseos de felicidad» (Lumen fidei 24, cit. en n. 9).
+
 
 ## Distinciones importantes
 

@@ -14,7 +14,7 @@ description: "Arzobispo católico estadounidense, fundador de Word on Fire y del
 
 Robert Lawrence Barron (b. 1959) es arzobispo católico y obispo auxiliar de Los Ángeles en jubilación. Nacido en St. Louis, Missouri, fue ordenado sacerdote en 1986. Obtuvo un doctorado en teología en la Universidad Ruhr de Bochum, Alemania.
 
-Fue rector del Catholic University of America (2001-2015) y obispo de Winona, Minnesota (2015-2024), antes de ser nombrado obispo auxiliar de Los Ángeles en 2024.
+Fue rector del Catholic University of América (2001-2015) y obispo de Winona, Minnesota (2015-2024), antes de ser nombrado obispo auxiliar de Los Ángeles en 2024.
 
 ## Word on Fire
 
@@ -93,7 +93,7 @@ En el número dedicado a la conversión, Barron es el autor de la carta editoria
 - **Conversión y cultura**: HVTech y las redes sociales erigen a escala industrial un falso yo como producto de consumo, y la conversión de la cultura es ese movimiento contrario.
 - **Deificación / cristificación**: el destino de la conversión es «llegar a ser como Dios… compartir la vida divina»: la *theosis* que Agustín y Aquino leen en «Dios se hizo hombre para que el hombre se hiciera Dios» (cf. 2 Pe 1,4).
 
-**Spotlight: Bishop Barron on Conversion (18_spotlight_barron_on_conversion.md).** Entrevistado por Tod Worner, Barron despliega su visión pastoral de la conversión:
+**Spotlight: Bishop Barron on Conversión (18_spotlight_barron_on_conversion.md).** Entrevistado por Tod Worner, Barron despliega su visión pastoral de la conversión:
 - **Definición**: la conversión es el «despojo» (*stripping*) del yo viejo y la reordenación del deseo: el ciego Bartimeo que «tira su manto», lo que «significa abandonar su antigua vida», para ir tras Jesús. Es misterio y viaje.
 - **Los conversos del número como ejemplos**: [[thomas_merton]] y [[dorothy_day]] (conversión desde la mundanalidad), Newman y Edith Stein (conversión intelectual), Agustín (conversión por la predicación de [[san_ambrosio]]).
 - **Conversión como gracia**: no forzar; hay que presentar a Cristo y dejar que la gracia actúe.

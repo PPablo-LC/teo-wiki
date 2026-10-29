@@ -50,7 +50,7 @@ que la libertad puede verificar.
 Giussani afirma la necesidad de un gobierno que proteja la **libertad de
 educación**: «noi vogliamo un governo che protegga la libertà, per cui
 possa entrare in scuola anche un cristiano» (*Dilecti amici*; *Gravissimum
-educationis* 5). Una **escuela católica** es «un ambito di verifica del
+educationis* 5). Una **escuela católica** es «un ámbito di verifica del
 valore della proposta della tradizione cristiana». Cita a [[juan_pablo_ii]]
 a los hombres de cultura (Río 1980): «Fuori della libertà non può esserci
 cultura».

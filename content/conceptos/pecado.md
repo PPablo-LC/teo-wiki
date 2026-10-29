@@ -33,14 +33,6 @@ Clasificación de pecadores según su responsabilidad:
 
 ## Perspectivas por fuente
 
-### Según la Dives in Misericordia (DM)
-
-La encíclica presenta el pecado como aquello sobre lo que la misericordia de Dios prevalece. Dios, que es «rico en misericordia» (Ef 2,4), no puede revelarse sino como misericordia «precisamente porque existe el pecado en el mundo» [DM §13].
-
-El Antiguo Testamento ya anuncia que «la misericordia significa una potencia especial del amor, que prevalece sobre el pecado y la infidelidad del pueblo elegido» [DM §4]. En Cristo, la misericordia divina se manifiesta como «amor que es más fuerte que el pecado» [DM §13]. «No hay pecado humano que prevalezca por encima de esta fuerza y ni siquiera que la limite. Por parte del hombre puede limitarla únicamente la falta de buena voluntad, la falta de prontitud en la conversión y en la penitencia» [DM §13].
-
-El hijo pródigo es la figura del pecador que «había tocado en lo más vivo y había ofendido a su padre con su conducta», pero la relación filial «no podía ser alienada, ni destruida por ningún comportamiento» [DM §5]. La redención en Cristo «comporta la revelación de la misericordia en su plenitud» [DM §7], porque la cruz hace justicia del pecado «restituyendo al amor su fuerza creadora en el interior del hombre» [DM §7].
-
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC regula la imputabilidad de las infracciones en los cc. 1321-1330, distinguiendo grados de responsabilidad moral análogos a los del pecado. Nadie puede ser castigado a no ser que la violación externa de una ley o precepto le sea gravemente imputable por dolo o culpa (c. 1321 §1). Quien infringió deliberadamente queda sujeto a la pena; quien lo hizo por omisión de la debida diligencia no debe ser castigado a no ser que la ley disponga otra cosa (c. 1321 §2). Cometida la infracción externa, se presume la imputabilidad a no ser que conste lo contrario (c. 1321 §3). Se consideran incapaces de cometer delito quienes carecen habitualmente de uso de razón (c. 1322). No quedan sujetos a pena: quienes no han cumplido dieciséis años, quienes obraron por ignorancia sin culpa, violencia, caso fortuito, miedo grave, legítima defensa, o quienes carecían de uso de razón (c. 1323). La pena debe atenuarse cuando el infractor tenía solo uso imperfecto de razón, obró por impulso grave de pasión, o era menor de edad entre dieciséis y dieciocho años (c. 1324). No se toma en cuenta la ignorancia crasa, supina o afectada, ni la embriaguez provocada intencionalmente (c. 1325). El juez puede castigar con mayor gravedad a quien es pertinaz en la mala voluntad o abusó de su autoridad (c. 1326). La tentativa no consumada no queda sujeta a la pena del delito consumado, pero puede castigarse con penitencia o remedio penal (c. 1328).
@@ -50,12 +42,6 @@ El CIC regula la imputabilidad de las infracciones en los cc. 1321-1330, disting
 El VocTeoBib ofrece un extenso estudio del pecado siguiendo el desarrollo de la revelación bíblica. En el AT, el pecado de Adán se manifiesta como desobediencia y desconfianza radical: el hombre pretende ponerse en lugar de Dios, trastornando la relación de amistad *Gen 3*. Sus consecuencias son la ruptura con Dios, con el prójimo y la entrada de la muerte. El pecado de Israel en el becerro de oro *Ex 32* y en los «sepulcros de la concupiscencia» *Num 11* reproduce este drama, revelando una negativa a confiar en Dios. Los profetas denuncian el pecado como ofensa a Dios —ingratitud del hijo, infidelidad de la esposa— y llaman a la conversión, anunciando una nueva alianza en que Dios mismo dará un corazón nuevo.
 
 En el NT, Jesús se sitúa en medio de los pecadores, denuncia el pecado interior del corazón y revela la misericordia del Padre. Juan descubre en el pecado una hostilidad profunda contra la luz, inspirada por Satán, que culmina en el odio y el homicidio del Hijo de Dios. Pablo desarrolla una teología del pecado como poder personificado introducido por Adán, del que Cristo libera con sobreabundancia de gracia *Rom 5,12-19*. La sabiduría divina utiliza incluso el pecado —especialmente en la pasión de Cristo— para la salvación del hombre *Rom 11,33*.
-### Según Royo Marín (TPCr)
-
-El pecado mortal es como un derrumbamiento instantáneo de la vida sobrenatural, un suicidio del alma a la vida de la gracia. El pecado venial deliberado constituye un obstáculo insuperable para la perfección. La imperfección voluntaria habitual impide la unión transformante.
-
-Cita extensamente a Santa Teresa sobre el horror del pecado mortal, a San Juan de la Cruz sobre las imperfecciones, y a San Francisco de Sales sobre la mansedumbre con nosotros mismos ante las caídas.
-
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.71 — Los vicios y pecados en sí mismos:**
@@ -99,6 +85,20 @@ El pecado disminuye el bien de la naturaleza (inclinación a la virtud), pero no
 **Ia-IIae q.87-89 — Reato de la pena y distinción mortal/venial:**
 
 El reato de la pena es efecto del pecado (q.87 a.1). El pecado mortal acarrea pena eterna por oponerse al fin último de modo irreparable (q.87 a.3); el venial, pena temporal (q.87 a.5). El pecado mortal y el venial se distinguen como reparable e irreparable (q.88 a.1); algunos pecados son mortales por su género (opuestos a la caridad), otros veniales por su género (q.88 a.2). El pecado venial dispone al mortal (q.88 a.3). Los ángeles no pueden pecar venialmente (q.89 a.4). En el estado de inocencia el hombre no podía pecar venialmente (q.89 a.3).
+
+### Según Royo Marín (TPCr)
+
+El pecado mortal es como un derrumbamiento instantáneo de la vida sobrenatural, un suicidio del alma a la vida de la gracia. El pecado venial deliberado constituye un obstáculo insuperable para la perfección. La imperfección voluntaria habitual impide la unión transformante.
+
+Cita extensamente a Santa Teresa sobre el horror del pecado mortal, a San Juan de la Cruz sobre las imperfecciones, y a San Francisco de Sales sobre la mansedumbre con nosotros mismos ante las caídas.
+
+### Según la Dives in Misericordia (DM)
+
+La encíclica presenta el pecado como aquello sobre lo que la misericordia de Dios prevalece. Dios, que es «rico en misericordia» (Ef 2,4), no puede revelarse sino como misericordia «precisamente porque existe el pecado en el mundo» [DM §13].
+
+El Antiguo Testamento ya anuncia que «la misericordia significa una potencia especial del amor, que prevalece sobre el pecado y la infidelidad del pueblo elegido» [DM §4]. En Cristo, la misericordia divina se manifiesta como «amor que es más fuerte que el pecado» [DM §13]. «No hay pecado humano que prevalezca por encima de esta fuerza y ni siquiera que la limite. Por parte del hombre puede limitarla únicamente la falta de buena voluntad, la falta de prontitud en la conversión y en la penitencia» [DM §13].
+
+El hijo pródigo es la figura del pecador que «había tocado en lo más vivo y había ofendido a su padre con su conducta», pero la relación filial «no podía ser alienada, ni destruida por ningún comportamiento» [DM §5]. La redención en Cristo «comporta la revelación de la misericordia en su plenitud» [DM §7], porque la cruz hace justicia del pecado «restituyendo al amor su fuerza creadora en el interior del hombre» [DM §7].
 
 ### Según Juan Pablo II (JPII-JovCh)
 
@@ -152,7 +152,7 @@ seducir; me has hecho fuerza y has prevalecido. […] Cuando hablo me veo obliga
 a gritar, debo proclamar: “Violencia, ruina para quien olvida a Dios”» (01, 85;
 Jr 20,1-9).
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 Sicari abre su tratado con la **etimología**: *peccatum* deriva de *peccus*,
 el «pie izquierdo» mal posado (como *mancus* designa al manco), de donde

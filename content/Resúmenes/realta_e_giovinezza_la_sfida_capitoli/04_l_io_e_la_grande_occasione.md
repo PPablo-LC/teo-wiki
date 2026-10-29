@@ -14,7 +14,7 @@ tags: ["resumen", "persona", "encuentro", "misterio", "gratuidad"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[distracción]] — «è possibile che l'uomo abbia facilmente a dimenticare se stesso»
+- [[distracción]] — «è possibile che l'uomo abbia fácilmente a dimenticare se stesso»
 - [[persona]] — «la realtà dell'uomo è rapporto con l'infinito»
 - [[felicidad]] — Caligola: «Gli uomini muoiono e non sono felici»
 - [[deseo]] — «un bisogno di impossibile»; la insaziabilidad

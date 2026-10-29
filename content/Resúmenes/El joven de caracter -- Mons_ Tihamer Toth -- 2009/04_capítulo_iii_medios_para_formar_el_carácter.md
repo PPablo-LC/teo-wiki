@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "Capítulo III Medios para formar el carácter"
-fuente: El joven de caracter -- Mons_ Tihamer Toth -- 2009
+fuente: El joven de carácter -- Mons_ Tihamer Toth -- 2009
 capítulo: 4
 timestamp: 2026-08-16
 description: "Resumen del Capítulo III de El joven de carácter: los medios para formar el carácter (ejercicio de la voluntad, verdad, orden, examen de conciencia y oración)."

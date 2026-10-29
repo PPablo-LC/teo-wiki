@@ -31,6 +31,9 @@ El hombre ocupa un lugar único en la creación: está hecho a imagen de Dios, l
 
 **El hombre en el paraíso** (§374-379): Adán y Eva fueron constituidos en un estado «de santidad y de justicia original», con gracia que era participación de la vida divina.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Hombre»] La antropología bíblica es inseparable de la teología y de la cristología: el hombre se define por su relación con Dios, cuya imagen es. Adán representa a la humanidad entera en su triple dimensión: relación con Dios, con la tierra y con los hermanos. Cristo, el «último Adán» (1Cor 15,45), es la imagen perfecta de Dios y el modelo al que el hombre nuevo debe conformarse. El hombre solo se comprende plenamente en Jesucristo, que «manifiesta plenamente el hombre al propio hombre» (GS 22).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 GS 12: El hombre ha sido creado «a imagen de Dios», con capacidad para conocer y amar a su Creador, constituido señor de la creación visible para usarla glorificando a Dios. «Dios no creó al hombre en solitario. Desde el principio los hizo hombre y mujer. Esta sociedad de hombre y mujer es la expresión primera de la comunión de personas humanas. El hombre es, en efecto, por su íntima naturaleza, un ser social.»
@@ -74,9 +77,6 @@ De Lubac subraya que el hombre es un misterio insondable: «No sabemos lo que es
 
 La conciencia del pecado es el primer paso hacia la liberación: «Felix culpa» [PoF, cap. 10]. No es la sinceridad sino la Verdad la que libera al hombre (cf. Jn 8,32). De Lubac advierte contra la confusión entre *eros* y *ágape*: el amor humano y el amor divino no deben mezclarse indebidamente, aunque tampoco separarse absolutamente [PoF, cap. 10].
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Hombre»] La antropología bíblica es inseparable de la teología y de la cristología: el hombre se define por su relación con Dios, cuya imagen es. Adán representa a la humanidad entera en su triple dimensión: relación con Dios, con la tierra y con los hermanos. Cristo, el «último Adán» (1Cor 15,45), es la imagen perfecta de Dios y el modelo al que el hombre nuevo debe conformarse. El hombre solo se comprende plenamente en Jesucristo, que «manifiesta plenamente el hombre al propio hombre» (GS 22).
 
 ## Analizado en contexto cultural
 

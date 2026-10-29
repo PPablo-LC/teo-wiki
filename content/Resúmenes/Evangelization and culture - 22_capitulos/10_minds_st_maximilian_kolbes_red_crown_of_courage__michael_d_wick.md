@@ -32,7 +32,7 @@ Kolbe encarna el mandato de Cristo: «Nadie tiene mayor amor que el que pone su 
 
 ### Inicios y vocación
 
-El peregrinaje de fe de Kolbe comenzó en el [[bautismo]] y se nutrió en el seno de una profunda vida familiar católica. Julius y Maria Kolbe enseñaron a sus tres hijos a ser verdaderos hijos amados de Dios y leales hijos de Polonia. Cuando Raymond (nombre bautismal de Maximilian) era adolescente, su madre lo regañó y exclamó: «¿Qué será de ti?» El muchacho llevó la reprensión al corazón y fue a orar ante el altar de [[maría]] en la parroquia. La Inmaculada apareció sosteniendo dos coronas —una blanca (pureza) y una roja (martirio)— y le preguntó si las aceptaba. El piadoso muchacho dijo: «¡Sí!» Esta visión mística, revelada solo a su madre, prefiguró su destino final en Auschwitz.
+El peregrinaje de fe de Kolbe comenzó en el [[bautismo]] y se nutrió en el seno de una profunda vida familiar católica. Julius y María Kolbe enseñaron a sus tres hijos a ser verdaderos hijos amados de Dios y leales hijos de Polonia. Cuando Raymond (nombre bautismal de Maximilian) era adolescente, su madre lo regañó y exclamó: «¿Qué será de ti?» El muchacho llevó la reprensión al corazón y fue a orar ante el altar de [[maría]] en la parroquia. La Inmaculada apareció sosteniendo dos coronas —una blanca (pureza) y una roja (martirio)— y le preguntó si las aceptaba. El piadoso muchacho dijo: «¡Sí!» Esta visión mística, revelada solo a su madre, prefiguró su destino final en Auschwitz.
 
 ### La Militia Immaculatae
 

@@ -52,4 +52,4 @@ La propuesta católica es que los datos vuelvan a la persona: «imagina lo que p
 ## Referencias
 
 - [Ramelow, «AI as a Challenge to Human Freedom», EAC-19, 15_feature_ramelow.md, L47-51]
-- [Jaron Lanier, *Who Owns the Future?* (Simon & Schuster, 2013)]
+- [Jaron Lanier, *Who Owns the Future?* (Simón & Schuster, 2013)]

@@ -13,7 +13,7 @@ description: "Tercer volumen póstumo de Benedicto XVI: la infancia de Jesús se
 ## Ficha técnica
 
 - **Autor:** Benedicto XVI (Joseph Ratzinger)
-- **Título original:** *Jesus von Nazareth. Die Kindheitsgeschichten*
+- **Título original:** *Jesús von Nazareth. Die Kindheitsgeschichten*
 - **Publicación:** 2025 (póstumo)
 - **Código en el wiki:** JdN_III
 - **Raw:** `raw/Bases_doctrinales-raw/Jesus_de_Nazaret_III/`

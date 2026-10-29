@@ -20,7 +20,7 @@ En *Realtà e giovinezza. La sfida* (REG, cap. 12), don [[luigi_giussani]]
 distingue, siguiendo a É. De Greeff, dos concepciones de la
 **personalidad**: la **falsa personalidad**, que «si riduce
 all'ipertrofia dell'istinto di difesa», y la **vera personalidad**, que
-«si basa sull'istinto di simpatia». La diferencia es decisiva: la primera
+«si basa sull'istinto di simpatía». La diferencia es decisiva: la primera
 cierra al yo sobre sí mismo; la segunda lo abre a la realidad y al otro.
 
 ## Desarrollo doctrinal

@@ -48,7 +48,7 @@ En Pampuri Giussani subraya dos rasgos (03, 5):
   cristiano, que después de dos mil años alcanza aún a los hombres de hoy.
 
 Su vida manifiesta —en el paradoja de una existencia inexplicable sin
-Cristo, dedicada a la cura de los demás y al amor a cada persona— «il metodo
+Cristo, dedicada a la cura de los demás y al amor a cada persona— «il método
 con cui l'avvenimento di Cristo si prolunga nella storia: attraverso uomini
 e donne cambiati dall'incontro con Lui» (03, 7). Es, así, un ejemplo concreto
 de la tesis central del volumen: solo una vida transformada por el

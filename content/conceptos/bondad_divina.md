@@ -29,6 +29,12 @@ La bondad divina es también el fundamento de la ley moral: el bien es lo que la
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«Solo Dios es bueno» (Mc 10,18; CEC §214). Dios es la plenitud del ser y de toda perfección, sin principio ni fin. La creación es buena porque procede de la bondad divina: «Dios vio todo lo que había hecho y era muy bueno» (§326, cf. Gén 1,31). El pecado introdujo el mal en el mundo, pero Dios no es autor del mal (§385). Dios es la fuente de toda bondad y el fin último de todas las cosas.
+
+La bondad divina se manifiesta especialmente en la creación del hombre a imagen de Dios, que participa de la bondad divina de modo singular. El hombre es bueno en cuanto tiene ser, entendimiento, voluntad y libertad, todas las cuales son participaciones de las perfecciones divinas. La dignidad del hombre se funda en su participación de la bondad divina, y la vocación del hombre es alcanzar la plenitud de esa participación en la bienaventuranza eterna.
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la bondad de Dios en SmTh Iª q.6, como parte del tratado sobre los atributos divinos.
@@ -40,12 +46,6 @@ Santo Tomás trata la bondad de Dios en SmTh Iª q.6, como parte del tratado sob
 **q.6 a.3 — Solo Dios es bueno por esencia.** En las criaturas la bondad se añade a la esencia; en Dios, su esencia es su mismo ser, y ningún accidente le adviene. Solo Dios tiene por esencia todo tipo de perfección. Su bondad se identifica con su ser: es bueno de la misma manera que es.
 
 **q.6 a.4 — Todas las cosas son buenas por la bondad divina.** Todas las cosas son buenas por la bondad divina como por principio primero, ejemplar, efectivo y final de toda bondad; pero también cada cosa es buena por la bondad creada que formalmente posee, que es participación y semejanza de la bondad divina. Hay una sola bondad primera y muchas bondades participadas. La bondad divina es la causa de la bondad de todas las cosas, pero cada cosa tiene su propia bondad proporcional a su perfección.
-
-### Según el Catecismo (CEC)
-
-«Solo Dios es bueno» (Mc 10,18; CEC §214). Dios es la plenitud del ser y de toda perfección, sin principio ni fin. La creación es buena porque procede de la bondad divina: «Dios vio todo lo que había hecho y era muy bueno» (§326, cf. Gén 1,31). El pecado introdujo el mal en el mundo, pero Dios no es autor del mal (§385). Dios es la fuente de toda bondad y el fin último de todas las cosas.
-
-La bondad divina se manifiesta especialmente en la creación del hombre a imagen de Dios, que participa de la bondad divina de modo singular. El hombre es bueno en cuanto tiene ser, entendimiento, voluntad y libertad, todas las cuales son participaciones de las perfecciones divinas. La dignidad del hombre se funda en su participación de la bondad divina, y la vocación del hombre es alcanzar la plenitud de esa participación en la bienaventuranza eterna.
 
 ### Según Royo Marín (TPCr)
 

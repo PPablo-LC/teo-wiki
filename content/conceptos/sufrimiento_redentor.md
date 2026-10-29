@@ -21,6 +21,14 @@ El sufrimiento entra en la historia del hombre con el pecado original. Pero la p
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que «Jesucristo, Hijo de Dios, que en la cruz completó su revelación del amor de Dios, está presente en el sufrimiento de los hombres» (CEC §2633). San Pablo enseña que «completo en mi carne lo que falta a las tribulaciones de Cristo» (Col 1,24).
+
+### Según Royo Marín (TPCr)
+
+El sufrimiento aceptado por amor es uno de los medios principales de unión con Dios. La mortificación, la aceptación de los sufrimientos y la paciencia en las adversidades son formas de participar en la cruz de Cristo.
+
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II presenta el sufrimiento redentor como fruto de la Cruz de Cristo. «Al ofrecerse libremente a la pasión y a la muerte en la Cruz, el Hijo de Dios asumió todo el mal del pecado. El sufrimiento de Dios crucificado no es sólo una forma de dolor entre otros, un dolor más o menos grande, sino un sufrimiento incomparable. Cristo, padeciendo por todos nosotros, ha dado al sufrimiento un nuevo sentido, lo ha introducido en una nueva dimensión, en otro orden: en el orden del amor» [MI, cap. 26].
@@ -30,14 +38,6 @@ Juan Pablo II presenta el sufrimiento redentor como fruto de la Cruz de Cristo. 
 «Todo sufrimiento humano, todo dolor, toda enfermedad, encierra en sí una promesa de liberación, una promesa de la alegría: "Me alegro de sufrir por vosotros", escribe san Pablo» (Col 1,24) [MI, cap. 26]. «En el amor, que tiene su fuente en el Corazón de Jesús, está la esperanza del futuro del mundo. Cristo es el Redentor del mundo: "Nuestro castigo saludable vino sobre él, sus cicatrices nos curaron"» (Is 53,5) [MI, cap. 26].
 
 El atentado del 13 de mayo de 1981 fue una experiencia de sufrimiento que JPII conectó con la misericordia divina: «He notado la extraordinaria materna protección y solicitud, que se ha manifestado más fuerte que el proyectil mortífero» [MI, cap. 26].
-
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que «Jesucristo, Hijo de Dios, que en la cruz completó su revelación del amor de Dios, está presente en el sufrimiento de los hombres» (CEC §2633). San Pablo enseña que «completo en mi carne lo que falta a las tribulaciones de Cristo» (Col 1,24).
-
-### Según Royo Marín (TPCr)
-
-El sufrimiento aceptado por amor es uno de los medios principales de unión con Dios. La mortificación, la aceptación de los sufrimientos y la paciencia en las adversidades son formas de participar en la cruz de Cristo.
 
 ### Según la Vida de Jesús (VJ)
 

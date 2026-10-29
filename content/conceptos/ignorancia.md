@@ -28,6 +28,14 @@ La ignorancia afectada (querida para pecar más libremente) agrava el pecado; la
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La ignorancia invencible del pecado puede atenuar o incluso eximir de la imputabilidad de una falta grave (CEC §1860). La imputabilidad de una falta puede quedar disminuida por la ignorancia, la inadvertencia, la violencia, el miedo, los afectos desordenados y otros factores psíquicos o sociales (CEC §1859-1860).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El canon 1323 establece que no quedan sujetos a pena quienes obraron por ignorancia sin culpa. El canon 1325 señala que no se toma en cuenta la ignorancia crasa, supina o afectada.
+
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.76 — La ignorancia como causa del pecado:**
@@ -43,14 +51,6 @@ La ignorancia afectada (querida para pecar más libremente) agrava el pecado; la
 **IIIª q.15 a.3 — Cristo no tuvo ignorancia:**
 
 Cristo no tuvo ignorancia alguna porque poseyó la plenitud de [[ciencia_de_cristo]] (q.9-12). La ignorancia se opone a la ciencia; así como no hubo *fomes* del pecado en Cristo por plenitud de gracia y virtud, no hubo ignorancia por plenitud de ciencia. La naturaleza humana en sí misma es, según Damasceno, «ignorante y servil», pero en Cristo recibió plenitud de ciencia por la unión hipostática con la persona divina. Cristo no conoció el pecado por experiencia (no pecó), pero sí por conocimiento especulativo. Lc 2,52 («crecía en sabiduría») se refiere a la ciencia experimental, no a la ciencia infusa.
-
-### Según el Catecismo (CEC)
-
-La ignorancia invencible del pecado puede atenuar o incluso eximir de la imputabilidad de una falta grave (CEC §1860). La imputabilidad de una falta puede quedar disminuida por la ignorancia, la inadvertencia, la violencia, el miedo, los afectos desordenados y otros factores psíquicos o sociales (CEC §1859-1860).
-
-### Según el Código de Derecho Canónico (CIC)
-
-El canon 1323 establece que no quedan sujetos a pena quienes obraron por ignorancia sin culpa. El canon 1325 señala que no se toma en cuenta la ignorancia crasa, supina o afectada.
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 

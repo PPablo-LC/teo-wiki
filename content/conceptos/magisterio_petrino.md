@@ -5,7 +5,7 @@ description: "El magisterio propio del Romano Pontífice como sucesor de San Ped
 ---
 # Magisterio petrino
 
-> Area: Eclesiología
+> Área: Eclesiología
 > Ultima actualización: 2026-06-03
 
 ## Definición
@@ -14,7 +14,7 @@ El magisterio propio del Romano Pontífice como sucesor de San Pedro, cabeza del
 
 ## Desarrollo doctrinal
 
-El magisterio petrino se fundamenta en la promesa de Cristo a Pedro (Mt 16,18-19) y en la misión de confirmar en la fe a los hermanos (Lc 22,32). El Romano Pontífice posee la infalibilidad en las definiciones ex cathedra en materia de fe y costumbres, asi como una autoridad suprema, plena e inmediata sobre toda la Iglesia. El Concilio Vaticano I definió el primado petrino y la infalibilidad pontificia; el Vaticano II lo reafirmó en Lumen Gentium, integrando la colegialidad episcopal.
+El magisterio petrino se fundamenta en la promesa de Cristo a Pedro (Mt 16,18-19) y en la misión de confirmar en la fe a los hermanos (Lc 22,32). El Romano Pontífice posee la infalibilidad en las definiciones ex cathedra en materia de fe y costumbres, así como una autoridad suprema, plena e inmediata sobre toda la Iglesia. El Concilio Vaticano I definió el primado petrino y la infalibilidad pontificia; el Vaticano II lo reafirmó en Lumen Gentium, integrando la colegialidad episcopal.
 
 ## Perspectivas por fuente
 

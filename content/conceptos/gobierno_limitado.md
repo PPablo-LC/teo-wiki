@@ -27,7 +27,7 @@ El principio se articula con la [[subsidiariedad]]: lo que puede hacer una comun
 
 **Entrevista con el obispo [[robert_barron]] («What Is Democracy?»).** Barron sostiene que la democracia no se reduce al mayoritarismo: implica el reconocimiento de derechos humanos que no son dados por el gobierno sino por Dios («endowed by their Creator»). El gobierno limitado es clave precisamente porque «el poder supremo no pertenece a ninguna forma de gobierno humano»: por eso el gobierno puede y debe ser limitado, con controles y equilibrios tanto internos como externos —prensa libre, instituciones mediadoras—. El fundamento antropológico es doble: la capacidad de autogobierno se apoya en el respeto a la dignidad y libertad del individuo, y la limitación del poder responde al dato de que los seres humanos tienden a corromperse. Su «analogía de las aceras» —no se diseñan imponiendo un esquema abstracto, sino observando por dónde camina la gente— ilustra un instinto a la vez aristotélico y democrático.
 
-**Larry P. Arnn («Is There a Theology of America?»).** La Constitución describe un gobierno limitado con poderes enumerados. La Primera Enmienda protege «las cosas más cercanas al alma humana»: hablar, escribir, reunirse y rezar. El gobierno debe ser limitado para proteger esas cosas, y esto se sigue del carácter único del cristianismo: Jesús reclamó ser el Soberano absoluto, pero dijo «mi reino no es de este mundo» (Jn 18,36); los ciudadanos deben dar al César lo que es del César y a Dios lo que es de Dios. De ahí el lema de la Revolución: «la resistencia a los tiranos es obediencia a Dios».
+**Larry P. Arnn («Is There a Theology of América?»).** La Constitución describe un gobierno limitado con poderes enumerados. La Primera Enmienda protege «las cosas más cercanas al alma humana»: hablar, escribir, reunirse y rezar. El gobierno debe ser limitado para proteger esas cosas, y esto se sigue del carácter único del cristianismo: Jesús reclamó ser el Soberano absoluto, pero dijo «mi reino no es de este mundo» (Jn 18,36); los ciudadanos deben dar al César lo que es del César y a Dios lo que es de Dios. De ahí el lema de la Revolución: «la resistencia a los tiranos es obediencia a Dios».
 
 **Kody W. Cooper («On the Christian Origins of American Politics»).** Siguiendo a Tocqueville, la religión es «la compañera de la libertad en todas sus batallas y triunfos». La moralidad es la mejor seguridad de la ley y la garantía más segura de la libertad. La idea cristiana —radicalmente enraizada en la respuesta de Cristo a Pilato— establece que, donde el imperio de la gracia reina en los corazones, hay un freno a las pasiones humanas que funciona en tándem con un gobierno limitado: la existencia de la ley divina es un principio limitante sobre el gobierno humano.
 
@@ -54,6 +54,6 @@ El principio se articula con la [[subsidiariedad]]: lo que puede hacer una comun
 ## Referencias
 
 - EAC-21, *Spotlight: What Is Democracy? A Conversation with Bishop Robert Barron*
-- EAC-21, Larry P. Arnn, *Is There a Theology of America?*
+- EAC-21, Larry P. Arnn, *Is There a Theology of América?*
 - EAC-21, Kody W. Cooper, *On the Christian Origins of American Politics*
 - [Jn 18,36; Mt 22,21]

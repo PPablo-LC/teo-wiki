@@ -4,7 +4,7 @@ title: "98. El matrimonio sacramento, restauración del sacramento primordial"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 16
 timestamp: 2026-08-01
-description: "Catequesis 98: tras la ruptura del pecado, el matrimonio queda como figura y plataforma del sacramento de la redención, donde el desposorio de Cristo con la Iglesia renueva la alianza quebrantada — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 98: tras la ruptura del pecado, el matrimonio queda como figura y plataforma del sacramento de la redención, donde el desposorio de Cristo con la Iglesia renueva la alianza quebrantada — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

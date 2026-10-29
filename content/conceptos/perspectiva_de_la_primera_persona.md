@@ -14,7 +14,7 @@ timestamp: 2026-07-17
 
 ## Definición
 
-La perspectiva de la primera persona es el enfoque ético que se formula desde el sujeto que actúa y se pregunta por el bien global del hombre, la vida buena, correspondiente a la ética de la virtud y a la forma clásica de elaborar la ética.
+La perspectiva de la primera persona es el enfoque ético que se fórmula desde el sujeto que actúa y se pregunta por el bien global del hombre, la vida buena, correspondiente a la ética de la virtud y a la forma clásica de elaborar la ética.
 
 ## Desarrollo doctrinal
 
@@ -22,6 +22,12 @@ La ética clásica (aristotélica y tomista) adopta la perspectiva de la primera
 
 ## Perspectivas por fuente
 
+### Summa Theologiae (SmTh)
+
+Santo Tomás adopta esta perspectiva:
+
+- **I-II, q. 55-67**: Tratado de las virtudes, donde se pregunta por el bien del hombre.
+- **I-II, q. 18-21**: Análisis del acto humano como acto de la persona entera.
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la perspectiva de la primera persona como:
@@ -31,12 +37,6 @@ El autor presenta la perspectiva de la primera persona como:
 - Se opone a la perspectiva de la tercera persona (ética de las normas).
 - Es fundamental para la teología moral, que no puede reducirse a normas abstractas.
 
-### Summa Theologiae (SmTh)
-
-Santo Tomás adopta esta perspectiva:
-
-- **I-II, q. 55-67**: Tratado de las virtudes, donde se pregunta por el bien del hombre.
-- **I-II, q. 18-21**: Análisis del acto humano como acto de la persona entera.
 
 ## Distinciones importantes
 

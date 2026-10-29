@@ -74,7 +74,7 @@ el hombre no pueda aceptar el sinsentido como respuesta última.
 ## Ver también
 
 - [[attraverso_la_compagnia_dei_credenti]] — fuente de la expresión
-- [[luigi_giussani]] — quien la formula
+- [[luigi_giussani]] — quien la fórmula
 - [[giovanni_pascoli]] [[c_s_pavese]] — poetas que la contraponen o ilustran
 - [[hecho_cristiano]] [[destino]] [[verdad]] [[fe]] — conceptos relacionados
 

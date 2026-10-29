@@ -21,15 +21,15 @@ Estos elementos existen gracias a la acción del [[espíritu_santo]], que no est
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo recoge la enseñanza de UR §3 y LG §8: «En la Iglesia católica se han conservado íntegros todos los medios de salvación. 'Fuera de la Iglesia católica no se encuentra la plenitud de los medios de salvación' (UR 3). Es decir, la plenitud de los medios de salvación no se encuentra fuera de ella; pero hay muchos elementos de santificación y de verdad que existen fuera de sus confines visibles» (CEC §847). También recuerda que «las Iglesias orientales, aunque separadas de nosotros, poseen verdaderos sacramentos, sobre todo —por la sucesión apostólica— el sacerdocio y la Eucaristía, con los que se mantienen unidas a nosotros por vínculos estrechísimos» (CEC §1399).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Unitatis Redintegratio* §3 afirma que «de entre el conjunto de elementos o bienes con que la Iglesia se edifica y vive, algunos, o mejor, muchísimos y muy importantes pueden encontrarse fuera del recinto visible de la Iglesia católica: la Palabra de Dios escrita, la vida de la gracia, la fe, la esperanza y la caridad, y algunos dones interiores del Espíritu Santo y elementos visibles; todo esto, que proviene de Cristo y a El conduce, pertenece por derecho a la única Iglesia de Cristo». También señala que estas realidades «no están desprovistas de sentido y de valor en el misterio de la salvación, porque el Espíritu de Cristo no ha rehusado servirse de ellas como medios de salvación, cuya virtud deriva de la misma plenitud de la gracia y de la verdad que se confió a la Iglesia» (UR §3).
 
 *Lumen Gentium* §8 enseña que muchos elementos de santificación y de verdad «se encuentran fuera de sus límites visibles», lo cual no rompe la unidad, sino que «obliga a la Iglesia católica a reconocer con gozo y reverencia estos bienes espirituales como un don del Padre que enriquece a sus hijos».
 
-### Según el Catecismo (CEC)
-
-El Catecismo recoge la enseñanza de UR §3 y LG §8: «En la Iglesia católica se han conservado íntegros todos los medios de salvación. 'Fuera de la Iglesia católica no se encuentra la plenitud de los medios de salvación' (UR 3). Es decir, la plenitud de los medios de salvación no se encuentra fuera de ella; pero hay muchos elementos de santificación y de verdad que existen fuera de sus confines visibles» (CEC §847). También recuerda que «las Iglesias orientales, aunque separadas de nosotros, poseen verdaderos sacramentos, sobre todo —por la sucesión apostólica— el sacerdocio y la Eucaristía, con los que se mantienen unidas a nosotros por vínculos estrechísimos» (CEC §1399).
 
 ## Distinciones importantes
 

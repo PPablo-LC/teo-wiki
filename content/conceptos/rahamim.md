@@ -31,6 +31,9 @@ La expresión latina *viscera misericordiae* («entrañas de misericordia») tra
 
 ## Perspectivas por fuente
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[Contenido pendiente de incorporar]
 ### Según la Dives in Misericordia (DM)
 
 La encíclica dedica la nota 52 a explicar *rahamim* como el segundo término fundamental de la misericordia en el AT. Su raíz (*rehem* = regazo materno) «denota el amor de la madre». Este amor «es totalmente gratuito, no fruto de mérito, y que bajo este aspecto constituye una necesidad interior: es una exigencia del corazón» [DM, nota 52].
@@ -41,9 +44,6 @@ La nota 61 señala que Zacarías se refiere a las «entrañas misericordiosas de
 
 El Magníficat de María también resuena este contenido: María proclama la misericordia «de generación en generación» (Lc 1,50), y en su maternidad se cumple la promesa del amor materno de Dios que nunca olvida a sus hijos.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[Contenido pendiente de incorporar]
 
 ## Distinciones importantes
 

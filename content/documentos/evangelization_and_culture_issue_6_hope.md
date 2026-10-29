@@ -25,7 +25,7 @@ tags:
 
 ## Resumen temático
 
-Este sexto número de *Evangelization & Culture* está dedicado íntegramente a la **esperanza** como virtud teológica. La revista explora la esperanza desde múltiples ángulos: en la oscuridad de la violencia y el sufrimiento (Tod Worner con Seamus Heaney y Mr. Rogers), en la intercesión de los santos (Matthew Becklo con San Judas Tadeo), en la literatura (Paul Maher Jr. con Kerouac), en la música y el cine (Elizabeth Scalia con el Requiem de Mozart), en la evangelización y catequesis (Andrew Petiprin con Catholicism 101), en la vida cotidiana (Gary Saul Morson con Tolstoy), en la conversión (Tod Worner con Mark Galli), en la ciencia (Dr. Christopher Baglow con el Espíritu Santo y la evolución), en las artes visuales (Dr. William Havlicek con Van Gogh), en la filosofía de Newman (Jared Zimmerer con la intuición ilativa), en la familia (Haley Stewart con la iglesia doméstica), en el magisterio (Peter Seewald con Benedicto XVI y Spe Salvi), en la literatura y la poesía (Dr. Jessica Hooten Wilson con Dante), en la vocación (Rozann Lee y Peter Tate), en el peregrinaje (Fr. Piotr Roszak), y en la psicología pastoral (Sr. Josephine Garrett con la esperanza infantil).
+Este sexto número de *Evangelization & Culture* está dedicado íntegramente a la **esperanza** como virtud teológica. La revista explora la esperanza desde múltiples ángulos: en la oscuridad de la violencia y el sufrimiento (Tod Worner con Seamus Heaney y Mr. Rogers), en la intercesión de los santos (Matthew Becklo con San Judas Tadeo), en la literatura (Paul Maher Jr. con Kerouac), en la música y el cine (Elizabeth Scalia con el Réquiem de Mozart), en la evangelización y catequesis (Andrew Petiprin con Catholicism 101), en la vida cotidiana (Gary Saul Morson con Tolstoy), en la conversión (Tod Worner con Mark Galli), en la ciencia (Dr. Christopher Baglow con el Espíritu Santo y la evolución), en las artes visuales (Dr. William Havlicek con Van Gogh), en la filosofía de Newman (Jared Zimmerer con la intuición ilativa), en la familia (Haley Stewart con la iglesia doméstica), en el magisterio (Peter Seewald con Benedicto XVI y Spe Salvi), en la literatura y la poesía (Dr. Jessica Hooten Wilson con Dante), en la vocación (Rozann Lee y Peter Tate), en el peregrinaje (Fr. Piotr Roszak), y en la psicología pastoral (Sr. Josephine Garrett con la esperanza infantil).
 
 El número tiene como hilo conductor la definición de esperanza como **virtud vivida**: "aprehensión de las tinieblas con visión de la luz que las atraviesa y las vence" ( Havlicek). La esperanza no es optimismo superficial sino confianza profunda en la promesa de vida eterna, que se encarna en gestos cotidianos de amor, perdón y fidelidad.
 
@@ -33,10 +33,10 @@ El número tiene como hilo conductor la definición de esperanza como **virtud v
 
 | # | Sección | Autor | Tema principal |
 |---|---------|-------|----------------|
-| 1 | Midnight Oil | Tod Worner | La esperanza en la oscuridad: Seamus Heaney (Irlanda del Norte), Mr. Rogers (vecindad), Churchill (verdad incontrovertible), María (Magnificat), generalismo vs. especialismo |
+| 1 | Midnight Oil | Tod Worner | La esperanza en la oscuridad: Seamus Heaney (Irlanda del Norte), Mr. Rogers (vecindad), Churchill (verdad incontrovertible), María (Magníficat), generalismo vs. especialismo |
 | 2 | Lives: The Saint of the Hopeless | Matthew Becklo | San Judas Tadeo como patrono de causas desesperadas; testimonios de Danny Thomas, Aaron Neville, Brian Setzer |
 | 3 | Stacks: Kerouac's Visions of Gerard | Paul Maher Jr. | La novela póstuma de Kerouac sobre la muerte de su hermano Gerard; fe, sufrimiento y visión del cielo |
-| 4 | Film: Amadeus | Elizabeth Scalia | El Requiem de Mozart como meditación sobre misericordia y justicia; la cooperación con la creación; Salieri como anti-evangelista |
+| 4 | Film: Amadeus | Elizabeth Scalia | El Réquiem de Mozart como meditación sobre misericordia y justicia; la cooperación con la creación; Salieri como anti-evangelista |
 | 5 | Spotlight: Catholicism 101 | Andrew Petiprin | Serie catequética de Word on Fire; el "maybe" como semilla de fe; evangelización ad extra |
 | 6 | Minds: Tolstoy's Prosaic Wisdom | Gary Saul Morson | Los diminutos cambios de conciencia que llevan al perdón o al crimen; Karenin perdona a Anna por pasos imperceptibles |
 | 7 | Truth: The Faith of Mark Galli | Tod Worner | Entrevista con el ex editor de Christianity Today sobre su conversión al catolicismo; magisterio como libertad |
@@ -57,10 +57,10 @@ El número tiene como hilo conductor la definición de esperanza como **virtud v
 - **Esperanza como virtud teológica:** No es optimismo superficial sino confianza en la promesa de vida eterna; "la virtud del caminante" (Pieper) que mira más allá de la oscuridad presente.
 - **Esperanza sobrenatural vs. natural:** La esperanza natural apunta a bienes temporales que pasan; la sobrenatural, sostenida por la gracia, se dirige a la visión beatífica.
 - **Esperanza encarnada en gestos cotidianos:** La mano del protestante al católico (Heaney), la presencia de Mr. Rogers, el perdón de Karenin a Anna (Tolstoy), la "varita mágica" de los niños en terapia.
-- **María como modelo de esperanza:** Su fiat, su Magnificat, su presencia al pie de la Cruz como encarnación de la confianza en la verdad de Dios.
+- **María como modelo de esperanza:** Su fiat, su Magníficat, su presencia al pie de la Cruz como encarnación de la confianza en la verdad de Dios.
 - **Iglesia doméstica como fuente de esperanza:** La familia como "primera escuela de vida cristiana" (CEC 1657); símbolo desafiante de esperanza en una cultura de desesperanza.
 - **San Judas Tadeo — patrono de causas desesperadas:** El olvido como ironic santo; la intercesión como puente entre la desesperación y la esperanza.
-- **El Requiem como meditación sobre esperanza:** La Dies Irae como encounter entre misericordia y justicia; Mozart como instrumento de la voz de Dios.
+- **El Réquiem como meditación sobre esperanza:** La Dies Irae como encounter entre misericordia y justicia; Mozart como instrumento de la voz de Dios.
 - **Intuición ilativa (Newman) como herramienta evangelizadora:** Reconocer las rutas por las que Dios obra en el alma del otro; leer almas como el Espíritu Santo.
 - **Peregrinaje como sacramento:** El Camino de Santiago como experiencia soteriológica; "Cristo como diapasón" de la vida del peregrino.
 - **Esperanza y ciencia:** El Espíritu Santo en la evolución; la placenta como símbolo de gracia divina; fe y razón en armonía (JPII).

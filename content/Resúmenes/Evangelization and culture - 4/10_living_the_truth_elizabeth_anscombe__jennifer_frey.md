@@ -39,4 +39,4 @@ Un día leyó a Bertrand Russell: un argumento de hechos del mundo a Dios no pue
 
 ### Conclusión
 
-«Elizabeth Anscombe es un testimonio poderoso de lo que las mujeres tienen para ofrecer — tanto a la Iglesia como al mundo — cuando se las ve en su plena humanidad». Madre de siete hijos, todos católicos practicantes. Arrestada dos veces en clínicas abortistas en avanzada edad. Recibió la medalla papal *Pro Ecclesia et Pontifice* en 1999.
+«Elizabeth Anscombe es un testimonio poderoso de lo que las mujeres tienen para ofrecer — tanto a la Iglesia como al mundo — cuando se las ve en su plena humanidad». Madre de siete hijos, todos católicos practicantes. Arrestada dos veces en clínicas abortistas en avanzada edad. Recibió la medalla papal *Pro Ecclesia et Pontífice* en 1999.

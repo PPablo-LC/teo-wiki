@@ -4,7 +4,7 @@ title: "12. La investigación sobre la Historia deuteronomista"
 fuente: Introduccion_al_Antiguo_Testamento_capitulos
 capítulo: 19
 timestamp: 2026-10-19
-description: "De la tradición antigua a Martin Noth: la Historia deuteronomista como obra unitaria y las reacciones a su tesis."
+description: "De la tradición antigua a Martín Noth: la Historia deuteronomista como obra unitaria y las reacciones a su tesis."
 tags: ["resumen", "introduccion al antiguo testamento capitulos"]
 ---
 
@@ -30,7 +30,7 @@ De Wette, Graf, Wellhausen y la escuela histórica preparan el terreno.
 
 Los estudios literarios y la crítica de las fuentes.
 
-## 4. Martin Noth entra en escena
+## 4. Martín Noth entra en escena
 
 Propone leer Josué–Reyes como una obra única, con un autor único en el destierro (Dtr) que utilizó fuentes previas. Sicre expone la hipótesis y sus problemas.
 

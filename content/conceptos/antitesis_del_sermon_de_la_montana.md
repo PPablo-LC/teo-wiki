@@ -19,6 +19,9 @@ Jesús no abroga la Ley, sino que la lleva a su cumplimiento: «No he venido a a
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+El CEC enseña que el Sermón de la Montaña es el «compendio del Evangelio» (CEC 1716). Las antítesis son la «interpretación auténtica de los mandamientos» por parte de Jesús (CEC 2053-2055).
 ### Jesús de Nazaret I (Benedicto XVI — JdN_I)
 
 **Autoridad de Jesús:** El «Yo» de Jesús destaca de un modo que ningún maestro de la Ley se puede permitir. El pueblo «estaba espantado» de su forma de enseñar (Mt 7, 28): no enseñaba como los rabinos, sino con «autoridad» (*exousía*). No se trata de calidad retórica, sino de una reivindicación de estar al mismo nivel que Dios. «El espanto» es el miedo ante una persona que se atreve a hablar con la autoridad de Dios.
@@ -29,9 +32,6 @@ Jesús no abroga la Ley, sino que la lleva a su cumplimiento: «No he venido a a
 
 **Diálogo con Neusner:** Jacob Neusner muestra que la «añadidura» central es el Yo de Jesús: «¿Qué ha dejado fuera? Nada. ¿Qué ha añadido? A sí mismo» (p. 96). La perfección exigida por la Torá (cf. Lv 19, 2), consiste ahora en seguir a Jesús.
 
-### Catecismo de la Iglesia Católica (CEC)
-
-El CEC enseña que el Sermón de la Montaña es el «compendio del Evangelio» (CEC 1716). Las antítesis son la «interpretación auténtica de los mandamientos» por parte de Jesús (CEC 2053-2055).
 
 ## Relaciones doctrinales
 
@@ -50,4 +50,4 @@ El CEC enseña que el Sermón de la Montaña es el «compendio del Evangelio» (
 ## Referencias
 
 - Benedicto XVI, *Jesús de Nazaret I*, cap. 2 (JdN_I).
-- Jacob Neusner, *A Rabbi Talks with Jesus* (1993).
+- Jacob Neusner, *A Rabbi Talks with Jesús* (1993).

@@ -4,7 +4,7 @@ title: "4. Inocencia original y redención de Cristo"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 8
 timestamp: 2026-07-28
-description: "Catequesis 4: continuidad entre inocencia original y estado pecaminoso, Protoevangelio y redención del cuerpo (Rom 8,23) — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 4: continuidad entre inocencia original y estado pecaminoso, Protoevangelio y redención del cuerpo (Rom 8,23) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

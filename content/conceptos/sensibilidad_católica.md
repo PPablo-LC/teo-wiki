@@ -28,6 +28,14 @@ Esta noción está en el corazón del proyecto evangelizador de Bishop Robert Ba
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+El CEC no usa el término «sensibilidad católica» explícitamente, pero la noción subyace en varios textos:
+
+- **CEC 2502:** «El arte sagrado es verdadero y bello cuando su forma corresponde a su vocación particular: evocar y glorificar, en fe y adoración, el misterio trascendente de Dios.» Esta definición presupone una sensibilidad que integra forma y contenido, belleza y verdad.
+
+- **CEC 906:** Los fieles laicos pueden ser asociados a la labor apostólica de los pastores, lo que implica una sensibilidad laical que permea la cultura.
+
 ### Evangelization & Culture 7 (EcC7)
 
 **Matthew Nelson** define la sensibilidad católica como un «lente católico» formado por la oración y la apertura a Dios, «forjado por la oración y una apertura a Dios. Horneado por una exploración del intelecto divino y una experiencia de misticismo celestial. Arraigado en la intuición y el sentido común, y enraizado en la humildad y la obediencia. Encendido por la admiración y la alegría, y elevado por la sabiduría y lo inefable».
@@ -40,15 +48,7 @@ La sensibilidad católica de Bishop Barron se manifiesta en tres dimensiones:
 
 3. **Busca a los perdidos:** En un mundo cada vez más incierto y trágicamente desprovisto de esperanza, Christo sigue salvando. La oveja perdida será buscada, la moneda será encontrada, el hijo pródigo será recibido con lágrimas de alegría.
 
-**Robert Sokolowski** (filósofo, Catholic University of America) aporta la dimensión filosófica: la filosofía como «arte de distinguir», la fenomenología como «volver a las cosas mismas», y la teología de la revelación como «intento de extraer la estructura de manifestación propia de las realidades cristianas». Para Sokolowski, la sensibilidad católica se expresa en la distinción fundamental: «Dios más el mundo no es mayor que Dios solo» — la perfección divina no depende de la creación.
-
-### Catecismo de la Iglesia Católica (CEC)
-
-El CEC no usa el término «sensibilidad católica» explícitamente, pero la noción subyace en varios textos:
-
-- **CEC 2502:** «El arte sagrado es verdadero y bello cuando su forma corresponde a su vocación particular: evocar y glorificar, en fe y adoración, el misterio trascendente de Dios.» Esta definición presupone una sensibilidad que integra forma y contenido, belleza y verdad.
-
-- **CEC 906:** Los fieles laicos pueden ser asociados a la labor apostólica de los pastores, lo que implica una sensibilidad laical que permea la cultura.
+**Robert Sokolowski** (filósofo, Catholic University of América) aporta la dimensión filosófica: la filosofía como «arte de distinguir», la fenomenología como «volver a las cosas mismas», y la teología de la revelación como «intento de extraer la estructura de manifestación propia de las realidades cristianas». Para Sokolowski, la sensibilidad católica se expresa en la distinción fundamental: «Dios más el mundo no es mayor que Dios solo» — la perfección divina no depende de la creación.
 
 ### Otros documentos
 
@@ -83,6 +83,6 @@ El CEC no usa el término «sensibilidad católica» explícitamente, pero la no
 ## Referencias
 
 - Nelson, Matthew. "The Catholic Sensibility of Bishop Barron & The Pivotal Influence of Robert Sokolowski." *Evangelization & Culture*, No. 7, Spring 2021.
-- Sokolowski, Robert. *The God of Faith and Reason: Foundations of Christian Theology*. The Catholic University of America Press, 1995.
+- Sokolowski, Robert. *The God of Faith and Reason: Foundations of Christian Theology*. The Catholic University of América Press, 1995.
 - Barron, Robert E. *To Light a Fire on the Earth: Proclaiming the Gospel in a Secular Age*. Image Books, 2017.
 - O'Connor, Flannery. "The Fiction Writer & His Country." *Flannery O'Connor Collection*. Word on Fire Classics, 2019.

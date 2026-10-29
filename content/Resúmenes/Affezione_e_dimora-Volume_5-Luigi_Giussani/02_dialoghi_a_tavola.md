@@ -19,7 +19,7 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ### ¿Qué significa «Quasi Tischreden»?
 
-El título alude a las *Tischreden* (*discursos a la mesa*) de Martin Lutero, en las que éste explicitó su pensamiento junto a un grupo de discípulos. El «casi» (*quasi*) expresa un pudor ante el significado histórico del término original.
+El título alude a las *Tischreden* (*discursos a la mesa*) de Martín Lutero, en las que éste explicitó su pensamiento junto a un grupo de discípulos. El «casi» (*quasi*) expresa un pudor ante el significado histórico del término original.
 
 ### Naturaleza de los diálogos
 

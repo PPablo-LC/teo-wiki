@@ -57,7 +57,7 @@ La encíclica subraya que la prioridad de la persona sobre las cosas y la superi
 
 ### Según San Juan Pablo II (EA)
 
-El bien común es un horizonte constante en *Ecclesia in America*. Convertirse al Evangelio significa revisar «especialmente todo lo que pertenece al orden social y a la obtención del bien común» [EA §27]. Los fieles laicos han de actuar en la vida pública «orientándola al bien común» [EA §44].
+El bien común es un horizonte constante en *Ecclesia in América*. Convertirse al Evangelio significa revisar «especialmente todo lo que pertenece al orden social y a la obtención del bien común» [EA §27]. Los fieles laicos han de actuar en la vida pública «orientándola al bien común» [EA §44].
 
 A nivel internacional, se debe buscar «el bien común nacional e internacional, la distribución equitativa de los bienes y la promoción integral de los pueblos» [EA §52]. El orden económico debe regirse no solo por el criterio del lucro, sino también por «la búsqueda del bien común nacional e internacional» [EA §52]. La economía globalizada debe ser analizada «ante las exigencias del bien común internacional» [EA §55].
 

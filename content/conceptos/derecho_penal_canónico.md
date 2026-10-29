@@ -35,13 +35,13 @@ El c. 1341 concreta los fines de la pena canónica: el Ordinario debe promover u
 
 El principio de legalidad penal rige con la excepción del c. 1399: fuera de los casos establecidos, la infracción externa de una ley divina o canónica solo puede castigarse cuando lo requiera la especial gravedad de la infracción y urja la necesidad de prevenir o reparar escándalos.
 
+### Según el Comentario al CIC de EUNSA (Com-CIC-Eunsa)
+
+La expresión «derecho originario y propio» del c. 1311 afirma la potestad penal de la Iglesia como inherente a su naturaleza jurídica y distinta de la del Estado. La clasificación tripartita del c. 1312 (censuras, penas expiatorias, remedios penales y penitencias) recoge la tradición canónica anterior. Las censuras se denominan también «penas medicinales» porque su fin directo es la curación espiritual del delincuente.
 ### Según la Constitución Apostólica Pascite Gregem Dei (PGD)
 
 La Constitución Apostólica *Pascite Gregem Dei* (2021) reformó profundamente el Libro VI del CIC, describiendo la sanción canónica como «un medio positivo para la realización del Reino, para reconstruir la justicia en la comunidad de los fieles». La reforma introdujo nuevos tipos penales, redujo la discrecionalidad judicial en delitos graves, clarificó la prescripción y reforzó las garantías del derecho de defensa. PGD subraya que la caridad pastoral exige que los pastores recurran al sistema penal siempre que deban hacerlo.
 
-### Según el Comentario al CIC de EUNSA (Com-CIC-Eunsa)
-
-La expresión «derecho originario y propio» del c. 1311 afirma la potestad penal de la Iglesia como inherente a su naturaleza jurídica y distinta de la del Estado. La clasificación tripartita del c. 1312 (censuras, penas expiatorias, remedios penales y penitencias) recoge la tradición canónica anterior. Las censuras se denominan también «penas medicinales» porque su fin directo es la curación espiritual del delincuente.
 
 ## Distinciones importantes
 

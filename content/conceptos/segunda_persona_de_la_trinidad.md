@@ -32,6 +32,14 @@ La encarnación no añadió nada a la dignidad del Hijo: la Segunda Persona tom�
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«El Hijo de Dios es la Palabra eterna del Padre, que en Él todo fue hecho» (CEC §291). «El Hijo de Dios es consubstantial al Padre, generado por Él desde toda la eternidad» (CEC §242). El Catecismo insiste en que el Hijo es «Dios verdadero de Dios verdadero, engendrado, no hecho, consubstantial al Padre» (§242). La encarnación del Verbo es el acto supremo de amor del Padre al mundo: «Dios tanto amó al mundo que dio a su Hijo único» (Jn 3,16; CEC §219).
+
+### Según el Concilio Vaticano II
+
+El Concilio afirma que «la economía de la salvación, dispuesta por Dios, revela la vida íntima de Dios: el Padre engendra eternamente al Hijo como Verbo suyo; del Padre y del Hijo procede eternamente el Espíritu Santo en unidad» (DV §2). La revelación trinitaria es el fundamento de toda la economía de la salvación.
+
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.27 — Sobre el verbo divino:**
@@ -55,14 +63,6 @@ a.2 — El Verbo es la perfecta Imagen del Padre. La imagen implica semejanza en
 **Iª q.29 — Sobre las personas divinas en general:**
 
 a.2 — Las Personas divinas se distinguen por las relaciones de origen. El Padre es no engendrado; el Hijo es engendrado; el Espíritu Santo es procedente. La distinción es solo personal (SmTh Iª q.29 a.2).
-
-### Según el Catecismo (CEC)
-
-«El Hijo de Dios es la Palabra eterna del Padre, que en Él todo fue hecho» (CEC §291). «El Hijo de Dios es consubstantial al Padre, generado por Él desde toda la eternidad» (CEC §242). El Catecismo insiste en que el Hijo es «Dios verdadero de Dios verdadero, engendrado, no hecho, consubstantial al Padre» (§242). La encarnación del Verbo es el acto supremo de amor del Padre al mundo: «Dios tanto amó al mundo que dio a su Hijo único» (Jn 3,16; CEC §219).
-
-### Según el Concilio Vaticano II
-
-El Concilio afirma que «la economía de la salvación, dispuesta por Dios, revela la vida íntima de Dios: el Padre engendra eternamente al Hijo como Verbo suyo; del Padre y del Hijo procede eternamente el Espíritu Santo en unidad» (DV §2). La revelación trinitaria es el fundamento de toda la economía de la salvación.
 
 ### Según el Credo Niceno-Constantinopolitano
 

@@ -35,4 +35,4 @@ Susanka es un ensayista católico que cultiva la «crítica cultural» en la ór
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Joseph Susanka, 06_stacks.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Joseph Susanka, 06_stacks.md).

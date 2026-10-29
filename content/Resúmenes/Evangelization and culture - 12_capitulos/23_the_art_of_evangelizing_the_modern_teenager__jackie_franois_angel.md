@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "The Art of Evangelizing the Modern Teenager — Jackie François Angel"
+title: "The Art of Evangelizing the Modern Teenager — Jackie François Ángel"
 fuente: Evangelization and culture - 12_capitulos
 capítulo: 23
 timestamp: 2026-09-03
@@ -8,7 +8,7 @@ description: "Análisis de los desafíos de evangelizar a la Generación Z (naci
 tags: ["resumen", "evangelization_and_culture_12", "evangelización_adolescentes", "generación_z", "smartphones", "redes_sociales", "salud_mental_juvenil", "cyberbullying", "pornografía_infantil", "formación_humana", "ministerio_juvenil", "jackie_françois_angel"]
 ---
 
-# The Art of Evangelizing the Modern Teenager — Jackie François Angel
+# The Art of Evangelizing the Modern Teenager — Jackie François Ángel
 
 ## Conceptos básicos referenciados
 
@@ -26,7 +26,7 @@ tags: ["resumen", "evangelization_and_culture_12", "evangelización_adolescentes
 
 ## Contenido
 
-Jackie François Angel (ex Pope St. Paul VI Fellow for Marriage and Family Life, Word on Fire Institute, 4 hijos, Dallas) analiza **20 años de ministerio con teens** y cómo **smartphones y redes sociales** han transformado el paisaje cultural.
+Jackie François Ángel (ex Pope St. Paul VI Fellow for Marriage and Family Life, Word on Fire Institute, 4 hijos, Dallas) analiza **20 años de ministerio con teens** y cómo **smartphones y redes sociales** han transformado el paisaje cultural.
 
 **Contexto generacional (2003 vs hoy)**
 - 2003: primer celular (flip plateado), MySpace (75 followers = masivo), blogging Xanga/LiveJournal.

@@ -4,7 +4,7 @@ title: "84. El cuidado de «agradar al Señor»"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 129
 timestamp: 2026-08-01
-description: "Catequesis 84: el trasfondo amoroso y nupcial de «agradar al Señor» (1 Cor 7, 32), la división del casado, la unión sin distracciones, la santidad en cuerpo y espíritu y el «don» propio de cada estado — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 84: el trasfondo amoroso y nupcial de «agradar al Señor» (1 Cor 7, 32), la división del casado, la unión sin distracciones, la santidad en cuerpo y espíritu y el «don» propio de cada estado — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

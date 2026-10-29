@@ -27,7 +27,7 @@ San Bonifacio I (D-110) declara tajantemente que «no puede apelarse de nuestro 
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
-El Denzinger recoge la progresiva conciencia del magisterio romano sobre su infalibilidad. D-100 (Inocencio I) establece la Sede Apostólica como fuente incorrupta de doctrina. D-109 (Zósimo) afirma que la Sede Apostólica tiene tanta autoridad que nadie puede apelar de su juicio. D-110 (Bonifacio I) formula explícitamente la inapelabilidad de las decisiones romanas: «nunca fue lícito tratar nuevamente un asunto que haya sido una vez establecido por la Sede Apostólica».
+El Denzinger recoge la progresiva conciencia del magisterio romano sobre su infalibilidad. D-100 (Inocencio I) establece la Sede Apostólica como fuente incorrupta de doctrina. D-109 (Zósimo) afirma que la Sede Apostólica tiene tanta autoridad que nadie puede apelar de su juicio. D-110 (Bonifacio I) fórmula explícitamente la inapelabilidad de las decisiones romanas: «nunca fue lícito tratar nuevamente un asunto que haya sido una vez establecido por la Sede Apostólica».
 
 ### Giussani — Perché la Chiesa (PLDC)
 

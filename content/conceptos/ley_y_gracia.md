@@ -28,7 +28,7 @@ La Carta a los Hebreos presenta la Nueva Ley como cumplimiento y superación de 
 
 El PdB presenta Gálatas y Romanos como las cartas que desarrollan la doctrina de la salvación por la fe frente a las obras de la Ley: «todos, judíos o paganos, necesitamos de la redención de Cristo para alcanzar el perdón y la gracia de Dios. Hay que adherirse a esa salvación por la fe, que es un don gratuito de Dios, y no efecto de las obras de la Ley de Moisés. Por el bautismo, nos unimos a Jesús, nuevo Adán, muerto y resucitado, haciendo de nosotros hijos adoptivos del Padre». Sobre la Carta a los Hebreos, señala que su enseñanza es «que la Nueva Ley supone el cumplimiento y la superación de la Antigua Alianza».
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 Sicari describe la actitud bíblica ante la Ley como un **misto di amore e
 sospetto**: amor, porque la Ley expresa la Sabiduría de Dios, la Providencia

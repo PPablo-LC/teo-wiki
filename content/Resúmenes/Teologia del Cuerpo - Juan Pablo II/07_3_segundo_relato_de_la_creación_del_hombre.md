@@ -4,7 +4,7 @@ title: "3. Segundo relato de la creación del hombre"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 7
 timestamp: 2026-07-28
-description: "Catequesis 3: análisis del relato yahvista (Gn 2-3), subjetividad del hombre y las dos situaciones originarias — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 3: análisis del relato yahvista (Gn 2-3), subjetividad del hombre y las dos situaciones originarias — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

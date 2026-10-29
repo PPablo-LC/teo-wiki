@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Minds: The Conversion of St. Augustine — Dr. Thomas Clemmons"
+title: "Minds: The Conversión of St. Augustine — Dr. Thomas Clemmons"
 fuente: Evangelization and culture - 18_capitulos
 capítulo: 10
 timestamp: 2026-09-05
-description: "Resumen de 'Minds: The Conversion of St. Augustine — Dr. Thomas Clemmons' — Evangelization and culture - 18_capitulos"
+description: "Resumen de 'Minds: The Conversión of St. Augustine — Dr. Thomas Clemmons' — Evangelization and culture - 18_capitulos"
 tags: ["resumen", "evangelization and culture - 18 capitulos"]
 ---
 
-# Minds: The Conversion of St. Augustine — Dr. Thomas Clemmons
+# Minds: The Conversión of St. Augustine — Dr. Thomas Clemmons
 
 ## Conceptos básicos referenciados
 

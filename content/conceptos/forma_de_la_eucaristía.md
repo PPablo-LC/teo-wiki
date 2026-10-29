@@ -21,6 +21,10 @@ La forma de la eucaristía difiere de la de otros sacramentos en que se pronunci
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La Eucaristía se confecciona con las palabras de la consagración pronunciadas por el sacerdote «en la persona de Cristo» (CEC §1375). La Iglesia profesa que Jesús instituyó la Eucaristía diciendo las palabras de la consagración (CEC §1333, §1376). La forma del sacramento está constituida por las palabras de la institución (CEC §1353).
+
 ### Según la Summa Theologiae (SmTh)
 
 #### IIIª q.78 — La forma de este sacramento
@@ -36,10 +40,6 @@ La forma de la eucaristía difiere de la de otros sacramentos en que se pronunci
 **a.5 — Las formas son verdaderas:** El «esto» de la forma no es un mero pronombre sin fuerza efectiva —pues entonces las palabras no se aplicarían a la materia presente y no habría sacramento—, ni se refiere a lo significado por los sentidos —lo que daría solo una presencia en signo, que es herético—, ni al último instante de la locución —lo que reduciría la frase a «mi cuerpo es mi cuerpo»—. Es un demostrativo que muestra la sustancia presente bajo las especies, y la locución tiene **poder efectivo** de convertir, como la idea de la inteligencia práctica frente a la especulativa. (SmTh IIIa q.78 a.5)
 
 **a.6 — La forma del pan produce su efecto antes de la consagración del vino:** No se esperan mutuamente las dos formas. Como el verbo está en presente, la cosa significada debe ser simultánea con la significación misma; si se esperase, habría que decir «esto será mi cuerpo». La primera forma, por tanto, produce su efecto de inmediato. (SmTh IIIa q.78 a.6)
-
-### Según el Catecismo (CEC)
-
-La Eucaristía se confecciona con las palabras de la consagración pronunciadas por el sacerdote «en la persona de Cristo» (CEC §1375). La Iglesia profesa que Jesús instituyó la Eucaristía diciendo las palabras de la consagración (CEC §1333, §1376). La forma del sacramento está constituida por las palabras de la institución (CEC §1353).
 
 ### Según el Concilio de Trento
 

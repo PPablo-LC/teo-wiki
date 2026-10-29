@@ -1,7 +1,7 @@
 ---
 type: Documento
-title: "Evangelization & Culture, Issue 18 — Conversion (Winter 2023)"
-description: "Number 18 of the Word on Fire Institute journal, dedicated to conversion. Contains 24 files on metanoia, St. Mary Magdalene, Quo Vadis, The Mission, Chesterton's The Convert, stories of conversion, St. Augustine, Caravaggio, Tolkien, the OCIA/RCIA, St. Ignatius, science and faith, and the secular age."
+title: "Evangelization & Culture, Issue 18 — Conversión (Winter 2023)"
+description: "Number 18 of the Word on Fire Institute journal, dedicated to conversión. Contains 24 files on metanoia, St. Mary Magdalene, Quo Vadis, The Mission, Chesterton's The Convert, stories of conversión, St. Augustine, Caravaggio, Tolkien, the OCIA/RCIA, St. Ignatius, science and faith, and the secular age."
 tags:
   - evangelizacion_cultura
   - conversion
@@ -21,7 +21,7 @@ timestamp: "2026-09-05"
 
 ## Definición
 
-**Evangelization & Culture, Issue 18 — Conversion** es el decimoctavo número de la revista del Word on Fire Institute, publicado en invierno de 2023. Está dedicado íntegramente a la **conversión**: su naturaleza (proceso y evento), su necesidad permanente, su psicología, su historia y su lugar central en la evangelización. Reúne 24 archivos de diversos autores —obispos, teólogos, filósofos, poetas, científicos, diáconos y conversos— que abordan la *metanoia* evangélica, los grandes conversos de la historia (María Magdalena, San Agustín, San Ignacio, Chesterton), la literatura y el cine de conversión (*Quo Vadis*, *The Mission*), el arte de Caravaggio, el catecumenado y la OCIA, el testimonio en la era secular y la conversión de la imaginación.
+**Evangelization & Culture, Issue 18 — Conversión** es el decimoctavo número de la revista del Word on Fire Institute, publicado en invierno de 2023. Está dedicado íntegramente a la **conversión**: su naturaleza (proceso y evento), su necesidad permanente, su psicología, su historia y su lugar central en la evangelización. Reúne 24 archivos de diversos autores —obispos, teólogos, filósofos, poetas, científicos, diáconos y conversos— que abordan la *metanoia* evangélica, los grandes conversos de la historia (María Magdalena, San Agustín, San Ignacio, Chesterton), la literatura y el cine de conversión (*Quo Vadis*, *The Mission*), el arte de Caravaggio, el catecumenado y la OCIA, el testimonio en la era secular y la conversión de la imaginación.
 
 ## Desarrollo doctrinal
 
@@ -121,7 +121,7 @@ Los resúmenes estructurados del número están en `wiki/Resúmenes/Evangelizati
 
 ## Referencias
 
-- **Fuente primaria**: *Evangelization & Culture: The Journal of the Word on Fire Institute*, Issue No. 18 | Conversion (Winter 2023). Word on Fire Institute.
+- **Fuente primaria**: *Evangelization & Culture: The Journal of the Word on Fire Institute*, Issue No. 18 | Conversión (Winter 2023). Word on Fire Institute.
 - **Código**: EAC-18
 - **Archivos raw**: 24 archivos en `raw/Bases_doctrinales-raw/Evangelization and culture - 18_capitulos/`
 - **Índice de conceptos**: `raw/Bases_doctrinales-raw/Evangelization and culture - 18_capitulos/índice.md`

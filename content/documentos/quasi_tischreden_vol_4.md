@@ -145,7 +145,7 @@ verbo espiritual sin término.
 
 **7. La sed y el paraíso** (Tischreden 196, 26-IX-1996). El hombre es
 [[pregunta_del_destino|domanda]] y *mendicanza*; la [[eternidad]] no es un
-estado sino **novedad** continua, y «l'avvenimento è la categoria
+estado sino **novedad** continua, y «l'avvenimento è la categoría
 fondamentale dell'eterno». La máxima satisfacción es *mientras* se bebe de
 la fuente: el paraíso como saciedad de la propia sed. Educar es educar a la
 **conciencia de ser deseo**; la genialidad humana es siempre
@@ -161,7 +161,7 @@ se hace experiencia; **Cristo da el nombre del Misterio**
 el rapporto, el rapporto no se mantiene. El Misterio se dice **[[tú]]**; la
 [[felicidad]] no es *ser* Dios sino *beber* de Dios.
 
-### PARTE IV — La dinamica della conoscenza (09-11)
+### PARTE IV — La dinámica della conoscenza (09-11)
 
 **9. La inteligencia-ventosa** (Tischreden 139, 6-X-1994). No se puede
 separar la *ratio* del *affectus*; es la [[libertad]] la que puede arrancar
@@ -191,7 +191,7 @@ primera forma de reconocer su existencia es la [[oración]]. La
 del [[sentido_religioso]] como esencia del hombre que espera la felicidad;
 si hay promesa, hay **Presencia**.
 
-### PARTE V — La dinamica della libertà (12-14)
+### PARTE V — La dinámica della libertà (12-14)
 
 **12. Libertad: deseo y satisfacción** (Tischreden 71, 23-XII-1992; lección
 sobre la libertad, con dos figuras). La [[libertad]] es un fenómeno *dentro*
@@ -223,7 +223,7 @@ libertad es la **lama** que separa verdad/mentira, bien/mal, ser/nada. La
 ([[ratzinger]]/[[benedicto_xvi]]); el culmen del [[sacrificio]] es aceptar
 la **[[distancia]]**.
 
-### PARTE VI — La dinamica del segno (15-17)
+### PARTE VI — La dinámica del segno (15-17)
 
 **15. El punto de fuga** (Tischreden 46, 6-V-1992). Cuanto aparece no es
 todo: su consistencia está más allá de la **[[apariencia]]**. El
@@ -308,7 +308,7 @@ Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Giussani_Luig
 
 - **Fuente primaria**: Luigi Giussani, *L'autocoscienza del cosmo — Quasi
   Tischreden. Dialoghi a tavola*, vol. 4. Edizioni San Paolo, Cinisello
-  Balsamo (Mi), 2000.
+  Bálsamo (Mi), 2000.
 - **Código**: QT4
 - **Archivos raw**: 19 archivos en
   `raw/Bases_doctrinales-raw/Giussani_Luigi_-_2000_-_Lautocoscienza_del_cosmo_-_Quasi_Tischreden_-_Volume_4_capitulos/`;
@@ -317,8 +317,8 @@ Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Giussani_Luig
   `raw/.../Quasi_Tischreden_-_Volume_4_capitulos/índice.md`
 - **Estructura**: Preliminares (00); Parte I «Il punto di vista» (01);
   Parte II «Il primato della realtà» (02-05); Parte III «L'uomo, struttura
-  di domanda» (06-08); Parte IV «La dinamica della conoscenza» (09-11);
-  Parte V «La dinamica della libertà» (12-14); Parte VI «La dinamica del
+  di domanda» (06-08); Parte IV «La dinámica della conoscenza» (09-11);
+  Parte V «La dinámica della libertà» (12-14); Parte VI «La dinámica del
   segno» (15-17); Legenda (18).
 - **Tischreden**: 92 (17-VI-1993), 188 (14-III-1996), 189 (21-III-1996),
   190 (28-III-1996), 119 (3-II-1994), 191 (18-IV-1996), 196 (26-IX-1996),
@@ -338,16 +338,16 @@ Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Giussani_Luig
 - **Autores y obras citados**: Agustín (*Soliloquia*; *Enarrationes in
   Psalmos*; *De vera religione*); Tomás de Aquino (*Summa Theologiae* II-II
   q.179 a.1; *In Sent.*); Ireneo (*Adversus haereses* IV,20,7); J.H. Newman
-  (*Apologia pro vita sua*); K. Rahner; F. König; R. Guardini (*L'essenza
+  (*Apología pro vita sua*); K. Rahner; F. König; R. Guardini (*L'essenza
   del Cristianesimo*); P. Rousselot (*Gli occhi della fede*); V. Solov'ëv
   (*I tre dialoghi e il racconto dell'Anticristo*); H. Schlier (*Linee
-  fondamentali di una teologia paolina*); A.J. Möhler; J. Ratzinger;
+  fondamentali di una teología paolina*); A.J. Möhler; J. Ratzinger;
   M. Bulgakov (*Il Maestro e Margherita*); C.S. Lewis (*Le lettere di
   Berlicche*); G. Leopardi (*Cara beltà*: «Aspasia», «Alla sua donna»,
   «L'infinito»); G. Pascoli (*Il cieco*, *La grande aspirazione*); E. Montale;
   C. Pavese (*Il mestiere di vivere*, *Lettere 1924-1944*); A. Manzoni;
   N. Sapegno; J. Dewey (*La ricerca della certezza*); E. Severino;
-  T.W. Adorno (*Minima Moralia*); U. Eco (*Il nome della rosa*); A. Malraux;
+  T.W. Adorno (*Mínima Moralia*); U. Eco (*Il nome della rosa*); A. Malraux;
   H. Purcell; Ch. Marlowe; F. Severi (*Dalla scienza alla fede*);
   V. Fornari (*Della vita di Gesù Cristo*); B. Croce (*Aesthetica in nuce*);
   W. Nigg (*Grandi santi*); A. Carrel (*Viaggio a Lourdes*); C. Martindale

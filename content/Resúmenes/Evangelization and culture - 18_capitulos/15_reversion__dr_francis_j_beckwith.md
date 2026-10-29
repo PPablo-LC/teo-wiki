@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Reversion — Dr. Francis J. Beckwith"
+title: "Reversión — Dr. Francis J. Beckwith"
 fuente: Evangelization and culture - 18_capitulos
 capítulo: 15
 timestamp: 2026-09-05
-description: "Resumen de 'Reversion — Dr. Francis J. Beckwith' — Evangelization and culture - 18_capitulos"
+description: "Resumen de 'Reversión — Dr. Francis J. Beckwith' — Evangelization and culture - 18_capitulos"
 tags: ["resumen", "evangelization and culture - 18 capitulos"]
 ---
 
-# Reversion — Dr. Francis J. Beckwith
+# Reversión — Dr. Francis J. Beckwith
 
 ## Conceptos básicos referenciados
 
@@ -41,7 +41,7 @@ Los conversos que retornan (reverts) a la Iglesia Católica son una raza peculia
 
 ### La salida hacia el evangelicalismo: Maranatha House
 
-El autor salió de la Iglesia por una razón identificable. A finales de 1973, alrededor de su decimotercer cumpleaños, se sintió atraído al mundo del protestantismo evangélico a través de una iglesia de los *Jesus People* en Las Vegas: Maranatha House, una comunidad no confesional fundada por ex-hippies salidos de la contracultura para seguir a Jesús. Sus servicios consistían casi por entero en música de alabanza contemporánea, oración de petición y contemplativa, y sermones que enfatizaban la exposición de la Escritura y su aplicación práctica. Se sintió profundamente conmovido, pero gravitó hacia la biblioteca de cintas y libros, donde halló autores que daban respuesta a las cuestiones que atormentaban su mente joven: la razonabilidad de la doctrina cristiana, la autoridad y fiabilidad de la Escritura, la historicidad de la Resurrección de Cristo y cómo seguir a Jesús. Buscaba respuestas, pero también descanso y consuelo.
+El autor salió de la Iglesia por una razón identificable. A finales de 1973, alrededor de su decimotercer cumpleaños, se sintió atraído al mundo del protestantismo evangélico a través de una iglesia de los *Jesús People* en Las Vegas: Maranatha House, una comunidad no confesional fundada por ex-hippies salidos de la contracultura para seguir a Jesús. Sus servicios consistían casi por entero en música de alabanza contemporánea, oración de petición y contemplativa, y sermones que enfatizaban la exposición de la Escritura y su aplicación práctica. Se sintió profundamente conmovido, pero gravitó hacia la biblioteca de cintas y libros, donde halló autores que daban respuesta a las cuestiones que atormentaban su mente joven: la razonabilidad de la doctrina cristiana, la autoridad y fiabilidad de la Escritura, la historicidad de la Resurrección de Cristo y cómo seguir a Jesús. Buscaba respuestas, pero también descanso y consuelo.
 
 ### La ecclesia domestica y una catequesis deficiente
 
@@ -51,9 +51,9 @@ Mirando atrás, se convenció de que fue el ejemplo de sus padres como católico
 
 ### Las semillas de Fordham
 
-Ya en la universidad se volvió un estudiante serio y cambió su especialidad a filosofía. Tras graduarse en la UNLV, cursó una maestría en apologética cristiana en Simon Greenleaf University, donde estudió con el gran apologista luterano y abogado John Warwick Montgomery, a quien acredita haberle introducido a la riqueza de la historia de la Iglesia, «que, irónicamente, sería instrumental en mi retorno al catolicismo en 2007». En aquellos días descubrió los escritos de Santo Tomás de Aquino casi por completo a través de Norman L. Geisler, tomista evangélico, desarrollando un enfoque tomista de las cuestiones teológicas.
+Ya en la universidad se volvió un estudiante serio y cambió su especialidad a filosofía. Tras graduarse en la UNLV, cursó una maestría en apologética cristiana en Simón Greenleaf University, donde estudió con el gran apologista luterano y abogado John Warwick Montgomery, a quien acredita haberle introducido a la riqueza de la historia de la Iglesia, «que, irónicamente, sería instrumental en mi retorno al catolicismo en 2007». En aquellos días descubrió los escritos de Santo Tomás de Aquino casi por completo a través de Norman L. Geisler, tomista evangélico, desarrollando un enfoque tomista de las cuestiones teológicas.
 
-Ingresó luego al programa de doctorado en filosofía de Fordham, mudándose al apartamento de Brooklyn de su abuela italiana, Frances Guido, comulgante diaria y católica muy seria, disgustada por su falta de práctica pero acogedora. Años después supo que ella había expresado sus preocupaciones a uno de sus profesores, Dominic Balestra, quien escribió en 2009: «Le dije que te encontraba un verdadero cristiano y que, con el tiempo, la gracia te traerá de regreso a nuestra Iglesia». Pasarían casi dos décadas para que las semillas plantadas en Fordham florecieran. Allí profundizó en el pensamiento católico — sobre todo Aquino (con W. Norris Clarke, SJ) y San Agustín (con Gerald McCool, SJ) — y comenzó a desarrollar lentamente una constitución católica, pero se mantuvo evangélico con tendencias tomistas, «cogiendo cerezas» de las tradiciones de la Iglesia. Su fe, confiesa, se había vuelto más un ejercicio intelectual que espiritual.
+Ingresó luego al programa de doctorado en filosofía de Fordham, mudándose al apartamento de Brooklyn de su abuela italiana, Francés Guido, comulgante diaria y católica muy seria, disgustada por su falta de práctica pero acogedora. Años después supo que ella había expresado sus preocupaciones a uno de sus profesores, Dominic Balestra, quien escribió en 2009: «Le dije que te encontraba un verdadero cristiano y que, con el tiempo, la gracia te traerá de regreso a nuestra Iglesia». Pasarían casi dos décadas para que las semillas plantadas en Fordham florecieran. Allí profundizó en el pensamiento católico — sobre todo Aquino (con W. Norris Clarke, SJ) y San Agustín (con Gerald McCool, SJ) — y comenzó a desarrollar lentamente una constitución católica, pero se mantuvo evangélico con tendencias tomistas, «cogiendo cerezas» de las tradiciones de la Iglesia. Su fe, confiesa, se había vuelto más un ejercicio intelectual que espiritual.
 
 ### Las cuatro cuestiones y Carl Trueman
 

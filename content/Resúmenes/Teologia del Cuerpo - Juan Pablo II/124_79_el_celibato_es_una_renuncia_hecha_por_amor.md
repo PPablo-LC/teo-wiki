@@ -4,7 +4,7 @@ title: "79. El celibato es una renuncia hecha por amor"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 124
 timestamp: 2026-08-01
-description: "Catequesis 79: el sentido objetivo de la continencia «por el reino de los cielos», la renuncia que implica, la respuesta de Cristo frente a la actitud utilitarista y la continencia como acto de amor esponsalicio al Esposo — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 79: el sentido objetivo de la continencia «por el reino de los cielos», la renuncia que implica, la respuesta de Cristo frente a la actitud utilitarista y la continencia como acto de amor esponsalicio al Esposo — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 
@@ -65,7 +65,7 @@ El «reino de los cielos» es el cumplimiento definitivo de las aspiraciones de 
 
 ### El amor velado tras la renuncia
 
-Las palabras de Cristo —concisa, llenas de contenido esencial y caracterizadas por cierta severidad— pronuncian la llamada a la continencia en la perspectiva del «otro mundo», pero ponen el acento sobre el **realismo temporal de la decisión**, vinculada con la voluntad de participar en la obra redentora de Cristo. Emergen la profundidad y la seriedad de la decisión de vivir la continencia «por el reino», y encuentra expresión el momento de la renuncia que implica. A través de todo esto se transparenta el amor: el amor como disponibilidad del **don exclusivo de sí** por el «reino de Dios». Cristo no oculta que esta elección es, en categorías de temporalidad, una renuncia; este modo de hablar, que formula claramente la verdad de su enseñanza, confiere al Evangelio su marca y su fuerza convincentes.
+Las palabras de Cristo —concisa, llenas de contenido esencial y caracterizadas por cierta severidad— pronuncian la llamada a la continencia en la perspectiva del «otro mundo», pero ponen el acento sobre el **realismo temporal de la decisión**, vinculada con la voluntad de participar en la obra redentora de Cristo. Emergen la profundidad y la seriedad de la decisión de vivir la continencia «por el reino», y encuentra expresión el momento de la renuncia que implica. A través de todo esto se transparenta el amor: el amor como disponibilidad del **don exclusivo de sí** por el «reino de Dios». Cristo no oculta que esta elección es, en categorías de temporalidad, una renuncia; este modo de hablar, que fórmula claramente la verdad de su enseñanza, confiere al Evangelio su marca y su fuerza convincentes.
 
 ### La continencia como acto de amor esponsalicio
 

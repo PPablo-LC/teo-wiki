@@ -16,7 +16,7 @@ tags: ["resumen", "fe", "memoria", "caridad", "misericordia", "conversion", "giu
 - [[conversión]] — no un cambio de opinión sino un «stare attenti a», un volverse para mirar a Quien llama por nombre.
 - [[misericordia]] — la «prevarrà sempre il valore che io ti ho dato», el perdón que permanece por encima del mal.
 - [[caridad]] — lo que convierte la memoria en norma, y la norma en «azione vivente».
-- [[presencia_de_cristo]] — «Cristo, il redentore della mia vita… ha guardato in faccia l'uomo come presenza di uomo, da uomo lo ha abbracciato».
+- [[presencia_de_cristo]] — «Cristo, il redentore della mía vita… ha guardato in faccia l'uomo come presenza di uomo, da uomo lo ha abbracciato».
 - [[pecado]] — «il peccato è lo scordare Cristo», y la «fragilità, una fragilità senza sponde».
 - [[gracia]] — un «potere che è diventato vicino… dentro di noi»; la moralità no es capacidad nuestra sino la posibilidad de Cristo.
 - [[libertad]] — «intoccabile, impalpabile, e terribile»: el poder de elegir la muerte en lugar de la vida, y a la vez el don más grande.
@@ -34,7 +34,7 @@ Marco de laémonada: Esercizi spirituali de la Fraternità di [[comunione_e_libe
 temática con el «Volantone», que marcaba el paso de la experiencia del movimiento. Ese año los textos
 propuestos fueron una página del Evangelio de Mateo —del Hijo del hombre que vino «per servire e
 dare la propria vita in riscatto per molti» (Mt 20,28)— y un largo texto de Václav Bělohradský, que
-advertía de un peligro: «L'irriducibilità della coscienza alle istituzioni è minacciata nell'epoca dei
+advertía de un peligro: «L'irriducibilità della coscienza alle istituzioni è minacciata nell'época dei
 mezzi di comunicazione di massa, degli Stati totalitari e della generale computerizzazione della
 società». El ambiente era de fondo: corrupción política, primeras señales de crisis económica, nuevos
 moralismos en la opinión pública y también en la Iglesia, yhewschieramientos políticos con «crepe
@@ -59,13 +59,13 @@ l'adesione, il sacrificio». La Cuaresma es «il cammino verso la Pasqua, verso 
 gioia», y esa explosión exige una pureza que sólo se alcanza en el sacrificio: «Non è l'esito di un
 rimorso, per noi, il sacrificio, ma è la condizione di una libertà, di una intensità e di una
 pienezza». De Claudel: «solo i cristiani sono gli uomini che posseggono la gioia, coloro ai quali la
-loro credenza non arreca mai, ultimamente, delusione», porque «la prova della verità è la vita e la
+loro credenza non arreca mai, últimamente, delusione», porque «la prova della verità è la vita e la
 prova della vita è che fa vivere».
 
 La primera impresión de Giussani como seminarista, entrando en el gran seminario de Venegono, fue el
-*Ad Deum qui laetificat juventutem meam*, «Al Dio che allieta la mia giovinezza», pronunciado por
+*Ad Deum qui laetificat juventutem meam*, «Al Dio che allieta la mía giovinezza», pronunciado por
 p. Motta, «coi pochi capelli bianchi, aveva pronunciato queste parole con una vigoria che, dopo
-quarant'anni… me lo fa ricordare ancora». Que la reunión «diventi come un simbolo» y la vida que se
+quarant'anni… me lo fa ricordare ancora». Que la reunión «diventi come un símbolo» y la vida que se
 desarrollará en casa «diventi come un premio alla fede e alla fedeltà: la gioia, che sta, insieme al
 dolore, come l'argomento della pace». Y de Claudel: «La pace, chi la conosce, sa che in parti uguali
 di dolore e di gioia è fatta». Cristo, «andando via dalla visibilità immediata, carnale dell'uomo, ha
@@ -78,7 +78,7 @@ Ezechiele: «Forse che io ho piacere della morte del malvagio – dice il Signor
 che desista dalla sua condotta e viva?» (Ez 18,23). «È la prima e più grande cosa! È ciò che di più
 grande voi padri e voi madri avete verso i vostri figli». Porque el Señor «ci ha fatti per la gioia» y,
 «pochi momenti prima d'essere braccato, imprigionato e quindi ucciso, disse: “Tutto quanto io vi ho
-detto, ve l'ho detto affinché la mia gioia sia in voi e la vostra gioia sia piena”» (Gv 15,11).
+detto, ve l'ho detto affinché la mía gioia sia in voi e la vostra gioia sia piena”» (Gv 15,11).
 
 La justice semble une sombra sobre esta luz: «La giustizia sembra un'ombra sopra questa luce di gioia.
 Ma la giustizia non può essere un'ombra: Dio, che è la gioia, è la giustizia. Dunque debbono avere,
@@ -146,7 +146,7 @@ suo confronto e anche se si dimenticasse tutto il resto, quella non la si diment
 
 «Questa parola… non oscuri stamattina la grande "parola" che, sola, può dare speranza all'uomo:
 Cristo, Gesù di Nazareth». Y la página que más lo había golpeado era la de Zaqueo: «E quella è
-quella pagina che mi ha così colpito. Perché è il mio nome che in quel nome è rappresentato come
+quella página che mi ha così colpito. Perché è il mio nome che in quel nome è rappresentato come
 partner di Dio, come persona a cui Cristo si rivolge, è il tuo nome». Quello que el hombre «molto
 noto nella sua città», «di cui tutti rifuggivano come un truffatore», corrió «avanti alla folla»,
 «salì, si appollaiò su una pianta di sicomoro», y Cristo «si fermò e guarda lui, lo chiama per nome:
@@ -169,7 +169,7 @@ religioso*, è una promessa».
 También está la «presenza del maligno», que «rende il nostro cuore capace di volere il male altrui»:
 «Voi siete figli del vostro padre… e il padre vostro è il diavolo: egli è il padre della menzogna»
 (Gv 8,43-44). Y el «bambino, [la vita] sussultò nel grembo suo» (Lc 1,39-45): «Nella stanchezza,
-nella amarezza, nella vecchiezza della nostra vita senza slancio… appena diciamo “Ave Maria”, appena
+nella amarezza, nella vecchiezza della nostra vita senza slancio… appena diciamo “Ave María”, appena
 diciamo “Gesù”, appena diciamo “Cristo”, sussulta nel nostro grembo il bimbo della vita, quello per
 cui ci è dato il tempo». Por eso «tutte le ore, se noi Lo ricordiamo; tutti i momenti», y «qui tra
 voi… ci sono persone… per le quali questo ricordo è già diventato abituale».
@@ -215,17 +215,17 @@ radical: «Così la moralità della vita non è capacità nostra. Il nostro cuor
 che Gesù l'ha detto una volta: “Tutti voi siete cattivi” (Mt 12,34; Lc 11,13)». Quien usa esa palabra
 para juzgar a otros es «un pover uom» (Carducci): «La moralità non è capacità nostra, ma è la
 possibilità di Cristo in noi… come diceva san Paolo: “Di tutto sono capace insieme a Colui che è la
-mia forza!”» (Fil 4,13).
+mía forza!”» (Fil 4,13).
 
 «Tutta la nostra vita… poggia su un potere che è diventato vicino, non è più lontano, è tanto vicino
 da essere dentro di noi». La moralidad, entonces, «non può operare come sforzo immaginativo, come
 sforzo del sentimento, ma come riconoscimento di Qualcuno che c'è, vicino a noi, in noi», y «Facendo
 crescere la memoria ci si cala nel lavoro di un soggetto nuovo»: «Qualunque cosa facciate, in parole
 e in atti, tutto fate nel nome di Gesù» (Col 3,17). «Cristo è l'immagine dell'uomo, Cristo è l'uomo,
-e perciò la mia e la tua fisionomia si compiono nella misura in cui la Sua si compie in noi».
+e perciò la mía e la tua fisionomía si compiono nella misura in cui la Sua si compie in noi».
 
 La síntesis paulina es definitive: «Io ho abbandonato tutto al fine di guadagnare Cristo e di essere
-trovato in lui, non con una mia giustizia derivante da una mia moralità [la legge], ma con quella che
+trovato in lui, non con una mía giustizia derivante da una mía moralità [la legge], ma con quella che
 deriva dalla fede in Cristo» (Fil 3,8-21), y «offrire i vostri corpi come sacrificio vivente, santo e
 gradito a Dio» (Rm 12,1-2) describe exactamente lo que «quello che vivo» es de Dios. Es la historia
 de Abrahán: «ebbe fede sperando contro ogni speranza» (Rm 4,18).
@@ -308,7 +308,7 @@ perfezione finale». De Claudel: «È ora! Per il compito assegnatomi può basta
 E so di essere responsabile e credo nel mio maestro, come egli crede in me».
 
 Y la misma lógica explica el matrimonio y la virginidad: «È allora che gli apostoli hanno presentito,
-intuito confusamente, l'identica ragrazione per l'indissolubilità del matrimonio e per la
+intuito confusamente, l'idéntica ragrazione per l'indissolubilità del matrimonio e per la
 verginità, essendo dettate da un'unica norma: la funzione per il tutto, il servizio al regno di Dio».
 
 ### III
@@ -320,7 +320,7 @@ volendo perdere di vista nessuno di loro».
 
 La impaciencia está en querer el cumplimiento para poder adherirse: «A noi manca questa pienezza di
 convinzione, che cioè Dio è capace di portare a compimento ciò che ha promesso… È come se noi,
-al contrario di Abramo, volessimo tutto subito, secondo una logica che non è quella della fede». Es la
+al contrario di Abramo, volessimo tutto subito, secondo una lógica che non è quella della fede». Es la
 frattura del *«tu ora non lo capisci, ma lo capirai dopo»* (Gv 13,6-7): «Diciamo di voler seguire
 Cristo, ma non accettiamo di sottostare alle sue condizioni».
 
@@ -336,7 +336,7 @@ comunione». Y el reconocimiento de quienes «hanno imparato che la memoria è l
 ### IV
 
 Un último paso, «per darvi la possibilità di una riflessione più completa»: la memoria «rende
-estremamente concreti ed estremamente vigilantes» sobre «quel fenomeno che si chiama “bisogno”», y
+estremamente concreti ed estremamente vigilantes» sobre «quel fenómeno che si chiama “bisogno”», y
 «rende obbligatorio per noi immaginare e creare strutture – strutture operative, abbiamo detto
 altrove – capillari e tempestive per rispondere a quei desideri che si incarnano come dolore o come
 aspirazione in quei bisogni. Ecco, queste strutture operative… noi le chiamiamo “opere”».
@@ -352,13 +352,13 @@ La gran alternativa queda ilustrada por la parábola rusa del carro: «Sto sping
 carriola!», «Mi do da fare per guadagnar danaro!», «Costruisco una Santa Chiesa» — «cioè una società
 affrontata secondo la caritas, la carità, nella memoria di Cristo, perché la Chiesa è l'umanità –
 fatta di mattoni, di carne, di sangue, di cuori e di spiriti – investita e vissuta… nella memoria e
-nell'amore a Cristo». Y de Claudel, la fe madura: «non è più per me ciò che era nei giorni della mia
+nell'amore a Cristo». Y de Claudel, la fe madura: «non è più per me ciò che era nei giorni della mía
 giovinezza, un'adesione appassionata nell'oscurità, ma una certezza solida, qualcosa di
 magnificamente pieno e ragionevole, *dignum, iustum, aequum, salutare*».
 
 ## Introduzione alle Lodi
 
-«Che cosa dà alla nostra vita senso, utilità al tempo, speranza alla nostra fragile energia?» El
+«Che cosa dà alla nostra vita senso, utilità al tempo, speranza alla nostra fragile energía?» El
 primer momento que movió nuestra vida fue «quel soffio in cui una ragazza di quindici anni ha detto
 "sì", per la semplicità e la povertà totale del suo cuore». Se pide a la Madonna que nuestra vida sea
 «un seguito di momenti in cui la povertà del cuore, la semplicità dello spirito ci faccia pronunciare
@@ -367,14 +367,14 @@ questo *fiat*, ci faccia dire questi "sì"».
 ## LA GLORIA DI CRISTO
 
 «Senza lo Spirito, Cristo è nel passato, perché senza lo Spirito, Cristo è vuoto della sua divinità.
-Lo Spirito è l'energia divina con cui Cristo penetra la storia e ci raggiunge». El signo mayor del
+Lo Spirito è l'energía divina con cui Cristo penetra la storia e ci raggiunge». El signo mayor del
 Spirito en acción es «la nostra compagnia vocazionale», y su significado es «l'urgenza della fede,
 della speranza e dell'amore a Cristo, cioè della santità».
 
 ### I
 
 «La santità è un fattore non astratto dalla vita del tempo e dello spazio, è il fattore determinante
-ultimamente il cammino dell'umano, l'umanizzazione del cosmo». Lo entendía bien Madre Teresa, a quien
+últimamente il cammino dell'umano, l'umanizzazione del cosmo». Lo entendía bien Madre Teresa, a quien
 se preguntaba si había que mirar «a questo mondo di poveri, di affamati, a questa umanità ammalata como
 ad un peso, ad una punizione, o ad una speranza», y que respondía: «un privilegio il fatto che
 abbiamo l'opportunità di trasformare il nostro amore per Dio in azione vivente, servendo e prendendoci
@@ -405,7 +405,7 @@ mandati… e vi ho mandati affinché facciate frutto» (Gv 15,16).
 «Se questo è il problema, la nostra personalità deve essere segnata da procedure diverse». La primera
 es **la preghiera**, «ma il pregare nella sua sostanza, che è il domandare»: «bisogna spaccare
 l'incrostazione che momento per momento si sedimenta su di noi, bisogna rompere il mallo della nostra
-autonomia». Y el adversario es «la mentalità comune, che è l'alternativa a Dio, lo Stato è
+autonomía». Y el adversario es «la mentalità comune, che è l'alternativa a Dio, lo Stato è
 l'alternativa a Dio, nella sua pretesa moderna — cui accennava il famoso *Sillabo* — di essere sorgente
 di tutti i diritti e di godere di un diritto senza confini, dall'Est all'Ovest: è l'anti-Dio».
 
@@ -417,10 +417,10 @@ La segunda es **la inteligencia**, «cioè luce e forza, sicurezza», porque «D
 sicurezza, forza». Y de aquí un criterio nuevo: «Un giudizio è diverso non quando cambiano le cose,
 ma quando cambia il criterio», y ese criterio es la gloria de Cristo. Por eso «Non assumete gli
 schemi della realtà mondiale, ma trasformatevi rinnovando il vostro modo di pensare» (Rm 12,1-2), con
-la lucidezza de los que «la scienza, la tecnica e la politica ne sono una dimostrazione spaventosa:
+la lucidezza de los que «la scienza, la tecnica e la política ne sono una dimostrazione spaventosa:
 hanno solo creato una paura cósmica che l'uomo distrugga tutto» (1Cor 3,18-23).
 
-La tercera es **la voluntad y la afectividad**, «una energia che consegue a un giudizio», y por eso
+La tercera es **la voluntad y la afectividad**, «una energía che consegue a un giudizio», y por eso
 el hombre «può essere chiamato da Dio all'eroismo, all'eroismo quotidiano». Il ejemplo es lo stesso
 de los seminaristas: «l'amore a Cristo voleva dire anche mangiare la minestra – l'amore a Cristo è
 l'obbedienza». Y aquí se aclara el sentido de la mortificación: «Mortificazione, in senso cristiano, è
@@ -460,11 +460,11 @@ cuore… è pieno di gratitudine, e la gratitudine è lo zampillo primo della gi
 - Cfr. L. Giussani, *Il senso religioso*, Rizzoli, Milano 2010, pp. 51, 70-72, 122.
 - Cfr. L. Giussani, *Moralità: memoria e desiderio*, Jaca Book, Milano 1980; ahora en *Alla ricerca
   del volto umano*, BUR, Milano 2005, pp. 127-228.
-- Cfr. V. Bělohradský, *Civiltà e的最 irrealismo*, in *Il male politico*, Jaca Book, Milano 1988.
+- Cfr. V. Bělohradský, *Civiltà e的最 irrealismo*, in *Il male político*, Jaca Book, Milano 1988.
 - Cfr. P. Claudel, «Deux Lettres a Arthur Fontaine – Positions et Propositions II», 30 mayo 1920, in
-  *Oeuvres complètes de Paul Claudel*, vol. 15, Gallimard, Paris 1959, p. 230; *L'Annuncio a Maria*,
-  Rizzoli, Milano 2001, p. 184; «III. Magnificat», *Cinq Grandes Odes*, in *Poésie*, *Oeuvres
-  complètes*, Gallimard, Paris 1950, p. 98; carta a Arthur Fontaine, 6 junio 1906 (recogida en
+  *Oeuvres complètes de Paul Claudel*, vol. 15, Gallimard, París 1959, p. 230; *L'Annuncio a María*,
+  Rizzoli, Milano 2001, p. 184; «III. Magníficat», *Cinq Grandes Odes*, in *Poésie*, *Oeuvres
+  complètes*, Gallimard, París 1950, p. 98; carta a Arthur Fontaine, 6 junio 1906 (recogida en
   «Claudel: Pour vivre il ne suffit pas toujours d'ouvrir les yeux», *Le Figaro Littéraire*, n. 333,
   6 septiembre 1952).
 - Cfr. S. Kierkegaard, *Diario. I (1834-1849)*, Morcelliana, Brescia 1962, pp. 239, 355.
@@ -472,20 +472,20 @@ cuore… è pieno di gratitudine, e la gratitudine è lo zampillo primo della gi
 - Cfr. Madre Teresa de Calcutta, *Un oceano di poveri e l'amore in azione*, intervista a cura di
   V. Mangili, in «Mondo e missione», n. 9, mayo 1987, p. 320 (entrevista RAI reproducida en
   V. Mangili - C. Caffari, *Ho conosciuto Madre Teresa*).
-- Cfr. C. Chieffo, «Gloria», ad Anna Colombo e Antonello Zannoni, in P. Scaglione, *La mia voce e le
-  tue Parole. Claudio Chieffo, una lunga storia di musica e poesia*, Edizioni Ares, Milano 2006, p. 227.
+- Cfr. C. Chieffo, «Gloria», ad Anna Colombo e Antonello Zannoni, in P. Scaglione, *La mía voce e le
+  tue Parole. Claudio Chieffo, una lunga storia di musica e poesía*, Edizioni Ares, Milano 2006, p. 227.
 - Cfr. G. Carducci, «Davanti San Guido», LXXII, in *Poesie*, Garzanti, Milano 1999, p. 334.
 - Cfr. Giovanni Paolo II, *Discorso ai partecipanti al III «Meeting per l'amicizia fra i popoli»*,
   29 de agosto de 1982; *Omelia alla Santa Messa per i partecipanti al Convegno «Movimenti nella
   Chiesa»*, Castel Gandolfo, 27 de septiembre de 1981.
 - Cfr. Giovanni Paolo II, *Dives in misericordia*, 30 de noviembre de 1980.
-- Cfr. Pio IX, *Quanta cura* y el *Sillabo*, 8 de diciembre de 1864.
+- Cfr. Pío IX, *Quanta cura* y el *Sillabo*, 8 de diciembre de 1864.
 - Cfr. Evagrio el Monaco, «Detti tratti da vari testi», in *Filocalia*, a cura de G. Vannucci.
 - Cfr. O. V. Miłosz, *Miguel Mañara*, in *Miguel Mañara. Mefiboseth. Saulo di Tarso*, Jaca Book,
   Milano 1994, p. 36.
 - Cfr. R. Romano Scalfi, «L'Altra Europa».
 - Cfr. L. Giussani, *L'opera del movimento. La Fraternità di Comunione e Liberazione*, San Paolo,
-  Cinisello Balsamo (MI) 2002, pp. 233-243.
+  Cinisello Bálsamo (MI) 2002, pp. 233-243.
 - Cfr. «Benedictus» e «Ángelus», en *Il libro delle ore*; *Ad Deum qui laetificat juventutem meam*
   (introito de la Misa en latín; cfr. Sal 42,4).
 - Cfr. «Giesù sommo conforto», en *Canti per la Settimana Santa*.

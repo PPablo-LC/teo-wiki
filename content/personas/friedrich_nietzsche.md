@@ -30,7 +30,7 @@ Tras su juventud rodeada de piedad rural, renunció a la carrera de filósofo de
 
 - **El sufrimiento da sentido:** para Nietzsche, el sufrimiento «da sentido a la vida»: la tarea religiosa es hacer llevadero el sufrimiento dándole un significado.
 - **La «muerte de Dios»:** la parábola del loco (*La gaya ciencia* §125) anuncia el derrumbe cultural que sigue a la pérdida del horizonte divino.
-- **Diagnóstico, no refutación:** la crítica de Nietzsche a la fe «decadente» y a la cultura de los «últimos hombres» se usa (Balthasar, Przywara, Tillich) como instrumento para alcanzar el «Dios más allá de Dios» de la fe cristiana: infinita transcendencia y, a la vez, *interior intimo meo* (Agustín).
+- **Diagnóstico, no refutación:** la crítica de Nietzsche a la fe «decadente» y a la cultura de los «últimos hombres» se usa (Balthasar, Przywara, Tillich) como instrumento para alcanzar el «Dios más allá de Dios» de la fe cristiana: infinita transcendencia y, a la vez, *interior íntimo meo* (Agustín).
 - **Influencia en la fe:** su ataque ha influido incluso en papas —como Benedicto XVI en *Deus Caritas Est*— para redescubrir la plenitud del amor kenótico.
 - **La respuesta:** con los santos (como [[san_maximiliano_kolbe]]), el cristiano se une al grito de abandono de Cristo en la cruz; «en el Dios más allá de la muerte de Dios encontramos la resurrección».
 

@@ -31,16 +31,6 @@ La Iglesia es Pueblo de Dios (§781-786), Cuerpo de Cristo (§787-796) y Templo 
 
 La Iglesia es una (§813-822): un solo Señor, una fe, un Bautismo, un solo Cuerpo, un solo Espíritu. Es santa (§823-829): Cristo amó a la Iglesia como a su esposa. Es católica (§830-856): Cristo está presente en ella con la plenitud de los medios de salvación. Es apostólica (§857-864): edificada sobre el fundamento de los Apóstoles. La jerarquía incluye al Papa, los obispos, los presbíteros y los diáconos (§871-896). Los laicos participan del sacerdocio, profecía y realeza de Cristo (§897-913). La vida consagrada es un don a la Iglesia que manifiesta a Cristo y anuncia la gloria del mundo futuro (§914-933).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata la Iglesia como Cuerpo Místico de Cristo en el contexto de la vida cristiana: el cristiano no puede santificarse en aislamiento, sino en y por la Iglesia. La Iglesia es la plenitud de Cristo (plenitudo Christi), el complemento del Verbo encarnado en el tiempo.
-
-La Iglesia es el ámbito donde se reciben los sacramentos, que son los canales de la gracia. Es también el lugar donde se predica la Palabra de Dios y donde los fieles se edifican mutuamente en la caridad.
-
-La perfección cristiana, aunque es personal, tiene una dimensión eclesial insoslayable: la santidad de cada miembro redunda en beneficio de todo el Cuerpo y, a su vez, la santidad de la Iglesia (esposa inmaculada de Cristo) sostiene y nutre la santidad de cada fiel.
-
-[TPCr, Parte I, Cap. 6]
-
 ### Según la Summa Theologiae (SmTh)
 
 Tomás fundamenta la noción de cuerpo místico en la IIIª q.8, al tratar la gracia de Cristo como cabeza. La Iglesia es «cuerpo» por analogía con el cuerpo natural (Rom 12,4-5; 1 Cor 12,12ss): una multitud ordenada a la unidad por la diversidad de funciones y por la comunicación de una misma vida.
@@ -52,6 +42,16 @@ Tomás fundamenta la noción de cuerpo místico en la IIIª q.8, al tratar la gr
 **IIIª q.8 a.6 — Influjo interior y gobierno exterior:** La cabeza influye en los miembros de dos maneras: por un influjo intrínseco, que deriva a los miembros la virtud de vivir y obrar, y por un gobierno exterior, que orienta sus actos. El influjo interior de la gracia solo proviene de Cristo; el gobierno exterior puede ser compartido por otros, que se llaman cabezas de modo participado (obispos en sus iglesias, el Papa durante su pontificado) y como vicarios de Cristo, no por autoridad propia. (SmTh IIIª q.8 a.6)
 
 Tomás compara además la relación entre el Espíritu Santo y Cristo con la del corazón y la cabeza en el cuerpo humano: la cabeza tiene superioridad visible y gobierno exterior, mientras que el corazón tiene un influjo oculto y vital (a.1 ad 3). Así, Cristo es cabeza que comunica la gracia en su humanidad, mientras que el Espíritu Santo es el corazón que la infunde invisiblemente desde dentro.
+
+### Según Royo Marín (TPCr)
+
+Royo Marín trata la Iglesia como Cuerpo Místico de Cristo en el contexto de la vida cristiana: el cristiano no puede santificarse en aislamiento, sino en y por la Iglesia. La Iglesia es la plenitud de Cristo (plenitudo Christi), el complemento del Verbo encarnado en el tiempo.
+
+La Iglesia es el ámbito donde se reciben los sacramentos, que son los canales de la gracia. Es también el lugar donde se predica la Palabra de Dios y donde los fieles se edifican mutuamente en la caridad.
+
+La perfección cristiana, aunque es personal, tiene una dimensión eclesial insoslayable: la santidad de cada miembro redunda en beneficio de todo el Cuerpo y, a su vez, la santidad de la Iglesia (esposa inmaculada de Cristo) sostiene y nutre la santidad de cada fiel.
+
+[TPCr, Parte I, Cap. 6]
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

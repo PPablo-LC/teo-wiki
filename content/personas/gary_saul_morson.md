@@ -12,7 +12,7 @@ timestamp: "2026-09-02"
 # Gary Saul Morson
 
 > Nacimiento: 1948, Nueva York (EE.UU.)
-> Cargo: Frances Hooper Professor of the Arts and Humanities, Northwestern University
+> Cargo: Francés Hooper Professor of the Arts and Humanities, Northwestern University
 
 ## Definición
 

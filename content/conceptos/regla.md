@@ -106,6 +106,6 @@ ejemplos gratuitos, impresionantes, cargados de ayuda» (01, 361).
   Cuaderno 1987, 03, 19.
 - **Código**: CUDF
 - **Índice**: `raw/Bases_doctrinales-raw/la_convenienza_umana_della_fede_capitoli/índice.md`
-- **Citas**: Dante, *Paradiso* XIX, v. 81; P. Claudel, *L'Annuncio a Maria*
+- **Citas**: Dante, *Paradiso* XIX, v. 81; P. Claudel, *L'Annuncio a María*
   (Rizzoli, 2001, p. 184); Mt 18,3; Mc 10,15; Lc 18,17.
 - **Otras fuentes**: ninguna otra del vault.

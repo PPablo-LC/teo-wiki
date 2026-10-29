@@ -13,7 +13,7 @@ timestamp: 2026-08-30
 
 ## Biografía
 
-Timothy P. O'Malley es un teólogo católico estadounidense, director académico del Notre Dame Center for Liturgy y director de educación del McGrath Institute for Church Life en la Universidad de Notre Dame. Es autor de *Becoming Eucharistic People* (Ave Maria Press, 2022) y *Real Presence* (2021).
+Timothy P. O'Malley es un teólogo católico estadounidense, director académico del Notre Dame Center for Liturgy y director de educación del McGrath Institute for Church Life en la Universidad de Notre Dame. Es autor de *Becoming Eucharistic People* (Ave María Press, 2022) y *Real Presence* (2021).
 
 ## Relevancia teológica
 
@@ -45,4 +45,4 @@ Su Academic Feature «Eucharistic Personhood: Renewing All Things in Christ» (v
 ## Referencias
 
 - O'Malley, Timothy P. «Eucharistic Personhood: Renewing All Things in Christ», en *Evangelization & Culture* 13 (Autumn 2022).
-- O'Malley, Timothy P. *Becoming Eucharistic People* (Ave Maria Press, 2022).
+- O'Malley, Timothy P. *Becoming Eucharistic People* (Ave María Press, 2022).

@@ -47,7 +47,7 @@ Esta fuente aporta una visión pastoral y cultural integrada, donde la teología
 - **Intercesión de santos por niños** — San Nicolás, oración perseverante (Scalia)
 - **Fe en lo invisible** — *El Principito*: lo esencial invisible a los ojos (Torres)
 - **Pureza de corazón en cine** — *E.T.*, *The Goonies*, *Stand by Me*, *Totoro* (Petiprin)
-- **Evangelización cultura gamer** — semillas del Verbo, Beato Carlo Acutis (Britton, Angel)
+- **Evangelización cultura gamer** — semillas del Verbo, Beato Carlo Acutis (Britton, Ángel)
 - **Testimonio familiar ordinario** — gozo, Cristo centro, sufrimiento con sentido (Bulman)
 - **Educación católica renovada** — Santa Isabel Ana Seton, formar corazones para la virtud (DeSanctis)
 - **Salud mental infantil y fe** — ansiedad post-COVID, orden/rutina/gratitud/servicio, CBT, sacramentos (Stanford)
@@ -58,7 +58,7 @@ Esta fuente aporta una visión pastoral y cultural integrada, donde la teología
 - **Belleza evangeliza / visión sacramental** — *El jardín secreto*, *Laudato Si'* (Stewart)
 - **Condiciones para evangelizar jóvenes** — parábola sembrador, Agustín, atención, misericordia, Buen Samaritano (DeLorenzo)
 - **Misas de niños** — Jesús modelo amor/maestro/aprendiz, homilía P&R, Espíritu Santo (Van Sloun)
-- **Evangelización adolescentes** — nones, redes/smartphones, formación humana integral, comunión personas (François Angel)
+- **Evangelización adolescentes** — nones, redes/smartphones, formación humana integral, comunión personas (François Ángel)
 
 ## Distinciones importantes
 
@@ -78,7 +78,7 @@ Esta fuente aporta una visión pastoral y cultural integrada, donde la teología
 - [[conversión]] — intención vs. condiciones/hábitos (Agustín/DeLorenzo)
 - [[atención_como_principio_de_oración]] — Teresa de Ávila, Weil, Oliver, Merton (DeLorenzo)
 - [[misericordia]] — dolor sensorial + acción volitiva; imitación siniestra digital (DeLorenzo)
-- [[comunión_de_personas]] — imagen Dios = intercambio amor → comunión personas (François Angel)
+- [[comunión_de_personas]] — imagen Dios = intercambio amor → comunión personas (François Ángel)
 
 ## Ver también
 
@@ -97,4 +97,4 @@ Esta fuente aporta una visión pastoral y cultural integrada, donde la teología
 - **Código**: EAC-12
 - **Archivos raw**: 25 archivos en `raw/Bases_doctrinales-raw/Evangelization and culture - 12_capitulos/`
 - **Índice de conceptos**: `raw/Bases_doctrinales-raw/Evangelization and culture - 12_capitulos/índice.md`
-- **Autores principales**: Bishop Robert Barron, Tod Worner, Elizabeth Scalia, Dr. Holly Ordway, Gianna Torres, Andrew Petiprin, Fr. Blake Britton, Bobby Angel, Jason & Rachel Bulman, Alexandra DeSanctis, Dr. Michelle Stanford, Dr. Denis McNamara, G.K. Chesterton, Dana Gioia, Emily H. Jeffries, Carolyn Svellinger, Haley Stewart, Leonard J. DeLorenzo, Miembros WF Institute, Charles Lewis, Fr. Michael Van Sloun, Jackie François Angel.
+- **Autores principales**: Bishop Robert Barron, Tod Worner, Elizabeth Scalia, Dr. Holly Ordway, Gianna Torres, Andrew Petiprin, Fr. Blake Britton, Bobby Ángel, Jason & Rachel Bulman, Alexandra DeSanctis, Dr. Michelle Stanford, Dr. Denis McNamara, G.K. Chesterton, Dana Gioia, Emily H. Jeffries, Carolyn Svellinger, Haley Stewart, Leonard J. DeLorenzo, Miembros WF Institute, Charles Lewis, Fr. Michael Van Sloun, Jackie François Ángel.

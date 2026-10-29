@@ -10,7 +10,7 @@ tags: ["resumen", apologética, cientificismo, epistemología]
 
 # Capítulo 2 — Superar el cientificismo
 
-> 📄 **Fuente original:** `02_chapter_two.md` — *Arguing Religion: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 2: «Overcoming Scientism».
+> 📄 **Fuente original:** `02_chapter_two.md` — *Arguing Religión: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 2: «Overcoming Scientism».
 
 ## Conceptos básicos referenciados en este capítulo
 

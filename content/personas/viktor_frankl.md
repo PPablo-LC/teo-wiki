@@ -24,7 +24,7 @@ Frankl desarrolló la logoterapia antes de la guerra; deportado en 1942, sobrevi
 
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
-Bobby Angel lo cita al tratar la comedia frente al problema del mal:
+Bobby Ángel lo cita al tratar la comedia frente al problema del mal:
 
 - «El hombre inventó las cámaras de gas de Auschwitz; pero también es ese ser que entró en ellas erguido, con el Padrenuestro o el Shemá Israel en los labios».
 - La cita sirve para sostener que ante el mal —que no anula la risa sino que le da su gravedad— la libertad humana permanece como espacio de sentido.

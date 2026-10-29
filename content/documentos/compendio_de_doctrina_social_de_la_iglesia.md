@@ -14,7 +14,7 @@ description: "El Compendio sintetiza la enseñanza social de la Iglesia desde *R
 ## Identificación
 
 - **Título completo**: Compendio de la Doctrina Social de la Iglesia
-- **Publicado por**: Pontificio Consejo «Justicia y Paz» (Libreria Editrice Vaticana, 2004)
+- **Publicado por**: Pontificio Consejo «Justicia y Paz» (Librería Editrice Vaticana, 2004)
 - **Código**: CompDS / DSI
 - **Idioma original**: español
 - **Estructura**: Introducción, 12 capítulos, Conclusión

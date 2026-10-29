@@ -80,6 +80,9 @@ El Comunicado de la Santa Sede del 1 de mayo de 2010 (recogido en AntDp-2015, `0
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico
+
+La visita apostólica es un acto de jurisdicción pontificia que no tiene una regulación detallada en el CIC. Su marco jurídico se encuentra en la Const. Ap. *Pastor Bonus* sobre la Curia Romana, particularmente en las atribuciones de la Congregación para los Obispos (arts. 31-38), de la CIVCSVA (arts. 105-117) y de la CDF (arts. 48-55).
 ### Según la Antología del Delegado Pontificio (AntDp-2015)
 
 La Visita Apostólica es el punto de partida de toda la documentación de la Antología. El Comunicado del 1-V-2010 y los nombramientos posteriores del Card. De Paolis se enmarcan en este proceso. El P. Ghirlanda distingue cuidadosamente entre el carisma personal del fundador (condenable moralmente) y el carisma colectivo de fundación (que permanece en el instituto).
@@ -88,9 +91,6 @@ La Visita Apostólica es el punto de partida de toda la documentación de la Ant
 
 El Comunicado capitular «Conversión y Reparación» reconoce el sufrimiento de las víctimas y reitera la condena de la conducta del fundador.
 
-### Según el Código de Derecho Canónico
-
-La visita apostólica es un acto de jurisdicción pontificia que no tiene una regulación detallada en el CIC. Su marco jurídico se encuentra en la Const. Ap. *Pastor Bonus* sobre la Curia Romana, particularmente en las atribuciones de la Congregación para los Obispos (arts. 31-38), de la CIVCSVA (arts. 105-117) y de la CDF (arts. 48-55).
 
 ## Lección teológica
 

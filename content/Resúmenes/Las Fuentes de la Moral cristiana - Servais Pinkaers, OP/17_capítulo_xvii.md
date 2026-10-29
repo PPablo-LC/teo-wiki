@@ -19,7 +19,7 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 - [[bienaventuranza]] — la felicidad y el fin último hacia los que tiende la inclinación natural al bien.
 - [[matrimonio]] — fin y culminación de la inclinación natural sexual, ordenada a la procreación y la educación.
 - [[virginidad]] — estado que, por el reino de los cielos, guía la inclinación sexual hacia la vida eterna y muestra su coherencia con la naturaleza.
-- [[decálogo]] — la ley moral que formula las prescripciones que la razón práctica descubre a partir de las inclinaciones naturales.
+- [[decálogo]] — la ley moral que fórmula las prescripciones que la razón práctica descubre a partir de las inclinaciones naturales.
 - [[principiantes_adelantados_perfectos]] — los grados del progreso que suponen una moral creciente de las inclinaciones y las virtudes.
 - [[santo_tomás_de_aquino]] — fuente de la doctrina de las inclinaciones naturales aquí expuesta.
 - [[integridad]] — la incorporación de las inclinaciones naturales a la moral como integridad debida por la virtud.
@@ -220,7 +220,7 @@ Matrimonio y virginidad se complementan en la Iglesia: el matrimonio es signo de
 
 ## La coordinación entre las inclinaciones, la ley natural y las virtudes
 
-Las inclinaciones naturales se coordinan con la ley natural y las virtudes en la unidad de la persona. El tratado de las virtudes muestra que son disposiciones que llevan a madurez las inclinaciones naturales. La ley natural, por su parte, formula en forma de mandamientos las exigencias que la razón práctica descubre en las inclinaciones. Las virtudes, la ley natural y las inclinaciones cooperan en la realización del bien.
+Las inclinaciones naturales se coordinan con la ley natural y las virtudes en la unidad de la persona. El tratado de las virtudes muestra que son disposiciones que llevan a madurez las inclinaciones naturales. La ley natural, por su parte, fórmula en forma de mandamientos las exigencias que la razón práctica descubre en las inclinaciones. Las virtudes, la ley natural y las inclinaciones cooperan en la realización del bien.
 
 ## Correspondencia detallada
 

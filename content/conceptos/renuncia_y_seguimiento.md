@@ -31,7 +31,7 @@ Las formas concretas de seguir a Cristo están graduadas por Él mismo según la
 
 Jesús pide dejar casa, mujer, hermanos, padres e hijos «por amor del reino de Dios» (Lc 18,29-30), y promete el ciento por uno y la vida eterna (Mt 19,29; Mc 10,29-30) (CrSJP 34 §4).
 
-«El que ama al padre o a la madre más que a mí, no es digno de mí; y el que no toma su cruz y sigue en pos de mí, no es digno de mí» (Mt 10,37-38). Lucas formula aún más fuertemente: «Si alguno viene a mí y no aborrece a su padre, su madre, su mujer, sus hermanos, sus hermanas y aun su propia vida, no puede ser mi discípulo» (Lc 14,26) (CrSJP 34 §5).
+«El que ama al padre o a la madre más que a mí, no es digno de mí; y el que no toma su cruz y sigue en pos de mí, no es digno de mí» (Mt 10,37-38). Lucas fórmula aún más fuertemente: «Si alguno viene a mí y no aborrece a su padre, su madre, su mujer, sus hermanos, sus hermanas y aun su propia vida, no puede ser mi discípulo» (Lc 14,26) (CrSJP 34 §5).
 
 ## Relaciones doctrinales
 

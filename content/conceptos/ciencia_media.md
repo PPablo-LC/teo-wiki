@@ -29,6 +29,9 @@ El debate sobre la ciencia media tiene profundas implicaciones para la oración 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que "la providencia divina es la disposición, por la cual Dios dirige todas las cosas hacia sus fines" (§302) y que "Dios es el sovereign master de su plan. Pero no lo ejecuta sin la cooperación de las criaturas" (§306). Estas afirmaciones son compatibles tanto con la posición tomista como con la molinista, sin pronunciarse sobre el mecanismo exacto del conocimiento divino de los futuros contingentes.
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.14 — El conocimiento de Dios:**
@@ -43,9 +46,6 @@ El debate sobre la ciencia media tiene profundas implicaciones para la oración 
 
 **a.7 — Dios quiere algunas cosas por necesidad natural, otras por libertad:** Dios quiere necesariamente Su propia bondad, pero quiere libremente las cosas creadas. Su voluntad libre se extiende a lo que Él mismo ha decidido crear y permitir. Los futuros contingentes son conocidos por Dios en relación con Su voluntad libre, no por un conocimiento intermedio separado (SmTh Iª q.19 a.7).
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que "la providencia divina es la disposición, por la cual Dios dirige todas las cosas hacia sus fines" (§302) y que "Dios es el sovereign master de su plan. Pero no lo ejecuta sin la cooperación de las criaturas" (§306). Estas afirmaciones son compatibles tanto con la posición tomista como con la molinista, sin pronunciarse sobre el mecanismo exacto del conocimiento divino de los futuros contingentes.
 
 ## Distinciones importantes
 

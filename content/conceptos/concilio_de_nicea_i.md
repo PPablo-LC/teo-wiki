@@ -19,7 +19,7 @@ El Primer Concilio de Nicea (325) fue el primer concilio ecuménico de la Iglesi
 
 El Concilio de Nicea fue convocado en mayo-agosto del año 325, con asistencia de unos 300 obispos, principalmente orientales. El emperador Constantino presidió las sesiones. La controversia había sido iniciada por Arrio, presbítero de Alejandría, que negaba la divinidad del Hijo, afirmando que «hubo un tiempo en que el Hijo no existía».
 
-El concilio se sirvió del Símbolo presentado por Eusebio de Cesarea para componer su fórmula (D-8). La definición nicena afirma que el Hijo es «engendrado, no creado, consustancial (*homousios*) al Padre». Se condenó a Arrio y sus seguidores, y se fijó también la fecha de la Pascua.
+El concilio se sirvió del Símbolo presentado por Eusebio de Cesárea para componer su fórmula (D-8). La definición nicena afirma que el Hijo es «engendrado, no creado, consustancial (*homousios*) al Padre». Se condenó a Arrio y sus seguidores, y se fijó también la fecha de la Pascua.
 
 El Símbolo Niceno fue confirmado y completado por el [[concilio_de_constantinopla_i]] (381), dando lugar al Símbolo Niceno-Constantinopolitano.
 

@@ -20,7 +20,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### ESTEBAN V, 816-817 VALENTIN, 827SAN PASCUAL I, 817-824 GREGORIO IV, 828-844EUGENIO II, 824-827 SERGIO II, 844-847 SAN LEON IV, 847 855
+### ESTEBAN V, 816-817 VALENTIN, 827SAN PASCUAL I, 817-824 GREGORIO IV, 828-844EUGENIO II, 824-827 SERGIO II, 844-847 SAN LEÓN IV, 847 855
 
 **Del sacramento de la extremaunción:**
 
@@ -29,6 +29,6 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## ESTEBAN V, 816-817 VALENTIN, 827SAN PASCUAL I, 817-824 GREGORIO IV, 828-844EUGENIO II, 824-827 SERGIO II, 844-847 SAN LEON IV, 847 855
+## ESTEBAN V, 816-817 VALENTIN, 827SAN PASCUAL I, 817-824 GREGORIO IV, 828-844EUGENIO II, 824-827 SERGIO II, 844-847 SAN LEÓN IV, 847 855
 
 Doctrina sobre el sacramento de la [[unción_de_enfermos|extremaunción]]: su institución apostólica, sus efectos de perdón y salud, y el requisito de la reconciliación para los públicos penitentes (D-315).

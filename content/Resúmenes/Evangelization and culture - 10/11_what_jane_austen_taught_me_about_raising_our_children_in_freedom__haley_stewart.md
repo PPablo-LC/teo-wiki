@@ -21,7 +21,7 @@ tags: ["resumen", "evangelization and culture - 10"]
 
 Haley Stewart lee *Mansfield Park* como manual de educación en la libertad. La pregunta central para padres: ¿protegemos a nuestros hijos **del** mal o los formamos **para** el bien? Sir Thomas Bertram protege las murallas pero fracasa en formar los corazones; sus hijos caen igualmente.
 
-Henry Crawford es «un libertino, no un hombre verdaderamente libre»: su encanto seduce y su vacío destruye (Maria Rushworth). Fanny Price, la pobre prima despreciada, es la única libre: su conciencia formada sabe decir no — a la representación teatral, al cortejo seductor, a toda presión social. Los santos son más libres que sus opresores porque han ordenado sus deseos: MLK, Pablo en la cárcel, Tomás Moro (Robert Bolt, *A Man for All Seasons*: da su vida por no jurar contra su conciencia).
+Henry Crawford es «un libertino, no un hombre verdaderamente libre»: su encanto seduce y su vacío destruye (María Rushworth). Fanny Price, la pobre prima despreciada, es la única libre: su conciencia formada sabe decir no — a la representación teatral, al cortejo seductor, a toda presión social. Los santos son más libres que sus opresores porque han ordenado sus deseos: MLK, Pablo en la cárcel, Tomás Moro (Robert Bolt, *A Man for All Seasons*: da su vida por no jurar contra su conciencia).
 
 Wendell Berry aporta la clave agraria: el bien común se cultiva con hábitos, no con gestas. Y Mt 11,30 cierra: «mi yugo es suave». Barron (*The Strangest Way*) explica: «lo que el Señor propone no es una libertad del sufrimiento sino, más importante, una libertad respecto del yo».
 

@@ -32,15 +32,17 @@ El c. 1180 establece que los fieles pueden encomendar limosnas para misas por lo
 
 *Lumen Gentium* enseña que «la Iglesia de los peregrinantes, reconociendo la unión de todo el Cuerpo místico de Jesucristo, desde los primeros tiempos honró con gran piedad la memoria de los difuntos, y ofreció sufragios por ellos» (LG §50). El Concilio exhorta a los fieles a ofrecer sufragios por los difuntos para que, purificados, lleguen a la bienaventuranza (LG §50).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata los sufragios en el contexto de la comunión de los santos y la doctrina del purgatorio. Las almas del purgatorio no pueden ayudarse a sí mismas, pero pueden ser ayudadas por los fieles de la tierra mediante sufragios. El principal sufragio es el santo sacrificio de la misa, al que siguen las indulgencias, las oraciones, las limosnas y las obras de penitencia. La aplicación de los sufragios a las almas del purgatorio es una práctica fundada en la Tradición y aprobada por la Iglesia. La eficacia de los sufragios depende de la disposición de quien los ofrece y de la aceptación divina (TPCr, Cuarta Parte, Cap. VII).
-
 ### Según la Summa Theologiae (SmTh)
 
 La cuestión 71 del Suplemento trata ex professo de los sufragios por los difuntos. Los sufragios de una persona pueden aprovechar a otras de dos modos: por vía de mérito (en lo concerniente a lo consiguiente al estado, fundado en la comunión en la caridad) y por vía de oración (impetración, fundada en la misericordia divina) [SmTh, Suppl. q.71 a.1]. Los difuntos que murieron en caridad pueden ser ayudados por las obras de los vivos porque la caridad se extiende a los muertos; los sufragios no cambian su estado de condenación a bienaventuranza, sino que obran la disminución de la pena [SmTh, Suppl. q.71 a.2]. Los sufragios realizados por pecadores aprovechan a los difuntos en la medida en que la obra realizada (p.ej., el sacrificio del altar) tiene eficacia por sí misma; si el pecador actúa como representante de la Iglesia o como instrumento de otro, la obra puede ser meritoria [SmTh, Suppl. q.71 a.3]. Los sufragios aprovechan a quienes los ofrecen como mérito (aumentando la caridad y la vida eterna), pero no como satisfacción (el oferente no queda absuelto de su propia deuda) [SmTh, Suppl. q.71 a.4].
 
 Los sufragios **no aprovechan** a los condenados (infierno), porque están separados de la caridad, han recibido su retribución final y su pena no puede ser disminuida [SmTh, Suppl. q.71 a.5]. **Aprovechan sin duda** a las almas del purgatorio, porque la pena del purgatorio suple la satisfacción incompleta [SmTh, Suppl. q.71 a.6]. **No aprovechan** a los niños no bautizados (limbo), porque su estado no puede cambiar después de la muerte [SmTh, Suppl. q.71 a.7]. **No aprovechan** a los santos en el cielo, pues no tienen necesidad alguna [SmTh, Suppl. q.71 a.8]. Los tres sufragios principales son: el sacrificio del altar (eucaristía), la limosna y la oración; el ayuno también puede aprovechar por razón de la caridad [SmTh, Suppl. q.71 a.9].
+
+Completa la cuestión la aplicación a casos concretos (a.10-14). La **indulgencia** no aprovecha al difunto principalmente —pues ya no puede cumplir la obra que se exige para ganarla—, sino a modo de sufragio, en cuanto se ofrece y se aplica por él [SmTh, Suppl. q.71 a.10]. El **entierro en lugar sagrado** no aprovecha por la acción misma, sino por el acto del que dispone ser allí sepultado y se encomienda al patrocinio de los santos, cuyas oraciones ayudan; directamente, la sepultura se ordena a los vivos, al pudor del cuerpo y a la fe en la resurrección [SmTh, Suppl. q.71 a.11]. El sufragio ofrecido por una persona determinada se mide por dos conceptos: por la **caridad**, que hace comunes los bienes y por la que aprovecha más a quien tiene más caridad, y por la **satisfacción aplicada**, por la que aprovecha principalmente a aquel por quien se ofrece [SmTh, Suppl. q.71 a.12]. Un sufragio por varios aprovecha a cada uno tanto como si se ofreciera por uno solo en cuanto al valor de la caridad, que no disminuye al dividirse, aunque se divide en cuanto pago de la deuda [SmTh, Suppl. q.71 a.13]. Por eso los sufragios **generales** aprovechan a quienes no reciben sufragios especiales tanto como estos [SmTh, Suppl. q.71 a.14].
+
+### Según Royo Marín (TPCr)
+
+Royo Marín trata los sufragios en el contexto de la comunión de los santos y la doctrina del purgatorio. Las almas del purgatorio no pueden ayudarse a sí mismas, pero pueden ser ayudadas por los fieles de la tierra mediante sufragios. El principal sufragio es el santo sacrificio de la misa, al que siguen las indulgencias, las oraciones, las limosnas y las obras de penitencia. La aplicación de los sufragios a las almas del purgatorio es una práctica fundada en la Tradición y aprobada por la Iglesia. La eficacia de los sufragios depende de la disposición de quien los ofrece y de la aceptación divina (TPCr, Cuarta Parte, Cap. VII).
 
 ### Evangelization & Culture 11 (EAC-11)
 
@@ -72,4 +74,4 @@ La sección «Lives» (Bert Ghezzi / Nicholas Healy Jr.) presenta a [[san_nicol�
 - TPCr, Cuarta Parte, Cap. VII
 - ConcVatII, LG §50
 - CIC cc. 901, 945-946, 1180
-- Ghezzi, Bert / Healy Jr., Nicholas J. «The Patron Saint of Holy Souls», en *Evangelization & Culture* 11 (Spring 2022).
+- Ghezzi, Bert / Healy Jr., Nicholas J. «The Patrón Saint of Holy Souls», en *Evangelization & Culture* 11 (Spring 2022).

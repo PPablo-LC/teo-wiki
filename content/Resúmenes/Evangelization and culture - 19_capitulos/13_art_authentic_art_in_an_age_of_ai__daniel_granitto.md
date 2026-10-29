@@ -66,7 +66,7 @@ Stevens se pregunta cómo cambiará la percepción de los objetos hechos a mano 
 
 Aun así, la pintura está «bastante a salvo»: nunca ha visto una imagen creada digitalmente que pueda transmitir la plenitud y la riqueza material de una pintura cuando se imprime (o fabrica) y se presenta en la realidad física. Si eventualmente eso cambia, le interesaría verlo y considerar las nuevas preguntas y problemas que sin duda emergerían.
 
-Entre sus influencias de siempre: Andrew Wyeth, Peter Doig, Édouard Vuillard, Lois Dodd, Nigel Cooke, Fra Angelico, Giovanni Bellini, Felix Vallotton. Entre quienes mira ahora con particular interés: Odilon Redon, Gustave Moreau, Pieter Bruegel el Viejo, Neo Rauch, Marcus Cope, Barry McGlashan, Shannon Cartier Lucy, James Ensor (algunos descubiertos vía Instagram).
+Entre sus influencias de siempre: Andrew Wyeth, Peter Doig, Édouard Vuillard, Lois Dodd, Nigel Cooke, Fra Angélico, Giovanni Bellini, Felix Vallotton. Entre quienes mira ahora con particular interés: Odilon Redon, Gustave Moreau, Pieter Bruegel el Viejo, Neo Rauch, Marcus Cope, Barry McGlashan, Shannon Cartier Lucy, James Ensor (algunos descubiertos vía Instagram).
 
 **Por qué ahora es un buen momento para el arte**
 

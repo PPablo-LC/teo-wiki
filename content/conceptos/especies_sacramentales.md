@@ -25,12 +25,6 @@ Por la transubstanciación, toda la sustancia del pan y del vino se convierte en
 
 El CEC enseña que Cristo está presente «sobre todo, bajo las especies eucarísticas» (§1373). El modo de presencia de Cristo bajo las especies eucarísticas es singular; en el Santísimo Sacramento están «contenidos verdadera, real y substancialmente el Cuerpo y la Sangre junto con el alma y la divinidad de nuestro Señor Jesucristo, y, por consiguiente, Cristo entero» (§1374). La presencia eucarística comienza en el momento de la consagración y dura todo el tiempo que subsistan las especies eucarísticas (§1377). Cristo está todo entero presente en cada una de las especies y en cada una de sus partes (§1377).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín explica que la presencia real de Cristo está vinculada a las especies sacramentales: «su presencia real, física, está vinculada de tal manera a las especies sacramentales, que, cuando ellas se alteran substancialmente, desaparece en absoluto». La acción de gracias después de la comunión debe prolongarse mientras permanecen las especies —aproximadamente media hora—, durante la cual Cristo permanece físicamente presente en el corazón del comulgante.
-
-[TPCr, Tercera Parte, Libro II, Cap. 1, Art. 5]
-
 ### Según la Summa Theologiae (SmTh)
 
 #### IIIª q.77 — La permanencia de los accidentes
@@ -50,6 +44,12 @@ Royo Marín explica que la presencia real de Cristo está vinculada a las especi
 **a.7 — Las especies se fraccionan realmente:** No es fracción aparente —los sentidos no se engañan sobre su objeto propio— ni fracción sin sujeto fraccionado. Se fracciona la cantidad dimensiva del pan, que es el sujeto de la fracción; y como las especies son el verdadero cuerpo de Cristo, la fracción de las especies es **sacramento de la pasión**, que tuvo lugar en el verdadero cuerpo. (SmTh IIIa q.77 a.7)
 
 **a.8 — Mezcla con otro líquido en el vino consagrado:** Las especies adquieren, como la sustancia, el modo activo y pasivo de obrar o recibir. Si se mezcla líquido en cantidad suficiente para difundirse por todo el vino y formar un compuesto, el vino deja de ser vino numéricamente y cesa la presencia; si la cantidad es tan pequeña que no se difunde por todo, solo se mezcla una parte, y el cuerpo y la sangre de Cristo permanecen mientras las especies permanecen numéricamente las mismas. (SmTh IIIa q.77 a.8)
+### Según Royo Marín (TPCr)
+
+Royo Marín explica que la presencia real de Cristo está vinculada a las especies sacramentales: «su presencia real, física, está vinculada de tal manera a las especies sacramentales, que, cuando ellas se alteran substancialmente, desaparece en absoluto». La acción de gracias después de la comunión debe prolongarse mientras permanecen las especies —aproximadamente media hora—, durante la cual Cristo permanece físicamente presente en el corazón del comulgante.
+
+[TPCr, Tercera Parte, Libro II, Cap. 1, Art. 5]
+
 
 ## Distinciones importantes
 

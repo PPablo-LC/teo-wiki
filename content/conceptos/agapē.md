@@ -21,6 +21,10 @@ Jesús eleva el amor al nivel de mandamiento nuevo: «Os doy un mandamiento nuev
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+El CEC enseña que el mandamiento del amor es «el mandamiento nuevo» (CEC 1823-1825). El amor es el primer mandamiento de la Ley (CEC 2052). El agapē es el «corazón de la moral evangélica» (CEC 1966).
+
 ### Jesús de Nazaret I (Benedicto XVI — JdN_I)
 
 **El agapē traspasa todo orden político:** En la parábola del buen samaritano, Helmut Kuhn señala que «el amor político del amigo se basa en la igualdad de las partes. La parábola simbólica del samaritano, en cambio, destaca la desigradad radical: el samaritano, un forastero en Israel, está ante el otro como el que presta ayuda a la desvalida víctima del atraco. La parábola nos da a entender que el agapē traspasa todo tipo de orden político con su principio del *do ut des*, superándolo y caracterizándose de este modo como sobrenatural» (p. 88s).
@@ -28,10 +32,6 @@ Jesús eleva el amor al nivel de mandamiento nuevo: «Os doy un mandamiento nuev
 **Compasión como entrañas de madre:** El *agapē* se manifiesta como *splagchnizomai*: conmoción de las entrañas, palabra que en hebreo alude al seno materno. Es el amor que se conmueve ante la necesidad del otro y se hace prójimo «por encima de cualquier consideración o peligro».
 
 **El agapē en la vid:** En Juan 15, 1-10, el amor es el fruto que el Señor espera de los sarmientos. La vid verdadera es Cristo mismo, que se ha dejado plantar en la tierra (encarnación) y nos invita a «permanecer» (*ménein*) en él. El fruto es el amor que ha pasado por la cruz.
-
-### Catecismo de la Iglesia Católica (CEC)
-
-El CEC enseña que el mandamiento del amor es «el mandamiento nuevo» (CEC 1823-1825). El amor es el primer mandamiento de la Ley (CEC 2052). El agapē es el «corazón de la moral evangélica» (CEC 1966).
 
 ### Attraverso la compagnia dei credenti (TACDC)
 

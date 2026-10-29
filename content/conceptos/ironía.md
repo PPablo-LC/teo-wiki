@@ -21,6 +21,9 @@ La ironía se opone a la jactancia como el defecto al exceso. Ambas son especies
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La ironía que ridiculiza o menosprecia al prójimo constituye una falta contra la verdad (CEC §2481). La humildad verdadera no debe sacrificar la veracidad: no se debe mentir para parecer humilde.
 ### Según la Summa Theologiae (SmTh)
 
 La ironía (q.113 a.1) es pecado cuando implica falsedad, es decir, cuando uno afirma tener un defecto que no posee o niega una cualidad que sabe que tiene. No lo es cuando, respetando la verdad, se callan cualidades importantes o se admiten pequeños defectos reales.
@@ -31,9 +34,6 @@ Hay casos en que se incurre simultáneamente en ironía y jactancia: por ejemplo
 
 [SmTh IIa-IIae q.113 a.1-2]
 
-### Según el Catecismo (CEC)
-
-La ironía que ridiculiza o menosprecia al prójimo constituye una falta contra la verdad (CEC §2481). La humildad verdadera no debe sacrificar la veracidad: no se debe mentir para parecer humilde.
 
 ## Distinciones importantes
 

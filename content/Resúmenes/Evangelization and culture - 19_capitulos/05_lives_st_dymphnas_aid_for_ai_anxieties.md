@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Lives: Saint Dymphna's Aid for AI Anxieties — Angela M. Jendro"
+title: "Lives: Saint Dymphna's Aid for AI Anxieties — Ángela M. Jendro"
 fuente: Evangelization and culture - 19_capitulos
 capítulo: 5
 timestamp: 2026-09-07
-description: "Resumen de 'Lives: Saint Dymphna's Aid for AI Anxieties — Angela M. Jendro' — Evangelization and culture - 19_capitulos"
+description: "Resumen de 'Lives: Saint Dymphna's Aid for AI Anxieties — Ángela M. Jendro' — Evangelization and culture - 19_capitulos"
 tags: ["resumen", "evangelization and culture - 19 capitulos"]
 ---
 
-# Lives: Saint Dymphna's Aid for AI Anxieties — Angela M. Jendro
+# Lives: Saint Dymphna's Aid for AI Anxieties — Ángela M. Jendro
 
 ## Conceptos básicos referenciados
 
@@ -62,10 +62,10 @@ El corazón de Santa Dymphna continúa actuando dentro del pueblo de Geel hoy, d
 **Conclusión: confianza y providencia**
 Cualesquiera ansiedades que nos apremien (especialmente en un mundo de IA), también podemos acudir con confianza a Santa Dymphna en busca de apoyo. Escribió el salmista David: «Muchas son las aflicciones del justo, pero el Señor lo libra de todas» (Sal 34,19). David no podía anticipar los problemas de hoy generados por nuevas tecnologías como la IA, pero Dios sí, y su palabra sigue siendo verdadera incluso en nuestra situación actual.
 
-El artículo se cierra con esta frase destacada: «Todas las criaturas vivientes son, por así decirlo, chispas de la radiación del resplandor de Dios, que emergen de Dios como los rayos del sol». La autora, Angela M. Jendro, tiene un máster en Estudios Católicos por la University of St. Thomas y es profesora de teología en Providence Academy (Plymouth, Minnesota); también es oradora y escritora católica, esposa y madre.
+El artículo se cierra con esta frase destacada: «Todas las criaturas vivientes son, por así decirlo, chispas de la radiación del resplandor de Dios, que emergen de Dios como los rayos del sol». La autora, Ángela M. Jendro, tiene un máster en Estudios Católicos por la University of St. Thomas y es profesora de teología en Providence Academy (Plymouth, Minnesota); también es oradora y escritora católica, esposa y madre.
 
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | Lives: Saint Dymphna's Aid for AI Anxieties — Angela M. Jendro |
+| 1 | H1 | Lives: Saint Dymphna's Aid for AI Anxieties — Ángela M. Jendro |

@@ -34,7 +34,7 @@ El hombre como *mendicanza*; «A diventa A1: l'uomo fiorisce»; los tres modos (
 
 ### El eterno satisfacerse
 
-La máxima satisfacción es *mientras* se bebe de la fuente; el hombre es *domanda* y *mendicanza*; el paraíso como satisfacción de la propia sed; «l'eternità è il contrario della non novità, è fatta di novità […] L'"avvenimento" è la categoria fondamentale dell'eterno» ([[cielo]], [[eternidad]], [[acontecimiento]]).
+La máxima satisfacción es *mientras* se bebe de la fuente; el hombre es *domanda* y *mendicanza*; el paraíso como satisfacción de la propia sed; «l'eternità è il contrario della non novità, è fatta di novità […] L'"avvenimento" è la categoría fondamentale dell'eterno» ([[cielo]], [[eternidad]], [[acontecimiento]]).
 
 ### Educar a la conciencia de ser deseo
 

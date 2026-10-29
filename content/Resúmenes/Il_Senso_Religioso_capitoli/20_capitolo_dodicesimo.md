@@ -31,7 +31,7 @@ Giussani describe dos actitudes ante la realidad: quien vuelve la espalda a la l
 
 Jesús en el Evangelio: «Os he hecho muchos signos, ¿por qué no me creéis?» (Jn 15, 22-25). La libertad afirma lo que ya ha decidido en lo más recóndito.
 
-# 2. E mondo come parabola
+# 2. E mondo come parábola
 
 La libertad se despliega en el área del signo, y el signo es un acontecimiento que hay que *interpretar*. El mundo es como una **parábola**: «Os hablo en parábolas para que viendo no vean, y oyendo no oigan» (Mt 13, 10ss.), es decir, para que emerja su libertad, lo que ya han decidido. El mundo mientras desvela, también vela.
 

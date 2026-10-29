@@ -66,4 +66,4 @@ Se funda en la [[imagen_de_dios]] y la [[creación]]; se ejerce mediante la [[ra
 
 ## Referencias
 
-- [EAC-1, Issue 1 «Creativity»: archivos 01 (Welcome Letter), 10 (Creativity and Jordan Peterson), 11 (Can Computers Create?), 09 (A Conversation with David Greenwalt), 23 (Monks, Punks, and Death to the World)]
+- [EAC-1, Issue 1 «Creativity»: archivos 01 (Welcome Letter), 10 (Creativity and Jordán Peterson), 11 (Can Computers Create?), 09 (A Conversation with David Greenwalt), 23 (Monks, Punks, and Death to the World)]

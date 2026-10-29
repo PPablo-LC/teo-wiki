@@ -27,7 +27,7 @@ La presencia tiene además un «modo» concreto que debe ser admirado y alabado:
 
 ### Giussani — Affezione e dimora (AED)
 
-En la Tischrede 41 se formula la tesis central: «Debemos hacer de la presencia de Cristo una preferencia humana»; esta frase «es el cristianismo, y es el cristianismo en su expresión suma, más aguda, que se llama virginidad» (AED, 12, 37-39). Cristo se manifiesta en la carne del creyente: «Cristo se manifiesta en mí en la medida en que lo busco dentro de todo, lo reconozco dentro de todo, lo acepto dentro de todo» (AED, 12, 259-261); «Cristo se hace presente en mi carne como un crepúsculo, sin que casi yo me dé cuenta» (AED, 12, 263). Esta presencia inaugura «otro mundo dentro del mundo» (AED, 12, 269).
+En la Tischrede 41 se fórmula la tesis central: «Debemos hacer de la presencia de Cristo una preferencia humana»; esta frase «es el cristianismo, y es el cristianismo en su expresión suma, más aguda, que se llama virginidad» (AED, 12, 37-39). Cristo se manifiesta en la carne del creyente: «Cristo se manifiesta en mí en la medida en que lo busco dentro de todo, lo reconozco dentro de todo, lo acepto dentro de todo» (AED, 12, 259-261); «Cristo se hace presente en mi carne como un crepúsculo, sin que casi yo me dé cuenta» (AED, 12, 263). Esta presencia inaugura «otro mundo dentro del mundo» (AED, 12, 269).
 
 En la Tischrede 82 se afirma el valor supremo de la palabra presencia: «Esta palabra es la más potente que exista en la vida, en el vocabulario humano: la palabra “presencia”. Sin Presencia seríamos nada... Es la Presencia la que llena el vacío» (AED, 18, 219-225). El sacrificio ante una presencia tiene dos momentos: «primero, el sacrificio de no pretender...; segundo, preferir la afirmación de una presencia a la afirmación de sí mismo» (AED, 18, 229). Y el fundamento antropológico: «cuando uno se despierta, primero se da cuenta de la presencia, después de sí» (AED, 18, 229).
 
@@ -63,7 +63,7 @@ así conversamos, discutimos de nuestras cosas» (02, 211).
 
 ### Giussani — Realtà e giovinezza. La sfida (REG)
 
-En REG la [[presencia_de_cristo]] es el factor decisivo de toda la vida, y su signo es el cambio del yo: «Se io sono cambiato, vuol dire che è presente» (S. Tomás, *De veritate*, q. 10, a. 8) (REG, 3). Es una presencia contemporánea, no un recuerdo del pasado: contra un cristianismo meramente estético, «Rapportarsi a un defunto, è un rapporto estetico: la sua vita ha perduto il pungolo» (Kierkegaard) (5). «Io sarò con voi tutti i giorni» (*Mt* 28,20): el acontecimiento debe ser presente, y lo es en la [[compañía]].
+En REG la [[presencia_de_cristo]] es el factor decisivo de toda la vida, y su signo es el cambio del yo: «Se io sono cambiato, vuol dire che è presente» (S. Tomás, *De veritate*, q. 10, a. 8) (REG, 3). Es una presencia contemporánea, no un recuerdo del pasado: contra un cristianismo meramente estético, «Rapportarsi a un defunto, è un rapporto estético: la sua vita ha perduto il pungolo» (Kierkegaard) (5). «Io sarò con voi tutti i giorni» (*Mt* 28,20): el acontecimiento debe ser presente, y lo es en la [[compañía]].
 
 Elementos centrales en REG:
 

@@ -38,4 +38,4 @@ En Caná (Jn 2,1-11) Jesús llama «Mujer» a su madre: Eva es llamada «mujer»
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `02_chapter_2`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `02_chapter_2`

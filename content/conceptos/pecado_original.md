@@ -21,6 +21,22 @@ Dios creó al hombre en santidad y justicia original. Tentado por el diablo, el 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+**La caída de los ángeles** (§391-395): Detrás de la desobediencia del hombre se halla Satán, ángel caído.
+
+**El primer pecado** (§396-400): «En este pecado, el hombre se prefirió a sí mismo en lugar de Dios» (§398). Perdió la gracia de la santidad original y la armonía con la creación.
+
+**Consecuencias** (§402-406): Todos los hombres están implicados en el pecado de Adán. «Es un pecado que será transmitido por propagación a toda la humanidad» (§404). La naturaleza humana está herida (no totalmente corrompida). El Bautismo borra el pecado original pero las consecuencias persisten (§405).
+
+**El Protoevangelio** (§410-411): Dios no abandonó al hombre. Anunció la victoria sobre el mal: la descendencia de la mujer vencerá a la serpiente (Gn 3,15).
+
+### Según el Compendio (CompDS)
+
+La narración del pecado de los orígenes describe la tentación permanente y la situación de desorden en que la humanidad se encuentra tras la caída de nuestros primeros padres [CompDS §27]. Desobedecer a Dios significa apartarse de su mirada de amor y querer administrar por cuenta propia la existencia y el actuar en el mundo.
+
+La ruptura de la relación de comunión con Dios provocó la ruptura de la unidad interior de la [[persona_humana]], de la relación de comunión entre el hombre y la mujer y de la relación armoniosa entre los hombres y las demás criaturas [CompDS §27]. En esta ruptura originaria debe buscarse la raíz más profunda de todos los males que acechan a las relaciones sociales, de todas las situaciones que atentan contra la [[dignidad_humana]], contra la [[justicia_social]] y contra la [[solidaridad]].
+
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.81 — Transmisión del pecado original:**
@@ -115,22 +131,6 @@ La dimensión original del pecado no podía tener un contrapeso adecuado más qu
 
 La raíz del pecado original se conecta con la filosofía: «el hombre se había quedado solo; solo como creador de su propia historia y de su propia civilización; solo como quien decide por sí mismo lo que es bueno y lo que es malo» [MI, cap. 2]. Esta soledad del hombre sin Dios es la consecuencia del pecado original en la cultura moderna.
 
-### Según el Catecismo (CEC)
-
-**La caída de los ángeles** (§391-395): Detrás de la desobediencia del hombre se halla Satán, ángel caído.
-
-**El primer pecado** (§396-400): «En este pecado, el hombre se prefirió a sí mismo en lugar de Dios» (§398). Perdió la gracia de la santidad original y la armonía con la creación.
-
-**Consecuencias** (§402-406): Todos los hombres están implicados en el pecado de Adán. «Es un pecado que será transmitido por propagación a toda la humanidad» (§404). La naturaleza humana está herida (no totalmente corrompida). El Bautismo borra el pecado original pero las consecuencias persisten (§405).
-
-**El Protoevangelio** (§410-411): Dios no abandonó al hombre. Anunció la victoria sobre el mal: la descendencia de la mujer vencerá a la serpiente (Gn 3,15).
-
-### Según el Compendio (CompDS)
-
-La narración del pecado de los orígenes describe la tentación permanente y la situación de desorden en que la humanidad se encuentra tras la caída de nuestros primeros padres [CompDS §27]. Desobedecer a Dios significa apartarse de su mirada de amor y querer administrar por cuenta propia la existencia y el actuar en el mundo.
-
-La ruptura de la relación de comunión con Dios provocó la ruptura de la unidad interior de la [[persona_humana]], de la relación de comunión entre el hombre y la mujer y de la relación armoniosa entre los hombres y las demás criaturas [CompDS §27]. En esta ruptura originaria debe buscarse la raíz más profunda de todos los males que acechan a las relaciones sociales, de todas las situaciones que atentan contra la [[dignidad_humana]], contra la [[justicia_social]] y contra la [[solidaridad]].
-
 ### Según Para Salvarte (PS)
 
 El P. Jorge Loring explica que «cuando nacemos a la vida natural, nacemos muertos a la vida de la gracia, porque nacemos con el pecado original» (PS §09,43). Dios creó a nuestros primeros padres en gracia, pero ellos, «cediendo a la tentación del demonio, desobedecieron». Este pecado de desobediencia fue el pecado original —un pecado de soberbia—, que «es origen de otros muchos» y «la raíz de los demás pecados de los hombres».
@@ -153,8 +153,6 @@ El **Concilio de Trento** (Sesión V, D-787-D-792) definió 5 cánones sobre el 
 
 - [D-787-D-792]
 
-### Según el Enchiridion Symbolorum (Denzinger)
-
 Miguel Bayo sostuvo errores sobre el pecado original condenados por Pío V (D‑1046–D‑1055, D‑1073):
 
 - D‑1046–D‑1048: Lo voluntario no pertenece a la esencia del pecado; el pecado original tiene naturaleza de pecado sin relación a la voluntad; es voluntario por la «voluntad habitual» del niño.
@@ -162,7 +160,6 @@ Miguel Bayo sostuvo errores sobre el pecado original condenados por Pío V (D‑
 - D‑1052–D‑1053: Todo crimen puede inficionar a los descendientes como la primera transgresión; los que nacen con vicios menores contraen tanto desmérito como los que nacen con mayores.
 - D‑1055: Dios no hubiera podido crear al hombre desde el principio tal como ahora nace.
 - D‑1073: Nadie fuera de Cristo está sin pecado original; por tanto, la Virgen María murió a causa del pecado contraído de Adán.
-
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El pecado original es el que cometieron nuestros primeros padres y que se transmite por generación a todos los hombres; es un desorden inherente en toda persona desde el momento de la concepción. Pecado actual es el cometido por el mismo sujeto y del cual es plenamente responsable. (Ele_Xto_Stos, Cap. XI, §4d)
@@ -242,7 +239,7 @@ que dan lástima, sino el intento de aniquilar la percepción de ese algo grande
 - La primera cosa «extraña» que altera el dinamismo de la naturaleza es el pecado original (Tischreden 190, 04).
 - El pecado original como **contradicción dentro de la libertad** (Tischreden 142, 14).
 - La tentación del **preconcetto** se reduce a «**farsi Dio**»; de ahí el terror a salir de la apariencia (Tischreden 200, 16).
-- *Gen* 3,5 («seréis como Dios») es «la formula del razionalismo presente» (Tischreden 188, 02).
+- *Gen* 3,5 («seréis como Dios») es «la fórmula del razionalismo presente» (Tischreden 188, 02).
 
 ## Distinciones importantes
 

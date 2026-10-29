@@ -23,7 +23,7 @@ Santo Tomás enseña que este sacramento, «en cuanto significa la fruición div
 
 ### Evangelization & Culture 11 (EAC-11)
 
-Nicholas Healy Jr. («The Eucharist and the Beatific Vision») desarrolla la dimensión escatológica del viático contra toda lectura puramente instrumental:
+Nicholas Healy Jr. («The Eucharist and the Beatific Visión») desarrolla la dimensión escatológica del viático contra toda lectura puramente instrumental:
 
 - **Tradición antigua**: los Padres llaman a la Eucaristía «medicina de inmortalidad» (Ignacio de Antioquía, *Ad Eph.* 20,2), prenda y promesa de la resurrección.
 - **Aquino**: Cristo es *simul viator et comprehensor*; tras la Ascensión permanece peregrino en su Cuerpo Místico, intercediendo «siempre vivo para interceder por nosotros» (SmTh III q.57 a.6). El viático une al moribundo con ese Cristo que cruza la meta.
@@ -65,7 +65,7 @@ El santo viático es «medicina de la inmortalidad» para el último viaje: «vi
 
 ## Referencias
 
-- Healy Jr., Nicholas J. «The Eucharist and the Beatific Vision», en *Evangelization & Culture* 11 (Spring 2022).
+- Healy Jr., Nicholas J. «The Eucharist and the Beatific Visión», en *Evangelization & Culture* 11 (Spring 2022).
 - Whittington, Fr. Richard T. «Food for the Road: The Eucharist as Viaticum», en *Evangelization & Culture* 13 (Autumn 2022).
 - Tomás de Aquino. *Summa Theologiae* III q.73 a.4.
 - Catecismo de la Iglesia Católica 1402, 1524-1525.

@@ -17,7 +17,7 @@ tags: ["resumen", "evangelization and culture - 8 capitulos"]
 - [[humildad]] — «producir humildad y mantener la sencillez»
 - [[mortificación]] — ascesis y disciplina de Felipe
 - [[pentecostés]] — el globo de fuego en las catacumbas
-- [[confesión_sacramental]] — gran amor de Felipe
+- [[confesión]]] — gran amor de Felipe
 - [[alegría_cristiana]] — alegría sin rubor (Benedicto XVI)
 - [[santidad]] — piedad sin rostro estoico
 

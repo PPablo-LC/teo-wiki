@@ -22,14 +22,14 @@ tags: ["resumen", "dare la vita per lopera di un altro capitoli"]
 - [[misterio]] — el Ser inabarcable, «Io sono, come Colui che è»; el único verdadero misterio es el «io ci sono»
 - [[oración_de_petición]] — la preghiera como «domanda di essere», única manifestación del ser participado
 - [[moralidad]] — la morale cristiana coincide con reconocer que Dios es todo
-- [[pecado]] — no reconocer que Dios es todo, como scopo y come metodo
+- [[pecado]] — no reconocer que Dios es todo, como scopo y come método
 - [[satanás]] — el estraño, el «padre de la menzogna», cuya única definición es «essere contro»
 - [[mentira]] — lo que el padre de la menzogna introduce contra la evidencia
 - [[letizia]] — el fruto de quien camina en una moralidad concebida como reconocimiento
 
 ## Contenido
 
-### 1. Una nuova partenza: l'ontologia
+### 1. Una nuova partenza: l'ontología
 
 El tema de esta primera reflexión es el lema de san Pablo: «Dio è tutto in tutto» (1Cor 15,28). Milosz, en *Miguel Mañara*, hace decir al protagonista: «Egli solo è». La Carta a los Hebreos dice: «Noi non abbiamo qui una città permanente» (Eb 13,14): esta existencia, tal como aparece llena de pretensiones en la convivencia dramática de los hombres, no es permanente; es una existencia pasajera, efímera. El Salmo 8 (vv. 4-5) pregunta qué es el hombre, y sin embargo nosotros somos «quel livello vertiginoso della natura in cui la natura vive la coscienza di se stessa»: la realidad tiene como lugar paradójico, que la contiene toda en su posibilidad de conciencia, un punto inaprensible en que todo se refleja: el yo.
 
@@ -45,7 +45,7 @@ Nichilismo y panteísmo dictan todos los comportamientos de hoy y tienen un punt
 
 ### 3. L'esistenza dell'io
 
-Nichilismo y panteísmo destruyen lo más inesorablemente grande del hombre: lo destruyen como persona. Pascal: el más pequeño pensamiento vale más que todo el universo; «tutti i corpi insieme e tutti gli spiriti insieme e tutte le loro produzioni non valgono il minimo moto di carità», que es de un orden infinitamente más elevado y sobrenatural. «L'io è quel livello della realtà in cui il reale vibra come esigenza di rapporto con l'Infinito»: se llama «anima» o «spirito» en el vocabulario tradicional. Quien reduce el yo a la animalidad degrada al hombre; su ley queda reducida a la instintividad (Sal 17,12). También el poder se realiza como posesión según una instintividad más astuta que la del león, pero idéntica como dinámica: «orgoglio, violenza, sesso» (o «l'Usura, la Lussuria e il Potere» de los *Cori da "La Rocca"* de Eliot).
+Nichilismo y panteísmo destruyen lo más inesorablemente grande del hombre: lo destruyen como persona. Pascal: el más pequeño pensamiento vale más que todo el universo; «tutti i corpi insieme e tutti gli spiriti insieme e tutte le loro produzioni non valgono il mínimo moto di carità», que es de un orden infinitamente más elevado y sobrenatural. «L'io è quel livello della realtà in cui il reale vibra come esigenza di rapporto con l'Infinito»: se llama «anima» o «spirito» en el vocabulario tradicional. Quien reduce el yo a la animalidad degrada al hombre; su ley queda reducida a la instintividad (Sal 17,12). También el poder se realiza como posesión según una instintividad más astuta que la del león, pero idéntica como dinámica: «orgoglio, violenza, sesso» (o «l'Usura, la Lussuria e il Potere» de los *Cori da "La Rocca"* de Eliot).
 
 La respuesta a la pregunta «si Dios es todo, ¿qué soy yo?» no es solo un problema filosófico, es ante todo un problema de conciencia de sí, de la persona. Si el hombre reduce el contenido de la experiencia a «nada» o a «parte indistinta», se convierte en único dueño de sí; pero si no tiene el poder, es esclavo del poder ajeno: el hijo del padre y la madre, la mujer del hombre, el ciudadano del Estado. Hasta el rapport más tierno tiene un hilo duro dentro.
 
@@ -61,7 +61,7 @@ Se domanda, pues, «di essere», que el ser se haga total en sí en todo lo que 
 
 ### 5. La scelta dell'estraneità
 
-El contrario del verdadero, del justo y del bueno es el peccato. En cada acción y en cada rapporto, el peccato es no reconocer que Dios es todo, como scopo y como metodo; es no vivir todo como afirmación de Dios, no reconocerle como origen total de escopo y método. «Egli solo è. Allora niente è nostro». La objeción a esto es veneno puesto por el «padre della menzogna»: la objeción es **idolatría de sí mismos**; en la Biblia, idolatría es el sinónimo último de peccato. El peccato es cualquier acción en la que se vuelva objeción poder decir «Dio è tutto».
+El contrario del verdadero, del justo y del bueno es el peccato. En cada acción y en cada rapporto, el peccato es no reconocer que Dios es todo, como scopo y como método; es no vivir todo como afirmación de Dios, no reconocerle como origen total de escopo y método. «Egli solo è. Allora niente è nostro». La objeción a esto es veneno puesto por el «padre della menzogna»: la objeción es **idolatría de sí mismos**; en la Biblia, idolatría es el sinónimo último de peccato. El peccato es cualquier acción en la que se vuelva objeción poder decir «Dio è tutto».
 
 Así el hombre, o busca sustraerse y esconderse ante la presencia del Ser (como Adán y Eva al principio), o se abandona a la desesperación: «Diranno ai monti: "Copriteci" e ai colli: "Cadete su di noi"» (Os 10,8), en el último de los días. En lugar de la familiaridad de Dios, que pasea con Adán y Eva a la brisa de la tarde, se produce la *scelta dell'estraneità*: siguieron a un estraño, algo extraño a su propia experiencia, el padre de la menzogna, Satán, cuya única definición es «essere contro» — no la demostración de que Dios no es todo, sino el ser contra la evidencia de que Dios es todo. Contra la evidencia de la experiencia hace aparecer al Ser como fuente de mentira y de mal. El hombre, rebelándose, adhiere al «mondo» — como dice Jesús —, la suma del poder, que por fuera no es lo que muestra ser. También Satán es un ser participado por Dios y por eso es de Dios; es la no aceptación de esto lo que lo hace infeliz a él y, por tanto, al hombre pecador.
 

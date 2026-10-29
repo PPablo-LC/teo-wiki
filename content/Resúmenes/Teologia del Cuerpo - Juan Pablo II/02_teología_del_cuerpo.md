@@ -4,7 +4,7 @@ title: "Teología del Cuerpo"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 2
 timestamp: 2026-07-28
-description: "Título general del ciclo de catequesis — Teologia del Cuerpo - Juan Pablo II"
+description: "Título general del ciclo de catequesis — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

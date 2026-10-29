@@ -34,7 +34,7 @@ El Papa Benedicto XVI, en su audiencia general del 18 de junio de 2008, recordó
 
 ## Oración a San Isidoro de Sevilla
 
-> *Almighty and Eternal God, Who has created us in Thy image and bade us to seek after all that is good, true, and beautiful, especially in the Divine Person of Thy only-begotten Son, our Lord Jesus Christ, grant we beseech Thee that, through the example of Saint Isidore, Bishop and Doctor, during our journeys through the Internet we will direct our hands and eyes only to that which is pleasing to Thee and treat with charity and patience all those souls whom we encounter. Through Christ our Lord, Amen.*
+> *Almighty and Eternal God, Who has created us in Thy image and bade us to seek after all that is good, true, and beautiful, especially in the Divine Person of Thy only-begotten Son, our Lord Jesús Christ, grant we beseech Thee that, through the example of Saint Isidore, Bishop and Doctor, during our journeys through the Internet we will direct our hands and eyes only to that which is pleasing to Thee and treat with charity and patience all those souls whom we encounter. Through Christ our Lord, Amén.*
 
 ## Relación con otras fuentes
 

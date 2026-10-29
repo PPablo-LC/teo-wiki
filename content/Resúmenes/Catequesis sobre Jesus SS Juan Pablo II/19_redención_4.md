@@ -4,7 +4,7 @@ title: "REDENCIÓN −4-"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 19
 timestamp: 2026-08-12
-description: "Resumen de 'REDENCIÓN −4-' — Catequesis sobre Jesus SS Juan Pablo II"
+description: "Resumen de 'REDENCIÓN −4-' — Catequesis sobre Jesús SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
 

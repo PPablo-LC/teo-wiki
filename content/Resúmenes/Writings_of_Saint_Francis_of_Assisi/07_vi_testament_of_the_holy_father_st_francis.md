@@ -42,6 +42,6 @@ Insiste en el trabajo manual: "Yo trabajé con las manos y quiero trabajar." Los
 
 Encomienda no recibir iglesias, moradas pobres ni otros edificios sino habitar como peregrinos y extranjeros. Prohíbe por obediencia solicitar cartas en la Curia Romana para iglesias u otros lugares.
 
-Encomienda estricta de obediencia al ministro general y al guardian. Quien no observe la Regla o no sea católico debe ser presentado al custos más cercano como prisionero, hasta llegar al Señor de Ostia, maestro protector y corrector de la hermandad.
+Encomienda estricta de obediencia al ministro general y al guardián. Quien no observe la Regla o no sea católico debe ser presentado al custos más cercano como prisionero, hasta llegar al Señor de Ostia, maestro protector y corrector de la hermandad.
 
 Concluye declarando que su Testamento no es otra Regla, sino un "recordatorio, amonestación, exhortación y mi Testamento" para observar de manera más católica la Regla prometida. Prohíbe añadir o quitar palabras, o poner glosas: debe entenderse "simplemente y puramente" como el Señor le dio a hablar y escribir.

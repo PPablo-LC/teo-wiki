@@ -32,7 +32,7 @@ tags: ["resumen", "evangelization and culture - 14"]
 
 Bishop Barron ofrece una reflexión sobre la [[evangelii_gaudium]] del Papa Francisco, la alegría de la [[evangelización]] católica y su dimensión urgente. Comienza con la analogía de una emergencia que ordena prioridades: el cristianismo se fundamenta en un «buenaventisca» (*euangelion*) — la noticia asombrosa de que «un carpintero de Nazaret, que se declaró Hijo de Dios, ha resucitado de entre los muertos». Esta urgencia evangélica es el *leitmotiv* de la exhortación: si la Iglesia lidera con doctrina cae en debates intelectuales, y si lidera con moral resulta puritana; debe liderar con la noticia de que Jesucristo es el Señor.
 
-El Papa Francisco cita numerosas referencias bíblicas a la alegría: el «¡Alégrate!» del ángel a María, el *Magnificat* de la Virgen, la promesa de Jesús de que «mi alegría esté en ustedes y su alegría sea plena», y la narración de los Hechos donde donde los discípulos iba había «gran alegría». Condena a los cristianos que se vuelven «pesimistas regañones y desilusionados, cara de vinagre», cuyas vidas parecen «Cuaresma sin Pascua».
+El Papa Francisco cita numerosas referencias bíblicas a la alegría: el «¡Alégrate!» del ángel a María, el *Magníficat* de la Virgen, la promesa de Jesús de que «mi alegría esté en ustedes y su alegría sea plena», y la narración de los Hechos donde donde los discípulos iba había «gran alegría». Condena a los cristianos que se vuelven «pesimistas regañones y desilusionados, cara de vinagre», cuyas vidas parecen «Cuaresma sin Pascua».
 
 ### La Iglesia como banda de «discípulos misioneros»
 

@@ -29,13 +29,13 @@ La Iglesia ha preferido tradicionalmente la inhumación (sepultura del cuerpo) p
 
 El c. 1176 §3 establece: «La Iglesia aconseja vivamente que se conserve la piadosa costumbre de sepultar el cadáver de los difuntos; sin embargo, no prohíbe la cremación, a no ser que haya sido elegida por razones contrarias a la doctrina cristiana». El §2 dispone que las exequias se celebren según las normas litúrgicas, que actualmente prevén la posibilidad de celebrar la Misa de exequias en presencia de las cenizas.
 
+### Según el Comentario al CIC (Eunsa)
+
+El Comentario Eunsa explica que el c. 1176 §3 admite la cremación como excepción, manteniendo el ideal de la inhumación. La razón de la tradición sepulcral no es la creencia de que la incineración impida la resurrección (error que la Iglesia nunca enseñó), sino el respeto simbólico al cuerpo que fue templo del Espíritu y que espera la glorificación. La Instrucción Ad resurgendum cum Christo (2016) precisa: las cenizas deben conservarse en un lugar sagrado (cementerio, iglesia) y no repartirse, conservarse en casa o convertirse en joyas.
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **León XIII** — Decretos del Santo Oficio (19 de mayo y 15 de diciembre de 1886, D‑1863–D‑1864): Respondió que no es lícito dar el nombre a las sociedades cuyo fin es promover la cremación de cadáveres humanos, y que quien lo hiciere y fueren sociedades filiales de la masónica incurre en las penas de esta. Tampoco es lícito mandar que se quemen los propios cadáveres o los de otros. Respecto a quienes no eligieron la cremación por propia voluntad (sino por ajena), pueden cumplirse los ritos y sufragios de la Iglesia, removido el escándalo, pero no en el lugar de la cremación. Para quienes por propia voluntad escogieron la cremación y perseveraron en ella hasta la muerte, debe negarse la sepultura eclesiástica conforme al Ritual Romano.
 
-### Según el Comentario al CIC (Eunsa)
-
-El Comentario Eunsa explica que el c. 1176 §3 admite la cremación como excepción, manteniendo el ideal de la inhumación. La razón de la tradición sepulcral no es la creencia de que la incineración impida la resurrección (error que la Iglesia nunca enseñó), sino el respeto simbólico al cuerpo que fue templo del Espíritu y que espera la glorificación. La Instrucción Ad resurgendum cum Christo (2016) precisa: las cenizas deben conservarse en un lugar sagrado (cementerio, iglesia) y no repartirse, conservarse en casa o convertirse en joyas.
 
 ## Distinciones importantes
 

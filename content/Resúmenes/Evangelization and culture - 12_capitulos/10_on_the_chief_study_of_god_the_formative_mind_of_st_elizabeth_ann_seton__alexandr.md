@@ -32,7 +32,7 @@ tags: ["resumen", "evangelization_and_culture_12", "santa_isabel_ana_seton", "ed
 
 2. **Matrimonio y maternidad** — A los 19 casa con William Magee Seton (comercio importación). 5 hijos en 7 años. Activa en iglesia episcopal Trinity, asiste enfermos/moribundos. Carta a cuñada (1795): *"Que tu principal estudio sea conocerte a Dios, porque no hay nada mayor que Dios, y es el único conocimiento que puede llenar el Corazón de una paz y gozo que nada puede perturbar"*. Esta frase define su vida.
 
-3. **Ruina y viudedad** — Negocio de William quiebra, pierden casa. William enferma tuberculosis (1803). Viajan a Italia con hija mayor Anna Maria buscando aire fresco. William muere en Italia. Isabel viuda a los 29, bancarrota, 5 hijos pequeños.
+3. **Ruina y viudedad** — Negocio de William quiebra, pierden casa. William enferma tuberculosis (1803). Viajan a Italia con hija mayor Anna María buscando aire fresco. William muere en Italia. Isabel viuda a los 29, bancarrota, 5 hijos pequeños.
 
 4. **Conversión al catolicismo** — En Italia, hospedada por familia Filicchi (amigos/negocios de William). Aprende catolicismo: liturgia, sucesión apostólica, **Presencia Real en la Eucaristía**. "Reacciona no como turista sino como quien es movido por el catolicismo". Ama el arte, cultura de santos, intercesión, la Misa. Marzo 25, 1805: Primera Comunión en St. Peter's NYC. "Mi Rey había venido a tomar Su trono... triunfo de gozo y alegría".
 

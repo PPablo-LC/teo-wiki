@@ -21,6 +21,10 @@ El homicidio es pecado contra la justicia conmutativa, pues priva al prójimo de
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §2258-2330: Tratado del quinto mandamiento. §2268-2269: Homicidio directo y voluntario gravemente ilícito. §2270-2275: Aborto. §2276-2279: Eutanasia. §2282-2283: Suicidio. §2302-2306: Legítima defensa.
+
 ### Según la Summa Theologiae (SmTh)
 
 **El homicidio (Q64):** Santo Tomás trata el homicidio como pecado contra la justicia, pues la vida es el bien más fundamental del hombre y el único principio de todos los demás bienes (q.64 a.1).
@@ -43,10 +47,6 @@ Normas especiales:
 3. **Encarcelamiento injusto** (q.65 a.3): privar a alguien de la libertad sin causa justa es pecado contra la justicia. El encarcelamiento solo es lícito por autoridad legítima y con causa proporcionada.
 
 Toda injusticia contra la persona física obliga a la [[restitución]] de los daños causados (q.65 a.4).
-
-### Según el Catecismo (CEC)
-
-CEC §2258-2330: Tratado del quinto mandamiento. §2268-2269: Homicidio directo y voluntario gravemente ilícito. §2270-2275: Aborto. §2276-2279: Eutanasia. §2282-2283: Suicidio. §2302-2306: Legítima defensa.
 
 ### Según Royo Marín (TPCr)
 

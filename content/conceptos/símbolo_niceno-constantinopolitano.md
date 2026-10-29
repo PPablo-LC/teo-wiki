@@ -22,14 +22,14 @@ El Símbolo articula la fe en un solo Dios en tres Personas: Padre todopoderoso,
 
 ## Perspectivas por fuente
 
+### Según el Catecismo de la Iglesia Católica
+El CEC remite con frecuencia al Símbolo apostólico y al niceno-constantinopolitano como profesiones de fe de la Iglesia, que resumen el misterio trinitario y cristológico.
 ### Según el Denzinger
 El *Enchiridion Symbolorum* recoge numerosas referencias al Símbolo niceno y al niceno-constantinopolitano (D-9, D-13, D-54, D-86, D-117, D-121, D-782, D-1083, D-1459-1473), mostrando su uso como norma de fe, su carácter inalterable y su profesión obligatoria en distintos contextos (bautismo, consagración de obispos, recepción de orientales, etc.).
 
 ### Según la Historia de la Iglesia (Rivero)
 P. Antonio Rivero presenta Nicea I (325) como primer concilio ecuménico, con el Credo niceno contra el arrianismo, y Constantinopla I (381) con el Credo niceno-constantinopolitano.
 
-### Según el Catecismo de la Iglesia Católica
-El CEC remite con frecuencia al Símbolo apostólico y al niceno-constantinopolitano como profesiones de fe de la Iglesia, que resumen el misterio trinitario y cristológico.
 
 ## Distinciones importantes
 

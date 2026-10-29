@@ -33,14 +33,6 @@ En el NT, la virginidad por el Reino adquiere un valor nuevo. Jesús enseña que
 
 La Virgen María es el modelo perfecto de virginidad: es la «Virgen» por excelencia (Lc 1,27). Su virginidad perpetua (antes, en y después del parto) es dogma de fe. La virginidad consagrada es vocación de especial consagración a Dios. El Apocalipsis presenta a los 144.000 que «no se mancillaron con mujeres; son vírgenes» (Ap 14,4), imagen de la entrega total a Cristo.
 
-### Según Para Salvarte (PS)
-
-El P. Jorge Loring aborda la virginidad desde dos perspectivas complementarias. Por un lado, afirma que «el mejor regalo de bodas que espera una persona es la virginidad de su pareja» (PS §12,68,13), destacando el valor de la virginidad como don de uno mismo en el matrimonio. Por otro lado, enseña que la virginidad perpetua por el Reino de los cielos es un estado más excelente, que permite consagrarse enteramente al servicio de Dios, siguiendo el ejemplo de Cristo, que fue célibe, y de la Virgen María, que fue «virgen antes del parto, en el parto y después del parto» (PS §05,30,3). El celibato sacerdotal tiene su fundamento en que «Cristo fue célibe, y el sacerdote es alter Christus» (PS §13,97,6).
-
-### Según Juan Pablo II (PDV)
-
-*Pastores dabo vobis* trata la virginidad en el contexto de la castidad célibe del sacerdote (PDV 29). La virginidad realiza, en la renuncia al matrimonio, «el significado esponsalicio del cuerpo mediante una comunión y una donación personal a Jesucristo y a su Iglesia, que prefiguran y anticipan la comunión y la donación perfectas y definitivas del más allá» (PDV 29). La virginidad es espera, incluso corporal, de las bodas escatológicas de Cristo con la Iglesia (cf. *Familiaris consortio* 16). En la virginidad la castidad mantiene su significado original: el de una sexualidad humana vivida como auténtica manifestación y precioso servicio al amor de comunión y de donación interpersonal (PDV 29).
-
 ### Según la Summa Theologiae (SmTh)
 
 #### Q152: La virginidad
@@ -57,6 +49,14 @@ El P. Jorge Loring aborda la virginidad desde dos perspectivas complementarias. 
 Sin embargo, la virginidad no es la más excelente de todas las virtudes: la caridad, la fe, la humildad y la paciencia en el martirio la superan. La virginidad sin caridad es como lámpara sin aceite.
 
 **Suplemento (Suppl., q.96 a.5):** La virginidad merece una aureola (premio accidental especial) en el cielo, por ser una victoria señalada sobre la concupiscencia de la carne. La aureola se debe no a la mera integridad física, sino al propósito virtuoso de observar perpetua virginidad por el Reino de los cielos, esté o no confirmado por voto (q.96 a.5). La Santísima Virgen María posee la aureola de virginidad en grado eminente, aunque no experimentó el conflicto interior de la concupiscencia (q.96 a.5 ad 2). La aureola de los vírgenes es la mayor de las tres aureolas (virginidad, martirio, doctrina), porque la victoria sobre la concupiscencia interna es perpetua y universal (q.96 a.12).
+
+### Según Para Salvarte (PS)
+
+El P. Jorge Loring aborda la virginidad desde dos perspectivas complementarias. Por un lado, afirma que «el mejor regalo de bodas que espera una persona es la virginidad de su pareja» (PS §12,68,13), destacando el valor de la virginidad como don de uno mismo en el matrimonio. Por otro lado, enseña que la virginidad perpetua por el Reino de los cielos es un estado más excelente, que permite consagrarse enteramente al servicio de Dios, siguiendo el ejemplo de Cristo, que fue célibe, y de la Virgen María, que fue «virgen antes del parto, en el parto y después del parto» (PS §05,30,3). El celibato sacerdotal tiene su fundamento en que «Cristo fue célibe, y el sacerdote es alter Christus» (PS §13,97,6).
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* trata la virginidad en el contexto de la castidad célibe del sacerdote (PDV 29). La virginidad realiza, en la renuncia al matrimonio, «el significado esponsalicio del cuerpo mediante una comunión y una donación personal a Jesucristo y a su Iglesia, que prefiguran y anticipan la comunión y la donación perfectas y definitivas del más allá» (PDV 29). La virginidad es espera, incluso corporal, de las bodas escatológicas de Cristo con la Iglesia (cf. *Familiaris consortio* 16). En la virginidad la castidad mantiene su significado original: el de una sexualidad humana vivida como auténtica manifestación y precioso servicio al amor de comunión y de donación interpersonal (PDV 29).
 
 ### Según la Teología del Cuerpo (TdC)
 
@@ -96,7 +96,7 @@ del reino de los cielos» (Mt 19; 03, 233).
 
 ### Giussani — *Quasi Tischreden*, vol. 4 (QT4)
 
-- La elección consciente de la virginidad es «il più potente metodo per testimoniare che Cristo è: **perché cambia**» (Tischreden 190, 04).
+- La elección consciente de la virginidad es «il più potente método per testimoniare che Cristo è: **perché cambia**» (Tischreden 190, 04).
 - La virginidad exige el **deseo de felicidad** y la **conciencia del destino**; sin ellos es frágil (Tischreden 196, 07).
 - El **milagro de la virginidad**: la suprema forma de milagro (salvo el martirio); la oposición a ella es irreligiosidad (= irracionalidad) (Tischreden 148, 17).
 - La virginidad manifiesta la **familiaridad suprema** de Dios (Encarnación) (17).

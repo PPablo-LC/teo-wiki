@@ -37,7 +37,7 @@ La contrición es la disposición fundamental para la recepción del sacramento 
 
 La contrición debe ser: profunda y humilde, íntegra, universal, y frecuente. «Si se tiene conciencia de haber pecado mortalmente, no acercarse a la Eucaristía sin haber recibido previamente la absolución en el sacramento de la Penitencia, a no ser que concurra un motivo grave y no haya posibilidad de confesarse; y, en este caso, tenga presente que está obligado a hacer un acto de contrición perfecta, que incluye el propósito de confesarse cuanto antes» (TPCr, Tercera Parte, Libro II, Cap. I).
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 La objeción «¿cómo puedo arrepentirme de pecados que siguen fascinándome, y
 cómo prometer lo que casi seguro volveré a hacer?» recibe en Sicari una

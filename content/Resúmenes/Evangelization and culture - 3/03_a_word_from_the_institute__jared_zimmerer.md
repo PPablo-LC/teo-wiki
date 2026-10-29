@@ -12,9 +12,9 @@ tags: ["resumen", "evangelization_and_culture", "evangelización_digital"]
 
 ## Conceptos básicos referenciados
 
-- [[evangelización_digital]] — el Areopago digital
+- [[evangelización_digital]] — el Areópago digital
 - [[nones]] — personas sin afiliación religiosa que buscan sentido
 
 ## Contenido
 
-Jared Zimmerer presenta la visión del número sobre la era digital. San Pablo proclamó al «dios desconocido» en el Areopago; las redes sociales son el nuevo Areopago para la evangelización. El Instituto ofrece formación para evangelistas, incluyendo el curso de Fr. Gadberry sobre personalidades y sistemas de creencias. Los «nones» (no afiliados) buscan respuestas a preguntas de sentido, propósito y amor; los debates «ad intra» no les interesan. Dave Rubin se presenta como modelo de cortesía digital.
+Jared Zimmerer presenta la visión del número sobre la era digital. San Pablo proclamó al «dios desconocido» en el Areópago; las redes sociales son el nuevo Areópago para la evangelización. El Instituto ofrece formación para evangelistas, incluyendo el curso de Fr. Gadberry sobre personalidades y sistemas de creencias. Los «nones» (no afiliados) buscan respuestas a preguntas de sentido, propósito y amor; los debates «ad intra» no les interesan. Dave Rubin se presenta como modelo de cortesía digital.

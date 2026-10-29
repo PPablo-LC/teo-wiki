@@ -21,6 +21,9 @@ El temor filial fortalece el vínculo de amor con Dios (Santo Tomás) y mantiene
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae
+
+El don de temor pertenece al Espíritu Santo (II-II, q.19): teme separarse de Dios por el amor que le tiene. La presunción se opone al temor filial por exceso de confianza desordenada.
 ### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
 
 En *Soul* (22_soul_swan.md), Fr. Billy Swan ofrece dirección espiritual «para los temerosos» y distingue:
@@ -30,9 +33,6 @@ En *Soul* (22_soul_swan.md), Fr. Billy Swan ofrece dirección espiritual «para 
 - **Temor filial vs. servil**: Santo Tomás, el temor filial fortalece el vínculo de amor; el temor de Dios es principio de sabiduría (Sal 111,10).
 - **«No temáis»**: el acto final de confianza ante la muerte (unción de los enfermos; comendar el espíritu al Padre) deja solo el temor del Señor.
 
-### Según la Summa Theologiae
-
-El don de temor pertenece al Espíritu Santo (II-II, q.19): teme separarse de Dios por el amor que le tiene. La presunción se opone al temor filial por exceso de confianza desordenada.
 
 ## Relaciones doctrinales
 

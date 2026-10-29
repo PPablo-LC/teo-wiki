@@ -39,7 +39,7 @@ algunas en Tierra Santa, donde conviven con un estilo de trabajo y acogida
 que don [[luigi_giussani]] presenta como signo de la permanencia del
 [[hecho_cristiano]]. En el volumen se describe el testimonio de tres
 «giovanissimi» Memores en Nazaret: «era evidentissimo in loro come il lavoro
-della professione profetica non lasci tregua a ogni azione e ogni azione è
+della professione profética non lasci tregua a ogni azione e ogni azione è
 "offerta a"» (TACDC, 03, 89).
 
 El nombre alude así a una espiritualidad de la **memoria**: hacer memoria

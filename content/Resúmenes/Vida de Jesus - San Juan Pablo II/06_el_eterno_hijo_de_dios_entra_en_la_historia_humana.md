@@ -4,7 +4,7 @@ title: "EL ETERNO HIJO DE DIOS ENTRA EN LA HISTORIA HUMANA"
 fuente: Vida de Jesus - San Juan Pablo II
 capítulo: 6
 timestamp: 2026-08-24
-description: "Resumen de 'EL ETERNO HIJO DE DIOS ENTRA EN LA HISTORIA HUMANA' — Vida de Jesus - San Juan Pablo II"
+description: "Resumen de 'EL ETERNO HIJO DE DIOS ENTRA EN LA HISTORIA HUMANA' — Vida de Jesús - San Juan Pablo II"
 tags: ["resumen", "vida de jesus - san juan pablo ii"]
 ---
 
@@ -60,7 +60,7 @@ El saludo de María suscita en el hijo de Isabel un salto de gozo: la entrada de
 
 #### María responde a las alabanzas de Isabel rezando
 
-El *Magnificat* es una inspirada profesión de fe, respuesta de la Virgen al misterio de la Anunciación, expresión del éxtasis de su corazón y de la experiencia del rostro de Dios. Inspirado en textos del Antiguo Testamento y en el cántico de Ana, celebra la grandeza del Poderoso y Misericordioso que «ha mirado la humillación de su esclava»; predice que todas las generaciones la llamarán dichosa, siendo primicia de las expresiones de culto a la Virgen. Su lectura sapiencial de la historia muestra los criterios de la acción de Dios: enaltece a los humildes y despide vacíos a los ricos; lo que atrae la benevolencia de Dios es la humildad de corazón. El cántico exalta la fidelidad de Dios a las promesas hechas a Abraham; es «el canto de María» y debe convertirse en el canto de cada día de nuestra vida.
+El *Magníficat* es una inspirada profesión de fe, respuesta de la Virgen al misterio de la Anunciación, expresión del éxtasis de su corazón y de la experiencia del rostro de Dios. Inspirado en textos del Antiguo Testamento y en el cántico de Ana, celebra la grandeza del Poderoso y Misericordioso que «ha mirado la humillación de su esclava»; predice que todas las generaciones la llamarán dichosa, siendo primicia de las expresiones de culto a la Virgen. Su lectura sapiencial de la historia muestra los criterios de la acción de Dios: enaltece a los humildes y despide vacíos a los ricos; lo que atrae la benevolencia de Dios es la humildad de corazón. El cántico exalta la fidelidad de Dios a las promesas hechas a Abraham; es «el canto de María» y debe convertirse en el canto de cada día de nuestra vida.
 
 ### El Nacimiento del Niño Jesús
 
@@ -78,7 +78,7 @@ María «conservaba todas estas cosas y las meditaba en su corazón»: la mujer 
 
 #### Los pastores de Belén son los primeros en conocer la Buena Nueva
 
-Jesús, rechazado por los suyos, es acogido por los pastores, elegidos por Dios para ser los primeros destinatarios de la buena nueva. El mensaje del ángel es invitación a la alegría y exhortación a vencer el miedo (*no temáis*); el cántico *Gloria a Dios en las alturas* revela lo que María expresó en su *Magnificat*: el nacimiento de Jesús es signo del amor misericordioso de Dios hacia los humildes y pobres. Los pastores responden con entusiasmo, encuentran a María, José y el niño, y se vuelven dando gloria a Dios. La experiencia sugiere la necesidad de una profunda relación espiritual con María para conocer mejor a Jesús y ser heraldos de su Evangelio. El Mesías ha nacido, el *Emmanuel*, Dios con nosotros; con su venida ha derrotado el poder del mal, nos ha liberado de la muerte y nos ha readmitido al convite de la vida. Hemos de volver de la gruta de Belén contando el prodigio del que hemos sido testigos.
+Jesús, rechazado por los suyos, es acogido por los pastores, elegidos por Dios para ser los primeros destinatarios de la buena nueva. El mensaje del ángel es invitación a la alegría y exhortación a vencer el miedo (*no temáis*); el cántico *Gloria a Dios en las alturas* revela lo que María expresó en su *Magníficat*: el nacimiento de Jesús es signo del amor misericordioso de Dios hacia los humildes y pobres. Los pastores responden con entusiasmo, encuentran a María, José y el niño, y se vuelven dando gloria a Dios. La experiencia sugiere la necesidad de una profunda relación espiritual con María para conocer mejor a Jesús y ser heraldos de su Evangelio. El Mesías ha nacido, el *Emmanuel*, Dios con nosotros; con su venida ha derrotado el poder del mal, nos ha liberado de la muerte y nos ha readmitido al convite de la vida. Hemos de volver de la gruta de Belén contando el prodigio del que hemos sido testigos.
 
 #### Le pusieron de nombre Jesús
 

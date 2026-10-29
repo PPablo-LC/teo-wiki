@@ -17,7 +17,7 @@ tags: ["resumen", "asi mueren los santos capitulos"]
 ## Contenido
 
 Ficha editorial de la obra: **Así mueren los santos. 100 relatos de vida
-y resurrección**, de Antonio Maria Sicari OCD, Ediciones Rialp, Madrid
+y resurrección**, de Antonio María Sicari OCD, Ediciones Rialp, Madrid
 2020 (título original: *Come muoiono i santi*, Edizioni Ares, Milano
 2016; versión española de Miguel Martín). ISBN 978-84-321-5252-8
 (impresa) y 978-84-321-5253-5 (digital).

@@ -4,7 +4,7 @@ title: "100. La sacramentalidad del matrimonio y la redención del cuerpo"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 18
 timestamp: 2026-08-01
-description: "Catequesis 100: Bautismo y Eucaristía aludidos en Ef 5, la Iglesia como gran sacramento, y las palabras de Cristo a los fariseos desde la profundidad de la redención del cuerpo — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 100: Bautismo y Eucaristía aludidos en Ef 5, la Iglesia como gran sacramento, y las palabras de Cristo a los fariseos desde la profundidad de la redención del cuerpo — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

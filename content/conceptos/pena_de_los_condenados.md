@@ -57,6 +57,18 @@ Santo Tomás dedica las cuestiones 97 y 98 del Suplemento a la pena de los conde
 
 *Visión de la gloria de los bienaventurados (q.98 a.9):* Antes del juicio final, los condenados ven la gloria de los bienaventurados, lo que aumenta su tormento por envidia (q.98 a.9). Después del juicio, son privados de esta visión, lo que también aumenta su pena.
 
+**Suppl. q.99 — Eternidad de la pena y misericordia de Dios:**
+
+*Medida de la pena (q.99 a.1):* La pena se mide por su gravedad y por su duración. La gravedad corresponde a la culpa, pero la duración no se mide por la duración del acto —un adulterio momentáneo no merece una pena momentánea—, sino porque se pecó contra un bien eterno y se despreció la vida eterna; la voluntad perseveró en el mal, y por eso la justicia del juez no pone fin al castigo (q.99 a.1).
+
+*La misericordia no acaba con la pena de los demonios (q.99 a.2):* Origen erró al sostener que los demonios serían liberados por la misericordia divina; la Iglesia lo condenó por la Escritura —«serán atormentados día y noche por los siglos de los siglos» (Ap 20,9-10)— y porque su obstinación es irrevocable. La misericordia de Dios se rige por el orden de su sabiduría y no alcanza a quien se hace indigno de ella; aun así tiene lugar en ellos, en cuanto son castigados menos de lo que merecen (q.99 a.2).
+
+*Tampoco la de los hombres que mueren sin caridad (q.99 a.3):* Quienes admiten que los demonios son castigados para siempre pero que todos los hombres, aun los infieles, se liberarán, dicen algo irracional: la muerte es para los hombres lo que la caída para los ángeles, y quien muere sin caridad queda obstinado (q.99 a.3).
+
+*No basta recibir los sacramentos (q.99 a.4):* Algunos prometieron la exención de la pena eterna a quienes recibieran los sacramentos de la fe; pero hay quienes los reciben sin tener la fe, y sin ella es imposible agradar a Dios. Solo la fe informada por la caridad salva, y a ella se opone no solo la infidelidad, sino cualquier pecado mortal (q.99 a.4).
+
+*No bastan las obras de misericordia sin caridad (q.99 a.5):* Quienes sostuvieron que se librarían todos los que perseveraran en obras de misericordia, aunque fueran reos de otros crímenes, no pueden mantenerse: sin caridad nada es aceptable a Dios ni aprovecha para la vida eterna. Quien es misericordioso con otros y negligente consigo no usa de misericordia ordenadamente, y no obtiene la misericordia que libra del todo, aunque alcance la que rebaja en algo la pena (q.99 a.5).
+
 ## Distinciones importantes
 
 - **Pena de daño** (privación de Dios) ≠ **pena de sentido** (sufrimiento de la criatura)
@@ -76,3 +88,4 @@ Se relaciona con [[infierno]], [[justicia_divina]], [[pecado_mortal]], [[juicio_
 
 - [SmTh, Suppl. q.97 a.1-7]
 - [SmTh, Suppl. q.98 a.1-9]
+- [SmTh, Suppl. q.99 a.1-5]

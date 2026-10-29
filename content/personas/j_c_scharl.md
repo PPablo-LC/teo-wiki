@@ -3,7 +3,7 @@ type: Persona
 title: "J.C. Scharl"
 tags: ["poetas", "literatura_católica"]
 timestamp: 2026-09-05
-description: "J.C. Scharl, poeta; autor de 'The Conversion of St. Ignatius', poema del número dedicado a la conversión de EAC-18."
+description: "J.C. Scharl, poeta; autor de 'The Conversión of St. Ignatius', poema del número dedicado a la conversión de EAC-18."
 ---
 
 # J.C. Scharl
@@ -13,7 +13,7 @@ description: "J.C. Scharl, poeta; autor de 'The Conversion of St. Ignatius', poe
 
 ## Contexto histórico
 
-J.C. Scharl es un poeta que publica en EAC-18 el poema «The Conversion of St. Ignatius», dedicado a la conversión de [[san_ignacio_de_loyola]] tras ser herido en la batalla de Pamplona (1521). No se dispone de más datos biográficos en la fuente: solo el poema, que ocupa el lugar de la sección *Poetry* del número.
+J.C. Scharl es un poeta que publica en EAC-18 el poema «The Conversión of St. Ignatius», dedicado a la conversión de [[san_ignacio_de_loyola]] tras ser herido en la batalla de Pamplona (1521). No se dispone de más datos biográficos en la fuente: solo el poema, que ocupa el lugar de la sección *Poetry* del número.
 
 ## Relevancia teológica
 
@@ -23,7 +23,7 @@ Su poema desarrolla la paradoja central de la conversión ignaciana: la humillac
 
 ### Según EAC-18 — Word on Fire Institute
 
-**J.C. Scharl** («Poetry: The Conversion of St. Ignatius», 19_poetry_ignatius.md) narra en verso la conversión de San Ignacio, retratando a través de la herida la metanoia que labra el mundo del alma:
+**J.C. Scharl** («Poetry: The Conversión of St. Ignatius», 19_poetry_ignatius.md) narra en verso la conversión de San Ignacio, retratando a través de la herida la metanoia que labra el mundo del alma:
 
 > Porque no espero ya volver a blandir
 > mi espada en la batalla sobre esta tierra que se tambalea;
@@ -48,4 +48,4 @@ Su poema desarrolla la paradoja central de la conversión ignaciana: la humillac
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (J.C. Scharl, 19_poetry_ignatius.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (J.C. Scharl, 19_poetry_ignatius.md).

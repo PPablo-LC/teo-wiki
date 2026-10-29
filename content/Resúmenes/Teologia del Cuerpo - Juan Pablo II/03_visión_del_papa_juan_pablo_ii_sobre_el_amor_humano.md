@@ -4,7 +4,7 @@ title: "Visión del Papa Juan Pablo II sobre el amor humano"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 3
 timestamp: 2026-07-28
-description: "Introducción general a la visión del amor humano según Juan Pablo II — Teologia del Cuerpo - Juan Pablo II"
+description: "Introducción general a la visión del amor humano según Juan Pablo II — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

@@ -17,7 +17,7 @@ Los dolores que la Virgen [[virgen_maría]] padeció durante la Pasión y Muerte
 
 ## Perspectivas por fuente
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre dedica el capítulo 6 a los dolores de María y ofrece una solución a la aparente contradicción entre dos profecías:
 
@@ -37,4 +37,4 @@ La lectura permite mantener a la vez la exención de los dolores físicos del pa
 ## Referencias
 
 - Is 66,7-9; Miq 4,9-10; 5,2-3; Lc 2,35; Jn 19,25-27; Ap 12,2
-- Brant Pitre, *Jesus and the Jewish Roots of Mary*, cap. 6 (JRM)
+- Brant Pitre, *Jesús and the Jewish Roots of Mary*, cap. 6 (JRM)

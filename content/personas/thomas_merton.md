@@ -80,4 +80,4 @@ Barron recoge además la célebre fórmula de la [[conversión_continua]]: «No 
 - Merton, Thomas. *The Seven Storey Mountain*. Harcourt, 1948.
 - Merton, Thomas. *New Seeds of Contemplation*. New Directions, 1961.
 - Merton, Thomas. *Conjectures of a Guilty Bystander*. Doubleday, 1966.
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).

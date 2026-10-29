@@ -20,7 +20,7 @@ tags: ["resumen", "juventud", "poder", "educación"]
 - [[juventud]] — atteggiamento del cuore, no una edad
 - [[persona]] — irriducibile a todo poder humano
 - [[poder]] — el que fascina a los jóvenes, ayer y hoy
-- [[deseo]] — «il fenomeno del desiderio», la molla de todo problema
+- [[deseo]] — «il fenómeno del desiderio», la molla de todo problema
 - [[educación]] — «il positivo esito di ogni ipotesi riconciliativa»
 - [[comunione_e_liberazione]] — el movimiento nacido a mediados de los Cincuenta
 
@@ -34,26 +34,26 @@ tags: ["resumen", "juventud", "poder", "educación"]
 
 ## Perfil de Luigi Giussani
 
-- Estudia en la Facoltà teologica di Venegono, donde enseña algunos años; en los Cincuenta deja el seminario por la escuela superior. «Dal 1964 al 1990 insegna Introduzione alla Teologia all'Università Cattolica di Milano».
+- Estudia en la Facoltà teológica di Venegono, donde enseña algunos años; en los Cincuenta deja el seminario por la escuela superior. «Dal 1964 al 1990 insegna Introduzione alla Teología all'Università Cattolica di Milano».
 - Entre sus obras: *Il senso religioso*, *Perché la Chiesa*, *Il rischio educativo*, *All'origine della pretesa cristiana*, *Dalla liturgia vissuta*, *Una strana compagnia*.
 - «Dalla metà degli anni Cinquanta dà vita al movimento di Comunione e Liberazione, oggi presente in Italia e in circa novanta Paesi in tutto il mondo».
 
 ## Prefazione de Julián Carrón (2018)
 
 - «Anche oggi il potere esercita un fascino sui giovani»; nuevas formas tras los totalitarismos del Novecento: populismo, nacionalismo, «uomo forte», «le nuove forme di condizionamento che sono i social media».
-- Muchos padres se asombran de los hijos «senza rendersi conto che sono la logica conseguenza dell'angustia che sono riusciti a trasmettere nel “disperato impegno” di assicurare loro un futuro senza rischi».
+- Muchos padres se asombran de los hijos «senza rendersi conto che sono la lógica conseguenza dell'angustia che sono riusciti a trasmettere nel “disperato impegno” di assicurare loro un futuro senza rischi».
 - Ernesto Sabato: «La nostalgia di questo assoluto è come lo sfondo, invisibile, inconoscibile, ma con il quale confrontiamo tutta la vita».
-- La joven catalana ante el referéndum del 1-X-2017 desenmascara la ideología: «Mi trovo davanti a un uomo che scommette tutta la sua vita su questo, un uomo la cui felicità dipende da una decisione politica».
+- La joven catalana ante el referéndum del 1-X-2017 desenmascara la ideología: «Mi trovo davanti a un uomo che scommette tutta la sua vita su questo, un uomo la cui felicità dipende da una decisione política».
 - «Quando […] una egemonia culturale e sociale tende a penetrare il cuore […] allora *è venuto il tempo della persona*»: «La persona, fragile quanto si vuole, è irriducibile perché è definita da un bisogno di assoluto che nessun potere umano può soddisfare».
-- «è il fenomeno del *desiderio*. Il desiderio che ci spinge alla soluzione dei problemi […] in ultima analisi incarna quella attrattiva profonda con cui Dio ci chiama a Sé».
+- «è il fenómeno del *desiderio*. Il desiderio che ci spinge alla soluzione dei problemi […] in ultima analisi incarna quella attrattiva profonda con cui Dio ci chiama a Sé».
 - «Dio è diventato uomo per coinvolgersi con noi nell'avventura per salvare il nostro desiderio»; «Il cristianesimo diventa simpatico in quanto viene scoperto come ipotesi migliore nel quadro naturale dei fattori umani».
 
 ## Premessa de Luigi Giussani (febbraio 1995)
 
 - «Tutte le filosofie e le politiche hanno avuto il loro campo di azione ideale e di promessa nella giovinezza»; «il potere, che la società si dà o si permette di avere, ha un'incidenza enorme sulla gioventù».
 - «Tale azione del potere risulta tanto più grande quanto più esso si mostra e pretende di apparire rispettoso delle esigenze fondamentali dell'uomo»; de aquí el «equivoco ricattatorio».
-- Los totalitarismos rechazados (hitlerismo, fascismo, comunismo), «supreme forme di attribuzione del divino alla stessa azione politica», reaparecen en los jóvenes como visión de una «terra promessa».
-- MacIntyre: «il nichilismo implicito in tanta parte della protesta giovanile contro le istituzioni è l'esito naturale della difesa delle istituzioni dello *status quo* come le uniche possibili».
+- Los totalitarismos rechazados (hitlerismo, fascismo, comunismo), «supreme forme di attribuzione del divino alla stessa azione política», reaparecen en los jóvenes como visión de una «terra promessa».
+- MacIntyre: «il nichilismo implícito in tanta parte della protesta giovanile contro le istituzioni è l'esito naturale della difesa delle istituzioni dello *status quo* come le uniche possibili».
 - Frente al poder nadie redime: «non lo Stato […] non la Chiesa, in cui il conclamato Mistero cedeva i propri diritti»; «la povera famiglia, che la natura ha creato, è rimasta un punto di resistenza».
 - «Il cristianesimo diventa simpatico in quanto viene scoperto come ipotesi migliore nel quadro naturale dei fattori umani. Per sua natura è l'ideale di una formazione dei giovani».
 - «Niente più dell'educazione e della decisione per l'educazione possono liberare il cammino e costituire l'invito positivo dopo una *débâcle*, di qualunque natura sia».

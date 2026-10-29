@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "Feature: Desiring to Know the Lord Jesus — Dr. Matthew Levering"
+title: "Feature: Desiring to Know the Lord Jesús — Dr. Matthew Levering"
 fuente: Evangelization and culture - 23
 capítulo: 14
 timestamp: 2026-09-11
@@ -8,7 +8,7 @@ description: "Cuatro caminos bíblicos para conocer personalmente a Jesús: sufr
 tags: ["resumen", "evangelization and culture - 23"]
 ---
 
-# Feature: Desiring to Know the Lord Jesus — Dr. Matthew Levering
+# Feature: Desiring to Know the Lord Jesús — Dr. Matthew Levering
 
 ## Conceptos básicos referenciados
 

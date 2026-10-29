@@ -58,7 +58,7 @@ En un raduno de Escuela de Comunidad, alguien interpretó «amar la verdad más 
 
 El consolador y completante vínculo de la compañía/amistad — la amistad es una compañía dinámicamente tendida a su cumplimiento — es que los otros, lo sepan o no, coinciden con la raíz de la que tú floreces: el Verbo hecho carne; los otros bautizados, llamados a la misma vocación, pertenecen ontológicamente a esa raíz. Que existan es necesario para definirte; que te traten bien o mal es todo secundario como definición: si te tratan mal, Dios te quiere hacer pasar la *via crucis*. Jesús fue amado por el Padre en el Tabor y cuando fue aplastado por la cruz.
 
-## L'analogia tra affettività umana e affettività ultima
+## L'analogía tra affettività umana e affettività ultima
 
 «Ti adoro» es más potente y esencial que «Vieni, Signore» porque implica la totalidad de la afectividad, como si reuniera toda la atracción de la creación. Hay que vigilar la propia afectividad humana porque sus movimientos son perfectamente análogos a los de la afectividad última con el Misterio; la afectividad hombre-mujer está frente a la de san Máximo hacia Cristo «come un segno» frente a la realidad cumplida. Si este sentimiento está en el corazón, se vive la compañía no pretendiendo sino donando; reconociendo, no subiendo; perdonando, no conquistando una justicia.
 

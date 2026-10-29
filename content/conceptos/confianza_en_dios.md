@@ -61,7 +61,7 @@ El coraje como confianza en Dios es el tema de la *Special Feature* de Michael C
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Giussani formula la confianza como una «ipotesi positiva» que debe presidir todo modo de acercarse a la realidad: «accostare qualsiasi cosa — e persona, ancora di più — deve partire da un'ipotesi positiva», porque si la naturaleza del Ser es amor, «Dio non può azzerare neanche una opera buona — una sola! — fatta dall'uomo» (TACDC, 04, 67). Confiar es afirmar que el Misterio que hace todas las cosas «è per il bene» (TACDC, 04, 73).
+Giussani fórmula la confianza como una «ipotesi positiva» que debe presidir todo modo de acercarse a la realidad: «accostare qualsiasi cosa — e persona, ancora di più — deve partire da un'ipotesi positiva», porque si la naturaleza del Ser es amor, «Dio non può azzerare neanche una opera buona — una sola! — fatta dall'uomo» (TACDC, 04, 67). Confiar es afirmar que el Misterio que hace todas las cosas «è per il bene» (TACDC, 04, 73).
 
 Perder esta confianza es, para Giussani, un pecado diabólico: «uno dei più grandi peccati... è perdere la fiducia in Dio. Dio, come misericordia, tutto vince» (TACDC, 04, 79). Frente al propio pecado y a la propia debilidad, la certeza no se apoya en las propias fuerzas sino en la fidelidad de Dios: como Kristin, el creyente puede decir «Io ci sono stata! Ho voluto starci!» (TACDC, 04, 79), y descubrir que «la vocazione è la stella che illumina la notte oscura delle circostanze» (TACDC, 04, 81).
 

@@ -63,11 +63,11 @@ Palabra.
 
 ### Il miracolo dell'ospitalità (MDO)
 
-En MDO, don [[luigi_giussani]] formula el principio del que será el
+En MDO, don [[luigi_giussani]] fórmula el principio del que será el
 capítulo 09 del volumen: **la familiaridad como método del Mistero**.
 
 - **Dios ha escogido la «familiarità totale» como método**: «Dio ha
-  scelto la familiarità totale» (*Es* 33,15: «la mia faccia camminerà con
+  scelto la familiarità totale» (*Es* 33,15: «la mía faccia camminerà con
   voi») — el modo de Dios para educar y salvar no es el prodigio sino la
   cercanía cotidiana (09, 31-35).
 - **La familiaridad/fraternidad es condición de la acogida**: «una

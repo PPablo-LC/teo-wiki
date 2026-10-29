@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "Capítulo I ¿Quién es el joven de carácter?"
-fuente: El joven de caracter -- Mons_ Tihamer Toth -- 2009
+fuente: El joven de carácter -- Mons_ Tihamer Toth -- 2009
 capítulo: 2
 timestamp: 2026-08-16
 description: "Resumen del Capítulo I de El joven de carácter: qué es el carácter, la autoeducación, el dominio de sí mismo y la libertad interior."

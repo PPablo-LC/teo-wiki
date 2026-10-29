@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "3. Límites y alcance del estudio"
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 9
 timestamp: 2026-09-05
 description: "Límites y alcance del Informe 1941-2019, la página 0abusos.org como espacio de rendición de cuentas y los destinatarios a los que va dirigido."

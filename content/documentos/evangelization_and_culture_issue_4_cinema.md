@@ -35,7 +35,7 @@ El número combina historia de la relación Iglesia-cine (desde León XIII hasta
 | 1 | From the Desk of Bishop Robert Barron | Bishop Robert Barron | Tres razones por las que el cine evangeliza: amor a la cultura, via pulchritudinis, logoi spermatikoi |
 | 2 | A Word from the Institute | Jared Zimmerer | La misión de la revista y su relevancia en tiempos de COVID-19 |
 | 3 | Midnight Oil | Tod Worner | *Jojo Rabbit* (dignidad humana), *The Peanut Butter Falcon* (redención), sociedad civil, formación de la conciencia |
-| 4 | Genesius, Patron Saint of Actors | Rachel Bulman | San Genesio de Roma: del burlón al mártir; el arte como revelación de la gloria de Dios |
+| 4 | Genesius, Patrón Saint of Actors | Rachel Bulman | San Genesio de Roma: del burlón al mártir; el arte como revelación de la gloria de Dios |
 | 5 | Praying Sleepless (poem) | Maryann Corbett | Poesía |
 | 6 | St. Thomas More, a Man for Our Season | Joseph Susanka | *A Man for All Seasons*: More vs. Lawrence; la fortaleza cristiana frente al poder injusto |
 | 7 | Seeking Truth and Renewing Culture through the Art of Classic Film | Onalee McGraw | El cine clásico de Hollywood (1934-1960s) y el Production Code como portador de ley natural |
@@ -74,7 +74,7 @@ El número combina historia de la relación Iglesia-cine (desde León XIII hasta
 - **Alfred Hitchcock** — director de cine, católico practicante
 - **Federico Fellini** — director de cine italiano
 - **Frank Capra** — director de cine católico
-- **Martin Scorsese** — director de cine católico
+- **Martín Scorsese** — director de cine católico
 - **Bishop Robert Barron** — fundador de Word on Fire
 - **Jean-Luc Marion** — filósofo francés, autor de *God Without Being*
 

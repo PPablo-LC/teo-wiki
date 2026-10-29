@@ -25,6 +25,9 @@ La inculturación reconoce que la Buena Noticia no está ligada exclusivamente a
 
 El CEC §854 afirma que la misión de la Iglesia consiste en "hacer entrar a todos los hombres en la unidad del Padre por medio de su Hijo encarnado". Para ello, la Iglesia "proclama y transmite a todos los pueblos la verdad que es Cristo". En §1094-1095, el Catecismo enseña que la liturgia, como expresión de la fe, debe respetar la diversidad de culturas: "Con santa sabiduría, la Iglesia permite que cada rito conserve sus propias tradiciones legítimas".
 
+### Según el Compendio (CompDS)
+
+La doctrina social ofrece una visión integral del hombre que ilumina los auténticos valores humanos e inspira el testimonio cristiano en los múltiples ámbitos de la vida personal, cultural y social (§522). La antropología cristiana anima la obra pastoral de la inculturación de la fe, dirigida a renovar desde dentro, con la fuerza del Evangelio, los criterios de juicio, los valores determinantes y los modelos de vida del hombre contemporáneo: «Con la inculturación, la Iglesia se hace signo más comprensible de lo que es, e instrumento más apto para su misión» (§523, citando *Redemptoris missio* 52). El mundo contemporáneo está marcado por una fractura entre Evangelio y cultura, ante la cual la Iglesia debe entrar en una nueva etapa histórica de su dinamismo misionero (§523). La «nueva evangelización» debe incluir entre sus elementos esenciales el anuncio de la doctrina social de la Iglesia (§523).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Sacrosanctum Concilium* §37-40: Permite legítimas adaptaciones litúrgicas a las distintas culturas, siempre que se conserve la unidad substancial del rito romano.
@@ -43,9 +46,6 @@ Es especialmente importante entre las poblaciones indígenas, para que «las sem
 
 Para la evangelización de la cultura es necesario «un esfuerzo lúcido, serio y ordenado» [EA §70]. Con el uso correcto de los medios de comunicación social «se puede llevar a cabo una verdadera inculturación del Evangelio» [EA §72].
 
-### Según el Compendio (CompDS)
-
-La doctrina social ofrece una visión integral del hombre que ilumina los auténticos valores humanos e inspira el testimonio cristiano en los múltiples ámbitos de la vida personal, cultural y social (§522). La antropología cristiana anima la obra pastoral de la inculturación de la fe, dirigida a renovar desde dentro, con la fuerza del Evangelio, los criterios de juicio, los valores determinantes y los modelos de vida del hombre contemporáneo: «Con la inculturación, la Iglesia se hace signo más comprensible de lo que es, e instrumento más apto para su misión» (§523, citando *Redemptoris missio* 52). El mundo contemporáneo está marcado por una fractura entre Evangelio y cultura, ante la cual la Iglesia debe entrar en una nueva etapa histórica de su dinamismo misionero (§523). La «nueva evangelización» debe incluir entre sus elementos esenciales el anuncio de la doctrina social de la Iglesia (§523).
 
 ## Distinciones importantes
 

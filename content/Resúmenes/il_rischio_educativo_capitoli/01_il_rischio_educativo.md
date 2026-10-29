@@ -23,8 +23,8 @@ Archivo de título de la obra. *Il rischio educativo* (1977) de **Luigi Giussani
 
 La obra se articula en tres capítulos:
 
-1. **Cap. I — «Dinamica e fattori dell'avvenimento educativo»**: la dinámica y los factores del acontecimiento educativo — la tradición como hipótesis explicativa de la realidad (fuente de [[certeza]]), la autoridad como lugar de esa propuesta (función de [[coherencia]]), la verificación personal como condición de la [[convicción]] y el [[riesgo]] como condición de la [[libertad]].
-2. **Cap. II — «Crisi e dialogo»**: el pasaje crítico de la adolescencia y la apertura dialógica fundada en la conciencia de sí.
+1. **Cap. I — «Dinámica e fattori dell'avvenimento educativo»**: la dinámica y los factores del acontecimiento educativo — la tradición como hipótesis explicativa de la realidad (fuente de [[certeza]]), la autoridad como lugar de esa propuesta (función de [[coherencia]]), la verificación personal como condición de la [[convicción]] y el [[riesgo]] como condición de la [[libertad]].
+2. **Cap. II — «Crisi e diálogo»**: el pasaje crítico de la adolescencia y la apertura dialógica fundada en la conciencia de sí.
 3. **Cap. III — «Struttura dell'esperienza»**: la estructura de la [[experiencia]] como desarrollo de la persona en el encuentro con un hecho objetivo (Cristo y la [[iglesia]]).
 
 ## Mapa del archivo fuente

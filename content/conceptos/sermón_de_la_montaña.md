@@ -21,6 +21,12 @@ El sermón de la montaña presenta la enseñanza fundamental de Jesús sobre la 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+Las bienaventuranzas están en el centro de la predicación de Jesús (CEC §1716). Jesús insiste en la conversión del corazón: la reconciliación con el hermano, el amor a los enemigos, la oración al Padre en lo secreto, el perdón, la pureza del corazón y la búsqueda del Reino (CEC §2608). La Ley evangélica cumple, supera y lleva a su perfección la ley antigua; sus promesas mediante las bienaventuranzas, sus mandamientos reformando el corazón (CEC §1984). El sermón del Monte contiene las antítesis que manifiestan las exigencias del camino del Reino.
+
+### Según Royo Marín (TPCr)
+Cristo comienza su sermón ofreciendo a todos el ideal altísimo de las bienaventuranzas, que suponen una perfección eminente como coronamiento de todo el edificio de nuestra santificación (TPCr, Segunda Parte, Cap. VI, n.165). Las más celebradas concepciones de los genios de la humanidad palidecen ante un solo versículo del sermón de la Montaña (TPCr, Primera Parte, Cap. VII, n.56). Su moral sublime, iniciada en las divinas paradojas de las bienaventuranzas, será siempre el código divino de la más excelsa perfección y santidad. El alma que quiera encontrar el verdadero camino para ir a Dios no tiene más que abrir el Evangelio. Cristo reduce las bienaventuranzas a ocho en el sermón de la Montaña (TPCr, Segunda Parte, Cap. V, n.137).
+
 ### Según Pinckaers (FMC)
 
 Pinckaers dedica el capítulo VI de *Las Fuentes de la Moral Cristiana* al Sermón de la Montaña como fuente de la moral cristiana, y lo retoma en los caps. VII y XV.
@@ -52,12 +58,6 @@ Pinckaers dedica el capítulo VI de *Las Fuentes de la Moral Cristiana* al Serm�
 **El Sermón y las tres etapas de la libertad.** En el capítulo XV, Pinckaers sitúa el Sermón de la Montaña como el texto que corresponde particularmente a la segunda etapa de la educación moral (progreso y virtud). El Decálogo corresponde a la primera etapa (disciplina); el Sermón, con sus bienaventuranzas y sus exigencias de una justicia superior, corresponde a la etapa de los *adelantados* en la caridad. La tercera etapa (madurez) corresponde a la acción del Espíritu Santo mediante sus dones, que el Sermón también anuncia.
 
 **Conclusión.** Pinckaers sostiene que el Sermón de la Montaña debe ser restituido como fuente principal de la enseñanza moral cristiana, superando las interpretaciones que lo han relegado a un plano secundario. El Sermón no es una moral de lo imposible, sino la expresión de la ley de libertad que, con la gracia del Espíritu, es accesible a todos los cristianos como camino hacia la bienaventuranza.
-
-### Según el Catecismo (CEC)
-Las bienaventuranzas están en el centro de la predicación de Jesús (CEC §1716). Jesús insiste en la conversión del corazón: la reconciliación con el hermano, el amor a los enemigos, la oración al Padre en lo secreto, el perdón, la pureza del corazón y la búsqueda del Reino (CEC §2608). La Ley evangélica cumple, supera y lleva a su perfección la ley antigua; sus promesas mediante las bienaventuranzas, sus mandamientos reformando el corazón (CEC §1984). El sermón del Monte contiene las antítesis que manifiestan las exigencias del camino del Reino.
-
-### Según Royo Marín (TPCr)
-Cristo comienza su sermón ofreciendo a todos el ideal altísimo de las bienaventuranzas, que suponen una perfección eminente como coronamiento de todo el edificio de nuestra santificación (TPCr, Segunda Parte, Cap. VI, n.165). Las más celebradas concepciones de los genios de la humanidad palidecen ante un solo versículo del sermón de la Montaña (TPCr, Primera Parte, Cap. VII, n.56). Su moral sublime, iniciada en las divinas paradojas de las bienaventuranzas, será siempre el código divino de la más excelsa perfección y santidad. El alma que quiera encontrar el verdadero camino para ir a Dios no tiene más que abrir el Evangelio. Cristo reduce las bienaventuranzas a ocho en el sermón de la Montaña (TPCr, Segunda Parte, Cap. V, n.137).
 
 ### Según la Vida de Jesús (VJ)
 

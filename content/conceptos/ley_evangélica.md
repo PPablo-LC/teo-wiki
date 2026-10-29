@@ -31,6 +31,15 @@ La ley nueva es «la gracia del Espíritu Santo dada a los fieles por la fe en C
 
 «La ley nueva es la perfección de la ley divina para la nueva Alianza» (§1967). Cristo es la plenitud de la ley: «No penséis que he venido a abolir la Ley o los Profetas; no he venido a abolir, sino a dar cumplimiento» (Mt 5,17).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la ley evangélica como ley nueva en las cuestiones 106–108 de la Ia-IIae (ver [[ley_nueva#Según la Summa Theologiae (SmTh)]] para el desarrollo completo). La ley evangélica es principalmente la gracia del Espíritu Santo infundida en el corazón del creyente (q.106 a.1), que justifica por la fe en Cristo (a.2). En comparación con la [[ley_mosaica]], es ley de amor y no de temor (q.107 a.1), y da cumplimiento a la antigua perfeccionando sus preceptos y añadiendo los consejos (q.107 a.2). En su contenido (q.108), no añade nuevas determinaciones ceremoniales o judiciales, sino que se limita a los sacramentos y preceptos morales, dejando lo demás a la libertad cristiana (q.108 a.1-2). Incluye los consejos evangélicos como invitación a la perfección (q.108 a.4).
+### Según Royo Marín (TPCr)
+
+Los consejos evangélicos son inseparables de los mandamientos; forman parte de la ley evangélica como invitación a la perfección. La práctica efectiva de los consejos (pobreza, castidad y obediencia) no es universalmente obligatoria, pero la práctica afectiva (el espíritu de los consejos) obliga a todos los cristianos.
+
+[TPCr, Parte II, n.171]
+
 ### Según Pinckaers (FMC)
 
 Pinckaers dedica un extenso análisis a la Ley evangélica (Ley nueva) como clave de bóveda de la moral cristiana (FMC caps. VII, IX, y sección sistemática del cap. VI sobre la Ley nueva). La define siguiendo a santo Tomás: la Ley nueva consiste principalmente en la gracia del Espíritu Santo dada a los fieles por la fe en Cristo (Ia-IIae q.106 a.1). Es una ley interior (lex indita), no principalmente escrita, cuya esencia es la acción del Espíritu Santo.
@@ -44,15 +53,6 @@ Elementos clave según Pinckaers:
 
 [FMC caps. VI (parte sobre Ley nueva), VII, IX:3]
 
-### Según Royo Marín (TPCr)
-
-Los consejos evangélicos son inseparables de los mandamientos; forman parte de la ley evangélica como invitación a la perfección. La práctica efectiva de los consejos (pobreza, castidad y obediencia) no es universalmente obligatoria, pero la práctica afectiva (el espíritu de los consejos) obliga a todos los cristianos.
-
-[TPCr, Parte II, n.171]
-
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la ley evangélica como ley nueva en las cuestiones 106–108 de la Ia-IIae (ver [[ley_nueva#Según la Summa Theologiae (SmTh)]] para el desarrollo completo). La ley evangélica es principalmente la gracia del Espíritu Santo infundida en el corazón del creyente (q.106 a.1), que justifica por la fe en Cristo (a.2). En comparación con la [[ley_mosaica]], es ley de amor y no de temor (q.107 a.1), y da cumplimiento a la antigua perfeccionando sus preceptos y añadiendo los consejos (q.107 a.2). En su contenido (q.108), no añade nuevas determinaciones ceremoniales o judiciales, sino que se limita a los sacramentos y preceptos morales, dejando lo demás a la libertad cristiana (q.108 a.1-2). Incluye los consejos evangélicos como invitación a la perfección (q.108 a.4).
 
 ## Distinciones importantes
 

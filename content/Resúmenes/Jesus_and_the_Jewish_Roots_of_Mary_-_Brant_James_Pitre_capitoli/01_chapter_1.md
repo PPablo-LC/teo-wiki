@@ -38,4 +38,4 @@ Pitre estudiará cada tipo —Eva, el Arca, la Reina Madre, Raquel— con la Esc
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `01_chapter_1`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `01_chapter_1`

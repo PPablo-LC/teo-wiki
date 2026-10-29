@@ -27,15 +27,15 @@ Dios es uno en esencia y trino en personas. Las tres Personas divinas son realme
 
 «Dios, infinitamente perfecto y bienaventurado en sí mismo, es un designio de pura bondad que ha creado libremente al hombre para hacerle partícipe de su vida bienaventurada» (§1). El Catecismo expone que «el deseo de Dios está inscrito en el corazón del hombre» (§27) y que la razón puede conocer su existencia a partir de las criaturas (§31-36). Dios se ha revelado plenamente en Jesucristo, su Hijo hecho hombre, y ha comunicado el misterio de la Santísima Trinidad (§232-267).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La Biblia no contiene un tratado sobre Dios, sino que enseña a escucharle y responderle [VocTeoBib, «Dios»]. En el AT, Dios es «el primero y el último» (Is 41,4; 44,6), cuya existencia se impone sin demostración. Se revela como Yahveh —«Yo soy el que soy» (Ex 3,14)—, un Dios viviente, santo, celoso y único. El secreto definitivo se revela en Jesucristo: «Dios es amor» (1Jn 4,8.16). En Cristo, «el resplandor de la gloria de Dios y figura de su sustancia» (Heb 1,3), vemos al Padre; y la relación entre el Padre y el Hijo se consuma en el Espíritu Santo. «Dios es espíritu» (Jn 4,24) significa que su esencia consiste en darse: omnipotencia y omni-disponibilidad, afirmación soberana de sí y desasimiento total.
+
 ### Según Para Salvarte (PS)
 
 Para Salvarte dedica su capítulo 3 a demostrar la existencia de Dios por las «huellas» dejadas en la creación (PS §03,1). Loring despliega argumentos desde la astronomía (el orden del cosmos, las distancias estelares, la precisión del movimiento de los astros), la biología (la complejidad del ojo humano, la función clorofílica, el ADN) y la filosofía (la imposibilidad de que el azar explique el orden observado). Cita a científicos como Newton, Einstein, James Jeans, Paul Dirac y Alfredo Kastler como testigos de que el universo requiere una inteligencia ordenadora (PS §03,1,7-14).
 
 En el capítulo 4 expone el dogma trinitario: un solo Dios verdadero en tres Personas distintas (PS §04,18-24). Explica que el Padre conociéndose a sí mismo da lugar al Hijo, y del amor entre ambos procede el Espíritu Santo (PS §04,19-20). Las tres Personas son simultáneas y eternas; son inseparables en su ser y en su obrar, aunque ciertas obras se atribuyan apropiadamente a cada una: la Creación al Padre, la Redención al Hijo y la Santificación al Espíritu Santo (PS §04,24,1).
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La Biblia no contiene un tratado sobre Dios, sino que enseña a escucharle y responderle [VocTeoBib, «Dios»]. En el AT, Dios es «el primero y el último» (Is 41,4; 44,6), cuya existencia se impone sin demostración. Se revela como Yahveh —«Yo soy el que soy» (Ex 3,14)—, un Dios viviente, santo, celoso y único. El secreto definitivo se revela en Jesucristo: «Dios es amor» (1Jn 4,8.16). En Cristo, «el resplandor de la gloria de Dios y figura de su sustancia» (Heb 1,3), vemos al Padre; y la relación entre el Padre y el Hijo se consuma en el Espíritu Santo. «Dios es espíritu» (Jn 4,24) significa que su esencia consiste en darse: omnipotencia y omni-disponibilidad, afirmación soberana de sí y desasimiento total.
 
 ### Attraverso la compagnia dei credenti (TACDC)
 

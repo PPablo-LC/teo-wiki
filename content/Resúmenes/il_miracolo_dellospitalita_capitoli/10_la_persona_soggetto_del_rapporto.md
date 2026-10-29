@@ -29,7 +29,7 @@ tags: ["resumen", "persona", "matrimonio", "vocación", "contexto_social"]
 
 ## La persona
 
-- «La persona è definita dal suo rapporto col destino che è Dio, il fenomeno matrimoniale non può essere fine a se stesso»; hay «un distacco che permette il possesso delle cose»: la «ascesi».
+- «La persona è definita dal suo rapporto col destino che è Dio, il fenómeno matrimoniale non può essere fine a se stesso»; hay «un distacco che permette il possesso delle cose»: la «ascesi».
 - La ascesi: «superamento determinante un distacco, che a sua volta assicura che la realtà del rapporto ci stia nelle mani e non che ci prenda la mano».
 - Respeto recíproco y no instrumentalización: «l'altro costituisce un'entità irriducibile al parere, alla reazione, alla voglia, al piacere dell'altro»; la no instrumentalización «è motivato come doveroso [...] esclusivamente come corollario della consapevolezza che l'altro è rapporto con Dio, è persona».
 - «Il rapporto dell'uomo con la donna, se non obbedisce al superamento di se stesso che ha nel suo cuore, non è vero».
@@ -49,5 +49,5 @@ tags: ["resumen", "persona", "matrimonio", "vocación", "contexto_social"]
 - «Una persona non è fatta per il matrimonio, ma per il suo destino, cioè è fatta per Dio»; el matrimonio como función-vocación en el disegno divino; «È tutto il discorso che la Chiesa fa sul divorzio».
 - «La modalità con cui un uomo vive l'avvenimento affettivo è la modalità stessa con cui alla fin fine si porta verso il mondo».
 - «È impossibile che il contesto sociale rispetti il fatto che la famiglia venga prima di esso»; la cultura laicista; *Gravissimus educationis*. «La Chiesa [...] rappresenta l'unico correttivo o il luogo di difesa dall'attacco che [...] tutto il contesto sociale sempre fa alla famiglia» (*Mt* 19,26).
-- La moralidad como racionalidad: «se la mia espressione mi fa protendere al mio destino e al mio fine, in questa misura esatta essa è bene, altrimenti diventa manchevolezza»; la definitividad del querer; matiz sobre el fidanzamento.
+- La moralidad como racionalidad: «se la mía espressione mi fa protendere al mio destino e al mio fine, in questa misura esatta essa è bene, altrimenti diventa manchevolezza»; la definitividad del querer; matiz sobre el fidanzamento.
 - Recapitulación: persona, función y contexto social como «i catalizzatori di tutti i problemi».

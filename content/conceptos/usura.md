@@ -21,6 +21,13 @@ La usura es pecado contra la justicia conmutativa porque el prestamista recibe m
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §2269: «La usura, que exige un interés excesivo, es contraria a la justicia». CEC §2409: «Las condiciones que hacen lícito el préstamo deben ser determinadas en cada caso por el principio de caridad y el de justicia». CEC §2449: Los préstamos a interés excesivo o usurero son pecado grave contra el séptimo mandamiento.
+
+### Según el Compendio (CompDS)
+
+La actividad económica debe estar al servicio del hombre (§330–331). La condena de la usura es explícita: «Los traficantes cuyas prácticas usurarias y mercantiles provocan el hambre y la muerte de sus hermanos los hombres, cometen indirectamente un homicidio» (§341, citando CEC §2269). Esta condena se extiende a las relaciones económicas internacionales, especialmente con los países menos desarrollados, a los que no se pueden aplicar «sistemas financieros abusivos, si no usurarios» (§341, citando CEC §2438). El Magisterio reciente califica la usura como «delito que también en nuestros días es una infame realidad, capaz de estrangular la vida de muchas personas» (§341, citando Juan Pablo II, Audiencia General 4-II-2004).
 ### Según la Summa Theologiae (SmTh)
 
 **La usura (Q78):** Santo Tomás trata la usura como vicio opuesto a la justicia conmutativa, dentro de los pecados contra la justicia en los contratos. Define la usura como «recibir interés por el préstamo de dinero, que es de suyo estéril» (q.78 a.1).
@@ -36,9 +43,9 @@ La usura es pecado mortal por su género (q.78 a.2), pues se opone directamente 
 
 La usura no debe confundirse con la ganancia del comercio lícito: el comerciante invierte su dinero con riesgo y trabajo, y la ganancia es por su industria, no por el mero préstamo (q.78 a.1 ad 6).
 
-### Según el Catecismo (CEC)
+### Según Royo Marín (TPCr)
 
-CEC §2269: «La usura, que exige un interés excesivo, es contraria a la justicia». CEC §2409: «Las condiciones que hacen lícito el préstamo deben ser determinadas en cada caso por el principio de caridad y el de justicia». CEC §2449: Los préstamos a interés excesivo o usurero son pecado grave contra el séptimo mandamiento.
+TPCr trata la usura como pecado contra la justicia conmutativa. La usura es intrínsecamente mala y no puede ser justificada por convención humana. Sin embargo, se admiten los títulos extrínsecos que compensan pérdidas reales. La restitución es obligatoria.
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
@@ -73,13 +80,6 @@ El **V Concilio de Letrán** (1515), Bula *Inter multiplices* (Sesión X): Decla
 - D‑1478: Si en esos otros contratos no se guarda la igualdad, constituyen injusticia que obliga a restituir, aunque no sea usura formal.
 - D‑1479: Advirtió que «falsa y solo temerariamente se persuadirá uno que siempre se hallan y en todas partes están a mano otros títulos legítimos» para justificar un interés. Quien así sintiere, «se opondrá a los divinos documentos y al juicio de la Iglesia Católica sobre la usura, sino también al sentido común humano y a la razón natural».
 
-### Según Royo Marín (TPCr)
-
-TPCr trata la usura como pecado contra la justicia conmutativa. La usura es intrínsecamente mala y no puede ser justificada por convención humana. Sin embargo, se admiten los títulos extrínsecos que compensan pérdidas reales. La restitución es obligatoria.
-
-### Según el Compendio (CompDS)
-
-La actividad económica debe estar al servicio del hombre (§330–331). La condena de la usura es explícita: «Los traficantes cuyas prácticas usurarias y mercantiles provocan el hambre y la muerte de sus hermanos los hombres, cometen indirectamente un homicidio» (§341, citando CEC §2269). Esta condena se extiende a las relaciones económicas internacionales, especialmente con los países menos desarrollados, a los que no se pueden aplicar «sistemas financieros abusivos, si no usurarios» (§341, citando CEC §2438). El Magisterio reciente califica la usura como «delito que también en nuestros días es una infame realidad, capaz de estrangular la vida de muchas personas» (§341, citando Juan Pablo II, Audiencia General 4-II-2004).
 
 ## Distinciones importantes
 

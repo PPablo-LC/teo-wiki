@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Robert Sokolowski
-description: "Filósofo polaco-estadounidense, mentor de Bishop Barron en la Catholic University of America; especialista en fenomenología y teología de la revelación."
+description: "Filósofo polaco-estadounidense, mentor de Bishop Barron en la Catholic University of América; especialista en fenomenología y teología de la revelación."
 timestamp: 2026-08-20
 tags:
   - filosofía
@@ -17,11 +17,11 @@ tags:
 
 ## Definición
 
-Robert Sokolowski (n. 1934) es un filósofo polaco-estadounidense, sacerdote católico de la Archdiocese de Washington y profesor emérito de filosofía en la Catholic University of America (CUA). Es reconocido por su trabajo en fenomenología, filosofía analítica y teología de la revelación, y por haber sido mentor intelectual de Bishop Robert Barron durante sus estudios en la CUA.
+Robert Sokolowski (n. 1934) es un filósofo polaco-estadounidense, sacerdote católico de la Archdiocese de Washington y profesor emérito de filosofía en la Catholic University of América (CUA). Es reconocido por su trabajo en fenomenología, filosofía analítica y teología de la revelación, y por haber sido mentor intelectual de Bishop Robert Barron durante sus estudios en la CUA.
 
 ## Desarrollo biográfico
 
-Sokolowski nació en Poland y emigró a Estados Unidos. Estudió y enseñó en la Catholic University of America, donde se convirtió en una figura central del departamento de filosofía. Su influencia se extiende a través de sus alumnos, siendo el más destacado Robert Barron, quien estudió filosofía bajo su dirección en la CUA antes de completar su doctorado en Francia.
+Sokolowski nació en Poland y emigró a Estados Unidos. Estudió y enseñó en la Catholic University of América, donde se convirtió en una figura central del departamento de filosofía. Su influencia se extiende a través de sus alumnos, siendo el más destacado Robert Barron, quien estudió filosofía bajo su dirección en la CUA antes de completar su doctorado en Francia.
 
 Barron ha descrito a Sokolowski como su «gran mentor» y ha declarado que «no era solo lo que enseñaba lo que nos impactaba. Había algo en él. No era solo lo que enseñaba; era él. Era su personalidad; era su estilo; era su modo de estar en el mundo lo que nos golpeaba» (*Word on Fire Show*, octubre 2017).
 
@@ -92,7 +92,7 @@ La influencia de Sokolowski en Barron se manifiesta en varios aspectos centrales
 ## Referencias
 
 - Nelson, Matthew. "The Catholic Sensibility of Bishop Barron & The Pivotal Influence of Robert Sokolowski." *Evangelization & Culture*, No. 7, Spring 2021.
-- Sokolowski, Robert. *The God of Faith and Reason: Foundations of Christian Theology*. The Catholic University of America Press, 1995.
+- Sokolowski, Robert. *The God of Faith and Reason: Foundations of Christian Theology*. The Catholic University of América Press, 1995.
 - Sokolowski, Robert. *Introduction to Phenomenology*. Cambridge University Press, 2000.
 - Barron, Robert E. *Vibrant Paradoxes*. Word on Fire, 2016.
 - Bishop Robert Barron, "WOF 098: The 5 Men Who Most Influenced Bishop Barron," *Word on Fire Show*, October 23, 2017.

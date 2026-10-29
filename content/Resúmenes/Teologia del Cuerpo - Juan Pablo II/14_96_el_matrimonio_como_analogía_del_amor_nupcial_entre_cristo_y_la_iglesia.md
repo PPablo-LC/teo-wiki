@@ -4,7 +4,7 @@ title: "96. El matrimonio como analogía del amor nupcial entre Cristo y la Igle
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 14
 timestamp: 2026-08-01
-description: "Catequesis 96: funciones de la gran analogía del matrimonio respecto del misterio — penetración cognoscitiva, don total e irrevocable de Dios, carácter radical de la gracia y visibilidad del Invisible — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 96: funciones de la gran analogía del matrimonio respecto del misterio — penetración cognoscitiva, don total e irrevocable de Dios, carácter radical de la gracia y visibilidad del Invisible — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

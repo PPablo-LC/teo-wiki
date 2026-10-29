@@ -44,7 +44,7 @@ De la omelia de Pascua: cada acción tiene una soglia di partenza y una soglia d
 
 La frase más clara: sin sacrificio no es verdadero el rapport. Frente a una cosa bella, «non è vero che tu la vedi bella, la vedi bella in modo non vero»; el rapporto es una bugia. «Quanto più sei attaccato a una cosa, tanto più sei terrorizzato da questo (che sia una bugia), perciò accetti qualsiasi sacrificio.» La perfección de un affetto, de un lavoro, de una preghiera, de una fatica, de un rapporto coincide o depende de la *tensión* al sacrificio inerente (y no de su aceptación): «la tensione al sacrificio» sorprende el fenómeno un instante antes del sacrificio; sin ella el sacrificio caería come una mazza in testa, no sería tuyo; con ella, el sacrificio tiene «la soddisfazione di una tensione, l'appagamento di una tensione». Si el sacrificio hace verdadero el rapporto, la tensión al sacrificio es la tensión a hacerlo verdadero.
 
-Si al pedir «Signore, aumenta la mia fede e la mia affezione» se es consciente de lo que se pide, se sabe y se siente que hay un sacrificio que hacer: se está in tensione verso un sacrificio. La madre que dice «fammi voler bene ai miei figli» — cuántas veces de forma abstracta —, al identificar la palabra «figlio» con las rogne que le da, se vuelve tensión al sacrificio.
+Si al pedir «Signore, aumenta la mía fede e la mía affezione» se es consciente de lo que se pide, se sabe y se siente que hay un sacrificio que hacer: se está in tensione verso un sacrificio. La madre que dice «fammi voler bene ai miei figli» — cuántas veces de forma abstracta —, al identificar la palabra «figlio» con las rogne que le da, se vuelve tensión al sacrificio.
 
 > **E assurdo «desiderare il sacrificio»**
 
@@ -56,7 +56,7 @@ Es absurdo desear un sacrificio; en el vocabulario cristiano nunca existe «amar
 
 El sacrificio exige la fede, altrimenti no tiene razón: se supone que se hace con la coscienza di una Presenza; «brachilogicamente si può dire che non si può fare un sacrificio senza la fede». También desde el punto de vista puramente histórico es inmensa la importancia de la crucifixión de Cristo: el sacrificio es el fenómeno que más sirve a definir el valor de la realidad.
 
-El modo en que la volontà di Dio se manifiesta es «attraverso la forma dell'insegnamento a cui sei stato consegnato» (Ratzinger, presentación del nuevo Catecismo, «L'Osservatore Romano», 20-1-1993). Lo que se te dice o corresponde a un impeto — fácil de abbracciare — o hace emerger una ripugnanza que te define una fatica; cuanto más se abraza, más se interioriza y se familiariza con esa fatiga; y como la fatiga hace verdadero el rapporto, el objeto se vuelve verdadero y bello. San Juan de la Cruz, santa Teresa d'Avila, Jacopone da Todi tienen «canti bellissimi sul sacrificio: il sacrificio diventa una poesia». Pero se llega a esto «con la maturità di una fedeltà», y queda siempre sacrificio y «la possibilità di una sospensione del tuo entusiasmo».
+El modo en que la volontà di Dio se manifiesta es «attraverso la forma dell'insegnamento a cui sei stato consegnato» (Ratzinger, presentación del nuevo Catecismo, «L'Osservatore Romano», 20-1-1993). Lo que se te dice o corresponde a un impeto — fácil de abbracciare — o hace emerger una ripugnanza que te define una fatica; cuanto más se abraza, más se interioriza y se familiariza con esa fatiga; y como la fatiga hace verdadero el rapporto, el objeto se vuelve verdadero y bello. San Juan de la Cruz, santa Teresa d'Avila, Jacopone da Todi tienen «canti bellissimi sul sacrificio: il sacrificio diventa una poesía». Pero se llega a esto «con la maturità di una fedeltà», y queda siempre sacrificio y «la possibilità di una sospensione del tuo entusiasmo».
 
 Hay un sacrificio en la fe y la fe queda motivo del sacrificio.
 
@@ -70,7 +70,7 @@ Un hombre se innamora: debe hacer sacrificio para entrar en rapporto con la pers
 
 > **Nel timore l'amore non è perfetto**
 
-«Nell'amore non c'è timore, al contrario l'amore perfetto scaccia il timore» (1 Gv 4,18). En el timore uno afirma al otro «ma con titubanza, perché nello stesso tempo affermo la mia paura, la paura di perdere me stesso». El timore es amore — porque afirmas al otro — pero no perfecto, porque se parte no afirmando al otro sino la propia titubanza. «Se si arresta alla sua paura, diventa scettico; allora sbaglia.» El inicio de la afirmación de una presencia es l'attenzione: la «tensione a» con la que uno es creado, «la presenza di un Altro che ti butta verso l'altro». Por eso hay que ser simples como niños (Mt 18,3; Mc 10,15; Lc 18,17).
+«Nell'amore non c'è timore, al contrario l'amore perfetto scaccia il timore» (1 Gv 4,18). En el timore uno afirma al otro «ma con titubanza, perché nello stesso tempo affermo la mía paura, la paura di perdere me stesso». El timore es amore — porque afirmas al otro — pero no perfecto, porque se parte no afirmando al otro sino la propia titubanza. «Se si arresta alla sua paura, diventa scettico; allora sbaglia.» El inicio de la afirmación de una presencia es l'attenzione: la «tensione a» con la que uno es creado, «la presenza di un Altro che ti butta verso l'altro». Por eso hay que ser simples como niños (Mt 18,3; Mc 10,15; Lc 18,17).
 
 > **La vita è una cosa seria**
 

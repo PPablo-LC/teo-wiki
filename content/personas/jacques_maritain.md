@@ -21,7 +21,7 @@ Jacques Maritain (1882-1973) fue un filósofo francés, el más influyente pensa
 
 ## Desarrollo biográfico
 
-Nacido en París, estudió en la Sorbona, decepcionado por el agnosticismo cientificista imperante. Con Raïssa Oumansoff (que había emigrado desde Rusia judía) juró suicidarse si no encontraba sentido a la vida; el descubrimiento de Tomás de Aquino a través de Léon Blos los condujo al bautismo en 1906. Enseñó en el Institut Catholique de Paris, Princeton y Toronto. Participó como embajador de Francia en el Vaticano (1945-1948) y fue una voz clave en la redacción de la Declaración Universal de Derechos Humanos. Viudo en 1960, ingresó como hermano laico en la Congregación de los Pequeños Hermanos de Jesús.
+Nacido en París, estudió en la Sorbona, decepcionado por el agnosticismo cientificista imperante. Con Raïssa Oumansoff (que había emigrado desde Rusia judía) juró suicidarse si no encontraba sentido a la vida; el descubrimiento de Tomás de Aquino a través de Léon Blos los condujo al bautismo en 1906. Enseñó en el Institut Catholique de París, Princeton y Toronto. Participó como embajador de Francia en el Vaticano (1945-1948) y fue una voz clave en la redacción de la Declaración Universal de Derechos Humanos. Viudo en 1960, ingresó como hermano laico en la Congregación de los Pequeños Hermanos de Jesús.
 
 ## Perspectivas por fuente
 

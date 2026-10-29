@@ -10,7 +10,7 @@ tags: ["resumen", apologética, diálogo, escucha]
 
 # Capítulo 5 — Buscar entender la posición del adversario
 
-> 📄 **Fuente original:** `05_chapter_five.md` — *Arguing Religion: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 5: «Seek to Understand Your Opponent's Position».
+> 📄 **Fuente original:** `05_chapter_five.md` — *Arguing Religión: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 5: «Seek to Understand Your Opponent's Position».
 
 ## Conceptos básicos referenciados en este capítulo
 

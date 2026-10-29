@@ -23,7 +23,7 @@ tags: ["resumen", "giussani", "libertad", "deseo", "gracia"]
 
 📄 **Fuente original:** `12_12_libertà_desiderio_e_soddisfazione.md`
 
-«Tischreden 71», del 23 de diciembre de 1992. **PARTE V — LA DINAMICA DELLA LIBERTÀ** (con Figura 1 y Figura 2).
+«Tischreden 71», del 23 de diciembre de 1992. **PARTE V — LA DINÁMICA DELLA LIBERTÀ** (con Figura 1 y Figura 2).
 
 ### Libertad y gracia
 
@@ -39,7 +39,7 @@ Del deseo (0) al desarrollo en el tiempo → término = muerte (*x*); o el hombr
 
 ### La ley de la libertad es amar
 
-La libertad se porta sobre lo que *parece más*; para elegir B hacen falta *razionalità forte* y *energia affettiva*, que se llaman **mortificación** y **amor al destino**. «La legge della libertà è l'amare; il contrario della libertà è l'egoismo»; «senza Dio […] invece di moralità c'è il [[moralismo]]» ([[amor]], [[mortificación]]).
+La libertad se porta sobre lo que *parece más*; para elegir B hacen falta *razionalità forte* y *energía affettiva*, que se llaman **mortificación** y **amor al destino**. «La legge della libertà è l'amare; il contrario della libertà è l'egoísmo»; «senza Dio […] invece di moralità c'è il [[moralismo]]» ([[amor]], [[mortificación]]).
 
 ### La claridad sobre el destino es una gracia
 

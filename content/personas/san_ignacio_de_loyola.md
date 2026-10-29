@@ -39,7 +39,7 @@ Citado en el Índice Onomástico. Aparece en el Resumen histórico-bibliográfic
 
 ### Según EAC-18 — Word on Fire Institute
 
-**J.C. Scharl** («Poetry: The Conversion of St. Ignatius», 19_poetry_ignatius.md) narra en verso la conversión de San Ignacio como la de un guerrero herido que, en su postración, descubre por la gracia el verdadero sentido de su valía. Tras ser derribado en la batalla de Pamplona, los huesos destrozados se vuelven el terreno donde la metanoia labra una vocación nueva: el herido «ve por fin su propia valía ante la oscuridad que permanece», discierne cuán mezquinas son las llamas con que arde y vislumbra la cosecha sembrada escrita en las piedras con su propia sangre. El cierre pide que los huesos destrozados «broteen y vuelvan un ejército en atención, absorto y severo»: la ruina del cuerpo quebrado se transforma en una milicia espiritual disciplinada y vuelta a Dios — la Compañía que fundará. Ver [[conversión]] y [[metanoia]].
+**J.C. Scharl** («Poetry: The Conversión of St. Ignatius», 19_poetry_ignatius.md) narra en verso la conversión de San Ignacio como la de un guerrero herido que, en su postración, descubre por la gracia el verdadero sentido de su valía. Tras ser derribado en la batalla de Pamplona, los huesos destrozados se vuelven el terreno donde la metanoia labra una vocación nueva: el herido «ve por fin su propia valía ante la oscuridad que permanece», discierne cuán mezquinas son las llamas con que arde y vislumbra la cosecha sembrada escrita en las piedras con su propia sangre. El cierre pide que los huesos destrozados «broteen y vuelvan un ejército en atención, absorto y severo»: la ruina del cuerpo quebrado se transforma en una milicia espiritual disciplinada y vuelta a Dios — la Compañía que fundará. Ver [[conversión]] y [[metanoia]].
 
 ## Ver también
 [[santa_teresa_de_jesús]], [[san_francisco_de_sales]], [[conversión]]
@@ -59,4 +59,4 @@ exclamaban: "¡Ha muerto un santo!"».
 - [TPCr, Resumen histórico-bibliográfico n.8, 19]
 - [TPCr, Índice Onomástico]
 - [WoF-4, Word on Fire]
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (J.C. Scharl, 19_poetry_ignatius.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (J.C. Scharl, 19_poetry_ignatius.md).

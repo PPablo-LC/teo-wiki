@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "The Literary Devices of Jesus' Evangelization — Dr. Holly Ordway"
+title: "The Literary Devices of Jesús' Evangelization — Dr. Holly Ordway"
 fuente: Evangelization and culture - 5
 capítulo: 13
 timestamp: 2026-08-26
@@ -8,7 +8,7 @@ description: "Resumen de los dispositivos literarios de Jesús en la evangelizac
 tags: ["resumen", "evangelization_and_culture", "biblia", "literatura"]
 ---
 
-# The Literary Devices of Jesus' Evangelization — Dr. Holly Ordway
+# The Literary Devices of Jesús' Evangelization — Dr. Holly Ordway
 
 ## Conceptos básicos referenciados
 

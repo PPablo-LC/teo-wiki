@@ -14,7 +14,7 @@ tags: ["resumen", "fe", "resurreccion", "compagnia", "fraternidad", "giussani", 
 
 - [[conversión]] — el cambio continuo como regla fundamental de la vida cristiana.
 - [[resurrección]] — «Ricominciare è una parola molto vicina… alla parola finale cristiana».
-- [[misericordia]] — el atributo propio del Padre y la palabra que define ultimamente a Dios.
+- [[misericordia]] — el atributo propio del Padre y la palabra que define últimamente a Dios.
 - [[memoria]] — el opuesto de la dimenticanza: «Fate questo in memoria di me».
 - [[oración_de_petición]] — la prayer como domanda: «Chiedere, chiedere sempre».
 - [[perdón]] — la domanda que transforma y disuelve el piombo.
@@ -35,7 +35,7 @@ tags: ["resumen", "fe", "resurreccion", "compagnia", "fraternidad", "giussani", 
 - [[ley_moral]] — el cauce de la ley como «riverbero dell'ideale sulle circostanze».
 - [[sacrificio]] — «liberi dall'esito», la partecipación a la cruz.
 - [[limosna]] — «l'elemosina purga, libera dal peccato».
-- [[dolor]] — «come mi ha reso capace de respondere… non soltanto alla difficoltà mia, ma alla difficoltà di tutto».
+- [[dolor]] — «come mi ha reso capace de respondere… non soltanto alla difficoltà mía, ma alla difficoltà di tutto».
 - [[vanidad]] — cfr. [[vanidad]].
 - [[vanidad]] — «Ciò che avevo afferrato bramosa, / nella mano stretta si sfece».
 
@@ -45,7 +45,7 @@ Situación: Esercizi de 15-17 de marzo de 1985 en Rimini, celebrados en dos turn
 (lombardos, piamonteses, ligures, alemanes y suizos; después el resto de grupos
 italianos), en el clima del encuentro con el Papa del septiembre anterior por el
 tricentenario del movimiento. Juan Pablo II, en el Aula Pablo VI, entregó al movimiento
-el mandato de ir «in tutto il mondo», confirmando que el movimiento es «un metodo di
+el mandato de ir «in tutto il mondo», confirmando que el movimiento es «un método di
 educazione alla fede perché [essa] incida nella vita dell'uomo e della storia», y expansión
 ya en «diciotto nazioni». De ese impulso missionaries surgieron Chile, Brasil, Argentina,
 Polonia, Estados Unidos y Canadá. Pero tal compromiso exigía «una consistenza personale
@@ -53,7 +53,7 @@ ancor più profonda» y un «cambiamento di sé radicale e continuo»: en una co
 con universitarios, un mes antes, Giussani había subrayado: «Insisto sulla parola
 "cambiamento"».
 
-Nucleo: «Allora qual è il problema numero uno, il problema primo per noi, da risolvere
+Núcleo: «Allora qual è il problema numero uno, il problema primo per noi, da risolvere
 subito? Ricominciare!». Con la canción de Guccini «Canzone per Piero» — «fino al disgusto
 di ricominciare, perché ogni volta è poi sempre lo stesso» — y la página de la Sabiduría
 («Tendiamo insidie al giusto»), Giussani llega a «Ricominiare, questo è il punto. La
@@ -98,7 +98,7 @@ bene apprende… per che di giugner lui ciascun contende». Leopardi: el «accus
 d'insufficienza e di nullità» como «il maggior segno di grandezza e di nobiltà, che si
 vegga della natura umana».
 
-**5. El centro de gravedad.** Jiménez: «Sento que la mia nave / ha urtado, lì sul fondo, /
+**5. El centro de gravedad.** Jiménez: «Sento que la mía nave / ha urtado, lì sul fondo, /
 con qualcosa di grande. / E nulla / accade!». Kafka: «Anch'io come chiunque altro ho in
 me fin dalla nascita un centro di gravità… ma in un certo qual modo esso non ha più il
 corpo relativo. E un centro di gravità che non lavori diventa piombo», «infitto nel
@@ -169,7 +169,7 @@ cambiamento. È la gioia profonda di un passaggio che dura tutta la vita».
 ### II
 
 **a) Chiarezza su Dio: «Padre».** «Noi vorremmo un dio che chiudesse un occhio sul quarto
-comandamento…». El mundo de hoy «odia innanzitutto… unicamente il padre, perché il
+comandamento…». El mundo de hoy «odia innanzitutto… únicamente il padre, perché il
 padre indica il principio dell'appartenenza»; donde la reattività, «vale a dire il potere»
 (cfr. Lc 22,25). «È il superamento di schianto di ogni moralismo, perché il punto non è
 più un seguito di leggi, ma è l'avvenimento di un'appartenenza». El ojo como conciencia:
@@ -178,7 +178,7 @@ riconosciuto come seme umano». Y el punto decisivo: «Io sono la via, la verit�
 vita» (Jn 14,6) — «Esiste un solo caso… di un uomo che abbia osato dire no: "Io vi
 faccio vedere la strada alla vita", ma: "Io sono la via, la verità e la vita"».
 
-**b) «Misericordioso».** «La parola che definisce ultimamente Dio è "misericordia"»:
+**b) «Misericordioso».** «La parola che definisce últimamente Dio è "misericordia"»:
 «Settanta volte sette» (Mt 18,21-22). «Non esiste "ma": da qualunque condizione, in
 qualunque momento sei redimibile». «Non esiste niente di più antitetico a Dio… che
 dubitare della sua capacità di misericordia. Non esiste "ma"! È il peccato contro lo
@@ -202,17 +202,17 @@ surrettiziamente». 2Cor 1,17-20: «Dio è testimone che la nostra parola verso 
 per rendere testimonianza alla verità» — «Ma che cos'è la verità?». «Non è una vera
 domanda, perché la domanda ti inserisce nella realtà, ti fa cercare, ti fa insistere
 all'infinito». También es el «È impossibile!» de Nicodemo. «Cristo vuole: "Egli è
-l'Amen"… il "sí, è così!", che è semplicità» (Mt 5,37).
+l'Amén"… il "sí, è così!", che è semplicità» (Mt 5,37).
 
 **c) Contra la confianza en las «nostre cose».** «Mentre tu fai i passi, devi amare la
 meta più che i passi», y «ami, se e nella misura in cui ami la meta». **Mt 19** como «una
 evidenza strepitosa»: el divorcio lo plantean a Cristo no los divorcistas «ma i farisei,
-i radicali, i moralisti a oltranza»; Cristo se demuestra «più rigido dei farisei, anzi,
+i radicali, i moralisti a oltranza»; Cristo se demuestra «più rígido dei farisei, anzi,
 totalmente intransigente», hasta que los apóstoles dicen «se è così, non conviene più
 all'uomo sposarsi» y él responde con los eunucos «per il regno di Dio».
 
 **d) La ley como «riverbero dell'ideale sulle circostanze».** «Perciò quello che fai è
-amore, anche se imposti un tuo progetto economico, un tuo progetto di carriera, perché
+amore, anche se imposti un tuo progetto económico, un tuo progetto di carriera, perché
 nulla in sé è decifrabile come male». A san Francesco se le pidió también la camisa; a
 Nicodemo, «l'unica cosa importante: riconoscere Cristo».
 
@@ -265,7 +265,7 @@ cosí labile e peccatore"».
 y a la vez deja «lieti e certi: certi perché Dio è più forte, perché Cristo è più forte
 di me». Su fragilidad (Os 6,4-5: «il vostro amore è come una nube del mattino»).
 
-**La compagnia es «il segno fisico della grazia»**: «è il luogo dei profeti, è il luogo
+**La compagnia es «il segno físico della grazia»**: «è il luogo dei profeti, è il luogo
 della Sua parola, è il luogo dove la Sua parola ferisce». «Amare Dio… si rivela come
 affezione alla compagnia, come devozione alla compagnia, come ascolto; si rivela come
 sequela». «Ogni obiezione alla sequela è immoralità». «Solo nella umiltà la vita muterà».
@@ -282,7 +282,7 @@ interesse umano che caratterizza il movimento».
 
 **«Spazio umano»** no significa cantidad: «il movimento non è soltanto o non è tanto una
 quantità più vasta del tuo rapporto con tua moglie… lo spazio umano è la totalità dei
-fattori di una persona». La Fraternidad debe ser «l'ambito dove uno impara a guardare una
+fattori di una persona». La Fraternidad debe ser «l'ámbito dove uno impara a guardare una
 persona secondo la totalità del suo spazio umano… è una compagnia, è una cordata per una
 vetta».
 
@@ -321,8 +321,8 @@ dello stesso Padre, siamo fratelli». Giussani recuerda su primera intuición al
 el liceo Berchet: «per conoscere il cristianesimo bisognava che Cristo entrasse nella
 scuola e bisognava mettersi insieme per viverlo».
 
-**La vocación.** «La Fraternità è perché avvenga la mia vocazione, è un aiuto a che
-avvenga la mia vocazione. "Vocazione" è la parola cristiana più bella e meno capita. La
+**La vocación.** «La Fraternità è perché avvenga la mía vocazione, è un aiuto a che
+avvenga la mía vocazione. "Vocazione" è la parola cristiana più bella e meno capita. La
 vocazione è l'impatto del cosmo, della realtà, della storia sul mio io». Y la regla de la
 medida: *Quiquid recipitur ad modum recipientis recipitur* (Mt 13,12: «Chi più ha, più
 avrà»).
@@ -343,7 +343,7 @@ cambia qualcosa di significativo nella nostra vita».
 palestino escribe en árabe: «"Come è bello che i fratelli stiano insieme"… questo sarebbe
 impossibile per gli uomini, ma non è impossibile per Dio». Conclusione de Giussani: que
 las Fraternidades sean «un luogo dove l'estraneità viene abolita dall'amore alla Presenza»,
-«ambito di accoglienza, e perciò di creazione di umanità», y «missionarie, e perciò
+«ámbito di accoglienza, e perciò di creazione di umanità», y «missionarie, e perciò
 creative di una umanità nuova, cioè creative di Chiesa».
 
 ## LA VERA CONVENIENZA
@@ -398,7 +398,7 @@ della unità… Deve affermarsi in noi la consapevolezza d'essere non solo una p
 con certi caratteri comuni, ma un Popolo, un vero Popolo di Dio».
 
 **La sequela como regla suprema.** «La regola suprema della vita è la sequela». «Sequela
-vuol dire che, non la convenienza "umana", ma la mia convenienza vera coincide con una
+vuol dire che, non la convenienza "umana", ma la mía convenienza vera coincide con una
 obbedienza… significa rifare in noi un atteggiamento di giudizio e di affezione in tutto
 quello che facciamo».
 
@@ -415,7 +415,7 @@ di Cristo».
 
 **Tres resueltos.** (1) «L'attivismo»: «Non leghiamo la nostra persona al movimento, ma
 siamo legati al movimento per le cose che facciamo». (2) «La superficialità»: «la
-compagnia che non Cristo», il contenido degradado «in ideologia o in una pratica di
+compagnia che non Cristo», il contenido degradado «in ideología o in una pratica di
 rapporti per evitare la solitudine». (3) «Il significato delle nostre delusioni»: la
 Fraternidad «non è come te l'aspetti», pero «se ti aspetti Cristo… anche se la comunità
 fosse fatta da un branco di ignobili».
@@ -442,14 +442,14 @@ de la presencia de sus hijos. «Come fa a essere così?».
 domando né questo, né quello… eccetto che Tu sia in me». «Dalla domanda nessuno può
 ritirarsi dicendo: "Non sono capace"». «Le briciole che cadono dalla mensa del ricco»
 (Mt 15,27). Colletta: «un generoso impegno verso la Pasqua ormai vicina» (Ap 21,4: «ogni
-lagrima sarà asciugata»).
+lágrima sarà asciugata»).
 
 ## Referencias
 
 - Esercizi spirituali della Fraternità di Comunione e Liberazione, 15-17 marzo 1985,
   Rimini. En: L. Giussani, *La convenienza umana della fede*, BUR Rizzoli, Milano 2018.
 - Scuola di comunità 1985: L. Giussani, *Alla ricerca del volto umano. Contributo ad una
-  antropologia*, Jaca Book, Milano 1984 (Rizzoli 1995).
+  antropología*, Jaca Book, Milano 1984 (Rizzoli 1995).
 - Cfr. Paolo VI, *Udienza generale*, 23 de julio de 1975 («Litterae communionis», 1980).
 - Cfr. R. Busingye, «Rose, la forza del perdono», «Litterae communionis-Tracce», n. 3,
   marzo 1984.

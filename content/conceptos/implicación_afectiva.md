@@ -27,7 +27,7 @@ Giussani distingue cuidadosamente dos formulaciones de la implicación:
 
 La libertad está al servicio del vínculo: «La libertà deve favorire l'implicazione affettiva totale» (AED, 09, 121). La libertad no es arbitraria, sino adhesión al ser. Cuando la libertad se ordena a la verdad de cada acto — afirmado en su conexión con el destino — el acto se vuelve inteligente y la implicación afectiva se hace posible.
 
-La implicación afectiva total conduce a la oración como su esito más concreto: «Dio, fammi capace, aiutami. Ti domando» (AED, 09, 81). La forma totalizante documenta la implicación en las cosas concretas de la vida cotidiana — el Angelus, la comida, el tranvía, la gente — haciendo que la fe sea experiencia y no intención genérica.
+La implicación afectiva total conduce a la oración como su esito más concreto: «Dio, fammi capace, aiutami. Ti domando» (AED, 09, 81). La forma totalizante documenta la implicación en las cosas concretas de la vida cotidiana — el Ángelus, la comida, el tranvía, la gente — haciendo que la fe sea experiencia y no intención genérica.
 
 ## Perspectivas por fuente
 

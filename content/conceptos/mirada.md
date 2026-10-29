@@ -27,6 +27,10 @@ La pureza de corazón, en esta perspectiva, es la virtud que devuelve a la mirad
 
 ## Perspectivas por fuente
 
+### Según la Teología de la Perfección Cristiana (TPCr)
+
+Royo Marín distingue las «miradas peligrosas» (que provocan la tentación) de las «miradas pecaminosas» (que consentidas constituyen pecado venial o mortal según la intensidad y el objeto). La dirección espiritual aconseja la vigilancia de la mirada como medio ascético fundamental, sin caer en el escrúpulo.
+
 ### Según la Teología del Cuerpo (TdC) — Catequesis 39
 
 «La mirada como umbral de la verdad interior»: esta fórmula sintetiza la enseñanza central. «Cristo enseña a considerar la mirada como umbral de la verdad interior» (TdC, cateq. 39). La expresión latina *intueri sequitur esse* (el mirar sigue al ser) confirma que el modo de mirar revela la estructura profunda del sujeto: quien mira con concupiscencia revela un corazón esclavo del deseo; quien mira con pureza revela un corazón libre y donante.
@@ -42,10 +46,6 @@ La «concupiscencia de la mirada» se identifica con el «adulterio cometido en 
 ### Según Veritatis Splendor (VS)
 
 Veritatis Splendor amplía la dimensión de la mirada a la relación con Dios: apartar la mirada de Dios es idolatría; mantener la mirada fija en el Señor es fuente de pureza y de vida moral. La «mirada pura» es también mirada de fe: ver a Dios presente en el otro, en la creación, en la Eucaristía.
-
-### Según la Teología de la Perfección Cristiana (TPCr)
-
-Royo Marín distingue las «miradas peligrosas» (que provocan la tentación) de las «miradas pecaminosas» (que consentidas constituyen pecado venial o mortal según la intensidad y el objeto). La dirección espiritual aconseja la vigilancia de la mirada como medio ascético fundamental, sin caer en el escrúpulo.
 
 ### Según Il senso religioso (SR)
 

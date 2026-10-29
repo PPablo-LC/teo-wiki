@@ -18,7 +18,7 @@ Sirvió como policía imperial en Birmania (1922-1927), experiencia que lo convi
 
 ## Obras principales
 
-- *Down and Out in Paris and London* (1933)
+- *Down and Out in París and London* (1933)
 - *Burmese Days* (1934)
 - *The Road to Wigan Pier* (1937)
 - *Homage to Catalonia* (1938)

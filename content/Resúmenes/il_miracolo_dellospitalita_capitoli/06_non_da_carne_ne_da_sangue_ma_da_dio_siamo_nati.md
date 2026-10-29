@@ -59,9 +59,9 @@ tags: ["resumen", "perdón", "hospitalidad", "matrimonio", "caridad"]
 
 - «La libertà dall'esito è la condizione perché sia "carità" il motivo»; el publicano «è uscito dal Tempio benedetto da Dio».
 - «"Noi accogliamo perché siamo accolti" [...] "Amiamo perché siamo stati amati". [...] Che cos'è la carità? È il riconoscimento di essere amati».
-- El sacrificio sin alegría: «Se un sacrificio non lo potete fare, se lo fate senza letizia, piuttosto non fatelo!» (Ada Negri, *Mia giovinezza*).
+- El sacrificio sin alegría: «Se un sacrificio non lo potete fare, se lo fate senza letizia, piuttosto non fatelo!» (Ada Negri, *Mía giovinezza*).
 - Puecher: la disponibilidad como grandeza — «Proteggimi, o Dio, perché partendo questa mattina non so dove mi farai fermare questa sera».
 
 ## La oración a la Madonna
 
-- «vi raccomando di non lasciar passare mai una giornata senza pregare la Madonna [...] un'Ave Maria alla Madonna tutti i giorni insieme».
+- «vi raccomando di non lasciar passare mai una giornata senza pregare la Madonna [...] un'Ave María alla Madonna tutti i giorni insieme».

@@ -4,7 +4,7 @@ title: "119. La transmisión de la vida"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 40
 timestamp: 2026-08-01
-description: "Catequesis 119: el «dominio de sí» frente al dominio de las fuerzas de la naturaleza, el «lenguaje del cuerpo» como profetismo del cuerpo, la unión conyugal como comunión de personas, y la inseparabilidad de los significados unitivo y procreador (con la catequesis 120: la anticoncepción y la continencia periódica) — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 119: el «dominio de sí» frente al dominio de las fuerzas de la naturaleza, el «lenguaje del cuerpo» como profetismo del cuerpo, la unión conyugal como comunión de personas, y la inseparabilidad de los significados unitivo y procreador (con la catequesis 120: la anticoncepción y la continencia periódica) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

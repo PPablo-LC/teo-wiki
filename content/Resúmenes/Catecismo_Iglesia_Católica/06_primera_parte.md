@@ -192,7 +192,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 §249 La verdad revelada de la Trinidad ha estado desde los orígenes en la raíz de la fe viva de la Iglesia, principalmente en el Bautismo. Encuentra su expresión en la regla de la fe bautismal y en la liturgia, como el saludo: "La gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo".
 
-§250 Durante los primeros siglos la Iglesia formula más explícitamente su fe trinitaria, para profundizar su inteligencia de la fe y defenderla contra los errores. Fue la obra de los Concilios antiguos, ayudados por los Padres y sostenidos por el sentido de la fe del pueblo cristiano.
+§250 Durante los primeros siglos la Iglesia fórmula más explícitamente su fe trinitaria, para profundizar su inteligencia de la fe y defenderla contra los errores. Fue la obra de los Concilios antiguos, ayudados por los Padres y sostenidos por el sentido de la fe del pueblo cristiano.
 
 §251 La Iglesia debió crear una terminología propia con nociones de origen filosófico: "substancia", "persona" o "hipóstasis", "relación". No sometía la fe a una sabiduría humana, sino que daba un sentido nuevo a estos términos para significar un Misterio inefable.
 
@@ -328,7 +328,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ##### Dios transciende la creación y está presente en ella
 
-§300 Dios es infinitamente más grande que todas sus obras, pero como Creador soberano y libre, causa primera de todo lo que existe, está presente en lo más íntimo de sus criaturas: "En él vivimos, nos movemos y existimos". San Agustín: Dios es superior summo meo et interior intimo meo ("está por encima de lo más alto que hay en mí y está en lo más hondo de mi intimidad").
+§300 Dios es infinitamente más grande que todas sus obras, pero como Creador soberano y libre, causa primera de todo lo que existe, está presente en lo más íntimo de sus criaturas: "En él vivimos, nos movemos y existimos". San Agustín: Dios es superior summo meo et interior íntimo meo ("está por encima de lo más alto que hay en mí y está en lo más hondo de mi intimidad").
 
 ##### Dios mantiene y conduce la creación
 

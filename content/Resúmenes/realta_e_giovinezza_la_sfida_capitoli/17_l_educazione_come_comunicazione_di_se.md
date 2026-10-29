@@ -24,8 +24,8 @@ tags: ["resumen", "educación", "encuentro", "autoridad", "libertad"]
 - [[razón]] — «Dare la ragione è proprio lo zampillare […] della fonte della ragione»
 - [[persona]] — el enseñante es una persona, no un actor ni un instrumento
 - [[totalitarismo]] — el totalitarismo «si pretende la fonte della verità»
-- [[poder]] — el «potere sulle anime» y la «politica di dominio»
-- [[familia]] — «tutta la mia educazione […] l'ho avuta dal modo con cui essi mi hanno amato»
+- [[poder]] — el «potere sulle anime» y la «política di dominio»
+- [[familia]] — «tutta la mía educazione […] l'ho avuta dal modo con cui essi mi hanno amato»
 - [[destino]] — «voler bene significa aver coscienza che la vita ha un destino»
 - [[memoria]] — la memoria vs. el sueño; la tradición como memoria que no olvida nada
 - [[tradición]] — valorada por la autoridad en la escuela libre
@@ -46,9 +46,9 @@ tags: ["resumen", "educación", "encuentro", "autoridad", "libertad"]
 
 ## El educador es una persona, no un actor ni un instrumento
 
-- «L'insegnante non è un attore, non è un funambolo, non è uno strumento»; «La sorgente dell'educazione […] viene dalla mia vita, non dal mio essere insegnante»; «Sono educatore, se comunico me stesso».
-- Todo hombre «ha responsabilità dell'altro», «responsabilità di aiutare l'altro a camminare verso il suo destino»; sin voluntad de comunicación, la educación «è una politica, una politica di dominio».
-- La sociedad moderna «moltiplica gli strumenti sofisticati per poter mascherare la sua volontà di dominio totale»; el **totalitarismo** «fissa che cosa è la verità» (URSS) y te trata de «pazzo» si no adhieres a su criterio; lo paterno: «la cosa più grande che ho avuto nella vita è che mio padre e mia madre mi hanno educato perché mi hanno voluto bene».
+- «L'insegnante non è un attore, non è un funambolo, non è uno strumento»; «La sorgente dell'educazione […] viene dalla mía vita, non dal mio essere insegnante»; «Sono educatore, se comunico me stesso».
+- Todo hombre «ha responsabilità dell'altro», «responsabilità di aiutare l'altro a camminare verso il suo destino»; sin voluntad de comunicación, la educación «è una política, una política di dominio».
+- La sociedad moderna «moltiplica gli strumenti sofisticati per poter mascherare la sua volontà di dominio totale»; el **totalitarismo** «fissa che cosa è la verità» (URSS) y te trata de «pazzo» si no adhieres a su criterio; lo paterno: «la cosa più grande che ho avuto nella vita è che mio padre e mía madre mi hanno educato perché mi hanno voluto bene».
 
 ## El «modo» de relación con lo real: las dos coordenadas
 

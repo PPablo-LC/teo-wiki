@@ -28,16 +28,16 @@ La proposición fundamental es: «La plena purificación del alma no puede logra
 ### Según el Catecismo (CEC)
 
 El CEC §269-271, al hablar de la Revelación, cita a San Juan de la Cruz: «Porque en darnos, como nos dio a su Hijo, que es una Palabra suya, que no tiene otra, todo nos lo habló junto y de una vez en esta sola Palabra». El CEC §2715-2719 trata de la contemplación y las purificaciones pasivas implícitamente.
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Noche»] La noche tiene en la Escritura un simbolismo centrado en la noche pascual del Éxodo: tiempo de la prueba liberadora, en que la palabra de Dios se lanza desde el trono regio (Sab 18,14s). El AT retiene la ambivalencia: temerosa como la muerte (Sal 91,5), pero también tiempo de oración y espera vigilante (Sal 130,6; 63,7). El día de Yahveh puede ser tinieblas para los infieles (Am 5,18). En el NT, la pasión de Cristo es la «hora del poder de las tinieblas» (Lc 22,53), pero la resurrección instaura el día que no conoce ocaso (2Cor 4,6). El cristiano, «hijo del día» (1Tes 5,5), no es ya de la noche, aunque aguarda la luz plena. La noche presente avanza hacia el día (Rom 13,12), y los fieles velan con las lámparas encendidas (Mt 25,6; Ap 21,25; 22,5).
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín se apoya constantemente en San Juan de la Cruz (Noche oscura, Subida, Llama). El pensamiento del Místico Doctor es clarísimo: los principiantes no pueden purificarse del todo, ni con mucho, por más que se ejerciten, hasta que Dios lo haga pasivamente por medio de la purgación de la noche oscura (n.264-265).
 
 La noche del sentido es común y necesaria para todos los que han de pasar de principiantes a aprovechados. La noche del espíritu es de muy pocos: los que han de alcanzar las cumbres del heroísmo y la santidad (n.273, 278).
 
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Noche»] La noche tiene en la Escritura un simbolismo centrado en la noche pascual del Éxodo: tiempo de la prueba liberadora, en que la palabra de Dios se lanza desde el trono regio (Sab 18,14s). El AT retiene la ambivalencia: temerosa como la muerte (Sal 91,5), pero también tiempo de oración y espera vigilante (Sal 130,6; 63,7). El día de Yahveh puede ser tinieblas para los infieles (Am 5,18). En el NT, la pasión de Cristo es la «hora del poder de las tinieblas» (Lc 22,53), pero la resurrección instaura el día que no conoce ocaso (2Cor 4,6). El cristiano, «hijo del día» (1Tes 5,5), no es ya de la noche, aunque aguarda la luz plena. La noche presente avanza hacia el día (Rom 13,12), y los fieles velan con las lámparas encendidas (Mt 25,6; Ap 21,25; 22,5).
 
 ### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
 
@@ -51,8 +51,8 @@ La noche del sentido es común y necesaria para todos los que han de pasar de pr
 
 Dos testimonios del siglo XX enriquecen el tema:
 
-- **Benedetta Bianchi Porro** (cap. 3): la noche alternada con la presencia: «Il mio buio mi pesa, ma lo preferisco, se questo è il prezzo per camminare con più luce dentro al cuore»; «Sono povera... Allora lo chiamo con amore... e Lui dolcemente mi fa posare la testa sul suo grembo». También la noche del espíritu: «La mia mente a volte vacilla: è un deserto mortale. Ho paura... Sono in certi istanti sbalestrata senza sostegno, come in una scala traballante senza appoggio». Y la noche del temor de perder a Dios: «com'è terribile aver solo paura di perdere Dio. E questo mi è accaduto, solo paura. Ho indagato dentro... non ho trovato peccati mortali. Allora... è tornato il sereno, la pace, la bonaccia».
-- **El Curato d'Ars** (cap. 8): la «mistica notte» como conocimiento de la propia miseria: «non chiedete a Dio la conoscenza completa della vostra miseria. Io l'ho domandata... Se Dio non mi avesse sostenuto, sarei allora immediatamente caduto nella disperazione!» — la misma experiencia de Agustín, Francisco y Catalina de Siena: «Dio tutto, io nulla».
+- **Benedetta Bianchi Porro** (cap. 3): la noche alternada con la presencia: «Il mio buio mi pesa, ma lo preferisco, se questo è il prezzo per camminare con più luce dentro al cuore»; «Sono povera... Allora lo chiamo con amore... e Lui dolcemente mi fa posare la testa sul suo grembo». También la noche del espíritu: «La mía mente a volte vacilla: è un deserto mortale. Ho paura... Sono in certi istanti sbalestrata senza sostegno, come in una scala traballante senza appoggio». Y la noche del temor de perder a Dios: «com'è terribile aver solo paura di perdere Dio. E questo mi è accaduto, solo paura. Ho indagato dentro... non ho trovato peccati mortali. Allora... è tornato il sereno, la pace, la bonaccia».
+- **El Curato d'Ars** (cap. 8): la «mística notte» como conocimiento de la propia miseria: «non chiedete a Dio la conoscenza completa della vostra miseria. Io l'ho domandata... Se Dio non mi avesse sostenuto, sarei allora immediatamente caduto nella disperazione!» — la misma experiencia de Agustín, Francisco y Catalina de Siena: «Dio tutto, io nulla».
 
 ## Distinciones importantes
 

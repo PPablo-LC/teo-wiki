@@ -24,7 +24,7 @@ tags: ["resumen", "giussani", "signo", "deseo", "felicidad"]
 
 📄 **Fuente original:** `15_15_il_punto_di_fuga.md`
 
-«Tischreden 46», del 6 de mayo de 1992. **PARTE VI — LA DINAMICA DEL SEGNO.**
+«Tischreden 46», del 6 de mayo de 1992. **PARTE VI — LA DINÁMICA DEL SEGNO.**
 
 ### La scoperta del punto de fuga
 
@@ -36,7 +36,7 @@ El preludio op.28 n.15: la melodía frente a la nota insistente («sempre quella
 
 ### La definición exhaustiva del hombre es el punto de fuga
 
-El instante «io sono la linea che divide il passato dal futuro» (Betocchi); el deseo se traduce en **[[pregunta_del_destino|domanda]]** (Agustín: «il tuo desiderio è la tua preghiera»); «la natura dell'esistenza umana è la storia di una domanda». La pretensión de construir la respuesta (Occidente: el hombre se hace Dios; Oriente: se disuelve).
+El instante «io sono la línea che divide il passato dal futuro» (Betocchi); el deseo se traduce en **[[pregunta_del_destino|domanda]]** (Agustín: «il tuo desiderio è la tua preghiera»); «la natura dell'esistenza umana è la storia di una domanda». La pretensión de construir la respuesta (Occidente: el hombre se hace Dios; Oriente: se disuelve).
 
 ### El corazón hace desear siempre más
 

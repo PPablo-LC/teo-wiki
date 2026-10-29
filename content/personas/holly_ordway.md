@@ -40,4 +40,4 @@ El ensayo está adaptado de *Tolkien's Faith: A Spiritual Biography*, publicado 
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Holly Ordway, 13_jrr_tolkiens_journey_of_faith.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Holly Ordway, 13_jrr_tolkiens_journey_of_faith.md).

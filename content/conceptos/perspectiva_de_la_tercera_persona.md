@@ -14,7 +14,7 @@ timestamp: 2026-07-17
 
 ## Definición
 
-La perspectiva de la tercera persona es el enfoque ético que se formula desde un observador externo y se pregunta si una acción es lícita o ilícita según qué norma, correspondiente a la ética de las normas pero que puede descuidar la educación moral de la persona.
+La perspectiva de la tercera persona es el enfoque ético que se fórmula desde un observador externo y se pregunta si una acción es lícita o ilícita según qué norma, correspondiente a la ética de las normas pero que puede descuidar la educación moral de la persona.
 
 ## Desarrollo doctrinal
 

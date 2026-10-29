@@ -28,7 +28,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## PIO IX, 1846-1878
+## PÍO IX, 1846-1878
 
 Contexto del pontificado.
 
@@ -59,7 +59,7 @@ Contexto del pontificado.
 - D-1647: Fuera de la Iglesia Apostólica Romana nadie puede salvarse; es la única arca de salvación. Pero quienes sufren ignorancia invencible de la verdadera religión no son ante el Señor reos de culpa. Nadie puede señalar los límites de esa ignorancia; sostengamos firmemente que hay un solo Dios, una sola fe, un solo bautismo, sin ir más allá.
 - D-1648: Se han de hacer asiduas súplicas por la conversión de todas las naciones; trabajemos por la común salvación, pues no se ha acortado la mano del Señor (Is. 59, 1) ni faltan los dones de la gracia a quienes con ánimo sincero quieran recibirlos.
 
-## Del falso tradicionalismo (contra Agustín Bonnetty) (1) [Del Decreto de la S. Congr. del Indice de 11 (15) de junio de 1855]
+## Del falso tradicionalismo (contra Agustín Bonnetty) (1) [Del Decreto de la S. Congr. del Índice de 11 (15) de junio de 1855]
 
 - D-1649: «Aun cuando la fe está por encima de la razón, ninguna verdadera disensión ni conflicto puede jamás darse entre ellas, pues ambas proceden de la única fuente inmutable de la verdad, Dios óptimo máximo, y así se prestan mutua ayuda.»
 - D-1650: El razonamiento puede probar con certeza la existencia de Dios, la espiritualidad del alma y la libertad del hombre. La fe es posterior a la revelación y no puede convenientemente alegarse para probar la existencia de Dios contra el ateo, ni la espiritualidad y libertad del alma contra el naturalismo y fatalismo.
@@ -258,7 +258,7 @@ Contexto del pontificado.
 
 ## Secciones incluidas
 
-## PIO IX, 1846-1878
+## PÍO IX, 1846-1878
 
 Contexto del pontificado.
 
@@ -278,7 +278,7 @@ Bula Inefabilis Deus: definición dogmática de la Inmaculada Concepción (D-164
 
 Alocución Singulari quadam: contra quienes equiparan la razón a la religión; salvación únicamente en la Iglesia, con el matiz de la ignorancia invencible (D-1642 a D-1648).
 
-# Del falso tradicionalismo (contra Agustín Bonnetty) (1) [Del Decreto de la S. Congr. del Indice de 11 (15) de junio de 1855]
+# Del falso tradicionalismo (contra Agustín Bonnetty) (1) [Del Decreto de la S. Congr. del Índice de 11 (15) de junio de 1855]
 
 Decreto contra Bonnetty: las tesis sobre fe y razón, la razón precede a la fe, defensa del método escolástico (D-1649 a D-1652).
 

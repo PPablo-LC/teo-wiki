@@ -25,9 +25,9 @@ La piedad tiene un doble aspecto: como virtud moral (parte potencial de la justi
 
 El don de piedad es uno de los siete dones del Espíritu Santo (CEC §1831; 1845). La piedad filial se fundamenta en la gratitud hacia los padres (CEC §2215). Todo acto sincero de piedad reaviva el espíritu de conversión y contribuye al perdón de los pecados (CEC §1437). La Eucaristía es "sacramento de piedad, signo de unidad, vínculo de caridad" (CEC §1323; 1398). La Iglesia honra con piedad el recuerdo de los difuntos (CEC §958). "El gran misterio de la piedad": Cristo manifestado en la carne (CEC §463). La piedad mariana es elemento intrínseco del culto cristiano (CEC §971).
 
-### Según Royo Marín (TPCr)
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
-El don de piedad es el quinto de los siete dones del Espíritu Santo. Perfecciona la virtud de la religión y nos hace sentir hacia Dios una confianza filial y amorosa. Por él vemos a Dios como Padre y nos relacionamos con Él con la ternura de hijos (TPCr, Tercera Parte, Libro II, cap. II). Existen dos métodos de vida mariana: la santa esclavitud mariana y la piedad filial mariana, que tiende a identificarnos con Cristo para amar a María con el corazón mismo de Jesús (TPCr, Primera Parte). La piedad profunda es condición necesaria para la oración vocal bien hecha (TPCr, Tercera Parte, Libro II, cap. III). La purificación pasiva libera del buscarse a sí mismo en la piedad (TPCr, Tercera Parte, Libro I).
+La entrada «Piedad» del VocTeoBib muestra que la piedad bíblica (*hesed*) designa la adhesión mutua que une a parientes, amigos y aliados (Gen 47,29; 1Sa 20,8); se manifiesta en actos de amor fiel y compasivo. Dios muestra su *hesed* a Israel (Ex 34,6; Jer 31,3), y el hombre debe responder con adhesión filial traducida en obediencia y culto (Dt 10,12s). El Mesías estará dotado de piedad (Is 11,2). Cristo es el «piadoso» por excelencia (Act 2,27; Sal 16,10); su piedad filial le lleva a cumplir la voluntad del Padre (Jn 8,29). El misterio de Cristo se llama «el misterio de la piedad» (1Tim 3,16). La piedad cristiana se opone a las prácticas vanas de una piedad falsa (Col 2,16-23).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -35,9 +35,9 @@ La piedad (q.101) es una virtud especial, parte potencial de la justicia, por la
 
 [SmTh IIa-IIae q.101 a.1-4]
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+### Según Royo Marín (TPCr)
 
-La entrada «Piedad» del VocTeoBib muestra que la piedad bíblica (*hesed*) designa la adhesión mutua que une a parientes, amigos y aliados (Gen 47,29; 1Sa 20,8); se manifiesta en actos de amor fiel y compasivo. Dios muestra su *hesed* a Israel (Ex 34,6; Jer 31,3), y el hombre debe responder con adhesión filial traducida en obediencia y culto (Dt 10,12s). El Mesías estará dotado de piedad (Is 11,2). Cristo es el «piadoso» por excelencia (Act 2,27; Sal 16,10); su piedad filial le lleva a cumplir la voluntad del Padre (Jn 8,29). El misterio de Cristo se llama «el misterio de la piedad» (1Tim 3,16). La piedad cristiana se opone a las prácticas vanas de una piedad falsa (Col 2,16-23).
+El don de piedad es el quinto de los siete dones del Espíritu Santo. Perfecciona la virtud de la religión y nos hace sentir hacia Dios una confianza filial y amorosa. Por él vemos a Dios como Padre y nos relacionamos con Él con la ternura de hijos (TPCr, Tercera Parte, Libro II, cap. II). Existen dos métodos de vida mariana: la santa esclavitud mariana y la piedad filial mariana, que tiende a identificarnos con Cristo para amar a María con el corazón mismo de Jesús (TPCr, Primera Parte). La piedad profunda es condición necesaria para la oración vocal bien hecha (TPCr, Tercera Parte, Libro II, cap. III). La purificación pasiva libera del buscarse a sí mismo en la piedad (TPCr, Tercera Parte, Libro I).
 
 ### Giussani — Affezione e dimora (AED)
 

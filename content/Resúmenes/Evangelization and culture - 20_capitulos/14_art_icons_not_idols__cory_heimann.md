@@ -20,10 +20,10 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 
 ## Contenido
 
-El autor, Cory Heimann (director creativo de Likable Art), utiliza su pasión por el baloncesto y el icónico logo «Jumpman» de Michael Jordan para reflexionar sobre el papel del arte en la vida cristiana.
+El autor, Cory Heimann (director creativo de Likable Art), utiliza su pasión por el baloncesto y el icónico logo «Jumpman» de Michael Jordán para reflexionar sobre el papel del arte en la vida cristiana.
 
 ### El poder de un ícono
-Heimann describe cómo la silueta de Jordan, diseñada por Tinker Hatfield y Peter Moore, trascendió las zapatillas para convertirse en un símbolo aspiracional que apunta a la grandeza del jugador. El diseño no se centra en el producto, sino en lo que este representa.
+Heimann describe cómo la silueta de Jordán, diseñada por Tinker Hatfield y Peter Moore, trascendió las zapatillas para convertirse en un símbolo aspiracional que apunta a la grandeza del jugador. El diseño no se centra en el producto, sino en lo que este representa.
 
 ### De las zapatillas a los íconos católicos
 La Iglesia Católica utiliza íconos y crucifijos no para ser venerados por sí mismos, sino para guiar la mirada del fiel hacia la belleza de Dios y la vida eterna. El autor reconoce su propia tendencia a pasar de largo frente a los crucifijos sin detenerse a contemplar el mensaje de esperanza y transformación que contienen.

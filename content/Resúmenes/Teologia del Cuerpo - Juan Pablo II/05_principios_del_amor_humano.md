@@ -4,7 +4,7 @@ title: "Principios del amor humano"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 5
 timestamp: 2026-07-28
-description: "Catequesis 1: Los fundamentos de la familia a la luz de Cristo — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 1: Los fundamentos de la familia a la luz de Cristo — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

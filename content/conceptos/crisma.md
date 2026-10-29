@@ -25,10 +25,6 @@ El crisma es óleo de oliva mezclado con perfume (bálsamo), consagrado por el o
 
 La unción con el santo crisma significa el don del Espíritu Santo al neófito: el bautizado se convierte en «ungido por el Espíritu Santo, incorporado a Cristo, que es ungido sacerdote, profeta y rey» (CEC §1241). En la Confirmación la unción con crisma imprime el carácter sacramental (§1293-§1296). El crisma, junto con el óleo de los catecúmenos y el de los enfermos, es conservado y venerado en lugar seguro del santuario (§1183).
 
-### Según Royo Marín (TPCr)
-
-El crisma («santo crisma») es materia de la Confirmación. Royo Marín lo menciona en el contexto del carácter sacramental: la unción con crisma imprime un sello indeleble que configura con Cristo sacerdote (n. 796). La consagración del crisma es reservada al obispo como signo de la unidad eclesial (n. 289).
-
 ### Según la Summa Theologiae (SmTh)
 
 #### Materia de la confirmación (IIIª q.72 a.2)
@@ -42,6 +38,10 @@ El crisma debe ser **consagrado previamente** por el obispo (q.72 a.3). Santo To
 #### Tiempo de la consagración (IIIª q.72 a.12)
 
 La consagración del crisma se realiza el **Jueves Santo** (a.12 ad 3). Aunque en otros tiempos estaba permitido hacerla cualquier día, la Iglesia determinó que se consagre dos días antes de la Pascua para que pueda distribuirse por la diócesis. Santo Tomás añade que es oportuno bendecir las materias de los sacramentos el día de la institución de la [[eucaristía]], a la cual todos los sacramentos están ordenados.
+
+### Según Royo Marín (TPCr)
+
+El crisma («santo crisma») es materia de la Confirmación. Royo Marín lo menciona en el contexto del carácter sacramental: la unción con crisma imprime un sello indeleble que configura con Cristo sacerdote (n. 796). La consagración del crisma es reservada al obispo como signo de la unidad eclesial (n. 289).
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

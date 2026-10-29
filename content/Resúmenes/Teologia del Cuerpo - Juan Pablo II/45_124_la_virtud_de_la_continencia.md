@@ -4,7 +4,7 @@ title: "124. La virtud de la continencia"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 45
 timestamp: 2026-08-01
-description: "Catequesis 124: la virtud de la continencia como dominio de los impulsos sexuales, su conexión con las demás virtudes, la apertura al significado nupcial del cuerpo, y la respuesta a la aparente «contradicción» de Humanæ vitae — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 124: la virtud de la continencia como dominio de los impulsos sexuales, su conexión con las demás virtudes, la apertura al significado nupcial del cuerpo, y la respuesta a la aparente «contradicción» de Humanæ vitae — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

@@ -36,4 +36,4 @@ Mt 2,18 aplica el llanto de Raquel a la matanza de los inocentes. María, madre 
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `12_chapter_7`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `12_chapter_7`

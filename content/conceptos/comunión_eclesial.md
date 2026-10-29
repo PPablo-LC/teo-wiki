@@ -35,7 +35,7 @@ El documento sitúa la [[eclesiología_de_la_comunión]] como fundamento teológ
 
 ### Según San Juan Pablo II (EA)
 
-El Capítulo IV de *Ecclesia in America* (EA §33-51) desarrolla la comunión como camino para la Iglesia en América. «Ante un mundo roto y deseoso de unidad es necesario proclamar con gozo y fe firme que Dios es comunión, Padre, Hijo y Espíritu Santo, unidad en la distinción, el cual llama a todos los hombres a que participen de la misma comunión trinitaria» [EA §33]. Jesucristo es «el punto central de la misma comunión, y […] el Espíritu Santo trabaja constantemente para crear la comunión y restaurarla cuando se hubiera roto» [EA §33]. «La Iglesia es signo e instrumento de la comunión querida por Dios» [EA §33].
+El Capítulo IV de *Ecclesia in América* (EA §33-51) desarrolla la comunión como camino para la Iglesia en América. «Ante un mundo roto y deseoso de unidad es necesario proclamar con gozo y fe firme que Dios es comunión, Padre, Hijo y Espíritu Santo, unidad en la distinción, el cual llama a todos los hombres a que participen de la misma comunión trinitaria» [EA §33]. Jesucristo es «el punto central de la misma comunión, y […] el Espíritu Santo trabaja constantemente para crear la comunión y restaurarla cuando se hubiera roto» [EA §33]. «La Iglesia es signo e instrumento de la comunión querida por Dios» [EA §33].
 
 La comunión debe manifestarse a través de signos concretos: «la oración en común de unos por otros, el impulso a las relaciones entre las Conferencias Episcopales, los vínculos entre Obispo y Obispo, las relaciones de hermandad entre las diócesis y las parroquias, y la mutua comunicación de agentes pastorales para acciones misionales específicas» [EA §33].
 

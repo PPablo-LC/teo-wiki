@@ -40,12 +40,12 @@ Conferencia del otorrinolaringólogo Jeff Lacour en la Catholic Men's Conference
 - **Muerte al «falso yo» (o máscara) como contenido de la oración**: la reflexión sobre las «identidades falsas» construidas para sobrevivir (heridas infantiles, adaptación social) conecta con la doctrina de la [[perfección_cristiana]] como purificación del yo.
 - **Escrupulosidad como obstáculo para la oración**: la descripción de la lucha contra la escrupulosidad (autoexigencia, cirugía que sale mal, culpa residual) coincide con la doctrina clásica de la [[escrupulosidad]] (que no tiene artículo propio) y de la [[acedia]] en sus formas.
 - **La oración con el paciente como acto de fraternidad**: la imagen del médico que ora con su paciente desde la igualdad de hijos de Dios, no desde la jerarquía, es una aplicación pastoral de la [[espiritualidad_seglar]].
-- **Referencia a Jordan Peterson y al Éxodo**: la metáfora de los israelitas prefiriendo volver a Egipto antes que enfrentar el desierto se usa para describir la tendencia humana a preferir esclavitudes conocidas a la libertad incómoda. Convergente con [[pascua]] y [[éxodo]].
+- **Referencia a Jordán Peterson y al Éxodo**: la metáfora de los israelitas prefiriendo volver a Egipto antes que enfrentar el desierto se usa para describir la tendencia humana a preferir esclavitudes conocidas a la libertad incómoda. Convergente con [[pascua]] y [[éxodo]].
 - **El proceso de «soledad confortable» y de dejar grupos de afirmación**: la dimensión ascética de la oración como desinstalación de apoyos externos coincide con la [[vía_purgativa]].
 
 ### Tensiones o divergencias
 
-No se detectan tensiones doctrinales. La charla es plenamente fiel a la doctrina católica sobre la gracia, la oración y la filiación divina. La referencia a Jordan Peterson (psicólogo no católico) se usa como ilustración psicológica, no como autoridad doctrinal. La mención a «Exodus 90» es un dato de pertenencia del orador, no un juicio teológico.
+No se detectan tensiones doctrinales. La charla es plenamente fiel a la doctrina católica sobre la gracia, la oración y la filiación divina. La referencia a Jordán Peterson (psicólogo no católico) se usa como ilustración psicológica, no como autoridad doctrinal. La mención a «Exodus 90» es un dato de pertenencia del orador, no un juicio teológico.
 
 ## Ver también
 

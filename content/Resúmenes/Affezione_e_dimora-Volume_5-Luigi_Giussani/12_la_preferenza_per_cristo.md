@@ -62,7 +62,7 @@ El lugar donde se verifica con mayor eficacia la eficacia de la compañía vivid
 
 ## Los santos, cada uno muy distinto del otro
 
-Los santos son el aspecto más agudo de la personalidad, y cada uno es muy distinto del otro: el Ser, el misterio de Dios, es decir el misterio de Cristo que me alcanza a través de la propuesta de las circunstancias, si lo reconozco y lo acepto, formula mi inteligencia y mi afectividad, formula mi yo, mi personalidad — la capacidad de agarrar el ser, porque de otro modo se agarra la nada—, y lo plasma de modo que cada uno es distinto, tiene un rostro, un carácter y una personalidad diferentes.
+Los santos son el aspecto más agudo de la personalidad, y cada uno es muy distinto del otro: el Ser, el misterio de Dios, es decir el misterio de Cristo que me alcanza a través de la propuesta de las circunstancias, si lo reconozco y lo acepto, fórmula mi inteligencia y mi afectividad, fórmula mi yo, mi personalidad — la capacidad de agarrar el ser, porque de otro modo se agarra la nada—, y lo plasma de modo que cada uno es distinto, tiene un rostro, un carácter y una personalidad diferentes.
 
 ## La realidad es Cristo
 

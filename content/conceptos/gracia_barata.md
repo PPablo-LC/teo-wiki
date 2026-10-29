@@ -60,6 +60,6 @@ En el podcast de la revista (18_spotlight_barron.md), Tod Worner cita a Bonhoeff
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute:
-  - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversion»
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute:
+  - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversión»
 - Dietrich Bonhoeffer, *El precio del discipulado* (citado en la fuente)

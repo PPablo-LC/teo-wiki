@@ -31,7 +31,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### PIO XII, 1939
+### PÍO XII, 1939
 
 ## De la ley natural (1) [De la Encíclica Summi Pontificatus, de 20 de octubre de 1939]
 
@@ -200,7 +200,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## PIO XII, 1939
+## PÍO XII, 1939
 
 Documentos del pontificado de Pío XII (D-2279 a D-2350).
 

@@ -40,6 +40,6 @@ Dos meses después de su muerte, la niebla se disipó y Colsch se encontró prof
 
 ### Bishop Barron y Word on Fire
 
-Dos series de Barron fueron fundamentales: «Conversion: Following the Call of Christ» y «Untold Blessing: Three Paths to Holiness». «Tu vida no es ti» — esa frase nunca le pareció dura viniendo de él. «Su amor por Dios, su amor por la Iglesia, su pasión por evangelizar a la humanidad son evidentes en todo lo que hace.» Se unió al Institute una semana antes del segundo aniversario de la muerte de Jonathan.
+Dos series de Barron fueron fundamentales: «Conversión: Following the Call of Christ» y «Untold Blessing: Three Paths to Holiness». «Tu vida no es ti» — esa frase nunca le pareció dura viniendo de él. «Su amor por Dios, su amor por la Iglesia, su pasión por evangelizar a la humanidad son evidentes en todo lo que hace.» Se unió al Institute una semana antes del segundo aniversario de la muerte de Jonathan.
 
 > «Cuanto más lejos corramos del Padre, nos encontramos en los brazos del Hijo».

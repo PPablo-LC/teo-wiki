@@ -21,6 +21,10 @@ El perdón de las ofensas es un mandamiento evangélico tan estricto que anteced
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El perdón es cumbre de la oración cristiana (CEC §2844). El perdón de los enemigos es condición fundamental de la reconciliación (CEC §2844-2845). El perdón mutuo es condición para recibir el perdón de Dios (CEC §2638). Cristo vinculó el perdón de los pecados a la fe en el Espíritu Santo y en la Iglesia (CEC §976).
+
 ### Según Las siete lámparas de la vida cristiana (7_Lamps)
 
 Juan Pablo I incluye el perdón de las ofensas en su oración de la caridad: «Dios mío, con todo el corazón y por encima de todo os amo a Vos, bien infinito y felicidad eterna nuestra; por amor vuestro amo al prójimo como a mí mismo y perdono las ofensas recibidas». El perdón de las ofensas es parte integrante de la caridad, inseparable del amor a Dios y al prójimo.
@@ -32,10 +36,6 @@ Siguiendo a Cristo, Juan Pablo I subraya que el perdón tiene precedencia inclus
 Juan Pablo II desarrolla la doctrina del perdón en el marco de la misericordia divina. El perdón cristiano «atestigua que en el mundo está presente el amor más fuerte que el pecado» [DM §14]. Cristo enseña a perdonar sin límite: «setenta veces siete» (Mt 18,22), esto es, «que debería saber perdonar a todos y siempre» [DM §14]. El perdón no suprime las exigencias objetivas de la justicia, pero «la reparación del mal o del escándalo, el resarcimiento por la injuria, la satisfacción del ultraje son condición del perdón» [DM §14].
 
 En la parábola del hijo pródigo, la misericordia del padre revela que «aquel que perdona y aquel que es perdonado se encuentran en un punto esencial, que es la dignidad del hombre que no puede dejarse perder» [DM §14].
-
-### Según el Catecismo (CEC)
-
-El perdón es cumbre de la oración cristiana (CEC §2844). El perdón de los enemigos es condición fundamental de la reconciliación (CEC §2844-2845). El perdón mutuo es condición para recibir el perdón de Dios (CEC §2638). Cristo vinculó el perdón de los pecados a la fe en el Espíritu Santo y en la Iglesia (CEC §976).
 
 ### Giussani — Affezione e dimora (AED)
 

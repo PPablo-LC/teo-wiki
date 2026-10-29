@@ -4,7 +4,7 @@ title: "85. La abstinencia en el matrimonio"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 130
 timestamp: 2026-08-01
-description: "Catequesis 85: la caducidad del mundo y la vocación definitiva, el consejo a las viudas, el cuerpo como templo del Espíritu Santo, la abstinencia voluntaria y periódica y la «condescendencia» paulina (1 Cor 7) — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 85: la caducidad del mundo y la vocación definitiva, el consejo a las viudas, el cuerpo como templo del Espíritu Santo, la abstinencia voluntaria y periódica y la «condescendencia» paulina (1 Cor 7) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

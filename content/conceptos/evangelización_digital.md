@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Evangelización digital
 tags: ["evangelización", "medios_de_comunicación_social", "nueva_evangelización"]
 timestamp: 2026-08-22
-description: "La evangelización a través de los medios digitales: internet, redes sociales y plataformas online como nuevo Areopago para proclamar el Evangelio."
+description: "La evangelización a través de los medios digitales: internet, redes sociales y plataformas online como nuevo Areópago para proclamar el Evangelio."
 ---
 # Evangelización digital
 

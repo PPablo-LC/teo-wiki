@@ -4,7 +4,7 @@ title: "93. La sacramentalidad del matrimonio"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 11
 timestamp: 2026-08-01
-description: "Catequesis 93: la cita de Gén 2,24 en Ef 5,31, el «gran misterio» de Cristo y la Iglesia, la distinción misterio/sacramento y las bases de la sacramentalidad del matrimonio — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 93: la cita de Gén 2,24 en Ef 5,31, el «gran misterio» de Cristo y la Iglesia, la distinción misterio/sacramento y las bases de la sacramentalidad del matrimonio — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

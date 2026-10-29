@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Spotlight: Bishop Barron on Conversion"
+title: "Spotlight: Bishop Barron on Conversión"
 fuente: Evangelization and culture - 18_capitulos
 capítulo: 18
 timestamp: 2026-09-05
-description: "Resumen de 'Spotlight: Bishop Barron on Conversion' — Evangelization and culture - 18_capitulos"
+description: "Resumen de 'Spotlight: Bishop Barron on Conversión' — Evangelization and culture - 18_capitulos"
 tags: ["resumen", "evangelization and culture - 18 capitulos"]
 ---
 
-# Spotlight: Bishop Barron on Conversion
+# Spotlight: Bishop Barron on Conversión
 
 ## Conceptos básicos referenciados
 

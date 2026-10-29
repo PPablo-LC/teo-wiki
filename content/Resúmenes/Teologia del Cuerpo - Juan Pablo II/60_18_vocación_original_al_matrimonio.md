@@ -4,7 +4,7 @@ title: "18. Vocación original al matrimonio"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 60
 timestamp: 2026-08-01
-description: "Catequesis 18: la inocencia originaria como «espiritualización» diversa, creados varón y mujer para el matrimonio (Gén 2, 24) como hermanos en la misma humanidad, y el porvenir del ethos humano — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 18: la inocencia originaria como «espiritualización» diversa, creados varón y mujer para el matrimonio (Gén 2, 24) como hermanos en la misma humanidad, y el porvenir del ethos humano — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

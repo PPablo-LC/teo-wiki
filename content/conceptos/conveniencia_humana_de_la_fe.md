@@ -45,17 +45,17 @@ primer cuaderno:
 2. **El «algo grande» no basta por sí solo.** «No basta haber percibido el
    choque de algo grande para que este se convierta mecánicamente en el
    centro de gravedad del yo». Hace falta que la vida «sienta el escalofrío
-   del ideal, venga attraversata da esso, venga ultimamente vinta e perciò
+   del ideal, venga attraversata da esso, venga últimamente vinta e perciò
    determinata da esso» (00, 27).
 3. **La dificultad de la «conveniencia humana».** «C'è una difficoltà ad
    accogliere l'ideale dentro la convenienza umana» (01, 331): todos
    hacemos «una fatica estrema» por miedo a perder algo. La fe es
    precisamente lo que vence ese cálculo.
-4. **Cristo como encuentro.** «È Cristo l'incontro che può rendere organico
+4. **Cristo como encuentro.** «È Cristo l'incontro che può rendere orgánico
    il senso del destino» (presentación, p. 47). La fe no intellectualiza el
    ideal, lo hace orgánico, es decir, integrado en el tejido de la vida.
 5. **La gratuidad como criterio.** La *convenienza umana* se supera en la
-   **sequela**: «non la convenienza "umana", ma la mia convenienza vera
+   **sequela**: «non la convenienza "umana", ma la mía convenienza vera
    coincide con una obbedienza» (01, 359). El paso de la conveniencia
    humana a «la gran conveniencia de Cristo, la conveniencia ideal» ocurre
    *dentro de la sequela*.
@@ -85,7 +85,7 @@ sin temerosa de perder lo suyo.
 
 TACDC confirma la tesis desde su raíz antropológica: la fe es convenientemente humana porque responde a la «natura originale» del hombre. Como recuerda Ratzinger, «noi possiamo riconoscere solo ciò per cui si dà in noi una corrispondenza» (TACDC, 01, 23); y la Presencia se reconoce precisamente porque «corrisponde al tuo cuore», a una naturaleza «fatta di esigenze di verità, bellezza, giustizia, amore, felicità» (TACDC, 01, 23). La fórmula «Quello che il cuore desidera già esiste» (TACDC, 02, 191) es la otra cara de la *convenienza*: la expectativa del corazón humano no es un espejismo, sino que tiene ya una correspondencia real en el encuentro con Cristo.
 
-De ahí que el fin de la vida no sea una ventaja calculable, sino «il destino della mia vita e della tua, fratello» (TACDC, 01, 53), que se posee solo en la libertad y no por imposición: «il Mistero ci ha creato come esseri liberi, sottomettendosi al tribunale della nostra libertà» (TACDC, 01, 53). La *convenienza* se verifica, pues, en la experiencia: en lo que Giussani llama la «esperienza elementare», el deseo infinito de «felicità, di libertà, di bontà, di giustizia, di amore» que solo el Misterio puede colmar (TACDC, 04, 145-147).
+De ahí que el fin de la vida no sea una ventaja calculable, sino «il destino della mía vita e della tua, fratello» (TACDC, 01, 53), que se posee solo en la libertad y no por imposición: «il Mistero ci ha creato come esseri liberi, sottomettendosi al tribunale della nostra libertà» (TACDC, 01, 53). La *convenienza* se verifica, pues, en la experiencia: en lo que Giussani llama la «esperienza elementare», el deseo infinito de «felicità, di libertà, di bontà, di giustizia, di amore» que solo el Misterio puede colmar (TACDC, 04, 145-147).
 
 ## Distinciones importantes
 
@@ -138,5 +138,5 @@ De ahí que el fin de la vida no sea una ventaja calculable, sino «il destino d
   (Fra Marc'Antonio da San Germano, XVI); Mt 18,3; Lc 19,1-10; Jn 15,5.
 - **Otras fuentes**: Ratzinger, *Il cammino pasquale* (citado en la
   presentación como quien llama «fraternidad» a lo que CL llama
-  *convenienza*); P. Claudel, *L'Annuncio a Maria* (BUR, 2011, p. 179),
+  *convenienza*); P. Claudel, *L'Annuncio a María* (BUR, 2011, p. 179),
   sobre la vida que «riesca non come successo, ma come verità».

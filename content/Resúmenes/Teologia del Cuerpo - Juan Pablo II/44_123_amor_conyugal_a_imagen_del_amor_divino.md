@@ -4,7 +4,7 @@ title: "123. Amor conyugal a imagen del amor divino"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 44
 timestamp: 2026-08-01
-description: "Catequesis 123: el amor conyugal como «fuerza» teologal que participa del amor con que Dios ama, la salvaguarda de la unidad de los dos significados del acto conyugal, la coordinación de los fines del matrimonio y el amor unido a la castidad — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 123: el amor conyugal como «fuerza» teologal que participa del amor con que Dios ama, la salvaguarda de la unidad de los dos significados del acto conyugal, la coordinación de los fines del matrimonio y el amor unido a la castidad — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

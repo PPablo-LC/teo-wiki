@@ -18,7 +18,7 @@ tags:
 > **Texto:** Enrico Galbiati, Elio Guerriero y Antonio Sicari
 > **Traducción:** Kenneth D. Whitehead
 > **Ilustraciones:** Antonio Molino
-> **Editorial:** Winston Press, Minneapolis (Jaca Book—Le Centurion, 1983)
+> **Editorial:** Winston Press, Minneapolis (Jaca Book—Le Centurión, 1983)
 > **Fuente:** `raw/Bases_doctrinales-raw/kings_ocr_clean/`
 > **Código fuente:** KOC
 > **Archivos:** 62 (front matter, caps. 1–59, esquema, contraportada)
@@ -203,4 +203,4 @@ Los 62 resúmenes estructurados de la fuente están en `wiki/Resúmenes/kings_oc
 - Fuente original: `raw/Bases_doctrinales-raw/kings_ocr_clean/` (62 archivos).
 - Índice de conceptos de la fuente: `raw/Bases_doctrinales-raw/kings_ocr_clean/índice.md`.
 - Galbiati, E., Guerriero, E. y Sicari, A. *Kings and Prophets* (The Bible and Its Story, 4). Minneapolis: Winston Press, 1983.
-- Texto bíblico citado según Today's English Version (TEV), tal como aparece en la fuente.
+- Texto bíblico citado según Today's English Versión (TEV), tal como aparece en la fuente.

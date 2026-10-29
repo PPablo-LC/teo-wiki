@@ -25,6 +25,9 @@ La antropología cristiana se distingue de toda concepción meramente filosófic
 
 El Catecismo presenta al hombre creado a imagen de Dios (CEC §355-361), como unidad de cuerpo y alma espiritual (CEC §362-368), dotado de libertad (CEC §1730-1748) y llamado a la bienaventuranza (CEC §1718-1724). El hombre, herido por el pecado original (CEC §396-409), es redimido por Cristo (CEC §420-421). La vocación del hombre es la comunión con Dios en la vida eterna (CEC §1023-1029).
 
+### Según el Compendio (CompDS)
+
+La revelación del misterio de Dios como Amor trinitario ilumina la dignidad y libertad de la persona humana y su intrínseca sociabilidad: «Ser persona a imagen y semejanza de Dios comporta... existir en relación al otro “yo”» (§34, citando *Mulieris dignitatem* 7). La persona humana ha sido creada por Dios, amada y salvada en Jesucristo, y se realiza entretejiendo relaciones de amor, justicia y solidaridad (§35). El libro del Génesis propone los fundamentos de la antropología cristiana: la inalienable dignidad de la persona, la sociabilidad constitutiva del ser humano cuyo prototipo es la unión del hombre y la mujer —«expresión primera de la comunión de personas humanas»—, y el significado del actuar humano en el mundo como custodio de la creación según el designio de Dios (§36–37).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Gaudium et spes* dedica su capítulo I a la dignidad de la persona humana (GS 12-22). El hombre ha sido creado a imagen de Dios (GS 12), dotado de inteligencia y libertad (GS 15-17), llamado a vivir en sociedad (GS 23-32). Cristo revela plenamente el hombre al propio hombre (GS 22). El misterio del pecado (GS 13) y la redención (GS 22) iluminan la condición humana.
@@ -41,9 +44,6 @@ En el Capítulo VII, Juan Pablo II recuerda que la Sagrada Escritura contiene un
 
 La encíclica concluye que «la grandeza del hombre jamás consistirá» en creerse dueño absoluto de sí mismo, sino en «insertarse en la verdad, al amparo de la Sabiduría y en coherencia con ella» (FR, Conclusión, §107). Solo en el horizonte de la verdad «comprenderá la realización plena de su libertad y su llamada al amor y al conocimiento de Dios como realización suprema de sí mismo» (FR, Conclusión, §107).
 
-### Según el Compendio (CompDS)
-
-La revelación del misterio de Dios como Amor trinitario ilumina la dignidad y libertad de la persona humana y su intrínseca sociabilidad: «Ser persona a imagen y semejanza de Dios comporta... existir en relación al otro “yo”» (§34, citando *Mulieris dignitatem* 7). La persona humana ha sido creada por Dios, amada y salvada en Jesucristo, y se realiza entretejiendo relaciones de amor, justicia y solidaridad (§35). El libro del Génesis propone los fundamentos de la antropología cristiana: la inalienable dignidad de la persona, la sociabilidad constitutiva del ser humano cuyo prototipo es la unión del hombre y la mujer —«expresión primera de la comunión de personas humanas»—, y el significado del actuar humano en el mundo como custodio de la creación según el designio de Dios (§36–37).
 
 ## Distinciones importantes
 

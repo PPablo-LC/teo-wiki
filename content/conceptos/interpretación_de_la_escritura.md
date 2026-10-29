@@ -28,7 +28,7 @@ El Concilio Vaticano II señala tres criterios (§111-114):
 
 ### Los sentidos de la Escritura
 
-Según una antigua tradición, se distinguen dos sentidos: el literal y el espiritual, subdividiéndose este último en alegórico, moral y anagógico (§115). El dístico medieval resume: «Littera gesta docet, quid credas allegoria, moralis quid agas, quo tendas anagogia» (§118).
+Según una antigua tradición, se distinguen dos sentidos: el literal y el espiritual, subdividiéndose este último en alegórico, moral y anagógico (§115). El dístico medieval resume: «Littera gesta docet, quid credas allegoria, moralis quid agas, quo tendas anagogía» (§118).
 
 ## Perspectivas por fuente
 
@@ -44,13 +44,13 @@ El CEC subraya que la interpretación de la Escritura queda sometida al juicio d
 
 En el proemio de *Jesús de Nazaret III*, Benedicto XVI expone su método exegético, que complementa los criterios tradicionales con una dimensión hermenéutica específica.
 
-**Dos pasos para una interpretación correcta.** Benedicto XVI sostiene que una interpretación correcta de la Escritura requiere dos pasos: «Por un lado, hay que preguntarse qué es lo que los respectivos autores querían decir en su momento histórico con sus correspondientes textos; éste es el componente histórico de la exegesis. Pero no basta con dejar el texto en el pasado, archivándolo así junto con los acontecimientos sucedidos hace tiempo. La segunda pregunta del auténtico exegeta debe ser ésta: ¿Es cierto lo que se ha dicho? ¿Tiene que ver conmigo? Y, en este caso, ¿de qué manera?».
+**Dos pasos para una interpretación correcta.** Benedicto XVI sostiene que una interpretación correcta de la Escritura requiere dos pasos: «Por un lado, hay que preguntarse qué es lo que los respectivos autores querían decir en su momento histórico con sus correspondientes textos; éste es el componente histórico de la exégesis. Pero no basta con dejar el texto en el pasado, archivándolo así junto con los acontecimientos sucedidos hace tiempo. La segunda pregunta del auténtico exegeta debe ser ésta: ¿Es cierto lo que se ha dicho? ¿Tiene que ver conmigo? Y, en este caso, ¿de qué manera?».
 
 **La dimensión trinitaria de la hermenéutica.** Ante un texto como la Biblia, «cuyo último y más profundo autor, según nuestra fe, es Dios mismo, la cuestión sobre la relación del pasado con el presente forma parte inevitablemente de la interpretación misma». Esto no disminuye el rigor de la investigación histórica, sino que lo aumenta: «Con ello no disminuye el rigor de la investigación histórica, sino que lo aumenta».
 
 **El coloquio entre pasado, presente y futuro.** Benedicto XVI describe su método como un «coloquio entre el pasado, el presente y el futuro» que «nunca podrá darse por concluido, y que cualquier interpretación se queda corta respecto a la grandeza del texto bíblico». Esta hermenéutica del diálogo evita tanto el historicismo (reducir el texto al pasado) como el alegorismo subjetivo (prescindir del sentido histórico).
 
-**La exegesis canónica.** En el contexto de las genealogías de Mateo y Lucas (JdN_III, Cap. I), Benedicto XVI aplica su método mostrando cómo los dos autores bíblicos trabajan con el mismo material histórico pero lo interpretan desde perspectivas complementarias: Mateo enfatiza la continuidad con la promesa davídica, mientras que Lucas subraya el nuevo comienzo que Jesús representa. Ambos son autores teológicos que interpretan la historia a la luz de la fe.
+**La exégesis canónica.** En el contexto de las genealogías de Mateo y Lucas (JdN_III, Cap. I), Benedicto XVI aplica su método mostrando cómo los dos autores bíblicos trabajan con el mismo material histórico pero lo interpretan desde perspectivas complementarias: Mateo enfatiza la continuidad con la promesa davídica, mientras que Lucas subraya el nuevo comienzo que Jesús representa. Ambos son autores teológicos que interpretan la historia a la luz de la fe.
 
 ### Según Raymond Brown (HEB)
 

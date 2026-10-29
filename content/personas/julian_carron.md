@@ -48,7 +48,7 @@ católico el pensamiento de Giussani más allá de las transcripciones
 informales que circularon durante décadas, y fija un criterio de selección y
 decuraduría homogéneo para toda la obra. Desde el punto de vista doctrinal,
 su presentación explicita el núcleo de la teología de Giussani tal como se
-formula en la *convenienza umana* de la fe: que el encuentro con Cristo es lo
+fórmula en la *convenienza umana* de la fe: que el encuentro con Cristo es lo
 que hace «orgánico» el sentido del destino, y que de ahí nacen la
 conversión, la moralidad, el reconocimiento del Padre como centro de
 gravedad y la gloria de Cristo.
@@ -63,7 +63,7 @@ gravedad y la gloria de Cristo.
   campo») y desarrolla el «algo grande», el ideal y Zaqueo.
 - Responsable de la selección de las grabaciones y de la curaduría de los
   textos (00, 119).
-- Presenta la tesis de que «È Cristo l'incontro che può rendere organico il
+- Presenta la tesis de que «È Cristo l'incontro che può rendere orgánico il
   senso del destino» (presentación, p. 47), y la identifica con el
   «partner de Dio» de Lc 19: «è il tuo nome».
 

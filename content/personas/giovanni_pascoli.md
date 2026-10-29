@@ -39,7 +39,7 @@ invisible que lo escucha y lo ve: «Chi che tu sia, rivela / chi sei»; pero
 
 Sin embargo, Giussani subraya que el ciego no puede arrancar de sí la
 «sempre aspettata alba d'un sole, / che di là brilla»: ese **presentimiento
-del verdadero** es el «atteggiamento implicito che rende vera l'umanità» de
+del verdadero** es el «atteggiamento implícito che rende vera l'umanità» de
 la mayoría de los hombres (03, 293). El poema ilustra así, por contraste, el
 [[presentimiento_del_vero]] y la necesidad del [[hecho_cristiano]]: la
 Palabra se hizo carne (Gv 1,14), pero el hombre ciego solo percibe un

@@ -47,5 +47,5 @@ Se relaciona con [[derechos_inalienables]], [[gobierno_representativo]], [[democ
 ## Referencias
 
 - Robert Barron, «What Is Democracy?» (EAC-21, 09_spotlight_barron.md)
-- Larry Arnn, «Is There a Theology of America?» (EAC-21, 15_feature_arnn.md)
+- Larry Arnn, «Is There a Theology of América?» (EAC-21, 15_feature_arnn.md)
 - Kody Cooper, «On the Christian Origins of American Politics» (EAC-21, 14_feature_cooper.md)

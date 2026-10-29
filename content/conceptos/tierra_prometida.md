@@ -39,13 +39,13 @@ El VocTeoBib desarrolla la terra prometida en relación con:
 - La conquista bajo Josué como cumplimiento histórico
 - La dimensión escatológica: la nueva Jerusalén
 
-### Según la exegesis patrística y medieval
-
-Los Padres voient en la tierra prometida una figura de los bienes eternos. San Agustín interpreta la entrada en Canaán como tipo del descanso sabático que espera al pueblo de Dios. La carta a los Hebreos desarrolla la analogia entre la reposo terrenal y el reposo celestial (Heb 3-4).
-
 ### Según la Teología de la Perfección Cristiana (TPCr)
 
 Royo Marín sitúa la terra prometida como figura de la perfección cristiana y la vida eterna. El combate espiritual del cristiano para alcanzar la madurez en Cristo corresponde a la conquista de la herencia prometida.
+### Según la exégesis patrística y medieval
+
+Los Padres voient en la tierra prometida una figura de los bienes eternos. San Agustín interpreta la entrada en Canaán como tipo del descanso sabático que espera al pueblo de Dios. La carta a los Hebreos desarrolla la analogía entre la reposo terrenal y el reposo celestial (Heb 3-4).
+
 
 ## Distinciones importantes
 

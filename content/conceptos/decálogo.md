@@ -75,7 +75,7 @@ El Decálogo no es, por tanto, un código aislado, sino la formulación program�
 
 - [[kevin_mulaney_prudence_decisions]]
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 Para Sicari el Decálogo es, ante todo, el **sendero trazado**: la respuesta a
 la pregunta por una strada claramente marcada y autorizadamente indicada por

@@ -16,7 +16,7 @@ tags: ["resumen", "god is near us capitulos"]
 ## Conceptos básicos referenciados
 
 - [[eucaristía]] — tema central del volumen
-- [[encarnación]] — «Et incarnatus est de Spiritu Sancto ex Maria Virgine»
+- [[encarnación]] — «Et incarnatus est de Spiritu Sancto ex María Virgine»
 - [[misterio_pascual]] — origen de la Eucaristía
 - [[sacrificio_eucarístico]] — corazón de la Iglesia
 - [[presencia_real]] — presencia real de Cristo en el sacramento
@@ -31,7 +31,7 @@ tags: ["resumen", "god is near us capitulos"]
 
 El volumen se cierra con la lista de las fuentes de cada capítulo:
 
-1. **God with Us and God among Us** — «Et incarnatus est de Spiritu Sancto ex Maria Virgine»; publicado con ese título en *30 Tage in Kirche und Welt* 5 (1995), n.º 4, pp. 59-67, y en *Klerusblatt* 75 (1995): 107-10. *(Raw 01.)*
+1. **God with Us and God among Us** — «Et incarnatus est de Spiritu Sancto ex María Virgine»; publicado con ese título en *30 Tage in Kirche und Welt* 5 (1995), n.º 4, pp. 59-67, y en *Klerusblatt* 75 (1995): 107-10. *(Raw 01.)*
 
 2. **God's Yes and His Love Are Maintained Even in Death** (*El origen de la Eucaristía en el misterio pascual*) — *Eucharistie-Mitte der Kirche* (Múnich, 1978), pp. 9-20, 67s. *(Raw 02.)*
 

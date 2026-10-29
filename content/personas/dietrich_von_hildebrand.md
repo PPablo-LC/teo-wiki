@@ -27,7 +27,7 @@ El número 19 de *Evangelization & Culture* republica su discurso «Technology &
 - **La condición de criatura**: la tentación de tratar los bienes donados (matrimonio, amistad, hijos) con soberanía arbitraria; «*Eritis sicut Dei*»; la libertad no como capricho sino como conformidad a la voluntad de Dios; la reverencia como virtud específicamente amenazada.
 - **Los «bienes-don»**: el amor esponsal y la amistad deben ser puros dones; aplicar la tecnología al ámbito espiritual es una grave instrumentalización de la persona.
 - **Antídotos**: la contemplación y la oración mental (islas de recogimiento a lo largo del día, quedar vacío ante Cristo, callar y escuchar), la jerarquía de bienes correcta y la liturgia como alabanza debida a Dios —la verdadera antitoxin contra la tecnocracia—; el *sensus supranaturalis* y el *sensus catholicus* como guardianes.
-- **Human engineering**: la intervención del estado en la vida privada, la panacea del psicoanálisis, el «equilibrio de glándulas», el neutralismo educativo; sintoma de una tecnocracia mala.
+- **Human engineering**: la intervención del estado en la vida privada, la panacea del psicoanálisis, el «equilibrio de glándulas», el neutralismo educativo; síntoma de una tecnocracia mala.
 
 ## Relaciones
 

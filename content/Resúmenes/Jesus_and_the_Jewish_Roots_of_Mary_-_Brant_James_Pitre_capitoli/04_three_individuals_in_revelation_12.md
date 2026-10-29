@@ -36,4 +36,4 @@ La Inmaculada no separa a María de la humanidad: Adán y Eva eran humanos y lib
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `04_three_individuals_in_revelation_12`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `04_three_individuals_in_revelation_12`

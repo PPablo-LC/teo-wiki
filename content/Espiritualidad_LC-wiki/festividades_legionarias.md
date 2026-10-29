@@ -32,7 +32,7 @@ Los Principios y Normas dedican los números 707 a 711 a la clasificación y cel
 
 Las fiestas de esta categoría se celebran con la mayor solemnidad posible. Incluyen:
 
-- *La Natividad del Señor (Navidad):* Celebrada con Misa de Vigilia, Misa de la Aurora y Misa del día. La comunidad se prepara con el Adviento, que incluye la corona, las misas de adviento y las novenas. La noche de Navidad se celebra con una Misa solemne a medianoche, seguida de la «Hora Santa» y un agape comunitario. Los villancicos y la decoración de la capilla contribuyen al ambiente festivo.
+- *La Natividad del Señor (Navidad):* Celebrada con Misa de Vigilia, Misa de la Aurora y Misa del día. La comunidad se prepara con el Adviento, que incluye la corona, las misas de adviento y las novenas. La noche de Navidad se celebra con una Misa solemne a medianoche, seguida de la «Hora Santa» y un ágape comunitario. Los villancicos y la decoración de la capilla contribuyen al ambiente festivo.
 - *La Semana Santa y la Pascua:* La Semana Santa se vive con intensidad: Jueves Santo con la Misa de la Última Cena y la Adoración del Santísimo; Viernes Santo con el Via Crucis solemne y la Celebración de la Pasión; el Triduo Pascual con las celebraciones litúrgicas de la Vigilia Pascual (la fiesta más importante del año). La Pascua se prolonga durante cincuenta días hasta Pentecostés.
 - *La Solemnidad de Cristo Rey:* Celebrada con Misa solemne, actos de consagración y recreación especial. Es una fiesta especialmente significativa para la Legión, que tiene a Cristo Rey como uno de sus títulos fundamentales.
 - *La Asunción de María (15 de agosto):* Celebrada con Misa solemne, Rosario solemne y actos marianos especiales.

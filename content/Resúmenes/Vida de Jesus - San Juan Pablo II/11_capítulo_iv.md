@@ -4,7 +4,7 @@ title: "Capítulo IV"
 fuente: Vida de Jesus - San Juan Pablo II
 capítulo: 11
 timestamp: 2026-08-24
-description: "Resumen de 'Capítulo IV' — Vida de Jesus - San Juan Pablo II"
+description: "Resumen de 'Capítulo IV' — Vida de Jesús - San Juan Pablo II"
 tags: ["resumen", "vida de jesus - san juan pablo ii"]
 ---
 

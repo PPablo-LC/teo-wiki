@@ -10,7 +10,7 @@ tags: ["resumen", apologética, idolatría, bienaventuranza]
 
 # Capítulo 8 — Elías y los profetas de Baal
 
-> 📄 **Fuente original:** `08_chapter_eight.md` — *Arguing Religion: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 8: «Elijah and the Priests of Ba'al».
+> 📄 **Fuente original:** `08_chapter_eight.md` — *Arguing Religión: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 8: «Elijah and the Priests of Ba'al».
 
 ## Conceptos básicos referenciados en este capítulo
 

@@ -112,13 +112,13 @@ El mandato del Card. De Paolis concluyó con la clausura del Capítulo General E
 
 ## Perspectivas por fuente
 
-### Según la Antología del Delegado Pontificio (AntDp-2015)
-
-La figura del delegado pontificio es el instrumento jurídico que articuló todo el proceso de renovación 2010-2014. La AntDp-2015 recoge íntegramente la carta de nombramiento, el decreto sobre modalidades, las cartas pastorales y los decretos administrativos del delegado.
-
 ### Según el CIC
 
 El CIC no tiene un canon específico sobre el delegado pontificio, pero la figura se fundamenta en la potestad primacial del Romano Pontífice (cc. 331-335) y en la posibilidad de establecer modalidades especiales de gobierno para los institutos religiosos.
+
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+La figura del delegado pontificio es el instrumento jurídico que articuló todo el proceso de renovación 2010-2014. La AntDp-2015 recoge íntegramente la carta de nombramiento, el decreto sobre modalidades, las cartas pastorales y los decretos administrativos del delegado.
 
 ### Según Vita Consecrata
 

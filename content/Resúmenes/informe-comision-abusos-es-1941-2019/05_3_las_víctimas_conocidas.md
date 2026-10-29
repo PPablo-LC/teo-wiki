@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "3. Las víctimas conocidas"
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 5
 timestamp: 2026-09-05
 description: "Número de víctimas conocidas de los abusos sexuales cometidos por sacerdotes de la Congregación (alrededor de 1702 menores) y situación judicial (canónica y civil) de los casos."

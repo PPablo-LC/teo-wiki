@@ -52,6 +52,6 @@ El subsidio proporciona una lista de lecturas recomendadas para profundizar en l
 - BENEDICTO XVI, Mensaje al II Congreso mundial de los movimientos eclesiales y de las nuevas comunidades "La belleza de ser cristianos y la alegría de comunicarlo", 22 de mayo de 2006.
 - BENEDICTO XVI, Discurso a un seminario de estudio para Obispos organizado por el Consejo Pontificio para los Laicos, Vaticano, 17 de mayo de 2008.
 - P. Fidel GONZÁLEZ FERNÁNDEZ, MCCJ, *Los movimientos en la Iglesia*, Encuentros, Madrid, 1999.
-- P. Gianfranco GHIRLANDA, SJ., «Le nuove esperienze associative», en *Esperienze associative nella Chiesa. Aspetti canonistici, civili e fiscali*, (Studi Giuridici CV), Libreria Editrice Vaticana, Ciudad del Vaticano 2014.
+- P. Gianfranco GHIRLANDA, SJ., «Le nuove esperienze associative», en *Esperienze associative nella Chiesa. Aspetti canonistici, civili e fiscali*, (Studi Giuridici CV), Librería Editrice Vaticana, Ciudad del Vaticano 2014.
 
 *Octubre de 2014*

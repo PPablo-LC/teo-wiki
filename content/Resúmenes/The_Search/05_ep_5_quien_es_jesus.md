@@ -37,7 +37,7 @@ Dios se hizo hombre en un bebé en un establo. A diferencia de todas las religio
 ### Cuatro biografías
 Los cuatro evangelios (Mateo, Marcos, Lucas y Juan) son cuatro biografías escritas durante su vida, por testigos oculares o seguidores de los apóstoles.
 
-### Simon Greenleaf
+### Simón Greenleaf
 Experto legal que estudió el caso de la resurrección. La evidencia histórica de Jesús es incontestable; la pregunta real no es si existió sino si resucitó.
 
 ## El argumento LUN: mentiroso, lunático o Señor

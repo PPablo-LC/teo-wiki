@@ -53,8 +53,8 @@ tags: ["resumen", "sacrificio", "pertenencia", "misericordia", "deseo", "compañ
 
 - «Siamo in un rapporto giusto con una persona quando [...] abbiamo [...] la prospettiva del suo destino».
 - Dignidad del otro y su «eccedenza»: «L'altro non può essere mai considerato totalmente mio».
-- «Per poter domandare devi essere certo che l'altro abbia simpatia verso di te»; la analogía del niño con los padres.
-- «La parola che descrive ultimamente ciò che è il Dio vivente è la parola "misericordia"».
+- «Per poter domandare devi essere certo che l'altro abbia simpatía verso di te»; la analogía del niño con los padres.
+- «La parola che descrive últimamente ciò che è il Dio vivente è la parola "misericordia"».
 - La misericordia infinita: «la partecipazione all'infinito non può essere infinita: è finita».
 - El salto de calidad: «diventiamo *figli come Lui*, eredi del Padre come Lui».
 
@@ -72,7 +72,7 @@ tags: ["resumen", "sacrificio", "pertenencia", "misericordia", "deseo", "compañ
 ## Deseo del verdadero y vocación
 
 - Kafka: «voglio vivere in modo tale da esserne degno ogni istante» — insuficiente si no se convierte en domanda.
-- «Il desiderio del vero non può non diventare domanda, se è desiderio autentico».
+- «Il desiderio del vero non può non diventare domanda, se è desiderio auténtico».
 - Abelardo: «Non bisogna prevenire la realtà col desiderio»; «Il piano di risposta al tuo desiderio è fissato da chi ti dà il desiderio».
 - Inteligencia y libertad frente al ansia de posesión.
 - «La compagnia è la strada [...] una compagnia vocazionale, una compagnia al Destino».

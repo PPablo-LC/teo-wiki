@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "The Eucharist and the Beatific Vision — Nicholas J. Healy Jr."
+title: "The Eucharist and the Beatific Visión — Nicholas J. Healy Jr."
 fuente: Evangelization and culture - 11
 capítulo: 14
 timestamp: 2026-08-23
@@ -8,7 +8,7 @@ description: "Resumen del Feature central: Eucaristía y visión beatífica; Ben
 tags: ["resumen", "evangelization and culture - 11"]
 ---
 
-# The Eucharist and the Beatific Vision — Dr. Nicholas J. Healy Jr.
+# The Eucharist and the Beatific Visión — Dr. Nicholas J. Healy Jr.
 
 ## Conceptos básicos referenciados en este capítulo
 

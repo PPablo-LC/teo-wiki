@@ -36,6 +36,9 @@ CEC §2302-2303: Trata el odio junto con la cólera en el contexto del quinto ma
 
 §2303: "El odio deliberado de una persona o grupo y el deseo de su muerte o destrucción son pecados graves contrarios a la caridad. El asesinato de un ser humano es intrínsecamente malvado".
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Odio»] El odio es presentado en la Biblia como fruto del pecado, cuyo proceso (envidia → odio → homicidio) inaugura Caín (Gen 4,2-8) y revela su origen satánico (Sab 2,24). El justo es objeto de odio del impío, según una ley que culmina en Cristo (Jn 15,18-25). En Dios mismo la Escritura habla de un «odio» al pecado y al pecador impenitente (Sal 5,6ss; Prov 6,16-19), pero es un odio que no excluye el amor misericordioso que quiere su conversión (Ez 18,23; Sab 11,24). Jesús, víctima del odio (Jn 15,25), muere para matar el odio (Ef 2,14.16). El discípulo debe odiar el mal (Lc 14,26), pero amar a los enemigos (Lc 6,27); «quien odia a su hermano está en las tinieblas» (1Jn 2,9.11).
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.29 — El odio como pasión del concupiscible:**
@@ -74,9 +77,6 @@ El odio puede ser:
 El odio es uno de los frutos de la [[soberbia]] y se relaciona con la [[envidia]] y la [[ira]]. La virtud opuesta es la caridad y la mansedumbre.
 
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Odio»] El odio es presentado en la Biblia como fruto del pecado, cuyo proceso (envidia → odio → homicidio) inaugura Caín (Gen 4,2-8) y revela su origen satánico (Sab 2,24). El justo es objeto de odio del impío, según una ley que culmina en Cristo (Jn 15,18-25). En Dios mismo la Escritura habla de un «odio» al pecado y al pecador impenitente (Sal 5,6ss; Prov 6,16-19), pero es un odio que no excluye el amor misericordioso que quiere su conversión (Ez 18,23; Sab 11,24). Jesús, víctima del odio (Jn 15,25), muere para matar el odio (Ef 2,14.16). El discípulo debe odiar el mal (Lc 14,26), pero amar a los enemigos (Lc 6,27); «quien odia a su hermano está en las tinieblas» (1Jn 2,9.11).
 
 ## Distinciones importantes
 

@@ -22,13 +22,13 @@ El patripasianismo fue sostenido por Noeto de Esmirna, Práxeas y, en cierta med
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«La fe apostólica en la Trinidad distingue entre el Padre, el Hijo y el Espíritu Santo, sin separarlos ni confundirlos» (CEC §249). «El Padre no es el mismo que el Hijo, ni el Hijo es el mismo que el Espíritu Santo» (CEC §254). «Jesús, el Hijo de Dios, es el único que padeció por nosotros» (CEC §598-599). Quien padece en la cruz es el Hijo, no el Padre.
 ### Según el Denzinger
 
 El Concilio de Nicea I (325) define que el Hijo es «Dios de Dios, Luz de Luz, Dios verdadero de Dios verdadero, engendrado, no creado, consustancial al Padre» (D-54). Esta definición excluye el patripasianismo, pues si el Hijo es consustancial al Padre pero distinto en persona, no es el Padre quien padece. El Símbolo *Quicumque* (D-39) afirma que «el Padre es una persona, el Hijo otra, el Espíritu Santo otra».
 
-### Según el Catecismo (CEC)
-
-«La fe apostólica en la Trinidad distingue entre el Padre, el Hijo y el Espíritu Santo, sin separarlos ni confundirlos» (CEC §249). «El Padre no es el mismo que el Hijo, ni el Hijo es el mismo que el Espíritu Santo» (CEC §254). «Jesús, el Hijo de Dios, es el único que padeció por nosotros» (CEC §598-599). Quien padece en la cruz es el Hijo, no el Padre.
 
 ## Ver también
 

@@ -52,7 +52,7 @@ El capítulo es un elenco de la procedencia editorial de cada pieza del volumen.
 |---|---|
 | *Risposte cristiane ai problemi dei giovani* | Presidenza Diocesana Milanese della Gioventù Italiana di Azione Cattolica, 1956 |
 | *Crisi e possibilità della gioventù studentesca* | Lección en la XI Settimana di spiritualità, Università Cattolica del S. Cuore, en AA.VV., *La gioventù attuale e i problemi della spiritualità*, Vita e Pensiero, Milano 1961, pp. 29-40 |
-| *Ragione e compagnia* | «III. Tempi e contesti nell'attuazione di un metodo», en L. Giussani, *Il rischio educativo*, Rizzoli 2005, pp. 58-64 |
+| *Ragione e compagnia* | «III. Tempi e contesti nell'attuazione di un método», en L. Giussani, *Il rischio educativo*, Rizzoli 2005, pp. 58-64 |
 | *Libertà di educazione* | *Scuola di libertà*, Bergamo, 15-II-1985 |
 | *L'educazione come comunicazione di sé* | *Milano 1990*, en *Agli educatori. L'adulto e la sua responsabilità*, «Quaderni di CL», n. 7/1992, pp. 87-103 |
 | *La famiglia, il luogo naturale* | *La famiglia luogo di educazione all'appartenenza*, «CL-Litterae Communionis», n. 1/1987, pp. 16-19 |

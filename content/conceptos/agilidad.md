@@ -37,7 +37,7 @@ También puede darse el fenómeno por vía preternatural: el demonio, que como e
 El CEC §999-1001 trata de la resurrección de los muertos y las cualidades del cuerpo glorioso. La agilidad es una de las propiedades del cuerpo resucitado.
 ### Según la Summa Theologiae (SmTh, Suppl.)
 
-Santo Tomás trata la agilidad del cuerpo glorioso en Suppl. q.82. La agilidad es la capacidad del cuerpo glorioso de moverse con la velocidad del pensamiento, sin impedimento material (q.82 a.1). Esta cualidad procede de la plena sumisión de la materia al alma glorificada: así como el alma se mueve instantáneamente hacia donde quiere, el cuerpo obedece sin demora. La agilidad supone la sutileza, pues un cuerpo que obedece perfectamente al alma no ofrece resistencia al movimiento. Sin embargo, la agilidad es distinta de la sutileza: la sutileza mira a la sumisión del cuerpo al espíritu en el orden del ser; la agilidad, en el orden del movimiento local.
+Santo Tomás trata la agilidad del cuerpo glorioso en Suppl. q.84. El cuerpo glorificado estará del todo sujeto al alma glorificada, de modo que no solo nada en él resistirá a la voluntad del espíritu, sino que de ella redundará en el cuerpo una perfección por la que se mueve con prontitud donde el alma quiere (a.1). Los bienaventurados se moverán localmente cuando convenga —también el cuerpo de Cristo se movió en la ascensión—, y el movimiento local no quita perfección al que se mueve, porque solo cambia lo extrínseco, el lugar (a.2). El movimiento no será instantáneo en sentido estricto, sino que se realizará en un tiempo brevísimo e imperceptible, tanto más corto cuanto mayor sea la gloria (a.3). La agilidad supone la sutileza, pues un cuerpo que obedece perfectamente al alma no ofrece resistencia al movimiento; pero se distingue de ella: la sutileza mira a la sumisión del cuerpo al espíritu en el orden del ser, la agilidad en el orden del movimiento local.
 
 ### Según Royo Marín (TPCr)
 
@@ -61,4 +61,5 @@ Se relaciona con el [[cuerpo_glorioso]], la [[bilocación]], la [[levitación]],
 ## Referencias
 
 - TPCr, Cuarta Parte, Cap. II, n.847
+- SmTh, Suppl. q.84 a.1-3
 - CEC §999-1001

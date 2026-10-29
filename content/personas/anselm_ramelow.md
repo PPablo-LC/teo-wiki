@@ -15,7 +15,7 @@ timestamp: 2026-09-07
 
 ## Contexto
 
-Doctor en filosofía por la Universidad de Múnich con una tesis sobre Gottfried Leibniz, ha enseñado también en la Graduate Theological Union (Berkeley). Su interés por la relación entre la previsión divina, la estadística y la libertad humana lo sitúa en diálogo directo con la tradición de los jesuitas españoles (Suárez, Molina) y con Sto. Tomás.
+Doctor en filosofía por la Universidad de Múnich con una tesis sobre Gottfried Leibniz, ha enseñado también en la Graduate Theological Unión (Berkeley). Su interés por la relación entre la previsión divina, la estadística y la libertad humana lo sitúa en diálogo directo con la tradición de los jesuitas españoles (Suárez, Molina) y con Sto. Tomás.
 
 ## Aportación: AI as a Challenge to Human Freedom (EAC-19)
 

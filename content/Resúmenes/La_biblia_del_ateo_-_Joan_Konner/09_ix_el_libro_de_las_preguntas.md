@@ -21,7 +21,7 @@ tags: ["resumen", "oración", "pluralismo_religioso", "inmortalidad_del_alma", "
 
 ### Las preguntas a Dios (Shelley)
 
-Percy Bysshe Shelley formula las preguntas clásicas: si es infinitamente bueno, ¿por qué debemos tenerle miedo? Si es infinitamente sabio, ¿por qué dudas? Si lo sabe todo, ¿por qué informarle de nuestras necesidades? Si está en todas partes, ¿por qué erigirle templos?
+Percy Bysshe Shelley fórmula las preguntas clásicas: si es infinitamente bueno, ¿por qué debemos tenerle miedo? Si es infinitamente sabio, ¿por qué dudas? Si lo sabe todo, ¿por qué informarle de nuestras necesidades? Si está en todas partes, ¿por qué erigirle templos?
 
 ### La relatividad de Dios (Crisp / Adams)
 
@@ -45,7 +45,7 @@ Robert G. Ingersoll: Miguel Ángel pintó ángeles con sandalias; cuando un card
 
 ### La muerte y el temor (Epicuro / Hardy)
 
-Epicuro: ¿por qué temer a la muerte? Si existo, no estoy muerto; si estoy muerto, no existo. Thomas Hardy: entramos a la iglesia a decir que nos hemos apartado como ovejas perdidas, cuando_querríamos decir: ¿por qué estamos hechos para perdernos?
+Epicuro: ¿por qué temer a la muerte? Si existo, no estoy muerto; si estoy muerto, no existo. Thomas Hardy: entramos a la iglesia a decir que nos hemos apartado como ovejas pérdidas, cuando_querríamos decir: ¿por qué estamos hechos para perdernos?
 
 ### Las preguntas absurdas (Clarke / Shaw / Los Simpson)
 

@@ -54,7 +54,7 @@ madre».
 
 El retrato se abre con una advertencia —el proceso «no ha concluido aún» y el
 autor no pretende «anticipar el juicio de la Iglesia»— y con el aval de los
-papás. Pablo VI, en el *Angelus* del 23 de septiembre de 1973, habló de ella
+papás. Pablo VI, en el *Ángelus* del 23 de septiembre de 1973, habló de ella
 como «una madre de la diócesis de Milán que, por dar la vida a su hijo, ha
 sacrificado con una **inmolación meditada** su propia vida». Lo mismo hicieron
 después Juan Pablo II y el cardenal Martini.

@@ -25,6 +25,13 @@ No conservarán ninguna deformidad o defecto natural que hayan tenido en esta vi
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §1034-1035 enseña que los que mueren en pecado mortal sin arrepentimiento sufrirán las penas del infierno, incluido «el fuego eterno». La resurrección de los cuerpos para la condenación es afirmada en §998-1001.
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Concilio Vaticano II recuerda que la resurrección será universal: tanto los buenos como los malos resucitarán (LG §48; GS §39).
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica a los cuerpos de los condenados la cuestión 86 del Suplemento. Tres artículos responden a otras tantas preguntas:
@@ -35,13 +42,6 @@ Serán **incorruptibles** (q.86 a.2): no por un principio intrínseco, sino por 
 
 Serán **pasibles** (q.86 a.3): capaces de recibir la acción del fuego del infierno, pero solo con «pasión del alma» (recepción espiritual de la especie sensible), no con «pasión de naturaleza» (alteración física). El fuego los atormentará sin consumirlos, pues la especie del fuego se recibe espiritualmente en el cuerpo del condenado, causando dolor intenso sin corrupción. Esta pasibilidad causa un tormento que no se interrumpe ni se agota.
 
-### Según el Catecismo (CEC)
-
-El CEC §1034-1035 enseña que los que mueren en pecado mortal sin arrepentimiento sufrirán las penas del infierno, incluido «el fuego eterno». La resurrección de los cuerpos para la condenación es afirmada en §998-1001.
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Concilio Vaticano II recuerda que la resurrección será universal: tanto los buenos como los malos resucitarán (LG §48; GS §39).
 
 ## Distinciones importantes
 

@@ -30,7 +30,7 @@ tags: ["resumen", "hospitalidad", "experiencia_elemental", "imitación_de_cristo
 ## La erosión de la experiencia elemental
 
 - Un largo proceso histórico «ha eroso i fattori dell'esperienza elementare: uno innanzitutto, cioè l'apertura originale del cuore e la percezione della realtà come positiva, come carica di promesse». Se ha introducido una distancia por la que las cosas y las personas se han vuelto extrañas.
-- **Sartre** (*La nausea*): «Le mie mani, cosa sono le mie mani? La distanza incommensurabile che mi divide dal mondo degli oggetti».
+- **Sartre** (*La náusea*): «Le mie mani, cosa sono le mie mani? La distanza incommensurabile che mi divide dal mondo degli oggetti».
 - **Benedetto XVI** (Ancona, 11-IX-2011): «La frammentazione del tessuto comunitario si riflette in un relativismo che intacca i valori essenziali», las opciones de fondo «diventano fragili, esposte ad una perenne revocabilità».
 
 ## Algo divino que vence la distancia
@@ -48,11 +48,11 @@ tags: ["resumen", "hospitalidad", "experiencia_elemental", "imitación_de_cristo
 
 ## La maternidad ontológica y genética
 
-- «Se un feto fatto da un'altra donna tu lo raccogli [...] e lo educhi, la madre sei tu, nel senso fisiologico e ontologico del termine». Existe «una maternità più fine ancora, più "genetica" di qualsiasi altra maternità»: ofrecer todo el día por un niño que se sufre.
+- «Se un feto fatto da un'altra donna tu lo raccogli [...] e lo educhi, la madre sei tu, nel senso fisiológico e ontológico del termine». Existe «una maternità più fine ancora, più "genética" di qualsiasi altra maternità»: ofrecer todo el día por un niño que se sufre.
 
 ## María y el «sí»
 
-- Como en la Madonna, cuyo «sì all'annuncio dell'Angelo ha generato il bene più grande che il mondo potesse desiderare». «Avremo anche noi la semplicità di Maria di farGli spazio, ospitandoLo nel ventre della nostra vita?».
+- Como en la Madonna, cuyo «sì all'annuncio dell'Angelo ha generato il bene più grande che il mondo potesse desiderare». «Avremo anche noi la semplicità di María di farGli spazio, ospitandoLo nel ventre della nostra vita?».
 - Cita de Giussani, *L'attrattiva Gesù*: «Dire "sì" a Gesù [...], perché se non dicessi "sì" a Gesù non potrei dir "sì" alle stelle del cielo o ai capelli, ai vostri capelli».
 
 ## Colaboración a la obra del Padre

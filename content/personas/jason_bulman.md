@@ -41,4 +41,4 @@ La historia de Bulman ilustra la [[divinización]] como fin para el que fue crea
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Jason Bulman, 14_feature_bulman.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Jason Bulman, 14_feature_bulman.md).

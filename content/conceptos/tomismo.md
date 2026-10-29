@@ -57,14 +57,6 @@ El Catecismo está profundamente marcado por la terminología y los conceptos to
 - **§1951-1960**: la ley natural, tal como la desarrolla Santo Tomás, es fundamento de la moral católica: «La ley natural es la obra de la Sabiduría divina» (§1952).
 - **§1780-1794**: la conciencia moral se describe en términos tomistas como el «juicio práctico de la razón».
 
-### Denzinger
-
-- **León XIII, *Aeterni Patris*** (1879): DS 3135-3137 — Declaración de que el sistema filosófico de Santo Tomás debe ser restaurado como base de la enseñanza católica. «Que los profesores recuerden que no pueden admitir ni enseñar ninguna novedad contraria a la doctrina de Santo Tomás.»
-- **Pío X, *Pascendi dominici gregis*** (1907) y ***Lamentabili sane exitu*** (1907): condena del modernismo y reafirmación de la filosofía tomista como antídoto.
-- **Pío XII, *Humani generis*** (1950): DS 3883-3884 — Advertencia contra las tendencias que cuestionan la síntesis tomista, particularmente la distinción entre esencia y existencia y la enseñanza sobre la ley natural.
-- **Concilio Vaticano II**: aunque el Concilio no adopta explícitamente la terminología tomista en todos los documentos, su enseñanza sobre la persona humana (*Gaudium et spes*), la libertad religiosa (*Dignitatis humanae*) y la revelación (*Dei Verbum*) se nutre de fuentes tomistas.
-- **Juan Pablo II, *Fides et ratio*** (1998): §43-45 — «Santo Tomás siempre permanece una referencia ineludible para el pensamiento cristiano» y su síntesis entre fe y razón es un modelo para la teología contemporánea.
-
 ### Summa Theologiae
 
 La *Summa Theologiae* es la obra cumbre de Santo Tomás y la fuente primaria del tomismo. Sus tres partes abarcan la totalidad de la teología sistemática:
@@ -73,6 +65,14 @@ La *Summa Theologiae* es la obra cumbre de Santo Tomás y la fuente primaria del
 - **Prima Secundae** (q.1-114): la felicidad humana, las pasiones, los hábitos, la ley, la gracia.
 - **Secunda Secundae** (q.1-189): las virtudes y los vicios en detalle.
 - **Tertia Pars** (q.1-99): Cristo, los sacramentos, la vida eterna.
+### Denzinger
+
+- **León XIII, *Aeterni Patris*** (1879): DS 3135-3137 — Declaración de que el sistema filosófico de Santo Tomás debe ser restaurado como base de la enseñanza católica. «Que los profesores recuerden que no pueden admitir ni enseñar ninguna novedad contraria a la doctrina de Santo Tomás.»
+- **Pío X, *Pascendi dominici gregis*** (1907) y ***Lamentabili sane exitu*** (1907): condena del modernismo y reafirmación de la filosofía tomista como antídoto.
+- **Pío XII, *Humani generis*** (1950): DS 3883-3884 — Advertencia contra las tendencias que cuestionan la síntesis tomista, particularmente la distinción entre esencia y existencia y la enseñanza sobre la ley natural.
+- **Concilio Vaticano II**: aunque el Concilio no adopta explícitamente la terminología tomista en todos los documentos, su enseñanza sobre la persona humana (*Gaudium et spes*), la libertad religiosa (*Dignitatis humanae*) y la revelación (*Dei Verbum*) se nutre de fuentes tomistas.
+- **Juan Pablo II, *Fides et ratio*** (1998): §43-45 — «Santo Tomás siempre permanece una referencia ineludible para el pensamiento cristiano» y su síntesis entre fe y razón es un modelo para la teología contemporánea.
+
 
 ## Distinciones importantes
 

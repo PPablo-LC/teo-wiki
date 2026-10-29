@@ -25,6 +25,9 @@ Santa Teresa de Jesús la define clásicamente: «No es otra cosa oración menta
 
 CEC §2709-2719: La contemplación es la expresión más simple del misterio de la oración. Es mirada de fe, fijada en Jesús. «No se hace contemplación cuando se tiene tiempo, sino que se toma el tiempo de estar con el Señor con la firme decisión de no dejarlo» (CEC §2710). «Yo le miro y él me mira» (CEC §2715, campesino de Ars). La oración contemplativa es unión con la oración de Cristo (CEC §2718).
 
+### Según Royo Marín (TPCr)
+
+TPCr n. 498-502: Royo Marín trata la meditación como segundo grado de oración. Su elemento más típico es el discurso de la razón, encaminado a la finalidad afectiva y práctica. La meditación tiene dos finalidades: una intelectiva (llegar a convicciones firmes) y otra afectiva (mover la voluntad al amor). Toda meditación bien hecha debe terminar en un propósito enérgico y en una plegaria. La meditación es convenientísima para salvarse y absolutamente imprescindible para emprender seriamente el camino de la santificación.
 ### Según la Christus Vita Vestra (CVV-2020)
 
 La CVV-2020 dedica los números §514-528 a la oración mental dentro de los medios generales de formación. La describe como «relación viva y personal con Dios vivo y verdadero» (CVV §514, citando CEC 2558). «La vida del cristiano es una continua oración, un diálogo ininterrumpido y amoroso entre Dios y su criatura» (CVV §514).
@@ -38,9 +41,6 @@ Características de la oración mental según la CVV:
 - Es lugar de discernimiento de la voluntad de Dios (CVV §524).
 - Su desarrollo ordinario consiste en simplificación y creciente profundidad: de ser más discursiva pasa a ser más afectiva, pudiendo llegar a la quietud y a la oración de unión (CVV §526).
 
-### Según Royo Marín (TPCr)
-
-TPCr n. 498-502: Royo Marín trata la meditación como segundo grado de oración. Su elemento más típico es el discurso de la razón, encaminado a la finalidad afectiva y práctica. La meditación tiene dos finalidades: una intelectiva (llegar a convicciones firmes) y otra afectiva (mover la voluntad al amor). Toda meditación bien hecha debe terminar en un propósito enérgico y en una plegaria. La meditación es convenientísima para salvarse y absolutamente imprescindible para emprender seriamente el camino de la santificación.
 
 ## Distinciones importantes
 

@@ -4,7 +4,7 @@ title: "109. El amor conyugal en el Cantar de los Cantares"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 28
 timestamp: 2026-08-01
-description: "Catequesis 109: el Cantar de los Cantares como coronamiento del tema del amor humano, la fascinación recíproca y el «lenguaje del cuerpo», en la línea del sacramento primordial — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 109: el Cantar de los Cantares como coronamiento del tema del amor humano, la fascinación recíproca y el «lenguaje del cuerpo», en la línea del sacramento primordial — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

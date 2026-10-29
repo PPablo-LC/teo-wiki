@@ -27,6 +27,9 @@ El Concilio Vaticano II recuperó esta categoría como eje de la eclesiología, 
 
 §781–786: La Iglesia es Pueblo de Dios porque Dios la convoca de entre todos los pueblos; sus miembros son los que creen en Cristo y han sido regenerados por el Bautismo; su cabeza es Cristo; su condición es la dignidad y la libertad de los hijos de Dios; su ley es el amor; su misión es ser sal de la tierra y luz del mundo.
 
+### Según el Código de Derecho Canónico (CIC)
+
+Cann. 204–205: Definen a los fieles cristianos como quienes, incorporados a Cristo por el Bautismo, son constituidos Pueblo de Dios y participan de la misión de la Iglesia.
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Lumen Gentium*, cap. II (LG 9–17): Define a la Iglesia como «el nuevo Pueblo de Dios», que no es Israel según la carne sino la asamblea de los que creen en Cristo. Este Pueblo tiene a Cristo como cabeza, el Espíritu Santo como alma, y su destino es el Reino de Dios. En él no hay distinción entre judío y gentil, esclavo y libre, varón y mujer —todos son uno en Cristo Jesús (LG 9). Pertenece a este Pueblo por la fe y el Bautismo, y sus miembros participan del sacerdocio común de los fieles (LG 10). La universalidad de este Pueblo es signo de la catolicidad de la Iglesia (LG 13).
@@ -37,9 +40,6 @@ D-332 (III Concilio de Toledo, 589): La profesión de fe afirma la Iglesia como 
 
 D-3000ss (*Lumen Gentium* en DH): El Concilio Vaticano II recoge la noción patrística de Pueblo de Dios como categoría central de la eclesiología conciliar.
 
-### Según el Código de Derecho Canónico (CIC)
-
-Cann. 204–205: Definen a los fieles cristianos como quienes, incorporados a Cristo por el Bautismo, son constituidos Pueblo de Dios y participan de la misión de la Iglesia.
 
 ## Distinciones importantes
 

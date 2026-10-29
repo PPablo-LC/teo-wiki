@@ -35,10 +35,6 @@ La profecía se divide en profecía de predestinación, de presciencia y de conm
 
 El CEC §891-892 trata del magisterio infalible de la Iglesia y la profecía. El §904-905 habla de la función profética de los laicos. La profecía en sentido estricto es un carisma que contribuye a la edificación de la Iglesia (§2004). El §67 enseña que con Cristo se ha dado la revelación definitiva, por lo que no cabe esperar nuevas revelaciones públicas.
 
-### Según Royo Marín (TPCr)
-
-La profecía no es hábito sino luz transeúnte (n.758). Se distingue de la visión intelectual: la profecía añade la manifestación de lo conocido. El don de profecía puede coexistir con el pecado, aunque Dios suele darlo ordinariamente a las almas santas (n.762).
-
 ### Según la Summa Theologiae (SmTh)
 
 **Q171 — Esencia de la profecía:** La profecía pertenece principalmente al conocimiento (q.171 a.1). Consiste en una luz intelectual infundida por Dios a modo de pasión o impresión transeúnte, no como hábito permanente (q.171 a.2). El profeta no puede usar la profecía cuando quiere, sino cuando Dios le ilumina. El objeto principal de la profecía son los futuros contingentes, pero se extiende también a cosas pasadas, presentes, divinas, espirituales y humanas (q.171 a.3). El profeta no conoce necesariamente todo lo que puede ser objeto de profecía, sino solo aquello que Dios le revela (q.171 a.4). El profeta tiene certeza máxima de lo que recibe por revelación expresa, pero puede dudar de lo que conoce por mero instinto (q.171 a.5). En la profecía no cabe error, porque es una semejanza de la presciencia divina, en la cual no hay falsedad (q.171 a.6); las llamadas «profecías condicionales» (como las de conminación) anuncian el orden de las causas a los efectos, no un futuro absoluto.
@@ -52,6 +48,10 @@ La profecía no es hábito sino luz transeúnte (n.758). Se distingue de la visi
 **Cristo tuvo profecía (IIIª q.7 a.8):**
 
 Cristo fue simultáneamente viador y bienaventurado (comprehensor). Como viador, podía conocer y anunciar cosas que estaban lejanas al conocimiento de los demás viadores, y en ese sentido tuvo profecía. La profecía no contradice la bienaventuranza como lo hacen la fe y la esperanza, porque la profecía es un conocimiento revelado que no exige imperfección en el sujeto, sino que es una gracia gratis dada para la utilidad de los demás. Cristo tuvo conocimiento pleno en la parte intelectiva (visión beatífica), pero en la imaginación recibía imágenes de modo profético para manifestar las verdades divinas a los hombres.
+### Según Royo Marín (TPCr)
+
+La profecía no es hábito sino luz transeúnte (n.758). Se distingue de la visión intelectual: la profecía añade la manifestación de lo conocido. El don de profecía puede coexistir con el pecado, aunque Dios suele darlo ordinariamente a las almas santas (n.762).
+
 
 ## Distinciones importantes
 

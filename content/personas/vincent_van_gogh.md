@@ -21,7 +21,7 @@ Vincent Willem Van Gogh (1853-1890) fue un pintor neerlandés post-impresionista
 
 **Ministerio en el Borinage (1878-1880):** Antes de dedicarse al arte, Vincent trabajó como voluntario evangelizador en las comunidades mineras del Borinage (Bélgica). Allí vivió en la pobreza, entregando todo lo que poseía a los mineros enfermos y necesitados. Un testigo presencial relata:
 
-> «Vincent estaba destituto él mismo, habiendo dado todo lo que poseía, incluyendo dinero y ropa, a los pobres... Hizo una cantidad significativa de conversiones entre los protestantes de Wasmes. Sus hechos eran legion.»
+> «Vincent estaba destituto él mismo, habiendo dado todo lo que poseía, incluyendo dinero y ropa, a los pobres... Hizo una cantidad significativa de conversiones entre los protestantes de Wasmes. Sus hechos eran legión.»
 
 Vincent convertía a los «incredulidades y blasfemadores» mediante su «ternura evangélica»: entraba en las casas de los enfermos y les brindaba consuelo. También demostró ser un enfermero hábil, cuidando a su madre después de que esta se fracturara una pierna.
 

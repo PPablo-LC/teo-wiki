@@ -30,7 +30,7 @@ El P. Billy Swan narra su experiencia en un hospital con una mujer terminal que 
 
 Swan reflexiona que esta es la tensión dramática de nuestra vida: el miedo a perder algo —bienes materiales, poder, honor, salud, seres queridos, libertades— siempre acecha. Una opción es aferrarse aún más; pero sabemos que tendremos que soltar todo y entregarnos al misterio de amor infinitamente mayor que nuestros miedos. Como cristianos, creemos que ese misterio de amor que nos rodea y nos invita a avanzar es el Dios de Jesucristo. Por eso los dos poderes más grandes del mundo son el amor y el miedo.
 
-### The Origin of Fear in Eden
+### The Origin of Fear in Edén
 
 En el Jardín del Edén, Adán y Eva fueron creados para una relación confiada con Dios, pero el Maligno jugó con su miedo de perder algo si obedecían. Cayeron presa de ese miedo, dudaron de Dios y tragaron la mentira de que su libertad se vería disminuida si confiaban en Él (Gn 3,1-7).
 
@@ -48,6 +48,6 @@ Juan_pablo_ii no se cansó de decir a los jóvenes: «¡No tengáis miedo!». Be
 
 Swan enumera situaciones cotidianas de miedo: el joven temeroso de casarse, la mujer que discierne la vida religiosa pero teme la reacción de sus amigos, el paciente antes de una cirugía, los padres ante la partida de los hijos, el católico que quiere hablar de su fe en el trabajo pero teme el ridículo. Estas son pruebas de preparación para el acto final de confianza: soltar los miedos y confiar en el Señor Jesús, que es amor perfecto.
 
-### Conclusion
+### Conclusión
 
 Tras orar y ungir a la moribunda con óleo santo, descendió la calma sobre su espíritu. Swan concluye: que nuestra confianza en las promesas de Jesús y la fe en su Palabra sean siempre más fuertes que nuestros miedos. Cuando llegue el momento final, que hagamos lo que practicamos en la vida: enfrentar los miedos con valentía y cruzar el umbral a la vida eterna. Que el único temor que tengamos sea el temor del Señor, y con palabras de santo_tomás_de_aquino: «Que no desee agradar ni temo desagradar a nadie sino a Ti».

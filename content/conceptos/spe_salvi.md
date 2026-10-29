@@ -18,7 +18,7 @@ tags:
 
 ## Definición
 
-**Spe Salvi** (latin: "En la esperanza fuimos salvados") es la segunda encíclica de **Benedicto XVI**, publicada el 30 de noviembre de 2007. Su título proviene de la Epístola a los Romanos 8:24: *"Spe salvi facti sumus"* — "En la esperanza fuimos salvados." La encíclica analiza la virtud teológica de la **esperanza** frente a las falsas esperanzas de la modernidad (progreso indefinido, razón absoluta, revolución, pragmatismo) y propone la esperanza cristiana como la verdadera respuesta a la pregunta por el sentido de la existencia humana.
+**Spe Salvi** (latín: "En la esperanza fuimos salvados") es la segunda encíclica de **Benedicto XVI**, publicada el 30 de noviembre de 2007. Su título proviene de la Epístola a los Romanos 8:24: *"Spe salvi facti sumus"* — "En la esperanza fuimos salvados." La encíclica analiza la virtud teológica de la **esperanza** frente a las falsas esperanzas de la modernidad (progreso indefinido, razón absoluta, revolución, pragmatismo) y propone la esperanza cristiana como la verdadera respuesta a la pregunta por el sentido de la existencia humana.
 
 ## Desarrollo doctrinal
 
@@ -63,6 +63,17 @@ Benedicto identifica "lugares" donde se aprende y vive la esperanza:
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo habla de la esperanza como virtud teológica:
+
+> **CEC 1817-1821**: La esperanza es la virtud teológica por la que deseamos como bien supremo la vida eterna con Dios, y confiamos no en nuestras propias fuerzas, sino en el auxilio de la gracia divina. La esperanza "responde a la aspiración más profunda del hombre a la felicidad".
+
+### Según la Summa Theologiae (SmTh)
+
+**SmTh II-II, q. 17, a. 1**: La esperanza es un movimiento de la apetencia hacia el bien futuro difícil pero posible, por parte de quien confía en obtener la ayuda divina.
+
+**SmTh II-II, q. 17, a. 5**: La esperanza se distingue de la presunción (que espera el bien futuro sin la ayuda de Dios o en cosas imposibles) y de la desesperación (que deja de esperar el bien futuro posible con la ayuda de Dios).
 ### Según Evangelization & Culture, Issue 6 (EcC6)
 
 Peter Seewald, en su artículo "Benedict XVI & Hope", analiza cómo la encíclica Spe Salvi refleja la experiencia vital de Joseph Ratzinger:
@@ -83,17 +94,6 @@ Seewald conecta la encíclica con la experiencia personal de Ratzinger:
 
 > "El principio de esperanza no era un asunto teórico para Ratzinger. Innumerables etapas en su biografía muestran cómo fue personalmente afectado por altibajos. Enfrentó el riesgo de la caída, pero al mismo tiempo experimentó nuevas oportunidades. Su es la historia de un hombre que tuvo el valor de aferrarse, de ver una luz en el sufrimiento, y de confiar en la esperanza de que la vida humana está acompañada por la mano salvadora de un Dios amoroso." (Seewald, §19)
 
-### Según el Catecismo (CEC)
-
-El Catecismo habla de la esperanza como virtud teológica:
-
-> **CEC 1817-1821**: La esperanza es la virtud teológica por la que deseamos como bien supremo la vida eterna con Dios, y confiamos no en nuestras propias fuerzas, sino en el auxilio de la gracia divina. La esperanza "responde a la aspiración más profunda del hombre a la felicidad".
-
-### Según la Summa Theologiae (SmTh)
-
-**SmTh II-II, q. 17, a. 1**: La esperanza es un movimiento de la apetencia hacia el bien futuro difícil pero posible, por parte de quien confía en obtener la ayuda divina.
-
-**SmTh II-II, q. 17, a. 5**: La esperanza se distingue de la presunción (que espera el bien futuro sin la ayuda de Dios o en cosas imposibles) y de la desesperación (que deja de esperar el bien futuro posible con la ayuda de Dios).
 
 ## Distinciones importantes
 

@@ -25,15 +25,15 @@ Santo Tomás explica que la ira en Dios se dice metafóricamente: el efecto del 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+§1738: «El pecado es la esclavitud del hombre. La ira de Dios es la manifestación de su justicia que castiga el pecado».
 ### Según la Summa Theologiae (SmTh)
 
 I, q.3, a.2, ad 2: Dios es impasible; la ira y otras pasiones se le atribuyen metafóricamente, significando el efecto del castigo.
 
 I-II, q.87, a.1–4: La pena del pecado se sigue de la justicia divina. La «ira de Dios» es la manifestación de su justicia vindicativa, que exige la reparación del orden violado por el pecado.
 
-### Según el Catecismo (CEC)
-
-§1738: «El pecado es la esclavitud del hombre. La ira de Dios es la manifestación de su justicia que castiga el pecado».
 
 ## Distinciones importantes
 

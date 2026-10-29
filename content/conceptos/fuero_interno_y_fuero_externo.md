@@ -82,6 +82,13 @@ Es decir, nadie puede lesionar ilegítimamente el derecho de una persona a la bu
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC enseña en el c. 2391 que «la solicitud por el secreto ministerial» es una obligación que dimana de la caridad pastoral. El c. 1467 trata del sigilo sacramental, que es «inviolable».
+
+### Según el CIC
+
+El CIC de 1983 es la principal fuente normativa. Además del c. 130, son relevantes los cc. 220, 239, 240 §1, 630, 985, 983, 1388, 1717.
 ### Según la Antología del Delegado Pontificio (AntDp-2015)
 
 El P. Ghirlanda dedica una conferencia entera a esta distinción (cf. AntDp-2015, `05_tercera_parte.md:670-1130`), titulada «Fuero interno y fuero externo. Ámbito de la conciencia e intimidad de la persona». En ella distingue:
@@ -95,19 +102,12 @@ El P. Ghirlanda dedica una conferencia entera a esta distinción (cf. AntDp-2015
 7. La libertad de elección del confesor (c. 630 §1, c. 985, c. 240 §1).
 8. El secreto natural, el secreto de oficio y el secreto profesional.
 
-### Según el Catecismo (CEC)
-
-El CEC enseña en el c. 2391 que «la solicitud por el secreto ministerial» es una obligación que dimana de la caridad pastoral. El c. 1467 trata del sigilo sacramental, que es «inviolable».
-
-### Según el CIC
-
-El CIC de 1983 es la principal fuente normativa. Además del c. 130, son relevantes los cc. 220, 239, 240 §1, 630, 985, 983, 1388, 1717.
 
 ## Relaciones
 
 - [[conciencia]]: ámbito del fuero interno.
 - [[dirección_espiritual]]: ámbito del fuero interno no sacramental.
-- [[confesión_sacramental]]: ámbito del fuero interno sacramental.
+- [[confesión]]]: ámbito del fuero interno sacramental.
 - [[sigilo_sacramental]]: inviolabilidad del fuero interno sacramental.
 - [[secreto_de_oficio]]: protección del fuero interno no sacramental.
 - [[derecho_a_la_intimidad]]: derecho fundamental del fiel.
@@ -123,7 +123,7 @@ El CIC de 1983 es la principal fuente normativa. Además del c. 130, son relevan
 
 - [[conciencia]]
 - [[dirección_espiritual]]
-- [[confesión_sacramental]]
+- [[confesión]]]
 - [[sigilo_sacramental]]
 - [[secreto_de_oficio]]
 - [[derecho_a_la_intimidad]]

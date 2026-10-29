@@ -27,7 +27,7 @@ la giovinezza».
 
 ### La pregunta que mantiene jóvenes
 
-«Al di là del riferimento tipico a un'età dell'uomo, la giovinezza è […]
+«Al di là del riferimento típico a un'età dell'uomo, la giovinezza è […]
 un atteggiamento del cuore. Si è giovani quando non ci si accomoda, ma si è
 tesi verso la realtà con l'avidità di imparare quel che essa suggerisce sul
 nostro destino» (REG 01). La juventud es la **tensión** hacia la realidad

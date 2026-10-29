@@ -32,7 +32,7 @@ Tertulia (Tischrede 179, 9-11-1995). Se retoman los temas de la semana anterior:
 
 Una joven refiere la frase de la Tischrede 178: «es un legame tan fuerte que se vuelve uno miembro del otro, que te vuelves parte de un cuerpo cuyo io es Cristo», y que el Misterio coincide con el segno, y que ese vínculo va «al di là della preferenza». Al principio objetó; luego la iluminó: si somos miembros de un cuerpo cuyo yo es Cristo, no se puede reducir el segno a una cara, de modo que si falta esa cara falte Jesús; cada una le es indispensable y es segno de un aspecto. Giussani precisa: la preferencia es un segno del Misterio, pero cualquier cosa, en cuanto es y pertenece al rapporto con el destino, es segno del Misterio. No es mi preferencia la planta de caqui en vez de Francesca, pero la planta de caqui, en cuanto participación en el ser, es segno del Misterio como lo es Francesca. Todo lo que es, es segno del Misterio: Jesús se detenía a mirar con maravilla el florecillo del campo pensando en el Padre (Mt 6, 28; Lc 12, 27).
 
-## La preferenza, misericordia pedagogica
+## La preferenza, misericordia pedagógica
 
 El concepto de preferencia no crea ninguna diversidad que sea, en última instancia, una injusticia: todas las caras son segno del Misterio, aunque distintas. El segno preferencial está más bien como misericordia pedagógica con que Dios se revela y se comunica de un modo más simple, más fácil, más inmediato, más gozoso y más fecundo. Si no tiene esta función, la preferencia es una injusticia: una realidad tratada sin razones adecuadas de modo diverso de otra, cuando ambas participan del ser y pertenecen a la misma trayectoria de luz.
 

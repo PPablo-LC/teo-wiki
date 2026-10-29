@@ -21,6 +21,9 @@ Las segundas nupcias son lícitas y verdaderos sacramentos, aunque presentan cie
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §2382: el Señor Jesús insistió en la intención original del Creador que quería un matrimonio indisoluble; pero si el matrimonio no es rato y consumado, puede haber disolución por causas excepcionales.
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata las segundas nupcias en el Suplemento (q.63). Son **lícitas** porque el vínculo matrimonial dura solo hasta la muerte: «la mujer está ligada a su marido mientras este vive; pero si muere el marido, libre es para casarse con quien quiera» (Rom 7,2-3; q.63 a.1). No solo las segundas, sino las terceras y sucesivas nupcias son lícitas.
@@ -29,9 +32,6 @@ Son **verdaderos sacramentos**, pues contienen todos los elementos esenciales de
 
 Las segundas nupcias producen **irregularidad** para recibir las órdenes sagradas (q.63 a.1 ad 4; q.63 a.2 ad 4), no por pecado, sino por el defecto sacramental. Quienes han estado casados dos veces no pueden ser promovidos a las órdenes mayores sin dispensa.
 
-### Según el Catecismo (CEC)
-
-CEC §2382: el Señor Jesús insistió en la intención original del Creador que quería un matrimonio indisoluble; pero si el matrimonio no es rato y consumado, puede haber disolución por causas excepcionales.
 
 ## Distinciones importantes
 

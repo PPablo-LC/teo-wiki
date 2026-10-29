@@ -57,4 +57,4 @@ Nacido en Duluth, Minnesota, se convirtió en figura central de la cultura popul
 ## Referencias
 
 - Petiprin, Andrew. "Music: Bob Dylan, Balladeer." *Evangelization & Culture*, No. 9, Autumn 2021.
-- O'Donnell, Angela Alaimo. "Christ Sightings." *Evangelization & Culture*, No. 9, Autumn 2021.
+- O'Donnell, Ángela Alaimo. "Christ Sightings." *Evangelization & Culture*, No. 9, Autumn 2021.

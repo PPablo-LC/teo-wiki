@@ -80,7 +80,7 @@ La teoría del anonimato, surgida en los últimos 100 años, sostiene cuatro pun
 
 ## Referencias
 
-- *The Case for Jesus* (CfJ), Sesiones 1 y 2.
+- *The Case for Jesús* (CfJ), Sesiones 1 y 2.
 - Papías, *ap.* Eusebio, *Hist. Ecl.* 3.39.15.
 - Ireneo, *Contra las Herejías* 1.1.1.
 - Eusebio, *Hist. Ecl.* 3.25.6-7.

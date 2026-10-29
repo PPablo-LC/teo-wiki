@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Sacramento de la reconciliación"
 tags: ["sacramental"]
-timestamp: 2026-10-19
+timestamp: 2026-10-29
 description: "Sacramento instituido por Jesucristo para el perdón de los pecados cometidos después del bautismo, por la contrición, la confesión y la satisfacción."
 ---
 # Sacramento de la reconciliación
 
 > Área: Sacramental
-> Última actualización: 2026-10-19
+> Última actualización: 2026-10-29
 
 ## Definición
 
@@ -68,12 +68,6 @@ Son los efectos principales:
    - El sacramento confiere gracias especiales para la perseverancia y la fortaleza contra las tentaciones
 
 ## Perspectivas por fuente
-
-### Según la Dives in Misericordia (DM)
-
-La encíclica dedica especial atención al sacramento de la penitencia o reconciliación como lugar donde «cada hombre puede experimentar de manera singular la misericordia, es decir, el amor que es más fuerte que el pecado» [DM §13]. La penitencia, junto con la Eucaristía, es fuente permanente de la misericordia del Salvador que la Iglesia «deposita y dispensa» [DM §13].
-
-El perdón divino no tiene límites: «no hay pecado humano que prevalezca por encima de esta fuerza [de la misericordia] y ni siquiera que la limite. Por parte del hombre puede limitarla únicamente la falta de buena voluntad, la falta de prontitud en la conversión y en la penitencia» [DM §13]. La conversión a Dios que se realiza en la penitencia «consiste siempre en descubrir su misericordia» [DM §13].
 
 ### Según el Catecismo (CEC)
 
@@ -146,6 +140,22 @@ La penitencia es «el sacramento de la segunda tabla». Es el medio ordinario pa
 Sobre la contrición: «La contrición perfecta, aunque perdone de suyo el pecado, no dispensa de la obligación de confesarlo sacramentalmente. Y la atrición, aunque no perdone por sí sola, es disposición necesaria y suficiente para recibir válidamente el sacramento, siempre que vaya unida al propósito de enmendarse.»
 
 La materia próxima del sacramento son los actos del penitente: contrición, confesión y satisfacción (TPCr, Tercera Parte, Libro II, Cap. I, n.521). La contrición es la disposición fundamental para recibir el fruto del sacramento. La satisfacción sacramental tiene valor vindicativo, remisivo de la pena temporal y medicinal (n.546). El valor satisfactorio de las obras impuestas como penitencia sacramental es mayor que si se realizan por propia iniciativa, pues forman parte completiva del sacramento y reciben su fuerza del poder de las llaves.
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+En la actual economía de la salvación, la reconciliación con Dios es posible solamente en Cristo y mediante Cristo, que «derroca el imperio del diablo y aleja la multiforme maldad de los pecados». Esta reconciliación se realiza a través de la Iglesia, sacramento universal de salvación, y su vía ordinaria para la remisión de los pecados cometidos después del bautismo es el sacramento de la penitencia [Ele_Xto_Stos, Cap. XI, §9].
+
+Jesucristo, con su misterio pascual, es la causa meritoria y eficiente de la conversión y de la salvación; y para perpetuar en el tiempo esa acción salvífica instituyó los sacramentos, que justifican y transforman a la persona. Los sacramentos suponen la fe, la nutren, la robustecen y la expresan; no actúan solamente como una exhortación o una ocasión para hacer el bien, sino que operan con una eficacia más íntima, sin parangón en la naturaleza, que orienta el hombre hacia Dios y expresa y perfecciona la imagen de la Santísima Trinidad en el alma [Ele_Xto_Stos, Cap. XI, §9].
+
+### Según el Pontificio Consejo para la Familia — *Sexualidad humana: verdad y significado* (SHVS)
+
+«Una ayuda necesaria y sobrenaturalmente eficaz es frecuentar el Sacramento de la reconciliación, especialmente si se puede contar con un confesor fijo» (SHVS 74). Entre los consejos para crecer en el amor figuran «el recurso frecuente a la oración y a los sacramentos de la Penitencia y de la Eucaristía» (SHVS 71). Los padres deben procurar que los hijos «frecuenten conscientemente los sacramentos, yendo por delante con su ejemplo» (SHVS 74); se recuerda también «el valor pedagógico de la confesión personal» en la adolescencia (SHVS 102).
+
+### Según la Dives in Misericordia (DM)
+
+La encíclica dedica especial atención al sacramento de la penitencia o reconciliación como lugar donde «cada hombre puede experimentar de manera singular la misericordia, es decir, el amor que es más fuerte que el pecado» [DM §13]. La penitencia, junto con la Eucaristía, es fuente permanente de la misericordia del Salvador que la Iglesia «deposita y dispensa» [DM §13].
+
+El perdón divino no tiene límites: «no hay pecado humano que prevalezca por encima de esta fuerza [de la misericordia] y ni siquiera que la limite. Por parte del hombre puede limitarla únicamente la falta de buena voluntad, la falta de prontitud en la conversión y en la penitencia» [DM §13]. La conversión a Dios que se realiza en la penitencia «consiste siempre en descubrir su misericordia» [DM §13].
 
 ### Según Don y Misterio (DyM)
 
@@ -241,7 +251,7 @@ Describe el confesionario como el lugar donde la joven encuentra «una mano pate
 
 Advierte, por último, sobre la elección del confesor: «No te guíes de la moda para elegir confesor. Busca el que conviene a tu actual modo de ser. "Letrado sobre todo, y no medio letrado", como juiciosamente apunta Santa Teresa de Jesús» [PyH, cap. 6]. La confesión se ordena así a la [[conversión]], se une a la [[eucaristía]] y a la [[dirección_espiritual]], y restaura la [[gracia_santificante]].
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 Sicari presenta el sacramento como **don** antes que como trámite: lo que
 recibe el penitente no es el resultado de sus actos, sino un perdón «anterior
@@ -333,5 +343,7 @@ abstenerse con dolor humilde —cultivando el deseo de la Eucaristía— que
 - CEC §1420-1498, §2490
 - CIC cc. 959-997
 - PS §11
+- Ele_Xto_Stos, Cap. XI, §9
+- SHVS 71, 74, 102
 - [CIS, «La catedral interior del sacerdote», 2026]
 - [PyH, Cap. 6]

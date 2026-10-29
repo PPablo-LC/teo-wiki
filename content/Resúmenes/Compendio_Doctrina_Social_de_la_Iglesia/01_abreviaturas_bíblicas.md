@@ -37,7 +37,7 @@ El Compendio utiliza las siguientes abreviaturas para documentos eclesiásticos 
 - **CIC** — *Codex Iuris Canonici* (Código de Derecho Canónico)
 - **PL** — *Patrologia Latina* (J. P. Migne)
 - **PG** — *Patrologia Graeca* (J. P. Migne)
-- **Ed. Leon.** — Obras de Santo Tomás de Aquino edición leonina
+- **Ed. León.** — Obras de Santo Tomás de Aquino edición leonina
 
 **Otras siglas:**
 - **Cf.** — *Conferatur* (Compárese)

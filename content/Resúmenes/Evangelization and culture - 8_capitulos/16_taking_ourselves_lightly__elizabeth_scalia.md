@@ -16,7 +16,7 @@ tags: ["resumen", "evangelization and culture - 8 capitulos"]
 - [[humildad]] — tomarse a la ligera; «la risa es un salto»
 - [[señal_de_contradicción]] — la risa católica como contrasigna
 - [[soberbia]] — «Satanás cayó por la fuerza de la gravedad»
-- [[confesión_sacramental]] — anécdotas confesionales
+- [[confesión]]] — anécdotas confesionales
 - [[fulton_sheen]] — el sentido divino del humor
 
 ## Contenido

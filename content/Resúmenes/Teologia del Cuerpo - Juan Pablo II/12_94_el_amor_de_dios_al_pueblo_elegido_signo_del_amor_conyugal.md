@@ -4,7 +4,7 @@ title: "94. El amor de Dios al pueblo elegido, signo del amor conyugal"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 12
 timestamp: 2026-08-01
-description: "Catequesis 94: el misterio escondido desde los siglos en Dios (Ef 1), su realización en Cristo y el amor de Dios al pueblo elegido como signo del amor conyugal — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 94: el misterio escondido desde los siglos en Dios (Ef 1), su realización en Cristo y el amor de Dios al pueblo elegido como signo del amor conyugal — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

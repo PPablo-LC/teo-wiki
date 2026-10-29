@@ -29,6 +29,10 @@ La fidelidad expresa la constancia en el mantenimiento de la palabra dada. «Dio
 ### Según el Compendio (CompDS)
 
 El Señor se hace garante del amor y de la fidelidad conyugales [CompDS §210]. El matrimonio tiene como rasgos característicos la unidad, la indisolubilidad y la fidelidad que exige la donación recíproca y definitiva [CompDS §217]. La verdad del amor y de la sexualidad conyugal se encuentra en la entrega plena y total de las personas con las características de la unidad y de la fidelidad [CompDS §223]. Las parejas que conservan los bienes de la estabilidad y de la indisolubilidad cumplen el cometido de ser un «signo» de la incansable fidelidad con que Dios ama a los hombres [CompDS §225]. La persona homosexual debe ser respetada en su dignidad, sin que ello signifique legitimación de comportamientos contrarios a la ley moral [CompDS §228].
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La fidelidad (hebreo *emet*) es atributo mayor de Dios (Ex 34,6), asociado a su bondad paternal (*hesed*), indicando que la alianza es don gratuito y vínculo que resiste los siglos [VocTeoBib, «Fidelidad»]. Dios es la «roca» de Israel (Dt 32,4): sus palabras no pasan (Is 40,8), sus promesas se mantienen (Tob 14,4). Exige la fidelidad del hombre a la alianza (Jos 24,14). Israel fue infiel, pero Dios eligió al Siervo fiel (Is 42,1ss; 50,4-7). En el NT, Cristo Jesús es el «testigo fiel» que cumple la Escritura (Jn 19,28.30; Ap 19,11ss); por él son mantenidas todas las promesas de Dios (2Cor 1,20). Aun siendo nosotros infieles, él permanece fiel (2Tim 2,13). Los discípulos son llamados «fieles» (Act 10,45; Ef 1,1); la fidelidad tiene como alma el amor y es la prueba del amor auténtico: «Si guardáis mis mandamientos, permaneceréis en mi amor» (Jn 15,9s).
+
 ### Según Royo Marín (TPCr)
 
 La fidelidad a la gracia es uno de los resortes psicológicos más importantes para el adelantamiento en la vida espiritual. Exige:
@@ -50,10 +54,6 @@ La Carta Apostólica *Una fidelidad que genera futuro* (2025) está estructurada
 ### Según Mons. Tihámer Tóth (JvC)
 
 El ejemplo de Régulo es central: volvió a Cartago sabiendo que le esperaban torturas y muerte porque había jurado volver. «He jurado volver. Cumpliré mi deber» [JvC, Cap. I]. El hombre de palabra cumple lo prometido cueste lo que cueste: «Cumple siempre la promesa y la palabra dada. Antes piensa bien lo que vas a prometer. Pero si llegas a prometer algo, entonces, cueste lo que costare, has de cumplirlo. El mentiroso no tiene honor. Guarda tu fama, aunque pierdas lo demás» [JvC, Cap. III].
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La fidelidad (hebreo *emet*) es atributo mayor de Dios (Ex 34,6), asociado a su bondad paternal (*hesed*), indicando que la alianza es don gratuito y vínculo que resiste los siglos [VocTeoBib, «Fidelidad»]. Dios es la «roca» de Israel (Dt 32,4): sus palabras no pasan (Is 40,8), sus promesas se mantienen (Tob 14,4). Exige la fidelidad del hombre a la alianza (Jos 24,14). Israel fue infiel, pero Dios eligió al Siervo fiel (Is 42,1ss; 50,4-7). En el NT, Cristo Jesús es el «testigo fiel» que cumple la Escritura (Jn 19,28.30; Ap 19,11ss); por él son mantenidas todas las promesas de Dios (2Cor 1,20). Aun siendo nosotros infieles, él permanece fiel (2Tim 2,13). Los discípulos son llamados «fieles» (Act 10,45; Ef 1,1); la fidelidad tiene como alma el amor y es la prueba del amor auténtico: «Si guardáis mis mandamientos, permaneceréis en mi amor» (Jn 15,9s).
 
 ### Según La vocación explicada (VocExp)
 
@@ -95,7 +95,7 @@ En los ejercicios de 1994-1996, la fidelidad aparece como la correspondencia que
 
 - **La fidelidad como único sentimento que permanece**: en los ejercicios de 1994, ante la defensa de la vida y el aborto, Giussani observa: «quando ogni altro sentimento cessa, un solo sentimento rimane: la fedeltà» (02, 175). La fidelidad es lo que queda cuando todo lo demás falla.
 
-- **La dificultad como vía de autenticidad**: en 1995, la carta pascual de una joven expresa: «La difficoltà entra come straniera nella normalità del quotidiano, affinché il rapporto con Cristo sia più autentico… dispoto all'obbedienza totale, fino alla croce, con la certezza della risurrezione» (03, 41). La fidelidad no es ausencia de dificultad, sino obediencia en la dificultad.
+- **La dificultad como vía de autenticidad**: en 1995, la carta pascual de una joven expresa: «La difficoltà entra come straniera nella normalità del quotidiano, affinché il rapporto con Cristo sia più auténtico… dispoto all'obbedienza totale, fino alla croce, con la certezza della risurrezione» (03, 41). La fidelidad no es ausencia de dificultad, sino obediencia en la dificultad.
 
 - **La palabra dicha con sinceridad**: «pronunciando questa parola con sincerità che le cose incominciano a perdere la loro opacità, come… la notte che passa dall'alba alla prima aurora» (03, 47). La fidelidad se verifica en la sinceridad de repetir las palabras de la fe aun en la incoherencia.
 

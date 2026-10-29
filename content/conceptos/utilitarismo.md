@@ -21,6 +21,10 @@ El utilitarismo fue desarrollado por Jeremy Bentham y John Stuart Mill en el sig
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás, siguiendo a Aristóteles, distingue entre el *bonum honestum* (el bien que se busca por sí mismo, conforme a la virtud), el *bonum utile* (el bien que se busca por el provecho) y el *bonum delectabile* (el bien que se busca por el placer). La recta razón exige que el *bonum honestum* sea el criterio supremo del obrar humano, subordinando la utilidad y el placer a la virtud.
+
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II critica el utilitarismo como una de las raíces filosóficas de las ideologías del mal. «El utilitarismo ha descartado la primera y fundamental dimensión del bien, la del *bonum honestum*. La antropología utilitarista y la ética que se deriva, parten de la convicción de que el hombre tiende básicamente al interés propio o del grupo al que pertenece» [MI, cap. 7].
@@ -28,10 +32,6 @@ Juan Pablo II critica el utilitarismo como una de las raíces filosóficas de la
 El cálculo utilitarista de Bentham y Mill «es la expresión "normativa" de la ética utilitarista: el máximo placer para el mayor número de personas. A esta perspectiva se debe adecuar el proceder del hombre y la cooperación entre los hombres» [MI, cap. 7].
 
 El peligro del utilitarismo es que «poner el placer en primer plano en el análisis del obrar humano es peligroso e hipoteca la esencia misma de la moralidad» [MI, cap. 7]. Esta ética reduce la libertad humana a la búsqueda del provecho, prescindiendo de la dimensión ética del *bonum honestum*.
-
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás, siguiendo a Aristóteles, distingue entre el *bonum honestum* (el bien que se busca por sí mismo, conforme a la virtud), el *bonum utile* (el bien que se busca por el provecho) y el *bonum delectabile* (el bien que se busca por el placer). La recta razón exige que el *bonum honestum* sea el criterio supremo del obrar humano, subordinando la utilidad y el placer a la virtud.
 
 ### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
 

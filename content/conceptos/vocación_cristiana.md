@@ -21,6 +21,10 @@ La vocación cristiana se realiza en el seguimiento de Cristo, que llama a cada 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo comienza afirmando que «Dios, infinitamente perfecto y bienaventurado en sí mismo, en un designio de pura bondad, creó al hombre libremente para hacerle partícipe de su vida bienaventurada» (§1-3). Todos están llamados a la santidad (§825-829). La vocación del laico es santificar el mundo desde dentro (§898-900).
+
 ### Según la *Redemptor Hominis* (RH)
 
 Juan Pablo II enseña que la unión de Cristo con el hombre, misterio del que nace el «hombre nuevo», es «la fuerza que transforma interiormente al hombre, como principio de una vida nueva que no se desvanece y no pasa, sino que dura hasta la vida eterna» [RH §18]. La vida prometida y dada a cada hombre por el Padre en Jesucristo «es el final cumplimiento de la vocación del hombre» [RH §18].
@@ -33,17 +37,13 @@ El principio del «servicio real» impone «el deber de exigirnos exactamente aq
 
 Cristo enseña que «el mejor uso de la libertad es la caridad que se realiza en la donación y en el servicio». Para tal «libertad nos ha liberado Cristo» [RH §21].
 
-### Según el Catecismo (CEC)
-
-El Catecismo comienza afirmando que «Dios, infinitamente perfecto y bienaventurado en sí mismo, en un designio de pura bondad, creó al hombre libremente para hacerle partícipe de su vida bienaventurada» (§1-3). Todos están llamados a la santidad (§825-829). La vocación del laico es santificar el mundo desde dentro (§898-900).
-
 ### Según la Catequesis de Juan Pablo II (CrSJP)
 
 En la catequesis 34 (28 de octubre de 1987), Juan Pablo II desarrolla la vocación cristiana como seguimiento de Cristo.
 
 Jesús llama a seguirle personalmente. Esta llamada está en el centro mismo del Evangelio (CrSJP 34 §3). La vocación cristiana implica una dedicación radical: dejar padre, madre, esposa, hijos, campos por su causa y el Evangelio (Mt 19,29; Mc 10,29-30) (CrSJP 34 §4).
 
-«El que ama al padre o a la madre más que a mí, no es digno de mí; y el que no toma su cruz y sigue en pos de mí, no es digno de mí» (Mt 10,37-38). Lucas formula: «Si alguno viene a mí y no aborrece a su padre, su madre, su mujer, sus hermanos, sus hermanas y aun su propia vida, no puede ser mi discípulo» (Lc 14,26) (CrSJP 34 §5).
+«El que ama al padre o a la madre más que a mí, no es digno de mí; y el que no toma su cruz y sigue en pos de mí, no es digno de mí» (Mt 10,37-38). Lucas fórmula: «Si alguno viene a mí y no aborrece a su padre, su madre, su mujer, sus hermanos, sus hermanas y aun su propia vida, no puede ser mi discípulo» (Lc 14,26) (CrSJP 34 §5).
 
 Las formas concretas de seguir a Cristo están graduadas según las condiciones, misiones y carismas de las personas. Pero la exigencia de los consejos evangélicos de pobreza, castidad y renuncia de sí compromete a todos «secundum praeparationem animi» (S.Th. II-II q.184 a.7 ad 1), según la disponibilidad del espíritu (CrSJP 34 §5).
 

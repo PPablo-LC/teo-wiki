@@ -37,7 +37,7 @@ El capítulo 43 (*Oficio divino tardío*) regula específicamente esta hora:
 ## Distinciones importantes
 
 - **Completas (Oficio tardío)**: hora corta y sobria antes del sueño; sin Gloria en la Regla de San Benito; carácter de descanso y protección nocturna.
-- **Vísperas**: hora principal vespertina con salmos más largos, cántico evangélico (Magnificat) y Gloria.
+- **Vísperas**: hora principal vespertina con salmos más largos, cántico evangélico (Magníficat) y Gloria.
 - Las Completas no son oración privada: son parte del Oficio divino coral del monasterio.
 
 ## Relaciones doctrinales

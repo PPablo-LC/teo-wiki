@@ -29,24 +29,6 @@ Cristo está presente en la Eucaristía de manera única, verdadera, real y subs
 
 *Sacrosanctum Concilium* 7 enseña las diversas formas de la presencia de Cristo en la liturgia. Cristo está presente en el sacrificio de la Misa, sea en la persona del ministro, sea sobre todo bajo las especies eucarísticas. Está presente con su fuerza en los Sacramentos, de modo que cuando alguien bautiza, es Cristo quien bautiza. Está presente en su palabra, pues cuando se lee en la Iglesia la Sagrada Escritura, es Él quien habla. Está presente cuando la Iglesia suplica y canta salmos, conforme a su promesa: «Donde están dos o tres congregados en mi nombre, allí estoy Yo en medio de ellos» (SC 7).
 
-### Según Royo Marín (TPCr)
-
-Los sacramentos, en especial la Eucaristía, son canales de la gracia divina. La comunión eucarística une íntimamente a Cristo, fuente de toda vida sobrenatural. La presencia real de Cristo en la Eucaristía es el fundamento del culto de adoración y de la práctica de las visitas al Santísimo Sacramento (TPCr, Parte III, Libro II, Cap. I).
-
-### Según el Enchiridion Symbolorum (Denzinger)
-
-El Denzinger recoge en D-133 la afirmación de San León I Magno sobre la presencia real del Cuerpo y Sangre de Cristo en la Eucaristía. El Papa León, en su carta dogmática, enseña que Cristo, verdadero Dios y verdadero hombre, está realmente presente bajo las especies eucarísticas como memorial de su pasión. La definición de la presencia real fue solemnemente promulgada por el Concilio de Trento (Sesión XIII, D-874-888).
-
-**Concilio de Trento** (Sesión XIII, D-874, D-883, Can. 1): definió que en la Eucaristía, después de la consagración, se contiene «verdadera, real y sustancialmente nuestro Señor Jesucristo, verdadero Dios y hombre, bajo la apariencia de aquellas cosas sensibles» (D-874). La presencia eucarística es sacramental y sustancial, no meramente figurada o por eficacia (D-883, Can. 1). Cristo está presente en la Eucaristía antes y después del uso sacramental (D-886, Can. 4).
-
-- [D-874]
-- [D-883]
-- [D-886]
-
-### Según Para Salvarte (PS)
-
-PS afirma que Jesucristo está ahora glorioso en el cielo y en el sagrario [PS §10,45]. En la Eucaristía permanecen el olor, color y sabor del pan y del vino, pero su sustancia se ha convertido en el Cuerpo y la Sangre de Cristo mediante la transubstanciación, conversión milagrosa y singular distinta de las conversiones naturales [PS §10,47,1]. Cristo está presente en todas las Hostias consagradas, entero en cada una de ellas, y su presencia es inextensa: todo en cada parte [PS §10,49,2]. La presencia real está confirmada por milagros eucarísticos como los de Lanciano y Casia, donde las especies se convirtieron en carne y sangre humana verificada científicamente [PS §10,49,3].
-
 ### Según la Summa Theologiae (SmTh)
 
 #### IIIª q.76 — El modo de estar Cristo en este sacramento
@@ -66,6 +48,24 @@ PS afirma que Jesucristo está ahora glorioso en el cielo y en el sagrario [PS �
 **a.7 — No puede ser visto con los ojos corporales:** El cuerpo se hace visible reflejándose en el aire a través de sus accidentes, y los accidentes del cuerpo de Cristo no tienen relación inmediata con las especies sacramentales ni con el aire. Es visible para la inteligencia divina de modo directo y para las bienaventuradas de modo consecuente; el hombre viador solo lo ve por la fe. (SmTh IIIa q.76 a.7)
 
 **a.8 — Las apariciones milagrosas de carne o de un niño:** Ocurren de dos maneras: como visión subjetiva, sin inmutación en el sacramento —cuando uno lo ve y otros ven las especies de pan—, o con existencia real y objetiva de la figura, cuando todos la ven y permanece largo tiempo. En este segundo caso no es la figura natural del cuerpo de Cristo —que no puede verse sino donde está localizado—, sino que permanece la cantidad dimensiva sacramental y se inmutan milagrosamente los otros accidentes, como la figura y el color. No es ilusión: se ordena a mostrar que allí está verdaderamente el cuerpo y la sangre de Cristo. (SmTh IIIa q.76 a.8)
+
+### Según Royo Marín (TPCr)
+
+Los sacramentos, en especial la Eucaristía, son canales de la gracia divina. La comunión eucarística une íntimamente a Cristo, fuente de toda vida sobrenatural. La presencia real de Cristo en la Eucaristía es el fundamento del culto de adoración y de la práctica de las visitas al Santísimo Sacramento (TPCr, Parte III, Libro II, Cap. I).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Denzinger recoge en D-133 la afirmación de San León I Magno sobre la presencia real del Cuerpo y Sangre de Cristo en la Eucaristía. El Papa León, en su carta dogmática, enseña que Cristo, verdadero Dios y verdadero hombre, está realmente presente bajo las especies eucarísticas como memorial de su pasión. La definición de la presencia real fue solemnemente promulgada por el Concilio de Trento (Sesión XIII, D-874-888).
+
+**Concilio de Trento** (Sesión XIII, D-874, D-883, Can. 1): definió que en la Eucaristía, después de la consagración, se contiene «verdadera, real y sustancialmente nuestro Señor Jesucristo, verdadero Dios y hombre, bajo la apariencia de aquellas cosas sensibles» (D-874). La presencia eucarística es sacramental y sustancial, no meramente figurada o por eficacia (D-883, Can. 1). Cristo está presente en la Eucaristía antes y después del uso sacramental (D-886, Can. 4).
+
+- [D-874]
+- [D-883]
+- [D-886]
+
+### Según Para Salvarte (PS)
+
+PS afirma que Jesucristo está ahora glorioso en el cielo y en el sagrario [PS §10,45]. En la Eucaristía permanecen el olor, color y sabor del pan y del vino, pero su sustancia se ha convertido en el Cuerpo y la Sangre de Cristo mediante la transubstanciación, conversión milagrosa y singular distinta de las conversiones naturales [PS §10,47,1]. Cristo está presente en todas las Hostias consagradas, entero en cada una de ellas, y su presencia es inextensa: todo en cada parte [PS §10,49,2]. La presencia real está confirmada por milagros eucarísticos como los de Lanciano y Casia, donde las especies se convirtieron en carne y sangre humana verificada científicamente [PS §10,49,3].
 
 ### Según la *Redemptor Hominis* (RH)
 

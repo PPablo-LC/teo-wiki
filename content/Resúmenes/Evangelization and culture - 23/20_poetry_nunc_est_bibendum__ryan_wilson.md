@@ -27,7 +27,7 @@ Las mareas suben y bajan, el agua se evapora y vuelve a llover como «misericord
 
 ### Memoria y reconciliación
 
-Los días de viaje, las pequeñas verdades, los silencios, las disputas, el sol cálido en la mejilla, las noches de verano con cócteles y amor lento, y las nevadas matutinas — todo habla «una sola palabra de varias maneras hasta que oímos» las «orquestaciones sinfónicas de restauración» que traducen notas perdidas en las melodías más queridas. Cada «belleza separada / y dolor reconciliado en un hallazgo no buscado / y una alegría no merecida».
+Los días de viaje, las pequeñas verdades, los silencios, las disputas, el sol cálido en la mejilla, las noches de verano con cócteles y amor lento, y las nevadas matutinas — todo habla «una sola palabra de varias maneras hasta que oímos» las «orquestaciones sinfónicas de restauración» que traducen notas pérdidas en las melodías más queridas. Cada «belleza separada / y dolor reconciliado en un hallazgo no buscado / y una alegría no merecida».
 
 ### El misterio del amor
 

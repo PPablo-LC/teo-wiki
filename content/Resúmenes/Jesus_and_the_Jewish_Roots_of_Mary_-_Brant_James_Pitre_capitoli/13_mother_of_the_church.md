@@ -40,4 +40,4 @@ La reina madre intercede ante el rey (1 Re 2,19); Caná muestra esa intercesión
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `13_mother_of_the_church`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `13_mother_of_the_church`

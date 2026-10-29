@@ -4,7 +4,7 @@ title: "129. El amor humano en el plan divino"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 50
 timestamp: 2026-08-01
-description: "Catequesis 129: el amor humano en el plan divino, el término teología del cuerpo y el comentario bíblico-personalista a la Humanæ vitæ — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 129: el amor humano en el plan divino, el término teología del cuerpo y el comentario bíblico-personalista a la Humanæ vitæ — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

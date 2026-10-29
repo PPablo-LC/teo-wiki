@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "The Lifegiving Nature of Comedy — Bobby Angel"
+title: "The Lifegiving Nature of Comedy — Bobby Ángel"
 fuente: Evangelization and culture - 8_capitulos
 capítulo: 15
 timestamp: 2026-08-22
-description: "Resumen de 'The Lifegiving Nature of Comedy' de Bobby Angel — Evangelization and culture - 8_capitulos"
+description: "Resumen de 'The Lifegiving Nature of Comedy' de Bobby Ángel — Evangelization and culture - 8_capitulos"
 tags: ["resumen", "evangelization and culture - 8 capitulos"]
 ---
 
-# The Lifegiving Nature of Comedy — Bobby Angel
+# The Lifegiving Nature of Comedy — Bobby Ángel
 
 ## Conceptos básicos referenciados
 
@@ -22,7 +22,7 @@ tags: ["resumen", "evangelization and culture - 8 capitulos"]
 
 ## Contenido
 
-Ensayo principal de Bobby Angel (Cardinal Jean-Marie Lustiger Fellow of Parish Life and Renewal). Apertura doméstica: su hijo de tres años dominando el arte de la distracción cómica (zapatos de princesa, cajas de pañuelos por pies). Preguntas rectoras: ¿por qué reímos? ¿es el humor mera distracción o nos arraiga más en las profundidades de quiénes somos?
+Ensayo principal de Bobby Ángel (Cardinal Jean-Marie Lustiger Fellow of Parish Life and Renewal). Apertura doméstica: su hijo de tres años dominando el arte de la distracción cómica (zapatos de princesa, cajas de pañuelos por pies). Preguntas rectoras: ¿por qué reímos? ¿es el humor mera distracción o nos arraiga más en las profundidades de quiénes somos?
 
 ### Deep thoughts
 
@@ -34,7 +34,7 @@ Shaw: «Si quieres decirle a alguien la verdad, mejor hazlo reír, o te matará�
 
 ### The funny faith
 
-En teología, la comedia es faceta de nuestra creación a *imago Dei*: Dios se deleita gozosamente en el jardín de su creación y quiere que participemos. La ironía («teoría de la incongruencia»): reímos ante conceptos incompatibles y soluciones inesperadas. Sara estéril riéndose de la promesa, Isaac («él reirá»), la burra hablante de Balaam (Nm 22); y la suprema ironía divina: el Mesías naciendo bebé indefenso en Belén. Cita extensa de Barron: «Todo comienza con un chiste... quizá por eso Dios eligió salvarnos haciéndonos reír». ¿Qué le habría parecido gracioso al Dios-hombre integrado? Pescadores y publicanos junto al fuego; «¿qué habría sido oír a Jesús cantar? ¿Y oírlo reír?». El humor no mira de lado la tragedia: ayuda a sobrellevar las partes más oscuras. Ante Ricky Gervais y el problema del mal, Angel propone responder desde Chesterton y Tomás de Aquino (la libertad como condición de posibilidad del mal permitido; Cristo acompañando el sufrimiento hasta los abismos) y cita a Viktor Frankl: el hombre inventó las cámaras de gas de Auschwitz, pero también entró en ellas erguido con el Padrenuestro o el Shemá Israel en los labios.
+En teología, la comedia es faceta de nuestra creación a *imago Dei*: Dios se deleita gozosamente en el jardín de su creación y quiere que participemos. La ironía («teoría de la incongruencia»): reímos ante conceptos incompatibles y soluciones inesperadas. Sara estéril riéndose de la promesa, Isaac («él reirá»), la burra hablante de Balaam (Nm 22); y la suprema ironía divina: el Mesías naciendo bebé indefenso en Belén. Cita extensa de Barron: «Todo comienza con un chiste... quizá por eso Dios eligió salvarnos haciéndonos reír». ¿Qué le habría parecido gracioso al Dios-hombre integrado? Pescadores y publicanos junto al fuego; «¿qué habría sido oír a Jesús cantar? ¿Y oírlo reír?». El humor no mira de lado la tragedia: ayuda a sobrellevar las partes más oscuras. Ante Ricky Gervais y el problema del mal, Ángel propone responder desde Chesterton y Tomás de Aquino (la libertad como condición de posibilidad del mal permitido; Cristo acompañando el sufrimiento hasta los abismos) y cita a Viktor Frankl: el hombre inventó las cámaras de gas de Auschwitz, pero también entró en ellas erguido con el Padrenuestro o el Shemá Israel en los labios.
 
 ### That my joy might be in you
 
@@ -44,7 +44,7 @@ En teología, la comedia es faceta de nuestra creación a *imago Dei*: Dios se d
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | The Lifegiving Nature of Comedy — Bobby Angel |
+| 1 | H1 | The Lifegiving Nature of Comedy — Bobby Ángel |
 
 ## Secciones incluidas
 

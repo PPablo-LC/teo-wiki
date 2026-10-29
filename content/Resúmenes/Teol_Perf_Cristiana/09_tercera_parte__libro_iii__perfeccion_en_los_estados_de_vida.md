@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "Tercera Parte - Libro III - Perfeccion en los estados de vida"
+title: "Tercera Parte - Libro III - Perfección en los estados de vida"
 fuente: Teol_Perf_Cristiana
 capítulo: 9
 timestamp: 2026-07-28
@@ -8,7 +8,7 @@ description: "Resumen de la perfección cristiana en los estados sacerdotal, rel
 tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "sacerdocio", "vida_religiosa", "espiritualidad_seglar", "consejos_evangelicos"]
 ---
 
-# Tercera Parte - Libro III - Perfeccion en los estados de vida
+# Tercera Parte - Libro III - Perfección en los estados de vida
 
 📄 **Fuente original:** `11_Teología_de_la_Perfección_Cristiana_-_Royo_Marín_OP_-_Tercera_Parte_-_Libro_III_-_Perfeccion_en_los_estados_de_vida.md`
 
@@ -65,7 +65,7 @@ Hasta aquí se han estudiado los elementos comunes a toda vida cristiana ([[inha
 
 **e) Bautizar.** Administración de los sacramentos, canales de la gracia. El sacerdote acompaña al cristiano desde la cuna al sepulcro (Pío XI, _Ad catholici sacerdotii_). La digna administración exige santidad personal. Ejercicios de piedad prescritos por el Código: confesión frecuente, [[oración_mental]] diaria, visita al Santísimo, rosario, examen de conciencia, ejercicios espirituales cada tres años.
 
-### ARTICULO 2 — En El Estado Religioso
+### ARTÍCULO 2 — En El Estado Religioso
 
 ### I. Noción
 
@@ -87,7 +87,7 @@ Elemento constitutivo del estado religioso, junto con los votos. Implica: incorp
 
 Además de los medios comunes y propios del estado religioso, el religioso debe practicar las normas de su propia regla y constituciones. Deberes: conocerlas a fondo, estimarlas como tesoro, practicarlas hasta el último detalle con espíritu de fe, amor y generosidad. La infidelidad habitual incapacita para la santidad. Fórmula: «El amor a la regla y la regla por amor».
 
-### ARTICULO 3 — En El Estado Seglar
+### ARTÍCULO 3 — En El Estado Seglar
 
 ### 1. Introducción
 

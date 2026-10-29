@@ -4,7 +4,7 @@ title: "Parte I"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 4
 timestamp: 2026-07-28
-description: "Inicio de la Parte I: 'Principios del amor humano' — Teologia del Cuerpo - Juan Pablo II"
+description: "Inicio de la Parte I: 'Principios del amor humano' — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

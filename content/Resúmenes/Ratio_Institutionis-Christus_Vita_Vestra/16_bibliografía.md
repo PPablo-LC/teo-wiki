@@ -27,7 +27,7 @@ Lista de referencias que fundamenta la obra, organizada en cuatro grandes grupos
 **Documentos pontificios**:
 - Pío X: Exhortación apostólica *Haerent animo* (1908).
 - Pío XII: Carta encíclica *Mystici Corporis Christi* (1943).
-- Pablo VI: *Summi Dei verbum* (1963); *Ecclesiam suam* (1964); *Evangelica testificatio* (1971); *Marialis cultus* (1971); *Evangelii nuntiandi* (1975).
+- Pablo VI: *Summi Dei verbum* (1963); *Ecclesiam suam* (1964); *Evangélica testificatio* (1971); *Marialis cultus* (1971); *Evangelii nuntiandi* (1975).
 - Juan Pablo II: *Redemptor hominis* (1979); *Dominicae cenae* (1980); *Familiaris consortio* (1981); *Salvifici doloris* (1984); *Reconciliatio et paenitentia* (1984); *Redemptionis donum* (1984); *Dominum et vivificantem* (1986); *Mulieris dignitatem* (1988); *Pastores dabo vobis* (1992); *Orientale lumen* (1995); *Carta del Jueves Santo* (1995); *Vita consecrata* (1996); *Fides et ratio* (1998); *Novo millennio ineunte* (2001); *Rosarium virginis Mariae* (2002).
 - Benedicto XVI: *Deus caritas est* (2005); *Spe salvi* (2007); *Sacramentum caritatis* (2007); *Mensajes para la Jornada Mundial de las Comunicaciones Sociales* (2009, 2010, 2012); *Verbum Domini* (2010).
 - Francisco: *Evangelii gaudium* (2013); *Mensaje para la Jornada Mundial de las Comunicaciones Sociales* (2014); *Laudato Si'* (2015); *Amoris laetitia* (2016).

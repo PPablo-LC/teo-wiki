@@ -26,7 +26,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## SAN PIO V, 1566-1572
+## SAN PÍO V, 1566-1572
 
 ## Errores de Miguel du Bay (Bayo) (2) [Condenados en la Bula Ex omnibus afflictionibus, de 1.º de octubre de 1567]
 
@@ -52,7 +52,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SAN PIO V, 1566-1572
+## SAN PÍO V, 1566-1572
 
 Contexto del pontificado de San Pío V.
 

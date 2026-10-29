@@ -11,7 +11,7 @@ timestamp: 2026-10-22
 > Área: Filosofía / Teología fundamental
 > Última actualización: 2026-10-22
 
-**Maurice Blondel** (1861-1949) fue filosofo francés, católico y doctor en
+**Maurice Blondel** (1861-1949) fue filósofo francés, católico y doctor en
 Filosofía. Su obra capital, *L'Act* (1896), aborda el problema de la acción
 humana en el contexto de la experiencia cristiana, y devino uno de los
 pensadores de referencia del catolicismo francés de entre las dos guerras.
@@ -33,7 +33,7 @@ Blondel es citado por Sicari en *Breve catechesi sul matrimonio* como quien
 compendia en una frase la fecunda relación de los cónyuges: «quando due
 sono uno, allora diventano tre» ([[unión_conyugal]], [[fecundidad]]). La
 fórmula condensa su tesis: la unidad de dos personas no es un dato
-psicologico, sino que remite a un tercero - el Niño - como don que procede
+psicológico, sino que remite a un tercero - el Niño - como don que procede
 de la fuente común, es decir, de Dios. La pareja es «una sola carne»
 (Gn 2,24) no por agotamiento de sí misma, sino por abrirse a ser lugar de un
 don.

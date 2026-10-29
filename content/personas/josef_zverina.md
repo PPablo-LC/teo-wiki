@@ -19,7 +19,7 @@ timestamp: 2026-10-07
 
 **Josef Zvěřina** (1913-1990) fue un sacerdote, teólogo e historiador del
 arte checo. Don [[luigi_giussani]] lo recuerda en los Ejercicios de 1995
-como «un prete cecoslovacco, boemo, professore di teologia, il più famoso
+como «un prete cecoslovacco, boemo, professore di teología, il più famoso
 teologo della sua nazione» (03, 309), amigo íntimo de algunos miembros de
 [[comunione_e_liberazione]].
 

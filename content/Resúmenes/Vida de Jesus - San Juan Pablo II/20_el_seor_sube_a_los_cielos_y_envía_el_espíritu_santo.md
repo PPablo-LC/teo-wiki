@@ -4,7 +4,7 @@ title: "EL SEÑOR SUBE A LOS CIELOS Y ENVÍA EL ESPÍRITU SANTO"
 fuente: Vida de Jesus - San Juan Pablo II
 capítulo: 20
 timestamp: 2026-08-24
-description: "Resumen de 'EL SEÑOR SUBE A LOS CIELOS Y ENVÍA EL ESPÍRITU SANTO' — Vida de Jesus - San Juan Pablo II"
+description: "Resumen de 'EL SEÑOR SUBE A LOS CIELOS Y ENVÍA EL ESPÍRITU SANTO' — Vida de Jesús - San Juan Pablo II"
 tags: ["resumen", "vida de jesus - san juan pablo ii"]
 ---
 

@@ -10,7 +10,7 @@ tags: ["resumen", "cultura_de_la_vida", "cultura_de_la_muerte", "educación", "m
 
 # Cultura della vita e cultura della morte
 
-*Congresso Internazionale Teologico-Pastorale* «I figli, primavera della famiglia e della società» (Giubileo della Famiglia, Roma, 10-12-X-2000)
+*Congresso Internazionale Teológico-Pastorale* «I figli, primavera della famiglia e della società» (Giubileo della Famiglia, Roma, 10-12-X-2000)
 
 ## Conceptos básicos referenciados en este capítulo
 

@@ -29,51 +29,9 @@ Jesús es el modelo perfecto de oración (§2598-2622). Ora con frecuencia en la
 
 El Catecismo distingue cinco formas principales de oración: bendición, petición, intercesión, acción de gracias y alabanza (§2626-2649). «La Eucaristía contiene y expresa todas las formas de oración» (§2643).
 
-### Según Royo Marín (TPCr)
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
-La oración es necesaria con necesidad de precepto (divino, natural y eclesiástico) y con necesidad de medio por institución divina para la salvación de los adultos (n.478). San Alfonso de Ligorio: «El que ora, se salva; y el que no ora, se condena».
-
-Las principales dificultades de la oración son las distracciones y las sequedades o arideces. Las distracciones pueden tener causas independientes de la voluntad (temperamento, salud, dirección inadecuada, demonio) o voluntarias (falta de preparación, disipación habitual). Las arideces pueden deberse a causas naturales, a la tibieza, o ser una prueba purificadora de Dios (n.482).
-
-### Según la Vida de Jesús (VJ)
-
-La Vida de Jesús (VJ) recoge la oración sacerdotal de Cristo en la Última Cena. Jesús ora por los Apóstoles y por todos los creyentes. Promete el Espíritu Santo hasta en cinco ocasiones: «No os dejaré huérfanos». Ora por la unidad: «que todos sean uno, como tú, Padre, en mí y yo en ti». La unidad es presentada como un tesoro en vasijas de barro. Ora también por la santificación y la protección del mal, y por las futuras generaciones de creyentes.
-
-[VJ, Cap. V]
-
-### Según el Enchiridion Symbolorum (Denzinger)
-
-**Inocencio XII** (1699, D‑1341–D‑1343) — Breve *Cum alias* contra Fenelón:
-
-**D‑1341**: «La meditación consta de actos discursivos que se distinguen fácilmente unos de otros... Esta composición de actos discursivos y de reflejos son ejercicio peculiar del amor interesado.» Condenada. La condena afirma que la meditación discursiva no es propia solo del amor interesado, sino acto ordinario de la vida espiritual.
-
-**D‑1342**: «Se da un estado de contemplación tan sublime y perfecta que se convierte en habitual; de suerte que cuantas veces el alma ora actualmente, su oración es contemplativa, no discursiva. Entonces no necesita ya volver a la meditación y a sus actos metódicos.» Condenada. La condena afirma que la oración contemplativa no excluye la necesidad de volver a la meditación.
-
-**D‑1343**: «Las almas contemplativas están privadas de la vista distinta, sensible y refleja de Jesucristo... en el fervor naciente de su contemplación... [y] en las pruebas extremas.» Condenada. La condena afirma que la consideración de la humanidad de Cristo no se pierde en la contemplación.
-
-**Clemente XI** (1713, D‑1409, D‑1418) — Constitución *Unigenitus* contra Quesnel:
-
-**D‑1409**: «La oración de los impíos es un nuevo pecado; y lo que Dios les concede, es nuevo juicio contra ellos.» Condenada. La condena afirma que la oración de quien está en pecado, aunque imperfecta, puede ser oída por Dios y no es necesariamente nuevo pecado.
-
-**D‑1418**: «La bondad de Dios abrevió el camino de la salvación, encerrándolo todo en la fe y en la oración.» Condenada. La condena afirma que la salvación no se encierra solo en la fe y la oración, sino que requiere también los sacramentos y las buenas obras.
-
-### Según Royo Marín (TPCr)
-
-La oración es necesaria con necesidad de precepto (divino, natural y eclesiástico) y con necesidad de medio por institución divina para la salvación de los adultos (n.478). San Alfonso de Ligorio: «El que ora, se salva; y el que no ora, se condena».
-
-Las principales dificultades de la oración son las distracciones y las sequedades o arideces. Las distracciones pueden tener causas independientes de la voluntad (temperamento, salud, dirección inadecuada, demonio) o voluntarias (falta de preparación, disipación habitual). Las arideces pueden deberse a causas naturales, a la tibieza, o ser una prueba purificadora de Dios (n.482).
-
-### Según Colaciones I — Juan Casiano (ColCas-I)
-
-Juan Casiano, a través de las enseñanzas del abba Isaac, presenta la oración como el culmen de la vida monástica. En las Conferencias IX y X, distingue cuatro especies de oración: acción de gracias, petición, intercesión y alabanza (ColCas-I, Conf. IX). De estas cuatro, la oración de petición es la más necesaria para los monjes, porque los mantiene en la dependencia de Dios.
-
-Casiano enseña la **oración continua** como el grado más alto de la vida espiritual. La oración continua no consiste en estar siempre de rodillas, sino en mantener la mente unida a Dios en todo momento (ColCas-I, Conf. IX). Esta oración se alcanza cuando el alma ha adquirido el hábito de pensar en Dios en todas las circunstancias.
-
-Casiano también presenta la **oración pura** como la forma más elevada de oración: la elevación del alma a Dios sin palabras ni imágenes, en la simple contemplación de su presencia (ColCas-I, Conf. IX). Esta oración se distingue de la oración vocal y de la meditación discursiva por su simplicidad y directividad.
-
-El abba Isaac enfatiza que la perseverancia en la oración es necesaria para superar las sequedades y las tentaciones. La oración continua es la mejor defensa contra los vicios (ColCas-I, Conf. X). También presenta la herejía de los antropomorfitas, que atribuían a Dios forma humana, como ejemplo de los peligros de una oración impura (ColCas-I, Conf. X).
-
-[ColCas-I, Conferencias IX, X]
+[VocTeoBib, «Oración»] La oración en el AT está constantemente vinculada al designio salvífico de Dios: Moisés intercede por el pueblo (Ex 32,11-14; 33,17), los profetas oran como intercesores (Jer 15,1; 2Mac 15,14), y el salterio constituye la oración de la asamblea, donde la alabanza, la súplica y la acción de gracias se entrelazan. Jesús enseña el padrenuestro como centro de la oración filial (Lc 11,2ss; Mt 6,9-13). Su propia oración abarca toda su misión: en el Getsemaní ofrece la obediencia filial (Mc 14,36), y su oración sacerdotal revela el misterio de su intercesión (Jn 17). La Iglesia, desde Pentecostés, persevera en la oración comunitaria (Act 1,14; 2,42). Pablo concibe la oración como lucha (Rom 15,30) y acción de gracias (Flp 4,6), subrayando que el Espíritu del Hijo ora en nosotros: «Abba, Padre» (Gal 4,6; Rom 8,15).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -97,6 +55,49 @@ La oración común (litúrgica) tiene eficacia especial porque une las fuerzas d
 
 **a.4 — Toda oración suya fue escuchada:** Con la voluntad racional, Cristo no quiso nada fuera de lo que sabía que el Padre quería; por eso toda su oración fue escuchada. La petición «Pase de mí este cáliz» manifestaba su voluntad natural y el impulso de su sensibilidad, no su voluntad racional absoluta. Por eso fue escuchado en cuanto al deseo racional, que siempre estaba conforme con Dios.
 
+### Según Royo Marín (TPCr)
+
+La oración es necesaria con necesidad de precepto (divino, natural y eclesiástico) y con necesidad de medio por institución divina para la salvación de los adultos (n.478). San Alfonso de Ligorio: «El que ora, se salva; y el que no ora, se condena».
+
+Las principales dificultades de la oración son las distracciones y las sequedades o arideces. Las distracciones pueden tener causas independientes de la voluntad (temperamento, salud, dirección inadecuada, demonio) o voluntarias (falta de preparación, disipación habitual). Las arideces pueden deberse a causas naturales, a la tibieza, o ser una prueba purificadora de Dios (n.482).
+
+La oración es necesaria con necesidad de precepto (divino, natural y eclesiástico) y con necesidad de medio por institución divina para la salvación de los adultos (n.478). San Alfonso de Ligorio: «El que ora, se salva; y el que no ora, se condena».
+
+Las principales dificultades de la oración son las distracciones y las sequedades o arideces. Las distracciones pueden tener causas independientes de la voluntad (temperamento, salud, dirección inadecuada, demonio) o voluntarias (falta de preparación, disipación habitual). Las arideces pueden deberse a causas naturales, a la tibieza, o ser una prueba purificadora de Dios (n.482).
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) recoge la oración sacerdotal de Cristo en la Última Cena. Jesús ora por los Apóstoles y por todos los creyentes. Promete el Espíritu Santo hasta en cinco ocasiones: «No os dejaré huérfanos». Ora por la unidad: «que todos sean uno, como tú, Padre, en mí y yo en ti». La unidad es presentada como un tesoro en vasijas de barro. Ora también por la santificación y la protección del mal, y por las futuras generaciones de creyentes.
+
+[VJ, Cap. V]
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XII** (1699, D‑1341–D‑1343) — Breve *Cum alias* contra Fenelón:
+
+**D‑1341**: «La meditación consta de actos discursivos que se distinguen fácilmente unos de otros... Esta composición de actos discursivos y de reflejos son ejercicio peculiar del amor interesado.» Condenada. La condena afirma que la meditación discursiva no es propia solo del amor interesado, sino acto ordinario de la vida espiritual.
+
+**D‑1342**: «Se da un estado de contemplación tan sublime y perfecta que se convierte en habitual; de suerte que cuantas veces el alma ora actualmente, su oración es contemplativa, no discursiva. Entonces no necesita ya volver a la meditación y a sus actos metódicos.» Condenada. La condena afirma que la oración contemplativa no excluye la necesidad de volver a la meditación.
+
+**D‑1343**: «Las almas contemplativas están privadas de la vista distinta, sensible y refleja de Jesucristo... en el fervor naciente de su contemplación... [y] en las pruebas extremas.» Condenada. La condena afirma que la consideración de la humanidad de Cristo no se pierde en la contemplación.
+
+**Clemente XI** (1713, D‑1409, D‑1418) — Constitución *Unigenitus* contra Quesnel:
+
+**D‑1409**: «La oración de los impíos es un nuevo pecado; y lo que Dios les concede, es nuevo juicio contra ellos.» Condenada. La condena afirma que la oración de quien está en pecado, aunque imperfecta, puede ser oída por Dios y no es necesariamente nuevo pecado.
+
+**D‑1418**: «La bondad de Dios abrevió el camino de la salvación, encerrándolo todo en la fe y en la oración.» Condenada. La condena afirma que la salvación no se encierra solo en la fe y la oración, sino que requiere también los sacramentos y las buenas obras.
+
+### Según Colaciones I — Juan Casiano (ColCas-I)
+
+Juan Casiano, a través de las enseñanzas del abba Isaac, presenta la oración como el culmen de la vida monástica. En las Conferencias IX y X, distingue cuatro especies de oración: acción de gracias, petición, intercesión y alabanza (ColCas-I, Conf. IX). De estas cuatro, la oración de petición es la más necesaria para los monjes, porque los mantiene en la dependencia de Dios.
+
+Casiano enseña la **oración continua** como el grado más alto de la vida espiritual. La oración continua no consiste en estar siempre de rodillas, sino en mantener la mente unida a Dios en todo momento (ColCas-I, Conf. IX). Esta oración se alcanza cuando el alma ha adquirido el hábito de pensar en Dios en todas las circunstancias.
+
+Casiano también presenta la **oración pura** como la forma más elevada de oración: la elevación del alma a Dios sin palabras ni imágenes, en la simple contemplación de su presencia (ColCas-I, Conf. IX). Esta oración se distingue de la oración vocal y de la meditación discursiva por su simplicidad y directividad.
+
+El abba Isaac enfatiza que la perseverancia en la oración es necesaria para superar las sequedades y las tentaciones. La oración continua es la mejor defensa contra los vicios (ColCas-I, Conf. X). También presenta la herejía de los antropomorfitas, que atribuían a Dios forma humana, como ejemplo de los peligros de una oración impura (ColCas-I, Conf. X).
+
+[ColCas-I, Conferencias IX, X]
+
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
 León XIV presentó la oración como «encuentro personal con Cristo» durante la Vigilia de oración con jóvenes en Madrid (3 de junio), enseñando que la oración no es recitar fórmulas sino «estar con Quien sabemos que nos ama» [L_XIV-ViajeEspaña-2026, Vigil Madrid 03 — discurso a los jóvenes]. En la solemnidad del Corpus Christi (4 de junio), vinculó la adoración eucarística con la escuela de la oración. A lo largo del viaje, el rezo del rosario en Montserrat con jóvenes, la oración litúrgica, la oración personal y la oración contemplativa fueron presentados como formas de un mismo movimiento del alma hacia Dios [L_XIV-ViajeEspaña-2026, diversos actos].
@@ -112,10 +113,6 @@ El abad [[nesteros|Nesteros]] expone en la Conferencia XIV que la oración const
 Nesteros también enseña en la Conferencia XV que los carismas divinos —incluyendo el don de oración— no son garantía de santidad, pues el Señor advirtió que muchos le dirán «¿No profetizamos en tu nombre?» y Él les responderá: «Nunca os conocí» (Mt 7,22-23). El criterio supremo es la humildad y la caridad, no la potencia de los carismas.
 
 > **Referencia:** ColCas-II, Conferencia XIV, §§1-19; Conferencia XV, §§1-10
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Oración»] La oración en el AT está constantemente vinculada al designio salvífico de Dios: Moisés intercede por el pueblo (Ex 32,11-14; 33,17), los profetas oran como intercesores (Jer 15,1; 2Mac 15,14), y el salterio constituye la oración de la asamblea, donde la alabanza, la súplica y la acción de gracias se entrelazan. Jesús enseña el padrenuestro como centro de la oración filial (Lc 11,2ss; Mt 6,9-13). Su propia oración abarca toda su misión: en el Getsemaní ofrece la obediencia filial (Mc 14,36), y su oración sacerdotal revela el misterio de su intercesión (Jn 17). La Iglesia, desde Pentecostés, persevera en la oración comunitaria (Act 1,14; 2,42). Pablo concibe la oración como lucha (Rom 15,30) y acción de gracias (Flp 4,6), subrayando que el Espíritu del Hijo ora en nosotros: «Abba, Padre» (Gal 4,6; Rom 8,15).
 
 ### Perspectivas por fuente — WoF-5
 

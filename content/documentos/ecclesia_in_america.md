@@ -1,19 +1,19 @@
 ---
 type: Documento
-title: Ecclesia in America
+title: Ecclesia in América
 tags: ["documentos_—_exhortaciones_apostólicas_postsinodales"]
 
 timestamp: 2026-06-20
 description: "La exhortación consta de introducción, seis capítulos y conclusión:"
 ---
-# Ecclesia in America
+# Ecclesia in América
 
 > Área: Documentos — Exhortaciones apostólicas postsinodales
 > Última actualización: 2026-06-20
 
 ## Identificación
 
-- **Título completo:** Ecclesia in America. Exhortación Apostólica Postsinodal del Santo Padre Juan Pablo II a los Obispos, a los Presbíteros y Diáconos, a los Consagrados y Consagradas y a todos los Fieles Laicos sobre el encuentro con Jesucristo vivo, camino para la conversión, la comunión y la solidaridad en América
+- **Título completo:** Ecclesia in América. Exhortación Apostólica Postsinodal del Santo Padre Juan Pablo II a los Obispos, a los Presbíteros y Diáconos, a los Consagrados y Consagradas y a todos los Fieles Laicos sobre el encuentro con Jesucristo vivo, camino para la conversión, la comunión y la solidaridad en América
 - **Autor:** San Juan Pablo II
 - **Fecha:** 22 de enero de 1999 (vigésimo primero de su pontificado)
 - **Código:** EA

@@ -23,7 +23,7 @@ Su figura encarna la conversión como **proceso gradual**, no como acontecimient
 
 ### Según EAC-18 — Word on Fire Institute
 
-**Dr. Thomas Clemmons** («Minds: The Conversion of St. Augustine», 10_minds.md) presenta a Mónica como imagen viva de la tesis de que **la conversión no se completa en un momento notable**. Tras el huerto milanés, el libro 9 de las *Confesiones* comienza con la dificultad de Agustín para actuar según su resolución: solo un acto de Dios —una enfermedad respiratoria que Agustín interpreta como obra eficaz de la gracia— le mueve, incluso le fuerza, a dimitir de su puesto de retórica.
+**Dr. Thomas Clemmons** («Minds: The Conversión of St. Augustine», 10_minds.md) presenta a Mónica como imagen viva de la tesis de que **la conversión no se completa en un momento notable**. Tras el huerto milanés, el libro 9 de las *Confesiones* comienza con la dificultad de Agustín para actuar según su resolución: solo un acto de Dios —una enfermedad respiratoria que Agustín interpreta como obra eficaz de la gracia— le mueve, incluso le fuerza, a dimitir de su puesto de retórica.
 
 En ese contexto, Mónica es la contrafigura de la conversión dramática de su hijo:
 
@@ -38,4 +38,4 @@ Clemmons la presenta así como modelo de la [[conversión_continua]] que, sin es
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Thomas Clemmons, 10_minds.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Thomas Clemmons, 10_minds.md).

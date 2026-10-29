@@ -32,8 +32,8 @@ tags: ["resumen", "caridad", "acogida", "imitación_de_cristo", "acogimiento_fam
 ## La totalidad de abrazo
 
 - Acoger una persona «vuol dire dilatare la propria vita fino ai confini della vita di questa persona [...] l'accoglienza implica [...] una totalità di abbraccio» (como *I due orfani* de Pascoli).
-- «La famiglia è il primo fenomeno, per natura, in cui l'accoglienza assume questi connotati totalizzanti».
-- «la virtù della carità [...] In questo fenomeno si riverbera il mistero della Trinità, poiché il mistero della Trinità è [...] un'accoglienza infinita, totalizzante all'infinito e infinitamente gratuita».
+- «La famiglia è il primo fenómeno, per natura, in cui l'accoglienza assume questi connotati totalizzanti».
+- «la virtù della carità [...] In questo fenómeno si riverbera il mistero della Trinità, poiché il mistero della Trinità è [...] un'accoglienza infinita, totalizzante all'infinito e infinitamente gratuita».
 
 ## El affido temporal
 

@@ -8,7 +8,7 @@ description: "Resumen del Capítulo III 'Medios de formar el carácter' — educ
 tags: ["resumen", "la_joven_de_caracter", "formación_del_carácter", "voluntad"]
 ---
 
-# CAPITULO III — MEDIOS DE FORMAR EL CARACTER
+# CAPÍTULO III — MEDIOS DE FORMAR EL CARÁCTER
 
 ## Conceptos básicos referenciados
 
@@ -92,7 +92,7 @@ Amargo desengaño: las jóvenes que prometían una mies abundante se consumen po
 
 ### IX.—El racimo del ermitaño
 
-El labrador trae un racimo de uvas a Macario, ermitaño del desierto; Macario lo lleva a su vecino anciano, éste al hermano Nazario, enfermo, que no quiere comerlo porque a su Salvador le dieron hiel en la cruz; y así el racimo peregrina de celda en celda hasta volver a Macario al ocaso, que rompió en lágrimas «se regocijaba de tener compañeros de tanto renunciamiento». «¿Ves, hija? Eso es fuerza de voluntad.» Divisa: *Nulla dies sine linea* — «ni un día sin una línea»: cada día un ejercicio serio de abnegación, «haz algo que te venga cuesta arriba». El Barón de Eötvös: «Sólo poseemos aquello de que podamos librarnos. Somos esclavos y no dueños de aquellos tesoros que consideramos imprescindibles.» La religión cristiana, al exigir la abnegación, «pregona en otras palabras el mismo principio que es la base de la filosofía de la vida».
+El labrador trae un racimo de uvas a Macario, ermitaño del desierto; Macario lo lleva a su vecino anciano, éste al hermano Nazario, enfermo, que no quiere comerlo porque a su Salvador le dieron hiel en la cruz; y así el racimo peregrina de celda en celda hasta volver a Macario al ocaso, que rompió en lágrimas «se regocijaba de tener compañeros de tanto renunciamiento». «¿Ves, hija? Eso es fuerza de voluntad.» Divisa: *Nulla dies sine línea* — «ni un día sin una línea»: cada día un ejercicio serio de abnegación, «haz algo que te venga cuesta arriba». El Barón de Eötvös: «Sólo poseemos aquello de que podamos librarnos. Somos esclavos y no dueños de aquellos tesoros que consideramos imprescindibles.» La religión cristiana, al exigir la abnegación, «pregona en otras palabras el mismo principio que es la base de la filosofía de la vida».
 
 ### X,—«Diem perdidi!»
 
@@ -244,8 +244,8 @@ No pregunta por tu estado —casada, soltera, monja, maestra, farmacéutica…�
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | CAPITULO III |
-| 3 | H2 | MEDIOS DE FORMAR EL CARACTER |
+| 1 | H1 | CAPÍTULO III |
+| 3 | H2 | MEDIOS DE FORMAR EL CARÁCTER |
 | 5 | H2 | I—¡Quiero! |
 | 33 | H2 | II.—«Podría, si quisiera» |
 | 73 | H2 | III—La joven voluntariosa |

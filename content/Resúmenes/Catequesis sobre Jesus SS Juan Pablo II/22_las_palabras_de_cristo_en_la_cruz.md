@@ -4,7 +4,7 @@ title: "(LAS PALABRAS DE CRISTO EN LA CRUZ)"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 22
 timestamp: 2026-08-12
-description: "Resumen de '(LAS PALABRAS DE CRISTO EN LA CRUZ)' — Catequesis sobre Jesus SS Juan Pablo II"
+description: "Resumen de '(LAS PALABRAS DE CRISTO EN LA CRUZ)' — Catequesis sobre Jesús SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
 

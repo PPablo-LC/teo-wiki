@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "II. Análisis del fenómeno de los abusos en la Congregación"
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 2
 timestamp: 2026-09-05
 description: "Estructura del análisis del fenómeno: etapas en la forma de afrontar los abusos, estadísticas globales de sacerdotes y de víctimas, lugares, situación judicial, cadenas de abuso y abuso de autoridad."

@@ -79,6 +79,6 @@ James Dunn (protestante británico) confirmó: «Desde la década de 1970, se ha
 
 ## Referencias
 
-- *The Case for Jesus* (CfJ), Sesión 3, líneas [00:08:12]–[00:35:17].
-- Dunn, James D.G. *Jesus Remembered*. Eerdmans, 2003.
+- *The Case for Jesús* (CfJ), Sesión 3, líneas [00:08:12]–[00:35:17].
+- Dunn, James D.G. *Jesús Remembered*. Eerdmans, 2003.
 - Lucas 1,1-4; Jn 21,25; Mt 1,1.

@@ -43,7 +43,7 @@ Hahn cita a Newman para justificar el sentido literal-histórico: «la imagen de
 - **Los «demás hijos».** No son hijos carnales de María (cf. [[hermanos_de_jesús]]), sino los que «dan testimonio de Jesús» y comparten con Él al Padre y a la Madre; *adelphos* significa etimológicamente «del mismo vientre».
 - **Las alas del águila (Ap 12,14).** Puede indicar la protección divina frente al pecado y al demonio, o una estilización de la huida a Egipto (Mt 2,13-15).
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre afronta la pregunta clásica —¿individuo o colectivo?— y responde con un «ambos» argumentado:
 
@@ -78,4 +78,4 @@ Se relaciona con [[arca_de_la_nueva_alianza]], [[nueva_eva]], [[protoevangelio]]
 - San Ambrosio, San Efrén, San Agustín (citados en HHQ, cap. 3)
 - John Henry Newman, *The Mystical Rose* (citado en HHQ, cap. 3)
 - Pío X, *Ad diem illum* (citado en HHQ, cap. 6)
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), caps. 2, 3 y 6
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), caps. 2, 3 y 6

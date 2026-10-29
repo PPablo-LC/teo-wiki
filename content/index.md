@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-10-28'
+updated: '2026-10-29'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -3356,7 +3356,6 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[ternura]]
 - [[ternura_de_cristo]]
 - [[tesoro_de_la_iglesia]]
-- [[test-file]]
 - [[test_de_turing]]
 - [[testamento]]
 - [[testimonio]]

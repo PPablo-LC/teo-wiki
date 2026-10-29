@@ -28,6 +28,10 @@ El verbum mentis humano es finito y dependiente de los fantasmas; el Verbo divin
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo no dedica un artículo específico al verbum mentis, pero su enseñanza sobre la Trinidad presupone la doctrina del verbo. El Hijo es «consubstantial al Padre, generado por Él desde toda la eternidad» (CEC §242). «El Hijo de Dios es la Palabra eterna del Padre, que en Él todo fue hecho» (CEC §291). La analogía con el verbum humano es implícita en la imagen de la «palabra interior» que expresa lo que hay en la mente.
+
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.27 — Sobre el verbo divino:**
@@ -47,10 +51,6 @@ a.4 — El verbum mental humano es inmaterial, porque el intelecto conoce de mod
 **Iª q.35 — Sobre el verbo como imagen:**
 
 a.2 — El Verbo divino es la perfecta Imagen del Padre, porque procede por vía de intelecto y expresa plenamente al generador. La imagen implica semejanza en la naturaleza y en la distinción de persona (SmTh Iª q.35 a.2).
-
-### Según el Catecismo (CEC)
-
-El Catecismo no dedica un artículo específico al verbum mentis, pero su enseñanza sobre la Trinidad presupone la doctrina del verbo. El Hijo es «consubstantial al Padre, generado por Él desde toda la eternidad» (CEC §242). «El Hijo de Dios es la Palabra eterna del Padre, que en Él todo fue hecho» (CEC §291). La analogía con el verbum humano es implicita en la imagen de la «palabra interior» que expresa lo que hay en la mente.
 
 ### Según Royo Marín (TPCr)
 

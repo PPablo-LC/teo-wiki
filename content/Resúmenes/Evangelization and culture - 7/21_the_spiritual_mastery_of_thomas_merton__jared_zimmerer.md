@@ -26,7 +26,7 @@ Barron lamenta que muchos católicos jóvenes ven a Merton con sospecha por su i
 
 Merton ofrece una perspectiva equilibrada: «El ascetismo es absolutamente inútil si nos convierte en monstruos». Recomienda para principiantes «ayunar en ciertos días, oración y meditación a horas definidas, exámenes regulares de conciencia». «Aspirar a una vida espiritual es aspirar a una disciplina». Pero siempre atentos al estado de vida, al director espiritual, y que el ascetismo no se convierta en distracción de la santidad.
 
-### Humanismo y dialogo con Oriente
+### Humanismo y diálogo con Oriente
 
 Merton pensó que el monasticismo occidental había perdido algo del vigor que inspiró a San Benito. Buscó puntos de contacto entre cristianismo y budismo para encontrar un «lenguaje mutuo de espiritualidad». Pero: «¿Podrías decirle a cualquiera que esté interesado que Thomas Merton murió como monje de la Abadía de Getsemaní y sacerdote de la Iglesia Católica?»
 

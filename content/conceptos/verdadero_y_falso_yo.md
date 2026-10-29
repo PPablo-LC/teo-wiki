@@ -74,7 +74,7 @@ La distinción recoge el dinamismo evangélico de perder la vida para encontrarl
 - Zimmerer, Jared. "Stacks: The Aeneid." *Evangelization & Culture*, No. 9, Autumn 2021.
 - Barron, Robert. "Spotlight: No Grasping, No Hiding." *Evangelization & Culture*, No. 9, Autumn 2021.
 - Merton, Thomas. *New Seeds of Contemplation*. New Directions, 1961.
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute:
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute:
   - 01_from_the_desk.md — Bishop Robert Barron, «From the Desk of Bishop Robert Barron»
   - 14_feature_bulman.md — Dcn. Jason Bulman, «From Darkness to Deacon»
-  - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversion»
+  - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversión»

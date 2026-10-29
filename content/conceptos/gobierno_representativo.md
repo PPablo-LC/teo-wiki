@@ -29,7 +29,7 @@ Arnn (15_feature_arnn.md) describe la Constitución como la «causa formal» de 
 
 Cooper (14_feature_cooper.md) añade que el Republicanismo auténtico, según el Federalista 39 de Madison, es un sistema en el que la autoridad política se deriva directa o indirectamente del pueblo entero, sobre la base de «los principios fundamentales de la revolución», a saber, «la ley trascendente de la naturaleza y del Dios de la naturaleza».
 
-Hoopes (11_ethics.md) describe desde su experiencia en Capitol Hill cómo el sistema de gobierno representativo puede corregirse a sí mismo: los republicanos ofrecieron reformas concretas (la «Contract with America») y recibieron la aprobación electoral, demostrando que «el sistema podía autocorregirse».
+Hoopes (11_ethics.md) describe desde su experiencia en Capitol Hill cómo el sistema de gobierno representativo puede corregirse a sí mismo: los republicanos ofrecieron reformas concretas (la «Contract with América») y recibieron la aprobación electoral, demostrando que «el sistema podía autocorregirse».
 
 ## Distinciones importantes
 
@@ -49,6 +49,6 @@ Se relaciona con [[soberanía_popular]], [[derechos_inalienables]], [[separació
 ## Referencias
 
 - Robert Barron, «What Is Democracy?» (EAC-21, 09_spotlight_barron.md)
-- Larry Arnn, «Is There a Theology of America?» (EAC-21, 15_feature_arnn.md)
+- Larry Arnn, «Is There a Theology of América?» (EAC-21, 15_feature_arnn.md)
 - Kody Cooper, «On the Christian Origins of American Politics» (EAC-21, 14_feature_cooper.md)
 - Tom Hoopes, «Ethics: Is Democracy Ethical?» (EAC-21, 11_ethics.md)

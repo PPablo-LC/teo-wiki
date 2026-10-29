@@ -25,10 +25,6 @@ La simonía atenta contra el carácter gratuito de la gracia divina. Los bienes 
 
 «La simonía (cf. Hch 8,18-24) consiste en la compra o venta de realidades espirituales. A Simón Mago, que quería comprar el poder espiritual que veía obrar en los Apóstoles, Pedro le responde: '¡Váyase tu dinero a la perdición, pues has pensado que el don de Dios se puede comprar con dinero!' (Hch 8,20)» [CEC §2121]. La simonía es un pecado contra la virtud de la religión.
 
-### Según Royo Marín (TPCr)
-
-La simonía es pecado mortal por su materia (*ex genere suo*), pues atenta contra el carácter espiritual de los dones de Dios. Puede ser simonía interna (intención oculta) o externa (acto manifiesto), simonía real (cosas) o convencional (por permuta). El derecho canónico la castiga con severas penas [TPCr, Parte III, Libro II, Cap. 1].
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la simonía en la cuestión 100 de la IIa-IIae. La simonía es la compraventa deliberada de bienes espirituales o de cosas anejas a lo espiritual (q.100 a.1). Toma su nombre de Simón Mago (Hch 8,18-24). Es pecado contra la virtud de la religión porque atenta contra el carácter gratuito de la gracia divina (q.100 a.1 resp.).
@@ -38,6 +34,10 @@ Los bienes espirituales (sacramentos, sacramentales, bendiciones, cargos eclesi�
 No es simonía ofrecer un estipendio por la celebración de la Misa o un donativo libre por servicios religiosos, siempre que no se condicione la concesión del bien espiritual al pago (q.100 a.2). La simonía requiere intención deliberada y es pecado mortal por su materia (q.100 a.3-4). El que comete simonía incurre en irregularidad y otras penas eclesiásticas.
 
 [SmTh IIa-IIae q.100]
+
+### Según Royo Marín (TPCr)
+
+La simonía es pecado mortal por su materia (*ex genere suo*), pues atenta contra el carácter espiritual de los dones de Dios. Puede ser simonía interna (intención oculta) o externa (acto manifiesto), simonía real (cosas) o convencional (por permuta). El derecho canónico la castiga con severas penas [TPCr, Parte III, Libro II, Cap. 1].
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

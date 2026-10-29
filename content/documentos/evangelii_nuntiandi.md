@@ -42,7 +42,7 @@ Ideas centrales:
 [[evangelii_nuntiandi]] es el puente doctrinal entre el [[concilio_vaticano_ii]]
 (especialmente *Ad gentes* y *Gaudium et spes*) y la urgencia de la
 [[nueva_evangelización]] de [[juan_pablo_ii]] y Benedicto XVI; Juan Pablo II la
-llamó «el auténtico magnificat de la Iglesia de nuestro tiempo sobre la
+llamó «el auténtico magníficat de la Iglesia de nuestro tiempo sobre la
 evangelización». Es fuente constante de las estrategias catequéticas y
 apostólicas actuales y cita obligada en la teología pastoral.
 

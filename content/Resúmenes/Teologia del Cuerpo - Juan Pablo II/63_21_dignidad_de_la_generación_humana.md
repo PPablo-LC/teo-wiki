@@ -4,7 +4,7 @@ title: "21. Dignidad de la generación humana"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 63
 timestamp: 2026-08-01
-description: "Catequesis 21: el «conocimiento» conyugal que condiciona a la generación, la maternidad como revelación del misterio de la feminidad, y la transmisión de la imagen de Dios en el nuevo hombre — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 21: el «conocimiento» conyugal que condiciona a la generación, la maternidad como revelación del misterio de la feminidad, y la transmisión de la imagen de Dios en el nuevo hombre — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

@@ -25,6 +25,13 @@ La unión con la vid se realiza por la fe, los sacramentos (especialmente la Euc
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §755-756: La Iglesia es «la vid verdadera» porque todos los fieles están unidos a Cristo como sarmientos a la cepa. La imagen expresa la comunión eclesial.
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El VocTeoBib presenta la vid como símbolo de la alianza, la abundancia y la fecundidad. En Jn 15, la vid se convierte en símbolo de Cristo y de la unión mística con los creyentes.
 ### Según Benedicto XVI (JdN_I)
 
 Benedicto XVI desarrolla extensamente la imagen de la vid en *Jesús de Nazaret I* (Cap. 4), recorriendo toda la tradición bíblica hasta llegar a la definición de Jesús como «la vid verdadera» (Jn 15,1).
@@ -39,13 +46,6 @@ Benedicto XVI desarrolla extensamente la imagen de la vid en *Jesús de Nazaret 
 
 **Purificación y fruto.** La vid necesita ser purificada constantemente: «Hay que recortar la autoexaltación del hombre y de las instituciones; todo lo que se ha vuelto demasiado grande debe volver de nuevo a la sencillez y a la pobreza del Señor mismo» (JdN_I). El fruto que el Señor espera es el amor —«el amor que ha pasado por la cruz»— y la verdadera justicia. La imagen de la vid tiene trasfondo eucarístico: el vino nuevo selecto es el fruto de la pasión.
 
-### Según el Catecismo (CEC)
-
-CEC §755-756: La Iglesia es «la vid verdadera» porque todos los fieles están unidos a Cristo como sarmientos a la cepa. La imagen expresa la comunión eclesial.
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El VocTeoBib presenta la vid como símbolo de la alianza, la abundancia y la fecundidad. En Jn 15, la vid se convierte en símbolo de Cristo y de la unión mística con los creyentes.
 
 ## Distinciones importantes
 

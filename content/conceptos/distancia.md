@@ -29,9 +29,9 @@ Las cosas despiertan una promesa que no cumplen: se adhieren a ellas, y sin emba
 
 Giussani distingue «aceptar una distancia» de «insertar una distancia». La distancia que nosotros insertamos —decidir que Dios solo está donde a nosotros nos complace— es una objeción al ser y, por tanto, la afirmación de una nada: es un odio al ser y, en último término, un odio a sí mismos. La distancia aceptada, en cambio, deja ser al Otro y abre a la [[memoria]] y a la [[profecía]].
 
-### La distancia como «menzogna benevola»
+### La distancia como «menzogna benévola»
 
-«La distancia es una mentira benevola, porque no es verdadera: es verdadera, pero no es verdadera»: aquello que aparece pasa, mañana ya no será. Es apariencia que aparece y desaparece, como la muerte y la vida —que es en realidad «la muerte y la resurrección», pues la resurrección implica la muerte—. Por eso abrazar la distancia conduce a la [[pobreza_de_espíritu]].
+«La distancia es una mentira benévola, porque no es verdadera: es verdadera, pero no es verdadera»: aquello que aparece pasa, mañana ya no será. Es apariencia que aparece y desaparece, como la muerte y la vida —que es en realidad «la muerte y la resurrección», pues la resurrección implica la muerte—. Por eso abrazar la distancia conduce a la [[pobreza_de_espíritu]].
 
 ### La distancia y el límite
 
@@ -43,7 +43,7 @@ La distancia es el correlato interior del [[límite]]: la conciencia de la despr
 
 - La libertad como «hoja» que separa verdad/mentira, bien/mal, ser/nada; «el culmen del sacrificio es aceptar la distancia» (cap. 14, Tischreden 142).
 - «El sacrificio es abrazar una distancia»; abrazarla implica la afirmación de aquello de lo que uno está distante, no su negación (cap. 14).
-- «La distancia es una mentira benevola, porque no es verdadera: es verdadera, pero no es verdadera» (cap. 14).
+- «La distancia es una mentira benévola, porque no es verdadera: es verdadera, pero no es verdadera» (cap. 14).
 - Distinción entre la distancia aceptada y la distancia que nosotros insertamos, que es una objeción al ser (cap. 14).
 - La unidad de la persona se conquista pasando por el sacrificio y la aceptación de la distancia (cf. [[unidad_de_la_persona]]).
 

@@ -25,10 +25,6 @@ La acedia (también llamada acidia) es una forma de [[pereza]] que afecta direct
 
 La acedia es el peligro de la oración: una forma de depresión por el abandono de la ascesis cristiana, que lleva al desaliento y al desánimo (CEC §2733). La tradición espiritual la reconoce como obstáculo para la vida de oración.
 
-### Según Royo Marín (TPCr)
-
-La acedia es uno de los siete pecados capitales. Consiste en una tristeza profunda que abate el ánimo y hace sentir como pesada y molesta la práctica de las virtudes cristianas. Combate principalmente la vida de oración y la frecuencia de sacramentos. Su remedio es la diligencia espiritual y la alegría sobrenatural (TPCr, Parte I, Tratado de los pecados).
-
 ### Según la Summa Theologiae (SmTh)
 
 **IIª-IIae q.35 — La acidia, vicio opuesto al gozo de la caridad:**
@@ -40,6 +36,10 @@ La acedia es uno de los siete pecados capitales. Consiste en una tristeza profun
 **a.3 — Es pecado mortal por su género:** Se opone esencialmente a la caridad, cuyo efecto propio es el gozo de Dios. Consumado con consentimiento de la razón, es mortal. Los movimientos imperfectos en la sensualidad son veniales.
 
 **a.4 — La acidia es pecado capital:** Del mismo modo que por el deleite se hacen muchas cosas, por la tristeza también. La acidia, como tristeza del bien divino, lleva a huir de lo que contrista (desesperación, pusilanimidad, indolencia) y a buscar placeres ilícitos (divagación de la mente). Sus hijas son: malicia, rencor, pusilanimidad, desesperación, indolencia hacia los mandamientos, divagación de la mente por lo ilícito.
+
+### Según Royo Marín (TPCr)
+
+La acedia es uno de los siete pecados capitales. Consiste en una tristeza profunda que abate el ánimo y hace sentir como pesada y molesta la práctica de las virtudes cristianas. Combate principalmente la vida de oración y la frecuencia de sacramentos. Su remedio es la diligencia espiritual y la alegría sobrenatural (TPCr, Parte I, Tratado de los pecados).
 
 ### Según Instituciones cenobíticas — Juan Casiano (IC)
 

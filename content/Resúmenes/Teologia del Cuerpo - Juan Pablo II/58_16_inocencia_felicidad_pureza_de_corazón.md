@@ -4,7 +4,7 @@ title: "16. Inocencia, felicidad, pureza de corazón"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 58
 timestamp: 2026-08-01
-description: "Catequesis 16: la irradiación del amor como clave del misterio de la creación, la inocencia originaria como dimensión de la gracia, e inmunidad de la vergüenza por efecto del amor — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 16: la irradiación del amor como clave del misterio de la creación, la inocencia originaria como dimensión de la gracia, e inmunidad de la vergüenza por efecto del amor — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

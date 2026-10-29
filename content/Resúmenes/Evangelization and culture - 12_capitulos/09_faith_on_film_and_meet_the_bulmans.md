@@ -4,7 +4,7 @@ title: "Faith on Film and Meet the Bulmans"
 fuente: Evangelization and culture - 12_capitulos
 capítulo: 9
 timestamp: 2026-09-03
-description: "Entrevistas a los creadores de 'God and Gaming' (P. Blake Britton y Bobby Angel) y 'Meet the Bulmans' (Jason y Rachel Bulman): evangelización a través de videojuegos y testimonio familiar en YouTube."
+description: "Entrevistas a los creadores de 'God and Gaming' (P. Blake Britton y Bobby Ángel) y 'Meet the Bulmans' (Jason y Rachel Bulman): evangelización a través de videojuegos y testimonio familiar en YouTube."
 tags: ["resumen", "evangelization_and_culture_12", "god_and_gaming", "meet_the_bulmans", "evangelización_digital", "videojuegos", "testimonio_familiar", "word_on_fire", "beato_carlo_acutis"]
 ---
 
@@ -26,7 +26,7 @@ tags: ["resumen", "evangelization_and_culture_12", "god_and_gaming", "meet_the_b
 
 Entrevista doble conducida por Tod Worner (Managing Editor de *Evangelization & Culture*) sobre dos nuevos programas del canal YouTube del **Word on Fire Institute**.
 
-### Parte 1: God and Gaming (P. Blake Britton y Bobby Angel)
+### Parte 1: God and Gaming (P. Blake Britton y Bobby Ángel)
 
 **Orígenes**
 - P. Blake escribió artículo en 2019 sobre gaming y evangelización; respuesta masiva mundial.
@@ -34,7 +34,7 @@ Entrevista doble conducida por Tod Worner (Managing Editor de *Evangelization & 
 - Word on Fire lanza primera iniciativa católica seria para evangelizar la cultura gamer.
 
 **Por qué gaming y fe**
-- **Bobby Angel**: "Lo bueno, lo verdadero y lo bello están por todas partes en los videojuegos... semillas del Verbo en el diseño". Bien y mal claros, misión y propósito claros, aventura y hermandad. Buscamos esto virtualmente si el mundo físico ha sido despojado de misterio, sentido y Dios. El medio no es enemigo.
+- **Bobby Ángel**: "Lo bueno, lo verdadero y lo bello están por todas partes en los videojuegos... semillas del Verbo en el diseño". Bien y mal claros, misión y propósito claros, aventura y hermandad. Buscamos esto virtualmente si el mundo físico ha sido despojado de misterio, sentido y Dios. El medio no es enemigo.
 - **P. Blake**: >1.000 millones de gamers, cientos de horas/año, mayoría <45 años. Algo tan exitoso antropológricamente merece consideración teológica. Gaming = uno de los últimos bastiones donde valores trascendentes se expresan abiertamente; otros espacios son hiper-políticos.
 
 **Invitados y aprendizajes**
@@ -45,7 +45,7 @@ Entrevista doble conducida por Tod Worner (Managing Editor de *Evangelization & 
 
 **Sentido personal**
 - **P. Blake**: Ratzinger — evangelizador debe estar inmerso en la historia/cultura de su generación. Gaming = parte de su historia. No reemplaza a Cristo, pero suplementa (como buena novela o película). *Skyrim*, *Onward* recuerdan que hay más que el "grind" 9-5.
-- **Bobby Angel**: **Beato Carlo Acutis** (fallecido a 15 años, leucemia) como patrón: usó PlayStation Y sirvió a pobres. Integración "both/and" de la vida católica. Web de milagros eucarísticos sigue viva.
+- **Bobby Ángel**: **Beato Carlo Acutis** (fallecido a 15 años, leucemia) como patrón: usó PlayStation Y sirvió a pobres. Integración "both/and" de la vida católica. Web de milagros eucarísticos sigue viva.
 
 ### Parte 2: Meet the Bulmans (Jason y Rachel Bulman)
 

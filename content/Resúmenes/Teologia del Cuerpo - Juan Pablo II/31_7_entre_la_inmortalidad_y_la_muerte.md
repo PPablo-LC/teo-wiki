@@ -4,7 +4,7 @@ title: "7. Entre la inmortalidad y la muerte"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 31
 timestamp: 2026-08-01
-description: "Catequesis 7: la conciencia del cuerpo y del alma (Gn 2,7), el hombre sujeto por el cuerpo, la palabra «morirás» ante el árbol de la ciencia, y la alternativa entre la muerte y la inmortalidad — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 7: la conciencia del cuerpo y del alma (Gn 2,7), el hombre sujeto por el cuerpo, la palabra «morirás» ante el árbol de la ciencia, y la alternativa entre la muerte y la inmortalidad — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

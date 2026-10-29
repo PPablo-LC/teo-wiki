@@ -46,7 +46,7 @@ Frente a esta realidad, propone tres líneas de acción: primero, no contentarse
 ### Giussani — Realtà e giovinezza. La sfida (REG)
 
 [[luigi_giussani]] sostiene que la juventud **no es una edad sino un
-*atteggiamento del cuore***: «Al di là del riferimento tipico a un'età
+*atteggiamento del cuore***: «Al di là del riferimento típico a un'età
 dell'uomo, la giovinezza è […] un atteggiamento del cuore. Si è giovani
 quando non ci si accomoda, ma si è tesi verso la realtà con l'avidità di
 imparare quel che essa suggerisce sul nostro [[destino]]» (REG, 01). La

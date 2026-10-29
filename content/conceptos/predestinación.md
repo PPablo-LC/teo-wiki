@@ -69,8 +69,6 @@ El Denzinger recoge la condena de la doble predestinación. El Papa San Simplici
 
 El **Concilio de Quiersy** (853, D-316) precisa que Dios «predestinó a los elegidos para la vida, y predestinó a los impíos para la pena eterna», pero no los predestina a perecer, sino que los deja en la masa de perdición por su justo juicio. Dios quiere que todos los hombres se salven (D-318), aunque no todos se salvan. El **III Concilio de Valence** (855, D-322) confiesa «la predestinación de los elegidos para la vida, y la predestinación de los impíos para la muerte»; sin embargo, precisa que «en la elección de los que han de salvarse, la misericordia precede al buen merecimiento; en la condenación, el merecimiento malo precede al justo juicio de Dios». Así se distingue la predestinación (voluntad consiguiente) de la presciencia divina (D-321).
 
-### Según el Enchiridion Symbolorum (Denzinger)
-
 **Concilio de Constanza**, Condena de Juan Hus (D-627-632): Errores de Hus sobre la Iglesia: que la Iglesia es la universidad de los predestinados; que los precitos no son partes de la Iglesia; que el precito nunca es parte de la Santa Iglesia aunque esté en gracia, y el predestinado siempre es miembro aunque caiga de la gracia; que la Iglesia como congregación de predestinados es artículo de fe.
 
 **Concilio de Constanza**, Condena de Juan Hus (D-647): Error de Hus: «La gracia de la predestinación es el vínculo con que el cuerpo de la Iglesia y cualquiera de sus miembros se une indisolublemente con Cristo, su cabeza».
@@ -82,7 +80,6 @@ El **Concilio de Quiersy** (853, D-316) precisa que Dios «predestinó a los ele
 **Inocencio X** (1653, D‑1096) — 5ª proposición de [[cornelio_jansenio]] condenada: «Es semipelagiano decir que Cristo murió o que derramó su sangre por todos los hombres absolutamente». Condenada como falsa, temeraria, escandalosa y, entendida en el sentido de que Cristo murió solo por los predestinados, impía, blasfema, injuriosa, que anula la piedad divina, y herética. La Iglesia confirma la voluntad salvífica universal (D‑318, Quiersy) y que Cristo murió por todos los hombres (D‑806, Trento), no solo por los predestinados.
 
 **Inocencio X** (1654, D‑1097) — Decreto sobre las actas de la Congregación de Auxiliis: declaró que no debía prestarse fe a los manuscritos que pretendían contener la definición de Paulo V sobre la controversia. La cuestión de la relación entre la gracia eficaz, la predestinación y el libre albedrío quedó sin definición dogmática, dejando a las escuelas en libertad.
-
 ### Según la Redemptoris Mater (RM)
 
 [JPII, Redemptoris Mater §8]: La predestinación de María está íntimamente ligada a la de Cristo. Citando Ef 1,4-5, la encíclica afirma que «en Cristo nos eligió antes de la fundación del mundo para ser santos e inmaculados en su presencia, en el amor; nos predestinó a ser sus hijos adoptivos por Jesucristo». María es la realización más perfecta de esta predestinación: ella es la «llena de gracia» porque en ella la predestinación divina se ha cumplido de modo pleno y eminente. Su predestinación a la maternidad divina es la causa de su plenitud de gracia y de todos sus privilegios singulares [RM §8].

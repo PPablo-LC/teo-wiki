@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: "Gabriel Marcel"
-description: "Filosofo francés existencialista y católico (1889-1970), autor deÊtre et avoir, cuya tesis del reconocimiento entre el yo y el tú fundamenta el amor conyugal en la fe."
+description: "Filósofo francés existencialista y católico (1889-1970), autor deÊtre et avoir, cuya tesis del reconocimiento entre el yo y el tú fundamenta el amor conyugal en la fe."
 tags: ["filosofía", "existencialismo", "sentido_religioso"]
 timestamp: 2026-10-22
 ---
@@ -47,8 +47,8 @@ En el capítulo tercero, al tratar de la fidelidad conyugal, Sicari recurre
 a la fórmula de Marcel:
 
 > «Amare una persona significa dirle: "Tu non morirai!", perché l'amore che
-> le porto mi rivela che essa ha una dimensione superiore a quel fenomeno
-> biologico che si chiama morte».
+> le porto mi rivela che essa ha una dimensione superiore a quel fenómeno
+> biológico che si chiama morte».
 
 De aquí se sigue el sentido de la fidelidad: quien ama de verdad sabe que
 no puede garantizar por sí mismo el «tu non morirai», pero sabe también que

@@ -31,6 +31,9 @@ La posición católica sobre la evolución se articula en tres principios:
 
 El Catecismo no menciona directamente la palabra «evolución», pero afirma que «Dios creó directamente al alma espiritual» (CEC §366) y que «el hombre ha sido creado por Dios uno y único» (CEC §383). Estas afirmaciones son compatibles con un origen evolutivo del cuerpo humano, siempre que se preserve la creación directa del alma.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El Vocabulario subraya que «la pérdida de este estado inicial no es debida en modo alguno a un proceso natural de evolución cósmica; el pecado del hombre fue el que causó todo el drama» (art. Tiempo). El monoteísmo israelita «no es fruto de una reflexión metafísica, de una integración política, ni de una evolución religiosa. Es una afirmación de la fe» (art. Dios).
 ### Según Humani Generis (Pío XII)
 
 *Humani Generis* (1950) es el documento pontificio que aborda directamente la cuestión: «No se ve por qué el asunto de la originación del cuerpo humano del polvo preexistente deba quedar automáticamente excluido» (HG §36). Pío XII admitió la hipótesis del poligenismo y la evolución del cuerpo, siempre que se preserve la creación inmediata del alma y la unidad del género humano.
@@ -43,9 +46,6 @@ San Pío X condenó en *Pascendi* (1907) el evolucionismo modernista: «La const
 
 Benedicto XVI enseñó que «no somos algún producto casual y sin sentido de la evolución». La evolución y la creación son «dos realidades complementarias —y no mutuamente excluyentes—». La naturaleza es creación: «La respuesta ante quien dice que la evolución prueba que no hay Dios no es disputar la evolución —eso sería sucumbir al propio scientismo— sino afirmar: "La naturaleza es creación"».
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El Vocabulario subraya que «la pérdida de este estado inicial no es debida en modo alguno a un proceso natural de evolución cósmica; el pecado del hombre fue el que causó todo el drama» (art. Tiempo). El monoteísmo israelita «no es fruto de una reflexión metafísica, de una integración política, ni de una evolución religiosa. Es una afirmación de la fe» (art. Dios).
 
 ## Distinciones importantes
 

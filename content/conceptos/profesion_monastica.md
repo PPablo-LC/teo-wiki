@@ -19,7 +19,7 @@ La profesión monástica es el acto público por el cual el novicio, después de
 
 ### La triple promesa
 
-San Benito formula la profesión en tres elementos essenciales:
+San Benito fórmula la profesión en tres elementos essenciales:
 
 1. **Estabilidad** (*stabilitas*): compromiso de permanecer en ese monasterio hasta la muerte, sin abandonarlo.
 2. **Conversión de costumbres** (*conversio morum*): renuncia a los vicios y esfuerzo permanente por vivir según la Regla.

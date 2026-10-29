@@ -23,7 +23,7 @@ Whittington escribe sobre la conversión en la era secular: el desafío del conv
 
 ### Según EAC-18 — Word on Fire Institute
 
-**Fr. Richard T. Whittington** («Soul: Conversion in an Age of Choice», 21_soul.md) desarrolla:
+**Fr. Richard T. Whittington** («Soul: Conversión in an Age of Choice», 21_soul.md) desarrolla:
 
 - **La era secular de las opciones**: una calle junto a la rectoría ofrece «una modesta gama de opciones, variaciones intrigantes de un menú familiar». Para Charles Taylor, la era secular es «el paso de una sociedad donde la creencia en Dios no es cuestionada… a una en la que se entiende como una opción entre otras, y frecuentemente no la más fácil de abrazar» (*A Secular Age*, p. 3).
 - **El converso y la parroquia indiferente**: tras estudiar las enseñanzas de la Iglesia, los conversos saben que la [[sucesión_apostólica]] da a la Iglesia autoridad única. Pero pocas personas en la parroquia reconocen las caras nuevas; muchos católicos de toda la vida tratan la fe con indiferencia. Las encuestas muestran creciente escepticismo sobre la presencia real y sobre la confesión. «Demasiado a menudo atribuimos motivos bajos a los católicos apartados para evitar sondear nuestros propios fracasos como sacerdotes y laicos a la hora de formar comunidades de fe vibrantes».
@@ -36,4 +36,4 @@ Whittington escribe sobre la conversión en la era secular: el desafío del conv
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Richard T. Whittington, 21_soul.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Richard T. Whittington, 21_soul.md).

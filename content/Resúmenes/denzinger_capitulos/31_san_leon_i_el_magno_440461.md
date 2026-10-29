@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "SAN LEON I EL MAGNO 440-461"
+title: "SAN LEÓN I EL MAGNO 440-461"
 fuente: denzinger_capitulos
 capítulo: 31
 timestamp: 2026-08-24
@@ -8,7 +8,7 @@ description: "Resumen del Tomus ad Flavianum de San León Magno sobre la encarna
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# SAN LEON I EL MAGNO 440-461
+# SAN LEÓN I EL MAGNO 440-461
 
 ## Conceptos básicos referenciados
 

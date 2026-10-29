@@ -17,6 +17,10 @@ Atributo divino por el cual [[dios]] conoce perfecta, simultánea e infinitament
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §200-202 afirma que «Dios es la Verdad» y su conocimiento es infinito e inefable. Dios lo conoce todo, incluso lo más oculto (§268). Su [[sabiduría]] no tiene límites (§216). El conocimiento divino es intuitivo, no discursivo: Dios ve todas las cosas en un solo acto eterno.
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 14 de la Ia Pars a la ciencia divina, la cuestión más extensa de la Ia Pars, con dieciséis artículos.
@@ -54,10 +58,6 @@ a.14 — Dios conoce los enunciables (proposiciones), pues conoce todo lo comple
 a.15 — La ciencia de Dios es inmutable, porque su sustancia y su conocimiento son inmutables.
 
 a.16 — La ciencia de Dios es a la vez especulativa (en cuanto a Sí mismo) y práctica (en cuanto causa de las criaturas).
-
-### Según el Catecismo (CEC)
-
-El CEC §200-202 afirma que «Dios es la Verdad» y su conocimiento es infinito e inefable. Dios lo conoce todo, incluso lo más oculto (§268). Su [[sabiduría]] no tiene límites (§216). El conocimiento divino es intuitivo, no discursivo: Dios ve todas las cosas en un solo acto eterno.
 
 ### Según Royo Marín (TPCr)
 

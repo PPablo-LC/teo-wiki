@@ -21,6 +21,10 @@ Los pecados capitales no son necesariamente los pecados más graves en sí mismo
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo menciona los pecados capitales en el contexto de la gravedad del pecado: «Los vicios pueden catalogarse según las virtudes a que se oponen, o también referirse a los pecados capitales» (§1866). Son llamados capitales porque generan otros pecados, otros vicios (§1866). La enumeración tradicional es: soberbia, avaricia, envidia, ira, lujuria, gula, pereza (§1866). La reiteración de pecados, incluso veniales, engendra vicios entre los cuales se distinguen los pecados capitales (§1876).
+
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.84 — Un pecado como causa de otro: vicios capitales:**
@@ -43,10 +47,6 @@ Los pecados capitales no son necesariamente los pecados más graves en sí mismo
 **Ia-IIae q.72 a.2 — Espirituales y carnales:** Los vicios capitales se dividen en espirituales (soberbia, envidia, ira, avaricia, vanagloria) y carnales (gula, lujuria). Los espirituales son más graves en sí mismos, pero la tradición incluye a todos como capitales por la generación de otros pecados.
 
 **Ia-IIae q.88 a.2 — Mortales y veniales por su género:** Algunos vicios capitales son mortales por su género (lujuria, adulterio), otros veniales por su género (palabra ociosa), pero se tornan mortales por circunstancias o por la intención.
-
-### Según el Catecismo (CEC)
-
-El Catecismo menciona los pecados capitales en el contexto de la gravedad del pecado: «Los vicios pueden catalogarse según las virtudes a que se oponen, o también referirse a los pecados capitales» (§1866). Son llamados capitales porque generan otros pecados, otros vicios (§1866). La enumeración tradicional es: soberbia, avaricia, envidia, ira, lujuria, gula, pereza (§1866). La reiteración de pecados, incluso veniales, engendra vicios entre los cuales se distinguen los pecados capitales (§1876).
 
 ### Según Royo Marín (TPCr)
 

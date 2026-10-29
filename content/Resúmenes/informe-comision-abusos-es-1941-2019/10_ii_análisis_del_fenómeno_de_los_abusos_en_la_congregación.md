@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "II. Análisis del fenómeno de los abusos en la Congregación"
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 10
 timestamp: 2026-09-05
 description: "Análisis del fenómeno del abuso sexual de menores desde 1941: las cuatro etapas en la forma de afrontar los abusos y el punto de partida estadístico del estudio."

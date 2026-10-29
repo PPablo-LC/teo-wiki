@@ -4,7 +4,7 @@ title: "UNA REALIDAD DE FE INCONTESTABLE: SU RESURRECCIÓN"
 fuente: Vida de Jesus - San Juan Pablo II
 capítulo: 18
 timestamp: 2026-08-24
-description: "Resumen de 'UNA REALIDAD DE FE INCONTESTABLE: SU RESURRECCIÓN' — Vida de Jesus - San Juan Pablo II"
+description: "Resumen de 'UNA REALIDAD DE FE INCONTESTABLE: SU RESURRECCIÓN' — Vida de Jesús - San Juan Pablo II"
 tags: ["resumen", "vida de jesus - san juan pablo ii"]
 ---
 

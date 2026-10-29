@@ -16,7 +16,7 @@ timestamp: 2026-09-14
 - **Título**: *Ritratti di santi* («Il volto dei santi»)
 - **Origen**: Centro Culturale «La Via» de Brescia; itinerarios cuaresmales de 1986 y 1987 (cinco encuentros por año, media hora durante la liturgia eucarística).
 - **Género**: meditaciones hagiográficas; perfiles ordenados «in successione storica, quasi a scandire alcuni secoli di questo secondo millennio cristiano».
-- **Método**: recorrer las biografías «per andare alla scoperta del proprio volto umano: quello che Dio vuole e ama». Los santos no se proponen como objecto de admiración estética, sino para pedir «un radicale cambiamento»: «Dio però non ci dà dei santi per accontentare il nostro gusto estetico».
+- **Método**: recorrer las biografías «per andare alla scoperta del proprio volto umano: quello che Dio vuole e ama». Los santos no se proponen como objecto de admiración estética, sino para pedir «un radicale cambiamento»: «Dio però non ci dà dei santi per accontentare il nostro gusto estético».
 - **Nota**: incluye a Benedetta Bianchi Porro, cuya santidad no estaba aún reconocida por la Iglesia en el momento de escribir (la fuente lo advierte expresamente en la «Avvertenza»).
 
 ## Estructura
@@ -30,10 +30,10 @@ timestamp: 2026-09-14
 | 5 | B. Edith Stein | De la fenomenología a la Cruz; ofrenda por su pueblo |
 | 6 | S. Francesco d'Assisi | El «nocciolo duro»: leproso, Eucaristía, sacerdotes, Escritura |
 | 7 | S. Giovanni Bosco | La fe ante el positivismo; el oratorio y el sistema preventivo |
-| 8 | S. Giovanni Maria Vianney | El drama místico de la indignidad sacerdotal; el confesionario |
+| 8 | S. Giovanni María Vianney | El drama místico de la indignidad sacerdotal; el confesionario |
 | 9 | S. Giuseppe B. Cottolengo | La caridad fundada en la Providencia |
 | 10 | La santità del cristiano | Síntesis teológica: vocación universal, don y tarea |
-| 11 | S. Maria Goretti | Martirio por la pureza; el cuerpo como persona |
+| 11 | S. María Goretti | Martirio por la pureza; el cuerpo como persona |
 | 12 | S. Massimiliano Kolbe | Fe total y caridad heroica; el mártir de la caridad |
 | 13 | S. Tommaso Moro | Humanismo y Cruz; la conciencia no dividida |
 

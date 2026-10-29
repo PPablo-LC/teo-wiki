@@ -21,9 +21,6 @@ La teología natural se apoya en la capacidad de la inteligencia humana para rem
 
 ## Perspectivas por fuente
 
-### Según Robert Barron, *Arguing Religion* (ARGREL)
-Barron presenta la teología natural como la disciplina que usa la razón para demostrar la existencia de Dios y algunos de sus atributos. Estos argumentos son los *preambula fidei* (preámbulos de la fe) que actúan como *manuductio* (conducción de la mano), preparando el ánimo para recibir la revelación. El modelo tomista (*quaestio disputata*) consiste en presentar las objeciones en su forma más fuerte y responderlas, mostrando que la fe y la razón no son opuestas. Barron insiste en que, aunque la razón puede llegar hasta Dios, solo la revelación personal (*Deus dixit*) nos da a conocer el corazón de Dios y exige fe como confianza.
-
 ### Según el Catecismo (CEC)
 
 El CEC dedica el Capítulo Primero de la Primera Parte a "El hombre es capaz de Dios". Enseña que el deseo de Dios está inscrito en el corazón humano (§27-30). Señala cinco "vías" de acceso: a partir del movimiento y devenir, de la contingencia, del orden y belleza del mundo, del hombre con su apertura a la verdad y al bien moral (§31-33). El CEC cita a San Pablo (Rm 1, 20) y a San Agustín (§32). Afirma que las facultades humanas hacen capaz de conocer la existencia de un Dios personal (§35). Cita al Concilio Vaticano I (DS 3004) para enseñar que Dios puede ser conocido con certeza por la luz natural de la razón (§36). Reconoce las dificultades por los obstáculos del pecado original y la necesidad de la revelación (§37-38). Finalmente, aborda cómo hablar de Dios por analogía a partir de las perfecciones de las criaturas (§39-43).
@@ -31,6 +28,9 @@ El CEC dedica el Capítulo Primero de la Primera Parte a "El hombre es capaz de 
 ### Según Royo Marín (TPCr)
 
 Royo Marín afirma que la razón humana, "abandonada a sí misma", puede descubrir al "Dios uno, Creador de todo cuanto existe, y precisar algunos de sus atributos más sublimes: su inmensidad, eternidad, simplicidad e infinita perfección" (TPCr, Primera Parte, Cap. II, art. 1, n. 38). Sin embargo, "jamás acertará a sospechar, ni menos a descubrir, el menor vestigio de la vida íntima de Dios" —el misterio trinitario—, que solo es accesible por la revelación divina. Royo Marín usa la analogía del ser: "Remontándose por la escala analógica del ser a través de las criaturas puede el entendimiento del hombre descubrir al Dios uno" (TPCr, Primera Parte, Cap. II, art. 1, n. 38). La teología natural se complementa con la revelación, que introduce al hombre en el misterio de la vida trinitaria.
+### Según Robert Barron, *Arguing Religión* (ARGREL)
+Barron presenta la teología natural como la disciplina que usa la razón para demostrar la existencia de Dios y algunos de sus atributos. Estos argumentos son los *preambula fidei* (preámbulos de la fe) que actúan como *manuductio* (conducción de la mano), preparando el ánimo para recibir la revelación. El modelo tomista (*quaestio disputata*) consiste en presentar las objeciones en su forma más fuerte y responderlas, mostrando que la fe y la razón no son opuestas. Barron insiste en que, aunque la razón puede llegar hasta Dios, solo la revelación personal (*Deus dixit*) nos da a conocer el corazón de Dios y exige fe como confianza.
+
 
 ## Distinciones importantes
 

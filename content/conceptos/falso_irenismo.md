@@ -21,15 +21,15 @@ El deseo de paz y reconciliación es legítimo y necesario. Sin embargo, la unid
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo, al exponer los principios del ecumenismo, recuerda que la unidad buscada es la «plena comunión eclesial» y que el diálogo debe realizarse con fidelidad a la fe: «El deseo de recuperar la unidad de todos los cristianos es un don de Cristo y una llamada del Espíritu Santo» (CEC §820). Esa búsqueda se realiza «sin falsos irenismos, sino con verdad, humildad, mansedumbre, y paciencia» (cf. CEC §821 y la enseñanza de UR §11).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Unitatis Redintegratio* §11: «En ningún caso debe ser obstáculo para el diálogo con los hermanos del sistema de exposición de la fe católica. Es totalmente necesario que se exponga con claridad toda la doctrina. Nada es tan ajeno al ecumenismo como el falso irenismo, que pretendiera desvirtuar la pureza de la doctrina católica y obscurecer su genuino y verdadero sentido. La fe católica hay que exponerla al mismo tiempo con más profundidad y con más rectitud, para que tanto por la forma como por las palabras pueda ser cabalmente comprendida también por los hermanos separados».
 
 El Concilio propone, en cambio, el reconocimiento de la [[jerarquía_de_las_verdades]] y la presentación ordenada de la fe, sin renunciar a ninguna verdad del depósito revelado (UR §11).
 
-### Según el Catecismo (CEC)
-
-El Catecismo, al exponer los principios del ecumenismo, recuerda que la unidad buscada es la «plena comunión eclesial» y que el diálogo debe realizarse con fidelidad a la fe: «El deseo de recuperar la unidad de todos los cristianos es un don de Cristo y una llamada del Espíritu Santo» (CEC §820). Esa búsqueda se realiza «sin falsos irenismos, sino con verdad, humildad, mansedumbre, y paciencia» (cf. CEC §821 y la enseñanza de UR §11).
 
 ## Distinciones importantes
 

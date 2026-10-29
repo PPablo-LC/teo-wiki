@@ -59,7 +59,7 @@ Además de las Constituciones, el Capítulo recogió en varios comunicados las r
 
 Los anexos son el Mensaje del Capítulo General extraordinario sobre el camino de renovación y unas reflexiones sobre el nombre de la Congregación.
 
-Al final del Capítulo, el Delegado Pontificio invitó a unirse a María para dar gracias a Dios y cantar su misericordia: «Magnificat anima mea Dominum…» (Lc 1,46). El documento está fechado en Roma, 27 de febrero de 2014.
+Al final del Capítulo, el Delegado Pontificio invitó a unirse a María para dar gracias a Dios y cantar su misericordia: «Magníficat anima mea Dominum…» (Lc 1,46). El documento está fechado en Roma, 27 de febrero de 2014.
 
 ## Mapa del archivo fuente
 

@@ -35,7 +35,7 @@ opacidad: es la justa medida de ambas.
 
 ## Relevancia pastoral
 
-El *Vademecum* CDF (2020) y las *Líneas Guía* (2011) hacen de la justa
+El *Vademécum* CDF (2020) y las *Líneas Guía* (2011) hacen de la justa
 transparencia criterio de credibility institucional: la conversión de la
 Iglesia en la crisis de abusos pasa por la verdad dicha a tiempo y en la
 forma debida; su contrario —la omertà— es forma de [[escándalo]] institucional.
@@ -53,6 +53,6 @@ forma debida; su contrario —la omertà— es forma de [[escándalo]] instituci
 
 ## Referencias
 
-- CDF, *Vademecum* (2020); *Líneas Guía* (2011)
+- CDF, *Vademécum* (2020); *Líneas Guía* (2011)
 - Ley de protección de menores; CIC c. 220, 1526, 1560
 - Resúmenes del wiki: Ley_protección_menores, Motu_proprio_protección_menores

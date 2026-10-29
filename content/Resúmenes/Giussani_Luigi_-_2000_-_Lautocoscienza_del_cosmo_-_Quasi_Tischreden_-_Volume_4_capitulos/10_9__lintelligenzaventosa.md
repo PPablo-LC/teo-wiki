@@ -23,7 +23,7 @@ tags: ["resumen", "giussani", "inteligencia", "afecto", "libertad"]
 
 📄 **Fuente original:** `09_9_l_intelligenza_ventosa.md`
 
-«Tischreden 139», del 6 de octubre de 1994. **PARTE IV — LA DINAMICA DELLA CONOSCENZA.**
+«Tischreden 139», del 6 de octubre de 1994. **PARTE IV — LA DINÁMICA DELLA CONOSCENZA.**
 
 ### Razón, afecto y libertad
 

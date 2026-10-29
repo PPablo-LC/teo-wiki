@@ -21,13 +21,13 @@ El estado clerical se adquiere por la recepción del diaconado y la correspondie
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §1562-1565: El sacerdocio ministerial se recibe mediante el sacramento del Orden, que configura al clérigo con Cristo Cabeza y Pastor. §1577-1578: la Iglesia latina exige el celibato como signo del amor esponsal de Cristo.
 ### Según el Código de Derecho Canónico (CIC)
 
 CIC cc. 232-289 regulan la formación y el estado de los clérigos: la formación en seminarios (cc. 232-264), la incardinación (cc. 265-272) y las obligaciones y derechos de los clérigos (cc. 273-289). Incluyen la obligación de santidad de vida, celibato, obediencia, vida común y la dedicación al ministerio.
 
-### Según el Catecismo (CEC)
-
-CEC §1562-1565: El sacerdocio ministerial se recibe mediante el sacramento del Orden, que configura al clérigo con Cristo Cabeza y Pastor. §1577-1578: la Iglesia latina exige el celibato como signo del amor esponsal de Cristo.
 
 ## Distinciones importantes
 

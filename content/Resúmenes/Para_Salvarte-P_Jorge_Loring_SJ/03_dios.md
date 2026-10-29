@@ -51,7 +51,7 @@ La base de la vida está en los ácidos nucleicos y aminoácidos, componentes de
 
 ## Origen del hombre
 
-Se relatan los sucesivos descubrimientos paleontológicos de restos humanos: restos de dos millones de años en China (Russell Ciochon), los de Richard Leakey en Tanzania (2,5 millones de años), el esqueleto de Lucy en Etiopía (3,5 millones de años), el australopitecus anamensis en Kenia (4 millones de años), los de Brigitte Senut y Martin Pickford en Kenia (6 millones de años) y el fósil homínido del Chad de Michel Brunet (6-7 millones de años).
+Se relatan los sucesivos descubrimientos paleontológicos de restos humanos: restos de dos millones de años en China (Russell Ciochon), los de Richard Leakey en Tanzania (2,5 millones de años), el esqueleto de Lucy en Etiopía (3,5 millones de años), el australopitecus anamensis en Kenia (4 millones de años), los de Brigitte Senut y Martín Pickford en Kenia (6 millones de años) y el fósil homínido del Chad de Michel Brunet (6-7 millones de años).
 
 ## Los restos humanos más antiguos de Europa los tenemos en España (note: Diario ABC, 5-IX-95, pg.49).
 

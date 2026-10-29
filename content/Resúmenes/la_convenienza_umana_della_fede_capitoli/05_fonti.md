@@ -27,7 +27,7 @@ Fraternità di Comunione e Liberazione**.
 ### 1985
 
 - L. Giussani, *L'opera del movimento. La Fraternità di Comunione e Liberazione*, San Paolo,
-  Cinisello Balsamo (Mi) 2002, pp. 183-198, 80-81.
+  Cinisello Bálsamo (Mi) 2002, pp. 183-198, 80-81.
 - *Esercizi spirituali della Fraternità di Comunione e Liberazione. Appunti dalle meditazioni*.
   Rimini, 16-17 marzo 1985, *pro manuscripto*.
 
@@ -46,6 +46,6 @@ Fraternità di Comunione e Liberazione**.
 ## Referencias
 
 - L. Giussani, *L'opera del movimento. La Fraternità di Comunione e Liberazione*, San Paolo,
-  Cinisello Balsamo (Mi) 2002.
+  Cinisello Bálsamo (Mi) 2002.
 - Archivo de la Fraternità di Comunione e Liberazione: grabaciones audio de los Esercizi
   spirituali (1985, 1986, 1987).

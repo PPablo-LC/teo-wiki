@@ -21,9 +21,17 @@ El kerygma no es un contenido entre otros, sino el corazón de toda la evangeliz
 
 ## Perspectivas por fuente
 
+### Según el Compendio de Doctrina Social de la Iglesia (CompDS)
+
+El CompDS presenta el kerygma como fuente de la doctrina social: «La doctrina social es una dimensión interior de la predicación apostólica» (CompDS §66). La enseñanza social de la Iglesia no es un añadido al kerygma, sino que brota de él: anunciar a Cristo Redentor implica necesariamente anunciar la dignidad de la persona y las exigencias de la justicia y la paz.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El Vocabulario de Teología Bíblica define el kerygma como «proclamación solemne» que constituye la actividad esencial de los primeros cristianos. El kerygma apostólico tiene como centro el acontecimiento pascual: la muerte y resurrección de Jesús como cumplimiento de las Escrituras y como evento salvífico para la humanidad. La predicación apostólica en los Hechos de los Apóstoles muestra la estructura del kerygma: Jesús fue enviado por Dios, vivó, murió y resucitó, y es Señor y Mesías (cf. Hch 2,22-36; 3,13-26; 10,34-43). El kerygma es inseparable de la respuesta de fe y de la llamada a la conversión.
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Concilio Vaticano II, en *Ad Gentes* §6, enseña que «la actividad misional, es decir, la evangelización y la implantación de la Iglesia entre los pueblos o grupos en los que todavía no ha echado raíces, constituye una actividad central de la Iglesia» (AG §6). El Decreto *Ad gentes* sitúa la predicación del Evangelio de Jesucristo como «medio principal» de la implantación de la Iglesia (AG §6), y la Constitución *Dei Verbum* enseña que la Palabra de Dios debe ser «anunciada con la misma fe» y «comunicada sin alteración» (DV §7).
 
 ### Según la Evangelii Gaudium (EG)
 
@@ -32,14 +40,6 @@ La Evangelii Gaudium dedica un extenso desarrollo al kerygma como centro de la e
 Francisco insiste en que la catequesis debe ser «kerygmática y mistagógica» (EG 166-167): kerygmática porque centrada en el anuncio que conmueve y convierte; mistagógica porque introduce progresivamente en la celebración de los misterios de la fe. El kerygma no es algo que se proclaima una sola vez, sino que debe ser «una constante personal y comunitaria» (EG 164), alimentada por la oración, la Escritura y la celebración sacramental.
 
 El Papa subraya que «el kerygma no es solo verbal ni solo escrito; se proclaima con gestos, con signos y con testimonios» (EG 171), y que la dimensión social del Evangelio es parte integral del kerygma: «No existe ningún kerygma auténtico sin la promoción de la justicia» (EG 182).
-
-### Según el Compendio de Doctrina Social de la Iglesia (CompDS)
-
-El CompDS presenta el kerygma como fuente de la doctrina social: «La doctrina social es una dimensión interior de la predicación apostólica» (CompDS §66). La enseñanza social de la Iglesia no es un añadido al kerygma, sino que brota de él: anunciar a Cristo Redentor implica necesariamente anunciar la dignidad de la persona y las exigencias de la justicia y la paz.
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Concilio Vaticano II, en *Ad Gentes* §6, enseña que «la actividad misional, es decir, la evangelización y la implantación de la Iglesia entre los pueblos o grupos en los que todavía no ha echado raíces, constituye una actividad central de la Iglesia» (AG §6). El Decreto *Ad gentes* sitúa la predicación del Evangelio de Jesucristo como «medio principal» de la implantación de la Iglesia (AG §6), y la Constitución *Dei Verbum* enseña que la Palabra de Dios debe ser «anunciada con la misma fe» y «comunicada sin alteración» (DV §7).
 
 ### Según EAC-18 — Word on Fire Institute
 

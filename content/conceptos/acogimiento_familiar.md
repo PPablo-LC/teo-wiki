@@ -22,7 +22,7 @@ El **acogimiento familiar** (italiano *affido*; en el wiki también
 nueva familia, de un niño en dificultad en la propia, por problemas de
 diversa naturaleza de los padres naturales» (MDO, 12, 119, nota 9). Para
 don [[luigi_giussani]] es **sinónimo de hospitalidad**: «La parola
-ospitalità —di cui affido e adozione sono sinonimo—» (MDO, portada, 11). El
+ospitalità —di cui affido e adozione sono sinónimo—» (MDO, portada, 11). El
 affido es a la [[adopción]] lo que la acogida temporal a la acogida
 definitiva.
 

@@ -54,7 +54,7 @@ En TACDC la experiencia cristiana se define como el encuentro con una Presencia 
 
 - **La vocación como estrella**: «la vocazione è la stella che illumina la notte oscura delle circostanze» (testimonio de una joven, 04, 81). La experiencia cristiana sostiene incluso en el sufrimiento extremo: «nulla accade per caso, ma per la gloria di Dio» (03, 31-32).
 
-- **La misericordia como experiencia del Misterio**: «Misericordia è identica a Mistero: è il Mistero, quel che non si capisce» (04, 137). La experiencia cristiana culmina en reconocer que la vida de Dios es «amore gratis: caritas, senza motivo» (04, 137), una gratuidad que excede toda lógica de mérito.
+- **La misericordia como experiencia del Misterio**: «Misericordia è idéntica a Mistero: è il Mistero, quel che non si capisce» (04, 137). La experiencia cristiana culmina en reconocer que la vida de Dios es «amore gratis: caritas, senza motivo» (04, 137), una gratuidad que excede toda lógica de mérito.
 
 ## Distinciones importantes
 

@@ -25,7 +25,7 @@ Orwell (1903–1950) fue profético sobre las grandes cuestiones del siglo XX. D
 
 - Infancia en internados: aprendió snobismo, sadismo y culpa injustificada.
 - Policía en Birmania (1922–1927): descubrió la vacuidad del dominio blanco; se convirtió en opositor a la pena de muerte tras ver un ahorcamiento.
-- París y Londres: trabajó en los bajos fondos (*Down and Out in Paris and London*, 1933).
+- París y Londres: trabajó en los bajos fondos (*Down and Out in París and London*, 1933).
 - Guerra Civil Española: luchó con el POUM anarquista; herido de bala en la garganta; vio la traición comunista y la destrucción de la verdad objetiva por la propaganda — semillas de *Animal Farm* y *1984*.
 - BBC y *Tribune*: propagando a India; columnas «As I Please» sobre temas cotidianos (cómo hacer té, hábitos de sapo).
 

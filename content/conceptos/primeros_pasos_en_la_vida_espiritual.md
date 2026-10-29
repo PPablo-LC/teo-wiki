@@ -27,13 +27,13 @@ Royo Marín (TPCr) describe esta etapa como el momento de «desarraigar los vici
 
 §2015: «El camino de la perfección pasa por la cruz. No hay santidad sin renuncia y combate espiritual».
 
+### Según la Summa Theologiae (SmTh)
+
+I-II, q.109: El hombre necesita la gracia divina no solo para la perfección sino también para el inicio de la vida espiritual. Sin ella no puede prepararse para la justificación.
 ### Según Royo Marín (TPCr)
 
 TPCr, Tercera Parte, Libro I: Dedica amplio espacio a la purificación del alma, la mortificación, el examen de conciencia y la lucha contra las pasiones como fundamento de toda vida espiritual. La vía purgativa es necesaria para que el alma pueda avanzar a la iluminativa y unitiva.
 
-### Según la Summa Theologiae (SmTh)
-
-I-II, q.109: El hombre necesita la gracia divina no solo para la perfección sino también para el inicio de la vida espiritual. Sin ella no puede prepararse para la justificación.
 
 ## Distinciones importantes
 

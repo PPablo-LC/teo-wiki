@@ -13,11 +13,11 @@ description: "Transformación del creyente en Cristo — configuración con Él 
 
 ## Definición
 
-Unión con Cristo es la relación vital sobrenatural por la que el creyente, justificado por la [[gracia]], se configura con Cristo vivo hasta ser una sola cosa con Él. Es a la vez un don de Dios —otorgado en el [[bautismo]] y nutrido en la [[eucaristía]]— y una tarea creciente de toda la vida cristiana. Alcanza su forma más alta en la [[santidad]], entendida como participación en la vida misma de Cristo: en sus sentimientos, en su entrega, en su muerte y resurrección. San Pablo formula el principio cumbre: «Vivo yo, mas no yo, sino que Cristo vive en mí» (Gal 2,20).
+Unión con Cristo es la relación vital sobrenatural por la que el creyente, justificado por la [[gracia]], se configura con Cristo vivo hasta ser una sola cosa con Él. Es a la vez un don de Dios —otorgado en el [[bautismo]] y nutrido en la [[eucaristía]]— y una tarea creciente de toda la vida cristiana. Alcanza su forma más alta en la [[santidad]], entendida como participación en la vida misma de Cristo: en sus sentimientos, en su entrega, en su muerte y resurrección. San Pablo fórmula el principio cumbre: «Vivo yo, mas no yo, sino que Cristo vive en mí» (Gal 2,20).
 
 ## Desarrollo doctrinal
 
-La unión con Cristo es el tema central de la espiritualidad cristiana. San Agustín la formula como la inhabitación de Cristo en el alma por la gracia; la tradición mística —especialmente san Juan de la Cruz— la describe como [[unión_transformante]], estado en que el alma se transforma en Dios por participación, sin confundirse con Él. Santo Tomás de Aquino distingue varios grados: la gracia santificante como principio infuso, la caridad como forma de esa gracia, y la gracia actual como impulso concreto para la acción.
+La unión con Cristo es el tema central de la espiritualidad cristiana. San Agustín la fórmula como la inhabitación de Cristo en el alma por la gracia; la tradición mística —especialmente san Juan de la Cruz— la describe como [[unión_transformante]], estado en que el alma se transforma en Dios por participación, sin confundirse con Él. Santo Tomás de Aquino distingue varios grados: la gracia santificante como principio infuso, la caridad como forma de esa gracia, y la gracia actual como impulso concreto para la acción.
 
 Juan Pablo II, en la *Redemptor Hominis* y en la *Devotio Naturalis*, ha insistido en que la unión con Cristo no es un sentimiento abstracto sino una realidad ontológica fundada en el misterio pascual: por su muerte y resurrección, Cristo nos ha incorporado a sí como miembros vivos a su Cuerpo místico. La vida cristiana es, en rigor, el escuchar y cumplir la voluntad del Padre como Cristo la escuchó y cumplió (cf. Jn 15,10).
 
@@ -37,7 +37,7 @@ I-CapGen-1980, n. 183 enlaza directamente esta identificación con la edificaci�
 
 En su homilía de acción de gracias (19 diciembre 1992), Nuestro Padre afirma que el segundo Capítulo General ha confirmado «la caridad y la unidad entre todos los legionarios como el hilo común de todo su desarrollo y de toda su vida, la esencia de la vida y el espíritu de la Legión». Una de las experiencias más fuertes reportadas fue precisamente el clima de paz y caridad fraterna: «Donde hay caridad y donde hay amor, ahí está Dios». Esta experiencia directa de la unión fraterna se presenta como el fruto visible de la unión interior con Cristo Cabeza (II-CapGen-1992).
 
-Maciel describe además la vida del legionario como adhesión inquebrantable a Cristo: «I am by the Legion that God loves me» («Soy por la Legión que Dios me ama») —eco directo de «Vivo yo, mas no yo, sino Cristo vive en mí» (Gal 2,20)— convierte la identificación con Cristo en la tarea existencial del legionario, no una opción. La unión no se detiene en la adhesión personal; se traduce en pertenencia eclesial y en la fidelidad al carisma recibido (II-CapGen-1992).
+Maciel describe además la vida del legionario como adhesión inquebrantable a Cristo: «I am by the Legión that God loves me» («Soy por la Legión que Dios me ama») —eco directo de «Vivo yo, mas no yo, sino Cristo vive en mí» (Gal 2,20)— convierte la identificación con Cristo en la tarea existencial del legionario, no una opción. La unión no se detiene en la adhesión personal; se traduce en pertenencia eclesial y en la fidelidad al carisma recibido (II-CapGen-1992).
 
 ### Según las Constituciones de la Legión de Cristo (Constit-1984)
 

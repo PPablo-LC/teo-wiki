@@ -21,6 +21,9 @@ La acepción de personas es pecado contra la justicia distributiva y contra la j
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §2437: «La ayuda a los países pobres... no debe tener espíritu de acepción de personas».
 ### Según la Summa Theologiae (SmTh)
 
 **Acepción de personas en el juicio (Q63):** La acepción de personas se opone a la justicia en cuanto causa desigualdad en el juicio. Se define como «cierta injusticia que desprecia la igualdad de la justicia por consideración de alguna condición personal» (q.63 a.1).
@@ -43,9 +46,6 @@ Las causas de la acepción de personas son (q.63 a.3):
 
 La distinción entre acepción de personas y la discriminación justa: es lícito tratar diferentemente a las personas cuando la diferencia se funda en la diversidad real de méritos o necesidades relevantes para la materia de que se trate (q.63 a.1 ad 3).
 
-### Según el Catecismo (CEC)
-
-CEC §2437: «La ayuda a los países pobres... no debe tener espíritu de acepción de personas».
 
 ## Distinciones importantes
 

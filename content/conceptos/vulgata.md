@@ -31,13 +31,13 @@ El mismo decreto tridentino estableció que nadie debe interpretar la Escritura 
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Dei Verbum* §22 dispone que se proporcionen traducciones aptas y fieles de la Sagrada Escritura en varias lenguas, incluso en colaboración con hermanos separados, para que todos los cristianos tengan amplio acceso a la Escritura. Si bien no se refiere exclusivamente a la Vulgata, reconoce la importancia de las traducciones basadas en los textos originales y la tradición de la Iglesia.
 ### Según el Concilio de Trento (Denzinger)
 
 **Sesión IV (1546):** El Concilio recibe el canon de los libros sagrados (D-784) y declara la Vulgata como edición auténtica (D-785). Prohíbe interpretar la Escritura contra el sentido de la Iglesia y el unánime consentimiento de los Padres (D-786). Prescribe que la Escritura se imprima correctamente y que ningún libro sobre materias sagradas se publique sin aprobación del ordinario (D-786).
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Dei Verbum* §22 dispone que se proporcionen traducciones aptas y fieles de la Sagrada Escritura en varias lenguas, incluso en colaboración con hermanos separados, para que todos los cristianos tengan amplio acceso a la Escritura. Si bien no se refiere exclusivamente a la Vulgata, reconoce la importancia de las traducciones basadas en los textos originales y la tradición de la Iglesia.
 
 ## Relaciones doctrinales
 

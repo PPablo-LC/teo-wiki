@@ -70,7 +70,7 @@ En el Libro IX (*Del vicio de la tristeza*), Casiano describe al «espíritu de 
 
 **La tristeza, carácter de la vida consciente (cap. V).** Giussani describe la tristeza como «carácter fundamental de la vida consciente de sí»: «deseo de un bien ausente», dice san Tomás. Nace de la «diferencia de potencial» entre la destinación ideal y la incompletud histórica —la desproporción del hombre, más grande que su vida (Leopardi, el pastor errante)—; su opuesto lógico es la desesperación, que aplana esa diferencia (SR, `12_capitolo_quinto.md`, §46-60).
 
-**La tristeza que no renuncia a la esperanza (cap. VII).** Adorno en los *Minima moralia* describe la «ambivalencia de la mestizia»: la verdad de la elección nihilista no es separable de la «obsesión» —la experiencia elemental— de que de las apariencias emerja la salvación; y en el énfasis del *Senza* de la esperanza impotente, la falta es la esencia de la esperanza (conocida como «esperanza impotente») que permite respirar, es decir, vivir (SR, `14_capitolo_settimo.md`, §16-30).
+**La tristeza que no renuncia a la esperanza (cap. VII).** Adorno en los *Mínima moralia* describe la «ambivalencia de la mestizia»: la verdad de la elección nihilista no es separable de la «obsesión» —la experiencia elemental— de que de las apariencias emerja la salvación; y en el énfasis del *Senza* de la esperanza impotente, la falta es la esencia de la esperanza (conocida como «esperanza impotente») que permite respirar, es decir, vivir (SR, `14_capitolo_settimo.md`, §16-30).
 
 ### Según Affezione e dimora (AED)
 

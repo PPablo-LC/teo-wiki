@@ -22,7 +22,7 @@ La era secular interpela la pastoral de la conversión: quien entra en la Iglesi
 
 ### Según EAC-18 — Word on Fire Institute
 
-En «Soul: Conversion in an Age of Choice» (21_soul.md), Fr. Richard T. Whittington escribe que América ha sido durante mucho tiempo una nación de conversos: próspero mercado religioso de denominaciones e iglesias independientes, con ciudadanos que cambian de iglesia a un ritmo alto y muchos que rehúsan todo el menú — la creciente cohorte de los «nones». Quien entra en una iglesia como adulto sigue siendo consciente de que existen otras opciones.
+En «Soul: Conversión in an Age of Choice» (21_soul.md), Fr. Richard T. Whittington escribe que América ha sido durante mucho tiempo una nación de conversos: próspero mercado religioso de denominaciones e iglesias independientes, con ciudadanos que cambian de iglesia a un ritmo alto y muchos que rehúsan todo el menú — la creciente cohorte de los «nones». Quien entra en una iglesia como adulto sigue siendo consciente de que existen otras opciones.
 
 **La secularidad como opcionalidad (21):** Un sentido de la religión como «opcional» es, para Charles Taylor, un rasgo distintivo de una era secular: «El paso a la secularidad en este sentido consiste, entre otras cosas, en el paso de una sociedad donde la creencia en Dios no es cuestionada y, de facto, no es problemática, a una en la que se entiende como una opción entre otras, y frecuentemente no la más fácil de abrazar» (*A Secular Age*, p. 3). La visión de Taylor apoyaría la sospecha posmoderna de que los religiosos en una sociedad secular están ocupados en una especie de representación de roles; el autor piensa que esa visión está muy exagerada — la mayoría de los fieles, conversos o no, difícilmente se parecen a *gamers* representando a magos y hechiceros —, pero que la descripción se aplica a un pequeño número de intelectuales y a los «terminalmente conectados».
 
@@ -59,6 +59,6 @@ En «Soul: Conversion in an Age of Choice» (21_soul.md), Fr. Richard T. Whittin
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute:
-  - 21_soul.md — Fr. Richard T. Whittington, «Soul: Conversion in an Age of Choice»
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute:
+  - 21_soul.md — Fr. Richard T. Whittington, «Soul: Conversión in an Age of Choice»
 - Charles Taylor, *A Secular Age* (citado en la fuente)

@@ -31,6 +31,15 @@ La teología católica ha desarrollado la dimensión relacional del ser humano e
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+**Gaudium et Spes 24**: «El hombre no puede vivir sin relación: “No es bueno que el hombre esté solo” (Gn 2,18). La persona humana, definida ontológicamente por la relación interpersonal, se hace persona funcional y éticamente en la relación con los demás.»
+### Según la Summa Theologiae (SmTh)
+
+**SmTh Ia, q. 93, a. 6 — La imagen de Dios en el hombre:** La imagen de Dios en el hombre se refiere a la inteligencia y la voluntad, que son esencialmente relacionales: la inteligencia busca la verdad (relación con la realidad) y la voluntad busca el bien (relación con el bien supremo).
+
+**SmTh II-II, q. 23, a. 1 — La caridad como relación:** La caridad es «una cierta amistad del hombre para con Dios», que es esencialmente relacional. La caridad une al hombre con Dios y con el prójimo.
+
 ### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
 
 Sr. Josephine Garrett, en "My Therapy Magic Wand" (§17), desarrolla una reflexión teológica profunda sobre la relación como fundamento de la esperanza:
@@ -49,15 +58,6 @@ Sr. Josephine Garrett, en "My Therapy Magic Wand" (§17), desarrolla una reflexi
 
 **La relación como hospitalidad:** La hospitalidad familiar es expresión de relación: las puertas de la Iglesia y de los hogares deben estar abiertas a todos, especialmente «los que laburan y están cansados.»
 
-### Según la Summa Theologiae (SmTh)
-
-**SmTh Ia, q. 93, a. 6 — La imagen de Dios en el hombre:** La imagen de Dios en el hombre se refiere a la inteligencia y la voluntad, que son esencialmente relacionales: la inteligencia busca la verdad (relación con la realidad) y la voluntad busca el bien (relación con el bien supremo).
-
-**SmTh II-II, q. 23, a. 1 — La caridad como relación:** La caridad es «una cierta amistad del hombre para con Dios», que es esencialmente relacional. La caridad une al hombre con Dios y con el prójimo.
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-**Gaudium et Spes 24**: «El hombre no puede vivir sin relación: “No es bueno que el hombre esté solo” (Gn 2,18). La persona humana, definida ontológicamente por la relación interpersonal, se hace persona funcional y éticamente en la relación con los demás.»
 
 ## Distinciones importantes
 

@@ -49,4 +49,4 @@ El [[corazón]] es la sede de las evidencias y exigencias: «la esigenza es una 
 
 ### La elección consciente de la virginidad
 
-«La scelta cosciente della verginità è il più potente metodo per testimoniare che Cristo è: perché cambia»; la historia de Milene y la gratuidad ([[virginidad]], [[testimonio]], [[vocación]], [[gratuidad]]).
+«La scelta cosciente della verginità è il più potente método per testimoniare che Cristo è: perché cambia»; la historia de Milene y la gratuidad ([[virginidad]], [[testimonio]], [[vocación]], [[gratuidad]]).

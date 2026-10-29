@@ -21,6 +21,9 @@ Cada petición del Padrenuestro condensa un misterio cristológico. Las tres pri
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+El CEC desarrolla cada petición del Padrenuestro en los nn. 2803-2865. Las tres primeras peticiones expresan la santificación del nombre de Dios, la acogida de su reinado y la sumisión a su voluntad (CEC 2857-2864).
 ### Jesús de Nazaret I (Benedicto XVI — JdN_I)
 
 **«Santificado sea tu nombre»:** La santidad de Dios es el misterio de su nombre, que Moisés recibió en la zarza ardiente (Éx 3, 14). La revelación del nombre es la revelación del ser mismo de Dios. Jesús lleva a su plenitud la obra de Moisés al manifestar el nombre del Padre en su persona.
@@ -31,9 +34,6 @@ Cada petición del Padrenuestro condensa un misterio cristológico. Las tres pri
 
 **La «tormenta de la hora» (quinta petición):** «No nos dejes caer en la tentación, mas líbranos del mal». Jesús nos advierte que debemos rezar para no caer en la tentación, porque la carne es débil (cf. Mt 26, 41). La oración es un combate: el creyente debe mantenerse vigilante y rezar sin cesar. La «tentación» (*peirasmos*) no es solo prueba individual, sino la tentación cósmica: el misterio de iniquidad que se opone al reino de Dios.
 
-### Catecismo de la Iglesia Católica (CEC)
-
-El CEC desarrolla cada petición del Padrenuestro en los nn. 2803-2865. Las tres primeras peticiones expresan la santificación del nombre de Dios, la acogida de su reinado y la sumisión a su voluntad (CEC 2857-2864).
 
 ## Distinciones importantes
 

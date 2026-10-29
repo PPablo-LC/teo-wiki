@@ -69,4 +69,4 @@ Marcos no era miembro de los Doce. Si los títulos de los Evangelios fueran frau
 - Papías, *ap.* Eusebio, *Hist. Ecl.* 3.39.15
 - Ireneo, *Contra las Herejías* 1.1.1
 - Clemente, *ap.* Eusebio, *Hist. Ecl.* 2.15.1-2
-- *The Case for Jesus* (CfJ), Sesiones 1 y 2
+- *The Case for Jesús* (CfJ), Sesiones 1 y 2

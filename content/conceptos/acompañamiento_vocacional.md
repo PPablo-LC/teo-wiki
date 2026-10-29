@@ -107,6 +107,6 @@ En los tres cuadernos la *compagnia* aparece como el sujeto eclesial concreto:
   1986, 02, 151, 237.
 - **Código**: CUDF
 - **Índice**: `raw/Bases_doctrinales-raw/la_convenienza_umana_della_fede_capitoli/índice.md`
-- **Citas**: P. Claudel, *L'Annuncio a Maria* (BUR, 2011, p. 179); Dante,
+- **Citas**: P. Claudel, *L'Annuncio a María* (BUR, 2011, p. 179); Dante,
   *Paradiso* XIX, v. 81; Mt 18,3; Mc 10,15; Lc 18,17.
 - **Otras fuentes**: A. Savorana, *Vita di don Giussani* (BUR, 2014, pp. 643-645).

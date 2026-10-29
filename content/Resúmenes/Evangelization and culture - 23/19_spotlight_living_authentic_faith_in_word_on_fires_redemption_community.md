@@ -31,7 +31,7 @@ Robbie Ocampo, manager de comunidades del Word on Fire Institute, describe la **
 
 ### Colaboración con los Capuchinos y la conversión de Shia LaBeouf
 
-La relación entre LaBeouf y los frailes capuchinos comenzó durante la preproducción de la película *Padre Pio*. LaBeouf fue formado por los franciscanos, asistió a la Misa diaria, estudió los Evangelios y se sumergió en el carisma franciscano. El resultado fue una conversión que lo llevó a ser recibido en la Iglesia católica por Bishop Barron.
+La relación entre LaBeouf y los frailes capuchinos comenzó durante la preproducción de la película *Padre Pío*. LaBeouf fue formado por los franciscanos, asistió a la Misa diaria, estudió los Evangelios y se sumergió en el carisma franciscano. El resultado fue una conversión que lo llevó a ser recibido en la Iglesia católica por Bishop Barron.
 
 ### Selección de participantes y estructura del programa
 

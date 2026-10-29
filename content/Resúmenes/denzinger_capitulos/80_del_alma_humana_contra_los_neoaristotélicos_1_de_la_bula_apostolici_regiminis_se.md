@@ -32,7 +32,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## INOCENCIO VIII, 1484-1492 PIO III, 1503 ALEJANDRO VI, 1492-1503 JULIO II, 1503-1513 LEON X, 1513 -1521 V CONCILIO DE LETRAN, 1512-1517 XVIII ecuménico (acerca de la reformación de la Iglesia)
+## INOCENCIO VIII, 1484-1492 PÍO III, 1503 ALEJANDRO VI, 1492-1503 JULIO II, 1503-1513 LEÓN X, 1513 -1521 V CONCILIO DE LETRAN, 1512-1517 XVIII ecuménico (acerca de la reformación de la Iglesia)
 
 ## Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESIÓN VIII), de 19 de diciembre de 1513]
 
@@ -68,7 +68,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## INOCENCIO VIII, 1484-1492 PIO III, 1503 ALEJANDRO VI, 1492-1503 JULIO II, 1503-1513 LEON X, 1513 -1521 V CONCILIO DE LETRAN, 1512-1517 XVIII ecuménico (acerca de la reformación de la Iglesia)
+## INOCENCIO VIII, 1484-1492 PÍO III, 1503 ALEJANDRO VI, 1492-1503 JULIO II, 1503-1513 LEÓN X, 1513 -1521 V CONCILIO DE LETRAN, 1512-1517 XVIII ecuménico (acerca de la reformación de la Iglesia)
 
 Contexto del V Concilio de Letrán, XVIII ecuménico.
 

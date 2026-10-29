@@ -44,8 +44,8 @@ más inmediata, «prima d'ogni atteggiamento» (01, 107).
    caduca.
 4. **No basta el choc.** «Non basta aver avvertito l'urto di qualcosa di
    grande perché questo diventi meccanicamente il centro di gravità dell'io»
-   (00, 27). El hallazgo debe «rendere organico» el sentido del destino.
-5. **Cristo lo hace orgánico.** «È Cristo l'incontro che può rendere organico
+   (00, 27). El hallazgo debe «rendere orgánico» el sentido del destino.
+5. **Cristo lo hace orgánico.** «È Cristo l'incontro che può rendere orgánico
    il senso del destino, redimere il peccato» (00, 35-37). El sentido del
    destino, sin Cristo, queda como aspiración difusa; con Cristo, se
    incorpora a la vida como «Presenza» (00, 37).

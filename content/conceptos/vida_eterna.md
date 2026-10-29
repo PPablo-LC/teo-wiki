@@ -22,6 +22,9 @@ La vida eterna es un don sobrenatural de Dios. Comienza ya en esta vida por la g
 ### Según el Catecismo (CEC)
 «Padre, esta es la vida eterna: que te conozcan a ti, el único Dios verdadero y a tu enviado Jesucristo» (Jn 17,3). La fe es el comienzo de la vida eterna (§163-165). Las virtudes teologales nos hacen capaces de merecer la vida eterna (§1813). La esperanza aspira a la vida eterna como felicidad nuestra (§1817). La vocación a la vida eterna es sobrenatural (§1998). En los sacramentos la Iglesia participa ya de la vida eterna (§1130). La Eucaristía es anticipo de la vida eterna (§1326) y el Viático es semilla de vida eterna (§1524).
 
+### Según Royo Marín (TPCr)
+La caridad es la única virtud orientada al premio esencial de la vida eterna, que consiste en la visión beatífica. La intensidad de esa visión dependerá exclusivamente del grado de caridad alcanzado en esta vida. La gracia santificante está orientada a la vida eterna, en la que encuentra su plena expansión y desarrollo. La vida cristiana, desarrollándose gradualmente, desemboca en la unión con Dios, preludio normal de la vida eterna.
+
 ### Según God Is Near Us — Joseph Ratzinger (GINU)
 
 Ratzinger dedica el archivo 13 (*Mi alegría es estar en tu presencia*) — su conferencia a la Academia Cristiana de Praga (1992) — a la fe en la vida eterna, la pieza más larga de la obra:
@@ -41,9 +44,6 @@ Ratzinger dedica el archivo 13 (*Mi alegría es estar en tu presencia*) — su c
 **El alma guardada en el Cuerpo de Cristo (archivo 13, §4):** La palabra «alma» es producto de la fe cristiana y expresa que el hombre es «aquella criatura en la que el espíritu y la materia se encuentran y se unen en un todo único». Desde la Ascensión, «el problema del alma desencarnada ya no existe: el Cuerpo de Cristo es el nuevo cielo, que ya no está cerrado. Si nos hemos convertido en miembros del Cuerpo de Cristo, nuestras almas están a salvo dentro de este cuerpo».
 
 **Resurrección de la carne (archivo 13, §4):** «Es algo verdaderamente nuevo. No podemos imaginarlo, porque ignoramos tanto las posibilidades de la materia como las capacidades del Creador... Dios quiere salvar toda su creación». Cita a Agustín: la expectativa de la vida eterna es «no querer perderse de la vista de Dios, porque Él es nuestra vida».
-
-### Según Royo Marín (TPCr)
-La caridad es la única virtud orientada al premio esencial de la vida eterna, que consiste en la visión beatífica. La intensidad de esa visión dependerá exclusivamente del grado de caridad alcanzado en esta vida. La gracia santificante está orientada a la vida eterna, en la que encuentra su plena expansión y desarrollo. La vida cristiana, desarrollándose gradualmente, desemboca en la unión con Dios, preludio normal de la vida eterna.
 
 ### Según UDE (1994)
 

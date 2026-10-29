@@ -24,7 +24,7 @@ Los elementos característicos:
 3. **Alegría como muelle**: la alegría «aggancía il soprannaturale». Domenico Savio: «qui facciamo consistere la santità nello stare molto allegri».
 4. **Confesión y comunión nunca obligadas**: don Bosco confesaba y comunicaba a todos, «ma nessuno era tenuto a farlo. Anzi raccomandava sempre di non annoiarli con gli obblighi. Solo incoraggiarli».
 5. **Amor perceptible**: «Che i giovani non solo siano amati, ma che essi stessi sappiano di essere amati»: «un amore che si esterna in parole, atti e perfino nell'espressione degli occhi e del volto».
-6. **Fundamento religioso**: «L'educazione è cosa del cuore e Dio solo ne è il padrone e non potremo riuscire a niente se Dio non ci dà in mano la chiave di questi cuori». «Soltanto il cattolico può con successo applicare un metodo preventivo».
+6. **Fundamento religioso**: «L'educazione è cosa del cuore e Dio solo ne è il padrone e non potremo riuscire a niente se Dio non ci dà in mano la chiave di questi cuori». «Soltanto il cattolico può con successo applicare un método preventivo».
 
 ## Perspectivas por fuente
 

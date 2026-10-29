@@ -80,7 +80,7 @@ El Capítulo pide sinceramente perdón y renueva su compromiso de aprender de es
 
 **Armonización con el derecho universal.** El documento se fundamenta en el Código de Derecho Canónico (cánones 1427, 1438, 1717, 1718, 1722, 1389, 695), el Motu Proprio *Vos estis lux mundi* (2019) y la Instrucción sobre confidencialidad (diciembre 2019) [LC-InfAbusos-2020, PS intro 1, passim].
 
-**Clausula final.** El documento concluye con la cita de Rm 12, 21: «No te dejes vencer por el mal; antes bien, vence al mal con el bien», reafirmando el compromiso de la Congregación de asegurar ambientes seguros y salir al encuentro de las víctimas [LC-InfAbusos-2020, PS conclusión].
+**Cláusula final.** El documento concluye con la cita de Rm 12, 21: «No te dejes vencer por el mal; antes bien, vence al mal con el bien», reafirmando el compromiso de la Congregación de asegurar ambientes seguros y salir al encuentro de las víctimas [LC-InfAbusos-2020, PS conclusión].
 
 ### Según la Antología del Delegado Pontificio (AntDp-2015)
 

@@ -32,8 +32,6 @@ El CIC regula el sacramento del orden en los cánones 1008-1054. Los órdenes so
 
 *Sacrosanctum Concilium* 76 ordena la revisión de los ritos de las ordenaciones, tanto en lo referente a las ceremonias como a los textos. Las alocuciones del Obispo al comienzo de cada ordenación o consagración pueden hacerse en lengua vernácula. En la consagración episcopal, todos los Obispos presentes pueden imponer las manos. SC 57, al tratar de la concelebración, reconoce que manifiesta apropiadamente la unidad del sacerdocio.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
 Lumen Gentium desarrolla el **sacramento del orden** en los números LG §10-11, §21, §28-29. El sacerdocio ministerial, esencialmente distinto del común, confecciona el sacrificio eucarístico en la persona de Cristo y lo ofrece en nombre de todo el pueblo [ConcVatII, LG §10].
 
 En la consagración episcopal se confiere «la plenitud del sacramento del orden, llamada, en la práctica litúrgica de la Iglesia y en la enseñanza de los Santos Padres, sumo sacerdocio, cumbre del ministerio sagrado». Junto con el oficio de santificar, confiere también los oficios de enseñar y de regir [ConcVatII, LG §21]. Por la imposición de las manos y las palabras de la consagración se confiere la gracia del Espíritu Santo y se imprime el sagrado carácter [ConcVatII, LG §21].
@@ -41,7 +39,6 @@ En la consagración episcopal se confiere «la plenitud del sacramento del orden
 Los presbíteros, aunque no tienen la cumbre del pontificado y dependen de los Obispos, han sido consagrados como «verdaderos sacerdotes del Nuevo Testamento» a imagen de Cristo, sumo y eterno Sacerdote [ConcVatII, LG §28]. Los diáconos reciben la imposición de las manos «no en orden al sacerdocio, sino en orden al ministerio», y sirven al Pueblo de Dios en el ministerio de la liturgia, de la palabra y de la caridad [ConcVatII, LG §29].
 
 Aquellos de entre los fieles «que están sellados con el orden sagrado son destinados a apacentar la Iglesia por la palabra y gracia de Dios, en nombre de Cristo» [ConcVatII, LG §11].
-
 ### Según Royo Marín (TPCr)
 El sacramento del orden puede definirse como «un sacramento instituido por Nuestro Señor Jesucristo por el que se confiere la potestad espiritual y la gracia necesaria para el recto desempeño de los ministerios eclesiásticos» (TPCr, Tercera Parte, Libro II, Cap. I, n.325). Sus efectos principales son la gracia y el carácter sacramental (n.326). La gracia sacramental propia confiere una fuerza especial para ejercer las funciones ministeriales. El carácter segregue al sacerdote del resto de los fieles y le configura plenamente con Cristo Sacerdote. El sacramento del orden es de mayor dignidad después de la Eucaristía. Es necesario para perpetuar en la Iglesia la jerarquía sagrada (n.327). El ministro ordinario es el obispo consagrado; el sujeto receptor es únicamente el varón bautizado.
 

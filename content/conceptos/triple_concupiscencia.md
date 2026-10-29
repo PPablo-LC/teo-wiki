@@ -25,6 +25,9 @@ En el relato yahvista, el hombre aparece primero como hombre de inocencia origin
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que «la concupiscencia procede de la triple concupiscencia: concupiscencia de la carne, concupiscencia de los ojos y soberbia de la vida (1 Jn 2,16)» (§2514).
 ### Según la Teología del Cuerpo (TdC)
 
 La verdad sobre el hombre «histórico» hacia la que dirigen las palabras de Mt 5, 27-28 se expresa en la doctrina bíblica sobre la triple concupiscencia (Catequesis 26). El hombre es precisamente un «hombre de deseo» en el sentido joánico: tanto él como la mujer objeto de la mirada se encuentran en la dimensión de la triple concupiscencia que «no viene del Padre, sino del mundo».
@@ -33,9 +36,6 @@ La triple concupiscencia, incluida la del cuerpo, comporta una limitación y def
 
 Cristo, hablando de la mirada concupiscente (Mt 5, 28), hace conscientes a sus oyentes de que cada uno lleva en sí, junto con el misterio del pecado, la dimensión interior del «hombre de la concupiscencia» —triple: concupiscencia de la carne, concupiscencia de los ojos y orgullo de la vida— (Catequesis 101).
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que «la concupiscencia procede de la triple concupiscencia: concupiscencia de la carne, concupiscencia de los ojos y soberbia de la vida (1 Jn 2,16)» (§2514).
 
 ## Distinciones importantes
 

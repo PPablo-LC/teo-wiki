@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: "Conciencia y obligación moral (Veritatis splendor)"
-description: "Mediante la conciencia se formula la obligación moral a la luz de la ley natural: hacer aquí y ahora el bien conocido como tal."
+description: "Mediante la conciencia se fórmula la obligación moral a la luz de la ley natural: hacer aquí y ahora el bien conocido como tal."
 tags: ["teología_moral", "conciencia_moral", "obligación_moral"]
 timestamp: 2026-08-07
 ---
@@ -12,7 +12,7 @@ timestamp: 2026-08-07
 
 ## Definición
 
-La conciencia formula «la obligación moral a la luz de la ley natural: es la obligación de hacer lo que el hombre, mediante el acto de su conciencia, conoce como un bien que le es señalado aquí y ahora». (Ele_Xto_Stos, Cap. X, §2b)
+La conciencia fórmula «la obligación moral a la luz de la ley natural: es la obligación de hacer lo que el hombre, mediante el acto de su conciencia, conoce como un bien que le es señalado aquí y ahora». (Ele_Xto_Stos, Cap. X, §2b)
 
 ## Desarrollo doctrinal
 
@@ -22,11 +22,11 @@ Esta es la segunda nota característica de la conciencia actual según *Veritati
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
-2) La conciencia formula «la obligación moral a la luz de la ley natural: es la obligación de hacer lo que el hombre, mediante el acto de su conciencia, conoce como un bien que le es señalado aquí y ahora». Con ello se expresa una indicación teológicamente importante, que permitirá entender mejor cómo se inserta en la moral fundamental el concepto de obligación moral. Sobre este punto se vuelve en el § 4 e). (Ele_Xto_Stos, Cap. X, §2b)
+2) La conciencia fórmula «la obligación moral a la luz de la ley natural: es la obligación de hacer lo que el hombre, mediante el acto de su conciencia, conoce como un bien que le es señalado aquí y ahora». Con ello se expresa una indicación teológicamente importante, que permitirá entender mejor cómo se inserta en la moral fundamental el concepto de obligación moral. Sobre este punto se vuelve en el § 4 e). (Ele_Xto_Stos, Cap. X, §2b)
 
 ## Distinciones importantes
 
-- La obligación moral se formula a la luz de la ley natural: el bien conocido aquí y ahora, no una imposición arbitraria.
+- La obligación moral se fórmula a la luz de la ley natural: el bien conocido aquí y ahora, no una imposición arbitraria.
 - La conciencia hace inmediatamente presente la obligación moral, pero la fuente de la obligación es la ley, no la conciencia por sí misma.
 
 ## Relaciones doctrinales

@@ -4,7 +4,7 @@ title: "90. El matrimonio, signo visible del eterno misterio divino"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 136
 timestamp: 2026-08-01
-description: "Catequesis 90: el matrimonio como signo visible del eterno misterio divino, a imagen de la relación nupcial de Cristo-Esposo con la Iglesia — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 90: el matrimonio como signo visible del eterno misterio divino, a imagen de la relación nupcial de Cristo-Esposo con la Iglesia — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

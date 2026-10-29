@@ -4,7 +4,7 @@ title: "128. El respeto de los esposos por las obras de Dios"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 49
 timestamp: 2026-08-01
-description: "Catequesis 128: el don de piedad, el doble significado del acto conyugal, la verdad del lenguaje del cuerpo y la libertad interior del don — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 128: el don de piedad, el doble significado del acto conyugal, la verdad del lenguaje del cuerpo y la libertad interior del don — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

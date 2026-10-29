@@ -23,6 +23,13 @@ El seguimiento de Cristo tiene un coste: «Si alguno quiere venir en pos de mí,
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §1694: Los fieles laicos deben caminar «con sencillez la voluntad de Dios en todo aquello que constituye la genuina imitación de Cristo pobre, humilde y portador de la cruz».
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El verbo griego *akolouthein* significa «seguir», «acompañar». En los Evangelios sinópticos, designa la adhesión personal a Jesús que implica ruptura, seguimiento y configuración con su vida.
 ### Según Pinckaers (FMC)
 
 Pinckaers sitúa la imitación (seguimiento) de Cristo como elemento central de la moral paulina (FMC cap. V:2 B.4). San Pablo propone la imitación de Cristo como principio vital de la moral cristiana: «Tened entre vosotros los mismos sentimientos que tuvo Cristo Jesús» (Flp 2,5). La imitación no es copia exterior, sino configuración interior con Cristo por la fe y la caridad.
@@ -31,13 +38,6 @@ La fe en Cristo forma un hombre nuevo que vive según el Espíritu, en Cristo y 
 
 [FMC cap. V:2 (B.4)]
 
-### Según el Catecismo (CEC)
-
-CEC §1694: Los fieles laicos deben caminar «con sencillez la voluntad de Dios en todo aquello que constituye la genuina imitación de Cristo pobre, humilde y portador de la cruz».
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El verbo griego *akolouthein* significa «seguir», «acompañar». En los Evangelios sinópticos, designa la adhesión personal a Jesús que implica ruptura, seguimiento y configuración con su vida.
 
 ## Distinciones importantes
 

@@ -25,13 +25,6 @@ La idolatría es el pecado más grave contra la virtud de la [[religión]] porqu
 
 El CEC §2112 define la idolatría como «la deificación de una criatura». El §2113 explica que el ídolo «no es nada en el mundo» (1 Co 8,4) y que las funciones de Dios son transferidas a los dioses falsos. La idolatría es contraria al Señorío de Dios y al honor que le es debido (§2130). Se opone directamente al primer mandamiento.
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata la idolatría como pecado contra la virtud de la religión, la más excelsa de las virtudes morales infusas. La idolatría, por su materia, es pecado mortal (*ex toto genere suo*) porque se dirige directamente contra Dios negándole la adoración exclusiva que le es debida.
-### Según Juan Pablo II (JPII-JovCh)
-
-«Optar por Jesús y rechazar las idolatrías del mundo, los ídolos que buscan seducir a la juventud» [JPII-JovCh]. Juan Pablo II advierte a los jóvenes contra los ídolos contemporáneos que buscan apartarlos de Cristo y proclama que «solo Dios es adorable, solo Dios» [JPII-JovCh].
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la idolatría en la cuestión 94 de la IIa-IIae. La idolatría es una especie de superstición que tributa culto divino a cualquier criatura (q.94 a.1). Pertenece a la superstición porque extralimita indebidamente el culto divino, dándolo a quien no se debe (q.94 a.1 resp.).
@@ -44,13 +37,20 @@ Santo Tomás distingue tres tipos históricos de idolatría: la teología mític
 
 [SmTh IIa-IIae q.94]
 
+### Según Royo Marín (TPCr)
+
+Royo Marín trata la idolatría como pecado contra la virtud de la religión, la más excelsa de las virtudes morales infusas. La idolatría, por su materia, es pecado mortal (*ex toto genere suo*) porque se dirige directamente contra Dios negándole la adoración exclusiva que le es debida.
+### Según Juan Pablo II (JPII-JovCh)
+
+«Optar por Jesús y rechazar las idolatrías del mundo, los ídolos que buscan seducir a la juventud» [JPII-JovCh]. Juan Pablo II advierte a los jóvenes contra los ídolos contemporáneos que buscan apartarlos de Cristo y proclama que «solo Dios es adorable, solo Dios» [JPII-JovCh].
+
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
 La sátira profética como arma contra la idolatría: Dios mismo se burla del leñador que quema medio tronco para calentarse y del resto hace un dios al que postra (Is 44,15-19); Elías mofa a los profetas de Baal (1 Re 18,26-27). La sátira cristiana hereda este oficio: «burlar implacablemente los ídolos y torres de Babel señalando a Alguien infinitamente mejor» (Berry). Kyle Mann extiende el diagnóstico a la modernidad: el progresismo social funciona como religión idolátrica — con sacerdotes (científicos militantes), dogma, indulgencias (offsets de carbono) y escatología — y su rasgo revelador: «lo que el ciego religioso no puede hacer es tomar un chiste». La incapacidad de ser burlada delata al ídolo.
 
 ### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
 
-Kathryn Jean Lopez ofrece una confesión de «recuperada adicta a las noticias» que ilustra la forma contemporánea de esta idolatría: siendo editora de la web de National Review, perdió la Misa dominical del día en que Saddam Hussein fue capturado —la única vez en su vida fuera de enfermedad grave—. «Nunca me propuse hacer del trabajo una religión, y sin embargo ahí estaba… Por la manera en que vivía mi vida, había hecho un ídolo de mi trabajo. Me había tomado como una especie de salvadora». La idolatría no requiere apostasía declarada: se instala mediante pequeños hábitos que desplazan a Cristo del centro mientras la conciencia duerme. Su variante política corre el riesgo de convertirse en adicción colectiva: «muchos de nosotros somos adictos a la política nacional como el mejor reality show jamás emitido». El remedio es práctico y litúrgico: Lopez sustituyó el liveblogging de los comicios por la Liturgia de las Horas, y recuperó la prioridad absoluta de la Misa; el ídolo de las noticias solo cae cuando se le retira el sacrificio que le estaba tributando.
+Kathryn Jean López ofrece una confesión de «recuperada adicta a las noticias» que ilustra la forma contemporánea de esta idolatría: siendo editora de la web de National Review, perdió la Misa dominical del día en que Saddam Hussein fue capturado —la única vez en su vida fuera de enfermedad grave—. «Nunca me propuse hacer del trabajo una religión, y sin embargo ahí estaba… Por la manera en que vivía mi vida, había hecho un ídolo de mi trabajo. Me había tomado como una especie de salvadora». La idolatría no requiere apostasía declarada: se instala mediante pequeños hábitos que desplazan a Cristo del centro mientras la conciencia duerme. Su variante política corre el riesgo de convertirse en adicción colectiva: «muchos de nosotros somos adictos a la política nacional como el mejor reality show jamás emitido». El remedio es práctico y litúrgico: López sustituyó el liveblogging de los comicios por la Liturgia de las Horas, y recuperó la prioridad absoluta de la Misa; el ídolo de las noticias solo cae cuando se le retira el sacrificio que le estaba tributando.
 
 ### Según Evangelization & Culture (EAC-19)
 
@@ -64,7 +64,7 @@ Kathryn Jean Lopez ofrece una confesión de «recuperada adicta a las noticias»
 
 **El deporte como ídolo contemporáneo (18_feature_declue.md):** Dr. Richard DeClue advierte: «obsesionarse con el deporte podría convertirse en un ídolo». Si un cónyuge o padre gasta tiempo y energía exorbitantes en el deporte —jugando o mirando— y falla en los deberes de su vocación, hay que «reevaluar el papel que se le ha dado al deporte». El deporte, bueno en sí, se vuelve ídolo cuando el apego al placer del juego se prefiere al amor de Dios, llegando a ser pecado mortal (SmTh 2-2.168.3). La templanza y la eutrapelia son las virtudes que evitan esta deriva.
 
-**El icono vs. el ídolo (14_art_icons.md):** Cory Heimann usa el logo Jumpman (el salto de Jordan) como caso de estudio: la iconografía deportiva busca la trascendencia, pero «el arte católico no termina en la belleza del atleta; termina en la cruz». El ídolo se detiene en la imagen y la adora; el icono apunta más allá de sí mismo. El deporte sin la cruz es ídolo; con la cruz, es icono.
+**El icono vs. el ídolo (14_art_icons.md):** Cory Heimann usa el logo Jumpman (el salto de Jordán) como caso de estudio: la iconografía deportiva busca la trascendencia, pero «el arte católico no termina en la belleza del atleta; termina en la cruz». El ídolo se detiene en la imagen y la adora; el icono apunta más allá de sí mismo. El deporte sin la cruz es ídolo; con la cruz, es icono.
 
 **Las reglas contra la idolatría del yo (03_word_from_institute.md):** Matthew Petrusek muestra que las reglas del juego liberan de la tiranía del propio querer: «las reglas crean el ámbito mental y físico donde tiene lugar toda la acción». Ganar no es jugar con las propias reglas, sino jugar según las reglas por amor a la bondad del juego. La sumisión a reglas externas es antídoto contra la idolatría del yo autónomo.
 
@@ -95,7 +95,7 @@ p. 63):
 texto del índice remite a Is 5,1-5 (la viña que da espinas), Ger 2,13 (las cisternas
 áridas) y Sal 130.
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 La idolatría aparece en el primer mandamiento del examen de conciencia, unida
 al [[ateísmo_práctico]]: quien no adora a Dios no queda sin adoración, porque
@@ -134,6 +134,6 @@ La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mand
 - CEC §2112-2114, §2130
 - TPCr, tratado de la virtud de la religión
 - [EAC-8, Issue 8 «Humor», archivos 13, 18]
-- [EAC-3, Issue 3 «The Digital Age», archivo 14 (Lopez)]
+- [EAC-3, Issue 3 «The Digital Age», archivo 14 (López)]
 - Evangelization & Culture, Issue 19 (EAC-19): 01_from_the_desk.md, 16_feature_vukov.md, 22_peripheries.md
 - [EAC-20, 18_feature_declue.md, 14_art_icons.md, 03_word_from_institute.md]

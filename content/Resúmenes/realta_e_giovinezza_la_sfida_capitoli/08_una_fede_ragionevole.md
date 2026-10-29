@@ -22,7 +22,7 @@ tags: ["resumen", "fe", "razón", "certeza", "pecado_original", "compañía", "v
 - [[rebeldía]] — «La resistenza a aderire è una potenziale ribellione a Dio»
 - [[oración]] — «rendere ragione a chiunque di ciò che credete» (1Pt 3,15)
 - [[memoria]] — Dante: «Se tu segui tua stella, non puoi fallire a glorioso porto»
-- [[esperanza]] — Mt 19,29: «Chi mi segue avrà il centuplo quaggiù»
+- [[esperanza]] — Mt 19,29: «Chi mi segue avrà il céntuplo quaggiù»
 - [[cristianismo]] — criterio: «con Cristo l'uomo è più umano»
 - [[deseo]] — «quella natura che ti spinge a desiderare cose grandi è il cuore»
 - [[compañía]] — «un camminare insieme verso il destino comune»
@@ -50,9 +50,9 @@ tags: ["resumen", "fe", "razón", "certeza", "pecado_original", "compañía", "v
 - «diventa problema grave la fede se non se ne scorgono le ragioni».
 - «la ragione viene oggi supplita dalle emozioni e dalle impressioni prodotte da televisioni e giornali».
 
-## El centuplo y el criterio del humano
+## El céntuplo y el criterio del humano
 
-- Mt 19,29: «Chi mi segue avrà il centuplo quaggiù»; la oración de la mañana y de la noche.
+- Mt 19,29: «Chi mi segue avrà il céntuplo quaggiù»; la oración de la mañana y de la noche.
 - «Tutte le ragioni per Dio si riducono a questa: che *con Cristo l'uomo è più umano*».
 
 ## El deseo de una vida grande
@@ -62,7 +62,7 @@ tags: ["resumen", "fe", "razón", "certeza", "pecado_original", "compañía", "v
 
 ## Compañía, certeza y verdad inmutable
 
-- «la compania è un camminare insieme verso il destino comune»; Mt 28,20.
+- «la compañía è un camminare insieme verso il destino comune»; Mt 28,20.
 - «la compagnia con Lui, cioè la Chiesa [...] può sapere e definire cose che l'uomo non può sapere».
 - La fábula de la rana de Fedro; «il destino dei cristiani in questo mondo di ciechi è di affermare la certezza della verità».
 - «Questi sono dei fogli» / «lei deve dire che le sembrano dei fogli».

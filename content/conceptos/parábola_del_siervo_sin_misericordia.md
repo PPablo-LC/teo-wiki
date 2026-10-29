@@ -1,37 +1,37 @@
 ---
 type: Concepto Teológico
-title: Parabola del siervo sin misericordia
-description: "Parabola de Jesucristo narrada en Mt 18,21-35."
+title: Parábola del siervo sin misericordia
+description: "Parábola de Jesucristo narrada en Mt 18,21-35."
 ---
-# Parabola del siervo sin misericordia
+# Parábola del siervo sin misericordia
 
-> Area: Sagrada Escritura
+> Área: Sagrada Escritura
 > Ultima actualización: 2026-06-03
 
 ## Definición
 
-Parabola de Jesucristo narrada en Mt 18,21-35. Relata la historia de un siervo a quien su señor le perdona una deuda inmensa (diez mil talentos), pero que luego se niega a perdonar una deuda mucho menor (cien denarios) a un consiervo, siendo por ello castigado.
+Parábola de Jesucristo narrada en Mt 18,21-35. Relata la historia de un siervo a quien su señor le perdona una deuda inmensa (diez mil talentos), pero que luego se niega a perdonar una deuda mucho menor (cien denarios) a un consiervo, siendo por ello castigado.
 
 ## Desarrollo doctrinal
 
-La parabola del siervo sin misericordia es una de las parabolas de la misericordia y del perdón. Enseña que quien ha recibido el perdón gratuito e inmenso de Dios debe, a su vez, perdonar a sus hermanos. La desproporción entre las deudas subraya la magnitud del perdón divino y la obligación de perdonar al prójimo. Concluye con la advertencia del Señor: «Asi hara también mi Padre celestial con vosotros si no perdona de corazon cada uno a su hermano» (Mt 18,35).
+La parábola del siervo sin misericordia es una de las parábolas de la misericordia y del perdón. Enseña que quien ha recibido el perdón gratuito e inmenso de Dios debe, a su vez, perdonar a sus hermanos. La desproporción entre las deudas subraya la magnitud del perdón divino y la obligación de perdonar al prójimo. Concluye con la advertencia del Señor: «Así hara también mi Padre celestial con vosotros si no perdona de corazón cada uno a su hermano» (Mt 18,35).
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo se refiere a esta parabola en el contexto del perdón de las ofensas y la reconciliación fraterna, vinculandola a la petición del Padrenuestro «perdona nuestras ofensas como también nosotros perdonamos a los que nos ofenden».
+El Catecismo se refiere a esta parábola en el contexto del perdón de las ofensas y la reconciliación fraterna, vinculandola a la petición del Padrenuestro «perdona nuestras ofensas como también nosotros perdonamos a los que nos ofenden».
 
 ### Según el análisis de conferencias para varones (notas)
 
 > **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
 - Adam Farber (fortitude_through_excellence_in_mercy.md): usa Mt 18,21-35, destacando la desproporción entre la deuda perdonada al siervo y la que este se niega a perdonar como espejo del cristiano.
-- Adam Farber (fortitude_through_excellence_in_patience.md): usa la parabola complementariamente, mostrando la impaciencia como incapacidad de esperar y perdonar.
+- Adam Farber (fortitude_through_excellence_in_patience.md): usa la parábola complementariamente, mostrando la impaciencia como incapacidad de esperar y perdonar.
 
 ## Distinciones importantes
 
-- Parabola del siervo sin misericordia vs parabola del hijo prodigo (énfasis en el perdón al prójimo vs el perdón de Dios)
+- Parábola del siervo sin misericordia vs parábola del hijo pródigo (énfasis en el perdón al prójimo vs el perdón de Dios)
 - Deuda divina (infinita) vs deuda humana (limitada)
 - Perdón sacramental vs perdón interpersonal
 

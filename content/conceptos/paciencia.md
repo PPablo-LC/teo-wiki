@@ -23,6 +23,13 @@ Por no practicar esta virtud, muchas almas pierden el mérito de sus trabajos, s
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La paciencia aparece entre los frutos del Espíritu Santo (§1832). Es virtud recomendada por San Pablo: «Soportaos unos a otros en la caridad, en toda humildad, dulzura y paciencia» (Ef 4,2). El amor de Dios «usa de paciencia, no queriendo que algunos perezcan» (2 Pe 3,9; §2822).
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Paciencia»] El AT revela a Dios como «tardo a la ira y rico de gracia» (Ex 34,6s; Sal 103,8). Su paciencia no es debilidad: es llamamiento a la conversión (Jl 2,13). Jesús encarna y enseña la paciencia divina en la parábola de la higuera estéril (Lc 13,6-9) y del hijo pródigo (Lc 15,11); su pasión es el modelo supremo de paciencia (1Pe 2,23). El retraso aparente de la Parusía manifiesta la longanimidad divina, que «no quiere que nadie perezca, sino que todos vengan a penitencia» (2Pe 3,9). El cristiano debe imitar esta paciencia: en las pruebas, soportándolas con esperanza (Rom 5,3ss; Sant 1,2ss), y en la vida cotidiana, soportando a los otros con caridad (Ef 4,2; Col 3,12s). La paciencia es fruto del Espíritu (Gal 5,22).
+
 ### Según la Summa Theologiae (SmTh)
 
 **IIª-IIae q.136 — La paciencia:**
@@ -37,9 +44,6 @@ Por no practicar esta virtud, muchas almas pierden el mérito de sus trabajos, s
 
 **a.5 — La paciencia es la raíz y guardiana de todas las virtudes:** Santo Tomás, siguiendo a San Gregorio Magno, enseña que la paciencia guarda las demás virtudes porque sin ella ninguna virtud se mantiene firmemente ante las adversidades. Por eso llama a la paciencia «raíz y custodia de todas las virtudes».
 
-### Según el Catecismo (CEC)
-
-La paciencia aparece entre los frutos del Espíritu Santo (§1832). Es virtud recomendada por San Pablo: «Soportaos unos a otros en la caridad, en toda humildad, dulzura y paciencia» (Ef 4,2). El amor de Dios «usa de paciencia, no queriendo que algunos perezcan» (2 Pe 3,9; §2822).
 ### Según Royo Marín (TPCr)
 
 Los principales motivos de la paciencia cristiana son:
@@ -60,10 +64,6 @@ La paciencia y la longanimidad son los frutos del don de fortaleza. Los santos n
 
 [TPCr, Parte III, Libro II, Cap. II, n.437-438]
 
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Paciencia»] El AT revela a Dios como «tardo a la ira y rico de gracia» (Ex 34,6s; Sal 103,8). Su paciencia no es debilidad: es llamamiento a la conversión (Jl 2,13). Jesús encarna y enseña la paciencia divina en la parábola de la higuera estéril (Lc 13,6-9) y del hijo pródigo (Lc 15,11); su pasión es el modelo supremo de paciencia (1Pe 2,23). El retraso aparente de la Parusía manifiesta la longanimidad divina, que «no quiere que nadie perezca, sino que todos vengan a penitencia» (2Pe 3,9). El cristiano debe imitar esta paciencia: en las pruebas, soportándolas con esperanza (Rom 5,3ss; Sant 1,2ss), y en la vida cotidiana, soportando a los otros con caridad (Ef 4,2; Col 3,12s). La paciencia es fruto del Espíritu (Gal 5,22).
 
 ### Según La convenienza umana della fede (CUDF)
 

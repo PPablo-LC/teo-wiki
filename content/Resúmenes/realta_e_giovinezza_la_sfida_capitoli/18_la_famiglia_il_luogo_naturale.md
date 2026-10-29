@@ -28,7 +28,7 @@ tags: ["resumen", "familia", "pertenencia", "educación", "gratuidad"]
 - [[oración]] — el reconocimiento del «Padre Nostro»
 - [[destino]] — «amare se stessi è amare il proprio destino»
 - [[educación]] — el método de la experiencia
-- [[experiencia]] — «il metodo […] si può riassumere in una parola»
+- [[experiencia]] — «il método […] si può riassumere in una parola»
 - [[tradición]], [[fidelidad]], [[perdón]] — factores del proceso educativo
 
 ## Todo es lugar de educación a la pertenencia
@@ -36,11 +36,11 @@ tags: ["resumen", "familia", "pertenencia", "educación", "gratuidad"]
 - «Ogni rapporto, ogni impatto con la realtà è avvenimento di un approfondirsi *nell'essere*»; la persona «è rapporto con l'essere, è appartenenza al mistero, è relazione con l'infinito».
 - Fuera de esa pertenencia, la comunidad se reduce a «una sorta di agglomerato di individui isolati, come granelli di polvere dentro il polverone, in una solitudine senza fine»; quien no reconoce pertenecer a Dios es «come pula che il vento disperde» (*Sal* 1,4).
 - La poesía del poeta clandestino ruso Čudakov: «Ma quando fuori bordo è l'anima dell'uomo […] Nemmeno la sua propria casa / Si ferma, ma si allontana».
-- Barthes, *Frammenti di un discorso amoroso*: «Se io accetto la mia dipendenza, è perché essa costituisce per me un mezzo per *significare* la mia domanda».
+- Barthes, *Frammenti di un discorso amoroso*: «Se io accetto la mía dipendenza, è perché essa costituisce per me un mezzo per *significare* la mía domanda».
 
 ## La familia, lugar de la educación a la pertenencia
 
-- En la familia es evidente que la persona fluye de un antecedente y que «l'elemento fondamentale di sviluppo della persona sta nell'appartenenza reciproca, coniugata, di due fattori, l'uomo e la donna».
+- En la familia es evidente que la persona fluye de un antecedente y que «l'elemento fondamentale di sviluppo della persona sta nell'appartenenza recíproca, coniugata, di due fattori, l'uomo e la donna».
 - «La vera appartenenza si rivela come libertà: l'appartenenza vera è libertà»; la libertad es la capacidad de adherir hasta la identificación y la asimilación, hecha posible por el vínculo.
 - El vínculo pasa por la [[responsabilidad]], «momento strano, estraneo […] perché è proprio l'imitazione dell'infinito»: «La responsabilità plasma il legame secondo la coscienza del destino».
 
@@ -60,5 +60,5 @@ tags: ["resumen", "familia", "pertenencia", "educación", "gratuidad"]
 
 ## El método: la experiencia
 
-- «Il metodo […] si può riassumere in una parola: l'esperienza»; es la experiencia la que salva la pertenencia de la alienación y asegura la identidad.
+- «Il método […] si può riassumere in una parola: l'esperienza»; es la experiencia la que salva la pertenencia de la alienación y asegura la identidad.
 - Su dinamismo: (a) *la tradizione assimilata* (la propuesta); (b) *il condurre per mano* (introducción en una realidad concreta asimilable); (c) *l'ipotesi di lavoro* (la tradición como razón, sentido y valores); (d) *il rischio* (la responsabilidad del hijo; «Messo t'ho innanzi: omai per te ti ciba», Virgilio a Dante, *Paradiso* X); (e) *la compagnia stabile*, la fidelidad («Compagnia fino al perdono, all'infinito»), pues Dios permanece fiel aunque lo traicionemos.

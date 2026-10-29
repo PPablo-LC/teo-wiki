@@ -1,17 +1,17 @@
 ---
 type: Persona
-title: "Antonio Maria Sicari"
+title: "Antonio María Sicari"
 description: "Sacerdote carmelita descalzo, teólogo y agiógrafo (1943-), fundador del Movimento Ecclesiale Carmelitano; el más célebre agiógrafo italiano."
 tags: [personas, hagiografía, carmelo, teología_espiritual, sacramentos]
 timestamp: 2026-10-22
 ---
 
-# Antonio Maria Sicari
+# Antonio María Sicari
 
 > Área: Hagiografía / Teología espiritual
 > Última actualización: 2026-10-22
 
-**Antonio Maria Sicari** (1943) es sacerdote y teólogo carmelita descalzo,
+**Antonio María Sicari** (1943) es sacerdote y teólogo carmelita descalzo,
 fundador del «Movimento Ecclesiale Carmelitano». «Gracias a sus numerosos
 volúmenes de Retratos de santos se ha convertido en el más célebre
 agiógrafo italiano».

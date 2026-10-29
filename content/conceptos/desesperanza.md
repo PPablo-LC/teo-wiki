@@ -30,6 +30,18 @@ Sin embargo, la desesperación nunca es definitiva mientras el ser humano esté 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+**CEC §2090**: «El primer mandamiento nos prohíbe perder la esperanza en los bienes celestiales y en la ayuda que Dios nos concede para alcanzarlos.» La desesperación contradice la bondad de Dios que quiere que todos se salven.
+
+**CEC §2091**: «La presunción es contraria a la esperanza.» La desesperación es la otra cara de la presunción: ambas distorsionan la relación con Dios.
+
+### Según la Summa Theologiae (SmTh)
+
+**SmTh II-II, q. 17, a. 1 — La esperanza como virtud:** La desesperación es contraria a la virtud de la esperanza porque deja de esperar el bien futuro posible con la ayuda de Dios. La esperanza se apoya no en la gracia ya recibida sino en la omnipotencia y misericordia divinas.
+
+**SmTh II-II, q. 20, a. 4 — La desesperación como pecado mortal:** La desesperación es pecado mortal porque rechaza la salvación que Dios ofrece, que es el bien supremo del ser humano.
+
 ### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
 
 **La desesperanza como cultura** (Haley Stewart, §11): Stewart diagnostica una «cultura de desesperanza» que se manifiesta en movimientos como los BirthStrikers —mujeres que se niegan a tener hijos por considerar que el mundo causaría demasiado dolor a sus hijos—. El Papa Francisco critica: «Esta es la drama de hoy: casas llenas de cosas pero vacías de niños.» Stewart argumenta que esta actitud es «una forma de desesperanza que niega el fin último del hombre, reemplazando nuestra destino en eternidad por las comodidades del mundo».
@@ -43,18 +55,6 @@ Sin embargo, la desesperación nunca es definitiva mientras el ser humano esté 
 **La desesperanza en el sufrimiento** (Paul Maher Jr., §03): En Visions of Gerard, Jack Kerouac describe la desesperanza del padre Emil tras la muerte de su hijo Gerard. La «noche oscura del alma» puede llevar a la desesperanza, pero también puede ser el punto de partida para un encuentro más profundo con Dios.
 
 **La desesperanza y la terapia** (Sr. Josephine Garrett, §17): Garrett, como terapeuta, describe cómo los niños que sufren abuso y abandono experimentan la tentación de la desesperanza, pero paradójicamente son ellos quienes mantienen la capacidad de esperar: «No hesitan a esperar. Sonríen y lloran al mismo tiempo. Se ríen momentos después de sollozar.»
-
-### Según la Summa Theologiae (SmTh)
-
-**SmTh II-II, q. 17, a. 1 — La esperanza como virtud:** La desesperación es contraria a la virtud de la esperanza porque deja de esperar el bien futuro posible con la ayuda de Dios. La esperanza se apoya no en la gracia ya recibida sino en la omnipotencia y misericordia divinas.
-
-**SmTh II-II, q. 20, a. 4 — La desesperación como pecado mortal:** La desesperación es pecado mortal porque rechaza la salvación que Dios ofrece, que es el bien supremo del ser humano.
-
-### Según el Catecismo (CEC)
-
-**CEC §2090**: «El primer mandamiento nos prohíbe perder la esperanza en los bienes celestiales y en la ayuda que Dios nos concede para alcanzarlos.» La desesperación contradice la bondad de Dios que quiere que todos se salven.
-
-**CEC §2091**: «La presunción es contraria a la esperanza.» La desesperación es la otra cara de la presunción: ambas distorsionan la relación con Dios.
 
 ### Según la Vida de Jesús (VJ)
 

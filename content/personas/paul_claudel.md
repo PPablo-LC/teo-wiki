@@ -29,7 +29,7 @@ de la Pasión en elAsia.
 
 ### *L'Annonce à Marie* y la parábola de Violaine
 
-Sicari utiliza el drama de Claudel como «parabola» del misterio de la
+Sicari utiliza el drama de Claudel como «parábola» del misterio de la
 virginidad cristiana (cap. VI, §2). El argumento: en una fattoria bendecida
 por Dios, el viejo padre parte como peregrino a Jerusalén; deja a su
 fideicomiso la tenuta y a su primogénita Violaine al joven factor Giacomo

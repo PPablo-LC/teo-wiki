@@ -5,7 +5,7 @@ description: "Estado de dependencia patológica respecto a una sustancia, activi
 ---
 # Adicciones
 
-> Area: Moral
+> Área: Moral
 > Ultima actualización: 2026-06-03
 
 ## Definición
@@ -14,7 +14,7 @@ Estado de dependencia patológica respecto a una sustancia, actividad o comporta
 
 ## Desarrollo doctrinal
 
-La adicción es reconocida por la teologia moral como una forma de esclavitud del pecado (Jn 8,34) que afecta la libertad del acto humano y por tanto la imputabilidad moral. Puede atenuar la responsabilidad subjetiva cuando la adicción ha debilitado la libertad, pero no la elimina totalmente mientras haya uso de razón. La tradición ascética ofrece remedios: la mortificación, la templanza, la frecuencia de sacramentos, la dirección espiritual y el abandono en la gracia de Dios. La adicción al trabajo (workaholism), al alcohol, a las drogas, a la pornografia y a los juegos son formas contemporáneas de esclavitud moral.
+La adicción es reconocida por la teología moral como una forma de esclavitud del pecado (Jn 8,34) que afecta la libertad del acto humano y por tanto la imputabilidad moral. Puede atenuar la responsabilidad subjetiva cuando la adicción ha debilitado la libertad, pero no la elimina totalmente mientras haya uso de razón. La tradición ascética ofrece remedios: la mortificación, la templanza, la frecuencia de sacramentos, la dirección espiritual y el abandono en la gracia de Dios. La adicción al trabajo (workaholism), al alcohol, a las drogas, a la pornografía y a los juegos son formas contemporáneas de esclavitud moral.
 
 ## Perspectivas por fuente
 
@@ -26,13 +26,13 @@ El Catecismo aborda indirectamente las adicciones en el contexto de la virtud de
 
 > **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-Brian Cochran (my_personal_emmaus.md) desarrolla extensamente la doctrina de las adicciones (especialmente la adicción al trabajo) como «adulterio espiritual» y «idolatria». Propone el surrender espiritual y el cumplimiento del primer mandamiento como camino de liberación.
+Brian Cochran (my_personal_emmaus.md) desarrolla extensamente la doctrina de las adicciones (especialmente la adicción al trabajo) como «adulterio espiritual» y «idolatría». Propone el surrender espiritual y el cumplimiento del primer mandamiento como camino de liberación.
 
 ## Distinciones importantes
 
-- Adicción como enfermedad (aspecto psicologico) vs adicción como vicio (aspecto moral)
+- Adicción como enfermedad (aspecto psicológico) vs adicción como vicio (aspecto moral)
 - Responsabilidad plena vs atenuada segun el grado de libertad
-- Adicción a sustancias (drogas, alcohol) vs adicción a comportamientos (trabajo, juego, pornografia)
+- Adicción a sustancias (drogas, alcohol) vs adicción a comportamientos (trabajo, juego, pornografía)
 
 ## Relaciones doctrinales
 
@@ -47,5 +47,5 @@ Se relaciona con [[templanza]], [[pecado]], [[esclavitud_del_pecado]], [[surrend
 - [CEC §1809, 1739-1742, 2291]
 - [Nota: analizados/brian_cochran_my_personal_emmaus.md]
 - [EAC-3, 01_from_the_desk.md] (Barron: los nuevos medios presentan peligros espirituales, incluida la adicción)
-- [EAC-3, 14_lopez_news_addict.md] (Lopez: la adicción a las noticias como idolatría del trabajo)
+- [EAC-3, 14_lopez_news_addict.md] (López: la adicción a las noticias como idolatría del trabajo)
 - [EAC-3, 16_scalia_twitter.md] (Scalia: la dopamina de los «likes» como mecanismo de adicción)

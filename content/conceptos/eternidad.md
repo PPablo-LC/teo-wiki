@@ -55,7 +55,7 @@ Giussani presenta la eternidad no como abstracción metafísica sino como medida
 
 - **La alternativa radical**: cada mañana el hombre elige entre «un tutto che finisce nel niente… e la vita che ha uno scopo», entre «morire come cani» (Pavese) y «vivere secondo la misura dell'eterno» (01, 15-16). Sirácide lo cuantifica: «Come una goccia d'acqua nel mare… questi pochi anni in un giorno dell'eternità» (Sir 18,8-12; 02, 79).
 
-- **El pasado como semilla del futuro**: «la mente cristiana è piena di attesa / e il passato è un seme del futuro o niente» (Luzi, 02, 101). Si el pasado no es semilla de eternidad, se vuelve «nada» — «Mia madre… niente? No!» (02, 103).
+- **El pasado como semilla del futuro**: «la mente cristiana è piena di attesa / e il passato è un seme del futuro o niente» (Luzi, 02, 101). Si el pasado no es semilla de eternidad, se vuelve «nada» — «Mía madre… niente? No!» (02, 103).
 
 - **El arte como «inizio dell'eterno»**: «L'arte, la vera grande arte… è l'esperienza dell'eterno che incomincia» (imágenes de las *Très riches heures* y la capilla Scrovegni; 02, 305-307). La belleza anticipa la eternidad en el tiempo.
 

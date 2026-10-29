@@ -4,7 +4,7 @@ title: "121. Continencia periódica responsable"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 41
 timestamp: 2026-08-01
-description: "Catequesis 121: la regulación «natural» de la fertilidad como relectura del lenguaje del cuerpo en la verdad, el método moralmente honesto unido a la dimensión ética, el papel de la templanza y el dominio de sí — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 121: la regulación «natural» de la fertilidad como relectura del lenguaje del cuerpo en la verdad, el método moralmente honesto unido a la dimensión ética, el papel de la templanza y el dominio de sí — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

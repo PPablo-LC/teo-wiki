@@ -39,15 +39,15 @@ Rachel Bulman («The Devotion of Blessed Carlo Acutis») desarrolla la devoción
 
 ### Según Il Volto dei Santi vol. III (VdS)
 
-Capítulo 10 (San Carlo Acutis — «L'Eucaristia ci configura in modo unico a colui che è l'Amore»), con el **método hagiográfico** de Sicari explicitado: todo retrato se funda en el mensaje que Dios da por medio del santo y en la respuesta del santo:
+Capítulo 10 (San Carlo Acutis — «L'Eucaristía ci configura in modo unico a colui che è l'Amore»), con el **método hagiográfico** de Sicari explicitado: todo retrato se funda en el mensaje que Dios da por medio del santo y en la respuesta del santo:
 
 - **El hijo que evangeliza a los padres**: la madre, Antonia Salzano, de familia «laica»: «per me Carlo è stato un po' come un piccolo salvatore»; el niño incansable que la obliga a reabrir libros religiosos y la arrastra con su coherencia.
 - **La caridad concreta**: defiende a los compañeros discapacitados y burlados; comparte la cena con los sin techo de Milán y Asís con termos y platos térmicos comprados con su paga; el brahmín Rajesh, bautizado por su contagio: «folgorato con la sua profonda fede, la sua grande carità e la sua grande purezza».
-- **La espiritualidad eucarística central**: «L'Eucarestia è la mia autostrada per il cielo»; «più Eucaristie riceveremo e più diventeremo simili a Gesù»; su invocación diaria tras la comunión: «Gesù fa' come se fossi a casa tua...»; y su larga meditación sobre el «con voi» de Mt 28,20: «Il «con voi» significa l'esistenza a due... si attua finalmente il «con voi»».
+- **La espiritualidad eucarística central**: «L'Eucarestia è la mía autostrada per il cielo»; «più Eucaristie riceveremo e più diventeremo simili a Gesù»; su invocación diaria tras la comunión: «Gesù fa' come se fossi a casa tua...»; y su larga meditación sobre el «con voi» de Mt 28,20: «Il «con voi» significa l'esistenza a due... si attua finalmente il «con voi»».
 - **El «kit per diventare santi»**: el programa que regalaba a quien lo quisiera: Misa diaria, Rosario diario, ración de Escritura, adoración eucarística, confesión semanal, disponibilidad a renunciar a algo por los demás.
 - **Internet como «veicolo di evangelizzazione»**: la *Mostra sui Miracoli Eucaristici* (150 paneles, 143 milagros) realizada a los 14 años con tres años de trabajo; «il computer gli serviva per indicare il Cielo».
 - **Las máximas**: «La tristezza è lo sguardo rivolto verso se stessi, la felicità è lo sguardo rivolto verso Dio»; «Tutti nascono come originali, ma molti muoiono come fotocopie»; «Non io, ma Dio»; «la conversione è un processo di sottrazione: meno io per lasciare spazio a Dio».
-- **La leucemia ofrecida**: «per il Papa e per la Chiesa»; «Sono contento di morire perché ho vissuto la mia vita senza sciupare neanche un minuto di essa in cose che non piacciono a Dio».
+- **La leucemia ofrecida**: «per il Papa e per la Chiesa»; «Sono contento di morire perché ho vissuto la mía vita senza sciupare neanche un minuto di essa in cose che non piacciono a Dio».
 - **Canonización por León XIV (7-IX-2025)** y la propuesta de Francisco en *Christus vivit* 104-108: «Non lasciare che ti rubino la speranza e la gioia... Osa essere di più».
 
 ## Ver también
@@ -58,7 +58,7 @@ Capítulo 10 (San Carlo Acutis — «L'Eucaristia ci configura in modo unico a c
 
 ## Referencias
 
-- «God and Gaming», en *Evangelization & Culture* 12, §09 (Bobby Angel, Fr. Blake Britton, Rachel y Jason Bulman).
+- «God and Gaming», en *Evangelization & Culture* 12, §09 (Bobby Ángel, Fr. Blake Britton, Rachel y Jason Bulman).
 - Testimonios de jóvenes, *Evangelization & Culture* 12, §20.
 - Bulman, Rachel. «The Devotion of Blessed Carlo Acutis», en *Evangelization & Culture* 13 (Autumn 2022).
 - Gori, Nicola. *Carlo Acutis: The First Millennial Saint* (OSV, 2021).

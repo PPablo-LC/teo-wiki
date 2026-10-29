@@ -26,6 +26,10 @@ La distinción tiene implicaciones decisivas en varios ámbitos teológicos. En 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que «la omnipotencia de Dios no es un poder ilimitado que haga todo lo que quiera» (CEC §282). Dios es soberano pero no arbitrario: su obrar está regulado por su sabiduría. «Dios obra en la historia a través de las acciones de los hombres y de las mujeres libres» (CEC §303), lo cual es expresión de la potencia ordenada: Dios respeta la causalidad secundaria que Él mismo ha constituido.
+
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.25 — El poder de Dios:**
@@ -43,10 +47,6 @@ a.6 — Dios quiere hacer solo lo que es conforme a su sabiduría. Aunque puede 
 **Iª q.22 — La providencia de Dios:**
 
 a.2 — Dios gobierna las cosas por su providencia a través de las causas que ha instituido. La potencia ordenada es el medio ordinario de la providencia: Dios obra a través de las criaturas, no sustituyéndolas sino perfeccionándolas (SmTh Iª q.22 a.2).
-
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que «la omnipotencia de Dios no es un poder ilimitado que haga todo lo que quiera» (CEC §282). Dios es soberano pero no arbitrario: su obrar está regulado por su sabiduría. «Dios obra en la historia a través de las acciones de los hombres y de las mujeres libres» (CEC §303), lo cual es expresión de la potencia ordenada: Dios respeta la causalidad secundaria que Él mismo ha constituido.
 
 ### Según el Vaticano II
 

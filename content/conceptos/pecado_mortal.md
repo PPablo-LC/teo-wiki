@@ -23,6 +23,9 @@ El pecado mortal es como un derrumbamiento instantáneo de la vida sobrenatural,
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«El pecado mortal es una violación grave de la ley de Dios que destruye la caridad en el corazón del hombre» (§1855). «Para que un pecado sea mortal se requiere que concurran tres condiciones: es pecado mortal todo aquel que tiene como objeto una materia grave y que, además, es cometido con pleno conocimiento y deliberado consentimiento» (§1857). «La pena eterna del pecado mortal no puede ser entendida separada de la impenitencia hasta la muerte» (§1861).
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.72 a.5 — Distinción del pecado mortal y venial:** El pecado mortal es el que se opone a la caridad y aparta del fin último. La distinción entre mortal y venial no es solo de grado, sino de género: el mortal destruye el principio de la vida espiritual (el orden al último fin). Santo Tomás lo compara con una enfermedad incurable (que destruye el principio vital), mientras el venial es curable.
@@ -37,9 +40,6 @@ El pecado mortal es como un derrumbamiento instantáneo de la vida sobrenatural,
 
 **a.5 — Circunstancias que cambian venial en mortal:** Solo cuando la circunstancia añade una deformidad de otro género, constituyendo una nueva especie de pecado (p. ej., el hurto se convierte en sacrilegio si es de cosa sagrada).
 
-### Según el Catecismo (CEC)
-
-«El pecado mortal es una violación grave de la ley de Dios que destruye la caridad en el corazón del hombre» (§1855). «Para que un pecado sea mortal se requiere que concurran tres condiciones: es pecado mortal todo aquel que tiene como objeto una materia grave y que, además, es cometido con pleno conocimiento y deliberado consentimiento» (§1857). «La pena eterna del pecado mortal no puede ser entendida separada de la impenitencia hasta la muerte» (§1861).
 ### Según Royo Marín (TPCr)
 
 Los efectos del pecado mortal son instantáneos y catastróficos: pérdida de la gracia santificante, de las virtudes infusas y dones del Espíritu Santo; pérdida de la inhabitación de la Santísima Trinidad; pérdida de todos los méritos adquiridos; mancha en el alma; esclavitud de Satanás; reato de pena eterna.

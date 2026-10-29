@@ -32,8 +32,8 @@ La serie se organiza por las «palabras queridas al Autor»: amicizia, dimora, a
 2. **Parte II — Cristo, sorgente dell'affezione**: la afección tiene su fuente en Cristo; «prima c'è la bellezza»; la preferencia por Cristo como objeto primero de la afección humana; ver a Cristo en las personas y en las cosas.
 3. **Parte III — Il sacrificio come condizione**: el sacrificio no es objeción a la realización del corazón sino su condición; la afirmación amorosa; el sacrificio como lo que hace verdadero el vínculo; la tentación tiende a durar.
 4. **Parte IV — Mistero e segno coincidono**: el misterio y el signo coinciden; la adoración posible; la distancia de Dios es estar dentro; la preferencia como misericordia pedagógica.
-5. **Parte V — Una dimora come metodo**: la morada como método; la casa como punto de intersección entre el tiempo y el espacio; el vínculo más fuerte; al corazón de la apariencia.
-6. **Parte VI — Il metodo nella dimora**: la raíz de la compañía (*Magister adest*); la lucha de Tersite; la discreción; otro mundo; nuestro frágil sí.
+5. **Parte V — Una dimora come método**: la morada como método; la casa como punto de intersección entre el tiempo y el espacio; el vínculo más fuerte; al corazón de la apariencia.
+6. **Parte VI — Il método nella dimora**: la raíz de la compañía (*Magister adest*); la lucha de Tersite; la discreción; otro mundo; nuestro frágil sí.
 
 La historia de la *casa* recorre el volumen: nueve jóvenes de unos veinticinco años al inicio, más de cincuenta en tres casas al final. Los capítulos van numerados y cada uno abre con una nota que indica el número de Tischrede, su fecha y el texto puesto a tema.
 
@@ -99,7 +99,7 @@ La fuente es el texto integral de las casi Tischreden. Tesis de la portada (arch
 - [[13_non__un_pretesto]] — T12: Non è un pretesto
 - [[14_iii__il_sacrificio_come_condizione]] — Parte III: Il sacrificio come condizione
 - [[15_il_cuore_della_questione]] — T129: Il cuore della questione
-- [[16_secondo_larmonia_generale]] — T44: Secondo l'armonia generale
+- [[16_secondo_larmonia_generale]] — T44: Secondo l'armonía generale
 - [[17_laffermazione_amorosa]] — T45: L'affermazione amorosa
 - [[18_per_rendere_vero_1]] — T82: Per rendere vero (1)
 - [[19_per_rendere_vero_2]] — T83: Per rendere vero (2)
@@ -108,12 +108,12 @@ La fuente es el texto integral de las casi Tischreden. Tesis de la portada (arch
 - [[22_ladorazione_possibile]] — T102: L'adorazione possibile
 - [[23_la_distanza__esser_dentro]] — T100: La distanza è esser dentro
 - [[24_preferenza_e_segno]] — T179: Preferenza e segno
-- [[25_v__una_dimora_come_metodo]] — Parte V: Una dimora come metodo
+- [[25_v__una_dimora_come_metodo]] — Parte V: Una dimora come método
 - [[26_un_luogo]] — T175: Un luogo
 - [[27_per_la_tua_corsa_nel_mondo]] — T176: Per la tua corsa nel mondo
 - [[28_il_legame_pi_forte]] — T178: Il legame più forte
 - [[29_al_cuore_dellapparenza]] — T103: Al cuore dell'apparenza
-- [[30_vi__il_metodo_nella_dimora]] — Parte VI: Il metodo nella dimora
+- [[30_vi__il_metodo_nella_dimora]] — Parte VI: Il método nella dimora
 - [[31_la_radice_della_compagnia]] — T114: La radice della compagnia
 - [[32_la_lotta_di_tersite]] — T23: La lotta di Tersite
 - [[33_la_discrezione]] — T49: La discrezione

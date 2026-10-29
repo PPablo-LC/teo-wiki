@@ -85,7 +85,7 @@ Giussani afirma que la unidad de una compañía como la suya es el mayor milagro
 | 107 | Blockquote | Ciò che ci lega |
 | 129 | Blockquote | Membra l'uno dell'altro |
 | 169 | Blockquote | Il Mistero coincide col segno |
-| 175 | Blockquote | La liturgia, simbolo del lavoro |
+| 175 | Blockquote | La liturgia, símbolo del lavoro |
 | 185 | Blockquote | Ripugnante al concetto moderno di ragione |
 | 191 | Blockquote | L'unico preconcetto che non limita il giudizio |
 

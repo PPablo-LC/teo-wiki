@@ -23,6 +23,9 @@ La incredulidad reside en el entendimiento como sujeto próximo —pues el disen
 
 ## Perspectivas por fuente
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Incredulidad»] La incredulidad no es mera negación de Dios sino desconocimiento de los signos y testigos de su palabra, negativa a decir «amén» a Dios. En el AT se manifiesta en las murmuraciones del desierto y en el corazón dividido de Israel que pacta con los ídolos. En el NT, la incredulidad alcanza su colmo frente a Jesús y su cruz. Pablo y Juan reflexionan sobre el misterio de la incredulidad de Israel: aunque misteriosa, será vencida un día por la misericordia divina (Rom 11,25-32; Jn 12,32).
 ### Según la Summa Theologiae (SmTh)
 
 **Naturaleza y gravedad (q.10 a.1-4).** La incredulidad es pecado cuando implica resistencia voluntaria a la fe (q.10 a.1). Su sujeto próximo es el entendimiento, pero su principio motor es la voluntad (q.10 a.2). En su género, la incredulidad es el mayor de los pecados, pues aleja al hombre de Dios más que ningún otro, privándole hasta del conocimiento auténtico de Dios (q.10 a.3). Sin embargo, la incredulidad por ignorancia invencible no es pecado, sino castigo del pecado original (q.10 a.1). No toda acción del infiel es pecado, pues permanece en él algún bien de naturaleza; peca, sin embargo, en cuanto obra movido por su infidelidad (q.10 a.4).
@@ -49,9 +52,6 @@ En el diálogo con Nicodemo, Jesús dice: «El que no cree, ya está juzgado, po
 
 El padre del epiléptico clama: «¡Creo! Ayuda a mi incredulidad» (Mc 9,24), mostrando cómo la fe y la incredulidad pueden coexistir en el alma que lucha por creer (CrSJP 33 §4).
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Incredulidad»] La incredulidad no es mera negación de Dios sino desconocimiento de los signos y testigos de su palabra, negativa a decir «amén» a Dios. En el AT se manifiesta en las murmuraciones del desierto y en el corazón dividido de Israel que pacta con los ídolos. En el NT, la incredulidad alcanza su colmo frente a Jesús y su cruz. Pablo y Juan reflexionan sobre el misterio de la incredulidad de Israel: aunque misteriosa, será vencida un día por la misericordia divina (Rom 11,25-32; Jn 12,32).
 
 ## Distinciones importantes
 

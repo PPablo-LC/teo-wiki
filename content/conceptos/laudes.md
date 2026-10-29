@@ -26,7 +26,7 @@ Junto con las [[vísperas]], las Laudes constituyen las "horas principales" de l
 - Padre Nuestro
 - Bendición y despedida
 
-El Cántico de Zacarías (*Benedictus Dominus Deus Israel*) es característico de Laudes, como el Magnificat lo es de Vísperas.
+El Cántico de Zacarías (*Benedictus Dominus Deus Israel*) es característico de Laudes, como el Magníficat lo es de Vísperas.
 
 ## Perspectivas por fuente
 

@@ -23,12 +23,6 @@ La gracia santificante es el germen de la gloria: la vida eterna comienza en est
 
 ## Perspectivas por fuente
 
-### Según el Enchiridion Symbolorum (Denzinger)
-
-**Concilio de Vienne** (1312, D-483) definió, contra los begardos que negaban la necesidad de las virtudes infusas, que «en el bautismo se infunde la gracia santificante y las virtudes en los niños y la forma del bautismo debe ser la prescrita por la Iglesia».
-
-**Benedicto XII** (1341), Memorial *Iam dudum*: condenó el error de los armenios que decían que «para la remisión de los pecados basta la sola pasión de Cristo, sin otro don alguno de Dios» y que «ni que en los sacramentos de la nueva ley se dé la gracia de Dios, gratificante» (D-539), afirmando así que la gracia santificante es necesaria para la justificación y se administra en los sacramentos.
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás enseña que los ángeles fueron creados en gracia santificante desde el primer momento de su existencia (Iª q.62 a.3). La gracia santificante es, respecto a la bienaventuranza, lo que la razón seminal respecto a su efecto natural; por eso en 1 Jn 3,9 la gracia es llamada «simiente de Dios». La inclinación de la gracia no impone necesidad, sino que quien la posee puede no usarla y pecar (el modo de la naturaleza intelectual es tender libremente). Sin la gracia habitual no hay mérito alguno; los ángeles merecieron la bienaventuranza por un acto informado por la gracia (q.62 a.4). La gracia imperfecta es principio del merecer; la gracia consumada, principio del gozar (q.62 a.5). Véase [[perfección_angélica_en_gracia_y_gloria]].
@@ -45,7 +39,7 @@ Santo Tomás enseña que los ángeles fueron creados en gracia santificante desd
 
 a.1 — Por la penitencia se recuperan todas las virtudes infusas, porque con ella se infunde la gracia, de la cual fluyen todas las virtudes como de la esencia del alma fluyen las potencias.
 
-a.2 — Las virtudes se recuperan en mayor, igual o menor grado según la intensidad del movimiento del penitente en la justificación. La caída puede redundar en bien si torna al hombre más humilde y precavido.
+a.2 — El penitente resurge con mayor, igual o menor gracia según la intensidad del movimiento de su libre albedrío en la justificación, pues la gracia, susceptible de más y de menos, se da según la disposición del sujeto (Ia-IIae q.52 a.1; q.113 a.8); y lo mismo se ha de decir de las virtudes que acompañan a la gracia. No se sigue que la caída aproveche siempre: coopera al bien solo a los predestinados, «llamados santos» según el plan divino (Rom 8,28), que se levantan cuantas veces caen. Y no se levantan con más gracia, sino con una gracia más estable: no por parte de la gracia —tanto más estable cuanto mayor—, sino por parte del hombre, que permanece más seguro en ella cuanto más precavido y humilde es; de ahí la *Glosa*: la caída les aprovecha «porque se tornan más humildes y más prudentes».
 
 a.3 — La penitencia restituye la dignidad principal (ser hijo de Dios por la gracia), pero no la inocencia o la virginidad espiritual. El penitente puede alcanzar algo mejor: mayor humildad y amor, como el hijo pródigo recibe la mejor túnica, el anillo y las sandalias.
 
@@ -68,6 +62,12 @@ Royo Marín distingue:
 - **Gracia actual**: el auxilio transitorio que Dios da para obrar actos sobrenaturales.
 
 La gracia santificante es «raíz y fuente» de todas las virtudes infusas y dones del Espíritu Santo, que son como las facultades operativas que proceden de ella.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Vienne** (1312, D-483) definió, contra los begardos que negaban la necesidad de las virtudes infusas, que «en el bautismo se infunde la gracia santificante y las virtudes en los niños y la forma del bautismo debe ser la prescrita por la Iglesia».
+
+**Benedicto XII** (1341), Memorial *Iam dudum*: condenó el error de los armenios que decían que «para la remisión de los pecados basta la sola pasión de Cristo, sin otro don alguno de Dios» y que «ni que en los sacramentos de la nueva ley se dé la gracia de Dios, gratificante» (D-539), afirmando así que la gracia santificante es necesaria para la justificación y se administra en los sacramentos.
 
 ### Según Para Salvarte (PS)
 
@@ -123,7 +123,7 @@ La gracia santificante es el alma de todo el [[organismo_sobrenatural]], del que
 
 ### Giussani — Perché la Chiesa (PLDC)
 
-PLDC presenta la grazia santificante como la comunicación del divino *como realidad* (no solo como verdad) en la Iglesia (Parte III, cap. 3, §2): «il comunicarsi della realtà divina stessa, alla partecipazione dell'umano alla vita di Dio». En el hombre que libremente acoge el rapporto con Cristo se verifica un «mutamento nella sua natura d'uomo» — una «esaltazione ontológica dell'io», salto de calidad en la participación al Essere: el hombre queda hombre, pero se hace algo más. El Vangelo lo llama *rinascita* (Gv 3, el coloquio con Nicodemo); el NT, *creatura nuova* (2 Cor 5,17; Gal 6,15; Ef 4,23-24; Col 3,9-10; 1 Pt 1,23; Gc 1,18); Paolo, *membra del corpo di Cristo* (1 Cor 12,27). La palabra «grazia» es «la più bella del nostro vocabolario cristiano», porque indica la gratuidad absoluta del fenómeno; «santificante» porque es Dios quien inicia y prolonga en la historia una humanidad nueva. El dinamismo de esta comunicación es misterioso «come il vento» (Gv 3,8), pero verificable; se comunica a través de gestos eficaces — los sacramentos — dentro de la vida de la auténtica comunidad eclesial, no del sentimiento o de la imaginación. Giussani deplora cómo «si è dilapidato nell'uso moralistico il concetto di 'grazia santificante': le due parole più perfette e più belle di tutta la teologia sono diventate non più espressive della loro potenza» — la exaltación ontológica es la radicalidad de la novedad del Vangelo que responde al gemido de toda la creación (Rm 8,19.22).
+PLDC presenta la grazia santificante como la comunicación del divino *como realidad* (no solo como verdad) en la Iglesia (Parte III, cap. 3, §2): «il comunicarsi della realtà divina stessa, alla partecipazione dell'umano alla vita di Dio». En el hombre que libremente acoge el rapporto con Cristo se verifica un «mutamento nella sua natura d'uomo» — una «esaltazione ontológica dell'io», salto de calidad en la participación al Essere: el hombre queda hombre, pero se hace algo más. El Vangelo lo llama *rinascita* (Gv 3, el coloquio con Nicodemo); el NT, *creatura nuova* (2 Cor 5,17; Gal 6,15; Ef 4,23-24; Col 3,9-10; 1 Pt 1,23; Gc 1,18); Paolo, *membra del corpo di Cristo* (1 Cor 12,27). La palabra «grazia» es «la più bella del nostro vocabolario cristiano», porque indica la gratuidad absoluta del fenómeno; «santificante» porque es Dios quien inicia y prolonga en la historia una humanidad nueva. El dinamismo de esta comunicación es misterioso «come il vento» (Gv 3,8), pero verificable; se comunica a través de gestos eficaces — los sacramentos — dentro de la vida de la auténtica comunidad eclesial, no del sentimiento o de la imaginación. Giussani deplora cómo «si è dilapidato nell'uso moralistico il concetto di 'grazia santificante': le due parole più perfette e più belle di tutta la teología sono diventate non più espressive della loro potenza» — la exaltación ontológica es la radicalidad de la novedad del Vangelo que responde al gemido de toda la creación (Rm 8,19.22).
 
 ## Referencias
 

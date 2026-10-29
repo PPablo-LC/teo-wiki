@@ -33,7 +33,7 @@ La resiliencia es objeto de estudio desde los años setenta. Los cinco factores 
 
 ### Esperanza e impotencia
 
-La esperanza no es una emoción, sino un proceso de pensamiento compuesto por la terna de Snyder: metas (establecer metas realistas), vías (descubrir cómo alcanzarlas, permaneciendo flexibles y tolerando la decepción) y medios (creer en uno mismo). Lo más importante: «¡la esperanza se aprende!», sobre todo de los padres, con límites bien establecidos, constancia y apoyo. La cultura de «divertido, rápido y fácil» prepara para la desesperanza, pero también es perjudicial creer que lo bueno solo exige sangre, sudor y lágrimas. La desesperanza provoca impotencia, y el poder —definido por Martin Luther King como «la capacidad de producir cambios»— es necesario: «si queremos vivir y amar de todo corazón, necesitamos creer que podemos cambiar».
+La esperanza no es una emoción, sino un proceso de pensamiento compuesto por la terna de Snyder: metas (establecer metas realistas), vías (descubrir cómo alcanzarlas, permaneciendo flexibles y tolerando la decepción) y medios (creer en uno mismo). Lo más importante: «¡la esperanza se aprende!», sobre todo de los padres, con límites bien establecidos, constancia y apoyo. La cultura de «divertido, rápido y fácil» prepara para la desesperanza, pero también es perjudicial creer que lo bueno solo exige sangre, sudor y lágrimas. La desesperanza provoca impotencia, y el poder —definido por Martín Luther King como «la capacidad de producir cambios»— es necesario: «si queremos vivir y amar de todo corazón, necesitamos creer que podemos cambiar».
 
 ### Practicar la consciencia crítica
 

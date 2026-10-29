@@ -17,7 +17,7 @@ Jane Austen (Steventon, Inglaterra, 1775 – Winchester, 1817), novelista ingles
 
 ## Relevancia teológica
 
-*Mansfield Park* (1814) es una meditación sobre la educación en la libertad. Fanny Price, la pobre prima criada en Mansfield, encarna la conciencia formada que sabe decir no: rechaza la representación teatral transgresora y el cortejo seductor de Henry Crawford, «un libertino, no un hombre verdaderamente libre». La novela distingue entre proteger a los hijos del mal (Sir Thomas fracasa en esto) y protegerlos para el bien: formar el carácter para que la libertad se ejerza como don de sí. El desenlace — Crawford recae, Maria Rushworth arruina su vida — confirma la tesis: la filosofía del «si te sienta bien, hazlo» termina siempre en vacío y esclavitud. Los santos son más libres que sus opresores precisamente porque han ordenado sus deseos; Austen narra esa verdad en clave doméstica.
+*Mansfield Park* (1814) es una meditación sobre la educación en la libertad. Fanny Price, la pobre prima criada en Mansfield, encarna la conciencia formada que sabe decir no: rechaza la representación teatral transgresora y el cortejo seductor de Henry Crawford, «un libertino, no un hombre verdaderamente libre». La novela distingue entre proteger a los hijos del mal (Sir Thomas fracasa en esto) y protegerlos para el bien: formar el carácter para que la libertad se ejerza como don de sí. El desenlace — Crawford recae, María Rushworth arruina su vida — confirma la tesis: la filosofía del «si te sienta bien, hazlo» termina siempre en vacío y esclavitud. Los santos son más libres que sus opresores precisamente porque han ordenado sus deseos; Austen narra esa verdad en clave doméstica.
 
 ## Relaciones doctrinales
 

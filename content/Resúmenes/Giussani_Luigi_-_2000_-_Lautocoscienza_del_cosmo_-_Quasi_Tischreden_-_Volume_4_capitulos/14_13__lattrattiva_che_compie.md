@@ -27,7 +27,7 @@ tags: ["resumen", "giussani", "libertad", "belleza", "verdad"]
 
 ### Adherir a la atracción que completa
 
-Dejarse guiar por la atracción del contenido justo sin detenerse en la modalidad (el predicador de las Quarant'ore: «Sul breve margine della loro ignoranza costruì la loro apologia», *Lc* 23,34). «La bellezza è il vero in quanto si comunica»: «la verità fissata diventa una bellezza» (S. Tomás).
+Dejarse guiar por la atracción del contenido justo sin detenerse en la modalidad (el predicador de las Quarant'ore: «Sul breve margine della loro ignoranza costruì la loro apología», *Lc* 23,34). «La bellezza è il vero in quanto si comunica»: «la verità fissata diventa una bellezza» (S. Tomás).
 
 ### La libertad y la atracción al vero
 
@@ -39,7 +39,7 @@ Dejarse guiar por la atracción del contenido justo sin detenerse en la modalida
 
 ### Dios se comunica a través de la libertad
 
-Dios usa criaturas libres que pueden hacer *bene-male*; el [[libertad|io]] es libertad en devenir. «Dio si comunica agli uomini ultimamente attraverso la libertà». Los «Ni», «ma», «chissà» como lo peor.
+Dios usa criaturas libres que pueden hacer *bene-male*; el [[libertad|io]] es libertad en devenir. «Dio si comunica agli uomini últimamente attraverso la libertà». Los «Ni», «ma», «chissà» como lo peor.
 
 ### El misterio de tu libertad
 

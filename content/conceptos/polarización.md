@@ -22,13 +22,13 @@ La polarización es señal de una falta de integración entre la legítima diver
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II
+
+La constitución *Lumen Gentium* afirma que la Iglesia es «sacramento de unidad» (LG §1, §9). La diversidad de dones, ministerios y carismas no debe romper la comunión, sino contribuir a la edificación del Cuerpo de Cristo (LG §4, §32). La Iglesia es «una comunidad de fe, esperanza y caridad» (LG §8).
 ### Según la Evangelii Gaudium (EG)
 
 El Papa Francisco advierte contra las «polarizaciones» y «divisiones» en la Iglesia (EG §98). La polarización es uno de los signos de una «mundanidad espiritual» que fragmenta el Cuerpo de Cristo (EG §93-97). Propugna una «cultura del encuentro» que supere las dicotomías y restaure la comunión en la diversidad.
 
-### Según el Concilio Vaticano II
-
-La constitución *Lumen Gentium* afirma que la Iglesia es «sacramento de unidad» (LG §1, §9). La diversidad de dones, ministerios y carismas no debe romper la comunión, sino contribuir a la edificación del Cuerpo de Cristo (LG §4, §32). La Iglesia es «una comunidad de fe, esperanza y caridad» (LG §8).
 
 ## Ver también
 

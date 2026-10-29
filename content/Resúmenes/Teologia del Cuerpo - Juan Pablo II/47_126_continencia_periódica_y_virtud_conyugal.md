@@ -4,7 +4,7 @@ title: "126. Continencia periódica y virtud conyugal"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 47
 timestamp: 2026-08-01
-description: "Catequesis 126: la continencia como capacidad de dirigir la excitación y la emoción, su función para el equilibrio de los dos significados del acto conyugal, la «naturalidad» del método a nivel de la persona y el significado nupcial del cuerpo — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 126: la continencia como capacidad de dirigir la excitación y la emoción, su función para el equilibrio de los dos significados del acto conyugal, la «naturalidad» del método a nivel de la persona y el significado nupcial del cuerpo — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

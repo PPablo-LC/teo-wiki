@@ -46,4 +46,4 @@ La realidad es transparente solo si se reconoce el *Tu* detrás de las cosas; si
 
 ### El hijo pródigo y el rostro del Padre
 
-«La faccia del padre è lo specchio del figliol prodigo […] il volto del padre è misericordia» ([[misericordia]], [[parábola_del_hijo_pródigo]]). El *Tu* se concibe como salvador.
+«La faccia del padre è lo specchio del figliol pródigo […] il volto del padre è misericordia» ([[misericordia]], [[parábola_del_hijo_pródigo]]). El *Tu* se concibe como salvador.

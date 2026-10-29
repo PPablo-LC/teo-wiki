@@ -47,7 +47,7 @@ Giussani la sitúa en la cima de la acogida:
 4. **La maternidad adoptiva es verdadera maternidad**: si recoges un feto
    hecho por otra mujer, «la madre sei tu, nel senso fisiológico e ontológico
    del termine»; hay incluso «una maternità più fine ancora, più
-   “genetica”»: la educación (MDO, 01, 35).
+   “genética”»: la educación (MDO, 01, 35).
 5. **Se apoya en una compañía**: la nota histórica de MDO documenta cómo la
    asociación [[famiglie_per_l_accoglienza]] sostiene a las familias
    adoptivas —minicorsi, confronto entre familias— porque «la verdadera

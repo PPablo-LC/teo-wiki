@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "PROLOGO"
+title: "PRÓLOGO"
 fuente: Una Visita de Dios - San Juan Pablo II
 capítulo: 4
 timestamp: 2026-08-31
@@ -8,7 +8,7 @@ description: "Prólogo del Cardenal Suquía — Una Visita de Dios - San Juan Pa
 tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "teologia_del_sufrimiento"]
 ---
 
-# PROLOGO
+# PRÓLOGO
 
 ## Conceptos básicos referenciados
 
@@ -47,4 +47,4 @@ Si estas páginas llevan paz, fortaleza y esperanza a los que padecen, habrán r
 
 ## Secciones incluidas
 
-- PROLOGO
+- PRÓLOGO

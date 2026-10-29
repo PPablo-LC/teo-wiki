@@ -27,7 +27,7 @@ tags: ["resumen", "maternidad", "matrimonio", "medicina", "providence", "santida
 - [[vocación]] — discernimiento: misiones o matrimonio; peregrinación a Lourdes en Año Mariano 1954 (L233-236).
 - [[muerte_cristiana]] — «Hermana, estoy aquí para morir… Basta que esté bien el niño» (L121); «Pedro, estoy curada. Estaba ya allí… me han mandado de nuevo aquí abajo para sufrir aún» (L135).
 - [[mártir]] — «mártir» no por búsqueda de cielo sino por ser madre (L322-324); féretro en tumba de sacerdotes (L344).
-- [[beatificación]] — Pablo VI (Angelus 23 sept 1973), Juan Pablo II, cardenal Martini la señalaron como ejemplo (L7); proceso canónico concluyó beatificación (L17).
+- [[beatificación]] — Pablo VI (Ángelus 23 sept 1973), Juan Pablo II, cardenal Martini la señalaron como ejemplo (L7); proceso canónico concluyó beatificación (L17).
 - [[consejo_evangélico]] — propósitos a los 16 años: «hacerlo todo por Jesús», «morir antes que pecado mortal», «via de la humillación más corta para santidad» (L181-205).
 - [[acción_católica]] — responsabilidades educativas; guiones para juventudes femeninas (L211-215).
 - [[providence]] — confianza en Dios Padre: «Dios podía cuidar a sus otros hijos, pero ni siquiera Dios habría podido cuidar al que llevaba en su seno si ella lo rechazaba» (L334).
@@ -36,12 +36,12 @@ tags: ["resumen", "maternidad", "matrimonio", "medicina", "providence", "santida
 - [[esperanza]] — «Con fe y esperanza me he confiado al Señor incluso contra la terrible palabra de la ciencia» (L66).
 - [[aborto]] — como médico se negó: «¡No se juega con los niños!» (L318); decisión coherente con convicción de que criatura es don de Dios con derechos sagrados (L324).
 - [[sacrificio]] — renovación continua 7 meses: «No me salvéis a mí, sino al niño» (L312).
-- [[sacramento_matrimonio]] — «colaboradores de Dios en la creación… darle hijos que le amen y le sirvan» (L279).
+- [[sacramento_matrimonio]] — «colaboradores de Dios en la creación… darle hijos que le amén y le sirvan» (L279).
 - [[providencia]] — decisión «meditada», «reacción bien pensada» (L330); evidencia: tres hijos la necesitaban, pero para el del seno era indispensable (L332).
 
 ## 1. Una madre para nuestro tiempo (L3-26)
 
-El proceso de beatificación no había concluido al escribirse el libro (beatificada poco después, N. de la T.). Pablo VI (Angelus 23 sept 1973): «Una madre de la diócesis de Milán que por dar la vida a su hijo ha sacrificado con una inmolación meditada su propia vida». También Juan Pablo II y cardenal Martini la señalaron como ejemplo.
+El proceso de beatificación no había concluido al escribirse el libro (beatificada poco después, N. de la T.). Pablo VI (Ángelus 23 sept 1973): «Una madre de la diócesis de Milán que por dar la vida a su hijo ha sacrificado con una inmolación meditada su propia vida». También Juan Pablo II y cardenal Martini la señalaron como ejemplo.
 
 Sucedido hace 30 años (mujer joven), responde a exigencia actual: Vaticano II proclamó que «el Señor Jesús predicó la santidad de vida a todos y cada uno de sus discípulos, de cualquier condición», y «todos los fieles… son llamados a la plenitud de la vida cristiana y a la perfección de la caridad», «en los diferentes tipos de vida… los movidos por el Espíritu de Dios cultivan una misma santidad». Necesario tener esto en cuenta al proponer modelos de veneración e imitación.
 
@@ -101,7 +101,7 @@ Le faltaban 3 días de pasión según misteriosa medida de completar en su carne
 
 ## 7. Raíces: familia y formación cristiana (L141-168)
 
-Marido: «No has hecho nada excepcional, ni penitencias especiales, no buscaste renuncia por renuncia, heroísmo por heroismo. Cumplías deberes de joven, esposa, madre, médico con total disponibilidad a designios y voluntad del Señor, con espíritu y deseo de santidad, para ti y para los demás».
+Marido: «No has hecho nada excepcional, ni penitencias especiales, no buscaste renuncia por renuncia, heroísmo por heroísmo. Cumplías deberes de joven, esposa, madre, médico con total disponibilidad a designios y voluntad del Señor, con espíritu y deseo de santidad, para ti y para los demás».
 
 Padres excepcionales: pareja principios de siglo, 13 hijos (Juana = décima), fe sustancia de jornada, trabajo, educación, pensamiento, sentimientos, alegrías, tristezas. Juana (13 años tras muerte): «Mis santos padres eran rectos y sabios, con esa sabiduría reflejo de alma buena, justa y temerosa de Dios».
 
@@ -161,7 +161,7 @@ Otra carta: «Te quiero tanto… empezando por la mañana cuando, en la Santa Mi
 
 Cercana boda: «Eres mío, Pedro, y me siento una sola alma y un solo corazón contigo. Tus alegrías son también las mías… Cuando pienso en nuestro amor no hago otra cosa que dar gracias al Señor».
 
-Proyecto futuro: «Con ayuda y bendición de Dios, haremos lo posible para que nuestra familia sea un pequeño cenáculo donde Jesús reine sobre todos nuestros afectos, deseos y acciones. Pedro mío, quedan pocos días y estoy muy conmovida por acercarme a recibir el sacramento del Amor. Nos hacemos colaboradores de Dios en la creación, podemos darle hijos que le amen y le sirvan».
+Proyecto futuro: «Con ayuda y bendición de Dios, haremos lo posible para que nuestra familia sea un pequeño cenáculo donde Jesús reine sobre todos nuestros afectos, deseos y acciones. Pedro mío, quedan pocos días y estoy muy conmovida por acercarme a recibir el sacramento del Amor. Nos hacemos colaboradores de Dios en la creación, podemos darle hijos que le amén y le sirvan».
 
 Desde pistas de esquí a Pedro en ciudad: «Siento que el lunes tuvieses tanto trabajo. Estoy siempre contigo con mi pensamiento… Ayer y hoy sol espléndido. Me levanto a las ocho (¡qué vaga! Tú ya en trabajo) porque a las ocho y media hay Misa. Créeme, nunca he gustado tanto la Misa y la Comunión como en estos días. La pequeña iglesia tan bonita y recogida está desierta. El celebrante no tiene ni monaguillo, por tanto el Señor es todo para mí y para ti, Pedro, porque donde estoy yo estás tú».
 

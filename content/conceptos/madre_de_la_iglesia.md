@@ -35,7 +35,7 @@ Scott Hahn (BMV, lección 12) desarrolla la maternidad espiritual de María desd
 
 ### Según Scott Hahn (Hail, Holy Queen)
 
-Hahn dedica el capítulo 7 a la relación entre María y la Iglesia y formula su tesis con una inversión provocadora: «no tanto la Iglesia nos da a María cuanto María nos da la Iglesia». Como Madre de la Iglesia, María entrega a su Hijo a través de la Iglesia y, a través de ella, engendra nuevos hermanos para Cristo.
+Hahn dedica el capítulo 7 a la relación entre María y la Iglesia y fórmula su tesis con una inversión provocadora: «no tanto la Iglesia nos da a María cuanto María nos da la Iglesia». Como Madre de la Iglesia, María entrega a su Hijo a través de la Iglesia y, a través de ella, engendra nuevos hermanos para Cristo.
 
 - **La tipología como realidad.** La tipología no es una convención literaria: la Biblia es historia, y la tipología es también profecía, realidad y eternidad. Decir que María es Madre y arquetipo de la Iglesia no es una metáfora piadosa, sino una verdad permanente sobre una persona real y sobre el plan de Dios para el cosmos.
 - **Vaticano II.** Aunque no produjo un documento exclusivamente mariano, el Concilio dedica a María el capítulo VIII de *Lumen Gentium*, «la concentración mariana más densa» de su enseñanza. Hahn cita LG 53-54.63-64: María es madre de los miembros de Cristo (Agustín), íntimamente unida a la Iglesia, miembro eminente y singular, tipo y excelente ejemplar de fe y caridad; la Iglesia la honra como madre amantísima y, contemplándola, imitando su caridad y recibiendo la Palabra, se hace también madre y guarda virginalmente la fe.
@@ -44,7 +44,7 @@ Hahn dedica el capítulo 7 a la relación entre María y la Iglesia y formula su
 
 [HHQ, cap. 7]
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre llega a la maternidad eclesial de María desde la escena del Calvario y desde Ap 12:
 
@@ -77,4 +77,4 @@ Se relaciona con [[virgen_maría]], [[madre_de_dios]], [[maternidad_espiritual]]
 - Concilio Vaticano II, LG §53-69
 - Pablo VI, Alocución del 21 de noviembre de 1964
 - Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 7
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), caps. 7 y 8
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), caps. 7 y 8

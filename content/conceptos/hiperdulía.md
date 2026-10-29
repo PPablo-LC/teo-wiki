@@ -21,15 +21,15 @@ La hiperdulía se fundamenta en la especial afinidad de María con Dios por su m
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La Virgen María es «la más excelente criatura», «la Madre de Dios» y por ello recibe un culto especial. «Todos los peligros y pruebas del mundo están contenidos en este único consejo: María» (CEC §971). El culto a María es «intrínseco al culto cristiano» (CEC §971) y se distingue del culto de adoración reservado a Dios.
+
 ### Según la Summa Theologiae (SmTh)
 
 La hiperdulía (q.103 a.4) es la especie más importante de dulía en sentido amplio. Se tributa a las criaturas que tienen una especial afinidad con Dios, principalmente a la Virgen Santísima por ser Madre de Dios. Es medio entre la latría (culto debido solo a Dios) y la dulía común (veneración de los santos). No es una virtud distinta de la dulía en sentido estricto, sino la máxima expresión de la reverencia debida a una criatura por su excelsa dignidad. Las criaturas irracionales (como la cruz de Cristo) no reciben hiperdulía sino el mismo honor que la persona a quien representan (q.103 a.4 ad 3).
 
 [SmTh IIa-IIae q.103 a.4]
-
-### Según el Catecismo (CEC)
-
-La Virgen María es «la más excelente criatura», «la Madre de Dios» y por ello recibe un culto especial. «Todos los peligros y pruebas del mundo están contenidos en este único consejo: María» (CEC §971). El culto a María es «intrínseco al culto cristiano» (CEC §971) y se distingue del culto de adoración reservado a Dios.
 
 ### Según Royo Marín (TPCr)
 

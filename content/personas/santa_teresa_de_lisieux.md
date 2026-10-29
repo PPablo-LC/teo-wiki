@@ -15,7 +15,7 @@ timestamp: 2026-09-07
 
 ## Contexto histórico y biografía
 
-Marie-Françoise Thérèse Martin nació en Alençon (Francia) en 1873, hija de Luis Martin y Acelia Guérin, ambos beatificados. Ingresó en el Carmelo de Lisieux a los quince años y murió de tuberculosis a los veinticuatro.
+Marie-Françoise Thérèse Martín nació en Alençon (Francia) en 1873, hija de Luis Martín y Acelia Guérin, ambos beatificados. Ingresó en el Carmelo de Lisieux a los quince años y murió de tuberculosis a los veinticuatro.
 
 Su vida, aparentemente breve y ordinaria, fue extraordinaria por la profundidad de su experiencia espiritual. Su autobiografía *Historia de un alma* (*Histoire d'une âme*), escrita por obediencia, se ha convertido en un clásico de la espiritualidad católica.
 
@@ -61,7 +61,7 @@ Capítulo 03 (Santa Teresa di Gesù Bambino — patrona de todas las misiones), 
 - **«Assetata di anime»**: el episodio fundacional de 1887 (Ms A 45v): la sangre que cae de la mano del Crucifijo; el grito «Ho sete!» enciende en ella la sed de las almas; la conversión de Pranzini («il mio primo figlio») como respuesta experimental a su oración.
 - **«Apostola degli apostoli»**: el Carmelo como vocación misionera por la oración y el sacrificio; «Ho ottenuto da mio padre il permesso di farmi apostola al Carmelo» (LT 247).
 - **«Conservare il sale destinato alle anime»**: el descubrimiento romano de la fragilidad de los sacerdotes: «credevo che le anime dei sacerdoti fossero più pure del cristallo»; la vocación carmelitana como maternidad espiritual de los presbíteros.
-- **Todas las vocaciones en una** (Ms B): «Sento in me la vocazione di Guerriero, di Sacerdote, di Apostolo, di Dottore, di Martire»; la solución unificante: «La Carità mi diede la chiave della mia vocazione... nel Cuore della Chiesa, mia Madre, sarò l'Amore!». Sicari subraya que Teresa no se identifica con el corazón de la Iglesia, sino que lo contempla: el Amor que allí late es el Espíritu Santo.
+- **Todas las vocaciones en una** (Ms B): «Sento in me la vocazione di Guerriero, di Sacerdote, di Apostolo, di Dottore, di Martire»; la solución unificante: «La Carità mi diede la chiave della mía vocazione... nel Cuore della Chiesa, mía Madre, sarò l'Amore!». Sicari subraya que Teresa no se identifica con el corazón de la Iglesia, sino que lo contempla: el Amor que allí late es el Espíritu Santo.
 - **Los dos «fratelli missionari»** (don Bellière y padre Roulland): corresponsabilidad espiritual y afectiva; «Io non muoio, io entro nella vita» (LT 244); hasta ofrecer sus paseos agonizantes: «cammino per un missionario».
 - **La noche oscura misionera**: el último año como participación en el abandono de Cristo por los pecadores e incrédulos; los ateos también tienen derecho a los misioneros (cfr. GS 19).
 - **La misión desde el cielo**: «Non posso riposarmi finché ci saranno anime da salvare»; «voglio passare il mio Cielo a fare del bene sulla terra».

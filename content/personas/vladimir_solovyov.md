@@ -38,7 +38,7 @@ dramáticamente el riesgo de un mesianismo histórico sin Cristo verdadero.
 En la *Tischreden* 92 (01, «Sentido religioso y fe») Giussani comenta
 *Col* 3,11 —«Cristo todo en todos»— con Solovyov:
 
-> «“Cristo tutto in tutti” è una formula per indicare la varietà dei modi
+> «“Cristo tutto in tutti” è una fórmula per indicare la varietà dei modi
 > con cui il mistero del Padre fa venire l'uomo a conoscenza di chi è
 > Cristo».
 

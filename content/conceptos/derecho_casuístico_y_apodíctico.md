@@ -19,6 +19,9 @@ Frank Crüsemann denominó a las normas apodícticas **«metanormas»**, que rep
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+El CEC reconoce que la Ley antigua contiene disposiciones transitorias vinculadas a situaciones históricas concretas, junto con principios permanentes (CEC 1963-1964).
 ### Jesús de Nazaret I (Benedicto XVI — JdN_I)
 
 **Derecho casuístico:** Regula cuestiones muy concretas: disposiciones jurídicas sobre esclavos, lesiones físicas, reparaciones por robo. Es un derecho basado en la praxis, «históricamente condicionado, susceptible de correcciones» (JdN_I, p. 94-95). Normas más recientes se oponen a otras más antiguas sobre la misma materia.
@@ -27,9 +30,6 @@ Frank Crüsemann denominó a las normas apodícticas **«metanormas»**, que rep
 
 **En el Sermón de la Montaña:** Jesús no hace nada «inaudito» cuando contrapone las normas casuísticas a la pura voluntad de Dios como «mayor justicia» (Mt 5, 20). Retoma la dinámica intrínseca de la misma Torá y, como el Elegido, como el profeta que se encuentra con Dios «cara a cara» (Dt 18, 15), le da su forma radical.
 
-### Catecismo de la Iglesia Católica (CEC)
-
-El CEC reconoce que la Ley antigua contiene disposiciones transitorias vinculadas a situaciones históricas concretas, junto con principios permanentes (CEC 1963-1964).
 
 ## Relaciones doctrinales
 

@@ -53,4 +53,4 @@ En la entrevista *Spotlight* del número dedicado a la conversión (18_spotlight
 - [EAC-2, 14_dorothy_day_personalist.md]
 - [EAC-2, 13_framework_economic_life.md, Principios 5]
 - EAC-15, archivos 23 y 09 (*Bridges of Mercy for Healing After Abortion*; *The Holy Quest*)
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).

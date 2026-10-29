@@ -4,7 +4,7 @@ title: "Amor y fecundidad"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 35
 timestamp: 2026-08-01
-description: "Catequesis 114: la doctrina de la encíclica Humanæ vitæ sobre los dos significados del acto conyugal (unitivo y procreador) y su inseparable conexión, fundamentada en la naturaleza del acto y en la ley natural — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 114: la doctrina de la encíclica Humanæ vitæ sobre los dos significados del acto conyugal (unitivo y procreador) y su inseparable conexión, fundamentada en la naturaleza del acto y en la ley natural — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

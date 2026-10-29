@@ -59,7 +59,7 @@ El Concilio Vaticano II (cap. XIII), especialmente el decreto *Optatam totius* �
 
 ### Según Pinckaers (FMC)
 
-Pinckaers articula el diagnóstico de la crisis en cuatro momentos históricos: la sintesis clásica (patrística y escolástica, caps. VIII-IX), la ruptura nominalista (caps. X, XIV), la era de los manuales (caps. XI, XII) y la renovación contemporánea (cap. XIII). Su tesis es que la moral cristiana actual vive todavía bajo el paradigma nominalista-manualista, y que la salida de la crisis requiere una recuperación de la libertad de calidad frente a la libertad de indiferencia. El núcleo de su propuesta es volver a situar la bienaventuranza como principio organizador, las virtudes como desarrollo de la libertad, y los dones del Espíritu Santo como culminación de la vida cristiana.
+Pinckaers articula el diagnóstico de la crisis en cuatro momentos históricos: la síntesis clásica (patrística y escolástica, caps. VIII-IX), la ruptura nominalista (caps. X, XIV), la era de los manuales (caps. XI, XII) y la renovación contemporánea (cap. XIII). Su tesis es que la moral cristiana actual vive todavía bajo el paradigma nominalista-manualista, y que la salida de la crisis requiere una recuperación de la libertad de calidad frente a la libertad de indiferencia. El núcleo de su propuesta es volver a situar la bienaventuranza como principio organizador, las virtudes como desarrollo de la libertad, y los dones del Espíritu Santo como culminación de la vida cristiana.
 
 ## Distinciones importantes
 

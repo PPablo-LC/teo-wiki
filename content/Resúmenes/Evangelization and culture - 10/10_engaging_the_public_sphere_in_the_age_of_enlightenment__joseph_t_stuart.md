@@ -20,7 +20,7 @@ tags: ["resumen", "evangelization and culture - 10"]
 
 El historiador Joseph T. Stuart desmonta la narrativa de un «choque» único entre fe católica e Ilustración. Siguiendo a Vincenzo Ferrone (el «hechizo del Centauro»: la razón como fuerza civilizadora), muestra que hubo **múltiples Ilustraciones** — no un proyecto monolítico anticatólico.
 
-Los católicos participaron activamente en la esfera pública ilustrada: Maria Gaetana Agnesi (matemática, teóloga), Giovanni Maria Lancisi (médico papal), el papa Benedicto XIV (reformador científico) y Ludovico Antonio Muratori (padre de la historiografía italiana). Frente a la pluralidad de proyectos ilustrados, surgieron dos respuestas: eliminar la pluralidad (revolución francesa) o acomodarse a ella con principios (la vía católica).
+Los católicos participaron activamente en la esfera pública ilustrada: María Gaetana Agnesi (matemática, teóloga), Giovanni María Lancisi (médico papal), el papa Benedicto XIV (reformador científico) y Ludovico Antonio Muratori (padre de la historiografía italiana). Frente a la pluralidad de proyectos ilustrados, surgieron dos respuestas: eliminar la pluralidad (revolución francesa) o acomodarse a ella con principios (la vía católica).
 
 En Inglaterra y EE.UU., los católicos defendieron la libertad de expresión desde su condición de minoría perseguida: la Revolución Gloriosa (1688) y el Licensing Act (1695) abrieron espacio; John Carroll, primer obispo americano, cultivó una ciudadanía católica comprometida. James Madison (*Federalist* 10) asumió que la pluralidad no se elimina sino se gobierna; Mill (*On Liberty*) llevó al extremo la defensa del debate libre.
 

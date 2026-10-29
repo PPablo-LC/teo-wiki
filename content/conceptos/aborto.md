@@ -27,10 +27,6 @@ La defensa de la vida del no nacido no es solo una cuestión de moral privada, s
 
 CEC §2270-2275: «La vida humana debe ser respetada y protegida absolutamente desde el momento de la concepción. Desde el primer momento de su existencia, todo ser humano debe ser reconocido como persona.» §2271: «Desde el siglo I, la Iglesia ha condenado el aborto. Su enseñanza no ha cambiado.» §2272: La Iglesia impone la excomunión *latae sententiae* a quienes cometen el aborto.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-GS §51: «La vida desde su concepción ha de ser salvaguardada con el máximo cuidado; el aborto y el infanticidio son crímenes abominables.»
-
 ### Según el Código de Derecho Canónico (CIC)
 
 CIC c.1398: «Quien procura el aborto, si se produce el efecto, incurre en excomunión *latae sententiae*.»
@@ -38,6 +34,10 @@ CIC c.1398: «Quien procura el aborto, si se produce el efecto, incurre en excom
 ### Según el Compendio de Doctrina Social (CompDS)
 
 CompDS §227-228: «El derecho a la vida es el derecho fundamental de todo ser humano.» «La Iglesia reconoce y promueve la dignidad humana en todos los momentos de la existencia.»
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+GS §51: «La vida desde su concepción ha de ser salvaguardada con el máximo cuidado; el aborto y el infanticidio son crímenes abominables.»
 
 ### Según Royo Marín (TPCr)
 

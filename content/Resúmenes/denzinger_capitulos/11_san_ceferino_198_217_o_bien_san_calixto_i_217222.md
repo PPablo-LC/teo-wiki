@@ -15,7 +15,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[trinidad]] — misterio de un solo Dios en tres Personas
 - [[monarquianismo]] — herejía que niega las distinciones personales en Dios
 - [[ditheísmo]] — error de afirmar dos dioses
-- [[absolución_de_los_pecados]] — poder de perdonar pecados
+- [[absolución]]] — poder de perdonar pecados
 - [[penitencia]] — sacramento de reconciliación
 - [[fornicación]] — pecado contra la castidad
 - [[adulterio]] — pecado contra la fidelidad conyugal
@@ -31,10 +31,10 @@ Fragmento de los *Philosophoumena* de San Hipólito (hacia 230), que relata la c
 Fragmento del *De Pudicitia* de Tertuliano (libro 1):
 «Digo también haber salido un edicto y, por cierto, perentorio. No menos que el Pontífice Máximo, es decir, el obispo de los obispos, proclama: 'Yo perdono los pecados de adulterio y fornicación a los que han hecho penitencia.'»
 
-Esta declaración, atribuida antiguamente a San Ceferino o San Calixto, suele escribirse ahora a Agripino, obispo de Cartago. Es un testimonio temprano del poder de [[absolución_de_los_pecados]] ejercido por el obispo.
+Esta declaración, atribuida antiguamente a San Ceferino o San Calixto, suele escribirse ahora a Agripino, obispo de Cartago. Es un testimonio temprano del poder de [[absolución]]] ejercido por el obispo.
 
 ## Secciones incluidas
 
 ## SAN CEFERINO, 198 (?)-217 o bien SAN CALIXTO I, 217-222
 
-Dos fragmentos de los primeros siglos: (1) Sobre la [[trinidad]] y la controversia con los monarquianos (D-42a), donde se relata la defensa de la distinción de Personas divinas por parte de Calixto; (2) Sobre la [[absolución_de_los_pecados]] (D-43), donde un obispo (probablemente Agripino de Cartago) ejerce el poder de perdonar pecados de adulterio y fornicación a quienes hacen penitencia, testimonio del poder de las llaves en la Iglesia primitiva.
+Dos fragmentos de los primeros siglos: (1) Sobre la [[trinidad]] y la controversia con los monarquianos (D-42a), donde se relata la defensa de la distinción de Personas divinas por parte de Calixto; (2) Sobre la [[absolución]]] (D-43), donde un obispo (probablemente Agripino de Cartago) ejerce el poder de perdonar pecados de adulterio y fornicación a quienes hacen penitencia, testimonio del poder de las llaves en la Iglesia primitiva.

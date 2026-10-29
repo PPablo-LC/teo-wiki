@@ -18,7 +18,7 @@ tags: ["resumen", "vocación_laical", "caridad", "unidad_alma_cuerpo", "eucarist
 - [[dignidad_de_la_persona_enferma]] — su reivindicación constante de la dignidad del enfermo, frente a la privatización que «disponen de la carne humana como de una mercancía» (L423-425).
 - [[caridad]] — «la caridad de Cristo tiene que apremiar el corazón de su discípulo»: el amor al prójimo es verdadero sólo cuando tiende hacia un explícito amor por Cristo, «Dios-en-el-prójimo» (L385-393).
 - [[misericordia_de_dios]] — la «misión de todos» —hermanas, enfermeros, médicos— en el hospital es «colaborar con la misericordia de Dios» (L259).
-- [[confesión_sacramental]] — para ser curados por Moscati «era necesario frecuentar los sacramentos», y su respuesta al psicoanálisis: «en nuestro país existe el sacramento de la confesión» (L253-271).
+- [[confesión]]] — para ser curados por Moscati «era necesario frecuentar los sacramentos», y su respuesta al psicoanálisis: «en nuestro país existe el sacramento de la confesión» (L253-271).
 - [[eucaristía]] — «cura de eucaristía» como receta para un enfermo sin espina dorsal, y la energía que «no disminuye nunca» de quien comulga todas las mañanas (L147, L273).
 - [[ciencia_y_fe]] — «son diferentes aspectos de aquella única inteligencia de amor que nos ha creado y redimido»: el mismo punto de unión de un doble itinerario (L417-419).
 - [[laicidad]] — el debate sobre si la propuesta de Moscati es «una pretensión absurda e integrista o una profecía», formulado «sin adjetivos o tareas específicas» (L5, L343).

@@ -17,7 +17,7 @@ description: "Los artículos se organizan alfabéticamente y cada uno rastrea el
 - **Director**: Xavier León-Dufour (1912–2007)
 - **Colaboradores**: Jean Duplacy, Augustin Grelot, Jacques Guillet, André Feuillet, Stanislas Lyonnet, Paul Beauchamp y otros
 - **Código**: VocTeoBib
-- **Edición original**: *Vocabulaire de théologie biblique* (Paris, Cerf, 1962)
+- **Edición original**: *Vocabulaire de théologie biblique* (París, Cerf, 1962)
 - **Edición española**: Herder, 2001 (ISBN 9788425408090)
 - **Estructura**: ~290 artículos, de «Abraham» a «Voluntad de Dios»
 

@@ -4,7 +4,7 @@ title: "81. El celibato, don de Dios"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 126
 timestamp: 2026-08-01
-description: "Catequesis 81: la continencia «por el reino de los cielos» como renuncia que es a la vez afirmación del significado nupcial del cuerpo, don de Dios y no negación del valor del matrimonio — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 81: la continencia «por el reino de los cielos» como renuncia que es a la vez afirmación del significado nupcial del cuerpo, don de Dios y no negación del valor del matrimonio — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

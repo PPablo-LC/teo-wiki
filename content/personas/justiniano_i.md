@@ -23,6 +23,9 @@ También condenó el origenismo (D-223, D-232) y promulgó leyes contra herejes,
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+I-II, q.95: Santo Tomás comenta la codificación justinianea y la relación entre ley divina y ley humana.
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 D-216–228 (II Concilio de Constantinopla, 553): Cánones contra los Tres Capítulos, impulsados por Justiniano.
@@ -31,9 +34,6 @@ D-223 (Can. 11): Anatema contra Orígenes y otros herejes.
 
 D-232 (Juan III, 561): Condena de proposiciones gnósticas (influencia de la política justinianea contra el origenismo).
 
-### Según la Summa Theologiae (SmTh)
-
-I-II, q.95: Santo Tomás comenta la codificación justinianea y la relación entre ley divina y ley humana.
 
 ## Relaciones doctrinales
 

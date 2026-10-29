@@ -22,6 +22,9 @@ La teología moral se distingue de las ciencias especulativas porque su objeto n
 
 ## Perspectivas por fuente
 
+### Santo Tomás de Aquino
+
+- **Summa Theologiae, I-II, prooemium**: La teología moral es ciencia práctica porque ordena la acción humana.
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la teología moral como:
@@ -31,9 +34,6 @@ El autor presenta la teología moral como:
 - Se distingue de la ética filosófica por su fundamento en la revelación.
 - Requiere una metodología que combine fe y razón.
 
-### Santo Tomás de Aquino
-
-- **Summa Theologiae, I-II, prooemium**: La teología moral es ciencia práctica porque ordena la acción humana.
 
 ## Distinciones importantes
 

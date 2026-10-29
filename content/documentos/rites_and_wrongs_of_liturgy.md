@@ -18,7 +18,7 @@ description: "Ensayo litúrgico que aplica los diez principios del buen diseño 
 - **Autor**: Thomas O'Loughlin (1953–)
 - **Código**: Rites_wrongs-Liturgia
 - **Editorial**: Veritas Publications, Dublín
-- **Año**: 2017 (Ascension Day)
+- **Año**: 2017 (Ascensión Day)
 - **ISBN**: 978-1-84730-915-1
 - **Estructura**: Prefacio + 12 capítulos (Introducción, Modos de evaluación, 10 principios, Conclusión) + Bibliografía
 
@@ -31,7 +31,7 @@ investigación se centra en la teología de los sacramentos, los orígenes de
 la liturgia cristiana, las comidas eucarísticas en el judaísmo del Segundo
 Templo, y la liturgia como práctica de la Iglesia. Entre sus obras destacan
 *The Didache: A Window on the Earliest Christians* (Baker Academic, 2010),
-*Washing Feet: Imitating the Example of Jesus in the Liturgy Today*
+*Washing Feet: Imitating the Example of Jesús in the Liturgy Today*
 (Liturgical Press, 2015) y *The Eucharist: Origins and Contemporary
 Understandings* (Bloomsbury T&T Clark, 2015).
 
@@ -121,10 +121,10 @@ comunitario.
   liturgia.
 - **C. S. Lewis** — *The Four Loves* (1960), categorías de «gift love» y
   «need love».
-- **Victor Turner** — *The Ritual Process* (1969), concepto de *communitas*.
+- **Víctor Turner** — *The Ritual Process* (1969), concepto de *communitas*.
 - **Paul Connerton** — *How Societies Remember* (1989), memoria ritual.
 - **Rudolf Otto** — *The Idea of the Holy* (1917), lo numinoso.
-- **Karl Marx** — *On Religion* (1847/1957), crítica de la religión como
+- **Karl Marx** — *On Religión* (1847/1957), crítica de la religión como
   opio.
 - **Karl Barth**, **Henri de Lubac**, **Yves Congar**, **Joseph Ratzinger**
   (referidos a lo largo de la obra).
@@ -173,7 +173,7 @@ ecuménico. Su obra está marcada por:
 ## Referencias
 
 - Rites_wrongs-Liturgia (2017), prefacio y caps. 1–12.
-- O'Loughlin, T., *Washing Feet: Imitating the Example of Jesus in the
+- O'Loughlin, T., *Washing Feet: Imitating the Example of Jesús in the
   Liturgy Today*, Liturgical Press, Collegeville, 2015.
 - O'Loughlin, T., *The Eucharist: Origins and Contemporary Understandings*,
   Bloomsbury T&T Clark, Londres, 2015.

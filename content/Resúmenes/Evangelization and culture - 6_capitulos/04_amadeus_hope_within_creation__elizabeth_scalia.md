@@ -19,7 +19,7 @@ tags: ["resumen", "evangelization_and_culture", "arte", "esperanza"]
 
 ### La escena del Dies Irae
 
-En la película *Amadeus*, el enfermo Mozart dicta su Requiem a Salieri. «¿Crees en ello?» — «¿Un fuego que nunca se apaga, ardiendo para siempre?» — «Oh, sí», responde Salieri instantáneamente. Mozart: «Posible». Salieri acepta fácilmente el infierno eterno porque «ya ha ardido en él, toda su vida».
+En la película *Amadeus*, el enfermo Mozart dicta su Réquiem a Salieri. «¿Crees en ello?» — «¿Un fuego que nunca se apaga, ardiendo para siempre?» — «Oh, sí», responde Salieri instantáneamente. Mozart: «Posible». Salieri acepta fácilmente el infierno eterno porque «ya ha ardido en él, toda su vida».
 
 ### La envidia de Salieri
 
@@ -31,6 +31,6 @@ Mozart «parece perpetuamente inquieto, incapaz de descansar, a menos que esté 
 
 ### La lección para los evangelistas
 
-«Cualquier buen sabe que lo satisfactorio que es ver a un estudiante cuyos dones detectaron y fomentaron ser reconocidos por otros. Gran deleite se puede encontrar en ayudar a acelerar la gloria de Dios desde la banda lateral». El Requiem de Mozart «nos eleva corazones, mentes y sobre todo espíritus a un reino de humildad impregnado de expectativa flotante, gracias a una continua cooperación con la creación».
+«Cualquier buen sabe que lo satisfactorio que es ver a un estudiante cuyos dones detectaron y fomentaron ser reconocidos por otros. Gran deleite se puede encontrar en ayudar a acelerar la gloria de Dios desde la banda lateral». El Réquiem de Mozart «nos eleva corazones, mentes y sobre todo espíritus a un reino de humildad impregnado de expectativa flotante, gracias a una continua cooperación con la creación».
 
 > «Promover los dones de otros es asistir a la creación misma, parte y porción de participar en el gran "Hágase"».

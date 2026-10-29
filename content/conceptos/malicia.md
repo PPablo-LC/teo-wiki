@@ -23,6 +23,9 @@ Se distingue de la malicia como vicio capital (hábito malo), que es la inclinac
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La malicia se menciona como uno de los factores que agravan el pecado: la imputabilidad puede aumentar cuando se peca con pleno conocimiento y deliberado consentimiento (CEC §1859-1860). La elección deliberada del mal es la esencia del pecado mortal.
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.78 — La malicia como causa del pecado:**
@@ -35,9 +38,6 @@ Se distingue de la malicia como vicio capital (hábito malo), que es la inclinac
 
 **a.4 — El pecado por malicia es más grave que el por pasión:** Por tres razones: 1) el movimiento pecaminoso es más propio de la voluntad cuando se mueve por sí misma que cuando es impulsada desde fuera por la pasión; 2) la pasión pasa pronto, mientras que el hábito (o la disposición) permanece; 3) el que peca por malicia está mal dispuesto respecto del fin mismo, principio en las cosas prácticas. El pecador por malicia se compara al enfermo crónico; el que peca por pasión, al enfermo ocasional.
 
-### Según el Catecismo (CEC)
-
-La malicia se menciona como uno de los factores que agravan el pecado: la imputabilidad puede aumentar cuando se peca con pleno conocimiento y deliberado consentimiento (CEC §1859-1860). La elección deliberada del mal es la esencia del pecado mortal.
 
 ## Distinciones importantes
 

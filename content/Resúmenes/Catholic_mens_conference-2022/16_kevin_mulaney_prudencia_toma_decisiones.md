@@ -36,7 +36,7 @@ El modelo racional tradicional (p. ej., comprar un coche) contrasta con la toma 
 3. **Reflexión y análisis**
 
 ## Conciencia situacional: el contexto más amplio
-La visión cristiana del mundo: criaturas en un universo creado por un Dios amoroso. Vivir "como si Dios existiera" (analogía con la gravedad) — la creencia debe manifestarse en la vida. Kevin Mulaney recurre al enfoque de "creencia manifiesta" de Jordan Peterson y la distinción de San Pablo entre carne y espíritu (autosuficiencia frente a confianza en Dios).
+La visión cristiana del mundo: criaturas en un universo creado por un Dios amoroso. Vivir "como si Dios existiera" (analogía con la gravedad) — la creencia debe manifestarse en la vida. Kevin Mulaney recurre al enfoque de "creencia manifiesta" de Jordán Peterson y la distinción de San Pablo entre carne y espíritu (autosuficiencia frente a confianza en Dios).
 
 ## Moisés y los Diez Mandamientos
 La [[ley_mosaica]] como prudencia divina que se encuentra con un mundo caído, el desafío de la sabiduría práctica.

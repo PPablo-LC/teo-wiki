@@ -1,6 +1,6 @@
 ---
 type: "Documento"
-title: "The Case for Jesus — Bible study (Augustine Institute)"
+title: "The Case for Jesús — Bible study (Augustine Institute)"
 description: "Bible study de apologética bíblica del Dr. Grant Petrie sobre la fiabilidad histórica de los Evangelios (3 sesiones)."
 timestamp: "2026-07-24"
 tags:
@@ -15,7 +15,7 @@ tags:
 
 ## Definición
 
-*The Case for Jesus: The Biblical and Historical Evidence for Christ* es un Bible study tipo Lectio del Augustine Institute (Denver, Colorado), presentado por el Dr. Grant Petrie, research professor of Sacred Scripture. La obra consta de 3 sesiones de video que abordan la fiabilidad histórica de los Evangelios desde una perspectiva apologética católica, examinando la evidencia interna y externa de su autoría y el género literario de los textos evangélicos.
+*The Case for Jesús: The Biblical and Historical Evidence for Christ* es un Bible study tipo Lectio del Augustine Institute (Denver, Colorado), presentado por el Dr. Grant Petrie, research professor of Sacred Scripture. La obra consta de 3 sesiones de video que abordan la fiabilidad histórica de los Evangelios desde una perspectiva apologética católica, examinando la evidencia interna y externa de su autoría y el género literario de los textos evangélicos.
 
 ## Desarrollo doctrinal
 
@@ -29,7 +29,7 @@ El Bible study se estructura en tres sesiones que avanzan desde la evidencia int
 
 ## Perspectivas por fuente
 
-### Dr. Grant Petrie (The Case for Jesus)
+### Dr. Grant Petrie (The Case for Jesús)
 
 El Dr. Petrie presenta un caso histórico-académico para la autoría apostólica de los Evangelios, utilizando evidencia manuscrita, testimonio de los Padres de la Iglesia y análisis del género literario. Su enfoque es apologético pero riguroso, citando fuentes académicas (incluidas las escépticas como Bart Ehrman) para establecer la fiabilidad de los Evangelios como testimonios de testigos oculares o sus compañeros.
 
@@ -66,5 +66,5 @@ El Dr. Petrie presenta un caso histórico-académico para la autoría apostólic
 
 ## Referencias
 
-- Fuente primaria: *The Case for Jesus: The Biblical and Historical Evidence for Christ* — Dr. Grant Petrie, Augustine Institute (Bible study / Lectio, 3 sesiones).
+- Fuente primaria: *The Case for Jesús: The Biblical and Historical Evidence for Christ* — Dr. Grant Petrie, Augustine Institute (Bible study / Lectio, 3 sesiones).
 - Código: **CfJ** — `raw/Bases_doctrinales-raw/Case_for_Jesus/`

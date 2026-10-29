@@ -46,7 +46,7 @@ Anscombe fue una defensora firme y coherente de la enseñanza católica sobre la
 
 ## Debate con C.S. Lewis
 
-Una de las intervenciones más conocidas de Anscombe fue su debate con C.S. Lewis en la Sociedad Socrática de Oxford (1948), recogido en su ensayo «Mr. C.S. Lewis on Being Morally Obliged» (publicado en *The Cardinal's Reasons* y luego en *Ethics, Religion and Politics*). En este debate, Anscombe destruyó uno de los argumentos principales de Lewis para el teísmo: el argumento de la «Ley Natural» (*Argument from Reason*), que Lewis había presentado en *Mere Christianity*.
+Una de las intervenciones más conocidas de Anscombe fue su debate con C.S. Lewis en la Sociedad Socrática de Oxford (1948), recogido en su ensayo «Mr. C.S. Lewis on Being Morally Obliged» (publicado en *The Cardinal's Reasons* y luego en *Ethics, Religión and Politics*). En este debate, Anscombe destruyó uno de los argumentos principales de Lewis para el teísmo: el argumento de la «Ley Natural» (*Argument from Reason*), que Lewis había presentado en *Mere Christianity*.
 
 El argumento de Lewis sostenía que si el universo fuera solo materia y azar, no tendríamos razones para confiar en nuestras facultades racionales, y por lo tanto no podríamos llegar a conclusiones racionales sobre nada, incluyendo el ateísmo. Anscombe objetó que el argumento confundía la causalidad efficiente con la causalidad final, y que la lógica de las proposiciones no depende de su origen material. Lewis reconoció la fuerza de la objeción y revisó posteriormente su argumento en ediciones posteriores de *Mere Christianity*.
 
@@ -58,7 +58,7 @@ Fue arrestada en 1956 durante una protesta en la embajada británica contra el b
 
 ## Reconocimientos
 
-En 1999, el Papa Juan Pablo II le concedió la medalla papal *Pro Ecclesia et Pontifice* en reconocimiento a sus contribuciones a la filosofía y a la defensa de la fe católica. Murió el 5 de enero de 2001 en Cambridge.
+En 1999, el Papa Juan Pablo II le concedió la medalla papal *Pro Ecclesia et Pontífice* en reconocimiento a sus contribuciones a la filosofía y a la defensa de la fe católica. Murió el 5 de enero de 2001 en Cambridge.
 
 ## Perspectivas por fuente
 
@@ -91,5 +91,5 @@ La obra de Anscombe conecta con múltiples temas de la teología y la filosofía
 - WoF-4, análisis de la distinción intención/previsión como clave de la ética católica.
 - Anscombe, G.E.M., *Intention* (1957).
 - Anscombe, G.E.M., «Modern Moral Philosophy» (1957).
-- Anscombe, G.E.M., *Ethics, Religion and Politics* (1978).
+- Anscombe, G.E.M., *Ethics, Religión and Politics* (1978).
 - Simpson, Luke Timothy, *A Wittgensteinian Way with Paradoxes* (2012).

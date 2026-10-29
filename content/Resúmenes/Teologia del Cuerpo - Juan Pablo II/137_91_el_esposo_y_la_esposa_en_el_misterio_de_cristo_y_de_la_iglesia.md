@@ -4,7 +4,7 @@ title: "91. El esposo y la esposa en el misterio de Cristo y de la Iglesia"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 137
 timestamp: 2026-08-01
-description: "Catequesis 91: la analogía suplementaria Cabeza-Cuerpo, la bi-subjetividad de los esposos, el bautismo como «lavado del agua con la palabra» y la perspectiva escatológica de la Iglesia-Esposa — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 91: la analogía suplementaria Cabeza-Cuerpo, la bi-subjetividad de los esposos, el bautismo como «lavado del agua con la palabra» y la perspectiva escatológica de la Iglesia-Esposa — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

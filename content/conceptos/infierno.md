@@ -27,19 +27,10 @@ La pena principal del infierno es la "pena de daño": la separación eterna de D
 
 El CEC dedica un artículo al infierno (§1033-1037). Afirma la existencia y eternidad del infierno (§1035). Las afirmaciones sobre el infierno son un llamamiento apremiante a la conversión (§1036). La pena principal consiste en la separación eterna de Dios (§1035, §1057). Cristo descendió a los infiernos para liberar a los justos que le habían precedido, no para destruir el infierno de la condenación (§631-637).
 
-### Según el Enchiridion Symbolorum (Denzinger)
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
-El **I Concilio de Lyon** (1245, D-457) definió que quien muere en pecado mortal sin penitencia «es perpetuamente atormentado por los ardores del infierno eterno». El mismo decreto distingue entre la suerte de los condenados (infierno eterno) y la de los que mueren en caridad sin deuda de pena (visión beatífica inmediata).
+[VocTeoBib, «Infierno»] El AT distingue entre el *seol*, morada común de todos los muertos, y el infierno de los pecadores, asociado al fuego de Sodoma y la Gehena (Is 66,24). Jesús utiliza estas imágenes violentas (llanto, crujir de dientes, fuego inextinguible) para afirmar la realidad de la condenación eterna (Mt 5,22; Mc 9,43-48). Cristo descendió a los infiernos para liberar a los justos que le precedieron, forzando las puertas infernales y triunfando sobre la muerte (1Pe 3,19; Ef 4,9-10). La Iglesia es fruto e instrumento de esta victoria (Mt 16,18).
 
-**Juan XXII** (1322, D-493a): «Creemos firmemente... que [las almas de todos los que mueren en el pecado mortal actual] bajan al infierno y son atormentadas allí con penas infernales, aunque no obstante en el día del juicio todos los hombres comparecerán con sus cuerpos ante el tribunal de Cristo».
-
-**Benedicto XII** (1336), Constitución *Benedictus Deus*: «Definimos además que, según la común ordenación de Dios, las almas de los que salen del mundo con pecado mortal actual, inmediatamente después de su muerte bajan al infierno donde son atormentados con penas infernales» (D-531).
-
-**Clemente VI** (1351), Carta *Super quibusdam* a Consolador: preguntó si se cree que «todos los que se han levantado contra la fe de la Iglesia Romana y han muerto en su impenitencia final, se han condenado y bajado a los eternos suplicios del infierno» (D-570l).
-
-### Según Royo Marín (TPCr)
-
-Royo Marín trata el infierno en el contexto de la lucha contra el pecado. Un solo pecado mortal merece el infierno eterno, demostrando así la gravedad infinita del pecado (TPCr, Tercera Parte, Libro I, Cap. I). La consideración del infierno y sus penas es un motivo útil para la lucha ascética y la perseverancia. Los santos, sin embargo, aman a Dios con un amor tan puro que incluso preferirían estar en el infierno si allí pudieran amarle más (TPCr, Tercera Parte, Libro II, Cap. II).
 ### Según la Summa Theologiae (SmTh)
 
 El infierno de los condenados se distingue del limbo de los padres en cuanto a la cualidad (pena sensible y eterna vs. detención temporal); en cuanto al lugar, pueden ser el mismo sitio o continuo [SmTh, Suppl. q.69 a.5]. El infierno es el estado de recibir la retribución final respecto del mal por el pecado actual [SmTh, Suppl. q.69 a.7]. Los sufragios NO aprovechan a los condenados (los que están en el infierno) porque están separados del vínculo de la caridad, han recibido su premio final y su pena no puede ser cambiada [SmTh, Suppl. q.71 a.5]. El fuego de la conflagración final envolverá a los malvados —lo que es grosero y ardiente descenderá al infierno para su castigo [SmTh, Suppl. q.74 a.9].
@@ -52,13 +43,22 @@ Los cuerpos de los condenados resucitarán (q.86 a.1) sin las deformidades que t
 
 **Justicia y misericordia divina ante los condenados (q.99):** La pena del infierno es eterna por justicia divina (q.99 a.1). Aunque el pecado es temporal en el acto, es eterno en la voluntad del pecador, que puso su fin en la criatura. La duración de la pena se mide por la exclusión perpetua de la ciudad de Dios, no por la duración del acto. La misericordia divina no libera a los condenados obstinados (q.99 a.2-3): alcanza a los arrepentidos en esta vida, pero al que muere sin caridad no hay redención posible. Ni la fe, ni los sacramentos, ni las obras de misericordia aprovechan al que carece de caridad (q.99 a.4-5).
 
+### Según Royo Marín (TPCr)
+
+Royo Marín trata el infierno en el contexto de la lucha contra el pecado. Un solo pecado mortal merece el infierno eterno, demostrando así la gravedad infinita del pecado (TPCr, Tercera Parte, Libro I, Cap. I). La consideración del infierno y sus penas es un motivo útil para la lucha ascética y la perseverancia. Los santos, sin embargo, aman a Dios con un amor tan puro que incluso preferirían estar en el infierno si allí pudieran amarle más (TPCr, Tercera Parte, Libro II, Cap. II).
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **I Concilio de Lyon** (1245, D-457) definió que quien muere en pecado mortal sin penitencia «es perpetuamente atormentado por los ardores del infierno eterno». El mismo decreto distingue entre la suerte de los condenados (infierno eterno) y la de los que mueren en caridad sin deuda de pena (visión beatífica inmediata).
+
+**Juan XXII** (1322, D-493a): «Creemos firmemente... que [las almas de todos los que mueren en el pecado mortal actual] bajan al infierno y son atormentadas allí con penas infernales, aunque no obstante en el día del juicio todos los hombres comparecerán con sus cuerpos ante el tribunal de Cristo».
+
+**Benedicto XII** (1336), Constitución *Benedictus Deus*: «Definimos además que, según la común ordenación de Dios, las almas de los que salen del mundo con pecado mortal actual, inmediatamente después de su muerte bajan al infierno donde son atormentados con penas infernales» (D-531).
+
+**Clemente VI** (1351), Carta *Super quibusdam* a Consolador: preguntó si se cree que «todos los que se han levantado contra la fe de la Iglesia Romana y han muerto en su impenitencia final, se han condenado y bajado a los eternos suplicios del infierno» (D-570l).
+
 ### Según Para Salvarte (PS)
 
 Loring enseña que el infierno «es el conjunto de todos los males sin mezcla de bien alguno» [PS §99]. Su existencia es dogma de fe, definido en el Concilio IV de Letrán. Cristo habla quince veces del infierno en el Evangelio y catorce veces menciona el fuego. La pena principal es la «pena de daño» —la privación eterna de Dios— que San Juan Crisóstomo considera mil veces peor que el fuego [PS §99,1]. El infierno no es un castigo arbitrario de Dios, sino la consecuencia de la libertad humana que rechaza a Dios: «El infierno es el respeto de Dios por tu última voluntad» [PS §99,3]. Dios no predestina a nadie al infierno, pero el hombre puede libremente elegirlo. El infierno es eterno porque la muerte fija irrevocablemente el estado del alma, y sin arrepentimiento no es posible la reparación [PS §99,1-99,2].
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Infierno»] El AT distingue entre el *seol*, morada común de todos los muertos, y el infierno de los pecadores, asociado al fuego de Sodoma y la Gehena (Is 66,24). Jesús utiliza estas imágenes violentas (llanto, crujir de dientes, fuego inextinguible) para afirmar la realidad de la condenación eterna (Mt 5,22; Mc 9,43-48). Cristo descendió a los infiernos para liberar a los justos que le precedieron, forzando las puertas infernales y triunfando sobre la muerte (1Pe 3,19; Ef 4,9-10). La Iglesia es fruto e instrumento de esta victoria (Mt 16,18).
 
 ### Evangelization & Culture 11 (EAC-11)
 

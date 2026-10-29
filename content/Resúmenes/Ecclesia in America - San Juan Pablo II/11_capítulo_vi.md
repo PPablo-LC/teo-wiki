@@ -4,7 +4,7 @@ title: "CAPÍTULO VI (índice)"
 fuente: Ecclesia in America - San Juan Pablo II
 capítulo: 11
 timestamp: 2026-08-24
-description: "Resumen del índice analítico del capítulo VI y de la conclusión — Ecclesia in America"
+description: "Resumen del índice analítico del capítulo VI y de la conclusión — Ecclesia in América"
 tags: ["resumen", "ecclesia in america - san juan pablo ii"]
 ---
 

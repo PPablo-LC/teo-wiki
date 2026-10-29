@@ -1,7 +1,7 @@
 ---
 type: Documento
 title: "Evangelization & Culture, Issue 21 — Democracy (Fall 2024)"
-description: "Number 21 of the Word on Fire Institute journal, dedicated to democracy. Contains 25 files on the pre-democratic values that sustain democracy, the Declaration of Independence and inalienable rights, St. Thomas More patron of statesmen, Tocqueville on religion and freedom, Mr. Smith Goes to Washington, Plato's Republic, Athenian democracy, Solzhenitsyn at Harvard, Augustine's City of God, Chesterton's Everlasting Man, and the Christian origins of American politics."
+description: "Number 21 of the Word on Fire Institute journal, dedicated to democracy. Contains 25 files on the pre-democratic values that sustain democracy, the Declaration of Independence and inalienable rights, St. Thomas More patrón of statesmen, Tocqueville on religión and freedom, Mr. Smith Goes to Washington, Plato's Republic, Athenian democracy, Solzhenitsyn at Harvard, Augustine's City of God, Chesterton's Everlasting Man, and the Christian origins of American politics."
 tags:
   - evangelizacion_cultura
   - democracia
@@ -30,7 +30,7 @@ El número se abre con el ensayo de Barron sobre la Declaración de Independenci
 
 1. **Los derechos inalienables y la igualdad**: la Declaración de Independencia de Jefferson —«todos los hombres son creados iguales»—; los derechos inalienables (vida, libertad, búsqueda de la felicidad) conferidos por el Creador; la ruptura con la filosofía política clásica (Platón, Aristóteles, Cicerón) que veía la democracia con escepticismo (Barron; Arnn).
 2. **Los valores predemocráticos**: la democracia presupone valores (dignidad humana, libertad, igualdad, verdad) que ella misma no puede producir; el gobierno de la mayoría no es idéntico a la justicia; la democracia necesita un fundamento moral y religioso que la limite y sostenga (Petrusek; Hoopes).
-3. **La religión y la libertad**: Tocqueville y «Democracy in America» —el «espíritu de religión» y el «espíritu de libertad» cooperan—; la religión como fundamento moral de la democracia; el debate sobre el Christian Nationalism (Krause; Cooper; Barron).
+3. **La religión y la libertad**: Tocqueville y «Democracy in América» —el «espíritu de religión» y el «espíritu de libertad» cooperan—; la religión como fundamento moral de la democracia; el debate sobre el Christian Nationalism (Krause; Cooper; Barron).
 4. **La degradación en totalitarismo**: la República de Weimar y el Holocausto; cómo una democracia puede autodestruirse cuando pierde sus fundamentos morales; la ciudadanía que calla ante la injusticia; la vigilancia de la libertad (Worner).
 5. **La integridad del cristiano en política**: Santo Tomás Moro, modelo de lealtad a la conciencia frente al poder; patrono de estadistas y políticos declarado por Juan Pablo II (2000); el idealismo cívico frente a la corrupción (Mr. Smith) (Lives; Paolelli).
 6. **La justicia y la verdad**: la República de Platón y la naturaleza de la justicia; la crítica a la democracia; la ética de la democracia —no es autosuficiente; requiere virtud— (Kaczor; Hoopes).
@@ -106,7 +106,7 @@ Los resúmenes estructurados del número están en `wiki/Resúmenes/Evangelizati
 | 04 | [[04_midnight_oil__musings_since_we_last_met]] | Worner: Gerda Weissmann Klein y el Holocausto; la democracia como sistema de tensiones; la virtud ciudadana |
 | 05 | [[05_lives_st_thomas_more_the_model_of_integrity_and_allegiance__angela_jendro]] | Jendro: Santo Tomás Moro, modelo de integridad y lealtad entre fe y Estado |
 | 06 | [[06_poetry_at_the_tomb_of_napoleon__alan_seeger]] | Seeger: la vanidad del poder ante la tumba de Napoleón; la promesa democrática americana |
-| 07 | [[07_stacks_the_spirit_of_religion_and_the_spirit_of_liberty_remembering_tocquevilles]] | Krause: Tocqueville y Democracy in America; el espíritu de religión y el espíritu de libertad |
+| 07 | [[07_stacks_the_spirit_of_religion_and_the_spirit_of_liberty_remembering_tocquevilles]] | Krause: Tocqueville y Democracy in América; el espíritu de religión y el espíritu de libertad |
 | 08 | [[08_film_lessons_in_faith_and_democracy_from_mr_smith_goes_to_washington__matt_paole]] | Paolelli: Mr. Smith Goes to Washington; fe, democracia y resistencia a la corrupción |
 | 09 | [[09_spotlight_what_is_democracy_a_conversation_with_bishop_robert_barron]] | Barron: qué es la democracia; gobierno limitado; estructura mixta; el peligro totalitario |
 | 10 | [[10_minds_lessons_for_today_from_platos_republic__dr_christopher_kaczor]] | Kaczor: La República de Platón; contra el utopismo; la subsidiariedad; la naturaleza de la justicia |
@@ -131,4 +131,4 @@ Los resúmenes estructurados del número están en `wiki/Resúmenes/Evangelizati
 - **Código**: EAC-21
 - **Archivos raw**: 25 archivos en `raw/Bases_doctrinales-raw/Evangelization and culture - 21/`
 - **Índice de conceptos**: `raw/Bases_doctrinales-raw/Evangelization and culture - 21/índice.md`
-- **Autores principales**: Bishop Robert Barron, Matthew R. Petrusek, Tod Worner, Zelda Caldwell, Alan Seeger, Paul Krause, Matthew Paolelli, Christopher Kaczor, Tom Hoopes, James M. Cooper, Larry P. Arnn, Sarah Bakewell, Gary Saul Morson, Michael Hanby, G.K. Chesterton, Angela Alaimo O'Donnell, Manny Marquez, Fr. Leonard Andrie, Brenden Thompson.
+- **Autores principales**: Bishop Robert Barron, Matthew R. Petrusek, Tod Worner, Zelda Caldwell, Alan Seeger, Paul Krause, Matthew Paolelli, Christopher Kaczor, Tom Hoopes, James M. Cooper, Larry P. Arnn, Sarah Bakewell, Gary Saul Morson, Michael Hanby, G.K. Chesterton, Ángela Alaimo O'Donnell, Manny Marquez, Fr. Leonard Andrie, Brenden Thompson.

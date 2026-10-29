@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Poetry: Immigrants — Angela Alaimo O'Donnell"
+title: "Poetry: Immigrants — Ángela Alaimo O'Donnell"
 fuente: Evangelization and culture - 21
 capítulo: 20
 timestamp: 2026-09-09
-description: "Resumen de 'Poetry: Immigrants — Angela Alaimo O'Donnell' — Evangelization and culture - 21"
+description: "Resumen de 'Poetry: Immigrants — Ángela Alaimo O'Donnell' — Evangelization and culture - 21"
 tags: ["resumen", "evangelization and culture - 21"]
 ---
 
-# Poetry: Immigrants — Angela Alaimo O'Donnell
+# Poetry: Immigrants — Ángela Alaimo O'Donnell
 
 ## Conceptos básicos referenciados
 
@@ -17,7 +17,7 @@ tags: ["resumen", "evangelization and culture - 21"]
 
 ## Contenido
 
-Poema de Angela Alaimo O'Donnell incluido en la sección de poesía del número 21 de *Evangelization & Culture*, inspirado en la «Estrella de los Inmigrantes» (*The New Colossus*) de Emma Lazarus, célebre inscripción en el interior de la Estatua de la Libertad en el puerto de Nueva York.
+Poema de Ángela Alaimo O'Donnell incluido en la sección de poesía del número 21 de *Evangelization & Culture*, inspirado en la «Estrella de los Inmigrantes» (*The New Colossus*) de Emma Lazarus, célebre inscripción en el interior de la Estatua de la Libertad en el puerto de Nueva York.
 
 ### Contexto
 

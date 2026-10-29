@@ -41,13 +41,13 @@ tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "mistica"]
 - [[ángeles]]
 - [[imaginación]]
 
-## CAPITULO 1 — Las causas de los fenómenos extraordinarios
+## CAPÍTULO 1 — Las causas de los fenómenos extraordinarios
 
 Introducción al estudio de los fenómenos místicos. La ciencia requiere el conocimiento por causas. Todo fenómeno místico puede atribuirse a una de tres causas: **sobrenatural** (Dios), **preternatural** (demonio) o **natural** (imaginación, patología, fuerzas humanas). Como prenotando, se examinan las nociones de natural, sobrenatural y preternatural.
 
 **Nociones previas.** La naturaleza puede entenderse en sentido individual (esencia), colectivo (universo) o dinámico (principio de operaciones). Lo natural es lo que conviene a un ser según su naturaleza, pudiendo darse de seis modos: constitutivo, emanativo, operativo, pasivo, exigitive y meritorie. Lo sobrenatural es lo que excede toda naturaleza creada. Lo contranatural (violento) es distinto de lo sobrenatural (que no violenta sino perfecciona). División: sobrenatural absoluto (simpliciter: excede toda naturaleza creada) y relativo (secundum quid: excede solo alguna naturaleza, llamado propiamente preternatural). A su vez, el sobrenatural absoluto se subdivide en *quoad substantiam* (intrínsecamente sobrenatural: misterios, gracia, gloria) y *quoad modum* (entitativamente natural pero producido sobrenaturalmente: milagros). Lo preternatural es el sobrenatural relativo: excede las fuerzas de alguna naturaleza creada (p.ej., la humana) pero no de toda naturaleza creada (p.ej., angélica). Es propio de ángeles y demonios.
 
-### ARTICULO 1 — Dios como autor de los fenómenos místicos
+### ARTÍCULO 1 — Dios como autor de los fenómenos místicos
 
 La única fuente de los fenómenos místicos verdaderos es Dios. Tiene libre acceso a los tres campos de manifestación: intelectual, afectivo y orgánico. La causa inmediata de la mayoría de estos fenómenos son las **gracias gratis dadas**.
 
@@ -59,7 +59,7 @@ Naturaleza: dones sobrenaturales que no se ordenan primo et per se a la santific
 
 **Exposición de cada una:** Fe (certeza sobreeminente que hace apto para instruir); Palabra de sabiduría (comunicar el conocimiento sabroso de las cosas divinas); Palabra de ciencia (exponer las verdades divinas por razonamientos y ejemplos); Don de curaciones (curar enfermedades milagrosamente); Don de milagros (derogar las leyes físicas); Profecía (conocimiento sobrenatural y manifestación de verdades ocultas, sobre todo futuros contingentes — Santo Tomás: II-II, 171-174); Discreción de espíritus (distinguir espíritus, profetas verdaderos de falsos); Don de lenguas (hablar idiomas extranjeros sin haberlos aprendido); Interpretación de lenguas (explicar lo dicho en lenguas extrañas).
 
-### ARTICULO 2 — Las Causas Puramente Naturales
+### ARTÍCULO 2 — Las Causas Puramente Naturales
 
 Dificultad del discernimiento: lo sobrenatural empieza donde lo natural acaba, pero conocemos imperfectamente los límites de la naturaleza. Cuatro fuentes principales de fenómenos pseudomísticos naturales:
 
@@ -71,7 +71,7 @@ Dificultad del discernimiento: lo sobrenatural empieza donde lo natural acaba, p
 
 4ª **Las enfermedades**: los racionalistas pretenden explicar todos los fenómenos místicos por patología (histeria, neurosis, cataleptia). Sin embargo, ni la psiquiatría puede explicar a los grandes santos. Es necesario evitar dos extremos: convertir todo lo extraordinario en sobrenatural, o negar siempre lo sobrenatural.
 
-### ARTICULO 3 — Lo Diabólico
+### ARTÍCULO 3 — Lo Diabólico
 
 Doctrina teológica: los demonios existen, fueron creados buenos y se hicieron malos por su propia culpa; ejercen maligno influjo sobre los hombres con permisión divina; la voluntad humana permanece siempre libre (solo Dios puede moverla intrínsecamente). Los demonios pueden inmutar la imaginación y los sentidos internos/externos mediante movimiento local. No pueden hacer verdaderos milagros (exceden toda naturaleza creada), pero pueden hacer cosas prodigiosas que superan las fuerzas humanas.
 
@@ -79,7 +79,7 @@ Doctrina teológica: los demonios existen, fueron creados buenos y se hicieron m
 
 **Lo que el demonio PUEDE hacer** (permisión divina): producir visiones/locuciones corporales o imaginarias (no intelectuales), falsificar el éxtasis, producir resplandores y ardores, ternuras sensibles, curar enfermedades producidas por él, producir estigmatización y fenómenos corporales, simular levitación, substraer cuerpos a la vista, producir incombustión. Todo ello es preternatural (sobrenatural relativo), no milagro verdadero.
 
-## CAPITULO II — Los fenómenos en particular
+## CAPÍTULO II — Los fenómenos en particular
 
 Clasificación por el aspecto predominante: cognoscitivo, afectivo u orgánico. Para cada fenómeno se expondrá: el hecho, sus causas y sus falsificaciones naturales y preternaturales.
 

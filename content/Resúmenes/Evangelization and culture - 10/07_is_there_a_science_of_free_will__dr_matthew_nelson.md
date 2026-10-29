@@ -20,7 +20,7 @@ tags: ["resumen", "evangelization and culture - 10"]
 
 Epígrafe de Dostoevski (*Los hermanos Karamazov*): «sin el libre albedrío no hay moral». Nelson examina el desafío determinista contemporáneo.
 
-**El ataque:** Sam Harris (*Free Will*) sostiene que la neurociencia demuestra que el libre albedrío es ilusión; los experimentos de Benjamin Libet (1983) parecen mostrar que el cerebro «decide» antes de que el sujeto sea consciente de decidir.
+**El ataque:** Sam Harris (*Free Will*) sostiene que la neurociencia demuestra que el libre albedrío es ilusión; los experimentos de Benjamín Libet (1983) parecen mostrar que el cerebro «decide» antes de que el sujeto sea consciente de decidir.
 
 **La respuesta:** Nelson recurre a Richard Swinburne (*The Evolution of the Soul*) y su distinción entre **explicación científica** (eventos explicados por causas previas) y **explicación personal** (agentes racionales como causas irreductibles). Los experimentos de Libet miden movimientos arbitrarios, no deliberaciones racionales; no tocan la libertad de las decisiones morales.
 

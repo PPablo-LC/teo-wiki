@@ -21,6 +21,10 @@ Santo Tomás trata el ornato exterior en la Suma Teológica (II-II, q.169) como 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC enseña que la modestia en el vestido es parte de la virtud de la castidad y la templanza. «La modestia preserva la intimidad de la persona. Designa el rechazo a mostrar lo que debe permanecer velado. Está ordenada a la castidad, cuya delicadeza proclama. Ordena las miradas y los gestos en conformidad con la dignidad de las personas» (CEC §2521-2524).
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 169 al ornato exterior como parte de la modestia.
@@ -45,10 +49,6 @@ El desorden por defecto puede ser por negligencia (no poner el cuidado necesario
 - Si lo hace por ligereza, vanidad o jactancia, puede ser pecado venial.
 - Los afeites que fingen belleza artificial implican ficción y engaño, pero no siempre son pecado mortal (solo cuando es por lascivia o desprecio de Dios).
 - Ocultar un defecto (cicatriz, enfermedad) es lícito (1 Cor 12,23: «a los que parecen más viles los rodeamos de mayor honor»).
-
-### Según el Catecismo (CEC)
-
-El CEC enseña que la modestia en el vestido es parte de la virtud de la castidad y la templanza. «La modestia preserva la intimidad de la persona. Designa el rechazo a mostrar lo que debe permanecer velado. Está ordenada a la castidad, cuya delicadeza proclama. Ordena las miradas y los gestos en conformidad con la dignidad de las personas» (CEC §2521-2524).
 
 ### Según Royo Marín (TPCr)
 

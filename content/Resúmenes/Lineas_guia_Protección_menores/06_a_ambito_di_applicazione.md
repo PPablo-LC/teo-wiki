@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "A. Ambito di applicazione"
+title: "A. Ámbito di applicazione"
 fuente: Lineas_guia_Protección_menores
 capítulo: 6
 timestamp: 2026-08-24
-description: "Resumen de 'A. Ambito di applicazione' — Lineas_guia_Protección_menores"
+description: "Resumen de 'A. Ámbito di applicazione' — Lineas_guia_Protección_menores"
 tags: ["resumen", "lineas guia protección menores"]
 ---
 
-# A. Ambito di applicazione
+# A. Ámbito di applicazione
 
 ## Conceptos básicos referenciados
 

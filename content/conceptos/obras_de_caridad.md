@@ -31,7 +31,7 @@ Las obras de caridad son el criterio del juicio final (Mt 25,31-46) y la prueba 
 ## Distinciones importantes
 
 - **Obras de caridad** ≠ **filantropía**: la caridad sirve a Cristo en el pobre; la filantropía puede quedar en el «per algo» frente al «a alguien» (la frase del ministro indio a Madre Teresa).
-- **Caridad con fe** ≠ **caridad anónima**: «Di una carità anonima o senza fede i Santi avrebbero riso» — no porque el no creyente no pueda ser generoso, sino porque la caridad verdadera va «incontro al Mistero bruciante che c'è nel cuore dell'uomo».
+- **Caridad con fe** ≠ **caridad anónima**: «Di una carità anónima o senza fede i Santi avrebbero riso» — no porque el no creyente no pueda ser generoso, sino porque la caridad verdadera va «incontro al Mistero bruciante che c'è nel cuore dell'uomo».
 - **Obras corporales** ≠ **obras espirituales**: ambas son misericordia; la instrucción y el consuelo no son menos obras de caridad que el pan.
 
 ## Relaciones doctrinales

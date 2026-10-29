@@ -21,13 +21,13 @@ La música sagrada es aquella creada para el culto divino, dotada de santidad y 
 
 «El canto y la música cumplen su función de signos de manera tanto más significativa cuanto más estrechamente están vinculadas a la acción litúrgica» (CEC §1157). La tradición musical de la Iglesia constituye un tesoro de valor inestimable que sobresale entre las demás expresiones artísticas por su finalidad cultual (§1156). El canto gregoriano «ocupa el primer lugar en las celebraciones litúrgicas» (§1160).
 
+### Según el CIC
+
+El c. 934 §1 establece que los libros litúrgicos han de emplearse según los ritos aprobados, lo que incluye los libros de música sagrada aprobados.
 ### Según el Concilio Vaticano II (Sacrosanctum Concilium)
 
 SC 112 afirma que la música sagrada es «tanto más santa cuanto más estrechamente esté vinculada a la acción litúrgica». SC 113 prescribe conservar y fomentar el patrimonio musical. SC 114-121 regulan el uso del canto gregoriano, la polifonía, el órgano y otros instrumentos, y la participación del pueblo.
 
-### Según el CIC
-
-El c. 934 §1 establece que los libros litúrgicos han de emplearse según los ritos aprobados, lo que incluye los libros de música sagrada aprobados.
 
 ## Distinciones importantes
 

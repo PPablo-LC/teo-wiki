@@ -24,11 +24,11 @@ San Agustín y otros Padres ya reflexionaron sobre esta cuestión, aunque con ma
 
 ## Perspectivas por fuente
 
+### Según el Catecismo de la Iglesia Católica
+El CEC (§§846-848) enseña que «todos los hombres son llamados a este pueblo católico», que Cristo murió por todos y que el Espíritu Santo ofrece a todos la posibilidad de asociarse al misterio pascual. Subraya la necesidad de la Iglesia para la salvación (cf. *Extra Ecclesiam nulla salus*), pero interpretando correctamente esa afirmación a la luz de *Lumen gentium* §16.
 ### Según Lumen gentium (Vaticano II)
 *LG* §16 afirma: «Aquellos, también, que sin culpa de ellos ignoran el Evangelio de Cristo y de su Iglesia, pero buscan a Dios con corazón sincero, e intentan con la ayuda de su gracia cumplir la voluntad de Dios conocida por el dictamen de su conciencia, pueden conseguir la salvación eterna». Añade que la Iglesia sabe que «quien se deja guiar por la gracia para alcanzar la justicia llega a la vida eterna, aunque no esté incorporado sacramentalmente a la Iglesia».
 
-### Según el Catecismo de la Iglesia Católica
-El CEC (§§846-848) enseña que «todos los hombres son llamados a este pueblo católico», que Cristo murió por todos y que el Espíritu Santo ofrece a todos la posibilidad de asociarse al misterio pascual. Subraya la necesidad de la Iglesia para la salvación (cf. *Extra Ecclesiam nulla salus*), pero interpretando correctamente esa afirmación a la luz de *Lumen gentium* §16.
 
 ## Distinciones importantes
 

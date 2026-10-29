@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "LA EUCARISTIA"
+title: "LA EUCARISTÍA"
 fuente: Formación religiosa de jóvenes -- Tihamer Toth
 capítulo: 39
 timestamp: 2026-08-16
@@ -8,7 +8,7 @@ description: "Resumen del capítulo 39 La Eucaristía: lugar privilegiado del en
 tags: ["resumen", "eucaristía", "misterio_pascual", "discipulado_misionero", "misión"]
 ---
 
-# LA EUCARISTIA
+# LA EUCARISTÍA
 
 ## Conceptos básicos referenciados
 
@@ -33,4 +33,4 @@ Allí, el Espíritu Santo fortalece la identidad del discípulo y despierta en �
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | LA EUCARISTIA |
+| 1 | H1 | LA EUCARISTÍA |

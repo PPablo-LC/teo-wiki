@@ -27,7 +27,7 @@ Profesor de literatura medieval y renacentista en Oxford y Cambridge, Lewis pas�
 
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
-- **Valor de lo innecesario:** «El humor no tiene valor de supervivencia; es de esas cosas que dan valor a la supervivencia» (*Los cuatro amores*), citado por Bobby Angel.
+- **Valor de lo innecesario:** «El humor no tiene valor de supervivencia; es de esas cosas que dan valor a la supervivencia» (*Los cuatro amores*), citado por Bobby Ángel.
 - **Sátira cristiana:** las *Cartas de Screwtape* —diablo mayor instruyendo a un aprendiz— figuran en la genealogía cristiana del skewering que recorre Kyle Mann.
 - **Chronological snobbery:** el «snobismo cronológico» —creer que lo posterior es necesariamente superior— es clave en la conversión de Tim Westermeyer ante la historia milenaria de la Iglesia.
 - **Crítica al racionalismo:** *La abolición del hombre* como denuncia del racionalismo que destruye sin ver lo que destruye.
@@ -36,7 +36,7 @@ Profesor de literatura medieval y renacentista en Oxford y Cambridge, Lewis pas�
 
 En «Suffering and the Limits of Medicine» (Ken May, MD, PhD, archivo 11), C.S. Lewis es citado desde *The Problem of Pain* para precisar en qué sentido el sufrimiento es bueno. Frente a quienes romantizan el dolor, Lewis advierte: «El sufrimiento no es bueno en sí mismo. Lo que es bueno en cualquier experiencia dolorosa es, para el que sufre, su sumisión a la voluntad de Dios, y, para los espectadores, la compasión despertada y los actos de misericordia a los que conduce». La cita enmarca la vocación médica de cuidar el [[sufrimiento_cristiano]] del alma —no solo el dolor físico— y conecta con el [[sufrimiento_redentor]] cuando el dolor se ofrece a Dios en sumisión a su voluntad.
 
-### Según Evangelization & Culture n.º 18 «Conversion» (EAC-18)
+### Según Evangelization & Culture n.º 18 «Conversión» (EAC-18)
 
 Lewis es citado en el número dedicado a la conversión como testigo y apologista del converso:
 
@@ -73,7 +73,7 @@ Lewis demuestra que la sátira, la fantasía y el humor pueden ser vehículos de
 
 - EAC-8, archivos 08, 15, 18, 20
 - EAC-15, archivo 11 (Ken May), *Suffering and the Limits of Medicine*
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (12_art.md; 10_minds.md; 04_midnight_oil.md; 05_lives.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (12_art.md; 10_minds.md; 04_midnight_oil.md; 05_lives.md).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 10_spotlight_ressourcement.md (Jason Paone, «Broad and Deep: Why We Need the New Ressourcement»).
 - EAC-20, *Evangelization & Culture, Issue 20 — Sport* (Word on Fire Institute), 12_science.md (*The Problem of Pain* como marco del sufrimiento deportivo).
 - EAC-22, *Evangelization & Culture, Issue 22 — Courage* (Winter 2024), Word on Fire Institute (14_feature_desanctis.md; 19_spotlight_ward.md).

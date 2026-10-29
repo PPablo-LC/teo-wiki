@@ -15,7 +15,7 @@ timestamp: 2026-10-19
 
 ## Contexto histórico y biografía
 
-Nacido en una familia católica del sur de Luisiana, creció en la piedad mariana cajún (rosario, imágenes, novenas). Su matrimonio con Elizabeth, de familia bautista, lo enfrentó a las objeciones protestantes sobre María y la Eucaristía; el encuentro con un pastor que lo interrogó durante dos horas durante su noviazgo marcó el inicio de una crisis intelectual sobre la doctrina mariana. La crisis se resolvió en Notre Dame, donde el estudio conjunto del AT y del NT, del griego y del hebreo, y de la literatura judía antigua le mostró que las doctrinas marianas tienen raíces judías y no paganas. Narra ese recorrido en *Jesus and the Jewish Roots of Mary* (2018).
+Nacido en una familia católica del sur de Luisiana, creció en la piedad mariana cajún (rosario, imágenes, novenas). Su matrimonio con Elizabeth, de familia bautista, lo enfrentó a las objeciones protestantes sobre María y la Eucaristía; el encuentro con un pastor que lo interrogó durante dos horas durante su noviazgo marcó el inicio de una crisis intelectual sobre la doctrina mariana. La crisis se resolvió en Notre Dame, donde el estudio conjunto del AT y del NT, del griego y del hebreo, y de la literatura judía antigua le mostró que las doctrinas marianas tienen raíces judías y no paganas. Narra ese recorrido en *Jesús and the Jewish Roots of Mary* (2018).
 
 ## Aportación teológica
 
@@ -25,10 +25,10 @@ Pitre aplica a María el mismo método que a Jesús: los tipos del AT (Eva, el A
 
 ### Obras principales
 
-- *Jesus and the Jewish Roots of the Eucharist* (2011): la Eucaristía como nuevo maná, nuevo cordero pascual y nuevo culto del Templo.
-- *Jesus the Bridegroom* (2014): la alianza como matrimonio y la teología nupcial.
-- *The Case for Jesus* (2016): historicidad de los evangelios y divinidad de Cristo.
-- *Jesus and the Jewish Roots of Mary* (2018) — [[jesus_and_the_jewish_roots_of_mary]]: Eva, el Arca, la Reina Madre, la Virgen perpetua, los dolores mesiánicos, Raquel y la Madre de la Iglesia.
+- *Jesús and the Jewish Roots of the Eucharist* (2011): la Eucaristía como nuevo maná, nuevo cordero pascual y nuevo culto del Templo.
+- *Jesús the Bridegroom* (2014): la alianza como matrimonio y la teología nupcial.
+- *The Case for Jesús* (2016): historicidad de los evangelios y divinidad de Cristo.
+- *Jesús and the Jewish Roots of Mary* (2018) — [[jesus_and_the_jewish_roots_of_mary]]: Eva, el Arca, la Reina Madre, la Virgen perpetua, los dolores mesiánicos, Raquel y la Madre de la Iglesia.
 
 ### Aportaciones discutidas
 
@@ -41,6 +41,6 @@ Pitre aplica a María el mismo método que a Jesús: los tipos del AT (Eva, el A
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary: Unveiling the Mother of the Messiah*, Image, 2018.
-- Brant Pitre, *Jesus and the Jewish Roots of the Eucharist*, Image, 2011.
-- Brant Pitre, *The Case for Jesus*, Image, 2016.
+- Brant Pitre, *Jesús and the Jewish Roots of Mary: Unveiling the Mother of the Messiah*, Image, 2018.
+- Brant Pitre, *Jesús and the Jewish Roots of the Eucharist*, Image, 2011.
+- Brant Pitre, *The Case for Jesús*, Image, 2016.

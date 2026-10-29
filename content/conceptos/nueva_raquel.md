@@ -27,7 +27,7 @@ En el Nuevo Testamento, Mateo cita a Jeremías a propósito de la matanza de los
 
 ## Perspectivas por fuente
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre dedica el capítulo 7 a esta tipología y la conecta con la maternidad espiritual y la intercesión de María:
 
@@ -54,4 +54,4 @@ Se relaciona con [[dolor_de_maría]], [[intercesión_de_maría]], [[maternidad_e
 ## Referencias
 
 - Gn 30,22-24; 35,16-20; 37-50; Jer 31,15-17; Mt 2,16-18
-- Brant Pitre, *Jesus and the Jewish Roots of Mary*, cap. 7 (JRM)
+- Brant Pitre, *Jesús and the Jewish Roots of Mary*, cap. 7 (JRM)

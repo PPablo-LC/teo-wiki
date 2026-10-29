@@ -36,4 +36,4 @@ La distinción entre latría (Dios) e hiperdulía (María) no disminuye el honor
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `08_mother_of_god_with_us`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `08_mother_of_god_with_us`

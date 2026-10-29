@@ -25,7 +25,7 @@ El cristianismo no desmiente esta creatividad: la presupone y la valora (Nostra 
 
 ### Giussani — All'origine della pretesa cristiana (ODPC)
 
-ODPC 05 (cap. 1): la definición de religión como conjunto expresivo; el genio como carisma social (Chopin, Leopardi); las actitudes de la constructividad religiosa: (1a) el Ignoto trasfigurado en Armonía (religión china, los *me* sumerios según Ries); (1b) el pacto, el *do ut des* (hititas, Roma); (2) la confianza en la buena disposición del Otro (Amun de Leida, el Corán, Os 11,1-4). ODPC 05 (§2): el «ventaglio di ipotesi» ante la pluralidad de religiones — la utopía racionalista de estudiarlas todas, el criterio parcial de las «importantes» (Tacito y Svetonio sobre la «piccola setta» cristiana), el sincretismo, la solución empírica: seguir la religión de la propia tradición, con la conversión como descubrimiento más profundo (Newman).
+ODPC 05 (cap. 1): la definición de religión como conjunto expresivo; el genio como carisma social (Chopin, Leopardi); las actitudes de la constructividad religiosa: (1a) el Ignoto trasfigurado en Armonía (religión china, los *me* sumerios según Ries); (1b) el pacto, el *do ut des* (hititas, Roma); (2) la confianza en la buena disposición del Otro (Amun de Leída, el Corán, Os 11,1-4). ODPC 05 (§2): el «ventaglio di ipotesi» ante la pluralidad de religiones — la utopía racionalista de estudiarlas todas, el criterio parcial de las «importantes» (Tácito y Svetonio sobre la «piccola setta» cristiana), el sincretismo, la solución empírica: seguir la religión de la propia tradición, con la conversión como descubrimiento más profundo (Newman).
 
 ## Distinciones importantes
 
@@ -46,4 +46,4 @@ La creatividad religiosa pertenece al [[sentido_religioso]] como su desarrollo e
 - ODPC — Giussani, *All'origine della pretesa cristiana*, BUR Rizzoli.
 - ODPC 05 (§1-2) — cap. 1: *La creatività religiosa dell'uomo*; *Un ventaglio di ipotesi*.
 - Documentos citados: Concilio Vaticano II, *Nostra aetate* 2.
-- Ries, J., *Il sacro nella storia religiosa dell'umanità* (1995); Eliade, M., *Immagini e simboli* (1980); Newman, J.H., *Apologia pro vita sua*; *Grammatica dell'Assenso*.
+- Ries, J., *Il sacro nella storia religiosa dell'umanità* (1995); Eliade, M., *Immagini e simboli* (1980); Newman, J.H., *Apología pro vita sua*; *Grammatica dell'Assenso*.

@@ -36,6 +36,13 @@ Cristo no es solamente Cabeza de los fieles, sino también de los ángeles (cf. 
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica
+
+El Catecismo enseña que Cristo es «cabeza del Cuerpo que es la Iglesia» (Col 1, 18) y que la Iglesia recibe de Él todo lo que es y vive (CEC 789-791). El Concilio Vaticano II reafirma que Cristo es «cabeza del Cuerpo eclesial» (LG 6).
+
+### Concilio Vaticano II
+
+La *Lumen Gentium* desarrolla la imagen paulina del Cuerpo místico y afirma que Cristo es cabeza de la Iglesia en cuanto redimió y santifica por su sangre, la gobierna con su autoridad y la vivifica con su Espíritu (LG 7). La *Ad Gentes* añade que la misión de la Iglesia se deriva de la de Cristo como Cabeza de la humanidad (AG 5).
 ### Summa Theologiae (Santo Tomás de Aquino)
 
 En la *Summa Theologiae* IIIa q. 8, Santo Tomás sistematiza la doctrina de Cristo como Cabeza. En el artículo 1 demuestra que Cristo es Cabeza de los hombres por orden, perfección y poder, siguiendo la analogía de la cabeza humana. El orden es la razón principal, porque la cabeza es lo primero en el cuerpo según el ser y la dignidad.
@@ -46,13 +53,6 @@ En el artículo 4, demuestra que Cristo es también Cabeza de los ángeles, pues
 
 En el artículo 7, Tomás afirma que el diablo no es verdadera Cabeza de los hombres, sino solamente en sentido figurado o por usurpación. El pecado y la muerte ejercen una influencia sobre los hombres, pero no constituyen un principio de vida ni de orden, sino de destrucción. Por tanto, el diablo es un «falso cabeza».
 
-### Catecismo de la Iglesia Católica
-
-El Catecismo enseña que Cristo es «cabeza del Cuerpo que es la Iglesia» (Col 1, 18) y que la Iglesia recibe de Él todo lo que es y vive (CEC 789-791). El Concilio Vaticano II reafirma que Cristo es «cabeza del Cuerpo eclesial» (LG 6).
-
-### Concilio Vaticano II
-
-La *Lumen Gentium* desarrolla la imagen paulina del Cuerpo místico y afirma que Cristo es cabeza de la Iglesia en cuanto redimió y santifica por su sangre, la gobierna con su autoridad y la vivifica con su Espíritu (LG 7). La *Ad Gentes* añade que la misión de la Iglesia se deriva de la de Cristo como Cabeza de la humanidad (AG 5).
 
 ## Distinciones importantes
 

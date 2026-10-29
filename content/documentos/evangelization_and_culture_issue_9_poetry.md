@@ -34,19 +34,19 @@ Este noveno número de *Evangelization & Culture* está dedicado íntegramente a
 | 2 | From the Desk | Bishop Barron | Dante en Friburgo (1990); la tradición poética católica; «los poetas lo dicen mejor»: encuentro con la Belleza misma |
 | 3 | Word from the Institute | Jared Zimmerer | La gran poesía como oración; mente liberalmente educada = mente católica (1 Co 9,22); Año de San José |
 | 4 | Midnight Oil | Tod Worner | «No entiendo la poesía»; Wojtyła poeta y resistencia cultural polaca; el presente especioso (W. James); Tintern Abbey |
-| 5 | Lives | Jackie Francois Angel | Santa Brígida de Kildare, patrona de los poetas; poema del lago de cerveza; cruz de San Brígida + «Sudden Breeze» (Abad Jeremy Driscoll) |
+| 5 | Lives | Jackie Francois Ángel | Santa Brígida de Kildare, patrona de los poetas; poema del lago de cerveza; cruz de San Brígida + «Sudden Breeze» (Abad Jeremy Driscoll) |
 | 6 | Stacks | Jared Zimmerer | Sufrimiento, pérdida y misión en la *Eneida*; Creusa; Gadamer; summum bonum; descenso a Dis; visión comisionadora (Balthasar); C.S. Lewis sobre Eneas |
 | 7 | Film | Matthew Becklo | *Dead Poets Society*; carpe diem como memento mori; Neil Perry y 2 Sm 18; discurso Nobel de Faulkner; crisis de las humanidades (Wieseltier) |
 | 8 | Spotlight: Dante | Bishop Barron (entrevistado por Tod Worner) | María contraejemplo de la soberbia; infierno-purgatorio-cielo como ensimismamiento→purga→anonadamiento; guías Virgilio→Beatriz→Bernardo→María; Dante evangelizador + «One of Many Centurions» (Ryan Wilson) |
 | 9 | Minds | Paul Mariani | Gerard Manley Hopkins: *The Wreck of the Deutschland*; sprung rhythm e instress; *God's Grandeur*; *The Windhover*; sonetos terribles; «Carrion Comfort»; «That Nature is a Heraclitean Fire» + «Loneliness» (Ryan Wilson) |
 | 10 | Science | Keith Holyoak | Poesía y cerebro humano; origen oral; redes neuronales de control y por defecto en la composición; el frisson estético; paradoja de la tristeza |
-| 11 | Music | Andrew Petiprin | Bob Dylan baladista; forma de la balada; «Ballad of Hollis Brown», «Ballad in Plain D», «Ballad of a Thin Man», «Murder Most Foul» + tríptico «Christ Sightings» (Angela Alaimo O'Donnell) |
+| 11 | Music | Andrew Petiprin | Bob Dylan baladista; forma de la balada; «Ballad of Hollis Brown», «Ballad in Plain D», «Ballad of a Thin Man», «Murder Most Foul» + tríptico «Christ Sightings» (Ángela Alaimo O'Donnell) |
 | 12 | Features intro | Katy Carl | ¿Qué es la poesía? Frost, Dickinson, Chesterton; mapa del número |
 | 13 | Feature: Transcendent Language | Katy Carl | En alabanza del lenguaje trascendente; contra el paradigma tecnocrático (LS 111); poesis (Maritain); carmen (Gioia); renacer de la poesía católica (Dappled Things, Presence) |
 | 14 | Poetry: Sonnets for Michelangelo | Vittoria Colonna (recompuestos por Anna Key) | Soneto n.º 51: lactancia de María; soneto n.º 58: adoración eucarística |
 | 15 | Feature: Silence of the Poets | Joshua Hren | Dana Gioia y la trascendencia del verso; místico vs. poeta (Raïssa Maritain, Beguin); variedades del silencio (Marion); «Unsaid», «Words», «The Silence of the Poets»; locura divina (Pieper) |
 | 16 | Feature: Integral Humanism | James Matthew Wilson | El humanismo integral de la poesía; crítica de Dorian Gray; qué es un poema (obra e inspiración, metro, metáfora, memoria); qué hace (escala platónica) |
-| 17 | Feature: Life Refreshed | Robert Cording | Oración de Jesús; Pascua y asombro ante lo ordinario; Auden y Bonnefoy; unselfing de Murdoch; el ciego de Mc 8; «Field of Vision» de Heaney |
+| 17 | Feature: Life Refreshed | Robert Cording | Oración de Jesús; Pascua y asombro ante lo ordinario; Auden y Bonnefoy; unselfing de Murdoch; el ciego de Mc 8; «Field of Visión» de Heaney |
 | 18 | Spotlight: Faulkner | Bishop Barron | «No Grasping, No Hiding»: el Misterio inabarcable; pecado original como aferrar/esconderse; Sam Fathers mistagogo; paciencia y humildad; Sal 139; campesino de Ars (CEC 2715); Ex 2–3 y 33; Yo soy el que soy |
 | 19 | Mission | Entrevista a Cory Mendenhall | De los mormones al catolicismo; catedrales como casas de Dios; Merton y Gilson (Dios como Ser mismo); RCIA; arte como vocación evangélica |
 | 20 | Poetry | Cory Mendenhall / Seamus Heaney | «Southern Sacramental»; «Miracle» (los portadores del paralítico) |
@@ -96,7 +96,7 @@ Este noveno número de *Evangelization & Culture* está dedicado íntegramente a
 - **William Faulkner** (discurso Nobel): El hombre prevalecerá porque tiene alma capaz de compasión y sacrificio; el deber del poeta es ayudarle elevando su corazón.
 - **Samuel Taylor Coleridge** (*Biographia Literaria*): Excitar un sentimiento análogo a lo sobrenatural despertando la atención de la mente a la letargia de la costumbre.
 - **George Herbert** («Prayer»): Veintiséis emblemas de la oración, del banquete de la Iglesia al aliento de Dios que retorna a su nacimiento.
-- **Seamus Heaney** («Station Island», «Miracle», «Field of Vision»): «Lee poemas como oraciones»; la gracia que salva todo.
+- **Seamus Heaney** («Station Island», «Miracle», «Field of Visión»): «Lee poemas como oraciones»; la gracia que salva todo.
 - **Francisco** (*Laudato Si'* 111): Necesidad de una espiritualidad que genere resistencia al paradigma tecnocrático.
 - **Via Pulchritudinis** (Pontificio Consejo de la Cultura): «Los santos son el reflejo luminoso y el testimonio atrayente de la belleza singular de Cristo».
 - **CEC 2715**: El campesino de Ars ante el Sagrario: «Lo miro a él y él me mira a mí».

@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Capitolo secondo — CRISI E DIALOGO"
+title: "Capitolo secondo — CRISI E DIÁLOGO"
 fuente: il_rischio_educativo_capitoli
 capítulo: 3
 timestamp: 2026-10-15
-description: "Resumen de 'Capitolo secondo — CRISI E DIALOGO' — il_rischio_educativo_capitoli"
+description: "Resumen de 'Capitolo secondo — CRISI E DIÁLOGO' — il_rischio_educativo_capitoli"
 tags: ["resumen", "il rischio educativo capitoli"]
 ---
 
-# Capitolo secondo — CRISI E DIALOGO
+# Capitolo secondo — CRISI E DIÁLOGO
 
 ## Conceptos básicos referenciados en este capítulo
 
@@ -51,13 +51,13 @@ Todo debe plantearse conscientemente como **verificación**, como prueba del val
 
 ### II. Apertura dialogica
 
-#### 1. Una idea di dialogo
+#### 1. Una idea di diálogo
 
 Si fuéramos totalmente apartados del mundo, un hombre solo no hallaría novedad alguna: **la novedad viene siempre del encuentro con el otro** — la regla con que nació la vida: existimos porque otros nos dieron vida. *Diálogo* es este relación con el «otro», quienquiera que sea. ¿Qué trae el otro? Siempre una subrayado de interés que como tal es parcial, pero que en el conjunto de los ordenados relaciones ayuda a concrear una madurez unitaria; el diálogo es función de esos horizontes de universalidad y totalidad a que el hombre está destinado. Piénsese en la importante función de la **catolicidad** de la Iglesia: el diálogo.
 
-#### 2. Condizione per il dialogo
+#### 2. Condizione per il diálogo
 
-La apertura sin límite propia del diálogo tiene una gravísima necesidad: **no es verdadero diálogo si no llevo *coscienza di me***. El diálogo es paragone entre la propuesta del otro y la conciencia de la propuesta que yo represento, que yo soy; si la «crisis» —el empeño de velar la propia tradición— no precede lógicamente al diálogo, quedo bloqueado por el influjo del otro, o el otro que rechazo provoca un enrrigecimiento irracional en mi posición. De aquí el peligro gravísimo: ***confondere il dialogo con il compromesso***. Partir de lo que se tiene en común con el otro no significa decir necesariamente lo mismo, aun usando las mismas palabras: la justicia del otro no es la justicia del cristiano, ni su libertad, ni su educación. Hay una *forma* distinta en las palabras que usamos (en sentido de la filosofía escolástica). Lo común con el otro no ha de buscarse tanto en su ideología como en aquella estructura nativa, en esas exigencias humanas por las que él es hombre como nosotros. «Entre concepciones realmente distintas nada hay en común, salvo la humanidad de los hombres que las portan como pendones de esperanza o de respuesta».
+La apertura sin límite propia del diálogo tiene una gravísima necesidad: **no es verdadero diálogo si no llevo *coscienza di me***. El diálogo es paragone entre la propuesta del otro y la conciencia de la propuesta que yo represento, que yo soy; si la «crisis» —el empeño de velar la propia tradición— no precede lógicamente al diálogo, quedo bloqueado por el influjo del otro, o el otro que rechazo provoca un enrrigecimiento irracional en mi posición. De aquí el peligro gravísimo: ***confondere il diálogo con il compromesso***. Partir de lo que se tiene en común con el otro no significa decir necesariamente lo mismo, aun usando las mismas palabras: la justicia del otro no es la justicia del cristiano, ni su libertad, ni su educación. Hay una *forma* distinta en las palabras que usamos (en sentido de la filosofía escolástica). Lo común con el otro no ha de buscarse tanto en su ideología como en aquella estructura nativa, en esas exigencias humanas por las que él es hombre como nosotros. «Entre concepciones realmente distintas nada hay en común, salvo la humanidad de los hombres que las portan como pendones de esperanza o de respuesta».
 
 #### 3. Situación di oggi
 

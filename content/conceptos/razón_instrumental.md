@@ -41,7 +41,7 @@ El capítulo 13 («Against the Imperialism of Instrumental Reason») concentra l
 
 ## Analizado en contexto cultural
 
-- [[computer_power_and_human_reason]] — análisis completo de la obra cuyo capítulo conclusivo formula el «imperialismo de la razón instrumental».
+- [[computer_power_and_human_reason]] — análisis completo de la obra cuyo capítulo conclusivo fórmula el «imperialismo de la razón instrumental».
 
 ## Distinciones importantes
 

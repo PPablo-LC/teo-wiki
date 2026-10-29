@@ -4,7 +4,7 @@ title: XIII — Proverbios
 fuente: La_biblia_del_ateo_-_Joan_Konner
 capítulo: 13
 timestamp: 2026-08-03
-description: "Resumen del capítulo XIII: máximas escepticas sobre religión, oración, fe absoluta y superstición"
+description: "Resumen del capítulo XIII: máximas escépticas sobre religión, oración, fe absoluta y superstición"
 tags: ["resumen", "religión_como_control_social", "oración", "fe", "superstición"]
 ---
 

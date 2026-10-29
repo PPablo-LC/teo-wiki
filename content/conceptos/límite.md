@@ -33,7 +33,7 @@ lucidez que reconoce la desproporción entre el deseo y la capacidad.
 ### El límite y la distancia
 
 El culmen del [[sacrificio]] es aceptar la **[[distancia]]** —la menzogna
-benevola de la distancia—. El límite no se niega ni se idolatra: se acoge
+benévola de la distancia—. El límite no se niega ni se idolatra: se acoge
 como el espacio donde el Otro actúa. La conciencia del límite defiende de la
 [[soberbia]] y de la pretensión de autosuficiencia.
 

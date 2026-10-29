@@ -27,6 +27,9 @@ La distinción tiene aplicación en la teología de los sacramentos: Dios podrí
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que "Dios puede hacer todas las cosas" (§282) y que "la omnipotencia de Dios no es un poder ilimitado que haga todo lo que quiera: Dios es sovereign, pero no arbitrario" (§282). La distinción entre potencia absoluta y ordenada se refleja en la afirmación de que "Dios obra en la historia a través de las acciones de los hombres y de las mujeres libres" (§303).
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.25 — El poder de Dios:**
@@ -45,9 +48,6 @@ La distinción tiene aplicación en la teología de los sacramentos: Dios podrí
 
 **a.2 — Dios gobierna las cosas por Su providencia:** La providencia de Dios es el gobierno de las cosas hacia sus fines a través de las causas que Él mismo ha instituido. La potencia ordenada es el medio de la providencia: Dios obra a través de las causas segundas, y esta acción a través de las causas es el orden que Él mismo ha establecido. La potencia absoluta podría intervenir directamente, pero Su sabiduría prefiere obrar a través del orden creado (SmTh Iª q.22 a.2).
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que "Dios puede hacer todas las cosas" (§282) y que "la omnipotencia de Dios no es un poder ilimitado que haga todo lo que quiera: Dios es sovereign, pero no arbitrario" (§282). La distinción entre potencia absoluta y ordenada se refleja en la afirmación de que "Dios obra en la historia a través de las acciones de los hombres y de las mujeres libres" (§303).
 
 ## Distinciones importantes
 

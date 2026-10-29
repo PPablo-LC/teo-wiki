@@ -86,7 +86,7 @@ Hahn añade dos argumentos de conveniencia. El de Newman: si Eva fue elevada por
 
 [HHQ, cap. 5]
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre reconstruye la lógica bíblica del dogma a partir de la tipología Eva-María y responde a tres malentendidos frecuentes:
 
@@ -120,4 +120,4 @@ La Inmaculada Concepción es fundamento de la [[asunción]] (quien no tuvo pecad
 - Denzinger D-734, D-735, D-1100, D-1314, D-1641-1642
 - [EAC-14, 10_minds.md]
 - Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 5
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), cap. 2
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), cap. 2

@@ -67,9 +67,9 @@ Lord Byron: todos están inclinados a creer en aquello que anhelan, sea en un bi
 
 Jack London: soy un materialista incurable; cuando uno se muere, está muerto. H. P. Lovecraft: no me preocupa la inmortalidad; en el olvido no hay deseos insatisfechos.
 
-### La vida como baile (Mason / McCourt / Munch)
+### La vida como baile (Masón / McCourt / Munch)
 
-Jackie Mason: la vida es un baile; ¿un baile ha de tener un significado? Frank McCourt: mi posteridad está aquí; soy tierra de abono. Edvard Munch: de mi cuerpo podrido crecerán flores.
+Jackie Masón: la vida es un baile; ¿un baile ha de tener un significado? Frank McCourt: mi posteridad está aquí; soy tierra de abono. Edvard Munch: de mi cuerpo podrido crecerán flores.
 
 ### El tiempo malgastado (O'Casey / Rand)
 

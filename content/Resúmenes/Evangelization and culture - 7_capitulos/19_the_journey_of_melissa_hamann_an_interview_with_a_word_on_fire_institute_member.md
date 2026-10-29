@@ -28,7 +28,7 @@ Hamann creció en la Infantería de Marina de EE.UU. — 14 mudanzas antes de lo
 
 ### La renacimiento de la fe
 
-En la facultad de derecho de la Catholic University of America, continuó el servicio. En Catholic Match conoció a John — «caímos rápida y profundamente en amor». Al principio de su matrimonio descubrió Word on Fire: «La gracia que una vez faltaba ahora está presente y sigue bendiciéndome abundantemente».
+En la facultad de derecho de la Catholic University of América, continuó el servicio. En Catholic Match conoció a John — «caímos rápida y profundamente en amor». Al principio de su matrimonio descubrió Word on Fire: «La gracia que una vez faltaba ahora está presente y sigue bendiciéndome abundantemente».
 
 ### La fe en la práctica
 

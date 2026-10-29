@@ -38,7 +38,7 @@ timestamp: 2026-09-03
 | # | Archivo raw | Título |
 |---|-------------|--------|
 | 1 | P2_00_introduccion.md | Introducción a las cartas |
-| 2 | P2_01_letter_to_all_the_faithful.md | Carta a todos los fieles (Epistola ad fideles) — I y II versión |
+| 2 | P2_01_letter_to_all_the_faithful.md | Carta a todos los fieles (Epístola ad fideles) — I y II versión |
 | 3 | P2_02_letter_to_all_the_friars.md | Carta a todos los frailes |
 | 4 | P2_03_to_a_certain_minister.md | Carta a un ministro |
 | 5 | P2_04_to_the_rulers_of_the_people.md | Carta a los gobernantes de los pueblos |

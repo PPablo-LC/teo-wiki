@@ -42,7 +42,7 @@ El gesto profético de la visita al CEDIA 24 Horas (6 de junio) concretó esta e
 
 ### Giussani — Affezione e dimora (AED)
 
-En la Tischrede 12 (AED, 13, 91-97), la gratuidad nace del «sí» de Cristo: «Cristo non ha tentennato tra il sì e il no, ma ha detto "sì"... e noi dobbiamo dire "Amen", partecipando alla coscienza con cui Cristo affermava le cose come il Padre le voleva» (cf. 2Cor 1,19).
+En la Tischrede 12 (AED, 13, 91-97), la gratuidad nace del «sí» de Cristo: «Cristo non ha tentennato tra il sì e il no, ma ha detto "sì"... e noi dobbiamo dire "Amén", partecipando alla coscienza con cui Cristo affermava le cose come il Padre le voleva» (cf. 2Cor 1,19).
 
 Junto a la moralidad existe «qualcosa d'altro»: «L'impeto della gratuità non è una legge morale descrivibile. È da questo impeto che la fatica fiorisce in letizia ed è capace di sostenere il peso di se stessa» (AED, 13, 95). En la intervención a la Compagnia delle Opere, citada en la nota, «l'amore, lo sappiamo bene, non ha confini. Ci deve essere, allora, in ciò che facciamo qualcosa che non ha i confini di ciò che facciamo» (AED, 13, nota 15). La síntesis es la memoria: «Vivere la memoria: riconoscere Cristo presente in tutto ciò che si fa» (AED, 13, 97).
 
@@ -77,7 +77,7 @@ Dios se ha hecho uno de nosotros» (03, 247).
 
 En los *Esercizi* 1994-1996, la gratuidad emerge como la lógica propia del hecho cristiano, opuesta a todo cálculo mundano:
 
-- **La amistad como *charis* (gratuidad)**: «L'amicizia è un amore reciproco. Senza reciprocità non c'è amicizia»; «È abolita l'estraneità» — «il miracolo umanamente più affascinante e persuasivo del fatto cristiano»; *«Charis è una parola greca che vuol dire gratuità… amore senza alcun calcolo»* (01, 57; 04, 61). La gratuidad no es ausencia de reciprocidad, sino reciprocidad sin cálculo: «puro, nudo e crudo amore» (04, 61).
+- **La amistad como *charis* (gratuidad)**: «L'amicizia è un amore recíproco. Senza reciprocità non c'è amicizia»; «È abolita l'estraneità» — «il miracolo umanamente più affascinante e persuasivo del fatto cristiano»; *«Charis è una parola greca che vuol dire gratuità… amore senza alcun calcolo»* (01, 57; 04, 61). La gratuidad no es ausencia de reciprocidad, sino reciprocidad sin cálculo: «puro, nudo e crudo amore» (04, 61).
 
 - **Amar «perché c'è»**: citando a Ada Negri, «Ami, e non pensi essere amata… ami il bambino non perché è tuo, ma perché c'è»; «non c'è nessun uomo che si faccia da sé. Il Mistero, che sta dietro ogni cosa, è come la prospettiva inesorabile di ogni cosa che si vede» (04, 63-65). La gratuidad afirma el ser del otro, no su utilidad.
 

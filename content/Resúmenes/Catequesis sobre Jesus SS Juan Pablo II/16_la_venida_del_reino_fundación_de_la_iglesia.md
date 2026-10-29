@@ -4,7 +4,7 @@ title: "(LA VENIDA DEL REINO: FUNDACIÓN DE LA IGLESIA)"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 16
 timestamp: 2026-08-12
-description: "Resumen de '(LA VENIDA DEL REINO: FUNDACIÓN DE LA IGLESIA)' — Catequesis sobre Jesus SS Juan Pablo II"
+description: "Resumen de '(LA VENIDA DEL REINO: FUNDACIÓN DE LA IGLESIA)' — Catequesis sobre Jesús SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
 

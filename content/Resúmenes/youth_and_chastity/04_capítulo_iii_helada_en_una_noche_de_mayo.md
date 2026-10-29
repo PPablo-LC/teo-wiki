@@ -47,7 +47,7 @@ El autor dramatiza lo que el joven no puede prever a los quince años: «¡Ah, s
 > *Ay de mí, mi juventud se ha huido*
 > *y todas mis variadas potencias yacen muertas.*
 
-Y formula el principio pedagógico con que cierra la sección: **en el ajedrez, si haces una jugada equivocada, simplemente retiras la pieza y no ha sido una jugada válida; pero los movimientos de la inmoralidad nunca pueden retirarse ni invalidarse.** Añade el verso de John Vajda: *«Desvanécense en la memoria todas nuestras sabidurías de escribir y de vivir: solo permanece aquella hora en que uno se olvidó de sí mismo al dar.»*
+Y fórmula el principio pedagógico con que cierra la sección: **en el ajedrez, si haces una jugada equivocada, simplemente retiras la pieza y no ha sido una jugada válida; pero los movimientos de la inmoralidad nunca pueden retirarse ni invalidarse.** Añade el verso de John Vajda: *«Desvanécense en la memoria todas nuestras sabidurías de escribir y de vivir: solo permanece aquella hora en que uno se olvidó de sí mismo al dar.»*
 
 ### RAGGED YOUTH — El alma despedazada
 

@@ -38,7 +38,7 @@ Tres casos (la clavícula rota al esquiar, la idea genial que llega en el examen
 
 La cultura racionalista e ilustrada piensa la razón sin interferencias: si hay sentimiento, ¿puede aún haber conocimiento objetivo del objeto? La cuestión se torna dramática para los objetos que interesan por los *significados* — destino, afectividad, política —, los más vitales y los que más generan sentimiento. Fórmula *r → s ← v*: el valor suscita el sentimiento y este condiciona la razón. Para esa hipótesis, solo en el campo científico-matemático se podría eliminar o reducir al mínimo la s y alcanzar la verdad del objeto; en los demás campos reinaría la opinión o la impresión subjetiva.
 
-# 4. Una questione esistenziale e una questione di metodo
+# 4. Una questione esistenziale e una questione di método
 
 Dos observaciones. (a) Existencial: llevada a su lógica, esa posición implicaría que cuanto más la naturaleza hace interesarse a un objeto — más [[curiosidad]], exigencia y pasión —, tanto más impide conocerlo; consecuencia a la que «todo nuestro ser se rebela» (Leopardi, «o natura, o natura, ¿por qué de tanto engañas a tus hijos?»). (b) De método: es un error formular un principio explicativo que para resolver deba eliminar un factor en juego; la verdadera solución no necesita suprimir nada, sino que exalta y valora todos los factores.
 

@@ -76,4 +76,4 @@ En la Última Cena, Juan se identifica como «el discípulo a quien Jesús amaba
 
 - Jn 13,23-25; 19,26-27; 19,35; 21,20-24
 - Ireneo, *Contra las Herejías* 1.1.1
-- *The Case for Jesus* (CfJ), Sesión 1, líneas [00:31:12]–[00:32:43]
+- *The Case for Jesús* (CfJ), Sesión 1, líneas [00:31:12]–[00:32:43]

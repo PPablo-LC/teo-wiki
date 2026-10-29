@@ -41,7 +41,7 @@ Hahn desarrolla la tipología del Arca en el capítulo 3 con una exégesis de Ap
 
 [HHQ, cap. 3]
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre reconstruye el trasfondo judío del Arca y lo aplica a Lucas con una precisión que completa la lectura de Hahn:
 
@@ -80,4 +80,4 @@ Pitre reconstruye el trasfondo judío del Arca y lo aplica a Lucas con una preci
 - Ap 11, 19; 12, 1
 - Scott Hahn, *The Bible and the Virgin Mary*, lección 5 (BMV)
 - Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 3
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), cap. 3
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), cap. 3

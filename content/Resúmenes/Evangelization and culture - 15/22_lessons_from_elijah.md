@@ -49,7 +49,7 @@ Dios responde al sufrimiento de Elías de manera gradual:
 
 ### El Horeb: la voz suave y tenue
 
-En el Horeb, el Señor formula una pregunta suave: «¿Qué haces aquí, Elías?» (1 Re 19,9), del mismo modo que dio a Adán la oportunidad de arrepentirse tras el pecado (Gn 3,9). Elías responde con su currículum: fui celoso, el pueblo no lo fue, estoy solo (1 Re 19,10). Lamentablemente, en su queja nunca menciona la victoria extraordinaria en el Carmelo. El profeta de Dios tiene una visión miópica y una memoria selectiva. Hay que precaverse contra las armas eficaces del Maligno: la **amnesia espiritual** (olvidas) y el **desánimo** (se te agota la energía).
+En el Horeb, el Señor fórmula una pregunta suave: «¿Qué haces aquí, Elías?» (1 Re 19,9), del mismo modo que dio a Adán la oportunidad de arrepentirse tras el pecado (Gn 3,9). Elías responde con su currículum: fui celoso, el pueblo no lo fue, estoy solo (1 Re 19,10). Lamentablemente, en su queja nunca menciona la victoria extraordinaria en el Carmelo. El profeta de Dios tiene una visión miópica y una memoria selectiva. Hay que precaverse contra las armas eficaces del Maligno: la **amnesia espiritual** (olvidas) y el **desánimo** (se te agota la energía).
 
 Dios no discute con Elías, sino que lo traslada a una posición para transformar su corazón. Los poderosos vientos, el terremoto y el fuego —rememorando el Sinaí (Ex 19,16-19)— demuestran que es Dios, no Baal (supuesto dios del viento, terremoto y fuego), el verdadero Dios. Luego, Elías experimenta la cercanía íntima de Dios en la voz suave y tenue (1 Re 19,12). San Maximiliano Kolbe dijo: «El silencio es necesario, absolutamente necesario. Si falta el silencio, falta la gracia».
 

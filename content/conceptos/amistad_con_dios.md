@@ -49,7 +49,7 @@ La caridad es amistad con Dios: la gracia es «el amor especial por el que Dios 
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Giussani ensancha la amistad con Dios a todo hombre: «ogni uomo è oggetto dell'amicizia, è parte dell'amicizia di Dio che si rivela in lui... non è possibile accostare un uomo se non con questa coscienza». De ahí la plegaria por el destino de cada desconocido —«Signore, ti offro la mia giornata e la mia vita per questa gente... È per il loro destino!»— y la adoración implícita en el trato con el otro: «L'amicizia è una parola che sta vicina alla parola "Ti adoro, mio Dio"... l'amicizia vera adora l'altro... perché è: perché è!». La amistad con Dios se refleja así en la amistad entre los hombres, que adora en el otro el ser que participa del Misterio (TACDC, 04, L91.119-121).
+Giussani ensancha la amistad con Dios a todo hombre: «ogni uomo è oggetto dell'amicizia, è parte dell'amicizia di Dio che si rivela in lui... non è possibile accostare un uomo se non con questa coscienza». De ahí la plegaria por el destino de cada desconocido —«Signore, ti offro la mía giornata e la mía vita per questa gente... È per il loro destino!»— y la adoración implícita en el trato con el otro: «L'amicizia è una parola che sta vicina alla parola "Ti adoro, mio Dio"... l'amicizia vera adora l'altro... perché è: perché è!». La amistad con Dios se refleja así en la amistad entre los hombres, que adora en el otro el ser que participa del Misterio (TACDC, 04, L91.119-121).
 
 ## Distinciones importantes
 

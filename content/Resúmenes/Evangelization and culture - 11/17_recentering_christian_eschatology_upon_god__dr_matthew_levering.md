@@ -35,7 +35,7 @@ Si los cristianos proclaman mal nuestra esperanza, el Evangelio no atrae como de
 
 ### Dos series de imágenes bíblicas
 
-**Primera serie** (material): Mt 26,28-29 («no beberé del fruto de la vid hasta beberlo nuevo con vosotros en el reino»); Mt 8,11 (banquete con Abraham, Isaac y Jacob); las diez vírgenes esperando al novio (Mt 25); Pitre (*Jesus the Bridegroom*): Jesús como esposo (Mt 9,15; Jn 3,29); el ciento por uno de Mt 19,28-29. Pero ninguna cantidad de comida, tierras o familia puede saciar nuestro anhelo.
+**Primera serie** (material): Mt 26,28-29 («no beberé del fruto de la vid hasta beberlo nuevo con vosotros en el reino»); Mt 8,11 (banquete con Abraham, Isaac y Jacob); las diez vírgenes esperando al novio (Mt 25); Pitre (*Jesús the Bridegroom*): Jesús como esposo (Mt 9,15; Jn 3,29); el ciento por uno de Mt 19,28-29. Pero ninguna cantidad de comida, tierras o familia puede saciar nuestro anhelo.
 
 **Segunda serie** (centrada en Dios): Apocalipsis 21 — nueva Jerusalén descendiendo, hogar de Dios entre los mortales, sin templo ni sol porque Dios ilumina; Pablo: «peso eterno de gloria» (2 Cor 4,17), «casa no hecha de manos» (2 Cor 5,1), verlo «cara a cara» (1 Cor 13,12), herederos de Dios coherederos con Cristo (Rom 8,16-17); 1 Jn 3,2: seremos semejantes a Él porque le veremos tal cual es; Hebreos 12,22-24: monte Sión, Jerusalén celestial, asamblea de los primogénitos.
 

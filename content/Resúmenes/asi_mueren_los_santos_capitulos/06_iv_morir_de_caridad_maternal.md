@@ -78,7 +78,7 @@ misericordia, inmolándose en la caridad».
    deportación, confinada; tras la liberación volvió a su cárcel y vio
    en los nuevos detenidos —sus perseguidores— solo hermanos; larga
    agonía ofrecida por sus protegidos: «No creía que fuese tan dulce
-   morir»; prefería ser recordada con el *Gloria*, no con el *Requiem*.
+   morir»; prefería ser recordada con el *Gloria*, no con el *Réquiem*.
 9. **[[madre_teresa_de_calcuta]]** (1910-1997): «una llamada dentro de
    la llamada» ante una mujer agonizante en la calle; las *Misioneras
    de la Caridad* para «los más pobres entre los pobres»; quiso

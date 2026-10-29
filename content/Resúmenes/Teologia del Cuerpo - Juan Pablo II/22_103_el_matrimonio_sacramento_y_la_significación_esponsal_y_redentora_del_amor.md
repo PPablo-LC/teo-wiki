@@ -4,7 +4,7 @@ title: "103. El matrimonio sacramento y la significación esponsal y redentora d
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 22
 timestamp: 2026-08-01
-description: "Catequesis 103: el «gran misterio» (Ef 5,32), la unión del significado nupcial y redentor del amor en el matrimonio como sacramento, y la continencia por el reino de los cielos — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 103: el «gran misterio» (Ef 5,32), la unión del significado nupcial y redentor del amor en el matrimonio como sacramento, y la continencia por el reino de los cielos — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

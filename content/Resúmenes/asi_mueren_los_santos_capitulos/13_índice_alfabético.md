@@ -38,7 +38,7 @@ Jerónimo Emiliano · José Benito Cottolengo · Josefina Bakhita ·
 Josemaría Escrivá · Juana Francisca de Chantal · Juan Bosco · Juan de
 Dios · Juan de la Cruz · Juan XXIII · Kateri Tekakwitha · Katharine
 Mary Drexel · Laura Vicuña · Leopoldo Mandic · Luis Orione · Luis
-Martin · Luisa de Marillac · Madeleine Delbrêl · Madre Teresa de
+Martín · Luisa de Marillac · Madeleine Delbrêl · Madre Teresa de
 Calcuta · Mamá Margherita · Mari Carmen González-Valerio · María
 Bertilla Boscardin · María Cándida de la Eucaristía · María Crocifissa
 Di Rosa · María de Jesús Crucificado · María Goretti · Martín de Porres
@@ -51,7 +51,7 @@ Tomás de Aquino · Tomás Moro · Vicenta Gerosa · Vicente de Paúl ·
 Victoria Rasoamanarivo · Vladimir Ghika.
 
 > **Nota:** el índice de la fuente contiene pequeñas erratas de fechas
-> (p. ej. «Vladimir Ghika (1873-1877)», «Luis Martin (1823-1994)»,
+> (p. ej. «Vladimir Ghika (1873-1877)», «Luis Martín (1823-1994)»,
 > «Leopoldo Mandic (1866-1942)»); los artículos del wiki usan las
 > fechas corregidas según los retratos correspondientes.
 

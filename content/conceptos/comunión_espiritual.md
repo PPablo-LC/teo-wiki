@@ -23,7 +23,7 @@ La comunión espiritual produce efectos similares a la comunión sacramental en 
 
 ### Según el Catecismo (CEC)
 
-El CEC §1374 enseña que «en el Santísimo Sacramento de la Eucaristía están contenidos verdadera, real y substancialmente el Cuerpo y la Sangre de Jesucristo». La comunión espiritual es posible precisamente por esta [[presencia_real]]. El CEC §1384 recuerda que la Iglesia recomienda la comunión frecuente y el §1385 las disposiciones necesarias para recibirla dignamente. Aunque el Catecismo no formula una oración específica de comunión espiritual, la doctrina subyacente —presencia real de Cristo en la Eucaristía, deseo de unión con Él— fundamenta el acto de comunión espiritual.
+El CEC §1374 enseña que «en el Santísimo Sacramento de la Eucaristía están contenidos verdadera, real y substancialmente el Cuerpo y la Sangre de Jesucristo». La comunión espiritual es posible precisamente por esta [[presencia_real]]. El CEC §1384 recuerda que la Iglesia recomienda la comunión frecuente y el §1385 las disposiciones necesarias para recibirla dignamente. Aunque el Catecismo no fórmula una oración específica de comunión espiritual, la doctrina subyacente —presencia real de Cristo en la Eucaristía, deseo de unión con Él— fundamenta el acto de comunión espiritual.
 
 ### Según Royo Marín (TPCr)
 

@@ -17,7 +17,7 @@ José era oriundo de una familia esclarecida de Thmuis, en Egipto. Hombre distin
 
 ## Relevancia teológica
 
-José es conferenciante de dos de las Conferencias de Juan Casiano: la Decimosexta (sobre la amistad) y la Decimoséptima (sobre las promesas y la libertad evangélica). Su enseñanza establece los seis principios de la amistad verdadera, la distinción entre la *agape* y la *diácesis*, y la subordinación de toda promesa al bien mayor de la caridad.
+José es conferenciante de dos de las Conferencias de Juan Casiano: la Decimosexta (sobre la amistad) y la Decimoséptima (sobre las promesas y la libertad evangélica). Su enseñanza establece los seis principios de la amistad verdadera, la distinción entre la *ágape* y la *diácesis*, y la subordinación de toda promesa al bien mayor de la caridad.
 
 ## Obras mencionadas
 

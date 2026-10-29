@@ -4,7 +4,7 @@ title: "105. La significación esponsal del cuerpo y la condición esponsal de l
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 24
 timestamp: 2026-08-01
-description: "Catequesis 105: la tradición profética del «lenguaje del cuerpo», la Alianza de Yavé con Israel como vínculo nupcial, y la verdad y falsedad de este lenguaje (fidelidad y adulterio) — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 105: la tradición profética del «lenguaje del cuerpo», la Alianza de Yavé con Israel como vínculo nupcial, y la verdad y falsedad de este lenguaje (fidelidad y adulterio) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

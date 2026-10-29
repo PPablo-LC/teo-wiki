@@ -41,6 +41,10 @@ La transformación de las relaciones sociales según las exigencias del Reino de
 
 Los bienes de la dignidad humana, la fraternidad y la libertad, purificados y transfigurados, pertenecen al Reino de verdad y de vida, de santidad y de gracia, de justicia, de amor y de paz que Cristo entregará al Padre [CompDS §57].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Reino» del VocTeoBib desarrolla el tema desde el AT al NT. Yahveh reina sobre Israel como rey (Ex 15,18; Sal 24,7-10), constituyéndolo en «reino de sacerdotes» (Ex 19,6). Los profetas anuncian el reinado escatológico de Dios (Is 52,7; Dan 7). Jesús da al reino el primer puesto en su predicación (Mc 1,15; Mt 4,23); los milagros son signos de su presencia (Mt 12,28). El reino es un misterio que crece como la semilla (Mc 4,26-29), se da a los pobres y pequeños (Lc 12,32). Está presente pero espera su plenitud en el tiempo intermedio de la Iglesia. Cristo, Rey que no es de este mundo (Jn 18,36), es entronizado en la resurrección y entregará el reino al Padre al final (1Cor 15,24).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 Lumen Gentium presenta el **reino de dios** como estrechamente unido al misterio de la Iglesia. Cristo inauguró en la tierra «el reino de los cielos» y la Iglesia o reino de Cristo, «presente actualmente en misterio, por el poder de Dios crece visiblemente en el mundo» [ConcVatII, LG §3]. Jesús dio comienzo a la Iglesia predicando la buena nueva de la llegada del **reino de dios**; este reino «brilla ante los hombres en la palabra, en las obras y en la presencia de Cristo» [ConcVatII, LG §5].
@@ -48,6 +52,10 @@ Lumen Gentium presenta el **reino de dios** como estrechamente unido al misterio
 La Iglesia «recibe la misión de anunciar el reino de Cristo y de Dios e instaurarlo en todos los pueblos, y constituye en la tierra el germen y el principio de ese reino» [ConcVatII, LG §5]. «Mientras ella paulatinamente va creciendo, anhela simultáneamente el reino consumado y con todas sus fuerzas espera y ansía unirse con su Rey en la gloria» [ConcVatII, LG §5].
 
 El Pueblo de Dios tiene como fin «dilatar más y más el **reino de dios**, incoado por el mismo Dios en la tierra, hasta que al final de los tiempos El mismo también lo consume» [ConcVatII, LG §9]. Cristo desea dilatar su reino también por medio de los fieles laicos: «reino de verdad y de vida, reino de santidad y de gracia, reino de justicia, de amor y de paz» [ConcVatII, LG §36].
+### Según Royo Marín (TPCr)
+
+Royo Marín trata el Reino de Dios como el reinado divino que Dios ejerce en las almas por la gracia santificante y especialmente en las almas justas. El Reino de Dios es una posesión santificante sobrenatural, íntima e inamisible. Cristo lo explica mediante parábolas: el grano de mostaza, la levadura, el tesoro escondido, la perla preciosa, la red marinera. La posesión del Reino pertenece a los que tienen humildad de espíritu, dolor de los pecados, afán de santidad, deseo de justicia, misericordia, limpieza de corazón y paciencia. Parafraseando a Bossuet y padre Faber: «El Reino de Dios es el estado de gracia santificante en las almas, y su Reina es la Santísima Virgen María».
+
 ### Según Benedicto XVI (JdN_I)
 
 Benedicto XVI trata el Reino de Dios como la categoría fundamental del mensaje de Jesús, particularmente en el capítulo 1 de *JdN_I* dedicado a las Bienaventuranzas. El Reino no es una realidad futura lejana, sino que irrumpe ya en la persona y las palabras de Jesús: «Con Jesús, entra alegría en la tribulación» (JdN_I). Las Bienaventuranzas son la «carta magna» del Reino porque en ellas se invierten los valores del mundo desde la perspectiva de Dios.
@@ -70,10 +78,6 @@ En *Jesús de Nazaret III*, Benedicto XVI aborda el Reino de Dios en el contexto
 
 **El Reino y la genealogía de Jesús.** En la interpretación de las genealogías de Mateo y Lucas, Benedicto XVI muestra que el Reino de Dios tiene raíces en la historia de Israel —la promesa a Abraham, el trono de David— pero que en Jesús se abre a la universalidad: «Haced discípulos de todos los pueblos» (Mt 28,19). La genealogía de Lucas, que desciende hasta Adán, indica que Jesús asume en sí la humanidad entera y le da un «nuevo rumbo».
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata el Reino de Dios como el reinado divino que Dios ejerce en las almas por la gracia santificante y especialmente en las almas justas. El Reino de Dios es una posesión santificante sobrenatural, íntima e inamisible. Cristo lo explica mediante parábolas: el grano de mostaza, la levadura, el tesoro escondido, la perla preciosa, la red marinera. La posesión del Reino pertenece a los que tienen humildad de espíritu, dolor de los pecados, afán de santidad, deseo de justicia, misericordia, limpieza de corazón y paciencia. Parafraseando a Bossuet y padre Faber: «El Reino de Dios es el estado de gracia santificante en las almas, y su Reina es la Santísima Virgen María».
-
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 El Denzinger recoge la fórmula del Símbolo Niceno según San Cirilo de Jerusalén (D-9): «y ha de venir con gloria a juzgar a los vivos y a los muertos, y el reino de Él no tendrá fin». Esta afirmación, tomada del Credo Niceno-Constantinopolitano, expresa la consumación escatológica del Reino de Dios que, instaurado por Cristo en su primera venida, alcanzará su plenitud sin fin en la parusía. La fórmula «Fe de Damaso» (D-16) añade la esperanza de «la vida eterna, premio de nuestro buen mérito».
@@ -93,10 +97,6 @@ Jesús no solo adoctrina sobre el Reino, sino que lo instaura con poder divino. 
 Juan Pablo II dedica varias catequesis al Reino de Dios. El Reino es el núcleo de la predicación de Jesús: «El tiempo se ha cumplido y el Reino de Dios está cerca; convertíos y creed en el Evangelio» (Mc 1,15). Jesús anuncia la Nueva Alianza prometida por Jeremías (Jer 31,31-34) y Ezequiel (Ez 34; 36). El Reino se explica mediante parábolas (sembrador, semilla de mostaza, cizaña, tesoro escondido, perla preciosa). Las bienaventuranzas son la magna carta del Reino (CJeS, primera parte: catequesis sobre el Reino de Dios). El Reino está ya presente en la persona y obra de Cristo, pero no ha alcanzado aún su plenitud: es un «ya» y un «todavía no». La conversión es la condición para entrar en el Reino. Cristo instituye la Iglesia como comunidad del Reino y confiere a Pedro las llaves del Reino (Mt 16,18-19). La Iglesia es el germen y el principio del Reino en la tierra (CJeS, cuarta parte: catequesis sobre la institución del Reino).
 
 Desde la perspectiva de la venida del Reino, Juan Pablo II subraya su realización en Cristo como cumplimiento de las promesas del AT (Daniel, Salmos). El Reino vence al poder del mal y del demonio: «si por el dedo de Dios expulso los demonios, es que el Reino de Dios ha llegado a vosotros» (Lc 11,20). Las parábolas del sembrador y de la semilla que crece por sí sola ilustran el crecimiento misterioso del Reino. Es un Reino trascendente y universal: «Mi Reino no es de este mundo» (Jn 18,36), como declara Jesús ante Pilato. Cristo es el [[buen_pastor]] que da la vida por las ovejas (CJeS, segunda parte: venida del Reino y fundación de la Iglesia).
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La entrada «Reino» del VocTeoBib desarrolla el tema desde el AT al NT. Yahveh reina sobre Israel como rey (Ex 15,18; Sal 24,7-10), constituyéndolo en «reino de sacerdotes» (Ex 19,6). Los profetas anuncian el reinado escatológico de Dios (Is 52,7; Dan 7). Jesús da al reino el primer puesto en su predicación (Mc 1,15; Mt 4,23); los milagros son signos de su presencia (Mt 12,28). El reino es un misterio que crece como la semilla (Mc 4,26-29), se da a los pobres y pequeños (Lc 12,32). Está presente pero espera su plenitud en el tiempo intermedio de la Iglesia. Cristo, Rey que no es de este mundo (Jn 18,36), es entronizado en la resurrección y entregará el reino al Padre al final (1Cor 15,24).
 
 ### Según San Francisco de Asís (SFrAs)
 

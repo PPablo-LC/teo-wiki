@@ -50,20 +50,6 @@ Los actos principales son:
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
-
-El don de temor es el fundamento de la vida espiritual.
-
-«El principio de la sabiduría es el temor de Jehová» (Proverbios 1,7). Este don es el fundamento de toda la vida cristiana. Sin temor de Dios no hay sabiduría, no hay humildad, no hay verdadera virtud.»
-
-El temor filial es diferente del miedo servil:
-
-«No es un temor de esclavos que temen el castigo, sino un temor de hijos que temen ofender a un Padre amado. El hijo no teme a su padre porque éste le castigue, sino porque le ama y no quiere dolerle. Así es el don de temor: es un temor nacido del amor.»
-
-Este don produce la humildad:
-
-«El don de temor nos hace ver nuestra propia nada delante de la infinita majestad de Dios. Es el origen de la verdadera humildad. El hombre que tiene este don no se engaña a sí mismo, no se sobreestima, reconoce sinceramente sus limitaciones y depende totalmente de la gracia de Dios.»
-
 ### Según la Summa Theologiae (SmTh)
 
 **IIª-IIae q.19 — El don de temor:**
@@ -95,6 +81,20 @@ Este don produce la humildad:
 **Cristo tuvo el don de temor (IIIª q.7 a.6):**
 
 Cristo tuvo el **don de temor**, pero no como temor de separación de Dios o de castigo (temor servil), sino como temor reverencial (temor filial) ante la infinita superioridad de la divinidad. Su alma humana se movía hacia Dios con afecto reverencial y sumiso, reconociendo la excelsa majestad divina. La carta a los Hebreos (5,7) dice que Cristo fue «escuchado por su reverencial temor». El don de temor se refiere al bien (la superioridad divina), no al mal. La [[caridad]] perfecta echa fuera el temor servil (que teme la pena), pero no el temor filial, que es compatible con la caridad perfectísima de Cristo.
+### Según Royo Marín (TPCr)
+
+El don de temor es el fundamento de la vida espiritual.
+
+«El principio de la sabiduría es el temor de Jehová» (Proverbios 1,7). Este don es el fundamento de toda la vida cristiana. Sin temor de Dios no hay sabiduría, no hay humildad, no hay verdadera virtud.»
+
+El temor filial es diferente del miedo servil:
+
+«No es un temor de esclavos que temen el castigo, sino un temor de hijos que temen ofender a un Padre amado. El hijo no teme a su padre porque éste le castigue, sino porque le ama y no quiere dolerle. Así es el don de temor: es un temor nacido del amor.»
+
+Este don produce la humildad:
+
+«El don de temor nos hace ver nuestra propia nada delante de la infinita majestad de Dios. Es el origen de la verdadera humildad. El hombre que tiene este don no se engaña a sí mismo, no se sobreestima, reconoce sinceramente sus limitaciones y depende totalmente de la gracia de Dios.»
+
 
 ## Distinciones importantes
 

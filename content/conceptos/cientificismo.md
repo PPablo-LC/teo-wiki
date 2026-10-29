@@ -23,7 +23,7 @@ Robert Barron critica esta reducción señalando que el éxito de la ciencia no 
 
 ## Perspectivas por fuente
 
-### Según Robert Barron, *Arguing Religion* (ARGREL)
+### Según Robert Barron, *Arguing Religión* (ARGREL)
 Barron define el cientificismo como la reducción de todo conocimiento a la forma científica de conocimiento. El éxito espectacular de la ciencia ha llevado a muchos a pensar que conocer = conocer científicamente, de modo que las afirmaciones religiosas serían irracionales o sin sentido. Frente a ello, Barron argumenta que hay múltiples formas legítimas de conocimiento (histórico, filosófico, moral, interpersonal). El hecho de que una afirmación no sea empíricamente verificable no implica que sea irracional o carente de sentido. El conocimiento de otra persona (y de Dios) incluye elementos de confianza que trascienden la mera observación.
 
 ## Distinciones importantes
@@ -42,6 +42,6 @@ Se relaciona con [[fe_y_razón]], [[teología_natural]], [[positivismo_lógico]]
 
 ## Referencias
 
-- Barron, Robert. *Arguing Religion: A Bishop Speaks at Facebook and Google* (Word on Fire, 2016), cap. 2.
+- Barron, Robert. *Arguing Religión: A Bishop Speaks at Facebook and Google* (Word on Fire, 2016), cap. 2.
 - Ayer, A.J. *Language, Truth and Logic* (1936).
 - McGrath, Alister E. *Scientific Theology*, vol. 1.

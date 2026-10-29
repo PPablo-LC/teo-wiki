@@ -27,12 +27,6 @@ El salmo expresa la confesión de un pecador que reconoce su culpa ante Dios y a
 
 ## Perspectivas por fuente
 
-### Según Memoria e Identidad (MI)
-
-Juan Pablo II cita extensamente el Salmo Miserere en su reflexión sobre el misterio de la misericordia. «Estas palabras no necesitan comentarios. Hablan por sí solas y revelan la verdad de la fragilidad moral del hombre. Se declara culpable ante Dios porque sabe que el pecado es contrario a la santidad de su Creador. Pero el hombre pecador sabe también que Dios es misericordia y que su misericordia es infinita» [MI, cap. 10].
-
-El Salmo Miserere ilustra la relación entre justicia y misericordia: David es condenado por su pecado, pero acude a la misericordia de Dios que «está dispuesto a perdonar y justificar una y otra vez al pecador» [MI, cap. 10].
-
 ### Según el Catecismo (CEC)
 
 El Catecismo cita el Miserere en relación con la penitencia y la conversión: «Los que se acercan al sacramento de la Penitencia obtienen el perdón de sus pecados contra Dios, así como la paz y la serenidad de la conciencia» (CEC §1422). La confesión de los pecados es «necesaria» para obtener el perdón (§1482).
@@ -40,6 +34,12 @@ El Catecismo cita el Miserere en relación con la penitencia y la conversión: �
 ### Según la Summa Theologiae (SmTh)
 
 El Salmo Miserere ilustra la doctrina de la justificación: el pecador se reconoce culpable y acude a la misericordia divina, que opera su conversión y renovación. La petición «crea en mí un corazón puro» expresa la infusión de la gracia santificante que transforma el alma.
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II cita extensamente el Salmo Miserere en su reflexión sobre el misterio de la misericordia. «Estas palabras no necesitan comentarios. Hablan por sí solas y revelan la verdad de la fragilidad moral del hombre. Se declara culpable ante Dios porque sabe que el pecado es contrario a la santidad de su Creador. Pero el hombre pecador sabe también que Dios es misericordia y que su misericordia es infinita» [MI, cap. 10].
+
+El Salmo Miserere ilustra la relación entre justicia y misericordia: David es condenado por su pecado, pero acude a la misericordia de Dios que «está dispuesto a perdonar y justificar una y otra vez al pecador» [MI, cap. 10].
+
 
 ## Relaciones doctrinales
 

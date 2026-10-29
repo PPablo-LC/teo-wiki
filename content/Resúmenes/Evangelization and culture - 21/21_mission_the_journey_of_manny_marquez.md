@@ -22,7 +22,7 @@ Entrevista con Manny Marquez, cineasta católico y miembro del Word on Fire Inst
 
 ### Orígenes y fe
 
-Manny creció en Tulsa, Oklahoma, en el «Cinturón de la Biblia», como católico devoto. Sus padres preferían la Misa Tradicional en Latin (FSSP), y él fue maestro de ceremonias durante casi diez años, considerando incluso el sacerdocio. Aunque ya no asiste a la TLM, sus padres sí lo hacen. Su diócesis de Tulsa se distingue por su fervor católico, sus obispos y sacerdotes enraizados en la ortodoxia, y la cultura católica bien ordenada.
+Manny creció en Tulsa, Oklahoma, en el «Cinturón de la Biblia», como católico devoto. Sus padres preferían la Misa Tradicional en Latín (FSSP), y él fue maestro de ceremonias durante casi diez años, considerando incluso el sacerdocio. Aunque ya no asiste a la TLM, sus padres sí lo hacen. Su diócesis de Tulsa se distingue por su fervor católico, sus obispos y sacerdotes enraizados en la ortodoxia, y la cultura católica bien ordenada.
 
 ### Herencia étnica
 

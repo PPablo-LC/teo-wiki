@@ -13,7 +13,7 @@ description: "Primer volumen de la trilogía de Benedicto XVI sobre Jesús: de l
 ## Ficha técnica
 
 - **Autor:** Benedicto XVI (Joseph Ratzinger)
-- **Título original:** *Jesus von Nazareth. Von der Taufe im Jordan bis zur Verklärung*
+- **Título original:** *Jesús von Nazareth. Von der Taufe im Jordán bis zur Verklärung*
 - **Publicación:** 2007
 - **Código en el wiki:** JdN_I
 - **Raw:** `raw/Bases_doctrinales-raw/Jesus_de_Nazaret_I/`

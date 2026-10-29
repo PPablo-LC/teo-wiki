@@ -1,60 +1,36 @@
 ---
 type: Concepto Teológico
-title: Confesión de la fe
-tags: ["dogmática"]
-
-timestamp: 2026-05-22
-description: "La confesión de la fe (o profesión de fe) es el acto por el cual el creyente, personal y comunitariamente."
+title: "Confesión de la fe (remisión)"
+tags: ["dogmática", "eclesiología"]
+timestamp: 2026-10-29
+description: "Remisión: el artículo sobre la confesión de fe, con todas sus fuentes, está en [[confesión_de_fe]]."
 ---
-# Confesión de la fe
+# Confesión de la fe (remisión)
 
-> Área: Dogmática
-> Última actualización: 2026-05-22
+> Área: Dogmática / Eclesiología
+> Última actualización: 2026-10-29
 
 ## Definición
 
-La confesión de la fe (o profesión de fe) es el acto por el cual el creyente, personal y comunitariamente, manifiesta y proclama las verdades reveladas que ha recibido de la Iglesia como palabra de Dios, adhiriéndose a ellas con la inteligencia y la voluntad.
+La confesión de la fe —o profesión de fe— es el acto por el cual el creyente, personal y comunitariamente, manifiesta y proclama las verdades reveladas que ha recibido de la Iglesia como palabra de Dios, adhiriéndose a ellas con la inteligencia y la voluntad.
 
-## Desarrollo doctrinal
+## Artículo principal
 
-La confesión de la fe es un acto eclesial que se expresa en los Símbolos de la fe (Credo), que son fórmulas normativas que recogen las verdades fundamentales del [[depósito_de_la_fe]]. El «Yo creo» personal se inserta en el «Nosotros creemos» de la Iglesia.
+Este concepto se desarrolla por completo en **[[confesión_de_fe]]**, que reúne las raíces neotestamentarias (Rm 10,9; Flp 2,11; 1 Co 12,3), la confesión de Pedro, la formación de los Símbolos en Nicea y Constantinopla y las perspectivas del Catecismo y de Royo Marín.
 
-Los primeros cristianos manifestaban su fe en el Bautismo mediante una profesión trinitaria. Los Símbolos de la fe (Apostólico, Niceno-Constantinopolitano, Atanasiano) surgieron para transmitir íntegra la fe recibida de los Apóstoles y defenderla de las herejías.
-
-## Perspectivas por fuente
-
-### Según el Catecismo (CEC)
-
-«La comunión en la fe necesita un lenguaje común de la fe, normativo para todos y que nos una en la misma confesión de fe» (§185).
-
-«La Iglesia, que es "columna y fundamento de la verdad", guarda fielmente "la fe transmitida a los santos de una vez para siempre". Ella es la que guarda la memoria de las palabras de Cristo, la que transmite de generación en generación la confesión de fe de los apóstoles» (§171).
-
-Los Símbolos de la fe son «profesiones de fe» que recogen las verdades fundamentales (§185-197).
-
-### Según Royo Marín (TPCr)
-
-La profesión de fe es uno de los vínculos de la incorporación plena a la Iglesia: «Están plenamente incorporados a la sociedad que es la Iglesia aquellos que, teniendo el Espíritu de Cristo, aceptan íntegramente su constitución y todos los medios de salvación establecidos en ella y están unidos, dentro de su estructura visible, a Cristo, que la rige por medio del Sumo Pontífice y de los obispos, mediante los lazos de la profesión de la fe, de los sacramentos, del gobierno eclesiástico y de la comunión» (TPCr, Primera Parte, Cap. V).
-
-## Distinciones importantes
-
-- **Confesión de fe bautismal**: la que se hace en el Bautismo
-- **Símbolos de la fe**: fórmulas normativas como el Credo
-- **Profesión de fe personal**: acto individual de adhesión a la verdad revelada
-- **Confesión de los pecados**: reconocimiento de los pecados ante el sacerdote (sacramento de la Penitencia)
-
-## Relaciones doctrinales
-
-- Se funda en la [[virtud_de_la_fe]]
-- Se expresa en los [[símbolos_de_la_fe]]
-- Custodia el [[depósito_de_la_fe]]
-- Es acto del [[carácter_eclesial_de_la_fe]]
+Su contenido único —las citas del CEC §185 («un lenguaje común de la fe, normativo para todos») y §171 (la Iglesia transmite de generación en generación la confesión de fe de los apóstoles), la enumeración de los tres Símbolos (Apostólico, Niceno-Constantinopolitano y Atanasiano) y el texto de Royo Marín sobre la profesión de fe como uno de los vínculos de incorporación plena a la Iglesia (TPCr, Primera Parte, Cap. V)— se integró en ese artículo.
 
 ## Ver también
 
-[[virtud_de_la_fe]], [[símbolos_de_la_fe]], [[depósito_de_la_fe]], [[carácter_eclesial_de_la_fe]], [[bautismo]], [[magisterio_de_la_iglesia]]
+- [[confesión_de_fe]]
+- [[fe]]
+- [[símbolo_de_la_fe]]
+- [[depósito_de_la_fe]]
+- [[iglesia]]
 
 ## Referencias
 
 - CEC §185-197; §14-15; §171; §424-425
 - Símbolo Niceno-Constantinopolitano
 - Símbolo de los Apóstoles
+- [TPCr, Primera Parte, Cap. V]

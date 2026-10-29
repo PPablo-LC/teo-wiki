@@ -21,6 +21,16 @@ La alegría cristiana es un fruto de la caridad y un signo de la autenticidad de
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC enseña que la alegría es fruto del Espíritu Santo (§§736, 1832) y que el cristiano puede participar de la alegría del Señor incluso en el sufrimiento (§301). La bienaventuranza eterna es la alegría perfecta y sin fin (§§1720-1724).
+
+### Según Royo Marín (TPCr)
+
+Royo Marín trata la alegría espiritual como efecto de la inhabitación del Espíritu Santo en el alma justa y como signo de la presencia de la gracia santificante. El alma que progresa en la perfección cristiana experimenta una alegría creciente como anticipo de la gloria futura. La alegría perfecta se alcanza en la unión transformante [TPCr, obra completa].
+
+Advierte también sobre los peligros de la «necia alegría» (*inepta laetitia*), que se entrega a diversiones ilícitas, y sobre la necesidad de no confundir los transportes de alegría espiritual con una efervescencia meramente natural: la dirección espiritual debe conceder «poquísima importancia a todas estas otras cosas, sobre todo si ve que el dirigido se la concede demasiado» (TPCr, Tercera Parte, Libro II, cap. III).
+
 ### Según La vocación explicada (VocExpl)
 
 Juan Pablo II desarrolla la alegría cristiana en el contexto de la respuesta vocacional generosa. La presentó como el fruto natural de acoger la llamada de Cristo sin reservas: «Comprendéis que os hablo de cosas muy importantes: se trata de dedicar la vida entera al servicio de Dios y de la Iglesia, con fe segura, con convicción madura y decisión libre, con generosidad a toda prueba y sin arrepentimiento» [VocExpl, §La alegría de ser generosos]. JPII afirma que el gozo de la entrega está garantizado por la promesa de Cristo: «Estad seguros de que si le escuchaseis y le siguieseis os sentiríais llenos de gozo y alegría» [VocExpl, §La alegría de ser generosos]. La alegría de la vocación no elimina la dificultad: «el amor de Cristo exige generosidad y sacrificio. […] No temáis cuando el amor requiera sacrificio» [VocExpl, §La vocación es siempre apostólica].
@@ -45,19 +55,9 @@ El padre de la parábola del hijo pródigo celebra el retorno del hijo con «una
 
 Las Bienaventuranzas prometen una alegría que es la misma de Jesús: «una alegría buscada y encontrada en la obediencia al Padre y en la entrega de sí mismo al prójimo» [VJ, §La luminosa vida pública de Jesús]. La alegría cristiana no es euforia, sino fruto de la conformación con Cristo.
 
-### Según Royo Marín (TPCr)
+### Según la Ecclesia in América (EA)
 
-Royo Marín trata la alegría espiritual como efecto de la inhabitación del Espíritu Santo en el alma justa y como signo de la presencia de la gracia santificante. El alma que progresa en la perfección cristiana experimenta una alegría creciente como anticipo de la gloria futura. La alegría perfecta se alcanza en la unión transformante [TPCr, obra completa].
-
-Advierte también sobre los peligros de la «necia alegría» (*inepta laetitia*), que se entrega a diversiones ilícitas, y sobre la necesidad de no confundir los transportes de alegría espiritual con una efervescencia meramente natural: la dirección espiritual debe conceder «poquísima importancia a todas estas otras cosas, sobre todo si ve que el dirigido se la concede demasiado» (TPCr, Tercera Parte, Libro II, cap. III).
-
-### Según la Ecclesia in America (EA)
-
-La *Ecclesia in America* presenta la alegría cristiana como fruto de la evangelización y de la vida comunitaria: «La Iglesia, transmitiendo el don de la verdad y de la gracia de Jesucristo, está llamada a ser en América signo e instrumento de esperanza y alegría» (EA §4). La alegría brota del encuentro personal con Cristo, de la pertenencia a la Iglesia y de la solidaridad con los últimos (EA §34).
-
-### Según el Catecismo (CEC)
-
-El CEC enseña que la alegría es fruto del Espíritu Santo (§§736, 1832) y que el cristiano puede participar de la alegría del Señor incluso en el sufrimiento (§301). La bienaventuranza eterna es la alegría perfecta y sin fin (§§1720-1724).
+La *Ecclesia in América* presenta la alegría cristiana como fruto de la evangelización y de la vida comunitaria: «La Iglesia, transmitiendo el don de la verdad y de la gracia de Jesucristo, está llamada a ser en América signo e instrumento de esperanza y alegría» (EA §4). La alegría brota del encuentro personal con Cristo, de la pertenencia a la Iglesia y de la solidaridad con los últimos (EA §34).
 
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
@@ -66,7 +66,7 @@ El CEC enseña que la alegría es fruto del Espíritu Santo (§§736, 1832) y qu
 - **Valor de lo innecesario:** C.S. Lewis: el humor «no tiene valor de supervivencia; es de esas cosas que dan valor a la supervivencia» (*Los cuatro amores*).
 - **Coraje para regocijarse:** Benedicto XVI: «La alegría sin pudor se ha vuelto más rara… la pérdida de alegría no mejora el mundo… [hace falta] coraje para regocijarse» (*Salt of the Earth*).
 - **Escuela de la Alegría Cristiana:** la habitación de San Felipe Neri era conocida así; su consejo: «Hijo mío, persevera en esa alegría, porque este es el verdadero camino para progresar en virtud».
-- **La risa como eco del gozo divino:** Chesterton: quizá Dios retuvo un poco su jovialidad para protegernos de su éxtasis; «nuestra risa es eco del gozo inestimable de nuestro Padre». Reímos «porque es nuestra respuesta encarnada al gozo. ¡Gracias sean dadas a Dios!» (Angel).
+- **La risa como eco del gozo divino:** Chesterton: quizá Dios retuvo un poco su jovialidad para protegernos de su éxtasis; «nuestra risa es eco del gozo inestimable de nuestro Padre». Reímos «porque es nuestra respuesta encarnada al gozo. ¡Gracias sean dadas a Dios!» (Ángel).
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
@@ -76,7 +76,7 @@ Su fuente es la vida espiritual: «para el alma que ama a Dios y tiene su concie
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Giussani presenta la *letizia* como «un lascito di Gesù»: «Vi ho detto tutto quello che vi ho detto perché la mia gioia sia in voi e la vostra gioia sia piena» (Gv 15,11), palabras pronunciadas «poche ore prima d'essere fatto prigioniero e ammazzato». La letizia, afirma, «può esser data solo da una chiarezza, da qualcosa che al cuore appare chiaro, cui il cuore può accedere con umiltà, riconoscendo i propri limiti»; su fuente es «questa compagnia, che da Cristo proviene», en la que se realiza «un'opera che eccede le mani che la fanno, le mani umane che la compiono» (TACDC, 04, L33).
+Giussani presenta la *letizia* como «un lascito di Gesù»: «Vi ho detto tutto quello che vi ho detto perché la mía gioia sia in voi e la vostra gioia sia piena» (Gv 15,11), palabras pronunciadas «poche ore prima d'essere fatto prigioniero e ammazzato». La letizia, afirma, «può esser data solo da una chiarezza, da qualcosa che al cuore appare chiaro, cui il cuore può accedere con umiltà, riconoscendo i propri limiti»; su fuente es «questa compagnia, che da Cristo proviene», en la que se realiza «un'opera che eccede le mani che la fanno, le mani umane che la compiono» (TACDC, 04, L33).
 
 ## Distinciones importantes
 

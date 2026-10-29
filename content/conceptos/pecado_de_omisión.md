@@ -23,6 +23,13 @@ Aunque el pecado de omisión puede darse sin acto exterior, suele implicar algú
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Se puede pecar por omisión cuando no se hace lo que se debe hacer (CEC §1853). Jesús denuncia los pecados de omisión en el juicio final: «Porque tuve hambre y no me disteis de comer» (Mt 25,42). El Catecismo reconoce que ciertos pecados pueden cometerse por acción y otros por omisión.
+
+### Según el Código de Derecho Canónico (CIC)
+
+El canon 1321 §2 establece que quien infringió deliberadamente la ley queda sujeto a la pena, mientras que quien lo hizo por omisión de la debida diligencia no debe ser castigado a no ser que la ley disponga otra cosa. La omisión se reconoce como forma de infracción penal canónica.
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.71 a.5 — ¿Se requiere algún acto en todo pecado?**
@@ -35,13 +42,6 @@ Santo Tomás concluye que, esencialmente, algún pecado puede darse sin acto, pu
 
 **Q.71 a.6 — La definición de pecado incluye la omisión:** La afirmación y la negación se reducen al mismo género. Por eso en la definición «dicho, hecho o deseo contra la ley eterna» se entienden también el no-dicho, no-hecho y no-deseado. El pecado de omisión queda así incluido.
 
-### Según el Catecismo (CEC)
-
-Se puede pecar por omisión cuando no se hace lo que se debe hacer (CEC §1853). Jesús denuncia los pecados de omisión en el juicio final: «Porque tuve hambre y no me disteis de comer» (Mt 25,42). El Catecismo reconoce que ciertos pecados pueden cometerse por acción y otros por omisión.
-
-### Según el Código de Derecho Canónico (CIC)
-
-El canon 1321 §2 establece que quien infringió deliberadamente la ley queda sujeto a la pena, mientras que quien lo hizo por omisión de la debida diligencia no debe ser castigado a no ser que la ley disponga otra cosa. La omisión se reconoce como forma de infracción penal canónica.
 
 ## Distinciones importantes
 

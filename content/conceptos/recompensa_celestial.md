@@ -5,7 +5,7 @@ description: "El galardón sobrenatural que Dios otorga en el cielo a sus fieles
 ---
 # Recompensa celestial
 
-> Area: Escatologia
+> Área: Escatología
 > Ultima actualización: 2026-06-03
 
 ## Definición
@@ -14,7 +14,7 @@ El galardón sobrenatural que Dios otorga en el cielo a sus fieles servidores po
 
 ## Desarrollo doctrinal
 
-La recompensa celestial, también llamada premio eterno o corona de gloria, es prometida repetidamente en la Sagrada Escritura (Mt 5,12; 6,20; 25,34-46; 2 Tim 4,8; St 1,12; Ap 22,12). La teologia distingue entre la recompensa esencial (la vision beatifica de Dios, que es proporcionada al grado de caridad con que se muere) y la recompensa accidental (la alegria adicional que resulta del recuerdo y reconocimiento de las buenas obras). Cristo mismo promete que el Padre «recompensara» a los que obran el bien en secreto.
+La recompensa celestial, también llamada premio eterno o corona de gloria, es prometida repetidamente en la Sagrada Escritura (Mt 5,12; 6,20; 25,34-46; 2 Tim 4,8; St 1,12; Ap 22,12). La teología distingue entre la recompensa esencial (la visión beatifica de Dios, que es proporcionada al grado de caridad con que se muere) y la recompensa accidental (la alegría adicional que resulta del recuerdo y reconocimiento de las buenas obras). Cristo mismo promete que el Padre «recompensara» a los que obran el bien en secreto.
 
 ## Perspectivas por fuente
 
@@ -35,7 +35,7 @@ Christian Bobak (men_of_integrity.md) relaciona la recompensa celestial con el r
 ## Distinciones importantes
 
 - Recompensa celestial vs premio eterno (terminos sinónimos)
-- Recompensa esencial (vision beatifica) vs accidental (recuerdo de obras)
+- Recompensa esencial (visión beatifica) vs accidental (recuerdo de obras)
 - Merito de condigno vs merito de congruo
 
 ## Relaciones doctrinales

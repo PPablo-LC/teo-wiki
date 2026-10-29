@@ -38,7 +38,7 @@ tags: ["resumen", "persona", "felicidad", "encuentro", "compañía"]
 ## El brivido de *La Favorita* y el punto di fuga
 
 - En clase de canto, el tenor Tito Schipa canta un aria de *La Favorita* de Donizetti: «Spirito gentil, ne' sogni miei, brillasti un dì, ma ti perdei». «Dalla prima nota a me è venuto un brivido».
-- Ese brivido revela «lo struggimento ultimo che definisce il cuore dell'uomo quando non è distratto da vanità che si bruciano in pochi istanti»: «qualcosa che mancava non al canto bellissimo […] ma alla mia vita».
+- Ese brivido revela «lo struggimento ultimo che definisce il cuore dell'uomo quando non è distratto da vanità che si bruciano in pochi istanti»: «qualcosa che mancava non al canto bellissimo […] ma alla mía vita».
 - Leopardi, *Aspasia*: «Non è la tua faccia che io desidero, è qualcosa che sta dentro la tua faccia»; «c'è come un punto di fuga». El instinto es «il modo più bieco di chiudersi a questa apertura».
 
 ## La dignidad del yo: la palabra «felicidad»
@@ -49,7 +49,7 @@ tags: ["resumen", "persona", "felicidad", "encuentro", "compañía"]
 ## Los padres y la religión: los lugares donde se toma en serio la felicidad
 
 - «il papà e la mamma non possono non desiderare la felicità del loro figlio e darebbero la vita per lui»; pero ese lugar es «così breve, così impotente, così fragile». «non c'è religiosità autentica se non si prende sul serio la parola “io”»; «Che darà l'uomo in cambio di se stesso?» (*Mt* 16,26).
-- La oración ambrosiana: «Custodisci sopra ogni cosa il tuo cuore; fluisce dal cuore la vita». «Il cuore è quel fenomeno della natura in cui la natura arriva a dire “io”»; está hecho de «esigenza di felicità» y «Tale esigenza è presa sul serio solo nella Chiesa di Cristo».
+- La oración ambrosiana: «Custodisci sopra ogni cosa il tuo cuore; fluisce dal cuore la vita». «Il cuore è quel fenómeno della natura in cui la natura arriva a dire “io”»; está hecho de «esigenza di felicità» y «Tale esigenza è presa sul serio solo nella Chiesa di Cristo».
 
 ## Fedeltad al cuore y cómo vencer el miedo
 
@@ -58,7 +58,7 @@ tags: ["resumen", "persona", "felicidad", "encuentro", "compañía"]
 ## El avvenimento de Cristo y la compañía
 
 - La parábola del ponte: entre las mil empresas que construyen «il ponte tra l'effimero che viviamo e il senso permanente», un hombre solo grita «Fermatevi!» y dice: «*Io* sono il Destino a cui voi cercate di arrivare […] *io sono la via, la verità, la vita*» (*Gv* 14,6). «Molta gente ha detto: *“Io* vi indico la via”, come Buddha, come Maometto, ma nessuno ha osato dire: “Io sono la via”».
-- Kierkegaard: la contemporaneidad; «Rapportarsi a un defunto, è un rapporto estetico: la sua vita ha perduto il pungolo». «Quell'avvenimento deve essere presente»: «Io sarò con voi tutti i giorni fino alla fine del mondo» (*Mt* 28,20).
+- Kierkegaard: la contemporaneidad; «Rapportarsi a un defunto, è un rapporto estético: la sua vita ha perduto il pungolo». «Quell'avvenimento deve essere presente»: «Io sarò con voi tutti i giorni fino alla fine del mondo» (*Mt* 28,20).
 - «Cristo è dentro la compagnia di coloro che lo hanno udito e gli hanno detto “sì”, lo riconoscono e sono insieme perché c'è Lui».
 
 ## «Siamo un popolo» y la misión

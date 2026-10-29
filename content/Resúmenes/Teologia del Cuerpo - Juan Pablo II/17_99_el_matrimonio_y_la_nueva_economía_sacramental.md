@@ -4,7 +4,7 @@ title: "99. El matrimonio y la nueva economía sacramental"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 17
 timestamp: 2026-08-01
-description: "Catequesis 99: el matrimonio como prototipo y parte integral de la nueva economía sacramental surgida de la redención, y el sentido amplio de «sacramento» en Ef 5 — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 99: el matrimonio como prototipo y parte integral de la nueva economía sacramental surgida de la redención, y el sentido amplio de «sacramento» en Ef 5 — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

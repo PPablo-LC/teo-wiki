@@ -25,7 +25,7 @@ El drama de la relación humana está en que uno «quiere» al otro, es decir, t
 
 ### Giussani — Affezione e dimora (AED)
 
-En la Tischrede 76 se formula el principio: «El signo es un acontecimiento... en cambio, una relación, en la medida en que no es signo, se convierte en posesión, y la posesión es una pretensión de definición» (AED, 09, 23). Y añade: «Una relación es tanto más tuya cuanto más te hace avanzar hacia tu destino... una relación es tanto menos tuya cuanto más pretendes poseerla» (AED, 09, 23).
+En la Tischrede 76 se fórmula el principio: «El signo es un acontecimiento... en cambio, una relación, en la medida en que no es signo, se convierte en posesión, y la posesión es una pretensión de definición» (AED, 09, 23). Y añade: «Una relación es tanto más tuya cuanto más te hace avanzar hacia tu destino... una relación es tanto menos tuya cuanto más pretendes poseerla» (AED, 09, 23).
 
 En la Tischrede 129 se presenta la posesión verdadera: «La posesión verdadera del otro coincide con la posesión que tienes de Cristo, o con la posesión que Cristo tiene de ti, que es lo mismo» (AED, 15, 173). De ahí la consecuencia: «Cuanto más ama uno al otro, tanto más experimenta la relación con el otro como dolor, como dolor hasta la muerte» (AED, 15, 171-173). El origen del drama «está en que uno quiere al otro, y esto debe ser invertido» (AED, 15, 171).
 
@@ -59,5 +59,5 @@ La posesión se opone y se ordena a [[signo]], tiene en [[sacrificio]] su condic
 - AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
 - AED, 09, 23 — Tischrede 76: *L'implicazione totalizzante* — el opuesto del signo es la posesión.
 - AED, 15, 171-173 — Tischrede 129: *Il cuore della questione* — la posesión verdadera del otro.
-- AED, 16, 53-107 — Tischrede 44: *Secondo l'armonia generale* — el sacrificio como condición de la posesión verdadera.
+- AED, 16, 53-107 — Tischrede 44: *Secondo l'armonía generale* — el sacrificio como condición de la posesión verdadera.
 - AED, 22, 119 — Tischrede 102: *L'adorazione possibile* — un possesso con distacco dentro (la virginidad).

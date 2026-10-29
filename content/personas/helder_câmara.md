@@ -21,9 +21,9 @@ En septiembre de 1968, poco después de la publicación de *Humanae vitae*, el o
 
 > «Le masse del nostro continente, ma anche quelle africane ed asiatiche —
 > sarebbero state ben presto ingozzate e affogate di pillole, se Paolo VI non
-> avesse scritto quell'enciclica» (septiembre de 1968).
+> avesse scritto quell'encíclica» (septiembre de 1968).
 
-Sicari encuadra esta denuncia en el «colonialismo o imperialismo demografico»: la
+Sicari encuadra esta denuncia en el «colonialismo o imperialismo demográfico»: la
 conjunción que separa la vida sexual de la procreación, admitida dentro de la
 familia, puede volverse instrumento de coerción estatal sobre poblaciones
 enteras, hasta el punto de que un Estado impone a otro —«stati succubi»—

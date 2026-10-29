@@ -23,7 +23,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## LEON XI, 1605 PAULO V, 1605-1621
+## LEÓN XI, 1605 PAULO V, 1605-1621
 
 ## De los auxilios o de la eficacia de la gracia (3) [De la fórmula enviada a los Superiores Generales de la Orden de Predicadores y de la Compañía de Jesús, el 5 de septiembre de 1607, para poner fin a las disputas]
 
@@ -34,7 +34,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## LEON XI, 1605 PAULO V, 1605-1621
+## LEÓN XI, 1605 PAULO V, 1605-1621
 
 Contexto de los pontificados de León XI y Paulo V.
 

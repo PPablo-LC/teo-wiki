@@ -87,19 +87,13 @@ El CIC regula el matrimonio en los cánones 1055-1165. La alianza matrimonial en
 
 El CIC dedica los cc. 1671-1707 a las causas matrimoniales dentro del Libro VII sobre procesos. Las causas matrimoniales de los bautizados corresponden al juez eclesiástico por derecho propio (c. 1671). Para las causas de nulidad matrimonial son competentes: el tribunal del lugar donde se celebró el matrimonio, el del domicilio del demandado, el del domicilio de la parte actora si ambas residen en el territorio de la misma Conferencia Episcopal, y el tribunal donde han de recogerse la mayor parte de las pruebas (c. 1673). Están hábiles para impugnar el matrimonio los cónyuges y el promotor de justicia cuando la nulidad se ha divulgado (c. 1674). El juez debe emplear medios pastorales para inducir a los cónyuges a convalidar su matrimonio antes de aceptar la causa (c. 1676). La sentencia que declara la nulidad debe transmitirse de oficio al tribunal de apelación (c. 1682). Cuando la sentencia es confirmada en apelación, los cónyuges pueden contraer nuevas nupcias (c. 1684). Existe un proceso documental para casos donde consta la nulidad por documento cierto (cc. 1686-1688). La dispensa del matrimonio rato y no consumado solo puede concederla el Romano Pontífice (cc. 1697-1706). La separación personal de los cónyuges puede decidirse por decreto del Obispo diocesano o por sentencia del juez (c. 1692). Para la muerte presunta del cónyuge se requiere declaración del Obispo diocesano tras investigaciones que proporcionen certeza moral (c. 1707).
 
-### Según la Familiaris Consortio (FC)
-
-Dios ha creado al hombre a su imagen y semejanza, llamándolo a la existencia por amor y al mismo tiempo al amor (FC §11). El amor es la vocación fundamental e innata de todo ser humano (FC §11). La Revelación cristiana conoce dos modos específicos de realizar esta vocación: el Matrimonio y la Virginidad (FC §11).
-
-El único «lugar» que hace posible la donación total entre el hombre y la mujer es el matrimonio, el pacto de amor conyugal o elección consciente y libre, con la que el hombre y la mujer aceptan la comunidad íntima de vida y amor querida por Dios mismo (FC §11). La institución matrimonial no es una ingerencia indebida de la sociedad o de la autoridad, sino exigencia interior del pacto de amor conyugal (FC §11).
-
-Jesucristo revela la verdad original del matrimonio, la verdad del «principio» y, liberando al hombre de la dureza del corazón, lo hace capaz de realizarla plenamente (FC §13). El matrimonio de los bautizados se convierte así en el símbolo real de la nueva y eterna Alianza, sancionada con la sangre de Cristo (FC §13). En virtud de la sacramentalidad de su matrimonio, los esposos quedan vinculados uno a otro de la manera más profundamente indisoluble (FC §13).
-
-Los esposos cristianos tienen el derecho de esperar de las personas vírgenes el buen ejemplo y el testimonio de la fidelidad a su vocación hasta la muerte (FC §16).
-
 ### Según el Compendio (CompDS)
 
 La familia, fundada en el matrimonio entre un hombre y una mujer, es la primera sociedad natural, titular de derechos propios y originarios [CompDS §211]. El matrimonio tiene su fundamento en la libre voluntad de los cónyuges, respetando el significado y valores propios de esta institución que no depende del hombre sino de Dios mismo [CompDS §215]. Ningún poder puede abolir el derecho natural al matrimonio ni modificar sus características ni su finalidad [CompDS §216]. Sus rasgos característicos son: totalidad, unidad, indisolubilidad, fidelidad y fecundidad [CompDS §217]. El matrimonio, en su verdad objetiva, está ordenado a la procreación y educación de los hijos [CompDS §218]. Por institución de Cristo, los bautizados viven la realidad del matrimonio en la forma sobrenatural del sacramento [CompDS §219-220]. La Iglesia reafirma la complementariedad entre hombre y mujer, y rechaza la equiparación de las uniones homosexuales con el matrimonio [CompDS §224-228]. La indisolubilidad del matrimonio es un bien que debe ser protegido por la sociedad, y el divorcio es una «verdadera plaga social» [CompDS §225].
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Matrimonio»] En el AT, el matrimonio es instituido por Dios desde la creación: «una sola carne» (Gen 2,24), ordenado a la ayuda mutua y la fecundidad (Gen 1,28). La ley mosaica lo regula por la dureza de los corazones (Dt 24,1s), tolerando la poligamia y el repudio. Los profetas elevan el ideal: Mal 2,14ss condena el repudio; Tob 8,4-9 presenta el matrimonio fundado en la oración. En el NT, Jesús lo restaura a la indisolubilidad original (Mt 19,1-9) y lo eleva a sacramento, imagen de la unión de Cristo y la Iglesia (Ef 5,32). Pablo distingue entre matrimonio y virginidad, recomendando esta última por el Reino (1Cor 7).
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
@@ -108,22 +102,6 @@ Lumen Gentium presenta el [[matrimonio]] cristiano en LG §11. Los cónyuges cri
 Del matrimonio procede la familia, que es «una especie de Iglesia doméstica» ([[iglesia_doméstica]]) [ConcVatII, LG §11]. Los esposos cristianos, siguiendo su propio camino, mediante la fidelidad en el amor deben sostenerse mutuamente en la gracia y educar a los hijos en la doctrina cristiana, ofreciendo a todos el ejemplo de un amor generoso [ConcVatII, LG §41].
 
 *Gaudium et Spes* dedica el Capítulo I de la Segunda Parte a la dignidad del matrimonio y la familia (GS 47-52). GS 48: La íntima comunidad conyugal de vida y amor se establece sobre la alianza de los cónyuges, sobre su consentimiento personal e irrevocable. «Dios es el autor del matrimonio, al cual ha dotado con bienes y fines varios.» El matrimonio y el amor conyugal están ordenados por sí mismos a la procreación y educación de la prole. Cristo bendijo este amor y elevó el matrimonio a sacramento, haciéndolo imagen de su unión con la Iglesia. GS 49: El amor conyugal es «eminentemente humano, ya que va de persona a persona con el afecto de la voluntad, abarca el bien de toda la persona». GS 50: Los hijos son «el don más excelente del matrimonio». Los cónyuges son cooperadores del amor de Dios Creador. GS 51: El aborto y el infanticidio son crímenes abominables. «La vida desde su concepción ha de ser salvaguardada con el máximo cuidado.» [ConcVatII, GS §47-52].
-
-### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
-
-Tóth subraya que la vida sexual solo es santa cuando se ejercita en el matrimonio indisoluble. Si Dios permitió que esta tendencia fuese satisfecha solamente dentro del matrimonio, fue para que la mujer no se rebajase y para que el amor conyugal estuviera al servicio de la vida. «Solamente en el matrimonio es «santa» la vida sexual, porque sólo en él no perjudica a la parte más noble de todo hombre: el alma» [PyH, cap. 1]. De ahí que toda satisfacción de esa tendencia fuera del matrimonio sea un atentado contra la dignidad de la persona y contra los planes divinos. «Dios no permite la unión de ambos sexos sino dentro de las formas prescritas por El; es a saber: en el matrimonio indisoluble, y aún en éste, sólo con el fin primario de dar vida al hijo» [PyH, cap. 1].
-
-### Según Royo Marín (TPCr)
-
-El matrimonio es «el sacramento del amor conyugal y de la sociedad natural».
-
-«Aunque el estado de virginidad es más excelente y más perfecto absolutamente, el matrimonio tiene su propia excelencia y santidad cuando se vive según el espíritu de Cristo. Es el medio santísimo para muchos cristianos de alcanzar la perfección, cumpliendo los deberes de su estado con fidelidad y caridad.»
-
-Sobre la indisolubilidad:
-«Nuestro Señor restauró la indisolubilidad primitiva del matrimonio, que había sido relajada por Moisés por la dureza del corazón de los hombres. El matrimonio cristiano no es contrato revocable, sino vínculo sagrado que dura mientras vivan los cónyuges. Esta indisolubilidad es necesaria para la estabilidad de la familia y para la educación de los hijos.»
-
-Sobre la gracia sacramental:
-«El matrimonio da derecho a auxilios especiales. Los cónyuges cristianos no están abandonados a sus propias fuerzas en el cumplimiento de sus deberes. Tienen derecho a la gracia sacramental que les ayuda a amarse mutuamente, a ser fieles, a educar cristianamente a sus hijos, a soportar las dificultades, y a alcanzar juntos la santidad.»
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -146,6 +124,32 @@ El consentimiento forzado o por miedo grave invalida el matrimonio, pues este re
 El objeto del consentimiento no es la cópula carnal explícitamente, sino la potestad mutua sobre los cuerpos ordenada a la generación (q.48 a.1). El matrimonio contraído por un motivo torpe (p. ej., por avaricia) es válido, aunque el contrayente peca en su intención (q.48 a.2).
 
 **Los bienes del matrimonio (Suppl. q.49).** Tres bienes excusan y rectifican el matrimonio: la «prole» (generación y educación de los hijos), la «fe» (fidelidad conyugal), y el «sacramento» (indisolubilidad) (q.49 a.1-2). De estos, el más principal es el sacramento (la indisolubilidad), por ser signo de la unión indisoluble de Cristo con la Iglesia (q.49 a.3).
+
+### Según Royo Marín (TPCr)
+
+El matrimonio es «el sacramento del amor conyugal y de la sociedad natural».
+
+«Aunque el estado de virginidad es más excelente y más perfecto absolutamente, el matrimonio tiene su propia excelencia y santidad cuando se vive según el espíritu de Cristo. Es el medio santísimo para muchos cristianos de alcanzar la perfección, cumpliendo los deberes de su estado con fidelidad y caridad.»
+
+Sobre la indisolubilidad:
+«Nuestro Señor restauró la indisolubilidad primitiva del matrimonio, que había sido relajada por Moisés por la dureza del corazón de los hombres. El matrimonio cristiano no es contrato revocable, sino vínculo sagrado que dura mientras vivan los cónyuges. Esta indisolubilidad es necesaria para la estabilidad de la familia y para la educación de los hijos.»
+
+Sobre la gracia sacramental:
+«El matrimonio da derecho a auxilios especiales. Los cónyuges cristianos no están abandonados a sus propias fuerzas en el cumplimiento de sus deberes. Tienen derecho a la gracia sacramental que les ayuda a amarse mutuamente, a ser fieles, a educar cristianamente a sus hijos, a soportar las dificultades, y a alcanzar juntos la santidad.»
+
+### Según la Familiaris Consortio (FC)
+
+Dios ha creado al hombre a su imagen y semejanza, llamándolo a la existencia por amor y al mismo tiempo al amor (FC §11). El amor es la vocación fundamental e innata de todo ser humano (FC §11). La Revelación cristiana conoce dos modos específicos de realizar esta vocación: el Matrimonio y la Virginidad (FC §11).
+
+El único «lugar» que hace posible la donación total entre el hombre y la mujer es el matrimonio, el pacto de amor conyugal o elección consciente y libre, con la que el hombre y la mujer aceptan la comunidad íntima de vida y amor querida por Dios mismo (FC §11). La institución matrimonial no es una ingerencia indebida de la sociedad o de la autoridad, sino exigencia interior del pacto de amor conyugal (FC §11).
+
+Jesucristo revela la verdad original del matrimonio, la verdad del «principio» y, liberando al hombre de la dureza del corazón, lo hace capaz de realizarla plenamente (FC §13). El matrimonio de los bautizados se convierte así en el símbolo real de la nueva y eterna Alianza, sancionada con la sangre de Cristo (FC §13). En virtud de la sacramentalidad de su matrimonio, los esposos quedan vinculados uno a otro de la manera más profundamente indisoluble (FC §13).
+
+Los esposos cristianos tienen el derecho de esperar de las personas vírgenes el buen ejemplo y el testimonio de la fidelidad a su vocación hasta la muerte (FC §16).
+
+### Según Mons. Tihámer Tóth — Pureza y hermosura (PyH)
+
+Tóth subraya que la vida sexual solo es santa cuando se ejercita en el matrimonio indisoluble. Si Dios permitió que esta tendencia fuese satisfecha solamente dentro del matrimonio, fue para que la mujer no se rebajase y para que el amor conyugal estuviera al servicio de la vida. «Solamente en el matrimonio es «santa» la vida sexual, porque sólo en él no perjudica a la parte más noble de todo hombre: el alma» [PyH, cap. 1]. De ahí que toda satisfacción de esa tendencia fuera del matrimonio sea un atentado contra la dignidad de la persona y contra los planes divinos. «Dios no permite la unión de ambos sexos sino dentro de las formas prescritas por El; es a saber: en el matrimonio indisoluble, y aún en éste, sólo con el fin primario de dar vida al hijo» [PyH, cap. 1].
 
 ### Según Para Salvarte (PS)
 
@@ -212,10 +216,6 @@ Asimismo, condenó el error de que «si uno toma una tercera o cuarta mujer o m�
 **León XIII** — Encíclica *Arcanum Divinae Sapientiae* (1880, D‑1853–D‑1854): Reivindicó la dignidad del matrimonio cristiano frente a los errores del naturalismo y del divorcio civil. Afirmó que el matrimonio es sacramento instituido por Cristo, que tiene a Dios por autor y que es indisoluble por derecho divino. El poder civil no tiene autoridad para disolver el vínculo matrimonial, sino solo para regular sus efectos civiles. El matrimonio cristiano es superior al matrimonio meramente natural; es figura del amor de Cristo a la Iglesia.
 
 **Pío XI** — Encíclica *Casti Connubii* (1930, D‑2225–D‑2226): Reafirmó la doctrina católica sobre el matrimonio frente a los errores modernos: el amor conyugal no es la mera satisfacción del instinto o la pura utilidad social, sino amor ordenado al fin primario del matrimonio (generación y educación de la prole) y a los fines secundarios (ayuda mutua y remedio de la concupiscencia). Rechazó la eugenesia y el aborto como atentados contra la vida. Afirmó la indisolubilidad absoluta del vínculo matrimonial. Condenó el neopaganismo que promueve el amor libre y el matrimonio de prueba.
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Matrimonio»] En el AT, el matrimonio es instituido por Dios desde la creación: «una sola carne» (Gen 2,24), ordenado a la ayuda mutua y la fecundidad (Gen 1,28). La ley mosaica lo regula por la dureza de los corazones (Dt 24,1s), tolerando la poligamia y el repudio. Los profetas elevan el ideal: Mal 2,14ss condena el repudio; Tob 8,4-9 presenta el matrimonio fundado en la oración. En el NT, Jesús lo restaura a la indisolubilidad original (Mt 19,1-9) y lo eleva a sacramento, imagen de la unión de Cristo y la Iglesia (Ef 5,32). Pablo distingue entre matrimonio y virginidad, recomendando esta última por el Reino (1Cor 7).
 
 ### Según el Pórtico de la Biblia (PdB)
 

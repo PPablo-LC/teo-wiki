@@ -29,6 +29,12 @@ La omnipotencia divina se manifiesta de modo especial en los milagros, que son o
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo afirma que Dios es omnipotente (§268-270). «Todo lo que el creador quiso fue y ha sido» (§269). La omnipotencia no es arbitrariedad, sino que se manifiesta en la creación como acto de amor libre. Dios puede todo lo que es posible, pero no hace lo que contradice su naturaleza de amor y de verdad (§270).
+
+La omnipotencia divina se manifiesta también en los milagros, que son obras que trascienden el orden natural establecido por Dios. Pero los milagros no suprimen las causas segundas, sino que las superan temporalmente para manifestar la gloria de Dios y la verdad de la revelación. El Catecismo señala que Dios puede hacer todo lo que quiere, y que su voluntad se cumple infaliblemente (§269).
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el poder de Dios en la cuestión 25 de la Ia Pars.
@@ -44,12 +50,6 @@ Santo Tomás trata el poder de Dios en la cuestión 25 de la Ia Pars.
 **q.25 a.5 — La potencia de Dios es infinita.** La potencia de Dios es infinita, pues no está determinada por ninguna naturaleza distinta de su esencia. La potencia activa se mide por la perfección de la sustancia; como la sustancia divina es infinita en perfección, su potencia es infinita. Sin embargo, Dios no ejecuta todos los posibles, sino que obra según su sabiduría y bondad (a.5 ad 2). La infinitud del poder divino no implica que Dios haga infinitas cosas, sino que puede hacer todo lo que la perfección de su naturaleza exige.
 
 La distinción entre *potentia absoluta* y *potentia ordinata* se aplica aquí: en cuanto a su poder absoluto, Dios podría hacer cosas que nunca hará; en cuanto a su poder ordenado, ejecuta únicamente lo que su sabiduría ha dispuesto. Esta distinción no implica dos poderes distintos, sino dos modos de considerar el mismo poder divino.
-
-### Según el Catecismo (CEC)
-
-El Catecismo afirma que Dios es omnipotente (§268-270). «Todo lo que el creador quiso fue y ha sido» (§269). La omnipotencia no es arbitrariedad, sino que se manifiesta en la creación como acto de amor libre. Dios puede todo lo que es posible, pero no hace lo que contradice su naturaleza de amor y de verdad (§270).
-
-La omnipotencia divina se manifiesta también en los milagros, que son obras que trascienden el orden natural establecido por Dios. Pero los milagros no suprimen las causas segundas, sino que las superan temporalmente para manifestar la gloria de Dios y la verdad de la revelación. El Catecismo señala que Dios puede hacer todo lo que quiere, y que su voluntad se cumple infaliblemente (§269).
 
 ### Según Royo Marín (TPCr)
 

@@ -21,6 +21,9 @@ La distinción entre las tres especies de bien procede de la tradición aristot�
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata las diversas especies de bien en relación con el fin de la acción humana. El *bonum honestum* es el bien que se sigue de la misma naturaleza de la acción, en cuanto es conforme a la razón. Es el fundamento de la moralidad, porque la recta razón es el criterio supremo del obrar humano.
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II desarrolla extensamente la distinción entre las tres especies de bien en el contexto del uso de la libertad. «En su comportamiento, escoge un cierto bien, que se convierte en el fin de su acción. Si el sujeto opta por un *bonum honestum*, su fin se identifica con la esencia misma del objeto de su acción y, por ende, es un fin honesto. Cuando, por el contrario, el objeto de su decisión es un *bonum utile*, el fin es el provecho que comporta para sí mismo» [MI, cap. 7].
@@ -29,9 +32,6 @@ El utilitarismo moderno «ha descartado la primera y fundamental dimensión del 
 
 Kant, por su parte, «cuestionó simultáneamente dos cosas, a saber, el placer y la utilidad. Pero no retomó la tradición del *bonum honestum*. Basó más bien toda la moralidad humana en las formas a priori de la razón práctica» [MI, cap. 7]. Los neotomistas asumieron el principio del personalismo apoyándose en la concepción tomista de las tres especies de bien [MI, cap. 7].
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata las diversas especies de bien en relación con el fin de la acción humana. El *bonum honestum* es el bien que se sigue de la misma naturaleza de la acción, en cuanto es conforme a la razón. Es el fundamento de la moralidad, porque la recta razón es el criterio supremo del obrar humano.
 
 ## Distinciones importantes
 

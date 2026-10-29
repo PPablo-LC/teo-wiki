@@ -16,7 +16,7 @@ tags: ["resumen", "evangelization and culture - 11"]
 - [[escasez_y_abundancia]] — anti-cristiana sobreestimación de la escasez
 - [[martirio]] — «Witness me!»: distorsión pagana del martirio cristiano
 - [[esperanza_cristiana]] — la vida vence a la cultura de muerte
-- [[parusía]] — «Amen. Ven, Señor Jesús» (Ap 22,20)
+- [[parusía]] — «Amén. Ven, Señor Jesús» (Ap 22,20)
 
 ## Contenido
 

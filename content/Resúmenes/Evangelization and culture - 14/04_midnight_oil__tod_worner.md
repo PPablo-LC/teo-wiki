@@ -55,7 +55,7 @@ Dos insights de Chesterton guiaron las discusiones: "Nine out of ten of what we 
 
 Reflexionando sobre la edad, Worner recomienda *To Love This Earthly Life* de Michael Casey, monje cisterciense, que explora la sabiduría del Eclesiastés. La alegría es a menudo antagonizada por la ansiedad: "There is just not enough space in the room for both." Qoheleth pregunta (Ecl 2,22-23): "What do mortals get from all the toil and strain... For all their days are full of pain, and their work is a vexation; even at night their minds do not rest." Revolcarse en preocupaciones es vanidad: usurpar la competencia de Dios con una exigencia arrogante de control absoluto.
 
-Siguiendo la Oración de la Serenidad de Niebuhr (aceptar con serenidad lo que no puede cambiarse, cambiar con valor lo que puede, y poseer la sabiduría para conocer la diferencia), "the purveyors of wisdom take a step back from immediate issues... inviting the people to reflection rather than to decision and action." Con la edad vienen los cuidados de los hijos, la salud, el trabajo y la fe; podemos actuar hasta cierto punto, y después "kiss it up to God." O como Rilke: "Live the questions for now. Perhaps then you will gradually, without noticing it, live your way into the answer." Vivir con alegría es aceptar un poco, reflexionar y modificar las actitudes, y besar nuestras preocupaciones hacia Dios.
+Siguiendo la Oración de la Serenidad de Niebuhr (aceptar con serenidad lo que no puede cambiarse, cambiar con valor lo que puede, y poseer la sabiduría para conocer la diferencia), "the purveyors of wisdom take a step back from immediate issues... inviting the people to reflection rather than to decisión and action." Con la edad vienen los cuidados de los hijos, la salud, el trabajo y la fe; podemos actuar hasta cierto punto, y después "kiss it up to God." O como Rilke: "Live the questions for now. Perhaps then you will gradually, without noticing it, live your way into the answer." Vivir con alegría es aceptar un poco, reflexionar y modificar las actitudes, y besar nuestras preocupaciones hacia Dios.
 
 #### Libertad, reglas y ortodoxia
 
@@ -75,7 +75,7 @@ Citando *The Schoolboy* de William Blake ("How can the bird that is born for joy
 
 - *Thomas Aquinas: Spiritual Master* de Bishop Barron y *Thomas Aquinas: Selected Commentaries on the New Testament* (Word on Fire Academic): una carta de amor a un mentor espiritual y comentarios del "doctor angélico" accesibles.
 - *Tales of Faith: A Guide to Sharing the Gospel through Literature* de Dr. Holly Ordway, sobre cómo la literatura evangeliza (Eneida, Beowulf, Divina Comedia).
-- *Holy Land* de Angela Alaimo O'Donnell: peregrinación espiritual por lugares "delgados" donde la palabra y el mundo emiten evidencia de Dios.
-- *Christian Poetry in America Since 1940* (Mattix y Thomas): antología de poesía cristiana.
+- *Holy Land* de Ángela Alaimo O'Donnell: peregrinación espiritual por lugares "delgados" donde la palabra y el mundo emiten evidencia de Dios.
+- *Christian Poetry in América Since 1940* (Mattix y Thomas): antología de poesía cristiana.
 - *Sigrid Undset: Reader of Hearts* de Aidan Nichols: biografía de la autora noruega y conversa católica de *Kristin Lavransdatter*.
 

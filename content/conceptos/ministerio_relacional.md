@@ -60,7 +60,7 @@ En «Peripheries: Caught More Than Taught» (22_peripheries.md), el presidente d
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute:
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute:
   - 22_peripheries.md — David Rinaldi, «Peripheries: Caught More Than Taught»
 - Pablo VI, *Evangelii Nuntiandi* (1975), nn. 13-14, 21-22, 24, 51 (citado en la fuente)
 - Concilio Vaticano II, *Gaudium et Spes*, n. 4 (citado en la fuente)

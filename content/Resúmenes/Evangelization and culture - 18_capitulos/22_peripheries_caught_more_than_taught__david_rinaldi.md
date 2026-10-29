@@ -65,4 +65,4 @@ Para más información sobre NET Ministries, visite www.netusa.org.
 
 ---
 
-*David Rinaldi es el presidente de NET Ministries y tiene un máster en teología pastoral por la Ave Maria University. Llegó a servir en NET en 1997 tras siete años en la Fuerza Aérea estadounidense, donde fue navegante instructor de aviones de reabastecimiento KC-135.*
+*David Rinaldi es el presidente de NET Ministries y tiene un máster en teología pastoral por la Ave María University. Llegó a servir en NET en 1997 tras siete años en la Fuerza Aérea estadounidense, donde fue navegante instructor de aviones de reabastecimiento KC-135.*

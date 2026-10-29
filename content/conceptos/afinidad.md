@@ -25,6 +25,9 @@ La afinidad es un parentesco de naturaleza distinta a la consanguinidad: mientra
 
 CIC c. 1092: la afinidad en línea recta dirime el matrimonio en cualquier grado. En línea colateral no es impedimento según el CIC vigente (a diferencia del CIC 17). Surge del matrimonio válido, aunque no haya sido consumado, y también de la unión libre o concubinato (por obra de la pública honestidad).
 
+### Según el Comentario al CIC (Com-CIC-Eunsa)
+
+La afinidad se define como el vínculo que surge del matrimonio válido, incluso no consumado, entre el varón y los consanguíneos de la mujer, y entre la mujer y los consanguíneos del varón. El fundamento teológico es la unidad de carne (Gen 2,24). En el CIC 17 se extendía hasta el cuarto grado de la línea colateral, pero el CIC vigente la redujo a la línea recta en cualquier grado, simplificando notablemente la casuística.
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la afinidad en el Suplemento (q.55). La define como el vínculo que resulta de la unión carnal entre un hombre y una mujer, en virtud de la cual los parientes de cada uno se convierten en parientes del otro (q.55 a.1). Se distingue de la consanguinidad en que esta procede de la procreación (misma sangre), mientras la afinidad es como una «añadidura externa» al tronco familiar.
@@ -41,9 +44,6 @@ La afinidad, al igual que la consanguinidad, es impedimento dirimente por las mi
 
 Los grados de afinidad se miden según los grados de consanguinidad: en el mismo grado en que el cónyuge es pariente consanguíneo de alguien, en ese mismo grado de afinidad está el otro cónyuge con esa persona (q.55 a.7-8). Históricamente, los grados de afinidad se extendían hasta donde alcanzaban los de consanguinidad (hasta el séptimo y luego hasta el cuarto), pero hoy solo la línea recta está impedida.
 
-### Según el Comentario al CIC (Com-CIC-Eunsa)
-
-La afinidad se define como el vínculo que surge del matrimonio válido, incluso no consumado, entre el varón y los consanguíneos de la mujer, y entre la mujer y los consanguíneos del varón. El fundamento teológico es la unidad de carne (Gen 2,24). En el CIC 17 se extendía hasta el cuarto grado de la línea colateral, pero el CIC vigente la redujo a la línea recta en cualquier grado, simplificando notablemente la casuística.
 
 ## Distinciones importantes
 

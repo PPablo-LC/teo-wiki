@@ -4,7 +4,7 @@ title: "TEOLOGÍA DEL CUERPO"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 1
 timestamp: 2026-07-28
-description: "Portada y metadatos del libro — Teologia del Cuerpo - Juan Pablo II"
+description: "Portada y metadatos del libro — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

@@ -27,6 +27,29 @@ Su función principal fue pedagógica: preparar a Israel para la venida de Crist
 
 La Ley antigua es el primer estado de la Ley revelada, cuyas prescripciones morales están resumidas en los Diez mandamientos (§1962). Dios eligió a Israel y le reveló su Ley, preparando la venida de Cristo (§1961). La Ley de Moisés contiene muchas verdades naturalmente accesibles a la razón (§1981). La Ley antigua no daba el Espíritu Santo, por el cual "la caridad es difundida en nuestros corazones" (Rm 5,5) (§1964). La integridad de la Ley mosaica fue exigida por los fariseos en su letra, pero Cristo la lleva a plenitud (§579).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Ley»] La *torah* hebrea significa «enseñanza» dada por Dios para reglar la conducta. Comprende la ley natural (desde Adán hasta Moisés, grabada en el corazón, Rom 2,14s), la ley mosaica (prescripciones morales, ceremoniales y judiciales, centradas en el Decálogo) y la ley nueva de Cristo. La ley mosaica, santa y espiritual (Rom 7,12.14), no da la fuerza para cumplirla (Rom 7,16ss); su función es pedagógica, preparar para Cristo (Gal 3,23s). Jesús la cumple y la perfecciona (Mt 5,17ss), inaugurando la ley de Cristo, inscrita en los corazones por el Espíritu (Jer 31,33; Ez 36,26s; 2Cor 3,3).
+
+[VocTeoBib, «Ley»] La *torah* hebrea significa «enseñanza» dada por Dios para reglar la conducta. Comprende la ley natural (desde Adán hasta Moisés, grabada en el corazón, Rom 2,14s), la ley mosaica (prescripciones morales, ceremoniales y judiciales, centradas en el Decálogo) y la ley nueva de Cristo. La ley mosaica, santa y espiritual (Rom 7,12.14), no da la fuerza para cumplirla (Rom 7,16ss); su función es pedagógica, preparar para Cristo (Gal 3,23s). Jesús la cumple y la perfecciona (Mt 5,17ss), inaugurando la ley de Cristo, inscrita en los corazones por el Espíritu (Jer 31,33; Ez 36,26s; 2Cor 3,3).
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la ley antigua en las cuestiones 98–105 de la Ia-IIae, que cubren su naturaleza, sus preceptos y su duración.
+
+**Naturaleza de la ley antigua** (q.98). La ley antigua fue buena —«santa, justa y buena» dice el Apóstol (Rom 7,12)— pero imperfecta (a.1), pues no confería la gracia necesaria para cumplir sus preceptos; preparaba para Cristo, que traería la gracia y la verdad. Procede de Dios (a.2), fue dada por mediación de los ángeles (a.3), solo al pueblo judío (a.4), obligaba a todos los que pertenecían a la comunidad judía (a.5) y fue dada en tiempo conveniente: después de la ley natural, cuando la razón humana necesitaba ser instruida (a.6).
+
+**Tres géneros de preceptos** (q.99). Los preceptos de la ley antigua se dividen en: morales (que ordenan las costumbres según la razón, q.100), ceremoniales (que ordenan el culto divino, q.101–103) y judiciales (que ordenan las relaciones con el prójimo, q.104–105). Todos se ordenan a la caridad como fin último (q.99 a.1 ad 2).
+
+**Preceptos morales** (q.100). Todos los preceptos morales son de [[ley_natural]] en diverso grado: unos son evidentes a la razón natural (ej. el Decálogo), otros requieren la deliberación de los sabios, y otros necesitan la revelación divina (a.1). La ley divina prescribe actos de todas las virtudes (a.2), a diferencia de la ley humana que solo prescribe actos de justicia. Los preceptos del Decálogo son los primeros principios de la ley moral, a los que se reducen todos los demás (a.3). Los preceptos del Decálogo son indisponsables (a.8).
+
+**Preceptos ceremoniales** (q.101–103). Se ordenan al culto de Dios (q.101 a.1). Son figurativos de Cristo (a.2). Se distinguen en: sacrificios, cosas sagradas, sacramentos y observancias (q.102). Cesaron con la venida de Cristo (q.103 a.3), pues cumplida la realidad figurada, cesa la figura.
+
+**Preceptos judiciales** (q.104–105). Ordenan las relaciones con el prójimo (q.104 a.1). Cesaron como obligatorios con la venida de Cristo (a.3), pero no como «letra muerta» (pueden estudiarse por su sabiduría). Las razones de los preceptos judiciales se explican en q.105.
+
+### Según Royo Marín (TPCr)
+
+[TPCr, Primera Parte, Cap. I] La ley mosaica es ley promulgada por Dios a través de Moisés en el Sinaí (Ex 19-20). Santo Tomás (S.Th. Ia-IIae q.98-108) analiza su naturaleza, sus preceptos y su duración. La ley antigua fue buena pero imperfecta: no confería la gracia necesaria para cumplir sus preceptos, era pedagógica y preparaba para Cristo. Sus preceptos se dividen en morales, ceremoniales y judiciales. Los morales (Decálogo) son permanentes y se ordenan a la caridad; los ceremoniales y judiciales cesaron en su obligatoriedad con la venida de Cristo.
+
 ### Según Benedicto XVI (JdN_I)
 
 Benedicto XVI dedica el capítulo 2 de *Jesús de Nazaret I* a la «Torá del Mesías», mostrando que Jesús no vino a abolir la Ley mosaica, sino a llevarla a su cumplimiento. Su análisis gira en torno a tres ejes:
@@ -44,32 +67,6 @@ Benedicto XVI dedica el capítulo 2 de *Jesús de Nazaret I* a la «Torá del Me
 **Domingo y sábado.** La sustitución del sábado por el domingo no es una ruptura, sino la continuación de su significado en la nueva creación. «El “primer día” —el comienzo de la creación— se convirtió en el “día del Señor”… Con la Resurrección de Cristo, aquel día se convirtió en el día de la libertad, del descanso y de la fiesta». Benedicto XVI critica a los liturgistas que quieren abandonar la función social del domingo: «Me parece sumamente preocupante que los modernos liturgistas quieran dejar de nuevo a un lado esta función social del domingo, que está en continuidad con la Torá de Israel».
 
 **Iglesia y doctrina social.** La Torá del Mesías no es un programa social, pero establece los criterios fundamentales para todo ordenamiento social. «Jesús dinamiza los ordenamientos jurídicos y sociales concretos; el arrancarlos del inmediato ámbito divino y trasladar la responsabilidad a una razón capaz de discernir, forma parte de la estructura intrínseca de la Torá misma». De aquí brota la doctrina social de la Iglesia: una reflexión constante sobre cómo los ordenamientos sociales deben conformarse a la voluntad de Dios revelada en Cristo.
-
-### Según Royo Marín (TPCr)
-
-[TPCr, Primera Parte, Cap. I] La ley mosaica es ley promulgada por Dios a través de Moisés en el Sinaí (Ex 19-20). Santo Tomás (S.Th. Ia-IIae q.98-108) analiza su naturaleza, sus preceptos y su duración. La ley antigua fue buena pero imperfecta: no confería la gracia necesaria para cumplir sus preceptos, era pedagógica y preparaba para Cristo. Sus preceptos se dividen en morales, ceremoniales y judiciales. Los morales (Decálogo) son permanentes y se ordenan a la caridad; los ceremoniales y judiciales cesaron en su obligatoriedad con la venida de Cristo.
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Ley»] La *torah* hebrea significa «enseñanza» dada por Dios para reglar la conducta. Comprende la ley natural (desde Adán hasta Moisés, grabada en el corazón, Rom 2,14s), la ley mosaica (prescripciones morales, ceremoniales y judiciales, centradas en el Decálogo) y la ley nueva de Cristo. La ley mosaica, santa y espiritual (Rom 7,12.14), no da la fuerza para cumplirla (Rom 7,16ss); su función es pedagógica, preparar para Cristo (Gal 3,23s). Jesús la cumple y la perfecciona (Mt 5,17ss), inaugurando la ley de Cristo, inscrita en los corazones por el Espíritu (Jer 31,33; Ez 36,26s; 2Cor 3,3).
-
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la ley antigua en las cuestiones 98–105 de la Ia-IIae, que cubren su naturaleza, sus preceptos y su duración.
-
-**Naturaleza de la ley antigua** (q.98). La ley antigua fue buena —«santa, justa y buena» dice el Apóstol (Rom 7,12)— pero imperfecta (a.1), pues no confería la gracia necesaria para cumplir sus preceptos; preparaba para Cristo, que traería la gracia y la verdad. Procede de Dios (a.2), fue dada por mediación de los ángeles (a.3), solo al pueblo judío (a.4), obligaba a todos los que pertenecían a la comunidad judía (a.5) y fue dada en tiempo conveniente: después de la ley natural, cuando la razón humana necesitaba ser instruida (a.6).
-
-**Tres géneros de preceptos** (q.99). Los preceptos de la ley antigua se dividen en: morales (que ordenan las costumbres según la razón, q.100), ceremoniales (que ordenan el culto divino, q.101–103) y judiciales (que ordenan las relaciones con el prójimo, q.104–105). Todos se ordenan a la caridad como fin último (q.99 a.1 ad 2).
-
-**Preceptos morales** (q.100). Todos los preceptos morales son de [[ley_natural]] en diverso grado: unos son evidentes a la razón natural (ej. el Decálogo), otros requieren la deliberación de los sabios, y otros necesitan la revelación divina (a.1). La ley divina prescribe actos de todas las virtudes (a.2), a diferencia de la ley humana que solo prescribe actos de justicia. Los preceptos del Decálogo son los primeros principios de la ley moral, a los que se reducen todos los demás (a.3). Los preceptos del Decálogo son indisponsables (a.8).
-
-**Preceptos ceremoniales** (q.101–103). Se ordenan al culto de Dios (q.101 a.1). Son figurativos de Cristo (a.2). Se distinguen en: sacrificios, cosas sagradas, sacramentos y observancias (q.102). Cesaron con la venida de Cristo (q.103 a.3), pues cumplida la realidad figurada, cesa la figura.
-
-**Preceptos judiciales** (q.104–105). Ordenan las relaciones con el prójimo (q.104 a.1). Cesaron como obligatorios con la venida de Cristo (a.3), pero no como «letra muerta» (pueden estudiarse por su sabiduría). Las razones de los preceptos judiciales se explican en q.105.
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Ley»] La *torah* hebrea significa «enseñanza» dada por Dios para reglar la conducta. Comprende la ley natural (desde Adán hasta Moisés, grabada en el corazón, Rom 2,14s), la ley mosaica (prescripciones morales, ceremoniales y judiciales, centradas en el Decálogo) y la ley nueva de Cristo. La ley mosaica, santa y espiritual (Rom 7,12.14), no da la fuerza para cumplirla (Rom 7,16ss); su función es pedagógica, preparar para Cristo (Gal 3,23s). Jesús la cumple y la perfecciona (Mt 5,17ss), inaugurando la ley de Cristo, inscrita en los corazones por el Espíritu (Jer 31,33; Ez 36,26s; 2Cor 3,3).
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 

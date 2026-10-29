@@ -23,7 +23,7 @@ Lee escribe desde la confluencia del diseño y la evangelización, propia del eq
 
 ### Según EAC-18 — Word on Fire Institute
 
-**Rozann Lee** («Lives: The Conversion of St. Mary Magdalene», 05_lives.md) parte del relato de Juan 20,11-16: María, de pie llorando junto al sepulcro, no reconoce a Jesús resucitado hasta que él la llama por su nombre: «¡María!». Ella responde: «¡Rabbouní!». Desarrolla:
+**Rozann Lee** («Lives: The Conversión of St. Mary Magdalene», 05_lives.md) parte del relato de Juan 20,11-16: María, de pie llorando junto al sepulcro, no reconoce a Jesús resucitado hasta que él la llama por su nombre: «¡María!». Ella responde: «¡Rabbouní!». Desarrolla:
 
 - **La conversa más conocida, la más desesperada**: todo lo que sabemos con certeza de su pasado es que era una endemoniada —poseída por siete demonios, número que en la Biblia representa la plenitud: estaba completamente entregada al diablo.
 - **«Cristo llamó el nombre de María»**: su conversión es una de posesión completa, primero por el diablo y luego por Cristo. «En la tierna misericordia de Dios fue quebrantada y luego sanada; desechada y luego reclamada; odiada y vilipendiada y luego amada y enviada».
@@ -39,4 +39,4 @@ Concluye: «¡Que los casos más desesperados se conviertan en los más grandes 
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Rozann Lee, 05_lives.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Rozann Lee, 05_lives.md).

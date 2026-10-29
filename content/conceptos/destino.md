@@ -42,7 +42,7 @@ un hado ciego sino el horizonte que da consistencia al presente.
 5. **La diversidad solo se cruza por el vínculo con el destino**: la
    diversidad «es verdaderamente un abismo, que solo un vínculo con el
    Infinito, con Dios, puede hacer superar» (MDO, 03, 67).
-6. **En TACDC la cuestión se formula como «el cruce entre el ser y la
+6. **En TACDC la cuestión se fórmula como «el cruce entre el ser y la
    nada»**: el destino da consistencia a la vida frente a la nada y a la
    muerte; la esperanza cristiana mira la plenitud del destino.
 

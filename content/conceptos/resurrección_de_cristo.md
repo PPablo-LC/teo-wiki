@@ -87,7 +87,7 @@ Para Salvarte llama a la Resurrección «el dogma fundamental del cristianismo»
 
 Benedicto XVI dedica el capítulo 9 de *Jesús de Nazaret II* a la Resurrección de Jesús de entre los muertos, culminando el recorrido por la Pasión.
 
-**La Resurrección como fundamento de la fe.** «Si Cristo no ha resucitado, nuestra predicación carece de sentido y vuestra fe lo mismo» (1 Co 15,14). San Pablo formula así la radicalidad de la Resurrección: sin ella, Jesús es una personalidad religiosa fallida; con ella, Él se convierte en el criterio del que podemos fiarnos. La Resurrección es un verdadero comienzo que cambia la situación del hombre en la historia.
+**La Resurrección como fundamento de la fe.** «Si Cristo no ha resucitado, nuestra predicación carece de sentido y vuestra fe lo mismo» (1 Co 15,14). San Pablo fórmula así la radicalidad de la Resurrección: sin ella, Jesús es una personalidad religiosa fallida; con ella, Él se convierte en el criterio del que podemos fiarnos. La Resurrección es un verdadero comienzo que cambia la situación del hombre en la historia.
 
 **Naturaleza de la Resurrección.** Jesús no retorna a la vida biológica normal (no es Lázaro revivido). No es un fantasma ni una experiencia mística. Es un encuentro con una persona viva que se acerca desde fuera. La Resurrección es un acontecimiento dentro de la historia que, sin embargo, quebranta el ámbito de la historia y va más allá de ella. Pablo distingue cuidadosamente sus experiencias místicas (elevación al tercer cielo, 2 Co 12,1-4) del encuentro con el Resucitado en el camino de Damasco (acontecimiento histórico).
 

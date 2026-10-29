@@ -29,14 +29,6 @@ En la vida espiritual, la desesperación puede ser también una tentación permi
 
 «La enfermedad puede conducir a la angustia, al repliegue sobre sí mismo, a veces incluso a la desesperación y a la rebelión contra Dios» (§1501).
 
-### Según el Enchiridion Symbolorum (Denzinger)
-
-**Inocencio XII** (1699, D‑1336, D‑1338) — Breve *Cum alias* contra Fenelón:
-
-**D‑1336**: «Entonces el alma, desprendida de sí misma, expira con Cristo en la cruz... realiza el sacrificio absoluto de su propio interés en cuanto a la eternidad.» Condenada. La condena afirma que no es lícito ni posible, incluso en las pruebas extremas, realizar un sacrificio absoluto de la propia salvación que equivalga a desesperación.
-
-**D‑1338**: «El director puede entonces permitir a esta alma que se avenga sencillamente a la pérdida de su propio interés y a la justa condenación que cree ha sido decretada por Dios contra ella.» Condenada. La condena afirma que el director espiritual no puede permitir al alma que acepte su condenación como cosa debida, pues esto implica un acto contrario a la esperanza.
-
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.40 a.4 — La desesperación como pasión del irascible:**
@@ -64,6 +56,14 @@ La desesperación no mira al mal bajo razón de mal, sino que mira al bien que s
 «A la esperanza se oponen dos vicios: uno, por defecto, la desesperación, que considera imposible la salvación eterna, y proviene principalmente de la acidia (pereza espiritual) y de la lujuria; y otro por exceso, la presunción» (TPCr, Tercera Parte, Libro II, Cap. II).
 
 Los remedios contra la desesperación: «la misericordia de Dios es incansable en perdonar al pecador arrepentido, que la violencia de nuestros enemigos jamás podrá superar al auxilio omnipotente de Dios y que, si es cierto que por nosotros mismos nada podemos, con la gracia de Dios seremos capaces de todo» (TPCr, Tercera Parte, Libro II, Cap. II).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XII** (1699, D‑1336, D‑1338) — Breve *Cum alias* contra Fenelón:
+
+**D‑1336**: «Entonces el alma, desprendida de sí misma, expira con Cristo en la cruz... realiza el sacrificio absoluto de su propio interés en cuanto a la eternidad.» Condenada. La condena afirma que no es lícito ni posible, incluso en las pruebas extremas, realizar un sacrificio absoluto de la propia salvación que equivalga a desesperación.
+
+**D‑1338**: «El director puede entonces permitir a esta alma que se avenga sencillamente a la pérdida de su propio interés y a la justa condenación que cree ha sido decretada por Dios contra ella.» Condenada. La condena afirma que el director espiritual no puede permitir al alma que acepte su condenación como cosa debida, pues esto implica un acto contrario a la esperanza.
 
 ### Según Il senso religioso (SR)
 

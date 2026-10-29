@@ -27,7 +27,7 @@ Nacida hacia 450 en Faughart (Irlanda), hija del cacique pagano Dubhtach y de la
 
 ### Evangelization & Culture 9 (EAC-9)
 
-**Jackie Francois Angel** le dedica la sección «Lives»:
+**Jackie Francois Ángel** le dedica la sección «Lives»:
 
 - **Virtud y milagros (Cogitosus):** Repartía mantequilla a pobres y huéspedes «prefiriendo obedecer a Dios antes que a los hombres»; multiplicación prodigiosa («tal poder de fe en el corazón de una doncella»); regaló la espada de su padre a un mendigo.
 - **Agua convertida en cerveza:** Unos leprosos piden cerveza; no encuentra; ora sobre el agua de los baños y la cambia en excelente ale en abundancia para los sedientos.
@@ -59,5 +59,5 @@ Nacida hacia 450 en Faughart (Irlanda), hija del cacique pagano Dubhtach y de la
 
 ## Referencias
 
-- Francois Angel, Jackie. "Lives: St. Brigid of Kildare." *Evangelization & Culture*, No. 9, Autumn 2021.
+- Francois Ángel, Jackie. "Lives: St. Brigid of Kildare." *Evangelization & Culture*, No. 9, Autumn 2021.
 - Cogitosus. *Vita Sanctae Brigitae* (~650).

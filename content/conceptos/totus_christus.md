@@ -22,7 +22,7 @@ La eclesiología agustiniana del *totus Christus* entiende que ser cristiano es 
 
 ### Según EAC-18 — Word on Fire Institute
 
-En «Minds: The Conversion of St. Augustine» (10_minds.md), el Dr. Thomas Clemmons sostiene que la tesis de las *Confesiones* de principio a fin no es solo el viaje intelectual de Agustín, sino su plena recepción en la Iglesia católica: hacerse uno con el *totus Christus* mediante su recepción sacramental en el Bautismo, la cristmación y la recepción eucarística.
+En «Minds: The Conversión of St. Augustine» (10_minds.md), el Dr. Thomas Clemmons sostiene que la tesis de las *Confesiones* de principio a fin no es solo el viaje intelectual de Agustín, sino su plena recepción en la Iglesia católica: hacerse uno con el *totus Christus* mediante su recepción sacramental en el Bautismo, la cristmación y la recepción eucarística.
 
 **Lo que Agustín llegó a ser (10):** La continencia, el vencer las ambiciones sociales y el sopor intelectual no son el contenido de la conversión, sino pasos necesarios: «¿A qué se convierte entonces Agustín? A su entrada plena en la Iglesia católica». Los despejes intelectuales — el Dios trascendente, la omnipresencia divina, la Encarnación — eran quitar obstáculos y consecuencias de la gracia; «si fueran la conclusión, las *Confesiones* podrían terminar en el libro 7». Las *Confesiones* continúan porque la conversión no se completa en un momento notable: en el libro 9, Agustín aún lucha por dejar su cátedra de retórica; solo un acto de Dios — un *dolor pectoris* — lo mueve a dimitir. Su madre Mónica, imagen viva de ello, no tiene un «momento de conversión»: asistimos a su transformación libro a libro.
 
@@ -56,6 +56,6 @@ En «Minds: The Conversion of St. Augustine» (10_minds.md), el Dr. Thomas Clemm
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute:
-  - 10_minds.md — Dr. Thomas Clemmons, «Minds: The Conversion of St. Augustine»
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute:
+  - 10_minds.md — Dr. Thomas Clemmons, «Minds: The Conversión of St. Augustine»
 - San Agustín, *Confesiones*, libros 7-9 (citado en la fuente)

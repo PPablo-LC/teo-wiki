@@ -22,14 +22,14 @@ Juan Pablo II, en *Fides et ratio* (1998), profundizó esta doctrina: la fe y la
 
 ## Perspectivas por fuente
 
-### Según *Fides et ratio* (Juan Pablo II)
-Juan Pablo II afirma que la verdad última se revela en Cristo, Verdad encarnada, y que razón y fe, aunque distintas, forman una única búsqueda de la verdad. «La fe no tiene miedo de la razón, ni la razón tiene miedo de la fe». Enfatiza la necesidad de que la teología siga dialogando con la filosofía y que la cultura recupere la confianza en la capacidad del hombre para conocer la verdad.
-
 ### Según el Catecismo de la Iglesia Católica
 El CEC (§§36-43) enseña que el hombre puede llegar a Dios por la razón (argumentos de la existencia de Dios), pero que esta capacidad ha sido debilitada por el pecado original y que la revelación es necesaria para conocer algunas verdades de manera fácil, con certeza y sin mezcla de error. Fe y razón «se ayudan mutuamente» (§156).
 
 ### Según Santo Tomás de Aquino
 Santo Tomás distinguió entre verdades que superan la razón (misterios) y verdades que pueden alcanzarse por la razón (existencia de Dios, inmortalidad del alma). Las verdades reveladas no son contrarias a la razón, aunque la sobrepasan.
+### Según *Fides et ratio* (Juan Pablo II)
+Juan Pablo II afirma que la verdad última se revela en Cristo, Verdad encarnada, y que razón y fe, aunque distintas, forman una única búsqueda de la verdad. «La fe no tiene miedo de la razón, ni la razón tiene miedo de la fe». Enfatiza la necesidad de que la teología siga dialogando con la filosofía y que la cultura recupere la confianza en la capacidad del hombre para conocer la verdad.
+
 
 ## Distinciones importantes
 

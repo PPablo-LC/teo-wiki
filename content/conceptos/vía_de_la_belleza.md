@@ -63,7 +63,7 @@ En el número anterior, la *via pulchritudinis* ya aparecía como principio evan
 
 **La estrategia evangelizadora de Barron.** El número inaugural de la revista articula la vía en su fórmula más citada: «La mejor estrategia evangelizadora es aquella que va de lo bello a lo bueno y finalmente a lo verdadero» (Barron, citado por Ghezzi). Worner la traduce en programa editorial: «sumergir a sus lectores en lo bello, señalando siempre de regreso hacia lo bueno y, en último término, hacia lo verdadero», como parte de la formación de la vida interior, intelectual y estética.
 
-**Fra Angelico, caso ejemplar.** La vida del beato dominico ilustra la vía completa: con «obras magníficas que representaban escenas evangélicas» atraía a las personas al Señor (lo bello), las exhortaba a vivir como discípulos fieles (lo bueno) y les comunicaba así la Buena Nueva (lo verdadero). Véase [[fra_angelico]].
+**Fra Angélico, caso ejemplar.** La vida del beato dominico ilustra la vía completa: con «obras magníficas que representaban escenas evangélicas» atraía a las personas al Señor (lo bello), las exhortaba a vivir como discípulos fieles (lo bueno) y les comunicaba así la Buena Nueva (lo verdadero). Véase [[fra_angelico]].
 
 **La belleza tiene poder evangélico.** Barron: «Gran música, arquitectura, pinturas, poesía e historias dan gloria a Dios y pueden llevarnos a una apreciación más profunda de la verdad de lo que jamás podría un tratado filosófico». La sensibilidad católica cree «en liderar con la belleza, involucrar la cultura y defender una fe católica intelectualmente robusta y místicamente rica».
 

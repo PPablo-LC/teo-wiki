@@ -31,14 +31,11 @@ El CIC reconoce el derecho divino (natural y positivo) como límite y fundamento
 
 El ejercicio de la libertad implica referencia a una ley moral natural, universal, que precede y aúna todos los derechos y deberes [CompDS §140]. La ley natural «no es otra cosa que la luz de la inteligencia infundida en nosotros por Dios» [CompDS §140]. Es participación de la ley eterna, que se identifica con Dios mismo [CompDS §140]. Es universal, se extiende a todos los hombres y está expuesta en sus preceptos principales en el Decálogo [CompDS §140]. Es inmutable y subsiste bajo el flujo de ideas y costumbres; ni siquiera puede ser cancelada por la maldad humana [CompDS §141-142]. Es el fundamento moral indispensable para edificar la comunidad humana y elaborar la ley civil [CompDS §142]. Solo una libertad radicada en la naturaleza común puede justificar la moral pública [CompDS §142].
 
-### Según el Compendio (CompDS)
-
 Los principios de la [[doctrina_social_de_la_iglesia]] se apoyan en la ley natural, escrita en la conciencia de cada ser humano, que por ello está obligado a reconocerla y respetarla [CompDS §2-§3]. Estos principios resultan después confirmados y valorizados por el Evangelio de Jesucristo [CompDS §2].
 
 Los diez mandamientos, que constituyen un camino de vida para una existencia liberada de la esclavitud del pecado, contienen una expresión privilegiada de la ley natural y nos enseñan la verdadera humanidad del hombre [CompDS §22]. Connotan la moral humana universal y constituyen las reglas primordiales de toda vida social [CompDS §22].
 
 La dinámica de la renovación social debe anclarse en los principios inmutables de la ley natural, impresa por Dios Creador en todas sus criaturas e iluminada escatológicamente por Jesucristo [CompDS §53].
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la ley natural en la cuestión 94 de la Ia-IIae, cuyos seis artículos constituyen el tratamiento clásico de la materia.

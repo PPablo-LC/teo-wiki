@@ -76,11 +76,11 @@ tags: ["resumen", "guia liturgia-2024"]
 
 4.º El *Attende, Domine* con cierta frecuencia durante el Tiempo de Cuaresma.
 
-82. En las misas de la Santísima Virgen María, escójanse cantos que sean apropiados para el uso litúrgico (Cf. OCM, p. 120: para el canto de ofertorio en las memorias de la Santísima Virgen María el *Ordo Cantus Missæ* prevé antífonas como el *Ave Maria* o el *Recordare*, por lo que en dichas misas es conforme al espíritu de la liturgia ejecutar cantos dirigidos a la Santísima Virgen).
+82. En las misas de la Santísima Virgen María, escójanse cantos que sean apropiados para el uso litúrgico (Cf. OCM, p. 120: para el canto de ofertorio en las memorias de la Santísima Virgen María el *Ordo Cantus Missæ* prevé antífonas como el *Ave María* o el *Recordare*, por lo que en dichas misas es conforme al espíritu de la liturgia ejecutar cantos dirigidos a la Santísima Virgen).
 
 83. En las ceremonias de Semana Santa y en particular del Triduo Sacro, por ser la cumbre de todo el año litúrgico, se cantan, en la medida de lo posible, todas las partes que recomienda el propio del Misal Romano. Tiene especial importancia el canto —en latín o lengua vernácula— del pregón pascual.
 
-84. El Domingo de Resurrección, y en las solemnidades de Pentecostés, del Santísimo Cuerpo y Sangre de Cristo y de la Bienaventurada Virgen María de los Dolores, después de la segunda lectura se canta la secuencia correspondiente. A menudo las secuencias tienen una versión larga y una breve; aunque en principio debería preferirse la forma completa, por motivos razonables nada impide que se utilice la forma más breve. En estos casos se omite siempre el Amen (Alleluia) que aparece en algunas ediciones, ya que sigue el Alleluia propio de la misa. Algunas de las secuencias son también aptas como cantos de ofertorio o comunión en Pascua o a lo largo del año; es para estos casos para los que existe la conclusión Amen (Alleluia).
+84. El Domingo de Resurrección, y en las solemnidades de Pentecostés, del Santísimo Cuerpo y Sangre de Cristo y de la Bienaventurada Virgen María de los Dolores, después de la segunda lectura se canta la secuencia correspondiente. A menudo las secuencias tienen una versión larga y una breve; aunque en principio debería preferirse la forma completa, por motivos razonables nada impide que se utilice la forma más breve. En estos casos se omite siempre el Amén (Alleluia) que aparece en algunas ediciones, ya que sigue el Alleluia propio de la misa. Algunas de las secuencias son también aptas como cantos de ofertorio o comunión en Pascua o a lo largo del año; es para estos casos para los que existe la conclusión Amén (Alleluia).
 
 ### Música sagrada instrumental
 

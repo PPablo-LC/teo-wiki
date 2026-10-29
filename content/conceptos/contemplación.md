@@ -32,12 +32,6 @@ Royo Marín dedica una extensa sección al estudio de la contemplación (n.514-5
 
 El Catecismo dedica una sección a la oración contemplativa (§2709-2719), recogiendo la clásica definición de Santa Teresa: «No es otra cosa oración mental, a mi parecer, sino tratar de amistad, estando muchas veces tratando a solas con quien sabemos nos ama» (§2709). La contemplación busca a Jesús y en Él al Padre. «No se hace contemplación cuando se tiene tiempo, sino que se toma el tiempo de estar con el Señor con la firme decisión de no dejarlo» (§2710). Es un don que solo puede acogerse en la humildad y la pobreza (§2713). «Yo le miro y él me mira» (§2715, campesino de Ars). «La oración contemplativa es unión con la oración de Cristo en la medida en que ella nos hace participar en su misterio» (§2718).
 
-### Según Royo Marín (TPCr)
-
-Señala trece características psicológicas de la contemplación infusa (n.533-545): presencia de Dios sentida, invasión de lo sobrenatural, imposibilidad de producirla por esfuerzos propios, pasividad del alma, conocimiento oscuro y confuso, seguridad de estar bajo la acción divina, certeza moral de estar en gracia, inefabilidad, diversidad de formas, fluctuaciones, repercusión sobre el cuerpo, suspensión de potencias, e impulso a las virtudes.
-
-La contemplación no requiere nuevas especies infusas; bastan las verdades de la fe iluminadas por los dones intelectivos (n.531).
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la contemplación en el contexto de la [[vida_contemplativa]] (II-II, q.180). Define la contemplación como la simple intuición de la verdad, que es el acto terminal y perfectivo de la vida contemplativa. Se distingue del [[pensamiento]] (observación de múltiples cosas) y de la [[meditación]] (discurso de la razón que pasa de los principios a la verdad). La contemplación misma pertenece a la simple intuición de la verdad — «la intuición penetrante y libre del objeto» (q.180 a.3).
@@ -50,6 +44,12 @@ Siguiendo a Dionisio, Santo Tomás distingue tres movimientos en la operación c
 - **Oblicuo**: usa de la revelación divina valiéndose del raciocinio, combinando ambos movimientos
 
 La contemplación de la verdad divina es el elemento principal de la vida contemplativa; la de los efectos divinos (criaturas) pertenece de modo secundario como medio de elevación a Dios (q.180 a.4). En la vida presente, la contemplación no puede alcanzar la visión de la esencia divina mientras se usen los sentidos corporales; solo en el [[rapto]] es posible excepcionalmente (q.180 a.5).
+
+### Según Royo Marín (TPCr)
+
+Señala trece características psicológicas de la contemplación infusa (n.533-545): presencia de Dios sentida, invasión de lo sobrenatural, imposibilidad de producirla por esfuerzos propios, pasividad del alma, conocimiento oscuro y confuso, seguridad de estar bajo la acción divina, certeza moral de estar en gracia, inefabilidad, diversidad de formas, fluctuaciones, repercusión sobre el cuerpo, suspensión de potencias, e impulso a las virtudes.
+
+La contemplación no requiere nuevas especies infusas; bastan las verdades de la fe iluminadas por los dones intelectivos (n.531).
 
 ### Según San Juan de la Cruz (AvEsp)
 
@@ -69,7 +69,7 @@ El Santo distingue el «recogimiento interior» de la mera meditación: «No sab
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
-La vida de unión con Dios alcanzada a través de las virtudes teologales y los dones del Espíritu Santo, especialmente de la [[caridad]], da lugar a una verdadera contemplación de Cristo y de Dios. Esta contemplación ordinaria no consiste en los fenómenos místicos extraordinarios, sino en el esfuerzo y la capacidad de descubrir a Dios en todo acontecimiento de la propia vida, incluso en medio de las muchas ocupaciones terrenas, sin olvidar que Él se encuentra en el centro del alma en gracia —«*interior intimo meo*», más íntimo a mí que yo mismo, decía San Agustín—. En ella se inserta la amistad con el Señor a través de la oración y los actos de piedad y de culto.
+La vida de unión con Dios alcanzada a través de las virtudes teologales y los dones del Espíritu Santo, especialmente de la [[caridad]], da lugar a una verdadera contemplación de Cristo y de Dios. Esta contemplación ordinaria no consiste en los fenómenos místicos extraordinarios, sino en el esfuerzo y la capacidad de descubrir a Dios en todo acontecimiento de la propia vida, incluso en medio de las muchas ocupaciones terrenas, sin olvidar que Él se encuentra en el centro del alma en gracia —«*interior íntimo meo*», más íntimo a mí que yo mismo, decía San Agustín—. En ella se inserta la amistad con el Señor a través de la oración y los actos de piedad y de culto.
 
 San Josemaría Escrivá ilustra eficazmente la contemplación ordinaria alcanzable por todo cristiano: «Primero una jaculatoria, y luego otra, y otra..., hasta que parece insuficiente ese fervor [...]: y se deja paso a la intimidad divina, en un mirar a Dios sin descanso y sin cansancio [...]. Mientras realizamos con la mayor perfección posible las tareas propias de nuestra condición y de nuestro oficio, el alma ansía escaparse [...]. No me refiero a situaciones extraordinarias. Son, pueden muy bien ser, fenómenos ordinarios de nuestra alma [...]. Al elevar todo ese quehacer a Dios, la criatura diviniza el mundo» (Ele_Xto_Stos, Cap. II, §4b).
 

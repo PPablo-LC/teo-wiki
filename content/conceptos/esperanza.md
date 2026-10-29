@@ -17,17 +17,15 @@ La esperanza es la segunda de las virtudes teologales, virtud infusa sobrenatura
 
 ## Perspectivas por fuente
 
-### Según la Dives in Misericordia (DM)
-
-La esperanza cristiana se funda en la misericordia de Dios. La resurrección de Cristo es la garantía de que «el amor es más fuerte que la muerte» [DM §8] y, por tanto, fundamento de la esperanza. La encíclica eleva una oración confiada para que «en esta etapa de la historia se revele una vez más aquel Amor que está en el Padre y que por obra del Hijo y del Espíritu Santo se haga presente en el mundo contemporáneo como más fuerte que el mal: más fuerte que el pecado y la muerte» [DM §15].
-
-La Iglesia implora la misericordia divina guiada por la [[fe]], la **esperanza** y la [[caridad]] «que Cristo ha injertado en nuestros corazones» [DM §15]. El grito de la Iglesia a la misericordia es expresión de esperanza: «Dios es fiel a sí mismo, a su paternidad y a su amor» [DM §15].
-
 ### Según el Compendio (CompDS)
 
 La Iglesia enseña al hombre que Dios le ofrece la posibilidad real de superar el mal y de alcanzar el bien. El Señor ha redimido al hombre, lo ha rescatado a caro precio (cf. 1 Co 6,20) [CompDS §578]. El sentido y el fundamento del compromiso cristiano en el mundo derivan de esta certeza, capaz de encender la esperanza, a pesar del pecado que marca profundamente la historia humana: la promesa divina garantiza que el mundo no permanece encerrado en sí mismo, sino abierto al Reino de Dios [CompDS §578].
 
 La esperanza cristiana confiere una fuerte determinación al compromiso en campo social, infundiendo confianza en la posibilidad de construir un mundo mejor, sabiendo bien que no puede existir un «paraíso perdurable aquí en la tierra» [CompDS §579]. Los cristianos deben comportarse de tal modo que «la virtud del Evangelio brille en la vida diaria, familiar y social», manifestándose como hijos de la promesa, fuertes en la fe y en la esperanza [CompDS §579].
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La esperanza expresa el lugar del porvenir en la vida religiosa del pueblo de Dios: un porvenir de felicidad al que están llamados todos los hombres (1Tim 2,4), una «patria mejor, es decir, celestial» (Heb 11,16) [VocTeoBib, «Esperanza»]. La fe garantiza la realidad de este porvenir; la esperanza, enraizada en la fe, se despliega hacia el futuro. En el AT, la esperanza de Israel comenzó con Abraham —una tierra y una posteridad— y fue purificada por los profetas, que denunciaron la falsa esperanza del culto formalista y anunciaron que Yahveh mismo es «la esperanza de Israel» (Jer 14,8). La esperanza se hizo personal y se orientó al más allá con los mártires (Dan 12,1ss; 2Mac 7) y los sabios (Sab 3,4). Jesús realizó la esperanza de Israel proclamando el Reino, aunque manteniéndola como espera de la vida eterna (Mt 18,8s). Pablo fórmula la tríada fe, esperanza y caridad (1Tes 1,3; 1Cor 13,13); su esperanza personal consiste en estar con Cristo (Flp 1,23). El Apocalipsis recoge el grito de la Iglesia: «¡Ven, Señor Jesús!» (Ap 22,20).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -83,6 +81,12 @@ La esperanza cristiana confiere una fuerte determinación al compromiso en campo
 
 Cristo desde el primer instante de su concepción gozó de la fruición plena de la divinidad en [[visión_beatífica]]. Por tanto, no tuvo la [[virtud_de_la_esperanza]] como virtud teologal, pues el objeto de la esperanza es un bien futuro y arduo que aún no se posee. Sin embargo, Cristo sí tuvo esperanza respecto de aquellas cosas que aún no había alcanzado, como la inmortalidad y la gloria del cuerpo (la resurrección y la ascensión a los cielos). La gloria del cuerpo no pertenece a la bienaventuranza principal, que consiste en la visión de Dios, y por eso podía esperarla incluso mientras gozaba de la visión beatífica.
 
+### Según la Dives in Misericordia (DM)
+
+La esperanza cristiana se funda en la misericordia de Dios. La resurrección de Cristo es la garantía de que «el amor es más fuerte que la muerte» [DM §8] y, por tanto, fundamento de la esperanza. La encíclica eleva una oración confiada para que «en esta etapa de la historia se revele una vez más aquel Amor que está en el Padre y que por obra del Hijo y del Espíritu Santo se haga presente en el mundo contemporáneo como más fuerte que el mal: más fuerte que el pecado y la muerte» [DM §15].
+
+La Iglesia implora la misericordia divina guiada por la [[fe]], la **esperanza** y la [[caridad]] «que Cristo ha injertado en nuestros corazones» [DM §15]. El grito de la Iglesia a la misericordia es expresión de esperanza: «Dios es fiel a sí mismo, a su paternidad y a su amor» [DM §15].
+
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **Inocencio XII** (1699, D‑1331–D‑1332, D‑1337) — Breve *Cum alias* contra Fenelón:
@@ -110,17 +114,13 @@ Juan Pablo II anima a los jóvenes a estar «dispuestos a dar razón de vuestra 
 
 La esperanza fue un tema constante a lo largo del viaje apostólico de León XIV a España. En diversos discursos afirmó: «En un mundo que parece haber perdido la esperanza, los cristianos estamos llamados a ser testigos de la esperanza que no defrauda» [L_XIV-ViajeEspaña-2026, varios discursos]. En la Vigilia de Madrid (3 de junio) dijo a los jóvenes: «Vosotros, jóvenes, sois la esperanza de la Iglesia y del mundo» [L_XIV-ViajeEspaña-2026, Vigil Madrid 03 — discurso a los jóvenes]. En la visita a la prisión, proclamó: «La esperanza es lo último que se pierde, pero nosotros creemos que la esperanza cristiana no defrauda porque está fundada en Cristo resucitado» [L_XIV-ViajeEspaña-2026, visita a la prisión — discurso a los presos].
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La esperanza expresa el lugar del porvenir en la vida religiosa del pueblo de Dios: un porvenir de felicidad al que están llamados todos los hombres (1Tim 2,4), una «patria mejor, es decir, celestial» (Heb 11,16) [VocTeoBib, «Esperanza»]. La fe garantiza la realidad de este porvenir; la esperanza, enraizada en la fe, se despliega hacia el futuro. En el AT, la esperanza de Israel comenzó con Abraham —una tierra y una posteridad— y fue purificada por los profetas, que denunciaron la falsa esperanza del culto formalista y anunciaron que Yahveh mismo es «la esperanza de Israel» (Jer 14,8). La esperanza se hizo personal y se orientó al más allá con los mártires (Dan 12,1ss; 2Mac 7) y los sabios (Sab 3,4). Jesús realizó la esperanza de Israel proclamando el Reino, aunque manteniéndola como espera de la vida eterna (Mt 18,8s). Pablo formula la tríada fe, esperanza y caridad (1Tes 1,3; 1Cor 13,13); su esperanza personal consiste en estar con Cristo (Flp 1,23). El Apocalipsis recoge el grito de la Iglesia: «¡Ven, Señor Jesús!» (Ap 22,20).
-
 ### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
 
 El número 6 de *Evangelization & Culture* está enteramente dedicado a la esperanza como virtud teológica, ofreciendo múltiples perspectivas complementarias:
 
 **La esperanza en gestos silenciosos** (Tod Worner, §01): La esperanza se manifiesta en actos imperceptibles y momentáneos. El ejemplo paradigmático es el gesto del protestante que sostiene la mano del católico en una fila de fusilamiento en Irlanda del Norte: «The hand let go, but never truly did. You are one of us. A child of God.» La esperanza no always se presenta como algo grandioso; a menudo se esconde en la pequeñez de la bondad cotidiana, en la presencia silenciosa de quien acompaña al otro.
 
-**La esperanza y María** (Tod Worner, §01): La Virgen María es presentada como modelo de esperanza en la oscuridad. Su sufrimiento durante la Pasión —desde la Anunciación hasta el Gólgota— no la llevó a la desesperanza, sino que fue una esperanza activa: «She loved, prayed, and pondered. She held fast to incontrovertible truth, even when it seemed imposible.» El Magnificat (Lc 1,46-55) es descrito como «la poesía de la esperanza»: María confía en que Dios cumple sus promesas.
+**La esperanza y María** (Tod Worner, §01): La Virgen María es presentada como modelo de esperanza en la oscuridad. Su sufrimiento durante la Pasión —desde la Anunciación hasta el Gólgota— no la llevó a la desesperanza, sino que fue una esperanza activa: «She loved, prayed, and pondered. She held fast to incontrovertible truth, even when it seemed imposible.» El Magníficat (Lc 1,46-55) es descrito como «la poesía de la esperanza»: María confía en que Dios cumple sus promesas.
 
 **La esperanza en la infancia** (Tod Worner, §01; Sr. Josephine Garrett, §17): La esperanza se asocia con la niñez espiritual. Mr. Rogers es presentado como ejemplo de presencia y bondad que nutre la esperanza. La pregunta terapéutica de la «varita mágica» revela que los niños responden con claridad y sinceridad a la esperanza, mientras que los adultos pierden esta capacidad. San Agustín describe a todos en el vientre de María, quien «labura hasta que nacemos a la eternidad».
 
@@ -153,7 +153,7 @@ El número 6 de *Evangelization & Culture* está enteramente dedicado a la esper
 - **Reír para no llorar:** Lincoln: «Río porque no debo llorar»; llamados a «gran alegría y regocijo ilimitado» pese a la condición rota (Worner). La risa es forma de esperanza ante el sufrimiento.
 - **El reino que gana:** Joel Berry, sobre su sátira cristiana: «Soy ciudadano de un reino que no será destruido… nuestro lado gana»; la verdad trae consuelo además de risas. Titular de *The Babylon Bee* como acto de esperanza: «Election Results Are In: Christ Still On His Throne».
 - **Consuelo que convierte:** las cartas de lectores —una viuda en duelo, un hombre que pide a Dios hablarle— muestran que la sátira puede abrir a la conversión y al consuelo (Mann).
-- **Esperanza tardía:** Steve Martin: tras décadas de risas y burlas, sus canciones celebran el amor y la vida («quizá después de décadas de risas, el amor haya llegado para Steve Martin», Petiprin).
+- **Esperanza tardía:** Steve Martín: tras décadas de risas y burlas, sus canciones celebran el amor y la vida («quizá después de décadas de risas, el amor haya llegado para Steve Martín», Petiprin).
 
 ### Según Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11)
 
@@ -198,7 +198,7 @@ El P. Álvaro Corcuera presenta la esperanza como **ancla en la eternidad que so
 
 ### Giussani — All'origine della pretesa cristiana (ODPC)
 
-En la conclusión de ODPC, la esperanza aparece como el segundo momento del acto existencial generado por la fe: «l'uomo è un camminatore eretto e infaticabile verso una meta non ancora raggiunta, certo del futuro perché tutto poggiato sulla Sua presenza (speranza)». La vida cristiana es esencialmente tensión, caminar, búsqueda de la propia completud: «Non c'è nulla di più anticristiano che il concepire la vita come qualcosa di comodo e soddisfatto» (Lc 6,24-25: «Guai a voi, ricchi, perché avete già la vostra consolazione»). La esperanza no es así optimismo sobre el futuro sino certeza fundada en una presencia presente; su frontera es la tentación de la satisfacción contingente que apaga el caminar ([[fe]], [[caridad]]).
+En la conclusión de ODPC, la esperanza aparece como el segundo momento del acto existencial generado por la fe: «l'uomo è un camminatore eretto e infaticabile verso una meta non ancora raggiunta, certo del futuro perché tutto poggiato sulla Sua presenza (speranza)». La vida cristiana es esencialmente tensión, caminar, búsqueda de la propia completud: «Non c'è nulla di più anticristiano che il concepire la vita come qualcosa di cómodo e soddisfatto» (Lc 6,24-25: «Guai a voi, ricchi, perché avete già la vostra consolazione»). La esperanza no es así optimismo sobre el futuro sino certeza fundada en una presencia presente; su frontera es la tentación de la satisfacción contingente que apaga el caminar ([[fe]], [[caridad]]).
 
 ### Giussani — Dare la vita per l'opera di un Altro (DLV)
 

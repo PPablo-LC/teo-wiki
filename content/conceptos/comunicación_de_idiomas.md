@@ -33,7 +33,7 @@ Hahn introduce el principio en el capítulo 5 a propósito de la controversia de
 
 - **Qué afirma.** Lo que se dice de una de las dos naturalezas de Cristo se puede decir verdaderamente de su Persona, porque en Él la naturaleza divina y la humana están unidas en una sola persona. Por eso los cristianos pueden decir que «Dios murió en la cruz» —aunque Dios es inmortal— y que «Dios nació en un pesebre» —aunque Dios es eterno—.
 - **La madre da a luz una persona, no una naturaleza.** Los teólogos que en el siglo V objetaban al título *Theotokos* argumentaban que María dio a luz la naturaleza humana de Cristo, no su naturaleza divina. San Cirilo respondió que una madre no da a luz una naturaleza: da a luz una persona. María dio a luz a Jesucristo, que es una persona divina; por tanto es Madre de Dios, aunque no sea el origen de la divinidad.
-- **Consecuencia.** El principio muestra que negar el título de *Theotokos* no es una cuestión de piedad mariana sino de cristología: quien separa en Cristo al que nace de la Virgen del Hijo eterno del Padre rompe la unidad de su Persona. Hahn lo formula así: al llamar a María «Madre de Dios» confesamos, en la misma frase, que somos hermanos de su Hijo, el Dios hecho hombre, y no solo de su naturaleza humana.
+- **Consecuencia.** El principio muestra que negar el título de *Theotokos* no es una cuestión de piedad mariana sino de cristología: quien separa en Cristo al que nace de la Virgen del Hijo eterno del Padre rompe la unidad de su Persona. Hahn lo fórmula así: al llamar a María «Madre de Dios» confesamos, en la misma frase, que somos hermanos de su Hijo, el Dios hecho hombre, y no solo de su naturaleza humana.
 
 [HHQ, cap. 5]
 

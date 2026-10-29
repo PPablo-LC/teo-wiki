@@ -33,7 +33,7 @@ El documento «Los carismas y las nuevas realidades eclesiales» sitúa explíci
 
 ### Según God Is Near Us — Joseph Ratzinger (GINU)
 
-La eclesiología eucarística de Ratzinger recorre toda la obra *God Is Near Us*. En la introducción (archivo 00) se formula su núcleo: «La Iglesia nace y tiene su existencia continua en el hecho de que el Señor se comunica a los hombres, entra en comunión con ellos y así los lleva a la comunión entre sí. La Iglesia es la comunión del Señor con nosotros, que al mismo tiempo produce la verdadera comunicación de los hombres entre sí». Como epígrafe de su tesis doctoral (*People of God and House of God in Augustine's Doctrine of the Church*), Ratzinger eligió: *Unus panis unum corpus sumus multi* — «Los muchos somos un solo Cuerpo, pues todos participamos del único pan».
+La eclesiología eucarística de Ratzinger recorre toda la obra *God Is Near Us*. En la introducción (archivo 00) se fórmula su núcleo: «La Iglesia nace y tiene su existencia continua en el hecho de que el Señor se comunica a los hombres, entra en comunión con ellos y así los lleva a la comunión entre sí. La Iglesia es la comunión del Señor con nosotros, que al mismo tiempo produce la verdadera comunicación de los hombres entre sí». Como epígrafe de su tesis doctoral (*People of God and House of God in Augustine's Doctrine of the Church*), Ratzinger eligió: *Unus panis unum corpus sumus multi* — «Los muchos somos un solo Cuerpo, pues todos participamos del único pan».
 
 En el archivo 09 (*We Who Are Many Are One Body, One Bread*, 1 Cor 10,17), Ratzinger cita a Agustín y deduce las consecuencias:
 

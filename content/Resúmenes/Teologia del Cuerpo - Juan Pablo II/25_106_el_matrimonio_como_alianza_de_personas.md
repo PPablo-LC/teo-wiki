@@ -4,7 +4,7 @@ title: "106. El matrimonio como alianza de personas"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 25
 timestamp: 2026-08-01
-description: "Catequesis 106: el consentimiento conyugal como «lenguaje del cuerpo» releído en la verdad, la proclamación profética de los esposos y la verdad del signo vinculada al ethos — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 106: el consentimiento conyugal como «lenguaje del cuerpo» releído en la verdad, la proclamación profética de los esposos y la verdad del signo vinculada al ethos — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

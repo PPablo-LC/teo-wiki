@@ -43,7 +43,7 @@ Hahn presenta la controversia como un caso modélico de exégesis: Helvidio cons
 
 Hahn subraya además la dimensión cristológica: la virginidad de María garantiza a la vez la divinidad y la humanidad de Cristo. Como resume Santo Tomás, «para que se mostrara que el cuerpo de Cristo era un cuerpo real, nació de una mujer; para que se mostrara que su divinidad era clara, nació de una virgen» (citado en HHQ, cap. 5).
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre desarrolla el argumento que considera decisivo y que, según él, suele pasarse por alto: **los evangelios mismos identifican a los «hermanos» como hijos de otra María**.
 
@@ -77,4 +77,4 @@ Se relaciona con [[virginidad_de_maría]], [[concepción_virginal_de_jesús]], [
 - CEC §499-501.507.500
 - San Jerónimo, *Adversus Helvidium*
 - Scott Hahn, *Hail, Holy Queen*, cap. 5 (HHQ)
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), cap. 5
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), cap. 5

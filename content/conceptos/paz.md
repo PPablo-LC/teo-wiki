@@ -25,14 +25,6 @@ La paz cristiana no es mera ausencia de conflicto, sino fruto de la justicia y p
 
 El Catecismo enseña que Jesucristo es «nuestra paz» (Ef 2,14) y que por la sangre de su cruz «dio muerte al odio en su carne» (§2305). La paz terrenal es imagen y fruto de la paz de Cristo. La paz del mundo depende en buena medida de la solidaridad internacional (§1941). El perdón es condición fundamental de la reconciliación y «da testimonio de que, en nuestro mundo, el amor es más fuerte que el pecado» (§2844).
 
-### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
-
-Mons. Erik Varden aborda la paz cristiana en el capítulo 1 de los ejercicios. La paz que Cristo da —«que el mundo no puede dar» (Jn 14,27)— es el sello distintivo de la sinceridad cristiana. Varden insiste en que la paz cristiana no es una promesa de comodidad, sino la condición para una sociedad transformada.
-
-Frente a la instrumentalización del Evangelio en las guerras culturales, la Iglesia debe articular la radicalidad de la paz cristiana, enseñando los términos del auténtico [[combate_espiritual]]. La paz cuaresmal no resta nada a la llamada a combatir los vicios y las pasiones nocivas: su lenguaje es «Sí, sí», «No, no». La Iglesia ofrece al comenzar la batalla de cada Cuaresma una melodía pacífica —el Tracto gregoriano del Salmo 90 (*Qui habitat*)— como banda sonora para este tiempo litúrgico.
-
-Citando a San Juan Clímaco: «No hay mayor obstáculo para la presencia del Espíritu en nosotros que la [[ira]]».
-
 ### Según el Compendio (CompDS)
 
 La Iglesia está convencida de que de la herencia común de las enseñanzas sociales derivan estímulos para una colaboración cada vez más estrecha en la promoción de la justicia y de la paz [CompDS §12]. El Compendio propone un [[humanismo_integral]] y solidario fundado en la dignidad y la libertad de toda [[persona_humana]], que se actúa en la paz, la [[justicia_social]] y la [[solidaridad]] [CompDS §19].
@@ -55,6 +47,14 @@ GS 82: Para establecer la paz se requiere una autoridad pública universal recon
 ### Según Royo Marín (TPCr)
 
 Royo Marín identifica la paz como uno de los frutos del Espíritu Santo (Gal 5,22) (Parte II). La describe como característica del alma que ha alcanzado el estado de perfección: paz y quietud imperturbables en la unión transformativa. La paz es signo distintivo del espíritu de Dios frente al del demonio. «El espíritu de Dios es violento, pero con violencia dulce, suave y apacible; el demonio alborota y llena de inquietud.»
+
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden aborda la paz cristiana en el capítulo 1 de los ejercicios. La paz que Cristo da —«que el mundo no puede dar» (Jn 14,27)— es el sello distintivo de la sinceridad cristiana. Varden insiste en que la paz cristiana no es una promesa de comodidad, sino la condición para una sociedad transformada.
+
+Frente a la instrumentalización del Evangelio en las guerras culturales, la Iglesia debe articular la radicalidad de la paz cristiana, enseñando los términos del auténtico [[combate_espiritual]]. La paz cuaresmal no resta nada a la llamada a combatir los vicios y las pasiones nocivas: su lenguaje es «Sí, sí», «No, no». La Iglesia ofrece al comenzar la batalla de cada Cuaresma una melodía pacífica —el Tracto gregoriano del Salmo 90 (*Qui habitat*)— como banda sonora para este tiempo litúrgico.
+
+Citando a San Juan Clímaco: «No hay mayor obstáculo para la presencia del Espíritu en nosotros que la [[ira]]».
 
 ### Según Juan Pablo II (JPII-JovCh)
 
@@ -80,7 +80,7 @@ Juan Pablo II dedicó el Mensaje para la Jornada Mundial de la Paz de 1995 al te
 
 ### Según God Is Near Us — Joseph Ratzinger (GINU)
 
-Ratzinger formula en el archivo 10 (*The Way of Peace* / una homilía de Navidad citada) la paz como camino de humildad: «El camino de la paz no es un camino de espinas ni de poder, sino de humildad. The way of peace is not a way of thorns... humility is the way that cuts through to the heart». La noche de Navidad inaugura el camino de la humildad de Dios, que es el camino de la paz para el mundo.
+Ratzinger fórmula en el archivo 10 (*The Way of Peace* / una homilía de Navidad citada) la paz como camino de humildad: «El camino de la paz no es un camino de espinas ni de poder, sino de humildad. The way of peace is not a way of thorns... humility is the way that cuts through to the heart». La noche de Navidad inaugura el camino de la humildad de Dios, que es el camino de la paz para el mundo.
 
 En el archivo 06, la violencia queda ligada al embotamiento de la conciencia y la adoración eucarística aparece como su antídoto: «Cristo entra en el corazón de nuestros hermanos y visita su conciencia. Cuando la conciencia se embota, entra la violencia que asola el mundo. Quien mira el rostro del Señor verá en él el espejo de nuestra violencia, y su conciencia se purificará» (GINU, archivo 06). La adoración, la justicia y la paz convergen: quien contempla a Cristo aprende la medida de la verdadera paz, «que la ira y la violencia asolan».
 

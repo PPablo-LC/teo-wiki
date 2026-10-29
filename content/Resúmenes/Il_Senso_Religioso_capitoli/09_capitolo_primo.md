@@ -28,7 +28,7 @@ tags: ["resumen", "il senso religioso capitoli"]
 
 Presenta la metodología del estudio del [[sentido_religioso]] mediante una triple premisa. Cita a Alexis Carrel (*Riflessioni sulla condotta della vita*): la comodidad de la vida moderna ha deshecho la masa de reglas que dan consistencia a la vida y ha borrado la frontera del bien y del mal; «poca observación y mucho razonamiento conducen al error; mucha observación y poco razonamiento conducen a la verdad». Nuestra es una época de [[ideología]]: en vez de aprender de la realidad en todos sus datos, se intenta manipularla según la coherencia de un esquema fabricado por el intelecto; «el triunfo de las ideologías consagra la ruina de la civilización».
 
-# 2. Il metodo di ricerca è imposto dall’oggetto: una riflessione sulla propria esperienza
+# 2. Il método di ricerca è imposto dall’oggetto: una riflessione sulla propria esperienza
 
 Primera premisa: [[realismo]], la urgencia de no privilegiar un esquema ya presente en la mente frente a la observación entera y apasionada del hecho. San Agustín: «Ego quid sciam quaero, non quid credam» (*Soliloquia* I, 3, 8): el hombre sano quiere saber cómo es un hecho, y solo entonces puede pensarlo. El [[sentido_religioso]] es el dato de hecho estadísticamente más difundido en la actividad humana y propone el interrogativo «¿qué sentido tiene todo?». No se puede estudiar fiándose del parecer de otros (Aristóteles, Platón, Kant, Marx...): el método para conocer un objeto es impuesto por el objeto mismo. Siendo un fenómeno que acontece en la persona, exige una *indagación existencial* sobre uno mismo, cuyos resultados se confrontarán después con los filósofos para enriquecer el dato, no para adoptar una definición ajena y alienante.
 

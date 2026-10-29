@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "Introduccion General al Codigo de Derecho Canonico"
+title: "Introducción General al Código de Derecho Canónico"
 fuente: Comentarios_al_CIC-Eunsa
 capítulo: 1
 timestamp: 2026-08-25
@@ -8,7 +8,7 @@ description: "Resumen de la Introducción General al Código de Derecho Canónic
 tags: ["resumen", "derecho_canónico", "cic_1983", "juan_pablo_ii", "vaticano_ii", "legislación_canónica"]
 ---
 
-# Introduccion General al Codigo de Derecho Canonico
+# Introducción General al Código de Derecho Canónico
 
 ## Conceptos básicos referenciados
 

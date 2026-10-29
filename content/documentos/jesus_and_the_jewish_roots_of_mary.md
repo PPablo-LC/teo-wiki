@@ -1,12 +1,12 @@
 ---
 type: Documento
-title: "Jesus and the Jewish Roots of Mary: Unveiling the Mother of the Messiah"
+title: "Jesús and the Jewish Roots of Mary: Unveiling the Mother of the Messiah"
 description: "Mariología bíblica de Brant Pitre (2018): las doctrinas sobre María tienen raíces judías, no paganas, y se leen desde los tipos del Antiguo Testamento."
 tags: ["mariología", "teología_bíblica", "tipología", "judaísmo_del_segundo_templo"]
 timestamp: 2026-10-19
 ---
 
-# Jesus and the Jewish Roots of Mary: Unveiling the Mother of the Messiah
+# Jesús and the Jewish Roots of Mary: Unveiling the Mother of the Messiah
 
 > Código: JRM
 > Autor: Brant Pitre
@@ -15,7 +15,7 @@ timestamp: 2026-10-19
 
 ## Descripción
 
-*Jesus and the Jewish Roots of Mary* (Image, 2018) es la mariología bíblica de [[brant_pitre]]. Nace de una crisis personal: formado en la piedad católica de Luisiana, Pitre vio tambalear su confianza en las doctrinas marianas ante las objeciones protestantes —la «reina del cielo» de Jeremías, los «hermanos» de Jesús, el silencio del NT sobre la Inmaculada y la Asunción—. La respuesta la encontró en Notre Dame, al estudiar el Nuevo Testamento con los ojos del Antiguo y de la literatura judía del Segundo Templo.
+*Jesús and the Jewish Roots of Mary* (Image, 2018) es la mariología bíblica de [[brant_pitre]]. Nace de una crisis personal: formado en la piedad católica de Luisiana, Pitre vio tambalear su confianza en las doctrinas marianas ante las objeciones protestantes —la «reina del cielo» de Jeremías, los «hermanos» de Jesús, el silencio del NT sobre la Inmaculada y la Asunción—. La respuesta la encontró en Notre Dame, al estudiar el Nuevo Testamento con los ojos del Antiguo y de la literatura judía del Segundo Templo.
 
 La tesis del libro es doble:
 
@@ -90,6 +90,6 @@ Is 66,7-9 anuncia un parto sin dolores; Miq 4-5, unos dolores de parto mesiánic
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary: Unveiling the Mother of the Messiah*, Image, 2018.
+- Brant Pitre, *Jesús and the Jewish Roots of Mary: Unveiling the Mother of the Messiah*, Image, 2018.
 - CEC 411.487.490-492; Pío IX, *Ineffabilis Deus* (1854).
 - Joseph Ratzinger, *Daughter Zion*; John Henry Newman, *An Essay on the Development of Christian Doctrine*.

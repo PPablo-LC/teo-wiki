@@ -15,7 +15,7 @@ El **servicio de acompañamiento** es el servicio eclesiástico que ofrece
 acogida, escucha y acompañamiento psicológico, social y espiritual a las
 personas ofendidas por abusos, instituido por las normas de protección de
 menores del Estado de la Ciudad del Vaticano (art. 9) y asumido por el
-*Vademecum* de la CDF como práctica recomendada universal.
+*Vademécum* de la CDF como práctica recomendada universal.
 
 ## Contenido (art. 9 de la ley)
 
@@ -53,5 +53,5 @@ las instituciones eclesiásticas (cf. [[protección_de_menores]],
 ## Referencias
 
 - Ley de protección de menores, art. 9; Motu proprio (carta apostólica de promulgación)
-- CDF, *Vademecum* (2020)
+- CDF, *Vademécum* (2020)
 - Resúmenes del wiki: Ley_protección_menores (arts. 6, 8, 9)

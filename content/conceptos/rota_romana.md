@@ -27,13 +27,13 @@ El c. 1443 establece que la Rota Romana es el tribunal ordinario constituido por
 
 El c. 1427 §2 señala que la Rota Romana puede conocer de causas contenciosas por apelación, y las causas de nulidad de matrimonio le son particularmente propias. En las causas relativas al estado de las personas (incluyendo la nulidad matrimonial), la sentencia de la Rota Romana produce cosa juzgada tras dos decisiones conformes (c. 1641). El Decano de la Rota Romana preside el tribunal y es nombrado por el Romano Pontífice (PB 130).
 
+### Según el Comentario al CIC (Eunsa)
+
+El Comentario Exegético destaca que la jurisprudencia rotal constituye una fuente interpretativa de primer orden para la aplicación del derecho en los tribunales inferiores, especialmente en la determinación de los capítulos de nulidad matrimonial y en la valoración de la prueba pericial psicológica.
 ### Según la Constitución *Pastor Bonus* (PB)
 
 PB 127-130 regulan la Rota Romana como tribunal colegial con competencia para recibir apelaciones de causas instruidas en los tribunales inferiores (PB 128). Puede conocer en primera instancia las causas que el Romano Pontífice le encomienda (PB 129). La función del Decano es presidir y dirigir el tribunal (PB 130). Los jueces de la Rota Romana son designados por el Papa entre sacerdotes de reconocida doctrina y experiencia (PB 127).
 
-### Según el Comentario al CIC (Eunsa)
-
-El Comentario Exegético destaca que la jurisprudencia rotal constituye una fuente interpretativa de primer orden para la aplicación del derecho en los tribunales inferiores, especialmente en la determinación de los capítulos de nulidad matrimonial y en la valoración de la prueba pericial psicológica.
 
 ## Distinciones importantes
 

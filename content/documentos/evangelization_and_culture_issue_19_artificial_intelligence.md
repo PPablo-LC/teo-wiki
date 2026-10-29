@@ -138,4 +138,4 @@ Los resúmenes estructurados del número están en `wiki/Resúmenes/Evangelizati
 - **Código**: EAC-19
 - **Archivos raw**: 24 archivos en `raw/Bases_doctrinales-raw/Evangelization and culture - 19_capitulos/`
 - **Índice de conceptos**: `raw/Bases_doctrinales-raw/Evangelization and culture - 19_capitulos/índice.md`
-- **Autores principales**: Bishop Robert Barron, Matthew R. Petrusek, Tod Worner, Angela M. Jendro, Andre Vlok, Kathy Schiffer, Jason Paone, Dietrich von Hildebrand, Justin Kalan, Daniel Granitto, Dr. Jonathan Askonas, Dr. Justin Litke, Fr. Anselm Ramelow OP, Dr. Joseph Vukov, Haley Stewart, Dr. Edward Feser, Fabiola Garza, Amy Baxt, Fr. Dan Steele, Tom Hoopes.
+- **Autores principales**: Bishop Robert Barron, Matthew R. Petrusek, Tod Worner, Ángela M. Jendro, Andre Vlok, Kathy Schiffer, Jason Paone, Dietrich von Hildebrand, Justin Kalan, Daniel Granitto, Dr. Jonathan Askonas, Dr. Justin Litke, Fr. Anselm Ramelow OP, Dr. Joseph Vukov, Haley Stewart, Dr. Edward Feser, Fabiola Garza, Amy Baxt, Fr. Dan Steele, Tom Hoopes.

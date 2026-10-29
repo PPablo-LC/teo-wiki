@@ -13,7 +13,7 @@ timestamp: 2026-08-23
 
 ## Definición
 
-La comunicación y transparencia designa el principio institucional asumido por la Legión de Cristo tras la crisis de los abusos: comunicar con veracidad los hechos, publicar los casos de legionarios culpables, informar a los afectados y rendir cuentas, como reverso sistemático del [[encubrimiento]] que caracterizó décadas de gestión de los casos. El documento *Proteger y sanar* (Capítulo General, 26 de febrero de 2020) lo formula como el compromiso de «fomentar el valor de la justa transparencia».
+La comunicación y transparencia designa el principio institucional asumido por la Legión de Cristo tras la crisis de los abusos: comunicar con veracidad los hechos, publicar los casos de legionarios culpables, informar a los afectados y rendir cuentas, como reverso sistemático del [[encubrimiento]] que caracterizó décadas de gestión de los casos. El documento *Proteger y sanar* (Capítulo General, 26 de febrero de 2020) lo fórmula como el compromiso de «fomentar el valor de la justa transparencia».
 
 ## Desarrollo doctrinal
 

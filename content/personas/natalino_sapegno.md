@@ -43,7 +43,7 @@ domanda”»: la crítica positivista niega que la pregunta por el último
 sentido tenga valor cognoscitivo. Frente a ello:
 
 > «La ricerca della verità dentro la realtà […] coincide con la ricerca
-> dell'ultimo senso […] La realtà che emerge alla coscienza mia si chiama
+> dell'ultimo senso […] La realtà che emerge alla coscienza mía si chiama
 > esperienza».
 
 Negar la pregunta va contra la [[experiencia]] y es, por tanto,

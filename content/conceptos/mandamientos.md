@@ -5,7 +5,7 @@ description: "Preceptos divinos promulgados por Dios a Moisés en el Sinai (Ex 2
 ---
 # Mandamientos
 
-> Area: Moral
+> Área: Moral
 > Ultima actualización: 2026-06-03
 
 ## Definición

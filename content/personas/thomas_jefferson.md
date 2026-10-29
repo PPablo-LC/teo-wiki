@@ -49,7 +49,7 @@ Jefferson es relevante para la teología católica porque su formulación de los
 ## Referencias
 
 - EAC-21, 09_spotlight_barron.md (conversación de Bishop Robert Barron con Tod Worner), «What Is Democracy?»
-- EAC-21, 15_feature_arnn.md (Larry P. Arnn), «Is There a Theology of America?»
-- EAC-21, 07_stacks.md (Paul Krause), «The Spirit of Religion and the Spirit of Liberty»
+- EAC-21, 15_feature_arnn.md (Larry P. Arnn), «Is There a Theology of América?»
+- EAC-21, 07_stacks.md (Paul Krause), «The Spirit of Religión and the Spirit of Liberty»
 - Jefferson, Thomas, Declaración de Independencia de los Estados Unidos (4 de julio de 1776)
 - Jefferson, Thomas, «To Roger C. Weightman» (última carta importante, 1826)

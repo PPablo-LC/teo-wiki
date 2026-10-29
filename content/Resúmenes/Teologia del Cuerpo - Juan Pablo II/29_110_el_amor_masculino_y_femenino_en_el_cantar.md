@@ -4,7 +4,7 @@ title: "110. El amor masculino y femenino en el Cantar"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 29
 timestamp: 2026-08-01
-description: "Catequesis 110: el «tú» femenino y el «yo» masculino, el apelativo «hermana» y el amor de amistad, el «jardín cerrado y fuente sellada» y la libertad del don en el Cantar — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 110: el «tú» femenino y el «yo» masculino, el apelativo «hermana» y el amor de amistad, el «jardín cerrado y fuente sellada» y la libertad del don en el Cantar — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

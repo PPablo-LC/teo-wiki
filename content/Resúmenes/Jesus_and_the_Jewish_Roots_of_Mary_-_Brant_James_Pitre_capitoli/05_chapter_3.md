@@ -40,4 +40,4 @@ Cinco paralelos con 2 Sam 6: «se levantó y fue», la montaña de Judá, «¿c�
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `05_chapter_3`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `05_chapter_3`

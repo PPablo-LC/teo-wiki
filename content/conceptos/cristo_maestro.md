@@ -23,6 +23,10 @@ Santo Tomás dedica la cuestión IIIª q.42 al modo de la enseñanza de Cristo, 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Jesús es el Maestro por excelencia (CEC §561). Su enseñanza tiene autoridad única porque Él mismo es el Hijo de Dios: «Jamás ha hablado nadie como este hombre» (Jn 7,46; CEC §581). Cristo enseña con autoridad divina, interpreta la Ley con autoridad soberana y anuncia el Evangelio del Reino (CEC §581-582). Los milagros confirman su enseñanza y manifiestan que Él es el enviado del Padre (CEC §547-550). Cristo ha confiado su enseñanza a los Apóstoles para que la transmitan a todas las naciones (CEC §857). La Iglesia recibe de los Apóstoles la memoria viva de Cristo, y por la sucesión apostólica conserva y transmite su enseñanza (CEC §857, §1260).
+
 ### Según la Summa Theologiae (SmTh)
 
 **Cristo, doctor supremo (IIIª q.42 a.4):** Cristo no consignó su doctrina por escrito por tres razones que brotan de su dignidad como sumo doctor:
@@ -38,10 +42,6 @@ Agustín aclara que Cristo es cabeza de todos sus discípulos como miembros de s
 **Modo de enseñar de Cristo (IIIª q.42 a.1-3):** Cristo predicó primero a los judíos y no a los gentiles, para cumplir las promesas, mantener el orden divino, evitar calumnias y merecer por la cruz el poder sobre las naciones (q.42 a.1). No rehuyó escandalizar a los fariseos cuando impedían la salvación del pueblo, porque «si de la verdad se origina el escándalo, es preferible mantener el escándalo antes que abandonar la verdad» (q.42 a.2). Enseñó públicamente toda su doctrina, aunque a las turbas hablaba en parábolas por no ser capaces de la verdad desnuda, y a los discípulos exponía con claridad para que ellos la transmitiesen (q.42 a.3).
 
 **Autoridad de la enseñanza de Cristo (IIIª q.42 a.1 ad 2):** El poder de Cristo en la enseñanza se manifestó de cuatro modos: por los milagros con que confirmaba su doctrina; por la eficacia para persuadir; por la autoridad del que habla, puesto que lo hacía como quien tiene poder sobre la ley («Yo os digo»); y por la fuerza de la rectitud que manifestaba en su vida, exenta de pecado.
-
-### Según el Catecismo (CEC)
-
-Jesús es el Maestro por excelencia (CEC §561). Su enseñanza tiene autoridad única porque Él mismo es el Hijo de Dios: «Jamás ha hablado nadie como este hombre» (Jn 7,46; CEC §581). Cristo enseña con autoridad divina, interpreta la Ley con autoridad soberana y anuncia el Evangelio del Reino (CEC §581-582). Los milagros confirman su enseñanza y manifiestan que Él es el enviado del Padre (CEC §547-550). Cristo ha confiado su enseñanza a los Apóstoles para que la transmitan a todas las naciones (CEC §857). La Iglesia recibe de los Apóstoles la memoria viva de Cristo, y por la sucesión apostólica conserva y transmite su enseñanza (CEC §857, §1260).
 
 ### Según la Tradición apostólica (tradición_apostólica)
 

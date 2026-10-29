@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Principals and Norms of the Legion of Christ"
+title: "Principals and Norms of the Legión of Christ"
 fuente: Legionarios_de_Cristo_WikiLeaks
 capítulo: 3
 timestamp: 2026-08-24
-description: "Resumen de 'Principals and Norms of the Legion of Christ' — Legionarios_de_Cristo_WikiLeaks"
+description: "Resumen de 'Principals and Norms of the Legión of Christ' — Legionarios_de_Cristo_WikiLeaks"
 tags: ["resumen", "legionarios de cristo wikileaks"]
 ---
 
-# Principals and Norms of the Legion of Christ
+# Principals and Norms of the Legión of Christ
 
 ## Conceptos básicos referenciados
 

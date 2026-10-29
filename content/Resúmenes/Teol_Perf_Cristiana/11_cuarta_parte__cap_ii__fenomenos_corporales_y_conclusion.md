@@ -75,7 +75,7 @@ Claridad resplandeciente que irradia el cuerpo de los santos durante la contempl
 
 Perfume suave que emana del cuerpo de los santos o de sus sepulcros. Casos: San José de Cupertino (su aroma impregnó la celda durante 12-13 años, se adhería a los hábitos sin poderlo quitar), Santa Ludwina, San Felipe Neri, San Juan de la Cruz, Santa Gema Galgani. Naturaleza: aroma singular, sin comparación con perfumes terrestres («olor de paraíso o de santidad»). Explicación: el cuerpo humano no puede naturalmente oler bien (Benedicto XIV). El fenómeno no puede explicarse naturalmente. Puede tener causa diabólica (el demonio puede provocar olores —caso del Beato Jordán de Sajonia). En los santos es consecuencia espontánea de la divinización del alma, irradiación de la gracia íntima; probablemente es participación anticipada de las cualidades del cuerpo glorioso.
 
-## Conclusion
+## Conclusión
 
 En esta cuarta parte se ha querido esclarecer el campo de la Mística más perseguido por los incrédulos y racionalistas. A lo largo del estudio, y a pesar de admitir toda explicación verdaderamente científica que pudiera dar razón de estos fenómenos sin salir del orden natural, se ha demostrado que la naturaleza francamente prodigiosa de multitud de hechos plenamente comprobados exige el recurso a lo sobrenatural como única explicación posible.
 

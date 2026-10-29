@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Breve catechesi sul matrimonio — portada e indice"
+title: "Breve catechesi sul matrimonio — portada e índice"
 fuente: Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos
 capítulo: 1
 timestamp: 2026-10-28
-description: "Datos editoriales, dedicatoria y estructura de la Breve catechesi sul matrimonio de Antonio Maria Sicari (Jaca Book, 1990)."
+description: "Datos editoriales, dedicatoria y estructura de la Breve catechesi sul matrimonio de Antonio María Sicari (Jaca Book, 1990)."
 tags: ["resumen", "breve catechesi sul matrimonio", "índice", "sicari"]
 ---
 
-# Breve catechesi sul matrimonio — portada e indice
+# Breve catechesi sul matrimonio — portada e índice
 
 ## Conceptos básicos referenciados
 
@@ -22,9 +22,9 @@ tags: ["resumen", "breve catechesi sul matrimonio", "índice", "sicari"]
 
 ### Datos editoriales
 
-*Breve catechesi sul matrimonio*, de Antonio Maria Sicari, en la colección «Già e non ancora» de Jaca Book (Milán). Primera edición: octubre de 1990; novena reimpresión: enero de 2003. ISBN 88-16-30191-0. En la cubierta: *Dio dà all'uomo una compagna: Eva esce dal costato di Adamo con un ramoscello, simbolo della vita* (Moulins, Bibbia di Souvigny), en R. Pernoud, *Immagini della donna nel Medioevo*, Jaca Book, Milán 1998.
+*Breve catechesi sul matrimonio*, de Antonio María Sicari, en la colección «Già e non ancora» de Jaca Book (Milán). Primera edición: octubre de 1990; novena reimpresión: enero de 2003. ISBN 88-16-30191-0. En la cubierta: *Dio dà all'uomo una compagna: Eva esce dal costato di Adamo con un ramoscello, símbolo della vita* (Moulins, Bibbia di Souvigny), en R. Pernoud, *Immagini della donna nel Medioevo*, Jaca Book, Milán 1998.
 
-Otras obras del autor en la misma editorial: *Matrimonio e verginità nella Rivelazione. L'uomo di fronte alla «Gelosia di Dio»* (1978), *Chiamati per nome. La vocazione nella Scrittura* (1980), los cinco libros de *Ritratti di santi* (1988–1996), *Beato chi incontra Cristo. Meditazione sulle beatitudini* (1992), *L'itinerario di Santa Teresa d'Avila* (1994), *Abramo, Mosè, Elia. Ritratti biblici* (1995), *Viaggio nel Vangelo. Gesù di Nazareth* (1995), *Il grande libro dei Ritratti di santi* (1997–1999), *La teologia di S. Teresa di Lisieux* (1997), *Santi nella carità* (1999), *Santi nel nostro tempo* (1999), *Elisabetta della Trinità. Un'esistenza teologica* (2000).
+Otras obras del autor en la misma editorial: *Matrimonio e verginità nella Rivelazione. L'uomo di fronte alla «Gelosia di Dio»* (1978), *Chiamati per nome. La vocazione nella Scrittura* (1980), los cinco libros de *Ritratti di santi* (1988–1996), *Beato chi incontra Cristo. Meditazione sulle beatitudini* (1992), *L'itinerario di Santa Teresa d'Avila* (1994), *Abramo, Mosè, Elia. Ritratti biblici* (1995), *Viaggio nel Vangelo. Gesù di Nazareth* (1995), *Il grande libro dei Ritratti di santi* (1997–1999), *La teología di S. Teresa di Lisieux* (1997), *Santi nella carità* (1999), *Santi nel nostro tempo* (1999), *Elisabetta della Trinità. Un'esistenza teológica* (2000).
 
 ### Dedicatoria y epígrafe
 
@@ -43,4 +43,4 @@ El libro va dedicado «A todos los esposos que he bendecido ante el altar de Cri
 
 ### Nota final del autor
 
-En la solapa de cierre, Sicari recoge una cita de la mística medieval neerlandesa Hadewych —«El amor divino se muestra siempre escondiéndose, / el hombre lo sigue y él permanece invisible, / por eso hace velar continuamente el corazón»— y presenta el libro como «un camino de educación al amor, dedicado sobre todo a las parejas jóvenes que se preparan a celebrar el sacramento de su matrimonio», aunque útil «para todos los que quieren aprender a comprender mejor al hombre: a sí mismos y a los demás». Se añade una breve nota biográfica: Antonio Sicari nació en 1943, sacerdote desde 1967, de la Orden de los Carmelitas Descalzos, doctor en Teología y licenciado en Ciencias Bíblicas, miembro de la redacción italiana de la revista «Communio» y profesor de Teología Dogmática en el Studio Teologico Carmelitano de Brescia.
+En la solapa de cierre, Sicari recoge una cita de la mística medieval neerlandesa Hadewych —«El amor divino se muestra siempre escondiéndose, / el hombre lo sigue y él permanece invisible, / por eso hace velar continuamente el corazón»— y presenta el libro como «un camino de educación al amor, dedicado sobre todo a las parejas jóvenes que se preparan a celebrar el sacramento de su matrimonio», aunque útil «para todos los que quieren aprender a comprender mejor al hombre: a sí mismos y a los demás». Se añade una breve nota biográfica: Antonio Sicari nació en 1943, sacerdote desde 1967, de la Orden de los Carmelitas Descalzos, doctor en Teología y licenciado en Ciencias Bíblicas, miembro de la redacción italiana de la revista «Communio» y profesor de Teología Dogmática en el Studio Teológico Carmelitano de Brescia.

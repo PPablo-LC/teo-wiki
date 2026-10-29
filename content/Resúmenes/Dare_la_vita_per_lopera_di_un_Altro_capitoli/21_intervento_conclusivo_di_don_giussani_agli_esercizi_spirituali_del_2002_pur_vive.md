@@ -26,9 +26,9 @@ tags: ["resumen", "dare la vita per lopera di un altro capitoli"]
 
 Giussani concluye los Ejercicios de la Fraternidad (Rimini, 3-5 maggio 2002) evocando la escena en que Jesús fue interrumpido y detenido en su camino al pueblo al que se había destinado (cfr. Lc 7,11-17): había un llanto altísimo de mujer, un grito de dolor que percutía el corazón de todos los presentes y, antes que nada, el corazón de Cristo. «Donna, non piangere!» (Lc 7,13): nunca vista, nunca conocida antes. ¿Qué sostén podía tener aquella mujer al escuchar la palabra que Jesús le dirigía? En la vida cotidiana —al entrar en casa, en el tranvía, en el tren, ante la hilera de automóviles, ante toda la farragine de cosas que interesan a la vida de millones y millones de hombres— es decisivo aquel sguardo que un niño o un "grande" habrían dirigido a aquel hombre que venía al frente de un pequeño grupo de amigos y que no había visto jamás a aquella mujer, pero se detuvo cuando el reverbero del llanto llegó hasta Él. «Come se nessuno la conoscesse, come se nessuno la riconoscesse più intensamente, più totalmente, più decisivamente di Lui!»
 
-### L'incognita della fine
+### L'incógnita della fine
 
-Todo el movimiento del mundo —en cuyo río y cuyos arroyos todos los hombres se hacen presentes a la vida— tiene su incógnita en «l'incognita del come si è giunti a questa novità»: esa novedad que hace encontrar a un hombre nunca visto que, ante el dolor de la mujer que ve por primera vez, dice «Donna, non piangere!». Este es el corazón con que nos ponemos ante la mirada y la tristeza, ante el dolor de toda la gente con la que entramos en relación, por la calle o en los viajes.
+Todo el movimiento del mundo —en cuyo río y cuyos arroyos todos los hombres se hacen presentes a la vida— tiene su incógnita en «l'incógnita del come si è giunti a questa novità»: esa novedad que hace encontrar a un hombre nunca visto que, ante el dolor de la mujer que ve por primera vez, dice «Donna, non piangere!». Este es el corazón con que nos ponemos ante la mirada y la tristeza, ante el dolor de toda la gente con la que entramos en relación, por la calle o en los viajes.
 
 ### «Uomo, non piangere!»
 

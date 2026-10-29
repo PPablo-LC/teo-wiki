@@ -22,6 +22,9 @@ La teología moral es una ciencia teológica práctica que se distingue de la é
 
 ## Perspectivas por fuente
 
+### Código de Derecho Canónico (CIC)
+
+- **c. 252**: La enseñanza de la teología moral debe fundarse en la Sagrada Escritura, la Tradición y el magisterio.
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la teología moral como:
@@ -31,9 +34,6 @@ El autor presenta la teología moral como:
 - No es una ciencia abstracta, sino que parte de la vida concreta de los fieles.
 - Requiere una metodología específica que combine fe y razón.
 
-### Código de Derecho Canónico (CIC)
-
-- **c. 252**: La enseñanza de la teología moral debe fundarse en la Sagrada Escritura, la Tradición y el magisterio.
 
 ## Distinciones importantes
 

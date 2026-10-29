@@ -29,6 +29,11 @@ La Iglesia reconoce que el combate espiritual es un elemento esencial de la vida
 
 CEC §2725-2728: El combate de la oración es el combate de la humildad y la fe contra nuestra desconfianza natural y contra la seducción del mal. La oración es un don de la gracia que exige una respuesta libre.
 
+### Según la Summa Theologiae (SmTh)
+
+**IIa-IIae q.35:** La acedia es uno de los principales obstáculos en el combate espiritual, pues trae tristeza ante los bienes espirituales y lleva a abandonar los deberes de piedad.
+
+**IIa-IIae q.180:** La vida contemplativa implica un combate contra las distracciones y tentaciones que se oponen a la unión con Dios.
 ### Según Mons. Tihámer Tóth (JvC)
 
 El combate del alma es la lucha continua entre el bien y el mal. «En todo hombre hay un santo y un criminal», dice Lacordaire, citado por JvC. El criminal adquiere fuerzas por sí mismo; para ser santo se necesita labor perseverante [JvC, Cap. II]. La guerra contra nosotros mismos es la primera condición del carácter: «La mejor defensa es el ataque. Quien empieza la ofensiva gran ventaja lleva. En el combate del alma has de atacar día tras día, aunque sólo sea en pequeñas escaramuzas, al ejército enemigo que está dentro de ti y cuyo nombre es pereza, comodidad, capricho, glotonería, curiosidad, desamor...» [JvC, Cap. I].
@@ -39,11 +44,6 @@ La ley de la cristalización ilustra cómo los pensamientos nobles atraen a otro
 
 JvC-Muj presenta el mismo principio: «En todo hombre hay un santo y un criminal» [JvC-Muj, Cap. II]. La guerra contra nosotros mismos es la primera condición del carácter: «La mejor defensa es el ataque. Quien empieza la ofensiva gran ventaja lleva. En el combate del alma has de atacar día tras día, aunque sólo sea en pequeñas escaramuzas, al ejército enemigo que está dentro de ti y cuyo nombre es pereza, comodidad, capricho, glotonería, curiosidad, desamor...» [JvC-Muj, Cap. II]. La joven de carácter debe combatir día tras día sus defectos, pues «la ley de la cristalización» muestra que los pensamientos nobles atraen a otros semejantes [JvC-Muj, Cap. II].
 
-### Según la Summa Theologiae (SmTh)
-
-**IIa-IIae q.35:** La acedia es uno de los principales obstáculos en el combate espiritual, pues trae tristeza ante los bienes espirituales y lleva a abandonar los deberes de piedad.
-
-**IIa-IIae q.180:** La vida contemplativa implica un combate contra las distracciones y tentaciones que se oponen a la unión con Dios.
 
 ## Distinciones importantes
 

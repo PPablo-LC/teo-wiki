@@ -26,7 +26,7 @@ Las cinco obras comentadas:
 1. **William Merritt Chase, “Keying Up”—The Court Jester** (1875): el bufón vierte el oporto con precisión; vestimenta alegre pero rostro severo — «ser gracioso es un asunto serio»: hay que «afinarse» (*key up*) antes del espectáculo.
 2. **Eduardo Zamacois y Zabala, Jesters Playing "Cochonnet"** (1868): bufones de Enrique III discutiendo con ardor una partida de pétanque; sonrisas y ceños fruncidos a la vez; «la seriedad de la competencia entre una pandilla poco seria»; cuadro «saturado de elementos de lo temporal y lo trascendente, no distinto a nuestras propias vidas».
 3. **Jan Matejko, Stańczyk** (1862): quizá la pintura de bufón más inquietante jamás creada; el célebre bufón polaco (consejero de tres reyes) solo y conmocionado ante la pérdida de Smolensk, mientras la corte danza indiferente y un cometa funesto cruza la ventana. La paradoja de gravedad profunda en hombre de rojo ridículo llama a afrontar la tragedia que apartamos en nuestra búsqueda insaciable de placer.
-4. **Leon Wyczółkowski, Stańczyk** (1898): treinta años después, el mismo bufón llorando con la cabeza entre las manos por el futuro sombrío de Polonia bajo aristócratas títeres: duelo privado e inconsolable.
+4. **León Wyczółkowski, Stańczyk** (1898): treinta años después, el mismo bufón llorando con la cabeza entre las manos por el futuro sombrío de Polonia bajo aristócratas títeres: duelo privado e inconsolable.
 5. **John Watson Nicol, The Court Jester** (1895): hijo de Erskine Nicol, que enseñó en Dublín en plena Gran Hambruna irlandesa; aquí el bufón halla reposo artístico: «hacer reír de verdad es un arte y también una necesidad».
 
 ## Mapa del archivo fuente

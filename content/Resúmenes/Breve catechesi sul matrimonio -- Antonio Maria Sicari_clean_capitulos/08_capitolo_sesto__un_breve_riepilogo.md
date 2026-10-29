@@ -25,7 +25,7 @@ tags: ["resumen", "breve catechesi sul matrimonio", "matrimonio", "virginidad", 
 - [[virginidad]] — signo y recuerdo viviente del acontecimiento de Cristo
 - [[virginidad_consagrada]] — vocación de algunos en la Iglesia, también laicos
 - [[maría]] — la Madre virgen y la «certeza del Padre»
-- [[paul_claudel]] — *L'anuncio a Maria* como parábola de la virginidad
+- [[paul_claudel]] — *L'anuncio a María* como parábola de la virginidad
 - [[iglesia_esposa]] — la Iglesia ante el Esposo eucarístico
 - [[consejos_evangélicos]] — la virginidad vivida como estado de vida
 - [[memores_domini]] — los consagrados que «recuerdan» al Señor

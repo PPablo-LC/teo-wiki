@@ -48,7 +48,7 @@ religiosa y el ateísmo práctico tienen raíces en un humanismo que pone al
 hombre en el lugar de Dios (§2125) y que los creyentes mismos pueden
 favorecerlo con una vida religiosa, moral y social defectuosa (§2126).
 
-### Según Antonio Maria Sicari (IDC)
+### Según Antonio María Sicari (IDC)
 
 En *Il dono della confessione* ([[il_dono_della_confessione]]) el ateísmo
 práctico aparece como la materia del **primer mandamiento** en el examen de

@@ -21,7 +21,7 @@ El **tiempo libre** es el espacio donde la propuesta educativa puede dejar de se
 ## Perspectivas por fuente
 
 ### Giussani — Il rischio educativo (IRE)
-I, 166-170: tercera condición para la verificación (tras empeño en el ambiente y dimensión comunitaria): «Il tempo libero è il punto in cui l'ideale più facilmente da "dovere" diventa "fascino"».
+I, 166-170: tercera condición para la verificación (tras empeño en el ambiente y dimensión comunitaria): «Il tempo libero è il punto in cui l'ideale più fácilmente da "dovere" diventa "fascino"».
 
 ## Relaciones doctrinales
 [[libertad]], [[educación]], [[ambiente]], [[comunidad]]

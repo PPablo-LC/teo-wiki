@@ -23,6 +23,13 @@ La validez del sacramento requiere que la materia sea verdadero pan de trigo y v
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La materia de la Eucaristía es pan de trigo y vino de la vid (CEC §1412). La Iglesia prescribe la mezcla de una pequeña cantidad de agua con el vino, que significa la participación del pueblo fiel en la ofrenda de Cristo (CEC §1412).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El pan debe ser de trigo y hecho recientemente; el vino, natural del fruto de la vid y no corrupto (c. 924 §§1-3). El pan ácimo es el propio de la Iglesia latina (c. 926). Se debe añadir un poco de agua al vino (c. 924 §1).
 ### Según la Summa Theologiae (SmTh)
 
 #### IIIª q.74 — La materia de este sacramento
@@ -43,13 +50,6 @@ La validez del sacramento requiere que la materia sea verdadero pan de trigo y v
 
 **a.8 — Debe añadirse poca agua:** De las tres opiniones sobre el agua añadida, la más probable es que el agua se convierte en vino y el vino en la sangre, lo que exige que se añada tan poca cantidad que se convierta en vino. Es, pues, más seguro añadir siempre poca agua, sobre todo si el vino es flojo, porque si se añade tanta que el vino deje de ser vino, no puede hacerse el sacramento. (SmTh IIIa q.74 a.8)
 
-### Según el Catecismo (CEC)
-
-La materia de la Eucaristía es pan de trigo y vino de la vid (CEC §1412). La Iglesia prescribe la mezcla de una pequeña cantidad de agua con el vino, que significa la participación del pueblo fiel en la ofrenda de Cristo (CEC §1412).
-
-### Según el Código de Derecho Canónico (CIC)
-
-El pan debe ser de trigo y hecho recientemente; el vino, natural del fruto de la vid y no corrupto (c. 924 §§1-3). El pan ácimo es el propio de la Iglesia latina (c. 926). Se debe añadir un poco de agua al vino (c. 924 §1).
 
 ## Distinciones importantes
 

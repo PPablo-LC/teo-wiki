@@ -22,13 +22,13 @@ El orden natural es el fundamento de la ley natural y de la moral. Santo Tomás 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«La ley natural expresa el sentido moral original que permite al hombre discernir mediante la razón el bien y el mal» (CEC §1954). Está inscrita en el corazón del hombre (CEC §1955). «La ley natural es inmanente e indispensable. Su conocimiento es accesible a toda persona racional» (CEC §1956). El orden natural es el fundamento de la dignidad humana y de los derechos humanos (CEC §1700-1706, §1935-1938).
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás distingue entre el orden natural y el orden de la gracia (SmTh Iª q.1 a.8 ad 2; I-II q.109-114). El orden natural procede de Dios como Creador; el orden sobrenatural procede de Dios como Redentor y Santificador. La naturaleza tiene sus propias operaciones y fines, pero está ordenada a la gracia como a su perfección (SmTh Iª q.62 a.2). La distinción evita tanto el naturalismo (que niega lo sobrenatural) como el extrínsecismo (que separa gracia y naturaleza).
 
-### Según el Catecismo (CEC)
-
-«La ley natural expresa el sentido moral original que permite al hombre discernir mediante la razón el bien y el mal» (CEC §1954). Está inscrita en el corazón del hombre (CEC §1955). «La ley natural es inmanente e indispensable. Su conocimiento es accesible a toda persona racional» (CEC §1956). El orden natural es el fundamento de la dignidad humana y de los derechos humanos (CEC §1700-1706, §1935-1938).
 
 ## Ver también
 

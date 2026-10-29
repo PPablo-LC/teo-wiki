@@ -52,7 +52,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "profecías", "m
 - «¿Podrá hacer signos más grandes?» (Jn 7, 31)
 - Sanedrín: expulsión de sinagoga si confesaba Mesías (Jn 9, 22)
 
-**Profesión de fe en Cesarea:**
+**Profesión de fe en Cesárea:**
 - «¿Quién decís que soy yo?»
 - Pedro: «Tú eres el Cristo» (Mc 8, 29)
 - Orden de no difundir la verdad sobre su identidad

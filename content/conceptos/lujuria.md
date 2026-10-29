@@ -24,18 +24,6 @@ La lujuria es el vicio más vil y degradante de todos cuantos se pueden cometer,
 ### Según el Catecismo (CEC)
 
 «La lujuria es un deseo o un goce desordenados del placer venéreo. El placer sexual es moralmente desordenado cuando es buscado por sí mismo, separado de las finalidades de procreación y de unión» (§2351). Es uno de los siete pecados capitales (§1866). Entre los pecados gravemente contrarios a la castidad se citan la masturbación, la fornicación, la pornografía y las prácticas homosexuales (§2396).
-### Según Royo Marín (TPCr)
-
-La lujuria es el más brutal y peligroso de los apetitos del sentido del tacto. Subvierte por completo los sentidos y aparta los ojos del alma del cielo. El desorden en esta materia es siempre mortal. «No solamente compromete la perfección, sino que se renuncia a la salvación».
-
-La lujuria produce ceguera espiritual (excluye casi por completo el conocimiento de los bienes espirituales), mientras que la gula produce embotamiento. «Por eso, la lujuria —que lleva consigo una más fuerte aplicación a lo carnal— produce la ceguera espiritual».
-
-La lujuria es también origen de la estulticia o necedad espiritual, que embrutece y animaliza al hombre. De ella proviene también la imprudencia en sus diversas especies: precipitación, inconsideración e inconstancia.
-
-En la lucha contra la lujuria, Royo Marín recomienda la resistencia indirecta (nunca enfrentarse directamente con la tentación, sino distraer la mente a otro objeto), la huida de ocasiones peligrosas, la mortificación de los sentidos, la frecuencia de sacramentos y la devoción a la Virgen.
-
-[TPCr, Parte III, Libro I, n.225-227; Parte III, Libro II, Cap. II, n.341, 457]
-
 ### Según la Summa Theologiae (SmTh)
 
 #### Q153: La lujuria en general
@@ -75,6 +63,18 @@ Santo Tomás enumera seis especies de lujuria (a.1), ordenadas según la graveda
 El orden de gravedad, de menor a mayor, es: fornicación, estupro, adulterio, incesto, rapto, vicio contra natura. Este orden se basa en cuánto se aparta el acto del bien de la prole, del bien del vínculo matrimonial y del orden natural de la generación.
 
 En los artículos 2 a 12, Santo Tomás examina con detalle cada especie, sus circunstancias agravantes y atenuantes, y su relación con los mandamientos y la ley natural.
+
+### Según Royo Marín (TPCr)
+
+La lujuria es el más brutal y peligroso de los apetitos del sentido del tacto. Subvierte por completo los sentidos y aparta los ojos del alma del cielo. El desorden en esta materia es siempre mortal. «No solamente compromete la perfección, sino que se renuncia a la salvación».
+
+La lujuria produce ceguera espiritual (excluye casi por completo el conocimiento de los bienes espirituales), mientras que la gula produce embotamiento. «Por eso, la lujuria —que lleva consigo una más fuerte aplicación a lo carnal— produce la ceguera espiritual».
+
+La lujuria es también origen de la estulticia o necedad espiritual, que embrutece y animaliza al hombre. De ella proviene también la imprudencia en sus diversas especies: precipitación, inconsideración e inconstancia.
+
+En la lucha contra la lujuria, Royo Marín recomienda la resistencia indirecta (nunca enfrentarse directamente con la tentación, sino distraer la mente a otro objeto), la huida de ocasiones peligrosas, la mortificación de los sentidos, la frecuencia de sacramentos y la devoción a la Virgen.
+
+[TPCr, Parte III, Libro I, n.225-227; Parte III, Libro II, Cap. II, n.341, 457]
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

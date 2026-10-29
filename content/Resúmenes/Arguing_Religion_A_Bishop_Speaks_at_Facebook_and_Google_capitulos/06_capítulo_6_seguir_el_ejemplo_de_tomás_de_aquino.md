@@ -10,7 +10,7 @@ tags: ["resumen", apologética, santo_tomás_de_aquino, quaestio_disputata]
 
 # Capítulo 6 — Seguir el ejemplo de Tomás de Aquino
 
-> 📄 **Fuente original:** `06_chapter_six.md` — *Arguing Religion: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 6: «Follow the Example of Thomas Aquinas», con el inicio de la Sección Segunda: «Religion and the Opening up of the Mind».
+> 📄 **Fuente original:** `06_chapter_six.md` — *Arguing Religión: A Bishop Speaks at Facebook and Google* (Robert Barron), capítulo 6: «Follow the Example of Thomas Aquinas», con el inicio de la Sección Segunda: «Religión and the Opening up of the Mind».
 
 ## Conceptos básicos referenciados en este capítulo
 
@@ -37,7 +37,7 @@ Tomás fue *magister* de teología en la Universidad de París hacia 1250, con a
 
 ### La Summa como destilación de disputas
 
-Los textos escritos de Tomás pueden parecer áridos, pero hay que recordar que son destilaciones literarias de aquellas conversaciones enérgicas y libres. En la *Summa theologiae* encontramos cientos de estos debates seculares. Lo primero que advierte el lector es la amplitud y libertad de su mente: no solo formula innumerables preguntas, sino que nada queda fuera de la mesa; la mejor prueba es el artículo tercero de la cuestión segunda de la primera parte: «*Utrum Deus sit?*» («¿Si Dios existe?»). Si a un fraile dominico se le permite plantear esa pregunta, todo es discutible; nada es demasiado peligroso para hablarlo.
+Los textos escritos de Tomás pueden parecer áridos, pero hay que recordar que son destilaciones literarias de aquellas conversaciones enérgicas y libres. En la *Summa theologiae* encontramos cientos de estos debates seculares. Lo primero que advierte el lector es la amplitud y libertad de su mente: no solo fórmula innumerables preguntas, sino que nada queda fuera de la mesa; la mejor prueba es el artículo tercero de la cuestión segunda de la primera parte: «*Utrum Deus sit?*» («¿Si Dios existe?»). Si a un fraile dominico se le permite plantear esa pregunta, todo es discutible; nada es demasiado peligroso para hablarlo.
 
 Tras enunciar la cuestión, Tomás presenta una serie de objeciones a la posición que acabará sosteniendo. Muchas reflejan las preguntas y contraargumentos reales que oiría en la *quaestio*, pero lo decisivo es que **invariablemente presenta las objeciones en su forma más convincente**, a menudo expresándolas con más concisión y fuerza que sus propios defensores. Prueba de esa generosidad es que, durante la Ilustración, algunos philosophes racionalistas tomaron las objeciones de Tomás para reforzar sus posiciones antirreligiosas. Un ejemplo de su rechazo al hombre de paja es su formulación devastadoramente convincente del argumento del mal: «Si de dos contrarios uno es infinito, el otro quedaría totalmente destruido; pero Dios se llama bien infinito; luego, si Dios existe, no habría mal. Pero hay mal. Luego Dios no existe». Tomás daría una respuesta contundente, pero la objeción sigue siendo extraordinariamente buena. Nuestras discusiones religiosas serían mucho más fecundas si todas las partes formularan las posiciones del adversario con el máximo respeto y fuerza.
 

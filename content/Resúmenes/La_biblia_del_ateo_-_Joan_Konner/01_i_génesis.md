@@ -22,7 +22,7 @@ tags: ["resumen", "problema_del_mal", "evolución", "creacionismo", "ateísmo", 
 
 ### El problema del mal (Epicuro / Hume)
 
-El capítulo abre con el clásico argumento de Epicuro sobre el mal: ¿Desea Dios prevenir el mal pero no puede? Entonces es impotente. ¿Puede pero no quiere? Entonces es malévolo. ¿Puede y quiere? Entonces, ¿por qué hay mal? Hume lo formula de forma equivalente. Este es el argumento central contra un Dios todopoderoso y benevolente.
+El capítulo abre con el clásico argumento de Epicuro sobre el mal: ¿Desea Dios prevenir el mal pero no puede? Entonces es impotente. ¿Puede pero no quiere? Entonces es malévolo. ¿Puede y quiere? Entonces, ¿por qué hay mal? Hume lo fórmula de forma equivalente. Este es el argumento central contra un Dios todopoderoso y benevolente.
 
 ### El origen de los dioses (Petronio / Aristóteles / Freud)
 

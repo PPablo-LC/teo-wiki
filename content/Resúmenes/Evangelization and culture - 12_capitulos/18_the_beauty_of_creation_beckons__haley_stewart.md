@@ -4,7 +4,7 @@ title: "The Beauty of Creation Beckons — Haley Stewart"
 fuente: Evangelization and culture - 12_capitulos
 capítulo: 18
 timestamp: 2026-09-03
-description: "Análisis de 'El jardín secreto' (Frances Hodgson Burnett) como relato anti-madurez: redescubrimiento de la infancia a través de la belleza de la naturaleza, amistad, y maternidad espiritual (Sra. Sowerby como figura mariana); la creación como mediadora del amor de Dios y vía de evangelización."
+description: "Análisis de 'El jardín secreto' (Francés Hodgson Burnett) como relato anti-madurez: redescubrimiento de la infancia a través de la belleza de la naturaleza, amistad, y maternidad espiritual (Sra. Sowerby como figura mariana); la creación como mediadora del amor de Dios y vía de evangelización."
 tags: ["resumen", "evangelization_and_culture_12", "el_jardin_secreto", "frances_hodgson_burnett", "c_s_lewis", "belleza_creación", "evangelización_a_través_de_la_belleza", "maternidad_espiritual", "laudato_si", "niñez_espiritual"]
 ---
 
@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization_and_culture_12", "el_jardin_secreto", "frances
 
 ## Conceptos básicos referenciados
 
-- [[el_jardin_secreto]] — novela de Frances Hodgson Burnett (1911) como **cuento anti-madurez** (anti-coming-of-age): desafío no es dejar la infancia sino **descubrirla**
+- [[el_jardin_secreto]] — novela de Francés Hodgson Burnett (1911) como **cuento anti-madurez** (anti-coming-of-age): desafío no es dejar la infancia sino **descubrirla**
 - [[c_s_lewis]] — "Ningún libro vale la pena a los 10 si no vale igual (o más) a los 50"; cita en *On Stories*
 - [[belleza_creación]] — mediadora del mensaje de amor de Dios al alma humana; evangeliza a través de sus obras
 - [[evangelización_a_través_de_la_belleza]] — participación en asombro y belleza de la creación es contagiosa; nos vuelve evangelizadores

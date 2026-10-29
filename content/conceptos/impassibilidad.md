@@ -23,13 +23,13 @@ La causa de la impassibilidad es la plena sumisión del cuerpo al alma glorifica
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la impassibilidad de los cuerpos gloriosos en Suppl. q.80. Los cuerpos de los santos serán impasibles, libres de toda pasión natural que cause dolor o alteración nociva (q.80 a.1). No se sigue de la impassibilidad que carezcan de sensación; al contrario, gozarán de la perfección de los sentidos, pues la sensación no requiere necesariamente alteración natural del órgano, sino recepción espiritual de la especie sensible (q.80 a.2). El tacto, que en esta vida implica alteración natural, en los cuerpos gloriosos operará de modo espiritual y será fuente de deleite, no de dolor (q.80 a.3). La impassibilidad excluye toda pasión que pueda impedir la operación de los sentidos o dañar el cuerpo, pero no excluye la recepción de las especies sensibles que perfeccionan el conocimiento sensible.
-
 ### Según el Catecismo (CEC)
 
 El CEC enseña que Cristo resucitado posee un cuerpo glorioso, libre de la muerte y la corrupción (§645-646). Los justos resucitarán con cuerpos gloriosos, inmortales e impasibles, a imagen de Cristo resucitado (§999, §1016-1017).
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la impassibilidad de los cuerpos gloriosos en Suppl. q.82. Los cuerpos de los santos serán impasibles: no padecerán corrupción ni alteración natural que los dañe, y esta inmunidad no proviene de los elementos sino de la gloria del alma que redunda en el cuerpo (a.1). Considerada en sí misma, la impassibilidad es una privación y por eso no admite más ni menos, de modo que será igual en todos los bienaventurados; considerada en relación con su causa —el grado de gloria—, admite diversidad (a.2). No se sigue de la impassibilidad que carezcan de sensación: los cuerpos gloriosos sienten realmente, y la recepción espiritual de la especie sensible los perfecciona en lugar de dañarlos (a.3). Este es el sentido en que el tacto, que en esta vida implica alteración material, en los cuerpos gloriosos operará solo por alteración espiritual —como el cuerpo de Adán, que no podía ser quemado ni atravesado, aunque tenía el sentido de esas cualidades—. Tomás rechaza además la opinión de que solo el tacto y la vista estarán en acto: también el oído, el olfato y el gusto tendrán sus objetos, pues en el cielo hay alabanza vocal y los cuerpos de los santos serán «olor suavísimo» (a.4).
 
 ### Según Royo Marín (TPCr)
 
@@ -51,6 +51,6 @@ Se relaciona con [[cuerpo_glorioso]], [[cuerpos_gloriosos]], [[agilidad]], [[sut
 
 ## Referencias
 
-- [SmTh, Suppl. q.80 a.1-3]
+- [SmTh, Suppl. q.82 a.1-4]
 - [CEC §645-646, §999, §1016-1017]
 - [TPCr, Cuarta Parte, Cap. II]

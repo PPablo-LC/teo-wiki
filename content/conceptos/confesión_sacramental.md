@@ -1,31 +1,32 @@
 ---
 type: Concepto Teológico
-title: Confesión Sacramental
+title: "Confesión sacramental (remisión)"
 tags: ["sacramentos", "penitencia"]
-
-timestamp: 2026-08-22
-description: "Acto del penitente que acusa sus pecados al ministro ordenado para obtener el perdón divino mediante el sacramento de la penitencia."
+timestamp: 2026-10-29
+description: "Remisión: el artículo sobre la confesión, con todas sus fuentes, está en [[confesión]]."
 ---
-# Confesión Sacramental
+# Confesión sacramental (remisión)
 
-> Área: Sacramentos
-> Última actualización: 2026-08-22
+> Área: Sacramentos / Penitencia
+> Última actualización: 2026-10-29
 
 ## Definición
 
-La confesión sacramental es la acusación de los propios pecados hecha al confesor, como parte esencial del sacramento de la penitencia o reconciliación. Según la doctrina católica, el penitente debe confesar todos los pecados graves cometidos después del bautismo y aún no absueltos, especificando su especie y número. La confesión íntegra de los pecados mortales es necesaria por derecho divino para obtener la absolución, siendo el confesor juez y médico.
+La confesión sacramental es la acusación de los propios pecados hecha al confesor como parte esencial del [[sacramento_de_la_reconciliación]]. El penitente debe confesar todos los pecados graves cometidos después del bautismo y aún no absueltos, especificando su especie y número; la confesión íntegra de los pecados mortales es necesaria por derecho divino para obtener la absolución, siendo el confesor juez y médico.
 
-## Perspectivas por fuente
+## Artículo principal
 
-### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+Este concepto se desarrolla por completo en **[[confesión]]**, que reúne la doctrina del Catecismo, el Vocabulario de Teología Bíblica, el Suplemento de la Summa (q.6–q.11), el Denzinger (IV Letrán y Clemente VIII), Giussani y la entrega de *Evangelization & Culture* sobre el humor.
 
-- **Amor al confesonario de Felipe Neri:** «Es el mayor placer… sentarme en el confesonario»: pasaba horas oyendo confesiones, con conversiones célebres (entre otros, el joven Federico Borromeo). El sacramento como lugar de encuentro y gozo pastoral.
-- **Humor sacramental:** Elizabeth Scalia recoge anécdotas de ironía en el confesionario y el chiste clásico sobre oír las confesiones de monjas: «es como lapidación con palomitas». La cultura católica sabe reírse de sí misma precisamente porque confía en la misericordia del sacramento.
-- **Absolución instantánea (comedia):** *Everybody Loves Raymond* retrata con humor la dinámica familiar que pide perdón sin conversión — contraste involuntario con la verdadera contrición que exige el sacramento.
+Su contenido único —la exposición de *Evangelization & Culture* n.º 8 «Humor»: el amor al confesonario de San Felipe Neri, el humor sacramental de Elizabeth Scalia y la absolución instantánea en *Everybody Loves Raymond*— se integró en ese artículo, junto con la exigencia de especie y número y el precepto de Trento (Dz 1703-1706).
 
 ## Ver también
 
-[[penitencia]], [[contrición]], [[absolución]], [[ministerio_del_perdón]], [[sacramento_de_la_reconciliación]], [[san_felipe_neri]]
+- [[confesión]]
+- [[sacramento_de_la_reconciliación]]
+- [[absolución]]
+- [[sigilo_sacramental]]
+- [[san_felipe_neri]]
 
 ## Referencias
 

@@ -25,7 +25,7 @@ Su obra «Ensayo para contribuir a una Gramática del Asentimiento» (1870) anal
 
 - *Ensayo para contribuir a una Gramática del Asentimiento* (1870)
 - *Ensayo sobre el desarrollo de la doctrina cristiana* (1845)
-- *Apologia pro Vita Sua* (1864)
+- *Apología pro Vita Sua* (1864)
 - *Carta al Duque de Norfolk* (1875)
 - *Sermones universitarios* (1843)
 

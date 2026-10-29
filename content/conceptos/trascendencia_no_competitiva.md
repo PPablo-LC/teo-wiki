@@ -33,7 +33,7 @@ El paradigma bíblico de este modo de obrar es la zarza ardiente (Éx 3): el fue
 
 Dios, «infinitamente más grande que todas sus obras», es a la vez «causa primera de todo lo que existe» y está «presente en lo más íntimo de sus criaturas»: «En él vivimos, nos movemos y existimos» (§300). La creación no es un acto que Dios abandone después: la mantiene a cada instante en el ser, «le da el obrar y la lleva a su término» (§301).
 
-El Catecismo formula explícitamente la no competitividad: «Dios es el Señor soberano de su designio. Pero para su realización se sirve también del concurso de las criaturas. Esto no es un signo de debilidad, sino de la grandeza y bondad de Dios todopoderoso. Porque Dios no da solamente a sus criaturas la existencia, les da también la dignidad de actuar por sí mismas, de ser causas y principios unas de otras y de cooperar así a la realización de su designio» (§306). Y aún más: «Dios actúa en las obras de sus criaturas. Es la causa primera que opera en y por las causas segundas» (§308); verdad que «lejos de disminuir la dignidad de la criatura, la realza» (§308). Los hombres llegan a ser «colaboradores de Dios» (§307).
+El Catecismo fórmula explícitamente la no competitividad: «Dios es el Señor soberano de su designio. Pero para su realización se sirve también del concurso de las criaturas. Esto no es un signo de debilidad, sino de la grandeza y bondad de Dios todopoderoso. Porque Dios no da solamente a sus criaturas la existencia, les da también la dignidad de actuar por sí mismas, de ser causas y principios unas de otras y de cooperar así a la realización de su designio» (§306). Y aún más: «Dios actúa en las obras de sus criaturas. Es la causa primera que opera en y por las causas segundas» (§308); verdad que «lejos de disminuir la dignidad de la criatura, la realza» (§308). Los hombres llegan a ser «colaboradores de Dios» (§307).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -53,7 +53,7 @@ La providencia divina «se extiende a lo particular» y no reduce a Dios a un «
 
 La misma lógica rige la gracia y la santidad: «precisamente porque Dios es no competitivo con la creación, precisamente porque quiere que los seres humanos lleguen plenamente a la vida, esta irrupción de la gracia no destruye ni interrumpe aquello que invade; lo realza y lo eleva a un nuevo nivel» (Catholicism, cap. 11). Y alcanza su forma más pura en María: su *fiat* «abre el espacio creatural dentro del cual Dios puede obrar»; Dios «no se siente amenazado por su creación», sino que se complace en atraer a las causas secundarias a su plan providente (Catholicism, cap. 6).
 
-### Según Arguing Religion (Barron)
+### Según Arguing Religión (Barron)
 
 La argumentación parte de una observación metafísica: lo propio de las naturalezas finitas es existir de modo mutuamente excluyente —ser ballena es no ser tigre; ser Júpiter es no ser una tostadora—, porque los seres finitos, por definición, «se oponen unos a otros». Dios, en cambio, no puede ser definido: no es «un ser entre muchos, ni la instancia más alta del género de las cosas existentes». Esa diferencia cualitativa es la que le permite «existir de modo no competitivo entre sus criaturas». La ilustración es nítida: el antílope solo podría convertirse en león siendo devorado; el árbol solo se convierte en ceniza siendo quemado. Pero el Que Es puede acercarse a sus criaturas «de tal manera que no sean destruidas ni comprometidas» (ARGREL, cap. 9).
 
@@ -79,4 +79,4 @@ La trascendencia no competitiva es la bisagra entre la doctrina de Dios ([[trasc
 - Santo Tomás de Aquino, *Summa Theologiae*, Iª q.105 a.4-5.
 - Barron, Robert. *2 Samuel* (Brazos Theological Commentary on the Bible). Grand Rapids: Brazos Press, 2015.
 - Barron, Robert. *Catholicism: A Journey to the Heart of the Faith*. New York: Image, 2011, caps. 5, 6 y 11.
-- Barron, Robert. *Arguing Religion: A Bishop Speaks at Facebook and Google*. Word on Fire Catholic Ministries, 2016, cap. 9.
+- Barron, Robert. *Arguing Religión: A Bishop Speaks at Facebook and Google*. Word on Fire Catholic Ministries, 2016, cap. 9.

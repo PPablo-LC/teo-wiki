@@ -21,7 +21,7 @@ a mí».
 ## Redentoristas y teología moral
 
 En 1732 fundó la **Congregación del Santísimo Redentor** (redentoristas),
-tomando a su cargo «la evangelización de las más perdidas zonas rurales,
+tomando a su cargo «la evangelización de las más pérdidas zonas rurales,
 usando un estilo de predicación sencillo». En 1762 aceptó el episcopado
 aunque estaba ya seriamente enfermo. «Se dedicó al gobierno de la diócesis
 y a profundizar en los estudios de teología moral, en la que llegó a ser
@@ -38,7 +38,7 @@ stelle*.
 En los últimos años no podía celebrar la Misa, «pero pasaba horas y horas
 ante el sagrario». El 29 de julio de 1787 dijo: «Dadme la Virgen», apretó
 la imagen y comenzó una agonía de dos días. «El 1 de agosto de 1787, al
-toque del *Angelus* de medio día, expiró. Todos los días de su vida
+toque del *Ángelus* de medio día, expiró. Todos los días de su vida
 Alfonso había querido siempre arrodillarse al toque de las campanas que
 recordaban la Encarnación, aunque se encontrase en la vía pública. Y de
 anciano, enfermo como estaba de artrosis, se echaba cada vez a tierra sin

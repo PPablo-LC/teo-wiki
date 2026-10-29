@@ -16,7 +16,7 @@ Herodes I el Grande (37-4 a.C.) fue rey de Judea nombrado por el Senado romano. 
 
 ## Contexto histórico
 
-Herodes fue un gobernante astuto y obras públicas monumentales (el Templo de Jerusalén, el puerto de Cesarea), pero obsesionado con el poder y la permanencia en el trono. Flavio Josefo documenta sus numerosas ejecuciones:
+Herodes fue un gobernante astuto y obras públicas monumentales (el Templo de Jerusalén, el puerto de Cesárea), pero obsesionado con el poder y la permanencia en el trono. Flavio Josefo documenta sus numerosas ejecuciones:
 
 - En el 7 a.C., hizo ajusticiar a sus hijos Alejandro y Aristóbulo.
 - En el 4 a.C., eliminó también a su hijo Antípater.

@@ -28,6 +28,10 @@ Los santos, a medida que crecen en perfección, perciben con mayor claridad el a
 ### Según el Catecismo (CEC)
 
 La humildad es la base de la oración: «La oración es la elevación del alma a Dios... ¿Desde dónde hablamos cuando oramos? ¿Desde la altura de nuestro orgullo o desde lo más profundo de un corazón humilde y contrito? El que se humilla es ensalzado. La humildad es la base de la oración» (§2559). La adoración es «la acción de humillar el espíritu ante el Rey de la gloria» (§2628).
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Humildad»] La humildad bíblica tiene tres grados: la modestia frente a la vanidad, la actitud de la criatura pecadora ante el Dios santo, y la humildad de Cristo que se anonada hasta la cruz por nuestra salvación (Flp 2,6-8). Israel aprendió la humildad en la experiencia de la omnipotencia divina y en la prueba del exilio. Jesús, el Mesías humilde anunciado por Zacarías (Zac 9,9), invita a aprender de él, «manso y humilde de corazón» (Mt 11,29). Dios mira a los humildes y los exalta (Sant 4,10; 1Pe 5,6).
+
 ### Según la Summa Theologiae (SmTh)
 
 #### Q161: La humildad
@@ -95,10 +99,6 @@ La verdadera humildad no es cobardía. Muchos confunden la cobardía con la virt
 
 JvC-Muj presenta la misma distinción: «La verdadera humildad hace decir al hombre: "Nada soy, nada puedo por mi propia fuerza, pero si Dios me ayuda no hay en el mundo cosa que no pueda hacer"» [JvC-Muj, Cap. II]. El ejemplo de Newton recogiendo conchas a la orilla del mar de la verdad, y la enseñanza socrática de que «la mayor sabiduría humana es saber que no sabemos», muestran la humildad del verdadero sabio [JvC-Muj, Cap. II].
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Humildad»] La humildad bíblica tiene tres grados: la modestia frente a la vanidad, la actitud de la criatura pecadora ante el Dios santo, y la humildad de Cristo que se anonada hasta la cruz por nuestra salvación (Flp 2,6-8). Israel aprendió la humildad en la experiencia de la omnipotencia divina y en la prueba del exilio. Jesús, el Mesías humilde anunciado por Zacarías (Zac 9,9), invita a aprender de él, «manso y humilde de corazón» (Mt 11,29). Dios mira a los humildes y los exalta (Sant 4,10; 1Pe 5,6).
-
 ### Según San Francisco de Asís (SFrAs)
 
 La humildad de San Francisco es concreta, práctica y radical, basada en la imitación de Cristo:
@@ -122,7 +122,7 @@ El número dedicado al humor presenta la risa de uno mismo como ejercicio privil
 - **Reírse de sí mismo como oportunidad de conversión:** «Si somos demasiado orgullosos para reír de nuestra propia absurdez, hemos perdido una oportunidad de conversión» (Zimmerer). La sátira funciona como espejo de feria: quien tiene buen humor responde «mi nariz no es así»; «si no podemos reírnos de nosotros mismos, hemos perdido el argumento» (Mann).
 - **Felipe Neri como modelo:** usaba el humor «para mantener la humildad y aumentar la paciencia»: llegó con media barba rapada a una fiesta en su honor; nunca se tomó en serio a sí mismo. Sus penitencias casi ridículas tenían por meta «producir humildad y mantener la sencillez».
 - **Joel Berry:** el orgullo descubierto al fundar *The Babylon Bee*: «descubrí que era un pelele que se creía un dios»; el humor sin maldad presupone conciencia de la común naturaleza caída.
-- **Chesterton sobre solemnidad y gravedad:** «Pride is the downward drag of all things into easy solemnity… Seriousness is not a virtue… Solemnity flows out of men naturally, but laughter is a leap. It is easy to be heavy, hard to be light. Satan fell by the force of gravity». La ligereza humilde es salto ascendente.
+- **Chesterton sobre solemnidad y gravedad:** «Pride is the downward drag of all things into easy solemnity… Seriousness is not a virtue… Solemnity flows out of men naturally, but laughter is a leap. It is easy to be heavy, hard to be light. Satán fell by the force of gravity». La ligereza humilde es salto ascendente.
 - **La risa que libera:** «[La risa] descongela el orgullo y desenrolla el secretismo; olvida al hombre ante algo mayor que él» (Chesterton, «Laughter»).
 
 ### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
@@ -142,7 +142,7 @@ Elizabeth Scalia narra su propia caída y restauración en Twitter como lección
 Tres registros de humildad:
 
 - **El rechazo de los cumplidos (Benedetta Bianchi Porro, cap. 3)**: la única carta dura de sus 147 va dirigida a quien la elogiaba por sufrir bien: «non mi è piaciuto il tono della tua lettera... 'Poiché non sono più io che vivo ma è Cristo che vive in me'. Tu non hai imparato nulla da me». La humildad como teología: los méritos son de Cristo presente.
-- **La «misericordia conoscita» del Curato d'Ars (cap. 8)**: pide a Dios conocer su miseria y queda sobrecogido: «Se Dio non mi avesse sostenuto, sarei allora immediatamente caduto nella disperazione»; pide la gracia de olvidarla, conservando «abbastanza lucidità... da farmi comprendere che io non sono buono a nulla». Es la «mistica notte» de «Dio tutto, io nulla» (Agustín, Francisco, Catalina de Siena). Su humildad no es complejo psíquico sino verdad vivida: intenta tres veces fugarse de Ars por juzgarse indigno, y al ser retenido: «ho fatto il bambino!».
+- **La «misericordia conoscita» del Curato d'Ars (cap. 8)**: pide a Dios conocer su miseria y queda sobrecogido: «Se Dio non mi avesse sostenuto, sarei allora immediatamente caduto nella disperazione»; pide la gracia de olvidarla, conservando «abbastanza lucidità... da farmi comprendere che io non sono buono a nulla». Es la «mística notte» de «Dio tutto, io nulla» (Agustín, Francisco, Catalina de Siena). Su humildad no es complejo psíquico sino verdad vivida: intenta tres veces fugarse de Ars por juzgarse indigno, y al ser retenido: «ho fatto il bambino!».
 - **La piedad del miedo de Tomás Moro (cap. 13)**: no se cree digno del martirio y no lo provoca: «non mi faccio avanti ma mi traggo indietro. Ma se sarà Dio stesso a portarmici, confido che... non mancherà di darmi grazia e forza». La humildad de quien conoce su debilidad («un buffetto mi fa quasi traballare») y no por eso capitoló jamás.
 - **La humildad que recibe todo (Benedetta, cap. 3)**: «Ho capito che mi è stato ripagato quello che mi è stato tolto poiché possiedo la ricchezza dello Spirito»; «non ho che poche briciole di pane» — la pobreza radical que confía que el poco se convierte en oro.
 
@@ -237,7 +237,7 @@ El P. Álvaro Corcuera presenta la humildad como **columna fundamental de la vid
 En el episodio sobre san José de Cupertino, la humildad aparece como fruto del rechazo aceptado y de la minoridad:
 
 - **El rechazo como purificación.** José fue rechazado dos veces (por falta de educación; por caer en éxtasis con demasiada frecuencia) y aceptó «no ser franciscano»: «se conformó con no ser franciscano, y eso fue lo que lo hizo humilde bastante para ser franciscano». La vocación se purifica en la renuncia: perseverar sin imponerse es ya humildad operativa.
-- **Estructura explicativa del «divino proyecto».** El episodio invita a reconocer las propias dificultades, humillaciones y tropiezos como *dones* con que Dios refina al santo: sus defectos (temperamento iracundo, falta de formación) son materia prima de la gracia; 1 Cor 1,26-29 («Dios ha escogido lo necio, lo débil, lo despreciado») y el Magnificat («levantó a los humildes») como claves. Humildad no es eliminar la debilidad, sino dejar que Dios trabaje con ella.
+- **Estructura explicativa del «divino proyecto».** El episodio invita a reconocer las propias dificultades, humillaciones y tropiezos como *dones* con que Dios refina al santo: sus defectos (temperamento iracundo, falta de formación) son materia prima de la gracia; 1 Cor 1,26-29 («Dios ha escogido lo necio, lo débil, lo despreciado») y el Magníficat («levantó a los humildes») como claves. Humildad no es eliminar la debilidad, sino dejar que Dios trabaje con ella.
 - **Humildad como ligereza («levity»).** No tomarse en serio a uno mismo es «el modo en que volamos a Dios» (Chesterton): la humildad franciscana es alegre, no afligida, y su forma es la [[minoridad_franciscana]]; se expresa también en soportar el ridículo sin rencor (ver [[necedad_evangelica]]).
 
 ## Ver también

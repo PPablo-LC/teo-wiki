@@ -24,7 +24,7 @@ Los textos recogidos en este volumen fueron redactados —y revisados para esta 
 
 ### 1997
 
-«Introduzione e Parte prima», en L. Giussani, *L'uomo e il suo destino. In cammino*, Marietti 1820, Genova 1999, pp. 7-60.
+«Introduzione e Parte prima», en L. Giussani, *L'uomo e il suo destino. In cammino*, Marietti 1820, Génova 1999, pp. 7-60.
 
 Tu o dell'amicizia. *Appunti dalle meditazioni di Luigi Giussani e Stefano Alberto*. Rimini, 16-18 maggio 1997; suplemento de «Tracce-Litterae communionis», n. 6, giugno 1997, pp. 43-46.
 

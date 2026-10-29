@@ -56,8 +56,8 @@ tags: ["resumen", "gratuidad", "caridad", "comunione_e_liberazione", "pertenenci
 
 - Testimonios de las Famiglie per l'Accoglienza: «ho capito di essere al mondo per Cristo»; «l'ospitalità è la più difficile carità, ti impegna totalmente». Rose y el leproso: acogida heroica; «sono cristiana nella Chiesa cattolica».
 - La pertenencia como fuente del criterio; Mons. Bartoletti: «questo è il vostro Statuto: la vostra amicizia». Sin fidelidad a la compañía, la caridad «non farebbe storia».
-- La mentalidad dominante (TV, prensa, poder) vs. la pertenencia; el «baño de identidad» del Meeting. *1 Gv* 2,19: «Sono usciti di mezzo a noi, ma non erano dei nostri». «Comunione e Liberazione [...] è un movimento per la santità della persona [...]; il criterio non è politico».
+- La mentalidad dominante (TV, prensa, poder) vs. la pertenencia; el «baño de identidad» del Meeting. *1 Gv* 2,19: «Sono usciti di mezzo a noi, ma non erano dei nostri». «Comunione e Liberazione [...] è un movimento per la santità della persona [...]; il criterio non è político».
 
 ## La liturgia
 
-- La liturgia como instrumento de educación a la gratuità; la Eucaristía: «Che l'Eucaristia porti a una visibilità sempre più grande della nostra compagnia»; «la salvezza è la Sua seconda venuta» (parusía).
+- La liturgia como instrumento de educación a la gratuità; la Eucaristía: «Che l'Eucaristía porti a una visibilità sempre più grande della nostra compagnia»; «la salvezza è la Sua seconda venuta» (parusía).

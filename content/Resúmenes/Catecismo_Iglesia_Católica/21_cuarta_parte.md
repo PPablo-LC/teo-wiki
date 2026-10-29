@@ -211,7 +211,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 §2618 El Evangelio nos revela cómo María ora e intercede en la fe: en Caná la madre de Jesús ruega a su Hijo por las necesidades de un banquete de bodas, signo de otro banquete, el de las bodas del Cordero que da su Cuerpo y su Sangre a petición de la Iglesia, su Esposa. Y en la hora de la nueva Alianza, al pie de la Cruz, María es escuchada como la Mujer, la nueva Eva, la verdadera "madre de los que viven".
 
-§2619 Por eso, el cántico de María, el *Magnificat* latino, el *Megalinárion* bizantino es a la vez el cántico de la Madre de Dios y el de la Iglesia, cántico de la Hija de Sión y del nuevo Pueblo de Dios, cántico de acción de gracias por la plenitud de gracias derramadas en la Economía de la salvación, cántico de los "pobres" cuya esperanza ha sido colmada con el cumplimiento de las promesas hechas a nuestros padres "en favor de Abraham y su descendencia, para siempre".
+§2619 Por eso, el cántico de María, el *Magníficat* latino, el *Megalinárion* bizantino es a la vez el cántico de la Madre de Dios y el de la Iglesia, cántico de la Hija de Sión y del nuevo Pueblo de Dios, cántico de acción de gracias por la plenitud de gracias derramadas en la Economía de la salvación, cántico de los "pobres" cuya esperanza ha sido colmada con el cumplimiento de las promesas hechas a nuestros padres "en favor de Abraham y su descendencia, para siempre".
 
 ##### Resumen
 
@@ -219,7 +219,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 §2621 En su enseñanza, Jesús instruye a sus discípulos para que oren con un corazón purificado, una fe viva y perseverante, una audacia filial. Les insta a la vigilancia y les invita a presentar sus peticiones a Dios en su Nombre. Él mismo escucha las plegarias que se le dirigen.
 
-§2622 La oración de la Virgen María, en su Fiat y en su Magnificat, se caracteriza por la ofrenda generosa de todo su ser en la fe.
+§2622 La oración de la Virgen María, en su Fiat y en su Magníficat, se caracteriza por la ofrenda generosa de todo su ser en la fe.
 
 #### ARTÍCULO 3
 

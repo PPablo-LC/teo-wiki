@@ -23,14 +23,6 @@ Ambos limbos probablemente ocupan el mismo lugar o están en lugares continuos, 
 
 ## Perspectivas por fuente
 
-### Según el Enchiridion Symbolorum (Denzinger)
-
-**Juan XXII** (1322, D-493a) enseñó que las almas de los niños que mueren con solo el pecado original «van al infierno, pero con penas más suaves» —doctrina que fundamenta teológicamente la existencia del limbo de los niños como estado distinto de los condenados por pecados actuales.
-
-**Benedicto XII** (1341), Memorial *Iam dudum*: condenó el error de los armenios que decían que «las almas de los niños que nacen de padres cristianos después de la pasión de Cristo, si mueren antes de ser bautizados van al paraíso terrenal en que estuvo Adán antes del pecado» (D-534), afirmando así que los niños no bautizados no acceden al paraíso celeste.
-
-**Pío VI** (1794, D‑1526) — Constitución *Auctorem Fidei*. Condenó como «falsa, temeraria e injuriosa contra las escuelas católicas» la doctrina del Sínodo de Pistoya que «reprueba como fábula pelagiana el lugar de los infiernos (al que corrientemente designan los fieles con el nombre de limbo de los párvulos), en que las almas de los que mueren con sola la culpa original son castigadas con pena de daño sin la pena de fuego». La condena reafirma la doctrina tradicional del limbo como lugar y estado de pena de daño sin pena sensible para los niños no bautizados, distinguiéndola de la doctrina pelagiana que situaba a estos niños en un estado intermedio sin culpa ni pena.
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 69 del Suplemento a las moradas de las almas después de la muerte. Los artículos 5, 6 y 7 tratan específicamente del limbo.
@@ -40,6 +32,14 @@ Santo Tomás dedica la cuestión 69 del Suplemento a las moradas de las almas de
 **Sobre si el limbo de los niños es el mismo que el limbo de los padres (a.6):** Sin duda difieren en cuanto a la cualidad de la pena o del premio. Los niños no tienen esperanza de la vida bienaventurada, mientras que los padres del limbo la tenían, y en ellos resplandecía la luz de la fe y la gracia. En cuanto a la situación, hay razón para creer que el lugar es el mismo, excepto que el limbo de los padres está situado más arriba que el de los niños. La razón de esta diferencia es que los padres no estaban en la misma relación con el pecado original que los niños: en los padres, el pecado original estaba expiado en cuanto infectaba a la persona, pero quedaba un obstáculo por parte de la naturaleza, por lo que su satisfacción no estaba aún completa; en los niños, en cambio, hay obstáculo tanto por parte de la persona como por parte de la naturaleza. Por eso San Agustín dice que la pena de los niños que mueren con solo el pecado original es levísima —la más leve de las penas personales—, pero aún más leve es la pena de quienes están impedidos de recibir la gloria no por un defecto personal sino solo por un defecto de naturaleza.
 
 **Sobre si deben distinguirse tantas moradas (a.7):** Las moradas de las almas se distinguen según sus diversos estados. El alma separada del cuerpo está en estado de recibir el bien o el mal por sus méritos: si recibe su retribución final, en cuanto al bien es el paraíso, en cuanto al mal por pecado actual es el infierno, y por el pecado original es el limbo de los niños. Si está en estado de ser impedida de recibir su retribución final, por un defecto de la persona es el purgatorio, y por un defecto de la naturaleza es el limbo de los padres. Por el pecado original se puede ser castigado de dos modos: o en referencia a la persona (los niños) o solo en referencia a la naturaleza (los padres), y de ahí que haya dos limbos correspondientes a ese pecado.
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Juan XXII** (1322, D-493a) enseñó que las almas de los niños que mueren con solo el pecado original «van al infierno, pero con penas más suaves» —doctrina que fundamenta teológicamente la existencia del limbo de los niños como estado distinto de los condenados por pecados actuales.
+
+**Benedicto XII** (1341), Memorial *Iam dudum*: condenó el error de los armenios que decían que «las almas de los niños que nacen de padres cristianos después de la pasión de Cristo, si mueren antes de ser bautizados van al paraíso terrenal en que estuvo Adán antes del pecado» (D-534), afirmando así que los niños no bautizados no acceden al paraíso celeste.
+
+**Pío VI** (1794, D‑1526) — Constitución *Auctorem Fidei*. Condenó como «falsa, temeraria e injuriosa contra las escuelas católicas» la doctrina del Sínodo de Pistoya que «reprueba como fábula pelagiana el lugar de los infiernos (al que corrientemente designan los fieles con el nombre de limbo de los párvulos), en que las almas de los que mueren con sola la culpa original son castigadas con pena de daño sin la pena de fuego». La condena reafirma la doctrina tradicional del limbo como lugar y estado de pena de daño sin pena sensible para los niños no bautizados, distinguiéndola de la doctrina pelagiana que situaba a estos niños en un estado intermedio sin culpa ni pena.
+
 
 ## Distinciones importantes
 

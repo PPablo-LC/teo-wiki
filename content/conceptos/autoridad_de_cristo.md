@@ -42,6 +42,13 @@ Un aspecto clave de la autoridad de Cristo es que su humanidad actúa como instr
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica
+
+El Catecismo enseña que Cristo es «el único Mediador» y que «la Iglesia no tiene otro nombre que pueda salvar a los hombres» (CEC 846). La autoridad de Cristo se ejerce a través de la Iglesia, que es su cuerpo (CEC 748-759). El Concilio Vaticano II reafirma que Cristo es «la luz de los pueblos» (LG 1) y que toda autoridad verdadera en la Iglesia es participación de la suya.
+
+### Concilio Vaticano II
+
+El Concilio Vaticano II insiste en que la autoridad en la Iglesia es servicio, no dominio (LG 24; AA 2). La autoridad de Cristo se ejerce como servicio amoroso, y quienes participan de ella deben imitar su humildad y obediencia. La *Lumen Gentium* explica la relación entre la autoridad de Cristo y la colegialidad episcopal (LG 22). El *Decreto sobre la actividad misionera* subraya que la autoridad de Cristo se extiende a todas las naciones (AG 5).
 ### Summa Theologiae (Santo Tomás de Aquino)
 
 En la *Summa Theologiae* IIIa q. 8, Santo Tomás establece que Cristo es Cabeza por orden, perfección y poder (a. 1). El poder de la Cabeza sobre el cuerpo se ejerce de dos modos: el primero es el influxo de vida (la gracia); el segundo es el gobierno y la dirección (la autoridad). Ambos pertenecen a Cristo en plenitud.
@@ -50,13 +57,6 @@ En el artículo 1, ad 1, Tomás explica que la humanidad de Cristo es instrument
 
 En la **cuestión 58** (sobre la dignidad real de Cristo), Tomás trata la autoridad de Cristo como Rey. Cristo es Rey por naturaleza divina y por derecho de conquista (ha redimido a la humanidad con su sangre). Su reino es espiritual, pero no por eso menos real: gobierna los corazones, los pueblos y la historia. La autoridad de Cristo como Rey es absoluta y universal, sin limitaciones temporales.
 
-### Catecismo de la Iglesia Católica
-
-El Catecismo enseña que Cristo es «el único Mediador» y que «la Iglesia no tiene otro nombre que pueda salvar a los hombres» (CEC 846). La autoridad de Cristo se ejerce a través de la Iglesia, que es su cuerpo (CEC 748-759). El Concilio Vaticano II reafirma que Cristo es «la luz de los pueblos» (LG 1) y que toda autoridad verdadera en la Iglesia es participación de la suya.
-
-### Concilio Vaticano II
-
-El Concilio Vaticano II insiste en que la autoridad en la Iglesia es servicio, no dominio (LG 24; AA 2). La autoridad de Cristo se ejerce como servicio amoroso, y quienes participan de ella deben imitar su humildad y obediencia. La *Lumen Gentium* explica la relación entre la autoridad de Cristo y la colegialidad episcopal (LG 22). El *Decreto sobre la actividad misionera* subraya que la autoridad de Cristo se extiende a todas las naciones (AG 5).
 
 ## Distinciones importantes
 

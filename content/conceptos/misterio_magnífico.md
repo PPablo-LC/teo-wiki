@@ -25,6 +25,17 @@ La Encarnación es el «gran misterio» porque en ella Dios se une a la naturale
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+**CEC §483**: «La Encarnación es, pues, el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo.»
+
+**CEC §456-460**: El Catecismo enseña que el Hijo de Dios «se hizo hombre para que el hombre se hiciese Dios» (*Id quod est Deus factus est, ut homo fieret Deus* — San León Magno).
+### Según la Summa Theologiae (SmTh)
+
+**SmTh III, q. 1, a. 1 — La conveniencia de la Encarnación:** «Es propio de la bondad comunicarse a las criaturas, y la máxima comunicación de Dios a la criatura consiste en unirse a ella hipostáticamente. Lejos de ser indigno de Dios, la Encarnación manifiesta sumamente su bondad.» La Encarnación es el «gran misterio» porque revela la bondad comunicativa de Dios.
+
+**SmTh III, q. 1, a. 2 — La Encarnación como remedio:** La Encarnación no fue absolutamente necesaria (Dios pudo restaurar de otro modo), pero fue «más conveniente»: da satisfacción abundante por el pecado, eleva al hombre a un bien mayor, manifiesta más la dignidad de la naturaleza humana, y quita toda desesperación mostrando cuánto ama Dios al hombre.
+
 ### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
 
 Sr. Josephine Garrett, en "My Therapy Magic Wand" (§17), desarrolla una reflexión teológica profunda sobre el Misterio Magnífico:
@@ -39,17 +50,6 @@ Sr. Josephine Garrett, en "My Therapy Magic Wand" (§17), desarrolla una reflexi
 
 **San Agustín y María:** Garrett cita a San Agustín (vía Louis de Montfort): todos estamos en el vientre de María, quien «labura hasta que nacemos a la eternidad». María es madre de todos los vivos y madre de la esperanza.
 
-### Según la Summa Theologiae (SmTh)
-
-**SmTh III, q. 1, a. 1 — La conveniencia de la Encarnación:** «Es propio de la bondad comunicarse a las criaturas, y la máxima comunicación de Dios a la criatura consiste en unirse a ella hipostáticamente. Lejos de ser indigno de Dios, la Encarnación manifiesta sumamente su bondad.» La Encarnación es el «gran misterio» porque revela la bondad comunicativa de Dios.
-
-**SmTh III, q. 1, a. 2 — La Encarnación como remedio:** La Encarnación no fue absolutamente necesaria (Dios pudo restaurar de otro modo), pero fue «más conveniente»: da satisfacción abundante por el pecado, eleva al hombre a un bien mayor, manifiesta más la dignidad de la naturaleza humana, y quita toda desesperación mostrando cuánto ama Dios al hombre.
-
-### Según el Catecismo (CEC)
-
-**CEC §483**: «La Encarnación es, pues, el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo.»
-
-**CEC §456-460**: El Catecismo enseña que el Hijo de Dios «se hizo hombre para que el hombre se hiciese Dios» (*Id quod est Deus factus est, ut homo fieret Deus* — San León Magno).
 
 ## Distinciones importantes
 

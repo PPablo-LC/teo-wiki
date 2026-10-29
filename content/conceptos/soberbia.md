@@ -84,7 +84,7 @@ El número dedicado al humor diagnostica la soberbia desde su síntoma más visi
 
 - **Tomarse demasiado en serio como corazón del pecado:** «Se ha sugerido que el corazón del pecado es tomarse uno mismo demasiado en serio; quizá por esto Dios eligió salvarnos haciéndonos reír» (Barron). El antídoto divino contra la soberbia fue un chiste: la Encarnación.
 - **Orgullo que vuelve ininteligible la risa:** «Quizá el orgullo sea la raíz de todo mal porque vuelve ininteligible la risa» (Zimmerer).
-- **La gravedad como caída:** Chesterton: «Pride is the downward drag of all things into easy solemnity… It is easy to be heavy, hard to be light. **Satan fell by the force of gravity**»; la solemnidad arrastra hacia abajo, la risa es salto.
+- **La gravedad como caída:** Chesterton: «Pride is the downward drag of all things into easy solemnity… It is easy to be heavy, hard to be light. **Satán fell by the force of gravity**»; la solemnidad arrastra hacia abajo, la risa es salto.
 - **Negación de la criaturidad:** Pieper: el orgullo «niega anti-realísticamente la relación entre criatura y Creador»; quien no ríe se ha olvidado de que no es Dios.
 - **Satanás burlado:** el orgulloso que trama en serio es el destinatario del chiste supremo: «la Encarnación y la Resurrección es uno de los mayores chistes jamás gastados a un Satanás orgulloso, serio y tramando» (Berry).
 

@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Peripheries: A Vision of Hope in a Fragile Democracy — Brenden Thompson"
+title: "Peripheries: A Visión of Hope in a Fragile Democracy — Brenden Thompson"
 fuente: Evangelization and culture - 21
 capítulo: 23
 timestamp: 2026-09-09
-description: "Resumen de 'Peripheries: A Vision of Hope in a Fragile Democracy — Brenden Thompson' — Evangelization and culture - 21"
+description: "Resumen de 'Peripheries: A Visión of Hope in a Fragile Democracy — Brenden Thompson' — Evangelization and culture - 21"
 tags: ["resumen", "evangelization and culture - 21"]
 ---
 
-# Peripheries: A Vision of Hope in a Fragile Democracy — Brenden Thompson
+# Peripheries: A Visión of Hope in a Fragile Democracy — Brenden Thompson
 
 ## Conceptos básicos referenciados
 
@@ -38,7 +38,7 @@ Frente al desafío de comunicar una «visión de esperanza» a pesar de las circ
 
 ### Fe como fundamento de la esperanza
 
-Thompson observó una abundantísima vida de fe: jóvenes reuniéndose semanalmente en la catedral para formación y amistad, jóvenes transportados mensualmente desde toda la arquidiócesis para catequesis, y un estudio en colaboración con Radio Maria que produce contenido diario para la comunidad caldea.
+Thompson observó una abundantísima vida de fe: jóvenes reuniéndose semanalmente en la catedral para formación y amistad, jóvenes transportados mensualmente desde toda la arquidiócesis para catequesis, y un estudio en colaboración con Radio María que produce contenido diario para la comunidad caldea.
 
 El arzobispo fue claro: «Sin fe, no hay esperanza». Un ecosistema cívico robusto no es el fundamento último de su esperanza ni sería suficiente para que su pueblo se quede.
 

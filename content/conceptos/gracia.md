@@ -21,21 +21,13 @@ La gracia es una participación en la vida íntima de Dios. Se distingue entre l
 
 ## Perspectivas por fuente
 
-### Según Pinckaers (FMC)
-
-Pinckaers sitúa la gracia como elemento central de la moral cristiana. En la estructura de la Suma, el tratado de la gracia sigue inmediatamente al de la Ley nueva porque «éste es el rasgo específico de la predicación evangélica según los Padres: no nos enseña solamente una ley, sino que nos da el socorro de la gracia para cumplirla» (FMC cap. IX). La gracia es la principal obra del Espíritu Santo; mediante ella, la Ley evangélica nos justifica por la fe y nos santifica por la caridad.
-
-Pinckaers critica que los manuales postridentinos omitieran el tratado de la gracia de la moral, relegándolo a la dogmática. Esto produjo una separación entre la ley moral y la fuerza para cumplirla, desembocando en una moral de la obligación sin suficiente fundamento en la gracia (FMC cap. XI:2). Recuperar la gracia como principio interior de la vida moral es esencial para una renovación de la teología moral (FMC caps. I:2, XII:1).
-
-[FMC caps. I:2, IX:3 (A.5), XI:2, XII:1]
-
 ### Según el Catecismo (CEC)
 
 La gracia es el favor, el auxilio gratuito que Dios nos da para responder a su llamada (CEC §1996). Es una participación en la vida de Dios, que introduce en la intimidad de la vida trinitaria (CEC §1997). La gracia santificante es un don habitual, disposición estable y sobrenatural que perfecciona al alma; se distingue de las gracias actuales, que designan intervenciones divinas (CEC §2000). La preparación para acoger la gracia es ya una obra de la gracia (CEC §2001). La gracia es ante todo el don del Espíritu que nos justifica y nos santifica, pero comprende también las gracias sacramentales y los carismas (CEC §2003-2004). La iniciativa divina en la obra de la gracia previene, prepara y suscita la respuesta libre del hombre (CEC §2022).
 
-### Según Royo Marín (TPCr)
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
-La gracia santificante es el principio formal de toda la vida sobrenatural, una cualidad sobrenatural inherente al alma que da una participación física y formal, aunque análoga y accidental, de la naturaleza misma de Dios (TPCr, II Parte). La más mínima participación de la gracia santificante supera el bien natural de todo el universo. La gracia reside en la esencia del alma. Las gracias actuales son intervenciones divinas que acompañan la vida cristiana. El organismo sobrenatural comprende: la gracia santificante (en la esencia), las virtudes infusas y los dones del Espíritu Santo (en las potencias), y los actos de esas virtudes y dones (TPCr, II Parte, Cap. 1).
+[VocTeoBib, «Gracia»] La palabra *kharis* (gr.) y *hen* (heb.) designan a la vez la fuente del don en el dador y el efecto del don en el receptor. En el AT, la gracia se revela en la elección gratuita de Israel y la alianza; en el NT, la gracia de Dios se revela en Jesucristo, don supremo del Padre (Rom 8,32). La gracia es gratuita, no se recibe por obras de la ley, y es principio de justificación y de vida nueva. El rasgo específicamente paulino es su gratuidad: «donde abundó el pecado, sobreabundó la gracia» (Rom 5,20).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -59,15 +51,23 @@ La gracia santificante es el principio formal de toda la vida sobrenatural, una 
 
 **Ia-IIae q.114 — Mérito (efecto de la gracia cooperante):** El hombre puede merecer ante Dios en virtud de la ordenación divina que establece una retribución proporcionada a sus obras (q.114 a.1). Sin la gracia, ni en el estado de naturaleza íntegra ni en el de naturaleza caída se puede merecer la vida eterna (q.114 a.2). Con la gracia, las obras merecen la vida eterna de condigno, en cuanto proceden del Espíritu Santo (q.114 a.3). La caridad es el principal principio del mérito (q.114 a.4). Nadie puede merecer para sí la primera gracia (q.114 a.5); pero puede merecer para otro de congruo (q.114 a.6). Nadie puede merecer la reparación después del pecado (q.114 a.7). Se puede merecer el aumento de la gracia (q.114 a.8). La perseverancia de esta vida no puede merecerse, pues depende solo de la moción divina; la perseverancia de la gloria sí (q.114 a.9). Los bienes temporales no son objeto de mérito absoluto, sino relativo, en cuanto ayudan a la vida eterna (q.114 a.10).
 
+### Según Royo Marín (TPCr)
+
+La gracia santificante es el principio formal de toda la vida sobrenatural, una cualidad sobrenatural inherente al alma que da una participación física y formal, aunque análoga y accidental, de la naturaleza misma de Dios (TPCr, II Parte). La más mínima participación de la gracia santificante supera el bien natural de todo el universo. La gracia reside en la esencia del alma. Las gracias actuales son intervenciones divinas que acompañan la vida cristiana. El organismo sobrenatural comprende: la gracia santificante (en la esencia), las virtudes infusas y los dones del Espíritu Santo (en las potencias), y los actos de esas virtudes y dones (TPCr, II Parte, Cap. 1).
+
+### Según Pinckaers (FMC)
+
+Pinckaers sitúa la gracia como elemento central de la moral cristiana. En la estructura de la Suma, el tratado de la gracia sigue inmediatamente al de la Ley nueva porque «éste es el rasgo específico de la predicación evangélica según los Padres: no nos enseña solamente una ley, sino que nos da el socorro de la gracia para cumplirla» (FMC cap. IX). La gracia es la principal obra del Espíritu Santo; mediante ella, la Ley evangélica nos justifica por la fe y nos santifica por la caridad.
+
+Pinckaers critica que los manuales postridentinos omitieran el tratado de la gracia de la moral, relegándolo a la dogmática. Esto produjo una separación entre la ley moral y la fuerza para cumplirla, desembocando en una moral de la obligación sin suficiente fundamento en la gracia (FMC cap. XI:2). Recuperar la gracia como principio interior de la vida moral es esencial para una renovación de la teología moral (FMC caps. I:2, XII:1).
+
+[FMC caps. I:2, IX:3 (A.5), XI:2, XII:1]
+
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor (§22-24) enseña que imitar y revivir el amor de Cristo no es posible para el hombre con sus solas fuerzas. Se hace capaz de este amor solo gracias a un don recibido: el Espíritu Santo, cuyo primer fruto es la caridad (Rm 5,5). La gracia no disminuye sino que refuerza la exigencia moral del amor. La Ley nueva es la gracia del Espíritu Santo dada mediante la fe en Cristo (siguiendo a santo Tomás) (§23-24). La observancia de la ley moral es siempre posible con la gracia, como definió el Concilio de Trento (§102-103). La misericordia de Dios comprende la debilidad humana sin comprometer la norma moral (§104).
 
 La encíclica añade (§118-119) que la misericordia de Dios, manifestada plenamente en Jesucristo, es más fuerte que cualquier pecado. El Espíritu Santo, que renueva la faz de la tierra, posibilita el milagro del cumplimiento perfecto del bien. Esta renovación, que capacita para hacer lo que es bueno, noble, bello y grato a Dios, es el colofón del don de la misericordia, que libera de la esclavitud del mal y da la fuerza para no volver a pecar (§118). La moral cristiana no es imposible de practicar porque consiste fundamentalmente en el seguimiento de Jesucristo, en el abandonarse a él, en dejarse transformar por su gracia y ser renovados por su misericordia, que se alcanzan en la comunión de su Iglesia (§119).
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Gracia»] La palabra *kharis* (gr.) y *hen* (heb.) designan a la vez la fuente del don en el dador y el efecto del don en el receptor. En el AT, la gracia se revela en la elección gratuita de Israel y la alianza; en el NT, la gracia de Dios se revela en Jesucristo, don supremo del Padre (Rom 8,32). La gracia es gratuita, no se recibe por obras de la ley, y es principio de justificación y de vida nueva. El rasgo específicamente paulino es su gratuidad: «donde abundó el pecado, sobreabundó la gracia» (Rom 5,20).
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

@@ -21,6 +21,9 @@ El término «nación» deriva etimológicamente de *ród* (linaje), relacionado
 
 ## Perspectivas por fuente
 
+### Según el Compendio (CompDS)
+
+La doctrina social considera a la nación como una comunidad natural que contribuye al desarrollo integral de la persona humana y al bien común. La nación es un espacio adecuado para la realización de la persona y la comunidad.
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II presenta la nación como una realidad que se forma a partir de la familia y el linaje, y que se distingue por su cultura. «Con el término nación se quiere designar una comunidad que reside en un territorio determinado y que se distingue de las otras por su propia cultura. La doctrina social católica considera tanto la familia como la nación sociedades naturales y, por tanto, no como fruto de una simple convención» [MI, cap. 13].
@@ -31,9 +34,6 @@ La nación tiene una dimensión espiritual: «En la "plenitud de los tiempos", d
 
 La nación tiene una soberanía fundamental que se manifiesta en la cultura: «La nación es, en efecto, la gran comunidad de los hombres que están unidos por diversos vínculos pero, sobre todo, precisamente por la cultura. La nación existe "por" y "para" la cultura» [MI, cap. 15].
 
-### Según el Compendio (CompDS)
-
-La doctrina social considera a la nación como una comunidad natural que contribuye al desarrollo integral de la persona humana y al bien común. La nación es un espacio adecuado para la realización de la persona y la comunidad.
 
 ## Distinciones importantes
 

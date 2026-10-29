@@ -46,7 +46,7 @@ En *Peripheries* (23_peripheries_paone.md), Jason C. Paone presenta a de Lubac c
 
 ## Referencias
 
-- Healy Jr., Nicholas J. «The Eucharist and the Beatific Vision», en *Evangelization & Culture* 11 (Spring 2022).
+- Healy Jr., Nicholas J. «The Eucharist and the Beatific Visión», en *Evangelization & Culture* 11 (Spring 2022).
 - De Clue, Richard. «The Genius of Henri de Lubac», en *Evangelization & Culture* 13 (Autumn 2022).
 - EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute (Rowland, Fessio).
 - EAC-22, *Evangelization & Culture, Issue 22 — Courage* (Winter 2024), Word on Fire Institute (23_peripheries_paone.md).

@@ -17,6 +17,13 @@ Las **parábolas** (del griego *parabolé*, «comparación») son narraciones br
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+*(ver bienaventuranzas, parábolas y otros artículos)*
+
+### Según Royo Marín (TPCr)
+
+*(no desarrollado específicamente en TPCr)*
 ### Según Benedicto XVI (JdN_I)
 
 Benedicto XVI dedica un capítulo completo de *Jesús de Nazaret I* (cap. 3) a tres grandes relatos de parábolas de Lucas: el buen samaritano, el hijo pródigo (parábola de los dos hermanos) y el rico epulón y el pobre Lázaro.
@@ -29,13 +36,6 @@ Benedicto XVI dedica un capítulo completo de *Jesús de Nazaret I* (cap. 3) a t
 
 **Interpretaciones patrísticas y dimensión universal.** Benedicto XVI recoge la lectura patrística: los Padres vieron en la parábola del buen samaritano la historia universal del hombre caído en manos de los ladrones (el pecado), sanado por Cristo (el samaritano) mediante los sacramentos (aceite y vino) y llevado a la Iglesia (la posada). También aplica la parábola del hijo pródigo a la relación entre Israel y los gentiles: «Los Padres han vinculado el tema de los dos hermanos con la relación entre judíos y gentiles. No les ha resultado muy difícil ver en el hijo disoluto, alejado de Dios y de sí mismo, un reflejo del mundo del paganismo, al que Jesús abre las puertas a la comunión de Dios».
 
-### Según el Catecismo (CEC)
-
-*(ver bienaventuranzas, parábolas y otros artículos)*
-
-### Según Royo Marín (TPCr)
-
-*(no desarrollado específicamente en TPCr)*
 
 ## Ver también
 

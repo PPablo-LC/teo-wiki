@@ -48,7 +48,7 @@ Película favorita de Barron. Thomas More: «¿No has hecho tanto como Dios pued
 
 ### Gran Torino
 
-El mejor ejemplo de la teoría *Christus Victor*: la cruz «desenmascara eficazmente la maldad, la desempodera y libera a los que están bajo su dominio». Walt Kowalski muere «en la actitud de la cruz». «Cuando la gente me pregunta qué significa que la cruz de Jesús me salvó de mis pecados, he empezado a decir: 'Mira Gran Torino'».
+El mejor ejemplo de la teoría *Christus Víctor*: la cruz «desenmascara eficazmente la maldad, la desempodera y libera a los que están bajo su dominio». Walt Kowalski muere «en la actitud de la cruz». «Cuando la gente me pregunta qué significa que la cruz de Jesús me salvó de mis pecados, he empezado a decir: 'Mira Gran Torino'».
 
 ### La Biblia es oscura
 

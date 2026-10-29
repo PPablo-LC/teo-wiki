@@ -21,7 +21,7 @@ Michel Corbin SJ (n. 1951) es un jesuita francés, exégeta y teólogo, conocido
 
 ## Desarrollo biográfico
 
-Corbin fue profesor de Teología Bíblica en la Universidad Católica de París (Institut Catholique de Paris). Es autor de numerosas obras sobre narrativa bíblica y teología narrativa. Su enfoque se sitúa en la tradición del *ressourcement*, buscando volver a las fuentes bíblicas y patrísticas para renovar la teología.
+Corbin fue profesor de Teología Bíblica en la Universidad Católica de París (Institut Catholique de París). Es autor de numerosas obras sobre narrativa bíblica y teología narrativa. Su enfoque se sitúa en la tradición del *ressourcement*, buscando volver a las fuentes bíblicas y patrísticas para renovar la teología.
 
 ## Perspectivas por fuente
 

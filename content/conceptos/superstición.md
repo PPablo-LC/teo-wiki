@@ -25,10 +25,6 @@ La superstición puede manifestarse como idolatría (adorar a una criatura como 
 
 El CEC §2110-2117 trata la superstición como violación del primer mandamiento. La adivinación, la magia, la hechicería y la espiritismo son formas graves de superstición (§2116-2117). La [[piedad_popular]] bien orientada no debe confundirse con la superstición.
 
-### Según Royo Marín (TPCr)
-
-TPCr trata la superstición como pecado contra la virtud de la religión. Se opone directamente al acto de religión porque tributa culto a quien no es Dios o se tributa de modo indebido. Es pecado mortal por su materia, aunque la imputabilidad puede mitigarse por ignorancia.
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la superstición como vicio opuesto a la religión por exceso (IIa-IIae q.92). La superstición da culto divino a quien no se debe o del modo que no se debe (q.92 a.1). Es pecado contra la religión porque, teniendo apariencia de culto, corrompe el verdadero honor debido a Dios.
@@ -36,6 +32,10 @@ Santo Tomás trata la superstición como vicio opuesto a la religión por exceso
 La superstición tiene varias especies: la [[idolatría]] (q.94), la [[adivinación]] (q.95), las [[observancias_supersticiosas]] (q.96), y la [[superstición_en_el_culto]] al verdadero Dios (q.93).
 
 [SmTh IIa-IIae q.92-100]
+
+### Según Royo Marín (TPCr)
+
+TPCr trata la superstición como pecado contra la virtud de la religión. Se opone directamente al acto de religión porque tributa culto a quien no es Dios o se tributa de modo indebido. Es pecado mortal por su materia, aunque la imputabilidad puede mitigarse por ignorancia.
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

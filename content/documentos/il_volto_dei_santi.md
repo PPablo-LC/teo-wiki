@@ -1,7 +1,7 @@
 ---
 type: Documento
 title: "Il Volto dei Santi (vol. III)"
-description: "Tercera colección de retratos de santos de Antonio Maria Sicari OCD (Edizioni OCD, 2025): diez santos de los siglos XVII-XXI seguidos de una cronología del reconocimiento eclesial."
+description: "Tercera colección de retratos de santos de Antonio María Sicari OCD (Edizioni OCD, 2025): diez santos de los siglos XVII-XXI seguidos de una cronología del reconocimiento eclesial."
 tags: ["hagiografía", "ascética", "caridad", "misión"]
 timestamp: 2026-09-14
 ---
@@ -16,7 +16,7 @@ timestamp: 2026-09-14
 | Campo | Valor |
 |-------|-------|
 | Título | *Il Volto dei Santi. Volume terzo* |
-| Autor | Antonio Maria Sicari OCD |
+| Autor | Antonio María Sicari OCD |
 | Editorial | Edizioni OCD, Roma, 2025 (collana «La casa sulla roccia», n. 17) |
 | Código de fuente | **VdS** |
 | Ubicación raw | `raw/Bases_doctrinales-raw/Il_volto_dei_santi_capitoli/` |
@@ -25,10 +25,10 @@ timestamp: 2026-09-14
 
 ## Contenido
 
-Tercer volumen de la célebre colección de «retratos» de santos del carmelita descalzo Antonio Maria Sicari. Diez figuras de los siglos XVII-XXI, extraordinariamente variadas en condición, época y carisma:
+Tercer volumen de la célebre colección de «retratos» de santos del carmelita descalzo Antonio María Sicari. Diez figuras de los siglos XVII-XXI, extraordinariamente variadas en condición, época y carisma:
 
 1. **Beato Angelo Paoli** (1642-1720) — carmelita «padre dei poveri» y «apostolo di Roma»
-2. **Venerabile Francesco Paolo Gravina** (1800-1854) — «il Principe degli ultimi», noble siciliano de la caridad organizada
+2. **Venerabile Francesco Paolo Gravina** (1800-1854) — «il Príncipe degli ultimi», noble siciliano de la caridad organizada
 3. **Santa Teresa di Gesù Bambino** (1873-1897) — patrona de todas las misiones
 4. **San Charbel Makhlouf** (1828-1898) — eremita maronita del Líbano
 5. **Beato Giovanni Fausti** (1899-1946) — mártir jesuita del diálogo islamo-cristiano en Albania

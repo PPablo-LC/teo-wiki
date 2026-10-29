@@ -21,12 +21,12 @@ tags: ["resumen", "educación", "fuerza_moral", "presencia_de_dios", "responsabi
 - [[pensamiento]] — pensar es «coscienza della presenza»; sin coraje moral se vacía
 - [[razón]] — la capacidad de hacer los «nessi totali» de la realidad
 - [[dios]] — «la grande presenza, che i filosofi chiamano Essere, ma a cui noi diamo il nome proprio: Dio»
-- [[soledad]] — «non rispondere più a nessuno è la formula della solitudine»
+- [[soledad]] — «non rispondere più a nessuno è la fórmula della solitudine»
 - [[tedio]] — «la puzza della solitudine si chiama noia»
 - [[juventud]] — la inestabilidad como «la caratteristica più terribile dei giovani di oggi»
 - [[sentimentalismo]] — el bien como «riflesso di un proprio sentimento»; infantilismo
-- [[vocación]] — «la risposta al destino è la *mia* risposta al destino»
-- [[personalidad]] — falsa (istinto di difesa) vs. verdadera (istinto di simpatia)
+- [[vocación]] — «la risposta al destino è la *mía* risposta al destino»
+- [[personalidad]] — falsa (istinto di difesa) vs. verdadera (istinto di simpatía)
 - [[destino]] — lo que decide el atteggiamento hacia todo lo demás
 - [[compañía]] — la presencia reconocida en el estar juntos
 
@@ -44,7 +44,7 @@ tags: ["resumen", "educación", "fuerza_moral", "presencia_de_dios", "responsabi
 
 ## 2) La ausencia de pensamiento
 
-- «Pensare è coscienza vibrante, dinamica della realtà: perché il pensiero è coscienza del reale».
+- «Pensare è coscienza vibrante, dinámica della realtà: perché il pensiero è coscienza del reale».
 - El pensamiento es conciencia de la presencia hasta la presencia original: «la grande presenza, che i filosofi chiamano Essere, ma a cui noi diamo il nome proprio: Dio»; el niño no piensa porque no hace los nessi totales.
 - Sin «il coraggio morale di vivere, di riconoscere la presenza», el pensamiento «svanisce, si svuota»; «le parole che usiamo hanno smarrito il loro significato».
 
@@ -58,12 +58,12 @@ tags: ["resumen", "educación", "fuerza_moral", "presencia_de_dios", "responsabi
 
 - «Si fa il bene come riflesso, riverbero di un proprio sentimento: la sentimentalità, il sentimentalismo di oggi»; ese bien queda «alla mercè del proprio sentimento».
 - «tra il gioco e la serietà, questa è la differenza: che il gioco non ha futuro»; el sentimentalismo es «il trionfo dell'infantilismo».
-- La acción es siempre «il rapporto con una presenza» y debe concebirse «come funzione di un tutto»; la respuesta al destino, «la *mia* risposta al destino», «si chiama più profondamente vocazione».
+- La acción es siempre «il rapporto con una presenza» y debe concebirse «come funzione di un tutto»; la respuesta al destino, «la *mía* risposta al destino», «si chiama più profondamente vocazione».
 
 ## 5) La falsa y la verdadera personalidad
 
-- De Greeff: «*La falsa personalità si riduce all'ipertrofia dell'istinto di difesa*»; «*La vera personalità, invece, si basa sull'istinto di simpatia*».
-- Sin el destino, el otro «diviene strumento della mia opinione […] o del mio piacere o del mio tornaconto»; el que se cierra es «una personalità svuotata […] incapace di amare un futuro […] che sia ideale, non sogno».
+- De Greeff: «*La falsa personalità si riduce all'ipertrofia dell'istinto di difesa*»; «*La vera personalità, invece, si basa sull'istinto di simpatía*».
+- Sin el destino, el otro «diviene strumento della mía opinione […] o del mio piacere o del mio tornaconto»; el que se cierra es «una personalità svuotata […] incapace di amare un futuro […] che sia ideale, non sogno».
 - Quien se abre al Essere «è spalancato a tutte le cose»; *1Cor* 3,21-23: «Tutto è vostro […] se voi siete di Cristo».
 
 ## El atteggiamento ante el Destino y la fuerza moral

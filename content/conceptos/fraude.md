@@ -21,6 +21,9 @@ El fraude en las compraventas atenta contra la justicia conmutativa, que exige i
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §2409-2411: El fraude en los contratos es pecado contra el séptimo mandamiento. Los contratos deben celebrarse con honestidad. Los salarios justos deben pagarse puntualmente. Los precios no deben manipularse. CEC §2420-2425: La economía debe estar al servicio del hombre, no al revés.
 ### Según la Summa Theologiae (SmTh)
 
 **El fraude en las compraventas (Q77):** Santo Tomás trata el fraude en los contratos de compraventa como vicio opuesto a la justicia conmutativa. La compraventa es un contrato de cambio donde debe haber igualdad entre la cosa y su precio (q.77 a.1).
@@ -37,9 +40,6 @@ Casos particulares (q.77 a.4):
 
 No es pecado comprar barato y vender caro si se hace dentro de los límites de la estimación común y sin engaño (q.77 a.1 ad 1). El comercio es lícito en sí mismo, aunque puede tener riesgos morales de avaricia (a.4).
 
-### Según el Catecismo (CEC)
-
-CEC §2409-2411: El fraude en los contratos es pecado contra el séptimo mandamiento. Los contratos deben celebrarse con honestidad. Los salarios justos deben pagarse puntualmente. Los precios no deben manipularse. CEC §2420-2425: La economía debe estar al servicio del hombre, no al revés.
 
 ## Distinciones importantes
 

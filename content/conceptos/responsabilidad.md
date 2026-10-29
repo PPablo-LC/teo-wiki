@@ -53,7 +53,7 @@ La responsabilidad se relaciona con la [[libertad_humana]], la [[conciencia_mora
 
 ## Analizado en contexto cultural
 
-- [[computer_power_and_human_reason]] — convergencia en la responsabilidad del científico y del técnico por las consecuencias de su trabajo; el autor formula una ética secular de la responsabilidad proporcional al alcance de los efectos que es perfectamente compatible con la doctrina católica de la responsabilidad ante Dios y la comunidad.
+- [[computer_power_and_human_reason]] — convergencia en la responsabilidad del científico y del técnico por las consecuencias de su trabajo; el autor fórmula una ética secular de la responsabilidad proporcional al alcance de los efectos que es perfectamente compatible con la doctrina católica de la responsabilidad ante Dios y la comunidad.
 
 ## Ver también
 

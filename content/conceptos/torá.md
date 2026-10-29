@@ -21,6 +21,9 @@ En la literatura sapiencial y rabínica, la Torá aparece como «pan del cielo»
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+El CEC enseña que la Ley de Dios contiene verdades eternas, pero sus disposiciones concretas están condicionadas históricamente (CEC 1963-1964). La Ley antigua prepara y dispone para el Evangelio (CEC 1962). Cristo es la «plenitud de la Ley» (CEC 1965-1966).
 ### Jesús de Nazaret I (Benedicto XVI — JdN_I)
 
 **La Torá del Mesías (cap. 2):** Del Mesías se esperaba que trajera una nueva Torá. Benedicto XVI sugiere que cuando Pablo habla de la «ley de Cristo» (Ga 6, 2) alude precisamente a esto. La Torá del Mesías es «totalmente nueva, diferente, pero precisamente por eso da cumplimiento a la Torá de Moisés».
@@ -37,9 +40,6 @@ Jesús, como el intérprete profético de la Torá, retoma la dinámica intríns
 
 **Laicidad y laicismo:** La universalización de la fe de Israel libera los ordenamientos políticos de la sacralidad inmediata y los confía a la libertad del hombre. Este proceso es la «justa laicidad del Estado», que en la modernidad se ha transformado en «laicismo» — el olvido de Dios y la búsqueda exclusiva del éxito.
 
-### Catecismo de la Iglesia Católica (CEC)
-
-El CEC enseña que la Ley de Dios contiene verdades eternas, pero sus disposiciones concretas están condicionadas históricamente (CEC 1963-1964). La Ley antigua prepara y dispone para el Evangelio (CEC 1962). Cristo es la «plenitud de la Ley» (CEC 1965-1966).
 
 ## Distinciones importantes
 
@@ -68,4 +68,4 @@ El CEC enseña que la Ley de Dios contiene verdades eternas, pero sus disposicio
 ## Referencias
 
 - Benedicto XVI, *Jesús de Nazaret I*, cap. 2 (JdN_I).
-- Jacob Neusner, *A Rabbi Talks with Jesus* (1993).
+- Jacob Neusner, *A Rabbi Talks with Jesús* (1993).

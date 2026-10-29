@@ -21,10 +21,6 @@ El ministerio pastoral se funda en la misión de Cristo, Buen Pastor que da la v
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Christus Dominus* 11–16: El ministerio pastoral del obispo. *Presbyterorum Ordinis* 4–6: El ministerio pastoral de los presbíteros.
-
 ### Según el Catecismo (CEC)
 
 §893: «Los obispos, como vicarios y legados de Cristo, gobiernan las Iglesias particulares [...] con el ministerio de la palabra, de los sacramentos y del gobierno».
@@ -32,6 +28,10 @@ El ministerio pastoral se funda en la misión de Cristo, Buen Pastor que da la v
 ### Según el Código de Derecho Canónico (CIC)
 
 Can. 519: El párroco es el pastor propio de la parroquia, ejerce la cura pastoral bajo la autoridad del obispo.
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Christus Dominus* 11–16: El ministerio pastoral del obispo. *Presbyterorum Ordinis* 4–6: El ministerio pastoral de los presbíteros.
+
 
 ## Relaciones doctrinales
 

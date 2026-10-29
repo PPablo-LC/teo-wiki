@@ -24,6 +24,10 @@ La misión divina implica dos aspectos: la relación del enviado con quien enví
 ### Según el Catecismo (CEC)
 
 «La misión del Hijo y del Espíritu Santo es el designio del Padre» (CEC §257-258). «Toda la economía divina es obra común de las tres Personas» (§258). El envío del Hijo y la efusión del Espíritu Santo son inseparables (§743). La misión visible del Hijo prepara y manifiesta la misión invisible del Espíritu (§689). La inhabitación de la Trinidad en el alma justa es fruto de las misiones divinas (§260).
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Misión»] En el AT, los profetas son enviados por Dios: «Yo te envío» (Ex 3,10; Jer 1,7; Ez 2,3s). Israel mismo tiene una misión como pueblo elegido (Ex 19,5s) para ser luz de las naciones (Is 42,6). En el NT, Jesús es el enviado del Padre por excelencia (Jn 3,17; 10,36), que cumple la Escritura (Lc 4,17-21). Su misión se prolonga en la de los apóstoles: «Como el Padre me envió, también yo os envío» (Jn 20,21). El Padre y el Hijo envían al Espíritu Santo (Jn 14,26; 15,26), cuya misión dura toda la vida de la Iglesia (Act 1,8). La misión del Hijo y del Espíritu revelan el misterio íntimo de Dios: el que envía es el Padre, y el envío muestra la procesión eterna.
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata las misiones divinas en SmTh Iª q.43. A la persona divina le corresponde ser enviada (a.1) en cuanto implica relación de origen con quien envía y un nuevo modo de estar en la criatura. No implica inferioridad, pues el origen en Dios es de igualdad, ni separación local.
@@ -39,10 +43,6 @@ La misión invisible se hace a todos los que participan de la gracia (a.6), incl
 La misión visible del Espíritu Santo (a.7) se realiza por medio de criaturas visibles formadas expresamente para significarlo (paloma, lenguas de fuego), no por asunción hipostática como en el Hijo. El Hijo es enviado visiblemente como autor de la santificación (Encarnación); el Espíritu Santo como signo de santificación.
 
 La persona divina es enviada solo por aquella de quien procede eternamente (a.8), si «enviar» se refiere al principio de la persona; si se refiere al principio del efecto, toda la Trinidad envía.
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Misión»] En el AT, los profetas son enviados por Dios: «Yo te envío» (Ex 3,10; Jer 1,7; Ez 2,3s). Israel mismo tiene una misión como pueblo elegido (Ex 19,5s) para ser luz de las naciones (Is 42,6). En el NT, Jesús es el enviado del Padre por excelencia (Jn 3,17; 10,36), que cumple la Escritura (Lc 4,17-21). Su misión se prolonga en la de los apóstoles: «Como el Padre me envió, también yo os envío» (Jn 20,21). El Padre y el Hijo envían al Espíritu Santo (Jn 14,26; 15,26), cuya misión dura toda la vida de la Iglesia (Act 1,8). La misión del Hijo y del Espíritu revelan el misterio íntimo de Dios: el que envía es el Padre, y el envío muestra la procesión eterna.
 
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 

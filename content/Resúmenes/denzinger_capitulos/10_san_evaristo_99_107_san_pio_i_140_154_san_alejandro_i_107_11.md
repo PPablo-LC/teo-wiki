@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "SAN EVARISTO 99 107 SAN PIO I 140 154 SAN ALEJANDRO I 107 11"
+title: "SAN EVARISTO 99 107 SAN PÍO I 140 154 SAN ALEJANDRO I 107 11"
 fuente: denzinger_capitulos
 capítulo: 10
 timestamp: 2026-08-24
@@ -8,7 +8,7 @@ description: "Resumen de los primeros papas y el reconocimiento del primado pont
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# SAN EVARISTO 99 107 SAN PIO I 140 154 SAN ALEJANDRO I 107 11
+# SAN EVARISTO 99 107 SAN PÍO I 140 154 SAN ALEJANDRO I 107 11
 
 ## Conceptos básicos referenciados
 
@@ -35,6 +35,6 @@ Sucesión de los primeros obispos de Roma con las fechas aproximadas de su ponti
 
 ## Secciones incluidas
 
-## SAN EVARISTO, 99 (?) 107 (?) — SAN VICTOR, 189 (?) 198
+## SAN EVARISTO, 99 (?) 107 (?) — SAN VÍCTOR, 189 (?) 198
 
 Lista de los primeros obispos de Roma desde San Evaristo hasta San Víctor, con sus fechas aproximadas. La nota al pie destaca que ya en tiempo de San Víctor (finales del siglo II) el [[primado_del_romano_pontífice]] era reconocido universalmente, como demuestra el episodio de la controversia pascual con las Iglesias de Asia: aunque se criticó la severidad de Víctor, nadie cuestionó su autoridad para excomulgar.

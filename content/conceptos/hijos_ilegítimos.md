@@ -25,6 +25,9 @@ La condición de los hijos ilegítimos ha sido reconocida desde el derecho roman
 
 El CIC establece que son legítimos los hijos concebidos o nacidos de matrimonio válido o putativo (c. 1137). Los hijos ilegítimos se legitiman por el matrimonio subsiguiente de los padres, tanto válido como putativo, o por rescripto de la Santa Sede (c. 1139). La legitimación produce los efectos de la filiación legítima incluso respecto de los hijos ya fallecidos (c. 1140). Los hijos deben ser educados siguiendo las normas morales, civiles y de derecho canónico, y los padres deben proveer a sus necesidades, también las de los hijos ilegítimos (cc. 1136, 1139).
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+GS 27 incluye al hijo ilegítimo entre los necesitados de especial atención y servicio: «ese hijo ilegítimo que debe aguantar sin razón el pecado que él no cometió».
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata los hijos ilegítimos en el Suplemento (q.68).
@@ -43,9 +46,6 @@ Santo Tomás señala que la ignorancia no afectada excusa de pecado y hace legí
 - Por la Iglesia (derecho canónico): (1) matrimonio subsiguiente de los padres (si no fue caso de adulterio); (2) dispensa especial del Romano Pontífice.
 - Por el derecho civil: (3) ofrecimiento del hijo natural a la corte imperial; (4) designación del padre en testamento como heredero legítimo y presentación del testamento al emperador; (5) si no hay hijo legítimo y el hijo mismo se ofrece al emperador; (6) declaración pública del padre con documento firmado por tres testigos.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-GS 27 incluye al hijo ilegítimo entre los necesitados de especial atención y servicio: «ese hijo ilegítimo que debe aguantar sin razón el pecado que él no cometió».
 
 ## Distinciones importantes
 

@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "C.S. Lewis on the Courtship of Joy — Martin Lajoie"
+title: "C.S. Lewis on the Courtship of Joy — Martín Lajoie"
 fuente: Evangelization and culture - 6_capitulos
 capítulo: 15
 timestamp: 2026-08-26
@@ -8,7 +8,7 @@ description: "Resumen del artículo sobre C.S. Lewis y el cortejo de la alegría
 tags: ["resumen", "evangelization_and_culture", "literatura"]
 ---
 
-# C.S. Lewis on the Courtship of Joy — Martin Lajoie
+# C.S. Lewis on the Courtship of Joy — Martín Lajoie
 
 ## Conceptos básicos referenciados
 

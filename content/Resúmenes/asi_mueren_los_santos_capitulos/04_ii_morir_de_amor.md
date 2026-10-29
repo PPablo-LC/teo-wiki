@@ -60,7 +60,7 @@ describen su don y tarea.
   Trinidad; «¿Dónde vivía Cristo sino en el dolor?»; arrastró a su madre
   a la ofrenda.
 - **[[santa_teresa_de_los_andes]]** (1900-1920): «la misión de anunciar
-  que amor y sufrimiento son indistinguibles»; votos *in articulo
+  que amor y sufrimiento son indistinguibles»; votos *in artículo
   mortis*; «¡Mi Esposo!».
 - **[[santa_maría_cándida_de_la_eucaristía]]** (1884-1949): el
   tabernáculo como «séptima morada»; «Al nacer, Jesús se hace nuestro,

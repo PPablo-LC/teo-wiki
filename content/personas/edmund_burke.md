@@ -21,7 +21,7 @@ Burke se opuso a la Revolución Francesa no porque se opusiera al cambio, sino p
 
 ### Word on Fire Institute (EAC-21)
 
-Burke es mencionado en EAC-21 a través de una cita célebre que aparece en el archivo de poesía (06_poetry_tomb_napoleon.md), como epígrafe del poema «At the Tomb of Napoleon» de Alan Seeger:
+Burke es mencionado en EAC-21 a través de una cita célebre que aparece en el archivo de poesía (06_poetry_tomb_napoleon.md), como epígrafe del poema «At the Tomb of Napoleón» de Alan Seeger:
 
 > «Among a people generally corrupt, liberty cannot long exist.»
 > — Edmund Burke
@@ -48,6 +48,6 @@ Burke es relevante para la teología católica porque su defensa de la tradició
 
 ## Referencias
 
-- EAC-21, 06_poetry_tomb_napoleon.md (Alan Seeger), «At the Tomb of Napoleon» (epígrafe)
+- EAC-21, 06_poetry_tomb_napoleon.md (Alan Seeger), «At the Tomb of Napoleón» (epígrafe)
 - Burke, Edmund, *Reflections on the Revolution in France* (1790)
 - Burke, Edmund, *Thoughts on the Cause of the Present Discontents* (1770)

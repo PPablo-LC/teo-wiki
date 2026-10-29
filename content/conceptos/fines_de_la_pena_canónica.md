@@ -26,7 +26,7 @@ La concepción de la pena en el derecho canónico se distingue radicalmente de l
 El c. 1311 CIC establece que la Iglesia tiene derecho originario y propio a castigar con sanciones penales a los fieles que cometen delitos. El c. 1341 CIC dispone que el Ordinario debe promover un proceso penal cuando ni la corrección fraterna, ni la reprensión, ni otros medios pastorales basten para reparar el escándalo, restablecer la justicia y enmendar al reo —recogiendo así los mismos tres fines.
 ### Según la Constitución Apostólica Pascite Gregem Dei (PGD)
 
-La Constitución formula explícitamente los tres fines de la pena en su párrafo central: «La caridad exige, en efecto, que los Pastores recurran al sistema penal siempre que deban hacerlo, teniendo presentes los tres fines que lo hacen necesario en la sociedad eclesial, es decir, el restablecimiento de las exigencias de la justicia, la enmienda del reo y la reparación de los escándalos».
+La Constitución fórmula explícitamente los tres fines de la pena en su párrafo central: «La caridad exige, en efecto, que los Pastores recurran al sistema penal siempre que deban hacerlo, teniendo presentes los tres fines que lo hacen necesario en la sociedad eclesial, es decir, el restablecimiento de las exigencias de la justicia, la enmienda del reo y la reparación de los escándalos».
 
 **1. Restablecimiento de la justicia:** La pena busca reconstruir el orden quebrantado por el delito. El nuevo Libro VI responde a «la exigencia cada vez más extensa dentro de las comunidades de ver restablecida la justicia y el orden que el delito ha quebrantado».
 

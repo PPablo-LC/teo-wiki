@@ -22,14 +22,14 @@ La historiografía ha propuesto diversos modelos para explicar el proceso: conqu
 
 ## Perspectivas por fuente
 
+### Según el Vocabulario de Teología Bíblica
+El Vocabulario aborda temas relacionados con la tierra, la alianza, la elección y el Día de Yahveh, que iluminan el contexto teológico de la conquista.
 ### Según el libro de Josué
 Josué 1-12 relata los preparativos (cruce del Jordán, circuncisión, Pascua, Jericó), la conquista del centro, sur y norte, y los hechos de guerra. Josué 13-21 detalla el reparto. Josué 22-24 narra la despedida y la renovación de la alianza en Siquem (Jos 24).
 
 ### Según Introducción al Antiguo Testamento (IAT)
 IAT (cap. 13) presenta una lectura guiada del libro: distingue preparativos y conquista, señala las tradiciones acumuladas (sacerdotales y deuteronomistas), comenta el episodio de Rajab y subraya el marco teológico de la obra. También expone los modelos historiográficos sobre la conquista y la relación con la estela de Merneptah.
 
-### Según el Vocabulario de Teología Bíblica
-El Vocabulario aborda temas relacionados con la tierra, la alianza, la elección y el Día de Yahveh, que iluminan el contexto teológico de la conquista.
 
 ## Distinciones importantes
 

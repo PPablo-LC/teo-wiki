@@ -1,17 +1,17 @@
 ---
 type: Persona
-title: "Angela M. Jendro"
+title: "Ángela M. Jendro"
 description: "Escritora, profesora de teología en Providence Academy (Minnesota) y autora del ensayo 'Lives: Saint Dymphna's Aid for AI Anxieties' en el Issue 19 de Evangelization & Culture, sobre la ansiedad de IA, Santa Dymphna y la caridad ante la enfermedad mental."
 tags: ["teología_pastoral", "enfermedad_mental", "evangelización", "cultura_contemporánea"]
 timestamp: 2026-09-07
 ---
 
-# Angela M. Jendro
+# Ángela M. Jendro
 
 > Área: Personas / Escritura
 > Última actualización: 2026-09-07
 
-**Angela M. Jendro** es una escritora y oradora católica, profesora de teología en Providence Academy (Plymouth, Minnesota). Tiene un máster en Estudios Católicos por la University of St. Thomas. Es esposa y madre, y escribe en *taketimeforhim.com*.
+**Ángela M. Jendro** es una escritora y oradora católica, profesora de teología en Providence Academy (Plymouth, Minnesota). Tiene un máster en Estudios Católicos por la University of St. Thomas. Es esposa y madre, y escribe en *taketimeforhim.com*.
 
 ## Aportación: St. Dymphna's Aid for AI Anxieties (EAC-19)
 
@@ -34,5 +34,5 @@ En el Issue 19 de *Evangelization & Culture* firma la sección *Lives* dedicada 
 
 ## Referencias
 
-- Angela M. Jendro, «Lives: Saint Dymphna's Aid for AI Anxieties» (EAC-19, 05_lives.md)
-- Angela M. Jendro, *taketimeforhim.com*
+- Ángela M. Jendro, «Lives: Saint Dymphna's Aid for AI Anxieties» (EAC-19, 05_lives.md)
+- Ángela M. Jendro, *taketimeforhim.com*

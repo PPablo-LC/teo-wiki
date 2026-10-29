@@ -13,7 +13,7 @@ description: "Raymond Edward Brown (1928–1998) fue un sacerdote sulpiciano y e
 
 ## Datos biográficos
 
-Raymond Edward Brown (1928–1998) fue un sacerdote sulpiciano y exegeta estadounidense, considerado uno de los más importantes biblistas católicos del siglo XX. Miembro de la Pontificia Comisión Bíblica (1972–1978) y profesor en el Union Theological Seminary y el St. Mary's Seminary (Baltimore). Fue el primer católico en obtener un doctorado en el Departamento de Estudios del Cercano Oriente de la Universidad Johns Hopkins, y el primero en ejercer como presidente de la Society of Biblical Literature (1976). Su obra se caracteriza por integrar la exégesis histórico-crítica con una profunda fe eclesial.
+Raymond Edward Brown (1928–1998) fue un sacerdote sulpiciano y exegeta estadounidense, considerado uno de los más importantes biblistas católicos del siglo XX. Miembro de la Pontificia Comisión Bíblica (1972–1978) y profesor en el Unión Theological Seminary y el St. Mary's Seminary (Baltimore). Fue el primer católico en obtener un doctorado en el Departamento de Estudios del Cercano Oriente de la Universidad Johns Hopkins, y el primero en ejercer como presidente de la Society of Biblical Literature (1976). Su obra se caracteriza por integrar la exégesis histórico-crítica con una profunda fe eclesial.
 
 ## Obras principales
 

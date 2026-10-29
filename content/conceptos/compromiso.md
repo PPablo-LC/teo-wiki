@@ -14,7 +14,7 @@ timestamp: 2026-10-15
 # Compromiso
 
 ## Definición
-Giussani advierte: «non è mai vero dialogo se non in quanto io porto *coscienza di me*» y añade «*confondere il dialogo con il compromesso*» (*Il rischio educativo*, II, 65-71).
+Giussani advierte: «non è mai vero diálogo se non in quanto io porto *coscienza di me*» y añade «*confondere il diálogo con il compromesso*» (*Il rischio educativo*, II, 65-71).
 
 ## Desarrollo doctrinal
 

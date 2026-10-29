@@ -29,15 +29,9 @@ Dios escogió desde toda la eternidad a una hija de Israel para ser Madre de su 
 
 María es verdaderamente Madre de Dios (*Theotokos*), porque aquel que concibió como hombre no es otro que el Hijo eterno del Padre (§495). Es «siempre Virgen» (*Aeiparthénon*): virgen antes del parto, en el parto y después del parto (§499, §510). Fue asunta en cuerpo y alma a la gloria del cielo (§966, §974). Es «nuestra madre en el orden de la gracia» (§968), invocada como Abogada, Auxiliadora, Socorro, Mediadora (§969). «La piedad de la Iglesia hacia la Santísima Virgen es un elemento intrínseco del culto cristiano» (§971). Es «la imagen y comienzo de la Iglesia que llegará a su plenitud en el siglo futuro» (§972).
 
-### Según la Dives in Misericordia (DM)
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
-Juan Pablo II presenta a María como «Madre de la misericordia», título que encierra «un profundo significado teológico» [DM §9]. María es «la que de manera singular y excepcional ha experimentado —como nadie— la misericordia y, también de manera excepcional, ha hecho posible con el sacrificio de su corazón la propia participación en la revelación de la misericordia divina» [DM §9].
-
-Nadie como la Madre del Crucificado «ha experimentado el misterio de la cruz, el pasmoso encuentro de la trascendente justicia divina con el amor: el "beso" dado por la misericordia a la justicia». Nadie como ella «ha acogido de corazón ese misterio» [DM §9]. María «conoce más a fondo el misterio de la misericordia divina. Sabe su precio y sabe cuán alto es» [DM §9].
-
-Los títulos *Virgen de la misericordia*, *Madre de la divina misericordia* expresan «la preparación particular de su alma, de toda su personalidad» para hacer partícipes a los hombres de la misericordia «de generación en generación» [DM §9]. Por su participación en la misión mesiánica de su Hijo, María «ha sido llamada singularmente a acercar los hombres al amor que El había venido a revelar» [DM §9]. El corazón de María tiene «tacto singular» y «especial aptitud para llegar a todos aquellos que aceptan más fácilmente el amor misericordioso de parte de una madre» [DM §9].
-
-El Magníficat de María (Lc 1,50) tiene «un contenido profético que afecta no solo al pasado de Israel, sino también al futuro del Pueblo de Dios», proclamando la misericordia «de generación en generación» [DM §10].
+[VocTeoBib, «María»] El artículo recorre los principales títulos marianos del NT. María aparece como **Hija de Sión** (Lc 1,26-56): el «regocíjate» del ángel evoca Sof 3,14-17 y Zac 9,9, y ella recibe en nombre del pueblo el anuncio de la salvación. Es la **Virgen** que concibe por obra del Espíritu Santo (Lc 1,26-38; Mt 1,18-23); su virginidad manifiesta una consagración exclusiva a Dios. Es la **Madre** de Jesús, maternidad voluntaria que se consuma en la cruz (Jn 19,25ss), donde María es constituida madre del discípulo y, en él, de la Iglesia. Es la **primera creyente**, cuyo itinerario de fe —turbación, silencio, meditación— es modelo para todo fiel. La relación María-Iglesia es profunda: María es tipo de la Iglesia, Virgen y Madre, Nueva Eva asociada al Nuevo Adán.
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
@@ -104,6 +98,16 @@ La Virgen María es también Madre de la Iglesia, y su protección maternal acom
 
 [TPCr, Parte I, Cap. 5]
 
+### Según la Dives in Misericordia (DM)
+
+Juan Pablo II presenta a María como «Madre de la misericordia», título que encierra «un profundo significado teológico» [DM §9]. María es «la que de manera singular y excepcional ha experimentado —como nadie— la misericordia y, también de manera excepcional, ha hecho posible con el sacrificio de su corazón la propia participación en la revelación de la misericordia divina» [DM §9].
+
+Nadie como la Madre del Crucificado «ha experimentado el misterio de la cruz, el pasmoso encuentro de la trascendente justicia divina con el amor: el "beso" dado por la misericordia a la justicia». Nadie como ella «ha acogido de corazón ese misterio» [DM §9]. María «conoce más a fondo el misterio de la misericordia divina. Sabe su precio y sabe cuán alto es» [DM §9].
+
+Los títulos *Virgen de la misericordia*, *Madre de la divina misericordia* expresan «la preparación particular de su alma, de toda su personalidad» para hacer partícipes a los hombres de la misericordia «de generación en generación» [DM §9]. Por su participación en la misión mesiánica de su Hijo, María «ha sido llamada singularmente a acercar los hombres al amor que El había venido a revelar» [DM §9]. El corazón de María tiene «tacto singular» y «especial aptitud para llegar a todos aquellos que aceptan más fácilmente el amor misericordioso de parte de una madre» [DM §9].
+
+El Magníficat de María (Lc 1,50) tiene «un contenido profético que afecta no solo al pasado de Israel, sino también al futuro del Pueblo de Dios», proclamando la misericordia «de generación en generación» [DM §10].
+
 ### Según la Redemptoris Mater (RM)
 
 [JPII, Redemptoris Mater §1-52]: La *Redemptoris Mater* es una mariología completa centrada en la «peregrinación de la fe» de María. María es presentada como la «llena de gracia» (*Kejaritoméne*), cuyo verdadero nombre revela su lugar en el misterio de Cristo [RM §8-11]. Su *fiat* en la Anunciación es la obediencia de la fe perfecta, comparable a la de Abraham [RM §13-14]. María es la nueva Eva que, por su fe, desata el nudo de la desobediencia de Eva [RM §19]. En Caná se manifiesta por primera vez su mediación materna como intercesión [RM §21]. En la Cruz, Jesús le entrega el discípulo amado como hijo y a ella como madre de la Iglesia [RM §23-24]. La encíclica subraya la única mediación de Cristo (1 Tm 2,5-6), de la cual la mediación de María es participada y subordinada [RM §38-41]. María es Madre de la Iglesia [RM §47], Reina universal [RM §41], tipo y modelo de la Iglesia [RM §42-44]. Es también imagen perfecta de la libertad y de la liberación [RM §37] y signo de esperanza segura para el Pueblo de Dios peregrinante [RM §50]. La encíclica dedica especial atención al Año Mariano [RM §48-50], a la espiritualidad mariana y a la consagración a María según San Luis María Grignion de Montfort [RM §48], a la iconografía mariana [RM §33] y al ecumenismo mariano con las Iglesias orientales [RM §29-34].
@@ -126,7 +130,7 @@ La **virgen maría** ocupa un lugar central en la vida sacerdotal de Juan Pablo 
 
 ### Según María, José y la vida oculta de Jesús (MJV)
 
-Juan Pablo II profundiza en la figura de María como Madre de Dios y modelo de fe en las catequesis sobre la vida oculta [MJV, catequesis 1-10]. El Magnificat es presentado como «la primicia de las diversas expresiones de culto, transmitidas de generación en generación, con las que la Iglesia manifiesta su amor a la Virgen de Nazaret» [MJV, catequesis 2]. María es «la primera evangelista que difunde la buena nueva» [MJV, catequesis 1], modelo de quienes en la Iglesia se ponen en camino para llevar la luz de Cristo a los hombres.
+Juan Pablo II profundiza en la figura de María como Madre de Dios y modelo de fe en las catequesis sobre la vida oculta [MJV, catequesis 1-10]. El Magníficat es presentado como «la primicia de las diversas expresiones de culto, transmitidas de generación en generación, con las que la Iglesia manifiesta su amor a la Virgen de Nazaret» [MJV, catequesis 2]. María es «la primera evangelista que difunde la buena nueva» [MJV, catequesis 1], modelo de quienes en la Iglesia se ponen en camino para llevar la luz de Cristo a los hombres.
 
 La vida de María en Nazaret es presentada como lugar de fe, esperanza y caridad: «En María la conciencia de que cumplía una misión que Dios le había encomendado atribuía un significado más alto a su vida diaria. Los sencillos y humildes quehaceres de cada día asumían, a sus ojos, un valor singular, pues los vivía como servicio a la misión de Cristo» [MJV, catequesis 10]. María «conservaba todas estas cosas en su corazón» (Lc 2,19.51), penetrando progresivamente en el misterio de su Hijo.
 
@@ -167,10 +171,6 @@ El Papa subraya que María es «esclava del Padre» (Lc 1,38), «amiga atenta» 
 ### Según CJeS (1987-1989)
 
 Juan Pablo II desarrolla la presencia de María al pie de la Cruz en el contexto de las palabras de Cristo: «Mujer, he ahí a tu hijo» (Jn 19,26-27). En este momento, Jesús confía el discípulo amado —y en él a todos los hombres— a María como Madre, y a María al discípulo como hijo. Esta escena funda la [[maternidad_espiritual]] de María sobre toda la Iglesia. María es constituida Madre de la Iglesia y Madre en el orden de la gracia (cf. *Lumen Gentium* 61). El culto mariano y el amor filial a María brotan de esta entreza de Cristo desde la Cruz. María está presente en el momento culminante de la redención, asociada al sacrificio de su Hijo (CJeS, cuarta parte: palabras de Cristo en la Cruz).
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «María»] El artículo recorre los principales títulos marianos del NT. María aparece como **Hija de Sión** (Lc 1,26-56): el «regocíjate» del ángel evoca Sof 3,14-17 y Zac 9,9, y ella recibe en nombre del pueblo el anuncio de la salvación. Es la **Virgen** que concibe por obra del Espíritu Santo (Lc 1,26-38; Mt 1,18-23); su virginidad manifiesta una consagración exclusiva a Dios. Es la **Madre** de Jesús, maternidad voluntaria que se consuma en la cruz (Jn 19,25ss), donde María es constituida madre del discípulo y, en él, de la Iglesia. Es la **primera creyente**, cuyo itinerario de fe —turbación, silencio, meditación— es modelo para todo fiel. La relación María-Iglesia es profunda: María es tipo de la Iglesia, Virgen y Madre, Nueva Eva asociada al Nuevo Adán.
 
 ### Según Benedicto XVI (JdN_III)
 

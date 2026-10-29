@@ -4,7 +4,7 @@ title: San Pedro
 tags: ["eclesiología", "historia"]
 
 timestamp: 2026-06-02
-description: "San Pedro (Simon bar Jonás) fue el primero de los [[apóstoles]], constituido por Cristo como fundamento visible de su Iglesia y primer [[romano_pontífice]] (Papa)."
+description: "San Pedro (Simón bar Jonás) fue el primero de los [[apóstoles]], constituido por Cristo como fundamento visible de su Iglesia y primer [[romano_pontífice]] (Papa)."
 ---
 # San Pedro
 
@@ -13,7 +13,7 @@ description: "San Pedro (Simon bar Jonás) fue el primero de los [[apóstoles]],
 
 ## Definición
 
-San Pedro (Simon bar Jonás) fue el primero de los [[apóstoles]], constituido por Cristo como fundamento visible de su Iglesia y primer [[romano_pontífice]] (Papa). Su primado sobre el Colegio Apostólico es el fundamento del [[ministerio_petrino]] que perdura en sus sucesores, los obispos de Roma.
+San Pedro (Simón bar Jonás) fue el primero de los [[apóstoles]], constituido por Cristo como fundamento visible de su Iglesia y primer [[romano_pontífice]] (Papa). Su primado sobre el Colegio Apostólico es el fundamento del [[ministerio_petrino]] que perdura en sus sucesores, los obispos de Roma.
 
 ## Desarrollo doctrinal
 

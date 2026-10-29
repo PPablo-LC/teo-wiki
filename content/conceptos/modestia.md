@@ -26,23 +26,6 @@ Bajo la modestia se agrupan varias virtudes: la humildad (modera el apetito de e
 ### Según el Catecismo (CEC)
 
 La modestia es fruto del Espíritu Santo (CEC §1832). La pureza exige el pudor, que «es parte integrante de la templanza. El pudor preserva la intimidad de la persona. Designa el rechazo a mostrar lo que debe permanecer velado. Está ordenado a la castidad, cuya delicadeza proclama. Ordena las miradas y los gestos en conformidad con la dignidad de las personas» (§2521-2524).
-### Según Royo Marín (TPCr)
-
-La modestia modera cuatro tipos de movimientos:
-a) El movimiento del alma hacia la excelencia, moderado por la humildad.
-b) El deseo o apetito natural de conocer, regulado por la estudiosidad.
-c) Los movimientos y acciones corporales, moderados por la modestia corporal en cosas serias y por la eutrapelia en juegos.
-d) Lo relativo al vestido y aparato exterior, regulado por la modestia en el ornato.
-
-La modestia corporal tiene gran importancia individual y social: «De ordinario, en el exterior del hombre se transparenta claramente su interior. Gestos bruscos y descompasados, carcajadas ruidosas, miradas fijas o indiscretas, modales relamidos y amanerados son índice de un interior desordenado».
-
-A la modestia corporal se oponen dos vicios: por exceso, la afectación o amaneramiento; por defecto, la rusticidad zafia. En el ornato, el desorden puede ser por vanidad, sensualidad o excesiva solicitud.
-
-El don de temor actúa sobre la modestia «suprimiendo en absoluto cualquier movimiento desordenado interior o exterior».
-
-[TPCr, Parte III, Libro II, Cap. II, n.462, 471-473]
-
-
 ### Según la Summa Theologiae (SmTh)
 
 #### Q160: La modestia
@@ -66,6 +49,23 @@ Santo Tomás sigue aquí a Cicerón, quien apartó de la modestia tanto la cleme
 2. **Conveniencia respecto de personas externas, negocios o lugares** (buen orden): acomodar los gestos a las circunstancias.
 
 Los movimientos externos son signos de la disposición interior (Eclo 19,27). San Ambrosio: «el movimiento del cuerpo es una voz del alma». La moderación de estos movimientos se reduce en último término a dos virtudes: la **amistad o afabilidad** (ordenarse hacia otros en los actos exteriores) y la **verdad** (mostrarse en palabras y acciones como se es interiormente).
+
+### Según Royo Marín (TPCr)
+
+La modestia modera cuatro tipos de movimientos:
+a) El movimiento del alma hacia la excelencia, moderado por la humildad.
+b) El deseo o apetito natural de conocer, regulado por la estudiosidad.
+c) Los movimientos y acciones corporales, moderados por la modestia corporal en cosas serias y por la eutrapelia en juegos.
+d) Lo relativo al vestido y aparato exterior, regulado por la modestia en el ornato.
+
+La modestia corporal tiene gran importancia individual y social: «De ordinario, en el exterior del hombre se transparenta claramente su interior. Gestos bruscos y descompasados, carcajadas ruidosas, miradas fijas o indiscretas, modales relamidos y amanerados son índice de un interior desordenado».
+
+A la modestia corporal se oponen dos vicios: por exceso, la afectación o amaneramiento; por defecto, la rusticidad zafia. En el ornato, el desorden puede ser por vanidad, sensualidad o excesiva solicitud.
+
+El don de temor actúa sobre la modestia «suprimiendo en absoluto cualquier movimiento desordenado interior o exterior».
+
+[TPCr, Parte III, Libro II, Cap. II, n.462, 471-473]
+
 
 ### Pontificio Consejo para la Familia — Sexualidad humana: verdad y significado (SHVS)
 

@@ -53,7 +53,7 @@ La actitud misionera comienza siempre con «un sentimiento de profunda estima fr
 
 ### Según San Juan Pablo II (EA)
 
-La Exhortación Apostólica *Ecclesia in America* sitúa la evangelización en el corazón de la identidad de la Iglesia: «evangelizar constituye, en efecto, la dicha y vocación propia de la Iglesia, su identidad más profunda» [EA §66, citando a Pablo VI, EN 14]. El deber de la evangelización es una urgencia de caridad para el discípulo de Cristo: «El amor de Cristo nos apremia» (2 Co 5, 14) [EA §1].
+La Exhortación Apostólica *Ecclesia in América* sitúa la evangelización en el corazón de la identidad de la Iglesia: «evangelizar constituye, en efecto, la dicha y vocación propia de la Iglesia, su identidad más profunda» [EA §66, citando a Pablo VI, EN 14]. El deber de la evangelización es una urgencia de caridad para el discípulo de Cristo: «El amor de Cristo nos apremia» (2 Co 5, 14) [EA §1].
 
 La conmemoración de los quinientos años de la llegada del Evangelio a América y el Gran Jubileo del año 2000 son «ocasiones privilegiadas» para renovar el impulso evangelizador [EA §1]. El tema de la Asamblea Especial del Sínodo para América —«Encuentro con Jesucristo vivo, camino para la conversión, la comunión y la solidaridad en América»— expresa «la centralidad de la persona de Jesucristo resucitado, presente en la vida de la Iglesia, que invita a la conversión, a la comunión y a la solidaridad» [EA §3].
 
@@ -90,7 +90,7 @@ El documento subraya que la evangelización tiene como centro el **kerigma** —
 
 - **La evangelización por los medios de Kolbe** (cap. 12): el ideal de «inondare la terra con un diluvio di stampa cristiana e mariana, in ogni lingua, in ogni luogo, per affogare nei gorghi della verità ogni manifestazione di errore»: «fasciare il mondo di carta scritta con parole di vita per ridare al mondo la gioia di vivere». La Milicia dell'Immacolata (800.000 inscritos en 1939) aspira a estar presente en educación, opinión pública, artes y ciencias: «la Milizia impregni tutto». Niepokalanow (762 religiosos, 8 revistas, «Il cavaliere dell'immacolata» con un millón de copias) y el «giardino dell'immacolata» en Japón: la evangelización como conquista «con ardito attacco, non badando affatto a se stessi».
 - **La evangelización por la educación de don Bosco** (cap. 7): el oratorio como «parrocchia dei ragazzi che non hanno parrocchia»; Rosmini «paragonava la nostra opera alle missioni che si aprono in terra straniera»: la primera industrialización de Turín como tierra de misión. Millones de italianos formados en 125 años de oratorios salesianos — «semplicemente vedeva il bisogno e interveniva... su uomini concreti, quelli che la storia la fanno tutti i giorni».
-- **La evangelización del sufrimiento** (caps. 3 y 5): Benedetta Bianchi Porro escribe incluso en los periódicos (celebérrima su carta a *Epoca*) «per dare conforto a giovani come lei sofferenti ma disperati»; Edith Stein muere diciendo «Vieni, andiamo per il nostro popolo»: el testimonio mismo como evangelización.
+- **La evangelización del sufrimiento** (caps. 3 y 5): Benedetta Bianchi Porro escribe incluso en los periódicos (celebérrima su carta a *Época*) «per dare conforto a giovani come lei sofferenti ma disperati»; Edith Stein muere diciendo «Vieni, andiamo per il nostro popolo»: el testimonio mismo como evangelización.
 
 ## Relaciones doctrinales
 

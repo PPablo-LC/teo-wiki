@@ -27,7 +27,7 @@ La esponsalidad se cumple, de modo pleno y ejemplar, en la relación matrimonial
 
 ### Giussani — Affezione e dimora (AED)
 
-En la Tischrede 129 se formula el principio: «en la raíz de toda la realidad viviente está la esponsalidad. Y es la esponsalidad la que hace que todo sea promesa» (AED, 15, 75-77). Y se define: «esponsal quiere decir una realidad prometedora, que promete, una promesa» (AED, 15, 77).
+En la Tischrede 129 se fórmula el principio: «en la raíz de toda la realidad viviente está la esponsalidad. Y es la esponsalidad la que hace que todo sea promesa» (AED, 15, 75-77). Y se define: «esponsal quiere decir una realidad prometedora, que promete, una promesa» (AED, 15, 77).
 
 Sobre la bondad de la creación: *Omnis creatura bona*: «¡Piensa: omnis creatura bona!... Toda creatura es buena, y Dios vio que todo era bueno. Por eso no debemos tener miedo de nada» (AED, 15, 79-81).
 

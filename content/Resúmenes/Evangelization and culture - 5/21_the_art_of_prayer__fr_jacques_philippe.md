@@ -31,7 +31,7 @@ La mentalidad tecnocrática nos hace pensar que la oración es «un deber que de
 
 ### La oración de los pobres
 
-San Juan de la Cruz: «Muchas personas creen que no están orando, cuando, en realidad, su oración es intensa. Otras dan gran valor a su oración, mientras que es poco más que inexistente». El paradoja: «cuanto más libremente se ofrece nuestra oración, menos buscará un resultado, y más fruto dará». Martin Steffens: «En nuestra vida ordinaria, compartimos nuestras habilidades con el mundo. En nuestra oración, compartimos nuestra cuota de impotencia».
+San Juan de la Cruz: «Muchas personas creen que no están orando, cuando, en realidad, su oración es intensa. Otras dan gran valor a su oración, mientras que es poco más que inexistente». El paradoja: «cuanto más libremente se ofrece nuestra oración, menos buscará un resultado, y más fruto dará». Martín Steffens: «En nuestra vida ordinaria, compartimos nuestras habilidades con el mundo. En nuestra oración, compartimos nuestra cuota de impotencia».
 
 ### La lógica descendente
 

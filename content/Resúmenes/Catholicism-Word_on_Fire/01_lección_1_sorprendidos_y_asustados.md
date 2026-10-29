@@ -35,7 +35,7 @@ Barron abre descartando el «punto medio» moderno: Jesús no puede ser reducido
 
 ### La broma divina: la Encarnación
 
-La esencia del humor es combinar incongruencias, y la propuesta central del cristianismo es la paradoja suprema: Dios se hizo humano. Y no apareció en Roma, Atenas o Babilonia, sino en Belén, lugar humilde. San Pablo lo formula como [[kenosis]]: aunque tenía la naturaleza de Dios, se vació y tomó la forma de esclavo. El amo del universo se convierte por amor en nuestro esclavo.
+La esencia del humor es combinar incongruencias, y la propuesta central del cristianismo es la paradoja suprema: Dios se hizo humano. Y no apareció en Roma, Atenas o Babilonia, sino en Belén, lugar humilde. San Pablo lo fórmula como [[kenosis]]: aunque tenía la naturaleza de Dios, se vació y tomó la forma de esclavo. El amo del universo se convierte por amor en nuestro esclavo.
 
 ### El carpintero con autoridad sobre la Torá
 

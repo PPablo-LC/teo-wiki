@@ -23,7 +23,7 @@ tags: ["resumen", "evangelization and culture - 13"]
 
 ### Ganar la lotería
 
-Ganar la lotería ha arruinado la vida de mucha gente; el problema del paso de la miseria a la riqueza es que las riquezas acaban procurando más harapos en lugar de eliminar los existentes. Pero ¿qué pasaría si una persona recibiera una fortuna y no solo la regalara, sino que la usara para crear un anticipo de la eternidad de Dios para un pequeño grupo de seres queridos? Tal es la experiencia vivida de la teología moral y sacramental católica incrustada en la película de Gabriel Axel *El festín de Babette*, basada en el cuento de 1958 de la autora danesa Isak Dinesen, seudónimo de Karen Blixen. Incluida en la sección «Religion» de la Lista de Películas del Vaticano de 1995, ganó el Oscar a la Mejor Película Extranjera en 1987.
+Ganar la lotería ha arruinado la vida de mucha gente; el problema del paso de la miseria a la riqueza es que las riquezas acaban procurando más harapos en lugar de eliminar los existentes. Pero ¿qué pasaría si una persona recibiera una fortuna y no solo la regalara, sino que la usara para crear un anticipo de la eternidad de Dios para un pequeño grupo de seres queridos? Tal es la experiencia vivida de la teología moral y sacramental católica incrustada en la película de Gabriel Axel *El festín de Babette*, basada en el cuento de 1958 de la autora danesa Isak Dinesen, seudónimo de Karen Blixen. Incluida en la sección «Religión» de la Lista de Películas del Vaticano de 1995, ganó el Oscar a la Mejor Película Extranjera en 1987.
 
 ### El relato
 

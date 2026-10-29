@@ -36,7 +36,7 @@ reduce a la tentación más grande: **farsi Dio** ([[pecado_original]],
 ### La apariencia y el corazón
 
 La reducción de la realidad a lo aparente es desmentida por el **corazón de
-la experiencia**: la frase de [[theodor_adorno]] en *Minima Moralia*
+la experiencia**: la frase de [[theodor_adorno]] en *Mínima Moralia*
 —«L'apparenza è travolta dal cuore della nostra esperienza»— es usada por
 Giussani para mostrar que la experiencia humana desborda toda reducción
 materialista.
@@ -81,5 +81,5 @@ respuesta a la tentación de quedarse en la apariencia.
 ## Referencias
 
 - **Fuente**: [[quasi_tischreden_vol_4]] (QT4), caps. 15 y 16.
-- T.W. Adorno, *Minima Moralia*; *Sap* 1,13-15.
+- T.W. Adorno, *Mínima Moralia*; *Sap* 1,13-15.
 - **Índice**: `raw/.../Quasi_Tischreden_-_Volume_4_capitulos/índice.md`.

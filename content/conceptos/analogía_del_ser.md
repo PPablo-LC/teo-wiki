@@ -4,7 +4,7 @@ title: Analogía del ser
 tags: ["dogmática", "teología_natural"]
 
 timestamp: 2026-05-29
-description: "La analogía del ser (*analogia entis*) es el principio metafísico y teológico según el cual el ser se predica de Dios y de las criaturas no unívocamente (con idéntico significado) ni equívocamente..."
+description: "La analogía del ser (*analogía entis*) es el principio metafísico y teológico según el cual el ser se predica de Dios y de las criaturas no unívocamente (con idéntico significado) ni equívocamente..."
 ---
 # Analogía del ser
 
@@ -13,7 +13,7 @@ description: "La analogía del ser (*analogia entis*) es el principio metafísic
 
 ## Definición
 
-La analogía del ser (*analogia entis*) es el principio metafísico y teológico según el cual el ser se predica de Dios y de las criaturas no unívocamente (con idéntico significado) ni equívocamente (con significado completamente diverso), sino analógicamente: con un significado en parte igual y en parte diverso, de modo que las perfecciones de las criaturas son semejanzas reales del Dios infinitamente perfecto, aunque la desemejanza entre el Creador y la criatura es siempre mayor que la semejanza.
+La analogía del ser (*analogía entis*) es el principio metafísico y teológico según el cual el ser se predica de Dios y de las criaturas no unívocamente (con idéntico significado) ni equívocamente (con significado completamente diverso), sino analógicamente: con un significado en parte igual y en parte diverso, de modo que las perfecciones de las criaturas son semejanzas reales del Dios infinitamente perfecto, aunque la desemejanza entre el Creador y la criatura es siempre mayor que la semejanza.
 
 ## Desarrollo doctrinal
 
@@ -25,7 +25,7 @@ Santo Tomás de Aquino enseñó que los nombres que decimos de Dios —bondad, s
 
 ### Según el Catecismo (CEC)
 
-El CEC §43 recoge la doctrina del Concilio de Letrán IV (1215): «Entre el Creador y la criatura no se puede señalar una semejanza tal que la desemejanza entre ellos no sea mayor todavía». Este principio de la «analogía del ser» (*analogia entis*) implica que nuestras palabras humanas captan realmente a Dios mismo, sin poder expresarlo en su infinita simplicidad. El CEC cita a Santo Tomás: «Nosotros no podemos captar de Dios lo que Él es, sino solamente lo que no es, y cómo los otros seres se sitúan con relación a Él» (§43).
+El CEC §43 recoge la doctrina del Concilio de Letrán IV (1215): «Entre el Creador y la criatura no se puede señalar una semejanza tal que la desemejanza entre ellos no sea mayor todavía». Este principio de la «analogía del ser» (*analogía entis*) implica que nuestras palabras humanas captan realmente a Dios mismo, sin poder expresarlo en su infinita simplicidad. El CEC cita a Santo Tomás: «Nosotros no podemos captar de Dios lo que Él es, sino solamente lo que no es, y cómo los otros seres se sitúan con relación a Él» (§43).
 
 ### Según Dei Verbum (ConcVatII)
 

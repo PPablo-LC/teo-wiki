@@ -45,7 +45,7 @@ cantidad de metal precioso. El orfebre responde:
 > «L'orefice guardò la vera, / la soppesò a lungo sul palmo e mi fissò negli occhi.
 > E poi decifrò la data / scritta dentro la fede / ... poi disse: Questa fede non ha
 > peso... / Suo marito dev'essere vivo... in tal caso / nessuna delle due fedi ha
-> peso da sola. / Pesano solo tutte e due insieme. / La mia bilancia di orefice / ha
+> peso da sola. / Pesano solo tutte e due insieme. / La mía bilancia di orefice / ha
 > questa particolarità / che non pesa il metallo in sé / ma tutto l'essere umano e
 > il suo destino...»
 

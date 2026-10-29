@@ -1,22 +1,26 @@
 ---
 type: Concepto Teológico
 title: Premio eterno
-description: "La recompensa sobrenatural que Dios concede a los justos por sus méritos adquiridos con la gracia: la vision beatifica de Dios y la felicidad eterna en el cielo."
+description: "La recompensa sobrenatural que Dios concede a los justos por sus méritos adquiridos con la gracia: la visión beatifica de Dios y la felicidad eterna en el cielo."
 ---
 # Premio eterno
 
-> Area: Escatologia
+> Área: Escatología
 > Ultima actualización: 2026-06-16
 
 ## Definición
 
-La recompensa sobrenatural que Dios concede a los justos por sus méritos adquiridos con la gracia: la vision beatifica de Dios y la felicidad eterna en el cielo. Es el fin ultimo del hombre y la consumación de la vida cristiana.
+La recompensa sobrenatural que Dios concede a los justos por sus méritos adquiridos con la gracia: la visión beatifica de Dios y la felicidad eterna en el cielo. Es el fin ultimo del hombre y la consumación de la vida cristiana.
 
 ## Desarrollo doctrinal
 
-El premio eterno es la bienaventuranza prometida por Cristo a los que le siguen fielmente. La teologia distingue entre el premio esencial (la vision beatifica de Dios) y el premio accidental (la gloria que resulta de las buenas obras). El merito de condigno establece que, por la bondad de Dios y su promesa, las buenas obras del justo merecen verdaderamente el aumento de la gracia y la vida eterna. Sin embargo, este merito procede siempre de la gracia divina que obra en el alma.
+El premio eterno es la bienaventuranza prometida por Cristo a los que le siguen fielmente. La teología distingue entre el premio esencial (la visión beatifica de Dios) y el premio accidental (la gloria que resulta de las buenas obras). El merito de condigno establece que, por la bondad de Dios y su promesa, las buenas obras del justo merecen verdaderamente el aumento de la gracia y la vida eterna. Sin embargo, este merito procede siempre de la gracia divina que obra en el alma.
 
 ## Perspectivas por fuente
+
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que los justos participaran en la gloria de Cristo, recibiendo el premio de la vida eterna. «Dios ha predestinado a los que mira con amor a ser conformes con la imagen de su Hijo» (§257-260, 1023-1029).
 
 ### Según la Summa Theologiae (SmTh, Suppl.)
 
@@ -26,10 +30,6 @@ En el Suplemento (q.93), Santo Tomás precisa que los grados del premio eterno s
 
 Además del premio esencial (áurea), Santo Tomás distingue un premio accidental llamado aureola (q.96 a.1), concedido por obras de especial perfección que tienen carácter de victoria señalada: la virginidad, el martirio y la doctrina (q.96 a.11). La aureola es un gozo añadido al gozo esencial de la unión con Dios, por el cual el bienaventurado se regocija en sus propias obras perfectas. Se distingue también del fruto (q.96 a.2), que es el gozo en el propio grado de espiritualidad alcanzado.
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que los justos participaran en la gloria de Cristo, recibiendo el premio de la vida eterna. «Dios ha predestinado a los que mira con amor a ser conformes con la imagen de su Hijo» (§257-260, 1023-1029).
-
 ### Según Royo Marin (TPCr)
 
 Royo Marin explica que el merito de condigno, fundado en la promesa divina y la participación en la naturaleza divina, establece una verdadera relación de justicia entre las buenas obras del justo y la recompensa eterna. La vida eterna es a la vez gracia y corona debida a las obras del justo.
@@ -38,11 +38,11 @@ Royo Marin explica que el merito de condigno, fundado en la promesa divina y la 
 
 > **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-Christian Bobak (men_of_integrity.md) conecta el reconocimiento humano (Oficial del Año como reconocimiento póstumo) con la doctrina del premio eterno y la [[recompensa_celestial]], mostrando la dimension trascendente del servicio silencioso.
+Christian Bobak (men_of_integrity.md) conecta el reconocimiento humano (Oficial del Año como reconocimiento póstumo) con la doctrina del premio eterno y la [[recompensa_celestial]], mostrando la dimensión trascendente del servicio silencioso.
 
 ## Distinciones importantes
 
-- Premio esencial (vision beatifica) vs accidental (gloria adicional)
+- Premio esencial (visión beatifica) vs accidental (gloria adicional)
 - Merito de condigno (por justicia prometida) vs congruo (por conveniencia)
 - Gracia y gloria: la vida eterna es don gratuito y a la vez corona merecida
 

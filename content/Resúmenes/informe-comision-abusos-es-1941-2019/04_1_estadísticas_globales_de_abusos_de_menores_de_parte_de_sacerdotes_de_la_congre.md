@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "1. Estadísticas globales de abusos de menores de parte de sacerdotes de la Congregación – actualización 2020"
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 4
 timestamp: 2026-09-05
 description: "Actualización 2020 de las estadísticas de abusos de sacerdotes de la Congregación y denuncias de casos nuevos tras el Informe 1941-2019 (total: 27 sacerdotes, 2% de los ordenados)."

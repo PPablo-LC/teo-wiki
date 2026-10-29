@@ -40,7 +40,7 @@ El número se abre con el homenaje de Barron (la educación abre a lo que eleva 
 
 ### Word on Fire Institute (EAC-17)
 
-Esta fuente aporta una visión teológica, filosófica, cultural y pastoral de la educación en el registro de la nueva evangelización. No es un documento magisterial —aunque cita y glosa ampliamente textos de Newman (*Idea of a University*, *Rise and Progress of Universities*, *Apologia Pro Vita Sua*), de Juan Pablo II (*Ex Corde Ecclesiae*, *Evangelium Vitae*, *Mulieris Dignitatem*), del Papa Francisco (*Laudato Si'*), de Ratzinger (*In the Beginning*, *Eschatology*, *Jesus of Nazareth*) y del Catecismo (n. 41)— sino una exposición fiel de la tradición católica sobre la educación por parte del Word on Fire Institute.
+Esta fuente aporta una visión teológica, filosófica, cultural y pastoral de la educación en el registro de la nueva evangelización. No es un documento magisterial —aunque cita y glosa ampliamente textos de Newman (*Idea of a University*, *Rise and Progress of Universities*, *Apología Pro Vita Sua*), de Juan Pablo II (*Ex Corde Ecclesiae*, *Evangelium Vitae*, *Mulieris Dignitatem*), del Papa Francisco (*Laudato Si'*), de Ratzinger (*In the Beginning*, *Eschatology*, *Jesús of Nazareth*) y del Catecismo (n. 41)— sino una exposición fiel de la tradición católica sobre la educación por parte del Word on Fire Institute.
 
 **Conceptos centrales desarrollados:**
 

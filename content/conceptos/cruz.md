@@ -32,6 +32,14 @@ La cruz revela el amor extremo de Dios: «Tanto amó Dios al mundo que dio a su 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La cruz es «escándalo para los judíos y locura para los gentiles» (*1Cor 1,23*), pero para los creyentes es «sabiduría y poder de Dios». Pablo desarrolla la teología de la cruz como cumplimiento del designio divino: Cristo, «hecho maldición por nosotros» (*Gal 3,13*) al ser colgado del madero, nos redimió de la maldición de la ley. Para Juan, la cruz es ya glorificación: Jesús es «elevado» como la serpiente de bronce (*Jn 3,14*), y de su costado brotan sangre y agua (*Jn 19,34*). El cristiano debe cargar con su cruz y seguir a Cristo (*Mt 16,24*), crucificando la carne con sus pasiones (*Gal 5,24*). La cruz es el único título de gloria del cristiano (*Gal 6,14*) [VocTeoBib, «Cruz»].
+### Según Royo Marín (TPCr)
+
+Royo Marín presenta la cruz como el medio principal de la perfección cristiana. La aceptación amorosa de la cruz es necesaria para la santidad. No hay santidad sin cruz. La cruz es la prueba del amor y el camino más seguro para alcanzar la unión con Dios.
+
+La mortificación cristiana, la aceptación de los sufrimientos y la paciencia en las adversidades son formas de participar en la cruz de Cristo. La cruz es inseparable del seguimiento de Cristo: todo cristiano está llamado a tomar su cruz cada día.
+
+[TPCr, Parte III, Libro I — Aspecto Negativo de la Vida Cristiana]
+
 ### Según la Dives in Misericordia (DM)
 
 La cruz es el núcleo de la revelación de la misericordia en *Dives in Misericordia*. «La dimensión divina de la redención no se actúa solamente haciendo justicia del pecado, sino restituyendo al amor su fuerza creadora en el interior del hombre» [DM §7]. En la cruz se expresa la justicia absoluta —«al que no conoció pecado, Dios le hizo pecado por nosotros» (2 Cor 5,21)—, pero «tal justicia, que es propiamente justicia "a medida" de Dios, nace toda ella del amor: del amor del Padre y del Hijo, y fructifica toda ella en el amor» [DM §7].
@@ -51,14 +59,6 @@ La Cruz es «a la vez símbolo y memorial de un acontecimiento». Es el emblema 
 ### Según la Redemptoris Mater (RM)
 
 [JPII, Redemptoris Mater §18, §23-24, §39-40]: María está presente junto a la Cruz de su Hijo (Jn 19,25), donde se cumple la profecía de Simeón: «a ti misma una espada te atravesará el alma» (Lc 2,35). María se condolió vehementemente con su Unigénito y se asoció con corazón maternal a su sacrificio, consintiendo con amor en la inmolación de la víctima engendrada por Ella misma [RM §18, citando LG §58]. En la Cruz se realiza la entrega de María como madre al discípulo —y en él a todos los hombres— y del discípulo a María como hijo [RM §23-24]. La maternidad de María en el orden de la gracia ha surgido de su participación en el amor redentor del Hijo junto a la Cruz [RM §39-40].
-
-### Según Royo Marín (TPCr)
-
-Royo Marín presenta la cruz como el medio principal de la perfección cristiana. La aceptación amorosa de la cruz es necesaria para la santidad. No hay santidad sin cruz. La cruz es la prueba del amor y el camino más seguro para alcanzar la unión con Dios.
-
-La mortificación cristiana, la aceptación de los sufrimientos y la paciencia en las adversidades son formas de participar en la cruz de Cristo. La cruz es inseparable del seguimiento de Cristo: todo cristiano está llamado a tomar su cruz cada día.
-
-[TPCr, Parte III, Libro I — Aspecto Negativo de la Vida Cristiana]
 
 ### Según la Veritatis Splendor (VS)
 
@@ -139,7 +139,7 @@ Jesús «decía a todos: Si alguno quiere venir detrás de mí, que se niegue a 
 
 ### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
 
-**La cruz en el icono deportivo (14_art_icons.md):** Cory Heimann reflexiona sobre el logo Jumpman (el salto de Jordan) y la imagen del atleta suspendido en el aire: la iconografía deportiva busca la trascendencia, pero solo el icono que apunta a la cruz es verdadero icono; el ídolo se detiene en la imagen. «El arte católico no termina en la belleza del atleta; termina en la cruz». La cruz es el icono que redime el deporte: «si el deporte es un idioma, la cruz es su puntuación final».
+**La cruz en el icono deportivo (14_art_icons.md):** Cory Heimann reflexiona sobre el logo Jumpman (el salto de Jordán) y la imagen del atleta suspendido en el aire: la iconografía deportiva busca la trascendencia, pero solo el icono que apunta a la cruz es verdadero icono; el ídolo se detiene en la imagen. «El arte católico no termina en la belleza del atleta; termina en la cruz». La cruz es el icono que redime el deporte: «si el deporte es un idioma, la cruz es su puntuación final».
 
 **El sufrimiento como cruz en la ELA (12_science.md):** La enfermedad de Lou Gehrig, leída con C.S. Lewis, muestra la cruz como «martillo» divino: el cuerpo quebrantado se configura con Cristo crucificado. El discurso de Gehrig («el hombre más afortunado») es una participación en la cruz que se vuelve alabanza. La cruz no elimina el sufrimiento, lo transfigura.
 
@@ -168,7 +168,7 @@ demás, ha adquirido nombre, es decir, rostro, personalidad en la historia» (02
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Para Giussani la cruz entra en la vida cotidiana como la dificultad que vuelve más auténtico el vínculo con Cristo: «La difficoltà entra come straniera nella normalità del quotidiano, affinché il rapporto con Cristo sia più autentico», y exige la disponibilidad a «l'obbedienza totale, fino alla croce, con la certezza della risurrezione» (TACDC, 03, 41; Eb 10,7). El discípulo es llamado a participar en su cruz: el «sì» de Pedro abre esta vía para todos los cristianos, y «il sacrificio è offrire tutta la vita a Cristo» (TACDC, 03, 327).
+Para Giussani la cruz entra en la vida cotidiana como la dificultad que vuelve más auténtico el vínculo con Cristo: «La difficoltà entra come straniera nella normalità del quotidiano, affinché il rapporto con Cristo sia più auténtico», y exige la disponibilidad a «l'obbedienza totale, fino alla croce, con la certezza della risurrezione» (TACDC, 03, 41; Eb 10,7). El discípulo es llamado a participar en su cruz: el «sì» de Pedro abre esta vía para todos los cristianos, y «il sacrificio è offrire tutta la vita a Cristo» (TACDC, 03, 327).
 
 La cruz es, además, el fundamento de la unidad: «La partecipazione alla croce di Cristo è la nostra unità, e la gioia di Dio è la nostra forza» (TACDC, 04, 13). Y no es un recuerdo lejano, sino una presencia: el sacrificio «è Gesù in croce presente, è Dio fatto uomo... perché noi potessimo avere la forza di superare tutte le difficoltà» (TACDC, 04, 151). El pueblo nuevo nace «come collaborazione allo scopo della creazione, come collaborazione a Gesù, a Gesù in croce», hasta que «la Risurrezione di Cristo, come terminale della croce, penetra... tutto ciò che si è insieme» (TACDC, 03, 331).
 
@@ -211,6 +211,6 @@ La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alia
 - [EAC-15, 19 — Cantalamessa: la cruz y el Siervo sufriente]
 - [EAC-20, 14_art_icons.md (Heimann), 12_science.md (Gehrig/Lewis), 23_soul.md (Gadberry)]
 - AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
-- AED, 16, 191-205 — Tischrede 44: *Secondo l'armonia generale* — la cruz y el fascino de lo efímero.
+- AED, 16, 191-205 — Tischrede 44: *Secondo l'armonía generale* — la cruz y el fascino de lo efímero.
 - AED, 17, 227 — Tischrede 45: *L'affermazione amorosa* — abrazar la cruz como origen de la resurrección.
 - AED, 07, 177 — Tischrede 147: *Incollamenti e strappi* — quien se desprende por Cristo guarda la cosa para la vida eterna.

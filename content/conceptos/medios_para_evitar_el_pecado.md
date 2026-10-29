@@ -5,7 +5,7 @@ description: "Conjunto de practicas espirituales, virtudes y disposiciones inter
 ---
 # Medios para evitar el pecado
 
-> Area: Ascética
+> Área: Ascética
 > Ultima actualización: 2026-06-03
 
 ## Definición
@@ -14,7 +14,7 @@ Conjunto de practicas espirituales, virtudes y disposiciones interiores que el c
 
 ## Desarrollo doctrinal
 
-La tradición ascética católica señala diversos medios para evitar el pecado: la oración constante, la vigilancia espiritual, la huida de las ocasiones próximas de pecado, la mortificación cristiana, la frecuencia de sacramentos (especialmente confesión y eucaristia), el examen de conciencia, la devoción a la Virgen Maria, la lectura espiritual y la dirección espiritual. San Juan de la Cruz y los maestros de la vida espiritual insisten en la necesidad de la vigilancia y la lucha ascética.
+La tradición ascética católica señala diversos medios para evitar el pecado: la oración constante, la vigilancia espiritual, la huida de las ocasiones próximas de pecado, la mortificación cristiana, la frecuencia de sacramentos (especialmente confesión y eucaristía), el examen de conciencia, la devoción a la Virgen María, la lectura espiritual y la dirección espiritual. San Juan de la Cruz y los maestros de la vida espiritual insisten en la necesidad de la vigilancia y la lucha ascética.
 
 ## Perspectivas por fuente
 
@@ -24,7 +24,7 @@ El Catecismo trata de la gracia actual que auxilia al cristiano para evitar el p
 
 ### Según Royo Marin (TPCr)
 
-Royo Marin dedica amplio espacio a los medios para evitar el pecado en el Libro I de la Tercera Parte (aspecto negativo de la vida cristiana). Señala la importancia de la huida de las ocasiones, la mortificación, la oración, la frecuencia de sacramentos y la invocación a Maria como medios eficaces.
+Royo Marin dedica amplio espacio a los medios para evitar el pecado en el Libro I de la Tercera Parte (aspecto negativo de la vida cristiana). Señala la importancia de la huida de las ocasiones, la mortificación, la oración, la frecuencia de sacramentos y la invocación a María como medios eficaces.
 
 ### Según el análisis de conferencias para varones (notas)
 

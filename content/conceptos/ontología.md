@@ -22,7 +22,7 @@ La **ontología** es la parte de la filosofía que estudia el ser en cuanto ser.
 
 ## Desarrollo doctrinal
 
-**La prevalencia de la ética sobre la ontología.** Giussani diagnostica, en sus escritos de los años 90 (*L'uomo e il suo destino*, pp. 63-74), la «prevalenza dell'etica sull'ontologia» en la modernidad racionalista: se sustituye la ontología por «comportamenti, preferenze», y la misma Iglesia subrayó la ética dando por presupuesta la ontología. El resultado es un cristianismo reducido a moralismo o discurso religioso, despojado de su realidad: falta la «possibilità di verifica della sua contemporaneità» (DLV 00).
+**La prevalencia de la ética sobre la ontología.** Giussani diagnostica, en sus escritos de los años 90 (*L'uomo e il suo destino*, pp. 63-74), la «prevalenza dell'ética sull'ontología» en la modernidad racionalista: se sustituye la ontología por «comportamenti, preferenze», y la misma Iglesia subrayó la ética dando por presupuesta la ontología. El resultado es un cristianismo reducido a moralismo o discurso religioso, despojado de su realidad: falta la «possibilità di verifica della sua contemporaneità» (DLV 00).
 
 **La primera respuesta es ontológica.** Frente a la pregunta por Dios, la primera respuesta que da el cristianismo es del orden del ser: «Dio è tutto», todo el ser; fuera de Dios el nada (DLV 07). El problema de Dios es, antes que ético, un problema de **conocimiento**: «L'Essere si svela in quanto opera nel nostro presente» (DLV 09). La razón no es «medida» de la realidad sino el nivel de la creación donde el ser se hace consciente de sí.
 
@@ -35,7 +35,7 @@ La **ontología** es la parte de la filosofía que estudia el ser en cuanto ser.
 ### Luigi Giussani — Dare la vita per l'opera di un Altro (DLV)
 
 - **La realtà non si fa da sé** — el principio: contingencia; Dios es el Ser; «Dio è tutto»; «o nichilismo o panteísmo» (04, 3-57)
-- **Prevalenza dell'etica sull'ontologia** — diagnóstico de la modernidad (01, 3-9; 08, 7)
+- **Prevalenza dell'ética sull'ontología** — diagnóstico de la modernidad (01, 3-9; 08, 7)
 - **Primera respuesta ontológica** — «Dio è tutto», todo el ser; fuera de Dios el nada; tomar conciencia ética de la ontología; «che peccato!» (07, 3-15)
 - **Conocimiento y ser** — «L'Essere si svela in quanto opera nel nostro presente»; la fuerza estética precede a la ética (09, 3-11)
 - **Florenskij** — la razón participa del ser; el acto de conocer es ontológico (15, 9)

@@ -20,6 +20,10 @@ El nacimiento de Jesús en Belén no es un detalle biográfico, sino el cumplimi
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+**IIIª q.35 a.7 — Nacimiento en Belén.** Cristo quiso nacer en Belén para demostrar el cumplimiento de la promesa hecha a David (que nació allí). Belén significa «casa de pan», figura de Cristo como Pan vivo bajado del cielo. Escogió una patria pobre para confundir la vanidad humana (q.35 a.7).
+
 ### Según Benedicto XVI (JdN_III)
 
 Benedicto XVI explica el nacimiento en Belén desde el contexto del decreto del emperador Augusto, que ordena el censo de todo el mundo (Lc 2,1).
@@ -33,10 +37,6 @@ Benedicto XVI explica el nacimiento en Belén desde el contexto del decreto del 
 **El pesebre y el establo.** «No tenían sitio en la posada» (Lc 2,7): el Salvador del mundo nace en la pobreza y la humildad. Benedicto XVI destaca el paralelo con Jn 1,11 («Vino a su casa y los suyos no lo recibieron») y con Mt 8,20 («las zorras tienen madrigueras y los pájaros nidos, pero el Hijo del hombre no tiene dónde reclinar la cabeza»). El pesebre —posiblemente en una gruta, como transmiten Justino y Orígenes— se convierte, por la fe, en el primer altar: el Niño es desde el principio el Inmolado, y el pesebre es el signo de que Él es el verdadero pan bajado del cielo.
 
 **La gruta y la Basílica de la Natividad.** La tradición local betlemita sitúa el nacimiento en una gruta fuera de la ciudad. En el siglo II, los romanos transformaron la gruta en lugar de culto pagano para borrar la memoria cristiana, lo que confirma su antigüedad como lugar de culto. La Basílica de la Natividad, construida sobre la gruta, es testimonio perenne de este misterio.
-
-### Según la Summa Theologiae (SmTh)
-
-**IIIª q.35 a.7 — Nacimiento en Belén.** Cristo quiso nacer en Belén para demostrar el cumplimiento de la promesa hecha a David (que nació allí). Belén significa «casa de pan», figura de Cristo como Pan vivo bajado del cielo. Escogió una patria pobre para confundir la vanidad humana (q.35 a.7).
 
 ### Según la Vida de Jesús (VJ)
 

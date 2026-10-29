@@ -23,15 +23,15 @@ Como dote del cuerpo glorioso, la claridad es una propiedad del cuerpo resucitad
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC no tiene una entrada específica sobre «claridad», pero la menciona como cualidad del conocimiento que procede de la fe y los dones del Espíritu Santo (§158).
+
 ### Según la Summa Theologiae (SmTh, Suppl.)
 
 Santo Tomás trata la claridad del cuerpo glorioso en Suppl. q.85. Los cuerpos de los santos resplandecerán con claridad después de la resurrección (q.85 a.1). Esta claridad procede de la redundancia de la gloria del alma en el cuerpo: la claridad que en el alma es espiritual se recibe en el cuerpo como corpórea. Así como un cristal deja ver el color del cuerpo que contiene, el cuerpo glorioso transparenta la gloria del alma. Los cuerpos gloriosos serán a la vez luminosos y transparentes (q.85 a.1 ad 2). La claridad no destruye el color natural del cuerpo, sino que se añade a él como perfección sobrenatural (q.85 a.1 ad 3). No todas las partes del cuerpo participarán de la claridad del mismo modo, sino según la disposición natural de cada parte (q.85 a.1 ad 4).
 
 La claridad del cuerpo glorioso será visible al ojo no glorificado (q.85 a.2), pues la luz de gloria se relaciona naturalmente con la vista; pero no dañará el ojo como lo haría un exceso de luz natural, porque actúa no por pasión de naturaleza (que calienta y destruye) sino por pasión del alma (que deleita). Sin embargo, el resplandor estará sometido a la voluntad del bienaventurado, que puede mostrarlo u ocultarlo a voluntad (q.85 a.3).
-
-### Según el Catecismo (CEC)
-
-El CEC no tiene una entrada específica sobre «claridad», pero la menciona como cualidad del conocimiento que procede de la fe y los dones del Espíritu Santo (§158).
 
 ### Según Royo Marín (TPCr)
 

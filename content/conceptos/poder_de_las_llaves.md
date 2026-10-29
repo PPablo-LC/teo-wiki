@@ -25,10 +25,6 @@ Jesús prometió a Pedro las llaves del Reino de los cielos, significando la aut
 
 Jesús confió a Pedro las llaves del Reino de los cielos (CEC §553). El poder de las llaves designa la autoridad para gobernar la casa de Dios (CEC §553). El poder de atar y desatar significa la autoridad para absolver pecados, pronunciar sentencias doctrinales y tomar decisiones disciplinares (CEC §553). Cristo confió esta autoridad a la Iglesia por el ministerio de los Apóstoles (CEC §553). El Señor hizo de Simón, al que dio el nombre de Pedro, la piedra de su Iglesia y le entregó las llaves (CEC §881). La Iglesia ha recibido las llaves del Reino para la remisión de los pecados (CEC §981; 1030).
 
-### Según Royo Marín (TPCr)
-
-El poder de las llaves es la autoridad para perdonar pecados, recibida de Cristo y ejercida por la Iglesia en el sacramento de la Penitencia. El valor satisfactorio de las obras impuestas como penitencia sacramental recibe su fuerza del poder de las llaves (TPCr, Tercera Parte, Libro II, cap. I). Los pecados mortales deben someterse a las llaves de la Iglesia (TPCr, Tercera Parte, Libro II, caps. IV-V). El obispo tiene el poder de las llaves como cabeza visible de la Iglesia particular (TPCr, Tercera Parte, Libro II, cap. I).
-
 ### Según la Summa Theologiae (SmTh) — Suplemento
 
 **Suppl. q.17 — La potestad de las llaves en general:**
@@ -70,6 +66,10 @@ a.1 — Se requieren dos potestades: orden (todos los sacerdotes la tienen igual
 a.2 — Por potestad de orden, el sacerdote puede absolver de todos los pecados. Pero los superiores pueden reservarse ciertos casos: penitencia pública, excomunión, irregularidades, incendio provocado, crímenes atroces.
 
 a.3 — Se puede usar la llave sobre el superior si este se somete voluntariamente. En el tribunal de la conciencia, el pecado iguala las distinciones; el superior puede facultar a un inferior para absolverle.
+### Según Royo Marín (TPCr)
+
+El poder de las llaves es la autoridad para perdonar pecados, recibida de Cristo y ejercida por la Iglesia en el sacramento de la Penitencia. El valor satisfactorio de las obras impuestas como penitencia sacramental recibe su fuerza del poder de las llaves (TPCr, Tercera Parte, Libro II, cap. I). Los pecados mortales deben someterse a las llaves de la Iglesia (TPCr, Tercera Parte, Libro II, caps. IV-V). El obispo tiene el poder de las llaves como cabeza visible de la Iglesia particular (TPCr, Tercera Parte, Libro II, cap. I).
+
 
 ## Distinciones importantes
 

@@ -8,7 +8,7 @@ description: "Trent Horn aborda las aparentes contradicciones de los Evangelios 
 tags: ["resumen", "apologética", "dificultades_bíblicas", "evangelios", "divinidad_de_cristo"]
 ---
 
-# The Hard Sayings of Jesus — Trent Horn
+# The Hard Sayings of Jesús — Trent Horn
 
 ## Conceptos básicos referenciados en este capítulo
 

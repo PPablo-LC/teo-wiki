@@ -26,10 +26,10 @@ En MDO, don [[luigi_giussani]] desarrolla la **maternidad ontológica /
 genética** de la madre adoptiva:
 
 - **La madre adoptiva lo es en sentido pleno**: «se un feto fatto da
-  un'altra donna tu lo raccogli… la madre sei tu, nel senso fisiologico e
-  ontologico del termine» (01, 35).
+  un'altra donna tu lo raccogli… la madre sei tu, nel senso fisiológico e
+  ontológico del termine» (01, 35).
 - **La educación es una maternidad «más fina, más genética»**: hay «una
-  maternità più fine ancora, più "genetica"»: la verdadera generación
+  maternità più fine ancora, più "genética"»: la verdadera generación
   (01, 35). La maternidad no se reduce a la generación biológica.
 - **El distacco del hijo es una sublime gratuidad**: la madre que acepta
   que el hijo siga su vocación —«la vocación la da Dios y nadie más»—

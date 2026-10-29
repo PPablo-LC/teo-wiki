@@ -34,7 +34,7 @@ anglofón. Su investigación se centra en:
   and Contemporary Understandings* (Bloomsbury T&T Clark, 2015)
   ofrece una síntesis histórica y teológica del sacramento eucarístico.
 - **Práctica litúrgica cristiana**: su obra *Washing Feet: Imitating
-  the Example of Jesus in the Liturgy Today* (Liturgical Press, 2015)
+  the Example of Jesús in the Liturgy Today* (Liturgical Press, 2015)
   recupera la práctica del lavatorio de los pies como gesto litúrgico
   de servicio, vinculada al Princ. VII de su obra posterior.
 - **Antropología del ritual**: en *The Rites and Wrongs of Liturgy*
@@ -47,7 +47,7 @@ anglofón. Su investigación se centra en:
   Grand Rapids, 2010).
 - *The Eucharist: Origins and Contemporary Understandings*
   (Bloomsbury T&T Clark, Londres, 2015).
-- *Washing Feet: Imitating the Example of Jesus in the Liturgy Today*
+- *Washing Feet: Imitating the Example of Jesús in the Liturgy Today*
   (Liturgical Press, Collegeville, 2015).
 - *The Rites and Wrongs of Liturgy: Why Good Liturgy Matters* (Veritas
   Publications, Dublín, 2017).

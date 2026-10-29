@@ -20,7 +20,7 @@ tags: ["resumen", "jesus de nazaret ii"]
 
 ## Contenido
 
-Benedicto XVI presenta finalmente la segunda parte de su obra sobre Jesús. Agradece el estímulo de grandes exegetas (Martin Hengel, Peter Stuhlmacher, Franz Mußner), que confirmaron el proyecto sin identificarse con todos sus detalles. Celebra que el libro haya ganado «un hermano ecuménico» en *Jesus* (2008) del protestante Joachim Ringleben: distintas procedencias confesionales, pero profunda unidad en la comprensión de la persona de Jesús y su mensaje.
+Benedicto XVI presenta finalmente la segunda parte de su obra sobre Jesús. Agradece el estímulo de grandes exegetas (Martín Hengel, Peter Stuhlmacher, Franz Mußner), que confirmaron el proyecto sin identificarse con todos sus detalles. Celebra que el libro haya ganado «un hermano ecuménico» en *Jesús* (2008) del protestante Joachim Ringleben: distintas procedencias confesionales, pero profunda unidad en la comprensión de la persona de Jesús y su mensaje.
 
 Sobre el método: tras doscientos años, la interpretación histórico-crítica «ha dado ya lo que tenía que dar de esencial»; si no quiere agotarse en hipótesis y hacerse teológicamente insignificante, debe reconocerse de nuevo disciplina teológica sin renunciar a su carácter histórico. La hermenéutica positivista es una forma históricamente condicionada de racionalidad, corregible; una hermenéutica de la fe bien desarrollada es conforme al texto y puede unirse a ella. Se trata de aplicar los principios de Dei Verbum 12, poco atendidos hasta ahora; cita a Marius Reiser como ejemplo.
 

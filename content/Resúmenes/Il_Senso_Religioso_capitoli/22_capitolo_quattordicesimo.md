@@ -54,7 +54,7 @@ San Pablo (Ro 1, 22-31) describe tanto la génesis del ídolo —cambiar la glor
 
 Si un ídolo totalizante se choca con otro igualmente totalizante, la guerra es inevitable. Para la Biblia, la **origen de la violencia como sistema** —la guerra— es el ídolo. La fábula de la rana de Esopo que se infla para igualar al buey hasta reventar: símbolo de la violencia bélica.
 
-# 7. Dinamiche d'identificazione dell'idolo
+# 7. Dinamiche d'identificazione dell'ídolo
 
 El ser humano elige como ídolo lo que le causa más impresión: el principio social, la raza (el nazismo: «¡Este es nuestro Cristo!», dijo un oficial alemán señalando la foto de Hitler), el proletariado (el marxismo: «Cristo» en el proletariado cuya expresión suprema es el jefe del partido). La alternativa es inexorable: o se es esclavo de otros hombres o se es sujeto dependiente de Dios. La idolatría genera violencia de las fuerzas sociales identificadas como portadoras de sentido último; la idolatría nunca produce unidad ni totalidad sin olvidar o renegar algo.
 

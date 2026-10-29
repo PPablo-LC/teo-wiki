@@ -25,6 +25,10 @@ El peregrinaje tiene también una dimensión eclesial: la Iglesia no es una fort
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+**SmTh II-II, q. 184, a. 2 — Peregrinación como continual exilio:** Santo Tomás describe al peregrino como quien está fuera de su patria. La vida terrenal es un exilio continuo del que la patria celestial es la verdadera morada. El peregrinaje terrenal es imagen del viaje espiritual hacia Dios.
+
 ### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
 
 Fr. Piotr Roszak, en "The Sacrament of Pilgrimage" (§16), desarrolla una teología completa del peregrinaje:
@@ -33,7 +37,7 @@ Fr. Piotr Roszak, en "The Sacrament of Pilgrimage" (§16), desarrolla una teolog
 
 **La antropología tomista del peregrinaje:** Roszak conecta el peregrinaje con la antropología de Santo Tomás de Aquino: «El hombre descubre lo espiritual a través de lo material.» No tenemos nada «vertido de antemano», sino que solo a través del contacto con el mundo descubrimos el contenido intelectual. «El universo es el camino a Dios, por lo que el cristianismo no es una *fuga mundi* (huida del mundo), sino el amor de la realidad material como camino a su fin espiritual.»
 
-**Cristo como diapasón:** En la Portico de Gloria de la Catedral de Santiago, Cristo Pantocrator está rodeado de los ancianos del Apocalipsis (Ap 5,8) que sostienen instrumentos musicales: «No tocan —lo vemos claramente—, sino que afinan los instrumentos.» Esto alude a la tradición patrística que ve en Cristo crucificado la cuerda sobre la que resuena la melodía de la salvación: «Cristo es como un diapasón sobre cuya base se afina la vida de la persona. Es difícil encontrar un mejor resumen de por qué estamos en peregrinaje: queremos sintonizar con Cristo.»
+**Cristo como diapasón:** En la Pórtico de Gloria de la Catedral de Santiago, Cristo Pantocrator está rodeado de los ancianos del Apocalipsis (Ap 5,8) que sostienen instrumentos musicales: «No tocan —lo vemos claramente—, sino que afinan los instrumentos.» Esto alude a la tradición patrística que ve en Cristo crucificado la cuerda sobre la que resuena la melodía de la salvación: «Cristo es como un diapasón sobre cuya base se afina la vida de la persona. Es difícil encontrar un mejor resumen de por qué estamos en peregrinaje: queremos sintonizar con Cristo.»
 
 **La apologética del camino recorrido:** Roszak retoma a Edith Stein: en el Camino se va a la eternidad con personas que no comparten nuestra fe. El cristiano puede convencer a su hermano incrédulo de que vale la pena confiar en él; da un testimonio que hace que todos se detengan al final del camino, más allá del cual no se ve la ruta. «El cristiano dirá que la muerte es parte del camino, detrás del cual hay algo más, y que aunque ahora no puedas verlo, si confías en Cristo lo descubrirás. Quizá confíen en el cristiano porque resulte que fue creíble en este camino, que se 'probó' durante su viaje conjunto.»
 
@@ -42,10 +46,6 @@ Fr. Piotr Roszak, en "The Sacrament of Pilgrimage" (§16), desarrolla una teolog
 **Descubrimiento de sí mismo:** Muchos peregrinos al terminar el Camino dicen que «la vida se puso junta como un rompecabezas que alguien había desordenado.» Algunos descubrieron la verdad sobre sí mismos, otros sobre su matrimonio, que estaba cerca de la descomposición.
 
 **Virtudes del peregrino:** Humildad, hermandad, valentía, confianza y fe. Pero la virtud peculiar del peregrino es la **longanimitas**: perseguir pacientemente el bien descubierto. «En la vida, tantas veces queremos todo de inmediato. La longanimitas encarna el valor de madurar, mantener la dirección de la vida y mantener el valor de sembrar generosamente, sabiendo que algunos frutos no llegarán hasta después.»
-
-### Según la Summa Theologiae (SmTh)
-
-**SmTh II-II, q. 184, a. 2 — Peregrinación como continual exilio:** Santo Tomás describe al peregrino como quien está fuera de su patria. La vida terrenal es un exilio continuo del que la patria celestial es la verdadera morada. El peregrinaje terrenal es imagen del viaje espiritual hacia Dios.
 
 ### Segun Juan Pablo II
 

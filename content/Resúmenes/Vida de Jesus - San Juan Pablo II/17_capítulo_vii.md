@@ -4,7 +4,7 @@ title: "Capítulo VII"
 fuente: Vida de Jesus - San Juan Pablo II
 capítulo: 17
 timestamp: 2026-08-24
-description: "Resumen de 'Capítulo VII' — Vida de Jesus - San Juan Pablo II"
+description: "Resumen de 'Capítulo VII' — Vida de Jesús - San Juan Pablo II"
 tags: ["resumen", "vida de jesus - san juan pablo ii"]
 ---
 

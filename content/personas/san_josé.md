@@ -16,6 +16,9 @@ San José de Nazaret, esposo de la Virgen María y padre legal de Jesucristo, es
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+**IIIª q.29 — Desposorios de María:** Fue conveniente que Cristo naciese de una virgen desposada: por Cristo mismo (evitar ilegitimidad, genealogía por varón, ocultar al demonio, tener custodio), por la Madre (evitar lapidación e infamia, obtener ayuda de José) y por nosotros (testigo fiel de la virginidad, honra de la virginidad y el matrimonio) (a.1). El matrimonio fue verdadero en su primera perfección (unión indivisible de almas por consentimiento mutuo), aunque no consumado carnalmente (a.2).
 ### Según Benedicto XVI (JdN_III)
 
 Benedicto XVI presenta a José como «hombre justo» (*zaddik*, Mt 1,19), imagen viva del justo veterotestamentario descrito en el Salmo 1: «Dichoso el hombre que no sigue el consejo de los impíos… sino que su gozo está en la ley del Señor» (Sal 1,1-2). José es justo porque vive la Ley desde dentro, como «evangelio», y busca el camino de la unidad entre la ley y el amor (JdN_III). El evangelista Mateo lo califica así antes de laaparición del ángel, mostrando que su actitud ante el embarazo de María no es rigidez legalista, sino amor que no quiere exponerla al deshonor.
@@ -24,15 +27,12 @@ Benedicto XVI presenta a José como «hombre justo» (*zaddik*, Mt 1,19), imagen
 
 **Hijo de David.** El ángel interpela a José como «hijo de David» (Mt 1,20), indicando el cometido que le confía: como destinatario de la promesa hecha a David, debe hacerse garante de la fidelidad de Dios. Al adoptar a Jesús y ponerle el nombre, José hace de Él un verdadero hijo de David, vinculando al Mesías con la estirpe real.
 
-**El nombre: Jesús.** El ángel ordena a José: «Tú le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados» (Mt 1,21). El nombre contiene el tetragrama divino (*YHWH*): «Dios salva». Cristo es, por tanto, el Salvador que perdona los pecados, superando las expectativas político-mesianicas de Israel.
+**El nombre: Jesús.** El ángel ordena a José: «Tú le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados» (Mt 1,21). El nombre contiene el tetragrama divino (*YHWH*): «Dios salva». Cristo es, por tanto, el Salvador que perdona los pecados, superando las expectativas político-mesiánicas de Israel.
 
 **El nazoreo y el retoño de Jesé.** Mateo explica que Jesús habita en Nazaret «para que se cumpliese lo que dijeron los profetas, que se llamará nazoreo» (Mt 2,23). Benedicto XVI acoge dos líneas interpretativas: el vínculo con Sansón (Jc 13,5-7), consagrado a Dios desde el seno materno, y sobre todo la resonancia del término hebreo *nezer* (retoño) en Isaías 11,1: «Brotará un renuevo del tronco de Jesé». Jesús es el nuevo Retoño surgido del tronco de David —y de un modo más profundo, del tronco de toda la humanidad—, totalmente consagrado a Dios desde el seno materno hasta la muerte.
 
 **Justicia y misericordia.** José es modelo de justicia que se compadece: aunque podía denunciar a María públicamente, elige el repudio privado para no exponerla a la ignominia. Vive la ley «como evangelio», no como legalidad de fachada. Su obediencia al ángel es la del justo que confía, no la del cálculo humano.
 
-### Según la Summa Theologiae (SmTh)
-
-**IIIª q.29 — Desposorios de María:** Fue conveniente que Cristo naciese de una virgen desposada: por Cristo mismo (evitar ilegitimidad, genealogía por varón, ocultar al demonio, tener custodio), por la Madre (evitar lapidación e infamia, obtener ayuda de José) y por nosotros (testigo fiel de la virginidad, honra de la virginidad y el matrimonio) (a.1). El matrimonio fue verdadero en su primera perfección (unión indivisible de almas por consentimiento mutuo), aunque no consumado carnalmente (a.2).
 
 ## Distinciones importantes
 

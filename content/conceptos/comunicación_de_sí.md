@@ -39,11 +39,11 @@ la [[experiencia]].
 
 ### El educador como persona, no función
 
-«La sorgente dell'educazione […] viene dalla mia vita, non dal mio essere
+«La sorgente dell'educazione […] viene dalla mía vita, non dal mio essere
 insegnante» (REG 17): uno es educador si comunica «me stesso». Por eso la
 educación exige la implicación de la [[personalidad]] entera y no se
 reduce a un oficio. Si falta la voluntad de comunicación, la educación
-«è una realtà politica», es decir, «politica di dominio».
+«è una realtà política», es decir, «política di dominio».
 
 ### Las coordenadas del «modo» de relación con lo real
 

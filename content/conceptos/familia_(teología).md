@@ -27,6 +27,22 @@ La Evangelii Gaudium de Francisco presenta a la familia como el sujeto privilegi
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+**CEC §1657**: «La familia es la primera escuela de vida cristiana» y «la primera escuela de las virtudes sociales».
+
+**CEC §1658**: «Las puertas de los hogares, las 'iglesias domésticas,' y de la gran familia que es la Iglesia deben estar abiertas a todos. Nadie está sin familia en este mundo: la Iglesia es hogar y familia para todos, especialmente los que laburan y están cansados.»
+
+### Según el Código de Derecho Canónico (CIC)
+
+Los fieles laicos que viven en estado matrimonial tienen el deber peculiar de edificar el Pueblo de Dios a través del matrimonio y la familia (c. 226 §1). Los padres tienen el gravísimo deber y el derecho primario de educar a los hijos en la fe (c. 226 §2). La familia cristiana es iglesia doméstica (c. 226 §1).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+**LG 11**: Del matrimonio cristiano procede la familia, «en la que nacen nuevos ciudadanos de la sociedad humana, quienes, por la gracia del Espíritu Santo, quedan constituidos en el bautismo hijos de Dios.» Esta familia es «una especie de Iglesia doméstica» en la que los padres son «los primeros predicadores de la fe».
+
+**GE 3**: La familia cristiana es «la primera escuela de las virtudes sociales»; en ella los hijos aprenden a conocer la fe y experimentan «la primera experiencia de una sana sociedad humana y de la Iglesia».
+
 ### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
 
 Haley Stewart, en "The Hope of the Domestic Church" (§11), desarrolla una teología de la familia como fuente de esperanza:
@@ -44,22 +60,6 @@ Haley Stewart, en "The Hope of the Domestic Church" (§11), desarrolla una teolo
 **Caryll Houselander:** «Sabemos por la fe que Cristo está en nuestra propia familia; es Él a quien fomentamos en nuestros hijos. Cuando le cuentas una historia a tu hijo, cuando juegas con tu pequeño hijo, cuentas una historia, juegas un juego con el Niño Jesús.»
 
 **Benedicto XVI:** «No fuimos hechos para la comodidad. Fuimos hechos para la grandeza.» La familia nos llama a algo más grande que nosotros mismos.
-
-### Según el Código de Derecho Canónico (CIC)
-
-Los fieles laicos que viven en estado matrimonial tienen el deber peculiar de edificar el Pueblo de Dios a través del matrimonio y la familia (c. 226 §1). Los padres tienen el gravísimo deber y el derecho primario de educar a los hijos en la fe (c. 226 §2). La familia cristiana es iglesia doméstica (c. 226 §1).
-
-### Según el Catecismo (CEC)
-
-**CEC §1657**: «La familia es la primera escuela de vida cristiana» y «la primera escuela de las virtudes sociales».
-
-**CEC §1658**: «Las puertas de los hogares, las 'iglesias domésticas,' y de la gran familia que es la Iglesia deben estar abiertas a todos. Nadie está sin familia en este mundo: la Iglesia es hogar y familia para todos, especialmente los que laburan y están cansados.»
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-**LG 11**: Del matrimonio cristiano procede la familia, «en la que nacen nuevos ciudadanos de la sociedad humana, quienes, por la gracia del Espíritu Santo, quedan constituidos en el bautismo hijos de Dios.» Esta familia es «una especie de Iglesia doméstica» en la que los padres son «los primeros predicadores de la fe».
-
-**GE 3**: La familia cristiana es «la primera escuela de las virtudes sociales»; en ella los hijos aprenden a conocer la fe y experimentan «la primera experiencia de una sana sociedad humana y de la Iglesia».
 
 ### Según la Familiaris Consortio (FC)
 

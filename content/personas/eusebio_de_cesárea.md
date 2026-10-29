@@ -38,7 +38,7 @@ Eusebio estableció un criterio para distinguir los escritos auténticos de los 
 - Asistió al Concilio de Nicea I (325).
 - Escribió la *Historia Eclesiástica* (10 libros).
 - Preservó fragmentos de Papías, Clemente, Ireneo y otros.
-- Citado en *The Case for Jesus* (CfJ), Sesión 2, línea [00:30:49].
+- Citado en *The Case for Jesús* (CfJ), Sesión 2, línea [00:30:49].
 
 ## Relaciones doctrinales
 
@@ -59,4 +59,4 @@ Eusebio estableció un criterio para distinguir los escritos auténticos de los 
 ## Referencias
 
 - Eusebio de Cesárea, *Historia Eclesiástica* 3.25.6-7.
-- *The Case for Jesus* (CfJ), Sesión 2, líneas [00:30:49]–[00:32:57].
+- *The Case for Jesús* (CfJ), Sesión 2, líneas [00:30:49]–[00:32:57].

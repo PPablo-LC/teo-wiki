@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "III. Epílogo"
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 3
 timestamp: 2026-09-05
 description: "Epílogo del Informe 1941-2019: ruta hacia una nueva cultura del cuidado y protección del menor, gráficos estadísticos 1941-2019 y actualización de marzo de 2021."

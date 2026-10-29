@@ -4,7 +4,7 @@ title: "CRISTOLOGÍA −3-"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 6
 timestamp: 2026-08-12
-description: "Resumen de 'CRISTOLOGÍA −3-' — Catequesis sobre Jesus SS Juan Pablo II"
+description: "Resumen de 'CRISTOLOGÍA −3-' — Catequesis sobre Jesús SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
 

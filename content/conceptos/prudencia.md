@@ -38,7 +38,7 @@ El acto de la virtud es el que individua e impera el juicio de la razón, pero n
 
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
-Bobby Angel aplica la prudencia al arte del chiste: cultivar prudencia y caridad al fijar «la línea» de la comedia — qué se dice, a quién, cuándo. Proverbio judío: «Quien puede retener un chiste es un héroe». George Bernard Shaw: «Si quieres decirle a alguien la verdad, mejor hazlo reír, o te matará»; pero el motivo debe ser «la diversión, no la maldad» (Rubin). «El timing lo es todo»: la oportunidad (kairós) es dimensión esencial del humor virtuoso.
+Bobby Ángel aplica la prudencia al arte del chiste: cultivar prudencia y caridad al fijar «la línea» de la comedia — qué se dice, a quién, cuándo. Proverbio judío: «Quien puede retener un chiste es un héroe». George Bernard Shaw: «Si quieres decirle a alguien la verdad, mejor hazlo reír, o te matará»; pero el motivo debe ser «la diversión, no la maldad» (Rubin). «El timing lo es todo»: la oportunidad (kairós) es dimensión esencial del humor virtuoso.
 
 ### Según Evangelization & Culture (EAC-19)
 

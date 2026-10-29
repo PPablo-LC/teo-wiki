@@ -7,7 +7,7 @@ description: "*¡Levantaos! ¡Vamos!* (subtitulado *Recuerdos y reflexiones sobr
 
 > Tipo: Libro autobiográfico-teológico
 > Autor: [[juan_pablo_ii]]
-> Año: 2004 (Libreria Editrice Vaticana)
+> Año: 2004 (Librería Editrice Vaticana)
 > Código: **LV**
 
 ## Identificación

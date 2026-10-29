@@ -141,7 +141,7 @@ La oración (Padrenuestro) expresa y sostiene la vida de las bienaventuranzas: l
 
 Pinckaers propone redescubrir la catequesis moral primitiva de la Iglesia (Didaché, Catequesis de los Padres apostólicos), que exponía la moral cristiana a partir del doble camino de la vida y de la muerte, de los mandamientos, del Sermón y de la caridad, uniendo fe y costumbres. Esta catequesis muestra que la moral de los primeros siglos era una catequesis de la vida cristiana en Cristo, y no un sistema abstracto de deberes.
 
-## CAPITULO VII
+## CAPÍTULO VII
 
 ## ¿ES CRISTIANA LA MORAL DE SANTO TOMÁS?
 

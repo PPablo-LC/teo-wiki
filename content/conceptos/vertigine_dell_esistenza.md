@@ -13,7 +13,7 @@ timestamp: 2026-09-15
 
 ## Definición
 
-La vertigine de la existencia (*la vertiginosa condizione umana*) es la situación existencial del hombre consciente: vivir todos los pasos de la propia existencia «dentro la prigionia di un orizzonte sul quale una grande Incognita incombe, irraggiungibile». El hombre sabe que existe el destino en el cual todo en él converge, pero no puede conocerlo ni medirlo: «È vertiginoso essere costretti ad aderire a qualcosa che non si arriva a conoscere». Es la percepción lúcida de la desproporción entre el hombre y el sentido exhaustivo de las cosas.
+La vertigine de la existencia (*la vertiginosa condizione umana*) es la situación existencial del hombre consciente: vivir todos los pasos de la propia existencia «dentro la prigionia di un orizzonte sul quale una grande Incógnita incombe, irraggiungibile». El hombre sabe que existe el destino en el cual todo en él converge, pero no puede conocerlo ni medirlo: «È vertiginoso essere costretti ad aderire a qualcosa che non si arriva a conoscere». Es la percepción lúcida de la desproporción entre el hombre y el sentido exhaustivo de las cosas.
 
 ## Desarrollo doctrinal
 
@@ -25,7 +25,7 @@ Abraham es su figura paradigmática: llamado por el Ignoto que se le había mani
 
 ### Giussani — All'origine della pretesa cristiana (ODPC)
 
-ODPC 04 (introducción, §2): la formulación completa de la condición vertiginosa; la «x» última no comprensible ni riconducible a la memoria de la razón; «la percezione dell'esistenza del mistero rappresenta il vertice della ragione»; la «precarietà assoluta» del adhiere sin entender; la cita de Cesbron; Is 55,8; Timeo 28C y 68D; Kabîr; Sófocles; Senófanes; Protágoras; Toukārām; Abraham (Gen 22,1-19) como figura paradigmática de la statura y dramática del hombre. ODPC 04 (§3): la razón empujada por impulso estructural a buscar solución (Epitteto: «Deo cantare è la mia opera») y la tentación recurrente de plegar el destino al propio querer.
+ODPC 04 (introducción, §2): la formulación completa de la condición vertiginosa; la «x» última no comprensible ni riconducible a la memoria de la razón; «la percezione dell'esistenza del mistero rappresenta il vertice della ragione»; la «precarietà assoluta» del adhiere sin entender; la cita de Cesbron; Is 55,8; Timeo 28C y 68D; Kabîr; Sófocles; Senófanes; Protágoras; Toukārām; Abraham (Gen 22,1-19) como figura paradigmática de la statura y dramática del hombre. ODPC 04 (§3): la razón empujada por impulso estructural a buscar solución (Epitteto: «Deo cantare è la mía opera») y la tentación recurrente de plegar el destino al propio querer.
 
 ## Distinciones importantes
 

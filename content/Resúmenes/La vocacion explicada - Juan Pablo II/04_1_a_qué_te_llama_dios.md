@@ -21,7 +21,7 @@ tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 
 **1. ¿A QUÉ TE LLAMA DIOS?**
 
-Juan Pablo II se dirige de corazón a los jóvenes que se hallan «en el momento decisivo de su elección», en la encrucijada de sus vidas. Les formula las preguntas decisivas: ¿Qué vas a hacer de tu vida? ¿Has pensado en entregar tu existencia totalmente a Cristo? ¿Hay algo más grande que llevar a Jesús a los hombres y a los hombres a Jesús?
+Juan Pablo II se dirige de corazón a los jóvenes que se hallan «en el momento decisivo de su elección», en la encrucijada de sus vidas. Les fórmula las preguntas decisivas: ¿Qué vas a hacer de tu vida? ¿Has pensado en entregar tu existencia totalmente a Cristo? ¿Hay algo más grande que llevar a Jesús a los hombres y a los hombres a Jesús?
 
 Les asegura que **no están solos** en esa decisión, y que no deben decidir su futuro pensando solo en sí mismos.
 

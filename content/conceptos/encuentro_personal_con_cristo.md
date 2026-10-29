@@ -66,9 +66,9 @@ El encuentro personal con Cristo es la clave de la introducción de ODPC: «Cris
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute:
-  - 12_art.md — Michael Stevens, «Art: Images of Conversion»
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute:
+  - 12_art.md — Michael Stevens, «Art: Images of Conversión»
   - 16_feature_allen.md — Andrew Allen, «The Encounter with a Person»
-  - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversion»
-  - 21_soul.md — Fr. Richard T. Whittington, «Soul: Conversion in an Age of Choice»
+  - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversión»
+  - 21_soul.md — Fr. Richard T. Whittington, «Soul: Conversión in an Age of Choice»
 - Benedicto XVI, *Deus Caritas Est* (2005), n. 1

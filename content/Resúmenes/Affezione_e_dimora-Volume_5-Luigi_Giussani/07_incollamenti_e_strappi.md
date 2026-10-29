@@ -31,7 +31,7 @@ Con una cita de Leopardi («Se un discorde accento fere l'orecchio, in nulla tor
 
 ### L'uso della positività
 
-La positividad no es superficialidad; la superficialidad está en el *uso* de la positividad. Quien reconoce que todo es positivo debe extraer las consecuencias y caminar, no detenerse en el comodo. La facilidad de percibir la bondad del real es un don para que el creyente se haga más grande, comprendiendo que también el sacrificio es favorable al cumplimiento.
+La positividad no es superficialidad; la superficialidad está en el *uso* de la positividad. Quien reconoce que todo es positivo debe extraer las consecuencias y caminar, no detenerse en el cómodo. La facilidad de percibir la bondad del real es un don para que el creyente se haga más grande, comprendiendo que también el sacrificio es favorable al cumplimiento.
 
 ### Strapparsi per raggiungere uno scopo
 

@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "The Patron Saint of Children — Elizabeth Scalia"
+title: "The Patrón Saint of Children — Elizabeth Scalia"
 fuente: Evangelization and culture - 12_capitulos
 capítulo: 5
 timestamp: 2026-09-03
@@ -8,7 +8,7 @@ description: "Testimonio personal de intercesión de San Nicolás (obispo de Myr
 tags: ["resumen", "evangelization_and_culture_12", "san_nicolás", "intercesión_de_los_santos", "autismo", "milagro", "infancia", "oración_perseverante"]
 ---
 
-# The Patron Saint of Children — Elizabeth Scalia
+# The Patrón Saint of Children — Elizabeth Scalia
 
 ## Conceptos básicos referenciados
 

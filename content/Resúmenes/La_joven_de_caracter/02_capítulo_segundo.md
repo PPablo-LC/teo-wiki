@@ -8,7 +8,7 @@ description: "Resumen del Capítulo II 'Obstáculos de la formación del caráct
 tags: ["resumen", "la_joven_de_caracter", "formación_del_carácter", "voluntad"]
 ---
 
-# CAPITULO II — OBSTACULOS DE LA FORMACION DEL CARACTER
+# CAPÍTULO II — OBSTÁCULOS DE LA FORMACIÓN DEL CARÁCTER
 
 ## Conceptos básicos referenciados
 
@@ -131,7 +131,7 @@ Amenazada París por los francos, mientras todos huían o pensaban en la muerte,
 
 No hay que perder la cabeza ante el contratiempo; las que más logran son las que cumplen su deber con alma serena y sonrisa en los labios: *Aequam, memento, rebus in arduis servare mentem* —«en los trances duros y lo mismo en la bonanza, tente siempre con ánimo sosegado». La actriz María Antonia Fernández, «la Caramba», refugiada por la lluvia en la iglesia de San Antonio del Prado en el carnaval de 1786, oyó el sermón, cayó de rodillas ante un Crucifijo gritando «¡Misericordia, Señor!», vendió cuanto poseía y dio el dinero a los pobres: Dios la esperaba en aquel día de orgía.
 
-Locura insensata la que para evitar las pruebas recurre a la muerte: mientras dura la vida siempre puede haber compensación o remedio. *Palma sub onere crescit* —«la palmera crece bajo el peso»: la mujer de recia voluntad hace de los contratiempos peldaños para subir. Julio César, al caer al desembarcar en África, gritó *Amplector te, África* —«te abrazo, África»: supo forjar un éxito del mismo percance. Dante escribió la *Divina Comedia* en el destierro, Schiller sus dramas en la enfermedad, Mozart su *Requiem* en el lecho del dolor, Fray Luis de León compuso en la cárcel la oda a Salinas. Enseña el fracaso a ser humildes: somos capaces de soportar todo menos un bienestar no interrumpido.
+Locura insensata la que para evitar las pruebas recurre a la muerte: mientras dura la vida siempre puede haber compensación o remedio. *Palma sub onere crescit* —«la palmera crece bajo el peso»: la mujer de recia voluntad hace de los contratiempos peldaños para subir. Julio César, al caer al desembarcar en África, gritó *Amplector te, África* —«te abrazo, África»: supo forjar un éxito del mismo percance. Dante escribió la *Divina Comedia* en el destierro, Schiller sus dramas en la enfermedad, Mozart su *Réquiem* en el lecho del dolor, Fray Luis de León compuso en la cárcel la oda a Salinas. Enseña el fracaso a ser humildes: somos capaces de soportar todo menos un bienestar no interrumpido.
 
 ### XV—El peligro del éxito
 
@@ -249,8 +249,8 @@ Cuerpo y alma están en íntima dependencia: si estás abatida, sonríe y canta,
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | CAPITULO II |
-| 3 | H2 | OBSTACULOS DE LA FORMACION DEL CARACTER |
+| 1 | H1 | CAPÍTULO II |
+| 3 | H2 | OBSTÁCULOS DE LA FORMACIÓN DEL CARÁCTER |
 | 7 | H2 | - I.—Obstáculos de la formación del carácter |
 | 29 | H2 | II.—Hojas en alas del viento |
 | 47 | H2 | IÍI.—La Cruz de San Jorge. |

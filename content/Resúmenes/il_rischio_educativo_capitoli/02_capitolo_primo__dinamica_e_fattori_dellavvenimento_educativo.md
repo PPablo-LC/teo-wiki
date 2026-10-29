@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Capitolo primo — DINAMICA E FATTORI DELL’AVVENIMENTO EDUCATIVO"
+title: "Capitolo primo — DINÁMICA E FATTORI DELL’AVVENIMENTO EDUCATIVO"
 fuente: il_rischio_educativo_capitoli
 capítulo: 2
 timestamp: 2026-10-15
-description: "Resumen de 'Capitolo primo — DINAMICA E FATTORI DELL’AVVENIMENTO EDUCATIVO' — il_rischio_educativo_capitoli"
+description: "Resumen de 'Capitolo primo — DINÁMICA E FATTORI DELL’AVVENIMENTO EDUCATIVO' — il_rischio_educativo_capitoli"
 tags: ["resumen", "il rischio educativo capitoli"]
 ---
 
-# Capitolo primo — DINAMICA E FATTORI DELL’AVVENIMENTO EDUCATIVO
+# Capitolo primo — DINÁMICA E FATTORI DELL’AVVENIMENTO EDUCATIVO
 
 ## Conceptos básicos referenciados en este capítulo
 

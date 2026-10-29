@@ -21,6 +21,9 @@ En la esperanza mesiánica, se esperaba que el nuevo Moisés, el Mesías, trajer
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+El CEC menciona la Fiesta de las Tiendas como marco del discurso de Jesús sobre el agua viva (CEC 728). El agua del bautismo se relaciona con el agua que brota del costado de Cristo (CEC 1225).
 ### Jesús de Nazaret I (Benedicto XVI — JdN_I)
 
 **Jesús como agua viva (Jn 7, 37-39):** El último día, el más solemne de la fiesta, Jesús en pie grita: «El que tenga sed, que venga a mí; el que cree en mí que beba» (Jn 7, 37-38). Pronuncia estas palabras casi insertándolas en el rito del agua. Es el nuevo Moisés; Él mismo es la roca que da la vida.
@@ -31,9 +34,6 @@ La tradición alejandrina (Orígenes, Jerónimo, Agustín) entiende que «de sus
 
 **Pedro como puerta y pastor (Jn 10):** En el contexto de la fiesta de las Tiendas, Jesús se presenta también como «la puerta de las ovejas» (Jn 10, 7) y como «el buen pastor» (Jn 10, 11). La imagen del pastor recoge toda la carga histórica del AT: el rey como pastor (Oriente antiguo), Dios como pastor de Israel (Sal 23), el pastor asesinado (Zc 13, 7), y se purifica llevándola a su pleno significado.
 
-### Catecismo de la Iglesia Católica (CEC)
-
-El CEC menciona la Fiesta de las Tiendas como marco del discurso de Jesús sobre el agua viva (CEC 728). El agua del bautismo se relaciona con el agua que brota del costado de Cristo (CEC 1225).
 
 ## Relaciones doctrinales
 

@@ -37,7 +37,7 @@ Celso admitía que los Evangelios habían sido escritos por los discípulos de J
 - Filósofo pagano del s. II.
 - Escribió *Contra los Cristianos* (~178 d.C.).
 - Obra refutada por Orígenes de Alejandría (~248 d.C.).
-- Citado en *The Case for Jesus* (CfJ), Sesión 2, líneas [00:23:02]–[00:24:40].
+- Citado en *The Case for Jesús* (CfJ), Sesión 2, líneas [00:23:02]–[00:24:40].
 
 ## Relaciones doctrinales
 
@@ -55,4 +55,4 @@ Celso admitía que los Evangelios habían sido escritos por los discípulos de J
 ## Referencias
 
 - Celso, *ap.* Orígenes, *Contra Celso* 2.27.
-- *The Case for Jesus* (CfJ), Sesión 2, líneas [00:23:02]–[00:24:40].
+- *The Case for Jesús* (CfJ), Sesión 2, líneas [00:23:02]–[00:24:40].

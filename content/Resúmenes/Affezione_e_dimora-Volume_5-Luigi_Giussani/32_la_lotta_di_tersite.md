@@ -30,7 +30,7 @@ Diálogo de sobremesa (Tischrede 23, 22-5-1991). Se abre admirando el cuadro *Il
 
 La diferencia entre una compañía cristiana y una compañía cualquiera: el canto dominical, «Al nostro raduno concorde un Ospite nuovo s'aggiunga». Lo que hace grande y noble la asamblea es una Presencia, «la presenza di Uno», real — no objeto de fantasía —. El hecho de estar juntos es un neso físico que hace presente a Cristo: «quello che rende presente Cristo è il nesso che stabilisce la compagnia, è il segno». Por eso la casa tiene valor: hace suceder todas esas cosas.
 
-## Il Battesimo, energia continua
+## Il Battesimo, energía continua
 
 «Le sante acque» se refieren al Bautismo, que, en cuanto constituye esta compañía, es una energía continua, un acontecimiento que dura toda la vida, y que actúa a través de la compañía vocacional. La vida en común disuelve las culpas y anula las penas: continúa el gesto del Bautismo que hizo adherir la vida de cada uno a Cristo. Si se está tres semanas fuera, viene una tristeza sin fondo. Esta compañía es «un vivente aspetto del sacramento, del Battesimo» (Gal 3, 27-28: no hay más diferencia entre vosotros, sois una sola cosa). Ser immedesimado con Cristo es immedesimarse con un hombre que es matado y, mientras lo matan, comienza a poseer desde lo profundo (*ab inferis*) las cosas; la Ascensión lo proclama y en la Pentecostés empieza a verse; cuando todos lo vean será el instante del fin del mundo.
 
@@ -44,7 +44,7 @@ El motivo por el que se está juntos — la «compagnia vocazionale» — hace d
 
 ## Il paragone di Tersite
 
-Tersite (Homero, *Iliada* II, 216-219) era «el hombre más feo que vino bajo Ilión». Parábola: Giacomo, instintivo y violento, siente repugnancia por uno «como Tersite» —cabeza puntiaguda, un hombro más grande, pequeño—; pero si al salir de la universidad veinte extraparlamentarios empiezan a dar golpes, y son cuatro contra veinte, la conciencia del objetivo — defenderse — los convierte en una sola cosa: «L'ultimo pensiero per Giacomo è la ripugnanza per Tersite: l'ha persa completamente!». La antipatía o cualquier fuente de división documenta la ausencia de un significado común, de un objetivo común. Por eso hay que aborrecerse — «sí, odiaros» — si se tiene antipatía hacia alguno; pero como no se puede tener antipatía por nadie, no se debe odiar ni a sí mismo: hay que tener piedad de sí. Tener piedad de sí hace fácil abrazar también a la persona antipática: «rimane antipatica, ma non è più antipatica».
+Tersite (Homero, *Iliada* II, 216-219) era «el hombre más feo que vino bajo Ilión». Parábola: Giacomo, instintivo y violento, siente repugnancia por uno «como Tersite» —cabeza puntiaguda, un hombro más grande, pequeño—; pero si al salir de la universidad veinte extraparlamentarios empiezan a dar golpes, y son cuatro contra veinte, la conciencia del objetivo — defenderse — los convierte en una sola cosa: «L'ultimo pensiero per Giacomo è la ripugnanza per Tersite: l'ha persa completamente!». La antipatía o cualquier fuente de división documenta la ausencia de un significado común, de un objetivo común. Por eso hay que aborrecerse — «sí, odiaros» — si se tiene antipatía hacia alguno; pero como no se puede tener antipatía por nadie, no se debe odiar ni a sí mismo: hay que tener piedad de sí. Tener piedad de sí hace fácil abrazar también a la persona antipática: «rimane antipática, ma non è più antipática».
 
 ## Aver pietà
 

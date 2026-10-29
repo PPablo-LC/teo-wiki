@@ -13,7 +13,7 @@ tags: ["resumen", "doctrina_social", "economía", "moral", "empresa", "mercado",
 ## Conceptos básicos referenciados
 
 - [[economía]] — Actividad humana orientada a la producción y distribución de bienes
-- [[moral]] — Dimension ética de la actividad económica
+- [[moral]] — Dimensión ética de la actividad económica
 - [[iniciativa_privada]] — Derecho a la libre empresa
 - [[empresa]] — Comunidad solidaria al servicio del bien común
 - [[libre_mercado]] — Instrumento eficaz pero con límites

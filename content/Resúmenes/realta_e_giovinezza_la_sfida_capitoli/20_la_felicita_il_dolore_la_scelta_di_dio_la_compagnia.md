@@ -29,7 +29,7 @@ tags: ["resumen", "felicidad", "dolor", "compañía", "gracia"]
 - [[humildad]] / [[pobreza_de_espíritu]] — el hombre como mendicante
 - [[compañía]] — dimensión estructural del yo y camino hacia el Destino
 - [[carisma]] — la modalidad con que Dios hace entender la pertenencia
-- [[caridad]] — «Se per metodo si intende virtù, la virtù è la carità»
+- [[caridad]] — «Se per método si intende virtù, la virtù è la carità»
 - [[tradición]] — la pertenencia a la tradición de la Iglesia
 - [[cuerpo_místico]] / [[bautismo]] — immedesimazione con Cristo: «membra l'uno dell'altro»
 - [[pertenencia]] — «L'allineamento non è appartenenza»
@@ -65,7 +65,7 @@ tags: ["resumen", "felicidad", "dolor", "compañía", "gracia"]
 
 - *La pertenencia:* es una dimensión estructural del yo: «eravamo niente, ci siamo… siamo di un Altro!». Comprenderlo depende de «un avvenimento provvidenziale, pietoso, amoroso» que puede ser un *carisma*: «La Grazia è proprio il dono con cui Dio fa accadere quell'avvenimento».
 - *Esforzo e misura:* son «la maturità della curiosità e del desiderio». *La affezione a la compañía:* «deriva dalla ragione della compagnia. L'affezione nasce da un giudizio di valore».
-- *El método:* «Se per metodo si intende virtù, la virtù è la carità».
+- *El método:* «Se per método si intende virtù, la virtù è la carità».
 - *La regla y la guía:* «Una compagnia guidata al Destino, proprio perché “guidata”, implica una regola». La regla es «riconoscere una guida e non stabilire un proprio possesso»; sin guía sería presuntuosa o puramente formal. Punti fondamentali: «il Magistero infallibile e i Sacramenti».
 - *La aflición a la verdad:* el que se rinde imprecando «non ricerchi le ragioni e non ami la verità che in esse è contenuta».
 - *Appartenenza y don de sí:* «È impossibile appartenere senza aver paura di perdere qualcosa. Ma proprio accettando l'appartenenza […] si riguadagna tutto dentro il dono di sé».

@@ -39,7 +39,7 @@ Se puede rezar también mientras se hace cualquier otro trabajo: «È un'intenzi
 
 ### Perché Spiritus est Deus
 
-*Veni Sancte Spiritus*, porque *Spiritus est Dominus*, *Spiritus est Deus*: el Espíritu es Dios, a quien pertenecemos. «Lo spirito è autocoscienza»; y si está bien aplicada en nosotros, hace comprender que «l'uomo capisce che appartiene, che è appartenenza a un Altro»: la [[pertenencia]] a una Presencia misteriosa (misteriosa porque en cierto sentido no es nuestra, no viene de nuestra fuente). «Vieni Santo Spirito in ogni mia azione, in ogni mio momento».
+*Veni Sancte Spiritus*, porque *Spiritus est Dominus*, *Spiritus est Deus*: el Espíritu es Dios, a quien pertenecemos. «Lo spirito è autocoscienza»; y si está bien aplicada en nosotros, hace comprender que «l'uomo capisce che appartiene, che è appartenenza a un Altro»: la [[pertenencia]] a una Presencia misteriosa (misteriosa porque en cierto sentido no es nuestra, no viene de nuestra fuente). «Vieni Santo Spirito in ogni mía azione, in ogni mio momento».
 
 ### Veni per Mariam
 

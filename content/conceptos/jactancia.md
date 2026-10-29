@@ -21,6 +21,10 @@ La jactancia procede de la vanagloria, que es un vicio capital del que derivan o
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+"La vanagloria o jactancia constituye una falta contra la verdad" (§2481). Lo mismo sucede con la ironía que ridiculiza. La Sagrada Escritura enseña que "el hombre no tiene nada de que pueda gloriarse sino que toda nuestra gloria está en Cristo" (CEC §1468, citando 2 Co 10,17).
+
 ### Según la Summa Theologiae (SmTh)
 
 La jactancia (q.112) es una **mentira por exceso**, consistente en que el hombre se ensalce a sí mismo con palabras por encima de lo que es. Pertenece a la virtud de la verdad como vicio opuesto por exceso (con la ironía como opuesto por defecto), conforme al Filósofo en IV Ethic. (q.112 a.1).
@@ -30,10 +34,6 @@ Según su causa, procede de la **soberbia** (como causa interna motivadora) o de
 En cuanto a su gravedad (q.112 a.2): considerada en sí misma como mentira, es pecado mortal cuando lo jactado va contra la gloria de Dios (como el rey de Tiro que se creía Dios) o contra el amor del prójimo (como el fariseo que despreciaba al publicano); en otros casos puede ser venial. Considerada por su causa, si procede de soberbia o vanagloria que sea pecado mortal, también lo será la jactancia; si procede de deseo de lucro con perjuicio del prójimo, también es mortal (q.112 a.2).
 
 [SmTh IIa-IIae q.112 a.1-2]
-
-### Según el Catecismo (CEC)
-
-"La vanagloria o jactancia constituye una falta contra la verdad" (§2481). Lo mismo sucede con la ironía que ridiculiza. La Sagrada Escritura enseña que "el hombre no tiene nada de que pueda gloriarse sino que toda nuestra gloria está en Cristo" (CEC §1468, citando 2 Co 10,17).
 
 ### Según Royo Marín (TPCr)
 

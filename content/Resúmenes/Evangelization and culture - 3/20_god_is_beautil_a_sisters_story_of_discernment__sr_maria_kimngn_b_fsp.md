@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "God Is Beautiful: A Sister's Story of Discernment — Sr. Maria Kim-Ngân Bùi, FSP"
+title: "God Is Beautiful: A Sister's Story of Discernment — Sr. María Kim-Ngân Bùi, FSP"
 fuente: Evangelization and culture - 3
 capítulo: 20
 timestamp: 2026-08-24
-description: "Resumen de la historia de discernimiento vocacional de la hermana Maria Kim"
+description: "Resumen de la historia de discernimiento vocacional de la hermana María Kim"
 tags: ["resumen", "evangelization_and_culture", "vocaciones", "fe"]
 ---
 
-# God Is Beautiful: A Sister's Story of Discernment — Sr. Maria Kim-Ngân Bùi, FSP
+# God Is Beautiful: A Sister's Story of Discernment — Sr. María Kim-Ngân Bùi, FSP
 
 ## Conceptos básicos referenciados
 
@@ -24,7 +24,7 @@ Blessed James Alberione, fundador de la Familia Paulina, enfermo de tuberculosis
 
 ### Infancia y llamado
 
-Maria Kim creció en una familia católica vietnamita-americana en Tempe, Arizona. Padres refugiados de guerra. Rezaban el rosario cada noche. Madre hablaba de Dios con la naturalidad con que se habla de qué almorzar. Empezó a cuestionar la existencia de Dios en secundaria.
+María Kim creció en una familia católica vietnamita-americana en Tempe, Arizona. Padres refugiados de guerra. Rezaban el rosario cada noche. Madre hablaba de Dios con la naturalidad con que se habla de qué almorzar. Empezó a cuestionar la existencia de Dios en secundaria.
 
 ### El encuentro decisivo
 

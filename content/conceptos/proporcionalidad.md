@@ -5,7 +5,7 @@ description: "Principio moral que exige que los medios empleados en una acción 
 ---
 # Proporcionalidad
 
-> Area: Moral
+> Área: Moral
 > Ultima actualización: 2026-06-03
 
 ## Definición
@@ -14,7 +14,7 @@ Principio moral que exige que los medios empleados en una acción sean proporcio
 
 ## Desarrollo doctrinal
 
-El principio de proporcionalidad es un elemento clave en la moral clásica, especialmente en la teoria del doble efecto y en la doctrina de la guerra justa. Implica que no basta que el fin sea bueno o incluso necesario; los medios empleados deben guardar proporción con el bien perseguido. En teologia moral, se aplica al uso de la fuerza, a las intervenciones medicas, a la distribución de recursos y a las decisiones pastorales. El Catecismo de la Iglesia Católica lo recoge en el contexto de la guerra justa (§2309).
+El principio de proporcionalidad es un elemento clave en la moral clásica, especialmente en la teoría del doble efecto y en la doctrina de la guerra justa. Implica que no basta que el fin sea bueno o incluso necesario; los medios empleados deben guardar proporción con el bien perseguido. En teología moral, se aplica al uso de la fuerza, a las intervenciones medicas, a la distribución de recursos y a las decisiones pastorales. El Catecismo de la Iglesia Católica lo recoge en el contexto de la guerra justa (§2309).
 
 ## Perspectivas por fuente
 
@@ -26,7 +26,7 @@ El Catecismo menciona la proporción como criterio para evaluar la licitud de la
 
 > **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-John Wissler (leading_with_charity.md) aplica el principio de proporcionalidad al decidir usar fuego de precision para evitar victimas civiles, conectando con la doctrina clásica de la [[guerra_justa]].
+John Wissler (leading_with_charity.md) aplica el principio de proporcionalidad al decidir usar fuego de precision para evitar víctimas civiles, conectando con la doctrina clásica de la [[guerra_justa]].
 
 ## Distinciones importantes
 

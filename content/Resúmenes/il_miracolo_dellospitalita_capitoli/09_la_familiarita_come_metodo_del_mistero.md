@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: La familiarità come metodo del Mistero
+title: La familiarità come método del Mistero
 fuente: MDO
 capítulo: 09
 timestamp: 2026-10-10
@@ -8,7 +8,7 @@ description: "Encuentro con el Direttivo Nacional (1996): la testimonianza como 
 tags: ["resumen", "familiaridad", "milagro", "testimonio", "fraternidad"]
 ---
 
-# La familiarità come metodo del Mistero
+# La familiarità come método del Mistero
 
 *Encuentro con el Direttivo Nacional* (28-I-1996)
 
@@ -27,13 +27,13 @@ tags: ["resumen", "familiaridad", "milagro", "testimonio", "fraternidad"]
 
 ## La acogida familiar como totalidad de abrazo
 
-- «L'accoglienza familiare [...] implica mettere in preventivo una totalità di abbraccio [...] il fenomeno etico che più imita l'iniziativa di Cristo».
+- «L'accoglienza familiare [...] implica mettere in preventivo una totalità di abbraccio [...] il fenómeno ético che più imita l'iniziativa di Cristo».
 - La Asociación ayuda «a esplicitare il perché ultimo – cioè l'obbedienza a Dio»; la comunionalidad, «non come democrazia».
 - «A settantatré anni capisco che le capisco ora»: hay «un incremento di comprensione che è segno della vita [...] "La morte è giovane"».
 
 ## La testimonianza como método
 
-- Giovanni y Andrea; «Il metodo che hanno usato per arrivare fino ai confini della terra [...] è stato la testimonianza»; Giacomo en Compostela y Tomás en la India. «La testimonianza è un comportamento umano constatabile [...] che desta uno stupore».
+- Giovanni y Andrea; «Il método che hanno usato per arrivare fino ai confini della terra [...] è stato la testimonianza»; Giacomo en Compostela y Tomás en la India. «La testimonianza è un comportamento umano constatabile [...] che desta uno stupore».
 
 ## El miracolo y la familiarità del Mistero
 
@@ -49,7 +49,7 @@ tags: ["resumen", "familiaridad", "milagro", "testimonio", "fraternidad"]
 
 - *Eb* 13,2: «siate aperti all'ospitalità [...] Ma non è che siano angeli: sono più che angeli! Sono figli di Dio».
 - «È come vedere uno che va in giro di notte più fluorescente. E la gente si rincuora»; las fraternitas «salvano il mondo, dando al mondo la certezza che c'è un Padre».
-- Eraclito: «L'armonia nascosta è più potente di quella manifesta».
+- Eraclito: «L'armonía nascosta è più potente di quella manifesta».
 - «La fraternità è un gruppo di gente che si unisce per capire, sentire e vivere queste cose. La santità è questo, perché poi tutto si pacifica». La santità «vuol dire l'amore all'essere, cioè l'amore all'uomo proprio di Dio, come diceva Dionigi l'Areopagita».
 
 ## Casos concretos

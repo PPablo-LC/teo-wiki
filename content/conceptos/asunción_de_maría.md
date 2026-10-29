@@ -52,7 +52,7 @@ Hahn trata la Asunción en el capítulo 5 y vuelve sobre ella en el capítulo 8,
 
 [HHQ, caps. 5 y 8]
 
-### Según Brant Pitre (Jesus and the Jewish Roots of Mary)
+### Según Brant Pitre (Jesús and the Jewish Roots of Mary)
 
 Pitre llega a la Asunción por la vía del Arca, y su argumento tiene tres pasos:
 
@@ -84,4 +84,4 @@ Se relaciona con [[virgen_maría]], [[inmaculada_concepción]], [[virginidad_de_
 - [Pío XII, *Munificentissimus Deus* (1950)]
 - [TPCr, Parte IV, Libro III, Cap. 3]
 - Scott Hahn, *Hail, Holy Queen* (HHQ), caps. 5 y 8
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), cap. 3
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), cap. 3

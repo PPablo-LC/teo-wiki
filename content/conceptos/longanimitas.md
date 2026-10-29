@@ -25,6 +25,15 @@ En la Escritura, la longanimidad se relaciona con la semilla que crece lentament
 
 ## Perspectivas por fuente
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La longanimidad se relaciona con la *makrothumia* griega (apaciguamiento, tolerancia), que es un fruto del Espíritu Santo (Ga 5,22). San Pablo la enumera entre las cualidades del amor (1 Co 13,4): «El amor es longánimo».
+### Según Santo Tomás de Aquino (SmTh)
+
+**SmTh II-II, q. 136, a. 1 — La paciencia como virtud:** La paciencia, concepto cercano a la longanimidad, «guarda el espíritu del hombre bajo la sujeción de la razón contra la impaciencia, que surge del deseo intenso de llegar al bien apetecido.»
+
+**SmTh II-II, q. 137, a. 1 — La longanimidad y la paciencia:** La longanimidad añade a la paciencia la dimensión de la perseverancia activa en el bien: no solo soportar sino perseverar activamente, manteniendo la dirección de la vida hacia la meta final.
+
 ### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
 
 Fr. Piotr Roszak, en "The Sacrament of Pilgrimage" (§16), describe la longanimidad como «la virtud peculiar del peregrino»:
@@ -33,15 +42,6 @@ Fr. Piotr Roszak, en "The Sacrament of Pilgrimage" (§16), describe la longanimi
 
 La longanimitas se conecta con la imagen del peregrino que avanza un paso a la vez, sin ver la meta final pero confiando en que existe y hace que cada etapa sea significativa.
 
-### Según Santo Tomás de Aquino (SmTh)
-
-**SmTh II-II, q. 136, a. 1 — La paciencia como virtud:** La paciencia, concepto cercano a la longanimidad, «guarda el espíritu del hombre bajo la sujeción de la razón contra la impaciencia, que surge del deseo intenso de llegar al bien apetecido.»
-
-**SmTh II-II, q. 137, a. 1 — La longanimidad y la paciencia:** La longanimidad añade a la paciencia la dimensión de la perseverancia activa en el bien: no solo soportar sino perseverar activamente, manteniendo la dirección de la vida hacia la meta final.
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La longanimidad se relaciona con la *makrothumia* griega (apaciguamiento, tolerancia), que es un fruto del Espíritu Santo (Ga 5,22). San Pablo la enumera entre las cualidades del amor (1 Co 13,4): «El amor es longánimo».
 
 ## Distinciones importantes
 

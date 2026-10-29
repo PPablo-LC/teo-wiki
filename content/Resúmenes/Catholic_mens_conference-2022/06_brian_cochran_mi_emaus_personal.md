@@ -51,7 +51,7 @@ Esposa (Cretien) redobla su vida de oración, adoración a las 4 AM ([[adoració
 - Renovación del matrimonio a través del sufrimiento ([[sufrimiento_cristiano]], [[matrimonio]])
 
 ## Lecciones y principios
-- Jordan Peterson: "Trátate a ti mismo como alguien por quien eres responsable"
+- Jordán Peterson: "Trátate a ti mismo como alguien por quien eres responsable"
 - La oración del [[padre_nuestro]]: "¿Cuáles son tus esperanzas y sueños para mí?" ([[voluntad_de_dios]])
 - Cristo desea una relación personal e íntima ([[conversión]])
 

@@ -4,7 +4,7 @@ title: "118. La regulación de la natalidad"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 39
 timestamp: 2026-08-01
-description: "Catequesis 118: la distinción de Humanæ vitae entre regulación natural y contraceptiva de la natalidad, la diferencia esencial de su calificación ética, y la teología del cuerpo como pedagogía evangélica del cuerpo — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 118: la distinción de Humanæ vitae entre regulación natural y contraceptiva de la natalidad, la diferencia esencial de su calificación ética, y la teología del cuerpo como pedagogía evangélica del cuerpo — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

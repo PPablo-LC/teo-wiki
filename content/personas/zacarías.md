@@ -36,6 +36,9 @@ El profeta habla también de la reconstrucción del Templo (1,16; 4,9-10; 6,13.1
 
 El CEC §120 incluye a Zacarías entre los libros proféticos del canon del Antiguo Testamento, recibidos por la Iglesia como palabra de Dios. Su mensaje forma parte de la preparación del misterio de Cristo, que la liturgia y el Nuevo Testamento leen en continuidad con las promesas de la restauración.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El Vocabulario, en la voz «Templo», recuerda que los repatriados reconstruyeron el santuario «bajo los estímulos de los profetas Ageo y Zacarías» (Esd 3-6). En la voz «Profeta» distingue al Zacarías del Nuevo Testamento, padre de Juan Bautista (Lc 1,67), de los profetas del Antiguo Testamento: es un dato útil para no confundir dos figuras distintas con el mismo nombre.
 ### Según Introducción al Antiguo Testamento (IAT)
 
 IAT (cap. 26) presenta a Zacarías como uno de los dos profetas «perfectamente conocidos» de los años 538-515 a.C., junto con Ageo. Su tarea principal, como la de su contemporáneo, es la reconstrucción del Templo; a ello añade la denuncia del pecado y la exhortación a la conversión (1,1-6). Pero su aportación más propia es el ciclo de visiones nocturnas.
@@ -48,9 +51,6 @@ IAT señala también que el ciclo fue completado con otros textos (1,17; 2,10-17
 
 KOC (cap. 15) menciona a Zacarías, junto con Ageo, entre los profetas escritores que siguieron hablando en nombre de Dios después del destierro. Los presenta en continuidad con la gran tradición profética de Israel, cuya misión era defender la [[alianza]] y llamar a la conversión.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El Vocabulario, en la voz «Templo», recuerda que los repatriados reconstruyeron el santuario «bajo los estímulos de los profetas Ageo y Zacarías» (Esd 3-6). En la voz «Profeta» distingue al Zacarías del Nuevo Testamento, padre de Juan Bautista (Lc 1,67), de los profetas del Antiguo Testamento: es un dato útil para no confundir dos figuras distintas con el mismo nombre.
 
 ## Distinciones importantes
 

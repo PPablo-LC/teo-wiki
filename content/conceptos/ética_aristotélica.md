@@ -22,6 +22,13 @@ Aristóteles desarrolla una ética de la virtud (ética nicomáquea) que se preg
 
 ## Perspectivas por fuente
 
+### Summa Theologiae (SmTh)
+
+Santo Tomás incorpora y eleva la ética aristotélica:
+
+- **I-II, q. 55, a. 4**: La virtud como hábito electivo, siguiendo a Aristóteles.
+- **I-II, q. 64, a. 3**: El término medio de la virtud se determina según la recta razón.
+- **I-II, q. 66, a. 3**: La caridad como forma de todas las virtudes, elevando la ética aristotélica.
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la ética aristotélica como:
@@ -31,13 +38,6 @@ El autor presenta la ética aristotélica como:
 - Correspondiente a la perspectiva de la primera persona (el sujeto que actúa).
 - Fundamento filosófico que la moral cristiana cumple y eleva sin destruir.
 
-### Summa Theologiae (SmTh)
-
-Santo Tomás incorpora y eleva la ética aristotélica:
-
-- **I-II, q. 55, a. 4**: La virtud como hábito electivo, siguiendo a Aristóteles.
-- **I-II, q. 64, a. 3**: El término medio de la virtud se determina según la recta razón.
-- **I-II, q. 66, a. 3**: La caridad como forma de todas las virtudes, elevando la ética aristotélica.
 
 ## Distinciones importantes
 

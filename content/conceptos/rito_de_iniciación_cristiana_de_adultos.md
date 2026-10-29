@@ -6,22 +6,22 @@ timestamp: 2026-09-05
 ---
 # Rito de iniciación cristiana de adultos
 
-> Area: Sacramental
+> Área: Sacramental
 > Ultima actualización: 2026-09-05
 
 ## Definición
 
-Conjunto de ritos y celebraciones litúrgicas mediante los cuales la Iglesia introduce a los adultos en la vida cristiana, comprendiendo las etapas del catecumenado, la celebración de los sacramentos de iniciación (Bautismo, Confirmación y Eucaristia) y la mistagogia posterior.
+Conjunto de ritos y celebraciones litúrgicas mediante los cuales la Iglesia introduce a los adultos en la vida cristiana, comprendiendo las etapas del catecumenado, la celebración de los sacramentos de iniciación (Bautismo, Confirmación y Eucaristía) y la mistagogia posterior.
 
 ## Desarrollo doctrinal
 
-El Rito de Iniciación Cristiana de Adultos (RICA) fue restaurado por el Concilio Vaticano II (Sacrosanctum Concilium 64) y promulgado en 1972. Restablece el catecumenado antiguo dividido en diversas etapas: precatecumenado (evangelización), catecumenado (formación), tiempo de purificación e iluminación (Cuaresma), celebración de los sacramentos en la Vigilia Pascual, y mistagogia (tiempo posterior). Los adultos son iniciados mediante una sola celebración de los tres sacramentos de iniciación: Bautismo, Confirmación y Eucaristia, normalmente en la Vigilia Pascual.
+El Rito de Iniciación Cristiana de Adultos (RICA) fue restaurado por el Concilio Vaticano II (Sacrosanctum Concilium 64) y promulgado en 1972. Restablece el catecumenado antiguo dividido en diversas etapas: precatecumenado (evangelización), catecumenado (formación), tiempo de purificación e iluminación (Cuaresma), celebración de los sacramentos en la Vigilia Pascual, y mistagogia (tiempo posterior). Los adultos son iniciados mediante una sola celebración de los tres sacramentos de iniciación: Bautismo, Confirmación y Eucaristía, normalmente en la Vigilia Pascual.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo explica que la iniciación cristiana de adultos comienza con la entrada en el catecumenado y culmina en una sola celebración del Bautismo, Confirmación y Eucaristia (§1232-1233). El Concilio Vaticano II restauró el catecumenado de adultos dividido en diversos grados. Menciona el Ritual de iniciación cristiana de adultos (1972) como referencia (§1232, nota 37).
+El Catecismo explica que la iniciación cristiana de adultos comienza con la entrada en el catecumenado y culmina en una sola celebración del Bautismo, Confirmación y Eucaristía (§1232-1233). El Concilio Vaticano II restauró el catecumenado de adultos dividido en diversos grados. Menciona el Ritual de iniciación cristiana de adultos (1972) como referencia (§1232, nota 37).
 
 ### Según EAC-18 — Word on Fire Institute
 

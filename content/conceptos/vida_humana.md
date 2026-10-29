@@ -29,13 +29,13 @@ La Iglesia condena toda forma de atentado contra la vida humana: el aborto direc
 
 CEC §2258-2330: La vida humana es sagrada e inviolable. §2270-2275: La vida debe ser respetada y protegida absolutamente desde el momento de la concepción. §2276-2279: La eutanasia es un atentado contra la vida.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-GS §51: «Dios, Señor de la vida, ha confiado a los hombres la insigne misión de conservar la vida, misión que ha de llevarse a cabo de modo digno del hombre.»
-
 ### Según el Compendio de Doctrina Social (CompDS)
 
 CompDS §227-228: «El derecho a la vida es el derecho fundamental de todo ser humano.»
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+GS §51: «Dios, Señor de la vida, ha confiado a los hombres la insigne misión de conservar la vida, misión que ha de llevarse a cabo de modo digno del hombre.»
 
 ### Según la Summa Theologiae (SmTh)
 

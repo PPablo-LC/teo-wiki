@@ -19,7 +19,7 @@ León XIII lo creó cardenal en 1879. Fue beatificado por Benedicto XVI en 2010 
 
 ## Obras principales
 
-- *Apologia Pro Vita Sua* (1864)
+- *Apología Pro Vita Sua* (1864)
 - *Grammar of Assent* (1870)
 - *El sueño de Geroncio* (poema, 1865), musicalizado por Edward Elgar
 - *Desarrollo de la doctrina cristiana* (1845)
@@ -96,5 +96,5 @@ Paone subraya que la herencia intelectual y cultural de la cristiandad —que su
 - [EjEsp2026, epílogo]
 - EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute (Rowland, Bradford).
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Levering, 10_minds.md; Minnis, 19_special_feature_minnis.md; Barron, 02_from_the_desk.md).
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (10_spotlight_ressourcement.md).

@@ -38,7 +38,7 @@ Liberación», la misma experiencia de abrir la casa a la necesidad (MDO, 12,
    el [[acogimiento_familiar|affido]], la [[adopción]] y la acogida de
    familias; «una familia que hace un gesto de acogida no debe sentirse
    nunca huérfana» (MDO, 12, 119). En su ficha de presentación, la
-   asociación está «impegnata a promuovere e sostenere il fenomeno
+   asociación está «impegnata a promuovere e sostenere il fenómeno
    dell'affido, dell'adozione e l'esperienza di tutte le famiglie che
    accolgono» (MDO, 00, 9-11).
 3. **Historia**: congresos nacionales (1984 con [[angelo_scola]] y Cox;

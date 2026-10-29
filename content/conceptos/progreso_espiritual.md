@@ -23,7 +23,7 @@ El progreso espiritual en San Benito tiene un sentido comunitario e histórico, 
 - **Progreso hacia la perfección**: «pero para quien corre velozmente hacia la perfección de la vida monástica están las enseñanzas de los santos Padres» (§73, §2) — el progreso exige superar el umbral de la Regla.
 - **Sagrada Escritura como norma**: Toda página y toda sentencia divina «es una guía rectísima para la vida humana» (§73, §3) — la Escritura es el instrumento del progreso continuo.
 - **Desolación como prueba de la tibieza**: El que observa la Regla con negligencia, desidia o vida mala, siente en sí mismo «rubor de confusión» (§73, §7): la conciencia del propio atraso es señal del camino por recorrer.
-- **Llegar a la patria celestial con la ayuda de Cristo**: Regla como inicio («minima inchoationis regula»), camino hacia las cumbres de doctrina y virtud (§73, §8-9).
+- **Llegar a la patria celestial con la ayuda de Cristo**: Regla como inicio («mínima inchoationis regula»), camino hacia las cumbres de doctrina y virtud (§73, §8-9).
 
 ## Ver también
 

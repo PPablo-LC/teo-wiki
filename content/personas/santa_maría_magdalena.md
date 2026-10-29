@@ -25,7 +25,7 @@ Y sin embargo la llamamos santa: la vemos al pie de la cruz con la madre de Jes�
 
 ### Según EAC-18 — Word on Fire Institute
 
-**Rozann Lee** («Lives: The Conversion of St. Mary Magdalene», 05_lives.md) desarrolla la conversión de María desde el relato de Juan 20,11-16: María, de pie llorando junto al sepulcro, no reconoce a Jesús resucitado hasta que él la llama por su nombre: «¡María!». Ella responde: «¡Rabbouní!» («Maestro»).
+**Rozann Lee** («Lives: The Conversión of St. Mary Magdalene», 05_lives.md) desarrolla la conversión de María desde el relato de Juan 20,11-16: María, de pie llorando junto al sepulcro, no reconoce a Jesús resucitado hasta que él la llama por su nombre: «¡María!». Ella responde: «¡Rabbouní!» («Maestro»).
 
 - **La conversión continúa**: su conversión continuó después de su exorcismo. El momento de la conversión encierra en sí la semilla de la misión: como dice el obispo [[robert_barron]], somos convertidos para poder ser enviados. La acción de la conversión **comienza con la oferta de gracia de Cristo, no con nuestra voluntad de encontrarlo**: él nos ama primero, nos llama primero.
 - **Lecciones para nosotros**: nunca estamos demasiado lejos para ser rescatados por Cristo; todo lo que pide es nuestro «sí» y nuestra paciencia. Como el lagarto de la lujuria en *The Great Divorce* de [[c_s_lewis]], debemos dejar que nuestra vieja vida sea quemada y cooperar con su gracia para ser hechos nuevos.
@@ -39,4 +39,4 @@ Lee concluye invocando la **intercesión** de Santa María Magdalena para que no
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Rozann Lee, 05_lives.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Rozann Lee, 05_lives.md).

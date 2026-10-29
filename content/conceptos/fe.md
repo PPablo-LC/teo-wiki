@@ -17,40 +17,16 @@ La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por l
 
 ## Perspectivas por fuente
 
-### Según Robert Barron, *Arguing Religion* (ARGREL)
-Para Barron, la fe auténtica no es fideísta (aceptar verdades sin razón), sino **suprarracional**: va más allá de la razón, pero nunca contra ella. Es ante todo **confianza** (*pistis*), análoga al modo en que conocemos el corazón de otra persona: tras investigar racionalmente, confiamos cuando alguien se revela. Fe y razón son mutuamente implicativas. La razón provee los *preambula fidei* («preámbulos de la fe») que preparan el camino, pero Dios se ha revelado personalmente (*Deus dixit*). El acto de fe es confiar en quien habla; una vez aceptado, la razón lo comprende más profundamente (*fides quaerens intellectum*). El fideísmo es un error tanto para creyentes como para no creyentes.
-
-### Según la Dives in Misericordia (DM)
-
-La fe en la misericordia divina es central en la encíclica. «Creer en el Hijo crucificado significa "ver al Padre" (Jn 14,9), significa creer que el amor está presente en el mundo y que este amor es más fuerte que toda clase de mal, en que el hombre, la humanidad, el mundo están metidos. Creer en ese amor significa creer en la misericordia» [DM §7].
-
-La revelación y la fe «nos enseñan no tanto a meditar en abstracto el misterio de Dios, como "Padre de la misericordia", cuanto a recurrir a esta misma misericordia en el nombre de Cristo y en unión con Él» [DM §2]. La fe se expresa como confianza en el amor del Padre, que es más fuerte que el pecado. La Iglesia eleva sus súplicas «guiada por la fe, la esperanza, la caridad que Cristo ha injertado en nuestros corazones» [DM §15].
-
 ### Según el Compendio (CompDS)
 
 La fe en Dios y en Jesucristo ilumina los principios morales que son «el único e insustituible fundamento de estable tranquilidad en que se apoya el orden interno y externo de la vida privada y pública, que es el único que puede engendrar y salvaguardar la prosperidad de los Estados» [CompDS §577]. La vida social se debe ajustar al designio divino: «La dimensión teológica se hace necesaria para interpretar y resolver los actuales problemas de la convivencia humana» [CompDS §577].
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La fe es la fuente de toda la vida religiosa [VocTeoBib, «Fe»]. Abraham, «padre de todos los creyentes» (Rom 4,11), es el tipo del creyente que cree en Dios contra toda esperanza (Gen 15,6). En el AT, la fe de Israel respondía al designio de la alianza, pero fue puesta a prueba por la idolatría, el formalismo y el exilio. Los profetas —especialmente Isaías— proclamaron la fe como única salvación (Is 7,4-9; 30,15). La fe se profundizó en la persecución hasta esperar la resurrección (2Mac 7; Dan 12,2s). En el NT, Jesús pide fe en su persona (Mc 1,15) y Pedro confiesa «Tú eres el Cristo» (Mt 16,16). La fe pascual en la resurrección constituye la fe de la Iglesia (Act 2,33-36). Pablo fórmula la justificación por la fe sin las obras de la ley (Rom 3,28; Gal 2,16): la salvación es gracia recibida por la fe (Rom 4,4-8), que actúa por el amor (Gal 5,6). Juan presenta la fe centrada en Jesús y su gloria divina (Jn 20,30s); el que cree posee ya la vida eterna (Jn 3,16; 6,47).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Dei Verbum* 5 enseña que la respuesta a la revelación es la «obediencia de la fe», por la que el hombre se confía libre y totalmente a Dios, prestando a Dios revelador «el homenaje del entendimiento y de la voluntad». Para profesar esta fe es necesaria la gracia de Dios y los auxilios internos del Espíritu Santo, que mueve el corazón, lo convierte a Dios, abre los ojos de la mente y da la suavidad en el aceptar y creer la verdad. El mismo Espíritu Santo perfecciona constantemente la fe por medio de sus dones (DV 5).
-
-### Según Henri de Lubac (PoF)
-
-De Lubac presenta la fe como rendición del espíritu («surrender») que no abdica de la inteligencia sino que la fertiliza: «la sumisión total del espíritu a la Revelación es una sumisión fertilizante, porque es sumisión al Misterio» [PoF, cap. 15]. La fe no nos ofrece una teoría más bella que la de los filósofos: «nos eleva sobre las teorías», «nos establece en el Ser» [PoF, cap. 2]. La «fe pura» o «fe desnuda» no debe confundirse con la repetición literal desprovista de mente: la primera alcanza las profundidades secretas del alma; la segunda es puramente exterior [PoF, cap. 2].
-
-La ortodoxia es «lo más necesario y lo menos suficiente» [PoF, cap. 15]: es necesaria porque sin ella la fe se disuelve, pero insuficiente porque la realidad de Dios desborda siempre nuestras formulaciones. La crítica de la fe debe hacerse desde dentro de la fe y en nombre de la fe; «cualquier crítica que procediera de una pretendida sobrevolación entre la incredulidad y la fe» sería falsedad [PoF, cap. 15]. La fe auténtica rechaza la hipocresía y la imitación fraudulenta, y por sí misma se purifica y se levanta de nuevo [PoF, cap. 15].
-
-### Según la Nota doctrinal «Cor ad cor loquitur» (NotaEmocionesFe)
-
-La fe implica a toda la existencia humana, pues es la entrega del hombre «entero» a Dios como respuesta obediente y libre a la revelación (Rom 1,5; 16,26) [n. 1]. Junto a los aspectos fiduciales (confianza en Dios) se dan en la fe elementos cognoscitivos (adhesión a Dios, confesión de fe) y también emociones y sentimientos (gozo espiritual, amor o paz, entre otros) [n. 1]. Dios toma la iniciativa y adelanta su gracia para que, con el auxilio interior del Espíritu Santo, el corazón del ser humano se oriente hacia Dios (n. 1; cf. DV 5).
-
-La fe no se reduce al asentimiento teórico a determinados dogmas, sino que es un acto por el que toda la persona se entrega libremente a Dios, que se nos revela y se nos entrega en Cristo (n. 24; cf. CEC §170). No se comienza a ser cristiano por una decisión ética o una gran idea, sino por el encuentro con una Persona (n. 24; cf. Deus caritas est 1). El encuentro con Cristo conlleva la aceptación de la verdad de su persona y su mensaje: no hay encuentro sin profesión de fe (n. 27).
-
-La vivencia emocional de la fe se ha de asentar en la verdad objetiva del kerigma, cuyo contenido se encuentra en la Palabra de Dios transmitida e interpretada por la Iglesia (n. 28). Esto invita a apostar por una formación integral y continua que incluya todas las dimensiones de la persona (intelectual, afectiva, relacional y espiritual) (n. 28).
-
-### Según Juan Pablo II (JPII-JovCh)
-
-Juan Pablo II llama a los jóvenes a estar «animados por la fe en el Señor a dar razón de vuestra esperanza» (cf. 1 Pe 3,15) [JPII-JovCh]. La fe es presentada no como un conjunto de doctrinas abstractas sino como experiencia viva de Cristo: «experiencia de fe, experiencia de Cristo vivo» [JPII-JovCh]. El acto de fe consiste en mirar a Cristo, descubrir en Él el Rostro mismo de Dios, apostar siempre por la gracia y por la vida [JPII-JovCh].
-
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -82,6 +58,34 @@ La fe se presupone a los preceptos de la ley, pues la primera sumisión del homb
 
 Cristo no tuvo la [[virtud_de_la_fe]] porque desde el primer instante de su concepción vio la esencia divina en [[visión_beatífica]]. El objeto de la fe es lo no visto (Heb 11,1), y Cristo, como bienaventurado, veía a Dios cara a cara. Las virtudes morales se dieron en Cristo de modo perfectísimo, pero la fe no pudo darse en Él porque incluye esencialmente el defecto de no ver lo que se cree. Sin embargo, Cristo tuvo obediencia plenísima al Padre, más excelente que el mérito de la fe, pues su mérito fue el de su propia vida y pasión. La fe es propia de los viadores; Cristo fue simultáneamente viador y bienaventurado, pero en cuanto a la parte intelectiva superior gozaba de la visión beatífica, que excluye la fe.
 
+### Según Robert Barron, *Arguing Religión* (ARGREL)
+Para Barron, la fe auténtica no es fideísta (aceptar verdades sin razón), sino **suprarracional**: va más allá de la razón, pero nunca contra ella. Es ante todo **confianza** (*pistis*), análoga al modo en que conocemos el corazón de otra persona: tras investigar racionalmente, confiamos cuando alguien se revela. Fe y razón son mutuamente implicativas. La razón provee los *preambula fidei* («preámbulos de la fe») que preparan el camino, pero Dios se ha revelado personalmente (*Deus dixit*). El acto de fe es confiar en quien habla; una vez aceptado, la razón lo comprende más profundamente (*fides quaerens intellectum*). El fideísmo es un error tanto para creyentes como para no creyentes.
+
+### Según la Dives in Misericordia (DM)
+
+La fe en la misericordia divina es central en la encíclica. «Creer en el Hijo crucificado significa "ver al Padre" (Jn 14,9), significa creer que el amor está presente en el mundo y que este amor es más fuerte que toda clase de mal, en que el hombre, la humanidad, el mundo están metidos. Creer en ese amor significa creer en la misericordia» [DM §7].
+
+La revelación y la fe «nos enseñan no tanto a meditar en abstracto el misterio de Dios, como "Padre de la misericordia", cuanto a recurrir a esta misma misericordia en el nombre de Cristo y en unión con Él» [DM §2]. La fe se expresa como confianza en el amor del Padre, que es más fuerte que el pecado. La Iglesia eleva sus súplicas «guiada por la fe, la esperanza, la caridad que Cristo ha injertado en nuestros corazones» [DM §15].
+
+### Según Henri de Lubac (PoF)
+
+De Lubac presenta la fe como rendición del espíritu («surrender») que no abdica de la inteligencia sino que la fertiliza: «la sumisión total del espíritu a la Revelación es una sumisión fertilizante, porque es sumisión al Misterio» [PoF, cap. 15]. La fe no nos ofrece una teoría más bella que la de los filósofos: «nos eleva sobre las teorías», «nos establece en el Ser» [PoF, cap. 2]. La «fe pura» o «fe desnuda» no debe confundirse con la repetición literal desprovista de mente: la primera alcanza las profundidades secretas del alma; la segunda es puramente exterior [PoF, cap. 2].
+
+La ortodoxia es «lo más necesario y lo menos suficiente» [PoF, cap. 15]: es necesaria porque sin ella la fe se disuelve, pero insuficiente porque la realidad de Dios desborda siempre nuestras formulaciones. La crítica de la fe debe hacerse desde dentro de la fe y en nombre de la fe; «cualquier crítica que procediera de una pretendida sobrevolación entre la incredulidad y la fe» sería falsedad [PoF, cap. 15]. La fe auténtica rechaza la hipocresía y la imitación fraudulenta, y por sí misma se purifica y se levanta de nuevo [PoF, cap. 15].
+
+### Según la Nota doctrinal «Cor ad cor loquitur» (NotaEmocionesFe)
+
+La fe implica a toda la existencia humana, pues es la entrega del hombre «entero» a Dios como respuesta obediente y libre a la revelación (Rom 1,5; 16,26) [n. 1]. Junto a los aspectos fiduciales (confianza en Dios) se dan en la fe elementos cognoscitivos (adhesión a Dios, confesión de fe) y también emociones y sentimientos (gozo espiritual, amor o paz, entre otros) [n. 1]. Dios toma la iniciativa y adelanta su gracia para que, con el auxilio interior del Espíritu Santo, el corazón del ser humano se oriente hacia Dios (n. 1; cf. DV 5).
+
+La fe no se reduce al asentimiento teórico a determinados dogmas, sino que es un acto por el que toda la persona se entrega libremente a Dios, que se nos revela y se nos entrega en Cristo (n. 24; cf. CEC §170). No se comienza a ser cristiano por una decisión ética o una gran idea, sino por el encuentro con una Persona (n. 24; cf. Deus caritas est 1). El encuentro con Cristo conlleva la aceptación de la verdad de su persona y su mensaje: no hay encuentro sin profesión de fe (n. 27).
+
+La vivencia emocional de la fe se ha de asentar en la verdad objetiva del kerigma, cuyo contenido se encuentra en la Palabra de Dios transmitida e interpretada por la Iglesia (n. 28). Esto invita a apostar por una formación integral y continua que incluya todas las dimensiones de la persona (intelectual, afectiva, relacional y espiritual) (n. 28).
+
+### Según Juan Pablo II (JPII-JovCh)
+
+Juan Pablo II llama a los jóvenes a estar «animados por la fe en el Señor a dar razón de vuestra esperanza» (cf. 1 Pe 3,15) [JPII-JovCh]. La fe es presentada no como un conjunto de doctrinas abstractas sino como experiencia viva de Cristo: «experiencia de fe, experiencia de Cristo vivo» [JPII-JovCh]. El acto de fe consiste en mirar a Cristo, descubrir en Él el Rostro mismo de Dios, apostar siempre por la gracia y por la vida [JPII-JovCh].
+
+
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **Concilio Vaticano I** — Constitución *Dei Filius* (1870, D‑1782–D‑1796): Definió la fe como virtud sobrenatural por la que, inspirados y ayudados por la gracia de Dios, creemos que las cosas reveladas por Dios son verdaderas, no por su intrínseca verdad percibida por la luz natural de la razón, sino por la autoridad de Dios mismo que las revela (D‑1789). La fe es «argumento de las cosas que no se ven» (Heb 11,1). Afirmó que «nunca puede haber verdadero desacuerdo entre la fe y la razón, puesto que el mismo Dios que revela los misterios e infunde la fe es el mismo que dota al alma humana de la luz de la razón» (D‑1797). Los misterios de la fe, por su naturaleza sobrenatural, no pueden ser demostrados por la razón ni comprendidos plenamente, sino que han de ser creídos por la autoridad de Dios revelante (D‑1795–D‑1796).
@@ -96,13 +100,9 @@ El **Concilio de Trento** (Sesión VI) enseñó que la fe es «el principio de l
 - [D-823-D-824]
 - [D-838]
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La fe es la fuente de toda la vida religiosa [VocTeoBib, «Fe»]. Abraham, «padre de todos los creyentes» (Rom 4,11), es el tipo del creyente que cree en Dios contra toda esperanza (Gen 15,6). En el AT, la fe de Israel respondía al designio de la alianza, pero fue puesta a prueba por la idolatría, el formalismo y el exilio. Los profetas —especialmente Isaías— proclamaron la fe como única salvación (Is 7,4-9; 30,15). La fe se profundizó en la persecución hasta esperar la resurrección (2Mac 7; Dan 12,2s). En el NT, Jesús pide fe en su persona (Mc 1,15) y Pedro confiesa «Tú eres el Cristo» (Mt 16,16). La fe pascual en la resurrección constituye la fe de la Iglesia (Act 2,33-36). Pablo formula la justificación por la fe sin las obras de la ley (Rom 3,28; Gal 2,16): la salvación es gracia recibida por la fe (Rom 4,4-8), que actúa por el amor (Gal 5,6). Juan presenta la fe centrada en Jesús y su gloria divina (Jn 20,30s); el que cree posee ya la vida eterna (Jn 3,16; 6,47).
-
 ### Según Benedicto XVI (JdN_I)
 
-**Fe vs. evidencia empírica (JdN_I, cap. 3, parábola del rico epulón y Lázaro):** La parábola del rico epulón y el pobre Lázaro introduce la cuestión de la petición de pruebas como problema fundamental de la fe. El rico, desde el Hades, pide a Abraham que mande a Lázaro «desde el más allá» para convencer a sus hermanos. La respuesta de Abraham es categórica: «Quien no crea en la palabra de la Escritura tampoco creerá a uno que venga del más allá» (Lc 16, 31). Benedicto XVI formula el principio: «Las verdades supremas no pueden someterse a la misma evidencia empírica que, por definición, es propia sólo de las cosas materiales» (JdN_I, p. 146).
+**Fe vs. evidencia empírica (JdN_I, cap. 3, parábola del rico epulón y Lázaro):** La parábola del rico epulón y el pobre Lázaro introduce la cuestión de la petición de pruebas como problema fundamental de la fe. El rico, desde el Hades, pide a Abraham que mande a Lázaro «desde el más allá» para convencer a sus hermanos. La respuesta de Abraham es categórica: «Quien no crea en la palabra de la Escritura tampoco creerá a uno que venga del más allá» (Lc 16, 31). Benedicto XVI fórmula el principio: «Las verdades supremas no pueden someterse a la misma evidencia empírica que, por definición, es propia sólo de las cosas materiales» (JdN_I, p. 146).
 
 **La resurrección como signo supremo de fe:** La parábola anticipa el misterio de Lázaro de Betania (Jn 11), cuya resurrección no conduce a la fe sino al endurecimiento del Sanedrín: el milagro no genera fe cuando el corazón está cerrado. La señal de Dios para los hombres es el Hijo del hombre mismo, «el signo de Jonás» (Mt 12, 39-40), es decir, su misterio pascual de muerte y resurrección. En la cruz se descifran las parábolas: la fe no se funda en evidencias experimentales sino en el encuentro con la persona de Cristo.
 

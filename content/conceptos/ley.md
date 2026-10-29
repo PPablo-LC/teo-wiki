@@ -23,14 +23,6 @@ La ley moral tiene en Cristo su plenitud y su unidad. Jesucristo es en persona e
 
 ## Perspectivas por fuente
 
-### Según Pinckaers (FMC)
-
-Pinckaers sitúa la ley en el marco de la evolución histórica de la moral. En la moral de los manuales (FMC cap. XI), la ley se convirtió en la fuente única de la moralidad, desplazando a las virtudes y la bienaventuranza. La ley natural fue identificada con el Decálogo y se abandonó el tratado de la Ley evangélica.
-
-Frente al nominalismo de Ockham (FMC cap. X), para quien la ley no se basa en la naturaleza humana sino en la voluntad divina arbitraria, Pinckaers recupera la concepción tomista: la ley procede de la razón práctica y se ordena a la bienaventuranza. La ley eterna, la ley natural, la ley humana y la ley divina (antigua y nueva) forman un orden armónico donde la Ley evangélica es la cima.
-
-[FMC caps. I:1, X:2, XI:2]
-
 ### Según el Catecismo (CEC)
 
 La ley moral es obra de la Sabiduría divina y puede definirse como una instrucción paternal, una pedagogía de Dios que prescribe los caminos de conducta hacia la bienaventuranza y proscribe los caminos del mal (§1950).
@@ -44,6 +36,10 @@ La ley natural expresa el sentido moral original que permite al hombre discernin
 La Ley antigua es el primer estado de la Ley revelada. Contiene muchas verdades naturalmente accesibles a la razón, pero es imperfecta porque no da la gracia para cumplirla (§1961–1963).
 
 La Ley nueva o evangélica es la perfección de la ley divina. Es la gracia del Espíritu Santo dada a los fieles mediante la fe en Cristo, que actúa por la caridad. Se expresa particularmente en el Sermón de la Montaña. Es ley de amor, ley de gracia y ley de libertad (§1965–1972).
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Ley» del VocTeoBib desarrolla la *torah* como enseñanza de Dios que reglamenta la conducta del hombre. Distingue tres etapas. La ley natural, inscrita por Dios en el corazón (Rom 2,14s), rige desde los orígenes (Gen 2,16s) y alcanza a las naciones. La Ley antigua o mosaica, dada en el Sinaí, es inseparable de la alianza y constituye una pedagogía para el pueblo elegido (Dt 4,5-8); el Decálogo es su centro (Ex 20,2-17). La Ley nueva o evangélica, inaugurada por Cristo (Jn 1,17), es la gracia del Espíritu Santo que actúa por la caridad (Rom 6,15; Gal 6,2), ley de amor y de libertad que perfecciona y cumple la Antigua.
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -63,9 +59,13 @@ Santo Tomás trata extensamente la ley en las cuestiones 90–108 de la Ia-IIae:
 
 Royo Marín sitúa la ley en el contexto del plan divino de salvación. La ley natural fue conocida por la razón humana pero oscurecida por el pecado. La Ley antigua prepara la venida de Cristo. La Ley nueva, traída por el Redentor, perfecciona y completa toda ley anterior confiriendo la gracia para cumplirla.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+### Según Pinckaers (FMC)
 
-La entrada «Ley» del VocTeoBib desarrolla la *torah* como enseñanza de Dios que reglamenta la conducta del hombre. Distingue tres etapas. La ley natural, inscrita por Dios en el corazón (Rom 2,14s), rige desde los orígenes (Gen 2,16s) y alcanza a las naciones. La Ley antigua o mosaica, dada en el Sinaí, es inseparable de la alianza y constituye una pedagogía para el pueblo elegido (Dt 4,5-8); el Decálogo es su centro (Ex 20,2-17). La Ley nueva o evangélica, inaugurada por Cristo (Jn 1,17), es la gracia del Espíritu Santo que actúa por la caridad (Rom 6,15; Gal 6,2), ley de amor y de libertad que perfecciona y cumple la Antigua.
+Pinckaers sitúa la ley en el marco de la evolución histórica de la moral. En la moral de los manuales (FMC cap. XI), la ley se convirtió en la fuente única de la moralidad, desplazando a las virtudes y la bienaventuranza. La ley natural fue identificada con el Decálogo y se abandonó el tratado de la Ley evangélica.
+
+Frente al nominalismo de Ockham (FMC cap. X), para quien la ley no se basa en la naturaleza humana sino en la voluntad divina arbitraria, Pinckaers recupera la concepción tomista: la ley procede de la razón práctica y se ordena a la bienaventuranza. La ley eterna, la ley natural, la ley humana y la ley divina (antigua y nueva) forman un orden armónico donde la Ley evangélica es la cima.
+
+[FMC caps. I:1, X:2, XI:2]
 
 ### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
 

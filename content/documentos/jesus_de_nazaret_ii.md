@@ -13,7 +13,7 @@ description: "Segundo volumen de la trilogía de Benedicto XVI: desde la entrada
 ## Ficha técnica
 
 - **Autor:** Benedicto XVI (Joseph Ratzinger)
-- **Título original:** *Jesus von Nazareth. Vom Einzug in Jerusalem bis zur Auferstehung*
+- **Título original:** *Jesús von Nazareth. Vom Einzug in Jerusalem bis zur Auferstehung*
 - **Publicación:** 2011
 - **Código en el wiki:** JdN_II
 - **Raw:** `raw/Bases_doctrinales-raw/Jesus_de_Nazaret_II/`

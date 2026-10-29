@@ -1,18 +1,18 @@
 ---
 type: Documento
-title: "Arguing Religion: A Bishop Speaks at Facebook and Google"
+title: "Arguing Religión: A Bishop Speaks at Facebook and Google"
 tags: ["apologética", "filosofía_de_la_religión", "teología_fundamental", "fe_y_razón"]
 timestamp: 2026-10-26
 description: "Obra apologética de Robert Barron sobre fe y razón, cientificismo, tolerancia, voluntarismo y argumentos para la existencia de Dios."
 ---
-# Arguing Religion: A Bishop Speaks at Facebook and Google
+# Arguing Religión: A Bishop Speaks at Facebook and Google
 
 > Área: Documentos
 > Última actualización: 2026-10-26
 
 ## Identificación
 
-- **Título**: *Arguing Religion: A Bishop Speaks at Facebook and Google*
+- **Título**: *Arguing Religión: A Bishop Speaks at Facebook and Google*
 - **Autor**: Mgs. Robert Barron
 - **Editorial**: Word on Fire Catholic Ministries, 2016
 - **Código**: ARGREL
@@ -59,6 +59,6 @@ Destaca la recuperación del tomismo para el diálogo público, la distinción e
 
 ## Referencias
 
-- Barron, Robert. *Arguing Religion: A Bishop Speaks at Facebook and Google*. Word on Fire Catholic Ministries, 2016.
+- Barron, Robert. *Arguing Religión: A Bishop Speaks at Facebook and Google*. Word on Fire Catholic Ministries, 2016.
 - Índice raw: [[raw/Bases_doctrinales-raw/Arguing_Religion_A_Bishop_Speaks_at_Facebook_and_Google_capitulos/índice]]
 

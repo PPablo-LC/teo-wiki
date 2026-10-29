@@ -11,11 +11,11 @@ timestamp: 2026-09-13
 
 ## Definición
 
-La preferencia por Cristo (*preferenza per Cristo*) es la tesis central de la vida cristiana según Giussani: hacer de la presencia de Cristo la preferencia humana, es decir, la preferencia más profunda y decisiva de la persona. No se trata de una preferencia abstracta o espiritualista, sino de una preferencia concreta, humana, que involucra toda la afectividad y todas las dimensiones de la existencia. En la Tischrede 41, Giussani la formula como programa de vida: «Dobbiamo rendere preferenza umana la presenza di Cristo» (AED, 12, 37).
+La preferencia por Cristo (*preferenza per Cristo*) es la tesis central de la vida cristiana según Giussani: hacer de la presencia de Cristo la preferencia humana, es decir, la preferencia más profunda y decisiva de la persona. No se trata de una preferencia abstracta o espiritualista, sino de una preferencia concreta, humana, que involucra toda la afectividad y todas las dimensiones de la existencia. En la Tischrede 41, Giussani la fórmula como programa de vida: «Dobbiamo rendere preferenza umana la presenza di Cristo» (AED, 12, 37).
 
 ## Desarrollo doctrinal
 
-Giussani sitúa la preferencia por Cristo en el corazón de la experiencia cristiana. La palabra «preferencia» tiene un doble uso en su pensamiento: por un lado, la preferencia humana que el creyente hace de Cristo; por otro, la preferencia divina con que Dios se inclina hacia el ser humano. Esta última es la misericordia pedagógica: «La preferenza, misericordia pedagogica» (AED, 24, 49). Dios, en su libertad soberana, elige un modo preferencial de revelarse — la Encarnación — que facilita al ser humano el camino hacia Él.
+Giussani sitúa la preferencia por Cristo en el corazón de la experiencia cristiana. La palabra «preferencia» tiene un doble uso en su pensamiento: por un lado, la preferencia humana que el creyente hace de Cristo; por otro, la preferencia divina con que Dios se inclina hacia el ser humano. Esta última es la misericordia pedagógica: «La preferenza, misericordia pedagógica» (AED, 24, 49). Dios, en su libertad soberana, elige un modo preferencial de revelarse — la Encarnación — que facilita al ser humano el camino hacia Él.
 
 La preferencia humana por Cristo no es un capricho ni un «pallino personale» (AED, 12, 43): es una decisión que involucra toda la humanidad de la persona. Giussani distingue entre «preferencia personal» y «preferencia humana»: la primera puede ser un gusto particular; la segunda implica todas las dimensiones del ser humano, incluida la «iità» — la personalidad entera. La preferencia humana es una commozione humana más fuerte y profunda que todas las demás.
 

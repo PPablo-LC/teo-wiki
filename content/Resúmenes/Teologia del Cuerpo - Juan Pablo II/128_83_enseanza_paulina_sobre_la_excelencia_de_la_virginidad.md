@@ -4,7 +4,7 @@ title: "83. Enseñanza paulina sobre la excelencia de la virginidad"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 128
 timestamp: 2026-08-01
-description: "Catequesis 83: la motivación paulina de la excelencia de la virginidad («el tiempo es corto», «pasa la apariencia de este mundo»), la preocupación por las cosas del Señor y el agradar al Señor (1 Cor 7) — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 83: la motivación paulina de la excelencia de la virginidad («el tiempo es corto», «pasa la apariencia de este mundo»), la preocupación por las cosas del Señor y el agradar al Señor (1 Cor 7) — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 
@@ -41,7 +41,7 @@ San Pablo, explicando en el capítulo VII de la primera Carta a los Corintios la
 
 ### La argumentación personal del Apóstol
 
-Las últimas palabras del texto citado demuestran que en la argumentación Pablo se refiere a su propia experiencia: no solo formula el principio y trata de motivarlo, sino que lo enlaza con reflexiones y convicciones personales nacidas de la práctica del consejo evangélico del celibato. El Apóstol escribe a sus Corintios: «Quisiera que todos los hombres fuesen como yo» (1 Cor 7, 28). Esta convicción personal la había expresado ya en las primeras palabras del capítulo VII, refiriendo, si bien para modificarla, la opinión de los Corintios: «Comenzando a tratar de lo que me habéis escrito, bueno es al hombre no tocar mujer…» (1 Cor 7, 1).
+Las últimas palabras del texto citado demuestran que en la argumentación Pablo se refiere a su propia experiencia: no solo fórmula el principio y trata de motivarlo, sino que lo enlaza con reflexiones y convicciones personales nacidas de la práctica del consejo evangélico del celibato. El Apóstol escribe a sus Corintios: «Quisiera que todos los hombres fuesen como yo» (1 Cor 7, 28). Esta convicción personal la había expresado ya en las primeras palabras del capítulo VII, refiriendo, si bien para modificarla, la opinión de los Corintios: «Comenzando a tratar de lo que me habéis escrito, bueno es al hombre no tocar mujer…» (1 Cor 7, 1).
 
 ### Las «tribulaciones de la carne»
 

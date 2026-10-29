@@ -17,7 +17,7 @@ El amor servil es la forma del afecto dominada por el temor (timor): aquel que s
 
 Giussani distingue el amor del temor mostrando que no son contrarios absolutos: el temor pertenece todavía al orden del amor, pero es su forma imperfecta. «En el temor afirmo al otro, pero lo afirmo con titubeo, porque al mismo tiempo afirmo mi miedo, el miedo de perderme a mí mismo». La diferencia está en el punto de partida: quien ama del todo parte afirmando al otro; quien ama desde el temor parte afirmando su propia inseguridad. Por eso el temor contiene amor —afirma al otro— pero no es perfecto.
 
-La consecuencia práctica es decisiva y se formula como un diagnóstico espiritual: si el temor «se detiene en su propio miedo, se vuelve escéptico». El amor que se queda en el temor, en la defensa de sí, aborta en escepticismo. La fe en Cristo y el amor a una presencia concreta —la que se ve, se toca, se experimenta— es lo que arranca el afecto del circuito del temor y lo lleva hasta el amor perfecto en el que «el que teme no ha sido perfecto en el amor» (1 Jn 4,18).
+La consecuencia práctica es decisiva y se fórmula como un diagnóstico espiritual: si el temor «se detiene en su propio miedo, se vuelve escéptico». El amor que se queda en el temor, en la defensa de sí, aborta en escepticismo. La fe en Cristo y el amor a una presencia concreta —la que se ve, se toca, se experimenta— es lo que arranca el afecto del circuito del temor y lo lleva hasta el amor perfecto en el que «el que teme no ha sido perfecto en el amor» (1 Jn 4,18).
 
 ## Perspectivas por fuente
 

@@ -43,7 +43,7 @@ En sus catequesis cristológicas, Juan Pablo II vincula la misericordia divina c
 
 ### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
 
-**La mujer sorprendida en adulterio (Jn 8).** Tríptico «Christ Sightings» de Angela Alaimo O'Donnell (ii. The Mount of Olives): «Ella no habló. Las mujeres nunca son creídas cuando lo hacen»; se plantó para ser juzgada, sin buscar misericordia de esos hombres; Él se agachó y escribió en la arena sus nombres y junto a cada uno sus pecados, cada falta diaria, cada deuda; «Uno a uno se fueron los pecadores».
+**La mujer sorprendida en adulterio (Jn 8).** Tríptico «Christ Sightings» de Ángela Alaimo O'Donnell (ii. The Mount of Olives): «Ella no habló. Las mujeres nunca son creídas cuando lo hacen»; se plantó para ser juzgada, sin buscar misericordia de esos hombres; Él se agachó y escribió en la arena sus nombres y junto a cada uno sus pecados, cada falta diaria, cada deuda; «Uno a uno se fueron los pecadores».
 
 ### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
 

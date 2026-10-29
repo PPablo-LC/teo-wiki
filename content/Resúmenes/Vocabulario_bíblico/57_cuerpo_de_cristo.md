@@ -84,4 +84,4 @@ En las epístolas de la cautividad vuelve san Pablo a la misma doctrina poniendo
 
 #### El cuerpo de Cristo y nuestros cuerpos.
 
-Nuestros cuerpos, injertados en Cristo, hechos sus miembros y templos del Espíritu Santo *1Cor 6,19*, están llamados a entrar también en este mundo nuevo: resucitarán con «Cristo, que transfigurará nuestros cuerpos de miseria para conformarlos a su cuerpo de gloria» *Flp 3,20s*. Así se consumará el papel del cuerpo de Cristo en nuestra redención. *«Ave verum corpus, natum de Maria Virgine; vere passum, immolatum in cruce pro homine; esto nobis praegustatum mortis in examine.»*
+Nuestros cuerpos, injertados en Cristo, hechos sus miembros y templos del Espíritu Santo *1Cor 6,19*, están llamados a entrar también en este mundo nuevo: resucitarán con «Cristo, que transfigurará nuestros cuerpos de miseria para conformarlos a su cuerpo de gloria» *Flp 3,20s*. Así se consumará el papel del cuerpo de Cristo en nuestra redención. *«Ave verum corpus, natum de María Virgine; vere passum, immolatum in cruce pro homine; esto nobis praegustatum mortis in examine.»*

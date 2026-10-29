@@ -46,9 +46,9 @@ Las palabras del ángel («porque nada hay imposible para Dios») evocan el anun
 
 María responde: «Aquí está la esclava del Señor; hágase en mí según tu palabra». Este lenguaje evoca el canto de Ana (1 S 1-2), madre de Samuel, quien también se llama «esclava del Señor» cinco veces en su oración. Ana consagró a su hijo al servicio del Señor; María consagra a Jesús, el verdadero rey-sacerdote.
 
-### El Magnificat y la canción de Ana
+### El Magníficat y la canción de Ana
 
-El Magnificat (Lc 1:46-55) refleja deliberadamente el cántico de Ana. Esto muestra que Jesús es el hijo más grande de la promesa, y María la mayor de todas las madres de la historia de la salvación.
+El Magníficat (Lc 1:46-55) refleja deliberadamente el cántico de Ana. Esto muestra que Jesús es el hijo más grande de la promesa, y María la mayor de todas las madres de la historia de la salvación.
 
 ### Tipología: herramienta hermenéutica
 

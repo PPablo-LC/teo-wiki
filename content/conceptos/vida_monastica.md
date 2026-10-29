@@ -36,7 +36,7 @@ La estabilidad en el monasterio es un elemento constitutivo de la vida monástic
 
 ### Según la Regla de San Benito (RSB)
 
-El Prólogo de San Benito formula la vocación monástica como llamada universal: «a ti se dirige ahora mi palabra, quienquiera que seas» (RB Pról., 3). La vida monástica comprende los siguientes elementos esenciales:
+El Prólogo de San Benito fórmula la vocación monástica como llamada universal: «a ti se dirige ahora mi palabra, quienquiera que seas» (RB Pról., 3). La vida monástica comprende los siguientes elementos esenciales:
 
 **1. La escuela del Señor.**
 La Regla se presenta como una escuela en la que se aprende el servicio de Dios: «vamos a instituir una escuela del servicio del Señor» (RB Pról., 45). En ella no se dispone nada duro ni difícil, aunque por razón de justicia pueda ser más estricto en la corrección de vicios y la conservación de la caridad (RB Pról., 46-47).

@@ -45,7 +45,7 @@ Al hablar de su propia persona, Jesús no pide solo fe en el Mesías como Enviad
 
 ### Giussani — Dare la vita per l'opera di un Altro (DLV)
 
-Giussani formula la síntesis del volumen como `fede in Dio è fede in Cristo`:
+Giussani fórmula la síntesis del volumen como `fede in Dio è fede in Cristo`:
 
 - **Fórmula sintética** — `fede in Dio è fede in Cristo`: la fe en Dios no es separable de la fe en Jesús de Nazaret; quien se encuentra con el hombre Jesús se encuentra con el Misterio (DLV 10, 3-31).
 - **Cristo, «Segno di tutti i segni»** — la fe en Cristo supera el sentido religioso: la razón no puede acceder por sí al objeto que la fe revela (Mt 13,58); en los sacramentos el signo coincide plenamente con el Misterio (DLV 09, 33-85; DLV 10, 3-31).

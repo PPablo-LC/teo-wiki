@@ -21,6 +21,10 @@ La figura de Zorobabel pertenece al momento en que Israel pasa de ser un reino a
 
 ## Perspectivas por fuente
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+En el artículo *rey*, la misión de Zorobabel «hace esperar por un instante que este "germen de David" restablezca la monarquía nacional (Zac 3,8ss; 6,9-14); pero la esperanza queda frustrada». El judaísmo postexílico, reorganizado en forma teocrática, queda sometido a la autoridad de reyes paganos que protegen liberalmente su autonomía (Esd 7,1-26). A medida que se prolonga la prueba de la nación, los ojos se vuelven hacia los «últimos tiempos» anunciados por los profetas: la espera del [[reino_de_dios]] pasa a ser el punto central de la esperanza escatológica, sin que desaparezca la espera del rey futuro, perfilado como rey justo, victorioso y pacífico (Zac 9,9s).
+
 ### Según Introducción al Antiguo Testamento (IAT)
 
 **La vuelta capitaneada por Zorobabel y Josué.** Años después del primer retorno, «no sabemos cuándo, se pone en marcha desde Babilonia un grupo mucho más numeroso, capitaneado por Zorobabel y otros». La lista de repatriados termina con el balance de «cuarenta y dos mil trescientas sesenta personas, sin contar los esclavos y esclavas» (Esd 2,64-67).
@@ -28,10 +32,6 @@ La figura de Zorobabel pertenece al momento en que Israel pasa de ser un reino a
 **El comienzo de la reconstrucción y su interrupción.** El grupo manifiesta su interés en la reconstrucción del templo con donativos (Esd 2,68-69), pero no cuenta con ayuda económica de los persas; quizá por eso tardan dos años en comenzar las obras: «A los dos años de haber llegado al templo de Jerusalén, el mes de abril, Zorobabel, hijo de Sealtiel, Josué, hijo de Yosadac, sus demás parientes sacerdotes y levitas, y todos los que habían vuelto a Jerusalén del cautiverio comenzaron la obra del templo» (Esd 3,8). Cuando terminan de echar los cimientos celebran una fiesta, pero las tareas se interrumpen por las denuncias de los adversarios de Judá y Benjamín: «Se suspendieron, pues, las obras del templo de Jerusalén y estuvieron paradas hasta el año segundo del reinado de Darío de Persia» (Esd 4,24). El texto sugiere que cundió el desánimo y que muchos se limitaron a cuidar de sus casas y campos, olvidando el templo y las ilusiones de independencia.
 
 **La reanudación y el final (520-515 a.C.).** El segundo año de Darío (520 a.C.), «el profeta Ageo y el profeta Zacarías, hijo de Idó, comenzaron a profetizar a los judíos de Judá y Jerusalén… Zorobabel, hijo de Sealtiel, y Josué, hijo de Yosadac, se pusieron a reconstruir el templo de Jerusalén, acompañados y alentados por los profetas de Dios» (Esd 5,1). A pesar de la oposición, Darío permite continuar las obras, que se terminan cinco años más tarde: «El templo se terminó el día tres del mes de marzo, el año sexto del reinado de Darío» (Esd 6,15).
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-En el artículo *rey*, la misión de Zorobabel «hace esperar por un instante que este "germen de David" restablezca la monarquía nacional (Zac 3,8ss; 6,9-14); pero la esperanza queda frustrada». El judaísmo postexílico, reorganizado en forma teocrática, queda sometido a la autoridad de reyes paganos que protegen liberalmente su autonomía (Esd 7,1-26). A medida que se prolonga la prueba de la nación, los ojos se vuelven hacia los «últimos tiempos» anunciados por los profetas: la espera del [[reino_de_dios]] pasa a ser el punto central de la esperanza escatológica, sin que desaparezca la espera del rey futuro, perfilado como rey justo, victorioso y pacífico (Zac 9,9s).
 
 ### Según la profecía de Ageo y Zacarías
 

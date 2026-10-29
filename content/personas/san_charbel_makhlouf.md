@@ -48,4 +48,4 @@ Capítulo 04 (San Charbel Makhlouf — «Non vendere l'anima al mercato del mond
 ## Referencias
 
 - A. M. Sicari, *Il Volto dei Santi*, vol. III, cap. 4: «San Charbel Makhlouf» (Edizioni OCD, Roma 2025).
-- Pablo VI, *Angelus* de la canonización (9-X-1977), en *Insegnamenti di Paolo VI* XV (1977), p. 934.
+- Pablo VI, *Ángelus* de la canonización (9-X-1977), en *Insegnamenti di Paolo VI* XV (1977), p. 934.

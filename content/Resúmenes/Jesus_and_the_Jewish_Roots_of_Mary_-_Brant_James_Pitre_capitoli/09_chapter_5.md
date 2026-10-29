@@ -36,4 +36,4 @@ La explicación más coherente es que María haya asumido un voto de virginidad,
 
 ## Referencias
 
-- Brant Pitre, *Jesus and the Jewish Roots of Mary* (JRM), `09_chapter_5`
+- Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), `09_chapter_5`

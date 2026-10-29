@@ -19,7 +19,7 @@ Juan Pablo II lo llamó «fundador *ante litteram* de la "Caritas" en el rione M
 
 ## Relevancia teológica
 
-Su «Cantico di Frate Carità» sintetiza su doctrina: «Chi cerca Iddio deve andarlo a trovare tra i poveri»; «Chi strapazza i poveri, strapazza Dio». Es un caso emblemático de la síntesis entre [[contemplación]] carmelitana y caridad activa: gustaba repetir que «el carmelitano goza del descanso de san Juan, el que se goza sobre el pecho de Jesús, mediante la oración», sin que eso le dispensara jamás del servicio al pobre. Su figura ilustra el primado de la contemplación corregido «desde dentro» por la caridad: «*in actione contemplativus*».
+Su «Cántico di Frate Carità» sintetiza su doctrina: «Chi cerca Iddio deve andarlo a trovare tra i poveri»; «Chi strapazza i poveri, strapazza Dio». Es un caso emblemático de la síntesis entre [[contemplación]] carmelitana y caridad activa: gustaba repetir que «el carmelitano goza del descanso de san Juan, el que se goza sobre el pecho de Jesús, mediante la oración», sin que eso le dispensara jamás del servicio al pobre. Su figura ilustra el primado de la contemplación corregido «desde dentro» por la caridad: «*in actione contemplativus*».
 
 Sicari subraya en él una precisión teológica importante sobre la fórmula clásica «ver a Cristo en los pobres»: los santos no sólo ven a Cristo en los pobres, sino que **ven a los pobres en Cristo**, es decir, no separan nunca el amor de Dios y el amor al próximo, descubriendo primero en sí mismos y en todo hombre la [[dignidad_humana]] divina, que en los rostros crucificados de los pobres «más clama y mejor resplandece».
 
@@ -32,7 +32,7 @@ Su genialidad organizativa anticipó formas modernas de [[caridad]] instituciona
 Capítulo 01 (Beato Angelo Paoli — «Padre dei poveri e apostolo di Roma»):
 
 - **«Chi cerca Iddio deve andarlo a trovare tra i poveri»**: el hallazgo de Dios pasa por el pobre; el servicio al enfermo tiene prioridad incluso sobre visitantes ilustres —quien lo buscaba, aunque fuera un dignatario o una princesa, debía esperar su turno—.
-- **«Cantico di Frate Carità»**: «Bisogna amare Dio con tutto il cuore... ed amare il nostro prossimo, particolarmente i poverelli»; «Iddio quanto ha patito per noi... E noi non vogliamo patire un piccolo incomodo... per servizio di Dio nella persona dei poverelli?».
+- **«Cántico di Frate Carità»**: «Bisogna amare Dio con tutto il cuore... ed amare il nostro prossimo, particolarmente i poverelli»; «Iddio quanto ha patito per noi... E noi non vogliamo patire un piccolo incomodo... per servizio di Dio nella persona dei poverelli?».
 - **Ver a los pobres en Cristo**: precisión teológica de Sicari sobre el lenguaje «vedere Cristo nei poveri»: los santos no toman la persona de Cristo como pretexto para amar a los pobres, ni caen en el visionarismo; aman a los pobres *en* Cristo porque han contemplado la «prossimità di Dio» dada en la Encarnación.
 - **El Convalescenziario**: «un povero frate che ha fiducia in Dio è più ricco di un banchiere»; en la puerta del hospicio abrazaba a los nuevos acogidos: «venite fratelli, questa è casa vostra; di qui non farete partenza, se non quando perfettamente sarete guariti».
 - **La multiplicación providencial**: 54 panes y una olla de sopa para 284 pobres; respondía que Dios le daba libre acceso «al forno della provvidenza»; los pobres decían que distribuía «quello che aveva e quello che non aveva».

@@ -43,7 +43,7 @@ Más de 200 libros de casi 150 autores posteriores a 1850 que Tolkien leyó, men
 
 ### Investigación y legado
 
-Diez años de mosaicos pacientes: diarios inéditos de Warren Lewis en el Wade Center, una entrevista de 1960 a Tolkien en una revista de ciencia ficción hallada en la Bodleian, registros de préstamos en Merton College y la Oxford Union; momento conmovedor examinando cartas originales en el British Library un 3 de enero, cumpleaños de Tolkien. Esperanzas: abrir el estudio de su lectura pre-1850 (Austen, Swift) y devolvernos la imagen de una imaginación creadora más compleja y matizada — cuyo compromiso real con la cultura moderna hace su crítica de la modernidad más significativa, y su genio, más admirable.
+Diez años de mosaicos pacientes: diarios inéditos de Warren Lewis en el Wade Center, una entrevista de 1960 a Tolkien en una revista de ciencia ficción hallada en la Bodleian, registros de préstamos en Merton College y la Oxford Unión; momento conmovedor examinando cartas originales en el British Library un 3 de enero, cumpleaños de Tolkien. Esperanzas: abrir el estudio de su lectura pre-1850 (Austen, Swift) y devolvernos la imagen de una imaginación creadora más compleja y matizada — cuyo compromiso real con la cultura moderna hace su crítica de la modernidad más significativa, y su genio, más admirable.
 
 ## Mapa del archivo fuente
 

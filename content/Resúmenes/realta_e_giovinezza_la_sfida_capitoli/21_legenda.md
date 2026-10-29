@@ -32,7 +32,7 @@ tags: ["resumen", "comunione_e_liberazione", "caridad", "luigi_giussani", "espir
 
 ## Comunione e Liberazione – Gioventù Studentesca
 
-- «Comunione e Liberazione (CL) è un movimento ecclesiale il cui scopo è l'educazione cristiana matura dei propri aderenti e la collaborazione alla missione della Chiesa nella società contemporanea. È presente in Italia e in circa novanta Paesi».
+- «Comunione e Liberazione (CL) è un movimento ecclesiale il cui scopo è l'educazione cristiana matura dei propri aderenti e la collaborazione alla missione della Chiesa nella società contemporánea. È presente in Italia e in circa novanta Paesi».
 - Nació en Italia en **1954**, cuando mons. **Luigi Giussani** dio vida a una iniciativa de presencia cristiana llamada **Gioventù Studentesca (GS)**, a partir del liceo clásico Berchet de Milán.
 - La denominación actual aparece por primera vez en **1969**, «per sintetizzare la convinzione che l'avvenimento cristiano vissuto nella *comunione* è il fondamento della vera *liberazione*».
 

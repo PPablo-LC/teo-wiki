@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: "Ada Negri"
-description: "Poetisa y escritora italiana (1870-1945). Sus versos «Tempo» y «Mia giovinezza» son citados por Giussani para la medida de la eternidad y el amor puro."
+description: "Poetisa y escritora italiana (1870-1945). Sus versos «Tempo» y «Mía giovinezza» son citados por Giussani para la medida de la eternidad y el amor puro."
 tags:
   - literatura
   - poesía
@@ -25,7 +25,7 @@ entre la nada y la eternidad y la naturaleza del amor puro.
 ## Contexto histórico
 
 De origen humilde, Negri alcanzó gran popularidad por su poesía social y
-confesional. La colección *Mia giovinezza* (BUR, Milano, 2010) recoge los
+confesional. La colección *Mía giovinezza* (BUR, Milano, 2010) recoge los
 poemas que cita Giussani.
 
 ## Relevancia para la teología católica
@@ -37,7 +37,7 @@ Giussani cita dos poemas:
   (01, 13; 02, 67). Los versos fijan la tesis de que el [[tiempo]] está
   grávido de [[eternidad]]: quitar el sentido de la eternidad equivale a
   vivir hacia la nada.
-- **«Mia giovinezza»**: «Ami, e non pensi essere amata: ad ogni / fiore che
+- **«Mía giovinezza»**: «Ami, e non pensi essere amata: ad ogni / fiore che
   sboccia o frutto che rosseggia / o pargolo che nasce, al Dio dei campi / e
   delle stirpi rendi grazie in cuore». Giussani ve en estos versos —escritos
   por la autora a los setenta años— «assolutamente un messaggio puro come il
@@ -58,6 +58,6 @@ Giussani cita dos poemas:
   `01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md` (línea 13),
   `02_il_tempo_si_fa_breve_1994.md` (línea 67) y
   `04_alla_ricerca_del_volto_umano_1996.md` (línea 63).
-- **Obra citada**: A. Negri, *Mia giovinezza*, BUR, Milano, 2010, pp. 75, 78.
+- **Obra citada**: A. Negri, *Mía giovinezza*, BUR, Milano, 2010, pp. 75, 78.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

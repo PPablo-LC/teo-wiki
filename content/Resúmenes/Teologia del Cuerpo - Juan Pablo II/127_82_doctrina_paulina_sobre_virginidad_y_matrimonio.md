@@ -4,7 +4,7 @@ title: "82. Doctrina paulina sobre virginidad y matrimonio"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 127
 timestamp: 2026-08-01
-description: "Catequesis 82: la interpretación paulina (1 Cor 7) del enunciado de Cristo sobre la continencia por el reino, el tono magisterial y pastoral, y el «consejo» que distingue entre casarse «bien» y elegir la virginidad «mejor» — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 82: la interpretación paulina (1 Cor 7) del enunciado de Cristo sobre la continencia por el reino, el tono magisterial y pastoral, y el «consejo» que distingue entre casarse «bien» y elegir la virginidad «mejor» — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

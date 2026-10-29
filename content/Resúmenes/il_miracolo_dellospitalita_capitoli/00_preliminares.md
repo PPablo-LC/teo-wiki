@@ -25,8 +25,8 @@ tags: ["resumen", "hospitalidad", "familia", "comunione_e_liberazione"]
 ## Portada y presentación
 
 - **Datos editoriales**: LUIGI GIUSSANI, *Il miracolo dell'ospitalità. Conversazioni con le Famiglie per l'Accoglienza*, Edizioni Piemme, Milano 2003.
-- **Cita de Benedicto XVI** (Lettera para el VII Incontro Mondiale delle Famiglie, Milano 2012): la familia debe ser «unita e aperta alla vita, ben inserita nella società e nella Chiesa, attenta alla qualità delle relazioni oltre che all'economia dello stesso nucleo familiare».
-- La asociación **Famiglie per l'Accoglienza**, realitat difundida por toda Italia, sostiene «l'affido, dell'adozione e l'esperienza di tutte le famiglie che accolgono». «La parola ospitalità – di cui affido e adozione sono sinonimo – traccia [...] l'identikit di una famiglia che [...] si rende aperta alla vita, riconoscendone la sacralità e irriducibilità ultima alla pura misura dell'uomo». De esta realidad de familia «occorre ripartire oggi per affrontare in maniera efficace e pienamente umana la crisi – economica, ma ancor prima morale».
+- **Cita de Benedicto XVI** (Lettera para el VII Incontro Mondiale delle Famiglie, Milano 2012): la familia debe ser «unita e aperta alla vita, ben inserita nella società e nella Chiesa, attenta alla qualità delle relazioni oltre che all'economía dello stesso núcleo familiare».
+- La asociación **Famiglie per l'Accoglienza**, realitat difundida por toda Italia, sostiene «l'affido, dell'adozione e l'esperienza di tutte le famiglie che accolgono». «La parola ospitalità – di cui affido e adozione sono sinónimo – traccia [...] l'identikit di una famiglia che [...] si rende aperta alla vita, riconoscendone la sacralità e irriducibilità ultima alla pura misura dell'uomo». De esta realidad de familia «occorre ripartire oggi per affrontare in maniera efficace e pienamente umana la crisi – economica, ma ancor prima morale».
 
 ## Luigi Giussani (perfil biográfico)
 

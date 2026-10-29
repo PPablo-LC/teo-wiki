@@ -45,7 +45,7 @@ Fr. Blake Britton concluye que la mejor respuesta a la cultura de los videojuego
 
 ## Según la Evangelization & Culture, Issue 12 (EAC-12)
 
-El artículo «God and Gaming» de EAC-12 [09] presenta el ministerio homónimo del Word on Fire Institute como un esfuerzo de **evangelización de la cultura gamer**. Fr. Blake Britton (ya presente en EAC-3), Bobby Angel y Jason y Rachel Bulman dialogan con gamers y analizan videojuegos desde una perspectiva católica. La premisa es que toda gran historia y toda gran aventura apunta en última instancia a la historia de Cristo.
+El artículo «God and Gaming» de EAC-12 [09] presenta el ministerio homónimo del Word on Fire Institute como un esfuerzo de **evangelización de la cultura gamer**. Fr. Blake Britton (ya presente en EAC-3), Bobby Ángel y Jason y Rachel Bulman dialogan con gamers y analizan videojuegos desde una perspectiva católica. La premisa es que toda gran historia y toda gran aventura apunta en última instancia a la historia de Cristo.
 
 En el mismo número, el testimonio del **Beato Carlo Acutis** — adolescente de la era digital, usuario de videojuegos e informática, con una intensa vida eucarística— es presentado como modelo de santidad dentro de la cultura gamer: no se trata de renunciar a la cultura contemporánea, sino de santificarla desde dentro [EAC-12, 09, 20]. El testimonio personal de un joven santo alcanza donde la predicación tradicional no llega.
 
@@ -60,5 +60,5 @@ EAC-3, 11_science_video_games.md (Fr. Blake Britton); EAC-12, 09_spotlight_gamin
 ## Referencias
 
 - EAC-3, 11_science_video_games.md (Fr. Blake Britton)
-- EAC-12, 09_spotlight_gaming.md (Fr. Blake Britton, Bobby Angel, Jason & Rachel Bulman)
+- EAC-12, 09_spotlight_gaming.md (Fr. Blake Britton, Bobby Ángel, Jason & Rachel Bulman)
 - EAC-12, 20_spotlight_wof.md (testimonios, Beato Carlo Acutis)

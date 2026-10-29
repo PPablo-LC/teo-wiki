@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Stacks: The Spirit of Religion and the Spirit of Liberty: Remembering Tocqueville's Democracy in America — Paul Krause"
+title: "Stacks: The Spirit of Religión and the Spirit of Liberty: Remembering Tocqueville's Democracy in América — Paul Krause"
 fuente: Evangelization and culture - 21
 chapter: 7
 timestamp: 2026-09-09
-description: "Resumen de 'Stacks: The Spirit of Religion and the Spirit of Liberty: Remembering Tocqueville's Democracy in America — Paul Krause' — Evangelization and culture - 21"
+description: "Resumen de 'Stacks: The Spirit of Religión and the Spirit of Liberty: Remembering Tocqueville's Democracy in América — Paul Krause' — Evangelization and culture - 21"
 tags: ["resumen", "evangelization and culture - 21"]
 ---
 
-# Stacks: The Spirit of Religion and the Spirit of Liberty: Remembering Tocqueville's Democracy in America — Paul Krause
+# Stacks: The Spirit of Religión and the Spirit of Liberty: Remembering Tocqueville's Democracy in América — Paul Krause
 
 ## Conceptos básicos referenciados
 

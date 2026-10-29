@@ -33,12 +33,12 @@ El editor Bishop Robert Barron abre con una carta que invita a los lectores a «
 | 1 | Welcome Letter | Bishop Robert Barron | Misión de la revista: tres grupos objetivo (miembros del Institute, escépticos buscadores, féles no formados) |
 | 2 | A Word from the Institute | Jared Zimmerer | Visión del Word on Fire Institute como comunidad de evangelizadores |
 | 3 | Midnight Oil | Tod Worner | Reflexiones sobre la necesidad de una voz católica en la cultura; Chesterton y la nostalgia del hogar |
-| 4 | Fra Angelico: Artist and Evangelist | Bert Ghezzi | Fra Angelico como modelo de evangelizador a través del arte; «quien quiere pintar la historia de Cristo, debe vivir con Cristo» |
+| 4 | Fra Angélico: Artist and Evangelist | Bert Ghezzi | Fra Angélico como modelo de evangelizador a través del arte; «quien quiere pintar la historia de Cristo, debe vivir con Cristo» |
 | 5 | Seeds (poem) | James Matthew Wilson | Poesía |
 | 6 | Letters from a Hillbilly Thomist | Rev. Damian Ference | Flannery O'Connor: una «hillbilly Thomist»; su rechazo al nihilismo y su fidelidad al realismo metafísico de Tomás de Aquino |
 | 7 | Socrates on Stage | Matthew Becklo | La búsqueda de la verdad como forma de vida; Sócrates como mártir de la verdad en el escenario contemporáneo |
-| 8 | A Conversation with David Greenwalt | Jared Zimmerer | El creador de *Buffy*, *Angel* y *Grimm* habla de fe, ficción, conversión al catolicismo y el proceso creativo como oración |
-| 9 | Creativity and Jordan Peterson | Dr. Christopher Kaczor | Creatividad humana como reflejo de la divina; límites de la creatividad ética; el árbol del conocimiento del bien y el mal |
+| 8 | A Conversation with David Greenwalt | Jared Zimmerer | El creador de *Buffy*, *Ángel* y *Grimm* habla de fe, ficción, conversión al catolicismo y el proceso creativo como oración |
+| 9 | Creativity and Jordán Peterson | Dr. Christopher Kaczor | Creatividad humana como reflejo de la divina; límites de la creatividad ética; el árbol del conocimiento del bien y el mal |
 | 10 | Can Computers Create? | Fr. Anselm Ramelow, OP | Límites de la inteligencia artificial; creatividad como acto libre, reflexivo e intencional; procreación vs. creación |
 | 11 | The Sublime St. John's Bible | — | La Biblia de San Juan como obra de arte litúrgica contemporánea |
 | 12 | Introduction to the Features | — | Presentación de los artículos principales del número |
@@ -66,10 +66,10 @@ El editor Bishop Robert Barron abre con una carta que invita a los lectores a «
 
 ## Personas tratadas
 
-- **Fra Angelico** (c. 1390-1455) — artista dominico, patrono de los artistas
+- **Fra Angélico** (c. 1390-1455) — artista dominico, patrono de los artistas
 - **Flannery O'Connor** (1925-1964) — escritora católica estadounidense
 - **David Greenwalt** — creador de *Buffy the Vampire Slayer*, converso al catolicismo
-- **Jordan Peterson** — psicólogo y filósofo canadiense
+- **Jordán Peterson** — psicólogo y filósofo canadiense
 - **Sócrates** (470-399 a.C.) — filósofo griego, mártir de la verdad
 - **San Agustín de Hipona** (354-430) — Doctor de la Iglesia
 

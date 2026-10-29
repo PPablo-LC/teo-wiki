@@ -25,7 +25,7 @@ Le tocó gobernar la Iglesia durante el ascenso de los regímenes totalitarios. 
 
 3. **Encíclica *Quas Primas*** (1925, D‑2194–D‑2197): Instituyó la fiesta de Cristo Rey. Definió la realeza de Cristo como verdadero y propio principado, fundado en la unión hipostática y el derecho de redención. Condenó el laicismo como «peste de nuestra edad».
 
-4. **Encíclica *Mortalium animos*** (1928): Sobre la unidad de la Iglesia. Rechazó el «ecumenismo» indiferentista que igualaba todas las religiones como caminos a la salvación; afirmó que la única verdadera Iglesia es la Iglesia Católica Romana.
+4. **Encíclica *Mortalium ánimos*** (1928): Sobre la unidad de la Iglesia. Rechazó el «ecumenismo» indiferentista que igualaba todas las religiones como caminos a la salvación; afirmó que la única verdadera Iglesia es la Iglesia Católica Romana.
 
 5. **Encíclica *Divini illius Magistri*** (1929, D‑2202–D‑2224): Sobre la educación cristiana. Definió los derechos educativos de la Iglesia, la familia y el Estado, condenó la escuela laica y la coeducación, y rechazó la educación sexual naturalista.
 

@@ -23,6 +23,10 @@ En el orden canónico, la seducción adquiere una gravedad específica cuando es
 
 ## Perspectivas por fuente
 
+### Según el Derecho Canónico (CIC c. 1387)
+
+El canon 1387 del CIC tipifica la [[solicitación]] como delito: «El sacerdote que, durante la confesión, o con ocasión o pretexto de la misma, solicita al penitente a un pecado contra el sexto mandamiento del Decálogo, debe ser castigado, según la gravedad del delito, con suspensión, prohibiciones o privaciones; y, en los casos más graves, debe ser expulsado del estado clerical.» La seducción aquí adquiere su forma más grave, pues se realiza en el contexto del sacramento de la Penitencia, abusando de la confianza espiritual del penitente.
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín aborda la seducción desde la perspectiva de las tres vías y la lucha ascética. En su tratamiento de los enemigos del alma, escribe que el alma, tras las infidelidades veniales, «se va debilitando poco a poco y perdiendo cada vez más energías. La virtud aparece más difícil, la cuesta que conduce a la cima resulta cada vez más escarpada [...] y, a poco que el mundo atraiga con sus seducciones y al demonio intensifique sus asaltos, lo echa todo a rodar y abandona el camino de la perfección» (TPCr III, Libro I, cap. II).
@@ -30,10 +34,6 @@ Royo Marín aborda la seducción desde la perspectiva de las tres vías y la luc
 Sobre la seducción del mundo, Royo Marín afirma que hay que oponer «a sus halagos y seducciones, las promesas eternas; a sus placeres y diversiones, la paz de nuestra alma y la serenidad de una buena conciencia» (TPCr III, Libro I). La fe viva es la victoria contra el mundo.
 
 Sobre los sentidos, advierte que «la vista es el más noble de los sentidos corporales, pero también el más peligroso por la enorme seducción que sobre el alma ejercen sus representaciones» (TPCr III, Libro I, cap. sobre la mortificación de los sentidos). La fortaleza de voluntad es la clave para resistir: «No hay fuerza humana que pueda doblegar su voluntad y apartarle del cumplimiento del deber: ni castigos, ni amenazas, ni seducciones, ni halagos» (TPCr III, Libro II, cap. IV).
-
-### Según el Derecho Canónico (CIC c. 1387)
-
-El canon 1387 del CIC tipifica la [[solicitación]] como delito: «El sacerdote que, durante la confesión, o con ocasión o pretexto de la misma, solicita al penitente a un pecado contra el sexto mandamiento del Decálogo, debe ser castigado, según la gravedad del delito, con suspensión, prohibiciones o privaciones; y, en los casos más graves, debe ser expulsado del estado clerical.» La seducción aquí adquiere su forma más grave, pues se realiza en el contexto del sacramento de la Penitencia, abusando de la confianza espiritual del penitente.
 
 ### Según las Normae SST (SST-2010)
 

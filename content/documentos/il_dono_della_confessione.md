@@ -1,7 +1,7 @@
 ---
 type: Documento
 title: "Il dono della confessione"
-description: "Opúsculo catequético de Antonio Maria Sicari sobre el sacramento de la Confesión: el pecado como mal camino, el Decálogo como sendero, la Ley y la gracia, y la precedencia del perdón."
+description: "Opúsculo catequético de Antonio María Sicari sobre el sacramento de la Confesión: el pecado como mal camino, el Decálogo como sendero, la Ley y la gracia, y la precedencia del perdón."
 tags:
   - sacramentos
   - teología_moral
@@ -19,7 +19,7 @@ timestamp: 2026-10-19
 
 ## Definición
 
-**Il dono della confessione** (código IDC) es un opúsculo de **Antonio Maria
+**Il dono della confessione** (código IDC) es un opúsculo de **Antonio María
 Sicari** OCD, publicado por la Associazione Culturale Archa (Pergine
 Valsugana, Trento, 2014), que expone el sacramento de la Confesión en cinco
 capítulos, una conclusión, dos textos bíblicos para la meditación y un ritual
@@ -132,7 +132,7 @@ Los nueve resúmenes generados a partir de la fuente están en
 ## Ver también
 
 [[antonio_maria_sicari]], [[sacramento_de_la_reconciliación]],
-[[confesión_sacramental]], [[pecado]], [[pecado_como_mal_camino]],
+[[confesión]]], [[pecado]], [[pecado_como_mal_camino]],
 [[ateísmo_práctico]], [[ley_y_gracia]], [[expiación]], [[absolución]],
 [[contrición]], [[penitencia]], [[misericordia_de_dios]]
 

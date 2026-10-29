@@ -66,7 +66,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "ley 
 - [[religión]] — virtud moral regulada por la ley eclesiástica
 - [[penitencia]] — materia de leyes eclesiásticas
 - [[eucaristía]] — recomendación de recibirla con frecuencia
-- [[confesión_sacramental]] — obligación de confesar los pecados graves al menos una vez al año
+- [[confesión]]] — obligación de confesar los pecados graves al menos una vez al año
 - [[ayuno]] — precepto eclesiástico
 - [[abstinencia]] — precepto eclesiástico
 - [[excomunión]] — pena canónica para apóstata, hereje o cismático
@@ -114,7 +114,7 @@ La distinción se basa en el modo de constituirse la sociedad política como un 
 
 ### c) Valor y finalidad de la ley civil
 
-**Moralidad y legalidad** — El valor moral de fondo de la ley civil responde al hecho de que es una «promulgación», «explicitación» o «determinación» de las exigencias de la ley moral natural, necesarias para regular nuestro vivir juntos en la sociedad políticamente organizada (cfr. S.Th., I-II, q. 95, a. 2). Promulgar la ley moral natural significa hacer público en un texto legal e imponer la observancia de algunos de sus preceptos (el homicidio voluntario o el robo contrarios al derecho, con su pena). Hay explicitación cuando la ley civil formula conclusiones a partir de los preceptos de la ley moral natural (los deberes y derechos derivados de la patria potestad). Hay determinación cuando la ley civil escoge uno de los diversos modos de actuar una exigencia ética natural (la seguridad en el tráfico se concreta en circular por la derecha o por la izquierda).
+**Moralidad y legalidad** — El valor moral de fondo de la ley civil responde al hecho de que es una «promulgación», «explicitación» o «determinación» de las exigencias de la ley moral natural, necesarias para regular nuestro vivir juntos en la sociedad políticamente organizada (cfr. S.Th., I-II, q. 95, a. 2). Promulgar la ley moral natural significa hacer público en un texto legal e imponer la observancia de algunos de sus preceptos (el homicidio voluntario o el robo contrarios al derecho, con su pena). Hay explicitación cuando la ley civil fórmula conclusiones a partir de los preceptos de la ley moral natural (los deberes y derechos derivados de la patria potestad). Hay determinación cuando la ley civil escoge uno de los diversos modos de actuar una exigencia ética natural (la seguridad en el tráfico se concreta en circular por la derecha o por la izquierda).
 
 Corresponde a la autoridad civil promulgar, explicitar y determinar la ley moral natural no porque las autoridades políticas sean garantes de la moralidad personal de los hombres, sino en cuanto resulta necesario o conveniente para hacer posible la libre, justa y pacífica convivencia. El fin al que se ordena la ley humana es distinto de aquel al que se ordena la ley divina: la ley humana se ordena a regir la comunidad civil; la ley divina ordena a los hombres hacia Dios, en la vida presente y en la futura. El ámbito de la ley civil es más restringido que el de la ley moral: sus competencias están limitadas por su finalidad, el bien común político.
 

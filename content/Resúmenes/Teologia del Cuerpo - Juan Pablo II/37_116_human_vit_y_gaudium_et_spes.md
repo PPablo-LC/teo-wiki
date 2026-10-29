@@ -4,7 +4,7 @@ title: "116. «Humanæ vitæ» y «Gaudium et spes»"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 37
 timestamp: 2026-08-01
-description: "Catequesis 116: la Encíclica Humanæ vitæ como desarrollo de la Gaudium et spes, la «armonía del amor humano con el respeto a la vida», los interrogantes del hombre contemporáneo, la posibilidad de la observancia de la ley divina y la preocupación pastoral — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 116: la Encíclica Humanæ vitæ como desarrollo de la Gaudium et spes, la «armonía del amor humano con el respeto a la vida», los interrogantes del hombre contemporáneo, la posibilidad de la observancia de la ley divina y la preocupación pastoral — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

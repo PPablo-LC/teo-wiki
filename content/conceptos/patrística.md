@@ -17,6 +17,9 @@ La patrística es el estudio de los escritos y la doctrina de los Padres de la I
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La Tradición apostólica, transmitida por los Padres de la Iglesia, es una fuente perenne de la doctrina cristiana (CEC §688). La liturgia misma contiene elementos patrísticos: «la Iglesia profesa la fe apostólica y patrística» (§1353). El Catecismo cita abundantemente a los Padres como testigos de la fe.
 ### Según Pinckaers (FMC)
 
 Pinckaers dedica el capítulo VIII al período patrístico como fuente de la moral cristiana. Los Padres, a diferencia de la escolástica posterior, no elaboraron una moral sistemática separada, sino que la integraron en una visión unitaria de la vida cristiana fundada en la Escritura. La moral patrística se caracteriza por:
@@ -30,9 +33,6 @@ San Agustín es la figura culminante: su moral se centra en la felicidad, la car
 
 [FMC cap. VIII]
 
-### Según el Catecismo (CEC)
-
-La Tradición apostólica, transmitida por los Padres de la Iglesia, es una fuente perenne de la doctrina cristiana (CEC §688). La liturgia misma contiene elementos patrísticos: «la Iglesia profesa la fe apostólica y patrística» (§1353). El Catecismo cita abundantemente a los Padres como testigos de la fe.
 
 ## Relaciones doctrinales
 

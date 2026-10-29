@@ -23,6 +23,16 @@ Se distingue entre indulgencia plenaria (remisión total de la pena temporal) e 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo trata las indulgencias en el contexto del sacramento de la Penitencia (§1471-1479). «La indulgencia es la remisión ante Dios de la pena temporal por los pecados, ya perdonados en cuanto a la culpa» (§1471).
+
+La Iglesia, «en virtud del poder de atar y desatar que le fue concedido por Cristo, concede la indulgencia» (§1478). La doctrina y la práctica de las indulgencias están íntimamente vinculadas a los efectos del sacramento de la penitencia.
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula las indulgencias en los cánones 992-997, dentro del título del sacramento de la penitencia. Define la indulgencia como la remisión ante Dios de la pena temporal por los pecados, ya perdonados en cuanto a la culpa, que un fiel dispuesto y cumpliendo determinadas condiciones consigue por mediación de la Iglesia, administradora de la redención, que distribuye el tesoro de las satisfacciones de Cristo y de los Santos (c. 992). La indulgencia es parcial o plenaria, según libere de la pena temporal en parte o totalmente (c. 993). Todo fiel puede lucrar indulgencias para sí mismo o aplicarlas por los difuntos a modo de sufragio (c. 994). Además de la autoridad suprema de la Iglesia, solo pueden conceder indulgencias aquellos a quienes el derecho reconoce esta potestad o el Romano Pontífice se la ha concedido (c. 995 §1). Para ser capaz de lucrarlas se requiere estar bautizado, no excomulgado, y en estado de gracia al menos al final de las obras prescritas (c. 996 §1). Deben cumplirse además las prescripciones de las leyes peculiares de la Iglesia (c. 997).
+
 ### Según la Summa Theologiae (SmTh) — Suplemento
 
 **Suppl. q.25 — Las indulgencias:**
@@ -53,16 +63,6 @@ a.3 — No aprovechan a quien no cumple las condiciones (dar limosna, visitar un
 
 a.4 — Quien concede la indulgencia no puede aplicársela a sí mismo privativamente, pero puede aprovecharse de las indulgencias concedidas a otros, porque la causa (honor de Dios, bien de la Iglesia) se extiende también a él.
 
-### Según el Catecismo (CEC)
-
-El Catecismo trata las indulgencias en el contexto del sacramento de la Penitencia (§1471-1479). «La indulgencia es la remisión ante Dios de la pena temporal por los pecados, ya perdonados en cuanto a la culpa» (§1471).
-
-La Iglesia, «en virtud del poder de atar y desatar que le fue concedido por Cristo, concede la indulgencia» (§1478). La doctrina y la práctica de las indulgencias están íntimamente vinculadas a los efectos del sacramento de la penitencia.
-
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula las indulgencias en los cánones 992-997, dentro del título del sacramento de la penitencia. Define la indulgencia como la remisión ante Dios de la pena temporal por los pecados, ya perdonados en cuanto a la culpa, que un fiel dispuesto y cumpliendo determinadas condiciones consigue por mediación de la Iglesia, administradora de la redención, que distribuye el tesoro de las satisfacciones de Cristo y de los Santos (c. 992). La indulgencia es parcial o plenaria, según libere de la pena temporal en parte o totalmente (c. 993). Todo fiel puede lucrar indulgencias para sí mismo o aplicarlas por los difuntos a modo de sufragio (c. 994). Además de la autoridad suprema de la Iglesia, solo pueden conceder indulgencias aquellos a quienes el derecho reconoce esta potestad o el Romano Pontífice se la ha concedido (c. 995 §1). Para ser capaz de lucrarlas se requiere estar bautizado, no excomulgado, y en estado de gracia al menos al final de las obras prescritas (c. 996 §1). Deben cumplirse además las prescripciones de las leyes peculiares de la Iglesia (c. 997).
-
 ### Según Royo Marín (TPCr)
 
 Royo Marín menciona las indulgencias dentro del contexto de los medios de santificación. La Iglesia, por el poder de las llaves, puede aplicar los méritos del tesoro de la Iglesia para remitir las penas temporales. Las indulgencias son un medio excelente para la santificación personal y para el socorro de las almas del purgatorio.
@@ -82,8 +82,6 @@ Royo Marín menciona las indulgencias dentro del contexto de los medios de santi
 **León X** (1520), Condena de los errores de Lutero sobre las indulgencias: Lutero negó que los tesoros de la Iglesia sean los méritos de Cristo y de los santos (D-757), llamó a las indulgencias «piadosos engaños de los fieles» (D-758), negó que sirvan para la remisión de la pena temporal (D-759), afirmó que se engañan quienes las creen saludables (D-760), que solo son necesarias para crímenes públicos (D-761) y que a seis géneros de hombres no son necesarias (D-762). Todos estos errores fueron condenados como heréticos por León X.
 
 **Concilio de Trento** (Sesión XXV, D-989) enseñó que la potestad de conferir indulgencias fue concedida por Cristo a su Iglesia y que ella ha usado desde los más antiguos tiempos de ese poder. Mandó que se mantenga en la Iglesia el uso de las indulgencias, sobremanera saludable al pueblo cristiano, y condenó con anatema a quienes afirman que son inútiles o niegan que exista en la Iglesia potestad de concederlas.
-
-### Según el Enchiridion Symbolorum (Denzinger)
 
 Pío V condenó los errores de Bayo sobre las indulgencias (D‑1059–D‑1060):
 

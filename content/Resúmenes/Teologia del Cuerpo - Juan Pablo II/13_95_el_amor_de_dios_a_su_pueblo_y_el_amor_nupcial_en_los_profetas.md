@@ -4,7 +4,7 @@ title: "95. El amor de Dios a su pueblo y el amor nupcial en los profetas"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 13
 timestamp: 2026-08-01
-description: "Catequesis 95: análisis de Is 54,4-10, el amor misericordioso de Dios a Israel-esposa y la transformación de la analogía nupcial en la Carta a los Efesios — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 95: análisis de Is 54,4-10, el amor misericordioso de Dios a Israel-esposa y la transformación de la analogía nupcial en la Carta a los Efesios — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

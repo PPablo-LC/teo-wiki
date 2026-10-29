@@ -51,8 +51,8 @@ Lincoln encarna la intersección entre fe y vida pública en la democracia moder
 ## Referencias
 
 - EAC-21, 09_spotlight_barron.md (conversación de Bishop Robert Barron con Tod Worner), «What Is Democracy?»
-- EAC-21, 07_stacks.md (Paul Krause), «The Spirit of Religion and the Spirit of Liberty»
+- EAC-21, 07_stacks.md (Paul Krause), «The Spirit of Religión and the Spirit of Liberty»
 - EAC-21, 10_minds.md (Christopher Kaczor), «Minds: Lessons for Today from Plato's Republic»
-- EAC-21, 15_feature_arnn.md (Larry P. Arnn), «Is There a Theology of America?»
+- EAC-21, 15_feature_arnn.md (Larry P. Arnn), «Is There a Theology of América?»
 - Lincoln, Abraham, Discurso de Gettysburg (19 de noviembre de 1863)
 - Lincoln, Abraham, Primera Investidura (4 de marzo de 1861)

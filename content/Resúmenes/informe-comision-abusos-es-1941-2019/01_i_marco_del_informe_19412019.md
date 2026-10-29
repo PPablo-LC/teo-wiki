@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "I. Marco del Informe 1941-2019"
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 1
 timestamp: 2026-09-05
 description: "Estructura del marco del Informe 1941-2019: origen y objetivo del estudio, metodología de trabajo, límites y alcance, la página 0abusos.org y los destinatarios del informe."

@@ -27,7 +27,7 @@ Por eso su nombre funciona, en la tradición, como un «título hagiográfico» 
 
 ### Según Ritratti di santi (RdS)
 
-El capítulo 11 (S. Maria Goretti) usa el título hagiográfico y extrae su lección doctrinal:
+El capítulo 11 (S. María Goretti) usa el título hagiográfico y extrae su lección doctrinal:
 
 - **«La Santa Agnese del secolo XX»**: «La massa del popolo cristiano, a onde concentriche che si dilatano sempre di più, con un istinto di fede che viene da lontano e che nessuno storico riuscirà mai ad afferrare e a comprendere interamente, dice che è una martire, che è una santa, la "Santa Agnese del secolo XX"». El título lo da el «instinto de fe» del pueblo, no la erudición: la santidad es reconocida antes de ser catalogada.
 - **El núcleo del martirio**: la Iglesia, «dentro todas las amplificaciones y más allá de ellas, reconoce el núcleo de la cuestión: aquella niña ha preferido morir antes que ofender la voluntad de Dios. El martirio no es otra cosa» — definición que vale para Agnes y para Goretti por igual, y que muestra por qué el paralelo agiográfico es teológicamente correcto.
@@ -47,6 +47,6 @@ El capítulo 11 (S. Maria Goretti) usa el título hagiográfico y extrae su lecc
 
 ## Referencias
 
-- RdS, cap. 11 «S. Maria Goretti» (`11_s_maria_goretti.md`), líneas 83-85 (la «Santa Agnese del secolo XX»)
+- RdS, cap. 11 «S. María Goretti» (`11_s_maria_goretti.md`), líneas 83-85 (la «Santa Agnese del secolo XX»)
 - GLit-2024, n. 31 (Santa Inés mártir, memoria particular de la Legión)
 - Depósito Martyrum (354); Canon Romano; himnos de san Ambrosio y san Dámaso

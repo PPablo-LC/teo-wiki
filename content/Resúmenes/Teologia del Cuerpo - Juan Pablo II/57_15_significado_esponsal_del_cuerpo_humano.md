@@ -4,7 +4,7 @@ title: "15. Significado «esponsal» del cuerpo humano"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 57
 timestamp: 2026-08-01
-description: "Catequesis 15: la libertad del don como raíz de la desnudez sin vergüenza, el cuerpo como expresión del amor-don según Gaudium et spes 24, y la afirmación de la persona — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 15: la libertad del don como raíz de la desnudez sin vergüenza, el cuerpo como expresión del amor-don según Gaudium et spes 24, y la afirmación de la persona — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

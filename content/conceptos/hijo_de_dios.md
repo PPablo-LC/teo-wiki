@@ -63,7 +63,7 @@ El Papa subraya que en los sinópticos Jesús jamás se define como Hijo de Dios
 
 La filiación divina de Jesús es el punto de convergencia de todo el Nuevo Testamento. El Padre mismo la proclama en el Bautismo y en la Transfiguración (Mc 1,11; 9,7). Los Apóstoles confiesan esta verdad, culminando en la confesión de Pedro en Cesárea de Filipo: «Tú eres el Mesías, el Hijo de Dios vivo» (Mt 16,16), confirmada por Jesús como revelación del Padre. Jesús es acusado de blasfemia por hacerse igual a Dios (Jn 5,18; 10,33), y el Sanedrín lo condena a muerte por afirmar ser el Hijo de Dios (Mt 26,63-66). Juan Pablo II concluye: «Jesús murió en la cruz a causa de la verdad de su Filiación divina». Incluso el centurión romano, al pie de la cruz, confiesa: «Verdaderamente este hombre era hijo de Dios» (Mc 15,39).
 
-La catequesis sobre Jesús verdadero Dios y verdadero hombre profundiza en la autorrevelación de Cristo mediante la expresión «YO SOY» (Jn 8,24.28.58; 13,19), que remite al nombre divino revelado a Moisés (Ex 3,14). Con ella Jesús indica que es el verdadero Dios, que «Yo y el Padre somos una sola cosa» (Jn 10,30). La profesión de fe de la Iglesia —«engendrado no creado, de la misma naturaleza que el Padre»— recoge y formula dogmáticamente esta verdad revelada.
+La catequesis sobre Jesús verdadero Dios y verdadero hombre profundiza en la autorrevelación de Cristo mediante la expresión «YO SOY» (Jn 8,24.28.58; 13,19), que remite al nombre divino revelado a Moisés (Ex 3,14). Con ella Jesús indica que es el verdadero Dios, que «Yo y el Padre somos una sola cosa» (Jn 10,30). La profesión de fe de la Iglesia —«engendrado no creado, de la misma naturaleza que el Padre»— recoge y fórmula dogmáticamente esta verdad revelada.
 
 ## Distinciones importantes
 

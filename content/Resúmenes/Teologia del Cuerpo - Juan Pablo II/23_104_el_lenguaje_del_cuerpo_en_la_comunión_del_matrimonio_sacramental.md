@@ -4,7 +4,7 @@ title: "104. El «lenguaje del cuerpo» en la comunión del matrimonio sacrament
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 23
 timestamp: 2026-08-01
-description: "Catequesis 104: las palabras del consentimiento matrimonial, el matrimonio contraído y consumado, y el «lenguaje del cuerpo» como contenido constitutivo de la comunión de las personas — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 104: las palabras del consentimiento matrimonial, el matrimonio contraído y consumado, y el «lenguaje del cuerpo» como contenido constitutivo de la comunión de las personas — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

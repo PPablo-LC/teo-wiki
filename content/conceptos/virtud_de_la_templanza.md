@@ -79,20 +79,6 @@ Los pecados directamente opuestos a la templanza son:
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
-
-La templanza es «la virtud que pone orden en los placeres sensibles».
-
-«Los placeres más intensos y vehementes son los del tacto, relacionados con la conservación del individuo y de la especie. Estos placeres son buenos por naturaleza, ya que sirven a fines necesarios. Pero necesitan de la moderación de la razón para no desordenarse y arrastrar al hombre lejos de su fin último.»
-
-La templanza y la castidad:
-
-«La castidad es la parte principal de la templanza, porque los placeres sexuales son los más intensos y los que más dificultan el dominio de la razón. La castidad no consiste en destruir la naturaleza, sino en ordenarla según la razón. Hay tres estados de castidad: el matrimonio (que usa de los placeres con moderación según su fin), la continencia (que se abstiene por un tiempo), y la virginidad perpetua (que se abstiene permanentemente por amor al reino de los cielos).»
-
-La excelencia de la virginidad:
-
-«La virginidad perpetua por el reino de los cielos es más excelente que el matrimonio, aunque ambos son estados buenos y santos cuando se viven según el espíritu de Cristo. La virginidad se ordena más directamente a la contemplación de las cosas divinas y a la unión íntima con Dios, sin las preocupaciones y distracciones propias del estado matrimonial.»
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica las cuestiones 141-143 a la templanza, sus vicios opuestos y sus partes.
@@ -108,6 +94,20 @@ Santo Tomás dedica las cuestiones 141-143 a la templanza, sus vicios opuestos y
 **Partes de la templanza (q.143):** Tres clases de partes. Partes integrales: la vergüenza (que rehúye la torpeza) y la honestidad (que ama la belleza de la templanza). Partes subjetivas (especies): la abstinencia (comida), la sobriedad (bebida), la castidad (placeres venéreos) y el pudor (placeres concomitantes). Partes potenciales (virtudes anejas): la continencia, la humildad, la mansedumbre y clemencia, y la modestia.
 
 **Preceptos de la templanza (q.170):** Entre los preceptos del decálogo, el que más directamente se ordena a la templanza es la prohibición del adulterio (a.1), porque el adulterio es el vicio de la templanza que más se opone al amor al prójimo (usurpa la mujer ajena). La gula y otras especies de lujuria no se oponen tan directamente al amor al prójimo. No hay preceptos afirmativos de templanza en el decálogo porque su uso cambia con los tiempos y costumbres. En cuanto a las virtudes anejas (humildad, mansedumbre, modestia), no tienen preceptos directos en el decálogo, pero sus efectos (ira que lleva al homicidio, soberbia que lleva a quebrantar los preceptos) quedan prohibidos indirectamente (a.2).
+
+### Según Royo Marín (TPCr)
+
+La templanza es «la virtud que pone orden en los placeres sensibles».
+
+«Los placeres más intensos y vehementes son los del tacto, relacionados con la conservación del individuo y de la especie. Estos placeres son buenos por naturaleza, ya que sirven a fines necesarios. Pero necesitan de la moderación de la razón para no desordenarse y arrastrar al hombre lejos de su fin último.»
+
+La templanza y la castidad:
+
+«La castidad es la parte principal de la templanza, porque los placeres sexuales son los más intensos y los que más dificultan el dominio de la razón. La castidad no consiste en destruir la naturaleza, sino en ordenarla según la razón. Hay tres estados de castidad: el matrimonio (que usa de los placeres con moderación según su fin), la continencia (que se abstiene por un tiempo), y la virginidad perpetua (que se abstiene permanentemente por amor al reino de los cielos).»
+
+La excelencia de la virginidad:
+
+«La virginidad perpetua por el reino de los cielos es más excelente que el matrimonio, aunque ambos son estados buenos y santos cuando se viven según el espíritu de Cristo. La virginidad se ordena más directamente a la contemplación de las cosas divinas y a la unión íntima con Dios, sin las preocupaciones y distracciones propias del estado matrimonial.»
 
 ### Según Las siete lámparas de la vida cristiana (7_Lamps)
 

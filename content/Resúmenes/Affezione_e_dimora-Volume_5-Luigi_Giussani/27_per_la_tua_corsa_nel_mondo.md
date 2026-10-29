@@ -79,7 +79,7 @@ La misión se aprende en casa, no fuera. La casa es el lugar que introduce a la 
 | 1 | H1 | PER LA TUA CORSA NEL MONDO |
 | 35 | Blockquote | Davanti al Mistero nessuno può misurare |
 | 67 | Blockquote | Semplicemente domandare |
-| 85 | Blockquote | Il metodo con cui Dio interviene |
+| 85 | Blockquote | Il método con cui Dio interviene |
 | 97 | Blockquote | Dimora |
 | 111 | Blockquote | Una dignità ontologicamente perfetta |
 | 123 | Blockquote | Un adesso intatto |

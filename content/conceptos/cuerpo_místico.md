@@ -25,6 +25,10 @@ La analogía del cuerpo místico expresa la realidad más profunda de la Iglesia
 
 La Iglesia es el Cuerpo de Cristo por el Espíritu y su acción en los sacramentos, sobre todo en la Eucaristía (CEC §805). Cristo Cabeza del Cuerpo: los creyentes quedan estrechamente unidos a Cristo (CEC §790). La unidad del cuerpo no ha abolido la diversidad de los miembros (CEC §791). El Espíritu Santo es el alma del Cuerpo Místico, principio de su vida, de la unidad en la diversidad y de la riqueza de sus dones (CEC §797, 809). La Iglesia es también la Esposa de Cristo (CEC §796). Cristo y la Iglesia constituyen el "Cristo total" (Christus totus) (CEC §795).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El cuerpo de Cristo tiene tres sentidos en el NT: el cuerpo individual de Jesús, el sacramento eucarístico, y la Iglesia como cuerpo [VocTeoBib, «Cuerpo de Cristo»]. El cuerpo de Cristo crucificado fue el instrumento de nuestra redención (1Pe 2,24; Col 1,22); su resurrección lo transformó en «cuerpo espiritual» (1Cor 15,44). Por la comunión eucarística los creyentes forman un solo cuerpo (1Cor 10,16s). Pablo desarrolla la metáfora orgánica: la Iglesia es el cuerpo de Cristo, él es la cabeza (Col 1,18; Ef 1,22), y todos somos miembros unos de otros (Rom 12,5). En las epístolas de la cautividad, la Iglesia aparece como la «plenitud» de Cristo (Ef 1,23), y la unión conyugal es imagen de la relación entre Cristo y la Iglesia (Ef 5,23-32). Nuestros cuerpos, injertados en Cristo y templos del Espíritu Santo, resucitarán conformados a su cuerpo de gloria (Flp 3,20s).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 Lumen Gentium desarrolla la doctrina del **cuerpo místico** principalmente en LG §7. Cristo constituyó a sus hermanos, congregados de entre todos los pueblos, místicamente su cuerpo, comunicándoles su Espíritu [ConcVatII, LG §7]. «La Cabeza de este cuerpo es Cristo», imagen de Dios invisible, primogénito de toda criatura, que con su poder domina los cielos y la tierra [ConcVatII, LG §7].
@@ -46,10 +50,6 @@ Si el Cuerpo Místico es Pueblo de Dios, «esto significa que todo hombre está 
 La Iglesia como Cuerpo Místico, organismo, unidad social, «percibe los mismos impulsos divinos, las luces y las fuerzas del Espíritu que provienen de Cristo crucificado y resucitado» [RH §18]. La Iglesia no tiene otra vida «fuera de aquella que le da su Esposo y Señor» [RH §18].
 
 La pertenencia al Cuerpo Místico «proviene de una llamada particular, unida a la acción salvífica de la gracia» [RH §21]. La comunidad del Pueblo de Dios es comunidad de discípulos que llevan «en sus almas el signo indeleble del ser cristiano» y que, en diversidad de formas, siguen a Cristo [RH §21].
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El cuerpo de Cristo tiene tres sentidos en el NT: el cuerpo individual de Jesús, el sacramento eucarístico, y la Iglesia como cuerpo [VocTeoBib, «Cuerpo de Cristo»]. El cuerpo de Cristo crucificado fue el instrumento de nuestra redención (1Pe 2,24; Col 1,22); su resurrección lo transformó en «cuerpo espiritual» (1Cor 15,44). Por la comunión eucarística los creyentes forman un solo cuerpo (1Cor 10,16s). Pablo desarrolla la metáfora orgánica: la Iglesia es el cuerpo de Cristo, él es la cabeza (Col 1,18; Ef 1,22), y todos somos miembros unos de otros (Rom 12,5). En las epístolas de la cautividad, la Iglesia aparece como la «plenitud» de Cristo (Ef 1,23), y la unión conyugal es imagen de la relación entre Cristo y la Iglesia (Ef 5,23-32). Nuestros cuerpos, injertados en Cristo y templos del Espíritu Santo, resucitarán conformados a su cuerpo de gloria (Flp 3,20s).
 
 ### Según el Pórtico de la Biblia (PdB)
 

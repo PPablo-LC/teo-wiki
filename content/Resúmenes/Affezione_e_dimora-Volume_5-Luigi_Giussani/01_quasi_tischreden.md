@@ -17,7 +17,7 @@ tags: ["resumen", "affezione e dimora-volume 5-luigi giussani"]
 
 ## Contenido
 
-Archivo de solo título. El nombre de la serie, *Quasi Tischreden*, designa «casi charlas de sobremesa» (*discorsi a tavola*), en homenaje a las *Tischreden* de Martin Lutero. El «casi» (*quasi*) expresa una actitud de pudor frente al significado histórico del término original. Este título encabeza la obra y anuncia su naturaleza: diálogos informales de sobremesa celebrados semanalmente con jóvenes de los *Memores Domini*, donde se exploran palabras fundamentales para la vida cristiana.
+Archivo de solo título. El nombre de la serie, *Quasi Tischreden*, designa «casi charlas de sobremesa» (*discorsi a tavola*), en homenaje a las *Tischreden* de Martín Lutero. El «casi» (*quasi*) expresa una actitud de pudor frente al significado histórico del término original. Este título encabeza la obra y anuncia su naturaleza: diálogos informales de sobremesa celebrados semanalmente con jóvenes de los *Memores Domini*, donde se exploran palabras fundamentales para la vida cristiana.
 
 ## Mapa del archivo fuente
 

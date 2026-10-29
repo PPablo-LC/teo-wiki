@@ -43,7 +43,7 @@ Ratzinger desarrolla el domingo y la medida dominical en los archivos 04 y 07:
 
 **Domingo, Eucaristía y vida cotidiana (archivo 07):** «La iglesia no es solo un espacio en el que algo sucede temprano por la mañana, mientras el resto del día está vacío». El domingo vuelve central la presencia permanente de Cristo: «¡Qué hermoso es, después de la Misa... dejar un tiempo para la adoración eucarística!». La presencia del Señor en el tabernáculo extiende el domingo a toda la semana (GINU, archivo 07).
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 En el examen de conciencia del tercer mandamiento, Sicari define la fiesta
 como «lo que dice a todos que un hombre es libre»: un pueblo de esclavos no

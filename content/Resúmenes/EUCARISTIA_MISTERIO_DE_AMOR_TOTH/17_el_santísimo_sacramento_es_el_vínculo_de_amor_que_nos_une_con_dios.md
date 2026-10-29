@@ -35,4 +35,4 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 
 **Unidad eclesial.** JEE 39: la comunión con el Obispo y con el Papa es condición de la comunión eucarística; san Ignacio de Antioquía la testifica. JEE 61: el Misterio no consiente reducciones ni interpretaciones simbólicas reductoras.
 
-**María y la Eucaristía.** JEE 53-56: María es mujer «eucarística» toda su vida; la analogía entre el *fiat* de la Anunciación y el *amén* que el fiel pronuncia en la comunión; María como primer «tabernáculo» que llevó en su seno al Señor; el Magnificat leído en clave eucarística. La obra se cierra con esta síntesis mariano-eucarística.
+**María y la Eucaristía.** JEE 53-56: María es mujer «eucarística» toda su vida; la analogía entre el *fiat* de la Anunciación y el *amén* que el fiel pronuncia en la comunión; María como primer «tabernáculo» que llevó en su seno al Señor; el Magníficat leído en clave eucarística. La obra se cierra con esta síntesis mariano-eucarística.

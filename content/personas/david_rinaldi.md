@@ -13,7 +13,7 @@ description: "David Rinaldi, presidente de NET Ministries; ex navegante instruct
 
 ## Contexto histórico
 
-David Rinaldi es el presidente de NET Ministries y tiene un máster en teología pastoral por la Ave Maria University. Llegó a servir en NET en 1997 tras siete años en la Fuerza Aérea de los Estados Unidos, donde fue navegante instructor de aviones de reabastecimiento KC-135.
+David Rinaldi es el presidente de NET Ministries y tiene un máster en teología pastoral por la Ave María University. Llegó a servir en NET en 1997 tras siete años en la Fuerza Aérea de los Estados Unidos, donde fue navegante instructor de aviones de reabastecimiento KC-135.
 
 ## Relevancia teológica
 
@@ -39,4 +39,4 @@ Rinaldi lidera NET Ministries (National Evangelization Teams), que desde 1981 ha
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (David Rinaldi, 22_peripheries.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (David Rinaldi, 22_peripheries.md).

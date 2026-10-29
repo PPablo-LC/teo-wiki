@@ -30,27 +30,27 @@ Tres ejes estructuran este desarrollo: (1) el humor como **fenómeno ontológico
 
 Santo Tomás trata la dimensión lúdica del espíritu humano en la cuestión 168 (modestia). La [[eutrapelia]] (q.168 a.2) es la virtud que ordena según la razón los dichos y hechos que buscan el deleite del alma: el descanso del alma fatigada se realiza en el juego. Deben evitarse tres excesos: deleite en palabras u obras torpes, pérdida de la gravedad del espíritu, y juego desacomodado a la persona, tiempo y lugar. El defecto contrario —la hosquedad que no admite chiste alguno— también es vicio, aunque menos grave. Véase [[eutrapelia]].
 
+### Según Royo Marín (TPCr)
+
+TPCr no trata el humor como tal, pero fundamenta su dimensión virtuosa en la [[eutrapelia]] (n.472): la virtud que regula los juegos y diversiones según la razón, contra la necia alegría por exceso y la austeridad excesiva por defecto. Véase [[eutrapelia]].
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
-**El humor como fenómeno cómico.** Mons. Barron define la esencia de la comedia como «la unión de opuestos, la yuxtaposición de cosas incongruentes». Bobby Angel sitúa la comedia como fenómeno no replicado en el reino animal y recoge la teoría de la incongruencia: reímos ante conceptos incompatibles y soluciones inesperadas. Los mejores comediantes son, en sentido real, filósofos: ven lo que no vemos (Angel).
+**El humor como fenómeno cómico.** Mons. Barron define la esencia de la comedia como «la unión de opuestos, la yuxtaposición de cosas incongruentes». Bobby Ángel sitúa la comedia como fenómeno no replicado en el reino animal y recoge la teoría de la incongruencia: reímos ante conceptos incompatibles y soluciones inesperadas. Los mejores comediantes son, en sentido real, filósofos: ven lo que no vemos (Ángel).
 
 **La Encarnación como chiste divino.** «Todo comienza con un chiste»: el Infinito y el finito se abrazaron cuando Dios se hizo niño en Belén, pequeño puesto fronterizo del Imperio (Barron). Jesús nace bebé desvalido, subvirtiendo las expectativas mesiánicas. Joel Berry extiende la idea a la redención entera: Isaías 53,6 funciona como chiste perfecto cuyo remate es «el Señor cargó en él la iniquidad de todos nosotros»; la Encarnación y la Resurrección constituyen «uno de los mayores chistes jamás gastados a un Satanás orgulloso, serio y tramando». «Se ha sugerido que el corazón del pecado es tomarse uno mismo demasiado en serio; quizá por esto Dios eligió salvarnos haciéndonos reír» ([[soberbia]]).
 
-**Humor, criaturidad y orgullo.** Josef Pieper: el orgullo «niega anti-realísticamente la relación entre criatura y Creador». Jeremy McLellan lo aplica a su oficio: «Cuando reímos, nos recordamos que somos criaturas… los básicos de la comedia nos recuerdan una cosa: no somos Dios». Jared Zimmerer: «Quizá el orgullo sea la raíz de todo mal porque vuelve ininteligible la risa». Chesterton: «Es fácil ser pesado, difícil ser ligero. **Satan fell by the force of gravity**»; la solemnidad arrastra las cosas hacia abajo, la risa es un salto (Scalia).
+**Humor, criaturidad y orgullo.** Josef Pieper: el orgullo «niega anti-realísticamente la relación entre criatura y Creador». Jeremy McLellan lo aplica a su oficio: «Cuando reímos, nos recordamos que somos criaturas… los básicos de la comedia nos recuerdan una cosa: no somos Dios». Jared Zimmerer: «Quizá el orgullo sea la raíz de todo mal porque vuelve ininteligible la risa». Chesterton: «Es fácil ser pesado, difícil ser ligero. **Satán fell by the force of gravity**»; la solemnidad arrastra las cosas hacia abajo, la risa es un salto (Scalia).
 
 **Humor y humildad.** «Si somos demasiado orgullosos para reír de nuestra propia absurdez, hemos perdido una oportunidad de conversión» (Zimmerer). Felipe Neri usaba el humor «para mantener la humildad y aumentar la paciencia». La sátira cristiana funciona como espejo de feria: quien tiene buen humor dice «mi nariz no es así»; «si no podemos reírnos de nosotros mismos, hemos perdido el argumento» (Mann).
 
 **Risa, condición humana caída y esperanza.** «La materia prima del humor es la condición humana»: *The Office* no es gracioso porque estemos rotos, sino «porque importamos a pesar de nuestra rotura» (Worner). Lincoln: «Río porque no debo llorar». El humor puede humanizar, traer liviandad a momentos opresivos y hallar terreno común entre diferencias irreconciliables. Alfred Delp, desde su celda de condenado: «El hombre debería tomar la alegría tan en serio como se toma a sí mismo… creado para la alegría». C.S. Lewis: el humor «no tiene valor de supervivencia; es de esas cosas que dan valor a la supervivencia».
 
-**Criterios de discernimiento.** Roger Scruton: «Solo un ser que hace juicios puede reír»; el chiste nace de la colisión entre ideal y realidad. Matthew Nelson propone tres criterios morales para el [[humor_negro]]. La prudencia fija «la línea» de la comedia: «Quien puede retener un chiste es un héroe» (proverbio judío); «el timing lo es todo» (Angel).
+**Criterios de discernimiento.** Roger Scruton: «Solo un ser que hace juicios puede reír»; el chiste nace de la colisión entre ideal y realidad. Matthew Nelson propone tres criterios morales para el [[humor_negro]]. La prudencia fija «la línea» de la comedia: «Quien puede retener un chiste es un héroe» (proverbio judío); «el timing lo es todo» (Ángel).
 
 **Contra la solemnidad cultural.** Elizabeth Scalia diagnostica la cultura de la corrección política: el bufón invertido —antes podía burlarse de todos salvo del rey; hoy solo del poderoso, nunca de quien ha sufrido—. Kyle Mann: «lo que el ciego religioso no puede hacer es tomar un chiste»; el progresismo social funciona como religión con dogmas y santos, incapaz de la burla. Chesterton ya lo anticipaba (1908): «la sátira ha declinado… porque el mundo se ha vuelto demasiado absurdo para ser satirizado».
 
 **Señal de Dios vivo.** «La señal segura de que Dios vive en ti es la alegría» (Barron, citando Jn 15,11 y Flp 4,4). Benedicto XVI: «La pérdida de alegría no mejora el mundo… [hace falta] coraje para regocijarse». Fulton Sheen: «Un santo puede definirse como alguien con divino sentido del humor». Chesterton cierra el arco: quizá Dios retuvo un poco su jovialidad para protegernos de su éxtasis; «nuestra risa es eco del gozo inestimable de nuestro Padre».
 
-### Según Royo Marín (TPCr)
-
-TPCr no trata el humor como tal, pero fundamenta su dimensión virtuosa en la [[eutrapelia]] (n.472): la virtud que regula los juegos y diversiones según la razón, contra la necia alegría por exceso y la austeridad excesiva por defecto. Véase [[eutrapelia]].
 
 ## Distinciones importantes
 

@@ -19,7 +19,7 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 
 ## Contenido
 
-## by J.B. Cummings — ST. Jane Frances De Chantal Writing Group
+## by J.B. Cummings — ST. Jane Francés De Chantal Writing Group
 
 Jane Fagan reseña *Bart: My Life*, la autobiografía del leyenda de las carreras James Bartholomew "Bart" Cummings. Bart fue un entrenador y criador de caballos de carrera conocido por su reserva, su ingenio seco y su firme fe católica. Un sacerdote le llevaba la Eucaristía cuando estaba demasiado débil para ir a la iglesia, y seguía la tradición familiar de bendecir las monturas antes de las carreras.
 
@@ -37,4 +37,4 @@ La historia de estas recuperaciones le dio esperanza a Fagan para su propia cura
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | Stacks: Lessons from a Horse Racer: A Review of Bart: My Life — Jane F |
-| 3 | H2 | by J.B. Cummings — ST. Jane Frances De Chantal Writing Group |
+| 3 | H2 | by J.B. Cummings — ST. Jane Francés De Chantal Writing Group |

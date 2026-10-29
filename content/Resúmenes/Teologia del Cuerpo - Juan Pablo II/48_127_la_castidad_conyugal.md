@@ -4,7 +4,7 @@ title: "127. La castidad conyugal"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 48
 timestamp: 2026-08-01
-description: "Catequesis 127: la castidad conyugal como «vida del Espíritu», el don del respeto de lo que viene de Dios (don de piedad), el temor salvífico y la armonía entre la unión de los cónyuges y la paternidad responsable — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 127: la castidad conyugal como «vida del Espíritu», el don del respeto de lo que viene de Dios (don de piedad), el temor salvífico y la armonía entre la unión de los cónyuges y la paternidad responsable — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

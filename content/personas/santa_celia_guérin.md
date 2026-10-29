@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: "Santa Celia Guérin"
-description: "Madre de santa Teresa de Lisieux (1831-1877), canonizada con su esposo Luis Martin; «criarlos para el Cielo»: santidad conyugal y materna."
+description: "Madre de santa Teresa de Lisieux (1831-1877), canonizada con su esposo Luis Martín; «criarlos para el Cielo»: santidad conyugal y materna."
 tags: [santos, familia, laicado, santos_de_familia]
 timestamp: 2026-09-19
 ---
@@ -11,7 +11,7 @@ timestamp: 2026-09-19
 > Área: Hagiografía / Familia
 > Última actualización: 2026-09-19
 
-**Santa Celia Guérin** (1831-1877) y **san Luis Martin** (1823-1894) son
+**Santa Celia Guérin** (1831-1877) y **san Luis Martín** (1823-1894) son
 los padres de [[santa_teresa_de_lisieux]], que dejó de ellos este
 testimonio: «El Señor me dio un padre y una madre más dignos del cielo
 que de la tierra. He tenido la fortuna de pertenecer a padres sin igual.

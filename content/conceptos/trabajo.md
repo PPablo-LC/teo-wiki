@@ -27,6 +27,10 @@ Jesús fue trabajador (carpintero, Mc 6,3). Pablo trabajaba manualmente (Hch 18,
 
 El trabajo es parte del orden creador: Dios trabajó seis días y descansó el séptimo, dando modelo a la acción humana (CEC §2171-§2172). El domingo es día de descanso que interrumpe los trabajos cotidianos (§2184-§2188). El trabajo es considerado un deber y un derecho: el hombre debe trabajar para sustentarse y contribuir al bien común (§2427-§2428). El sábado protesta contra las servidumbres del trabajo y el culto al dinero (§2172).
 
+### Según el Compendio (CompDS)
+
+El trabajo pertenece a la condición originaria del hombre y precede a su caída; no es castigo ni maldición. Se convierte en fatiga a causa del pecado original, pero el designio del Creador permanece inalterado (§256). El trabajo debe ser honrado como fuente de riqueza, pero sin idolatrarlo: «Mejor es poco con temor de Yahvéh, que gran tesoro con inquietud» (Pr 15,16; §257). El descanso sabático (§258) constituye un baluarte contra el sometimiento humano al trabajo y contra toda forma de explotación.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El trabajo en el AT no es una maldición en sí mismo, sino parte del designio original de Dios. La fatiga del trabajo es consecuencia del pecado, pero el trabajo mismo es cooperación con Dios. La sabiduría popular alaba la diligencia y condena la pereza (Prov 6,6-11; 10,4-5).
@@ -48,10 +52,6 @@ El trabajo es «uno de los mejores educadores del carácter, enseña a saber ven
 LE constituye el desarrollo más completo del magisterio sobre el trabajo humano. Define el trabajo como «una clave, quizá la clave esencial, de toda la cuestión social» (LE §3). Desarrolla la distinción entre sentido objetivo (técnica, instrumentos, transformación de la naturaleza) y subjetivo (el hombre como persona que trabaja). La dimensión subjetiva tiene preeminencia: «el primer fundamento del valor del trabajo es el hombre mismo, su sujeto» (LE §6). El hombre, mediante el trabajo, «no sólo transforma la naturaleza, sino que se realiza a sí mismo como hombre, es más, en un cierto sentido 'se hace más hombre'» (LE §9).
 
 LE establece el principio de la prioridad del trabajo sobre el capital (LE §12), denuncia el error del economismo (LE §13) y desarrolla la espiritualidad del trabajo como participación en la obra creadora, redentora y consumadora de Dios (LE §24–27). Jesucristo es presentado como «hombre del trabajo», carpintero en Nazaret, y el evangelio del trabajo abarca desde el Génesis hasta las enseñanzas de San Pablo (LE §25–26).
-
-### Según el Compendio (CompDS)
-
-El trabajo pertenece a la condición originaria del hombre y precede a su caída; no es castigo ni maldición. Se convierte en fatiga a causa del pecado original, pero el designio del Creador permanece inalterado (§256). El trabajo debe ser honrado como fuente de riqueza, pero sin idolatrarlo: «Mejor es poco con temor de Yahvéh, que gran tesoro con inquietud» (Pr 15,16; §257). El descanso sabático (§258) constituye un baluarte contra el sometimiento humano al trabajo y contra toda forma de explotación.
 
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 

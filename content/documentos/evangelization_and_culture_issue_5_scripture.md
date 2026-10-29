@@ -43,9 +43,9 @@ El número combina hermenéutica bíblica (Rowland, Ramage, Ordway), análisis d
 | 9 | The Inadequacy of Autonomy | Dr. Christopher Kaczor | Pinker vs. dignidad: la autonomía sin dignidad no se justifica |
 | 10 | When Caravaggio Met St. Matthew | Andrew Graham-Dixon | Las tres pinturas de la Capilla Contarelli: vocación, martirio, inspiración |
 | 11 | Introduction to the Features: What Is Scripture? | — | ¿Qué es la Escritura? Definición y relevancia |
-| 12 | The Literary Devices of Jesus' Evangelization | Dr. Holly Ordway | Metáforas, parábolas, hipérbole, humor como herramientas evangelísticas; Juan 6 ≠ metáfora |
+| 12 | The Literary Devices of Jesús' Evangelization | Dr. Holly Ordway | Metáforas, parábolas, hipérbole, humor como herramientas evangelísticas; Juan 6 ≠ metáfora |
 | 13 | In Praise of "Perfect Hatred" | Dr. Matthew Ramage | Salmos imprecatorios: odio al pecado, amor al pecador |
-| 14 | The Law Is a Form of Grace | Dr. Matthew Petrusek | Jordan Peterson y moral bíblica: ley como liberación, metanoia |
+| 14 | The Law Is a Form of Grace | Dr. Matthew Petrusek | Jordán Peterson y moral bíblica: ley como liberación, metanoia |
 | 15 | Reading Scripture within the Horizon of Faith | Dr. Tracey Rowland | Hermenéutica católica: fe como preámbulo, cuádruple sentido, escuela de Communio |
 | 16 | But From the Beginning It Was Not So (poem) | Joshua Hren | Poesía |
 | 17 | Imagining Scripture | Elizabeth Scalia | Oración imaginativa ignaciana: la Presentación en el Templo |

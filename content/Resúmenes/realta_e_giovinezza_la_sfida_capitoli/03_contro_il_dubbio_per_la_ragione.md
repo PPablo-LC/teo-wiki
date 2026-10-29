@@ -47,7 +47,7 @@ tags: ["resumen", "razón", "duda", "corazón", "ideal"]
 
 ## El ideale frente al sogno y a la utopía
 
-- «L'utopia è una parola che rappresenta negli intellettuali quello che nei ragazzi è il sogno». «Ma sogno e utopia nascono dalla testa, dalla fantasia. Invece l'ideale è il centro della realtà».
+- «L'utopía è una parola che rappresenta negli intellettuali quello che nei ragazzi è il sogno». «Ma sogno e utopía nascono dalla testa, dalla fantasía. Invece l'ideale è il centro della realtà».
 - «Come una strada che ha una grande meta, e tu camminando, passo dopo passo, già la rendi presente».
 - «La parola “Dio” è uguale a Ideale» (Gratry): «L'ideale si distingue dal sogno perché nasce dalla natura […]. Perciò non tradisce. Seguilo, non ti tradirà».
 

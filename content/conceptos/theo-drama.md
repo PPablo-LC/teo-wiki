@@ -29,7 +29,7 @@ El theo-drama tiene también una dimensión escatológica: el drama no está ter
 
 ### Según Word on Fire — los cuatro antagonistas (WoF-4)
 
-Robert Barron presenta el theo-drama como un concepto central de la teología de Balthasar y lo aplica a la comprensión de la cultura contemporánea. Barron formula la tesis con precisión: «Balthasar saw this drama precisely as how two freedoms — God's freedom meeting a recalcitrant freedom — are played out in action across space and time». Esta formulación subraya que no se trata de un espectáculo pasivo, sino de un encuentro real entre libertades que se confrontan y transforman mutuamente.
+Robert Barron presenta el theo-drama como un concepto central de la teología de Balthasar y lo aplica a la comprensión de la cultura contemporánea. Barron fórmula la tesis con precisión: «Balthasar saw this drama precisely as how two freedoms — God's freedom meeting a recalcitrant freedom — are played out in action across space and time». Esta formulación subraya que no se trata de un espectáculo pasivo, sino de un encuentro real entre libertades que se confrontan y transforman mutuamente.
 
 Matthew Pageau amplía la perspectiva afirmando que Cristo es la «culmination and condensation of all storytelling». En Cristo, todas las historias humanas —los mitos, los relatos heroicos, las tragedias y las comedias— encuentran su fulfillment y su sentido. El theo-drama no es una historia entre otras; es la historia que da sentido a todas las demás. Toda narrativa humana es, en último término, un fragmento de este drama mayor.
 

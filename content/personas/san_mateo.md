@@ -55,4 +55,4 @@ Aunque algunos han argumentado que los apóstoles eran «pescadores iletrados»,
 
 - Mt 9,9; 10,2-4
 - Ireneo, *Contra las Herejías* 1.1.1
-- *The Case for Jesus* (CfJ), Sesión 1, líneas [00:23:10]–[00:25:29]
+- *The Case for Jesús* (CfJ), Sesión 1, líneas [00:23:10]–[00:25:29]

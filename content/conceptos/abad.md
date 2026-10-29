@@ -27,7 +27,7 @@ El abad responde ante Dios por cada una de las almas confiadas a su cuidado. San
 
 ### Los tres oficios del abad (según RB 2)
 
-San Benito formula las tareas del abad en tres verbos: reprender, exhortar, amonestar (*argue, obsecra, increpa*; RB 2, 23). Esta triple función adapta la acción del abad a la condición de cada monje:
+San Benito fórmula las tareas del abad en tres verbos: reprender, exhortar, amonestar (*argue, obsecra, increpa*; RB 2, 23). Esta triple función adapta la acción del abad a la condición de cada monje:
 - A los indisciplinados e inquietos: reprender con rigor
 - A los obedientes, mansos y pacientes: exhortar para que progresen
 - A los negligentes y arrogantes: amonestar y castigar

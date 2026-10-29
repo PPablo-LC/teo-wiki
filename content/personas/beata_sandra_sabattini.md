@@ -21,7 +21,7 @@ Su Diario revela una madurez espiritual extraordinaria: la unidad de existencia 
 
 Sandra demuestra que la [[santidad]] cristiana es compatible y connatural con la condición laical, juvenil y «ordinaria»: noviazgo, estudios, amistades, música, deporte. Su noviazgo con Guido es teología vivida: un discernimiento común en el que la sponsalidad humana anticipa y no compite con la sponsalidad con Cristo; don Benzi los describió como «fidanzati, ma come se non lo fossero secondo i criteri del mondo», porque los períodos libres los vivían con los hermanos necesitados. El card. Semeraro subrayó su caridad «creativa y concreta»: «amare qualcuno è sentire di cosa ha bisogno e portare la sua pena».
 
-Su paso de la «ricerca di Dio» al descubrimiento de que «è Dio che cerca me», y su fórmula «unità di esistenza col Cristo» —«vedendo una persona non vedo quella persona, ma il Cristo»— la colocan en la línea mística del abandono: «Dobbiamo stare ogni giorno davanti a Dio a mani vuote, come mendicanti». Su precoz conciencia de la muerte («Non è mia questa vita... È tutto un dono su cui il "Donatore" può intervenire quando e come vuole») y su grito contra la «vita piena di niente» la hacen extraordinariamente actual frente al vacío existencial juvenil.
+Su paso de la «ricerca di Dio» al descubrimiento de que «è Dio che cerca me», y su fórmula «unità di esistenza col Cristo» —«vedendo una persona non vedo quella persona, ma il Cristo»— la colocan en la línea mística del abandono: «Dobbiamo stare ogni giorno davanti a Dio a mani vuote, come mendicanti». Su precoz conciencia de la muerte («Non è mía questa vita... È tutto un dono su cui il "Donatore" può intervenire quando e come vuole») y su grito contra la «vita piena di niente» la hacen extraordinariamente actual frente al vacío existencial juvenil.
 
 ## Perspectivas por fuente
 
@@ -35,10 +35,10 @@ Capítulo 09 (Beata Sandra Sabattini — «La fidanzata santa»):
 - **La unidad de existencia con Cristo** (4-XI-1975): «vedendo una persona non vedo quella persona, ma il Cristo... Quando non scelgo secondo Cristo, Lui per me non esiste... Se non faccio un'ora di preghiera al giorno non mi ricordo neanche di essere cristiana».
 - **El giro místico del abandono** (8-X-1978): «Non sono io che cerco Dio, ma è Dio che cerca me... non rimane che la contemplazione, l'adorazione».
 - **La disputa con Guido sobre Dios**: él, racionalista: «se uno si comporta bene... che Dio esista o non esista è un fatto secondario»; ella: «Se Dio non esistesse, io sarei disperata»; Guido después: «per me era cosa legata alla mente, per lei al cuore».
-- **Contra la «vita piena di niente»**: «Questa sera mi sento piena di niente» era su pena mayor: las jornadas gastadas en analizarse a sí mismas; la gozosa alternativa: «Grazie, Signore / Grazie perché ci sei / Perché sei vicino a me... perché ti vedo nella mia gente».
+- **Contra la «vita piena di niente»**: «Questa sera mi sento piena di niente» era su pena mayor: las jornadas gastadas en analizarse a sí mismas; la gozosa alternativa: «Grazie, Signore / Grazie perché ci sei / Perché sei vicino a me... perché ti vedo nella mía gente».
 - **La urgencia de la santidad** (4-III-1983): «Se veramente amo, come sopportare che un terzo dell'umanità muore di fame...? Facendo così, sarò un buon cristiano, ma non certamente un santo ed oggi c'è inflazione di buoni cristiani, mentre il mondo ha bisogno di santi».
 - **La pobreza del «diventare nessuno»**: «Mi sono liberata di quell'io che fingeva di essere qualcuno e, nel diventare nessuno, comincio a vivere».
-- **La última entrada** (27-IV-1984): «Non è mia questa vita che sta evolvendosi ritmata da un regolare respiro che non è mio... È tutto un dono su cui il "Donatore" può intervenire quando e come vuole».
+- **La última entrada** (27-IV-1984): «Non è mía questa vita che sta evolvendosi ritmata da un regolare respiro che non è mio... È tutto un dono su cui il "Donatore" può intervenire quando e come vuole».
 - **El juicio de don Benzi**: «Sandra era sempre sorridente: il suo sorriso era la manifestazione della sua unione continua con Dio»; «un polo unitivo dei fratelli. Nessuno l'ha mai sentita dire una parola non positiva su altri».
 
 ## Relaciones doctrinales

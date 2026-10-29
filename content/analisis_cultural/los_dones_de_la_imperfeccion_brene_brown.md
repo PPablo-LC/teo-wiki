@@ -71,7 +71,7 @@ Brown escribe desde un marco psicológico y cultural predominantemente secular, 
 
 ### [[dignidad_humana]]
 
-**En la obra:** Brown afirma que «todos valemos ya, ahora. No 'si', ni 'cuando'. Ya, ahora mismo, merecemos que nos amen y sentir que pertenecemos». La valía personal no tiene requisitos previos. La vergüenza ataca precisamente esta valía inherente.
+**En la obra:** Brown afirma que «todos valemos ya, ahora. No 'si', ni 'cuando'. Ya, ahora mismo, merecemos que nos amén y sentir que pertenecemos». La valía personal no tiene requisitos previos. La vergüenza ataca precisamente esta valía inherente.
 
 **Convergencias o afinidades:** La afirmación de que la valía es inherente e incondicional converge con la doctrina católica de la dignidad humana, que se funda en haber sido creado a imagen de Dios (CEC §1700-1706). La insistencia en que la valía no depende de logros, apariencia o aprobación social es consistente con la enseñanza sobre la igualdad radical de toda persona ante Dios.
 

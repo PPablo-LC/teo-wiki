@@ -21,7 +21,7 @@ La cuestión de si tiene sentido argumentar la existencia de Dios para el hombre
 
 ## Perspectivas por fuente
 
-### Según Robert Barron, *Arguing Religion* (ARGREL)
+### Según Robert Barron, *Arguing Religión* (ARGREL)
 Barron defiende las demostraciones clásicas para la existencia de Dios. El intelecto humano, por su naturaleza inquisitiva, busca causas últimas y no se satisface con explicaciones meramente contingentes. El método tomista de la *quaestio disputata* (ST I q.2 a.3) consiste en formular la pregunta, presentar las objeciones en su forma más fuerte y responderlas razonadamente. Barron insiste en que estos argumentos son *preambula fidei*: preparan el camino para la fe, pero la fe como confianza (*pistis*) va más allá —requiere abrirse a quien se revela personalmente (*Deus dixit*). Critica el fideísmo y el cientificismo por imponer barreras artificiales al diálogo racional sobre Dios.
 
 ### Según UDE (1994)
@@ -30,7 +30,7 @@ Juan Pablo II defiende la perenne validez de los argumentos racionales para la e
 
 El Papa señala que Kant abandonó la antigua vía de los argumentos cosmológicos y se refugió en la experiencia ética, pero ello no invalida la búsqueda racional de Dios. La hermenéutica contemporánea (Ricoeur, Lévinas) abre nuevas perspectivas para acceder a la verdad sobre Dios a través de la interpretación de la existencia humana.
 
-El camino para el futuro es el retorno a la metafísica, entendida no como sistema abstracto sino como investigación sobre el ser, a través de una antropología integral que capte al hombre en su totalidad. La filosofía del diálogo (Martin Buber, Emmanuel Lévinas) muestra que la coexistencia —el ser-con-el-otro— es constitutiva de la existencia humana y que esta apertura al otro remite, en última instancia, al Tú absoluto que es Dios.
+El camino para el futuro es el retorno a la metafísica, entendida no como sistema abstracto sino como investigación sobre el ser, a través de una antropología integral que capte al hombre en su totalidad. La filosofía del diálogo (Martín Buber, Emmanuel Lévinas) muestra que la coexistencia —el ser-con-el-otro— es constitutiva de la existencia humana y que esta apertura al otro remite, en última instancia, al Tú absoluto que es Dios.
 
 [UDE, Cap. V]
 

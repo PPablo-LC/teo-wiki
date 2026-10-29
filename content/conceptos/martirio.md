@@ -88,8 +88,8 @@ El número sobre el coraje presenta el martirio como la culminación de la forta
 La colección muestra el martirio en cuatro registros contemporáneos:
 
 - **Martirio de la pureza** (cap. 11, S. María Goretti): la definición más escueta: «quella bambina ha preferito morire piuttosto che offendere la volontà di Dio. Il martirio non è altra cosa». La «Santa Agnese del secolo XX» muere perdonando a su asesino; Juan Pablo II beatifica después a Pierina Morosini y Antonia Mesina, del mismo cuadro: «i passi di Pierina Morosini... continuano a segnare un sentiero luminoso per quanti avvertono il fascino delle sfide evangeliche».
-- **Martirio de la caridad** (cap. 12, S. Massimiliano Kolbe): el ofrecimiento en Auschwitz («Sono un sacerdote cattolico... Voglio prendere il suo posto perché lui ha moglie e figli») convierte el bunker de la muerte en «luogo sacro»: «La morte... era un dramma e rito. Era sacrificio di purificazione» (Szczepanski). Dos enseñanzas: «Il martirio non fu una fuga devota. Fu la pienezza della sua energia vitale»; y la stoffa dei martiri no es el pluralismo y el irenismo a todo costo, aunque se llamen «dialogo» ed «ecumenismo».
-- **Martirio de la conciencia** (cap. 13, S. Tommaso Moro): el único laico de Inglaterra que rechaza el juramento; no se siente digno del martirio («per tema che Dio punisse la mia presunzione») y no huye cuando es Dios quien lo lleva: «Chiunque non ha altre scelte che rinnegare Dio o affrontare il supplizio, può essere certo che è Dio stesso ad averlo messo in quel frangente». Muerto, proclama la ilegitimidad del Acto de Supremacía y reza por sus jueces como Pablo por los lapidadores de Esteban.
+- **Martirio de la caridad** (cap. 12, S. Massimiliano Kolbe): el ofrecimiento en Auschwitz («Sono un sacerdote cattolico... Voglio prendere il suo posto perché lui ha moglie e figli») convierte el bunker de la muerte en «luogo sacro»: «La morte... era un dramma e rito. Era sacrificio di purificazione» (Szczepanski). Dos enseñanzas: «Il martirio non fu una fuga devota. Fu la pienezza della sua energía vitale»; y la stoffa dei martiri no es el pluralismo y el irenismo a todo costo, aunque se llamen «diálogo» ed «ecumenismo».
+- **Martirio de la conciencia** (cap. 13, S. Tommaso Moro): el único laico de Inglaterra que rechaza el juramento; no se siente digno del martirio («per tema che Dio punisse la mía presunzione») y no huye cuando es Dios quien lo lleva: «Chiunque non ha altre scelte che rinnegare Dio o affrontare il supplizio, può essere certo che è Dio stesso ad averlo messo in quel frangente». Muerto, proclama la ilegitimidad del Acto de Supremacía y reza por sus jueces como Pablo por los lapidadores de Esteban.
 - **Martirio de la fidelidad sacerdotal** (cap. 8, Curato d'Ars): su «martirio del confessionale» — 15-17 horas diarias — y el testimonio de JPII en Ars sobre la desafección al Sacramento del Perdono.
 
 El hilo común: el mártir «ha preferito morire piuttosto che offendere la volontà di Dio», y la pregunta al cristiano de hoy: «c'è ancora qualcosa o Qualcuno per cui valga la pena di morire?» (cap. 13).
@@ -103,7 +103,7 @@ El hilo común: el mártir «ha preferito morire piuttosto che offendere la volo
 
 ## Relaciones doctrinales
 
-El martirio es el acto supremo de la [[fortaleza]] y la [[caridad]]. Se relaciona con la [[confesión_de_la_fe]], la [[persecución]], la [[santidad]] heroica, el [[bautismo_de_sangre]] y la [[comunión_de_los_santos]].
+El martirio es el acto supremo de la [[fortaleza]] y la [[caridad]]. Se relaciona con la [[confesión_de_fe]]], la [[persecución]], la [[santidad]] heroica, el [[bautismo_de_sangre]] y la [[comunión_de_los_santos]].
 
 ## Denzinger
 
@@ -111,11 +111,11 @@ D-92 (III Concilio de Cartago 397): se permite la lectura de las pasiones de los
 
 ## Ver también
 
-[[fortaleza]], [[caridad]], [[confesión_de_la_fe]], [[persecución]], [[santidad]], [[bautismo_de_sangre]]
+[[fortaleza]], [[caridad]], [[confesión_de_fe]]], [[persecución]], [[santidad]], [[bautismo_de_sangre]]
 
 ### Según Sicari (AMS)
 
-[[asi_mueren_los_santos]], cap. I, formula las **dos condiciones del
+[[asi_mueren_los_santos]], cap. I, fórmula las **dos condiciones del
 martirio cristiano**:
 
 1. **La fuerza no proviene de fortaleza humana.** «Dar la vida» por la

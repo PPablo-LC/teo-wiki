@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization_and_culture", "evangelización_digital"]
 ## Conceptos básicos referenciados
 
 - [[nueva_evangelización]] — nueva en ardor, expresión y método (JPII)
-- [[evangelización_digital]] — internet como Areopago contemporáneo
+- [[evangelización_digital]] — internet como Areópago contemporáneo
 - [[adicción]] — peligro espiritual de la era digital
 
 ## Contenido

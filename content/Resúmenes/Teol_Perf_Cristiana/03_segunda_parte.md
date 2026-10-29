@@ -27,13 +27,13 @@ tags: ["resumen", "teologia_de_la_perfeccion_cristiana", "dogmatica", "ascetica"
 - [[mérito_sobrenatural]]
 - [[inhabitación_trinitaria]]
 
-## CAPITULO I — Naturaleza y organismo de la vida sobrenatural
+## CAPÍTULO I — Naturaleza y organismo de la vida sobrenatural
 
 ### Nociones Previas
 
 La vida natural del hombre tiene tres manifestaciones: vegetativa, sensitiva y racional. La vida sobrenatural es un don gratuito que eleva el alma a un orden que trasciende infinitamente la naturaleza. Hay una analogía entre ambos órdenes: el sujeto es el alma, el principio formal la gracia santificante, las potencias las virtudes infusas y los dones, y las operaciones los actos de esas virtudes y dones.
 
-### Articulo I: La Gracia Santificante
+### Artículo I: La Gracia Santificante
 
 **Naturaleza**: Cualidad sobrenatural inherente al alma que nos da una participación física y formal —aunque análoga y accidental— de la naturaleza divina. No es una sustancia sino un accidente sobrenatural, pero «el bien de la gracia de uno solo es mayor que el bien natural de todo el universo» (Santo Tomás). Se opone a la teoría protestante de la justificación por imputación extrínseca.
 
@@ -49,7 +49,7 @@ La vida natural del hombre tiene tres manifestaciones: vegetativa, sensitiva y r
 7. Unión íntima con Dios
 8. Templos vivos de la Santísima Trinidad (Jn 14,23)
 
-### Articulo II: Las Potencias Sobrenaturales
+### Artículo II: Las Potencias Sobrenaturales
 
 #### Las Virtudes Infusas
 
@@ -69,15 +69,15 @@ Son hábitos sobrenaturales infundidos por Dios en las potencias del alma para r
 
 **Doble modalidad (refutación)**: Royo Marín rechaza la teoría del P. Crisógono de que los dones admitan un doble modo de operación (humano y divino). Tal teoría sería inútil, filosóficamente imposible y teológicamente absurda, pues destruiría la naturaleza y finalidad de los dones.
 
-### Articulo III: Las Gracias Actuales
+### Artículo III: Las Gracias Actuales
 
 Son mociones divinas transitorias que ilustran el entendimiento y mueven la voluntad para obrar sobrenaturalmente. Se distinguen en gracia operante (Dios obra sin el alma) y cooperante (Dios obra con el alma). Son necesarias para todo acto sobrenatural, incluido el inicio de la fe y la perseverancia final.
 
-## CAPITULO II — La perfección cristiana
+## CAPÍTULO II — La perfección cristiana
 
 La esencia de la perfección cristiana consiste en la caridad. La perfección es la plenitud del amor a Dios y al prójimo. Las virtudes infusas y los dones son medios ordenados a la caridad. La perfección es posible en esta vida, aunque nunca absoluta — solo en la patria celestial. La llamada universal a la santidad implica la llamada universal a la perfección de la caridad.
 
-## CAPITULO III — Naturaleza de la mística
+## CAPÍTULO III — Naturaleza de la mística
 
 La mística es el conjunto de fenómenos y estados sobrenaturales que proceden de la actuación de los dones del Espíritu Santo, especialmente de la contemplación infusa. La contemplación infusa es un conocimiento experimental, amoroso y pasivo de Dios, producido por los dones de entendimiento y sabiduría bajo la moción del Espíritu Santo.
 
@@ -89,7 +89,7 @@ Exposición de las diversas escuelas: la escuela tomista (los dones son la esenc
 
 Royo Marín defiende la posición tomista: la mística no es algo extraordinario ni reservado a unos pocos, sino que pertenece al desarrollo normal de la vida de la gracia. La contemplación infusa es necesaria para la plena perfección cristiana, pues solo los dones pueden dar a las virtudes infusas su pleno desarrollo.
 
-## CAPITULO IV — Relaciones entre la perfección y la mística
+## CAPÍTULO IV — Relaciones entre la perfección y la mística
 
 No hay dos caminos separados (ascético y místico), sino un único camino de perfección que integra ambos. La ascética prepara y dispone para la mística; la mística perfecciona y consuma la ascética. La distinción es gradual, no esencial. Todo cristiano llamado a la santidad está llamado también al desarrollo de la vida mística en la medida en que los dones del Espíritu Santo actúen en su alma eliminando las resistencias humanas.
 

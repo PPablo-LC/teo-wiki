@@ -23,7 +23,7 @@ La **mentalidad** es, en Luigi Giussani, el conjunto de criterios con que el hom
 
 **La mentalidad nace de la pertenencia.** El contenido del conocimiento es comunicado por la mentalidad — el criterio — de aquello a lo que el hombre pertenece (DLV 16). No se juzga la realidad desde la nada, sino desde una tradición, una comunidad, un vínculo: la pertenencia entrega la clave de lectura del mundo.
 
-**La fe cambia la mentalidad.** «Cristo è entrato nel mondo in polemica col mondo» (Garofalo, DLV 10): la fe en Cristo no es una añadidura piadosa sino una **inversión radical del criterio**, una «mentalità diversa» que arrastra consigo una moralidad nueva. El cambio del yo «inizia nella conoscenza» (DLV 11): quien conoce por la fe comienza a sentir, ver y juzgar desde Cristo.
+**La fe cambia la mentalidad.** «Cristo è entrato nel mondo in polémica col mondo» (Garofalo, DLV 10): la fe en Cristo no es una añadidura piadosa sino una **inversión radical del criterio**, una «mentalità diversa» que arrastra consigo una moralidad nueva. El cambio del yo «inizia nella conoscenza» (DLV 11): quien conoce por la fe comienza a sentir, ver y juzgar desde Cristo.
 
 **La mentalidad nueva como nuevo nacimiento.** La pertenencia a Cristo — por el Bautismo — genera la *nuova creatura* (2Cor 5,17): revestirse del hombre nuevo (Ef 4,23; Col 3,9-10) es asumir el criterio de Cristo sobre todo (DLV 05).
 
@@ -34,7 +34,7 @@ La **mentalidad** es, en Luigi Giussani, el conjunto de criterios con que el hom
 - **Mentalidad nueva** — el cuerpo de Cristo genera hombres con una mentalidad nueva y una nueva fecundidad (01, 87)
 - **Fe y mentalidad** — la fe abre a una «mentalità diversa y moralità diversa»; `fede in Dio è fede in Cristo` (10, 3-31)
 - **Criterio de la pertenencia** — el modo de sentir, ver y juzgar viene de aquello a lo que pertenecemos (16, 3-5)
-- **Polema de Cristo con el mundo** — «Cristo è entrato nel mondo in polemica col mondo» (Garofalo) (10, 3-31)
+- **Polema de Cristo con el mundo** — «Cristo è entrato nel mondo in polémica col mondo» (Garofalo) (10, 3-31)
 
 ## Distinciones importantes
 

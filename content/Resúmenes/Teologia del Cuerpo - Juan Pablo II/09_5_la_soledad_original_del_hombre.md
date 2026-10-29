@@ -4,7 +4,7 @@ title: "5. La soledad original del hombre"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 9
 timestamp: 2026-07-28
-description: "Catequesis 5: la soledad originaria (Gn 2,18) como problema antropológico fundamental y revelación de la subjetividad-persona — Teologia del Cuerpo - Juan Pablo II"
+description: "Catequesis 5: la soledad originaria (Gn 2,18) como problema antropológico fundamental y revelación de la subjetividad-persona — Teología del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 

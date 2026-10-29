@@ -40,4 +40,4 @@ En *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (verano de 2023), 
 
 ## Referencias
 
-- EAC-16, Ghezzi, Bert. «St. Benedict, Patron Saint», in *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute.
+- EAC-16, Ghezzi, Bert. «St. Benedict, Patrón Saint», in *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute.

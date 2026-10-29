@@ -23,7 +23,7 @@ Congar defendió una «verdadera reforma» de la Iglesia —reforma en continuid
 
 ### Según EAC-22 — Word on Fire Institute
 
-En *Peripheries* (23_peripheries_paone.md), Jason C. Paone presenta a Congar y a los restantes padres del ressourcement ([[henri_de_lubac]], Marie-Dominique Chenu, Jean Daniélou, el fundador de *Sources Chrétiennes* Victor Mondésert) como modelo de «coraje en el destierro»: marcados por las dos guerras mundiales, regresaron a las fuentes (Escritura y Padres) con optimismo y esperanza. Su teología nació en el clima anti-modernista posterior a *Pascendi* (Pío X, 1907), en el que la escolástica anti-moderna se había erigido en «tradición moderna». Congar aporta la tesis de la *verdadera y falsa reforma*: reformar para ser más fiel a la misión, no para romper con la tradición. El artículo concluye que el Vaticano II (Lumen Gentium, Dei Verbum) fue la vindicación de su valentía intelectual.
+En *Peripheries* (23_peripheries_paone.md), Jason C. Paone presenta a Congar y a los restantes padres del ressourcement ([[henri_de_lubac]], Marie-Dominique Chenu, Jean Daniélou, el fundador de *Sources Chrétiennes* Víctor Mondésert) como modelo de «coraje en el destierro»: marcados por las dos guerras mundiales, regresaron a las fuentes (Escritura y Padres) con optimismo y esperanza. Su teología nació en el clima anti-modernista posterior a *Pascendi* (Pío X, 1907), en el que la escolástica anti-moderna se había erigido en «tradición moderna». Congar aporta la tesis de la *verdadera y falsa reforma*: reformar para ser más fiel a la misión, no para romper con la tradición. El artículo concluye que el Vaticano II (Lumen Gentium, Dei Verbum) fue la vindicación de su valentía intelectual.
 
 ## Relaciones doctrinales
 

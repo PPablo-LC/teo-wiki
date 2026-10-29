@@ -21,18 +21,6 @@ La mentira es contraria a la octava palabra del Decálogo: "No darás falso test
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae (SmTh)
-
-La mentira (q.110) es el vicio directamente opuesto a la virtud de la verdad. Su esencia formal es la **voluntad de decir lo falso**, no la mera falsedad material ni siquiera la intención de engañar —aunque esta última sea su complemento habitual (q.110 a.1). Se opone directa y formalmente a la verdad (q.110 a.1).
-
-La división esencial de la mentira atiende a su oposición a la verdad: **jactancia** (por exceso, sobrepasando la verdad) e **ironía** (por defecto, quedándose corta) (q.110 a.2). Por razón de su culpabilidad según el fin, se divide en: **perniciosa** (con intención de dañar), **jocosa** (por diversión) y **oficiosa** (por utilidad) (q.110 a.2). Una división más completa, según San Agustín, reconoce ocho especies (q.110 a.2 ad 2).
-
-Toda mentira es **pecado** por su objeto intrínsecamente malo: las palabras son signos naturales de las ideas, y es antinatural significar con palabras lo que no se piensa (q.110 a.3). No es lícito mentir ni para salvar una vida, pues no se debe usar un medio desordenado para impedir un mal; sí es lícito ocultar prudentemente la verdad con cierto disimulo (q.110 a.3 ad 4).
-
-La mentira es **pecado mortal** cuando se opone a la caridad: por sí misma, si versa sobre cosas divinas (contra la fe y religión) o sobre materias cuyo conocimiento es necesario para el bien del prójimo; por el fin intentado, si se dice para injuriar a Dios o dañar al prójimo; ocasionalmente, por escándalo (q.110 a.4). La mentira jocosa y oficiosa no son de suyo mortales (q.110 a.4).
-
-[SmTh IIa-IIae q.110 a.1-4]
-
 ### Según el Catecismo (CEC)
 
 CEC §2475-2487: Trata extensamente la mentira en el contexto del [[octavo_mandamiento]].
@@ -44,6 +32,22 @@ CEC §2475-2487: Trata extensamente la mentira en el contexto del [[octavo_manda
 §2482: "Por su naturaleza misma, la mentira es intrínsecamente mala. Su fin es el engaño, realizado mediante una palabra contraria a la verdad".
 
 §2487: "Todo aquel que ha cometido una injusticia o que, por palabra o por hecho, ha dañado la fama de otro o causado cualquier otro daño material, está obligado a reparar, en la medida de lo posible, el daño causado".
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Mentira»] En el AT, la prohibición de la mentira surge en el contexto del falso testimonio (Ex 20,16) y se extiende a todo engaño (Os 4,2; Prov 12,22). La mentira por excelencia es la idolatría: desconocer al Dios verdadero para servir a ídolos falsos (Jer 10,1-16; Rom 1,25). En el NT, Jesús exige una lealtad total: «Sea vuestro lenguaje: sí, sí; no, no» (Mt 5,37). Pablo exhorta a despojarse de la mentira (Col 3,9s) porque los creyentes son miembros unos de otros (Ef 4,25). Satán es el «padre de la mentira» (Jn 8,44), y el anticristo es mentiroso por negar a Jesucristo (1Jn 2,22).
+
+### Según la Summa Theologiae (SmTh)
+
+La mentira (q.110) es el vicio directamente opuesto a la virtud de la verdad. Su esencia formal es la **voluntad de decir lo falso**, no la mera falsedad material ni siquiera la intención de engañar —aunque esta última sea su complemento habitual (q.110 a.1). Se opone directa y formalmente a la verdad (q.110 a.1).
+
+La división esencial de la mentira atiende a su oposición a la verdad: **jactancia** (por exceso, sobrepasando la verdad) e **ironía** (por defecto, quedándose corta) (q.110 a.2). Por razón de su culpabilidad según el fin, se divide en: **perniciosa** (con intención de dañar), **jocosa** (por diversión) y **oficiosa** (por utilidad) (q.110 a.2). Una división más completa, según San Agustín, reconoce ocho especies (q.110 a.2 ad 2).
+
+Toda mentira es **pecado** por su objeto intrínsecamente malo: las palabras son signos naturales de las ideas, y es antinatural significar con palabras lo que no se piensa (q.110 a.3). No es lícito mentir ni para salvar una vida, pues no se debe usar un medio desordenado para impedir un mal; sí es lícito ocultar prudentemente la verdad con cierto disimulo (q.110 a.3 ad 4).
+
+La mentira es **pecado mortal** cuando se opone a la caridad: por sí misma, si versa sobre cosas divinas (contra la fe y religión) o sobre materias cuyo conocimiento es necesario para el bien del prójimo; por el fin intentado, si se dice para injuriar a Dios o dañar al prójimo; ocasionalmente, por escándalo (q.110 a.4). La mentira jocosa y oficiosa no son de suyo mortales (q.110 a.4).
+
+[SmTh IIa-IIae q.110 a.1-4]
 
 ### Según Royo Marín (TPCr)
 
@@ -58,11 +62,7 @@ La mentira es pecado mortal por su materia cuando causa un daño grave a la just
 
 JvC dedica una sección a «¿Vale la pena mentir?». Los jóvenes mienten por miedo, cobardía, envidia, vanidad o fidelidad mal entendida. «Tarde o temprano sale al fin el embuste, y entonces se pierde sin remedio la confianza en el joven» [JvC, Cap. III]. La mentira obliga a mantenerla con otras mentiras: «ha de alimentar una mentira con otra si quiere mantenerlas en pie» [JvC, Cap. III]. El mentiroso pierde el honor: «Dios quiso que la mentira fuese difícil al hombre. Por eso lo creó de manera que, en principio, se ruborice al mentir» [JvC, Cap. III]. Cita Pr 12,22: «Abomina Dios los labios mentirosos», y St 3,2: «El que no tropieza en palabras es varón perfecto».
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Mentira»] En el AT, la prohibición de la mentira surge en el contexto del falso testimonio (Ex 20,16) y se extiende a todo engaño (Os 4,2; Prov 12,22). La mentira por excelencia es la idolatría: desconocer al Dios verdadero para servir a ídolos falsos (Jer 10,1-16; Rom 1,25). En el NT, Jesús exige una lealtad total: «Sea vuestro lenguaje: sí, sí; no, no» (Mt 5,37). Pablo exhorta a despojarse de la mentira (Col 3,9s) porque los creyentes son miembros unos de otros (Ef 4,25). Satán es el «padre de la mentira» (Jn 8,44), y el anticristo es mentiroso por negar a Jesucristo (1Jn 2,22).
-
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 El octavo mandamiento parte de la falsa testimonianza en el tribunal, «esa
 mentira con la que se intenta golpear al inocente sirviéndose precisamente de

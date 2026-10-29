@@ -4,7 +4,7 @@ title: "Haley Stewart — Enseñar a tus hijos a amar los Evangelios"
 fuente: Scriptures_Virtual_Summit
 capítulo: "Matt Nelson w_ Haley Stewart - Teaching Your Kids to Love the Gospels"
 timestamp: 2026-09-07
-description: "Haley Stewart comparte estrategias prácticas para que las familias amen los Evangelios: lectura diaria en el desayuno, uso de la Biblia real, aprendizaje visual, no sanitarizar la Pasión y el propio hábito de lectura de los padres"
+description: "Haley Stewart comparte estrategias prácticas para que las familias amén los Evangelios: lectura diaria en el desayuno, uso de la Biblia real, aprendizaje visual, no sanitarizar la Pasión y el propio hábito de lectura de los padres"
 tags: ["resumen", "educación_cristiana", "sagrada_escritura", "familia", "liturgia"]
 ---
 
@@ -34,7 +34,7 @@ Matt Nelson (Word on Fire Institute) entrevista a Haley Stewart. Haley fue criad
 - Complementar con libros ilustrados y recursos.
 
 ## Recursos recomendados
-- Biblias infantiles: **St. Mary's Press** y **St. Luke Life of Jesus** (Ignatius Press) — este último conserva buen texto siendo accesible.
+- Biblias infantiles: **St. Mary's Press** y **St. Luke Life of Jesús** (Ignatius Press) — este último conserva buen texto siendo accesible.
 - Tommy DePaola, historias bíblicas ilustradas.
 - **«The Donkey's Dream»** de Barbara Berger — sobre María y José, «lleno de hermosa teología e imágenes».
 - *Cautionary Tales* de Hilaire Belloc.

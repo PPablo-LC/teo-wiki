@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "III. Epílogo"
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 12
 timestamp: 2026-09-05
 description: "Epílogo del Informe 1941-2019: reconocimiento y petición de perdón, propuestas para el Capítulo General, Anexo I sobre la nueva cultura del cuidado y protección del menor, y Anexo II de gráficos."

@@ -5,7 +5,7 @@ description: "El acto de abandono total y confiado en la voluntad de Dios, entre
 ---
 # Surrender espiritual
 
-> Area: Ascética y Mistica
+> Área: Ascética y Mística
 > Ultima actualización: 2026-06-03
 
 ## Definición
@@ -14,7 +14,7 @@ El acto de abandono total y confiado en la voluntad de Dios, entregando a El el 
 
 ## Desarrollo doctrinal
 
-El surrender espiritual (entrega o abandono) es un elemento clásico de la espiritualidad católica, conocido tradicionalmente como abandono en la divina Providencia o santa indiferencia. Fue desarrollado particularmente por san Francisco de Sales, san Juan de la Cruz, el padre de Caussade y santa Teresa de Lisieux. Consiste en renunciar a la propia voluntad para hacer unicamente la voluntad de Dios, aceptando con paz todo lo que El dispone. No es pasividad sino confianza activa. Es distinto del fatalismo (resignación sin esperanza) porque se funda en el amor filial a Dios Padre y en la certeza de que El dispone todas las cosas para el bien de los que le aman (Rm 8,28).
+El surrender espiritual (entrega o abandono) es un elemento clásico de la espiritualidad católica, conocido tradicionalmente como abandono en la divina Providencia o santa indiferencia. Fue desarrollado particularmente por san Francisco de Sales, san Juan de la Cruz, el padre de Caussade y santa Teresa de Lisieux. Consiste en renunciar a la propia voluntad para hacer únicamente la voluntad de Dios, aceptando con paz todo lo que El dispone. No es pasividad sino confianza activa. Es distinto del fatalismo (resignación sin esperanza) porque se funda en el amor filial a Dios Padre y en la certeza de que El dispone todas las cosas para el bien de los que le aman (Rm 8,28).
 
 ## Perspectivas por fuente
 
@@ -26,14 +26,14 @@ Royo Marin trata el abandono en la divina Providencia como una disposición esen
 
 > **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-- Brian Cochran (my_personal_emmaus.md) desarrolla el surrender espiritual como respuesta a la adicción y al desorden interior, conectandolo con el primer mandamiento y la renuncia a la idolatria del trabajo.
+- Brian Cochran (my_personal_emmaus.md) desarrolla el surrender espiritual como respuesta a la adicción y al desorden interior, conectandolo con el primer mandamiento y la renuncia a la idolatría del trabajo.
 - Christian Bobak (men_of_integrity.md) aborda el surrender como abandono de la agenda personal para recibir la misión de Dios.
 
 ## Distinciones importantes
 
 - Surrender espiritual vs fatalismo (el primero fundado en el amor filial, el segundo en la desesperanza)
 - Abandono activo (confianza operante) vs quietismo (pasividad errónea)
-- Abandono en cosas grandes vs abandono en las pequenas circunstancias cotidianas
+- Abandono en cosas grandes vs abandono en las pequeñas circunstancias cotidianas
 
 ## Relaciones doctrinales
 

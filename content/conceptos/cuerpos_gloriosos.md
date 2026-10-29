@@ -23,23 +23,23 @@ La causa de todas las dotes es la misma: el alma glorificada por la visión beat
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás dedica a las cualidades de los cuerpos gloriosos las cuestiones q.80 a q.85 del Suplemento, más la q.79 (condición general de edad y estatura).
-
-Los cuerpos gloriosos serán **impasibles** (q.80 a.1): no padecerán pasión de naturaleza alguna, pues el cese del movimiento celeste y la sumisión plena al espíritu excluyen toda alteración que pueda dañarlos. Sin embargo, conservan la pasión del alma: recibirán las impresiones sensibles de modo espiritual, y los sentidos obrarán perfectamente sin detrimento.
-
-Serán **sutiles** (q.81 a.1): plenamente sumisos al espíritu, de modo que el cuerpo no ofrece resistencia al alma. La capacidad de penetrar otros cuerpos no es consecuencia necesaria de la sutileza, sino que requiere un milagro divino. Incluso el cuerpo de Cristo resucitado necesitó milagro para entrar con las puertas cerradas (Jn 20,19).
-
-Serán **ágiles** (q.82 a.1): capaces de moverse con la velocidad del pensamiento, sin impedimento material. Esta agilidad proviene de la plena sumisión de la materia al espíritu, de modo que el cuerpo obedece instantáneamente al alma en todo movimiento local.
-
-Serán **claros** o luminosos (q.85 a.1): resplandecerán con la claridad que redunda de la gloria del alma. Esta claridad será visible al ojo no glorificado (q.85 a.2), pues la luz de gloria no daña la vista sino que la deleita. Sin embargo, el resplandor estará sometido a la voluntad del bienaventurado, que puede mostrarlo u ocultarlo (q.85 a.3).
-
-En cuanto a la **condición** de los cuerpos resucitados, Santo Tomás enseña que todos resucitarán en la edad perfecta, es decir, en la juventud (alrededor de los treinta años), según la estatura que alcanzaron o habrían alcanzado en la madurez (q.79 a.1-2).
-
 ### Según el Catecismo (CEC)
 
 El CEC §999-1001 afirma que en la resurrección «los cuerpos de los que hayan hecho el bien resucitarán para la vida, los de los que hayan hecho el mal para la condenación» (Jn 5,29). Cristo resucitado es el principio y la prenda de nuestra resurrección (§991-994). El cuerpo resucitado será un «cuerpo espiritual» (1 Co 15,44), transformado a imagen del cuerpo glorioso de Cristo (§999).
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica a las cualidades de los cuerpos gloriosos las cuestiones q.82 a q.85 del Suplemento, más la q.81 (condición general de edad, estatura y sexo).
+
+Los cuerpos gloriosos serán **impasibles** (q.82 a.1): no padecerán pasión de naturaleza alguna, pues el cese del movimiento celeste y la sumisión plena al espíritu excluyen toda alteración que pueda dañarlos. Sin embargo, conservan la pasión del alma: recibirán las impresiones sensibles de modo espiritual, y los sentidos obrarán perfectamente sin detrimento.
+
+Serán **sutiles** (q.83 a.1): plenamente sumisos al espíritu, de modo que el cuerpo no ofrece resistencia al alma. La capacidad de penetrar otros cuerpos no es consecuencia necesaria de la sutileza, sino que requiere un milagro divino. Incluso el cuerpo de Cristo resucitado necesitó milagro para entrar con las puertas cerradas (Jn 20,19).
+
+Serán **ágiles** (q.84 a.1): capaces de moverse con la velocidad del pensamiento, sin impedimento material. Esta agilidad proviene de la plena sumisión de la materia al espíritu, de modo que el cuerpo obedece instantáneamente al alma en todo movimiento local.
+
+Serán **claros** o luminosos (q.85 a.1): resplandecerán con la claridad que redunda de la gloria del alma. Esta claridad será visible al ojo no glorificado (q.85 a.2), pues la luz de gloria no daña la vista sino que la deleita. Sin embargo, el resplandor estará sometido a la voluntad del bienaventurado, que puede mostrarlo u ocultarlo (q.85 a.3).
+
+En cuanto a la **condición** de los cuerpos resucitados, Santo Tomás enseña que todos resucitarán en la edad perfecta, es decir, en la juventud (alrededor de los treinta años), según la estatura que alcanzaron o habrían alcanzado en la madurez (q.81 a.1-2).
 
 ### Según Royo Marín (TPCr)
 
@@ -61,7 +61,7 @@ Se relaciona con [[resurrección_de_los_muertos]], [[resurrección_de_la_carne]]
 
 ## Referencias
 
-- [SmTh, Suppl. q.79-85]
+- [SmTh, Suppl. q.81-85]
 - [CEC §991-1001, §999]
 - [TPCr, Cuarta Parte, Cap. II]
 - [1 Co 15,35-58]

@@ -48,7 +48,7 @@ Royo Marín desarrolla ampliamente la doctrina de la expiación. El pecado deseq
 [TPCr, Tercera Parte, Libro I, Cap. 5, Art. 2]
 
 
-### Según Antonio Maria Sicari — *Il dono della confessione* (IDC)
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 La expiación, en Sicari, es el corazón del sacramento: Jesús «se cargó con
 todas nuestras culpas y sostuvo su peso y su sufrimiento —un peso y un

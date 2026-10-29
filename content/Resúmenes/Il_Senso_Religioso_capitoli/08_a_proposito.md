@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "A proposito"
+title: "A propósito"
 fuente: Il_Senso_Religioso_capitoli
 capítulo: 8
 timestamp: 2026-09-12
-description: "Resumen de 'A proposito' — Il_Senso_Religioso_capitoli"
+description: "Resumen de 'A propósito' — Il_Senso_Religioso_capitoli"
 tags: ["resumen", "il senso religioso capitoli"]
 ---
 
-# A proposito
+# A propósito
 
 ## Conceptos básicos referenciados
 

@@ -22,6 +22,10 @@ No todas las enseñanzas del magisterio tienen el mismo grado de autoridad. El C
 
 ## Perspectivas por fuente
 
+### Código de Derecho Canónico (CIC)
+
+- **c. 749**: El magisterio infalible se extiende a las verdades divinamente reveladas.
+- **c. 750**: Las verdades que deben ser sostenidas con asentimiento firme.
 ### Donum Veritatis (Congregación para la Doctrina de la Fe)
 
 - **nn. 11-12**: Las tres categorías de verdades y los correspondientes niveles de asentimiento.
@@ -34,10 +38,6 @@ El autor presenta las tres categorías como:
 2. Sententia definitive tenenda: verdades vinculantes aunque no formalmente reveladas.
 3. Enseñanzas auténticas del magisterio ordinario: asentimiento religioso.
 
-### Código de Derecho Canónico (CIC)
-
-- **c. 749**: El magisterio infalible se extiende a las verdades divinamente reveladas.
-- **c. 750**: Las verdades que deben ser sostenidas con asentimiento firme.
 
 ## Distinciones importantes
 

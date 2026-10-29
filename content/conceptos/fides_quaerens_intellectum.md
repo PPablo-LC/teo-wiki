@@ -22,6 +22,9 @@ La fe cristiana no es un acto ciego o irracional, sino que busca comprender sus 
 
 ## Perspectivas por fuente
 
+### Santo Tomás de Aquino
+
+- **Summa Theologiae, I, q. 1, a. 5**: La teología es ciencia que parte de principios de la fe.
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta esta fórmula como:
@@ -35,9 +38,6 @@ El autor presenta esta fórmula como:
 
 - **Proslogion, cap. 1-2**: "Credo ut intelligam" — creo para entender.
 
-### Santo Tomás de Aquino
-
-- **Summa Theologiae, I, q. 1, a. 5**: La teología es ciencia que parte de principios de la fe.
 
 ## Distinciones importantes
 

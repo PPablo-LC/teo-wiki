@@ -21,6 +21,13 @@ Solo el sacerdote ordenado tiene la potestad de consagrar la eucaristía, recibi
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Solo los sacerdotes válidamente ordenados pueden presidir la Eucaristía y consagrar el pan y el vino (CEC §1411). El ministro de la Eucaristía es el sacerdote ordenado, que actúa en la persona de Cristo Cabeza (CEC §1348).
+
+### Según el Código de Derecho Canónico (CIC)
+
+Solo el sacerdote válidamente ordenado es ministro capaz de confeccionar el sacramento de la Eucaristía (c. 900 §1). Todo sacerdote, aunque sea indigno, celebra válidamente (c. 900 §2). Los sacerdotes pueden concelebrar (c. 902). Los ministros de la sagrada comunión son el obispo, el presbítero y el diácono como ordinarios; el acólito u otro fiel como extraordinarios (c. 910).
 ### Según la Summa Theologiae (SmTh)
 
 #### IIIª q.82 — El ministro de este sacramento
@@ -45,13 +52,6 @@ Solo el sacerdote ordenado tiene la potestad de consagrar la eucaristía, recibi
 
 **a.10 — No es lícito abstenerse por completo de consagrar:** Cada cual debe usar la gracia recibida cuando la oportunidad lo requiere, y la oportunidad del sacrificio no se mide solo por la utilidad de los fieles, sino principalmente por el honor de Dios. (SmTh IIIa q.82 a.10)
 
-### Según el Catecismo (CEC)
-
-Solo los sacerdotes válidamente ordenados pueden presidir la Eucaristía y consagrar el pan y el vino (CEC §1411). El ministro de la Eucaristía es el sacerdote ordenado, que actúa en la persona de Cristo Cabeza (CEC §1348).
-
-### Según el Código de Derecho Canónico (CIC)
-
-Solo el sacerdote válidamente ordenado es ministro capaz de confeccionar el sacramento de la Eucaristía (c. 900 §1). Todo sacerdote, aunque sea indigno, celebra válidamente (c. 900 §2). Los sacerdotes pueden concelebrar (c. 902). Los ministros de la sagrada comunión son el obispo, el presbítero y el diácono como ordinarios; el acólito u otro fiel como extraordinarios (c. 910).
 
 ## Distinciones importantes
 

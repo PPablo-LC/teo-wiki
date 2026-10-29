@@ -2,20 +2,20 @@
 type: Concepto Teológico
 title: Vulnerabilidad
 timestamp: 2026-06-10
-description: "La condición del ser humano que, por su naturaleza creada y caída, es susceptible de ser herido, tentado o danado en los ámbitos fisico, psíquico y espiritual."
+description: "La condición del ser humano que, por su naturaleza creada y caída, es susceptible de ser herido, tentado o dañado en los ámbitos físico, psíquico y espiritual."
 ---
 # Vulnerabilidad
 
-> Area: Moral
+> Área: Moral
 > Última actualización: 2026-06-10
 
 ## Definición
 
-La condición del ser humano que, por su naturaleza creada y caída, es susceptible de ser herido, tentado o danado en los ámbitos fisico, psíquico y espiritual. En la tradición cristiana, la vulnerabilidad no es solo una limitación sino también un lugar de encuentro con la gracia divina.
+La condición del ser humano que, por su naturaleza creada y caída, es susceptible de ser herido, tentado o dañado en los ámbitos físico, psíquico y espiritual. En la tradición cristiana, la vulnerabilidad no es solo una limitación sino también un lugar de encuentro con la gracia divina.
 
 ## Desarrollo doctrinal
 
-La vulnerabilidad humana es consecuencia de la condición de criatura (contingencia) y del pecado original (herida en la naturaleza). Sin embargo, la tradición cristiana no ve la vulnerabilidad solo negativamente: Cristo asume la vulnerabilidad humana en la Encarnación (Flp 2,6-8) y la redime. La virtud de la humildad reconoce la propia vulnerabilidad y la pone en manos de Dios. San Pablo se gloría en sus debilidades porque cuando es debil, entonces es fuerte (2 Cor 12,9-10). La vulnerabilidad bien entendida es el fundamento de la confianza en Dios y de la solidaridad fraterna.
+La vulnerabilidad humana es consecuencia de la condición de criatura (contingencia) y del pecado original (herida en la naturaleza). Sin embargo, la tradición cristiana no ve la vulnerabilidad solo negativamente: Cristo asume la vulnerabilidad humana en la Encarnación (Flp 2,6-8) y la redime. La virtud de la humildad reconoce la propia vulnerabilidad y la pone en manos de Dios. San Pablo se gloría en sus debilidades porque cuando es débil, entonces es fuerte (2 Cor 12,9-10). La vulnerabilidad bien entendida es el fundamento de la confianza en Dios y de la solidaridad fraterna.
 
 ## Perspectivas por fuente
 

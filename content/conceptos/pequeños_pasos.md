@@ -1,20 +1,20 @@
 ---
 type: Concepto Teológico
-title: Pequenos pasos
-description: "Principio ascético que propone la progresión gradual en la vida espiritual mediante actos pequenos pero constantes de fidelidad, renuncia y amor a Dios."
+title: Pequeños pasos
+description: "Principio ascético que propone la progresión gradual en la vida espiritual mediante actos pequeños pero constantes de fidelidad, renuncia y amor a Dios."
 ---
-# Pequenos pasos
+# Pequeños pasos
 
-> Area: Ascética
+> Área: Ascética
 > Ultima actualización: 2026-06-03
 
 ## Definición
 
-Principio ascético que propone la progresión gradual en la vida espiritual mediante actos pequenos pero constantes de fidelidad, renuncia y amor a Dios, evitando el maximalismo que lleva a la desesperación o al abandono.
+Principio ascético que propone la progresión gradual en la vida espiritual mediante actos pequeños pero constantes de fidelidad, renuncia y amor a Dios, evitando el maximalismo que lleva a la desesperación o al abandono.
 
 ## Desarrollo doctrinal
 
-El principio de los pequenos pasos (también llamado via de la infancia espiritual o «p equena via») fue desarrollado especialmente por santa Teresa de Lisieux. Consiste en aprovechar las pequenas ocasiones cotidianas para practicar las virtudes, hacer actos de amor a Dios y mortificarse. Se opone al activismo que busca grandes obras y al desaliento que nace de la propia debilidad. La tradición ascética recomienda empezar por pequenos propósitos concretos y realistas, creciendo gradualmente en la virtud. No es comodidad sino fidelidad en lo pequeno, que dispone para lo grande.
+El principio de los pequeños pasos (también llamado via de la infancia espiritual o «p equena via») fue desarrollado especialmente por santa Teresa de Lisieux. Consiste en aprovechar las pequeñas ocasiones cotidianas para practicar las virtudes, hacer actos de amor a Dios y mortificarse. Se opone al activismo que busca grandes obras y al desaliento que nace de la propia debilidad. La tradición ascética recomienda empezar por pequeños propósitos concretos y realistas, creciendo gradualmente en la virtud. No es comodidad sino fidelidad en lo pequeño, que dispone para lo grande.
 
 ## Perspectivas por fuente
 
@@ -26,12 +26,12 @@ Royo Marin expone que la perfección cristiana no requiere necesariamente grande
 
 > **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-- John Wissler (leading_with_charity.md) aplica el principio de los pequenos pasos al liderazgo militar y al servicio: la excelencia se construye con pequenas acciones de servicio y caridad constantes.
-- Adam Farber (fortitude_through_excellence_in_patience.md) conecta los pequenos pasos con la paciencia sobrenatural y la perseverancia en la vida espiritual.
+- John Wissler (leading_with_charity.md) aplica el principio de los pequeños pasos al liderazgo militar y al servicio: la excelencia se construye con pequeñas acciones de servicio y caridad constantes.
+- Adam Farber (fortitude_through_excellence_in_patience.md) conecta los pequeños pasos con la paciencia sobrenatural y la perseverancia en la vida espiritual.
 
 ## Distinciones importantes
 
-- Pequenos pasos (fidelidad en lo pequeno) vs. minimalismo espiritual (buscar el minimo esfuerzo)
+- Pequeños pasos (fidelidad en lo pequeño) vs. minimalismo espiritual (buscar el mínimo esfuerzo)
 - Infancia espiritual (Teresa de Lisieux) vs espiritualidad de grandes empresas
 - Propósitos concretos realizables vs propósitos vagos o imposibles
 

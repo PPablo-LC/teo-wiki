@@ -23,7 +23,7 @@ Clemmons es un especialista en la patrística latina, con foco en Agustín de Hi
 
 ### Según EAC-18 — Word on Fire Institute
 
-**Dr. Thomas Clemmons** («Minds: The Conversion of St. Augustine», 10_minds.md) desarrolla:
+**Dr. Thomas Clemmons** («Minds: The Conversión of St. Augustine», 10_minds.md) desarrolla:
 
 - **La primera chispa: el *Hortensio* de Cicerón**: la lectura del *Hortensio* a los diecinueve años fue un «relámpago»; al recordarlo en el huerto milanés, Agustín ve esa lectura del pagano Cicerón como un acto de la gracia de Dios.
 - **La continencia**: más que abstenerse del sexo, implica refrenarse en todas las acciones. Agustín parece haber perseguido la continencia sin el cristianismo. La idea de los beneficios sociales del matrimonio obstruyó, mediante la demora, su completa conversión al cristianismo.
@@ -40,4 +40,4 @@ El artículo cierra con la cita de [[c_s_lewis]]: «Toda historia de conversión
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Thomas Clemmons, 10_minds.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Thomas Clemmons, 10_minds.md).

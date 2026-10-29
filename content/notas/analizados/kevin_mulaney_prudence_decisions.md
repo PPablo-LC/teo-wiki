@@ -37,14 +37,14 @@ Conferencia del oficial de submarinos Kevin Mulaney en la Catholic Men's Confere
 - **Reformulación de la prudencia como «toma de decisiones» desde la psicología organizacional**: la referencia a Gary Klein (*Sources of Power: How People Make Decisions*, 1998) y a la teoría de la decisión naturalística es una aplicación moderna de la virtud clásica. No está en la base doctrinal.
 - **Tres elementos de la buena decisión (awareness situacional, conocimiento de acciones correctas, reflexión/análisis)**: tripartición que podría añadirse a [[virtud_de_la_prudencia#desarrollo-doctrinal]] como aplicación contemporánea.
 - **La analogía del «vivir como si Dios existiera» (al estilo de «vivir como si la gravedad existiera»)**: parábola útil para la apologética. Convergente con [[apologética]].
-- **«Manifest belief» de Jordan Peterson**: la idea de que la fe debe traducirse en vida concreta. Convergente con la doctrina del [[seguimiento_de_cristo]].
+- **«Manifest belief» de Jordán Peterson**: la idea de que la fe debe traducirse en vida concreta. Convergente con la doctrina del [[seguimiento_de_cristo]].
 - **Cultura del «strong backup» en los submarinos**: ejemplo militar de [[corrección_fraterna]] y de la cultura de la mejora continua. Convergente.
 - **«Modelos mentales compartidos» de Disney y Chick-fil-A**: ejemplo empresarial de cómo una cultura común permite la decisión individual. Convergente con la doctrina de la [[comunión]] eclesial.
 - **«All models are wrong but some are useful» (George Box)**: aforismo epistemológico aplicable a la [[humildad]] intelectual.
 
 ### Tensiones o divergencias
 
-No se detectan tensiones con la doctrina católica. La charla es plenamente fiel. La referencia a Jordan Peterson y a Gary Klein (autores no católicos) se hace en diálogo respetuoso con la psicología y la filosofía contemporáneas. La aplicación del término «prudencia» a la toma de decisiones empresariales no contradice la doctrina clásica: la prudencia es, en efecto, la recta razón aplicada a la acción, y la decisión empresarial es un caso particular de acción.
+No se detectan tensiones con la doctrina católica. La charla es plenamente fiel. La referencia a Jordán Peterson y a Gary Klein (autores no católicos) se hace en diálogo respetuoso con la psicología y la filosofía contemporáneas. La aplicación del término «prudencia» a la toma de decisiones empresariales no contradice la doctrina clásica: la prudencia es, en efecto, la recta razón aplicada a la acción, y la decisión empresarial es un caso particular de acción.
 
 ## Ver también
 

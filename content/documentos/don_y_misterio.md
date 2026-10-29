@@ -7,7 +7,7 @@ description: "*Don y Misterio* es un libro autobiográfico de [[juan_pablo_ii]] 
 
 > Tipo: Libro autobiográfico
 > Autor: [[juan_pablo_ii]]
-> Año: 1996 (Libreria Editrice Vaticana)
+> Año: 1996 (Librería Editrice Vaticana)
 > Código: **DyM**
 
 ## Identificación

@@ -4,7 +4,7 @@ title: "(JESUCRISTO: VERDADERO HOMBRE)"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 13
 timestamp: 2026-08-12
-description: "Resumen de '(JESUCRISTO: VERDADERO HOMBRE)' — Catequesis sobre Jesus SS Juan Pablo II"
+description: "Resumen de '(JESUCRISTO: VERDADERO HOMBRE)' — Catequesis sobre Jesús SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
 

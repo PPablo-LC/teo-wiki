@@ -21,12 +21,6 @@ La reconciliación implica el perdón recíproco, que no debe anular las exigenc
 
 ## Perspectivas por fuente
 
-### Según la Dives in Misericordia (DM)
-
-La reconciliación con Dios es fruto de la misericordia divina manifestada en Cristo. El sacramento de la penitencia es «el que allana el camino a cada uno, incluso cuando se siente bajo el peso de grandes culpas» [DM §13]. La Iglesia considera propio deber «custodiar la autenticidad del perdón», condición fundamental de la reconciliación «no solo en la relación de Dios con el hombre, sino también en las recíprocas relaciones entre los hombres» [DM §14].
-
-El perdón como condición de la reconciliación atestigua «que en el mundo está presente el amor más fuerte que el pecado» [DM §14]. Un mundo sin perdón sería solo «un mundo de justicia fría e irrespetuosa» donde los egoísmos transformarían la convivencia en «un sistema de opresión de los más débiles por parte de los más fuertes» [DM §14].
-
 ### Según el Compendio (CompDS)
 
 La Iglesia enseña que una verdadera paz es posible solo mediante el perdón y la reconciliación [CompDS §517]. No es fácil perdonar a la vista de las consecuencias de la guerra y de los conflictos, porque la violencia deja siempre como herencia una pesada carga de dolor, que solo puede aliviarse mediante una reflexión profunda, leal, valiente y común entre los contendientes, capaz de afrontar las dificultades del presente con una actitud purificada por el arrepentimiento [CompDS §517].
@@ -34,6 +28,15 @@ La Iglesia enseña que una verdadera paz es posible solo mediante el perdón y l
 El perdón recíproco no debe anular las exigencias de la justicia, ni mucho menos impedir el camino que conduce a la verdad: justicia y verdad representan, en cambio, los requisitos concretos de la reconciliación [CompDS §518]. Es necesario ir más allá de la determinación de los comportamientos delictivos y de las decisiones sobre los procedimientos de reparación, para llegar al restablecimiento de relaciones de recíproco entendimiento entre los pueblos divididos, en nombre de la reconciliación [CompDS §518].
 
 La reconciliación con el Padre se realiza mediante la misión apostólica confiada por Jesús a sus discípulos y comienza con un anuncio de paz: «En la casa en que entréis, decid primero: “Paz a esta casa”» (Lc 10,5-6) [CompDS §492]. Jesús crucificado ha anulado la división, instaurando la paz y la reconciliación precisamente «por medio de la cruz, dando en sí mismo muerte a la Enemistad» (Ef 2,16) [CompDS §493].
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Reconciliación» del VocTeoBib muestra que Dios preparó la reconciliación en el AT ofreciendo su perdón (Ex 34,6; Sal 85,4; Os 2,16-22). La reconciliación perfecta fue realizada por Cristo, «mediador entre Dios y los hombres» (1Tim 2,5). Pablo es su teólogo inspirado: «Dios nos reconcilió consigo por Cristo» (2Cor 5,18), no imputando sus faltas y haciendo una nueva creación (2Cor 5,17). Los efectos de la reconciliación coinciden con la justificación y la santificación (Rom 5,9s; Col 1,21s). El «ministerio de la reconciliación» (2Cor 5,18) define la actividad apostólica. Cristo derribó el muro que separaba a judíos y gentiles (Ef 2,14-16), reconciliando a todos en un solo cuerpo.
+### Según la Dives in Misericordia (DM)
+
+La reconciliación con Dios es fruto de la misericordia divina manifestada en Cristo. El sacramento de la penitencia es «el que allana el camino a cada uno, incluso cuando se siente bajo el peso de grandes culpas» [DM §13]. La Iglesia considera propio deber «custodiar la autenticidad del perdón», condición fundamental de la reconciliación «no solo en la relación de Dios con el hombre, sino también en las recíprocas relaciones entre los hombres» [DM §14].
+
+El perdón como condición de la reconciliación atestigua «que en el mundo está presente el amor más fuerte que el pecado» [DM §14]. Un mundo sin perdón sería solo «un mundo de justicia fría e irrespetuosa» donde los egoísmos transformarían la convivencia en «un sistema de opresión de los más débiles por parte de los más fuertes» [DM §14].
 
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
@@ -59,9 +62,6 @@ Juan Pablo II testimonia su oración pidiendo perdón. La integración en el gri
 
 Juan Pablo II vincula el sacramento de la Penitencia con la misión conferida por Cristo resucitado a los Apóstoles: «A quienes remitiereis los pecados, les son remitidos; y a quienes los retuviereis, les son retenidos» (Jn 20,22-23). Este poder de perdonar los pecados es un don del Espíritu Santo y constituye la base del sacramento de la Reconciliación. La reconciliación brota del perdón de Cristo desde la Cruz: «Padre, perdónalos, porque no saben lo que hacen» (Lc 23,34). Cristo es el [[cordero_de_dios]] que quita el pecado del mundo, y su sangre derramada es la fuente del perdón y la reconciliación del hombre con Dios (CJeS, segunda parte: salvación como liberación del pecado; cuarta parte: palabras de Cristo en la Cruz).
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La entrada «Reconciliación» del VocTeoBib muestra que Dios preparó la reconciliación en el AT ofreciendo su perdón (Ex 34,6; Sal 85,4; Os 2,16-22). La reconciliación perfecta fue realizada por Cristo, «mediador entre Dios y los hombres» (1Tim 2,5). Pablo es su teólogo inspirado: «Dios nos reconcilió consigo por Cristo» (2Cor 5,18), no imputando sus faltas y haciendo una nueva creación (2Cor 5,17). Los efectos de la reconciliación coinciden con la justificación y la santificación (Rom 5,9s; Col 1,21s). El «ministerio de la reconciliación» (2Cor 5,18) define la actividad apostólica. Cristo derribó el muro que separaba a judíos y gentiles (Ef 2,14-16), reconciliando a todos en un solo cuerpo.
 
 ## Relaciones doctrinales
 

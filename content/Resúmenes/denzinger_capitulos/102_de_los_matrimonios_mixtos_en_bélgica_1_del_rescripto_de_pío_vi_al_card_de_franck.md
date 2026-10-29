@@ -27,7 +27,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## CLEMENTE XIII, 1758-1769 CLEMENTE XIV, 1769-1774 PIO VI, 1775-1799
+## CLEMENTE XIII, 1758-1769 CLEMENTE XIV, 1769-1774 PÍO VI, 1775-1799
 
 ## De los matrimonios mixtos en Bélgica (1) [Del rescripto de Pío VI al Card. de Franckenberg, arzobispo de Malinas, y a los obispos de Bélgica, de 13 de julio de1782]
 
@@ -195,7 +195,7 @@ De las censuras [De poenit. §§ 20 y 22]
 
 ## Secciones incluidas
 
-## CLEMENTE XIII, 1758-1769 CLEMENTE XIV, 1769-1774 PIO VI, 1775-1799
+## CLEMENTE XIII, 1758-1769 CLEMENTE XIV, 1769-1774 PÍO VI, 1775-1799
 
 Contexto de los pontificados correspondientes.
 

@@ -24,6 +24,10 @@ El CIC establece el fundamento de la justicia penal en la Iglesia. La Iglesia ti
 ### Según el Compendio (CompDS)
 
 La justicia es un valor que acompaña al ejercicio de la virtud moral cardinal [CompDS §201]. Según su formulación clásica, «consiste en la constante y firme voluntad de dar a Dios y al prójimo lo que les es debido» [CompDS §201]. El Magisterio social invoca el respeto de las formas clásicas de justicia: conmutativa, distributiva y legal [CompDS §201]. La justicia social ha adquirido un relieve cada vez mayor, como desarrollo de la justicia general [CompDS §201]. La justicia no es una simple convención humana: lo «justo» no está determinado originariamente por la ley, sino por la identidad profunda del ser humano [CompDS §202]. Por sí sola la justicia no basta: puede llegar a negarse a sí misma si no se abre al amor [CompDS §203].
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Justicia»] En el AT la justicia designa tanto la virtud moral de observar la ley como la fidelidad de Dios a su alianza. Dios se muestra justo liberando a los oprimidos (Sal 103,6) y castigando el pecado (Dt 32,4). En el NT, Jesús llama a una justicia superior a la de los fariseos (Mt 5,20). San Pablo desarrolla la justicia de Dios como don gratuito que se recibe por la fe en Cristo (Rom 3,21-26), distinta de la justicia por las obras de la ley (Gal 2,16). Así la justicia divina coincide en última instancia con la misericordia: Dios justifica al pecador por pura gracia.
+
 ### Según la Summa Theologiae (SmTh)
 
 La justicia es la virtud que reside en la voluntad, por la que se da a cada uno su derecho con voluntad constante y perpetua (q.58 a.1). Su objeto es el derecho (q.57 a.1). Se divide en justicia legal (al bien común), distributiva (comunidad a personas según dignidad) y conmutativa (entre personas según igualdad aritmética) (q.58 a.5-7; q.61 a.1-2). Su medio es real, no racional (q.58 a.10). Es la más preclara de las virtudes morales (q.58 a.12). Ver artículo principal: [[virtud_de_la_justicia]].
@@ -43,10 +47,6 @@ La encíclica advierte que la justicia por sí sola no basta: «*summum ius, sum
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
 León XIV trató la justicia en su discurso ante el Parlamento español como fundamento de la paz: «Sin justicia no hay paz duradera» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Vinculó la justicia con la caridad, afirmando que «la justicia abre el camino a la caridad; la caridad perfecciona la justicia» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. En la visita a la prisión, señaló que la justicia sin misericordia es incompleta [L_XIV-ViajeEspaña-2026, visita a prisión]. En su discurso sobre los migrantes, reclamó la justicia como abordaje de las causas profundas de la migración forzada [L_XIV-ViajeEspaña-2026, CEDIA 02].
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Justicia»] En el AT la justicia designa tanto la virtud moral de observar la ley como la fidelidad de Dios a su alianza. Dios se muestra justo liberando a los oprimidos (Sal 103,6) y castigando el pecado (Dt 32,4). En el NT, Jesús llama a una justicia superior a la de los fariseos (Mt 5,20). San Pablo desarrolla la justicia de Dios como don gratuito que se recibe por la fe en Cristo (Rom 3,21-26), distinta de la justicia por las obras de la ley (Gal 2,16). Así la justicia divina coincide en última instancia con la misericordia: Dios justifica al pecador por pura gracia.
 
 ### Según Word on Fire Institute (EAC-21)
 

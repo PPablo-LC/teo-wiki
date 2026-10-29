@@ -34,6 +34,19 @@ Las razones teológicas de la restricción son:
 
 ## Perspectivas por fuente
 
+### Catecismo de la Iglesia Católica (CEC)
+
+El CEC 1399-1401 establece que:
+- Las Iglesias orientales en comunión con Roma poseen la Eucaristía válida y los católicos pueden recibirla.
+- La comunión con Iglesias de confesión no católica solo es posible con autorización de la autoridad competente y si las condiciones son favorables (fe, estado de gracia, disposición adecuada).
+
+### Código de Derecho Canónico (CIC)
+
+CIC 844: Permite la comunión bajo especie de pan solo en peligro de muerte, o si otra grave necesidad pastoral lo aconseja, según el juicio del obispo diocesano o la conferencia episcopal, siempre que se manifieste la fe católica en la Eucaristía y se esté en estado de gracia.
+### Concilio Vaticano II — Unitatis Redintegratio
+
+UR 8: Los fieles católicos pueden recibir la comunión bajo especie de pan (solo) de las Iglesias orientales separadas que tienen la Eucaristía válida, cuando lo exige una necesidad espiritual grave, previo discernimiento del obispo diocesano.
+
 ### Joseph Ratzinger — God Is Near Us (GINU)
 
 Ratzinger aborda la intercomunión en el archivo 03 (*La fuente de la vida del costado del Señor*):
@@ -44,19 +57,6 @@ En el archivo 05 (*La presencia del Señor en el sacramento*), Ratzinger insiste
 
 En el archivo 11 (*Una Iglesia de todos los tiempos y lugares*), añade: «La Eucaristía es un sacramento de la Iglesia. Y por la misma razón solo puede celebrarse en unidad con toda la Iglesia y con su autoridad. Por eso el Papa pertenece en la Oración Eucarística».
 
-### Catecismo de la Iglesia Católica (CEC)
-
-El CEC 1399-1401 establece que:
-- Las Iglesias orientales en comunión con Roma poseen la Eucaristía válida y los católicos pueden recibirla.
-- La comunión con Iglesias de confesión no católica solo es posible con autorización de la autoridad competente y si las condiciones son favorables (fe, estado de gracia, disposición adecuada).
-
-### Concilio Vaticano II — Unitatis Redintegratio
-
-UR 8: Los fieles católicos pueden recibir la comunión bajo especie de pan (solo) de las Iglesias orientales separadas que tienen la Eucaristía válida, cuando lo exige una necesidad espiritual grave, previo discernimiento del obispo diocesano.
-
-### Código de Derecho Canónico (CIC)
-
-CIC 844: Permite la comunión bajo especie de pan solo en peligro de muerte, o si otra grave necesidad pastoral lo aconseja, según el juicio del obispo diocesano o la conferencia episcopal, siempre que se manifieste la fe católica en la Eucaristía y se esté en estado de gracia.
 
 ## Distinciones importantes
 

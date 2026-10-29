@@ -29,6 +29,9 @@ La doctrina del hilemorfismo fue confirmada por el Concilio de Viena (1312-1313)
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que "el alma espiritual e inmortal es la «forma» del ser humano" (§366) y que "el hombre es una unidad de cuerpo y alma, de tal modo que el cuerpo no puede vivir sin el alma y ésta no puede vivir sin el cuerpo" (§365). La Catequesis rechaza explícitamente el dualismo: "La Biblia no habla del alma como de una parte del hombre; lo considera como el principio vital entero que habita en el cuerpo" (§366).
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.75 — La naturaleza del alma:**
@@ -47,9 +50,6 @@ La doctrina del hilemorfismo fue confirmada por el Concilio de Viena (1312-1313)
 
 **a.4 — El alma es causa del cuerpo como forma:** El alma es la causa formal del cuerpo, del mismo modo que la forma del fuego causa que la materia sea fuego. Pero el alma, como forma subsistente, tiene una relación bidireccional con el cuerpo: lo informa sustancialmente y a la vez depende de él para sus operaciones sensitivas (SmTh Iª q.76 a.4).
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que "el alma espiritual e inmortal es la «forma» del ser humano" (§366) y que "el hombre es una unidad de cuerpo y alma, de tal modo que el cuerpo no puede vivir sin el alma y ésta no puede vivir sin el cuerpo" (§365). La Catequesis rechaza explícitamente el dualismo: "La Biblia no habla del alma como de una parte del hombre; lo considera como el principio vital entero que habita en el cuerpo" (§366).
 
 ## Distinciones importantes
 

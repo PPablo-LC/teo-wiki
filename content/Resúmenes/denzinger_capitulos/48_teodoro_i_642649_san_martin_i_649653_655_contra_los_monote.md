@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "TEODORO I 642-649 SAN MARTIN I 649-653 655 Contra los monote"
+title: "TEODORO I 642-649 SAN MARTÍN I 649-653 655 Contra los monote"
 fuente: denzinger_capitulos
 capítulo: 48
 timestamp: 2026-08-24
-description: "Resumen de 'TEODORO I 642-649 SAN MARTIN I 649-653 655 Contra los monote' — denzinger_capitulos"
+description: "Resumen de 'TEODORO I 642-649 SAN MARTÍN I 649-653 655 Contra los monote' — denzinger_capitulos"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# TEODORO I 642-649 SAN MARTIN I 649-653 655 Contra los monote
+# TEODORO I 642-649 SAN MARTÍN I 649-653 655 Contra los monote
 
 ## Conceptos básicos referenciados
 
@@ -29,7 +29,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### TEODORO I, 642-649 SAN MARTIN I, 649-653 (655) (Contra los monotelitas)
+### TEODORO I, 642-649 SAN MARTÍN I, 649-653 (655) (Contra los monotelitas)
 
 **De la Trinidad, Encarnación, etc.** Cánones del Concilio de Letrán (649) bajo San Martín I, recibidos por el Papa Agatón con todos los sínodos de Occidente en su carta a Constantinopla:
 
@@ -71,7 +71,7 @@ VI ecuménico (contra los monotelitas). **Definición sobre las dos voluntades e
 - **D-289 a D-292** El Concilio recibe la relación del Papa Agatón y la relación del Concilio Romano, acepta las cartas de Cirilo contra Nestorio y sigue los cinco Concilios universales. Define que Jesucristo es perfecto en la divinidad y perfecto en la humanidad, consustancial al Padre según la divinidad y a nosotros según la humanidad, en dos naturalezas sin confusión ni división, con dos voluntades naturales —no contrarias, sino la humana sometida a la divina— y dos operaciones naturales, divina y humana. Con San León: «obra cada forma, con comunicación de la otra, lo que le es propio: el Verbo obra lo que pertenece al Verbo y la carne ejecuta lo que toca a la carne».
 - **D-293** No sea lícito a nadie presentar o enseñar otra fe: los obispos y clérigos serán privados de su orden, los monjes y laicos anatematizados. [Se incluye aquí el anatema contra [[honorio_i|Honorio]].]
 
-### SAN LEON II, 682-683 JUAN V, 685-686 SAN BENEDICTO II, 684-685 CONON, 686-687
+### SAN LEÓN II, 682-683 JUAN V, 685-686 SAN BENEDICTO II, 684-685 CONON, 686-687
 
 **SAN SERGIO I, 687-701. Protestación sobre la Trinidad y la Encarnación** [Del *Liber responsionis* o Apología de San Julián, arzobispo de Toledo]:
 
@@ -130,7 +130,7 @@ ADRIANO I, 772-795:
 
 ## Secciones incluidas
 
-## TEODORO I, 642-649 SAN MARTIN I, 649-653 (655) (Contra los monotelitas)
+## TEODORO I, 642-649 SAN MARTÍN I, 649-653 (655) (Contra los monotelitas)
 
 Concilio de Letrán (649): veinte cánones sobre la Trinidad, la encarnación, la maternidad divina y las dos voluntades y dos operaciones de Cristo contra los monotelitas (D-254 a D-274).
 
@@ -146,7 +146,7 @@ Carta dogmática *Omnium bonorum spes*: confesión de la unión hipostática y d
 
 VI ecuménico contra los monotelitas: definición sobre las dos voluntades y dos operaciones en Cristo (D-289 a D-293).
 
-## SAN LEON II, 682-683 JUAN V, 685-686 SAN BENEDICTO II, 684-685 CONON, 686-687
+## SAN LEÓN II, 682-683 JUAN V, 685-686 SAN BENEDICTO II, 684-685 CONON, 686-687
 
 SAN SERGIO I, 687-701: protestación de San Julián de Toledo sobre la Trinidad y la encarnación, y profesión de fe del XVI Concilio de Toledo (D-294 a D-296).
 

@@ -28,15 +28,6 @@ Nuestro Salvador instituyó el Sacrificio Eucarístico de su cuerpo y su sangre 
 
 El CIC trata del Sacrificio eucarístico en los cánones 897-958. Lo define como el memorial de la muerte y resurrección del Señor, en el que se perpetúa a lo largo de los siglos el Sacrificio de la cruz, siendo el culmen y la fuente de todo el culto y de toda la vida cristiana, por el que se significa y realiza la unidad del pueblo de Dios (c. 897). La celebración eucarística es acción del mismo Cristo y de la Iglesia, en la cual Cristo, sustancialmente presente bajo las especies del pan y del vino, por el ministerio del sacerdote se ofrece a sí mismo a Dios Padre y se da como alimento espiritual a los fieles (c. 899 §1). Solo el sacerdote válidamente ordenado es ministro capaz de confeccionar el sacramento, actuando en la persona de Cristo (c. 900 §1). El sacrificio debe ofrecerse con pan y vino (c. 924). El sacerdote tiene facultad para aplicar la Misa por cualesquiera, vivos y difuntos (c. 901).
 
-### Según Royo Marín (TPCr)
-La santa misa contiene las riquezas infinitas del sacrificio de Cristo. La mejor manera de dar gracias consiste en identificarse por el amor con el mismo Cristo y ofrecerle al Padre con todas sus infinitas riquezas como oblación por las cuatro finalidades del sacrificio: adoración, reparación, petición y acción de gracias (TPCr, Tercera Parte, Libro II, Cap. I). Los santos tenían la santa misa en grandísimo aprecio: era el centro de su vida, la fuente de su espiritualidad (n.310). Por medio del ministerio de los presbíteros se realiza a la perfección el sacrificio espiritual de los fieles en unión con el sacrificio de Cristo.
-
-### Según la Guía de Liturgia (GLit-2024)
-
-La Guía de Liturgia de la Legión de Cristo comienza su tratamiento del culto eucarístico citando el canon 897 del CIC, que define el sacrificio eucarístico como «memorial de la muerte y resurrección del Señor, en el cual se perpetúa a lo largo de los siglos el Sacrificio de la cruz» y «culmen y fuente de todo el culto y de toda la vida cristiana» [GLit-2024, n. 93].
-
-La santa misa, «el centro de la vida cristiana y el culmen de la acción por la que Dios santifica al mundo en Cristo, y del culto que los hombres ofrecen al Padre», merece ser celebrada con todo el respeto y veneración de que se es capaz [GLit-2024, n. 70, citando CLC 51].
-
 ### Según la Summa Theologiae (SmTh)
 
 #### IIIª q.79 — La eucaristía como sacrificio
@@ -50,6 +41,15 @@ La santa misa, «el centro de la vida cristiana y el culmen de la acción por la
 #### IIIª q.83 a.1 — ¿Se inmola Cristo en la celebración de este sacramento?
 
 **a.1 — La celebración es inmolación de Cristo:** De dos maneras. Primera, porque las imágenes suelen llamarse con el nombre de las cosas que representan, y esta celebración es imagen representativa de la pasión. Segunda, por el vínculo con sus efectos, ya que por este sacramento nos hacemos partícipes de los frutos de la pasión —«siempre que se celebra la memoria de esta víctima, se consigue el fruto de nuestra redención»—. En el primer sentido Cristo se inmolaba también en las figuras del Antiguo Testamento; en el segundo, es propio de este sacramento. (SmTh IIIa q.83 a.1)
+
+### Según Royo Marín (TPCr)
+La santa misa contiene las riquezas infinitas del sacrificio de Cristo. La mejor manera de dar gracias consiste en identificarse por el amor con el mismo Cristo y ofrecerle al Padre con todas sus infinitas riquezas como oblación por las cuatro finalidades del sacrificio: adoración, reparación, petición y acción de gracias (TPCr, Tercera Parte, Libro II, Cap. I). Los santos tenían la santa misa en grandísimo aprecio: era el centro de su vida, la fuente de su espiritualidad (n.310). Por medio del ministerio de los presbíteros se realiza a la perfección el sacrificio espiritual de los fieles en unión con el sacrificio de Cristo.
+
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo comienza su tratamiento del culto eucarístico citando el canon 897 del CIC, que define el sacrificio eucarístico como «memorial de la muerte y resurrección del Señor, en el cual se perpetúa a lo largo de los siglos el Sacrificio de la cruz» y «culmen y fuente de todo el culto y de toda la vida cristiana» [GLit-2024, n. 93].
+
+La santa misa, «el centro de la vida cristiana y el culmen de la acción por la que Dios santifica al mundo en Cristo, y del culto que los hombres ofrecen al Padre», merece ser celebrada con todo el respeto y veneración de que se es capaz [GLit-2024, n. 70, citando CLC 51].
 
 ### Según God Is Near Us — Joseph Ratzinger (GINU)
 

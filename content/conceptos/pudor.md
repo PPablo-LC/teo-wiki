@@ -25,10 +25,6 @@ El pudor es una manifestación de la pureza del corazón. Protege el misterio de
 
 La pureza exige el pudor. Este es parte integrante de la templanza. Preserva la intimidad de la persona (CEC §2521). El pudor protege el misterio de las personas y de su amor. Es modestia, inspira la elección de la vestimenta (CEC §2522). Existe pudor de los sentimientos y del cuerpo (CEC §2523). Las formas del pudor varían según las culturas, pero en todas partes constituye la intuición de una dignidad espiritual propia del hombre (CEC §2524). La pureza del corazón requiere el pudor, que es paciencia, modestia y discreción (CEC §2533).
 
-### Según Royo Marín (TPCr)
-
-Antiguamente la esposa cubría su cabeza con un velo en señal de pudor y de sumisión (TPCr, Tercera Parte, Libro II, cap. I).
-
 ### Según la Summa Theologiae (SmTh)
 
 #### Q151 a.4: El pudor como parte de la castidad
@@ -39,6 +35,10 @@ El pudor (*pudicitia*) no es una virtud distinta de la castidad, sino la castida
 - La **decencia sexual** (*pudicitia*) es la castidad misma en cuanto ordena los actos venéreos según la recta razón, evitando no solo el pecado sino también la apariencia de torpeza.
 
 El pudor es como el "timbre" que anuncia la castidad: quien es casto interiormente manifiesta pudor exteriormente en sus palabras, vestido y gestos. Por eso se dice que el pudor es una parte de la castidad (como parte potencial o integral), no una virtud separada.
+
+### Según Royo Marín (TPCr)
+
+Antiguamente la esposa cubría su cabeza con un velo en señal de pudor y de sumisión (TPCr, Tercera Parte, Libro II, cap. I).
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 

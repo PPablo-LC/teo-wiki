@@ -36,7 +36,7 @@ De origen italiano-americano, estudió en Stanford (B.A.) y Harvard Business Sch
 **Katy Carl** cita su lección «Poetry as Enchantment»:
 
 - **Carmen:** La palabra latina para poema, *carmen*, significa a la vez hechizo, canto y oración; la poesía conserva vínculo lingüístico e intencional con lo sagrado; los actos de nombrar conducen la mente al misterio y «nos arrastran, como una marea, hacia el asombro».
-- **La barca de Pedro:** «La barca de Pedro está ya en el muelle… la artesanía de la poesía puede ser balsa salvavidas para llevar almas perdidas hacia el barco»: el oficio poético practicado en contexto de fe como balsa hacia la Iglesia.
+- **La barca de Pedro:** «La barca de Pedro está ya en el muelle… la artesanía de la poesía puede ser balsa salvavidas para llevar almas pérdidas hacia el barco»: el oficio poético practicado en contexto de fe como balsa hacia la Iglesia.
 - Figura principal del renacimiento actual de poesía católica junto a Karr, Mariani, Milosz, F. Wright.
 
 **James Matthew Wilson** lo cuenta entre los poetas lírico-narrativos recientes cuyas narrativas breves conservan la memoria de los acontecimientos esenciales que necesitamos para comprender nuestra historia y nuestro mundo.

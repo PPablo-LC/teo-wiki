@@ -36,4 +36,4 @@ Worner enmarca la anécdota con la cita de [[c_s_lewis]] que Scalia habría susc
 
 ## Referencias
 
-- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Tod Worner, 04_midnight_oil.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversión* (Winter 2023), Word on Fire Institute (Tod Worner, 04_midnight_oil.md).

@@ -23,6 +23,9 @@ La concupiscencia de la carne no es el cuerpo en sí, ni la sexualidad como tal:
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que «la concupiscencia procede de la triple concupiscencia: concupiscencia de la carne, concupiscencia de los ojos y soberbia de la vida (1 Jn 2,16)» (§2514). La concupiscencia de la carne es uno de los apetitos desordenados que constituyen las «fuentes del pecado» (cf. §2516).
 ### Según la Teología del Cuerpo (TdC)
 
 La concupiscencia de la carne dirige los deseos hacia la satisfacción del cuerpo, frecuentemente a precio de una auténtica y plena comunión de las personas (Catequesis 31). El cuerpo en su masculinidad/feminidad ha perdido casi la capacidad de expresar el amor en que el hombre-persona se hace don: el corazón se ha convertido en el lugar de combate entre el amor y la concupiscencia (Catequesis 32).
@@ -31,9 +34,6 @@ La concupiscencia, como «constricción del cuerpo», limita interiormente el au
 
 La esencia de la violación que perturba el orden interior del acto conyugal no puede entenderse de modo teológicamente adecuado sin las reflexiones sobre el tema de la «concupiscencia» de la carne (Catequesis 119). Su nota específica teológica y antropológica es importante para comprender las palabras del sermón de la montaña (Mt 5, 27-28): «todo el que mira a una mujer deseándola, ya adulteró con ella en su corazón».
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que «la concupiscencia procede de la triple concupiscencia: concupiscencia de la carne, concupiscencia de los ojos y soberbia de la vida (1 Jn 2,16)» (§2514). La concupiscencia de la carne es uno de los apetitos desordenados que constituyen las «fuentes del pecado» (cf. §2516).
 
 ## Distinciones importantes
 

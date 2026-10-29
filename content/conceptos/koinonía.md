@@ -5,7 +5,7 @@ description: "Termino griego (κοινωνία) que significa comunión, partici
 ---
 # Koinonía
 
-> Area: Eclesiología
+> Área: Eclesiología
 > Ultima actualización: 2026-06-03
 
 ## Definición

@@ -54,6 +54,9 @@ Francisco insiste en que el arte debe ser "prophetismo" y "crítica constructiva
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II
+
+**Sacrosanctum Concilium, 121**: "La Iglesia ha sido siempre amiga de las bellas artes... para que los productos de las artes se eleven al servicio de Dios y a la gloria de la Iglesia."
 ### Según Evangelization & Culture, Issue 6 (EcC6)
 
 Dr. William Havlicek, en su artículo "The Gospel According to Van Gogh", muestra cómo el arte de Van Gogh encarna la relación entre arte y fe:
@@ -82,9 +85,6 @@ En el Issue 4 sobre el cine, Bishop Robert Barron desarrolla la *via pulchritudi
 
 > "El artista puede crear sin olvidar que crea... el artista... actúa como cooperador de Dios en la creación del mundo."
 
-### Según el Concilio Vaticano II
-
-**Sacrosanctum Concilium, 121**: "La Iglesia ha sido siempre amiga de las bellas artes... para que los productos de las artes se eleven al servicio de Dios y a la gloria de la Iglesia."
 
 ## Distinciones importantes
 

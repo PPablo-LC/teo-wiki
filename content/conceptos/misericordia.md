@@ -29,6 +29,14 @@ El Catecismo enseña que «la misericordia de Dios es infinita» (§1846). «Al 
 
 La misericordia de Dios es el fundamento de la esperanza cristiana: «Dios rico en misericordia, por el gran amor con que nos amó, estando muertos por los pecados, nos vivificó con Cristo» (Ef 2,4-5, citado en CEC §210-211). Las obras de misericordia (corporales y espirituales) son la respuesta del cristiano a la misericordia recibida (§2447).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Misericordia»] La misericordia bíblica conjuga dos corrientes: *rahamim* (ternura instintiva, como la del seno materno) y *hesed* (fidelidad al compromiso de alianza). En el AT, Dios se revela en el Sinaí como «Dios de ternura y gracia, lento a la ira y abundante en misericordia» (Ex 34,6). Su misericordia acompaña a Israel a lo largo de la historia (Jue 2,18; Os 11,8s). En el NT, Jesús es el rostro de la misericordia del Padre: ama a los pobres, acoge a los pecadores (Lc 15,1s) y enseña que el Padre espera al hijo pródigo (Lc 15,11-32). Pablo proclama que Dios «incluyó a todos en la desobediencia para usar con todos misericordia» (Rom 11,32). Los discípulos deben ser misericordiosos como el Padre (Lc 6,36).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Concilio Vaticano II enseña que «la misericordia de Dios, que al mismo tiempo perdona y reforma, se manifiesta en la historia del pueblo de Dios y se hace presente en la vida de la Iglesia» (LG 8). *Gaudium et Spes* presenta a la Iglesia al servicio de la humanidad, atenta a las esperanzas y angustias de los hombres (GS 1), y enseña que la caridad impulsa a la Iglesia a buscar la justicia y la paz.
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la misericordia de Dios como fundamento de la esperanza cristiana y motivo de confianza en la vida espiritual. La misericordia divina es infinita y sobreabunda donde abundó el pecado. La perfección cristiana consiste en imitar la misericordia del Padre celestial.
@@ -79,10 +87,6 @@ Desde la cruz, la misericordia se manifiesta en las siete palabras. La primera e
 
 [VJ, Cap. III, Cap. VI]
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Misericordia»] La misericordia bíblica conjuga dos corrientes: *rahamim* (ternura instintiva, como la del seno materno) y *hesed* (fidelidad al compromiso de alianza). En el AT, Dios se revela en el Sinaí como «Dios de ternura y gracia, lento a la ira y abundante en misericordia» (Ex 34,6). Su misericordia acompaña a Israel a lo largo de la historia (Jue 2,18; Os 11,8s). En el NT, Jesús es el rostro de la misericordia del Padre: ama a los pobres, acoge a los pecadores (Lc 15,1s) y enseña que el Padre espera al hijo pródigo (Lc 15,11-32). Pablo proclama que Dios «incluyó a todos en la desobediencia para usar con todos misericordia» (Rom 11,32). Los discípulos deben ser misericordiosos como el Padre (Lc 6,36).
-
 ### Según la Evangelii Gaudium (EG)
 
 La Evangelii Gaudium presenta la misericordia como el corazón del mensaje cristiano. Francisco enseña que «la misericordia es la mayor de las virtudes» (EG 37, citando a Tomás de Aquino, II-II, q. 30, a. 4), y que toda la predicación moral debe estar centrada en ella: «la predicación no es ética estoica ni mera filosofía práctica» (EG 39). La misericordia es también la clave para el acompañamiento pastoral: el confesionario es «lugar de la misericordia» donde el sacerdote debe acompañar con «paciencia y amor» (EG 44).
@@ -90,10 +94,6 @@ La Evangelii Gaudium presenta la misericordia como el corazón del mensaje crist
 Francisco insiste en que la misericordia tiene una dimensión social inseparable: «No existe ningún kerygma auténtico sin la promoción de la justicia» (EG 182). La «inclusión social de los pobres» es parte integral del anuncio del Evangelio (EG 186-216), y la misericordia se manifiesta en «las obras de misericordia» concretas (EG 192-194). La «globalización de la indiferencia» es el gran enemigo de la misericordia (EG 58-59).
 
 El Papa presenta la misericordia como fuente de la alegría cristiana: «Dios no se cansa nunca de perdonar, somos nosotros los que nos cansamos de acudir a su misericordia» (EG 3). La misericordia divina es el fundamento de la dignidad humana: «Nadie podrá quitarnos la dignidad que nos otorga este amor infinito e inquebrantable» (EG 3).
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Concilio Vaticano II enseña que «la misericordia de Dios, que al mismo tiempo perdona y reforma, se manifiesta en la historia del pueblo de Dios y se hace presente en la vida de la Iglesia» (LG 8). *Gaudium et Spes* presenta a la Iglesia al servicio de la humanidad, atenta a las esperanzas y angustias de los hombres (GS 1), y enseña que la caridad impulsa a la Iglesia a buscar la justicia y la paz.
 
 ### Según San Francisco de Asís (SFrAs)
 
@@ -144,7 +144,7 @@ DeLorenzo conecta esta geografía de la misericordia con la evangelización de l
 
 ### Giussani — Affezione e dimora (AED)
 
-En la Tischrede 184 (AED, 20, 27-29), la certeza de ser «guardata con misericordia» es la experiencia que cambia la vida: «Con amore. Perché la scelta è il sintomo più sintetico ed essenziale dell'essere amati».
+En la Tischrede 184 (AED, 20, 27-29), la certeza de ser «guardata con misericordia» es la experiencia que cambia la vida: «Con amore. Perché la scelta è il sintomo più sintético ed essenziale dell'essere amati».
 
 En la Tischrede 179 (AED, 24, 209), la misericordia escapa a la lógica de la justicia: «Non ti perdona perché conclude un'equazione, ma ti abbraccia e redime perché è misericordia». La nota a ese pasaje la define como «il Mistero da cui tutto in noi s'origina, a cui tutto in noi è diretto, di cui tutto è fatto» (AED, 24, nota 21), y la imagen del padre la ilustra: «quando allarga le braccia, non abbraccia il figlio, abbraccia tutte le porcherie che ha fatto» (AED, 24, nota 22; Tischrede 168). La misericordia culmina en la certeza: «Chi ha vissuto quell'istante, Dio non lo può più misconoscere: questa è la misericordia» (AED, 24, 221).
 
@@ -165,9 +165,9 @@ recuerda a Pío XII: «El pecado de este siglo es la pérdida del sentido del pe
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-TACDC aporta una definición de la misericordia que excede el perdón. Frente al perdón, que «si può anche ricostruire… quasi matematicamente», la misericordia presenta «una eccedenza… sembra che Dio compia una "ingiustizia" perdonando perfino quello!» (TACDC, 04, §53), pues «Misericordia è identica a Mistero: è il Mistero, quel che non si capisce» (§135-137). El perdón proporcionado «è concepibile anche dalla ragione», pero no «questo perdono senza limite», que es «la vita di Dio… amore gratis: caritas, senza motivo» (§135-137).
+TACDC aporta una definición de la misericordia que excede el perdón. Frente al perdón, que «si può anche ricostruire… quasi matematicamente», la misericordia presenta «una eccedenza… sembra che Dio compia una "ingiustizia" perdonando perfino quello!» (TACDC, 04, §53), pues «Misericordia è idéntica a Mistero: è il Mistero, quel che non si capisce» (§135-137). El perdón proporcionado «è concepibile anche dalla ragione», pero no «questo perdono senza limite», que es «la vita di Dio… amore gratis: caritas, senza motivo» (§135-137).
 
-En 1995, comentando el «sì» de Pedro, Giussani cita a [[san_ambrosio]]: Dios «creò l'uomo e... si è riposato, avendo un essere cui rimettere i peccati»; de ahí que «Crea l'uomo per essere misericordioso» y que la pasión de Cristo «rappresenta il senso della creazione» (TACDC, 03, §239). La misericordia es así «l'estrema definizione di Dio che il cristianesimo conosca», como recuerda [[dives_in_misericordia|Dives in misericordia]] 2 al afirmar que Cristo «è... la misericordia» (Ef 2,4) y que en la historia «questa misericordia... porta un nome... Gesù Cristo!» (§241). El prefacio ambrosiano lo formula como «una medicina più forte delle nostre piaghe, una misericordia più grande della nostra colpa» (§249).
+En 1995, comentando el «sì» de Pedro, Giussani cita a [[san_ambrosio]]: Dios «creò l'uomo e... si è riposato, avendo un essere cui rimettere i peccati»; de ahí que «Crea l'uomo per essere misericordioso» y que la pasión de Cristo «rappresenta il senso della creazione» (TACDC, 03, §239). La misericordia es así «l'estrema definizione di Dio che il cristianesimo conosca», como recuerda [[dives_in_misericordia|Dives in misericordia]] 2 al afirmar que Cristo «è... la misericordia» (Ef 2,4) y que en la historia «questa misericordia... porta un nome... Gesù Cristo!» (§241). El prefacio ambrosiano lo fórmula como «una medicina più forte delle nostre piaghe, una misericordia più grande della nostra colpa» (§249).
 
 Con realismo, TACDC añade que «nessuno di noi è misericordioso. Ma dobbiamo cercare di esserlo» (TACDC, 04, §143), y que el paso «dal dire al fare» se llama «il domandare»: «una supplica reale, semplice, come quella di un bambino» (§143), pues «L'uomo che domanda, fosse anche distrutto dal suo male, è vermente figlio di Dio» (§101-103).
 
@@ -178,7 +178,7 @@ perdón de la diversidad**.
 
 - **Definición**: «L'assetto dell'accoglienza, che la parola cristiana
   "misericordia" definisce, è il perdono della diversità»; la
-  misericordia es «una energia, una libertà che… supera il vuoto, il gap,
+  misericordia es «una energía, una libertà che… supera il vuoto, il gap,
   la lontananza della diversità» (03, 33-37).
 - **Su grado máximo es la ser/nada**: «No hay ninguna diversidad más
   grande que la que existe entre el ser y el nada»; Pablo: «Cristo nos

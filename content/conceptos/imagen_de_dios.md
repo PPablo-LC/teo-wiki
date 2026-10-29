@@ -31,13 +31,15 @@ El CEC dedica un artículo completo al tema (CEC §355-361). El ser humano, por 
 
 La persona humana es criatura de Dios creada a su imagen: «Creó, pues, Dios al ser humano a imagen suya, a imagen de Dios le creó, macho y hembra los creó» (Gn 1,27) [CompDS §108]. Por haber sido hecho a imagen de Dios, el ser humano tiene la dignidad de persona; no es solamente algo, sino alguien [CompDS §108]. Es capaz de conocerse, poseerse y darse libremente y entrar en comunión con otras personas [CompDS §108]. La semejanza con Dios revela que la esencia y existencia del hombre están constitutivamente relacionadas con Él del modo más profundo [CompDS §109]. Solo el hombre es «capaz de Dios» («homo est Dei capax») [CompDS §109]. La relación entre Dios y el hombre se refleja en la dimensión relacional y social de la naturaleza humana [CompDS §110]. El hombre y la mujer tienen la misma dignidad y son de igual valor porque ambos son imagen de Dios [CompDS §111].
 
-### Según el Compendio (CompDS)
-
 El hombre y la mujer, creados a imagen y semejanza de Dios, están llamados a ser el signo visible y el instrumento eficaz de la gratuidad divina en el jardín en que Dios los ha puesto como cultivadores y guardianes de los bienes de la creación [CompDS §26].
 
 La revelación en Cristo del misterio de Dios como Amor trinitario ilumina la dignidad y la libertad personal del hombre y de la mujer. Ser persona a imagen y semejanza de Dios comporta existir en relación al otro «yo», porque Dios mismo, uno y trino, es comunión del Padre, del Hijo y del Espíritu Santo [CompDS §34].
 
 Las páginas del Génesis que describen la creación del hombre y de la mujer a imagen de Dios enseñan que ellos, precisamente en su complementariedad y reciprocidad, son imagen del Amor trinitario en el universo creado [CompDS §36]. Esta visión hunde sus raíces en Dios y está iluminada por la realización de su designio de salvación [CompDS §37].
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Imagen»] El hombre, creado a imagen de Dios (Gn 1,26), expresa esta semejanza en el dominio sobre la creación y en la procreación. La sabiduría de Dios es «imagen de su excelencia» (Sab 7,26), preparando la revelación de Cristo como «imagen del Dios invisible» (Col 1,15). Solo Cristo es la Imagen perfecta; el hombre es creado «a imagen» (con preposición que indica acercamiento entre cosas distantes). La imagen divina, desfigurada por el pecado, es restaurada en Cristo, y el cristiano es transformado «de gloria en gloria» en esa misma imagen (2Cor 3,18).
+
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.93 — El fin del origen del hombre: hecho a imagen de Dios**
@@ -104,13 +106,9 @@ La Encarnación restaura la imagen divina: «En la naturaleza humana asumida, no
 
 La vocación cristiana, participando en la misión real de Cristo, consiste en la realización de una humanidad madura, que significa «pleno uso del don de la libertad, que hemos obtenido del Creador, en el momento en que Él ha llamado a la existencia al hombre hecho a su imagen y semejanza» [RH §21]. Esta imagen y semejanza se realiza plenamente en la donación sin reservas de toda la persona, en espíritu de amor nupcial a Cristo [RH §21].
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-[VocTeoBib, «Imagen»] El hombre, creado a imagen de Dios (Gn 1,26), expresa esta semejanza en el dominio sobre la creación y en la procreación. La sabiduría de Dios es «imagen de su excelencia» (Sab 7,26), preparando la revelación de Cristo como «imagen del Dios invisible» (Col 1,15). Solo Cristo es la Imagen perfecta; el hombre es creado «a imagen» (con preposición que indica acercamiento entre cosas distantes). La imagen divina, desfigurada por el pecado, es restaurada en Cristo, y el cristiano es transformado «de gloria en gloria» en esa misma imagen (2Cor 3,18).
-
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
-Bobby Angel sitúa la comedia dentro del imago Dei: «En materia teológica, la comedia es una faceta de nuestra creación a imagen de Dios». El fenómeno de la risa —no replicado en el reino animal— revela que el hombre refleja un Dios que «se deleita gozosamente en su creación». La capacidad de percibir lo incongruente, jugar con las ideas y responder con risa al desvelamiento de la verdad pertenece a la sublimidad de la vocación humana descrita por GS 22: la imagen divina incluye el gozo.
+Bobby Ángel sitúa la comedia dentro del imago Dei: «En materia teológica, la comedia es una faceta de nuestra creación a imagen de Dios». El fenómeno de la risa —no replicado en el reino animal— revela que el hombre refleja un Dios que «se deleita gozosamente en su creación». La capacidad de percibir lo incongruente, jugar con las ideas y responder con risa al desvelamiento de la verdad pertenece a la sublimidad de la vocación humana descrita por GS 22: la imagen divina incluye el gozo.
 
 ### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
 

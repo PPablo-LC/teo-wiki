@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "5. Estadísticas globales de abusos de menores por parte de seminaristas de la Congregación, aplicando los criterios de \"Proteger y sanar\""
-fuente: informe-comision-abusos-es-1941-2019
+fuente: informe-comisión-abusos-es-1941-2019
 capítulo: 6
 timestamp: 2026-09-05
 description: "Actualización 2020 de las estadísticas de abusos por parte de seminaristas de la Congregación según los criterios de 'Proteger y sanar': 7 casos confirmados de los 11 que llegaron al sacerdocio."

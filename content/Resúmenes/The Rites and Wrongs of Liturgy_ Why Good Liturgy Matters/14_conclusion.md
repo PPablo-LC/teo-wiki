@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Conclusion"
+title: "Conclusión"
 fuente: The Rites and Wrongs of Liturgy_ Why Good Liturgy Matters
 capítulo: 14
 timestamp: 2026-08-31
-description: "Resumen de 'Conclusion — Why Liturgy Matters' — The Rites and Wrongs of Liturgy_ Why Good Liturgy Matters"
+description: "Resumen de 'Conclusión — Why Liturgy Matters' — The Rites and Wrongs of Liturgy_ Why Good Liturgy Matters"
 tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 ---
 
-# Conclusion — Por qué importa la liturgia
+# Conclusión — Por qué importa la liturgia
 
 ## Conceptos básicos referenciados
 

@@ -4,7 +4,7 @@ title: "I.- LA IDENTIDAD DE CRISTO"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 3
 timestamp: 2026-08-12
-description: "Resumen de 'I.- LA IDENTIDAD DE CRISTO' — Catequesis sobre Jesus SS Juan Pablo II"
+description: "Resumen de 'I.- LA IDENTIDAD DE CRISTO' — Catequesis sobre Jesús SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
 

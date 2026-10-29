@@ -21,6 +21,9 @@ La evangelización comenzó con la predicación de San Pablo en el Areópago de 
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Ad Gentes* enseña que la Iglesia es enviada por Dios a las gentes para ser el sacramento universal de la salvación [ConcVatII, AG §1]. La actividad misional se realiza mediante la cual «se hace presente a todos los hombres y pueblos para conducirlos a la fe, la libertad y la paz de Cristo» [ConcVatII, AG §5].
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II describe la evangelización de Europa como un proceso que comenzó en los tiempos apostólicos: «Como se dice en los Hechos de los Apóstoles, a Europa llegó el cristianismo desde Jerusalén, a través de Asia Menor» [MI, cap. 17].
@@ -31,9 +34,6 @@ La evangelización creó la unidad de valores europeos: «La evangelización de 
 
 El Concilio Vaticano II fue un acontecimiento crucial para el ecumenismo: «La Iglesia católica definió su posición respecto a todas las Iglesias y Comunidades eclesiales que están fuera de la unidad católica, y se comprometió con total determinación en la actividad ecuménica» [MI, cap. 17].
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Ad Gentes* enseña que la Iglesia es enviada por Dios a las gentes para ser el sacramento universal de la salvación [ConcVatII, AG §1]. La actividad misional se realiza mediante la cual «se hace presente a todos los hombres y pueblos para conducirlos a la fe, la libertad y la paz de Cristo» [ConcVatII, AG §5].
 
 ## Distinciones importantes
 

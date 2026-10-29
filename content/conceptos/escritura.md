@@ -68,7 +68,7 @@ Cristo no dejó ningún escrito, pero consagró el valor de la Escritura hasta l
 
 **Clemente XI** (1713, D‑1429–D‑1436) — Constitución *Unigenitus* contra Quesnel:
 
-**D‑1429**: «Util y necesario es en todo tiempo, en todo lugar y a todo género de personas estudiar y conocer el espíritu, la piedad y los misterios de la Sagrada Escritura.» Condenada. La condena afirma que no es necesario para todos, en todo tiempo y lugar, el estudio de la Sagrada Escritura; la lectura bíblica debe regularse según la condición y capacidad de cada persona.
+**D‑1429**: «Útil y necesario es en todo tiempo, en todo lugar y a todo género de personas estudiar y conocer el espíritu, la piedad y los misterios de la Sagrada Escritura.» Condenada. La condena afirma que no es necesario para todos, en todo tiempo y lugar, el estudio de la Sagrada Escritura; la lectura bíblica debe regularse según la condición y capacidad de cada persona.
 
 **D‑1430–D‑1432**: «La lectura de la Sagrada Escritura es para todos. La oscuridad santa de la palabra de Dios no es para los laicos razón de dispensarse de su lectura. El día del Señor debe ser santificado por los cristianos con piadosas lecturas y, sobre todo, de las Sagradas Escrituras.» Condenadas. La condena afirma que no es obligatorio para todos los fieles la lectura directa de la Escritura; la Iglesia tiene autoridad para regular la lectura bíblica según las circunstancias.
 

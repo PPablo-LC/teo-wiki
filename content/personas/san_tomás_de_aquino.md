@@ -22,11 +22,11 @@ Sus aportes fundamentales incluyen la distinción entre esencia y existencia, el
 
 ## Perspectivas por fuente
 
+### Según Royo Marín (TPCr)
+Royo Marín cita constantemente a Santo Tomás, siguiendo su doctrina y método. La *Teología de la Perfección Cristiana* se apoya en la *Suma Teológica*, especialmente en las cuestiones sobre las virtudes y la perfección.
 ### Según el Magisterio y tradición
 San Tomás fue proclamado Doctor de la Iglesia en 1567 y «Doctor Común» por León XIII en *Aeterni Patris* (1879), encíclica que recomendaba el estudio de su doctrina como fundamento de la filosofía y teología católicas. Juan Pablo II, Benedicto XVI y otros papas han destacado su importancia permanente.
 
-### Según Royo Marín (TPCr)
-Royo Marín cita constantemente a Santo Tomás, siguiendo su doctrina y método. La *Teología de la Perfección Cristiana* se apoya en la *Suma Teológica*, especialmente en las cuestiones sobre las virtudes y la perfección.
 
 ## Distinciones importantes
 
