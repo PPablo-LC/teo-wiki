@@ -4,7 +4,7 @@ title: "The Courage to Sacrifice Without Belief: Graham Greene's Unholy Saints �
 fuente: Evangelization and culture - 22_capitulos
 capítulo: 15
 timestamp: 2026-09-10
-description: "Resumen de 'The Courage to Sacrifice Without Belief: Graham Greene's Unholy Saints — Dr. Leonard J. DeLorenzo' — Evangelization and culture - 22 capitulos"
+description: "Resumen de 'The Courage to Sacrifice Without Belief: Graham Greene's Unholy Saints — Dr. Leonard J. DeLorenzo' — Evangelization and culture - 22 capítulos"
 tags: ["resumen", "evangelization and culture - 22 capitulos"]
 ---
 

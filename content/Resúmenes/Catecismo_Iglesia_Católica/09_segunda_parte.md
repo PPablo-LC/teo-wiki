@@ -126,7 +126,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ##### V. Sacramentos de la vida eterna
 
-§1130 La Iglesia celebra el Misterio de su Señor "hasta que él venga" y "Dios sea todo en todos". Desde la era apostólica, la liturgia es atraída hacia su término por el gemido del Espíritu en la Iglesia: ¡Marana tha! La liturgia participa en el deseo de Jesús: "Con ansia he deseado comer esta Pascua con vosotros… hasta que halle su cumplimiento en el Reino de Dios". En los sacramentos, la Iglesia recibe ya las arras de su herencia y participa ya en la vida eterna, aunque aguardando la manifestación de la gloria de Jesucristo: "El Espíritu y la Esposa dicen: ¡Ven!… ¡Ven, Señor Jesús!". Santo Tomás resume las dimensiones del signo sacramental: el sacramento es signo rememorativo de la pasión de Cristo, demostrativo de la gracia que se realiza en nosotros y prognóstico, que preanuncia la gloria venidera.
+§1130 La Iglesia celebra el Misterio de su Señor "hasta que él venga" y "Dios sea todo en todos". Desde la era apostólica, la liturgia es atraída hacia su término por el gemido del Espíritu en la Iglesia: ¡Maraña tha! La liturgia participa en el deseo de Jesús: "Con ansia he deseado comer esta Pascua con vosotros… hasta que halle su cumplimiento en el Reino de Dios". En los sacramentos, la Iglesia recibe ya las arras de su herencia y participa ya en la vida eterna, aunque aguardando la manifestación de la gloria de Jesucristo: "El Espíritu y la Esposa dicen: ¡Ven!… ¡Ven, Señor Jesús!". Santo Tomás resume las dimensiones del signo sacramental: el sacramento es signo rememorativo de la pasión de Cristo, demostrativo de la gracia que se realiza en nosotros y prognóstico, que preanuncia la gloria venidera.
 
 ##### Resumen
 

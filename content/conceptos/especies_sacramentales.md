@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Especies sacramentales
 tags: ["dogmática", "sacramental"]
 
-timestamp: 2026-06-15
+timestamp: 2026-10-28
 description: "Las especies sacramentales son las apariencias del pan y del vino que, después de la consagración en la Santa Misa."
 ---
 # Especies sacramentales
 
 > Área: Dogmática / Sacramental
-> Última actualización: 2026-06-15
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -33,17 +33,23 @@ Royo Marín explica que la presencia real de Cristo está vinculada a las especi
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica la cuestión 77 a los accidentes que permanecen en la eucaristía después de la consagración.
+#### IIIª q.77 — La permanencia de los accidentes
 
-**Accidentes sin sujeto (Q77 a.1):** Los accidentes del pan y del vino (color, sabor, olor, cantidad, peso) permanecen después de la consagración sin inherir en ningún sujeto. Dios los sostiene milagrosamente para que el sacramento sea perceptible a los sentidos.
+**a.1 — Los accidentes permanecen sin sujeto:** Los accidentes del pan y del vino, cuya permanencia atestiguan los sentidos, no tienen por sujeto la sustancia del pan, que no permanece, ni su forma sustancial, que no puede ser sujeto, ni la sustancia del cuerpo de Cristo, ni el aire circundante —que es incapaz de recibirlos, no está donde ellos están y no puede recibir accidentes que pasen de un sujeto a otro—. Permanecen, pues, **sin sujeto**, y esto puede hacerlo la virtud divina: como el efecto depende más de la causa primera que de la segunda, Dios puede conservar el ser del accidente cuando desaparece la sustancia que lo sostenía. (SmTh IIIa q.77 a.1)
 
-**La cantidad dimensiva (Q77 a.2):** La cantidad dimensiva (extensión) es el primer accidente que permanece y es el sujeto de los demás accidentes sensibles. Sobre ella se fundan las demás cualidades que afectan a los sentidos.
+**a.2 — La cantidad dimensiva es sujeto de los otros accidentes:** Los sentidos detectan allí algo *cuanto* que tiene color y otras cualidades, y la cantidad dimensiva es la primera disposición de la materia. Por eso los demás accidentes que permanecen tienen como sujeto la cantidad dimensiva del pan y del vino, que hace las veces de la materia y es principio de individuación. (SmTh IIIa q.77 a.2)
 
-**La fracción del pan (Q77 a.7-8):** Cuando se parte la hostia consagrada, no se parte el Cuerpo de Cristo sino solo las especies sacramentales. Cristo permanece entero en cada parte de la hostia partida, porque su presencia no está sujeta a la extensión material sino a la conversión sustancial.
+**a.3 — Las especies pueden actuar sobre lo externo:** Una cosa actúa en la medida en que tiene ser, y a las especies sacramentales se les concede permanecer en el ser que tenían con la sustancia; por tanto, también en su actuación. Conservan, pues, las funciones que tenían: pueden alterar, dividirse, nutrir y corromperse. (SmTh IIIa q.77 a.3)
 
-**La corrupción de las especies (Q77 a.4):** Si las especies sacramentales se corrompen (el pan se enmohece, el vino se agria), entonces Cristo deja de estar presente, porque el signo sacramental ha cesado. Cristo no abandona el sacramento por indignidad del lugar sino por corrupción de la materia.
+**a.4 — Las especies pueden corromperse:** La corrupción es un movimiento del ser al no ser, y estas especies conservan el ser que tenían. Podían corromperse directamente —por alteración de las cualidades o por adición o división de la cantidad— e indirectamente, por corrupción del sujeto; este segundo modo sigue siendo posible, porque permanece el ser que tenían en el sujeto, aunque no el sujeto. Mientras la inmutación no baste para corromper el pan y el vino, no desaparece el cuerpo y la sangre de Cristo; cuando basta, cesa la presencia. (SmTh IIIa q.77 a.4)
 
-**Alimentos y bebidas que se añaden (Q77 a.6):** Si se añade algo extraño a las especies (otro alimento o bebida), se mezcla con los accidentes. La presencia de Cristo no se extiende a ello, pero podría impedir la validez de la consagración si altera la naturaleza de la materia.
+**a.5 — De las especies se engendra algo:** Como la corrupción de una cosa es la generación de otra, de las especies sacramentales se engendra algo cuando se corrompen —cenizas, gusanos—. No del cuerpo de Cristo, que es incorruptible, ni del aire circundante, que no aparece antes alterado, ni por retorno de la sustancia del pan, que no puede volver. Lo más razonable es que en la misma consagración se conceda milagrosamente a la cantidad dimensiva el ser sujeto propio de las formas sucesivas, es decir, lo que pertenece a la materia. (SmTh IIIa q.77 a.5)
+
+**a.6 — Las especies pueden alimentar:** La comida alimenta en cuanto se convierte en la sustancia de quien se alimenta; y como las especies pueden convertirse en las sustancias que de ellas se generan, pueden convertirse también en el cuerpo humano y alimentarlo realmente, no solo por el olor o el sabor. Nutrir no compete a la forma, que no permanece, sino a la materia. (SmTh IIIa q.77 a.6)
+
+**a.7 — Las especies se fraccionan realmente:** No es fracción aparente —los sentidos no se engañan sobre su objeto propio— ni fracción sin sujeto fraccionado. Se fracciona la cantidad dimensiva del pan, que es el sujeto de la fracción; y como las especies son el verdadero cuerpo de Cristo, la fracción de las especies es **sacramento de la pasión**, que tuvo lugar en el verdadero cuerpo. (SmTh IIIa q.77 a.7)
+
+**a.8 — Mezcla con otro líquido en el vino consagrado:** Las especies adquieren, como la sustancia, el modo activo y pasivo de obrar o recibir. Si se mezcla líquido en cantidad suficiente para difundirse por todo el vino y formar un compuesto, el vino deja de ser vino numéricamente y cesa la presencia; si la cantidad es tan pequeña que no se difunde por todo, solo se mezcla una parte, y el cuerpo y la sangre de Cristo permanecen mientras las especies permanecen numéricamente las mismas. (SmTh IIIa q.77 a.8)
 
 ## Distinciones importantes
 

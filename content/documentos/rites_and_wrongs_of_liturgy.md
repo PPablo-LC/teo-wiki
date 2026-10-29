@@ -97,7 +97,7 @@ Propone como alternativa los **diez principios** inspirados en Dieter Rams.
 | IV | Facilita el compromiso (participación activa) | Compromiso sensorial, corporal, cognitivo; dones del Espíritu; distinción entre «asistencia» y «participación» |
 | V | Es inclusiva | Hospitalidad divina; bautismo como nueva identidad; rechazo de exclusiones arbitrarias |
 | VI | Está basada en la creación | Liturgia encarnada en la materia y el mundo; ecología; comensalidad humana como base de la Eucaristía |
-| VII | Prioriza a los marginados | La colecta como gesto litúrgico; crítica a la liturgia «esplendorosa» que olvida a los pobres; visión liturgico-social |
+| VII | Prioriza a los marginados | La colecta como gesto litúrgico; crítica a la liturgia «esplendorosa» que olvida a los pobres; visión litúrgico-social |
 | VIII | Evita la acumulación | Crítica al «clutter ritual»; el lavabo como ejemplo de gesto acumulado sin sentido; necesidad de discernir lo central |
 | IX | Sigue el patrón de la Encarnación | Cristo como nuevo tabernáculo; todo gesto humano es lugar de encuentro con Dios; oración de los fieles, mesa, pan, cáliz |
 | X | Es abierta | Contra el *do ut des* litúrgico; las misas ofrecidas, las novenas como «loyalty cards»; Dios siempre mayor que nuestro ritual |

@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "LA IGLESIA NO TIENE LA FACULTAD DE CONFERIR LA ORDENACIÓN SACERDOTAL A LAS MUJERES"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 39
 timestamp: 2026-08-31
-description: "Resumen de 'LA IGLESIA NO TIENE LA FACULTAD DE CONFERIR LA ORDENACIÓN SACERDOTAL A LAS MUJERES' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'LA IGLESIA NO TIENE LA FACULTAD DE CONFERIR LA ORDENACIÓN SACERDOTAL A LAS MUJERES' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Premio eterno
-description: "La recompensa sobrenatural que Dios concede a los justos por sus meritos adquiridos con la gracia: la vision beatifica de Dios y la felicidad eterna en el cielo."
+description: "La recompensa sobrenatural que Dios concede a los justos por sus méritos adquiridos con la gracia: la vision beatifica de Dios y la felicidad eterna en el cielo."
 ---
 # Premio eterno
 
@@ -10,7 +10,7 @@ description: "La recompensa sobrenatural que Dios concede a los justos por sus m
 
 ## Definición
 
-La recompensa sobrenatural que Dios concede a los justos por sus meritos adquiridos con la gracia: la vision beatifica de Dios y la felicidad eterna en el cielo. Es el fin ultimo del hombre y la consumacion de la vida cristiana.
+La recompensa sobrenatural que Dios concede a los justos por sus méritos adquiridos con la gracia: la vision beatifica de Dios y la felicidad eterna en el cielo. Es el fin ultimo del hombre y la consumación de la vida cristiana.
 
 ## Desarrollo doctrinal
 
@@ -32,13 +32,13 @@ El Catecismo enseña que los justos participaran en la gloria de Cristo, recibie
 
 ### Según Royo Marin (TPCr)
 
-Royo Marin explica que el merito de condigno, fundado en la promesa divina y la participacion en la naturaleza divina, establece una verdadera relacion de justicia entre las buenas obras del justo y la recompensa eterna. La vida eterna es a la vez gracia y corona debida a las obras del justo.
+Royo Marin explica que el merito de condigno, fundado en la promesa divina y la participación en la naturaleza divina, establece una verdadera relación de justicia entre las buenas obras del justo y la recompensa eterna. La vida eterna es a la vez gracia y corona debida a las obras del justo.
 
 ### Según el análisis de conferencias para varones (notas)
 
-> **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
+> **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-Christian Bobak (men_of_integrity.md) conecta el reconocimiento humano (Oficial del Año como reconocimiento postumo) con la doctrina del premio eterno y la [[recompensa_celestial]], mostrando la dimension trascendente del servicio silencioso.
+Christian Bobak (men_of_integrity.md) conecta el reconocimiento humano (Oficial del Año como reconocimiento póstumo) con la doctrina del premio eterno y la [[recompensa_celestial]], mostrando la dimension trascendente del servicio silencioso.
 
 ## Distinciones importantes
 

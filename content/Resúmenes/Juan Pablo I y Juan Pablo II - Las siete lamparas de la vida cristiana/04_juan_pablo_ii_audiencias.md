@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "JUAN PABLO II, Audiencias"
-fuente: Juan Pablo I y Juan Pablo II - Las siete lamparas de la vida cristiana
+fuente: Juan Pablo I y Juan Pablo II - Las siete lámparas de la vida cristiana
 capítulo: 4
 timestamp: 2026-08-25
 description: "Resumen de las cuatro audiencias de Juan Pablo II (oct.-nov. 1978): prudencia imagen de la Providencia, justicia abierta a Dios, fortaleza de los valientes desconocidos y templanza dominio de sí"

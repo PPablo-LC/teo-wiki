@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "El testimonio de Santa Catalina de Siena"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 22
 timestamp: 2026-08-31
-description: "Resumen de 'El testimonio de Santa Catalina de Siena' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'El testimonio de Santa Catalina de Siena' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 
@@ -22,7 +22,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## El testimonio de Santa Catalina de Siena
 
-#### (Angelus 12-02-95)
+#### (Ángelus 12-02-95)
 
 Siguiendo la reflexión sobre la misión de paz de la mujer, el Papa presenta el testimonio de [[santa_catalina_de_siena]]. Tiene algo de increíble la vida de esta mujer, que vivió sólo 33 años y desempeñó un papel de primer plano en la Iglesia de su tiempo. El secreto de su personalidad excepcional era el fuego interior que la consumía: la pasión por Cristo y por la Iglesia.
 

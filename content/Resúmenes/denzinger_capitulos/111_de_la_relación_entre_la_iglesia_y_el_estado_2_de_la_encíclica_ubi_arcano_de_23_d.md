@@ -63,7 +63,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## De las reuniones para procurar la unidad de todos los cristianos (1) [Del Decreto del Santo Oficio, de 8 de julio de 1927]
 
-- D-2199: No es lícito a los católicos asistir o favorecer las reuniones, asociaciones, congresos o sociedades de acatólicos cuyo fin es que cuantos reclaman para sí de un modo u otro el nombre de cristianos se unan en una sola alianza religiosa; hay que atenerse totalmente al Decreto del Santo Oficio de 4 de julio de 1919 sobre la participación de los católicos en la sociedad «para procurar la unidad de la cristiandad» (cf. la Encíclica de Pío XI Mortalium animos, de 6 de enero de 1928).
+- D-2199: No es lícito a los católicos asistir o favorecer las reuniones, asociaciones, congresos o sociedades de acatólicos cuyo fin es que cuantos reclaman para sí de un modo u otro el nombre de cristianos se unan en una sola alianza religiosa; hay que atenerse totalmente al Decreto del Santo Oficio de 4 de julio de 1919 sobre la participación de los católicos en la sociedad «para procurar la unidad de la cristiandad» (cf. la Encíclica de Pío XI Mortalium ánimos, de 6 de enero de 1928).
 
 ## Del nexo de la sagrada Liturgia con la Iglesia (3) ..[De la Constitución Apostólica Divini cultus, de 20 de diciembre de1928]
 

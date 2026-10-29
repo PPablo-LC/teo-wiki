@@ -13,7 +13,7 @@ description: "La identidad de Jesucristo como Mesías prometido, proclamada por 
 
 ## Definición
 
-El mesianismo de Cristo se refiere a la conciencia y proclamación de Jesús como el Mesías ([[ungido]]) prometido en el [[antiguo_testamento]], enviado por Dios para establecer su [[reino_de_dios]] y realizar la salvación definitiva. Jesucristo ejerce su mesianismo desde la humildad de su vida terrena, confirmado por sus milagros y su enseñanza, pero sobre todo por su [[pasión]], [[muerte_y_resurrección]] y la efusión del [[espíritu_santo]]. La confesión de Pedro en Cesarea de Filipo (Mt 16,16) marca el reconocimiento explícito del mesianismo de Jesús por parte de los Apóstoles.
+El mesianismo de Cristo se refiere a la conciencia y proclamación de Jesús como el Mesías ([[ungido]]) prometido en el [[antiguo_testamento]], enviado por Dios para establecer su [[reino_de_dios]] y realizar la salvación definitiva. Jesucristo ejerce su mesianismo desde la humildad de su vida terrena, confirmado por sus milagros y su enseñanza, pero sobre todo por su [[pasión]], [[muerte_y_resurrección]] y la efusión del [[espíritu_santo]]. La confesión de Pedro en Cesárea de Filipo (Mt 16,16) marca el reconocimiento explícito del mesianismo de Jesús por parte de los Apóstoles.
 
 ## Ver también
 

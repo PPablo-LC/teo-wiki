@@ -106,13 +106,13 @@ ADRIANO I, 772-795:
 - **D-300** [Sobre la predestinación y abusos de los españoles] Con San Fulgencio: Dios preparó los merecimientos para los justos y los premios para su glorificación, pero a los malos no les preparó voluntades malas, sino justos y eternos suplicios: tal es la eterna predestinación de las obras de Dios, que no suprime el esfuerzo ni la oración.
 - **D-301** Se enumeran los abusos de los españoles: vida común con judíos y paganos, matrimonios con infieles, ordenación de pseudosacerdotes sin examen y la cuestión de la libertad del albedrío.
 
-**VII ecuménico (contra los iconoclastas). Definición sobre las sagradas imágenes y la tradición. SESION VII**:
+**VII ecuménico (contra los iconoclastas). Definición sobre las sagradas imágenes y la tradición. SESIÓN VII**:
 
 - **D-302** Definición: como la imagen de la cruz, han de exponerse las sagradas imágenes de Cristo, de la Madre de Dios, de los ángeles y de los santos en las iglesias, vasos y vestiduras; se les tributa saludo y adoración de honor, no la latría que solo conviene a la naturaleza divina; «el honor de la imagen se dirige al original».
 - **D-303** Prueba: la tradición de la Iglesia Católica, recibida de los Apóstoles y los Padres (el VII ecuménico legitima el culto de las [[iconos|imágenes]]).
 - **D-304** Sanción: quienes desechen las tradiciones o las imágenes serán depuestos si son obispos o clérigos, y separados de la comunión si son monjes o laicos.
 
-**De las sagradas elecciones. SESION VIII**:
+**De las sagradas elecciones. SESIÓN VIII**:
 
 - **D-305** Toda elección de obispo, presbítero o diácono hecha por los príncipes queda anulada; el obispo debe ser elegido por los obispos, según los cánones de los Apóstoles y de Nicea.
 

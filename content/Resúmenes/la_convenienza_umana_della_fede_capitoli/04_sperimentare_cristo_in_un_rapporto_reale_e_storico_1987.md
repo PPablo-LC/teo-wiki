@@ -418,7 +418,7 @@ sicurezza, forza». Y de aquí un criterio nuevo: «Un giudizio è diverso non q
 ma quando cambia il criterio», y ese criterio es la gloria de Cristo. Por eso «Non assumete gli
 schemi della realtà mondiale, ma trasformatevi rinnovando il vostro modo di pensare» (Rm 12,1-2), con
 la lucidezza de los que «la scienza, la tecnica e la politica ne sono una dimostrazione spaventosa:
-hanno solo creato una paura cosmica che l'uomo distrugga tutto» (1Cor 3,18-23).
+hanno solo creato una paura cósmica che l'uomo distrugga tutto» (1Cor 3,18-23).
 
 La tercera es **la voluntad y la afectividad**, «una energia che consegue a un giudizio», y por eso
 el hombre «può essere chiamato da Dio all'eroismo, all'eroismo quotidiano». Il ejemplo es lo stesso
@@ -486,7 +486,7 @@ cuore… è pieno di gratitudine, e la gratitudine è lo zampillo primo della gi
 - Cfr. R. Romano Scalfi, «L'Altra Europa».
 - Cfr. L. Giussani, *L'opera del movimento. La Fraternità di Comunione e Liberazione*, San Paolo,
   Cinisello Balsamo (MI) 2002, pp. 233-243.
-- Cfr. «Benedictus» e «Angelus», en *Il libro delle ore*; *Ad Deum qui laetificat juventutem meam*
+- Cfr. «Benedictus» e «Ángelus», en *Il libro delle ore*; *Ad Deum qui laetificat juventutem meam*
   (introito de la Misa en latín; cfr. Sal 42,4).
 - Cfr. «Giesù sommo conforto», en *Canti per la Settimana Santa*.
 - Cfr. J. Wilde, *Introduzione al cristianesimo*; *Sillabo*.

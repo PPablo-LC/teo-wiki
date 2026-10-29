@@ -28,7 +28,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## SESION XXII (17, de septiembre de 1562)
+## SESIÓN XXII (17, de septiembre de 1562)
 
 ## Doctrina... acerca del santísimo sacrificio de la Misa
 
@@ -75,7 +75,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 - D-948 a D-956 (can. 1-9): condenan a los que niegan que en la misa se ofrezca un verdadero y propio sacrificio; a los que niegan que Cristo instituyó sacerdotes con las palabras «Haced esto en memoria mía»; a los que niegan que el sacrificio sea propiciatorio o que se ofrezca por vivos y difuntos; a los que dicen que se infiere blasfemia al sacrificio de la cruz; a los que llaman impostura las misas en honor de los santos; a los que dicen que el canon contiene error; a los que llaman provocaciones a la impiedad a las ceremonias; a los que dicen que son ilícitas las misas en que solo el sacerdote comulga; y a los que condenan el rito de pronunciar en voz baja, la misa en latín o la mezcla del agua con el vino.
 
-## SESION XXIII (15 de julio de 1563) Doctrina sobre el sacramento del orden (1)
+## SESIÓN XXIII (15 de julio de 1563) Doctrina sobre el sacramento del orden (1)
 
 - D-956a: Doctrina católica y verdadera sobre el sacramento del orden, decretada para condenar los errores del tiempo.
 
@@ -99,7 +99,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SESION XXII (17, de septiembre de 1562)
+## SESIÓN XXII (17, de septiembre de 1562)
 
 Contexto de la sesión XXII de Trento.
 
@@ -147,7 +147,7 @@ Prolegómeno de los cánones (D-947).
 
 Cánones sobre el sacrificio de la Misa (D-948 a D-956).
 
-# SESION XXIII (15 de julio de 1563) Doctrina sobre el sacramento del orden (1)
+# SESIÓN XXIII (15 de julio de 1563) Doctrina sobre el sacramento del orden (1)
 
 Introducción de la doctrina sobre el orden (D-956a).
 

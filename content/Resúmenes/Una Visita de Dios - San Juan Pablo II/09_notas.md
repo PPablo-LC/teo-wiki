@@ -35,7 +35,7 @@ Archivo que recopila las 105 notas a pie de página de la obra, clasificadas en 
 - [98] Mensaje a los enfermos congregados en Lourdes, 21-VII-1981
 - [99] Homilía a los enfermos, 11-II-1980
 - [100] Homilía a los enfermos en el día de la Virgen de Lourdes, 11-II-1982
-- [101] Angelus, 19-VII-1987
+- [101] Ángelus, 19-VII-1987
 - [102] Homilía de la Misa en San Pedro para los enfermos, 11-II-1987
 - [103] Homilía en la Misa para los enfermos, 11-II-1988
 - [104] A los enfermos, San Pedro, 11-II-1989

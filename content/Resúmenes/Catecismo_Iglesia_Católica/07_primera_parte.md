@@ -126,7 +126,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 §450 La afirmación del señorío de Jesús significa también que el hombre no debe someter su libertad personal de modo absoluto a ningún poder terrenal sino sólo a Dios: César no es el "Señor". "La Iglesia cree que la clave, el centro y el fin de toda historia humana se encuentra en su Señor y Maestro".
 
-§451 La oración cristiana está marcada por el título "Señor": "el Señor esté con vosotros", "por Jesucristo nuestro Señor", Maran atha ("¡el Señor viene!") o Marana tha ("¡Ven, Señor!").
+§451 La oración cristiana está marcada por el título "Señor": "el Señor esté con vosotros", "por Jesucristo nuestro Señor", Maran atha ("¡el Señor viene!") o Maraña tha ("¡Ven, Señor!").
 
 ##### Resumen
 

@@ -26,7 +26,7 @@ miembro de la Academia Francesa, amigo personal de Pablo VI. Es autor de
 
 Guitton mantuvo con Pablo VI un coloquio íntimo y documentó en *Paolo VI
 segreto* la que fue, según el relato, una de las últimas conversaciones del
-Papa: la del 8 de septiembre de 1977, tras el *Angelus*, menos de un año
+Papa: la del 8 de septiembre de 1977, tras el *Ángelus*, menos de un año
 antes de su muerte.
 
 ## Relevancia para la teología católica

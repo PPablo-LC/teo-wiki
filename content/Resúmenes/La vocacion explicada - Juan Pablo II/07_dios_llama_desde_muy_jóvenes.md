@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "**Dios llama desde muy jóvenes**"
-fuente: La vocacion explicada - Juan Pablo II
+fuente: La vocación explicada - Juan Pablo II
 capítulo: 7
 timestamp: 2026-08-27
-description: "Resumen de '**Dios llama desde muy jóvenes**' — La vocacion explicada - Juan Pablo II"
+description: "Resumen de '**Dios llama desde muy jóvenes**' — La vocación explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
 

@@ -8,13 +8,13 @@ tags:
   - teología_del_cuerpo
   - matrimonio
   - teología_espiritual
-timestamp: 2026-10-22
+timestamp: 2026-10-28
 ---
 
 # Breve catechesi sul matrimonio
 
 > Área: Teología moral / Sacramentos / Teología del cuerpo
-> Última actualización: 2026-10-22
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -35,8 +35,8 @@ ahí que la moralidad conyugal no pueda fundarse sino en el «asombro» ante el
 don y en la «ley de la gradualidad», que preserva a la vez la integridad de la
 norma y la dignidad de la persona.
 
-Está dirigido a «todos los sposos que ho benedetto davanti all'altare di
-Cristo» (dedicatoria) y se declara «un cammino di educazione all'amore,
+Está dirigido a «todos los esposos que he bendecido davanti all'altare di
+Cristo» (dedicatoria) y se declara «un camino de educación al amor,
 dedicato soprattutto alle giovani coppie che si preparano a celebrare il
 sacramento del loro matrimonio» (cap. I, §1).
 
@@ -71,7 +71,7 @@ sacramento del loro matrimonio» (cap. I, §1).
    (siete «verità»); §2 Il segno e l'invito della verginità (parabola di
    Claudel); §3 Epilogo.
 8. **Conversazione sul matrimonio** (Sicari–Giussani): appartenenza, stupore,
-   libertà, estetica ed etica, castità prematrimoniale, la famiglia missionaria,
+   libertà, estética ed etica, castità prematrimoniale, la famiglia missionaria,
    il perdono.
 
 ### Tesis centrales
@@ -106,7 +106,7 @@ sacramento del loro matrimonio» (cap. I, §1).
   essere?», Ml 2,14-15) hacen del vínculo conyugal el lugar donde se aprende
   el amor de Dios y se redefine el propio matrimonio.
 - **Cristo es el único Mediatore y el modelo de la conyugalidad.** «Amare
-  come Cristo ha amato»: el conyuge se convierte en «via a Dios»; en Cristo el
+  come Cristo ha amato»: el cónyuge se convierte en «via a Dios»; en Cristo el
   otro «merita la mia fedeltà, nonostante il suo peccato è degno di perdono,
   nonostante la sua fragilità è degno di un legame indissolubile». El otro
   «non può mai essere 'consumato', né totalmente 'posseduto'» ([[don_de_sí]]).
@@ -150,7 +150,7 @@ sacramento del loro matrimonio» (cap. I, §1).
   volvía atractivo el cuerpo era su misterio y su ser «custode» della persona:
   «all'inizio c'era la 'tenerezza', cioè la cura trepidante della misteriosa
   personalità spirituale dell'altro». Los métodos naturales la exigen; los
-  anticonceptivos la destruyen ([[tenerezza]]).
+  anticonceptivos la destruyen ([[ternura]]).
 - **El «sí a la vida» como punto de partida de la moral.** «C'è una
   incredibile e radicale differenza tra 'il non poter dire responsabilmente
   sì alla vita', e il 'dire di no alla sua accoglienza'». La anticoncepción y
@@ -229,7 +229,7 @@ sacramento del loro matrimonio» (cap. I, §1).
 - **Fidelidad y «mutación».** El drama no es que el «tu» cambie, sino que el
   «io» considera comprensible e inevitable su propio cambio mientras el del
   otro le parece una «frode». La infidelidad consiste en buscar en otro
-  aquello que se cree haber perdido en el propio conyuge.
+  aquello que se cree haber perdido en el propio cónyuge.
 - **Indissolubilidad y «nulo».** El libro distingue entre la separación
   «material» (imposible la reconciliación) y la ruptura del *vincolo*: quien
   queda separado sigue sacramentalmente ligado y vive «una sorta di vocazione
@@ -261,7 +261,7 @@ nupciales, y su capítulo quinto se articula con [[paternidad_responsable]],
 [[aborto]], [[anticoncepción]] y [[procreación]] a la luz de *Humanae vitae*
 ([[humanae_vitae]]) y de *Il dono della vita*. La sección sobre la
 «cosificación» del cuerpo y el placer enlaza con [[pornografía]] y con la
-crítica del «mito pagano de la fusión». La vía de la [[tenerezza]] y la
+crítica del «mito pagano de la fusión». La vía de la [[ternura]] y la
 [[castidad_prematrimonial]] reenvían a la pedagogía del amor de
 [[educación_a_la_castidad]] y a la mística del [[amor_puro]]. El diálogo final
 con Giussani prolonga esta línea de la [[pertenencia]] y del
@@ -270,16 +270,16 @@ con Giussani prolonga esta línea de la [[pertenencia]] y del
 ## Resúmenes por capítulo
 
 Los nueve resúmenes generados a partir de la fuente están en
-`wiki/Resúmenes/breve_catechesi_sul_matrimonio/`:
+`wiki/Resúmenes/Breve catechesi sul matrimonio -- Antonio Maria Sicari_clean_capitulos/`:
 
-1. [[01_portada_y_datos_editoriales]] — portada, catálogo y cita de apertura
-2. [[02_prefazione_di_luigi_giussani]] — prefacio
-3. [[03_capitolo_primo_cio_che_l_amore_rivela]] — «Ciò che l'amore rivela»
-4. [[04_capitolo_secondo_l_amore_rivelato_nella_storia_sacra]] — «L'amore rivelato nella Storia Sacra»
-5. [[05_capitolo_terzo_il_sacramento_cristiano_del_matri]] — «Il sacramento cristiano del matrimonio»
-6. [[06_capitolo_quarto_il_mistero_del_corpo]] — «Il mistero del corpo»
-7. [[07_capitolo_quinto_il_mistero_della_persona_la_morale]] — «Il mistero della persona: la moralità»
-8. [[08_capitolo_sesto_un_breve_riepilogo]] — «Un breve riepilogo»
+1. [[01_breve_catechesi_sul_matrimonio]] — portada, datos editoriales e índice de la obra
+2. [[02_prefazione]] — prefacio de Luigi Giussani
+3. [[03_capitolo_primo__cio_che_lamore_rivela]] — «Ciò che l'amore rivela»
+4. [[04_capitolo_secondo__lamore_rivelato_nella_storia_sacra]] — «L'amore rivelato nella Storia Sacra»
+5. [[05_capitolo_terzo__il_sacramento_cristiano_del_matrimonio]] — «Il sacramento cristiano del matrimonio»
+6. [[06_capitolo_quarto__il_mistero_del_corpo]] — «Il mistero del corpo»
+7. [[07_capitolo_quinto__il_mistero_della_persona_la_moralita]] — «Il mistero della persona: la moralità»
+8. [[08_capitolo_sesto__un_breve_riepilogo]] — «Un breve riepilogo»
 9. [[09_conversazione_sul_matrimonio]] — «Conversazione sul matrimonio»
 
 ## Ver también
@@ -288,7 +288,7 @@ Los nueve resúmenes generados a partir de la fuente están en
 [[teología_nupcial]], [[teología_del_cuerpo]], [[castidad_conyugal]],
 [[castidad_prematrimonial]], [[indisolubilidad_del_matrimonio]],
 [[fidelidad_conyugal]], [[fecundidad]], [[paternidad_responsable]],
-[[tenerezza]], [[ley_de_la_gradualidad]], [[familia]], [[iglesia_doméstica]],
+[[ternura]], [[ley_de_la_gradualidad]], [[familia]], [[iglesia_doméstica]],
 [[virginidad_consagrada]], [[unión_conyugal]], [[humanae_vitae]]
 
 ## Referencias

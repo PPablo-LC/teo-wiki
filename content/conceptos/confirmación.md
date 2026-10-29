@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Confirmación
 tags: ["sacramental"]
 
-timestamp: 2026-05-26
+timestamp: 2026-10-28
 description: "La confirmación es el segundo sacramento de la vida cristiana, instituido por Nuestro Señor Jesucristo, que imprime el [[carácter_sacramental]]."
 ---
 # Confirmación
 
 > Área: Sacramental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -77,8 +77,6 @@ Lumen Gentium enseña en LG §11 que por el sacramento de la **confirmación** l
 
 El apostolado de los laicos es participación en la misión salvífica de la Iglesia, apostolado al que todos están destinados por el Señor mismo en virtud del [[bautismo]] y de la **confirmación** [ConcVatII, LG §33]. Los Obispos son los ministros originarios de la confirmación [ConcVatII, LG §26].
 
-### Según el Concilio Vaticano II (ConcVatII)
-
 *Sacrosanctum Concilium* 71 ordena la revisión del rito de la confirmación para que aparezca más claramente la íntima relación de este sacramento con toda la iniciación cristiana. Dispone que la renovación de las promesas del bautismo preceda a la celebración del sacramento, y que la confirmación puede administrarse dentro de la Misa según las circunstancias.
 
 ### Según Royo Marín (TPCr)
@@ -99,23 +97,30 @@ PS presenta la confirmación como el sacramento que fortalece la gracia recibida
 
 #### IIIª q.72 — El sacramento de la confirmación
 
-La confirmación es verdadero sacramento de la Nueva Ley (a.1). Así como en la vida natural hay dos plenitudes —la primera infancia (nacimiento) y la plenitud corporal (adultez)—, así en la vida espiritual el [[bautismo]] da la primera vida espiritual y la confirmación da la plenitud y robustez espiritual para el combate contra los enemigos de la fe. El bautizado es como un niño; el confirmado, como un soldado adulto de Cristo.
+**a.1 — La confirmación es verdadero sacramento:** Los sacramentos de la nueva ley están destinados a producir efectos especiales de gracia, y donde se encuentra un efecto especial de la gracia hay un sacramento especial. Pues las cosas corporales son imagen de las espirituales: en la vida corporal es una cierta perfección que el hombre llegue a la edad madura, y esa plenitud tiene su análogo en la vida del espíritu. Así como el [[bautismo]] da la primera vida espiritual, la confirmación da su plenitud y robustez para el combate. (SmTh IIIa q.72 a.1)
 
-La **materia** del sacramento es el [[crisma]], óleo de oliva mezclado con bálsamo consagrado por el obispo (a.2). El aceite de oliva significa la plenitud del Espíritu Santo, de quien Cristo es ungido; el bálsamo significa el buen olor que los confirmados deben difundir, edificando a los demás con el ejemplo. La consagración previa del crisma por el obispo antes de su uso en el sacramento es necesaria (a.3) porque la [[unción]] de la confirmación no se hace en la cabeza (como en el bautismo al crismar), sino en la frente, como signo de que no se teme manifestar la fe.
+**a.2 — El crisma es la materia adecuada:** En este sacramento se da la plenitud del Espíritu Santo para el robustecimiento propio de la edad madura, en la que el hombre comienza a comunicarse con los demás. La gracia del Espíritu se designa con el **óleo** —Cristo fue «ungido con óleo de alegría»—, y por eso la materia es el crisma, óleo de oliva con bálsamo: el aceite significa la plenitud del Espíritu y el bálsamo, el buen olor que los confirmados deben difundir. (SmTh IIIa q.72 a.2)
 
-La **forma** es: «Yo te signo con la señal de la cruz y te confirmo con el crisma de la salud, en el nombre del Padre y del Hijo y del Espíritu Santo» (a.4).
+**a.3 — Es imprescindible la consagración previa del crisma por el obispo:** Toda la virtud santificadora de los sacramentos se deriva de Cristo. El bautismo y la eucaristía tienen materia de la que Cristo ya usó, y ese uso les dio su aptitud sacramental; pero Cristo no hizo unciones visibles, para no prejuzgar la unción invisible con que fue ungido sobre todos sus compañeros. Por eso el crisma, como el óleo santo y el de los enfermos, se bendice antes de utilizarlo. (SmTh IIIa q.72 a.3)
 
-La confirmación imprime [[carácter_sacramental]] (a.5). El carácter del bautismo confiere la potestad para recibir los demás sacramentos; el carácter de la confirmación confiere la potestad para el combate espiritual y la confesión pública de la fe. Este carácter presupone el carácter bautismal (a.6), como el crecimiento presupone el nacimiento, de modo que la confirmación se recibe después del bautismo.
+**a.4 — La forma «te signo con la señal de la cruz» es la adecuada:** La forma del sacramento debe contener todo lo que pertenece a su especie, y en este sacramento se da el Espíritu Santo como fuerza para el combate espiritual. Por eso la forma incluye la causa que confiere esa plenitud, la fuerza misma —«el crisma de la salud»— y el signo de la cruz, con la invocación de la Trinidad. (SmTh IIIa q.72 a.4)
 
-La confirmación confiere gracia santificante y la plenitud del Espíritu Santo para el fortalecimiento espiritual (a.7). Su efecto propio no es la remisión de pecados (no es necesario para la salvación como el bautismo), sino una cierta plenitud de gracia para obrar valerosamente.
+**a.5 — Imprime carácter:** El carácter es una potestad espiritual destinada a las acciones sagradas. Como el bautismo es una generación espiritual y la confirmación un crecimiento por el que se alcanza la edad espiritual perfecta, y el que es adulto debe obrar por sí mismo en las cosas espirituales, la confirmación imprime carácter. (SmTh IIIa q.72 a.5)
 
-Debe administrarse a todos los bautizados (a.8). Aunque la edad de la discreción es la más conveniente para recibirla (por la disposición interior), puede administrarse también a niños, pues la edad corporal no condiciona la recepción del Espíritu. Se administra en la **frente** (a.9), en la parte más visible del cuerpo, para significar que el confirmado no se avergüenza de confesar a Cristo.
+**a.6 — Presupone necesariamente el carácter del bautismo:** La confirmación es al bautismo lo que el crecimiento al nacimiento, y nadie llega a la madurez si antes no nace. Por eso quien se confirmase sin haber sido bautizado no recibiría nada y tendría que confirmarse de nuevo después del bautismo. (SmTh IIIa q.72 a.6)
 
-Requiere **padrino** (a.10) porque el confirmado, como soldado de Cristo que se prepara para el combate espiritual, necesita quien le instruya en la lucha y tenga cuidado de él. La adopción espiritual que supone la confirmación origina impedimento matrimonial entre padrino y ahijado.
+**a.7 — Confiere la gracia santificante:** Otorga a los bautizados el Espíritu Santo para vigorizarles, como se dio a los Apóstoles en Pentecostés y a los bautizados por la imposición de manos de los Apóstoles; y la misión o donación del Espíritu va siempre acompañada de la gracia santificante. Su efecto propio no es la remisión de los pecados, sino la plenitud de gracia para obrar valerosamente. (SmTh IIIa q.72 a.7)
 
-El **ministro propio** es el obispo (a.11). Aunque el bautismo (nacimiento espiritual) puede ser conferido por cualquier sacerdote, la confirmación (perfección y consumación del bautismo) compete al supremo artífice. Como el grado supremo de la jerarquía eclesiástica, el obispo confirma imbuyendo el carácter del soldado de Cristo.
+**a.8 — Debe darse a todos los bautizados:** El sacramento promueve al hombre a la edad espiritual madura, y la intención de Dios de conducir todo a la perfección es mayor que la de la naturaleza, que tiende a que todo el que nace llegue a la madurez: «las obras de Dios son perfectas». La edad de la discreción es la más conveniente por la disposición interior, pero la edad corporal no condiciona la recepción del Espíritu, y puede administrarse también a niños. (SmTh IIIa q.72 a.8)
 
-El **rito de la Iglesia** es el adecuado (a.12). Las disposiciones de la Iglesia sobre el tiempo (Jueves Santo para la consagración del crisma, tiempo pascual para la confirmación solemne, posibilidad de administrarla en ayunas o no) están regidas por la sabiduría de Cristo, que está en medio de los suyos (Mt 18,20).
+**a.9 — Se administra en la frente:** En este sacramento se recibe el Espíritu como robustecimiento para testimoniar valientemente la fe. Se signa la frente con el crisma y la cruz, en primer lugar, como el soldado es marcado con el signo de su jefe, que debe ser claro y manifiesto; y además porque el temor y la vergüenza —los dos obstáculos para confesar el nombre de Cristo— se manifiestan precisamente en la frente: «los vergonzosos se sonrojan y los miedosos palidecen». (SmTh IIIa q.72 a.9)
+
+**a.10 — Debe ser sostenido por otro:** El sacramento se da para comunicar fortaleza en la lucha espiritual, y los que se enrolan en la lucha necesitan instructores que les orienten en el modo de combatir; además, como en él se otorga la madurez espiritual, quien se acerca es considerado todavía débil e inmaduro y por eso es sostenido. Este oficio de tutor espiritual origina el impedimento matrimonial entre padrino y ahijado. (SmTh IIIa q.72 a.10)
+
+**a.11 — Solo el obispo puede conferirlo:** En toda obra corresponde dar el último toque al supremo artífice: la preparación de los materiales es de los obreros inferiores, pero la forma la da el superior y el uso corresponde al supremo. Los fieles son «edificación de Dios», y la confirmación, que es la perfección y consumación del bautismo, compete al grado supremo de la jerarquía, que confirma imbuyendo el carácter del soldado de Cristo. (SmTh IIIa q.72 a.11)
+
+**a.12 — El rito de la Iglesia es adecuado:** Las decisiones de la Iglesia están regidas por la sabiduría de Cristo, que prometió estar donde dos o tres se congregan en su nombre; por eso debe tenerse por cierto que el rito que emplea en este y en los otros sacramentos es el adecuado. Las determinaciones concretas —el tiempo de la celebración, la bendición del crisma y las demás ceremonias— pertenecen a esa prudente disposición eclesiástica. (SmTh IIIa q.72 a.12)
+
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

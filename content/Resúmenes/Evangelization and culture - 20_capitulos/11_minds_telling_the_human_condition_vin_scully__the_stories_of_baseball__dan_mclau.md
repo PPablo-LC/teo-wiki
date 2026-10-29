@@ -29,7 +29,7 @@ La voz de Scully fue un instrumento constante que construyó una relación únic
 ### La Humildad de la Voz
 Scully sabía cuándo callarse para dejar que la multitud hablara en momentos cumbres (el primer Mundial de los Dodgers en 1955, el récord de Henry Aaron, el jonrón de Kirk Gibson), reconociendo que la voz no era la Palabra.
 
-### El Condicion Humano y la Fe
+### El Condición Humano y la Fe
 El artículo recoge frases célebres de Scully sobre la vida y el báisbol: "La vida comienza el Día de Apertura", "Perder se siente peor de lo que se siente ganar", y "Si quieres oír al Buen Señor reír, haz planes". Scully enfrentó tragedias personales (la muerte de su primera esposa y de su hijo mayor) con la fortaleza de su fe católica.
 
 ### Momentos Icónicos

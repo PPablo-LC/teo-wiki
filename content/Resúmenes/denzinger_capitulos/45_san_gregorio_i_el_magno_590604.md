@@ -25,7 +25,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ### SAN GREGORIO I EL MAGNO, 590-604
 
-**De la ciencia de Cristo (contra los agnoetas)** [Carta *Sicut aqua frigida* a Eulogio, patriarca de Alejandría, agosto de 600]:
+**De la ciencia de Cristo (contra los agnoetas)** [Carta *Sicut aqua frígida* a Eulogio, patriarca de Alejandría, agosto de 600]:
 
 **D-248** Sobre el texto de Mc. 13,32 («ni el Hijo ni los ángeles saben el día y la hora»), el Papa enseña que se ha de referir al cuerpo de Cristo, que somos nosotros, no a la cabeza. Con San Agustín, explica que Dios habla a veces a estilo humano, como cuando dice a Abraham: «Ahora conozco que temes a Dios» (Gen. 22,12): el Hijo omnipotente dice ignorar el día que hace que se ignore, porque no permite que se sepa. El Unigénito encarnado, hombre perfecto, sabe el día y la hora del juicio en la naturaleza humana por el poder de su divinidad; la ciencia que no tuvo por la naturaleza de la humanidad —criatura como los ángeles— la negó tener como no la tienen los [[ángeles]], que son criaturas. «El día y la hora del juicio los saben Dios y el hombre; pero por la razón de que el hombre es Dios». Es manifiesto que quien no sea nestoriano no puede ser [[agnoetas|agnoeta]]: quien confiesa que se encarnó la Sabiduría misma de Dios, ¿con qué razón puede decir que hay algo que la Sabiduría de Dios ignore?
 

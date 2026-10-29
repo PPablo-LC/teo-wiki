@@ -1,28 +1,28 @@
 ---
 type: Concepto Teológico
 title: Sanacion
-description: "La accion divina mediante la cual Dios restaura la salud corporal, psiquica o espiritual del ser humano."
+description: "La acción divina mediante la cual Dios restaura la salud corporal, psíquica o espiritual del ser humano."
 ---
 # Sanacion
 
-> Area: Ascetica y Mistica
+> Area: Ascética y Mistica
 > Ultima actualización: 2026-06-05
 
 ## Definición
 
-La accion divina mediante la cual Dios restaura la salud corporal, psiquica o espiritual del ser humano. En sentido pleno, la sanacion integral se refiere a la curacion de las heridas del pecado y la restauracion de la naturaleza humana por la gracia de Cristo.
+La acción divina mediante la cual Dios restaura la salud corporal, psíquica o espiritual del ser humano. En sentido pleno, la sanacion integral se refiere a la curación de las heridas del pecado y la restauración de la naturaleza humana por la gracia de Cristo.
 
 ## Desarrollo doctrinal
 
-La sanacion ocupa un lugar central en el ministerio de Jesucristo, que curo a numerosos enfermos como signo de la llegada del Reino de Dios. La Iglesia distingue entre curacion milagrosa (intervencion extraordinaria de Dios), liberacion (sanacion de influencias espirituales malignas) y el sacramento de la Uncion de los Enfermos, orientado a la sanacion espiritual del alma. La teologia ascetica y mistica habla de la sanacion interior como proceso por el cual la gracia divina cura las heridas afectivas y las memorias traumaticas.
+La sanacion ocupa un lugar central en el ministerio de Jesucristo, que curo a numerosos enfermos como signo de la llegada del Reino de Dios. La Iglesia distingue entre curación milagrosa (intervención extraordinaria de Dios), liberación (sanacion de influencias espirituales malignas) y el sacramento de la Unción de los Enfermos, orientado a la sanacion espiritual del alma. La teologia ascética y mistica habla de la sanacion interior como proceso por el cual la gracia divina cura las heridas afectivas y las memorias traumáticas.
 
 ## Perspectivas por fuente
 
 ### Según el análisis de conferencias para varones (notas)
 
-> **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
+> **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-- Brian Coghlan (healing.md) desarrolla extensamente la doctrina de la sanacion interior, distinguiendo entre curacion fisica, liberacion espiritual y sanacion de heridas emocionales. Cita las 7 peticiones del Padrenuestro como base de la sanacion integral.
+- Brian Coghlan (healing.md) desarrolla extensamente la doctrina de la sanacion interior, distinguiendo entre curación fisica, liberación espiritual y sanacion de heridas emocionales. Cita las 7 peticiones del Padrenuestro como base de la sanacion integral.
 - Adam Farber (fortitude_through_excellence_in_patience.md) conecta la sanacion con la paciencia sobrenatural.
 
 ### Según el Regnum Christi / Legión de Cristo (RC-Carismas-2023)
@@ -31,9 +31,9 @@ El documento «Consideraciones sobre los carismas, la sanación y la vida en el 
 
 ## Distinciones importantes
 
-- Sanacion espiritual (uncion de los enfermos) vs sanacion fisica (milagros) vs sanacion interior (heridas afectivas)
-- Curacion milagrosa vs proceso natural de recuperacion
-- Sanacion y liberacion
+- Sanacion espiritual (unción de los enfermos) vs sanacion fisica (milagros) vs sanacion interior (heridas afectivas)
+- Curación milagrosa vs proceso natural de recuperación
+- Sanacion y liberación
 
 ## Relaciones doctrinales
 

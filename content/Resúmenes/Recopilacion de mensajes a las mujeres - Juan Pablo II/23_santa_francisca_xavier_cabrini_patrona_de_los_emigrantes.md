@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Santa Francisca Xavier Cabrini, Patrona de los emigrantes"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 23
 timestamp: 2026-08-31
-description: "Resumen de 'Santa Francisca Xavier Cabrini, Patrona de los emigrantes' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Santa Francisca Xavier Cabrini, Patrona de los emigrantes' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 
@@ -23,7 +23,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Santa Francisca Xavier Cabrini, Patrona de los emigrantes
 
-#### (Angelus 19-02-1995)
+#### (Ángelus 19-02-1995)
 
 El Papa señala que son numerosas las figuras femeninas que han desempeñado la misión de ser «testigos, mensajeras, maestras de paz» de modo ejemplar. Entre éstas destaca a [[santa_francisca_xavier_cabrini]], Patrona de los emigrantes, un campo de apostolado de gran actualidad.
 

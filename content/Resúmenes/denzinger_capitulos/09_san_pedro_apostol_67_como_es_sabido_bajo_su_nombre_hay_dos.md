@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "SAN PEDRO APOSTOL -67 Como es sabido bajo su nombre hay dos"
+title: "SAN PEDRO APÓSTOL -67 Como es sabido bajo su nombre hay dos"
 fuente: denzinger_capitulos
 capítulo: 9
 timestamp: 2026-08-24
@@ -8,7 +8,7 @@ description: "Resumen de los documentos de San Pedro Apóstol y San Clemente I"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# SAN PEDRO APOSTOL -67 Como es sabido bajo su nombre hay dos
+# SAN PEDRO APÓSTOL -67 Como es sabido bajo su nombre hay dos
 
 ## Conceptos básicos referenciados
 
@@ -36,7 +36,7 @@ Del primado del Romano Pontífice. San Clemente interviene en una disputa en la 
 
 ## Secciones incluidas
 
-## SAN PEDRO APOSTOL, (?)-67(?) — Dos Epístolas canónicas
+## SAN PEDRO APÓSTOL, (?)-67(?) — Dos Epístolas canónicas
 
 Breve indicación de que bajo el nombre de San Pedro existen dos Epístolas canónicas.
 

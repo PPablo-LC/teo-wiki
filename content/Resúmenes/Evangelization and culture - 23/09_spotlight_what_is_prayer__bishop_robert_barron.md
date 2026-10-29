@@ -45,7 +45,7 @@ La [[transfiguración]] (Lc 9,28-36) ilumina la naturaleza de la [[oración]]:
 - **El monte** simboliza la trascendencia: hay que apartarse del mundo cotidiano para encontrarse con Dios.
 - **El rostro transfigurado** recuerda a Moisés en el Sinaí: la luz de la presencia divina se enciende en lo profundo y se irradia hacia afuera. Los santos, representados con halos, son fuentes de luz por estar enraizados en la oración.
 - **La comunión con Moisés y Elías** indica que al orar se entra en el reino eterno y se contacta con la [[comunión_de_los_santos]].
-- **La conversación sobre la "exodo"** conecta la liberación de Moisés con la [[pasión]] de Cristo. El fruto de la oración es siempre la acción en favor del mundo.
+- **La conversación sobre la "éxodo"** conecta la liberación de Moisés con la [[pasión]] de Cristo. El fruto de la oración es siempre la acción en favor del mundo.
 - **Pedro quería quedarse** en la montaña, pero la voz del cielo ordena: "¡Escúchenlo!" Hay que volver abajo y seguir la misión.
 
 Los místicos, poetas y contemplativos de la tradición —Bernardo, Juan de la Cruz, Teresa de Ávila, Meister Eckhart, Thomas Merton— siempre vieron el vínculo esencial entre [[oración]] y acción.

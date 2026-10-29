@@ -11,7 +11,7 @@ tags:
   - fe_y_razon
   - via_de_la_belleza
   - dignidad_de_la_persona
-  - evangelizacion
+  - evangelización
 timestamp: "2026-09-02"
 ---
 

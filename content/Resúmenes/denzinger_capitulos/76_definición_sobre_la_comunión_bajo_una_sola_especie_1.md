@@ -21,7 +21,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### SESION XIII (15 de junio de 1415)
+### SESIÓN XIII (15 de junio de 1415)
 
 ## Definición sobre la comunión bajo una sola especie (1)
 
@@ -30,7 +30,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SESION XIII (15 de junio de 1415)
+## SESIÓN XIII (15 de junio de 1415)
 
 ## Definición sobre la comunión bajo una sola especie (1)
 

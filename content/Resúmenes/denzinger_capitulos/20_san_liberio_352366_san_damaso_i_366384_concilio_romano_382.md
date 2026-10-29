@@ -47,7 +47,7 @@ tags: ["resumen", "denzinger capitulos"]
 #### Del canon de la Sagrada Escritura
 
 **D-84** Del Decreto Damasi: Lista completa de los libros del Antiguo y Nuevo Testamento recibidos por la Iglesia Católica:
-- Antiguo Testamento: Génesis, Exodo, Levítico, Números, Deuteronomio, Josué, Jueces, Rut, 4 libros de Reyes, 2 Paralipómenos, 150 Salmos, 3 libros de Salomón (Proverbios, Eclesiastés, Cantar), Sabiduría, Eclesiástico, profetas (Isaías, Jeremías con Lamentaciones, Ezequiel, Daniel, 12 profetas menores), historias (Job, Tobías, 2 Esdras, Ester, Judit, 2 Macabeos).
+- Antiguo Testamento: Génesis, Éxodo, Levítico, Números, Deuteronomio, Josué, Jueces, Rut, 4 libros de Reyes, 2 Paralipómenos, 150 Salmos, 3 libros de Salomón (Proverbios, Eclesiastés, Cantar), Sabiduría, Eclesiástico, profetas (Isaías, Jeremías con Lamentaciones, Ezequiel, Daniel, 12 profetas menores), historias (Job, Tobías, 2 Esdras, Ester, Judit, 2 Macabeos).
 - Nuevo Testamento: 4 Evangelios, Hechos, 14 Epístolas de Pablo (incluida la de los Hebreos), Apocalipsis, 7 Epístolas canónicas (2 Pedro, 1 Santiago, 1 Juan, 2 de otro Juan, 1 Judas).
 
 ## Secciones incluidas

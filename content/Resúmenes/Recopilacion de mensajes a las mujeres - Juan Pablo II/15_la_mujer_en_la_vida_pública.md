@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "La mujer en la vida pública"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 15
 timestamp: 2026-08-31
-description: "Resumen de 'La mujer en la vida pública' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'La mujer en la vida pública' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

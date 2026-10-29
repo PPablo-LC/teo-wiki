@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "**Perseverancia y fidelidad**"
-fuente: La vocacion explicada - Juan Pablo II
+fuente: La vocación explicada - Juan Pablo II
 capítulo: 12
 timestamp: 2026-08-27
-description: "Resumen de '**Perseverancia y fidelidad**' — La vocacion explicada - Juan Pablo II"
+description: "Resumen de '**Perseverancia y fidelidad**' — La vocación explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
 

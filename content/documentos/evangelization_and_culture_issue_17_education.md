@@ -4,15 +4,15 @@ title: "Evangelization & Culture, Issue 17 — Education (Autumn 2023)"
 description: "Number 17 of the Word on Fire Institute journal, dedicated to education. Contains 27 files by various authors on the liberal arts, philosophy as a feast for the soul, the classical Catholic education, Newman's idea of a university, Ratzinger on creation, St. Albert the Great, Augusto Del Noce, self-defeating statements, and the Catholic wisdom on formation."
 tags:
   - evangelizacion_cultura
-  - educacion
-  - formacion
+  - educación
+  - formación
   - artes_liberales
   - filosofia
   - fe_y_razon
   - via_de_la_belleza
-  - creacion
+  - creación
   - educacion_catolica
-  - evangelizacion
+  - evangelización
 timestamp: "2026-09-02"
 ---
 

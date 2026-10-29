@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Presencia Real
 tags: ["eucaristía"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-28
 description: "Presencia verdadera, real y substancial de Jesucristo —Dios y hombre verdadero— en el sacramento de la Eucaristía, bajo las especies del pan y del vino consagrados."
 ---
 # Presencia Real
 
 > Área: Eucaristía
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -49,15 +49,23 @@ PS afirma que Jesucristo está ahora glorioso en el cielo y en el sagrario [PS �
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata el misterio de la presencia real de Cristo en la eucaristía principalmente en las cuestiones 75 y 76.
+#### IIIª q.76 — El modo de estar Cristo en este sacramento
 
-**La presencia real (Q75 a.1):** El Cuerpo de Cristo está verdaderamente en la eucaristía, no solo como en signo o figura. Está presente por el poder de la consagración, de modo que toda la sustancia del pan se convierte en el Cuerpo de Cristo, y toda la sustancia del vino en su Sangre. Esta presencia se da bajo las especies sacramentales.
+**a.1 — Cristo está entero en el sacramento:** Es de fe católica. Cada parte de Cristo está allí de dos maneras: por la **virtud del sacramento**, en cuanto es término de la conversión y queda significado por las palabras de la forma; y por **concomitancia natural**, pues donde está el cuerpo glorioso están el alma, la divinidad y cuanto se une inseparablemente a ellas. (SmTh IIIa q.76 a.1)
 
-**Totalidad de Cristo (Q75 a.8 a 3m):** Bajo cada especie y en cada parte de ella está Cristo entero (Cuerpo, Sangre, Alma y Divinidad). Por concomitancia natural, donde está el Cuerpo está también la Sangre y el Alma y la Divinidad, pues Cristo está indiviso.
+**a.2 — Está entero bajo cada una de las especies:** Bajo las especies del pan está el cuerpo en virtud del sacramento y la sangre por concomitancia; bajo las especies del vino, la sangre en virtud del sacramento y el cuerpo por concomitancia, con el alma y la divinidad. (SmTh IIIa q.76 a.2)
 
-**Modo de la presencia (Q76 a.1-4):** El Cuerpo de Cristo está en la eucaristía no localmente (extenso) sino sacramentalmente: por virtud de la conversión. No ocupa lugar según sus propias dimensiones, sino que está presente según el modo de la sustancia. Cristo entero está presente en todo el sacramento y en cada parte de él.
+**a.3 — Está entero bajo cada parte de las especies:** El cuerpo de Cristo está en el sacramento a modo de sustancia, no según sus dimensiones, y la naturaleza de la sustancia está toda en cada parte de las dimensiones. Por eso, al partirse la hostia, Cristo entero está en cada parte. (SmTh IIIa q.76 a.3)
 
-**Presencia inseparable (Q76 a.6-8):** Donde está el Cuerpo de Cristo bajo las especies del pan, está también su Sangre por concomitancia; y donde está la Sangre bajo el vino, está también el Cuerpo. Sin embargo, por razón de la consagración, bajo el pan está el Cuerpo por conversión directa y la Sangre por concomitancia; bajo el vino está la Sangre por conversión directa y el Cuerpo por concomitancia.
+**a.4 — No está toda la cantidad dimensiva en virtud del sacramento:** En virtud del sacramento solo está lo que es término directo de la conversión, que es la sustancia del cuerpo; la cantidad dimensiva está por concomitancia natural. (SmTh IIIa q.76 a.4)
+
+**a.5 — No está localmente en el sacramento:** Todo cuerpo localizado está en el lugar conmensurando con él su cantidad dimensiva; Cristo, en cambio, está a modo de sustancia, del mismo modo que la sustancia es contenida por sus propias dimensiones. (SmTh IIIa q.76 a.5)
+
+**a.6 — Cristo está inmóvil en el sacramento:** No es lo mismo su ser natural que su ser sacramental, que solo indica su relación con este sacramento. Según él no se mueve: lo indefectible no es principio de deficiencia, sino que, al desaparecer el otro extremo, deja de estar en él, como Dios deja de estar en la criatura que deja de existir. (SmTh IIIa q.76 a.6)
+
+**a.7 — No puede ser visto con los ojos corporales:** El cuerpo se hace visible reflejándose en el aire a través de sus accidentes, y los accidentes del cuerpo de Cristo no tienen relación inmediata con las especies sacramentales ni con el aire. Es visible para la inteligencia divina de modo directo y para las bienaventuradas de modo consecuente; el hombre viador solo lo ve por la fe. (SmTh IIIa q.76 a.7)
+
+**a.8 — Las apariciones milagrosas de carne o de un niño:** Ocurren de dos maneras: como visión subjetiva, sin inmutación en el sacramento —cuando uno lo ve y otros ven las especies de pan—, o con existencia real y objetiva de la figura, cuando todos la ven y permanece largo tiempo. En este segundo caso no es la figura natural del cuerpo de Cristo —que no puede verse sino donde está localizado—, sino que permanece la cantidad dimensiva sacramental y se inmutan milagrosamente los otros accidentes, como la figura y el color. No es ilusión: se ordena a mostrar que allí está verdaderamente el cuerpo y la sangre de Cristo. (SmTh IIIa q.76 a.8)
 
 ### Según la *Redemptor Hominis* (RH)
 

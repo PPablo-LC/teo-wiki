@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Eliminad discriminaciones"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 16
 timestamp: 2026-08-31
-description: "Resumen de 'Eliminad discriminaciones' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Eliminad discriminaciones' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

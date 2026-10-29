@@ -110,4 +110,4 @@ El rito eucarístico, centro del culto nuevo y canal de la vida nueva, es el sig
 
 #### El último día tendrán fin los ritos que lo anuncian.
 
-Celebramos «hasta que venga» el cordero, respondiendo a la llamada de su esposa (*marana-tha*, ¡Ven, Señor!), para consumar sus nupcias con ella *1Cor 11,26* *16,22* *Ap 19,7* *22,17*. Entonces no habrá ya templo que simbolice la presencia de Dios *Ap 21,22*: en la ciudad santa los servidores no serán ya pecadores, sino hijos, que verán a su Padre cara a cara y beberán en la fuente misma el agua viva del Espíritu *Ap 21,1-7.23* *22,1-5*.
+Celebramos «hasta que venga» el cordero, respondiendo a la llamada de su esposa (*maraña-tha*, ¡Ven, Señor!), para consumar sus nupcias con ella *1Cor 11,26* *16,22* *Ap 19,7* *22,17*. Entonces no habrá ya templo que simbolice la presencia de Dios *Ap 21,22*: en la ciudad santa los servidores no serán ya pecadores, sino hijos, que verán a su Padre cara a cara y beberán en la fuente misma el agua viva del Espíritu *Ap 21,1-7.23* *22,1-5*.

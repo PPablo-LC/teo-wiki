@@ -26,7 +26,7 @@ Ference propone el *Prayer Journal* de O'Connor (escrito 1946-1947, publicado 20
 
 #### Desarrollo en vez de deconstrucción
 
-El diario no es una serie de rezos mecánicos sino testimonio candidato de una católica inteligente que navega su vida con asistencia divina. O'Connor habla con Dios con libertad: «Temo, oh Señor, perder mi fe... No quiero que sea el miedo lo que me mantenga en la Iglesia» (PJ 5-6). Quiere ser auténtica, funcionar desde la [[fe]], la [[esperanza]] y el [[amor]], no desde el miedo. Confiesa sequedad espiritual: «El verano fue muy árido espiritualmente... pensamientos horribles en su petulancia y egoísmo vienen a mi mente incluso con el huésped [la Hostia] sobre la lengua» (PJ 35). Muestra fe auténtica: habitos de oración sostenidos, confianza en Dios ante la aridez. Para O'Connor no hay necesidad de deconstruir lo que puede desarrollarse.
+El diario no es una serie de rezos mecánicos sino testimonio candidato de una católica inteligente que navega su vida con asistencia divina. O'Connor habla con Dios con libertad: «Temo, oh Señor, perder mi fe... No quiero que sea el miedo lo que me mantenga en la Iglesia» (PJ 5-6). Quiere ser auténtica, funcionar desde la [[fe]], la [[esperanza]] y el [[amor]], no desde el miedo. Confiesa sequedad espiritual: «El verano fue muy árido espiritualmente... pensamientos horribles en su petulancia y egoísmo vienen a mi mente incluso con el huésped [la Hostia] sobre la lengua» (PJ 35). Muestra fe auténtica: hábitos de oración sostenidos, confianza en Dios ante la aridez. Para O'Connor no hay necesidad de deconstruir lo que puede desarrollarse.
 
 #### Lucha con el sufrimiento y las dudas
 

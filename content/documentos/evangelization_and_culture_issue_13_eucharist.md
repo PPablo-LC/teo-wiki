@@ -7,9 +7,9 @@ tags:
   - eucaristia
   - presencia_real
   - adoracion_eucaristica
-  - transubstanciacion
+  - transubstanciación
   - hora_santa
-  - viatico
+  - viático
   - ecumenismo
   - liturgia
   - nueva_evangelizacion

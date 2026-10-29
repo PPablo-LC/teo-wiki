@@ -274,7 +274,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 §2816 En el Nuevo Testamento, la palabra basileia se puede traducir por realeza (nombre abstracto), reino (nombre concreto) o reinado (nombre de acción). El **Reino de Dios** es para nosotros lo más importante. Se aproxima en el Verbo encarnado, se anuncia a través de todo el Evangelio, llega en la muerte y la Resurrección de Cristo. Adviene en la Última Cena y por la Eucaristía está entre nosotros. Llegará en la gloria cuando Jesucristo lo devuelva a su Padre: "Puede ser que el Reino de Dios signifique Cristo en persona… Como es nuestra Resurrección porque resucitamos en él, puede ser también el Reino de Dios porque en él reinaremos".
 
-§2817 Esta petición es el **Marana Tha**, el grito del Espíritu y de la Esposa: "Ven, Señor Jesús". Las almas de los mártires invocan al Señor con grandes gritos: "¿Hasta cuándo, Dueño santo y veraz, vas a estar sin hacer justicia por nuestra sangre?". Señor, ¡apresura, pues, la venida de tu Reino!
+§2817 Esta petición es el **Maraña Tha**, el grito del Espíritu y de la Esposa: "Ven, Señor Jesús". Las almas de los mártires invocan al Señor con grandes gritos: "¿Hasta cuándo, Dueño santo y veraz, vas a estar sin hacer justicia por nuestra sangre?". Señor, ¡apresura, pues, la venida de tu Reino!
 
 §2818 En la Oración del Señor se trata principalmente de la venida final del Reino de Dios por medio del retorno de Cristo. Pero este deseo no distrae a la Iglesia de su misión en este mundo, más bien la compromete: desde Pentecostés, la venida del Reino es obra del Espíritu del Señor "a fin de santificar todas las cosas llevando a plenitud su obra en el mundo".
 

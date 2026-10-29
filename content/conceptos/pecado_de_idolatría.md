@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Pecado de idolatria
-description: "El pecado de idolatria consiste en tributar a una criatura el culto de adoracion (latria) que es debido unicamente a Dios."
+description: "El pecado de idolatria consiste en tributar a una criatura el culto de adoración (latria) que es debido unicamente a Dios."
 ---
 # Pecado de idolatria
 
@@ -10,17 +10,17 @@ description: "El pecado de idolatria consiste en tributar a una criatura el cult
 
 ## Definición
 
-El pecado de idolatria consiste en tributar a una criatura el culto de adoracion (latria) que es debido unicamente a Dios. Es una violacion del primer mandamiento y es considerado, en cierto modo, el mayor de los pecados por atacar directamente la soberania divina.
+El pecado de idolatria consiste en tributar a una criatura el culto de adoración (latria) que es debido unicamente a Dios. Es una violación del primer mandamiento y es considerado, en cierto modo, el mayor de los pecados por atacar directamente la soberania divina.
 
 ## Desarrollo doctrinal
 
-La idolatria es condenada repetidamente en la Sagrada Escritura, tanto en el Antiguo Testamento (Ex 20,3-5; Dt 5,7-9) como en el Nuevo (Rm 1,22-25). Puede ser explicita (adorar a un idolo material) o implicita (poner a una criatura en el lugar de Dios: dinero, poder, placer, trabajo, etc.). Santo Tomas distingue entre idolatria formal (intencion de dar culto divino a quien no es Dios) y material (ignorancia invencible). La idolatria puede cometerse tambien interiormente por el afecto desordenado a las criaturas.
+La idolatria es condenada repetidamente en la Sagrada Escritura, tanto en el Antiguo Testamento (Ex 20,3-5; Dt 5,7-9) como en el Nuevo (Rm 1,22-25). Puede ser explicita (adorar a un idolo material) o implicita (poner a una criatura en el lugar de Dios: dinero, poder, placer, trabajo, etc.). Santo Tomas distingue entre idolatria formal (intención de dar culto divino a quien no es Dios) y material (ignorancia invencible). La idolatria puede cometerse también interiormente por el afecto desordenado a las criaturas.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo trata la idolatria en el contexto del primer mandamiento (§2110-2114). La idolatria no es solo falsa adoracion pagana sino «desviacion del sentimiento religioso innato del hombre» que «puede sentirse tentado a venerar a una criatura en lugar del Creador». El sexto mandamiento usa la imagen del adulterio como figura del pecado de idolatria (§2380).
+El Catecismo trata la idolatria en el contexto del primer mandamiento (§2110-2114). La idolatria no es solo falsa adoración pagana sino «desviación del sentimiento religioso innato del hombre» que «puede sentirse tentado a venerar a una criatura en lugar del Creador». El sexto mandamiento usa la imagen del adulterio como figura del pecado de idolatria (§2380).
 
 ### Según Royo Marin (TPCr)
 
@@ -28,9 +28,9 @@ Royo Marin enseña que la idolatria constituye un gravisimo pecado, en cierto mo
 
 ### Según el análisis de conferencias para varones (notas)
 
-> **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
+> **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-Brian Cochran (my_personal_emmaus.md) califica la adiccion al trabajo como «adulterio espiritual» y «idolo», aplicacion concreta del [[primer_mandamiento]] y del pecado de idolatria al contexto contemporaneo.
+Brian Cochran (my_personal_emmaus.md) califica la adicción al trabajo como «adulterio espiritual» y «idolo», aplicación concreta del [[primer_mandamiento]] y del pecado de idolatria al contexto contemporaneo.
 
 ## Distinciones importantes
 

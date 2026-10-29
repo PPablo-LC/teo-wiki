@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Materia de la eucaristía
 tags: ["sacramental", "dogmática"]
 
-timestamp: 2026-06-15
+timestamp: 2026-10-28
 description: "La materia del sacramento de la [[eucaristía]] es el pan de trigo y el vino de vid."
 ---
 # Materia de la eucaristía
 
 > Área: Sacramental / Dogmática
-> Última actualización: 2026-06-15
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -25,19 +25,23 @@ La validez del sacramento requiere que la materia sea verdadero pan de trigo y v
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica la cuestión 74 al estudio de la materia de la eucaristía.
+#### IIIª q.74 — La materia de este sacramento
 
-**El pan y el vino como materia (Q74 a.1):** El pan y el vino son la materia adecuada por cuatro razones: por el uso del sacramento (alimento común), por la representación de la pasión (sangre separada del cuerpo), por el efecto en cada fiel (bien del cuerpo y del alma), y por la unidad de la Iglesia (muchos granos en un pan, muchas uvas en un vino). Fueron instituidos así por Cristo en la Última Cena.
+**a.1 — El pan y el vino son la materia:** Cristo instituyó el sacramento con pan y vino, lo que elimina los errores de los artotiritas (pan y queso), de los catarigios y pepucianos (pan con sangre) y de los acuarios (agua sola). Las razones son cuatro: el uso del sacramento, que es la manducación, y el pan y el vino son alimento y bebida; la pasión de Cristo, en la que su sangre fue separada de su cuerpo, por lo que se toman por separado; el efecto en cada fiel, pues el pan sirve al cuerpo y el vino al alma —«la vida de toda carne es su sangre»—; y el efecto en la Iglesia, que se construye por la diversidad de los fieles, como el pan se compone de muchos granos y el vino de muchas uvas. (SmTh IIIa q.74 a.1)
 
-**Cantidad de materia (Q74 a.2):** No hay una cantidad determinada de pan o vino, pues la materia se determina por relación al uso de los fieles, cuyo número no está fijo. El sacerdote puede consagrar cualquier cantidad, aunque pecaría si lo hiciese con fin malo.
+**a.2 — La cantidad se determina por el uso:** No es verdad que el sacerdote no pueda consagrar gran cantidad de pan o de vino. En todo lo hecho de materia, el criterio se toma con relación al fin —la materia de la sierra es el acero para que corte—, y el fin de este sacramento es el uso de los fieles: a él se ordena la cantidad. (SmTh IIIa q.74 a.2)
 
-**Pan de trigo (Q74 a.3):** El pan debe ser de trigo, que es el pan más común entre los hombres y de mayor valor alimenticio. No son materia válida el pan de cebada ni de otros cereales que no procedan del trigo por generación. Una mezcla mínima de otro cereal no invalida la materia, pero una mezcla considerable sí alteraría la especie.
+**a.3 — El pan debe ser de trigo:** Para los sacramentos se emplea la materia que comúnmente sirve para un uso semejante, y entre las clases de pan el de trigo es el más usado —las otras se introdujeron al faltar aquel—. Es además el de mayor alimento, y por eso significa mejor el efecto del sacramento. (SmTh IIIa q.74 a.3)
 
-**Pan ácimo o fermentado (Q74 a.4):** No es necesario que el pan sea ácimo o fermentado para la validez del sacramento; ambos pueden ser materia. Sin embargo, es conveniente seguir el rito de cada Iglesia: la latina usa pan ácimo, las orientales usan pan fermentado.
+**a.4 — Puede ser ácimo o fermentado:** Es necesario que sea de trigo; no es necesario que sea ácimo. Cada uno debe observar el rito de su Iglesia —la romana ofrece ácimo porque el Señor asumió una carne pura; otras, fermentado, porque el Verbo se vistió de carne como la levadura se mezcla con la harina—. La costumbre del ácimo está mejor justificada: por la institución de Cristo en el primer día de los ácimos, porque el pan es más propiamente sacramento del cuerpo concebido sin corrupción y porque significa la sinceridad de vida; la de los griegos también lo está, por el significado y por rechazar la herejía nazarena. (SmTh IIIa q.74 a.4)
 
-**Vino de vid (Q74 a.5):** Solo el vino procedente de la vid es materia propia, por institución de Cristo ("fruto de la vid"), por el nombre propio del vino, y por significar la alegría espiritual. El vinagre (vino corrompido) no es materia válida. El mosto sí tiene naturaleza de vino y puede usarse en caso de necesidad.
+**a.5 — Solo con vino de la vid:** Por la institución de Cristo —«no beberé más del fruto de la vid»—; porque se toma la materia que propia y comúnmente recibe ese nombre, y propiamente se llama vino al licor de la vid, mientras los demás se llaman así por semejanza; y porque el vino significa mejor el efecto del sacramento, la alegría espiritual: «el vino alegra el corazón del hombre». (SmTh IIIa q.74 a.5)
 
-**Mezcla con agua (Q74 a.6-8):** El vino debe mezclarse con agua, significando la unión del pueblo con Cristo y el agua que brotó del costado del Señor. Esta mezcla no es indispensable para la validez del sacramento, pero es obligatoria por el rito. Debe añadirse poca agua para que se convierta en vino antes de la consagración.
+**a.6 — Debe añadirse agua al vino:** Por la institución —es probable que el Señor lo instituyera con vino mezclado, según la costumbre de aquella tierra—, porque la mezcla representa la pasión, en la que de su costado brotaron sangre y agua, y porque significa la unión del pueblo con Cristo. (SmTh IIIa q.74 a.6)
+
+**a.7 — La mezcla no es indispensable para la validez:** La importancia de un signo se mide por lo que significa, y el agua significa la participación de los fieles, que puede significarse también por el agua que brotó del costado. Por eso, omitida la mezcla en caso de necesidad —no habiendo vino, o no habiendo agua—, se realiza el sacramento. (SmTh IIIa q.74 a.7)
+
+**a.8 — Debe añadirse poca agua:** De las tres opiniones sobre el agua añadida, la más probable es que el agua se convierte en vino y el vino en la sangre, lo que exige que se añada tan poca cantidad que se convierta en vino. Es, pues, más seguro añadir siempre poca agua, sobre todo si el vino es flojo, porque si se añade tanta que el vino deje de ser vino, no puede hacerse el sacramento. (SmTh IIIa q.74 a.8)
 
 ### Según el Catecismo (CEC)
 

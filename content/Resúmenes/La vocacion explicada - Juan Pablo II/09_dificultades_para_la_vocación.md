@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "**Dificultades para la vocación**"
-fuente: La vocacion explicada - Juan Pablo II
+fuente: La vocación explicada - Juan Pablo II
 capítulo: 9
 timestamp: 2026-08-27
-description: "Resumen de '**Dificultades para la vocación**' — La vocacion explicada - Juan Pablo II"
+description: "Resumen de '**Dificultades para la vocación**' — La vocación explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
 

@@ -27,7 +27,7 @@ El éxtasis está íntimamente relacionado con los incendios de amor, pues la le
 
 ### Según la Summa Theologiae (SmTh)
 
-**Éxtasis como efecto del amor (Ia-IIae q.28 a.3):** Santo Tomás trata el éxtasis (*extasis*) como un efecto del amor. El éxtasis consiste en salir fuera de sí, y el amor lo produce de dos modos: según la potencia aprehensiva (la meditación intensa del amado aparta la mente de otras cosas) y según la potencia apetitiva (el afecto se dirige hacia otro saliendo de sí mismo). El amor de amistad produce éxtasis de modo absoluto, porque el amante sale de sí para buscar el bien del amigo; el amor de concupiscencia lo produce solo bajo cierto aspecto, porque busca el bien exterior para sí mismo, replegándose finalmente en sí (q.28 a.3).
+**Éxtasis como efecto del amor (Ia-IIae q.28 a.3):** Santo Tomás trata el éxtasis (*éxtasis*) como un efecto del amor. El éxtasis consiste en salir fuera de sí, y el amor lo produce de dos modos: según la potencia aprehensiva (la meditación intensa del amado aparta la mente de otras cosas) y según la potencia apetitiva (el afecto se dirige hacia otro saliendo de sí mismo). El amor de amistad produce éxtasis de modo absoluto, porque el amante sale de sí para buscar el bien del amigo; el amor de concupiscencia lo produce solo bajo cierto aspecto, porque busca el bien exterior para sí mismo, replegándose finalmente en sí (q.28 a.3).
 
 [SmTh Ia-IIae q.28 a.3]
 

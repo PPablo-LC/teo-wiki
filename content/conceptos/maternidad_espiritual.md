@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Maternidad espiritual
-description: "La maternidad espiritual de Maria Santisima es su cooperacion en el orden de la gracia para engendrar y educar a los hijos de Dios."
+description: "La maternidad espiritual de Maria Santísima es su cooperación en el orden de la gracia para engendrar y educar a los hijos de Dios."
 timestamp: 2026-10-19
 ---
 # Maternidad espiritual
@@ -11,17 +11,17 @@ timestamp: 2026-10-19
 
 ## Definición
 
-La maternidad espiritual de Maria Santisima es su cooperacion en el orden de la gracia para engendrar y educar a los hijos de Dios. Por ser Madre de Cristo, Cabeza del Cuerpo Mistico, Maria es tambien Madre de todos los miembros de dicho Cuerpo, es decir, de todos los creyentes.
+La maternidad espiritual de Maria Santísima es su cooperación en el orden de la gracia para engendrar y educar a los hijos de Dios. Por ser Madre de Cristo, Cabeza del Cuerpo Mistico, Maria es también Madre de todos los miembros de dicho Cuerpo, es decir, de todos los creyentes.
 
 ## Desarrollo doctrinal
 
-La maternidad espiritual de Maria se funda en su maternidad divina: al dar a luz a Cristo, Cabeza de la Iglesia, dio a luz tambien a todos los predestinados. Esta doctrina, desarrollada por los Padres de la Iglesia y por la teologia medieval, fue confirmada por el magisterio, especialmente en la constitucion Lumen Gentium (n. 60-65) del Concilio Vaticano II. Maria coopera con amor materno en el nacimiento y desarrollo de la vida sobrenatural en las almas. Su maternidad espiritual se ejercita principalmente mediante su intercesion y su ejemplo.
+La maternidad espiritual de Maria se funda en su maternidad divina: al dar a luz a Cristo, Cabeza de la Iglesia, dio a luz también a todos los predestinados. Esta doctrina, desarrollada por los Padres de la Iglesia y por la teologia medieval, fue confirmada por el magisterio, especialmente en la constitución Lumen Gentium (n. 60-65) del Concilio Vaticano II. Maria coopera con amor materno en el nacimiento y desarrollo de la vida sobrenatural en las almas. Su maternidad espiritual se ejercita principalmente mediante su intercesión y su ejemplo.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo afirma que «la maternidad espiritual de Maria se extiende a todos los hombres a los cuales Cristo vino a salvar» (§501). Maria «dio a luz al Hijo, al que Dios constituyo el Primogenito entre muchos hermanos, es decir, de los creyentes, a cuyo nacimiento y educacion colabora con amor de madre».
+El Catecismo afirma que «la maternidad espiritual de Maria se extiende a todos los hombres a los cuales Cristo vino a salvar» (§501). Maria «dio a luz al Hijo, al que Dios constituyo el Primogenito entre muchos hermanos, es decir, de los creyentes, a cuyo nacimiento y educación colabora con amor de madre».
 
 ### Según la Redemptoris Mater (RM)
 
@@ -29,9 +29,9 @@ El Catecismo afirma que «la maternidad espiritual de Maria se extiende a todos 
 
 ### Según el análisis de conferencias para varones (notas)
 
-> **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
+> **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-La conferencia «Autentica día 2» amplia el concepto de maternidad espiritual al laicado femenino, afirmando que toda mujer esta llamada a «dar vida» mas alla de lo biologico, complementando la doctrina sobre la [[vocación]] y la **maternidad espiritual** en su aplicacion a la mujer seglar.
+La conferencia «Autentica día 2» amplia el concepto de maternidad espiritual al laicado femenino, afirmando que toda mujer esta llamada a «dar vida» mas alla de lo biológico, complementando la doctrina sobre la [[vocación]] y la **maternidad espiritual** en su aplicación a la mujer seglar.
 
 ### Según CJeS (1987-1989)
 
@@ -73,7 +73,7 @@ Pitre añade la dimensión dolorosa: la maternidad de María se ejerce al pie de
 
 - Maternidad divina (de naturaleza) vs maternidad espiritual (de gracia)
 - Maria como Madre de la Cabeza vs Madre de los miembros
-- Mediacion materna universal vs mediacion unica de Cristo
+- Mediación materna universal vs mediación unica de Cristo
 
 ## Relaciones doctrinales
 

@@ -45,7 +45,7 @@ Giussani la sitúa en la cima de la acogida:
    hospitalidad (hospitalidad o adopción)**, fundada en *Jn* 1,13: «Non da
    carne, né da sangue, ma da Dio siamo nati» (MDO, 06, 11).
 4. **La maternidad adoptiva es verdadera maternidad**: si recoges un feto
-   hecho por otra mujer, «la madre sei tu, nel senso fisiologico e ontologico
+   hecho por otra mujer, «la madre sei tu, nel senso fisiológico e ontológico
    del termine»; hay incluso «una maternità più fine ancora, più
    “genetica”»: la educación (MDO, 01, 35).
 5. **Se apoya en una compañía**: la nota histórica de MDO documenta cómo la

@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "**La vocación es siempre apostólica**"
-fuente: La vocacion explicada - Juan Pablo II
+fuente: La vocación explicada - Juan Pablo II
 capítulo: 13
 timestamp: 2026-08-27
-description: "Resumen de '**La vocación es siempre apostólica**' — La vocacion explicada - Juan Pablo II"
+description: "Resumen de '**La vocación es siempre apostólica**' — La vocación explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
 

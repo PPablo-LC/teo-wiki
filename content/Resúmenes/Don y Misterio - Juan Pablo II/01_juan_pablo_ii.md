@@ -53,7 +53,7 @@ En otoño de 1942 decide entrar en el seminario clandestino de Cracovia, instala
 
 *El P. Kazimierz Figlewicz*, confesor y guía desde Wadowice, fiel custodio de la catedral del Wawel durante la ocupación, asistente en su Primera Misa.
 
-*Trayectoria mariana*: devoción familiar y parroquial (Perpetuo Socorro, escapulario carmelita), el «Rosario vivo», y la superación de dudas sobre el culto mariano mediante el *Tratado de la verdadera devocion a la Santísima Virgen* de San Luis María Grignion de Montfort: María nos lleva a Cristo y Cristo nos lleva a su Madre. Origen del lema *Totus Tuus*. Los senderos marianos de Kalwaria Zebrzydowska como itinerario de oración.
+*Trayectoria mariana*: devoción familiar y parroquial (Perpetuo Socorro, escapulario carmelita), el «Rosario vivo», y la superación de dudas sobre el culto mariano mediante el *Tratado de la verdadera devoción a la Santísima Virgen* de San Luis María Grignion de Montfort: María nos lleva a Cristo y Cristo nos lleva a su Madre. Origen del lema *Totus Tuus*. Los senderos marianos de Kalwaria Zebrzydowska como itinerario de oración.
 
 *Fray Alberto Adam Chmielowski*, pintor convertido en servidor de los pobres de Cracovia, apoyo espiritual y ejemplo en su alejamiento del arte por el sacerdocio (beatificado en 1983, canonizado en 1989).
 

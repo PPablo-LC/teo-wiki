@@ -10,7 +10,7 @@ tags:
   - vias_espirituales
   - sufrimiento
   - santidad
-  - evangelizacion
+  - evangelización
   - cultura
   - ascesis
   - teologia_pastoral

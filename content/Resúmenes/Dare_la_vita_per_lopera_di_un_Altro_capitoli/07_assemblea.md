@@ -23,11 +23,11 @@ tags: ["resumen", "dare la vita per lopera di un altro capitoli"]
 - [[ontología]] — el punto de riscossa del yo es primero ontológico y no ético
 - [[ética]] — deriva de la consideración de la realidad como es
 - [[oración_de_petición]] — toda oración es, en el fondo, domanda di essere
-- [[liturgia_de_las_horas]] — el Angelus y las Lodi matutinas que abren cada día de los Ejercicios
+- [[liturgia_de_las_horas]] — el Ángelus y las Lodi matutinas que abren cada día de los Ejercicios
 
 ## Contenido
 
-Stefano Alberto (don Pino) recuerda cómo el inicio de cada jornada de la Madonna estaba marcado por la conciencia de la «Presencia»: compañía humana del Misterio al destino de María y al nuestro. El capítulo reproduce el texto del *Angelus* [1](nota: la antigua oración que hace memoria de la Anunciación: «el Verbo se hizo carne» y la petición de ser conducidos, por la Pasión y Muerte de Cristo, a la gloria de su Resurrección) y una nota sobre las *Lodi* matutinas (la *Liturgia delle Ore* que abre la jornada con la recitación de los salmos, ejecutada en *recto tono*).
+Stefano Alberto (don Pino) recuerda cómo el inicio de cada jornada de la Madonna estaba marcado por la conciencia de la «Presencia»: compañía humana del Misterio al destino de María y al nuestro. El capítulo reproduce el texto del *Ángelus* [1](nota: la antigua oración que hace memoria de la Anunciación: «el Verbo se hizo carne» y la petición de ser conducidos, por la Pasión y Muerte de Cristo, a la gloria de su Resurrección) y una nota sobre las *Lodi* matutinas (la *Liturgia delle Ore* que abre la jornada con la recitación de los salmos, ejecutada en *recto tono*).
 
 Giancarlo Cesana introduce la asamblea: han llegado centenares de preguntas; los Ejercicios son un *allenamento* hacia la vida, no el objetivo. Se pondrán a don Pino algunas preguntas sobre la libertad y dos de fondo a don Giussani.
 

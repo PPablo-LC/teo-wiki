@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "REFLEXIONES SOBRE LA MUJER"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 25
 timestamp: 2026-08-31
-description: "Resumen de 'REFLEXIONES SOBRE LA MUJER' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'REFLEXIONES SOBRE LA MUJER' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

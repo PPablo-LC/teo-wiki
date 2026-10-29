@@ -60,7 +60,7 @@ tags: ["resumen", "familiaridad", "milagro", "testimonio", "fraternidad"]
 ## La moral que nace del «sì» de Pietro
 
 - «Questo è il valore del nostro concetto di morale, che nasce dal "sì" di Pietro: non nasce come osservazione di leggi, ma come affezione a una grande Presenza scoperta»; «La vera morale è il riconoscimento di un'appartenenza» (*Gv* 21,15; *Mt* 21,31; *1 Gv* 3,3).
-- El dolor de los hijos adoptados/de las familias sin hijos; la ayuda de la fraternidad. La maternidad ontológica/genética: «se un feto fatto da un'altra donna tu lo raccogli [...] la madre sei tu, nel senso fisiologico e ontologico del termine».
+- El dolor de los hijos adoptados/de las familias sin hijos; la ayuda de la fraternidad. La maternidad ontológica/genética: «se un feto fatto da un'altra donna tu lo raccogli [...] la madre sei tu, nel senso fisiológico e ontológico del termine».
 
 ## El método ascético y la libertad de la Iglesia
 

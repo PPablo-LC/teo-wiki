@@ -121,7 +121,7 @@ sabido defender y comunicar la fe» (cf. [[caridad_de_la_verdad]]).
     de los Santos Inocentes de 1622.
 17. **[[san_alfonso_maría_de_ligorio]]** (1696-1787): de abogado a
     apóstol; redentoristas; maestro en teología moral; *Tu scendi dalle
-    stelle*; murió al *Angelus* de mediodía de 1787 con la imagen de la
+    stelle*; murió al *Ángelus* de mediodía de 1787 con la imagen de la
     Virgen en las manos.
 18. **[[cura_de_ars]]** (1786-1859): párroco de una parroquia
     descristianizada; largas horas de adoración y confesonario

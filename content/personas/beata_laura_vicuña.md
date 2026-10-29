@@ -35,7 +35,7 @@ Jesús mi vida por ti**, para que tú vuelvas a Él. ¿No me darás esta
 alegría antes de morir?
 
 La madre, arrodillada y llorando, prometió: «Estoy arrepentida, y Dios es
-testigo de mi promesa». Al sonido del *Angelus* de la tarde, Laura expiró:
+testigo de mi promesa». Al sonido del *Ángelus* de la tarde, Laura expiró:
 «¡Gracias Jesús, gracias María! Ahora muero contenta…». Y en el funeral
 todos vieron a la madre acercarse «temblorosa y arrepentida a los
 sacramentos». Quien conocía sus desventuras declaró: «Laura virgen y

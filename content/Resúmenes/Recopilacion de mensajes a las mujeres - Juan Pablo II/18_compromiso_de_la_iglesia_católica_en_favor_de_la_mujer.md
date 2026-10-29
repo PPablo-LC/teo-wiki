@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "COMPROMISO DE LA IGLESIA CATÓLICA EN FAVOR DE LA MUJER"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 18
 timestamp: 2026-08-31
-description: "Resumen de 'COMPROMISO DE LA IGLESIA CATÓLICA EN FAVOR DE LA MUJER' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'COMPROMISO DE LA IGLESIA CATÓLICA EN FAVOR DE LA MUJER' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

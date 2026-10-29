@@ -50,7 +50,7 @@ En los ejercicios de 1994-1995, la filiación divina se presenta como el reconoc
 
 - **Cristo revela al Padre: la «vida vera»**: «Cristo, mandato dal Padre, è Colui che rivela il Padre agli uomini»: «Questa è la vita vera: che amino te, solo vero Dio… e colui che hai mandato: Gesù Cristo» (Gv 17,3) (02, 233-235). La filiación divina culmina en el conocimiento del Padre por el Hijo.
 
-- **El «sí» de Pedro como vislumbre de Dios**: el «porqué» del sí de Pedro: «aveva intravisto… chi era Dio, chi era lo Jahvè biblico, il vero Jahvè, la verità su Jahvè» (02, 237). La filiación se reconoce en la respuesta amorosa al Hijo.
+- **El «sí» de Pedro como vislumbre de Dios**: el «porqué» del sí de Pedro: «aveva intravisto… chi era Dio, chi era lo Jahvè bíblico, il vero Jahvè, la verità su Jahvè» (02, 237). La filiación se reconoce en la respuesta amorosa al Hijo.
 
 ### Según Scott Hahn (Hail, Holy Queen)
 

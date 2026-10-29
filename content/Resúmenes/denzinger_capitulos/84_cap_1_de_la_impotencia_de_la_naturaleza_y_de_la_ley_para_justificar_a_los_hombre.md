@@ -31,7 +31,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## SESION VI (13 de enero de 1547) Decreto sobre la justificación (1) Proemio
+## SESIÓN VI (13 de enero de 1547) Decreto sobre la justificación (1) Proemio
 
 - D-792a: El Concilio de Trento, ante la doctrina errónea esparcida sobre la justificación, se propone exponer la verdadera y sana doctrina que Cristo, autor y consumador de la fe, enseñó, los Apóstoles transmitieron y la Iglesia Católica perpetuamente mantuvo, prohibiendo que nadie se atreva a creer, predicar o enseñar otra cosa.
 
@@ -103,7 +103,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SESION VI (13 de enero de 1547) Decreto sobre la justificación (1) Proemio
+## SESIÓN VI (13 de enero de 1547) Decreto sobre la justificación (1) Proemio
 
 Proemio del decreto sobre la justificación (D-792a).
 

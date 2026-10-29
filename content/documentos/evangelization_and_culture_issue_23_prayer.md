@@ -4,10 +4,10 @@ title: "Evangelization & Culture, Issue 23 — Prayer (Spring 2025)"
 description: "Number 23 of the Word on Fire Institute journal, dedicated to prayer. Contains 25 files on prayer as encounter with God, the Desert Fathers, the communion of saints, St. Monica, Flannery O'Connor's prayer journal, the Dominican contemplative tradition, and hope in prayer."
 tags:
   - evangelizacion_cultura
-  - oracion
+  - oración
   - oracion_mental
   - oracion_contemplativa
-  - contemplacion
+  - contemplación
   - silencio
   - padres_del_desierto
   - comunión_de_los_santos

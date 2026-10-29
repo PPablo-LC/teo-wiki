@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacramentos
 tags: ["sacramental"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-28
 description: "Los sacramentos son signos sensibles instituidos por Nuestro Señor Jesucristo para significar y producir la [[gracia_santificante]] en nuestras almas."
 ---
 # Sacramentos
 
 > Área: Sacramental
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -120,8 +120,6 @@ El CIC regula los sacramentos en los cánones 840-848 como principios comunes. S
 
 *Sacrosanctum Concilium* dedica el capítulo III a los sacramentos y sacramentales (SC 59-82). Los sacramentos están ordenados a la santificación de los hombres, a la edificación del Cuerpo de Cristo y a dar culto a Dios (SC 59). No solo suponen la fe, sino que la alimentan, robustecen y expresan (SC 59). La liturgia de los sacramentos hace que casi todos los actos de la vida sean santificados por la gracia divina que emana del misterio pascual (SC 61). El Concilio ordena la restauración del catecumenado de adultos (SC 64), la revisión de los ritos del bautismo (SC 66-70), confirmación (SC 71), penitencia (SC 72), unción de enfermos (SC 73-75), orden (SC 76), matrimonio (SC 77-78), y sacramentales (SC 79).
 
-### Según el Concilio Vaticano II (ConcVatII)
-
 Lumen Gentium presenta los **sacramentos** como medios por los cuales la vida de Cristo se comunica a los creyentes «de un modo arcano, pero real» [ConcVatII, LG §7]. «El carácter sagrado y orgánicamente estructurado de la comunidad sacerdotal se actualiza por los sacramentos y por las virtudes» [ConcVatII, LG §11].
 
 Los fieles, incorporados a la Iglesia por el [[bautismo]], quedan destinados por el carácter al culto de la religión cristiana. Por la [[confirmación]] se vinculan más estrechamente a la Iglesia y se enriquecen con una fuerza especial del Espíritu Santo. El sacrificio eucarístico es «fuente y cumbre de toda la vida cristiana» [ConcVatII, LG §11]. La [[sacramento_de_la_reconciliación|penitencia]] reconcilia con Dios y con la Iglesia. La [[unción_de_los_enfermos]] encomienda los enfermos al Señor. El [[sacramento_del_orden]] sella a los que son destinados a apacentar la Iglesia. El [[matrimonio]] significa y participa el misterio de unidad entre Cristo y la Iglesia [ConcVatII, LG §11].
@@ -130,19 +128,39 @@ Los Obispos, administradores de la gracia del supremo sacerdocio, regulan la adm
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica las cuestiones 60–65 de la IIIa Pars a los sacramentos en general.
+Santo Tomás dedica las cuestiones 60–65 de la IIIa Pars a los sacramentos en general. Lo que el sacramento **es** (q.60) y su **necesidad** (q.61) se desglosan en [[sacramento]]; la **gracia** que confiere (q.62) en [[gracia_sacramental]]; el **carácter** (q.63) en [[carácter_sacramental]]. Aquí se recogen las causas (q.64) y el número y orden (q.65).
 
-**Definición (q.60):** El sacramento es un signo de una realidad sagrada que santifica a los hombres (q.60 a.2). Es signo conmemorativo de la pasión de Cristo, manifestativo de la gracia y profético de la gloria futura (q.60 a.3). Requiere cosas sensibles determinadas por institución divina (q.60 a.4-5). Las palabras, que actúan como forma respecto de la materia sensible, determinan la significación sacramental (q.60 a.6-7).
+#### IIIª q.64 — Las causas de los sacramentos
 
-**Necesidad (q.61):** Los sacramentos son necesarios para la salvación por la condición del hombre, por su estado caído y para evitar la superstición (q.61 a.1). No eran necesarios en el estado de inocencia (q.61 a.2); fueron necesarios antes de Cristo como signos de fe en el Salvador futuro (q.61 a.3); después de Cristo lo son como signos de la gracia presente (q.61 a.4).
+**a.1 — Solo Dios produce el efecto interior; el ministro, como instrumento:** Un efecto se produce como causa principal o como instrumento. Solo Dios obra como causa principal, porque solo Él penetra el alma —nadie obra inmediatamente donde no está— y porque la gracia proviene solo de Dios; también el carácter, efecto interior de algunos sacramentos, es virtud instrumental del agente principal. El hombre coopera como ministro, es decir, como instrumento: su acción es exterior, pero produce un efecto interior en virtud de Dios. (SmTh IIIa q.64 a.1)
 
-**Efectos (q.62–63):** Los sacramentos causan la gracia como causas instrumentales: no por virtud propia, sino en cuanto movidos por Dios como agente principal (q.62 a.1). La gracia sacramental añade a la gracia común de las virtudes y dones un auxilio divino para la finalidad específica de cada sacramento (q.62 a.2). Los sacramentos de la nueva ley reciben su virtud especialmente de la pasión de Cristo (q.62 a.5). Los sacramentos de la antigua ley no causaban la gracia por sí mismos, sino que significaban la fe que justificaba (q.62 a.6).
+**a.2 — Solo Dios es instituidor de los sacramentos:** El instrumento recibe todo su vigor del agente principal, y en los sacramentos los agentes son dos: el que los instituye y el que los usa. Como el vigor no puede venir de quien solo los administra, proviene del institutor; y como no puede provenir más que de Dios, solo Dios los instituye. (SmTh IIIa q.64 a.2)
 
-Tres sacramentos —bautismo, confirmación y orden— imprimen carácter, que es una participación del sacerdocio de Cristo, un sello espiritual e indeleble que depura al culto divino (q.63 a.1, 3, 5). El carácter es una potestad espiritual instrumental que reside en la potencia cognoscitiva del alma (q.63 a.2, 4).
+**a.3 — Cristo, en cuanto hombre, tiene poder de excelencia:** Cristo produce el efecto interior en cuanto Dios por propia autoridad, y en cuanto hombre de modo meritorio y eficaz, pero instrumental, pues su humanidad es instrumento unido a la divinidad en la misma persona. Su poder de **excelencia** se funda en cuatro prerrogativas: el mérito y la virtud de su pasión obran en los sacramentos; los sacramentos se confieren invocando su nombre; Él pudo instituirlos, confiriéndoles su virtud; y puede producir su efecto sin el rito externo. (SmTh IIIa q.64 a.3)
 
-**Causas (q.64):** Sólo Dios produce el efecto interior del sacramento como causa principal; el ministro actúa como instrumento (q.64 a.1). Sólo Dios puede instituir sacramentos (q.64 a.2). Cristo, en cuanto hombre, tiene sobre los sacramentos un poder de excelencia fundado en el mérito de su pasión, la invocación de su nombre, la institución y la capacidad de producir su efecto sin el rito externo (q.64 a.3). Los malos ministros pueden conferir válidamente los sacramentos porque actúan como instrumentos, aunque pecan al administrarlos indignamente (q.64 a.5-6). Se requiere la intención del ministro para determinar la acción sacramental (q.64 a.8), pero no se requiere su fe ni su rectitud moral (q.64 a.9-10).
+**a.4 — Pudo comunicar a sus ministros el poder de excelencia, no el de autoridad:** El poder de autoridad le corresponde como Dios y no es comunicable a ninguna creatura, como no lo es la esencia divina. El de excelencia, en cambio, sí pudo comunicarlo concediendo a sus ministros tal plenitud que sus méritos produjesen el efecto sacramental, que los sacramentos se confirieran en su nombre, que ellos pudieran instituirlos y producir su efecto sin rito externo. (SmTh IIIa q.64 a.4)
 
-**Número (q.65):** Los sacramentos son siete, en analogía con la vida corporal: bautismo (generación espiritual), confirmación (crecimiento), eucaristía (nutrición), penitencia (curación), unción de los enfermos (restauración), orden (gobierno de la comunidad) y matrimonio (procreación) (q.65 a.1). La eucaristía es el más importante de todos porque contiene realmente a Cristo (q.65 a.3). Tres sacramentos son absolutamente necesarios: bautismo (para el individuo), penitencia (supuesto el pecado mortal) y orden (para la Iglesia) (q.65 a.4).
+**a.5 — Los malos ministros confieren válidamente los sacramentos:** El ministro es instrumento, y el instrumento no actúa según su propia forma, sino según el impulso que recibe de quien le mueve; por eso puede tener cualidades diversas sin que ello afecte a su función —el cuerpo del médico puede estar sano o enfermo, y el tubo por el que pasa el agua puede ser de plata o de plomo—. (SmTh IIIa q.64 a.5)
+
+**a.6 — Pero pecan al administrarlos:** Conviene que los ministros sean santos, porque deben asemejarse a Dios —«sed santos porque yo soy santo»—. El mal ministro que se presenta como ministro de Dios y de la Iglesia peca en la administración, y ese pecado, por ser irreverencia contra Dios y contaminación de lo sagrado por parte del pecador, es de suyo mortal, aunque los sacramentos sean incontaminables en sí mismos. (SmTh IIIa q.64 a.6)
+
+**a.7 — Los ángeles no administran los sacramentos ordinariamente:** Toda la virtud de los sacramentos deriva de la pasión de Cristo, que le pertenece en cuanto hombre, naturaleza común a los hombres y no a los ángeles; por eso pertenece a los hombres dispensarlos. Con todo, Dios no ha vinculado su poder a los ministros de modo que no pueda concederlo también a los ángeles: un ministerio sacramental realizado por ángeles buenos debería ratificarse —se dice que algunos templos fueron consagrados por ministerio angélico—, pero no si lo realizan los demonios, «espíritus mendaces». (SmTh IIIa q.64 a.7)
+
+**a.8 — Se requiere la intención del ministro:** Cuando una acción puede tener diversos significados hace falta un elemento que la determine; la ablución con agua puede significar limpieza del cuerpo, salud, diversión y muchas cosas más. La intención del que la realiza la determina a la realización del sacramento, y se expresa por las palabras que se pronuncian en cada uno. (SmTh IIIa q.64 a.8)
+
+**a.9 — No se requiere la fe del ministro:** El ministro interviene como instrumento y no actúa por virtud propia, sino por la de Cristo. Como la caridad del ministro no se requiere para confeccionar el sacramento, tampoco se requiere su fe: un infiel puede administrar un verdadero sacramento, con tal de que no falten los otros requisitos. (SmTh IIIa q.64 a.9)
+
+**a.10 — La recta intención se requiere en orden al sacramento mismo:** La intención puede pervertirse de dos maneras: respecto del sacramento mismo —si no pretende hacer un sacramento sino una parodia—, y entonces lo anula; o respecto de lo que sigue al sacramento —bautizar para abusar de una mujer, consagrar para obtener un beneficio—, y entonces no destruye su verdad, aunque el ministro peca gravemente, porque lo que viene primero no depende de lo que viene después. (SmTh IIIa q.64 a.10)
+
+#### IIIª q.65 — Número y orden de los sacramentos
+
+**a.1 — Han de ser siete:** La vida del espíritu tiene semejanza con la vida corporal. En la vida corporal el hombre se perfecciona en sí mismo —generación, crecimiento, nutrición— y en la comunidad social. A la generación corresponde el **bautismo** (regeneración espiritual), al crecimiento la **confirmación** (robustecimiento en el Espíritu), a la nutrición la **eucaristía**. Como el hombre está sujeto a la enfermedad del pecado, necesita remedio de curación —la **penitencia**— y de recuperación de fuerzas —la **extremaunción**—. En la comunidad: el **orden** (gobierno) y el **matrimonio** (procreación). El septenario se justifica también por el remedio de cada carencia: vida, debilidad de los neófitos, proclividad al pecado, pecados personales, reliquias del pecado, desorganización de la multitud y concupiscencia. (SmTh IIIa q.65 a.1)
+
+**a.2 — El orden expuesto es el correcto:** Como la unidad precede a la colectividad, los sacramentos que perfeccionan a la persona preceden a los que perfeccionan a la colectividad; por eso el orden y el matrimonio van al final, y el matrimonio después del orden, porque participa menos de la vida espiritual. Entre los primeros tienen primacía los que perfeccionan directamente sobre los que remueven impedimentos; la extremaunción, que completa el restablecimiento, es posterior a la penitencia, que lo inicia. Entre los otros tres: bautismo (regeneración), confirmación (perfección de la virtud) y eucaristía (perfección del fin). (SmTh IIIa q.65 a.2)
+
+**a.3 — La eucaristía es el sacramento más importante:** Por tres razones: contiene realmente a Cristo en persona, mientras los demás contienen una virtud instrumental participada —ser por esencia es más que ser por participación—; todos los demás se ordenan a ella como a su fin —el orden a consagrarla, el bautismo a recibirla, la confirmación a no abstenerse de ella por vergüenza, la penitencia y la extremaunción a recibirla dignamente, el matrimonio por su significado—; y la recepción de casi todos se completa con ella. Entre los demás, por necesidad el primero es el bautismo; por perfección, el orden; la confirmación ocupa el puesto intermedio; la penitencia es más necesaria y la extremaunción más perfecta. (SmTh IIIa q.65 a.3)
+
+**a.4 — No todos son igualmente necesarios:** Hay necesidad absoluta —sin la cual no se alcanza el fin— y necesidad relativa —sin la cual no se alcanza con facilidad—. Según la primera hay tres: el **bautismo**, absolutamente necesario para el individuo; la **penitencia**, supuesto el pecado mortal después del bautismo; y el **orden**, necesario para la Iglesia, porque «donde no hay gobernador el pueblo se derrumba». Según la segunda son necesarios los otros: la confirmación perfecciona el bautismo, la extremaunción la penitencia y el matrimonio conserva la comunidad de la Iglesia con la procreación. (SmTh IIIa q.65 a.4)
 
 ### Según Royo Marín (TPCr)
 
@@ -227,6 +245,6 @@ Todos los sacramentos están ordenados a la [[eucaristía]] como a su fin y plen
 - TPCr, Tercera Parte, Libro II, Cap. I
 - PS §13
 - Concilio de Trento, D 844, D 849, D 850, D 852
-- Santo Tomás, S.Th., III, 60-90
+- SmTh IIIª q.64 a.1-10 (causas); q.65 a.1-4 (número y orden). q.60–63 se desglosan en [[sacramento]], [[gracia_sacramental]] y [[carácter_sacramental]]
 - Ele_Xto_Stos, Cap. III, §4b
 - [CIS, «La catedral interior del sacerdote», 2026]

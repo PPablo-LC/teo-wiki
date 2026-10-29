@@ -38,7 +38,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 **D-324** Can. 5. Toda la muchedumbre de los fieles, regenerada por el agua y el Espíritu Santo (Jn. 3,5), incorporada a la Iglesia y bautizada en la muerte de Cristo (Rom. 6,3), fue lavada de sus pecados en la sangre del mismo: no hubiera habido verdadera regeneración sin verdadera redención, pues en los sacramentos nada hay vano. De la muchedumbre de los fieles y redimidos, unos se salvan (perseveran por la gracia; Mt. 10,22; 24,13) y otros, por no querer permanecer en la salud de la fe recibida, no llegan a la bienaventuranza eterna (Heb. 10,26).
 
-**D-325** Can. 6. Sobre la gracia, por la que se salvan los creyentes y sin la cual la criatura racional jamás vivió bienaventuradamente, y sobre el libre albedrío, debilitado por el pecado en el primer hombre pero reintegrado y sanado por la gracia del Señor Jesús, se confiesa lo que enseñaron los Santos Padres, los Concilios de África y de Orange y los Pontífices de la Sede Apostólica. Se rechazan de todo en todo las «ineptas cuestioncillas y los guisados de los escoces» que causan náuseas a la pureza de la fe, a fin de que no se corrompan las almas cristianas.
+**D-325** Can. 6. Sobre la gracia, por la que se salvan los creyentes y sin la cual la criatura racional jamás vivió bienaventuradamente, y sobre el libre albedrío, debilitado por el pecado en el primer hombre pero reintegrado y sanado por la gracia del Señor Jesús, se confiesa lo que enseñaron los Santos Padres, los Concilios de África y de Orange y los Pontífices de la Sede Apostólica. Se rechazan de todo en todo las «ineptas cuestioncillas y los guisados de los escocés» que causan náuseas a la pureza de la fe, a fin de que no se corrompan las almas cristianas.
 
 
 ## Secciones incluidas

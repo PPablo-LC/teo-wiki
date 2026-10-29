@@ -24,7 +24,7 @@ Se presentan las fuentes de la forma oriental del [[símbolo_apostólico]], ates
 
 - **San Justino Mártir** (+167): posible testimonio de la forma oriental
 - **Constituciones Apostólicas Coptas**: presentan la Paradosis de Hipólito, modificada en Oriente respecto del símbolo
-- **Eusebio de Cesarea** (+hacia 340): ofreció su símbolo al Concilio de Nicea en 325, que se sirvió de él para componer su fórmula
+- **Eusebio de Cesárea** (+hacia 340): ofreció su símbolo al Concilio de Nicea en 325, que se sirvió de él para componer su fórmula
 - **San Cirilo de Jerusalén** (+386): sus catequesis (6-18), tenidas antes de 350, delatan un símbolo usado antes de 325. Su predecesor Macario parece haber usado el mismo símbolo
 - **San Epifanio** (+403): en su *Ancoratus* (hacia 374) contiene dos fórmulas, la más breve de las cuales es la más relevante
 - **Constituciones Apostólicas VII 41** (principios siglo V): el símbolo en su mayor parte es de Luciano Mártir (+312); ofrece la forma siropalestina

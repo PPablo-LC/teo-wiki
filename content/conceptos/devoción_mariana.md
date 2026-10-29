@@ -17,7 +17,7 @@ La devoción mariana es el conjunto de actos de veneración, imitación, consagr
 
 ## Desarrollo doctrinal
 
-La tradición distingue los niveles clásicos: *dulia* (veneración de los santos), *hyperdulia* (veneración singular de María, superior a la de todos los santos pero creada) y *latría* (adoración, debida solo a Dios). La devoción auténtica incluye imitación de las virtudes de María (fe, obediencia, humildad, caridad), consagración total y confianza filial. Las formas históricas incluyen el Rosario, los escapularios, las consagraciones totales (Grignion de Montfort, Kolbe) y las congregaciones marianas.
+La tradición distingue los niveles clásicos: *dulía* (veneración de los santos), *hyperdulia* (veneración singular de María, superior a la de todos los santos pero creada) y *latría* (adoración, debida solo a Dios). La devoción auténtica incluye imitación de las virtudes de María (fe, obediencia, humildad, caridad), consagración total y confianza filial. Las formas históricas incluyen el Rosario, los escapularios, las consagraciones totales (Grignion de Montfort, Kolbe) y las congregaciones marianas.
 
 ## Perspectivas por fuente
 

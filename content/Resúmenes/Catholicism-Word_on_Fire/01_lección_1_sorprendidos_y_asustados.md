@@ -4,7 +4,7 @@ title: "Lección 1 — Sorprendidos y asustados"
 fuente: Catholicism-Word_on_Fire
 capítulo: 1
 timestamp: 2026-08-25
-description: "Identidad divina de Jesús: la pregunta de Cesarea de Filipo, el nuevo templo, el guerrero no violento y las cuatro promesas mesiánicas cumplidas."
+description: "Identidad divina de Jesús: la pregunta de Cesárea de Filipo, el nuevo templo, el guerrero no violento y las cuatro promesas mesiánicas cumplidas."
 tags:
   - "resumen"
   - cristología
@@ -41,7 +41,7 @@ La esencia del humor es combinar incongruencias, y la propuesta central del cris
 
 Jesús creció en el anonimato: no era rabino, escriba, fariseo ni sacerdote. Pero a los ~30 años predicó en Galilea «tomando autoridad personal sobre la Torá misma», con milagros que dominaban las fuerzas de la naturaleza. Barron confiesa su temor a que Jesús sea «domesticado» — vuelto lindo, gentil, un eco más de figuras espirituales tipo Deepak Chopra — porque si eso pasa «todo se derrumbaría». Jesús desconcertaba: ante sus exorcismos y la calma de la tormenta, la pregunta era «¿quién es este?».
 
-### Cesarea de Filipo: la pregunta por la identidad
+### Cesárea de Filipo: la pregunta por la identidad
 
 En el extremo norte, junto al templo pagano del dios Pan, Jesús pregunta «¿quién dicen ustedes que soy yo?». No pregunta por sus enseñanzas sino por su persona, porque en el Evangelio él habla y actúa siempre representando a Dios. Pruebas evangélicas: «si no me aman a mí más que a su propia vida…» (Lc 14,26); al paralítico: «hijo, tus pecados te son perdonados» — y la multitud entiende el alcance: solo Dios perdona los pecados.
 

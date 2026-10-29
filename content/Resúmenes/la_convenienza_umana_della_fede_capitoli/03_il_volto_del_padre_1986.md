@@ -55,7 +55,7 @@ por [[juan_pablo_ii]] la tarde anterior.
 
 Invocación a [[madre_de_dios]] para que colabore con el Espíritu Santo en generar esta vida;
 «la grande Presenza di Cristo fra noi, perché Cristo è realmente nella comunione, è là dove vive la
-comunione tra noi». Las antifonas son «el tema con cui la Chiesa vuole scuotere l'anima»: «È tempo
+comunione tra noi». Las antífonas son «el tema con cui la Chiesa vuole scuotere l'anima»: «È tempo
 ormai di svegliarvi dal sonno» (Rm 13,11), «Cambierò il loro lutto in gioia» (Ger 31,13), «Mi
 protendo nella corsa per afferrarLo» (Fil 3,12).
 

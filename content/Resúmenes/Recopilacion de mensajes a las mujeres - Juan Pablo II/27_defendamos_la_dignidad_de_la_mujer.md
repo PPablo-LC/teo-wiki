@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Defendamos la dignidad de la mujer"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 27
 timestamp: 2026-08-31
-description: "Resumen de 'Defendamos la dignidad de la mujer' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Defendamos la dignidad de la mujer' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 
@@ -23,7 +23,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Defendamos la dignidad de la mujer
 
-#### (Angelus 18-04-95)
+#### (Ángelus 18-04-95)
 
 Durante la IV Conferencia Mundial sobre la Mujer, la comunidad internacional será invitada a reflexionar sobre una serie de problemas relativos a la condición femenina. El Papa expresa su vivo aprecio por esa iniciativa. El tema escogido es de suma importancia, no sólo para las mujeres, sino para el futuro del mundo, que depende en gran medida de la conciencia que las mujeres tienen de sí mismas. La Iglesia mira con espíritu abierto todo lo que se realiza en esa dirección y lo considera un auténtico «signo de los tiempos», como destacó [[san_juan_xxiii]] en *Pacem in terris* (n. 22). Un signo que pone de relieve un aspecto imprescindible de la plena verdad sobre el ser humano.
 

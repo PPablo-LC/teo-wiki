@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "**3a) LA ENTREGA TOTAL EN MEDIO DEL MUNDO**"
-fuente: La vocacion explicada - Juan Pablo II
+fuente: La vocación explicada - Juan Pablo II
 capítulo: 14
 timestamp: 2026-08-27
-description: "Resumen de '**3a) LA ENTREGA TOTAL EN MEDIO DEL MUNDO**' — La vocacion explicada - Juan Pablo II"
+description: "Resumen de '**3a) LA ENTREGA TOTAL EN MEDIO DEL MUNDO**' — La vocación explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
 

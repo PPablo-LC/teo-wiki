@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESION VIII), de 19 de diciembre de 1513]"
+title: "Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESIÓN VIII), de 19 de diciembre de 1513]"
 fuente: denzinger_capitulos
 capítulo: 80
 timestamp: 2026-08-24
-description: "Resumen de 'Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESION VIII), de 19 de diciembre de 1513]' — denzinger_capitulos"
+description: "Resumen de 'Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESIÓN VIII), de 19 de diciembre de 1513]' — denzinger_capitulos"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESION VIII), de 19 de diciembre de 1513]
+# Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESIÓN VIII), de 19 de diciembre de 1513]
 
 ## Conceptos básicos referenciados
 
@@ -34,15 +34,15 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## INOCENCIO VIII, 1484-1492 PIO III, 1503 ALEJANDRO VI, 1492-1503 JULIO II, 1503-1513 LEON X, 1513 -1521 V CONCILIO DE LETRAN, 1512-1517 XVIII ecuménico (acerca de la reformación de la Iglesia)
 
-## Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESION VIII), de 19 de diciembre de 1513]
+## Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESIÓN VIII), de 19 de diciembre de 1513]
 
 - D-738: El V Concilio de Letrán condena y reprueba a los que afirman que el [[alma]] intelectiva es mortal o única en todos los hombres, o que dudan de ello. El alma racional no solo es verdaderamente por sí y esencialmente la [[alma_forma_del_cuerpo|forma del cuerpo humano]] (como definió el Concilio de Vienne, n. 481), sino también inmortal y multiplicable, multiplicada e individualmente infundida conforme a la muchedumbre de los cuerpos. Lo verdadero no puede contradecir lo verdadero, por lo que se define como absolutamente falsa toda aserción contraria a la verdad de la fe. Los que se adhieren a tales errores han de ser evitados y castigados como herejes.
 
-## De los «Montes de piedad» y de la usura (2) [De la Bula Inter multiplices, de 28 de abril (SESION X), de 4 de Mayo de 1515]
+## De los «Montes de piedad» y de la usura (2) [De la Bula Inter multiplices, de 28 de abril (SESIÓN X), de 4 de Mayo de 1515]
 
 - D-739: Se declara y define que los Montes de piedad, instituidos en los estados con aprobación de la Sede Apostólica, que solo cobran un interés moderado para sus gastos e indemnidad, sin lucro, no presentan apariencia alguna de mal ni ofrecen incentivo para pecar, ni han de ser desaprobados; antes bien, ese préstamo es meritorio y ha de ser alabado y aprobado, y no tenido por usurario. Se impone la [[excomunión|excomunión]] latae sententiae a quienes prediquen o disputen contra esta declaración.
 
-## De la relación entre el Papa y los Concilios (1) [De la Bula Pastor aeternus (SESION XI), de 19 de diciembre de 1516]
+## De la relación entre el Papa y los Concilios (1) [De la Bula Pastor aeternus (SESIÓN XI), de 19 de diciembre de 1516]
 
 - D-740: Lo sancionado en el Concilio de Basilea tras su traslación no tiene fuerza alguna, por haberse hecho por el conciliábulo del mismo nombre. Consta manifiestamente que el Romano Pontífice, como tiene autoridad sobre todos los Concilios, posee pleno derecho y potestad de convocarlos, trasladarlos y disolverlos.
 
@@ -72,15 +72,15 @@ tags: ["resumen", "denzinger capitulos"]
 
 Contexto del V Concilio de Letrán, XVIII ecuménico.
 
-# Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESION VIII), de 19 de diciembre de 1513]
+# Del alma humana (contra los neoaristotélicos) (1) [De la Bula Apostolici regiminis (SESIÓN VIII), de 19 de diciembre de 1513]
 
 Definición sobre el alma racional como forma del cuerpo, inmortal y multiplicable (D-738).
 
-# De los «Montes de piedad» y de la usura (2) [De la Bula Inter multiplices, de 28 de abril (SESION X), de 4 de Mayo de 1515]
+# De los «Montes de piedad» y de la usura (2) [De la Bula Inter multiplices, de 28 de abril (SESIÓN X), de 4 de Mayo de 1515]
 
 Declaración sobre la licitud de los Montes de piedad (D-739).
 
-# De la relación entre el Papa y los Concilios (1) [De la Bula Pastor aeternus (SESION XI), de 19 de diciembre de 1516]
+# De la relación entre el Papa y los Concilios (1) [De la Bula Pastor aeternus (SESIÓN XI), de 19 de diciembre de 1516]
 
 Potestad del Papa de convocar, trasladar y disolver los Concilios (D-740).
 

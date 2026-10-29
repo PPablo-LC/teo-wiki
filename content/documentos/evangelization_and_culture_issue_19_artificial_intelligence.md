@@ -10,10 +10,10 @@ tags:
   - unidad_alma_cuerpo
   - persona
   - libertad
-  - evangelizacion
+  - evangelización
   - cultura
   - filosofia_de_la_tecnologia
-  - cibernetica
+  - cibernética
 timestamp: "2026-09-07"
 ---
 

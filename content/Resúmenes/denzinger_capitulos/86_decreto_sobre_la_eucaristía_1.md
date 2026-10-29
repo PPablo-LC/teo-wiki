@@ -25,7 +25,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## JULIO III, 1550-1555 Concilio de Trento. Continuación SESION XIII (11 de octubre de 1551)
+## JULIO III, 1550-1555 Concilio de Trento. Continuación SESIÓN XIII (11 de octubre de 1551)
 
 ## Decreto sobre la Eucaristía (1)
 
@@ -71,7 +71,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## JULIO III, 1550-1555 Concilio de Trento. Continuación SESION XIII (11 de octubre de 1551)
+## JULIO III, 1550-1555 Concilio de Trento. Continuación SESIÓN XIII (11 de octubre de 1551)
 
 Contexto de la sesión XIII de Trento.
 

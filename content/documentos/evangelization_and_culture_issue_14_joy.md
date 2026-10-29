@@ -6,7 +6,7 @@ tags:
   - evangelizacion_cultura
   - alegria
   - gozo
-  - evangelizacion
+  - evangelización
   - primacia_de_cristo
   - rosario
   - mística

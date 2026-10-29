@@ -53,7 +53,7 @@ Juan Casiano es la fuente fundamental de la espiritualidad monástica occidental
 
 ## Personas mencionadas
 
-Abades y ancianos del desierto: Moisés (de Escete), Juan de Betsaida, Pinufio, Teodoro, Simeón, Pablo del desierto Porfirion; San Basilio de Cesarea; San Juan Crisóstomo (ordenó diácono a Casiano); San Benito (fuera de la obra, como receptor).
+Abades y ancianos del desierto: Moisés (de Escete), Juan de Betsaida, Pinufio, Teodoro, Simeón, Pablo del desierto Porfirion; San Basilio de Cesárea; San Juan Crisóstomo (ordenó diácono a Casiano); San Benito (fuera de la obra, como receptor).
 
 ## Ver también
 

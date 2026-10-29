@@ -70,7 +70,7 @@ argumentos lógicos ni apelaciones morales: **solo una vida desbordante
 (*traboccante*) puede contender eficazmente con la muerte**. Por eso Dios,
 enviando al Hijo, introdujo el único método eficaz para desafiar la nada
 (Péguy: «No incriminó al mundo. Él salvó al mundo»), y con él el criterio de
-verificación: «Chi mi segue avrà il centuplo quaggiù» (Mt 19,29). Lo
+verificación: «Chi mi segue avrà il céntuplo quaggiù» (Mt 19,29). Lo
 reconocible es una **presencia que corresponde al corazón** —a la naturaleza
 hecha de exigencias de verdad, belleza, justicia, amor y felicidad—, y esa
 presencia se hace encontrable en un **acontecimiento**. La dinámica

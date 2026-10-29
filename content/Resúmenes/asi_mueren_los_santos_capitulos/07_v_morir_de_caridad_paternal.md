@@ -27,7 +27,7 @@ hogares más pobres.
    Misión, y con [[santa_luisa_de_marillac]] las Hijas de la Caridad;
    murió a los 79 años, consumido por las obras.
 2. **[[san_jerónimo_emiliano]]** (1481-1537): de capitán abandonado a
-   «padre de los pobres» tras morir su hijo; fundó los **Clerigos
+   «padre de los pobres» tras morir su hijo; fundó los **Clérigos
    Regulares de Somascha** y construyó hospitales; murió de peste
    contraída asistiendo a los apestados de Somasca.
 3. **[[san_camillo_de_lelis]]** (1550-1614): de soldado, jugador y

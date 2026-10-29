@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "El encuentro esponsal entre el hombre y la mujer"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 29
 timestamp: 2026-08-31
-description: "Resumen de 'El encuentro esponsal entre el hombre y la mujer' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'El encuentro esponsal entre el hombre y la mujer' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

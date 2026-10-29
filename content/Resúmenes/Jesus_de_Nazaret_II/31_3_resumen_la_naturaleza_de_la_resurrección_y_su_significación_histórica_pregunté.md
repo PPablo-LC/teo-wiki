@@ -14,7 +14,7 @@ tags: ["resumen", "jesus de nazaret ii"]
 
 - [[resurrección_de_cristo]] — salto ontológico; acontecimiento histórico que supera la historia
 - [[ascensión]] — sentado a la derecha del Padre; presencia nueva, no viaje cósmico
-- [[segunda_venida]] — «Marana tha»: ven, Señor Jesús
+- [[segunda_venida]] — «Maraña tha»: ven, Señor Jesús
 - [[adventus_medius]] — la venida intermedia (Bernardo): Palabra, sacramentos, santos
 - [[esperanza_cristiana]] — vigilancia y alegría de los discípulos
 
@@ -24,7 +24,7 @@ Distinciones decisivas: Jesús no volvió a la vida biológica normal; no es un 
 
 **Perspectiva: subió al cielo… vendrá con gloria.** Las apariciones fueron limitadas para constituir el círculo testifical misionero. Los discípulos vuelven de Betania «con gran alegría»: no se sienten abandonados: experimentan una presencia nueva. La nube de la ascensión es lenguaje teológico: entrar en el misterio de Dios. «Sentarse a la derecha de Dios» significa participar en la soberanía divina sobre todo espacio: Jesús «no se ha marchado»; «me voy y vuelvo a vuestro lado» (Jn 14, 28): como en Mc 6, ora en el monte y ve la barca acosada. María Magdalena aprende que ya no puede retenerlo: se le toca ahora «subiendo», junto al Padre.
 
-La fe en el retorno es segundo pilar: no escudriñar tiempos, sino testimoniar hasta los confines y velar. «Marana tha» significa a la vez «ven, Señor» y «el Señor viene». Además de la primera y última venida, Bernardo habla de un *adventus medius*: el Señor viene ya en su Palabra, en los sacramentos —especialmente la Eucaristía— y en las irrupciones históricas de los santos (Francisco y Domingo; Teresa, Juan de la Cruz, Ignacio, Javier). Jesús se va bendiciendo: sus manos extendidas son techo protector y apertura del mundo a Dios: razón permanente de la alegría cristiana.
+La fe en el retorno es segundo pilar: no escudriñar tiempos, sino testimoniar hasta los confines y velar. «Maraña tha» significa a la vez «ven, Señor» y «el Señor viene». Además de la primera y última venida, Bernardo habla de un *adventus medius*: el Señor viene ya en su Palabra, en los sacramentos —especialmente la Eucaristía— y en las irrupciones históricas de los santos (Francisco y Domingo; Teresa, Juan de la Cruz, Ignacio, Javier). Jesús se va bendiciendo: sus manos extendidas son techo protector y apertura del mundo a Dios: razón permanente de la alegría cristiana.
 
 ## Mapa del archivo fuente
 

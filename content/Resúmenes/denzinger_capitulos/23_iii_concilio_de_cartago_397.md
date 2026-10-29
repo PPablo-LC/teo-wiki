@@ -27,7 +27,7 @@ tags: ["resumen", "denzinger capitulos"]
 **D-92** Can. 36 (ó 47): «Se acordó que, fuera de las Escrituras canónicas, nada se lea en la Iglesia bajo el nombre de Escrituras divinas.»
 
 Lista de las Escrituras canónicas:
-- **Antiguo Testamento:** Génesis, Exodo, Levítico, Números, Deuteronomio, Jesús Navé, Jueces, Rut, 4 libros de los Reyes, 2 libros de los Paralipómenos, Job, Salterio de David, 5 libros de Salomón, 12 libros de los profetas (Isaías, Jeremías, Daniel, Ezequiel), Tobías, Judit, Ester, 2 libros de los Macabeos.
+- **Antiguo Testamento:** Génesis, Éxodo, Levítico, Números, Deuteronomio, Jesús Navé, Jueces, Rut, 4 libros de los Reyes, 2 libros de los Paralipómenos, Job, Salterio de David, 5 libros de Salomón, 12 libros de los profetas (Isaías, Jeremías, Daniel, Ezequiel), Tobías, Judit, Ester, 2 libros de los Macabeos.
 - **Nuevo Testamento:** 4 libros de los Evangelios, 1 libro de Hechos de los Apóstoles, 13 Epístolas de Pablo Apóstol (incluida la Epístola a los Hebreos), 2 de Pedro, 3 de Juan, 1 de Santiago, 1 de Judas, Apocalipsis de Juan.
 
 «Sobre la confirmación de este canon consúltese la Iglesia transmarina. Sea lícito también leer las pasiones de los mártires, cuando se celebran sus aniversarios.»

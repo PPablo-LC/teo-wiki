@@ -40,7 +40,7 @@ Simón de Betsaida, pescador de Cafarnaúm. Cuando Jesús se sube a su barco («
 
 En el patio del sumo sacerdote niega tres veces y llora amargamente. Tras la resurrección, junto al lago, Juan nota un detalle: Pedro estaba *gymnós* (desnudo) y se vistió antes de nadar a tierra — eco de Adán, cubierto tras el pecado; Pedro consciente de su culpa se cubre ante el Señor. La conversación de restauración: tres veces «¿Simón, me amas?» / «apacienta mis ovejas». Agustín: tres negaciones, tres reafirmaciones. Lección esencial: nuestro amor por Jesús debe conducir al amor por los otros. Pedro es arquetipo: en él vemos nuestra propia relación con el Señor. Chesterton: hay santos en mi religión, o sea personas que se saben pecadoras — quien avanza hacia la luz ve las manchas del parabrisas; los grandes santos dicen «soy el peor pecador» porque están en la luz.
 
-### Cesarea de Filipo: la confesión y las llaves
+### Cesárea de Filipo: la confesión y las llaves
 
 A la pregunta de Jesús, las respuestas de los discípulos (Elías, Jeremías, uno de los profetas) reflejan el consenso popular — y están mal: la identidad de Cristo no se decide democráticamente. Simón confiesa: «Tú eres el Cristo, el Hijo del Dios vivo» — no por inteligencia ni educación sino por carisma del Padre (revelado «no por carne ni sangre»). Jesús lo nombra *Kefa* (roca) y promete: sobre esta piedra edificaré mi iglesia; las puertas del infierno no prevalecerán — futuro que desborda a Pedro mismo: habla de todos los que compartirán su carisma y tarea. Tras Pentecostés el tambaleante se vuelve torre: su discurso (Hch 2) es obra maestra de evangelización centrada en la resurrección — «Dios lo ha hecho Señor y Mesías». Tarea fundamental de sus sucesores: atestiguar esa forma de la resurrección.
 

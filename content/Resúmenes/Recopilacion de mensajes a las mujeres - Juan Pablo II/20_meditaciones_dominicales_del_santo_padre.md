@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Meditaciones dominicales del Santo Padre"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 20
 timestamp: 2026-08-31
-description: "Resumen de 'Meditaciones dominicales del Santo Padre' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Meditaciones dominicales del Santo Padre' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

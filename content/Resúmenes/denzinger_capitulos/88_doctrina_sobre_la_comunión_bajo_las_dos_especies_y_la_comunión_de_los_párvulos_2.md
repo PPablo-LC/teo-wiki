@@ -22,7 +22,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## MARCELO II, 1555 PAULO, IV, 1555-1559 (v. 993) PIO IV, 1559-1565 Concilio de Trento: Conclusión SESION XXI (16 de julio de 1562)
+## MARCELO II, 1555 PAULO, IV, 1555-1559 (v. 993) PIO IV, 1559-1565 Concilio de Trento: Conclusión SESIÓN XXI (16 de julio de 1562)
 
 ## Doctrina sobre la comunión bajo las dos especies y la comunión de los párvulos (2)
 
@@ -51,7 +51,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## MARCELO II, 1555 PAULO, IV, 1555-1559 (v. 993) PIO IV, 1559-1565 Concilio de Trento: Conclusión SESION XXI (16 de julio de 1562)
+## MARCELO II, 1555 PAULO, IV, 1555-1559 (v. 993) PIO IV, 1559-1565 Concilio de Trento: Conclusión SESIÓN XXI (16 de julio de 1562)
 
 Contexto de la sesión XXI de Trento.
 

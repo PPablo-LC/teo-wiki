@@ -19,7 +19,7 @@ El **primado de Pedro** es la preeminencia que Cristo confirió a [[san_pedro]] 
 
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
-- **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — la autoridad de la Iglesia —Papa y Obispos— como «pilar de sostenimiento del sentido religioso de cada época» (Mt 16,16-18, Cesarea de Filippi); los libros sagrados están confiados a la interpretación auténtica de la autoridad de la Iglesia.
+- **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — la autoridad de la Iglesia —Papa y Obispos— como «pilar de sostenimiento del sentido religioso de cada época» (Mt 16,16-18, Cesárea de Filippi); los libros sagrados están confiados a la interpretación auténtica de la autoridad de la Iglesia.
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — en el aflojarse de la «sequela al Pontefice» Giussani ve «otro reverbero de protestantismo» (congregazionalismo o episcopalismo): una Iglesia local que «tendría capacidad suficiente y autónoma de fundar la relación del hombre con Cristo»; así «el primado real del Vescovo di Roma es rarefacto y con él el único anclaje adecuado de la relación con Dios, que es el misterio de la Iglesia en su totalidad» (07, L53).
 - **Parte seconda** — cita la carta de Montini (futuro Pablo VI) al card. Cicognani antes del Concilio: la plenitud de poderes en Pedro y su sucesor es «el secreto de su unidad, de su fuerza, de su misteriosa capacidad de desafiar al tiempo y hacer de los hombres una Iglesia» (07, L55).
 

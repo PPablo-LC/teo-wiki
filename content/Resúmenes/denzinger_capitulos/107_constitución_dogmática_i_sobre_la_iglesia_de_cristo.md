@@ -26,7 +26,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## SESION IV (18 de julio de 1870) (1)
+## SESIÓN IV (18 de julio de 1870) (1)
 
 ## Constitución dogmática I sobre la Iglesia de Cristo
 
@@ -84,7 +84,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SESION IV (18 de julio de 1870) (1)
+## SESIÓN IV (18 de julio de 1870) (1)
 
 # Constitución dogmática I sobre la Iglesia de Cristo
 

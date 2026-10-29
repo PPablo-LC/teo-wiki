@@ -32,7 +32,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### URBANO VI, 1378-1389 INOCENCIO VII, 1404-1406 BONIFACIO IX, 1389-1404 GREGORIO XII, 1406-1415 MARTIN V, 1417-1431 CONCILIO DE CONSTANZA, 1414-1418 XVI ecuménico (contra Wicleff, Hus, etc.) SESION VIII (4 de mayo de 1415)
+### URBANO VI, 1378-1389 INOCENCIO VII, 1404-1406 BONIFACIO IX, 1389-1404 GREGORIO XII, 1406-1415 MARTIN V, 1417-1431 CONCILIO DE CONSTANZA, 1414-1418 XVI ecuménico (contra Wicleff, Hus, etc.) SESIÓN VIII (4 de mayo de 1415)
 
 ## Errores de Juan Wicleff (2) [Condenados en el Concilio y por las Bulas Inter cunctas e In eminentis, de 22 de febrero de 1418]
 
@@ -87,7 +87,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## URBANO VI, 1378-1389 INOCENCIO VII, 1404-1406 BONIFACIO IX, 1389-1404 GREGORIO XII, 1406-1415 MARTIN V, 1417-1431 CONCILIO DE CONSTANZA, 1414-1418 XVI ecuménico (contra Wicleff, Hus, etc.) SESION VIII (4 de mayo de 1415)
+## URBANO VI, 1378-1389 INOCENCIO VII, 1404-1406 BONIFACIO IX, 1389-1404 GREGORIO XII, 1406-1415 MARTIN V, 1417-1431 CONCILIO DE CONSTANZA, 1414-1418 XVI ecuménico (contra Wicleff, Hus, etc.) SESIÓN VIII (4 de mayo de 1415)
 
 ## Errores de Juan Wicleff (2) [Condenados en el Concilio y por las Bulas Inter cunctas e In eminentis, de 22 de febrero de 1418]
 

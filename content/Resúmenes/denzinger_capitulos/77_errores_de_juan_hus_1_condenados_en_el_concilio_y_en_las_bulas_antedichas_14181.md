@@ -28,7 +28,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-### SESION XV (6 de julio de 1415)
+### SESIÓN XV (6 de julio de 1415)
 
 ## Errores de Juan Hus (1) [Condenados en el Concilio y en las Bulas antedichas, 14181
 
@@ -69,7 +69,7 @@ Finalmente:
 
 ## Secciones incluidas
 
-## SESION XV (6 de julio de 1415)
+## SESIÓN XV (6 de julio de 1415)
 
 Sesión del Concilio de Constanza en la que se condenan los errores de Juan Hus.
 

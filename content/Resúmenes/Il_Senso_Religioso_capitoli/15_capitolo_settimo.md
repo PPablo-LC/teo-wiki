@@ -25,7 +25,7 @@ tags: ["resumen", "il senso religioso capitoli"]
 
 ## Contenido
 
-### 1. Evasione estetica o sentimentale
+### 1. Evasione estética o sentimentale
 
 Los tres últimos programas «irrazonables» tienen en común tomar en serio el estímulo constitutivo de la razón pero **reducirlo**. La primera reducción es la **evasión estética o sentimental**: se aceptan y se miden las preguntas con el sentimiento, pero sin compromiso personal del yo, sin compromiso de la propia libertad: solo complacimiento expresivo del eco emotivo que el interrogativo suscita; la búsqueda del sentido de la vida se convierte en un espectáculo de belleza. Kazantzakis: «la libertad es un canto solitario y desdeñoso que se pierde en el viento» — el valor de la libertad bien dicho, pero detenido en emoción estética. Carducci (*Jaufré Rudel*): «¿Qué es la vida? La sombra de un sueño que huye... El verdadero inmortal es el amor». Gide y los delfines: el gusto estético no basta ante una madre a la que muere el hijo, ni para quien no tiene trabajo. Evtushenko («falta precisamente lo esencial»). El sueño de que habla Shakespeare (*La tempestad*): «sueño, verdad sin certeza de memoria» — tiene un impulso verdadero, un alone imaginativo, pero sin fundamento dado que recuperar siempre para obedecerle, verificándolo en certeza creciente.
 

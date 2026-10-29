@@ -32,7 +32,7 @@ SmTh Iª q.5) y por tanto coinciden en Dios de manera eminente.
   comparte verdad, bondad y belleza, de modo que la formación en una
   disciplina abre a la armonía de la realidad; la [[vía_de_la_belleza]]
   (vía pulchritudinis) es la vía de acceso a Dios desde el resplandor.
-- **Consecuencia apologetica**: el relativismo moderno fragmenta los
+- **Consecuencia apologética**: el relativismo moderno fragmenta los
   trascendentales (verdad sin bondad, belleza sin verdad); la tradición
   enseña su indivisibilidad como defensa de la [[razón]].
 

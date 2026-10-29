@@ -53,7 +53,7 @@ El disegno del maligno — dice Berlicche a Malacoda en Lewis, *Cartas del diabl
 
 > **Un'immagine drammatica della vita**
 
-Una imagen dramática de la vida solo puede ser cristiana: pone a la persona frente al Infinito, frente al Mistero, frente a una presencia humana — Cristo —, e implica el nesso con la sociedad. Un acto lo implica todo. La gran alternativa es entre la victoria de la afirmación de una Presenza — dell'essere — y la afirmación del nulla. Si se reconoce la gran Presencia, la vida se vuelve viva no come vibrazione estetica sino come responsabilità, come scelta continua.
+Una imagen dramática de la vida solo puede ser cristiana: pone a la persona frente al Infinito, frente al Mistero, frente a una presencia humana — Cristo —, e implica el nesso con la sociedad. Un acto lo implica todo. La gran alternativa es entre la victoria de la afirmación de una Presenza — dell'essere — y la afirmación del nulla. Si se reconoce la gran Presencia, la vida se vuelve viva no come vibrazione estética sino come responsabilità, come scelta continua.
 
 > **La tentazione di ciò che è ostile all'essere**
 

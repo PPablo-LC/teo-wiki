@@ -17,7 +17,7 @@ San Camillo de Lellis (Bucchianico, Abruzzo, 1550 – Roma, 1614) fue soldado de
 
 ## Relevancia teológica
 
-Camillo encarna la teología del «Cristo sufrido en los pobres»: «I poveri infermi sono pupilla et cuore di Dio et... quello che facevano alli detti poverelli era fatto allo stesso Dio». Su intuición fundacional — sustituir los servi mercenari de los hospitales del quinientos (forzados, delincuentes, gente que maltrataba a los moribundos) por personas que sirvieran «non per mercede, ma volontariamente e per amore d'iddio», con «quell'amorevolezza che sogliono fare le madri verso i propri figli infermi» — es una de las mayores revoluciones de la [[caridad]] institucional en la historia de la Iglesia. Su caridad se desplegó en lo material y lo espiritual sin distinción: gestionó hospitales enteros porque «per Camillo qualunque cosa riguarda anche lontanamente i suoi poverelli è sacra».
+Camillo encarna la teología del «Cristo sufrido en los pobres»: «I poveri infermi sono pupilla et cuore di Dio et... quello che facevano allí detti poverelli era fatto allo stesso Dio». Su intuición fundacional — sustituir los servi mercenari de los hospitales del quinientos (forzados, delincuentes, gente que maltrataba a los moribundos) por personas que sirvieran «non per mercede, ma volontariamente e per amore d'iddio», con «quell'amorevolezza che sogliono fare le madri verso i propri figli infermi» — es una de las mayores revoluciones de la [[caridad]] institucional en la historia de la Iglesia. Su caridad se desplegó en lo material y lo espiritual sin distinción: gestionó hospitales enteros porque «per Camillo qualunque cosa riguarda anche lontanamente i suoi poverelli è sacra».
 
 ## Perspectivas por fuente
 

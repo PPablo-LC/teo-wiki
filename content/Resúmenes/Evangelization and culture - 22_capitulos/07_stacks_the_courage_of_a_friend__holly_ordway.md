@@ -16,7 +16,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 - [[virtudes_cardinales]] — una de las cuatro virtudes cardinales, de la cual dependen las demás
 - [[virtud_moral]] — disposición estable que asegura la constancia en la persecución del bien
 - [[j_r_r_tolkien]] — autor de *El Señor de los Anillos*, cuyo personaje Samwise Gamgee encarna el coraje cotidiano
-- [[c_s_lewis]] — la pieza se enmarca en la tradición apologetica y literaria del mundo anglicano que incluye a Lewis
+- [[c_s_lewis]] — la pieza se enmarca en la tradición apologética y literaria del mundo anglicano que incluye a Lewis
 
 ## Contenido
 

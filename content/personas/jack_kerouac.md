@@ -68,7 +68,7 @@ Paul Maher Jr., en "Kerouac's Visions of Gerard" (§03), desarrolla una teologí
 | **Generación Beat** vs. **ateísmo** | Aunque los Beat frecuentemente se asociaron con el liberalismo y la experimentación, Kerouac fue un católico devoto. |
 | **Budismo** vs. **catolicismo** | Kerouac exploró el budismo pero siempre volvió al catolicismo de su infancia; las tradiciones se integraron en su visión. |
 | **Escritura** vs. **oración** | Para Kerouac, la escritura era un acto sagrado: escribía como si estuviera en trance durante la «larga noche de sufrimiento». |
-| **Visions of Gerard** vs. **Visions of Cody** | Las dos obras son «companeros simbólicos»: Gerard es el hermano perdido; Neal Cassady es el hermano simbólico. |
+| **Visions of Gerard** vs. **Visions of Cody** | Las dos obras son «compañeros simbólicos»: Gerard es el hermano perdido; Neal Cassady es el hermano simbólico. |
 
 ## Relaciones doctrinales
 

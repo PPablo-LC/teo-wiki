@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misa
 tags: ["sacramental", "liturgia"]
 
-timestamp: 2026-06-15
+timestamp: 2026-10-28
 description: "El sacrificio eucarístico, también llamado Santo Sacrificio de la Misa, en el que se hace presente el único sacrificio de Cristo en la cruz bajo las especies eucarísticas."
 ---
 # Misa
 
 > Área: Sacramental / Liturgia
-> Última actualización: 2026-06-15
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -59,22 +59,19 @@ Las misas solemnes se celebran en 25 días señalados que incluyen las grandes s
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica la cuestión 83 al rito de la misa, el acto de celebrar el sacrificio eucarístico.
+#### IIIª q.83 — El rito de este sacramento
 
-**Cristo como oferente principal (Q83 a.1):** El sacerdote ministerial ofrece el sacrificio en nombre de Cristo, pero Cristo mismo es el principal oferente. La misa es un verdadero sacrificio porque en ella se representa la pasión de Cristo mediante la consagración separada del Cuerpo y de la Sangre.
+**a.2 — El tiempo de la celebración:** En la celebración se ha de atender a la representación de la pasión y a la participación de sus frutos. Como del fruto de la pasión necesitamos todos los días a causa de nuestros defectos cotidianos, se celebra diariamente; y por la mañana, porque a esa hora resucitó Cristo y porque así el pueblo se dispone con el ayuno a recibir el sacramento. (SmTh IIIa q.83 a.2)
 
-**La doble consagración (Q83 a.2):** La consagración se hace sobre dos materias (pan y vino) para significar la separación del Cuerpo y la Sangre que ocurrió en la cruz, y porque el sacramento ha de constar de alimento y bebida, como símbolo de la perfecta refección espiritual.
+**a.3 — Edificio y vasos sagrados:** Los ritos de la eucaristía tienen doble finalidad: representar lo que sucedió en la pasión y fomentar la reverencia debida a este sacramento, en el que Cristo está realmente y no solo en figura. Por eso se consagran el templo, el altar, los vasos y los vestidos sagrados. (SmTh IIIa q.83 a.3)
 
-**Tiempo de la celebración (Q83 a.3):** La misa puede celebrarse a cualquier hora del día, aunque por reverencia y por tradición se celebra principalmente por la mañana. Solo en Navidad y Pascua se permite a medianoche.
+**a.4 — Las palabras y partes del rito:** Como en este sacramento se compendia todo el misterio de la salvación, se celebra con mayor solemnidad. El rito dispone primero la preparación —«Señor, ten piedad», «Gloria», oración—; luego la instrucción del pueblo por los Profetas, los Apóstoles y el Evangelio, con el símbolo de la fe; después la oblación y la consagración, con las palabras del Salvador; y finalmente la consumación —Padrenuestro, comunión— y la acción de gracias. (SmTh IIIa q.83 a.4)
 
-**Lugar de la celebración (Q83 a.4):** La misa debe celebrarse en lugar sagrado (iglesia u oratorio dedicado o bendecido) y sobre altar consagrado, por reverencia al sacramento y para que los fieles puedan congregarse.
+**a.5 — Las ceremonias son oportunas:** En los sacramentos la significación se realiza por palabras y por hechos, y las ceremonias de la misa significan lo que pertenece a la pasión de Cristo, al cuerpo místico y al uso del sacramento, disponiendo a la reverencia y a la devoción. (SmTh IIIa q.83 a.5)
 
-**Las palabras de la consagración (Q83 a.5):** Las palabras de Cristo (Hoc est enim corpus meum) son esenciales para la validez del sacramento. Las demás oraciones del canon son ceremoniales y no pertenecen a la esencia del sacramento.
+**a.6 — Remedio de los defectos:** Los defectos pueden prevenirse para que no ocurran o, una vez ocurridos, repararse, y quien obró con negligencia debe hacer penitencia. A ambos proveen las leyes de la Iglesia, que ordenan lo necesario para la digna celebración. (SmTh IIIa q.83 a.6)
 
-**Las ceremonias de la misa (Q83 a.6):** Las ceremonias de la misa (signos, genuflexiones, incienso, velas, etc.) no son superfluas sino convenientes: significan la reverencia debida a tan gran misterio, instruyen al pueblo fiel sobre la fe, y excitan la devoción interior.
-
-**Los defectos en la celebración (Q83 a.7-9):** La misa puede tener defectos por parte del ministro (falta de intención, indignidad moral), por parte de la materia (pan corrompido, vino avinagrado), o por parte del rito (omisión de palabras esenciales). La falta de intención interna de consagrar invalida el sacramento, pero la mera distracción no la impide.
-
+> El artículo a.1, sobre la inmolación incruenta de Cristo en la misa, se desglosa en [[sacrificio_eucarístico]].
 ### Según San Juan Pablo II (EA)
 
 Los pastores deben «dar a la celebración eucarística dominical una nueva fuerza, como fuente y culminación de la vida de la Iglesia, prenda de su comunión en el Cuerpo de Cristo e invitación a la solidaridad» [EA §35]. Los fieles deben ser conscientes de que la Eucaristía es «un inmenso don» y participar activa y dignamente en ella, «al menos los domingos y días festivos» [EA §35].

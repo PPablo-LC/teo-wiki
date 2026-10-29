@@ -29,7 +29,7 @@ Barron describe su experiencia de juventud: «La blancura, apagada, contrastaba 
 
 1. **Estética mediocre:** Templos con arquitectura moderna aburrida, arte sacro deficiente, música folclórica simplificada.
 2. **Teología reducida:** La fe se reduce a un conjunto de reglas morales, sin profundidad intelectual ni belleza.
-3. **Apologetica insegura:** La Iglesia se disculpa por sus enseñanzas en lugar de presentarlas con gozo.
+3. **Apologética insegura:** La Iglesia se disculpa por sus enseñanzas en lugar de presentarlas con gozo.
 4. **Adaptación excesiva:** Se adapta a la cultura secular en lugar de dialogar con ella.
 
 ### Opuestos
@@ -52,7 +52,7 @@ Barron opone al catolicismo beige una Iglesia que:
 Cush identifica tres componentes del catolicismo beige:
 
 1. **Cultura de la apatía:** Una Iglesia que ha adoptado una actitud pasiva ante la cultura.
-2. **Apologetica defensiva:** Una teología que se justifica en lugar de proponer.
+2. **Apologética defensiva:** Una teología que se justifica en lugar de proponer.
 3. **Estética mediocre:** Templos y arte que no inspiran ni elevan el espíritu.
 
 ### Otros documentos

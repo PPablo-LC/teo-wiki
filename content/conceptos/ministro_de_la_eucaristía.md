@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ministro de la eucaristía
 tags: ["sacramental", "dogmática"]
 
-timestamp: 2026-06-15
+timestamp: 2026-10-28
 description: "El ministro del sacramento de la [[eucaristía]] es el sacerdote (obispo o presbítero) válidamente ordenado."
 ---
 # Ministro de la eucaristía
 
 > Área: Sacramental / Dogmática
-> Última actualización: 2026-06-15
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -23,23 +23,27 @@ Solo el sacerdote ordenado tiene la potestad de consagrar la eucaristía, recibi
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica la cuestión 82 al ministro de la eucaristía.
+#### IIIª q.82 — El ministro de este sacramento
 
-**Propio del sacerdote (Q82 a.1):** Consagrar este sacramento es propio del sacerdote porque se realiza _in persona Christi_, y el sacerdote recibe en la ordenación la potestad de actuar en nombre de Cristo. Un laico, por santo que sea, no tiene esta potestad sacramental.
+**a.1 — Es propio del sacerdote consagrar:** Tan grande es la dignidad de este sacramento que solo puede realizarse *in persona Christi*; y quien hace algo en nombre de otro debe hacerlo con la potestad que de él recibió. Al bautizado Cristo le concede la potestad de recibir la eucaristía; al sacerdote, por la ordenación, la de consagrarla. (SmTh IIIa q.82 a.1)
 
-**Concelebración (Q82 a.2):** Varios sacerdotes pueden concelebrar la misma misa, como los Apóstoles concelebraron con Cristo, sin que se reiteré la consagración. La unidad del sacerdocio permite que muchos consagren uno en Cristo.
+**a.2 — Varios sacerdotes pueden consagrar la misma hostia:** El sacerdote queda constituido por la ordenación en el grado de quienes recibieron del Señor en la cena la potestad de consagrar. Por eso, así como los Apóstoles concelebraron con Cristo, los recién ordenados concelebran con el obispo, y la concelebración no reitera el sacramento. (SmTh IIIa q.82 a.2)
 
-**Administración del sacramento (Q82 a.3):** La distribución del Cuerpo de Cristo corresponde al sacerdote, que lo consagra y lo entrega al pueblo. El diácono puede administrar la sangre por su cercanía al orden sacerdotal. Por reverencia al sacramento, solo manos consagradas deben tocar el Cuerpo de Cristo.
+**a.3 — La administración corresponde al sacerdote:** Por tres razones: porque consagra *in persona Christi*, y fue Cristo quien se dio a los otros; porque el sacerdote es intermediario entre Dios y el pueblo, y así como ofrece a Dios los dones del pueblo, le corresponde entregarle los dones de Dios; y porque, por reverencia, nada toca el sacramento que no esté consagrado. (SmTh IIIa q.82 a.3)
 
-**Obligación de comulgar (Q82 a.4):** El sacerdote que consagra debe comulgar, porque la eucaristía es sacrificio y quien lo ofrece debe participar de él, como signo del sacrificio interior.
+**a.4 — El sacerdote que consagra debe comulgar:** La eucaristía no solo es sacramento, sino sacrificio, y quien ofrece un sacrificio debe participar de él, porque el sacrificio externo es signo del sacrificio interior. Además, al entregar al pueblo las cosas divinas debe ser el primero en recibirlas. (SmTh IIIa q.82 a.4)
 
-**Sacerdote pecador (Q82 a.5-6):** Un sacerdote en pecado mortal puede consagrar válidamente, pues consagra no por su virtud sino como ministro de Cristo. Sin embargo, la misa de un sacerdote pecador es menos fructuosa en cuanto a las oraciones (no en cuanto al sacramento mismo).
+**a.5 — Un mal sacerdote consagra válidamente:** No consagra por virtud propia, sino como ministro de Cristo; y por ser malo no deja de ser ministro, pues el Señor tiene siervos buenos y malos. (SmTh IIIa q.82 a.5)
 
-**Herejes, cismáticos y excomulgados (Q82 a.7-9):** Conservan la potestad de consagrar porque el carácter del orden es indeleble, pero no pueden ejercerla lícitamente. No es lícito recibir la comunión de ellos ni oír su misa, excepto en caso de necesidad con los pecadores no notorios.
+**a.6 — No vale menos la misa del mal sacerdote:** En cuanto al sacramento, es el mismo que consagra el bueno. En cuanto a la oración, es más fructuosa la del sacerdote más devoto si se atiende a su devoción; pero en cuanto oración de toda la Iglesia, tiene igual eficacia, pues el sacerdote actúa en nombre de ella. (SmTh IIIa q.82 a.6)
 
-**Sacerdote degradado (Q82 a.8):** El carácter del orden es indeleble, por lo que ni siquiera la degradación quita la potestad de consagrar, aunque priva del ejercicio lícito.
+**a.7 — Herejes, cismáticos y excomulgados:** Conservan la potestad recibida en la ordenación, pero la ejercen ilícitamente, porque se separaron de la Iglesia. «Es distinto no tener una cosa y tenerla abusivamente, como es distinto no dar y no dar rectamente» (Agustín). (SmTh IIIa q.82 a.7)
 
-**Obligación de celebrar (Q82 a.10):** El sacerdote no puede abstenerse por completo de celebrar, pues la gracia recibida en la ordenación exige su ejercicio. Está obligado al menos en las fiestas principales.
+**a.8 — El sacerdote degradado:** La potestad de consagrar pertenece al carácter sacerdotal, que es indeleble como toda consagración; por eso no se pierde con la degradación, aunque su uso quede canónicamente impedido. (SmTh IIIa q.82 a.8)
+
+**a.9 — Recibir la comunión de ellos:** Está prohibido oír misa y comulgar de herejes, cismáticos y excomulgados, porque están privados del ejercicio por sentencia de la Iglesia. De los pecadores no privados por sentencia, aunque pecan al celebrar, es lícito recibirla sin hacerse partícipe de su culpa. (SmTh IIIa q.82 a.9)
+
+**a.10 — No es lícito abstenerse por completo de consagrar:** Cada cual debe usar la gracia recibida cuando la oportunidad lo requiere, y la oportunidad del sacrificio no se mide solo por la utilidad de los fieles, sino principalmente por el honor de Dios. (SmTh IIIa q.82 a.10)
 
 ### Según el Catecismo (CEC)
 

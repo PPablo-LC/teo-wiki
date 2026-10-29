@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Gratitud a las mujeres, ángeles del consuelo"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 34
 timestamp: 2026-08-31
-description: "Resumen de 'Gratitud a las mujeres, ángeles del consuelo' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Gratitud a las mujeres, ángeles del consuelo' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

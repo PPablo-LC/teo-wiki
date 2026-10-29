@@ -17,7 +17,7 @@ Simón Pedro, llamado por Jesús «piedra» (Mt 16,18), recibe de Cristo la prom
 
 ## Desarrollo doctrinal
 
-Jesús, en Cesarea de Filipo, después de la confesión de Pedro («Tú eres el Mesías, el Hijo de Dios vivo»), le dice: «Tú eres Pedro, y sobre esta piedra edificaré yo mi Iglesia, y las puertas del infierno no prevalecerán contra ella. Yo te daré las llaves del reino de los cielos, y cuanto atares en la tierra quedará atado en los cielos, y cuanto desatares en la tierra quedará desatado en los cielos» (Mt 16,18-19). Jesús habla con la autoridad de quien posee el Reino y puede confiar sus llaves a un representante. Pedro recibe un poder especial en orden al Reino, como preparación al mandato universal de Cristo resucitado (Mt 28,18-20).
+Jesús, en Cesárea de Filipo, después de la confesión de Pedro («Tú eres el Mesías, el Hijo de Dios vivo»), le dice: «Tú eres Pedro, y sobre esta piedra edificaré yo mi Iglesia, y las puertas del infierno no prevalecerán contra ella. Yo te daré las llaves del reino de los cielos, y cuanto atares en la tierra quedará atado en los cielos, y cuanto desatares en la tierra quedará desatado en los cielos» (Mt 16,18-19). Jesús habla con la autoridad de quien posee el Reino y puede confiar sus llaves a un representante. Pedro recibe un poder especial en orden al Reino, como preparación al mandato universal de Cristo resucitado (Mt 28,18-20).
 
 ## Perspectivas por fuente
 

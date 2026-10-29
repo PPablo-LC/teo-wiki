@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "LAS SIETE LÁMPARAS de la VIDA CRISTIANA"
-fuente: Juan Pablo I y Juan Pablo II - Las siete lamparas de la vida cristiana
+fuente: Juan Pablo I y Juan Pablo II - Las siete lámparas de la vida cristiana
 capítulo: 2
 timestamp: 2026-08-25
 description: "Resumen del prólogo: el proyecto común de ambos Pontífices de 1978 sobre las siete lámparas — tres teologales y cuatro cardinales"

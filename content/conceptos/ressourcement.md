@@ -5,7 +5,7 @@ description: "Movimiento teológico del siglo XX que busca volver a las fuentes 
 timestamp: 2026-09-07
 tags:
   - teologia
-  - patristica
+  - patrística
   - tradición
   - vaticano_ii
 ---

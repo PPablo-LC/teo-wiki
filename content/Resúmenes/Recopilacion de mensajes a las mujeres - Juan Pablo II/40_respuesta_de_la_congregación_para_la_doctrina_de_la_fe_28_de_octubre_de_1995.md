@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Respuesta de la Congregación para la Doctrina de la Fe 28 de octubre de 1995"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 40
 timestamp: 2026-08-31
-description: "Resumen de 'Respuesta de la Congregación para la Doctrina de la Fe 28 de octubre de 1995' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Respuesta de la Congregación para la Doctrina de la Fe 28 de octubre de 1995' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

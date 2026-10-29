@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "SIMBOLOS"
+title: "SÍMBOLOS"
 fuente: denzinger_capitulos
 capítulo: 1
 timestamp: 2026-08-24
@@ -8,7 +8,7 @@ description: "Resumen de la sección de símbolos y credos en Denzinger"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# SIMBOLOS
+# SÍMBOLOS
 
 ## Conceptos básicos referenciados
 
@@ -24,6 +24,6 @@ Esta sección introduce la recopilación de los principales símbolos o credos d
 
 ## Secciones incluidas
 
-## SIMBOLOS
+## SÍMBOLOS
 
 Sección introductoria que encabezada el conjunto de credos y símbolos recopilados por Denzinger. Incluye las formas antiguas del Símbolo Apostólico, las diversas versiones regionales (romana, griega, oriental), las fórmulas de San Cirilo de Jerusalén, la fórmula llamada «Fe de Damaso» y el llamado «Símbolo Atanasiano», así como documentos de los romanos pontífices y de los concilios que contienen definiciones de fe sobre la [[trinidad]], la [[encarnación]] y otros dogmas fundamentales.

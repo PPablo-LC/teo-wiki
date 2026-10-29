@@ -27,7 +27,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## SESION VII (3 de marzo de 1547) Proemio (1)
+## SESIÓN VII (3 de marzo de 1547) Proemio (1)
 
 - D-843a: Para completar la doctrina sobre la justificación, el Concilio trata de los santísimos [[sacramentos]], por los que toda verdadera justicia o empieza, o empezada se aumenta, o perdida se repara. Siguiendo la doctrina de las Escrituras, las tradiciones apostólicas y el consentimiento de los Concilios y Padres, establece los siguientes cánones.
 - D-844 a D-853 (cánones 1-10 sobre los sacramentos en general): los siete sacramentos fueron instituidos todos por Jesucristo; se distinguen de los de la Antigua Ley; no son todos iguales en dignidad; son necesarios para la salvación (ellos o su deseo); no fueron instituidos solo para alimentar la fe; contienen y confieren la gracia que significan a los que no ponen óbice; la gracia se da siempre y a todos en cuanto depende de Dios; no se confiere la gracia solo por la fe sino ex opere operato; y en tres sacramentos (bautismo, confirmación y orden) se imprime [[carácter_sacramental|carácter]] en el alma.
@@ -49,7 +49,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SESION VII (3 de marzo de 1547) Proemio (1)
+## SESIÓN VII (3 de marzo de 1547) Proemio (1)
 
 Proemio y cánones sobre los sacramentos en general (D-843a a D-853).
 

@@ -71,7 +71,7 @@ Juan Pablo II expresa el esfuerzo por la reunificación según la oración de Cr
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
-**Pío XI** — Decreto del Santo Oficio (8 de julio de 1927, D‑2199): Respondió negativamente a si es lícito a los católicos asistir o favorecer las reuniones, asociaciones o congresos de acatólicos cuyo fin es unir a cuantos se llaman cristianos en una sola alianza religiosa. Este decreto se inscribe en el contexto de la encíclica *Mortalium animos* (1928), que rechazó el falso ecumenismo que iguala a todas las religiones o minimiza las diferencias doctrinales.
+**Pío XI** — Decreto del Santo Oficio (8 de julio de 1927, D‑2199): Respondió negativamente a si es lícito a los católicos asistir o favorecer las reuniones, asociaciones o congresos de acatólicos cuyo fin es unir a cuantos se llaman cristianos en una sola alianza religiosa. Este decreto se inscribe en el contexto de la encíclica *Mortalium ánimos* (1928), que rechazó el falso ecumenismo que iguala a todas las religiones o minimiza las diferencias doctrinales.
 
 ### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
 

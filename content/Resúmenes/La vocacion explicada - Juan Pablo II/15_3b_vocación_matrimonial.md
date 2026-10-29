@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "**3b) VOCACIÓN MATRIMONIAL**"
-fuente: La vocacion explicada - Juan Pablo II
+fuente: La vocación explicada - Juan Pablo II
 capítulo: 15
 timestamp: 2026-08-27
-description: "Resumen de '**3b) VOCACIÓN MATRIMONIAL**' — La vocacion explicada - Juan Pablo II"
+description: "Resumen de '**3b) VOCACIÓN MATRIMONIAL**' — La vocación explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
 

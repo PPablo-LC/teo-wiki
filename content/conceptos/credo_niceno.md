@@ -17,7 +17,7 @@ El Credo Niceno (o Símbolo Niceno) es la profesión de fe formulada por el Prim
 
 ## Desarrollo doctrinal
 
-El Concilio de Nicea (325) compuso su símbolo a partir del presentado por Eusebio de Cesarea (D-8). La forma original del Credo Niceno consta de la profesión en un solo Dios Padre omnipotente, en un solo Señor Jesucristo —con la definición del *homousios*—, y en el Espíritu Santo, concluyendo con anatemas contra los arrianos.
+El Concilio de Nicea (325) compuso su símbolo a partir del presentado por Eusebio de Cesárea (D-8). La forma original del Credo Niceno consta de la profesión en un solo Dios Padre omnipotente, en un solo Señor Jesucristo —con la definición del *homousios*—, y en el Espíritu Santo, concluyendo con anatemas contra los arrianos.
 
 El Denzinger conserva una «Exposición del Símbolo Niceno» en su forma más larga (D-13), propuesta en Oriente a algunos catecúmenos. Esta exposición desarrolla cada artículo: la generación eterna del Hijo de la sustancia del Padre, la encarnación con asunción del hombre perfecto (alma, cuerpo e inteligencia, excepto el pecado), la unidad de persona en Cristo, la pasión y resurrección, el Espíritu Santo que procede del Padre y recibe del Hijo, la Iglesia, el bautismo de penitencia, la resurrección de los muertos y el juicio final (D-14).
 
@@ -27,7 +27,7 @@ El Credo Niceno fue recibido universalmente en Oriente y Occidente como norma de
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
-El Denzinger recoge el texto del Credo Niceno según San Cirilo de Jerusalén (D-9) y su exposición más larga (D-13-14), así como la fórmula de Eusebio de Cesarea presentada a Nicea (D-8). Incluye también los cánones del Concilio de Nicea (D-54) y las reiteraciones posteriores del Símbolo en los concilios ecuménicos.
+El Denzinger recoge el texto del Credo Niceno según San Cirilo de Jerusalén (D-9) y su exposición más larga (D-13-14), así como la fórmula de Eusebio de Cesárea presentada a Nicea (D-8). Incluye también los cánones del Concilio de Nicea (D-54) y las reiteraciones posteriores del Símbolo en los concilios ecuménicos.
 
 ## Relaciones doctrinales
 

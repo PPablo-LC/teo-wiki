@@ -13,7 +13,7 @@ tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ## Conceptos básicos referenciados
 
 - [[cristología]] — el arco general del ciclo: las catequesis sobre la identidad de Jesucristo (partes CRISTOLOGÍA -I- a -VI-).
-- [[mesías]] — «JESUCRISTO: EL MESIAS PROMETIDO», parte CRISTOLOGÍA -I-.
+- [[mesías]] — «JESUCRISTO: EL MESÍAS PROMETIDO», parte CRISTOLOGÍA -I-.
 - [[filiación_divina]] — Jesucristo, Hijo de Dios, nos alcanza la filiación divina (CRISTOLOGÍA -II-).
 - [[espíritu_santo]] — «JESUCRISTO: UNGIDO POR EL ESPÍRITU SANTO», parte CRISTOLOGÍA -III-.
 - [[santísima_trinidad]] — Jesucristo revela la Trinidad (CRISTOLOGÍA -III-).
@@ -36,7 +36,7 @@ tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 
 ### CRISTOLOGÍA -I-
 
-**JESUCRISTO: EL MESIAS PROMETIDO**
+**JESUCRISTO: EL MESÍAS PROMETIDO**
 
 - **07-01-87** «Y vosotros, ¿quién decís que soy yo?» (Mt 16, 15).
 - **14-01-87** Jesús, «Hijo de Dios y Salvador del hombre»

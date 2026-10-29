@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Forma de la eucaristía
 tags: ["sacramental", "dogmática"]
 
-timestamp: 2026-06-15
+timestamp: 2026-10-28
 description: "La forma del sacramento de la [[eucaristía]] son las palabras de la consagración pronunciadas por el sacerdote _in persona Christi_."
 ---
 # Forma de la eucaristía
 
 > Área: Sacramental / Dogmática
-> Última actualización: 2026-06-15
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -23,19 +23,19 @@ La forma de la eucaristía difiere de la de otros sacramentos en que se pronunci
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica la cuestión 78 a la forma de la eucaristía.
+#### IIIª q.78 — La forma de este sacramento
 
-**La forma del sacramento (Q78 a.1):** Las palabras «Esto es mi Cuerpo» y «Este es el cáliz de mi sangre» son la forma de este sacramento. A diferencia de otros sacramentos, la forma de la eucaristía se pronuncia en nombre de Cristo, no del ministro, porque el sacerdote no hace más que proferir las palabras mientras Cristo obra la conversión.
+**a.1 — La forma son las palabras de la consagración:** Este sacramento difiere de los otros en que se realiza **consagrando** la materia, mientras los demás se realizan usando materia ya consagrada, y en que su consagración consiste en la transustanciación, no en una bendición. Por eso su forma no lleva consigo el uso de la materia —como «yo te bautizo»— ni se profiere en nombre del ministro, sino que significa la conversión misma: «esto es mi cuerpo», «éste es el cáliz de mi sangre». (SmTh IIIa q.78 a.1)
 
-**Adecuación de la forma del pan (Q78 a.2):** La expresión «Esto es mi Cuerpo» es adecuadísima porque: (a) significa la conversión como ya realizada, no en proceso; (b) el punto de partida (el pan) se indica con el pronombre demostrativo referido a los accidentes que permanecen; (c) el punto de llegada se indica con el sustantivo «cuerpo», que expresa la integridad de Cristo.
+**a.2 — Es adecuada la forma «éste es mi cuerpo»:** La forma debe significar lo que el sacramento hace, y aquí la conversión del pan en el cuerpo de Cristo, considerada como ya realizada —porque es instantánea, y en las mutaciones instantáneas el hacerse se identifica con el estar hecho—. Por eso se indican los extremos tal como están terminada la conversión: el término de llegada con la naturaleza propia de su sustancia («mi cuerpo») y el de partida solo con sus accidentes, que es lo que los sentidos alcanzan («esto»). (SmTh IIIa q.78 a.2)
 
-**Adecuación de la forma del vino (Q78 a.3):** Todas las palabras de la forma del vino pertenecen a la esencia de la forma. «Este es el cáliz de mi sangre» significa la conversión. «Del nuevo y eterno testamento» indica la herencia eterna. «Misterio de fe» indica que la presencia real solo se conoce por la fe. «Que será derramada por vosotros y por muchos para el perdón de los pecados» indica la eficacia remisiva de la pasión.
+**a.3 — Es adecuada la forma «éste es el cáliz de mi sangre»:** No basta la frase inicial, porque las palabras que siguen son determinaciones del predicado y pertenecen a la integridad de la forma; sí lo hasta «cada vez que hiciereis esto», que ya pertenece al uso. Las primeras palabras significan la conversión del vino en la sangre; las siguientes, el poder de la sangre derramada en la pasión, que se ejerce en este sacramento. (SmTh IIIa q.78 a.3)
 
-**Poder instrumental de las palabras (Q78 a.4):** Las palabras de la forma tienen un poder instrumental creado para realizar la transubstanciación, recibido del mandato de Cristo.
+**a.4 — Hay en las palabras un poder creado de consagrar:** Negar todo poder creado en las formas sacramentales contradice a los Padres y rebaja la dignidad de los sacramentos de la nueva ley. Como este sacramento es causa instrumental de la gracia, las palabras de la forma tienen una virtud instrumental por la que realizan la transustanciación, no por su propia naturaleza, sino por el poder de Cristo que las mueve. (SmTh IIIa q.78 a.4)
 
-**Verdad de las formas (Q78 a.5):** La proposición «Esto es mi Cuerpo» es verdadera porque el término «esto» se refiere a la sustancia contenida bajo las especies, que antes era pan y después de la consagración es el Cuerpo de Cristo. Las palabras no presuponen la cosa significada, sino que la realizan.
+**a.5 — Las formas son verdaderas:** El «esto» de la forma no es un mero pronombre sin fuerza efectiva —pues entonces las palabras no se aplicarían a la materia presente y no habría sacramento—, ni se refiere a lo significado por los sentidos —lo que daría solo una presencia en signo, que es herético—, ni al último instante de la locución —lo que reduciría la frase a «mi cuerpo es mi cuerpo»—. Es un demostrativo que muestra la sustancia presente bajo las especies, y la locución tiene **poder efectivo** de convertir, como la idea de la inteligencia práctica frente a la especulativa. (SmTh IIIa q.78 a.5)
 
-**Efecto inmediato de la forma del pan (Q78 a.6):** La forma de la consagración del pan produce su efecto inmediatamente, sin esperar a la consagración del vino. Por eso la Iglesia adora el Cuerpo de Cristo nada más pronunciadas las palabras sobre el pan.
+**a.6 — La forma del pan produce su efecto antes de la consagración del vino:** No se esperan mutuamente las dos formas. Como el verbo está en presente, la cosa significada debe ser simultánea con la significación misma; si se esperase, habría que decir «esto será mi cuerpo». La primera forma, por tanto, produce su efecto de inmediato. (SmTh IIIa q.78 a.6)
 
 ### Según el Catecismo (CEC)
 

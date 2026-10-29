@@ -37,7 +37,7 @@ El apostolado corresponde propiamente al Romano Pontífice y a los obispos, sus 
 
 ### Según UDE (1994)
 
-El Papa es Vicario de Cristo, signo de contradicción, misterio. «No tengáis miedo» como lema. La confesión de Pedro en Cesarea de Filipo. El Papa como *Servus servorum Dei*, *in persona Christi*, *christianus alter Christus*. La oración universal del Papa. [UDE, Cap. I, III]
+El Papa es Vicario de Cristo, signo de contradicción, misterio. «No tengáis miedo» como lema. La confesión de Pedro en Cesárea de Filipo. El Papa como *Servus servorum Dei*, *in persona Christi*, *christianus alter Christus*. La oración universal del Papa. [UDE, Cap. I, III]
 
 ## Distinciones importantes
 

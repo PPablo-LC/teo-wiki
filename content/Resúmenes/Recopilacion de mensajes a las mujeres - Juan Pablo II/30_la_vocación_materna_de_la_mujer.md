@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "La vocación materna de la mujer"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 30
 timestamp: 2026-08-31
-description: "Resumen de 'La vocación materna de la mujer' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'La vocación materna de la mujer' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

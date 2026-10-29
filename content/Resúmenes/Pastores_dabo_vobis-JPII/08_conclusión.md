@@ -10,7 +10,7 @@ tags: ["resumen", "pastores dabo vobis"]
 
 # CONCLUSIÓN
 
-## Conceptos basicos referenciados
+## Conceptos básicos referenciados
 
 - [[pastores_según_el_corazón_de_dios|pastores según su corazón]] — la promesa viva de Jer 3, 15
 - [[maría_madre_y_educadora_del_sacerdocio|María, madre y educadora de nuestro sacerdocio]] — oración conclusiva

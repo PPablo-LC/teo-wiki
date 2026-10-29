@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Apoyad la presencia de la madre en la familia"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 13
 timestamp: 2026-08-31
-description: "Resumen de 'Apoyad la presencia de la madre en la familia' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Apoyad la presencia de la madre en la familia' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

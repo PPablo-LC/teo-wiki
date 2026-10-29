@@ -1,7 +1,7 @@
 ---
 type: ResumenFuente
 title: "JUAN PABLO I, Audiencias"
-fuente: Juan Pablo I y Juan Pablo II - Las siete lamparas de la vida cristiana
+fuente: Juan Pablo I y Juan Pablo II - Las siete lámparas de la vida cristiana
 capítulo: 3
 timestamp: 2026-08-25
 description: "Resumen de las tres audiencias de Juan Pablo I (sept. 1978): la fe como rendirse a Dios, la esperanza que se agarra a tres verdades y la caridad explicada con la oración matutina"

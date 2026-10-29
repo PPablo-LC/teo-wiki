@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Parabola del hijo prodigo
-description: "Parabola de Jesucristo narrada en Lc 15,11-32, tambien llamada del «Padre misericordioso»."
+description: "Parabola de Jesucristo narrada en Lc 15,11-32, también llamada del «Padre misericordioso»."
 ---
 # Parabola del hijo prodigo
 
@@ -10,17 +10,17 @@ description: "Parabola de Jesucristo narrada en Lc 15,11-32, tambien llamada del
 
 ## Definición
 
-Parabola de Jesucristo narrada en Lc 15,11-32, tambien llamada del «Padre misericordioso». Relata la historia de un hijo que abandona la casa paterna, dilapida su herencia y, arrepentido, regresa al padre que lo acoge con amor y misericordia, celebrando un banquete de fiesta.
+Parabola de Jesucristo narrada en Lc 15,11-32, también llamada del «Padre misericordioso». Relata la historia de un hijo que abandona la casa paterna, dilapida su herencia y, arrepentido, regresa al padre que lo acoge con amor y misericordia, celebrando un banquete de fiesta.
 
 ## Desarrollo doctrinal
 
-La parabola del hijo prodigo es considerada la mas bella de las parabolas de la misericordia. Describe el proceso de la conversion: la fascinacion por una libertad ilusoria, el abandono de la casa paterna, la miseria extrema, la reflexion, el arrepentimiento, la decision de volver y la acogida generosa del padre. La parabola revela el amor misericordioso del Padre celestial, que respeta la libertad del hijo pero espera paciente su retorno y lo acoge sin condiciones. Es tambien una imagen del sacramento de la Penitencia y de la alegria del cielo por un pecador que se convierte.
+La parabola del hijo prodigo es considerada la mas bella de las parabolas de la misericordia. Describe el proceso de la conversion: la fascinación por una libertad ilusoria, el abandono de la casa paterna, la miseria extrema, la reflexion, el arrepentimiento, la decision de volver y la acogida generosa del padre. La parabola revela el amor misericordioso del Padre celestial, que respeta la libertad del hijo pero espera paciente su retorno y lo acoge sin condiciones. Es también una imagen del sacramento de la Penitencia y de la alegria del cielo por un pecador que se convierte.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo cita la parabola repetidamente como descripcion del proceso de conversion y penitencia (§1439), como modelo de la oracion de peticion de perdon (§2839) y como expresion de la dignidad humana que recurre a la misericordia del Padre (§1700). La parabola aparece tambien en relacion con el ministerio sacerdotal en la confesion (§1465).
+El Catecismo cita la parabola repetidamente como descripción del proceso de conversion y penitencia (§1439), como modelo de la oración de petición de perdón (§2839) y como expresión de la dignidad humana que recurre a la misericordia del Padre (§1700). La parabola aparece también en relación con el ministerio sacerdotal en la confesión (§1465).
 
 ### Según la Dives in Misericordia (DM)
 
@@ -38,10 +38,10 @@ La Vida de Jesús (VJ) dedica una extensa meditación a la parábola del hijo pr
 
 ### Según el análisis de conferencias para varones (notas)
 
-> **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
+> **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-- Adam Farber (justice.md) presenta la parabola como caso de estudio de la comunicacion divina: tres personajes, dos modos de hablar (descriptivo y directivo). La lectura retorica enriquece la comprension de la parabola en clave pedagogica.
-- Adam Farber (fortitude_through_excellence_in_patience.md) aplica la parabola a la virtud de la paciencia: el Padre que espera paciente, respeta el libre albedrio y sale al encuentro del hijo arrepentido.
+- Adam Farber (justice.md) presenta la parabola como caso de estudio de la comunicación divina: tres personajes, dos modos de hablar (descriptivo y directivo). La lectura retorica enriquece la comprensión de la parabola en clave pedagogica.
+- Adam Farber (fortitude_through_excellence_in_patience.md) aplica la parabola a la virtud de la paciencia: el Padre que espera paciente, respeta el libre albedrío y sale al encuentro del hijo arrepentido.
 
 ### Según Benedicto XVI (JdN_I)
 

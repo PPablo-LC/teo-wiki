@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Las mujeres, educadoras de paz social"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 7
 timestamp: 2026-08-31
-description: "Resumen de 'Las mujeres, educadoras de paz social' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Las mujeres, educadoras de paz social' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "SESION V 17 de junio de 1546 Decreto sobre el pecado origina"
+title: "SESIÓN V 17 de junio de 1546 Decreto sobre el pecado origina"
 fuente: denzinger_capitulos
 capítulo: 83
 timestamp: 2026-08-24
-description: "Resumen de 'SESION V 17 de junio de 1546 Decreto sobre el pecado origina' — denzinger_capitulos"
+description: "Resumen de 'SESIÓN V 17 de junio de 1546 Decreto sobre el pecado origina' — denzinger_capitulos"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# SESION V 17 de junio de 1546 Decreto sobre el pecado origina
+# SESIÓN V 17 de junio de 1546 Decreto sobre el pecado origina
 
 ## Conceptos básicos referenciados
 
@@ -24,7 +24,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## SESION V (17 de junio de 1546) Decreto sobre el pecado original (1)
+## SESIÓN V (17 de junio de 1546) Decreto sobre el pecado original (1)
 
 - D-787: El Concilio de Trento, queriendo limpiar los errores sobre el [[pecado_original]] y su remedio, sigue los testimonios de las Sagradas Escrituras, de los Santos Padres, de los más probados Concilios y el juicio de la Iglesia.
 
@@ -43,6 +43,6 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SESION V (17 de junio de 1546) Decreto sobre el pecado original (1)
+## SESIÓN V (17 de junio de 1546) Decreto sobre el pecado original (1)
 
 Decreto de Trento sobre el pecado original: su transmisión, su remedio por el bautismo y la remisión de su reato (D-787 a D-792).

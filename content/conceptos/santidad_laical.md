@@ -126,4 +126,4 @@ Desarrolla la virtualidad santificadora del bautismo y del
 - A. M. Sicari OCD, *Retratos de santos*, cap. «Juana Beretta Molla»
   (Editorial Encuentro, Madrid, 2009). Fuente raw:
   `raw/Bases_doctrinales-raw/Retratos de santos - Antonio Maria Sicari/16_juana_beretta_molla.md` (código RetS).
-- Pablo VI, *Angelus* del 23 de septiembre de 1973.
+- Pablo VI, *Ángelus* del 23 de septiembre de 1973.

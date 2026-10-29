@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "SIMBOLO APOSTOLICO 1"
+title: "SIMBOLO APOSTÓLICO 1"
 fuente: denzinger_capitulos
 capítulo: 2
 timestamp: 2026-08-24
@@ -8,7 +8,7 @@ description: "Resumen de las formas antiquísimas del Símbolo Apostólico"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# SIMBOLO APOSTOLICO 1
+# SIMBOLO APOSTÓLICO 1
 
 ## Conceptos básicos referenciados
 
@@ -39,6 +39,6 @@ Diversos autores y documentos presentan elementos de símbolo o regla de fe:
 
 ## Secciones incluidas
 
-## SIMBOLO APOSTOLICO (1)
+## SIMBOLO APOSTÓLICO (1)
 
 Sección que presenta las formas antiquísimas del [[símbolo_apostólico]], distinguiendo entre fórmulas acistológicas (sin la parte cristológica completa) y formas más desarrolladas. Incluye la enumeración exhaustiva de fuentes patrísticas y litúrgicas que atestiguan la existencia de una regla de fe común en la Iglesia primitiva, desde los escritos de los Padres Apostólicos hasta las liturgias hispánicas y galas del primer milenio.

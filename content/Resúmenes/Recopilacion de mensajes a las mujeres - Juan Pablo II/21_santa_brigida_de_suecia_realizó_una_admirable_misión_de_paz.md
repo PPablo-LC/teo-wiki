@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Santa Brigida de Suecia realizó una admirable misión de paz"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 21
 timestamp: 2026-08-31
-description: "Resumen de 'Santa Brigida de Suecia realizó una admirable misión de paz' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Santa Brigida de Suecia realizó una admirable misión de paz' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 
@@ -22,7 +22,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Santa Brigida de Suecia realizó una admirable misión de paz
 
-#### (Angelus 5-02-95)
+#### (Ángelus 5-02-95)
 
 En el Mensaje de este año para la Jornada Mundial de la Paz, el Papa reflexionó sobre el papel de la mujer como «educadora para la paz», señalando que la historia es rica en «admirables ejemplos de mujeres» que, sostenidas por la fe y el amor, han sabido afrontar con éxito difíciles situaciones de explotación, discriminación, violencia y guerra. En este domingo comienza el recuerdo de algunas figuras femeninas que se han distinguido por su obra de paz.
 

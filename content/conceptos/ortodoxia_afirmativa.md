@@ -5,7 +5,7 @@ description: "Enfoque evangelizador que presenta las enseñanzas católicas de f
 timestamp: 2026-08-22
 tags:
   - evangelización
-  - apologetica
+  - apologética
   - cultura
   - pastoral
 ---

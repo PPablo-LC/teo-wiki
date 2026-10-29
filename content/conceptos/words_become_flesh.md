@@ -14,7 +14,7 @@ tags:
 
 ## Definición
 
-**Words Become Flesh** es un ciclo de conferencias anual organizado por Word on Fire que celebra el *anno liturgico* — la Encarnación, el ministerio de Cristo, su muerte, Resurrección y Ascensión. El ciclo reúne teólogos, pastores y artistas para reflexionar sobre la Encarnación como fundamento de la vida, el ministerio y la misión de la Iglesia.
+**Words Become Flesh** es un ciclo de conferencias anual organizado por Word on Fire que celebra el *anno litúrgico* — la Encarnación, el ministerio de Cristo, su muerte, Resurrección y Ascensión. El ciclo reúne teólogos, pastores y artistas para reflexionar sobre la Encarnación como fundamento de la vida, el ministerio y la misión de la Iglesia.
 
 El nombre del ciclo alude al prólogo del Evangelio de Juan (1,14): «Y la Palabra se hizo carne y habitó entre nosotros». Esta expresión condensa el misterio central de la fe cristiana: el Dios eterno y trascendente entró en la historia humana asumiendo nuestra naturaleza.
 

@@ -30,8 +30,8 @@ El número combina ensayos teológicos, análisis cultural, entrevistas con conv
 
 | # | Sección | Autor | Tema principal |
 |---|---------|-------|----------------|
-| 1 | From the Desk of Bishop Robert Barron | Bishop Robert Barron | Los nuevos medios como el Areopago contemporáneo; cuatro pasos para el evangelizador digital |
-| 2 | A Word from the Institute | Jared Zimmerer | El Areopago digital; los «nones» como audiencia; Dave Rubin como modelo de cortesía |
+| 1 | From the Desk of Bishop Robert Barron | Bishop Robert Barron | Los nuevos medios como el Areópago contemporáneo; cuatro pasos para el evangelizador digital |
+| 2 | A Word from the Institute | Jared Zimmerer | El Areópago digital; los «nones» como audiencia; Dave Rubin como modelo de cortesía |
 | 3 | Midnight Oil | Tod Worner | Cuatro ensayos cortos: micro vs. macro-moralidad, la dignidad de los clásicos, la ley de las mareas espirituales, la complejidad humana |
 | 4 | The Patron Saint of the Internet | Matthew Becklo | San Isidoro de Sevilla como patrón de Internet; la Etymologiae como antecedente de Google |
 | 5 | Christ Sightings: A Triptych (poem) | Angela Alaimo O'Donnell | Poesía |
@@ -54,7 +54,7 @@ El número combina ensayos teológicos, análisis cultural, entrevistas con conv
 
 ## Temas teológicos destacados
 
-- **La nueva evangelización y los nuevos medios:** Internet como el Areopago del siglo XXI; los cristianos deben dominar los nuevos métodos evangelizadores.
+- **La nueva evangelización y los nuevos medios:** Internet como el Areópago del siglo XXI; los cristianos deben dominar los nuevos métodos evangelizadores.
 - **San Isidoro de Sevilla como patrón de Internet:** La *Etymologiae* como antecedente de la organización del conocimiento; el equilibrio entre contemplación y acción.
 - **Peligros de la era digital:** Adicción, dopamina, falta de conexión auténtica, cultura de la cancelación, pérdida de la verdad objetiva.
 - **Micro-moralidad vs. macro-moralidad:** El cristianismo enseña a transformar el mundo empezando por uno mismo; la reforma personal como fundamento.

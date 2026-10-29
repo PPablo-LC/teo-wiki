@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Beata Edith Stein, mártir de nuestro tiempo"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 24
 timestamp: 2026-08-31
-description: "Resumen de 'Beata Edith Stein, mártir de nuestro tiempo' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Beata Edith Stein, mártir de nuestro tiempo' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 
@@ -23,7 +23,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Beata Edith Stein, mártir de nuestro tiempo
 
-#### (Angelus 26-02-1995)
+#### (Ángelus 26-02-1995)
 
 Entre las mujeres que han servido a la causa de la paz, el Papa recuerda hoy a una mártir de nuestro siglo, a la que él mismo tuvo la alegría de elevar al honor de los altares en 1987: la carmelita [[beata_edith_stein]].
 

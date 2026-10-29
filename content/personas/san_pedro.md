@@ -17,7 +17,7 @@ San Pedro (Simon bar Jonás) fue el primero de los [[apóstoles]], constituido p
 
 ## Desarrollo doctrinal
 
-Pedro recibe el primado en tres momentos clave: la confesión de Cesarea (Mt 16,18-19: «Tú eres Pedro y sobre esta piedra edificaré mi Iglesia»), la institución de la [[sucesión_apostólica]] y el encargo de apacentar las ovejas (Jn 21,15-17). Su ministerio incluye la confirmación en la fe de los hermanos (Lc 22,32) y el gobierno de la Iglesia universal.
+Pedro recibe el primado en tres momentos clave: la confesión de Cesárea (Mt 16,18-19: «Tú eres Pedro y sobre esta piedra edificaré mi Iglesia»), la institución de la [[sucesión_apostólica]] y el encargo de apacentar las ovejas (Jn 21,15-17). Su ministerio incluye la confirmación en la fe de los hermanos (Lc 22,32) y el gobierno de la Iglesia universal.
 
 ## Perspectivas por fuente
 

@@ -70,7 +70,7 @@ Desprecio, volubilidad, ironía, indiferencia al hablar de moral y religión (te
 
 ¿Qué aprendieron? ¿Qué escuela? Grandes mujeres de la Historia no fueron indiferentes ni descreídas. Últimas palabras de Isabel la Católica: «No lloréis por mí... Rogad por la salvación de mi alma.» Versos de Blanco Belmonte: «En el mundo destrozado han de perdurar dos cosas: la cruz en que por nosotros feneció el Mártir del Gólgota y la voz de una plegaria rezada en lengua española.»
 
-Joven indiferente, sin fe... Imposible si naciste en España y mecieron cuna campanas del Angelus. A lo más: pobre muchacha que supone erróneamente que saber, progreso, emancipación = romper con tradición, pudor, decencia. Pero cuando nadie ve, suben a labios palabras de plegaria; en ratos amargos levanta corazón a Dios que trata de olvidar.
+Joven indiferente, sin fe... Imposible si naciste en España y mecieron cuna campanas del Ángelus. A lo más: pobre muchacha que supone erróneamente que saber, progreso, emancipación = romper con tradición, pudor, decencia. Pero cuando nadie ve, suben a labios palabras de plegaria; en ratos amargos levanta corazón a Dios que trata de olvidar.
 
 Mujeres incrédulas, escépticas: presentan a Cristo como mito, Evangelio como falsificación de sabiduría india. Pero ¿qué supone? Que la mujer, «en lo más íntimo de su ser, en el fondo mismo de su dignidad, se vuelve infiel a sí misma» (M. Schlutter Hermkes). No es cultura, ni saber, ni progreso quien arrancó creencias y alejó de Dios... Es **afán de placeres, roce de gentes sin moral, entrega al pecado impuro**. ¿Quién tiene valor para acercarse a lo divino si carne pesa tanto y voluntad es tan débil?
 

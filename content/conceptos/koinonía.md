@@ -28,7 +28,7 @@ Royo Marin trata extensamente la comunión de los santos como dogma que nos inco
 
 ### Según el análisis de conferencias para varones (notas)
 
-> **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
+> **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
 La nota sobre Jeff Lacour vincula la koinonía con la [[oración]] como experiencia relacional con Dios y con los hermanos, conectándola con la doctrina de la [[comunión_de_los_santos]].
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Circuncisión
 tags: ["sacramental", "historia_de_la_salvación"]
 
-timestamp: 2026-10-27
+timestamp: 2026-10-28
 description: "Rito de ablación del prepucio que en el AT constituye el signo físico de la pertenencia al pueblo de la alianza."
 ---
 # Circuncisión
 
 > Área: Sacramental / Historia de la Salvación
-> Última actualización: 2026-10-27
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -41,7 +41,13 @@ Jesús fue circuncidado (Lc 2,21), pero su Evangelio debía anunciarse a todas l
 
 #### IIIª q.70 — La circuncisión como preparación del bautismo
 
-La circuncisión fue preparación y figura del bautismo: era profesión de fe en el Cristo futuro, por la que los antiguos quedaban incorporados al pueblo de Dios (q.70 a.1). Fue instituida en tiempo de Abrahán, cuando la fe había disminuido y era necesario un signo de distinción (a.2). Se hacía en el miembro genital para significar la fe en el Cristo que había de nacer del semen de Abrahán, como remedio del pecado original que se transmite por generación y para mitigar la concupiscencia; se cumplía al octavo día por misterio de la resurrección y por la delicadeza del niño (a.3). Confería la gracia santificante por la fe en la pasión futura de Cristo —no por virtud propia como el bautismo—, borrando el pecado original y justificando, aunque sin imprimir carácter ni dar gracia tan abundante como el bautismo (a.4).
+**a.1 — Fue preparación y figura del bautismo:** Al bautismo se le llama «sacramento de la fe» porque en él se hace profesión de fe y el hombre queda congregado a la comunidad de los fieles. Nuestra fe y la de los antiguos padres es la misma —«creemos con el mismo espíritu de fe» (2 Cor 4,13)—, y la circuncisión era profesión de fe por la que los antiguos quedaban integrados en la comunidad de los fieles. Fue, pues, preparación del bautismo y figura suya. (SmTh IIIa q.70 a.1)
+
+**a.2 — Fue instituida convenientemente en tiempo de Abrahán:** La circuncisión era preparación para el bautismo en cuanto llevaba consigo la profesión de fe en Cristo. Abrahán fue el primero en recibir la promesa del futuro nacimiento de Cristo —«por tu descendencia se bendecirán todas las naciones de la tierra»— y el primero en apartarse del trato con los infieles —«sal de tu tierra y de tu patria»—; por eso convenía que fuese él quien primero la recibiera y la transmitiera a su descendencia, cuando la fe había disminuido y era necesario un signo de distinción. (SmTh IIIa q.70 a.2)
+
+**a.3 — El rito era conveniente:** Es un signo de fe instituido por Dios, «cuya sabiduría no tiene límites», y determinar los signos convenientes es obra de la sabiduría. Se realizaba en el miembro de la generación para significar la fe en el Cristo que había de nacer del semen de Abrahán, como remedio del pecado original, que se transmite por generación, y para mitigar la concupiscencia; y se cumplía al octavo día por misterio de la resurrección de Cristo y por la delicadeza del niño. (SmTh IIIa q.70 a.3)
+
+**a.4 — Confería la gracia santificante:** Todos admiten que perdonaba el pecado original, y la culpa solo se perdona por la gracia; también concedía a los niños alcanzar la gloria, que es el último efecto positivo de la gracia. Tomás expone y refuta sucesivamente las opiniones que le negaban la gracia, que se la atribuían solo para borrar la culpa, y —su propio parecer anterior— que la limitaban a hacer al hombre digno de la vida eterna sin reprimir la concupiscencia: «la más mínima gracia es capaz de resistir a cualquier concupiscencia». Concluye que transmitía la gracia con todos sus efectos, pero **de diverso modo que el bautismo**: este la confiere por su propia virtud, como instrumento de la pasión ya realizada; la circuncisión, como signo de la fe en la pasión futura —el adulto por sí mismo, los niños por otro—, de modo que fue «sello de la justicia de la fe» (Rom 4,11). (SmTh IIIa q.70 a.4)
 
 ## Distinciones importantes
 
@@ -60,4 +66,4 @@ La circuncisión fue preparación y figura del bautismo: era profesión de fe en
 ## Referencias
 
 - VocTeoBib, «Circuncisión»
-- SmTh IIIª q.37 a.1-4
+- SmTh IIIª q.37 a.1-4; q.70 a.1-4 (preparación y figura del bautismo)

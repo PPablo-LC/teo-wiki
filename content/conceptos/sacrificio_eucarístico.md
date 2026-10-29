@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacrificio eucarístico
 tags: ["sacramental", "dogmática"]
 
-timestamp: 2026-08-30
+timestamp: 2026-10-28
 description: "El sacrificio eucarístico es la actualización incruenta del único sacrificio de Cristo en la cruz, realizada en la Misa por el ministerio del sacerdote."
 ---
 # Sacrificio eucarístico
 
 > Área: Sacramental / Dogmática
-> Última actualización: 2026-08-30
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -39,13 +39,17 @@ La santa misa, «el centro de la vida cristiana y el culmen de la acción por la
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás desarrolla la dimensión sacrificial de la eucaristía en las cuestiones 79 y 83.
+#### IIIª q.79 — La eucaristía como sacrificio
 
-**Efectos del sacramento como sacrificio (Q79 a.5):** El sacrificio de la misa es propiciatorio por los pecados y satisface por las penas debidas al pecado. No es un nuevo sacrificio distinto del de la cruz, sino su aplicación sacramental. Produce la remisión de la culpa, aunque en diverso grado según la disposición del sujeto.
+**a.5 — Remite la pena debida al pecado en cuanto sacrificio:** La eucaristía es a la vez sacrificio y sacramento: como sacramento produce su efecto en quien la recibe, y como sacrificio en quien la ofrece o por quienes se ofrece. Por su propia virtud, como sacramento, fue instituida para alimentar, no para satisfacer; pero como esa unión se alcanza por la caridad, cuyo fervor obtiene la remisión no solo de la culpa sino también de la pena, de ahí que la remisión de la pena se siga como consecuencia. Considerada como sacrificio tiene además efecto **satisfactorio**, si bien en la satisfacción pesa más la disposición del oferente que la grandeza de lo ofrecido —la viuda que echó dos monedas echó más que todos—, por lo que, aunque la oblación baste de suyo para satisfacer toda la pena, se hace satisfactoria en la medida de la devoción de quienes la ofrecen o por quienes se ofrece. (SmTh IIIa q.79 a.5)
 
-**Sufragio por los difuntos (Q79 a.7):** El sacrificio de la misa aprovecha a los difuntos, no como sacramento (pues ellos ya no pueden recibirlo) sino como sacrificio de sufragio. Les aplica los frutos de la pasión de Cristo para alivio de sus penas en el purgatorio, en la medida en que Dios dispone según su justicia y misericordia.
+**a.7 — Aprovecha también a los difuntos:** La eucaristía no solo es sacramento, sino sacrificio: en cuanto representa la pasión, en la que Cristo se ofreció a sí mismo como víctima a Dios, tiene razón de sacrificio; en cuanto otorga la gracia invisible a través de especies visibles, tiene razón de sacramento. Por eso aprovecha como sacramento a quien lo recibe y como sacrificio a aquellos por quienes se ofrece: de ahí el sufragio por los difuntos, que pertenecen a la unidad del cuerpo místico. (SmTh IIIa q.79 a.7)
 
-**Inmolación de Cristo en la misa (Q83 a.1):** En la misa, Cristo es inmolado de modo incruento. Aunque murió una sola vez en la cruz, en cada misa se actualiza sacramentalmente su muerte. La inmolación consiste en la consagración separada del Cuerpo y de la Sangre, que representa la muerte del Señor.
+> Los artículos a.1–a.4, a.6 y a.8, sobre los efectos en quien comulga, se desglosan en [[sagrada_comunión]].
+
+#### IIIª q.83 a.1 — ¿Se inmola Cristo en la celebración de este sacramento?
+
+**a.1 — La celebración es inmolación de Cristo:** De dos maneras. Primera, porque las imágenes suelen llamarse con el nombre de las cosas que representan, y esta celebración es imagen representativa de la pasión. Segunda, por el vínculo con sus efectos, ya que por este sacramento nos hacemos partícipes de los frutos de la pasión —«siempre que se celebra la memoria de esta víctima, se consigue el fruto de nuestra redención»—. En el primer sentido Cristo se inmolaba también en las figuras del Antiguo Testamento; en el segundo, es propio de este sacramento. (SmTh IIIa q.83 a.1)
 
 ### Según God Is Near Us — Joseph Ratzinger (GINU)
 

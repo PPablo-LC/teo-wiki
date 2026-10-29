@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Servicio
-description: "El acto de ayudar o asistir al projimo por amor a Dios, considerado en la tradicion cristiana como expresion concreta de la caridad y participacion en la mision de Cristo."
+description: "El acto de ayudar o asistir al prójimo por amor a Dios, considerado en la tradición cristiana como expresión concreta de la caridad y participación en la misión de Cristo."
 ---
 # Servicio
 
@@ -10,21 +10,21 @@ description: "El acto de ayudar o asistir al projimo por amor a Dios, considerad
 
 ## Definición
 
-El acto de ayudar o asistir al projimo por amor a Dios, considerado en la tradicion cristiana como expresion concreta de la caridad y participacion en la mision de Cristo, que «no vino a ser servido sino a servir» (Mt 20,28).
+El acto de ayudar o asistir al prójimo por amor a Dios, considerado en la tradición cristiana como expresión concreta de la caridad y participación en la misión de Cristo, que «no vino a ser servido sino a servir» (Mt 20,28).
 
 ## Desarrollo doctrinal
 
-El servicio (diakonia) es una dimension esencial de la vida cristiana. Jesus lava los pies a sus discipulos como ejemplo de servicio humilde (Jn 13,1-17). El servicio cristiano no es mera filantropia sino expresion de la caridad sobrenatural. La tradicion distingue entre las obras de misericordia corporales y espirituales como formas concretas de servicio. El servicio es a la vez un don del Espiritu Santo (carisma de servicio) y un deber de todo cristiano. Implica humildad, desinteres y la disposicion a anteponer el bien del projimo al propio.
+El servicio (diakonia) es una dimension esencial de la vida cristiana. Jesus lava los pies a sus discípulos como ejemplo de servicio humilde (Jn 13,1-17). El servicio cristiano no es mera filantropia sino expresión de la caridad sobrenatural. La tradición distingue entre las obras de misericordia corporales y espirituales como formas concretas de servicio. El servicio es a la vez un don del Espíritu Santo (carisma de servicio) y un deber de todo cristiano. Implica humildad, desinterés y la disposición a anteponer el bien del prójimo al propio.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo ensena que Cristo asocia a los suyos a su servicio. Los laicos participan del triple oficio de Cristo: sacerdotal, profetico y real, ejerciendo el servicio real mediante el dominio de las pasiones y el servicio a los demas (§783, 898). La ensenanza social de la Iglesia desarrolla el principio del servicio al bien comun como base de la vida social.
+El Catecismo enseña que Cristo asocia a los suyos a su servicio. Los laicos participan del triple oficio de Cristo: sacerdotal, profetico y real, ejerciendo el servicio real mediante el dominio de las pasiones y el servicio a los demás (§783, 898). La enseñanza social de la Iglesia desarrolla el principio del servicio al bien común como base de la vida social.
 
 ### Según el análisis de conferencias para varones (notas)
 
-> **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
+> **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
 - John Wissler (leading_with_charity.md) desarrolla el servicio como «servicio de combate» y «servicio de apoyo», distinguiendo entre el servicio inmediato (al que se ve) y el servicio diferido (al que no se ve), en el contexto militar.
 - Christian Bobak (men_of_integrity.md) conecta el servicio con la integridad y el proposito eterno.

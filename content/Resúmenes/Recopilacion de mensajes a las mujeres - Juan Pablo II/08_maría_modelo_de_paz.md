@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "María, modelo de paz"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 8
 timestamp: 2026-08-31
-description: "Resumen de 'María, modelo de paz' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'María, modelo de paz' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

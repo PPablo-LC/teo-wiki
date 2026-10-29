@@ -25,7 +25,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## CONCILIO VATICANO, 1869-1870 XX ecuménico (sobre la fe y la Iglesia) SESION III (24 de abril de 1870)
+## CONCILIO VATICANO, 1869-1870 XX ecuménico (sobre la fe y la Iglesia) SESIÓN III (24 de abril de 1870)
 
 ## Constitución dogmática sobre la fe católica (1)
 
@@ -99,7 +99,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## CONCILIO VATICANO, 1869-1870 XX ecuménico (sobre la fe y la Iglesia) SESION III (24 de abril de 1870)
+## CONCILIO VATICANO, 1869-1870 XX ecuménico (sobre la fe y la Iglesia) SESIÓN III (24 de abril de 1870)
 
 # Constitución dogmática sobre la fe católica (1)
 

@@ -10,27 +10,27 @@ description: "Preceptos divinos promulgados por Dios a Moisés en el Sinai (Ex 2
 
 ## Definición
 
-Preceptos divinos promulgados por Dios a Moisés en el Sinai (Ex 20,1-17; Dt 5,6-21) que constituyen la ley moral fundamental del Antiguo y del Nuevo Testamento. Son diez mandamientos que expresan los deberes del hombre para con Dios y para con el projimo.
+Preceptos divinos promulgados por Dios a Moisés en el Sinai (Ex 20,1-17; Dt 5,6-21) que constituyen la ley moral fundamental del Antiguo y del Nuevo Testamento. Son diez mandamientos que expresan los deberes del hombre para con Dios y para con el prójimo.
 
 ## Desarrollo doctrinal
 
-Los Diez Mandamientos, también llamados Decálogo, son la expresión de la ley natural y divina. Jesucristo no los abolió sino que los perfeccionó, resumiéndolos en el doble mandamiento del amor a Dios y al projimo (Mt 22,37-40). La tradición católica los ha dividido tradicionalmente en dos tablas: los tres primeros relativos a Dios y los siete restantes relativos al projimo. Los mandamientos constituyen el camino seguro para la vida eterna y la base de la moral cristiana.
+Los Diez Mandamientos, también llamados Decálogo, son la expresión de la ley natural y divina. Jesucristo no los abolió sino que los perfeccionó, resumiéndolos en el doble mandamiento del amor a Dios y al prójimo (Mt 22,37-40). La tradición católica los ha dividido tradicionalmente en dos tablas: los tres primeros relativos a Dios y los siete restantes relativos al prójimo. Los mandamientos constituyen el camino seguro para la vida eterna y la base de la moral cristiana.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo dedica la segunda parte de la sección moral (tercera parte del CEC) a la exposicion detallada de cada uno de los Diez Mandamientos. Son presentados como camino de vida y luz para la conciencia (§2052-2557).
+El Catecismo dedica la segunda parte de la sección moral (tercera parte del CEC) a la exposición detallada de cada uno de los Diez Mandamientos. Son presentados como camino de vida y luz para la conciencia (§2052-2557).
 
 ### Según Royo Marin (TPCr)
 
-Royo Marin enseña que la perfeccion cristiana consiste esencialmente en el cumplimiento de los preceptos, especialmente el primer mandamiento del amor a Dios. La guarda de los mandamientos es condicion indispensable para la vida sobrenatural y la salvacion.
+Royo Marin enseña que la perfección cristiana consiste esencialmente en el cumplimiento de los preceptos, especialmente el primer mandamiento del amor a Dios. La guarda de los mandamientos es condición indispensable para la vida sobrenatural y la salvación.
 
 ### Según el análisis de conferencias para varones (notas)
 
-> **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
+> **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
-La conferencia de Kevin Mulaney (prudence_decisions.md) presenta los mandamientos como ejemplo de prudencia divina —Dios encontrando a un mundo caido y dandole ley— y los conecta con el [[gran_mandamiento]] del amor como respuesta apropiada a la realidad.
+La conferencia de Kevin Mulaney (prudence_decisions.md) presenta los mandamientos como ejemplo de prudencia divina —Dios encontrando a un mundo caído y dandole ley— y los conecta con el [[gran_mandamiento]] del amor como respuesta apropiada a la realidad.
 
 ### Según la Veritatis Splendor (VS)
 
@@ -38,9 +38,9 @@ La Veritatis Splendor (§12-14) enseña que Jesucristo confirma y propone los ma
 
 ## Distinciones importantes
 
-- Mandamientos divinos vs preceptos eclesiasticos
-- Decalogo vs ley natural
-- Obligacion bajo pecado mortal vs venial segun la materia
+- Mandamientos divinos vs preceptos eclesiásticos
+- Decálogo vs ley natural
+- Obligación bajo pecado mortal vs venial segun la materia
 
 ## Relaciones doctrinales
 

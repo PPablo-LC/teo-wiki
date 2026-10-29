@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Las mujeres y la educación para la paz"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 4
 timestamp: 2026-08-31
-description: "Resumen de 'Las mujeres y la educación para la paz' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Las mujeres y la educación para la paz' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

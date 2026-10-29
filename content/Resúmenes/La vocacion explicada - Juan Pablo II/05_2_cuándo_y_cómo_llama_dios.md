@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "**2. ¿CUÁNDO Y CÓMO LLAMA DIOS?**"
-fuente: La vocacion explicada - Juan Pablo II
+fuente: La vocación explicada - Juan Pablo II
 capítulo: 5
 timestamp: 2026-08-27
-description: "Resumen de '**2. ¿CUÁNDO Y CÓMO LLAMA DIOS?**' — La vocacion explicada - Juan Pablo II"
+description: "Resumen de '**2. ¿CUÁNDO Y CÓMO LLAMA DIOS?**' — La vocación explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
 

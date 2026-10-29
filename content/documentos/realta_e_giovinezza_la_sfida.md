@@ -137,7 +137,7 @@ afectividad.
 **«Una fede ragionevole»** (08): el **tiempo** como condición de
 maduración; la **fede** y la **razón** (*1Pt* 3,15); el **peccato
 originale** como división interior (Ovidio, *Rm* 7,24); la **memoria**;
-el **centuplo** (*Mt* 19,29); la **misión** y la **certeza de la verdad**.
+el **céntuplo** (*Mt* 19,29); la **misión** y la **certeza de la verdad**.
 
 **«La certezza di una presenza»** (09): la posición del hombre —la
 **idolatría**, el **poder**, el Hombre-Dios— frente a la del creyente; la

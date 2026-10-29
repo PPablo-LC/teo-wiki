@@ -25,7 +25,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## SESION XXV (3 y 4 de diciembre de 1563) Decreto sobre el purgatorio (1)
+## SESIÓN XXV (3 y 4 de diciembre de 1563) Decreto sobre el purgatorio (1)
 
 - D-983: La Iglesia Católica, apoyada en las Sagradas Letras y la tradición de los Padres, enseña que existe el [[purgatorio]] y que las almas allí detenidas son ayudadas por los sufragios de los fieles y por el sacrificio del altar. El Concilio manda que la sana doctrina sea predicada; ante el pueblo rudo exclúyanse las cuestiones difíciles, sutiles, inciertas o que tocan a curiosidad, superstición o torpe lucro.
 
@@ -66,7 +66,7 @@ Profesión tridentina de fe (1) [De la Bula de Pío IV Iniunctum nobis, de 13 de
 
 ## Secciones incluidas
 
-## SESION XXV (3 y 4 de diciembre de 1563) Decreto sobre el purgatorio (1)
+## SESIÓN XXV (3 y 4 de diciembre de 1563) Decreto sobre el purgatorio (1)
 
 Decreto sobre el purgatorio (D-983).
 

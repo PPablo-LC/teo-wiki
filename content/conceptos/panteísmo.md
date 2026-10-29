@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: "Panteísmo"
-description: "Reducción de la creación en la que las criaturas son partes indistintas del Ser. Giussani lo señala como una de las dos tentaciones de la mentalidad moderna, junto al nihilismo: «o nihilismo o panteismo»."
+description: "Reducción de la creación en la que las criaturas son partes indistintas del Ser. Giussani lo señala como una de las dos tentaciones de la mentalidad moderna, junto al nihilismo: «o nihilismo o panteísmo»."
 tags:
   - ontología
   - creación
@@ -17,7 +17,7 @@ timestamp: 2026-09-18
 
 ## Definición
 
-El **panteísmo** es la doctrina que identifica a Dios con el todo de la realidad: las criaturas serían partes indistintas del Ser, sin consistencia propia. Luigi Giussani lo señala como una de las **dos tentaciones de la mentalidad moderna** junto al nihilismo: «o nichilismo o panteismo» (DLV 04). Si el nihilismo reduce las cosas a nada, el panteísmo las disuelve en un único Ser: ambas niegan la **contingencia** de lo creado.
+El **panteísmo** es la doctrina que identifica a Dios con el todo de la realidad: las criaturas serían partes indistintas del Ser, sin consistencia propia. Luigi Giussani lo señala como una de las **dos tentaciones de la mentalidad moderna** junto al nihilismo: «o nichilismo o panteísmo» (DLV 04). Si el nihilismo reduce las cosas a nada, el panteísmo las disuelve en un único Ser: ambas niegan la **contingencia** de lo creado.
 
 ## Desarrollo doctrinal
 

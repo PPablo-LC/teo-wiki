@@ -28,7 +28,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## SESION XIV (25 de noviembre de 1551)
+## SESIÓN XIV (25 de noviembre de 1551)
 
 ## Doctrina sobre el sacramento de la penitencia (1)
 
@@ -101,7 +101,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SESION XIV (25 de noviembre de 1551)
+## SESIÓN XIV (25 de noviembre de 1551)
 
 Contexto de la sesión XIV de Trento.
 

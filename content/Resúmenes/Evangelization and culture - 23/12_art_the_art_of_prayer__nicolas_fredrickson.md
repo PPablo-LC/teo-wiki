@@ -18,7 +18,7 @@ tags: ["resumen", "evangelization and culture - 23"]
 
 Fredrickson explora la [[oración]] a través de cuatro obras de arte exquisitas, argumentando que el arte nos recuerda la belleza de la alabanza y la petición, y nos impulsa a orar sin cesar.
 
-### The Angelus — Jean-François Millet (1857–1859)
+### The Ángelus — Jean-François Millet (1857–1859)
 
 La pintura muestra dos campesinos deteniendo su trabajo para rezar el Ángelus, una oración que medita sobre la [[encarnación]] y se reza tres veces al día. Los análisis con rayos X revelaron que la cesta de papas del primer plano era originalmente un pequeño féretro, indicando la intención original de Millet de representar un funeral infantil; sin embargo, la obra tal como se ha recibido representa la piedad popular.
 

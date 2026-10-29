@@ -4,7 +4,7 @@ title: Plegaria Eucarística
 tags: ["liturgia", "sacramental"]
 
 timestamp: 2026-06-03
-description: "La Plegaria Eucarística (anafora, canon) es la oración central de la Misa, en la que, por las palabras de Cristo y la invocación del Espíritu Santo."
+description: "La Plegaria Eucarística (anáfora, canon) es la oración central de la Misa, en la que, por las palabras de Cristo y la invocación del Espíritu Santo."
 ---
 # Plegaria Eucarística
 
@@ -13,7 +13,7 @@ description: "La Plegaria Eucarística (anafora, canon) es la oración central d
 
 ## Definición
 
-La Plegaria Eucarística (anafora, canon) es la oración central de la Misa, en la que, por las palabras de Cristo y la invocación del Espíritu Santo, se realiza la transubstanciación del pan y el vino en el Cuerpo y Sangre de Cristo.
+La Plegaria Eucarística (anáfora, canon) es la oración central de la Misa, en la que, por las palabras de Cristo y la invocación del Espíritu Santo, se realiza la transubstanciación del pan y el vino en el Cuerpo y Sangre de Cristo.
 
 ## Desarrollo doctrinal
 
@@ -37,7 +37,7 @@ La Plegaria Eucarística está reservada al sacerdote que preside, en virtud de 
 
 - Canon Romano (Plegaria I) vs. Plegarias Eucarísticas II, III, IV
 - Plegarias para diversas circunstancias y para Misas con niños
-- En las Iglesias orientales, la anafora tiene gran variedad litúrgica
+- En las Iglesias orientales, la anáfora tiene gran variedad litúrgica
 
 ## Relaciones doctrinales
 

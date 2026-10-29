@@ -53,7 +53,7 @@ lleno y el hombre el que está vacío».
 5. **[[beata_laura_vicuña]]** (1891-1904): chilena refugiada en la
    frontera argentina; ofreció su vida por la conversión de su madre
    maltratada: «Hace dos años ofrecí a Jesús mi vida por ti, para que
-   tú vuelvas a Él»; murió al *Angelus*: «¡Gracias Jesús, gracias María!
+   tú vuelvas a Él»; murió al *Ángelus*: «¡Gracias Jesús, gracias María!
    Ahora muero contenta»; «*Laura virgen y mártir*», «¡y mártir por
    mí!» (la madre).
 6. **[[beato_francisco_marto]]** (1908-1919): pastorcito de Fátima; su

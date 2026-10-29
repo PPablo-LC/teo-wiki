@@ -1,14 +1,14 @@
 ---
 type: ResumenFuente
-title: "LAS SIETE LAMPARAS DE LA VIDA CRISTIANA"
-fuente: Juan Pablo I y Juan Pablo II - Las siete lamparas de la vida cristiana
+title: "LAS SIETE LÁMPARAS DE LA VIDA CRISTIANA"
+fuente: Juan Pablo I y Juan Pablo II - Las siete lámparas de la vida cristiana
 capítulo: 1
 timestamp: 2026-08-25
 description: "Resumen de la portada de la colección: audiencias generales de Juan Pablo I y Juan Pablo II sobre las siete lámparas de la santificación"
 tags: ["resumen", "las siete lámparas de la vida cristiana"]
 ---
 
-# LAS SIETE LAMPARAS DE LA VIDA CRISTIANA
+# LAS SIETE LÁMPARAS DE LA VIDA CRISTIANA
 
 ## Conceptos básicos referenciados
 

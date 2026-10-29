@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Santa María, ama de casa"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 26
 timestamp: 2026-08-31
-description: "Resumen de 'Santa María, ama de casa' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Santa María, ama de casa' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 
@@ -22,7 +22,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Santa María, ama de casa
 
-#### (Angelus 19-03-95)
+#### (Ángelus 19-03-95)
 
 El Papa realiza su meditación con ocasión de la fiesta de San José, y su pensamiento va al mundo del trabajo. Recuerda la casa de Nazaret, donde José y María se ayudaban recíprocamente en la dirección de su familia y en el cuidado del niño Jesús. José, como carpintero, era un artesano en el sentido más verdadero. María, que se ocupaba de los quehaceres domésticos, podría ser considerada hoy un ama de casa y, como tal, modelo de todas las mujeres que son verdaderas «artesanas de la casa».
 

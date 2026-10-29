@@ -26,7 +26,7 @@ La **ontología** es la parte de la filosofía que estudia el ser en cuanto ser.
 
 **La primera respuesta es ontológica.** Frente a la pregunta por Dios, la primera respuesta que da el cristianismo es del orden del ser: «Dio è tutto», todo el ser; fuera de Dios el nada (DLV 07). El problema de Dios es, antes que ético, un problema de **conocimiento**: «L'Essere si svela in quanto opera nel nostro presente» (DLV 09). La razón no es «medida» de la realidad sino el nivel de la creación donde el ser se hace consciente de sí.
 
-**Las dos tentaciones: nihilismo o panteísmo.** La mentalidad moderna mantiene unida a la ontología una disyuntiva falsa: «o nichilismo o panteismo» — o las cosas son nada, o son partes indistintas del Ser (DLV 04). Ambas niegan la **contingencia** de lo creado. Contra el nihilismo, Florenskij enseña que «chi vuole la Verità non può trovar pace nel semplice nichilismo» y que «se la ragione non partecipa all'essere, neanche l'essere partecipa alla ragione» (*Il cuore cherubico*, pp. 203-204): el acto de conocer no es solo gnoseológico sino **ontológico** (DLV 15). Contra el panteísmo, la creación es participación y la criatura es *domanda di essere*.
+**Las dos tentaciones: nihilismo o panteísmo.** La mentalidad moderna mantiene unida a la ontología una disyuntiva falsa: «o nichilismo o panteísmo» — o las cosas son nada, o son partes indistintas del Ser (DLV 04). Ambas niegan la **contingencia** de lo creado. Contra el nihilismo, Florenskij enseña que «chi vuole la Verità non può trovar pace nel semplice nichilismo» y que «se la ragione non partecipa all'essere, neanche l'essere partecipa alla ragione» (*Il cuore cherubico*, pp. 203-204): el acto de conocer no es solo gnoseológico sino **ontológico** (DLV 15). Contra el panteísmo, la creación es participación y la criatura es *domanda di essere*.
 
 **La libertad y el yo.** La libertad es «adeguazione all'Essere, adesione all'Essere» (DLV 04). El yo es relación con el infinito: «Io sono, come Colui che è» (cfr. Ex 3,14), el único verdadero misterio para la razón es «come mai ci sono io» (DLV 04). La libertad se realiza como reconocimiento de la propia origen en el Ser (DLV 14).
 
@@ -34,7 +34,7 @@ La **ontología** es la parte de la filosofía que estudia el ser en cuanto ser.
 
 ### Luigi Giussani — Dare la vita per l'opera di un Altro (DLV)
 
-- **La realtà non si fa da sé** — el principio: contingencia; Dios es el Ser; «Dio è tutto»; «o nichilismo o panteismo» (04, 3-57)
+- **La realtà non si fa da sé** — el principio: contingencia; Dios es el Ser; «Dio è tutto»; «o nichilismo o panteísmo» (04, 3-57)
 - **Prevalenza dell'etica sull'ontologia** — diagnóstico de la modernidad (01, 3-9; 08, 7)
 - **Primera respuesta ontológica** — «Dio è tutto», todo el ser; fuera de Dios el nada; tomar conciencia ética de la ontología; «che peccato!» (07, 3-15)
 - **Conocimiento y ser** — «L'Essere si svela in quanto opera nel nostro presente»; la fuerza estética precede a la ética (09, 3-11)

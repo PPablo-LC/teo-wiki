@@ -24,7 +24,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## SESION XXIV (11 de noviembre de 1563) Doctrina [sobre el sacramento del matrimonio] (1)
+## SESIÓN XXIV (11 de noviembre de 1563) Doctrina [sobre el sacramento del matrimonio] (1)
 
 - D-969: El perpetuo e indisoluble lazo del matrimonio fue proclamado por Adán («hueso de mis huesos y carne de mi carne», Gen 2,23s); Cristo lo confirmó: «ya no son dos, sino una sola carne» y «lo que Dios unió, el hombre no lo separe» (Mt 19,6). La gracia que perfecciona el amor natural, confirma la unidad indisoluble y santifica a los cónyuges la mereció Cristo por su pasión; el Apóstol: «sacramento grande, en Cristo y en la Iglesia» (Ef 5,32).
 - D-970: El matrimonio en la ley del Evangelio aventaja por la gracia de Cristo a las antiguas nupcias y debe ser contado entre los sacramentos de la Nueva Ley, según los Padres, los Concilios y la tradición. El Concilio decreta anatematismos contra las herejías y errores de los impíos.
@@ -47,7 +47,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SESION XXIV (11 de noviembre de 1563) Doctrina [sobre el sacramento del matrimonio] (1)
+## SESIÓN XXIV (11 de noviembre de 1563) Doctrina [sobre el sacramento del matrimonio] (1)
 
 Doctrina sobre el sacramento del matrimonio (D-969-970).
 

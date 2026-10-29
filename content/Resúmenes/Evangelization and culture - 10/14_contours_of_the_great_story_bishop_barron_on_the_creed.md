@@ -25,7 +25,7 @@ Entrevista de Tod Worner a Mons. Barron sobre su estudio del Credo.
 
 **Ireneo y el Dios que educa:** Israel imaginado como niño que madura; Dios habla según lo que sus hijos pueden manejar; por cada denuncia tronante del AT hay una misericordia tierna, y por cada ternura de Jesús hay fuego — el Dios del AT y del NT son uno.
 
-**Quién es Jesús antes que qué hace:** el Credo menciona ninguna enseñanza ni milagro, solo Crucifixión y Resurrección; pregunta de Cesarea de Filipo («¿quién dicen que soy yo?») como fundamento. «El extremo del abandono, los límites del desamparo divino» (Balthasar); Rutledge sobre el «no me avergüenza el Evangelio» de Pablo: un criminal crucificado frente a fundadores que mueren ancianos y triunfantes; bajó hasta lo más bajo para que hasta el más lejos pueda ser hallado; Él es «las Bienaventuranzas en persona».
+**Quién es Jesús antes que qué hace:** el Credo menciona ninguna enseñanza ni milagro, solo Crucifixión y Resurrección; pregunta de Cesárea de Filipo («¿quién dicen que soy yo?») como fundamento. «El extremo del abandono, los límites del desamparo divino» (Balthasar); Rutledge sobre el «no me avergüenza el Evangelio» de Pablo: un criminal crucificado frente a fundadores que mueren ancianos y triunfantes; bajó hasta lo más bajo para que hasta el más lejos pueda ser hallado; Él es «las Bienaventuranzas en persona».
 
 **La Resurrección subversiva:** corporal (N.T. Wright); «Tú lo mataste, Dios lo resucitó»: Dios más poderoso que César, pecado y muerte; la cruz como burla al mundo; desmitologizar es domesticar. La Iglesia católica es «la única rival seria del relativismo y la cultura de la auto-invención» porque porta este mensaje.
 

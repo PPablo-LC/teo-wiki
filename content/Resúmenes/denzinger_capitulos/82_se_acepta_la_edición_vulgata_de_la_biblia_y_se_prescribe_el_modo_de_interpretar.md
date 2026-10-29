@@ -23,7 +23,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## SESION IV (8 de abril de 1546) Aceptación de los Libros Sagrados y las tradiciones de los Apóstoles (1)
+## SESIÓN IV (8 de abril de 1546) Aceptación de los Libros Sagrados y las tradiciones de los Apóstoles (1)
 
 - D-783: El Concilio de Trento recibe y venera con igual afecto de piedad y reverencia todos los libros del Antiguo y del Nuevo Testamento, pues un solo Dios es autor de ambos, y también las [[tradición_apostólica|tradiciones]] no escritas que, recibidas de labios de Cristo o por inspiración del Espíritu Santo, han llegado por continua sucesión hasta nosotros. Adjunta un índice o [[canon_bíblico|canon]] de los libros sagrados.
 - D-784: Enumera los libros canónicos del Antiguo Testamento (los cinco de Moisés, Josué, Jueces, Rut, los cuatro de los Reyes, los dos de los Paralipómenos, los dos de Esdras, Tobías, Judit, Ester, Job, el Salterio de David de 150 salmos, las Parábolas, el Eclesiastés, el Cantar de los Cantares, la Sabiduría, el Eclesiástico, Isaías, Jeremías con Baruch, Ezequiel, Daniel, los doce Profetas menores y los dos de los Macabeos) y del Nuevo Testamento (los cuatro Evangelios, los Hechos, las catorce Epístolas de Pablo, las de Pedro, Juan, Santiago y Judas, y el Apocalipsis). Si alguno no recibiera como sagrados y canónicos los libros íntegros con todas sus partes y despreciara las tradiciones, sea anatema.
@@ -36,7 +36,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## SESION IV (8 de abril de 1546) Aceptación de los Libros Sagrados y las tradiciones de los Apóstoles (1)
+## SESIÓN IV (8 de abril de 1546) Aceptación de los Libros Sagrados y las tradiciones de los Apóstoles (1)
 
 Recepción de los libros sagrados y de las tradiciones apostólicas, con el canon de los libros (D-783-784).
 

@@ -33,7 +33,7 @@ Ex miembro de la NASA que llevó la Eucaristía al espacio. El primer amanecer e
 Así como una nave te lleva donde no podrías llegar caminando, la Iglesia te lleva a la presencia de Dios más rápida y segura.
 
 ### Las secoyas
-Arboles gigantes con raíces superficiales que se entrelazan con las de otros árboles; una secoya sola no sobrevive. Así la Iglesia: conectados sobrevivimos.
+Árboles gigantes con raíces superficiales que se entrelazan con las de otros árboles; una secoya sola no sobrevive. Así la Iglesia: conectados sobrevivimos.
 
 ## Comunidad: no puedes salvarte solo
 

@@ -46,7 +46,7 @@ dificultad de la razón herida para adherir al bien.
 La fe razonable no es una opinión entre otras: es la **certeza** que nace
 del encuentro con una presencia (ver [[certeza]], [[presencia_de_cristo]]).
 Su dinamismo es el de la [[verificación]]: la promesa de Dios (*Mt*
-19,29, el centuplo) se comprueba en la experiencia.
+19,29, el céntuplo) se comprueba en la experiencia.
 
 ## Perspectivas por fuente
 

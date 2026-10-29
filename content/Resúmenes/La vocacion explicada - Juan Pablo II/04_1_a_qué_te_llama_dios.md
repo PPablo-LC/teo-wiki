@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "**1. ¿A QUÉ TE LLAMA DIOS?**"
-fuente: La vocacion explicada - Juan Pablo II
+fuente: La vocación explicada - Juan Pablo II
 capítulo: 4
 timestamp: 2026-08-27
-description: "Resumen de '**1. ¿A QUÉ TE LLAMA DIOS?**' — La vocacion explicada - Juan Pablo II"
+description: "Resumen de '**1. ¿A QUÉ TE LLAMA DIOS?**' — La vocación explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
 

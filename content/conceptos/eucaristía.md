@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-10-13
+timestamp: 2026-10-28
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-10-13
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -214,20 +214,30 @@ León XIV predicó la Misa de Corpus Christi en la Plaza de Cibeles (Madrid) y l
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica al sacramento de la eucaristía un tratado completo que abarca las cuestiones 73 a 83 de la IIIa Pars. A continuación se presentan los contenidos de la cuestión 73 (naturaleza del sacramento). Las cuestiones siguientes (Q74–Q83) se desarrollan en los artículos especializados: [[materia_de_la_eucaristía]] (Q74), [[transubstanciación]] (Q75), [[presencia_real]] (Q75–Q76), [[especies_sacramentales]] (Q77), [[forma_de_la_eucaristía]] (Q78), [[sagrada_comunión]] (Q79–Q80), [[ministro_de_la_eucaristía]] (Q82) y [[misa]] (Q83).
+#### IIIª q.73 — El sacramento de la eucaristía
 
-**Naturaleza del sacramento (Q73 a.1):** La eucaristía es sacramento por dos razones: por significar la gracia que obra (unión con Cristo y entre los fieles) y porque opera lo que significa (la presencia real de Cristo).
+**a.1 — Es sacramento:** La vida espiritual guarda paralelo con la corporal, y así como para esta se requiere generación, crecimiento y alimento, para aquella se requirió el bautismo (generación), la confirmación (crecimiento) y la eucaristía, que es el alimento que conserva la vida. (SmTh IIIa q.73 a.1)
 
-**Unidad del sacramento (Q73 a.2):** La eucaristía es un solo sacramento, pues aunque se consagran dos especies, significan un solo cuerpo místico del cual Cristo es cabeza. El pan significa el cuerpo, el vino la unidad de la cabeza y los miembros.
+**a.2 — Es un solo sacramento, no varios:** La unidad se dice no solo de lo indivisible, sino también de lo perfecto y acabado, que posee íntegramente cuanto se requiere para su fin. Este sacramento contiene en su integridad todo lo necesario —el alimento espiritual y el sacrificio—, y por eso es uno. (SmTh IIIa q.73 a.2)
 
-**Necesidad del sacramento (Q73 a.3):** La eucaristía es necesaria _secundum aliquid_ (relativamente): como alimento espiritual para la vida del alma, aunque no con la necesidad absoluta del bautismo.
+**a.3 — Es indispensable para la salvación, pero como consumación:** Hay que distinguir el signo sacramental de la cosa significada. La cosa significada —la unidad del cuerpo místico, fuera de la cual no hay salvación— es indispensable, y puede obtenerse por el deseo antes de recibir el sacramento. La diferencia con el bautismo es doble: aquel incoa la vida espiritual y es puerta de los sacramentos; la eucaristía es su coronación y fin de todos ellos. Y como por el bautismo el hombre se ordena a la eucaristía, los niños bautizados la desean con la intención de la Iglesia y reciben su fruto. (SmTh IIIa q.73 a.3)
 
-**Nombre del sacramento (Q73 a.4):** Recibe varios nombres: «Eucaristía» (acción de gracias), «Sinaxis» (comunión), «Cena del Señor», «Sacrificio», «Comunión». Cada nombre expresa un aspecto del misterio.
+**a.4 — Es conveniente darle varios nombres:** Por su triple significado: respecto del pasado es **sacrificio**, conmemoración de la pasión; respecto del presente es **comunión** o **sinaxis**, porque por ella comulgamos con Cristo y entre nosotros; respecto del futuro es **viático** y **eucaristía** —buena gracia, porque la gracia es la vida eterna y porque contiene al lleno de gracia—. Se llama también **metalepsis**, asunción, porque por ella asumimos la divinidad del Hijo. (SmTh IIIa q.73 a.4)
 
-**Institución del sacramento (Q73 a.5):** Cristo instituyó la eucaristía en la Última Cena, antes de la pasión, para que quedase como memorial perpetuo de su muerte. El tiempo de la institución fue convenientísimo por ser la culminación de la antigua alianza y el comienzo de la nueva.
+**a.5 — Fue oportuna su institución en la cena:** Por tres razones: por su contenido, pues al ausentarse Cristo con su presencia natural se quedó con presencia sacramental, como se venera la imagen del emperador ausente; por la fe en la pasión, que siempre fue necesaria para la salvación, de modo que el cordero pascual quedó reemplazado por este sacramento conmemorativo; y porque las últimas palabras se graban más en la memoria, y «entre todos los sacrificios ninguno puede haber más importante que el del cuerpo y la sangre de Cristo». (SmTh IIIa q.73 a.5)
 
-**Prefiguraciones del Antiguo Testamento (Q73 a.6):** La eucaristía fue prefigurada por el sacrificio de Melquisedec (pan y vino), por el maná en el desierto, y por el pan de la proposición en el templo.
+**a.6 — El cordero pascual fue su principal figura:** Distinguiendo el *sacramentum tantum* (pan y vino), la *res et sacramentum* (el verdadero cuerpo de Cristo) y la *res tantum* (el efecto), la figura principal en cuanto al primero fue la oblación de Melquisedec, que ofreció pan y vino; en cuanto al segundo, los sacrificios del Antiguo Testamento; y el cordero pascual lo prefiguró en los tres aspectos: se comía con pan ácimo, se inmolaba el día catorce y su sangre libró de la servidumbre y del ángel exterminador. (SmTh IIIa q.73 a.6)
 
+
+#### IIIª q.81 — El uso que Cristo hizo de este sacramento
+
+**a.1 — Cristo asumió su cuerpo y su sangre:** No es plausible que los diera a los discípulos sin ingerirlos, porque Cristo fue el primero en cumplir lo que instituyó para que otros observasen, como quiso ser bautizado antes de imponer el bautismo. (SmTh IIIa q.81 a.1)
+
+**a.2 — Dio su cuerpo a Judas:** San Hilario lo negó, pero Cristo debía dar ejemplo de justicia: no se ajustaba a su magisterio separar de la comunión a un pecador oculto sin acusación ni pruebas, para no dar a los prelados ejemplo de exclusión temeraria. (SmTh IIIa q.81 a.2)
+
+**a.3 — No lo dio en estado impasible:** Era el mismo cuerpo que los discípulos veían en su estado natural, y no era impasible en él, pues estaba ya dispuesto para la pasión. Lo que se daba era impasible **bajo las especies sacramentales**, del mismo modo que se daba invisible siendo en sí visible. (SmTh IIIa q.81 a.3)
+
+**a.4 — Si se hubiera reservado el sacramento durante la muerte de Cristo:** El cuerpo es idéntico en la sustancia, pero no en el modo: en su naturaleza estaba en contacto con los cuerpos por sus propias dimensiones, lo que no ocurre en el sacramento. Por eso no habría estado muerto en él. (SmTh IIIa q.81 a.4)
 ### Según Don y Misterio (DyM)
 
 Juan Pablo II testimonia que la [[eucaristía]] es «el momento más importante y sagrado de la jornada y el centro de la vida» del sacerdote [DyM, VIII]. En la consagración, el sacerdote «actúa verdaderamente *in persona Christi*», renovando el sacrificio de Cristo con la fuerza del Espíritu Santo [DyM, VIII]. Tras la consagración, las palabras *Mysterium fidei* —«¡Misterio de la fe!»— se refieren a la Eucaristía, pero «en cierto modo, conciernen también al sacerdocio. No hay Eucaristía sin sacerdocio, como no hay sacerdocio sin Eucaristía» [DyM, VIII]. En la Eucaristía se consuma el [[admirabile_commercium]]: «Cristo devuelve al Padre todo lo que de Él proviene» [DyM, VIII]. Su primera Misa fue en la cripta de San Leonardo en Cracovia [DyM, IV].

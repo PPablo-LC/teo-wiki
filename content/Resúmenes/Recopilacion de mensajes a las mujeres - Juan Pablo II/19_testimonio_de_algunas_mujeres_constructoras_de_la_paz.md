@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "TESTIMONIO DE ALGUNAS MUJERES CONSTRUCTORAS DE LA PAZ"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 19
 timestamp: 2026-08-31
-description: "Resumen de 'TESTIMONIO DE ALGUNAS MUJERES CONSTRUCTORAS DE LA PAZ' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'TESTIMONIO DE ALGUNAS MUJERES CONSTRUCTORAS DE LA PAZ' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

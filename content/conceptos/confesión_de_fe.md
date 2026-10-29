@@ -17,7 +17,7 @@ La confesión de fe es el acto por el cual el creyente proclama públicamente su
 
 ## Desarrollo doctrinal
 
-La confesión de fe hunde sus raíces en el Nuevo Testamento, donde confesar a Jesús como «Señor» (Kyrios) y «Cristo» es el acto fundamental del cristiano (Rm 10,9; Flp 2,11; 1 Co 12,3). La confesión de Pedro en Cesarea de Filipo («Tú eres el Cristo, el Hijo de Dios vivo», Mt 16,16) es modelo de toda confesión de fe.
+La confesión de fe hunde sus raíces en el Nuevo Testamento, donde confesar a Jesús como «Señor» (Kyrios) y «Cristo» es el acto fundamental del cristiano (Rm 10,9; Flp 2,11; 1 Co 12,3). La confesión de Pedro en Cesárea de Filipo («Tú eres el Cristo, el Hijo de Dios vivo», Mt 16,16) es modelo de toda confesión de fe.
 
 Los primeros concilios (Nicea, Constantinopla) formularon los Símbolos de la fe como regla de fe para la Iglesia universal. La confesión de fe se realiza en el Bautismo (profesión de fe bautismal), en la liturgia (Credo de la Misa) y en momentos de persecución o testimonio (confesión martirial).
 

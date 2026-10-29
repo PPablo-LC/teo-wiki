@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Ordinatio sacerdotalis"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 41
 timestamp: 2026-08-31
-description: "Resumen de 'Ordinatio sacerdotalis' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Ordinatio sacerdotalis' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

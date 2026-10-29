@@ -12,7 +12,7 @@ tags: ["resumen", "allorigine della pretesa cristiana capitoli"]
 
 ## Conceptos básicos referenciados
 
-- [[confesión_de_pedro]] — Cesarea de Filippo: «Tú eres el Cristo, el Hijo del Dios viviente»
+- [[confesión_de_pedro]] — Cesárea de Filippo: «Tú eres el Cristo, el Hijo del Dios viviente»
 - [[divinidad_de_cristo]] — la explicitación final de la identidad de Gesù
 - [[preexistencia_del_verbo]] — «Prima che Abramo fosse, Io sono» (Gv 8,58)
 - [[proceso_de_jesús]] — la condena por blasfemia como documento de la pretesa
@@ -24,7 +24,7 @@ tags: ["resumen", "allorigine della pretesa cristiana capitoli"]
 
 El dinamismo es siempre el mismo: cuanto más se compartía a Gesù, tanto más se era inducidos a preguntarse «¿cómo puede ser así?». Corolario de la certeza moral: la naturaleza permite alcanzar la certeza sobre el comportamiento humano — precisamente porque es fundamental para la vida — a través de la intuición de la convergencia de tantos indicios hacia un punto. Cuanto más uno comparte la vida de una persona, tanto más multiplicados son los indicios (la bondad, la inteligencia, la capacidad introspectiva, el gobierno de las cosas, la naturalidad del milagro: indicios que «hacen quedar a boca abierta»).
 
-**Cesarea de Filippo** (Mt 16,13-19): «¿Quién dicen los hombres que soy yo?... Pero vosotros, ¿quién decís que yo soy?». Pietro, «al solito, suelta de impulso, repitiendo probablemente algo que había escuchado decir del mismo Gesù»: «**Tú eres el Cristo, el Hijo del Dios viviente**». Pietro había ya alcanzado la evidencia: «Si no puedo fiarme de este hombre, no puedo fiarme tampoco de mí mismo». Gesù, mirando la roca escarpada sobre la cual estaba construida la ciudadela: «Tú eres Pietro y sobre esta piedra edificaré mi Iglesia y las puertas del infierno no prevalecerán contra ella». Y lo había llamado ya «bienaventurado», porque aquella respuesta «no la había encontrada por sí solo, sino que su Padre se la había sugerido».
+**Cesárea de Filippo** (Mt 16,13-19): «¿Quién dicen los hombres que soy yo?... Pero vosotros, ¿quién decís que yo soy?». Pietro, «al solito, suelta de impulso, repitiendo probablemente algo que había escuchado decir del mismo Gesù»: «**Tú eres el Cristo, el Hijo del Dios viviente**». Pietro había ya alcanzado la evidencia: «Si no puedo fiarme de este hombre, no puedo fiarme tampoco de mí mismo». Gesù, mirando la roca escarpada sobre la cual estaba construida la ciudadela: «Tú eres Pietro y sobre esta piedra edificaré mi Iglesia y las puertas del infierno no prevalecerán contra ella». Y lo había llamado ya «bienaventurado», porque aquella respuesta «no la había encontrada por sí solo, sino que su Padre se la había sugerido».
 
 Gesù introduce la respuesta explícita con pasos introductivos («para no "apagar el pábilo que humea"»): se coloca como el motivo por el cual vale la pena jugarse la vida, se pone como fundante los rapporti que constituyen el corazón de la libertad, se atribuye gestos y prerrogativas reservados a Dios. **«Dio, infatti, tiende a valorizar la situación en la cual nuestra libertad se ha precedentemente puesto»** (Mt 13,12: «A quien tiene, será dado... pero a quien no tiene, será quitado también lo que tiene»). La prueba definitiva será para los amigos ocasión de un vínculo mayor, para los enemigos el pretexto último para eliminarlo.
 

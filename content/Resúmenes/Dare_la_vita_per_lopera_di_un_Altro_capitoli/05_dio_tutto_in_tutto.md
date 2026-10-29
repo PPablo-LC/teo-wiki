@@ -35,7 +35,7 @@ El tema de esta primera reflexión es el lema de san Pablo: «Dio è tutto in tu
 
 El Siracide ofrece una fórmula similar (Sir 42,15.21-22; 43,27): «Egli è tutto». Ante este Señor el yo humano tiene sed de Él, «ha sete di vita eterna» — como dice Jesús —; sin esta sed todo sería opaco o indigerible nulidad. «L'io ha sete di eternità, l'io è rapporto con l'Infinito», con una realidad más allá de todo límite. «Dio è tutto»: si Dios es el Ser, es todo en todo, y «tutto ciò che è, è fatto da Dio». La respuesta no es solución de preocupaciones éticas, es el descubrimiento de una ontología: la realidad como aparece en la experiencia, ¿cómo hace para existir y de qué está hecha? La realidad es hecha por Dios, «di» Dios: «L'Essere dal niente crea, cioè partecipa sé». Es la percepción de la [[contingencia]] de la realidad: **la realtà non si fa da sé**.
 
-### 2. Due tentazioni: nichilismo e panteismo
+### 2. Due tentazioni: nichilismo e panteísmo
 
 Pero si Dios es todo, ¿qué soy yo? ¿Qué son la persona a la que quiero, la patria, el dinero, los mares y las montañas, las flores y las estrellas? De la percepción vertiginosa de la apariencia efímera de las cosas se desarrolla, como cedimiento y negación mentirosa, la tentación de pensar que las cosas son ilusión y nada. O bien las cosas son nada ([[nihilismo]]), o bien son parte indistinta — y tú, entonces, también parte indistinta — del Ser, partes de Dios ([[panteísmo]]). Estas dos posiciones son hoy la respuesta última en que todos ceden.
 

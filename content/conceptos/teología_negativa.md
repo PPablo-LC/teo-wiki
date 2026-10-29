@@ -32,7 +32,7 @@ La tradición católica equilibra dos verdades: Dios se ha revelado con nombre p
 
 **Silentium tibi laus.** El místico «descansa» en la teología negativa: solo tras «todo modo afirmativo de expresión» puede sentarse «ante el Silencio que es, él mismo, la mejor alabanza de Dios a la sombra de la Fe». Final de «Words» de Gioia: «La luz del día no necesita alabanza, y así la alabamos siempre — mayores que nosotros y todas las palabras aéreas que invocamos»; a veces la poesía nos lleva hasta el umbral de este gran silencio.
 
-**Conocer por los efectos (Tomás).** El que se aproxima a una casa concluye que arde aunque nunca ve el fuego, sintiendo el calor creciente de porche a vestibulo a sala (*Expositio in symbolum apostolorum* 1.4): el buscador paciente recibe signos de Dios en sus efectos creados; «Nadie ve el rostro de Dios y vive».
+**Conocer por los efectos (Tomás).** El que se aproxima a una casa concluye que arde aunque nunca ve el fuego, sintiendo el calor creciente de porche a vestíbulo a sala (*Expositio in symbolum apostolorum* 1.4): el buscador paciente recibe signos de Dios en sus efectos creados; «Nadie ve el rostro de Dios y vive».
 
 ## Distinciones importantes
 

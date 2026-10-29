@@ -405,7 +405,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ##### Quiénes son los ángeles
 
-§329 San Agustín: Angelus officii nomen est, non naturae ("El nombre de ángel indica su oficio, no su naturaleza": es un espíritu; su oficio es ser ángel, mensajero). Con todo su ser, los ángeles son servidores y mensajeros de Dios.
+§329 San Agustín: Ángelus officii nomen est, non naturae ("El nombre de ángel indica su oficio, no su naturaleza": es un espíritu; su oficio es ser ángel, mensajero). Con todo su ser, los ángeles son servidores y mensajeros de Dios.
 
 §330 En tanto que criaturas puramente espirituales, tienen inteligencia y voluntad: son criaturas personales e inmortales. Superan en perfección a todas las criaturas visibles.
 

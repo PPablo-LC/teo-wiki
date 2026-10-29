@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Natividad
-description: "La Natividad es el nacimiento temporal de Jesucristo, Hijo de Dios, en cuanto hombre, de la Virgen Maria en Belen de Juda."
+description: "La Natividad es el nacimiento temporal de Jesucristo, Hijo de Dios, en cuanto hombre, de la Virgen Maria en Belén de Juda."
 timestamp: 2026-10-27
 ---
 # Natividad
@@ -9,31 +9,31 @@ timestamp: 2026-10-27
 > Area: Cristologia
 > Ultima actualizacion: 2026-10-27
 
-## Definicion
+## Definición
 
-La Natividad es el nacimiento temporal de Jesucristo, Hijo de Dios, en cuanto hombre, de la Virgen Maria en Belen de Juda. Es el acontecimiento por el cual el Verbo eterno, concebido por obra del Espiritu Santo en el seno virginal de Maria, sale al mundo como verdadero hombre, perfecto en gracia y verdad, para llevar a cabo la salvacion del genero humano.
+La Natividad es el nacimiento temporal de Jesucristo, Hijo de Dios, en cuanto hombre, de la Virgen Maria en Belén de Juda. Es el acontecimiento por el cual el Verbo eterno, concebido por obra del Espíritu Santo en el seno virginal de Maria, sale al mundo como verdadero hombre, perfecto en gracia y verdad, para llevar a cabo la salvación del genero humano.
 
 ## Desarrollo doctrinal
 
-La Natividad es el cumplimiento de las profecias mesianicas del Antiguo Testamento: el Hijo de David prometido nace en Belen, la ciudad de David (Miq 5,2). Cristo, siendo Dios desde la eternidad, nace temporalmente de Maria, permaneciendo Ella siempre virgen: antes del parto, en el parto y despues del parto.
+La Natividad es el cumplimiento de las profecias mesiánicas del Antiguo Testamento: el Hijo de David prometido nace en Belén, la ciudad de David (Miq 5,2). Cristo, siendo Dios desde la eternidad, nace temporalmente de Maria, permaneciendo Ella siempre virgen: antes del parto, en el parto y después del parto.
 
-El nacimiento de Cristo fue verdadero y natural en cuanto a la materia (nacio de mujer, al termino de nueve meses), pero milagroso en el modo: sin dolor para la madre, sin violacion de su integridad virginal, y con manifestaciones celestiales (angeles a los pastores, estrella a los Magos).
+El nacimiento de Cristo fue verdadero y natural en cuanto a la materia (nacio de mujer, al termino de nueve meses), pero milagroso en el modo: sin dolor para la madre, sin violación de su integridad virginal, y con manifestaciones celestiales (angeles a los pastores, estrella a los Magos).
 
-Cristo nacio perfecto en gracia, con uso de libre albedrio, capacidad de merecer y vision beatifica desde el primer instante de su concepcion. La manifestacion de su nacimiento fue progresiva: primero a los pastores (judios humildes), luego a los Magos (gentiles sabios), y finalmente a los justos en el Templo.
+Cristo nacio perfecto en gracia, con uso de libre albedrío, capacidad de merecer y vision beatifica desde el primer instante de su concepción. La manifestación de su nacimiento fue progresiva: primero a los pastores (judíos humildes), luego a los Magos (gentiles sabios), y finalmente a los justos en el Templo.
 
 ## Perspectivas por fuente
 
 ### Segun la Summa Theologiae (SmTh)
 
-#### IIIa q.34 — Perfeccion de la prole concebida
+#### IIIa q.34 — Perfección de la prole concebida
 
-**a.1 — Santificado por la gracia en el primer instante.** Cristo tuvo la plenitud de la gracia santificante desde el primer instante de su concepcion, porque la abundancia de la gracia se deriva de la union hipostatica. Fue hecho hombre santo simultaneamente: no de pecador a santo, sino de no-santo a santo en el mismo instante en que comenzo a ser hombre (q.34 a.1).
+**a.1 — Santificado por la gracia en el primer instante.** Cristo tuvo la plenitud de la gracia santificante desde el primer instante de su concepción, porque la abundancia de la gracia se deriva de la union hipostática. Fue hecho hombre santo simultaneamente: no de pecador a santo, sino de no-santo a santo en el mismo instante en que comenzo a ser hombre (q.34 a.1).
 
-**a.2 — Uso del libre albedrio desde el primer instante.** Cristo tuvo uso del libre albedrio en el primer instante de su concepcion porque poseyo la plenitud de gracia y de verdad. Su entendimiento podia entender incluso sin conversion a imagenes sensibles, y pudo elegir al instante, sin necesitar deliberacion previa (q.34 a.2).
+**a.2 — Uso del libre albedrío desde el primer instante.** Cristo tuvo uso del libre albedrío en el primer instante de su concepción porque poseyo la plenitud de gracia y de verdad. Su entendimiento podia entender incluso sin conversion a imagenes sensibles, y pudo elegir al instante, sin necesitar deliberación previa (q.34 a.2).
 
-**a.3 — Merecio desde el primer instante.** Cristo se santifico a si mismo por un movimiento de su libre albedrio hacia Dios, y tal movimiento fue meritorio. Su santificacion fue mas perfecta que la de los ninos (santificados por otros) y que la de los adultos (santificados por actos sucesivos). La gloria que merecio en el primer instante pudo merecerla tambien por actos y padecimientos posteriores (q.34 a.3).
+**a.3 — Merecio desde el primer instante.** Cristo se santifico a si mismo por un movimiento de su libre albedrío hacia Dios, y tal movimiento fue meritorio. Su santificación fue mas perfecta que la de los niños (santificados por otros) y que la de los adultos (santificados por actos sucesivos). La gloria que merecio en el primer instante pudo merecerla también por actos y padecimientos posteriores (q.34 a.3).
 
-**a.4 — Comprehensor perfecto en el primer instante.** Cristo vio a Dios por esencia desde el primer instante de su concepcion, con mayor claridad que todas las criaturas. Era simultaneamente viador (por su condicion pasible que habria de padecer) y comprehensor (por la vision beatifica del alma). No merecio la gloria del alma (que ya poseia), sino la gloria del cuerpo, a la que llego por medio de su pasion (q.34 a.4).
+**a.4 — Comprehensor perfecto en el primer instante.** Cristo vio a Dios por esencia desde el primer instante de su concepción, con mayor claridad que todas las criaturas. Era simultaneamente viador (por su condición pasible que habria de padecer) y comprehensor (por la vision beatifica del alma). No merecio la gloria del alma (que ya poseia), sino la gloria del cuerpo, a la que llego por medio de su pasión (q.34 a.4).
 
 #### IIIa q.35 — Nacimiento de Cristo
 
@@ -41,17 +41,17 @@ Cristo nacio perfecto en gracia, con uso de libre albedrio, capacidad de merecer
 
 **a.2 — Dos nacimientos en Cristo.** Cristo tiene dos nacimientos: uno eterno del Padre (segun la naturaleza divina) y otro temporal de la madre (segun la naturaleza humana). No se trata de dos hijos, sino de un solo Hijo con dos nacimientos. El nacimiento eterno no es un cambio ni un movimiento; el temporal si lo es (q.35 a.2).
 
-**a.3 — La Virgen es verdadera madre de Cristo.** Maria es verdadera y natural madre de Cristo porque el cuerpo de Cristo fue tomado de su purisima sangre, que es suficiente para la nocion de madre en la generacion de los vivientes. El nacimiento fue natural por parte de la madre, aunque milagroso por parte de la operacion del Espiritu Santo (q.35 a.3).
+**a.3 — La Virgen es verdadera madre de Cristo.** Maria es verdadera y natural madre de Cristo porque el cuerpo de Cristo fue tomado de su purísima sangre, que es suficiente para la noción de madre en la generación de los vivientes. El nacimiento fue natural por parte de la madre, aunque milagroso por parte de la operación del Espíritu Santo (q.35 a.3).
 
-**a.4 — Maria es Madre de Dios (Theotokos).** La Santisima Virgen es llamada con toda verdad Madre de Dios, porque la persona que concibio y dio a luz es la persona divina del Verbo encarnado. Negarlo es herejia nestoriana, condenada en el Concilio de Efeso. Es Madre de Dios no porque sea madre de la divinidad, sino porque, segun la humanidad, es madre de la persona que tiene la divinidad y la humanidad (q.35 a.4).
+**a.4 — Maria es Madre de Dios (Theotokos).** La Santísima Virgen es llamada con toda verdad Madre de Dios, porque la persona que concibio y dio a luz es la persona divina del Verbo encarnado. Negarlo es herejía nestoriana, condenada en el Concilio de Efeso. Es Madre de Dios no porque sea madre de la divinidad, sino porque, segun la humanidad, es madre de la persona que tiene la divinidad y la humanidad (q.35 a.4).
 
-**a.5 — Una sola filiacion real en Cristo.** Cristo tiene una sola filiacion real (la eterna hacia el Padre), aunque hay en El una relacion temporal hacia la madre que es real por parte de ella. La filiacion temporal no puede ser una relacion real en la Persona eterna, sino solo mental. Sin embargo, Cristo se llama realmente hijo de la Virgen madre en virtud de la relacion real de la maternidad respecto de Cristo (q.35 a.5).
+**a.5 — Una sola filiación real en Cristo.** Cristo tiene una sola filiación real (la eterna hacia el Padre), aunque hay en El una relación temporal hacia la madre que es real por parte de ella. La filiación temporal no puede ser una relación real en la Persona eterna, sino solo mental. Sin embargo, Cristo se llama realmente hijo de la Virgen madre en virtud de la relación real de la maternidad respecto de Cristo (q.35 a.5).
 
-**a.6 — Nacimiento sin dolor para Maria.** Cristo salio del seno materno cerrado, sin apertura de las vias, por lo que no hubo dolor en el parto. El dolor del parto es consecuencia de la union carnal con el varon, de la cual Maria estuvo exenta. No hubo parteras; la propia madre envolvio al Nino en panales (q.35 a.6).
+**a.6 — Nacimiento sin dolor para Maria.** Cristo salio del seno materno cerrado, sin apertura de las vias, por lo que no hubo dolor en el parto. El dolor del parto es consecuencia de la union carnal con el varón, de la cual Maria estuvo exenta. No hubo parteras; la propia madre envolvio al Nino en panales (q.35 a.6).
 
-**a.7 — Nacimiento en Belen.** Cristo quiso nacer en Belen para demostrar el cumplimiento de la promesa hecha a David (que nacio alli) y porque Belen significa «casa de pan», figura de Cristo como Pan vivo bajado del cielo. Escogio una patria pobre para confundir la vanidad humana (q.35 a.7).
+**a.7 — Nacimiento en Belén.** Cristo quiso nacer en Belén para demostrar el cumplimiento de la promesa hecha a David (que nacio allí) y porque Belén significa «casa de pan», figura de Cristo como Pan vivo bajado del cielo. Escogio una patria pobre para confundir la vanidad humana (q.35 a.7).
 
-**a.8 — Tiempo oportuno.** Cristo nacio en la plenitud de los tiempos: cuando el mundo entero estaba bajo un solo imperio (paz universal), sujeto a un rey extranjero (cumplimiento de la profecia de Jacob en Gen 49,10), y cuando la luz del dia comenzaba a crecer (simbolo de la luz de Cristo). Escogio tambien la crudeza del invierno para sufrir por nosotros las penalidades corporales desde entonces (q.35 a.8).
+**a.8 — Tiempo oportuno.** Cristo nacio en la plenitud de los tiempos: cuando el mundo entero estaba bajo un solo imperio (paz universal), sujeto a un rey extranjero (cumplimiento de la profecia de Jacob en Gen 49,10), y cuando la luz del dia comenzaba a crecer (simbolo de la luz de Cristo). Escogio también la crudeza del invierno para sufrir por nosotros las penalidades corporales desde entonces (q.35 a.8).
 
 #### IIIa q.36 — Manifestación del nacimiento
 
@@ -59,7 +59,7 @@ El desglose artículo por artículo de la cuestión 36 (a quiénes y cómo fue m
 
 ### Segun el Catecismo (CEC)
 
-El Catecismo trata la Natividad en el contexto del misterio de la Encarnacion (CEC §525-526). Jesus nace en la humildad de un establo, de una familia pobre; los pastores son los primeros testigos del acontecimiento. La Epifania es la manifestacion de Jesus como Mesias de Israel, Hijo de Dios y Salvador del mundo, celebrada con la adoracion de los Magos venidos de Oriente (CEC §528). La estrella de los Magos manifiesta que Cristo ha venido para los gentiles (CEC §437, §528).
+El Catecismo trata la Natividad en el contexto del misterio de la Encarnación (CEC §525-526). Jesus nace en la humildad de un establo, de una familia pobre; los pastores son los primeros testigos del acontecimiento. La Epifania es la manifestación de Jesus como Mesías de Israel, Hijo de Dios y Salvador del mundo, celebrada con la adoración de los Magos venidos de Oriente (CEC §528). La estrella de los Magos manifiesta que Cristo ha venido para los gentiles (CEC §437, §528).
 
 ### Según la Vida de Jesús (VJ)
 
@@ -85,16 +85,16 @@ Benedicto XVI profundiza en el nacimiento de Jesús en Belén desde los relatos 
 
 ## Distinciones importantes
 
-- **Nacimiento eterno vs. nacimiento temporal**: Cristo, como Verbo, nace eternamente del Padre sin principio ni fin; como hombre, nace temporalmente de Maria en un momento historico determinado.
-- **Filiacion eterna vs. filiacion temporal**: La filiacion eterna respecto del Padre es real; la filiacion temporal respecto de la madre es real por parte de ella, pero solo una relacion de razon en Cristo en cuanto Persona divina.
-- **Viador y comprehensor**: Cristo fue simultaneamente viador (sujeto al sufrimiento y a la muerte) y comprehensor (poseedor de la vision beatifica) desde el primer instante de su concepcion.
-- **Parto virginal**: Cristo nacio sin dolor y sin violacion de la integridad virginal de Maria (virgen antes del parto, en el parto y despues del parto).
+- **Nacimiento eterno vs. nacimiento temporal**: Cristo, como Verbo, nace eternamente del Padre sin principio ni fin; como hombre, nace temporalmente de Maria en un momento histórico determinado.
+- **Filiación eterna vs. filiación temporal**: La filiación eterna respecto del Padre es real; la filiación temporal respecto de la madre es real por parte de ella, pero solo una relación de razón en Cristo en cuanto Persona divina.
+- **Viador y comprehensor**: Cristo fue simultaneamente viador (sujeto al sufrimiento y a la muerte) y comprehensor (poseedor de la vision beatifica) desde el primer instante de su concepción.
+- **Parto virginal**: Cristo nacio sin dolor y sin violación de la integridad virginal de Maria (virgen antes del parto, en el parto y después del parto).
 
 ## Relaciones doctrinales
 
-La Natividad presupone la [[encarnación]] y la [[concepción_virginal]], y manifiesta la [[maternidad_divina]] de Maria. Se relaciona con la [[redención]] (Cristo nace para morir por nuestros pecados) y con la [[gracia_cristica]] (nace perfecto en gracia). La adoracion de los Magos prefigura la vocacion de los gentiles a la fe.
+La Natividad presupone la [[encarnación]] y la [[concepción_virginal]], y manifiesta la [[maternidad_divina]] de Maria. Se relaciona con la [[redención]] (Cristo nace para morir por nuestros pecados) y con la [[gracia_cristica]] (nace perfecto en gracia). La adoración de los Magos prefigura la vocación de los gentiles a la fe.
 
-## Ver tambien
+## Ver también
 
 [[encarnación]], [[concepción_virginal]], [[maternidad_divina]], [[virgen_maría]], [[redención]], [[jesucristo]], [[epifanía]]
 

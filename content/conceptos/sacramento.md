@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacramento
 tags: ["sacramental"]
 
-timestamp: 2026-06-14
+timestamp: 2026-10-28
 description: "El sacramento es un signo sensible instituido por Nuestro Señor Jesucristo para significar y producir la gracia santificante en el alma."
 ---
 # Sacramento
 
 > Área: Sacramental
-> Última actualización: 2026-06-14
+> Última actualización: 2026-10-28
 
 ## Definición
 
@@ -23,15 +23,33 @@ El CIC regula los sacramentos en los cánones 840-848 como principios generales.
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica la cuestión 60 de la IIIa Pars al estudio de qué es un sacramento. Define el sacramento como un signo de una realidad sagrada que santifica a los hombres (III, q.60 a.2). Pertenece al género de los signos, y como signo sagrado significa la causa de nuestra santificación (la pasión de Cristo), su forma (la gracia y las virtudes) y su fin último (la vida eterna). Es, por tanto, signo conmemorativo de la pasión de Cristo, manifestativo de la gracia y profético de la gloria futura (III, q.60 a.3).
+#### IIIª q.60 — Qué es un sacramento
 
-El sacramento requiere necesariamente cosas sensibles, porque es connatural al hombre llegar al conocimiento de las realidades inteligibles a través de las sensibles (III, q.60 a.4). Las cosas sensibles utilizadas en los sacramentos son determinadas por institución divina, no por elección humana, ya que la santificación depende de Dios (III, q.60 a.5).
+**a.1 — El sacramento pertenece a la categoría de signo:** «Sacramento» se dice de varias cosas por relación a una misma santidad: como el «secreto sagrado» que la contiene, o como lo que se ordena a ella por causalidad, por significación o de cualquier otro modo. Tomás considera aquí los sacramentos en cuanto signo, y en ese sentido entran en la categoría de signo. El nombre se toma de modo **analógico**, no equívoco: el juramento y los secretos del rey también se dicen «sacramentos» por su relación con lo sagrado, pero no en el sentido que aquí interesa. (SmTh IIIa q.60 a.1)
 
-Las palabras se requieren en los sacramentos por tres razones: por la semejanza con el Verbo encarnado (palabra unida al elemento sensible), por la naturaleza del hombre compuesto de alma y cuerpo, y porque las palabras determinan la significación de las cosas sensibles (III, q.60 a.6). Las palabras son como la forma, y las cosas sensibles como la materia del sacramento (III, q.60 a.7).
+**a.2 — No todo signo de una realidad sagrada es sacramento:** Las creaturas sensibles significan lo sagrado en sí mismo, pero no como medios de santificación para nosotros; del Antiguo Testamento, solo las cosas que significaban la santidad de Cristo **como causa de nuestra santificación** (la inmolación del cordero pascual) son propiamente sacramentos. Las disposiciones para la santidad tampoco lo son, porque «las cosas toman el nombre de su fin y de su complemento». Propiamente, pues, es sacramento el signo de una realidad sagrada **que santifica a los hombres**. (SmTh IIIa q.60 a.2)
 
-Sobre la necesidad de los sacramentos (III, q.61 a.1), Santo Tomás enseña que son necesarios para la salvación por tres razones: por la condición del hombre, que se dirige a lo espiritual a través de lo corporal; por el estado del hombre caído, que necesita medicina corporal para el alma; y para ejercitarse en actividades materiales que eviten la superstición. Los sacramentos obran en virtud de la pasión de Cristo, que es la causa suficiente de la salvación (III, q.61 a.1 ad 3).
+**a.3 — El sacramento significa tres cosas, no una sola:** Significa la causa de nuestra santificación (la pasión de Cristo), su forma (la gracia y las virtudes) y su fin último (la vida eterna). Por eso es signo **conmemorativo** del pasado, **manifestativo** del efecto presente y **profético** de la gloria futura. Significar varias cosas no lo hace ambiguo, porque entre ellas hay orden, como en la palabra «hombre» el alma y el cuerpo se refieren a una sola naturaleza. (SmTh IIIa q.60 a.3)
 
-Antes del pecado original no eran necesarios los sacramentos (III, q.61 a.2). Después del pecado y antes de Cristo fueron necesarios como signos de fe en el Salvador futuro (III, q.61 a.3). Después de Cristo son necesarios como signos de la gracia ya presente (III, q.61 a.4).
+**a.4 — El sacramento requiere una cosa sensible:** Es connatural al hombre llegar a lo inteligible a través de lo sensible, y «la sabiduría divina provee a cada cosa según su propia naturaleza». Los efectos inteligibles solo tienen valor de signo en cuanto son manifestados por signos sensibles. Las cosas sensibles, además, no pertenecen al culto de Dios en cuanto materiales, sino en cuanto signos de las cosas espirituales. (SmTh IIIa q.60 a.4)
+
+**a.5 — Las cosas sensibles del sacramento son determinadas por institución divina:** Nadie puede determinar lo que depende de la potestad de otro, y la santificación del hombre depende de la potestad de Dios. Del mismo modo que el Espíritu Santo determina qué metáforas se emplean en la Escritura, así las cosas que han de emplearse en cada sacramento deben ser determinadas por Dios. Bajo la ley natural el instinto interior las determinaba; tras el oscurecimiento de la ley natural fue necesaria una determinación externa, que no coarta la salvación porque se trata de cosas de uso común o de fácil adquisición. (SmTh IIIa q.60 a.5)
+
+**a.6 — Se requieren las palabras en la significación sacramental:** Por tres razones: (1) por semejanza con el Verbo encarnado, pues en el sacramento la palabra se une a una cosa sensible como en la Encarnación la Palabra se unió a la carne; (2) por el hombre, compuesto de alma y cuerpo: por el elemento toca el cuerpo y por la palabra penetra en el alma a través de la fe —«¿de dónde le viene al agua tan gran virtud que, tocando el cuerpo, limpie el corazón, si no es por la palabra?»—; (3) por la misma significación, ya que «el primado de significación entre los hombres lo tienen las palabras», que determinan si el agua significa ablución o refrigerio. (SmTh IIIa q.60 a.6)
+
+**a.7 — Las palabras del sacramento deben ser determinadas:** En los sacramentos las palabras son como la forma y las cosas sensibles como la materia; en todo compuesto la determinación viene de la forma, y por eso se requiere con mayor razón una forma verbal determinada. La corrupción que **destruye el sentido** invalida el sacramento (decir *in nomine matris* por *in nomine Patris*); la que solo afecta a las sílabas finales no lo destruye, porque el uso admite el sentido. (SmTh IIIa q.60 a.7)
+
+**a.8 — Adiciones y sustracciones en la forma sacramental:** Se juzgan por dos criterios: la **intención** del que las pronuncia —si pretende realizar un rito no conocido por la Iglesia, no parece que haga lo que hace la Iglesia— y la **significación** —si se suprime un elemento esencial, desaparece el sentido requerido—. Omitir la palabra *enim* en la forma eucarística no invalida; añadir «y en el nombre de la bienaventurada Virgen» con el sentido de que ese nombre produce algo en el bautismo sí lo destruye, pero no si solo se pide su intercesión. (SmTh IIIa q.60 a.8)
+
+#### IIIª q.61 — Necesidad de los sacramentos
+
+**a.1 — Son necesarios para la salvación por tres razones:** (1) por la **condición del hombre**, cuya naturaleza es dirigirse a lo espiritual por lo corporal; (2) por el **estado caído**, pues el afecto humano quedó sometido a las cosas corporales y «debe aplicarse la medicina donde está la enfermedad»; (3) por el **predominio de lo material** en la actividad humana, para que ejercitándose en actividades materiales provechosas evite la superstición. La pasión de Cristo es causa suficiente, pero se aplica a los hombres por los sacramentos. (SmTh IIIa q.61 a.1)
+
+**a.2 — No eran necesarios en el estado de inocencia:** En aquel estado las cosas superiores dominaban sobre las inferiores sin depender de ellas; habría sido contrario a esa rectitud que el alma se perfeccionara en ciencia y gracia mediante algo corpóreo. El hombre tenía necesidad de la gracia, pero no de conseguirla por signos sensibles. El matrimonio fue instituido entonces no como sacramento, sino como función de la naturaleza, significando a Cristo y a la Iglesia solo indirectamente. (SmTh IIIa q.61 a.2)
+
+**a.3 — Fueron necesarios después del pecado y antes de Cristo:** Después del pecado nadie es santificado más que por Cristo, de modo que era necesario que hubiera signos sensibles por los que el hombre testimoniase su fe en el Salvador futuro. La pasión es **causa final** de aquellos sacramentos, y la causa final no precede en el tiempo sino en la intención del que obra; por eso no hay inconveniente en que existieran antes de la pasión. (SmTh IIIa q.61 a.3)
+
+**a.4 — Son necesarios después de Cristo, pero distintos:** Así como los patriarcas se salvaron por la fe en el Cristo futuro, nosotros nos salvamos por la fe en el Cristo nacido y padecido; y es necesario significar con signos diversos el futuro, el pasado y el presente —«padecerá» y «padeció» no expresan lo mismo—. El estado de la nueva ley es intermedio entre la figura y la gloria: entonces no habrá sacramentos, ahora los necesitamos porque «conocemos como por un espejo». Los sacramentos antiguos eran «elementos sin fuerza ni valor» porque ni contenían ni causaban la gracia; los nuestros la contienen y la causan. (SmTh IIIa q.61 a.4)
 
 ### Giussani — Perché la Chiesa (PLDC)
 
@@ -49,3 +67,4 @@ Ver artículo principal: [[sacramentos]]
 
 - CEC §1113-1134
 - TPCr, Primera Parte, Cap. XII
+- SmTh IIIª q.60 a.1-8 (qué es un sacramento); q.61 a.1-4 (necesidad)

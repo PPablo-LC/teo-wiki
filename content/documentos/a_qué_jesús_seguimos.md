@@ -14,7 +14,7 @@ timestamp: 2026-07-15
 
 ## Definición
 
-*¿A qué Jesús seguimos? — Del esplendor de su verdadera imagen al peligro de las imágenes falsas* es una obra de teología pastoral escrita por Teófilo Cabestrero, publicada en Ciudad de Guatemala en mayo de 2003. Forma parte de la colección «Caminos» dirigida por Xavier Quinzá. El libro aborda la pregunta fundamental que Jesús formuló a sus primeros discípulos en Cesarea de Filipo (Mc 8,27-33; Mt 16,13-20; Lc 9,18-22): «¿Quién decís que soy yo?», y la actualiza como interpelación vigente para todos los cristianos de cada tiempo.
+*¿A qué Jesús seguimos? — Del esplendor de su verdadera imagen al peligro de las imágenes falsas* es una obra de teología pastoral escrita por Teófilo Cabestrero, publicada en Ciudad de Guatemala en mayo de 2003. Forma parte de la colección «Caminos» dirigida por Xavier Quinzá. El libro aborda la pregunta fundamental que Jesús formuló a sus primeros discípulos en Cesárea de Filipo (Mc 8,27-33; Mt 16,13-20; Lc 9,18-22): «¿Quién decís que soy yo?», y la actualiza como interpelación vigente para todos los cristianos de cada tiempo.
 
 ## Contenido
 

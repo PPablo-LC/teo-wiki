@@ -41,5 +41,5 @@ Principio vital, **espiritual e inmaterial** del hombre, creado directamente por
 
 - CEC §362-368, §366, §1005-1014, §471-474
 - Concilio de Vienne (1312, DS 902); Laterán IV (1215, DS 801); Calcedonia (451)
-- SmTh I q.75-76, q.89 (alma separada); De unitate intellectus contra Averroistas
+- SmTh I q.75-76, q.89 (alma separada); De unitate intellectus contra Averroístas
 - Denzinger: creacionismo y unidad de forma del hombre

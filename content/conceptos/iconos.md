@@ -39,7 +39,7 @@ que se les debe, frente al iconoclasma imperial.
 
 ## Distinciones importantes
 
-- **Veneración** (dulia, a imágenes y santos) ≠ **adoración** (latría,
+- **Veneración** (dulía, a imágenes y santos) ≠ **adoración** (latría,
   solo a Dios); el iconoclasmo confundía ambos planos.
 - **Icono** ≠ **idolatría**: el ídolo sustituye a Dios; el icono remite a Él
   por medio de su carne.

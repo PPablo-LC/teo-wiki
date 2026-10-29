@@ -127,7 +127,7 @@ Este décimo número de *Evangelization & Culture* está dedicado íntegramente 
 | San Juan María Vianney | Cura de Ars | Campesino ante el Sagrario: «Lo miro a él y él me mira a mí» (CEC 2715) |
 | Romano Guardini | Teólogo | Obediencia de Cristo: voluntad del Padre = amor del Padre |
 | Hans Urs von Balthasar | Teólogo | «Extremo del abandono, límites del desamparo divino» |
-| N.T. Wright | Biblico anglicano | Resurrección corporal judía; implicaciones políticas |
+| N.T. Wright | Bíblico anglicano | Resurrección corporal judía; implicaciones políticas |
 | Fleming Rutledge | Teóloga anglicana | «No me avergüenza el Evangelio»: criminal crucificado |
 | Stefan Jasieński | Mártir polaco | Grabado del Jesús Misericordioso en la celda 21 de Auschwitz |
 | Clarence Thomas | Juez supremo | Myers Anderson: dignidad y autosuficiencia aprendidas del abuelo |
@@ -189,4 +189,4 @@ Los resúmenes estructurados del número están en `wiki/Resúmenes/Evangelizati
 - Marion, Jean-Luc. *God Without Being*. University of Chicago Press, 1991.
 - Swinburne, Richard. *The Evolution of the Soul*. Oxford University Press, 1986.
 - Juan Pablo II. *Centesimus Annus*. 1991.
-- Benedicto XVI. Homilía en la Misa *pro eligendo Pontifice*. 18-IV-2005.
+- Benedicto XVI. Homilía en la Misa *pro eligendo Pontífice*. 18-IV-2005.

@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "**Juan Pablo II**"
-fuente: La vocacion explicada - Juan Pablo II
+fuente: La vocación explicada - Juan Pablo II
 capítulo: 2
 timestamp: 2026-08-27
-description: "Resumen de '**Juan Pablo II**' — La vocacion explicada - Juan Pablo II"
+description: "Resumen de '**Juan Pablo II**' — La vocación explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
 

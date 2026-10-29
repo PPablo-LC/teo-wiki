@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Colaboración de la mujer a la paz del mundo"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 37
 timestamp: 2026-08-31
-description: "Resumen de 'Colaboración de la mujer a la paz del mundo' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Colaboración de la mujer a la paz del mundo' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

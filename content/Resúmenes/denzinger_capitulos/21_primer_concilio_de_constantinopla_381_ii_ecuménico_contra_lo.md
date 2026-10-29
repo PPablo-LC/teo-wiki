@@ -1,6 +1,6 @@
 ---
 type: ResumenFuente
-title: "PRIMER CONCILIO DE CONSTANTINOPLA 381 II ECUMENICO CONTRA LO"
+title: "PRIMER CONCILIO DE CONSTANTINOPLA 381 II ECUMÉNICO CONTRA LO"
 fuente: denzinger_capitulos
 capítulo: 21
 timestamp: 2026-08-24
@@ -8,7 +8,7 @@ description: "Resumen del Símbolo Niceno-Constantinopolitano y la condena de he
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# PRIMER CONCILIO DE CONSTANTINOPLA 381 II ECUMENICO CONTRA LO
+# PRIMER CONCILIO DE CONSTANTINOPLA 381 II ECUMÉNICO CONTRA LO
 
 ## Conceptos básicos referenciados
 

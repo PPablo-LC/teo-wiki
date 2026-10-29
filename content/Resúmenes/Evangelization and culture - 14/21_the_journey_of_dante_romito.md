@@ -61,7 +61,7 @@ Romito pasó de ser profesor de música a Coordinador de Ministerios Juveniles y
 
 #### Esperanza en medio de la crisis
 
-El Diócesis de Pittsburgh ha reducido 200 parroquias a unas 60, y enfrentó el escándalo de abusos. Romito pidió oración en el foro de oración del Instituto y descubrió que comunidades de todo el mundo enfrentaban luchas similares. Comenzaron a orar juntos: primero el Angelus del mediodía, luego un Rosario mensual, y finalmente una reunión de oración por Zoom. Ministérios locales como **Praise Nation Pittsburgh** (alabanza y adoración eucarística), **Dry Bones Ministries** (campamento de verano católico) y programas de renovación como **ChristLife** y **Alpha** son semillas de esperanza. Los niños que regresaron del campamento declararon: «¡La Misa fue increíble! Nunca habíamos experimentado la Misa así antes».
+El Diócesis de Pittsburgh ha reducido 200 parroquias a unas 60, y enfrentó el escándalo de abusos. Romito pidió oración en el foro de oración del Instituto y descubrió que comunidades de todo el mundo enfrentaban luchas similares. Comenzaron a orar juntos: primero el Ángelus del mediodía, luego un Rosario mensual, y finalmente una reunión de oración por Zoom. Ministérios locales como **Praise Nation Pittsburgh** (alabanza y adoración eucarística), **Dry Bones Ministries** (campamento de verano católico) y programas de renovación como **ChristLife** y **Alpha** son semillas de esperanza. Los niños que regresaron del campamento declararon: «¡La Misa fue increíble! Nunca habíamos experimentado la Misa así antes».
 
 #### El Instituto Word on Fire en la pastoral
 

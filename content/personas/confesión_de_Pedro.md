@@ -13,7 +13,7 @@ description: "Evento bíblico en que Pedro confiesa a Jesucristo como el Mesías
 
 ## Contexto histórico
 
-La confesión de Pedro tuvo lugar en Cesarea de Filipo, al norte de Galilea, cuando Jesús preguntó a sus discípulos: «¿Quién dice la gente que es el Hijo del hombre?» Tras recoger diversas respuestas, Jesús formuló la pregunta definitiva: «Y vosotros, ¿quién decís que soy?». Simón Pedro respondió en nombre de todos: «Tú eres el Cristo, el Hijo de Dios vivo» (Mt 16,13-16). Jesús lo bendijo y le reveló que sobre él edificaría su Iglesia, prometiéndole las llaves del Reino de los cielos y el poder de atar y desatar (Mt 16,17-19). Los relatos paralelos se encuentran en Mc 8,27-30 y Lc 9,18-21.
+La confesión de Pedro tuvo lugar en Cesárea de Filipo, al norte de Galilea, cuando Jesús preguntó a sus discípulos: «¿Quién dice la gente que es el Hijo del hombre?» Tras recoger diversas respuestas, Jesús formuló la pregunta definitiva: «Y vosotros, ¿quién decís que soy?». Simón Pedro respondió en nombre de todos: «Tú eres el Cristo, el Hijo de Dios vivo» (Mt 16,13-16). Jesús lo bendijo y le reveló que sobre él edificaría su Iglesia, prometiéndole las llaves del Reino de los cielos y el poder de atar y desatar (Mt 16,17-19). Los relatos paralelos se encuentran en Mc 8,27-30 y Lc 9,18-21.
 
 ## Relevancia teológica
 
@@ -27,11 +27,11 @@ El CEC §422-424 presenta la confesión de Pedro en el contexto de la proclamaci
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
-El VocTeoBib estudia la confesión de Cesarea como el momento en que Pedro asume la función de portavoz del Colegio Apostólico. Su nombre de Cefas —«roca»— le es impuesto por Cristo, haciéndole partícipe de la solidez de Dios. El primado de Pedro se manifiesta en que responde en nombre de todos en los momentos solemnes, particularmente en Mt 16,16. La confesión es el acto de fe cristológica por excelencia, enunciativo de los títulos mesiánicos de Jesús.
+El VocTeoBib estudia la confesión de Cesárea como el momento en que Pedro asume la función de portavoz del Colegio Apostólico. Su nombre de Cefas —«roca»— le es impuesto por Cristo, haciéndole partícipe de la solidez de Dios. El primado de Pedro se manifiesta en que responde en nombre de todos en los momentos solemnes, particularmente en Mt 16,16. La confesión es el acto de fe cristológica por excelencia, enunciativo de los títulos mesiánicos de Jesús.
 
 ## Distinciones importantes
 
-- La confesión de Pedro en Cesarea (Mt 16,16) es distinta de la profesión de fe de Tomás (Jn 20,28), aunque ambas confiesan la divinidad de Cristo
+- La confesión de Pedro en Cesárea (Mt 16,16) es distinta de la profesión de fe de Tomás (Jn 20,28), aunque ambas confiesan la divinidad de Cristo
 - La confesión funda el primado, pero la investidura efectiva del poder se completa con la restitución pastoral (Jn 21,15-17) y el envío del Espíritu (Jn 20,22-23)
 - Pedro confiesa a Jesús como «Mesías» y «Hijo de Dios»: ambos títulos son inseparables en la revelación neotestamentaria
 

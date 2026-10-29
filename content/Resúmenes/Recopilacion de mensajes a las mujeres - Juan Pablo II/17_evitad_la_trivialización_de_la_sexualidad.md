@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "Evitad la trivialización de la sexualidad"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 17
 timestamp: 2026-08-31
-description: "Resumen de 'Evitad la trivialización de la sexualidad' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'Evitad la trivialización de la sexualidad' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

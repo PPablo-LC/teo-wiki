@@ -25,7 +25,7 @@ Tomás es el último de los Apóstoles en superar la prueba pascual de la fe. Al
 
 En la catequesis 33 (21 de octubre de 1987), Juan Pablo II comenta la profesión de Tomás.
 
-Incluso Tomás, que fue el último en superar la prueba pascual de la fe, durante su encuentro con el Resucitado prorrumpió en esa maravillosa profesión de fe: «¡Señor mío y Dios mío!» (Jn 20,28). Como ya en otro tiempo Pedro en Cesarea de Filipo (cf. Mt 16,16), así también Tomás en este encuentro pascual deja explotar el grito de la fe que viene del Padre: Jesús crucificado y resucitado es «Señor y Dios» (CrSJP 33 §8).
+Incluso Tomás, que fue el último en superar la prueba pascual de la fe, durante su encuentro con el Resucitado prorrumpió en esa maravillosa profesión de fe: «¡Señor mío y Dios mío!» (Jn 20,28). Como ya en otro tiempo Pedro en Cesárea de Filipo (cf. Mt 16,16), así también Tomás en este encuentro pascual deja explotar el grito de la fe que viene del Padre: Jesús crucificado y resucitado es «Señor y Dios» (CrSJP 33 §8).
 
 ## Relaciones doctrinales
 

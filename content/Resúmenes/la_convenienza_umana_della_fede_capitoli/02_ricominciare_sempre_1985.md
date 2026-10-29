@@ -190,7 +190,7 @@ hacen nuestras manos (desarrollado en III).
 ### III
 
 **a) Contra la dimenticanza, la memoria.** «Fate questo in memoria di me» (Lc 22,19): el
-pan y el vino como «il segno cosmico». «L'opposto della dimenticanza è la preghiera», y la
+pan y el vino como «il segno cósmico». «L'opposto della dimenticanza è la preghiera», y la
 oración es «domanda» (Lc 11,1-11: «Signore, insegna anche a noi a pregare» y el amigo a
 medianoche). «La ricchezza del povero è invece il chiedere». «Chiedere… è realmente
 l'inizio reale del cambiamento, del mutamento, è l'inizio della conversión» (Ef 5,14:
@@ -297,7 +297,7 @@ in se stessa… è una illusione, non è nient'altro che il surrogato di un'amic
 comune». Y el criterio: una Fraternidad indiferente a la libertà de educación «è
 Fraternità di incoscienti: vadano a vendere stringhe!».
 
-**Testimonio sobre la sequela y el «centuplo».** «Il movimento, l'esperienza del
+**Testimonio sobre la sequela y el «céntuplo».** «Il movimento, l'esperienza del
 movimento, o è totalizzante oppure manca al suo scopo e fa perdere tempo… la fede in
 Cristo impegna la totalità di me stesso». «Soltanto la sequela profonda rende più
 intelligente e più gustosa la vita». «Non è infinito quello che non si trova nell'istante:

@@ -52,7 +52,7 @@ Zimmerer describe la intuición ilativa como una forma de "lectura de almas" que
 > "Es una agilidad socrática impulsada por el Espíritu Santo. Trae la capacidad de captar más que la pregunta o preocupación en cuestión. En cambio, apunta a comprender a una persona y sus ideas en su totalidad." (Zimmerer, §10)
 
 El autor distingue entre:
-- **Apologetica tradicional**: argumentos filosóficos y bíblicos.
+- **Apologética tradicional**: argumentos filosóficos y bíblicos.
 - **Intuición ilativa**: reconocer los signos y símbolos que revelan rutas de acceso a la mente y el corazón del otro.
 
 Zimmerer ofrece ejemplos concretos:

@@ -65,4 +65,4 @@ Se relaciona con [[natividad]] (los Magos visitan al Niño recién nacido), [[re
 - [CEC §528]
 - [JdN_III, Cap. IV]
 - [San Juan Crisóstomo, *In Matthaeum*, hom. VI, 2]
-- [Gregorio Nacianceno, *Poemata dogmatica* V, 55-64]
+- [Gregorio Nacianceno, *Poemata dogmática* V, 55-64]

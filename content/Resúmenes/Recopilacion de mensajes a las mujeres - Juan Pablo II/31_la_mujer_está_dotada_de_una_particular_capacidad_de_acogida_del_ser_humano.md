@@ -1,10 +1,10 @@
 ---
 type: ResumenFuente
 title: "La mujer está dotada de una particular capacidad de acogida del ser humano"
-fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
+fuente: Recopilación de mensajes a las mujeres - Juan Pablo II
 capítulo: 31
 timestamp: 2026-08-31
-description: "Resumen de 'La mujer está dotada de una particular capacidad de acogida del ser humano' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
+description: "Resumen de 'La mujer está dotada de una particular capacidad de acogida del ser humano' — Recopilación de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
 

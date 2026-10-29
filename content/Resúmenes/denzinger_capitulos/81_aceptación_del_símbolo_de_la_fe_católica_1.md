@@ -19,7 +19,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Contenido
 
-## ADRIANO VI, 1522-1523 CLEMENTE. VII, 1523-1534 PAULO III, 1534-1549 CONCILIO DE TRENTO, 1545-1563 XIX ecuménico (contra los innovadores del siglo XVI) SESION III (4 de febrero de 1546)
+## ADRIANO VI, 1522-1523 CLEMENTE. VII, 1523-1534 PAULO III, 1534-1549 CONCILIO DE TRENTO, 1545-1563 XIX ecuménico (contra los innovadores del siglo XVI) SESIÓN III (4 de febrero de 1546)
 
 ## Aceptación del Símbolo de la fe católica (1)
 
@@ -28,7 +28,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Secciones incluidas
 
-## ADRIANO VI, 1522-1523 CLEMENTE. VII, 1523-1534 PAULO III, 1534-1549 CONCILIO DE TRENTO, 1545-1563 XIX ecuménico (contra los innovadores del siglo XVI) SESION III (4 de febrero de 1546)
+## ADRIANO VI, 1522-1523 CLEMENTE. VII, 1523-1534 PAULO III, 1534-1549 CONCILIO DE TRENTO, 1545-1563 XIX ecuménico (contra los innovadores del siglo XVI) SESIÓN III (4 de febrero de 1546)
 
 Contexto del Concilio de Trento y su sesión III.
 
