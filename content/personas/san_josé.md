@@ -2,13 +2,13 @@
 type: Persona
 title: "San José"
 tags: ["personas_—_santos", "mariología", "cristología"]
-timestamp: 2026-07-15
+timestamp: 2026-10-30
 description: "Esposo de la Virgen María y padre legal de Jesucristo, modelo de justicia, obediencia y discernimiento; perteneciente a la estirpe de David, custodio del Redentor."
 ---
 # San José
 
 > Área: Personas / Santos
-> Última actualización: 2026-07-15
+> Última actualización: 2026-10-30
 
 ## Definición
 
@@ -34,6 +34,12 @@ Benedicto XVI presenta a José como «hombre justo» (*zaddik*, Mt 1,19), imagen
 **Justicia y misericordia.** José es modelo de justicia que se compadece: aunque podía denunciar a María públicamente, elige el repudio privado para no exponerla a la ignominia. Vive la ley «como evangelio», no como legalidad de fachada. Su obediencia al ángel es la del justo que confía, no la del cálculo humano.
 
 
+### Según Scott Hahn (*Joy to the World*, cap. 6)
+
+Hahn contrapone sus millones de palabras —clases, libros, cursos, conferencias— al «montañoso» silencio de José de Nazaret, de quien no conservamos una sola sílaba: «El hombre al que no le queda ninguna palabra». Lo que tenemos son sus obras, y su silencio mismo, que es significativo: sus acciones hablan con elocuencia de poesía, aunque a veces enigmática. El Nuevo Testamento comienza contando los acontecimientos de la salvación desde su punto de vista; cabe suponer que rezaba las oraciones tradicionales de Israel, las que encontramos en labios de su hijo adoptivo: «Escucha, Israel: el Señor nuestro Dios es uno; amarás al Señor tu Dios con todo tu corazón…» (Mc 12,29-30). Jesús era verdaderamente hombre y tuvo que aprender sus oraciones de alguien, muy probablemente de sus padres; y sabemos que fue obediente a José y a María (Lc 2,51).
+
+La genealogía de Mateo avanza diciendo que un hombre es «padre de» tal hijo, pero al cerrar la lista identifica a José no como padre, sino como «el esposo de María, de quien nació Jesús, llamado Cristo» (Mt 1,15-16): el último eslabón rompe el patrón para dejar claro que José no tuvo papel biológico en la concepción, preparando el relato de la concepción virginal (Mt 1,18-25). El hogar de Nazaret es modelo de trato con los ángeles: María conversó con su ángel e incluso le preguntó, y José actuó según lo que el ángel le dijo; su conciencia de la presencia angélica no era pasiva, sino activa, receptiva y entregada. Hahn cita la enseñanza de San Francisco de Sales: «La Sagrada Familia era una Trinidad en la tierra que de cierto modo representaba la Santísima Trinidad misma».
+
 ## Distinciones importantes
 
 - **Padre legal vs. padre natural:** José no es padre biológico de Jesús, sino su padre adoptivo o legal. La paternidad es verdadera por el amor y la obediencia, y suficiente para conferir a Jesús la pertenencia a la casa de David.
@@ -48,6 +54,7 @@ José es el esposo de la [[virgen_maría]], custodio de la [[encarnación]] y ga
 [[virgen_maría]], [[encarnación]], [[natividad]], [[santos]], [[mariología]]
 
 ## Referencias
+- Scott Hahn, *Joy to the World* (Image, 2014), cap. 6
 
 - [Mt 1,18-25; 2,13-23]
 - [Lc 2,51]

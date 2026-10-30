@@ -27,7 +27,7 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 - [[virtudes_teologales]] — inserción de la moral en la fe
 - [[virtudes_infusas]] — virtudes obradas por la gracia
 - [[virtudes_morales_infusas]] — virtudes humanas transformadas por la vida en Cristo
-- [[imitacion_de_cristo]] — configurarse con Cristo por la fe
+- [[imitación_de_cristo]] — configurarse con Cristo por la fe
 - [[seguimiento_de_cristo]] — vida en Cristo y su imitación
 - [[conversión]] — giro radical operado por la fe
 - [[gracia]] — fuerza para actuar que comunica la fe
@@ -107,7 +107,7 @@ La conducta del cristiano no se rige ya por la letra sino por la [[vida_según_e
 
 ##### 4. La vida en Cristo y la imitación de Cristo
 
-«Ya no vivo yo, sino que Cristo vive en mí» (Gál 2,20). La vida en Cristo y su [[imitacion_de_cristo|imitación]] —edificarse sobre su ejemplo y su caridad— son inseparables de la [[gracia]] recibida por la fe.
+«Ya no vivo yo, sino que Cristo vive en mí» (Gál 2,20). La vida en Cristo y su [[imitación_de_cristo|imitación]] —edificarse sobre su ejemplo y su caridad— son inseparables de la [[gracia]] recibida por la fe.
 
 ##### 5. La caridad, don principal del Espíritu Santo
 

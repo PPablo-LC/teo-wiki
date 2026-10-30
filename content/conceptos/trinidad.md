@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Trinidad
 tags: ["dogmática"]
 
-timestamp: 2026-09-15
+timestamp: 2026-10-30
 description: "Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles."
 ---
 # Trinidad
 
 > Área: Dogmática
-> Última actualización: 2026-09-15
+> Última actualización: 2026-10-30
 
 ## Definición
 Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles. Es el misterio de Dios en sí mismo, fuente de todos los otros misterios de la fe.
@@ -75,6 +75,10 @@ Juan Pablo II muestra que Jesús revela la Trinidad. En la Anunciación se manif
 
 Tomás parte de las **procesiones** (no de las relaciones, como Agustín): las relaciones surgen de las procesiones. La procesión divina no resulta en algo externo: la analogía es la actividad intrínseca de la mente, pensar y amar. Al pensarse, Dios tiene una concepción perfecta de su naturaleza: su Verbo, semejanza completa; el Verbo es Dios porque en Dios el entender y el existir son idénticos (en nosotros, no). La generación es eterna — «nunca hubo tiempo en que el Hijo no fuera», contra Arrio; el «primogénito de la creación» (Col 1,15) no es la primera criatura sino el que es *antes* de todas y principio de ellas. La voluntad no engendra semejante sino que se inclina: de ahí el Espíritu (*ruah*, viento/aliento), amor mutuo subsistente del Padre y del Hijo, que procede también del Hijo («todo lo que tiene el Padre es mío», Jn 16,15) aunque el Padre permanece única fuente de la divinidad. Las relaciones reales son **subsistentes** — idénticas a la naturaleza divina: la paternidad ES el Padre, la filiación ES el Hijo; hay tres supuestos de una sola naturaleza y una sola existencia: «ser el Padre (esse Patrem) no es ser el Hijo; pero el ser del Padre (esse Patris) es el mismo que el del Hijo». Distinción sin división: la divinidad existe entera e indivisa en cada persona. Selman recoge además la precisión de Tomás a la definición de Boecio: «persona» es «individuo subsistente en naturaleza intelectual» (no «racional»: Dios no razona), y la historia del concepto, forjado en el debate trinitario del siglo IV.
 
+### Según Scott Hahn (*Joy to the World*, cap. 13)
+
+La Navidad es, según Hahn, una «efusión en el tiempo del amor que es eterno»: un icono en la tierra del amor que está en el corazón del cielo. Aunque el dogma trinitario no aparece explícitamente en los relatos de la infancia, está implícito en todas partes: el Padre envía al Hijo, que se encarna por obra del Espíritu Santo en el seno de María (Lc 1,35), y el nombre «Jesús» revela su propósito: «Le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados» (Mt 1,21). Dios se hizo hombre no por necesidad, sino por amor misericordioso, para acercarse al hombre y hacerse accesible: se hizo bebé que necesita ser levantado, acariciado, alimentado. La Trinidad bienaventurada del cielo se refleja en la «trinidad» terrenal de la Sagrada Familia, que la representa como icono. Hahn observa que los católicos recitan el Credo dominical con la expresión más anodina, como quien lee la lista de ingredientes de un jarabe, cuando lo que afirman es el misterio más grande: «Dios de Dios, Luz de Luz, Dios verdadero de Dios verdadero, engendrado, no creado, de la misma naturaleza que el Padre».
+
 ## Distinciones importantes
 - Trinidad económica (revelada en las misiones divinas) ≠ Trinidad inmanente (Dios en sí mismo)
 - Unidad de esencia ≠ distinción de Personas
@@ -92,6 +96,7 @@ Se relaciona con [[encarnación]], [[espíritu_santo]], [[visión_beatífica]], 
 [[teología]], [[dogmas]], [[teología_fundamental]], [[conocimiento_trinitario]], [[propiedades_divinas]], [[actos_nocionales]], [[misiones_divinas]]
 
 ## Referencias
+- Scott Hahn, *Joy to the World* (Image, 2014), cap. 13
 - [CEC §232-267; §290-292; §648-650; §731-732]
 - [TPCr, Primera Parte, Cap. 2; Segunda Parte, Cap. 1]
 - SmTh Iª q.30 (Pluralidad de personas divinas), q.31 (Unidad y pluralidad), q.32 (Conocimiento de las personas divinas), q.39 (Relación personas-esencia), q.42 (Igualdad y semejanza)

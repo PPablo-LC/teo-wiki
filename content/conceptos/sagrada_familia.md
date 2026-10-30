@@ -1,15 +1,15 @@
 ---
 type: Concepto Teológico
-title: Sagrada Familia
+title: "Sagrada Familia"
 tags: ["cristología", "vida_cristiana"]
 
-timestamp: 2026-05-29
+timestamp: 2026-10-29
 description: "La Sagrada Familia es el nombre con que se designa a Jesús, María y José en su vida cotidiana en Nazaret."
 ---
 # Sagrada Familia
 
 > Área: Cristología / Vida cristiana
-> Última actualización: 2026-05-29
+> Última actualización: 2026-10-29
 
 ## Definición
 
@@ -47,6 +47,14 @@ La vida de la Sagrada Familia en Nazaret es presentada como «ambiente de crecim
 
 La Vida de Jesús (VJ) presenta a la Sagrada Familia como modelo (Cap. I-II). La Sagrada Familia fue amenazada durante su estancia en Belén, obligada a huir a Egipto por la crueldad de Herodes. En Nazaret, la casa de la Sagrada Familia fue el primer templo, la primera iglesia. La familia de Nazaret vive su vida de fe, correspondiendo a una vocación sublime que vincula su existencia al misterio de Dios presente entre los hombres. Dedicándose a Él encuentran la motivación diaria para una solidaridad que ninguna dificultad resquebraja. El camino de José se consumió en la diaria fatiga de carpintero, junto al Hijo de Dios, que se hacía cada vez más su eficaz colaborador. La Sagrada Familia no es otra cosa que la familia humana en misión divina.
 
+### Según Scott Hahn (*Joy to the World*)
+
+Hahn sostiene que la familia es la clave de la Navidad y la clave del cristianismo: el relato navideño tiene un héroe insólito, que no es un guerrero ni un conquistador, sino una familia. Jesús, en efecto, casi no *actúa* en los relatos de la infancia: es amamantado, acostado en el pesebre, encontrado en el regazo de su madre, llevado a Egipto; solo es visible porque otros brazos lo sostienen. Los pañales requieren manos que envuelvan, el pesebre alguien que acueste, el exilio quien proteja y sostenga a la madre y al niño en tierra extranjera.
+
+De ahí su tesis: Dios quiso que la salvación fuera inseparable de la vida familiar y se manifestara en ella. Cita a San Juan Pablo II —todo lo bueno, la historia, la humanidad y la salvación, «pasa por la familia»— y concluye que Dios vino a compartir, redimir y perfeccionar la familia, haciéndola «imagen y sacramento de un misterio divino». La verdad de la Navidad fue además transmitida por familias: la conocemos porque aquella madre meditaba estos acontecimientos en su corazón y los compartió con los discípulos de su Hijo (Lc 2,19.51), y porque los primeros cristianos, en tiempos de fe ilegal, se reunían en casas familiares considerándose «una sola familia común». El fruto es la filiación divina: «a todos los que lo recibieron les dio poder de llegar a ser hijos de Dios» (Jn 1,12).
+
+El hogar de Nazaret es también modelo de trato con los ángeles: María conversó con su ángel e incluso le preguntó, y José actuó según lo que el ángel le dijo; su conciencia de la presencia angélica no era pasiva, sino activa, receptiva y entregada. Y en la reflexión sobre la Trinidad, Hahn recoge la enseñanza de San Francisco de Sales: «La Sagrada Familia era una Trinidad en la tierra que de cierto modo representaba la Santísima Trinidad misma».
+
 ## Distinciones importantes
 
 - La Sagrada Familia es «familia» por naturaleza — no es una comunidad religiosa ni una institución eclesiástica — pero es modelo de toda familia cristiana
@@ -68,3 +76,4 @@ La Vida de Jesús (VJ) presenta a la Sagrada Familia como modelo (Cap. I-II). La
 - CEC §1655
 - CEC §542
 - TPCr, Tercera Parte, Libro II, Cap. III (La vida de oración)
+- Scott Hahn, *Joy to the World: How Christ's Coming Changed Everything (and Still Does)* (Image, 2014), caps. 1.6-7.13

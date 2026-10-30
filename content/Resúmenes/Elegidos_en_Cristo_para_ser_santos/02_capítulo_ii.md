@@ -41,7 +41,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "santidad", "fin último
 - [[ética_de_la_virtud]] — la moral clásica orienta las decisiones hacia la plena realización de la vida humana
 - [[vida_cristiana]] — camino hacia la casa del Padre con Cristo como punto de referencia
 - [[alter_christus]] — el cristiano llamado a ser ya en este mundo otro Cristo
-- [[imitacion_de_cristo]] — la santidad consiste en imitar y seguir a Cristo
+- [[imitación_de_cristo]] — la santidad consiste en imitar y seguir a Cristo
 - [[perfección_cristiana]] — plenitud de la caridad
 - [[misterio_del_hombre]] — solo se esclarece en el misterio del Verbo encarnado
 - [[vocación_divina]] — la vocación última del hombre es realmente una sola

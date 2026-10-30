@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-10-29'
+updated: '2026-10-30'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -2615,6 +2615,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[personas_vulnerables]]
 - [[perspectiva_de_la_primera_persona]]
 - [[perspectiva_de_la_tercera_persona]]
+- [[perspectiva_sacramental]]
 - [[pertenencia]]
 - [[pertinacia]]
 - [[pescas_milagrosas]]
@@ -4514,6 +4515,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[jesus_de_nazaret_i]]
 - [[jesus_de_nazaret_ii]]
 - [[jesus_de_nazaret_iii]]
+- [[joy_to_the_world]]
 
 ### L (Documentos)
 

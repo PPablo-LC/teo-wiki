@@ -5455,3 +5455,14 @@ Comentario teológico a 2 Samuel (Brazos, 2015). Índice raw auditado (30/30 arc
 | [[constituciones_lc]] | — | **Duplicado consolidado** | Contenido único (ediciones de 1984 y 1998) fusionado en [[constituciones_legionarios_de_cristo]]; artículo eliminado; 8 archivos retargetados. Variante `[[constituciones_lc_2020]]` → [[constituciones_legionarios_de_cristo]]. |
 
 **Nota:** la consolidación de los dos pares de artículos homónimos cierra la recomendación registrada el 2026-10-26 al final de la sección del lote 9.
+
+---
+
+## Actualización 2026-10-30
+
+- **Duplicado resuelto:** `imitacion_de_cristo` → remisión hacia `[[imitación_de_cristo]]` (fusionado el contenido doctrinal general, CEC, ConcVatII, SmTh, JPII, VS, CJeS, Kempis); 24 archivos repuntados (wiki/ y raw/).
+- **Fuentes nuevas registradas** en `raw/Bases_doctrinales-raw/índice.md` (filas 142–151) y `fuentes.md`: 1Pet, JTW, IST, ImC, CathBr, EuchBr, LSC (índice preliminar) y SW, TBRB, TIMB (sin índice).
+- **Bug corregido** en `scripts/detectar_pendientes.py`: la rama `else` (índice OK pero procesamiento pendiente) ahora se etiqueta `procesamiento_pendiente` en vez de `sin_índice`, con conteo separado en el resumen.
+- **Progreso de resúmenes regenerado** (`scripts/actualizar_progreso_resumenes.py`): 1Pet 9/9, JTW 15/15, CathBr 15/15, LSC 10/10, EuchBr 7/8, IST 0/17, ImC 0/7, corazon 5/10.
+- **Inventario de duplicados** creado en `wiki/auditoría/duplicados.md`: 22 pares pendientes (17 conceptos + 5 personas).
+- El detector (`detectar_huerfanos.py`) arroja **3713 huérfanos únicos**; no se regeneró el archivo completo en esta sesión (coste alto). Pendiente para la siguiente.

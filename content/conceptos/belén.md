@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Belén"
 tags: ["lugares_teológicos", "cristología", "profecía"]
-timestamp: 2026-07-15
+timestamp: 2026-10-30
 description: "Ciudad de David en Judea, lugar del nacimiento de Jesucristo, cumplimiento de la profecía de Miqueas 5,1-3; signo de la paradoja del obrar de Dios."
 ---
 # Belén
 
 > Área: Lugares teológicos / Cristología
-> Última actualización: 2026-07-15
+> Última actualización: 2026-10-30
 
 ## Definición
 
@@ -42,6 +42,10 @@ Benedicto XVI explica el nacimiento en Belén desde el contexto del decreto del 
 
 La Vida de Jesús subraya que Belén es la patria de David, de la que había de salir el Pastor de Israel según la profecía (Miq 5,1-3). Jesús nace en medio del mayor anonimato humano, pero con la gloria anunciada por los ángeles y confesada por los pastores. La pobreza del establo contrasta con la grandeza del misterio que en él se cumple.
 
+### Según Scott Hahn (*Joy to the World*, caps. 1 y 8)
+
+Hahn peregrina a la Basílica de la Natividad, donde la costumbre local canta villancicos todo el año y los peregrinos besan la estrella de catorce puntas que marca el lugar del nacimiento. Belén era un pueblecito sin importancia, pero precisamente por eso fue el lugar exigido por las profecías para el nacimiento del Mesías: «Tú, Belén, tierra de Judá, no eres ni mucho menos la última de las ciudades de Judá; pues de ti saldrá un jefe que será el pastor de mi pueblo Israel» (Miq 5,1-3; cf. Mt 2,6). El nombre inglés *bedlam* (desorden, confusión) nació como mala pronunciación de *Bethlehem*, por el Hospital de Santa María de Belén de Londres (siglo XIII); Hahn contrasta ese nombre del caos con el pueblecito que yace «quieto» en su «sueño profundo y sin sueños». La elección de Belén manifiesta la lógica del Reino: el verdadero Pastor de Israel nace fuera de toda grandeza humana, en la pobreza de un establo. Belén significa «casa de pan», figura de Cristo como Pan vivo bajado del cielo (cf. SmTh IIIª q.35 a.7).
+
 ## Distinciones importantes
 
 - **Belén histórica vs. Belén teológica:** La ciudad de Judá es lugar histórico, pero su significado reside en ser el cumplimiento de la promesa divina.
@@ -56,6 +60,7 @@ Belén es el lugar de la [[natividad]] y, por tanto, del misterio de la [[encarn
 [[natividad]], [[encarnación]], [[rey_david]], [[profecía]], [[mariología]], [[jesucristo]]
 
 ## Referencias
+- Scott Hahn, *Joy to the World* (Image, 2014), caps. 1 y 8
 
 - [Miq 5,1-3]
 - [Mt 2,1-6]

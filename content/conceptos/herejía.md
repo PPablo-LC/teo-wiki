@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Herejía
 tags: ["derecho_canónico", "eclesiología"]
 
-timestamp: 2026-05-25
+timestamp: 2026-10-30
 description: "Delito contra la fe que consiste en la negación pertinaz, después de recibido el bautismo, de una verdad que ha de creerse con fe divina y católica, o la duda pertinaz sobre la misma (CIC c. 751)."
 ---
 # Herejía
 
 > Área: Derecho canónico / Eclesiología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-10-30
 
 ## Definición
 
@@ -40,6 +40,10 @@ La herejía es una especie de infidelidad, propia de quienes profesan la fe de C
 
 El **III Concilio de Letrán** (1179, D-401) anatematizó a los cátaros, patarinos, publicanos y a quienes los defendieran, prohibiendo tenerlos en casas o tierras o ejercer comercio con ellos. El **Concilio de Verona** (1184, D-402) anatematizó a quienes sintieran u enseñaran de otro modo que la Iglesia Romana acerca de los sacramentos. **Inocencio III** (D-417–427) recibió la profesión de fe de **Durando de Huesca** y los pobres católicos, que abjuraban de las herejías cátara y valdense y aceptaban los sacramentos, el purgatorio y las indulgencias conforme a la doctrina romana. **Gregorio IX** (D-444) anatematizó a los cátaros, patarenos, pobres de Lyon, pasaginos, josefinos, arnaldistas, esperonistas y a todos cuantos la Iglesia Romana juzgare herejes.
 
+### Según Scott Hahn (*Joy to the World*, cap. 14)
+
+Hahn presenta los herejes cristianos como los peores «ladrones de la Navidad»: quienes negaron la encarnación para robar la alegría de la fiesta. Algunos decían que Jesús no era realmente humano —un ángel disfrazado, una imagen holográfica, un ser superior que movía su drama con lágrimas de cocodrilo—: un Mesías engañoso que nadie podría amar ni del que se podría confiar que amara de verdad. En ese campo cayeron los gnósticos, los docetas y otros que pretendieron reclamar el nombre de «cristianos» para una religión sin encarnación, sin Trinidad y, en definitiva, sin alegría. La herejía, al negar la encarnación, niega el corazón mismo de la Navidad: que «el Verbo se hizo carne y habitó entre nosotros» (Jn 1,14).
+
 ## Distinciones importantes
 
 - **Herejía material**: error involuntario sin culpa (no hay pecado formal)
@@ -55,6 +59,7 @@ Se relaciona con la [[fe_católica]], el [[depósito_de_la_fe]], el [[magisterio
 [[apostasía]], [[cisma]], [[fe_católica]], [[magisterio_de_la_iglesia]], [[confesión_de_fe]]
 
 ## Referencias
+- Scott Hahn, *Joy to the World* (Image, 2014), cap. 14
 
 - [CIC c. 751]
 - [CEC §2089]

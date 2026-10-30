@@ -35,14 +35,14 @@ El fundador de la Devoción Moderna fue Gerardo Groot (1340-1384), un canónigo 
 ## Relaciones doctrinales
 
 - [[ejercicios_espirituales]] — la Devoción Moderna preparó el camino para los de San Ignacio
-- [[imitacion_de_cristo]] — obra cumbre del movimiento
+- [[imitación_de_cristo]] — obra cumbre del movimiento
 - [[meditación]] — método central de la espiritualidad moderna
 - [[espiritualidad_seglar]] — la Devoción Moderna fue una de las primeras expresiones de esta
 - [[perfección_cristiana]] — el ideal de perfección accesible a todos los bautizados
 
 ## Ver también
 
-[[devoción_moderna]], [[imitacion_de_cristo]], [[ejercicios_espirituales]]
+[[devoción_moderna]], [[imitación_de_cristo]], [[ejercicios_espirituales]]
 
 ## Referencias
 

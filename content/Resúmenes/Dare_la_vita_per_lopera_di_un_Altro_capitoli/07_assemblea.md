@@ -18,7 +18,7 @@ tags: ["resumen", "dare la vita per lopera di un altro capitoli"]
 - [[obediencia_civil]] — no contradice la crítica al Estado como Dios-ídolo
 - [[idolatría]] — la pretensión de toda autoridad de ser la única fuente exclusiva de lo que el yo es
 - [[pecado]] — seguir a un extraño, una atractiva que no lleva al destino
-- [[imitacion_de_cristo]] — pasa por el aquí y ahora de un volto, un temperamento, una historia (el carisma)
+- [[imitación_de_cristo]] — pasa por el aquí y ahora de un volto, un temperamento, una historia (el carisma)
 - [[carisma]] — el punto histórico a través del cual Cristo dice «Vieni e vedi»
 - [[ontología]] — el punto de riscossa del yo es primero ontológico y no ético
 - [[ética]] — deriva de la consideración de la realidad como es

@@ -47,7 +47,7 @@ Juan Pablo II profundiza en la humildad de Cristo en sus catequesis cristológic
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[kenosis]], la [[obediencia_de_cristo]], la [[pasión_de_cristo]], la [[encarnación]], la [[exaltación_de_cristo]], la [[redención]], la [[humildad]] y la [[imitacion_de_cristo]].
+Se relaciona con la [[kenosis]], la [[obediencia_de_cristo]], la [[pasión_de_cristo]], la [[encarnación]], la [[exaltación_de_cristo]], la [[redención]], la [[humildad]] y la [[imitación_de_cristo]].
 
 ## Ver también
 

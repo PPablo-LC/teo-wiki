@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Matanza de los Inocentes"
 tags: ["bíblica", "martirio", "misterio_pascual"]
 
-timestamp: 2026-07-16
+timestamp: 2026-10-30
 description: "La Matanza de los Inocentes es la matanza de los niños de Belén ordenada por Herodes el Grande para eliminar al recién nacido 'Rey de los Judíos'."
 ---
 # Matanza de los Inocentes
 
 > Área: Bíblica / Martirio / Misterio Pascual
-> Última actualización: 2026-07-16
+> Última actualización: 2026-10-30
 
 ## Definición
 
@@ -37,6 +37,10 @@ En *Jesús de Nazaret III*, Benedicto XVI analiza la Matanza de los Inocentes en
 
 **Actualidad del grito.** «En nuestra época histórica sigue siendo actual el grito de las madres a Dios, pero la resurrección de Jesús nos refuerza al mismo tiempo en la esperanza del verdadero consuelo».
 
+### Según Scott Hahn (*Joy to the World*, cap. 12)
+
+Hahn lee la matanza de los inocentes como el primer intento de «robar la Navidad» por la violencia: Herodes, al no obtener de los Magos el paradero del Niño, «mandó matar a todos los niños varones de Belén y de toda aquella comarca, de dos años para abajo» (Mt 2,16). Las víctimas de Belén fueron relativamente pocas —Belén era un pueblo pequeño, quizá no más de seis, todas de familias de escasa posición social—; en un reinado como el de Herodes habría sido una de las menores y difícilmente habría llamado la atención de los historiadores. Pero encaja con lo que se sabe de él: homicida, inseguro hasta la paranoia, sin escrúpulos para matar (ya había asesinado a una de sus esposas y a tres de sus hijos). Los historiadores podían ignorar la purga, pero dejó huella en la población local, y Mateo transmite ese dolor extremo con el lamento de Jeremías: «Se oyó una voz en Ramá, llanto y lamento grande; Raquel que llora por sus hijos y no quiere ser consolada, porque ya no existen» (Mt 2,17-18). El exilio a Egipto de la Sagrada Familia es anticipo de la victoria de Cristo sobre la muerte.
+
 ## Distinciones importantes
 
 - **Matanza de los Inocentes ≠ Exterminio general**: Mateo habla solo de Belén y sus alrededores, no de todo Israel.
@@ -52,6 +56,7 @@ Se relaciona con [[herodes_el_grande]] (el responsable de la matanza), [[belén]
 [[herodes_el_grande]], [[belén]], [[misterio_pascual]], [[martirio]], [[cruz]], [[adoracion_de_los_magos]]
 
 ## Referencias
+- Scott Hahn, *Joy to the World* (Image, 2014), cap. 12
 
 - [Mt 2,16-18]
 - [Jr 31,15]

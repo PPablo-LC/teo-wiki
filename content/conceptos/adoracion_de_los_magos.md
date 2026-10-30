@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Adoración de los Magos"
 tags: ["liturgia", "cristología", "escatología"]
 
-timestamp: 2026-07-16
+timestamp: 2026-10-30
 description: "La Adoración de los Magos es la manifestación de Jesús como Mesías de Israel, Hijo de Dios y Salvador del mundo a los representantes de los pueblos paganos."
 ---
 # Adoración de los Magos
 
 > Área: Liturgia / Cristología / Escatología
-> Última actualización: 2026-07-16
+> Última actualización: 2026-10-30
 
 ## Definición
 
@@ -45,6 +45,10 @@ En *Jesús de Nazaret III*, Benedicto XVI dedica el capítulo IV a los Magos de 
 
 **Gregorio Nacianceno y el fin de la astrología.** «En el momento mismo en que los Magos se postraron ante Jesús, la astrología había llegado a su fin, porque desde aquel momento las estrellas se moverían en la órbita establecida por Cristo» (*Poem. dogm*. V, 55-64). Los planetas, que en el mundo antiguo eran considerados divinidades, quedan sometidos al Niño de Belén.
 
+### Según Scott Hahn (*Joy to the World*, cap. 9)
+
+Los Magos representan a los gentiles, los extranjeros, las naciones: la adoración de los Magos es el momento en que Dios dio «alegría al mundo» no solo a Israel sino a todos los pueblos. Persia, potencia que oprimió periódicamente a los judíos, era despreciada por judíos y romanos, y su desprecio se concentraba en sus «sabios», los Magos —astrónomos que afirmaban leer en los astros presagios de acontecimientos terrestres—. Eran consejeros del rey en Babilonia (Dn 2,48) y se los consideraba el verdadero «poder detrás del trono». Vecinos geográficos de los judíos, estaban religiosamente a años luz: personificaban el mundo de los gentiles, idólatras e ignorantes de los caminos de Israel. De ahí una repulsión mutua y, al mismo tiempo, una atracción mutua: los Magos escudriñaban el cielo buscando señales de un divino «Rey de los judíos». Su visita señala la salvación del mundo entero y la restauración del orden cósmico perturbado por la caída de la humanidad y de los ángeles.
+
 ## Distinciones importantes
 
 - **Magos ≠ Reyes**: la tradición popular los llama «reyes», pero el Evangelio de Mateo dice «Magos» (astrólogos o sabios).
@@ -60,6 +64,7 @@ Se relaciona con [[natividad]] (los Magos visitan al Niño recién nacido), [[re
 [[natividad]], [[reino_de_dios]], [[hijo_de_dios]], [[misterio_pascual]], [[misión_de_la_iglesia]], [[belén]], [[estrella_de_belen]]
 
 ## Referencias
+- Scott Hahn, *Joy to the World* (Image, 2014), cap. 9
 
 - [Mt 2,1-12]
 - [CEC §528]

@@ -44,7 +44,7 @@ tags: ["resumen", "la_joven_de_caracter", "formación_del_carácter", "voluntad"
 - [[patria]] — patriotismo femenino: servir sin coger un arma
 - [[amor]] — amor sincero del alma pura que lleva ante el altar
 - [[humildad]] — conocer los propios defectos; el examen como camino de humildad
-- [[imitacion_de_cristo]] — modelo sublime de todo carácter humano
+- [[imitación_de_cristo]] — modelo sublime de todo carácter humano
 
 ## Contenido
 

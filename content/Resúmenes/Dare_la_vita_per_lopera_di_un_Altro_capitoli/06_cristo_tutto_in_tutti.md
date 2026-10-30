@@ -14,7 +14,7 @@ tags: ["resumen", "dare la vita per lopera di un altro capitoli"]
 
 - [[cristo_todo_en_todos]] — «Cristo è tutto in tutti» (Col 3,11), citado por san Máximo el Confesor
 - [[primacía_de_cristo]] — el valor ontológico de Cristo como nexo entre su misterio y el destino de cada hombre
-- [[imitacion_de_cristo]] — la «morale» del hombre: la imitación del comportamiento de Jesús hombre-Dios
+- [[imitación_de_cristo]] — la «morale» del hombre: la imitación del comportamiento de Jesús hombre-Dios
 - [[bautismo]] — el gesto por el que el hombre es hecho immanente al misterio de Cristo; nace la «nuova creatura»
 - [[nueva_creación]] — la ontología nueva, la participación inabarcable al Ser (Gal 6,15; 2Cor 5,17; Ef 4,23; Col 3,9-10)
 - [[paternidad_de_dios]] — el comportamiento de Jesús marcado por el reconocimiento de que el Misterio es paternità
