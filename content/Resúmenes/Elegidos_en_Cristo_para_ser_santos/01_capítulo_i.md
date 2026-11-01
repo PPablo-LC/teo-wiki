@@ -13,7 +13,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "teología moral"]
 ## Conceptos básicos referenciados
 
 - [[vida_cristiana]] — la vida del hombre como hijo de Dios en Cristo por medio del Espíritu Santo
-- [[filiacion_divina]] — participación en la naturaleza divina recibida en el bautismo
+- [[filiación_divina]] — participación en la naturaleza divina recibida en el bautismo
 - [[bautismo]] — incorporación real a Cristo crucificado y glorificado
 - [[gracia_santificante]] — «comunicación parcial» de la naturaleza y vida divinas que configura con Cristo
 - [[virtudes_teologales]] — fe, esperanza y caridad, principios operativos inmediatos de la vida cristiana

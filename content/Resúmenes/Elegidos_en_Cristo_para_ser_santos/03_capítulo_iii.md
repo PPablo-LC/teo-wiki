@@ -14,7 +14,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "conducta moral", "santi
 
 - [[santidad_cristiana]] — meta de la búsqueda activa de la vida moral cristiana
 - [[configuración_con_cristo]] — el bien humano completo es asumido, purificado e integrado por la llamada a la santidad
-- [[filiacion_divina]] — dignidad de hijo de Dios en Cristo por medio del Espíritu Santo
+- [[filiación_divina]] — dignidad de hijo de Dios en Cristo por medio del Espíritu Santo
 - [[ley_moral]] — compromiso obediente del cristiano a la luz de la razón natural
 - [[ley_evangélica]] — compromiso obediente del cristiano a la luz de la fe
 - [[correspondencia_al_don_divino]] — la fe, caridad y esperanza deben fortalecerse cada día

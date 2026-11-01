@@ -46,7 +46,7 @@ cobertura de huérfanos (conteos frescos).
 |---|----------|-------------|-----------|
 | 1 | `[[reforma_gregoriana]]` | 4 | Miscelánea |
 | 2 | `[[religion_como_control_social]]` | 4 | Miscelánea |
-| 3 | `[[sacramento_penitencia]]` | 4 | Miscelánea |
+| 3 | `[[sacramento_de_la_reconciliación]]` | 4 | Miscelánea |
 | 4 | `[[san_bernardo_de_clairvaux]]` | 4 | Personas |
 | 5 | `[[santisimo_sacramento]]` | 4 | Miscelánea |
 | 6 | `[[santo_tomas_moro]]` | 4 | Personas |
@@ -2251,7 +2251,7 @@ y el de esta tanda (5 artículos más + corrección de enlaces con pipe de
 |-------------------|-----------|-------|
 | `[[reino_de_los_cielos]]` | `[[reino_de_dios]]` | 2026-08-04 |
 | `[[etos]]` | `[[ethos]]` | 2026-08-04 |
-| `[[sacramento_de_la_penitencia]]` | `[[penitencia]]` | 2026-08-04 |
+| `[[sacramento_de_la_reconciliación]]` | `[[penitencia]]` | 2026-08-04 |
 | `[[iglesia_sacramento_universal]]` | `[[iglesia_como_sacramento_universal_de_salvación]]` | 2026-08-04 |
 
 **Correcciones (3):**
@@ -5466,3 +5466,9 @@ Comentario teológico a 2 Samuel (Brazos, 2015). Índice raw auditado (30/30 arc
 - **Progreso de resúmenes regenerado** (`scripts/actualizar_progreso_resumenes.py`): 1Pet 9/9, JTW 15/15, CathBr 15/15, LSC 10/10, EuchBr 7/8, IST 0/17, ImC 0/7, corazon 5/10.
 - **Inventario de duplicados** creado en `wiki/auditoría/duplicados.md`: 22 pares pendientes (17 conceptos + 5 personas).
 - El detector (`detectar_huerfanos.py`) arroja **3713 huérfanos únicos**; no se regeneró el archivo completo en esta sesión (coste alto). Pendiente para la siguiente.
+
+## Actualización 2026-10-31 — artículos descriptivos de 6 fuentes
+
+- **Creados** en `wiki/documentos/`: [[primera_carta_de_pedro]] (1Pet), [[introduccion_a_la_teologia_sacramental]] (IST), [[la_imitacion_de_cristo]] (ImC), [[catholicism_barron]] (CathBr), [[eucharist_barron]] (EuchBr) y [[letter_to_a_suffering_church]] (LSC). JTW y corazon ya tenían documento (`joy_to_the_world`, `analisis_cultural/corazon_de_amicis`).
+- **Huérfano sembrado (1):** `crisis_de_los_abusos` — forward reference desde el documento LSC; ya venía siendo enlazado por los resúmenes de esa fuente. Candidato a artículo propio (distinto de [[abuso_sexual_de_menores]]: nombra la crisis eclesial en su conjunto).
+- **Retargets aplicados al redactar:** `[[pablo]]`→[[san_pablo]], `[[banquete]]`→[[comida]] (evita dos huérfanos innecesarios).

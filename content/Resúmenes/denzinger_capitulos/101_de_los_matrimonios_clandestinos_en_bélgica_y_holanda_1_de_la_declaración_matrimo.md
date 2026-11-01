@@ -18,7 +18,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[matrimonios_mixtos]] — matrimonios entre católicos y herejes
 - [[confirmación]] — ministro de la confirmación
 - [[profesión_de_fe]] — profesión de fe prescrita a los orientales
-- [[sacramento_de_la_penitencia]] — obligación de no preguntar el nombre del cómplice
+- [[sacramento_de_la_reconciliación]] — obligación de no preguntar el nombre del cómplice
 - [[sigilo_sacramental]] — violación del sigilo
 - [[usura]] — contrato de préstamo
 - [[bautismo]] — bautismo de los niños judíos

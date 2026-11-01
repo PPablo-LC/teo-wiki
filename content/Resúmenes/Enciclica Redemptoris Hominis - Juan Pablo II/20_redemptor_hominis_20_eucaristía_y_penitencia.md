@@ -16,7 +16,7 @@ tags: ["resumen", "redemptor hominis"]
 - [[sacrificio_de_cristo|sacrificio redentor]] — renovado por voluntad de Cristo en cada Eucaristía
 - [[sacerdocio_común_de_los_fieles|sacerdocio regio]] — participación en la devolución del mundo al Padre
 - [[conversión]] — «arrepentíos y creed en el Evangelio»: condición de plena eficacia eucarística
-- [[sacramento_de_la_penitencia|confesión individual]] — defensa del derecho del alma al encuentro personal con Cristo que perdona
+- [[sacramento_de_la_reconciliación|confesión individual]] — defensa del derecho del alma al encuentro personal con Cristo que perdona
 
 ## Contenido
 

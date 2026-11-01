@@ -122,11 +122,11 @@ El Reino de Dios en San Francisco es experiencia de comunión trinitaria y meta 
 
 ## Relaciones doctrinales
 
-El Reino de Dios se relaciona con la [[iglesia]] (su germen en la tierra), la [[escatología]] (su consumación), las [[bienaventuranzas]] (su carta magna), la [[oración]] (especialmente el [[padrenuestro]]), y la [[misión_de_la_iglesia]]. [[jesucristo]] es el centro del Reino.
+El Reino de Dios se relaciona con la [[iglesia]] (su germen en la tierra), la [[escatología]] (su consumación), las [[bienaventuranzas]] (su carta magna), la [[oración]] (especialmente el [[padre_nuestro]]), y la [[misión_de_la_iglesia]]. [[jesucristo]] es el centro del Reino.
 
 ## Ver también
 
-[[iglesia]], [[escatología]], [[bienaventuranzas]], [[padrenuestro]], [[misión_de_la_iglesia]], [[jesucristo]]
+[[iglesia]], [[escatología]], [[bienaventuranzas]], [[padre_nuestro]], [[misión_de_la_iglesia]], [[jesucristo]]
 
 ## Referencias
 

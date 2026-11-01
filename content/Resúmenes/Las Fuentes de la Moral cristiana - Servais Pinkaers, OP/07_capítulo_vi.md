@@ -23,7 +23,7 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 - [[don_de_fortaleza]] — don que sostiene a los perseguidos
 - [[don_de_consejo]] — don ordenado a la paz del corazón
 - [[don_de_sabiduría]] — cumplimiento de los limpios de corazón
-- [[padrenuestro]] — siete peticiones correlativas a grados y dones
+- [[padre_nuestro]] — siete peticiones correlativas a grados y dones
 - [[san_agustín]] — intérprete del Sermón como ley de libertad
 - [[catequesis]] — redescubrimiento de la catequesis moral primitiva
 - [[exégesis_patrística]] — método de lectura del Sermón en los Padres
@@ -97,7 +97,7 @@ La correspondencia agustiniana es: pobreza de espíritu → temor de Dios; manse
 
 #### 5. Las siete peticiones del Padrenuestro
 
-El [[padrenuestro]] presenta siete peticiones que san Agustín correlaciona con los grados de las bienaventuranzas y con los dones: santificado sea tu nombre, venga tu reino, hágase tu voluntad, el pan de cada día, el perdón de las deudas, la tentación y la liberación del mal. Las tres primeras se refieren a la vida eterna y las cuatro siguientes a las necesidades presentes.
+El [[padre_nuestro]] presenta siete peticiones que san Agustín correlaciona con los grados de las bienaventuranzas y con los dones: santificado sea tu nombre, venga tu reino, hágase tu voluntad, el pan de cada día, el perdón de las deudas, la tentación y la liberación del mal. Las tres primeras se refieren a la vida eterna y las cuatro siguientes a las necesidades presentes.
 
 #### La prolongación histórica
 

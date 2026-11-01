@@ -47,11 +47,11 @@ Piamón también distingue entre cenobio (comunidad) y monasterio (morada): «el
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[obediencia]], la [[vida_consagrada]], la [[perfeccion_cristiana]], la [[cenobita_y_ermitaño]], la [[vida_común]] y la [[consejos_evangélicos]].
+Se relaciona con la [[obediencia]], la [[vida_consagrada]], la [[perfección_cristiana]], la [[cenobita_y_ermitaño]], la [[vida_común]] y la [[consejos_evangélicos]].
 
 ## Ver também
 
-[[cenobita_y_ermitaño]], [[obediencia]], [[vida_consagrada]], [[perfeccion_cristiana]], [[vida_común]]
+[[cenobita_y_ermitaño]], [[obediencia]], [[vida_consagrada]], [[perfección_cristiana]], [[vida_común]]
 
 ## Referencias
 

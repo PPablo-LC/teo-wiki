@@ -25,7 +25,7 @@ La teología moral católica se funda en:
 
 El Concilio Vaticano II (Optatam Totius 16) pidió una renovación de la teología moral que la hiciera más bíblica y patrística, superando un enfoque puramente casuístico.
 
-[[san_juan_crisostomo]] es uno de los Padres que más cultivó la predicación moral, aplicando la Escritura a la vida cotidiana.
+[[san_juan_crisóstomo]] es uno de los Padres que más cultivó la predicación moral, aplicando la Escritura a la vida cotidiana.
 
 ## Perspectivas por fuente
 

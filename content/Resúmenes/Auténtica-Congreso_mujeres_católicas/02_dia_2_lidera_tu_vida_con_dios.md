@@ -12,7 +12,7 @@ tags: ["resumen", "espiritualidad", "mujer", "teología_del_cuerpo", "sanación"
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[teologia_del_cuerpo]] — enseñanza de Juan Pablo II sobre el cuerpo y la sexualidad
+- [[teología_del_cuerpo]] — enseñanza de Juan Pablo II sobre el cuerpo y la sexualidad
 - [[comunión]] — unión profunda con Dios y con los demás, diseñada para la mujer
 - [[santísima_trinidad]] — Dios como comunión de amor
 - [[imagen_de_dios]] — la mujer como imagen de Dios en su capacidad de comunión

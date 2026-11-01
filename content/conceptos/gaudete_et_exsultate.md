@@ -49,10 +49,10 @@ GE §34-36: El neognosticismo reduce la fe a una serie de conceptos; el neopelag
 
 ## Relaciones doctrinales
 
-Se vincula con la [[vocación_a_la_santidad]], la [[santidad_cristiana]], la [[vocación_cristiana]], el [[discernimiento_evangélico]], el [[combate_espiritual]], el [[neo_gnosticismo]], el [[neo_pelagianismo]] y la [[perfeccion_cristiana]].
+Se vincula con la [[vocación_a_la_santidad]], la [[santidad_cristiana]], la [[vocación_cristiana]], el [[discernimiento_evangélico]], el [[combate_espiritual]], el [[neo-gnosticismo]], el [[neo-pelagianismo]] y la [[perfección_cristiana]].
 
 ## Ver también
-[[vocación_a_la_santidad]], [[santidad_cristiana]], [[neo_gnosticismo]], [[neo_pelagianismo]]
+[[vocación_a_la_santidad]], [[santidad_cristiana]], [[neo-gnosticismo]], [[neo-pelagianismo]]
 
 ## Referencias
 - Francisco, *Gaudete et Exsultate* (2018)

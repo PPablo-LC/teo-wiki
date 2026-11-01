@@ -16,7 +16,7 @@ tags: ["resumen", "normae_de_gravioribus_delictis", "derecho_canónico", "delict
 - [[prescripción_de_la_acción_criminal]] — Ampliación a 20 años
 - [[delitos_contra_la_fe]] — Apostasía, herejía y cisma
 - [[eucaristía]] — Delitos contra la santidad del sacramento eucarístico
-- [[sacramento_penitencia]] — Delitos contra la santidad del sacramento de la Reconciliación
+- [[sacramento_de_la_reconciliación]] — Delitos contra la santidad del sacramento de la Reconciliación
 - [[ordenación_sagrada]] — Atentada ordenación de una mujer
 - [[delitos_contra_la_moral]] — Equiparación del menor y pornografía infantil
 - [[secreto_sacramental]] — Violación indirecta del sigilo

@@ -23,7 +23,7 @@ tags: ["resumen", "formación religiosa de jóvenes -- tihamer toth", "educació
 - [[dignidad_humana]] — conciencia de la dignidad de toda persona humana y de su cuerpo
 - [[pudor]] — guarda del pudor en la educación de los hijos
 - [[oración]] — recurso frecuente a la oración y a los sacramentos
-- [[sacramento_de_la_penitencia]] — recurso frecuente a los sacramentos de la Penitencia y de la Eucaristía
+- [[sacramento_de_la_reconciliación]] — recurso frecuente a los sacramentos de la Penitencia y de la Eucaristía
 - [[eucaristía]] — recurso frecuente a los sacramentos de la Penitencia y de la Eucaristía
 - [[sacramento_de_la_reconciliación]] — ayuda necesaria y sobrenaturalmente eficaz
 - [[dirección_espiritual]] — guía preciosa para la iluminación progresiva de las etapas de maduración

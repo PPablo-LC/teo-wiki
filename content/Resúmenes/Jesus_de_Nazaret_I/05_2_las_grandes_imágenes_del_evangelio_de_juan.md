@@ -15,7 +15,7 @@ tags: ["resumen", "jesus de nazaret i"]
 - [[cristología_joánica]] — la divinidad de Jesús sin velos
 - [[agua_viva]] — don del Espíritu; sed de vida plena
 - [[eucaristía]] — sermón del pan de vida (Jn 6); sangre y agua
-- [[pan_eucaristico]] — el verdadero pan del cielo
+- [[pan_eucarístico]] — el verdadero pan del cielo
 - [[logos]] — Prólogo joánico; la Ley hecha Persona
 - [[vid_verdadera]] — permanecer en Cristo, fructificar
 - [[buen_pastor]] — entrega de la vida por las ovejas

@@ -3,7 +3,7 @@ type: Persona
 title: "San José Rafael Kalinowski"
 description: "Carmelita polaco (1835-1907), «mártir del confesionario»: deportado a Siberia tras la insurrección de 1863, restauró la Provincia carmelita de Polonia y trabajó por la unidad de las Iglesias."
 tags: ["hagiografía", "carmelo", "persecución", "santidad", "ecumenismo"]
-timestamp: 2026-09-26
+timestamp: 2026-10-31
 ---
 
 # San José Rafael Kalinowski
@@ -17,7 +17,8 @@ timestamp: 2026-09-26
 Carmelita descalzo polaco (1835-1907), condenado a muerte y
 deportado a Siberia por su participación en la insurrección de
 enero de 1863. Murió en Wadowice como «mártir del
-confesionario».
+confesionario». Beatificado por Juan Pablo II en 1983 y
+canonizado en 1991; su fiesta se celebra el 19 de noviembre.
 
 Su santidad no le viene de una vida religiosa heredada, sino de
 una herida: la de una vocación que creyó perdida y que Dios
@@ -189,7 +190,10 @@ En 1874 fue liberado definitivamente, pero le devolvieron el
 pasaporte con la prohibición de residir en Lituania. Tenía
 treinta y nueve años. Para mantenerse, y también por su pasión por
 la educación, aceptó el encargo de preceptor del pequeño príncipe
-Augusto Czartoryski, cuya familia vivía exiliada en París.
+Augusto Czartoryski, cuya familia vivía exiliada en París. En 1877 se
+separaron; en 1883 Augusto recibió de manos de san Juan Bosco el
+hábito de novicio salesiano y murió joven, con virtudes heroicas
+reconocidas por Juan Pablo II.
 
 Ahí se revela cómo entendía el papel de educador. En una carta a un
 amigo que quería consagrarse a lo mismo, se opuso a que lo

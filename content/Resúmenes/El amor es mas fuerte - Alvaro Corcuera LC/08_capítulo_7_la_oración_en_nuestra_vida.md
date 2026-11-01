@@ -12,7 +12,7 @@ tags: ["resumen", "el amor es mas fuerte - alvaro corcuera lc"]
 
 ## Conceptos básicos referenciados
 
-[[oración]], [[padrenuestro]], [[virtudes_teologales]], [[fe]], [[esperanza]], [[caridad]], [[gratitud]], [[humildad]], [[confianza]], [[eucaristía]], [[confesión]], [[silencio]], [[maría]], [[juan_pablo_ii]], [[benedicto_xvi]], [[misericordia_de_dios]], [[sentido_de_eternidad]], [[alvaro_corcuera]], [[espiritualidad_legionaria]]
+[[oración]], [[padre_nuestro]], [[virtudes_teologales]], [[fe]], [[esperanza]], [[caridad]], [[gratitud]], [[humildad]], [[confianza]], [[eucaristía]], [[confesión]], [[silencio]], [[maría]], [[juan_pablo_ii]], [[benedicto_xvi]], [[misericordia_de_dios]], [[sentido_de_eternidad]], [[alvaro_corcuera]], [[espiritualidad_legionaria]]
 
 ## Contenido
 

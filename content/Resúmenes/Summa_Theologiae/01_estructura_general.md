@@ -47,7 +47,7 @@ Trata cada virtud y vicio de modo particular, así como los estados de vida. Inc
 
 ### Tercera parte (Tertia)
 
-Consagrada al [[jesucristo]] Salvador, estudia la [[encarnación]] y unión hipostática (q.1–6), las cualidades de Cristo (q.7–26), su nacimiento (q.27–36), su vida pública (q.37–45), su [[pasión]] [[muerte]] y [[resurrección]] (q.46–59), y los [[sacramentos]] en general y en particular: [[bautismo]] (q.66–71), [[confirmación]] (q.72), [[eucaristía]] (q.73–83), y [[sacramento_de_penitencia]] (q.84–90).
+Consagrada al [[jesucristo]] Salvador, estudia la [[encarnación]] y unión hipostática (q.1–6), las cualidades de Cristo (q.7–26), su nacimiento (q.27–36), su vida pública (q.37–45), su [[pasión]] [[muerte]] y [[resurrección]] (q.46–59), y los [[sacramentos]] en general y en particular: [[bautismo]] (q.66–71), [[confirmación]] (q.72), [[eucaristía]] (q.73–83), y [[sacramento_de_la_reconciliación]] (q.84–90).
 
 ### Versión en Markdown
 

@@ -16,6 +16,8 @@ description: "Tema teológico central del Evangelio de Juan que presenta a Jesú
 
 Tema teológico central del Evangelio de Juan que presenta a Jesús como el verdadero pan del cielo (Jn 6,35.51), cumplimiento del maná del desierto y alimento de vida eterna. Incluye la multiplicación de los panes como signo mesiánico y el gran sermón eucarístico de la sinagoga de Cafarnaún.
 
+En su sentido litúrgico, el pan eucarístico (u hostia) es el pan de trigo, cocido al horno, sin levadura, que se consagra en la [[eucaristía|Santa Misa]] para convertirse en el Cuerpo de [[jesucristo|Cristo]]. Ambos sentidos se reclaman mutuamente: el discurso joánico del pan de vida fundamenta la materia del sacramento, y la materia sacramental realiza históricamente la promesa de Cafarnaún.
+
 ## Desarrollo doctrinal
 
 El tema del pan en Juan se sitúa en la comparación entre Moisés y Jesús: como Moisés dio maná en el desierto, Jesús da el pan verdadero del cielo. La multiplicación de los panes (Jn 6,1-15) es el signo eminente de la misión mesiánica, pero al mismo tiempo una encrucijada: a partir de ella, el camino de Jesús se encamina claramente hacia la cruz.
@@ -38,19 +40,24 @@ Benedicto XVI desarrolla el tema del pan en *Jesús de Nazaret I* (Cap. 4, «Las
 
 **Las bodas de Caná como anticipación.** El milagro de Caná (Jn 2,1-12) es una anticipación de la «hora» de Jesús: la sobreabundancia de vino es signo de que «ha comenzado la fiesta de Dios con la humanidad» (JdN_I). El agua de la purificación ritual se convierte en vino: «El don de Dios, que se entrega a sí mismo, viene ahora en ayuda de los esfuerzos del hombre» (JdN_I). Filón de Alejandría relaciona la teología del Logos con Melquisedec, que presentó pan y vino: «En Melquisedec el Logos es quien actúa y nos ofrece los dones esenciales» (JdN_I).
 
+### Según la Institutio Generalis Missalis Romani (IGMR, 2000)
+
+El párrafo sobre la composición del pan para la Eucaristía se conforma más al [[código_de_derecho_canónico|canon 924]], con la adición de los requisitos de que el pan debe ser de trigo cocido al horno (§320). La Conferencia Episcopal emite juicio sobre los materiales; se da preferencia a materiales irrompibles e incorruptibles (§328).
+
 ## Distinciones importantes
 
 - Maná (pan terrenal) vs. pan del cielo (Jesús): promesa vs. cumplimiento
 - Encarnación (Logos hecho carne) vs. Eucaristía (carne entregada): inseparables en Juan
 - *Bíos* (vida biológica alimentada con pan) vs. *zoé* (vida eterna alimentada con el pan de Dios)
+- Sentido joánico (pan de vida como misterio de fe) vs. sentido litúrgico (materia válida del sacramento: trigo, cocido, sin levadura)
 
 ## Relaciones doctrinales
 
-Se relaciona con [[eucaristía]], [[agua_viva]], [[logos]], [[encarnación]], [[pasión_de_cristo]], [[melquisedec]], [[bodas_de_caná]], [[multiplicación_de_los_panes]].
+Se relaciona con [[eucaristía]], [[agua_viva]], [[logos]], [[encarnación]], [[pasión_de_cristo]], [[melquisedec]], [[bodas_de_caná]], [[multiplicación_de_los_panes]]; en el orden litúrgico, con los [[vasos_sagrados]] y la [[comunión]].
 
 ## Ver también
 
-[[eucaristía]], [[agua_viva]], [[vid_verdadera]], [[logos]], [[melquisedec]]
+[[eucaristía]], [[agua_viva]], [[vid_verdadera]], [[logos]], [[melquisedec]], [[vasos_sagrados]], [[comunión]]
 
 ## Referencias
 
@@ -61,3 +68,4 @@ Se relaciona con [[eucaristía]], [[agua_viva]], [[logos]], [[encarnación]], [[
 - 1 Co 10,3-4 (roca espiritual = Cristo)
 - 1 Co 15,45 (último Adán = espíritu)
 - [JdN_I, Cap. 4]
+- IGMR (2000), §320, §328; CIC c. 924

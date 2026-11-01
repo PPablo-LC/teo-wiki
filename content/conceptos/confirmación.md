@@ -126,6 +126,10 @@ PS presenta la confirmación como el sacramento que fortalece la gracia recibida
 
 **Inocencio III** (D-419) enseñó que la confirmación —que por otro nombre se llama crismación de la frente— designa la imposición de las manos y solo debe ser conferida por el obispo, pues de solos los Apóstoles se lee que daban el Espíritu Santo por la imposición de las manos (Act 8,14ss). El **I Concilio de Lyon** (1245, D-450) reiteró que solo los obispos signen con el crisma en la frente a los bautizados, y que cada obispo puede consagrar el crisma el día de la Cena del Señor.
 
+**Clemente VI** (1351), Carta *Super quibusdam* a Consolador, Católicon de los armenios: preguntó si se cree que el crisma no puede ser consagrado sino por un obispo (D-571), que la confirmación no puede ser administrada de oficio y ordinariamente sino por el obispo (D-572), que solo el Romano Pontífice puede encomendar su administración a presbíteros (D-573), y que quienes han sido confirmados por sacerdotes sin comisión papal deben ser confirmados de nuevo por el obispo (D-574).
+
+**Concilio de Florencia** (1439, D-697), Bula *Exultate Deo*: enseñó que la materia de la confirmación es el crisma (aceite y bálsamo bendecido por el obispo). La forma es: «Te signo con el signo de la cruz y confirmo con el crisma de la salud, en el nombre del Padre, y del Hijo, y del Espíritu Santo». El ministro ordinario es el obispo; solo por dispensa de la Sede Apostólica «con causa razonable y muy urgente» puede un simple sacerdote administrar este sacramento. El efecto es que «se da el Espíritu Santo para fortalecer», como a los Apóstoles en Pentecostés, para que el cristiano confiese valerosamente el nombre de Cristo; por eso el confirmando es ungido en la frente, «donde está el asiento de la vergüenza».
+
 **Concilio de Trento** (Sesión VII, D-871-D-873): promulgó 3 cánones sobre la confirmación. Definió que es verdadero y propio sacramento, no ceremonia ociosa (D-871, Can. 1); el crisma tiene verdadera virtud espiritual (D-872, Can. 2); el ministro ordinario es solo el obispo (D-873, Can. 3).
 
 - [D-871-D-873]
@@ -139,6 +143,10 @@ PS presenta la confirmación como el sacramento que fortalece la gracia recibida
 - **Bautismo vs. confirmación**: bautismo da nacimiento, confirmación da mayoría de edad espiritual
 - **Carácter de confirmación**: segundo grado de la participación sacerdotal, después del bautismo y antes del orden
 - **Como sacramento de vivos**: de suyo aumenta la gracia, pero puede darla por accidente
+- **Ministro ordinario**: el obispo.
+- **Ministro extraordinario**: presbítero con delegación del Romano Pontífice.
+- **Sacramento irrepetible**: la confirmación imprime carácter sacramental y no puede repetirse.
+- **Necesidad de la confirmación para la plena iniciación cristiana**: no es absolutamente necesaria para la salvación, como el bautismo, pero sí muy conveniente; omitirla sin grave causa es pecado venial.
 
 ## Relaciones doctrinales
 
@@ -146,6 +154,7 @@ PS presenta la confirmación como el sacramento que fortalece la gracia recibida
 - Confiere fortaleza para la profesión de la [[fe]]
 - Aumenta la [[gracia_santificante]]
 - Se relaciona con el [[don_de_fortaleza]] y la [[virtud_de_la_fortaleza]]
+- Culmina la [[iniciación_cristiana]] con el [[bautismo]] y la [[eucaristía]], y confiere una efusión especial del [[espíritu_santo]]
 
 
 ## Analizado para
@@ -160,6 +169,8 @@ PS presenta la confirmación como el sacramento que fortalece la gracia recibida
 - [[gracia_santificante]]
 - [[virtud_de_la_fortaleza]]
 - [[don_de_fortaleza]]
+- [[iniciación_cristiana]]
+- [[espíritu_santo]]
 - [[jorge_loring]]
 
 ## Referencias
@@ -172,3 +183,5 @@ PS presenta la confirmación como el sacramento que fortalece la gracia recibida
 - Hechos de los Apóstoles 2
 - Santo Tomás, S.Th., III, 63, 3 ad 2
 - SmTh, IIIª q.72 (arts. 1-12)
+- D-571–574 (Clemente VI, Carta *Super quibusdam*)
+- D-697 (Concilio de Florencia, *Exultate Deo*)

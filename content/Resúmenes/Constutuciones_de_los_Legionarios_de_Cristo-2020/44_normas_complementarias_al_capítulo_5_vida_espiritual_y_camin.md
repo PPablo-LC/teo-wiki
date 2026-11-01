@@ -16,7 +16,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 - [[prácticas_de_vida_espiritual]]
 - [[ejercicios_espirituales]]
 - [[oración_mental]]
-- [[sacramento_de_la_penitencia]]
+- [[sacramento_de_la_reconciliación]]
 - [[diálogo_personal_con_el_superior]]
 
 ## Contenido

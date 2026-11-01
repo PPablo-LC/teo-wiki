@@ -18,7 +18,7 @@ tags: ["resumen", "derecho_canónico", "delitos_canónicos"]
 - [[juicio_canónico]] — el derecho a juzgar a los Padres Cardenales, Patriarcas, Legados y Obispos.
 - [[sigilo_sacramental]] — el delito de violación indirecta del sigilo y de la captación maliciosa de la confesión.
 - [[eucaristía]] — los delitos contra la Eucaristía (atentado a la acción litúrgica y simulación).
-- [[sacramento_de_la_penitencia]] — los delitos contra el sacramento (absolución inválida, simulación).
+- [[sacramento_de_la_reconciliación]] — los delitos contra el sacramento (absolución inválida, simulación).
 - [[orden_sacramental]] — el delito de atentada ordenación sagrada de una mujer.
 - [[herejía]] — delito contra la fe, junto con la apostasía y el cisma.
 - [[apostasía]] — delito contra la fe reservado a la Congregación.

@@ -16,7 +16,7 @@ tags: ["resumen", "sexualidad humana verdad y significado"]
 - [[educación_a_la_castidad]] — la dimensión moral siempre presente
 - [[persona_humana]] — todo niño, persona única e irrepetible
 - [[subsidiariedad]] — la escuela asiste y completa, no sustituye
-- [[sacramento_de_la_penitencia]] — ayuda sobrenaturalmente eficaz
+- [[sacramento_de_la_reconciliación]] — ayuda sobrenaturalmente eficaz
 
 ## Contenido
 

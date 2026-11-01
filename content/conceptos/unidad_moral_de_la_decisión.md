@@ -41,7 +41,7 @@ En materia indivisible habrán tantas acciones mortales cuantos actos concretos 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[distinción_específica_y_numérica_de_pecados]], [[pecado]], [[pecado_mortal]], [[pecado_venial]], [[intención]], [[sacramento_de_la_penitencia]].
+Se relaciona con [[distinción_específica_y_numérica_de_pecados]], [[pecado]], [[pecado_mortal]], [[pecado_venial]], [[intención]], [[sacramento_de_la_reconciliación]].
 
 ## Ver también
 

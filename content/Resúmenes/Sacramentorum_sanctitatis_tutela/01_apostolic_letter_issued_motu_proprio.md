@@ -18,14 +18,14 @@ tags: ["resumen", "sacramentorum_sanctitatis_tutela", "derecho_canónico", "deli
 - [[normas_procesales]] — Segunda parte: procedimiento judicial y extrajudicial
 - [[prescripción_de_la_acción_criminal]] — Extinción de la acción criminal por trascurso del tiempo
 - [[secreto_sacramental]] — Inviolabilidad del sigilo de confesión
-- [[sacramento_penitencia]] — Delitos contra la santidad del sacramento de la Reconciliación
+- [[sacramento_de_la_reconciliación]] — Delitos contra la santidad del sacramento de la Reconciliación
 - [[eucaristía]] — Delitos contra la santidad del sacramento eucarístico
 
 ## Contenido
 
 ### Naturaleza y finalidad del documento
 
-El Motu proprio *Sacramentorum Sanctitatis Tutela* de Juan Pablo II, promulgado el 30 de abril de 2001, establece las *Normas de gravioribus delictis* reservados a la Congregación para la Doctrina de la Fe (CDF). Su finalidad es tutelar la santidad de los sacramentos —especialmente la [[eucaristía]] y la [[sacramento_penitencia]]— y proteger a los fieles, procurando la salvación de almas como «suprema ley en la Iglesia».
+El Motu proprio *Sacramentorum Sanctitatis Tutela* de Juan Pablo II, promulgado el 30 de abril de 2001, establece las *Normas de gravioribus delictis* reservados a la Congregación para la Doctrina de la Fe (CDF). Su finalidad es tutelar la santidad de los sacramentos —especialmente la [[eucaristía]] y la [[sacramento_de_la_reconciliación]]— y proteger a los fieles, procurando la salvación de almas como «suprema ley en la Iglesia».
 
 ### Antecedentes históricos
 

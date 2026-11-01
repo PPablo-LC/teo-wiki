@@ -26,7 +26,7 @@ Queremón es conferenciante de dos de las Conferencias de Juan Casiano: la Undé
 
 ## Ver también
 
-[[nesteros]], [[jose_anacoreta]], [[perfeccion_cristiana]], [[caridad]], [[castidad]], [[casiano]]
+[[nesteros]], [[jose_anacoreta]], [[perfección_cristiana]], [[caridad]], [[castidad]], [[casiano]]
 
 ## Referencias
 

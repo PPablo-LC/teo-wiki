@@ -37,7 +37,7 @@ El Catecismo se refiere a esta parábola en el contexto del perdón de las ofens
 
 ## Relaciones doctrinales
 
-Se relaciona con [[misericordia]], [[perdón]], [[justicia]], [[parábola_del_hijo_pródigo]], [[pecado]], [[reconciliación]], [[padrenuestro]]
+Se relaciona con [[misericordia]], [[perdón]], [[justicia]], [[parábola_del_hijo_pródigo]], [[pecado]], [[reconciliación]], [[padre_nuestro]]
 
 ## Ver también
 

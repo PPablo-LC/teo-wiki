@@ -35,11 +35,11 @@ El cristiano en cuanto sujeto moral no es un sujeto indiferente a quien vincula 
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[libertad_humana]], la [[filiacion_divina]], la [[imagen_de_dios]], la [[gracia_santificante]] y la [[libertad_de_indiferencia]].
+Se relaciona con la [[libertad_humana]], la [[filiación_divina]], la [[imagen_de_dios]], la [[gracia_santificante]] y la [[libertad_de_indiferencia]].
 
 ## Ver también
 
-[[libertad_humana]], [[filiacion_divina]], [[imagen_de_dios]], [[gracia_santificante]], [[libertad_de_indiferencia]]
+[[libertad_humana]], [[filiación_divina]], [[imagen_de_dios]], [[gracia_santificante]], [[libertad_de_indiferencia]]
 
 ## Referencias
 

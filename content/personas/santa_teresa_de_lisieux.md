@@ -36,7 +36,7 @@ Juan Pablo II la proclamó Doctora de la Iglesia el 19 de octubre de 1997, desta
 
 ## Relaciones
 
-[[infancia_espiritual]], [[pequeña_vía]], [[confianza_en_dios]], [[abandono_en_dios]], [[humildad]], [[amor_puro]], [[santidad]], [[oración_de_abandono]], [[perfeccion_cristiana]], [[misericordia]], [[adoración_eucarística]], [[hora_santa]]
+[[infancia_espiritual]], [[pequeña_vía]], [[confianza_en_dios]], [[abandono_en_dios]], [[humildad]], [[amor_puro]], [[santidad]], [[oración_de_abandono]], [[perfección_cristiana]], [[misericordia]], [[adoración_eucarística]], [[hora_santa]]
 
 ## Perspectivas por fuente
 
@@ -88,7 +88,7 @@ amo!» — título y estribillo de su poema *Morir de amor*.
 
 ## Ver también
 
-[[infancia_espiritual]], [[pequeña_vía]], [[confianza_en_dios]], [[oración_de_abandono]], [[perfeccion_cristiana]], [[san_juan_de_la_cruz]], [[hora_santa]], [[adoración_eucarística]], [[sanación]], [[vocación_universal_a_la_santidad]]
+[[infancia_espiritual]], [[pequeña_vía]], [[confianza_en_dios]], [[oración_de_abandono]], [[perfección_cristiana]], [[san_juan_de_la_cruz]], [[hora_santa]], [[adoración_eucarística]], [[sanación]], [[vocación_universal_a_la_santidad]]
 
 ## Referencias
 

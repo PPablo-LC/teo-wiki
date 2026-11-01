@@ -24,7 +24,7 @@ La mención del pecado en el anuncio cristiano no es un tema primario, sino indi
 
 El que vive en Cristo está muerto al pecado: «consideraos muertos al pecado, pero vivos para Dios en Cristo Jesús. Por lo tanto, que no reine el pecado en vuestro cuerpo mortal» (Rm 6, 11-12). Entre la vida del hombre en Cristo y el pecado existe una total incompatibilidad. El pecado se opone a la santidad de Dios y a la vida en Cristo, supone un «no» del hombre a la llamada divina, es el alejamiento de Dios que en Cristo se ha acercado y se acerca a nosotros. Por eso la lucha contra el pecado constituye la primera, radical e inmediata exigencia de la llamada divina a la santidad (Ele_Xto_Stos, Cap. III, §3a).
 
-Los que siguen a Cristo no pecan: pertenece a la misma realidad de la [[filiacion_divina]] la ausencia del [[pecado]]; pecar supone rechazar la filiación divina y herir el amor de Dios que la otorga como un don. Estas ideas no se oponen al hecho de que en esta vida todos, incluso los cristianos, son pecadores, ni al hecho de que Dios muchas veces realiza la santidad en medio de la fragilidad personal; solo pretenden subrayar que una característica esencial de la vida cristiana es no contentarse con el propio pecado y, por tanto, esforzarse por superarlo (Ele_Xto_Stos, Cap. III, §3a).
+Los que siguen a Cristo no pecan: pertenece a la misma realidad de la [[filiación_divina]] la ausencia del [[pecado]]; pecar supone rechazar la filiación divina y herir el amor de Dios que la otorga como un don. Estas ideas no se oponen al hecho de que en esta vida todos, incluso los cristianos, son pecadores, ni al hecho de que Dios muchas veces realiza la santidad en medio de la fragilidad personal; solo pretenden subrayar que una característica esencial de la vida cristiana es no contentarse con el propio pecado y, por tanto, esforzarse por superarlo (Ele_Xto_Stos, Cap. III, §3a).
 
 ## Distinciones importantes
 
@@ -33,11 +33,11 @@ Los que siguen a Cristo no pecan: pertenece a la misma realidad de la [[filiacio
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[filiacion_divina]], el [[pecado]], la [[unión_con_cristo]], la [[santidad_cristiana]], la [[lucha_espiritual]] y el [[amor_a_dios]].
+Se relaciona con la [[filiación_divina]], el [[pecado]], la [[unión_con_cristo]], la [[santidad_cristiana]], la [[lucha_espiritual]] y el [[amor_a_dios]].
 
 ## Ver también
 
-[[filiacion_divina]], [[pecado]], [[unión_con_cristo]], [[santidad_cristiana]], [[lucha_espiritual]]
+[[filiación_divina]], [[pecado]], [[unión_con_cristo]], [[santidad_cristiana]], [[lucha_espiritual]]
 
 ## Referencias
 

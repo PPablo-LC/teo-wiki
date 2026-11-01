@@ -23,7 +23,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 - [[paciencia_cristiana]] — Virtud que se revela en la adversidad
 - [[oración]] — Vida de contemplación y adoración continua
 - [[virtudes]] — Virtudes teologales y cardinales como fundamento de la vida espiritual
-- [[sacramento_de_penitencia]] — Confesión y enmienda de los pecados
+- [[sacramento_de_la_reconciliación]] — Confesión y enmienda de los pecados
 - [[jerarquía_eclesiástica]] — Respeto a los sacerdotes por su ministerio
 
 ## Contenido

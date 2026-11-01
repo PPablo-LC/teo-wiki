@@ -42,7 +42,7 @@ El CEC desarrolla cada petición del Padrenuestro en los nn. 2803-2865. Las tres
 
 ## Relaciones doctrinales
 
-- [[padrenuestro]]
+- [[padre_nuestro]]
 - [[oracion_pura]]
 - [[voluntad_de_dios]]
 - [[reino_de_dios]]
@@ -51,7 +51,7 @@ El CEC desarrolla cada petición del Padrenuestro en los nn. 2803-2865. Las tres
 
 ## Ver también
 
-- [[padrenuestro]]
+- [[padre_nuestro]]
 - [[oracion_pura]]
 
 ## Referencias

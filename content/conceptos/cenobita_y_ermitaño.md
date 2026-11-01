@@ -57,11 +57,11 @@ San Benito completa la clasificación casianiana añadiendo los dos géneros fal
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[generos_de_monjes]], la [[obediencia]], la [[perfeccion_cristiana]], la [[contemplación_infusa]], la [[vía_unitiva]] y la [[vida_consagrada]].
+Se relaciona con la [[generos_de_monjes]], la [[obediencia]], la [[perfección_cristiana]], la [[contemplación_infusa]], la [[vía_unitiva]] y la [[vida_consagrada]].
 
 ## Ver também
 
-[[generos_de_monjes]], [[obediencia]], [[perfeccion_cristiana]], [[contemplación_infusa]], [[vida_consagrada]]
+[[generos_de_monjes]], [[obediencia]], [[perfección_cristiana]], [[contemplación_infusa]], [[vida_consagrada]]
 
 ## Referencias
 

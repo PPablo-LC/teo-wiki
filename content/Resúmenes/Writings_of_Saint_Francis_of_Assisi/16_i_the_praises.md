@@ -13,7 +13,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 ## Conceptos básicos referenciados
 
 - [[oración]] — Paráfrasis del Padrenuestro como centro de la oración franciscana
-- [[padrenuestro]] — Oración dominical reinterpretada con profundidad teológica
+- [[padre_nuestro]] — Oración dominical reinterpretada con profundidad teológica
 - [[adoración]] — Adoración a la Santísima Trinidad
 - [[virgen_maría]] — Intercesión de la Virgen y de todos los santos
 - [[eucaristía]] — Referencia a Cristo como "pan nuestro de cada día"
@@ -28,7 +28,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ### Autenticidad
 
-Este opúsculo se compone de dos partes: una paráfrasis del [[padrenuestro]] y las Alabanzas propiamente dichas. Se encuentra en todas las colecciones tempranas de manuscritos de los escritos de San Francisco. Los manuscritos son unánimes en atribuir toda la obra a San Francisco, con la excepción de un solo códice que atribuye la paternidad de la paráfrasis al Beato Hermano Egidio. La edición de Quaracchi se basa en los manuscritos de Assisi, San Antonio e Isidoro.
+Este opúsculo se compone de dos partes: una paráfrasis del [[padre_nuestro]] y las Alabanzas propiamente dichas. Se encuentra en todas las colecciones tempranas de manuscritos de los escritos de San Francisco. Los manuscritos son unánimes en atribuir toda la obra a San Francisco, con la excepción de un solo códice que atribuye la paternidad de la paráfrasis al Beato Hermano Egidio. La edición de Quaracchi se basa en los manuscritos de Assisi, San Antonio e Isidoro.
 
 ### Contenido de las Alabanzas
 

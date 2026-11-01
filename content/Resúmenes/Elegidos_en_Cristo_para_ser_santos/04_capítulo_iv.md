@@ -32,7 +32,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "libertad", "antropolog�
 - [[santificación]] — proceso entre la justificación inicial y el cumplimiento escatológico
 - [[configuración_con_cristo]] — la vida moral busca crecer según «la medida de la plenitud de Cristo»
 - [[vocación_universal_a_la_santidad]] — llamada a participar de la vida trinitaria en Cristo
-- [[filiacion_divina]] — autocomprensión del cristiano como hijo de Dios en Cristo
+- [[filiación_divina]] — autocomprensión del cristiano como hijo de Dios en Cristo
 
 ## 1. Visión de conjunto de los temas de la antropología moral cristiana
 

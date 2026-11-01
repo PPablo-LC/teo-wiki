@@ -65,7 +65,7 @@ En sus catequesis cristológicas, Juan Pablo II vincula la misericordia divina c
 
 ## Relaciones doctrinales
 
-Se relaciona con [[redención]], [[conversión]], [[penitencia]], [[pecado]], [[justificación]], [[esperanza]], [[oración]] y [[padrenuestro]].
+Se relaciona con [[redención]], [[conversión]], [[penitencia]], [[pecado]], [[justificación]], [[esperanza]], [[oración]] y [[padre_nuestro]].
 
 
 ## Analizado para

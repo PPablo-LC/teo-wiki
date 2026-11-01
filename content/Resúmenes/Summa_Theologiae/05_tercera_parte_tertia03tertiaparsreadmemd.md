@@ -24,7 +24,7 @@ tags: ["resumen", "summa theologiae"]
 - [[bautismo]], [[bautismo_de_san_juan]]
 - [[confirmación]]
 - [[eucaristía]], [[transubstanciación]], [[consagración]], [[comunión]]
-- [[sacramento_de_penitencia]], [[absolución_sacerdotal]], [[confesión]]
+- [[sacramento_de_la_reconciliación]], [[absolución_sacerdotal]], [[confesión]]
 
 ## Contenido
 
@@ -84,7 +84,7 @@ Dado que nuestro Salvador y Señor [[jesucristo]], salvando al pueblo de sus pec
 
 #### Penitencia
 
-- **Q.84–90 — El sacramento de la penitencia**: El [[sacramento_de_penitencia]] es sacramento instituido por Cristo para la remisión de los pecados cometidos después del bautismo; sus partes son: contrición, confesión mouth y satisfacción; la [[absolución_sacerdotal]] es el acto por el cual el sacerdote perdona los pecados en nombre de Dios; la virtud de la penitencia incluye dolor por el pecado y propósito de enmienda; puede repetirse cuantas veces sea necesario.
+- **Q.84–90 — El sacramento de la penitencia**: El [[sacramento_de_la_reconciliación]] es sacramento instituido por Cristo para la remisión de los pecados cometidos después del bautismo; sus partes son: contrición, confesión mouth y satisfacción; la [[absolución_sacerdotal]] es el acto por el cual el sacerdote perdona los pecados en nombre de Dios; la virtud de la penitencia incluye dolor por el pecado y propósito de enmienda; puede repetirse cuantas veces sea necesario.
 
 ## Secciones incluidas
 

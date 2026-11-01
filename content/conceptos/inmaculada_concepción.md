@@ -19,6 +19,8 @@ Dogma definido por Pío IX el 8 de diciembre de 1854 (Bula *Ineffabilis Deus*): 
 
 La Inmaculada Concepción no significa que María fue concebida sin concurso de varón (eso es la [[concepción_virginal]]), sino que su alma fue creada en [[gracia_santificante]] desde el primer instante de su existencia, sin la mancha del pecado original que contraen todos los descendientes de [[adán]]. Este privilegio es el más eminente de María después de la [[maternidad_divina]]. La tradición patrística la llamó «la toda santa» (*Panagia*). El dogma fue definido tras siglos de reflexión teológica, apoyado en la doctrina de Escoto sobre la redención preventiva.
 
+La doctrina se fue desarrollando gradualmente en la Iglesia. Desde los primeros siglos, los Padres llamaron a María «toda santa» e «inmaculada». La fiesta de la Concepción de María comenzó a celebrarse en Oriente hacia el siglo VII y llegó a Occidente en el siglo VIII. Los grandes escolásticos del siglo XIII debatieron la cuestión: Santo Tomás de Aquino, basado en su teología de la redención universal, sostuvo que María fue concebida con pecado original pero purificada antes de nacer; Juan Duns Scoto defendió la preservación del pecado original, argumentando que la redención preventiva era más perfecta. La posición escotista prevaleció en la Iglesia latina.
+
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
@@ -101,6 +103,9 @@ Pitre reconstruye la lógica bíblica del dogma a partir de la tipología Eva-Ma
 - **Inmaculada Concepción**: María fue concebida sin pecado original
 - **Concepción virginal**: Jesús fue concebido por obra del Espíritu Santo sin intervención de varón
 - La Inmaculada es un dogma sobre María; la concepción virginal es un dogma sobre Cristo
+- **Concepción activa vs. pasiva**: la Inmaculada Concepción se refiere a la concepción pasiva de María (el ser concebida por sus padres), no a la concepción activa (el acto de sus padres). María fue concebida por la unión de sus padres (San Joaquín y Santa Ana), pero su alma fue preservada del pecado original.
+- **Preservación vs. purificación**: la Inmaculada Concepción es preservación del pecado original, no purificación después de haberlo contraído. Es una redención preventiva («más perfecta»), no liberación posterior.
+- **Privilegio único**: es un privilegio exclusivo de María, fundamentado en su divina maternidad.
 
 ## Relaciones doctrinales
 

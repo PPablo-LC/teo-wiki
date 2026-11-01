@@ -23,7 +23,7 @@ tags: ["resumen", "formación religiosa de jóvenes -- tihamer toth", "sacrament
 - [[defecto_dominante]] — raíz de muchos tropiezos y pecados, objeto del propósito
 - [[escrúpulos]] — incapacidad de enjuiciar rectamente la moralidad de los actos
 - [[dirección_espiritual]] — la confesión frecuente como ocasión insustituible para ella
-- [[sacramento_de_la_penitencia]] — sacramento en que se ejerce la función de padre, juez, doctor y médico
+- [[sacramento_de_la_reconciliación]] — sacramento en que se ejerce la función de padre, juez, doctor y médico
 
 ## Contenido
 

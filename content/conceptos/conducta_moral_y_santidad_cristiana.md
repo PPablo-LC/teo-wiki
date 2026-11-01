@@ -35,11 +35,11 @@ Es necesario comprender correctamente en qué sentido la vida moral cristiana es
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[santidad_cristiana]], la [[configuración_con_cristo]], la [[filiacion_divina]], la [[unión_con_cristo]], el [[proyecto_moral]], la [[ley_moral]] y la [[ley_evangélica]].
+Se relaciona con la [[santidad_cristiana]], la [[configuración_con_cristo]], la [[filiación_divina]], la [[unión_con_cristo]], el [[proyecto_moral]], la [[ley_moral]] y la [[ley_evangélica]].
 
 ## Ver también
 
-[[santidad_cristiana]], [[configuración_con_cristo]], [[filiacion_divina]], [[unión_con_cristo]], [[proyecto_moral]], [[ley_moral]], [[ley_evangélica]]
+[[santidad_cristiana]], [[configuración_con_cristo]], [[filiación_divina]], [[unión_con_cristo]], [[proyecto_moral]], [[ley_moral]], [[ley_evangélica]]
 
 ## Referencias
 

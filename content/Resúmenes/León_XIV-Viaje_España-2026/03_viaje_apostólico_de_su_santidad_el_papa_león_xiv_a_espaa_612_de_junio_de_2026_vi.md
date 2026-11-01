@@ -30,7 +30,7 @@ tags: ["resumen", "león xiv-viaje españa-2026"]
 - [[virgen_maría]] — caridad de María y su maternidad universal
 - [[madre_de_la_iglesia]] — «manantial de misericordia, regazo de perdón»
 - [[oración]] — el Padre Nuestro que Jesús nos enseñó
-- [[padrenuestro]] — oración de la comunidad reunida
+- [[padre_nuestro]] — oración de la comunidad reunida
 - [[bendición]] — Bendición Apostólica
 
 El Papa comienza su visita a Madrid en el CEDIA y se reconoce «entre vosotros como un madrileño más»: la bienvenida le hace sentir parte de una gran [[familia]] en la que, como en todas las familias, «ocurren milagros de amor». En esta casa nadie se queda solo: la alegría y el dolor de cada uno son la alegría y el dolor de todos, y escuchándose mutuamente afrontan juntos los retos, sin ignorar la complejidad de las situaciones y sin dejar de lado las exigencias de la [[caridad]] y de la [[justicia]], «en diálogo con todos los que se preocupan seriamente por el hombre y su mundo» (*Deus caritas est*, 27). Así el CEDIA recorre el camino del Evangelio siguiendo las huellas de Jesús, el Hijo de Dios que se hizo hombre para sanar nuestras enfermedades y miserias y para hacerlas suyas —excepto el pecado—, identificándose con toda persona que sufre: «Cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis» ([[evangelio_de_mateo|Mt 25,40]]).

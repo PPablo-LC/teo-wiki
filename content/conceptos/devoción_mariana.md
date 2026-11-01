@@ -40,7 +40,7 @@ Para Tóth, la devoción mariana es el refugio seguro de la joven en su lucha po
 
 En el último consejo de la obra, Tóth recomienda «todos los días… tres Avemarías a la Santísima Virgen», seguidas de la jaculatoria de San Alfonso María de Ligorio: «*Por tu Inmaculada Concepción, ¡oh María!, haz puro mi cuerpo y santa mi alma*» [PyH, cap. 7]. Añade la oración «*Bendita sea tu pureza… Mírame con compasión, no me dejes, Madre mía*», y propone a la joven entregar a María «la guarda de tu pureza juvenil; mañana, tu castidad de esposa y tu abnegación de madre… Y cuando llegue tu fin, abandona tu alma en sus brazos amorosos. ¡Ella la llevará al cielo!» [PyH, cap. 7].
 
-El modelo de esta confianza es el lema del santuario de Guadalupe —*Languido collo nitet*, «Brillante, pura siempre… ¡Siempre pura!»— y el ejemplo de piedad mariana de quienes consagran a la Virgen su vida y su memoria, como la Duquesa de Arcos, que mandó enterrar su corazón «debaxo de los pies de la Imagen, centro de su amor i esperanza» [PyH, cap. 7]. Se ordena así al amor a la [[virgen_maría]], a la [[inmaculada_concepcion|inmaculada_concepción]], a la [[oración]] y a la [[castidad]].
+El modelo de esta confianza es el lema del santuario de Guadalupe —*Languido collo nitet*, «Brillante, pura siempre… ¡Siempre pura!»— y el ejemplo de piedad mariana de quienes consagran a la Virgen su vida y su memoria, como la Duquesa de Arcos, que mandó enterrar su corazón «debaxo de los pies de la Imagen, centro de su amor i esperanza» [PyH, cap. 7]. Se ordena así al amor a la [[virgen_maría]], a la [[inmaculada_concepción|inmaculada_concepción]], a la [[oración]] y a la [[castidad]].
 
 ## Distinciones importantes
 

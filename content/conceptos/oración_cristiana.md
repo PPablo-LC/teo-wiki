@@ -32,7 +32,7 @@ Royo Marín dedica amplio espacio a la oración en TPCr. «La oración es necesa
 
 ## Ver también
 
-[[oración]], [[padrenuestro]], [[oración_contemplativa]], [[oración_mental]], [[oración_litúrgica]], [[oración_vocal]], [[meditación]], [[contemplación]], [[grados_de_oración]]
+[[oración]], [[padre_nuestro]], [[oración_contemplativa]], [[oración_mental]], [[oración_litúrgica]], [[oración_vocal]], [[meditación]], [[contemplación]], [[grados_de_oración]]
 
 ## Referencias
 

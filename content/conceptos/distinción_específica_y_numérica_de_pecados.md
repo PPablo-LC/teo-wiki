@@ -38,11 +38,11 @@ La necesidad de esta distinción deriva de la propia naturaleza del sacramento, 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[pecado]], [[pecado_mortal]], [[pecado_venial]], [[sacramento_de_la_penitencia]], [[unidad_moral_de_la_decisión]], [[examen_de_conciencia]], [[conversión]].
+Se relaciona con [[pecado]], [[pecado_mortal]], [[pecado_venial]], [[sacramento_de_la_reconciliación]], [[unidad_moral_de_la_decisión]], [[examen_de_conciencia]], [[conversión]].
 
 ## Ver también
 
-[[pecado]], [[unidad_moral_de_la_decisión]], [[sacramento_de_la_penitencia]], [[examen_de_conciencia]]
+[[pecado]], [[unidad_moral_de_la_decisión]], [[sacramento_de_la_reconciliación]], [[examen_de_conciencia]]
 
 ## Referencias
 

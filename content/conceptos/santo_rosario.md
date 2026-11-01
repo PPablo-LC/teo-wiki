@@ -17,7 +17,7 @@ El Santo Rosario es una oración tradicional católica que combina la meditació
 
 ## Ver también
 
-[[avemaría]], [[padrenuestro]], [[misterios_del_rosario]], [[devociones_marianas]]
+[[avemaría]], [[padre_nuestro]], [[misterios_del_rosario]], [[devociones_marianas]]
 
 ## Referencias
 

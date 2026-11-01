@@ -40,11 +40,11 @@ Así la moral cristiana es necesariamente una moral sacramental; la primera grac
 
 ## Relaciones doctrinales
 
-Se relaciona con [[moral_cristiana]], [[sacramentos]], [[bautismo]], [[sacramento_de_la_penitencia]], [[gracia]], [[iglesia_como_sacramento_universal_de_salvación]], [[misterio_pascual]], [[fe]].
+Se relaciona con [[moral_cristiana]], [[sacramentos]], [[bautismo]], [[sacramento_de_la_reconciliación]], [[gracia]], [[iglesia_como_sacramento_universal_de_salvación]], [[misterio_pascual]], [[fe]].
 
 ## Ver también
 
-[[moral_cristiana]], [[sacramentos]], [[bautismo]], [[sacramento_de_la_penitencia]]
+[[moral_cristiana]], [[sacramentos]], [[bautismo]], [[sacramento_de_la_reconciliación]]
 
 ## Referencias
 

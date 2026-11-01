@@ -16,7 +16,7 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 - [[elevación]] — la Hostia alzada como súplica «por amor a tu Hijo»
 - [[transubstanciación]] — la Hostia transformada y el hombre viejo transformado
 - [[memento de los difuntos]] — «los que se durmieron en la esperanza de tu resurrección»
-- [[padrenuestro]] — bendición de mesa cristiana
+- [[padre_nuestro]] — bendición de mesa cristiana
 - [[rito de la paz]] · [[fracción del pan]] · [[ite missa est]] — comunión y envío
 
 ## Contenido

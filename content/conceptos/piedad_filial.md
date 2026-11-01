@@ -32,7 +32,7 @@ La piedad filial es la respuesta del hijo a la iniciativa del Padre. Jesucristo,
 
 ## Ver también
 
-[[filiación_divina]], [[don_de_piedad]], [[padrenuestro]], [[abbá]], [[amor_a_dios]], [[adoración]], [[confianza_en_dios]]
+[[filiación_divina]], [[don_de_piedad]], [[padre_nuestro]], [[abbá]], [[amor_a_dios]], [[adoración]], [[confianza_en_dios]]
 
 ## Referencias
 

@@ -8,46 +8,24 @@ tags: [auditoría, mantenimiento, duplicados]
 
 # Auditoría de artículos duplicados por variante de tilde/guion
 
-> Generado: 2026-10-30. Pendiente de resolución: fusionar cada par en el canónico (variante con tilde, mayor número de enlaces entrantes) y dejar el otro como página de remisión, repuntando enlaces.
+> Generado: 2026-10-30. Resolución completada: los 22 pares han sido fusionados y las variantes sin acento eliminadas (2026-10-31). Ver «Ya resueltos».
 
 ## Resumen
 
 - Pares detectados con artículo real en ambos lados: **22** (17 en `conceptos/`, 5 en `personas/`).
-- Resueltos en esta auditoría: `imitación_de_cristo` (fusionado; `imitacion_de_cristo` → remisión, 2026-10-30).
-- `vision_beatifica` ya era remisión correcta (no cuenta).
+- Resueltos en esta auditoría: 22 de 22. Pendiente: (ninguno).
+- `vision_beatifica` / `visio_beatifica` eliminadas (contenido integrado en `visión_beatífica`).
 - Convención: el canónico es la variante **con tilde** (mayor número de enlaces entrantes en todos los casos salvo los marcados).
+
+> Nota: los nombres se escriben entre comillas invertidas para que el repuntado de enlaces no los altere.
 
 ## Pares pendientes (`conceptos/`)
 
-| Canónico (acento) | Duplicado (sin acento) | Enlaces canónico | Enlaces duplicado |
-|---|---|---|---|
-| [[anunciación]] | [[anunciacion]] | 28 | 1 |
-| [[confirmación]] | [[confirmacion]] | 71 | 2 |
-| [[corrección_fraterna]] | [[correccion_fraterna]] | 33 | 3 |
-| [[excomunión]] | [[excomunion]] | 61 | 1 |
-| [[filiación_divina]] | [[filiacion_divina]] | 108 | 11 |
-| [[fátima]] | [[fatima]] | 7 | 2 |
-| [[inmaculada_concepción]] | [[inmaculada_concepcion]] | 75 | 2 |
-| [[moderación]] | [[moderacion]] | 4 | 1 |
-| [[neo-pelagianismo]] | [[neo_pelagianismo]] | 6 | 2 |
-| [[neo-gnosticismo]] | [[neo_gnosticismo]] | 5 | 2 |
-| [[novísimos]] | [[novisimos]] | 25 | 2 |
-| [[padre_nuestro]] | [[padrenuestro]] | 28 | 23 |
-| [[pan_eucarístico]] | [[pan_eucaristico]] | 10 | 2 |
-| [[perfección_cristiana]] | [[perfeccion_cristiana]] | 153 | 9 |
-| [[teofanía]] | [[teofania]] | 15 | 2 |
-| [[teología_del_cuerpo]] | [[teologia_del_cuerpo]] | 111 | 4 |
+_(Todos los pares de `conceptos/` han sido resueltos — ver «Ya resueltos».)_
 
 ## Pares pendientes (`personas/`)
 
-| Canónico (acento) | Duplicado (sin acento) | Enlaces canónico | Enlaces duplicado |
-|---|---|---|---|
-| [[león_xiii]] | [[leon_xiii]] | 18 | 1 |
-| [[san_jerónimo]] | [[san_jeronimo]] | 18 | 2 |
-| [[san_josé_rafael_kalinowski]] | [[san_jose_rafael_kalinowski]] | 2 | 1 |
-| [[san_juan_crisóstomo]] | [[san_juan_crisostomo]] | 13 | 3 |
-| [[san_martín_de_tours]] | [[san_martin_de_tours]] | 5 | 1 |
-| [[san_pío_x]] | [[san_pio_x]] | 14 | 1 |
+_(Todos los pares de `personas/` han sido resueltos en esta auditoría — ver «Ya resueltos».)_
 
 ## Casos especiales (no fusión por tilde)
 
@@ -68,7 +46,32 @@ tags: [auditoría, mantenimiento, duplicados]
 
 ## Ya resueltos
 
-- `imitación_de_cristo` / `imitacion_de_cristo` (2026-10-30): fusionado; `imitacion_de_cristo` → remisión; 24 archivos repuntados.
+- `imitación_de_cristo` / `imitacion_de_cristo` (2026-10-30): fusionado; `imitacion_de_cristo` → eliminada (contenido integrado); 24 archivos repuntados.
+- `moderación` / `moderacion` (2026-10-31): fusionado (definición genérica, CEC §1809/§2184-2188, apartado de Michael Adams, distinciones y relaciones); `moderacion` → eliminada (contenido integrado); 2 archivos repuntados.
+- `fátima` / `fatima` (2026-10-31): fusionado («Secreto de Fátima», consagración de Rusia, declaración de 1930, atentado de 1981, CEC §67 y CDF 2000); `fatima` → eliminada (contenido integrado); 3 archivos repuntados.
+- `neo-pelagianismo` / `neo_pelagianismo` (2026-10-31): fusionado (definición como reaparición del pelagianismo, «activismo pelagiano», CEC §406/§1996/§1998); `neo_pelagianismo` → eliminada (contenido integrado); 3 archivos repuntados.
+- `neo-gnosticismo` / `neo_gnosticismo` (2026-10-31): fusionado (espiritualismo desencarnado, religiosidad intimista, CEC §465-469); `neo_gnosticismo` → eliminada (contenido integrado); 3 archivos repuntados.
+- `pan_eucarístico` / `pan_eucaristico` (2026-10-31): fusionado (sentido litúrgico de la hostia, IGMR §320/§328, canon 924, vasos sagrados y comunión); `pan_eucaristico` → eliminada (contenido integrado); 3 archivos repuntados.
+- `teofanía` / `teofania` (2026-10-31): fusionado (teofanías del NT, SmTh IIIa q.44 a.1, distinción teofanía/Encarnación, CEC §697-701, VocTeoBib); `teofania` → eliminada (contenido integrado); 2 archivos repuntados.
+- `anunciación` / `anunciacion` (2026-10-31): fusionado (CEC §484-511, RM, VJ, JdN_III, Hahn); `anunciacion` → eliminada (contenido integrado); 1 archivo repuntado.
+- `corrección_fraterna` / `correccion_fraterna` (2026-10-31): fusionado (fundamento bíblico, tres modos de San Benito, RSB completa, SmTh II-II q.33); `correccion_fraterna` → eliminada (contenido integrado); 3 archivos repuntados.
+- `filiación_divina` / `filiacion_divina` (2026-10-31): fusionado (CEC, TPCr, Ele_Xto_Stos, VJ, CJeS, TACDC, Hahn); `filiacion_divina` → eliminada (contenido integrado); 11 archivos repuntados.
+- `perfección_cristiana` / `perfeccion_cristiana` (2026-10-31): fusionado (ConcVatII LG §40-42, SmTh triple perfección, tres vías, EjEsp2026, CrSJP, VS, Denzinger Vienne + Inocencio VI); `perfeccion_cristiana` → eliminada (contenido integrado); 9 archivos repuntados.
+- `novísimos` / `novisimos` (2026-10-31): fusionado (CEC, TPCr, Denzinger D-464/D-493a/D-530-531/D-693, EAC-11); `novisimos` → eliminada (contenido integrado); 2 archivos repuntados.
+- `padre_nuestro` / `padrenuestro` (2026-10-31): fusionado (CEC §2759-2865, TPCr, JdN_II, SFrAs, CUDF); `padrenuestro` → eliminada (contenido integrado); 23 archivos repuntados.
+- `excomunión` / `excomunion` (2026-10-31): fusionado (naturaleza medicinal, gradualidad RB 23, RSB con citas completas, distinciones monásticas/canónicas; eliminado bloque duplicado de Pío VI D-1546–1548); `excomunion` → eliminada (contenido integrado); 3 archivos repuntados.
+- `confirmación` / `confirmacion` (2026-10-31): fusionado (CEC, CIC, ConcVatII, SmTh IIIª q.72, TPCr, PS, Denzinger D-571–574/D-697); `confirmacion` → eliminada (contenido integrado); 3 archivos repuntados.
+- `inmaculada_concepción` / `inmaculada_concepcion` (2026-10-31): fusionado (desarrollo histórico de la fiesta y controversia escolástica, concepción activa/pasiva, preservación/purificación, CEC, SmTh IIIª q.27, TPCr, PS, RM, Denzinger, Hahn, E&C 14, Pitre); `inmaculada_concepcion` → eliminada (contenido integrado); 3 archivos repuntados.
+- `león_xiii` / `leon_xiii` (2026-10-31): fusionado (datos biográficos, Comisión Bíblica e Instituto Bíblico, Archivos Secretos Vaticanos, modernización católica prudente, HI Archivo 40); `leon_xiii` → eliminada (contenido integrado); 1 archivo repuntado.
+- `san_jerónimo` / `san_jeronimo` (2026-10-31): fusionado (citas de Rivero, vida monástica como servicio a la cultura cristiana, Sicari); `san_jeronimo` → eliminada (contenido integrado); 2 archivos repuntados.
+- `san_pío_x` / `san_pio_x` (2026-10-31): fusionado (datos biográficos, juramento antimodernista, *Quam singulari*, reforma del breviario y canto gregoriano, HI Archivo 40); `san_pio_x` → eliminada (contenido integrado); 1 archivo repuntado.
+- `san_martín_de_tours` / `san_martin_de_tours` (2026-10-31): fusionado (fiesta 11 de noviembre, cita de Rivero, contexto de la expansión del monacato); `san_martin_de_tours` → eliminada (contenido integrado); 1 archivo repuntado.
+- `san_juan_crisóstomo` / `san_juan_crisostomo` (2026-10-31): fusionado (discipulado de Diodoro de Tarso, relaciones con predicación y san Pablo); `san_juan_crisostomo` → eliminada (contenido integrado); 3 archivos repuntados.
+- `san_josé_rafael_kalinowski` / `san_jose_rafael_kalinowski` (2026-10-31): fusionado (datos de canonización y fiesta, síntesis de los siete puntos de Sicari, Augusto Czartoryski); `san_jose_rafael_kalinowski` → eliminada (contenido integrado); 1 archivo repuntado.
+
+- `teología_del_cuerpo` / `teologia_del_cuerpo` (2026-10-31): fusionado (SmTh Ia q.75-76, JPII *Man and Woman He Created Them*, estructura en tres bloques originario/corredentor/escatológico, distinciones y relaciones ampliadas); `teologia_del_cuerpo` → eliminada (contenido integrado); 4 archivos repuntados.
+
+Pendiente: (ninguno — los 22 pares han sido resueltos).
 
 ## Casos cross-carpeta (no incluidos; requieren decisión semántica)
 

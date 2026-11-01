@@ -15,7 +15,7 @@ tags: ["resumen", "normae_de_gravioribus_delictis", "delicta_graviora", "derecho
 - [[delicta_graviora]] — Delitos más graves reservados a la CDF
 - [[delitos_contra_la_fe]] — Herejía, cisma y apostasía
 - [[eucaristía]] — Delitos contra la santidad del sacramento eucarístico
-- [[sacramento_penitencia]] — Delitos contra la santidad del sacramento de la Reconciliación
+- [[sacramento_de_la_reconciliación]] — Delitos contra la santidad del sacramento de la Reconciliación
 - [[ordenación_sagrada]] — Atentada ordenación de una mujer
 - [[delitos_contra_la_moral]] — Delitos cometidos por clérigos con menores
 - [[prescripción_de_la_acción_criminal]] — Extinción de la acción criminal por trascurso del tiempo

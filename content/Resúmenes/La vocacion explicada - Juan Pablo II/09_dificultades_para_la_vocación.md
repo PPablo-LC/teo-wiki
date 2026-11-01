@@ -15,7 +15,7 @@ tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 - [[vocación_cristiana]] — la vocación frente a los obstáculos del mundo
 - [[coherencia]] — firmeza cristiana frente al ambiente contrario
 - [[oración]] — medio para ver claro el camino
-- [[sacramento_de_la_penitencia]] — medio singular de crecimiento espiritual
+- [[sacramento_de_la_reconciliación]] — medio singular de crecimiento espiritual
 - [[dirección_espiritual]] — ayuda para discernir la vocación
 - [[espíritu_santo]] — guía del cristiano en las decisiones
 - [[gracia]] — necesidad de la gracia para perseverar
@@ -24,7 +24,7 @@ tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 
 **Dificultades para la vocación**
 
-Juan Pablo II advierte que se vive en una época en la que el pecado se ha convertido casi en industria que produce dinero y bienestar; por ello pide no dejarse asustar ni presionar, pues cualquier época exige del cristiano «coherencia». Exhorta a ser valientes: el mundo necesita testigos convencidos e intrépidos. No basta discutir; hay que actuar, vivir en gracia, practicar toda la ley moral, alimentar el alma con el Cuerpo de Cristo y recibir seria y periódicamente el [[sacramento_de_la_penitencia|Sacramento de la Penitencia]], y estar disponibles a amar y socorrer.
+Juan Pablo II advierte que se vive en una época en la que el pecado se ha convertido casi en industria que produce dinero y bienestar; por ello pide no dejarse asustar ni presionar, pues cualquier época exige del cristiano «coherencia». Exhorta a ser valientes: el mundo necesita testigos convencidos e intrépidos. No basta discutir; hay que actuar, vivir en gracia, practicar toda la ley moral, alimentar el alma con el Cuerpo de Cristo y recibir seria y periódicamente el [[sacramento_de_la_reconciliación|Sacramento de la Penitencia]], y estar disponibles a amar y socorrer.
 
 Invita a meditar con seriedad y generosidad si el Señor llama a alguno. Como María de Nazaret preguntó «¿Cómo es posible esto?», la respuesta es la misma: «El Espíritu Santo vendrá sobre ti, porque para Dios nada es imposible» (cf. Lc 1, 35.37). Conociendo la doctrina de Jesús es fácil actuar sin miedo a equivocarse o a estar solos, guiados por el [[espíritu_santo]].
 

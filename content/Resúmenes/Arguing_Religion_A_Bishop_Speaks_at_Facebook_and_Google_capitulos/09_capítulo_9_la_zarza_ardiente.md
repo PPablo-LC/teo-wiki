@@ -15,7 +15,7 @@ tags: ["resumen", apologética, teofanía, revelación]
 ## Conceptos básicos referenciados en este capítulo
 
 - [[moisés]] — el príncipe de Egipto humillado en el desierto y llamado por Dios
-- [[teofania]] — manifestación de Dios en Horeb
+- [[teofanía]] — manifestación de Dios en Horeb
 - [[yo_soy]] — el nombre divino de Ex 3,14 y la coincidencia de esencia y existencia
 - [[dios_personal]] — «el Dios de Abraham, Isaac y Jacob»: inteligencia, voluntad y compasión
 - [[revelación]] — Dios se da a conocer para liberar a su pueblo

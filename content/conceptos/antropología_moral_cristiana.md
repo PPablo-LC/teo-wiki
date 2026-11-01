@@ -26,7 +26,7 @@ La antropología moral cristiana no se ocupa de todos los temas de la antropolog
 
 La Parte I ha considerado la [[vocación_universal_a_la_santidad]], la llamada a participar de la vida trinitaria en Cristo. Entre la [[justificación]] inicial y el cumplimiento escatológico de la salvación media el proceso de la [[santificación]], la actuación terrena e histórica de la vocación cristiana. Antes de afrontar el examen del referente normativo de la actividad moral, conviene analizar la naturaleza y la estructura de lo que debe ser regulado (las acciones, los afectos) y la modalidad en que puede ser regulado: las estructuras que hacen del cristiano un sujeto capaz de colaborar libremente con Dios, diseñando y escogiendo —con el auxilio de la [[gracia_santificante]]— un tipo de vida (conducta moral) congruente con su identidad de hijo de Dios y que le permita crecer según «la medida de la plenitud de Cristo» (Ef 4, 13) [Ele_Xto_Stos, Cap. IV, §1].
 
-La antropología moral cristiana no se ocupa de todos los temas de la antropología teológica: esta se presupone. Objeto de atención es el cristiano en cuanto sujeto moral y, por tanto, fundamentalmente la [[libertad_humana]], considerada en el marco de su autocomprensión como hijo de Dios en Cristo ([[filiacion_divina]]): la libertad de un hijo que sobre todo desea cumplir la voluntad del Padre (Jn 4, 34; 5, 30; 6, 38; 7, 17) [Ele_Xto_Stos, Cap. IV, §1].
+La antropología moral cristiana no se ocupa de todos los temas de la antropología teológica: esta se presupone. Objeto de atención es el cristiano en cuanto sujeto moral y, por tanto, fundamentalmente la [[libertad_humana]], considerada en el marco de su autocomprensión como hijo de Dios en Cristo ([[filiación_divina]]): la libertad de un hijo que sobre todo desea cumplir la voluntad del Padre (Jn 4, 34; 5, 30; 6, 38; 7, 17) [Ele_Xto_Stos, Cap. IV, §1].
 
 ## Distinciones importantes
 
@@ -35,11 +35,11 @@ La antropología moral cristiana no se ocupa de todos los temas de la antropolog
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[vocación_universal_a_la_santidad]], la [[santificación]], la [[justificación]], la [[libertad_humana]], la [[filiacion_divina]], la [[configuración_con_cristo]] y la [[gracia_santificante]].
+Se relaciona con la [[vocación_universal_a_la_santidad]], la [[santificación]], la [[justificación]], la [[libertad_humana]], la [[filiación_divina]], la [[configuración_con_cristo]] y la [[gracia_santificante]].
 
 ## Ver también
 
-[[vocación_universal_a_la_santidad]], [[santificación]], [[justificación]], [[libertad_humana]], [[filiacion_divina]], [[configuración_con_cristo]], [[gracia_santificante]]
+[[vocación_universal_a_la_santidad]], [[santificación]], [[justificación]], [[libertad_humana]], [[filiación_divina]], [[configuración_con_cristo]], [[gracia_santificante]]
 
 ## Referencias
 

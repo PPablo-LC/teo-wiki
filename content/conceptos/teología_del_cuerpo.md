@@ -1,15 +1,15 @@
 ---
 type: Concepto Teológico
 title: Teología del cuerpo
-tags: ["antropología_teológica"]
+tags: ["antropología_teológica", "moral"]
 
-timestamp: 2026-06-20
+timestamp: 2026-10-31
 description: "La teología del cuerpo es un punto particular de la antropología teológica que se establece sobre el fundamento de la Palabra de Dios revelada."
 ---
 # Teología del cuerpo
 
 > Área: Antropología teológica
-> Última actualización: 2026-06-20
+> Última actualización: 2026-10-31
 
 ## Definición
 
@@ -20,6 +20,10 @@ La teología del cuerpo es un punto particular de la antropología teológica qu
 La teología del cuerpo nace de las palabras de Cristo en Mt 19,3-9 («al principio los hizo varón y hembra») y se fundamenta en el análisis de los primeros capítulos del Génesis. Se articula en torno al significado esponsalicio del cuerpo, la comunión de personas, la teología del sexo (masculinidad y feminidad), la soledad originaria, y la redención del cuerpo (Rm 8,23). Cristo apela al corazón humano en el Sermón de la Montaña (Mt 5,27-28), proponiendo un nuevo ethos que recupera la pureza originaria del principio.
 
 ## Perspectivas por fuente
+
+### Según la Summa Theologiae (SmTh)
+
+**Ia q.75-76:** El alma es forma del cuerpo; no hay dualismo entre cuerpo y alma. El cuerpo humano participa de la dignidad de la persona humana. La unión sustancial del alma y el cuerpo hace que el cuerpo sea parte integrante de la persona, no mero instrumento.
 
 ### Según la Teología del Cuerpo (TdC)
 
@@ -43,20 +47,31 @@ Se articula en torno a los tres textos clave de Cristo: el «principio» (Mt 19,
 
 La norma de la ley natural sobre la transmisión de la vida (HV) encuentra en la teología del cuerpo «no solamente una nueva expresión, sino también un fundamento más pleno antropológico y ético» (TdC 18.07.1984).
 
+Las catequesis se estructuran en tres grandes bloques:
+
+1. **El Génesis (originario)**: la experiencia originaria del cuerpo en el Edén, la inocencia original, la visión del cuerpo como «don» y como expresión de la persona.
+2. **El corredentor (el cuerpo en la historia)**: los efectos del pecado sobre la experiencia del cuerpo, la concupiscencia, la lucha entre espíritu y carne.
+3. **El escatológico (el cuerpo en la gloria)**: la resurrección de la carne, el cuerpo glorificado, la unión definitiva con Dios.
+
+La enseñanza central es que el cuerpo humano tiene una dignidad trascendente: es «imagen de Dios», templo del Espíritu Santo, y camino hacia la comunión con Dios y con el prójimo. El amor conyugal es imagen del amor de Cristo por la Iglesia. Juan Pablo II resume: «El hombre es la única criatura en la tierra a la que Dios ha amado por sí misma» (GS §24); y en *Man and Woman He Created Them*: la teología del cuerpo es «no tanto una teoría, cuanto más bien una específica, evangélica, cristiana pedagogía del cuerpo» (TdC 08.08.1984; 03.10.1984).
+
 ## Distinciones importantes
 
 - **Teología del cuerpo vs. antropología dualista:** el cuerpo no es algo añadido al espíritu sino que expresa la persona en su totalidad
 - **Significado esponsalicio:** el cuerpo tiene la capacidad de expresar el amor-don, revelando el carácter nupcial de la persona
 - **Teología del sexo:** la masculinidad y feminidad no son meros datos biológicos sino que poseen un significado teológico profundo
 - **Creación vs. redención:** la teología del cuerpo abarca tanto el «principio» (creación) como la redención del cuerpo (Rm 8,23)
+- **Teología del cuerpo vs. moral sexual:** la teología del cuerpo es una antropología teológica completa, no solo un tratado de moral sexual
+- **Cuerpo como don:** el cuerpo no es un instrumento, sino expresión de la persona y camino de autoentrega
+- **Concupiscencia y lenguaje del cuerpo:** el pecado original distorsionó el lenguaje del cuerpo, pero no lo destruyó
 
 ## Relaciones doctrinales
 
-Se relaciona con el amor humano, la vocación al don de sí, la imagen de Dios como communio personarum, la pureza de corazón como virtud que custodia la verdad del amor, y la redención escatológica del cuerpo. La teología del cuerpo constituye la base de la antropología adecuada de Juan Pablo II y fundamenta la ética sexual cristiana en el significado esponsal del cuerpo.
+Se relaciona con el amor humano, la vocación al don de sí, la imagen de Dios como communio personarum, la pureza de corazón como virtud que custodia la verdad del amor, y la redención escatológica del cuerpo. La teología del cuerpo constituye la base de la antropología adecuada de Juan Pablo II y fundamenta la ética sexual cristiana en el significado esponsal del cuerpo. Se vincula también con la [[dignidad_humana]], la [[dignidad_de_la_mujer]], el [[matrimonio]], la [[castidad]], la [[sexualidad]], la [[encarnación]], la [[creación_del_hombre]], el [[personalismo]], la [[feminidad]], la [[varón_y_mujer]] y la [[resurrección_de_la_carne]].
 
 ## Ver también
 
-[[amor_humano]], [[cuerpo]], [[varón_y_mujer]], [[comunión_de_personas]], [[teología_nupcial]], [[pureza_de_corazón]], [[significado_esponsal_del_cuerpo]], [[redención_del_cuerpo]]
+[[amor_humano]], [[cuerpo]], [[varón_y_mujer]], [[comunión_de_personas]], [[teología_nupcial]], [[pureza_de_corazón]], [[significado_esponsal_del_cuerpo]], [[redención_del_cuerpo]], [[dignidad_humana]], [[dignidad_de_la_mujer]], [[matrimonio]], [[castidad]], [[sexualidad]], [[encarnación]], [[personalismo]], [[feminidad]], [[resurrección_de_la_carne]]
 
 ## Referencias
 
@@ -70,3 +85,7 @@ Se relaciona con el amor humano, la vocación al don de sí, la imagen de Dios c
 - [TdC 16.04.1980]
 - [TdC 23.07.1980]
 - [TdC 03.12.1980]
+- [SmTh Ia q.75-76]
+- [CEC §355-361]
+- [Juan Pablo II, *Man and Woman He Created Them* (Teología del Cuerpo, 1979-1984)]
+- [GS §24]

@@ -3,17 +3,17 @@ type: Persona
 title: "San Martín de Tours"
 description: "Obispo y padre del monaquismo occidental (316-397); su capa partida con el mendigo le valió ver a Cristo vestido con la media capa."
 tags: [santos, patrística, monaquismo, episcopado]
-timestamp: 2026-09-19
+timestamp: 2026-10-31
 ---
 
 # San Martín de Tours
 
 > Área: Hagiografía / Patrística
-> Última actualización: 2026-09-19
+> Última actualización: 2026-10-31
 
 **San Martín de Tours** (316-397) nació en Hungría y siguió las huellas de
 su padre, abrazando la carrera militar hasta formar parte de la guardia
-imperial. Pasó a la historia por el gesto con un mendigo que temblaba de
+imperial. Su fiesta se celebra el 11 de noviembre. Pasó a la historia por el gesto con un mendigo que temblaba de
 frío: desenvainó su espada, **partió en dos la capa del uniforme y le dio
 la mitad al pobre**. Por la noche se le apareció Jesús, cubierto con su
 media capa, que le daba las gracias y lo presentaba a sus ángeles
@@ -51,6 +51,12 @@ Martín une la caridad con el pobre (la caridad de la capa), el monaquismo
 y la responsabilidad episcopal: su «no rehúso sufrir» expresa la
 disponibilidad total al rebaño hasta la muerte (cf. [[caridad]],
 [[monaquismo]], [[episcopado]], [[unidad_de_la_iglesia]]).
+
+## Perspectivas por fuente
+
+### Según Historia de la Iglesia — P. Antonio Rivero L.C. (HI)
+
+Rivero lo menciona entre los pilares de la vida monacal en Europa: «Entre los pilares de la vida monacal en Europa está san Martín de Tours (muerto en el 397), animador del movimiento monástico y del apostolado rural» (HI, cap. 8). Su figura se sitúa en el contexto de la expansión del monacato desde Oriente hacia Occidente, combinando la vida eremítica con el apostolado episcopal y rural.
 
 ## Ver también
 

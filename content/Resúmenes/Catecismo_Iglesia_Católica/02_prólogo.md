@@ -20,7 +20,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 - [[símbolo_de_la_fe]] — profesión de la fe bautismal, primer «pilar» del Catecismo.
 - [[sacramento]] — sacramentos de la fe, segundo «pilar».
 - [[mandamientos]] — vida de fe, tercer «pilar».
-- [[padrenuestro]] — oración del creyente, cuarto «pilar».
+- [[padre_nuestro]] — oración del creyente, cuarto «pilar».
 - [[magisterio]] — fuente y garantía de la transmisión de la fe.
 
 ## Contenido

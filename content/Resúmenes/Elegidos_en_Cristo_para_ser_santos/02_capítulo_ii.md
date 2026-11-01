@@ -18,7 +18,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "santidad", "fin último
 - [[elevación_al_orden_sobrenatural]] — ordenación del hombre a un fin sobrenatural
 - [[pecado_original]] — pérdida de la santidad y de la justicia originales
 - [[redención]] — envío de Jesucristo para rescatar a los hombres
-- [[filiacion_divina]] — plenitud de la santidad cristiana como fin último de la vida humana
+- [[filiación_divina]] — plenitud de la santidad cristiana como fin último de la vida humana
 - [[santidad_cristiana]] — aspiración al bien absoluto vivida como seguimiento e imitación de Cristo
 - [[santidad_inicial]] — don divino recibido con la fe y el bautismo
 - [[santidad_de_dios]] — característica propia del ser divino, modelo de la santidad del hombre

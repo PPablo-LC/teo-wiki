@@ -42,7 +42,7 @@ Quien no quisiera alejarse de una ocasión grave, próxima y libre manifiesta qu
 
 ## Relaciones doctrinales
 
-Se relaciona con [[tentación]], [[principios_morales_sobre_tentación]], [[pecado]], [[medios_para_evitar_el_pecado]], [[sacramento_de_la_penitencia]].
+Se relaciona con [[tentación]], [[principios_morales_sobre_tentación]], [[pecado]], [[medios_para_evitar_el_pecado]], [[sacramento_de_la_reconciliación]].
 
 ## Ver también
 

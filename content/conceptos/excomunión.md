@@ -1,23 +1,39 @@
 ---
 type: Concepto Teológico
-title: Excomunión
-tags: ["derecho_canónico"]
+title: "Excomunión"
+tags: ["derecho_canónico", "disciplina_eclesiástica", "vida_monástica"]
 
-timestamp: 2026-05-29
-description: "La excomunión es la censura o pena medicinal más grave del derecho canónico, que excluye al fiel de la comunión eclesial, prohibiéndole la participación ministerial en la Eucaristía."
+timestamp: 2026-10-31
+description: "Censura o pena medicinal más grave del derecho canónico, que excluye al fiel de la comunión eclesial; en la Regla de San Benito, exclusión de la mesa y del oratorio."
 ---
 # Excomunión
 
-> Área: Derecho Canónico
-> Última actualización: 2026-05-29
+> Área: Derecho Canónico — Disciplina eclesiástica — Vida monástica
+> Última actualización: 2026-10-31
 
 ## Definición
 
 La excomunión es la censura o pena medicinal más grave del derecho canónico, que excluye al fiel de la comunión eclesial, prohibiéndole la participación ministerial en la Eucaristía, la celebración y recepción de sacramentos, y el ejercicio de oficios eclesiásticos.
 
+En el contexto monástico de la Regla de San Benito, la excomunión significa además la exclusión de la mesa comunitaria y del oratorio, como paso intermedio hacia la penitencia y la reconciliación.
+
 ## Desarrollo doctrinal
 
 La excomunión es una pena medicinal (censura) cuyo fin no es principalmente punitivo sino correctivo: busca la enmienda del reo y la reparación del escándalo. El excomulgado no queda fuera de la Iglesia, sino privado de ciertos bienes espirituales hasta que cese en su contumacia. Puede ser latae sententiae (incurrida ipso facto al cometer el delito) o ferendae sententiae (impuesta por sentencia o decreto). La remisión requiere que el reo haya cesado en su contumacia. La excomunión se distingue de la pérdida de la comunión mística (gracia, caridad): la pena afecta a la comunión jurídica con la Iglesia como sociedad visible, mientras el vínculo bautismal permanece siempre.
+
+### Naturaleza medicinal
+
+En la tradición monástica la excomunión no es una condena definitiva, sino una pena medicinal destinada a corregir al culpable y a escarmiento de la comunidad. San Benito subraya que la medida de la excomunión debe corresponder a la gravedad de la culpa (RB 24, 1-2), dando al abad la discreción para graduarla.
+
+### Gradualidad de la corrección
+
+La Regla de San Benito establece una progresión pedagógica en la corrección de los faltos:
+1. **Amonestación secreta** (una o dos veces)
+2. **Reprensión pública** delante de todos
+3. **Excomunión**, si es capaz de comprender la pena
+4. **Castigo corporal**, si es obstinado
+
+(RB 23)
 
 ## Perspectivas por fuente
 
@@ -117,17 +133,41 @@ El **Concilio de Constanza**, en las interrogaciones para los husitas (D-681-683
 
 **D‑1548**: Condenó como «falsa, temeraria e injuriosa a la práctica de la Iglesia» la proposición que proclama «ser inútil y vana la fórmula introducida de unos siglos a esta parte de absolver generalmente de las excomuniones en que un fiel pudiera haber caído».
 
-**Pío VI** (1794, D‑1546–D‑1548) — Constitución *Auctorem Fidei*:
-
-**D‑1546**: Condenó como falsa, perniciosa y por lo menos errónea la proposición que afirma que «el efecto de la excomunión es sólo exterior, porque por su naturaleza sólo excluye de la comunicación exterior con la Iglesia», «como si la excomunión no fuera pena espiritual, que ata en el cielo y obliga a las almas».
-
-**D‑1547**: Condenó como falsa, temeraria, injuriosa a la potestad de la Iglesia y errónea la proposición que afirma que «es necesario según las leyes naturales y divinas que tanto a la excomunión como a la suspensión deba preceder el examen personal, y que por tanto las sentencias dichas ipso facto no tienen otra fuerza que la de una seria conminación sin efecto actual alguno».
-
-**D‑1548**: Condenó como «falsa, temeraria e injuriosa a la práctica de la Iglesia» la proposición que proclama «ser inútil y vana la fórmula introducida de unos siglos a esta parte de absolver generalmente de las excomuniones en que un fiel pudiera haber caído».
-
 ### Según la Regla de San Benito (RegSB)
 
 La RSB desarrolla la excomunión como instrumento de corrección medicinal dentro de la comunidad monástica, atribuyendo al [[abad]] la potestad de aplicarla según la gravedad de la culpa y la disposición del reo.
+
+**Fundamento y procedimiento** (RB 23):
+> «Si algún hermano es terco, desobediente, soberbio o murmurador, o contradice en cualquier punto la Santa Regla y las órdenes de sus mayores, será amonestado secretamente por sus mayores hasta dos veces, según el precepto de nuestro Señor. Si no se enmienda, sea reprendido en público delante de todos. Pero si ni así se corrige, sea excomulgado, si es capaz de comprender la gravedad de esta pena; pero si es obstinado, reciba un castigo corporal.» (RB 23, 1-5)
+
+La gradualidad refleja la pedagogía divina: primero la misericordia, luego la corrección pública, luego la exclusión.
+
+**Modulación de la pena** (RB 24):
+> «La medida de la excomunión o del castigo se ha de extender según la gravedad de la culpa. Este cálculo queda a consideración del abad.» (RB 24, 1-2)
+
+La discreción del abad es esencial: no hay regla fija para todos los casos, sino juicio prudencial adaptado a cada culpa.
+
+**Excomunión leve — exclusión de la mesa** (RB 24, 3-7):
+El hermano privado de la mesa no entona salmo ni antífona en el oratorio, ni recita lectura, hasta dar satisfacción. Su alimento lo recibe solo, después de los hermanos. Si los hermanos comen a la hora de Sexta, él come a la de Nona; si a la de Nona, él come a Vísperas, hasta que obtenga el perdón.
+
+**Culpas graves — exclusión total** (RB 25):
+> «El hermano que tenga una culpa más grave, será suspendido de la mesa y del oratorio. Ninguno de los hermanos se acerque a él para hacerle compañía o para conversar.» (RB 25, 1-2)
+
+Esta forma más grave de excomunión añade la soledad total y el trabajo solo.
+
+**Llanto de penitencia** (RB 25, 3-6):
+El hermano excomulgado persevera en el «llanto de penitencia», meditando la sentencia del Apóstol: «Este hombre ha sido entregado a la muerte de la carne, para que su espíritu se salve en el día del Señor» (1 Cor 5,5).
+
+**Prohibición de comunicar con los excomulgados** (RB 26):
+> «Si algún hermano se atreve, sin orden del abad, a reunirse de cualquier manera con un hermano excomulgado, hablar con él o enviarle un recado, tenga la misma pena de excomunión.» (RB 26, 1-2)
+
+La solidaridad con el excomulgado fuera de los cauces legítimos es sancionada con la misma pena.
+
+**Solicitud pastoral por los excomulgados** (RB 27):
+El abad debe velar con solicitud pastoral sobre el hermano excomulgado, enviando hermanos ancianos sabios («senpectas») que le consuelen, le animen a la humilde satisfacción y le conforten para no caer en excesiva tristeza. El modelo es el buen Pastor que deja las noventa y nueve ovejas para buscar la una perdida (RB 27, 5-9).
+
+**Corrección severa para los incorregibles** (RB 28):
+Si el hermano no se enmienda ni con azotes ni con excomunión, el abad actúa como «sabio médico» poniendo por obra el precepto del Apóstol: «Arranquen al malo de entre ustedes» (1 Cor 5,13).
 
 **Procedimiento gradual (cap. 23–28):** La corrección comienza por la admonición privada (cap. 23); si no basta, sigue una reprensión pública con más testigos (cap. 23); la terquedad se castiga corporalmente con azotes (cap. 28) antes de recurrir a la exclusión. La excomunión se gradúa por su alcance: la leve priva de la [[mesa_comunitaria|mesa]] (cap. 24); la grave priva del [[oratorio]] y de la [[mesa_comunitaria|mesa]], sentándose el excomulgado en tierra ante la puerta del oratorio sin hablar (cap. 25, 44). La tercera gravedad añade la soledad y el trabajo aislado con llanto de penitencia (cap. 25).
 
@@ -152,10 +192,18 @@ Este delito fue introducido como *delictum gravius* en la reforma de 2010, segú
 - Excomunión declarada vs. no declarada: efectos distintos en cuanto a validez de actos
 - Excomunión no es expulsión de la Iglesia: el vínculo bautismal permanece
 - La remisión requiere cese de la contumacia (c. 1347 §2, c. 1358 §1)
+- **Excomunión menor (privación de mesa) vs. excomunión mayor (suspensión de mesa y oratorio)**: en el régimen monástico, la primera es para faltas leves; la segunda, para culpas graves.
+- **Excomunión medicinal vs. vindicativa**: su fin es la corrección del culpable y el bien de la comunidad, no la venganza.
+- **Excomunión monástica vs. excomunión canónica**: la de la Regla de San Benito es un modelo monástico primitivo; la excomunión canónica tiene efectos jurídicos más amplios (priva de sacramentos y oficios).
+- **Discreción del abad**: la medida de la excomunión monástica es una decisión prudencial del abad, no un castigo automático.
+
+## Relaciones doctrinales
+
+Se relaciona con las [[censuras]], las [[sanciones_canónicas]], el [[entredicho]], la [[suspensión]], las [[penas_expiatorias]] y la [[contumacia]]; en el orden pastoral y monástico, con la [[penitencia]], la [[corrección_fraterna]], la [[obediencia]], la [[soberbia]], la [[murmuración]], la [[satisfacción]], la [[humildad]], la [[autoridad_religiosa]] y el [[perdón]].
 
 ## Ver también
 
-[[censuras]], [[sanciones_canónicas]], [[entredicho]], [[suspensión]], [[penas_expiatorias]], [[contumacia]]
+[[censuras]], [[sanciones_canónicas]], [[entredicho]], [[suspensión]], [[penas_expiatorias]], [[contumacia]], [[corrección_fraterna]], [[penitencia]], [[satisfacción]], [[humildad]], [[obediencia]], [[soberbia]], [[murmuración]], [[autoridad_religiosa]], [[perdón]]
 
 ## Referencias
 
@@ -164,3 +212,5 @@ Este delito fue introducido como *delictum gravius* en la reforma de 2010, segú
 - CEC §1463
 - Com-CIC-Eunsa, comentarios a cc. 1312, 1331, 1318; capítulo II del Libro VI
 - SmTh Suppl. q.21-24
+- San Benito de Nursia, *Regla de San Benito*, caps. 23, 24, 25, 26, 27, 28
+- Código fuente: `raw/Bases_doctrinales-raw/La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos/23_capítulo_23.md`, `24_capítulo_24.md`, `25_capítulo_25.md`, `26_capítulo_26.md`, `27_capítulo_27.md`, `28_capítulo_28.md`

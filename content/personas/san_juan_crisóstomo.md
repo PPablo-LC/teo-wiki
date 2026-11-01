@@ -2,18 +2,18 @@
 type: Persona
 title: "San Juan Crisóstomo"
 tags: ["persona", "patrística"]
-timestamp: 2026-07-12
+timestamp: 2026-10-31
 description: "Juan Crisóstomo (c. 347-407), arzobispo de Constantinopla, Padre y Doctor de la Iglesia, famoso por su elocuencia predicadora."
 ---
 
 # San Juan Crisóstomo
 
 > Área: Patrística / Moral
-> Última actualización: 2026-07-12
+> Última actualización: 2026-10-31
 
 ## Contexto histórico
 
-Juan Crisóstomo (c. 347-407) nació en Antioquía de Siria en el seno de una familia acomodada. Estudió retórica bajo la dirección de Libanio, el más célebre orador pagano de su tiempo. Fue bautizado hacia 370 y recibió el sacramento del bautismo de manos del obispo Melecio de Antioquía. Tras una etapa de vida monástica en los desiertos de Siria (381-383), regresó a Antioquía, donde fue ordenado diácono (386) y presbítero (387). Durante los doce años de su ministerio parroquial en Antioquía pronunció las homilías que lo harían célebre, incluyendo las *Catequesis bautismales* y las *Homilías sobre las Estátuas*.
+Juan Crisóstomo (c. 347-407) nació en Antioquía de Siria en el seno de una familia acomodada. Estudió retórica bajo la dirección de Libanio, el más célebre orador pagano de su tiempo, y fue discípulo de Diodoro de Tarso. Fue bautizado hacia 370 y recibió el sacramento del bautismo de manos del obispo Melecio de Antioquía. Tras una etapa de vida monástica en los desiertos de Siria (381-383), regresó a Antioquía, donde fue ordenado diácono (386) y presbítero (387). Durante los doce años de su ministerio parroquial en Antioquía pronunció las homilías que lo harían célebre, incluyendo las *Catequesis bautismales* y las *Homilías sobre las Estátuas*.
 
 En 398, contra su voluntad, fue consagrado arzobispo de Constantinopla. Desde esa sede emprendió una enérgica reforma de las costumbres del clero y denunció la opulencia de la corte imperial, lo que le granjeó poderosos enemigos. En 403 fue desterrado por primera vez por orden de la emperatriz Eudoxia; aunque regresó rápidamente, una segunda condena al exilio en 404 lo llevó a las fronteras del Imperio. Murió en Comana del Ponto el 14 de septiembre de 407, en el camino de su exilio, pronunciando las palabras: «Gloria a Dios por todo».
 
@@ -55,7 +55,7 @@ Juan Crisóstomo aparece referenciado en los siguientes artículos del wiki:
 
 ## Ver también
 
-[[san_agustín]], [[san_atanasio]], [[patrística]], [[moral_patrística]], [[escuela_exegética_de_antioquía]], [[padres_de_la_iglesia]], [[liturgia_de_san_juan_crisóstomo]]
+[[san_agustín]], [[san_atanasio]], [[patrística]], [[moral_patrística]], [[escuela_exegética_de_antioquía]], [[padres_de_la_iglesia]], [[liturgia_de_san_juan_crisóstomo]], [[san_pablo]], [[predicación]]
 
 ## Referencias
 

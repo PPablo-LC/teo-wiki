@@ -29,7 +29,7 @@ Empieza con cosas muy sencillas:
 
 - **Por la mañana**, al despertar, ofrece tu día a Dios: «Señor, te ofrezco todo lo que haga hoy: mis estudios, mis juegos, mis comidas, mis molestias. Que todo sea para tu gloria».
 - **Por la noche**, haz un breve [[examen_de_conciencia]]: da gracias a Dios por lo bueno del día, pídele perdón por lo que salió mal, y dile que confías en Él.
-- **Reza el [[padrenuestro]]**, el [[avemaría]], el [[gloria]]. Son las oraciones más antiguas y más hermosas de la Iglesia. No las digas de prisa: piensa lo que dices.
+- **Reza el [[padre_nuestro]]**, el [[avemaría]], el [[gloria]]. Son las oraciones más antiguas y más hermosas de la Iglesia. No las digas de prisa: piensa lo que dices.
 - **Lee un poco de la Biblia**, aunque sean solo cinco minutos. El [[evangelio]] del día es un buen lugar. Pregúntate: ¿qué me dice Jesús aquí?
 
 ### Los sacramentos: tus alas para volar

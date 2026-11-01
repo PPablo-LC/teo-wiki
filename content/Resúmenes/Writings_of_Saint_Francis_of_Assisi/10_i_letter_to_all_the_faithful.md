@@ -14,7 +14,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 - [[eucaristía]] — Reverencia al Cuerpo y Sangre de Cristo
 - [[eucaristía]] — Mandato de recibir el Cuerpo y Sangre del Señor
-- [[sacramento_de_penitencia]] — Confesión de todos los pecados a un sacerdote
+- [[sacramento_de_la_reconciliación]] — Confesión de todos los pecados a un sacerdote
 - [[oración]] — Oración continua con el Padrenuestro
 - [[caridad]] — Obras de misericordia y limosnas
 - [[amor_a_los_enemigos]] — Mandato evangélico de amar a los enemigos

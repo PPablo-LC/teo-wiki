@@ -47,7 +47,7 @@ La fe en Cristo forma un hombre nuevo que vive según el Espíritu, en Cristo y 
 
 ## Relaciones doctrinales
 
-Se vincula con el [[discipulado]], la [[imitación_de_cristo]], la [[vocación]], la [[conversión]], la [[perfeccion_cristiana]], la [[obediencia_de_cristo]] y la [[kinesis]].
+Se vincula con el [[discipulado]], la [[imitación_de_cristo]], la [[vocación]], la [[conversión]], la [[perfección_cristiana]], la [[obediencia_de_cristo]] y la [[kinesis]].
 
 ## Ver también
 [[discipulado]], [[imitación_de_cristo]], [[vocación]], [[conversión]]

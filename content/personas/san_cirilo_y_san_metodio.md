@@ -27,7 +27,7 @@ Tras la muerte de Cirilo en Roma en 869, Metodio continuó la obra misionera com
 
 ### Según Historia de la Iglesia — P. Antonio Rivero L.C. (HI)
 
-Rivero presenta a los hermanos de Tesalónica como figuras clave en la expansión del cristianismo bizantino hacia Europa central y oriental. Destaca que su trabajo lingüístico — la creación del alfabeto y la traducción de los textos sagrados al paleoeslavo — fue un acto de inculturación sin precedentes, comparable al trabajo de [[san_jeronimo]] con la Vulgata en Occidente. Rivero señala que la aprobación papal de la liturgia eslava por Adrián II fue un hito en la historia de la Iglesia, pues afirmó el principio de que la lengua litúrgica no tiene que ser necesariamente el latín o el griego. Los hermanos fueron canonizados por León XIII en 1881 y declarados copatronos de Europa por [[juan_pablo_ii]] en 1980 (HI, cap. 18).
+Rivero presenta a los hermanos de Tesalónica como figuras clave en la expansión del cristianismo bizantino hacia Europa central y oriental. Destaca que su trabajo lingüístico — la creación del alfabeto y la traducción de los textos sagrados al paleoeslavo — fue un acto de inculturación sin precedentes, comparable al trabajo de [[san_jerónimo]] con la Vulgata en Occidente. Rivero señala que la aprobación papal de la liturgia eslava por Adrián II fue un hito en la historia de la Iglesia, pues afirmó el principio de que la lengua litúrgica no tiene que ser necesariamente el latín o el griego. Los hermanos fueron canonizados por León XIII en 1881 y declarados copatronos de Europa por [[juan_pablo_ii]] en 1980 (HI, cap. 18).
 
 ## Relaciones doctrinales
 
@@ -35,7 +35,7 @@ La misión de Cirilo y Metodio se inscribe en la disputa entre las influencias b
 
 ## Ver también
 
-[[san_jeronimo]], [[juan_pablo_ii]], [[iglesia_vaticana_ii]], [[evangelización]], [[inculturación]], [[eslavos]]
+[[san_jerónimo]], [[juan_pablo_ii]], [[iglesia_vaticana_ii]], [[evangelización]], [[inculturación]], [[eslavos]]
 
 ## Referencias
 - [HI, Archivo 18]

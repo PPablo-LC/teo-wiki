@@ -1,34 +1,46 @@
 ---
 type: Concepto Teológico
-title: Filiación divina
-tags: ["dogmática"]
-
-timestamp: 2026-10-19
-description: "Condición sobrenatural del cristiano que, por la gracia santificante, es hecho hijo adoptivo de Dios Padre, participando de la filiación natural del Verbo encarnado."
+title: "Filiación divina"
+description: "Condición sobrenatural del cristiano que, por la gracia santificante, es hecho hijo adoptivo de Dios Padre y participa realmente de la naturaleza divina."
+tags: ["dogmática", "teología_moral", "antropología_teológica", "bautismo"]
+timestamp: 2026-10-31
 ---
 
 # Filiación divina
 
-> Área: Dogmática
-> Última actualización: 2026-10-19
+> Área: Dogmática / Teología moral
+> Última actualización: 2026-10-31
 
 ## Definición
 
 Condición sobrenatural del cristiano que, por la gracia santificante, es hecho hijo adoptivo de Dios Padre, participando de la filiación natural del Verbo encarnado. Es el fundamento de la vida espiritual y de la relación personal con Dios.
 
+No se trata de una denominación honorífica, sino de una realidad ontológica: la participación real en la naturaleza divina que el bautizado recibe mediante el sacramento del [[bautismo]], que lo configura ontológicamente con Cristo, Hijo unigénito del Padre, y lo hace verdadero hijo de Dios por gracia.
+
 ## Desarrollo doctrinal
 
 La filiación divina es el don más excelente de la gracia, por el cual el hombre es elevado al orden sobrenatural y constituido hijo de Dios en Cristo. No es una filiación natural como la del Verbo, sino adoptiva, aunque real y verdadera. Por ella el cristiano participa de la naturaleza divina (2 Pe 1,4) y puede llamar a Dios «[[abba|Abba]], Padre» (Rm 8,15). Esta condición filial es el fundamento de toda la vida moral y espiritual del creyente, que debe vivir como hijo de Dios en todo momento.
 
+La filiación divina no es simplemente una denominación honorífica, sino una realidad ontológica que transforma la naturaleza del bautizado. Mediante la gracia santificante, el cristiano participa realmente de la naturaleza divina (cf. 2 P 1,4) y se convierte en coheredero con Cristo.
+
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Según el Catecismo de la Iglesia Católica (CEC)
 
-El CEC enseña que la filiación divina se realiza por el bautismo (§536), que nos configura con Cristo y nos hace miembros de la Iglesia. Es el fundamento de la oración cristiana (§1698): «Hemos recibido un Espíritu de hijos adoptivos, en el que clamamos: ¡Abba, Padre!». La filiación divina es el fruto de la gracia santificante y se manifiesta en las bienaventuranzas (§§2009, 1723).
+El CEC enseña que la filiación divina se realiza por el bautismo (§536), que nos configura con Cristo y nos hace miembros de la Iglesia. Por el bautismo el hombre participa en la naturaleza divina y se hace hijo adoptivo del Padre (§1265-1266). Es el fundamento de la oración cristiana (§1698): «Hemos recibido un Espíritu de hijos adoptivos, en el que clamamos: ¡Abba, Padre!»; la vida del bautizado es la vida del hijo de Dios (§1692-1698). La filiación divina es el fruto de la gracia santificante y se manifiesta en las bienaventuranzas (§§2009, 1723).
 
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la filiación divina en la Parte 1 como principio fundamental de la vida espiritual. La gracia santificante, al hacernos partícipes de la naturaleza divina, nos constituye verdaderamente hijos de Dios. Esta condición filial es el fundamento de la [[perfección_cristiana]], pues el cristiano está llamado a ser perfecto como su Padre celestial es perfecto. La filiación divina conlleva una relación especial con la Santísima Trinidad: el Padre nos adopta, el Hijo nos incorpora a sí mismo, y el Espíritu Santo habita en nosotros.
+
+### Según *Elegidos en Cristo para ser santos* (Ele_Xto_Stos)
+
+La filiación divina constituye el fundamento de la vida moral cristiana:
+
+- La participación en la naturaleza divina recibida en el bautismo configura ontológicamente con Cristo y lo hace verdaderamente hijo de Dios.
+- Esta filiación no es solo un título, sino una realidad que transforma el ser del cristiano y fundamenta todas sus obligaciones morales.
+- La vida cristiana es esencialmente la vida del hombre como hijo de Dios en Cristo por medio del Espíritu Santo.
+- La gracia bautismal es solo un inicio, la semilla de una vida nueva que debe crecer hasta la plenitud de Cristo.
 
 ### Según la Vida de Jesús (VJ)
 
@@ -63,16 +75,17 @@ Hahn hace de la filiación divina el eje del capítulo 6 y la presenta como la c
 
 [HHQ, cap. 6]
 
-## Distincioni importanti
+## Distinciones importantes
 
 - Filiación natural (propia del Verbo) vs. filiación adoptiva (propia del cristiano por gracia).
 - La filiación divina se recibe en el bautismo, se aumenta con la gracia santificante, y puede perderse por el pecado mortal.
 - Implica una verdadera participación de la naturaleza divina, no una mera declaración jurídica.
+- **Filiación natural vs. sobrenatural**: la filiación divina del cristiano es sobrenatural, no natural; se concede por gracia, no por naturaleza.
+- **Filiación bautismal vs. perfecta**: la filiación se recibe en el bautismo, pero debe desarrollarse a lo largo de toda la vida cristiana.
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[gracia_santificante]], la [[inhabitación_trinitaria]], el [[bautismo]], la [[perfección_cristiana]] y la [[vida_sobrenatural]].
-
+Se relaciona con la [[gracia_santificante]], la [[inhabitación_trinitaria]], el [[bautismo]], la [[perfección_cristiana]], la [[vida_sobrenatural]], la [[vida_cristiana]] y la [[unión_con_cristo]].
 
 ## Analizado para
 
@@ -83,7 +96,8 @@ Se relaciona con la [[gracia_santificante]], la [[inhabitación_trinitaria]], el
 - [[pinocho]] — convergencia en la paternidad creadora y sacrificial de Gepetto como figura de la filiación divina
 
 ## Ver también
-[[adopción_sobrenatural]], [[gracia_actual]], [[virtudes_infusas]]
+
+[[adopción_sobrenatural]], [[gracia_actual]], [[virtudes_infusas]], [[vida_cristiana]], [[unión_con_cristo]]
 
 ## Referencias
 
@@ -91,5 +105,8 @@ Se relaciona con la [[gracia_santificante]], la [[inhabitación_trinitaria]], el
 - [CEC §1698]
 - [CEC §2009]
 - [CEC §1723]
+- CEC, nn. 1265-1266, 1692-1698
+- CIC, cann. 962-965
 - [TPCr, Parte 1, Principios fundamentales]
+- Ele_Xto_Stos, Cap. I, §1a
 - Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 6

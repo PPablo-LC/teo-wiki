@@ -103,7 +103,7 @@ Se relaciona con la [[providencia]], la [[ley_divina]], la [[libertad_humana]], 
 
 ## Ver también
 
-[[providencia]], [[ley_divina]], [[libertad_humana]], [[perfección_cristiana]], [[padrenuestro]], [[abandono_en_dios]]
+[[providencia]], [[ley_divina]], [[libertad_humana]], [[perfección_cristiana]], [[padre_nuestro]], [[abandono_en_dios]]
 
 ## Referencias
 

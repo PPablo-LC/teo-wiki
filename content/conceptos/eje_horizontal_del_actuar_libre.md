@@ -33,11 +33,11 @@ El eje horizontal del actuar libre no se estudia aislado del [[eje_vertical_del_
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[libertad_humana]], la [[configuración_con_cristo]] y la [[filiacion_divina]].
+Se relaciona con la [[libertad_humana]], la [[configuración_con_cristo]] y la [[filiación_divina]].
 
 ## Ver también
 
-[[libertad_humana]], [[configuración_con_cristo]], [[filiacion_divina]]
+[[libertad_humana]], [[configuración_con_cristo]], [[filiación_divina]]
 
 ## Referencias
 

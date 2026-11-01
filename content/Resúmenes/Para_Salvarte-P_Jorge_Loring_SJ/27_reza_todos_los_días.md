@@ -14,7 +14,7 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 
 - [[persignarse]] — oración de la señal de la cruz
 - [[ofrecimiento_de_obras]] — ofrecimiento de obras del Apostolado de la Oración
-- [[padrenuestro]] — oración enseñada por Jesús
+- [[padre_nuestro]] — oración enseñada por Jesús
 - [[avemaría]] — oración mariana
 - [[gloria]] — doxología trinitaria
 - [[jaculatorias]] — oraciones breves

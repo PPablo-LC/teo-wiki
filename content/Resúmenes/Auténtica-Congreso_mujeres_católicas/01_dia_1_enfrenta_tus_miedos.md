@@ -22,7 +22,7 @@ tags: ["resumen", "espiritualidad", "mujer", "psicología", "biblia"]
 - [[vocación]] — llamado personal de Dios para cada mujer
 - [[providencia_divina]] — Dios actúa en la historia personal
 - [[discernimiento]] — capacidad de distinguir la voluntad de Dios
-- [[teologia_del_cuerpo]] — enseñanza de Juan Pablo II sobre el cuerpo y la sexualidad
+- [[teología_del_cuerpo]] — enseñanza de Juan Pablo II sobre el cuerpo y la sexualidad
 - [[autoconocimiento]] — conocimiento profundo de uno mismo para crecer
 - [[miedo]] — obstáculo principal a superar
 - [[identidad_cristiana]] — quién soy en Cristo

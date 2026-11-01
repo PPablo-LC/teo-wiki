@@ -17,7 +17,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 - [[oración]]
 - [[liturgia]]
 - [[eucaristía]]
-- [[sacramento_de_la_penitencia]]
+- [[sacramento_de_la_reconciliación]]
 - [[liturgia_de_las_horas]]
 - [[conocimiento_de_la_escritura]]
 - [[gracia]]
@@ -45,7 +45,7 @@ Acojer la acción salvífica de Dios mediante una participación activa, conscie
 
 ### Sacramento de la penitencia
 
-El [[sacramento_de_la_penitencia]], encuentro con el amor misericordioso de Dios, fomenta la conversión del corazón y es fuente de renovación interior. Procurar acudir frecuentemente con actitud de fe y penitencia. Los superiores garanticen la libertad en este sacramento y disponibilidad de confesores idóneos.
+El [[sacramento_de_la_reconciliación]], encuentro con el amor misericordioso de Dios, fomenta la conversión del corazón y es fuente de renovación interior. Procurar acudir frecuentemente con actitud de fe y penitencia. Los superiores garanticen la libertad en este sacramento y disponibilidad de confesores idóneos.
 
 ### La Eucaristía
 

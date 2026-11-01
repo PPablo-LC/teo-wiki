@@ -13,7 +13,7 @@ tags: ["resumen", "dives in misericordia"]
 ## Conceptos básicas referenciadas
 
 - [[misericordia_divina|profesar, proclamar, practicar]] — triple deber misionero de la Iglesia
-- [[sacramento_de_la_penitencia|fuentes de la misericordia]] — Eucaristía y reconciliación: amor más fuerte que la muerte y que el pecado
+- [[sacramento_de_la_reconciliación|fuentes de la misericordia]] — Eucaristía y reconciliación: amor más fuerte que la muerte y que el pecado
 - [[perdón|condición de reconciliación]] — setenta veces siete; sin anular las exigencias objetivas de la justicia
 
 ## Contenido

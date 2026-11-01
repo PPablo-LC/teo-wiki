@@ -14,7 +14,7 @@ tags: ["resumen", "la vocacion explicada - san juan pablo ii"]
 
 - [[vocación_sacerdotal|Dios llama desde muy jóvenes]] — iniciativa misteriosa de Dios, no humana; llamada a dar fruto
 - [[proceso_vocacional|descubrimiento y diálogo]] — encontrar la perla, dialogar en oración, batalla con Dios y victoria de la gracia
-- [[sacramento_de_la_penitencia]] — medio singularmente eficaz para el crecimiento espiritual
+- [[sacramento_de_la_reconciliación]] — medio singularmente eficaz para el crecimiento espiritual
 - [[dirección_espiritual]] — evita la arbitrariedad al conocer y decidir la propia vocación
 - [[matrimonio_sacramento|vocación matrimonial]] — misterio de amor que colabora en la obra creadora de Dios
 - [[celibato_sacerdotal|celibato apostólico]] — precioso valor cristiano vivido en medio del mundo o en el sacerdocio

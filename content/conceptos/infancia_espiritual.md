@@ -58,7 +58,7 @@ En *Attraverso la compagnia dei credenti* (TACDC), Giussani insiste en la sencil
 
 ## Relaciones doctrinales
 
-Se vincula con la [[pequeña_vía]], la [[humildad]], la [[confianza_en_dios]], la [[oración_de_abandono]], la [[pureza_de_corazón]], la [[perfeccion_cristiana]], [[santa_teresa_de_lisieux]] y [[san_juan_de_la_cruz]].
+Se vincula con la [[pequeña_vía]], la [[humildad]], la [[confianza_en_dios]], la [[oración_de_abandono]], la [[pureza_de_corazón]], la [[perfección_cristiana]], [[santa_teresa_de_lisieux]] y [[san_juan_de_la_cruz]].
 
 ## Ver también
 [[pequeña_vía]], [[humildad]], [[perfección_cristiana]], [[santa_teresa_de_lisieux]], [[niño]], [[evangelization_and_culture_issue_12_childhood]]

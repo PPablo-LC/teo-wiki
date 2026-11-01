@@ -15,7 +15,7 @@ tags: ["resumen", "ecclesia in america"]
 - [[metanoia|conversión]] — cambio de mentalidad: revisar el modo de actuar según los criterios evangélicos
 - [[vocación_universal_a_la_santidad|santidad]] — meta del camino de conversión; corazón de la santidad: el amor
 - [[lectio_divina|Lectio divina]] — reflexión orante de la Sagrada Escritura con prioridad para toda la Iglesia en América
-- [[sacramento_de_la_penitencia|penitencia y reconciliación]] — superación de su crisis por acción pastoral paciente
+- [[sacramento_de_la_reconciliación|penitencia y reconciliación]] — superación de su crisis por acción pastoral paciente
 
 ## Contenido
 
