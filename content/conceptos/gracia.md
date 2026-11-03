@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia
 tags: ["dogmática"]
 
-timestamp: 2026-10-13
+timestamp: 2026-11-02
 description: "Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina y de la vida eterna; el creer mismo es ya obra de la gracia."
 ---
 # Gracia
 
 > Área: Dogmática
-> Última actualización: 2026-10-13
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -178,6 +178,14 @@ Frente a esa ruina, la gracia es absolutamente indispensable para conservar la p
 
 La gracia no dispensa de la lucha, sino que se une al «propósito firme» y a la «buena voluntad» de la joven —«Tres cuartos, Teresa y Dios, esto ya es muchísimo»—, y con la ayuda de Cristo hace posible lo que sin Él es imposible: «No es posible llevar una vida pura a no ser con la ayuda de Nuestro Señor Jesucristo» [PyH, cap. 6]. Se relaciona así con la [[conversión]], la [[oración]] y el [[sacramento_de_la_reconciliación]], y se ordena a la [[castidad]].
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Ladaria distingue tres sentidos del «ideal»: el pelagiano (alcanzable con las propias fuerzas), el protestante (irrealizable porque el hombre siempre será pecador) y el católico (encarnado por la gracia). Solo la Virgen María vivió sin pecado; los demás caemos y nos levantamos, pero con la gracia de Dios realizamos un ideal alcanzable. Por eso hay que insistir en la gracia y en los santos en la catequesis. Melina desarrolla la sinergia entre gracia y libertad: el hombre no puede medir su verdadero potencial solo por su naturaleza frágil y pecadora, sino por la gracia (*Veritatis splendor*); la moral es respuesta a un don. El pelagianismo reduce el cristianismo a un ideal y pone toda la carga en las capacidades humanas; el gnosticismo separa la gracia de la carne, de la Iglesia y de los sacramentos. La gracia nunca va contra Cristo, el *Logos*.
+
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, EPL) presenta la gracia como principio que introduce en el dinamismo de la acción la primacía del don y la amistad con Cristo. La gracia transforma el obrar y lo eleva a la comunión con Dios. La sinergia entre gracia y libertad es el corazón de la moral cristiana.
+
 ## Distinciones importantes
 
 - Gracia santificante (habitual) vs. gracias actuales
@@ -223,3 +231,5 @@ Barron cierra este tema conectando 2 Samuel con su ensayo sobre "La gracia y la 
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §7a
 - [PyH, Cap. 3]
 - [PyH, Cap. 6]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

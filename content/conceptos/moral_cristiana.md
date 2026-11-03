@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Moral cristiana
 tags: ["moral"]
 
-timestamp: 2026-06-29
+timestamp: 2026-11-02
 description: "Conjunto de enseñanzas y principios derivados del Evangelio que ordenan los actos humanos del cristiano a su fin último —Dios— y a la vida de santidad."
 ---
 # Moral cristiana
 
 > Área: Moral
-> Última actualización: 2026-06-29
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -39,6 +39,10 @@ Pinckaers aborda la existencia y especificidad de la moral cristiana como cuesti
 
 San Pablo constituye el testigo principal: la fe en Cristo es la fuente de la moral cristiana, que produce un «hombre nuevo», una vida según el Espíritu, la imitación de Cristo y la caridad como ágape (FMC cap. V). El Sermón de la Montaña, para san Agustín y santo Tomás, es el texto propio de la Ley nueva y contiene toda la información de la vida cristiana (FMC cap. VI). Santo Tomás, con su tratado de la Ley nueva (Ia-IIae qq.106-108), ofrece la sistematización más lograda de la moral cristiana: su elemento principal es la gracia del Espíritu Santo, no un conjunto de preceptos exteriores (FMC cap. VII).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, Caps. IV-VI) presenta la moral cristiana como desarrollo de la elección fundamental por Cristo en comunión con la Iglesia. La moral cristiana no es una aplicación extrínseca de principios, sino la plenitud del obrar cristiano. VS identifica las dos rupturas (libertad/verdad y fe/moral) que conducen a la crisis.
+
 ## Distinciones importantes
 
 - Moral cristiana (fundada en la Revelación y la ley natural) vs. moral laicista (autónoma, sin referencia a Dios)
@@ -59,3 +63,4 @@ Se relaciona con [[teología_moral]], [[ley_moral]], [[ley_natural]], [[concienc
 - UDE, Cap. XVIII-XIX, XXVII
 - Juan Pablo II, *Veritatis Splendor* (1993)
 - Pablo VI, *Humanae Vitae* (1968)
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

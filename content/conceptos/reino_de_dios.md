@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Reino de Dios
 tags: ["dogmática"]
 
-timestamp: 2026-07-20
+timestamp: 2026-11-02
 description: "El Reino de Dios (o Reino de los Cielos) es el señorío soberano de Dios sobre todas las cosas, manifestado en la historia mediante la acción salvífica de Cristo."
 ---
 # Reino de Dios
 
 > Área: Dogmática
-> Última actualización: 2026-07-20
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -114,6 +114,10 @@ El Reino de Dios en San Francisco es experiencia de comunión trinitaria y meta 
 
 **Reino y universalidad:** En la Carta a todos los fieles, San Francisco escribe «a todos los cristianos que están en todo el mundo» (CFi. 17). El Reino es universal y la llamada se dirige a todos.
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. VII) presenta la acción cristiana inserta en el dinamismo del Reino de Dios: tiene una polaridad diacrónica (presente/futuro) y una polaridad particular/universal. La Iglesia es morada de la esperanza. La acción humana se inserta en el dinamismo del cumplimiento del Reino en la historia. La esperanza del Reino es el alma del dinamismo moral cristiano.
+
 ## Distinciones importantes
 
 - **Reino de Dios** ≠ **reino temporal**: el Reino de Dios no es de este mundo; no se identifica con ninguna estructura política.
@@ -137,3 +141,4 @@ El Reino de Dios se relaciona con la [[iglesia]] (su germen en la tierra), la [[
 - [SFrAs, RGl II.6 — Reino y pobreza evangélica]
 - [SFrAs, CFi. 17, 27 — Reino universal y eucaristía]
 - [SFrAs, RErm. 11 — Reino y búsqueda prioritaria]
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

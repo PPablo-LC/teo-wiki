@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pureza
 tags: ["moral", "ascética"]
 
-timestamp: 2026-10-13
+timestamp: 2026-11-03
 description: "La pureza es la virtud moral que ordena rectamente la sexualidad humana según la razón iluminada por la fe, integrando la afectividad y el cuerpo en el respeto del propio estado de vida."
 ---
 # Pureza
 
 > Área: Moral / Ascética
-> Última actualización: 2026-10-13
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -74,6 +74,18 @@ Tóth también usa una bellísima imagen para mostrar lo delicado de este don: �
 La enseñanza de PyH apunta a la [[castidad]], al [[pudor]] y a la [[modestia]] como guardianes de este don sagrado.
 
 
+### Según *Living the Truth in Love* (LTL)
+
+[[bob_schuchts]] trata la pureza como fruto de la **[[sanación_interior]]**,
+no como conquista de la voluntad sobre una herida no curada: primero la
+seguridad (saber que se es amado), después la madurez (aprender a amar), y
+solo entonces la pureza (amar sin usar). Robin Beck muestra, desde su propia
+historia, por qué importa el lenguaje bíblico: Mt 5,28 sitúa la pureza en la
+mirada, y la continencia de la mirada es un camino practicable. La obra
+insiste en que la **[[castidad]]** y la pureza no son negaciones del deseo,
+sino su educación: el deseo se purifica cuando se ordena al don, y se corrompe
+cuando se convierte en consumo.
+
 ## Distinciones importantes
 
 - **Pureza del cuerpo vs. pureza del espíritu**: la primera se refiere a la castidad externa; la segunda, a la rectitud de los pensamientos y deseos internos.
@@ -89,6 +101,7 @@ La pureza se relaciona con la [[templanza]], la [[castidad]], el [[celibato]], l
 [[templanza]], [[celibato]], [[matrimonio]], [[lujuria]], [[virtud_de_la_religión]], [[pureza_de_corazón]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - [CEC §2517-2527, §2531-2533]
 - [TPCr, Segunda Parte, Tratado de las virtudes, Cap. sobre la templanza]

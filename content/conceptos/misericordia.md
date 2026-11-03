@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misericordia
 tags: ["dogmática"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-02
 description: "La misericordia es el atributo divino por el cual Dios, movido por su infinita bondad, se compadece de la miseria humana."
 ---
 # Misericordia
 
 > Área: Dogmática
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -200,6 +200,10 @@ perdón de la diversidad**.
 - La misericordia como la palabra que **más define a Dios**: «la parola che più definisce Dio» (Tischreden 119, 05).
 - Es un concepto **inalcanzable** para el hombre, pero ofrecido por el perdón (05).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Chaput advierte que la misericordia es una de las cualidades más bellas de Dios, pero se usa mal para evitar el trabajo del razonamiento y del juicio moral. La misericordia supone una injusticia previa que corregir; el sacerdote debe ser la misericordia de Cristo: verdad sobre el bien y el mal con voz de amor. Melina desarrolla la misericordia como medicina: la claridad, no la rigidez, genera esperanza; iluminar la conciencia es la forma suprema de misericordia; enseñar al ignorante y corregir al que yerra son obras espirituales de misericordia. La Iglesia es la posada del Buen Samaritano, «hospital de campaña» que no solo consuela, sino que sana y capacita para caminar. La confesión es el lugar donde la misericordia se encuentra con la verdad: el sacerdote no gratifica sentimientos con estratagemas, sino que sirve al encuentro con Cristo.
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.
@@ -258,3 +262,4 @@ Este tratamiento de la misericordia en 2 Samuel ofrece una visión integradora d
 - Evangelization & Culture, Issue 6 (EcC6): §§04, 07, 10, 12 (Scalia, Worner, Zimmerer, Seewald)
 - AED, 20 (§27-29) — Tischrede 184: *Situazione temporalesca* — la certeza de ser mirados con misericordia y la elección como síntoma del ser amado.
 - AED, 24 (§209, 221) — Tischrede 179: *Preferenza e segno* — la misericordia que no concluye una ecuación y la certeza de la gracia vivida.
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

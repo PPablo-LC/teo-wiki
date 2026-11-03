@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Paternidad"
 description: "Atributo divino revelado por Cristo (Dios Padre) y vocación humana que participa de la fecundidad creadora y educadora de Dios; se ejercita en el amor, la corrección compasiva y la presencia ordinaria."
 tags: ["teología", "dios_padre", "moral"]
-timestamp: 2026-09-02
+timestamp: 2026-11-02
 ---
 
 # Paternidad
 
 > Área: Teología / Moral
-> Última actualización: 2026-09-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -37,6 +37,10 @@ La paternidad se vive en los ritos cotidianos: leer en voz alta con los hijos (*
 
 **La paternidad humana como participación en la paternidad eterna (Reginald Floeder, 23_soul_floeder.md).** La paternidad auténtica no es una invención cultural ni un arquetipo sociológico, sino participación en la única paternidad de Dios: «solo hay un Padre: el Padre». Toda paternidad humana — y en sentido eminente la del sacerdote, que es «icono del Padre» en la persona de Cristo — comunica la vida recibida de Dios. La condición de la paternidad verdadera es ser primero hijo: «los que llegan a una celestial altura son los que primero aprenden a vivir como hijos», recibiendo del Padre el ser y la vida que han de transmitir. Este ordenación teocéntrica vacía la paternidad de toda pretensión autocéntrica y la constituye como don y misión.
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Pell ofrece la reflexión más amplia: la paternidad es central porque Jesús llamó Padre a Dios; desde el comienzo de la modernidad hay una sospecha y hostilidad difusa contra la paternidad, como si privara de libertad y autonomía, como si quisiéramos olvidar que hemos nacido de otro y que la vida nos ha sido dada. La ideología de género radicaliza esa negación al negar que el cuerpo tenga un significado previo a la voluntad. Juan Pablo II: el cuerpo es testigo de que la existencia es un don. El padre no es solo un amigo: pone límites, mantiene la disciplina y da ejemplo de sacrificio; su misericordia es señalar el camino de salvación. Jesús, nuevo Adán, es el modelo de masculinidad genuina.
+
 ## Distinciones importantes
 
 - **Paternidad divina vs. paternidad humana**: la divina es infalible y perfecta; la humana es participación limitada y falible
@@ -56,3 +60,4 @@ La paternidad se vive en los ritos cotidianos: leer en voz alta con los hijos (*
 - CEC 221–222, 239–240
 - EAC-12, 04, 05, 15, 16
 - EAC-17, Reginald Floeder. «The Soul of Man: Christian Fatherhood as Participation in the Eternal Fatherhood of God», in *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute.
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

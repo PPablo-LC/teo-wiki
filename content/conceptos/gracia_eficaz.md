@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Gracia eficaz"
 description: "Auxilio actual que alcanza infaliblemente el efecto para el que Dios lo concede, sin coaccionar la libertad; su modo de eficacia fue la cuestión debatida en la controversia De Auxiliis."
 tags: ["dogmática", "gracia", "soteriología"]
-timestamp: 2026-10-26
+timestamp: 2026-11-01
 ---
 
 # Gracia eficaz
 
 > Área: Dogmática / Gracia
-> Última actualización: 2026-10-26
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -50,6 +50,16 @@ De ahí la importancia decisiva de la [[fidelidad_a_la_gracia]]: una infidelidad
 
 **Inocencio X** (1654, D-1097) — Declaró que no debía prestarse fe alguna a los escritos, actas y supuestas constituciones que circulaban sobre la cuestión de los auxilios, ni en favor de los dominicos ni en favor de Molina y los jesuitas; debían observarse los decretos de Paulo V y Urbano VIII. La nota añade que Clemente XII (1733) confirmó que no se rebajara nada a las escuelas que sienten de modo diverso sobre la eficacia de la gracia, y que Benedicto XIV (1748) afirmó que la doctrina tomista no había sido reprobada.
 
+### Según La imitación de Cristo (ImC)
+
+**III,55 — La eficacia como poder de la gracia sobre la naturaleza:** El capítulo 55 lleva por título «De la corrupción de la naturaleza y de la eficacia de la gracia divina», y su desarrollo muestra esa eficacia en el orden de la vida concreta: la gracia es lo que permite vencer la «perversa naturaleza, que me arrastra a los pecados y a la perdición» (III,55 [1]) y cumplir el bien que la sola razón no alcanza. «Sin ella ninguna cosa puedo hacer; pero «en ti todo lo puedo, confortado por la gracia» (Flp 4,13)» (III,55 [4]). La eficacia se afirma, pues, como victoria real sobre la concupiscencia y como principio de las buenas obras, no como una moción que el alma pueda atribuirse: «ningún bien se arroga ni se atribuye a sí misma» (III,54 [9]).
+
+**III,55 — La gracia, más fuerte que todo enemigo:** La súplica del alma enumera los efectos que la gracia produce de hecho: «Ella es mi fortaleza, ella me da consejo y favor. Más poderosa es que todos los enemigos, y más sabia que todos los sabios» (III,55 [5]); «ella enseña la verdad, da la ciencia, alumbra el corazón, consuela en las aflicciones, destierra la tristeza, quita el temor, alimenta la devoción, produce lágrimas afectuosas» (III,55 [6]). La eficacia se mide por el efecto alcanzado en el alma —luz, consuelo, fortaleza, devoción—, es decir, por su fruto real y no por la sola oferta del auxilio.
+
+**III,54 — El crecimiento como signo de eficacia:** «Cuanto más apremiada y vencida es la naturaleza, tanta mayor gracia se infunde; y cada día es reformado el hombre interior, según la imagen de Dios, con nuevas visitaciones» (III,54 [10]). La gracia no solo vence en un acto: instaura un proceso de reforma creciente del hombre interior.
+
+> **Nota de lectura:** La «eficacia» de ImC III,55 es la del poder transformante de la gracia sobre la naturaleza caída —una eficacia ascética y experimental—, no la cuestión metafísica sobre el modo de la infalibilidad que dividió a tomistas y molinistas en la controversia *De Auxiliis*. La obra no toma posición en esa disputa.
+
 ## Distinciones importantes
 
 - **Gracia eficaz ≠ gracia irresistible.** La eficacia no suprime la libertad ni equivale a coacción; la voluntad consiente porque Dios le da la inclinación, no porque se le imponga un acto externo (SmTh Iª-IIª q.112 a.3).
@@ -57,6 +67,7 @@ De ahí la importancia decisiva de la [[fidelidad_a_la_gracia]]: una infidelidad
 - **Suficiente vs. eficaz.** La suficiente confiere el poder obrar; la eficaz confiere el obrar. No son dos gracias distintas, sino dos aspectos de la ordenación del auxilio a su efecto.
 - **Gracia eficaz y predestinación.** La eficacia se ordena al cumplimiento infalible de la voluntad consiguiente de Dios, sin que ello anule la voluntad salvífica universal ni la responsabilidad del hombre (TPCr, II Parte, cap. IV).
 - **Cuestión de escuela, no de dogma.** La Iglesia no ha definido el modo de la eficacia; la controversia *De Auxiliis* terminó con la libertad de las escuelas, no con una definición dogmática (D-1090, D-1097).
+- **Eficacia metafísica vs. eficacia ascética.** La primera pregunta por qué la moción divina alcanza infaliblemente el consentimiento; la segunda, qué produce de hecho la gracia en el alma. ImC III,55 se mueve en el segundo registro.
 
 ## Relaciones doctrinales
 
@@ -74,3 +85,4 @@ La gracia eficaz articula la doctrina de la [[gracia]] con la [[predestinación]
 - Denzinger, *Enchiridion Symbolorum*, D-1090, D-1097 y nota (Clemente XII, 1733; Benedicto XIV, 1748).
 - Luis de Molina, *Concordia liberi arbitrii cum gratiae donis*.
 - Reginald Garrigou-Lagrange, *Perfection chrétienne et contemplation*, cap. V (citado en TPCr).
+- ImC, *La imitación de Cristo*, libro III, capítulos 54 y 55

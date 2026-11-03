@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-02
 description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado; acto razonable de adhesión a una persona según Giussani."
 ---
 # Fe
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -145,6 +145,10 @@ que comienza» (Jn 15,16; 03, 215).
 - La fe reconoce a **Cristo hecho histórico, irrepetible e inigualable**; contra el «ecumenismo equivocado» que disuelve a Cristo en el sentimiento religioso (Tischreden 92, 01).
 - El **ojo de la fe** ([[pierre_rousselot]]): atravesar lo real para descubrir lo que lo sostiene; el paso se paga con la cruz (01).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, Cap. IV) presenta la fe como un nuevo principio operativo que transforma el obrar. La fe no es una aplicación extrínseca de principios, sino el desarrollo de la elección fundamental por Cristo en comunión con la Iglesia. La ruptura entre fe y moral (VS 4) es la raíz teológica de la crisis. La fe, como expresión suprema de la libertad, es la aceptación de la acción de Cristo en nosotros, abriendo un nuevo horizonte de vida.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_fe]]
@@ -239,3 +243,4 @@ La fe es la primera de las teologales, pues hay que aprehender antes de amar. Su
 - [CompDS §577]
 - [NotaEmocionesFe, nn. 1, 24, 27-28]
 - SmTh IIIª q.7 a.3
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cruz
 tags: ["cristología", "soteriología"]
 
-timestamp: 2026-10-02
+timestamp: "2026-11-01"
 description: "La cruz es el instrumento de la muerte redentora de Cristo y símbolo central de la fe, presente en el deporte como transfiguración del sufrimiento y límite del ídolo."
 ---
 # Cruz
 
 > Área: Cristología / Soteriología
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -172,6 +172,14 @@ Para Giussani la cruz entra en la vida cotidiana como la dificultad que vuelve m
 
 La cruz es, además, el fundamento de la unidad: «La partecipazione alla croce di Cristo è la nostra unità, e la gioia di Dio è la nostra forza» (TACDC, 04, 13). Y no es un recuerdo lejano, sino una presencia: el sacrificio «è Gesù in croce presente, è Dio fatto uomo... perché noi potessimo avere la forza di superare tutte le difficoltà» (TACDC, 04, 151). El pueblo nuevo nace «come collaborazione allo scopo della creazione, come collaborazione a Gesù, a Gesù in croce», hasta que «la Risurrezione di Cristo, come terminale della croce, penetra... tutto ciò che si è insieme» (TACDC, 03, 331).
 
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+El Kempis hace de la cruz el camino real del seguimiento y la prueba decisiva del amor. El *Libro Segundo* la expone en dos capítulos encadenados: «Cuán pocos son los que aman la cruz de Cristo» (II, 11) y «Del camino real de la santa cruz» (II, 12). El primero contrasta la multitud de los que buscan el reino con la escasez de los que llevan la cruz: «Muchos siguen a Jesús hasta el partir del pan, mas pocos hasta beber el cáliz de la pasión»; «Muchos aman a Jesús cuando no hay adversidades». El segundo desarrolla la letanía que resume su teología de la cruz: «En la cruz está la salud, en la cruz la vida, en la cruz está la defensa contra los enemigos, en la cruz está la infusión de la suavidad soberana, en la cruz está la fortaleza del corazón, en la cruz está el gozo del espíritu, en la cruz está la suma virtud, en la cruz está la perfección de la santidad. No está la salud del alma ni la esperanza de la vida eterna sino en la cruz».
+
+De ahí la tesis de la universalidad de la cruz: «Ve donde quisieres, busca lo que quisieres y no hallarás más alto camino en lo alto, ni más seguro en lo bajo, sino la vía de la santa cruz»; «Vuélvete arriba, vuélvete abajo, vuélvete fuera, vuélvete dentro, y en todo esto hallarás cruz». El argumento es cristológico: «Toda la vida de Cristo fue cruz y martirio, ¿y tú buscas para ti holganza y gozo?», pues «convenía que Cristo padeciese... y así entrase en su gloria» (Lc 24,26). Sigue una ley de crecimiento espiritual: «cuanto más altamente alguno aprovechare en espíritu, tanto más graves cruces hallará muchas veces, porque la pena de su destierro crece más por el amor».
+
+La cruz llevada con amor produce un fruto paradojal: «cuando se sujeta a ella de su voluntad, toda la carga de la tribulación se convierte en confianza de la divina consolación», y el hombre llega a no querer estar sin tribulación. El autor advierte expresamente que «esto no es virtud humana, sino gracia de Cristo, que tanto puede y hace en la carne flaca, que lo que naturalmente siempre aborrece y huye, lo acometa y ame con fervor de espíritu» (II, 12). La fórmula de la amistad con Cristo es el cáliz: «Bebe afectuosamente el cáliz del Señor, si quieres ser su amigo y tener parte con Él»; y la conclusión, con Hech 14,21: «por muchas tribulaciones nos conviene entrar en el reino de Dios». El *Libro Tercero* completa la doctrina en la paciencia a ejemplo de Cristo (III, 18-19) y en la fórmula final de la vida religiosa: «Verdaderamente, la vida del buen religioso es cruz, pero guía al paraíso» (III, 56).
+
 ## Distinciones importantes
 
 - **Cruz material**: instrumento de la pasión.
@@ -214,3 +222,4 @@ La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alia
 - AED, 16, 191-205 — Tischrede 44: *Secondo l'armonía generale* — la cruz y el fascino de lo efímero.
 - AED, 17, 227 — Tischrede 45: *L'affermazione amorosa* — abrazar la cruz como origen de la resurrección.
 - AED, 07, 177 — Tischrede 147: *Incollamenti e strappi* — quien se desprende por Cristo guarda la cosa para la vida eterna.
+- Tomás de Kempis, *La imitación de Cristo*, II, 11-12; III, 18-19, 56 (ImC)

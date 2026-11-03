@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mortificación
 tags: ["ascética"]
 
-timestamp: 2026-10-02
+timestamp: "2026-11-01"
 description: "La mortificación es el ejercicio deliberado de renuncia y dolor voluntario por el que el alma doma las pasiones desordenadas."
 ---
 # Mortificación
 
 > Área: Ascética
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -73,6 +73,18 @@ no voy a ver la televisión y ordeno la cocina. Esto es mortificación» (03, 23
 sacrificio… el sacrificio es como el viento que purifica el aire en la afectividad» (03,
 235).
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+San Felipe Neri equilibra ascesis y gozo: 18 años de pobreza radical en Roma, mortificaciones corporales severas, amante de la Summa Theologiae; pero su ascetismo se alivia con «una contagiosa ligereza de corazón». Sus penitencias casi ridículas (llegar con media barba rapada a una fiesta en su honor, leer libros frívolos durante las comidas para bajarlo a tierra) tenían por meta «producir humildad y mantener la sencillez». La mortificación cristiana no excluye el humor: lo perfecciona.
+
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+El Kempis entiende la mortificación como el trabajo de arrancar la raíz, no de podar las ramas: «El que solamente quita el mal que se ve y no arranca la raíz, poco aprovechará; antes tornarán a él más presto las tentaciones, y se hallará peor» (I, 13). De ahí su imagen agrícola: «Si solamente en las observancias de fuera ponemos el aprovechamiento de la vida religiosa, presto se nos acabará la devoción. Mas pongamos la segur a la raíz, porque, libres de las pasiones, poseamos pacíficas nuestras almas» (I, 11). Y su cálculo realista: «Si cada año desarraigásemos un vicio, presto seríamos perfectos» (I, 11).
+
+La mortificación tiene por objeto inmediato las pasiones desordenadas, y su fruto es la paz: «Cuantas veces desea el hombre desordenadamente alguna cosa, luego pierde el sosiego... En resistir, pues, a las pasiones se halla la verdadera paz del corazón, y no en seguirlas» (I, 6). El *Libro Tercero* la sitúa en el combate entre naturaleza y gracia: la naturaleza «no quiere ser mortificada de buena gana, ni estrechada, ni vencida», mientras que «la gracia estudia en la propia mortificación, resiste a la sensualidad, quiere estar sujeta, desea ser vencida» (III, 54). Su fórmula más breve sigue siendo la del capítulo 32: «deja tu apetito, y hallarás sosiego».
+
+El Kempis añade dos matices que la distinguen de un ascetismo cerrado. El primero es la gradualidad y la paciencia consigo mismo: «Resiste en los principios a tu inclinación y deja la mala costumbre, porque no te lleve poco a poco a mayor dificultad» (I, 11); «No hay hombre tan perfecto ni tan santo que no tenga algunas veces tentaciones, y no podemos vivir sin ellas... las tentaciones son muchas veces utilísimas al hombre..., porque en ellas es uno humillado, purgado y enseñado» (I, 13). El segundo es la ordinariedad: la mortificación que el libro recomienda al fiel común es la del trato y la lengua —«Más fácil cosa es callar siempre que hablar sin errar» (I, 20)— y la que se pide antes de comulgar: «Llora y duélete de que aún eres tan carnal y mundano, tan poco mortificado en las pasiones, tan lleno de movimientos de concupiscencia» (IV, 7).
+
 ## Distinciones importantes
 
 - Mortificación activa: la que el alma realiza voluntariamente con la gracia
@@ -84,10 +96,6 @@ sacrificio… el sacrificio es como el viento que purifica el aire en la afectiv
 ## Relaciones doctrinales
 
 Se relaciona con la [[abnegación]], el [[desprendimiento]], la [[purificación_activa]] y las [[purificaciones_pasivas]]. Es instrumento de la [[vía_purgativa]] y preparación para la [[contemplación_infusa]].
-
-### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
-
-San Felipe Neri equilibra ascesis y gozo: 18 años de pobreza radical en Roma, mortificaciones corporales severas, amante de la Summa Theologiae; pero su ascetismo se alivia con «una contagiosa ligereza de corazón». Sus penitencias casi ridículas (llegar con media barba rapada a una fiesta en su honor, leer libros frívolos durante las comidas para bajarlo a tierra) tenían por meta «producir humildad y mantener la sencillez». La mortificación cristiana no excluye el humor: lo perfecciona.
 
 ## Analizado para
 
@@ -110,3 +118,4 @@ San Felipe Neri equilibra ascesis y gozo: 18 años de pobreza radical en Roma, m
 - Denzinger D-1333 (Inocencio XII, *Cum alias*)
 - AvEsp, Dicho 22 (pájaro en la liga); Dicho 41 (mortificación para sabor espiritual); Punto 3 (mortificar cuatro pasiones); Punto 42 (hábitos de imperfecciones)
 - Ele_Xto_Stos, Cap. III, §4d
+- Tomás de Kempis, *La imitación de Cristo*, I, 6, 11, 13, 20; III, 32, 54; IV, 7 (ImC)

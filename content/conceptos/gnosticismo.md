@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Gnosticismo
 tags: ["dogmática", "herejías"]
-timestamp: 2026-06-30
+timestamp: 2026-11-02
 description: "Movimiento religioso y filosófico de los primeros siglos del cristianismo que afirma la salvación mediante un conocimiento esotérico (gnosis) reservado a unos pocos iniciados, negando la bondad de la materia y la verdadera encarnación del Verbo."
 ---
 
 # Gnosticismo
 
 > Área: Dogmática — Herejías
-> Última actualización: 2026-06-30
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -55,6 +55,10 @@ D-2174 (San Pío X, sobre autenticidad de las Pastorales): Descarta objeciones b
 
 Cap. XIV: Juan Pablo II advierte que «la gnosis no ha desaparecido nunca del ámbito del cristianismo» y que la New Age es una reaparición de las antiguas ideas gnósticas.
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Pell describe el gnosticismo como un movimiento amplio y diverso de los primeros siglos —a veces filosófico, a veces hedonista, a veces fantasioso—, semejante a las religiones *New Age*: todo y nada; pedía interés y simpatía, no compromiso; casi destruyó la Iglesia; ponía el acento en el conocer, no en el hacer ni en la comunidad, y reservaba tradiciones secretas para élites. Frente a él, la doctrina cristiana es abierta a todos: el credo y las preguntas bautismales. Melina añade el neognosticismo contemporáneo: valoración del conocimiento sobre la fe y de la espiritualización sobre la corporalidad; un gnosticismo paradójico que devalúa la carne y propone una gracia «sin carne», fuera de la economía de la Encarnación, de la Iglesia y de los sacramentos. De Lubac estudió la posteridad espiritual de Joaquín de Fiore: el «tiempo del Espíritu» sin sacramentos, mandamientos ni instituciones. Pero el Espíritu nunca va contra Cristo, el *Logos*.
+
 ## Distinciones importantes
 
 - El **gnosticismo antiguo** (s. II-III) es una herejía doctrinal que niega la encarnación y la bondad de la creación; el **neo-gnosticismo** contemporáneo es una tendencia espiritual que concibe la salvación como experiencia interior desligada de la mediación eclesial y sacramental.
@@ -76,3 +80,4 @@ Se opone a la [[encarnación]], a la [[bondad_de_la_creación]], al [[cuerpo]] y
 - Vocabulario de Teología Bíblica: verdad, revelación, liberación/libertad
 - Denzinger D-64, D-232, D-710, D-2071–2109, D-2174
 - Juan Pablo II, *Cruzando el umbral de la esperanza*, cap. XIV
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

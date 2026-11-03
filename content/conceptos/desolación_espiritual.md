@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Desolación espiritual
 tags: ["ascética", "mística"]
 
-timestamp: 2026-06-13
+timestamp: "2026-11-01"
 description: "Estado de prueba espiritual caracterizado por «oscuridad del alma, turbación en ella, inquietud, moviendo a infidelidad, sin esperanza, sin amor.»"
 ---
 # Desolación espiritual
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-13
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -31,6 +31,14 @@ El P. Gianfranco Ghirlanda, S.J., asistente pontificio, aplicó la doctrina igna
 
 También aparece la desolación espiritual de las madres y padres tras el aborto —culpa, vergüenza y desolación— como herida que la misericordia de Dios y el sacramento de la Reconciliación sanan (Mary McClusky, Proyecto Rachel) [EAC-15, 23].
 
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+El Kempis trata la desolación dentro de su doctrina de la alternancia entre consuelo y prueba, y con un acento que la distingue del esquema ignaciano: la desolación no es solo asalto del enemigo, sino visita pedagógica de Dios. «De dos maneras acostumbro visitar a mis escogidos; esto es, con tentación y consolación. Y dos lecciones les leo cada día: una, reprendiendo sus vicios; otra, amonestándolos al adelantamiento en las virtudes» (III, 3). La desolación tiene, además, un valor de señal: «suele ser la tentación precedente señal que vendrá la consolación», porque «a los probados en tentación es prometida la consolación celestial» (III, 9, con Ap 2,7).
+
+El autor describe con exactitud la experiencia: la ausencia de la gracia deja al alma sin sabor en todo —«aunque esté cercado de hombres buenos, o de hermanos devotos, o de amigos fieles, o de libros santos... todo aprovecha poco y tiene poco sabor cuando soy desamparado de la gracia» (III, 9)— y su primer remedio es la humildad: «Entonces no hay mejor remedio que la paciencia, y negándome a mí mismo, ponerme en la voluntad de Dios» (III, 9). La respuesta orante se formula en dos capítulos: «Sea tu nombre, Señor, para siempre bendito, que quisiste viniese sobre mí esta tentación y tribulación... Hágase tu voluntad» (III, 29), y la oración del desconsolado: «Padre justo y siempre digno de alabanza: llegó la hora en que tu siervo sea probado... Bueno es para mí, Señor, que me hayas humillado» (III, 50).
+
+Dos advertencias cierran su doctrina: no desesperar —«Cuando te fuere quitada la consolación, no desesperes luego; mas espera con humildad y paciencia la visitación celestial, porque poderoso es Dios para tornarte mucha mayor consolación» (II, 9)— y no atribuir la sequedad a causa extraordinaria, pues «ningún santo fue tan altamente arrebatado y alumbrado que antes o después no haya sido tentado» (III, 9), y el propio Cristo advierte que sus santos «no siempre las tuvieron [consolaciones], sino muchas pesadumbres, diversas tentaciones y grandes desconsuelos» (III, 35).
+
 ## Distinciones importantes
 
 - Desolación (viene del maligno, es tentación) vs. purificación pasiva (viene de Dios, es gracia mística)
@@ -50,3 +58,4 @@ Se relaciona con [[discernimiento_de_espíritus]], [[tentación]], [[purificaci�
 - [Asambleas-RC-2018, archivo 10, §1]
 - Ignacio de Loyola, *Ejercicios Espirituales*, nn. 317, 319-321, 326
 - EAC-15, archivos 22, 23
+- Tomás de Kempis, *La imitación de Cristo*, II, 9; III, 3, 9, 29, 35, 50 (ImC)

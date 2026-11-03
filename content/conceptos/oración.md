@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Oración
 tags: ["ascética", "mística"]
 
-timestamp: 2026-10-13
+timestamp: 2026-11-03
 description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno); conciencia de sí hasta el fondo que se topa con un Otro según Giussani."
 ---
 # Oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-10-13
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -198,6 +198,18 @@ El P. Álvaro Corcuera presenta la oración como **corazón de la vida legionari
 
 ### Según La convenienza umana della fede (CUDF)
 
+### Según *Living the Truth in Love* (LTL)
+
+La oración atraviesa los testimonios del volumen como el medio sin el cual el
+acompañamiento se vuelve técnica. Robert y Susan Cavera resumen su camino en
+las «cuatro P»: orar, prepararse (estudiar), perseverar en la oración y
+proclamar. Daniel C. Mattson describe la oración como el lugar donde la
+**[[voluntad_de_dios]]** deja de ser una idea y se vuelve compañía; el
+abandono en la **[[providencia]]** es su forma madura. Eve Tushnet muestra que
+la oración sostiene la **[[castidad]]** cuando falla la motivación. La obra
+insiste en que la oración no es un recurso psicológico entre otros: es el
+encuentro real con Cristo que hace posible lo que la sola voluntad no logra.
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.
@@ -214,6 +226,7 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 [[vida_de_oración]], [[grados_de_oración]], [[meditación]], [[contemplación]], [[oración_litúrgica]], [[amor_puro]], [[unigenitus]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - TPCr, Tercera Parte, Libro II, Cap. III, Secc. I, n.475-483
 - SmTh IIIª q.21 aa.1-4

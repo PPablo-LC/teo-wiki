@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dolor cristiano
 tags: ["ascética", "moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-11-03
 description: "El dolor cristiano es el sufrimiento aceptado, ofrecido y vivido en unión con la Pasión de Jesucristo como medio de reparación del pecado, purificación del alma."
 ---
 # Dolor cristiano
 
 > Área: Ascética / Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -35,6 +35,18 @@ Royo Marín dedica un extenso tratamiento al dolor cristiano en el capítulo sob
 Los beneficios del dolor cristiano son: expía los pecados, somete la carne al espíritu, desprende de las cosas de la tierra, purifica y hermosea el alma, lo alcanza todo de Dios, hace verdaderos apóstoles y asemeja a Jesús y a María.
 
 [TPCr, Tercera Parte, Libro I, Cap. 5, Art. 2]
+
+### Según *Living the Truth in Love* (LTL)
+
+David Prosen describe el mecanismo que conoce bien: adormecer el dolor con la
+conducta, para no sentir lo que no se sabe habitar. La salida no fue una
+decisión heroica, sino un encuentro: la luz en la oscuridad. Su testimonio
+muestra que el dolor no se vence negándolo ni huyendo de él, sino
+atravvesándolo con Cristo. Daniel C. Mattson añade la clave teológica: la
+**voluntad permisiva** de Dios y el **[[sufrimiento_redentor]]** permiten
+leer la prueba como lugar de encuentro. La obra coincide en que el dolor
+cristiano no es masoquismo: es el dolor habitado por el amor, que deja de ser
+absurdo sin dejar de ser dolor.
 
 ## Distinciones importantes
 
@@ -62,3 +74,4 @@ El dolor cristiano se conecta con la [[redención]] (participación en la obra r
 - [CEC §§1500-1509]
 - [CEC §1459]
 - [TPCr, Tercera Parte, Libro I, Cap. 5, Art. 2]
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).

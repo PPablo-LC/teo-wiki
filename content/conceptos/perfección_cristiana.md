@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Perfección cristiana"
 description: "Plenitud de la vida sobrenatural que consiste esencialmente en la caridad: el amor perfecto a Dios y al prójimo por Dios, meta de todo cristiano."
 tags: ["ascética", "mística"]
-timestamp: 2026-10-31
+timestamp: 2026-11-01
 ---
 
 # Perfección cristiana
 
 > Área: Ascética — Mística
-> Última actualización: 2026-10-31
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -115,6 +115,18 @@ El **Concilio de Vienne** (1311-1312), bajo Clemente V, condenó los errores de 
 
 **Inocencio VI** (D-575-577): Condenó los errores de Dionisio Foullechat sobre la perfección y la pobreza: que la ley del amor quita toda propiedad y dominio (D-575); que la abdicación de toda potestad temporal de dominio muestra el estado perfectísimo (D-576); que Cristo no abdicó la posesión y derecho sobre lo temporal no se tiene de la Nueva Ley (D-577). Las tres proposiciones fueron declaradas falsas, erróneas y heréticas.
 
+### Según La imitación de Cristo (ImC)
+
+**I,1 — La perfección no está en el saber sino en la vida:** «¿Qué te aprovecha disputar altas cosas de la Trinidad, si careces de humildad, por donde desagradas a la Trinidad? Por cierto, las palabras subidas no hacen santo ni justo; mas la virtuosa vida hace al hombre amable a Dios» (I,1 [2]). El criterio kempisiano de la perfección es, por tanto, la conformidad efectiva de la vida con Cristo: «El que quiera entender plenamente y saborear las palabras de Cristo, conviene que procure conformar con Él toda su vida» (I,1 [1]).
+
+**I,11 — El progreso medido por vicios vencidos:** «Si cada año desarraigásemos un vicio, presto seríamos perfectos» (I,11 [5]). La sentencia concentra la concepción ascética de la obra: la perfección no se alcanza por grandes impulsos, sino por la victoria perseverante sobre las propias inclinaciones; y su síntoma negativo es la conformidad con lo ya logrado: «Nuestro fervor y aprovechamiento cada día debe crecer; mas ahora ya nos parece mucho conservar alguna parte del primer fervor» (I,11 [5]).
+
+**I,25 — Correr a la perfección:** «Corre, pues, con fervor a la perfección, que presto recibirás el galardón de tus trabajos, y no habrá de ahí adelante temor ni dolor en tu fin» (I,25 [1]). Y precisa dónde se gana el progreso: «aprovechan más en las virtudes aquellos que más varonilmente ponen todas sus fuerzas para vencer las que les son más graves y contrarias. Porque allí aprovecha el hombre más y alcanza mayor gracia, donde más se vence a sí mismo y se mortifica en espíritu» (I,25 [3]).
+
+**III,56 — La medida de la perfección:** «Hijo, cuanto puedes salir de ti, tanto puedes pasarte a mí. Así como no desear nada exteriormente produce la paz interior, así el negarse interiormente causa la unión con Dios» (III,56 [1]). La perfección se define así como salida de sí y unión con Dios, en la línea de la [[unión_transformante]], y no como acumulación de prácticas.
+
+**III,54 — El término: de carnal, espiritual:** La gracia «levanta al hombre de lo terreno a amar lo celestial, y de carnal lo hace espiritual» (III,54 [10]); y su crecimiento se acompaña de la reforma interior: «cada día es reformado el hombre interior, según la imagen de Dios, con nuevas visitaciones» (III,54 [10]).
+
 ## Distinciones importantes
 
 - **Perfección esencial**: consiste en la caridad. Sin caridad no hay perfección.
@@ -159,3 +171,4 @@ La perfección cristiana es el fin de todo el [[organismo_sobrenatural]] y la pl
 - Veritatis Splendor §16-18
 - Denzinger D-471-478; D-575-577
 - AvEsp, Dicho 54 (perfección: no buscarse en nonada); Punto 34 (perfección en virtudes que Dios ve); Punto 42 (hábitos de imperfecciones impiden unión divina); Avisos de Gerona §34 (doce estrellas para suma perfección)
+- ImC, *La imitación de Cristo*, libro I, caps. 1, 11 y 25; libro III, caps. 54 y 56

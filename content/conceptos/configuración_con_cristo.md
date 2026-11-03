@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Configuración con Cristo
 tags: ["ascética", "dogmática"]
 
-timestamp: 2026-08-06
+timestamp: 2026-11-02
 description: "La configuración con Cristo es el proceso por el cual el cristiano, mediante la gracia, las virtudes y la imitación de Cristo, se asemeja progresivamente al Hijo de Dios hecho hombre."
 ---
 # Configuración con Cristo
 
 > Área: Ascética / Dogmática
-> Última actualización: 2026-08-06
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -62,6 +62,10 @@ Esta configuración implica una respuesta activa y creativa del cristiano: no se
 
 En el capítulo II la obra enlaza directamente la configuración con el seguimiento de Cristo: «Seguir a Cristo no es una imitación exterior, porque toca al hombre en su interioridad más profunda. Ser discípulo de Jesús significa configurarse con Él, que se hizo siervo hasta la entrega en la cruz (cf. Flp 2, 5-8). Por la fe, Cristo habita en el corazón del creyente (cf. Ef 3, 17), y así el discípulo se asimila a su Señor y se configura con Él. Este es el fruto de la gracia, de la presencia operante del Espíritu Santo en nosotros» (Ele_Xto_Stos, Cap. II, §4a). La configuración es así el resultado del seguimiento del discípulo: por la comunión de vida con Cristo, recibida por la gracia, el cristiano se hace progresivamente capaz de conocer y amar como Cristo, hasta poder decir con San Pablo: «Ya no vivo yo, sino que Cristo vive en mí» (Ga 2, 20).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Chaput precisa que la visión católica del ministerio es configuración, no liderazgo: el liderazgo depende de talentos naturales, pero en el orden sagrado se produce una configuración literal a Cristo que hace del sacerdote un icono suyo. El sacramento del orden configura a Cristo en las dimensiones esenciales del hombre —en su naturaleza y en su acción—; el ordenado ofrece su humanidad a Cristo como medio para actuar en el mundo, y donde está el sacerdote está la presencia de Cristo. Pell lo formula con la categoría de *alter Christus*: solo permaneciendo uno con Cristo se puede ser verdadero padre. Ladaria subraya que antes de «hacer», el sacerdote debe «ser»: el ser sacerdotal es la fuente de la acción misionera.
+
 ## Distinciones importantes
 
 - **Imitación de Cristo**: ejercicio ascético de reproducir las virtudes de Cristo por esfuerzo propio.
@@ -86,3 +90,4 @@ La configuración con Cristo es el medio para alcanzar la [[perfección_cristian
 
 - [TPCr, Parte I, Cap. 4]
 - [JorSant-2026, 12.06.2026]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

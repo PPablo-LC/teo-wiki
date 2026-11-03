@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Comunión
 tags: ["sacramental", "eclesiología"]
 
-timestamp: 2026-08-09
+timestamp: 2026-11-02
 description: "La comunión designa tanto la recepción sacramental del Cuerpo y la Sangre de Cristo en la Eucaristía como la participación en la vida divina y la unidad de los fieles entre sí y con Dios."
 ---
 # Comunión
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-08-09
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -76,6 +76,10 @@ Mons. Munilla propone las capillas laterales de la catedral como imagen de la co
 
 La comunión, en Giussani, tiene un carácter tangible y orgánico: «Quello che noi abbiamo udito, quello che noi abbiamo visto, quello che noi abbiamo toccato del Verbo della vita… lo portiamo a voi, affinché siate in comunione con noi» (1 Gv). Quienes se reúnen participan de «una unità dentro la grande unità della Chiesa… Questa unità è un aspetto del corpo di Cristo, a cui tu appartieni… per la compagnia di cui ti ha circondato». Esa comunión realiza el pueblo nuevo, que es «uno, uno, uno»: «non esiste più né Giudeo, né Greco, né schiavo, né libero, né uomo, né donna, ma tutti voi siete una persona sola in Cristo Gesù» (Gal 3,26-28); unidad que no homogeneiza, pues cada grupo nace «da una grazia particolare dello Spirito… che si chiama "carisma"».
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. II) presenta la comunión como fin intrínseco, don original y verdad de la acción: actuar *para* la comunión (fin), actuar *desde* la comunión (don y promesa) y actuar *en* la comunión (verdad y regla). La comunión con Dios es el fin último de la acción. La desproporción entre la acción humana y su fin se supera por el encuentro con Cristo y el don de la Eucaristía.
+
 ## Distinciones importantes
 
 - **Comunión sacramental**: recepción del Cuerpo de Cristo en la Eucaristía
@@ -109,3 +113,4 @@ La comunión, en Giussani, tiene un carácter tangible y orgánico: «Quello che
 - [VocTeoBib, «Comunión»]
 - Ele_Xto_Stos, Cap. III, §4b
 - [CIS, «La catedral interior del sacerdote», 2026]
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

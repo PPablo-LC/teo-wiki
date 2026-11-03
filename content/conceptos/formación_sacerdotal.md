@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Formación sacerdotal
 tags: ["teología_espiritual", "eclesiología"]
 
-timestamp: 2026-06-14
+timestamp: 2026-11-02
 description: "La formación sacerdotal es el proceso integral de preparación espiritual, intelectual, humana y pastoral por el que los candidatos al presbiterado son configurados con Cristo Sacerdote."
 ---
 # Formación sacerdotal
 
 > Área: Teología espiritual / Eclesiología
-> Última actualización: 2026-06-14
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -52,6 +52,10 @@ Juan Pablo II describe su propia **formación sacerdotal**: seminario clandestin
 
 La Carta Apostólica *Una fidelidad que genera futuro* (2025) desarrolla ampliamente la formación sacerdotal en su sección «Fidelidad y servicio» (UFGF §5-13). Retoma la enseñanza de *Optatam totius* sobre la formación permanente (OT §22) y la *Ratio Fundamentalis* sobre la configuración con Cristo (UFGF §9). León XIV describe el seminario como «escuela de los afectos», donde «no hay nada en ustedes que deba ser descartado, sino que todo debe ser asumido y transfigurado en la lógica del grano de trigo» (UFGF §12). Subraya la urgencia de una formación integral que asegure la madurez humana y la solidez espiritual, especialmente ante la crisis de abusos (UFGF §10). La formación permanente es presentada como «memoria viva y actualización constante de la propia vocación en un camino compartido» (UFGF §8). El abandono del ministerio por algunos sacerdotes exige, según el Papa, un renovado compromiso formativo que sea «un camino de familiaridad con el Señor que involucra a toda la persona: el corazón, la inteligencia, la libertad» (UFGF §11) [UFGF, 22.12.2025].
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Ladaria insiste en la formación intelectual y espiritual: los Padres de la Iglesia, la *Summa theologiae*, Ireneo, Hilario, Congar, de Lubac, von Balthasar, Rahner, Orbe, Ratzinger, los clásicos españoles y rusos. La fe se enseña en niveles —catequesis, teología— con su lógica propia, sin perder la integridad; el riesgo es el activismo y la burocracia. Pell defiende el estudio de la filosofía: sin ella el sacerdocio se entiende como una colección de funciones y no como un cambio del ser; el sacerdote y el obispo deben ser estrategas, y la reforma eclesial se basa en el *ressourcement*. Chaput describe la fragilidad de los candidatos y la necesidad de acompañar a los nuevos sacerdotes en el primero y segundo año, emparejándolos con pastores-mentores y cambiando rápido el destino si hay conflicto de personalidad. Melina añade la importancia de la amistad sacerdotal y de la lectura de los grandes testigos.
+
 ## Distinciones importantes
 
 - Formación inicial (seminario) vs. formación permanente (después de la ordenación)
@@ -67,3 +71,4 @@ La Carta Apostólica *Una fidelidad que genera futuro* (2025) desarrolla ampliam
 - [ConcVatII, Presbyterorum Ordinis §19-22]
 - [CEC §1579, §1596]
 - [UFGF, 22.12.2025]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

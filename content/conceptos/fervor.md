@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fervor
 tags: ["ascética"]
 
-timestamp: 2026-05-29
+timestamp: 2026-11-01
 description: "El fervor espiritual es la intensidad del amor divino y del deseo de servir a Dios."
 ---
 # Fervor
 
 > Área: Ascética
-> Última actualización: 2026-05-29
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -48,12 +48,27 @@ El fervor no debe confundirse con la devoción sensible o los consuelos espiritu
 ### Según el Catecismo (CEC)
 
 El CEC §2732 enseña que el combate de la oración requiere «vigilancia y fervor» para superar las dificultades. La perseverancia en la oración es signo de fervor. El CEC §1434-1435 menciona el fervor como disposición para la penitencia y la renovación espiritual.
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica un capítulo entero a la tibieza y mediocridad (n.258-290), que son la ausencia de fervor. El fervor de la caridad crece con la pureza del corazón y la fidelidad a la gracia. «Si estos religiosos procuraran la pureza del corazón, el fervor de la caridad crecería en ellos más y más» (cita al P. Lallemant, n.290).
 
 Las almas fervorosas son las que corresponden a las cuartas moradas de Santa Teresa: firmeza en evitar el pecado, comunión diaria con fervorosa preparación, fidelidad a la oración a pesar de las arideces (n.192). El fervor es el motor que impulsa al alma desde la vía purgativa hasta la vía unitiva.
 
+
+### Según La imitación de Cristo (ImC)
+
+**I,25 — El fervor como carrera hacia la perfección:** «Corre, pues, con fervor a la perfección, que presto recibirás el galardón de tus trabajos, y no habrá de ahí adelante temor ni dolor en tu fin. Ahora trabajarás un poco y hallarás después gran descanso y aun perpetua alegría» (I,25 [1]). El fervor se mide por el esfuerzo presente y se sostiene en la promesa: «Si permaneces fiel y fervoroso en obrar, sin duda será Dios fiel y rico en pagar» (I,25 [1]). Kempis añade una advertencia contra la presunción que puede acompañarlo: «Ten firme esperanza que alcanzarás victoria; mas no conviene tener seguridad, porque no aflojes ni te ensoberbezcas» (I,25 [1]).
+
+**I,11 — El fervor debe crecer, no solo conservarse:** «Si cada año desarraigásemos un vicio, presto seríamos perfectos. Mas ahora, al contrario, muchas veces experimentamos que fuimos mejores y más puros en el principio de nuestra conversión que después de muchos años de profesos. Nuestro fervor y aprovechamiento cada día debe crecer; mas ahora ya nos parece mucho conservar alguna parte del primer fervor» (I,11 [5]). La mediocridad se describe aquí no como caída grave, sino como conformidad con lo ya alcanzado.
+
+**I,18 — El fervor de los orígenes:** «¡Oh, cuán grande fue el fervor de todos los religiosos al principio de sus sagrados institutos!» (I,18). La memoria del fervor primero no se propone como nostalgia, sino como estímulo: los antiguos «fueron puestos por dechados a todos los religiosos, y más nos deben mover para aprovechar en el bien que no la muchedumbre de los tibios para aflojar y descaecer» (I,18).
+
+**I,19 — Renovarlo cada día:** «Cada día debemos renovar nuestro propósito y excitarnos a mayor fervor, como si hoy fuese el primer día de nuestra conversión» (I,19 [1]). El fervor no se conserva por inercia: se renueva con el propósito explícito y la petición humilde —«dame gracia para que comience hoy perfectamente, porque no es nada cuanto hice hasta aquí» (I,19 [1])—.
+
+**III,5 — El fervor como efecto del amor:** En el capítulo del «maravilloso efecto del divino amor», el alma pide ser arrebatada por él: «Sea yo cautivo del amor, saliendo de mí por el grande fervor y admiración» (III,5 [6]); y describe el amor como «viva llama y ardiente antorcha» que «sube a lo alto y se remonta con seguridad» (III,5 [5]). El fervor aparece así como el ímpetu del amor, no como un esfuerzo voluntarista añadido.
+
+**III,7 — Fervor y previsión de la prueba:** «Buen consejo es que pienses, cuando estás con fervor de espíritu, lo que puede ocurrir con la ausencia de la luz» (III,7 [4]). El fervor auténtico no se apoya en la seguridad del consuelo presente, sino que se prepara para la aridez sin desfallecer.
 
 ## Distinciones importantes
 
@@ -75,3 +90,4 @@ Es la manifestación activa de la [[caridad]] en su segundo grado (proficientes)
 - TPCr, Tercera Parte, Libro I, Cap. IV, n.258-290
 - TPCr, Tercera Parte, Libro I, n.192
 - CEC §2732, 1434-1435
+- ImC, *La imitación de Cristo*, libro I, caps. 11, 18, 19 y 25; libro III, caps. 5 y 7

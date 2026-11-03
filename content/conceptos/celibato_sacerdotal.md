@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Celibato sacerdotal
 tags: ["ascética", "derecho_canónico"]
 
-timestamp: 2026-10-18
+timestamp: 2026-11-02
 description: "El celibato sacerdotal es la disciplina eclesiástica de la Iglesia latina por la cual los candidatos al presbiterado y al episcopado asumen libremente el estado de vida célibe y casto \"por el Reino..."
 ---
 # Celibato sacerdotal
 
 > Área: Ascética / Derecho Canónico
-> Última actualización: 2026-10-18
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -67,6 +67,10 @@ Mons. Munilla subraya que la carta de León XIV sitúa el celibato en el umbral,
 
 Juan Pablo II aborda el **celibato sacerdotal** a través del testimonio de San Juan María Vianney, cuyo celibato fue una entrega total a Cristo y a las almas. El Papa lo presenta como un don que permite al sacerdote estar plenamente disponible para la [[cura_animarum]] [DyM, V]. El celibato se inscribe en la lógica del [[admirabile_commercium]]: el sacerdote ofrece a Cristo su humanidad y recibe a cambio la capacidad de ser instrumento de salvación [DyM, VIII].
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Pell defiende el celibato latino como dimensión esencial de la paternidad sacerdotal: signo de paternidad espiritual y de amor universal, conforme a la esencia del sacerdocio; un tesoro, no una carga. No se elige porque el matrimonio sea malo, sino sacrificando algo bueno y vital; lleva a plenitud la vocación al don de sí. Se remonta a Jesús (Mt 19:12) y a Pablo, y libera para el servicio. Los debates sobre el celibato son, en el fondo, un aspecto del asalto moderno a toda forma de continencia sexual. Melina lo presenta como celibato profético y esponsal: habla del sentido último de la sexualidad —la unión con Dios—, de la diferencia hombre-mujer como remisión a la diferencia criatura-Creador, y de una nueva fecundidad: engendrar vida de santidad. Chaput subraya que la pregunta básica es si es posible vivir hoy la enseñanza cristiana sobre la sexualidad; el celibato se entiende solo dentro de esa fidelidad.
+
 ## Distinciones importantes
 
 - **Celibato sacerdotal vs. castidad conyugal**: aquel es renuncia al matrimonio por el Reino; esta es virtud dentro del matrimonio. Ambas son caminos de santidad, ordenados a fines distintos.
@@ -92,3 +96,4 @@ El celibato sacerdotal está íntimamente unido a la identidad del [[presbítero
 - [DC-Convivium, 09.02.2026]
 - [UFGF, 22.12.2025]
 - [CIS, «La catedral interior del sacerdote», 2026]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

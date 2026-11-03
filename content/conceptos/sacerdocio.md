@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacerdocio
 tags: ["sacramental", "eclesiología"]
 
-timestamp: 2026-08-09
+timestamp: 2026-11-02
 description: "Institución divina por la cual algunos fieles son consagrados por el sacramento del Orden para actuar en la persona de Cristo Cabeza (in persona Christi Capitis)."
 ---
 # Sacerdocio
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-08-09
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -110,6 +110,18 @@ Dos retratos del sacerdocio en clave teologal:
 - **El Curato d'Ars** (cap. 8): su carisma fue «scomparire talmente dietro al suo ministero... che la sua persona si mescolerà, si confonderà interamente col dono del sacerdozio». Vive el drama de la indignidad: «Il prete lo si capirà soltanto in cielo. Se lo comprendessimo sulla terra ne moriremmo, non di paura, ma d'amore... Dopo Dio il prete è tutto» — y a la vez: «Come è spaventoso essere prete! Come è da compiangere un prete quando dice Messa come una cosa ordinaria!». Pide a Dios conocer su miseria y pide la gracia de olvidarla: «Sono stato così spaventato nel conoscere la mía miseria...». Su «martirio del confessionale» (15-17 horas diarias durante veinte años) es el sacerdocio consumándose en el perdón: «Tutto quello che io so del peccato l'ho imparato da loro».
 - **La reverencia de Francisco al sacerdote indigno** (cap. 6): «se tu sei peccatore io non lo so, ma so che le tue mani possono toccare il Verbo di Dio». En su Testamento: «dell'Altissimo Figlio di Dio null'altro io vedo corporalmente in questo mondo se non il santissimo Corpo e Sangue suo che essi soli consacrano ed essi soli amministrano»; temerá, amará y honrará a los sacerdotes «come miei signori... perché in essi io vedo il Figlio di Dio». Sacerdocio y Eucaristía como «due amori assoluti e congiunti».
 
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+El Kempis dedica al sacerdocio dos capítulos del *Libro Cuarto* y lo hace desde la desproporción entre la dignidad del ministerio y la bajeza del ministro: «Aunque tuvieses la pureza de los ángeles y la santidad de san Juan Bautista, no serías digno de recibir ni manejar este sacramento... Grande es este misterio y grande es la divinidad de los sacerdotes, a los cuales es dado lo que no es concedido a los ángeles» (IV, 5). La distinción entre ministerio y poder divino es neta: «El sacerdote es ministro de Dios, cuyas palabras usa por su mandamiento y ordenación; mas Dios es allí el principal autor y obrador invisible, a cuya voluntad todo está sujeto» (IV, 5).
+
+De esa dignidad deduce la exigencia de santidad: el ordenado «no ha aliviado su carga; antes bien, está atado con más estrecho vínculo de observancia y obligado a mayor perfección de santidad», y «su trato no ha de ser como el de los hombres comunes, sino como el de los ángeles en el cielo o el de los varones perfectos en la tierra» (IV, 5). El capítulo ofrece una lectura simbólica de las vestiduras: el sacerdote lleva «la señal de la cruz de Cristo delante de sí y en las espaldas», delante «para que mire con diligencia las pisadas de Cristo y se esfuerce en seguirle con fervor», detrás «para que sufra con paciencia por Dios cualquier injuria»; y así «es medianero entre Dios y el pecador», y «no cese de orar ni ofrecer el santo sacrificio hasta que merezca alcanzar la gracia y misericordia divina».
+
+El fruto de la celebración se resume en una fórmula de cuatro destinatarios: «Cuando el sacerdote celebra, honra a Dios, alegra a los ángeles y edifica a la Iglesia; ayuda a los vivos, da descanso a los difuntos y hácese participante de todos los bienes» (IV, 5). El capítulo 11 vuelve sobre la pureza exigida con una serie de exclamaciones: «¡Oh, cuán limpias deben estar aquellas manos, cuán pura la boca, cuán santo el cuerpo, cuán inmaculado el corazón del sacerdote, donde tantas veces entra el Autor de la pureza!», con la razón escrita en la Ley: «Sed santos, porque yo, vuestro Dios y Señor, soy santo» (Lev 19,2).
+
+### Según *Priests—What Lies Ahead?* (PWL)
+
+El libro ordena toda su reflexión en torno a cuatro imágenes del Único Sacerdote —maestro, padre, médico y pastor— que no designan cuatro especialidades, sino dimensiones de la única configuración con Cristo. El prólogo de Müller define al sacerdote como «hombre del futuro»: en su representación de la paternidad de Cristo (*in persona Christi capitis*, *Presbyterorum ordinis* 2) sostiene la presencia de la Palabra y de la Eucaristía en el mundo. Ladaria desarrolla el sacerdocio como ministerio de luz y servicio a la verdad; Pell, como paternidad que se propaga por los sacramentos; Melina, como asistencia al Cristo médico que sana las heridas del pecado; Chaput, como pastoreo que guía al pueblo en la Iglesia y en la sociedad. La fecundidad del sacerdocio no se mide por la introspección sobre la propia identidad, sino por la fecundidad del don recibido.
+
 ## Distinciones importantes
 - El sacerdocio común de los fieles se recibe en el Bautismo; el sacerdocio ministerial se recibe en el Orden.
 - Solo el sacerdocio ministerial puede celebrar la Eucaristía y perdonar los pecados.
@@ -135,3 +147,5 @@ Se relaciona con [[orden_sacerdotal]], [[obispo]], [[presbítero]], [[diácono]]
 - [JorSant-2026, 12.06.2026]
 - SmTh IIIª q.22 aa.1-6
 - [VJ, Cap. V]
+- Tomás de Kempis, *La imitación de Cristo*, IV, 5, 11 (ImC)
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

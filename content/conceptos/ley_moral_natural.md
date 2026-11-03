@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Ley moral natural"
 description: "La ley moral natural es la participación de la ley eterna en la criatura racional; es conocida por la recta razón y constituye el fundamento de la ética."
 tags: ["moral_católica", "ética", "derecho_natural"]
-timestamp: 2026-10-02
+timestamp: 2026-11-02
 ---
 
 # Ley moral natural
 
 > Área: Moral / Filosofía moral
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -59,6 +59,14 @@ sobre las circunstancias; por tanto, afirmación del amor o de la gratuidad; y e
 trabajo como el lugar común y ordinario donde esta gratuidad se ejerce. Nada de
 un trabajo fin a sí mismo o que recupera exclusivamente en sí mismo sus propias razones» (01, 167).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina defiende los absolutos morales frente a su reducción a preceptos culturales o jurídicos abolibles: son normas que afectan la verdad del amor y prohíben actos que por su objeto son siempre contra la persona (por ejemplo, la eutanasia). La ley es revelación de la bondad y sabiduría de Dios, impulso a imitar su amor, no mera voluntad legislativa. Critica la casuística de excepciones y la visión nominalista y voluntarista de la ley; la ley es sabiduría que ordena las realidades a su fin. La unidad de intención y acto se opone a toda separación gnóstica (1 Jn 2:4), que Raymond Brown llama «docetismo moral». La *Humanae vitae* propone una auténtica «ecología humana»: hay una naturaleza del cuerpo y relaciones constitutivas cuyo sentido se manifiesta en relación con la felicidad.
+
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, EPL) presenta la ley moral natural como expresión de la verdad sobre el bien, no como mera obligación. La ley natural es la verdad del bien que se manifiesta en la experiencia humana. VS rechaza el nominalismo y el proporcionalismo.
+
 ## Distinciones importantes
 
 **Ley natural conocida explícitamente vs. conocimiento tácito (Finnis):** John Finnis distingue entre el conocimiento proposicional explícito de los principios de la ley natural y su conocimiento tácito, no proposicional. Los principios morales fundamentales —como «el bien debe ser hecho y perseguido»— son conocidos tácitamente por todos los seres racionales, sin necesidad de formulación explícita. Este conocimiento tácito no es inferior: es el modo natural en que la razón humana accede a los primeros principios morales.
@@ -86,3 +94,5 @@ La ley moral natural se articula con la [[conciencia_moral]], pues es la concien
 - Santo Tomás de Aquino, Summa Theologiae, I-II, q. 94
 - Santo Tomás de Aquino, Summa Theologiae, I-II, q. 91, a. 2
 - Dei Verbum (Constitución dogmática del Concilio Vaticano II, 1965)
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

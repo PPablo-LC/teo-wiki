@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ley natural
 tags: ["moral"]
 
-timestamp: 2026-09-12
+timestamp: 2026-11-03
 description: "La ley natural es la participación de la sabiduría y bondad del Creador en el hombre, formado a imagen de Dios; ley escrita en el corazón según Giussani (Rm 2,14-15; Antígona)."
 ---
 # Ley natural
 
 > Área: Moral
-> Última actualización: 2026-09-12
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -115,6 +115,25 @@ Siguiendo a Santo Tomás, se distinguen tres categorías de preceptos de la ley 
 
 **El drama de Antígona.** La ley del corazón puede entrar en conflicto con la ley positiva: el ejemplo de Antígona de Sófocles y la reflexión de Pascoli ilustran que la razón última de la conciencia remite a una instancia más alta que cualquier legislación humana (SR, `17_capitolo_decimo.md`, §86-95).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, EPL) presenta la ley natural como expresión de la verdad sobre el bien. La ley natural se conecta con la razón práctica y la fe. La ley natural es la verdad del bien que se manifiesta en la experiencia humana.
+
+### Según *Living the Truth in Love* (LTL)
+
+[[j_budziszewski]] propone un uso «conversacional» de la ley natural: no como
+arma polémica, sino como mayéutica que despierta en el interlocutor lo que ya
+sabe. Su punto de partida es Rom 2,15 —la ley escrita en el corazón— y la
+certeza de que nadie puede ignorar del todo el bien básico. Distingue cuatro
+testimonios que hacen contacto con ese conocimiento: la conciencia profunda,
+el designio de las cosas, los detalles del designio —la
+**[[complementariedad]]** de los cuerpos— y las consecuencias naturales
+(Rom 1,26, *para phusein*). [[janet_e_smith]] advierte que la experiencia no
+puede sustituir al argumento, y Douglas Mainwaring narra su propio itinerario
+intelectual hacia la ley natural como camino hacia Dios. La obra insiste en
+que la ley natural no es una abstracción católica, sino la verdad sobre el
+bien humano que hace posible el diálogo con quien no comparte la fe.
+
 ## Ver también
 
 [[conciencia_moral]], [[decálogo]], [[ley_evangélica]], [[virtud_de_la_prudencia]], [[ley_eterna]], [[ley_moral]], [[ratio_naturalis]]
@@ -124,3 +143,5 @@ Siguiendo a Santo Tomás, se distinguen tres categorías de preceptos de la ley 
 - CEC nn. 1954-1955
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VIII, §2a y §2c
 - S.Th., I-II, q. 94, a. 6; q. 100, a. 3; II-II, q. 122, a. 1
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).

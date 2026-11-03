@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cristo Maestro
 tags: ["cristología", "teología_fundamental"]
 
-timestamp: 2026-06-21
+timestamp: 2026-11-02
 description: "Cristo es el doctor supremo, la Palabra viva del Padre."
 ---
 # Cristo Maestro
 
 > Área: Cristología / Teología fundamental
-> Última actualización: 2026-06-21
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -53,6 +53,10 @@ Juan Pablo II presenta a Jesús como Maestro divino en su ciclo cristológico. J
 
 Juan Pablo II profundiza en la misión profética de Cristo como Maestro. Jesús cumple la Ley y los Profetas no aboliéndolos sino llevándolos a su plenitud. Su enseñanza con autoridad se manifiesta en las antítesis del Sermón de la Montaña: «Se ha dicho... pero yo os digo». Cristo es el «testigo fiel» de la verdad (Jn 18,37): «Para esto he nacido... para dar testimonio de la verdad». La verdad que Cristo revela es la verdad sobre Dios Padre: «Quien me ve a mí, ve al Padre» (Jn 14,9). La enseñanza de Cristo revela la unión íntima del Hijo con el Padre y su consustancialidad trinitaria. El amor exigente de Cristo —que combina la mansedumbre con el radicalismo evangélico— es parte integral de su magisterio: el seguimiento de Cristo implica la cruz. La verdad que Cristo anuncia interpela la libertad humana y la conciencia, en consonancia con la doctrina de la libertad religiosa ([[dignitatis_humanae]], [[dignidad_humana|Dignitatis Humanae]]) (CJeS, segunda parte: misión profética de Cristo).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Ladaria presenta a Cristo no como «un» maestro, sino como «el» Maestro y Señor. El Sermón de la Montaña y el discurso de despedida son el núcleo de su predicación; sus palabras y sus obras —milagros, gestos, Pasión y Resurrección— van juntas. Todo maestro se pone al servicio del verdadero Maestro, el Espíritu Santo, que habla al corazón (Agustín). El sacerdote enseña un modo humano de vivir enseñando el modo cristiano; es «experto en humanidad porque es experto en Jesús». Su misión es consumar lo humano, purificarlo y llevarlo a lo divino por la predicación, los sacramentos y la oración. Predicar a Cristo es edificar a Cristo en el hombre: Cristo es la medida del hombre.
+
 ## Distinciones importantes
 
 - **Cristo Maestro vs. maestros humanos**: Cristo enseña con autoridad propia y divina; los maestros humanos son instrumentos que transmiten su doctrina.
@@ -78,3 +82,4 @@ Juan Pablo II profundiza en la misión profética de Cristo como Maestro. Jesús
 - CEC §561, §581-582, §857
 - Concilio Vaticano II, Dei Verbum 7-10
 - Jn 21,25; Mt 7,29; 28,19-20
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

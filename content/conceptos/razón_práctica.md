@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Razón práctica"
 tags: ["teología_moral", "antropología_teológica"]
-timestamp: 2026-08-06
+timestamp: 2026-11-02
 description: "Facultad natural de la razón humana capaz de realizar la «traducción» operativa concreta del fin último en las decisiones y acciones de la vida."
 ---
 # Razón práctica
 
 > Área: Moral
-> Última actualización: 2026-08-06
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -28,6 +28,10 @@ El análisis puramente filosófico considera la vida moral como un [[proyecto_mo
 
 La natural capacidad práctica de la razón humana es enriquecida por el horizonte de sentido y por las concretas enseñanzas morales de la Revelación; las demás facultades operativas son sanadas y elevadas por las virtudes cristianas. El cristiano cree que el seguimiento de Cristo se realiza como compromiso obediente con todo lo que resulta bueno, tanto a la luz de la razón natural (ley moral natural), como a la luz de la fe (ley evangélica), aunque normalmente actúe bajo la luz resultante de la colaboración de ambos principios cognoscitivos (Ele_Xto_Stos, Cap. III, §1).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. III) presenta la dimensión práctica de la razón creyente: la razón práctica necesita «creer» para acceder a la verdad sobre el bien. La razón práctica no es autónoma: necesita la fe para acceder a la verdad del bien. La relevancia de la fe para la praxis es esencial.
+
 ## Distinciones importantes
 
 - **Razón práctica vs. razón teórica**: la razón práctica no contempla el fin último abstractamente, sino que lo «traduce» operativamente en decisiones y acciones concretas.
@@ -44,3 +48,4 @@ Se relaciona con el [[proyecto_moral]], la [[traducción_operativa_del_fin_últi
 ## Referencias
 
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. III, §1
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

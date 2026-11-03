@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Familia
 tags: ["doctrina_social"]
 
-timestamp: 2026-07-25
+timestamp: 2026-11-03
 description: "La familia es la primera sociedad natural, fundada sobre el matrimonio entre un hombre y una mujer, comunidad de vida y amor conyugal, célula primera y vital de la sociedad."
 ---
 # Familia
 
 > Área: Doctrina Social
-> Última actualización: 2026-07-25
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -156,6 +156,25 @@ Elementos centrales en REG:
 - **La gratuidad del «ci sono»**: la gratitud por la generación y la [[paternidad]]/[[maternidad]] como riconsegna del hijo al Otro, que lo reconoce distinto y libre (18).
 - **El método educativo**: la familia educa a través de la [[experiencia]] —tradición asimilada, conducción de la mano, hipótesis de trabajo, riesgo y compañía estable— y no mediante el [[poder]] (18).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina presenta la familia como «Iglesia en la carne» (Scheeben): en las relaciones que nacen de la carne se refleja el misterio del Cuerpo de Cristo. La relacionalidad es constitutiva de la persona —todos somos hijos, esposos, hermanos, padres— y la familia genera el «nosotros» como desbordamiento de intimidad. Hay una circularidad entre la vocación de la familia como Iglesia doméstica y la vocación del sacerdote a entregarse virginal y eucarísticamente para formar el Cuerpo de la Iglesia. Pell y Chaput subrayan la crisis de la paternidad y de la transmisión de la fe en la familia, y la necesidad de comunidades y minorías creativas que sostengan a las familias. Chaput testimonia la caridad pastoral con los parientes de sangre y la primacía de Cristo sobre los vínculos familiares cuando el Evangelio lo exige.
+
+### Según *Living the Truth in Love* (LTL)
+
+Jennifer Roback Morse muestra cómo la revolución sexual transformó
+estructuralmente la familia: la anticoncepción, el divorcio sin culpa y la
+redefinición jurídica del matrimonio trasladaron al niño el costo de las
+decisiones adultas. Frente a ello, el volumen presenta a los padres como
+destinatarios del cuidado: Robert y Susan Cavera narran su camino en
+EnCourage y proponen las «cuatro P» —orar, prepararse, perseverar, proclamar—;
+[[timothy_g_lock]] ofrece pautas para cuando un hijo dice «mamá, papá, soy
+gay», y Janelle Hallman trabaja con padres de hijos identificados como LGB.
+La tesis común es que la familia no es un obstáculo para la verdad, sino su
+lugar primero: allí se aprende la **[[castidad]]**, la
+**[[amistad_cristiana]]** y la confianza en la **[[providencia]]**, y allí se
+sana la **[[vergüenza]]** que el hijo no puede sanar solo.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]
@@ -179,6 +198,7 @@ Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]
 [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[educación_de_los_hijos]], [[bien_común]], [[subsidiariedad]], [[solidaridad]], [[familiaris_consortio]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - [CompDS §209-214]
 - [CompDS §230-242]
@@ -187,3 +207,4 @@ Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]
 - [FC §17, §18, §42, §43, §46, §47, §86]
 - [JdN_I, caps. 1]
 - EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 1, 12-17.
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

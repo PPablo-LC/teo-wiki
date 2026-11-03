@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Santidad
 tags: ["dogmática", "ascética"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-02
 description: "La santidad es la perfección de la caridad, participada por la gracia; el deporte se revela como itinerario de santidad a través de las tres vías y el testimonio de atletas santos."
 ---
 # Santidad
 
 > Área: Dogmática / Ascética
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -120,6 +120,10 @@ social, aquí en Nueva Delhi, ha dicho: “Vosotros y nosotros estamos haciendo 
 mismo trabajo social, pero hay una diferencia entre vosotros y nosotros: nosotros lo
 hacemos por algo, vosotros lo hacéis a alguien”» (03, 205).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción) presenta la santidad como vocación y como criterio de la moral cristiana. La moral cristiana es un camino de perfección y santidad. VS propone la vocación a la santidad como criterio de la moral.
+
 ## Distinciones importantes
 
 - **Santidad ontológica**: la gracia santificante en el alma (santidad de estado).
@@ -148,3 +152,4 @@ La santidad se funda en la [[gracia_santificante]], se expresa en las [[virtudes
 - [EAC-8, Issue 8 «Humor», archivos 05, 16, 21]
 - [EAC-20, 05_lives.md (Caldwell), 23_soul.md (Gadberry), 10_spotlight_adams.md, 11_minds.md, 12_science.md, 20_special_feature_piazza.md, 21_spotlight_masters.md, 16_feature_garcia.md, 19_feature_bradford.md]
 - [RdS, cap. 10 «La santità del cristiano»]
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

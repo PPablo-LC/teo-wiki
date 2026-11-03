@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ex opere operato
 tags: ["dogmática_—_sacramentos"]
 
-timestamp: 2026-06-25
+timestamp: 2026-11-02
 description: "*Ex opere operato* (locución latina.)"
 ---
 # Ex opere operato
 
 > Área: Dogmática — Sacramentos
-> Última actualización: 2026-06-25
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -31,6 +31,10 @@ El Denzinger recoge en D-169 la carta de Anastasio II, que constituye un testimo
 
 - [D-851]
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Ladaria explica la distinción con la fórmula agustiniana «Judas bautiza, Cristo bautiza»: la eficacia del sacramento no depende de la santidad del ministro, sino de la obra de Cristo en su Pasión y Resurrección. Esta verdad da paz existencial, pero no basta: el sacerdote debe vivir lo que predica y santificarse santificando. Pell matiza que el sacerdote es instrumento vivo: si no prepara sus sermones o celebra sin respeto, destruye la fe del pueblo; hay una correlación entre la liturgia genuina y la fe del sacerdote, y la mala liturgia es destructiva (Benedicto XVI). Melina advierte que tampoco basta repetir el *ex opere operato* de Trento: la gracia sacramental regenera dimensiones concretas del plan original y exige una lógica de la Encarnación, no una mera asignación jurídica.
+
 ## Relaciones doctrinales
 
 El principio *ex opere operato* se opone al [[donatismo]] y a toda doctrina que condicione la validez de los sacramentos a la santidad del ministro. Se complementa con el *ex opere operantis*, que se refiere a los frutos del sacramento según las disposiciones del receptor.
@@ -42,3 +46,4 @@ El principio *ex opere operato* se opone al [[donatismo]] y a toda doctrina que 
 ## Referencias
 
 - Denzinger D-169 (Enchiridion Symbolorum)
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

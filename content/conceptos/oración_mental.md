@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Oración mental
 tags: ["teología_espiritual", "ascética", "mística"]
-timestamp: 2026-06-28
+timestamp: "2026-11-01"
 description: "La oración mental es la forma de oración en la que el alma dialoga con Dios íntimamente, mediante la meditación, la contemplación y el recogimiento interior, distinguiéndose de la oración vocal."
 ---
 
 # Oración mental
 
 > Área: Teología espiritual / Ascética y mística
-> Última actualización: 2026-06-28
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -42,6 +42,14 @@ Características de la oración mental según la CVV:
 - Su desarrollo ordinario consiste en simplificación y creciente profundidad: de ser más discursiva pasa a ser más afectiva, pudiendo llegar a la quietud y a la oración de unión (CVV §526).
 
 
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+El Kempis es, con el *Ejercitatorio* de García de Cisneros, uno de los cauces por los que la oración mental metódica de la *devotio moderna* entró en la espiritualidad moderna. Su doctrina de la oración se concentra en los tres primeros capítulos del *Libro Tercero*, construidos como diálogo: el alma pide —«Habla, Señor, porque tu siervo escucha» (1Re 3,10), y no como los israelitas que dijeron «Háblanos tú, y oiremos; no nos hable el Señor, porque quizá muramos» (Éx 20,19)— y Cristo responde.
+
+El eje es la contraposición entre la enseñanza exterior y la interior: «No me hable Moisés ni ninguno de los profetas, sino más bien háblame tú, Señor Dios, inspirador y alumbrador de todos los profetas; pues tú solo, sin ellos, me puedes enseñar perfectamente... Es verdad que pueden pronunciar palabras, mas no dan espíritu. Elegantemente hablan, mas callando tú no encienden el corazón. Dicen la letra, mas tú abres la inteligencia» (III, 2). De ahí la disposición requerida: «No me sea para condenación la palabra oída y no obrada, conocida y no amada, creída y no guardada» (III, 2), y el modo de escuchar: las palabras de Dios «no se deben traer para vana complacencia sino oírse en silencio y recibirse con toda humildad y grande afecto» (III, 3).
+
+La oración, en el Kempis, no se mide por el método sino por la pureza del destinatario: «Gran arte es saber conversar con Jesús, y gran prudencia saber tener a Jesús. Sé humilde y pacífico, y será contigo Jesús» (II, 8). Y su forma más alta es la que pide el cumplimiento de la voluntad divina: «Señor, si te agradare, hágase esto así... Señor, tú sabes lo que es mejor: haz esto o aquello, según te agradare. De lo que quieras, y cuanto quieras, y cuando quieras» (III, 15). El *Libro Primero* añade el marco ascético sin el cual la oración se dispersa: el amor a la soledad y al silencio (I, 20), con la sentencia de Séneca que el autor hace suya: «Cuantas veces estuve entre los hombres volví menos hombre».
+
 ## Distinciones importantes
 
 - **Oración mental vs. oración vocal**: la primera es interior y puede prescindir de palabras; la segunda emplea fórmulas verbales, aunque lo ideal es que ambas se integren
@@ -62,3 +70,4 @@ Características de la oración mental según la CVV:
 - [CVV-2020 §514-528]
 - [TPCr n. 498-502 (Royo Marín)]
 - Santa Teresa de Jesús, *Vida* 8,5
+- Tomás de Kempis, *La imitación de Cristo*, I, 20; II, 8; III, 1-3, 15 (ImC)

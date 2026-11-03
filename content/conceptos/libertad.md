@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-10-13
+timestamp: 2026-11-02
 description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad; Giussani la presenta como capacidad del fin último."
 ---
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-10-13
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -166,6 +166,10 @@ Elementos centrales en REG:
 - El hombre sigue siempre la **atracción más fuerte** ([[delectatio_victrix]]); la elección es propia de una libertad *in fieri*, no compiuta (12).
 - La libertad puede **decir no a la evidencia** (Capaneo); Dios se comunica a los hombres «últimamente attraverso la libertà» (Tischreden 110, 13).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, Caps. XIV-XVI de Pinkaers citado en EPL) contrapone la «libertad de indiferencia» (nominalismo/modernidad) con la «libertad de calidad» (Tomás). La libertad no es indiferencia ni autonomía, sino apertura a la verdad del bien. La libertad y la verdad forman una unidad: la libertad se realiza en la apertura a la verdad del bien. VS 4 identifica la ruptura entre libertad y verdad como raíz de la crisis moral. La libertad de calidad se educa en tres etapas: disciplina, progreso/virtud y madurez.
+
 ## Relaciones doctrinales
 
 La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].
@@ -194,3 +198,4 @@ Carrón destaca que el encuentro con Cristo deja libre a la persona para acogerl
 - [EAC-14, 04_midnight_oil.md]
 - [EAC-20, 03_word_from_institute.md (Petrusek), 01_from_the_desk.md (Barron), 23_soul.md (Gadberry)]
 - [PyH, Cap. 7]
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

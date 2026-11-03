@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vocación
 tags: ["dogmática", "moral", "ascética"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-02
 description: "La vocación es la llamada de Dios al hombre para que, en libertad, responda al designio divino sobre su vida."
 ---
 # Vocación
 
 > Área: Dogmática / Moral / Ascética
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -128,6 +128,10 @@ Elementos centrales en REG:
 - **El deseo y la vocación**: «Non bisogna prevenire la realtà col desiderio»; «Il piano di risposta al tuo desiderio è fissato da chi ti dà il desiderio» (7).
 - **Vocación y [[compañía]]**: la compañía vocacional ayuda a caminar hacia el Destino y a conocerse (7).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. V) presenta la vocación como «el bien de la persona» en Cristo: la vocación es la llamada personal a la santidad y a la misión. Cristo es la plenitud del bien humano, y la vocación se entiende desde la plenitud de Cristo. Los bienes particulares son «bienes para la persona».
+
 ## Distinciones importantes
 
 - **Vocación universal a la santidad**: llamada que Dios dirige a todos los bautizados, sin excepción.
@@ -152,3 +156,4 @@ La vocación se relaciona con la [[santidad]], la [[perfección_cristiana]], la 
 
 - [CEC §1-3, §825-829, §1533, §1600-1606, §1618-1620, §1877-1880]
 - [TPCr, Primera Parte, Cap. 1; Tercera Parte, Caps. sobre la perfección cristiana]
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

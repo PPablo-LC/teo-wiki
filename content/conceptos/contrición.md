@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Contrición
 tags: ["moral", "sacramental"]
 
-timestamp: 2026-10-19
+timestamp: 2026-11-01
 description: "La contrición es el dolor del alma por los pecados cometidos, acompañado del propósito firme de no volver a pecar."
 ---
 # Contrición
 
 > Área: Moral / Sacramental
-> Última actualización: 2026-10-19
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -30,59 +30,6 @@ La contrición perfecta perdona los pecados mortales incluso antes de la confesi
 «Necesidad de una conversión del corazón, de la penitencia interior» (§1430). «En qué consiste esta conversión del corazón: ruptura con el pecado, aversión al mal, repugnancia por las malas acciones cometidas» (§1431).
 
 La contrición del penitente: «"Contrición perfecta" y atrición. Los pecados veniales y la contrición perfecta» (§1451-1453). «Pedir el don de la contrición» (§1459).
-
-### Según Royo Marín (TPCr)
-
-La contrición es la disposición fundamental para la recepción del sacramento de la Penitencia: «Su falta absoluta haría sacrílega la confesión —si fuera con advertencia— o haría inválida la absolución» (TPCr, Tercera Parte, Libro II, Cap. I).
-
-La contrición debe ser: profunda y humilde, íntegra, universal, y frecuente. «Si se tiene conciencia de haber pecado mortalmente, no acercarse a la Eucaristía sin haber recibido previamente la absolución en el sacramento de la Penitencia, a no ser que concurra un motivo grave y no haya posibilidad de confesarse; y, en este caso, tenga presente que está obligado a hacer un acto de contrición perfecta, que incluye el propósito de confesarse cuanto antes» (TPCr, Tercera Parte, Libro II, Cap. I).
-
-### Según Antonio María Sicari — *Il dono della confessione* (IDC)
-
-La objeción «¿cómo puedo arrepentirme de pecados que siguen fascinándome, y
-cómo prometer lo que casi seguro volveré a hacer?» recibe en Sicari una
-respuesta que desplaza el centro de gravedad del sentimiento al **acto de
-libertad**. Si la remisión dependiera de nuestros actos —argumenta— sería casi
-imposible obtener el perdón cuando falta incluso la fuerza psicológica para
-realizarlos; uno acabaría analizándose sin fin para saber hasta qué punto
-está verdaderamente arrepentido, y sería tanto más inseguro cuanto más se
-analizara.
-
-Pero «no tenemos que *obtener* el perdón»: el perdón es anterior a nuestros
-actos y ha sido puesto gratuitamente a nuestra disposición por Jesús que
-muere en la cruz. No hay que conquistar nada ni garantizar nada. Los actos de
-dolor, de acusación y de propósito son verdaderos y suficientes si indican
-que la libertad busca abrirse para recibir el don: «como quien al menos abre
-las manos para recibir un don que se le ofrece».
-
-El **test** de esa apertura es concreto: la disponibilidad alegre a un
-trabajo sobre uno mismo que refuerce el dolor y el propósito, con paciencia,
-sin desánimos ni cansancios. De esa disponibilidad, y no de la intensidad del
-sentimiento, pueden el confesor y el penitente verificar la calidad
-suficiente del acto ([[propósito_de_enmienda]],
-[[sacramento_de_la_reconciliación]]).
-
-
-## Distinciones importantes
-
-- **Contrición perfecta**: procede del amor a Dios sobre todas las cosas; perdona el pecado incluso antes de la confesión sacramental
-- **Atrición**: procede del temor a las penas o de la fealdad del pecado; es suficiente para la validez del sacramento
-- **Contrición vs. arrepentimiento natural**: la contrición sobrenatural se funda en motivos de fe; el arrepentimiento natural en motivos puramente humanos
-
-## Relaciones doctrinales
-
-- Disposición esencial para el sacramento de la [[sacramento_de_la_reconciliación|penitencia]]
-- Supone la [[conversión]] del corazón
-- Se obtiene por la [[gracia_actual]]
-- Prepara para la [[justificación]]
-
-
-## Analizado para
-
-- [[jeff_lacour_true_freedom_through_prayer]]
-
-## Ver también
-[[arrepentimiento]], [[conversión]], [[penitencia]], [[confesión]], [[justificación]], [[gracia_santificante]], [[pecado]]
 
 ### Según la Summa Theologiae (SmTh) — Suplemento
 
@@ -132,11 +79,74 @@ a.2 — La contrición puede remitir toda la pena debida cuando el acto de carid
 
 a.3 — Una contrición leve, con tal de ser verdadera contrición (que implica que el pecado desagrada más que la separación del fin último), basta para borrar cualquier pecado. Los remedios espirituales reciben eficacia infinita de la potencia divina que en ellos obra.
 
+### Según Royo Marín (TPCr)
+
+La contrición es la disposición fundamental para la recepción del sacramento de la Penitencia: «Su falta absoluta haría sacrílega la confesión —si fuera con advertencia— o haría inválida la absolución» (TPCr, Tercera Parte, Libro II, Cap. I).
+
+La contrición debe ser: profunda y humilde, íntegra, universal, y frecuente. «Si se tiene conciencia de haber pecado mortalmente, no acercarse a la Eucaristía sin haber recibido previamente la absolución en el sacramento de la Penitencia, a no ser que concurra un motivo grave y no haya posibilidad de confesarse; y, en este caso, tenga presente que está obligado a hacer un acto de contrición perfecta, que incluye el propósito de confesarse cuanto antes» (TPCr, Tercera Parte, Libro II, Cap. I).
+
+### Según Antonio María Sicari — *Il dono della confessione* (IDC)
+
+La objeción «¿cómo puedo arrepentirme de pecados que siguen fascinándome, y
+cómo prometer lo que casi seguro volveré a hacer?» recibe en Sicari una
+respuesta que desplaza el centro de gravedad del sentimiento al **acto de
+libertad**. Si la remisión dependiera de nuestros actos —argumenta— sería casi
+imposible obtener el perdón cuando falta incluso la fuerza psicológica para
+realizarlos; uno acabaría analizándose sin fin para saber hasta qué punto
+está verdaderamente arrepentido, y sería tanto más inseguro cuanto más se
+analizara.
+
+Pero «no tenemos que *obtener* el perdón»: el perdón es anterior a nuestros
+actos y ha sido puesto gratuitamente a nuestra disposición por Jesús que
+muere en la cruz. No hay que conquistar nada ni garantizar nada. Los actos de
+dolor, de acusación y de propósito son verdaderos y suficientes si indican
+que la libertad busca abrirse para recibir el don: «como quien al menos abre
+las manos para recibir un don que se le ofrece».
+
+El **test** de esa apertura es concreto: la disponibilidad alegre a un
+trabajo sobre uno mismo que refuerce el dolor y el propósito, con paciencia,
+sin desánimos ni cansancios. De esa disponibilidad, y no de la intensidad del
+sentimiento, pueden el confesor y el penitente verificar la calidad
+suficiente del acto ([[propósito_de_enmienda]],
+[[sacramento_de_la_reconciliación]]).
+
+
+### Según La imitación de Cristo (ImC)
+
+**I,1 — «Más deseo sentir la contrición, que saber definirla»:** La primera advertencia del libro sitúa la contrición por encima de todo saber teológico: «¿Qué te aprovecha disputar altas cosas de la Trinidad, si careces de humildad, por donde desagradas a la Trinidad? [...] Más deseo sentir la contrición, que saber definirla» (I,1 [2]). El conocimiento de la doctrina no sustituye el dolor del alma por el pecado.
+
+**I,21 — La compunción del corazón y su fruto:** El capítulo dedicado a la compunción la propone como medio de aprovechamiento: «Date a la compunción del corazón, y te hallarás devoto. La compunción causa muchos bienes, que la disipación suele perder en breve» (I,21 [1]). Su materia es doble —los propios pecados y la miseria de la condición presente—: «Materia de justo dolor y entrañable contrición son nuestros pecados y vicios, en que estamos tan caídos, que pocas veces podemos contemplar las cosas celestiales» (I,21 [4]). Y su grado se describe con una fórmula memorable: «Cuando el hombre tiene perfecta contrición, luego le es grave y amargo todo el mundo» (I,21 [4]).
+
+**I,21 — La contrición se pide, no se fabrica:** «Ruega, pues, con humildad al Señor que te dé espíritu de contrición y di con el profeta: «Dame, Señor, a comer pan de lágrimas, y a beber en abundancia el agua de mis lloros» (Sal 79,6)» (I,21 [5]). El dolor por el pecado es don que se implora, no sentimiento que se provoque; de ahí que Kempis reconozca la causa de su ausencia: «de no tener o gustar rara vez las cosas divinas, nosotros tenemos la culpa, porque no buscamos la compunción del corazón ni desechamos del todo las vanas y exteriores» (I,21 [3]).
+
+**I,25 — La enmienda como fruto de la contrición:** «Dos cosas especialmente ayudan mucho a enmendarse; es a saber: desviarse con esfuerzo de aquello a que le inclina la naturaleza viciosamente y trabajar con fervor por el bien que más le falta» (I,25 [4]). La contrición se verifica así en la enmienda efectiva de la vida, que es su propósito.
+
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **Alejandro VII** (1667, D‑1146) — Controversia sobre si la atrición concebida por miedo del infierno (con exclusión de la voluntad de pecar y esperanza del perdón) requiere algún acto de amor de Dios para alcanzar la gracia en el sacramento de la penitencia. El papa prohibió que se censurase con nota teológica ninguna de las dos sentencias (la que afirma o la que niega la necesidad de dicho amor), mientras la Sede Apostólica no definiese. Dejó ambas opiniones en libertad, señalando que la sentencia que niega la necesidad de algún amor de Dios en la atrición parecía ser la más común entre los escolásticos.
 
 **Inocencio XI** (1679, D‑1207) condenó como proposición laxista: «Es probable que basta la atrición natural, con tal de que sea honesta.» La condena reafirma que la atrición sobrenatural (fundada en motivos de fe) es disposición necesaria para la validez del sacramento.
+
+## Distinciones importantes
+
+- **Contrición perfecta**: procede del amor a Dios sobre todas las cosas; perdona el pecado incluso antes de la confesión sacramental
+- **Atrición**: procede del temor a las penas o de la fealdad del pecado; es suficiente para la validez del sacramento
+- **Contrición vs. arrepentimiento natural**: la contrición sobrenatural se funda en motivos de fe; el arrepentimiento natural en motivos puramente humanos
+
+## Relaciones doctrinales
+
+- Disposición esencial para el sacramento de la [[sacramento_de_la_reconciliación|penitencia]]
+- Supone la [[conversión]] del corazón
+- Se obtiene por la [[gracia_actual]]
+- Prepara para la [[justificación]]
+
+
+## Analizado para
+
+- [[jeff_lacour_true_freedom_through_prayer]]
+
+## Ver también
+[[arrepentimiento]], [[conversión]], [[penitencia]], [[confesión]], [[justificación]], [[gracia_santificante]], [[pecado]]
 
 ## Referencias
 
@@ -144,3 +154,4 @@ a.3 — Una contrición leve, con tal de ser verdadera contrición (que implica 
 - TPCr, Tercera Parte, Libro II, Cap. I, Art. 4 (La penitencia)
 - Concilio de Trento, Sesión XIV
 - SmTh Suppl. q.1-5
+- ImC, *La imitación de Cristo*, libro I, caps. 1, 21 y 25

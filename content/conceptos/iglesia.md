@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Iglesia
 tags: ["eclesiología"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-02
 description: "La Iglesia es el Pueblo de Dios, el Cuerpo Místico de Cristo y el Templo del Espíritu Santo, instituida por Jesucristo como sacramento universal de salvación."
 ---
 # Iglesia
 
 > Área: Eclesiología
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -142,6 +142,10 @@ alegría para nosotros, seguridad y alegría» (01, 347).
 
 En *Attraverso la compagnia dei credenti* (TACDC), Giussani presenta a la Iglesia como la continuación del acontecimiento de Cristo en la historia. El hecho cristiano permanece presente a través de «il mistero della Chiesa, corpo misterioso di Cristo» (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, ll. 45). Esta presencia se prolonga en el tiempo: «la Chiesa la continuità di Cristo nel tempo e nello spazio… Cristo è con noi tutti i giorni fino alla fine del mondo» (ibid., ll. 191, 217-219). La Iglesia es, así, el lugar donde el encuentro con Cristo se renueva continuamente (00_preliminares.md, l. 10), la compañía que permite que la Presencia que nos ha alcanzado siga alcanzando a los hombres. También señala que la falta de hospitalidad obstaculiza «la possibilità di comunicazione del messaggio» (04_alla_ricerca_del_volto_umano_1996.md, ll. 147), poniendo de relieve el vínculo entre la vida eclesial y la acogida.
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Caps. VI, VII) presenta la Iglesia como morada de la esperanza y como cuestión eclesial de la moral. La moral no es autónoma, sino eclesial. La Iglesia es madre y maestra porque es esposa de Cristo.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[iglesia_cuerpo_místico]]
@@ -165,3 +169,4 @@ Giussani define la palabra «Iglesia» como «un fenómeno histórico il cui uni
 - [VJ, Cap. VIII]
 - [CIS, «La catedral interior del sacerdote», 2026]
 - PLDC, `00_preliminares.md`; `02_parte_prima_al_cuore_del_problema_chiesa.md`; `04_sezione_seconda_il_segno_efficace_del_divino_nella_storia.md`; `05_parte_terza_come_la_chiesa_ha_definito_se_stessa.md`; `06_parte_quarta_la_verifica_della_presenza_del_divino_nella_vit.md`; `01_prefazione_alla_nuova_edizione.md`
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

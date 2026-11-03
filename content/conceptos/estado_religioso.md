@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Estado Religioso
 tags: ["ascética"]
 
-timestamp: 2026-06-12
+timestamp: 2026-11-01
 description: "Según el Código canónico, el estado religioso es el «modo estable de vivir en común, por el cual los fieles, además de los preceptos comunes.»"
 ---
 # Estado Religioso
 
 > Área: Ascética
-> Última actualización: 2026-06-12
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -64,6 +64,16 @@ El **vestido humilde** conviene a los religiosos por ser signo de penitencia y d
 
 Royo Marín sigue a Santo Tomás (II-II, q.186), al Concilio Vaticano II (Constitución dogmática sobre la Iglesia n. 43-47; Decreto sobre la adecuada renovación de la vida religiosa), y a dom Columba Marmion (Cristo, ideal del monje). Cita al P. Marceliano Llamera: «El fin de la vida religiosa es el amor total de Dios. Sin esta aspiración a la perfección del amor divino, ni se quiere, ni se acepta, ni se mantiene, ni se cumple esa vida».
 
+### Según La imitación de Cristo (ImC)
+
+**I,17 — Qué hace al verdadero religioso:** El capítulo «De la vida monástica» no idealiza el estado, sino que enumera sus exigencias: «Conviene que aprendas a quebrantar en muchas cosas, si quieres tener paz y concordia con otros. No es poco morar en los monasterios y congregaciones, y allí conversar sin quejas, y perseverar fielmente hasta la muerte» (I,17 [1]). El criterio decisivo no es la condición externa, sino la mortificación efectiva: «El hábito y la corona poco hacen, mas la mudanza de las costumbres y la entera mortificación de las pasiones hacen al hombre verdadero religioso» (I,17 [2]). De ahí la advertencia sobre la finalidad del estado: «Viniste a servir, no a mandar; persuádete que fuiste llamado para trabajar y padecer, no para holgar y parlar. Pues aquí se prueban los hombres, como el oro en el crisol (Sab 3,6)» (I,17 [3]).
+
+**I,17 — El marco de la vida común:** «Si quieres estar bien y aprovechar, mírate como desterrado y peregrino sobre la tierra. Conviene hacerte simple por Cristo, si quieres seguir la vida religiosa» (I,17 [1]); y «No puede estar mucho tiempo en paz el que no procura ser el menor y el más sujeto de todos» (I,17 [2]). La vida común aparece como el lugar donde se ejercita la humildad, y no como simple estructura jurídica.
+
+**I,18 — El fervor primero de los institutos:** Al contemplar a los padres del desierto, Kempis interroga al presente del estado religioso: «¡Oh, cuán grande fue el fervor de todos los religiosos al principio de sus sagrados institutos!» (I,18); y extrae la consecuencia: «Fueron puestos por dechados a todos los religiosos, y más nos deben mover para aprovechar en el bien que no la muchedumbre de los tibios para aflojar y descaecer» (I,18). La decadencia se diagnostica sin paliativos: «¡Oh tibieza y negligencia de nuestro estado, que tan presto declinamos del fervor primero, y nos es molesto el vivir por nuestra flojedad y tibieza!» (I,18).
+
+**III,54 — La observancia como deseo de la gracia:** En el díptico de la naturaleza y la gracia, la sujeción a la observancia figura entre los movimientos de la gracia: «no quiere usar de su propia libertad, apetece vivir bajo la observancia, no codicia señorear a nadie, sino vivir y servir y estar debajo de la mano de Dios» (III,54 [3]). El estado religioso queda así descrito desde dentro, como forma de vida que la gracia misma inclina a amar.
+
 ## Distinciones importantes
 
 - Estado religioso vs. institutos seculares: estos últimos constituyen también un estado de perfección, aunque incompleto, al carecer de vida común.
@@ -84,3 +94,4 @@ Royo Marín sigue a Santo Tomás (II-II, q.186), al Concilio Vaticano II (Consti
 - SmTh IIa-IIae, q.186, a.1-10
 - SmTh IIa-IIae, q.187, a.1-6
 - CIC cc. 607-709
+- ImC, *La imitación de Cristo*, libro I, caps. 17 y 18; libro III, cap. 54

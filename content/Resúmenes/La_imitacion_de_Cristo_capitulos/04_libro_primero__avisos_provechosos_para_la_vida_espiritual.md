@@ -3,164 +3,78 @@ type: ResumenFuente
 title: "LIBRO PRIMERO — Avisos provechosos para la vida espiritual"
 fuente: La_imitacion_de_Cristo_capitulos
 capítulo: 4
-timestamp: 2026-10-29
-description: "Resumen de 'LIBRO PRIMERO — Avisos provechosos para la vida espiritual' — La_imitacion_de_Cristo_capitulos"
-tags: ["resumen", "la imitacion de cristo capitulos"]
+timestamp: 2026-11-01
+description: "Libro I del Kempis: desprecio de la vanidad, conocimiento de sí, humildad, obediencia, tentaciones, silencio y meditación de la muerte."
+tags: ["resumen", "la imitacion de cristo capitulos", "ascética", "vida_espiritual"]
 ---
 
 # LIBRO PRIMERO — Avisos provechosos para la vida espiritual
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[imitación_de_cristo]] — tesis del capítulo 1: conformar la vida con Cristo para entender su palabra
+- [[contemptus_mundi]] — el desprecio de las vanidades como «suma sabiduría»
+- [[humildad]] — bajo aprecio de sí mismo (cc. 2, 7)
+- [[conocimiento_de_sí]] — «el verdadero conocimiento y desprecio de sí mismo es altísima y doctísima lección» (c. 2)
+- [[vanidad_del_mundo]] — «vanidad de vanidades», Qo 1,2 (c. 1)
+- [[tentación]] y [[prueba_y_tentación]] — el capítulo 13 y su anatomía del proceso tentador
+- [[discernimiento_espiritual]] — prudencia en las acciones y huida de los juicios temerarios (cc. 4, 14)
+- [[mortificación]] — resistencia a las pasiones como camino de paz (c. 6)
+- [[obediencia_hasta_la_muerte]] — capítulo 9 sobre la sujeción
+- [[dirección_espiritual]] — «toma consejo del hombre sabio y de buena conciencia» (cc. 4, 13)
+- [[paciencia]] — sobrellevar los defectos ajenos (c. 16)
+- [[vida_religiosa]] — los capítulos 17, 18 y 19 sobre la vida monástica
+- [[consejos_evangélicos]] y [[pobreza_evangélica]] — los santos padres «pobres de lo temporal, riquísimos en gracia»
+- [[silencio]] y [[soledad]] — capítulo 20
+- [[recogimiento]] e [[interioridad]] — la celda como lugar del encuentro con Dios
+- [[contrición]] — capítulo 21 sobre la compunción del corazón
+- [[muerte_cristiana]] — capítulo 23: aprender a morir al mundo
+- [[juicio_particular]] y [[día_del_juicio]] — capítulo 24
+- [[conversión_continua]] y [[fervor]] — capítulo 25 sobre la fervorosa enmienda
+- [[seguimiento_de_cristo]] y [[cruz]] — el Crucificado como modelo de la profesión religiosa (c. 25)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_libro_primero.md`
+El libro primero —«Avisos provechosos para la vida espiritual»— es, según el estudio introductorio, el que más sabe a Gerardo Groote: el más frío y desordenado de los cuatro, y el más cerca de los *rapiarios* de la *devotio moderna*. Está compuesto de veinticinco capítulos breves, sin arquitectura sistemática, cuyo hilo es la ascesis del hombre interior: renuncia a la vanidad, conocimiento propio, humildad, obediencia, resistencia a la tentación y meditación de los novísimos.
 
+### La imitación de Cristo frente a la ciencia vana (cc. 1-3, 5)
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+El punto de partida es la sentencia de Jn 8,12: «Quien me sigue no anda en tinieblas». De ella deduce el autor que la vida de Cristo es el objeto del estudio cristiano, y que «la doctrina de Cristo excede a la de todos los santos»: quien quiera saborear sus palabras «conviene que procure conformar con Él toda su vida». A partir de ahí se despliega la invectiva contra el saber desvinculado de la caridad: «¿Qué te aprovecha disputar altas cosas de la Trinidad, si careces de humildad, por donde desagradas a la Trinidad?»; «más deseo sentir la contrición, que saber definirla»; «si supieses toda la Biblia a la letra y los dichos de todos los filósofos, ¿qué te aprovecharía todo sin caridad y gracia de Dios?». La conclusión es el texto clásico del *contemptus mundi*: «Vanidad de vanidades y todo vanidad» (Qo 1,2), «sino amar y servir solamente a Dios»; y «suma sabiduría es, por el desprecio del mundo, ir a los reinos celestiales». Sigue la enumeración de las vanidades —riquezas perecederas, honras, apetito de la carne, larga vida sin vida buena, mirar sólo lo presente, amar lo que pasa— y la exhortación a «desviar tu corazón de lo visible y traspasarlo a lo invisible».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LIBRO PRIMERO — Avisos provechosos para la vida espiritual |
-| 3 | H2 | Capítulo 1 — De la imitación de Cristo y desprecio de todas las vanida |
-| 43 | H2 | Capítulo 2 — Del bajo aprecio de sí mismo. |
-| 81 | H2 | Capítulo 3 — De la doctrina de la Verdad |
-| 149 | H2 | Capítulo 4 — De la prudencia en las acciones |
-| 167 | H2 | Capítulo 5 — De la lección de las Santas Escrituras |
-| 191 | H2 | Capítulo 6 — De los deseos desordenados |
-| 209 | H2 | Capítulo 7 — Que se ha de huir la vana esperanza y la soberbia |
-| 237 | H2 | Capítulo 8 — Que se ha de evitar la mucha familiaridad |
-| 257 | H2 | Capítulo 9 — De la obediencia y sujeción |
-| 283 | H2 | Capítulo 10 — Que se ha de cercenar la demasía en las palabras |
-| 307 | H2 | Capítulo 11 — Cómo se debe adquirir la paz y del celo de aprovechar |
-| 351 | H2 | Capítulo 12 — Del provecho de las adversidades |
-| 369 | H2 | Capítulo 13 — Cómo se ha de resistir a las tentaciones |
-| 438 | H2 | Capítulo 14 — Que se deben evitar los juicios temerarios |
-| 458 | H2 | Capítulo 15 — De las obras hechas por caridad |
-| 484 | H2 | Capítulo 16 — De sobrellevar los defectos ajenos |
-| 516 | H2 | Capítulo 17 — De la vida monástica |
-| 540 | H2 | Capítulo 18 — De los ejemplos de los santos padres |
-| 584 | H2 | Capítulo 19 — De los ejercicios del buen religioso |
-| 642 | H2 | Capítulo 20 — Del amor a la soledad y al silencio |
-| 726 | H2 | Capítulo 21 — De la compunción del corazón |
-| 776 | H2 | Capítulo 22 — Consideración de la miseria humana |
-| 844 | H2 | Capítulo 23 — De la meditación de la muerte |
-| 936 | H2 | Capítulo 24 — Del juicio y penas de los pecadores |
-| 1028 | H2 | Capítulo 25 — De la fervorosa enmienda de toda nuestra vida |
+El capítulo 3, «De la doctrina de la Verdad», es la cumbre especulativa del libro: «Bienaventurado aquel a quien la Verdad por sí misma enseña, no por figuras y voces que se pasan». El autor ridiculiza la curiosidad —«¿Qué se nos da de los géneros y especies de los lógicos?»— y pone la unidad del corazón como condición del conocimiento: «Aquel a quien todas las cosas le fueren uno, y las trajere a uno, y las viere en uno, podrá ser estable y firme de corazón»; «Callen todos los doctores; callen las criaturas en tu presencia: háblame tú solo». De ahí la relativización del saber en el juicio: «en el día del Juicio no nos preguntarán qué leímos, sino qué hicimos», y las tres bienaventuranzas que cierran el capítulo: es grande el que tiene gran caridad, el que se tiene por pequeño y el que «todo lo terreno tiene por estiércol para ganar a Cristo» (Flp 3,8). El capítulo 5 aplica el mismo criterio a la lectura de la Escritura: buscar en ella la verdad y no la elocuencia, «no mires quién lo ha dicho, mas atiende qué tal es lo que se dijo», porque «los hombres pasan; mas la verdad del Señor permanece para siempre» (Sal 116,2).
 
+### Conocimiento propio y humildad (cc. 2, 7)
 
-## Secciones incluidas
+El capítulo 2 opone al «soberbio filósofo» el «rústico humilde que a Dios sirve», y formula la paradoja que recorre todo el libro: «El que bien se conoce, tiénese por vil, y no se deleita en alabanzas humanas». La ciencia sin temor de Dios no aprovecha; el mucho saber obliga a más, porque «cuanto más y mejor entiendes, tanto más gravemente serás juzgado si no vivieres santamente». La lección se condensa en una sentencia que el autor llama «altísima y doctísima»: «Gran sabiduría y perfección es sentir siempre bien y grandes cosas de otros, y tenerse y reputarse en nada»; y en la advertencia contra el juicio del prójimo: «Todos somos flacos; mas tú a nadie tengas por más flaco que a ti». El capítulo 7 completa esta doctrina con la huida de la vana esperanza: no confiar en los hombres ni en las criaturas, no gloriarse en riquezas, belleza, ingenio ni buenas obras, porque «de otra manera son los juicios de Dios que los de los hombres». «Continua paz tiene el humilde; mas en el corazón del soberbio hay emulación y saña frecuente.»
 
-# Capítulo 1 — De la imitación de Cristo y desprecio de todas las vanidades del mundo.
+### Deseos desordenados y adquisición de la paz (cc. 6, 11)
 
-[Contenido de esta sección...]
+«Cuantas veces desea el hombre desordenadamente alguna cosa, luego pierde el sosiego»: así comienza el capítulo 6, que localiza la paz no en la satisfacción del apetito sino en su resistencia —«En resistir, pues, a las pasiones se halla la verdadera paz del corazón, y no en seguirlas»—, porque aun lo alcanzado deja «pesadumbre por el remordimiento de la conciencia». El capítulo 11, «Cómo se debe adquirir la paz», ofrece la fórmula evangélica del desasimiento: «Mucha paz tendríamos si en los dichos y hechos ajenos que no nos pertenecen no quisiésemos meternos»; «Bienaventurados los sencillos, porque tendrán mucha paz». Los santos fueron contemplativos porque «se esforzaron en mortificar totalmente todo deseo terreno»; nosotros, en cambio, «nos ocupamos mucho con nuestras pasiones, y tenemos demasiado cuidado de lo transitorio», y por eso «nos quedamos tibios y aun fríos». La aplicación es práctica y gradual: «Si cada año desarraigásemos un vicio, presto seríamos perfectos»; y «si no vences las cosas pequeñas y ligeras, ¿cómo vencerás las dificultosas?».
 
-# Capítulo 2 — Del bajo aprecio de sí mismo.
+### Prudencia, lengua y juicio del prójimo (cc. 4, 8, 10, 14)
 
-[Contenido de esta sección...]
+El capítulo 4 pide no dar crédito a cualquier palabra ni a cualquier espíritu, y examinar las cosas «con prudencia y espacio»; advierte que «muchas veces se cree y se dice más fácilmente del prójimo el mal que el bien», mientras los varones perfectos no creen de ligero «porque saben ser la flaqueza humana presta al mal». El capítulo 8, «Que se ha de evitar la mucha familiaridad», combina la caridad universal con la reserva del trato: «No descubras tu corazón a cualquiera» (Qo 8,22), «Justo es tener caridad con todos; pero no conviene la familiaridad». El capítulo 10 ataca la demasía en las palabras —«Muchas veces quisiera haber callado y no haber estado entre los hombres»— y diagnostica su causa: buscamos consuelo mutuo, y esa consolación exterior «es de gran detrimento a la interior y divina». El capítulo 14 ordena la mirada sobre sí: «Pon los ojos en ti mismo y guárdate de juzgar las obras ajenas», pues «en juzgar a otros se ocupa uno en vano, yerra muchas veces y peca fácilmente», y el amor propio nos impide ver con verdad.
 
-# Capítulo 3 — De la doctrina de la Verdad
+### Caridad, obras y vida común (cc. 9, 15-17, 19)
 
-[Contenido de esta sección...]
+El capítulo 9, sobre la obediencia, afirma que «mucho más seguro es estar en sujeción que en mando» y que muchos obedecen «más por necesidad que por caridad», con lo que «nunca tendrán libertad de ánimo si no se sujetan por Dios de todo corazón»; reconoce que cada uno se rige de buena gana por su propio parecer, y por eso pide cederlo alguna vez por el bien de la paz, recordando que «más seguro oír y tomar consejo que darlo» (Prov 12,15). El capítulo 15 establece la primacía de la caridad sobre la materialidad de la obra: «La obra exterior sin caridad no aprovecha; pero lo que se hace con caridad, por poco y despreciable que sea, se hace todo fructuoso», porque «más mira Dios al corazón que a la obra»; de ahí la sentencia «Mucho hace el que mucho ama» y la sospecha de que «muchas veces parece caridad lo que es amor propio». El capítulo 16 enseñó a sobrellevar los defectos ajenos con una argumentación que es también una crítica del rigorismo: «Queremos que los otros sean castigados con rigor, y nosotros no queremos ser corregidos... Así parece claro cuán pocas veces amamos al prójimo como a nosotros mismos»; y concluye que las cargas mutuas (Gál 6,2) son el orden querido por Dios, pues «las ocasiones no hacen al hombre flaco, pero declaran que lo es».
 
-# Capítulo 4 — De la prudencia en las acciones
+El capítulo 17, «De la vida monástica», es el más directamente dirigido a los «devotos»: aprender a quebrantarse, mirarse como «desterrado y peregrino», entender que «el hábito y la corona poco hacen, mas la mudanza de las costumbres y la entera mortificación de las pasiones hacen al hombre verdadero religioso», y recordar que se vino «a servir, no a mandar... a trabajar y padecer, no para holgar y parlar». El capítulo 18 levanta la mirada a los «heroicos ejemplos de los santos padres» —apóstoles, mártires, confesores, vírgenes, anacoretas— cuya vida hace parecer nada la nuestra: hambre, sed, frío, desnudez, vigilias, ayunos, persecuciones, «pobres de lo temporal, pero riquísimos en gracia y virtudes», y de ahí el lamento por la tibieza presente: «Ahora ya se estima en mucho aquel que no quebranta la Regla». El capítulo 19 organiza los ejercicios del buen religioso: renovar cada día el propósito como si fuera el primero, examinar por la mañana el propósito y por la noche las obras, no estar ocioso, discernir los ejercicios según tiempos y personas, y recordar que «el hombre propone, pero Dios dispone» (Prov 16,9).
 
-[Contenido de esta sección...]
+### Tentaciones y adversidades (cc. 12, 13, 16)
 
-# Capítulo 5 — De la lección de las Santas Escrituras
+El capítulo 12 sostiene que las adversidades son provechosas porque «suelen atraer al hombre al corazón, para que se conozca desterrado»: las contradicciones y la mala fama inmerecida ayudan a la humildad y defienden de la vanagloria, y en la tribulación el hombre conoce que «sin Él no puede nada bueno». El capítulo 13 es el tratado más extenso del libro: «Tentación es la vida del hombre sobre la tierra» (Job 7,1); nadie está libre de ellas, y son «utilísimas..., porque en ellas es uno humillado, purgado y enseñado». El autor describe la anatomía del proceso tentador —«primeramente se ofrece al alma el pensamiento sencillo; después, la importuna imaginación; luego, la delectación y el torpe movimiento y el consentimiento»— y cita a Ovidio para la regla de oro: atajar el mal al principio, porque «si llega a echar raíz, tarde se cura». La victoria no se alcanza huyendo sino «con paciencia y verdadera humildad», y la promesa paulina (1Cor 10,13) garantiza el auxilio proporcionado. Cierra con una observación de experiencia: algunos son vencidos en las tentaciones menores «para que, humillados, nunca confíen de sí en grandes cosas».
 
-[Contenido de esta sección...]
+### Silencio, soledad y compunción (cc. 20-22)
 
-# Capítulo 6 — De los deseos desordenados
+El capítulo 20, «Del amor a la soledad y al silencio», es la pieza más célebre del libro y el fundamento de la espiritualidad de la celda: hay que buscarse tiempo para estar consigo y pensar en los beneficios de Dios, huir de conversaciones superfluas y de noticias, porque «cuantas veces estuve entre los hombres volví menos hombre» (Séneca, *Ep.* 7). Las sentencias se encadenan: «Más fácil cosa es callar siempre que hablar sin errar»; «Ninguno se muestra seguro en público, sino el que se esconde voluntariamente»; «En el silencio y sosiego aprovecha el alma devota y aprende los secretos de las Escrituras». Y la advertencia sobre el gozo carnal: «todo gozo carnal entra blandamente; mas, al cabo, muerde y mata»; frente a él, «Cierra tu puerta sobre ti y llama a tu amado Jesús».
 
-[Contenido de esta sección...]
+El capítulo 21, «De la compunción del corazón», pide conservarse en el temor de Dios y «date a la compunción del corazón, y te hallarás devoto», porque «la compunción causa muchos bienes, que la disipación suele perder en breve». El autor explica la ausencia de lágrimas por la liviandad y el descuido —«muchas veces reímos vanamente, cuando con razón deberíamos llorar»— y pide reconocerse «indigno de la divina consolación; antes bien, créete digno de ser atribulado». El capítulo 22, «Consideración de la miseria humana», universaliza el diagnóstico: «No hay hombre en el mundo sin tribulación o angustia, aunque sea rey o papa»; la verdadera miseria es vivir en la tierra, y por eso el hombre interior, agravado por las necesidades corporales, suspira por los bienes eternos. Frente a la inestabilidad —«Hoy confiesas tus pecados y mañana vuelves a cometer lo confesado»— el remedio es comenzar ahora: «Ahora es tiempo de obrar; ahora es tiempo de pelear».
 
-# Capítulo 7 — Que se ha de huir la vana esperanza y la soberbia
+### Los novísimos y la enmienda (cc. 23-25)
 
-[Contenido de esta sección...]
+El capítulo 23, «De la meditación de la muerte», da la regla de la vida cristiana como preparación: «Así habías de conducirte en toda obra y pensamiento, como si hoy hubieses de morir»; «Mejor fuera evitar los pecados que huir de la muerte»; «la larga vida no siempre nos enmienda; antes muchas veces añade pecados». Enumera los frutos que dan confianza en la hora postrera —desprecio del mundo, deseo de las virtudes, amor de la observancia, penitencia, prontitud en la obediencia, abnegación de sí, paciencia en la adversidad por Cristo— y exhorta: «Aprende ahora a morir al mundo, para que entonces comiences a vivir con Cristo».
 
-# Capítulo 8 — Que se ha de evitar la mucha familiaridad
+El capítulo 24, «Del juicio y penas de los pecadores», contempla al Juez «al cual no hay cosa encubierta, ni se amansa con dádivas, ni admite excusas». Antes de la sentencia final hay un «grande y saludable purgatorio» en la paciencia presente: el que sufre injurias doliéndose «más de la malicia del injuriador que de su propia ofensa», el que perdona y ruega por sus contrarios. La enseñanza es expiatoria y pedagógica: «Mejor es purgar ahora los pecados y cortar los vicios que dejar el purgarlos para lo venidero»; «En lo mismo que peca el hombre sería más gravemente castigado»; y «más grave pasar una hora de pena que aquí cien años de amarguísima penitencia». Sigue la gran antifona del juicio —«Entonces se verá que el verdadero sabio en este mundo fue aquel que aprendió a ser necio y menospreciado por Cristo»— y su conclusión: sólo el amor perfecto da segura entrada a Dios; a quien aún no lo tiene, «por lo menos el temor del infierno te refrene».
 
-[Contenido de esta sección...]
-
-# Capítulo 9 — De la obediencia y sujeción
-
-[Contenido de esta sección...]
-
-# Capítulo 10 — Que se ha de cercenar la demasía en las palabras
-
-[Contenido de esta sección...]
-
-# Capítulo 11 — Cómo se debe adquirir la paz y del celo de aprovechar
-
-[Contenido de esta sección...]
-
-# Capítulo 12 — Del provecho de las adversidades
-
-[Contenido de esta sección...]
-
-# Capítulo 13 — Cómo se ha de resistir a las tentaciones
-
-[Contenido de esta sección...]
-
-# Capítulo 14 — Que se deben evitar los juicios temerarios
-
-[Contenido de esta sección...]
-
-# Capítulo 15 — De las obras hechas por caridad
-
-[Contenido de esta sección...]
-
-# Capítulo 16 — De sobrellevar los defectos ajenos
-
-[Contenido de esta sección...]
-
-# Capítulo 17 — De la vida monástica
-
-[Contenido de esta sección...]
-
-# Capítulo 18 — De los ejemplos de los santos padres
-
-[Contenido de esta sección...]
-
-# Capítulo 19 — De los ejercicios del buen religioso
-
-[Contenido de esta sección...]
-
-# Capítulo 20 — Del amor a la soledad y al silencio
-
-[Contenido de esta sección...]
-
-# Capítulo 21 — De la compunción del corazón
-
-[Contenido de esta sección...]
-
-# Capítulo 22 — Consideración de la miseria humana
-
-[Contenido de esta sección...]
-
-# Capítulo 23 — De la meditación de la muerte
-
-[Contenido de esta sección...]
-
-# Capítulo 24 — Del juicio y penas de los pecadores
-
-[Contenido de esta sección...]
-
-# Capítulo 25 — De la fervorosa enmienda de toda nuestra vida
-
-[Contenido de esta sección...]
+El capítulo 25, «De la fervorosa enmienda de toda nuestra vida», cierra el libro con una llamada al fervor y una respuesta que el autor pone en boca de Dios: a quien se angustia por no saber si perseverará, se le responde «¿Qué harías si eso supieses? Haz ahora lo que entonces quisieras hacer, y estarás seguro». Las dos cosas que más ayudan a enmendarse son «desviarse con esfuerzo de aquello a que le inclina la naturaleza viciosamente y trabajar con fervor por el bien que más le falta». El religioso debe mirar la profesión tomada y proponerse «por modelo al Crucificado», y quien medita «la santísima vida y pasión del Señor» halla allí todo lo necesario, sin necesidad de buscar otra cosa fuera de Jesús. El libro termina con el principio de la ascesis cotidiana: «El que no evita los defectos pequeños, poco a poco cae en los grandes»; «Tanto aprovecharás cuando más fuerza te hicieres. Amén».

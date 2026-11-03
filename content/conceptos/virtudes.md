@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virtudes
 tags: ["moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-11-02
 description: "Las virtudes son hábitos operativos buenos que perfeccionan las facultades del alma para obrar el bien con facilidad, prontitud y deleite."
 ---
 # Virtudes
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -60,6 +60,10 @@ Las virtudes infusas crecen con el aumento de la gracia santificante y se pierde
 [TPCr, Parte II, Cap. 2]
 
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción) presenta las virtudes como disposiciones estables que permiten graspar la plenitud oculta en la acción. El rol cognitivo y dinámico de las virtudes es esencial. Las virtudes son el camino de perfección que responde al llamado de Cristo.
+
 ## Ver también
 
 [[virtudes_infusas]], [[virtudes_teologales]], [[virtudes_cardinales]], [[gracia_santificante]], [[dones_del_espíritu_santo]], [[organismo_sobrenatural]]
@@ -69,3 +73,4 @@ Las virtudes infusas crecen con el aumento de la gracia santificante y se pierde
 - [CEC §1803-1845]
 - [TPCr, Parte II, Cap. 2]
 - [Santo Tomás, I-II, q.49-70; II-II, q.1-170]
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

@@ -3,99 +3,65 @@ type: ResumenFuente
 title: "LIBRO SEGUNDO — Exhortación a la vida interior"
 fuente: La_imitacion_de_Cristo_capitulos
 capítulo: 5
-timestamp: 2026-10-29
-description: "Resumen de 'LIBRO SEGUNDO — Exhortación a la vida interior' — La_imitacion_de_Cristo_capitulos"
-tags: ["resumen", "la imitacion de cristo capitulos"]
+timestamp: 2026-11-01
+description: "Libro II del Kempis: la conversación interior, la pureza de intención, la amistad con Jesús y el camino real de la santa cruz."
+tags: ["resumen", "la imitacion de cristo capitulos", "vida_interior", "ascética"]
 ---
 
 # LIBRO SEGUNDO — Exhortación a la vida interior
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vida_interior]] — título y objeto del libro: «El reino de Dios dentro de vosotros está» (Lc 17,21)
+- [[interioridad]] — el hombre interior que se recoge y no se entrega a lo exterior
+- [[reino_de_dios]] — «paz y gozo en el Espíritu Santo» (Rom 14,16)
+- [[humildad]] — capítulo 2, «De la humilde sumisión»
+- [[paciencia]] — «toda nuestra paz... está puesta más en el sufrimiento humilde»
+- [[pureza_de_corazón]] — las dos alas del capítulo 4: sencillez y pureza
+- [[conciencia]] — capítulo 6, la alegría de la buena conciencia
+- [[amor_de_dios]] y [[amor_a_cristo|amor a Jesucristo]] — capítulos 7 y 8
+- [[desprendimiento]] — dejar un amado por el Amado (c. 7)
+- [[consolación_espiritual]] y [[desolación_espiritual]] — capítulos 9 y 10, la alternancia de gracia y prueba
+- [[gracia_santificante]] — «Da a Dios lo que es de Dios y atribuye a ti lo que es tuyo» (c. 10)
+- [[gratitud]] — capítulo 10, del agradecimiento por la gracia
+- [[cruz]] — capítulos 11 y 12: la santa cruz como «camino real»
+- [[abnegación]] — «Niégate a ti mismo, toma tu cruz y sigue a Jesús» (Lc 9,23)
+- [[mortificación]] — «no hay otro camino... sino el de la santa cruz y continua mortificación»
+- [[pobreza_de_espíritu]] — «el verdadero pobre de espíritu y desnudo de toda criatura»
+- [[seguimiento_de_cristo]] y [[discipulado]] — «Bebe afectuosamente el cáliz del Señor»
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_libro_segundo.md`
+El libro segundo —*Admonitiones ad interna trahentes*, «Exhortación a la vida interior»— presupone el trabajo ascético del primero: «preparado y liberado» el hombre, puede profundizar en su unión con Dios por el encuentro vivo con Jesucristo. Doce capítulos lo recorren, y su arco va de la conversación interior (cc. 1-6) al amor a Jesús y el camino de la cruz (cc. 7-12). Aquí el nombre «Jesús» sustituye al de «Cristo» del libro precedente, y el tono se vuelve más afectivo.
 
+### La conversación interior y sus disposiciones (cc. 1-6)
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+El libro se abre con Lc 17,21, «El reino de Dios dentro de vosotros está», y de ahí extrae todo su programa: «Conviértete a Dios de todo corazón, y deja ese miserable mundo, y hallará tu alma reposo»; «Aprende a menospreciar las cosas exteriores y darte a las interiores, y verás que se viene a ti el reino de Dios», que «es paz y gozo en el Espíritu Santo» (Rom 14,16). La imagen es nupcial: el alma debe «preparar su corazón a este Esposo», según Jn 14,23 («vendremos a él, y haremos en él nuestra morada»), porque «Toda su gloria y hermosura está en lo interior». De donde la consecuencia práctica: «Da, pues, lugar a Cristo, y a todo lo demás cierra la puerta»; «Si a Cristo tuvieres, estarás rico, y te bastará», mientras «los hombres se mudan fácilmente y desfallecen en breve; pero Cristo permanece para siempre». El autor formula entonces la regla de la inestabilidad afectiva —«Los que hoy son contigo, mañana te pueden contradecir... muchas veces se vuelven como el viento»— y propone el refugio en la pasión de Cristo, que es también un motivo doctrinal constante de la obra: a quien no sabe contemplar las cosas celestiales, «descansa en la pasión de Cristo, y habita gustosamente en sus sagradas llagas», porque «Cristo fue también en el mundo despreciado por los hombres», y «¿Con qué se coronará tu paciencia, si ninguna adversidad se te ofrece?». El capítulo define al verdadero sabio como aquel «a quien saben todas las cosas como son», y al hombre interior como el que «presto se recoge, porque nunca se entrega todo a las cosas exteriores», y concluye que la medida del desorden es exactamente la que se mide por el amor de las criaturas: «Tanto se estorba el hombre y se distrae, cuanto atrae a sí las cosas de fuera».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LIBRO SEGUNDO — Exhortación a la vida interior |
-| 3 | H2 | Capítulo 1 — De la conversación interior |
-| 83 | H2 | Capítulo 2 — De la humilde sumisión |
-| 107 | H2 | Capítulo 3 — Del hombre bueno y pacífico |
-| 149 | H2 | Capítulo 4 — Del corazón puro y sencilla intención |
-| 181 | H2 | Capítulo 5 — De la consideración de sí mismo |
-| 223 | H2 | Capítulo 6 — De la alegría de la buena conciencia |
-| 275 | H2 | Capítulo 7 — Del amor a Jesús sobre todas las cosas |
-| 307 | H2 | Capítulo 8 — De la familiar amistad con Jesús |
-| 359 | H2 | Capítulo 9 — Del carecer de todo consuelo |
-| 427 | H2 | Capítulo 10 — Del agradecimiento por la gracia de Dios |
-| 475 | H2 | Capítulo 11 — Cuán pocos son los que aman la cruz de Cristo |
-| 527 | H2 | Capítulo 12 — Del camino real de la santa cruz |
+El capítulo 2, «De la humilde sumisión», es un breve tratado de la humildad con un acento particular: no importa quién sea por nosotros o contra nosotros, sino «que sea Dios contigo en todo lo que haces». Añade una idea que el autor repite en el libro primero: conviene a veces «que otros sepan nuestros defectos y los reprendan»; y encadena la serie de bienes del humilde —Dios lo defiende, lo ama, se le inclina, le da gracia abundante, le descubre sus secretos y «después de su abatimiento lo levanta a gran honra»—, con la advertencia final: «No pienses haber aprovechado algo, si no te estimas por el ínfimo de todos».
 
+El capítulo 3, «Del hombre bueno y pacífico», da la regla del orden de la caridad: «Ponte primero a ti en paz, y después podrás apaciguar a los otros»; «El hombre pacífico aprovecha más que el muy letrado». Describe con detalle la psicología del descontento —las sospechas, el hablar de más, el ocuparse de lo ajeno— y su reverso: «El que está en buena paz, de ninguno sospecha». Su aportación más original es la jerarquía de las paces: hay quienes la tienen consigo y con los otros, quienes ni la tienen ni la dejan tener, y quienes, teniéndola, trabajan en reducir a los demás; y la tesis de fondo, que coincide con el capítulo 12: «toda nuestra paz en esta miserable vida está puesta más en el sufrimiento humilde que en dejar de sentir contrariedades. El que sabe mejor padecer, tendrá mayor paz. Este es el vencedor de sí mismo y señor del mundo».
 
-## Secciones incluidas
+El capítulo 4 ofrece la célebre imagen de las dos alas —«Con dos alas se levanta el hombre de las cosas terrenas, que son sencillez y pureza. La sencillez ha de estar en la intención, y la pureza, en la afición»— y su consecuencia: si el corazón es puro, «todo te sucedería bien y con provecho», y hasta «toda criatura» se vuelve «espejo de vida y libro de santa doctrina», porque «No hay criatura tan baja ni pequeña que no represente la bondad de Dios». Añade la comparación clásica del hierro en el fuego que «pierde el orín y se pone todo resplandeciente» para describir al hombre que «enteramente se convierte a Dios», y el diagnóstico de la tibieza: «Cuando el hombre comienza a entibiarse, entonces teme el trabajo, aunque pequeño, y toma con gusto la consolación exterior».
 
-# Capítulo 1 — De la conversación interior
+El capítulo 5, «De la consideración de sí mismo», es un examen de conciencia puesto en forma de preguntas: «Muchas veces obramos mal, y lo excusamos peor»; «A veces nos mueve la pasión, y pensamos que es celo»; «Reprendemos en los otros las cosas pequeñas, y tragamos las graves si son nuestras». La conclusión es una de las sentencias más citadas de la obra: «¿Dónde estás cuando no estás contigo? Y después de haber discurrido por todas las cosas, ¿qué has ganado si de ti te olvidaste?». El capítulo 6, «De la alegría de la buena conciencia», apoya todo su contenido en 2Cor 1,12 —«La gloria del hombre bueno es el testimonio de la buena conciencia»— y en Is 48,22: «No tienen paz los malos». Distingue la gloria de los hombres, que «siempre va acompañada de tristeza», de la de los buenos, que «está en sus conciencias»; y formula la más radical de sus desmitificaciones: «No eres más santo porque te alaben ni más vil porque te desprecien. Lo que eres, eso eres; y no puedes ser más grande de lo que Dios sabe que eres». Cierra con 1Re 16,7: «El hombre ve lo de fuera, mas Dios el corazón».
 
-[Contenido de esta sección...]
+### El amor a Jesús y la amistad con Él (cc. 7-8)
 
-# Capítulo 2 — De la humilde sumisión
+El capítulo 7, «Del amor a Jesús sobre todas las cosas», plantea la ley radical del amor exclusivo: «Jesús quiere ser amado Él solo sobre todas las cosas»; «El amor de la criatura es engañoso y mudable; el amor de Jesús es fiel y durable. El que se llega a la criatura, caerá con lo caedizo; el que abraza a Jesús, permanecerá para siempre». El autor prevé la experiencia de la deslealtad ajena —«De todos has de ser desamparado alguna vez, quieras o no quieras»— y extrae la consecuencia con la imagen del trono: «Tu Amado es de tal condición, que no quiere consigo admitir a otro; mas Él solo quiere tener tu corazón y como rey sentarse en su propio trono». La advertencia contra poner la confianza en los hombres se apoya en Is 40,6 («toda carne es heno»), y termina con la paradoja del daño propio: «más se daña el hombre a sí mismo si no busca a Jesús, que todo el mundo y todos sus enemigos le pueden dañar».
 
-[Contenido de esta sección...]
+El capítulo 8, «De la familiar amistad con Jesús», es la página más tierna del libro: «Cuando Jesús está presente, todo es bueno y no parece cosa difícil; mas cuando está ausente, todo es duro»; «¿Qué te puede dar el mundo sin Jesús? Estar sin Jesús es grave infierno; estar con Jesús es dulce paraíso». Se apoya en la escena de Marta y María Magdalena (Jn 11,28) —«¡Oh, bienaventurada ahora, cuando Jesús llama de las lágrimas al gozo del espíritu!»— y en el lenguaje del tesoro: «El que halla a Jesús, halla un buen tesoro... Pobrísimo es el que vive sin Jesús, y riquísimo el que está bien con Jesús». Da también el método para conservarlo: «Sé humilde y pacífico, y será contigo Jesús, sé devoto y sosegado, y permanecerá contigo Jesús», porque «Presto puedes echar de ti a Jesús y perder su gracia, si te pegas a las cosas exteriores». La caridad se ordena en dos niveles: «Ama a todos por amor a Jesús mas a Jesús por sí mismo», y el deseo de ser amado singularmente se reserva a Dios: «no quieras que alguno ocupe contigo su corazón». El capítulo se cierra con la ley de la gracia y su alternancia, anticipando el capítulo siguiente: «después del invierno viene el verano, y después de la noche vuelve el día, y después de la tempestad gran bonanza».
 
-# Capítulo 3 — Del hombre bueno y pacífico
+### La alternancia de consuelo y prueba (cc. 9-10)
 
-[Contenido de esta sección...]
+El capítulo 9, «Del carecer de todo consuelo», es una de las páginas más finas de psicología espiritual de la obra. Su tesis: «No es grave cosa despreciar la humana consolación cuando tenemos la divina. Grave cosa es, muy grande, ser privado y carecer de consuelo divino y humano, y querer sufrir de gana destierro de corazón por la honra de Dios». El ejemplo es el mártir san Lorenzo, que «venció al mundo» al trocar el amor del hombre por el del Creador; y la aplicación, la disponibilidad a dejar parientes y amigos, «sabiendo que es necesario que nos apartemos al fin unos de otros». El autor describe después con exactitud la desolación y su manejo: cuando viene la consolación, recibirla con hacimiento de gracias sin engreírse, «porque se pasará aquella hora y vendrá la tentación»; cuando se retira, «no desesperes luego; mas espera con humildad y paciencia la visitación celestial». Ilustra la alternancia con la experiencia del salmista —«Yo dije en mi abundancia: No seré movido para siempre» (Sal 29,7), y luego «Apartaste de mí tu rostro y fui lleno de turbación» (Sal 30,8)— y con Job 7,18: «Visítasle en la mañana, y súbitamente le pruebas». De ahí la conclusión: ninguna ayuda externa —hombres buenos, hermanos devotos, amigos fieles, libros santos, cantos— aprovecha cuando falta la gracia; «Entonces no hay mejor remedio que la paciencia, y negándome a mí mismo, ponerme en la voluntad de Dios». Y la observación que consuela: «Ningún santo fue tan altamente arrebatado y alumbrado que antes o después no haya sido tentado», pues «suele ser la tentación precedente señal que vendrá la consolación», según la promesa del Apocalipsis: «Al que venciere, daré a comer del árbol de la vida» (Ap 2,7). El capítulo termina señalando la doble finalidad de esta economía: la consolación se da «para que el hombre sea más fuerte para sufrir las adversidades», y la tentación se sigue «porque no se ensoberbezca del bien».
 
-# Capítulo 4 — Del corazón puro y sencilla intención
+El capítulo 10, «Del agradecimiento por la gracia de Dios», responde a la pregunta del que busca consuelo: «¿Para qué buscas descanso, pues naciste para el trabajo? Disponte a la paciencia más que a las consolaciones, y a llevar la cruz más que a tener alegría». Reconoce la excelencia de los deleites espirituales —«sólo son alegres y honestos, engendrados de las virtudes e infundidos de Dios en los corazones limpios»— pero advierte que no son continuos, y señala la causa de su escasez: «no abundan en nosotros los dones de la gracia, porque somos ingratos al Hacedor». Su regla es la distinción de dos órdenes: «Da a Dios lo que es de Dios y atribuye a ti lo que es tuyo; esto es: da gracias a Dios por la gracia, y sólo a ti atribuye la culpa». El capítulo formula además el principio de la humildad como camino de elevación —«Ponte siempre en lo más bajo y se te dará lo alto, porque no está lo muy alto sin lo más bajo»—, describe a los grandes santos como «pequeños cerca de sí», y cierra con la economía del agradecimiento: «Sé, pues, agradecido en lo poco, y serás digno de recibir cosas mayores», incluso por las penas, «que siempre es para nuestra salud todo lo que permite que nos venga».
 
-[Contenido de esta sección...]
+### El camino real de la santa cruz (cc. 11-12)
 
-# Capítulo 5 — De la consideración de sí mismo
+El capítulo 11, «Cuán pocos son los que aman la cruz de Cristo», contrasta la multitud de los que desean el reino con la escasez de los que llevan la cruz: «Muchos siguen a Jesús hasta el partir del pan, mas pocos hasta beber el cáliz de la pasión». Distingue el amor interesado del amor puro —«los que aman a Jesús por el mismo Jesús, y no por algún propio consuelo, bendícenle en toda tribulación»— y plantea la pregunta que da título al libro en su conjunto: «¿Dónde se hallará alguno tal que quiera servir a Dios de balde?». La respuesta la da la descripción del desasimiento total, «tesoro inestimable y de lejanas tierras» (Prov 31,10): no basta dar la hacienda, ni hacer gran penitencia, ni tener toda la ciencia, ni gran virtud y ferviente devoción, «le falta la cosa que le es más necesaria... que, dejadas todas las cosas, deje a sí mismo y salga de sí del todo, y que no le quede nada de amor propio». Aun así, quien lo hiciere debe decir con Lc 17,10: «Siervos somos sin provecho»; y entonces «podrá ser pobre y desnudo de espíritu», pues «Ninguno todavía hay más rico, ninguno más poderoso, ninguno más libre que aquel que sabe dejarse a sí y todas las cosas y ponerse en el más bajo lugar».
 
-[Contenido de esta sección...]
+El capítulo 12, *De regia via sanctae Crucis*, es la conclusión y la cumbre del libro. Parte de la dureza de Lc 9,23 —«Niégate a ti mismo, toma tu cruz y sigue a Jesús»— comparada con la palabra postrera del juicio: «Apartaos de mí, malditos, al fuego eterno» (Mt 25,41). Sigue la letanía que el estudio introductorio destaca como el corazón del libro: «En la cruz está la salud, en la cruz la vida, en la cruz está la defensa contra los enemigos, en la cruz está la infusión de la suavidad soberana, en la cruz está la fortaleza del corazón, en la cruz está el gozo del espíritu, en la cruz está la suma virtud, en la cruz está la perfección de la santidad. No está la salud del alma ni la esperanza de la vida eterna sino en la cruz». De ahí la tesis de la universalidad de la cruz: «Ve donde quisieres, busca lo que quisieres y no hallarás más alto camino en lo alto, ni más seguro en lo bajo, sino la vía de la santa cruz»; «Vuélvete arriba, vuélvete abajo, vuélvete fuera, vuélvete dentro, y en todo esto hallarás cruz», porque dondequiera que vayamos «llevas a ti contigo, y siempre te hallarás a ti mismo». El argumento decisivo es cristológico: «Toda la vida de Cristo fue cruz y martirio, ¿y tú buscas para ti holganza y gozo?», «porque convenía que Cristo padeciese... y así entrase en su gloria» (Lc 24,26). Y hay una ley de crecimiento: «cuanto más altamente alguno aprovechare en espíritu, tanto más graves cruces hallará muchas veces, porque la pena de su destierro crece más por el amor».
 
-# Capítulo 6 — De la alegría de la buena conciencia
-
-[Contenido de esta sección...]
-
-# Capítulo 7 — Del amor a Jesús sobre todas las cosas
-
-[Contenido de esta sección...]
-
-# Capítulo 8 — De la familiar amistad con Jesús
-
-[Contenido de esta sección...]
-
-# Capítulo 9 — Del carecer de todo consuelo
-
-[Contenido de esta sección...]
-
-# Capítulo 10 — Del agradecimiento por la gracia de Dios
-
-[Contenido de esta sección...]
-
-# Capítulo 11 — Cuán pocos son los que aman la cruz de Cristo
-
-[Contenido de esta sección...]
-
-# Capítulo 12 — Del camino real de la santa cruz
-
-[Contenido de esta sección...]
+La segunda mitad del capítulo describe la paradoja de la cruz llevada con amor: «cuando se sujeta a ella de su voluntad, toda la carga de la tribulación se convierte en confianza de la divina consolación», y «cuanto más se quebranta la carne por la aflicción, tanto más se robustece el espíritu por la gracia interior», de modo que el hombre llega a no querer estar sin tribulación, «porque se tiene por más acepto a Dios cuanto mayores y más graves cosas pudiere sufrir por Él». El autor señala expresamente que esto no es virtud humana: «Esto no es virtud humana, sino gracia de Cristo, que tanto puede y hace en la carne flaca, que lo que naturalmente siempre aborrece y huye, lo acometa y ame con fervor de espíritu». Enumerando las cosas que repugnan a la inclinación natural —llevar y amar la cruz, castigar el cuerpo, huir las honras, sufrir injurias, despreciarse y desear ser despreciado— recuerda que sólo con la fortaleza venida del cielo se hacen: «no temerás al diablo, tu enemigo, si estuvieses armado de fe y señalado con la cruz de Cristo». El capítulo concluye con la invitación a beber el cáliz (que el estudio introductorio cita como fórmula resumen del libro): «Bebe afectuosamente el cáliz del Señor, si quieres ser su amigo y tener parte con Él», con la certeza de que «no son condignas las pasiones de este tiempo para merecer la gloria venidera» (Rom 8,18), con la señal del progreso —«Cuando llegares a tanto que la aflicción te sea dulce y gustosa por Cristo, piensa entonces que te va bien, porque hallaste el paraíso en la tierra»— y con la conclusión que resume toda la doctrina: «aun si fueses arrebatado hasta el tercer cielo con san Pablo, no estarás por eso seguro de no sufrir alguna contrariedad» (He 9,16). El merecimiento, pues, «no está... en las muchas suavidades y consuelos, sino más bien en sufrir grandes penalidades y tribulaciones»; y la última conclusión, con Hech 14,21, es que «por muchas tribulaciones nos conviene entrar en el reino de Dios».

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sufrimiento redentor
 tags: ["dogmática", "espiritualidad"]
 
-timestamp: 2026-06-20
+timestamp: 2026-11-03
 description: "El sufrimiento redentor es el sufrimiento afrontado exclusivamente por amor, que participa en la pasión de Cristo y contribuye a la salvación de los hermanos."
 ---
 # Sufrimiento redentor
 
 > Área: Dogmática / Espiritualidad
-> Última actualización: 2026-09-02
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -59,6 +59,19 @@ Juan Pablo II desarrolla el sufrimiento cristiano como participación en la Cruz
 
 **El sufrimiento redentor en medicina (Ken May).** Ofrecer el dolor y compartir el sufrimiento de Cristo «para la redención del mundo» (Jeff Cavins); los santos como testigos del sufrimiento redentor (Juan Pablo II, Padre Pío, Teresa de Lisieux); el sufrimiento no es bueno en sí mismo sino que lo bueno es la sumisión a la voluntad de Dios (C.S. Lewis) [EAC-15, 11].
 
+### Según *Living the Truth in Love* (LTL)
+
+Daniel C. Mattson articula el sufrimiento con la **voluntad permisiva** de
+Dios y con *Salvifici Doloris* 7.9: Dios no quiere el mal, pero lo permite
+para sacar un bien mayor. Su testimonio muestra que la
+**[[atracción_por_el_mismo_sexo]]** vivida en la **[[castidad]]** no es una
+vida mutilada, sino una participación real en la cruz fecunda. Compara su
+camino con el de Dimas, el buen ladrón: la salvación llega en el momento del
+abandono, no tras una vida sin heridas. La obra insiste en que el sufrimiento
+no se explica ni se justifica teóricamente; se habita con Cristo y se vuelve
+ofrenda. Esa es la diferencia entre la resignación y la esperanza: la primera
+soporta, la segunda espera.
+
 ## Distinciones importantes
 
 - **Sufrimiento redentor ≠ masoquismo**: no se busca el sufrimiento por sí mismo, sino que se acepta por amor.
@@ -75,6 +88,7 @@ El sufrimiento redentor se relaciona con [[cruz]], [[pasión_de_cristo]], [[mist
 [[cruz]], [[pasión_de_cristo]], [[redención]], [[misterio_pascual]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - [MI, cap. 26]
 - [CEC §2633]

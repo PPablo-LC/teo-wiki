@@ -3,11 +3,11 @@ type: Concepto Teológico
 title: "Amor a Cristo"
 description: "El amor a Cristo como forma de todo acto: la caridad que determina el rostro y el cómo del obrar cristiano."
 tags: ["espiritualidad", "afección", "caridad", "obrar_cristiano"]
-timestamp: 2026-09-13
+timestamp: 2026-11-01
 ---
 
 > Área: Conceptos Teológicos / Espiritualidad y moral
-> Última actualización: 2026-09-13
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -26,6 +26,16 @@ La tesis se precisa con el ejemplo del «Ven, Señor Jesús» (Ap 22,20): si est
 En la Tischrede 12 se distingue el hacer «por amor a Cristo» del hacer «por Cristo»: «“hacer por amor de Cristo” puede ser cien por cien mentira cuando en ello el amor a Cristo y el hacer son como dos rectas alabeadas. En cambio, “hacer por Cristo” quiere decir que el amor a Cristo determina la forma de tu actuar, como uno que trabaja con el patrón que lo mira. Es la conciencia de su presencia» (AED, 13, 75-77). Esta conciencia marca el contenido del agir cotidiano.
 
 En la Tischrede 35 se desarrolla la noción escolástica de forma del acto a propósito del «Ven, Señor Jesús»: «“Ven, Señor Jesús” está fuera del acto, como una intención situada sobre el acto o fuera del acto. En cambio, penetra el acto y lo determina como forma, se vuelve determinante del acto. Se convierte en forma del acto, como se dice en términos filosóficos, escolásticos; determina el rostro del acto, el “cómo” del acto» (AED, 35, 221-227). Por eso el amor a Cristo ordena también los gestos aparentemente indiferentes de la vida: «¿Cuál sería el gesto de leer el periódico en la mesa del anciano que espera que Jesús venga? Sería completamente distinto» (AED, 35, 227-229).
+
+### Según Tomás de Kempis (*La imitación de Cristo*) (ImC)
+
+En Kempis el amor a Cristo es la medida del aprovechamiento del alma, y vale más que todo saber: «¿Qué te aprovecha disputar altas cosas de la Trinidad, si careces de humildad, por donde desagradas a la Trinidad?» (I, 1); «las palabras subidas no hacen santo ni justo; mas la virtuosa vida hace al hombre amable a Dios» (I, 1). Todo el libro está ordenado a ese fin, que da título a su primer capítulo: seguir a Cristo e imitar su vida y costumbres «si queremos verdaderamente ser alumbrados» (I, 1).
+
+El amor exige exclusividad y prueba su verdad en la fidelidad: «Jesús quiere ser amado Él solo sobre todas las cosas»; «el amor de la criatura es engañoso y mudable; el amor de Jesús es fiel y durable»; «el que se llega a la criatura, caerá con lo caedizo; el que abraza a Jesús, permanecerá para siempre» (II, 7). Y como el que busca a Cristo puede hallarlo en todo, «si en todo buscas a Jesús, hallarás de verdad a Jesús; mas si te buscas a ti mismo, también te hallarás, pero para tu daño» (II, 7).
+
+La prueba del amor es el don más que el regalo, y la cruz más que el consuelo: «el discreto amador no considera tanto el don del Amante cuanto el amor del que da»; «el amador noble no descansa en el don, sino en mí, sobre todo don» (III, 6); «ninguno vive en amor sin dolor» (III, 5). De ahí la descripción del amor verdadero —«El que ama, vuela, corre y se alegra, es libre y no detenido» (III, 5)— y su medida: «el que no está dispuesto a sufrirlo todo y a hacer la voluntad del Amado, no es digno de llamarse amante» (III, 5).
+
+El amor culmina en la Eucaristía, donde el alma pide ser abrasada: «enciende mi frialdad con el fuego de tu amor» (IV, 16), y reconoce el amor sin medida del sacramento: «¡Oh amor sin medida, singularmente reservado para el hombre!» (IV, 13). La respuesta del alma es la entrega total: «¡Dios mío, amor mío, tú todo mío y yo todo tuyo!» (III, 5).
 
 ## Distinciones importantes
 
@@ -54,3 +64,4 @@ El amor a Cristo se relaciona con [[afección]] como su objeto supremo, con [[ca
 - AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
 - AED, 13, 75-77 — Tischrede 12: *Non è un pretesto* — «fare per Cristo».
 - AED, 35, 221-229 — Tischrede 35: *Sul nostro fragile sì* — la forma dell'atto.
+- ImC, *La imitación de Cristo*: Libro I, cap. 1; Libro II, cap. 7; Libro III, caps. 5-6; Libro IV, caps. 13 y 16.

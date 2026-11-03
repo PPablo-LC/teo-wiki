@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sexualidad
 tags: ["moral", "antropología_teológica"]
 
-timestamp: 2026-10-13
+timestamp: 2026-11-03
 description: "Dimensión constitutiva de la persona humana, mediante la cual el hombre y la mujer se dan uno a otro con los actos propios y exclusivos de los esposos."
 ---
 # Sexualidad
 
 > Área: Moral / Antropología teológica
-> Última actualización: 2026-10-13
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -61,6 +61,21 @@ Tóth ilumina la razón de esa «ley severa de Dios»: «solamente en el matrimo
 
 El despertar de esta tendencia en la adolescencia no ha de causar inquietud, pues «la tendencia sexual que sientes es de suyo algo santo, ya que es participación misteriosa de la fuerza creadora de Dios» [PyH, Cap. II]. En el capítulo final, Tóth describe el instinto sexual como una «fuerza natural que irrumpe con bríos»: abandonada a sí misma «causa una espantosa destrucción» en los ideales, el ánimo de trabajo, el alma y el cuerpo; pero contenida «dentro de los límites señalados por Dios, este mismo instinto, esta fuerza se transforma en fuente de vida risueña y feliz» [PyH, Cap. VII].
 
+### Según *Living the Truth in Love* (LTL)
+
+[[livio_melina]] sitúa la sexualidad en el designio esponsal de Dios: la
+diferencia sexual abre a la comunión en la diferencia y a la fecundidad, y su
+desorden —el **[[desorden_objetivo]]**— se mide por referencia a ese orden,
+no por la intensidad del deseo. [[bob_schuchts]] lo traduce en clave
+sanadora: Dios tiene un designio sobre la sexualidad, pero ese designio se
+recibe en una historia herida, y la **[[vergüenza]]** es el primer obstáculo
+para aceptarlo. De ahí la necesidad de un desarrollo humano sano, de
+**[[sanación_interior]]** y de **[[pureza]]** cultivada, no solo exigida.
+Rachel Lu y [[deborah_savage]] muestran que la sexualidad no se reduce a la
+atracción ni la persona a su orientación. El volumen insiste en que la
+sexualidad es lenguaje del don: solo en esa clave se entiende la
+**[[castidad]]** como liberación y no como mutilación.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[amor_conyugal]], [[matrimonio]], [[castidad]], [[educación_sexual]], [[significado_esponsal_del_cuerpo]], [[anticoncepción]], [[paternidad_responsable]]
@@ -70,6 +85,7 @@ Se relaciona con [[amor_conyugal]], [[matrimonio]], [[castidad]], [[educación_s
 [[amor_conyugal]], [[matrimonio]], [[castidad]], [[paternidad_responsable]], [[teología_del_cuerpo]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - [FC §11]
 - [FC §32]

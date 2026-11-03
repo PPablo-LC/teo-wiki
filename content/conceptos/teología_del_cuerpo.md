@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Teología del cuerpo
 tags: ["antropología_teológica", "moral"]
 
-timestamp: 2026-10-31
+timestamp: 2026-11-03
 description: "La teología del cuerpo es un punto particular de la antropología teológica que se establece sobre el fundamento de la Palabra de Dios revelada."
 ---
 # Teología del cuerpo
 
 > Área: Antropología teológica
-> Última actualización: 2026-10-31
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -55,6 +55,24 @@ Las catequesis se estructuran en tres grandes bloques:
 
 La enseñanza central es que el cuerpo humano tiene una dignidad trascendente: es «imagen de Dios», templo del Espíritu Santo, y camino hacia la comunión con Dios y con el prójimo. El amor conyugal es imagen del amor de Cristo por la Iglesia. Juan Pablo II resume: «El hombre es la única criatura en la tierra a la que Dios ha amado por sí misma» (GS §24); y en *Man and Woman He Created Them*: la teología del cuerpo es «no tanto una teoría, cuanto más bien una específica, evangélica, cristiana pedagogía del cuerpo» (TdC 08.08.1984; 03.10.1984).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina recurre explícitamente a la teología del cuerpo de Juan Pablo II como «un gran marco que debe profundizarse»: la lógica del don que estructura el sexo, la exigencia de entrega total en el don sexual y la conexión entre unidad de la carne y apertura a la procreación. La *Humanae vitae* propone una «ecología humana»: la naturaleza no es divinidad pagana, sino creación; hay una naturaleza del cuerpo humano y relaciones constitutivas cuyo sentido se manifiesta en relación con la felicidad. Pell, por su parte, cita a Juan Pablo II —el cuerpo es testigo de que la existencia es un don— contra la ideología de género, que niega que el cuerpo tenga un significado previo a la voluntad. Chaput insiste en que la confusión sexual ha socavado la vida familiar y en que la Iglesia tiene una palabra bella y única sobre el sexo como don.
+
+### Según *Living the Truth in Love* (LTL)
+
+[[deborah_savage]] expone la antropología integral de Juan Pablo II como
+alternativa al dualismo moderno: Descartes separó el yo del cuerpo y preparó
+el «nuevo maniqueísmo» que *Carta a las familias* 19 denuncia. Frente a ello,
+Wojtyla invita a «pausar en lo irreductible»: el cuerpo es expresión de la
+persona, y el **[[actus_personae|acto humano]]** revela quién es el sujeto.
+De ahí que la identidad incluya el cuerpo y que la diferencia sexual no sea
+accidente. Rachel Lu y [[livio_melina]] aplican esta clave a la
+**[[atracción_por_el_mismo_sexo]]**: la inclinación no define la persona,
+pero tampoco es irrelevante, porque el cuerpo dice una verdad sobre el don.
+La **[[castidad]]** aparece así como integración de la persona, no como
+represión.
+
 ## Distinciones importantes
 
 - **Teología del cuerpo vs. antropología dualista:** el cuerpo no es algo añadido al espíritu sino que expresa la persona en su totalidad
@@ -74,6 +92,7 @@ Se relaciona con el amor humano, la vocación al don de sí, la imagen de Dios c
 [[amor_humano]], [[cuerpo]], [[varón_y_mujer]], [[comunión_de_personas]], [[teología_nupcial]], [[pureza_de_corazón]], [[significado_esponsal_del_cuerpo]], [[redención_del_cuerpo]], [[dignidad_humana]], [[dignidad_de_la_mujer]], [[matrimonio]], [[castidad]], [[sexualidad]], [[encarnación]], [[personalismo]], [[feminidad]], [[resurrección_de_la_carne]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - [TdC 18.07.1984]
 - [TdC 08.08.1984]
@@ -89,3 +108,4 @@ Se relaciona con el amor humano, la vocación al don de sí, la imagen de Dios c
 - [CEC §355-361]
 - [Juan Pablo II, *Man and Woman He Created Them* (Teología del Cuerpo, 1979-1984)]
 - [GS §24]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

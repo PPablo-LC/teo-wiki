@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Secularización
 tags: ["teología_fundamental"]
 
-timestamp: 2026-08-09
+timestamp: 2026-11-02
 description: "Proceso sociocultural por el cual las referencias cristianas comunes que durante siglos facilitaron la transmisión del mensaje evangélico y la comprensión del lenguaje moral y las grandes preguntas..."
 ---
 # Secularización
 
 > Área: Teología Fundamental
-> Última actualización: 2026-08-09
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -39,6 +39,10 @@ La piedad popular, bien orientada, ofrece «una respuesta válida a los actuales
 
 Mons. Munilla sitúa la carta de León XIV en el contexto cultural presente: una sociedad secularizada, con escasas referencias cristianas, donde el sacerdote vive en «tierra de misión» y debe mantenerse fiel sin estar amargado por el ambiente. La configuración con Cristo y la vida interior —«la catedral interior»— son la fuente de donde el sacerdote saca la fuerza para sostenerse en este contexto sin resentimiento ni ideologización. La vocación en la secularización se vive en la «nave»: amar a la iglesia real y concreta, con sus ritmos lentos y sus heridas, sin exigir una comunidad ideal. Frente a la tentación de reducir la identidad sacerdotal a un rol sociológico (psicología, pedagogía, redes) o a un activismo de resultados, el sacerdote ha de recordar que «no es el arquitecto ni la luz»: su identidad le precede como un don recibido y no como una construcción propia [CIS, 2026].
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Müller denuncia las voces que piden la «esterilización» de la presencia y misión sacerdotal, reduciéndola a una función social. Pell describe la secularización en tres niveles: reducción de la práctica religiosa, pérdida de influencia cultural y fe reducida a opción sin influjo en la identidad. El sacerdote debe construir cultura cristiana y ambientes donde se respire la fe. Chaput añade que la fe nunca es privada: es personal pero no privada; los cristianos deben estar en la plaza pública, pues si no, lo harán otros con visiones antagónicas; «soy guardián de mi hermano». Melina describe el relativismo tardomoderno que ve la fe como algo incompleto y siempre reformulable, y la separación entre fe y vida que Pablo VI señaló como el gran desafío.
+
 ## Distinciones importantes
 
 - Secularización (pérdida de referencias cristianas compartidas) vs. secularismo (ideología que niega explícitamente la trascendencia)
@@ -57,3 +61,4 @@ Se relaciona con [[evangelización]], [[nueva_evangelización]], [[cultura]], [[
 
 - [DC-Convivium, 09.02.2026]
 - [CIS, «La catedral interior del sacerdote», 2026]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

@@ -5472,3 +5472,112 @@ Comentario teológico a 2 Samuel (Brazos, 2015). Índice raw auditado (30/30 arc
 - **Creados** en `wiki/documentos/`: [[primera_carta_de_pedro]] (1Pet), [[introduccion_a_la_teologia_sacramental]] (IST), [[la_imitacion_de_cristo]] (ImC), [[catholicism_barron]] (CathBr), [[eucharist_barron]] (EuchBr) y [[letter_to_a_suffering_church]] (LSC). JTW y corazon ya tenían documento (`joy_to_the_world`, `analisis_cultural/corazon_de_amicis`).
 - **Huérfano sembrado (1):** `crisis_de_los_abusos` — forward reference desde el documento LSC; ya venía siendo enlazado por los resúmenes de esa fuente. Candidato a artículo propio (distinto de [[abuso_sexual_de_menores]]: nombra la crisis eclesial en su conjunto).
 - **Retargets aplicados al redactar:** `[[pablo]]`→[[san_pablo]], `[[banquete]]`→[[comida]] (evita dos huérfanos innecesarios).
+
+## Actualización 2026-11-01 — resúmenes de La imitación de Cristo (ImC)
+
+- **Completados los 7 resúmenes de `La_imitacion_de_Cristo_capitulos`** (portada, introducción de Jiménez Duque, bibliografía y los cuatro libros), con 14.600 palabras de resumen y 75 wikilinks distintos. Validados con `validar_resumenes.py` (7/7).
+- **Huérfanos sembrados (forward references)** desde esos resúmenes:
+  - `[[devotio_moderna]]` — movimiento del siglo XIV en que nace la obra; contenido disponible en la introducción (tres notas típicas, Gerardo Groote, autores, influencia).
+  - `[[contemptus_mundi]]` — segundo nombre de la obra y base ascética del libro I; contenido en la introducción y en el c. 1 del libro I.
+  - `[[tomás_de_kempis]]` — autor probable (el registro previo lo detectaba desde un resumen de otra fuente); material en la introducción («La cuestión del autor»).
+  - `[[naturaleza_caída]]` — libro III, c. 55 («De la corrupción de la naturaleza»); transversal a TPCr y al CEC sobre el pecado original.
+  - `[[vanidad_del_mundo]]` — libro I, c. 1 (Qo 1,2) y libro III, cc. 31-44.
+  - `[[amor_a_jesucristo]]` — libros II (cc. 7-8) y III (c. 5); distinguir de [[amor_de_dios]] y de [[amor_de_cristo]].
+- **Retarget aplicado al redactar:** `[[humildad]]` para el c. 2 del libro II (en lugar de un `humildad_monástica` inexistente).
+- **Huérfano resuelto (2026-11-01):** `[[devotio_moderna]]` era variante del artículo canónico [[devoción_moderna]]; los 3 resúmenes que lo enlazaban ahora apuntan a `[[devoción_moderna|devotio moderna]]`, conservando la terminología de la fuente en la etiqueta.
+
+## Actualización 2026-11-01 (bis) — cerrados los huérfanos de ImC
+
+- **Artículos creados** (los huérfanos sembrados al procesar ImC quedan resueltos):
+  - [[contemptus_mundi]] (concepto) — segundo nombre de la obra, base ascética del libro I; con CEC §2514 y TPCr n.208-215.
+  - [[vanidad_del_mundo]] (concepto) — Qo 1,2 y la enumeración de ImC I,1; distinción expresa frente a [[vanidad]] (vanagloria).
+  - [[naturaleza_caída]] (concepto) — CEC §402-406 y el díptico ImC III,54-55 (naturaleza y gracia).
+  - [[tomás_de_kempis]] (persona) — semblanza, cuestión de la autoría y recepción; fuentes ImC (estudio preliminar) y HI.
+- **Huérfano resuelto por retarget:** `[[amor_a_jesucristo]]` → [[amor_a_cristo|amor a Jesucristo]], enriquecido con sección de ImC (II,7; III,5-6; IV,13.16). Evita duplicar el concepto canónico.
+- **Huérfanos nuevos sembrados (2)** desde [[tomás_de_kempis]], con material ya disponible en la introducción de ImC:
+  - `[[gerardo_groote]]` — predicador fundador de los Hermanos de la Vida Común; su espíritu y el de Radewijns es el que la Imitación sintetiza.
+  - `[[antiespeculativismo]]` — nota de la *devotio moderna* («los devotos desprecian la especulación»), con el «Quid prodest tibi alta de Trinitate disputare» como fórmula.
+
+## Actualización 2026-11-02 — huérfanos sembrados al procesar PWL
+
+- **Artículos creados** (los huérfanos sembrados al procesar PWL quedan resueltos):
+  - [[paternidad_sacerdotal]], [[cristo_medico]], [[desarrollo_doctrinal]], [[minorías_creativas]], [[mistagogía]], [[oración_sacerdotal]], [[esponsalidad_sacerdotal]], [[nuevos_movimientos]].
+- **Huérfanos nuevos sembrados** (conceptos mencionados en la fuente sin artículo propio; material ya disponible en el índice raw de PWL):
+  - `[[parrhesia]]` — Ladaria I §3; *parrhesia* y valentía profética (2 Tim 4:2) frente al relativismo.
+  - `[[cultura_cristiana]]` — Pell II §5; generar cultura cristiana para profesar la fe en la Encarnación.
+  - `[[ambiente_cristiano]]` — Pell II §5; generar espacios donde no sea un milagro vivir como cristiano.
+  - `[[comunidad_cristiana]]` — Chaput IV §5; fomentar comunidades pequeñas e intensas.
+  - `[[presencia_pública_de_los_cristianos]]` — Chaput IV §5; la fe nunca es privada.
+  - `[[liderazgo_sacerdotal]]` — Chaput IV §3; el sacerdocio diocesano exige ser líder y pastor.
+  - `[[descanso_sacerdotal]]` — Chaput IV §4; el día libre como tiempo sin citas.
+  - `[[transmisión_de_la_fe]]` — Chaput IV §7; transmitir la experiencia de Cristo.
+  - `[[fecundidad_espiritual]]` — Granados prefacio; nueva fecundidad del sacerdote.
+  - `[[entrevista]]` — Granados prefacio; género literario de la conversación.
+  - `[[cohabitación]]` — Melina III §11; la cohabitación como falsificación presente del amor.
+  - `[[amistad_sacerdotal]]` — Melina III §1; amistades sacerdotales y *Latenz/Begleitung*.
+  - `[[fraternidad_sacerdotal]]` — Chaput IV §6; grupos de apoyo, examen de vida, oración y confesión en común.
+  - `[[coherencia_sacerdotal]]` — Ladaria I §4; «predica el Evangelio; si además lo vives, tanto mejor».
+
+## Actualización 2026-11-02 — huérfanos sembrados al procesar EPL
+
+- **Artículos creados** (los huérfanos sembrados al procesar EPL quedan resueltos):
+  - [[acción]], [[extrinsecismo]], [[veritatis_splendor]], [[bien]].
+- **Conceptos mencionados en la fuente que ya tenían artículo** (enriquecidos con sección EPL):
+  - [[teología_moral]], [[libertad]], [[fe]], [[comunión]], [[reino_de_dios]], [[esperanza]],
+    [[espíritu_santo]], [[caridad]], [[amor]], [[deseo]], [[verdad]], [[gloria_de_dios]],
+    [[vocación]], [[cristología]], [[eclesiología]], [[moral_cristiana]], [[moral_autónoma]],
+    [[razón_práctica]], [[gracia]], [[virtudes]], [[prudencia]], [[ley_moral_natural]],
+    [[ley_natural]], [[persona]], [[identidad]], [[dignidad_humana]], [[sacramentos]],
+    [[eucaristía]], [[iglesia]], [[conciencia_moral]], [[discernimiento]], [[santidad]], [[moral]].
+
+## Sesión 2026-11-03 — LTL (Living the Truth in Love)
+
+Wikilinks sin artículo propio introducidos por el procesamiento de LTL (sembrados intencionalmente como forward references):
+
+- `[[actus_personae]]` (1)
+- `[[adicción]]` (3)
+- `[[aelredo_de_rievaulx]]` (6)
+- `[[apego]]` (4)
+- `[[bob_schuchts]]` (6)
+- `courage_y_encourage` (12) — hoy `iniciativas_apostólicas_courage_y_encourage`
+- `[[culpa]]` (1)
+- `[[daniel_c_mattson]]` (1)
+- `[[david_prosen]]` (1)
+- `[[deborah_savage]]` (4)
+- `[[derechos_del_niño]]` (3)
+- `[[desarrollo_psicológico]]` (2)
+- `[[douglas_mainwaring]]` (1)
+- `[[edith_stein]]` (2)
+- `[[enfermedad_de_transmisión_sexual]]` (2)
+- `[[eve_tushnet]]` (1)
+- `[[fluidez_sexual]]` (3)
+- `[[j_budziszewski]]` (1)
+- `[[janelle_hallman]]` (2)
+- `[[jennifer_robach_morse]]` (3)
+- `[[joseph_prever]]` (3)
+- `[[lenguaje_bíblico]]` (2)
+- `[[orden_de_los_apetitos]]` (2)
+- `[[peter_herbeck]]` (1)
+- `[[robert_y_susan_cavera]]` (1)
+- `[[robin_beck]]` (1)
+- `[[salud_pública]]` (2)
+- `[[suicidio]]` (2)
+- `[[sínodo_de_la_familia]]` (2)
+- `[[timothy_g_lock]]` (3)
+- `[[timothy_p_flanigan]]` (1)
+- `[[trauma]]` (2)
+
+Total nuevos sembrados: 32. Medición global tras LTL: 3756 huérfanos únicos.
+
+### Creados en la segunda pasada (2026-11-03)
+
+- `[[apego]]` → artículo creado.
+- `[[fluidez_sexual]]` → artículo creado.
+- `[[derechos_del_niño]]` → artículo creado.
+- `courage_y_encourage` → artículo creado (renombrado el 2026-11-03 a
+  `iniciativas_apostólicas_courage_y_encourage` para que el título declare que
+  son iniciativas apostólicas).
+- `[[eve_tushnet]]` → artículo creado.
+- `[[bob_schuchts]]` → artículo creado.
+
+Medición global tras la segunda pasada: 3751 huérfanos únicos.

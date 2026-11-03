@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Providencia
 tags: ["dogmática"]
-timestamp: 2026-09-15
+timestamp: 2026-11-03
 description: "La divina providencia es la disposición con que Dios conduce todas las criaturas hacia su fin último; el cosmos y la vida como don de un Tú que nos hace según Giussani."
 ---
 
 # Providencia
 
 > Área: Dogmática
-> Última actualización: 2026-09-15
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -108,6 +108,44 @@ La providencia es la idea de Dios que ordena todo a un fin, el bien divino; su f
 
 - **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — dentro de la belleza del cosmos hay «un signo aún más claramente elocuente, una palabra más cercana: el moto del cosmos, ese orden que nos da el día y la noche, los ciclos de las estaciones, los ritmos de la naturaleza que nos aseguran las siembras y las cosechas»; «esta es la presencia más sentida: es la primera revelación de la Providencia, como estable significado y utilidad de las cosas» (L45-47).
 - **Parte seconda** — la prueba que Pablo lleva a los paganos de Listra (At 14,15-17: «no se dejó a sí mismo sin testimonio, otorgando lluvias del cielo y estaciones fructíferas») y el eco de la promesa a Noé (Gn 8,21-22: «mientras la tierra exista, la sementera y la cosecha, el frío y el calor, el verano y el invierno, la noche y el día no cesarán»); y no solo el movimiento de la naturaleza sino el de los hombres y los pueblos (At 17,26-28): «Él no está lejos de cada uno de nosotros, pues en Él tenemos la vida, el movimiento y el ser» (L49-53).
+### Robert Barron, *2 Samuel* (Brazos, 2015)
+
+Barron presenta la providencia divina como un tema central y sofisticado en su comentario a 2 Samuel. Su contribución clave es la forma en que Dios obra a través de la libertad humana y la moralidad, no de manera determinista o coercitiva. Puntos esenciales:
+
+1. **Dios obra por vías insospechadas**: Barron desarrolla el tema de que Dios elige y mueve dentro de la historia de Israel, actuando "noninvasivamente mediante una multitud de agentes ordinarios y secundarios". Dios no actúa como "una causa competitiva más entre muchas", sino que se relaciona con los agentes humanos de manera "no competitiva", respetando su causalidad propia.
+
+2. **La providencia a través de la depravación moral**: Un tema sorprendente en 2 Samuel es cómo Dios "acomplice lo que quiere mediante la maldad de Saúl". Barron subraya que Dios puede obtener sus propósitos a través del comportamiento pecaminoso de los seres humanos, sin ser Él mismo autor del pecado. Esto conecta con la visión bíblica de la soberanía de Dios que no anula la libertad humana sino que la sobrelleva.
+
+3. **Libertad humana y providencia**: Barron contrapone la visión moderna de la libertad como "elección soberana" (donde la providencia debe ajustarse al libre albedrío) con la visión bíblica donde la libertad es "disciplinamiento del deseo". En esta visión, Dios puede "obrar dentro de" la libertad humana sin anularla, de modo que los humanos son responsables de sus actos mientras Dios realiza sus propósitos designados.
+
+4. **Saul como instrumento providencial**: La "wickedness" (wickedness) de Saúl no es un obstáculo para los propósitos de Dios, sino el medio mediante los cuales Dios forma a David y a su pueblo. Barron cita a Servais Pinckaers: "Dios puede oblicer su providencia a través de la libre decisión del hombre".
+
+Este tratamiento de la providencia en 2 Samuel ofrece una perspectiva rica para reconciliar la soberanía de Dios con la responsabilidad humana, evitando tanto el determinismo como el arminianismo extremo.
+
+### Según La imitación de Cristo (ImC)
+
+**III,38 — El recurso a Dios en los peligros:** Kempis propone el método de Moisés: «Si en cualquier acontecimiento estás firme y no juzgas de él según la apariencia exterior, ni miras con la vista del sentido lo que oyes y ves, antes luego en cualquier negocio entras en lo interior, como Moisés en el tabernáculo a pedir consejo al Señor, oirás algunas veces la respuesta divina y volverás instruido de muchas cosas presentes y venideras» (III,38 [2]). El contraejemplo es la confianza en la sola prudencia humana: «por eso se lee que Josué y los hijos de Israel fueron engañados por los gabaonitas, porque no consultaron primero con el Señor (Jos 9), sino que, creyendo fácilmente en las blandas palabras, fueron con falsa piedad engañados» (III,38 [2]).
+
+**III,39 — Encomendar los negocios y esperar:** «Hijo, encomiéndame siempre tus negocios; yo los dispondré bien y oportunamente. Espera mi voluntad, y sentirás mi provecho» (III,39 [1]). La respuesta del alma expresa la persuasión de la propia insuficiencia: «Señor, de muy buena gana te encomiendo todas las cosas, porque poco puede aprovechar mi cuidado» (III,39 [2]). Y Kempis advierte que la agitación misma del cuidado revela el desorden: «muchas veces el hombre negocia con ahínco lo que desea; mas cuando ya lo alcanza, comienza a pensar de otro modo» (III,39 [3]).
+
+**III,17 — «Déjame hacer contigo lo que quiero»:** «Hijo, déjame hacer contigo lo que quiero. Yo sé lo que te conviene» (III,17 [1]); y el alma responde: «mayor es la solicitud que tú tienes de mí que todo el cuidado que yo puedo poner en mirar por mí. Muy a peligro de caer está el que no arroja en ti todo su cuidado» (III,17 [1]). La fórmula decisiva de la confianza providencial es la aceptación indistinta: «Si quieres que esté en tinieblas, bendito seas; y si quieres que esté en luz, seas también bendito. Si te dignares consolarme, bendito seas; y si me quieres atribular, también seas bendito para siempre» (III,17 [1]).
+
+**III,59 — Todo lo ordena para provecho:** «Aunque algunas veces me dejes en diversas tentaciones y adversidades, todo lo ordenas para mi provecho; que sueles de mil modos probar a tus escogidos. En esta prueba no menos debes ser amado y alabado que si me colmases de consolaciones celestiales» (III,59 [2]). Y la conclusión: «en tus manos dejo todas mis tribulaciones y angustias; porque fuera de ti todo lo hallo débil e inconstante» (III,59 [3]), pues «no me aprovecharán los muchos amigos, ni podrán ayudarme los defensores poderosos... si tú mismo no me auxilias» (III,59 [3]).
+
+### Según *Living the Truth in Love* (LTL)
+
+Daniel C. Mattson dedica su testimonio a la **voluntad permisiva** de Dios:
+la distinción entre lo que Dios quiere y lo que permite, apoyada en
+*Salvifici Doloris* 7.9, le permite habitar su atracción como lugar de
+encuentro y no como maldición. Cita al cartujo ciego, a Marmion y a Casiano,
+y compara su camino con el del buen ladrón: la salvación llega en el momento
+del abandono. La conclusión es que la providencia no explica el sufrimiento
+—no lo justifica teóricamente— sino que lo acompaña y lo vuelve fecundo. Para
+los padres, Mattson tiene palabras específicas: la voluntad permisiva de Dios
+alcanza también a la prueba de sus hijos, y su tarea es confiar sin
+renunciar a la verdad. El volumen entero presupone esta confianza: sin
+providencia, el acompañamiento sería solo técnica.
+
 ## Distinciones importantes
 
 - **Providencia (razón del orden) vs. gobierno (ejecución del orden)**: la primera es eterna; la segunda, temporal.
@@ -126,29 +164,12 @@ Se relaciona con la [[predestinación]] (q.23, que es la providencia respecto al
 - [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]] — convergencia en el proyecto de Dios para cada persona (cita de Benedicto XVI)
 - [[clarkson_gospels_human_suffering]] — convergencia en la permisión del mal y la confianza en Dios; aporta reflexión sobre el libro de Job y la transformación del mal en bien (Kintsugi)
 
-## Perspectivas por fuente
-
-8. Las demás fuentes
-
-### Robert Barron, *2 Samuel* (Brazos, 2015)
-
-Barron presenta la providencia divina como un tema central y sofisticado en su comentario a 2 Samuel. Su contribución clave es la forma en que Dios obra a través de la libertad humana y la moralidad, no de manera determinista o coercitiva. Puntos esenciales:
-
-1. **Dios obra por vías insospechadas**: Barron desarrolla el tema de que Dios elige y mueve dentro de la historia de Israel, actuando "noninvasivamente mediante una multitud de agentes ordinarios y secundarios". Dios no actúa como "una causa competitiva más entre muchas", sino que se relaciona con los agentes humanos de manera "no competitiva", respetando su causalidad propia.
-
-2. **La providencia a través de la depravación moral**: Un tema sorprendente en 2 Samuel es cómo Dios "acomplice lo que quiere mediante la maldad de Saúl". Barron subraya que Dios puede obtener sus propósitos a través del comportamiento pecaminoso de los seres humanos, sin ser Él mismo autor del pecado. Esto conecta con la visión bíblica de la soberanía de Dios que no anula la libertad humana sino que la sobrelleva.
-
-3. **Libertad humana y providencia**: Barron contrapone la visión moderna de la libertad como "elección soberana" (donde la providencia debe ajustarse al libre albedrío) con la visión bíblica donde la libertad es "disciplinamiento del deseo". En esta visión, Dios puede "obrar dentro de" la libertad humana sin anularla, de modo que los humanos son responsables de sus actos mientras Dios realiza sus propósitos designados.
-
-4. **Saul como instrumento providencial**: La "wickedness" (wickedness) de Saúl no es un obstáculo para los propósitos de Dios, sino el medio mediante los cuales Dios forma a David y a su pueblo. Barron cita a Servais Pinckaers: "Dios puede oblicer su providencia a través de la libre decisión del hombre".
-
-Este tratamiento de la providencia en 2 Samuel ofrece una perspectiva rica para reconciliar la soberanía de Dios con la responsabilidad humana, evitando tanto el determinismo como el arminianismo extremo.
-
 ## Ver también
 
 [[providencia_divina]], [[predestinación]], [[creación]], [[confianza_en_dios]], [[abandono_en_la_providencia_divina]], [[oración]], [[voluntad_de_dios]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - CEC §301-314, la providencia
 - CEC §321-324, providencia y oración
@@ -158,3 +179,4 @@ Este tratamiento de la providencia en 2 Samuel ofrece una perspectiva rica para 
 - AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
 - AED, 23, 87-103 — Tischrede 100: *La distanza è esser dentro* — el Ser es un Tú que unifica el universo.
 - AED, 23, 99-109 — Tischrede 100: *La distanza è esser dentro* — el deseo de posesión como camino hacia el Tú.
+- ImC, *La imitación de Cristo*, libro III, caps. 17, 38, 39 y 59

@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Laicado
 tags: ["eclesiología", "teología_del_laicado"]
-timestamp: 2026-09-10
+timestamp: 2026-11-02
 description: "El laicado designa al conjunto de los fieles cristianos que, incorporados a Cristo por el bautismo, integrados al Pueblo de Dios y hechos partícipes a su modo de la función sacerdotal, profética y real; su misión en el mundo es forma de coraje cotidiano."
 ---
 
 # Laicado
 
 > Área: Eclesiología / Teología del laicado
-> Última actualización: 2026-09-10
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -34,6 +34,10 @@ En el *Spotlight* sobre el Congreso Eucarístico Nacional 2024 (09_spotlight_bar
 - **La ciudad toda templo** (Ap 21): si la Jerusalén celestial no tendrá templo porque toda la ciudad será templo, la misión del laico es llevar la luz a las gentes y convertir la ciudad entera en templo.
 - **El coraje del laico**: la vida laical, asumida con la radicalidad de los [[consejos_evangélicos]], exige el coraje cotidiano de ser sal y luz en medio de un «mundo que no es para uno mismo»; la vocación laical es así una forma del [[coraje]].
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Chaput reivindica la corresponsabilidad de todos los fieles por el bautismo: el clericalismo no es solo un vicio de los sacerdotes, pues muchos laicos lo fomentan al hacerlos responsables de todo. Los laicos son corresponsables de la predicación, de la fe, de los divorciados, viudos, ancianos y pobres; la vocación laical no es secundaria. Pell advierte que los «nuevos modelos de ministerio compartido» pueden clericalizar a los laicos y secularizar al sacerdote si se fundan en un modelo liberal igualitario en vez de en una colegialidad genuina. El sacerdote no puede hacerlo todo: necesita laicos activos y voluntarios, y sin comunidad acabaría administrando sacramentos a una Iglesia moribunda.
+
 ## Distinciones importantes
 
 - Laico (fiel cristiano no clérigo ni religioso) ≠ clericalismo o secularismo
@@ -57,3 +61,4 @@ D-42 (Clemente I): el hombre laico está ligado por preceptos laicos propios, pu
 - CompDS §541-544
 - Concilio Vaticano II, LG §31
 - Juan Pablo II, Christifideles laici §15, §24
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

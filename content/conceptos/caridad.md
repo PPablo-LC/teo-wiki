@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Caridad
 description: "La caridad es la más excelente de las virtudes teologales, virtud infusa sobrenatural por la que amamos a Dios sobre todas las cosas por Sí mismo."
 tags: ["moral", "dogmática"]
-timestamp: 2026-10-02
+timestamp: 2026-11-02
 ---
 
 # Caridad
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -237,6 +237,10 @@ La caridad es ante todo **amistad con Dios** (sobre el fondo aristotélico de EN
 La educación a la castidad es «inseparable del compromiso de cultivar *todas las otras virtudes* y, en modo particular, *el amor cristiano* que se caracteriza por el respeto, por el altruismo y por el servicio que, en definitiva, es la *caridad*» (SHVS 55). La educación al auténtico amor «no es tal si no se convierte en amor de benevolencia», que implica «la acogida de la persona amada, considerar su bien como propio, y por tanto, instaurar justas relaciones con los demás» (SHVS 53).
 
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Conclusión, Introducción) presenta la caridad como la expresión de la acción cristiana: las acciones excelentes son expresión de la caridad. El amor es el nombre más profundo de Dios y el dinamismo de la acción se cumple en la comunión. La caridad es el principio que ordena todas las virtudes y da sentido a la acción moral.
+
 ## Analizado para
 
 [[pascasio_quesnel]], [[unigenitus]]
@@ -398,3 +402,4 @@ Elementos centrales en REG:
 - [SFrAs, SalV. 1-9 — Caridad como virtud que confunde tentaciones]
 - [SFrAs, CMin. 13 — Caridad y misericordia con el pecador]
 - [SFrAs, CFi. 25 — Doble mandamiento]
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

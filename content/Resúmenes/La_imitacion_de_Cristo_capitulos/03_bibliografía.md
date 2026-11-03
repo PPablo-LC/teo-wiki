@@ -3,40 +3,30 @@ type: ResumenFuente
 title: "Bibliografía"
 fuente: La_imitacion_de_Cristo_capitulos
 capítulo: 3
-timestamp: 2026-10-29
-description: "Resumen de 'Bibliografía' — La_imitacion_de_Cristo_capitulos"
-tags: ["resumen", "la imitacion de cristo capitulos"]
+timestamp: 2026-11-01
+description: "Bibliografía complementaria del volumen: artículos del Dictionnaire de Spiritualité sobre Kempis, la Imitatio Christi y la devotio moderna."
+tags: ["resumen", "la imitacion de cristo capitulos", "bibliografía"]
 ---
 
 # Bibliografía
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[devoción_moderna|devotio moderna]] — voz bibliográfica central del elenco
+- [[imitación_de_cristo]] — voz de A. Ampe en el *Dictionnaire de Spiritualité*
+- [[tomás_de_kempis]] — voz de van Dijk sobre el autor
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_bibliografia.md`
+Bibliografía complementaria que remite a la ya citada en el texto, que es la principal. Se enumeran ocho artículos del *Dictionnaire de Spiritualité* (París), ordenados por autor y con indicación del tomo, año y columnas:
 
+- T. Rudolf M. van Dijk, *Thomas Hemerken a Kempis*, 15 (1991) 817-826.
+- A. Ampe, *Imitatio Christi*, 7 (1971) 2338-2368.
+- P. Debongnie, *Devotio moderna*, 3 (1957) 727-747.
+- M. van Woerkum, *F. Radewijns*, 5 (1962) 427-434.
+- J. Tiecke, *G. Groot*, 6 (1965) 265-274.
+- W. Lourdaux, *Gerard Zerbolt de Zutphen*, 6 (1965) 284-289.
+- R. G. Villoslada, *Rasgos característicos de la devotio moderna*, en *Manresa* (1956) 315-350.
+- A. Huerga, *Devotio moderna*, en AA.VV., *Historia de la Espiritualidad* II, Juan Flors, Barcelona 1969, 15-50.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Bibliografía |
-
-
-## Secciones incluidas
-
+El elenco cubre los cuatro frentes del estudio introductorio: la cuestión de la autoría (van Dijk), el género y la obra (Ampe), el movimiento y sus fundadores (Debongnie, van Woerkum, Tiecke, Huerga) y uno de sus teóricos de la oración metódica (Lourdaux sobre Zerbolt de Zutphen).

@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Teología moral"
 tags: ["teología_moral", "ética_cristiana", "dogmática"]
-timestamp: 2026-07-17
+timestamp: 2026-11-02
 description: "Disciplina teológica que estudia la vida moral cristiana como respuesta a la llamada divina, con fundamento cristológico."
 ---
 # Teología moral
 
 > Área: Conceptos
-> Última actualización: 2026-07-17
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -48,6 +48,14 @@ Aunque la teología se divide en partes (dogmática, moral, bíblica, etc.) por 
 
 La teología moral es «la parte de la teología que tiene como objeto propio la inteligencia de la vida de los fieles en Cristo». Se configura como una ciencia teológica práctica o *operativa scientia*. Su atención se centra en el fin, que es el bien de la vida humana tomada como un todo. Debe ser elaborada desde la perspectiva de la primera persona, asumiendo el orden inmanente de la vida cristiana y explicitando sus principios y su lógica interna. El nacimiento y desarrollo de la reflexión teológico-moral responde a instancias comunes a toda la teología (la fe que busca entenderse) y a instancias específicas (los cambios históricos y las nuevas cuestiones morales).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina es el gran testigo de esta sección. Frente a la «mala fama» de la moral, separada del deseo de felicidad y reducida a un moralismo sin sentido, propone una teología moral que une *kerygma* y *didaché*, felicidad y bien, gracia y libertad. El cristianismo es «camino» (Jn 14:6), acontecimiento de amor, y la felicidad es meta presente: «el Reino de Dios ha llegado» (Mt 12:28). Critica el pelagianismo que reduce el cristianismo a un ideal inalcanzable —y lleva al rigorismo o al permisivismo— y el gnosticismo que espiritualiza la carne y separa la gracia de los sacramentos. La teología moral es estudio de la sinergia entre gracia y libertad; la moral es respuesta a un don, secundaria pero necesaria: justificados por la fe, somos juzgados por las obras. El redescubrimiento de Tomás desde las virtudes, las pasiones y la unidad del obrar es clave.
+
+### Según *The Epiphany of Love* (EPL)
+
+Melina (toda la obra) articula la teología moral como comprensión del misterio de la acción humana en su plenitud, iluminada por la fe y la gracia. La moral no es una lista de principios, sino la pregunta por «quién soy llamado a ser». *Veritatis Splendor* (VS 4) identifica las dos rupturas (libertad/verdad y fe/moral) y convoca a una renovación que recupere la verdad de la acción. Los dos defectos de la moral manualista son el legalismo y el extrinsecismo. La renovación exige recuperar la originalidad de la verdad práctica, la luz de Cristo y la interpersonalidad del amor.
+
 ## Distinciones importantes
 
 - **Teología moral vs. ética filosófica**: La teología moral parte de la fe en Cristo como criterio supremo de vida; la ética filosófica parte de la razón humana autónoma.
@@ -70,3 +78,5 @@ La teología moral es «la parte de la teología que tiene como objeto propio la
 - [Ele_Xto_Stos, Cap. I]
 - *Veritatis splendor* (Juan Pablo II, 1993)
 - *Optatam totius* 16 (Concilio Vaticano II)
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

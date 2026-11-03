@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Espíritu Santo
 tags: ["dogmática"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-02
 description: "Tercera Persona de la Santísima Trinidad, Dios verdadero, consubstancial al Padre y al Hijo, que procede del Padre y del Hijo (Filioque)."
 ---
 # Espíritu Santo
 
 > Área: Dogmática
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -119,6 +119,10 @@ En los *Esercizi spirituali* de la Fraternità di Comunione e Liberazione (1994-
 - Actúa inseparablemente del Padre y del Hijo en la economía de la salvación
 - Su inhabitación en el alma justa es permanente y santificadora
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, Conclusión) presenta el Espíritu Santo como protagonista de la acción cristiana: los frutos del Espíritu son la perfecta expresión de la sinergia entre Dios y la persona espiritual que vive en la caridad. El Espíritu, don no creado, se introduce en el dinamismo de nuestra acción y la transforma. La acción es epifanía de un amor siempre mayor, con el Espíritu como protagonista.
+
 ## Relaciones doctrinales
 
 [[trinidad]], [[dones_del_espíritu_santo]], [[frutos_del_espíritu_santo]], [[gracia]], [[pentecostés]], [[iglesia_cuerpo_místico]], [[misiones_divinas]]
@@ -130,3 +134,4 @@ En los *Esercizi spirituali* de la Fraternità di Comunione e Liberazione (1994-
 - SmTh Iª q.36 (Persona del Espíritu Santo), q.37 (Amor), q.38 (Don)
 - Símbolo Niceno-Constantinopolitano
 - [VJ, Cap. VIII]
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

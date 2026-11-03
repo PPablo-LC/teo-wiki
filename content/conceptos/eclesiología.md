@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eclesiología
 tags: ["dogmática", "eclesiología"]
 
-timestamp: 2026-05-29
+timestamp: 2026-11-02
 description: "La eclesiología es la disciplina teológica que estudia la naturaleza, la estructura, la misión y el fin de la Iglesia fundada por Jesucristo."
 ---
 # Eclesiología
 
 > Área: Dogmática / Eclesiología
-> Última actualización: 2026-05-29
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -51,6 +51,10 @@ El CEC §748-975 desarrolla la doctrina sobre la Iglesia. Afirma que la Iglesia 
 
 La eclesiología de comunión (*communio*) ha sido desarrollada por el Magisterio postconciliar, especialmente por Juan Pablo II (*Ut Unum Sint*, 1995) y Benedicto XVI (discurso sobre la hermenéutica del Concilio, 2005). Francisco ha profundizado en una Iglesia en salida, misionera y sinodal (*Evangelii Gaudium*, 2013).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. VI) presenta la Iglesia como morada y camino de la acción cristiana: la moral es una cuestión eclesial. Los modelos eclesiológicos (jurídico-doctrinal, narrativo, ontológico, dinámico) se evalúan a la luz de *Veritatis Splendor*. La Iglesia es madre y maestra porque es esposa de Cristo.
+
 ## Distinciones importantes
 
 - **Iglesia-institución vs. Iglesia-misterio**: la Iglesia es simultáneamente sociedad jerárquica visible y comunión sobrenatural invisible (CEC §771)
@@ -77,3 +81,4 @@ La eclesiología se relaciona con la [[cristología]] (la Iglesia procede de Cri
 - ConcVatII, Apostolicam Actuositatem (1965)
 - Juan Pablo II, Ut Unum Sint (1995)
 - Francisco, Evangelii Gaudium (2013)
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

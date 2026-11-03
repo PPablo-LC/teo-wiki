@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Prudencia
 tags: ["moral"]
 
-timestamp: 2026-09-15
+timestamp: 2026-11-02
 description: "La prudencia es la primera y principal de las virtudes cardinales, virtud infusa que reside en la razón práctica."
 ---
 # Prudencia
 
 > Área: Moral
-> Última actualización: 2026-09-15
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -50,6 +50,10 @@ Tod Worner («Midnight Oil»), Justin Kalan («Science: A Primer on AI») y Fr. 
 
 **El paso reflexivo y solo personas sabias (Ramelow):** Mientras podamos considerar racionalmente nuestras opciones, siempre podemos dar «un paso reflexivo atrás» de la tentación inmediata. Pero Santo Tomás piensa que solo «personas muy sabias» son probables de dar ese paso; «la mayoría elegirá el cebo». Ejercitar el «veto» y crecer en virtud es lo que aumenta la probabilidad de tomar ese paso reflexivo [EAC-19, 15_feature_ramelow.md, L21-29].
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción) menciona la prudencia como virtud que guía la acción práctica. La prudencia es la virtud que permite discernir la verdad sobre el bien en situaciones concretas.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_prudencia]]
@@ -73,3 +77,4 @@ La prudencia no es ser bueno *en* algo (marinero, electricista, violinista) sino
 - [EAC-8, Issue 8 «Humor», archivo 15]
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2e
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

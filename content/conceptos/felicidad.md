@@ -6,11 +6,11 @@ tags:
   - teología_moral
   - antropología_cristiana
   - escatología
-timestamp: 2026-10-13
+timestamp: 2026-11-02
 ---
 
 > Área: Teología moral / Antropología cristiana / Escatología
-> Última actualización: 2026-10-13
+> Última actualización: 2026-11-02
 
 # Felicidad
 
@@ -72,6 +72,10 @@ destinación.
 
 Tóth relaciona la pureza con la verdadera felicidad. Presenta una juventud pura como llena de alegría, fuerza y optimismo: «Mira el ánimo ferviente de vida, la prontitud para la acción, aquella alegría inalterable, aquella felicidad que canta, aquella primavera risueña...» [PyH, cap. 7]. La vida pura trae consigo la paz de la conciencia, mientras que el pecado destruye esa tranquilidad. Por ello anima a luchar por la pureza, mostrando sus frutos: fuerza, alegría, distinción y libertad. «Mira: la vida pura es fuerza, alegría, distinción, libertad, hermosura... ¿No vale la pena de luchar por ella?» [PyH, cap. 7]. La felicidad verdadera no está en la satisfacción pasajera de los instintos, sino en la concordia del alma con Dios y en la serenidad que da la virtud.
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina dedica su reflexión a la felicidad como palabra crucial de la moral clásica (Aristóteles, Agustín, Tomás). Kant separó moral y felicidad; la idea emotivista la reduce a estado de ánimo, mientras la tradición cristiana la entiende como plenitud de acción, de vida y de excelencia. Las Bienaventuranzas son el primer sermón de Jesús y su posición moral: unidad paradójica entre moral y felicidad; la felicidad está escondida en las lágrimas, la pobreza y la injusticia; el secreto es seguir a Cristo; se encuentra cuando no se busca; el alma se salva cuando la vida se pierde. El pelagianismo convierte las Bienaventuranzas en ideal inalcanzable; la gracia las hace posibles.
+
 ## Distinciones importantes
 
 - **Felicidad vs. placer/emoción**: la felicidad responde al deseo
@@ -101,3 +105,4 @@ Tóth relaciona la pureza con la verdadera felicidad. Presenta una juventud pura
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/realta_e_giovinezza_la_sfida_capitoli/índice.md`.
 - [PyH, Cap. 7]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

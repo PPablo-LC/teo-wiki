@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Celibato
 tags: ["moral_—_eclesiología"]
 
-timestamp: 2026-09-13
+timestamp: 2026-11-03
 description: "Estado de vida de quienes, por motivos sobrenaturales, renuncian voluntariamente al matrimonio para consagrarse más libremente al servicio de Dios y del Reino."
 ---
 # Celibato
 
 > Área: Moral — Eclesiología
-> Última actualización: 2026-09-13
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -70,6 +70,19 @@ La vocación a la virginidad «o es ejercicio consciente de todo lo que decimos�
 «Es necesario que no falte nunca en la catequesis y en la formación impartida dentro y fuera de la familia... la enseñanza de la Iglesia sobre el valor eminente de la virginidad y del celibato» (SHVS 101). La familia cristiana debe ser capaz de ayudar «a entender el valor del celibato cristiano y de la castidad a aquellos hijos no casados o inhábiles para el matrimonio por razones ajenas a su propia voluntad», para que «puedan rectamente descubrir la voluntad de Dios en dicha situación y encontrar así un sentido de vocación y de paz en la propia vida» (SHVS 36).
 
 
+### Según *Living the Truth in Love* (LTL)
+
+[[janet_e_smith]] cierra el volumen defendiendo el celibato casto como
+vocación plena: no un consuelo para quien no puede casarse, sino un modo de
+entregarse entero a Dios y a los hermanos. Distingue los tipos de amor
+—*eros*, *philia*, *agape*— y muestra que la cultura contemporánea confunde
+la intensidad afectiva con la entrega conyugal, de modo que no acierta a ver
+en el celibato más que una carencia. Frente a la soledad, propone la
+**[[amistad_cristiana]]**, la comunidad y la **[[oración]]**; frente a la
+ideología, la verdad de una vida fecunda sin hijos propios. Varios
+testimonios del libro —Prever, Tushnet, Mattson— confirman que el celibato
+vivido en amistad real es posible y gozoso.
+
 ## Distinciones importantes
 
 - **Celibato vs. castidad**: la castidad es virtud para todos; el celibato es un estado de vida que implica continencia perpetua
@@ -89,6 +102,7 @@ El celibato se relaciona con la [[castidad]], la [[virginidad]], el [[estado_rel
 [[castidad]], [[virginidad]], [[estado_religioso]], [[estado_sacerdotal]], [[matrimonio]], [[consejos_evangélicos]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - [CEC §915, §1579-1580, §1599, §2349]
 - [TPCr, Parte III, Libro III, n.862]

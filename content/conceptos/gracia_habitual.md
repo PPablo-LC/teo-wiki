@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia habitual
 tags: ["dogmática"]
 
-timestamp: 2026-10-19
+timestamp: 2026-11-01
 description: "La gracia habitual es la [[gracia_santificante]] considerada como don permanente, estable y habitual infundido por Dios en el alma, que la perfecciona para hacerla capaz de vivir con Dios."
 ---
 # Gracia habitual
 
 > Área: Dogmática
-> Última actualización: 2026-10-19
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -77,6 +77,18 @@ La gracia habitual es «raíz y fuente de todos los demás hábitos infusos». S
 
 [TPCr, Segunda Parte, Cap. 1, Art. 1]
 
+### Según La imitación de Cristo (ImC)
+
+**III,54 — «Luz sobrenatural y don especial de Dios»:** Cierra Kempis el capítulo de los movimientos contrarios con la definición más densa que la obra da de la gracia: «Esta gracia es una luz sobrenatural y un don especial de Dios, y propiamente la marca de los escogidos y la prenda de la salvación eterna, la cual levanta al hombre de lo terreno a amar lo celestial, y de carnal lo hace espiritual» (III,54 [10]). Los cuatro rasgos coinciden con los del don habitual: es sobrenatural (sobrepasa las fuerzas de la naturaleza), es don (no se debe al mérito previo), es estable como sello y prenda —«marca de los escogidos», «prenda de la salvación eterna»— y transforma el ser del hombre, haciéndolo espiritual. La fórmula «de carnal lo hace espiritual» recoge el efecto propio de la gracia santificante, que eleva la criatura a la vida divina.
+
+**III,54 — Su aumento:** «Cuanto más apremiada y vencida es la naturaleza, tanta mayor gracia se infunde; y cada día es reformado el hombre interior, según la imagen de Dios, con nuevas visitaciones» (III,54 [10]). El crecimiento de la gracia se describe como reforma progresiva del hombre interior según la imagen de Dios: la mortificación de la naturaleza no causa la gracia, pero es la disposición que Dios acompaña con mayor infusión.
+
+**III,55 — Don propio de los escogidos, no de la naturaleza:** El capítulo 55 distingue con nitidez los bienes naturales de la gracia: «los dones naturales son comunes a buenos y a malos; mas la gracia o la caridad es don propio de los escogidos, y con ella se hacen dignos de la vida eterna» (III,55 [4]). La gracia se identifica aquí con la caridad como principio de mérito, y se afirma su eminencia sobre cualquier prerrogativa creada: «ni el don de la profecía, ni el hacer milagros o algún otro saber, por sutil que sea, es estimado en algo sin ella» (III,55 [4]). Los carismas y las virtudes mismas —«ni siquiera la fe, ni la esperanza»— no son aceptos sin caridad ni gracia (III,55 [4]): la gracia habitual es, por tanto, la raíz de la vida sobrenatural y no un añadido a las dotes naturales.
+
+**III,55 — Su efecto en el alma:** «¡Oh beatísima gracia, que al pobre de espíritu le haces rico en virtudes, y al rico de muchos bienes vuelves humilde de corazón!» (III,55 [5]). La gracia no solo perdona: enriquece y transforma las disposiciones del alma; y el contraste entre el pobre que se vuelve rico y el rico que se vuelve humilde muestra que su medida no es la del mundo.
+
+> **Nota de lectura:** *La imitación de Cristo* no distingue formalmente entre gracia increada, habitual y actual. Cuando llama a la gracia «luz sobrenatural», «don especial» y «prenda de la salvación eterna» habla de lo que la teología escolástica nombra gracia habitual o santificante; cuando pide que se le infunda para comenzar y acabar el bien (III,55 [4.6]) habla del auxilio actual.
+
 ## Distinciones importantes
 
 - **Gracia habitual vs. gracia actual**: la primera es permanente; la segunda es transitoria.
@@ -98,3 +110,4 @@ La gracia habitual se identifica con la [[gracia_santificante]] y es el fundamen
 - [CEC §2000; §2024]
 - [TPCr, Segunda Parte, Cap. 1, Art. 1]
 - [SmTh IIIª q.7 aa.1-13]
+- ImC, *La imitación de Cristo*, libro III, capítulos 54 y 55

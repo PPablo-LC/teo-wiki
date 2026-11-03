@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Amor
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-12
+timestamp: 2026-11-02
 description: "El amor es la inclinación de la voluntad hacia el bien; exigencia última del corazón que remite al Tú absoluto según Giussani."
 ---
 # Amor
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-12
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -58,6 +58,10 @@ El amor misericordioso tiene «la forma interior del amor que en el Nuevo Testam
 
 **El amor y la iniciativa divina (cap. XV).** La revelación se presenta como la entrada de Dios en la historia «come un amico». El amor —exigencia estructural del corazón humano— encuentra en esa iniciativa su cumplimiento (SR, `22_capitolo_quindicesimo.md`, §31-40).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Caps. I, II, Introducción) presenta el amor como prioridad sobre el deseo y como principio de la acción. El amor es la epifanía de Dios en la acción: «solo quien ama conoce el bien auténtico». La interpersonalidad del amor es una dimensión esencial de la acción moral. El amor es el dinamismo que une a la persona con Dios y con los demás.
+
 ## Relaciones doctrinales
 
 [[caridad]], [[virtudes_teologales]], [[virtud_de_la_caridad]], [[amor_conyugal]], [[amor_propio]], [[unión_transformante]]
@@ -72,3 +76,4 @@ El amor misericordioso tiene «la forma interior del amor que en el Nuevo Testam
 - TPCr, Tercera Parte, Libro I, Cap. IV
 - [VocTeoBib, «Amor»]
 - SmTh Ia-IIae q.26-28
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

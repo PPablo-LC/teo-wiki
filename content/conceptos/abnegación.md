@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Abnegación
 tags: ["ascética"]
 
-timestamp: 2026-10-14
+timestamp: "2026-11-01"
 description: "La abnegación es la renuncia total a la propia voluntad y al amor propio, condición indispensable para seguir a Cristo y alcanzar la perfección cristiana."
 ---
 # Abnegación
 
 > Área: Ascética
-> Última actualización: 2026-10-14
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -35,6 +35,30 @@ En la sección dedicada a la purificación de la voluntad (n.262), Royo Marín e
 El don de sabiduría produce como efecto más impresionante la muerte total al propio yo, amando a Dios con amor purísimo por sola su infinita bondad. El alma llega a preferir los tormentos eternos si con ello pudiera amar y glorificar más a Dios (n.409). San Ignacio de Loyola trata de la abnegación al hablar de los tres grados de humildad.
 
 
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+Kempis hace de la abnegación el eje de todo el *Libro Tercero*, hasta definirla como la sustancia misma de la perfección religiosa. La máxima que la resume es doble y simétrica: «Déjalo todo, y lo hallarás todo; deja tu apetito, y hallarás sosiego» (III, 32), y «Hijo, déjate a ti y me hallarás a mí. Nada escojas, nada te apropies, y ganarás siempre» (III, 37). La condición es absoluta: «no puedes poseer libertad perfecta si no te niegas del todo a ti mismo» (III, 32); «Déjate a ti, renúnciate, y gozarás de gran paz interior» (III, 37). El alma reconoce la dificultad —«no es esta obra de un día, ni juego de niños; antes, en tan breve sentencia se encierra toda la perfección religiosa» (III, 32)— y el autor diagnostica la causa de la mediocridad: «por eso tan pocos se hacen varones ilustrados y libres en lo interior, porque no saben del todo negarse a sí mismos» (IV, 8), con la sentencia de Lc 14,33: «El que no renunciare todas las cosas, no puede ser mi discípulo».
+
+La abnegación tiene en el Kempis una raíz cristológica explícita: Cristo se entregó «con las manos extendidas en la cruz y todo el cuerpo desnudo», y pide al discípulo la misma ofrenda sin reservas, porque «¿Qué otra cosa quiero de ti más que el que te entregues a mí sin reserva? Cualquier cosa que me das sin ti no gusto de ella, porque no quiero tu don, sino a ti» (IV, 8). Su medida no es la renuncia a cosas, sino la renuncia al propio yo: lo que se ha de arrancar es «la oculta desordenada inclinación que tienes a ti mismo y a todo bien propio y corporal», pues «de este amor desordenado que se tiene el hombre a sí mismo depende casi todo lo que se ha de vencer radicalmente» (III, 53).
+
+El *Libro Segundo* la inscribe en la fórmula evangélica del seguimiento —«Niégate a ti mismo, toma tu cruz y sigue a Jesús» (Lc 9,23)— y la verifica en la obediencia: «Gran cosa es estar en obediencia, vivir debajo de un superior y no tener voluntad propia» (I, 9); «Aprende, pues, a sujetarte prontamente a tu superior, si deseas tener tu carne sujeta... Absolutamente necesario es que tengas verdadero desprecio de ti mismo, si quieres vencer la carne y la sangre» (III, 13).
+
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Tóth hace de la abnegación un medio indispensable para fortalecer la voluntad y conservar la pureza (Cap. VI, «Die and Rise»). La mortificación de los caprichos («una cucharada de sopa fría, un retardo de un minuto, calzarse con prontitud») entrena al alma para resistir cuando llegan las grandes tentaciones. La energía que se vence en las cosas pequeñas se convierte en fuerza para el combate mayor.
+
+> «Muere y resucita. Vive en el sacrificio, y recobrarás la energía para el combate» (JvC-Eng, Cap. VI)
+
+### Según Mons. Tihámer Tóth (JvC)
+
+El fundamento evangélico es el mismo: «Si alguno quiere venir en pos de Mí, niéguese a sí mismo, cargue con su cruz y sígame» (Mt 16,24). JvC dedica un capítulo entero a la abstención como medio de formar el carácter: «No se puede ser hombre de carácter, aspirar a un alto y generoso ideal, sin sacrificio» [JvC, Cap. II]. La palabra «ascesis» significa originalmente «elaboración final», como la entendían los griegos: aquella vida de preparación, de pulimento y de sacrificio con que se disponían los atletas a las olimpiadas.
+
+Para quien nunca se priva de una cosa lícita, «no se puede esperar que rehuse todas las prohibidas» [JvC, Cap. II]. La abnegación se ejercita en lo pequeño: el ejemplo de Macario, que recibe un racimo de uvas y lo ofrece a otro ermitaño, que a su vez lo ofrece a otro, hasta que vuelve a Macario al atardecer, muestra cómo la renuncia engendra generosidad. También David, que derrama el agua tan anhelada porque sus soldados la trajeron con peligro de sus vidas: sacrificó «nada más que un sorbo de agua» y ganó el respeto de sus soldados y la gracia de Dios [JvC, Cap. III].
+
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj presenta el mismo fundamento evangélico: «Si alguno quiere venir en pos de Mí, niéguese a sí mismo, cargue con su cruz y sígame» (Mt 16,24). La autora insiste en que «el sacrificio es la tensión del muelle que permite saltar hacia los ideales más altos» [JvC-Muj, Cap. III]. La abnegación se ejercita en lo pequeño: «Ejercítate todas las mañanas al salir de la cama. El primer vencimiento es el más importante: el de la tentación de quedarse un rato más en ella» [JvC-Muj, Cap. III]. El ejemplo de Macario y las uvas muestra cómo la renuncia engendra generosidad: la abnegación no es empobrecimiento sino enriquecimiento del alma [JvC-Muj, Cap. III].
+
 ## Distinciones importantes
 
 - Desprendimiento: renuncia a las criaturas exteriores
@@ -59,19 +83,6 @@ La abnegación es presupuesto necesario para la [[vida_de_oración]], la [[morti
 - TPCr, Tercera Parte, Libro I, Cap. V, n.261-262
 - TPCr, Tercera Parte, Libro II, Cap. II, n.409
 - CEC §2015
+- Tomás de Kempis, *La imitación de Cristo*, I, 9; III, 13, 32, 37, 53; IV, 8 (ImC)
 
-### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
 
-Tóth hace de la abnegación un medio indispensable para fortalecer la voluntad y conservar la pureza (Cap. VI, «Die and Rise»). La mortificación de los caprichos («una cucharada de sopa fría, un retardo de un minuto, calzarse con prontitud») entrena al alma para resistir cuando llegan las grandes tentaciones. La energía que se vence en las cosas pequeñas se convierte en fuerza para el combate mayor.
-
-> «Muere y resucita. Vive en el sacrificio, y recobrarás la energía para el combate» (JvC-Eng, Cap. VI)
-
-### Según Mons. Tihámer Tóth (JvC)
-
-El fundamento evangélico es el mismo: «Si alguno quiere venir en pos de Mí, niéguese a sí mismo, cargue con su cruz y sígame» (Mt 16,24). JvC dedica un capítulo entero a la abstención como medio de formar el carácter: «No se puede ser hombre de carácter, aspirar a un alto y generoso ideal, sin sacrificio» [JvC, Cap. II]. La palabra «ascesis» significa originalmente «elaboración final», como la entendían los griegos: aquella vida de preparación, de pulimento y de sacrificio con que se disponían los atletas a las olimpiadas.
-
-Para quien nunca se priva de una cosa lícita, «no se puede esperar que rehuse todas las prohibidas» [JvC, Cap. II]. La abnegación se ejercita en lo pequeño: el ejemplo de Macario, que recibe un racimo de uvas y lo ofrece a otro ermitaño, que a su vez lo ofrece a otro, hasta que vuelve a Macario al atardecer, muestra cómo la renuncia engendra generosidad. También David, que derrama el agua tan anhelada porque sus soldados la trajeron con peligro de sus vidas: sacrificó «nada más que un sorbo de agua» y ganó el respeto de sus soldados y la gracia de Dios [JvC, Cap. III].
-
-### Según Mons. Tihámer Tóth (JvC-Muj)
-
-JvC-Muj presenta el mismo fundamento evangélico: «Si alguno quiere venir en pos de Mí, niéguese a sí mismo, cargue con su cruz y sígame» (Mt 16,24). La autora insiste en que «el sacrificio es la tensión del muelle que permite saltar hacia los ideales más altos» [JvC-Muj, Cap. III]. La abnegación se ejercita en lo pequeño: «Ejercítate todas las mañanas al salir de la cama. El primer vencimiento es el más importante: el de la tentación de quedarse un rato más en ella» [JvC-Muj, Cap. III]. El ejemplo de Macario y las uvas muestra cómo la renuncia engendra generosidad: la abnegación no es empobrecimiento sino enriquecimiento del alma [JvC-Muj, Cap. III].

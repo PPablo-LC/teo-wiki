@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Deseo
 tags: ["teología_bíblica", "moral", "ascética"]
 
-timestamp: 2026-08-06
+timestamp: 2026-11-02
 description: "El deseo es la dimensión fundamental de la indigencia humana que, lejos de ser negada por la Escritura, es asumida y purificada."
 ---
 # Deseo
 
 > Área: Teología Bíblica / Moral / Ascética
-> Última actualización: 2026-08-06
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -66,6 +66,14 @@ Elementos centrales en REG:
 - La **dinámica del deseo** (0) desarrollándose en el tiempo hacia el término (la muerte, *x*) o hacia el infinito [∞] (Tischreden 71, 12).
 - La libertad es «la capacità della soddisfazione […] capacità di Dio», es decir, del deseo total (12).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina describe la herida del amor original: la ruptura entre Creador y criatura, la duda sobre el amor original; el deseo se vuelve ansioso e indefinido. El deseo es nostalgia de Dios (*de-siderium*, *sidera*); Cristo sana mostrando el amor como fundamento y dando el Espíritu; el deseo, precedido por el amor, se vuelve esperanza. La castidad integra el deseo, el afecto, la fantasía, la memoria, la voluntad, la inteligencia y la gracia, para que el impulso sea expresión del don de sí. El encuentro con Comunión y Liberación le enseñó a tomar en serio el deseo y la pregunta de renovación.
+
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. I) presenta el deseo como drama humano que se ordena por el amor. El deseo no es malo en sí, pero necesita ser ordenado por el amor para alcanzar su plenitud. El encuentro personal despierta el amor y lo hace posible. La acción humana y el amor divino se entrelazan en el deseo ordenado.
+
 ## Distinciones importantes
 
 - **Deseo natural vs. deseo desordenado (concupiscencia)**: el primero está dentro del orden creado y es querido por Dios; el segundo es fruto del pecado y debe ser combatido.
@@ -84,3 +92,5 @@ El deseo se vincula con la [[concupiscencia]], la [[tentación]], el [[pecado]],
 
 - VocTeoBib, «Deseo»
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §2
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

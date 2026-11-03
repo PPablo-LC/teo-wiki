@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Paciencia
 tags: ["moral"]
 
-timestamp: 2026-10-02
+timestamp: "2026-11-01"
 description: "La paciencia es la virtud que inclina a soportar sin tristeza de espíritu ni abatimiento de corazón los padecimientos físicos y morales. Es parte integral de la virtud cardinal de la fortaleza."
 ---
 # Paciencia
 
 > Área: Moral
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -86,6 +86,14 @@ compañía, cuyo dolor supremo es el de no poder abrazar al mundo» (03, 173).
 verdaderamente en gozo, *jouissance*, en un gozarse. […] Solo en el gozo está la energía
 de una presencia comunicativa» (03, 169).
 
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+El Kempis define la paciencia por su contrario: no es la ausencia de contrariedades, sino el modo de atravesarlas. «No quiero que busques tal paz que carezca de tentaciones y no sienta contrariedades. Antes, cuando fueres ejercitado en diversas tribulaciones y probado en muchas contrariedades, entonces piensa que has hallado la paz» (III, 12). De ahí su tesis más característica, que une paz y sufrimiento: «toda nuestra paz en esta miserable vida está puesta más en el sufrimiento humilde que en dejar de sentir contrariedades. El que sabe mejor padecer, tendrá mayor paz. Este es el vencedor de sí mismo y señor del mundo, amigo de Cristo y heredero del cielo» (II, 3).
+
+El capítulo 19 del *Libro Tercero* da la definición del verdadero paciente: «No es verdadero paciente el que no quiere padecer sino lo que le parece y de quien él quiere. El verdadero paciente no mira quién le molesta; si es su superior, su igual o inferior; si es hombre bueno y santo, o perverso e indigno; mas, sin diferencia de personas, cualquier adversidad, y cuantas veces le venga, todo lo recibe de buena gana, de la mano de Dios, y lo estima por mucha ganancia». Y añade la ley del mérito: «Sin pelear no puedes alcanzar la corona de la paciencia... Sin trabajo no se llega al descanso, ni sin pelear se consigue la victoria» (III, 19).
+
+La paciencia se sostiene en dos convicciones. La primera es la proporción entre la prueba y la medida humana: «Hombre eres y no dios; carne y no ángel», y por eso «más me agradan la humildad y paciencia en la adversidad que el mucho consuelo y devoción en la prosperidad» (III, 57). La segunda es la ejemplaridad de Cristo: «desde la hora en que nací hasta la muerte en la cruz no me faltaron dolores que sufrir» (III, 18); el discípulo «aún no has resistido hasta derramar sangre» (Heb 12,4). En el combate contra la tentación, además, la paciencia es el arma: «No se puede vencer con sólo huirlas; mas con paciencia y verdadera humildad nos hacemos más fuertes que todos los enemigos» (I, 13).
+
 ## Distinciones importantes
 
 - **Paciencia vs. longanimidad**: la longanimidad es esperar con ánimo firme un bien que tarda; la paciencia es soportar el mal presente
@@ -112,3 +120,4 @@ La paciencia es parte integral de la [[fortaleza]]. Se relaciona con el [[don_de
 - [TPCr, Parte III, Libro II, Cap. II, n.437-438, 447]
 - [Santo Tomás, II-II, q.136]
 - AvEsp, Dicho 4 (virtud y fuerza del alma en trabajos de paciencia crece); Punto 22 (medir trabajos a nosotros, no nosotros a trabajos); Punto 40 (paciencia para sufrir y tolerar es señal de aprovechamiento)
+- Tomás de Kempis, *La imitación de Cristo*, I, 13; II, 3; III, 12, 18-19, 57 (ImC)

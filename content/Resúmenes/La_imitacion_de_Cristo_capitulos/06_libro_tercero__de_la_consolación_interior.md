@@ -3,359 +3,73 @@ type: ResumenFuente
 title: "LIBRO TERCERO — De la consolación interior"
 fuente: La_imitacion_de_Cristo_capitulos
 capítulo: 6
-timestamp: 2026-10-29
-description: "Resumen de 'LIBRO TERCERO — De la consolación interior' — La_imitacion_de_Cristo_capitulos"
-tags: ["resumen", "la imitacion de cristo capitulos"]
+timestamp: 2026-11-01
+description: "Libro III del Kempis, el más extenso: diálogos entre Cristo y el alma sobre el amor, la gracia, la cruz, la renuncia y la esperanza."
+tags: ["resumen", "la imitacion de cristo capitulos", "vida_interior", "mística"]
 ---
 
 # LIBRO TERCERO — De la consolación interior
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vida_interior]] — «habla interior de Cristo al alma fiel» (c. 1)
+- [[oración]] y [[oración_mental]] — capítulos 1-3, 23, 26, 29-30, 38
+- [[amor_de_dios]] — capítulo 5, «Del maravilloso efecto del divino amor»
+- [[consolación_espiritual]] y [[desolación_espiritual]] — el eje de los capítulos 6-10, 16-17, 21, 29-30, 50-53
+- [[humildad]] — capítulos 7, 8, 14, 40-41, 46, 58
+- [[gracia_santificante]] y [[gracia_actual]] — capítulos 55 y 54 (naturaleza y gracia)
+- [[naturaleza_caída]] y [[concupiscencia]] — capítulo 55, «la ley del pecado» (Rom 7,23)
+- [[abnegación]] — capítulos 32, 37, 56; «Déjate a ti y me hallarás a mí»
+- [[mortificación]] — capítulo 54, el combate entre naturaleza y gracia
+- [[paciencia]] — capítulos 12, 19, 35, 47, 57
+- [[cruz]] — capítulo 56, «Yo soy camino, verdad y vida»
+- [[obediencia_hasta_la_muerte]] — capítulo 13, a ejemplo de Cristo
+- [[conformidad_con_la_voluntad_de_dios]] — capítulos 15, 17, 25, 39, 49
+- [[contrición]] y [[penitencia_y_conversión]] — capítulo 52
+- [[humildad_cristiana]] — capítulo 58: «si no os volviereis como niños»
+- [[esperanza]] — capítulo 59, toda la confianza en Dios
+- [[vida_eterna]] y [[cielo]] — capítulos 47-49
+- [[discernimiento_espiritual]] — capítulos 11, 33, 45, 50
+- [[vanidad_del_mundo]] y [[desprendimiento]] — capítulos 31, 42-44, 53
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `05_libro_tercero.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LIBRO TERCERO — De la consolación interior |
-| 3 | H2 | Capítulo 1 — Del habla interior de Cristo al alma fiel |
-| 33 | H2 | Capítulo 2 — Que la verdad habla dentro del alma sin sonido de palabra |
-| 71 | H2 | Capítulo 3 — Que las palabras de Dios se deben oír con humildad, y muc |
-| 113 | H3 | Oración — Para pedir la gracia de la devoción |
-| 131 | H2 | Capítulo 4 — Que debemos andar con verdad y humildad delante de Dios |
-| 171 | H2 | Capítulo 5 — Del maravilloso efecto del divino amor |
-| 233 | H2 | Capítulo 6 — De la prueba del verdadero amor |
-| 285 | H2 | Capítulo 7 — Que se ha de encubrir la gracia bajo el velo de la humild |
-| 331 | H2 | Capítulo 8 — De la baja estimación de sí mismo ante los ojos de Dios |
-| 353 | H2 | Capítulo 9 — Que todas las cosas se deben referir a Dios como a último |
-| 381 | H2 | Capítulo 10 — Que en despreciando el mundo, es dulce cosa servir a Dio |
-| 435 | H2 | Capítulo 11 — Que los deseos del corazón se deben examinar y moderar |
-| 457 | H2 | Capítulo 12 — Declárase qué cosa sea paciencia y la lucha contra el ap |
-| 505 | H2 | Capítulo 13 — De la obediencia del súbdito humilde, a ejemplo de Jesuc |
-| 539 | H2 | Capítulo 14 — Que se han de considerar los secretos juicios de Dios pa |
-| 585 | H2 | Capítulo 15 — Cómo se debe uno haber y decir en todas las cosas que de |
-| 613 | H3 | Oración — Para cumplir la voluntad de Dios |
-| 631 | H2 | Capítulo 16 — Que sólo en Dios se debe buscar el verdadero consuelo |
-| 661 | H2 | Capítulo 17 — Que todo nuestro cuidado se ha de poner sólo en Dios |
-| 693 | H2 | Capítulo 18 — Que las miserias temporales se han de sufrir con igualda |
-| 715 | H2 | Capítulo 19 — De la tolerancia de las injurias y cómo se prueba el ver |
-| 753 | H2 | Capítulo 20 — De la confesión de la propia flaqueza y de las miserias  |
-| 797 | H2 | Capítulo 21 — Que se ha de descansar en Dios sobre todos los bienes |
-| 879 | H2 | Capítulo 22 — De la memoria de los innumerables beneficios de Dios |
-| 919 | H2 | Capítulo 23 — De cuatro cosas que causan gran paz |
-| 945 | H3 | Oración — Contra los malos pensamientos |
-| 957 | H3 | Oración — Para pedir la luz interior |
-| 975 | H2 | Capítulo 24 — Que se ha de evitar la curiosidad de saber las vidas aje |
-| 997 | H2 | Capítulo 25 — En qué consiste la paz firme del corazón y el verdadero  |
-| 1029 | H2 | Capítulo 26 — De la excelencia del espíritu libre, la cual se alcanza  |
-| 1053 | H2 | Capítulo 27 — Que el amor propio nos estorba mucho el bien eterno |
-| 1081 | H3 | Oración — Para pedir la limpieza del corazón y la sabiduría celestial |
-| 1095 | H2 | Capítulo 28 — Contra las lenguas de los maldicientes |
-| 1113 | H2 | Capítulo 29 — Cómo debemos rogar a Dios y bendecirle en el tiempo de l |
-| 1141 | H2 | Capítulo 30 — Que se ha de pedir el favor divino, y de la confianza de |
-| 1207 | H2 | Capítulo 31 — Del desprecio de toda criatura para hallar al Creador |
-| 1257 | H2 | Capítulo 32 — De la abnegación de sí mismo y abdicación de todo apetit |
-| 1283 | H2 | Capítulo 33 — De la inconstancia del corazón, y que la intención final |
-| 1303 | H2 | Capítulo 34 — Que al que ama es Dios muy sabroso en todo y sobre todo |
-| 1345 | H2 | Capítulo 35 — Que en esta vida no hay seguridad de carecer de tentacio |
-| 1383 | H2 | Capítulo 36 — Contra los vanos juicios de los hombres |
-| 1413 | H2 | Capítulo 37 — De la pura y total renuncia de sí mismo para alcanzar la |
-| 1447 | H2 | Capítulo 38 — Del buen régimen en las cosas exteriores y del recurso a |
-| 1463 | H2 | Capítulo 39 — Que el hombre no sea importuno en los negocios |
-| 1483 | H2 | Capítulo 40 — Que no tiene el hombre de sí bien alguno ni cosa de qué  |
-| 1527 | H2 | Capítulo 41 — Del desprecio de toda honra temporal |
-| 1545 | H2 | Capítulo 42 — Que no debemos poner nuestra paz en los hombres |
-| 1571 | H2 | Capítulo 43 — Contra la ciencia vana del mundo |
-| 1609 | H2 | Capítulo 44 — Que no se deben buscar las cosas exteriores |
-| 1623 | H2 | Capítulo 45 — Que no se debe creer a todos, y que es fácil resbalar en |
-| 1681 | H2 | Capítulo 46 — De la confianza que debemos tener en Dios cuando nos inj |
-| 1735 | H2 | Capítulo 47 — Que todas las cosas pesadas se deben sufrir por la vida  |
-| 1769 | H2 | Capítulo 48 — Del día de la eternidad y de las angustias de esta vida |
-| 1829 | H2 | Capítulo 49 — Del deseo de la vida eterna, y cuántos bienes están prom |
-| 1901 | H2 | Capítulo 50 — Cómo el hombre desconsolado se debe ofrecer en las manos |
-| 1969 | H2 | Capítulo 51 — Que debemos emplearnos en ejercicios humildes cuando no  |
-| 1985 | H2 | Capítulo 52 — Que el hombre no se repute por digno de consuelo, sino d |
-| 2023 | H2 | Capítulo 53 — Que la gracia de Dios no se mezcla con el gusto de las c |
-| 2057 | H2 | Capítulo 54 — De los diversos movimientos de la naturaleza y de la gra |
-| 2131 | H2 | Capítulo 55 — De la corrupción de la naturaleza y de la eficacia de la |
-| 2179 | H2 | Capítulo 56 — Que debemos negarnos a nosotros mismos y asemejarnos a C |
-| 2243 | H2 | Capítulo 57 — Que no debe acobardarse demasiado el que cae en algunas  |
-| 2287 | H2 | Capítulo 58 — Que no se deben escudriñar las cosas altas y los juicios |
-| 2375 | H2 | Capítulo 59 — Que toda la esperanza y confianza se debe poner sólo en  |
+El libro tercero, *De interna consolatione*, es el más extenso de la obra y, según el estudio introductorio, «una repetición alborotada de todo lo antes dicho», con un sabor «más suave y más místico». Su forma dominante es el diálogo entre **Jesucristo** y **el alma**, con frecuentes oraciones intercaladas; en él la doctrina del libro segundo se despliega en cincuenta y nueve capítulos que pueden agruparse en seis grandes núcleos: el habla interior, los efectos del amor divino, la economía de la consolación y la desolación, la ascesis de la renuncia, la vida como prueba y las dos ciudades (naturaleza y gracia).
 
+### El habla interior y las disposiciones para oírla (cc. 1-4, 24, 26, 38, 43)
 
-## Secciones incluidas
+El libro se abre con la bienaventuranza del que escucha a Dios: «Bienaventurados los oídos que perciben el rumor de las inspiraciones divinas y no cuidan de las murmuraciones mundanas»; «Bienaventurados los ojos que, cerrados a las cosas exteriores, están muy atentos a las interiores». La primera palabra de Cristo es «Yo soy tu salud, tu paz y tu vida», con la advertencia de que «¿Qué es todo lo temporal sino engañoso?». El capítulo 2, «Que la verdad habla dentro del alma sin sonido de palabras», construye una contraposición memorable entre la enseñanza exterior y la interior: los maestros humanos «pronuncian palabras, mas no dan espíritu... Dicen la letra, mas tú abres la inteligencia... Muestran el camino, pero tú das esfuerzo para andarlo»; de ahí la petición de Samuel: «Habla, Señor, pues tu siervo escucha» (1Re 3,10). El capítulo 3 añade la advertencia de que las palabras de Dios «son espíritu y vida» (Jn 6,64) y se han de oír «en silencio y con toda humildad», y hace el gran reproche a la tibieza: «El mundo promete cosas temporales y pequeñas, y con todo eso le sirven con grande ansia. Yo prometo cosas grandes y eternas, y entorpécense los corazones de los mortales». Allí mismo anuncia la ley de su trato con los escogidos: «De dos maneras acostumbro visitar a mis escogidos; esto es, con tentación y consolación. Y dos lecciones les leo cada día: una, reprendiendo sus vicios; otra, amonestándolos al adelantamiento en las virtudes». El capítulo 4 exige andar «en verdad» y con desconfianza de sí: «De ti siempre vas a la nada; presto caes, presto eres vencido, presto te turbas y presto desfalleces»; y denuncia las devociones falsificadas —«Algunos tienen su devoción solamente en los libros; otros, en las imágenes... Algunos me traen en la boca, pero pocos en el corazón»—, para terminar describiendo a los que «suspiran siempre por las cosas eternas».
 
-# Capítulo 1 — Del habla interior de Cristo al alma fiel
+El capítulo 24 aparta de la curiosidad por las vidas ajenas con la respuesta de Jn 21,22: «¿Qué te va a ti de esto? Sígueme tú... No tienes que responder por otro, sino dar razón de ti mismo». El 26, sobre la excelencia del espíritu libre, sostiene que la libertad se alcanza mejor con la oración humilde que con la lectura, y pide usar de lo necesario «templadamente», pues «muy embarazosos son para el espíritu fervoroso la comida, la bebida, el vestido y todas las demás cosas necesarias para sustentar el cuerpo». El capítulo 38 da la regla del recogimiento en medio de la acción: «en cualquier lugar y en toda ocupación exterior estés libre dentro de ti y señor de ti mismo», con el ejemplo de Moisés, que «siempre recurrió al tabernáculo para determinar las dudas y dificultades», frente a Josué y los gabaonitas, engañados «porque no consultaron primero con el Señor» (Jos 9). El capítulo 43, «Contra la ciencia vana del mundo», cierra este núcleo con la afirmación de Cristo como único maestro: «Yo soy el que levanto en un instante al alma humilde, para que entienda más razones de la verdad eterna que si hubiese estudiado diez años en las escuelas... Una cosa dicen los libros, mas no enseñan igualmente a todos, porque yo desde dentro soy doctor de la Verdad».
 
-[Contenido de esta sección...]
+### El amor divino y su prueba (cc. 5-7)
 
-# Capítulo 2 — Que la verdad habla dentro del alma sin sonido de palabras
+El capítulo 5 es la página más alta del libro y el corazón afectivo de toda la obra. Tras una plegaria al «Padre de las misericordias» (2Cor 1,3), Cristo describe el amor con una serie de paradojas encadenadas: «Gran cosa es el amor; bien sobre manera grande; él solo hace ligero todo lo pesado y lleva con igualdad todo lo desigual. Pues lleva la carga sin carga y hace dulce y sabroso todo lo amargo»; «El amor quiere estar arriba y no ser detenido de ninguna cosa baja»; «Nada hay más dulce que el amor, nada más fuerte, nada más alto, nada más ancho, nada más alegre, nada más cabal ni mejor en el cielo ni en la tierra, porque el amor nació de Dios y no puede aquietarse con todo lo creado, sino con el mismo Dios». Sigue la descripción del amante como el que «vuela, corre y se alegra», que «no mira a los dones, sino que se vuelve al Dador», y que «muchas veces no guarda modo, mas se enardece sobre todo modo»; y la del amor que «siempre vela, y durmiendo no se duerme; fatigado, no se cansa». El capítulo consigna la jaculatoria que resume la mística del Kempis —«¡Dios mío, amor mío, tú todo mío y yo todo tuyo!»— y la enumeración de las propiedades del amor: «diligente, sincero, piadoso, alegre y deleitable, fuerte, sufrido, fiel, prudente; de larga esperanza, varonil, y nunca se busca a sí mismo, porque cuando alguno se busca a sí mismo, luego cae del amor»; es «sumiso y obediente a los superiores; vil y despreciado para sí», y «ninguno vive en amor sin dolor».
 
-[Contenido de esta sección...]
+El capítulo 6 somete ese amor a prueba: «no eres aún fuerte y prudente amador... porque por una contradicción pequeña faltas en lo comenzado y buscas la consolación ansiosamente». La señal del amor discreto es que «no considera tanto el don del Amante cuanto el amor del que da», y por eso «si algunas veces no gustas de mí o de mis santos tan bien como deseas, no está todo perdido». El capítulo contiene un pequeño tratado del combate espiritual: el enemigo «te sugiere muchos pensamientos malos para disgustarte y atemorizarte, para desviarte de la oración y de la lección sagrada», le «desagrada mucho la humilde confesión» y, si pudiera, «haría que dejases la comunión»; la respuesta es la réplica firme —«Vete de aquí, espíritu inmundo... Jesús estará conmigo como invencible capitán»— y la humildad tras la caída: «Pelea como buen soldado: y si alguna vez cayeres por flaqueza, procura cobrar mayores fuerzas que las primeras». El capítulo 7 pide encubrir la gracia bajo el velo de la humildad, porque «no está el aprovechamiento de la vida espiritual sólo en tener gracia de consolación, sino en que con humildad, abnegación y paciencia lleves a bien que se te quite»; advierte de los que «quisieron hacer más de lo que pudieron... y porque se atrevieron a mayores cosas que Dios quería, por esto perdieron pronto la gracia», y fija el criterio verdadero del mérito: no las visiones ni la ciencia ni la dignidad, «sino si está fundado en verdadera humildad y lleno de caridad divina».
 
-# Capítulo 3 — Que las palabras de Dios se deben oír con humildad, y muchos no las consideran como deben
+### La economia de la consolación y la desolación (cc. 8-10, 16-17, 21-23, 25, 29-30, 34, 49-53)
 
-[Contenido de esta sección...]
+El capítulo 8, «De la baja estimación de sí mismo», pone en boca del alma el reconocimiento de su nada con Gén 18,27 («Hablaré a mi Señor, siendo yo polvo y ceniza») y la paradoja de la gracia: «yo me perdí amándome desordenadamente; pero buscándote a ti sólo, y amándote puramente, me hallé a mí y a ti». El capítulo 9 establece a Dios como último fin —«Si en algo te buscas a ti mismo, luego desfalleces y te quedas árido»— y el 10 desarrolla la dulzura de servir a Dios, con la consideración de que «tú me sirves más a mí que yo a ti», pues el Creador sirve a la criatura con el cielo, la tierra, los ángeles y, sobre todo, dándose a sí mismo.
 
-## Oración — Para pedir la gracia de la devoción
+En el centro del libro está el problema de la alternancia entre consuelo y prueba. El capítulo 16 lo plantea sin rodeos: «Cualquiera cosa que pueda desear o pensar para mi consuelo, no la espero aquí, sino en la otra vida»; «Vano es y breve todo consuelo humano». El 17 formula la indiferencia activa que caracteriza la espiritualidad del Kempis: «Tan pronto debes estar para padecer como para gozar. Tan de grado debes ser pobre y menesteroso como abundante y rico»; y el alma responde: «Indiferentemente quiero recibir de tu mano lo bueno y lo malo, lo dulce y lo amargo». El capítulo 21 es una plegaria de descanso en Dios «sobre todos los bienes» —sobre la salud, la honra, la ciencia, las riquezas, la fama, la consolación, «sobre todos los ángeles y arcángeles»—, con el grito que resume la espera: «¿Hasta cuándo tarda en venir mi Señor?... Ven, ven, pues sin ti ningún día ni hora será alegre». El capítulo 22 convierte la gratitud en método: la memoria de los «innumerables beneficios» lleva a preferir el último lugar, pues «el que se tiene por más vil que todos y se juzga por más indigno está más dispuesto para recibir mayores dones». El 23, «De cuatro cosas que causan gran paz», condensa la ascesis en cuatro máximas: «Procura, hijo, hacer antes la voluntad de otro que la tuya. Escoge siempre tener menos que más. Busca siempre el lugar más bajo y estar sujeto a todos. Desea siempre y ruega que se cumpla en ti enteramente la divina voluntad». El 25 añade el criterio para no confundir paz con comodidad: la paz verdadera no está en no sentir contrariedades ni en tener devoción sensible, sino «en ofrecerte de todo tu corazón a la divina Voluntad», dando gracias «en las cosas prósperas y adversas, pesándolo todo con un mismo peso»; y «si llegares al perfecto menosprecio de ti mismo, sábete que entonces gozarás de abundancia de paz».
 
-[Contenido de esta sección...]
+Los capítulos 29 y 30 enseñan a orar en la tribulación: «Sea tu nombre, Señor, para siempre bendito, que quisiste viniese sobre mí esta tentación y tribulación... Hágase tu voluntad»; y la respuesta de Cristo define la causa principal de la ausencia de consuelo: «Lo que sobre todo impide la consolación celestial es que muy tarde vuelves a la oración». Sigue el consuelo de la confianza: «Cuando tú piensas que estás lejos de mí, estoy muchas veces más cerca de ti. Cuando tú piensas que está todo casi perdido, entonces muchas veces está cerca mayor ganancia de merecimiento»; y la advertencia contra el cuidado del mañana, con Mt 6,34: «Bástale a cada día su trabajo». El capítulo 34 vuelve al amor como sabor: «¡Mi Dios y mi todo!... A quien tú eres sabroso, ¿qué no le sabrá bien?»; el 49, sobre el deseo de la vida eterna, recuerda que «muchas veces arde el fuego, pero no sube la llama sin humo», es decir, que los deseos espirituales se mezclan todavía de interés propio; y el 50 da el modelo de la oración en la desolación: «Padre justo y siempre digno de alabanza: llegó la hora en que tu siervo sea probado... Bueno es para mí, Señor, que me hayas humillado». El 51 ordena descender a «ejercicios humildes y exteriores» cuando no se puede en la contemplación; el 52 confiesa que el hombre «no es digno de consuelo, sino de castigo», y describe la contrición como el sacrificio agradable a Dios; el 53 exige que la gracia no se mezcle con el gusto de lo terreno: «no podrás ocuparte en mí y juntamente deleitarte en lo transitorio».
 
-# Capítulo 4 — Que debemos andar con verdad y humildad delante de Dios
+### La ascesis de la renuncia (cc. 11-15, 18-20, 27-28, 31-33, 37, 41-42, 44-46)
 
-[Contenido de esta sección...]
+El capítulo 11 manda examinar y moderar los deseos —«considera si te mueves por mi honra o más bien por tu provecho»— y el 12 define la paciencia como combate: «no quiero que busques tal paz que carezca de tentaciones... cuando fueres ejercitado en diversas tribulaciones y probado en muchas contrariedades, entonces piensa que has hallado la paz». El 13, sobre la obediencia a ejemplo de Cristo, tiene su punto más alto en la comparación de la humildad divina: «¿qué mucho es que tú, polvo y nada, te sujetes al hombre por Dios cuando yo, omnipotente y altísimo, que creé todas las cosas de la nada, me sujeté al hombre humildemente por ti?». El 14 contempla los secretos juicios de Dios con temor —«Si en los ángeles hallaste maldad... ¿qué será de mí?»— y concluye que «no hay santidad si tú, Señor, apartas tu mano». El 15 ofrece la fórmula de toda petición: «Señor, si te agradare, hágase esto así... Señor, tú sabes lo que es mejor», con el criterio de que «no todo deseo procede del Espíritu Santo, aunque parezca justo y bueno al hombre».
 
-# Capítulo 5 — Del maravilloso efecto del divino amor
+Los capítulos 18 y 19 tratan de la paciencia a ejemplo de Cristo: «desde la hora en que nací hasta la muerte en la cruz no me faltaron dolores que sufrir»; y el 19 da la definición del verdadero paciente: «No es verdadero paciente el que no quiere padecer sino lo que le parece y de quien él quiere... sin diferencia de personas, cualquier adversidad, y cuantas veces le venga, todo lo recibe de buena gana, de la mano de Dios». El 20 es la confesión de la propia flaqueza —«Muchas veces es una cosa bien pequeña la que me abate y entristece»— y la descripción de la vida como combate continuo. El 27 señala el amor propio como el gran obstáculo —«Sabe que el amor de ti mismo te daña más que ninguna cosa del mundo»—; el 28 responde a las malas lenguas: «No esté tu paz en la boca de los hombres, pues si pensaren de ti bien o mal no serás por eso otro hombre». El 31, «Del desprecio de toda criatura para hallar al Creador», explica por qué «se hallan pocos contemplativos»: «son raros los que saben desasirse del todo de las criaturas y de lo perecedero»; y el 32 enuncia la máxima que resume toda la perfección religiosa: «Déjalo todo, y lo hallarás todo; deja tu apetito, y hallarás sosiego». El 33, sobre la inconstancia del corazón, pide dirigir la intención al fin por encima de los cambios de humor. El 37 y el 56 desarrollan la renuncia total: «Hijo, déjate a ti y me hallarás a mí. Nada escojas, nada te apropies, y ganarás siempre»; «lo que impide la unión es que no se renuncian del todo».
 
-[Contenido de esta sección...]
+Los capítulos 41 a 46 completan el desasimiento respecto de la honra y de los hombres: no entristecerse por ser despreciado (41), no poner la paz en las criaturas (42), no dejarse mover por la ciencia vana del mundo (43), no buscar las cosas exteriores (44), no creer a todos y guardar la lengua (45, con la observación de que «todo hombre es mentiroso», Sal 115,2, y el ejemplo de santa Águeda: «Mi alma está asegurada y fundada en Jesucristo»), y confiar en Dios cuando nos injurian (46): «¿Qué son las palabras sino palabras? Vuelan por el aire, mas no mellan una piedra».
 
-# Capítulo 6 — De la prueba del verdadero amor
+### La vida como prueba y el deseo del cielo (cc. 35-36, 39-40, 47-50, 57)
 
-[Contenido de esta sección...]
+El capítulo 35 establece el principio de la inseguridad del viator: «nunca estás seguro en esta vida, porque mientras vivieres tienes necesidad de armas espirituales... Entre enemigos andas». El 36 responde a los vanos juicios humanos con el ejemplo de san Pablo, que «en nada tuvo el ser juzgado del mundo». El 39 pide no ser importuno en los negocios y confiar su disposición a Dios; el 40 es la confesión de que el hombre «no tiene de sí bien alguno» —«una cosa puedo yo pensar y decir con verdad: Nada soy, Señor; nada puedo, nada bueno tengo de mí»— y la denuncia de la vanagloria como «mala pestilencia y grandísima vanidad». Los capítulos 47 a 49 levantan la mirada al término: «No trabajarás aquí mucho tiempo, ni serás agravado siempre de dolores. Espera un poquito y verás cuán presto se pasan los males»; el 48 es la gran elegía del destierro —«¡Oh bienaventurada mansión de la ciudad soberana! ¡Oh día clarísimo de la eternidad, que no lo oscurece la noche!»— con el diagnóstico de la distracción: «Allí estoy donde está mi pensamiento; allí está mi pensamiento a menudo donde está lo que amo», según Mt 6,21. El 49 recuerda que el tiempo presente es «tiempo de guerra, tiempo de trabajo y de prueba» y que «hacer muchas veces lo que no quieres y dejar lo que quieres» es la escuela de la voluntad. El 57 consuela al que cae: «más me agradan la humildad y paciencia en la adversidad que el mucho consuelo y devoción en la prosperidad»; «Hombre eres y no dios; carne y no ángel».
 
-# Capítulo 7 — Que se ha de encubrir la gracia bajo el velo de la humildad
+### Naturaleza y gracia; la imitación por la cruz (cc. 54-56, 58-59)
 
-[Contenido de esta sección...]
+El capítulo 54, «De los diversos movimientos de la naturaleza y de la gracia», es la pieza doctrinal más sistemática del libro: un largo paralelo en diez pares de contrarios. «La naturaleza es astuta, atrae a sí a muchos, los enreda y engaña, y siempre se pone a sí misma por fin. Mas la gracia anda sin doblez... y hace todas las cosas puramente por Dios». La naturaleza «no quiere ser mortificada de buena gana», la gracia «estudia en la propia mortificación»; la naturaleza busca la honra, la gracia «se alegra en padecer injurias por el nombre de Jesús» (He 5,41); la naturaleza ama el ocio, la gracia «no puede estar ociosa»; la naturaleza «ama sus cosas propias y particulares», la gracia «es piadosa y común para todos... tiene por mayor felicidad el dar que el recibir» (He 20,35); la naturaleza se complace en muchos amigos y en el linaje, la gracia «ama aun a los enemigos». El capítulo 55, «De la corrupción de la naturaleza y de la eficacia de la gracia divina», desarrolla la misma doctrina en clave paulina: «siento en mi carne la ley del pecado, que contradice a la ley de mi alma, y me lleva cautivo» (Rom 7,23); «puedo querer el bien, pero no puedo ponerlo por obra» (Rom 7,18). La conclusión es la necesidad absoluta de la gracia: «sin ella ninguna cosa puedo hacer; pero en ti todo lo puedo, confortado por la gracia» (Flp 4,13); y la jerarquía de los dones: «los dones naturales son comunes a buenos y a malos; mas la gracia o la caridad es don propio de los escogidos»; sin caridad ni siquiera la fe y la esperanza son aceptas. El capítulo invoca la respuesta de 2Cor 12,9: «tu gracia me basta».
 
-# Capítulo 8 — De la baja estimación de sí mismo ante los ojos de Dios
-
-[Contenido de esta sección...]
-
-# Capítulo 9 — Que todas las cosas se deben referir a Dios como a último fin
-
-[Contenido de esta sección...]
-
-# Capítulo 10 — Que en despreciando el mundo, es dulce cosa servir a Dios
-
-[Contenido de esta sección...]
-
-# Capítulo 11 — Que los deseos del corazón se deben examinar y moderar
-
-[Contenido de esta sección...]
-
-# Capítulo 12 — Declárase qué cosa sea paciencia y la lucha contra el apetito
-
-[Contenido de esta sección...]
-
-# Capítulo 13 — De la obediencia del súbdito humilde, a ejemplo de Jesucristo
-
-[Contenido de esta sección...]
-
-# Capítulo 14 — Que se han de considerar los secretos juicios de Dios para que no nos envanezcamos
-
-[Contenido de esta sección...]
-
-# Capítulo 15 — Cómo se debe uno haber y decir en todas las cosas que deseare
-
-[Contenido de esta sección...]
-
-## Oración — Para cumplir la voluntad de Dios
-
-[Contenido de esta sección...]
-
-# Capítulo 16 — Que sólo en Dios se debe buscar el verdadero consuelo
-
-[Contenido de esta sección...]
-
-# Capítulo 17 — Que todo nuestro cuidado se ha de poner sólo en Dios
-
-[Contenido de esta sección...]
-
-# Capítulo 18 — Que las miserias temporales se han de sufrir con igualdad de ánimo, a ejemplo de Cristo
-
-[Contenido de esta sección...]
-
-# Capítulo 19 — De la tolerancia de las injurias y cómo se prueba el verdadero paciente
-
-[Contenido de esta sección...]
-
-# Capítulo 20 — De la confesión de la propia flaqueza y de las miserias de esta vida
-
-[Contenido de esta sección...]
-
-# Capítulo 21 — Que se ha de descansar en Dios sobre todos los bienes
-
-[Contenido de esta sección...]
-
-# Capítulo 22 — De la memoria de los innumerables beneficios de Dios
-
-[Contenido de esta sección...]
-
-# Capítulo 23 — De cuatro cosas que causan gran paz
-
-[Contenido de esta sección...]
-
-## Oración — Contra los malos pensamientos
-
-[Contenido de esta sección...]
-
-## Oración — Para pedir la luz interior
-
-[Contenido de esta sección...]
-
-# Capítulo 24 — Que se ha de evitar la curiosidad de saber las vidas ajenas
-
-[Contenido de esta sección...]
-
-# Capítulo 25 — En qué consiste la paz firme del corazón y el verdadero aprovechamiento
-
-[Contenido de esta sección...]
-
-# Capítulo 26 — De la excelencia del espíritu libre, la cual se alcanza mejor con la oración humilde que con la lectura
-
-[Contenido de esta sección...]
-
-# Capítulo 27 — Que el amor propio nos estorba mucho el bien eterno
-
-[Contenido de esta sección...]
-
-## Oración — Para pedir la limpieza del corazón y la sabiduría celestial
-
-[Contenido de esta sección...]
-
-# Capítulo 28 — Contra las lenguas de los maldicientes
-
-[Contenido de esta sección...]
-
-# Capítulo 29 — Cómo debemos rogar a Dios y bendecirle en el tiempo de la tribulación
-
-[Contenido de esta sección...]
-
-# Capítulo 30 — Que se ha de pedir el favor divino, y de la confianza de recobrar la gracia
-
-[Contenido de esta sección...]
-
-# Capítulo 31 — Del desprecio de toda criatura para hallar al Creador
-
-[Contenido de esta sección...]
-
-# Capítulo 32 — De la abnegación de sí mismo y abdicación de todo apetito
-
-[Contenido de esta sección...]
-
-# Capítulo 33 — De la inconstancia del corazón, y que la intención final se ha de dirigir a Dios
-
-[Contenido de esta sección...]
-
-# Capítulo 34 — Que al que ama es Dios muy sabroso en todo y sobre todo
-
-[Contenido de esta sección...]
-
-# Capítulo 35 — Que en esta vida no hay seguridad de carecer de tentaciones
-
-[Contenido de esta sección...]
-
-# Capítulo 36 — Contra los vanos juicios de los hombres
-
-[Contenido de esta sección...]
-
-# Capítulo 37 — De la pura y total renuncia de sí mismo para alcanzar la libertad del corazón
-
-[Contenido de esta sección...]
-
-# Capítulo 38 — Del buen régimen en las cosas exteriores y del recurso a Dios en los peligros
-
-[Contenido de esta sección...]
-
-# Capítulo 39 — Que el hombre no sea importuno en los negocios
-
-[Contenido de esta sección...]
-
-# Capítulo 40 — Que no tiene el hombre de sí bien alguno ni cosa de qué alabarse
-
-[Contenido de esta sección...]
-
-# Capítulo 41 — Del desprecio de toda honra temporal
-
-[Contenido de esta sección...]
-
-# Capítulo 42 — Que no debemos poner nuestra paz en los hombres
-
-[Contenido de esta sección...]
-
-# Capítulo 43 — Contra la ciencia vana del mundo
-
-[Contenido de esta sección...]
-
-# Capítulo 44 — Que no se deben buscar las cosas exteriores
-
-[Contenido de esta sección...]
-
-# Capítulo 45 — Que no se debe creer a todos, y que es fácil resbalar en las palabras
-
-[Contenido de esta sección...]
-
-# Capítulo 46 — De la confianza que debemos tener en Dios cuando nos injurian
-
-[Contenido de esta sección...]
-
-# Capítulo 47 — Que todas las cosas pesadas se deben sufrir por la vida eterna
-
-[Contenido de esta sección...]
-
-# Capítulo 48 — Del día de la eternidad y de las angustias de esta vida
-
-[Contenido de esta sección...]
-
-# Capítulo 49 — Del deseo de la vida eterna, y cuántos bienes están prometidos a los que pelean
-
-[Contenido de esta sección...]
-
-# Capítulo 50 — Cómo el hombre desconsolado se debe ofrecer en las manos de Dios
-
-[Contenido de esta sección...]
-
-# Capítulo 51 — Que debemos emplearnos en ejercicios humildes cuando no podemos en los sublimes
-
-[Contenido de esta sección...]
-
-# Capítulo 52 — Que el hombre no se repute por digno de consuelo, sino de castigo
-
-[Contenido de esta sección...]
-
-# Capítulo 53 — Que la gracia de Dios no se mezcla con el gusto de las cosas terrenas
-
-[Contenido de esta sección...]
-
-# Capítulo 54 — De los diversos movimientos de la naturaleza y de la gracia
-
-[Contenido de esta sección...]
-
-# Capítulo 55 — De la corrupción de la naturaleza y de la eficacia de la gracia divina
-
-[Contenido de esta sección...]
-
-# Capítulo 56 — Que debemos negarnos a nosotros mismos y asemejarnos a Cristo por la cruz
-
-[Contenido de esta sección...]
-
-# Capítulo 57 — Que no debe acobardarse demasiado el que cae en algunas faltas
-
-[Contenido de esta sección...]
-
-# Capítulo 58 — Que no se deben escudriñar las cosas altas y los juicios ocultos de Dios
-
-[Contenido de esta sección...]
-
-# Capítulo 59 — Que toda la esperanza y confianza se debe poner sólo en Dios
-
-[Contenido de esta sección...]
+El capítulo 56, «Que debemos negarnos a nosotros mismos y asemejarnos a Cristo por la cruz», es la conclusión práctica del libro: «cuanto puedes salir de ti, tanto puedes pasarte a mí»; Cristo se presenta con Jn 14,6 —«Yo soy camino, verdad y vida»— y enuncia la escala evangélica de la perfección: guardar los mandamientos, creer, venderlo todo, negarse, despreciar la vida presente, humillarse, llevar la cruz. El alma responde con la petición de imitar a Cristo despreciado y con la fórmula que resume la vida religiosa: «Verdaderamente, la vida del buen religioso es cruz, pero guía al paraíso». El capítulo 58 prohíbe escudriñar los juicios ocultos y la jerarquía de los santos —«Mis juicios han de ser temidos, no examinados»— y responde a la pregunta por el mayor en el reino con Mt 18,3: «Si no hiciereis y os volviereis como niños, no entraréis en el reino de los cielos». El libro se cierra con el capítulo 59, acto de esperanza: «Más quiero ser pobre por ti que rico sin ti. Por mejor tengo peregrinar contigo en la tierra que sin ti poseer el cielo. Donde tú estás, allá está el cielo, y donde no, el infierno y la muerte»; y con la certeza de que nada —ni amigos, ni defensores, ni libros, ni lugar secreto— aprovecha si Dios no auxilia: «Tú eres, pues, fin de todos los bienes, alteza de vida y abismo de sabiduría, y esperar en ti sobre todo es grandísima consolación para tus siervos. Amén».

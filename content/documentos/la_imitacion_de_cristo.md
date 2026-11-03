@@ -40,7 +40,7 @@ Cuatro libros, con 25, 12, 59 y 18 capítulos respectivamente:
 
 ## Resúmenes por capítulo
 
-> Los resúmenes de esta fuente están aún en estado de plantilla (0/7 completados). Los enlaces apuntan a las fichas previstas.
+> Los 7 resúmenes de esta fuente están completados (7/7, 2026-11-01) a partir del texto íntegro de los cuatro libros y del estudio preliminar.
 
 - [[01_la_imitación_de_cristo]] — Portada y datos de la obra
 - [[02_introducción]] — Estudio preliminar de la *devotio moderna*

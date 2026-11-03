@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dignidad humana
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-07
+timestamp: 2026-11-02
 description: "La dignidad humana es el valor intrínseco e inalienable de la persona humana por el hecho de haber sido creada a imagen y semejanza de Dios."
 ---
 # Dignidad humana
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-15
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -121,6 +121,10 @@ ODPC funda la dignidad humana en la dependencia directa de la persona respecto d
 El pudor y la modestia han de estar «hondamente arraigados en el respeto del propio cuerpo y de la dignidad de los demás» (SHVS 56). En la cultura del placer «la mujer puede llegar a ser un objeto para el hombre, los hijos un obstáculo para los padres» (SHVS 11); el desorden en el uso del sexo hace «del placer —en vez del don sincero de sí— el fin de la sexualidad, y reduce a las otras personas a objetos para la propia satisfacción» (SHVS 105). Una sana cultura del cuerpo lleva «a la aceptación de sí como don y como encarnación de un espíritu llamado a la apertura hacia Dios y hacia la sociedad» (SHVS 106); la educación se sitúa plenamente en el horizonte de la «civilización del amor» (SHVS 60).
 
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. V, Introducción) presenta la dignidad humana como fundamento de la moral. La persona humana tiene una dignidad inviolable que se manifiesta en la acción. La moral cristiana respeta y promueve la dignidad humana.
+
 ## Distinciones importantes
 
 - **Dignidad natural**: la que posee todo ser humano por haber sido creado a imagen de Dios
@@ -161,3 +165,4 @@ Bobby Ángel cita a Viktor Frankl (*Man's Search for Meaning*) al tratar la come
 - [EAC-8, Issue 8 «Humor», archivo 15]
 - [RH §8, §10, §13-17]
 - [EAC-19, 04_midnight_oil.md; 06_stacks.md; 16_feature_vukov.md; 17_feature_stewart.md]
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

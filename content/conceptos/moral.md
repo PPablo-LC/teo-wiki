@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Moral"
 description: "Dimensión de la teología que estudia los actos humanos en orden a su bondad o malicia, a la luz de la revelación y la razón."
 tags: ["teología_moral", "moral_fundamental"]
-timestamp: 2026-07-01
+timestamp: 2026-11-02
 ---
 
 # Moral
 
 > Área: Teología Moral
-> Última actualización: 2026-07-01
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -37,6 +37,10 @@ Tóth señala que la **moral** católica se fundamenta en [[dios]] como verdad e
 
 Se relaciona con [[teología_moral]], [[moral_fundamental]], [[moral_de_la_obligación]], [[norma_moral]], [[conciencia]], [[virtud]], [[ley_natural]], [[gracia]]
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción) presenta la moral como pregunta por «quién soy llamado a ser». La moral no es una lista de principios, sino una luz que ilumina la plenitud de la acción en el misterio de Cristo.
+
 ## Ver también
 
 [[teología_moral]], [[norma_moral]], [[ley_natural]], [[virtud]], [[conciencia]]
@@ -45,3 +49,4 @@ Se relaciona con [[teología_moral]], [[moral_fundamental]], [[moral_de_la_oblig
 
 - Concilio Vaticano II, Decr. *Optatam Totius* 16
 - CEC 1691–1698
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

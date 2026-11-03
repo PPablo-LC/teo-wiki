@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Divorcio
 tags: ["moral", "doctrina_social"]
 
-timestamp: 2026-06-28
+timestamp: 2026-11-03
 description: "Ruptura del vínculo conyugal reconocida civilmente, que la Iglesia considera una verdadera plaga social que ha alimentado una visión relativista de la unión matrimonial."
 ---
 # Divorcio
 
 > Área: [Moral / Doctrina social]
-> Última actualización: 2026-06-28
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -41,6 +41,19 @@ Santo Tomás trata la separación por fornicación en el Suplemento (q.62) y el 
 ### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
 
 Tóth narra la **historia y expansión del divorcio**: de los casos graves se pasa a la supresión de facto de la institución matrimonial — «si no reparamos un descosido, el vestido se rompe del todo» [EMC, cap. 11]. El **mal del divorcio** despliega consecuencias psicológicas, sociales y religiosas; la estadística del divorcio se corresponde con la falta de hijos [EMC, cap. 10]. Contra la pretensión estatal, el **bien común** está sobre los intereses individuales y el Estado es incapaz de crear los fundamentos morales del matrimonio: las leyes matrimoniales de Augusto fracasaron porque sin la religión las leyes civiles son insuficientes [EMC, caps. 11, 17]. La Iglesia, «segunda arca de Noé», «salvará de nuevo la familia»: no las conferencias internacionales ni los Estados, sino los padres y madres santos salvarán el mundo [EMC, cap. 17].
+### Según *Living the Truth in Love* (LTL)
+
+Jennifer Roback Morse dedica un capítulo a mostrar que el divorcio sin culpa
+fue la segunda pieza de la **[[revolución_sexual]]**: si la anticoncepción
+separó el sexo de los hijos, el divorcio unilateral separó el matrimonio de
+la indisolubilidad. La consecuencia jurídica es que el vínculo deja de ser
+una realidad estable y se convierte en un contrato revocable; la consecuencia
+social, que la presunción de exclusividad se pierde y la infidelidad se
+vuelve estructural. Morse subraya el costo para los niños y lo lee como
+cuestión de justicia, no solo de moral privada. La respuesta católica no es
+la nostalgia, sino la reconstrucción de una cultura del matrimonio y el
+acompañamiento de quienes han sufrido la ruptura.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[indisolubilidad]], [[uniones_de_hecho]], [[familia]], [[fidelidad]]
@@ -54,3 +67,4 @@ Se relaciona con [[matrimonio]], [[indisolubilidad]], [[uniones_de_hecho]], [[fa
 - [CompDS §225-226]
 - SmTh, Suppl., q. 62, q. 67
 - EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 10-11, 17.
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).

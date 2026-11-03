@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Verdad
 tags: ["filosofía", "doctrina_social", "moral"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-02
 description: "La verdad es uno de los valores fundamentales de la vida social, inherente a la dignidad de la persona humana; exigencia última del corazón y adecuación del entendimiento según Giussani."
 ---
 # Verdad
 
 > Área: Filosofía / Doctrina Social / Moral
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -143,6 +143,10 @@ comenzar cada vez desde la verdad de nuestro corazón. Y es por eso que la
 primera palabra que usó el Señor no fue: “Haced esto” o “Haced aquello”, sino:
 “Cambiad el corazón”» (01, 67; Mt 4,17).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, Cap. III) presenta la verdad como originalidad de la verdad práctica: la verdad de la acción no se reduce a un juicio conforme a una norma, sino que es la realización de una acción excelente, reconocida connaturalmente. La verdad sobre el bien se percibe arriesgándose en la acción. La ruptura entre libertad y verdad (VS 4) es la raíz de la crisis moral.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]], [[libertad]], [[entendimiento]] y la exigencia de verdad como estructura de la vida humana en SR.
@@ -181,3 +185,4 @@ Decir siempre la verdad es «otro medio estupendo para ser hombre de carácter, 
 - [Juan XXIII, Pacem in Terris]
 - [EjEsp2026, cap. 5: «El esplendor de la Verdad»]
 - [EAC-16, 15_feature_rowland.md, 01_from_the_desk.md]
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cristología
 tags: ["dogmática_(cristología)"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-02
 description: "Rama de la teología dogmática que estudia la persona y la obra de [[jesucristo]]."
 ---
 # Cristología
 
 > Área: Dogmática (Cristología)
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -67,6 +67,10 @@ algo más grande, somos “del” Padre» (02, 63).
 llega a este punto. Decimos estas cosas, queremos decirlas a los hijos, a los
 amigos, a los compañeros, para que la gente sea más feliz» (02, 87).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. V) presenta a Cristo como la plenitud del bien humano y de la moral: en Cristo se manifiesta el bien en su plenitud personalista. Cristo es el mediador, el modelo y la fuente de la acción cristiana. La plenitud filial de la acción de Cristo es el modelo de la acción humana.
+
 ## Relaciones doctrinales
 
 La cristología se articula con la [[trinidad]] (Cristo es la Segunda Persona), con la [[soteriología]] (obra salvífica de Cristo), con la [[mariología]] (María como Madre de Dios), y con la [[escatología]] (Cristo como juez y consumador del Reino). Informa toda la vida cristiana como [[configuración_con_cristo]].
@@ -88,3 +92,4 @@ La cristología se articula con la [[trinidad]] (Cristo es la Segunda Persona), 
 
 - CEC §430-682
 - TPCr, Tratado de cristología (misterios de Cristo)
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

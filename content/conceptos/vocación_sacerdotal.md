@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vocación sacerdotal
 tags: ["teología_espiritual", "eclesiología"]
 
-timestamp: 2026-06-14
+timestamp: 2026-11-02
 description: "Llamada de Dios a un bautizado para configurarse con Jesucristo, Cabeza y Pastor de la Iglesia, mediante el sacramento del Orden en el grado del presbiterado."
 ---
 # Vocación sacerdotal
 
 > Área: Teología espiritual / Eclesiología
-> Última actualización: 2026-06-14
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -54,6 +54,10 @@ La Carta Apostólica *Una fidelidad que genera futuro* (2025) dedica su sección
 Los padres deben alegrarse si ven «los signos de la llamada de Dios a la más alta vocación de la virginidad o del celibato por amor del Reino de los cielos», animando a los hijos «hasta el momento del ingreso en el seminario o en la casa de formación» (SHVS 35). «La mayor ayuda en este sentido la prestan... aquellas familias que, animadas del espíritu de fe, caridad y piedad, son como un primer seminario»; los padres y maestros deben instruir a los jóvenes «para que... estén prontos a responder generosamente al llamamiento del Señor, diciendo con el profeta: *Aquí estoy yo, envíame* (Is 6, 8)» (SHVS 35). Se advierte que en familias pobres en el valor de la vida (un solo hijo) «es muy difícil que surjan vocaciones» (SHVS 35).
 
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Ladaria: lo que más configura una vocación no es una figura aislada, sino un ambiente, un círculo humano, una comunión viva, un tejido de personas; la llamada es a la misión compartida y a la amistad en el Señor. Al joven le aconseja: «Confía en el Señor»; al mayor: «Plantar, no cosechar, es lo más importante». Melina: el sacerdocio es vocación, no oficio; la persona se identifica con su misión (von Balthasar); la crisis cultural es no identificarse con ninguna elección, una libertad empobrecida que nunca se dedica para siempre. La crisis de vocaciones es también crisis de familias; hay que orar al dueño de la mies (Lc 10:2). Chaput: los primeros años son cruciales; es más difícil de lo que muchos imaginan; el sacerdocio diocesano exige ser líder y pastor de la comunidad.
+
 ## Distinciones importantes
 
 - Vocación universal a la santidad (recibida en el Bautismo) vs. vocación específica al presbiterado (recibida por el sacramento del Orden)
@@ -74,3 +78,4 @@ Los padres deben alegrarse si ven «los signos de la llamada de Dios a la más a
 - [CEC §1578-1579, §1598-1599]
 - [ConcVatII, OT §4-6; PO §2]
 - [UFGF, 22.12.2025]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

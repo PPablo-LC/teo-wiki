@@ -6,11 +6,11 @@ tags:
   - teología_moral
   - filosofía
   - ética
-timestamp: 2026-07-17
+timestamp: 2026-11-02
 ---
 
 > Área: Conceptos
-> Última actualización: 2026-07-17
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -36,6 +36,10 @@ El autor presenta la moral autónoma como:
 - **nn. 40-43**: Crítica de las éticas autónomas que prescinden de la ley natural.
 - **nn. 59-64**: La autonomía de la razón práctica y sus límites.
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. VI) presenta la moral autónoma como desafío: la moral como cuestión eclesial, no autónoma. La autonomía moral pretende prescindir de la fe y la Iglesia. La renovación exige superar la autonomía moral y recuperar la dimensión eclesial de la moral.
+
 ## Distinciones importantes
 
 - **Moral autónoma vs. justa autonomía**: La moral autónoma prescinde de la revelación; la justa autonomía reconoce la capacidad de la razón sin excluir la fe.
@@ -57,3 +61,4 @@ El autor presenta la moral autónoma como:
 
 - VS, nn. 40-43, 59-64
 - Ele_Xto_Stos, Cap. I, §3a
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

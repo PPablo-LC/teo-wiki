@@ -6,13 +6,13 @@ tags:
   - pastoral
   - compasión
   - acompañamiento
-timestamp: "2026-09-02"
+timestamp: 2026-11-03
 ---
 
 # Acompañamiento pastoral
 
 > Área: Pastoral / Espiritualidad
-> Última actualización: 2026-09-02
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -29,6 +29,21 @@ El acompañamiento se arraiga en la compasión divina: Dios se acerca al hombre 
 - **Archivo 18 (George Weigel, sobre Juan Pablo II y *Salvifici Doloris*):** el sufrimiento como experiencia de transcendencia; el «acompañamiento» personal y pastoral de Wojtyła; la parábola del Buen Samaritano (SD 28): «cualquiera que se 'detiene junto al sufrimiento de otra persona' es como el Buen Samaritano... 'detenerse no significa curiosidad sino disponibilidad'»; «el mundo del sufrimiento humano convoca al mundo del amor humano».
 - **Archivo 11 (Ken May, citando a Henri Nouwen):** la compasión y el acompañamiento como don; «nuestro mayor don es nuestra capacidad de entrar en solidaridad con los que sufren»; estar presente, no huir del dolor.
 - **Archivo 23 (Mary McClusky):** la Iglesia guía a los penitentes a recibir el perdón de Dios; la escucha compasiva como parte de la Nueva Evangelización en la sanación post-aborto.
+
+### Según *Living the Truth in Love* (LTL)
+
+[[paul_check]] formula el criterio de todo acompañamiento: la **caridad
+intelectual**, que dice la verdad completa sin ambigüedad y sin desprecio.
+Janelle Hallman advierte contra la trampa del «no hacer daño» entendido como
+afirmación ideológica: callar la verdad también hiere. Propone una
+«aceptación radical e incondicional» de la persona —a imagen de Jesús con la
+samaritana (Jn 4)— y nueve pautas concretas para acompañar a jóvenes, con
+1 Cor 13 como método. [[timothy_g_lock]] insiste en el cuidado informado:
+terminología precisa, conocimiento de las heridas, paciencia con los procesos
+y atención a los padres. **[[iniciativas_apostólicas_courage_y_encourage|Courage y EnCourage]]** ofrece la arquitectura
+práctica: grupos de apoyo, **[[amistad_cristiana]]**, dirección espiritual y
+acompañamiento también a las familias. El acompañamiento es, en suma, una
+tarea eclesial sostenida por la gracia, no una ocurrencia individual.
 
 ## Distinciones importantes
 
@@ -52,3 +67,4 @@ El acompañamiento se arraiga en la compasión divina: Dios se acerca al hombre 
 
 - EAC-15, archivos 11, 18, 23
 - *Salvifici Doloris* 28; Lc 10,25-37
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).

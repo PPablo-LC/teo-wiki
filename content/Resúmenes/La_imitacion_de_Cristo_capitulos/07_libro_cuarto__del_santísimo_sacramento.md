@@ -3,129 +3,70 @@ type: ResumenFuente
 title: "LIBRO CUARTO — Del Santísimo Sacramento"
 fuente: La_imitacion_de_Cristo_capitulos
 capítulo: 7
-timestamp: 2026-10-29
-description: "Resumen de 'LIBRO CUARTO — Del Santísimo Sacramento' — La_imitacion_de_Cristo_capitulos"
-tags: ["resumen", "la imitacion de cristo capitulos"]
+timestamp: 2026-11-01
+description: "Libro IV del Kempis, «Exhortación devota a la sagrada comunión»: reverencia, frecuencia, preparación y adoración del Santísimo Sacramento."
+tags: ["resumen", "la imitacion de cristo capitulos", "eucaristía", "vida_espiritual"]
 ---
 
 # LIBRO CUARTO — Del Santísimo Sacramento
 
+*Exhortación devota a la sagrada comunión*
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[eucaristía]] — objeto único del libro: el Sacramento del altar
+- [[institución_de_la_eucaristía]] — «Haced esto en memoria de mí» (Lc 22,19)
+- [[presencia_real]] — «tú, Señor Dios mío, verdadero Dios y Hombre, eres contenido entero debajo de las especies de pan y vino»
+- [[sacrificio_de_la_misa]] — el ofrecimiento de Cristo y de sí mismo (cc. 7-8)
+- [[sacerdocio]] — capítulos 5 y 11: la dignidad del estado sacerdotal
+- [[comunión_espiritual]] — capítulo 10: «cualquier devoto puede cada día y cada hora comulgar espiritualmente con fruto»
+- [[examen_de_conciencia]] — capítulo 7, con el propósito de la enmienda
+- [[confesión]] y [[sacramento_de_la_reconciliación]] — el remedio que precede a la comunión
+- [[contrición]] — «el humilde arrepentimiento de los pecados»
+- [[gracia_santificante]] — capítulo 4: la comunión como medicina y aumento de gracia
+- [[adoración_eucarística]] — capítulo 1, la reverencia ante el Sacramento
+- [[sagrada_escritura]] — capítulo 11, las «dos mesas»
+- [[fe]] — capítulo 18: «Fe se te pide y vida pura»
+- [[abnegación]] — capítulos 8 y 15: la ofrenda de sí mismo
+- [[humildad]] — los capítulos 12 y 15 sobre la disposición para comulgar
+- [[vida_eterna]] — la comunión como prenda de la gloria
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `06_libro_cuarto.md`
+El libro cuarto, *De Sacramento altaris*, es el único de tema único de la obra: la eucaristía, tratada como «sacramento» de la comunión con una ternura e insistencia que, según el estudio introductorio, no es frecuente en los espirituales de la última Edad Media —más atentos a la reverencia debida a la presencia real—, y que lo convierte en «un tesoro». Su forma es también la más homogénea: una exhortación inicial con las palabras del Señor, seguida de dieciocho capítulos en diálogo entre el alma y Jesucristo.
 
+### La exhortación inicial y la reverencia (c. 1)
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+El libro se abre con un encadenado de palabras de Cristo: «Venid a mí todos los que tenéis trabajos y estáis cargados, y yo os aliviaré» (Mt 11,28); «El pan que yo daré es mi carne por la vida del mundo» (Jn 6,52); «Tomad y comed: este es mi cuerpo... Haced esto en memoria de mí» (Lc 22,19; 1Cor 11,24); «El que come mi carne y bebe mi sangre está en mí y yo en él» (Jn 6,57). El alma responde reconociendo la tensión que recorre todo el libro: «Anímanme palabras de tanta piedad... mas mis propios pecados me espantan, y mi mala conciencia me retrae de recibir tan altos misterios. La dulzura de tus palabras me convida; mas la multitud de mis vicios me oprime».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LIBRO CUARTO — Del Santísimo Sacramento |
-| 15 | H2 | Capítulo 1 — Con cuánta reverencia se ha de recibir a Jesucristo |
-| 113 | H2 | Capítulo 2 — Que Dios muestra al hombre gran bondad y caridad en este  |
-| 169 | H2 | Capítulo 3 — Que es provechoso comulgar con frecuencia |
-| 213 | H2 | Capítulo 4 — Que se conceden muchos bienes a los que devotamente comul |
-| 261 | H2 | Capítulo 5 — De la dignidad del sacramento y del estado sacerdotal |
-| 299 | H2 | Capítulo 6 — Pregúntase qué debe hacerse antes de la comunión |
-| 313 | H2 | Capítulo 7 — Del examen de la propia conciencia y del propósito de la  |
-| 369 | H2 | Capítulo 8 — Del ofrecimiento de Cristo en la cruz y de la propia resi |
-| 393 | H2 | Capítulo 9 — Que debemos ofrecernos a Dios con todas nuestras cosas y  |
-| 433 | H2 | Capítulo 10 — Que no se debe dejar fácilmente la sagrada comunión |
-| 489 | H2 | Capítulo 11 — Que el cuerpo de Cristo y la Sagrada Escritura son muy n |
-| 557 | H2 | Capítulo 12 — Que debe disponerse con gran diligencia el que ha de rec |
-| 595 | H2 | Capítulo 13 — Que el alma devota debe desear con todo su corazón unirs |
-| 633 | H2 | Capítulo 14 — Del ansia con que algunos devotos desean el cuerpo de Cr |
-| 649 | H2 | Capítulo 15 — Que la gracia de la devoción se alcanza con la humildad  |
-| 677 | H2 | Capítulo 16 — Que debemos manifestar a Cristo nuestras necesidades y p |
-| 703 | H2 | Capítulo 17 — Del amor fervoroso y vehemente deseo de recibir a Cristo |
-| 731 | H2 | Capítulo 18 — Que el hombre no debe ser curioso escudriñador de este s |
+El capítulo 1 desarrolla la reverencia con una serie de comparaciones del Antiguo Testamento: Noé, que «trabajó cien años en fabricar un arca»; Moisés, que hizo un arca de madera incorruptible «guarnecida de oro purísimo» para las Tablas de la Ley; Salomón, que «edificó en siete años un magnífico templo» y ofreció mil hostias pacíficas; y David, que «bailó con toda su fuerza delante del arca de Dios». De ahí el argumento a fortiori: «si tanta era entonces la devoción y tanto se pensó en alabar a Dios delante del arca del Testamento, ¿cuánta reverencia y devoción debo yo ahora tener... en presencia del Sacramento?». Sigue la comparación con la devoción de los peregrinos, que «corren a diversos lugares para visitar las reliquias de los santos» y besan sus huesos guardados en oro y seda, mientras en el altar está presente «Dios mío, Santo de los santos, Creador de los hombres y Señor de los ángeles»; y la constatación de que «aquellas visitas» suelen hacerse «por la novedad y por la curiosidad», mientras que al Sacramento no nos trae «ninguna liviandad ni curiosidad o sensualidad, sino la fe firme, la esperanza devota y la pura caridad». El capítulo describe después los efectos de la comunión —«se da la gracia espiritual, se repara en el alma la virtud perdida y se recobra la hermosura afeada por el pecado»— y se duele de la tibieza: «es muy digno de llorarse el poco caso que muchos hacen de este saludable Sacramento, el cual alegra al cielo y conserva al universo mundo». Termina con la observación de que la multiplicidad de sacerdotes y lugares, lejos de disminuir la devoción, muestra «tanto mayor la gracia y amor de Dios al hombre, cuanto la sagrada Comunión es más liberalmente difundida por el mundo».
 
+### La bondad de Dios y los frutos de la comunión (cc. 2-4)
 
-## Secciones incluidas
+El capítulo 2 acumula los títulos con que el alma se presenta: «vengo yo, enfermo, al médico; hambriento y sediento, a la fuente de la vida; pobre, al Rey del cielo; siervo, al Señor; criatura, al Creador; desconsolado, a mi piadoso consolador». Confiesa que Dios lo hace «no por mis merecimientos, sino por ti mismo, para darme a conocer mejor tu bondad, para que se me infunda mayor caridad y se recomiende más la humildad», y formula la fe en la presencia real: «Admirable cosa es, digno objeto de la fe, y superior al entendimiento humano, que tú, Señor Dios mío, verdadero Dios y Hombre, eres contenido entero debajo de las especies de pan y vino, y sin detrimento eres comido por el que te recibe». Añade el principio de que la comunión renueva la redención: «cuantas veces te acuerdas de este misterio y recibes el cuerpo de Cristo, tantas renuevas la obra de tu redención y te haces participante de todos sus merecimientos», y pide que cada misa se viva «como si fuese el mismo día en que Cristo, descendiendo en el vientre de la Virgen, se hizo hombre; o aquel en que, puesto en la cruz, padeció y murió por la salud de los hombres».
 
-# Capítulo 1 — Con cuánta reverencia se ha de recibir a Jesucristo
+El capítulo 3 defiende la **comunión frecuente** con el argumento de la medicina: el alma «tan presto se entibia y desmaya» y necesita «renovarse, purificarse y enfervorizarse por la frecuencia de oraciones y confesiones y de la sagrada participación de tu cuerpo», pues «las inclinaciones del hombre son hacia lo malo desde su juventud» (Gén 8,21) y «si no lo socorre la medicina celestial, al punto va de mal en peor»; de ahí la sentencia que resume su utilidad: «la santa comunión retrae de lo malo y conforta en lo bueno». El capítulo incluye la cita de Mt 15,32 como figura del cuidado de Cristo: «No quiero consentir que se vayan ayunos a su casa, porque no desmayen en el camino». El capítulo 4 enumera los bienes concedidos a los que comulgan devotamente: la comunión es «la salud del alma y del cuerpo, medicina de toda enfermedad espiritual, con la cual se curan mis vicios, refrenándose mis pasiones, las tentaciones se vencen o disminuyen, dase mayor gracia, la virtud comenzada crece, confírmase la fe, esfuérzase la esperanza y se enciende y dilata la caridad». Describe además el cambio observable antes y después: «los que antes de la comunión estaban inquietos y sin devoción, después, recreados con este manjar y bebida celestial, se hallan muy mejorados», y explica su finalidad pedagógica: «para que conozcan verdaderamente y experimenten a las claras cuánta flaqueza tienen de sí mismos, y cuán grande bondad y gracia alcanzan de tu clemencia». Cierra con las imágenes de la fuente y del fuego: «Tú eres fuente llena, que siempre mana y rebosa; fuego que de continuo arde y nunca se apaga», y con la petición humilde de quien se contenta con poco: «pondré siquiera mis labios a la boca del caño celestial, para que, a lo menos, reciba de allí alguna gotilla para templar mi sed».
 
-[Contenido de esta sección...]
+### La dignidad del sacramento y del sacerdocio (c. 5)
 
-# Capítulo 2 — Que Dios muestra al hombre gran bondad y caridad en este sacramento
+El capítulo 5 es el más institucional del libro. Empieza con la desproporción entre la dignidad del sacramento y la del ministro: «Aunque tuvieses la pureza de los ángeles y la santidad de san Juan Bautista, no serías digno de recibir ni manejar este sacramento... Grande es este misterio y grande es la divinidad de los sacerdotes, a los cuales es dado lo que no es concedido a los ángeles». Distingue con precisión el ministerio del poder divino: «El sacerdote es ministro de Dios, cuyas palabras usa por su mandamiento y ordenación; mas Dios es allí el principal autor y obrador invisible». Y pide la fe que se sobrepone a los sentidos: «Debes, pues, creer a Dios todopoderoso en este sublime sacramento más que a tus propios sentidos y a las señas visibles». De la dignidad deduce la exigencia: el sacerdote «está atado con más estrecho vínculo de observancia y obligado a mayor perfección de santidad», y «su trato no ha de ser como el de los hombres comunes, sino como el de los ángeles en el cielo o el de los varones perfectos en la tierra». El capítulo ofrece después una lectura simbólica de las vestiduras sagradas: el sacerdote «tiene la señal de la cruz de Cristo delante de sí y en las espaldas», delante «para que mire con diligencia las pisadas de Cristo y se esfuerce en seguirle con fervor», detrás «para que sufra con paciencia por Dios cualquier injuria»; la cruz delantera es para llorar los pecados propios y la trasera para compadecer los ajenos, pues el sacerdote «es medianero entre Dios y el pecador». Termina con el fruto de la celebración: «honra a Dios, alegra a los ángeles y edifica a la Iglesia; ayuda a los vivos, da descanso a los difuntos y hácese participante de todos los bienes».
 
-[Contenido de esta sección...]
+### La preparación: examen, ofrenda y disposición (cc. 6-9, 12)
 
-# Capítulo 3 — Que es provechoso comulgar con frecuencia
+El capítulo 6 plantea la pregunta —«¿qué haré, Dios mío, ayudador mío, consejero mío en las necesidades?»— y remite al ejercicio del capítulo siguiente. El capítulo 7 es el **examen de conciencia** más minucioso de la obra: el sacerdote o el fiel debe «examinar diligentemente su conciencia» y limpiarla «con verdadero dolor y humilde confesión», con aborrecimiento de todos los pecados y dolor particular «por las faltas diarias». Sigue la extensa letanía de los defectos propios, construida sobre la antítesis «tan... tan...»: «Tan poco diligente en la guarda de los sentidos exteriores, tan envuelto muchas veces en vanas imaginaciones... Tan fácil a la risa y la disipación, tan duro para las lágrimas y la compunción... Tan curioso para oír novedades y ver cosas hermosas, tan remiso en abrazar las humildes y despreciadas... Tan despierto para oír hablillas, y tan soñoliento para velar en oración... Tan fecundo en buenos propósitos, y tan estéril en ponerlos por obra». La respuesta práctica es el propósito firme de enmienda y la ofrenda de sí: «ofrécete a ti mismo, para gloria de mi nombre, en el altar de tu corazón, como sacrificio perpetuo», pues «no hay ofrenda más digna ni mayor satisfacción para borrar los pecados que ofrecerse a sí mismo pura y enteramente a Dios con el sacrificio del cuerpo de Cristo». Cita la promesa de Ez 18,22: «no quiero la muerte del pecador, sino que se convierta y viva».
 
-[Contenido de esta sección...]
+El capítulo 8 funda esa ofrenda en la de Cristo en la cruz: «Así como yo, con las manos extendidas en la cruz y todo el cuerpo desnudo, me ofrecí voluntariamente a Dios Padre por tus pecados... así debes tú también ofrecérteme cada día en la misa en ofrenda pura y santa». La exigencia es la entrega sin reservas: «¿Qué otra cosa quiero de ti más que el que te entregues a mí sin reserva? Cualquier cosa que me das sin ti no gusto de ella, porque no quiero tu don, sino a ti»; y de ahí la explicación de la esterilidad espiritual: «por eso tan pocos se hacen varones ilustrados y libres en lo interior, porque no saben del todo negarse a sí mismos», con la sentencia de Lc 14,33: «El que no renunciare todas las cosas, no puede ser mi discípulo». El capítulo 9 desarrolla ese ofrecimiento en forma de oblación universal: los pecados propios («para que tú los abrases todos juntos y los quemes con el fuego de tu caridad»), los bienes «aunque muy pocos e imperfectos», los santos deseos de los devotos, las necesidades de parientes, amigos y bienhechores, «vivos y difuntos», y también «el sacrificio de propiciación, especialmente por los que en algo me han enojado, contristado o vituperado», pidiendo que Dios aparte de los corazones «toda mala sospecha, toda ira, indignación y contienda, y cuanto pueda estorbar la caridad».
 
-# Capítulo 4 — Que se conceden muchos bienes a los que devotamente comulgan
+El capítulo 12, «Que debe disponerse con gran diligencia el que ha de recibir a Cristo», une la exigencia de pureza —«Yo soy amante de la pureza... Yo busco el corazón puro, y allí es el lugar de mi descanso»; «Prepárame una sala grande y adornada» (Lc 22,12)— con la conciencia de la propia incapacidad: «no puedes alcanzar esta preparación con el mérito de tus obras, aunque te preparases un año entero», pues «por sola mi piedad y gracia se te permite llegar a mi mesa, como si un rico convidase... a un pobre mendigo». Y añade el consejo decisivo sobre el después: «conviene que no sólo procures la devoción antes de comulgar, sino que también la conserves con cuidado después de recibido el sacramento. Ni es menos necesario después el recogimiento y vigilancia que lo es antes la devota preparación; porque el cuidado que después se tiene es la mejor disposición para recibir nuevamente mayor gracia».
 
-[Contenido de esta sección...]
+### Devoción, deseo y unión (cc. 10-11, 13-17)
 
-# Capítulo 5 — De la dignidad del sacramento y del estado sacerdotal
+El capítulo 10 responde a la tentación más común: **no dejar la comunión**. «El enemigo, sabiendo el grandísimo fruto y remedio que hay en la sagrada comunión, trabaja cuanto puede... por retraer y estorbar a los fieles y devotos»; en particular, «luego que algunos piensan en prepararse para la sagrada comunión, padecen peores tentaciones de Satanás que antes», y «este espíritu maligno se mete entre los hijos de Job» (Job 1,7). El consejo es despreciar esas astucias, huir del escrúpulo —«Muchas veces estorba también la demasiada ansia de tener devoción y cierta inquietud por confesarse bien... porque impide la gracia de Dios»—, perdonar y confesar pronto, porque «el dilatar demasiado la comunión... suele causar grave entorpecimiento»; y distingue la abstención por humildad, que «es de alabar por la reverencia», de la abstención por tibieza. Establece además la **comunión espiritual**: «cualquier devoto puede cada día y cada hora comulgar espiritualmente con fruto», pues «tantas veces místicamente comulga y se alimenta invisiblemente cuantas se acuerda con devoción del misterio de la encarnación y pasión de Cristo, y se enciende en su amor».
 
-[Contenido de esta sección...]
+El capítulo 11 es célebre por la imagen de las **dos mesas**: el alma, detenida «en la cárcel de este cuerpo», necesita «mantenimiento y luz», y por eso Dios le dio «tu sagrado cuerpo para alimento» y «tu divina palabra, para que sirviese de luz a mis pasos» (Sal 118,105). «Estas se pueden llamar dos mesas colocadas a uno y otro lado en el tesoro de la santa Iglesia. Una es la mesa del sagrado altar... Otra es la de la Ley divina». El capítulo explica también por qué el Señor se oculta bajo la especie: «el mirarte en tu propia y divina claridad no podrían mis ojos resistirlo, ni el mundo entero subsistiría ante el resplandor de la gloria de tu Majestad. Tienes, pues, consideración a mi debilidad cuando te ocultas bajo este sacramento»; y enseña que la fe sostiene esa espera: «Debo yo contentarme con la luz de la fe verdadera, y andar con ella hasta que amanezca el día de la claridad eterna», pues «cuando llegue este perfecto estado» (1Cor 13,10) «cesará el uso de los sacramentos».
 
-# Capítulo 6 — Pregúntase qué debe hacerse antes de la comunión
+Los capítulos 13 a 17 describen el deseo de la unión. El 13 pide la intimidad: «¿Quién me dará, Señor, que te halle sólo para abrirte todo mi corazón...? Tú en mí y yo en ti»; el 14 confiesa la santa envidia de los devotos más fervorosos, que «no pudieron detener las lágrimas», y reconoce en ellos «verdadera y ardiente fe... prueba manifiesta de tu sagrada presencia en este sacramento», pues son «los que conocen a su Señor en el partir del pan» (Lc 24,35). El 15 explica cómo se alcanza la devoción: pedirla con insistencia, esperarla con paciencia, recibirla con gratitud y guardarla con humildad, echándose la culpa cuando falta, porque «el Señor echa su bendición donde halla los vasos vacíos», y «cuanto más perfectamente renunciare alguno las cosas bajas... tanto más presto viene la gracia». El 16 hace hablar a la necesidad: «Da de comer a este tu hambriento mendigo, enciende mi frialdad con el fuego de tu amor, alumbra mi ceguedad con la claridad de tu presencia»; y el 17 formula el deseo máximo, medido por los santos que mejor recibieron a Cristo: «deseo recibirte hoy, como te recibió y deseó tu santísima Madre, la gloriosa Virgen María, cuando... respondió humilde y devotamente: He aquí la esclava del Señor» (Lc 1,38), y «como el bienaventurado san Juan Bautista... que dio saltos de alegría en tu presencia».
 
-[Contenido de esta sección...]
+### El límite de la curiosidad: fe y humildad (c. 18)
 
-# Capítulo 7 — Del examen de la propia conciencia y del propósito de la enmienda
-
-[Contenido de esta sección...]
-
-# Capítulo 8 — Del ofrecimiento de Cristo en la cruz y de la propia resignación
-
-[Contenido de esta sección...]
-
-# Capítulo 9 — Que debemos ofrecernos a Dios con todas nuestras cosas y rogarle por todos
-
-[Contenido de esta sección...]
-
-# Capítulo 10 — Que no se debe dejar fácilmente la sagrada comunión
-
-[Contenido de esta sección...]
-
-# Capítulo 11 — Que el cuerpo de Cristo y la Sagrada Escritura son muy necesarios al alma fiel
-
-[Contenido de esta sección...]
-
-# Capítulo 12 — Que debe disponerse con gran diligencia el que ha de recibir a Cristo
-
-[Contenido de esta sección...]
-
-# Capítulo 13 — Que el alma devota debe desear con todo su corazón unirse a Cristo en el sacramento
-
-[Contenido de esta sección...]
-
-# Capítulo 14 — Del ansia con que algunos devotos desean el cuerpo de Cristo
-
-[Contenido de esta sección...]
-
-# Capítulo 15 — Que la gracia de la devoción se alcanza con la humildad y abnegación de sí mismo
-
-[Contenido de esta sección...]
-
-# Capítulo 16 — Que debemos manifestar a Cristo nuestras necesidades y pedirle su gracia
-
-[Contenido de esta sección...]
-
-# Capítulo 17 — Del amor fervoroso y vehemente deseo de recibir a Cristo
-
-[Contenido de esta sección...]
-
-# Capítulo 18 — Que el hombre no debe ser curioso escudriñador de este sacramento, sino humilde imitador de Cristo,sometiendo su sentir a la sagrada fe
-
-[Contenido de esta sección...]
+El libro termina con la advertencia que lo protege de todo racionalismo: «Guárdate de escudriñar inútil y curiosamente este profundísimo sacramento, si no quieres verte allegado en un abismo de dudas», con Prov 25,27: «El que es escudriñador de la majestad será abrumado de su gloria». Se admite, sin embargo, «la devota y piadosa investigación de la verdad, siempre dispuesta a ser enseñada»; y se alaba la sencillez: «Bienaventurada la sencillez que, dejando los ásperos caminos de las cuestiones, va por la senda llana y segura de los mandamientos de Dios. Muchos perdieron la devoción queriendo escudriñar las cosas sublimes». La máxima que resume el capítulo es: «Fe se te pide y vida pura, no elevación de entendimiento ni profundidad de los misterios de Dios»; con el argumento de la proporción —«Si no entiendes ni comprendes las cosas que están debajo de ti, ¿cómo entenderás las que están sobre ti?»— y la instrucción sobre las tentaciones contra la fe en el sacramento, que no se han de imputar a quien las padece «sino al enemigo», y que incluso convienen, «pues no tienta el demonio a los infieles y pecadores, a quienes ya tiene seguros, sino tienta y atormenta de diversas maneras a los fieles y devotos». El remedio es la fe simple: «Dios anda con los sencillos, se descubre a los humildes, da entendimiento a los pequeños, alumbra a las almas puras y esconde su gracia a los curiosos y soberbios. La razón humana es flaca y puede engañarse; mas la fe verdadera no puede engañarse», y «toda razón y discurso natural debe seguir a la fe y no ir delante de ella ni debilitarla».

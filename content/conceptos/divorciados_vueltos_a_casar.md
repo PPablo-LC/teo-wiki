@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Divorciados vueltos a casar
 tags: ["moral", "pastoral"]
 
-timestamp: 2026-06-20
+timestamp: 2026-11-02
 description: "Personas bautizadas que, habiendo contraído matrimonio sacramental válido y no habiendo muerto su cónyuge, contraen una nueva unión civil."
 ---
 # Divorciados vueltos a casar
 
 > Área: Moral / Pastoral
-> Última actualización: 2026-06-20
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -29,6 +29,10 @@ Exhorto vivamente a los pastores y a la comunidad a ayudar a los divorciados, pr
 
 La Iglesia reafirma su práxis de no admitir a la comunión eucarística a los divorciados que se casan otra vez, porque su estado contradice objetivamente la unión de amor entre Cristo y la Iglesia (FC §84). La reconciliación en el sacramento de la penitencia puede darse únicamente a los que, arrepentidos, están sinceramente dispuestos a vivir en plena continencia (FC §84). Queda prohibido a todo pastor efectuar ceremonias de cualquier tipo para los divorciados que vuelven a casarse, para no inducir a error sobre la indisolubilidad (FC §84).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Pell recuerda que el sacerdote debe explicar con claridad que los divorciados en nueva unión pueden orar, ir a Misa y escuchar la Palabra, pero están llamados al arrepentimiento y a aceptar las palabras de Cristo; no tenemos autoridad para invertir la enseñanza de Cristo. *Amoris laetitia* no cambió la doctrina por una nota a pie de página; la enseñanza de Juan Pablo II y Benedicto XVI es clara sobre la imposibilidad de admitir a la Comunión a quien contradice la indisolubilidad, y la conciencia está al servicio de la verdad. Melina desarrolla la respuesta pastoral: el adulterio es sobre todo pecado contra la fidelidad a Dios; la absolución requiere intención de no volver a pecar; la situación contradice objetivamente el sacramento de la Eucaristía. *Familiaris consortio* 84 permite vivir «como hermanos» cuando hay razones objetivas para seguir conviviendo, evitando el escándalo y transformando la relación en no conyugal; nada en *Amoris laetitia* indica una solución distinta.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[indisolubilidad]], [[eucaristía]], [[sacramento_de_la_reconciliación]], [[divorcio]], [[pastoral_familiar]]
@@ -40,3 +44,4 @@ Se relaciona con [[matrimonio]], [[indisolubilidad]], [[eucaristía]], [[sacrame
 ## Referencias
 
 - [FC §84]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

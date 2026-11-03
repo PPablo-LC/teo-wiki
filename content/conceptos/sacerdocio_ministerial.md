@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacerdocio ministerial
 tags: ["sacramental", "eclesiología"]
 
-timestamp: 2026-07-20
+timestamp: 2026-11-02
 description: "El sacerdocio ministerial (o jerárquico) es la participación en el único sacerdocio de Cristo conferida por el sacramento del Orden."
 ---
 # Sacerdocio ministerial
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-07-20
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -67,6 +67,10 @@ El sacerdocio ministerial en San Francisco se distingue por una reverencia extre
 
 **Reverencia a las palabras sagradas:** «Dondequiera que encuentren las palabras divinas escritas, las veneren en la medida de lo posible, y si no están bien conservadas o yacen dispersas deshonrosamente en algún lugar, que las recojan y conserven» (CFr. 29).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Ladaria subraya que el sacerdote «es» antes de «hacer»: el sacerdocio configura su persona con Cristo y esa configuración es la fuente de toda acción misionera. Los tres *munera* —santificar, enseñar y gobernar— se ejercen como *diakonia*. La ordenación produce una transformación real, no la mera asignación de un rol, frente a la concepción luterana del ministro como simple medio. Pell insiste en que el sacerdote representa a Cristo Cabeza, hermano y líder, y que su paternidad no es una función utilitaria. Chaput precisa que la visión católica del ministerio es configuración, no liderazgo: el orden sagrado produce una configuración literal a Cristo que hace del sacerdote un icono suyo. Melina añade que la persona se identifica con su misión y que el sacerdocio es vocación, no oficio.
+
 ## Distinciones importantes
 
 - Difiere esencialmente — no solo en grado — del sacerdocio común
@@ -91,3 +95,4 @@ Se relaciona con [[sacerdocio]], [[sacerdocio_bautismal]], [[sacerdocio_común]]
 - Juan Pablo II, *Pastores Dabo Vobis* (1992)
 - [SFrAs, Test. 14-15 — Fe en los sacerdotes]
 - [SFrAs, CFr. 19-20, 25, 27, 29 — Dignidad y exigencia sacerdotal]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

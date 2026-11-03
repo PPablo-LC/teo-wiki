@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Discernimiento
 tags: ["ascética", "moral"]
 
-timestamp: 2026-05-25
+timestamp: 2026-11-02
 description: "El discernimiento es la capacidad práctica de juzgar rectamente, a la luz de la fe y la razón, lo que se debe hacer u omitir en orden a la salvación y la perfección cristiana."
 ---
 # Discernimiento
 
 > Área: Ascética / Moral
-> Última actualización: 2026-05-25
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -47,6 +47,14 @@ León XIV realizó una extensa pedagogía del discernimiento vocacional durante 
 
 La *Redemptor Hominis* sitúa el discernimiento en el contexto de la confianza en el Espíritu de Verdad y la lectura de los signos de los tiempos. En el §3, Juan Pablo II declara: «Con plena confianza en el Espíritu de Verdad entro pues en la rica herencia de los recientes pontificados», afirmando que «lo que el Espíritu dijo a la Iglesia mediante el Concilio de nuestro tiempo [...] no puede —a pesar de inquietudes momentáneas— servir más que para una mayor cohesión de todo el Pueblo de Dios» (RH §3). En el §15, la encíclica propone un discernimiento de la situación contemporánea del hombre: «Conservando pues viva en la memoria la imagen que de modo perspicaz y autorizado ha trazado el Concilio Vaticano II, trataremos una vez más de adaptar este cuadro a los "signos de los tiempos", así como a las exigencias de la situación que cambia continuamente» (RH §15). Juan Pablo II analiza las amenazas contemporáneas —la alienación del hombre por sus propios productos, el progreso técnico sin el correspondiente desarrollo moral— y plantea las preguntas esenciales que la Iglesia debe hacerse para discernir el bien del mal en el mundo actual (RH §15). El discernimiento aparece así como una exigencia de la madurez en la fe: «los cristianos, precisamente porque Jesucristo les ha sensibilizado así universalmente en torno al problema del hombre», deben formularse los interrogantes esenciales con «absoluta lealtad, objetividad y sentido de responsabilidad moral» (RH §15).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Ladaria sitúa el discernimiento en la predicación: el sacerdote distingue lo compatible con el Evangelio de lo que le es contrario (documento de la CTI *Theology Today*), y su juicio es siempre para la salvación. Melina desarrolla el discernimiento con rigor: la *discretio* medieval y las reglas ignacianas, Casiano y el camino a la perfección, Tomás y la prudencia; Ignacio precisa que no se aplica a elecciones ya hechas ni a prohibiciones claras. El discernimiento está ligado al cuerpo propio, al del otro y al Cuerpo eucarístico; la verificación es obediencia a las circunstancias objetivas y prueba de vida (Giussani). Un discernimiento sin coordenadas fijas lleva al naufragio. La conciencia cristiana empieza por la fe, y el papa está al servicio de la conciencia y es garante de la tradición.
+
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, EPL) presenta el discernimiento como parte de la verdad práctica. El discernimiento se ordena a la verdad del bien y se realiza en la acción.
+
 ## Distinciones importantes
 
 - Discernimiento moral (bien/mal) vs. discernimiento espiritual (origen de mociones)
@@ -69,3 +77,5 @@ Se relaciona con [[discernimiento_de_espíritus]], [[dirección_espiritual]], [[
 
 - CEC §1788; §2839; §2847-2848
 - TPCr, Tercera Parte, Libro II, Cap. IV
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

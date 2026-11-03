@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-10-28
+timestamp: 2026-11-02
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-10-28
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -371,22 +371,6 @@ habían llegado a creer tenía un solo corazón» (Hch 4,32; 02, 265).
 Cristo», recuerda Madre Teresa, y ese criterio es lo que da a cada gesto una música
 distinta (03, 141-155).
 
-## Distinciones importantes
-
-- **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
-- **Eucaristía como sacramento vs. como sacrificio**
-- **Presencia real vs. simbólica**: contra las herejías que niegan la presencia sustancial
-- **Comunión sacramental vs. comunión espiritual**
-
-## Relaciones doctrinales
-
-- Es el fin y centro de todos los [[sacramentos]]
-- Alimento de la [[gracia_santificante]] y de la [[caridad]]
-- Unión transformante con Cristo
-- Sacrificio propiciatorio por vivos y difuntos
-- Prenda de la gloria escatológica
-
-
 ### Según León XIV (UFGF)
 
 La Carta Apostólica *Una fidelidad que genera futuro* (2025) presenta la Eucaristía como centro y raíz de toda la vida del presbítero. El sacerdote celebra el sacrificio de Cristo, «se nutre del misterio que celebra en la santa liturgia» y está llamado a «desaparecer para que permanezca Cristo» (UFGF §25). La Eucaristía es el lugar eminente donde el sacerdote renueva su «sí» al Señor, como Pedro en el lago de Galilea (UFGF §7). El documento concluye con una afirmación cumbre: «El sacerdocio es el amor del corazón de Jesús. Un amor tan fuerte que disipa las nubes de la rutina, el desánimo y la soledad, un amor total que se nos da en plenitud en la Eucaristía. Amor eucarístico, amor sacerdotal» (UFGF §29) [UFGF, 22.12.2025].
@@ -493,6 +477,38 @@ Su eficacia se expresa con una analogía vital: «perecen en tu alma los microbi
 
 Todo converge en la persona de Cristo vivo: «La persona de Jesucristo no es un borroso cuadro histórico, sino que también hoy y siempre Él es tu Redentor que irradia energías, que ama tu alma y la conforta» [PyH, cap. 6]. Se relaciona así con la [[comunión_frecuente]], la [[presencia_real]], el [[sacramento_de_la_reconciliación]] y el [[estado_de_gracia]].
 
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+El *Libro Cuarto* —«Del Santísimo Sacramento. Exhortación devota a la sagrada comunión»— es el único de la obra con un tema único. Su tono, como señala el estudio preliminar de Baldomero Jiménez Duque, es el de una ternura poco frecuente en los espirituales del final de la Edad Media, más atentos a la reverencia debida a la presencia real; y su límite, el mismo que el introductor señala: apenas desarrolla el aspecto sacrificial, porque trata el misterio «en cuanto sacramento de la comunión».
+
+Los efectos de la comunión se enumeran en IV, 4 con precisión escolástica: es «la salud del alma y del cuerpo, medicina de toda enfermedad espiritual, con la cual se curan mis vicios, refrenándose mis pasiones, las tentaciones se vencen o disminuyen, dase mayor gracia, la virtud comenzada crece, confírmase la fe, esfuérzase la esperanza y se enciende y dilata la caridad». El capítulo describe también el cambio observable: «los que antes de la comunión estaban inquietos y sin devoción, después, recreados con este manjar y bebida celestial, se hallan muy mejorados», y su finalidad pedagógica: que el hombre conozca «cuánta flaqueza tiene de sí mismo, y cuán grande bondad y gracia alcanza de tu clemencia» (IV, 4).
+
+La frecuencia se defiende con el argumento de la medicina: el alma «tan presto se entibia y desmaya» y «si no lo socorre la medicina celestial, al punto va de mal en peor» (IV, 3, con Gén 8,21); de ahí la sentencia que resume su utilidad: «la santa comunión retrae de lo malo y conforta en lo bueno» (IV, 3). El libro corona la obra con la imagen de las dos mesas: el alma necesita «mantenimiento y luz», y por eso Dios le dio «tu sagrado cuerpo para alimento» y «tu divina palabra, para que sirviese de luz a mis pasos» (Sal 118,105): «Estas se pueden llamar dos mesas colocadas a uno y otro lado en el tesoro de la santa Iglesia. Una es la mesa del sagrado altar... Otra es la de la Ley divina» (IV, 11).
+
+### Según *Priests—What Lies Ahead?* (PWL)
+
+El prólogo de Müller parte de Jn 6:51 —«el pan que yo daré es mi carne para la vida del mundo»— para mostrar la fecundidad del sacerdocio: de generación en generación los sacerdotes transmiten esa vida abundante. Pell afirma que todo sacerdote se define por la capacidad de celebrar los sacramentos, sobre todo la Eucaristía; cita a san Juan Vianney —«el sacerdocio es el amor del corazón de Jesús»— y a san Juan Crisóstomo: al celebrar, el sacerdote es transportado al cielo y hace descender el Espíritu Santo. La Eucaristía no es solo una celebración comunitaria centrada en el sacerdote: la Iglesia nace de Eucaristías orantes y devotas, y la mala liturgia destruye la vida católica. Melina la presenta como relación esponsal entre Cristo y la Iglesia y como expresión y realización de la unidad de los esposos y de la vida familiar. Chaput: la Eucaristía resume y ofrece todo —predicación, vida personal, comunidad—, y la cruz es su centro.
+
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. II, Introducción) presenta la Eucaristía como don original que nutre la esperanza en la desproporción entre la acción y su fin. La Eucaristía es el pan para el camino, que nutre continuamente la esperanza.
+
+## Distinciones importantes
+
+- **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
+- **Eucaristía como sacramento vs. como sacrificio**
+- **Presencia real vs. simbólica**: contra las herejías que niegan la presencia sustancial
+- **Comunión sacramental vs. comunión espiritual**
+
+## Relaciones doctrinales
+
+- Es el fin y centro de todos los [[sacramentos]]
+- Alimento de la [[gracia_santificante]] y de la [[caridad]]
+- Unión transformante con Cristo
+- Sacrificio propiciatorio por vivos y difuntos
+- Prenda de la gloria escatológica
+
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]
@@ -500,9 +516,6 @@ Todo converge en la persona de Cristo vivo: «La persona de Jesucristo no es un 
 - [[john_wissler_leading_with_charity]]
 - [[primeros_pasos_en_la_vida_espiritual]]
 - [[alexander_marriage_gospels]] — convergencia en la Eucaristía como sacrificio de la Nueva Alianza; aporta la tipología de las Bodas de Caná donde el agua convertida en vino anticipa la sangre y el agua del costado de Cristo
-
-## Analizado para
-
 - [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la Eucaristía como lugar privilegiado del encuentro con Cristo vivo (EA §35) y culminación de la jornada; la propuesta desarrolla la dimensión eucarística del envío (los compromisos ofrecidos en la Misa).
 - [[the_search_serie_análisis]] — convergencia: la Eucaristía como presencia real y tangible; tensión: no desarrolla la transubstanciación ni la dimensión sacrificial
 
@@ -549,3 +562,6 @@ Todo converge en la persona de Cristo vivo: «La persona de Jesucristo no es un 
 - AED, 31 (§59-65) — Tischrede 114: *La radice della compagnia* — la comunión diaria y la fisonomía de Cristo; adorar como posición de la Magdalena.
 - [EMA, caps. 1-17 — Eucaristía, misterio de amor, Mons. Tihamér Tóth]
 - [PyH, Cap. 6]
+- Tomás de Kempis, *La imitación de Cristo*, IV, 1-11 (ImC)
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

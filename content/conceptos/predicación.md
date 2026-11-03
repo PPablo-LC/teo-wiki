@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Predicación
 tags: ["pastoral", "eclesiología"]
 
-timestamp: 2026-05-25
+timestamp: 2026-11-02
 description: "Función de los ministros sagrados de anunciar la palabra de Dios al pueblo, mediante la cual el pueblo de Dios se congrega y recibe el Evangelio."
 ---
 # Predicación
 
 > Área: Pastoral / Eclesiología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -61,6 +61,10 @@ En cuanto a las mujeres (q.177 a.2), la gracia de la palabra pública en la Igle
 
 Juan Pablo II describe la **predicación** como tarea del sacerdote «hombre de la Palabra», que debe «conjugar la evangelización con la inteligencia de la fe» [DyM, IX]. La predicación está centrada en el [[mysterium_fidei]]: el misterio de Cristo muerto y resucitado. El Papa testimonia que, desde el comienzo de su ministerio, buscó integrar teología y cultura para predicar de modo comprensible al hombre contemporáneo [DyM, IX].
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Ladaria presenta la predicación como ministerio de luz: el sacerdote siembra la Palabra como semilla y alimenta a su pueblo en la mesa de la Palabra y de la Eucaristía. La predicación tiene un elemento de juicio y discernimiento —el gran tema cristiano de la conversión— y no debe confundirse con la blandura: lo que el hombre más desea es lo que Jesús da. Cita 2 Tim 4:2 —predicar a tiempo y a destiempo— y reclama *parrhesia* frente al relativismo. Pell denuncia la mala liturgia y la predicación descuidada como destructoras de la fe. Chaput es especialmente concreto: preparar las homilías con comentarios y homilías de los Padres, preparar la homilía dominical con antelación, dedicar dos horas diarias a estudio, oración y lectura; los fieles saben quién prepara y quién no; un pecado común de los sacerdotes es no tomar en serio la predicación; hay que predicar lo que la Iglesia y Jesús han dicho, no opiniones propias, y predicar el Evangelio «sin glosa», como san Francisco.
+
 ## Distinciones importantes
 
 - **Predicación ordinaria**: homilía dominical y festiva
@@ -78,3 +82,4 @@ Se relaciona con el [[ministerio_de_la_palabra]], la [[homilía]], la [[cateques
 ## Referencias
 
 - [CIC cc. 762-772]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Discipulado
 tags: ["eclesiología", "moral"]
 
-timestamp: 2026-06-03
+timestamp: 2026-11-01
 description: "El discipulado es la condición del cristiano que sigue a Cristo como su Maestro y Señor, asumiendo su doctrina, imitando su vida y participando de su misión."
 ---
 # Discipulado
 
 > Área: Eclesiología / Moral
-> Última actualización: 2026-06-03
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -52,6 +52,14 @@ En clave juvenil: los adolescentes «buscan una experiencia de amistad con Jesú
 - **Seguir es un acto de libertad.** «Seguire è un atto di libertà» (03, 63-71): la [[sequela_christi|sequela]] no es un programa moral previo sino respuesta a la mirada de Cristo, que cambia al hombre «come la crescita di un fiore» (02, 167).
 - **La señal del discípulo.** La amistad con Cristo se reconoce en la caridad fraterna: «Da questo tutti sapranno che siete miei discepoli, se avrete amore gli uni per gli altri» (Gv 13,35; 04, 57-59).
 
+### Según La imitación de Cristo (ImC)
+
+**I,1 — El discípulo se define por la imitación:** Kempis comienza el tratado aplicando a la vida del discípulo la palabra del Señor: ««Quien me sigue no anda en tinieblas» (Jn 8,12)». De ella deduce que «nos amonesta que imitemos su vida y costumbres, si queremos verdaderamente ser alumbrados y libres de toda la ceguedad del corazón» (I,1 [1]). El discipulado no se acredita por la escucha del Evangelio, sino por la configuración de la vida con Cristo: «Mas acaece que muchos, aunque a menudo oigan el evangelio, gustan poco de él, porque no tienen el espíritu de Cristo» (I,1 [1]). La doctrina del Maestro exige, para ser saboreada, una vida conformada a Él.
+
+**III,56 — El discípulo es el que se niega y sigue:** La respuesta que el Maestro pide no es la aceptación de una enseñanza, sino la entrega de la propia voluntad: «Quiero que aprendas la perfecta renuncia de ti mismo en mi voluntad, sin réplica ni queja. Sígueme» (III,56 [1]). La condición del discípulo es, además, progresiva: «cuanto puedes salir de ti, tanto puedes pasarte a mí» (III,56 [1]), de modo que el seguimiento crece en la misma medida en que decrece el propio yo.
+
+**I,25 — La vergüenza del discípulo que no se conforma:** «¡Acuérdate de la profesión que tomaste, y propónte por modelo al Crucificado! Bien puedes avergonzarte mirando la vida de Jesús, porque aún no te has esforzado en conformarte más con Él, aunque ha muchos años que estás en el camino de Dios» (I,25 [6]). El texto mide el discipulado por la conformidad con el Crucificado, y no por la antigüedad en el camino.
+
 ## Distinciones importantes
 
 - Todo cristiano es discípulo de Cristo, llamado a la perfección de la caridad.
@@ -71,3 +79,4 @@ Este concepto se vincula con [[vocación_cristiana]], [[imitación_de_cristo]], 
 - [CEC §144, §765, §1213, §2052-2053]
 - [TPCr, Primera Parte, Libro I, Cap. I-II]
 - [PS, Cap. 1, 9, 10]
+- ImC, *La imitación de Cristo*, libro I, caps. 1 y 25; libro III, cap. 56

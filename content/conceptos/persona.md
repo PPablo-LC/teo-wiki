@@ -6,11 +6,11 @@ tags:
   - antropología_cristiana
   - teología_fundamental
   - moral
-timestamp: 2026-10-10
+timestamp: 2026-11-02
 ---
 
 > Área: Conceptos / Antropología cristiana
-> Última actualización: 2026-10-10
+> Última actualización: 2026-11-02
 
 # Persona
 
@@ -66,6 +66,10 @@ Elementos centrales en REG:
 - **Persona y [[responsabilidad]]**: «Responsabilità vuol dire “risposta”»; sin una presencia a la que responder, la persona queda en la [[soledad]] y la [[tedio]] (12).
 - **Persona y [[vocación]]**: la respuesta personal al destino constituye la vocación; la persona no se disuelve en la compañía, sino que en ella se conoce y camina (7; 12).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. V) presenta la persona como sujeto de la acción y destinataria del bien. El bien de la persona y los bienes para la persona se distinguen. La persona se realiza en la acción orientada al bien.
+
 ## Distinciones importantes
 
 - **Persona vs. individuo**: el individuo se define por sí; la persona es
@@ -103,3 +107,4 @@ Elementos centrales en REG:
   (marco de la persona humana), [[persona_humana]].
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

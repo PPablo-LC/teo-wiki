@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Identidad"
 description: "Unidad estable de la persona: la identidad humana se recibe (creación), se crea en la relación con Dios y se decide en la libertad; su crisis moderna es la autoinvención."
 tags: [antropología_teológica, persona_humana, moral, pastoral]
-timestamp: 2026-09-19
+timestamp: 2026-11-03
 ---
 
 # Identidad
 
 > Área: Antropología teológica / Moral
-> Última actualización: 2026-09-19
+> Última actualización: 2026-11-03
 
 La **identidad** es la unidad estable de la persona: aquello por lo que el
 yo es uno y el mismo a través del tiempo y se reconoce como sí mismo. En la
@@ -37,6 +37,23 @@ libertad; su crisis moderna es la ideología de la autoinvención.
   dar raíces (recepción) y alas (vocación); el testimonio de los santos
   muestra identidades forjadas en la fidelidad, no en la improvisación.
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. V) presenta la identidad como vocación: la identidad personal se descubre en la vocación y en la relación con Cristo. La identidad no es auto-construida, sino recibida en la vocación.
+
+### Según *Living the Truth in Love* (LTL)
+
+[[bob_schuchts]] describe el paso de la identidad falsa —construida sobre la
+herida, el miedo y la **[[vergüenza]]**— a la identidad verdadera recibida en
+Cristo, con el ejemplo de Pedro (Jn 21). Rachel Lu distingue atracción,
+conducta e **[[identidad_sexual]]**, y muestra que la ecuación entre ellas es
+una construcción cultural reciente. [[deborah_savage]] añade, con Juan Pablo
+II, que la identidad incluye el cuerpo y que la experiencia vivida debe ser
+interpretada, no absolutizada. La conclusión del volumen es que ninguna
+inclinación agota a la persona: antes que «gay» o «heterosexual», el bautizado
+es hijo de Dios, y esa **[[identidad_cristiana]]** es la que permite habitar
+la propia historia sin negarla ni dejar que la defina.
+
 ## Distinciones importantes
 
 - **Identidad** (unidad personal estable) ≠ **roles** (funciones
@@ -61,3 +78,5 @@ libertad; su crisis moderna es la ideología de la autoinvención.
 - Gn 1,26-27; Jer 1,5; Gal 2,20; Sal 139
 - CEC §357, 1700-1715; LG 11 (identidad bautismal)
 - EAC-22 «Courage» (cultura de la autoinvención); DLV (Giussani, nacimiento del yo)
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).

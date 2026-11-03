@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Humildad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-10-18
+timestamp: "2026-11-01"
 description: "La humildad es la virtud fundamental que cohibe el apetito desordenado de excelencia; hacerse como niños ante la realidad y ante el Misterio según Giussani."
 ---
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-10-18
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -163,30 +163,6 @@ queráis, pero sería un lastre más pesado si no supierais hacer lo que saben h
 vuestros amigos más pequeños, o incluso vuestros hijos, es decir, reflexionar en
 silencio» (01, 103).
 
-## Distinciones importantes
-
-- **Humildad vs. magnanimidad**: no son opuestas sino complementarias; una inclina hacia abajo (conteniendo el apetito desordenado), la otra hacia arriba (empujando a empresas grandes por Dios)
-- **Humildad vs. pusilanimidad**: la pusilanimidad es un vicio por defecto; la humildad no niega los dones recibidos
-- **Humildad verdadera vs. falsa humildad (ironía)**: la falsa humildad niega cualidades que realmente se tienen; la verdadera humildad reconoce que todo bien viene de Dios
-
-## Relaciones doctrinales
-
-La humildad se opone directamente a la [[soberbia]], primer pecado capital. Es reforzada por el [[don_de_temor]]. Está íntimamente unida a la [[mansedumbre]]. La [[virgen_maría]] es el modelo perfecto de humildad. Es fundamento de la [[oración]] y de toda [[perfección_cristiana]].
-
-
-## Analizado para
-
-- [[adam_farber_fortitude_through_excellence_in_patience]]
-- [[adam_farber_justice]]
-- [[christian_bobak_men_of_integrity]]
-- [[closing_keynote_virtuous_leader]]
-- [[joe_mcinerny_humble_greatness]]
-- [[john_wissler_virtuous_leadership]]
-- [[kathy_washeck_docility]]
-- [[kevin_mulaney_prudence_decisions]]
-- [[sean_glass_call_to_fortitude]]
-- [[tim_barry_the_strength_of_meekness]]
-
 ### Según León XIV (L_XIV-ClerRom)
 
 León XIV une la humildad a la gratitud como virtudes esenciales del sacerdote. Exhorta a la «humildad: la actitud de querer reconocer que no soy yo, es el Señor quien me ha dado la vida, es el Señor quien nos acompaña y nos lleva en sus brazos, incluso en esos momentos en los que soy más débil». La humildad es presentada como antídoto contra la autorreferencialidad y el clericalismo, y como fundamento para una vida de oración auténtica: «con esta actitud de amor, de servicio, de humildad, de escucha, podemos descubrir verdaderamente qué podemos hacer para responder a esta comunidad a la que estamos llamados a servir» [L_XIV-ClerRom, 19.02.2026].
@@ -240,6 +216,38 @@ En el episodio sobre san José de Cupertino, la humildad aparece como fruto del 
 - **Estructura explicativa del «divino proyecto».** El episodio invita a reconocer las propias dificultades, humillaciones y tropiezos como *dones* con que Dios refina al santo: sus defectos (temperamento iracundo, falta de formación) son materia prima de la gracia; 1 Cor 1,26-29 («Dios ha escogido lo necio, lo débil, lo despreciado») y el Magníficat («levantó a los humildes») como claves. Humildad no es eliminar la debilidad, sino dejar que Dios trabaje con ella.
 - **Humildad como ligereza («levity»).** No tomarse en serio a uno mismo es «el modo en que volamos a Dios» (Chesterton): la humildad franciscana es alegre, no afligida, y su forma es la [[minoridad_franciscana]]; se expresa también en soportar el ridículo sin rencor (ver [[necedad_evangelica]]).
 
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+La humildad es, para el Kempis, la verdad sobre uno mismo antes que una virtud entre otras: «El verdadero conocimiento y desprecio de sí mismo es altísima y doctísima lección. Gran sabiduría y perfección es sentir siempre bien y grandes cosas de otros, y tenerse y reputarse en nada» (I, 2). Su medida práctica es la paz: «Continua paz tiene el humilde; mas en el corazón del soberbio hay emulación y saña frecuente» (I, 7); y su regla negativa, no anteponerse a nadie: «No te daña si te pusieres debajo de todos; mas es muy dañoso si te antepones siquiera a uno solo» (I, 7).
+
+El *Libro Segundo* describe los bienes que Dios concede al humilde con una enumeración que resume toda la doctrina: «Dios defiende y libra al humilde; al humilde ama y consuela; al hombre humilde se inclina; al humilde concede gracia abundante, y después de su abatimiento lo levanta a gran honra; al humilde descubre sus secretos... El humilde, recibida la afrenta, está en paz; porque está en Dios y no en el mundo», con la consecuencia: «No pienses haber aprovechado algo, si no te estimas por el ínfimo de todos» (II, 2). El *Libro Tercero* le da su fundamento teologal —«Hablaré a mi Señor, siendo yo polvo y ceniza» (Gén 18,27)— y su paradoja más fina: «yo me perdí amándome desordenadamente; pero buscándote a ti sólo, y amándote puramente, me hallé a mí y a ti; y por el amor conocí más profundamente mi nada» (III, 8).
+
+La humildad se defiende además con el argumento de la gratuidad y del juicio: «¿De dónde, pues, me puedo gloriar o por qué deseo ser estimado? ¿Por ventura de la nada? Pero esto es vanísimo. Verdaderamente, la vanagloria es una mala pestilencia y grandísima vanidad, porque nos aparta de la verdadera gloria y nos despoja de la gracia celestial» (III, 40). Y su forma evangélica definitiva es la infancia: «Si no hiciereis y os volviereis como niños, no entraréis en el reino de los cielos. Por eso, cualquiera que se humillare como niño, aquel será el mayor en el reino de los cielos» (III, 58, con Mt 18,3).
+
+## Distinciones importantes
+
+- **Humildad vs. magnanimidad**: no son opuestas sino complementarias; una inclina hacia abajo (conteniendo el apetito desordenado), la otra hacia arriba (empujando a empresas grandes por Dios)
+- **Humildad vs. pusilanimidad**: la pusilanimidad es un vicio por defecto; la humildad no niega los dones recibidos
+- **Humildad verdadera vs. falsa humildad (ironía)**: la falsa humildad niega cualidades que realmente se tienen; la verdadera humildad reconoce que todo bien viene de Dios
+
+## Relaciones doctrinales
+
+La humildad se opone directamente a la [[soberbia]], primer pecado capital. Es reforzada por el [[don_de_temor]]. Está íntimamente unida a la [[mansedumbre]]. La [[virgen_maría]] es el modelo perfecto de humildad. Es fundamento de la [[oración]] y de toda [[perfección_cristiana]].
+
+
+## Analizado para
+
+- [[adam_farber_fortitude_through_excellence_in_patience]]
+- [[adam_farber_justice]]
+- [[christian_bobak_men_of_integrity]]
+- [[closing_keynote_virtuous_leader]]
+- [[joe_mcinerny_humble_greatness]]
+- [[john_wissler_virtuous_leadership]]
+- [[kathy_washeck_docility]]
+- [[kevin_mulaney_prudence_decisions]]
+- [[sean_glass_call_to_fortitude]]
+- [[tim_barry_the_strength_of_meekness]]
+
 ## Ver también
 [[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]], [[humor]], [[san_felipe_neri]], [[g_k_chesterton]]
 
@@ -258,3 +266,4 @@ En el episodio sobre san José de Cupertino, la humildad aparece como fruto del 
 - [SFrAs, CFr. 25 — Humildad de Cristo en la Eucaristía]
 - [EAC-20, 23_soul.md (Gadberry), 11_minds.md (Scully)]
 - [SJC, podcast «San José de Cupertino», Augustine Institute, 2026]
+- Tomás de Kempis, *La imitación de Cristo*, I, 2, 7; II, 2; III, 8, 40, 58 (ImC)

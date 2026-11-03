@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Voluntad de Dios
 tags: ["dogmática", "moral", "ascética"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-01
 description: "La voluntad de Dios es el designio eterno y sapientísimo por el cual Dios quiere y ordena todas las cosas para su gloria y la salvación de los hombres."
 ---
 # Voluntad de Dios
 
 > Área: Dogmática / Moral / Ascética
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -97,6 +97,18 @@ convertirse en el espacio cotidiano. Cada uno de nuestros gestos, cada una de nu
 acciones, cada uno de nuestros comportamientos es una cárcel o un sepulcro, si no
 tiene este espacio, si no es relación con lo infinito» (02, 201).
 
+### Según La imitación de Cristo (ImC)
+
+**III,15 — La fórmula de la petición:** «Hijo, en cualquier cosa que quisieres, di así: Señor, si te agradare, hágase esto así. Señor, si es honra tuya, hágase esto en tu nombre. Señor, si vieres que me conviene y hallares serme provechoso, concédemelo para que use de ello a honra tuya. Mas si conocieres que me sería dañoso y nada provechoso a la salvación de mi alma, aparta de mí tal deseo» (III,15 [1]). El criterio no es la intensidad del deseo, sino su conformidad con la voluntad divina, porque «no todo deseo procede del Espíritu Santo, aunque parezca justo y bueno al hombre» y «muchos se hallan engañados al fin que al principio parecían movidos por buen espíritu» (III,15 [1]). De ahí la resignación explícita: «Señor, tú sabes lo que es mejor: haz esto o aquello, según te agradare. [...] Ponme donde quieras y dispón de mí libremente en todo» (III,15 [2]).
+
+**III,15 — La oración «para cumplir la voluntad de Dios»:** La plegaria que cierra el capítulo formula la identificación de las dos voluntades: «Tu voluntad sea la mía y mi voluntad siga siempre la tuya, y se conforme perfectamente con ella. Tenga yo un querer y no querer contigo, y no pueda querer ni no querer sino lo que tú quieres y no quieres» (III,15 [3]). La conformidad no se limita a la aceptación exterior: alcanza al querer mismo.
+
+**III,17 — La indiferencia ante lo que Dios disponga:** «Señor, esté mi voluntad firme y recta contigo y haz de mí lo que te agradare. Que no puede ser sino bueno todo lo que tú hicieres de mí» (III,17 [1]). El alma acepta de antemano tanto la prueba como el consuelo, y Kempis lo presenta como la condición de caminar con Dios: «Hijo, así debes estar si deseas andar conmigo. Tan pronto debes estar para padecer como para gozar» (III,17 [2]).
+
+**III,56 — La renuncia en la voluntad divina:** «Quiero que aprendas la perfecta renuncia de ti mismo en mi voluntad, sin réplica ni queja» (III,56 [1]). La renuncia a la propia voluntad es el contenido concreto del seguimiento, no un ejercicio previo a él.
+
+**I,25 — Buscar lo que Dios quiere, no lo que ha de suceder:** A la congoja por el futuro responde el texto con un criterio práctico: el hombre «no quiso escudriñar curiosamente para saber lo que le había de suceder, sino que anduvo con mucho cuidado de saber «lo que fuese la voluntad de Dios» y a sus divinos ojos «más agradable y perfecto» (Rom 12,2) para comenzar y perfeccionar toda buena obra» (I,25 [2]).
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[providencia]], la [[ley_divina]], la [[libertad_humana]], la [[oración]], la [[perfección_cristiana]], la [[conformidad_con_la_voluntad_de_dios]] y la [[indiferencia_ignaciana]].
@@ -110,4 +122,5 @@ Se relaciona con la [[providencia]], la [[ley_divina]], la [[libertad_humana]], 
 - CEC §2822-2827, 303-314, 1730-1737
 - TPCr, Parte II, Libro I (conformidad con la voluntad de Dios)
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. III, §4
+- ImC, *La imitación de Cristo*, libro I, cap. 25; libro III, caps. 15, 17 y 56
 - San Cipriano, citado en Ele_Xto_Stos, Cap. III, §4

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Seguimiento de Cristo
 tags: ["espiritualidad", "moral"]
 
-timestamp: 2026-06-22
+timestamp: 2026-11-01
 description: "El seguimiento de Cristo es la respuesta del discípulo a la llamada de Jesús a entrar en el Reino de Dios mediante la conversión, la fe y la disposición a la renuncia."
 ---
 # Seguimiento de Cristo
 
 > Área: Espiritualidad / Moral
-> Última actualización: 2026-09-15
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -71,6 +71,14 @@ En *La vocación explicada*, el seguimiento de Cristo se presenta como respuesta
 
 ODPC reconstruye las líneas del seguimiento como pedagogía revelativa de Jesús: primero el Maestro que se hace seguir («Venite con me»): una palabra comprensible con una implicación mucho mayor, cuyo sentido total aparece solo a distancia de años; después la renuncia (Mt 10,39): desprenderse de lo propio, hasta la renuncia a «sí mismo» como criterio; después el estar «de frente a todos» (Mt 10,32-33): ningún vínculo es verdadero si no logra producirse socialmente — el testimonio no es opcional; finalmente «a causa mía»: la persona de Cristo al centro de la afectividad y de la libertad, donde la indiferencia ya no es posible y nace el amor o la hostilidad ([[centro_de_la_libertad]]). El seguimiento es así el espacio donde se verifica la [[pretesa_cristiana]]: no una ideología que seguir, sino Alguien.
 
+### Según La imitación de Cristo (ImC)
+
+**I,1 — Seguir es imitar su vida:** El libro se abre con la sentencia que funda todo el tratado: ««Quien me sigue no anda en tinieblas» (Jn 8,12), dice el Señor. Estas palabras son de Cristo, con las cuales nos amonesta que imitemos su vida y costumbres, si queremos verdaderamente ser alumbrados y libres de toda la ceguedad del corazón» (I,1 [1]). El seguimiento no consiste en la admiración de su doctrina ni en la disputa de las cosas altas, sino en la conformidad de la vida: «El que quiera entender plenamente y saborear las palabras de Cristo, conviene que procure conformar con Él toda su vida» (I,1 [1]). De ahí la advertencia contra el saber que no se traduce en vida: «¿Qué te aprovecha disputar altas cosas de la Trinidad, si careces de humildad, por donde desagradas a la Trinidad? Por cierto, las palabras subidas no hacen santo ni justo; mas la virtuosa vida hace al hombre amable a Dios» (I,1 [2]).
+
+**III,56 — La medida del seguimiento:** «Hijo, cuanto puedes salir de ti, tanto puedes pasarte a mí. Así como no desear nada exteriormente produce la paz interior, así el negarse interiormente causa la unión con Dios» (III,56 [1]). El seguimiento tiene, por tanto, una medida precisa —la salida de sí— y un contenido que no se deja negociar: «Quiero que aprendas la perfecta renuncia de ti mismo en mi voluntad, sin réplica ni queja. Sígueme: «Yo soy camino, verdad y vida» (Jn 14,6)» (III,56 [1]). No se sigue a un programa, sino a una Persona que se identifica con el camino.
+
+**I,25 — Seguir es caminar tras el Crucificado:** «¡Acuérdate de la profesión que tomaste, y propónte por modelo al Crucificado! Bien puedes avergonzarte mirando la vida de Jesús, porque aún no te has esforzado en conformarte más con Él, aunque ha muchos años que estás en el camino de Dios» (I,25 [6]). El seguimiento se mide así por la conformidad efectiva con la vida y pasión del Señor, no por el tiempo transcurrido en el camino.
+
 ## Distinciones importantes
 
 - **Seguimiento vs. admiración**: seguir a Cristo implica acción y transformación real de la existencia, no una contemplación distante.
@@ -91,3 +99,4 @@ El seguimiento de Cristo se relaciona con [[vocación_cristiana]] (la llamada un
 - [CrSJP, catequesis del 18 de marzo de 1987]
 - [CrSJP, catequesis sobre las condiciones del discipulado]
 - [AQJS, Cap. I, §§4-5]
+- ImC, *La imitación de Cristo*, libro I, caps. 1 y 25; libro III, cap. 56

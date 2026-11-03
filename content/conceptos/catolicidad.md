@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Catolicidad
 tags: ["eclesiología"]
 
-timestamp: 2026-05-26
+timestamp: 2026-11-02
 description: "La catolicidad es la nota de la Iglesia por la cual ella posee la plenitud de los medios de salvación y está destinada a todos los hombres, a todos los pueblos y a todas las épocas."
 ---
 # Catolicidad
 
 > Área: Eclesiología
-> Última actualización: 2026-09-15
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -37,6 +37,10 @@ ODPC ofrece la fuente etimológica de la catolicidad en clave apologética: si e
 
 PLDC sitúa la catolicidad entre los frutos verificables de la presencia del divino en la Iglesia (Parte IV, §3). Con Newman recuerda que «cattolica» es el título con que la Iglesia está designada en el Credo, reconocido por todos ya desde el s. II, que las sectas no podían pretender. Con de Lubac fija el corazón de la nota: «Katholicós» en griego clásico indicaba la proposición universal — y «l'universale è un singolare», no una suma: «La Chiesa... era già cattolica il mattino della Pentecoste, quando tutti i suoi membri erano contenuti in una piccola sala»; esencialmente la catolicidad «non è questione di geografia o di cifre... di natura materiale, ma spirituale»: en cada hombre la Iglesia se dirige a todo el hombre. La catolicidad es la «pertinenza all'umano in tutte le variabili delle sue espressioni»: la verdad y la experiencia que la Iglesia comunica pueden ser vehiculados y asimilados por cualquier cultura y mentalidad genuinamente humana — como documentan los apologistas del s. II con el helenismo, el monacato, Matteo Ricci y Roberto de Nobili, y las instrucciones de Propaganda Fide (1622): los misioneros van a proponer la fe, no a imponer una cultura. Con Daniélou: la unidad verdadera es la que, dentro de la unidad de la fe y del dogma, «si esprime attraverso il differenziarsi delle mentalità, delle culture, delle civiltà».
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Pell explica que «católico» significa «según el todo»: ver el todo en el fragmento, como Blake veía un mundo en un grano de arena. Dios no se identifica con el todo porque es trascendente; Anthony Flew pasó del ateísmo a la creencia en una Inteligencia suprema, y la tarea del sacerdote es ayudar a dar ese paso. La catolicidad no es disolución en la cultura, sino capacidad de abrazar la verdad entera y de servir al bien común de todos. El sacerdote es, según Tomás, el hombre del bien común de la Iglesia.
+
 ## Distinciones importantes
 
 - **Catolicidad de plenitud vs. catolicidad de extensión**: la primera es la posesión de la totalidad de la verdad revelada y los medios de salvación; la segunda es la difusión geográfica y cultural.
@@ -56,3 +60,4 @@ La catolicidad es inseparable de las otras [[notas_de_la_iglesia]]: la [[unidad]
 - [CEC §§830-856]
 - [TPCr, Parte I, Libro I, cap. 1 (misión universal)]
 - [Concilio Vaticano II, Lumen Gentium 13; Ad Gentes 1]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Pelagianismo
 tags: ["dogmática_(gracia)", "herejías"]
-timestamp: 2026-06-30
+timestamp: 2026-11-02
 description: "Herejía del siglo V que niega la necesidad de la gracia divina para la salvación, afirmando que el hombre puede, por las solas fuerzas de su naturaleza y libre albedrío, cumplir la ley de Dios y alcanzar la vida eterna."
 ---
 
 # Pelagianismo
 
 > Área: Dogmática — Gracia, Herejías
-> Última actualización: 2026-06-30
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -65,6 +65,10 @@ D-1095–1096 (Inocencio X, 1653): Condena de Jansenio, que acusaba de semipelag
 
 *Cruzando el umbral de la esperanza*, cap. XXIX: Juan Pablo II advierte contra el riesgo de interpretación pelagiana. «Pelagio sostenía que sin la gracia divina el hombre puede llevar una vida honesta y feliz; [...] la salvación no puede ser alcanzada sin el aporte de la gracia».
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Pell lo define como la confianza en las propias fuerzas en vez de en Dios, peligro real en una sociedad tecnológica: los cristianos no tenemos «derecho» al cielo; no somos quietistas porque Dios no tiene manos sino las nuestras; el *initium fidei* viene de Dios; somos salvados no por la ley, sino por la gracia, pero la gracia nos capacita para actuar (Agustín). Ladaria muestra que el ideal pelagiano es el que se cree alcanzable con las propias fuerzas, frente al ideal católico encarnado por la gracia. Melina señala que el pelagianismo reduce el cristianismo a un ideal inalcanzable y lleva al rigorismo o al permisivismo; la respuesta es la sinergia entre gracia y libertad y la teología moral como estudio de esa sinergia.
+
 ## Distinciones importantes
 
 - El **pelagianismo** niega la necesidad de la gracia; el **semipelagianismo** (siglo V, condenado en Orange II) admite la necesidad de la gracia pero afirma que el inicio de la fe puede venir del hombre; el **jansenismo** (siglo XVII) exagera la necesidad de la gracia al punto de negar la libertad humana y la voluntad salvífica universal.
@@ -86,3 +90,4 @@ Se opone a la [[gracia]], a la [[justificación]], al [[mérito]] y a la [[prede
 - Denzinger D-101–108, D-126, D-174–200, D-1012–1065, D-1516, D-1526, D-1095–1096
 - Nota doctrinal sobre emociones y fe, §20
 - Juan Pablo II, *Cruzando el umbral de la esperanza*, cap. XXIX
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

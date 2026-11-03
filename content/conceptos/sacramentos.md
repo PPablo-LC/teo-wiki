@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacramentos
 tags: ["sacramental"]
 
-timestamp: 2026-10-28
+timestamp: 2026-11-02
 description: "Los sacramentos son signos sensibles instituidos por Nuestro Señor Jesucristo para significar y producir la [[gracia_santificante]] en nuestras almas."
 ---
 # Sacramentos
 
 > Área: Sacramental
-> Última actualización: 2026-10-28
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -211,6 +211,14 @@ En el elemento quinto de la catedral, la pila bautismal y el confesionario, Leó
 
 Los sacramentos son «signos de un tipo especial: que santifican» — no solo significan sino que **causan** la gracia que significan. La palabra significa más que el símbolo (el símbolo toma el sentido de la palabra); su estructura palabra+símbolo es como Cristo, el Verbo unido a la carne sensible: «extensión de la Encarnación». Causan instrumentalmente, no como segunda causa de la gracia: como la humanidad de Cristo fue instrumental en las curaciones (poder divino por el contacto humano), así el sacramento es «herramienta de Dios» que obra por el poder de su autor; el Espíritu es la causa principal. Los sacramentos del AT significaban pero no causaban gracia: prefiguraban la pasión (el cordero pascual); los justos del AT fueron justificados por la fe en la pasión futura — «si hubiera habido sacramentos que dieran gracia antes de Cristo, no habría sido necesaria su muerte». Un criterio tomista central: el sacramento aplica a cada uno la pasión de Cristo.
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Pell: los sacramentos no son solo dones individuales; crean relaciones y generan comunión. El bautismo incorpora a la Iglesia; la confesión reconcilia con Cristo y con su Cuerpo; la Eucaristía genera un pueblo nuevo en la caridad. La preparación es importante, pero el sacramento no es solo término, sino comienzo: el don debe cuidarse y dar fruto. Melina: «Cristo salva la carne a través de la carne»; el sacramento no es la satisfacción de una necesidad interior de espiritualidad ni una religiosidad vaga e intimista, y no basta repetir el *ex opere operato* de Trento: la gracia sacramental regenera dimensiones concretas del plan original. El proceso de conversión prepara y despeja el camino, pero no regenera; el bautismo es el sacramento de la conversión y la reconciliación una forma de nuevo bautismo. Chaput: para el sacerdote los sacramentos son todo; si no quiere celebrarlos, no debe ser sacerdote.
+
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción) presenta los sacramentos como conductos de la gracia que transforman la acción. La Eucaristía es el pan para el camino. Los sacramentos introducen en el dinamismo de la acción la primacía del don.
+
 ## Distinciones importantes
 
 - **Sacramentos de muertos vs. de vivos**: según confieran la primera infusión de la gracia o un aumento de la anterior
@@ -248,3 +256,5 @@ Todos los sacramentos están ordenados a la [[eucaristía]] como a su fin y plen
 - SmTh IIIª q.64 a.1-10 (causas); q.65 a.1-4 (número y orden). q.60–63 se desglosan en [[sacramento]], [[gracia_sacramental]] y [[carácter_sacramental]]
 - Ele_Xto_Stos, Cap. III, §4b
 - [CIS, «La catedral interior del sacerdote», 2026]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

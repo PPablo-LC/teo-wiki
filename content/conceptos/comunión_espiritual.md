@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Comunión espiritual
 tags: ["ascética"]
 
-timestamp: 2026-05-26
+timestamp: "2026-11-01"
 description: "La comunión espiritual es el acto por el cual un fiel, no pudiendo recibir sacramentalmente la Eucaristía, desea ardientemente unirse a Cristo presente en el Santísimo Sacramento."
 ---
 # Comunión espiritual
 
 > Área: Ascética
-> Última actualización: 2026-05-26
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -28,6 +28,12 @@ El CEC §1374 enseña que «en el Santísimo Sacramento de la Eucaristía están
 ### Según Royo Marín (TPCr)
 
 TPCr, Tercera Parte, Libro II, Cap. I, Art. 5 trata de la comunión espiritual como medio de perfección. «Consiste la comunión espiritual en un ardiente deseo de recibir a Cristo Sacramentado, unido a un acto de fe en su presencia real y de amor a Él, pidiéndole que venga a nuestra alma y la llene de sus gracias». Royo Marín cita a Santo Tomás (STh III, q. 80, a. 1 ad 3) para quien los efectos de la comunión espiritual son los mismos que los de la sacramental, aunque en grado proporcional al fervor. «Hace de ella un medio eficacísimo de santificación, especialmente cuando no es posible recibir la comunión sacramental». Se puede hacer muchas veces al día y es particularmente recomendable durante la Santa Misa cuando no se comulga sacramentalmente.
+
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+El Kempis formula la doctrina de la comunión espiritual con una precisión que la tradición posterior ha repetido. En el capítulo «Que no se debe dejar fácilmente la sagrada comunión» (IV, 10) distingue dos modos de comulgar: el sacramental y el espiritual, y afirma el valor real del segundo: «cualquier devoto puede cada día y cada hora comulgar espiritualmente con fruto». La razón es cristológica: «tantas veces místicamente comulga y se alimenta invisiblemente cuantas se acuerda con devoción del misterio de la encarnación y pasión de Cristo, y se enciende en su amor» (IV, 10).
+
+De ahí la regla para quien está legítimamente impedido: «tenga siempre buena voluntad y devota intención de comulgar, y así no carecer del fruto del sacramento» (IV, 10). El Kempis subraya, sin embargo, que la comunión espiritual no sustituye a la sacramental cuando esta es posible: «Mas en ciertos días y en el tiempo mandado debe recibir sacramentalmente el cuerpo de su Redentor con afectuosa reverencia» (IV, 10), y advierte que «el que no se prepara sino al acercarse la fiesta, o cuando le fuerza la costumbre, muchas veces se hallará mal preparado». La misma lógica del deseo sostiene su defensa de la comunión frecuente (IV, 3): el alma que «tan presto se entibia y desmaya» necesita la medicina celestial; y el obstáculo mayor no es la indignidad sentida —que se remedia con la contrición (IV, 7)— sino la tibieza que difiere la comunión «por no verse obligado a guardar su alma con mayor cuidado» (IV, 10).
 
 ## Distinciones importantes
 
@@ -48,3 +54,4 @@ La comunión espiritual presupone la [[presencia_real]] de Cristo en la [[eucari
 - CEC §1374
 - TPCr, Tercera Parte, Libro II, Cap. I, Art. 5
 - Santo Tomás de Aquino, *Summa Theologiae* III, q. 80, a. 1 ad 3
+- Tomás de Kempis, *La imitación de Cristo*, IV, 3, 7, 10 (ImC)

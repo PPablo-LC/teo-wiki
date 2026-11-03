@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vergüenza
 tags: ["moral"]
 
-timestamp: 2026-10-14
+timestamp: 2026-11-03
 description: "La vergüenza en la Biblia tiene un sentido ambivalente: puede ser la confusión del pecador ante Dios (vergüenza santa que lleva al arrepentimiento) o la desvergüenza del que persiste en el mal."
 ---
 # Vergüenza
 
 > Área: Moral
-> Última actualización: 2026-10-14
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -64,6 +64,20 @@ sentido de la pertenencia a Dios: se trata aquí del pecado como rechazo del *lo
 como rechazo del mundo ordenado a un designio más grande. Esto se ha convertido en
 forma mental» (02, 117).
 
+### Según *Living the Truth in Love* (LTL)
+
+[[bob_schuchts]] dedica páginas decisivas a la vergüenza: es la primera
+consecuencia del pecado (Gn 3) y la raíz del ocultamiento en quien
+experimenta **[[atracción_por_el_mismo_sexo]]**. La vergüenza no es lo mismo
+que la culpa: la culpa dice «hice algo malo»; la vergüenza dice «soy malo».
+De ahí su poder destructivo y su relación con el orgullo: el orgullo es la
+defensa que la vergüenza construye para no ser vista. La salida no es la
+autoafirmación, sino el ser mirado y amado por Cristo, como Pedro después de
+la negación. Schuchts muestra que la **[[sanación_interior]]** pasa por
+nombrar la vergüenza, llevarla a la luz y recibir la identidad verdadera;
+[[paul_check]] añade que el acompañamiento debe crear el espacio seguro donde
+eso sea posible.
+
 ## Distinciones importantes
 
 - Vergüenza santa (del pecador arrepentido) vs. desvergüenza (del impenitente)
@@ -83,6 +97,7 @@ Se relaciona con [[pecado_original]], [[arrepentimiento]], [[confesión_de_fe]],
 [[pecado_original]], [[arrepentimiento]], [[confesión_de_fe]], [[juicio_final]], [[esperanza]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - VocTeoBib, artículo «Vergüenza», Xavier León-Dufour (ed.)
 - Gén 3,7-10; Mc 8,38; Rom 1,16; 2 Tim 1,8; Dan 12,2

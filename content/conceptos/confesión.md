@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Confesión"
 tags: ["sacramental", "penitencia"]
-timestamp: 2026-10-29
+timestamp: 2026-11-02
 description: "Acusación de los propios pecados al confesor como parte esencial del sacramento de la penitencia, por la que el fiel obtiene la absolución."
 ---
 # Confesión
 
 > Área: Sacramental / Penitencia
-> Última actualización: 2026-10-29
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -94,6 +94,10 @@ Esta lectura se ilumina con el lugar que el perdón ocupa en la moral: el «sì�
 - **Humor sacramental:** Elizabeth Scalia recoge anécdotas de ironía en el confesionario y el chiste clásico sobre oír las confesiones de monjas: «es como lapidación con palomitas». La cultura católica sabe reírse de sí misma precisamente porque confía en la misericordia del sacramento.
 - **Absolución instantánea (comedia):** *Everybody Loves Raymond* retrata con humor la dinámica familiar que pide perdón sin conversión — contraste involuntario con la verdadera contrición que exige el sacramento.
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Ladaria muestra el confesionario como lugar donde el sacerdote es pastor y guía de un alma concreta, sin separar doctrina y pastoral. Pell ve en la reconciliación la expresión eminente de la paternidad sacerdotal: el sacerdote perdona en nombre de Cristo y abre un camino de curación y esperanza. Melina dedica páginas decisivas al confesor: debe juzgar las disposiciones del penitente, pensar cuánta fe muestra quien se confiesa, admirarse ante la gracia y respetar la verdad de la conversión. La dificultad mayor no es pecar, sino justificar el pecado y llamar bien al mal; la *esklerocardia* ciega el corazón. No se exige certeza de no volver a pecar, sino sinceridad del propósito. El confesor debe confesarse a menudo. La absolución requiere la intención de no volver a pecar y, en el caso de los divorciados en nueva unión, la transformación de la relación según *Familiaris consortio* 84.
+
 ## Distinciones importantes
 
 - **Confesión de los pecados ≠ confesión de fe:** la primera acusa las propias faltas ante el sacerdote y pertenece a la virtud de la [[penitencia]]; la segunda profesa las verdades reveladas y pertenece a la [[fe]] (véase [[confesión_de_fe]]).
@@ -126,3 +130,4 @@ Se ordena al [[sacramento_de_la_reconciliación]] como su acto esencial y presup
 - SmTh Suppl. q.6-11
 - [TACDC, 02, 225; 03, 227, 315-319; 04, 53]
 - [EAC-8, Issue 8 «Humor», archivos 05, 16]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Casuística
 tags: ["moral", "historia_de_la_teología"]
-timestamp: 2026-06-29
+timestamp: 2026-11-02
 description: "Método de la teología moral que consiste en aplicar principios morales generales a casos particulares y dudosos, característico de la era de los manuales (siglos XVII-XX)."
 ---
 
 # Casuística
 
 > Área: Moral — Historia de la teología
-> Última actualización: 2026-06-29
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -31,6 +31,10 @@ Pinckaers señala que santo Tomás no trató prácticamente ningún caso de conc
 
 [FMC, caps. XI.3, XII.2]
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina constata un renacimiento de la casuística (Jonsen, Toulmin, Keenan) ligado a una visión nominalista y voluntarista de la ley. Frente a ella, la ley es sabiduría que ordena las realidades a su fin, no voluntad legislativa; no hay casuística de excepciones. Pascal y las *Provinciales* ironizaban: «*Ecce patres qui tollunt peccata mundi*». Hay dos modos de «quitar el pecado»: abolir la ley o cargarla sobre sí, como el Cordero. El sacerdote no debe administrar excepciones que vacíen la verdad del amor, sino iluminar la conciencia con la verdad que salva.
+
 ## Distinciones importantes
 
 - Casuística (estudio de casos singulares) vs. moral de las virtudes (visión de conjunto ordenada al fin último)
@@ -48,3 +52,4 @@ Se relaciona con [[nominalismo]], [[moral_de_los_manuales]], [[probabilismo]], [
 ## Referencias
 
 - FMC, caps. XI.3, XII.2
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

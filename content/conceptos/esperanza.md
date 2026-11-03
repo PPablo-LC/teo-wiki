@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Esperanza
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-15
+timestamp: 2026-11-03
 description: "La esperanza es la virtud teologal que espera de Dios la vida eterna; la vida como promesa que remite al Misterio según Giussani."
 ---
 # Esperanza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-15
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -250,6 +250,28 @@ Elementos centrales en REG:
 - La **tristeza buena** ante el límite, sin eliminar la posibilidad del dolor (Tischreden 200, 16).
 - La realidad «è in mano a un Altro»: la esperanza se funda en que no todo depende de nosotros (Tischreden 139, 09).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina cierra su entrevista con la esperanza del sacerdote: Cristo es siempre el mismo; la estructura fundamental del corazón humano es la misma; el sacerdocio es una idea del Corazón de Jesús, no una invención humana. Al joven le dice: mirar la esencia, comunicar a Cristo, arraigar el entusiasmo en la Iglesia y en los sacramentos; al maduro: cultivar la esperanza del sembrador. La crisis de vocaciones se responde orando al dueño de la mies (Lc 10:2): solo el Padre es fuente de la llamada, y la oración tiene lugar en la familia; la crisis vocacional es también crisis de familias y de magnanimidad de los padres. Müller, en el prólogo, presenta al sacerdote como «hombre del futuro» y como fuente de esperanza para los hombres. Chaput pide minorías creativas que vivan y transmitan la esperanza.
+
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. VII, Introducción) presenta la esperanza como respuesta a la desproporción entre la acción humana y su fin: incluso con la gracia, el cristiano solo puede vivir esta condición mediante la esperanza en el don, nutrida continuamente por la Eucaristía. La Iglesia es morada de la esperanza. La esperanza del Reino es el alma del dinamismo moral cristiano.
+
+### Según *Living the Truth in Love* (LTL)
+
+Eve Tushnet titula su testimonio «En este nuestro exilio»: la condición
+cristiana es un destierro habitado por la promesa del retorno, y esa promesa
+es la **[[esperanza]]**. Robert y Susan Cavera citan a Léon Bloy —la esperanza
+es la certeza del bien futuro— y a Mons. Charles Chaput para mostrar que la
+esperanza no es optimismo: no niega la herida, confía en la promesa. La obra
+entera se sostiene en esa convicción: si la
+**[[atracción_por_el_mismo_sexo]]** fuera el último dato sobre la persona, el
+acompañamiento sería gestión de un daño irreversible; porque hay
+**[[providencia]]** y **[[sufrimiento_redentor]]**, hay futuro. La esperanza
+cristiana no promete que la prueba desaparezca, sino que será atravesada con
+sentido.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]
@@ -267,6 +289,7 @@ El objeto de la esperanza es doble: el bien futuro deseado (la beatitud eterna) 
 [[virtud_de_la_esperanza]], [[virtudes_teologales]], [[virtudes_infusas]], [[amor_puro]], [[francisco_fenelón]], [[san_judas_tadeo]], [[spe_salvi]], [[benedicto_xvi]], [[iglesia_doméstica]], [[perdón]], [[imanentización_del_escatón]], [[charles_péguy]], [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - CEC §1817-1821
 - TPCr, Tercera Parte, Libro I, Cap. III
@@ -280,3 +303,5 @@ El objeto de la esperanza es doble: el bien futuro deseado (la beatitud eterna) 
 - Evangelization & Culture, Issue 6 — Hope (EcC6): §§01-17 (Worner, Becklo, Maher, Scalia, Petiprin, Morson, Havlicek, Zimmerer, Stewart, Seewald, Hooten Wilson, Garrett)
 - Evangelization & Culture 11 (Spring 2022): DeClue «Last Things First»; Millare «It's the End of the World as Ratzinger Knows It».
 - [EAC-20, 12_science.md (Gehrig/Lewis), 20_special_feature_piazza.md (Worner), 21_spotlight_masters.md]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

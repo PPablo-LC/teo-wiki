@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pastoral familiar
 tags: ["pastoral"]
 
-timestamp: 2026-06-20
+timestamp: 2026-11-02
 description: "Conjunto de acciones y estructuras de la Iglesia encaminadas a acompañar, sostener y promover a la familia cristiana en todas las etapas de su desarrollo."
 ---
 # Pastoral familiar
 
 > Área: Pastoral
-> Última actualización: 2026-06-20
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -35,6 +35,10 @@ La pastoral familiar es un sector verdaderamente prioritario, con la certeza de 
 
 **Situaciones difíciles:** Se atienden los matrimonios mixtos (FC §78), matrimonio a prueba (FC §80), uniones libres (FC §81), católicos unidos con mero matrimonio civil (FC §82), separados y divorciados no vueltos a casar (FC §83), divorciados vueltos a casar (FC §84) —reafirmando la no admisión a la Eucaristía— y los privados de familia (FC §85).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina pide superar la pastoral sectorial —por edades o problemas— y tratar la familia como recurso y no solo como objeto: la familia genera el «nosotros» y es «Iglesia en la carne». El sacerdote participa de la caridad pastoral de Cristo; la Eucaristía es relación esponsal entre Cristo y la Iglesia, y hay una circularidad entre la familia, Iglesia doméstica, y la vocación del sacerdote. Pell insiste en la mistagogía después de los sacramentos: catequesis que siga a la Primera Comunión para niños y familias; acompañamiento del matrimonio como punto de partida y no de llegada; la comunidad y los amigos sostienen mejor que el sacerdote. Chaput añade la necesidad de comunidades pequeñas que sostengan a las familias.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[familia]], [[matrimonio]], [[iglesia_doméstica]], [[preparación_al_matrimonio]], [[evangelización]], [[parroquia]]
@@ -46,3 +50,4 @@ Se relaciona con [[familia]], [[matrimonio]], [[iglesia_doméstica]], [[preparac
 ## Referencias
 
 - [FC §65–85]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

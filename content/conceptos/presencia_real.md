@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Presencia Real
 tags: ["eucaristía"]
 
-timestamp: 2026-10-28
+timestamp: "2026-11-01"
 description: "Presencia verdadera, real y substancial de Jesucristo —Dios y hombre verdadero— en el sacramento de la Eucaristía, bajo las especies del pan y del vino consagrados."
 ---
 # Presencia Real
 
 > Área: Eucaristía
-> Última actualización: 2026-10-28
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -132,6 +132,14 @@ Tóth funda la presencia real en la **interpretación literal de Jn 6**: Cristo 
 **El símil del espejo.** Como un espejo roto refleja la imagen entera en cada fragmento, así Cristo entero está en cada partícula de la Hostia; recoge el verso tomista: «uno o mil su cuerpo tomen, en todos y cada uno entero vive» [EMA, cap. 3]. Frente a los sentidos («nada veo»), apela a realidades invisibles pero verdaderas —la rotación de la Tierra, la presión atmosférica—. El **milagro de Bolsena** (1263), del que nació el Corpus Christi y la catedral de Orvieto, es la «piedra de toque de la fe»: donde la fe vacila, la señal la confirma.
 
 **El prodigio del amor divino.** La presencia real es abnegación de Cristo: «¿A quién quiso dejarnos? ¿Un recuerdo, una imagen? A nadie: a sí mismo» — permaneciendo oculto y vigilante en el Sagrario, intercediendo y expiando por el mundo [EMA, cap. 3].
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+El Kempis confiesa la presencia real con las fórmulas de la fe de la Iglesia y con el realismo de quien come: «Admirable cosa es, digno objeto de la fe, y superior al entendimiento humano, que tú, Señor Dios mío, verdadero Dios y Hombre, eres contenido entero debajo de las especies de pan y vino, y sin detrimento eres comido por el que te recibe» (IV, 2). La consecuencia práctica es el abandono de los sentidos como criterio: «Debes, pues, creer a Dios todopoderoso en este sublime sacramento más que a tus propios sentidos y a las señas visibles» (IV, 5), y la advertencia de la Escritura: «El que es escudriñador de la majestad será abrumado de su gloria» (Prov 25,27).
+
+El autor explica además la razón del velo sacramental, que es la condescendencia con la debilidad humana: «el mirarte en tu propia y divina claridad no podrían mis ojos resistirlo, ni el mundo entero subsistiría ante el resplandor de la gloria de tu Majestad. Tienes, pues, consideración a mi debilidad cuando te ocultas bajo este sacramento» (IV, 11). De ahí la estructura de la fe peregrina: «Yo tengo verdaderamente y adoro al mismo a quien adoran los ángeles en el cielo; mas yo sólo con la fe por ahora; ellos, claramente y sin velo. Debo yo contentarme con la luz de la fe verdadera, y andar con ella hasta que amanezca el día de la claridad eterna», pues «cuando llegue este perfecto estado» (1Cor 13,10) «cesará el uso de los sacramentos» (IV, 11).
+
+La respuesta a las tentaciones contra la fe en el sacramento es también característica: no se han de imputar a quien las padece «sino al enemigo», y el remedio es la sencillez: «Acércate, pues, con fe firme y sencilla, y con humilde reverencia llégate al sacramento; y todo lo que no puedes entender encomiéndalo con seguridad a Dios Todopoderoso... La razón humana es flaca y puede engañarse; mas la fe verdadera no puede engañarse» (IV, 18).
+
 ## Distinciones importantes
 
 - Presencia real no es solo presencia simbólica ni espiritual
@@ -154,3 +162,4 @@ Tóth funda la presencia real en la **interpretación literal de Jn 6**: Cristo 
 - Barron, Robert. «If It's a Symbol, to Hell with It: Bishop Barron on the Eucharist», en *Evangelization & Culture* 13 (Autumn 2022).
 - O'Malley, Timothy P. «Eucharistic Personhood», en *Evangelization & Culture* 13 (Autumn 2022).
 - EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 2-3.
+- Tomás de Kempis, *La imitación de Cristo*, IV, 2, 5, 11, 18 (ImC)

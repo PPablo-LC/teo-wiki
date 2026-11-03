@@ -2,12 +2,12 @@
 type: Concepto Teológico
 title: Vida interior
 description: "La vida del alma en su relación con Dios, caracterizada por la oración, el recogimiento, la mortificación y la practica de las virtudes."
-timestamp: 2026-08-24
+timestamp: "2026-11-01"
 ---
 # Vida interior
 
 > Área: Ascética y Mística
-> Última actualización: 2026-08-24
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -38,6 +38,14 @@ Mons. Munilla une la vida interior al elemento del altar y el sagrario: «si no 
 
 Brandon Vogt presenta la vida interior como la condición innegociable del evangelizador en los nuevos medios. «El mayor peligro para los evangelizadores online es el cinismo»: ante resultados pobres o la toxicidad de los críticos, muchos se desinflan por culpa del «hater math» (100 comentarios halagadores + 1 crítico = 1 crítico) y acaban abandonando o amargándose. El remedio es estructural: «Si no estás orando offline, no tienes negocio evangelizando online — eso es innegociable». Se requiere una «profunda vida de oración afectiva que ate constantemente tu voluntad a la del Señor», alimentada por la Liturgia de las Horas rezada preferentemente fuera del teléfono y sostenida por un director espiritual que entienda el mundo online. Su doble fruto: desapego de los frutos visibles («Dios no te ha llamado a ser exitoso; te ha llamado a ser fiel», adagio de Madre Teresa) y arraigo de la identidad en la filiación divina, «para que tu valor en el mundo no dependa del tamaño de tu plataforma ni del número de personas que alcanzas online». Sin esa base, el apostolado digital deriva en vanidad cuando triunfa y en cinismo cuando fracasa.
 
+### Según Tomás de Kempis (*La imitación de Cristo*)
+
+El *Libro Segundo* de la *Imitación* se titula precisamente «Exhortación a la vida interior» y ofrece la formulación más neta del concepto en la literatura espiritual tardomedieval. Su punto de partida es Lc 17,21: «El reino de Dios dentro de vosotros está. Conviértete a Dios de todo corazón, y deja ese miserable mundo, y hallará tu alma reposo. Aprende a menospreciar las cosas exteriores y darte a las interiores, y verás que se viene a ti el reino de Dios» (II, 1). La vida interior se describe con la imagen del huésped: «prepara tu corazón a este Esposo», porque «Toda su gloria y hermosura está en lo interior»; de ahí la consigna: «Da, pues, lugar a Cristo, y a todo lo demás cierra la puerta» (II, 1).
+
+El criterio para medir el grado de interioridad es la relación con lo exterior: «El hombre interior presto se recoge, porque nunca se entrega todo a las cosas exteriores. No le estorba el trabajo exterior, ni la ocupación necesaria a tiempos» (II, 1); «Tanto se estorba el hombre y se distrae, cuanto atrae a sí las cosas de fuera» (II, 1). Y la pregunta que la examina es una de las más citadas de la obra: «¿Dónde estás cuando no estás contigo? Y después de haber discurrido por todas las cosas, ¿qué has ganado si de ti te olvidaste?» (II, 5).
+
+El *Libro Tercero* funda esa interioridad en el habla divina: «Bienaventurados los ojos que, cerrados a las cosas exteriores, están muy atentos a las interiores» (III, 1), porque «la verdad habla dentro del alma sin sonido de palabras» y los maestros humanos «pronuncian palabras, mas no dan espíritu» (III, 2). La vida interior no se opone, sin embargo, a la ocupación exterior, sino que la ordena desde dentro: «en cualquier lugar y en toda ocupación exterior estés libre dentro de ti y señor de ti mismo... Mira lo transitorio con el ojo izquierdo, y con el derecho, lo celestial» (III, 38).
+
 ## Distinciones importantes
 
 - Vida interior (oración y virtudes) vs vida exterior (acción apostólica)
@@ -59,3 +67,4 @@ Se relaciona con [[oración]], [[meditación]], [[contemplación]], [[recogimien
 - [Nota: analizados/brian_cochran_my_personal_emmaus.md]
 - [CIS, «La catedral interior del sacerdote», 2026]
 - [EAC-3, Issue 3 «The Digital Age», archivo 15 (Vogt)]
+- Tomás de Kempis, *La imitación de Cristo*, II, 1, 5; III, 1-2, 38 (ImC)

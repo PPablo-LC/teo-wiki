@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Castidad
 tags: ["moral"]
 
-timestamp: 2026-10-14
+timestamp: 2026-11-03
 description: "La castidad es la virtud moral, parte subjetiva de la templanza, que modera el apetito genésico según la recta razón y la fe, integrando la sexualidad en la persona y ordenándola al don total de sí."
 ---
 # Castidad
 
 > Área: Moral
-> Última actualización: 2026-10-14
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -147,6 +147,26 @@ Tóth aborda la castidad en su dimensión más práctica y pastoral, presentánd
 La castidad, que se coloca dentro de la [[templanza]], «no debe entenderse como una actitud represiva, sino, al contrario, como la transparencia y, al mismo tiempo, la custodia de un don»: es «aquella *energía espiritual* que sabe defender el amor de los peligros del egoísmo y de la agresividad, y sabe promoverlo hacia su realización plena» (SHVS 4). Es «la afirmación gozosa de quien sabe vivir el don de sí, libre de toda esclavitud egoísta»: torna armónica la personalidad, la hace madurar y la llena de paz interior (SHVS 17). Implica un «aprendizaje del dominio de sí, que es una pedagogía de la libertad humana. La alternativa es clara: o el hombre controla sus pasiones y obtiene la paz, o se deja dominar por ellas y se hace desgraciado» (SHVS 18). El objetivo educativo es transmitir «la convicción de que *la castidad en el propio estado es posible y genera alegría*»; con la gracia de Cristo todos pueden vivir castamente incluso en circunstancias poco favorables (SHVS 19, 73-74). Las personas con tendencias homosexuales «están llamadas a la castidad» (SHVS 104).
 
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina presenta la castidad no como represión ni mortificación de la afectividad, sino como la virtud que capacita para que el impulso y el afecto sean expresión del don de sí. La sexualidad es crucial para la vida: configura el encuentro con la realidad y con la diferencia, y tiene una «herida ontológica» que empuja al otro. Hoy se pasa de la desconfianza puritana a un énfasis ingenuo que ignora las heridas. La continencia es un momento de la castidad; esta integra deseo, afecto, fantasía, memoria, voluntad, inteligencia y gracia. La modestia protege la belleza del cuerpo sexuado. Pell y Chaput añaden la dimensión cultural: los debates sobre el celibato y la continencia forman parte del asalto moderno a toda forma de continencia sexual, y la confusión sexual ha socavado la vida familiar.
+
+### Según *Living the Truth in Love* (LTL)
+
+Para [[janet_e_smith]] la castidad no es una prohibición añadida desde fuera,
+sino la forma del amor verdadero: integra la sexualidad en la persona y la
+capacita para el don. En el epílogo del volumen defiende el **[[celibato]]**
+casto como vocación plena —no como consuelo de segunda clase— y muestra que
+la soledad solo se vuelve habitable en la **[[amistad_cristiana]]** y en la
+**[[oración]]**. [[bob_schuchts]] describe la castidad como fruto de la
+**[[sanación_interior]]**: no se conquista por fuerza de voluntad sobre una
+herida no curada, sino que crece con la **[[pureza]]** del corazón restaurado.
+[[paul_check]] añade la dimensión eclesial: la castidad se vive con medios
+concretos —gracia sacramental, dirección espiritual, amistad, comunidad— y la
+Iglesia debe ofrecerlos realmente, no solo exigirla. Los testimonios del
+libro (Prever, Tushnet, Mattson, Mainwaring) confirman que la castidad es
+posible y fecunda cuando se sostiene en vínculos reales.
+
 ## Distinciones importantes
 
 - **Castidad virginal**: abstención perpetua de toda delectación venérea por motivos sobrenaturales
@@ -169,6 +189,7 @@ La [[templanza]] es la virtud cardinal de la que la castidad es parte subjetiva.
 [[templanza]], [[lujuria]], [[voto_de_castidad]], [[matrimonio]], [[pureza_de_corazón]], [[virginidad]], [[jorge_loring]], [[continencia]], [[incontinencia]], [[pudor]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - [CEC §2337-2359]
 - [CEC §2520-2527]
@@ -184,3 +205,4 @@ La [[templanza]] es la virtud cardinal de la que la castidad es parte subjetiva.
 - [PyH, Cap. II]
 - [PyH, Cap. V]
 - [PyH, Cap. VII]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

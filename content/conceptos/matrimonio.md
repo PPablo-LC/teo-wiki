@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Matrimonio
 tags: ["sacramental"]
 
-timestamp: 2026-10-13
+timestamp: 2026-11-03
 description: "El matrimonio es el sacramento instituido por Nuestro Señor Jesucristo que santifica la unión legítima entre un varón y una mujer."
 ---
 # Matrimonio
 
 > Área: Sacramental
-> Última actualización: 2026-10-13
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -305,6 +305,26 @@ hospitalidad:
   conyugal («Se un sacrificio non lo potete fare… senza letizia, piuttosto
   non fatelo!») (06, 21; 06, 63-67).
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Pell y Melina afrontan el matrimonio desde la lógica del don y de la promesa. Pell: en el bautismo el amor es nuevo nacimiento; en la confirmación crece; en la Eucaristía se alimenta; en el matrimonio el amor puede decir «para siempre»; en la reconciliación el «para siempre» es posible porque el perdón lo es. Los divorcios ocurren sobre todo en los primeros años: la preparación no basta; la comunidad, los amigos y los creyentes pueden apoyar mejor que el sacerdote; el sacramento no es punto de llegada, sino de partida; el matrimonio no es cosa de dos, sino servicio al bien común. Melina insiste en la *Humanae vitae* y en la «ecología humana»: la verdad del amor exige la unión íntima e indisoluble entre la unidad de la carne y la apertura a la procreación. La cohabitación no es un simple paso incompleto: es una falsificación presente del amor, porque quien quiere experimentar no puede entregarse.
+
+### Según *Living the Truth in Love* (LTL)
+
+Jennifer Roback Morse muestra que la revolución sexual separó primero el sexo
+de la procreación y después del matrimonio, y que el divorcio sin culpa
+consumó la deconstrucción jurídica del vínculo. La consecuencia no es solo
+privada: el Estado redefine el matrimonio, equipara modelos de familia
+radicalmente distintos e introduce «injusticias estructurales» que recaen
+sobre los niños (CRC art. 7). [[janet_e_smith]] afronta los «matrimonios»
+entre personas del mismo sexo distinguiendo los tipos de amor —*eros*,
+*philia*, *agape*— y mostrando que la intensidad afectiva no equivale a
+entrega conyugal. Douglas Mainwaring, casado y con
+**[[atracción_por_el_mismo_sexo]]**, testimonia que el matrimonio verdadero
+es posible y fecundo cuando se funda en la **[[complementariedad]]** y en la
+gracia, no en la negación de la propia historia. La obra defiende así el
+matrimonio como bien público, no como preferencia religiosa.
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento
@@ -335,6 +355,7 @@ hospitalidad:
 - [[familiaris_consortio]]
 
 ## Referencias
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - TPCr, Tercera Parte, Libro II, Cap. I
 - Génesis 2,24
@@ -363,3 +384,4 @@ hospitalidad:
 - AED, 33, 83-85 — Tischrede 49: *La discrezione* — la fidelidad como moralidad del amor.
 - EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 2-8, 12, 17.
 - [PyH, Cap. 1]
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

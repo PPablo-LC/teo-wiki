@@ -2,7 +2,7 @@
 type: Concepto Teológico
 title: Consciencia moral
 description: "Facultad del ser humano para discernir el bien del mal, donde la voz de Dios se manifiesta en el corazón."
-timestamp: 2026-08-20
+timestamp: 2026-11-02
 tags:
   - moral
   - epistemologia
@@ -13,7 +13,7 @@ tags:
 # Consciencia moral
 
 > Área: Teología Moral / Epistemología
-> Última actualización: 2026-08-20
+> Última actualización: 2026-11-02
 
 ## Definición
 
@@ -91,6 +91,14 @@ El capítulo 13 (San Tommaso Moro) es el paradigma de la conciencia no dividida:
 
 Giussani radica la conciencia moral en el diálogo con «la» Presencia. Enseña que «non esiste moralità al di fuori di un diálogo con "la" Presenza, con una presenza che è "la" Presenza»: ni el padre, ni la madre, ni el amigo, ni el superior pueden fundar el origen de nuestros actos ni juzgarlos. De ahí la advertencia: «Nessuno giudichi gli altri. Io neanche me stesso giudico: è Dio solo che giudica» (1 Cor 4,3-4). La vida moral comienza con el «Venga il tuo regno; sia fatta la tua volontà» (Mt 6,10), esto es, con un «sí» que se apoya en Alguien y no en el propio juicio.
 
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Melina rechaza la reducción de la conciencia a la propia opinión, gusto o sensibilidad: la conciencia es apertura y sumisión a una verdad que debe buscarse, honrarse y obedecerse; su relación primaria no es con la ley, sino con la verdad. La ley expresa la verdad de un camino. El discernimiento no se aplica a elecciones ya hechas ni a prohibiciones claras; sin coordenadas fijas lleva al naufragio. Iluminar la conciencia es la forma suprema de misericordia: enseñar al ignorante y corregir al que yerra son obras espirituales de misericordia. La claridad, no la rigidez, genera esperanza. Chaput añade que «votar según conciencia» no basta si la conciencia no está formada: existe una jerarquía natural de los problemas morales y el derecho a la vida es fundacional y prioritario.
+
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, EPL) presenta la conciencia como apertura a la verdad del bien. La conciencia no es un tribunal autónomo, sino una apertura a la verdad. VS rechaza la primacía de la conciencia subjetiva.
+
 ## Distinciones importantes
 
 - **Consciencia y sentimiento:** La consciencia no es un sentimiento subjetivo, sino un juicio de la razón iluminada por la fe.
@@ -120,3 +128,5 @@ Giussani radica la conciencia moral en el diálogo con «la» Presencia. Enseña
 - Newman, John Henry. *A Letter to His Grace the Duke of Norfolk*. 1875.
 - Concilio Vaticano II. *Gaudium et Spes* 16.
 - Catecismo de la Iglesia Católica, 1776-1794.
+- PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

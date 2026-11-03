@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Conversión continua"
 tags: ["espiritualidad", "ascética"]
-timestamp: 2026-09-05
+timestamp: 2026-11-01
 description: "La conversión no es 'una sola vez': es a la vez evento y proceso continuo, un fuego que exige atención diaria y la vuelta constante al Señor."
 ---
 # Conversión continua
 
 > Área: Espiritualidad / Ascética
-> Última actualización: 2026-09-05
+> Última actualización: 2026-11-01
 
 ## Definición
 
@@ -31,6 +31,14 @@ Thomas Merton sintetizó la dimensión continua: «No somos convertidos solo una
 **La conversión de todos los días (06):** Según Joseph Susanka, el término latino *conversio* significa «vuelta; revolución o cambio; transformación» y es aplicable a todos los humanos, incluso a los más seguros espiritualmente: todos estamos llamados a la conversión, a ser transformados por nuestra fe y a volver al Señor diariamente. La imagen más poderosa es la de Pedro volviéndose hacia Roma: la Roca debe ser recordada de abandonarse a la providencia, de volverse, sufrir, morir y ser transformado. Si hasta San Pedro se había desviado del camino de la verdad hasta el punto de necesitar el amable reproche de su Salvador, cuánto más debemos nosotros responder a la llamada de Cristo a ser renovados y transformados, una y otra vez, día a día, hasta llegar por fin a nuestra morada final.
 
 **«Venid y morid»; la conversión de toda la vida (18):** En el podcast de la revista, el obispo Robert Barron recuerda la cita de Bonhoeffer — «Cuando Cristo llama a un hombre, le pide venir y morir» — y subraya que todos están llamados a morir al yo viejo: la conversión es despojo del viejo modo de ser y revestimiento de la vestidura bautismal. A la pregunta de si el católico de toda la vida «se convierte muchas veces», responde que sí: «De otro modo, ¿por qué volverías a la confesión?». No somos susceptibles a la falacia socrática — que una vez que sabes lo que es bueno lo vas a hacer —; la conversión es una rendición constante, día a día, a la gracia. El ritmo correcto es el de Pablo en Rom 7: «No hago el bien que quiero, sino el mal que no quiero… ¿Quién me librará de este cuerpo de muerte? ¡Gracias a Dios por Jesucristo nuestro Señor!». Por el *fomes peccati* — la leña del pecado — necesitamos la conversión continua: volvemos una y otra y otra vez a los sacramentos. La vida entera de la Iglesia — comunidad, liturgia, sacramentos, santos, arte y arquitectura — está pensada para impedir el retroceso y sostener esa conversión; por eso se va a Misa el domingo aunque no apetezca, con la misma lógica con que se practica el piano o el fútbol.
+
+### Según La imitación de Cristo (ImC)
+
+**I,19 — «Como si hoy fuese el primer día»:** La fórmula clásica de la conversión continua en Kempis: «Cada día debemos renovar nuestro propósito y excitarnos a mayor fervor, como si hoy fuese el primer día de nuestra conversión, y decir: Señor, Dios mío, ayúdame en mi buen intento y en tu santo servicio, y dame gracia para que comience hoy perfectamente, porque no es nada cuanto hice hasta aquí» (I,19 [1]). La renovación diaria no se apoya en el pasado —«no es nada cuanto hice hasta aquí»— sino en la gracia pedida para el día presente, y se acompaña de la convicción de que «según es nuestro propósito, así es nuestro aprovechamiento» (I,19 [2]).
+
+**I,25 — Volver a empezar sin escudriñar el futuro:** El capítulo de la «fervorosa enmienda de toda nuestra vida» comienza con la memoria de la propia vocación: «Vela con mucha diligencia en el servicio de Dios y piensa de ordinario a qué viniste y por qué dejaste el mundo. ¿No fue, por ventura, con deseo de vivir para Dios y ser hombre espiritual?» (I,25 [1]). A la congoja por la perseverancia futura responde la palabra interior: «¿Qué harías si eso supieses? Haz ahora lo que entonces quisieras hacer, y estarás seguro» (I,25 [2]). La conversión continua consiste, pues, en hacer ahora lo que se querrá haber hecho, sin pretender asegurar el porvenir: el hombre «no quiso escudriñar curiosamente para saber lo que le había de suceder, sino que anduvo con mucho cuidado de saber «lo que fuese la voluntad de Dios» ... para comenzar y perfeccionar toda buena obra» (I,25 [2]).
+
+**III,54 — La reforma cotidiana del hombre interior:** «Cuanto más apremiada y vencida es la naturaleza, tanta mayor gracia se infunde; y cada día es reformado el hombre interior, según la imagen de Dios, con nuevas visitaciones» (III,54 [10]). La conversión continua tiene aquí su fundamento objetivo: no es solo un propósito del alma, sino la acción de Dios que renueva cada día al hombre interior según su imagen.
 
 ## Distinciones importantes
 
@@ -64,3 +72,4 @@ Thomas Merton sintetizó la dimensión continua: «No somos convertidos solo una
   - 03_word_from_institute.md — Matthew R. Petrusek, «A Word from the Institute»
   - 06_stacks.md — Joseph Susanka, «Stacks: Turning Back to Quo Vadis»
   - 18_spotlight_barron.md — Bishop Robert Barron (podcast), «Spotlight: Bishop Barron on Conversión»
+- ImC, *La imitación de Cristo*, libro I, caps. 19 y 25; libro III, cap. 54

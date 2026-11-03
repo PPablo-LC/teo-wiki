@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: "Amistad cristiana"
 tags: ["ascética", "ética_cristiana"]
-timestamp: 2026-09-13
+timestamp: 2026-11-03
 description: "Vínculo espiritual indisoluble fundado en la semejanza de virtudes y la caridad mutua, propio de la vida monástica según la enseñanza del abad José."
 ---
 
 # Amistad cristiana
 
 > Área: Ascética / Ética cristiana
-> Última actualización: 2026-09-13
+> Última actualización: 2026-11-03
 
 ## Definición
 
@@ -57,6 +57,20 @@ DLV presenta la amistad como la sustancia del comportamiento moral y como el lug
 - **El tema de los Esercizi 1997** — *Tu, o dell'amicizia*: la amistad como vía para hablar de Cristo (DLV 02).
 - **Amistad y pertenencia** — adventir a la amistad es «riconoscere di appartenere»; la pertenencia a Cristo funda la amistad verdadera (cfr. [[pertenencia]]) (DLV 01, 77).
 
+### Según *Living the Truth in Love* (LTL)
+
+La amistad ocupa el centro de la propuesta pastoral del volumen. Dennis J.
+Billy expone *De spiritali amicitia* de [[aelredo_de_rievaulx]]: la amistad
+nace de la creación, se hiere en la caída y se restaura en la redención, y sus
+«tres besos» —oración, afecto e intimidad ordenada— trazan un camino ascético.
+Rachel Lu analiza el grupo *Spiritual Friendship* y valora su acierto —tomar
+la amistad como vocación— y su riesgo —convertirla en refugio identitario.
+Joseph Prever describe la tentación del «Uróboros»: la amistad que se devora
+a sí misma porque busca en el otro la propia imagen. La conclusión común es
+que la **[[amistad_espiritual]]** es un bien propio, no un sustituto del
+matrimonio, y que la **[[castidad]]** es su condición de posibilidad: sin
+ella, el afecto se vuelve posesión; con ella, se vuelve don.
+
 ## Distinciones importantes
 
 - **Amistad natural**: por parentesco, intereses o costumbres — inestable
@@ -77,3 +91,4 @@ Se relaciona con la [[caridad]], la [[paciencia]], la [[humildad]], la [[obedien
 
 - ColCas-II, Conferencia XVI, §§1-28
 - SmTh IIa-IIae q.23-26
+- LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
