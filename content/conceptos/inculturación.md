@@ -6,6 +6,7 @@ tags: ["eclesiología", "misiología"]
 timestamp: 2026-06-10
 description: "La inculturación es el proceso por el cual el Evangelio se encarna en una cultura determinada y las culturas son llamadas a transformarse según el Evangelio."
 ---
+
 # Inculturación
 
 > Área: Eclesiología / Misiología
@@ -46,6 +47,12 @@ Es especialmente importante entre las poblaciones indígenas, para que «las sem
 
 Para la evangelización de la cultura es necesario «un esfuerzo lúcido, serio y ordenado» [EA §70]. Con el uso correcto de los medios de comunicación social «se puede llevar a cabo una verdadera inculturación del Evangelio» [EA §72].
 
+### Según la IGMR (2000)
+
+La inculturación litúrgica debe tomar su debido tiempo, de modo que las formas nuevas nazcan orgánicamente de las ya existentes, y no por invención arbitraria (§398). No se deben crear nuevos ritos propios, sino que las tradiciones de cada pueblo se integran de modo orgánico en las formas litúrgicas romanas ya existentes (§398). El desarrollo orgánico de la inculturación debe respetar siempre el carácter propio del Rito Romano, asegurando la unidad de la celebración y la fidelidad a la tradición viva de la Iglesia (§398).
+### Según León XIV (L_XIV-ClerRom)
+
+En su respuesta a la pregunta sobre la «progresiva marginación de lo religioso» en la cultura posmoderna, León XIV aborda la inculturación desde una perspectiva concreta y pastoral. El desafío es «cómo podemos hacer incisivos en esta cultura posmoderna sin volver a esquemas del pasado que resultarían un poco anacrónicos». El Papa responde que la primera condición para la inculturación es el conocimiento profundo de la comunidad a la que se sirve: «si quieres amar a alguien, primero tienes que conocerlo. Si quiere amar y servir a una comunidad, es muy importante conocerla». Advierte contra la tentación de trasplantar soluciones de un contexto a otro sin mediación: «si me cambian de una parroquia a otra, pensar: "Esto funcionó allí, sigamos haciendo lo mismo"». La inculturación requiere, además, una vida de oración auténtica que permita al sacerdote ofrecer «su fe, su experiencia de haber conocido y amado a Jesucristo y su Evangelio» desde dentro de la cultura concreta [L_XIV-ClerRom, 19.02.2026].
 
 ## Distinciones importantes
 
@@ -53,17 +60,9 @@ Para la evangelización de la cultura es necesario «un esfuerzo lúcido, serio 
 - **Inculturación**: proceso más profundo por el cual el Evangelio asume y purifica los valores de una cultura, y la cultura se transforma a la luz del Evangelio
 - **Acomodación**: ajuste excesivo que diluye la identidad cristiana
 
-### Según la IGMR (2000)
-
-La inculturación litúrgica debe tomar su debido tiempo, de modo que las formas nuevas nazcan orgánicamente de las ya existentes, y no por invención arbitraria (§398). No se deben crear nuevos ritos propios, sino que las tradiciones de cada pueblo se integran de modo orgánico en las formas litúrgicas romanas ya existentes (§398). El desarrollo orgánico de la inculturación debe respetar siempre el carácter propio del Rito Romano, asegurando la unidad de la celebración y la fidelidad a la tradición viva de la Iglesia (§398).
-
 ## Relaciones doctrinales
 
 La inculturación es dimensión esencial de la [[evangelización]] y de la [[misión]] de la [[iglesia]]. Se relaciona con la [[cultura]] y con la unidad de la fe en la diversidad de expresiones culturales.
-
-### Según León XIV (L_XIV-ClerRom)
-
-En su respuesta a la pregunta sobre la «progresiva marginación de lo religioso» en la cultura posmoderna, León XIV aborda la inculturación desde una perspectiva concreta y pastoral. El desafío es «cómo podemos hacer incisivos en esta cultura posmoderna sin volver a esquemas del pasado que resultarían un poco anacrónicos». El Papa responde que la primera condición para la inculturación es el conocimiento profundo de la comunidad a la que se sirve: «si quieres amar a alguien, primero tienes que conocerlo. Si quiere amar y servir a una comunidad, es muy importante conocerla». Advierte contra la tentación de trasplantar soluciones de un contexto a otro sin mediación: «si me cambian de una parroquia a otra, pensar: "Esto funcionó allí, sigamos haciendo lo mismo"». La inculturación requiere, además, una vida de oración auténtica que permita al sacerdote ofrecer «su fe, su experiencia de haber conocido y amado a Jesucristo y su Evangelio» desde dentro de la cultura concreta [L_XIV-ClerRom, 19.02.2026].
 
 ## Ver también
 

@@ -39,6 +39,16 @@ a.2 — Ser inmutable es propio de Dios. Solo Dios es totalmente inmutable. Toda
 
 Royo Marín, al tratar de la perfección divina y de la vida espiritual, presupone la inmutabilidad de Dios como fundamento de la confianza en la oración y en la fidelidad divina. Dios no cambia en su amor ni en sus promesas. La vida espiritual del hombre cambia y progresa, pero el término de ese progreso es la unión estable con el Dios inmutable (TPCr, Primera Parte, Cap. I).
 
+### Según Robert Barron (Thomas Aquinas: Spiritual Master)
+
+Barron afronta la inmutabilidad divina como uno de los puntos más discutidos de la teología contemporánea y advierte que solo se entiende si se mira el icono bíblico que la gobierna. En el primer artículo de la cuestión 9, el *Sed contra* cita al profeta Malaquías: «Yo soy el Señor y no cambio». Leído en su contexto, ese texto vincula la inmutabilidad a la fidelidad a la alianza, pues el versículo siguiente dice: «Volveos a mí y yo me volveré a vosotros». Tomás no ve contradicción entre inmutabilidad y respuesta fiel: al contrario, la inmutabilidad es la condición de posibilidad de la fidelidad divina (TAM, cap. 2).
+
+El argumento decisivo define el «movimiento» como adquisición de algo que antes no se tenía. Dios, que comprende en sí toda la plenitud y perfección del ser, no puede adquirir nada nuevo ni extenderse a donde no estuviera ya; por tanto, el movimiento no le conviene en modo alguno (S.Th. Iª q.9 a.1). Lo que Tomás niega de Dios es la mudabilidad propia de la criatura, el paso del no-ser al ser.
+
+Barron precisa que esa negación no excluye otras «mutaciones» que implican plenitud y no imperfección: la capacidad de entrar en los sentimientos de otro y de responder a sus necesidades —la compasión—, la vivacidad de una personalidad rica. El Dios inmutable no es la roca de Gibraltar, un ser de nivel primitivo, sino un «giroscopio» de energía y actividad y a la vez roca estable: lo que Nicolás de Cusa llamó *complexio oppositorum*, y lo que el pseudo-Dionisio describe como Dios a la vez grande y pequeño, cambiante e inmutable, alto y bajo.
+
+La dirección espiritual es clara: afirmar que Dios cambia —en el sentido tomista— equivaldría a situarlo en el nivel de lo finito y permitiría al pecador instalarse en la comodidad de la criatura. Tomás defiende la inmutabilidad porque ha sido invitado por el Dios de Jesús a una perfección extática más allá de lo creado (TAM, cap. 2).
+
 ## Distinciones importantes
 
 - **Inmutabilidad absoluta de Dios vs. mutabilidad de las criaturas**: solo Dios es inmutable por esencia; las criaturas lo son por participación o por naturaleza

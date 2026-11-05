@@ -35,8 +35,6 @@ En la segunda sesión se reportó que los laicos no consagrados, en su Convenci�
 
 **Reglamento de los Fieles Asociados.** La Asamblea General, concurrente con la segunda sesión del Capítulo, revisó y aprobó «prácticamente por unanimidad» el *Reglamento de los Fieles Asociados a la Federación Regnum Christi*, destinado a ser promulgado una vez establecida la Federación [CapExt-2018, n. 12(c) y 19].
 
-## Perspectivas por fuente
-
 ### Según los Estatutos de la Federación Regnum Christi (FRC-2019)
 
 Los Estatutos (n. 2) establecen que pueden ser admitidos como fieles asociados: 1.º fieles laicos que no asumen los consejos evangélicos con vínculo sagrado y que acogen personalmente una vocación a vivir con plenitud su compromiso bautismal en medio de las realidades temporales según el espíritu y la misión del Regnum Christi; 2.º sacerdotes, diáconos y seminaristas seculares [FRC-2019, EFRC 2].

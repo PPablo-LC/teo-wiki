@@ -42,7 +42,6 @@ La conciencia moral es el primer vicario de Cristo, la mensajera de Dios (CEC §
 
 **a.13 — La conciencia debe siempre seguirse:** Incluso la conciencia errónea obliga, porque la voluntad que actúa contra el juicio de la conciencia se aparta de la rectitud moral.
 
-
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — el «subjetivismo» (1) surge de la reducción del cristianismo a «Palabra»: la Palabra de Dios tendría «como último criterio interpretativo la conciencia personal: dramática relativización en la que cada hombre es fuente de dictado, última cátedra y profeta de sí mismo, a merced de su sensibilidad, de su resentimiento, del instante que vive»; *tot capita, tot sententiae* — «posible también eslogan de la libertad racionalista» (L27).
@@ -67,8 +66,6 @@ que no toca el instante banal no es verdaderamente humano”» (*Dialoghi con Le
 
 **La conciencia como movimiento.** La conciencia no es un estado estático: se pide
 que «se mueva», y en ese movimiento «nos cambie, nos mute» (00, 59).
-
-## Perspectivas por fuente
 
 ### Según Mons. Tihámer Tóth (JvC)
 

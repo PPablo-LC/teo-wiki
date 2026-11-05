@@ -58,6 +58,12 @@ En el artículo 1, ad 1, Tomás explica que la humanidad de Cristo es instrument
 En la **cuestión 58** (sobre la dignidad real de Cristo), Tomás trata la autoridad de Cristo como Rey. Cristo es Rey por naturaleza divina y por derecho de conquista (ha redimido a la humanidad con su sangre). Su reino es espiritual, pero no por eso menos real: gobierna los corazones, los pueblos y la historia. La autoridad de Cristo como Rey es absoluta y universal, sin limitaciones temporales.
 
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+Comentando la pregunta de los sumos sacerdotes y ancianos —«¿Con qué autoridad haces esto?»—, Barron se detiene en la palabra griega *exousia*, que significa literalmente «la que procede del ser» (AGR21, 13 de diciembre). Jesús habla con la misma *exousia* de Dios y, por tanto, sus palabras obran lo que dicen: dice «¡Lázaro, sal fuera!» y el muerto sale; reprende al viento y al mar y sobreviene la calma; toma el pan y dice «Esto es mi cuerpo», y lo que dice, es.
+
+**La autoridad de la Iglesia.** «Esta es la autoridad de la Iglesia»: si la Iglesia fuera solo «guardiana de una interesante perspectiva filosófica entre muchas», sería impotente, y si confiara en su propia habilidad argumentativa, fracasaría. «Nuestro poder viene —y sigue siendo un gran misterio— solo cuando hablamos con la autoridad de Jesucristo.»
+
 ## Distinciones importantes
 
 - **Autoridad de Cristo vs. autoridad de la Iglesia**: la de Cristo es originaria y plena; la de la Iglesia es derivada y participada. La Iglesia nunca posee autoridad independiente de Cristo.

@@ -225,6 +225,18 @@ La unión en Cristo es **personal**: ni esencial (Eutiques, que confunde las nat
 - **La sencillez del reconocimiento del Dios hecho carne.** «se Dio s'è fatto uomo, non può essere che semplice il modo di riconoscerLo!» (03, 35); la humanidad de Cristo se hace concreta —«Verbum caro hic factum est», la inscripción de la Basílica de la Anunciación (03, 91): el Verbo hecho carne (Gv 1,14) corre «nelle vene» del cristiano (04, 37-39).
 - **La moralidad como respuesta a la carne del Verbo.** «La Parola s'è fatta carne» (Gv 1,14): «L'azione morale è una risposta a una domanda che sale dalle profondità del nostro essere – dal cuore –…: è una risposta al Mistero che ci fa» (03, 217-219).
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**Los dos agentes de la Encarnación.** En la Anunciación, el ángel declara a María: «El Espíritu Santo vendrá sobre ti y el poder del Altísimo te cubrirá con su sombra; por eso el niño que nacerá será santo, Hijo de Dios». Barron concluye que «las dos personas necesarias para la Encarnación fueron el Espíritu Santo y la Madre bendita» (AGR21, 8 de diciembre). Y como el Espíritu y la Virgen fueron necesarios para realizar la Encarnación en la historia, «esos mismos dos agentes son necesarios para hacer nacer a Cristo en nuestras almas».
+
+**El *fiat* que hace posible lo imposible.** Al decir «He aquí la esclava del Señor; hágase en mí según tu palabra», María «deshace la negativa de Eva», y ese *fiat* a lo imposible hizo posible la Encarnación de Dios: al aceptar el Misterio, permitió que el amor de Dios se hiciera carne para la transformación del mundo (20 de diciembre). Su *fiat* es «el suelo y el modelo de la respuesta de cada discípulo al deseo de Dios de encarnarse»; con Meister Eckhart, Barron afirma que todos los creyentes se convierten en «madres de Cristo», portadores del Verbo encarnado, en la medida en que aceptan la pasión divina de introducirse en la creación.
+
+**Dios entra en una familia concreta.** La genealogía de Mateo muestra que el Verbo «formó parte de una familia que, como la mayoría, era bastante disfuncional»: el Mesías salió de Rut la extranjera y de Rahab la prostituta, y «se complació en ser su pariente» (17 de diciembre).
+
+**La ironía de la Encarnación.** El Rey llega «sigilosamente, clandestinamente», como un niño indefenso nacido en un puesto avanzado del Imperio, para vencer «con el poder finalmente irresistible del amor» (18 de diciembre).
+
+**«Plantó su tienda».** El prólogo de Juan (*eskenosen*) evoca el tabernáculo: el Verbo hecho carne es Dios que viene a habitar definitivamente en su mundo, deshaciendo los efectos del pecado y haciendo de Jesús «el nuevo Edén, el nuevo templo, la creación restaurada» (25 de diciembre).
+
 ## Distinciones importantes
 
 - **Encarnación vs. unión hipostática**: la Encarnación es el acto de asumir la naturaleza humana; la unión hipostática es el estado permanente de la unión de las dos naturalezas en la persona del Verbo.

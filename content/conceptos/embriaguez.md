@@ -6,6 +6,7 @@ tags: ["moral", "bíblica"]
 timestamp: 2026-10-14
 description: "La embriaguez es un pecado por el cual el hombre se priva deliberadamente del uso de la razón para entregarse al placer de beber en exceso."
 ---
+
 # Embriaguez
 
 > Área: Moral
@@ -31,6 +32,10 @@ El NT ve en la embriaguez el abandono de la vigilancia. Se embriaga quien está 
 
 Santo Tomás trata la embriaguez en la cuestión 150 como vicio opuesto a la sobriedad. Distingue dos aspectos: la embriaguez como pérdida del control de la razón (pena consecuente a la culpa) y como acto voluntario de beber sin moderación (culpa misma). Cuando uno se embriaga por ignorancia de la fuerza del vino, puede haber pecado venial o incluso ninguno; pero quien bebe sabiendo que se embriagará y prefiriendo la embriaguez a privarse de la bebida, comete pecado mortal, pues se priva voluntariamente del uso de la razón (a.2). No es el pecado más grave, pues los pecados directamente contra Dios superan en gravedad a la embriaguez, que se opone al bien de la razón humana (a.3). La embriaguez puede eximir de pecado en cuanto priva del uso de la razón (como en el caso de Lot), pero el acto anterior de beber sin moderación sigue siendo culpable (a.4).
 
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Tóth conecta la embriaguez con la caída de la pureza (Cap. VI, «The Healthy Mode of Life»): «la fornicación, el vino y la embriaguez quitan el corazón». Muchos jóvenes que habían conservado su pureza durante años la perdieron cuando el vino venció su voluntad. Recalca también que, en la cama del enfermo, la fragilidad física puede favorecer pensamientos y actos impuros, por lo que conviene extremar la vigilancia en la enfermedad.
+
 ## Distinciones importantes
 
 - Embriaguez física vs. embriaguez espiritual: los efectos del Espíritu en Pentecostés fueron confundidos con embriaguez (Act 2,13-15)
@@ -47,7 +52,3 @@ Santo Tomás trata la embriaguez en la cuestión 150 como vicio opuesto a la sob
 ## Referencias
 
 - [VocTeoBib, «Embriaguez»]
-
-### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
-
-Tóth conecta la embriaguez con la caída de la pureza (Cap. VI, «The Healthy Mode of Life»): «la fornicación, el vino y la embriaguez quitan el corazón». Muchos jóvenes que habían conservado su pureza durante años la perdieron cuando el vino venció su voluntad. Recalca también que, en la cama del enfermo, la fragilidad física puede favorecer pensamientos y actos impuros, por lo que conviene extremar la vigilancia en la enfermedad.

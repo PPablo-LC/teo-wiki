@@ -31,20 +31,6 @@ La formación humana incluye también la **educación de la conciencia** (PDV 47
 
 Finalmente, la formación de la **libertad interior** (PDV 48) es esencial: el candidato debe aprender a usar rectamente de su libertad, «haciendo de ella un don responsable y generoso a Cristo y a la Iglesia». La libertad interior capacita para la obediencia, la castidad y la pobreza vividas no como imposiciones externas sino como expresiones de una opción madura.
 
-## Distinciones importantes
-
-- Formación humana (fundamento) vs. formación espiritual (corazón), intelectual, pastoral: las cuatro dimensiones son inseparables
-- Madurez afectiva vs. inmadurez o infantilismo afectivo: la primera capacita para las relaciones sanas; el segundo es incompatible con el ministerio ordenado
-- Libertad interior vs. libertinaje: la libertad formada es capacidad de donación; el libertinaje es esclavitud de las pasiones
-
-## Relaciones doctrinales
-
-[[madurez_afectiva]], [[formación_espiritual]], [[formación_intelectual]], [[formación_pastoral]], [[formación_sacerdotal]], [[celibato_sacerdotal]], [[virtudes_humanas]], [[conciencia_moral]]
-
-## Ver también
-
-[[vocación_sacerdotal]], [[acompañamiento_formativo]], [[dirección_espiritual]]
-
 ### Según fuentes históricas LC-Wik (1980-1998)
 
 #### Principios y Normas — Legionarios de Cristo (1984)
@@ -67,6 +53,20 @@ Jackie François Ángel («The Art of Evangelizing the Modern Teenager») amplí
 En el contexto de la Generación Z (redes sociales, ciberacoso, porno temprano, crisis de salud mental), la formación humana integral incluye el cuidado de la salud mental —la terapia es un bien reconocible—, la interacción social en persona y el servicio voluntario. Los ministerios juveniles eficaces combinan «formación humana y formación espiritual» [EAC-12, 23].
 
 Michelle Stanford (11_science.md) refuerza desde la medicina y la psicología de base cristiana: en la ansiedad infantil y juvenil (agravada por el COVID — la respuesta post-pandémica duplicó las tasas, «epidemia dentro de una pandemia»), el trastorno de ansiedad se manifiesta como estrés dominante y preocupación magnificada, con síntomas que incluyen evitación de la escuela, explosividad, problemas de sueño, dificultad con las transiciones y quejas físicas. Los desencadenantes son la tecnología (conexiones superficiales, autoestima ligada a «me gusta» → vuelta patológica hacia uno mismo) y el aislamiento (pérdida de maestría, apoyo y confianza). El tratamiento más eficaz es la **terapia cognitivo-conductual** (CBT), que trabaja pensamientos y sentimientos para producir conductas saludables; la medicación (ISRS) es un coadyuvante de corta duración — «un yeso para una fractura»: el cerebro sana mientras aprende CBT — y los católicos pueden recurrir a orientación de base cristiana (cathmed.org, catholictherapist.com). El orden, la rutina, la gratitud y el servicio son herramientas terapéuticas reales que la fe integra con la CBT [EAC-12, 11].
+
+## Distinciones importantes
+
+- Formación humana (fundamento) vs. formación espiritual (corazón), intelectual, pastoral: las cuatro dimensiones son inseparables
+- Madurez afectiva vs. inmadurez o infantilismo afectivo: la primera capacita para las relaciones sanas; el segundo es incompatible con el ministerio ordenado
+- Libertad interior vs. libertinaje: la libertad formada es capacidad de donación; el libertinaje es esclavitud de las pasiones
+
+## Relaciones doctrinales
+
+[[madurez_afectiva]], [[formación_espiritual]], [[formación_intelectual]], [[formación_pastoral]], [[formación_sacerdotal]], [[celibato_sacerdotal]], [[virtudes_humanas]], [[conciencia_moral]]
+
+## Ver también
+
+[[vocación_sacerdotal]], [[acompañamiento_formativo]], [[dirección_espiritual]]
 
 ## Referencias
 

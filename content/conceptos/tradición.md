@@ -6,6 +6,7 @@ tags: ["dogmática", "teología_fundamental"]
 timestamp: 2026-09-12
 description: "La Tradición (con mayúscula) es la transmisión viva del Evangelio realizada por la Iglesia bajo la asistencia del [[espíritu_santo]]; hipótesis razonable a verificar según Giussani."
 ---
+
 # Tradición
 
 > Área: Dogmática / Teología Fundamental
@@ -32,14 +33,6 @@ Pablo transmite la tradición apostólica: «Os he transmitido lo que recibí de
 ### Según el Concilio Vaticano II
 
 [[dei_verbum]] §7-10 enseña que la Tradición apostólica transmite íntegramente el Evangelio: «Lo que los apóstoles transmitieron comprende todo lo necesario para una vida santa y una fe creciente del Pueblo de Dios».
-
-## Relaciones doctrinales
-
-Se relaciona con la [[tradición_apostólica]], la [[sagrada_escritura]], el [[magisterio_de_la_iglesia]], el [[depósito_de_la_fe]], la [[revelación_divina]], la [[sucesión_apostólica]] y la [[patrística]].
-
-
-- DV 7-10
-- CEC §74-100, §113
 
 ### Según Memoria e Identidad (MI)
 
@@ -73,6 +66,13 @@ Elementos centrales en REG:
 - **Tradición y [[libertad]]**: la «libertà di valorizzare la propria tradizione» es «l'aspetto più acuto della libertà culturale»; el «terrorismo culturale» que la impide es una forma de [[poder]] (16).
 - **Tradición y [[verificación]]**: la tradición es una hipótesis que el joven debe verificar en su experiencia; sin verificación no hay educación (16).
 - **Tradición y [[cultura]]**: la educación es comunicación de una tradición y de una cultura, no de instrumentos (17).
+
+## Relaciones doctrinales
+
+Se relaciona con la [[tradición_apostólica]], la [[sagrada_escritura]], el [[magisterio_de_la_iglesia]], el [[depósito_de_la_fe]], la [[revelación_divina]], la [[sucesión_apostólica]] y la [[patrística]].
+
+- DV 7-10
+- CEC §74-100, §113
 
 ## Ver también
 

@@ -6,6 +6,7 @@ tags: ["derecho_canónico"]
 timestamp: 2026-05-29
 description: "Conjunto de normas sustanciales y procesales que definen los delitos más graves (*delicta graviora*) reservados al juicio de la Congregación para la Doctrina de la Fe (hoy Dicasterio para la Doctrina)..."
 ---
+
 # Normae de gravioribus delictis
 
 > Área: Derecho Canónico
@@ -23,10 +24,6 @@ Las Normas se estructuran en dos partes. La Parte I (Normas sustanciales, arts. 
 
 Principales cambios: ampliación de la prescripción a 20 años; introducción de los *delicta contra fidem*; nuevos delitos contra la Penitencia (violación indirecta del sigilo, captación maliciosa de la confesión); atentada ordenación de mujer como delito autónomo; equiparación al menor de la persona con uso imperfecto de la razón; pornografía infantil como nuevo delito; facultad de proceder por vía extrajudicial y de presentar casos directamente al Papa para la dimisión del estado clerical.
 
-### Reforma de 2021 (Francisco)
-
-Actualización tras la promulgación de *Pascite Gregem Dei* y la reforma del Libro VI del CIC. Se armonizan las Normas con el nuevo derecho penal canónico común.
-
 ## Perspectivas por fuente
 
 ### Según las Normae de gravioribus delictis (SST-2010)
@@ -36,6 +33,10 @@ Art. 1 §1: Competencia de la CDF sobre delitos contra la fe y delitos más grav
 Art. 6 §1 n.1: Delito contra el sexto mandamiento cometido por un clérigo con un menor de 18 años (equiparada la persona con uso imperfecto habitual de la razón). n.2: Adquisición, retención o divulgación con fin libidinoso de imágenes pornográficas de menores de 14 años.
 
 Art. 7: Prescripción a 20 años; en delito del art. 6 §1 n.1, la prescripción comienza desde los 18 años de la víctima. La CDF puede derogar la prescripción para casos singulares.
+
+### Reforma de 2021 (Francisco)
+
+Actualización tras la promulgación de *Pascite Gregem Dei* y la reforma del Libro VI del CIC. Se armonizan las Normas con el nuevo derecho penal canónico común.
 
 ## Distinciones importantes
 

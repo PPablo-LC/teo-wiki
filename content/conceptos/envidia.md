@@ -6,6 +6,7 @@ tags: ["moral"]
 timestamp: 2026-10-18
 description: "La envidia es un pecado capital que consiste en la tristeza experimentada ante el bien del prójimo y el deseo desordenado de poseerlo, incluso de forma indebida."
 ---
+
 # Envidia
 
 > Área: Moral
@@ -18,6 +19,12 @@ La envidia es un pecado capital que consiste en la tristeza experimentada ante e
 ## Desarrollo doctrinal
 
 La envidia es un vicio capital que genera otros pecados: odio, maledicencia, calumnia, alegría por el mal del prójimo y tristeza por su prosperidad. Procede frecuentemente del orgullo y manifiesta una falta de benevolencia hacia el prójimo. El bautizado debe combatirla mediante la caridad, la humildad y el abandono en la providencia divina.
+
+## Perspectivas por fuente
+
+### Según el Catecismo (CEC)
+
+El CEC dedica los §§2538-2540 a la envidia. El décimo mandamiento exige que se destierre del corazón humano la envidia (§2538). Es un pecado capital que manifiesta la tristeza ante el bien del prójimo (§2539). Es un «pecado diabólico por excelencia» (San Agustín). De ella nacen el odio, la maledicencia, la calumnia, la alegría por el mal ajeno y la tristeza por su prosperidad. Representa una forma de tristeza y un rechazo de la caridad; el bautizado debe luchar mediante la benevolencia (§2540). La economía de la Ley y de la Gracia aparta el corazón de la codicia y de la envidia, iniciándolo en el deseo del Supremo Bien (§2541).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -36,13 +43,6 @@ En Ia-IIae q.36 a.1, Santo Tomás trata la envidia (*invidia*) como una especie 
 **a.3 — La envidia es pecado mortal por su género:** Se opone directamente a la caridad, que goza del bien del prójimo. Los primeros movimientos en la sensualidad sin consentimiento de la razón son veniales.
 
 **a.4 — La envidia es pecado capital:** Nace de la vanagloria. Sus hijas son: odio, murmuración, detracción (difamación), alegría por la adversidad del prójimo y aflicción por su prosperidad.
-
-## Perspectivas por fuente
-
-### Según el Catecismo (CEC)
-
-El CEC dedica los §§2538-2540 a la envidia. El décimo mandamiento exige que se destierre del corazón humano la envidia (§2538). Es un pecado capital que manifiesta la tristeza ante el bien del prójimo (§2539). Es un «pecado diabólico por excelencia» (San Agustín). De ella nacen el odio, la maledicencia, la calumnia, la alegría por el mal ajeno y la tristeza por su prosperidad. Representa una forma de tristeza y un rechazo de la caridad; el bautizado debe luchar mediante la benevolencia (§2540). La economía de la Ley y de la Gracia aparta el corazón de la codicia y de la envidia, iniciándolo en el deseo del Supremo Bien (§2541).
-
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la envidia entre los pecados opuestos a la caridad (n.367): «La envidia (que se opone al gozo espiritual por el bien del prójimo) es un feo pecado que contrista al alma por el bien del prójimo, no porque nos amenace con ello algún mal, sino porque disminuye nuestra propia gloria y excelencia. Es de suyo pecado mortal contra la caridad, que nos manda alegrarnos del bien del prójimo, siendo veniales únicamente los primeros movimientos indeliberados de la sensibilidad o los que recaen sobre cosas insignificantes.» De ella proceden, como vicio capital, el odio, la murmuración, la difamación, el gozo en las adversidades del prójimo y la tristeza en su prosperidad.
@@ -53,6 +53,10 @@ Royo Marín trata la envidia entre los pecados opuestos a la caridad (n.367): «
 
 En la homilía *Love God, Not His Benefits* (Mt 20,1-16), la envidia es el pecado que hace sonar injusta la generosidad de Dios: la queja de los primeros trabajadores no constata una injusticia —reciben lo prometido—, sino que *envidia* que el dueño sea generoso con los últimos («¿envidias porque soy generoso?», Mt 20,15). Estructura diagnóstica: la envidia nace de la **mirada comparativa**, de mirar al prójimo en vez del fin — «no mires alrededor; mira hacia arriba». Quien mantiene la mirada puesta en Dios como fin no calcula lo que otros reciben; el cálculo comparativo es síntoma de haber dejado de mirar al Amador (ver [[mirada]], [[parábola_de_los_trabajadores_de_la_viña]], [[amor_a_dios]]).
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV dedica una atención especial a la *invidia clericalis* —la envidia entre clérigos—, que describe como «una de las pandemias del clero a nivel universal». Se manifiesta cuando «un sacerdote, al ver que otro ha sido llamado a ser párroco de una parroquia más grande, más bonita, llamado a ser vicario, llamado no sé... entonces se rompen las relaciones; y no solo eso, sino también con chismes, críticas, comentarios». El Papa la identifica como una fuerza destructiva que impide «construir vínculos, puentes de amistad, de fraternidad sacerdotal». Como antídoto, propone la iniciativa personal para crear lazos de amistad y fraternidad, advirtiendo que «no sé qué es peor: si ser enemigo o ser indiferente hacia el otro» [L_XIV-ClerRom, 19.02.2026].
+
 ## Distinciones importantes
 
 - **Envidia vs. celos**: los celos pueden ser el temor de perder un bien propio; la envidia es tristeza por el bien ajeno.
@@ -62,10 +66,6 @@ En la homilía *Love God, Not His Benefits* (Mt 20,1-16), la envidia es el pecad
 ## Relaciones doctrinales
 
 La envidia se opone a la [[virtud_de_la_caridad]] y al gozo espiritual. Es hija de la [[soberbia]] y madre del [[odio]], la [[murmuración]] y la [[calumnia]]. Se relaciona con el [[demonio]] (que introdujo la muerte por envidia) y con los [[pecados_capitales]].
-
-### Según León XIV (L_XIV-ClerRom)
-
-León XIV dedica una atención especial a la *invidia clericalis* —la envidia entre clérigos—, que describe como «una de las pandemias del clero a nivel universal». Se manifiesta cuando «un sacerdote, al ver que otro ha sido llamado a ser párroco de una parroquia más grande, más bonita, llamado a ser vicario, llamado no sé... entonces se rompen las relaciones; y no solo eso, sino también con chismes, críticas, comentarios». El Papa la identifica como una fuerza destructiva que impide «construir vínculos, puentes de amistad, de fraternidad sacerdotal». Como antídoto, propone la iniciativa personal para crear lazos de amistad y fraternidad, advirtiendo que «no sé qué es peor: si ser enemigo o ser indiferente hacia el otro» [L_XIV-ClerRom, 19.02.2026].
 
 ## Ver también
 

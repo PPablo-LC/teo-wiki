@@ -6,6 +6,7 @@ tags: ["ascética", "mística"]
 timestamp: 2026-10-02
 description: "La soledad es la condición de quien permanece apartado de la compañía humana; lugar de la pregunta por el sentido y apertura al Tú absoluto según Giussani."
 ---
+
 # Soledad
 
 > Área: Ascética / Mística
@@ -51,7 +52,6 @@ Fr. Blake Britton describe una epidemia de soledad en la era digital: aunque cad
 
 **La soledad del yo ante la fe (cap. II).** La adhesión razonable a la fe —como la del niño a sus padres— se adquiere también en la soledad del juicio personal: nadie puede creer por otro, y cada hombre debe alcanzar por sí mismo los motivos de credibilidad (SR, `09_capitolo_secondo.md`, §45-63).
 
-
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte prima (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — la soledad como consecuencia del yo-misura-de-la-realidad: «si el hombre es medida de todo, es solitario, como un dios sin compañía»; Sartre: «¿mis manos, qué son mis manos? La distancia inconmensurable que me divide del mundo de los objetos y me separa de ellos para siempre» — «cada apretón aleja del objeto que se retira… una soledad abisal»; el hombre «condenado a una cierta concepción de la libertad descubre que la libertad es extrañeza: está libre para nada» (L291).
@@ -86,6 +86,10 @@ manos que se mueven o los labios que besan o el puño que alzas amenazante son t
 Es la abolición del hombre, que se reduce a ser “fragmento de la materia o ciudadano
 anónimo de la ciudad terrena”» (02, 147).
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV aborda la soledad sacerdotal como uno de los riesgos más graves del ministerio contemporáneo. Advierte a los presbíteros jóvenes que «se corre el riesgo de agotar pronto las propias energías, de acumular frustración y de caer en la soledad». Los sacerdotes ancianos también la padecen: «después de tanta gente, tanta soledad». El Papa propone como remedio la iniciativa personal para crear vínculos fraternos: «no tengamos miedo de llamar a la puerta del otro, de tomar la iniciativa». Recomienda formar grupos de fraternidad que se reúnan periódicamente en persona —«no a través de una pantalla»— para orar, estudiar y compartir la vida. Subraya que la soledad del sacerdote contrasta con la experiencia de quienes han cultivado amistades profundas durante su vida ministerial [L_XIV-ClerRom, 19.02.2026].
+
 ## Distinciones importantes
 
 - Soledad eremítica (búsqueda de Dios) vs. soledad de abandono (sufrimiento)
@@ -96,10 +100,6 @@ anónimo de la ciudad terrena”» (02, 147).
 ## Relaciones doctrinales
 
 Se relaciona con [[desierto]], [[retiro_espiritual]], [[vida_eremítica]], [[noche_oscura]], [[abandono_en_dios]], [[oración_contemplativa]], [[vocación]].
-
-### Según León XIV (L_XIV-ClerRom)
-
-León XIV aborda la soledad sacerdotal como uno de los riesgos más graves del ministerio contemporáneo. Advierte a los presbíteros jóvenes que «se corre el riesgo de agotar pronto las propias energías, de acumular frustración y de caer en la soledad». Los sacerdotes ancianos también la padecen: «después de tanta gente, tanta soledad». El Papa propone como remedio la iniciativa personal para crear vínculos fraternos: «no tengamos miedo de llamar a la puerta del otro, de tomar la iniciativa». Recomienda formar grupos de fraternidad que se reúnan periódicamente en persona —«no a través de una pantalla»— para orar, estudiar y compartir la vida. Subraya que la soledad del sacerdote contrasta con la experiencia de quienes han cultivado amistades profundas durante su vida ministerial [L_XIV-ClerRom, 19.02.2026].
 
 ## Ver también
 

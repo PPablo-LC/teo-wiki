@@ -53,6 +53,12 @@ Pitre reconstruye el trasfondo judío del Arca y lo aplica a Lucas con una preci
 
 [JRM, caps. 3; HHQ, cap. 3]
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+En la Visitación, Lucas sitúa la casa de Zacarías e Isabel en «la montaña» de Judá. Barron subraya que ningún judío del siglo primero habría pasado por alto el significado: «Era precisamente allí donde David encontró el arca, la portadora de la presencia de Dios. A esa misma montaña llega ahora María, el Arca definitiva y final de la Alianza» (AGR21, 19 de diciembre).
+
+**Consecuencias.** María trae a Dios al mundo «y lo hace, al menos en principio, un [[templo]]». Y el salto del niño en el seno de Isabel es presentado como la versión del Bautista, aún no nacido, de «la danza de David ante el Arca de la Alianza»: «su gran acto de adoración al Rey».
+
 ## Distinciones importantes
 
 - El Arca del AT contenía la presencia simbólica de Dios; María contiene la presencia real y personal de Dios, el Verbo encarnado.

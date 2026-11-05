@@ -5,6 +5,7 @@ description: "Iniciativas apostólicas fundadas por John Harvey: Courage acompa�
 tags: ["teología_pastoral", "acompañamiento", "moral_sexual"]
 timestamp: 2026-11-03
 ---
+
 # Iniciativas apostólicas: Courage y EnCourage
 
 > Área: Teología pastoral / Moral
@@ -39,47 +40,6 @@ Courage y EnCourage no son objeto de un juicio doctrinal como lo sería un
 término empírico: son iniciativas eclesiales, y lo que se juzga es su
 **fundamento** y la exactitud con que lo formulan. Ese fundamento está en el
 Catecismo, y conviene leerlo entero antes de aceptar o rechazar la propuesta.
-
-### Según el Catecismo (CEC)
-
-El punto de partida es la condición sexuada de la persona: «Corresponde a cada
-uno, hombre y mujer, reconocer y aceptar su identidad sexual» (§2333). No se
-trata de una autodefinición, sino del reconocimiento de un dato recibido; por
-eso el acompañamiento católico no puede consistir en ayudar a construir una
-identidad a medida, sino en ayudar a recibir la propia.
-
-Sobre los actos, el Catecismo es explícito: los actos homosexuales «son
-intrínsecamente desordenados», «contrarios a la ley natural», que «cierran el
-acto sexual al don de la vida» y «no pueden recibir aprobación en ningún caso»
-(§2357). Nótese el sujeto gramatical: lo que se califica de desordenado es el
-**acto**, no la persona.
-
-Sobre la persona, el párrafo siguiente es el fundamento directo de estos
-apostolados: la inclinación, «objetivamente desordenada, constituye para la
-mayoría de ellos una auténtica prueba. Deben ser acogidos con respeto,
-compasión y delicadeza. Se evitará, respecto a ellos, todo signo de
-discriminación injusta» (§2358). Acogida sin aprobación y verdad sin desprecio:
-las dos mitades de esa frase son inseparables, y un apostolado que pierda
-cualquiera de las dos deja de ser católico.
-
-El §2359 formula el programa entero, casi palabra por palabra: «Las personas
-homosexuales están llamadas a la castidad. Mediante virtudes de dominio de sí
-mismo que eduquen la libertad interior, y a veces mediante el apoyo de una
-amistad desinteresada, de la oración y la gracia sacramental, pueden y deben
-acercarse gradual y resueltamente a la perfección cristiana». Castidad, dominio
-de sí, amistad, oración, sacramentos, gradualidad y resolución: los cinco
-objetivos de Courage y el «ministerio de lágrimas» de EnCourage no son
-invención de sus fundadores, sino una concreción de ese párrafo.
-
-Para EnCourage, la tarea de los padres tiene su propio fundamento: son «los
-primeros responsables de la educación de sus hijos» (§2223), y esa educación
-exige «el aprendizaje de la abnegación, de un sano juicio, del dominio de sí,
-condiciones de toda libertad verdadera» (§2223). Educar no es administrar
-permisos ni imponer silencios: es enseñar a subordinar «las dimensiones
-“materiales e instintivas a las interiores y espirituales”» (§2223). Y, si hay
-que juzgar, el criterio es la conciencia rectamente formada: «Hay que formar la
-conciencia, y esclarecer el juicio moral» (§1783), no dejarla en la comodidad de
-lo que todos aceptan.
 
 ### Los planos del juicio
 
@@ -122,6 +82,46 @@ castidad y la amistad, no la promesa de una transformación psicológica.
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El punto de partida es la condición sexuada de la persona: «Corresponde a cada
+uno, hombre y mujer, reconocer y aceptar su identidad sexual» (§2333). No se
+trata de una autodefinición, sino del reconocimiento de un dato recibido; por
+eso el acompañamiento católico no puede consistir en ayudar a construir una
+identidad a medida, sino en ayudar a recibir la propia.
+
+Sobre los actos, el Catecismo es explícito: los actos homosexuales «son
+intrínsecamente desordenados», «contrarios a la ley natural», que «cierran el
+acto sexual al don de la vida» y «no pueden recibir aprobación en ningún caso»
+(§2357). Nótese el sujeto gramatical: lo que se califica de desordenado es el
+**acto**, no la persona.
+
+Sobre la persona, el párrafo siguiente es el fundamento directo de estos
+apostolados: la inclinación, «objetivamente desordenada, constituye para la
+mayoría de ellos una auténtica prueba. Deben ser acogidos con respeto,
+compasión y delicadeza. Se evitará, respecto a ellos, todo signo de
+discriminación injusta» (§2358). Acogida sin aprobación y verdad sin desprecio:
+las dos mitades de esa frase son inseparables, y un apostolado que pierda
+cualquiera de las dos deja de ser católico.
+
+El §2359 formula el programa entero, casi palabra por palabra: «Las personas
+homosexuales están llamadas a la castidad. Mediante virtudes de dominio de sí
+mismo que eduquen la libertad interior, y a veces mediante el apoyo de una
+amistad desinteresada, de la oración y la gracia sacramental, pueden y deben
+acercarse gradual y resueltamente a la perfección cristiana». Castidad, dominio
+de sí, amistad, oración, sacramentos, gradualidad y resolución: los cinco
+objetivos de Courage y el «ministerio de lágrimas» de EnCourage no son
+invención de sus fundadores, sino una concreción de ese párrafo.
+
+Para EnCourage, la tarea de los padres tiene su propio fundamento: son «los
+primeros responsables de la educación de sus hijos» (§2223), y esa educación
+exige «el aprendizaje de la abnegación, de un sano juicio, del dominio de sí,
+condiciones de toda libertad verdadera» (§2223). Educar no es administrar
+permisos ni imponer silencios: es enseñar a subordinar «las dimensiones
+“materiales e instintivas a las interiores y espirituales”» (§2223). Y, si hay
+que juzgar, el criterio es la conciencia rectamente formada: «Hay que formar la
+conciencia, y esclarecer el juicio moral» (§1783), no dejarla en la comodidad de
+lo que todos aceptan.
 ### Según *Living the Truth in Love* (LTL)
 
 El capítulo 16, escrito por **Robert y Susan Cavera**, es el testimonio de
@@ -146,6 +146,7 @@ discutir y empezar a amar, «pero no a costa de la verdad». Los Cavera
 recomiendan además que los sacerdotes hablen del tema en la homilía,
 recomienden terapeutas fieles a la doctrina y no publiquen las direcciones de
 las reuniones, para proteger la confidencialidad.
+
 
 ## Distinciones importantes
 

@@ -6,6 +6,7 @@ tags: ["eclesiología"]
 timestamp: 2026-08-09
 description: "Categoría bíblica y teológica para designar a la Iglesia: el nuevo pueblo reunido por Dios, que ya no se define por descendencia carnal sino por la fe en Cristo y el Bautismo."
 ---
+
 # Pueblo de Dios
 
 > Área: Eclesiología
@@ -35,6 +36,10 @@ El Compendio describe a la Iglesia como «pueblo peregrino» que se adentra en e
 
 El mandamiento del amor recíproco constituye la ley de vida del pueblo de Dios [CompDS §33]. La Iglesia, Cuerpo de Cristo, debe inspirar, purificar y elevar todas las relaciones humanas en la vida social y política. El Espíritu del Señor conduce al pueblo de Dios y llena el universo, inspirando soluciones nuevas a la creatividad responsable de los hombres [CompDS §53].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Pueblo» del VocTeoBib es una de las más extensas. Israel fue elegido por amor (Dt 7,7s), constituido en pueblo santo y reino de sacerdotes (Ex 19,6). La antigua alianza unía la realidad nacional con la trascendente, preparando la promesa del pueblo nuevo (Jer 31,31-34). En Cristo, la Iglesia es el nuevo Pueblo de Dios, formado por judíos y gentiles (Ef 2,14-16), definido no por la raza sino por la fe. La Iglesia, pueblo escatológico, peregrina hacia la patria celestial (Heb 11,13-16; Flp 3,20), siendo en la tierra «raza elegida, sacerdocio real, nación santa» (1Pe 2,9). El destino de la Iglesia presenta paralelismos con el de Israel: las mismas infidelidades, persecuciones y la necesidad de abandonar Babilonia (Ap 18,4).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 Lumen Gentium dedica el capítulo II al [[pueblo_de_dios]]. Cristo convocó un pueblo de judíos y gentiles, unificado no según la carne sino en el Espíritu, constituyendo el nuevo Pueblo de Dios [ConcVatII, LG §9]. Este pueblo mesiánico tiene por cabeza a Cristo, su condición es la dignidad y libertad de los hijos de Dios, su ley el mandato del amor, y su fin dilatar el [[reino_de_dios]] [ConcVatII, LG §9].
@@ -42,7 +47,6 @@ Lumen Gentium dedica el capítulo II al [[pueblo_de_dios]]. Cristo convocó un p
 Los bautizados son consagrados como casa espiritual y [[sacerdocio_común]], para ofrecer sacrificios espirituales [ConcVatII, LG §10]. El carácter orgánico de la comunidad sacerdotal se actualiza por los [[sacramentos]] y las virtudes [ConcVatII, LG §11]. Todo el Pueblo de Dios participa de la función profética de Cristo, y la totalidad de los fieles posee el [[sensus_fidei]] que no puede equivocarse cuando cree [ConcVatII, LG §12].
 
 El Pueblo de Dios está presente en todas las razas, y su catolicidad hace que cada parte colabore con las demás y con toda la Iglesia [ConcVatII, LG §13]. La Iglesia peregrinante es necesaria para la salvación [ConcVatII, LG §14].
-
 
 ### Según la Dives in Misericordia (DM)
 
@@ -60,16 +64,12 @@ La palabra "Iglesia" significa "convocación": designa la asamblea de aquellos a
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — «la Chiesa è un popolo: una convivenza… un ente étnico sui generis»: «el pueblo de Dios, de cuya savia vivíamos, es para nosotros un elemento eterno de pertenencia; pero si esta pertenencia no se hace "cuerpo" en un vivir común» (expressión de Pablo VI); Jesús vino a formar «un solo pueblo» —singular— donde judíos y paganos ya no se distinguen (Ef 2,14-16; Gal 3,26-29) (07, L85, L137-141).
 - **Parte seconda** — «el pueblo de Dios deviene un horizonte cultural nuevo para cada sujeto que le pertenezca»: la cultura es la respuesta del sujeto a la realidad, y los valores que definen la personalidad fluyen de la historia vivida a la que el sujeto pertenece — de ahí que «la educación a la fe es educación a una capacidad cultural» (07, L141-147).
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — la unidad del pueblo —«que todos sean uno… para que el mundo crea» (Gv 17,20-23)— es «el signo» del hecho cristiano: como Pablo VI definía a la Iglesia, «un ente étnico sui generis», un pueblo cuya sola permanencia en el tiempo «es el fenómeno más demostrativo» de la divinidad de Cristo (04, L39-55).
-## ### Según la Redemptoris Mater (RM)
-
-[JPII, Redemptoris Mater §25-28, §42-47]: María es tipo y modelo de la Iglesia como Pueblo de Dios peregrinante. La Iglesia peregrina, «en este mundo, camina entre las persecuciones del mundo y los consuelos de Dios» (LG §8), y en este caminar tiene a María como Madre y guía [RM §25-26]. El Pueblo de Dios, formado por los creyentes de todos los tiempos, se congrega en torno a la fe que María vivió de modo eminente [RM §27-28]. María es «Madre de la Iglesia» no solo porque engendró a Cristo Cabeza, sino también porque engendra espiritualmente a los miembros del Pueblo de Dios [RM §42-44]. Como Madre de la Iglesia, María camina con el Pueblo de Dios peregrinante hacia la patria celestial [RM §47].
 
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II presenta al Pueblo de Dios como el «nuevo Israel» que integra a todas las naciones. «Israel es la única nación cuya historia está en gran parte escrita en la Sagrada Escritura. Es una historia que pertenece a la Revelación divina» [MI, cap. 13]. En la «plenitud de los tiempos», el Hijo de Dios se encarnó en una hija de Israel, y su «generar por el Espíritu Santo» da origen a la filiación adoptiva.
 
 «"Todos los hombres están invitados al nuevo Pueblo de Dios […] Por tanto, el Pueblo de Dios lo forman personas de toda las naciones." Esto significa que la historia de todas las naciones está llamada a entrar en la historia de la salvación» [MI, cap. 13]. La Iglesia, «el Pueblo de Dios fundado en la Nueva Alianza, es el nuevo Israel y se presenta con un carácter de universalidad: cada nación tiene en ella el mismo derecho de ciudadanía» [MI, cap. 13].
-
 
 - CEC §781-786
 - CEC §804, 823, 831, 836
@@ -87,13 +87,13 @@ Todo el Pueblo de Dios participa en la misión profética de Cristo. Cristo ha d
 
 La Iglesia como Pueblo de Dios es también «Cuerpo Místico de Cristo» [RH §21]. La pertenencia a Él «proviene de una llamada particular, unida a la acción salvífica de la gracia». Es la comunidad de los discípulos, a cada uno de los cuales Cristo dice: «Sígueme» [RH §21]. El principio del «servicio real», según el ejemplo de Cristo que «no ha venido para ser servido, sino para servir», exige la fidelidad a la vocación recibida y lleva consigo «aquella solidaria responsabilidad por la Iglesia en la que el Concilio Vaticano II quiere educar a todos los cristianos» [RH §21].
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La entrada «Pueblo» del VocTeoBib es una de las más extensas. Israel fue elegido por amor (Dt 7,7s), constituido en pueblo santo y reino de sacerdotes (Ex 19,6). La antigua alianza unía la realidad nacional con la trascendente, preparando la promesa del pueblo nuevo (Jer 31,31-34). En Cristo, la Iglesia es el nuevo Pueblo de Dios, formado por judíos y gentiles (Ef 2,14-16), definido no por la raza sino por la fe. La Iglesia, pueblo escatológico, peregrina hacia la patria celestial (Heb 11,13-16; Flp 3,20), siendo en la tierra «raza elegida, sacerdocio real, nación santa» (1Pe 2,9). El destino de la Iglesia presenta paralelismos con el de Israel: las mismas infidelidades, persecuciones y la necesidad de abandonar Babilonia (Ap 18,4).
-
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
 
 En el elemento tercero de la catedral, la nave, León XIV describe a la Iglesia como «hogar común donde todos tienen lugar», una casa que acoge, protege y no abandona. Munilla la llama «la barca en travesía»: el pueblo de Dios en camino. La nave recuerda al sacerdote que la pila bautismal lo constituye primero como hijo del pueblo de Dios antes que como pastor: «nuestro gran tesoro es la condición de hijos, en la cual se integra nuestra paternidad». El sacerdote debe amar a la comunidad real que Dios le confía —«las personas concretas que se sientan en los bancos»— y «no soñar en otro pueblo de Dios, con más cualidades». «Amar la Iglesia abstracta es fácil, pero amar la nave concreta que Dios me confía con sus ritmos lentos, con sus heridas, esa es la verdadera caridad pastoral»; ser «pastor de rostros concretos, de sus historias, de sus heridas, de sus procesos», llamado no solo a predicar sino a escuchar [CIS, 2026].
+
+## ### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §25-28, §42-47]: María es tipo y modelo de la Iglesia como Pueblo de Dios peregrinante. La Iglesia peregrina, «en este mundo, camina entre las persecuciones del mundo y los consuelos de Dios» (LG §8), y en este caminar tiene a María como Madre y guía [RM §25-26]. El Pueblo de Dios, formado por los creyentes de todos los tiempos, se congrega en torno a la fe que María vivió de modo eminente [RM §27-28]. María es «Madre de la Iglesia» no solo porque engendró a Cristo Cabeza, sino también porque engendra espiritualmente a los miembros del Pueblo de Dios [RM §42-44]. Como Madre de la Iglesia, María camina con el Pueblo de Dios peregrinante hacia la patria celestial [RM §47].
 
 ## Distinciones importantes
 

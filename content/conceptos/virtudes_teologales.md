@@ -6,6 +6,7 @@ tags: ["moral", "dogmática"]
 timestamp: 2026-09-15
 description: "Las virtudes teologales son las tres virtudes infusas que tienen a Dios mismo como objeto inmediato: fe, esperanza y caridad."
 ---
+
 # Virtudes teologales
 
 > Área: Moral / Dogmática
@@ -48,7 +49,6 @@ El P. Jorge Loring enseña que la gracia santificante nos concede las virtudes t
 
 Estas tres virtudes tienen a Dios mismo por objeto y son infundidas con la gracia santificante. Constituyen el fundamento de toda la vida moral sobrenatural y el principio que anima todas las demás virtudes.
 
-
 ### Según Pinckaers (FMC)
 
 Pinckaers sitúa las virtudes teologales como el corazón de la moral cristiana. En su exposición de la moral según san Pablo (FMC cap. V), la fe, la esperanza y la caridad son inseparables: la fe en Cristo es la fuente de la justificación, y de ella brotan la esperanza y la caridad derramada por el Espíritu Santo (Rm 5, 1-5).
@@ -63,6 +63,9 @@ En la respuesta católica al protestantismo (FMC cap. XII:2), las virtudes teolo
 
 Las virtudes teologales —fe, esperanza y caridad— son los principios operativos inmediatos de la [[vida_cristiana]]. La vida cristiana tiene como principios operativos, además de las virtudes teologales, las virtudes morales infusas y los [[dones_del_espíritu_santo]]. La [[caridad]] unifica el conjunto del organismo sobrenatural, haciendo del amor el «lazo de la perfección». El Espíritu Santo, con sus dones, es el agente principal del progreso moral del hombre, que es su colaborador libre (Cap. I, §1a).
 
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+Las teologales (fe, esperanza, caridad) se llaman «teologales» porque su objeto es Dios, y «divinas» porque son infundidas por Él — no pueden adquirirse con fuerzas naturales. Para la felicidad sobrenatural se requiere virtud sobrenatural: «solo podemos llegar a una felicidad más que natural por alguna participación de la naturaleza divina». La fe es primera (hay que conocer antes de amar); la caridad es la raíz que perfecciona a las demás y dirige todas al último fin; no puede haber caridad sin fe y esperanza — no hay amistad con quien no se cree ni se espera. Solo la caridad puede *gozar* de Dios, que es la bienaventuranza.
 
 ## Distinciones importantes
 
@@ -75,17 +78,13 @@ Las virtudes teologales —fe, esperanza y caridad— son los principios operati
 
 Ver artículo principal: [[virtudes_infusas]]
 
-
-### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
-
-Las teologales (fe, esperanza, caridad) se llaman «teologales» porque su objeto es Dios, y «divinas» porque son infundidas por Él — no pueden adquirirse con fuerzas naturales. Para la felicidad sobrenatural se requiere virtud sobrenatural: «solo podemos llegar a una felicidad más que natural por alguna participación de la naturaleza divina». La fe es primera (hay que conocer antes de amar); la caridad es la raíz que perfecciona a las demás y dirige todas al último fin; no puede haber caridad sin fe y esperanza — no hay amistad con quien no se cree ni se espera. Solo la caridad puede *gozar* de Dios, que es la bienaventuranza.
-
 ## Analizado para
 
 - [[closing_keynote_virtuous_leader]]
 - [[john_wissler_virtuous_leadership]]
 
 ## Ver también
+
 [[virtudes_infusas]], [[virtud_de_la_fe]], [[virtud_de_la_esperanza]], [[virtud_de_la_caridad]], [[jorge_loring]]
 
 ## Referencias

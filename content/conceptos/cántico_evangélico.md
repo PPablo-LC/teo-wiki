@@ -43,6 +43,14 @@ Himno de los ángeles en la noche de Navidad, cantado por la multitud celestial 
 
 El Catecismo se refiere al Magníficat como el cántico de la Madre del Señor que expresa la acción de gracias de todo el pueblo de Dios (CEC §2619, §2679). El Benedictus es presentado como himno que anuncia la visita de Dios a su pueblo y la misión del Precursor (CEC §2619). El Nunc Dimittis expresa la realización del encuentro con Cristo en la vida del creyente (CEC §529, §713).
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**El Benedictus en la historia de Israel.** El Cántico de Zacarías (Lc 1,68-79) «sitúa a Jesús y a Juan en el contexto de la gran historia de Israel» (AGR21, 23 de diciembre). Barron recuerda que, si se recorren los textos del Antiguo Testamento —que los primeros cristianos leían a la luz de Jesús—, de Yahvé se esperaban cuatro grandes cosas: reunir las tribus dispersas de Israel, purificar el santo templo de Jerusalén, ocuparse definitivamente de los enemigos de la nación y reinar como Señor del mundo. La esperanza escatológica de profetas y salmos era que, mediante esas acciones, Yahvé purificaría a Israel y, a través de él, llevaría la salvación a todos. «Lo que dejó atónitos a los primeros seguidores de Jesús es que él llevó a cabo esas cuatro tareas, pero del modo más inesperado.»
+
+**Liberación y Salvador davídico.** Del cántico, Barron comenta dos líneas (24 de diciembre): «ha venido a su pueblo y lo ha liberado» —Dios «odia que hayamos caído en la esclavitud del pecado y del miedo», y el acontecimiento central del Antiguo Testamento es precisamente una liberación de la esclavitud— y «nos ha suscitado un Salvador poderoso, nacido de la casa de David, su siervo», que debe leerse sobre el trasfondo de la lucha militar de Israel: «ha venido un gran guerrero, y es de la casa del mayor soldado de Israel».
+
+**El habla recuperada.** El cántico brota cuando a Zacarías, mudo desde su visión en el santuario, «se le abrió la boca, se le soltó la lengua y se puso a bendecir a Dios» (23 de diciembre).
+
 ## Distinciones importantes
 
 - Cánticos evangélicos mayores (Magníficat, Benedictus, Nunc Dimittis) vs. himno angélico (Gloria)
@@ -50,7 +58,7 @@ El Catecismo se refiere al Magníficat como el cántico de la Madre del Señor q
 
 ## Relaciones doctrinales
 
-Se conecta con [[liturgia_de_las_horas]], [[laudes]], [[vísperas]], [[completas]], [[magníficat]], [[juan_bautista]], [[virgen_maría]], [[alabanza]] y [[oración_litúrgica]].
+Se conecta con [[liturgia_de_las_horas]], [[laudes]], [[vísperas]], [[completas]], [[magníficat]], [[san_juan_bautista]], [[virgen_maría]], [[alabanza]] y [[oración_litúrgica]].
 
 ## Ver también
 

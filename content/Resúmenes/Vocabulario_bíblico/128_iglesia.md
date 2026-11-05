@@ -103,7 +103,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[virginidad]] — la virginidad
 - [[matrimonio]] — el matrimonio
 - [[madre]] — la madre
-- [[juan_bautista]] — el reino
+- [[san_juan_bautista]] — el reino
 
 ## Contenido
 

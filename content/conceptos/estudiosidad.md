@@ -6,6 +6,7 @@ tags: ["moral"]
 timestamp: 2026-06-11
 description: "La estudiosidad es una virtud derivada de la [[virtud_de_la_templanza]], perteneciente a la modestia, que tiene por objeto moderar el apetito o deseo de saber según las reglas de la recta razón."
 ---
+
 # Estudiosidad
 
 > Área: Moral
@@ -27,18 +28,6 @@ Se oponen dos vicios: por exceso, la curiosidad (apetito desordenado de saber, q
 
 El CEC no trata explícitamente la estudiosidad como virtud específica, pero enseña la importancia de la formación doctrinal (§§4-10), el crecimiento en la inteligencia de la fe (§94) y la formación de la conciencia como tarea de toda la vida (§§1783-1785).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín dedica una sección a la estudiosidad (n.470, basado en S.Th., II-II, q.166). La define como virtud que modera el apetito de saber. Explica los vicios opuestos: la curiosidad (q.167), que puede desordenarse por el objeto (ciencia inútil, magia), por el fin (soberbia, pecado), o por el medio; y la negligencia. Advierte especialmente contra la curiosidad como «deseo inmoderado de saber lo que no nos interesa o puede sernos perjudicial», incluyendo la afición desmedida a novelas, espectáculos y diversiones. Afirma que estas dos cuestiones (166-167) «deberían ser objeto de frecuente meditación por todos los estudiantes».
-
-[TPCr, Tercera Parte, Libro II, Cap. 2 (n.470)]
-
-## Distinciones importantes
-
-- **Estudiosidad vs. curiosidad**: la primera ordena el saber a Dios y al bien; la segunda busca el saber por vanidad, placer o mal fin.
-- **Estudiosidad vs. negligencia**: la primera aplica el esfuerzo debido; la segunda omite el estudio necesario.
-- **Ciencia que hincha vs. ciencia que edifica**: la ciencia sin caridad lleva a la soberbia; la ciencia con caridad edifica (1 Cor 8,1).
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 166 a la estudiosidad y la 167 a la curiosidad.
@@ -50,6 +39,18 @@ Santo Tomás dedica la cuestión 166 a la estudiosidad y la 167 a la curiosidad.
 En cuanto al conocimiento, hay en el hombre una inclinación doble y opuesta:
 - Por parte del alma, tiende a desear conocer las cosas — la estudiosidad refrena este apetito (como la templanza), para no desear el conocimiento inmoderadamente.
 - Por parte del cuerpo, tiende a evitar el trabajo de buscar la ciencia — la estudiosidad estimula a vencer este obstáculo (de ahí su nombre, tomado de la aplicación del alma).
+### Según Royo Marín (TPCr)
+
+Royo Marín dedica una sección a la estudiosidad (n.470, basado en S.Th., II-II, q.166). La define como virtud que modera el apetito de saber. Explica los vicios opuestos: la curiosidad (q.167), que puede desordenarse por el objeto (ciencia inútil, magia), por el fin (soberbia, pecado), o por el medio; y la negligencia. Advierte especialmente contra la curiosidad como «deseo inmoderado de saber lo que no nos interesa o puede sernos perjudicial», incluyendo la afición desmedida a novelas, espectáculos y diversiones. Afirma que estas dos cuestiones (166-167) «deberían ser objeto de frecuente meditación por todos los estudiantes».
+
+[TPCr, Tercera Parte, Libro II, Cap. 2 (n.470)]
+
+
+## Distinciones importantes
+
+- **Estudiosidad vs. curiosidad**: la primera ordena el saber a Dios y al bien; la segunda busca el saber por vanidad, placer o mal fin.
+- **Estudiosidad vs. negligencia**: la primera aplica el esfuerzo debido; la segunda omite el estudio necesario.
+- **Ciencia que hincha vs. ciencia que edifica**: la ciencia sin caridad lleva a la soberbia; la ciencia con caridad edifica (1 Cor 8,1).
 
 ## Relaciones doctrinales
 

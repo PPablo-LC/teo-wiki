@@ -6,6 +6,7 @@ tags: ["dogmática", "ascética"]
 timestamp: 2026-08-18
 description: "Proceso de santificación por el cual el creyente, movido por la gracia, se configura con Cristo y alcanza la plenitud de la vida cristiana."
 ---
+
 # Sanctificatio
 
 > Área: Dogmática / Ascética
@@ -19,7 +20,7 @@ La *sanctificatio* es el proceso de santificación por el cual el creyente, movi
 
 La santificación no es un logro humano sino una obra de la gracia divina que requiere la cooperación libre del hombre. La tradición teológica distingue las vías purgativa, iluminativa y unitiva como etapas del proceso de santificación, en el que la gracia santificante va transformando al alma participándole de la naturaleza divina.
 
-## Perspectivas por fuente — WoF-5
+## Perspectivas por fuente
 
 ### Según Wolff
 
@@ -28,6 +29,8 @@ La santificación no es un logro humano sino una obra de la gracia divina que re
 ### Según Stroud
 
 **Stroud** afirma que la satisfacción del instinto y la vida carnal se redirige hacia Dios: el principio más fundamental de la vida católica es objectify your body so you can order your desires towards God. La objetivación del propio cuerpo —entendido como templo del Espíritu Santo— permite reconocer los deseos no como fines en sí mismos sino como fuerzas que deben ser ordenadas hacia Dios. La santificación requiere que el hombre tome posesión consciente de su propia corporalidad para someterla al designio divino.
+
+## Perspectivas por fuente — WoF-5
 
 ## Ver también
 

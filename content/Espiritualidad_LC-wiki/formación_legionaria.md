@@ -6,6 +6,7 @@ tags: ["espiritualidad", "vida_consagrada"]
 timestamp: 2026-06-13
 description: "La formación legionaria es el proceso de configuración con Cristo mediante el cual la Legión de Cristo forma a sus miembros —desde la etapa inicial hasta la madurez religiosa y sacerdotal—..."
 ---
+
 # Formación legionaria
 
 > Área: Espiritualidad / Vida consagrada
@@ -73,6 +74,20 @@ La formación inicial de los legionarios ha evolucionado profundamente en los ú
 
 **Formación inicial con vistas a la misión.** La formación capacita al legionario para dar razón de su fe (1 P 3,15), dialogar con el mundo y proponer la racionalidad del mensaje cristiano [CapGral-2026, n. 112].
 
+### Según el Capítulo General CapGral-2020
+
+El Capítulo General de 2020 dedica la sección «La formación inicial: Nos revela el amor de su Corazón y nos forma» [CapGral-2020, §§62-72] a la formación legionaria.
+
+**Santidad como meta (§§62-63).** La formación tiene como objetivo principal la identificación con Jesucristo. «En la Legión deseamos luchar con pasión por la santidad» [CapGral-2020, §62]. Los profundos cambios socioculturales y el proceso de renovación institucional han exigido adaptaciones, manteniendo la continuidad en lo esencial.
+
+**Con la mirada en la misión (§64).** «Toda la formación del legionario ha de tener un enfoque apostólico, orientada a comunicar a Cristo y su mensaje» (CLC 100). La mirada se dirige a la Iglesia y al mundo a quienes se está llamado a servir.
+
+**Ratio institutionis (§§65-66).** La CVV, aprobada por este Capítulo, ofrece una guía segura y un camino pedagógico. Su implementación es un proceso que requiere tiempo, atención y evaluación constante.
+
+**Enfoque pedagógico (§§67-69).** Se propone una pedagogía basada en la interiorización de la identidad, la personalización del ideal legionario y el arte del discernimiento espiritual. Se subraya la importancia de las relaciones y la vida en comunidad como lugar de crecimiento en la madurez afectiva.
+
+**Itinerario formativo (§§70-72).** Se considera acertada la opción de que la profesión perpetua se haga ordinariamente en la casa de formación. Se prefiere favorecer la estabilidad, pidiendo al gobierno general que siga evaluando los frutos de las opciones tomadas.
+
 ## Distinciones importantes
 
 - Formación inicial (etapas de candidatado, noviciado, humanidades, filosofía, teología, prácticas apostólicas) vs. formación permanente
@@ -87,20 +102,6 @@ Se relaciona con [[formación]] (concepto general), [[sacerdocio]], [[vida_consa
 ## Ver también
 
 [[formación]], [[sacerdocio]], [[discernimiento]], [[promoción_vocacional]], [[ratio_studiorum]], [[perfil_intelectual_legionario]]
-
-### Según el Capítulo General CapGral-2020
-
-El Capítulo General de 2020 dedica la sección «La formación inicial: Nos revela el amor de su Corazón y nos forma» [CapGral-2020, §§62-72] a la formación legionaria.
-
-**Santidad como meta (§§62-63).** La formación tiene como objetivo principal la identificación con Jesucristo. «En la Legión deseamos luchar con pasión por la santidad» [CapGral-2020, §62]. Los profundos cambios socioculturales y el proceso de renovación institucional han exigido adaptaciones, manteniendo la continuidad en lo esencial.
-
-**Con la mirada en la misión (§64).** «Toda la formación del legionario ha de tener un enfoque apostólico, orientada a comunicar a Cristo y su mensaje» (CLC 100). La mirada se dirige a la Iglesia y al mundo a quienes se está llamado a servir.
-
-**Ratio institutionis (§§65-66).** La CVV, aprobada por este Capítulo, ofrece una guía segura y un camino pedagógico. Su implementación es un proceso que requiere tiempo, atención y evaluación constante.
-
-**Enfoque pedagógico (§§67-69).** Se propone una pedagogía basada en la interiorización de la identidad, la personalización del ideal legionario y el arte del discernimiento espiritual. Se subraya la importancia de las relaciones y la vida en comunidad como lugar de crecimiento en la madurez afectiva.
-
-**Itinerario formativo (§§70-72).** Se considera acertada la opción de que la profesión perpetua se haga ordinariamente en la casa de formación. Se prefiere favorecer la estabilidad, pidiendo al gobierno general que siga evaluando los frutos de las opciones tomadas.
 
 ## Referencias
 

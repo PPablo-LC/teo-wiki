@@ -6,6 +6,7 @@ tags: ["espiritualidad", "vida_consagrada"]
 timestamp: 2026-06-28
 description: "La vida fraterna en la vida religiosa es la comunidad de hermanos reunidos por Cristo, que viven juntos la oración, la vida común y la misión."
 ---
+
 # Vida fraterna religiosa
 
 > Área: Espiritualidad / Vida consagrada
@@ -89,6 +90,20 @@ El P. Gianfranco Ghirlanda, S.J., en su conferencia «Vida fraterna en común y 
 
 **Aplicación a la LC.** En el contexto de la renovación LC 2010-2014, esta síntesis doctrinal fundamentó la reforma de la vida fraterna en la Congregación, permitiendo superar las deficiencias heredadas (individualismo, autoritarismo, eficientismo) y recuperar la centralidad de la comunión fraterna como signo del Reino.
 
+### Según el Capítulo General CapGral-2020
+
+El comunicado capitular de 2020 aborda la vida fraterna en dos registros complementarios.
+
+**Unidad en la diversidad (§§47-50).** En el contexto de la identidad legionaria, el Capítulo afirma que la Legión «está aprendiendo una forma de unidad, en la que todos estamos en camino, en la que cabe la diversidad en ciertos ámbitos, y esta, si se vive con madurez, nos enriquece» [CapGral-2020, §47]. Se exhorta a seguir aprendiendo el arte de la escucha, la confianza, el respeto y la atención a la sensibilidad de los demás, también entre diversas generaciones y culturas, unidos en la común voluntad de ser santos legionarios.
+
+**Vida fraterna en comunidad (§103).** En la sección sobre formación permanente, se recuerda que «la vida fraterna en común tiene un papel esencial en el desarrollo de la formación permanente. La comunidad, reunida en torno a la Eucaristía, vive el misterio de la comunión en sus dos dimensiones: el amor a Dios y a los hermanos» [CapGral-2020, §103, citando CLC 52]. Se advierte contra deficiencias como el individualismo, la tendencia a dejarse absorber por el ministerio y la reducción de la vida común a una mera obligación disciplinar.
+
+### Según el Encuentro con Cristo en el Regnum Christi (RC-EcC-2022)
+
+El [[encuentro_con_cristo|Encuentro con Cristo]] es un acto eclesial y comunitario que presupone y alimenta la fraternidad cristiana. El presupuesto básico para su aprovechamiento es que «las personas reunidas cultiven una amistad cristiana entre sí, por la que tengan la necesaria benevolencia y confianza recíproca para escucharse y expresarse con sinceridad, libertad y caridad». La actividad misma, vivida «en un clima cordial, distendido y alegre», ha de favorecer y alimentar esta amistad que es concreción de la fraternidad cristiana en el Regnum Christi [RC-EcC-2022, Parte III, «Fraternidad cristiana»].
+
+La dimensión comunitaria del encuentro se fundamenta en la experiencia de los discípulos de Emaús (Lc 24,13-35): juntos tuvieron el corazón ardiente, juntos escucharon la Palabra, y juntos fueron enviados. Reunirse en torno a la Palabra de Dios es «un acto eclesial, pues Jesucristo es la cabeza de la Iglesia como cuerpo constituido por una multitud de miembros» [RC-EcC-2022, Parte II, «La dimensión comunitaria del encuentro con Cristo»].
+
 ## Distinciones importantes
 
 - La vida fraterna no es mera coexistencia ni organización funcional: es compartir la vida en Cristo
@@ -104,20 +119,6 @@ Se relaciona con [[vida_consagrada]], [[comunión]], [[caridad]], [[oración]], 
 ## Ver también
 
 [[vida_consagrada]], [[comunión]], [[proyecto_comunitario]], [[discernimiento_comunitario]], [[caridad]], [[cristocentrismo_legionario]]
-
-### Según el Capítulo General CapGral-2020
-
-El comunicado capitular de 2020 aborda la vida fraterna en dos registros complementarios.
-
-**Unidad en la diversidad (§§47-50).** En el contexto de la identidad legionaria, el Capítulo afirma que la Legión «está aprendiendo una forma de unidad, en la que todos estamos en camino, en la que cabe la diversidad en ciertos ámbitos, y esta, si se vive con madurez, nos enriquece» [CapGral-2020, §47]. Se exhorta a seguir aprendiendo el arte de la escucha, la confianza, el respeto y la atención a la sensibilidad de los demás, también entre diversas generaciones y culturas, unidos en la común voluntad de ser santos legionarios.
-
-**Vida fraterna en comunidad (§103).** En la sección sobre formación permanente, se recuerda que «la vida fraterna en común tiene un papel esencial en el desarrollo de la formación permanente. La comunidad, reunida en torno a la Eucaristía, vive el misterio de la comunión en sus dos dimensiones: el amor a Dios y a los hermanos» [CapGral-2020, §103, citando CLC 52]. Se advierte contra deficiencias como el individualismo, la tendencia a dejarse absorber por el ministerio y la reducción de la vida común a una mera obligación disciplinar.
-
-### Según el Encuentro con Cristo en el Regnum Christi (RC-EcC-2022)
-
-El [[encuentro_con_cristo|Encuentro con Cristo]] es un acto eclesial y comunitario que presupone y alimenta la fraternidad cristiana. El presupuesto básico para su aprovechamiento es que «las personas reunidas cultiven una amistad cristiana entre sí, por la que tengan la necesaria benevolencia y confianza recíproca para escucharse y expresarse con sinceridad, libertad y caridad». La actividad misma, vivida «en un clima cordial, distendido y alegre», ha de favorecer y alimentar esta amistad que es concreción de la fraternidad cristiana en el Regnum Christi [RC-EcC-2022, Parte III, «Fraternidad cristiana»].
-
-La dimensión comunitaria del encuentro se fundamenta en la experiencia de los discípulos de Emaús (Lc 24,13-35): juntos tuvieron el corazón ardiente, juntos escucharon la Palabra, y juntos fueron enviados. Reunirse en torno a la Palabra de Dios es «un acto eclesial, pues Jesucristo es la cabeza de la Iglesia como cuerpo constituido por una multitud de miembros» [RC-EcC-2022, Parte II, «La dimensión comunitaria del encuentro con Cristo»].
 
 ## Referencias
 

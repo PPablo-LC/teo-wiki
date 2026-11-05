@@ -25,6 +25,16 @@ La veracidad implica también el deber del testimonio de la fe, que puede llegar
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La virtud de la veracidad da justamente al prójimo lo que le es debido (§2469). El hombre busca naturalmente la verdad y tiene la obligación moral de hacerlo, sobre todo respecto a la verdad religiosa; está obligado a adherirse a la verdad una vez conocida y a ordenar toda su vida según sus exigencias (§2467).
+
+Ofensas contra la verdad: el falso testimonio y el perjurio (§2476), el juicio temerario, la maledicencia y la calumnia (§2477-2479), la adulación (§2480), la vanagloria y la ironía malévola (§2481), y la mentira como ofensa más directa contra la verdad (§2482-2483).
+
+La mentira es «una verdadera violencia hecha a los demás» (§2486). Es funesta para toda sociedad porque socava la confianza entre los hombres y rompe el tejido de las relaciones sociales. Toda falta contra la justicia y la verdad entraña el deber de reparación (§2487).
+
+El derecho a la comunicación de la verdad no es incondicional: la caridad, el respeto de la vida privada y el bien común pueden exigir callar lo que no debe ser conocido (§2488-2492).
+
 ### Según la Summa Theologiae (SmTh)
 
 La verdad como virtud moral (veracidad) es el hábito por el que el hombre manifiesta exteriormente, con palabras y obras, lo que lleva en su interior, guardando la debida igualdad entre el signo y lo significado (q.109 a.1). No es virtud teologal ni intelectual, sino **moral**, porque su objeto es el uso de signos exteriores, que competen a las virtudes morales en cuanto sometidos al imperio de la voluntad (q.109 a.1 ad 3). Ocupa el justo medio: por parte del objeto, la igualdad misma entre lo dicho y lo real; por parte del acto, decir la verdad cuando y como conviene (q.109 a.1).
@@ -36,18 +46,6 @@ Es **parte de la justicia** como virtud secundaria aneja a la principal (q.109 a
 Propende a **decir menos** de lo que hay, no por falsedad (negar lo que se tiene sería mentira), sino por aminorar prudentemente las propias cualidades, evitando la molestia que causan los fanfarrones (q.109 a.4). Esta propensión a rebajarse se funda en que «lo más incluye lo menos», y es más segura por la modestia y prudencia, siguiendo el ejemplo del Apóstol (2 Cor 12,6).
 
 [SmTh IIa-IIae q.109 a.1-4]
-
-## Perspectivas por fuente
-
-### Según el Catecismo (CEC)
-
-La virtud de la veracidad da justamente al prójimo lo que le es debido (§2469). El hombre busca naturalmente la verdad y tiene la obligación moral de hacerlo, sobre todo respecto a la verdad religiosa; está obligado a adherirse a la verdad una vez conocida y a ordenar toda su vida según sus exigencias (§2467).
-
-Ofensas contra la verdad: el falso testimonio y el perjurio (§2476), el juicio temerario, la maledicencia y la calumnia (§2477-2479), la adulación (§2480), la vanagloria y la ironía malévola (§2481), y la mentira como ofensa más directa contra la verdad (§2482-2483).
-
-La mentira es «una verdadera violencia hecha a los demás» (§2486). Es funesta para toda sociedad porque socava la confianza entre los hombres y rompe el tejido de las relaciones sociales. Toda falta contra la justicia y la verdad entraña el deber de reparación (§2487).
-
-El derecho a la comunicación de la verdad no es incondicional: la caridad, el respeto de la vida privada y el bien común pueden exigir callar lo que no debe ser conocido (§2488-2492).
 
 ### Según Royo Marín (TPCr)
 

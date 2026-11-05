@@ -41,7 +41,7 @@ Al pueblo nuevamente cautivo en Babilonia se le anuncia la liberación como una 
 
 ### NT
 
-La tradición apostólica, viendo en [[juan_bautista|Juan]] Bautista «la voz de aquel que clama: En el desierto preparad el camino del Señor» *Mt 3,3 p* *Is 40,3*, afirmó que la obra de [[redención|redención]] efectuada por Cristo era el cumplimiento del misterio de salvación prefigurado por el éxodo; consideró a Jesús como el nuevo [[moisés|Moisés]] anunciado por *Dt 18,18* *Act 3,15.22* *5,31* *7,35ss*.
+La tradición apostólica, viendo en [[san_juan_bautista|Juan]] Bautista «la voz de aquel que clama: En el desierto preparad el camino del Señor» *Mt 3,3 p* *Is 40,3*, afirmó que la obra de [[redención|redención]] efectuada por Cristo era el cumplimiento del misterio de salvación prefigurado por el éxodo; consideró a Jesús como el nuevo [[moisés|Moisés]] anunciado por *Dt 18,18* *Act 3,15.22* *5,31* *7,35ss*.
 
 #### 1. San Pablo.
 

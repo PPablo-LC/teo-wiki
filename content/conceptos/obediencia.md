@@ -6,6 +6,7 @@ tags: ["moral", "ascética"]
 timestamp: 2026-10-02
 description: "La obediencia es la virtud moral que inclina la voluntad a cumplir los mandatos de la autoridad legítima por consideración a Dios."
 ---
+
 # Obediencia
 
 > Área: Moral / Ascética
@@ -128,17 +129,6 @@ pobreza es la condición para dilatar el Reino de Dios. […] La riqueza es dila
 propio reino, la riqueza es poseer, es decir, dilatar el propio reino, mientras la
 pobreza es la condición para dilatar el Reino de Dios en el mundo» (02, 251).
 
-## Distinciones importantes
-
-- Obediencia a Dios (absoluta) vs. obediencia a los hombres (relativa, limitada por la ley de Dios).
-- Obediencia de la fe (asentimiento a la Revelación) vs. obediencia moral (cumplimiento de preceptos).
-- Obediencia ciega (en materia no dudosa, propia de religiosos) vs. obediencia discreta.
-- Obediencia activa vs. obediencia pasiva (aceptación de la voluntad de Dios en lo que no se manda).
-
-## Denzinger
-
-D-41 (Clemente I): la Carta a los Corintios amonesta a la sedición y recuerda la obediencia debida a los presbíteros legítimamente constituidos, como ordenación divina para la paz de la Iglesia.
-
 ### Según La Regla de San Benito (RegSB)
 
 La Regla hace de la obediencia la piedra angular de la vida monástica:
@@ -160,10 +150,20 @@ La Hna. Mary Madeline Todd OP («Freedom in Obedience») plantea la pregunta cen
 - **El voto como empeñamiento de la libertad:** votar obediencia no pierde la libertad, la compromete — análogo al matrimonio: «todo compromiso bien ordenado limita opciones mientras expande el amor». Lewis (*Los cuatro amores*): quien encierra su corazón en el ataúd del egoísmo para no perderlo lo vuelve irrompible e irredimible; solo el amor libra de la prisión existencial del egoísmo.
 - **Conclusión:** «el acto más libre no es el más autónomo sino el más donante»; Cristo, que sudó sangre y aun así dijo sí al Padre (Jn 10,18), muestra hasta dónde puede aspirar la libertad humana.
 
+## Distinciones importantes
+
+- Obediencia a Dios (absoluta) vs. obediencia a los hombres (relativa, limitada por la ley de Dios).
+- Obediencia de la fe (asentimiento a la Revelación) vs. obediencia moral (cumplimiento de preceptos).
+- Obediencia ciega (en materia no dudosa, propia de religiosos) vs. obediencia discreta.
+- Obediencia activa vs. obediencia pasiva (aceptación de la voluntad de Dios en lo que no se manda).
+
+## Denzinger
+
+D-41 (Clemente I): la Carta a los Corintios amonesta a la sedición y recuerda la obediencia debida a los presbíteros legítimamente constituidos, como ordenación divina para la paz de la Iglesia.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_obediencia]], [[humildad]], [[estado_religioso]] y [[cristo]].
-
 
 ## Analizado para
 
@@ -174,6 +174,7 @@ Se relaciona con [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_o
 - [[caperucita_roja]] — obediencia parcial de la niña: cumple la letra del mandato pero desobedece el espíritu de protección
 
 ## Ver también
+
 [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_obediencia]], [[humildad]]
 
 ## Referencias

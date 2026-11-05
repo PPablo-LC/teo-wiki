@@ -133,6 +133,12 @@ Tóth dedica la cuarta parte de su obra («Cristo entre nosotros») a la adoraci
 
 **Efectos.** El Santísimo es «central eléctrica del cristianismo»: la visita es acumulador matinal y válvula nocturna; el secreto de la santidad según Mercier son «cinco minutos diarios de silencio con el Espíritu Santo» [EMA, cap. 14]. La adoración repara las irreverencias que Cristo soporta y transforma las espinas de la corona «en flores»; nadie sale igual — como los Magos, regresa «por otro camino» (Mt 2,12) [EMA, cap. 15]. Con el campesino del cura de Ars: «Yo le miro, Él me mira» [EMA, cap. 16].
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+Barron recomienda «la disciplina clásicamente católica de la adoración eucarística» como modo concreto de encarnar la espiritualidad del Adviento (AGR21, 28 de noviembre). Pasar media hora o una hora en presencia del Señor «no es lograr ni alcanzar gran cosa —no es realmente “llegar” a ninguna parte—, pero es una forma particularmente rica de espera espiritual».
+
+**El ejercicio propuesto.** Traer a Cristo el problema o dilema que nos preocupa y decirle: «Señor, espero que tú lo resuelvas, que me muestres la salida, el camino hacia adelante. He estado corriendo, planificando, preocupándome, pero ahora voy a dejarte actuar»; después, a lo largo del Adviento, «vigilar atentamente las señales». Y, al orar ante la Eucaristía, dejar que se intensifique el deseo de las cosas de Dios: «Señor, hazme capaz de recibir los dones que quieres darme», o incluso «Señor Jesús, sorpréndeme».
+
 ## Distinciones importantes
 
 - **Adoración eucarística vs. comunión**: una es culto de presencia, la otra es recepción sacramental

@@ -84,18 +84,6 @@ Ratzinger fórmula en el archivo 10 (*The Way of Peace* / una homilía de Navida
 
 En el archivo 06, la violencia queda ligada al embotamiento de la conciencia y la adoración eucarística aparece como su antídoto: «Cristo entra en el corazón de nuestros hermanos y visita su conciencia. Cuando la conciencia se embota, entra la violencia que asola el mundo. Quien mira el rostro del Señor verá en él el espejo de nuestra violencia, y su conciencia se purificará» (GINU, archivo 06). La adoración, la justicia y la paz convergen: quien contempla a Cristo aprende la medida de la verdadera paz, «que la ira y la violencia asolan».
 
-## Distinciones importantes
-
-- La paz cristiana no es pasividad o indiferencia, sino fruto de la victoria sobre el pecado.
-- Se distingue de la mera tranquilidad psicológica o estoica.
-- La paz perfecta es propia de los perfectos en la vía unitiva.
-
-## Relaciones doctrinales
-
-Se relaciona con [[frutos_del_espíritu_santo]], [[caridad]], [[don_de_sabiduría]], [[bienaventuranzas]], [[perfección_cristiana]], [[justicia]].
-
-## Perspectivas por fuente
-
 8. Las demás fuentes
 
 ### Robert Barron, *2 Samuel* (Brazos, 2015)
@@ -109,6 +97,16 @@ Barron conecta el tema de la paz con la figura de David y su reinado, ofreciendo
 3. **Paz interior en medio del conflicto**: A pesar de las guerras civiles, los secuestros (Absalón), y los asesinatos (Abimelech), David experimenta una paz interior que proviene de su relación con Dios. Barron conecta esto con la enseñanza de Agustín: la inquietud del corazón encuentra reposo solo en Dios. La eleja de David "Canción del Arco" sobre Saúl y Jonatán, lamentando en lugar de glorificar la victoria, es un modelo de duelo virtuoso y paz espiritual ante la pérdida trágica.
 
 Este tratamiento de la paz en 2 Samuel enriquece la doctrina católica al mostrar que la paz verdadera no es ausencia de tensión, sino presencia de Dios en medio de la tensión.
+
+## Distinciones importantes
+
+- La paz cristiana no es pasividad o indiferencia, sino fruto de la victoria sobre el pecado.
+- Se distingue de la mera tranquilidad psicológica o estoica.
+- La paz perfecta es propia de los perfectos en la vía unitiva.
+
+## Relaciones doctrinales
+
+Se relaciona con [[frutos_del_espíritu_santo]], [[caridad]], [[don_de_sabiduría]], [[bienaventuranzas]], [[perfección_cristiana]], [[justicia]].
 
 ## Ver también
 

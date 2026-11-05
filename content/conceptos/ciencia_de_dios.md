@@ -57,6 +57,18 @@ Santo Tomás trata la ciencia de Dios en SmTh Iª q.14, con dieciséis artículo
 
 **a.16 — La ciencia de Dios es especulativa y práctica:** Es especulativa en cuanto Dios se conoce a sí mismo; es práctica en cuanto conoce lo que puede hacer, pues su ciencia es causa de las cosas. Pero en Él no hay distinción real entre ambas.
 
+### Según Robert Barron (Thomas Aquinas: Spiritual Master)
+
+Barron advierte que quien lee la cuestión 14 debe recordar lo que Tomás entiende por «conocer»: no una intelección racional distante y académicamente respetable, sino experiencia y participación personal. Preguntar si Dios tiene ciencia equivale, en su pluma, a preguntar hasta qué punto Dios se experimenta a sí mismo y al mundo que ha hecho (TAM, cap. 2).
+
+El *Sed contra* del primer artículo aduce Rom 11,33 —«¡Oh profundidad de la riqueza, de la sabiduría y de la ciencia de Dios!»—, y el contexto importa: Pablo canta esas profundidades precisamente para frenar la tendencia del hombre a situarse por encima de Dios, pues sigue «¿quién ha sido su consejero?». Negar a Dios el conocimiento es, sutilmente, afirmar la propia superioridad sobre lo divino (TAM, cap. 2).
+
+El argumento del *Respondeo* es elegante: un ser inteligente se distingue de uno no inteligente por el «alcance» de su ser. Una piedra posee una sola forma, la suya; una mente, en cambio, puede «asumir» las formas de muchas cosas, y por eso Tomás la llama *quodammodo omnia*, un teatro donde cabe todo un repertorio de formas. Lo que confiere esa capacidad es la inmaterialidad; y siendo Dios sumamente inmaterial, ocupa el grado supremo del conocimiento. Puede entrar en otro y conocerlo desde dentro, de modo que su presencia en las cosas no es solo ontológica sino personal: las conoce, como decía Agustín, mejor de lo que ellas se conocen (TAM, cap. 2).
+
+Sobre el artículo quinto —cómo conoce Dios el mundo— Barron subraya la consecuencia espiritual: Dios se aprehende a sí mismo y, en ese mismo acto, comprende todo lo que ha hecho en cuanto participa de él; ve el universo a través de sí mismo, desde el prisma de su ser. Su conocimiento del mundo no lo perfecciona, porque las imágenes de las cosas creadas están en la mente divina «antes» que las cosas mismas, como sus arquetipos: no conoce porque el mundo exista, sino que el mundo existe porque Dios lo conoce (TAM, cap. 2).
+
+De ahí el diagnóstico de Barron sobre la mente caída: la que pierde la visión del mundo en su hondura divina, sea por un empirismo y un materialismo excesivos que desdeñan la dimensión espiritual, sea por una atención exclusiva a lo finito que ya no percibe lo infinito que acecha en todo. Conocer el mundo rectamente es verlo con los ojos de Dios, a través del «velo» de su ser. Y como la mente es una de las armas más poderosas del yo que se auto-eleva —analiza, descompone y acaba manipulando, sin perdonar a Dios mismo—, la relación justa con Dios consiste en dejarse conocer por el poder infinito que nos crea sin cesar (TAM, cap. 2).
+
 ## Distinciones importantes
 
 - **Ciencia de visión vs. ciencia de simple inteligencia**: la primera se refiere a lo que es, fue o será; la segunda, a lo posible que nunca será.

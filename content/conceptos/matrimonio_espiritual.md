@@ -28,6 +28,9 @@ El alma tiene conciencia de que las tres Personas divinas inhabitan permanenteme
 ### Según el Catecismo (CEC)
 
 El CEC §260-261, sobre la inhabitación de la Trinidad en el alma justa, proporciona el fundamento teológico. El §2014-2016, sobre la perfección de la caridad, es la base moral.
+### Según el Código de Derecho Canónico (CIC)
+
+Este concepto pertenece a la teología mística y no debe confundirse con el matrimonio canónico regulado en los cánones 1055-1165. El CIC no trata del matrimonio espiritual como realidad mística o sobrenatural; el matrimonio de que habla el derecho canónico es la alianza entre varón y mujer elevada a sacramento (c. 1055), con propiedades esenciales de unidad e indisolubilidad (c. 1056). La terminología «matrimonio espiritual» en la tradición mática (Santa Teresa, San Juan de la Cruz) designa la unión transformante del alma con Dios, un estado de oración y perfección, no una realidad jurídico-sacramental.
 ### Según Royo Marín (TPCr)
 
 El matrimonio espiritual es el noveno grado de oración de la clasificación general (n.591). Sus notas esenciales son: transformación total en el Amado, mutua entrega indisoluble, y unión permanente de amor. Los efectos principales son paz imperturbable, ausencia de éxtasis violentos, olvido de sí mismo y deseo de padecer.
@@ -44,12 +47,6 @@ San Juan de la Cruz piensa que este estado nunca acaece sin que el alma esté co
 ## Relaciones doctrinales
 
 Es la culminación de la [[vía_unitiva]] y de los [[grados_de_oración]]. Presupone la [[noche_del_espíritu]] y el [[desposorio_espiritual]].
-
-## Perspectivas por fuente
-
-### Según el Código de Derecho Canónico (CIC)
-
-Este concepto pertenece a la teología mística y no debe confundirse con el matrimonio canónico regulado en los cánones 1055-1165. El CIC no trata del matrimonio espiritual como realidad mística o sobrenatural; el matrimonio de que habla el derecho canónico es la alianza entre varón y mujer elevada a sacramento (c. 1055), con propiedades esenciales de unidad e indisolubilidad (c. 1056). La terminología «matrimonio espiritual» en la tradición mática (Santa Teresa, San Juan de la Cruz) designa la unión transformante del alma con Dios, un estado de oración y perfección, no una realidad jurídico-sacramental.
 
 ## Ver también
 

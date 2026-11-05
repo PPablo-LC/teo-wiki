@@ -37,23 +37,6 @@ libertad; su crisis moderna es la ideología de la autoinvención.
   dar raíces (recepción) y alas (vocación); el testimonio de los santos
   muestra identidades forjadas en la fidelidad, no en la improvisación.
 
-### Según *The Epiphany of Love* (EPL)
-
-Melina (Cap. V) presenta la identidad como vocación: la identidad personal se descubre en la vocación y en la relación con Cristo. La identidad no es auto-construida, sino recibida en la vocación.
-
-### Según *Living the Truth in Love* (LTL)
-
-[[bob_schuchts]] describe el paso de la identidad falsa —construida sobre la
-herida, el miedo y la **[[vergüenza]]**— a la identidad verdadera recibida en
-Cristo, con el ejemplo de Pedro (Jn 21). Rachel Lu distingue atracción,
-conducta e **[[identidad_sexual]]**, y muestra que la ecuación entre ellas es
-una construcción cultural reciente. [[deborah_savage]] añade, con Juan Pablo
-II, que la identidad incluye el cuerpo y que la experiencia vivida debe ser
-interpretada, no absolutizada. La conclusión del volumen es que ninguna
-inclinación agota a la persona: antes que «gay» o «heterosexual», el bautizado
-es hijo de Dios, y esa **[[identidad_cristiana]]** es la que permite habitar
-la propia historia sin negarla ni dejar que la defina.
-
 ## Distinciones importantes
 
 - **Identidad** (unidad personal estable) ≠ **roles** (funciones
@@ -72,6 +55,25 @@ la propia historia sin negarla ni dejar que la defina.
 [[persona_humana]], [[imagen_de_dios]], [[filiación_divina]],
 [[dignidad_humana]], [[cultura_de_la_autoinvención]], [[identidad_cristiana]],
 [[vocación]], [[trinidad]]
+
+## Perspectivas por fuente
+
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Cap. V) presenta la identidad como vocación: la identidad personal se descubre en la vocación y en la relación con Cristo. La identidad no es auto-construida, sino recibida en la vocación.
+
+### Según *Living the Truth in Love* (LTL)
+
+[[bob_schuchts]] describe el paso de la identidad falsa —construida sobre la
+herida, el miedo y la **[[vergüenza]]**— a la identidad verdadera recibida en
+Cristo, con el ejemplo de Pedro (Jn 21). Rachel Lu distingue atracción,
+conducta e **[[identidad_sexual]]**, y muestra que la ecuación entre ellas es
+una construcción cultural reciente. [[deborah_savage]] añade, con Juan Pablo
+II, que la identidad incluye el cuerpo y que la experiencia vivida debe ser
+interpretada, no absolutizada. La conclusión del volumen es que ninguna
+inclinación agota a la persona: antes que «gay» o «heterosexual», el bautizado
+es hijo de Dios, y esa **[[identidad_cristiana]]** es la que permite habitar
+la propia historia sin negarla ni dejar que la defina.
 
 ## Referencias
 

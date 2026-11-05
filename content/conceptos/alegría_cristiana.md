@@ -6,6 +6,7 @@ tags: ["ascética", "espiritualidad"]
 timestamp: 2026-08-31
 description: "Gozo interior y sobrenatural que brota de la respuesta generosa a la llamada de Dios y de la coherencia de la entrega total a Cristo."
 ---
+
 # Alegría cristiana
 
 > Área: Ascética / Espiritualidad
@@ -78,12 +79,6 @@ Su fuente es la vida espiritual: «para el alma que ama a Dios y tiene su concie
 
 Giussani presenta la *letizia* como «un lascito di Gesù»: «Vi ho detto tutto quello che vi ho detto perché la mía gioia sia in voi e la vostra gioia sia piena» (Gv 15,11), palabras pronunciadas «poche ore prima d'essere fatto prigioniero e ammazzato». La letizia, afirma, «può esser data solo da una chiarezza, da qualcosa che al cuore appare chiaro, cui il cuore può accedere con umiltà, riconoscendo i propri limiti»; su fuente es «questa compagnia, che da Cristo proviene», en la que se realiza «un'opera che eccede le mani che la fanno, le mani umane che la compiono» (TACDC, 04, L33).
 
-## Distinciones importantes
-
-- **Alegría cristiana** (gozo de la entrega generosa a Dios y de la coherencia con su llamada) vs. **alegría espiritual** (fruto del Espíritu Santo, gozo de la posesión de Dios en general)
-- Alegría cristiana no excluye el sufrimiento: es compatible con la purificación y la cruz
-- Alegría vocacional (discernimiento y respuesta a la llamada) es una modalidad específica
-
 ### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
 
 El número 14 de la revista completa la definición de alegría cristiana distinguiéndola de la mera felicidad emocional:
@@ -93,6 +88,12 @@ El número 14 de la revista completa la definición de alegría cristiana distin
 - **La alegría como gracia que ve con los ojos de Dios (Gadberry):** «La alegría es la gracia que nos permite ver las cosas desde la perspectiva de Dios»; «Si quieres mera satisfacción, haz lo que quieras; si deseas alegría, haz lo que exige el amor» [EAC-14, 17_feature_gadberry.md].
 - **Dios vivo y amante como fundamento último (Britton):** «¡Soy amado! Pase lo que pase, ¡soy amado!» y «Dios está vivo y te ama. Por eso reímos». La alegría cristiana no es optimismo sino certeza del amor divino [EAC-14, 18_special_feature_britton.md].
 - **El «ya sí/no aún» del peregrino (Baird):** podemos «ser gozosos mientras sentimos» felicidad o tristeza, pues la alegría verdadera se ancla en la promesa «yo estoy con vosotros todos los días» (Mt 28,20) más allá de las alternancias emocionales [EAC-14, 14_feature_baird.md].
+
+## Distinciones importantes
+
+- **Alegría cristiana** (gozo de la entrega generosa a Dios y de la coherencia con su llamada) vs. **alegría espiritual** (fruto del Espíritu Santo, gozo de la posesión de Dios en general)
+- Alegría cristiana no excluye el sufrimiento: es compatible con la purificación y la cruz
+- Alegría vocacional (discernimiento y respuesta a la llamada) es una modalidad específica
 
 ## Analizado en contexto cultural
 

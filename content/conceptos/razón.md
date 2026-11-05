@@ -6,6 +6,7 @@ tags: ["dogmática", "filosofía"]
 timestamp: 2026-09-12
 description: "La razón (del latín *ratio*) es la facultad del hombre por la que conoce lo verdadero, discierne el bien del mal, y se eleva al conocimiento de Dios y de las realidades sobrenaturales."
 ---
+
 # Razón
 
 > Área: Dogmática / Filosofía
@@ -66,13 +67,6 @@ La encíclica *Fides et Ratio* enseña que fe y razón son como dos alas con las
 - No se puede separar la *ratio* del *affectus*: es la **[[libertad]]** la que puede arrancar el afecto de la razón (Tischreden 139, 09).
 - El verdadero problema es la **definición de razón** (realismo, razonabilidad, moralidad), contra la «ragione sopra ragione» ideológica (09, 15).
 
-## Distinciones importantes
-
-- **Razón natural**: capacidad de conocer verdades accesible a la naturaleza humana sin revelación
-- **Razón faith**: la razón illuminada por la fe
-- **Fe y razón**: dos órdenes de conocimiento distintos pero complementarios
-- **Recta razón** (*recta ratio*): la razón que obra conforme a la verdad y al bien
-
 ### Según EAC-16 — Word on Fire Institute
 
 **La primacía del logos sobre el ethos (Roland Millare sobre Romano Guardini).** La tesis de Guardini sobre la primacía del logos («palabra», «razón», «sentido», «ser») sobre el ethos («ética», «acción», «hacer») tuvo un impacto muy significativo en la teología logos-céntrica de Joseph Ratzinger / Benedicto XVI [EAC-16, 08_minds.md]. En *El fin del mundo moderno*, Guardini presenta la modernidad como caracterizada por una subordinación del logos al ethos, que ha conducido a la autonomía de la política, la alienación del hombre, la reducción de la libertad a licencia y la entronización de la técnica.
@@ -125,6 +119,13 @@ Elementos centrales en REG:
 - **Razón y [[fe]]**: la fe no es un salto irracional, sino una adhesión
   razonable que se verifica en la [[experiencia]]; la razón es la medida
   del «proprio» del hombre (09).
+
+## Distinciones importantes
+
+- **Razón natural**: capacidad de conocer verdades accesible a la naturaleza humana sin revelación
+- **Razón faith**: la razón illuminada por la fe
+- **Fe y razón**: dos órdenes de conocimiento distintos pero complementarios
+- **Recta razón** (*recta ratio*): la razón que obra conforme a la verdad y al bien
 
 ## Relaciones doctrinales
 

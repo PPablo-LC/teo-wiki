@@ -49,6 +49,20 @@ a.8 — Dios no entra en la composición de ningún ser. Refuta tres errores his
 
 Royo Marín explica que la razón humana puede alcanzar que Dios es "uno, Creador de todo cuanto existe, y precisar algunos de sus atributos más sublimes: su inmensidad, eternidad, simplicidad e infinita perfección" (TPCr, Primera Parte, Cap. II, art. 1). Al hablar de la vida íntima de Dios, afirma que en las procesiones divinas "no se da sucesión alguna, ni prioridad o posterioridad, ni composición de acto y de potencia, ni movimiento, ni diversidad alguna de tiempo o de naturaleza" (TPCr, Primera Parte, Cap. II, art. 1). La simplicidad divina es presupuesto para entender que en Dios la acción de entender, amar y ser son una misma realidad.
 
+### Según Robert Barron (Thomas Aquinas: Spiritual Master)
+
+Barron lee la cuestión 3 como una «antidoctrina»: no un catálogo de atributos, sino el despliegue sistemático de lo que Dios no es. Como un escultor, Tomás retira de nuestra noción de Dios todo lo que huele a criatura, a finito, a particular. Su teología respira el espíritu de los profetas, empeñados ante todo en vencer el peligro de la idolatría (TAM, cap. 2).
+
+Lo que la simplicidad entraña es que lo divino no es ningún tipo de ente, ninguna instancia particular del ser, sino el acto mismo de existir: «Dios no es esto ni aquello; Dios simplemente es». Tomás lo muestra por *via remotionis*, negando toda cualidad que convertiría a Dios en algo semejante a una criatura (TAM, cap. 2).
+
+Los dos primeros artículos niegan que Dios sea cuerpo: la materia es por naturaleza maleable, cambiable, potencial, y Dios es el primer motor inmóvil. A primera vista la observación parece banal, pero cobra fuerza contra el trasfondo idolátrico: poner a Dios en la categoría de lo material no es un mero error intelectual, sino la expresión de una orientación espiritual perversa, el deseo de controlar lo divino y ponerse por encima de él. En sentido simbólico, toda criatura debe ser «encarnada» ante el Dios plenamente espiritual, es decir, maleable, pasiva, receptiva (TAM, cap. 2).
+
+El artículo decisivo es el de la identidad de esencia y existencia. En toda realidad finita hay distinción real entre la *quidditas* —la forma que determina qué tipo de ser es algo— y el *esse* —el acto concreto por el que la cosa es—: un ser limitado es aquel cuyo acto de existir ha sido «vertido» en el molde de una esencia. Dios, en cambio, no recibe el ser de otro; existe simplemente porque es su naturaleza existir, y por eso todas las demás realidades existen *en* y *por* Dios, como participantes de su actualidad (TAM, cap. 2).
+
+Barron conecta esta tesis con el nombre revelado en Éx 3,14. Moisés preguntaba «¿qué dios eres?», queriendo distinguirlo de la multitud de los dioses; la respuesta «Yo soy el que soy» implica que el Dios verdadero no es una divinidad entre muchas, ni siquiera el ser supremo por encima de las demás cosas, sino el Ser mismo. Es el principio antiidolátrico en acto: si Dios es el puro acto de ser, necesariamente estoy en relación con él, y aun huyendo de él «en él vivimos, nos movemos y existimos» (Hch 17,28) (TAM, cap. 2).
+
+El quinto artículo, que niega que Dios pueda situarse en un género, confirma la misma dirección: quien imagina poder clasificar a Dios se coloca en una posición superior a él, y el teólogo que lo encaja en la casilla lógica correcta afirma sutilmente su dominio de lo divino, que no es sino la suprema fantasía del yo pecador. «Yo soy el que soy» sería entonces la negativa a quedar atrapado en la pregunta y un desafío a las presuposiciones de quien la formula (TAM, cap. 2). Barron cierra la sección con Tillich: frente al Dios concebido como un extraño o un ser supremo distante, Tomás coincide en verlo como raíz y fundamento de nuestro ser, desmontando la mitología del «ser supremo» que opone y hace competir a Dios con el mundo (TAM, cap. 2; cf. [[trascendencia_no_competitiva]]).
+
 ## Distinciones importantes
 
 - **Composición física**: Dios no tiene partes extensas ni cuantitativas. No es corpóreo.

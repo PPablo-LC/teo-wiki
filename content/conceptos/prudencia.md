@@ -6,6 +6,7 @@ tags: ["moral"]
 timestamp: 2026-11-02
 description: "La prudencia es la primera y principal de las virtudes cardinales, virtud infusa que reside en la razón práctica."
 ---
+
 # Prudencia
 
 > Área: Moral
@@ -54,15 +55,16 @@ Tod Worner («Midnight Oil»), Justin Kalan («Science: A Primer on AI») y Fr. 
 
 Melina (Introducción) menciona la prudencia como virtud que guía la acción práctica. La prudencia es la virtud que permite discernir la verdad sobre el bien en situaciones concretas.
 
-## Relaciones doctrinales
-
-Ver artículo principal: [[virtud_de_la_prudencia]]
-
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 La prudencia no es ser bueno *en* algo (marinero, electricista, violinista) sino vivir bien la vida entera. Delibera sobre los medios (no elige el fin) y aplica los principios morales a las circunstancias: equilibra bienes en conflicto (los de la familia y los de los demás), obra sin precipitación ni por impulso repentino ni por parcialidad. Es la más alta de las morales, «porque el bien de la razón es el bien del hombre»; y está gobernada por la razón, mientras la caridad lo está por la sabiduría.
 
+## Relaciones doctrinales
+
+Ver artículo principal: [[virtud_de_la_prudencia]]
+
 ## Ver también
+
 [[virtud_de_la_prudencia]], [[virtudes_cardinales]], [[virtudes_infusas]], [[don_de_consejo]], [[imprudencia]], [[negligencia]], [[astucia]], [[humor]]
 
 ## Analizado en contexto cultural

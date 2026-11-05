@@ -29,17 +29,15 @@ El CEC enseña que la imagen sagrada representa principalmente a Cristo, y que t
 
 Royo Marín trata las imágenes sagradas en el contexto de los sacramentales y la piedad cristiana, señalando la utilidad de las imágenes sensibles para la meditación y el culto, así como los fenómenos místicos relacionados con su veneración (TPCr, Cuarta Parte, Cap. II).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Alejandro VIII** (1690, D‑1315) — Decreto del Santo Oficio contra errores jansenistas: «Es ilícito al cristiano colocar en el templo la imagen de Dios Padre [Viva: sentado].» Condenada. La condena reafirma la licitud de colocar imágenes de Dios Padre en los templos, conforme a la tradición y disciplina de la Iglesia, que admite representaciones simbólicas de la Primera Persona de la Trinidad.
+
 ## Distinciones importantes
 
 - Adoración (latría): solo a Dios, y a Cristo representado en imágenes
 - Veneración (dulía): a los santos y ángeles representados
 - Hiperdulía: a la Santísima Virgen María
-
-## Perspectivas por fuente
-
-### Según el Enchiridion Symbolorum (Denzinger)
-
-**Alejandro VIII** (1690, D‑1315) — Decreto del Santo Oficio contra errores jansenistas: «Es ilícito al cristiano colocar en el templo la imagen de Dios Padre [Viva: sentado].» Condenada. La condena reafirma la licitud de colocar imágenes de Dios Padre en los templos, conforme a la tradición y disciplina de la Iglesia, que admite representaciones simbólicas de la Primera Persona de la Trinidad.
 
 ## Relaciones doctrinales
 

@@ -33,13 +33,13 @@ El Concilio Vaticano II (Optatam Totius 16) pidió una renovación de la teolog�
 
 Tóth señala que la **moral** católica se fundamenta en [[dios]] como verdad eterna. La [[razón]] conoce la [[ley_natural]], pero se requiere la [[gracia]] divina para cumplirla. Sin Dios como fundamento absoluto, toda ética deviene en relativismo y anarquía moral. La moral religiosa es la única que puede fundamentar el deber en principios verdaderos y últimos. La vida moral del creyente tiene su raíz en la unión con Cristo [JvC-Rel, Archivos 02, 03].
 
-## Relaciones
-
-Se relaciona con [[teología_moral]], [[moral_fundamental]], [[moral_de_la_obligación]], [[norma_moral]], [[conciencia]], [[virtud]], [[ley_natural]], [[gracia]]
-
 ### Según *The Epiphany of Love* (EPL)
 
 Melina (Introducción) presenta la moral como pregunta por «quién soy llamado a ser». La moral no es una lista de principios, sino una luz que ilumina la plenitud de la acción en el misterio de Cristo.
+
+## Relaciones
+
+Se relaciona con [[teología_moral]], [[moral_fundamental]], [[moral_de_la_obligación]], [[norma_moral]], [[conciencia]], [[virtud]], [[ley_natural]], [[gracia]]
 
 ## Ver también
 

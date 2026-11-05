@@ -6,6 +6,7 @@ tags: ["eclesiología", "cristología", "iglesia", "caridad"]
 timestamp: 2026-07-15
 description: "La Iglesia como Cuerpo de Cristo — comunión de los fieles unidos a Cristo como cabeza, con diversidad de miembros y carismas."
 ---
+
 # Cuerpo místico de Cristo
 
 > Área: Eclesiología / Cristología
@@ -58,6 +59,10 @@ Giussani identifica el misterio de la Iglesia con el Cuerpo místico: «il miste
 
 Lo tangible de esta realidad se expresa con 1 Jn 1,1-3 —«Quello che noi abbiamo udito, quello che noi abbiamo visto, quello che noi abbiamo toccato del Verbo della vita»— y hace de la Iglesia «il mistero della Chiesa, corpo místico di Cristo» (TACDC, 02, 215). Por eso perseguir a los creyentes es perseguir a Cristo: «Saulo, Saulo, perché mi perseguiti?» es «il corpo místico di Cristo che bussa alla porta della nostra vita» (TACDC, 02, 223; At 9,4; Ap 3,20). De esta unión nace «un insieme vivente nuovo che diventa protagonista della storia, diventa lo strumento di Cristo» (TACDC, 03, 285), en el que cada grupo es un aspecto del cuerpo de Cristo dentro de la gran unidad de la Iglesia (TACDC, 01, 51).
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC define el «Corpo misterioso di Cristo» como la tercera fisonomía del único fenómeno eclesial: «storicamente parlando questa realtà si chiama 'Chiesa', sociologicamente parlando 'popolo di Dio', ontologicamente parlando... 'Corpo misterioso di Cristo'» (Parte I, cap. 2). Giussani recupera la idea hebrea de «corpo», que indica también lo que el hombre produce — el hijo es cuerpo de los padres, la obra hace cuerpo con el artista —: Cristo «investe così profondamente l'uomo che egli è parte di Lui, fa corpo con Lui»; las experiencias humanas más intensas (artística, afectiva) son presentimientos de esa unidad concreta. La energía con que Cristo debe poseer la historia «afferra il credente in modo tale da assimilarlo come parte del mistero della Sua stessa persona»: lo documenta el encuentro de Damascus (At 9,4: «perché mi perseguiti?» — y no había conocido a Cristo: perseguía a los que creían en Él), que Pablo expresará después con «Noi, pur essendo molti, siamo un corpo solo» (1 Cor 10,17), la imagen mediterránea de la vite (Gv 15,5) y la expresión más bella del método del anuncio: lo que las manos tocaron de la Palabra de vida (1 Gv 1,1-3).
+
 ## Distinciones importantes
 
 - **Cuerpo místico vs. estructura institucional**: la Iglesia es simultáneamente Cuerpo místico (unión vital con Cristo) e institución jerárquica visible; no son realidades separadas, sino dos dimensiones de una misma realidad (CEC §771-780).
@@ -76,10 +81,6 @@ Lo tangible de esta realidad se expresa con 1 Jn 1,1-3 —«Quello che noi abbia
 - La [[comunión_de_los_santos]] es la trama concreta de la fraternidad que edifica el Cuerpo místico## Ver también
 
 [[cabeza_de_la_iglesia]], [[caridad]], [[iglesia]], [[comunión_de_los_santos]], [[eucaristía]], [[espíritu_santo]], [[voto_privado]], [[unidad_y_caridad]]
-
-### Giussani — Perché la Chiesa (PLDC)
-
-PLDC define el «Corpo misterioso di Cristo» como la tercera fisonomía del único fenómeno eclesial: «storicamente parlando questa realtà si chiama 'Chiesa', sociologicamente parlando 'popolo di Dio', ontologicamente parlando... 'Corpo misterioso di Cristo'» (Parte I, cap. 2). Giussani recupera la idea hebrea de «corpo», que indica también lo que el hombre produce — el hijo es cuerpo de los padres, la obra hace cuerpo con el artista —: Cristo «investe così profondamente l'uomo che egli è parte di Lui, fa corpo con Lui»; las experiencias humanas más intensas (artística, afectiva) son presentimientos de esa unidad concreta. La energía con que Cristo debe poseer la historia «afferra il credente in modo tale da assimilarlo come parte del mistero della Sua stessa persona»: lo documenta el encuentro de Damascus (At 9,4: «perché mi perseguiti?» — y no había conocido a Cristo: perseguía a los que creían en Él), que Pablo expresará después con «Noi, pur essendo molti, siamo un corpo solo» (1 Cor 10,17), la imagen mediterránea de la vite (Gv 15,5) y la expresión más bella del método del anuncio: lo que las manos tocaron de la Palabra de vida (1 Gv 1,1-3).
 
 ## Referencias
 

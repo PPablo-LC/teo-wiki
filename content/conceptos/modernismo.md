@@ -17,20 +17,6 @@ El **modernismo** es un sistema de errores doctrinales que pretende conciliar el
 
 ## Desarrollo doctrinal
 
-### Según la Pascendi, el modernista se compone de varias personas:
-
-1. **Filósofo modernista**: parte del agnosticismo (la razón no puede conocer a Dios), al que añade la inmanencia vital (la religión nace de una necesidad divina en la subconciencia). La fe es reducida a un sentimiento religioso subconsciente; la revelación se identifica con ese mismo sentimiento.
-
-2. **Creyente modernista**: afirma la realidad objetiva de lo divino basándose en la «experiencia religiosa» individual, no en el testimonio histórico objetivo.
-
-3. **Teólogo modernista**: considera que el dogma es un símbolo mutable del sentimiento religioso, no una verdad objetiva. El dogma «evoluciona» al cambiar el sentimiento religioso.
-
-4. **Historiador y crítico modernista**: aplica el agnosticismo a la historia de Cristo, negando su divinidad, su conciencia mesiánica, la historicidad de los milagros y la resurrección. Cristo es solo un hombre cuyo recuerdo fue «transfigurado» por la comunidad.
-
-5. **Apologista modernista**: la apologética se funda en la experiencia interna, no en los motivos externos de credibilidad (milagros, profecías).
-
-6. **Reformador modernista**: busca transformar la Iglesia según las exigencias de la sociedad moderna, sometiendo el dogma a evolución y democratizando la estructura eclesiástica.
-
 ### Errores condenados en Lamentabili (65 proposiciones)
 
 El decreto *Lamentabili* condena proposiciones sobre:
@@ -53,6 +39,20 @@ Alfred Loisy (exégesis bíblica), George Tyrrell (teología), Edouard Le Roy (f
 
 - D‑2001–D‑2065a: Decreto *Lamentabili* (65 proposiciones condenadas)
 - D‑2071–D‑2108: Encíclica *Pascendi* (exposición y condena del modernismo)
+
+### Según la Pascendi, el modernista se compone de varias personas:
+
+1. **Filósofo modernista**: parte del agnosticismo (la razón no puede conocer a Dios), al que añade la inmanencia vital (la religión nace de una necesidad divina en la subconciencia). La fe es reducida a un sentimiento religioso subconsciente; la revelación se identifica con ese mismo sentimiento.
+
+2. **Creyente modernista**: afirma la realidad objetiva de lo divino basándose en la «experiencia religiosa» individual, no en el testimonio histórico objetivo.
+
+3. **Teólogo modernista**: considera que el dogma es un símbolo mutable del sentimiento religioso, no una verdad objetiva. El dogma «evoluciona» al cambiar el sentimiento religioso.
+
+4. **Historiador y crítico modernista**: aplica el agnosticismo a la historia de Cristo, negando su divinidad, su conciencia mesiánica, la historicidad de los milagros y la resurrección. Cristo es solo un hombre cuyo recuerdo fue «transfigurado» por la comunidad.
+
+5. **Apologista modernista**: la apologética se funda en la experiencia interna, no en los motivos externos de credibilidad (milagros, profecías).
+
+6. **Reformador modernista**: busca transformar la Iglesia según las exigencias de la sociedad moderna, sometiendo el dogma a evolución y democratizando la estructura eclesiástica.
 
 ## Distinciones importantes
 

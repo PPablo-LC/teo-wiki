@@ -99,6 +99,14 @@ Pitre reconstruye la lógica bíblica del dogma a partir de la tipología Eva-Ma
 
 [JRM, cap. 2]
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+En la solemnidad del 8 de diciembre, Barron parte del anuncio del ángel a María —«el Espíritu Santo vendrá sobre ti y el poder del Altísimo te cubrirá con su sombra»— para mostrar la conexión entre la Inmaculada y la maternidad espiritual: «Las dos personas necesarias para la Encarnación fueron el Espíritu Santo y la Madre bendita» (AGR21, 8 de diciembre).
+
+**María, madre de los miembros de Cristo.** Al hacerse madre de Cristo, María sería por extensión «madre de todos los miembros de su Cuerpo Místico a través del espacio y del tiempo»; y así como el Espíritu y la Virgen fueron necesarios para la Encarnación histórica, «esos mismos dos agentes son necesarios para hacer nacer a Cristo en nuestras almas».
+
+**El ritmo del Magníficat.** La Inmaculada Concepción aparece además como una de las verdades iluminadas por el «ritmo de magnificar y ser magnificada»: en el cántico, María «queda engrandecida en el mismo acto de engrandecerlo», y ese ritmo es «la clave para entender todo lo de María, desde su maternidad divina hasta su Asunción y su Inmaculada Concepción» (22 de diciembre).
+
 ## Distinciones importantes
 - **Inmaculada Concepción**: María fue concebida sin pecado original
 - **Concepción virginal**: Jesús fue concebido por obra del Espíritu Santo sin intervención de varón

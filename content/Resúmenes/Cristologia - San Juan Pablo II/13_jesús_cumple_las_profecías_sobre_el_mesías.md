@@ -14,7 +14,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "profecías", "m
 
 - [[cumplimiento_profético]] — Jesús como plenitud de las profecías
 - [[messías]] — Esperanza de Israel
-- [[juan_bautista]] — Precursor que señala al Mesías
+- [[san_juan_bautista]] — Precursor que señala al Mesías
 - [[pedro]] — Primera profesión de fe: «Tú eres el Cristo»
 
 ## Contenido

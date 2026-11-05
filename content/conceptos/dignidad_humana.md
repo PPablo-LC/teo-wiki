@@ -3,13 +3,14 @@ type: Concepto Teológico
 title: Dignidad humana
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-11-02
+timestamp: 2026-11-04
 description: "La dignidad humana es el valor intrínseco e inalienable de la persona humana por el hecho de haber sido creada a imagen y semejanza de Dios."
 ---
+
 # Dignidad humana
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-04
 
 ## Definición
 
@@ -35,11 +36,22 @@ La [[libertad_humana]] es «un componente esencial de la dignidad humana. El hom
 
 «El honor es el testimonio social dado a la dignidad humana y cada uno posee un derecho natural al honor de su nombre, a su reputación y a su respeto» (§2479).
 
+El fundamento último está en la creación: de todas las criaturas visibles «sólo el hombre es "capaz de conocer y amar a su Creador"»; es «la única criatura en la tierra a la que Dios ha amado por sí misma» y está llamado a participar, por el conocimiento y el amor, en la vida de Dios, y «ésta es la razón fundamental de su dignidad» (§356). De ahí la fórmula decisiva: «Por haber sido hecho a imagen de Dios, el ser humano tiene la dignidad de persona; no es solamente algo, sino alguien. Es capaz de conocerse, de poseerse y de darse libremente y entrar en comunión con otras personas» (§357). Ese «alguien» no es un alma encerrada en un cuerpo: la persona es «un ser a la vez corporal y espiritual» (§362), y «el cuerpo del hombre participa de la dignidad de la "imagen de Dios"» (§364), porque la unidad de alma y cuerpo es tan profunda que el alma es la «forma» del cuerpo y con él constituye una única naturaleza (§365). El alma espiritual es creada directamente por Dios e inmortal (§366). Hombre y mujer son queridos con «una perfecta igualdad en tanto que personas humanas» y con «una dignidad que nunca se pierde, que viene inmediatamente de Dios su creador» (§369).
+
+La dignidad se despliega en la vida moral. En Cristo, «imagen del Dios invisible», el hombre ha sido creado a imagen y semejanza del Creador, y la imagen divina alterada por el pecado «ha sido restaurada en su belleza original y ennoblecida con la gracia de Dios» (§1701); por eso «Cristo (…) manifiesta plenamente el hombre al propio hombre y le descubre la grandeza de su vocación» (§1701, citando GS 22). Dotada de alma «espiritual e inmortal», la persona es «la única criatura en la tierra a la que Dios ha amado por sí misma», destinada desde su concepción a la bienaventuranza eterna (§1703). Su libertad es «signo eminente de la imagen divina» (§1705), y «el ejercicio de la vida moral proclama la dignidad de la persona humana» (§1706). Esa dignidad no queda intacta en su ejercicio: «El hombre, herido en su naturaleza por el pecado original, está sujeto al error e inclinado al mal en el ejercicio de su libertad» (§1714), de donde la necesidad de la gracia.
+
+La dignidad se manifiesta también en el modo de tratar la vida cuando es más frágil. Es legítimo interrumpir tratamientos «onerosos, peligrosos, extraordinarios o desproporcionados a los resultados» —rechazo del «encarnizamiento terapéutico»—, sin pretender con ello provocar la muerte (§2278); pero «aunque la muerte se considere inminente, los cuidados ordinarios debidos a una persona enferma no pueden ser legítimamente interrumpidos», y el uso de analgésicos que alivian el sufrimiento del moribundo «puede ser moralmente conforme a la dignidad humana si la muerte no es pretendida, ni como fin ni como medio», de modo que «los cuidados paliativos constituyen una forma privilegiada de la caridad desinteresada» (§2279).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El derecho canónico traduce esa igualdad de dignidad en igualdad jurídica: «Por su regeneración en Cristo, se da entre todos los fieles una verdadera igualdad en cuanto a la dignidad y acción, en virtud de la cual todos, según su propia condición y oficio, cooperan a la edificación del Cuerpo de Cristo» (c. 208). De la dignidad de la persona derivan derechos que el Código protege expresamente: «A nadie le es lícito lesionar ilegítimamente la buena fama de que alguien goza, ni violar el derecho de cada persona a proteger su propia intimidad» (c. 220); nadie puede ser coaccionado en la elección de su estado de vida (c. 219); los fieles tienen derecho a una educación cristiana que los instruya «en orden a conseguir la madurez de la persona humana» (c. 217) y a tributar culto a Dios según las normas del propio rito aprobado por los legítimos Pastores (c. 214).
+
 ### Según el Compendio (CompDS)
 
 La Iglesia ve en cada hombre la imagen viva de Dios mismo, que encuentra su plena razón de ser en Cristo [CompDS §105]. La inviolable dignidad de la persona humana es el principio del que se desarrolla toda la doctrina social [CompDS §107]. Una sociedad justa puede realizarse solo en el respeto de la dignidad trascendente de la persona humana, que es el fin último de la sociedad [CompDS §132]. La persona no puede ser instrumentalizada para fines ajenos a su propio desarrollo, que solo puede realizar plenamente en Dios [CompDS §133]. «Dios no hace acepción de personas» (Hch 10,34): todos los hombres tienen la misma dignidad de criaturas a su imagen y semejanza [CompDS §144]. La Encarnación del Hijo de Dios manifiesta la igualdad de todas las personas en cuanto a dignidad [CompDS §144]. Solo el reconocimiento de la dignidad humana hace posible el crecimiento común y personal de todos [CompDS §145].
 
 La dignidad del trabajo se funda en su dimensión subjetiva: la persona es la medida de la dignidad del trabajo, que impide considerarlo como una simple mercancía [CompDS §270-272]. El trabajo es un derecho fundamental y un bien para el hombre, porque expresa y acrecienta la dignidad humana [CompDS §287]. La dignidad de la mujer en el ámbito laboral exige que el trabajo se estructure de manera que no deba pagar su promoción con el abandono de su carácter específico [CompDS §295]. Los derechos de los trabajadores se basan en la naturaleza de la persona humana y en su dignidad trascendente [CompDS §301]. La remuneración debe permitir al hombre y a su familia una vida digna [CompDS §302]. La persona humana tiene necesidades que van más allá del «tener», porque su naturaleza y su vocación están en relación inseparable con el Trascendente [CompDS §318]. Las personas constituyen el patrimonio más valioso de la empresa [CompDS §344]. Los países ricos, aun en medio de la abundancia de bienes materiales, pueden experimentar una alienación y pérdida de la propia humanidad [CompDS §374].
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 La dignidad de la persona humana tiene su fundamento en haber sido creada «a imagen de Dios» (GS 12), con capacidad para conocer y amar a su Creador, constituida señor de la creación visible. El hombre es superior al universo material por su interioridad espiritual; su alma es inmortal (GS 14). La razón más alta de su dignidad consiste en la vocación a la unión con Dios (GS 19). «En realidad, el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado» (GS 22): Cristo, el nuevo Adán, revela plenamente el hombre al propio hombre. La dignidad humana requiere que el hombre actúe según su conciencia y libre elección (GS 17). El Concilio proclama que «todo cuanto atenta contra la vida... cuanto viola la integridad de la persona humana... cuanto ofende a la dignidad humana... son prácticas infamantes, degradan la civilización humana» (GS 27). La igualdad fundamental entre todos los hombres exige reconocimiento creciente; toda discriminación por motivos de sexo, raza, color, condición social o religión debe ser eliminada (GS 29).
@@ -120,10 +132,13 @@ ODPC funda la dignidad humana en la dependencia directa de la persona respecto d
 
 El pudor y la modestia han de estar «hondamente arraigados en el respeto del propio cuerpo y de la dignidad de los demás» (SHVS 56). En la cultura del placer «la mujer puede llegar a ser un objeto para el hombre, los hijos un obstáculo para los padres» (SHVS 11); el desorden en el uso del sexo hace «del placer —en vez del don sincero de sí— el fin de la sexualidad, y reduce a las otras personas a objetos para la propia satisfacción» (SHVS 105). Una sana cultura del cuerpo lleva «a la aceptación de sí como don y como encarnación de un espíritu llamado a la apertura hacia Dios y hacia la sociedad» (SHVS 106); la educación se sitúa plenamente en el horizonte de la «civilización del amor» (SHVS 60).
 
-
 ### Según *The Epiphany of Love* (EPL)
 
 Melina (Cap. V, Introducción) presenta la dignidad humana como fundamento de la moral. La persona humana tiene una dignidad inviolable que se manifiesta en la acción. La moral cristiana respeta y promueve la dignidad humana.
+
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+Bobby Ángel cita a Viktor Frankl (*Man's Search for Meaning*) al tratar la comedia frente al problema del mal: «El hombre inventó las cámaras de gas de Auschwitz; pero también es ese ser que entró en ellas erguido, con el Padrenuestro o el Shemá Israel en los labios». La dignidad humana permanece incluso en el abismo del mal: libertad y sentido sobreviven al sufrimiento extremo, y con ellas el humor como una de las formas de esa última libertad interior.
 
 ## Distinciones importantes
 
@@ -138,17 +153,13 @@ Melina (Cap. V, Introducción) presenta la dignidad humana como fundamento de la
 - Exige respeto a la [[libertad_humana]]
 - Se expresa en la [[ley_natural]]
 
-
 ## Analizado para
 
 - [[fr_michael_luxbacher_life_in_abundance]]
 - [[jeff_lacour_true_freedom_through_prayer]]
 
-### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
-
-Bobby Ángel cita a Viktor Frankl (*Man's Search for Meaning*) al tratar la comedia frente al problema del mal: «El hombre inventó las cámaras de gas de Auschwitz; pero también es ese ser que entró en ellas erguido, con el Padrenuestro o el Shemá Israel en los labios». La dignidad humana permanece incluso en el abismo del mal: libertad y sentido sobreviven al sufrimiento extremo, y con ellas el humor como una de las formas de esa última libertad interior.
-
 ## Ver también
+
 [[hombre]], [[persona_humana]], [[gracia_santificante]], [[libertad_humana]], [[conciencia_moral]], [[ley_natural]], [[creación]]
 
 ## Analizado en contexto cultural
@@ -159,7 +170,8 @@ Bobby Ángel cita a Viktor Frankl (*Man's Search for Meaning*) al tratar la come
 
 ## Referencias
 
-- CEC §27; §356-358; §362-368; §1700-1715; §1730; §2278-2279; §2479
+- CEC §27; §356-358; §362-369; §1700-1714; §1730; §2278-2279; §2479
+- CIC c. 208, 214, 217, 219-220
 - TPCr, Tercera Parte, Libro I, Cap. IV (La lucha contra la carne)
 - Concilio Vaticano II, Gaudium et Spes 12-22
 - [EAC-8, Issue 8 «Humor», archivo 15]

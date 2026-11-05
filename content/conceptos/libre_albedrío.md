@@ -6,6 +6,7 @@ tags: ["antropología"]
 timestamp: 2026-09-07
 description: "Facultad radical de la persona humana de elegir entre el bien y el mal, de autodeterminarse sin coacción externa ni necesidad interna."
 ---
+
 # Libre Albedrío
 
 > Área: Antropología
@@ -89,13 +90,6 @@ Dietrich von Hildebrand («Minds: Technology & Its Dangers») y Fr. Anselm Ramel
 
 **Virtud, predecibilidad y libertad (Ramelow):** Ejercitar el «veto» y crecer en virtud es lo que se necesita. Paradójicamente, la virtud nos hace más predecibles — «puedo predecir que la Madre Teresa no va a asesinarme» — pero eso no significa que haya perdido su libertad. La libertad «tiene que ver con la sabiduría, no con el capricho»; es racional y por eso predecible. La consistencia no priva de libertad sino que la incrementa [EAC-19, 15_feature_ramelow.md, L33-45].
 
-## Distinciones importantes
-
-- Libre albedrío no es licencia para hacer cualquier cosa
-- La libertad verdadera se realiza en el bien, no en el pecado
-- La gracia presupone y perfecciona la libertad, no la anula
-- La concupiscencia debilita pero no destruye el libre albedrío
-
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 Pío V condenó los errores de Bayo sobre el libre albedrío (D‑1027–D‑1030, D‑1039, D‑1041, D‑1065–D‑1067):
@@ -121,6 +115,13 @@ Pío V condenó los errores de Bayo sobre el libre albedrío (D‑1027–D‑103
 **D‑1388**: «El pecador, sin la gracia del Libertador, sólo es libre para el mal.» Condenada. La condena afirma que el pecador, aunque debilitado, conserva la libertad para actos moralmente buenos en el orden natural, no solo para el mal.
 
 **D‑1389**: «La voluntad no prevenida por la gracia, no tiene ninguna luz, sino para extraviarse; ningún ardor, sino para precipitarse; ninguna fuerza, sino para herirse; es capaz de todo mal e incapaz para todo bien.» Condenada. La condena afirma que la voluntad no prevenida por la gracia puede realizar actos moralmente buenos en el orden natural, aunque no sean meritorios de vida eterna.
+
+## Distinciones importantes
+
+- Libre albedrío no es licencia para hacer cualquier cosa
+- La libertad verdadera se realiza en el bien, no en el pecado
+- La gracia presupone y perfecciona la libertad, no la anula
+- La concupiscencia debilita pero no destruye el libre albedrío
 
 ## Relaciones doctrinales
 

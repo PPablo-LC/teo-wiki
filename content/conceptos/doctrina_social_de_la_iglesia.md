@@ -72,15 +72,6 @@ En la doctrina social ocupa un lugar importante el derecho a un trabajo digno: �
 
 **Dignidad de Dios como fundamento de la dignidad humana:** En la estructura intrínseca de la Torá, en su evolución a través de la crítica profética y en el mensaje de Jesús que engloba a ambos, ella encuentra «al mismo tiempo el espacio para los desarrollos históricos necesarios y la base estable que garantiza la dignidad del hombre a partir de la dignidad de Dios» (JdN_I, p. 181).
 
-## Distinciones importantes
-
-- No es una ideología política ni un sistema económico alternativo
-- Es parte integrante de la doctrina moral de la Iglesia
-- Se fundamenta en la ley natural y en el Evangelio
-- Está abierta al diálogo con todos los hombres de buena voluntad
-
-## Perspectivas por fuente
-
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **León XIII** — Encíclica *Quod Apostolici muneris* (1878, D‑1849–D‑1852): Definió la doctrina católica sobre la desigualdad social y el derecho de propiedad frente al socialismo. Afirmó que la desigualdad de derecho y poder dimana del autor mismo de la naturaleza. La Iglesia reconoce la desigualdad entre los hombres aun en la posesión de los bienes y manda que cada uno tenga intacto el derecho de propiedad. Rechazó la comunidad de bienes propugnada por los socialistas y afirmó que el hurto y la rapiña están prohibidos por Dios. Sin embargo, la Iglesia abraza con maternal afecto a los pobres, recordando a los ricos el gravísimo mandamiento de dar lo superfluo a los pobres.
@@ -113,6 +104,21 @@ El obispo Barron recuerda la palabra de Juan Pablo II: la proclamación de la do
 8. Obligación moral de la sociedad —incluida acción gubernativa cuando sea necesaria— de asegurar oportunidades, atender necesidades básicas y procurar justicia
 9. Trabajadores, propietarios, gestores, accionistas y consumidores son agentes morales de la vida económica
 10. La economía global tiene dimensiones morales: inversión, comercio, ayuda y desarrollo deben proteger la vida y los derechos humanos
+
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+Comentando la predicación de Juan Bautista (Lc 3,10-18), Barron recuerda que en la enseñanza social de la Iglesia «encontramos el recordatorio constante de que, aunque la propiedad privada es un bien social, el uso de la propiedad privada debe tener siempre una orientación social» (AGR21, 12 de diciembre).
+
+**La cita de san Basilio.** Un Padre de la Iglesia primitiva, san Basilio Magno, expresó la idea en términos que hacen eco al Precursor: «El pan que está en tu despensa pertenece al hambriento; el vestido que guardas en tu armario pertenece al desnudo; los zapatos que dejas que se pudran pertenecen al descalzo; el dinero de tus arcas pertenece al indigente. Cometes injusticia contra todo hombre a quien podrías ayudar y no ayudas».
+
+**Conclusión práctica.** La respuesta a la pregunta «¿qué hemos de hacer?» es «servir a la justicia, dar a cada uno lo suyo y dar a los necesitados».
+
+## Distinciones importantes
+
+- No es una ideología política ni un sistema económico alternativo
+- Es parte integrante de la doctrina moral de la Iglesia
+- Se fundamenta en la ley natural y en el Evangelio
+- Está abierta al diálogo con todos los hombres de buena voluntad
 
 ## Relaciones doctrinales
 

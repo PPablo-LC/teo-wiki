@@ -94,25 +94,6 @@ La colección muestra el martirio en cuatro registros contemporáneos:
 
 El hilo común: el mártir «ha preferito morire piuttosto che offendere la volontà di Dio», y la pregunta al cristiano de hoy: «c'è ancora qualcosa o Qualcuno per cui valga la pena di morire?» (cap. 13).
 
-## Distinciones importantes
-
-- **Martirio** ≠ **suicidio**: el mártir no busca la muerte, la acepta por amor a Cristo.
-- **Martirio de sangre**: muerte por la fe.
-- **Martirio blanco** (o martirio de la penitencia): la fidelidad heroica a Dios mediante la ascesis y la mortificación.
-- **Martirio rojo** (o martirio del deseo): el deseo intenso de dar la vida por Cristo aunque no se concrete en la muerte.
-
-## Relaciones doctrinales
-
-El martirio es el acto supremo de la [[fortaleza]] y la [[caridad]]. Se relaciona con la [[confesión_de_fe]], la [[persecución]], la [[santidad]] heroica, el [[bautismo_de_sangre]] y la [[comunión_de_los_santos]].
-
-## Denzinger
-
-D-92 (III Concilio de Cartago 397): se permite la lectura de las pasiones de los mártires en sus aniversarios, reconociendo así el valor del martirio como testimonio público de la fe y su lugar en la liturgia eclesial.
-
-## Ver también
-
-[[fortaleza]], [[caridad]], [[confesión_de_fe]], [[persecución]], [[santidad]], [[bautismo_de_sangre]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. I, fórmula las **dos condiciones del
@@ -135,6 +116,25 @@ AMS añade la categoría del **martirio pobre o cotidiano** (ver
 mártires mezclan su sangre con la de Jesús; los que mueren abrazados a la
 Eucaristía, o celebrando el sacrificio eucarístico, son unos
 privilegiados».
+
+## Distinciones importantes
+
+- **Martirio** ≠ **suicidio**: el mártir no busca la muerte, la acepta por amor a Cristo.
+- **Martirio de sangre**: muerte por la fe.
+- **Martirio blanco** (o martirio de la penitencia): la fidelidad heroica a Dios mediante la ascesis y la mortificación.
+- **Martirio rojo** (o martirio del deseo): el deseo intenso de dar la vida por Cristo aunque no se concrete en la muerte.
+
+## Relaciones doctrinales
+
+El martirio es el acto supremo de la [[fortaleza]] y la [[caridad]]. Se relaciona con la [[confesión_de_fe]], la [[persecución]], la [[santidad]] heroica, el [[bautismo_de_sangre]] y la [[comunión_de_los_santos]].
+
+## Denzinger
+
+D-92 (III Concilio de Cartago 397): se permite la lectura de las pasiones de los mártires en sus aniversarios, reconociendo así el valor del martirio como testimonio público de la fe y su lugar en la liturgia eclesial.
+
+## Ver también
+
+[[fortaleza]], [[caridad]], [[confesión_de_fe]], [[persecución]], [[santidad]], [[bautismo_de_sangre]]
 
 ## Referencias
 

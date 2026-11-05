@@ -6,6 +6,7 @@ tags: ["cristología"]
 timestamp: 2026-06-28
 description: "La realeza de Cristo es el señorío universal de Jesucristo sobre todas las cosas, en virtud de su naturaleza divina y de su redención."
 ---
+
 # Realeza de Cristo
 
 > Área: Cristología
@@ -29,6 +30,10 @@ La Vida de Jesús (VJ) presenta la realeza de Cristo manifestada en la entrada e
 
 Juan Pablo II, en su ciclo de catequesis cristológicas, desarrolla la realeza de Cristo a partir de la promesa davídica (2 Sm 7). El ángel Gabriel anuncia a María: «El Señor Dios le dará el trono de David, su padre, y reinará sobre la casa de Jacob por los siglos, y su reino no tendrá fin» (Lc 1,32-33; CJeS, catequesis sobre el Mesías-Rey). Jesús es aclamado como rey en su entrada en Jerusalén, montado en un asno, cumpliendo Zac 9,9 —realeza humilde que anticipa la cruz. Ante Pilato, Jesús afirma: «Tú lo dices: soy rey. [...] Mi reino no es de este mundo» (Jn 18,36-37). JPII subraya que el reino de Cristo es espiritual, no político: se funda en la verdad, no en el poder de las armas (CJeS, catequesis sobre el Mesías-Rey). El título INRI proclama su realeza universal; el buen ladrón la reconoce: «Acuérdate de mí cuando vengas con tu reino» (Lc 23,42). Cristo es Rey del universo, como proclama el prefacio de Cristo Rey. Su realeza se ejercita también en la Iglesia, fundada sobre Pedro con las llaves del Reino (Mt 16,18-19). El Reino de Dios, inaugurado por Cristo, está ya presente en la Iglesia pero espera su consumación escatológica (CJeS, catequesis sobre el Reino de Dios y sobre la institución del Reino).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Pío XI** — Encíclica *Quas Primas* (1925, D‑2194–D‑2197): Instituyó la fiesta de Cristo Rey y definió solemnemente la realeza de Cristo. Afirmó que su realeza se funda en la unión hipostática (D‑2194): «De todas las criaturas, para decirlo en una palabra, obtiene el Señor la dominación, no por haberla arrancado a la fuerza ni por otro medio adquirido, sino por su misma esencia y naturaleza». Cristo tiene poder sobre todas las criaturas también por derecho de redención: «no habéis sido comprados con oro o plata corruptibles, sino con la sangre de Cristo» (1 Pe 1,18-19; D‑2194). Su principado se contiene en un triple poder: legislativo, judicial y ejecutivo (D‑2195). Es principalmente espiritual: «Mi reino no es de este mundo» (Jn 18,36). Sin embargo, Cristo tiene también imperio sobre las cosas civiles (D‑2196). Condenó el laicismo como «peste de nuestra edad» (D‑2197).
+
 ## Distinciones importantes
 
 - Reino espiritual vs. reino temporal
@@ -42,10 +47,6 @@ Se relaciona con [[entrada_en_jerusalén]], [[reino_de_dios]], [[pasión_de_cris
 ## Ver también
 
 [[entrada_en_jerusalén]], [[reino_de_dios]], [[pasión_de_cristo]], [[cristo_rey]], [[exaltación_de_cristo]]
-
-### Según el Enchiridion Symbolorum (Denzinger)
-
-**Pío XI** — Encíclica *Quas Primas* (1925, D‑2194–D‑2197): Instituyó la fiesta de Cristo Rey y definió solemnemente la realeza de Cristo. Afirmó que su realeza se funda en la unión hipostática (D‑2194): «De todas las criaturas, para decirlo en una palabra, obtiene el Señor la dominación, no por haberla arrancado a la fuerza ni por otro medio adquirido, sino por su misma esencia y naturaleza». Cristo tiene poder sobre todas las criaturas también por derecho de redención: «no habéis sido comprados con oro o plata corruptibles, sino con la sangre de Cristo» (1 Pe 1,18-19; D‑2194). Su principado se contiene en un triple poder: legislativo, judicial y ejecutivo (D‑2195). Es principalmente espiritual: «Mi reino no es de este mundo» (Jn 18,36). Sin embargo, Cristo tiene también imperio sobre las cosas civiles (D‑2196). Condenó el laicismo como «peste de nuestra edad» (D‑2197).
 
 ## Referencias
 

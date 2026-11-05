@@ -68,24 +68,6 @@ Para Giussani, la justicia se hunde en la fe: «Es verdaderamente cierto que la 
 
 El signo que Dios ha elegido en el mundo es «lo muy débil, lo muy pequeño» (AED, 22, 143), lo que desarma toda pretensión de imponer la justicia por la fuerza. La oración —«venga Tu Reino, hágase Tu voluntad»— es el acto de justicia por excelencia, porque sitúa al hombre en su lugar verdadero: el de la criatura que depende de su Creador (AED, 22, 141, 147).
 
-## Relaciones doctrinales
-
-Ver artículo principal: [[virtud_de_la_justicia]]
-
-
-### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
-
-La justicia ordena al bien común de la sociedad: dar a cada uno lo que se le debe. En la justificación teológica Tomás habla de otra justicia: no la virtud cardinal, sino el orden debido de las partes de la naturaleza entre sí y con Dios (el apetito a la razón, la razón a Dios); el pecado original es una injusticia nacida de ese desorden, y justificar es restaurar la justicia original. El mal de pena puede ser querido por Dios por la justicia: el bien del orden de toda la sociedad está por encima de que el culpable no sufra.
-
-## Analizado para
-
-- [[adam_farber_fortitude_through_excellence_in_mercy]]
-- [[adam_farber_justice]]
-- [[closing_keynote_virtuous_leader]]
-- [[primeros_pasos_en_la_vida_espiritual]]
-
-## Perspectivas por fuente
-
 8. Las demás fuentes
 
 ### Robert Barron, *2 Samuel* (Brazos, 2015)
@@ -102,7 +84,23 @@ Barron trata el tema de la justicia divina a través de la narrativa de 2 Samuel
 
 Este tratamiento de la justicia en 2 Samuel proporciona una síntesis católica de cómo la justicia divina respeta la libertad humana, combina castigo y perdón, y ofrece un camino de restauración a través del arrepentimiento.
 
+### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
+
+La justicia ordena al bien común de la sociedad: dar a cada uno lo que se le debe. En la justificación teológica Tomás habla de otra justicia: no la virtud cardinal, sino el orden debido de las partes de la naturaleza entre sí y con Dios (el apetito a la razón, la razón a Dios); el pecado original es una injusticia nacida de ese desorden, y justificar es restaurar la justicia original. El mal de pena puede ser querido por Dios por la justicia: el bien del orden de toda la sociedad está por encima de que el culpable no sufra.
+
+## Relaciones doctrinales
+
+Ver artículo principal: [[virtud_de_la_justicia]]
+
+## Analizado para
+
+- [[adam_farber_fortitude_through_excellence_in_mercy]]
+- [[adam_farber_justice]]
+- [[closing_keynote_virtuous_leader]]
+- [[primeros_pasos_en_la_vida_espiritual]]
+
 ## Ver también
+
 [[virtud_de_la_justicia]], [[virtudes_cardinales]], [[virtudes_infusas]], [[derecho]], [[injusticia]], [[juicio]], [[restitución]]
 
 ## Referencias

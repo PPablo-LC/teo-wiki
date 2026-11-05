@@ -3,13 +3,14 @@ type: Concepto Teológico
 title: Verdad
 tags: ["filosofía", "doctrina_social", "moral"]
 
-timestamp: 2026-11-02
+timestamp: 2026-11-04
 description: "La verdad es uno de los valores fundamentales de la vida social, inherente a la dignidad de la persona humana; exigencia última del corazón y adecuación del entendimiento según Giussani."
 ---
+
 # Verdad
 
 > Área: Filosofía / Doctrina Social / Moral
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-04
 
 ## Definición
 
@@ -20,6 +21,20 @@ La verdad es uno de los valores fundamentales de la vida social, inherente a la 
 Los hombres tienen la obligación de tender continuamente hacia la verdad, respetarla y atestiguarla responsablemente. Vivir en la verdad tiene un significado capital en las relaciones sociales. Las personas y los grupos sociales, cuanto más se esfuerzan por resolver los problemas sociales según la verdad, tanto más se alejan del arbitrio y se adecúan a las exigencias objetivas de la moralidad.
 
 ## Perspectivas por fuente
+
+### Según el Catecismo (CEC)
+
+El Catecismo trata la verdad en el octavo mandamiento (§2464-2503). «El octavo mandamiento prohíbe falsear la verdad en las relaciones con el prójimo. Este precepto moral deriva de la vocación del pueblo santo a ser testigo de su Dios, que es y que quiere la verdad» (§2464); las ofensas a la verdad son, por eso, «infidelidades básicas frente a Dios». El Antiguo Testamento lo proclama: Dios es fuente de toda verdad, su Palabra es verdad, su ley es verdad, y por eso «los miembros de su pueblo son llamados a vivir en la verdad» (§2465). En Jesucristo «la verdad de Dios se manifestó en plenitud»: él es «la luz del mundo», la Verdad, y el discípulo que permanece en su palabra conoce «la verdad que hace libre» y que santifica (§2466).
+
+La veracidad es una virtud de justicia: «Los hombres (…) no podrían vivir juntos si no tuvieran confianza recíproca, es decir, si no se manifestasen la verdad». Da al prójimo lo que le es debido y «observa un justo medio entre lo que debe ser expresado y el secreto que debe ser guardado: implica la honradez y la discreción» (§2469).
+
+Las ofensas contra la verdad se enumeran con precisión. El **falso testimonio** y el **perjurio**, por su carácter público, contribuyen a condenar a un inocente, a disculpar a un culpable o a agravar la sanción del acusado (§2476). El respeto de la reputación prohíbe toda palabra o actitud capaz de causar un daño injusto, y en ese contexto se sitúan el **juicio temerario** —que ha de evitarse interpretando en sentido favorable, en cuanto sea posible, lo que el prójimo piensa, dice o hace (§2477-2478)—, la **maledicencia** y la **calumnia**, que «destruyen la reputación y el honor del prójimo»; pues «el honor es el testimonio social dado a la dignidad humana y cada uno posee un derecho natural al honor de su nombre, a su reputación y a su respeto» (§2479). También se proscriben la **adulación** que confirma a otro en la malicia —falta grave si se hace cómplice de vicios o pecados graves— (§2480), la **vanagloria** y la **ironía** que ridiculiza caricaturizando de manera malévola (§2481).
+
+En el centro está la mentira: «consiste en decir falsedad con intención de engañar» (§2482), y el Señor denuncia en ella una obra diabólica, pues el diablo «es mentiroso y padre de la mentira». Es «la ofensa más directa contra la verdad»: mentir es hablar u obrar contra la verdad para inducir a error, y con ello se lesiona la relación del hombre con la verdad, con el prójimo y con el Señor (§2483). Su gravedad se mide «según la naturaleza de la verdad que deforma, según las circunstancias, las intenciones del que la comete, y los daños padecidos por los que resultan perjudicados»: venial en sí misma, «llega a ser mortal cuando lesiona gravemente las virtudes de la justicia y la caridad» (§2484). Y es condenable por su misma naturaleza, porque profana la palabra, cuyo objeto es comunicar a otros la verdad conocida (§2485).
+
+El derecho a la comunicación de la verdad, sin embargo, «no es incondicional»: el precepto del amor fraterno exige estimar en cada situación concreta si conviene o no revelarla a quien la pide (§2488). De ahí la obligación del **secreto profesional** —de políticos, militares, médicos, juristas— y de las confidencias hechas bajo secreto, salvo cuando no revelarlas causaría daños muy graves e inevitables (§2491), y la justa reserva respecto de la vida privada, con el equilibrio entre las exigencias del bien común y los derechos particulares (§2492).
+
+El Catecismo cierra el mandamiento con la belleza: «La verdad es bella por sí misma» (§2500); el arte, expresión propiamente humana, hace presente la verdad de la relación del hombre con Dios (§2501), y el arte sacro «es verdadero y bello cuando corresponde por su forma a su vocación propia: evocar y glorificar, en la fe y la adoración, el Misterio trascendente de Dios» (§2502).
 
 ### Según el Compendio (CompDS)
 
@@ -147,11 +162,7 @@ primera palabra que usó el Señor no fue: “Haced esto” o “Haced aquello�
 
 Melina (Introducción, Cap. III) presenta la verdad como originalidad de la verdad práctica: la verdad de la acción no se reduce a un juicio conforme a una norma, sino que es la realización de una acción excelente, reconocida connaturalmente. La verdad sobre el bien se percibe arriesgándose en la acción. La ruptura entre libertad y verdad (VS 4) es la raíz de la crisis moral.
 
-## Relaciones doctrinales
-
-Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]], [[libertad]], [[entendimiento]] y la exigencia de verdad como estructura de la vida humana en SR.
-
-### Según Evangelization ### Según Evangelization & Culture (EAC-3) Culture n.º 3 «The Digital Age» (EAC-3)
+### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
 
 George Orwell es analizado como un profeta de la defensa de la verdad objetiva. Durante la Guerra Civil española, Orwell vio «grandes batallas reportadas donde no las había y silencio completo donde cientos de hombres habían sido asesinados... la historia escrita no en términos de lo que ocurrió sino de lo que «debería haber ocurrido según las líneas del partido» [EAC-3, 10_minds_orwell]. Su experiencia española sembró las semillas de *1984*, con su «newspeak», la reescritura de la historia y la corrupción del lenguaje por parte del poder político.
 
@@ -169,18 +180,22 @@ Matt Nelson, en «Where Aristotle Meets Twitter», señala que las redes sociale
 
 La verdad es la correspondencia (*adequatio*) de la mente con la cosa, y se encuentra primeramente en la mente, donde está su opuesto, la falsedad; un pensamiento es verdadero cuando hay en la realidad algo a lo que corresponde. Verdad y ser son intercambiables: las cosas solo son cognoscibles en cuanto existen, y lo primero que captamos de algo es que existe. La verdad de las cosas viene de su existencia; la de Dios no: Él es la Verdad Primera, *fons et principium totius esse et veritatis* — hay una sola Verdad por la que todas las cosas son verdaderas. Contra la doctrina de la doble verdad y contra los «tipos de verdad» modernos (lógica, científica, histórica, religiosa): la verdad es una; hay, a lo sumo, dos maneras de conocerla.
 
-## Ver también
-
-[[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[humor]], [[sátira]]
-
 ### Según Mons. Tihámer Tóth (JvC)
 
 Decir siempre la verdad es «otro medio estupendo para ser hombre de carácter, sin doblez» [JvC, Cap. III]. La consigna debe ser: «Nunca mentiré». La mentira no solo es un pecado contra Dios, que es la Verdad viviente, sino que degrada moralmente al que miente. El hombre de palabra cumple lo prometido cueste lo que cueste: «La verdad a cualquier precio, debe ser tu consigna» [JvC, Cap. III].
 
+## Relaciones doctrinales
+
+Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]], [[libertad]], [[entendimiento]] y la exigencia de verdad como estructura de la vida humana en SR.
+
+## Ver también
+
+[[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[humor]], [[sátira]]
+
 ## Referencias
 
 - [CompDS §197-198]
-- [CEC §2464-2487]
+- [CEC §2464-2503] (El octavo mandamiento: vivir en la verdad)
 - SmTh Iª q.16 (La verdad)
 - [Juan XXIII, Pacem in Terris]
 - [EjEsp2026, cap. 5: «El esplendor de la Verdad»]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Caridad
 description: "La caridad es la más excelente de las virtudes teologales, virtud infusa sobrenatural por la que amamos a Dios sobre todas las cosas por Sí mismo."
 tags: ["moral", "dogmática"]
-timestamp: 2026-11-02
+timestamp: 2026-11-04
 ---
 
 # Caridad
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-04
 
 ## Definición
 
@@ -20,6 +20,12 @@ La caridad es la más excelente de las virtudes teologales, virtud infusa sobren
 ### Según el Compendio (CompDS)
 
 La caridad es el criterio supremo y universal de toda la ética social [CompDS §204]. De todas las vías para afrontar las formas siempre nuevas de la cuestión social, la «más excelente» es la trazada por la caridad [CompDS §204]. Los valores de verdad, justicia y libertad nacen y se desarrollan de la fuente interior de la caridad [CompDS §205]. La caridad presupone y trasciende la justicia: la justicia «ha de complementarse con la caridad» [CompDS §206]. Ninguna legislación ni sistema de reglas logrará persuadir a vivir en la unidad y la paz; solo la caridad, como «forma virtutum», puede animar la actuación social para edificar la paz [CompDS §207]. La caridad se convierte en caridad social y política: nos hace amar el bien común y buscar efectivamente el bien de todas las personas en su dimensión social [CompDS §207-208].
+
+El Compendio desarrolla esa primacía al tratar la civilización del amor. El principio de solidaridad «está iluminado por el primado de la caridad “que es signo distintivo de los discípulos de Cristo”» (§580), y el comportamiento de la persona «es plenamente humano cuando nace del amor, manifiesta el amor y está ordenado al amor» (§580) — verdad que vale también en el ámbito social, donde el amor es «la única fuerza que puede conducir a la perfección personal y social y mover la historia hacia el bien» (§580).
+
+Ese amor, que debe penetrar todas las relaciones sociales, recibe el nombre de «caridad social» y «caridad política» y «se debe extender a todo el género humano» (§581); se sitúa en las antípodas del egoísmo, «el enemigo más deletéreo de una sociedad ordenada» (§581). Por eso el Magisterio pide revalorizar el amor en la vida social —«a nivel político, económico, cultural—, haciéndolo la norma constante y suprema de la acción» (§582): si la justicia sirve de árbitro en la recíproca repartición de los bienes, «solamente el amor (también ese amor benigno que llamamos “misericordia”), es capaz de restituir el hombre a sí mismo» (§582). Sólo una humanidad en la que reine la «civilización del amor» podrá gozar de una paz auténtica y duradera (§582).
+
+Finalmente, «sólo la caridad puede cambiar completamente al hombre» (§583), pero sin anular la dimensión terrena: quien pretenda conformarse a la virtud sobrenatural del amor prescindiendo de la justicia «se engaña a sí mismo», pues «la caridad representa el mayor mandamiento social. Respeta al otro y sus derechos. Exige la práctica de la justicia y es la única que nos hace capaces de ésta» (§583, citando CEC §1889). Y no se agota en lo terreno, porque toda su eficacia «deriva de la referencia a Dios» (§583).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -236,19 +242,9 @@ La caridad es ante todo **amistad con Dios** (sobre el fondo aristotélico de EN
 
 La educación a la castidad es «inseparable del compromiso de cultivar *todas las otras virtudes* y, en modo particular, *el amor cristiano* que se caracteriza por el respeto, por el altruismo y por el servicio que, en definitiva, es la *caridad*» (SHVS 55). La educación al auténtico amor «no es tal si no se convierte en amor de benevolencia», que implica «la acogida de la persona amada, considerar su bien como propio, y por tanto, instaurar justas relaciones con los demás» (SHVS 53).
 
-
 ### Según *The Epiphany of Love* (EPL)
 
 Melina (Conclusión, Introducción) presenta la caridad como la expresión de la acción cristiana: las acciones excelentes son expresión de la caridad. El amor es el nombre más profundo de Dios y el dinamismo de la acción se cumple en la comunión. La caridad es el principio que ordena todas las virtudes y da sentido a la acción moral.
-
-## Analizado para
-
-[[pascasio_quesnel]], [[unigenitus]]
-
-- [[christian_bobak_men_of_integrity]]
-- [[kevin_mulaney_prudence_decisions]]
-- [[sean_glass_call_to_fortitude]]
-- [[tim_barry_the_strength_of_meekness]]
 
 ### Según San Francisco de Asís (SFrAs)
 
@@ -265,10 +261,6 @@ La caridad en San Francisco es amor concreto, universal y que incluye al enemigo
 **Caridad y virtudes que confunden vicios:** «Donde hay caridad y sabiduría no hay temor ni ignorancia. Donde hay paciencia y humildad no hay ira ni preocupación» (Adm. 27).
 
 **Caridad fraterna:** «Bendito es aquel hermano que amaría a su hermano tanto cuando está enfermo como cuando está bien, y que no diría nada sobre él a sus espaldas que no pudiera con caridad decir en su presencia» (Adm. 25).
-
-## Ver también
-[[virtud_de_la_caridad]], [[virtudes_teologales]], [[virtudes_infusas]]
-
 ### Según ¡El amor es más fuerte! (LC-2015)
 
 El P. Álvaro Corcuera presenta la caridad como **eje central de la espiritualidad legionaria**:
@@ -387,6 +379,19 @@ Elementos centrales en REG:
   estudio sino una persona cuyo destino interpela; amar es reconocer a cada
   uno en su relación con Dios (01).
 
+## Analizado para
+
+[[pascasio_quesnel]], [[unigenitus]]
+
+- [[christian_bobak_men_of_integrity]]
+- [[kevin_mulaney_prudence_decisions]]
+- [[sean_glass_call_to_fortitude]]
+- [[tim_barry_the_strength_of_meekness]]
+
+## Ver también
+
+[[virtud_de_la_caridad]], [[virtudes_teologales]], [[virtudes_infusas]]
+
 ## Analizado en contexto cultural
 
 - [[corazon_de_amicis]] — convergencia en la caridad concreta con el pobre, el enfermo y el que sufre (la limosna como testimonio, la dignidad del pobre que da); tensión por una caridad asistencial y conmovedora que no alcanza la exigencia de justicia social ni el fundamento sobrenatural del amor.
@@ -394,6 +399,7 @@ Elementos centrales en REG:
 ## Referencias
 
 - CEC §1822-1829
+- CompDS §204-208, §580-583
 - CUDF (Luigi Giussani, *La convenienza umana della fede*, 1985-1987), 03, 179-183
 - ColCas-II, Conferencia XVI, §§1-28
 - TPCr, Tercera Parte, Libro I, Cap. IV

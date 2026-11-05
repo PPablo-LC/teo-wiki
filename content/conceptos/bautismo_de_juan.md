@@ -57,7 +57,7 @@ La Vida de Jesús (VJ) presenta a Juan Bautista como «el último de los Profeta
 
 ## Relaciones doctrinales
 
-Se relaciona con [[juan_bautista]], [[bautismo]], [[conversión]], [[penitencia]], [[preparación_al_mesías]], [[bautismo|bautismo]].
+Se relaciona con [[san_juan_bautista]], [[bautismo]], [[conversión]], [[penitencia]], [[preparación_al_mesías]], [[bautismo|bautismo]].
 
 ## Referencias
 

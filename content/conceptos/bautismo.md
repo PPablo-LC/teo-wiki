@@ -86,11 +86,13 @@ Son siete los efectos principales del bautismo:
 
 ### Según el Catecismo (CEC)
 
-El Bautismo es «el fundamento de toda la vida cristiana, el pórtico de la vida en el espíritu y la puerta que abre el acceso a los otros sacramentos» (§1213). El nombre significa «sumergir»; la inmersión en el agua simboliza sepultar al catecúmeno en la muerte de Cristo, de donde sale por la resurrección con Él como nueva criatura (§1214).
+Los sacramentos de la Nueva Ley fueron instituidos por Cristo y son siete: Bautismo, Confirmación, Eucaristía, Penitencia, Unción de los enfermos, Orden sacerdotal y Matrimonio. Corresponden a todas las etapas y momentos importantes de la vida del cristiano (§1210). El Bautismo es «el fundamento de toda la vida cristiana, el pórtico de la vida en el espíritu y la puerta que abre el acceso a los otros sacramentos» (§1213). El nombre significa «sumergir»; la inmersión en el agua simboliza sepultar al catecúmeno en la muerte de Cristo, de donde sale por la resurrección con Él como nueva criatura (§1214).
 
-Necesidad: el Bautismo es necesario para la salvación (§1257). Dios ha vinculado la salvación al Bautismo, pero Él no queda sometido a sus sacramentos. El Bautismo de sangre y el Bautismo de deseo producen los frutos del Bautismo sin ser sacramento (§1258-1259).
+**Rito.** La celebración del Bautismo tiene una estructura que incluye la acogida, la liturgia de la Palabra, la oración de exorcismo y unción prebautismal, la bendición del agua, la renuncia a Satanás y la profesión de fe, el Bautismo propiamente dicho, la unción crismal, la vestidura blanca y el cirio encendido, y la efusión (§§1234-1245). El Bautismo se administra a los niños; los padres y padrinos tienen la responsabilidad de educarlos en la fe (§§1253-1255).
 
-La gracia bautismal comprende el perdón del pecado original y de todos los pecados personales, el nuevo nacimiento como hijo adoptivo del Padre, miembro de Cristo y templo del Espíritu Santo (§1262-1279). Imprime un carácter o sello espiritual indeleble (§1272-1274). El Bautismo incorpora a la Iglesia, Cuerpo de Cristo, y hace participar en el sacerdocio común de los fieles (§1267-1269).
+**Necesidad.** El Bautismo es necesario para la salvación (§1257). Dios ha vinculado la salvación al Bautismo, pero Él no queda sometido a sus sacramentos. El Bautismo de sangre y el Bautismo de deseo producen los frutos del Bautismo sin ser sacramento (§§1258-1259). Para los catecúmenos que mueren antes de recibir el Bautismo, y para quienes buscan la verdad y hacen la voluntad de Dios según su conciencia, la salvación no está excluida (§§1260-1261).
+
+**Gracia bautismal.** Comprende el perdón del pecado original y de todos los pecados personales, el nuevo nacimiento como hijo adoptivo del Padre, miembro de Cristo y templo del Espíritu Santo (§§1262-1279). Imprime un carácter o sello espiritual indeleble (§§1272-1274). El Bautismo incorpora a la Iglesia, Cuerpo de Cristo, y hace participar en el sacerdocio común de los fieles (§§1267-1269).
 
 ### Según el Código de Derecho Canónico (CIC)
 

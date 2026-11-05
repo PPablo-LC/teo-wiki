@@ -5,6 +5,7 @@ description: "Término psicológico sobre la variabilidad de la atracción: se e
 tags: ["psicología", "moral_sexual", "antropología", "teología_pastoral"]
 timestamp: 2026-11-03
 ---
+
 # Fluidez sexual
 
 > Área: Psicología / Moral sexual / Antropología teológica
@@ -75,6 +76,8 @@ juicio.
 
 ## Juicio antropológico y moral
 
+## Perspectivas por fuente
+
 ### Según el Catecismo (CEC)
 
 El CEC ofrece los tres criterios que permiten juzgar el conjunto:
@@ -137,20 +140,6 @@ irascible— no es malo en sí, pero requiere el gobierno de la razón y de la
 templanza. De donde se sigue el principio pastoral clásico: no se combate el
 deseo negándolo, se lo ordena.
 
-### Según la Teología del cuerpo (Juan Pablo II)
-
-Juan Pablo II advierte contra la reducción de la sexualidad a categoría
-«sustancialmente naturalística», como la que se encierra en la expresión
-«instinto sexual» (Teología del cuerpo, catequesis sobre el celibato y la
-significación esponsal). El cuerpo humano es **lenguaje**: significa el don de
-sí, y esa capacidad significativa es constitutiva de la persona, no añadidura
-cultural (cf. [[significado_esponsal_del_cuerpo]]). Por eso ninguna descripción
-de la respuesta sexual —por precisa que sea— agota lo que el cuerpo dice; y
-ninguna
-fluidez del deseo autoriza a leer el cuerpo como materia indiferente.
-
-## Perspectivas por fuente
-
 ### Según *Living the Truth in Love* (LTL)
 
 **[[timothy_g_lock]]** (cap. 18) la trata al preguntarse por qué muchos
@@ -170,6 +159,18 @@ estos fenómenos muestran la **complejidad del desarrollo** y pide al consejero
 respeto, compasión y sensibilidad, sin reducir a la persona a una etiqueta.
 Su conclusión es compatible con el juicio anterior: describe procesos, no
 relativiza la norma.
+
+### Según la Teología del cuerpo (Juan Pablo II)
+
+Juan Pablo II advierte contra la reducción de la sexualidad a categoría
+«sustancialmente naturalística», como la que se encierra en la expresión
+«instinto sexual» (Teología del cuerpo, catequesis sobre el celibato y la
+significación esponsal). El cuerpo humano es **lenguaje**: significa el don de
+sí, y esa capacidad significativa es constitutiva de la persona, no añadidura
+cultural (cf. [[significado_esponsal_del_cuerpo]]). Por eso ninguna descripción
+de la respuesta sexual —por precisa que sea— agota lo que el cuerpo dice; y
+ninguna
+fluidez del deseo autoriza a leer el cuerpo como materia indiferente.
 
 ## Distinciones importantes
 

@@ -67,11 +67,11 @@ Respecto a la identificación de Elías con Juan Bautista, Benedicto XVI señala
 
 ## Relaciones doctrinales
 
-[[profeta]], [[moisés]], [[juan_bautista]], [[ascensión_de_cristo]], [[transfiguración]], [[celo]], [[desierto]], [[oración]]
+[[profeta]], [[moisés]], [[san_juan_bautista]], [[ascensión_de_cristo]], [[transfiguración]], [[celo]], [[desierto]], [[oración]]
 
 ## Ver también
 
-[[ascensión]], [[profeta]], [[moisés]], [[juan_bautista]], [[transfiguración]], [[desierto]], [[oración]], [[celo]], [[monte_carmelo]], [[eliseo]], [[baal]], [[alianza_e_infidelidad]]
+[[ascensión]], [[profeta]], [[moisés]], [[san_juan_bautista]], [[transfiguración]], [[desierto]], [[oración]], [[celo]], [[monte_carmelo]], [[eliseo]], [[baal]], [[alianza_e_infidelidad]]
 
 ## Referencias
 

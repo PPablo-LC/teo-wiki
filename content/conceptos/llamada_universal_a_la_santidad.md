@@ -6,6 +6,7 @@ tags: ["dogmática", "espiritualidad"]
 timestamp: 2026-08-24
 description: "La llamada universal a la santidad es la doctrina según la cual todos los fieles cristianos, cualquiera que sea su estado o condición."
 ---
+
 # Llamada universal a la santidad
 
 > Área: Dogmática / Espiritualidad
@@ -57,6 +58,10 @@ En *La vocación explicada*, Juan Pablo II proclama la universalidad de la llama
 
 Define la santidad cristiana en clave de lucha y misericordia: «La santidad cristiana no consiste en ser impecables, sino en la lucha por no ceder y volver a levantarse siempre, después de cada caída». Y precisa su fuente: «no deriva tanto de la fuerza de voluntad del hombre, sino más bien del esfuerzo por no obstaculizar nunca la acción de la gracia en la propia alma, y ser, más bien, sus humildes colaboradores». Cada laico es «una obra extraordinaria de la gracia de Dios» llamado «a las más altas cimas de santidad», con la misión específica de meter el Evangelio, como levadura, en la realidad del mundo [VocExp].
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+Sor Regina María Gorman OCD da testimonio carmelita de la llamada universal: «Quienes somos llamadas a la vida religiosa damos testigo del gozo de una vida plenamente humana, vivida en comunión y orientada al cielo». La amistad con Cristo hace «brotar creatividad y humor» — la comunidad carmelita ríe (las hermanas que ahogan risas en la liturgia, la parodia de Barron en presencia de Barron, el Salve Regina solemne en plena fila del supermercado), y ese humor es señal de santidad plenamente humana, no de solemnidad desencarnada.
+
 ## Distinciones importantes
 
 - Llamamiento remoto y suficiente: para todos los bautizados, mediante la gracia suficiente
@@ -68,10 +73,6 @@ Define la santidad cristiana en clave de lucha y misericordia: «La santidad cri
 
 Se relaciona con la [[santidad]], la [[perfección_cristiana]], la [[vocación]], la [[caridad]], los [[consejos_evangélicos]], el [[concilio_vaticano_ii]], y los diferentes estados de vida ([[estado_seglar]], [[estado_religioso]], [[estado_sacerdotal]]).
 
-### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
-
-Sor Regina María Gorman OCD da testimonio carmelita de la llamada universal: «Quienes somos llamadas a la vida religiosa damos testigo del gozo de una vida plenamente humana, vivida en comunión y orientada al cielo». La amistad con Cristo hace «brotar creatividad y humor» — la comunidad carmelita ríe (las hermanas que ahogan risas en la liturgia, la parodia de Barron en presencia de Barron, el Salve Regina solemne en plena fila del supermercado), y ese humor es señal de santidad plenamente humana, no de solemnidad desencarnada.
-
 ## Analizado para
 
 - [[brian_cochran_my_personal_emmaus]]
@@ -79,6 +80,7 @@ Sor Regina María Gorman OCD da testimonio carmelita de la llamada universal: «
 - [[john_wissler_leading_with_charity]]
 
 ## Ver también
+
 [[santidad]], [[perfección_cristiana]], [[vocación]], [[caridad]], [[consejos_evangélicos]], [[concilio_vaticano_ii]]
 
 ## Referencias

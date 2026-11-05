@@ -6,6 +6,7 @@ tags: ["dogmática_(cristología)"]
 timestamp: 2026-09-15
 description: "Herejía cristológica del siglo V que afirma la existencia de dos personas distintas en Cristo —una divina y otra humana— separando la unión hipostática."
 ---
+
 # Nestorianismo
 
 > Área: Dogmática (Cristología)
@@ -27,13 +28,13 @@ El Denzinger recoge en D-64 la condena de quienes afirman «dos hijos, uno antes
 
 El **II Concilio de Constantinopla** (553) constituye la condena más completa del nestorianismo extremo. El canon 4 (D-216) rechaza expresamente la unión «según gracia o según operación, o según igualdad de honor, o según autoridad» como enseñaba Teodoro de Mopsuestia, definiendo la unión según composición e hipóstasis. El canon 6 (D-218) reafirma el título Theotokos en sentido propio. Los cánones 12–14 (D-224–228) condenan respectivamente a **Teodoro de Mopsuestia** (que enseñaba dos hijos, el progreso moral de Cristo, y una unión meramente moral), a **Teodoreto de Ciro** (por sus escritos contra San Cirilo y los doce anatematismos), y la carta de **Ibas de Edesa** (que negaba la Encarnación divina y llamaba hereje a San Cirilo). Estos tres constituyen la controversia de los Tres Capítulos.
 
-## Relaciones doctrinales
-
-El nestorianismo se opone a la [[unión_hipostática]] y a la [[comunicación_de_idiomas]]. Niega la [[maternidad_divina_de_maría]] al rechazar que María sea *Theotokos*. Se distingue del [[monofisismo]] (que fusiona las naturalezas) y del [[adopcionismo]] (que niega la preexistencia divina).
-
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 Nestorio, no viendo cómo una naturaleza humana verdadera pudiera no ser una persona humana, dividió a Cristo en dos personas; María no sería Madre de Dios, y el hombre Jesús sería distinto del Hijo de Dios. Contra él: «si las dos naturalezas no están unidas en la misma persona, no están realmente unidas»; la unión no es por gracia (como la del Verbo con los santos): la gracia fluye *de* la unión; Cristo no diría «Yo soy la luz del mundo» sino «la luz del mundo habita en mí». Si Cristo fueran dos personas, tendría dos existencias: la gramática de la Escritura (predicar divino y humano del mismo sujeto) exige una sola persona.
+
+## Relaciones doctrinales
+
+El nestorianismo se opone a la [[unión_hipostática]] y a la [[comunicación_de_idiomas]]. Niega la [[maternidad_divina_de_maría]] al rechazar que María sea *Theotokos*. Se distingue del [[monofisismo]] (que fusiona las naturalezas) y del [[adopcionismo]] (que niega la preexistencia divina).
 
 ## Ver también
 

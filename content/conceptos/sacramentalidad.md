@@ -38,10 +38,6 @@ también por la materialidad del agua, del pan, del aceite, del gesto humano.
   la teología católica (Trento) defiende la **causalidad semperficia** del
   signo: ex opere operato.
 
-### Según *Priests—What Lies Ahead?* (PWL)
-
-Pell contrapone dos consignas: «el sacerdote del próximo milenio será místico» y «será sacramental». Los místicos son raros, pero la religión popular es una tradición fuerte; sin dimensión sacramental no hay Iglesia católica; sin ordenación y matrimonio no hay Iglesia. La sacramentalidad no es sacramentalismo: el sacramento no es una función que se despacha, sino un encuentro con Cristo vivo. Melina añade la lógica de la Encarnación: «Cristo salva la carne a través de la carne»; el sacramento regenera dimensiones concretas de la persona y de la vida, no solo la interioridad. Chaput: para el sacerdote los sacramentos son todo; la Eucaristía resume y ofrece todo.
-
 ## Distinciones importantes
 
 - **Sacramentalidad** (principio teológico) vs. **ritos** (celebraciones
@@ -62,6 +58,12 @@ Pell contrapone dos consignas: «el sacerdote del próximo milenio será místic
 [[encarnación]], [[sacramento]], [[gracia_sacramental]], [[teología_del_cuerpo]],
 [[iglesia_como_sacramento_universal_de_salvación]], [[visión_sacramental_del_mundo]],
 [[liturgia]], [[ritos_litúrgicos]]
+
+## Perspectivas por fuente
+
+### Según *Priests—What Lies Ahead?* (PWL)
+
+Pell contrapone dos consignas: «el sacerdote del próximo milenio será místico» y «será sacramental». Los místicos son raros, pero la religión popular es una tradición fuerte; sin dimensión sacramental no hay Iglesia católica; sin ordenación y matrimonio no hay Iglesia. La sacramentalidad no es sacramentalismo: el sacramento no es una función que se despacha, sino un encuentro con Cristo vivo. Melina añade la lógica de la Encarnación: «Cristo salva la carne a través de la carne»; el sacramento regenera dimensiones concretas de la persona y de la vida, no solo la interioridad. Chaput: para el sacerdote los sacramentos son todo; la Eucaristía resume y ofrece todo.
 
 ## Referencias
 

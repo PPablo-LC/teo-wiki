@@ -6,6 +6,7 @@ tags: ["eclesiología"]
 timestamp: 2026-10-02
 description: "Realidad eclesial fundada por Cristo en la cual los fieles, unidos por el vínculo de la caridad y los sacramentos, forman un solo Cuerpo cuya cabeza es Cristo; condición del crecimiento de la libertad según Giussani."
 ---
+
 # Comunidad
 
 > Área: Eclesiología
@@ -57,21 +58,6 @@ dado la gracia de encontrarnos» (01, 341).
 
 Giussani ve en la comunidad el lugar donde se sostiene la vida moral. Cita a MacIntyre: ante la decadencia de un orden social, la tarea decisiva de los hombres de buena voluntad fue «la costruzione di nuove forme di comunità entro cui la vita morale potesse essere sostenuta, in modo che sia la civiltà, sia la morale avessero la possibilità di sopravvivere all'época incipiente di barbarie e di oscurità». Reconoce en esa concepción una parentela instintiva con la experiencia de la Fraternidad, resumida en el principio «Più società, meno Stato»: quien sostuviera lo contrario «capisce poco Comunione e Liberazione». La comunidad no es, pues, un refugio, sino la forma social en que la moralidad puede ser custodiada y transmitida.
 
-## Distinciones importantes
-
-- **Comunidad eclesial vs. asociación humana**: la Iglesia es comunión sobrenatural, no mera organización voluntaria
-- **Comunión jerárquica vs. comunión carismática**: ambas dimensiones son esenciales en la Iglesia
-- **Comunidad doméstica (familia) vs. comunidad parroquial vs. comunidad diocesana**: la Iglesia se realiza en diversos niveles de comunión
-- **Comunidad y sociedad**: la comunidad se funda en vínculos personales, la sociedad en vínculos funcionales
-
-## Relaciones doctrinales
-
-Se relaciona con [[iglesia]], [[cuerpo_místico]], [[comunión_de_los_santos]], [[eucaristía]], [[familia]], [[parroquia]], [[doctrina_social_de_la_iglesia]], [[solidaridad]], [[subsidiariedad]], [[bien_común]]
-
-## Ver también
-
-[[iglesia]], [[cuerpo_místico]], [[comunión_de_los_santos]], [[caridad]], [[amor_al_prójimo]], [[familia]]
-
 ### Según León XIV (L_XIV-ClerRom)
 
 León XIV aplica la noción de comunidad al presbiterio y a la colaboración pastoral. Subraya la necesidad de «aprender a trabajar juntos, en comunión» y de «vencer la tentación de la autorreferencialidad, que genera sobrecarga y dispersión». Propone una comunidad de trabajo entre parroquias vecinas que «pongan en común los carismas y las potencialidades, programando juntos y evitando la superposición de iniciativas». Esta coordinación expresa la comunión presbiteral y permite responder a los desafíos de una sociedad marcada por la movilidad, donde «la sola parroquia no es suficiente». La comunidad eclesial se manifensa así no solo en la celebración compartida sino también en la acción pastoral coordinada [L_XIV-ClerRom, 19.02.2026].
@@ -87,6 +73,21 @@ Giussani afirma que la comunidad es condición del crecimiento de la libertad y 
 **Comunidad y razonabilidad (cap. II).** La coherencia de vida de la comunidad creyente es una prueba de la razonabilidad de la fe: la unidad de vida de los que adhieren al misterio es un motivo adecuado para la adhesión. «Todos los grandes santos han sido así»: el testimonio comunitario es factor de credibilidad (SR, `09_capitolo_secondo.md`, §54-63, 78-100).
 
 **La dimensión comunitaria de la libertad (cap. XIII).** La libertad del individuo no crece en el aislamiento: la comunidad que vive la aventura de la interpretación sostiene y educa la libertad personal. La atención, la aceptación y la hipótesis positiva se ejercen en el seno de una comunidad que acompaña el riesgo de la interpretación (SR, `20_capitolo_tredicesimo.md`, §10-30, 81-93).
+
+## Distinciones importantes
+
+- **Comunidad eclesial vs. asociación humana**: la Iglesia es comunión sobrenatural, no mera organización voluntaria
+- **Comunión jerárquica vs. comunión carismática**: ambas dimensiones son esenciales en la Iglesia
+- **Comunidad doméstica (familia) vs. comunidad parroquial vs. comunidad diocesana**: la Iglesia se realiza en diversos niveles de comunión
+- **Comunidad y sociedad**: la comunidad se funda en vínculos personales, la sociedad en vínculos funcionales
+
+## Relaciones doctrinales
+
+Se relaciona con [[iglesia]], [[cuerpo_místico]], [[comunión_de_los_santos]], [[eucaristía]], [[familia]], [[parroquia]], [[doctrina_social_de_la_iglesia]], [[solidaridad]], [[subsidiariedad]], [[bien_común]]
+
+## Ver también
+
+[[iglesia]], [[cuerpo_místico]], [[comunión_de_los_santos]], [[caridad]], [[amor_al_prójimo]], [[familia]]
 
 ## Referencias
 

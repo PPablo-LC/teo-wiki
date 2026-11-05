@@ -114,11 +114,11 @@ Efectos del sacrificio de la misa:
 
 ### Según el Catecismo (CEC)
 
-La Sagrada Eucaristía culmina la iniciación cristiana (§1322). Es «fuente y culmen de toda la vida cristiana» (§1324). «Los demás sacramentos, como también todos los ministerios eclesiales y las obras de apostolado, están unidos a la Eucaristía y a ella se ordenan» (§1324).
+La Sagrada Eucaristía fue instituida por Cristo en la Última Cena, el jueves santo, para perpetuar el sacrificio de la cruz y confiar a la Iglesia el memorial de su muerte y resurrección (§1323). Culmina la iniciación cristiana (§1322). Es «fuente y culmen de toda la vida cristiana» (§1324). «Los demás sacramentos, como también todos los ministerios eclesiales y las obras de apostolado, están unidos a la Eucaristía y a ella se ordenan» (§1324).
 
 Cristo está presente en el sacrificio de la misa, en la persona del ministro y, sobre todo, bajo las especies eucarísticas (§1373-1374). La transubstanciación es el cambio de toda la sustancia del pan y del vino en el Cuerpo y Sangre de Cristo, permaneciendo solo las especies o accidentes (§1376). La Eucaristía es el memorial de la Pascua de Cristo, que lo hace presente sacramentalmente. El sacrificio de Cristo y el sacrificio de la Eucaristía son un único sacrificio: «la misma víctima, que se ofrece ahora por ministerio de los sacerdotes, el mismo que entonces se ofreció en la cruz» (§1367).
 
-Efectos: aumento de la unión con Cristo, separación del pecado (borra veniales, preserva de mortales), unidad del Cuerpo Místico, y prenda de la gloria futura (§1391-1402).
+Efectos: aumento de la unión con Cristo, separación del pecado (borra veniales, preserva de mortales), unidad del Cuerpo Místico, y prenda de la gloria futura (§1391-1402). La comunión eucarística es el momento en que los fieles reciben el Cuerpo y la Sangre del Señor, con la condición de estar en gracia y el ayuno eucarístico (§§1384-1389). El fruto de la comunión es la unión íntima con Cristo, la separación del pecado, el aumento de la gracia y la prenda de la gloria (§§1391-1395). La Eucaristía es el sacrificio de la cruz ofrecido sacramentalmente por la Iglesia (§§1413-1419).
 
 ### Según el Código de Derecho Canónico (CIC)
 
@@ -492,6 +492,16 @@ El prólogo de Müller parte de Jn 6:51 —«el pan que yo daré es mi carne par
 ### Según *The Epiphany of Love* (EPL)
 
 Melina (Cap. II, Introducción) presenta la Eucaristía como don original que nutre la esperanza en la desproporción entre la acción y su fin. La Eucaristía es el pan para el camino, que nutre continuamente la esperanza.
+
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**Los banquetes sagrados.** Barron lee la vida pública de Jesús a la luz del banquete pascual: Dios manda a su pueblo compartir una comida para recordar la liberación de la esclavitud, y esa cena es el contexto del más profundo teologizar de Israel (AGR21, 10 de diciembre). Desde el principio Jesús fue acostado en un pesebre, «porque sería alimento para un mundo hambriento», y buena parte de su ministerio se centró en comidas sagradas a las que todos estaban invitados: ricos y pobres, santos y pecadores, enfermos y marginados. «Él encarna el deseo de Yahvé de comer un banquete de convivencia con su pueblo.»
+
+**El tiempo intermedio.** La vida y enseñanza de Jesús culminan en la Última Cena: «La Eucaristía es lo que hacemos en el tiempo intermedio, entre la muerte del Señor y su venida en gloria. Es la comida que ya ahora anticipa el banquete perfecto de comunión con Dios.»
+
+**Palabras que obran.** La Eucaristía se apoya en la *exousia* de Cristo, «la que procede del ser»: la noche antes de morir toma el pan y dice «Esto es mi cuerpo», «y lo que dice, es» (13 de diciembre).
+
+**El gesto del don.** En la multiplicación de los panes, Jesús «tomó los panes y los peces, dio gracias, los partió y los dio»: el mismo gesto de acción de gracias y entrega que realiza el «circuito de la gracia» (1 de diciembre).
 
 ## Distinciones importantes
 

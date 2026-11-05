@@ -3,19 +3,30 @@ type: Concepto Teológico
 title: Esperanza
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-11-03
+timestamp: 2026-11-04
 description: "La esperanza es la virtud teologal que espera de Dios la vida eterna; la vida como promesa que remite al Misterio según Giussani."
 ---
+
 # Esperanza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-11-03
+> Última actualización: 2026-11-04
 
 ## Definición
 
 La esperanza es la segunda de las virtudes teologales, virtud infusa sobrenatural por la que deseamos y esperamos de Dios la vida eterna y los medios necesarios para alcanzarla, confiando en sus promesas y en su misericordia infinita, no en nuestras propias fuerzas.
 
 ## Perspectivas por fuente
+
+### Según el Catecismo (CEC)
+
+El Catecismo define la esperanza como «la virtud teologal por la que aspiramos al Reino de los cielos y a la vida eterna como felicidad nuestra, poniendo nuestra confianza en las promesas de Cristo y apoyándonos no en nuestras fuerzas, sino en los auxilios de la gracia del Espíritu Santo» (§1817). Su fundamento es la fidelidad de Dios: «Mantengamos firme la confesión de la esperanza, pues fiel es el autor de la promesa» (§1817).
+
+La virtud «corresponde al anhelo de felicidad puesto por Dios en el corazón de todo hombre»: asume las esperanzas humanas, «las purifica para ordenarlas al Reino de los cielos», «protege del desaliento», «sostiene en todo desfallecimiento» y «dilata el corazón en la espera de la bienaventuranza eterna». Y añade una consecuencia decisiva: «El impulso de la esperanza preserva del egoísmo y conduce a la dicha de la caridad» (§1818).
+
+Su modelo es Abraham, que «esperando contra toda esperanza, creyó y fue hecho padre de muchas naciones» (§1819); su escuela, las bienaventuranzas, que «elevan nuestra esperanza hacia el cielo como hacia la nueva tierra prometida» (§1820). El Catecismo la describe con tres imágenes: «el ancla del alma, segura y firme», el «yelmo de la esperanza de salvación» que nos protege en el combate, y el gozo en la prueba misma: «Con la alegría de la esperanza; constantes en la tribulación» (§1820). «Se expresa y se alimenta en la oración, particularmente en la del Padre Nuestro, resumen de todo lo que la esperanza nos hace desear» (§1820); la liturgia, en efecto, «nos educa para orar en la esperanza», y los salmos «nos enseñan a fijar nuestra esperanza en Dios» (§2657).
+
+La esperanza es también objeto de mandamiento: «La esperanza es aguardar confiadamente la bendición divina y la bienaventurada visión de Dios» (§2090), y el primer mandamiento prohíbe los dos pecados que la destruyen (§2091). La **desesperación**, por la que el hombre «deja de esperar de Dios su salvación personal, el auxilio para llegar a ella o el perdón de sus pecados», y que «se opone a la Bondad de Dios, a su Justicia —porque el Señor es fiel a sus promesas— y a su misericordia» (§2091). Y la **presunción**, de dos clases: «o bien el hombre presume de sus capacidades (esperando poder salvarse sin la ayuda de lo alto), o bien presume de la omnipotencia o de la misericordia divinas (esperando obtener su perdón sin conversión y la gloria sin mérito)» (§2092).
 
 ### Según el Compendio (CompDS)
 
@@ -108,7 +119,6 @@ Retoma a San Bernardo: «la gloria se esconde ahora en la tribulación; la etern
 ### Según Juan Pablo II (JPII-JovCh)
 
 Juan Pablo II anima a los jóvenes a estar «dispuestos a dar razón de vuestra esperanza» [JPII-JovCh]. La esperanza cristiana se funda en la fe en Cristo vivo, de modo que «un optimismo cristiano probará desde modo el terreno al pesimismo exterio y os dará confianza en el Señor» [JPII-JovCh]. Esta esperanza no es ingenua: nace de la experiencia de fe que descubre a Cristo como aquel que «no solo da la vida, sino que es la vida misma» [JPII-JovCh].
-
 
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
@@ -272,27 +282,29 @@ acompañamiento sería gestión de un daño irreversible; porque hay
 cristiana no promete que la prueba desaparezca, sino que será atravesada con
 sentido.
 
-## Relaciones doctrinales
-
-Ver artículo principal: [[virtud_de_la_esperanza]]
-
-
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 El objeto de la esperanza es doble: el bien futuro deseado (la beatitud eterna) y la ayuda divina para alcanzarlo — por eso Dios mismo es su objeto, como virtud teologal. Hace inhere en Dios como fuente de la bondad perfecta, confiando en su auxilio; la desesperación, su contraria, no tiene verdadera idea de Dios (no cree que de Él venga la salvación y el perdón). La esperanza y el don de temor van juntos: ambos producen humildad — la esperanza, porque no nos atrevemos a fiarnos de nuestras fuerzas; el temor, porque vence la presunción que da por segura la misericordia y desprecia la justicia.
+
+## Relaciones doctrinales
+
+Ver artículo principal: [[virtud_de_la_esperanza]]
 
 ## Analizado para
 
 - [[adam_farber_fortitude_through_excellence_in_patience]]
 
 ## Ver también
+
 [[virtud_de_la_esperanza]], [[virtudes_teologales]], [[virtudes_infusas]], [[amor_puro]], [[francisco_fenelón]], [[san_judas_tadeo]], [[spe_salvi]], [[benedicto_xvi]], [[iglesia_doméstica]], [[perdón]], [[imanentización_del_escatón]], [[charles_péguy]], [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
+
 - LTL, *Living the Truth in Love: Pastoral Approaches to Same-Sex Attraction* (Janet E. Smith y Paul Check, eds., Ignatius Press, 2015).
 
 - CEC §1817-1821
 - TPCr, Tercera Parte, Libro I, Cap. III
+- CEC §1817-1821, §2090-2092, §2657
 - [CompDS §578-§579]
 - SmTh Ia-IIae q.40 aa.1-6
 - SmTh IIª-IIae q.17 aa.1-8; q.18 aa.1-4; q.22 aa.1-2

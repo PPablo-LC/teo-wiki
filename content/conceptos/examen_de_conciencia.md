@@ -27,8 +27,6 @@ El examen debe ser el lazo de unión entre todos los ejercicios espirituales y e
 
 Advierte contra una concepción puramente negativa y matemática del examen, que puede llevar a la meticulosidad, inquietud, desaliento y escrúpulo (n.609).
 
-## Perspectivas por fuente
-
 ### Según Mons. Tihámer Tóth (JvC)
 
 El examen de conciencia comienza con la sinceridad con uno mismo. JvC dedica una sección a «Sé sincero contigo mismo»: «Tras realizar cualquier acción, pregunta a tu conciencia si aprueba lo que has hecho. Pero no te engañes a ti mismo» [JvC, Cap. III]. «Habla reiteradamente contigo mismo en el silencio para que así llegues a conocerte cada vez mejor. Y, sobre todo, sé sincero con Dios. Dios es la verdad eterna y todo lo ve» [JvC, Cap. III].
@@ -51,13 +49,13 @@ El fruto del examen no es la contabilidad de faltas sino el propósito y la ofre
 
 Se relaciona con la [[presencia_de_dios]] (ambos afectan al entendimiento), la [[dirección_espiritual]] y la [[vida_de_oración]].
 
-
 ## Analizado para
 
 - [[auténtica_día_1_enfrenta_tus_miedos]]
 - [[primeros_pasos_en_la_vida_espiritual]]
 
 ## Ver también
+
 [[presencia_de_dios]], [[dirección_espiritual]], [[vida_de_oración]]
 
 ## Referencias

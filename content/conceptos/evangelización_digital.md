@@ -5,6 +5,7 @@ tags: ["evangelización", "medios_de_comunicación_social", "nueva_evangelizaci�
 timestamp: 2026-08-22
 description: "La evangelización a través de los medios digitales: internet, redes sociales y plataformas online como nuevo Areópago para proclamar el Evangelio."
 ---
+
 # Evangelización digital
 
 > Área: Evangelización / Medios de comunicación
@@ -19,6 +20,12 @@ La evangelización digital es el anuncio del Evangelio a través de los medios d
 Bishop Robert Barron recuerda que «la nueva evangelización es nueva no solo en ardor y expresión, sino también en método» (JPII). Los nuevos medios —internet, smartphones y redes sociales— ofrecen un poder extraordinario para proclamar Cristo a la cultura. Con ellos podemos alcanzar a millones de personas que de otra manera jamás tendrían contacto con la Iglesia.
 
 La evangelización digital se fundamenta en la analogía paulina: así como Pablo usó los métodos de su época —pergamino, tinta y caminos romanos— para difundir el Evangelio, los evangelizadores de hoy deben dominar los nuevos medios. Word on Fire ha hecho de este compromiso uno de sus ocho principios fundacionales.
+
+## Perspectivas por fuente
+
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+EAC-8 (archivo 19) recoge la visión mediática de Word on Fire: los medios digitales como frontera misionera — «las redes sociales toman los atributos que les demos… alguien tiene que predicar el Evangelio ahí; es la nueva frontera de la evangelización» (Gloor/Cummins). La producción de calidad industrial elevada «espiritual, intelectual y creativamente» sirve a la Nueva Evangelización con enfoque ad-extra; el «Christianese» (lenguaje cristiano autorreferencial) debe superarse para hablar al hombre contemporáneo.
 
 ## Peligros de la evangelización digital
 
@@ -57,10 +64,6 @@ Los evangelizadores digitales se dirigen especialmente a los «nones» (no afili
 ## Relación con otras fuentes
 
 EAC-3, 01_from_the_desk.md (Barron), EAC-3, 03_word_from_institute.md, EAC-3, 15_vogt_media_evangelist.md, EAC-3, 09_spotlight_sheen_microphone.md.
-
-### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
-
-EAC-8 (archivo 19) recoge la visión mediática de Word on Fire: los medios digitales como frontera misionera — «las redes sociales toman los atributos que les demos… alguien tiene que predicar el Evangelio ahí; es la nueva frontera de la evangelización» (Gloor/Cummins). La producción de calidad industrial elevada «espiritual, intelectual y creativamente» sirve a la Nueva Evangelización con enfoque ad-extra; el «Christianese» (lenguaje cristiano autorreferencial) debe superarse para hablar al hombre contemporáneo.
 
 ## Ver también
 

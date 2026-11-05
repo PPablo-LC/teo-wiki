@@ -29,6 +29,12 @@ Tras la instalación en Canaán, el tiempo del desierto se idealiza como época 
 
 [VocTeoBib, «Desierto»]
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**Lugar donde mueren las ilusiones.** Comentando la pregunta de Jesús «¿Qué salisteis a ver en el desierto?», Barron define el desierto como «un lugar de sencillez y pobreza, un lugar donde mueren las ilusiones, donde la realidad se afronta con honradez y sin componendas» (AGR21, 16 de diciembre). La Biblia lo emplea con frecuencia «como escenario del descubrimiento de verdades audaces y sencillas», y por eso el Adviento es para el creyente «un tiempo de desierto» que lo devuelve a lo básico.
+
+**El desierto del pecado.** En la reflexión sobre Elías y el Bautista, Juan aparece en el desierto y «ahí representa a todos nosotros en el desierto del pecado, el lugar sin vida. Es como si Juan hubiera ido allí a propósito para recordarnos nuestra necesidad de gracia» (11 de diciembre).
+
 ## Distinciones importantes
 
 - El desierto como «lugar geográfico» (maldito, inhabitado) difiere del desierto como «tiempo histórico» (etapa de formación del pueblo).

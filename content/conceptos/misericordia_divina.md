@@ -6,6 +6,7 @@ tags: ["dogmática", "moral"]
 timestamp: 2026-09-02
 description: "La misericordia divina es el atributo de Dios por el cual, movido por su infinito amor, socorre al hombre en su miseria, especialmente en su estado de pecado."
 ---
+
 # Misericordia divina
 
 > Área: Dogmática / Moral
@@ -30,6 +31,18 @@ Los niños muertos sin Bautismo deben confiarse a la misericordia divina (§1261
 Santo Tomás trata la misericordia divina en SmTh Iª q.21, junto con la justicia. La misericordia es lo más grande en Dios (a.3), no como pasión de ánimo sino como efecto de su bondad: remueve los defectos de las criaturas. Su efecto se manifiesta en la liberación de toda miseria, aunque Dios actúa con justicia. En toda obra de Dios hay misericordia y justicia (a.4): la misericordia es la raíz y fundamento, pues la criatura no puede merecer nada ante Dios; todo don procede de la liberalidad divina. La justicia de Dios presupone siempre su misericordia, ya que lo que la criatura debe a Dios (gratitud, obediencia) depende del don previo de la existencia y la gracia. La misericordia divina no es contraria a la justicia vindicativa, sino que la precede y la trasciende.
 
 **Suplemento (Suppl., q.99 a.2-5):** La misericordia divina no cancela la pena eterna de los condenados obstinados (q.99 a.2). Origen erró al sostener que los demonios serían liberados finalmente por la misericordia; esta opinión fue condenada por la Iglesia. La misericordia de Dios, aunque infinita, está regida por el orden de su sabiduría, y no alcanza a quienes se hacen indignos de ella por la obstinación en el mal. Dios perdona al que se arrepiente, pero el que muere en pecado mortal sin arrepentimiento queda excluido de la misericordia que salva. La misericordia divina se manifiesta incluso en los condenados en que son castigados menos de lo que merecen (q.99 a.2 ad 1), pero no son liberados totalmente de la pena. Ni la fe, ni los sacramentos, ni las obras de misericordia aprovechan al que muere sin caridad (q.99 a.4-5): solo la caridad ordena al hombre al fin último y lo hace capaz de la misericordia que salva eternamente.
+
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.30 — La misericordia como efecto de la caridad:**
+
+**a.1 — El mal (miseria) es el motivo propio de la misericordia:** La misericordia es compasión por la miseria ajena. La miseria consiste en sufrir lo que no se quiere. Los males que arruinan y contristan son el objeto propio de la misericordia.
+
+**a.2 — La razón de ser misericordioso es la unión afectiva (por amor) o la posibilidad de padecer lo mismo:** El amor hace considerar el mal ajeno como propio. Los que se creen felices e invulnerables tienen menos misericordia.
+
+**a.3 — La misericordia es virtud:** En cuanto movimiento del apetito intelectivo regido por la razón, la misericordia es virtud. Implica una razón especial de bien (la miseria del prójimo), distinta del gozo y la paz que no añaden nada nuevo al objeto de la caridad.
+
+**a.4 — La misericordia es la mayor de las virtudes en sí misma, pero no en relación al sujeto:** En sí misma, la misericordia es lo más grande (propio de Dios socorrer deficiencias). Para el hombre, que tiene a Dios sobre sí, la caridad que une a Dios es superior. Pero entre las virtudes que miran al prójimo, la misericordia es la más excelente.
 
 ### Según Royo Marín (TPCr)
 
@@ -57,6 +70,14 @@ En sus catequesis cristológicas, Juan Pablo II vincula la misericordia divina c
 
 **Un corazón que confía en la misericordia (Hannah Marie Fowerbaugh).** La litania invoca a Jesús para pedir «un corazón que confía en tu misericordia» (trusting in Your mercy), así como la liberación de la tentación de dudar de la bondad y presencia de Dios; la misericordia divina es el fundamento de la paz en medio de la ansiedad y el sufrimiento [EAC-15, 20].
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II sitúa la misericordia divina como la respuesta definitiva al *mysterium iniquitatis* y como el núcleo de la revelación de Santa Faustina. «Los contemporáneos han entendido este mensaje. Lo han entendido a través del dramático cúmulo de mal que trajo consigo la Segunda Guerra Mundial y de las crueldades de los sistemas totalitarios. Es como si Cristo hubiera querido revelar que el límite impuesto al mal, cuyo causante y víctima resulta ser el hombre, es en definitiva la Divina Misericordia» [MI, cap. 10].
+
+«Ciertamente, en ella se incluye también la Justicia, pero ésta, por sí sola, no es la última palabra en la economía divina de la historia del mundo y en la historia del hombre. Dios sabe obtener siempre del mal algo bueno» [MI, cap. 10]. «Cristo crucificado y resucitado, como se apareció a sor Faustina, es la revelación suprema de esta verdad» [MI, cap. 10].
+
+El patrimonio espiritual de Santa Faustina «tuvo una gran importancia para la resistencia contra el mal practicado en aquellos sistemas inhumanos de entonces» [MI, cap. 10]. «¡El mal nunca consigue la victoria definitiva! El misterio pascual confirma que, a la postre, vence el bien; que la vida prevalece sobre la muerte y el amor triunfa sobre el odio» [MI, cap. 10].
+
 ## Distinciones importantes
 
 - Misericordia divina vs. justicia divina: no se oponen, sino que se complementan en el plan salvífico de Dios.
@@ -67,36 +88,15 @@ En sus catequesis cristológicas, Juan Pablo II vincula la misericordia divina c
 
 Se relaciona con [[redención]], [[conversión]], [[penitencia]], [[pecado]], [[justificación]], [[esperanza]], [[oración]] y [[padre_nuestro]].
 
-
 ## Analizado para
 
 - [[adam_farber_fortitude_through_excellence_in_patience]]
 
-
 - [CEC §1261, §1431, §1490, §1846-1848, §1987-1995, §2839-2845]
 - [TPCr, Primera Parte, Cap. 3]
 
-### Según la Summa Theologiae (SmTh)
-
-**IIª-IIae q.30 — La misericordia como efecto de la caridad:**
-
-**a.1 — El mal (miseria) es el motivo propio de la misericordia:** La misericordia es compasión por la miseria ajena. La miseria consiste en sufrir lo que no se quiere. Los males que arruinan y contristan son el objeto propio de la misericordia.
-
-**a.2 — La razón de ser misericordioso es la unión afectiva (por amor) o la posibilidad de padecer lo mismo:** El amor hace considerar el mal ajeno como propio. Los que se creen felices e invulnerables tienen menos misericordia.
-
-**a.3 — La misericordia es virtud:** En cuanto movimiento del apetito intelectivo regido por la razón, la misericordia es virtud. Implica una razón especial de bien (la miseria del prójimo), distinta del gozo y la paz que no añaden nada nuevo al objeto de la caridad.
-
-**a.4 — La misericordia es la mayor de las virtudes en sí misma, pero no en relación al sujeto:** En sí misma, la misericordia es lo más grande (propio de Dios socorrer deficiencias). Para el hombre, que tiene a Dios sobre sí, la caridad que une a Dios es superior. Pero entre las virtudes que miran al prójimo, la misericordia es la más excelente.
-
-### Según Memoria e Identidad (MI)
-
-Juan Pablo II sitúa la misericordia divina como la respuesta definitiva al *mysterium iniquitatis* y como el núcleo de la revelación de Santa Faustina. «Los contemporáneos han entendido este mensaje. Lo han entendido a través del dramático cúmulo de mal que trajo consigo la Segunda Guerra Mundial y de las crueldades de los sistemas totalitarios. Es como si Cristo hubiera querido revelar que el límite impuesto al mal, cuyo causante y víctima resulta ser el hombre, es en definitiva la Divina Misericordia» [MI, cap. 10].
-
-«Ciertamente, en ella se incluye también la Justicia, pero ésta, por sí sola, no es la última palabra en la economía divina de la historia del mundo y en la historia del hombre. Dios sabe obtener siempre del mal algo bueno» [MI, cap. 10]. «Cristo crucificado y resucitado, como se apareció a sor Faustina, es la revelación suprema de esta verdad» [MI, cap. 10].
-
-El patrimonio espiritual de Santa Faustina «tuvo una gran importancia para la resistencia contra el mal practicado en aquellos sistemas inhumanos de entonces» [MI, cap. 10]. «¡El mal nunca consigue la victoria definitiva! El misterio pascual confirma que, a la postre, vence el bien; que la vida prevalece sobre la muerte y el amor triunfa sobre el odio» [MI, cap. 10].
-
 ## Ver también
+
 [[redención]], [[conversión]], [[penitencia]], [[esperanza]], [[misericordia]], [[divina_misericordia]], [[sufrimiento_redentor]], [[acompañamiento_pastoral]]
 
 ## Referencias

@@ -6,6 +6,7 @@ tags: ["moral"]
 timestamp: 2026-06-23
 description: "La justicia es la segunda de las [[virtudes_cardinales]], virtud infusa que reside en la voluntad, por la que se da a cada uno lo suyo con voluntad constante y perpetua."
 ---
+
 # Virtud de la justicia
 
 > Área: Moral
@@ -21,39 +22,6 @@ La justicia es la segunda de las [[virtudes_cardinales]], virtud infusa que resi
 La definición clásica, tomada del Derecho Romano y aceptada por Santo Tomás, es:
 
 «La justicia es la voluntad constante y perpetua de dar a cada uno lo suyo» (Justitia est constans et perpetua voluntas ius suum cuique tribuendi).
-
-### Objeto de la justicia: el derecho (Q57)
-El derecho (ius) es el objeto de la justicia. Se llama justo a aquello que, según alguna igualdad, corresponde a otro (SmTh IIa-IIae q.57 a.1). El derecho se divide en:
-
-1. **Derecho natural**: lo que es adecuado por la misma naturaleza de la cosa (q.57 a.2), como devolver un depósito
-2. **Derecho positivo**: lo que es adecuado por convención o común acuerdo, privado (contratos) o público (leyes)
-3. **Derecho de gentes**: lo que la razón natural dicta como consecuencia de la naturaleza humana, común a todos los pueblos (q.57 a.3)
-
-El derecho divino no se llama propiamente derecho sino «norma sagrada», porque a Dios no le podemos recompensar equitativamente (q.57 a.1 ad 3).
-
-### Naturaleza de la justicia (Q58)
-La justicia es «la constante y perpetua voluntad de dar a cada uno su derecho» (q.58 a.1). Su acto es voluntario, estable y firme. Reside en la voluntad como en su sujeto (a.4), no en el apetito sensitivo, porque implica la relación racional de una cosa con otra.
-
-La justicia se refiere siempre a otro (a.2). Por analogía se llama justicia al orden interior del alma (rectitud metafórica).
-
-Es virtud general (justicia legal) en cuanto ordena al hombre al bien común (a.5-6). Es especial en cuanto tiene materia propia: las operaciones exteriores ordenadas a otro (a.7-8). No versa sobre las pasiones, sino sobre las operaciones (a.9). Su medio es real (igualdad aritmética o geométrica), no racional como en las otras virtudes morales (a.10). Su acto es dar a cada uno lo suyo (a.11). Es la más preclara de las virtudes morales (a.12): está en la parte más noble del alma (voluntad) y se ordena al bien de otro.
-
-### La injusticia (Q59)
-La injusticia es de dos clases: ilegal (contra el bien común) y particular (desigualdad con otro en bienes o males). Hacer lo injusto es por su género pecado mortal, pues todo daño inferido a otro se opone a la caridad (q.59 a.4). Nadie puede sufrir voluntariamente la injusticia en sentido formal (a.3).
-
-### El juicio (Q60)
-El juicio es el acto propio del juez, que es «la justicia animada» (q.60 a.1). Para que el juicio sea acto de justicia requiere: inclinación de justicia, autoridad del que preside, y recta razón de prudencia (a.2). El juicio suspicaz (por leves indicios) es ilícito y puede ser pecado mortal (a.3). Las dudas deben interpretarse en sentido favorable (a.4). Debe juzgarse según las leyes escritas, salvo cuando la ley va contra el derecho natural o falla en casos singulares, donde se recurre a la equidad (a.5).
-
-### Justicia distributiva y conmutativa (Q61)
-La justicia particular se divide en dos especies:
-
-1. **Justicia distributiva**: ordena la relación del todo (comunidad) a las partes; distribuye proporcionalmente los bienes comunes según la dignidad de las personas, con medio de proporción geométrica (q.61 a.1-2)
-2. **Justicia conmutativa**: ordena la relación de parte a parte; rige los cambios voluntarios e involuntarios entre personas, con medio de proporción aritmética (a.1-2)
-
-La materia de ambas es la misma (cosas, personas y obras), pero se distinguen por las acciones principales: distribución y conmutación (a.3). Lo justo no es simplemente la reciprocidad (contrapasión); en la distributiva no tiene lugar, y en la conmutativa se modera según la condición de las personas y las circunstancias (a.4).
-
-### La restitución (Q62)
-La restitución es acto de la justicia conmutativa: restablece la igualdad devolviendo lo ajeno (q.62 a.1). Es necesaria para la salvación (a.2): «No se perdona el pecado sin restituir lo que se sustrajo» (San Agustín). Basta restituir lo sustraído, más la pena corresponde al juez (a.3). Debe restituirse a aquel de quien se tomó (a.5). Está obligado el que tomó y también el que es causa de la sustracción (a.6-7): mandato, consejo, consentimiento, halago, ayuda, participación, silencio, inhibición, encubrimiento. La restitución debe hacerse inmediatamente (a.8).
 
 ### Partes de la justicia (resumen)
 Santo Tomás distingue varias partes potenciales o virtudes anejas a la justicia (q.80-122):
@@ -148,6 +116,39 @@ En la audiencia general del 8-XI-1978, Juan Pablo II presenta la justicia como l
 
 **Virtud del corazón.** La justicia no es una ciencia teórica. Es virtud, es capacidad del espíritu humano, de la voluntad humana e, incluso, del corazón. Es necesario orar para ser justos y saber ser justos. «Con la medida con que midiereis se os medirá» (Mt 7,2).
 
+### Objeto de la justicia: el derecho (Q57)
+El derecho (ius) es el objeto de la justicia. Se llama justo a aquello que, según alguna igualdad, corresponde a otro (SmTh IIa-IIae q.57 a.1). El derecho se divide en:
+
+1. **Derecho natural**: lo que es adecuado por la misma naturaleza de la cosa (q.57 a.2), como devolver un depósito
+2. **Derecho positivo**: lo que es adecuado por convención o común acuerdo, privado (contratos) o público (leyes)
+3. **Derecho de gentes**: lo que la razón natural dicta como consecuencia de la naturaleza humana, común a todos los pueblos (q.57 a.3)
+
+El derecho divino no se llama propiamente derecho sino «norma sagrada», porque a Dios no le podemos recompensar equitativamente (q.57 a.1 ad 3).
+
+### Naturaleza de la justicia (Q58)
+La justicia es «la constante y perpetua voluntad de dar a cada uno su derecho» (q.58 a.1). Su acto es voluntario, estable y firme. Reside en la voluntad como en su sujeto (a.4), no en el apetito sensitivo, porque implica la relación racional de una cosa con otra.
+
+La justicia se refiere siempre a otro (a.2). Por analogía se llama justicia al orden interior del alma (rectitud metafórica).
+
+Es virtud general (justicia legal) en cuanto ordena al hombre al bien común (a.5-6). Es especial en cuanto tiene materia propia: las operaciones exteriores ordenadas a otro (a.7-8). No versa sobre las pasiones, sino sobre las operaciones (a.9). Su medio es real (igualdad aritmética o geométrica), no racional como en las otras virtudes morales (a.10). Su acto es dar a cada uno lo suyo (a.11). Es la más preclara de las virtudes morales (a.12): está en la parte más noble del alma (voluntad) y se ordena al bien de otro.
+
+### La injusticia (Q59)
+La injusticia es de dos clases: ilegal (contra el bien común) y particular (desigualdad con otro en bienes o males). Hacer lo injusto es por su género pecado mortal, pues todo daño inferido a otro se opone a la caridad (q.59 a.4). Nadie puede sufrir voluntariamente la injusticia en sentido formal (a.3).
+
+### El juicio (Q60)
+El juicio es el acto propio del juez, que es «la justicia animada» (q.60 a.1). Para que el juicio sea acto de justicia requiere: inclinación de justicia, autoridad del que preside, y recta razón de prudencia (a.2). El juicio suspicaz (por leves indicios) es ilícito y puede ser pecado mortal (a.3). Las dudas deben interpretarse en sentido favorable (a.4). Debe juzgarse según las leyes escritas, salvo cuando la ley va contra el derecho natural o falla en casos singulares, donde se recurre a la equidad (a.5).
+
+### Justicia distributiva y conmutativa (Q61)
+La justicia particular se divide en dos especies:
+
+1. **Justicia distributiva**: ordena la relación del todo (comunidad) a las partes; distribuye proporcionalmente los bienes comunes según la dignidad de las personas, con medio de proporción geométrica (q.61 a.1-2)
+2. **Justicia conmutativa**: ordena la relación de parte a parte; rige los cambios voluntarios e involuntarios entre personas, con medio de proporción aritmética (a.1-2)
+
+La materia de ambas es la misma (cosas, personas y obras), pero se distinguen por las acciones principales: distribución y conmutación (a.3). Lo justo no es simplemente la reciprocidad (contrapasión); en la distributiva no tiene lugar, y en la conmutativa se modera según la condición de las personas y las circunstancias (a.4).
+
+### La restitución (Q62)
+La restitución es acto de la justicia conmutativa: restablece la igualdad devolviendo lo ajeno (q.62 a.1). Es necesaria para la salvación (a.2): «No se perdona el pecado sin restituir lo que se sustrajo» (San Agustín). Basta restituir lo sustraído, más la pena corresponde al juez (a.3). Debe restituirse a aquel de quien se tomó (a.5). Está obligado el que tomó y también el que es causa de la sustracción (a.6-7): mandato, consejo, consentimiento, halago, ayuda, participación, silencio, inhibición, encubrimiento. La restitución debe hacerse inmediatamente (a.8).
+
 ## Distinciones importantes
 
 - **Justicia general vs. particular**: la primera al bien común; la segunda a las relaciones entre individuos
@@ -164,7 +165,6 @@ En la audiencia general del 8-XI-1978, Juan Pablo II presenta la justicia como l
 - Fundamento de la [[caridad]] (la caridad presupone la justicia)
 - Se relaciona con la religión, la piedad, la gratitud y otras virtudes anejas
 
-
 ## Analizado para
 
 - [[adam_farber_fortitude_through_excellence_in_mercy]]
@@ -174,6 +174,7 @@ En la audiencia general del 8-XI-1978, Juan Pablo II presenta la justicia como l
 - [[john_wissler_virtuous_leadership]]
 
 ## Ver también
+
 - [[virtudes_cardinales]]
 - [[virtudes_infusas]]
 - [[gracia_santificante]]

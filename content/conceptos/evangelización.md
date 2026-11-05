@@ -6,6 +6,7 @@ tags: ["doctrina_social", "eclesiología"]
 timestamp: 2026-09-08
 description: "La evangelización es la misión de la Iglesia de anunciar el Evangelio en todas las dimensiones de la vida, incluido el deporte como vía de belleza y testimonio."
 ---
+
 # Evangelización
 
 > Área: Doctrina Social / Eclesiología
@@ -92,17 +93,6 @@ El documento subraya que la evangelización tiene como centro el **kerigma** —
 - **La evangelización por la educación de don Bosco** (cap. 7): el oratorio como «parrocchia dei ragazzi che non hanno parrocchia»; Rosmini «paragonava la nostra opera alle missioni che si aprono in terra straniera»: la primera industrialización de Turín como tierra de misión. Millones de italianos formados en 125 años de oratorios salesianos — «semplicemente vedeva il bisogno e interveniva... su uomini concreti, quelli che la storia la fanno tutti i giorni».
 - **La evangelización del sufrimiento** (caps. 3 y 5): Benedetta Bianchi Porro escribe incluso en los periódicos (celebérrima su carta a *Época*) «per dare conforto a giovani come lei sofferenti ma disperati»; Edith Stein muere diciendo «Vieni, andiamo per il nostro popolo»: el testimonio mismo como evangelización.
 
-## Relaciones doctrinales
-
-Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[nueva_evangelización]], [[promoción_humana]], [[justicia_social]], [[reino_de_dios]]
-
-
-## Analizado para
-
-- [[brian_cochran_my_personal_emmaus]]
-- [[fr_michael_luxbacher_life_in_abundance]]
-- [[joey_stevens_grit_perseverance]]
-
 ### Según Evangelization ### Según Evangelization & Culture (EAC-3) Culture n.º 3 «The Digital Age» (EAC-3)
 
 Bishop Robert Barron recuerda que «la nueva evangelización es nueva no solo en ardor y expresión, sino también en método». Los nuevos medios —internet, smartphones y redes sociales— ofrecen un poder extraordinario para proclamar Cristo a la cultura. Con ellos podemos alcanzar a millones de personas que de otra manera jamás tendrían contacto con la Iglesia. Así como Pablo usó los métodos de su época —pergamino, tinta y caminos romanos— para difundir el Evangelio, los evangelizadores de hoy deben dominar los nuevos medios.
@@ -171,7 +161,28 @@ De ahí que el fascículo presente la familia, la comunidad y la vida ordinaria 
 
 **La inclusión como evangelización (19_feature_bradford.md):** Los Juegos Especiales, fundados por Eunice Kennedy Shriver, son evangelización encarnada: el deporte como bálsamo para la discapacidad intelectual, rompiendo el aislamiento. «El deporte es un lenguaje universal que dice a cada persona: tú importas, tú perteneces». La evangelización de las periferias (EG 14) se hace concreta en la pista de atletismo.
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**Organizar la vida en torno a la evangelización.** Comentando el envío de los Doce (Mt 9,35–10,8), Barron concluye que «todo lo que hacemos debe estar relacionado de algún modo» con la evangelización (AGR21, 4 de diciembre). No todos han de ser evangelizadores profesionales —«se puede evangelizar por la calidad moral de la propia vida»—, pero «nada en nuestra vida debe ser más importante que anunciar la victoria de Jesús».
+
+**Los demás como oportunidad.** El cambio de mirada es concreto: en lugar de ver a los otros como objetos que se usan o como personas molestas que estorban los propios proyectos, verlos como aquellos a quienes se está llamado a servir; y en lugar de preguntar «¿por qué se me cruza esta persona?», preguntar «¿qué oportunidad de evangelización se me ha presentado?».
+
+**Llevar a otros a Cristo.** El mismo impulso aparece en la reflexión sobre el paralítico bajado por el techo: muchos católicos están «paralizados» ante Cristo y la Iglesia por la duda, el miedo, la ira, el resentimiento, la ignorancia o la autorrecriminación, y la tarea del creyente es acercarlos con «una palabra de ánimo, un desafío, una explicación, una palabra de perdón, una nota, una llamada telefónica» (6 de diciembre).
+
+**La oración por los obreros.** El medio principal señalado por Jesús es la oración: «rogad al dueño de la mies que envíe trabajadores a su mies» (4 de diciembre).
+
+## Relaciones doctrinales
+
+Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[nueva_evangelización]], [[promoción_humana]], [[justicia_social]], [[reino_de_dios]]
+
+## Analizado para
+
+- [[brian_cochran_my_personal_emmaus]]
+- [[fr_michael_luxbacher_life_in_abundance]]
+- [[joey_stevens_grit_perseverance]]
+
 ## Ver también
+
 [[misión_de_la_iglesia]], [[doctrina_social_de_la_iglesia]], [[promoción_humana]], [[caridad]], [[justicia]]
 
 ## Referencias

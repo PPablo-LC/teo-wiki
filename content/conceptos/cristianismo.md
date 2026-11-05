@@ -30,20 +30,6 @@ Giussani define el cristianismo como «un nuovo inizio», no como «una nuova va
 
 Esta novedad se prolonga en la historia por el encuentro que se repite: «Il cristianesimo è un nuovo inizio, che ogni giorno riviviamo in filigrana nel corso della storia, una storia in cui l'incontro di vita con Gesù viene continuamente ripetuto» (TACDC, 00, 10). No es primariamente un sistema de ideas ni un código moral, sino la irrupción de una Presencia: «l'annuncio cristiano è: “Dio s'è reso presenza tra noi”», y esa presencia se da «innanzitutto... sotto la forma di un incontro» (TACDC, 03, 79-83). De ahí que el cristianismo introduzca en la historia un «uomo nuovo», que «ha una “esperienza della realtà”... diverso da quello degli altri» (TACDC, 02, 173).
 
-## Distinciones importantes
-
-- **Cristianismo** (realidad fundada por Cristo) ≠ **cristiandad** (orden sociocultural cristiano histórico, reversible y reformable).
-- **Cristianismo** ≠ ética religiosa natural: su centro es el Misterio pascual, no la sabiduría moral (1 Cor 1,22-24).
-- **Cristianismo «cultural»** ≠ cristianismo vivo: la pertenencia sin fe es el reto de la [[nueva_evangelización]].
-
-## Relaciones doctrinales
-
-[[iglesia]], [[cristo]], [[misterio_pascual]], [[encarnación]], [[revelación]], [[fe]], [[sacramentos]], [[nueva_evangelización]], [[secularización]], [[religión]]
-
-## Ver también
-
-[[iglesia]], [[cristo]], [[misterio_pascual]], [[revelación]], [[fe]], [[sacramentos]], [[nueva_evangelización]], [[cristología]], [[misterio_eucarístico]]
-
 ### Según La convenienza umana della fede (CUDF)
 
 La obra es en sí misma una **puesta a prueba del cristianismo**: «*La convenienza umana
@@ -69,6 +55,20 @@ ardor, el altruismo y la dedicación” […]» (00, 79).
 cuando me someto al nombre de este Cristo, aprobándolo así como el hombre modelo,
 como el parámetro normativo de todo obrar humano?» (J. Ratzinger, *Introduzione al
 cristianesimo*; 02, 11).
+
+## Distinciones importantes
+
+- **Cristianismo** (realidad fundada por Cristo) ≠ **cristiandad** (orden sociocultural cristiano histórico, reversible y reformable).
+- **Cristianismo** ≠ ética religiosa natural: su centro es el Misterio pascual, no la sabiduría moral (1 Cor 1,22-24).
+- **Cristianismo «cultural»** ≠ cristianismo vivo: la pertenencia sin fe es el reto de la [[nueva_evangelización]].
+
+## Relaciones doctrinales
+
+[[iglesia]], [[cristo]], [[misterio_pascual]], [[encarnación]], [[revelación]], [[fe]], [[sacramentos]], [[nueva_evangelización]], [[secularización]], [[religión]]
+
+## Ver también
+
+[[iglesia]], [[cristo]], [[misterio_pascual]], [[revelación]], [[fe]], [[sacramentos]], [[nueva_evangelización]], [[cristología]], [[misterio_eucarístico]]
 
 ## Referencias
 

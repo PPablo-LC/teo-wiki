@@ -6,6 +6,7 @@ tags: ["dogmática"]
 timestamp: 2026-09-15
 description: "El mal no es una naturaleza o esencia positiva, sino la privación del bien que debe poseerse (*privatio boni*). No tiene ser en sí mismo, sino que existe en el bien como en su sujeto."
 ---
+
 # Mal
 
 > Área: Dogmática
@@ -45,13 +46,6 @@ La misericordia «se manifiesta en su aspecto verdadero y propio cuando revalida
 
 Todo ente es bueno en sí porque viene de Dios; el mal es **privación** de ser y de bien, no una cosa: la ceguera tiene ser solo como predicado, no en la naturaleza de las cosas (De Ente et Essentia). No hay principio del mal (contra los maniqueos, herencia de la misión dominica de Santo Domingo a los albigenses): los bienes convergen como radios en un centro, el mal «se aparta» en cualquier dirección; solo lo existente puede causar, y un principio totalmente malo sería totalmente inexistente — «el mal es parásito que destruye lo de que vive». La causa del mal no es el Creador ni la naturaleza, sino la **voluntad**: nadie elige el mal como tal sino un bien (el anillo) desordenado; el pecado es discordia con la recta razón o con la ley divina. Dios no causa el pecado: el pecado no tiene causa eficaz sino **defectiva** — Dios «no causa más la dureza del corazón que el sol la oscuridad de un cuarto con las persianas cerradas»; el pecado es aversión de Dios, apartarse de esa luz que nunca se aparta. El mal de culpa es mayor que el mal de pena: separación del bien supremo — contra la época que considera el dolor peor mal que la pérdida de la gracia.
 
-## Distinciones importantes
-
-- **Mal de pena vs. mal de culpa**: la pena es privación de un bien en el sujeto; la culpa es desorden de la acción voluntaria. La culpa es ontológicamente peor porque hace malo al agente.
-- **Privación vs. negación**: la privación es ausencia de un bien que se debe tener; la negación es simple ausencia sin carácter de mal.
-- **Causa deficiente vs. causa eficiente**: el mal no tiene causa eficiente directa; procede de un defecto en la acción o en la materia.
-- **Dualismo refutado**: la existencia del mal no exige un principio malo independiente, pues el mal es siempre parasitario del bien.
-
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II sitúa la reflexión sobre el mal en el contexto histórico del siglo XX, conectando la definición tomista de *privatio boni* con la experiencia de las ideologías del mal. El mal se manifiesta en la coexistencia del «trigo» y la «cizaña» (Mt 13,24-30): «Si el mal existe al lado del bien, el bien, no obstante, persiste al lado del mal y, por decirlo así, crece en el mismo terreno, que es la naturaleza humana. En efecto, ésta no quedó destruida, no se volvió totalmente mala a pesar del pecado original» [MI, cap. 1].
@@ -60,10 +54,16 @@ Las ideologías del mal —nazismo y comunismo— nacen del rechazo a Dios como 
 
 El mal no es omnipotente: la Divina Providencia impone límites a su desenfreno. «Dios concedió al hitlerismo doce años de existencia y, cumplido este plazo, el sistema sucumbió» [MI, cap. 3]. El límite impuesto al mal es el bien divino y humano que se ha manifestado en la historia, por medio de Cristo [MI, cap. 3].
 
+## Distinciones importantes
+
+- **Mal de pena vs. mal de culpa**: la pena es privación de un bien en el sujeto; la culpa es desorden de la acción voluntaria. La culpa es ontológicamente peor porque hace malo al agente.
+- **Privación vs. negación**: la privación es ausencia de un bien que se debe tener; la negación es simple ausencia sin carácter de mal.
+- **Causa deficiente vs. causa eficiente**: el mal no tiene causa eficiente directa; procede de un defecto en la acción o en la materia.
+- **Dualismo refutado**: la existencia del mal no exige un principio malo independiente, pues el mal es siempre parasitario del bien.
+
 ## Relaciones doctrinales
 
 El mal como privación del bien se relaciona con la doctrina de la [[creación]] (todo lo creado es bueno), con el [[demonio]] (el ángel caído no es malo por naturaleza sino por libre elección), con el [[pecado_original]] (introducción del mal moral en la humanidad), con la [[gracia_santificante]] (remedio del mal de culpa), con la [[providencia_divina]] (Dios permite el mal para sacar bienes mayores), y con el [[mysterium_iniquitatis]] (coexistencia del bien y del mal en la historia).
-
 
 - SmTh Iª q.48 a.1-6
 - SmTh Iª q.49 a.1-3

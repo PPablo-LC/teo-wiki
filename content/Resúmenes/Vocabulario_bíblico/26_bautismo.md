@@ -20,7 +20,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[pureza]] — las abluciones rituales que purifican y capacitan para el culto
 - [[exilio]] — el judaísmo posterior al exilio multiplicando las abluciones
 - [[circuncisión]] — el bautismo de los prosélitos tan necesario como la circuncisión
-- [[juan_bautista]] — el bautismo de Juan como preparación para el mesías
+- [[san_juan_bautista]] — el bautismo de Juan como preparación para el mesías
 - [[resto]] — el resto de Israel sustraído a la ira de Dios
 - [[ira]] — la ira de Dios de la que sustrae el bautismo de Juan
 - [[fuego]] — el bautismo en Espíritu y fuego anunciado por Juan

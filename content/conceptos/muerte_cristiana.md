@@ -32,16 +32,6 @@ Tres retratos muestran la muerte cristiana en su forma más luminosa:
 
 Contra estas muertes, el capítulo 3 (Benedetta Bianchi Porro) describe la cultura de la «falsa buena muerte» — la eutanasia legalizada, el «museo de las estadísticas y de las leyes» — como negación de la muerte cristiana: Dios «vuole essere benedetto nel mistero della sofferenza», no eludido.
 
-## Distinciones importantes
-
-- **Muerte cristiana** ≠ **muerte natural**: todo hombre muere; solo el bautizado muere «en Cristo», participando de su Pascua.
-- **Muerte cristiana** ≠ **eutanasia**: la entrega del moribundo no suprime el sufrimiento; lo transforma en ofrenda.
-- **Muerte como término** ≠ **muerte como consumación**: para el cristiano la muerte es el paso a la vida eterna.
-
-## Relaciones doctrinales
-
-[[resurrección]], [[penitencia]], [[unción_de_los_enfermos]], [[martirio]], [[sufrimiento]], [[esperanza]], [[juicio_particular]], [[cultura_de_la_muerte]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]] hace de la muerte cristiana su tesis central:
@@ -61,6 +51,16 @@ tierra, humanamente, al Salvador». En la muerte de los santos se
 manifiesta «la ley de reversibilidad» del amor: «no muere cada uno para
 sí, sino los unos por los otros, o quizá los unos en lugar de los otros,
 ¡quién sabe!» (Bernanos; cf. Rm 14,7-9).
+
+## Distinciones importantes
+
+- **Muerte cristiana** ≠ **muerte natural**: todo hombre muere; solo el bautizado muere «en Cristo», participando de su Pascua.
+- **Muerte cristiana** ≠ **eutanasia**: la entrega del moribundo no suprime el sufrimiento; lo transforma en ofrenda.
+- **Muerte como término** ≠ **muerte como consumación**: para el cristiano la muerte es el paso a la vida eterna.
+
+## Relaciones doctrinales
+
+[[resurrección]], [[penitencia]], [[unción_de_los_enfermos]], [[martirio]], [[sufrimiento]], [[esperanza]], [[juicio_particular]], [[cultura_de_la_muerte]]
 
 ## Ver también
 

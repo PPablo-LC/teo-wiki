@@ -33,6 +33,26 @@ Clasificación de pecadores según su responsabilidad:
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo dedica el artículo 8 del capítulo I de la tercera parte al pecado (§§1846-1876).
+
+**Misericordia y pecado.** El Evangelio es la revelación, en Jesucristo, de la misericordia de Dios con los pecadores (§1846). La acogida de su misericordia exige la confesión de las faltas (§1847). La gracia debe descubrir el pecado para convertir el corazón (§1848).
+
+**Definición.** El pecado es una falta contra la razón, la verdad, la conciencia recta; es faltar al amor verdadero para con Dios y para con el prójimo, a causa de un apego perverso a ciertos bienes. Hiere la naturaleza del hombre y atenta contra la solidaridad humana. Ha sido definido como «una palabra, un acto o un deseo contrarios a la ley eterna» (§1849). Es una ofensa a Dios: se levanta contra el amor que Dios nos tiene y aparta de Él nuestros corazones; es una desobediencia, una rebelión contra Dios por el deseo de hacerse «como dioses» (§1850).
+
+**Diversidad.** La variedad de pecados es grande; la Escritura contiene varias listas (§1852). Se pueden distinguir según su objeto, las virtudes a que se oponen, los mandamientos que quebrantan; se agrupan según se refieran a Dios, al prójimo o a sí mismo. La raíz del pecado está en el corazón del hombre, en su libre voluntad (§1853).
+
+**Gravedad: mortal y venial.** «Conviene valorar los pecados según su gravedad. La distinción entre pecado mortal y venial, perceptible ya en la Escritura, se ha impuesto en la tradición de la Iglesia» (§1854). El pecado mortal destruye la caridad en el corazón del hombre por una infracción grave de la ley de Dios; aparta al hombre de Dios, que es su fin último (§1855). Requiere nueva iniciativa de la misericordia de Dios y conversión, ordinariamente en el sacramento de la Reconciliación (§1856). Para que un pecado sea mortal se requieren tres condiciones: materia grave, pleno conocimiento y deliberado consentimiento (§1857). La materia grave se precisa por los Diez mandamientos (§1858). El pecado mortal requiere plena conciencia y entero consentimiento; la ignorancia afectada y el endurecimiento del corazón no disminuyen, sino aumentan, el carácter voluntario (§1859). La ignorancia involuntaria puede disminuir o excusar la imputabilidad; las pasiones, presiones exteriores o trastornos patológicos pueden reducir el carácter voluntario (§1860). El pecado mortal entraña la pérdida de la caridad y de la gracia santificante; sin arrepentimiento conduce a la muerte eterna (§1861). El pecado venial se comete cuando no se observa en materia leve la medida prescrita, o en materia grave sin pleno conocimiento o consentimiento (§1862). Debilita la caridad, entraña afecto desordenado, impide el progreso del alma, merece penas temporales, pero no rompe la Alianza con Dios (§1863).
+
+**Blasfemia contra el Espíritu.** «Todo pecado y blasfemia será perdonado a los hombres pero la blasfemia contra el Espíritu Santo no será perdonada» (§1864). No hay límites a la misericordia de Dios, pero quien se niega deliberadamente a acogerla mediante el arrepentimiento rechaza el perdón y la salvación (§1864).
+
+**Proliferación.** El pecado crea facilidad para el pecado, engendra vicio por la repetición de actos; oscurece la conciencia y corrompe la valoración del bien y del mal, pero no puede destruir el sentido moral hasta su raíz (§1865). Los vicios pueden catalogarse según las virtudes a que se oponen o referirse a los pecados capitales: soberbia, avaricia, envidia, ira, lujuria, gula, pereza (§1866). Existen «pecados que claman al cielo»: la sangre de Abel, el pecado de los sodomitas, el clamor del oprimido, el lamento del extranjero, de la viuda y el huérfano, la injusticia al asalariado (§1867).
+
+**Responsabilidad social.** El pecado es un acto personal, pero se tiene responsabilidad en los pecados cometidos por otros cuando se coopera a ellos: participando directa y voluntariamente, ordenándolos, aconsejándolos, alabándolos o aprobándolos, no revelándolos o no impidiéndolos cuando hay obligación, o protegiendo a los que hacen el mal (§1868). Las «estructuras de pecado» son expresión y efecto de los pecados personales (§1869).
+
+**Resumen.** «Dios encerró (…) a todos los hombres en la rebeldía para usar con todos ellos de misericordia» (§1870). El pecado es «una palabra, un acto o un deseo contrarios a la ley eterna», ofensa a Dios que se alza contra Él en desobediencia contraria a la obediencia de Cristo (§1871). Es acto contrario a la razón que lesiona la naturaleza del hombre y atenta contra la solidaridad humana (§1872). La raíz de todos los pecados está en el corazón del hombre; sus especies y gravedad se miden principalmente por su objeto (§1873). Elegir deliberadamente una cosa gravemente contraria a la ley divina es cometer pecado mortal, que destruye la caridad y conduce a la muerte eterna sin arrepentimiento (§1874). El pecado venial constituye un desorden moral reparable por la caridad que deja subsistir (§1875). La reiteración de pecados, incluso veniales, engendra vicios entre los que se distinguen los pecados capitales (§1876).
+
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC regula la imputabilidad de las infracciones en los cc. 1321-1330, distinguiendo grados de responsabilidad moral análogos a los del pecado. Nadie puede ser castigado a no ser que la violación externa de una ley o precepto le sea gravemente imputable por dolo o culpa (c. 1321 §1). Quien infringió deliberadamente queda sujeto a la pena; quien lo hizo por omisión de la debida diligencia no debe ser castigado a no ser que la ley disponga otra cosa (c. 1321 §2). Cometida la infracción externa, se presume la imputabilidad a no ser que conste lo contrario (c. 1321 §3). Se consideran incapaces de cometer delito quienes carecen habitualmente de uso de razón (c. 1322). No quedan sujetos a pena: quienes no han cumplido dieciséis años, quienes obraron por ignorancia sin culpa, violencia, caso fortuito, miedo grave, legítima defensa, o quienes carecían de uso de razón (c. 1323). La pena debe atenuarse cuando el infractor tenía solo uso imperfecto de razón, obró por impulso grave de pasión, o era menor de edad entre dieciséis y dieciocho años (c. 1324). No se toma en cuenta la ignorancia crasa, supina o afectada, ni la embriaguez provocada intencionalmente (c. 1325). El juez puede castigar con mayor gravedad a quien es pertinaz en la mala voluntad o abusó de su autoridad (c. 1326). La tentativa no consumada no queda sujeta a la pena del delito consumado, pero puede castigarse con penitencia o remedio penal (c. 1328).
@@ -203,6 +223,7 @@ también los graves.
 
 ## Referencias
 
+- Catecismo de la Iglesia Católica, 1846-1876.
 - TPCr, Tercera Parte, Libro I, Cap. I, n.197-206
 - SmTh Ia-IIae q.71-89
 - [San Juan de la Cruz, Subida I,11]

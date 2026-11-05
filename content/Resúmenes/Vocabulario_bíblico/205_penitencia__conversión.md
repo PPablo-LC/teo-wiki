@@ -41,7 +41,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[perdón]] — el perdón de Dios
 - [[enfermedad_y_curación]] — los salmos de los enfermos
 - [[persecución]] — los salmos de los perseguidos
-- [[juan_bautista]] — Juan Bautista, el último de los profetas
+- [[san_juan_bautista]] — Juan Bautista, el último de los profetas
 - [[juicio]] — el juicio que debe preceder a la venida del reino
 - [[ira]] — la ira manifestada el día de Yahveh
 - [[abraham]] — la raza de Abraham
@@ -128,7 +128,7 @@ pues se ha comprendido la lección de Ezequiel. Los salmos de los [[enfermedad_y
 
 ## I. El último de los profetas
 
-En el umbral del NT el mensaje de conversión de los profetas reaparece en toda su pureza en la predicación de [[juan_bautista|Juan]] Bautista, el último de ellos. Lucas resume así su misión: «reducirá numerosos hijos de Israel al Señor su Dios» *Lc 1,16s* *Mal 3,24*. Una frase condensa su mensaje: «Convertíos, pues el reino de los cielos está cerca» *Mt 3,2*. La venida del reino abre una perspectiva de esperanza; pero Juan subraya sobre todo el [[juicio|juicio]] que debe precederla. Nadie podrá sustraerse a la [[ira|ira]] que se manifestará el [[día_del_señor|día]] de Yahveh *Mt 3,7.10.12*. De nada servirá pertenecer a la raza de [[abraham|Abraham]] *Mt 3,9*. Todos los hombres deben reconocerse pecadores, producir un [[fruto|fruto]] que sea digno del arrepentimiento *Mt 3,8*, adoptar un comportamiento nuevo apropiado a su estado *Lc 3,10-14*. Como signo de esta conversión da Juan un [[bautismo|bautismo]] de agua, que debe preparar a los penitentes para el bautismo de fuego y del Espíritu Santo que dará el Mesías *Mt 3,11 p*.
+En el umbral del NT el mensaje de conversión de los profetas reaparece en toda su pureza en la predicación de [[san_juan_bautista|Juan]] Bautista, el último de ellos. Lucas resume así su misión: «reducirá numerosos hijos de Israel al Señor su Dios» *Lc 1,16s* *Mal 3,24*. Una frase condensa su mensaje: «Convertíos, pues el reino de los cielos está cerca» *Mt 3,2*. La venida del reino abre una perspectiva de esperanza; pero Juan subraya sobre todo el [[juicio|juicio]] que debe precederla. Nadie podrá sustraerse a la [[ira|ira]] que se manifestará el [[día_del_señor|día]] de Yahveh *Mt 3,7.10.12*. De nada servirá pertenecer a la raza de [[abraham|Abraham]] *Mt 3,9*. Todos los hombres deben reconocerse pecadores, producir un [[fruto|fruto]] que sea digno del arrepentimiento *Mt 3,8*, adoptar un comportamiento nuevo apropiado a su estado *Lc 3,10-14*. Como signo de esta conversión da Juan un [[bautismo|bautismo]] de agua, que debe preparar a los penitentes para el bautismo de fuego y del Espíritu Santo que dará el Mesías *Mt 3,11 p*.
 
 ## II. Conversión y entrada en el reino de Dios
 

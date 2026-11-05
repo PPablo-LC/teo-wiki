@@ -25,17 +25,18 @@ La imagen de Dios se encuentra de modo más perfecto en Cristo, que es "la image
 
 La pérdida del pecado original no destruye la imagen (que es la racionalidad misma del ser humano), pero sí oscurece y daña la semejanza: el ser humano sigue siendo racional, pero su razón está empañada por la ignorancia y su voluntad inclinada al mal. La redención en Cristo restaura la semejanza (la gracia y las virtudes) y eleva la imagen a su plenitud sobrenatural. En la vida eterna, la imagen alcanza su realización total: el intelecto humano conocerá a Dios como Él se conoce a Sí mismo, y la voluntad lo amará con la perfección del amor divino.
 
-La imagen de Dios tiene también una dimensión comunitaria: el ser humano fue creado "varón y mujer" (Gn 1, 27), y la imagen se manifiesta en la relación interpersonal. La comunidad humana refleja la communion trinitaria de personas, y la imagen se realiza plenamente en la caridad fraterna.
+La imagen de Dios tiene también una dimensión comunitaria: el ser humano fue creado "varón y mujer" (Gn 1, 27), y la imagen se manifiesta en la relación interpersonal. La comunidad humana refleja la comunión trinitaria de personas, y la imagen se realiza plenamente en la caridad fraterna.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El Catecismo enseña que "la dignidad del hombre consiste en que fue hecho a imagen de Dios" (§356) y que "la imagen de Dios que es el hombre... se refiere a los seres racionales y espirituales" (§356). El ser humano fue creado "capaz de conocer y amar a su Creador" (§356). La imagen se vincula a la libertad: "El ser humano es-image-de-Dios en cuanto es persona, es decir, un ser dotado de razón y de libre albedrío" (§357).
+El Catecismo enseña que "la dignidad del hombre consiste en que fue hecho a imagen de Dios" (§356) y que "la imagen de Dios que es el hombre... se refiere a los seres racionales y espirituales" (§356). El ser humano fue creado "capaz de conocer y amar a su Creador" (§356). La imagen se vincula a la libertad: "El ser humano es imagen de Dios en cuanto es persona, es decir, un ser dotado de razón y de libre albedrío" (§357).
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El Vocabulario distingue entre imagen (*ṣēlem*) y semejanṣ (*dəmûṯ*) en el texto hebreo del Génesis, mostrando que ambos términos se usan en paralelo para enfatizar la plenitud de la representación divina. La imagen se entiende como la realidad objetiva (la naturaleza racional), mientras que la semejanza alude a la cualidad de parecerse a Dios en la conducta moral y espiritual.
+
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.93 — La imagen de Dios en el ser humano:**
@@ -50,6 +51,17 @@ El Vocabulario distingue entre imagen (*ṣēlem*) y semejanṣ (*dəmûṯ*) en
 
 **a.9 — Distinción entre imagen (*imago*) y semejanza (*similitudo*):** La imagen se refiere a la naturaleza racional, que es inseparable del ser humano en cuanto tal. La semejanza se refiere a la gracia gratuitamente concedida, que puede perderse por el pecado mortal. El ser humano en estado de justicia original tenía imagen y semejanza; tras el pecado conserva la imagen pero ha perdido la semejanza (SmTh Iª q.93 a.9).
 
+### Según Robert Barron (Thomas Aquinas: Spiritual Master)
+
+Barron presenta la imagen de Dios en el ser humano desde la perspectiva de la espiritualidad cristiana contemporánea, destacando tres aspectos clave:
+
+1. **La imagen como llamada al éxtasis místico**: El ser humano, creado *imago Dei*, está hecho para un encuentro transformante con Dios que trasciende la mera racionalidad. La espiritualidad de Barron, influenciada por la tradición tomista pero abierta al misterio contemporáneo, presenta la imagen de Dios no solo como una capacidad racional, sino como una orientación existencial hacia el Dios vivo. El "hacerse éxtasis" del humano en Dios no es un escape de la realidad, sino su pleno cumplimiento.
+
+2. **La sacra doctrina como revelación de la imagen**: Al igual que Santo Tomás sitúa la imagen principalmente en la potencia intelectual, Barron enfatiza que la revelación de Cristo es el pleno descubrimiento de quién es el humano a imagen de Dios. En *Thomas Aquinas: Spiritual Master*, Barron muestra cómo la "sacra doctrina" de Tomás no es un sistema frío, sino la vía por la que el corazón humano descubre su identidad divina. La Encarnación, según Barron, es el momento en que la imagen de Dios se hace visible y tangible en Cristo, permitiendo al humano reconocerse como imagen viviente de Dios.
+
+3. **La relación entre imagen y semejanza en la espiritualidad moderna**: Mientras la tradición clásica (CEC, SmTh) distingue imagen (naturaleza racional indestructible) de semejanza (gracia que puede perderse), Barron reinterpreta esta distinción desde la experiencia espiritual contemporánea. La "semejanza" se experimenta no solo como virtudes morales, sino como la capacidad de participar en la vida divina aquí y ahora a través de la gracia santificante, la oración y la participación en los sacramentos. La "imagen", por su parte, se vivifica en la medida que el ser humano responde al llamado místico de Dios, cooperando con la gracia en un itinerario de transformación progresiva.
+
+Barron concluye que la tensión entre imagen y semejanza no es un problema teórico sino pastoral: la Iglesia debe acompañar al hombre contemporáneo en el descubrimiento de su identidad como imagen de Dios, ofreciendo los medios (sacramentos, oración, comunidad) para que la semejanza se desarrolle plenamente, sin nunca perder de vista que la imagen permanece como realidad ontológica indeleble inscrita en la naturaleza humana por el Creador.
 
 ## Distinciones importantes
 

@@ -6,6 +6,7 @@ tags: ["moral"]
 timestamp: 2026-10-19
 description: "El Decálogo (literalmente «diez palabras») es el conjunto de los diez mandamientos de la Ley de Dios."
 ---
+
 # Decálogo
 
 > Área: Moral
@@ -71,10 +72,6 @@ El Decálogo no es, por tanto, un código aislado, sino la formulación program�
 
 [IAT, cap. 10]
 
-## Analizado para
-
-- [[kevin_mulaney_prudence_decisions]]
-
 ### Según Antonio María Sicari — *Il dono della confessione* (IDC)
 
 Para Sicari el Decálogo es, ante todo, el **sendero trazado**: la respuesta a
@@ -100,8 +97,12 @@ formulación catequística italiana recogen el noveno y el décimo— como
 interiorización de todo lo anterior, en continuidad con la antifrasis del
 Sermón de la Montaña: «se dijo... pero yo os digo» (Mt 5).
 
+## Analizado para
+
+- [[kevin_mulaney_prudence_decisions]]
 
 ## Ver también
+
 [[ley_natural]], [[ley_evangélica]], [[virtud_de_la_caridad]], [[pecado]], [[mandamientos_de_la_iglesia]]
 
 ## Referencias

@@ -39,6 +39,22 @@ La consciencia no es la opinión personal, ni el sentimiento subjetivo, ni la co
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo dedica el artículo 6 del capítulo I de la tercera parte a la conciencia moral (§§1776-1802).
+
+**Definición.** «En lo más profundo de su conciencia el hombre descubre una ley que él no se da a sí mismo, sino a la que debe obedecer y cuya voz resuena, cuando es necesario, en los oídos de su corazón, llamándole siempre a amar y a hacer el bien y a evitar el mal (…). El hombre tiene una ley inscrita por Dios en su corazón (…). La conciencia es el núcleo más secreto y el sagrario del hombre, en el que está solo con Dios, cuya voz resuena en lo más íntimo de ella» (§1776). La conciencia moral es «un juicio de la razón por el que la persona humana reconoce la cualidad moral de un acto concreto que piensa hacer, está haciendo o ha hecho» (§1778). Le ordena, en el momento oportuno, practicar el bien y evitar el mal, y juzga también las opciones concretas aprobando las que son buenas y denunciando las que son malas (§1777).
+
+**Rectitud y dignidad.** La dignidad de la persona humana implica y exige la rectitud de la conciencia moral. Comprende la percepción de los principios de la moralidad («sindéresis»), su aplicación a las circunstancias concretas mediante un discernimiento práctico, y el juicio formado sobre los actos concretos (§1780). Cada uno debe prestar mucha atención a sí mismo para oír y seguir la voz de su conciencia (§1779). El hombre tiene el derecho de actuar en conciencia y en libertad; no debe ser obligado a actuar contra su conciencia, ni se le debe impedir que actúe según ella, sobre todo en materia religiosa (§1782).
+
+**Formación.** Hay que formar la conciencia y esclarecer el juicio moral (§1783). La educación de la conciencia es tarea de toda la vida, que despierta al niño al conocimiento y la práctica de la ley interior (§1784). La Palabra de Dios es la luz del caminar; es preciso asimilarla en la fe y la oración, examinar la conciencia atendiendo a la cruz del Señor, y dejarse asistir por los dones del Espíritu Santo y la enseñanza autorizada de la Iglesia (§1785).
+
+**Decidir en conciencia.** Ante la necesidad de decidir moralmente, la conciencia puede formular un juicio recto de acuerdo con la razón y la ley divina, o un juicio erróneo (§1786). En situaciones difíciles debe buscarse siempre lo justo y bueno y discernir la voluntad de Dios (§1787), interpretando los datos de la experiencia y los signos de los tiempos con prudencia, consejos y la ayuda del Espíritu (§1788). Reglas aplicables en todo caso: nunca está permitido hacer el mal para obtener un bien; la regla de oro (Mt 7,12); la caridad debe actuar siempre con respeto al prójimo y a su conciencia (§1789).
+
+**Juicio erróneo.** La persona debe obedecer siempre el juicio cierto de su conciencia; obrar deliberadamente contra él es condenarse a sí mismo (§1790). La ignorancia puede ser imputable cuando no se busca la verdad y el bien (§1791), o puede provenir de causas externas que conducen a desviaciones del juicio (§1792). Si la ignorancia es invencible o el juicio erróneo sin responsabilidad del sujeto, el mal no le es imputable, pero sigue siendo un mal y hay que trabajar por corregir la conciencia (§1793). La conciencia buena y pura es iluminada por la fe verdadera (§1794).
+
+**Resumen.** «La conciencia es el núcleo más secreto y el sagrario del hombre, en el que está solo con Dios» (§1795). La conciencia moral es un juicio de la razón que reconoce la calidad moral de un acto concreto (§1796). Para quien ha cometido el mal, el veredicto de la conciencia es garantía de conversión y esperanza (§1797). La conciencia bien formada es recta y veraz; cada uno debe poner los medios para formarla (§1798). Ante una decisión moral puede formar juicio recto o erróneo (§1799). El ser humano debe obedecer siempre el juicio cierto de su conciencia (§1800). La conciencia moral puede permanecer en la ignorancia o formar juicios erróneos, no siempre exentos de culpabilidad (§1801). La Palabra de Dios es una luz para nuestros pasos; formar la conciencia exige asimilarla en la fe y la oración (§1802).
+
 ### Evangelization & Culture 7 (EcC7)
 
 **Eileen Wilson** dedica su artículo a Newman y su influencia en Barron:
@@ -53,7 +69,6 @@ Wilson explica la distinción entre consciencia y sentimiento moral:
 
 - **Gaudium et Spes 16:** El Concilio Vaticano II afirma: «En el fondo de la conciencia descubre el hombre una ley que no es él quien se ha dado, sino que debe obedecer. Esta voz, que lo llama a amar y a hacer el bien y a evitar el mal, resuena en lo más íntimo de su corazón cuando se pone al descubierto la verdad y el bien que ha de realizar.»
 
-- **Catecismo 1776-1794:** El Catecismo de la Iglesia Católica dedica una sección completa a la «consciencia moral», definiéndola como «el juicio de la razón que indica al obrar concreto lo que debe hacerse o evitarse».
 
 ### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
 
@@ -127,6 +142,6 @@ Melina (Introducción, EPL) presenta la conciencia como apertura a la verdad del
 - Wilson, Eileen. "The Soul of Bishop Barron: A Newman Intuition." *Evangelization & Culture*, No. 7, Spring 2021.
 - Newman, John Henry. *A Letter to His Grace the Duke of Norfolk*. 1875.
 - Concilio Vaticano II. *Gaudium et Spes* 16.
-- Catecismo de la Iglesia Católica, 1776-1794.
+- Catecismo de la Iglesia Católica, 1776-1802.
 - PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
 - EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.

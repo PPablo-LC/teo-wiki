@@ -6,6 +6,7 @@ tags: ["eclesiología", "espiritualidad"]
 timestamp: 2026-06-13
 description: "La conversión institucional es el proceso por el cual una institución eclesial reconoce sus errores históricos, se arrepiente de ellos, repara el daño causado y reforma sus estructuras."
 ---
+
 # Conversión institucional
 
 > Área: Eclesiología / Espiritualidad
@@ -69,6 +70,16 @@ La renuncia abrupta de Maciel en enero de 2005, durante el III CG y coincidiendo
 
 La expresión «Soy de la Legión porque Dios me ama» (II CG 1992), que Maciel utiliza como autodefinición, sintetiza el núcleo del sistema que la conversión institucional debía desmantelar: la identificación total entre la persona del fundador y la voluntad de Dios para la Congregación. La frase, repetida como lema espiritual, convertía la fidelidad al sistema en signo de fidelidad a Dios —haciendo así la crítica institucional equivalente a una falta de fe. Esta ecuación fue precisamente la que la renuncia de Maciel rompió, al mostrar que lo que era «de la Legión» no era automáticamente «de Dios».
 
+### Según el Capítulo General CapGral-2020 (Comunicado completo)
+
+El comunicado capitular de 2020 ofrece el contexto completo del que surgieron los documentos «Conversión y reparación» y «Proteger y sanar» [CapGral-2020, §§16-22]. El Capítulo dedicó el primer lugar y todo el tiempo necesario a estas cuestiones apremiantes.
+
+**Escucha a sobrevivientes (§§17-18).** Dos sobrevivientes de abuso sexual compartieron sus experiencias en el aula capitular, y el P. Hans Zollner S.J. expuso recomendaciones sobre cómo afrontar el fenómeno de los abusos.
+
+**Examen de conciencia institucional (§§19-21).** Se emitió el comunicado *Conversión y reparación* pidiendo perdón a las víctimas. Se emanó *Proteger y sanar* como código de ambientes seguros. Se constató con tristeza también abusos de poder y de conciencia, pidiendo al gobierno general analizar esta realidad y proponer medidas.
+
+**Discurso del Papa Francisco.** El Santo Padre, en su discurso al Capítulo, invitó a los legionarios a «continuar en el camino de renovación, cosechando y consolidando los frutos madurados en estos años», marcando el marco pontificio de la conversión institucional.
+
 ## Distinciones importantes
 
 - Conversión institucional (transformación de estructuras y cultura) vs. reforma administrativa (cambios meramente normativos)
@@ -82,16 +93,6 @@ Se relaciona con [[reconciliación_institucional]], [[proteger_y_sanar]], [[abus
 ## Ver también
 
 [[reconciliación_institucional]], [[proteger_y_sanar]], [[abuso_de_autoridad]], [[verdad]]
-
-### Según el Capítulo General CapGral-2020 (Comunicado completo)
-
-El comunicado capitular de 2020 ofrece el contexto completo del que surgieron los documentos «Conversión y reparación» y «Proteger y sanar» [CapGral-2020, §§16-22]. El Capítulo dedicó el primer lugar y todo el tiempo necesario a estas cuestiones apremiantes.
-
-**Escucha a sobrevivientes (§§17-18).** Dos sobrevivientes de abuso sexual compartieron sus experiencias en el aula capitular, y el P. Hans Zollner S.J. expuso recomendaciones sobre cómo afrontar el fenómeno de los abusos.
-
-**Examen de conciencia institucional (§§19-21).** Se emitió el comunicado *Conversión y reparación* pidiendo perdón a las víctimas. Se emanó *Proteger y sanar* como código de ambientes seguros. Se constató con tristeza también abusos de poder y de conciencia, pidiendo al gobierno general analizar esta realidad y proponer medidas.
-
-**Discurso del Papa Francisco.** El Santo Padre, en su discurso al Capítulo, invitó a los legionarios a «continuar en el camino de renovación, cosechando y consolidando los frutos madurados en estos años», marcando el marco pontificio de la conversión institucional.
 
 ## Referencias
 

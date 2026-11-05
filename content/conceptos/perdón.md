@@ -6,6 +6,7 @@ tags: ["dogmática", "moral"]
 timestamp: 2026-08-19
 description: "Remisión de los pecados otorgada por Dios al pecador arrepentido, por los méritos de Jesucristo."
 ---
+
 # Perdón
 
 > Área: Dogmática / Moral
@@ -72,25 +73,6 @@ la acogida del diverso**:
   (cf. *Dives in misericordia*; *Sal* 45(44),14) solo se cierra ante el
   «rifiuto» radical (04, 21).
 
-## Distinciones importantes
-
-- Perdón de la culpa vs. remisión de la pena temporal
-- Contrición perfecta (por amor) vs. contrición imperfecta (por temor)
-- Perdón sacramental vs. perdón extra-sacramental
-- El perdón de Dios es gratuito pero exige conversión
-
-## Relaciones doctrinales
-
-[[sacramento_de_la_reconciliación]], [[bautismo]], [[conversión]], [[poder_de_las_llaves]], [[justificación]], [[pecado]], [[misericordia]]
-
-
-## Analizado para
-
-- [[adam_farber_fortitude_through_excellence_in_mercy]]
-- [[adam_farber_fortitude_through_excellence_in_patience]]
-
-## Perspectivas por fuente
-
 8. Las demás fuentes
 
 ### Robert Barron, *2 Samuel* (Brazos, 2015)
@@ -105,7 +87,26 @@ Barron ofrece una reflexión profunda sobre el perdón a través de la figura de
 
 Este tratamiento del perdón en 2 Samuel ofrece una visión católica integradora: el perdón no es debilidad ni negación de la justicia, sino fuerza moral que rompe los ciclos de violencia y refleja el corazón de Dios.
 
+## Distinciones importantes
+
+- Perdón de la culpa vs. remisión de la pena temporal
+- Contrición perfecta (por amor) vs. contrición imperfecta (por temor)
+- Perdón sacramental vs. perdón extra-sacramental
+- El perdón de Dios es gratuito pero exige conversión
+
+## Relaciones doctrinales
+
+[[sacramento_de_la_reconciliación]], [[bautismo]], [[conversión]], [[poder_de_las_llaves]], [[justificación]], [[pecado]], [[misericordia]]
+
+## Analizado para
+
+- [[adam_farber_fortitude_through_excellence_in_mercy]]
+- [[adam_farber_fortitude_through_excellence_in_patience]]
+
 ## Ver también
+
+## Referencias
+
 - CEC §976-987
 - CEC §2839-2845
 - CEC §2631

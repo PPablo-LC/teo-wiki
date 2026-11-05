@@ -6,6 +6,7 @@ tags: ["doctrina_social"]
 timestamp: 2026-09-15
 description: "Principio de la doctrina social que expresa el derecho y el deber de los ciudadanos de tomar parte activa en la vida política, económica y cultural de la comunidad."
 ---
+
 # Participación
 
 > Área: Doctrina Social
@@ -39,13 +40,13 @@ GS 68: «Entre los derechos fundamentales de la persona humana debe contarse el 
 
 GS 75: Derecho y deber de todos los ciudadanos de «participar libre y activamente en la discusión y en la decisión de las leyes, en el gobierno de la cosa pública». «Todos los ciudadanos tienen el derecho y el deber de votar con libertad para promover el bien común.»
 
-## Relaciones doctrinales
-
-Se relaciona con [[democracia]], [[ciudadanía]], [[bien_común]], [[sociedad_civil]], [[partidos_políticos]], [[subsidiariedad]]
-
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 Selman expone la participación como clave de la analogía del ser: las criaturas no son el Ser sino entes que participan del ser, porque reciben su existencia. La idea viene de Platón (las cosas bellas participan de la Belleza) y se funde en Tomás con la filosofía aristotélica (las formas existen en las cosas); el paso decisivo viene de Avicena: «todo lo que comparte la existencia remite, en última instancia, a algo que no comparte la existencia sino que es su Existencia misma». Por eso las cosas existen «de un modo totalmente otro» que Dios: Él es «el mar infinito del ser» (San Juan Damasceno; Dante: *per lo gran mar dell'essere*) — sin panteísmo, pues Dios no es parte del ser de las cosas.
+
+## Relaciones doctrinales
+
+Se relaciona con [[democracia]], [[ciudadanía]], [[bien_común]], [[sociedad_civil]], [[partidos_políticos]], [[subsidiariedad]]
 
 ## Ver también
 

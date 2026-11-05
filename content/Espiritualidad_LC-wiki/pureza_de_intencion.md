@@ -57,7 +57,7 @@ La **pureza de intención** es la virtud por la cual el cristiano —especialmen
 - [[intención]]
 - [[vanidad]]
 - [[respeto_humano]]
-- [[juan_bautista]]
+- [[san_juan_bautista]]
 - [[grano_de_trigo]]
 - [[instrumento_de_dios]]
 - [[p_mora]]

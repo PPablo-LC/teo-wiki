@@ -6,6 +6,7 @@ tags: ["moral"]
 timestamp: 2026-06-23
 description: "La justicia social es una virtud moral que ordena las relaciones entre los individuos y la sociedad en orden al bien común, exigiendo que cada uno —personas."
 ---
+
 # Justicia social
 
 > Área: Moral
@@ -40,6 +41,14 @@ Los preceptos del año sabático y del año jubilar constituyen una doctrina soc
 El amor cristiano impulsa a la denuncia, a la propuesta y al compromiso con proyección cultural y social [CompDS §6]. La humanidad reclama una mayor justicia al afrontar el vasto fenómeno de la globalización, y siente la necesidad de salvaguardar la identidad nacional sin perder de vista la unidad de la familia humana [CompDS §3].
 
 El Compendio propone un [[humanismo_integral]] y solidario fundado sobre la [[dignidad_humana]] y la [[libertad_humana]], que se actúa en la [[paz]], la justicia y la solidaridad [CompDS §19]. El amor recíproco entre los hombres, en la participación del amor infinito de Dios, es el auténtico fin histórico y trascendente de la humanidad [CompDS §55].
+### Según el Concilio Vaticano II (ConcVatII)
+
+GS 63: «El crecimiento del poder humano, cuando se realiza con espíritu de justicia y caridad, permite superar todo aislamiento y egoísmo.» La actividad económica debe ejercerse según los métodos y leyes propias de la economía (GS 64) pero siempre orientada al bien común.
+
+GS 66: «Hay que promover el desarrollo económico con todas las energías, pero no sin un plan racional y humano.» Denuncia las extremas desigualdades. Para corregirlas se requiere la eliminación de las instituciones injustas, la reforma de los sistemas económicos y la promoción de la solidaridad internacional.
+
+GS 71: Denuncia el lucro excesivo, la usura, la evasión de impuestos, la especulación, la propiedad desviada del destino universal de los bienes — todo ello como violaciones de la justicia social.
+
 ### Según Royo Marín (TPCr)
 
 «A veces se habla de justicia social, internacional, vindicativa, etc. No son especies distintas de las que señala Santo Tomás. La justicia social coincide en el fondo con la legal, aunque recibe cierta influencia de la distributiva». Los deberes de justicia social se inscriben en los principios del derecho de gentes y se rigen por las normas de la justicia legal, distributiva o conmutativa según los casos.
@@ -68,21 +77,6 @@ Juan Pablo II menciona explícitamente la justicia social entre las formas de ju
 
 **La Iglesia y el diálogo con el mundo.** La Iglesia de nuestro siglo sigue dialogando sin cesar en el vasto frente del mundo contemporáneo sobre las exigencias de la justicia, como lo atestiguan muchas Encíclicas de los Papas y la doctrina del Concilio Vaticano II.
 
-## Distinciones importantes
-
-- **Justicia social vs. justicia conmutativa**: la conmutativa regula intercambios entre iguales; la social mira al bien común
-- **Justicia social vs. caridad**: la justicia da lo debido; la caridad da más allá de lo debido
-- **Bien común vs. bien particular**: la justicia social ordena el bien particular al bien común
-- **Subsidiariedad**: el Estado no debe absorber lo que las sociedades menores pueden hacer por sí mismas
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-GS 63: «El crecimiento del poder humano, cuando se realiza con espíritu de justicia y caridad, permite superar todo aislamiento y egoísmo.» La actividad económica debe ejercerse según los métodos y leyes propias de la economía (GS 64) pero siempre orientada al bien común.
-
-GS 66: «Hay que promover el desarrollo económico con todas las energías, pero no sin un plan racional y humano.» Denuncia las extremas desigualdades. Para corregirlas se requiere la eliminación de las instituciones injustas, la reforma de los sistemas económicos y la promoción de la solidaridad internacional.
-
-GS 71: Denuncia el lucro excesivo, la usura, la evasión de impuestos, la especulación, la propiedad desviada del destino universal de los bienes — todo ello como violaciones de la justicia social.
-
 ### Según Ritratti di santi (RdS)
 
 El capítulo 7 (S. Giovanni Bosco) muestra la justicia social antes de que existiera la expresión, como respuesta caritativa a la primera industrialización:
@@ -90,6 +84,13 @@ El capítulo 7 (S. Giovanni Bosco) muestra la justicia social antes de que exist
 - **Los niños sin protección de Turín**: «La città è invasa da bande di ragazzi che si offrono per tutti i lavori possibili (ambulanti, lustrascarpe, fiammiferai, spazzacamini, mozzi di stalla, garzoni...) e non sono protetti da nessuno»; decenas de miles de inmigrados, muchachos que se dan al robo y acaban en la cárcel — el diagnóstico social que precede a la obra de don Bosco (RdS 07, l. 159).
 - **La respuesta estructural**: el oratorio diario (no solo festivo), con «una compromissione totale del prete»: escuela, talleres y vida cristiana para los sin protección. Frente a quienes politizaban a los jóvenes («preti patriotti» que llevaron a doscientos muchachos a la batalla de Novara, «una disfatta in tutti i sensi»), don Bosco se concentra en la educación integral: la justicia social realizada como educación, no como agitación.
 - **El principito caritativo siciliano**: el capítulo 2 (Gravina) documenta la versión «desde arriba»: el noble que convierte su fortuna en salario justo, educación, vivienda y obra preventiva contra la mendicidad — «elevare i mendicanti a dignità di uomini» —, mostrando que la justicia social es inseparable de la caridad organizada (ver [[obras_de_caridad]]).
+
+## Distinciones importantes
+
+- **Justicia social vs. justicia conmutativa**: la conmutativa regula intercambios entre iguales; la social mira al bien común
+- **Justicia social vs. caridad**: la justicia da lo debido; la caridad da más allá de lo debido
+- **Bien común vs. bien particular**: la justicia social ordena el bien particular al bien común
+- **Subsidiariedad**: el Estado no debe absorber lo que las sociedades menores pueden hacer por sí mismas
 
 ## Relaciones doctrinales
 

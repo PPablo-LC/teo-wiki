@@ -115,6 +115,14 @@ De esa identidad metafísica se sigue la creación de la nada: el que hizo la to
 
 El comentario ilustra esa presencia con el contraste entre Zeus y Sémela —la epifanía del dios aniquila a la criatura— y la zarza ardiente de Éxodo 3, que arde sin consumirse: la cercanía del Dios Creador no destruye lo creado, lo transfigura. La Encarnación lleva esa lógica a su plenitud, y el axioma de Ireneo —*Gloria Dei homo vivens*, «la gloria de Dios es el hombre viviente»— resume la tradición que de ella deriva (2SmBr, 2 Sm 7).
 
+### Según Robert Barron (Thomas Aquinas: Spiritual Master)
+
+Barron lee la creación desde la cristología: si la teología de Tomás se entiende desde la Encarnación, la creación no es un acto «al comienzo del tiempo» ni una emanación única, sino un don continuo que fluye de la vida y el ser de Dios. El mundo depende, momento a momento, de la pura generosidad del Creador; a esto llama Tomás *creatio ex nihilo* (TAM, cap. 3).
+
+De ahí la consecuencia espiritual: ser criatura significa ser «nada», es decir, pura apertura y obediencia ante el Dios creador. Y, como revela el icono de Cristo, en esa «nada», en ese abandono extático, la criatura se descubre más plenamente a sí misma. Barron subraya que las negaciones de la creación *ex nihilo* quedan desenmascaradas por Tomás como intentos pecaminosos de evitar la obediencia: negar al Dios creador es vivir la ilusión de que uno puede encontrarse a sí mismo fuera de la entrega total, contra la sentencia evangélica de que quien ama su vida la pierde y quien la pierde por Cristo la encuentra (TAM, cap. 3).
+
+La estructura misma de la *Summa* traduce esta visión: el camino que va de Dios al mundo (*exitus*) y el que vuelve del mundo a Dios (*reditus*) son las dos vertientes de una misma relación de dependencia, y ambas se anudan en Cristo, que se llamó a sí mismo el Camino. La creación es, por tanto, relación y no suceso aislado: la criatura es don que procede y que retorna.
+
 ## Distinciones importantes
 
 - **Creación ≠ emanación**: Dios no «emana» el mundo de su substancia; lo crea libremente de la nada.

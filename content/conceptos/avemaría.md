@@ -6,6 +6,7 @@ tags: ["mística_(oración)"]
 timestamp: 2026-05-29
 description: "El Avemaría es la oración mariana fundamental de la Iglesia católica, compuesta por la salutación del ángel Gabriel («Dios te salve, María, llena de gracia, el Señor es contigo»)."
 ---
+
 # Avemaría
 
 > Área: Mística (Oración)
@@ -35,6 +36,10 @@ El Avemaría es «expresión privilegiada» del doble movimiento de la oración 
 
 El nombre de Jesús, en el que culmina el Avemaría, está en el corazón de la plegaria cristiana (§435).
 
+### Según María, José y la vida oculta de Jesús (MJV)
+
+Juan Pablo II presenta el Avemaría como «cántico de alabanza de la Iglesia por las maravillas que hizo el Poderoso en la Madre de su Hijo» [MJV, catequesis 1]. La exclamación de Isabel «¡Feliz la que ha creído que se cumplirían las cosas que le fueron dichas de parte del Señor!» (Lc 1,45) revela que «la grandeza y la alegría de María tienen origen en el hecho de que ella es la que cree» [MJV, catequesis 1]. El saludo de María produce en Isabel la alegría mesiánica y el Espíritu Santo: «apenas llegó a mis oídos la voz de tu saludo, saltó de gozo el niño en mi seno» (Lc 1,44), mostrando la función mediadora de María [MJV, catequesis 1].
+
 ## Distinciones importantes
 
 - El Avemaría no es una simple repetición mecánica: contiene toda la historia de la salvación en forma de oración
@@ -46,15 +51,11 @@ El nombre de Jesús, en el que culmina el Avemaría, está en el corazón de la 
 
 [[rosario]], [[misterios_del_rosario]], [[virgen_maría]], [[oración_vocal]], [[anunciación]], [[encarnación]], [[intercesión]]
 
-
-### Según María, José y la vida oculta de Jesús (MJV)
-
-Juan Pablo II presenta el Avemaría como «cántico de alabanza de la Iglesia por las maravillas que hizo el Poderoso en la Madre de su Hijo» [MJV, catequesis 1]. La exclamación de Isabel «¡Feliz la que ha creído que se cumplirían las cosas que le fueron dichas de parte del Señor!» (Lc 1,45) revela que «la grandeza y la alegría de María tienen origen en el hecho de que ella es la que cree» [MJV, catequesis 1]. El saludo de María produce en Isabel la alegría mesiánica y el Espíritu Santo: «apenas llegó a mis oídos la voz de tu saludo, saltó de gozo el niño en mi seno» (Lc 1,44), mostrando la función mediadora de María [MJV, catequesis 1].
-
 ## Analizado para
 
 - [[primeros_pasos_en_la_vida_espiritual]]
 
 ## Referencias
+
 - CEC §435, §2676-2677
 - Lc 1,28-42

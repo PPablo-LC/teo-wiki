@@ -39,6 +39,14 @@ La Vida de Jesús (VJ) contempla la Visitación como el encuentro de dos materni
 
 Scott Hahn (BMV, lección 5) presenta la Visitación como el momento en que María, el [[arca_de_la_nueva_alianza]], lleva a la casa de Isabel la presencia de Dios. El paralelo con 2 Sam 6 es deliberado: María «se levantó y fue deprisa» (Lc 1,39) como David ante el Arca; Isabel exclama «¿Quién soy yo para que la madre de mi Señor venga a mí?» (Lc 1,43), eco de «¿Cómo ha de venir a mí el Arca del Señor?» (2 Sam 6,9); Juan salta en el vientre como David saltó ante el Arca. La Visitación muestra a María como portadora de Cristo y arca viva de la nueva alianza.
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**La prisa de María.** Barron confiesa que siempre le ha fascinado la «prisa» de María en este relato: al oír el mensaje de Gabriel sobre su propia preñez y la de su prima, María se dirige «a prisa» a la montaña de Judá. La razón es que «había encontrado su misión, su papel en el [[teodrama]]» (AGR21, 21 de diciembre).
+
+**El Arca y el templo.** La casa de Zacarías está en la montaña de Judá, donde David encontró el Arca; a esa montaña llega María, «el Arca definitiva y final de la Alianza», que trae a Dios al mundo y lo hace, al menos en principio, un [[templo]] (19 de diciembre).
+
+**Isabel, la primera en proclamar.** Llena del Espíritu Santo, Isabel es «la primera en proclamar la plenitud del Evangelio»: «¿De dónde a mí que la madre de mi Señor venga a mí?» —el Señor, es decir, el Dios de Israel—. Y el salto del niño es la danza del precursor ante el Arca. Barron cierra la reflexión señalando que «sin el Espíritu Santo, este intercambio entre María e Isabel no habría sido posible».
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[encarnación]], la [[virgen_maría]], el [[magníficat]], Isabel (como modelo de acogida del Espíritu), la santificación de Juan Bautista, y los [[misterios_del_rosario]].

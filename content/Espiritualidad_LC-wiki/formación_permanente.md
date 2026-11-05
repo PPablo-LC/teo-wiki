@@ -6,6 +6,7 @@ tags: ["ascética", "formación"]
 timestamp: 2026-06-14
 description: "La formación permanente es el compromiso de formación que comprende la vida entera de todos los miembros de la Congregación, sin reducirse al periodo inicial."
 ---
+
 # Formación permanente
 
 > Área: Ascética / Formación
@@ -43,15 +44,15 @@ Además de la actitud personal de formación permanente, la Congregación ofrece
 
 **Aplicación a la formación inicial.** El principio de formación permanente se aplica ya durante la formación inicial: la menor intervención formativa con los años debe llevar al formando a un mayor sentido de responsabilidad personal en la organización de su vida cotidiana, porque su corazón ha ido gradualmente madurando hasta querer por sí mismo vivir en el conocimiento —esto es, en la intimidad— de Dios. Por eso los reglamentos han de reflejar este principio [CVV-2017, 369].
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) presenta la formación permanente como «memoria viva y actualización constante de la propia vocación en un camino compartido» (UFGF §8). Todos los presbíteros están llamados a cuidar siempre de la propia formación para mantener vivo el don de Dios recibido con el sacramento del Orden (UFGF §8, citando 2 Tm 1,6). La formación permanente no es esfuerzo intelectual o actualización pastoral, sino memoria viva de la propia vocación, constituyendo «un dinamismo de constante renovación humana, espiritual, intelectual y pastoral» (UFGF §7) [UFGF, 22.12.2025].
+
 ## Distinciones importantes
 
 - Formación permanente vs. formación inicial: la primera abarca toda la vida; la segunda es la etapa preparatoria
 - Formación permanente vs. estancamiento: la primera es apertura continua a la acción del Espíritu; el segundo es rigidez y autosuficiencia
 - Disponibilidad para formarse vs. presunción de estar ya formado
-
-### Según León XIV (UFGF)
-
-La Carta Apostólica *Una fidelidad que genera futuro* (2025) presenta la formación permanente como «memoria viva y actualización constante de la propia vocación en un camino compartido» (UFGF §8). Todos los presbíteros están llamados a cuidar siempre de la propia formación para mantener vivo el don de Dios recibido con el sacramento del Orden (UFGF §8, citando 2 Tm 1,6). La formación permanente no es esfuerzo intelectual o actualización pastoral, sino memoria viva de la propia vocación, constituyendo «un dinamismo de constante renovación humana, espiritual, intelectual y pastoral» (UFGF §7) [UFGF, 22.12.2025].
 
 ## Relaciones doctrinales
 

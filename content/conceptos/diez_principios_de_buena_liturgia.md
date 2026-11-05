@@ -35,6 +35,17 @@ ello, tomando como modelo los principios de Dieter Rams (innovador,
 ecológico, «el mejor diseño es el menos diseño»), fórmula diez criterios
 para la liturgia.
 
+## Perspectivas por fuente
+
+### Según Thomas O'Loughlin (Rites_wrongs-Liturgia)
+
+O'Loughlin articula los principios como un marco teológico-pastoral
+para la renovación litúrgica en contextos de secularización occidental
+y crisis de participación. Su aplicación es concreta: evaluación de
+celebraciones comunitarias, discernimiento sobre gestos pastorales,
+superación del activismo hueco, recuperación de la dimensión social
+de la Eucaristía.
+
 ## Los diez principios
 
 ### I. La buena liturgia es honesta
@@ -130,17 +141,6 @@ católica:
   tensión entre sí y requieren discernimiento pastoral.
 - **No sustituyen a las rúbricas**: las rúbricas siguen siendo
   necesarias, pero no bastan.
-
-## Perspectivas por fuente
-
-### Según Thomas O'Loughlin (Rites_wrongs-Liturgia)
-
-O'Loughlin articula los principios como un marco teológico-pastoral
-para la renovación litúrgica en contextos de secularización occidental
-y crisis de participación. Su aplicación es concreta: evaluación de
-celebraciones comunitarias, discernimiento sobre gestos pastorales,
-superación del activismo hueco, recuperación de la dimensión social
-de la Eucaristía.
 
 ## Relaciones doctrinales
 

@@ -6,6 +6,7 @@ tags: ["espiritualidad", "vida_consagrada"]
 timestamp: 2026-06-28
 description: "La espiritualidad legionaria es el conjunto de principios, virtudes, prácticas y devociones que configuran la vida espiritual del legionario de Cristo."
 ---
+
 # Espiritualidad legionaria
 
 > Área: Espiritualidad / Vida Consagrada
@@ -68,20 +69,6 @@ La espiritualidad legionaria es presentada en la Antología a través de las hom
 
 **Conversión del corazón.** En el encuentro con los directores territoriales del 17 de septiembre de 2012 (AntDp-2015, `04_segunda_parte.md:510-700`), el Card. De Paolis aplica a la espiritualidad legionaria la exigencia de «ubi origo ibi salus»: volver al origen carismático para encontrar la salvación y la renovación.
 
-## Distinciones importantes
-
-- Espiritualidad legionaria (carisma particular de la Legión de Cristo) vs. espiritualidad católica universal (fundamento común a todos los fieles)
-- Cristocentrismo legionario (énfasis en la configuración con Cristo) vs. otros acentos espirituales
-- Militia Christi (dimensión militante de la entrega) vs. mero activismo
-
-## Relaciones doctrinales
-
-Se relaciona con [[identidad_legionaria]], [[cristocentrismo_legionario]], [[militia_christi]], [[carisma_legionario]], [[vida_consagrada]], [[consejos_evangélicos]], [[regnum_christi]], [[federación_regnum_christi]].
-
-## Ver también
-
-[[identidad_legionaria]], [[cristocentrismo_legionario]], [[vida_consagrada]], [[regnum_christi]], [[centro_vocacional]], [[cinco_amores]]
-
 ### Según el Capítulo General CapGral-2020
 
 El comunicado capitular de 2020 ofrece una sección sobre las «Actitudes del apóstol» [CapGral-2020, §76] que enriquece la espiritualidad legionaria con seis actitudes fundamentales para la misión:
@@ -100,6 +87,20 @@ El Capítulo también desarrolla la misión de la Legión en la Iglesia (§§77-
 El ensayo sobre el [[encuentro_con_cristo|Encuentro con Cristo]] en el Regnum Christi añade una dimensión concreta a la espiritualidad legionaria compartida: la práctica del Encuentro con Cristo como actividad de equipo en la que se integran orgánicamente los cinco elementos de la vida del miembro del RC (vida espiritual, formación, apostolado, acompañamiento y vida de equipo). El Encuentro con Cristo es presentado como «el eje de la vida de equipo» (RFA 15), un medio que «nos hace contemplativos y evangelizadores, pues en él miramos a Jesús presente en su Palabra y también en nuestro corazón, en el prójimo y en el mundo» [RC-EcC-2022, Parte I].
 
 La teología subyacente —Dios como Amigo del hombre que sale al encuentro— profundiza la experiencia cristocéntrica de la espiritualidad legionaria, mientras que la metodología de la [[revisión_de_vida]] (ver, juzgar, actuar) ofrece un cauce concreto para el discernimiento comunitario de la misión y la vida cristiana en medio del mundo [RC-EcC-2022, Parte II-III].
+
+## Distinciones importantes
+
+- Espiritualidad legionaria (carisma particular de la Legión de Cristo) vs. espiritualidad católica universal (fundamento común a todos los fieles)
+- Cristocentrismo legionario (énfasis en la configuración con Cristo) vs. otros acentos espirituales
+- Militia Christi (dimensión militante de la entrega) vs. mero activismo
+
+## Relaciones doctrinales
+
+Se relaciona con [[identidad_legionaria]], [[cristocentrismo_legionario]], [[militia_christi]], [[carisma_legionario]], [[vida_consagrada]], [[consejos_evangélicos]], [[regnum_christi]], [[federación_regnum_christi]].
+
+## Ver también
+
+[[identidad_legionaria]], [[cristocentrismo_legionario]], [[vida_consagrada]], [[regnum_christi]], [[centro_vocacional]], [[cinco_amores]]
 
 ## Referencias
 

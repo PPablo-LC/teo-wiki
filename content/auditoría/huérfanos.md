@@ -1829,6 +1829,8 @@ cobertura de huérfanos (conteos frescos).
 
 ## Notas de sesión
 
+- **2026-11-04 — Cierre de TAM (Barron):** se siembra 1 huérfano nuevo, `sacra_doctrina` (forward reference desde [[evento_de_jesucristo]] y [[thomas_aquinas_spiritual_master]]; la fuente lo trata como tema propio en el cap. 1 y en S.Th. Iª q.1). Coincide con el candidato ya anotado en `raw/Bases_doctrinales-raw/Thomas Aquinas/índice.md`. Se resuelven por creación de artículo `arquetipo_de_la_humanidad` y `evento_de_jesucristo`; `voluntad_libre` y `mediador` ya existían como huérfanos registrados o artículos. **Corrección (auditoría de la misma sesión):** de los siete conceptos previstos, seis **no** son conceptos nuevos sino variantes de artículos canónicos ya existentes —`simplicidad_de_dios`→[[simplicidad_divina]], `bondad_de_dios`→[[bondad_divina]], `eternidad_de_dios`→[[eternidad_divina]], `non_competitividad`→[[trascendencia_no_competitiva]], `mediación_de_cristo`→[[mediación_de_cristo]] (ya existía con tilde) y `beatitud`→[[bienaventuranza]]/[[visión_beatífica]]—, de modo que **no** se crean artículos para ellas ni se siembran como huérfanas: su material del cap. 2 de TAM se integra como sección «Según Robert Barron» en los canónicos. Solo `sacra_doctrina` se crea como artículo propio (2026-11-04).
+
 - **2026-08-05 (procesamiento de informes de abusos LC):** procesadas las
   fuentes LC-InfAbusos-2020, LC-InfAnual-2020 y LC-InfComisión-ES-2020
   (ver `progreso/LC_progress.md`). **36 artículos nuevos** creados en

@@ -6,6 +6,7 @@ tags: ["espiritualidad", "pastoral"]
 timestamp: 2026-06-13
 description: "La promoción vocacional es la acción eclesial por la cual la comunidad cristiana, cooperando con la gracia, suscita."
 ---
+
 # Promoción vocacional
 
 > Área: Espiritualidad / Pastoral
@@ -74,6 +75,20 @@ La «captura de líderes» (o «caza de líderes») es descrita como prioridad e
 
 El II CG 1992 combina alegría por el crecimiento vocacional con una preocupación por la calidad que anticipa las tensiones posteriores: la Congregación no es «la suma de sus obras sino la suma de sus hombres» [II CG 1992] — una frase que, al priorizar la calidad personal sobre el rendimiento institucional, contiene ya el germen de la exigencia de renovación que el Capítulo de 2014 y los documentos de 2020 harán explícita.
 
+### Según el Capítulo General CapGral-2020
+
+El Capítulo General de 2020 dedica la sección «Las vocaciones: Nos sale al encuentro» [CapGral-2020, §§51-61] a la promoción vocacional, bajo cuatro subtemas.
+
+**Don y misterio (§51).** La vocación es un don inmerecido y un misterio, que ha cambiado la vida del legionario y que no puede cansarse de agradecer.
+
+**Situación actual (§§52-53).** Se reconoce una «emergencia vocacional» caracterizada por una continua reducción de nuevos ingresos y una pirámide generacional invertida. Las causas son múltiples: la crisis institucional, el cambio cultural, los procesos más largos de maduración juvenil y la reducción del personal dedicado a la pastoral vocacional.
+
+**Renovar y relanzar la promoción vocacional (§§54-55).** Se afirma que «la mejor promoción vocacional viene del testimonio de vidas evangélicas plenas, entregadas a la misión, con anhelo de santidad, y de comunidades vibrantes y atractivas para los jóvenes de hoy» [CapGral-2020, §54]. Los promotores vocacionales están renovando su modelo de trabajo, buscando una mayor integración en la vida del Regnum Christi.
+
+**Tarea de todos y cada uno (§§56-58).** «La promoción vocacional es tarea de cada legionario» [CapGral-2020, §56]. Se exhorta a fomentar una cultura de aprecio y promoción de las vocaciones, presentando con entusiasmo la identidad legionaria. Los sacerdotes en pastoral juvenil y familiar tienen la oportunidad y responsabilidad de apoyar la promoción vocacional de las consagradas y laicos consagrados del Regnum Christi.
+
+**Centros vocacionales y etapa previa al noviciado (§§59-60).** Se ve con optimismo la renovación de los centros vocacionales guiada por el programa «Habla, Señor, que tu siervo escucha». Se anima a institucionalizar modalidades estructuradas de acompañamiento previo al noviciado.
+
 ## Distinciones importantes
 
 - Vocación (designio personal de amor de Dios) vs. elección funcional (visión reducida secularizada)
@@ -88,20 +103,6 @@ Se relaciona con [[formación_legionaria]], [[formación]], [[vocación]], [[dis
 ## Ver también
 
 [[formación_legionaria]], [[discernimiento]], [[vocación]], [[familia]], [[centro_vocacional]]
-
-### Según el Capítulo General CapGral-2020
-
-El Capítulo General de 2020 dedica la sección «Las vocaciones: Nos sale al encuentro» [CapGral-2020, §§51-61] a la promoción vocacional, bajo cuatro subtemas.
-
-**Don y misterio (§51).** La vocación es un don inmerecido y un misterio, que ha cambiado la vida del legionario y que no puede cansarse de agradecer.
-
-**Situación actual (§§52-53).** Se reconoce una «emergencia vocacional» caracterizada por una continua reducción de nuevos ingresos y una pirámide generacional invertida. Las causas son múltiples: la crisis institucional, el cambio cultural, los procesos más largos de maduración juvenil y la reducción del personal dedicado a la pastoral vocacional.
-
-**Renovar y relanzar la promoción vocacional (§§54-55).** Se afirma que «la mejor promoción vocacional viene del testimonio de vidas evangélicas plenas, entregadas a la misión, con anhelo de santidad, y de comunidades vibrantes y atractivas para los jóvenes de hoy» [CapGral-2020, §54]. Los promotores vocacionales están renovando su modelo de trabajo, buscando una mayor integración en la vida del Regnum Christi.
-
-**Tarea de todos y cada uno (§§56-58).** «La promoción vocacional es tarea de cada legionario» [CapGral-2020, §56]. Se exhorta a fomentar una cultura de aprecio y promoción de las vocaciones, presentando con entusiasmo la identidad legionaria. Los sacerdotes en pastoral juvenil y familiar tienen la oportunidad y responsabilidad de apoyar la promoción vocacional de las consagradas y laicos consagrados del Regnum Christi.
-
-**Centros vocacionales y etapa previa al noviciado (§§59-60).** Se ve con optimismo la renovación de los centros vocacionales guiada por el programa «Habla, Señor, que tu siervo escucha». Se anima a institucionalizar modalidades estructuradas de acompañamiento previo al noviciado.
 
 ## Referencias
 

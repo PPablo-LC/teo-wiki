@@ -6,6 +6,7 @@ tags: ["moral", "eclesiología"]
 timestamp: 2026-08-24
 description: "El bien común es «el conjunto de aquellas condiciones de la vida social que permiten a los grupos y a cada uno de sus miembros conseguir más plena y fácilmente su propia perfección» (CEC §1906.)"
 ---
+
 # Bien común
 
 > Área: Moral / Eclesiología
@@ -81,11 +82,6 @@ En cuanto al uso de la propiedad privada, «el bien común —no mi propio bien�
 
 Barron añade la condición cultural: los sistemas económicos y políticos deben inscribirse en valores morales firmes, absolutos e inmutables —no sometidos a los vaivenes del mercado ni de la opinión—. Por eso «la dictadura del relativismo es enemiga de la política y de la economía»: es en la Misa y los sacramentos donde se aprenden los valores que deben circunscribir un mercado que funcione rectamente, y donde la familia se rompe, se rompe también la sociedad —incluida su vida económica— [EAC-2, 15_cst_market_economy].
 
-## Analizado para
-
-- [[closing_keynote_virtuous_leader]]
-- [[john_wissler_virtuous_leadership]]
-
 ### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
 
 Aplicado al matrimonio, Tóth subordina los intereses individuales al **bien común**: el divorcio defiende intereses particulares a costa de la sociedad; el Estado es incapaz de crear los fundamentos morales del matrimonio (el fracaso de las leyes de Augusto), y la defensa de la indisolubilidad por parte de la Iglesia es un servicio a la humanidad entera [EMC, caps. 11, 17].
@@ -94,7 +90,13 @@ Aplicado al matrimonio, Tóth subordina los intereses individuales al **bien com
 
 Giussani afronta el bien común en clave sociopolítica. Se apoya en el filósofo Alasdair MacIntyre —convertido al catolicismo precisamente en torno a estas ideas— para describir el punto de inflexión histórico: cuando hombres y mujeres de buena voluntad dejaron de identificar la continuidad de la civilización y de la comunidad moral con sostener un imperio, su tarea decisiva pasó a ser «la costruzione di nuove forme di comunità entro cui la vita morale potesse essere sostenuta», de modo que tanto la civilización como la moral pudieran sobrevivir a una época incipiente «di barbarie e di oscurità». Giussani reconoce en esta concepción una parentela instintiva con la experiencia de Comunión y Liberación, cuyo principio expresa con la fórmula «Più società, meno Stato»: no es que un miembro de CL no pueda pensar «Más Estado, menos sociedad», pero entonces «capisce poco Comunione e Liberazione».
 
+## Analizado para
+
+- [[closing_keynote_virtuous_leader]]
+- [[john_wissler_virtuous_leadership]]
+
 ## Ver también
+
 [[justicia_social]], [[virtud_de_la_justicia]], [[virtud_de_la_caridad]], [[persona_humana]], [[solidaridad]]
 
 ## Referencias

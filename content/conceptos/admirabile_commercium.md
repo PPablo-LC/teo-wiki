@@ -6,6 +6,7 @@ tags: ["teología_espiritual", "cristología"]
 timestamp: 2026-06-15
 description: "Expresión latina que significa «admirable intercambio» o «maravilloso trueque»."
 ---
+
 # Admirabile commercium
 
 > Área: Teología espiritual / Cristología
@@ -27,16 +28,16 @@ Juan Pablo II utiliza el *admirabile commercium* para explicar la naturaleza de 
 
 El intercambio se consuma en la Eucaristía, donde «Cristo devuelve al Padre todo lo que de Él proviene», realizando «un profundo misterio de justicia de la criatura hacia el Creador» [DyM, VIII].
 
-## Distinciones importantes
-
-- *Admirabile commercium* en la Encarnación (intercambio de naturalezas) vs. en la vocación sacerdotal (intercambio de donación personal)
-- Intercambio ontológico (Cristo asume la humanidad) vs. intercambio vocacional (el sacerdote ofrece su humanidad a Cristo)
-
 ### Según la Dives in Misericordia (DM)
 
 La encíclica menciona expresamente el *admirabile commercium* en relación con la cruz de Cristo: «La Cruz de Cristo sobre el Calvario surge en el camino de aquel *admirabile commercium*, de aquel admirable comunicarse de Dios al hombre en el que está contenida a su vez la llamada dirigida al hombre, a fin de que, donándose a sí mismo a Dios y donando consigo mismo todo el mundo visible, participe en la vida divina» [DM §7].
 
 Este intercambio admirable se consuma en el misterio pascual, donde la justicia divina —que nace del amor y fructifica en el amor— restituye al hombre la dignidad de hijo adoptivo de Dios [DM §7]. Las palabras del sermón de la montaña («Bienaventurados los misericordiosos») constituyen «en cierto sentido una síntesis de toda la Buena Nueva, de todo el "cambio admirable" (*admirabile commercium*) en ella encerrado, que es una ley sencilla, fuerte y "dulce" a la vez de la misma economía de la salvación» [DM §8].
+
+## Distinciones importantes
+
+- *Admirabile commercium* en la Encarnación (intercambio de naturalezas) vs. en la vocación sacerdotal (intercambio de donación personal)
+- Intercambio ontológico (Cristo asume la humanidad) vs. intercambio vocacional (el sacerdote ofrece su humanidad a Cristo)
 
 ## Relaciones doctrinales
 

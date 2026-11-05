@@ -6,6 +6,7 @@ tags: ["moral"]
 timestamp: 2026-10-19
 description: "La mentira consiste en decir una falsedad con intención de engañar al prójimo."
 ---
+
 # Mentira
 
 > Área: Moral
@@ -93,6 +94,9 @@ común con el flujo constante del propio chisme. «La verdad resplandece; la
 mentira oscurece y entristece» ([[hipocresía]], [[falso_testimonio]],
 [[verdad]]).
 
+### Attraverso la compagnia dei credenti (TACDC)
+
+En TACDC no aparece una referencia directa y específica a la mentira como concepto tratado. Dada la naturaleza de la fuente (ejercicios espirituales centrados en la lucha entre el ser y la nada, el encuentro y la amistad), no se añade aportación particular para este concepto.
 
 ## Distinciones importantes
 
@@ -100,10 +104,6 @@ mentira oscurece y entristece» ([[hipocresía]], [[falso_testimonio]],
 - **Falsedad** material: decir lo falso sin intención de engañar (error involuntario) — no es pecado
 - **Disimulación**: ocultar la verdad sin afirmar falsedad (puede ser lícito por justa causa)
 - **Reserva mental**: uso de expresiones que admiten doble sentido (licita solo por necesidad grave y con justa proporción)
-
-### Attraverso la compagnia dei credenti (TACDC)
-
-En TACDC no aparece una referencia directa y específica a la mentira como concepto tratado. Dada la naturaleza de la fuente (ejercicios espirituales centrados en la lucha entre el ser y la nada, el encuentro y la amistad), no se añade aportación particular para este concepto.
 
 ## Analizado en contexto cultural
 

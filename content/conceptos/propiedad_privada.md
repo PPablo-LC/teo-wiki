@@ -6,6 +6,7 @@ tags: ["moral", "doctrina_social"]
 timestamp: 2026-08-24
 description: "Derecho legítimo a poseer bienes, subordinado al principio del destino universal de los bienes."
 ---
+
 # Propiedad privada
 
 > Área: Moral / Doctrina Social
@@ -58,14 +59,6 @@ El obispo Barron expone las **cuatro razones** por las que la Iglesia, desde Le�
 
 Junto a esta afirmación, Barron recuerda su límite: siguiendo a santo Tomás, los papas distinguen entre la **propiedad** (derecho legítimo) y el **uso** (moralmente condicionado por el bien común), fundamento de la índole social de la propiedad (GS 71). León XIII cita al Doctor Angélico: «El hombre no debe considerar sus bienes materiales como propios, sino como comunes a todos», y tras cubrir la necesidad y el decoro propio «se hace deber dar a los indigentes de lo que sobra» (RN 22) —no coerción estatal, sino impulso moral que nace de la conciencia—. Y remata con san Ambrosio: si tienes dos camisas en tu armario, «una te pertenece y la otra es del hombre que no tiene camisa». Las preguntas decisivas para quien posee: «¿Por qué Dios me ha permitido tener tal riqueza? ¿Qué quiere que yo haga con ella?» [EAC-2, 15_cst_market_economy].
 
-## Relaciones doctrinales
-
-Se relaciona con [[destino_universal_de_los_bienes]], [[trabajo_humano]], [[capital_y_trabajo]], [[bien_común]], [[justicia_social]]
-
-## Ver también
-
-[[destino_universal_de_los_bienes]], [[trabajo_humano]], [[capital_y_trabajo]], [[bien_común]]
-
 ### Según la Regla de San Benito (RegSB)
 
 La RSB convierte la pobreza monástica en radicalidad superlativa: el vicio de la propiedad privada en el monasterio debe ser cortado «radicalmente» (radicitus amputandum), más rigurosamente que cualquier otro (cap. 33). Tras la profesión, el monje «no tiene permitido disponer a su antojo ni de sus cuerpos, ni de sus propias voluntades; en cambio debe esperar recibir todo del padre del monasterio». No le es lícito tener «absolutamente nada» propio: ni libro, ni tablillas, ni estilete.
@@ -77,6 +70,18 @@ La RSB convierte la pobreza monástica en radicalidad superlativa: el vicio de l
 **La igualdad en la necesidad, no en la cantidad (cap. 34):** La regla funda la distribución no en la igualdad aritmética sino en la consideración de las debilidades: «Se repartía a cada uno según lo que necesitaba». La murmuración está rigurosamente prohibida si alguno se entristece por la porción de otro.
 
 **Fuentes:** San Benito de Nursia, *Regla de San Benito*, caps. 31–35.
+
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+La reflexión sobre la predicación de Juan Bautista (Lc 3,10-18) recoge el principio clásico: «aunque la propiedad privada es un bien social, el uso de la propiedad privada debe tener siempre una orientación social» (AGR21, 12 de diciembre). La primera recomendación del Precursor —«el que tenga dos túnicas, que las comparta con el que no tiene»— es presentada como algo «elemental, básico, y sin embargo casi por completo ignorado», y se ilustra con la sentencia de san Basilio Magno: «El pan que está en tu despensa pertenece al hambriento… Cometes injusticia contra todo hombre a quien podrías ayudar y no ayudas».
+
+## Relaciones doctrinales
+
+Se relaciona con [[destino_universal_de_los_bienes]], [[trabajo_humano]], [[capital_y_trabajo]], [[bien_común]], [[justicia_social]]
+
+## Ver también
+
+[[destino_universal_de_los_bienes]], [[trabajo_humano]], [[capital_y_trabajo]], [[bien_común]]
 
 ## Referencias
 

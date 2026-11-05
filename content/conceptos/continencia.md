@@ -6,6 +6,7 @@ tags: ["moral"]
 timestamp: 2026-10-14
 description: "La continencia es la virtud que modera las pasiones vehementes, especialmente los placeres del tacto (venéreos y gustativos)."
 ---
+
 # Continencia
 
 > Área: Moral
@@ -56,6 +57,14 @@ El «dominio de sí» (enkráteia) es fruto del Espíritu Santo (Gál 5,22-23) y
 
 Sobre la abstinencia en el matrimonio, Pablo enseña: «No os defraudéis uno al otro, a no ser de común acuerdo por algún tiempo, para daros a la oración, y de nuevo volved a lo mismo» (1 Cor 7,5-6). La abstinencia voluntaria y periódica debe ser fruto del don de Dios propio de los esposos (TdC 12.05.1982).
 
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Tóth presenta la continencia no como «daño a la salud», sino como el único preventivo seguro frente al pecado y a las enfermedades venéreas (Cap. V). Señala que «la verdadera libertad solo puede apreciarla un joven de corazón puro» (Cap. VII) y que el hombre libre es «aquel que puede querer lo que debe hacer».
+
+La refutación de la objeción «la continencia es imposible o dañina» ocupa un lugar destacado (Cap. V): Tóth recurre al testimonio de la ciencia médica (Krafft-Ebing, Farel, Rossier, Herbst, Mantagezza, Eulenberg, Max Gruber, Dr. Paul) y al Congreso Internacional de Higiene de Bruselas (1902) para demostrar que la vida casta es totalmente compatible con la salud.
+
+Además, la continencia es fruto de una voluntad ejercitada (Cap. VI): la abnegación, la disciplina y la actividad marcan el camino para adquirirla. «Las palabras *sano*, *saludable*, *sagrado* y *santo* provienen de la misma raíz» (Cap. V). El objetivo no es solo evitar el pecado, sino alcanzar la dignidad y belleza del alma radiante.
+
 ## Distinciones importantes
 
 - **Continencia vs. templanza**: la templanza modera las pasiones desde el hábito; la continencia las reprime desde la razón
@@ -77,11 +86,3 @@ La continencia se relaciona con la [[templanza]] como disposición imperfecta ha
 - [TdC 03.12.1980]
 - [TdC 14.01.1981]
 - [TdC 12.05.1982]
-
-### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
-
-Tóth presenta la continencia no como «daño a la salud», sino como el único preventivo seguro frente al pecado y a las enfermedades venéreas (Cap. V). Señala que «la verdadera libertad solo puede apreciarla un joven de corazón puro» (Cap. VII) y que el hombre libre es «aquel que puede querer lo que debe hacer».
-
-La refutación de la objeción «la continencia es imposible o dañina» ocupa un lugar destacado (Cap. V): Tóth recurre al testimonio de la ciencia médica (Krafft-Ebing, Farel, Rossier, Herbst, Mantagezza, Eulenberg, Max Gruber, Dr. Paul) y al Congreso Internacional de Higiene de Bruselas (1902) para demostrar que la vida casta es totalmente compatible con la salud.
-
-Además, la continencia es fruto de una voluntad ejercitada (Cap. VI): la abnegación, la disciplina y la actividad marcan el camino para adquirirla. «Las palabras *sano*, *saludable*, *sagrado* y *santo* provienen de la misma raíz» (Cap. V). El objetivo no es solo evitar el pecado, sino alcanzar la dignidad y belleza del alma radiante.

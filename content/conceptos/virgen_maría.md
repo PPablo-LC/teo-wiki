@@ -212,6 +212,18 @@ Estas palabras encierran «el secreto más profundo de su vida»: toda Ella est�
 
 Tóth recoge de Aparecida la figura de María como «discípula y misionera»: por su fe (Lc 1,45) y obediencia a la voluntad de Dios, y su constante meditación de la Palabra, es «la discípula más perfecta del Señor»; mujer libre y fuerte que vivió toda la peregrinación de la fe hasta estar al pie de la cruz [JvC-Rel, archivo 44]. En clave pedagógica, María es imagen ejemplar de las madres —«guardianas de la vida», maestras del arte de vivir y amar— [archivo 05]; los jóvenes deben empeñarse en fomentar su devoción a la Inmaculada Madre de Dios como ayuda para vivir la castidad [archivo 25]; y bajo su guía los educadores piden audacia apostólica: «Nos ayude la compañía siempre cercana… de María Santísima», que nos enseñe a salir de nosotros mismos «en camino de sacrificio, amor y servicio» [archivo 44].
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**Madre de los miembros de Cristo.** Desde la cruz Jesús dijo a san Juan «He aquí a tu madre», dándole a María no solo a Juan, sino, a través de él, a toda la Iglesia: «María sería la madre de todos los discípulos amados de Jesús a lo largo de los siglos» (AGR21, 8 de diciembre). Y así como el Espíritu Santo y la Virgen fueron necesarios para la Encarnación, «esos mismos dos agentes son necesarios para hacer nacer a Cristo en nuestras almas».
+
+**El Arca definitiva.** En la Visitación, María va «a la montaña» de Judá, precisamente donde David encontró el Arca, la portadora de la presencia de Dios: a esa misma montaña llega María, «el Arca definitiva y final de la Alianza», que trae a Dios al mundo y lo hace, al menos en principio, un templo (19 de diciembre).
+
+**El *fiat* y la nueva Eva.** Al decir «He aquí la esclava del Señor», María «muestra tal fe y con ello deshace la negativa de Eva»; su *fiat* a lo imposible hizo posible la Encarnación. Es alabada como Madre de la Iglesia, «la matriz de todo discipulado», y su *fiat* es «el suelo y el modelo de la respuesta de cada discípulo» (20 de diciembre).
+
+**La prisa de la misión.** La «prisa» de María al ir a ver a Isabel se explica porque «había encontrado su misión, su papel en el [[teodrama]]» (21 de diciembre).
+
+**El ritmo del Magníficat.** En el cántico, María declara que todo su ser está ordenado a la gloria de Dios; como Dios no necesita nada, la gloria que le da revierte en su beneficio, de modo que «queda engrandecida en el mismo acto de engrandecerlo» y se convierte en «fuente sobreabundante de vida», encinta de Dios. Ese ritmo de magnificar y ser magnificada es «la clave para entender todo lo de María: desde su maternidad divina hasta su Asunción y su Inmaculada Concepción, y hasta su misión en la vida de la Iglesia» (22 de diciembre).
+
 ## Distinciones importantes
 
 - **Maternidad divina**: María es Madre de Dios (Theotókos), verdadera Madre de Jesús, que es verdadero Dios y verdadero hombre.

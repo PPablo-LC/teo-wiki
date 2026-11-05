@@ -51,7 +51,7 @@ Al rapto corresponde un retorno escatológico: «He aquí que os envío al profe
 
 #### Juan Bautista y Elías.
 
-Esta espera escatológica *Mc 15,35s* se realiza en [[juan_bautista]] *Mt 17,10-13*, pero en forma misteriosa: Juan no es Elías *Jn 1,21.25*, y si su predicación vuelve los corazones de los hijos hacia su padre, no es él quien aplaca la [[ira]] divina.
+Esta espera escatológica *Mc 15,35s* se realiza en [[san_juan_bautista]] *Mt 17,10-13*, pero en forma misteriosa: Juan no es Elías *Jn 1,21.25*, y si su predicación vuelve los corazones de los hijos hacia su padre, no es él quien aplaca la [[ira]] divina.
 
 #### Jesús y Elías.
 

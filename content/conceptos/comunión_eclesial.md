@@ -6,6 +6,7 @@ tags: ["eclesiología"]
 timestamp: 2026-05-26
 description: "Vínculo de comunión que une a los fieles entre sí y con la Trinidad en la Iglesia. Realidad que constituye a la Iglesia como comunión de vida, caridad y verdad (CEC §787-795)."
 ---
+
 # Comunión eclesial
 
 > Área: Eclesiología
@@ -70,6 +71,10 @@ El documento presenta la comunión como **antídoto contra la división** y como
 
 La vida en Cristo y la comunión con la Iglesia son inseparables: «no se puede dividir a Cristo», que no puede ser partido entre quienes están en comunión con la Sede de Pedro y quienes se separan de ella. La Iglesia conserva y transmite íntegro el depósito de la fe —la Escritura, la Tradición y la enseñanza del [[magisterio_de_la_iglesia]]— mediante la [[sucesión_apostólica]], para que la comunión en la fe y en la vida de Cristo permanezca a través de los siglos. Permanecer en comunión eclesial pertenece a la sustancia misma de la vida cristiana, no a lo accidental (Cap. I, §1b).
 
+### Giussani — Perché la Chiesa (PLDC)
+
+PLDC reconstruye la *koinonia* como tercer factor constitutivo del fenómeno cristiano (Parte II, cap. 2, §3), en seis connotaciones acumuladas: (a) **ética** — la «vita diversa» de la comunión de los bienes, vivida en libertad y alegría («Il Signore ama chi dà con gioia», 2 Cor 9,7); el sacrificio hecho con coacción genera mentira: Ananías y Safira (At 5) no fueron castigados por dar la mitad sino por mentir; (b) **institucional** — el gesto de la «derecha» de comunión de Giacomo, Cefa e Giovanni (Gal 2,9); *koinonia* y *communio* sinónimos de *ecclesia*: la unidad social orgánica; (c) **ritual** — la fracción del pan como signo supremo de la unidad; las «lettere di comunione» como pasaporte de la *communio* (de aquí el sentido original de «scomunica»); (d) **jerárquica** — los *episkopoi* como funciones que el Señor ha querido en el cuerpo; (e) **misionera** — el fervor comunicativo pertenece a la experiencia del amor: «la Chiesa è il corpo della carità sulla terra... Nessun focolare chiuso potrebbe illudersi di conservare in sé il suo calore» (de Lubac); la comunicación de una certeza es ayuda, no violencia; (f) **moral** — la moralidad como dinamismo de camino: la comunidad de «santi» hecha de pecadores en movimiento hacia la meta (Fp 3,12-14).
+
 ## Relaciones doctrinales
 
 La comunión eclesial es el fundamento de la [[sucesión_apostólica]] y de la colegialidad episcopal. Se distingue de la mera asociación por su origen sobrenatural en la [[trinidad]].
@@ -77,10 +82,6 @@ La comunión eclesial es el fundamento de la [[sucesión_apostólica]] y de la c
 ## Ver también
 
 [[comunión]], [[comunión_de_los_santos]], [[iglesia]], [[cuerpo_místico]], [[pueblo_de_dios]]
-
-### Giussani — Perché la Chiesa (PLDC)
-
-PLDC reconstruye la *koinonia* como tercer factor constitutivo del fenómeno cristiano (Parte II, cap. 2, §3), en seis connotaciones acumuladas: (a) **ética** — la «vita diversa» de la comunión de los bienes, vivida en libertad y alegría («Il Signore ama chi dà con gioia», 2 Cor 9,7); el sacrificio hecho con coacción genera mentira: Ananías y Safira (At 5) no fueron castigados por dar la mitad sino por mentir; (b) **institucional** — el gesto de la «derecha» de comunión de Giacomo, Cefa e Giovanni (Gal 2,9); *koinonia* y *communio* sinónimos de *ecclesia*: la unidad social orgánica; (c) **ritual** — la fracción del pan como signo supremo de la unidad; las «lettere di comunione» como pasaporte de la *communio* (de aquí el sentido original de «scomunica»); (d) **jerárquica** — los *episkopoi* como funciones que el Señor ha querido en el cuerpo; (e) **misionera** — el fervor comunicativo pertenece a la experiencia del amor: «la Chiesa è il corpo della carità sulla terra... Nessun focolare chiuso potrebbe illudersi di conservare in sé il suo calore» (de Lubac); la comunicación de una certeza es ayuda, no violencia; (f) **moral** — la moralidad como dinamismo de camino: la comunidad de «santi» hecha de pecadores en movimiento hacia la meta (Fp 3,12-14).
 
 ## Referencias
 

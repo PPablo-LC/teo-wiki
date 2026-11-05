@@ -65,6 +65,16 @@ Giussani desarrolla la hipótesis de la revelación como «una novedad no previs
 
 **Revelación y razón.** La revelación no contradice la razón: el hombre es tal que «no puede alcanzar la totalidad», y la revelación se ofrece para responder a esa apertura estructural. Citando la STh I q.1 a.1, Giussani señala que la salvación no habría llegado sino por la revelación divina (SR, `21_capitulo_xiv.md`).
 
+### Según Robert Barron (Thomas Aquinas: Spiritual Master)
+
+Barron lee la doctrina tomista de la revelación como *sacra doctrina*, y su clave está en la primera cuestión de la *Summa*: «fue necesario para nuestra salvación que hubiera un conocimiento revelado por Dios, además de la ciencia filosófica construida por la razón humana», porque el hombre está ordenado a Dios como a un fin que supera su razón (S.Th. Iª q.1 a.1). La revelación no pretende ilustrar la curiosidad ni satisfacerla, sino sacar al hombre de sí, sacudirlo y empujarlo más allá de sí mismo para que se salve (TAM, cap. 1).
+
+Tomás define además la teología como **ciencia subalterna**: toma sus principios de una ciencia superior, «la ciencia de Dios y de los bienaventurados». Con un juego de palabras, *scientia* designa tanto la disciplina intelectual como el conocimiento directo y experiencial; la teología sería así una participación anticipada en la visión beatífica de los santos.
+
+Barron explica por qué la teología de la revelación se sirve de la filosofía: no por defecto propio, sino por la *debilitas* de la mente caída, que queda deslumbrada ante la luz divina «como el búho ante el sol» (S.Th. Iª q.1 a.5 ad 1). Los argumentos filosóficos son «siervas» que llevan de la mano (*manuducentes*) al que busca ver. Frente a la acusación de San Buenaventura de aguar el vino del Evangelio con el agua de la filosofía pagana, Tomás responde: «No aguo el vino con agua; convierto el agua en vino».
+
+Por último, «conocer» a Dios tiene en Tomás resonancia bíblica: no ideas claras y distintas, sino participación amorosa, un anticipo del cielo. Quien es tocado por ese conocimiento queda marcado y transformado (TAM, cap. 1).
+
 ## Distinciones importantes
 
 - **Revelación natural vs. sobrenatural**: la primera por las criaturas; la segunda por comunicación directa de Dios

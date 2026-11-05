@@ -25,8 +25,6 @@ El Salterio contiene todos los géneros de la oración bíblica: himnos, súplic
 
 El CEC §2585-2589 trata del Salterio como obra maestra de la oración veterotestamentaria. El §2642 subraya que el Salterio es la fuente y cumbre de la oración litúrgica de la Iglesia.
 
-## Perspectivas por fuente
-
 ### Según La Regla de San Benito (RegSB)
 
 La RSB es el primer gran reglamento del salterio monástico occidental:

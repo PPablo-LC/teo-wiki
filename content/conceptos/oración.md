@@ -210,6 +210,16 @@ la oración sostiene la **[[castidad]]** cuando falla la motivación. La obra
 insiste en que la oración no es un recurso psicológico entre otros: es el
 encuentro real con Cristo que hace posible lo que la sola voluntad no logra.
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**Orar es esperar de verdad.** La oración de Adviento es, para Barron, una espera activa que se apoya en la [[adoración_eucarística]]: llevar a Cristo el problema que nos preocupa, dejar de «correr, planificar, preocuparse» y decirle «ahora voy a dejarte actuar», pidiendo además que se ensanche el deseo: «Señor, hazme capaz de recibir los dones que quieres darme», «Señor Jesús, sorpréndeme» (AGR21, 28 de noviembre).
+
+**El corazón como punto de contacto.** El corazón o el alma es «el centro de uno mismo», el lugar donde somos más auténticamente nosotros y «el punto de contacto con Dios»; de allí brota la energía que sostiene las demás dimensiones de la vida (2 de diciembre).
+
+**Creer que Dios responde.** La pregunta que Jesús dirige a los dos ciegos —«¿Creéis que puedo hacer esto?»— se convierte en examen de la propia oración: «Cuando oras, ¿crees de verdad, como los ciegos, que Dios responderá tu oración?» (3 de diciembre). La fe es, en palabras de Kierkegaard citadas por Barron, «una pasión por lo imposible» (29 de noviembre).
+
+**Orar por los evangelizadores.** La oración tiene también un objeto misionero explícito: «La mies es abundante, pero los trabajadores son pocos; rogad, pues, al dueño de la mies que envíe trabajadores a su mies» (4 de diciembre).
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.

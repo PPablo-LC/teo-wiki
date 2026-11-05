@@ -6,6 +6,7 @@ tags: ["moral", "dogmática"]
 timestamp: 2026-11-02
 description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado; acto razonable de adhesión a una persona según Giussani."
 ---
+
 # Fe
 
 > Área: Moral / Dogmática
@@ -85,7 +86,6 @@ La vivencia emocional de la fe se ha de asentar en la verdad objetiva del kerigm
 
 Juan Pablo II llama a los jóvenes a estar «animados por la fe en el Señor a dar razón de vuestra esperanza» (cf. 1 Pe 3,15) [JPII-JovCh]. La fe es presentada no como un conjunto de doctrinas abstractas sino como experiencia viva de Cristo: «experiencia de fe, experiencia de Cristo vivo» [JPII-JovCh]. El acto de fe consiste en mirar a Cristo, descubrir en Él el Rostro mismo de Dios, apostar siempre por la gracia y por la vida [JPII-JovCh].
 
-
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **Concilio Vaticano I** — Constitución *Dei Filius* (1870, D‑1782–D‑1796): Definió la fe como virtud sobrenatural por la que, inspirados y ayudados por la gracia de Dios, creemos que las cosas reveladas por Dios son verdaderas, no por su intrínseca verdad percibida por la luz natural de la razón, sino por la autoridad de Dios mismo que las revela (D‑1789). La fe es «argumento de las cosas que no se ven» (Heb 11,1). Afirmó que «nunca puede haber verdadero desacuerdo entre la fe y la razón, puesto que el mismo Dios que revela los misterios e infunde la fe es el mismo que dota al alma humana de la luz de la razón» (D‑1797). Los misterios de la fe, por su naturaleza sobrenatural, no pueden ser demostrados por la razón ni comprendidos plenamente, sino que han de ser creídos por la autoridad de Dios revelante (D‑1795–D‑1796).
@@ -148,11 +148,6 @@ que comienza» (Jn 15,16; 03, 215).
 ### Según *The Epiphany of Love* (EPL)
 
 Melina (Introducción, Cap. IV) presenta la fe como un nuevo principio operativo que transforma el obrar. La fe no es una aplicación extrínseca de principios, sino el desarrollo de la elección fundamental por Cristo en comunión con la Iglesia. La ruptura entre fe y moral (VS 4) es la raíz teológica de la crisis. La fe, como expresión suprema de la libertad, es la aceptación de la acción de Cristo en nosotros, abriendo un nuevo horizonte de vida.
-
-## Relaciones doctrinales
-
-Ver artículo principal: [[virtud_de_la_fe]]
-
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
@@ -222,6 +217,18 @@ En los *Esercizi* 1994-1996, Giussani presenta la fe como reconocimiento de una 
 
 La fe es la primera de las teologales, pues hay que aprehender antes de amar. Su objeto: la Primera Verdad y, como camino hacia Ella, la Encarnación y los sacramentos. Es asentimiento al llegar por proposiciones (en esta vida solo conocemos complejamente lo simple), pero «el acto de fe no termina en la proposición sino en la realidad». Es conocimiento imperfecto (no ve lo que confiesa) y «enigmático» (*en ainigmati*, 1 Cor 13,12), pero de mayor certeza que la ciencia, porque se apoya en la mayor autoridad: la Palabra de Dios, «que no puede engañar ni ser engañada»; no bastan los milagros como evidencia — no todos los que los vieron creyeron: se requiere además el motivo interior que mueve la voluntad. Su perfección no está en el modo de conocer sino en la certeza y firmeza de la adhesión a la verdad no vista; es «la sustancia (argumentum) de las cosas que se esperan» (Hb 11,1): la disposición en que la vida eterna comienza en nosotros.
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**Una pasión por lo imposible.** Comentando la fe del centurión de Cafarnaúm, Barron recoge la definición de Kierkegaard: la fe es «una pasión por lo imposible» (AGR21, 29 de noviembre). El centurión pide una curación a distancia, con una sola palabra, en el límite de lo que puede conocer, controlar o medir; y sin embargo confía.
+
+**Fe y razón.** «¿Está Dios opuesto a la razón? En absoluto; Dios nos dio el don de la razón. ¿Quiere Dios que seamos irrealistas? No; quiere que usemos todas nuestras capacidades de imaginación y análisis. Pero la fe va más allá de la razón; es una pasión por lo que la razón no puede ver.» Por esa fe el centurión recibe una de las alabanzas más altas del Evangelio: «En nadie de Israel he encontrado tanta fe».
+
+**La fe que pide visión.** En la reflexión sobre los dos ciegos, la fe se concreta en la pregunta de Jesús: «¿Creéis que puedo hacer esto?». Y la aplicación es directa: «Cuando oras, ¿crees de verdad, como los ciegos, que Dios responderá tu oración?» (3 de diciembre).
+
+## Relaciones doctrinales
+
+Ver artículo principal: [[virtud_de_la_fe]]
+
 ## Analizado para
 
 [[pascasio_quesnel]], [[unigenitus]]
@@ -234,6 +241,7 @@ La fe es la primera de las teologales, pues hay que aprehender antes de amar. Su
 - [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta la fe como creencia ciega e irracional, cuando la doctrina católica la enseña como virtud sobrenatural compatible con la razón
 
 ## Ver también
+
 [[virtud_de_la_fe]], [[virtudes_teologales]], [[virtudes_infusas]]
 
 ## Referencias

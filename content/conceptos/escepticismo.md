@@ -55,6 +55,8 @@ presupone y la [[razón]] defiende.
 [[razón]], [[fe_y_razón]], [[verdad]], [[relativismo]], [[ateísmo]],
 [[incredulidad]], [[apologetica]], [[positivismo_lógico]]
 
+## Perspectivas por fuente
+
 ### Según La convenienza umana della fede (CUDF)
 
 Giussani describe el escepticismo como una serpiente que entra a hurtadillas: «¡Ojo,

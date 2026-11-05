@@ -6,6 +6,7 @@ tags: ["cristología", "escritura"]
 timestamp: 2026-06-21
 description: "«Siervo de Yahvé» es la designación de una figura misteriosa en los cantos del libro de Isaías (Is 42,1-9; 49,1-6; 50,4-11; 52,13-53,12), que la tradición cristiana identifica con Jesucristo."
 ---
+
 # Siervo de Yahvé
 
 > Área: Cristología / Escritura
@@ -41,22 +42,6 @@ Cristo «se anonadó tomando la forma de siervo» (Fil 2,7) (TPCr, n. 417). «Si
 
 Juan Pablo II dedica una catequesis a Jesús como Siervo de Yahvé. Los cantos del Siervo (Is 42,1-9; 49,1-6; 50,4-11; 52,13-53,12) encuentran su cumplimiento en Cristo. Jesús es el Siervo que no vino a ser servido sino a servir y dar su vida en rescate por muchos (Mc 10,45). Juan Bautista lo señala: «He aquí el Cordero de Dios, que quita el pecado del mundo» (Jn 1,29). El lavatorio de los pies (Jn 13,1-17) es la expresión más elocuente del servicio mesiánico de Jesús. La kenosis (Flp 2,6-8) —el despojamiento del Hijo que toma la forma de siervo— revela el amor humilde de Dios. Cristo, siendo de condición divina, se anonada a sí mismo y obedece hasta la muerte de cruz. La exaltación que sigue a la humillación muestra que el camino del Siervo es el camino de la gloria (CJeS, primera parte: catequesis sobre Jesús Siervo de Yahvé).
 
-## Distinciones importantes
-
-- Siervo como Israel (interpretación colectiva) vs. Siervo como figura mesiánica individual
-- Siervo sufriente vs. Cristo glorioso (dos aspectos del único misterio pascual)
-- Sufrimiento vicario (pena sustitutiva) vs. sufrimiento meramente ejemplar
-- Los cuatro cantos del Siervo como progresión revelatoria
-
-## Relaciones doctrinales
-
-Se relaciona con [[jesucristo]], [[redentor]], [[sufrimiento_vicario]], [[expiación]], [[misterio_pascual]], [[isaías]], [[cordero_de_dios]].
-
-
-## Analizado para
-
-- [[kathy_washeck_docility]]
-
 ### Según Benedicto XVI (JdN_I)
 
 Benedicto XVI analiza la identificación de Jesús con el Siervo de Yahvé en el contexto del título «Hijo del hombre». En el tercer anuncio de la pasión, las palabras de Jesús sobre el servir y el mandar culminan en la frase: «Porque el Hijo del hombre no ha venido para que le sirvan, sino para servir y dar su vida en rescate por todos» (Mc 10, 45). Con esta citación de una palabra tomada de los cantos del Siervo de Dios sufriente (cf. Is 53), «aparece en la imagen del Hijo del hombre otro filón de la tradición del Antiguo Testamento» (JdN_I, 6.1).
@@ -69,7 +54,23 @@ Jesús se ve a sí mismo como el que está sentado «a la derecha de Dios» (Sal
 
 **El Siervo Sufriente y los desheredados (Raniero Cantalamessa).** El crucificado es «el arquetipo y la encarnación de todos los rechazados, desheredados y descartados de la tierra» (Is 53,3); Cristo se identificó con los pobres y marginados desde Belén (Lc 2,7; 2,24) hasta «no tener dónde reclinar la cabeza» (Mt 8,20); el *Ecce homo* (Jn 19,5) proclama la dignidad humana de los vilipendiados; Jesús es «el hombre» de los despreciados, a la luz de *Si esto es un hombre* de Primo Levi; la muerte redentora del Siervo «llevó el amor de Dios» hasta la muerte y la revierte en la resurrección, devolviendo la esperanza a los desheredados; la intercesión del Siervo (Is 53,11-12) [EAC-15, 19].
 
+## Distinciones importantes
+
+- Siervo como Israel (interpretación colectiva) vs. Siervo como figura mesiánica individual
+- Siervo sufriente vs. Cristo glorioso (dos aspectos del único misterio pascual)
+- Sufrimiento vicario (pena sustitutiva) vs. sufrimiento meramente ejemplar
+- Los cuatro cantos del Siervo como progresión revelatoria
+
+## Relaciones doctrinales
+
+Se relaciona con [[jesucristo]], [[redentor]], [[sufrimiento_vicario]], [[expiación]], [[misterio_pascual]], [[isaías]], [[cordero_de_dios]].
+
+## Analizado para
+
+- [[kathy_washeck_docility]]
+
 ## Ver también
+
 [[jesucristo]], [[redentor]], [[expiación]], [[misterio_pascual]], [[isaías]], [[cordero_de_dios]]
 
 ## Referencias

@@ -22,19 +22,7 @@ Amor sobrenatural hacia el prójimo **por amor de Dios**: segunda mesa del doble
 - **Objetos del amor fraterno**: bien espiritual ante todo (desear la santidad del hermano), bien corporal (obras de misericordia: dar de comer, vestir, visitar, redimir — Mt 25,31-46), perdón («setenta veces siete») y corrección fraterna (Mt 18,15; Sant 5,20).
 - **Comunión eclesial**: la caridad fraterna es el vínculo de la unidad de la Iglesia (Col 3,14: «vínculo de la perfección») y alma de los compromisos comunitarios (vida fraterna consagrada, comunión parroquial, asociaciones); la hospitalidad, la [[corrección_fraterna]] y el perdón son sus formas concretas.
 
-## Distinciones importantes
-
-- **Caridad fraterna** ≠ filantropía: se funda en Dios y ama al hermano con el amor mismo de Dios; puede exigir sacrificios que la filantropía no explica.
-- ≠ **apego natural**: no excluye la amistad particular, pero no la deja gobernar; la caridad se extiende también al enemigo (Mt 5,44).
-- **Orden del amor** (ordo caritatis): el amor a Dios precede; los padres, la familia, los cercanos y los más necesitados tienen prioridad objetiva, sin excluir a nadie (SmTh II-II q.26).
-
-## Relaciones doctrinales
-
-[[caridad]], [[amor_al_prójimo]], [[obras_de_misericordia]], [[corrección_fraterna]], [[hospitalidad]], [[perdón]], [[comunión_de_los_santos]], [[cuerpo_místico]], [[misericordia]], [[justicia]]
-
-## Ver también
-
-[[caridad]], [[amor_al_prójimo]], [[obras_de_misericordia]], [[corrección_fraterna]], [[hospitalidad]], [[perdón]], [[comunión_de_los_santos]], [[cuerpo_místico]], [[misericordia]], [[amistad_cristiana]]
+## Perspectivas por fuente
 
 ### Según La convenienza umana della fede (CUDF)
 
@@ -61,6 +49,20 @@ condición —que corresponde a la de la virginidad—, que es la caridad, es de
 condivisión: usamos nuestro término, *condivisione*. Es decir, la Fraternidad
 debe convertirse en una educación a la capacidad de sentir la vida del otro como
 parte de la propia» (02, 245).
+
+## Distinciones importantes
+
+- **Caridad fraterna** ≠ filantropía: se funda en Dios y ama al hermano con el amor mismo de Dios; puede exigir sacrificios que la filantropía no explica.
+- ≠ **apego natural**: no excluye la amistad particular, pero no la deja gobernar; la caridad se extiende también al enemigo (Mt 5,44).
+- **Orden del amor** (ordo caritatis): el amor a Dios precede; los padres, la familia, los cercanos y los más necesitados tienen prioridad objetiva, sin excluir a nadie (SmTh II-II q.26).
+
+## Relaciones doctrinales
+
+[[caridad]], [[amor_al_prójimo]], [[obras_de_misericordia]], [[corrección_fraterna]], [[hospitalidad]], [[perdón]], [[comunión_de_los_santos]], [[cuerpo_místico]], [[misericordia]], [[justicia]]
+
+## Ver también
+
+[[caridad]], [[amor_al_prójimo]], [[obras_de_misericordia]], [[corrección_fraterna]], [[hospitalidad]], [[perdón]], [[comunión_de_los_santos]], [[cuerpo_místico]], [[misericordia]], [[amistad_cristiana]]
 
 ## Referencias
 

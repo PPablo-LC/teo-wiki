@@ -6,6 +6,7 @@ tags: ["dogmática", "escatología"]
 timestamp: 2026-06-16
 description: "La gloria (en sentido escatológico) es el estado de bienaventuranza eterna en el cielo, donde el alma —y finalmente también el cuerpo resucitado— goza de la visión beatífica de Dios."
 ---
+
 # Gloria
 
 > Área: Dogmática / Escatología
@@ -28,6 +29,11 @@ Los que mueren en gracia de Dios y están purificados entran en la intimidad div
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 [VocTeoBib, «Gloria»] La gloria (heb. *kabod*, peso, importancia) designa en el AT el valor real de un ser, su peso en la existencia. La «gloria de Yahveh» es Dios mismo revelándose en majestad y poder: epifanía en las altas gestas de salvación y en las apariciones fulgurantes en el Sinaí y el templo. En el NT se centra en Cristo, «resplandor de su gloria» (Heb 1,3), manifestada ya en su vida terrena, plenamente en la resurrección y consumada en la parusía. El cristiano, transformado «de gloria en gloria» (2Cor 3,18), anticipa ya la gloria eterna.
+### Según la Summa Theologiae (SmTh, Suppl.)
+
+En las cuestiones del Suplemento sobre la resurrección (q.81-85), Santo Tomás desarrolla la gloria del cuerpo resucitado. Todos resucitarán en la edad perfecta —la juventud, alrededor de los treinta años— (q.81 a.1). El cuerpo glorioso participa de la gloria del alma mediante cuatro cualidades: impasibilidad (q.82), que lo libra de todo dolor; sutileza (q.83), que lo somete plenamente al espíritu; agilidad (q.84), que le permite moverse con la velocidad del pensamiento; y claridad (q.85), que irradia exteriormente la gloria interior del alma. La gloria del cuerpo es accidental respecto de la gloria esencial del alma (visión beatífica), pero es una verdadera participación corpórea de la bienaventuranza.
+
+En la cuestión 93 del Suplemento, Santo Tomás añade que la gloria de los santos será mayor después del juicio final que antes (q.93 a.1). Esta mayor gloria no es solo extensiva (por la adición de la gloria del cuerpo), sino también intensiva: el alma unida al cuerpo glorioso posee un ser más perfecto y, por tanto, una operación beatífica más perfecta.
 ### Según Royo Marín (TPCr)
 
 Royo Marín enseña que la gracia habitual es el germen de la gloria. La perfección cristiana en esta vida es una participación incipiente de la gloria que se consumará en el cielo. El dolor bien soportado aumenta el grado de gloria para toda la eternidad. El don de temor permanecerá en el cielo en su aspecto reverencial, aunque cesará el temor de ofender a Dios por la impecabilidad del bienaventurado. La contemplación mística es un anticipo de la gloria eterna.
@@ -55,22 +61,16 @@ Cualquier deformidad infligida por una libertad mal empleada será entonces refo
 - **Gloria del alma**: comienza inmediatamente después de la muerte del justo purificado.
 - **Gloria del cuerpo**: sobreviene en la resurrección final con las dotes de impasibilidad, claridad, agilidad y sutileza.
 
-### Según la Summa Theologiae (SmTh, Suppl.)
-
-En las cuestiones del Suplemento sobre la resurrección (q.81-85), Santo Tomás desarrolla la gloria del cuerpo resucitado. Todos resucitarán en la edad perfecta —la juventud, alrededor de los treinta años— (q.81 a.1). El cuerpo glorioso participa de la gloria del alma mediante cuatro cualidades: impasibilidad (q.82), que lo libra de todo dolor; sutileza (q.83), que lo somete plenamente al espíritu; agilidad (q.84), que le permite moverse con la velocidad del pensamiento; y claridad (q.85), que irradia exteriormente la gloria interior del alma. La gloria del cuerpo es accidental respecto de la gloria esencial del alma (visión beatífica), pero es una verdadera participación corpórea de la bienaventuranza.
-
-En la cuestión 93 del Suplemento, Santo Tomás añade que la gloria de los santos será mayor después del juicio final que antes (q.93 a.1). Esta mayor gloria no es solo extensiva (por la adición de la gloria del cuerpo), sino también intensiva: el alma unida al cuerpo glorioso posee un ser más perfecto y, por tanto, una operación beatífica más perfecta.
-
 ## Relaciones doctrinales
 
 La gloria se relaciona con la [[gracia_santificante]] (semilla de gloria), con el [[cielo]] (estado de gloria), con la [[visión_beatífica]] (acto esencial de la gloria), con la [[resurrección_de_la_carne]] (gloria del cuerpo), con la [[gloria_de_dios]] (fin objetivo), con la [[perfección_cristiana]] (anticipo de la gloria) y con las [[dotes]] del cuerpo glorioso (impasibilidad, sutileza, agilidad, claridad).
-
 
 ## Analizado para
 
 - [[primeros_pasos_en_la_vida_espiritual]]
 
 ## Ver también
+
 [[gloria_de_dios]], [[gracia_santificante]], [[cielo]], [[visión_beatífica]], [[resurrección_de_la_carne]], [[bienaventuranzas]], [[dotes]], [[cuerpos_gloriosos]]
 
 ## Referencias

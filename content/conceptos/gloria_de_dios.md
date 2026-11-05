@@ -6,6 +6,7 @@ tags: ["teología_bíblica", "dogmática"]
 timestamp: 2026-11-02
 description: "La gloria de Dios (*kabod* en hebreo, *doxa* en griego) designa la manifestación de la presencia y la majestad divinas, el honor debido a Dios por su naturaleza infinita."
 ---
+
 # Gloria de Dios
 
 > Área: Teología bíblica / Dogmática
@@ -75,6 +76,10 @@ En los ejercicios de 1994-1996, la gloria de Dios se presenta como el horizonte 
 
 - **Testimonio misionero**: don Paolo Pezzi desde Novosibirsk: «l'accorgersi dello scorrere della umanità di Cristo nelle mie vene… lo scopo… è la gloria di Cristo», en un «rapporto generativo reale, concreto, oggettivo, non deciso da me» (04, 39).
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Conclusión) presenta la acción como superabundancia que da gloria a Dios. La acción cristiana, como epifanía del amor, da gloria a Dios por su superabundancia. La acción excelente es expresión de la caridad, que da gloria a Dios.
+
 ## Distincioni importanti
 
 - **Gloria interna o esencial**: la que Dios posee en sí mismo desde la eternidad, como conocimiento y amor de sí mismo en la Santísima Trinidad. Es infinita e inmutable.
@@ -82,10 +87,6 @@ En los ejercicios de 1994-1996, la gloria de Dios se presenta como el horizonte 
 - **Gloria de Dios**: la manifestación de la divinidad; el honor debido a Dios
 - **Gloria de Cristo**: la gloria que recibe del Padre y que revela
 - **Gloria del hombre**: la participación en la vida divina; la bienaventuranza
-
-### Según *The Epiphany of Love* (EPL)
-
-Melina (Conclusión) presenta la acción como superabundancia que da gloria a Dios. La acción cristiana, como epifanía del amor, da gloria a Dios por su superabundancia. La acción excelente es expresión de la caridad, que da gloria a Dios.
 
 ## Relaciones doctrinales
 

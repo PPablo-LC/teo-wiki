@@ -73,6 +73,11 @@ _(Todos los pares de `personas/` han sido resueltos en esta auditoría — ver �
 
 Pendiente: (ninguno — los 22 pares han sido resueltos).
 
+## Duplicados semánticos resueltos (mismo referente, título distinto)
+
+- `juan_bautista` / `san_juan_bautista` (2026-11-04): misma persona con dos títulos. Fusionado en `san_juan_bautista` (orden CEC → VocTeoBib → JdN_III → EAC-22 → AGR21, con «Desarrollo doctrinal» del duplicado); `juan_bautista` → eliminada (contenido integrado); 34 archivos repuntados.
+- `genealogia_de_jesus` / `genealogía_de_cristo` (2026-11-04): mismo concepto con título distinto y sin tilde. Fusionado en `genealogía_de_cristo` (variante con tilde y mayor número de enlaces entrantes; se integraron el «Desarrollo doctrinal» y la sección de JdN_III del duplicado, más AGR21); `genealogia_de_jesus` → eliminada (contenido integrado); 3 archivos repuntados.
+
 ## Casos cross-carpeta (no incluidos; requieren decisión semántica)
 
 - `wiki/conceptos/` vs `wiki/Espiritualidad_LC-wiki/`: `abusoespiritual`, `federación_regnum_christi` (y `federacion_regnum_christi`).

@@ -6,6 +6,7 @@ tags: ["dogmática"]
 timestamp: 2026-11-02
 description: "Tercera Persona de la Santísima Trinidad, Dios verdadero, consubstancial al Padre y al Hijo, que procede del Padre y del Hijo (Filioque)."
 ---
+
 # Espíritu Santo
 
 > Área: Dogmática
@@ -112,16 +113,16 @@ En los *Esercizi spirituali* de la Fraternità di Comunione e Liberazione (1994-
 
 - **El Espíritu y la memoria**: la carta de la madre de familia testifica: «Dio aveva scelto quella persona per comunicarmi il dono che voleva farmi, cioè quell'incontro con Lui… Lui attraverso lei mi ha attirata a Sé. Senza catene» (01, 33) — el Espíritu actúa en la libertad, no por coacción.
 
+### Según *The Epiphany of Love* (EPL)
+
+Melina (Introducción, Conclusión) presenta el Espíritu Santo como protagonista de la acción cristiana: los frutos del Espíritu son la perfecta expresión de la sinergia entre Dios y la persona espiritual que vive en la caridad. El Espíritu, don no creado, se introduce en el dinamismo de nuestra acción y la transforma. La acción es epifanía de un amor siempre mayor, con el Espíritu como protagonista.
+
 ## Distincioni importanti
 
 - No es una "fuerza" impersonal sino una Persona divina
 - Procede del Padre y del Hijo, no es creado ni engendrado
 - Actúa inseparablemente del Padre y del Hijo en la economía de la salvación
 - Su inhabitación en el alma justa es permanente y santificadora
-
-### Según *The Epiphany of Love* (EPL)
-
-Melina (Introducción, Conclusión) presenta el Espíritu Santo como protagonista de la acción cristiana: los frutos del Espíritu son la perfecta expresión de la sinergia entre Dios y la persona espiritual que vive en la caridad. El Espíritu, don no creado, se introduce en el dinamismo de nuestra acción y la transforma. La acción es epifanía de un amor siempre mayor, con el Espíritu como protagonista.
 
 ## Relaciones doctrinales
 

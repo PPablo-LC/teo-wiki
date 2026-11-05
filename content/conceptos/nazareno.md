@@ -45,11 +45,11 @@ En *Jesús de Nazaret III*, Benedicto XVI dedica una atención especial al títu
 
 ## Relaciones doctrinales
 
-Se relaciona con [[jesucristo]] (el título se aplica a Jesús), [[genealogia_de_jesus]] (el nezer conecta con la genealogía), [[isaías]] (el profeta del retoño), [[hijo_de_dios]] (la consagración a Dios expresa su filiación divina), [[cruz]] (el título en la cruz adquiere su plenitud).
+Se relaciona con [[jesucristo]] (el título se aplica a Jesús), [[genealogía_de_cristo]] (el nezer conecta con la genealogía), [[isaías]] (el profeta del retoño), [[hijo_de_dios]] (la consagración a Dios expresa su filiación divina), [[cruz]] (el título en la cruz adquiere su plenitud).
 
 ## Ver también
 
-[[jesucristo]], [[genealogia_de_jesus]], [[isaías]], [[hijo_de_dios]], [[cruz]], [[belén]]
+[[jesucristo]], [[genealogía_de_cristo]], [[isaías]], [[hijo_de_dios]], [[cruz]], [[belén]]
 
 ## Referencias
 

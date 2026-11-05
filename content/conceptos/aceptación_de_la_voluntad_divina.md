@@ -6,6 +6,7 @@ tags: ["ascética"]
 timestamp: 2026-05-29
 description: "La aceptación de la voluntad divina es el primer grado de la conformidad con Dios, por el cual el alma recibe con resignación cristiana las disposiciones de la providencia."
 ---
+
 # Aceptación de la Voluntad Divina
 
 > Área: Ascética
@@ -48,13 +49,6 @@ La oración de Jesús en Getsemaní —«Padre, si es posible, pase de mí este 
 
 **Aceptación filial.** La clave está en «Abbá, Padre»: Jesús no acepta un destino ciego, sino que se entrega al Padre que lo ama. La aceptación cristiana se funda en la filiación divina: solo quien sabe que es hijo de Dios puede aceptar su voluntad con confianza.
 
-## Distinciones importantes
-
-- Aceptación ≠ conformidad plena: la aceptación puede ir acompañada de repugnancia sensible; la conformidad incluye complacencia
-- Aceptación ≠ abandono: el abandono es más filial y confiado; la aceptación puede ser más costosa
-- Aceptación cristiana ≠ resignación pagana o estoica: se funda en el amor a Dios Padre, no en un frío deber
-- Aceptación ≠ pasividad: supone esfuerzo activo por someter la propia voluntad
-
 ### Según Benedicto XVI (JdN_II)
 
 La oración de Jesús en Getsemaní —«Padre, si es posible, pase de mí este cáliz; pero no se haga mi voluntad, sino la tuya» (Lc 22,42)— es el modelo supremo de aceptación de la voluntad divina. Benedicto XVI subraya que esta aceptación no es resignación estoica ni quietismo: Jesús no acepta el cáliz con indiferencia, sino que «Me muero de tristeza» (Mc 14,33). Su aceptación es el fruto de una decisión libre de la voluntad humana, que tras la lucha interior se somete al Padre por amor.
@@ -62,6 +56,13 @@ La oración de Jesús en Getsemaní —«Padre, si es posible, pase de mí este 
 **Aceptación filial.** La clave está en «Abbá, Padre»: Jesús no acepta un destino ciego, sino que se entrega al Padre que lo ama. La aceptación cristiana se funda en la filiación divina: solo quien sabe que es hijo de Dios puede aceptar su voluntad con confianza.
 
 **La aceptación como combate.** La somnolencia de los discípulos contrasta con la vigilia de Jesús: aceptar la voluntad de Dios es un combate espiritual que requiere oración y vigilancia.
+
+## Distinciones importantes
+
+- Aceptación ≠ conformidad plena: la aceptación puede ir acompañada de repugnancia sensible; la conformidad incluye complacencia
+- Aceptación ≠ abandono: el abandono es más filial y confiado; la aceptación puede ser más costosa
+- Aceptación cristiana ≠ resignación pagana o estoica: se funda en el amor a Dios Padre, no en un frío deber
+- Aceptación ≠ pasividad: supone esfuerzo activo por someter la propia voluntad
 
 ## Relaciones doctrinales
 

@@ -39,6 +39,14 @@ La expresión *Magníficat* «celebra la grandeza de Dios, que con el anuncio de
 
 La Vida de Jesús (VJ) dedica extensa meditación al Magníficat (Cap. I). María responde a las alabanzas de Isabel rezando: «Proclama mi alma la grandeza del Señor». El Magníficat es una inspirada profesión de fe, que expresa la elevación espiritual y poética de todo su ser hacia Dios. María, inspirándose en el Antiguo Testamento, celebra las maravillas que Dios realizó en ella. Con la expresión «Magníficat» se celebra la grandeza de Dios. El cántico es verdaderamente teológico porque revela la experiencia del rostro de Dios hecha por María: no solo es el Poderoso, sino también el Misericordioso. María nos lleva a descubrir los criterios de la misteriosa acción de Dios, que enaltece a los humildes. El Magníficat debe convertirse en el canto de cada día de nuestra vida.
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+Barron comenta el cántico (Lc 1,46-55) como «el gran himno de alabanza de María a Yahvé». El himno comienza con la declaración de que «todo su ser está ordenado a la glorificación de Dios»: «Su yo no quiere nada para sí; quiere ser solo una ocasión para dar honor a Dios» (AGR21, 22 de diciembre).
+
+**El ritmo de magnificar y ser magnificada.** Como Dios no necesita nada, toda la gloria que María le da revierte en su beneficio, de modo que «queda engrandecida en el mismo acto de engrandecerlo». Al entregarse plenamente a Dios, María se convierte en «una fuente sobreabundante de vida»; más aún, «queda encinta de Dios».
+
+**Clave de toda la mariología.** Ese «ritmo extraño y maravilloso» es, para Barron, la clave para entender todo lo de María: «desde su maternidad divina hasta su Asunción y su Inmaculada Concepción, y hasta su misión en la vida de la Iglesia». El cántico propone así «el modelo fundamental del discipulado».
+
 ## Relaciones doctrinales
 
 El Magníficat es uno de los [[cántico_evangélico]] (junto con el Benedictus y el Nunc Dimittis). Se reza en las [[vísperas]] y expresa la [[oración]] de la Iglesia unida a [[virgen_maría]].

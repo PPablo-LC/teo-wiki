@@ -6,6 +6,7 @@ tags: ["dogmática"]
 timestamp: 2026-11-02
 description: "Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina y de la vida eterna; el creer mismo es ya obra de la gracia."
 ---
+
 # Gracia
 
 > Área: Dogmática
@@ -141,8 +142,6 @@ Robert Barron subraya que la gracia es causa de la vida nueva y no su consecuenc
 
 «La redención del Señor ha hecho de la práctica positiva de la castidad una realidad posible y un motivo de alegría» (SHVS 3). «Con la gracia de Cristo, que brota de su amor esponsal por la Iglesia, todos pueden vivir castamente aunque se encuentren en circunstancias poco favorables» (SHVS 19). Dios, concediendo a los esposos el privilegio de ser padres, «les concede la gracia para cumplir adecuadamente su propia misión»; como ministros de la gracia sacramental del matrimonio están sostenidos por «energías particulares de orden espiritual» (SHVS 37). Los hijos experimentarán los efectos «de la gracia y de la misericordia de Dios en los sacramentos» y serán capaces de vivir la castidad «como don de Dios» (SHVS 74). La ayuda de Dios no falta nunca «si se pone el empeño necesario para corresponder a la gracia de Dios» (SHVS 74).
 
-
-
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 **La elección como gracia (parte quarta).** Giussani cita la «bendición espiritual celeste en Cristo»: Dios «nos ha elegido en él antes de la fundación del mundo, para ser santos e irreprensibles en su presencia, por amor, habiéndonos predestinado a ser sus hijos adoptivos por medio de Jesucristo» (Ef 1,3-6a); esta «adopción» no es puro símbolo: por ella el hombre es «llevado más allá de sí mismo, dentro de la vida misma de Dios», participando realmente de la generación del Verbo — «es "gracia", "dono"»—; «todavía no se ha manifestado lo que seremos» (1 Gv 3,2) (04, L99-101). El cristianismo, «a través del porsi objetivo del hecho que lleva al hombre a su destino», propone «la salvación como gracia, es decir, como algo que es dado permaneciendo y perseverando en una realidad viva»: lo que el moralismo sofoca, la «moralidad come grazia» lo restaura — el hombre adulto se «salva», crece y madura «descubriéndose siempre más inmanente a Aquel para quien es hecho, y a quien toda su naturaleza grita» (07, L99-107).
@@ -186,30 +185,6 @@ Ladaria distingue tres sentidos del «ideal»: el pelagiano (alcanzable con las 
 
 Melina (Introducción, EPL) presenta la gracia como principio que introduce en el dinamismo de la acción la primacía del don y la amistad con Cristo. La gracia transforma el obrar y lo eleva a la comunión con Dios. La sinergia entre gracia y libertad es el corazón de la moral cristiana.
 
-## Distinciones importantes
-
-- Gracia santificante (habitual) vs. gracias actuales
-- Gracia habitual: don permanente para vivir según la vocación divina
-- Gracias actuales: intervenciones divinas transitorias
-- La gracia no destruye la naturaleza sino que la perfecciona (gratia non tollit naturam sed perficit)
-- Nadie puede merecer la gracia primera
-
-## Relaciones doctrinales
-
-[[gracia_santificante]], [[gracias_actuales]], [[justificación]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[mérito]], [[unigenitus]], [[pascasio_quesnel]]
-
-
-## Analizado en contexto cultural
-
-- [[pinocho]] — convergencia en la gratuidad del Hada Azul como figura de la gracia; tensión por el carácter mágico y no sobrenatural
-
-## Analizado para
-
-- [[fr_michael_luxbacher_life_in_abundance]]
-- [[jeff_lacour_true_freedom_through_prayer]]
-
-## Perspectivas por fuente
-
 8. Las demás fuentes
 
 ### Robert Barron, *2 Samuel* (Brazos, 2015)
@@ -224,7 +199,39 @@ Barron conecta el tema de la gracia con la narrativa de 2 Samuel, destacando tre
 
 Barron cierra este tema conectando 2 Samuel con su ensayo sobre "La gracia y la libertad" en *Evangelization & Culture*, donde argumenta que la gracia cristiana es el único fundamento capaz de conciliar la profunda libertad del ser humano con la certeza de la salvación divina.
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**El circuito de la gracia.** Comentando la multiplicación de los panes (Mt 15,29-37), Barron ve en ella «la mejor ejemplificación en las Escrituras de lo que he llamado el circuito de la gracia»: Dios ofrece como pura gracia el don del ser, pero «si intentamos aferrarnos a ese don y hacerlo nuestro, lo perdemos» (AGR21, 1 de diciembre).
+
+**La regla del don.** «El mandato constante de la Biblia es este: lo que has recibido como don, dalo como don, y encontrarás el don original multiplicado y acrecentado.» Esa verdad se comprende cuando se entra voluntariamente en el circuito, entregando lo que se va recibiendo.
+
+**El hambre humana.** La multitud hambrienta es símbolo de la humanidad que, desde Adán y Eva, está famélica de lo que la sacie: hemos intentado llenar el vacío con riqueza, placer, poder, honor y afán de dominio, «pero nada funciona, precisamente porque estamos hechos para Dios y Dios no es otra cosa que amor».
+
+## Distinciones importantes
+
+- Gracia santificante (habitual) vs. gracias actuales
+- Gracia habitual: don permanente para vivir según la vocación divina
+- Gracias actuales: intervenciones divinas transitorias
+- La gracia no destruye la naturaleza sino que la perfecciona (gratia non tollit naturam sed perficit)
+- Nadie puede merecer la gracia primera
+
+## Relaciones doctrinales
+
+[[gracia_santificante]], [[gracias_actuales]], [[justificación]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[mérito]], [[unigenitus]], [[pascasio_quesnel]]
+
+## Analizado en contexto cultural
+
+- [[pinocho]] — convergencia en la gratuidad del Hada Azul como figura de la gracia; tensión por el carácter mágico y no sobrenatural
+
+## Analizado para
+
+- [[fr_michael_luxbacher_life_in_abundance]]
+- [[jeff_lacour_true_freedom_through_prayer]]
+
 ## Ver también
+
+## Referencias
+
 - CEC §1996-2026
 - TPCr, Parte II, Cap. 1
 - Denzinger D‑1351–D‑1375, D‑1384–D‑1387 (Clemente XI, *Unigenitus*)

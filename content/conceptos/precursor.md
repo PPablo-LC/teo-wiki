@@ -21,11 +21,11 @@ Juan Bautista es la culminación del ciclo profético. El Catecismo le dedica un
 
 ## Relaciones doctrinales
 
-Se relaciona con [[juan_bautista]], [[profeta]], [[bautismo_de_juan]], [[mesías]], [[elías]], [[testimonio]], [[cordero_de_dios]], [[conversión]], [[reino_de_dios]]
+Se relaciona con [[san_juan_bautista]], [[profeta]], [[bautismo_de_juan]], [[mesías]], [[elías]], [[testimonio]], [[cordero_de_dios]], [[conversión]], [[reino_de_dios]]
 
 ## Ver también
 
-[[juan_bautista]], [[profeta]], [[bautismo_de_juan]], [[elías]], [[testimonio]]
+[[san_juan_bautista]], [[profeta]], [[bautismo_de_juan]], [[elías]], [[testimonio]]
 
 ## Referencias
 

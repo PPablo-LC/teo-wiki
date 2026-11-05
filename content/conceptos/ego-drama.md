@@ -24,6 +24,12 @@ El concepto, difundido por el obispo Robert Barron, describe el ensimismamiento 
 
 En *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (verano de 2023), Bert Ghezzi aplica esta antítesis [[robert_barron|barroniana]] al ejemplo de San Benito de Nursia, quien «disciplinó su egocentrismo rechazando el ego-drama y abrazando el teo-drama», abandonando la Roma corrompida y la primacía del propio yo para retirarse a la soledad, la oración y el combate contra la tentación en Subiaco [EAC-16, 04].
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+Barron describe el **ego-drama** como «la obra que yo escribo, yo produzco, yo dirijo y yo protagonizo»: «Se ve absolutamente en todas partes en nuestra cultura. Reina la libertad de elección; yo me convierto en la persona que elijo ser» (AGR21, 21 de diciembre).
+
+**Su alternativa.** El ego-drama se define por oposición al [[teodrama]], «la gran historia que Dios está contando, la gran obra que Dios dirige». El caso de María —que va «a prisa» a la montaña porque ha encontrado su papel en esa historia— muestra el camino opuesto: no inventarse el propio guion, sino descubrir el lugar que a cada uno le corresponde en el plan de Dios, concretado en la propia [[vocación]].
+
 ## Distinciones importantes
 
 - **Ego-drama ≠ teo-drama**: el ego-drama tiene al yo como director, productor y estrella; el teo-drama tiene a Dios como protagonista

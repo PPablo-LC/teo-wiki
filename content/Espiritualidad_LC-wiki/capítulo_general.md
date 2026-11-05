@@ -6,6 +6,7 @@ tags: ["derecho_canónico", "vida_consagrada"]
 timestamp: 2026-06-13
 description: "El Capítulo General es la asamblea suprema de un instituto religioso, que tiene como funciones principales examinar la situación de la Congregación, elegir al nuevo gobierno."
 ---
+
 # Capítulo General
 
 > Área: Derecho Canónico / Vida Consagrada
@@ -70,20 +71,6 @@ La Antología recoge la documentación completa del proceso que culminó en el C
 
 **Misa en memoria del P. Corcuera.** La homilía del Card. De Paolis del 5 de julio de 2014 (AntDp-2015, `04_segunda_parte.md:1500-1535`) en memoria del P. Álvaro Corcuera, fallecido el 30 de junio de 2014 tras una larga enfermedad.
 
-## Distinciones importantes
-
-- El Capítulo General no es un mero órgano administrativo, sino un evento espiritual de discernimiento
-- Sus decisiones no son vinculantes hasta que son promulgadas según el derecho propio
-- El Capítulo General es la máxima autoridad del instituto, pero actúa dentro del marco del derecho canónico universal y las constituciones aprobadas
-
-## Relaciones doctrinales
-
-Se relaciona con [[sinodalidad]], [[vida_consagrada]], [[autoridad]], [[obediencia]], [[gobierno_religioso]], [[conversación_en_el_espíritu]] y [[discernimiento]].
-
-## Ver también
-
-[[sinodalidad]], [[vida_consagrada]], [[autoridad]], [[discernimiento]], [[conversación_en_el_espíritu]]
-
 ### Según el Capítulo General Extraordinario (CapExt-2018)
 
 El Capítulo General Extraordinario de 2018 fue convocado específicamente para abordar la configuración canónica del Regnum Christi. Se celebró en dos sesiones: la primera del 26 de marzo al 7 de abril de 2018, y la segunda del 19 al 24 de noviembre de 2018 [CapExt-2018, Decreto de convocación].
@@ -103,6 +90,20 @@ El IV Capítulo General ordinario de los Legionarios de Cristo se celebró del 2
 **Tareas realizadas.** El Capítulo acogió y revisó el cuerpo normativo emanado por el gobierno general desde 2014: aprobó las Constituciones ajustadas, la CVV, la Sapientia Christi, las Normas complementarias y diversos reglamentos [CapGral-2020, §§26-27]. También aprobó las propuestas de asignación de obras de apostolado y bienes materiales en el contexto de la Federación [CapGral-2020, §30].
 
 **Unidad en la diversidad.** Ghirlanda señaló que la votación casi unánime del Estatuto de la Federación «manifestó la madurez del Capítulo, por lo tanto, de la Legión, porque en el momento de la votación, después de tantas dudas y discusiones, fue capaz de recuperar la unidad, evidentemente dejándose guiar por el Espíritu» [CapGral-2020, Ghirlanda, §37].
+
+## Distinciones importantes
+
+- El Capítulo General no es un mero órgano administrativo, sino un evento espiritual de discernimiento
+- Sus decisiones no son vinculantes hasta que son promulgadas según el derecho propio
+- El Capítulo General es la máxima autoridad del instituto, pero actúa dentro del marco del derecho canónico universal y las constituciones aprobadas
+
+## Relaciones doctrinales
+
+Se relaciona con [[sinodalidad]], [[vida_consagrada]], [[autoridad]], [[obediencia]], [[gobierno_religioso]], [[conversación_en_el_espíritu]] y [[discernimiento]].
+
+## Ver también
+
+[[sinodalidad]], [[vida_consagrada]], [[autoridad]], [[discernimiento]], [[conversación_en_el_espíritu]]
 
 ## Referencias
 

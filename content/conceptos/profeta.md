@@ -48,7 +48,7 @@ La revelación profética se transmite ordinariamente por ministerio de los áng
 
 ## Relaciones doctrinales
 
-[[vocación]], [[revelación]], [[palabra_de_dios]], [[espíritu_santo]], [[alianza]], [[siervo_de_yahvé]], [[mesías]], [[juan_bautista]], [[predicar]]
+[[vocación]], [[revelación]], [[palabra_de_dios]], [[espíritu_santo]], [[alianza]], [[siervo_de_yahvé]], [[mesías]], [[san_juan_bautista]], [[predicar]]
 
 ## Ver también
 

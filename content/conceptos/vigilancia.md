@@ -29,6 +29,14 @@ El Catecismo trata la vigilancia como «guarda del corazón» (§2849). Jesús i
 
 Royo Marín trata la vigilancia como primer remedio contra el demonio (Parte III, Libro I, Cap. 3): «El demonio no renuncia a la posesión de nuestra alma. Si a veces parece que nos deja en paz y no nos tienta, es tan solo para volver al asalto en el momento menos pensado. Es preciso vigilar alerta para no dejarnos sorprender». La vigilancia debe ir acompañada de la oración, la confianza en Dios y la frecuencia de sacramentos.
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+Comentando Lc 21,25-36 (primer domingo de Adviento), Barron subraya que la vigilancia no es una actitud genérica de alerta, sino la respuesta a una venida concreta: cuando aparezcan los signos cósmicos y «vean al Hijo del Hombre venir en una nube con poder y gran gloria», los discípulos han de enderezarse y levantar la cabeza, porque su redención está cerca (AGR21, 28 de noviembre).
+
+**El enemigo de la vigilia.** La advertencia del Señor es que los corazones no se vuelvan torpes «por los excesos, la embriaguez y las ansiedades de la vida diaria», para que aquel día no sorprenda como un lazo. La vigilancia se pierde, por tanto, tanto por la disipación como por la preocupación absorbente.
+
+**Una vigilia practicable.** Barron propone la [[adoración_eucarística]] como modo concreto de vigilar: pasar media hora o una hora ante el Señor no es «lograr» nada ni llegar a ninguna parte, pero es «una forma particularmente rica de espera espiritual». El ejercicio consiste en traer a Cristo el problema o dilema que nos preocupa —«Señor, espero que tú lo resuelvas… he estado corriendo, planificando, preocupándome, pero ahora voy a dejarte actuar»— y, a lo largo del Adviento, «vigilar atentamente las señales», pidiendo además que se intensifique el deseo de las cosas de Dios: «Señor, hazme capaz de recibir los dones que quieres darme», o incluso «Señor Jesús, sorpréndeme».
+
 ## Distinciones importantes
 
 - La vigilancia cristiana no es angustia o escrupulosidad, sino atención confiada en Dios.

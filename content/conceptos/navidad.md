@@ -41,6 +41,14 @@ SC §105: El ciclo de Navidad incluye la fiesta de la Epifanía del Señor, la c
 
 **IIIa q.27 a.2:** La Iglesia celebra la Natividad de la Santísima Virgen porque fue el principio de nuestra redención.
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**La buena noticia de una familia disfuncional.** El Evangelio de Navidad se abre, en Mateo, con la genealogía de Jesús: cuarenta y dos generaciones de Abraham a Cristo. Barron comenta que, si el Verbo habitó verdaderamente entre nosotros, entonces formó parte de una familia «bastante disfuncional, una mezcla de lo bueno y lo malo», y eso es buena noticia (AGR21, 17 de diciembre). Destaca dos figuras: Rut, la moabita, extranjera, y Rahab, la prostituta de Jericó: el Mesías salió de ellas «y se complació en ser su pariente». «La buena noticia de la Navidad es que Dios mismo se metió en la familia disfuncional y ambigua del hombre.»
+
+**La ironía deliciosa de la Navidad.** El Rey legítimo vuelve a reclamar lo suyo y a dejar libres a los prisioneros; el Dios de justicia «arde por poner las cosas en su sitio» y viene a su mundo como un guerrero dispuesto a luchar. Pero llega «sigilosamente, clandestinamente», infiltrado tras las líneas enemigas: como un niño indefenso, nacido de padres insignificantes en un pueblecito de un remoto puesto avanzado del Imperio. «Vencerá con el poder finalmente irresistible del amor, el mismo poder con el que hizo el universo» (18 de diciembre).
+
+**El prólogo de Juan.** El Evangelio de Navidad es «toda la Biblia en miniatura»: «el Verbo se hizo carne y habitó entre nosotros». El griego *eskenosen* significa literalmente «plantó su tienda entre nosotros» y evoca el tabernáculo del [[templo]]; en Jesús, Dios habita definitivamente en su mundo, deshace los efectos del pecado y lo convierte en lo que siempre debía ser: nuevo Edén, nuevo templo, creación restaurada (25 de diciembre).
+
 ## Distinciones importantes
 
 - **Navidad como misterio, no solo fecha**: la celebración litúrgica accede al misterio del nacimiento de Cristo, no solo conmemora una fecha

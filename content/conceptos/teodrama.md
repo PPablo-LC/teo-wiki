@@ -28,6 +28,14 @@ En *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (verano de 2023), 
 
 **El drama de Dios en la cruz (Julia Hejduk, 17_feature_hejduk.md).** Hejduk inscribe el teo-drama en el corazón de la fe: la cruz de Cristo es «la obra maestra consumada del drama de la redención», el punto álgido en que el amor de Dios vence «incluso al mal más atroz». La vida cristiana entra en ese drama participando en la misión de reconciliar toda la realidad —los clásicos, el eros, la sexualidad, la literatura— con Dios, «en el espíritu del intercambio inaudito» de la Encarnación. Frente al ego-drama de la cultura contemporánea (que se encierra en el sujeto y sus deseos desordenados), el teo-drama ordena la masculinidad, la feminidad y el amor nupcial hacia la verdad de Dios.
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+Barron define el **teo-drama** como «la gran historia que Dios está contando, la gran obra que Dios dirige», y añade que «lo que hace emocionante la vida es descubrir el propio papel en ella» (AGR21, 21 de diciembre).
+
+**El caso de María.** La «prisa» de María al ir a la montaña de Judá se explica porque «había encontrado su misión, su papel en el teo-drama»: ha encontrado un papel culminante y quiere «conspirar» con Isabel, que también ha descubierto el suyo en el mismo drama. La conclusión se extiende al lector: «como María, hemos de encontrar nuestro lugar en la historia de Dios», y ese lugar se concreta en la propia [[vocación]] —religiosa, matrimonial o célibe—.
+
+**Frente al [[ego-drama]].** El teo-drama se entiende por contraste con la obra que el yo escribe, produce, dirige y protagoniza; frente a la cultura que proclama la libertad de elección absoluta, descubrir el propio papel en la historia de Dios libera la vida del ensimismamiento.
+
 ## Distinciones importantes
 
 - **Teo-drama ≠ ego-drama**: en el ego-drama el sujeto es director, productor y estrella; en el teo-drama Dios es el protagonista y el creyente sigue su iniciativa

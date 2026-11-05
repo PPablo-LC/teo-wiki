@@ -6,6 +6,7 @@ tags: ["dogmática_(cristología", "trinidad)"]
 timestamp: 2026-06-02
 description: "Título que expresa la relación de Jesucristo con Dios Padre en sentido único y natural (Hijo de Dios), y la relación de los hombres con Dios por adopción y gracia (hijos adoptivos)."
 ---
+
 # Hijo
 
 > Área: Dogmática (Cristología / Trinidad)
@@ -29,15 +30,6 @@ En los sinópticos, Jesús es el Hijo en sentido único: su filiación no es un 
 
 Los hombres son hijos adoptivos de Dios por la fe en Cristo. Pablo precisa que esta adopción filial —antes privilegio de Israel— se realiza por el Espíritu que clama «Abba, Padre». Los creyentes están llamados a reproducir la imagen del Hijo único. Juan añade que hay que renacer del agua y del Espíritu; esta filiación es realidad actual aunque oculta, y se manifestará plenamente en la visión de Dios.
 
-## Distinciones importantes
-
-- Hijo de Dios natural (Cristo, consubstancial al Padre) vs. hijo de Dios adoptivo (creyentes, por gracia)
-- Filiación divina en el AT (colectiva, mesiánica) vs. filiación en el NT (personal, trinitaria)
-
-## Relaciones doctrinales
-
-[[filiación_divina]], [[hijo_del_hombre]], [[persona_del_hijo]], [[adopción_sobrenatural]], [[jesucristo]], [[trinidad]]
-
 ### Según Benedicto XVI (JdN_I)
 
 Benedicto XVI distingue nítidamente entre los títulos «Hijo de Dios» y «Hijo» (sin añadiduras). El primero se deriva de la teología política del antiguo Oriente: tanto en Egipto como en Babilonia, el rey recibía el título de «hijo de Dios»; el ritual de entronización era considerado como «ser engendrado» como hijo de Dios (JdN_I, 7.2). En Israel, el privilegio de ser el primogénito de Dios se concreta en el rey, que personifica la dignidad de Israel.
@@ -47,6 +39,15 @@ La antigua ideología monárquica, el engendramiento mítico por obra de Dios, s
 Pero la expresión «Hijo de Dios» se distancia de la esfera del poder político y se convierte en expresión de una unión especial con Dios que se manifiesta en la cruz y en la resurrección. «Este rey no subyugará a sus pueblos con su cetro de hierro; reina desde la cruz, de un modo totalmente nuevo. La universalidad se realiza en la forma humilde de la comunión en la fe» (JdN_I, 7.2).
 
 En cuanto al simple título de «el Hijo», que Jesús se da a sí mismo, Benedicto XVI señala que «sólo el "Hijo" conoce al Padre, y todo verdadero conocimiento del Padre es participación en el conocimiento del Hijo» (JdN_I, 7.2). La palabra «Hijo» permite asomarnos al interior de Jesús y al interior de Dios mismo. La oración de Jesús es el verdadero origen de la expresión «el Hijo», y no tiene antecedentes en la historia, de la misma manera que el Hijo mismo «es nuevo».
+
+## Distinciones importantes
+
+- Hijo de Dios natural (Cristo, consubstancial al Padre) vs. hijo de Dios adoptivo (creyentes, por gracia)
+- Filiación divina en el AT (colectiva, mesiánica) vs. filiación en el NT (personal, trinitaria)
+
+## Relaciones doctrinales
+
+[[filiación_divina]], [[hijo_del_hombre]], [[persona_del_hijo]], [[adopción_sobrenatural]], [[jesucristo]], [[trinidad]]
 
 ## Ver también
 

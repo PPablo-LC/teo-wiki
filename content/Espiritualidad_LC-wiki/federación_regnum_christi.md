@@ -6,6 +6,7 @@ tags: ["eclesiología", "derecho_canónico"]
 timestamp: 2026-06-13
 description: "La Federación Regnum Christi es la configuración canónica mediante la cual se articula jurídicamente la familia espiritual y cuerpo apostólico del [[regnum_christi]]."
 ---
+
 # Federación Regnum Christi
 
 > Área: Eclesiología / Derecho canónico
@@ -69,22 +70,6 @@ El P. Gianfranco Ghirlanda, S.J., en su conferencia «Las asociaciones de los fi
 
 **Asambleas Generales del RC (2013).** Las asambleas generales del RC (consagrados en noviembre 2013, consagradas en diciembre 2013), presididas por el Card. De Paolis, aprobaron los Estatutos de los miembros consagrados, que fueron presentados a la Santa Sede como asociaciones de fieles.
 
-## Distinciones importantes
-
-- Federación (instrumento jurídico) vs. Regnum Christi (familia espiritual y cuerpo apostólico): la Federación sirve al Regnum Christi, no al revés.
-- Autonomía vs. unidad: ambas deben afirmarse con igual vigor; la autonomía es condición para una comunión auténtica.
-- Obras Comunes (copropiedad) vs. Federación (órgano de comunión): no deben confundirse.
-- Comunión misionera vs. uniformidad institucional: la comunión no exige que todos hagan lo mismo.
-- Consulta y subsidiariedad vs. microgestión y consenso paralizante.
-
-## Relaciones doctrinales
-
-Se relaciona con [[iglesia]], [[vida_consagrada]], [[consagración]], [[sacerdocio]], [[asociaciones]], [[derecho_canónico]], [[subsidiariedad]] y [[cuerpo_místico]].
-
-## Ver también
-
-[[vida_consagrada]], [[consagración]], [[sacerdocio]], [[asociaciones]], [[iglesia]], [[cuerpo_místico]]
-
 ### Según el Capítulo General Extraordinario (CapExt-2018)
 
 El Capítulo General Extraordinario de 2018 fue el punto culminante del proceso de búsqueda de la configuración canónica del Regnum Christi. En su primera sesión (abril 2018) los padres capitulares establecieron que la Legión de Cristo «no es una realidad exterior y ajena al Regnum Christi» y que «ambas realidades son inseparables» [CapExt-2018, n. 12]. Se identificaron cuatro valores fundamentales a custodiar: la unión y comunión entre todos los miembros del Regnum Christi; la búsqueda de lo que mejor favorezca la misión común; la identidad, autonomía y riqueza de las tres ramas consagradas; y la valoración e impulso de los miembros laicos [CapExt-2018, n. 21].
@@ -118,6 +103,22 @@ El comunicado capitular de 2020 dedica una sección a la pertenencia de la Legi�
 **Orientación práctica.** Se establece que los colegios directivos deben enfocarse en el ámbito estratégico y de gobierno, evitando cargarse de tareas operativas. La dirección ordinaria se lleva a cabo mediante la oportuna asignación y delegación de responsabilidades.
 
 **Visión de Ghirlanda.** En su conferencia, Ghirlanda señala que la constitución de la Federación «implicó un verdadero cambio de mentalidad» [CapGral-2020, Ghirlanda, §31]. Destaca que, a pesar de las tensiones y discusiones, en la votación del Estatuto de la Federación 59 miembros del Capítulo expresaron su *placet* con solo una abstención, lo cual «manifestó la madurez del Capítulo, por lo tanto, de la Legión, porque en el momento de la votación, después de tantas dudas y discusiones, fue capaz de recuperar la unidad, evidentemente dejándose guiar por el Espíritu» [CapGral-2020, Ghirlanda, §37].
+
+## Distinciones importantes
+
+- Federación (instrumento jurídico) vs. Regnum Christi (familia espiritual y cuerpo apostólico): la Federación sirve al Regnum Christi, no al revés.
+- Autonomía vs. unidad: ambas deben afirmarse con igual vigor; la autonomía es condición para una comunión auténtica.
+- Obras Comunes (copropiedad) vs. Federación (órgano de comunión): no deben confundirse.
+- Comunión misionera vs. uniformidad institucional: la comunión no exige que todos hagan lo mismo.
+- Consulta y subsidiariedad vs. microgestión y consenso paralizante.
+
+## Relaciones doctrinales
+
+Se relaciona con [[iglesia]], [[vida_consagrada]], [[consagración]], [[sacerdocio]], [[asociaciones]], [[derecho_canónico]], [[subsidiariedad]] y [[cuerpo_místico]].
+
+## Ver también
+
+[[vida_consagrada]], [[consagración]], [[sacerdocio]], [[asociaciones]], [[iglesia]], [[cuerpo_místico]]
 
 ## Referencias
 

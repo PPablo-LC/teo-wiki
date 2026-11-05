@@ -35,7 +35,7 @@ En el plano humano, Yahveh promete a David una lámpara, es decir, descendencia 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[luz]], [[velar]], [[palabra_de_dios]], [[iglesia]], [[gloria]], [[juan_bautista]].
+Se relaciona con [[luz]], [[velar]], [[palabra_de_dios]], [[iglesia]], [[gloria]], [[san_juan_bautista]].
 
 ## Ver también
 

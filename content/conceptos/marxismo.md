@@ -60,6 +60,8 @@ uno de los grandes errores antropológicos de la modernidad.
 [[ideología]], [[dignidad_humana]], [[beato_stefan_wyszyński]],
 [[libertad_de_la_iglesia]]
 
+## Perspectivas por fuente
+
 ### Según La convenienza umana della fede (CUDF)
 
 Giussani reduce el liberalismo y el marxismo a la misma categoría: «Hace cincuenta años

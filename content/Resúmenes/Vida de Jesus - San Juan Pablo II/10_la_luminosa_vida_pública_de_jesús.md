@@ -13,7 +13,7 @@ tags: ["resumen", "vida de jesus - san juan pablo ii"]
 ## Conceptos básicos referenciados
 
 - [[bautismo_de_juan]] — el bautismo de penitencia de Juan Bautista
-- [[juan_bautista]] — el último de los Profetas, precursor de Jesús
+- [[san_juan_bautista]] — el último de los Profetas, precursor de Jesús
 - [[bautismo]] — el bautismo de Cristo en el Jordán
 - [[caná]] — las bodas de Caná, primer signo de Jesús
 - [[reino_de_dios]] — el anuncio del Reino y la conversión

@@ -3,13 +3,14 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-11-02
+timestamp: 2026-11-04
 description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad; Giussani la presenta como capacidad del fin último."
 ---
+
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-04
 
 ## Definición
 
@@ -23,7 +24,15 @@ La libertad no es licencia para hacer cualquier cosa, sino capacidad para elegir
 
 ### Según el Catecismo (CEC)
 
-«La libertad es el poder, radicado en la razón y en la voluntad, de obrar o de no obrar, de hacer esto o aquello» (CEC §1731). La libertad humana es limitada y falible (§1732-1734). El pecado disminuye la libertad; la gracia de Cristo la libera (§1740-1742). El hombre alcanza la libertad perfecta cuando se somete a la verdad y al bien (§1743-1748). La libertad religiosa es un derecho fundado en la dignidad humana (§1804).
+«La libertad es el poder, radicado en la razón y en la voluntad, de obrar o de no obrar, de hacer esto o aquello, de ejecutar así por sí mismo acciones deliberadas» (§1731). No es un dato neutro: Dios creó al hombre «racional confiriéndole la dignidad de una persona dotada de la iniciativa y del dominio de sus actos», queriendo «dejar al hombre en manos de su propia decisión», para que busque a su Creador «sin coacciones» y, adhiriéndose a Él, «llegue libremente a la plena y feliz perfección» (§1730). «La libertad es en el hombre una fuerza de crecimiento y de maduración en la verdad y la bondad», y «alcanza su perfección cuando está ordenada a Dios, nuestra bienaventuranza» (§1731).
+
+De ahí su condición dramática. Mientras no llega al bien último, «la libertad implica la posibilidad de elegir entre el bien y el mal, y por tanto, de crecer en perfección o de flaquear y pecar» (§1732); por eso caracteriza los actos propiamente humanos y «se convierte en fuente de alabanza o de reproche, de mérito o de demérito» (§1732). La libertad no se mide por la amplitud de las opciones sino por el bien realizado: «En la medida en que el hombre hace más el bien, se va haciendo también más libre. No hay verdadera libertad sino en el servicio del bien y de la justicia», mientras que «la elección de la desobediencia y del mal es un abuso de la libertad y conduce a la esclavitud del pecado» (§1733).
+
+La libertad hace al hombre responsable «en la medida en que estos son voluntarios» (§1734); el progreso en la virtud, el conocimiento del bien y la ascesis «acrecientan el dominio de la voluntad sobre los propios actos» (§1734), mientras que la ignorancia, la inadvertencia, la violencia, el temor, los hábitos y los afectos desordenados pueden disminuir e incluso suprimir la imputabilidad (§1735, §1746).
+
+El Catecismo llama también la atención sobre las falsas libertades. «El ejercicio de la libertad no implica el derecho a decir y hacer cualquier cosa» (§1740, §1747); es falso concebir al hombre como «un individuo autosuficiente que busca la satisfacción de su interés propio en el goce de los bienes terrenales» (§1740). Y la libertad tiene una dimensión social: «Toda persona humana, creada a imagen de Dios, tiene el derecho natural de ser reconocida como un ser libre y responsable»; el derecho a su ejercicio «es una exigencia inseparable de la dignidad de la persona humana, especialmente en materia moral y religiosa» (§1738).
+
+Finalmente, la historia y la gracia. «La libertad del hombre es finita y falible»: al rechazar el proyecto del amor de Dios el hombre «se engañó a sí mismo y se hizo esclavo del pecado», y esa primera alienación «engendró una multitud de alienaciones» (§1739). Pero «para ser libres nos libertó Cristo» (§1741, §1748): en Él participamos de «la verdad que nos hace libres» y, donde está el Espíritu, «allí está la libertad» (§1741). Y la gracia no compite con la libertad: «La gracia de Cristo no se opone de ninguna manera a nuestra libertad cuando ésta corresponde al sentido de la verdad y del bien que Dios ha puesto en el corazón del hombre»; al contrario, «a medida que somos más dóciles a los impulsos de la gracia, se acrecientan nuestra íntima verdad y nuestra seguridad» (§1742).
 
 ### Según Royo Marín (TPCr)
 
@@ -141,7 +150,6 @@ El fruto maduro de la libertad es el vínculo: «el vínculo es el resultado, la
 
 ODPC contiene la definición más sintética de la libertad en Giussani: «la libertà è la capacità che l'essere cosciente possiede di realizzare completamente se stesso»: capacidad de infinito, sed de Dios, por eso amor — «capacità di qualcosa che non è noi». La libertad está en devenir: los objetos que encuentra son anticipos y reverberos del fin; ninguno la compromete toda: aquí está la posibilidad de la elección y su contradicción — detenerse en lo que satisface más ahora, siendo hecha para la completud. Esta contradicción equivale al mal: «chi fa il male si rende schiavo di una misura che non è quella per cui è fatto» (Gv 3,20; 12,35). La tentación es estar más atraído por lo psicológicamente más fuerte que por lo ontológicamente más cercano al fin. «Normalmente l'uomo non può resistere a lungo da solo alla tentazione. Gesù Cristo è l'essere che gli ridà continuamente il potere di scegliere bene» (Gv 8,31-32). Además: la libertad es «responsabilidad», respuesta a un Otro; y Dios la valora: «il modo con cui Dio ci tratta asseconda una decisione già presa della nostra libertà» (Mt 13,12); «la libertà non è rappresentata da scelte clamorose... La libertà è quanto di più discreto esista» — una posición originaria ante el real, que el problema de Cristo hace emerger ([[dependencia_de_dios]], [[escándalo]]).
 
-
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte prima, Cap. 3 (archivo `06_parte_prima_è_l_umanità_che_ha_abbandonato_la_chiesa.md`)** — frente a la libertad moderna entendida como «ausencia de lazos, abandono al propio impulso de instinto, imagen u opinión», para el cristianismo «la libertad es energía de adhesión al real, al ser: adhesión a otro que nos completa, que hace crecer y realiza la persona». Es «una fuerza afectiva que conduce a un Tú último», energía constructiva del yo mediante la adhesión a otro.
@@ -170,11 +178,6 @@ Elementos centrales en REG:
 
 Melina (Introducción, Caps. XIV-XVI de Pinkaers citado en EPL) contrapone la «libertad de indiferencia» (nominalismo/modernidad) con la «libertad de calidad» (Tomás). La libertad no es indiferencia ni autonomía, sino apertura a la verdad del bien. La libertad y la verdad forman una unidad: la libertad se realiza en la apertura a la verdad del bien. VS 4 identifica la ruptura entre libertad y verdad como raíz de la crisis moral. La libertad de calidad se educa en tres etapas: disciplina, progreso/virtud y madurez.
 
-## Relaciones doctrinales
-
-La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].
-
-
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 Selman recoge la defensa tomista de la libertad frente a dos equívocos. Contra la lectura que hace de la causalidad divina un determinismo: ser causado no es ser forzado (contra Hume, para quien causa = conjunción constante); Dios mueve la voluntad **desde dentro** — solo Él puede, porque está en todas las cosas — y al moverla no hace nada contra su naturaleza, que es querer voluntariamente: «no somos forzados sino inclinados al bien»; la voluntad movida por otro se mueve voluntariamente si ese otro es la causa de su naturaleza voluntaria. Y sin esa inclinación, la voluntad, sin inclinarse a nada, quizá no elegiría: no tanto libre como inerte. La gracia no suprime la libertad sino que la hace verdaderamente libre para el bien; la voluntad conserva siempre la posibilidad de resistir.
@@ -183,16 +186,21 @@ Selman recoge la defensa tomista de la libertad frente a dos equívocos. Contra 
 
 Carrón destaca que el encuentro con Cristo deja libre a la persona para acogerlo: «Lui attraverso lei mi ha attirata a Sé. Senza catene... lasciandomi libera di scegliere ancora quel dono» (TACDC, 01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, l. 33). Asimismo, la amistad se funda en una libertad compartida orientada al destino: «la vera natura dell’amicizia è vivere liberamente insieme per il destino» (TACDC, 01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, l. 55).
 
+## Relaciones doctrinales
+
+La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].
+
 ## Analizado para
 
 - [[jeff_lacour_true_freedom_through_prayer]]
 
 ## Ver también
+
 [[libertad_humana]], [[libre_albedrío]], [[acto_humano]], [[gracia]], [[conciencia_moral]], [[ley_natural]], [[dignidad_humana]], [[libertad_cristiana]], [[ley_nueva_como_ley_de_libertad]]
 
 ## Referencias
 
-- CEC §1730-1748, §1804
+- CEC §1730-1748
 - TPCr, Tratado de la libertad
 - [EjEsp2026, cap. 4: «Llegar a ser Libre»]
 - [EAC-14, 04_midnight_oil.md]

@@ -15,6 +15,12 @@ description: "El monacato cristiano es la forma de vida consagrada que practica 
 
 El monacato cristiano es la forma de vida consagrada caracterizada por la retirada del mundo para buscar a Dios mediante la soledad, la ascesis, la oración continua y el trabajo manual, bajo una regla y en obediencia a un abad o superior. Surgió en Egipto y Siria en el siglo IV con los Padres del desierto (San Antonio Abad, San Pacomio, San Basilio) y se expandió por Oriente y Occidente, dando origen a las grandes tradiciones monásticas benedictina, cisterciense y cartujana.
 
+## Ver también
+
+[[vida_consagrada]], [[ermitaño]], [[regla_religiosa]], [[padres_del_desierto]], [[oración_contemplativa]]
+
+## Perspectivas por fuente
+
 ### Según La Regla de San Benito (RegSB)
 
 La RSB es documento fundacional del monacato occidental:
@@ -26,10 +32,6 @@ La RSB es documento fundacional del monacato occidental:
 - **Trabajo manual (cap. 48)**: «Ora et labora» como ley del monasterio: los monjes harán trabajo manual todos los días.
 - **Estabilidad**: El monasterio es casa de estabilidad: el monje-profeso no puede salir del monasterio, y su vinculación es para siempre.
 - **La Regla como texto clásico**: El cap. 73 presenta la Regla como iniciación mínima hacia la perfección de los Padres.
-
-## Ver también
-
-[[vida_consagrada]], [[ermitaño]], [[regla_religiosa]], [[padres_del_desierto]], [[oración_contemplativa]]
 
 ## Referencias
 

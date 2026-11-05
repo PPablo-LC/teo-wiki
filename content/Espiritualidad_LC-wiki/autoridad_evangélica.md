@@ -6,6 +6,7 @@ tags: ["espiritualidad", "vida_consagrada"]
 timestamp: 2026-06-13
 description: "La autoridad evangélica es el ejercicio del gobierno en la [[vida_consagrada]] configurado según el modelo de Cristo, que «no ha venido a ser servidos, sino a servir» (Mt 20,28)."
 ---
+
 # Autoridad evangélica
 
 > Área: Espiritualidad / Vida consagrada
@@ -95,6 +96,18 @@ Las Constituciones de 1984 contemplan que la autoridad se ejerce mediante el dis
 
 La distinción que los propios documentos formulan entre la autoridad sana (servicio a la persona y a la comunidad) y su posible abuso (dominio) está presente en ambas versiones de las Constituciones, pero el andamiaje normativo complementario (Normas, sistemas de Monitores, voto privado) anula en la práctica la aplicación del primero como criterio reconocible para el súbdito.
 
+### Según el Capítulo General CapGral-2020 (Conferencia del P. Ghirlanda)
+
+La conferencia de Ghirlanda al Capítulo de 2020 ofrece una reflexión sobre el ejercicio de la autoridad a partir de la experiencia del gobierno general 2014-2020.
+
+**Unidad y uniformidad.** Uno de los desafíos identificados es «seguir trabajando para traer unidad a la Legión evitando en todas las maneras posibles de caer en la uniformidad que la ha caracterizado en el pasado» [CapGral-2020, Ghirlanda, §57]. La uniformidad da seguridad pero empobrece [CapGral-2020, Ghirlanda, §73].
+
+**Descentralización.** La Legión estaba totalmente centralizada. La descentralización no debe distorsionarse en una autonomía mal entendida: «en la Iglesia hablamos de autonomía 'justa' en el sentido de que la autonomía debe incluirse en el sistema canónico de la Iglesia y, por lo tanto, no puede oponerse a la dependencia» [CapGral-2020, Ghirlanda, §69].
+
+**Capacidad crítica y crítica.** Ghirlanda distingue entre crítica destructiva y capacidad crítica (evaluación objetiva de la realidad). «La capacidad crítica es lo que necesita ser desarrollado en cada persona. Evidentemente, su ejercicio requiere una gran madurez en las personas» [CapGral-2020, Ghirlanda, §65]. La lealtad al expresar el propio punto de vista a los superiores solo puede construir la comunión.
+
+**Ejercicio de la libertad.** Basar la unidad en la uniformidad del pensamiento le quita a la persona el ejercicio de su libertad responsable. La reacción a esto puede conducir al subjetivismo e individualismo. El desafío es conducir a un equilibrio entre la referencia a las Constituciones y la determinación personal, donde la unidad se enriquece por la peculiaridad personal en referencia al mismo carisma [CapGral-2020, Ghirlanda, §73].
+
 ## Distinciones importantes
 
 - Autoridad como servicio vs. autoridad como dominio: la autoridad evangélica es esencialmente ministerial, no de poder.
@@ -105,7 +118,6 @@ La distinción que los propios documentos formulan entre la autoridad sana (serv
 ## Relaciones doctrinales
 
 Se relaciona con [[obediencia_filial]], [[obediencia]], [[vida_consagrada]], [[cristo]], [[discernimiento]], [[consejos_evangélicos]], [[subsidiariedad]] y [[iglesia]].
-
 
 ## Analizado para
 
@@ -121,19 +133,8 @@ Se relaciona con [[obediencia_filial]], [[obediencia]], [[vida_consagrada]], [[c
 - [[sean_glass_call_to_fortitude]]
 
 ## Ver también
+
 [[obediencia_filial]], [[obediencia]], [[vida_consagrada]], [[cristo]], [[discernimiento]], [[conversación]]
-
-### Según el Capítulo General CapGral-2020 (Conferencia del P. Ghirlanda)
-
-La conferencia de Ghirlanda al Capítulo de 2020 ofrece una reflexión sobre el ejercicio de la autoridad a partir de la experiencia del gobierno general 2014-2020.
-
-**Unidad y uniformidad.** Uno de los desafíos identificados es «seguir trabajando para traer unidad a la Legión evitando en todas las maneras posibles de caer en la uniformidad que la ha caracterizado en el pasado» [CapGral-2020, Ghirlanda, §57]. La uniformidad da seguridad pero empobrece [CapGral-2020, Ghirlanda, §73].
-
-**Descentralización.** La Legión estaba totalmente centralizada. La descentralización no debe distorsionarse en una autonomía mal entendida: «en la Iglesia hablamos de autonomía 'justa' en el sentido de que la autonomía debe incluirse en el sistema canónico de la Iglesia y, por lo tanto, no puede oponerse a la dependencia» [CapGral-2020, Ghirlanda, §69].
-
-**Capacidad crítica y crítica.** Ghirlanda distingue entre crítica destructiva y capacidad crítica (evaluación objetiva de la realidad). «La capacidad crítica es lo que necesita ser desarrollado en cada persona. Evidentemente, su ejercicio requiere una gran madurez en las personas» [CapGral-2020, Ghirlanda, §65]. La lealtad al expresar el propio punto de vista a los superiores solo puede construir la comunión.
-
-**Ejercicio de la libertad.** Basar la unidad en la uniformidad del pensamiento le quita a la persona el ejercicio de su libertad responsable. La reacción a esto puede conducir al subjetivismo e individualismo. El desafío es conducir a un equilibrio entre la referencia a las Constituciones y la determinación personal, donde la unidad se enriquece por la peculiaridad personal en referencia al mismo carisma [CapGral-2020, Ghirlanda, §73].
 
 ## Referencias
 

@@ -6,6 +6,7 @@ tags: ["moral"]
 timestamp: 2026-06-02
 description: "Actitud o comportamiento que induce a otro a cometer [[pecado]]."
 ---
+
 # Escándalo
 
 > Área: Moral
@@ -34,10 +35,19 @@ Los cc. 1328-1329 tratan la cooperación al delito y el escándalo como circunst
 El VocTeoBib distingue dos polos del escándalo: Cristo como escándalo para el hombre, y el hombre como escándalo para su hermano. Cristo mismo es «piedra de escándalo» (Is 8,14) que pone a prueba la fe de Israel; su encarnación, cruz y ascensión constituyen un triple misterio ante el que los oyentes tropiezan —unos para levantarse, otros para endurecerse (Jn 6,66). Pablo afrontó este escándalo en ambos mundos: Cristo crucificado es «escándalo para los judíos y locura para los paganos» (1Cor 1,23), superable solo por el Espíritu.
 
 En el segundo polo, el hombre que abusa de su poder sobre el débil para apartarlo de la alianza es gravemente culpable: «¡Ay del que escandalizare a uno de estos pequeñuelos!» (Mt 18,6). Jesús exige la renuncia radical a todo lo que pueda ser ocasión de caída (Mt 5,29s). Pablo añade la dimensión eclesial: la libertad cristiana no debe ser ocasión de caída para los débiles (1Cor 8,9; Rom 14,13-15), pues la fe solo es auténtica si sostiene la fe de los hermanos.
+### Según la Summa Theologiae (SmTh)
+**IIª-IIae q.43 — El escándalo, vicio opuesto a la beneficencia:**
+**a.1 — Definición:** «Dicho o hecho menos recto que ofrece ocasión de ruina espiritual». «Menos recto» incluye tanto el pecado como la apariencia de mal.
+**a.2 — Doble escándalo:** activo (quien da ocasión) y pasivo (quien tropieza). El pasivo siempre es pecado en quien lo sufre; el activo siempre es pecado en quien lo provoca. El escándalo farisaico (por el bien ajeno) es pasivo sin activo.
+**a.3 — El escándalo activo en sí mismo (intención de inducir al pecado) es pecado especial:** Se opone directamente a la corrección fraterna. El escándalo activo accidental (sin intención de escandalizar) no es pecado especial.
+**a.4 — Puede ser mortal o venial según la materia:** El escándalo pasivo es mortal si lleva al pecado mortal, venial si solo al venial. El activo es mortal si se intenta inducir a pecado mortal o si la acción es mortal en sí misma.
+**a.5 — Los perfectos no sufren escándalo pasivo:** Quien está firmemente afianzado en Dios no se conmueve por las acciones desordenadas de otros. El escándalo es propio de los pequeños (los imperfectos).
+**a.6 — En los varones perfectos no cabe escándalo activo propiamente dicho:** Ordenan sus actos según la razón y evitan dar ocasión de caída. Si algo hacen imperfecto, es leve y no puede inducir razonablemente al pecado.
+**a.7 — No se deben abandonar los bienes espirituales necesarios para la salvación por el escándalo:** Los necesarios son irrenunciables. Los no necesarios deben ocultarse o diferirse ante el escándalo de los pusilánimes, pero no ante el farisaico.
+**a.8 — Los bienes temporales propios pueden abandonarse por el escándalo; los confiados (bienes de la Iglesia, del Estado) no deben abandonarse:** El abandono de los bienes comunes daría ocasión a los malos para la rapiña y los confirmaría en el pecado.
 ### Según Royo Marín (TPCr)
 
 Royo Marín, al tratar el pecado, incluye el escándalo como pecado contra la caridad fraterna. Distingue entre escándalo activo (el que da ocasión) y pasivo (el que se escandaliza). El escándalo farisaico (escandalizarse por el bien) es pecado de malicia.
-
 
 ### El escándalo del abuso sexual en la Iglesia (PMI)
 
@@ -55,20 +65,10 @@ ODPC recupera el skándalon de Kierkegaard (Diario): «La forma più bassa dello
 
 PLDC analiza el escándalo como objeción central contra la Iglesia y su solución (Parte III, cap. 1, §2b): todo juicio sobre la Iglesia inducido del comportamiento de sus hombres parte de premisas erradas, porque la definición de la Iglesia — el divino comunicado a través de lo humano — incluye por definición esa posible miseria. «Nefandezze e angustie non costituiscono materiale di giudizio sulla verità della Chiesa»: no hay que retirarse (ni por propia debilidad ni por escándalo ajeno) sino intervenir con el propio esfuerzo. Contra la frase de Nietzsche («creerei più al loro Salvatore se avessero la faccia da salvati») Giussani opone la observación de Fulton Sheen: si la Iglesia fuera perfecta como se reclama, no habría lugar en ella para nosotros. La trampa del escándalo, en la conclusión del PerCorso, es descrita con Guardini: «negare con razones secundarias aquello a lo que por razones fundamentales se debe asentir»; su curación es la no confusión entre razones fundamentales y problemáticas secundarias, la umiltà (de *humus*) como reconocimiento amoroso del real, y la correspondencia al ideal — «tosto volere fare», como pide Caterina da Siena al Papa.
 
+
 ## Relaciones doctrinales
 
 El escándalo es pecado contra la [[caridad]] y la [[justicia]], relacionado con los [[pecados_capitales]] y la [[conciencia_moral]].
-
-### Según la Summa Theologiae (SmTh)
-**IIª-IIae q.43 — El escándalo, vicio opuesto a la beneficencia:**
-**a.1 — Definición:** «Dicho o hecho menos recto que ofrece ocasión de ruina espiritual». «Menos recto» incluye tanto el pecado como la apariencia de mal.
-**a.2 — Doble escándalo:** activo (quien da ocasión) y pasivo (quien tropieza). El pasivo siempre es pecado en quien lo sufre; el activo siempre es pecado en quien lo provoca. El escándalo farisaico (por el bien ajeno) es pasivo sin activo.
-**a.3 — El escándalo activo en sí mismo (intención de inducir al pecado) es pecado especial:** Se opone directamente a la corrección fraterna. El escándalo activo accidental (sin intención de escandalizar) no es pecado especial.
-**a.4 — Puede ser mortal o venial según la materia:** El escándalo pasivo es mortal si lleva al pecado mortal, venial si solo al venial. El activo es mortal si se intenta inducir a pecado mortal o si la acción es mortal en sí misma.
-**a.5 — Los perfectos no sufren escándalo pasivo:** Quien está firmemente afianzado en Dios no se conmueve por las acciones desordenadas de otros. El escándalo es propio de los pequeños (los imperfectos).
-**a.6 — En los varones perfectos no cabe escándalo activo propiamente dicho:** Ordenan sus actos según la razón y evitan dar ocasión de caída. Si algo hacen imperfecto, es leve y no puede inducir razonablemente al pecado.
-**a.7 — No se deben abandonar los bienes espirituales necesarios para la salvación por el escándalo:** Los necesarios son irrenunciables. Los no necesarios deben ocultarse o diferirse ante el escándalo de los pusilánimes, pero no ante el farisaico.
-**a.8 — Los bienes temporales propios pueden abandonarse por el escándalo; los confiados (bienes de la Iglesia, del Estado) no deben abandonarse:** El abandono de los bienes comunes daría ocasión a los malos para la rapiña y los confirmaría en el pecado.
 
 ## Ver también
 
@@ -79,14 +79,5 @@ El escándalo es pecado contra la [[caridad]] y la [[justicia]], relacionado con
 - CEC §2284-2287
 - TPCr, tratado del pecado
 - CIC cc. 1328-1329
-
-
-
-
-
-
-
-
-
 
 - [VocTeoBib, «Escándalo»]

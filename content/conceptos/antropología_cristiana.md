@@ -6,6 +6,7 @@ tags: ["dogmática", "antropología"]
 timestamp: 2026-06-18
 description: "La antropología cristiana es la comprensión del ser humano a la luz de la Revelación divina, que encuentra en Jesucristo la clave definitiva del misterio del hombre."
 ---
+
 # Antropología cristiana
 
 > Área: Dogmática / Antropología
@@ -44,6 +45,15 @@ En el Capítulo VII, Juan Pablo II recuerda que la Sagrada Escritura contiene un
 
 La encíclica concluye que «la grandeza del hombre jamás consistirá» en creerse dueño absoluto de sí mismo, sino en «insertarse en la verdad, al amparo de la Sabiduría y en coherencia con ella» (FR, Conclusión, §107). Solo en el horizonte de la verdad «comprenderá la realización plena de su libertad y su llamada al amor y al conocimiento de Dios como realización suprema de sí mismo» (FR, Conclusión, §107).
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II profundiza en la antropología cristiana desde la perspectiva del «viraje antropológico» del Concilio Vaticano II. «La antropología del Vaticano II está enraizada en la cristología y, por tanto, en la teología» [MI, cap. 18].
+
+«Realmente, el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado» (GS 22). «Cristo no sólo indica a los hombres el camino de la vida interior, sino que Él mismo se presenta como "el camino" para ello. Es "camino" porque es el Verbo encarnado, es el Hombre» [MI, cap. 18].
+
+«La dignidad propia del hombre no se basa únicamente en el hecho mismo de ser hombre, sino, sobre todo, en que Dios se hizo verdadero hombre en Jesucristo. En efecto, acto seguido leemos: "Pues él mismo, el Hijo de Dios, con su encarnación, se ha unido, en cierto modo, con todo hombre"» (GS 22) [MI, cap. 18].
+
+El misterio del Verbo encarnado ayuda a comprender «el misterio del hombre también en su dimensión histórica. Porque Cristo es el "último Adán", como dice san Pablo» (1 Co 15,45) [MI, cap. 18]. «Al margen del Evangelio, el hombre se queda en un dramático interrogante sin respuesta. Porque la respuesta apropiada a la pregunta sobre el hombre es Cristo, el *Redemptor hominis*» [MI, cap. 18].
 
 ## Distinciones importantes
 
@@ -56,20 +66,9 @@ La encíclica concluye que «la grandeza del hombre jamás consistirá» en cree
 
 Se relaciona con [[imagen_de_dios]], [[persona_humana]], [[dignidad_humana]], [[creación_del_hombre]], [[alma_espiritual]], [[libertad]], [[redención]], [[fe_y_razón]], [[verdad]]
 
-
 - FR, Introducción, §1; Cap. I, §12, §15; Cap. III, §28, §31-32; Cap. VII, §80, §83; Conclusión, §107
 - CEC §355-421, §1701-1715
 - Concilio Vaticano II, GS 12-22
-
-### Según Memoria e Identidad (MI)
-
-Juan Pablo II profundiza en la antropología cristiana desde la perspectiva del «viraje antropológico» del Concilio Vaticano II. «La antropología del Vaticano II está enraizada en la cristología y, por tanto, en la teología» [MI, cap. 18].
-
-«Realmente, el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado» (GS 22). «Cristo no sólo indica a los hombres el camino de la vida interior, sino que Él mismo se presenta como "el camino" para ello. Es "camino" porque es el Verbo encarnado, es el Hombre» [MI, cap. 18].
-
-«La dignidad propia del hombre no se basa únicamente en el hecho mismo de ser hombre, sino, sobre todo, en que Dios se hizo verdadero hombre en Jesucristo. En efecto, acto seguido leemos: "Pues él mismo, el Hijo de Dios, con su encarnación, se ha unido, en cierto modo, con todo hombre"» (GS 22) [MI, cap. 18].
-
-El misterio del Verbo encarnado ayuda a comprender «el misterio del hombre también en su dimensión histórica. Porque Cristo es el "último Adán", como dice san Pablo» (1 Co 15,45) [MI, cap. 18]. «Al margen del Evangelio, el hombre se queda en un dramático interrogante sin respuesta. Porque la respuesta apropiada a la pregunta sobre el hombre es Cristo, el *Redemptor hominis*» [MI, cap. 18].
 
 ## Ver también
 

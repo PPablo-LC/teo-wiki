@@ -6,6 +6,7 @@ tags: ["eclesiología_(teología)"]
 timestamp: 2026-05-29
 description: "Título honorífico concedido por el Papa o por un concilio ecuménico a santos y santas de la Iglesia universal que se han distinguido por su eminente doctrina teológica."
 ---
+
 # Doctores de la Iglesia
 
 > Área: Eclesiología (Teología)
@@ -33,6 +34,9 @@ El Catecismo cita con frecuencia a los Doctores como autoridades doctrinales: a 
 
 Las citas patrísticas y doctrinales de los Doctores «tienen como fin enriquecer la exposición doctrinal» y «han sido escogidas con miras a un uso directamente catequético» (CEC §21).
 
+### Según la Summa Theologiae (SmTh, Suppl.)
+
+Santo Tomás asigna a los doctores una aureola (premio accidental especial) en el cielo (Suppl. q.96 a.7), por la victoria sobre el error mediante la enseñanza y predicación de la verdad divina. La aureola de los doctores no se reduce a la excelencia de la enseñanza, sino que requiere el ejercicio habitual de predicar y enseñar como obra de perfección, iluminando a otros con la sabiduría divina (q.96 a.7). Es una de las tres aureolas, junto con la de los vírgenes y la de los mártires (q.96 a.11).
 ### Según la tradición de la Iglesia
 
 El reconocimiento como Doctor de la Iglesia implica tres condiciones: *eminens doctrina* (doctrina eminente), *insignis vitae sanctitas* (notable santidad de vida) y *Ecclesiae declaratio* (declaración de la Iglesia). Los Doctores son propuestos como modelos de enseñanza ortodoxa y como intercesores ante Dios.
@@ -43,15 +47,12 @@ Entre los Doctores de la Iglesia se cuentan:
 - **Doctores occidentales**: san Ambrosio, san Jerónimo, san Agustín, san Gregorio Magno, santo Tomás de Aquino, san Buenaventura, san Anselmo, san Bernardo, san Antonio de Padua, san Alberto Magno, san Pedro Canisio, san Juan de la Cruz, san Roberto Belarmino, san Lorenzo de Brindis, san Alfonso María de Ligorio, san Juan Bosco, san Juan Pablo II.
 - **Doctoras**: santa Teresa de Jesús, santa Catalina de Siena, santa Teresa del Niño Jesús, santa Hildegarda de Bingen.
 
+
 ## Distinciones importantes
 
 - **Doctor de la Iglesia** vs. **Padre de la Iglesia**: los Padres son testigos de la Tradición de los primeros siglos (antigüedad, doctrina ortodoxa, santidad, aprobación eclesial). Los Doctores pueden ser de cualquier época.
 - **Doctor de la Iglesia** vs. **Doctor en teología**: el título académico se obtiene por estudio; el título eclesiástico es un reconocimiento del Magisterio por la eminencia doctrinal y la santidad.
 - **Magisterio** de los Doctores vs. **Magisterio auténtico**: la enseñanza de los Doctores no constituye Magisterio infalible, pero goza de especial autoridad por su fidelidad al depósito de la fe.
-
-### Según la Summa Theologiae (SmTh, Suppl.)
-
-Santo Tomás asigna a los doctores una aureola (premio accidental especial) en el cielo (Suppl. q.96 a.7), por la victoria sobre el error mediante la enseñanza y predicación de la verdad divina. La aureola de los doctores no se reduce a la excelencia de la enseñanza, sino que requiere el ejercicio habitual de predicar y enseñar como obra de perfección, iluminando a otros con la sabiduría divina (q.96 a.7). Es una de las tres aureolas, junto con la de los vírgenes y la de los mártires (q.96 a.11).
 
 ## Relaciones doctrinales
 

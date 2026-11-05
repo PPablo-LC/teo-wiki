@@ -17,7 +17,7 @@ Santa Isabel, esposa de Zacarías y madre de Juan el Bautista, perteneciente a l
 
 ## Desarrollo doctrinal
 
-Isabel es presentada en Lc 1 como «mujer estéril» que concibió milagrosamente en su vejez por intervención divina. Al recibir la visita de María, llena del [[espíritu_santo]] proclamó: «Bendita tú entre las mujeres y bendito el fruto de tu vientre», primera confesión pública de la maternidad divina de María. Su hijo Juan sería el [[juan_bautista]], precursor de Cristo.
+Isabel es presentada en Lc 1 como «mujer estéril» que concibió milagrosamente en su vejez por intervención divina. Al recibir la visita de María, llena del [[espíritu_santo]] proclamó: «Bendita tú entre las mujeres y bendito el fruto de tu vientre», primera confesión pública de la maternidad divina de María. Su hijo Juan sería el [[san_juan_bautista]], precursor de Cristo.
 
 ## Perspectivas por fuente
 
@@ -31,7 +31,7 @@ Isabel se relaciona con María por la [[visitación]], con su hijo [[bautista|Ju
 
 ## Ver también
 
-[[virgen_maría]], [[visitación]], [[juan_bautista]], [[evangelios]], [[espíritu_santo]], [[maternidad_divina]]
+[[virgen_maría]], [[visitación]], [[san_juan_bautista]], [[evangelios]], [[espíritu_santo]], [[maternidad_divina]]
 
 ## Referencias
 

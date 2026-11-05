@@ -60,6 +60,14 @@ La Constitución sobre la Sagrada Liturgia (*Sacrosanctum Concilium*, 7) estable
 
 **Tiffany** investiga qué significa creer según el Nuevo Testamento. La fe no es asentimiento intelectual puro sino adhesión personal a la Palabra revelada, un acto que compromete toda la existencia del creyente.
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+En la reflexión de Navidad, Barron comenta el prólogo de Juan como «todo el Evangelio, más aún, toda la Biblia en miniatura»: el Verbo estaba en el principio, estaba con Dios y era Dios; todo se hizo por él y sin él no se hizo nada de cuanto existe; en él estaba la vida y la vida era la luz de los hombres (AGR21, 25 de diciembre).
+
+**La Palabra que acampa.** El término griego *eskenosen* —traducido «habitó entre nosotros»— significa literalmente «plantó su tienda entre nosotros» y remite al tabernáculo del [[templo]]. La Palabra no es solo mensaje: es presencia que se instala en la historia. En la estela de ese «plantar la tienda» se contempla su gloria, «gloria del Hijo único del Padre, lleno de gracia y de verdad», y de su plenitud se recibe «gracia sobre gracia».
+
+**La Palabra dirigida al lector.** El género de la obra subraya el mismo punto en clave devocional: la Escritura no se lee como documento del pasado ni como objeto de erudición, sino como palabra dirigida aquí y ahora al que lee, que pide una respuesta concreta (AGR21, artículo descriptivo de la obra).
+
 ## Distinciones importantes
 
 - **Palabra de Dios (Cristo) vs. Escritura (Palabra escrita)**: Cristo es la Palabra primera y definitiva; la Escritura es Palabra de Dios en sentido analógico, derivado y subordinado. La Escritura *contiene* la Palabra de Dios sin ser *idéntica* a ella.

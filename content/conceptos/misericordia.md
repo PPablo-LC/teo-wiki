@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misericordia
 tags: ["dogmática"]
 
-timestamp: 2026-11-02
+timestamp: 2026-11-04
 description: "La misericordia es el atributo divino por el cual Dios, movido por su infinita bondad, se compadece de la miseria humana."
 ---
 # Misericordia
 
 > Área: Dogmática
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-04
 
 ## Definición
 
@@ -25,9 +25,15 @@ La misericordia de Dios se manifiesta plenamente en Jesucristo, que es el rostro
 
 ### Según el Catecismo (CEC)
 
-El Catecismo enseña que «la misericordia de Dios es infinita» (§1846). «Al pecador que, movido por la gracia, se convierte a Él, le concede el perdón y la justificación» (§1847). Dios quiere que todos los hombres se salven y, por su misericordia, perdona los pecados a quien se arrepiente.
+El Catecismo presenta la misericordia como el nombre con que Dios se revela a sí mismo. En el Sinaí, Moisés escucha la proclamación «Señor, Señor, Dios misericordioso y clemente, tardo a la cólera y rico en amor y fidelidad» (Ex 34,6), y «Moisés confiesa entonces que el Señor es un Dios que perdona» (§210). El Nombre divino expresa la fidelidad de Dios, que «mantiene su amor por mil generaciones»; Dios revela que es «rico en misericordia» llegando hasta dar a su propio Hijo (§211). Así «Dios rico en misericordia, por el gran amor con que nos amó, estando muertos por los pecados, nos vivificó con Cristo» (Ef 2,4-5, citado en §211).
 
-La misericordia de Dios es el fundamento de la esperanza cristiana: «Dios rico en misericordia, por el gran amor con que nos amó, estando muertos por los pecados, nos vivificó con Cristo» (Ef 2,4-5, citado en CEC §210-211). Las obras de misericordia (corporales y espirituales) son la respuesta del cristiano a la misericordia recibida (§2447).
+La misericordia es el modo más alto de su poder: Dios «muestra su omnipotencia paternal [...] por su misericordia infinita, pues muestra su poder en el más alto grado perdonando libremente los pecados» (§270).
+
+En Cristo la misericordia se hace sin medida. Jesús invita a los pecadores al banquete del Reino y «les muestra de palabra y con hechos la misericordia sin límites de su Padre hacia ellos» (§545); el Evangelio es, «en Jesucristo, la revelación [...] de la misericordia de Dios con los pecadores» (§1846). Pero su acogida no dispensa la conversión: «Dios, que te ha creado sin ti, no te salvará sin ti» (§1847), y la confesión de las faltas es la puerta: «Si reconocemos nuestros pecados, fiel y justo es él para perdonarnos» (§1847).
+
+De ahí las dos falsificaciones que el Catecismo señala. La presunción «presume de la omnipotencia o de la misericordia divinas (esperando obtener su perdón sin conversión y la gloria sin mérito)» (§2092). Y el corazón que no perdona cierra esa fuente: «este desbordamiento de misericordia no puede penetrar en nuestro corazón mientras no hayamos perdonado a los que nos han ofendido» (§2840). Con todo, «no hay límites a la misericordia de Dios, pero quien se niega deliberadamente a acoger la misericordia de Dios mediante el arrepentimiento rechaza el perdón de sus pecados» (§1864).
+
+La parábola del hijo pródigo es su imagen maestra: su centro es «el padre misericordioso», y «sólo el corazón de Cristo, que conoce las profundidades del amor de su Padre, pudo revelarnos el abismo de su misericordia de una manera tan llena de simplicidad y de belleza» (§1439). Recibirla obliga a practicarla: el don recibido «impulsa al creyente a ser él también misericordioso» (§1458); la caridad tiene por frutos «el gozo, la paz y la misericordia» (§1829); y las obras de misericordia —espirituales (instruir, aconsejar, consolar, perdonar, sufrir con paciencia) y corporales (dar de comer, dar techo, vestir, visitar a los enfermos y a los presos, enterrar a los muertos)— son «acciones caritativas mediante las cuales ayudamos a nuestro prójimo en sus necesidades corporales y espirituales» (§2447), y la limosna, «una práctica de justicia que agrada a Dios» (§2447).
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
@@ -35,7 +41,9 @@ La misericordia de Dios es el fundamento de la esperanza cristiana: «Dios rico 
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
-El Concilio Vaticano II enseña que «la misericordia de Dios, que al mismo tiempo perdona y reforma, se manifiesta en la historia del pueblo de Dios y se hace presente en la vida de la Iglesia» (LG 8). *Gaudium et Spes* presenta a la Iglesia al servicio de la humanidad, atenta a las esperanzas y angustias de los hombres (GS 1), y enseña que la caridad impulsa a la Iglesia a buscar la justicia y la paz.
+El Concilio no dedica un tratado a la misericordia, pero la inscribe en la entraña de la misión de la Iglesia. *Lumen Gentium* 8 la describe abrazando «con su amor a todos los afligidos por la debilidad humana», reconociendo «en los pobres y en los que sufren la imagen de su Fundador pobre y paciente», y, llevando a pecadores en su seno, «avanza continuamente por la senda de la penitencia y de la renovación» (LG 8).
+
+*Gaudium et Spes* 42 cuenta las obras de misericordia entre las tareas que la misión religiosa de la Iglesia «puede crear, mejor dicho, debe crear, [...] al servicio de todos, particularmente de los necesitados» (GS 42). *Apostolicam Actuositatem* 8 reivindica las obras de caridad como «deber y derecho» de la Iglesia que no puede enajenar, y afirma que «la misericordia para con los necesitados y enfermos, y las llamadas obras de caridad y de ayuda mutua [...] son consideradas por la Iglesia con un singular honor» (AA 8). Y *Presbyterorum Ordinis* 18 ve en la penitencia sacramental el camino de «conversión del corazón al amor del Padre de las misericordias» (PO 18).
 
 ### Según Royo Marín (TPCr)
 
@@ -204,39 +212,6 @@ perdón de la diversidad**.
 
 Chaput advierte que la misericordia es una de las cualidades más bellas de Dios, pero se usa mal para evitar el trabajo del razonamiento y del juicio moral. La misericordia supone una injusticia previa que corregir; el sacerdote debe ser la misericordia de Cristo: verdad sobre el bien y el mal con voz de amor. Melina desarrolla la misericordia como medicina: la claridad, no la rigidez, genera esperanza; iluminar la conciencia es la forma suprema de misericordia; enseñar al ignorante y corregir al que yerra son obras espirituales de misericordia. La Iglesia es la posada del Buen Samaritano, «hospital de campaña» que no solo consuela, sino que sana y capacita para caminar. La confesión es el lugar donde la misericordia se encuentra con la verdad: el sacerdote no gratifica sentimientos con estratagemas, sino que sirve al encuentro con Cristo.
 
-## Distinciones importantes
-
-- **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.
-- **Misericordia divina** ≠ **misericordia humana**: la divina es infinita y creadora; la humana es participación de la divina.
-- **Obras de misericordia corporales**: dar de comer al hambriento, dar de beber al sediento, vestir al desnudo, etc.
-- **Obras de misericordia espirituales**: enseñar al ignorante, corregir al que yerra, consolar al triste, etc.
-- **Misericordia real vs. imitación siniestra digital**: sentir el dolor ajeno sin actuar (dimensión meramente sensorial) es la «imitación siniestra» que da sensación de ser misericordioso sin serlo — DeLorenzo (EAC-12).
-
-## Relaciones doctrinales
-
-La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [[perdón]], la [[conversión]] y la [[caridad]]. Cristo es la encarnación de la [[misericordia_divina]]. Se relaciona también con el [[sacramento_de_la_reconciliación]] y las [[indulgencias]].
-
-
-## Analizado para
-
-- [[adam_farber_fortitude_through_excellence_in_mercy]]
-- [[adam_farber_fortitude_through_excellence_in_patience]]
-- [[closing_keynote_virtuous_leader]]
-- [[jeff_lacour_true_freedom_through_prayer]]
-- [[john_wissler_leading_with_charity]]
-- [[john_wissler_virtuous_leadership]]
-
-
-- [CEC §1846-1848]
-- [CEC §210-211]
-- [TPCr, Parte II]
-
-- [RH §9]
-
-## Perspectivas por fuente
-
-8. Las demás fuentes
-
 ### Robert Barron, *2 Samuel* (Brazos, 2015)
 
 Barron desarrolla el tema de la misericordia divina a través de la figura de David, presentando tres dimensiones clave:
@@ -249,10 +224,43 @@ Barron desarrolla el tema de la misericordia divina a través de la figura de Da
 
 Este tratamiento de la misericordia en 2 Samuel ofrece una visión integradora de cómo la misericordia divina se manifiesta a través de la bondad humana virtuosa, y cómo la realeza justa y misericordiosa prefigura el reinado de Cristo, el "sumo sacerdote misericordioso" (Heb 4,14-16).
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**El pastor insensato.** Comentando la parábola de la oveja perdida (Mt 18,12-14), Barron observa que ningún pastor que se respete dejaría las noventa y nueve para buscar una: «cortaría sus pérdidas». Pero hay que entender que «Dios es como ese pastor insensato»: «su amor arroja la prudencia por la borda para buscar a la oveja perdida» (AGR21, 7 de diciembre).
+
+**Una justicia superada.** Esperaríamos que Dios fuera bueno con los buenos y amable con los que cumplen sus mandamientos, dejando a los extraviados por su cuenta. No es así: «Dios ama de un modo irracional, exuberante, arriesgándolo todo para encontrar al que se extravió». La buena noticia es que «Dios no ama según una justicia estricta a nuestra medida, sino que ama a su manera extravagante».
+
+## Distinciones importantes
+
+- **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.
+- **Misericordia divina** ≠ **misericordia humana**: la divina es infinita y creadora; la humana es participación de la divina.
+- **Obras de misericordia corporales**: dar de comer al hambriento, dar de beber al sediento, vestir al desnudo, etc.
+- **Obras de misericordia espirituales**: enseñar al ignorante, corregir al que yerra, consolar al triste, etc.
+- **Misericordia real vs. imitación siniestra digital**: sentir el dolor ajeno sin actuar (dimensión meramente sensorial) es la «imitación siniestra» que da sensación de ser misericordioso sin serlo — DeLorenzo (EAC-12).
+
+## Relaciones doctrinales
+
+La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [[perdón]], la [[conversión]] y la [[caridad]]. Cristo es la encarnación de la [[misericordia_divina]]. Se relaciona también con el [[sacramento_de_la_reconciliación]] y las [[indulgencias]].
+
+## Analizado para
+
+- [[adam_farber_fortitude_through_excellence_in_mercy]]
+- [[adam_farber_fortitude_through_excellence_in_patience]]
+- [[closing_keynote_virtuous_leader]]
+- [[jeff_lacour_true_freedom_through_prayer]]
+- [[john_wissler_leading_with_charity]]
+- [[john_wissler_virtuous_leadership]]
+
 ## Ver también
+
 [[justicia_divina]], [[penitencia]], [[conversión]], [[caridad]], [[sacramento_de_la_reconciliación]], [[perdón]], [[esperanza]], [[spe_salvi]]
 
 ## Referencias
+
+- CEC §210-211, §270, §545, §1439, §1458, §1829, §1846-1848, §1864, §2092, §2447, §2840.
+- LG 8; GS 42; AA 8; PO 18.
+- [TPCr, Parte II]
+- [RH §9]
 - [VJ, Cap. III, Cap. VI]
 - [SFrAs, CMin. 13 — Misericordia sin límites con el pecador]
 - [SFrAs, Test. 1-3 — Misericordia y conversión]

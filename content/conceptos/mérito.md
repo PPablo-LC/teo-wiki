@@ -6,6 +6,7 @@ tags: ["dogmática", "moral"]
 timestamp: 2026-10-27
 description: "El mérito es la retribución debida por parte de una comunidad a la acción de uno de sus miembros; el premio de la vida no se agota en el mundo según Giussani."
 ---
+
 # Mérito
 
 > Área: Dogmática / Moral
@@ -66,7 +67,6 @@ Sin la gracia santificante, las obras más heroicas no tienen valor en orden a l
 
 [TPCr, Segunda Parte, Cap. 1, Art. 1; TPCr, Tercera Parte, Libro II, Cap. I]
 
-
 **IIIª q.19 — La operación de Cristo y su mérito:**
 
 *(Los aa.1-2 de esta cuestión, sobre la unidad de operación en Cristo y la unicidad de su operación propiamente humana, se tratan en [[operación_de_cristo]].)*
@@ -101,12 +101,6 @@ San Pablo recuerda que el hombre no puede gloriarse de sus obras, porque es Dios
 
 **El riesgo de la reducción progresista (cap. VII).** La «alienación por el progreso» —cambiar la salvación por el desarrollo técnico— esconde una concepción meritoria sin trascendencia: se espera del esfuerzo humano lo que solo la gracia puede dar. La respuesta cristiana, en cambio, asume la pregunta y la remite a su compimento divino (SR, `14_capitolo_settimo.md`, §31-60).
 
-## Distinciones importantes
-
-- Mérito de condigno (exige igualdad perfecta entre acto y recompensa, solo Cristo) vs. mérito de congruo (conveniente, no estrictamente debido).
-- La gracia primera (conversión, justificación) no puede merecerse; las gracias subsiguientes sí pueden merecerse.
-- El mérito es don de Dios: «al coronar sus méritos, coronas tu propia obra» (San Agustín).
-
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 Pío V condenó los errores de Miguel Bayo sobre el mérito (D‑1001–D‑1082), que atribuían a las obras buenas una eficacia meritoria por naturaleza:
@@ -119,6 +113,12 @@ Pío V condenó los errores de Miguel Bayo sobre el mérito (D‑1001–D‑1082
 - D‑1013, D‑1015: La razón del mérito no es la inhabitación del Espíritu Santo sino la mera conformidad con la ley.
 - D‑1018: Las obras de los catecúmenos serían merecimientos para la vida eterna.
 - D‑1061–D‑1062: Rechaza como «imaginaria» la distinción entre cumplimiento sustancial y cumplimiento meritorio, así como la distinción entre bondad moral y bondad meritoria.
+
+## Distinciones importantes
+
+- Mérito de condigno (exige igualdad perfecta entre acto y recompensa, solo Cristo) vs. mérito de congruo (conveniente, no estrictamente debido).
+- La gracia primera (conversión, justificación) no puede merecerse; las gracias subsiguientes sí pueden merecerse.
+- El mérito es don de Dios: «al coronar sus méritos, coronas tu propia obra» (San Agustín).
 
 ## Relaciones doctrinales
 

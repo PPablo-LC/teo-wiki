@@ -6,6 +6,7 @@ tags: ["cristología", "escatología"]
 timestamp: 2026-10-02
 description: "La gloria propia de la persona del Verbo encarnado, manifestada en su transfiguración, resurrección, ascensión y sesión a la derecha del Padre."
 ---
+
 # Gloria de Cristo
 
 > Área: Cristología / Escatología
@@ -18,6 +19,8 @@ La gloria de Cristo es la manifestación plena de su divinidad en la humanidad s
 ## Ver también
 
 [[unión_hipostática]], [[transfiguración]], [[resurrección_de_cristo]], [[ascensión_de_cristo]], [[kenosis]], [[señorío_de_cristo]], [[gloria]], [[escatología]]
+
+## Perspectivas por fuente
 
 ### Según La convenienza umana della fede (CUDF)
 

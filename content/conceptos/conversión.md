@@ -24,6 +24,10 @@ La conversión es primeramente una obra de la gracia de Dios que hace volver a �
 ### Según el Catecismo (CEC)
 
 La primera obra de la gracia del Espíritu Santo es la conversión (CEC §1989). La llamada de Cristo a la conversión sigue resonando en la vida de los cristianos; esta segunda conversión es una tarea ininterrumpida (CEC §1428). La penitencia interior es una reorientación radical de toda la vida, un retorno, una conversión a Dios con todo el corazón (CEC §1431). La conversión es primeramente una obra de la gracia de Dios (CEC §1432). La penitencia interior se expresa en tres formas: el ayuno, la oración y la limosna (CEC §1434). La conversión se realiza en la vida cotidiana mediante gestos de reconciliación, atención a los pobres, ejercicio de la justicia (CEC §1435). La parábola del hijo pródigo describe maravillosamente el proceso de conversión (CEC §1439).
+### Según el Compendio (CompDS)
+
+La conversión interior de la persona es el presupuesto esencial de una renovación real de sus relaciones con los demás: «Es preciso entonces apelar a las capacidades espirituales y morales de la persona y a la exigencia permanente de su conversión interior para obtener cambios sociales que estén realmente a su servicio» (§42, citando CEC §1888). La prioridad de la conversión del corazón no elimina la obligación de introducir en las instituciones y condiciones de vida las mejoras convenientes para que se conformen a las normas de la justicia (§42). Dios ofrece la gracia para ayudar al hombre a superar sus fracasos, arrancarlo de la mentira y la violencia, y sostenerlo para tejer una red de relaciones auténticas con sus semejantes (§43).
+
 ### Según Juan Pablo II (JPII-JovCh)
 
 «Nuestro mundo necesita una profunda mejoría, una honda resurrección espiritual» [JPII-JovCh]. Juan Pablo II describe la conversión como un vencer el pecado mediante el perdón de Dios, que es «una curación, es una resurrección» [JPII-JovCh]. Esta conversión ha de hacerse «con plena conciencia de vuestra responsabilidad» y arraigar en el corazón de cada uno [JPII-JovCh].
@@ -124,13 +128,6 @@ Para Giussani la conversión no es un programa de reforma, sino la disponibilida
 
 La conversión se documenta en el testimonio: «La gente che ha fatto quell'incontro è cambiata e si è messa a parlarne», y ese cambio «è come la crescita di un fiore» (TACDC, 02, 167). Es el advenimiento de un «uomo nuovo» con una «esperienza della realtà» distinta (TACDC, 02, 173). Su punto de partida cotidiano es la mañana: «ci è come ci alziamo ogni mattina, perché questa è la chiave di volta di qualsiasi ascesi, di qualsiasi strada spirituale» (TACDC, 03, 173). Y su forma plena es el «sì» de Pedro, que no nace del recuento de los errores ni de la coherencia, sino del amor a una Presencia: «Il numero non c'entra nel rapporto con Lui!» (TACDC, 03, 211-227).
 
-## Distinciones importantes
-
-- Conversión primera (Bautismo) vs. segunda conversión (penitencia continua)
-- La conversión no es solo un acto puntual sino un proceso permanente
-- La conversión interior debe expresarse en signos exteriores
-- Sin la gracia, la conversión es imposible
-
 ### Conversión institucional por los abusos (PMI)
 
 El Papa Francisco, en su discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia (2019), llama a una conversión que no es solo personal sino también colectiva e institucional: «el mejor resultado y la resolución más eficaz que podemos ofrecer a las víctimas, al Pueblo de la Santa Madre Iglesia y al mundo entero, es el compromiso de la conversión personal y colectiva, la humildad del aprendizaje, de la escucha, de la asistencia y de la protección de los más vulnerables» (PMI).
@@ -185,10 +182,6 @@ Pinufio enseña que la penitencia exige humildad, paciencia y perseverancia. La 
 
 > **Referencia:** ColCas-II, Conferencias XIX, XX
 
-### Según el Compendio (CompDS)
-
-La conversión interior de la persona es el presupuesto esencial de una renovación real de sus relaciones con los demás: «Es preciso entonces apelar a las capacidades espirituales y morales de la persona y a la exigencia permanente de su conversión interior para obtener cambios sociales que estén realmente a su servicio» (§42, citando CEC §1888). La prioridad de la conversión del corazón no elimina la obligación de introducir en las instituciones y condiciones de vida las mejoras convenientes para que se conformen a las normas de la justicia (§42). Dios ofrece la gracia para ayudar al hombre a superar sus fracasos, arrancarlo de la mentira y la violencia, y sostenerlo para tejer una red de relaciones auténticas con sus semejantes (§43).
-
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La conversión es la respuesta libre y generosa del hombre a la llamada de Dios. No es un acto puntual sino un proceso continuo de retorno a Dios que abarca toda la vida cristiana. La conversión supone la gracia de Dios como movimiento primero, y la respuesta libre del hombre como movimiento segundo. Sin la gracia, la conversión es imposible; sin la libertad humana, la conversión es vacía.
@@ -233,6 +226,27 @@ La conversión se presenta como un «morir para resurgir», según la sentencia 
 
 El ejemplo culminante es el de la actriz Eve Lavallière, que «después de varios años de tropiezos, encontró de nuevo el camino que lleva a Nuestro Señor» y confesó: «Cuanto más claramente veo mis miserias, mis crímenes y mis vicios, más sublime e incomprensible me parece la divina misericordia» [PyH, cap. 7]. Tóth concluye que la conversión engendra una alegría nueva: «ve en estos renglones el alma de una mujer que despertó llamada por el Amor… ¡Animo y muéstrate alegre, jovial!» [PyH, cap. 7]. Se ordena así al [[arrepentimiento]], a la [[penitencia]], al [[sacramento_de_la_reconciliación]] y a la [[misericordia]].
 
+### Según *Advent Gospel Reflections 2021* (AGR21)
+
+**Conversión y necesidad de salvación.** El Adviento tiene una dimensión penitencial porque «no necesitamos un Salvador a menos que estemos profundamente convencidos de que hay algo de lo que ser salvados»: cuando se toma conciencia del pecado, se descubre que nada propio basta, y entonces se entra en el espíritu del Adviento «deseando desesperadamente un Salvador» (AGR21, 5 de diciembre).
+
+**Convertirse es actuar.** La pregunta de las multitudes a Juan —«¿Qué debemos hacer?»— revela que el arrepentimiento «tiene que ver con la acción, más que con un simple cambio de mentalidad»: «la vida espiritual es, en definitiva, un conjunto de conductas» (12 de diciembre). Las respuestas del Precursor son concretas: compartir la túnica y el alimento, no exigir más de lo prescrito, no extorsionar ni acusar falsamente. En la misma línea, la parábola de los dos hijos muestra que hizo la voluntad del padre el que dijo «no quiero» y después fue (14 de diciembre).
+
+**Cambio de mentalidad y de visión.** «Convertíos» implica «un cambio de mentalidad y de visión»: despertar y estar dispuestos a ver el reino, el orden nuevo, el modo de hacer de Dios, que exige «una limpieza y un fregado, una reorganización y una renovación» (16 de diciembre). El desierto es el lugar donde esa conversión se vuelve posible porque mueren las ilusiones.
+
+**La conversión como combate.** Comentando «el Reino de los cielos sufre violencia», Barron sigue a Flannery O'Connor: los «violentos» son «los tipos espiritualmente heroicos que resisten las mociones y tendencias de nuestra naturaleza caída y procuran disciplinarla» para entrar en el Reino (9 de diciembre). Y el bautismo de arrepentimiento predicado por Juan se resume en «entrega tu vida a un poder superior» (11 de diciembre).
+
+## Distinciones importantes
+
+- Conversión primera (Bautismo) vs. segunda conversión (penitencia continua)
+- La conversión no es solo un acto puntual sino un proceso permanente
+- La conversión interior debe expresarse en signos exteriores
+- Sin la gracia, la conversión es imposible
+
+## Relaciones doctrinales
+
+[[penitencia]], [[justificación]], [[arrepentimiento]], [[bautismo]], [[sacramento_de_la_reconciliación]], [[gracia]], [[purificación_de_la_iglesia]], [[protección_de_menores_en_la_iglesia]], [[abuso_sexual_de_menores]], [[clericalismo]], [[acompañamiento_de_víctimas]]
+
 ## Analizado en contexto cultural
 
 - [[pinocho]] — convergencia en el itinerario de conversión (caída-arrepentimiento-restauración); tensión por la ausencia de dimensión sobrenatural y sacramental
@@ -240,12 +254,6 @@ El ejemplo culminante es el de la actriz Eve Lavallière, que «después de vari
 ## Analizado para
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en el proceso de sanación interior (herida → mentira → renuncia → verdad) como aplicación concreta de la conversión continua; aporta sistematización práctica no desarrollada en la base doctrinal
-
-## Relaciones doctrinales
-
-[[penitencia]], [[justificación]], [[arrepentimiento]], [[bautismo]], [[sacramento_de_la_reconciliación]], [[gracia]], [[purificación_de_la_iglesia]], [[protección_de_menores_en_la_iglesia]], [[abuso_sexual_de_menores]], [[clericalismo]], [[acompañamiento_de_víctimas]]
-
-## Analizado para
 
 - [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la *metanoia* como cambio de mentalidad (EA §26) que vincula el encuentro con Cristo (Bloque 1) con las convicciones (Bloque 2); la propuesta aplica la conversión permanente a la vocación del educador.
 - [[curso_alpha_análisis]] — convergencia: presentación de la conversión como encuentro personal transformador; tensión: sin conexión con la vida sacramental

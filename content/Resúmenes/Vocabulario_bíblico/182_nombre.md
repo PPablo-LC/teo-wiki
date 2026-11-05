@@ -32,7 +32,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[jesús]] — Jesús, el que salva
 - [[pedro]] — Pedro, nombre nuevo
 - [[maría]] — María, nombre que magnifica
-- [[juan_bautista]] — Juan, nombre dado por Dios
+- [[san_juan_bautista]] — Juan, nombre dado por Dios
 - [[diestra]] — sentado a la diestra
 - [[milagro]] — milagros en el nombre
 - [[enfermedad_y_curación]] — curar en el nombre
@@ -98,6 +98,6 @@ c. *La vida cristiana* está totalmente impregnada por la fe: los cristianos se 
 
 ### Otros nombres
 
-Cada ser lleva el nombre que corresponde al papel que le ha sido asignado. Cuando su misión es divina, su nombre viene del cielo, como el de [[juan_bautista|Juan]] *Lc 1,13.63*. Aun dado por los hombres, el nombre es signo de una guía por parte de Dios: Zacarías *1,5.72*: «Dios se ha acordado», Isabel *1,5.73*: «el juramento que él había jurado», [[maría|María]] *1,27.46.52*: «magnificada, ensalzada». Al dar Jesús a Simón el nombre de [[pedro|Pedro]], muestra el papel que le confía y la nueva personalidad que crea en él *Mt 16,18*.
+Cada ser lleva el nombre que corresponde al papel que le ha sido asignado. Cuando su misión es divina, su nombre viene del cielo, como el de [[san_juan_bautista|Juan]] *Lc 1,13.63*. Aun dado por los hombres, el nombre es signo de una guía por parte de Dios: Zacarías *1,5.72*: «Dios se ha acordado», Isabel *1,5.73*: «el juramento que él había jurado», [[maría|María]] *1,27.46.52*: «magnificada, ensalzada». Al dar Jesús a Simón el nombre de [[pedro|Pedro]], muestra el papel que le confía y la nueva personalidad que crea en él *Mt 16,18*.
 
 El buen [[pastor_y_rebaño|pastor]] conoce a cada una de sus ovejas por su nombre *Jn 10,3*. Los nombres de los elegidos están inscritos en el cielo *Lc 10,20*, en el [[libro|libro]] de la vida *Flp 4,5* *Ap 3,5* *13,8* *17,8*. Entrando en la gloria recibirán un nombre [[nuevo|nuevo]] e inefable *Ap 2,17*; participando de la existencia de Dios llevarán el nombre del Padre y el de su Hijo *3,12* *14,1*; Dios los llamará sus hijos *Mt 5,9*, pues lo serán en realidad *1Jn 3,1*.

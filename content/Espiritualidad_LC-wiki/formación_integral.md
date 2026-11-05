@@ -6,6 +6,7 @@ tags: ["ascética", "formación"]
 timestamp: 2026-06-12
 description: "La formación integral es una característica del proceso formativo legionario según la cual la formación debe abarcar y armonizar todas las dimensiones de la persona."
 ---
+
 # Formación integral
 
 > Área: Ascética / Formación
@@ -33,6 +34,10 @@ La formación experiencial facilita la formación integral porque una experienci
 
 La formación integral del alumno del centro vocacional implica el desarrollo integrado y armónico de todas las facultades del ser humano, abarcando las cuatro dimensiones: humana, espiritual, intelectual y apostólica. Estas dimensiones no se consideran como elementos independientes o capítulos sucesivos, pues todas están simultáneamente presentes en armonía y unidad [Habl_Sñr-2018, §63]. La formación es también integradora, considerando la totalidad del misterio de la persona: sus dones naturales y sobrenaturales, su historia, sus límites y heridas, contribuyendo a una unidad de vida que tiene como centro unificador a Cristo [Habl_Sñr-2018, §35]. Por tratarse de la formación de adolescentes, la dimensión humana adquiere una relevancia especial: la formación humana es prioritaria, pues el proceso formativo tiene como base y se da a partir de las propias facultades humanas y de la propia personalidad [Habl_Sñr-2018, §64].
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) subraya la urgencia de una formación integral en los seminarios, especialmente ante la crisis de abusos, que exige «una formación integral que asegure el crecimiento y la madurez humana de los candidatos al presbiterado, junto con una rica y sólida vida espiritual» (UFGF §10). La formación ha de abarcar e integrar todas las dimensiones de la persona: humana, espiritual, intelectual y pastoral (UFGF §7). Solo presbíteros en quienes estas dimensiones están bien integradas pueden asumir el celibato y anunciar el Evangelio de modo creíble (UFGF §12) [UFGF, 22.12.2025].
+
 ## Distinciones importantes
 
 - Formación integral vs. formación desarticulada: la primera armoniza las dimensiones; la segunda las desarrolla aisladamente
@@ -43,16 +48,12 @@ La formación integral del alumno del centro vocacional implica el desarrollo in
 
 Se relaciona con [[formación_legionaria]], [[formación_experiencial]], [[formación_personalizada]], [[formación_basada_en_convicciones]], [[formación_en_relación]], [[formación_gradual]].
 
-
-### Según León XIV (UFGF)
-
-La Carta Apostólica *Una fidelidad que genera futuro* (2025) subraya la urgencia de una formación integral en los seminarios, especialmente ante la crisis de abusos, que exige «una formación integral que asegure el crecimiento y la madurez humana de los candidatos al presbiterado, junto con una rica y sólida vida espiritual» (UFGF §10). La formación ha de abarcar e integrar todas las dimensiones de la persona: humana, espiritual, intelectual y pastoral (UFGF §7). Solo presbíteros en quienes estas dimensiones están bien integradas pueden asumir el celibato y anunciar el Evangelio de modo creíble (UFGF §12) [UFGF, 22.12.2025].
-
 ## Analizado para
 
 - [[frassati_company]]
 
 ## Ver también
+
 [[formación_legionaria]], [[formación_experiencial]], [[formación_personalizada]], [[formación_basada_en_convicciones]], [[centro_vocacional]]
 
 ## Referencias

@@ -32,14 +32,6 @@ Los Padres de la Iglesia desarrollaron el concepto de *logoi spermatikoi* (semil
 
 **Sacrosanctum Concilium** (121) afirma que "la Santa Madre Iglesia ha sido siempre amiga de las bellas artes" y "las ha buscado con empeño y sin cesar para que, según la índole propia de cada una de las artes, los productos se eleven al servicio de Dios y a la gloria de la Iglesia".
 
-### Juan Pablo II: Carta a los artistas (1999)
-
-Juan Pablo II escribe: "El arte humano es una forma de conocimiento... Como los demás modos de expresión humanos, el arte también puede elevarse a la revelación sobrenatural y a la reflexión sobre los misterios divinos... El arte... tiene sus propias exigencias... que constituyen un verdadero camino de conocimiento, análogo al camino de la fe".
-
-### Juan Pablo II y la fe y la razón
-
-**Fides et Ratio** (1998) establece que la fe y la razón son "dos alas con las cuales el espíritu humano se eleva hacia la contemplación de la verdad". El arte es una de esas alas: puede expresar verdades que la razón sola no puede captar plenamente.
-
 ### Benedict XVI y la via pulchritudinis
 
 Benedicto XVI desarrolla la *via pulchritudinis* como una de las tres vías de acceso a Dios (junto con la *via veritatis* y la *via bonitatis*):
@@ -85,6 +77,13 @@ En el Issue 4 sobre el cine, Bishop Robert Barron desarrolla la *via pulchritudi
 
 > "El artista puede crear sin olvidar que crea... el artista... actúa como cooperador de Dios en la creación del mundo."
 
+### Juan Pablo II: Carta a los artistas (1999)
+
+Juan Pablo II escribe: "El arte humano es una forma de conocimiento... Como los demás modos de expresión humanos, el arte también puede elevarse a la revelación sobrenatural y a la reflexión sobre los misterios divinos... El arte... tiene sus propias exigencias... que constituyen un verdadero camino de conocimiento, análogo al camino de la fe".
+
+### Juan Pablo II y la fe y la razón
+
+**Fides et Ratio** (1998) establece que la fe y la razón son "dos alas con las cuales el espíritu humano se eleva hacia la contemplación de la verdad". El arte es una de esas alas: puede expresar verdades que la razón sola no puede captar plenamente.
 
 ## Distinciones importantes
 

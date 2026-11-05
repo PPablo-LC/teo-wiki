@@ -6,6 +6,7 @@ tags: ["moral", "ascética"]
 timestamp: 2026-06-10
 description: "Acto por el cual una persona da a conocer la verdad de la fe cristiana mediante palabras y obras, pudiendo llegar hasta el sacrificio de la propia vida (martirio)."
 ---
+
 # Testimonio
 
 > Área: Moral / Ascética
@@ -46,6 +47,9 @@ Royo Marín sitúa el testimonio en el contexto de la virtud de la religión y l
 
 De Lubac distingue radicalmente el testimonio de la propaganda y la popularización: «El testimonio es lo opuesto a la propaganda y a la popularización» [PoF, cap. 3]. El problema esencial del apostolado no es lo que el apóstol *hace* sino lo que el apóstol *es*; de la plenitud del corazón habla el que testimonia, dirigiéndose a personas concretas, no a «el público». El testimonio irradia y atrae por sí mismo, no por técnicas de comunicación. El diálogo con el no creyente debe comenzar como diálogo consigo mismo [PoF, cap. 3].
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV presenta el testimonio del sacerdote como la forma fundamental de evangelización. Frente a los jóvenes, «el sacerdote joven puede ofrecer a los jóvenes un modelo de vida, que ser amigo de Jesús realmente puede llenar sus vidas». Este testimonio no es una técnica de comunicación sino una irradiación de la propia experiencia de fe: el sacerdote debe poder ofrecer «no solo un ejemplo, sino una experiencia de vida que podría cambiar la vida de los jóvenes». El Papa advierte que, en la era digital, es fácil caer en el engaño de querer ser protagonistas: «"Tengo muchos seguidores, muchos likes, porque ven lo que digo..." No eres tú: si no estamos transmitiendo el mensaje de Jesucristo, tal vez nos estemos equivocando». El testimonio auténtico requiere una vida arraigada en el Señor, porque solo así se puede ofrecer «algo que no es nuestro» [L_XIV-ClerRom, 19.02.2026].
 
 ## Distinciones importantes
 
@@ -61,10 +65,6 @@ Se relaciona con [[testimonio_cristiano]] como su forma específica de testimoni
 ## Ver también
 
 [[testimonio_cristiano]], [[virtud_de_la_verdad]], [[martirio]], [[apostolado]], [[octavo_mandamiento]], [[prueba]], [[juez]], [[limosna]]
-
-### Según León XIV (L_XIV-ClerRom)
-
-León XIV presenta el testimonio del sacerdote como la forma fundamental de evangelización. Frente a los jóvenes, «el sacerdote joven puede ofrecer a los jóvenes un modelo de vida, que ser amigo de Jesús realmente puede llenar sus vidas». Este testimonio no es una técnica de comunicación sino una irradiación de la propia experiencia de fe: el sacerdote debe poder ofrecer «no solo un ejemplo, sino una experiencia de vida que podría cambiar la vida de los jóvenes». El Papa advierte que, en la era digital, es fácil caer en el engaño de querer ser protagonistas: «"Tengo muchos seguidores, muchos likes, porque ven lo que digo..." No eres tú: si no estamos transmitiendo el mensaje de Jesucristo, tal vez nos estemos equivocando». El testimonio auténtico requiere una vida arraigada en el Señor, porque solo así se puede ofrecer «algo que no es nuestro» [L_XIV-ClerRom, 19.02.2026].
 
 ## Referencias
 

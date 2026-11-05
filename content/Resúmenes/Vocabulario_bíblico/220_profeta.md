@@ -85,7 +85,7 @@ Existió una verdadera tradición profética perpetuada por los [[discípulo|dis
 
 #### El profeta en la comunidad
 
-El profeta, con el sacerdote, desempeña un papel en la consagración del [[rey]] *1Re 1*. Rey, sacerdote, profeta son durante largo tiempo como los tres ejes de la sociedad de Israel. Mientras existe un Estado se hallan profetas para iluminar a los reyes: Natán, Gad, Eliseo, Isaías. Sin embargo, el profetismo no es una institución como la realeza o el [[sacerdocio]]: Israel puede procurarse un rey *Dt 17,14s*, pero no un profeta; éste es puro don de Dios, objeto de promesa *Dt 18,14-19*, pero otorgado libremente. Esto se siente bien en el período en que se interrumpe el profetismo *1Mac 9,27* *Sal 74,9*: Israel vive entonces en la espera del profeta prometido *1Mac 4,46* *14,41*. Se comprende así la acogida dispensada por los judíos a la predicación de [[juan_bautista|Juan]] Bautista *Mt 3,1-12*.
+El profeta, con el sacerdote, desempeña un papel en la consagración del [[rey]] *1Re 1*. Rey, sacerdote, profeta son durante largo tiempo como los tres ejes de la sociedad de Israel. Mientras existe un Estado se hallan profetas para iluminar a los reyes: Natán, Gad, Eliseo, Isaías. Sin embargo, el profetismo no es una institución como la realeza o el [[sacerdocio]]: Israel puede procurarse un rey *Dt 17,14s*, pero no un profeta; éste es puro don de Dios, objeto de promesa *Dt 18,14-19*, pero otorgado libremente. Esto se siente bien en el período en que se interrumpe el profetismo *1Mac 9,27* *Sal 74,9*: Israel vive entonces en la espera del profeta prometido *1Mac 4,46* *14,41*. Se comprende así la acogida dispensada por los judíos a la predicación de [[san_juan_bautista|Juan]] Bautista *Mt 3,1-12*.
 
 ### II. Destino personal del profeta
 
@@ -151,7 +151,7 @@ No debemos olvidar la conformidad global de «todos los profetas» *Act 3,18-24*
 
 #### En torno a Jesús
 
-Jesús aparece en medio de una red de profetismo, representada por Zacarías *Lc 1,67*, Simeón *Lc 2,25ss*, la profetisa Ana *Lc 2,36* y por encima de todo [[juan_bautista|Juan]] Bautista. Todo el mundo mira a Juan como a un profeta: traduce la ley en términos de existencia vivida *Mt 14,4* *Lc 3,11-14*; anuncia la inminencia de la [[ira]] y de la salvación *Mt 3,2.8*; sobre todo, discierne proféticamente a aquel que está aquí y no se le conoce *Jn 1,26.31*. Por él todos los profetas dan testimonio de Jesús: «todos los profetas, así como la ley, profetizaron hasta Juan» *Mt 11,13*.
+Jesús aparece en medio de una red de profetismo, representada por Zacarías *Lc 1,67*, Simeón *Lc 2,25ss*, la profetisa Ana *Lc 2,36* y por encima de todo [[san_juan_bautista|Juan]] Bautista. Todo el mundo mira a Juan como a un profeta: traduce la ley en términos de existencia vivida *Mt 14,4* *Lc 3,11-14*; anuncia la inminencia de la [[ira]] y de la salvación *Mt 3,2.8*; sobre todo, discierne proféticamente a aquel que está aquí y no se le conoce *Jn 1,26.31*. Por él todos los profetas dan testimonio de Jesús: «todos los profetas, así como la ley, profetizaron hasta Juan» *Mt 11,13*.
 
 #### Jesús
 

@@ -6,6 +6,7 @@ tags: ["espiritualidad", "eclesiología"]
 timestamp: 2026-06-13
 description: "El carisma de la Congregación de los Legionarios de Cristo es un don del Espíritu Santo recibido para la edificación de la Iglesia (cf. 1 Co 12,7)."
 ---
+
 # Carisma legionario
 
 > Área: Espiritualidad / Eclesiología
@@ -119,6 +120,16 @@ El P. Gianfranco Ghirlanda, S.J., en su conferencia «Carisma del instituto y de
 
 **Distinción con los excesos.** El P. Ghirlanda distingue entre el carisma genuino y los posibles excesos históricos (eficientismo, individualismo, clericalismo, autoritarismo) que no pertenecen al núcleo del carisma sino a deformaciones históricas corregibles. La renovación LC 2010-2014 fue precisamente una operación de **purificación carismática**, no de sustitución.
 
+### Según el Capítulo General CapGral-2020 (Conferencia del P. Ghirlanda)
+
+La conferencia del P. Gianfranco Ghirlanda S.J. al Capítulo General de 2020 [CapGral-2020, Ghirlanda] ofrece una reflexión fundamental sobre la relación entre el carisma y el fundador.
+
+**El carisma pertenece al Espíritu.** Ghirlanda afirma que durante el proceso de renovación «la Legión se dio cuenta de que el carisma, como alma de la Legión, es un don del Espíritu hecho a la Iglesia. Ha entrado en la perspectiva correcta de que P. Maciel ha sido un instrumento del Espíritu para que este don sea participado por los demás» [CapGral-2020, Ghirlanda, §101]. El carisma pertenece al Espíritu, que continúa alimentándolo en la Iglesia a través de los miembros de la Legión.
+
+**Distancia del fundador.** Esta adquisición «fue de importancia fundamental porque permitió a la Legión aclararse a sí misma, en primer lugar, su identidad, tratando de redescubrirla no en referencia a la persona de P. Maciel, sino en relación con lo que durante más de setenta años ha vivido y desea seguir viviendo» [CapGral-2020, Ghirlanda, §101]. Esto permitió distanciarse de P. Maciel, considerándolo fundador histórico pero no fundador espiritual ni modelo espiritual. Ghirlanda advierte: «Sería realmente una desgracia, una causa de verdaderas divisiones en la Legión, el nostálgico regreso a la figura de P. Maciel para buscar en él y en sus escritos la delineación del carisma y la espiritualidad de la Legión» [CapGral-2020, Ghirlanda, §105].
+
+**Camino de humildad.** El Informe 1941-2019 sobre abusos fue una manifestación de madurez y coraje. Así como una persona adquiere madurez espiritual aceptando sus errores, «así también una institución» [CapGral-2020, Ghirlanda, §45]. Admitir esto abre el camino a la verdadera santidad, basada en la humildad y la confianza en la misericordia de Dios.
+
 ## Distinciones importantes
 
 - El carisma es un don recibido, no una conquista: los religiosos son custodios, no dueños
@@ -135,16 +146,6 @@ Se relaciona con [[espíritu_santo]], [[iglesia]], [[vida_consagrada]], [[cristo
 ## Ver también
 
 [[cristocentrismo_legionario]], [[vida_consagrada]], [[espíritu_santo]], [[iglesia]], [[regnum_christi]]
-
-### Según el Capítulo General CapGral-2020 (Conferencia del P. Ghirlanda)
-
-La conferencia del P. Gianfranco Ghirlanda S.J. al Capítulo General de 2020 [CapGral-2020, Ghirlanda] ofrece una reflexión fundamental sobre la relación entre el carisma y el fundador.
-
-**El carisma pertenece al Espíritu.** Ghirlanda afirma que durante el proceso de renovación «la Legión se dio cuenta de que el carisma, como alma de la Legión, es un don del Espíritu hecho a la Iglesia. Ha entrado en la perspectiva correcta de que P. Maciel ha sido un instrumento del Espíritu para que este don sea participado por los demás» [CapGral-2020, Ghirlanda, §101]. El carisma pertenece al Espíritu, que continúa alimentándolo en la Iglesia a través de los miembros de la Legión.
-
-**Distancia del fundador.** Esta adquisición «fue de importancia fundamental porque permitió a la Legión aclararse a sí misma, en primer lugar, su identidad, tratando de redescubrirla no en referencia a la persona de P. Maciel, sino en relación con lo que durante más de setenta años ha vivido y desea seguir viviendo» [CapGral-2020, Ghirlanda, §101]. Esto permitió distanciarse de P. Maciel, considerándolo fundador histórico pero no fundador espiritual ni modelo espiritual. Ghirlanda advierte: «Sería realmente una desgracia, una causa de verdaderas divisiones en la Legión, el nostálgico regreso a la figura de P. Maciel para buscar en él y en sus escritos la delineación del carisma y la espiritualidad de la Legión» [CapGral-2020, Ghirlanda, §105].
-
-**Camino de humildad.** El Informe 1941-2019 sobre abusos fue una manifestación de madurez y coraje. Así como una persona adquiere madurez espiritual aceptando sus errores, «así también una institución» [CapGral-2020, Ghirlanda, §45]. Admitir esto abre el camino a la verdadera santidad, basada en la humildad y la confianza en la misericordia de Dios.
 
 ## Referencias
 

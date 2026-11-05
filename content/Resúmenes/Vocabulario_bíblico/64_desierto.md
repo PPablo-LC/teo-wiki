@@ -36,7 +36,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[figura]] — el desierto como figura figurativa
 - [[éxodo]] — el nuevo éxodo
 - [[paraíso]] — la transformación del desierto en paraíso
-- [[juan_bautista]] — Juan Bautista en el desierto
+- [[san_juan_bautista]] — Juan Bautista en el desierto
 - [[roca]] — la roca que es Cristo
 - [[reposo]] — la entrada en el reposo de Dios
 - [[prueba_y_tentación]] — la vida cristiana bajo el signo de la prueba

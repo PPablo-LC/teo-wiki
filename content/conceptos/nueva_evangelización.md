@@ -93,24 +93,23 @@ profundamente agradecidos porque la Iglesia nos ha reconocido, porque la Iglesia
 reconocido nuestra pertenencia a ella. Esta es la libertad y esta es la fuente de la
 alegría para nosotros, seguridad y alegría» (01, 347).
 
-## Relaciones doctrinales
-
-Se relaciona con [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[reino_de_dios]], [[concilio_vaticano_ii]]
-
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
 Joseph Gloor y Doug Cummins narran la construcción del nuevo estudio de Word on Fire (antiguo salón de fiestas de una Misión histórica, transformado en 30 días) como instrumento de la Nueva Evangelización: «alcanzar el estándar de la industria y elevarlo espiritual, intelectual y creativamente», con enfoque ad-extra hacia los no practicantes. Crítica del «Christianese»: el lenguaje artístico cristiano autorreferencial (voces suavizadas, agua/desierto como tópicos) debe superarse mirando más allá del propio carril. Los medios digitales como frontera misionera: «las redes sociales toman los atributos que les demos… alguien tiene que predicar el Evangelio ahí».
+
+## Relaciones doctrinales
+
+Se relaciona con [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[reino_de_dios]], [[concilio_vaticano_ii]]
 
 ## Analizado para
 
 - [[brian_cochran_my_personal_emmaus]]
 - [[joey_stevens_grit_perseverance]]
 
-## Analizado para
-
 - [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la nueva evangelización como renovado impulso misionero (EA §6) aplicado al ámbito educativo; la propuesta es un acto de nueva evangelización para docentes (EA §71).
 
 ## Ver también
+
 [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]]
 
 ## Referencias

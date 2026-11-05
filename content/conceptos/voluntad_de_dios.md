@@ -109,6 +109,16 @@ tiene este espacio, si no es relación con lo infinito» (02, 201).
 
 **I,25 — Buscar lo que Dios quiere, no lo que ha de suceder:** A la congoja por el futuro responde el texto con un criterio práctico: el hombre «no quiso escudriñar curiosamente para saber lo que le había de suceder, sino que anduvo con mucho cuidado de saber «lo que fuese la voluntad de Dios» y a sus divinos ojos «más agradable y perfecto» (Rom 12,2) para comenzar y perfeccionar toda buena obra» (I,25 [2]).
 
+### Según Robert Barron (Thomas Aquinas: Spiritual Master)
+
+Barron se detiene en la cuestión 19 como respuesta a la pregunta más elemental: ¿el fundamento del ser se me da en amor?, ¿hay un fundamento amoroso para mi vida por debajo de sus dolores y fracasos?, ¿la «voluntad» de Dios me alcanza con solicitud providente? (TAM, cap. 2).
+
+En el primer artículo Tomás muestra que la voluntad sigue necesariamente al entendimiento: cuando una naturaleza inteligente entiende el bien como bien, lo persigue o reposa en él, y ambos son actos de la voluntad. En cuanto Dios se entiende como bueno, reposa y se complace necesariamente en el bien que él es, y ese gozo divino se identifica con su voluntad. Lo que parece una precisión filosófica sobria revela, para Barron, que el ser de Dios está marcado por la celebración y el gozo: ser Dios es reposar en el bien y saborearlo. Una respuesta teológicamente exacta a qué hace Dios sería: se goza, «amando y deleitándose en lo que tiene» (TAM, cap. 2).
+
+De ahí surge la objeción inevitable: si Dios se complace infinitamente en sí mismo, ¿por qué querría algo fuera de sí?, ¿no sería un narcisista? Barron responde con el segundo artículo, que considera una de las presentaciones más claras y apasionadas de la éxtasis divina en Tomás: las cosas naturales no solo se inclinan a su propio bien, sino a difundirlo entre las demás en la medida de lo posible; por tanto, pertenece a la naturaleza de la voluntad comunicar a otros el bien poseído, y esto de modo eminente a la voluntad divina, de la que toda perfección deriva (SmTh Iª q.19 a.2, en TAM, cap. 2).
+
+La imagen de Barron es precisa: Dios no puede contenerse, como quien está de fiesta no puede dejar de desbordarse en alegría; su voluntad gozosa salta, se derrama, se desborda, y quiere a otros precisamente para hacerles participar de la éxtasis que él tiene. Así, la fuente que sostiene todo lo que existe es una persona dotada de mente y voluntad, que se interesa por la criatura, la atrae y la conduce hacia sí (TAM, cap. 2).
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[providencia]], la [[ley_divina]], la [[libertad_humana]], la [[oración]], la [[perfección_cristiana]], la [[conformidad_con_la_voluntad_de_dios]] y la [[indiferencia_ignaciana]].

@@ -5,6 +5,7 @@ description: "Exigencias de justicia que la sociedad debe a los hijos, en especi
 tags: ["doctrina_social", "familia", "moral_sexual"]
 timestamp: 2026-11-03
 ---
+
 # Derechos del niño
 
 > Área: Doctrina social / Familia
@@ -47,6 +48,49 @@ privación de un bien básico —el vínculo con los padres— quede legalmente
 invisibilizada.
 
 ## Juicio antropológico y moral
+
+### Los planos del juicio
+
+- **Ontológico.** El niño es persona humana desde su concepción, y su filiación
+  no es un vínculo contractual ni revocable: es la estructura básica de su
+  identidad. La expresión «interés superior del menor» presupone, aunque no
+  siempre lo explicite, una naturaleza con exigencias determinadas —padre y
+  madre, estabilidad, cuidado—; sin esa base, el «interés superior» queda a merced
+  de lo que cada época considere conveniente.
+- **Ético.** La justicia exige dar a cada uno lo suyo, y el niño no puede
+  reclamar por sí mismo lo que se le debe. La categoría de **injusticia
+  estructural** es aquí legítima: un ordenamiento puede lesionar un derecho sin
+  que nadie obre con mala intención, y la ausencia de culpa subjetiva no
+  convierte la lesión en justa. El principio que se sigue es exacto: **el niño no
+  puede ser el precio de la libertad del adulto**.
+- **Social.** La familia es «célula original de la vida social» (§2207); el
+  Estado la asiste, no la reemplaza (§2209-§2211). Equiparar jurídicamente
+  estructuras que no son equivalentes no amplía derechos: redistribuye la carga
+  sobre quien no puede defenderse.
+- **Pastoral.** El juicio sobre la injusticia no es juicio sobre las personas.
+  §1651 marca el tono: acogida atenta de las familias heridas, sin legitimar la
+  ruptura y sin excluir a nadie de la vida de la Iglesia. Y una regla de caridad
+  que la fuente subraya: el niño no puede convertirse en arma de la contienda de
+  los adultos.
+
+### El salto que se pretende
+
+El uso cultural de la categoría da un paso que el texto jurídico no autoriza:
+del hecho de que el niño tenga derechos se concluye que **cualquier
+configuración familiar que le procure afecto satisface esos derechos**. La
+Convención no lo dice: su artículo 7 reconoce el derecho «en la medida de lo
+posible» a conocer a sus padres y ser cuidado por ellos, fórmula que presupone
+el vínculo natural y su ausencia como una pérdida, no como una variante
+indiferente. Convertir la protección jurídica del niño en argumento para
+equiparar modelos familiares es una **interpretación interesada del
+instrumento**, no su contenido.
+
+Existe el salto inverso, igualmente indebido: invocar los derechos del niño para
+tratar a los padres —o a un progenitor concreto— como adversarios. El Catecismo
+no opone el hijo a la familia: ordena la familia al bien del hijo (§2201) y
+confía su educación a los padres como derecho primordial e inalienable (§2221).
+
+## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
@@ -110,50 +154,6 @@ El mismo número precisa el papel del derecho civil: «Los derechos de los niño
 deben ser protegidos por los ordenamientos jurídicos» (n. 244). La protección
 jurídica es un deber; lo que no puede hacer el derecho es sustituir la realidad
 que protege.
-
-### Los planos del juicio
-
-- **Ontológico.** El niño es persona humana desde su concepción, y su filiación
-  no es un vínculo contractual ni revocable: es la estructura básica de su
-  identidad. La expresión «interés superior del menor» presupone, aunque no
-  siempre lo explicite, una naturaleza con exigencias determinadas —padre y
-  madre, estabilidad, cuidado—; sin esa base, el «interés superior» queda a merced
-  de lo que cada época considere conveniente.
-- **Ético.** La justicia exige dar a cada uno lo suyo, y el niño no puede
-  reclamar por sí mismo lo que se le debe. La categoría de **injusticia
-  estructural** es aquí legítima: un ordenamiento puede lesionar un derecho sin
-  que nadie obre con mala intención, y la ausencia de culpa subjetiva no
-  convierte la lesión en justa. El principio que se sigue es exacto: **el niño no
-  puede ser el precio de la libertad del adulto**.
-- **Social.** La familia es «célula original de la vida social» (§2207); el
-  Estado la asiste, no la reemplaza (§2209-§2211). Equiparar jurídicamente
-  estructuras que no son equivalentes no amplía derechos: redistribuye la carga
-  sobre quien no puede defenderse.
-- **Pastoral.** El juicio sobre la injusticia no es juicio sobre las personas.
-  §1651 marca el tono: acogida atenta de las familias heridas, sin legitimar la
-  ruptura y sin excluir a nadie de la vida de la Iglesia. Y una regla de caridad
-  que la fuente subraya: el niño no puede convertirse en arma de la contienda de
-  los adultos.
-
-### El salto que se pretende
-
-El uso cultural de la categoría da un paso que el texto jurídico no autoriza:
-del hecho de que el niño tenga derechos se concluye que **cualquier
-configuración familiar que le procure afecto satisface esos derechos**. La
-Convención no lo dice: su artículo 7 reconoce el derecho «en la medida de lo
-posible» a conocer a sus padres y ser cuidado por ellos, fórmula que presupone
-el vínculo natural y su ausencia como una pérdida, no como una variante
-indiferente. Convertir la protección jurídica del niño en argumento para
-equiparar modelos familiares es una **interpretación interesada del
-instrumento**, no su contenido.
-
-Existe el salto inverso, igualmente indebido: invocar los derechos del niño para
-tratar a los padres —o a un progenitor concreto— como adversarios. El Catecismo
-no opone el hijo a la familia: ordena la familia al bien del hijo (§2201) y
-confía su educación a los padres como derecho primordial e inalienable (§2221).
-
-## Perspectivas por fuente
-
 ### Según *Living the Truth in Love* (LTL)
 
 **[[jennifer_robach_morse]]** (cap. 20) desarrolla el argumento con la
@@ -174,6 +174,7 @@ la nueva familia—. De ahí su tesis: equiparar modelos familiares distintos
 «introduce injusticias estructurales que recaen sobre los más débiles». El
 argumento no es un juicio sobre las personas que viven esas situaciones, sino
 sobre la justicia del ordenamiento que las hace equivalentes.
+
 
 ## Distinciones importantes
 

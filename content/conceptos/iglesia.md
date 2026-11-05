@@ -3,19 +3,46 @@ type: Concepto Teológico
 title: Iglesia
 tags: ["eclesiología"]
 
-timestamp: 2026-11-02
+timestamp: 2026-11-04
 description: "La Iglesia es el Pueblo de Dios, el Cuerpo Místico de Cristo y el Templo del Espíritu Santo, instituida por Jesucristo como sacramento universal de salvación."
 ---
+
 # Iglesia
 
 > Área: Eclesiología
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-04
 
 ## Definición
 
 La Iglesia es el Pueblo de Dios, el Cuerpo Místico de Cristo y el Templo del Espíritu Santo, instituida por Jesucristo como sacramento universal de salvación. Es una, santa, católica y apostólica, y en ella se perpetúa la obra redentora de Cristo hasta el fin de los tiempos.
 
 ## Perspectivas por fuente
+
+### Según el Catecismo (CEC)
+
+«La palabra "Iglesia" [*ekklèsia*, del griego *ek-kalein*, "llamar fuera"] significa "convocación"» (§751). Designa la asamblea del pueblo elegido en la presencia de Dios y, en el lenguaje cristiano, tanto la asamblea litúrgica como la comunidad local o la comunidad universal de los creyentes. Las tres significaciones son inseparables: «La Iglesia es el pueblo que Dios reúne en el mundo entero»; existe en las comunidades locales, «se realiza como asamblea litúrgica, sobre todo eucarística», y «vive de la Palabra y del Cuerpo de Cristo y de esta manera viene a ser ella misma Cuerpo de Cristo» (§752; cf. §777).
+
+La Revelación habla de su misterio con imágenes tomadas del Antiguo Testamento —variaciones todas de la idea de fondo del Pueblo de Dios— que en el Nuevo reciben un nuevo centro, Cristo Cabeza: el redil cuya puerta única es Cristo, el rebaño del Buen Pastor, la labranza y la viña, la construcción de Dios, la casa de Dios, el templo santo, la Jerusalén de arriba y la esposa inmaculada del Cordero (§753-757).
+
+El Catecismo contempla después su origen en el designio trinitario. El Padre «dispuso convocar a los creyentes en Cristo en la santa Iglesia»; más aún, «el mundo fue creado en orden a la Iglesia», que es «la finalidad de todas las cosas», y hasta las vicisitudes dolorosas —la caída de los ángeles y el pecado del hombre— no fueron permitidas sino como ocasión de desplegar toda la medida del amor divino (§759-760). Por eso «la reunión de la Iglesia es por así decirlo la reacción de Dios al caos provocado por el pecado» (§761), preparada de lejos en la vocación de Abraham y de cerca en la elección de Israel (§762).
+
+Corresponde al Hijo realizarla: «La Iglesia es el Reino de Cristo "presente ya en misterio"» (§763), y el Señor la dota de una estructura que permanece hasta la consumación, ante todo la elección de los Doce con Pedro como Cabeza (§765). Pero «la Iglesia ha nacido principalmente del don total de Cristo por nuestra salvación»: «del costado de Cristo dormido en la cruz nació el sacramento admirable de toda la Iglesia», como Eva del costado de Adán (§766). En Pentecostés «la Iglesia se manifestó públicamente ante la multitud» y, siendo «convocatoria de salvación para todos los hombres», es por su misma naturaleza misionera (§767). No llegará a su perfección sino «en la gloria del cielo», mientras «avanza en su peregrinación a través de las persecuciones del mundo y de los consuelos de Dios» (§769).
+
+La Iglesia es a la vez visible y espiritual, y en ese sentido analógico se la llama sacramento: contiene y comunica la gracia invisible que significa (§774). «Es en Cristo como un sacramento o signo e instrumento de la unión íntima con Dios y de la unidad de todo el género humano» (§775); es asumida por Cristo «como instrumento de redención universal», «sacramento universal de salvación», «el proyecto visible del amor de Dios hacia la humanidad» que quiere «que todo el género humano forme un único Pueblo de Dios, se una en un único Cuerpo de Cristo, se coedifique en un único templo del Espíritu Santo» (§776).
+
+Tres nombres condensan esa realidad. **Pueblo de Dios** (§781-786): pueblo sacerdotal, profético y regio, que participa de las tres funciones de Cristo; su dignidad regia se realiza sirviendo, pues «servir a Cristo es reinar», particularmente en los pobres y en los que sufren. **Cuerpo de Cristo** (§787-795): no sólo reunida en torno a Él, la Iglesia está unificada en Él; Cristo es la Cabeza, la Iglesia es la Esposa, y ambos forman el «Cristo total» [*Christus totus*]. **Templo del Espíritu Santo** (§797-798): el Espíritu es como el alma del Cuerpo místico y actúa en la edificación de todo el cuerpo en la caridad por la Palabra, el Bautismo, los sacramentos, las virtudes y los carismas.
+
+Los cuatro atributos del Credo —una, santa, católica y apostólica— «indican rasgos esenciales de la Iglesia y de su misión», y «la Iglesia no los tiene por ella misma; es Cristo quien, por el Espíritu Santo, da a la Iglesia el ser» así (§811). Es una por su origen —la unidad del Padre, del Hijo y del Espíritu—, por su Fundador y por su alma, el Espíritu Santo (§813); y esa unidad se asegura por vínculos visibles: «la profesión de una misma fe recibida de los Apóstoles», «la celebración común del culto divino, sobre todo de los sacramentos» y «la sucesión apostólica por el sacramento del orden» (§815). De ahí la fórmula del *subsistit in*: la Iglesia de Cristo «subsiste en la Iglesia católica, gobernada por el sucesor de Pedro y por los obispos en comunión con él» (§816). Es santa, porque Cristo la amó y se entregó por ella (§823-824), y a la vez «siempre necesitada de purificación» (§827).
+
+Finalmente, la Iglesia peregrina «es necesaria para la salvación» (§846), aunque la afirmación no alcanza a «los que sin culpa suya no conocen el Evangelio de Cristo y su Iglesia» y buscan a Dios con sincero corazón (§847); de ahí el derecho y el deber sagrado de evangelizar (§848-849). Y su nombre último es comunión de los santos: comunión en las «cosas santas» —ante todo la Eucaristía— y entre las «personas santas», los que peregrinan en la tierra, los que se purifican después de la muerte y los que gozan de la bienaventuranza celeste (§960-962).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El Código recoge esa eclesiología en términos jurídicos. «Son fieles cristianos quienes, incorporados a Cristo por el bautismo, se integran en el pueblo de Dios, y hechos partícipes a su modo por esta razón de la función sacerdotal, profética y real de Cristo, cada uno según su propia condición, son llamados a desempeñar la misión que Dios encomendó cumplir a la Iglesia en el mundo» (c. 204 §1); y la Iglesia así «constituida y ordenada como sociedad en este mundo, subsiste en la Iglesia católica, gobernada por el sucesor de Pedro y por los Obispos en comunión con él» (c. 204 §2).
+
+Están en plena comunión «los bautizados que se unen a Cristo dentro de la estructura visible de aquélla, es decir, por los vínculos de la profesión de fe, de los sacramentos y del régimen eclesiástico» (c. 205). Los catecúmenos, movidos por el Espíritu Santo, ya están unidos a la Iglesia, que los acoge como suyos (c. 206). Por institución divina hay entre los fieles ministros sagrados —clérigos— y laicos, y en ambos grupos quienes, profesando los consejos evangélicos, se consagran a Dios (c. 207).
+
+En cuanto a la condición de los fieles, «por su regeneración en Cristo, se da entre todos los fieles una verdadera igualdad en cuanto a la dignidad y acción», y todos cooperan «a la edificación del Cuerpo de Cristo» (c. 208). Están obligados a observar siempre la comunión con la Iglesia «incluso en su modo de obrar» (c. 209 §1), a llevar una vida santa e incrementar la Iglesia (c. 210) y a trabajar para que el mensaje de salvación alcance a todos (c. 211), y tienen derecho a promover y sostener la acción apostólica con iniciativas propias (c. 216).
 
 ### Según el Compendio (CompDS)
 
@@ -111,7 +138,6 @@ León XIV describe a la Iglesia, en la nave de la catedral, como «hogar común 
 
 **La barca de Pedro (Gioia/Carl).** «La barca de Pedro está ya en el muelle, llena de puentes divinamente revelados hacia la relación con la Fuente de todo misterio; la artesanía de la poesía puede ser balsa salvavidas para llevar almas pérdidas hacia el barco»: la Iglesia como destino de la búsqueda poética de trascendencia.
 
-
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 Al tratar de la gracia de Cristo, Tomás introduce a la Iglesia: el cuerpo de Cristo, en el que somos incorporados para recibir la gracia que fluye de su humanidad. Cabeza y cuerpo forman como una sola «persona mística»: por eso su pasión nos merita, pues somos miembros de su cuerpo. La gracia rebosa de la cabeza al cuerpo (*redundat*) «como una transfusión vital a los miembros»; no la recibimos por naturaleza (de Adán) sino por la acción personal de Cristo.
@@ -121,6 +147,7 @@ Al tratar de la gracia de Cristo, Tomás introduce a la Iglesia: el cuerpo de Cr
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — la Iglesia como **presencia de Cristo en la historia**: «He aquí dónde está ahora Cristo: donde está la Iglesia». Esta unidad de los cristianos con Cristo y con el Padre (Gv 17,20-23) *es* la Iglesia, el «cuerpo místico» en el que Cristo sigue siendo objeto de encuentro. El método para llegar a Cristo hoy es un «incontro presente, esistenziale»: vivir la comunidad cristiana actual («metodológicamente, solo viviendo la comunidad cristiana presente se puede adquirir adecuación al problema de Cristo»). Pertenecer a la Iglesia es «la función suprema que un hombre está llamado a realizar en el mundo».
 - **Parte quarta** — la Iglesia como pilar del sentido religioso: Cristo confió a su Iglesia el hecho de la Revelación para conservarlo con perenne infalibilidad; «la autoridad de la Iglesia —Papa y Obispos— son el pilar de sostenimiento del sentido religioso de cada época» (Mt 16,16-18, Cesárea de Filippi); los libros sagrados están confiados a la interpretación auténtica de la autoridad de la Iglesia.
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — frente a la «protestantización» que reduce el hecho cristiano a Palabra y conciencia, la Iglesia es la «compañía» católica que mantiene la unidad visible de los creyentes (Jn 17,9: «no ruego por el mundo») y la objetividad del camino al verdadero.
+
 ### Según La convenienza umana della fede (CUDF)
 
 Giussani define la Iglesia por su etimología: «La Iglesia se llama precisamente
@@ -136,8 +163,6 @@ todos los hombres— su pertenencia a Cristo» (01, 345).
 reconocido nuestra pertenencia a ella. Esta es la libertad y esta es la fuente de la
 alegría para nosotros, seguridad y alegría» (01, 347).
 
-
-
 ### Attraverso la compagnia dei credenti (TACDC)
 
 En *Attraverso la compagnia dei credenti* (TACDC), Giussani presenta a la Iglesia como la continuación del acontecimiento de Cristo en la historia. El hecho cristiano permanece presente a través de «il mistero della Chiesa, corpo misterioso di Cristo» (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, ll. 45). Esta presencia se prolonga en el tiempo: «la Chiesa la continuità di Cristo nel tempo e nello spazio… Cristo è con noi tutti i giorni fino alla fine del mondo» (ibid., ll. 191, 217-219). La Iglesia es, así, el lugar donde el encuentro con Cristo se renueva continuamente (00_preliminares.md, l. 10), la compañía que permite que la Presencia que nos ha alcanzado siga alcanzando a los hombres. También señala que la falta de hospitalidad obstaculiza «la possibilità di comunicazione del messaggio» (04_alla_ricerca_del_volto_umano_1996.md, ll. 147), poniendo de relieve el vínculo entre la vida eclesial y la acogida.
@@ -146,17 +171,17 @@ En *Attraverso la compagnia dei credenti* (TACDC), Giussani presenta a la Iglesi
 
 Melina (Caps. VI, VII) presenta la Iglesia como morada de la esperanza y como cuestión eclesial de la moral. La moral no es autónoma, sino eclesial. La Iglesia es madre y maestra porque es esposa de Cristo.
 
+### Según Perché la Chiesa (PLDC)
+
+Giussani define la palabra «Iglesia» como «un fenómeno histórico il cui unico significato consiste nell'esser per l'uomo la possibilità di raggiungere la certezza su Cristo» — fenómeno histórico cuyo único significado es ser para el hombre la posibilidad de alcanzar certeza sobre Cristo. La Iglesia no es solo expresión de vida: es una *vida* que nos alcanza desde hace muchos siglos, y su inteligencia exige convivenza. Tres actitudes culturales se confrontan con ella: la racionalista (Cristo como hecho del pasado, método que según Schweitzer desemboca en el Jesús ignoto o extraño), la protestante (iluminación interior, caída en el mismo subjetivismo) y la ortodoxo-católica, coherente con la estructura del acontecimiento cristiano: Dios hecho presencia integralmente humana, alcanzable por el método del encuentro con la compañía de los creyentes (Lc 10,16). Históricamente la realidad se llama «Chiesa», sociológicamente «popolo di Dio», ontológicamente «Corpo misterioso di Cristo». La Iglesia se define como el divino que se comunica a través de lo humano (el escándalo del «carpintero», Mc 6,3), educando al sentido religioso de la humanidad sin resolver los problemas humanos; el divino se comunica en ella como verdad (magistero ordinario y extraordinario, tradición) y como realidad (gracia santificante, sacramentos). Sus notas son verificables por los frutos: unidad, santidad (milagro, equilibrio, intensidad), catolicidad y apostolicidad (Ireneo). El criterio final es mariano: «Dio rimane un qualcosa di incomprensibile, se non si introduce la figura della Madonna... método del Suo comunicarsi all'uomo».
+
 ## Relaciones doctrinales
 
-Ver artículo principal: [[iglesia_cuerpo_místico]]
+El misterio de la Iglesia se articula en torno a tres nombres que el Catecismo presenta como inseparables —[[pueblo_de_dios]], [[iglesia_cuerpo_místico]] y templo del Espíritu Santo— (§781-798). Su sacramentalidad la constituye en signo e instrumento de la salvación del género humano (§774-776); de ella derivan las [[notas_de_la_iglesia]] —una, santa, católica y apostólica—, el [[magisterio_de_la_iglesia]] como servicio a la verdad revelada y la [[eucaristía]] como fuente y culmen de su unidad. Ver artículo principal: [[iglesia_cuerpo_místico]].
 
 ## Ver también
 
 [[iglesia_cuerpo_místico]], [[magisterio_de_la_iglesia]], [[configuración_con_cristo]], [[jorge_loring]]
-
-### Según Perché la Chiesa (PLDC)
-
-Giussani define la palabra «Iglesia» como «un fenómeno histórico il cui unico significato consiste nell'esser per l'uomo la possibilità di raggiungere la certezza su Cristo» — fenómeno histórico cuyo único significado es ser para el hombre la posibilidad de alcanzar certeza sobre Cristo. La Iglesia no es solo expresión de vida: es una *vida* que nos alcanza desde hace muchos siglos, y su inteligencia exige convivenza. Tres actitudes culturales se confrontan con ella: la racionalista (Cristo como hecho del pasado, método que según Schweitzer desemboca en el Jesús ignoto o extraño), la protestante (iluminación interior, caída en el mismo subjetivismo) y la ortodoxo-católica, coherente con la estructura del acontecimiento cristiano: Dios hecho presencia integralmente humana, alcanzable por el método del encuentro con la compañía de los creyentes (Lc 10,16). Históricamente la realidad se llama «Chiesa», sociológicamente «popolo di Dio», ontológicamente «Corpo misterioso di Cristo». La Iglesia se define como el divino que se comunica a través de lo humano (el escándalo del «carpintero», Mc 6,3), educando al sentido religioso de la humanidad sin resolver los problemas humanos; el divino se comunica en ella como verdad (magistero ordinario y extraordinario, tradición) y como realidad (gracia santificante, sacramentos). Sus notas son verificables por los frutos: unidad, santidad (milagro, equilibrio, intensidad), catolicidad y apostolicidad (Ireneo). El criterio final es mariano: «Dio rimane un qualcosa di incomprensibile, se non si introduce la figura della Madonna... método del Suo comunicarsi all'uomo».
 
 ## Analizado para
 
@@ -164,7 +189,8 @@ Giussani define la palabra «Iglesia» como «un fenómeno histórico il cui uni
 
 ## Referencias
 
-- CEC §748-975
+- CEC §748-975 (La Iglesia: Pueblo de Dios, Cuerpo de Cristo, Templo del Espíritu Santo; las cuatro notas; la comunión de los santos)
+- CIC c. 204-223
 - PS §07-08
 - [VJ, Cap. VIII]
 - [CIS, «La catedral interior del sacerdote», 2026]
