@@ -12,7 +12,7 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[segundo_mandamiento]] — no tomar el nombre de Dios en vano
+- [[18_segundo_mandamiento]] — no tomar el nombre de Dios en vano
 - [[juramento]] — no jurar en falso ni sin necesidad
 - [[blasfemia]] — blasfemar contra Dios, la Virgen o las cosas santas
 - [[respeto_humano]] — temor a manifestar la fe

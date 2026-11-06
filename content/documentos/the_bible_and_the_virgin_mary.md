@@ -86,7 +86,7 @@ Scott Hahn presenta una mariología arraigada en la exégesis bíblica tipológi
 - [[apariciones_marianas]]
 - [[tipología]]
 - [[scott_hahn]]
-- [[san_irineo_de_león]]
+- [[ireneo_de_lion]]
 - [[justino_mártir]]
 - [[san_juan_de_damasco]]
 - [[luis_maría_grignion_de_montfort]]

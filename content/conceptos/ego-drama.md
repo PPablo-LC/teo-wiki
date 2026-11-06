@@ -42,7 +42,7 @@ Barron describe el **ego-drama** como «la obra que yo escribo, yo produzco, yo 
 
 ## Ver también
 
-[[teodrama]], [[conversión]], [[cristocentrismo]], [[obediencia]], [[san_benito]]
+[[teodrama]], [[conversión]], [[cristocentrismo]], [[obediencia]], [[san_benito]], [[ego]]
 
 ## Referencias
 

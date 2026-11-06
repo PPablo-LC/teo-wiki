@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization_and_culture", "santos"]
 
 ## Conceptos básicos referenciados
 
-- [[sanJudasTadeo]] — el patrón de las causas desesperadas
+- [[san_judas_tadeo]] — el patrón de las causas desesperadas
 - [[esperanza]] — la intercesión de los santos en momentos de desesperación
 
 ## Contenido

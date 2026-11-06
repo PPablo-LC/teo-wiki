@@ -98,7 +98,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "ley 
 - [[redención]] — obra de Cristo que hace justos a los hombres
 - [[reino_de_dios]] — el Antiguo Testamento ordenado a anunciar el reino mesiánico
 - [[san_pablo]] — ley escrita en los corazones (Rm 2); «El fin de la Ley es Cristo»
-- [[san_agustín]] — definición de ley eterna; tradición de los Padres
+- [[agustín_de_hipona]] — definición de ley eterna; tradición de los Padres
 - [[san_ambrosio]] — «fin no en cuanto defecto, sino en cuanto plenitud de la ley»
 - [[santo_tomás_de_aquino]] — definición de ley eterna, ley natural y ley nueva; preceptos de la ley natural
 - [[león_xiii]] — ley natural «voz e intérprete de una razón más alta»

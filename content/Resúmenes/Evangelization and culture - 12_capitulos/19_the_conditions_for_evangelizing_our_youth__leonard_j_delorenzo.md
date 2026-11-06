@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization_and_culture_12", "evangelización_juvenil", "p
 ## Conceptos básicos referenciados
 
 - [[parábola_del_sembrador]] — Lc 8,15: "buena tierra = los que, oyendo la palabra, la retienen en corazón honesto y bueno, y dan fruto con paciencia". Calidad de la semilla (mensaje) se da por supuesta; lo decisivo = **condiciones del suelo** (hábitos, disposiciones del receptor).
-- [[san_agustín]] — *Confesiones* Libro 6: dinámica de conversión. Agustín escucha a Ambrosio (elocuencia) pero hábitos no reformados (ansia de honores, gloria) impiden escucha profunda. Conversión notional → real requiere **cambio de hábitos y condiciones adecuadas**.
+- [[agustín_de_hipona]] — *Confesiones* Libro 6: dinámica de conversión. Agustín escucha a Ambrosio (elocuencia) pero hábitos no reformados (ansia de honores, gloria) impiden escucha profunda. Conversión notional → real requiere **cambio de hábitos y condiciones adecuadas**.
 - [[alipio]] — amigo de Agustín, adicto a circos de Cartago. Lección involuntaria de Agustín → propósito de enmienda. En estadio: cierra ojos pero oídos abiertos → oye rugido → vuelve a adicción. **Imagen ridícula de Alipio cerrando ojos en arena** = intención frágil sin condiciones que la sostengan.
 - [[intención_vs_hábitos]] — intención sola no sustenta conversión de por vida. Sin cultivar condiciones correctas, conversión es **frágil e incompleta**.
 - [[dispersión_de_la_atención]] — condición moderna inhóspita al Evangelio. Mundo digital: velocidad, rapidez, curación algorítmica. "Casi imposible escuchar bien algo" (Merton, *The Sign of Jonas*). Estudiantes: "cerebro condicionado a consumir ráfagas de info; tras intentar foco prolongado, deriva buscando 'fix' de info".

@@ -13,7 +13,7 @@ tags: ["resumen", "denzinger capitulos"]
 ## Conceptos básicos referenciados
 
 - [[jansenismo]] — palabras de Cornelio Jansenio
-- [[jansenio]] — proposiciones del Augustinus
+- [[cornelio_jansenio]] — proposiciones del Augustinus
 - [[inmaculada_concepción]] — privilegio de la Virgen María
 - [[pecado_original]] — preservación del alma de la Virgen
 - [[moral]] — errores sobre materias morales

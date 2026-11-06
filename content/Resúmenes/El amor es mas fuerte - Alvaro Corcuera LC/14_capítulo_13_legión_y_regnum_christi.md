@@ -12,7 +12,7 @@ tags: ["resumen", "el amor es mas fuerte - alvaro corcuera lc"]
 
 ## Conceptos básicos referenciados
 
-[[legión_de_cristo]], [[regnum_christi]], [[barca_de_cristo]], [[iglesia]], [[vocación]], [[bautismo]], [[vida_consagrada]], [[cofundadores_legionarios]], [[fidelidad]], [[santidad]], [[perdón]], [[unidad]], [[misericordia]], [[esperanza]], [[alegría]], [[paz]], [[maría]], [[promoción_vocacional]], [[seguimiento_de_cristo]]
+[[legión_de_cristo]], [[regnum_christi]], [[barca_de_cristo]], [[iglesia]], [[vocación]], [[bautismo]], [[vida_consagrada]], [[cofunsadores_legionarios]], [[fidelidad]], [[santidad]], [[perdón]], [[unidad]], [[misericordia]], [[esperanza]], [[alegría]], [[paz]], [[maría]], [[promoción_vocacional]], [[seguimiento_de_cristo]]
 
 ## Contenido
 

@@ -12,12 +12,12 @@ tags: ["resumen", "memoria e identidad"]
 
 ## Conceptos básicos referenciados
 
-- [[communio_ecclesiarum|communio ecclesiarum]] — comunión de las Iglesias como intercambio de bienes y enriquecimiento mutuo
+- [[comunio_eclesiarum|communio ecclesiarum]] — comunión de las Iglesias como intercambio de bienes y enriquecimiento mutuo
 - [[tercer_mundo|Tercer Mundo]] — desigualdad norte-sur como consecuencia del capitalismo incontrolado
 
 ## Contenido
 
-Las experiencias conciliares, sinodales y curiales permitieron al Papa formarse una visión de las relaciones entre Europa y las Iglesias no europeas, regidas por el criterio conciliar de *[[communio_ecclesiarum|communio ecclesiarum]]*: intercambio de bienes y servicios con enriquecimiento mutuo. Repasa el mapa eclesial: Europa occidental convive con los cristianos de la Reforma; Oriente es ortodoxo; Latinoamérica el continente más católico; Filipinas mayoritariamente católica; África continente misionero en progresión.
+Las experiencias conciliares, sinodales y curiales permitieron al Papa formarse una visión de las relaciones entre Europa y las Iglesias no europeas, regidas por el criterio conciliar de *[[comunio_eclesiarum|communio ecclesiarum]]*: intercambio de bienes y servicios con enriquecimiento mutuo. Repasa el mapa eclesial: Europa occidental convive con los cristianos de la Reforma; Oriente es ortodoxo; Latinoamérica el continente más católico; Filipinas mayoritariamente católica; África continente misionero en progresión.
 
 Aunque históricamente esas Iglesias pueden considerarse «emanación» de la actividad misionera europea, hoy son una especie de **contrapeso espiritual** para el Viejo Continente, tanto más importante cuanto avanza su descristianización, con identidad propia y clara especificidad.
 

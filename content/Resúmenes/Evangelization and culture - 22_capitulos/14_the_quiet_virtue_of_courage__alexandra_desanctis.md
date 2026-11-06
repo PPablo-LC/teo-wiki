@@ -16,7 +16,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 - [[humildad]] — raíz del verdadero coraje: reconocerse criatura, no Creador
 - [[maría]] — el fiat de Nuestra Señora como ejemplo perfecto de coraje humilde
 - [[miedo]] — resistencia al miedo, no ausencia de él
-- [[santa_teresita_de_lisieux]] — la sencillez del alma que se abandona a la gracia como modelo de coraje
+- [[santa_teresa_de_lisieux]] — la sencillez del alma que se abandona a la gracia como modelo de coraje
 - [[consejos_evangélicos]] — la santidad cotidiana requiere coraje para practicar todas las virtudes
 - [[conversión]] — el coraje necesario para responder al llamado continuo de la conversión
 
@@ -52,4 +52,4 @@ DeSanctis destaca la expresión de [[san_josemaría_escrivá]] del «minuto hero
 
 ### The Examples of St. Thérèse and the Hemorrhaging Woman
 
-Cita a [[santa_teresita_de_lisieux]] en *Historia de un alma*: el amor de Dios se revela perfectamente en el alma más sencilla que no resiste su gracia en nada; Él se digna descender hasta el corazón del niño que solo sabe hacer oír sus débiles quejidos y del pobre salvaje que solo tiene la ley natural para guiarlo. Finalmente, DeSanctis señala a la mujer de los doce años de hemorragias en el Evangelio (Mc 5,25-34), que con gran coraje tocó el borde del manto de Jesús. En ella vemos el coraje necesario para reconocer la propia necesidad, la condición de criatura dependiente enteramente del Creador. Jesús, en su misericordia, no puede resistir la fe humilde: «su poder había salido de él» y «al instante se le detuvo la hemorragia».
+Cita a [[santa_teresa_de_lisieux]] en *Historia de un alma*: el amor de Dios se revela perfectamente en el alma más sencilla que no resiste su gracia en nada; Él se digna descender hasta el corazón del niño que solo sabe hacer oír sus débiles quejidos y del pobre salvaje que solo tiene la ley natural para guiarlo. Finalmente, DeSanctis señala a la mujer de los doce años de hemorragias en el Evangelio (Mc 5,25-34), que con gran coraje tocó el borde del manto de Jesús. En ella vemos el coraje necesario para reconocer la propia necesidad, la condición de criatura dependiente enteramente del Creador. Jesús, en su misericordia, no puede resistir la fe humilde: «su poder había salido de él» y «al instante se le detuvo la hemorragia».

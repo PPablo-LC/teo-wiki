@@ -12,11 +12,11 @@ tags: ["resumen", "teotokos", "maternidad_divina", "concilio_de_éfeso", "nestor
 
 ## Conceptos básicos referenciados en esta lección
 
-- [[teotokos]] — «Madre de Dios»; título definido en el Concilio de Éfeso (431).
+- [[theotokos]] — «Madre de Dios»; título definido en el Concilio de Éfeso (431).
 - [[maternidad_divina]] — Dogma que declara a María verdadera Madre de Dios porque dio a luz a la persona divina del Hijo.
 - [[concilio_de_éfeso]] — Tercer concilio ecuménico (431); definió el dogma de la Maternidad Divina.
 - [[nestorianismo]] — Herejía que separaba las naturalezas de Cristo, negando que María fuera Madre de Dios.
-- [[cirilo_de_alexandría]] — Padre de la Iglesia; defensor del título Teotokos.
+- [[cirilo_de_alejandría]] — Padre de la Iglesia; defensor del título Teotokos.
 - [[reina_madre]] — María como Reina del cielo, coronada junto a su Hijo rey.
 
 ## Contenido

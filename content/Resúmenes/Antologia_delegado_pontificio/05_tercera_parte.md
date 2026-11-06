@@ -14,7 +14,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 
 - [[dirección_espiritual]] — ayuda para discernir la voluntad de Dios en la vida espiritual
 - [[discernimiento_espiritual]] — proceso de escucha del Espíritu Santo para llegar a una decisión conforme a la voluntad de Dios
-- [[discernimiento_de_los_espiritus]] — fase del discernimiento que valora las mociones interiores de consolación y desolación
+- [[discernimiento_de_espíritus]] — fase del discernimiento que valora las mociones interiores de consolación y desolación
 - [[carisma_del_instituto]] — don colectivo del Espíritu que define la identidad de un instituto religioso
 - [[constituciones_legionarios_de_cristo]] — código fundamental a revisar conforme al c. 587 CIC
 - [[derecho_propio_del_instituto]] — conjunto de normas que expresan el carisma
@@ -30,7 +30,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[gratia_gratis_data]] — gracia dada para bien de otros, distinta de la *gratia gratum faciens*
 - [[refundacion]] — sentido recto: volver a los fundamentos carismáticos perennes
 - [[vita_consecrata]] — exhortación apostólica de Juan Pablo II
-- [[codice_de_derecho_canonico]] — legislación canónica de referencia
+- [[código_de_derecho_canónico]] — legislación canónica de referencia
 - [[autonomia_de_los_consagrados]] — justa autonomía de los miembros del tercer grado del RC
 - [[regnum_christi]] — Movimiento en proceso de configuración canónica
 - [[asociación_de_fieles]] — forma jurídica prevista para los consagrados del RC

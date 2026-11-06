@@ -67,7 +67,7 @@ Pell describe el gnosticismo como un movimiento amplio y diverso de los primeros
 
 ## Relaciones doctrinales
 
-Se opone a la [[encarnación]], a la [[bondad_de_la_creación]], al [[cuerpo]] y a la [[resurrección_de_la_carne]]. Se relaciona con el [[docetismo]], el [[maniqueísmo]], el [[priscilianismo]], el [[dualismo]] y el [[modernismo]]. Combaten esta herejía [[san_irineo_de_león]], [[san_agustín]], [[santo_tomás_de_aquino]] y [[juan_pablo_ii]].
+Se opone a la [[encarnación]], a la [[bondad_de_la_creación]], al [[cuerpo]] y a la [[resurrección_de_la_carne]]. Se relaciona con el [[docetismo]], el [[maniqueísmo]], el [[priscilianismo]], el [[dualismo]] y el [[modernismo]]. Combaten esta herejía [[ireneo_de_lion]], [[agustín_de_hipona]], [[santo_tomás_de_aquino]] y [[juan_pablo_ii]].
 
 ## Ver también
 

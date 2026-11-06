@@ -48,7 +48,7 @@ El término «tierra» aparece en múltiples contextos en la TPCr (el cielo comi
 
 ## Relaciones doctrinales
 
-Se relaciona con [[creación]], [[tierra_prometida]], [[alianza]], [[exilio]], [[cielos_nuevos_y_tierra_nueva]], [[escatalogía]], [[jardín_del_edén]].
+Se relaciona con [[creación]], [[tierra_prometida]], [[alianza]], [[exilio]], [[cielos_nuevos_y_tierra_nueva]], [[escatología]], [[jardín_del_edén]].
 
 ## Ver también
 

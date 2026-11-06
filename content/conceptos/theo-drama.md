@@ -47,11 +47,11 @@ Coryn Bulman aplica el concepto al libro del Génesis, presentándolo como «the
 
 ## Relaciones doctrinales
 
-El theo-drama se vincula con la [[historia_de_salvación]] como la narrativa global de la intervention divina en el mundo. Se conecta con la [[encarnación]] como el momento culminante en que la libertad divina se hace plenamente presente en la historia humana. El [[arte]] y el [[cine]] pueden ser expresiones del theo-drama en la cultura, narrando historias que reflejan la dinámica de encuentro entre lo divino y lo humano. Las [[logoi_spermatikoi]] explican por qué fragmentos del theo-drama aparecen incluso en obras no explícitamente cristianas.
+El theo-drama se vincula con la [[historia_de_la_salvación]] como la narrativa global de la intervention divina en el mundo. Se conecta con la [[encarnación]] como el momento culminante en que la libertad divina se hace plenamente presente en la historia humana. El [[arte]] y el [[cine]] pueden ser expresiones del theo-drama en la cultura, narrando historias que reflejan la dinámica de encuentro entre lo divino y lo humano. Las [[logoi_spermatikoi]] explican por qué fragmentos del theo-drama aparecen incluso en obras no explícitamente cristianas.
 
 ## Ver también
 
-[[arte]], [[cine]], [[historia_de_salvación]], [[encarnación]], [[logoi_spermatikoi]], [[vía_pulchritudinis]]
+[[arte]], [[cine]], [[historia_de_la_salvación]], [[encarnación]], [[logoi_spermatikoi]], [[vía_pulchritudinis]]
 
 ## Referencias
 

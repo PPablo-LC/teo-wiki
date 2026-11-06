@@ -55,7 +55,7 @@ El amor propio se opone a la [[humildad]] y a la [[caridad]]. Es fuente de la [[
 
 ## Ver también
 
-[[humildad]], [[soberbia]], [[mortificación]], [[purificaciones_pasivas]], [[noche_oscura]], [[conversión]]
+[[humildad]], [[soberbia]], [[mortificación]], [[purificaciones_pasivas]], [[noche_oscura]], [[conversión]], [[ego]], [[egoísmo]]
 
 ## Referencias
 

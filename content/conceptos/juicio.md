@@ -59,6 +59,13 @@ Juzgar sin autoridad pública es injusto, porque el juicio implica coacción y s
 
 El juicio es acto de justicia, pues el derecho es objeto de la justicia (q.60 a.1). En sentido amplio, el juicio recto en cualquier materia es acto de la razón; pero en las cosas que pertenecen a la justicia, el juicio procede de la justicia como hábito que inclina a juzgar rectamente, y de la prudencia como virtud que pronuncia el juicio (a.1 ad 1). El Señor prohibe el juicio temerario sobre intenciones ocultas (a.2 ad 1). La sinopsis (synesis) es virtud del buen juicio en materia práctica (a.1 ad 1).
 
+### Según The Strangest Way (STR)
+
+Barron trata el juicio dentro del segundo camino, con una tesis que puede formularse así: el Nuevo Testamento insiste en que Jesús muestra que somos pecadores (juez) y ofrece la salida (salvador), y si se pierde uno de los dos acentos el camino se malogra «por exceso de confianza o por terror».
+
+Como juez, Jesús entra en el mundo «como un soldado que se infiltra clandestinamente tras las líneas enemigas» (C. S. Lewis); el silencio y la oscuridad de su nacimiento fueron su capa, y cuando se descubrió, Herodes y toda Jerusalén temblaron. Su presencia misma es juicio, porque en él «la mente de Dios se hizo carne» y su sola aparición hace patente el desorden de los reinos de la tierra: cada palabra y cada gesto clarificaron la disfunción de sus adversarios. El Bautista lo anunció con la imagen del bieldo que limpia la era (Lc 3,17): su presencia es bieldo, agente de separación y clarificación. Y el juicio alcanza su punto extremo en la cruz: «matasteis al Autor de la vida» (Hech 3,15), un «vosotros» que, como advirtió Küng, incluye a todos los grupos de su tiempo, también a los discípulos, que «todos huyeron». El juicio rasga el manto de respetabilidad con que el pecador se cubre.
+
+Pero la muerte no es la última palabra. El Resucitado hace dos cosas ante los suyos: muestra las llagas —«no permite el olvido exculpatorio»— y dice «Shalom» (Lc 24,36). Frente a los mitos y a las películas en que el orden se restaura con más violencia, en Jesús «el terrible desorden de la cruz no se aborda con una explosión de venganza divina, sino con una irradiación de amor divino»: palabras de reconciliación y compasión, sin pasar por alto la textura del desorden. Así «quita el pecado del mundo»: la venganza restauraba una paz precaria, pausa entre conflictos; lo que quita la violencia es una no violencia valiente y compasiva, «como el agua apaga el fuego».
 
 ## Distinciones importantes
 

@@ -13,7 +13,7 @@ description: "Herejía del siglo V que niega la necesidad de la gracia divina pa
 
 ## Definición
 
-Herejía atribuida a Pelagio (ca. 354-418), monje británico, que sostiene que el hombre puede, por las solas fuerzas de su naturaleza y libre albedrío, cumplir los mandamientos y alcanzar la salvación sin la ayuda necesaria de la gracia divina. Reduce el pecado original a un mero mal ejemplo de Adán, niega su transmisión a toda la humanidad y afirma que la muerte no es consecuencia del pecado sino una condición natural. Fue combatida principalmente por [[san_agustín]] y condenada en los Concilios de Cartago (418), Milevi (416) y Orange II (529).
+Herejía atribuida a Pelagio (ca. 354-418), monje británico, que sostiene que el hombre puede, por las solas fuerzas de su naturaleza y libre albedrío, cumplir los mandamientos y alcanzar la salvación sin la ayuda necesaria de la gracia divina. Reduce el pecado original a un mero mal ejemplo de Adán, niega su transmisión a toda la humanidad y afirma que la muerte no es consecuencia del pecado sino una condición natural. Fue combatida principalmente por [[agustín_de_hipona]] y condenada en los Concilios de Cartago (418), Milevi (416) y Orange II (529).
 
 ## Desarrollo doctrinal
 
@@ -76,11 +76,11 @@ Pell lo define como la confianza en las propias fuerzas en vez de en Dios, pelig
 
 ## Relaciones doctrinales
 
-Se opone a la [[gracia]], a la [[justificación]], al [[mérito]] y a la [[predestinación]]. Se relaciona con el [[semipelagianismo]], el [[jansenismo]] y el [[neo-pelagianismo]]. Es combatido por [[san_agustín]] y [[santo_tomás_de_aquino]].
+Se opone a la [[gracia]], a la [[justificación]], al [[mérito]] y a la [[predestinación]]. Se relaciona con el [[semipelagianismo]], el [[jansenismo]] y el [[neo-pelagianismo]]. Es combatido por [[agustín_de_hipona]] y [[santo_tomás_de_aquino]].
 
 ## Ver también
 
-[[gracia]], [[pecado_original]], [[libre_albedrío]], [[semipelagianismo]], [[jansenismo]], [[san_agustín]], [[concilio_de_orange_ii]], [[concilio_de_trento]]
+[[gracia]], [[pecado_original]], [[libre_albedrío]], [[semipelagianismo]], [[jansenismo]], [[agustín_de_hipona]], [[concilio_de_orange_ii]], [[concilio_de_trento]]
 
 ## Referencias
 

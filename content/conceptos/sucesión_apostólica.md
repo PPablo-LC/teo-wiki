@@ -70,7 +70,7 @@ La infografía de las cartas pastorales del PdB destaca que en la primera carta 
 - [[evangelios_apócrifos]]
 - [[eusebio_de_cesárea]]
 - [[papías_de_hierápolis]]
-- [[san_irineo_de_león]]
+- [[ireneo_de_lion]]
 - [[the_case_for_jesus]]
 
 ## Referencias

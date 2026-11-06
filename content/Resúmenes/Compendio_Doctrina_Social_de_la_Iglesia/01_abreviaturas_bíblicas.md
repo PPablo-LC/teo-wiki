@@ -12,7 +12,7 @@ tags: ["resumen", "doctrina_social", "abreviaturas", "referencias"]
 
 ## Conceptos básicos referenciados
 
-- [[abreviaturas_bíblicas]] — Siglas para referirse a libros de la Sagrada Escritura
+- [[01_abreviaturas_bíblicas]] — Siglas para referirse a libros de la Sagrada Escritura
 - [[siglas_litúrgicas]] — Abreviaturas para documentos de la Iglesia
 
 ## Contenido

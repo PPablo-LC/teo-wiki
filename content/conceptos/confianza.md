@@ -39,6 +39,14 @@ Tercero, la **confianza y gozosa seguridad**: por su acto de amor confiado, Jes�
 
 **La confianza y la oración (cap. X).** La oración es presentada como «conciencia de sí» que se topa con un Otro: confiar en Él —como el esclavo a la espera del gesto del señor (Sal 123,2)— es el acto de abandono que constituye la postura religiosa del hombre (SR, `17_capitolo_decimo.md`, §86-95).
 
+### Según And Now I See (ANS)
+
+Para Robert Barron, la confianza es la alternativa al miedo, que es la raíz del pecado. El hombre ve y conoce con una **mente de miedo** o con una **mente de confianza**: cuando teme, se aferra a lo que es y tiene, se ve como el centro amenazado de un universo hostil y se defiende con violencia; cuando confía, descansa en el centro del alma, donde está la imagen de Dios, y sabe que en último término está a salvo.
+
+Ese tránsito es la *metanoia*, el paso de la *pusilla anima* a la *magna anima*. La confianza no es un optimismo superficial ni una técnica psicológica: es la consecuencia de descubrir que en el fondo de uno mismo hay un poder que sostiene el universo. Por eso Barron insiste en que la fe bíblica no es asentir a proposiciones, sino dejarse agarrar por Dios, abandonarse a él. La imagen evangélica es la tempestad calmada (Mc 4): los discípulos, aterrados, creen que no hay nada bajo la barca; Jesús duerme porque está centrado, y su reproche es una invitación a confiar.
+
+La confianza tiene también una forma eclesial y litúrgica: Bartimeo grita *eleeson me*, el *Kyrie eleison* de la Iglesia, y su petición —«Maestro, que vea»— resume la conversión. Barron añade una nota sobre el riesgo: la confianza verdadera no elimina la vulnerabilidad —el que confía se expone, como el que ama—, pero precisamente en esa exposición descubre la libertad del alma grande.
+
 ## Distinciones importantes
 
 - **Confianza natural vs. confianza sobrenatural**: la primera se apoya en criaturas y es vana; la segunda se funda en la omnipotencia y fidelidad de Dios.

@@ -18,7 +18,7 @@ tags: ["resumen", "eclesiología", "teología_del_sacerdocio"]
 - [[cristo_maestro]] — Cristo, el verdadero Maestro
 - [[paternidad_sacerdotal]] — Cristo, el verdadero Padre
 - [[cristo_medico]] — Cristo, el verdadero Médico
-- [[pastor]] — Cristo, el verdadero Pastor
+- [[pastor_y_rebaño]] — Cristo, el verdadero Pastor
 - [[entrevista]] — género literario que permite un testimonio vivo y directo
 - [[fecundidad_espiritual]] — nueva fecundidad del sacerdote en los cambios actuales
 
@@ -48,4 +48,4 @@ Que la lectura ilumine los caminos de la fecundidad que el Espíritu genera en l
 ## Ver también
 
 [[priests_what_lies_ahead]] [[sacerdocio]] [[paternidad_sacerdotal]]
-[[cristo_medico]] [[pastor]] [[cristo_maestro]]
+[[cristo_medico]] [[pastor_y_rebaño]] [[cristo_maestro]]

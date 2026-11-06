@@ -20,7 +20,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c"]
 - [[madre_de_dios]] — Maternidad divina de María, definida por el concilio de Éfeso.
 - [[concilio_de_éfeso]] — Concilio (431) que definió la unidad personal de Cristo y la maternidad divina, y condenó el pelagianismo y el nestorianismo.
 - [[concilio_de_calcedonia]] — Concilio (451) que definió las dos naturalezas de Cristo, divina y humana, unidas sin confusión ni división en la Persona del Verbo.
-- [[san_agustín]] — Obispo de Hipona; luchó contra maniqueos, donatistas y pelagianos (Confesiones, Ciudad de Dios).
+- [[agustín_de_hipona]] — Obispo de Hipona; luchó contra maniqueos, donatistas y pelagianos (Confesiones, Ciudad de Dios).
 - [[san_jerónimo]] — Tradujo al latín toda la Biblia (Vulgata).
 - [[san_juan_crisóstomo]] — Patriarca de Constantinopla, "boca de oro"; comentó la Escritura y defendió las imágenes.
 - [[san_pedro_crisologo]] — Obispo de Ravena; colección de sermones con exégesis moral.

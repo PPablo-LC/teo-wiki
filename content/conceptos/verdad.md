@@ -184,6 +184,14 @@ La verdad es la correspondencia (*adequatio*) de la mente con la cosa, y se encu
 
 Decir siempre la verdad es «otro medio estupendo para ser hombre de carácter, sin doblez» [JvC, Cap. III]. La consigna debe ser: «Nunca mentiré». La mentira no solo es un pecado contra Dios, que es la Verdad viviente, sino que degrada moralmente al que miente. El hombre de palabra cumple lo prometido cueste lo que cueste: «La verdad a cualquier precio, debe ser tu consigna» [JvC, Cap. III].
 
+### Según The Strangest Way (STR)
+
+Barron incluye el decir la verdad entre las prácticas del segundo camino y lo funda en la identidad de Cristo: «los cristianos son gente dedicada a vivir en la verdad, porque Jesús se describió a sí mismo como la Verdad (Jn 14,6)»; quien quiera vivir en las sombras tiene que marginarlo, como Pilato —«¿qué es la verdad?»— o como sus paisanos que quisieron despeñarlo.
+
+Su diagnóstico cultural es que la paz de religión de la modernidad consistió en una tolerancia amplia en cuestiones morales y metafísicas, que trajo la suspensión del conflicto pero también «un relativismo insulso, o incluso un indiferentismo, ante las cuestiones más acuciantes e interesantes». Rawls, con el «velo de la ignorancia», produce en teoría una sociedad sin prejuicios y en la práctica «una sociedad completamente beige, vacía de esos compromisos profundos que hacen la vida humana interesante y rica»; Habermas excluye sistemáticamente las voces que hablan desde la fe. El caso extremo es la sentencia *Casey*: «en el corazón de la libertad está el derecho a definir el propio concepto de existencia, de sentido, del universo y del misterio de la vida humana»; la libertad ha vencido a la verdad. Frente a eso, Pablo puede llamarse «esclavo de Cristo» (Rom 1,1) porque la esclavitud a la verdad es la libertad real, y Juan Pablo II, en *Veritatis splendor*, insiste en que libertad y verdad deben ir uncidas.
+
+De ahí la práctica: decir la verdad aunque duela, como los apóstoles, Padre Pro, Jägerstätter, Bonhoeffer, Dorothy Day y Lutero King; como Havel y sus compañeros, que en una sociedad de mentiras «despejaron un espacio para la verdad», y como Juan Pablo II en Varsovia en 1979, cuya visita hizo prever a Brzezinski el fin del comunismo polaco. Con dos reglas: la de John Shea —criticar a alguien en la medida en que estés dispuesto a ayudarle con el problema que planteas— y la de Mt 18, aplicación del principio de subsidiariedad, con su aparente rechazo final que no es definitivo, pues con los gentiles y publicanos comía Jesús. Agustín tenía sobre la mesa un letrero: «quien aquí hable mal de su hermano, no es bienvenido a esta mesa».
+
 ## Relaciones doctrinales
 
 Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]], [[libertad]], [[entendimiento]] y la exigencia de verdad como estructura de la vida humana en SR.

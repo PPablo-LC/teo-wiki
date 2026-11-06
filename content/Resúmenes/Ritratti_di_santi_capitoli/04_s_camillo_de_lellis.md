@@ -21,7 +21,7 @@ tags: ["resumen", "ritratti di santi capitoli"]
 - [[obras_de_caridad]] — la revolución institucional de los hospitales
 - [[cultura_de_la_muerte]] — el paralelo con el aborto y la eutanasia actuales
 - [[muerte_a_sí_mismo]] — «morire a se stessi per vivere a Gesù Cristo crocifisso nei malati»
-- [[san_camillo_de_lellis]] — retrato completo
+- [[san_camilo_de_lelis]] — retrato completo
 
 ## Contenido
 

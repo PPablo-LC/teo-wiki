@@ -17,7 +17,7 @@ tags: ["resumen", "eclesiología", "teología_del_sacerdocio", "teología_pastor
 - [[vocación_sacerdotal]] — historia de una vocación y consejos a jóvenes y mayores
 - [[cura_de_almas]] — la parroquia y el contacto diario con el pueblo
 - [[misericordia]] — verdad sobre el bien y el mal con voz de amor
-- [[pastor]] — imagen afectuosa del buen pastor
+- [[pastor_y_rebaño]] — imagen afectuosa del buen pastor
 - [[laicado]] — corresponsabilidad bautismal y clericalismo
 - [[paternidad_sacerdotal]] — icono de Cristo y del Padre
 - [[formación_sacerdotal]] — fragilidad de los candidatos y acompañamiento
@@ -62,6 +62,6 @@ Configuración, no liderazgo: Cristo es la medida del sacerdote; somos «otros C
 ## Ver también
 
 [[priests_what_lies_ahead]] [[charles_chaput]] [[cura_de_almas]]
-[[pastor]] [[laicado]] [[paternidad_sacerdotal]]
+[[pastor_y_rebaño]] [[laicado]] [[paternidad_sacerdotal]]
 [[formación_sacerdotal]] [[predicación]] [[celibato_sacerdotal]]
 [[configuración_con_cristo]] [[eucaristía]] [[minorías_creativas]]

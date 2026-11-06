@@ -18,7 +18,7 @@ description: "Obra apologética de Robert Barron sobre fe y razón, cientificism
 - **Código**: ARGREL
 - **Fuente**: `raw/Bases_doctrinales-raw/Arguing_Religion_A_Bishop_Speaks_at_Facebook_and_Google_capitulos/` (9 capítulos, ~421 líneas)
 - **Formato**: Transcripción/capítulos en inglés
-- **Índice raw**: [[raw/Bases_doctrinales-raw/Arguing_Religion_A_Bishop_Speaks_at_Facebook_and_Google_capitulos/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/Arguing_Religion_A_Bishop_Speaks_at_Facebook_and_Google_capitulos/índice.md`
 
 ## Contenido
 
@@ -60,5 +60,5 @@ Destaca la recuperación del tomismo para el diálogo público, la distinción e
 ## Referencias
 
 - Barron, Robert. *Arguing Religión: A Bishop Speaks at Facebook and Google*. Word on Fire Catholic Ministries, 2016.
-- Índice raw: [[raw/Bases_doctrinales-raw/Arguing_Religion_A_Bishop_Speaks_at_Facebook_and_Google_capitulos/índice]]
+- Índice raw: `raw/Bases_doctrinales-raw/Arguing_Religion_A_Bishop_Speaks_at_Facebook_and_Google_capitulos/índice.md`
 

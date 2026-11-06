@@ -39,7 +39,7 @@ La tradición cristiana revolucionó la actitud del mundo antiguo hacia los enfe
 
 ## Ver también
 
-[[san_camillo_de_lellis]], [[san_giuseppe_benedetto_cottolengo]], [[benedetta_bianchi_porro]], [[caridad]], [[cultura_de_la_muerte]]
+[[san_camilo_de_lelis]], [[san_giuseppe_benedetto_cottolengo]], [[benedetta_bianchi_porro]], [[caridad]], [[cultura_de_la_muerte]]
 
 ## Referencias
 

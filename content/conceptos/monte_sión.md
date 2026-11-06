@@ -17,7 +17,7 @@ El monte Sión es la colina de Jerusalén sobre la que se edificó la ciudad de 
 
 ## Ver también
 
-[[jerusalén]], [[jerusalén_celestial]], [[sión]], [[templo]], [[ciudad_de_dios]]
+[[jerusalén]], [[nueva_jerusalen]], [[sión]], [[templo]], [[ciudad_de_dios]]
 
 ## Referencias
 

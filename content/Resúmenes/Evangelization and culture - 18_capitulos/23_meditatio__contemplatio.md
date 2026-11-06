@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization and culture - 18 capitulos"]
 ## Conceptos básicos referenciados
 
 - [[conversión]] — las historias de conversión propias y las conversiones que llevan tiempo
-- [[san_agustín]] — las conversiones que llegan al final de largas peregrinaciones
+- [[agustín_de_hipona]] — las conversiones que llegan al final de largas peregrinaciones
 - [[santa_maría_magdalena]] — la conversión como «posesión completa» según Rozann Lee
 - [[evangelización]] — si evangelizar obliga o invita a una vida de fe
 - [[ministerio_relacional]] — ver a cada joven como «hijo de Dios», no como proyecto o posible converso
@@ -29,7 +29,7 @@ La sección final del fascículo ofrece ocho preguntas de discusión para la med
 
 1. **¿Eres un converso católico?** Si es así, ¿cuál es tu historia de conversión?
 
-2. **¿Somos suficientemente pacientes con las conversiones que llevan tiempo?** ¿Qué puede enseñarnos San [[san_agustín|Agustín]] sobre las conversiones que llegan al final de largas peregrinaciones?
+2. **¿Somos suficientemente pacientes con las conversiones que llevan tiempo?** ¿Qué puede enseñarnos San [[agustín_de_hipona|Agustín]] sobre las conversiones que llegan al final de largas peregrinaciones?
 
 3. **Rozann Lee llama a la [[conversión]] de [[santa_maría_magdalena]] una de «posesión completa».** En la conversión, ¿con qué frecuencia atribuimos orgullosamente a nuestro propio asentimiento personal el crédito de la fe, minimizando el inmenso papel de [[gracia|Dios]] en transformarnos?
 

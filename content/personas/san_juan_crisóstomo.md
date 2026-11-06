@@ -55,7 +55,7 @@ Juan Crisóstomo aparece referenciado en los siguientes artículos del wiki:
 
 ## Ver también
 
-[[san_agustín]], [[san_atanasio]], [[patrística]], [[moral_patrística]], [[escuela_exegética_de_antioquía]], [[padres_de_la_iglesia]], [[liturgia_de_san_juan_crisóstomo]], [[san_pablo]], [[predicación]]
+[[agustín_de_hipona]], [[san_atanasio]], [[patrística]], [[moral_patrística]], [[escuela_exegética_de_antioquía]], [[padres_de_la_iglesia]], [[liturgia_de_san_juan_crisóstomo]], [[san_pablo]], [[predicación]]
 
 ## Referencias
 

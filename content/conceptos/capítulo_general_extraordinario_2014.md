@@ -34,7 +34,7 @@ El CapExt-2014 marcó el fin de la primera fase del proceso de renovación de la
 
 ## Ver también
 
-[[legión_de_cristo]], [[delegado_pontificio]], [[comisión_central_para_la_revisión_de_las_constituciones]], [[visita_apostólica]], [[antología_del_delegado_pontificio]], [[capítulo_general_extraordinario_2018]], [[sylvester_heereman]], [[velasio_de_paolis]]
+[[legión_de_cristo]], [[delegado_pontificio]], [[comisión_central_para_la_revisión_de_las_constituciones]], [[visita_apostólica]], [[antología_delegado_pontificio]], [[capítulo_general_extraordinario_2018]], [[sylvester_heereman]], [[velasio_de_paolis]]
 
 ## Referencias
 

@@ -22,7 +22,7 @@ tags: ["resumen", "evangelization and culture - 18 capitulos"]
 - [[gracia_preveniente]] — la gracia que hace el trabajo preparatorio de la conversión
 - [[penitencia]] — el alma que pide penitencia (Rodrigo Mendoza)
 - [[vía_purgativa]] — hay que bajar para subir; la religión del «sentirse bien» es obra del diablo
-- [[misterio_de_la_iniquidad]] — el *mysterium iniquitatis* del backsliding
+- [[mysterium_iniquitatis]] — el *mysterium iniquitatis* del backsliding
 - [[fomes_peccati]] — la «leña del pecado» que permanece tras el bautismo (Trento)
 - [[conversión_continua]] — «no somos convertidos una sola vez sino muchas veces» (Merton)
 - [[encuentro_personal_con_cristo]] — la conversión como encuentro con Cristo que camina con nosotros
@@ -37,7 +37,7 @@ tags: ["resumen", "evangelization and culture - 18 capitulos"]
 - [[confesión]] — se vuelve a los sacramentos porque nos convertimos muchas veces
 - [[thomas_merton]], [[dorothy_day]], [[john_henry_newman]], [[beata_edith_stein]] — conversos ejemplares
 - [[g_k_chesterton]] — «la Iglesia es una casa con cien puertas»
-- [[san_agustín]] — convertido por la predicación de Ambrosio; sus *Confesiones*
+- [[agustín_de_hipona]] — convertido por la predicación de Ambrosio; sus *Confesiones*
 - [[san_pedro]] — Bartimeo y Pedro como símbolos de la conversión
 - [[papa_francisco]] — el acompañamiento de los que caminan en la dirección equivocada
 
@@ -97,7 +97,7 @@ El propósito de la Orden de Iniciación Cristiana de Adultos ([[rito_de_iniciac
 
 ## III: Backsliding
 
-Worner observa que, en Mateo 16, Pedro profesa que Jesús es el Mesías y es llamado bienaventurado y Roca, pero cinco versículos después Jesús lo reprende: «¡Apártate de mí, Satanás!». ¿Por qué los conversos apasionados caen tan a menudo en el *backsliding*? Barron responde: ¿por qué cualquiera de nosotros retrocede? En cierto modo es el *[[misterio_de_la_iniquidad|mysterium iniquitatis]]*, el misterio del mal, que se manifiesta entre otras cosas en el mal moral. «Saco un extraño consuelo del hecho de que incluso los grandes santos retrocedieron». Incluso el gran Pablo puede decir en Romanos 7: «No hago el bien que quiero, sino el mal que no quiero». No es Pablo antes de la conversión, es San Pablo ya metido en su vida convertida. Cualquiera adicto a algo lo reconocerá: «Sé lo que debo hacer, sé que ese camino era terrible, y debo mantenerme fuera de él; pero precisamente lo que sé que no debo hacer, eso es lo que hago». Y entonces Pablo dice: «¿Quién me librará de este cuerpo de muerte? ¡Gracias a Dios por Jesucristo nuestro Señor!». Ese es el ritmo correcto.
+Worner observa que, en Mateo 16, Pedro profesa que Jesús es el Mesías y es llamado bienaventurado y Roca, pero cinco versículos después Jesús lo reprende: «¡Apártate de mí, Satanás!». ¿Por qué los conversos apasionados caen tan a menudo en el *backsliding*? Barron responde: ¿por qué cualquiera de nosotros retrocede? En cierto modo es el *[[mysterium_iniquitatis|mysterium iniquitatis]]*, el misterio del mal, que se manifiesta entre otras cosas en el mal moral. «Saco un extraño consuelo del hecho de que incluso los grandes santos retrocedieron». Incluso el gran Pablo puede decir en Romanos 7: «No hago el bien que quiero, sino el mal que no quiero». No es Pablo antes de la conversión, es San Pablo ya metido en su vida convertida. Cualquiera adicto a algo lo reconocerá: «Sé lo que debo hacer, sé que ese camino era terrible, y debo mantenerme fuera de él; pero precisamente lo que sé que no debo hacer, eso es lo que hago». Y entonces Pablo dice: «¿Quién me librará de este cuerpo de muerte? ¡Gracias a Dios por Jesucristo nuestro Señor!». Ese es el ritmo correcto.
 
 Cuando retrocedemos tenemos lo que Henri de Lubac llamó *cette claudication mystérieuse*, esta «cojera misteriosa». ¿De dónde viene? La tenemos incluso después de la conversión. O, como diría el Concilio de Trento, el [[fomes_peccati]] — la leña del pecado lista para volver a la vida — permanece incluso después del bautismo. Por eso hay que estar en guardia todo el tiempo: llevamos dentro deseos torcidos y malformados que permanecen tras la conversión, y por eso necesitamos la [[conversión_continua]]: volvemos una y otra y otra vez a los sacramentos.
 
@@ -115,13 +115,13 @@ O'Connor insistió en que «la convicción sin experiencia produce dureza». Si 
 
 ### Libros sobre conversión
 
-Barron recomienda: *La montaña de los siete círculos* (Merton), una de las grandes historias de conversión; las *[[san_agustín|Confesiones]]*, una de las mejores narraciones de alguien que sufre una conversión; *El peregrino ruso*, que encaja en el paradigma del converso; y *The Long Loneliness* de Dorothy Day, también muy buena.
+Barron recomienda: *La montaña de los siete círculos* (Merton), una de las grandes historias de conversión; las *[[agustín_de_hipona|Confesiones]]*, una de las mejores narraciones de alguien que sufre una conversión; *El peregrino ruso*, que encaja en el paradigma del converso; y *The Long Loneliness* de Dorothy Day, también muy buena.
 
 ## IV: «Id y haced creyentes de todas las naciones»
 
 Worner recuerda el encuentro de Emaús: Jesús explica las Escrituras y parte el pan, y los discípulos, que iban en la dirección equivocada, vuelven a Jerusalén. Barron ha escrito que esta historia «es una suerte de icono de la Misa, que incluye una suerte de Liturgia de la Palabra y una Liturgia de la Eucaristía, y concluye con un envío en misión». Su conversión fue alimentada por la Palabra, la Eucaristía y la Misión.
 
-La Palabra de Dios es, en cierto modo, toda ella conversión: su único fin es llevarnos a una mente nueva. La Biblia es una inmersión en un mundo que a menudo nos es extraño, y todo su propósito es atraernos a ese mundo y cambiar nuestra mente. Piensa en el joven [[san_agustín|Agustín]] convertido por la predicación de Ambrosio: este, sin saberlo, estaba transformando a quien transformaría toda la civilización occidental. La Palabra y la Liturgia están hechas para facilitar la conversión. Y se necesitan los tres componentes para sostenerse: así funciona la Misa. Entramos perdidos; lo primero que hacemos es decir «Señor, soy un pecador»; luego escuchamos la Palabra de Dios, que nos ayuda a ver cómo volver a estar en el camino; pasamos a la Liturgia de la Eucaristía porque así es como llegaremos a conocer plenamente: no vemos una exhibición, comemos y bebemos su Cuerpo y su Sangre; y, habiéndole visto de nuevo, partimos en misión: «Id en paz para amar y servir al Señor».
+La Palabra de Dios es, en cierto modo, toda ella conversión: su único fin es llevarnos a una mente nueva. La Biblia es una inmersión en un mundo que a menudo nos es extraño, y todo su propósito es atraernos a ese mundo y cambiar nuestra mente. Piensa en el joven [[agustín_de_hipona|Agustín]] convertido por la predicación de Ambrosio: este, sin saberlo, estaba transformando a quien transformaría toda la civilización occidental. La Palabra y la Liturgia están hechas para facilitar la conversión. Y se necesitan los tres componentes para sostenerse: así funciona la Misa. Entramos perdidos; lo primero que hacemos es decir «Señor, soy un pecador»; luego escuchamos la Palabra de Dios, que nos ayuda a ver cómo volver a estar en el camino; pasamos a la Liturgia de la Eucaristía porque así es como llegaremos a conocer plenamente: no vemos una exhibición, comemos y bebemos su Cuerpo y su Sangre; y, habiéndole visto de nuevo, partimos en misión: «Id en paz para amar y servir al Señor».
 
 ### Evangelizar con confianza
 

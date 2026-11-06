@@ -13,7 +13,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ## Conceptos básicos referenciados
 
 - [[cuerpo]] — las «escisiones» en el cuerpo (1 Cor 12, 24-25)
-- [[vergüena]] — la vergüena como base del respeto
+- [[vergüenza]] — la vergüena como base del respeto
 - [[eco_de_la_inocencia]] — el «negativo» impreso de la imagen originaria
 - [[respeto]] — el respeto paulino por los miembros más débiles
 - [[valoración]] — el hilo de valuación en la descripción realista

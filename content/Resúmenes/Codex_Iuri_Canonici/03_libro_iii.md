@@ -22,9 +22,9 @@ tags: ["resumen", "codex iuri canonici"]
 - [[ministerio_de_la_palabra]] — anunciar íntegra y fielmente el misterio de Cristo fundándose en Escritura, Tradición, liturgia, magisterio y vida de la Iglesia (cc. 756–761).
 - [[predicación]] / [[homilía]] — parte de la misma liturgia, reservada a sacerdote o diácono; obligatoria en las Misas dominicales con pueblo (cc. 762–772).
 - [[catequesis]] — para que la fe se haga viva, explícita y operativa; primer deber de los padres (cc. 773–780).
-- [[actividad_misional]] / [[catecumenado]] — toda la Iglesia es por naturaleza misionera; estatutos episcopales para los catecúmenos (cc. 781–792).
+- [[actividad_misionera]] / [[catecumenado]] — toda la Iglesia es por naturaleza misionera; estatutos episcopales para los catecúmenos (cc. 781–792).
 - [[educación_católica]] / [[escuela_católica]] — derecho-deber de los padres, de la Iglesia y libertad de elección escolar (cc. 793–806).
-- [[universidad_católica]] / [[facultades_eclesiásticas]] — erección y dirección reservadas a la autoridad eclesiástica; mandato para enseñar teología (cc. 807–821).
+- [[universidades_católicas]] / [[facultades_eclesiásticas]] — erección y dirección reservadas a la autoridad eclesiástica; mandato para enseñar teología (cc. 807–821).
 - [[instrumentos_de_comunicación_social]] / [[aprobación_eclesiástica_de_libros]] — vigilancia pastoral, censores, licencias y prohibiciones editoriales (cc. 822–832).
 - [[profesión_de_fe]] — obligación personal según fórmula aprobada para ocho categorías de fieles (c. 833).
 

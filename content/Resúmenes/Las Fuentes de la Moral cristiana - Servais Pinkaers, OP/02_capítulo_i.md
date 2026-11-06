@@ -12,7 +12,7 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 
 ## Conceptos básicos referenciados
 
-[[teología_moral]], [[moral_de_la_obligación]], [[imperativo_categórico]], [[bienaventuranza]], [[bienaventuranzas]], [[felicidad_humana]], [[fin_último]], [[virtud]], [[virtudes_teologales]], [[virtudes_morales]], [[dones_del_espíritu_santo]], [[gracia]], [[actos_humanos]], [[ley_natural]], [[reino_de_dios]], [[vida_eterna]], [[amor]], [[teología_moral_y_teología_dogmática]], [[ética_de_la_virtud]], [[santo_tomás_de_aquino]], [[san_agustín]]
+[[teología_moral]], [[moral_de_la_obligación]], [[imperativo_categórico]], [[bienaventuranza]], [[bienaventuranzas]], [[felicidad_humana]], [[fin_último]], [[virtud]], [[virtudes_teologales]], [[virtudes_morales]], [[dones_del_espíritu_santo]], [[gracia]], [[actos_humanos]], [[ley_natural]], [[reino_de_dios]], [[vida_eterna]], [[amor]], [[teología_moral_y_teología_dogmática]], [[ética_de_la_virtud]], [[santo_tomás_de_aquino]], [[agustín_de_hipona]]
 
 ## Contenido
 
@@ -76,7 +76,7 @@ La visión amorosa de Dios es la respuesta verdadera y plena de la Revelación a
 
 ##### 5. …y al fin último del hombre...
 
-«Fin último» es la meta suprema hacia la que el hombre orienta su vida y sus actos; corresponde al primer mandamiento de amar a Dios por encima de todo. La ordenación al fin último suscita una jerarquía de fines, organizando los actos en series ordenadas por las intenciones. La finalidad no es exterior a los actos: los penetra desde la intención voluntaria, su causa propia. El fin no es el término tras el cual ya no hay nada, sino la culminación que hace perfecta la acción: como dijo [[san_agustín|san Agustín]] jocosamente, no es el fin del pan (que ya no queda nada), sino el fin de un vestido (acabado y listo para usarse). La finalidad tiene dimensión personal y comunitaria: fue la finalidad común de fe, esperanza y amor la que formó la comunidad cristiana desde los orígenes.
+«Fin último» es la meta suprema hacia la que el hombre orienta su vida y sus actos; corresponde al primer mandamiento de amar a Dios por encima de todo. La ordenación al fin último suscita una jerarquía de fines, organizando los actos en series ordenadas por las intenciones. La finalidad no es exterior a los actos: los penetra desde la intención voluntaria, su causa propia. El fin no es el término tras el cual ya no hay nada, sino la culminación que hace perfecta la acción: como dijo [[agustín_de_hipona|san Agustín]] jocosamente, no es el fin del pan (que ya no queda nada), sino el fin de un vestido (acabado y listo para usarse). La finalidad tiene dimensión personal y comunitaria: fue la finalidad común de fe, esperanza y amor la que formó la comunidad cristiana desde los orígenes.
 
 ##### 6. ...por medio de la gracia, de las virtudes y de los dones...
 

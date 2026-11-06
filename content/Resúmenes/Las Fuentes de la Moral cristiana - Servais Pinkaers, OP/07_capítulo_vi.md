@@ -24,7 +24,7 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 - [[don_de_consejo]] — don ordenado a la paz del corazón
 - [[don_de_sabiduría]] — cumplimiento de los limpios de corazón
 - [[padre_nuestro]] — siete peticiones correlativas a grados y dones
-- [[san_agustín]] — intérprete del Sermón como ley de libertad
+- [[agustín_de_hipona]] — intérprete del Sermón como ley de libertad
 - [[catequesis]] — redescubrimiento de la catequesis moral primitiva
 - [[exégesis_patrística]] — método de lectura del Sermón en los Padres
 - [[teología_moral]] — disciplina que debe renovarse desde el Sermón

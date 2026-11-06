@@ -52,13 +52,13 @@ la santidad del bautizado.
 ## Relaciones doctrinales
 
 [[bautismo]], [[carácter_sacramental]], [[donatismo]], [[cisma]], [[herejía]],
-[[carácter_sacramental]], [[unidad_de_la_iglesia]], [[san_agustín]],
+[[carácter_sacramental]], [[unidad_de_la_iglesia]], [[agustín_de_hipona]],
 [[reconciliación]]
 
 ## Ver también
 
 [[bautismo]], [[carácter_sacramental]], [[donatismo]], [[herejía]],
-[[unidad_de_la_iglesia]], [[san_agustín]], [[reconciliación]]
+[[unidad_de_la_iglesia]], [[agustín_de_hipona]], [[reconciliación]]
 
 ## Referencias
 

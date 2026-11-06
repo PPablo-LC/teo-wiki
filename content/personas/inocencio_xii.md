@@ -29,7 +29,7 @@ La condena estableció que la [[esperanza]] es virtud teologal distinta y necesa
 
 ## Otras decisiones
 
-Inocencio XII emitió la bula *Romanum decet Pontificem* (1692) contra el nepotismo. También se pronunció sobre la controversia jansenista, manteniendo la condena de las tesis de [[jansenio]].
+Inocencio XII emitió la bula *Romanum decet Pontificem* (1692) contra el nepotismo. También se pronunció sobre la controversia jansenista, manteniendo la condena de las tesis de [[cornelio_jansenio]].
 
 ## Relaciones
 

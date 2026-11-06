@@ -95,7 +95,6 @@ La familia es «la primera y fundamental escuela de paz» [Muj 06 §7]. La madre
 La familia es «el lugar normal y originario» para la formación de los hijos en las virtudes y, por tanto, en la castidad; como [[iglesia_doméstica]] es «*la escuela más rica en humanidad*» (SHVS 48). Las ciencias psicológicas y la experiencia concuerdan en destacar «la importancia decisiva... del *clima afectivo que reina en la familia*», especialmente en los primeros años (SHVS 50). La familia cristiana es «capaz de ofrecer una atmósfera impregnada de aquel amor a Dios que hace posible el auténtico don recíproco»; es «la primera y fundamental escuela de socialidad» (SHVS 52). El papel de la familia es decisivo en el nacer de las vocaciones; donde existe una pastoral familiar adecuada «florecen las vocaciones» (SHVS 26). La familia debe ser ante todo «casa de fe y de oración» (SHVS 62). Es «el mejor ambiente para cumplir el deber de asegurar una gradual educación de la vida sexual», con «reservas afectivas capaces de llevar a aceptar, sin traumas, aun las realidades más delicadas» (SHVS 64).
 
 
-
 ### Según Mons. Tihamér Tóth — El matrimonio cristiano (EMC)
 
 Tóth abre con la familia como **célula de la sociedad**: fundamento del edificio cultural; donde la familia se disuelve, la sociedad pierde su papel en la historia [EMC, cap. 1]. El hogar feliz se sostiene en **la mesa familiar, el crucifijo y la cuna** [EMC, cap. 12].
@@ -175,10 +174,15 @@ lugar primero: allí se aprende la **[[castidad]]**, la
 **[[amistad_cristiana]]** y la confianza en la **[[providencia]]**, y allí se
 sana la **[[vergüenza]]** que el hijo no puede sanar solo.
 
+### Según Word on Fire (WOF)
+
+La homilía sobre 1 Sam 1,9-28 advierte que los «valores familiares» bíblicos no son los sentimentales que solemos esperar, sino duros y exigentes. Ana, humillada por Elí, obtiene a Samuel tras años de súplica y, cumplido el voto, lo entrega al templo: pese al vínculo casi místico con el hijo deseado, **lo deja ir** para que encuentre su misión. En la fiesta de la Sagrada Familia el texto se lee junto al de María y José buscando a Jesús durante tres días: también allí un hijo permanece en el templo, y la respuesta del niño —«¿no sabíais que debía estar en la casa de mi Padre?»— relativiza la primacía del sentimiento.
+
+Las palabras de Jesús sobre la familia —«deja que los muertos entierren a sus muertos», «¿quiénes son mi madre y mis hermanos?», «no he venido a traer paz sino espada»— insisten en la recta priorización de los bienes espirituales: escuchar la palabra de Dios y hacer su voluntad no puede quedar subordinado a ningún otro bien. De ahí los desórdenes típicos: el padre que realiza sus sueños frustrados en el hijo, la madre que lo empuja a la perfección sin ver que se derrumba, la paz superficial que tolera la disfunción, el hijo que usa a los padres como seguridad. La familia ha de ser, con Juan Pablo II, una *ecclesiola* donde el culto a Dios es el valor supremo y el discernimiento de la misión, la tarea suprema.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]
-
 
 ## Analizado para
 

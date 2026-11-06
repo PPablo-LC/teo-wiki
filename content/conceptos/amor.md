@@ -62,10 +62,15 @@ El amor misericordioso tiene «la forma interior del amor que en el Nuevo Testam
 
 Melina (Caps. I, II, Introducción) presenta el amor como prioridad sobre el deseo y como principio de la acción. El amor es la epifanía de Dios en la acción: «solo quien ama conoce el bien auténtico». La interpersonalidad del amor es una dimensión esencial de la acción moral. El amor es el dinamismo que une a la persona con Dios y con los demás.
 
+### Según Word on Fire (WOF)
+
+La homilía sobre 1 Cor 13 sostiene que el amor es la mayor de las virtudes teológicas porque, mientras la fe abre la puerta a Dios y la esperanza lo señala como fin, «el amor es lo que Dios es»: por eso la fe y la esperanza cesarán en el cielo y el amor no. Amar no es un sentimiento —la cultura romántica confunde ambas cosas—, sino querer el bien del otro en cuanto otro, desear realmente lo que le conviene y actuar en consecuencia; de ahí que el amor al enemigo sea su prueba más plena, porque en él no cabe el egoísmo indirecto.
+
+Barron recorre después las notas paulinas: la paciencia como señal de que no se calcula según la justicia estricta; la ausencia de envidia, ilustrada con la confesión de Gore Vidal («cuando un amigo mío triunfa, algo en mí muere») y con la perversa proporcionalidad del celo, que crece con la cercanía; la ausencia de engreimiento en una sociedad de suma cero que nos educa en lo contrario; la mansedumbre ante la ira, con los iracundos de Dante ahogados en humo porque la ira nubla la visión y estrangula la palabra; y la alegría en la verdad frente a la *Schadenfreude*, ese gozo por el mal ajeno que se convierte en evangelio de murmuración. La conclusión es escatológica: no llevaremos al cielo títulos ni logros religiosos, pero sí la calidad de nuestro amor.
+
 ## Relaciones doctrinales
 
 [[caridad]], [[virtudes_teologales]], [[virtud_de_la_caridad]], [[amor_conyugal]], [[amor_propio]], [[unión_transformante]]
-
 
 ## Analizado para
 

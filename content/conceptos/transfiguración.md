@@ -82,6 +82,12 @@ Benedicto XVI dedica el capítulo 5 de *Jesús de Nazaret I* a la Transfiguraci�
 
 La Transfiguración es el «sacramento» de nuestra segunda regeneración (la del cuerpo en la resurrección de los muertos), como el bautismo lo es de la primera. Sigue a la primera predicción de la pasión para mostrar a los Apóstoles que la pasión lleva a la gloria. La luz que la ilumina no refleja una luz externa sino que brota de dentro; el brillo de los vestidos representa la *claritas* de los santos, «que brillarán como el sol en el Reino de su Padre» (Mt 13,43). Moisés y Elías a los lados muestran que Jesús no es Elías ni un profeta, sino el Cristo; el Padre en la voz, el Hijo en la gloria, el Espíritu en la nube luminosa: la Trinidad de nuevo revelada.
 
+### Según Word on Fire (WOF)
+
+Barron sigue la cuestión que Tomás de Aquino dedica a la Transfiguración en la IIIª Parte de la *Summa*. Convenía que Cristo se manifestara en su gloria a los apóstoles escogidos porque quien recorre un camino arduo necesita ver la meta: el camino arduo es esta vida, con sus fracasos y angustias, y sin un vislumbre de la gloria el peregrino desespera; por eso Jesús, camino de la cruz, deja que la luz lo atraviese un instante y permite que el final aparezca en medio del trayecto.
+
+La *claritas* del cuerpo glorioso —junto con la impasibilidad, la agilidad y la sutileza— explica por qué la santidad se asocia a la luz: los santos ofrecen una rejilla interpretativa de la experiencia, pero sobre todo la luz es bella y la santidad es bella sobre todo, de modo que Cristo se transfigura para «enamorarnos» con la perspectiva de nuestra propia transfiguración. Moisés —la Ley— y Elías —la profecía— se desvanecen ante quien es la Ley hecha carne y la Palabra divina en persona; Pedro, Juan y Santiago están allí no por ser los más listos, sino por haber amado más, por haber comprendido a Jesús en la línea que intuyó Balthasar: «captarlo» es cuestión de intensidad del afecto, no de claridad mental, y Santiago probará ese amor con el martirio.
+
 ## Distinciones importantes
 
 - Transfiguración como anticipación de la resurrección vs. resurrección misma

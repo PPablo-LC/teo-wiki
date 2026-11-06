@@ -27,7 +27,7 @@ San Gregorio Magno, como [[romano_pontífice]], ejerció el primado petrino en u
 
 ## Ver también
 
-[[romano_pontífice]], [[patrística]], [[santos_padres]], [[magisterio]], [[san_agustín]], [[doctores_de_la_iglesia]]
+[[romano_pontífice]], [[patrística]], [[santos_padres]], [[magisterio]], [[agustín_de_hipona]], [[doctores_de_la_iglesia]]
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

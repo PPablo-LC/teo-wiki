@@ -22,7 +22,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 
 Rozann Lee examina la tradición católica de arte que representa el martirio: san Bartolomé desollado, santa Ágata con los pechos arrancados con alicates, san Pedro de Verona con un cuchillo clavado en el cráneo, san Dionisio recogiendo su propia cabeza decapitada para predicar. Lo misterioso de estas obras es la ausencia inexplicable de terror y la paz en los rostros de los mártires — sin gritos, sin struggle, apenas una mueca. Muchas de estas imágenes son devocionales discretas en capillas laterales de iglesias europeas, donde los fieles las contemplan con total comodidad.
 
-Lee plantea la pregunta: ¿alguna vez pensamos en nuestro propio martirio? Cita a [[flannery_oconnor]] en «A Temple of the Holy Ghost»: una persona que pensaba que podría ser mártir si la mataran rápido, pero que no sabía si soportaría ser quemada en aceite o despedazada por leones.
+Lee plantea la pregunta: ¿alguna vez pensamos en nuestro propio martirio? Cita a [[flannery_o'connor]] en «A Temple of the Holy Ghost»: una persona que pensaba que podría ser mártir si la mataran rápido, pero que no sabía si soportaría ser quemada en aceite o despedazada por leones.
 
 ### The Courage of the Martyrs
 

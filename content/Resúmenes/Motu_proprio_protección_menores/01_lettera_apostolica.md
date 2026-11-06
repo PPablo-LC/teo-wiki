@@ -12,7 +12,7 @@ tags: ["resumen", "motu proprio protección menores", "protección_menores", "de
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[protección_de_los_menores]] — tutela de los menores y personas vulnerables como parte del mensaje evangélico
+- [[protección_de_menores]] — tutela de los menores y personas vulnerables como parte del mensaje evangélico
 - [[sigilo_sacramental]] — salvaguardado expresamente en el deber de denuncia (arts. 2)
 - [[obligación_de_denuncia]] — deber de denunciar los abusos a las autoridades competentes
 - [[derechos_de_la_víctima]] — derecho de las víctimas a ser acogidas, escuchadas y acompañadas

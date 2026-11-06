@@ -48,7 +48,6 @@ Distingue grados de santidad: incipiente (principiantes, vía purgativa), progre
 
 [TPCr, Parte II, Cap. 2]
 
-
 ### Según León XIV (JorSant-2026)
 
 En su mensaje a los sacerdotes para la Jornada por la Santificación Sacerdotal, León XIV desarrolla la santidad desde la llamada bíblica «Sean santos, porque yo, el Señor su Dios, soy santo» (Lv 19,2; 1 P 1,16). Afirma que la santidad «no es una opción entre tantas ni un ideal abstracto; tiene que ver con la identidad misma de cada persona que quiere participar en la vida del Resucitado». Dios invita a participar de su misma santidad dejándose modelar según su Corazón.
@@ -124,6 +123,20 @@ hacemos por algo, vosotros lo hacéis a alguien”» (03, 205).
 
 Melina (Introducción) presenta la santidad como vocación y como criterio de la moral cristiana. La moral cristiana es un camino de perfección y santidad. VS propone la vocación a la santidad como criterio de la moral.
 
+### Según Word on Fire (WOF)
+
+La homilía sobre Is 6,1-8 expone la santidad como la diferencia divina por excelencia. El «Santo, Santo, Santo» de los serafines —cuyo nombre significa «fuego»— no canta una distancia espacial o metafísica, sino una alteridad que trasciende e incluye la distinción entre cercanía y lejanía ordinarias: con Kathryn Tanner, Dios es «otherly other». El trono alto convive con la orla del manto que llena el templo, y el humo que hace cerrar los ojos recuerda que «el que es» no puede aparecer como objeto de estudio; Ratzinger comparaba los tratados sobre Dios con el incienso litúrgico, que oscurece el objeto y frustra al que intenta conocerlo.
+
+La santidad se comunica por participación: Dios no es un ser justo sino la justicia misma, de modo que las criaturas justas, verdaderas y buenas son «serafines» encendidos con su perfección —«los ángeles están en todas partes, si tenemos ojos para ver»—. El encuentro con el Dios santo no deja intacto: sacude los cimientos y descubre el pecado propio (Chesterton: santo es quien sabe que es pecador; Pedro: «apártate de mí»), pero no para revolcarse en la culpa, sino para ser purificado por la brasa del altar y enviado: nadie en la Biblia recibe una experiencia de Dios sin una misión. En la Transfiguración, Tomás explica la *claritas* del cuerpo glorioso y la razón última de que la santidad se asocie a la luz: la luz es bella y la santidad es bella sobre todo, de modo que Cristo se transfigura para enamorarnos con la perspectiva de nuestra propia transfiguración.
+
+### Según The Strangest Way (STR)
+
+El primer capítulo de Barron desemboca en una tesis sobre la santidad que recorre el libro: ser santo no es ser una buena persona, sino participar de la vida divina. Cita a Godfrey Diekmann, *peritus* del Vaticano II, que a los noventa y dos años, golpeando con el bastón la rodilla de Barron, respondió a la pregunta de qué defendería hoy: «¡la deificación!». Los padres griegos —Orígenes, Gregorio de Nisa, Basilio— tenían como motivo central la *theiosis*: «el fin de la vida cristiana no es hacernos simplemente mejores, éticamente rectos, sino divinos, conformes a una participación en la vida de la Trinidad. Ser santo, arder con el fuego de la vida misma de Dios, es el punto».
+
+Su definición más citada es la de Chesterton: santo «solo significa un hombre que realmente sabe que es pecador». Barron la desarrolla con la imagen del vidrio y el sol: cuando la luz de Dios da de lleno en el alma se ven sus manchas, de modo que son los santos —los que orientaron la vida hacia la luz— quienes tienen conciencia más aguda de lo que aún está incompleto; «no son los neuróticos sino los santos quienes pueden decir que son pecadores». Y añade la sentencia de Cordelia en *Brideshead*: «nadie es nunca santo sin sufrimiento», porque la santidad se reduce al amor, al olvido de sí.
+
+La santidad tiene también una pedagogía estética. Como el béisbol o la pintura, el cristianismo es un mundo al que se entra porque se percibe como bello: «de lo bello (“¡es espléndido!”) a lo bueno (“¡debo jugarlo!”) a lo verdadero (“¡es recto!”)». Una vez que la belleza de la fe ha prendido, el devoto se somete a sus ritmos, instituciones, historia y drama, y «habiendo practicado, habiendo trabajado eso en su alma y en su carne, lo conocerá». Balthasar, citado por Barron, lo dice sin rodeos: los únicos teólogos verdaderos son los santos, los que han practicado la vida de Jesús.
+
 ## Distinciones importantes
 
 - **Santidad ontológica**: la gracia santificante en el alma (santidad de estado).
@@ -135,6 +148,13 @@ Melina (Introducción) presenta la santidad como vocación y como criterio de la
 
 La santidad se funda en la [[gracia_santificante]], se expresa en las [[virtudes_infusas]] (especialmente la [[caridad]]), se perfecciona con los [[dones_del_espíritu_santo]] y se nutre de los [[sacramentos]]. Se relaciona con la [[perfección_cristiana]], la [[vida_de_oración]] y la [[comunión_de_los_santos]].
 
+### Según Centered (CEN)
+
+Kierkegaard decía que el santo es alguien cuya vida gira en torno a una sola cosa; el cristiano, precisa Barron, es quien en el nivel más fundamental de su ser está centrado en el único Dios de Jesucristo. Los rosetones góticos lo expresan en vidrio: en el centro está siempre Cristo —también cuando parece ser María, que lleva al Niño— y en torno a él giran los medallones con los santos; cuando la vida se centra en Cristo, todas las energías del alma caen en un patrón bello y satisfactorio.
+
+Lo contrario es la concupiscencia agustiniana: hemos sido hechos para Dios y nada finito nos sacia, de modo que al enganchar el deseo infinito a algo menor que Dios entramos en una espiral autodestructiva que hoy llamaríamos adicción. De ahí el ayuno: callar los deseos inmediatos para que despierte el deseo del centro. La imagen más poderosa es la tempestad calmada: el Cristo dormido en la barca representa ese lugar del alma donde estamos enraizados en el poder divino, en paz aunque todo lo demás se agite.
+
+El otro movimiento es saberse pecador: la proximidad a la luz revela las manchas, como el parabrisas al sol del mediodía; conocerlo no humilla, libera, y el engaño más peligroso es «estoy bien, tú estás bien». El tercer paso es descubrir que la vida no es sobre uno: frente al «ego-drama», el «teo-drama» de Balthasar, en el que cada uno tiene un papel —a veces mínimo y decisivo— que solo Dios ha escrito. El infierno, entonces, no es un castigo externo sino la elección libre de vivir fuera del amor; como decía Lewis, es el mismo amor de Dios el que enciende su fuego cuando se lo resiste. Las virtudes completan el cuadro: la libertad como disciplina del deseo, la «física espiritual» que hace que cada acto configure el carácter, y la caridad como participación en la vida misma de Dios, que es amor.
 
 ## Analizado para
 

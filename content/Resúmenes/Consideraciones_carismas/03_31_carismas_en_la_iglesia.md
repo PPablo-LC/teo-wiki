@@ -15,7 +15,7 @@ tags: ["resumen", "consideraciones carismas"]
 - [[carismas]] — dones especiales que el Espíritu distribuye «como él quiere» para el bien de la comunidad
 - [[gracia_santificante]] — gracia que constituye la vida sobrenatural, con las virtudes teologales y dones del Espíritu
 - [[virtudes_teologales]] — fe, esperanza y caridad, dones sobrenaturales del alma
-- [[virtudes_adquiridas]] — virtudes alcanzadas con la gracia actual de Dios
+- [[virtud_adquirida]] — virtudes alcanzadas con la gracia actual de Dios
 - [[virtudes_infusas]] — virtudes dadas directamente por Dios junto con la gracia
 - [[cuerpo_místico_de_cristo]] — la Iglesia como cuerpo del que Cristo es cabeza
 - [[lumen_gentium]] — Constitución Dogmática del Concilio Vaticano II sobre la Iglesia
@@ -28,7 +28,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 ### Gracias fundamentales y dones especiales
 
-Existen gracias fundamentales para todo cristiano: la [[gracia_santificante]] (con virtudes teologales y dones del Espíritu), las [[virtudes_adquiridas]] con la gracia actual, y las [[virtudes_infusas]]. Además, el Espíritu distribuye dones especiales «como él quiere» (1 Co 12, 11) para el bien de la comunidad. La Catecismo señala que «extraordinarios o sencillos y humildes, los carismas son gracias del Espíritu Santo» ordenados a la edificación de la Iglesia (CEC 799).
+Existen gracias fundamentales para todo cristiano: la [[gracia_santificante]] (con virtudes teologales y dones del Espíritu), las [[virtud_adquirida]] con la gracia actual, y las [[virtudes_infusas]]. Además, el Espíritu distribuye dones especiales «como él quiere» (1 Co 12, 11) para el bien de la comunidad. La Catecismo señala que «extraordinarios o sencillos y humildes, los carismas son gracias del Espíritu Santo» ordenados a la edificación de la Iglesia (CEC 799).
 
 ### Enseñanza de san Pablo y del Concilio Vaticano II
 

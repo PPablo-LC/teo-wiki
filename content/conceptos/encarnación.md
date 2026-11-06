@@ -251,6 +251,14 @@ La unión en Cristo es **personal**: ni esencial (Eutiques, que confunde las nat
 
 La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_santificante]] como participación de la naturaleza divina, y la razón de la [[mediación_de_cristo]]. Se relaciona con la [[concepción_virginal]], la [[maternidad_divina]] de María, y el [[cuerpo_místico]] del cual Cristo es Cabeza.
 
+### Según Centered (CEN)
+
+Barron adopta la tesis de Newman de que «el gran principio del catolicismo es la Encarnación», el hacerse carne de Dios: la Palabra por la que vino a ser el universo no se quedó en el cielo, sino que entró en este mundo de cuerpos, en esta historia manchada y llena de lágrimas: «Y la Palabra se hizo carne y habitó entre nosotros» (Jn 1,14).
+
+El relato lucano del nacimiento no es, como recordaba Raymond Brown, un cuento inocente para niños: el contraste es entre César Augusto, el mejor alimentado del mundo antiguo, y el verdadero rey, nacido en una cueva y acostado «en un pesebre» (Lc 2,7), el lugar donde comen los animales. Jesús ha venido a ser comida para un mundo hambriento: César existe para ser alimentado; Jesús, para ser comido. De ahí la fórmula patrística del gran intercambio: Dios se hizo hombre para que el hombre se hiciera Dios.
+
+La Encarnación es además la prueba de la no-competitividad: si Dios se hizo hombre sin dejar de ser Dios y sin dañar a la criatura, no es un rival de su creación; frente a Zeus o Dioniso, que irrumpen destruyendo, el Dios verdadero hace que la criatura sea más sí misma, «encendida pero no consumida» (cf. Gal 2,20). Hay coinherencia entre divinidad y humanidad, y por eso nada humano queda ajeno: nacimiento, amistad, traición, angustia y muerte son rutas de acceso a Dios. Ireneo lo resume: *Gloria Dei homo vivens*. Pero no basta leerlo: con Eckhart, «si la Palabra no nace en nosotros hoy, de nada sirve leer que se encarnó»; Jesús no busca adoradores sino participantes (Jn 15,5; 6,56). María es como la luna, cuya luz refleja una luz mayor (Sheen), y el catolicismo mantiene juntos los extremos —rojo y blanco, nunca rosa— porque esa tensión nace de la paradoja de la Encarnación.
+
 ## Analizado para
 
 - [[joe_mcinerny_humble_greatness]]

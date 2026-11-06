@@ -50,7 +50,7 @@ Cada retrato ilustra un matiz de esta síntesis: Kolbe y Goretti el martirio, Ca
 
 ## Artículos generados en el wiki
 
-- Personas: [[benedetta_bianchi_porro]], [[san_camillo_de_lellis]], [[san_giuseppe_benedetto_cottolengo]], [[santa_maría_goretti]]
+- Personas: [[benedetta_bianchi_porro]], [[san_camilo_de_lelis]], [[san_giuseppe_benedetto_cottolengo]], [[santa_maría_goretti]]
 - Enriquecidos: [[san_francisco_de_asís]], [[san_juan_bosco]], [[san_juan_maría_vianney]], [[beata_edith_stein]], [[tomás_moro]], [[san_maximiliano_kolbe]], [[santidad]], [[martirio]], [[caridad]], [[sufrimiento]], [[conciencia_moral]], [[providencia]], [[conversión]], [[sacerdocio]], [[eucaristía]], [[humildad]], [[vocación_a_la_santidad]], [[pureza]], [[educación_cristiana]], [[iglesia_y_estado]], [[evangelización]], [[penitencia]], [[libertad_religiosa]], [[noche_oscura]], [[gracia_santificante]]
 - Nuevos conceptos: [[devoción_mariana]], [[muerte_cristiana]], [[fidelidad_al_papa]], [[cultura_de_la_muerte]], [[humanismo_cristiano]], [[dignidad_de_la_persona_enferma]], [[obras_de_caridad]], [[sistema_preventivo]]
 

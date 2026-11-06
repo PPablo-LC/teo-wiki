@@ -17,7 +17,7 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 - [[moral_patrística]] — moral del período de los Padres
 - [[patrística]] — período histórico estudiado
 - [[santos_padres]] — autores de la moral patrística
-- [[san_agustín]] — cumbre de la teología moral patrística
+- [[agustín_de_hipona]] — cumbre de la teología moral patrística
 - [[caridad]] — centro de la moral de los Padres y de san Agustín
 - [[orden_de_la_caridad]] — distinción agustiniana del uso y goce
 - [[fruición]] — gozar de Dios como fin último

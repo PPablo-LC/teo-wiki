@@ -25,7 +25,7 @@ El Catecismo explica que la iniciación cristiana de adultos comienza con la ent
 
 ### Según EAC-18 — Word on Fire Institute
 
-Andrew Allen presenta los **rito de iniciación cristiana de adultos** como la celebración del don de la [[gracia_divina]] en la conversión: el itinerario ritual —la entrada en el [[catecumenado]], los escrutinios, los ritos de entrega y la [[mistagogia]] (RCIA 244)— ordena al neófito a participar en el misterio pascual de Cristo [EAC-18, 16_feature_allen.md]. La conversión que el rito acompaña es respuesta al primer anuncio del [[kerygma]]: «Conviértanse y crean en el Evangelio» (Mc 1,15; CEC 1432) [EAC-18, 16_feature_allen.md].
+Andrew Allen presenta los **rito de iniciación cristiana de adultos** como la celebración del don de la [[gracia_divina]] en la conversión: el itinerario ritual —la entrada en el [[catecumenado]], los escrutinios, los ritos de entrega y la [[mistagogía]] (RCIA 244)— ordena al neófito a participar en el misterio pascual de Cristo [EAC-18, 16_feature_allen.md]. La conversión que el rito acompaña es respuesta al primer anuncio del [[kerygma]]: «Conviértanse y crean en el Evangelio» (Mc 1,15; CEC 1432) [EAC-18, 16_feature_allen.md].
 
 Robert Barron insiste en que, en los ritos de iniciación, es la gracia la que precede y obra: la Iglesia bautiza porque Cristo ha muerto y resucitado por el hombre, y los ritos son el cauce sacramental por el que el Señor incorpora al alma a su [[cuerpo_místico]] [EAC-18, 18_spotlight_barron.md].
 
@@ -39,11 +39,11 @@ La sección «Soul» añade que la liturgia de iniciación es uno de los lugares
 
 ## Relaciones doctrinales
 
-Se relaciona con [[iniciación_cristiana]], [[catecumenado]], [[bautismo]], [[confirmación]], [[eucaristía]], [[catequesis]], [[mistagogia]], [[vigilia_pascual]]
+Se relaciona con [[iniciación_cristiana]], [[catecumenado]], [[bautismo]], [[confirmación]], [[eucaristía]], [[catequesis]], [[mistagogía]], [[vigilia_pascual]]
 
 ## Ver también
 
-[[iniciación_cristiana]], [[catecumenado]], [[bautismo]], [[confirmación]], [[eucaristía]], [[mistagogia]]
+[[iniciación_cristiana]], [[catecumenado]], [[bautismo]], [[confirmación]], [[eucaristía]], [[mistagogía]]
 
 ## Referencias
 

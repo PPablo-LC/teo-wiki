@@ -13,7 +13,7 @@ tags: ["resumen", "derecho_canónico", "cic_1983", "patrimonio_eclesiástico", "
 ## Conceptos básicos referenciados
 
 - [[bienes_temporales]] — Assets de la Iglesia para el cumplimiento de sus fines
-- [[personas_jurídicas]] — Sujetos con capacidad canónica para realizar negocios jurídicos
+- [[persona_jurídica]] — Sujetos con capacidad canónica para realizar negocios jurídicos
 - [[patrimonio_eclesiástico]] — Conjunto de bienes pertenecientes a la Iglesia
 - [[derecho_canónico]] — Derecho propio de la Iglesia católica
 - [[potestad_pontificia]] — Autoridad suprema del Romano Pontífice sobre los bienes de la Iglesia

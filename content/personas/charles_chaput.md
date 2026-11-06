@@ -53,11 +53,11 @@ la conciencia política y la prioridad del derecho a la vida.
 
 ## Ver también
 
-- [[priests_what_lies_ahead]] [[sacerdocio]] [[cura_de_almas]] [[pastor]]
+- [[priests_what_lies_ahead]] [[sacerdocio]] [[cura_de_almas]] [[pastor_y_rebaño]]
 - [[paternidad_sacerdotal]] [[predicación]] [[oración_sacerdotal]]
 - [[configuración_con_cristo]] [[laicado]] [[clericalismo]]
 - [[conciencia_moral]] [[doctrina_social_de_la_iglesia]]
-- [[comunidad_cristiana]] [[presencia_pública_de_los_cristianos]]
+- [[comunidad]] [[presencia_pública_de_los_cristianos]]
 - [[celibato_sacerdotal]] [[eucaristía]] [[fraternidad_sacerdotal]]
 
 ## Referencias

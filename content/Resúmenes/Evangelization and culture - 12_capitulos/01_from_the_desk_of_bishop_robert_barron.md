@@ -16,7 +16,7 @@ tags: ["resumen", "evangelization_and_culture_12", "infancia", "humildad", "rein
 - [[humildad]] — virtud ejemplificada en el niño, opuesta a la inflación del ego
 - [[ego]] — construcción pecaminosa que el ser humano adopta desde temprana edad
 - [[niñez_espiritual]] — ser "como niños" para entrar en el Reino (Mt 18,2-5)
-- [[santo_tomás_de_acuino]] — ejemplo de gran intelectual descrito como "childlike"
+- [[santo_tomás_de_aquino]] — ejemplo de gran intelectual descrito como "childlike"
 - [[evangelización]] — contexto de la revista Evangelization & Culture
 
 ## Contenido

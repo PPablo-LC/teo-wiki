@@ -20,7 +20,7 @@ tags: ["resumen", "doctrina_social", "comunidad_política", "autoridad", "democr
 - [[libertad_religiosa]] — Derecho humano fundamental
 - [[subsidiariedad]] — Principio que regula relaciones entre Estado y sociedad civil
 - [[sociedad_civil]] — Conjunto de relaciones autónomas del ámbito político
-- [[objeción_conciencia]] — Derecho a desobedecer leyes injustas
+- [[objeción_de_conciencia]] — Derecho a desobedecer leyes injustas
 - [[ley_natural]] — Referencia normativa del derecho positivo
 
 ## I. ASPECTOS BÍBLICOS

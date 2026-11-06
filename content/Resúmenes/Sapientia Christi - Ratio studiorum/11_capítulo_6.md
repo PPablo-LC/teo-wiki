@@ -12,7 +12,7 @@ tags: ["resumen", "ratio_studiorum", "sapientia_christi", "agentes_de_formación
 
 ## Conceptos básicos referenciados
 
-- [[agentes_de_la_formación]] — Agentes responsables de la formación académica
+- [[14_agentes_de_la_formación]] — Agentes responsables de la formación académica
 - [[director_general]] — Primer responsable de la formación intelectual
 - [[director_territorial]] — Responsable a nivel territorial
 - [[prefecto_de_estudios]] — Prefecto general, territorial y de casa

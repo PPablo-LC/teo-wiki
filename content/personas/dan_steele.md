@@ -19,7 +19,7 @@ En el Issue 19 de *Evangelization & Culture* publica en la sección *Soul* la s�
 
 - **El «Restless Heart Syndrome»** (RHS): la inquietud del corazón humano —«el anhelo infinito, la inquietud del deseo, el alcance más allá de este mundo hacia las estrellas en floración»— aparece patologizado como una enfermedad mortal. La IA «finalmente descifró el código del espíritu humano: el deseo interminable… a todos les hartó».
 - **El Gonkulator Modulator**: un dispositivo «superinteligente» transcraneal que estimula el cerebro con pulsos magnéticos según algoritmos de la clínica de bienestar *Unity Now*. Los pacientes deben evitar atardeceres y música, y el tratamiento promete cerrar «el agujero en el centro de su ser»; el punto álgido, la temida fase FDM (*Fantasner Danger Meridian*), produce «sentimientos de falta de cabeza».
-- **La ironía final**: al terminar las doce semanas, el sr. Trulove proclama que se siente «más y más en casa en el universo» y que «el agujero en el centro de mi ser se ha cerrado»; pero nada más salir, sintiendo un hormigueo en la nuca, vuelve a la recepción a preguntar si ofrecen *boosters*. La inquietud constitutiva del alma es inerradicable: una humanidad sin deseo de Dios dejaría de ser humana; el cuento, con humor burlón y tono satírico, apunta a la doctrina del corazón inquieto hasta que descansa en Dios ([[san_agustín]]) y a la vocación del hombre al [[deseo_de_dios]].
+- **La ironía final**: al terminar las doce semanas, el sr. Trulove proclama que se siente «más y más en casa en el universo» y que «el agujero en el centro de mi ser se ha cerrado»; pero nada más salir, sintiendo un hormigueo en la nuca, vuelve a la recepción a preguntar si ofrecen *boosters*. La inquietud constitutiva del alma es inerradicable: una humanidad sin deseo de Dios dejaría de ser humana; el cuento, con humor burlón y tono satírico, apunta a la doctrina del corazón inquieto hasta que descansa en Dios ([[agustín_de_hipona]]) y a la vocación del hombre al [[deseo_de_dios]].
 
 ## Perspectivas por fuente
 
@@ -29,11 +29,11 @@ Autor de ficción en el número dedicado a la IA: su sátira dramatiza el diagn�
 
 ## Relaciones
 
-[[corazón]], [[deseo_de_dios]], [[san_agustín]], [[inteligencia_artificial]], [[anestesia_espiritual]], [[santidad]]
+[[corazón]], [[deseo_de_dios]], [[agustín_de_hipona]], [[inteligencia_artificial]], [[anestesia_espiritual]], [[santidad]]
 
 ## Ver también
 
-[[deseo_de_dios]], [[corazón]], [[san_agustín]], [[inteligencia_artificial]], [[vocación_a_la_santidad]]
+[[deseo_de_dios]], [[corazón]], [[agustín_de_hipona]], [[inteligencia_artificial]], [[vocación_a_la_santidad]]
 
 ## Referencias
 

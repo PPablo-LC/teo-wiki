@@ -22,7 +22,7 @@ El odio es el pecado directamente opuesto a la caridad. Puede manifestarse de di
 - Palabras de desprecio o insulto
 - Acciones que causan daño injusto
 
-Jesús condena expresamente el odio, incluso el interno: "Todo el que se enoja con su hermano será reo del juicio" ([[mateo|Mt]] 5,22). El cristiano está obligado a amar incluso a sus [[enemigos_del_alma|enemigos]] y a pedir el [[perdón]] para quienes le ofenden.
+Jesús condena expresamente el odio, incluso el interno: "Todo el que se enoja con su hermano será reo del juicio" ([[san_mateo|Mt]] 5,22). El cristiano está obligado a amar incluso a sus [[enemigos_del_alma|enemigos]] y a pedir el [[perdón]] para quienes le ofenden.
 
 ## Perspectivas por fuente
 

@@ -12,7 +12,7 @@ tags: ["resumen", "redemptoris mater"]
 
 ## Conceptos básicos referenciados
 
-- [[mediación_materna|Mediación materna]] — tema de la tercera parte
+- [[07_mediación_materna|Mediación materna]] — tema de la tercera parte
 
 ## Contenido
 

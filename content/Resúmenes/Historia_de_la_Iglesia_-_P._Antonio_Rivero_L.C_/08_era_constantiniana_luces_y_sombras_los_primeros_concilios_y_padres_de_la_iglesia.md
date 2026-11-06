@@ -16,7 +16,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c"]
 - [[era_constantiniana]] — Período de la paz y los privilegios de la Iglesia tras la conversión de Constantino.
 - [[cesaropapismo]] — Intromisión del emperador en los asuntos eclesiásticos, iniciada por Constantino.
 - [[concilio_de_nicea]] — Primer concilio ecuménico (325), convocado por Constantino; condenó el [[arrianismo]].
-- [[concilio_de_constantinopla]] — Concilio de 381 que definió la divinidad del Espíritu Santo.
+- [[concilio_de_constantinopla_i]] — Concilio de 381 que definió la divinidad del Espíritu Santo.
 - [[credo_niceno]] — Símbolo de fe del concilio de Nicea: Cristo "consustancial (homoousios) al Padre".
 - [[credo_niceno-constantinopolitano]] — Credo ampliado por el concilio de Constantinopla.
 - [[trinidad]] — Dogma de la consustancialidad del Hijo y la divinidad del Espíritu Santo, explicitado por los concilios y los Padres.

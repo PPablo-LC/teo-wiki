@@ -3,6 +3,7 @@ type: Persona
 title: John Henry Newman
 tags: ["personas", "teólogos", "santos"]
 timestamp: 2026-09-07
+aliases: ["San Juan Enrique Newman", "san_juan_enrique_newman"]
 description: "John Henry Newman (1801-1890), cardenal de la Santa Iglesia Romana, teólogo, poeta y Doctor de la Iglesia (canonizado en 2019)."
 ---
 
@@ -24,6 +25,13 @@ León XIII lo creó cardenal en 1879. Fue beatificado por Benedicto XVI en 2010 
 - *El sueño de Geroncio* (poema, 1865), musicalizado por Edward Elgar
 - *Desarrollo de la doctrina cristiana* (1845)
 - *Sermones universitarios* (1843)
+- *Carta al Duque de Norfolk* (1875)
+
+## Relevancia teológica
+
+Newman desarrolló una teología de la fe que integra las dimensiones intelectual, afectiva y volitiva. Su lema cardenalicio «Cor ad cor loquitur» —el corazón habla al corazón—, tomado de san Francisco de Sales, expresa su concepción de la fe como encuentro personal con Dios que afecta a toda la persona.
+
+Su obra «Ensayo para contribuir a una Gramática del Asentimiento» (1870) analiza cómo el asentimiento de fe es un acto de la persona entera, no meramente intelectual. Newman defendió la racionalidad de la fe frente al liberalismo teológico y el sentimentalismo, así como el desarrollo orgánico de la doctrina cristiana.
 
 ## Perspectivas por fuente
 
@@ -86,6 +94,22 @@ En *Evangelization & Culture, Issue 19* (Artificial Intelligence), Newman aparec
 
 Paone subraya que la herencia intelectual y cultural de la cristiandad —que su comunidad evangélica le había ocultado— se abrió ante él como «ver color por primera vez», y que Newman fue parte central de esa apertura. El propio *New Ressourcement* se presenta como un homenaje al movimiento ressourcement del posguerra y como un nuevo retorno a las fuentes que inspira la labor académica de Barron, Levering y Paone.
 
+### Según The Pivotal Players (PP)
+
+Barron lo tiene por el mayor teólogo católico desde Tomás de Aquino y uno de los inspiradores del Vaticano II: el primer intento serio de poner el pensamiento católico en diálogo con la Ilustración, y uno de los prosistas más elegantes de la lengua inglesa. Joyce, al oír que era el mejor escritor en inglés, respondió que nadie había escrito prosa comparable a la de «un príncipe de la única Iglesia verdadera».
+
+Fue, antes que nada, amante de la verdad. Al recibir el capítulo, resumió su vida: «Durante treinta, cuarenta, cincuenta años he resistido con todas mis fuerzas el espíritu de liberalismo en la religión», entendiendo por liberalismo la tesis de que los enunciados religiosos no son verdad o falsedad sino sentimiento subjetivo. En su tumba quiso el lema *Ex umbris et imaginibus in veritatem*.
+
+Nació en Londres el 21 de febrero de 1801, hijo de un banquero y de una descendiente de hugonotes. A los quince años tuvo una experiencia de conversión que lo marcó; en ese mismo 1816 leyó un tratado de historia de la Iglesia y quedó cautivado por Agustín y los Padres. En 1817 entró en Oxford —lo que París fue para Tomás y Florencia para Dante—, fue fellow de Oriel y recibió de John Keble la visión sacramental de que «los fenómenos materiales son a la vez tipos e instrumentos de cosas invisibles».
+
+En 1832 viajó al sur de Europa con Froude; en Roma admiró el cristianismo antiguo pero no el catolicismo romano, al que juzgaba supersticioso, y se propuso defender una *via media* entre protestantismo y catolicismo. Así nació en 1833 el **Movimiento de Oxford**, con tres principios: el **dogma** frente al liberalismo, la **Iglesia visible** con sacramentos y ritos como canales de gracia invisible, y un tercero **antirromano** que después repudiaría —llegó a llamar «anticristo» al Papa—. El Tract 90 (1841), que leía los 39 Artículos en clave católica, desató un escándalo nacional: fue condenado como traidor «en cada parte del país... en periódicos, púlpitos y vagones de tren». Renunció al liderazgo del movimiento y se retiró a Littlemore, a un establo convertido, a estudiar a los Padres.
+
+Allí encontró lo que le quitó el aliento: en las disputas cristológicas de los siglos IV y V la posición media era herética y uno de los extremos, la católica, era la ortodoxa; y el adagio agustiniano *Securus judicat orbis terrarum* —«el mundo entero juzga con seguridad»— le mostró que la Iglesia entera, en el espacio y en el tiempo, es el sujeto del juicio doctrinal, no una iglesia nacional. Su conversión fue lenta, como la de Agustín, no súbita como la de Pablo: el 8 de octubre de 1845 se arrodilló ante el pasionista Dominic Barberi. Estudió en Propaganda Fide, conoció el Oratorio de san Felipe Neri —que lo sedujo por su inserción urbana— y fue ordenado en 1847; en 1849 fundó el Oratorio de Birmingham.
+
+Su primera gran obra católica fueron las *Lectures on the Present Position of Catholics in England*, y de 1851 data su rectorado en la Universidad Católica de Irlanda, del que salió frustrado en 1858 por las sospechas de los obispos; de esas conferencias nació *The Idea of a University*. En 1859 dirigió el *Rambler* y su artículo «On Consulting the Faithful in Matters of Doctrine» le valió el rechazo conservador; siguieron años de depresión que terminaron en 1864 con la *Apologia pro Vita Sua*, respuesta a Charles Kingsley, leída por toda Inglaterra en fascículos. León XIII lo creó cardenal en 1879 («*il mio Cardinale*»). Murió en 1890; Benedicto XVI lo beatificó en 2010 y Francisco lo canonizó en 2019.
+
+Barron destaca tres obras. El *Essay on the Development of Christian Doctrine* responde a la acusación protestante de añadidos: las doctrinas se desarrollan como organismos vivos porque toda idea es «commensurable con la suma total de sus aspectos posibles»; el arroyo no es más claro junto a la fuente, y «vivir es cambiar, y ser perfecto es haber cambiado muchas veces». Y precisamente porque hay desarrollos y corrupciones, hace falta una autoridad viva que juzgue: la única Iglesia que la reclama es la católica. *The Idea of a University* defiende que la teología pertenezca al círculo de las disciplinas y ocupe su centro, porque expulsarla solo deja el paso a pretendientes falsos —la ciencia, la economía—; y reivindica el conocimiento «liberal», buscado por sí mismo, que forma al caballero, distinto del santo, que es tarea de la Iglesia. El *Grammar of Assent* distingue el asentimiento **nocional**, el de las fórmulas abstractas, del **real**, el que toca cosas, imágenes y personas y mueve a obrar —«las personas nos influyen, las voces nos derriten, las miradas nos someten»—; su base religiosa es la **conciencia**, voz que nos dice que hemos agradado u ofendido a alguien que lo ve todo. Contra Locke, el asentimiento no se reduce a la inferencia: el *illative sense* pesa probabilidades convergentes, como cuando nadie duda de que Gran Bretaña es una isla. De ahí su consecuencia evangelizadora: hay que argumentar y dar testimonio, apelar a la lógica y a la imaginación; a veces la conversión llega por un detalle —«tu bebé tiene uñas»—.
+
 ## Ver también
 
 [[erik_varden]], [[san_bernardo]], [[león_xiv]], [[ejercicios_espirituales_2026]], [[conversión]], [[metanoia]], [[ressourcement]], [[inteligencia_artificial]]
@@ -93,6 +117,8 @@ Paone subraya que la herencia intelectual y cultural de la cristiandad —que su
 ## Referencias
 
 - [EjEsp2026, cap. 8]
+- NotaEmocionesFe, nn. 1-2
+- Francisco de Sales, *Tratado del amor de Dios*, X, 3 y 9
 - [EjEsp2026, epílogo]
 - EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute (Rowland, Bradford).
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Levering, 10_minds.md; Minnis, 19_special_feature_minnis.md; Barron, 02_from_the_desk.md).

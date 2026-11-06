@@ -14,7 +14,7 @@ tags: ["resumen", "catequesis", "iniciación_cristiana", "mistagogia", "doctrina
 
 - [[catequesis]] — escuela de formación integral, no limitada a lo meramente doctrinal
 - [[iniciación_cristiana]] — aprendizaje gradual en el conocimiento, amor y seguimiento de Jesucristo
-- [[mistagogia]] — catequesis mistagógica, experiencia que introduce en la celebración de los sacramentos
+- [[mistagogía]] — catequesis mistagógica, experiencia que introduce en la celebración de los sacramentos
 - [[catequista]] — destinatario de cursos y escuelas de formación permanente
 - [[catecismo]] — subsidio catequético junto con el Compendio de la Doctrina Social
 - [[doctrina_social_de_la_iglesia]] — base de la catequesis social

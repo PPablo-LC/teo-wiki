@@ -67,7 +67,7 @@ Se relaciona con [[jansenismo]], [[gracia]], [[libre_albedrío]], [[caridad]], [
 
 ## Ver también
 
-[[clemente_xi]], [[pascasio_quesnel]], [[jansenismo]], [[jansenio]], [[silencio_obsequioso]]
+[[clemente_xi]], [[pascasio_quesnel]], [[jansenismo]], [[cornelio_jansenio]], [[silencio_obsequioso]]
 
 ## Referencias
 

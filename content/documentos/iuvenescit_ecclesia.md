@@ -11,7 +11,7 @@ timestamp: 2026-09-19
 > Área: Documentos
 > Última actualización: 2026-09-19
 
-**Iuvenescit Ecclesia** (IE) es la carta de la [[congregación_para_la_doctrina_de_la_fe]]
+**Iuvenescit Ecclesia** (IE) es la carta de la [[01_congregación_para_la_doctrina_de_la_fe]]
 del 15 de mayo de 2016, dirigida a los Obispos de la Iglesia católica, sobre
 «la relación entre los dones jerárquicos y los dones carismáticos en la
 Iglesia y en particular las asociaciones carismáticas de fieles».
@@ -43,13 +43,13 @@ se verifican en la comunión con los pastores. De ahí su lugar central en las
 ## Relaciones doctrinales
 
 [[carismas]], [[espíritu_santo]], [[comunión_eclesial]], [[iglesia]],
-[[congregación_para_la_doctrina_de_la_fe]], [[renovación_carismática]],
+[[01_congregación_para_la_doctrina_de_la_fe]], [[renovación_carismática]],
 [[regnum_christi]]
 
 ## Ver también
 
 [[carismas]], [[renovación_carismática]], [[comunión_eclesial]],
-[[congregación_para_la_doctrina_de_la_fe]], [[regnum_christi]]
+[[01_congregación_para_la_doctrina_de_la_fe]], [[regnum_christi]]
 
 ## Referencias
 

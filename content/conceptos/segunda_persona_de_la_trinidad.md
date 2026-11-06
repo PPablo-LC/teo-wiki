@@ -79,11 +79,11 @@ a.2 — Las Personas divinas se distinguen por las relaciones de origen. El Padr
 
 ## Relaciones doctrinales
 
-La Segunda Persona se conecta con la [[santísima_trinidad]] (misterio trinitario), la [[primera_persona_de_la_trinidad]] (el Padre que engendra), la [[tercera_persona_de_la_trinidad]] (el Espíritu Santo que procede), la [[consubstancia]] (igualdad de naturaleza), la [[generación_divina]] (el modo de engendramiento), el [[verbo_mental]] (analogía con el conocimiento intelectual), la [[encarnación]] (el Verbo se hace carne), la [[cristología]] (Cristo, verdadero Dios y verdadero hombre), la [[inmanencia_divina]] (Dios en las cosas) y la [[procesión_del_espíritu_santo]] (la otra procesión trinitaria).
+La Segunda Persona se conecta con la [[santísima_trinidad]] (misterio trinitario), la [[dios_padre]] (el Padre que engendra), la [[espíritu_santo]] (el Espíritu Santo que procede), la [[consubstancial]] (igualdad de naturaleza), la [[generación_divina]] (el modo de engendramiento), el [[verbo_mental]] (analogía con el conocimiento intelectual), la [[encarnación]] (el Verbo se hace carne), la [[cristología]] (Cristo, verdadero Dios y verdadero hombre), la [[inmanencia_divina]] (Dios en las cosas) y la [[procesión_del_espíritu_santo]] (la otra procesión trinitaria).
 
 ## Ver también
 
-[[santísima_trinidad]], [[primera_persona_de_la_trinidad]], [[tercera_persona_de_la_trinidad]], [[generación_divina]], [[verbo_mental]], [[consubstancia]], [[cristología]], [[encarnación]]
+[[santísima_trinidad]], [[dios_padre]], [[espíritu_santo]], [[generación_divina]], [[verbo_mental]], [[consubstancial]], [[cristología]], [[encarnación]]
 
 ## Referencias
 

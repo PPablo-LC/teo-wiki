@@ -51,6 +51,16 @@ La metanoia así entendida es el movimiento interior que acompaña toda la vida 
 
 **El «hacerse niños» como conversión permanente (cap. III).** «Si no os hacéis como niños» (Mt 18,3) describe la metanoia continua: volver a la apertura de quien acepta ser enseñado por la realidad y por la autoridad, sin endurecer el corazón (SR, `10_capitolo_terzo.md`, §45-55, 56-69).
 
+### Según And Now I See (ANS)
+
+Robert Barron parte del primer sermón de Jesús en Mc 1,15 y subraya que la traducción habitual —«arrepentíos»— traiciona el término. *Metanoia* viene de *meta* («más allá») y *nous* («mente» o «espíritu»): significa «ir más allá de la mente que tienes». No es primariamente un cambio de conducta, sino un cambio en el modo de conocer, percibir y ver la realidad. El «arrepentimiento» moralizante se queda en la superficie; Jesús pide una transformación de la percepción, porque el estado de cosas nuevo —la unión de lo divino y lo humano en él— resulta invisible para la mente acostumbrada.
+
+El obstáculo es que vemos con una **mente de miedo** y no de confianza. El miedo encierra al yo en el ego, y el ego vive en las *angustiae*, el espacio estrecho entre un temor y otro. En el centro del alma está la imagen de Dios, y por eso es posible el tránsito de la *pusilla anima* (alma pequeña) a la *magna anima* (alma grande): la *metanoia* es precisamente ese paso del alma aterrada y autorreferente al alma confiada y dilatada. La tempestad calmada (Mc 4) lo ilustra: los discípulos se aterran porque el ego cree que no hay nada bajo él; Jesús duerme porque está centrado, y su pregunta —«¿por qué tenéis tanto miedo?»— es la invitación a dejar la mente de miedo.
+
+El modelo narrativo es Bartimeo (Mc 10,46-52). Su grito *eleeson me* recoge el *Kyrie eleison* de la liturgia; arroja el manto —como el catecúmeno que se despoja del hombre viejo— y responde a la pregunta de Jesús con la petición que resume toda conversión: «Maestro, que vea». La *metanoia* culmina en la fe, que Barron entiende, con Tillich, no como asentimiento a proposiciones, sino como dejarse agarrar por la Preocupación Última. El relato termina con Bartimeo siguiendo a Jesús: la conversión desemboca en discipulado.
+
+Barron añade una consecuencia teológica: si la *metanoia* es cambio de visión, la teología misma es «metanoética». Los Padres y Tomás de Aquino hicieron teología como *theoria* —visión mística que transforma—, y no como disciplina académica; la escisión entre teología y espiritualidad, que él fecha hacia 1300, está en el origen de la escolástica árida, y la *nouvelle théologie* del siglo XX la corrigió volviendo a las fuentes bíblicas y patrísticas.
+
 ## Distinciones importantes
 
 **Conversión inicial vs. conversión continua:** La metanoia tiene un momento fundacional —el bautismo o la primera conversión— en el que la persona cambia radicalmente de dirección. Pero la metanoia no se agota en ese acto inicial: se despliega en un proceso continuo de renovación que abarca toda la vida cristiana. La distinción entre «conversión inicial» y «conversión continua» no es temporal sino cualitativa: el primer acto funda, el segundo desarrolla.

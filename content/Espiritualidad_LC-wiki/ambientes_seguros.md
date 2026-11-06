@@ -65,7 +65,7 @@ El informe anual de 2020 documenta los avances en la implementación de la polí
 
 ## Relaciones doctrinales
 
-[[proteger_y_sanar]], [[verdad_justicia_y_sanacion]], [[conversión_institucional]], [[abusos_de_autoridad]], [[eshmá]], [[víctima]]
+[[proteger_y_sanar]], [[verdad_justicia_y_sanacion]], [[conversión_institucional]], [[abuso_de_autoridad]], [[eshmá]], [[víctima]]
 
 ## Ver también
 

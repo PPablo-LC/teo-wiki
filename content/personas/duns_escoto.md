@@ -11,7 +11,7 @@ timestamp: 2026-07-01
 > Área: Historia de la Teología
 > Última actualización: 2026-07-01
 
-**Juan Duns Escoto** (c. 1266–1308), teólogo franciscano escocés conocido como el *Doctor Sutil*, fue uno de los pensadores más originales de la escolástica medieval. Su pensamiento influyó en [[ockham]] y en el desarrollo del [[nominalismo]].
+**Juan Duns Escoto** (c. 1266–1308), teólogo franciscano escocés conocido como el *Doctor Sutil*, fue uno de los pensadores más originales de la escolástica medieval. Su pensamiento influyó en [[guillermo_de_ockham]] y en el desarrollo del [[nominalismo]].
 
 ## Contexto histórico y biografía
 
@@ -44,11 +44,11 @@ Thomas M. Ward presenta a Escoto como «Minstrel of the Incarnation» y «Defend
 
 ## Relaciones
 
-[[ockham]], [[voluntarismo]], [[nominalismo]], [[inmaculada_concepción]], [[cristología]], [[mariología]], [[santo_tomás_de_aquino]], [[san_buenaventura]]
+[[guillermo_de_ockham]], [[voluntarismo]], [[nominalismo]], [[inmaculada_concepción]], [[cristología]], [[mariología]], [[santo_tomás_de_aquino]], [[san_buenaventura]]
 
 ## Ver también
 
-[[ockham]], [[voluntarismo]], [[nominalismo]], [[inmaculada_concepción]]
+[[guillermo_de_ockham]], [[voluntarismo]], [[nominalismo]], [[inmaculada_concepción]]
 
 ## Referencias
 

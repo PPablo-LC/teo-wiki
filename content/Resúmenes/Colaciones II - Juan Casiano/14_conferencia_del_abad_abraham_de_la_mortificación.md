@@ -15,7 +15,7 @@ tags: ["resumen", "colaciones_ii", "juan_casiano", "mortificación", "mortificac
 - [[mortificación]] — Muerte al mundo y renuncia a los deseos carnales
 - [[ansiedad]] — Preocupación y turbación de los pensamientos
 - [[ilusiones_diabólicas]] — Engaños del demonio que prometen progreso espiritual
-- [[tentaciones]] — Pruebas permitidas por Dios para el crecimiento espiritual
+- [[tentación]] — Pruebas permitidas por Dios para el crecimiento espiritual
 - [[humildad]] — Virtud que cura la parte racional del alma
 - [[vanagloria]] — Vicio de la parte racional que se cree perfecta
 - [[centuplo]] — Promesa del Señor a quienes renuncian perfectamente

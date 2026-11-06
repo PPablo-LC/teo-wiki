@@ -38,7 +38,7 @@ Quesnel representa la fase final del jansenismo clásico. Su doctrina sistematiz
 
 ## Relaciones
 
-[[jansenismo]], [[jansenio]], [[clemente_xi]], [[unigenitus]], [[cornelio_jansenio]], [[gracia]], [[libre_albedrío]]
+[[jansenismo]], [[cornelio_jansenio]], [[clemente_xi]], [[unigenitus]], [[cornelio_jansenio]], [[gracia]], [[libre_albedrío]]
 
 ## Ver también
 

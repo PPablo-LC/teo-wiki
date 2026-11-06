@@ -34,7 +34,7 @@ morir**, cada uno un capítulo:
 | III | Morir de pasión eclesial | [[santa_clara_de_asís]], [[santa_brígida_de_suecia]], [[santa_catalina_de_siena]], [[santa_ángela_merici]], [[santa_teresa_de_jesús]], [[santa_isabel_ana_seton]], [[beata_victoria_rasoamanarivo]], [[santa_francisca_xavier_cabrini]], [[santa_katharine_mary_drexel]], [[beata_edith_stein]] |
 | IV | Morir de caridad maternal | [[santa_isabel_de_hungría]], [[santa_catalina_de_génova]], [[santa_juana_francisca_de_chantal]], [[santa_luisa_de_marillac]], [[catalina_labouré]], [[santa_maría_crocifissa_di_rosa]], [[santa_bartolomea_capitanio]], [[santa_vicenta_gerosa]], [[beata_enrichetta_alfieri]], [[madre_teresa_de_calcuta]], [[annalena_tonelli]] |
 | V | Morir de caridad paternal | [[san_jerónimo_emiliano]], [[san_juan_de_dios]], [[san_camilo_de_lelis]], [[san_martín_de_porres]], [[san_pedro_claver]], [[san_vicente_de_paúl]], [[san_giuseppe_benedetto_cottolengo]], [[san_luis_orione]], [[san_damián_de_veuster]], [[san_alberto_chmielowski]] |
-| VI | Morir de trabajos apostólicos | [[san_hilario_de_poitiers]], [[san_martín_de_tours]], [[san_ambrosio]], [[san_jerónimo]], [[san_agustín]], [[san_benito_de_nursia]], [[san_anselmo]], [[san_bernardo]], [[san_domingo_de_guzmán]], [[san_alberto_magno]], [[santo_tomás_de_aquino]], [[san_ignacio_de_loyola]], [[san_francisco_javier]], [[san_felipe_neri]], [[san_carlos_borromeo]], [[san_francisco_de_sales]], [[san_alfonso_maría_de_ligorio]], [[cura_de_ars]], [[san_juan_bosco]], [[san_daniel_comboni]], [[san_leopoldo_mandic]], [[san_juan_xxiii]], [[charles_de_foucauld]], [[san_pío_de_pietrelcina]], [[san_josemaría_escrivá]] |
+| VI | Morir de trabajos apostólicos | [[san_hilario_de_poitiers]], [[san_martín_de_tours]], [[san_ambrosio]], [[san_jerónimo]], [[agustín_de_hipona]], [[san_benito]], [[san_anselmo]], [[san_bernardo]], [[san_domingo_de_guzmán]], [[san_alberto_magno]], [[santo_tomás_de_aquino]], [[san_ignacio_de_loyola]], [[san_francisco_javier]], [[san_felipe_neri]], [[san_carlos_borromeo]], [[san_francisco_de_sales]], [[san_alfonso_maría_de_ligorio]], [[cura_de_ars]], [[san_juan_bosco]], [[san_daniel_comboni]], [[san_leopoldo_mandic]], [[san_juan_xxiii]], [[charles_de_foucauld]], [[san_pío_de_pietrelcina]], [[san_josemaría_escrivá]] |
 | VII | Morir inocente | [[santa_rosa_de_viterbo]], [[santa_kateri_tekakwitha]], [[santo_domingo_savio]], [[santa_maría_goretti]], [[beata_laura_vicuña]], [[beato_francisco_marto]], [[beata_jacinta_marto]], [[venerable_antonietta_meo]], [[venerable_mari_carmen_gonzález_valerio]], [[beata_chiara_luce_badano]] |
 | VIII | Morir santos (laicos) | [[beata_elisabetta_canori_mora]], [[margherita_occhiena]], [[beato_federico_ozanam]], [[santa_celia_guérin]], [[san_luis_martin]], [[beato_giuseppe_tovini]], [[san_giuseppe_moscati]], [[madeleine_delbrêl]], [[giorgio_la_pira]], [[santa_gianna_beretta_molla]], [[jerome_lejeune]], [[jacques_fesch]] |
 
@@ -89,17 +89,17 @@ Resúmenes completos por capítulo en `wiki/Resúmenes/asi_mueren_los_santos_cap
 
 | # | Resumen |
 |---|---------|
-| 1 | [[así_mueren_los_santos__100_relatos_de_vida_y_resurrección|Portada y preliminares]] |
-| 2 | [[introducción__muerte_amor_santidad|Introducción: Muerte, amor, santidad]] |
-| 3 | [[i_morir_mártir|I. Morir mártir]] |
-| 4 | [[ii_morir_de_amor|II. Morir de amor]] |
-| 5 | [[iii_morir_de_pasión_eclesial|III. Morir de pasión eclesial]] |
-| 6 | [[iv_morir_de_caridad_maternal|IV. Morir de caridad maternal]] |
-| 7 | [[v_morir_de_caridad_paternal|V. Morir de caridad paternal]] |
-| 8 | [[vi_morir_de_trabajos_apostólicos|VI. Morir de trabajos apostólicos]] |
-| 9 | [[vii_morir_inocente|VII. Morir inocente]] |
-| 10 | [[viii_morir_santos|VIII. Morir santos]] |
-| 11 | [[conclusión_mariana|Conclusión mariana]] |
+| 1 | [[01_así_mueren_los_santos__100_relatos_de_vida_y_resurrección|Portada y preliminares]] |
+| 2 | [[02_introducción__muerte_amor_santidad|Introducción: Muerte, amor, santidad]] |
+| 3 | [[03_i_morir_mártir|I. Morir mártir]] |
+| 4 | [[04_ii_morir_de_amor|II. Morir de amor]] |
+| 5 | [[05_iii_morir_de_pasión_eclesial|III. Morir de pasión eclesial]] |
+| 6 | [[06_iv_morir_de_caridad_maternal|IV. Morir de caridad maternal]] |
+| 7 | [[07_v_morir_de_caridad_paternal|V. Morir de caridad paternal]] |
+| 8 | [[07_vi_morir_de_trabajos_apostólicos|VI. Morir de trabajos apostólicos]] |
+| 9 | [[09_vii_morir_inocente|VII. Morir inocente]] |
+| 10 | [[10_viii_morir_santos|VIII. Morir santos]] |
+| 11 | [[11_conclusión_mariana|Conclusión mariana]] |
 | 12 | [[autor_sicari|Ficha de autor]] |
 | 13 | [[índice_alfabético_ams|Índice alfabético]] |
 

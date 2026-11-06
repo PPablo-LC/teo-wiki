@@ -22,7 +22,7 @@ tags: ["resumen", "vocación", "caridad", "penitencia", "unidad_cristiana", "mar
 - [[carmelo]] — «por su específica vocación, el Carmelo se debe preocupar de esto [unidad Oriente-Occidente]» (L267).
 - [[confesión]] — 10 años sin confesarse; en la represión vuelve; como sacerdote «nunca quisiera dejar vacío su confesonario» (L71-73, L125, L239).
 - [[eucaristía]] — centro de su vida carmelita: «Nuestra tarea en el Carmelo es la conversación con Dios en todas nuestras acciones» (L243).
-- [[providence]] / [[providence_divina]] — «La Iglesia sabe irradiar esperanza incluso en medio de la mayor tristeza, por eso es posible disfrutar en cualquier situación de los medios que la Providencia nos da para la salvación» (L173).
+- [[providence]] / [[providencia_divina]] — «La Iglesia sabe irradiar esperanza incluso en medio de la mayor tristeza, por eso es posible disfrutar en cualquier situación de los medios que la Providencia nos da para la salvación» (L173).
 - [[sufrimiento]] — Siberia, 35-40° bajo cero, cepos y cadenas; «sólo me queda sufrir y rezar» (L171).
 - [[educación]] — preceptor del príncipe Augusto Czartoryski: «Hasta que no te abras a la luz de Cristo, considero que eres inadecuado para formar jóvenes porque no eres capaz de comprender la necesidad del alma humana» (L193).
 - [[santidad]] — beatificado por Juan Pablo II; «casi desde que nací viví cerca de un convento de carmelitas en un lugar sellado por la muerte y la vida de un Siervo de Dios» (L19-21).

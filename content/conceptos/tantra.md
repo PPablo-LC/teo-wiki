@@ -17,7 +17,7 @@ El **tantra** es un conjunto de textos, rituales y técnicas espirituales origin
 
 ## Desarrollo doctrinal
 
-Desde la perspectiva de la fe cristiana, el tantra plantea la cuestión del [[discernimiento_de_los_espíritus]] ante prácticas religiosas que buscan un poder espiritual experimentable. La advertencia pastoral no se dirige a la sinceridad del practicante sino al origen y a la finalidad de las técnicas: cuando el poder psíquico se persigue como fin, la práctica deja el terreno de la oración y entra en el de la [[magia]]. La distinción cristiana es clara: la [[gracia]] es don gratuito de Dios, que se recibe y no se manipula; toda técnica que pretenda dominar lo sagrado invierte la relación entre el hombre y su Creador.
+Desde la perspectiva de la fe cristiana, el tantra plantea la cuestión del [[discernimiento_de_espíritus]] ante prácticas religiosas que buscan un poder espiritual experimentable. La advertencia pastoral no se dirige a la sinceridad del practicante sino al origen y a la finalidad de las técnicas: cuando el poder psíquico se persigue como fin, la práctica deja el terreno de la oración y entra en el de la [[magia]]. La distinción cristiana es clara: la [[gracia]] es don gratuito de Dios, que se recibe y no se manipula; toda técnica que pretenda dominar lo sagrado invierte la relación entre el hombre y su Creador.
 
 El tantra se difunde además en Occidente descontextualizado, disuelto en el conjunto de la [[nueva_era]], donde aparece como oferta de «energía» y autotransformación sin referencia al sistema religioso que lo produce.
 
@@ -40,7 +40,7 @@ El documental dedica un bloque temático al «Tantra y la magia», dentro de su 
 - Se enmarca en el [[hinduismo]] y en su difusión occidental a través de la [[nueva_era]]
 - Se vincula con [[yoga]], [[kundalini]] y [[pranayama]]
 - Su dimensión de poder lo sitúa junto a la [[magia]] y el [[ocultismo]]
-- Su discernimiento se rige por el [[discernimiento_de_los_espíritus]]
+- Su discernimiento se rige por el [[discernimiento_de_espíritus]]
 
 ## Ver también
 

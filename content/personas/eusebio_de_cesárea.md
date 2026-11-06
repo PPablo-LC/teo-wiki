@@ -51,7 +51,7 @@ Eusebio estableció un criterio para distinguir los escritos auténticos de los 
 ## Ver también
 
 - [[papías_de_hierápolis]]
-- [[san_irineo_de_león]]
+- [[ireneo_de_lion]]
 - [[clemente_de_alejandría]]
 - [[evangelios_apócrifos]]
 - [[sucesión_apostólica]]

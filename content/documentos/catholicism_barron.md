@@ -17,7 +17,7 @@ tags: ["teología_dogmática", "apologética", "cristología", "eclesiología", 
 - **Editorial**: Image Books (Crown Publishing Group, Random House), Nueva York, 2011
 - **Código**: CathBr
 - **Fuente**: `raw/Bases_doctrinales-raw/catholicism_barron/` (16 archivos, en inglés)
-- **Índice raw**: [[raw/Bases_doctrinales-raw/catholicism_barron/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/catholicism_barron/índice.md`
 - **Dedicatoria**: a la comunidad del Pontificio Colegio Norteamericano de Roma, donde se escribió
 
 ## Contenido

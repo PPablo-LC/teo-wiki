@@ -40,7 +40,6 @@ El CIC trata la sagrada liturgia en los cánones 834-839. La Iglesia cumple la f
 
 La Constitución *Sacrosanctum Concilium* es la carta magna de la liturgia en el Concilio Vaticano II. SC 5-6 presentan la obra de la salvación realizada en Cristo y su continuación en la Iglesia por medio de la liturgia. La liturgia es considerada como «el ejercicio del sacerdocio de Jesucristo» (SC 7). En ella, los signos sensibles significan y realizan la santificación del hombre. Cristo está presente en la liturgia: en el sacrificio de la Misa, en los sacramentos, en su Palabra y cuando la Iglesia suplica y canta (SC 7). La liturgia es «la cumbre a la cual tiende la actividad de la Iglesia y al mismo tiempo la fuente de donde mana toda su fuerza» (SC 10). La participación plena, consciente y activa de todos los fieles es la meta de la reforma litúrgica (SC 14).
 
-
 ### Según la Guía de Liturgia (GLit-2024)
 
 La Guía de Liturgia de la Legión de Cristo recoge que la oración en común ha de considerarse la base de toda vida comunitaria, partiendo de la contemplación del Misterio de Dios [GLit-2024, n. 5, citando VFC 12]. De modo particular, «la comunidad se construye a partir de la Liturgia, sobre todo de la celebración de la Eucaristía y de los otros sacramentos» [GLit-2024, n. 6, citando VFC 14]. La liturgia pone en contacto con las grandes obras de Dios que «se hacen luminosas y generan alabanza, gratitud, alegría, unión de corazones, apoyo en las dificultades comunes de la convivencia diaria y fortalecimiento recíproco en la fe» [GLit-2024, n. 6, citando VFC 14].
@@ -89,7 +88,6 @@ Para Giussani, la liturgia es el lugar donde «el Misterio coincide con el signo
 
 Esta coincidencia del Misterio con lo humano es precisamente lo que la fe anuncia y lo que escandaliza a la mentalidad moderna: «la fidelidad a la liturgia es el anuncio de que el Misterio, que es el sentido de todo, se ha hecho un hombre» (AED, 28, 183). La liturgia no es un culto inventado por los hombres sino la acción en la que la Presencia de Cristo, que coincide con el signo, se ofrece a todos los hombres (AED, 28, 183).
 
-
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte quarta, Cap. 2 (archivo `04_parte_quarta_presenza_e_storia.md`)** — la liturgia como «desarrollo orgánico, en palabras y acciones, de los gestos sacramentales en que Dios se comunica al hombre»: es el lugar concreto donde el sentido religioso alcanza su Objeto divino con la máxima certeza y seguridad concedida al hombre en camino. Es también «el más perfecto instrumento de educación del sentido religioso, la más segura y completa pedagogía».
@@ -106,6 +104,20 @@ En TACDC, la liturgia emerge como **lugar donde Dios habita** y **expresión de 
 - **Sencillez y liturgia** — «In simplicitate cordis mei laetus obtuli universa»; «Notam faciam gloriam nominis mei in laetitia cordis eorum» (confraterio ambrosiano) (04_alla_ricerca.md, l. 31). La liturgia auténtica nace de la sencillez del corazón y genera la letizia que glorifica el nombre de Dios.
 
 - **Inno delle Lodi** — «L'aurora risplende di luce», Inno delle Lodi della domenica (04_alla_ricerca.md, l. 131, citando *Il libro delle ore*). La oración litúrgica de la mañana expresa la claridad nueva que Cristo trae.
+
+### Según Word on Fire (WOF)
+
+Siguiendo a Monseñor M. Francis Mannion, Barron sostiene que la liturgia auténtica exige tres elementos en juego dinámico e interdependiente: **el sacerdote, el pueblo y el rito**. El sacerdote es eslabón con el obispo y, por él, con Roma —signo de la universalidad de un culto que se celebra localmente pero pertenece al cuerpo místico entero— y es quien obra *in persona Christi*; viste ornamentos y se somete al rito precisamente para subordinar su personalidad a Cristo. El pueblo no es espectador de un acto clerical: con palabras, gestos, postura, oración y canto actualiza su identidad sacerdotal bautismal, y no existe la misa «privada», porque toda liturgia terrestre participa de la celestial. El rito, finalmente, no es una forma de oración flotante, sino una serie de oraciones y gestos prescritos: Merton lo comparó con un ballet y con la partitura de una sinfonía.
+
+De ahí la tríada de abusos: el **clericalismo** —el «sacerdote presentador de talk-show», o el clericalismo de derechas absorto en su propia actuación—, el **congregacionalismo** —el igualitarismo que reduce al sacerdote a moderador y cambia el rito según el capricho de la asamblea— y el **ritualismo** —el esteticismo que convierte la Misa en pieza de museo—. Solo el equilibrio de los tres permite que la liturgia se muestre como fuente y cumbre de la vida cristiana. En la homilía sobre la multiplicación de los panes añade que la Misa es experiencia de cumbre y comunión con el Dios vivo, no mera celebración de la comunidad.
+
+### Según The Strangest Way (STR)
+
+Barron cierra el tercer camino con la liturgia, «la fuente y el culmen de la vida cristiana» según *Sacrosanctum Concilium*, y la presenta como «la acción que muestra más plenamente quiénes somos: centrados, pecadores y enviados». Recoge la respuesta de Merton a un amigo judío que le preguntó qué es la Misa: «es una especie de ballet, con movimientos y gestos prescritos», y desarrolla la imagen: en su reunirse, cantar, santiguarse, leer, escuchar, orar, ofrecer, procesionar, comulgar y ser enviado, el cuerpo de Cristo «representa icónicamente quién es, para gloria de Dios y para la transformación del mundo».
+
+El modelo es la liturgia celestial del Apocalipsis: el aula del trono, los ancianos, el altar, los candelabros, la multitud con palmas de toda nación y lengua (7,9), el Cordero «de pie como degollado» y el ángel con el incensario. Celebrar es alinearse conscientemente con esa danza para que su paz, belleza y orden se vuelvan nuestros. La asamblea misma es signo contracultural, pues en el cuerpo de Cristo «ya no hay judío ni griego, esclavo ni libre, varón ni mujer» (Gal 3,28), y fue lo que impresionó a Dorothy Day al comenzar a participar: las distinciones sociales se difuminaban.
+
+Recorre después la estructura del rito como secuencia de los tres caminos: la señal de la cruz y la invocación trinitaria, en que oramos *dentro* de Dios y nos anidamos en el espacio abierto por las personas divinas; el *Kyrie*, práctica del segundo camino —«solo el santo centrado puede decir “Señor, ten piedad”»—; la lectura de la Escritura, porque *fides ex auditu* y la fe no brota de la experiencia común sino de una revelación que desvela lo inaccesible; la homilía, que no correlaciona preguntas seculares con respuestas sagradas, sino que eleva el mundo vivido a los patrones bíblicos; la oración por los enfermos y difuntos, obra espiritual de misericordia; y la fase eucarística, en que el sacerdote *in persona Christi* pronuncia las palabras de la institución y «el centro se abre para que entremos». El envío final —«podéis ir en paz»— es, después de las palabras de la consagración, lo más sagrado del rito, porque envía a santificar el mundo. Con Maritain, Hillenbrand, Virgil Michel y Dorothy Day, sostiene que la conexión entre Eucaristía y justicia social es esencial: «la alabanza recta de Dios produce en nosotros semejanza con Dios».
 
 ## Ver también
 

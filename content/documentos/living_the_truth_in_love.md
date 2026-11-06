@@ -17,7 +17,7 @@ timestamp: 2026-11-03
 - **Editorial**: Ignatius Press, San Francisco, 2015
 - **Código**: LTL
 - **Fuente**: `raw/Bases_doctrinales-raw/Living_the_Truth_in_Love/` (24 archivos, ~2431 líneas)
-- **Índice raw**: [[raw/Bases_doctrinales-raw/Living_the_Truth_in_Love/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/Living_the_Truth_in_Love/índice.md`
 
 ## Contenido
 

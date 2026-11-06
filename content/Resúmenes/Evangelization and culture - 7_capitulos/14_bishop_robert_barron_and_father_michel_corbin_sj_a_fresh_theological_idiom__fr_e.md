@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization_and_culture", "teología"]
 ## Conceptos básicos referenciados
 
 - [[teología]] — la ressourcement como renovación teológica
-- [[SantoTomásDeAquino]] — Tomás de Aquino como maestro espiritual
+- [[santo_tomás_de_aquino]] — Tomás de Aquino como maestro espiritual
 - [[evangelización]] — Barron como predicador del Evangelio en el siglo XXI
 
 ## Contenido

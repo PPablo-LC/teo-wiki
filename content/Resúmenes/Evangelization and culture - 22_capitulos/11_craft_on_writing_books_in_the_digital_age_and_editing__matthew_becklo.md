@@ -20,7 +20,7 @@ tags: ["resumen", "evangelization and culture - 22 capitulos"]
 
 ### Mastering the Art
 
-Matthew Becklo comparte su experiencia personal escribiendo su primer libro, *The Way of Heaven and Earth: From Either/Or to the Catholic Both/And*, publicado por Word on Fire. Febrero se convirtió en un mes significativo: en febrero de 2015 comenzó a garabatear ideas, en febrero de 2021 presentó el libro a Word on Fire, y en febrero de 2025 llegó a imprenta. Cita a [[flannery_oconnor]]: «Escribir una novela es una experiencia terrible, durante la cual el pelo a menudo se cae y los dientes se descomponen».
+Matthew Becklo comparte su experiencia personal escribiendo su primer libro, *The Way of Heaven and Earth: From Either/Or to the Catholic Both/And*, publicado por Word on Fire. Febrero se convirtió en un mes significativo: en febrero de 2015 comenzó a garabatear ideas, en febrero de 2021 presentó el libro a Word on Fire, y en febrero de 2025 llegó a imprenta. Cita a [[flannery_o'connor]]: «Escribir una novela es una experiencia terrible, durante la cual el pelo a menudo se cae y los dientes se descomponen».
 
 Becklo describe que el 80% de la labor de escritura es edición y reescritura, no escritura propiamente dicha. Editar el propio trabajo es agotador, pero editar el de otros lo es igualmente. Ha trabajado como editor durante quince años — en el sector público, privado y ahora en un ministerio católico — y afirma que la edición es tanto ciencia como arte, requiriendo atención meticulosa al estilo pero también prudencia para aplicarla en favor de la sustancia.
 

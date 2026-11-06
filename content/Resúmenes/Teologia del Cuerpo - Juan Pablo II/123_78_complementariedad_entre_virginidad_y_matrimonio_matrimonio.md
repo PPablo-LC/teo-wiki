@@ -16,7 +16,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[no_contraposición]] — no se contraponen ni dividen en «perfectos» e «imperfectos»
 - [[limite_de_las_interpretaciones_maqueas]] — las palabras límpidas contra el inferiorismo
 -[[por_el_reino_solo]] — «no propone la continencia a causa de la inferioridad»
-- [[comunidad_cristiana]] — la orientación escatológica de la comunidad
+- [[comunidad]] — la orientación escatológica de la comunidad
 - [[status_perfectionis]] — el «estado de perfección» por el conjunto de los consejos
 - [[perfección_medida_por_la_caridad]] — el metro es la caridad
 - [[consejos_evangélicos]] — pobreza, castidad y obediencia como ayuda

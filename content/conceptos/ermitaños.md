@@ -17,7 +17,7 @@ Los **ermitaños** (del griego *erēmos*, «desierto») son personas consagradas
 
 ## Relaciones
 
-[[vida_eremítica]], [[vida_contemplativa]], [[monacato]], [[san_antón_abad]], [[padres_del_desierto]], [[clausura]], [[soledad]], [[oración]]
+[[vida_eremítica]], [[vida_contemplativa]], [[monacato]], [[san_antonio_abad]], [[padres_del_desierto]], [[clausura]], [[soledad]], [[oración]]
 
 ## Ver también
 

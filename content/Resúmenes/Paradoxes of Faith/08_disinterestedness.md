@@ -19,7 +19,7 @@ tags: ["resumen", "paradoxes of faith"]
 - [[evangelización]] — el éxito de una popularización extrema puede ser un desastre
 - [[pobreza_evangélica]] — el cristiano no ayuda al prójimo para beneficiarse
 - [[charles_péguy]] — ejemplo de autor que no buscó el éxito y se convirtió en clásico
-- [[san_agustín]] — «No te preocupes por la multitud de lectores»
+- [[agustín_de_hipona]] — «No te preocupes por la multitud de lectores»
 - [[sócrates]] — citado sobre calcular las posibilidades de vivir y morir
 - [[platón]] — citado (Apología de Sócrates)
 

@@ -39,7 +39,7 @@ En *La vocación explicada*, Juan Pablo II subraya que la entrega total en medio
 
 ## Ver también
 
-[[acció_católica]], [[movimientos_eclesiales]], [[corresponsabilidad]]
+[[acción_católica]], [[movimientos_eclesiales]], [[corresponsabilidad]]
 
 ## Referencias
 

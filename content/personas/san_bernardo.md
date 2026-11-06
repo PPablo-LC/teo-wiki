@@ -48,7 +48,7 @@ De Bernardo se destacan los siguientes aspectos:
 6. **Realismo de la gracia**: Bernardo consideraba a Jesús como principio hermenéutico: leía las situaciones, las personas y las relaciones a la luz de Jesús. Solo cuando sea iluminada sobrenaturalmente revelará nuestra naturaleza su forma perfecta (*forma formosa*).
 
 ## Ver también
-[[san_agustín]], [[santo_tomás_de_aquino]], [[pseudo-dionisio_areopagita]], [[erik_varden]], [[ejercicios_espirituales_2026]], [[gloria_oculta]], [[consideración]]
+[[agustín_de_hipona]], [[santo_tomás_de_aquino]], [[pseudo-dionisio_areopagita]], [[erik_varden]], [[ejercicios_espirituales_2026]], [[gloria_oculta]], [[consideración]]
 
 ### Según Sicari (AMS)
 

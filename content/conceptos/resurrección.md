@@ -68,6 +68,20 @@ una sola ley: recuperar, volver a empezar, resurgir» (01, 47).
 «Canzone per Piero», que habla del «hastío de volver a empezar, porque cada vez es
 siempre lo mismo» (01, 37).
 
+### Según Word on Fire (WOF)
+
+La homilía sobre Mc 16,1-8 presenta la resurrección como «el alfa y la omega» de la fe: de ella fluyen los Evangelios, las cartas, los padres, Dante, la *Summa*, la Sixtina, Chartres, Newman y los santos; sin ella nada tiene sentido, porque «si Cristo no ha resucitado, vana es vuestra fe».
+
+Barron rechaza las lecturas reductivas de Schillebeeckx —los discípulos «se sintieron perdonados»— y de Haight —la memoria superviviente de Jesús como símbolo de la presencia de Dios—: si eso fuera todo, el lenguaje de la resurrección valdría igual para el Buda, Confucio o Lincoln, y no explicaría la novedad y la sorpresa escatológica que atraviesan el Nuevo Testamento. Con N. T. Wright subraya el argumento decisivo: los autores sagrados conocían el Sheol, el retorno fantasmal de Samuel, cierta idea de reencarnación, la fuga platónica del alma, el estado de las almas junto a Dios (Sab 3,1) y las alucinaciones, y **no usaron ninguna de esas categorías**. Dijeron algo para lo que no tenían palabra: lo que se esperaba de todos los justos al fin de los tiempos —la resurrección corporal— se había cumplido anticipadamente en aquel mismo Jesús, vivo y transformado. Que una banda abatida y aterrada generara espontáneamente esa fe resulta increíble; las mujeres huyen «aterrorizadas» del sepulcro, y junto a la tumba de un amigo se puede sentir nostalgia, pero no terror.
+
+### Según Lenten Gospel Reflections 2022 (LGR22)
+
+La Resurrección cierra el volumen y lo ilumina entero. El comentario a Jn 20 subraya los signos: era de madrugada y aún estaba oscuro, como al principio del tiempo, antes de «hágase la luz»; pero estaba a punto de brillar una luz y de aparecer una creación nueva. La piedra corrida es la que bloqueaba el sepulcro: cuando muere alguien a quien amamos, es como si una gran piedra se cerrara sobre él y nos vedara el acceso, y por eso lloramos con una frustración existencial. Para Jesús, la piedra había sido removida. Los discípulos pensarían en un saqueador de tumbas, y la ironía joánica es que el mayor de los saqueadores había estado en acción: Dios abre los sepulcros, como prometió por Ezequiel. Lo que se soñó y se esperó contra toda esperanza se ha vuelto realidad. El Sábado Santo añade la consecuencia práctica: si la muerte no tiene la última palabra, no se puede seguir viviendo en un espacio espiritual dominado por el miedo a morir ni hacer de la protección del ego la preocupación primera.
+
+### Según Lenten Gospel Reflections 2024 (LGR24)
+
+La Vigilia pascual plantea la alternativa sin rodeos: si Jesús no resucitó, todos los obispos, sacerdotes y ministros deberían buscarse un trabajo honesto y los fieles salir de las iglesias, porque «si Cristo no ha resucitado, vana es nuestra predicación… somos los más dignos de lástima». Explicarla como mito, símbolo o experiencia interior no hace justicia a la novedad y a la extrañeza del mensaje bíblico: o no resucitó y el cristianismo es una farsa, o resucitó y es la plenitud de la revelación, con Jesús como centro absoluto de la vida. El Domingo de Pascua extrae tres lecciones: este mundo no es todo lo que hay, de modo que puede verse como lugar de gestación hacia algo más espléndido; los tiranos saben que su tiempo se acabó, y por eso la lectura meramente subjetiva de la Pascua es la que les conviene; y el camino de la salvación se ha abierto a todos.
+
 ## Distinciones importantes
 
 - No es una reanimación (como la de Lázaro, que volvió a morir)
@@ -78,7 +92,6 @@ siempre lo mismo» (01, 37).
 ## Relaciones doctrinales
 
 [[pasión_de_cristo]], [[ascensión]], [[redención]], [[resurrección_de_la_carne]], [[cristo]]
-
 
 ## Analizado para
 

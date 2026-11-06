@@ -74,6 +74,12 @@ atenuada; pero, por otra, está muy acentuada: ha disminuido en el acto
 singular porque estamos muy influidos por esa mentalidad, pero se ha hecho
 mucho más terrible de cara al mundo, de cara a la sociedad» (02, 121).
 
+### Según Centered (CEN)
+
+El error de fondo que Barron atribuye a los nuevos ateos es pensar a Dios como «un ser entre muchos», una causa más dentro del conjunto de las causas contingentes, cuya existencia o inexistencia podría verificarse con el método científico. Dawkins define la «hipótesis Dios» como la de un agente sobrenatural que diseñó el universo y a veces interviene en él, y por eso puede compararlo con un «monstruo de espagueti volador»; hace así lo mismo que su maestro Russell con la tetera en órbita. Esa noción es ajena al teísmo clásico, para el que Dios es *ipsum esse*, la respuesta a otra pregunta: por qué hay algo y no nada. De hecho, señala, muchos ateos tienen «fe en la no existencia de Dios».
+
+Su objeción más seria al secularismo es que cierra la mente: quien reduce lo real a lo materialmente verificable excluye las preguntas más interesantes y encierra el espíritu en el «yo acorazado». El cientificismo, además, se contradice: el principio de que solo tienen sentido los enunciados verificables empíricamente no es verificable empíricamente. Junto al ateísmo, el compendio diagnostica otros desafíos: el fundamentalismo bíblico, que ignora que la Biblia es una biblioteca y que Cristo es su clave de lectura —incluso para los pasajes violentos del Antiguo Testamento, leídos espiritualmente como el «anatema» sobre el mal—; el «angelismo eclesial», que concluye de los crímenes de cristianos la falsedad del cristianismo —«malos cristianos no suman mala cristiandad»—; el catolicismo «beige», acomodado y sin color; y el chivo expiatorio, cuyo mecanismo describió Girard y que los Evangelios ya narran: en la mujer adúltera (Jn 8,7), en las negaciones de Pedro y en la Pasión, donde Dios se pone del lado de la víctima, no del lado de los que apedrean.
+
 ## Distinciones importantes
 
 - **Ateísmo práctico** vs. **ateísmo teórico**: el primero vive como si Dios no existiera; el segundo niega su existencia

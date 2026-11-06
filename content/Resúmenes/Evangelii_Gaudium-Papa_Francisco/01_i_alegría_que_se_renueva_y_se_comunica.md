@@ -13,7 +13,7 @@ tags: ["resumen", "evangelii gaudium"]
 ## Conceptos básicos referenciados
 
 - [[alegría_de_evangelizar|alegría del Evangelio]] — tema central de la exhortación
-- [[encuentro_personal_con_jesucristo|encuentro personal con Jesucristo]] — invitación a renovarlo ahora mismo
+- [[encuentro_personal_con_cristo|encuentro personal con Jesucristo]] — invitación a renovarlo ahora mismo
 - [[misericordia_de_dios|Dios no se cansa de perdonar]] — «somos nosotros los que nos cansamos de acudir a su misericordia»
 - [[tristeza_individualista]] — riesgo del corazón cómodo y avaro
 

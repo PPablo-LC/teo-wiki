@@ -10,4 +10,4 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 
 # SIGLO XVI
 
-Esta es la cabecera del siglo XVI, el siglo de la ruptura protestante y de la reacción católica. En él se sitúan la reforma de Lutero y de Calvino, el concilio de Trento como gran respuesta doctrinal y disciplinar de la Iglesia, y el nacimiento de la Compañía de Jesús. El contenido de este siglo se desarrolla en el capítulo 32: [[reforma_de_lutero_y_reforma_católica_trento_jesuitas]].
+Esta es la cabecera del siglo XVI, el siglo de la ruptura protestante y de la reacción católica. En él se sitúan la reforma de Lutero y de Calvino, el concilio de Trento como gran respuesta doctrinal y disciplinar de la Iglesia, y el nacimiento de la Compañía de Jesús. El contenido de este siglo se desarrolla en el capítulo 32: [[32_reforma_de_lutero_y_reforma_católica_trento_jesuitas]].

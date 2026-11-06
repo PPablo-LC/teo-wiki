@@ -39,7 +39,7 @@ El decreto *Ad Gentes* §14 ofrece la definición conciliar del catecumenado: lo
 
 ### Según EAC-18 — Word on Fire Institute
 
-Andrew Allen describe el **catecumenado** como el itinerario por el que la Iglesia acompaña la conversión: desde el primer anuncio del [[kerygma]] hasta la iniciación sacramental, con los escrutinios, las entregas de la Tradición y la [[mistagogia]] posterior al bautismo, el neófito es configurado progresivamente con Cristo (CEC 1432) [EAC-18, 16_feature_allen.md].
+Andrew Allen describe el **catecumenado** como el itinerario por el que la Iglesia acompaña la conversión: desde el primer anuncio del [[kerygma]] hasta la iniciación sacramental, con los escrutinios, las entregas de la Tradición y la [[mistagogía]] posterior al bautismo, el neófito es configurado progresivamente con Cristo (CEC 1432) [EAC-18, 16_feature_allen.md].
 
 Allen subraya que el camino catecumenal no es un mero programa doctrinal, sino una escuela de discipulado en comunidad: la parroquia entera acompaña a los catecúmenos con la oración, el testimonio y la vida sacramental [EAC-18, 16_feature_allen.md].
 

@@ -15,7 +15,7 @@ tags: ["resumen", "biblia", "inerrancia_bíblica", "antiguo_testamento", "traduc
 - [[biblia]] — La Biblia como texto humano, contradictorio y moralmente cuestionable.
 - [[inerrancia_bíblica]] — La doctrina de la inerrancia bíblica, refutada por las citas.
 - [[antiguo_testamento]] — El AT como fuente de ateísmo por su contenido moral.
-- [[traducción_bíblica]] — Los problemas de traducción como argumento contra la inspiración divina.
+- [[traducciones_bíblicas]] — Los problemas de traducción como argumento contra la inspiración divina.
 
 ## Contenido
 

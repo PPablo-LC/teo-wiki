@@ -17,7 +17,7 @@ La **mies** (lat. *messis*, «cosecha») es una imagen bíblica usada por Jesús
 
 ## Relaciones
 
-[[misión]], [[evangelización]], [[discipulado]], [[reino_de_dios]], [[pesca_milagrosa]], [[parábolas]], [[predicación_de_jesús]]
+[[misión]], [[evangelización]], [[discipulado]], [[reino_de_dios]], [[pescas_milagrosas]], [[parábolas]], [[predicación_de_jesús]]
 
 ## Ver también
 

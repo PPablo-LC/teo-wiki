@@ -13,7 +13,7 @@ tags: ["resumen", "giussani", "libertad", "deseo", "gracia"]
 ## Conceptos básicos referenciados
 
 - [[libertad]] — capacidad del fin / capacidad de Dios
-- [[deseo]] / [[felicidad]] / [[satisfacción]] / [[perfección]]
+- [[deseo]] / [[felicidad]] / [[satisfacción]] / [[208_perfección]]
 - [[infierno]] — «l'io che non è se stesso»
 - [[elección]] / [[delectatio_victrix]] / [[gracia_actual]]
 - [[amor]] / [[mortificación]] / [[moralismo]] / [[destino]]

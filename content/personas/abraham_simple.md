@@ -25,7 +25,7 @@ Abraham es conferenciante de la Conferencia XXIV de Juan Casiano, que trata sobr
 
 ## Ver también
 
-[[mortificación]], [[guarda_del_corazón]], [[tentaciones]], [[carismas_divinos]], [[generos_de_monjes]]
+[[mortificación]], [[guardia_del_corazón]], [[tentación]], [[carismas_divinos]], [[generos_de_monjes]]
 
 ## Referencias
 

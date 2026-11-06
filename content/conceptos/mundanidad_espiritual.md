@@ -49,7 +49,7 @@ Mons. Munilla aplica el riesgo de la mundanidad espiritual al sacerdote mediante
 
 ## Relaciones doctrinales
 
-Se relaciona con [[conversión_pastoral]], [[conversión_eclesial]], [[clericalismo]], [[elitismo_narcisista]], [[gnosticismo_pastoral]], [[neopelagianismo]], [[espiritualidad_misionera]], [[discernimiento_evangélico]]
+Se relaciona con [[conversión_pastoral]], [[conversión_eclesial]], [[clericalismo]], [[elitismo_narcisista]], [[gnosticismo_pastoral]], [[neo-pelagianismo]], [[espiritualidad_misionera]], [[discernimiento_evangélico]]
 
 ## Ver también
 

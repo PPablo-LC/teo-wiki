@@ -16,7 +16,7 @@ tags: ["resumen", "informe_1941_2019", "abuso_sexual", "estadísticas", "marcial
 - [[abuso_sexual_de_menores]] — Fenómeno estudiado en el informe
 - [[víctimas_de_abuso]] — Menores que sufrieron los abusos
 - [[marcial_maciel]] — Fundador, cuyo caso es emblemático en las estadísticas
-- [[cadena_de_abuso]] — Repetición del abuso en víctimas que a su vez abusan
+- [[cadenas_de_abuso]] — Repetición del abuso en víctimas que a su vez abusan
 - [[abuso_de_autoridad]] — Abusos cometidos mientras se ocupaban puestos de autoridad
 - [[código_de_derecho_canónico]] — Marco del tratamiento de los casos (cf. c. 1389 CIC)
 - [[seminaristas]] — Casos de abuso durante la formación

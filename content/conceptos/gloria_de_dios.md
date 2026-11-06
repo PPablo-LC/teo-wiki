@@ -80,6 +80,12 @@ En los ejercicios de 1994-1996, la gloria de Dios se presenta como el horizonte 
 
 Melina (Conclusión) presenta la acción como superabundancia que da gloria a Dios. La acción cristiana, como epifanía del amor, da gloria a Dios por su superabundancia. La acción excelente es expresión de la caridad, que da gloria a Dios.
 
+### Según Word on Fire (WOF)
+
+Comentando 1 Cor 10,31, Barron desmonta la palabra «gloria»: tras *doxa* y *kabod* está el sentido de «brillar» o «reputación», de modo que dar gloria a Dios es dejar que su luz brille, anunciarlo y desviar de nosotros la atención. El santo debe ser, según la metáfora de Juan de la Cruz, un cristal transparente por el que se vea la gloria divina. La dificultad es que desde la infancia se aprende el arte de glorificarse a sí mismo.
+
+La homilía afronta después la objeción moderna: ¿por qué Dios ha de llevarse toda la gloria? Los deístas abrieron un espacio secular retirando a Dios a su trascendencia; Feuerbach formuló la alternativa —«el no a Dios es el sí al hombre»— y Marx y Freud la heredaron. Barron responde que el dilema nace de un malentendido: los dioses paganos sí eran rivales porque necesitaban algo del hombre; el Dios bíblico no necesita nada y por eso no puede usar ni manipular el mundo. Es como un espejo que devuelve la luz recibida para iluminar el universo: lo que se le da se estrella contra la roca de su autosuficiencia y vuelve en beneficio de quien lo da. De ahí se sigue que Dios es amor —amar es querer el bien del otro en cuanto otro— y que el mundo ha sido amado hasta el ser. La fórmula de Feuerbach se invierte: «el sí a Dios es el sí al hombre, y el no a Dios es el no al hombre».
+
 ## Distincioni importanti
 
 - **Gloria interna o esencial**: la que Dios posee en sí mismo desde la eternidad, como conocimiento y amor de sí mismo en la Santísima Trinidad. Es infinita e inmutable.

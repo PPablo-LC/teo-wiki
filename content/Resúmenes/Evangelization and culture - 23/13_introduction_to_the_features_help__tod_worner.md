@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization and culture - 23"]
 
 ## Conceptos básicos referenciados
 
-[[oración]], [[fe]], [[escritura]], [[padre_nuestro]], [[ave_maría]], [[oración_de_petición]], [[confesión]]
+[[oración]], [[fe]], [[escritura]], [[padre_nuestro]], [[avemaría]], [[oración_de_petición]], [[confesión]]
 
 ## Contenido
 
@@ -22,7 +22,7 @@ Tod Worner inicia con una anécdota de su hija Annabel en la escuela católica d
 
 ### Naturaleza de la oración
 
-Worner destaca la diversidad de la oración: larga y corta, vocal y silenciosa, formulaica y espontánea, articulada y torpe. Lo esencial es el deseo auténtico de hablar con Dios. La oración se manifiesta en múltiples formas: desde el [[padre_nuestro]] y el [[ave_maría]] hasta peticiones, confesiones, conversación clara y gemidos inarticulados. El ser humano hambrea de la compañía del Señor, y Dios siempre acude.
+Worner destaca la diversidad de la oración: larga y corta, vocal y silenciosa, formulaica y espontánea, articulada y torpe. Lo esencial es el deseo auténtico de hablar con Dios. La oración se manifiesta en múltiples formas: desde el [[padre_nuestro]] y el [[avemaría]] hasta peticiones, confesiones, conversación clara y gemidos inarticulados. El ser humano hambrea de la compañía del Señor, y Dios siempre acude.
 
 ### Presentación de los artículos del número
 

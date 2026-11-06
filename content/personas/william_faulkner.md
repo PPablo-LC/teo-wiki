@@ -48,7 +48,7 @@ Nacido en New Albany, Mississippi, Faulkner ambientó casi toda su obra en el Mi
 ## Relaciones doctrinales
 
 - Ilustra el [[mysterium_tremendum_et_fascinans]]: temblor y fascinación ante lo divino
-- Conecta con la [[mistagogia]]: Sam Fathers introduce a Ike en el misterio
+- Conecta con la [[mistagogía]]: Sam Fathers introduce a Ike en el misterio
 - Expresa la [[trascendencia_divina]]: Dios tan familiar que no puede ser ignorado y tan distante que no puede ser controlado
 - Su lectura remite a la [[evangelización_de_la_cultura]]: la literatura como vía de acceso al Misterio
 

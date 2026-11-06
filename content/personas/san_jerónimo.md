@@ -51,11 +51,11 @@ Rivero describe a san Jerónimo como «propagandista de la vida monástica entre
 
 ## Relaciones doctrinales
 
-Su obra se ordena a la [[sagrada_escritura]] y a la [[exégesis_bíblica]]; su traducción sostiene la vida litúrgica y teológica de Occidente. Se relaciona con la [[patrística]], con el [[monacato]] que propagó, y con [[san_agustín]], [[dámaso_i]] y [[orígenes]].
+Su obra se ordena a la [[sagrada_escritura]] y a la [[exégesis_bíblica]]; su traducción sostiene la vida litúrgica y teológica de Occidente. Se relaciona con la [[patrística]], con el [[monacato]] que propagó, y con [[agustín_de_hipona]], [[dámaso_i]] y [[orígenes]].
 
 ## Ver también
 
-[[padres_de_la_iglesia]], [[vulgata]], [[sagrada_escritura]], [[exégesis_bíblica]], [[san_agustín]], [[patrística]], [[dámaso_i]], [[orígenes]], [[monacato]], [[historia_de_la_iglesia_rivero]]
+[[padres_de_la_iglesia]], [[vulgata]], [[sagrada_escritura]], [[exégesis_bíblica]], [[agustín_de_hipona]], [[patrística]], [[dámaso_i]], [[orígenes]], [[monacato]], [[historia_de_la_iglesia_rivero]]
 
 ## Referencias
 

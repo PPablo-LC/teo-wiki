@@ -44,7 +44,7 @@ Jefferson es relevante para la teología católica porque su formulación de los
 
 ## Ver también
 
-[[derechos_naturales]], [[igualdad_humana]], [[gobierno_limitado]], [[libertad_religiosa]], [[democracia]], [[abraham_lincoln]], [[alexis_de_tocqueville]], [[robert_barron]], [[doctrina_social_de_la_iglesia]]
+[[derecho_natural]], [[igualdad_humana]], [[gobierno_limitado]], [[libertad_religiosa]], [[democracia]], [[abraham_lincoln]], [[alexis_de_tocqueville]], [[robert_barron]], [[doctrina_social_de_la_iglesia]]
 
 ## Referencias
 

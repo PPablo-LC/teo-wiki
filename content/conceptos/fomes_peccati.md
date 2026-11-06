@@ -45,14 +45,14 @@ La misma fuente precisa que el *fomes* explica por qué la conversión no es «u
 
 - Es el fundamento de la [[conversión_continua]] y de la repetición de la [[confesión]]
 - Se relaciona con la [[concupiscencia]] y con el [[pecado_original]], del que brota y al que sobrevive en el bautizado
-- Se inscribe en el [[misterio_de_la_iniquidad]], el misterio del mal que obra en el convertido
+- Se inscribe en el [[mysterium_iniquitatis]], el misterio del mal que obra en el convertido
 - Se combate con el [[combate_espiritual]] y la vida sacramental de la Iglesia
 
 ## Ver también
 
 - [[conversión_continua]]
 - [[concupiscencia]]
-- [[misterio_de_la_iniquidad]]
+- [[mysterium_iniquitatis]]
 - [[bautismo]]
 - [[pecado_original]]
 - [[confesión]]

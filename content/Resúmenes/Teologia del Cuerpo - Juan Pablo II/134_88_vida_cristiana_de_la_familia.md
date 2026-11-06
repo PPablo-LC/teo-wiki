@@ -17,7 +17,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[igsia]] — la Iglesia como cuerpo de Cristo
 - [[vocación_cristiana]] — la vocación que brota del plan divino
 - [[vida_cristiana]] — el modelo de vida correspondiente al misterio
-- [[imilación_de_cristo]] — imitadores de Dios como hijos amados
+- [[imitación_de_cristo]] — imitadores de Dios como hijos amados
 - [[hijos_de_la_luz]] — las tiniebla dejadadas y la vida como luz
 - [[clara_vita_de_la_comunidad]] — el clima de vida espiritual
 - [[temor_de_cristo]] — la pietas que conforma las relaciones

@@ -16,7 +16,7 @@ tags: ["resumen", "nueva_eva", "protoevangelio", "apocalipsis", "padres_de_la_ig
 - [[protoevangelio]] — Gn 3,15: la promesa del vencedor que aplastará la cabeza de la serpiente.
 - [[apocalipsis]] — Ap 12: la mujer vestida de sol, madre del Mesías y símbolo de Israel.
 - [[justino_mártir]] — Padre de la Iglesia del s. II; desarrolló el paralelismo Eva-María.
-- [[irenéo_de_león]] — Padre de la Iglesia del s. II; «el nudo de la desobediencia de Eva se desató por la obediencia de María».
+- [[ireneo_de_lion]] — Padre de la Iglesia del s. II; «el nudo de la desobediencia de Eva se desató por la obediencia de María».
 - [[tipología]] — María como nuevo tipo de Eva; Adán como tipo de Cristo.
 
 ## Contenido

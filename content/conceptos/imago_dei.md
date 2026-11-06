@@ -63,6 +63,16 @@ Barron presenta la imagen de Dios en el ser humano desde la perspectiva de la es
 
 Barron concluye que la tensión entre imagen y semejanza no es un problema teórico sino pastoral: la Iglesia debe acompañar al hombre contemporáneo en el descubrimiento de su identidad como imagen de Dios, ofreciendo los medios (sacramentos, oración, comunidad) para que la semejanza se desarrolle plenamente, sin nunca perder de vista que la imagen permanece como realidad ontológica indeleble inscrita en la naturaleza humana por el Creador.
 
+### Según And Now I See (ANS)
+
+Robert Barron hace de la *imago Dei* una de las dos columnas de su antropología teológica: sin pecado original la *metanoia* sería innecesaria, pero sin imagen de Dios sería imposible. La imagen es lo que queda «obstinadamente bueno» en nosotros, la chispa que el pecado oscurece pero no extingue; por eso el hombre sigue esperando y viviendo aunque todo a su alrededor diga que no.
+
+La imagen tiene dos caras, correspondientes a dos vertientes teológicas. Por el lado de la **plenitud**, siguiendo a Hans Urs von Balthasar, es la capacidad de ser arrebatado por la belleza: el asombro ante la *claritas* y la *concordia* de lo real, que despierta el deseo de Dios y se convierte en misión. El que ha visto la belleza queda marcado y enviado, como Moisés, Pablo, Pedro e Isaías. Por el lado del **vacío**, siguiendo a Schleiermacher y a Tillich, la imagen es el sentimiento de dependencia absoluta y la experiencia de la finitud como ansiedad: precisamente porque somos «no autoexplicativos», existimos por otro. Barron resume ambas caras con el Catecismo: el hombre es por naturaleza un ser religioso, dotado de *capax Dei* (CEC 28), y con Ratzinger: «tanto la pobreza de la existencia humana como su plenitud apuntan a Dios».
+
+En la lectura de la autobiografía de Thomas Merton, la imagen se manifiesta en tres experiencias: la belleza (los monasterios, los mosaicos de Roma, la villa de St. Antonin), la dependencia radical (las muertes del padre y de los abuelos, que le llevan a rezar sin fe explícita) y el *point vierge*, el punto virginal del alma donde no llegan el pecado ni la autoconciencia, la «joya» que brilla con luz invisible y que Merton descubre en la esquina de Fourth and Walnut. La imagen, una vez descubierta, no deja coexistir con el pecado: empuja al alma a la entrega total.
+
+Barron insiste en que la imagen no es un logro del esfuerzo moral. El pecado es «la corrupción de lo que sigue siendo esencialmente bueno»: caemos por las potencias que más nos asemejan a Dios —libertad, inteligencia, voluntad—, y precisamente por eso hay en nosotros algo que puede ser salvado. La imagen es, en definitiva, el sello de la Misericordia que nos crea sin cesar.
+
 ## Distinciones importantes
 
 - **Imagen (*imago*) vs. semejanza (*similitudo*):** La imagen es la naturaleza racional (indestructible); la semejanza es la gracia (perdida por el pecado, restaurada por la redención).

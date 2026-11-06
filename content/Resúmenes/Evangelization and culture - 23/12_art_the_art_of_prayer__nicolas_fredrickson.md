@@ -32,7 +32,7 @@ Esta dualidad invita a la contemplación de la [[unión_hipostática]]: la unida
 
 ### Adoración del Cordero Místico — Hermanos van Eyck (1432)
 
-La célebre escena del Políptico de Gante representa a un [[cordero_del_dios]] sacrificado, aludiendo a la visión de San Juan en el [[apocalipsis]]: "un Cordero como inmolado" (Ap_5:6). Tribus de diversas culturas se congregan para adorar al Cordero, [[cristo]], cumpliendo el Salmo 86:9.
+La célebre escena del Políptico de Gante representa a un [[cordero_de_dios]] sacrificado, aludiendo a la visión de San Juan en el [[apocalipsis]]: "un Cordero como inmolado" (Ap_5:6). Tribus de diversas culturas se congregan para adorar al Cordero, [[cristo]], cumpliendo el Salmo 86:9.
 
 Obra concebida para un contexto litúrgico, revela detalles que cobran vida desde esa perspectiva. San Pablo: "Nuestro cordero pascual, Cristo, ha sido sacrificado; celebremos la fiesta" (1Co_5:7-8). La fiesta se celebra en la [[misa]], que culmina en la consumición del Cordero. William M. Wright IV descubrió que, según la ubicación original del retablo, cuando el sacerdote elevaba la hostia consagrada, esta se alineaba con la figura del Cordero, comunicando bellamente la realidad del Cordero Pascual cuya sangre fue "derramada por vosotros y por muchos para el perdón de los pecados". Los ojos del Cordero miran hacia afuera, invitando al espectador a participar del banquete celestial.
 

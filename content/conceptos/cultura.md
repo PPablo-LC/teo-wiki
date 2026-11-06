@@ -69,7 +69,6 @@ Von Hildebrand enumera las características que distinguen la cultura de la civi
 
 **Platón, la escritura y el temor a la tecnología (Tom Hoopes).** Tom Hoopes recuerda que ya Platón alzó la alarma sobre una tecnología clave: la palabra escrita. En el *Fedro*, Sócrates transmite esta advertencia: «Este descubrimiento tuyo creará el olvido en las almas de los aprendices. No usarán sus memorias; confiarán en los caracteres escritos externos y no recordarán de sí mismos» [EAC-19, 22_peripheries, L17]. Y de hecho ha sucedido: la palabra escrita se ha vuelto «una extensión del hombre», como dijo Marshall McLuhan, por lo que ya no podemos recitar la *Ilíada* ni la *Odisea* —«lo cual es una pérdida»—, pero también tenemos todavía la *Ilíada* y la *Odisea*: y «eso es un gran beneficio» [L17]. Cada tecnología tiene su pérdida y su ganancia; la Iglesia, de la imprenta al radio y al internet, ha abrazado las tecnologías para dar al mundo «la alegría de escuchar la voz del Santo Padre» [L21-23].
 
-
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
 - **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — «La fede diventa cultura»: «si la fe invierte cada inflexión de la vida humana, la fe deviene fuente de cultura y de una cultura nueva: de lo contrario no se encarna, y sería como si no comenzara la redención del presente histórico»; Juan Pablo II al MEIC: «una fe que no se haga cultura será una fe no plenamente acogida, no enteramente pensada, no fielmente vivida» (L131).
@@ -92,6 +91,12 @@ Jesucristo, como la habéis recibido, bien enraizados, edificados en él» (03, 
 reconocer esta gran Presencia que es la realidad de todo, el sentido de todo lo que
 hacemos. La fe es dada a algunos para que fluya sobre los demás. Por esto la fe en
 nosotros debe convertirse en un movimiento dentro de la sociedad» (03, 213).
+
+### Según Word on Fire (WOF)
+
+«Ser americano, ser católico» parte de que toda cultura es evangelicamente ambigua. La estadounidense lo es de modo especialmente denso, porque la formaron el racionalismo ilustrado y el protestantismo, ambos a la vez emparentados con el catolicismo y opuestos a la Iglesia. Barron distingue dos conceptos de libertad: la libertad como elección y autodeterminación —que tensa con la ley y la verdad objetiva, y que expresó el Tribunal Supremo en *Casey*— y la libertad «para la excelencia», la disciplinación del deseo que hace primero posible y luego fácil el bien, que requiere la ley y el bien en lugar de padecerlos. Pablo se presenta a la vez como liberado por Cristo y como «esclavo de Cristo Jesús»: la correlación entre libertad y verdad que la Biblia da por supuesta.
+
+Del lado positivo, la Declaración de Independencia afirma que los hombres son iguales y tienen derechos inalienables porque son «creados» y dotados por su «Creador»; sin esa referencia, como mostraron los totalitarismos del siglo XX, los derechos dejan de ser evidentes. La actitud justa es, pues, «afecto condicionado por la inteligencia crítica»: asimilar lo que se pueda y resistir lo que se deba, siendo católicos primero. Las homilías sobre Nehemías y sobre Ap 21,22 completan la visión: los muros que definen la identidad son condición de la misión —«buenas vallas hacen buenos vecinos»— y la religión no puede ser un compartimento privado, porque Dios no es un ser entre otros y la ciudad entera ha de ser lugar de culto.
 
 ## Relaciones doctrinales
 

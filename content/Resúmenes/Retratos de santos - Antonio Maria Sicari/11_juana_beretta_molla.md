@@ -28,7 +28,7 @@ tags: ["resumen", "maternidad", "matrimonio", "medicina", "providence", "santida
 - [[muerte_cristiana]] — «Hermana, estoy aquí para morir… Basta que esté bien el niño» (L121); «Pedro, estoy curada. Estaba ya allí… me han mandado de nuevo aquí abajo para sufrir aún» (L135).
 - [[mártir]] — «mártir» no por búsqueda de cielo sino por ser madre (L322-324); féretro en tumba de sacerdotes (L344).
 - [[beatificación]] — Pablo VI (Ángelus 23 sept 1973), Juan Pablo II, cardenal Martini la señalaron como ejemplo (L7); proceso canónico concluyó beatificación (L17).
-- [[consejo_evangélico]] — propósitos a los 16 años: «hacerlo todo por Jesús», «morir antes que pecado mortal», «via de la humillación más corta para santidad» (L181-205).
+- [[consejos_evangélicos]] — propósitos a los 16 años: «hacerlo todo por Jesús», «morir antes que pecado mortal», «via de la humillación más corta para santidad» (L181-205).
 - [[acción_católica]] — responsabilidades educativas; guiones para juventudes femeninas (L211-215).
 - [[providence]] — confianza en Dios Padre: «Dios podía cuidar a sus otros hijos, pero ni siquiera Dios habría podido cuidar al que llevaba en su seno si ella lo rechazaba» (L334).
 - [[fe]] — fe que da rostro filial y paternal a la Providencia (L330).
@@ -36,7 +36,7 @@ tags: ["resumen", "maternidad", "matrimonio", "medicina", "providence", "santida
 - [[esperanza]] — «Con fe y esperanza me he confiado al Señor incluso contra la terrible palabra de la ciencia» (L66).
 - [[aborto]] — como médico se negó: «¡No se juega con los niños!» (L318); decisión coherente con convicción de que criatura es don de Dios con derechos sagrados (L324).
 - [[sacrificio]] — renovación continua 7 meses: «No me salvéis a mí, sino al niño» (L312).
-- [[sacramento_matrimonio]] — «colaboradores de Dios en la creación… darle hijos que le amén y le sirvan» (L279).
+- [[sacramento_del_matrimonio]] — «colaboradores de Dios en la creación… darle hijos que le amén y le sirvan» (L279).
 - [[providencia]] — decisión «meditada», «reacción bien pensada» (L330); evidencia: tres hijos la necesitaban, pero para el del seno era indispensable (L332).
 
 ## 1. Una madre para nuestro tiempo (L3-26)

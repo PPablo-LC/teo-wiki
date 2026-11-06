@@ -43,7 +43,7 @@ La estrella se relaciona con la [[epifanía]], con los [[magos_de_oriente]], con
 
 ## Ver también
 
-[[magos_de_oriente]], [[epifanía]], [[balaam]], [[belén]], [[natividad]], [[messianismo]]
+[[magos_de_oriente]], [[epifanía]], [[balaam]], [[belén]], [[natividad]], [[mesianismo]]
 
 ## Referencias
 

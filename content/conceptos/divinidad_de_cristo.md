@@ -45,7 +45,7 @@ ODPC reconstruye la trayectoria con la que la divinidad de Jesús se hizo explí
 
 ## Relaciones doctrinales
 
-Se relaciona con [[cristología]], [[jesucristo]], [[unión_hipostática]], [[consubstancialidad]], [[concilio_de_nicea]], [[concilio_de_calcedonia]], [[concilio_de_éfeso]], [[encarnación]], [[redentor_hominis]], [[única_mediación_de_cristo]].
+Se relaciona con [[cristología]], [[jesucristo]], [[unión_hipostática]], [[consubstancialidad]], [[concilio_de_nicea]], [[concilio_de_calcedonia]], [[concilio_de_éfeso]], [[encarnación]], [[redemptor_hominis]], [[única_mediación_de_cristo]].
 
 ## Ver también
 

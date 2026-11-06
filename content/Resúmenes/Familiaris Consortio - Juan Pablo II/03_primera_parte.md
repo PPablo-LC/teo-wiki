@@ -12,7 +12,7 @@ tags: ["resumen", "familiaris consortio"]
 
 ## Conceptos básicos referenciados
 
-- [[luces_y_sombras_de_la_familia_en_la_actualidad|luces y sombras de la familia hoy]] — tema de la primera parte
+- [[04_luces_y_sombras_de_la_familia_en_la_actualidad|luces y sombras de la familia hoy]] — tema de la primera parte
 
 ## Contenido
 

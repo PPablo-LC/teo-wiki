@@ -133,6 +133,18 @@ En los ejercicios de 1994, Giussani aborda la relación fe-razón a través de l
 
 Fe y razón no se oponen: el autor de la revelación y de la razón es el mismo, y «lo que es contrario a la recta razón es también contrario a la sabiduría divina». La razón no demuestra el contenido de la fe, sino que muestra que la fe no es imposible ni contradictoria. No hay doble verdad (contra la doctrina que luego recogería Ockham): no hay dos criterios de verdad sino dos maneras de conocer la verdad; ni vale la distinción moderna entre verdades lógicas, científicas, históricas y «religiosas»: la verdad es una. En la práctica: con quienes no aceptan las mismas Escrituras «hay que apelar a la razón, a la que todos están obligados a asentir» (Summa contra Gentiles como manual para predicadores).
 
+### Según The Pivotal Players (PP)
+
+Barron presenta a Tomás de Aquino como el gran adversario del **averroísmo latino** y de la «doble verdad»: si algo puede ser teológicamente verdadero y filosóficamente falso, la fe y la razón acaban sin relación y la fe queda como irracional, que es exactamente lo que sostendrán Kant y la Ilustración. Tomás se niega: ambas proceden del mismo Dios que es la Verdad, y por eso no pueden contradecirse. La fe no es infrarracional sino **suprarracional**: su oscuridad «no viene de insuficiencia de luz sino de exceso de luz». De ahí que la razón pueda explorar la fe con total libertad y que en la fe auténtica no haya *sacrificium intellectus*. El contraste con el racionalismo moderno es deliberado: para muchos, creer es credulidad; para Tomás, es adhesión a una verdad que la razón no agota pero tampoco contradice.
+
+Newman lleva el análisis al terreno de la psicología del conocimiento. En la *Grammar of Assent* (1870) distingue el **asentimiento nocional** —aquiescencia a proposiciones abstractas— del **asentimiento real**, que se da ante cosas concretas y mueve la conducta: «las personas nos influyen, las voces nos derriten, las miradas nos someten, los hechos nos inflaman». El fundamento del asentimiento real en religión es la **conciencia**, voz que nos dice que hemos agradado u ofendido a alguien que todo lo ve. Contra Locke, el asentimiento no se reduce a inferencia: afirmamos sin dudar que Gran Bretaña es una isla por una convergencia de indicios que ninguno basta como prueba; a esa percepción Newman la llama *illative sense*. La consecuencia práctica es evangelizadora: hacen falta silogismos y testigos, argumentos y emociones, porque la conversión se juega tanto en la lógica formal como en la informal.
+
+### Según Word on Fire (WOF)
+
+La homilía sobre Heb 11,1 parte de la queja de Tillich —«fe» es la palabra más malentendida del vocabulario cristiano— y de la tesis de Tomás de que la fe es la puerta de acceso a la vida divina. La definición de Hebreos describe una tensión hacia realidades apenas vislumbradas: caminar en la oscuridad, pero con «certeza» y «convicción», de modo que la paradoja propia de la fe es oscuridad de visión y firmeza de propósito.
+
+Contra la exigencia moderna —formulada por Locke— de un vínculo estrecho entre inferencia y asentimiento, Barron sigue a Newman: en *The Grammar of Assent* muestra que incluso el razonamiento más ordinario implica algo semejante a la fe; quien afirma que Inglaterra es una isla se apoya en mapas, historias y testimonios que no puede verificar, y sin embargo no afirma con vacilación. Lonergan extendió el argumento al científico, que depende de la exactitud de materiales que no comprueba. La conclusión es que la línea entre fe y razón no es tan nítida como pensó la Ilustración, y que se cree en Dios como se llega a cualquier convicción seria: por experiencias, deducciones, argumentos, testimonios e intuiciones que convergen. Newman llamó «sentido ilativo» (*illative sense*) a ese instinto de la mente para la coherencia de las evidencias probables: un cable no levanta un gran peso, pero cincuenta entrelazados sí.
+
 ## Distinciones importantes
 
 - **Preámbulos de la fe**: verdades racionales que preparan para la fe (existencia de Dios, inmortalidad del alma).
@@ -143,7 +155,6 @@ Fe y razón no se oponen: el autor de la revelación y de la razón es el mismo,
 ## Relaciones doctrinales
 
 La relación entre fe y razón es fundamental para la [[teología_fundamental]], la [[apologética]] y la [[filosofía_cristiana]]. Se relaciona con la [[revelación_pública]] (que sana y eleva la razón), la [[fe_católica]] (acto de fe razonable), la [[teología]] como fe que busca entender (*fides quaerens intellectum*).
-
 
 ## Analizado para
 

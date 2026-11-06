@@ -21,11 +21,11 @@ Sión es el lugar de la presencia divina, donde Dios habita en medio de su puebl
 
 ## Relaciones doctrinales
 
-Se relaciona con [[jerusalén]], [[templo]], [[david]], [[monte_sión]], [[ciudad_de_dios]], [[iglesia]], [[jerusalén_celestial]], [[nueva_jerusalen]], [[reino_de_dios]]
+Se relaciona con [[jerusalén]], [[templo]], [[david]], [[monte_sión]], [[ciudad_de_dios]], [[iglesia]], [[nueva_jerusalen]], [[reino_de_dios]]
 
 ## Ver también
 
-[[jerusalén]], [[templo]], [[jerusalén_celestial]], [[reino_de_dios]]
+[[jerusalén]], [[templo]], [[nueva_jerusalen]], [[reino_de_dios]]
 
 ## Referencias
 

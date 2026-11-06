@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization_and_culture", "arte"]
 ## Conceptos básicos referenciados
 
 - [[arte]] — el arte como vehículo de evangelización
-- [[sanMateo]] — las tres pinturas de Caravaggio sobre San Mateo
+- [[san_mateo]] — las tres pinturas de Caravaggio sobre San Mateo
 
 ## Contenido
 

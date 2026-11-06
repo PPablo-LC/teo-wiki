@@ -22,7 +22,7 @@ tags: ["resumen", "paradoxes of faith"]
 - [[dogma]] — sin espíritu, se convierte en mito
 - [[iglesia]] — seno maternal que acoge las mentes más diversas
 - [[vida_eterna]] — comienza aquí por la caridad
-- [[san_agustín]] — citado varias veces
+- [[agustín_de_hipona]] — citado varias veces
 - [[san_pablo]] — citado sobre la oposición entre lo efímero y lo perfecto
 - [[blaise_pascal]] — citado sobre piedad supersticiosa
 

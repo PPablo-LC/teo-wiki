@@ -34,7 +34,7 @@ Allen desarrolla la visión de la OCIA como mucho más que un programa de estudi
 
 ## Ver también
 
-[[rito_de_iniciación_cristiana_de_adultos]], [[catecumenado]], [[conversión]], [[gracia]], [[encuentro_personal_con_cristo]], [[kerygma]], [[evangelización]], [[divinización]], [[bautismo]], [[eucaristía]], [[presencia_real]], [[mistagogia]], [[cuerpo_místico]], [[testimonio_cristiano]]
+[[rito_de_iniciación_cristiana_de_adultos]], [[catecumenado]], [[conversión]], [[gracia]], [[encuentro_personal_con_cristo]], [[kerygma]], [[evangelización]], [[divinización]], [[bautismo]], [[eucaristía]], [[presencia_real]], [[mistagogía]], [[cuerpo_místico]], [[testimonio_cristiano]]
 
 ## Referencias
 

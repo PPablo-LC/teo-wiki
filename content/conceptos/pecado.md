@@ -200,6 +200,21 @@ Los veniales no requieren la Confesión, pero esta es «sumamente útil», sobre
 todo para no habituarse a ellos, pues la costumbre dispondría a cometer
 también los graves.
 
+### Según The Strangest Way (STR)
+
+Barron dedica el segundo camino a la condición pecadora y ofrece una síntesis que puede leerse como complemento ascético de la doctrina clásica. Distingue, con el instinto bíblico, entre el Pecado —la enfermedad de fondo— y los pecados, sus síntomas; cita a Henri de Lubac, que lo llamó *cette claudication mystérieuse*, «esta cojera misteriosa», y al cura de Ars, que tras años de confesonario concluyó que «la gente es mucho más triste de lo que parece». El Pecado no es la depresión clínica, sino la insatisfacción profunda: queremos la verdad y la obtenemos a cuentagotas, queremos el bien y lo alcanzamos rara vez, sabemos lo que deberíamos ser y somos otra cosa.
+
+Su texto de referencia es Romanos 7: «no entiendo mis propias acciones» (7,14), «no hago lo que quiero, sino lo que aborrezco» (7,15), «puedo querer el bien, pero no realizarlo» (7,18), «¡desdichado de mí! ¿Quién me librará de este cuerpo de muerte?» (7,24). La vida espiritual se revela como guerra civil, y ningún combate la resuelve. Con Pascal: el hombre no es ángel ni bestia, y quien intenta hacer de ángel hace de bestia; cuando nos convencemos de que con nuestras fuerzas saldremos de la miseria, no la resolvemos, la intensificamos. De ahí la frase que Barron subraya: «los perpetradores de la mayor violencia de la historia no fueron los que creían en la caída, sino precisamente los que la negaban».
+
+La definición más densa que recoge es la agustiniana: el pecado es el estado de estar *incurvatus in se*, curvado sobre sí mismo. Las potencias del alma, hechas para orientarse a la naturaleza, a los otros, al cosmos y al misterio de Dios, se concentran en el ego, y «como un agujero negro, el alma pecadora atrae hacia sí toda la luz y la energía». Dante lo figura en Satanás helado en el fondo del infierno, batiendo las alas sin poder moverse: querer volar atrapado en el hielo, conducir con un pie en el acelerador y otro en el freno. La alegoría de Orígenes sobre el Éxodo completa el cuadro: el Faraón domina a Israel, es decir, las fuerzas del miedo, el odio y la violencia sojuzgan la inteligencia, la voluntad y la creatividad, que acaban construyendo fortificaciones para el ego y monumentos para su gloria. La salida es cristológica: el Emmanuel «ha ido hasta el fondo del Pecado para vencerlo», y quienes han sido sacados de esas aguas pueden mirar su miseria «con confianza y hasta con un poco de humor».
+
+### Según Lenten Gospel Reflections 2022 (LGR22)
+
+El diagnóstico del pecado es uno de los hilos más firmes del volumen. Barron distingue entre pecados y pecado, entre los síntomas y la enfermedad de fondo: la ruptura que representa el hijo pródigo, la resistencia a la invasión de Dios que deja la vida estéril, la esclavitud que Jesús denuncia. La meditación del miércoles de la cuarta semana es la más explícita: el santo cura de Ars, preguntado qué había aprendido sobre la naturaleza humana en años de confesonario, respondió que «la gente está mucho más triste de lo que parece», y Pascal fundó su apologética en que todos los hombres son infelices. Esa tristeza universal y obstinada es el pecado; no se identifica con la depresión psicológica —los peores pecadores pueden estar bien ajustados y los mayores santos ser infelices—, sino que es la insatisfacción profunda: querer la verdad y alcanzarla a retazos, querer el bien y lograrlo rara vez, saber lo que se debería ser y ser otra cosa. La fuente añade la crítica cultural: el «I'm OK—You're OK» y la alergia contemporánea a admitir culpa hacen ininteligible una religión de salvación; los santos, en cambio, soportan la revelación de que el pecado es una potencia que trabaja en ellos.
+
+### Según Lenten Gospel Reflections 2024 (LGR24)
+
+La fuente de 2024 repite el núcleo —pecado frente a pecados, cura de Ars, Pascal, distinción respecto de la depresión— y lo completa con dos aportaciones propias. La primera es el *mysterium iniquitatis*: en la meditación de Judas, el mal se presenta como una tendencia anómala, sin fundamento racional ni razón de ser, que sin embargo está siempre a la sombra del bien y lo parasita; no extraña que, cuando el banquete sagrado llega a su expresión más rica, el mal lo acompañe. La segunda es la formulación del hijo pródigo: el pecado es ruptura, y su dinámica consiste en querer convertir el don divino en posesión del ego, lo que conduce al *chora makra*, «el gran vacío», la nada. El pecado no es así solo una transgresión de normas, sino una operación antropológica fallida: el intento de retener lo que solo existe dándose.
 
 ## Distinciones importantes
 
@@ -211,7 +226,7 @@ también los graves.
 
 ## Relaciones doctrinales
 
-[[gracia_santificante]], [[virtud_infusa]], [[pecado_mortal]], [[pecado_venial]], [[imperfección]], [[purificación_activa]], [[aversio_a_deo]], [[conversio_ad_creaturas]]
+[[gracia_santificante]], [[virtud_infusa]], [[pecado_mortal]], [[pecado_venial]], [[imperfección]], [[purificación_activa]], [[aversio_a_deo]], [[conversio_ad_creaturas]], [[mysterium_iniquitatis]]
 
 ## Analizado para
 
@@ -219,7 +234,7 @@ también los graves.
 
 ## Ver también
 
-[[concupiscencia]], [[tentación]], [[mundo]], [[demonio]], [[carne]], [[jorge_loring]]
+[[concupiscencia]], [[tentación]], [[mundo]], [[demonio]], [[carne]], [[mysterium_iniquitatis]], [[fomes_peccati]], [[jorge_loring]]
 
 ## Referencias
 

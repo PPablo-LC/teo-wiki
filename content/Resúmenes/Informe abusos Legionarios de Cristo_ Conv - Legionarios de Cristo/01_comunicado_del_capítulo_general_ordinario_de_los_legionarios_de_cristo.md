@@ -19,7 +19,7 @@ tags: ["resumen", "espiritualidad_legionaria", "capítulo_general_2020", "comuni
 - [[pedido_perdón_víctimas]] — Perdón explícito a víctimas y familias, retractación juicios a denunciantes
 - [[examen_conciencia_institucional]] — 4 actitudes de fondo + 5 preguntas personales
 - [[carencias_históricas_lc]] — 8 carencias reconocidas (a-h)
-- [[compromiso_enmienda]] — 10 medidas concretas (Proteger y sanar)
+- [[compromiso_de_enmienda]] — 10 medidas concretas (Proteger y sanar)
 - [[proteger_y_sanar]] — Documento normativo PS con principios, protocolos, normas
 - [[conversión_institucional]] — Camino continuo, "nunca concluido", conversión continua
 

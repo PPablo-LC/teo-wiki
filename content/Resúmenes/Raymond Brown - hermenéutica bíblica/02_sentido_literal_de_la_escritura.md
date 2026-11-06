@@ -15,7 +15,7 @@ tags: ["resumen", "raymond brown hermenéutica bíblica"]
 - [[sentido_literal]] — el sentido que intentó directamente el autor humano y que se expresa en sus palabras
 - [[sensus_spiritualis|sentido típico o espiritual]] — el contenido en las «cosas» de la Escritura, distinto del literal
 - [[inerrancia_bíblica]] — importa tanto el pensamiento del autor como el mensaje que transmite
-- [[género_literario_bíblico|género literario]] — primer paso para hallar el sentido intentado por el autor (*Formgeschichte*)
+- [[géneros_literarios_bíblicos|género literario]] — primer paso para hallar el sentido intentado por el autor (*Formgeschichte*)
 - [[historia_de_la_redacción|Redaktionsgeschichte]] — cómo se usaron las piezas literarias al servicio de la intención del autor
 
 ## Contenido

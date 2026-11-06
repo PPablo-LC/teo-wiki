@@ -60,6 +60,14 @@ En clave juvenil: los adolescentes «buscan una experiencia de amistad con Jesú
 
 **I,25 — La vergüenza del discípulo que no se conforma:** «¡Acuérdate de la profesión que tomaste, y propónte por modelo al Crucificado! Bien puedes avergonzarte mirando la vida de Jesús, porque aún no te has esforzado en conformarte más con Él, aunque ha muchos años que estás en el camino de Dios» (I,25 [6]). El texto mide el discipulado por la conformidad con el Crucificado, y no por la antigüedad en el camino.
 
+### Según The Strangest Way (STR)
+
+Barron hace del discipulado el hilo de todo el libro. Su punto de partida es el nombre más antiguo del cristianismo: «el Camino» (Hech 9,2). El cristianismo, escribe, «antes que nada es una forma de vida, un camino que se recorre»; no es solo cuestión de la mente, sino del cuerpo, y no es real «hasta que se ha insinuado en la sangre y los huesos, hasta hacerse instinto, tan físico como espiritual».
+
+Su texto clave es Jn 1,38-39. A la pregunta de Jesús —«¿qué buscáis?»— los discípulos responden «¿dónde vives?»; en el vocabulario de Juan, *menein* (permanecer) designa la fuente de la vida y del sentido, de modo que preguntan por la forma de vida que sostiene al maestro. «Venid y veréis», y fueron, vieron dónde vivía y permanecieron con él. Barron comenta que «el cuerpo (permanecer con él) condiciona en un sentido importante la mente (“es el Mesías”), el modo de vida forjando la convicción», y que en el ministerio de Jesús la enseñanza ocurre siempre «en el contexto mucho más elemental del seguimiento, como si el aprendizaje no pudiera tener lugar desgajado de la vida». Jesús invita a una relación de aprendizaje: «atrapar» su modo de ser por proximidad, imitación y amor.
+
+Para explicar la lógica del aprendizaje recurre al taller del pintor renacentista, al aprendizaje del béisbol y a su propia iniciación filosófica: en los tres casos el conocimiento no precede a la práctica, sino que la práctica produce el conocimiento, y al final «el aprendizaje te convierte». De ahí su tesis sobre la transmisión de la fe: el movimiento va de lo bello a lo bueno y de lo bueno a lo verdadero, y el error de liberales y conservadores es invertir el orden y empezar discutiendo sobre el bien y el mal; «a ningún niño le entra la afición al béisbol oyendo disputas sobre el reglamento», y a nadie enamora el cristianismo si solo oye disputas sobre *Humanae vitae* o la infalibilidad. Su conclusión: el cristianismo «es un juego cautivador e intelectualmente satisfactorio, pero de lo que se trata es de jugarlo; es un camino bello y verdadero, pero de lo que se trata es de recorrerlo».
+
 ## Distinciones importantes
 
 - Todo cristiano es discípulo de Cristo, llamado a la perfección de la caridad.

@@ -16,7 +16,7 @@ tags: ["resumen", "evangelization and culture - 14"]
 - [[rosario_perpetuo]] — Asociación que organiza la oración continua del Rosario, hora por hora
 - [[misterios_gozosos_del_rosario]] — los cinco primeros misterios contemplados en el Rosario: Encarnación, Visita, Natividad, Presentación y hallazgo del Niño Jesús
 - [[adoración_eucarística]] — culto a Jesús sacramentado
-- [[vita_consagrada]] — don de sí mismo a Dios en la vida monástica
+- [[vida_consagrada]] — don de sí mismo a Dios en la vida monástica
 - [[virtudes_teologales]] — fe, esperanza y caridad; virtades infusionadas por Dios para la unión sobrenatural con Él
 - [[alegría]] — experiencia de la presencia de un bien amado en la mente
 - [[magníficat]] — cántico de María en la Visitación (Lc 1:46-55)

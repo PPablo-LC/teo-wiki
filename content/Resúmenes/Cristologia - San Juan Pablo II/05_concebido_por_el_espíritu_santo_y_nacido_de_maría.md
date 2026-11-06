@@ -14,7 +14,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "encarnación", 
 
 - [[encarnación]] — Concepción virginal de Jesús
 - [[maría]] — Madre virgen del Salvador
-- [[es_píritu_santo]] — Agente de la concepción divina
+- [[espíritu_santo]] — Agente de la concepción divina
 - [[virginidad_perpetua]] — María siempre virgen
 - [[jesucristo]] — Hijo eterno de Dios encarnado
 - [[nuevo_testamento]] — Testimonio de la concepción virginal

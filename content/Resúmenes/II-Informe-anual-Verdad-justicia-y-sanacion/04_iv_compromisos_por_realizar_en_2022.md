@@ -13,13 +13,13 @@ tags: ["resumen", "espiritualidad_legionaria", "informe_anual", "vjys_ii", "comp
 ## Conceptos básicos referenciados
 
 - [[compromisos_anuales]] — Planificación anual derivada de mandatos CG 2020
-- [[protección_menores]] — Eje central de los 7 compromisos
+- [[protección_de_menores]] — Eje central de los 7 compromisos
 - [[reparación_integral]] — Programa económico + acompañamiento (compromiso 2)
 - [[procedimientos_canónicos]] — Seguimiento según CDF, tribunales, canonistas externos (compromiso 3)
 - [[encubrimiento]] — Investigación con expertos externos (compromiso 4)
 - [[ambientes_seguros]] — Acreditación/reacreditación Praesidium (compromiso 5)
 - [[colaboración_externa]] — Instituciones, expertos, sobrevivientes (compromiso 6)
-- [[abusos_autoridad_y_conciencia]] — Abordaje sistemático pendiente (compromiso 7, mandato CG *Seréis mis testigos*, 21)
+- [[abusos_de_autoridad_y_conciencia]] — Abordaje sistemático pendiente (compromiso 7, mandato CG *Seréis mis testigos*, 21)
 - [[rendición_de_cuentas]] — Próximo informe anual dará a conocer avances significativos
 
 ## Contenido

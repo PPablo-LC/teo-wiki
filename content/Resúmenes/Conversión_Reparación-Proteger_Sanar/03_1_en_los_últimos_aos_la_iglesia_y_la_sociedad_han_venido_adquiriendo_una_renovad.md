@@ -20,7 +20,7 @@ tags: ["resumen", "conversión_reparación-proteger_sanar"]
 - [[tribunal_eclesiástico]] — tribunal constituido por la Legión de Cristo para juzgar causas canónicas de abusos
 - [[presunción_de_inocencia]] — derecho del legionario acusado hasta que se demuestre culpabilidad
 - [[confidencialidad]] — prohibición de imponer cláusulas de confidencialidad en acuerdos con víctimas
-- [[vitis_estis_lux_mundi]] — Motu Proprio del papa Francisco contra abusos en la Iglesia
+- [[vos_estis_lux_mundi]] — Motu Proprio del papa Francisco contra abusos en la Iglesia
 - [[codes_de_conducta]] — normas de comportamiento obligatorias para miembros y colaboradores
 - [[legionarios_de_cristo]] — Congregación que establece estas normas de protección
 

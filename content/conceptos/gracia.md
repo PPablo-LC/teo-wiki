@@ -207,6 +207,14 @@ Barron cierra este tema conectando 2 Samuel con su ensayo sobre "La gracia y la 
 
 **El hambre humana.** La multitud hambrienta es símbolo de la humanidad que, desde Adán y Eva, está famélica de lo que la sacie: hemos intentado llenar el vacío con riqueza, placer, poder, honor y afán de dominio, «pero nada funciona, precisamente porque estamos hechos para Dios y Dios no es otra cosa que amor».
 
+### Según The Strangest Way (STR)
+
+Barron no sistematiza la doctrina de la gracia, pero ofrece una de sus formulaciones más vivas a propósito de *Brideshead Revisited*. El punto de partida es que el centro no se conquista: «un centro nuevo nos llega como don divino, y nuestra primera responsabilidad es acogerlo». Cita a Tillich —el núcleo de la fe cristiana es «aceptar el hecho de que hemos sido aceptados»— y a Karl Adam: los creyentes «empezamos por arriba», no al pie del monte calculando si podremos escalar, sino en la cumbre como hijos amados. El Salmo 139, leído por Tillich como lamento del que quiere escapar de Dios, recibe en Pascua su respuesta: «no puedes; deja de intentarlo».
+
+La imagen que ordena el capítulo es la del anzuelo invisible de Chesterton: «lo atrapé con un anzuelo invisible y una línea lo bastante larga para dejarlo vagar hasta los confines del mundo y traerlo de vuelta con un tirón del hilo». Waugh tituló así la segunda parte de su novela, y Barron lee en ella la doctrina de la gracia: Dios llama a sus hijos al centro «incluso a los que han llegado al borde más lejano». Sebastián, hundido en Marruecos, acaba como hermano lego fallido viviendo con los monjes; Lord Marchmain, tras veinticinco años de hostilidad, se persigna en su lecho de muerte; Charles, tras años de naufragio, pronuncia en la capilla «una oración, una forma de palabras antigua y recién aprendida». «Atraído por su belleza, repelido por sus exigencias y finalmente traído por un tirón del hilo».
+
+La consecuencia pastoral es que la gracia no ahorra el camino, pero lo vuelve posible: la belleza de Dios «no está destinada meramente a hechizarnos; está diseñada también para rehacernos a su imagen». Y el pecado, correlativamente, es el agarrar prometeico de lo que solo puede recibirse: la capacidad de recibir con alegría el don de Dios se encoge y se vuelve recelosa cuando se cree la mentira de que Dios es un rival celoso.
+
 ## Distinciones importantes
 
 - Gracia santificante (habitual) vs. gracias actuales

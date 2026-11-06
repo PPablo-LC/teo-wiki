@@ -11,7 +11,7 @@ timestamp: 2026-07-02
 > Área: Patrística / Teología dogmática
 > Última actualización: 2026-07-02
 
-**San Ambrosio** (c. 340–397), Padre y Doctor de la Iglesia, obispo de Milán, fue una de las figuras más influyentes del siglo IV en Occidente. Su predicación y magisterio contribuyeron decisivamente a la derrota del [[arrianismo]] en el norte de Italia y a la conversión de [[san_agustín]].
+**San Ambrosio** (c. 340–397), Padre y Doctor de la Iglesia, obispo de Milán, fue una de las figuras más influyentes del siglo IV en Occidente. Su predicación y magisterio contribuyeron decisivamente a la derrota del [[arrianismo]] en el norte de Italia y a la conversión de [[agustín_de_hipona]].
 
 ## Contexto histórico y biografía
 
@@ -29,7 +29,7 @@ Sus obras morales (*De Officiis Ministrorum*) adaptaron la ética ciceroniana a 
 
 ### Influencia en San Agustín
 
-La predicación de Ambrosio en Milán fue determinante para la conversión intelectual y moral de [[san_agustín]], quien encontró en él un modelo de exégesis alegórica de la Escritura y una afirmación clara de la doctrina católica.
+La predicación de Ambrosio en Milán fue determinante para la conversión intelectual y moral de [[agustín_de_hipona]], quien encontró en él un modelo de exégesis alegórica de la Escritura y una afirmación clara de la doctrina católica.
 
 ### Liturgia e himnodia
 
@@ -37,7 +37,7 @@ Se le atribuye la organización del canto ambrosiano y la composición de numero
 
 ## Ver también
 
-[[padres_de_la_iglesia]], [[san_agustín]], [[arrianismo]], [[patrística]], [[concilio_de_constantinopla_i]], [[espíritu_santo]], [[hispana]]
+[[padres_de_la_iglesia]], [[agustín_de_hipona]], [[arrianismo]], [[patrística]], [[concilio_de_constantinopla_i]], [[espíritu_santo]], [[hispana]]
 
 ### Según Sicari (AMS)
 

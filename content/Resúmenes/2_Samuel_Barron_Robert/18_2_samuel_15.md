@@ -18,7 +18,7 @@ tags: ["resumen", "2 samuel barron robert"]
 - [[demagogia]] — Absalón besa y juzga para ganar corazones.
 - [[humildad]] — David sube descalzo y con la cabeza cubierta al monte de los Olivos.
 - [[fe]] — Confía en que Dios puede devolverle el arca y el reino.
-- [[lealtad]] — Ittai el geteo y otros le siguen fielmente.
+- [[fidelidad]] — Ittai el geteo y otros le siguen fielmente.
 - [[providencia]] — Dios usa el plan para frustrar a Absalón.
 - [[oración]] — David pide que el consejo de Aquitofel se vuelva necedad.
 - [[cruz]] — Prefigura a Cristo que huye de Jerusalén hacia el monte de los Olivos.

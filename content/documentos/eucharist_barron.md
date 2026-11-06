@@ -18,7 +18,7 @@ tags: ["eucaristía", "sacramentos", "espiritualidad", "presencia_real", "sacrif
 - **Editorial**: Orbis Books, Maryknoll (Nueva York), 2008
 - **Código**: EuchBr
 - **Fuente**: `raw/Bases_doctrinales-raw/eucharist_barron/` (9 archivos, en inglés)
-- **Índice raw**: [[raw/Bases_doctrinales-raw/eucharist_barron/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/eucharist_barron/índice.md`
 
 ## Contenido
 

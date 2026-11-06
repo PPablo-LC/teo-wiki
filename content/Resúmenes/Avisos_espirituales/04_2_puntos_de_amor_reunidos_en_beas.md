@@ -27,7 +27,7 @@ tags: ["resumen", "avisos espirituales", "teología_mística", "san_juan_de_la_c
 - [[gracia]] — toda bondad es prestada; Dios la tiene por propia
 - [[don_de_sabiduría]] — la sabiduría entra por el amor, silencio y mortificación
 - [[apetito]] — cinco daños del apetito en el alma
-- [[imperfecciones]] — hábitos de imperfecciones que impiden la divina unión
+- [[imperfección]] — hábitos de imperfecciones que impiden la divina unión
 - [[cruz]] — bástele Cristo crucificado; no busca cruz no busca gloria
 - [[fe]] — confianza en Dios; señales de recogimiento
 - [[escatología]] — memoria de la vida eterna
@@ -86,7 +86,7 @@ Colección de 42 puntos de amor dirigidos a las religiosas carmelitas de Beas:
 39. **Tres señales de recogimiento:** no gustar de las cosas transitorias; gustar de la soledad, el silencio y lo que es más perfección; que las cosas que solían ayudar estorben, no llevando el alma otro arrimo a la oración sino la fe, la esperanza y la caridad ([[contemplación]]).
 40. **Paciencia:** si un alma tiene más paciencia para sufrir y tolerancia para carecer de gustos, es señal de más aprovechamiento en la virtud ([[paciencia]]).
 41. **Pájaro solitario:** cinco condiciones: ir a lo más alto; no sufrir compañía; poner el pico al aire (del Espíritu Santo); no tener color determinado (no determinarse en nada sino en la voluntad de Dios); cantar suavemente en contemplación y amor del Esposo. Así ha de ser el alma contemplativa ([[contemplación_infusa]]).
-42. **Imperfecciones voluntarias:** los hábitos de imperfecciones voluntarias nunca vencidas —hablar mucho, asimientillos a persona, vestido, celda, libro, comida, gustillos de saber y oír— impiden la divina unión y la perfección ([[imperfecciones]]).
+42. **Imperfecciones voluntarias:** los hábitos de imperfecciones voluntarias nunca vencidas —hablar mucho, asimientillos a persona, vestido, celda, libro, comida, gustillos de saber y oír— impiden la divina unión y la perfección ([[imperfección]]).
 
 ## Mapa del archivo fuente
 

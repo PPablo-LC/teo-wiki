@@ -20,7 +20,7 @@ tags: ["resumen", "summa theologiae"]
 - [[voluntad_de_dios]], [[amor_de_dios]], [[justicia_de_dios]], [[misericordia_divina]]
 - [[providencia]], [[predestinación]], [[omnisciencia]]
 - [[verdad]], [[falsedad]], [[vida_de_dios]]
-- [[ideas_divinas]], [[nombres_de_dios]]
+- [[ideas_divinas]], [[nombre_de_dios]]
 - [[omnipotencia]], [[bienaventuranza]]
 - [[trinidad]], [[procesiones_divinas]], [[relaciones_trinitarias]]
 - [[persona_divina]], [[actos_nocionales]], [[misiones_divinas]]
@@ -67,7 +67,7 @@ El Doctor de la verdad católica tiene por misión no sólo ampliar y profundiza
 - **Q.10 — Eternidad de Dios** (6 a.): La [[eternidad_divina|eternidad]] de [[dios]] es posesión simultánea de vida interminable; se distingue de la sempiternidad y del tiempo.
 - **Q.11 — Unidad de Dios** (4 a.): [[dios]] es absolutamente [[unidad_de_dios|uno]], sin división de partes ni de personas en cuanto a la esencia.
 - **Q.12 — Cómo conocemos a Dios** (13 a.): Conocemos a [[dios]] por sus efectos, no por su esencia; más conocemos lo que no es que lo que es.
-- **Q.13 — Los nombres de Dios** (12 a.): Los [[nombres_de_dios]] se atribuyen a Él de modo analógico, no unívoco ni equívoco; los nombres sustantivos indican unidad, los adjetivos multiplicidad.
+- **Q.13 — Los nombres de Dios** (12 a.): Los [[nombre_de_dios]] se atribuyen a Él de modo analógico, no unívoco ni equívoco; los nombres sustantivos indican unidad, los adjetivos multiplicidad.
 - **Q.14 — Ciencia de Dios** (16 a.): La [[omnisciencia]] de [[dios]] es causa de las cosas; conoce todo en su esencia; ve lo singular, los futuros contingentes, el mal, lo inexistente; su ciencia es inmutable, especulativa y práctica.
 - **Q.15 — Las ideas** (3 a.): Las [[ideas_divinas]] son los exemplares de las cosas en la mente divina; hay muchas ideas, pero no todo lo conocido por Dios es idea (el mal no la tiene).
 - **Q.16 — La verdad** (8 a.): La [[verdad]] está en el entendimiento como adecuación de cosa e intelecto; Dios es la verdad misma; la verdad creada no es eterna.

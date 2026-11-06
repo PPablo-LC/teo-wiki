@@ -25,4 +25,4 @@ Esta sección encabeza la segunda gran parte de la obra de Denzinger, dedicada a
 
 ## DOCUMENTOS DE LOS ROMANOS PONTÍFICES Y DE LOS CONCILIOS
 
-Sección introductoria que presenta el conjunto de documentos doctrinales de los [[romanos_pontífices]] y de los [[concilios_ecuménicos]] y regionales, desde los primeros siglos hasta la época moderna. Incluye testimonios de los primeros papas (San Pedro, San Clemente I), las definiciones de los concilios ecuménicos (Nicea, Constantinopla, Efeso, Calcedonia), las encíclicas papales y los decretos de la Iglesia sobre materias de fe, moral, liturgia y disciplina.
+Sección introductoria que presenta el conjunto de documentos doctrinales de los [[romano_pontífice]] y de los [[concilios_ecuménicos]] y regionales, desde los primeros siglos hasta la época moderna. Incluye testimonios de los primeros papas (San Pedro, San Clemente I), las definiciones de los concilios ecuménicos (Nicea, Constantinopla, Efeso, Calcedonia), las encíclicas papales y los decretos de la Iglesia sobre materias de fe, moral, liturgia y disciplina.

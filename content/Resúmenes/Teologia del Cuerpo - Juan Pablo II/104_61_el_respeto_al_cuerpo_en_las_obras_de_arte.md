@@ -15,7 +15,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[don_de_la_persona]] — el cuerpo desnudo como don de persona a persona
 - [[sistema_esponsalicio]] — el sistema de donación interpersonal
 -[[desarraigo]] — la transferencia al margen originario
-- [[vergüena]] — la vergüena y su función protectora del don
+- [[vergüenza]] — la vergüena y su función protectora del don
 - [[intimidad]] — la intimidad del propio cuerpo
 - [[sensibilidad_personal]] — el desarrollo de la cultura y del pudor
 - [[pornovisión]] — la acusación a las producciones visuales

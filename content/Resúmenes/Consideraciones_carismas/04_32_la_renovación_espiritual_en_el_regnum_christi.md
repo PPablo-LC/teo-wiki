@@ -14,7 +14,7 @@ tags: ["resumen", "consideraciones carismas"]
 
 - [[espiritualidad_del_regnum_christi]] — vida espiritual centrada en el misterio de Cristo
 - [[espíritu_santo]] — guía y artífice de la transformación en Cristo
-- [[vita_contemplativa]] — vida interior y oración como centro del caminar espiritual
+- [[vida_contemplativa]] — vida interior y oración como centro del caminar espiritual
 - [[liturgia]] — culto público de la Iglesia, centrado en la [[eucaristía]]
 - [[virtudes_teologales]] — fe, esperanza y caridad
 - [[filiación_divina]] — identidad de hijos de Dios recibida en el bautismo

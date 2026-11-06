@@ -12,7 +12,7 @@ tags: ["resumen", "redemptoris mater"]
 
 ## Conceptos básicos referenciados
 
-- [[maría_en_el_misterio_de_cristo|María en el misterio de Cristo]] — tema de la primera parte
+- [[03_maría_en_el_misterio_de_cristo|María en el misterio de Cristo]] — tema de la primera parte
 
 ## Contenido
 

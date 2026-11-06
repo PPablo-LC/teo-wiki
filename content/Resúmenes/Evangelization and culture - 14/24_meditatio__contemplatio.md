@@ -21,11 +21,11 @@ tags: ["resumen", "evangelization and culture - 14"]
 - [[pro_vida]] — defensa de la vida humana desde la concepción en el mundo post-Roe
 - [[san_buenaventura]] — Doctor de la Iglesia franciscano, maestro de la vida contemplativa
 - [[santa_teresa_de_jesús]] — Doctora de la Iglesia, mística del *Éxtasis* de Bernini
-- [[blas_pascal]] — filósofo y matemático, autor de las «Apuestas de Pascal»
+- [[blaise_pascal]] — filósofo y matemático, autor de las «Apuestas de Pascal»
 - [[rabino_jonathan_blake]] — reflexión sobre la «sensación de carencia» como obstáculo para la alegría
 - [[juan_duns_scoto]] — beato y filósofo escolástico, contribuciones a la evangelización
 - [[sentido_de_la_vida]] — pregunta existencial sobre el propósito de la existencia humana
-- [[arte_sacra]] — obras de arte que expresan misterios de la fe
+- [[arte_sacro]] — obras de arte que expresan misterios de la fe
 
 ## Contenido
 

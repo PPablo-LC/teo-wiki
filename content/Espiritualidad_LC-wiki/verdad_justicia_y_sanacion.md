@@ -48,7 +48,7 @@ El documento «Conversión y reparación» establece las bases del enfoque: la c
 
 ## Relaciones doctrinales
 
-[[justicia_restaurativa]], [[conversión_institucional]], [[proteger_y_sanar]], [[eshmá]], [[ambientes_seguros]], [[abusos_de_autoridad]], [[víctima]], [[reparación]]
+[[justicia_restaurativa]], [[conversión_institucional]], [[proteger_y_sanar]], [[eshmá]], [[ambientes_seguros]], [[abuso_de_autoridad]], [[víctima]], [[reparación]]
 
 ## Ver también
 

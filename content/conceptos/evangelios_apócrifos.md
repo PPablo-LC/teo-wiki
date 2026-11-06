@@ -69,7 +69,7 @@ Los evangelios apócrifos (también llamados «evangelios perdidos» o *apócrif
 - [[sucesión_apostólica]]
 - [[eusebio_de_cesárea]]
 - [[celso]]
-- [[san_irineo_de_león]]
+- [[ireneo_de_lion]]
 - [[the_case_for_jesus]]
 
 ## Referencias

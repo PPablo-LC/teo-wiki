@@ -60,7 +60,7 @@ Aunque no era apóstol ni testigo ocular, Lucas compiló testimonios de testigos
 - [[san_mateo]]
 - [[san_marcos]]
 - [[san_juan_evangelista]]
-- [[san_irineo_de_león]]
+- [[ireneo_de_lion]]
 - [[hechos_de_los_apóstoles]]
 
 ## Referencias

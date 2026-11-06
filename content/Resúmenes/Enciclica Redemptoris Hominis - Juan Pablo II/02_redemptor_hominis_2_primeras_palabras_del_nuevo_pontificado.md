@@ -12,7 +12,7 @@ tags: ["resumen", "redemptor hominis"]
 
 ## Conceptos básicos referenciados
 
-- [[obediencia_de_fe|obediencia de la fe]] — respuesta a la pregunta «¿Aceptas?»
+- [[obediencia_de_la_fe|obediencia de la fe]] — respuesta a la pregunta «¿Aceptas?»
 - [[sucesión_apostólica|Sucesor de Pedro]] — ministerio petrino asumido
 - [[espíritu_santo|Espíritu de verdad]] — guía prometida a la Iglesia
 

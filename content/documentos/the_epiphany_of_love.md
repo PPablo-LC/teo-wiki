@@ -18,7 +18,7 @@ timestamp: 2026-11-02
 - **Código**: EPL
 - **Fuente**: `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/` (11 archivos, ~1734 líneas)
 - **Formato**: Traducción del italiano (Susan Dawson Vasquez, rev. Stephan Kampowski)
-- **Índice raw**: [[raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`
 
 ## Contenido
 
@@ -79,4 +79,4 @@ la pregunta por «quién soy llamado a ser».
 ## Referencias
 
 - Melina, Livio. *The Epiphany of Love: Toward a Theological Understanding of Christian Action*. Grand Rapids: Eerdmans, 2010.
-- Índice raw: [[raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice]]
+- Índice raw: `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`

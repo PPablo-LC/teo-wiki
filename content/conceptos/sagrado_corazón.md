@@ -50,7 +50,7 @@ elevado a expresión sintética de toda la fe cristológica.
 
 [[corazón_de_cristo]], [[encarnación]], [[eucaristía]], [[sagrada_hostia]],
 [[santa_margarita_maría_alacoque]], [[misericordia_divina]], [[reparación]],
-[[devoción_maría|devoción mariana]], [[inmaculado_corazón_de_maría]]
+[[devoción_mariana|devoción mariana]], [[inmaculado_corazón_de_maría]]
 
 ## Ver también
 

@@ -67,7 +67,7 @@ tags: ["resumen", "aparecida", "espiritualidad", "formación", "catequesis", "in
 - [[celibato]] — don de la gracia que configura con Jesucristo, estado de amor
 - [[educación_católica]] — respuesta a la emergencia educativa del continente
 - [[escuela_católica]] — lugar privilegiado de formación y promoción integral
-- [[universidad_católica]] — vital testimonio institucional de Cristo y su mensaje
+- [[universidades_católicas]] — vital testimonio institucional de Cristo y su mensaje
 - [[libertad_de_enseñanza]] — principio irrenunciable para la Iglesia
 - [[pueblo_de_dios]] — todos los bautizados destinatarios de la formación
 - [[evangelización]] — relación entre fe y vida que la Iglesia debe garantizar

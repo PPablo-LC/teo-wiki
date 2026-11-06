@@ -29,7 +29,7 @@ Elegido papa tras un cónclave de cinco meses, Clemente XI enfrentó desde el in
 
 ## Relaciones
 
-[[jansenismo]], [[pascasio_quesnel]], [[unigenitus]], [[silencio_obsequioso]], [[inocencio_xii]], [[alejandro_viii]], [[jansenio]]
+[[jansenismo]], [[pascasio_quesnel]], [[unigenitus]], [[silencio_obsequioso]], [[inocencio_xii]], [[alejandro_viii]], [[cornelio_jansenio]]
 
 ## Ver también
 

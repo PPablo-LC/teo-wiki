@@ -20,7 +20,7 @@ tags: ["resumen", "espiritualidad_legionaria", "proteger_y_sanar", "documento_no
 - [[transparencia_institucional]] — Parte E: publicación casos probados, líneas guía comunicación nominal
 - [[apoyo_iglesia_sociedad]] — Parte F: centros interdisciplinares estudio/prevención, equipos atención víctimas/familia
 - [[investigación_previa]] — Noticia verosímil → obligación iniciar, armonización civil/canónico, medidas cautelares, plazo máximo, notificación CDF
-- [[medidas_sanciones]] — Expulsión estado clerical (abusos múltiples/reiterados), exclusión ministerio público, plan seguridad, investigación encubrimientos, levantamiento prescripción, sanciones encubrimiento/negligencia, inhabilitación cargos
+- [[medidas_y_sanciones]] — Expulsión estado clerical (abusos múltiples/reiterados), exclusión ministerio público, plan seguridad, investigación encubrimientos, levantamiento prescripción, sanciones encubrimiento/negligencia, inhabilitación cargos
 
 ## Contenido
 

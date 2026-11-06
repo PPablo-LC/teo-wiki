@@ -47,7 +47,7 @@ El cisma de Occidente debilitó gravemente la autoridad papal y fortaleció los 
 
 ## Relaciones doctrinales
 
-Se relaciona con el [[cisma]], el [[conciliarismo]], la [[autoridad_de_los_concilios]], el [[primado_del_papa]], el [[concilio_de_constantza]] y la [[herejía]] de Wicleff y Hus.
+Se relaciona con el [[cisma]], el [[conciliarismo]], la [[autoridad_de_los_concilios]], el [[primado_del_papa]], el [[concilio_de_constanza]] y la [[herejía]] de Wicleff y Hus.
 
 ## Ver también
 

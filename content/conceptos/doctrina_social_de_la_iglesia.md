@@ -113,6 +113,12 @@ Comentando la predicación de Juan Bautista (Lc 3,10-18), Barron recuerda que en
 
 **Conclusión práctica.** La respuesta a la pregunta «¿qué hemos de hacer?» es «servir a la justicia, dar a cada uno lo suyo y dar a los necesitados».
 
+### Según Word on Fire (WOF)
+
+La homilía sobre Pedro Maurin y Mt 25 expone la «dinamita» de la doctrina social. El punto de partida es la eclesiología del Damasco: Jesús se identifica tan radicalmente con su cuerpo, la Iglesia, que perseguirla es perseguirlo a él; y en Mt 25 el Rey es el más pequeño de sus hermanos, de modo que la bondad con ellos es bondad con Cristo.
+
+Maurin, nacido en 1877 en el sur de Francia, uno de veintitrés hermanos y marcado por Francisco de Asís, vivió veinte años de franciscanismo radical en Norteamérica mientras elaboraba una filosofía social católica: el problema de la sociedad moderna es que la vida social se ha divorciado de los imperativos del Evangelio y, privatizada la religión, la economía se organiza en torno a la productividad y el beneficio en lugar del cultivo espiritual de la persona. Su diagnóstico es célebre: «la Iglesia ha tomado su propia dinamita, la ha puesto en recipientes herméticamente cerrados y se ha sentado sobre las tapas». Su programa —«una revolución personalista»— consiste en cambiar las estructuras desde dentro mediante la conversión de los cristianos a la visión de Mt 25 y la práctica de las obras de misericordia corporales y espirituales; quería pasar de «una sociedad de trepadores a una sociedad de dadores». Con Dorothy Day fundó el Catholic Worker, con su periódico y sus casas de acogida, y dejó la sentencia que resume su economía de la salvación: «lo que damos a los pobres por amor de Cristo es lo que llevamos con nosotros al morir».
+
 ## Distinciones importantes
 
 - No es una ideología política ni un sistema económico alternativo

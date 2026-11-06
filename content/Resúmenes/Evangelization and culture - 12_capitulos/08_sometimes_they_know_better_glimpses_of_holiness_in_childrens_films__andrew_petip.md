@@ -17,7 +17,7 @@ tags: ["resumen", "evangelization_and_culture_12", "cine_infantil", "pureza_de_c
 - [[evangelio_de_los_niños]] — Juan Pablo II: "Todo el Evangelio podría leerse como 'Evangelio de los niños'" (Carta a los Niños, 1994)
 - [[miopía_espiritual_adulta]] — corazones adultos nublados vs. asombro infantil
 - [[experiencia_elemental]] — Luigi Giussani: impulso originario con que el ser humano se abre a la realidad
-- [[cor_ad_cor_loquitur]] — lema de Newman (de San Francisco de Sales): "Corazón habla a corazón"
+- [[02_cor_ad_cor_loquitur]] — lema de Newman (de San Francisco de Sales): "Corazón habla a corazón"
 - [[educación_en_libertad]] — Giussani: crecimiento en virtud por exposición a retos reales, no teóricos
 - [[películas_años_80]] — E.T., The Goonies, Stand by Me como coming-of-age con corazón
 - [[mi_vecino_totoro]] — anime de Miyazaki (1988): sensibilidad y resiliencia infantil ante adversidad

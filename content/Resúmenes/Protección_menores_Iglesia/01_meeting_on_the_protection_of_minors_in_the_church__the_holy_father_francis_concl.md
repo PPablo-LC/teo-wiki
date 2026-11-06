@@ -17,7 +17,7 @@ tags: ["resumen", "protección menores iglesia"]
 - [[pornografía]] — flagelo en expansión alarmante que daña relaciones y dignidad, especialmente de menores
 - [[clericalismo]] — plaga de la que el pueblo santo y fiel de Dios nos liberará; terreno fértil de estas desgracias
 - [[castidad|virtud de la castidad]] — objetivo de una formación positiva de los candidatos al presbiterado
-- [[misterio_de_la_iniquidad|misterio del mal]] — manifestación actual del espíritu del mal que golpea a los más vulnerables
+- [[mysterium_iniquitatis|misterio del mal]] — manifestación actual del espíritu del mal que golpea a los más vulnerables
 - [[conversión|conversión personal y colectiva]] — compromiso exigido junto a la humildad de escuchar, ayudar y proteger
 
 ## Contenido

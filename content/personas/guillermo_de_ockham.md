@@ -4,6 +4,7 @@ title: Guillermo de Ockham
 description: "Franciscano inglés (c. 1287-1347), iniciador del nominalismo y padre de la libertad de indiferencia; su concepción de la libertad, la ley y la obligación transformó radicalmente la teología moral."
 tags: ["historia_de_la_teología", "nominalismo", "moral_fundamental"]
 timestamp: 2026-06-29
+aliases: ["ockham", "guillermo de occam", "occam", "venerabilis inceptor"]
 ---
 
 # Guillermo de Ockham
@@ -86,7 +87,7 @@ Se relaciona con [[nominalismo]], [[libertad_de_indiferencia]], [[moral_de_la_ob
 
 ## Ver también
 
-[[nominalismo]], [[libertad_de_indiferencia]], [[libertad_de_calidad]], [[ockham]], [[moral_de_la_obligación]], [[voluntarismo]], [[ley_natural]]
+[[nominalismo]], [[libertad_de_indiferencia]], [[libertad_de_calidad]], [[moral_de_la_obligación]], [[voluntarismo]], [[ley_natural]]
 
 ## Referencias
 

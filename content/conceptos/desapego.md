@@ -30,6 +30,13 @@ El CEC §2544-2547 trata del desapego de las riquezas y la pobreza de corazón. 
 
 En el estudio del don de temor (n.356) y del desprendimiento (n.261), Royo Marín expone cómo el desapego de las criaturas es condición indispensable para la unión transformante. Los santos, iluminados por el don de ciencia, tienen una visión profunda de la necesidad del desapego absoluto. Para un alma iluminada por este don, la creación es un libro abierto donde descubre sin esfuerzo la nada de las criaturas y el todo del Creador.
 
+### Según The Strangest Way (STR)
+
+Barron presenta el desapego como la libertad que nace de estar centrado: quien está arraigado en Cristo «está desprendido hasta de aquellas cosas que a la mayoría nos parecen indispensables, incluso de la vida física». Lo ilustra con Lorenzo en la parrilla, Ignacio de Antioquía pidiendo que las fieras sean su sepultura, Tomás Moro tropezando en el cadalso y un religioso que se planta en medio de un tiroteo con su hábito.
+
+Recoge las formulaciones clásicas —la *apatheia* de los padres griegos, el desprendimiento de todos los apetitos como idea rectora de Juan de la Cruz, la *indiferencia* de los *Ejercicios* ignacianos— y las traduce con Anthony de Mello: el apego es «cualquier cosa de este mundo —incluida la vida misma— de la que nos convencemos de que no podemos vivir sin ella». Ese apego es pariente de la *concupiscentia* agustiniana: hemos sido hechos para Dios y nada menos que Dios nos sacia, de modo que aferrarse a un bien creado produce insatisfacción y retorno obsesivo, es decir, adicción. El nombre moderno del apego es, para Barron, la adicción.
+
+De ahí su lectura de las bienaventuranzas de Lucas (6,20-26) como hermenéutica del desapego: «bienaventurados los pobres» significa «qué suerte tienes si no eres adicto a las cosas materiales»; «bienaventurados los que lloráis», «si no eres adicto a los buenos sentimientos»; «bienaventurados cuando os odien», «si no eres adicto a la aprobación ajena». Y el cuádruple *nada* de Juan de la Cruz —«para llegar a poseerlo todo, no quieras poseer nada»— no es una negación, sino «la más honda afirmación», porque es un «no» dicho a un «no». El desapego, concluye, no se improvisa: se adquiere con disciplinas que modelan el deseo, señaladamente el ayuno y la limosna.
 
 ## Distinciones importantes
 

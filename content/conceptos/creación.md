@@ -123,6 +123,12 @@ De ahí la consecuencia espiritual: ser criatura significa ser «nada», es deci
 
 La estructura misma de la *Summa* traduce esta visión: el camino que va de Dios al mundo (*exitus*) y el que vuelve del mundo a Dios (*reditus*) son las dos vertientes de una misma relación de dependencia, y ambas se anudan en Cristo, que se llamó a sí mismo el Camino. La creación es, por tanto, relación y no suceso aislado: la criatura es don que procede y que retorna.
 
+### Según The Strangest Way (STR)
+
+Barron trata la creación en dos registros complementarios. En el primero, sigue la lectura cristológica que Orígenes hace del Génesis: el Espíritu que se cierne sobre las aguas es el dominio divino sobre el caos, y ese caos reaparece en las aguas del diluvio, del mar Rojo, del Behemot y el Leviatán y del lago tormentoso. El instrumento por el que Dios ejerce su autoridad es el Logos: «en el principio era el Verbo... todo se hizo por él». En la Pascua, el Verbo «entró en el corazón de las tinieblas del pecado y salió habiendo transformado esa oscuridad en luz y ese caos sin huellas en *terra firma*». La creación no es solo una categoría cosmológica, sino «psicológica y espiritual»: cuando estamos arraigados en Cristo, el Logos crucificado, «estallamos en vida de variedad ilimitada».
+
+En el segundo registro, la creación es el fundamento de la no violencia y de la fraternidad universal. A diferencia de los mitos en que el orden surge de una victoria sobre el caos, el Dios de Jesucristo trae el mundo a la existencia «mediante un acto de amor generoso enteramente no violento», y ese acto no es puntual: es la acción continua por la que el mundo es sostenido en cada instante, de modo que «la no violencia divina es la energía actualizadora y unificadora de toda la creación». Además, como todo lo creado está marcado por el Logos, todo se relaciona razonablemente con Dios y con lo demás: Barron cita a Ratzinger —*omne ens est scibile*, la inteligibilidad universal remite a una Mente universal— y a Francisco de Asís, que pudo hablar de «hermano sol y hermana luna». El gótico lo expresó tallando el cosmos en la piedra y el vidrio, y coronando con vacas, no con ángeles, las agujas de Laon: «dar gloria al Logos que asignó a la humilde vaca un papel esencial, aunque poco glamuroso, en el theo-drama cósmico».
+
 ## Distinciones importantes
 
 - **Creación ≠ emanación**: Dios no «emana» el mundo de su substancia; lo crea libremente de la nada.

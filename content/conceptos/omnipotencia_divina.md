@@ -48,7 +48,7 @@ Santo Tomás trata el poder de Dios en SmTh Iª q.25, con seis artículos.
 
 ## Relaciones
 
-Se relaciona con [[poder_divino]], [[creación]], [[milagro]], [[potencia_absoluta]], [[potencia_ordenada]], [[ockham]], [[providencia]], [[presciencia_divina]]
+Se relaciona con [[poder_divino]], [[creación]], [[milagro]], [[potencia_absoluta]], [[potencia_ordenada]], [[guillermo_de_ockham]], [[providencia]], [[presciencia_divina]]
 
 ## Ver también
 

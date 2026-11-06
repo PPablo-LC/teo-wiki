@@ -12,7 +12,7 @@ tags: ["resumen", "nota doctrinal emociones fe"]
 
 ## Conceptos básicos referenciados
 
-- [[cor_ad_cor_loquitur|Cor ad cor loquitur]] — lema cardenalicio de san Juan Enrique Newman, recién declarado doctor de la Iglesia
+- [[02_cor_ad_cor_loquitur|Cor ad cor loquitur]] — lema cardenalicio de san Juan Enrique Newman, recién declarado doctor de la Iglesia
 - [[acto_de_fe|papel de las emociones en el acto de fe]] — tema central de la nota doctrinal
 - [[vida_espiritual|encuentro con Dios]] — afecta a la persona en el conjunto de sus dimensiones
 

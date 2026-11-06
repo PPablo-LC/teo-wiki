@@ -34,7 +34,7 @@ Clemente XI, mediante la Constitución *Vineam Domini Sabaoth* (16 de julio de 1
 
 ## Relaciones doctrinales
 
-Se relaciona con [[jansenismo]], [[jansenio]], [[alejandro_vii]], [[clemente_xi]].
+Se relaciona con [[jansenismo]], [[cornelio_jansenio]], [[alejandro_vii]], [[clemente_xi]].
 
 ## Ver también
 

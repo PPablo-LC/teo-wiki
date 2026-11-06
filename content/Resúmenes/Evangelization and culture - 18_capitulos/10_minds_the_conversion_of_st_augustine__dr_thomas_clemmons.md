@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization and culture - 18 capitulos"]
 ## Conceptos básicos referenciados
 
 - [[conversión]] — el proceso de conversión de San Agustín, no un instante sino un camino
-- [[san_agustín]] — autor de las *Confesiones*, convertido al catolicismo
+- [[agustín_de_hipona]] — autor de las *Confesiones*, convertido al catolicismo
 - [[agustín_de_hipona]] — su historia: el huerto de Milán y el *tolle lege*
 - [[gracia]] — la ruptura de las cadenas no viene por el solo esfuerzo intelectual sino por la gracia
 - [[intelecto]] — conversión del intelecto (libro 7 de las *Confesiones*)

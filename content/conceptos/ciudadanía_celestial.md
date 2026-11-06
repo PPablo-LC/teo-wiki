@@ -40,7 +40,7 @@ Andrie advierte contra dos errores: el separatismo estricto (que deja la plaza p
 
 ## Relaciones doctrinales
 
-Se relaciona con [[peregrinación_eclesial]], [[teología_de_la_historia], [primacía_de_cristo]], [[participación_política]], [[libido_dominandi]], [[ciudad_de_dios_y_ciudad_terrenal]]
+Se relaciona con [[peregrinación_eclesial]], [[teología_de_la_historia], [primacía_de_cristo]], [[participación_política]], [[libido_dominandi]], [[ciudad_de_dios]]
 
 ## Ver también
 

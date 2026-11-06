@@ -83,3 +83,71 @@ Pendiente: (ninguno — los 22 pares han sido resueltos).
 - `wiki/conceptos/` vs `wiki/Espiritualidad_LC-wiki/`: `abusoespiritual`, `federación_regnum_christi` (y `federacion_regnum_christi`).
 - `wiki/conceptos/` vs `wiki/personas/` vs `wiki/documentos/`: `concilio_de_calcedonia`, `concilio_de_éfeso`, `concilio_de_trento`, `confesión_de_pedro`.
 - `wiki/conceptos/` vs `wiki/personas/`: `san_josé` (posible duplicado de persona).
+
+## Detección de duplicados por contenido, no por nombre (2026-11-06)
+
+Barrido de las 626 fichas de `wiki/personas/` comparando **fechas vitales**, **nombre secular / nombre en negrita**, **descripción** y **obras citadas** en lugar del nombre del archivo (que es justo lo que engaña en estos casos). Tres parejas resultaron ser la misma persona:
+
+| Conservado | Eliminado (alias) | Señal de contenido |
+|------------|-------------------|--------------------|
+| `benedicto_xv` | `benito_xv` | Mismo nombre secular (Giacomo Della Chiesa), mismas fechas 1854-1922, mismo pontificado 1914-1922 y misma descripción casi literal |
+| `ireneo_de_lion` | `san_irineo_de_león` | Mismas fechas (c. 130-c. 202), mismo cargo (obispo de Lyon), mismas obras (*Adversus haereses*, *Demostración*); el eliminado erraba el nombre («Irineo», «de León» por «de Lyon») |
+| `juan_pablo_ii` | `karl_wojtyła` | Mismo nombre secular y fechas 1920-2005; el eliminado lo describía como «Papa Juan Pablo II» |
+
+Contenido único integrado: en Ireneo, la biografía completa (Policarpo, Potino, viaje a Roma en 177), la refutación del gnosticismo, la sucesión apostólica, el testimonio sobre la autoría de los evangelios (citado en CfJ), la recapitulación y la mariología Eva-María; en Juan Pablo II, la teología del cuerpo, el discurso del 17-IX-1983 sobre la anticoncepción y el comentario de Sicari a *La bottega dell'orefice*. Se corrigió de paso la fecha de muerte de Juan Pablo II en su `description` (2008 → 2005). Alias añadidos: «Benito XV», «San Irineo de Lyon», «San Ireneo de León», «Karol Wojtyła», «Karl Wojtyła».
+
+Descartados tras revisión (no son duplicados): los papas homónimos de la misma serie (`clemente_*`, `pío_*`, `inocencio_*`, `juan_*`), `pelagio` (heresiarca) frente a `pelagio_i`/`pelagio_ii` (papas), `san_jerónimo` frente a `san_jerónimo_emiliano`, `cirilo_de_alejandría` frente a `cirilo_de_jerusalén`, `jose_granados` frente a `carlos_granados`, y `acacio_constantinopla` frente a `cisma_acaciano` (este último es un acontecimiento, no una persona: artículo mal clasificado en `personas/`, pendiente de mover).
+
+### Fusión de conceptos: Mistagogía / Mistagogia (2026-11-06)
+
+El mismo barrido detectó en `wiki/conceptos/` dos fichas que solo se diferenciaban por la tilde: `mistagogia.md` (CEC §1075, ConcVatII, RICA, Padres) y `mistagogía.md` (PWL: Pell, Chaput, Melina). Se conserva la forma acentuada `mistagogía`, se integran ambas y el alias `mistagogia` recoge la variante. Dieciséis archivos retargeteados.
+
+## Fusión de conceptos: Mysterium iniquitatis / Misterio de la iniquidad (2026-11-06)
+
+Dos fichas para el mismo concepto de 2 Tes 2,7, creadas por fuentes distintas: `misterio_de_la_iniquidad` (59 líneas, centrada en EAC-18 y el *backsliding*) y `mysterium_iniquitatis` (62 líneas, con CEC §§309-312, DM, MI y SmTh). Se conserva **`mysterium_iniquitatis`** —término técnico latino, coherente con `mysterium_fidei`, y la ficha con más base magisterial—, se integra en ella todo el material de la otra y se añade LGR24, STR y CEC §§675-677. El nombre castellano queda como alias.
+
+| Conservado | Eliminado (alias) | Contenido integrado |
+|------------|-------------------|---------------------|
+| `mysterium_iniquitatis` | `misterio_de_la_iniquidad` | EAC-18 completo (*backsliding*, Pedro, de Lubac, *fomes peccati*, Trento, Flannery O'Connor), distinciones con el *fomes* y la apostasía, y relaciones con la conversión continua y el combate espiritual |
+
+Aliases: `misterio de la iniquidad`, `misterio de iniquidad`, `misterio del mal`. Nueve archivos retargeteados (incluido `wiki/index.md`), 0 residuos. El artículo resultante recibe además la dimensión escatológica (CEC 675-677), la lectura eucarística de LGR24 (Judas y la coinherencia interrumpida) y la fenomenología de STR (Rom 7, *incurvatus in se*, el agujero negro). Enlazado desde `pecado`.
+
+## Fusión de conceptos: Nueva Jerusalén / Jerusalén celestial (2026-11-06)
+
+**Decisión: mismo concepto, fusionado.** Las dos fichas describían la misma realidad de Ap 21–22: la ciudad santa que desciende del cielo. Los nombres son intercambiables en las propias fuentes: el Apocalipsis dice «Jerusalén nueva» (Ap 21,2), el Catecismo comenta ese mismo texto llamándola «la Jerusalén celestial» (CEC §1044) y el *Vocabulario de Teología Bíblica* usa «Jerusalén celestial» para Ap 21,2.22 (voces «casa», «templo», «culto»). No hay dos realidades que distinguir, sino dos nombres bíblicos; mantener dos artículos duplicaba el mismo contenido con citas divergentes.
+
+| Conservado | Eliminado | Contenido integrado |
+|------------|-----------|---------------------|
+| `nueva_jerusalen` (65 líneas, con CEC, VocTeoBib, SmTh y WOF) | `jerusalén_celestial` (38 líneas) | Raíz veterotestamentaria (Sión, Is 60, Ez 40–48, Is 65,17-25), detalle de las doce puertas y fundamentos, descenso como don, peregrinación de la Iglesia, referencias CEC §§1042-1050 y bibliografía del VocTeoBib |
+
+Aliases añadidos: `jerusalén celestial`, `jerusalén celeste`, `jerusalén nueva`, `ciudad santa`. Trece enlaces retargeteados en 8 archivos (incluido `wiki/index.md`). `jerusalén.md` (ciudad histórica) queda como artículo distinto y enlaza ahora a `nueva_jerusalen` como su superación escatológica. En el artículo fusionado se añadió una sección de distinciones que delimita: dos nombres/un referente, celestial vs. terrena, ciudad y templo, agua y árbol de vida, y exclusión de lecturas milenaristas.
+
+## Fusiones de personas por nombre alternativo (2026-11-06)
+
+Segunda pasada de detección sobre las 627 fichas de `wiki/personas/` (normalización de títulos —`san_`, `santa_`, `beato_`, `papa_`—, comparación de tokens y similitud de cadenas). Se detectaron **seis pares** que no eran personas distintas sino el mismo sujeto con nombre alternativo o grafía divergente. Se conservó el artículo más rico, se integró en él el contenido único del otro, se añadieron `aliases` y se retargetearon todos los enlaces (44 sustituciones en 32 archivos).
+
+| Conservado | Eliminado (alias) | Contenido integrado |
+|------------|-------------------|---------------------|
+| `san_mateo` (58 líneas) | `mateo` | Perspectivas CEC (Sermón de la Montaña, bienaventuranzas, primado, misión), estructura en cinco discursos, distinciones y referencias |
+| `san_camilo_de_lelis` (grafía española) | `san_camillo_de_lellis` | Toda la sección de *Ritratti di santi* (conversión, ternura como método, servicio como liturgia, actualidad), contexto histórico y relevancia teológica |
+| `león_i_magno` (38 líneas) | `san_leon_magno` | Contexto histórico (Atila 452, saqueo vándalo 455), primera recepción del título «Magno», perspectiva de Rivero (HI) y definición dogmática |
+| `san_alfonso_maría_de_ligorio` (nombre completo) | `san_alfonso_de_ligorio` | Doctrina espiritual según TPCr (axioma sobre la oración, bilocación, confesión diaria), contribuciones y CEC §2744 |
+| `cornelio_jansenio` (37 líneas) | `jansenio` | Los tres estados de la naturaleza, el jansenismo como movimiento (Port-Royal, Pascal, Arnauld, rigorismo) y D-1463 (*Unigenitus*) |
+| `guillermo_de_ockham` (94 líneas) | `ockham` | La ficha eliminada era una redirección («Ver el artículo completo en…»); solo aportó el alias y el uso mayoritario del nombre corto |
+
+**Falsos positivos descartados** (personas distintas pese a la semejanza): todos los papas de una misma familia nominal (`benedicto_i`/`xii`/`xiv`/`xv`/`xvi`, `clemente_v`/`vi`/…, `gregorio_ix`/`xi`, `inocencio_*`, `pío_*`, `alejandro_iii`/`vii`/`viii`), los concilios numerados (`concilio_de_constantinopla_i` frente a `ii_`/`iii_`/`iv_concilio_de_constantinopla`, `iii`/`iv_concilio_de_letrán`), `pelagio` (heresiarca) frente a `pelagio_i` y `pelagio_ii` (papas), `martin_v`/`martín_i`, `vigilio`/`virgilio`, `isabel` (madre del Bautista) frente a las tres santa Isabel, y las parejas `abraham`/`abraham_simple`, `san_jerónimo`/`san_jerónimo_emiliano`, `moisés`/`moises_de_escete`.
+
+Verificado tras la fusión: 0 enlaces residuales a los seis nombres eliminados en `wiki/` y `fuentes.md`; los seis artículos conservan `## Referencias` como última sección.
+
+## Fusiones de personas por nombre alternativo (2026-11-05)
+
+Cuatro pares de `wiki/personas/` no eran variantes de tilde sino **nombres alternativos** del mismo santo. Se conservó el artículo más rico, se integró en él el contenido único del otro, se añadieron `aliases` en el frontmatter y se repuntaron todos los enlaces.
+
+| Conservado | Eliminado (alias) | Contenido integrado |
+|------------|-------------------|---------------------|
+| `agustín_de_hipona` (6 fuentes) | `san_agustín` | Royo Marín (TPCr n.6, Índice Onomástico), *The Pivotal Players* (PP) y Sicari (AMS); obras y referencias |
+| `san_benito` (CEC, TPCr, EAC-16, PP) | `san_benito_de_nursia` | Sicari (AMS): *ora et labora* y la visión y muerte orante; enlaces a Regla y monaquismo |
+| `santo_tomás_de_aquino` (133 líneas, EAC-13/15/19, STA, PP, AMS) | `san_tomás_de_aquino` | Magisterio y tradición (*Aeterni Patris*, *Studiorum ducem*, *Fides et ratio*), distinciones y relaciones doctrinales |
+| `john_henry_newman` (EAC-7/16/17/18/19, PP) | `san_juan_enrique_newman` | Relevancia teológica (*Cor ad cor loquitur*, Gramática del Asentimiento), *Carta al Duque de Norfolk* |
+
+Verificado tras la fusión: 0 enlaces a los nombres eliminados en `wiki/` y `fuentes.md`; los cuatro artículos conservan `## Referencias` como última sección.

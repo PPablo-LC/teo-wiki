@@ -224,6 +224,22 @@ El *Libro Segundo* describe los bienes que Dios concede al humilde con una enume
 
 La humildad se defiende además con el argumento de la gratuidad y del juicio: «¿De dónde, pues, me puedo gloriar o por qué deseo ser estimado? ¿Por ventura de la nada? Pero esto es vanísimo. Verdaderamente, la vanagloria es una mala pestilencia y grandísima vanidad, porque nos aparta de la verdadera gloria y nos despoja de la gracia celestial» (III, 40). Y su forma evangélica definitiva es la infancia: «Si no hiciereis y os volviereis como niños, no entraréis en el reino de los cielos. Por eso, cualquiera que se humillare como niño, aquel será el mayor en el reino de los cielos» (III, 58, con Mt 18,3).
 
+### Según The Strangest Way (STR)
+
+Barron aborda la humildad al tratar la soberbia, la primera cornisa del Purgatorio de Dante y, para los medievales, el peor de los pecados capitales porque aparta decisivamente del bien último. Su análisis es psicológicamente fino: la soberbia «tiene poco que ver con la arrogancia ostentosa o la promoción vigorosa de sí; la persona más callada e inconsciente puede estar llena de soberbia». En esencia es la mirada sobre sí: no pensar mucho de uno, sino mirarse.
+
+Lo ilustra con un contraste: estar absorto en una conversación, siguiendo la idea, sin agenda propia, frente a mirarse conversar, atento al efecto que se produce. «En el primer caso estás fuera de ti, sumergido en la densidad del ser; en el segundo estás cortado del ser, o más bien lo has arrastrado a los corredores estrechos de tu conciencia (*curvatus in se*)». En el primero el alma es semilla que se abre; en el segundo, semilla cerrada. Y cita a Mailer describiendo a Nixon como si un pequeño Nixon estuviera junto a la cabeza del Nixon grande, moviendo palancas.
+
+El remedio es el *agere contra* ignaciano, la *enantiadromia*: como el bastón torcido de Aristóteles, hay que doblarlo al otro lado. Los soberbios cargan piedras que los aplastan, y hay dos simbolismos: quien vivió mirándose es forzado a mirar el suelo, a lo denso y particular del ser —son humillados, de *humus*, tierra, y no como castigo arbitrario sino como ejercicio espiritual—; y la soberbia pesa, porque quien se mira a cada instante no puede darse. Chesterton: «el humilde será siempre hablador, porque le interesa su tema y sabe que se muestra mejor hablando; el soberbio suele callar, porque no le interesa el tema sino él mismo». El contraejemplo mariano es la Anunciación: «hágase en mí según tu palabra».
+
+### Según Lenten Gospel Reflections 2022 (LGR22)
+
+La meditación del martes de la segunda semana es la más densa del volumen sobre esta virtud. El Evangelio expone la soberbia de los fariseos y concluye con la receta de la humildad; Barron la desarrolla con tres autoridades. Agustín: todos, hechos de la nada, tendemos a la nada, y esto se ve en la fragilidad, el pecado y la muerte. Pablo: «¿Qué tienes que no hayas recibido?». Tomás de Aquino: *humilitas veritas*, la humildad es la verdad. Vivirla es vivir la verdad más honda: Dios es Dios y nosotros no. En abstracto parece fácil, y en concreto es durísimo: en el mundo caído olvidamos que somos criaturas, nos asumimos dioses y centro del universo, y el ego se vuelve «un mono enorme a cuestas» que hay que alimentar y mimar sin descanso. De ahí la conclusión, a la vez ascética y liberadora: soltar el ego libera, y por eso la humildad no degrada, eleva.
+
+### Según Lenten Gospel Reflections 2024 (LGR24)
+
+El texto de 2024 reproduce la estructura —Agustín, Pablo, Aquino— y subraya el carácter paradójico de la virtud: lo que parece rebajarnos es lo que nos libera, porque el ego que se hace dios exige ser alimentado constantemente y acaba esclavizando. «Dios es Dios, y nosotros no»: en esa frase se juega la salud espiritual entera. La meditación se apoya en la experiencia de la fragilidad —enfermedad, pecado, muerte— como lugar donde la verdad de la criatura se impone. En el conjunto del volumen cumple una función de bisagra antropológica entre la conversión como *metanoia* y la Cruz como crucifixión del ego.
+
 ## Distinciones importantes
 
 - **Humildad vs. magnanimidad**: no son opuestas sino complementarias; una inclina hacia abajo (conteniendo el apetito desordenado), la otra hacia arriba (empujando a empresas grandes por Dios)
@@ -249,7 +265,7 @@ La humildad se opone directamente a la [[soberbia]], primer pecado capital. Es r
 - [[tim_barry_the_strength_of_meekness]]
 
 ## Ver también
-[[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]], [[humor]], [[san_felipe_neri]], [[g_k_chesterton]]
+[[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]], [[humor]], [[san_felipe_neri]], [[g_k_chesterton]], [[ego]]
 
 ## Referencias
 

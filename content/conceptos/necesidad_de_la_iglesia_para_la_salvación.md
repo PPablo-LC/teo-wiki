@@ -47,14 +47,14 @@ Juan Pablo II, en *Ut Unum Sint* y en otros documentos, subraya la unicidad de l
 
 - [[iglesia]]
 - [[salvación]]
-- [[cristo_unico_mediador]]
+- [[mediador]]
 - [[gracia]]
 - [[bautismo]]
 - [[ecumenismo]]
 
 ## Ver también
 
-[[iglesia]], [[cristo_unico_mediador]], [[salvación]]
+[[iglesia]], [[mediador]], [[salvación]]
 
 ## Referencias
 

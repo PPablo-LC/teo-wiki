@@ -41,11 +41,11 @@ Los Padres mantuvieron y profundizaron los dos principios de la filosofía antig
 
 ## Relaciones doctrinales
 
-Se relaciona con [[patrística]], [[moral_escolástica]], [[san_agustín]], [[san_juan_crisóstomo]], [[clemente_de_alejandría]], [[orígenes]], [[san_ambrosio]], [[teología_moral]].
+Se relaciona con [[patrística]], [[moral_escolástica]], [[agustín_de_hipona]], [[san_juan_crisóstomo]], [[clemente_de_alejandría]], [[orígenes]], [[san_ambrosio]], [[teología_moral]].
 
 ## Ver también
 
-[[patrística]], [[moral_escolástica]], [[san_agustín]], [[teología_moral]]
+[[patrística]], [[moral_escolástica]], [[agustín_de_hipona]], [[teología_moral]]
 
 ## Referencias
 

@@ -17,7 +17,7 @@ El **voluntarismo** es una corriente filosófico-teológica que afirma el primad
 
 ## Desarrollo doctrinal
 
-El voluntarismo teológico de [[ockham]] sostenía que Dios podría modificar la ley moral por su omnipotencia absoluta, incluso ordenar el odio a Dios. Frente al intelectualismo tomista —la ley natural se funda en la naturaleza racional del hombre—, el voluntarismo funda la ley en la voluntad divina libre.
+El voluntarismo teológico de [[guillermo_de_ockham]] sostenía que Dios podría modificar la ley moral por su omnipotencia absoluta, incluso ordenar el odio a Dios. Frente al intelectualismo tomista —la ley natural se funda en la naturaleza racional del hombre—, el voluntarismo funda la ley en la voluntad divina libre.
 
 Pinckaers (*Las Fuentes de la Moral Cristiana*) considera el voluntarismo de Ockham como la raíz de la [[moral_de_la_obligación]] y de la ruptura entre la teología moral y la tradición patrística.
 
@@ -34,11 +34,11 @@ Barron identifica el voluntarismo como una de las herejías más influyentes hoy
 
 ## Relaciones
 
-Se relaciona con [[ockham]], [[nominalismo]], [[libertad_de_indiferencia]], [[moral_de_la_obligación]], [[intelectualismo]], [[santo_tomás_de_aquino]], [[ley_natural]], [[duns_escoto]]
+Se relaciona con [[guillermo_de_ockham]], [[nominalismo]], [[libertad_de_indiferencia]], [[moral_de_la_obligación]], [[intelectualismo]], [[santo_tomás_de_aquino]], [[ley_natural]], [[duns_escoto]]
 
 ## Ver también
 
-[[nominalismo]], [[moral_de_la_obligación]], [[ockham]], [[libertad_de_indiferencia]]
+[[nominalismo]], [[moral_de_la_obligación]], [[guillermo_de_ockham]], [[libertad_de_indiferencia]]
 
 ## Referencias
 

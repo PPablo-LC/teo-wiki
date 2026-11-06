@@ -38,7 +38,7 @@ Influyó en movimientos dualistas medievales como los [[cátaros]] y los [[albig
 
 ## Relaciones
 
-Se relaciona con [[gnosticismo]], [[dualismo]], [[priscilianismo]], [[cátaros]], [[albigenses]], [[san_agustín]], [[herejía]]
+Se relaciona con [[gnosticismo]], [[dualismo]], [[priscilianismo]], [[cátaros]], [[albigenses]], [[agustín_de_hipona]], [[herejía]]
 
 ## Ver también
 

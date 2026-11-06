@@ -61,7 +61,7 @@ Las Constituciones especifican que la obediencia religiosa en la Legión ha de s
 
 #### Estatutos del Regnum Christi
 
-Los Estatutos del RC establecen que la obediencia ha de ser **pronta, alegre, movida por la fe y heroica**: pronta, sin dilación ni resistencia; alegre, sin murmuración ni tristeza; movida por la fe, reconociendo en el superior el intérprete legítimo de la voluntad de Dios; heroica, hasta el extremo cuando sea necesario. La obediencia se vincula de modo esencial a los [[votos_privados]]: el voto privado de obediencia intensifica el compromiso de someter el propio juicio a la dirección del superior, viviéndolo no como imposición sino como camino de santidad personal.
+Los Estatutos del RC establecen que la obediencia ha de ser **pronta, alegre, movida por la fe y heroica**: pronta, sin dilación ni resistencia; alegre, sin murmuración ni tristeza; movida por la fe, reconociendo en el superior el intérprete legítimo de la voluntad de Dios; heroica, hasta el extremo cuando sea necesario. La obediencia se vincula de modo esencial a los [[voto_privado]]: el voto privado de obediencia intensifica el compromiso de someter el propio juicio a la dirección del superior, viviéndolo no como imposición sino como camino de santidad personal.
 
 #### El superior como intérprete de la voluntad de Dios
 

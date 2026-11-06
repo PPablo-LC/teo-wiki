@@ -53,7 +53,7 @@ Se relaciona con [[david]], [[sabiduría]], [[templo_de_jerusalén]], [[arca_de_
 
 ## Ver también
 
-[[david]], [[templo_de_jerusalén]], [[sabiduría]], [[idolatría]], [[jeroboam]], [[reboam]], [[división_del_reino]], [[profetas]]
+[[david]], [[templo_de_jerusalén]], [[sabiduría]], [[idolatría]], [[jeroboam]], [[reoboam]], [[división_del_reino]], [[profetas]]
 
 ## Referencias
 

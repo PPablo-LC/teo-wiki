@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization_and_culture_12", "san_nicolás", "intercesión
 
 ## Conceptos básicos referenciados
 
-- [[san_nicolás_de_mira]] — obispo del s. IV, "Taumaturgo" en Oriente, patrono de niños, marineros, prestamistas, etc.
+- [[san_nicolás_de_myra]] — obispo del s. IV, "Taumaturgo" en Oriente, patrono de niños, marineros, prestamistas, etc.
 - [[intercesión_de_los_santos]] — petición de oración a los santos como amigos y ayudantes espirituales
 - [[autismo]] — diagnóstico de "autismo severo", pronóstico de no verbal y dependencia vitalicia
 - [[oracion_perseverante]] — "perseverando en la oración" (Rom 12,12), años de súplica

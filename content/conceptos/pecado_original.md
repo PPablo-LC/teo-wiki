@@ -241,6 +241,16 @@ que dan lástima, sino el intento de aniquilar la percepción de ese algo grande
 - La tentación del **preconcetto** se reduce a «**farsi Dio**»; de ahí el terror a salir de la apariencia (Tischreden 200, 16).
 - *Gen* 3,5 («seréis como Dios») es «la fórmula del razionalismo presente» (Tischreden 188, 02).
 
+### Según And Now I See (ANS)
+
+Robert Barron lee Gn 3 como el relato de la **incapacidad de confiar** en el Misterio, y sitúa ahí la energía «originante» de todo pecado. El hombre es a la vez polvo y soplo divino, pero esa escisión no es mala: Gn 3 no autoriza ningún maniqueísmo, y la tradición —con Tomás de Aquino— afirma que Adán y Eva gozaron en el jardín de la plenitud del placer. La prohibición del árbol del conocimiento de bien y mal no prohíbe el saber, sino la pretensión de poseer la perspectiva total que solo Dios tiene; Dios no niega ese conocimiento, sino el modo de alcanzarlo: no por el asir, sino por dejarse asir.
+
+La serpiente siembra la sospecha de que Dios y el hombre son rivales en un juego de suma cero. Eva come para protegerse de Dios y, al instante, «se abren sus ojos» a la vergüenza (Gn 3,7). El primer fruto del pecado es la autoconciencia avergonzada; el segundo, las dos estrategias que Barron considera estructura permanente del pecado: **asir** (*grasping*) y **esconderse** (*hiding*). Los vestidos, los bienes, los ejércitos y las instituciones son descendientes del taparrabos de Adán: blindajes del ego que ocultan la capacidad de amar. La pregunta de Dios —«¿Dónde estás?»— deshace la ilusión de que existe un lugar donde esconderse (Sal 139). El resultado es el *curvatus in se*: perdido el vínculo con el Misterio, el ego pierde el vínculo con todo lo demás, y la culpa se reparte proyectándose en la mujer, en la serpiente y, en último término, en Dios.
+
+Barron aplica al decreto tridentino (DS 788) un criterio terapéutico. La pérdida de la «santidad» es la pérdida de la perspectiva divina sobre el mundo; la pérdida de la «justicia» es la ruptura del equilibrio relacional entre Dios y el hombre; la «ira de Dios» no es un cambio de humor divino, sino el nombre de la separación (como dos personas enojadas que dejan de hablarse), y tiene finalidad salvífica. La transmisión «por propagación y no por imitación» se ilumina con la ontología de la interdependencia de Alfred North Whitehead: si la realidad es una red de «entidades actuales» que se prehenden mutuamente, ningún acto humano deja de afectar al organismo entero de la humanidad. El pecado original es así un campo de fuerza negativo, una atmósfera que se sedimenta en instituciones, lenguajes y costumbres, y que nos encuentra antes de que podamos elegirlo.
+
+De ahí la conclusión: la **auto-salvación es imposible**, porque el ego no puede curarse con más ego. Lutero es el ejemplo clásico del esfuerzo heroico y fracasado, y el símil de la familia disfuncional —quien nace en ella no puede salir por sus fuerzas— explica por qué la salvación solo puede venir de una irrupción desde fuera: la gracia.
+
 ## Distinciones importantes
 
 - Pecado original contraído ≠ pecado personal cometido.

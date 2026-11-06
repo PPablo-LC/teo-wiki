@@ -56,7 +56,7 @@ El **tercer grado** (o **laicos consagrados del Regnum Christi**) es una modalid
 
 - [[regnum_christi]]
 - [[federación_regnum_christi]]
-- [[consagradas_regnum_christi]]
+- [[consagradas_del_regnum_christi]]
 - [[legión_de_cristo]]
 - [[fieles_asociados_regnum_christi]]
 - [[promesa_pobreza_castidad_obediencia]]

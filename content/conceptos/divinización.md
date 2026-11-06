@@ -45,6 +45,14 @@ La divinización aparece así no como una doctrina exótica, sino como la consum
 
 Tomás integra la línea de los Padres griegos: la gracia divinizante, «hechos partícipes de la vida divina» (2 P 1,4). La gracia es semejanza participada de la naturaleza divina: *semejanza*, porque nos hace alcanzar la imagen en que estamos hechos; *participada*, porque la recibimos siendo recreados. La deificación plena es la visión: «seremos semejantes a Él cuando le veamos como es» (1 Jn 3,2) — cara a cara, no en imagen; para ella se necesita la luz de gloria, que refuerza el intelecto. «Dios solo nos diviniza comunicándonos un consorcio (*consortium*) en la naturaleza divina por alguna semejanza compartida».
 
+### Según The Strangest Way (STR)
+
+Barron dedica al tema la conclusión de su introducción, y lo hace con una anécdota significativa: en un retiro en Collegeville conversó con Godfrey Diekmann, historiador y liturgista, *peritus* del Vaticano II; al preguntarle qué defendería si pudiera volver a la juventud, el anciano, golpeándole la rodilla con el bastón, respondió sin dudar: «¡la deificación!». Diekmann había enseñado a los padres griegos —Orígenes, Gregorio de Nisa, Basilio—, cuyo motivo central era la *theiosis*, vertida al latín como *deificatio*: llegar a ser divinos.
+
+La formulación que Barron ofrece es netamente católica y no meramente oriental: lo que aquellos teólogos querían decir es que «el propósito entero de la vida cristiana era hacernos, no simplemente mejores personas, éticamente rectas, sino divinos, conformarnos a una participación en la vida de la Trinidad. Ser santo, arder con el fuego de la vida misma de Dios, es el punto». La deificación no es, por tanto, un adorno de la vida cristiana, sino su fin; y se recibe como don, pues el centro se nos ofrece antes de que lo busquemos.
+
+Añade dos testimonios que ilustran la misma convicción desde el siglo XX. El primero es el de Thomas Merton, que poco después de su conversión respondió a Robert Lax que quería ser «un buen católico», y recibió la réplica: «No, eso no es. ¡Deberías querer ser un santo!»; Merton diría que esa respuesta le cambió la vida, porque comprendió que el cristianismo no era principalmente cuestión de tener las ideas rectas, sino la vida recta. El segundo es Balthasar: «los únicos teólogos verdaderos son los santos», los que han practicado la vida de Jesús. La deificación así entendida no es una meta reservada a los místicos, sino la lógica misma del bautismo, y explica por qué Barron puede afirmar que la santidad es bella antes que obligatoria: es la participación en la vida divina la que hace atractiva la forma de vida cristiana.
+
 ## Distinciones importantes
 
 - **Divinización por gracia** (participación real, no esencial) ≠ **panteísmo** (identificación con Dios)

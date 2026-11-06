@@ -39,7 +39,7 @@ La Iglesia católica en Europa «convive desde hace siglos con los cristianos de
 
 ## Relaciones doctrinales
 
-La *communio ecclesiarum* se relaciona con [[ecumenismo]], [[iglesia_cuerpo_místico]], [[iglesias_orientales]], [[comunión_eclesial]], [[mission_de_la_iglesia]] y [[europa_cristiana]].
+La *communio ecclesiarum* se relaciona con [[ecumenismo]], [[iglesia_cuerpo_místico]], [[iglesias_orientales]], [[comunión_eclesial]], [[misión_de_la_iglesia]] y [[europa_cristiana]].
 
 ## Ver también
 

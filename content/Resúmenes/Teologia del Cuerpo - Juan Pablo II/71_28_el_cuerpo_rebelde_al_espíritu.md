@@ -28,7 +28,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[imagen_de_dios]] — la pérdida de la fuerza espiritual de la imagen
 - [[ley_diferente]] — «otra ley en mis miembros» (Rom 7, 22-23)
 - [[pudor]] — la protección interior del valor amenazado
--[[Pedagía_del_cuerpo]] — la pedagogía divina en la concupiscencia
+-[[pedagogía_del_cuerpo]] — la pedagogía divina en la concupiscencia
 
 ## Contenido
 

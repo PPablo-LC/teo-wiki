@@ -62,7 +62,7 @@ a. *Efusión escatológica del Espíritu.* Pedro, citando al profeta Joel, muest
 
 b. *Coronamiento de la pascua de Cristo.* Cristo muerto, resucitado y exaltado acaba su obra derramando el Espíritu sobre la comunidad apostólica *Act 2,23-33*. Pentecostés es la plenitud de [[pascua]].
 
-c. *Reunión de la comunidad mesiánica.* Los profetas anunciaban que los [[dispersos]] serían reunidos en la montaña de Sión; Pentecostés realiza en Jerusalén la [[unidad]] espiritual de los judíos y de los prosélitos de todas las naciones; dóciles a la [[enseñanza]] de los apóstoles, [[comunión|comulgan]] en el [[amor]] fraterno en la mesa [[eucarística]] *Act 2,42ss*.
+c. *Reunión de la comunidad mesiánica.* Los profetas anunciaban que los [[dispersos]] serían reunidos en la montaña de Sión; Pentecostés realiza en Jerusalén la [[unidad]] espiritual de los judíos y de los prosélitos de todas las naciones; dóciles a la [[enseñanza]] de los apóstoles, [[comunión|comulgan]] en el [[amor]] fraterno en la mesa [[32_eucarística]] *Act 2,42ss*.
 
 d. *Comunidad abierta a todos los pueblos.* El Espíritu se da con vistas a un testimonio que se ha de llevar hasta los confines de la tierra *Act 1,8*. La división operada en [[babel|Babel]] *Gen 11,1-9* halla aquí su antítesis y su término.
 

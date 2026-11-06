@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization and culture - 11"]
 - [[medicina_y_fe]] — la práctica médica como vocación
 - [[discernimiento_vocacional]] — entre sacerdocio, matrimonio y medicina
 - [[método_histórico_crítico]] — sus límites despertaron la fe intelectual
-- [[san_alfonso_de_ligorio]], [[san_ignacio_de_loyola]] — conversiones dramáticas
+- [[san_alfonso_maría_de_ligorio]], [[san_ignacio_de_loyola]] — conversiones dramáticas
 - [[nuestra_señora_del_perpetuo_socorro]] — basílica redentorista de Boston
 
 ## Contenido

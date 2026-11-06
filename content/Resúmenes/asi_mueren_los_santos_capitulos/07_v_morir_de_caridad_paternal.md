@@ -12,7 +12,7 @@ tags: ["resumen", "asi mueren los santos capitulos"]
 
 ## Conceptos básicos referenciados
 
-[[caridad]], [[san_vicente_de_paúl]], [[santa_luisa_de_marillac]], [[san_jerónimo_emiliano]], [[san_camillo_de_lelis]], [[san_juan_de_dios]], [[san_martín_de_porres]], [[san_alberto_chmielowski]], [[san_luis_orione]], [[san_damián_de_veuster]], [[san_giuseppe_benedetto_cottolengo]]
+[[caridad]], [[san_vicente_de_paúl]], [[santa_luisa_de_marillac]], [[san_jerónimo_emiliano]], [[san_camilo_de_lelis]], [[san_juan_de_dios]], [[san_martín_de_porres]], [[san_alberto_chmielowski]], [[san_luis_orione]], [[san_damián_de_veuster]], [[san_giuseppe_benedetto_cottolengo]]
 
 ## Contenido
 
@@ -30,7 +30,7 @@ hogares más pobres.
    «padre de los pobres» tras morir su hijo; fundó los **Clérigos
    Regulares de Somascha** y construyó hospitales; murió de peste
    contraída asistiendo a los apestados de Somasca.
-3. **[[san_camillo_de_lelis]]** (1550-1614): de soldado, jugador y
+3. **[[san_camilo_de_lelis]]** (1550-1614): de soldado, jugador y
    herido, a hospitalero; fundó los **Ministros de los Enfermos**
    (camilos) con el «cuarto voto» único en la Iglesia: servir a los
    enfermos «aunque sea a riesgo de la propia vida»; murió tras

@@ -13,7 +13,7 @@ tags: ["resumen", "redemptoris mater"]
 ## Conceptos básicos referenciados
 
 - [[llena_de_gracia|Kejaritoméne]] — nombre nuevo con que el ángel saluda a María (§7-11)
-- [[obediencia_de_fe|obediencia de la fe]] — el fiat de María, parangón con la fe de Abraham (§12-19)
+- [[obediencia_de_la_fe|obediencia de la fe]] — el fiat de María, parangón con la fe de Abraham (§12-19)
 - [[inmaculada_concepción]] — preservada de la herencia del pecado original «de modo eminente»
 - [[protoevangelio|Gn 3, 15]] — la «mujer» en el centro de la enemistad entre la simiente y la serpiente
 - [[kénosis_de_la_fe|kénosis de la fe]] — María junto a la Cruz participa por la fe del despojamiento de Cristo

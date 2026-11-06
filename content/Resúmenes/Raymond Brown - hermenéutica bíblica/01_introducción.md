@@ -16,7 +16,7 @@ tags: ["resumen", "raymond brown hermenéutica bíblica"]
 - [[exégesis|exégesis]] — aplicación práctica de las normas teóricas que proporciona la hermenéutica
 - [[inspiración_bíblica]] — autor divino y humano de los libros sagrados (*Providentissimus Deus*)
 - [[sentido_literal]] — por definición, el sentido intentado por el autor humano
-- [[género_literario_bíblico|géneros literarios bíblicos]] — clave para determinar lo que el autor quiso decir
+- [[géneros_literarios_bíblicos|géneros literarios bíblicos]] — clave para determinar lo que el autor quiso decir
 
 ## Contenido
 

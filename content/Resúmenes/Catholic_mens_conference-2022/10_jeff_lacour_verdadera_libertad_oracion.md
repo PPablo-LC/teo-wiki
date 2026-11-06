@@ -44,7 +44,7 @@ Dios nos amó para existir; de ese amor viene nuestra [[dignidad_humana]]. Efesi
 
 La oración no es un logro más en la escalera de méritos. Es presentarse ante Dios cada día, aunque sea incómodo, aunque haya pecado, aunque no se sienta nada. Incluso después de pecar, Dios sigue queriendo que aparezcamos. La tarea es simple pero difícil: solo aparecer.
 
-El verdadero obstáculo para la oración es el falso yo que hemos construido para sobrevivir: heridas infantiles, adaptación social, máscaras. La oración verdadera exige [[morficación|morficación]] de esas identidades falsas. La seguridad verdadera solo viene de Cristo.
+El verdadero obstáculo para la oración es el falso yo que hemos construido para sobrevivir: heridas infantiles, adaptación social, máscaras. La oración verdadera exige [[mortificación|morficación]] de esas identidades falsas. La seguridad verdadera solo viene de Cristo.
 
 ## La lucha personal de Jeff
 

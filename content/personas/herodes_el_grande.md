@@ -51,7 +51,7 @@ Benedicto señala que, aunque no se conoce por fuentes extra-bíblicas la matanz
 
 ## Relaciones doctrinales
 
-Herodes se relaciona con la [[inocencia]] de los niños, con la [[huida_a_egipto]] de la Sagrada Familia, y con la [[messianismo]] — Representa la envidia y el poder terrenal ante la llegada del Reino de Dios.
+Herodes se relaciona con la [[inocencia]] de los niños, con la [[huida_a_egipto]] de la Sagrada Familia, y con la [[mesianismo]] — Representa la envidia y el poder terrenal ante la llegada del Reino de Dios.
 
 ## Ver también
 

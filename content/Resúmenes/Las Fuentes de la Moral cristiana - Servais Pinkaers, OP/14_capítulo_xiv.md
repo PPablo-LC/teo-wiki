@@ -14,7 +14,7 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 
 - [[libertad_de_indiferencia]] — libertad definida como poder de elegir entre cosas contrarias, propia de las morales de la obligación.
 - [[libertad_de_calidad]] — libertad que procede del atractivo hacia lo verdadero y el bien, propia de las morales de la felicidad y de las virtudes.
-- [[ockham|guillermo_de_ockham]] — el iniciador de la concepción de la libertad de indiferencia y de la moral de la obligación.
+- [[guillermo_de_ockham|guillermo_de_ockham]] — el iniciador de la concepción de la libertad de indiferencia y de la moral de la obligación.
 - [[santo_tomás_de_aquino]] — intérprete de la tradición de los Padres, cuya moral reposa en la libertad de calidad.
 - [[inclinaciones_naturales]] — las inclinaciones que santo Tomás arraiga en el núcleo de la libertad y que Ockham expulsa de él.
 - [[ley_natural]] — en la tradición tomista, la ley inscrita en el corazón del hombre y conocida por la razón.

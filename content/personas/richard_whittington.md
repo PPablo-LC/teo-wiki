@@ -17,7 +17,7 @@ El P. Richard T. Whittington es sacerdote de la diócesis de Little Rock. Tiene 
 
 ## Relevancia teológica
 
-Whittington escribe sobre la conversión en la era secular: el desafío del converso adulto que entra en la Iglesia con fervor y se encuentra con una parroquia indiferente. Su ensayo conecta a Charles Taylor (*A Secular Age*), la [[presencia_real]], la [[confesión]], la [[mistagogia]] y el encuentro con el Cristo vivo en su [[cuerpo_místico]], ofreciendo un diagnóstico pastoral para sacerdotes y parroquias.
+Whittington escribe sobre la conversión en la era secular: el desafío del converso adulto que entra en la Iglesia con fervor y se encuentra con una parroquia indiferente. Su ensayo conecta a Charles Taylor (*A Secular Age*), la [[presencia_real]], la [[confesión]], la [[mistagogía]] y el encuentro con el Cristo vivo en su [[cuerpo_místico]], ofreciendo un diagnóstico pastoral para sacerdotes y parroquias.
 
 ## Perspectivas por fuente
 
@@ -32,7 +32,7 @@ Whittington escribe sobre la conversión en la era secular: el desafío del conv
 
 ## Ver también
 
-[[era_secular]], [[secularización]], [[conversión]], [[parroquia]], [[presencia_real]], [[confesión]], [[rito_de_iniciación_cristiana_de_adultos]], [[mistagogia]], [[catecumenado]], [[cuerpo_místico]], [[gracia]], [[encuentro_personal_con_cristo]], [[eucaristía]]
+[[era_secular]], [[secularización]], [[conversión]], [[parroquia]], [[presencia_real]], [[confesión]], [[rito_de_iniciación_cristiana_de_adultos]], [[mistagogía]], [[catecumenado]], [[cuerpo_místico]], [[gracia]], [[encuentro_personal_con_cristo]], [[eucaristía]]
 
 ## Referencias
 

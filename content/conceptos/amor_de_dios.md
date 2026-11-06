@@ -71,6 +71,22 @@ El intercambio entre la primera objeción y su respuesta le sirve a Barron para 
 
 La relevancia contemporánea de esa distinción es doble. Por un lado corrige al objetor que creía que la incorporeidad de Dios excluye su amor por el mundo; por otro previene contra la tentación inversa, identificar el amor divino con el sentimiento o la pasión corporal, que por naturaleza es fugaz, poco fiable y manipulable. Si el amor de Dios fuera una emoción, el pecador podría jugar con él, encendiéndolo o apagándolo a su antojo. El amor que nos llega en Cristo, idéntico al ser divino que crea y sostiene el universo, no es nada tan inconsistente ni imprevisible: es la roca sobre la que se apoya el mundo y el fundamento seguro sobre el que el pecador puede reconstruir su vida. Y a la vez no es frío en absoluto: es el corazón y el alma de Dios, el gran acto por el que sale de sí mismo en éxtasis para compartir su gozo con las criaturas (TAM, cap. 2).
 
+### Según And Now I See (ANS)
+
+Robert Barron recorre los nombres de Dios —sereno y creativo, autosuficiente y fiel, señor y humilde— y concluye, con Buenaventura, que «Ser mismo» es un nombre válido del Antiguo Testamento pero no el último: «Dios es amor» (1 Jn 4,16) es su nombre más profundo. No hay ruptura entre ambos, porque solo el Dios bipolar puede ser amor: el que fuera solo sereno, autosuficiente y señor sería indiferente o hostile al mundo; el que fuera solo creativo, fiel y humilde sería un Absoluto necesitado o una «fuerza» manejable.
+
+Barron define el amor como un juego entre independencia y don de sí: ni la indiferencia de quien no tiene vínculo vital con el otro, ni la necesidad patológica que manipula o se deja manipular. Aplicado a Dios, esto significa que el amor no es solo una cualidad o una actividad suya respecto del mundo: es su mismo ser, su vida íntima. De ahí que el amor exija la Trinidad, donde hay amante, amado y amor compartido.
+
+El amor de Dios se manifiesta sobre todo en la cruz, que Barron lee como el descenso hasta el abandono de Dios. La resurrección muestra que ese descenso no fue derrota y que el amor es más fuerte que la muerte; en el corazón abierto de Cristo tenemos acceso al Padre. La consecuencia espiritual es que el pecador ya no necesita competir con Dios ni esconderse de él: el Dios que es amor no es un rival, sino la potencia en la que el alma temerosa puede hallarse mediante la entrega. Por eso Barron insiste en que el amor de Dios no es un sentimiento manipulable: si fuera emoción, el pecador podría encenderlo o apagarlo a su antojo; es, en cambio, la roca sobre la que se apoya el mundo y el fundamento seguro sobre el que el pecador puede reconstruir su vida.
+
+### Según Centered (CEN)
+
+El compendio ordena la espiritualidad de Word on Fire en torno a «Dios es amor» (1 Jn 4,16), pero subraya el orden del conocimiento: que Dios ame se sigue de su simplicidad y de la creación; que Dios *sea* amor solo se ve por el icono de la Encarnación, que muestra una multiplicidad dentro de la realidad divina. Lo que el Dios simple da con generosidad es el dar que él es: «el ser de Dios es ser-para-otro».
+
+De ahí la Trinidad como «juego de amante, amado y amor activo»: el Padre se olvida de sí en el amor y engendra al Hijo, el Hijo se olvida de sí y mira al Padre, y el amor mutuo es el Espíritu; generación activa y pasiva, espiración activa y pasiva, «Dios es como un par de pulmones, o como un corazón: tomar y soltar, un ritmo, una cadencia». No es un monolito de poder sino una *communio* de ser y dejar ser, y la misión de la Iglesia es «hacer real en el mundo precisamente este amor que Dios es».
+
+El amor divino no entra en el circuito del intercambio: porque Dios no puede beneficiarse de nuestros dones ni ser herido por su ausencia —no está realmente relacionado con el mundo, dice Tomás—, da de modo totalmente desinteresado, y si amar es querer el bien del otro en cuanto otro, sus actos son amor en el sentido más pleno. Lo que se le devuelve redunda siempre en beneficio de la criatura. Y como no necesita el mundo, «la misma existencia del mundo es señal de que ha sido amado hasta el ser»; crea *ex nihilo*, sin violencia ni dominio, a diferencia de las cosmogonías antiguas. La cruz confirma el carácter no violento y relacional de su ser: el Crucificado vuelve con compasión y perdón, no con venganza.
+
 ## Distinciones importantes
 
 - **Amor de Dios vs. amor del hombre**: el amor de Dios es infinito y creador; el amor del hombre es participación del divino.

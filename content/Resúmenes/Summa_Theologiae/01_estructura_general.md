@@ -12,7 +12,7 @@ tags: ["resumen", "summa theologiae"]
 
 ## Conceptos básicos referenciados
 
-- [[summa_teologiae]]
+- [[summa_theologiae]]
 - [[santo_tomás_de_aquino]]
 - [[doctrina_sagrada]]
 - [[teología_dogmática]]

@@ -102,6 +102,14 @@ compañía, cuyo dolor supremo es el de no poder abrazar al mundo, comunicando p
 
 La belleza se relaciona con el [[arte_sacro]], con [[dios]] como fuente de toda belleza, con la [[gloria]] divina, y con la [[cultura]] como expresión de la creatividad humana elevada por la gracia.
 
+### Según Centered (CEN)
+
+Uno de los ocho principios de Word on Fire es «liderar con la belleza», y el compendio lo justifica estratégicamente: en un contexto dominado por el relativismo, empezar por la exigencia moral o por la pretensión de verdad levanta barreras casi insuperables, mientras que lo bello no amenaza. El movimiento es de lo bello («¡es espléndido!») a lo bueno («¡debo jugar!») y a lo verdadero («¡es verdad!»); invertirlo —discutir primero el derecho y el error— es el error simétrico de liberales y conservadores. Ningún niño entra en el universo del béisbol por disputas sobre la regla del *infield fly*, y nadie se enamora del cristianismo oyendo solo debates sobre *Humanae Vitae*.
+
+La belleza no es tan subjetiva como se supone: el gusto por un plato es meramente satisfactorio, pero ante la Capilla Sixtina o la Novena de Beethoven no cabe decir «no es de mi gusto» sin ridículo; hay valores objetivos. Las vidrieras góticas, y en concreto el rosetón, son imagen del alma bien ordenada, de la ciudad bien ordenada y del cosmos: Cristo en el centro y todo lo demás conectado a él por los radios. Balthasar añadió que lo bello produce «arresto estético» y luego envía: quien lo ha visto quiere hablar de ello, de modo que la belleza es también el motor de la misión.
+
+Por eso la belleza es «quizá hoy la ruta privilegiada de evangelización», y por eso el arte sacro —la Capilla Sixtina, Chartres, *Guernica*, las Misioneras de la Caridad en Calcuta— obra una alquimia en el alma que despierta el deseo de participar e imitar. A ello se une la narración: no hay relato más bello ni más poderoso que el que presenta la Escritura entera —el Creador que por amor envía a su Hijo para elevar a los hombres caídos a su propia vida—.
+
 ## Analizado para
 
 - [[clarkson_gospels_human_suffering]] — convergencia en la belleza como experiencia de Dios; aporta la tesis de «la belleza como teodicea» y el arte como respuesta al sufrimiento

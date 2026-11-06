@@ -14,7 +14,7 @@ tags: ["resumen", "evangelization and culture - 15"]
 
 - [[sufrimiento_cristiano]] — el sufrimiento como historia de «amor sufriente» (suffering love)
 - [[problema_del_mal]] — «¿Dónde estabas? Dejaste morir a un niño. Dejas que cualquier cosa suceda»
-- [[pecado_original]] / [[misterio_de_la_iniquidad]] — el mal que nos infligimos unos a otros y a nosotros mismos
+- [[pecado_original]] / [[mysterium_iniquitatis]] — el mal que nos infligimos unos a otros y a nosotros mismos
 - [[misterio_pascual]] — la cruz de Cristo cambia el significado de la vida humana y de la propia vida
 - [[encarnación]] — Jesús, el Amor encarnado, que sufre con nosotros
 - [[resurrección]] / [[nueva_creación]] — la reunión de los O'Brien en la nueva creación (Agnus Dei)

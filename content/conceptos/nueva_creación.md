@@ -28,11 +28,11 @@ DLV aborda la nueva creación desde la victoria y la positividad de Cristo:
 
 ## Relaciones
 
-[[creación]], [[escatología]], [[resurrección_de_cristo]], [[cielo_nuevo_y_tierra_nueva]], [[consumación_de_los_siglos]], [[reino_de_dios]], [[jerusalén_celestial]], [[cuerpo_glorioso]]
+[[creación]], [[escatología]], [[resurrección_de_cristo]], [[cielo_nuevo_y_tierra_nueva]], [[consumación_de_los_siglos]], [[reino_de_dios]], [[nueva_jerusalen]], [[cuerpo_glorioso]]
 
 ## Ver también
 
-[[consumación_de_los_siglos]], [[cielo_nuevo_y_tierra_nueva]], [[jerusalén_celestial]]
+[[consumación_de_los_siglos]], [[cielo_nuevo_y_tierra_nueva]], [[nueva_jerusalen]]
 
 ## Referencias
 

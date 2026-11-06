@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[confesión]] — la confesión colectiva del pecado
 - [[buscar]] — buscar a Yahveh
 - [[odio]] — odiar el mal
-- [[bien__mal]] — amar el bien
+- [[29_bien__mal]] — amar el bien
 - [[resto]] — el resto de José
 - [[ídolos]] — la idolatría
 - [[amor]] — el amor (*hesed*)
@@ -90,7 +90,7 @@ Ya en la época de David la intervención de Natán cerca del rey adúltero anun
 
 ### 1. Amós,
 
-profeta de la justicia, no se contenta con denunciar los pecados de sus contemporáneos. Cuando dice que hay que «[[buscar|buscar]] a Dios» *Am 5,4.6*, la fórmula no es solamente cultual. Significa: buscar el bien y no el mal, [[odio|odiar]] el mal y amar el [[bien__mal|bien]] *5,14s*; esto implica una rectificación de la conducta y una práctica leal de la justicia: sólo tal reversión podrá inducir a Dios a «tener piedad del [[resto|resto]] de José» *5,15*.
+profeta de la justicia, no se contenta con denunciar los pecados de sus contemporáneos. Cuando dice que hay que «[[buscar|buscar]] a Dios» *Am 5,4.6*, la fórmula no es solamente cultual. Significa: buscar el bien y no el mal, [[odio|odiar]] el mal y amar el [[29_bien__mal|bien]] *5,14s*; esto implica una rectificación de la conducta y una práctica leal de la justicia: sólo tal reversión podrá inducir a Dios a «tener piedad del [[resto|resto]] de José» *5,15*.
 
 Oseas exige igualmente un despego real de la iniquidad y especialmente de la [[ídolos|idolatría]]; promete que a cambio desviará Dios su ira *Os 14,2-9*. Estigmatizando las conversiones superficiales que no pueden producir fruto alguno, insiste en el carácter interior de la verdadera conversión, inspirada por el [[amor|amor]] (*hesed*) y el [[conocer|conocimiento]] de Dios *6,1-6*.
 

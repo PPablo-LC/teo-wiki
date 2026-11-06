@@ -25,7 +25,7 @@ Desarrolla la relación entre emociones y fe a partir del lema cardenalicio de S
 
 ## Ver también
 
-[[emociones_y_fe]], [[corazón]], [[afectividad]], [[primer_anuncio]], [[san_juan_enrique_newman]]
+[[emociones_y_fe]], [[corazón]], [[afectividad]], [[primer_anuncio]], [[john_henry_newman]]
 
 ## Referencias
 

@@ -18,9 +18,9 @@ tags: ["resumen", "catequesis sobre el matrimonio - juan pablo ii"]
 - [[concupiscencia]] — concupiscencia de la carne, de los ojos y orgullo de la vida (1 Jn 2,16).
 - [[vergüenza_originaria]] — experiencia tras el pecado que revela la fractura interior del hombre.
 - [[pudor_sexual]] — doble función: manifiesta la amenaza de la concupiscencia y protege el valor personal del cuerpo.
-- [[significado_esponsalicio_del_cuerpo]] — negado por el deseo concupiscente, afirmado por el don recíproco.
+- [[significado_esponsal_del_cuerpo]] — negado por el deseo concupiscente, afirmado por el don recíproco.
 - [[carácter_nupcial_del_cuerpo]] — capacidad del cuerpo de expresar el amor como don.
-- [[comunión_de_las_personas]] — norma interior que regula la relación esponsal y juzga el adulterio.
+- [[comunión_de_personas]] — norma interior que regula la relación esponsal y juzga el adulterio.
 - [[corazón]] — categoría bíblica del hombre interior; lugar del combate entre amor y concupiscencia.
 - [[dureza_de_corazón]] — condición histórica que oscureció el contenido del mandamiento en Israel.
 - [[inocencia_original]] — referencia constante frente al «hombre histórico» de la concupiscencia.
@@ -36,7 +36,7 @@ Tras analizar Gn 2,24 («principio»), Juan Pablo II toma la segunda clave de la
 
 ### 23-04-80 · «No cometerás adulterio». Significado del cuerpo desde el «principio»
 
-Cristo se dirige al «hombre histórico» pero quiere llegar al «hombre interior»: el «corazón» debe vincularse de nuevo al [[significado_esponsalicio_del_cuerpo]] y generativo, oscurecido por la concupiscencia. El adulterio es ruptura de la unidad conyugal: el deseo dirigido hacia una mujer que no es la propia esposa (ejemplo de David y Betsabé). La mirada dirigida a la propia esposa no es adulterio aunque sea deseosa; el texto de Mt 5 tiene carácter indicativo: describe lo que sucede cuando el deseo se dirige fuera de la relación conyugal.
+Cristo se dirige al «hombre histórico» pero quiere llegar al «hombre interior»: el «corazón» debe vincularse de nuevo al [[significado_esponsal_del_cuerpo]] y generativo, oscurecido por la concupiscencia. El adulterio es ruptura de la unidad conyugal: el deseo dirigido hacia una mujer que no es la propia esposa (ejemplo de David y Betsabé). La mirada dirigida a la propia esposa no es adulterio aunque sea deseosa; el texto de Mt 5 tiene carácter indicativo: describe lo que sucede cuando el deseo se dirige fuera de la relación conyugal.
 
 ### 30-04-80 · La triple concupiscencia según la doctrina bíblica
 
@@ -84,7 +84,7 @@ Severidad legal: penas capitales para el adulterio, la homosexualidad y el besti
 
 ### 27-08-80 · La ruptura de la alianza personal del hombre y la mujer
 
-La tradición profética (Oseas, Ezequiel, Isaías) presenta a Yahvéh-Esposo e Israel-esposa: elección por pura misericordia, traición idolátrica como adulterio. El adulterio es pecado porque constituye ruptura de la alianza personal del hombre y la mujer — no mera violación del derecho de propiedad. La monogamia es la única justa analogía del monoteísmo; el adulterio falsifica radicalmente el signo de la unión «una sola carne» (Gn 2,24) y se juzga según la [[comunión_de_las_personas]].
+La tradición profética (Oseas, Ezequiel, Isaías) presenta a Yahvéh-Esposo e Israel-esposa: elección por pura misericordia, traición idolátrica como adulterio. El adulterio es pecado porque constituye ruptura de la alianza personal del hombre y la mujer — no mera violación del derecho de propiedad. La monogamia es la única justa analogía del monoteísmo; el adulterio falsifica radicalmente el signo de la unión «una sola carne» (Gn 2,24) y se juzga según la [[comunión_de_personas]].
 
 ### 03-09-80 · El adulterio en el cuerpo y en el corazón. Psicología moral
 

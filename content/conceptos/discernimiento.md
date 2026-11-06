@@ -55,6 +55,14 @@ Ladaria sitúa el discernimiento en la predicación: el sacerdote distingue lo c
 
 Melina (Introducción, EPL) presenta el discernimiento como parte de la verdad práctica. El discernimiento se ordena a la verdad del bien y se realiza en la acción.
 
+### Según The Strangest Way (STR)
+
+Barron presenta el discernimiento como la primera práctica del tercer camino y lo apoya en Bernard Lonergan, «especialista en cuestiones de método como académico y entrenado en el discernimiento de espíritus como jesuita». Su método se resume en cuatro imperativos: estar atento, ser inteligente, ser razonable y ser responsable.
+
+La atención consiste en «ver lo que hay que ver», sin selectividad ni miopía; muchos científicos se equivocan no por falta de inteligencia especulativa, sino porque no miran. Para el cristiano, que cree con Tomás que Dios está en todas las cosas por esencia, presencia y potencia, todo está saturado de la presencia divina, y la oración es «una especie de atención intensificada a la dimensión profunda de lo cotidiano». La inteligencia consiste en captar patrones, tener *insight*, y el cristiano los discierne con las lentes de la tradición bíblica, buscando analogías entre la gran historia —creación, éxodo, profecía, vocación, pecado y gracia, Encarnación, muerte y resurrección— y la propia; como Picasso con las analogías visuales, el discípulo se entrena con iconos, vidas de santos, catedrales, poemas y liturgia. La razonabilidad es el juicio: en la búsqueda de hipótesis conviene la imaginación, en el juicio la dureza, porque solo hay una respuesta verdadera, y muchos son atentos e ingeniosos pero nunca deciden. La responsabilidad es ajustar la vida al juicio alcanzado, aunque incomode: políticos que votan lo que juzgan injusto por ser reelegidos, investigadores que no publican por miedo, seminaristas que conocen su vocación y no la siguen.
+
+Ofrece además dos criterios concretos: la eliminación de los patrones incompatibles con la revelación y con la forma de la vida de Jesús; y los frutos del Espíritu de Gálatas 5,22-23, que son «marcas de una *magna anima* expansiva y volcada hacia fuera»: la vocación que los suscita es la propia. Y recomienda consultar a la comunidad, pues los carismas se ven mejor desde fuera; Newman invocaba el *sensus fidelium* incluso en materia de doctrina.
+
 ## Distinciones importantes
 
 - Discernimiento moral (bien/mal) vs. discernimiento espiritual (origen de mociones)

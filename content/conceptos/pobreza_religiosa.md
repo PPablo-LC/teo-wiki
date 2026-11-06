@@ -32,7 +32,7 @@ El c. 600 dispone que «el voto de pobreza entraña la limitación del uso y dis
 
 ## Ver también
 
-[[consejos_evangélicos]], [[vida_consagrada]], [[pobreza_evangélica]], [[pobreza_de_espíritu]], [[voto_religioso]], [[perfectae_caritatis]]
+[[consejos_evangélicos]], [[vida_consagrada]], [[pobreza_evangélica]], [[pobreza_de_espíritu]], [[votos_religiosos]], [[perfectae_caritatis]]
 
 ## Referencias
 

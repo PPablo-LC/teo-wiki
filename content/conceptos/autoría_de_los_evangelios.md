@@ -71,7 +71,7 @@ La teoría del anonimato, surgida en los últimos 100 años, sostiene cuatro pun
 - [[sucesión_apostólica]]
 - [[evangelios_apócrifos]]
 - [[papías_de_hierápolis]]
-- [[san_irineo_de_león]]
+- [[ireneo_de_lion]]
 - [[clemente_de_alejandría]]
 - [[eusebio_de_cesárea]]
 - [[celso]]

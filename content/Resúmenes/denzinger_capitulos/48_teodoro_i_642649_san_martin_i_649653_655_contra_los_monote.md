@@ -17,7 +17,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[theotokos]] — María es madre de Dios y permanece virgen después del parto
 - [[unión_hipostática]] — dos naturalezas unidas sin confusión ni división
 - [[voluntad_de_cristo]] — dos voluntades naturales, divina y humana
-- [[operaciones_de_cristo]] — dos operaciones naturales en Cristo
+- [[operación_de_cristo]] — dos operaciones naturales en Cristo
 - [[monotelismo]] — condena de una sola voluntad y una sola operación
 - [[higestética]] — la operación teándrica, doble, divina y humana
 - [[iconos]] — definición sobre las sagradas imágenes (VII ecuménico)

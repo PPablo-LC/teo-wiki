@@ -45,7 +45,7 @@ Este intercambio admirable se consuma en el misterio pascual, donde la justicia 
 
 ## Ver también
 
-[[teosis]], [[divinización]], [[gracia_santificante]]
+[[divinización]], [[gracia_santificante]]
 
 ## Referencias
 

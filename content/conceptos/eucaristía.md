@@ -154,7 +154,6 @@ El Obispo, revestido de la plenitud del sacramento del orden, es el administrado
 
 **a.6 — El cordero pascual fue su principal figura:** Distinguiendo el *sacramentum tantum* (pan y vino), la *res et sacramentum* (el verdadero cuerpo de Cristo) y la *res tantum* (el efecto), la figura principal en cuanto al primero fue la oblación de Melquisedec, que ofreció pan y vino; en cuanto al segundo, los sacrificios del Antiguo Testamento; y el cordero pascual lo prefiguró en los tres aspectos: se comía con pan ácimo, se inmolaba el día catorce y su sangre libró de la servidumbre y del ángel exterminador. (SmTh IIIa q.73 a.6)
 
-
 #### IIIª q.81 — El uso que Cristo hizo de este sacramento
 
 **a.1 — Cristo asumió su cuerpo y su sangre:** No es plausible que los diera a los discípulos sin ingerirlos, porque Cristo fue el primero en cumplir lo que instituyó para que otros observasen, como quiso ser bautizado antes de imponer el bautismo. (SmTh IIIa q.81 a.1)
@@ -465,7 +464,7 @@ El número 13 de *Evangelization & Culture* está dedicado íntegramente a la Eu
 
 En el bloque «Emmaus» de EAC-18, los testimonios de adoración eucarística en Phoenix y de la comunión diaria de los nuevos conversos muestran la [[eucaristía]] como escuela permanente de conversión: quien ha sido alcanzado por la gracia se alimenta del Sacramento y aprende a adorar, hasta poder ser presencia de Cristo para los demás [EAC-18, 09_spotlight_stories.md]. La referencia constante al *National Eucharistic Revival* da a estos testimonios el contexto de una cultura eucarística que ha de reconstruirse.
 
-Andrew Allen, en su estudio sobre la iniciación cristiana, subraya que la [[mistagogia]] del itinerario del [[catecumenado]] introduce a los neófitos en el misterio eucarístico: antes que una doctrina que se explica, la Eucaristía es una Persona a la que se aprende a adorar, culminación y fuente de la vida cristiana (RCIA 244) [EAC-18, 16_feature_allen.md].
+Andrew Allen, en su estudio sobre la iniciación cristiana, subraya que la [[mistagogía]] del itinerario del [[catecumenado]] introduce a los neófitos en el misterio eucarístico: antes que una doctrina que se explica, la Eucaristía es una Persona a la que se aprende a adorar, culminación y fuente de la vida cristiana (RCIA 244) [EAC-18, 16_feature_allen.md].
 
 De este modo, el fascículo conecta directamente el camino de la conversión con el banquete pascual: la [[presencia_real]] de Cristo en la Eucaristía sostiene al alma en la [[vía_purgativa]] y la configura con él hasta poder decir «ya no vivo yo, es Cristo quien vive en mí» (Ga 2,20) [EAC-18, 16].
 
@@ -503,6 +502,20 @@ Melina (Cap. II, Introducción) presenta la Eucaristía como don original que nu
 
 **El gesto del don.** En la multiplicación de los panes, Jesús «tomó los panes y los peces, dio gracias, los partió y los dio»: el mismo gesto de acción de gracias y entrega que realiza el «circuito de la gracia» (1 de diciembre).
 
+### Según Word on Fire (WOF)
+
+Barron lee Jn 6,1-15 como «teología implícita de la Misa». El monte es lugar de encuentro entre Dios y la humanidad —Ararat, Sinaí, Tabor, Calvario—, de modo que la liturgia es experiencia de cumbre y comunión con el Dios vivo, no simple celebración de la comunidad. Jesús se sienta, postura del maestro: la primera parte de la Misa, la liturgia de la palabra, en la que Cristo mismo enseña por la boca de los lectores. La cercanía de la Pascua —cuando se degollaban los corderos— enlaza la Eucaristía con la muerte del Señor: la segunda parte es re-presentación sacramental del sacrificio del Calvario.
+
+Los cinco panes y dos peces del muchacho representan lo que el hombre puede aportar, como los dones del ofertorio; «tomó los panes y dio gracias» remite al sacerdote que actúa *in persona Christi* y a la plegaria eucarística. Los cinco mil saciados simbolizan a los comulgantes, y los doce cestos de fragmentos, a las doce tribus y a la asamblea escatológica, que comulga con ángeles y santos. En la homilía sobre Jn 6,48-66 desarrolla la Presencia Real y la transustanciación: la palabra de Dios no describe, hace, y quien la pronuncia es el Logos encarnado; por eso la Eucaristía es el quicio de la vida de la Iglesia (*Ecclesia de Eucharistia*).
+
+### Según Lenten Gospel Reflections 2022 (LGR22)
+
+La Eucaristía aparece en el corazón de la Semana Santa. Al hacer de su Última Cena una cena pascual, Jesús señala el cumplimiento de la profecía del Bautista: él es el Cordero de Dios y el sacrificio definitivo; el cordero pascual, cuya sangre se untó en las jambas en Egipto, era el memorial que ahora se cumple en su carne entregada. Barron subraya que ese sacrificio se hace sacramentalmente presente en cada Misa, y precisa la dirección del don: no por necesidad de Dios, que no lo necesita, sino por nosotros; en la Misa participamos en el acto por el que divinidad y humanidad se reconcilian, comemos el cuerpo entregado y bebemos la sangre derramada. La reflexión del lavatorio añade la clave interpretativa: la vida divina existe solo en forma de don y se «tiene» al vuelo, en la medida en que se entrega, de modo que la Eucaristía no se recibe para retenerla, sino para convertirla en servicio. La unidad del Cuerpo, advertida a propósito de Beelzebul, completa el cuadro eclesial.
+
+### Según Lenten Gospel Reflections 2024 (LGR24)
+
+La fuente de 2024 ordena tres meditaciones a la Eucaristía. La purificación del templo (Jn 2,13-25) identifica a Cristo con el lugar donde habita Dios y donde se obtienen el perdón, la enseñanza y la curación: el templo de su cuerpo sustituye al de piedra. La multiplicación de los panes (Jn 6,1-15) muestra el gesto que anticipa el sacramento: ante la multitud hambrienta, Jesús ordena «dadles vosotros de comer», toma lo que hay, lo bendice, lo parte y lo reparte hasta que sobra. La Última Cena pascual, finalmente, hace presente el sacrificio del Cordero en cada Misa, «no por necesidad de Dios, sino por nosotros». La meditación de la religión transfigurada en sacramentos —la Pascua en la Eucaristía, el agua en el Bautismo, el aceite en la unción— da a estas reflexiones su marco: la economía sacramental no es un añadido piadoso, sino la forma concreta en que la religión de Israel se cumple en Cristo.
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
@@ -518,6 +531,13 @@ Melina (Cap. II, Introducción) presenta la Eucaristía como don original que nu
 - Sacrificio propiciatorio por vivos y difuntos
 - Prenda de la gloria escatológica
 
+### Según Centered (CEN)
+
+Tomás da tres nombres al sacramento, uno por cada dimensión del tiempo: *sacrificium*, porque actualiza la inmolación de Cristo en la cruz; *communio*, porque realiza la reunión del Cuerpo de Cristo aquí y ahora; y *Eucharistia*, porque anticipa la acción de gracias del banquete escatológico.
+
+La Misa es *anamnesis*, pero no en sentido meramente psicológico: como Jesús es divino, todos sus actos —y sobre todo el acto sacrificial por el que salvó al mundo— participan de la eternidad de Dios y pueden hacerse presentes en cualquier momento. La batalla de Hastings no puede re-presentarse; el sacrificio de Cristo sí: quienes rodean el altar no recuerdan el Calvario, sino que el Calvario se les hace presente. Y en un mundo torcido «no hay comunión sin sacrificio»: la ira divina es símbolo de su justicia, de su pasión por poner las cosas en su sitio, y por eso Dios no cesa de obrar sacrificialmente.
+
+El discurso de Cafarnaún prueba el realismo: si fuera solo simbólico, ¿por qué resultó tan duro y por qué se marcharon muchos (Jn 6,60)? En la transustanciación cambian las substancias y permanecen los accidentes, porque el poder divino alcanza las raíces mismas de la realidad, como en la creación. Flannery O'Connor lo dijo mejor que un tratado: «Si es un símbolo, al diablo con él». Los Padres concluyeron que la Eucaristía cristifica y eterniza; los sacramentos, dice Tomás, no solo significan la gracia, sino que «causan lo que significan» (Supl. 35,1), y todos tienen una finalidad deificante.
 
 ## Analizado para
 

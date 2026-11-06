@@ -10,4 +10,4 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 
 # SIGLO XII
 
-Esta es la cabecera del siglo XII. En este siglo la cristiandad medieval llega a su esplendor: la época clásica de la cristiandad, con el florecimiento de la vida monástica, la teología y el derecho canónico, y el creciente poder del papado. El contenido de este siglo se desarrolla en el capítulo 24: [[cruzadas_císter_escolástica]].
+Esta es la cabecera del siglo XII. En este siglo la cristiandad medieval llega a su esplendor: la época clásica de la cristiandad, con el florecimiento de la vida monástica, la teología y el derecho canónico, y el creciente poder del papado. El contenido de este siglo se desarrolla en el capítulo 24: [[24_cruzadas_císter_escolástica]].

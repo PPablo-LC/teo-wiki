@@ -5,7 +5,7 @@ fuente: Evangelization and culture - 3
 capítulo: 17
 timestamp: 2026-08-24
 description: "Resumen del artículo académico sobre San Agustín y el amor propio en la era digital"
-tags: ["resumen", "evangelization_and_culture", "san_agustín", "teología"]
+tags: ["resumen", "evangelization_and_culture", "agustín_de_hipona", "teología"]
 ---
 
 # The Problem of Self-Love: St. Augustine and the Digital Age — James K. Lee

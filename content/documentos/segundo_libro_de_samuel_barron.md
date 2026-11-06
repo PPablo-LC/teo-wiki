@@ -19,7 +19,7 @@ description: "Comentario teológico de Robert Barron a 2 Samuel: David rey-sacer
 - **Código**: 2SamBr
 - **Fuente**: `raw/Bases_doctrinales-raw/2_Samuel_Barron_Robert/` (30 archivos, ~978 líneas)
 - **Formato**: Comentario bíblico por capítulos, en inglés
-- **Índice raw**: [[raw/Bases_doctrinales-raw/2_Samuel_Barron_Robert/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/2_Samuel_Barron_Robert/índice.md`
 
 ## Contenido
 
@@ -91,4 +91,4 @@ La obra distribuye los veinticuatro capítulos de 2 Samuel en cinco series:
 ## Referencias
 
 - Barron, Robert. *2 Samuel*. Brazos Theological Commentary on the Bible. Grand Rapids: Brazos Press, 2015.
-- Índice raw: [[raw/Bases_doctrinales-raw/2_Samuel_Barron_Robert/índice]]
+- Índice raw: `raw/Bases_doctrinales-raw/2_Samuel_Barron_Robert/índice.md`

@@ -18,7 +18,7 @@ tags: ["resumen", "evangelization_and_culture_12", "infancia_teología", "maravi
 - [[vida_trinitaria]] — niños modelan algo de la vida de la Trinidad: aman sin guarda, confían implícitamente, receptividad ávida
 - [[cristo_niño]] — iconografía: Cristo infante domina representación del niño en era cristiana → imágenes de inocencia y sabiduría innata
 - [[teotokos_de_vladimir]] — icono de la Virgen de la Ternura: mejilla con mejilla, mano envolviendo cuello → ternura universal de María, madre de compasión por todos los que sufren
-- [[san_agustín]] — ve niños como "haces desordenados de deseos inordinados"; leyenda del niño en la playa que intenta meter el mar en un hoyo → oráculo: "Tú intentas lo imposible queriendo entender la Trinidad con tu pequeña inteligencia"
+- [[agustín_de_hipona]] — ve niños como "haces desordenados de deseos inordinados"; leyenda del niño en la playa que intenta meter el mar en un hoyo → oráculo: "Tú intentas lo imposible queriendo entender la Trinidad con tu pequeña inteligencia"
 - [[pablo_picasso]] — "Todos los niños nacen artistas; el reto es seguir siéndolo al crecer"
 - [[jan_steen]] — *La fiesta de San Nicolás*: moralidad infantil, expectativa gozosa, imaginación profunda
 - [[n_c_wyeth]] — *El Gigante*: nube con forma de gigante, pies en mar, cabeza en cielo → imaginación infantil ve más allá de lo sensible, "alcanzando bajo la superficie de la realidad, esforzándose por interpretar su misterio oculto" (Juan Pablo II, Carta a los Artistas)

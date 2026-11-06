@@ -16,7 +16,7 @@ tags: ["resumen", "the rites and wrongs of liturgy  why good liturgy matters"]
 - [[eucaristía]]
 - [[didache]]
 - [[ritual]]
-- [[comunidad_cristiana]]
+- [[comunidad]]
 
 ## Contenido
 

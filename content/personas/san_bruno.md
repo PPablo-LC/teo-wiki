@@ -29,11 +29,11 @@ Rivero sitúa a San Bruno en el contexto de la reforma monástica del siglo XI, 
 
 ## Relaciones doctrinales
 
-La fundación de San Bruno se inscribe en el movimiento reformador del monacato benedictino del siglo XI, junto con la reforma cluniacense y la fundación cisterciense de [[san_bernardo_de_clairvaux]]. La Cartuja representa una modalidad contemplativa extrema dentro del monacato occidental, distinta del modelo cenobítico activo de los benedictinos o del modelo mendicante de los franciscanos y dominicos.
+La fundación de San Bruno se inscribe en el movimiento reformador del monacato benedictino del siglo XI, junto con la reforma cluniacense y la fundación cisterciense de [[san_bernardo]]. La Cartuja representa una modalidad contemplativa extrema dentro del monacato occidental, distinta del modelo cenobítico activo de los benedictinos o del modelo mendicante de los franciscanos y dominicos.
 
 ## Ver también
 
-[[contemplación]], [[monacato]], [[san_bernardo_de_clairvaux]], [[urbano_ii]], [[contemplación_infusa]]
+[[contemplación]], [[monacato]], [[san_bernardo]], [[urbano_ii]], [[contemplación_infusa]]
 
 ## Referencias
 - [HI, Archivo 22]

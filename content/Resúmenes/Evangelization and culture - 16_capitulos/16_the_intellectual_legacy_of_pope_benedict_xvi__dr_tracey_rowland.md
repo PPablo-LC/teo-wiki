@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization and culture - 16 capitulos"]
 
 ## Conceptos básicos referenciados
 
-- [[doctor_de_la_iglesia]] — posible declaración como Doctor de la Iglesia por su contribución a las crisis teológicas
+- [[doctores_de_la_iglesia]] — posible declaración como Doctor de la Iglesia por su contribución a las crisis teológicas
 - [[reforma]] / [[hermenéutica_de_la_reforma]] — la interpretación del Vaticano II según la reforma, no la revolución
 - [[revuelta_contra_la_reforma]] — los movimientos destructivos de la modernidad
 - [[cristocentrismo]] — cristocentrismo influido por san Buenaventura y Romano Guardini
@@ -26,7 +26,7 @@ tags: ["resumen", "evangelization and culture - 16 capitulos"]
 - [[communio_teología]] — la revista *Communio* fundada por Ratzinger, de Lubac y Balthasar
 - [[teología_litúrgica]] — su liturgología para los problemas pastorales
 - [[encarnación]] — la humanidad de la Encarnación
-- [[teologías_de_la_liberación]] — documentos e instituciones contra el problema marxista
+- [[teologia_de_la_liberacion]] — documentos e instituciones contra el problema marxista
 - [[ecumenismo]] — la Declaración conjunta sobre la justificación y el diálogo ecuménico
 - [[diálogo_interreligioso]] — el documento *Dominus Iesus*
 

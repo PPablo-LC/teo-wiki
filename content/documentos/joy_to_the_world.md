@@ -18,7 +18,7 @@ description: "Libro de Scott Hahn sobre la Navidad: la familia como héroe insó
 - **Código**: JTW
 - **Fuente**: `raw/Bases_doctrinales-raw/Joy_to_the_World_capitulos/` (16 archivos)
 - **Formato**: Ensayo teológico-pastoral sobre la Navidad, en inglés
-- **Índice raw**: [[raw/Bases_doctrinales-raw/Joy_to_the_World_capitulos/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/Joy_to_the_World_capitulos/índice.md`
 
 ## Contenido
 
@@ -85,5 +85,5 @@ El contenido doctrinal único de varios capítulos se integró en los artículos
 
 - Scott Hahn, *Joy to the World: How Christ's Coming Changed Everything (and Still Does)* (Image, 2014)
 - Fuente raw: `raw/Bases_doctrinales-raw/Joy_to_the_World_capitulos/`
-- Índice raw: [[raw/Bases_doctrinales-raw/Joy_to_the_World_capitulos/índice]]
+- Índice raw: `raw/Bases_doctrinales-raw/Joy_to_the_World_capitulos/índice.md`
 - Resúmenes: `wiki/Resúmenes/Joy_to_the_World_capitulos/` (15 archivos)

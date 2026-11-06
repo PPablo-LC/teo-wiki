@@ -146,6 +146,16 @@ alcanza también a la prueba de sus hijos, y su tarea es confiar sin
 renunciar a la verdad. El volumen entero presupone esta confianza: sin
 providencia, el acompañamiento sería solo técnica.
 
+### Según The Strangest Way (STR)
+
+Barron dedica al tema las páginas más especulativas del tercer camino, y su punto de partida es una corrección de la teología moderna: el giro antropológico y subjetivo del siglo XX —Tillich, Rahner— dejó de situar el drama de la salvación en el contexto de la implicación de Dios en el cosmos, y omitirlo es «caer en la trampa espiritual de pensar que nuestra salvación es sobre nosotros».
+
+Su exposición de Tomás de Aquino subraya que la perfección del universo no es un dato estático, sino lo que acontece cuando todos los elementos son atraídos a su fin (*per-factum*): el mundo es como una casa con un *paterfamilias* y como un ejército en marcha, y los temas dominantes son la finalidad, la interdependencia, la estructura racional y, sobre todo, la movilidad. La metáfora del artista completa el cuadro: Dios concibe la imagen y la lleva a la materia, pero el lienzo último es la creación entera; nosotros somos como visitantes en el taller de un escultor que ven piezas acabadas, a medio hacer o apenas esbozadas, sin percibir la obra total. O como quien mira *Un domingo en la Grande Jatte* con la nariz pegada al lienzo: el sentido aparece al retroceder. Dante lo dijo al final del *Paraíso*: en el fondo de la Trinidad ve «todo lo que se contiene en el universo, atado en un solo libro por el amor, del que la creación son hojas dispersas».
+
+De ahí su tratamiento del problema del mal: quizá la dificultad no sea la elusividad de la respuesta, sino la pregunta misma, que presupone que sabemos qué significan «bien» y «mal». Con Lewis y James —el perro en Hiroshima, el perro en la biblioteca— ilustra que podemos ver los hechos sin captar el mundo superior que los contextualiza, y con Job concluye que lo que se recibe no es tanto una respuesta cuanto «una disciplina de la pregunta ante una conciencia cósmica» (Job 42,1-6).
+
+La aplicación espiritual es la de Jean-Pierre de Caussade: todo lo que nos ocurre en un día —las personas, el clima, un paisaje, una palabra insultante— revela la voluntad de Dios. «Nada escapa a la providencia»: desde el punto de vista de las causas contingentes hablamos de azar, pero desde la causa de las causas todo es, por dirección o permisión, expresión de la voluntad divina y, por tanto, ocasión y ofrecimiento. La pregunta bíblica no es «¿habla Dios?», sino «¿qué dice Dios?».
+
 ## Distinciones importantes
 
 - **Providencia (razón del orden) vs. gobierno (ejecución del orden)**: la primera es eterna; la segunda, temporal.

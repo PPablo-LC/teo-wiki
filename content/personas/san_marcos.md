@@ -50,7 +50,7 @@ Marcos no era miembro de los Doce. Si los títulos de los Evangelios fueran frau
 - [[autoría_de_los_evangelios]] — Testimonio de Papías, Ireneo y Clemente.
 - [[evangelios]] — Segundo Evangelio del canon.
 - [[papías_de_hierápolis]] — Testimonio más antiguo.
-- [[san_irineo_de_león]] — Confirmación de la autoría.
+- [[ireneo_de_lion]] — Confirmación de la autoría.
 - [[clemente_de_alejandría]] — Añade el contexto de la solicitud.
 - [[the_case_for_jesus]] — Presentado en las Sesiones 1 y 2.
 

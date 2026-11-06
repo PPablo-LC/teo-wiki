@@ -16,7 +16,7 @@ tags: ["resumen", "evangelization_and_culture_12", "el_principito", "antoine_de_
 - [[lo_esencial_es_invisible_a_los_ojos]] — secreto del zorro: "Solo con el corazón se ve bien; lo esencial es invisible a los ojos"
 - [[domesticación_taming]] — crear lazos únicos que hacen a alguien insustituible ("tú eres responsable de tu rosa")
 - [[infancia_vs_adultez]] — imaginación infantil vs. mundo adulto falto de inspiración (geografía, historia, aritmética, gramática)
-- [[identidad_en_cristo]] — hijos de Dios (1 Jn 3,1), verdad teológica que los niños captan por experiencia sacramental
+- [[identidad_cristiana]] — hijos de Dios (1 Jn 3,1), verdad teológica que los niños captan por experiencia sacramental
 - [[amor_incondicional_de_dios]] — Dios invierte tiempo "domesticando" (moldeando) a cada hijo en gozos y sufrimientos
 - [[sacramentos]] — participación en Misa, sacramentos, oración como experiencia del amor de Dios
 - [[fe_infantil]] — los niños perciben la inversión amorosa de Dios antes de entenderla teológicamente

@@ -13,7 +13,7 @@ tags: ["resumen", "flannery_o'connor", "thomismo", "nihilismo", "fe_y_razón"]
 ## Conceptos básicos referenciados
 
 - [[flannery_o'connor]] — Escritora católica del Sur de Estados Unidos
-- [[thomismo]] — Filosofía de Tomás de Aquino
+- [[tomismo]] — Filosofía de Tomás de Aquino
 - [[nihilismo]] — Lo que O'Connor rechaza
 - [[fe_y_razón]] — Fe e intelecto en O'Connor
 
@@ -21,7 +21,7 @@ tags: ["resumen", "flannery_o'connor", "thomismo", "nihilismo", "fe_y_razón"]
 
 **Misión artística de O'Connor:** «Mi audiencia son las personas que piensan que Dios ha muerto.» Su ficción es oscura, violenta, grotesca y siempre brillantemente artística.
 
-**«Hillbilly Thomist»:** O'Connor quería dar la impresión de ser una «hillbilly Thomist», no una «nihilista de backwoods». El [[thomismo]] le enseñó que Dios existe, que es razonable creer en Él, y que el mundo fue creado y redimido por Él.
+**«Hillbilly Thomist»:** O'Connor quería dar la impresión de ser una «hillbilly Thomist», no una «nihilista de backwoods». El [[tomismo]] le enseñó que Dios existe, que es razonable creer en Él, y que el mundo fue creado y redimido por Él.
 
 **Fe e intelecto:** «Para saber sobre la fe, hay que ir a las personas que la tienen y a los más inteligentes.» Referencias constantes a Agustín, Aquino, Juan de la Cruz, Edith Stein, Simone Weil.
 

@@ -19,7 +19,7 @@ tags: ["teología_sacramental", "sacramentos", "eucaristía", "encarnación", "a
 - **Editorial**: The Catholic University of America Press, Washington, D.C., 2021
 - **Código**: IST
 - **Fuente**: `raw/Bases_doctrinales-raw/Introduction_to_Sacramental_Theology_capitulos/` (18 archivos, en inglés)
-- **Índice raw**: [[raw/Bases_doctrinales-raw/Introduction_to_Sacramental_Theology_capitulos/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/Introduction_to_Sacramental_Theology_capitulos/índice.md`
 - **Dedicatoria**: al P. Luis F. Ladaria, SJ
 - **Fecha del prefacio**: Roma, 8 de diciembre de 2016, solemnidad de la Inmaculada Concepción
 

@@ -4,7 +4,8 @@ title: Juan Pablo II
 tags: ["papas", "moral", "espiritualidad", "teología_spiritual"]
 
 timestamp: 2026-10-02
-description: "Papa Juan Pablo II (1920-2008); su pensamiento en deporte, tecnología, espiritualidad y nueva evangelización, con fundamento en 2 Tim 4:7 y la teología de la caridad."
+description: "Papa Juan Pablo II (1920-2005); su pensamiento en deporte, tecnología, espiritualidad y nueva evangelización, con fundamento en 2 Tim 4:7 y la teología de la caridad."
+aliases: ["Karol Wojtyła", "Karl Wojtyła", "Karol Józef Wojtyła"]
 ---
 # Juan Pablo II
 
@@ -80,9 +81,21 @@ misión que hoy os dejo”» (01, 17).
 **Sus audiencias.** El índice de la fuente registra además la audiencia privada
 de Giussani con Juan Pablo II en la víspera del 4 de abril de 1986 (02, 17).
 
+### Según A. M. Sicari — *Breve catechesi sul matrimonio*
+
+**La teología del cuerpo.** Su obra decisiva es la serie de catequesis sobre «El cuerpo humano en la teología» (1978-1984) y la carta *Intelligenza umana, amore Divino e Matrimonio* (1994). En ella explica el sentido del «lenguaje del cuerpo»: la corporalidad es «el modo de existir propio del ser racional», no un simple recipiente de un alma, y la donación mutua de los cónyuges es el signo de la entrega total de Dios ([[teología_del_cuerpo]], [[lenguaje_del_cuerpo]], [[donación_mutua]]).
+
+El texto del juicio sobre la anticoncepción del 17 de septiembre de 1983, citado por Sicari, se apoya en la idea de que la capacidad generativa es «una co-operazione con la potenza creativa de Dio» y de que quien la obstaculiza se atribuye «un potere che appartiene solo a Dio: il potere di decidere in ultima istanza la venuta all'esistenza di una persona umana» ([[anticoncepción]], [[procreación]]).
+
+**El taller del joyero.** En el drama *La bottega dell'orefice* (1978), Anna, separada de su marido, vuelve del orfebre —símbolo de Dios— donde había comprado el verdadero anillo nupcial, y le pide que lo pese en su balanza para establecer la cantidad de metal precioso. El orfebre responde:
+
+> «L'orefice guardò la vera, / la soppesò a lungo sul palmo e mi fissò negli occhi. / E poi decifrò la data / scritta dentro la fede / ... poi disse: Questa fede non ha peso... / Suo marito dev'essere vivo... in tal caso / nessuna delle due fedi ha peso da sola. / Pesano solo tutte e due insieme. / La mía bilancia di orefice / ha questa particolarità / che non pesa il metallo in sé / ma tutto l'essere umano e il suo destino...»
+
+Sicari usa esta imagen para ilustrar que la indisolubilidad no es un principio jurídico sino un misterio: la balanza del orfebre no pesa el metal, sino «tutto l'essere umano e il suo destino» ([[indisolubilidad_del_matrimonio]]).
+
 ## Ver también
 
-[[benedicto_xvi]], [[papa_francisco]], [[león_xiv]], [[papa]], [[catecismo_de_la_iglesia_católica]], [[nueva_evangelización]], [[movimientos_eclesiales]], [[regnum_christi]], [[inteligencia_artificial]]
+[[teología_del_cuerpo]], [[lenguaje_del_cuerpo]], [[donación_mutua]], [[anticoncepción]], [[procreación]], [[indisolubilidad_del_matrimonio]], [[redemptor_hominis]], [[humanae_vitae]], [[breve_catechesi_sul_matrimonio]], [[benedicto_xvi]], [[papa_francisco]], [[león_xiv]], [[papa]], [[catecismo_de_la_iglesia_católica]], [[nueva_evangelización]], [[movimientos_eclesiales]], [[regnum_christi]], [[inteligencia_artificial]]
 
 ## Referencias
 
@@ -96,4 +109,7 @@ de Giussani con Juan Pablo II en la víspera del 4 de abril de 1986 (02, 17).
 - Juan Pablo II, Discurso a los participantes de Comunión y Liberación (12 septiembre 1985)
 - [RC-MovEcles-2014, A-D]
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 05_lives.md (Ángela M. Jendro, «Saint Dymphna's Aid for AI Anxieties»); cita de Juan Pablo II, «Mentally Ill Are Also Made in God's Image», EWTN, 30 noviembre 1996.
+- Juan Pablo II, *La bottega dell'orefice*, Roma, 1978.
+- Juan Pablo II, *Intelligenza umana, amore Divino e Matrimonio* (1994); discurso del 17 de septiembre de 1983.
+- A. M. Sicari OCD, *Breve catechesi sul matrimonio*, Jaca Book, Milano, 1990, cap. III, par. 2, y cap. V, par. 6.
 - EAC-20, *Evangelization & Culture, Issue 20 — Sport* (Word on Fire Institute), 18_feature_declue.md (homilía Jubileo del Redentor, 12 abril 1984) y 23_soul.md (homilía Jubileo de los Deportistas, 29 octubre 2000)

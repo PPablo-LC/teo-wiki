@@ -38,11 +38,11 @@ La *libido dominandi* se manifiesta también en la descripción que Agustín pon
 
 ## Relaciones doctrinales
 
-Se relaciona con [[ciudad_de_dios_y_ciudad_terrenal], [teología_de_la_historia], [ciudadanía_celestial], [pecado_original], [caridad], [teología_política]]
+Se relaciona con [[ciudad_de_dios], [teología_de_la_historia], [ciudadanía_celestial], [pecado_original], [caridad], [teología_política]]
 
 ## Ver también
 
-[[teología_de_la_historia]], [[ciudadanía_celestial]], [[ciudad_de_dios_y_ciudad_terrenal]]
+[[teología_de_la_historia]], [[ciudadanía_celestial]], [[ciudad_de_dios]]
 
 ## Referencias
 

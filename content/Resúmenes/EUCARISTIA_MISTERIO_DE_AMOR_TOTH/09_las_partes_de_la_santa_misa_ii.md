@@ -16,7 +16,7 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 - [[ofertorio]] — procesión de dones y oblación de la hostia y del cáliz
 - [[estipendio]] — origen e higiene moral del estipendio de misa
 - [[agua y vino]] — la humanidad unida a la divinidad de Cristo
-- [[prefacio]] — Sursum corda y acción de gracias
+- Prefacio — Sursum corda y acción de gracias
 - [[canon romano]] — texto invariable, rezado en voz baja
 - [[sursum corda]] — elevación de los corazones a Dios
 

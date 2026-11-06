@@ -74,14 +74,14 @@ cristiana.
 ## Relaciones doctrinales
 
 Se relaciona con [[minorías_creativas]], [[cultura_cristiana]],
-[[ambiente_cristiano]], [[comunidad_cristiana]], [[laicado]],
+[[ambiente_cristiano]], [[comunidad]], [[laicado]],
 [[vida_religiosa]], [[comunión_y_liberación]], [[parroquia]],
 [[evangelización]], [[mistagogía]].
 
 ## Ver también
 
 [[minorías_creativas]], [[cultura_cristiana]], [[ambiente_cristiano]],
-[[comunidad_cristiana]], [[laicado]], [[vida_religiosa]],
+[[comunidad]], [[laicado]], [[vida_religiosa]],
 [[comunión_y_liberación]], [[parroquia]], [[evangelización]]
 
 ## Referencias

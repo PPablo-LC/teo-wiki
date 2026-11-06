@@ -35,6 +35,16 @@ Su estilo se caracterizaba por la simplicidad y la autenticidad: no necesitaba a
 - La importancia de la oración y los sacramentos
 - La vocación de cada persona
 
+## Perspectivas por fuente
+
+### Según The Pivotal Players (PP)
+
+Barron le dedica el capítulo 11 y lo considera el más influyente del renacimiento católico anglófono de mediados del siglo XX. Su programa de radio *The Catholic Hour* llegó a cuatro millones de oyentes y *Life Is Worth Living* a unos treinta millones cada martes; Billy Graham lo llamó «el gran comunicador». Lo decisivo no fue solo su oratoria, sino haber abrazado los medios técnicos como Pablo usó el pergamino y las calzadas romanas, frente a quienes temían que el mensaje se vulgarizara.
+
+Nació en El Paso (Illinois) en 1895. De niño, sirviendo una misa del obispo John Spalding, rompió una vinajera; el obispo lo abrazó y le dijo: «Dile a tu madre que cuando seas grande irás a Lovaina y algún día serás como yo». Ambas profecías se cumplieron: se doctoró en Lovaina en 1925 con la tesis *The Spirit of Contemporary Philosophy and the Finite God*, y enseñó veinticinco años en la Universidad Católica de América. En 1951 aceptó un programa de televisión en horario estelar contra el consejo de casi todos, y venció a Milton Berle y a Sinatra con un formato mínimo: vestido de obispo, sin apuntes, veinticinco minutos y una pizarra con las iniciales JMJ. Preparaba treinta horas cada emisión; preguntado cuánto tardó en un sermón, respondió: «Cuarenta años». Al recibir el Emmy en 1952 agradeció a sus guionistas: «Mateo, Marcos, Lucas y Juan».
+
+Recibía veinte mil cartas diarias y recorrió el mundo. En una leprosería de Uganda, avergonzado de haber dejado caer una cruz en una mano deformada, se impuso estrechar cada mano. Fue hacedor de conversos —Kreisler, Budenz y Clare Boothe Luce, a quien respondió cuando le gritó que por qué Dios le había quitado a su hija: «Para que a través de ese dolor usted estuviera aquí, empezando a conocer a Cristo»—. En sus retiros sacerdotales recomendaba siempre una hora diaria de oración ante el Santísimo. Obispo de Rochester en 1966, dimitió en 1969 y murió en 1979 orando ante el Santísimo Sacramento.
+
 ## Citas célebres
 
 - «La libertad no consiste en hacer lo que nos gusta, sino en tener el derecho de hacer lo que debemos.» (atribuida a JPII, citada en EAC-3)

@@ -15,7 +15,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[preexistencia_de_las_almas]] — condena de la preexistencia de las almas según Orígenes
 - [[encarnación]] — el alma del Señor no preexistía; se unió al Verbo en la encarnación
 - [[resurrección]] — los cuerpos resucitarán rectos, no en forma esférica
-- [[apokatastasis]] — condena de la reintegración universal de demonios e impíos
+- [[apocatástasis]] — condena de la reintegración universal de demonios e impíos
 - [[poder_de_dios]] — el poder de Dios es ilimitado
 - [[herejía_origenista]] — condena de los errores de Orígenes
 
@@ -42,7 +42,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 **D-210** Can. 8. Condena de la limitación del poder de Dios: si alguno dice que el poder de Dios es limitado, sea anatema.
 
-**D-211** Can. 9. Condena de la reintegración universal ([[apokatastasis]]): si alguno dice que el castigo de los demonios o de los impíos es temporal y tendrá fin, o que se dará su reintegración, sea anatema.
+**D-211** Can. 9. Condena de la reintegración universal ([[apocatástasis]]): si alguno dice que el castigo de los demonios o de los impíos es temporal y tendrá fin, o que se dará su reintegración, sea anatema.
 
 
 ## Secciones incluidas

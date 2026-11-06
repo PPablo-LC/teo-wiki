@@ -84,7 +84,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "ley 
 - [[san_pablo]] — enseñanzas sobre la obediencia a la autoridad (Rm 13)
 - [[san_pedro]] — enseñanzas sobre la obediencia a las autoridades (1 P 2)
 - [[san_cipriano]] — «No puede tener a Dios por Padre quien no tiene a la Iglesia por Madre»
-- [[san_agustín]] — referencia de la tradición teológica
+- [[agustín_de_hipona]] — referencia de la tradición teológica
 - [[juan_pablo_ii]] — Constitución apostólica Sacrae disciplinae leges
 - [[benedicto_xvi]] — «El cristianismo nunca ha impuesto al Estado una ley revelada»
 - [[león_xiii]] — Encíclica Immortale Dei

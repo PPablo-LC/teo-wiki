@@ -54,11 +54,11 @@ Los Padres de la Iglesia se clasifican en cuatro grandes grupos cronológicos y 
 
 ## Relaciones doctrinales
 
-[[patrística]], [[tradición_apostólica]], [[sagrada_escritura]], [[magisterio_de_la_iglesia]], [[dogma]], [[regla_de_fe]], [[concilio_ecuménico]], [[san_agustín]], [[san_juan_crisóstomo]], [[san_atanasio]], [[san_irineo_de_león]], [[santo_tomás_de_aquino]]
+[[patrística]], [[tradición_apostólica]], [[sagrada_escritura]], [[magisterio_de_la_iglesia]], [[dogma]], [[regla_de_fe]], [[concilio_ecuménico]], [[agustín_de_hipona]], [[san_juan_crisóstomo]], [[san_atanasio]], [[ireneo_de_lion]], [[santo_tomás_de_aquino]]
 
 ## Ver también
 
-[[patrística]], [[tradición_apostólica]], [[sagrada_escritura]], [[dogma]], [[concilio_de_nicea]], [[san_agustín]], [[san_juan_crisóstomo]]
+[[patrística]], [[tradición_apostólica]], [[sagrada_escritura]], [[dogma]], [[concilio_de_nicea]], [[agustín_de_hipona]], [[san_juan_crisóstomo]]
 
 ## Referencias
 

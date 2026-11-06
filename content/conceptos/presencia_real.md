@@ -116,14 +116,13 @@ Según Timothy O'Malley («Eucharistic Personhood»), la presencia real «no com
 
 Los testimonios del bloque «Emmaus» muestran la [[presencia_real]] de Cristo en la Eucaristía como fuente de la conversión: la adoración eucarística en Phoenix y la comunión diaria de los nuevos conversos alimentan una vida nueva configurada por el encuentro con el Señor [EAC-18, 09_spotlight_stories.md].
 
-Andrew Allen subraya que la [[mistagogia]] del itinerario del [[catecumenado]] introduce a los neófitos en el misterio eucarístico: antes que una doctrina por explicar, la Eucaristía es una Persona a la que se aprende a adorar (RCIA 244) [EAC-18, 16_feature_allen.md].
+Andrew Allen subraya que la [[mistagogía]] del itinerario del [[catecumenado]] introduce a los neófitos en el misterio eucarístico: antes que una doctrina por explicar, la Eucaristía es una Persona a la que se aprende a adorar (RCIA 244) [EAC-18, 16_feature_allen.md].
 
 La sección «Soul» añade que, en la [[era_secular]], el escepticismo ante la presencia real puede ser una puerta de entrada a la fe: reconocer la propia increencia y pedir ayuda es ya el comienzo de la entrega que realiza la gracia [EAC-18, 21_soul.md].
 
 ### F. J. Selman — St Thomas Aquinas: Teacher of Truth (STA)
 
 La sustancia es entera en el todo y entera en la parte: por eso el Cristo entero está bajo cada especie, y no se rompe cuando se rompen las apariencias («se rompe el signo, no la realidad», Lauda Sion); los sentidos no se engañan — ven lo que hay: apariencias divididas. Contra Berengario: lo que se come, se come bajo sus propias apariencias — pero Cristo está bajo apariencias *sacramentales*, no propias; contra la transignificación (cambio nominal: la moneda sigue siendo plata, el pan no queda pan): Jesús «no dice 'significa mi carne' sino 'ES mi carne': lo que se come en realidad es verdaderamente el cuerpo de Cristo». Cristo oculto bajo las apariencias: en la tierra su humanidad era visible y su divinidad oculta; aquí su humanidad también está oculta — hay que entrar por el velo, como el sumo sacerdote en el Santo de los santos. El cuerpo en el sacramento es el mismo que en el cielo, con un modo de existencia distinto (en el cielo en su apariencia propia; en el sacramento como la sustancia es); y el sacramento es «de la verdad»: no hay engaño — la fe aprehende la realidad; «nil hoc verbo veritatis verius» (Adoro te devote).
-
 
 ### Según Mons. Tihamér Tóth — Eucaristía, misterio de amor (EMA)
 
@@ -139,6 +138,12 @@ El Kempis confiesa la presencia real con las fórmulas de la fe de la Iglesia y 
 El autor explica además la razón del velo sacramental, que es la condescendencia con la debilidad humana: «el mirarte en tu propia y divina claridad no podrían mis ojos resistirlo, ni el mundo entero subsistiría ante el resplandor de la gloria de tu Majestad. Tienes, pues, consideración a mi debilidad cuando te ocultas bajo este sacramento» (IV, 11). De ahí la estructura de la fe peregrina: «Yo tengo verdaderamente y adoro al mismo a quien adoran los ángeles en el cielo; mas yo sólo con la fe por ahora; ellos, claramente y sin velo. Debo yo contentarme con la luz de la fe verdadera, y andar con ella hasta que amanezca el día de la claridad eterna», pues «cuando llegue este perfecto estado» (1Cor 13,10) «cesará el uso de los sacramentos» (IV, 11).
 
 La respuesta a las tentaciones contra la fe en el sacramento es también característica: no se han de imputar a quien las padece «sino al enemigo», y el remedio es la sencillez: «Acércate, pues, con fe firme y sencilla, y con humilde reverencia llégate al sacramento; y todo lo que no puedes entender encomiéndalo con seguridad a Dios Todopoderoso... La razón humana es flaca y puede engañarse; mas la fe verdadera no puede engañarse» (IV, 18).
+
+### Según Word on Fire (WOF)
+
+La homilía sobre Jn 6,48-66 califica el discurso de Cafarnaúm como el sermón más duro de Jesús: no solo filosóficamente problemático, sino literalmente repugnante para su auditorio, porque la Escritura prohíbe comer carne con sangre (Gen 9,4; Lev 3,17; Dt 12,23) y «comer la carne de alguien» designaba el ataque más vil. En lugar de suavizar su lenguaje, Jesús lo intensifica, y cambia el verbo habitual (*phagein*) por *trogein*, el que se usa para los animales que devoran: «si no roéis mi carne, no tenéis vida en vosotros».
+
+Quien se sitúa en la tradición católica honra esas palabras sin explicarlas away y afirma la doctrina de la Presencia Real: en los elementos consagrados Cristo está «real, verdadera y substancialmente» presente —cuerpo y sangre, humanidad y divinidad—. Tomás de Aquino lo formula diciendo que en los demás sacramentos está la virtud de Cristo, mientras que en la Eucaristía está *ipse Christus*. La explicación de Barron es la palabra creadora: como la palabra del agente debidamente autorizado cambia la realidad —el policía que detiene, el árbitro que canta «fuera»—, y como la palabra de Dios hace ser lo que dice («hágase la luz»; Is 55,10-11), las palabras de Jesús sobre el pan y el vino penetran hasta las raíces del ser de esos elementos y los cambian en su cuerpo y su sangre. Tomás compara ese cambio substancial con el acto de creación, pues ambos se fundan en el poder único de la Palabra divina.
 
 ## Distinciones importantes
 

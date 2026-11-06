@@ -87,6 +87,22 @@ Barron ofrece una reflexión profunda sobre el perdón a través de la figura de
 
 Este tratamiento del perdón en 2 Samuel ofrece una visión católica integradora: el perdón no es debilidad ni negación de la justicia, sino fuerza moral que rompe los ciclos de violencia y refleja el corazón de Dios.
 
+### Según The Strangest Way (STR)
+
+Barron dedica al perdón la última práctica del segundo camino y comienza desmontando su versión sentimental: no es perdonar decir «lo he quitado de mi mente y he decidido seguir adelante», ni siquiera dejar de sentir ira. «En el pleno sentido neotestamentario, el perdón es un acto y no una actitud»: la reparación activa y encarnada de una relación rota, incluso frente a la oposición, la violencia o la indiferencia. Es cargar con el peso del otro y moverse hacia él aunque él no se mueva; tiene algo de implacable y aun de agresivo, «porque es negarse a renunciar a una relación». A la pregunta de Pedro responde el «setenta veces siete».
+
+Dos casos sostienen su exposición. El primero, relatado por Hauerwas: una familia amish cuyo hijo murió al ser alcanzado por una piedra lanzada desde un coche; los padres testificaron a favor del joven en el juicio y después lo visitan cada mes en la cárcel, lo consuelan y buscan reintegrarlo en la comunidad. El segundo es el cardenal Bernardin, acusado falsamente en 1995: cuando el acusador se retractó, no se limitó a «pasar página» ni amenazó con demandar; lo visitó, lo abrazó, celebró la Misa con él, le regaló una Biblia, lo ungió y oró con él. No tenía responsabilidad alguna en la ruptura y, en estricta justicia, nada le obligaba: «la misericordia se burla de la justicia».
+
+La raíz teológica es la gratitud del perdonado. En casa de Simón el fariseo, la pecadora ama mucho porque se le ha perdonado mucho (Lc 7,44-47); como señaló Tillich, no ama para ser perdonada, sino que, perdonada, ama. «Lo que hace necesario nuestro perdón es el pecado de los otros; lo que lo hace posible es nuestra gratitud profunda por haber sido perdonados primero». Quien sabe que es un pecador perdonado se convierte en agente del perdón divino.
+
+### Según Lenten Gospel Reflections 2022 (LGR22)
+
+El perdón recorre el volumen de principio a fin. En la primera semana, la reconciliación (Mt 5,20-26) se presenta con una ley casi física: si al ir a adorar recuerdas que debes perdonar o ser perdonado, ve primero a reconciliarte; la falta de perdón bloquea el movimiento de Dios en el alma, porque Dios es amor y lo que se le opone bloquea su vida. Barron reconoce que no puede explicar del todo ese misterio y ofrece un remedio concreto contra el resentimiento: arrodillarse ante el Crucificado, el inocente ajusticiado que perdona a sus verdugos; meditar esa injusticia suprema hace palidecer la propia. La pregunta de Pedro —¿hasta siete veces?— recibe la respuesta «no siete, sino setenta y siete veces»: perdonar sin cálculo hasta que la vida entera sea un acto de perdón. La parábola del siervo despiadado da la razón teológica: lo que cualquiera nos debe en justicia es infinitamente menos de lo que Dios nos ha perdonado.
+
+### Según Lenten Gospel Reflections 2024 (LGR24)
+
+La fuente de 2024 conserva la meditación de la reconciliación con su fórmula más lograda: el perdón repara las relaciones rotas y su ausencia bloquea el paso de Dios, porque «Dios es amor». El remedio propuesto vuelve a ser la contemplación del Crucificado. El perdón se inscribe además en el arco de la Semana Santa: la triple confesión de amor de Pedro, que contrarresta su triple negación, y el mandamiento nuevo del lavatorio, «amaos como yo os he amado», que fija la medida del perdón cristiano en el amor divino, no en la justicia conmutativa. La meditación de la adúltera (Jn 8,1-11) añade el gesto que lo hace posible: Jesús no alimenta la violencia acusadora, desarma a los acusadores y devuelve la dignidad con una palabra —«vete y no peques más»— que perdona sin mentir sobre el mal cometido.
+
 ## Distinciones importantes
 
 - Perdón de la culpa vs. remisión de la pena temporal

@@ -18,7 +18,7 @@ timestamp: 2026-11-02
 - **Código**: PWL
 - **Fuente**: `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/` (7 archivos, ~1165 líneas)
 - **Formato**: Prefacio, prólogo y cuatro entrevistas en inglés
-- **Índice raw**: [[raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`
 
 ## Contenido
 
@@ -76,4 +76,4 @@ sacerdotal: «Me hice vuestro padre en Cristo Jesús por el Evangelio»
 ## Referencias
 
 - Granados, Carlos (ed.). *Priests—What Lies Ahead?*. San Francisco: Ignatius Press.
-- Índice raw: [[raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice]]
+- Índice raw: `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`

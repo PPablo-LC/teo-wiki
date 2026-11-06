@@ -73,7 +73,7 @@ El movimiento de Barron es «en precisamente la dirección opuesta»: quiere dar
 
 - Se opone al [[experiencialismo_expresivo]] (Schleiermacher, Rahner, Tillich)
 - Se articula con la [[no_competitividad_divina]] (Dios trasciende y no compite con lo creado)
-- Se relaciona con la [[incarnación]] como dogma central
+- Se relaciona con la [[encarnación]] como dogma central
 - Se nutre del [[ressourcement]] (de Lubac, Corbin) y del tomismo narrativo
 - Se conecta con la [[hermenéutica_bíblica]] de Barron (regula fidei, tipología)
 - Se fundamenta en la cristología del [[concilio_de_calcedonia]] (451)
@@ -85,7 +85,7 @@ El movimiento de Barron es «en precisamente la dirección opuesta»: quiere dar
 - [[ressourcement]]
 - [[ortodoxia_afirmativa]]
 - [[experiencialismo_expresivo]]
-- [[incarnación]]
+- [[encarnación]]
 
 ## Referencias
 

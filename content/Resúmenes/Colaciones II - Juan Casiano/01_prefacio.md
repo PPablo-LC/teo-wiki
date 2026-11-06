@@ -12,7 +12,7 @@ tags: ["resumen", "colaciones_ii", "juan_casiano", "espiritualidad_monástica"]
 
 ## Conceptos básicos referenciados
 
-- [[vid-monástica]] — Forma de vida dedicada a la oración y la contemplación
+- [[vida_monastica]] — Forma de vida dedicada a la oración y la contemplación
 - [[caridad]] — Amor perfecto que une al alma con Dios
 - [[perfección-cristiana]] — Meta última de la vida espiritual
 - [[conferencias-padres-desierto]] — Enseñanzas de los monjes egipcios

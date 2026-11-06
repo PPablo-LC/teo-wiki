@@ -230,6 +230,14 @@ Este tratamiento de la misericordia en 2 Samuel ofrece una visión integradora d
 
 **Una justicia superada.** Esperaríamos que Dios fuera bueno con los buenos y amable con los que cumplen sus mandamientos, dejando a los extraviados por su cuenta. No es así: «Dios ama de un modo irracional, exuberante, arriesgándolo todo para encontrar al que se extravió». La buena noticia es que «Dios no ama según una justicia estricta a nuestra medida, sino que ama a su manera extravagante».
 
+### Según Lenten Gospel Reflections 2022 (LGR22)
+
+«Sed misericordiosos, como vuestro Padre es misericordioso» (Lc 6,36-38). Barron identifica la misericordia con *chesed*, la compasión tierna, y la señala como el rasgo más propio de Dios. La argumentación es agustiniana: estamos por naturaleza ordenados a Dios, y como Dios es misericordia, «tener» a Dios equivale a ejercer la compasión; la misericordia no es un añadido, sino su modo de ser. La fuente enlaza con el mandato de no juzgar, no condenar, perdonar y dar, y lo explica con una «física» del orden espiritual: cuanto más se echa mano de la vida divina, más se recibe, porque es don y es propiamente infinito; la vida divina solo se posee «al vuelo», se tiene en la medida en que se da. El comentario a la adúltera (Jn 8,1-11) muestra la misericordia como negativa a entrar en la lógica del chivo expiatorio; el del hijo pródigo, como el padre que corre al encuentro del que vuelve.
+
+### Según Lenten Gospel Reflections 2024 (LGR24)
+
+La meditación del lunes de la segunda semana desarrolla la misericordia en clave de gracia que supera el marco natural. Las exigencias del Sermón del Monte —amor radical a los enemigos, mansedumbre, renuncia a juzgar, pobreza y sencillez de corazón— no son realizables con las solas fuerzas humanas: necesitan la ayuda de Dios. Barron lo formula con una comparación fuerte: esa forma de vida le parecería a Aristóteles excesiva e irracional, y ese es justamente el punto; su viabilidad y su belleza solo emergen cuando la mente, la voluntad y el cuerpo han sido invadidos y elevados por el amor que Dios es. La gracia no invalida las excelencias naturales, sino que las transfigura. La misericordia es el nombre práctico de esa elevación: no indulgencia blanda, sino participación en el modo de ser divino, cuyo amor es anterior al mérito.
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.

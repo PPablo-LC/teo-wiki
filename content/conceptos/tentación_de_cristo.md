@@ -37,11 +37,11 @@ EAC-15 analiza la tentación de Cristo (Mt 4) como un dilema existencial: el amo
 
 ## Relaciones doctrinales
 
-Se relaciona con [[cristo]], [[vida_oculta_de_cristo]], [[bautismo_de_cristo]], [[desierto]], [[satanás]], [[pecado_original]], [[redención]], [[obediencia]], [[impecabilidad_de_cristo]].
+Se relaciona con [[cristo]], [[vida_oculta_de_cristo]], [[bautismo_del_señor]], [[desierto]], [[satanás]], [[pecado_original]], [[redención]], [[obediencia]], [[impecabilidad_de_cristo]].
 
 ## Ver también
 
-[[cristo]], [[bautismo_de_cristo]], [[desierto]], [[satanás]], [[obediencia_de_cristo]]
+[[cristo]], [[bautismo_del_señor]], [[desierto]], [[satanás]], [[obediencia_de_cristo]]
 
 ## Referencias
 

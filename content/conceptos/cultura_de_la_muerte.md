@@ -41,7 +41,7 @@ Aunque anterior a la encíclica, el capítulo 4 (S. Camillo de Lellis) describe 
 
 ## Ver también
 
-[[san_camillo_de_lellis]], [[san_giuseppe_benedetto_cottolengo]], [[benedetta_bianchi_porro]], [[santa_maría_goretti]]
+[[san_camilo_de_lelis]], [[san_giuseppe_benedetto_cottolengo]], [[benedetta_bianchi_porro]], [[santa_maría_goretti]]
 
 ## Referencias
 

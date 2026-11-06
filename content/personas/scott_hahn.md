@@ -36,7 +36,7 @@ En el curso *The Bible and the Virgin Mary* (BMV) Hahn presenta a María como cu
 
 Es su síntesis divulgativa de mariología bíblica ([[hail_holy_queen]]). Organiza el argumento en tres tipos mayores —Eva ([[nueva_eva]]), el Arca ([[arca_de_la_nueva_alianza]]) y la Reina Madre davídica ([[reina_madre]])— y añade una tesis propia: la alianza bíblica no es un contrato sino un vínculo de parentesco ([[alianza]]), de modo que la historia de la salvación es la ampliación progresiva de la familia de Dios y la madre del Rey pertenece a su estructura. Dedica el capítulo final a la actitud del apologeta: «defender a la madre como ella querría ser defendida», sin convertir la apología en deporte de contacto.
 
-Su método combina exégesis literal con la tradición patrística ([[san_irineo_de_león]], [[justino_mártir]]) y el magisterio (*Ineffabilis Deus*, *Munificentissimus Deus*, *Lumen Gentium* VIII).
+Su método combina exégesis literal con la tradición patrística ([[ireneo_de_lion]], [[justino_mártir]]) y el magisterio (*Ineffabilis Deus*, *Munificentissimus Deus*, *Lumen Gentium* VIII).
 
 ## Ver también
 

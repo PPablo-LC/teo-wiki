@@ -79,6 +79,16 @@ Tomás parte de las **procesiones** (no de las relaciones, como Agustín): las r
 
 La Navidad es, según Hahn, una «efusión en el tiempo del amor que es eterno»: un icono en la tierra del amor que está en el corazón del cielo. Aunque el dogma trinitario no aparece explícitamente en los relatos de la infancia, está implícito en todas partes: el Padre envía al Hijo, que se encarna por obra del Espíritu Santo en el seno de María (Lc 1,35), y el nombre «Jesús» revela su propósito: «Le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados» (Mt 1,21). Dios se hizo hombre no por necesidad, sino por amor misericordioso, para acercarse al hombre y hacerse accesible: se hizo bebé que necesita ser levantado, acariciado, alimentado. La Trinidad bienaventurada del cielo se refleja en la «trinidad» terrenal de la Sagrada Familia, que la representa como icono. Hahn observa que los católicos recitan el Credo dominical con la expresión más anodina, como quien lee la lista de ingredientes de un jarabe, cuando lo que afirman es el misterio más grande: «Dios de Dios, Luz de Luz, Dios verdadero de Dios verdadero, engendrado, no creado, de la misma naturaleza que el Padre».
 
+### Según And Now I See (ANS)
+
+Robert Barron sostiene que la Trinidad no es un acertijo reservado a los teólogos, sino la implicación directa de la afirmación «Dios es amor» (1 Jn 4,16). La observación es de Chesterton: si Dios es amor, en su interior tiene que haber un amante, un amado y el amor que comparten. Por eso el dogma trinitario es el nombre propio del Dios que se ha revelado en Jesucristo, y no un añadido especulativo.
+
+Barron sigue a Agustín, que busca vestigios de la Trinidad en la interioridad humana: la *mens* (el espíritu), la *notitia sui* (el autoconocimiento) y el *amor sui* (el amor de sí). No son tres cosas, sino tres dinamismos de una misma mente, que es una y trina. Aplicado a Dios: la *mens* corresponde al Padre, la *notitia* al Hijo y el *amor* al Espíritu Santo. Tomás de Aquino precisa el esquema: el Hijo es la palabra interior que el Padre engendra eternamente, y el Padre y el Hijo espiran el Espíritu; hay en Dios acción y pasividad —generar y ser engendrado, espirar y ser espirado— sin que ello introduzca jerarquía: las tres personas «se sientan juntas» (*circumincessio*).
+
+De ahí dos consecuencias espirituales que Barron subraya. La primera es que **el ser es relacional**: frente a la idea aristotélica de que lo más real es la sustancia aislada, la Trinidad muestra que Dios es un juego de relaciones, y que el hombre se realiza tanto más cuanto menos se aferra a sí mismo. La psicología del *flow* de Csikszentmihalyi confirma que la felicidad consiste en perderse en una actividad o en otro; Dios está siempre «en el flow». La segunda es la superación de la unilateralidad activa: la cultura venera el control y desprecia la pasividad, pero en Dios hay dar y recibir, mandar y obedecer; como el corazón que late o los pulmones que respiran, la vida exige el doble movimiento. El pecado cree que aflojar la presa es derrumbarse; la Trinidad enseña lo contrario.
+
+Finalmente, la *circumincessio* desarma la competitividad: en Dios no hay jerarquía ni lucha por el primer puesto. Barron concluye que el «o esto o lo otro» es la gramática del pecado y el «a la vez» la gramática de la gracia.
+
 ## Distinciones importantes
 - Trinidad económica (revelada en las misiones divinas) ≠ Trinidad inmanente (Dios en sí mismo)
 - Unidad de esencia ≠ distinción de Personas
@@ -87,6 +97,14 @@ La Navidad es, según Hahn, una «efusión en el tiempo del amor que es eterno»
 
 ## Relaciones doctrinales
 Se relaciona con [[encarnación]], [[espíritu_santo]], [[visión_beatífica]], [[gracia_santificante]], [[unión_hipostática]], [[inhabitación_trinitaria]].
+
+### Según Centered (CEN)
+
+El Nuevo Testamento no contiene una doctrina desarrollada, pero sí las semillas: el mandato bautismal «en el nombre del Padre, del Hijo y del Espíritu Santo» (Mt 28,19) y las referencias paulinas a que el Padre envió al Hijo en la plenitud del tiempo y que solo en el Espíritu podemos llamar «Abba» a Dios. Todo ello se condensa en la fórmula implícitamente trinitaria de 1 Jn 4,16: si el amor no es una actividad que Dios ejerce sino lo que Dios esencialmente es, en Dios tiene que haber un juego de amante, amado y amor activo.
+
+La conclusión es que el Dios revelado en Jesús es «una familia o comunidad de personas»: el Padre engendra al Hijo, el Hijo mira al Padre, y el amor mutuo es el Espíritu Santo. El fundamento del ser no es una cosa, ni un absoluto, sino una *communio* de ser y dejar ser. Barron lo formula con imágenes corporales —pulmones que toman y sueltan, un corazón con su ritmo— para mostrar que la vida divina es relación, no soledad.
+
+De ahí la consecuencia cristológica y eclesial: el Hijo, el amado del Padre, es quien se encarna, y el Espíritu, amor exhalado entre ambos, quien habita en la Iglesia; por eso la misión eclesial es hacer real ese amor. La simplicidad divina no se opone a esta pluralidad: precisamente porque Dios es simple puede darse sin reserva, y la Trinidad es la forma eterna de ese darse.
 
 ## Analizado para
 

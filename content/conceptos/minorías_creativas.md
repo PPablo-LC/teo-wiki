@@ -79,14 +79,14 @@ cristiana tiene su célula primera en la familia, «Iglesia en la carne».
 ## Relaciones doctrinales
 
 Se relaciona con [[nuevos_movimientos]], [[cultura_cristiana]],
-[[ambiente_cristiano]], [[comunidad_cristiana]], [[secularización]],
+[[ambiente_cristiano]], [[comunidad]], [[secularización]],
 [[familia]], [[iglesia_doméstica]], [[laicado]], [[evangelización]],
 [[vida_religiosa]], [[educación_católica]].
 
 ## Ver también
 
 [[nuevos_movimientos]], [[cultura_cristiana]], [[ambiente_cristiano]],
-[[comunidad_cristiana]], [[secularización]], [[familia]], [[laicado]],
+[[comunidad]], [[secularización]], [[familia]], [[laicado]],
 [[evangelización]]
 
 ## Referencias

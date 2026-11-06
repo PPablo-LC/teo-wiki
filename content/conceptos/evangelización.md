@@ -171,9 +171,25 @@ De ahí que el fascículo presente la familia, la comunidad y la vida ordinaria 
 
 **La oración por los obreros.** El medio principal señalado por Jesús es la oración: «rogad al dueño de la mies que envíe trabajadores a su mies» (4 de diciembre).
 
+### Según The Pivotal Players (PP)
+
+El método mismo de la obra es una tesis de teología de la evangelización: siguiendo a Balthasar, Barron sostiene que la manera óptima de presentar la verdad del catolicismo no es exponer ideas abstractas, sino mostrar **vidas concretas**, porque los mejores teólogos son quienes encarnan el hecho cristiano. De ahí su criterio de «pivotalidad»: son decisivos quienes marcaron una nueva dirección en el Cuerpo Místico y, además, influyeron en la sociedad entera, pues la Iglesia existe para ser sal y luz de las naciones.
+
+Los capítulos funcionan como casos de evangelización de la cultura. Chesterton lo es por la palabra escrita y la paradoja: frente al relativismo, el catolicismo «es lo único que habla como si fuera la verdad». Sheen, por los medios: usó la radio y la televisión como Pablo el pergamino y las calzadas, convencido de que el mensaje no se vulgariza por el canal; Barron lo propone como patrono de la nueva evangelización que Juan Pablo II pidió «nueva en ardor, métodos y expresión». O'Connor, por la ficción: «al duro de oído hay que gritarle», y la gracia se anuncia mostrando su irrupción desgarradora en un mundo caído. Las Casas, por la denuncia profética: la evangelización solo es auténtica en paz y por la palabra, nunca por la coacción. Francisco, por el testimonio de pobreza que hizo creíble el evangelio ante una Iglesia tentada por la riqueza.
+
+El epílogo de Holly D. Ordway extrae la consecuencia práctica: evangelizar la cultura exige «leer los signos de los tiempos», es decir, descubrir las preguntas y los presupuestos ocultos de la propia época, como hicieron Benito al retirarse de una cultura urbana decadente y Newman al entrar en el debate intelectual de Oxford. Hace falta, además, ser católicos «integrados» —Newman tocaba el violín, O'Connor conocía a Tomás, Francisco escribía poesía— porque cultivar distintas maneras de ver amplía la capacidad de leer la cultura. Y la conclusión es consoladora y exigente: cada cristiano es «un jugador decisivo para alguien».
+
 ## Relaciones doctrinales
 
 Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[nueva_evangelización]], [[promoción_humana]], [[justicia_social]], [[reino_de_dios]]
+
+### Según Centered (CEN)
+
+El impulso misionero nace de la experiencia de Dios: en la Biblia nadie recibe una visión sin recibir a la vez una comisión —Moisés ante la zarza, Isaías en el templo, Saulo derribado—, y Balthasar explicó que lo bello, por naturaleza, llama y envía: detiene al espectador y le implanta el deseo de hablar a otros. La vida cristiana se vive entre dos imperativos: la conversión («el reino se ha acercado; convertíos», Mc 1,15) y la misión («id y haced discípulos», Mt 28,19).
+
+El corazón es el kerygma: anunciar a Jesucristo crucificado y resucitado. Cuando el misterio pascual deja de estar en el centro, la evangelización se convierte en invitación a una religiosidad blanda y aparece el catolicismo «beige». Peter Maurin dijo que la Iglesia guardó su dinamita en contenedores herméticos y se sentó encima; Hauerwas, que el problema del cristianismo no es ser conservador o liberal, sino «ser terriblemente aburrido». Barron desmonta además la cita atribuida a Francisco («predica el Evangelio siempre; si es necesario, usa palabras»): no tiene base histórica y ha servido para justificar un reduccionismo pastoral.
+
+El modelo de evangelización de la cultura es el Areópago: buscar primero los *semina verbi* —en el superhéroe, en *El gran Gatsby*, en Dylan, en *Gran Torino*— para que la Palabra no parezca extraña. La Iglesia no existe para hacerse accesible al mundo sino para transformarlo, y solo lo logra afirmando su identidad: Balthasar habló del «derribo de los bastiones» y Frost de que «las buenas vallas hacen buenos vecinos». La «ortodoxia afirmativa» no cede en doctrina ni en moral, pero empieza por la belleza y la integridad del hecho cristiano, no por el «no hagas esto». El itinerario es de lo bello («¡es espléndido!») a lo bueno («¡debo jugarlo!») y a lo verdadero («¡es verdad!»), porque la belleza es hoy la vía privilegiada. A ello se añade el compromiso con los nuevos medios —Pablo usó las calzadas romanas; nosotros podemos proclamar sus escritos desde las azoteas por satélite— y la medida del éxito, que no es el aplauso sino que la gente vuelva a la Misa.
 
 ## Analizado para
 

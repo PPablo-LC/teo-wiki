@@ -20,7 +20,7 @@ timestamp: 2026-09-14
 | Editorial | Edizioni OCD, Roma, 2025 (collana «La casa sulla roccia», n. 17) |
 | Código de fuente | **VdS** |
 | Ubicación raw | `raw/Bases_doctrinales-raw/Il_volto_dei_santi_capitoli/` |
-| Índice | [[raw/Bases_doctrinales-raw/Il_volto_dei_santi_capitoli/índice]] |
+| Índice | `raw/Bases_doctrinales-raw/Il_volto_dei_santi_capitoli/índice.md` |
 | Estado | Procesamiento completo (índice, artículos, resúmenes 11/11) |
 
 ## Contenido
@@ -58,7 +58,7 @@ Los resúmenes por capítulo residen en `wiki/Resúmenes/Il_volto_dei_santi_capi
 8. [[Beato Stefan Wyszyński (1901 – 1981). — Chiave di volta della Chiesa polacca]]
 9. [[Beata Sandra Sabattini (1961-1984). — La fidanzata santa]]
 10. [[San Carlo Acutis (1991-2006). — L'Eucaristia ci configura in modo unico a colui che è l'Amore]]
-11. [[Il riconoscimento ecclesiale]]
+11. [[11_il_riconoscimento_ecclesiale]]
 
 ## Artículos asociados
 

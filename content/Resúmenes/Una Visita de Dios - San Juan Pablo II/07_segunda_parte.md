@@ -15,7 +15,7 @@ tags: ["resumen", "una-visita-de-dios", "san-juan-pablo-ii", "sufrimiento", "LOU
 - [[LOURDES]] — santuario mariano donde la Virgen se apareció a Bernardette en 1858; meta de peregrinación de enfermos del mundo entero
 - [[maría]] — Consuelo de los afligidos; «Salud de los enfermos»; auxilio de los cristianos
 - [[inmaculada_concepción]] — dogma proclamado por Pío IX en 1854; María fue concebida en estado de pureza total
-- [[bernardette_soubirous]] — vidente de Lourdes; modelo de disponibilidad, humildad y valentía
+- [[bernadette_soubirous]] — vidente de Lourdes; modelo de disponibilidad, humildad y valentía
 - [[gracia_santificante]] — donde está María abunda la gracia; la curación espiritual precede a la física
 - [[sufrimiento_redentor]] — los enfermos, unidos a Cristo, se salvan y redimen a todos
 - [[milagros]] — signo excepcional de la acción salvadora de Cristo obtenida por intercesión de María
@@ -45,11 +45,11 @@ Se cita la aparición de María a Bernardette en la gruta de Massabielle, para c
 
 Lourdes, donde la [[maría|Virgen]] se apareció en 1858 recomendando penitencia y oración, nos habla de dos cosas: del misterio de la [[inmaculada_concepción|Inmaculada Concepción]] y del amor misericordioso dirigido a aliviar los sufrimientos humanos. María, concebida en un estado de pureza total, «llena de gracia», es un vehículo excelente y único de la [[redención]] de Cristo: el canal más privilegiado de su gracia. Donde esté presente María, allí abunda la gracia y se registra la curación del hombre: curación en el cuerpo y en el espíritu.
 
-A Lourdes no se va sólo a recibir gracias, sino a dar o a prepararse para dar. Se mira el ejemplo de [[bernardette_soubirous|Bernardette]]: su disponibilidad, docilidad, humildad y valentía.
+A Lourdes no se va sólo a recibir gracias, sino a dar o a prepararse para dar. Se mira el ejemplo de [[bernadette_soubirous|Bernardette]]: su disponibilidad, docilidad, humildad y valentía.
 
 ### María es auxilio de los cristianos
 
-María apareció dieciocho veces a [[bernardette_soubirous|Bernardette]] del 11 de febrero al 16 de julio de 1858. En Lourdes, María recordó al mundo que el sentido de la vida en la tierra es su orientación hacia el cielo. Vino a proponer de nuevo el núcleo del mensaje evangélico: la [[penitencia]]. El 24 de febrero de 1858 repitió tres veces: «¡Penitencia, penitencia, penitencia!». En Lourdes la Virgen enseña el valor redentor del dolor; da ánimos, paciencia y resignación; ilumina el misterio de nuestra participación en la pasión de Cristo. Bernardette, enferma y en Nevers, decía: «¡Lourdes no es para mí!» y «¡Es necesario!» (cuando le preguntaban si sufría mucho).
+María apareció dieciocho veces a [[bernadette_soubirous|Bernardette]] del 11 de febrero al 16 de julio de 1858. En Lourdes, María recordó al mundo que el sentido de la vida en la tierra es su orientación hacia el cielo. Vino a proponer de nuevo el núcleo del mensaje evangélico: la [[penitencia]]. El 24 de febrero de 1858 repitió tres veces: «¡Penitencia, penitencia, penitencia!». En Lourdes la Virgen enseña el valor redentor del dolor; da ánimos, paciencia y resignación; ilumina el misterio de nuestra participación en la pasión de Cristo. Bernardette, enferma y en Nevers, decía: «¡Lourdes no es para mí!» y «¡Es necesario!» (cuando le preguntaban si sufría mucho).
 
 El mensaje de Lourdes se completa con la invitación a la [[oración]]: la Virgen aparece en actitud orante, quiere que se recite el [[Rosario]], pide una capilla y procesiones. Bernardette, al recibir la primera comunión, dijo que ver a la Virgen y recibir la [[eucaristía]] le habían hecho «completamente feliz».
 
@@ -65,7 +65,7 @@ María nos introduce con sabiduría materna en el misterio de la cruz; sufre con
 
 La [[maría|Virgen]] obtiene gracias extraordinarias de curación física para ayudarnos a creer o reforzar nuestra fe en la potencia de Jesús de perdonar los pecados y conducirnos a la vida eterna. Lo que el Corazón de la Señora desea es que cada uno asuma su responsabilidad individual y colectiva, aceptando y ofreciendo la propia porción de sufrimiento con adhesión humilde a la voluntad de Dios.
 
-Toda la historia de Lourdes es una ilustración de las palabras del [[magníficat]]: «Ha desplegado la potencia de su brazo… ha exaltado a los humildes… ha colmado de bienes a los difamados». Lourdes es una profecía de justicia y de paz. [[bernardette_soubirous|Bernardette»], joven sencilla y humilde, ha recorrido el mundo con su testimonio.
+Toda la historia de Lourdes es una ilustración de las palabras del [[magníficat]]: «Ha desplegado la potencia de su brazo… ha exaltado a los humildes… ha colmado de bienes a los difamados». Lourdes es una profecía de justicia y de paz. [[bernadette_soubirous|Bernardette»], joven sencilla y humilde, ha recorrido el mundo con su testimonio.
 
 Se concluye con una invitación: «Tenid fija la mirada en Cristo»; siguiendo su ejemplo, el miedo se cambia en serenidad, la angustia en esperanza, la tristeza en alegría, y el sufrimiento es purificación y mérito para las almas, además de contribución preciosa para el bien espiritual de la [[iglesia|Iglesia]] (Col 1,24).
 

@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization_and_culture", "evangelización"]
 
 ## Conceptos básicos referenciados
 
-- [[catholicidad]] — la universalidad de la Iglesia como signo del espíritu
+- [[catolicidad]] — la universalidad de la Iglesia como signo del espíritu
 - [[cultura]] — la sensibilidad católica como integración de toda la tradición
 
 ## Contenido

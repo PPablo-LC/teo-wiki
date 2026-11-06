@@ -12,7 +12,7 @@ tags: ["resumen", "familiaris consortio"]
 
 ## Conceptos básicos referenciados
 
-- [[misión_de_la_familia_cristiana|misión de la familia cristiana]] — tema de la tercera parte
+- [[08_misión_de_la_familia_cristiana|misión de la familia cristiana]] — tema de la tercera parte
 
 ## Contenido
 

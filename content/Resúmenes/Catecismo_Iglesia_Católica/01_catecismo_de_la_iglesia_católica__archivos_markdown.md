@@ -15,7 +15,7 @@ tags: ["resumen", "catecismo iglesia católica"]
 - [[catecismo_de_la_iglesia_católica]] — obra cuya estructura de archivos se describe.
 - [[profesión_de_fe]] — el Credo, primera parte del Catecismo.
 - [[sacramento]] — la celebración del misterio cristiano, segunda parte del Catecismo.
-- [[vida_en_cristo]] — la moral cristiana, tercera parte del Catecismo.
+- [[vida_cristiana]] — la moral cristiana, tercera parte del Catecismo.
 - [[oración]] — la oración cristiana, cuarta parte del Catecismo.
 
 ## Contenido

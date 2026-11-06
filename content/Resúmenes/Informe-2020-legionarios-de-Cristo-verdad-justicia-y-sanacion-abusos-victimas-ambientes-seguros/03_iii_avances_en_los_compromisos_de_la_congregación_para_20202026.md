@@ -12,7 +12,7 @@ tags: ["resumen", "informe_anual_2020", "espiritualidad_legionaria", "compromiso
 
 ## Conceptos básicos referenciados
 
-- [[verdad_justicia_sanación]] — Caminos a recorrer con cada víctima, sus familias y las comunidades afectadas
+- [[verdad_justicia_y_sanacion]] — Caminos a recorrer con cada víctima, sus familias y las comunidades afectadas
 - [[revisión_y_actualización]] — Investigación de casos del pasado, conclusión de procesos y actualización de informes
 - [[publicación_de_casos]] — Conocimiento público de los casos de legionarios hallados culpables de abuso
 - [[esclarecimiento_encubrimiento]] — Verificación de si los casos del pasado fueron atendidos debidamente

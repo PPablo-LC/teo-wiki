@@ -22,7 +22,7 @@ tags: ["resumen", "espiritualidad_legionaria", "informe_anual", "vjys_ii", "aten
 - [[acreditación_praesidium]] — E: nuevos acreditados 2021: México, Centroamérica, Norte México, Chile, Colombia-Venezuela; EE.UU./España en reacreditación; Italia/Brasil preparativos
 - [[praesidium]] — Empresa experta en ambientes seguros, estándares internacionales
 - [[colaboración_externa]] — F: Eshmá, CEPROME, Reparare (Univ. Anáhuac), Inst. Desarrollo y Persona (Univ. Francisco de Vitoria), Repara (España), organismos conferencias episcopales (Chile, Francia, Alemania, EE.UU.), USG
-- [[abusos_autoridad_y_conciencia]] — G: compromiso CG 2020 (Seréis mis testigos, 21); 2021 enfocado en víctimas abusos sexuales; casos individuales atendidos; pendiente abordaje global/sistemático
+- [[abusos_de_autoridad_y_conciencia]] — G: compromiso CG 2020 (Seréis mis testigos, 21); 2021 enfocado en víctimas abusos sexuales; casos individuales atendidos; pendiente abordaje global/sistemático
 
 ## Contenido
 

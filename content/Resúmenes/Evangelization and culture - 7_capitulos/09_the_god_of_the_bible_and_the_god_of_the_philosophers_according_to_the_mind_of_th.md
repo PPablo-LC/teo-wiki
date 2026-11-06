@@ -13,8 +13,8 @@ tags: ["resumen", "evangelization_and_culture", "filosofía"]
 ## Conceptos básicos referenciados
 
 - [[teología]] — el Dios del teísmo clásico como el Dios de la Biblia
-- [[EspírituSanto]] — la indwelling del Espíritu Santo como unión con Dios
-- [[SantoTomásDeAquino]] — la síntesis tomista entre fe y razón
+- [[espíritu_santo]] — la indwelling del Espíritu Santo como unión con Dios
+- [[santo_tomás_de_aquino]] — la síntesis tomista entre fe y razón
 
 ## Contenido
 

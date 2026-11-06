@@ -67,7 +67,7 @@ Segundo informe de rendición de cuentas de la Legión de Cristo sobre la implem
 
 ## Ver también
 
-[[conversión_reparación_proteger_y_sanar]], [[proteger_y_sanar]], [[conversión_institucional]], [[justicia_restaurativa]], [[ambientes_seguros]], [[eshmá]], [[abusos_de_autoridad]]
+[[conversión_reparación_proteger_y_sanar]], [[proteger_y_sanar]], [[conversión_institucional]], [[justicia_restaurativa]], [[ambientes_seguros]], [[eshmá]], [[abuso_de_autoridad]]
 
 ## Referencias
 

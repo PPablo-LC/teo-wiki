@@ -15,7 +15,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[virginidad]] — la donación exclusiva de sí a Dios en virginidad/celibato
 - [[celibato_por_el_reino]] — la continencia «por el reino de los cielos»
 - [[signo_escatológico]] — la anticipación de la vida escatológica
-- [[consejo_evangélico]] — no mandamiento que obliga a todos
+- [[consejos_evangélicos]] — no mandamiento que obliga a todos
 -[[don_de_continencia]] — a quienes «ha sido dado» (Mt 19, 11)
 - [[eunucos_por_amor_al_reino]] — «se han hecho a sí mismos eunucos» (Mt 19, 12)
 - [[libelo_de_repudio]] — «por la dureza de vuestro corazón» (Mt 19, 8-9)
@@ -28,7 +28,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[temporalidad]] — la condición de la existencia histórica
 - [[olwak_espíritu]] — la sensibilidad anticipada del espíritu
 - [[lumen_gentium]] — LG 42 y 44 sobre la virginidad consagrada
-- [[perfectæ_caritatis]] — PC 12
+- [[perfectae_caritatis]] — PC 12
 - [[comprensión]] — él que pueda entender, que entienda
 
 ## Contenido

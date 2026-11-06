@@ -72,6 +72,14 @@ contrario (documento de la CTI *Theology Today*).
 el corazón de la fecundidad sacerdotal: el sacerdote es maestro de una
 doctrina de vida que no inventa, sino que transmite y encarna.
 
+### Según The Pivotal Players (PP)
+
+Barron expone el *Essay on the Development of Christian Doctrine* de Newman como el argumento central de su conversión. Lutero y sus discípulos sostenían que buena parte del catolicismo era una desviación o un añadido no justificado a la revelación bíblica, y que procedía podarla; Newman responde que esos elementos no son desviaciones sino **desarrollos**. Las ideas son «conmensurables con la suma total de sus aspectos posibles»: no se conoce una idea hasta que cada una de sus caras se ha manifestado, y eso exige tiempo y una comunidad de discurso que la piense, la compare y la debata.
+
+Su imagen decisiva: «a veces se dice que el arroyo es más claro cerca de la fuente», pero eso no vale para la historia de una filosofía o de una creencia, que es «más igual, más pura y más fuerte cuando su cauce se ha hecho hondo, ancho y lleno». De ahí la frase que Barron cita como resumen: «aquí abajo vivir es cambiar, y ser perfecto es haber cambiado muchas veces». No es un elogio del cambio por el cambio, sino la afirmación de que el desarrollo es signo de vida y no de decadencia.
+
+El paso más sorprendente es que Newman deduce de ahí la necesidad de una **autoridad infalible**. Si las ideas se desarrollan en el juego vivo de teólogos y profesores, junto a los desarrollos aparecen corrupciones —las herejías lo atestiguan—, y hace falta una instancia que arbitre. Su silogismo: si la revelación forma parte de la economía divina y su contenido se despliega en el tiempo, Dios debió dotar a su Iglesia de una voz viva. Ni la Biblia sola —dividida en iglesias que se contradicen— ni el consenso de los Padres —textos, no voz viva— cumplen esa función; solo la Iglesia católica la reclama. Barron subraya el genio de haber unido lo que liberales y conservadores separan: la legitimidad del cambio y la necesidad del criterio infalible. En su propia biografía, el estudio de las controversias arrianas le mostró que la *via media* anglicana ocupaba la posición herética, y la sentencia agustiniana *Securus judicat orbis terrarum* acabó de decidirlo.
+
 ## Distinciones importantes
 
 - **Desarrollo y cambio sustancial**: el desarrollo explícita lo implícito;

@@ -40,11 +40,11 @@ San Juan Crisóstomo (*c.* 347-407) fue un aliado importante de Atanasio en la d
 
 ### Padres de la Iglesia
 
-Atanasio es reconocido como uno de los cuatro grandes Padres de la Iglesia latina y como Doctor de la Iglesia (*Doctor Ecclesiae*). Su influencia se extiende a los Padres capadocios (Basilio, Gregorio de Nacianzo, Gregorio de Nisa), quienes completaron la síntesis trinitaria iniciada por Atanasio. San [[san_ambrosio|Ambrosio]] y San [[san_agustín|Agustín]] recibieron y transmitieron su doctrina en Occidente. La teología de la [[divinidad_de_cristo|divinidad de Cristo» que defendió Atanasio se convirtió en patrimonio irreductible de la fe católica.
+Atanasio es reconocido como uno de los cuatro grandes Padres de la Iglesia latina y como Doctor de la Iglesia (*Doctor Ecclesiae*). Su influencia se extiende a los Padres capadocios (Basilio, Gregorio de Nacianzo, Gregorio de Nisa), quienes completaron la síntesis trinitaria iniciada por Atanasio. San [[san_ambrosio|Ambrosio]] y San [[agustín_de_hipona|Agustín]] recibieron y transmitieron su doctrina en Occidente. La teología de la [[divinidad_de_cristo|divinidad de Cristo» que defendió Atanasio se convirtió en patrimonio irreductible de la fe católica.
 
 ## Ver también
 
-[[san_agustín]], [[san_juan_crisóstomo]], [[padres_de_la_iglesia]], [[concilio_de_nicea]], [[arrianismo]], [[consubstancial]]
+[[agustín_de_hipona]], [[san_juan_crisóstomo]], [[padres_de_la_iglesia]], [[concilio_de_nicea]], [[arrianismo]], [[consubstancial]]
 
 ## Referencias
 

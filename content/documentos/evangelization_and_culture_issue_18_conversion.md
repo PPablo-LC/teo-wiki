@@ -79,8 +79,8 @@ Esta fuente aporta una visión teológica, espiritual, literaria y cultural de l
 - [[totus_christus]] y [[cuerpo_místico]] — convertirse a la Iglesia
 - [[testimonio_cristiano]] — el testimonio sin palabras y por el propio ser
 - [[encuentro_personal_con_cristo]] — «ser cristiano no es el resultado de una elección ética sino el encuentro con una persona» (*Deus Caritas Est* 1)
-- [[fomes_peccati]] y [[misterio_de_la_iniquidad]] — el backsliding y la conversión continua
-- [[san_agustín]], [[santa_maría_magdalena]], [[san_ignacio_de_loyola]], [[g_k_chesterton]], [[j_r_r_tolkien]], [[thomas_merton]], [[dorothy_day]] — los grandes conversos
+- [[fomes_peccati]] y [[mysterium_iniquitatis]] — el backsliding y la conversión continua
+- [[agustín_de_hipona]], [[santa_maría_magdalena]], [[san_ignacio_de_loyola]], [[g_k_chesterton]], [[j_r_r_tolkien]], [[thomas_merton]], [[dorothy_day]] — los grandes conversos
 
 ## Ver también
 

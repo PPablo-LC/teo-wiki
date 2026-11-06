@@ -46,7 +46,7 @@ que el Espíritu genera en la vida de los sacerdotes de hoy.
 ## Ver también
 
 - [[priests_what_lies_ahead]] [[sacerdocio]] [[sacerdocio_ministerial]]
-- [[paternidad_sacerdotal]] [[cristo_maestro]] [[cristo_medico]] [[pastor]]
+- [[paternidad_sacerdotal]] [[cristo_maestro]] [[cristo_medico]] [[pastor_y_rebaño]]
 - [[luis_ladaria]] [[george_pell]] [[livio_melina]] [[charles_chaput]]
 
 ## Referencias

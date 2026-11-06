@@ -42,14 +42,14 @@ El principio se articula con la [[subsidiariedad]]: lo que puede hacer una comun
 
 ## Relaciones doctrinales
 
-- Se funda en la [[ley_moral_natural]], la [[dignidad_humana]] y los [[derechos_naturales]]
+- Se funda en la [[ley_moral_natural]], la [[dignidad_humana]] y los [[derecho_natural]]
 - Se articula con [[subsidiariedad]], [[solidaridad]] y [[bien_común]]
 - Se opone al [[totalitarismo]] y a toda absolutización del poder
 - Se relaciona con [[democracia]], [[gobierno_representativo]], [[separación_de_poderes]], [[libertad_religiosa]] y [[virtud_cívica]]
 
 ## Ver también
 
-[[democracia]], [[gobierno_representativo]], [[separación_de_poderes]], [[derechos_naturales]], [[subsidiariedad]], [[libertad_religiosa]], [[virtud_cívica]], [[edmund_burke]], [[alexis_de_tocqueville]], [[abraham_lincoln]], [[thomas_jefferson]], [[robert_barron]]
+[[democracia]], [[gobierno_representativo]], [[separación_de_poderes]], [[derecho_natural]], [[subsidiariedad]], [[libertad_religiosa]], [[virtud_cívica]], [[edmund_burke]], [[alexis_de_tocqueville]], [[abraham_lincoln]], [[thomas_jefferson]], [[robert_barron]]
 
 ## Referencias
 

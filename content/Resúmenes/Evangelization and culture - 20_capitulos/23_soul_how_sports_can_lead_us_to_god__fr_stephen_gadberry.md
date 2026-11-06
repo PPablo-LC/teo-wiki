@@ -18,7 +18,7 @@ tags: ["resumen", "evangelization and culture - 20 capitulos"]
 - [[vía_unitiva]] — unión con Cristo a través de la entrega y la gratitud
 - [[humildad]] — base para aprender y crecer en el deporte y en la fe
 - [[perseverancia]] — seguir adelante hasta el final en juego y en vida
-- [[juuan_pablo_ii]] — «Incluso el mayor campeón se encuentra indefenso ante las preguntas fundamentales»
+- [[juan_pablo_ii]] — «Incluso el mayor campeón se encuentra indefenso ante las preguntas fundamentales»
 - [[fe]] — el «todo o nada» que el deporte y la fe exigen
 
 ## Contenido

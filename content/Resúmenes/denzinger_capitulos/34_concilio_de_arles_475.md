@@ -15,7 +15,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[gracia]] — don sobrenatural de Dios
 - [[predestinación]] — decreto de Dios sobre la salvación
 - [[libre_albedrío]] — capacidad de autodeterminación humana
-- [[mantiqueísmo]] — herejía dualista
+- [[maniqueísmo]] — herejía dualista
 - [[luciferianos]] — secta derivada del arrianismo
 - [[pecado_original]] — pecado heredado de Adán
 - [[voluntad_de_dios]] — querer salvífico universal de Dios

@@ -12,7 +12,7 @@ tags: ["resumen", "asi mueren los santos capitulos"]
 
 ## Conceptos básicos referenciados
 
-[[caridad_de_la_verdad]], [[san_leopoldo_mandic]], [[san_hilario_de_poitiers]], [[san_martín_de_tours]], [[san_ambrosio]], [[san_jerónimo]], [[san_agustín]], [[san_benito_de_nursia]], [[san_anselmo]], [[san_bernardo]], [[san_domingo_de_guzmán]], [[san_alberto_magno]], [[santo_tomás_de_aquino]], [[san_ignacio_de_loyola]], [[san_francisco_javier]], [[san_felipe_neri]], [[san_carlos_borromeo]], [[san_francisco_de_sales]], [[san_alfonso_maría_de_ligorio]], [[cura_de_ars]], [[san_juan_bosco]], [[san_daniel_comboni]], [[san_pío_de_pietrelcina]], [[san_josemaría_escrivá]], [[san_juan_xxiii]], [[charles_de_foucauld]]
+[[caridad_de_la_verdad]], [[san_leopoldo_mandic]], [[san_hilario_de_poitiers]], [[san_martín_de_tours]], [[san_ambrosio]], [[san_jerónimo]], [[agustín_de_hipona]], [[san_benito]], [[san_anselmo]], [[san_bernardo]], [[san_domingo_de_guzmán]], [[san_alberto_magno]], [[santo_tomás_de_aquino]], [[san_ignacio_de_loyola]], [[san_francisco_javier]], [[san_felipe_neri]], [[san_carlos_borromeo]], [[san_francisco_de_sales]], [[san_alfonso_maría_de_ligorio]], [[cura_de_ars]], [[san_juan_bosco]], [[san_daniel_comboni]], [[san_pío_de_pietrelcina]], [[san_josemaría_escrivá]], [[san_juan_xxiii]], [[charles_de_foucauld]]
 
 ## Contenido
 
@@ -53,12 +53,12 @@ sabido defender y comunicar la fe» (cf. [[caridad_de_la_verdad]]).
    *Vulgata*; murió «como un viejo burrito que no puede más», con la
    alegría de quien se estremece «por el deseo de encontrarse por fin
    con ese Cristo tan largamente buscado».
-5. **[[san_agustín]]** (354-430): de la cátedra de retórica de Milán al
+5. **[[agustín_de_hipona]]** (354-430): de la cátedra de retórica de Milán al
    bautismo de 387; la *Ciudad de Dios* terminada a los 72 años mientras
    los vándalos destruían las iglesias africanas; tres meses de asedio
    de Hipona; murió rogando y llorando: «No temo morir, porque tenemos
    un buen Señor»; «Mi peso es el amor (*Pondus meum amor meus*)».
-6. **[[san_benito_de_nursia]]** (480-547): «escuela para aprender a
+6. **[[san_benito]]** (480-547): «escuela para aprender a
    servir al Señor»; *ora et labora*; la última visión de «el mundo
    entero recogido bajo un único rayo de sol» — «No fueron la tierra y
    el cielo los que se encogieron, fue el alma del vidente la que se

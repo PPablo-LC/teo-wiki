@@ -12,13 +12,13 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 
 ## Conceptos básicos referenciados
 
-[[teología_moral]], [[crisis_de_la_teología_moral]], [[moral_autónoma]], [[ley_natural]], [[ley_evangélica]], [[sermón_de_la_montaña]], [[bienaventuranzas]], [[virtud]], [[virtudes_teologales]], [[virtudes_morales]], [[caridad]], [[justicia]], [[pecado]], [[santo_tomás_de_aquino]], [[san_agustín]], [[san_pablo]], [[josef_fuchs]], [[francisco_suárez]]
+[[teología_moral]], [[crisis_de_la_teología_moral]], [[moral_autónoma]], [[ley_natural]], [[ley_evangélica]], [[sermón_de_la_montaña]], [[bienaventuranzas]], [[virtud]], [[virtudes_teologales]], [[virtudes_morales]], [[caridad]], [[justicia]], [[pecado]], [[santo_tomás_de_aquino]], [[agustín_de_hipona]], [[san_pablo]], [[josef_fuchs]], [[francisco_suárez]]
 
 ## Contenido
 
 ### Planteamiento del problema y examen de una respuesta actual
 
-El capítulo aborda la cuestión de la existencia y de la especificidad de una moral cristiana: primero expone el problema y examina una respuesta actual característica; después la planteará en los grandes hitos de la teología: el Nuevo Testamento con [[san_pablo|san Pablo]], el [[sermón_de_la_montaña|Sermón de la Montaña]] con la ayuda de [[san_agustín|san Agustín]] (que lo consideraba compendio y modelo de la moral evangélica) y a [[santo_tomás_de_aquino|santo Tomás]], especialmente su tratado de la Ley nueva, reunidos en armonía con los Padres griegos.
+El capítulo aborda la cuestión de la existencia y de la especificidad de una moral cristiana: primero expone el problema y examina una respuesta actual característica; después la planteará en los grandes hitos de la teología: el Nuevo Testamento con [[san_pablo|san Pablo]], el [[sermón_de_la_montaña|Sermón de la Montaña]] con la ayuda de [[agustín_de_hipona|san Agustín]] (que lo consideraba compendio y modelo de la moral evangélica) y a [[santo_tomás_de_aquino|santo Tomás]], especialmente su tratado de la Ley nueva, reunidos en armonía con los Padres griegos.
 
 ### 1. EL PROBLEMA DE LA EXISTENCIA Y DE LA ESPECIFICIDAD DE UNA MORAL CRISTIANA
 

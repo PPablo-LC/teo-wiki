@@ -16,7 +16,7 @@ tags: ["espiritualidad", "ascética", "devotio_moderna", "eucaristía", "vida_in
 - **Autor**: Tomás de Kempis
 - **Código**: ImC
 - **Fuente**: `raw/Bases_doctrinales-raw/La_imitacion_de_Cristo_capitulos/` (8 archivos, en español)
-- **Índice raw**: [[raw/Bases_doctrinales-raw/La_imitacion_de_Cristo_capitulos/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/La_imitacion_de_Cristo_capitulos/índice.md`
 - **Introducción**: estudio preliminar de la *devotio moderna* y de la obra
 
 ## Contenido

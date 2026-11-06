@@ -25,11 +25,11 @@ El donatismo reaparece siempre que se condiciona la eficacia de los sacramentos 
 
 ## Relaciones
 
-Se relaciona con [[ex_opere_operato]], [[sacramento]], [[ministerio_sacramental]], [[novacianismo]], [[fraticelli]], [[san_agustín]], [[unidad_de_la_iglesia]]
+Se relaciona con [[ex_opere_operato]], [[sacramento]], [[ministerio_sacramental]], [[novacianismo]], [[fraticelli]], [[agustín_de_hipona]], [[unidad_de_la_iglesia]]
 
 ## Ver también
 
-[[ex_opere_operato]], [[novacianismo]], [[fraticelli]], [[san_agustín]], [[sacramento]]
+[[ex_opere_operato]], [[novacianismo]], [[fraticelli]], [[agustín_de_hipona]], [[sacramento]]
 
 ## Referencias
 

@@ -18,7 +18,7 @@ tags: ["crisis_de_los_abusos", "eclesiología", "sacerdocio_ministerial", "esper
 - **ISBN**: 978-1-943243-48-8
 - **Código**: LSC
 - **Fuente**: `raw/Bases_doctrinales-raw/letter_suffering_church/` (11 archivos, en inglés)
-- **Índice raw**: [[raw/Bases_doctrinales-raw/letter_suffering_church/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/letter_suffering_church/índice.md`
 
 ## Contenido
 

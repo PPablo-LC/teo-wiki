@@ -28,7 +28,7 @@ tags: ["resumen", "codex iuri canonici"]
 - [[curia_romana]] — organismos con los que el Pontífice tramita los asuntos de la Iglesia universal (cc. 360–361).
 - [[diócesis]] — porción del pueblo de Dios confiada al Obispo para que constituya una Iglesia particular (cc. 368–374).
 - [[obispo]] — sucesores de los Apóstoles por institución divina; maestros, sacerdotes y ministros del gobierno (cc. 375–430).
-- [[conferencia_episcopal]] — asamblea permanente de los Obispos de una nación (cc. 447–459).
+- [[conferencias_episcopales]] — asamblea permanente de los Obispos de una nación (cc. 447–459).
 - [[parroquia]] / [[párroco]] — comunidad estable de fieles con cura pastoral propia; pastor propio con estabilidad (cc. 515–544).
 - [[vida_consagrada]] — forma estable de vivir los consejos evangélicos de castidad, pobreza y obediencia (cc. 573–606).
 - [[instituto_religioso]] — votos públicos y vida fraterna en común (cc. 607–709).

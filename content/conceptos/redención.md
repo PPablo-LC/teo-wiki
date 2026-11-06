@@ -39,11 +39,11 @@ Pablo desarrolla magistralmente la teología de la redención: «Cristo nos redi
 
 ## Relaciones doctrinales
 
-Se relaciona con [[cruz_de_cristo]], [[pasión_de_cristo]], [[resurrección_de_cristo]], [[expiración_y_redención]], [[satisfacción_vicaria]], [[gracia_redentora]], [[filiación_divina]], [[salvación]].
+Se relaciona con [[cruz]], [[pasión_de_cristo]], [[resurrección_de_cristo]], [[expiración_y_redención]], [[satisfacción_vicaria]], [[gracia_redentora]], [[filiación_divina]], [[salvación]].
 
 ## Ver también
 
-[[cruz_de_cristo]], [[pasión_de_cristo]], [[resurrección_de_cristo]], [[gracia]], [[salvación]]
+[[cruz]], [[pasión_de_cristo]], [[resurrección_de_cristo]], [[gracia]], [[salvación]]
 
 ## Referencias
 

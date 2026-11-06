@@ -12,7 +12,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[Ordinatio_sacerdotalis]] — Carta Apostólica de [[juan_pablo_ii]] sobre la ordenación sacerdotal
+- [[41_ordinatio_sacerdotalis]] — Carta Apostólica de [[juan_pablo_ii]] sobre la ordenación sacerdotal
 - [[ordenación_sacerdotal]] — no admisión de las mujeres, doctrina *definitive tenenda*
 - [[depósito_de_la_fe]] — doctrina propuesta infaliblemente por el Magisterio ordinario universal
 - [[constitución_divina_de_la_Iglesia]] — doctrina que atañe a la constitución misma de la Iglesia

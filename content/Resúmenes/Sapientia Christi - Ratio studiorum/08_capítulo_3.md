@@ -13,7 +13,7 @@ tags: ["resumen", "ratio_studiorum", "sapientia_christi", "etapas_de_formación"
 ## Conceptos básicos referenciados
 
 - [[etapas_de_formación]] — Etapas de la formación intelectual del legionario
-- [[centros_vocacionales]] — Etapa preuniversitaria de adolescentes
+- [[centro_vocacional]] — Etapa preuniversitaria de adolescentes
 - [[noviciado]] — Inicio de la vida en el instituto religioso
 - [[humanidades]] — Etapa de estudios humanísticos y científicos
 - [[estudios_filosóficos]] — Etapa de formación filosófica

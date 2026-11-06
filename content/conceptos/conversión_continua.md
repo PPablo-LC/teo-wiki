@@ -49,7 +49,7 @@ Thomas Merton sintetizó la dimensión continua: «No somos convertidos solo una
 ## Relaciones doctrinales
 
 - Se ordena a la [[conversión]] y a la [[metanoia]], renovación de la mirada, la actitud y la conducta
-- Se hace necesaria por el [[fomes_peccati]], la «leña del pecado» que permanece tras el bautismo, y por el [[misterio_de_la_iniquidad]]
+- Se hace necesaria por el [[fomes_peccati]], la «leña del pecado» que permanece tras el bautismo, y por el [[mysterium_iniquitatis]]
 - Se realiza de modo sacramental en la [[confesión]] y los demás sacramentos, a los que el convertido vuelve una y otra vez
 - Se enraíza en el [[bautismo]], muerte al yo viejo y revestimiento de Cristo
 - Se apoya en el [[seguimiento_de_cristo]] y la respuesta diaria a la llamada del Señor
@@ -59,7 +59,7 @@ Thomas Merton sintetizó la dimensión continua: «No somos convertidos solo una
 - [[conversión]]
 - [[metanoia]]
 - [[fomes_peccati]]
-- [[misterio_de_la_iniquidad]]
+- [[mysterium_iniquitatis]]
 - [[confesión]]
 - [[bautismo]]
 - [[gracia]]

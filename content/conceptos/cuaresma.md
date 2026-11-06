@@ -54,6 +54,14 @@ La Regla describe un triple despliegue de la observancia cuaresmal:
 - **Cuaresma como devoción purificadora (cap. 48)**: El trabajo monástico se intensifica en Cuaresma, pero siempre con medida: disciplina sin desaliento, labor sin exceso. Los monjes reciben libros de lectura espiritual para sus ratos libres.
 - **Hospitalidad en Cuaresma (cap. 53)**: El ayuno se quebranta en atención a los huéspedes de mayor rango, pero los hermanos conservan la disciplina cuaresmal. La caridad no suspende el ayuno; más bien el ayuno se ordena a la caridad.
 
+### Según Lenten Gospel Reflections 2022 (LGR22)
+
+La Cuaresma es, para Barron, una estancia en el desierto con Jesús: el cristiano se hace aprendiz de su ayuno de cuarenta días, permanece con él, hace lo que él hizo y afronta lo que él afrontó. El desierto no se propone como escenario de heroísmos ascéticos, sino como «lugar de clarificación»: cuando caen los deseos triviales, el hombre ve con claridad incómoda quién es y qué importa de verdad. La introducción apela a Pascal y a los *divertissements*: la vida entera puede organizarse para no afrontar la verdad sobre uno mismo, la muerte y las exigencias de Dios. De ahí la tesis que recorre el volumen: a la clarificación sigue la decisión, y por eso el tentador llega al término del ayuno. Las tres prácticas —oración, ayuno y limosna— son la respuesta concreta, y la fuente insiste en que no son actitudes ni intenciones, sino cosas que se hacen y que comprometen el cuerpo. El arco litúrgico va del Miércoles de Ceniza (2 de marzo) al Domingo de Pascua (17 de abril), con la Semana Santa como centro y el Viacrucis como ejercicio final.
+
+### Según Lenten Gospel Reflections 2024 (LGR24)
+
+El volumen de 2024 comparte la estructura litúrgica —de Ceniza (14 de febrero) a Pascua (31 de marzo)—, pero ordena la Cuaresma en torno al sufrimiento redentor: el tiempo existe para volver a centrarse en la Pasión, de modo que el fiel esté listo para abrazar la Resurrección. La introducción responde a la objeción evidente: ¿por qué ese énfasis en el dolor? Porque «Cristo nos salvó mediante un acto de sufrimiento» y porque la Iglesia, siendo su Cuerpo, participa de él; en la economía de la gracia, el sufrimiento de un miembro puede llevar la carga de otro. La propuesta cuaresmal concreta vuelve a ser la de las tres prácticas, con un acento polémico: frente a una Cuaresma reducida a actitudes e introspección, se subraya el verbo *hacer*. La recomendación de «olvidarse» de la propia vida espiritual —entendida como examen del propio progreso— no es desprecio de la vida interior, sino desplazamiento del centro: orar, ayunar, dar limosna y mirar a Cristo, que es el centro de la vida y la razón de todo.
+
 ## Relaciones doctrinales
 
 La Cuaresma es camino hacia el [[triduo_pascual]] y culmina en la celebración de la [[pascua]]. Su práctica penitencial se ordena a la [[conversión]] y al sacramento de la [[sacramento_de_la_reconciliación|penitencia]].

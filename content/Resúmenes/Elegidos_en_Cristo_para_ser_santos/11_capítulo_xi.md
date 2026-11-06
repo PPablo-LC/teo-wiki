@@ -76,7 +76,7 @@ tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "peca
 - [[catecismo]] — «Dios de nada se alegra tanto como de la conversión»
 - [[apocalipsis]] — el pecado que lleva a la muerte: apostasía e idolatría
 - [[san_pablo]] — el pecado como poder personificado (hamartía)
-- [[san_agustín]] — psicología de la culpa; aversio a Deo y conversio ad creaturas
+- [[agustín_de_hipona]] — psicología de la culpa; aversio a Deo y conversio ad creaturas
 - [[santo_tomás_de_aquino]] — síntesis escolástica de la doctrina del pecado
 - [[san_gregorio_magno]] — la lista de los siete pecados capitales
 - [[juan_pablo_ii]] — Reconciliatio et paenitentia

@@ -30,7 +30,7 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 - [[gracia]] — principio que corona la moral tomista
 - [[moral_de_los_manuales]] — moral moderna de la obligación frente a la tomista
 - [[ética_de_la_virtud]] — rasgo propio de la moral tomista
-- [[san_agustín]] — fuente patrística de la teología de santo Tomás
+- [[agustín_de_hipona]] — fuente patrística de la teología de santo Tomás
 - [[sagrada_escritura]] — fuente permanente que domina todo sistema
 
 ## Contenido
@@ -69,7 +69,7 @@ La [[moral_escolástica|moral de la gran escolástica]], personificada en santo 
 Pinckaers advierte contra una ilusión peligrosa de los discípulos de santo Tomás: creer que, puesto que el Doctor Angélico reunió lo mejor de sus predecesores, quedamos dispensados de leerlos a ellos, e incluso de leer la [[sagrada_escritura]]. Se trata de una ilusión óptica que convierte al sistema tomista en sustituto de la Palabra de Dios. Contra ella se aducen tres razones:
 
 1. El sistema tomista debe «humillarse» ante el Evangelio y la fe, fuente única y permanente de la Revelación; ningún sistema puede convertirse en pantalla entre el creyente y la palabra de Dios.
-2. Las riquezas del misterio de Cristo superan todo sistema y deben ser dispensadas por una diversidad de obras teológicas; el discípulo de santo Tomás no pierde nada leyendo a [[san_agustín|san Agustín]], a los Padres griegos o a los Padres del desierto (Casiano).
+2. Las riquezas del misterio de Cristo superan todo sistema y deben ser dispensadas por una diversidad de obras teológicas; el discípulo de santo Tomás no pierde nada leyendo a [[agustín_de_hipona|san Agustín]], a los Padres griegos o a los Padres del desierto (Casiano).
 3. Limitarse a santo Tomás sin sus fuentes es contrario a su propio espíritu, pues este se mostró ávido de la verdad viniera de donde viniese; sus obras son guía hacia los autores que utilizó, no un manual que los haga inútiles.
 
 #### Nota sobre la escuela tomista

@@ -29,7 +29,7 @@ Convocada por el papa [[urbano_ii|Urbano II]] en el concilio de Clermont (1095),
 
 **Segunda cruzada (1147–1149) — HI, Archivo 24:**
 
-Fue predicada por [[san_bernardo_de_clairvaux|San Bernardo de Clairvaux]] tras la caída del Condado de Edesa. Participaron el rey Luis VII de Francia y el emperador Conrado III de Alemania. Terminó en fracaso militar sin recuperar Edesa, pero consolidó la presencia cruzada y el espíritu de la empresa.
+Fue predicada por [[san_bernardo|San Bernardo de Clairvaux]] tras la caída del Condado de Edesa. Participaron el rey Luis VII de Francia y el emperador Conrado III de Alemania. Terminó en fracaso militar sin recuperar Edesa, pero consolidó la presencia cruzada y el espíritu de la empresa.
 
 **Tercera cruzada (1189–1192) — HI, Archivo 24:**
 
@@ -63,7 +63,7 @@ Se relaciona con la [[guerra_justa]], la [[indulgencias]], el [[monacato]] (much
 
 ## Ver también
 
-[[guerra_justa]], [[indulgencias]], [[cisma_de_oriente]], [[urbano_ii]], [[san_bernardo_de_clairvaux]], [[saladino]]
+[[guerra_justa]], [[indulgencias]], [[cisma_de_oriente]], [[urbano_ii]], [[san_bernardo]], [[saladino]]
 
 ## Referencias
 

@@ -75,6 +75,14 @@ acumula riquezas» (01, 81).
 
 En el prefacio *Il crocevia tra l’essere e il nulla*, Julián Carrón vincula el miedo profundo al vacío del yo: «alla parola "paura"... era solo il primo barlume di quella paura profonda che si è affacciata all’orizzonte del nostro esistere... "vuoto" descrive la percezione che tanti hanno del proprio io, come se niente riuscisse a riempirlo, tanto è smisurato» (TACDC, 01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, l. 5). Solo una vida desbordante puede contender con él: «Solo una presenza traboccante di vita può contendere la scena al nulla, al vuoto, alla paura» (l. 23). Esta presencia se reconoce en el encuentro con Cristo que corresponde al corazón (cfr. l. 23).
 
+### Según And Now I See (ANS)
+
+Robert Barron hace del miedo la raíz del pecado, hasta el punto de llamarlo «pecado original»: el miedo es el veneno inyectado en la conciencia y en la sociedad desde el principio, el elemento que desequilibra la «química» de la psique y de la vida social. Cuando tememos, nos aferramos a lo que somos y tenemos, nos vemos como el centro amenazado de un universo hostil y nos defendemos con violencia. El miedo nace de vivir en la superficie, olvidando la identidad profunda: en el centro del alma está la imagen de Dios, y quien descansa en ese centro sabe que, en último término, está a salvo.
+
+De ahí su oposición entre la *pusilla anima* y la *magna anima*. El alma pequeña vive en las *angustiae*, el espacio estrecho entre un temor y otro, entre un apego y otro; el alma grande se apoya en el poder que sostiene el cosmos y puede vivir en confianza radical. La tempestad calmada (Mc 4,35-41) es el icono de esta dinámica: los discípulos, en la barca, representan al alma temerosa convencida de que no hay nada bajo ella; Jesús, que duerme sobre el cabezal, representa la potencia divina serena en el fondo de nosotros mismos. Su reproche —«¿por qué tenéis tanto miedo? ¿Cómo es que no tenéis fe?»— es la invitación a dejar la mente de miedo.
+
+El miedo tiene dos hijos, que Barron identifica con las dos estrategias del Edén: **asir** y **esconderse**. El que teme acumula, se blinda y se oculta; los bienes, las instituciones y hasta los ejércitos son descendientes del taparrabos de Adán. La respuesta no es la impavidez, sino la confianza: el salmo 139 confiesa que no hay lugar donde huir de Dios, y el libro de Job muestra que la única respuesta posible ante el Misterio es la entrega. Barron recoge también la advertencia de que el miedo puede deformar la religión misma: el Dios temido como rival produce una piedad farisaica que pretende comprar su favor, como la del Simón del evangelio de Lucas.
+
 ## Distinciones importantes
 
 - **Temor filial vs. temor servil**: el primero teme ofender a Dios por amor; el segundo teme el castigo.

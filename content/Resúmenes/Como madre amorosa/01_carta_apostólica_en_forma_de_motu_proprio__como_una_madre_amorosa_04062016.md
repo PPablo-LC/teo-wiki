@@ -16,7 +16,7 @@ tags: ["resumen", "como madre amorosa", "derecho_canónico", "protección_de_men
 - [[remoción_del_oficio_eclesiástico]] — medida disciplinar «por razones graves» ya prevista en el derecho canónico
 - [[negligencia_pastoral]] — falta grave de diligencia del obispo en el ejercicio de su función
 - [[abuso_sexual_de_menores]] — delito previsto en el [[sacramentorum_sanctitatis_tutela]]
-- [[adultos_vulnerables]] — personas cuya protección equipara al derecho la de los menores
+- [[adulto_vulnerable]] — personas cuya protección equipara al derecho la de los menores
 - [[investigación_pontificia]] — procedimiento a cargo de las congregaciones curiales competentes
 - [[decreto_de_remoción]] — acto con el que la congregación destituye al obispo negligente
 - [[colegio_especial_de_juristas]] — órgano que asiste al Pontífice antes de la decisión definitiva

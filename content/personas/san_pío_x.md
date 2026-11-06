@@ -47,11 +47,11 @@ San Pío X fue un papa de transición entre dos épocas. Combatió el modernismo
 
 ## Relaciones
 
-[[modernismo]], [[pascendi]], [[lamentabili]], [[comunión_frecuente]], [[eucaristía]], [[sacramento_del_matrimonio]], [[sagrada_escritura]], [[benito_xv]]
+[[modernismo]], [[pascendi]], [[lamentabili]], [[comunión_frecuente]], [[eucaristía]], [[sacramento_del_matrimonio]], [[sagrada_escritura]], [[benedicto_xv]]
 
 ## Ver también
 
-[[modernismo]], [[pascendi]], [[comunión_frecuente]], [[ne_temere]], [[benito_xv]], [[santo_tomás_de_aquino]]
+[[modernismo]], [[pascendi]], [[comunión_frecuente]], [[ne_temere]], [[benedicto_xv]], [[santo_tomás_de_aquino]]
 
 ## Referencias
 

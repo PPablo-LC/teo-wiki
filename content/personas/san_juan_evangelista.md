@@ -67,7 +67,7 @@ En la Última Cena, Juan se identifica como «el discípulo a quien Jesús amaba
 - [[san_mateo]]
 - [[san_marcos]]
 - [[san_lucas]]
-- [[san_irineo_de_león]]
+- [[ireneo_de_lion]]
 - [[clemente_de_alejandría]]
 - [[apocalipsis]]
 - [[cartas_joánicas]]

@@ -50,11 +50,11 @@ Además, en el capítulo sobre la Eucaristía, el Concilio exhorta a los pastore
 
 ## Relaciones doctrinales
 
-Se relaciona con [[participación_activa]] como fin de la educación litúrgica, con [[reforma_litúrgica]] como contexto en el que se inscribe, con [[mistagogia]] como método catequético propio de la liturgia, y con [[sacerdocio_común_de_los_fieles]] como fundamento bautismal del derecho a participar.
+Se relaciona con [[participación_activa]] como fin de la educación litúrgica, con [[reforma_litúrgica]] como contexto en el que se inscribe, con [[mistagogía]] como método catequético propio de la liturgia, y con [[sacerdocio_común_de_los_fieles]] como fundamento bautismal del derecho a participar.
 
 ## Ver también
 
-[[participación_activa]], [[reforma_litúrgica]], [[mistagogia]], [[sacerdocio_común_de_los_fieles]], [[catequesis_litúrgica]]
+[[participación_activa]], [[reforma_litúrgica]], [[mistagogía]], [[sacerdocio_común_de_los_fieles]], [[catequesis_litúrgica]]
 
 ## Referencias
 

@@ -29,7 +29,7 @@ Como sucesor del fundador [[marcial_maciel]] y primer Director General, el cargo
 - [[eduardo_robles_gil]] (último Director General antes de la intervención)
 - [[sylvester_heereman]] (como Delegado Pontificio y posteriormente Director General)
 - [[alvaro_corcuera]] (Director General durante el proceso de renovación)
-- [[john_conner]], [[jorge_lópez]], directores generales recientes
+- [[john_connor]], [[jorge_lópez]], directores generales recientes
 
 ## Ver también
 

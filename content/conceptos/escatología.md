@@ -80,7 +80,6 @@ Bishop Robert Barron dedica la Lección 10 completa ("Mundo sin fin") a la escat
 
 > «El infierno es real porque la libertad es real — la posibilidad del rechazo definitivo de Dios» (WoF, L10)
 
-
 ### Según el Pórtico de la Biblia (PdB)
 
 La cronología de la Nueva Alianza del PdB se presenta como una cronología «abierta», porque «la historia de la salvación continúa en la vida de la Iglesia y continuará hasta el final de los tiempos, cuando Jesús regrese en su segunda venida». La infografía del Apocalipsis presenta la historia narrada así: «Dios desvela cómo dirige los destinos del mundo y de la Iglesia, y muestra que el mal no tendrá la última palabra al final de los tiempos». En Cristo, Dios ha vencido al mal: «El Señor, en su segunda venida, establecerá su Reino para siempre» [PdB, Apocalipsis].
@@ -119,6 +118,12 @@ El número monográfico sobre las postrimerías aporta perspectivas metodológic
 - **La certeza del futuro por una realidad presente.** Volantone di Pasqua 1996: «La speranza è una certezza nel futuro in forza di una realtà presente… è la presenza di Cristo, resa nota dalla memoria, che ci rende certi del futuro» (04, 35).
 - **El fin que solo el Padre conoce.** Frente al odio del mundo, el pequeño rebaño escucha: «Non temere, piccolo gregge, io ho vinto il mondo» (Gv 16,33); del día y la hora «nessuno lo sa… ma solo il Padre» (Mt 24,36) (03, 131).
 - **La ambigüedad del deseo de muerte.** El hombre, creado para la felicidad, «desidera la morte» (Sap 1,13-16; 03, 167): la escatología cristiana responde a ese «odio alla vita» mostrando que «l'uomo è fatto per un destino che è chiamato a possedere» (03, 63-71).
+
+### Según Word on Fire (WOF)
+
+La homilía sobre Ap 21,22 propone leer el Apocalipsis no como predicción literal de los tiempos finales ni como rompecabezas literario, sino como presentación simbólica y narrativa del sentido de la muerte y resurrección de Cristo. El juicio sobre el mundo viejo —plagas, hambre, guerra, fuego, terremotos— es la valoración del poder de la cruz: cuanto contribuyó a la muerte del Hijo del hombre —egoísmo, poder, ambición, violencia, chivo expiatorio, estupidez— está bajo juicio y pasa, como se derriba un edificio para dejar sitio a la obra nueva.
+
+La Jerusalén que baja del cielo como una novia evoca el mundo como Dios lo quiere, y su detalle más llamativo es negativo: «no vi templo en la ciudad, porque su templo es el Señor Dios todopoderoso y el Cordero». Tillich da la clave: la señal más segura del pecado original es que haya una iglesia junto al tribunal, el teatro y los negocios, es decir, una «religión» convertida en compartimento entre otros. Puesto que Dios no es *un* ser sino aquello que sostiene el universo como el cantor sostiene la canción, en la ciudad rectamente ordenada no hace falta un templo separado: toda ella está empapada de Dios y toda ella es lugar de culto. El abogado que busca la justicia, el médico que ama al enfermo, el periodista que dice la verdad y la cantante que se enamora de la belleza están, quizá sin saberlo, en el coro de la Jerusalén celestial.
 
 ## Distinciones importantes
 

@@ -40,7 +40,7 @@ Las obras de caridad son el criterio del juicio final (Mt 25,31-46) y la prueba 
 
 ## Ver también
 
-[[san_camillo_de_lellis]], [[san_giuseppe_benedetto_cottolengo]], [[san_juan_bosco]], [[tomás_moro]], [[caridad]]
+[[san_camilo_de_lelis]], [[san_giuseppe_benedetto_cottolengo]], [[san_juan_bosco]], [[tomás_moro]], [[caridad]]
 
 ## Referencias
 

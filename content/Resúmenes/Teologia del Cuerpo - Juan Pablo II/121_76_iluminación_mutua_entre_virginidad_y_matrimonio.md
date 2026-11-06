@@ -21,7 +21,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[gravamen]] — el gravamen de la decisión sobre las nobles inclinaciones
 - [[contraste_con_el_principio]] — el matiz con el principio mismo
 - [[duplicidad_del_hombre]] — «no es bueno que el hombre esté solo» (Gén 2, 18)
-- [[comemplementariedad]] — la iluminación mutua entre ambos estados
+- [[complementariedad]] — la iluminación mutua entre ambos estados
 - [[camino_privilegiado]] — la continencia como válida y privilegiada
 - [[reino_de_dios]] — el cumplimiento futuro y la eficacia presente
 -[[don]] — el don como llamada y decisión personal

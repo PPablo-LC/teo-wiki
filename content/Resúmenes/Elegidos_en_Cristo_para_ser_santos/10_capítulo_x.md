@@ -55,9 +55,9 @@ tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "conc
 - [[lumen_gentium]] — la Iglesia, signo e instrumento de salvación
 - [[cristo_camino]] — la identificación con Cristo como meta de la vida moral
 - [[san_pablo]] — doctrina bíblica de la conciencia (syneídêsis)
-- [[san_agustín]] — interpretación de Rm 14, 23 sobre la conciencia
+- [[agustín_de_hipona]] — interpretación de Rm 14, 23 sobre la conciencia
 - [[santo_tomás_de_aquino]] — la conciencia como acto valorativo de la razón práctica
-- [[san_alfonso_de_ligorio]] — moralista y espiritual de la tradición casuística
+- [[san_alfonso_maría_de_ligorio]] — moralista y espiritual de la tradición casuística
 - [[san_jerónimo]] — fuente de la doctrina de la conciencia en Santo Tomás
 - [[juan_pablo_ii]] — Veritatis splendor; discurso sobre la conciencia (17-VIII-1983)
 - [[benedicto_xvi]] — estudio sobre la conciencia y la verdad

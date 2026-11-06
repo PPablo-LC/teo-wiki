@@ -15,7 +15,7 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 - [[genio_femenino]] — capacidad particular de acoger a la persona concreta
 - [[mulieris_dignitatem]] — referencias al genio femenino (nn. 18 y 30)
 - [[maternidad]] — acogida de la persona concreta, no sólo física sino afectiva y espiritual
-- [[signo_de_los_tiempos]] — creciente reconocimiento del papel de la mujer
+- [[signos_de_los_tiempos]] — creciente reconocimiento del papel de la mujer
 - [[bodas_de_caná]] — detalle sugestivo de la personalidad de María en el Evangelio de Juan
 
 ## Contenido

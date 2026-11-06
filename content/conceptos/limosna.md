@@ -72,6 +72,14 @@ quien libera del pecado.
 respuesta viene de una participante que expone su participación en la asociación
 *Famiglie per l'Accoglienza* (01, 301).
 
+### Según Lenten Gospel Reflections 2022 (LGR22)
+
+La limosna se presenta como la tercera de las prácticas cuaresmales, pero el volumen la desarrolla sobre todo en clave de amor effective al prójimo. El juicio de las naciones (Mt 25,31-46) es su texto mayor: tuve hambre, sed, era forastero, estaba desnudo, enfermo, preso; lo que se hizo a uno de los pequeños se hizo a Cristo. Barron subraya que el amor absoluto a Dios no compite con el compromiso radical con los hermanos, porque Dios no es un ser entre otros, sino el fundamento mismo de la existencia. La parábola del rico y Lázaro (Lc 16,19-31) añade la dimensión social: a Dios no le agrada la desigualdad y arde por poner las cosas en orden. Con Tomás de Aquino, la fuente distingue propiedad y uso: el derecho a poseer es legítimo, pero en el uso hay que buscar primero el bien común. Y la «física» del orden espiritual —la vida divina solo se posee en la medida en que se da— convierte la limosna en expresión de una ley más amplia que la obligación: el don recibido solo se conserva entregándolo.
+
+### Según Lenten Gospel Reflections 2024 (LGR24)
+
+En 2024 la limosna vuelve a enmarcarse en las tres prácticas que se hacen, con el acento puesto en la corporalidad y en la exterioridad de la vida cuaresmal. El juicio de las naciones (Mt 25,31-46) repite la lista de las obras de misericordia y la identificación de Cristo con los pequeños. La parábola del rico y Lázaro (Lc 16,19-31) recibe un matiz propio: el rico no tiene nombre, y el detalle es significativo, porque en el mundo antiguo eran los poderosos quienes merecían ser nombrados; la inversión del más allá —Lázaro en el seno de Abraham, el rico en el abismo— subvierte la expectativa de que la prosperidad sea bendición y la miseria castigo. La pregunta que la meditación deja abierta es directa: ¿cuánto nos importan los pobres? El comentario al hijo pródigo aporta además la «ley del don» de Juan Pablo II —el ser crece en la medida en que se entrega—, que da a la limosna su fundamento antropológico: frente al *chora makra*, el gran vacío de la posesión, la casa del Padre es el lugar donde los bienes están permanentemente ofrecidos.
+
 ## Distinciones importantes
 
 - **Limosna de precepto vs. de consejo:** La primera obliga en necesidad extrema con lo superfluo; la segunda es voluntaria.

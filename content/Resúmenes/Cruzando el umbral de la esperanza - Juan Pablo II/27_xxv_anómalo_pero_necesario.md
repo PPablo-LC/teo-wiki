@@ -14,13 +14,13 @@ tags: ["resumen", "cruzando el umbral de la esperanza"]
 
 - [[concilio_vaticano_ii|Concilio Vaticano II]] — concilio «anómalo» por su estilo no defensivo
 - [[catecismo_de_la_iglesia_católica|Catecismo de la Iglesia Católica]] — fruto del Sínodo extraordinario de 1985
-- [[diálogo_de_salvación|diálogo de salvación]] — apertura universal propia del espíritu conciliar
+- [[diálogo_de_la_salvación|diálogo de salvación]] — apertura universal propia del espíritu conciliar
 
 ## Contenido
 
 El Vaticano II fue necesario no para contrarrestar una herejía concreta, como los concilios primeros, sino para poner en marcha un proceso bipolar: sacar al cristianismo de las divisiones acumuladas durante el milenio y reanudar, cuanto sea posible en común, la misión evangélica al umbral del tercer milenio.
 
-Se distingue de los precedentes por su particular **estilo**: no defensivo —en ningún documento aparece *anathema sit*— sino ecuménico, de gran apertura al diálogo que Pablo VI llamaba «[[diálogo_de_salvación|diálogo de salvación]]», abierto no sólo a los cristianos sino a las religiones no cristianas, al mundo de la cultura e incluso al mundo de los no creyentes: la verdad no acepta límites; realizada en la caridad (Ef 4,15) se hace aún más universal. Este estilo y espíritu son la verdad esencial del Concilio, no las controversias entre «progresistas» y «conservadores», políticas y no religiosas; seguirá siendo reto para las Iglesias y tarea para cada uno.
+Se distingue de los precedentes por su particular **estilo**: no defensivo —en ningún documento aparece *anathema sit*— sino ecuménico, de gran apertura al diálogo que Pablo VI llamaba «[[diálogo_de_la_salvación|diálogo de salvación]]», abierto no sólo a los cristianos sino a las religiones no cristianas, al mundo de la cultura e incluso al mundo de los no creyentes: la verdad no acepta límites; realizada en la caridad (Ef 4,15) se hace aún más universal. Este estilo y espíritu son la verdad esencial del Concilio, no las controversias entre «progresistas» y «conservadores», políticas y no religiosas; seguirá siendo reto para las Iglesias y tarea para cada uno.
 
 Los sínodos posconciliares —generales, diocesanos, provinciales— han acogido ese reto; los sínodos diocesanos, libres ya de unilateralidad clerical, expresan la responsabilidad de todos hacia la Iglesia, fuente de renovación ante el nuevo milenio.
 

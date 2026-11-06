@@ -18,7 +18,7 @@ El encuentro personal con Cristo es el acontecimiento fundante de la vida cristi
 
 El encuentro con el Cristo vivo es lo que la [[evangelización]] busca provocar: el anuncio del [[kerygma]] — «arrepentíos y creed en la Buena Nueva» (Mc 1,15) — invita a los que aún no son cristianos a «creer y convertirse libremente al Señor». El encuentro transforma: historia tras historia, los encuentros con Cristo rehacen vidas — «Sígueme, y os haré pescadores de hombres» (Mt 4,19); «si no cambiáis y os hacéis como niños, no entraréis en el reino de los cielos» (Mt 18,3); «quien no nazca del agua y del Espíritu no puede entrar en el reino de Dios» (Jn 3,5); «Señor, ¿a quién iremos? Solo tú tienes palabras de vida eterna» (Jn 6,68) (EAC-18, 12). En la tradición, el encuentro se narra además como reconocimiento eucarístico: en la fracción del pan de Emaús los discípulos reconocen a Cristo resucitado, y la estructura de la Misa — Palabra, Eucaristía, envío en misión — es el icono de ese encuentro que sigue convirtiendo.
 
-Magisterialmente, el encuentro no es un momento aislado sino el objetivo esencial de la vida cristiana eclesial: la [[mistagogia]] — el período post-bautismal en que la comunidad y los neófitos profundizan en el Misterio Pascual (RCIA 244) — tiene como horizonte la participación continua en el encuentro eucarístico (EAC-18, 16; 21).
+Magisterialmente, el encuentro no es un momento aislado sino el objetivo esencial de la vida cristiana eclesial: la [[mistagogía]] — el período post-bautismal en que la comunidad y los neófitos profundizan en el Misterio Pascual (RCIA 244) — tiene como horizonte la participación continua en el encuentro eucarístico (EAC-18, 16; 21).
 
 ## Perspectivas por fuente
 
@@ -47,7 +47,7 @@ El encuentro personal con Cristo es la clave de la introducción de ODPC: «Cris
 - Se relaciona con el [[kerygma]], primer anuncio que despierta la fe, y con la [[evangelización]], que invita al encuentro
 - Se ordena al [[discipulado]] y al [[seguimiento_de_cristo]]: el encuentro rehace vidas y reconfigura el yo
 - Se expresa y se sostiene en la [[eucaristía]] ([[presencia_real]], fracción del pan de Emaús) y en la vida del [[cuerpo_místico]]
-- Se integra en el [[catecumenado]] y el [[rito_de_iniciación_cristiana_de_adultos]], y se profundiza en la [[mistagogia]]
+- Se integra en el [[catecumenado]] y el [[rito_de_iniciación_cristiana_de_adultos]], y se profundiza en la [[mistagogía]]
 - Se distingue de la adhesión puramente intelectual: importa inmenso acertar con la [[doctrina]], pero el cristianismo comienza por el encuentro con una persona
 
 ## Ver también
@@ -62,7 +62,7 @@ El encuentro personal con Cristo es la clave de la introducción de ODPC: «Cris
 - [[cuerpo_místico]]
 - [[catecumenado]]
 - [[rito_de_iniciación_cristiana_de_adultos]]
-- [[mistagogia]]
+- [[mistagogía]]
 
 ## Referencias
 

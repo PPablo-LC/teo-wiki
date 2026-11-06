@@ -25,7 +25,7 @@ Para Giussani el diálogo no es solo un género literario sino la condición mis
 
 ## Relaciones
 
-[[ecumenismo]], [[diálogo_interreligioso]], [[verdad]], [[caridad]], [[concilio_vaticano_ii]], [[respecto]], [[tolerancia]]
+[[ecumenismo]], [[diálogo_interreligioso]], [[verdad]], [[caridad]], [[concilio_vaticano_ii]], [[respeto]], [[tolerancia]]
 
 ## Ver también
 

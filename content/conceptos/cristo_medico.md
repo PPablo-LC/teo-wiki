@@ -98,7 +98,7 @@ Se relaciona con [[cristo_sacerdote]], [[cura_de_almas]], [[confesión]],
 
 ## Ver también
 
-[[cristo_sacerdote]], [[cristo_maestro]], [[pastor]], [[cura_de_almas]],
+[[cristo_sacerdote]], [[cristo_maestro]], [[pastor_y_rebaño]], [[cura_de_almas]],
 [[confesión]], [[misericordia]], [[iglesia]], [[sacramentos]]
 
 ## Referencias

@@ -22,7 +22,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[fuerza]] — el fuerte de Israel
 - [[roca]] — la roca de Israel
 - [[rey]] — el rey de Israel
-- [[redenccion]] — el redentor de Israel
+- [[redención]] — el redentor de Israel
 - [[designio_de_dios]] — el designio de salvación
 - [[servir]] — el servidor de Yahveh
 - [[elección]] — el elegido de Yahveh
@@ -65,7 +65,7 @@ Israel tiene como estructura nacional fundamental a las doce tribus que llevan e
 
 ### Yahveh Dios de Israel e Israel pueblo de Yahveh.
 
-Por la alianza se ligó Dios en cierto modo con Israel: él es el [[dios|Dios]] *Is 17,6* *Jer 7,3* *Ez 8,4*, el [[santo|santo]] *Is 1,4* *44,14* *Sal 89,19*, el [[fuerza|fuerte]] *Is 1,25*, la [[roca|roca]] *Is 30,29*, el [[rey|rey]] *Is 43,15*, el [[redenccion|redentor]] *Is 44,6* de Israel. El [[dios|Dios]] de la revelación entra así en la historia de las religiones como el Dios particular de Israel. Por su parte, sólo a Israel elige para hacerlo depositario de su [[designio_de_dios|designio]] de salvación. También en este sentido son significativos los títulos dados a Israel: es el [[pueblo|pueblo]] de Yahveh *Is 1,3* *Am 7,8* *Jer 12,14* *Ez 14,9* *Sal 50,7*, su [[servir|servidor]] *Is 44,21*, su [[elección|elegido]] *Is 45,4*, su [[hijo|hijo]] primogénito *Ex 4,22* *Os 11,1*, su bien sagrado *Jer 2,3*, su [[herencia|herencia]] *Is 19,25*, su rebaño *Sal 95,7*, su [[viña|viña]] *Is 5,7*, su posesión *Sal 114,2*, su [[esposo|esposa]] *Os 2,4*... Israel no pertenece por tanto sólo a la historia política de la humanidad: se halla por elección divina en el centro de la historia sagrada.
+Por la alianza se ligó Dios en cierto modo con Israel: él es el [[dios|Dios]] *Is 17,6* *Jer 7,3* *Ez 8,4*, el [[santo|santo]] *Is 1,4* *44,14* *Sal 89,19*, el [[fuerza|fuerte]] *Is 1,25*, la [[roca|roca]] *Is 30,29*, el [[rey|rey]] *Is 43,15*, el [[redención|redentor]] *Is 44,6* de Israel. El [[dios|Dios]] de la revelación entra así en la historia de las religiones como el Dios particular de Israel. Por su parte, sólo a Israel elige para hacerlo depositario de su [[designio_de_dios|designio]] de salvación. También en este sentido son significativos los títulos dados a Israel: es el [[pueblo|pueblo]] de Yahveh *Is 1,3* *Am 7,8* *Jer 12,14* *Ez 14,9* *Sal 50,7*, su [[servir|servidor]] *Is 44,21*, su [[elección|elegido]] *Is 45,4*, su [[hijo|hijo]] primogénito *Ex 4,22* *Os 11,1*, su bien sagrado *Jer 2,3*, su [[herencia|herencia]] *Is 19,25*, su rebaño *Sal 95,7*, su [[viña|viña]] *Is 5,7*, su posesión *Sal 114,2*, su [[esposo|esposa]] *Os 2,4*... Israel no pertenece por tanto sólo a la historia política de la humanidad: se halla por elección divina en el centro de la historia sagrada.
 
 ### Israel y Judá.
 

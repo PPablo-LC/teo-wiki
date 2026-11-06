@@ -102,17 +102,17 @@ Molla y Frassati introducen la relación entre santidad,
 Los doce resúmenes generados a partir de la fuente están en
 `wiki/Resúmenes/Retratos de santos - Antonio Maria Sicari/`:
 
-1. [[introducción_la_santidad_del_cristiano]] — «La santidad del cristiano»
+1. [[01_introducción_la_santidad_del_cristiano]] — «La santidad del cristiano»
 2. [[advertencia]] — «Advertencia»
-3. [[catalina_de_siena]] — «Catalina de Siena»
-4. [[juana_de_arco]] — «Juana de Arco»
-5. [[teresa_de_jesús]] — «Teresa de Jesús»
-6. [[juan_de_la_cruz]] — «Juan de la Cruz»
-7. [[josé_moscati]] — «José Moscati»
-8. [[juan_de_dios]] — «Juan de Dios»
-9. [[luis_gonzaga]] — «Luis Gonzaga»
-10. [[josé_rafael_kalinowski]] — «José Rafael Kalinowski»
-11. [[juana_beretta_molla]] — «Juana Beretta Molla»
+3. [[03_catalina_de_siena]] — «Catalina de Siena»
+4. [[04_juana_de_arco]] — «Juana de Arco»
+5. [[05_teresa_de_jesús]] — «Teresa de Jesús»
+6. [[06_juan_de_la_cruz]] — «Juan de la Cruz»
+7. [[07_josé_moscati]] — «José Moscati»
+8. [[08_juan_de_dios]] — «Juan de Dios»
+9. [[09_luis_gonzaga]] — «Luis Gonzaga»
+10. [[10_josé_rafael_kalinowski]] — «José Rafael Kalinowski»
+11. [[11_juana_beretta_molla]] — «Juana Beretta Molla»
 12. [[pier_giorgio_frassati]] — «Pier Giorgio Frassati»
 
 ## Ver también

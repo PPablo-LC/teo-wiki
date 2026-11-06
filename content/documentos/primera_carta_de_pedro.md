@@ -18,7 +18,7 @@ tags: ["teología_bíblica", "exégesis", "epístolas_católicas", "esperanza_cr
 - **Editorial**: Zondervan / Word Publishing, 1989
 - **Código**: 1Pet
 - **Fuente**: `raw/Bases_doctrinales-raw/1_peter_capitulos/` (9 archivos, en inglés)
-- **Índice raw**: [[raw/Bases_doctrinales-raw/1_peter_capitulos/índice]]
+- **Índice raw**: `raw/Bases_doctrinales-raw/1_peter_capitulos/índice.md`
 
 ## Contenido
 

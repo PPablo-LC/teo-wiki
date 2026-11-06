@@ -17,7 +17,7 @@ Ciudad símbolo del poder mundano y de la rebelión contra Dios en la Escritura.
 
 ## Ver también
 
-[[jerusalén_celestial]], [[apocalipsis]], [[exilio]], [[juicio_final]], [[babel]]
+[[nueva_jerusalen]], [[apocalipsis]], [[exilio]], [[juicio_final]], [[babel]]
 
 ## Referencias
 

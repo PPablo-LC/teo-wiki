@@ -49,7 +49,7 @@ Papías atestigua que Marcos fue el intérprete de Pedro y que escribió con fid
 ## Ver también
 
 - [[autoría_de_los_evangelios]]
-- [[san_irineo_de_león]]
+- [[ireneo_de_lion]]
 - [[clemente_de_alejandría]]
 - [[eusebio_de_cesárea]]
 - [[evangelios]]

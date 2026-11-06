@@ -12,8 +12,8 @@ tags: ["resumen", "ratio_studiorum", "sapientia_christi", "casas_de_formación"]
 
 ## Conceptos básicos referenciados
 
-- [[casas_de_formación]] — Lugares donde se vive la formación académica
-- [[centros_vocacionales]] — Una de las casas de formación
+- [[casa_de_formación]] — Lugares donde se vive la formación académica
+- [[centro_vocacional]] — Una de las casas de formación
 - [[noviciado]] — Casa de formación donde comienza la vida en el instituto
 - [[formación_intelectual]] — Formación que se imparte en las casas de formación
 - [[comunidad_educativa]] — La casa de formación como comunidad educativa en camino

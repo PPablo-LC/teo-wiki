@@ -12,7 +12,7 @@ tags: ["resumen", "case for jesus"]
 
 ## Conceptos básicos referenciados
 
-- [[transcripción|transcripciones enriquecidas]] — base textual de cada sesión para el análisis
+- [[05_transcripción|transcripciones enriquecidas]] — base textual de cada sesión para el análisis
 
 ## Contenido
 

@@ -64,7 +64,7 @@ sí, sino los unos por los otros, o quizá los unos en lugar de los otros,
 
 ## Ver también
 
-[[san_camillo_de_lellis]], [[san_juan_maría_vianney]], [[san_giuseppe_benedetto_cottolengo]], [[tomás_moro]], [[benedetta_bianchi_porro]]
+[[san_camilo_de_lelis]], [[san_juan_maría_vianney]], [[san_giuseppe_benedetto_cottolengo]], [[tomás_moro]], [[benedetta_bianchi_porro]]
 
 ## Referencias
 

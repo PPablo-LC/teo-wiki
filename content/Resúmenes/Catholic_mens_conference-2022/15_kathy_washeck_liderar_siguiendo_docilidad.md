@@ -30,7 +30,7 @@ Kathy Washeck se presenta y anuncia el tema: la [[prudencia]] entendida como doc
 La docilidad no es sumisión pasiva (el estereotipo del "perrito dócil"), sino una virtud activa: apertura mental a la mejora continua, autoconciencia y aprendizaje. Implica disposición a aceptar [[feedback]], seguir a otros y buscar buen consejo. Es una elección deliberada, no una sumisión automática.
 
 ## Rasgos del buen seguidor
-Lee los rasgos del buen seguidor: [[lealtad]], adaptabilidad, [[amabilidad]], [[paciencia]], [[obediencia]] y [[humildad]]. Configuran un carácter que sabe seguir para saber liderar.
+Lee los rasgos del buen seguidor: [[fidelidad]], adaptabilidad, [[amabilidad]], [[paciencia]], [[obediencia]] y [[humildad]]. Configuran un carácter que sabe seguir para saber liderar.
 
 ## Relación líder-seguidor
 Cita a Derek Derosa: los seguidores dan propósito al líder. Líderes y seguidores son interdependientes — sin seguidores, ¿cuál es el propósito de un líder?

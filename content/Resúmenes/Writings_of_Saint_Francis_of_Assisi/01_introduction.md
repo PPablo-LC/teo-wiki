@@ -12,7 +12,7 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-- [[san_francis_de_asis]] — Autor de los escritos; su personalidad mística y humana
+- [[san_francisco_de_asís]] — Autor de los escritos; su personalidad mística y humana
 - [[vía_mística]] — Los escritos reflejan la unión entre lo sobrenatural y lo natural
 - [[ascética_franciscana]] — Tradición literaria que nace de los escritos del Fundador
 - [[sagrada_escritura]] — Base doctrinal de la enseñanza franciscana (Sermón de la Montaña)

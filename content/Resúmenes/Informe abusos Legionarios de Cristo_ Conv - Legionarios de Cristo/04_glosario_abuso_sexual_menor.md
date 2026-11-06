@@ -19,7 +19,7 @@ tags: ["resumen", "espiritualidad_legionaria", "glosario", "proteger_y_sanar", "
 - [[derecho_propio]] — Legislación propia instituto vida consagrada (vs. derecho común = legislación canónica universal).
 - [[derecho_canónico]] — Legislación general Iglesia Católica.
 - [[encubrimiento]] — Omisión/ocultamiento información acción delictiva conocida, omisión acciones debidas reportar/evitar repetición, acciones entorpecer justicia.
-- [[comité_revisión]] — Panel consultivo superior mayor; aconseja evaluar denuncias abuso sexual menores y sanciones.
+- [[comité_de_revisión]] — Panel consultivo superior mayor; aconseja evaluar denuncias abuso sexual menores y sanciones.
 - [[justicia_restaurativa]] — Proceso restauración orden social y reparación daño/agravio; diálogo/encuentro vs confrontación; víctima protagonista, responsabilización infractor, reconocimiento daño. Herramientas: mediación, encuentros restaurativos, círculos escucha, comisiones verdad. Trascendencia paradigmas punitivos/retributivos.
 - [[límites]] — Criterio prudencial (condicionado cultura) determinante actuación apropiada/no en relación personas, especialmente con desigualdad (médico-paciente, ministro-fiel, etc.). Clasificación: físicos (quién toca, dónde, cuánto), emocionales (cercanía/intimidad aceptable, tiempo, información compartida), conductuales (qué hace/no hace por principios/convicciones).
 - [[menor]] — Persona <18 años o legalmente equiparada.

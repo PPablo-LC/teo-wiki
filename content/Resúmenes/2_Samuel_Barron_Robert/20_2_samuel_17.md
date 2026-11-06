@@ -18,7 +18,7 @@ tags: ["resumen", "2 samuel barron robert"]
 - [[david]] — Protegido por Dios para cumplir las promesas.
 - [[providencia]] — «El Señor había ordenado frustrar el buen consejo de Ahitofel...» (2 Sam 17:14).
 - [[oración]] — Respondida por Dios mediante la astucia de Husai.
-- [[lealtad]] — Amigos fieles ayudan a David en el desierto.
+- [[fidelidad]] — Amigos fieles ayudan a David en el desierto.
 - [[venganza]] — Ahitofel busca matar a David por Bathsebé.
 - [[desesperación]] — Lleva a Ahitofel al suicidio.
 - [[guerra]] — Se prepara la batalla decisiva en el bosque de Efraín.

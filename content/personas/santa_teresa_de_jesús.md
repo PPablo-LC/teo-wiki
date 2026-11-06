@@ -35,7 +35,7 @@ Aparece en el Índice Onomástico con más de 100 referencias. Es la autoridad e
 - [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]]
 
 ## Ver también
-[[san_juan_de_la_cruz]], [[san_francisco_de_sales]], [[san_agustín]]
+[[san_juan_de_la_cruz]], [[san_francisco_de_sales]], [[agustín_de_hipona]]
 
 ### Según Sicari (AMS)
 

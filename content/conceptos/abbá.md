@@ -64,7 +64,7 @@ Benedicto XVI destaca que «la palabra Hijo, con su correspondiente de Padre-Abb
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[filiación_divina]] (como fundamento de la filiación adoptiva del cristiano), la [[oración_de_jesús]] (el Abbá en Getsemaní y en toda su vida de oración), la [[trinidad]] (conocimiento recíproco Padre-Hijo del que emana el Amor), el [[hijo_de_dios]] (conciencia de Jesús de ser el Hijo unigénito), [[imagen_vital_de_jesús]] (el Abbá como rasgo esencial de la imagen de Jesús) y [[reinado_de_dios]] (la causa que el Abbá confía a Jesús).
+Se relaciona con la [[filiación_divina]] (como fundamento de la filiación adoptiva del cristiano), la [[oración_de_jesús]] (el Abbá en Getsemaní y en toda su vida de oración), la [[trinidad]] (conocimiento recíproco Padre-Hijo del que emana el Amor), el [[hijo_de_dios]] (conciencia de Jesús de ser el Hijo unigénito), [[imagen_vital_de_jesús]] (el Abbá como rasgo esencial de la imagen de Jesús) y [[reino_de_dios]] (la causa que el Abbá confía a Jesús).
 
 ## Ver también
 

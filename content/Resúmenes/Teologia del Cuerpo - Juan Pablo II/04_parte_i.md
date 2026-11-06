@@ -12,7 +12,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[principios_del_amor_humano]] — primera parte del ciclo de catequesis
+- [[05_principios_del_amor_humano]] — primera parte del ciclo de catequesis
 - [[teología_del_cuerpo]] — marco doctrinal
 
 ## Contenido

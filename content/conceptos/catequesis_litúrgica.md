@@ -34,11 +34,11 @@ La catequesis litúrgica no es una enseñanza teórica sobre la liturgia, sino u
 
 ## Relaciones doctrinales
 
-Se relaciona con [[liturgia]], [[mistagogia]], [[catequesis]], [[educación_litúrgica]], [[sacrosanctum_concilium]], [[iniciación_cristiana]], [[participación_activa]], [[año_litúrgico]].
+Se relaciona con [[liturgia]], [[mistagogía]], [[catequesis]], [[educación_litúrgica]], [[sacrosanctum_concilium]], [[iniciación_cristiana]], [[participación_activa]], [[año_litúrgico]].
 
 ## Ver también
 
-[[liturgia]], [[mistagogia]], [[catequesis]], [[iniciación_cristiana]]
+[[liturgia]], [[mistagogía]], [[catequesis]], [[iniciación_cristiana]]
 
 ## Referencias
 

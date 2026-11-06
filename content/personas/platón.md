@@ -48,7 +48,7 @@ Platón es de importancia capital para la teología católica porque su filosof�
 
 ## Ver también
 
-[[justicia]], [[ley_natural]], [[subsidiariedad]], [[totalitarismo]], [[pecado_original]], [[santo_tomás_de_aquino]], [[san_agustín]], [[aristóteles]], [[sócrates]], [[abraham_lincoln]], [[robert_barron]], [[christopher_kaczor]]
+[[justicia]], [[ley_natural]], [[subsidiariedad]], [[totalitarismo]], [[pecado_original]], [[santo_tomás_de_aquino]], [[agustín_de_hipona]], [[aristóteles]], [[sócrates]], [[abraham_lincoln]], [[robert_barron]], [[christopher_kaczor]]
 
 ## Referencias
 

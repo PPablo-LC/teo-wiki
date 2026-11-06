@@ -73,7 +73,7 @@ Se relaciona con [[nominalismo]], [[moral_de_los_manuales]], [[moral_de_la_oblig
 
 ## Ver también
 
-[[moral_escolástica]], [[moral_patrística]], [[teología_moral]], [[nominalismo]], [[ockham]]
+[[moral_escolástica]], [[moral_patrística]], [[teología_moral]], [[nominalismo]], [[guillermo_de_ockham]]
 
 ## Referencias
 

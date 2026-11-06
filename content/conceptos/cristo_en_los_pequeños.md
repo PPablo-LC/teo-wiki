@@ -42,7 +42,7 @@ Dos capítulos documentan la fórmula en estado puro:
 
 ## Ver también
 
-[[cristo_en_nosotros]], [[obras_de_caridad]], [[opción_preferencial_por_los_pobres]], [[dignidad_de_la_persona_enferma]], [[caridad]], [[juicio_final]], [[cuerpo_místico_de_cristo]], [[obras_de_misericordia]], [[san_camillo_de_lellis]], [[san_giuseppe_benedetto_cottolengo]]
+[[cristo_en_nosotros]], [[obras_de_caridad]], [[opción_preferencial_por_los_pobres]], [[dignidad_de_la_persona_enferma]], [[caridad]], [[juicio_final]], [[cuerpo_místico_de_cristo]], [[obras_de_misericordia]], [[san_camilo_de_lelis]], [[san_giuseppe_benedetto_cottolengo]]
 
 ## Referencias
 

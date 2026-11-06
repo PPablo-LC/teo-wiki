@@ -57,7 +57,7 @@ En el *Diálogo con Trifón* (cap. 100) Justino fórmula por primera vez el para
 ## Ver también
 
 - [[papías_de_hierápolis]]
-- [[san_irineo_de_león]]
+- [[ireneo_de_lion]]
 - [[clemente_de_alejandría]]
 - [[autoría_de_los_evangelios]]
 - [[evangelios]]

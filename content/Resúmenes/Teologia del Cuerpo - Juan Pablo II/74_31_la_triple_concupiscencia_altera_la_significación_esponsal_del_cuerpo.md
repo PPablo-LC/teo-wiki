@@ -14,7 +14,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 - [[significado_esponsal_del_cuerpo]] — el significado esponsalicio como «medida del corazón»
 - [[triple_concupiscencia]] — la triple concupiscencia que limita y deforma
-- [[vergüena]] — la vergüena como experiencia secundaria y protectora
+- [[vergüenza]] — la vergüena como experiencia secundaria y protectora
 - [[dominio]] — «él te dominará» (Gén 3, 16) como consequencia
 - [[posesión]] — la relación de posesión del otro a modo de objeto
 - [[comunión_de_personas]] — la plena unidad espiritual de los dos sujetos

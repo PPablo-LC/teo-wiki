@@ -21,7 +21,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[mantenimiento]] — la función «positiva» del respeto al cuerpo
 -[[Cuerpo_de_Cristo]] — la eclesiología de 1 Cor 12
 -[[miembros_más_débiles]] — la mayor decencia para los que carecen de ella
-- [[fonrnicación]] — huir la fornicación
+- [[fornicación]] — huir la fornicación
 - [[senal]] — los signos de deber y dignidad del cuerpo
 - [[frutos_del_espíritu_santo]] — la fuerzainterior que fecunda la capacidad
 - [[cuerpo_humano]] — el cuerpo en la analogía eclesiológica

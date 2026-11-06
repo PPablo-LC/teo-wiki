@@ -18,7 +18,7 @@ timestamp: 2026-10-19
 
 ### El intelectualismo filosófico-teológico
 
-En su sentido propio, el intelectualismo se opone al [[voluntarismo]]. Para el intelectualismo tomista, el bien es anterior a la voluntad y la dirige: la ley natural se funda en la naturaleza racional del hombre, no en un decreto arbitrario de la voluntad divina. El [[voluntarismo]] de [[ockham]], en cambio, sostiene que Dios podría modificar la ley moral por su omnipotencia absoluta, incluso ordenar el odio a Dios, con lo que la bondad de los actos dependería primariamente de la voluntad divina y no de su naturaleza intrínseca.
+En su sentido propio, el intelectualismo se opone al [[voluntarismo]]. Para el intelectualismo tomista, el bien es anterior a la voluntad y la dirige: la ley natural se funda en la naturaleza racional del hombre, no en un decreto arbitrario de la voluntad divina. El [[voluntarismo]] de [[guillermo_de_ockham]], en cambio, sostiene que Dios podría modificar la ley moral por su omnipotencia absoluta, incluso ordenar el odio a Dios, con lo que la bondad de los actos dependería primariamente de la voluntad divina y no de su naturaleza intrínseca.
 
 Pinckaers considera que ese voluntarismo es la raíz de la [[moral_de_la_obligación]] y de la ruptura entre la teología moral y la tradición patrística. El intelectualismo, correctamente entendido, no niega la libertad ni la voluntad: afirma que la voluntad es una facultad que tiende al bien conocido, de modo que la razón práctica tiene un papel directivo y no meramente instrumental.
 
@@ -47,7 +47,7 @@ Tóth critica el intelectualismo como error pedagógico: reduce la formación a 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[voluntarismo]], [[sentimentalismo]], [[moral_de_la_obligación]], [[ley_natural]], [[ockham]], [[santo_tomás_de_aquino]], [[pedagogía_religiosa]], [[tihámer_tóth]], [[educación_del_carácter]]
+Se relaciona con [[voluntarismo]], [[sentimentalismo]], [[moral_de_la_obligación]], [[ley_natural]], [[guillermo_de_ockham]], [[santo_tomás_de_aquino]], [[pedagogía_religiosa]], [[tihámer_tóth]], [[educación_del_carácter]]
 
 ## Ver también
 

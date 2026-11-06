@@ -4,6 +4,7 @@ title: Santo Tomás de Aquino
 tags: ["persona"]
 
 timestamp: 2026-09-15
+aliases: ["San Tomás de Aquino", "san_tomás_de_aquino"]
 description: "Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia."
 ---
 # Santo Tomás de Aquino
@@ -12,7 +13,7 @@ description: "Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico
 > Última actualización: 2026-09-15
 
 ## Contexto histórico
-Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia. Nacido en el castillo de Roccasecca (Italia), estudió en Montecasino, Nápoles, París y Colonia, donde fue discípulo de San Alberto Magno. Es la cumbre de la escolástica medieval y el teólogo más influyente de la historia de la Iglesia.
+Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia. Nacido en el castillo de Roccasecca (Italia), estudió en Montecasino, Nápoles, París y Colonia, donde fue discípulo de San Alberto Magno. Es la cumbre de la escolástica medieval y el teólogo más influyente de la historia de la Iglesia; León XIII lo proclamó «Doctor Común» en *Aeterni Patris* (1879).
 
 ## Relevancia teológica
 Royo Marín afirma que es «indiscutiblemente la primera autoridad en Teología ascética y mística (Pío XI) y el maestro de todos los teólogos posteriores» (TPCr n.11). «Su obra ecuménica y su doctrina objetiva rebasan los moldes de una determinada escuela para convertirle en el Doctor Común y Universal, como le llama la Iglesia».
@@ -68,18 +69,33 @@ Además, el número lo recoge en su sección de meditación (23_parting_thoughts
 
 ## Vida y perfil según St Thomas Aquinas: Teacher of Truth (STA)
 
-La introducción de F. J. Selman ([[st_thomas_aquinas_teacher_of_truth]]) traza la vida y el perfil intelectual de Tomás: nacido en 1225/26 de familia noble (Landulf, descendiente de los condes de Aquino); Montecassino a los cinco años; Nápoles, donde en 1242 entró en la Orden de Predicadores; capturado por sus hermanos (la familia quería abad para él en Montecassino), usó el año de cautiverio para adquirir su conocimiento de la Escritura; París (1246) y Colonia (1248-52) con [[san_alberto_magno]], de quien oyó las lecciones sobre Pseudo-Dionisio (a quien cita tanto como a [[san_agustín]]); Magister en 1256 con el lema inaugural «regando los montes desde lo alto» (Sal 104,13) sobre los maestros, que reciben la sabiduría de lo alto; la *Summa contra Gentiles* terminada en Orvieto (1264), quizá pensada como manual para predicadores ante los musulmanes de España: «con quienes no aceptan las mismas Escrituras hay que apelar a la razón, a la que todos están obligados a asentir»; la *Summa theologiae* iniciada en 1266 «para principiantes»; tercera estancia en París (1269-72) contra los averroístas (*De Unitate Intellectus*); muere el 7 de marzo de 1274 camino del Concilio de Lyon; canonizado por Juan XXII en 1323. Pocos meses antes de morir, una visión hizo que todo lo que había escrito le pareciera «paja».
+La introducción de F. J. Selman ([[st_thomas_aquinas_teacher_of_truth]]) traza la vida y el perfil intelectual de Tomás: nacido en 1225/26 de familia noble (Landulf, descendiente de los condes de Aquino); Montecassino a los cinco años; Nápoles, donde en 1242 entró en la Orden de Predicadores; capturado por sus hermanos (la familia quería abad para él en Montecassino), usó el año de cautiverio para adquirir su conocimiento de la Escritura; París (1246) y Colonia (1248-52) con [[san_alberto_magno]], de quien oyó las lecciones sobre Pseudo-Dionisio (a quien cita tanto como a [[agustín_de_hipona]]); Magister en 1256 con el lema inaugural «regando los montes desde lo alto» (Sal 104,13) sobre los maestros, que reciben la sabiduría de lo alto; la *Summa contra Gentiles* terminada en Orvieto (1264), quizá pensada como manual para predicadores ante los musulmanes de España: «con quienes no aceptan las mismas Escrituras hay que apelar a la razón, a la que todos están obligados a asentir»; la *Summa theologiae* iniciada en 1266 «para principiantes»; tercera estancia en París (1269-72) contra los averroístas (*De Unitate Intellectus*); muere el 7 de marzo de 1274 camino del Concilio de Lyon; canonizado por Juan XXII en 1323. Pocos meses antes de morir, una visión hizo que todo lo que había escrito le pareciera «paja».
 
 Si se le hubiera preguntado qué hacía al escribir teología, habría respondido que sacaba a la luz el sentido de la Escritura, en la que «las cosas se encuentran ocultas y dispersas». La teología es propiamente **sabiduría**: la del sabio que ordena y dirige porque conoce el fin de las cosas; el fin del universo entero es la verdad, y la sabiduría considera la verdad que es fuente de toda verdad. No hay doble verdad (contra Ockham): fe y razón no se oponen porque el autor de la revelación y de la razón es el mismo; hay «no dos criterios de verdad sino dos maneras de conocer la verdad», pues la verdad es una. La verdad se define como la correspondencia (*adequatio*) de la mente con la cosa; se funda en lo existente (Dios es la Verdad Primera, *fons et principium totius esse et veritatis*), y el *esse* asume un papel cada vez más central en su pensamiento.
 
 Selman lo llama «existencialista en el verdadero sentido de la palabra», más que los existencialistas modernos, por su interés en la existencia de las cosas reales. La comparación de sus escritos con *El clave bien temperado* de Bach («de talante calmo, desapasionado pero incisivo») y su método: «solo exponiendo con claridad todos los hilos de la existencia de las cosas podemos comenzar a verlas en sus contornos simples».
 
-## Analizado para
+## Perspectivas por fuente
 
-- [[fr_michael_luxbacher_life_in_abundance]]
-- [[joe_mcinerny_humble_greatness]]
-- [[john_wissler_virtuous_leadership]]
-- [[tim_barry_the_strength_of_meekness]]
+### Según The Pivotal Players (PP)
+
+Barron advierte que interpretar a Tomás solo como filósofo racionalista es perderlo: fue santo, enamorado de Jesucristo, y sus escritos querían llevar a la gente por el camino de Cristo. La clave es la escena final: tras componer su tratado sobre la Eucaristía, arrojó el libro a los pies del crucifijo; la voz le dijo «Has escrito bien de mí, Tomás; ¿qué querrás en recompensa?» y él respondió: «*Non nisi te, Domine*» —nada sino tú, Señor—.
+
+Nació en 1224 o 1225 en Roccasecca, entre Roma y Nápoles; a los cinco años entró en Monte Cassino, donde pasó nueve años formativos que muchos comentaristas olvidan: allí aprendió la vida contemplativa, se enamoró de la Escritura y de los salmos, y entendió la teología como elaboración de la *sacra pagina*. De niño preguntó a su maestro: «Pero, ¿qué es Dios?», y no dejó de preguntarlo en toda su vida.
+
+Fue un doble radical: aristotélico cuando buena parte del corpus de Aristóteles acababa de llegar y muchos lo tenían por sospechoso, y mendicante dominico cuando su familia lo destinaba a abad de Monte Cassino. Sus hermanos lo secuestraron, le rasgaron el hábito y lo encerraron en el castillo familiar; según la leyenda le metieron una prostituta en la celda y él la echó con un tizón. En París, en 1245, encontró su casa intelectual y a Alberto Magno, a quien siguió a Colonia; allí, taciturno y corpulento, lo llamaron «el buey mudo de Sicilia», y Alberto profetizó que su mugido resonaría en todo el mundo. Magister en 1256, enseñó como *magister sacrae paginae*: predicar, comentar la Biblia, disputar cuestiones. La *Summa* es la forma literaria de esas *quaestiones disputatae*: el planteamiento, las objeciones de la sala, la resolución magistral y la respuesta.
+
+Escribió unos cincuenta volúmenes en veinticinco años, dictando a tres secretarios a la vez. En la mesa de san Luis, absorto, golpeó la mesa: «Con eso despacho a los maniqueos», y el rey mandó llamar a un escriba para que no se perdiera el argumento. El 6 de diciembre de 1273, después de una misa, dejó de escribir: «No puedo más; todo lo que he escrito me parece paja comparado con lo que he visto». Murió en Fossanova camino del concilio de Lyon.
+
+Su doctrina de Dios es más agnóstica de lo que se supone: honra el dicho agustiniano «si lo comprendes, no es Dios». Dios no es un ser entre otros ni está en ningún género, ni siquiera en el de ser: es *ipsum esse subsistens*, la respuesta a «¿por qué hay algo y no nada?». Su **simplicidad** no significa pobreza conceptual sino ausencia de composición: en Dios no se distingue esencia y existencia; de ahí su infinitud, inmaterialidad, eternidad e inmutabilidad —que, leídas espiritualmente, significan que es fiel, que está presente a todo tiempo y a todo lugar—. Y es personal: conoce y ama, y su conocimiento del mundo es creativo; su amor, tan intenso, «rebosa» en la creación.
+
+Sobre **fe y razón** combatió el averroísmo latino y su teoría de la doble verdad: fe y razón no pueden contradecirse porque vienen del mismo Dios que es la Verdad; la fe no es infrarracional sino **suprarracional**, oscura por exceso de luz, y por eso no exige ningún *sacrificium intellectus*. Su antropología es antidualista: el alma es forma del cuerpo y está en él «como conteniéndolo, no como contenida por él»; por eso hay que amar el cuerpo, y la resurrección devuelve un cuerpo de carne y huesos. Somos imagen de Dios por la capacidad infinita de mente y voluntad, hechas para la Verdad y el Bien mismos: «el hombre está hecho para el éxtasis».
+
+En cristología, la Encarnación es *conveniens* porque el bien es difusivo de sí y Dios es el sumo bien; en Cristo se encuentran dos éxtasis, el divino que baja y el humano que sube. Es la unión hipostática de dos naturalezas sin mezcla ni confusión, y solo un Dios que no es un ser entre otros podía unirse así sin destruir a la criatura: de ahí que el Dios de Tomás no sea competencia para el hombre sino su fundamento. Su mente fue «católica» en el sentido de abierta: citó a Platón, Aristóteles, Cicerón, Maimónides, Averroes y Avicena, y disputó sin polémica.
+
+### Según el Magisterio y la tradición
+
+San Tomás fue proclamado Doctor de la Iglesia en 1567 y «Doctor Común» por León XIII en *Aeterni Patris* (1879), encíclica que recomendaba el estudio de su doctrina como fundamento de la filosofía y teología católicas. Juan Pablo II, Benedicto XVI y otros papas han destacado su importancia permanente.
 
 ### Según Sicari (AMS)
 
@@ -100,11 +116,31 @@ milagros en vida, Juan XXII respondió en el proceso: «**¡Cuantas
 afirmaciones teológicas escribió, fueron otros tantos milagros!**» — la
 síntesis prodigiosa de intelecto y amor con que compuso sus obras.
 
+## Distinciones importantes
+
+- **Fe y razón:** Tomás afirma que la revelación supera la razón, pero nunca la contradice; la filosofía puede servir como ancilla de la teología (*ancilla theologiae*).
+- **Cinco vías:** Argumentos para la existencia de Dios: movimiento, causalidad eficiente, contingencia, grados de perfección y orden teleológico.
+- **Esencia y existencia:** En los seres creados, esencia y existencia se distinguen realmente; en Dios, esencia y existencia son idénticas.
+- **Tomismo:** Corriente de pensamiento que sigue la doctrina de Santo Tomás, recogida y desarrollada por sus comentaristas.
+
+## Relaciones doctrinales
+
+Se relaciona con [[aristóteles]], [[agustín_de_hipona]], [[escolástica]], [[suma_teológica]], [[existencia_de_dios]], [[analogía_del_ser]], [[ley_natural]], [[gracia]], [[virtudes]], [[sacramentos]].
+
+## Analizado para
+
+- [[fr_michael_luxbacher_life_in_abundance]]
+- [[joe_mcinerny_humble_greatness]]
+- [[john_wissler_virtuous_leadership]]
+- [[tim_barry_the_strength_of_meekness]]
+
+
 ## Ver también
-[[san_agustín]], [[pseudo-dionisio_areopagita]], [[antonio_royo_marín]], [[teología_ascética_y_mística]], [[eucaristía]], [[presencia_real]], [[transubstanciación]], [[persona_eucarística]], [[inteligencia_artificial]], [[libre_albedrío]], [[st_thomas_aquinas_teacher_of_truth]], [[san_alberto_magno]]
+[[agustín_de_hipona]], [[pseudo-dionisio_areopagita]], [[antonio_royo_marín]], [[teología_ascética_y_mística]], [[eucaristía]], [[presencia_real]], [[transubstanciación]], [[persona_eucarística]], [[inteligencia_artificial]], [[libre_albedrío]], [[st_thomas_aquinas_teacher_of_truth]], [[san_alberto_magno]]
 
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.11]
+- León XIII, *Aeterni Patris* (1879); Pío XI, *Studiorum ducem* (1923); Juan Pablo II, *Fides et ratio* (1998).
 - [TPCr, Introducción General n.28-35]
 - [TPCr, Índice Onomástico]
 - Barron, Robert. «If It's a Symbol, to Hell with It», en *Evangelization & Culture* 13 (Autumn 2022); *Eucharist* (Word on Fire, 2021).

@@ -55,6 +55,12 @@ En *Jesús de Nazaret III*, Benedicto XVI dedica un espacio considerable a la an
 
 Scott Hahn (BMV, lección 2) presenta la Anunciación como la escena en que María responde donde Eva desobedeció: la comparación Eva-María está deliberadamente construida en el texto de Lucas. María pregunta «¿cómo será esto, pues no conozco varón?» (Lc 1,34) y cree el anuncio del ángel; su *fiat* (Lc 1,38) es la obediencia de la [[esclava_del_señor]] que repara la desobediencia de Eva y comienza la nueva creación. Hahn subraya que el saludo «llena de gracia» (Lc 1,28) es el nombre propio de María, preludio de la Inmaculada Concepción.
 
+### Según Word on Fire (WOF)
+
+La homilía sobre Lc 1,26-38 contrapone a Eva y a María, como hace la liturgia de la Inmaculada Concepción. El punto de partida es Ireneo —*Gloria Dei homo vivens*—: los dioses paganos se imaginaban como rivales de la humanidad —Prometeo castigado por robar el fuego—, mientras que el Dios cristiano se alegra de que estemos plenamente vivos. El Edén manifiesta el humanismo católico: Adán y Eva juegan libremente en el campo del Señor, y nada hay de puritano en el catolicismo auténtico.
+
+La prohibición del árbol del centro no se lee como la lee la serpiente —Dios guarda celosamente algo por rivalidad—, sino como una invitación a dejarse atraer: Dios quiere que, al final del esfuerzo, sus criaturas se enamoren de él, como el músico deja que el instrumento lo toque. Al agarrar, entró el pecado; y de esa negativa primordial fluye toda la disfunción de la historia humana. María, concebida sin ese pecado, recibe el anuncio del ángel, se turba ante las consecuencias que no puede medir —vergüenza, destierro, Calvario— y responde «hágase en mí según tu palabra»: **la tragedia humana comenzó con un agarrar; la comedia divina comienza con un soltar**. De ahí la observación medieval de que el *Ave* del ángel invierte el *Eva* de la madre de los vivientes, y la conclusión de que la salvación es devolver el favor de una creación que es gracia purísima.
+
 ## Distinciones importantes
 
 - La Anunciación es un acontecimiento histórico, no una alegoría.

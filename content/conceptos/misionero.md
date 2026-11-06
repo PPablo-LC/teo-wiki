@@ -31,7 +31,7 @@ El Decreto *Ad Gentes* dedica su capítulo IV a los misioneros. Todos los fieles
 
 ## Relaciones doctrinales
 
-El misionero actúa en el marco de la [[actividad_misional]] de la Iglesia, que por su misma naturaleza es misionera (c. 781). Trabaja con [[catequistas]] y forma a los [[neófito]]s. Se relaciona con los institutos de [[vida_consagrada]] que contribuyen de modo especial a la tarea misional (c. 783).
+El misionero actúa en el marco de la [[actividad_misionera]] de la Iglesia, que por su misma naturaleza es misionera (c. 781). Trabaja con [[catequistas]] y forma a los [[neófito]]s. Se relaciona con los institutos de [[vida_consagrada]] que contribuyen de modo especial a la tarea misional (c. 783).
 
 ## Ver también
 

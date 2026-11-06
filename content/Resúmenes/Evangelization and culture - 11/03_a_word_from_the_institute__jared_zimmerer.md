@@ -15,7 +15,7 @@ tags: ["resumen", "evangelization and culture - 11"]
 - [[cielo]] — entendido cristológicamente
 - [[benedicto_xvi]] — *Eschatology: Death and Eternal Life*
 - [[misterio_pascual]] — origen histórico del cielo
-- [[identidad_en_cristo]] — primer principio del ethos Word on Fire
+- [[identidad_cristiana]] — primer principio del ethos Word on Fire
 
 ## Contenido
 

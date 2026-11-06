@@ -89,7 +89,7 @@ Esta fuente aporta una reflexión teológica, espiritual y pastoral sobre la ora
 - [[milagro]], [[fe_y_razón]] y [[ciencia]] — la oración y la evidencia empírica
 - [[lectio_divina]], [[palabra_de_dios]] y [[sagrada_escritura]] — la oración con la Escritura
 - [[iconos]], [[arte_sacro]] y [[vía_pulchritudinis]] — la oración a través del arte
-- [[santa_monica]], [[san_agustín]], [[thomas_merton]], [[san_juan_de_la_cruz]], [[santa_teresa_de_lisieux]] y [[madre_teresa_de_calcuta]] — los santos y místicos del número
+- [[santa_monica]], [[agustín_de_hipona]], [[thomas_merton]], [[san_juan_de_la_cruz]], [[santa_teresa_de_lisieux]] y [[madre_teresa_de_calcuta]] — los santos y místicos del número
 - [[robert_barron]], [[jacques_philippe]], [[paul_murray]], [[matthew_levering]], [[richard_declue]] y [[flannery_o'connor]] — los autores principales
 
 ## Ver también

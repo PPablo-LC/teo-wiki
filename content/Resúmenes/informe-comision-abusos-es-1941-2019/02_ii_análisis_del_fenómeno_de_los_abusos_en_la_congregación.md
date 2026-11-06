@@ -14,7 +14,7 @@ tags: ["resumen", "informe_1941_2019", "abuso_sexual", "análisis_del_fenómeno"
 
 - [[informe_1941_2019]] — Informe sobre el fenómeno del abuso sexual de menores en la Congregación
 - [[abuso_sexual_de_menores]] — Fenómeno estudiado en el informe
-- [[cadena_de_abuso]] — Repetición del abuso en víctimas que a su vez abusan
+- [[cadenas_de_abuso]] — Repetición del abuso en víctimas que a su vez abusan
 - [[0abusos.org]] — Canal público de denuncias y datos estadísticos
 
 ## Contenido

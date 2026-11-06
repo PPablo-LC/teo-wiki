@@ -19,17 +19,17 @@ Sucedió a San Anastasio I en un período particularmente difícil para Roma: el
 
 ### Controversias teológicas
 
-1. **Pelagianismo**: Inocencio I recibió las apelaciones de los obispos africanos (entre ellos [[san_agustín]]) contra las doctrinas de [[pelagio]] y Celestio. Confirmó la condena del pelagianismo en 417, declarando que la gracia de Dios es necesaria para toda obra buena. Su carta *Iniuncta nobis* (D-100–D-102) es uno de los primeros pronunciamientos papales sobre la gracia.
+1. **Pelagianismo**: Inocencio I recibió las apelaciones de los obispos africanos (entre ellos [[agustín_de_hipona]]) contra las doctrinas de [[pelagio]] y Celestio. Confirmó la condena del pelagianismo en 417, declarando que la gracia de Dios es necesaria para toda obra buena. Su carta *Iniuncta nobis* (D-100–D-102) es uno de los primeros pronunciamientos papales sobre la gracia.
 
 2. **Donatismo**: Apoyó la posición de los obispos africanos contra el cisma donatista, reafirmando la validez de los sacramentos administrados por ministros indignos (*ex opere operato*).
 
 ## Relaciones
 
-[[san_agustín]], [[pelagio]], [[pelagianismo]], [[donatismo]], [[primado_romano]], [[gracia]], [[celestio]], [[patrística]]
+[[agustín_de_hipona]], [[pelagio]], [[pelagianismo]], [[donatismo]], [[primado_romano]], [[gracia]], [[celestio]], [[patrística]]
 
 ## Ver también
 
-[[primado_romano]], [[pelagianismo]], [[donatismo]], [[san_agustín]], [[gracia]], [[padres_de_la_iglesia]], [[patrística]]
+[[primado_romano]], [[pelagianismo]], [[donatismo]], [[agustín_de_hipona]], [[gracia]], [[padres_de_la_iglesia]], [[patrística]]
 
 ## Referencias
 

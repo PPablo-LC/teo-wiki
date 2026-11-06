@@ -12,7 +12,7 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 
 ## Conceptos básicos referenciados
 
-- [[ockham]] — Guillermo de Ockham, franciscano iniciador del nominalismo moral
+- [[guillermo_de_ockham]] — Guillermo de Ockham, franciscano iniciador del nominalismo moral
 - [[nominalismo]] — doctrina que reduce el universal a un nombre y concentra la moral en la decisión singular
 - [[libertad_de_indiferencia]] — poder de elegir entre cosas contrarias sin determinación previa
 - [[libertad_de_calidad]] — la libertad entendida como capacidad de obrar según las virtudes
@@ -34,7 +34,7 @@ La teología moral alcanzó su apogeo con la *Secunda Pars* de la [[santo_tomás
 
 ## El destino de Guillermo de Ockham
 
-El franciscano [[ockham|Guillermo de Ockham]] nunca recibió el grado de maestro (de ahí su nombre de «Venerabilis Inceptor»). Citado a Aviñón en 1324, huyó a Alemania y se puso al servicio del emperador Luis de Baviera contra el Papa, propugnando la separación radical entre Iglesia y mundo, y entre razón y fe. Sus doctrinas originarán el nominalismo, que, aunque exteriormente fiel a la escolástica, marca una ruptura con los Padres y los grandes escolásticos y prepara un período nuevo, especialmente en moral.
+El franciscano [[guillermo_de_ockham|Guillermo de Ockham]] nunca recibió el grado de maestro (de ahí su nombre de «Venerabilis Inceptor»). Citado a Aviñón en 1324, huyó a Alemania y se puso al servicio del emperador Luis de Baviera contra el Papa, propugnando la separación radical entre Iglesia y mundo, y entre razón y fe. Sus doctrinas originarán el nominalismo, que, aunque exteriormente fiel a la escolástica, marca una ruptura con los Padres y los grandes escolásticos y prepara un período nuevo, especialmente en moral.
 
 ## La explosión nominalista
 

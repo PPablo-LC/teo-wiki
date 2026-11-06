@@ -25,7 +25,7 @@ tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c"]
 - [[san_ignacio_de_antioquía]] — Mártir (ca. 117) que defendió el realismo de la encarnación: Cristo verdadero hombre.
 - [[justino_mártir]] — Mártir (165) y apologista que describe la liturgia dominical.
 - [[san_policarpo_de_esmirna]] — Obispo mártir, discípulo de Juan; primer testimonio del culto a las reliquias.
-- [[san_irineo_de_león]] — Padre apostólico (muerto en 202) que refutó a Marción y fijó los cuatro evangelios.
+- [[ireneo_de_lion]] — Padre apostólico (muerto en 202) que refutó a Marción y fijó los cuatro evangelios.
 - [[orígenes]] — Primer teólogo cristiano, entre los apologistas.
 - [[catecumenado]] — Período de preparación al bautismo, tras la primera época en que bastaba la fe.
 - [[bautismo]] — Sacramento de la iniciación; exigía conocer el credo de memoria.

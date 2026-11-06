@@ -16,7 +16,7 @@ La era secular es, según la caracterización de Charles Taylor en *A Secular Ag
 
 ## Desarrollo doctrinal
 
-La era secular interpela la pastoral de la conversión: quien entra en la Iglesia como adulto sigue consciente de que existen otras opciones, incluida su iglesia o comunidad religiosa anterior, y a medida que la sociedad se seculariza más conversos pueden imaginarse la vida sin membresía eclesiástica. La doctrina de la Iglesia responde insistiendo en que la fe, siendo libre, no es arbitraria: la [[sucesión_apostólica]] da a la Iglesia católica autoridad única para proclamar dogmas y dispensar los sacramentos, y la [[gracia]] nos llega a través del Cuerpo de Cristo. La [[mistagogia]] post-bautismal — el período en que la comunidad y los neófitos profundizan en el Misterio Pascual — es el cauce pastoral que sostiene al converso ante el desvanecimiento en una parroquia indiferente.
+La era secular interpela la pastoral de la conversión: quien entra en la Iglesia como adulto sigue consciente de que existen otras opciones, incluida su iglesia o comunidad religiosa anterior, y a medida que la sociedad se seculariza más conversos pueden imaginarse la vida sin membresía eclesiástica. La doctrina de la Iglesia responde insistiendo en que la fe, siendo libre, no es arbitraria: la [[sucesión_apostólica]] da a la Iglesia católica autoridad única para proclamar dogmas y dispensar los sacramentos, y la [[gracia]] nos llega a través del Cuerpo de Cristo. La [[mistagogía]] post-bautismal — el período en que la comunidad y los neófitos profundizan en el Misterio Pascual — es el cauce pastoral que sostiene al converso ante el desvanecimiento en una parroquia indiferente.
 
 ## Perspectivas por fuente
 
@@ -41,7 +41,7 @@ En «Soul: Conversión in an Age of Choice» (21_soul.md), Fr. Richard T. Whitti
 
 - Se relaciona con la [[secularización]] y la condición de «opción entre las demás» que describe la cultura contemporánea
 - Interpela a la [[conversión]] y su sostenimiento en el contexto de la [[parroquia]] y de la [[nueva_evangelización]]
-- Exige la [[mistagogia]] post-bautismal y la [[pastoral_de_acompañamiento]] de los [[neófitos]]
+- Exige la [[mistagogía]] post-bautismal y la [[pastoral_de_acompañamiento]] de los [[neófitos]]
 - Se ordena al [[encuentro_personal_con_cristo]] en el [[cuerpo_místico]]
 - Se apoya en la [[sucesión_apostólica]] y la [[gracia]] que nos llega a través del Cuerpo de Cristo
 
@@ -49,7 +49,7 @@ En «Soul: Conversión in an Age of Choice» (21_soul.md), Fr. Richard T. Whitti
 
 - [[secularización]]
 - [[conversión]]
-- [[mistagogia]]
+- [[mistagogía]]
 - [[catecumenado]]
 - [[rito_de_iniciación_cristiana_de_adultos]]
 - [[cuerpo_místico]]

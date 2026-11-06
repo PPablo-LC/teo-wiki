@@ -57,7 +57,7 @@ Los ejercicios desarrollan una teología espiritual anclada en la tradición cis
 ## Personas mencionadas
 
 - [[san_bernardo|San Bernardo de Claraval]]
-- [[san_agustín|San Agustín]]
+- [[agustín_de_hipona|San Agustín]]
 - [[john_henry_newman|John Henry Newman]]
 - [[san_pablo|San Pablo]]
 - [[san_benito|San Benito]]

@@ -4,6 +4,7 @@ title: "Benedicto XV"
 description: "Papa (1914-1922). Promulgó el Código de Derecho Canónico de 1917 (D‑2109–D‑2136), defendió la inerrancia bíblica (Spiritus Paraclitus, D‑2186–D‑2188) y condenó el espiritismo (D‑2182). Su pontificado estuvo marcado por la Primera Guerra Mundial."
 tags: ["teología_dogmática", "derecho_canónico", "historia_—_papado"]
 timestamp: 2026-06-28
+aliases: ["Benito XV"]
 ---
 
 # Benedicto XV

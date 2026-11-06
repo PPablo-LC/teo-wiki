@@ -27,7 +27,7 @@ El Denzinger recoge en D-93 el testimonio de San Anastasio I sobre los confesore
 
 ## Relaciones doctrinales
 
-Los confesores se distinguen de los [[mártir|mártires]] (que mueren por la fe) y de los [[doctor_de_la_iglesia|doctores]] (que enseñan). Su testimonio se relaciona con la defensa de la ortodoxia contra el [[arrianismo]] y con el valor del [[martirio]] incruento como forma de testimonio cristiano.
+Los confesores se distinguen de los [[mártir|mártires]] (que mueren por la fe) y de los [[doctores_de_la_iglesia|doctores]] (que enseñan). Su testimonio se relaciona con la defensa de la ortodoxia contra el [[arrianismo]] y con el valor del [[martirio]] incruento como forma de testimonio cristiano.
 
 ## Ver también
 

@@ -56,7 +56,7 @@ El Dr. Petrie presenta un caso histórico-académico para la autoría apostólic
 - [[evangelios_apócrifos]]
 - [[fiabilidad_histórica_de_los_evangelios]]
 - [[papías_de_hierápolis]]
-- [[san_irineo_de_león]]
+- [[ireneo_de_lion]]
 - [[clemente_de_alejandría]]
 - [[orígenes]]
 - [[eusebio_de_cesárea]]

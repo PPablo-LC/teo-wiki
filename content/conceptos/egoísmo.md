@@ -42,7 +42,7 @@ El egoísmo se opone a la [[caridad]], al [[amor_al_prójimo]] y a la [[nobleza_
 
 ## Ver también
 
-[[amor_al_prójimo]], [[caridad]], [[soberbia]], [[desprendimiento]], [[nobleza_de_alma]]
+[[amor_al_prójimo]], [[caridad]], [[soberbia]], [[desprendimiento]], [[nobleza_de_alma]], [[ego]], [[amor_propio]]
 
 ## Referencias
 

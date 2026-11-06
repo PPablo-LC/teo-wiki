@@ -33,7 +33,7 @@ El capítulo cita también a Emmanuel Mounier ante su hija convertida en «un pi
 
 ## Ver también
 
-[[san_camillo_de_lellis]], [[san_vicente_de_paúl]], [[san_juan_bosco]], [[caridad]], [[providencia]]
+[[san_camilo_de_lelis]], [[san_vicente_de_paúl]], [[san_juan_bosco]], [[caridad]], [[providencia]]
 
 ### Según Sicari (AMS)
 

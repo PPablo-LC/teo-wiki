@@ -51,7 +51,7 @@ Sigue estrictamente a Santo Tomás (Quodl. 3, q.1 a.2; I, q.53; Contra Gentes II
 
 ## Ver también
 
-[[san_josé_de_cupertino]], [[san_alfonso_de_ligorio]], [[maría_de_agreda]]
+[[san_josé_de_cupertino]], [[san_alfonso_maría_de_ligorio]], [[maría_de_agreda]]
 
 ## Referencias
 

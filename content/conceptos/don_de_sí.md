@@ -31,6 +31,12 @@ ODPC 12 (cap. 8, §5.1: «Il dono di sé»): Gv 12,23-26 (el grano de trigo); Gv
 
 «Todo el sentido de la propia libertad, y del autodominio consiguiente, está orientado al don de sí en la comunión y en la amistad con Dios y con los demás» (SHVS 8). El amor de amistad y entrega es superior al de concupiscencia: «se ama al otro porque se le reconoce como digno de ser amado» (SHVS 9). La capacidad de amar como don de sí tiene su «encarnación» en el carácter esponsal del cuerpo, «la capacidad de expresar el amor: ese amor precisamente en el que el hombre-persona se convierte en don y —mediante este don— realiza el sentido mismo de su ser y existir» (SHVS 10). «La vida humana es un don recibido para ser a su vez dado»; solamente existiendo «con alguno» y «para alguno» realiza el hombre la esencia de su persona (SHVS 12). El autodominio es «condición necesaria para ser capaces del don de sí» (SHVS 58); el desorden en el uso del sexo destruye progresivamente la capacidad de amar, «haciendo del placer —en vez del don sincero de sí— el fin de la sexualidad» (SHVS 105). La virginidad consagrada es «forma suprema del don de uno mismo» (SHVS 34).
 
+### Según Word on Fire (WOF)
+
+La homilía sobre Gen 22,1-14 formula la «ley del don»: **tu ser aumenta en la medida en que lo das y disminuye hasta la aniquilación en la medida en que te aferras a él**. Barron la encuentra ejemplificada en la viuda de Sarepta, que hace la última comida con Elías y ve renovarse su harina; en la multiplicación de los panes, donde lo poco de un muchacho se multiplica para cinco mil; y, por el corolario inverso, en el hijo pródigo, que al arrebatar como propio lo que el padre quería darle como don pierde lo que tenía.
+
+El caso supremo es Abraham: se le pide entregar lo que más ama, el hijo de la promesa, y su sufrimiento no es solo emocional sino teológico, pues parece que Dios se contradice. Kierkegaard, en *Temor y temblor*, describe la fe como «pasión por lo imposible»: Abraham está dispuesto a sacrificar al hijo aun convencido de que lo recuperará. Los primeros cristianos leyeron la *Aqedah* en clave cristológica —el Padre pone la leña de la cruz sobre los hombros del Hijo y lo lleva a la colina—, y en el Calvario la ley del don alcanza su cumplimiento: por la entrega del Padre y la obediencia del Hijo, la vida divina se hace disponible para todo el mundo pecador. Lo dado vuelve como don, acrecentado y multiplicado.
+
 
 ## Distinciones importantes
 
@@ -45,7 +51,7 @@ El don de sí se enraíza en la [[dependencia_de_dios]] (solo quien se reconoce 
 
 ## Ver también
 
-[[sacrificio]] [[eucaristía]] [[misterio_pascual]] [[dependencia_de_dios]] [[religiosidad_natural]] [[virginidad]] [[matrimonio]] [[caridad]] [[oración]] [[allorigine_della_pretesa_cristiana]]
+[[ley_del_don]] [[sacrificio]] [[eucaristía]] [[misterio_pascual]] [[dependencia_de_dios]] [[religiosidad_natural]] [[virginidad]] [[matrimonio]] [[caridad]] [[oración]] [[allorigine_della_pretesa_cristiana]]
 
 ## Referencias
 

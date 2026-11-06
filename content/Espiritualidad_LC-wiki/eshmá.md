@@ -47,7 +47,7 @@ La incorporación de Eshmá representa un paso significativo en la política de 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[acompañamiento_a_víctimas]], [[justicia_restaurativa]], [[proteger_y_sanar]], [[informe_anual_2020]], [[verdad_justicia_sanación]].
+Se relaciona con [[acompañamiento_a_víctimas]], [[justicia_restaurativa]], [[proteger_y_sanar]], [[informe_anual_2020]], [[verdad_justicia_y_sanacion]].
 
 ## Ver también
 

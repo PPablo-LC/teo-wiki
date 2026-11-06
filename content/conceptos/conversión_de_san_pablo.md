@@ -50,7 +50,7 @@ La conversión de Saulo muestra el fracaso del «programa» humano ante la provi
 - [[providencia]]
 - [[gracia]]
 - [[fomes_peccati]]
-- [[misterio_de_la_iniquidad]]
+- [[mysterium_iniquitatis]]
 
 ## Referencias
 

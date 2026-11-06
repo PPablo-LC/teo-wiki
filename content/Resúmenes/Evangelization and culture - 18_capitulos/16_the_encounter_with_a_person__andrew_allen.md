@@ -25,7 +25,7 @@ tags: ["resumen", "evangelization and culture - 18 capitulos"]
 - [[bautismo]] — los sacramentos de iniciación recibidos en la Vigilia Pascual
 - [[eucaristía]] — se comparte solo tras la comprensión de la Presencia Real
 - [[presencia_real]] — condición para admitir a los nuevos católicos a la comunión
-- [[mistagogia]] — tiempo post-bautismal para profundizar en el Misterio Pascual (RCIA 244)
+- [[mistagogía]] — tiempo post-bautismal para profundizar en el Misterio Pascual (RCIA 244)
 - [[cuerpo_místico]] — el ingreso en el Cuerpo de Cristo
 - [[testimonio_cristiano]] — el ejemplo de vida que atrae a los inquirientes
 - [[catequesis]] — supone la respuesta de fe inicial
@@ -71,4 +71,4 @@ Es sobre todo en Cuaresma y Pascua cuando se ve converger los distintos aspectos
 
 ### La mistagogia
 
-El último período de la OCIA es la [[mistagogia]], o catequesis post-bautismal: «un tiempo para que la comunidad y los neófitos juntos profundicen en su comprensión del Misterio Pascual y lo hagan parte de sus vidas mediante la meditación del Evangelio, la participación en la Eucaristía y las obras de caridad» (RCIA 244). Y aunque este período termina oficialmente un año después de la iniciación, es la llamada de por vida de todos los incorporados al [[cuerpo_místico|Cuerpo de Cristo]]. La gracia de Dios es la causa primaria de la conversión; aun así, se nos ha dado la dignidad de ser colaboradores de Dios. Todos los tiempos llaman a una conversión del corazón, pero en el nuestro en particular se pide una conversión en el corazón de la vida parroquial para que todos lleguen a ser discípulos misioneros.
+El último período de la OCIA es la [[mistagogía]], o catequesis post-bautismal: «un tiempo para que la comunidad y los neófitos juntos profundicen en su comprensión del Misterio Pascual y lo hagan parte de sus vidas mediante la meditación del Evangelio, la participación en la Eucaristía y las obras de caridad» (RCIA 244). Y aunque este período termina oficialmente un año después de la iniciación, es la llamada de por vida de todos los incorporados al [[cuerpo_místico|Cuerpo de Cristo]]. La gracia de Dios es la causa primaria de la conversión; aun así, se nos ha dado la dignidad de ser colaboradores de Dios. Todos los tiempos llaman a una conversión del corazón, pero en el nuestro en particular se pide una conversión en el corazón de la vida parroquial para que todos lleguen a ser discípulos misioneros.

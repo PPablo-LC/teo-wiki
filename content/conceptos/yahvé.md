@@ -17,7 +17,7 @@ Nombre propio de Dios revelado a Moisés en la zarza ardiente (Ex 3,14), traduci
 
 ## Ver también
 
-[[nombres_de_dios]], [[revelación_divina]], [[dios]], [[misterio_de_dios]]
+[[nombre_de_dios]], [[revelación_divina]], [[dios]], [[misterio_de_dios]]
 
 ## Referencias
 

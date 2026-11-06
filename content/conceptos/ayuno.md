@@ -68,6 +68,22 @@ La Regla integra el ayuno en la vida regular del monasterio con especificidad ho
 - **Ayuno y abstinencia en Cuaresma (cap. 44)**: La observancia cuaresmal supone guarda de los sentidos y purificación interior mediante la abstinencia. «Toda la Cuaresma se observe con su verdadero espíritu, hasta Pascua» (cap. 44).
 - **El diablo y la propiedad (cap. 55, §16)**: Si alguien es hallado guardando algo propio sin licencia del abad, sea sometido a gravísima disciplina. La sobriedad en el vestir y comer es expresión de la mortificación de la concupiscencia.
 
+### Según The Strangest Way (STR)
+
+Barron sitúa el ayuno entre las prácticas del primer camino y lo explica desde la antropología del deseo: la libertad del desapego «no es un hecho espontáneo, sino que se adquiere mediante una serie de disciplinas espirituales que modelan el deseo». Los apetitos de comida y bebida son tan elementales que, si no se domeñan, «se adueñan del alma»: son como niños que gritan hasta gobernar la casa; por eso hay que pasar hambre «para que se sienta y se alimente el hambre más profunda», y sed «para que se perciba y se sacie la sed más honda».
+
+El ayuno no es solo de comida. También hay un ayuno de dinero, porque la riqueza es sustituto clásico de Dios: el diezmo, la caja de limosnas junto a la puerta, un puesto extra en la mesa cuya comida se da al pobre, la ropa que se saca del armario, comprar el modelo barato y dar la diferencia. Cita a Ambrosio —«si tienes dos túnicas, una es del que no tiene»— y a León XIII en *Rerum novarum*: cubiertas la necesidad y la decencia, lo demás se ordena al bien común.
+
+Dedica un pasaje a la abstinencia del viernes, que unía al sufrimiento de Cristo y, además, creaba un vínculo social y una identidad corporativa. Mary Douglas y Eamon Duffy señalaron los efectos de su práctica desaparición: cuando se dijo que era «cosa de cada uno», se perdió el lazo social que producía y se produjo «una interiorización e individualización dramática del catolicismo», es decir, su «modernización, su cartesianización». Y, como el placer también puede volverse apego, el cristiano debe estar dispuesto al dolor y al gozo sin aferrarse a ninguno: de ahí la disciplina de los estimulantes y euforizantes artificiales, que separan de «la densidad y complejidad de una vida humana plena». La conclusión: «no tenemos que poner una fachada falsa; sabemos que es lícito, incluso bienaventurado, llorar».
+
+### Según Lenten Gospel Reflections 2022 (LGR22)
+
+El ayuno aparece primero como una de las tres prácticas de Ceniza y luego recibe su justificación evangélica: los discípulos no ayunan mientras el esposo está con ellos, pero ayunarán cuando les sea arrebatado (Mc 2,18-22). Barron no lo presenta como mérito ni como técnica, sino como consecuencia de una ausencia: el banquete nupcial excluye el luto, y el tiempo del esposo ausente reclama otra disposición. El ayuno de Jesús en el desierto, cuarenta días, es el modelo de la Cuaresma entera y el presupuesto de la clarificación: solo el hombre despojado de los apetitos inmediatos queda en condiciones de afrontar la tentación y de decidir. La fuente advierte, en la misma línea, que el vino nuevo exige odres nuevos: la ascesis no es un añadido exterior, sino la conformación del recipiente al contenido que recibe.
+
+### Según Lenten Gospel Reflections 2024 (LGR24)
+
+La reflexión de 2024 es la más desarrollada del corpus sobre este punto. El ayuno se explica por el hambre de Dios, que es el hambre más profunda: estamos hechos para acceder a ella y para sentirla, de modo que oriente la vida. Todo maestro espiritual conoce el peligro de que los hambres superficiales dominen y no lleguemos nunca a la más honda. Barron cita a Thomas Merton: los apetitos de comida y bebida se parecen a niños pequeños por su insistencia y su tendencia a imponerse; mientras no se les discipline, desajustan las funciones del alma según sus fines. El ayuno los aquieta al no responderles de inmediato, y así emerge el deseo más profundo. La consecuencia práctica es notable: sin ayuno quizá nunca se descubra cuánta hambre de Dios se tiene. El ayuno queda así inscrito en una pedagogía del deseo, no en una contabilidad de privaciones, y se cruza con la insistencia de Ceniza en las prácticas que comprometen el cuerpo.
+
 ## Distinciones importantes
 
 - No es un fin en sí mismo, sino medio de conversión y purificación
