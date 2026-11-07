@@ -4,6 +4,7 @@ title: "Comunione e Liberazione"
 description: "Movimiento eclesial fundado por Luigi Giussani en la década de 1950, presente en casi ochenta países; su Fraternidad fue reconocida por la Santa Sede como asociación de derecho pontificio."
 tags: ["movimientos_eclesiales", "laicado", "comunión", "evangelización"]
 timestamp: 2026-10-02
+aliases: ["Comunión y Liberación", "comunión y liberación", "CL"]
 ---
 
 > Área: Eclesiología / Movimientos eclesiales

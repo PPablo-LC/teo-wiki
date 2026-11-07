@@ -49,6 +49,18 @@ SC §105: El ciclo de Navidad incluye la fiesta de la Epifanía del Señor, la c
 
 **El prólogo de Juan.** El Evangelio de Navidad es «toda la Biblia en miniatura»: «el Verbo se hizo carne y habitó entre nosotros». El griego *eskenosen* significa literalmente «plantó su tienda entre nosotros» y evoca el tabernáculo del [[templo]]; en Jesús, Dios habita definitivamente en su mundo, deshace los efectos del pecado y lo convierte en lo que siempre debía ser: nuevo Edén, nuevo templo, creación restaurada (25 de diciembre).
 
+### Según *The Blessing of Christmas* — Joseph Ratzinger (BWC)
+
+**La fiesta más profundamente humana.** Ratzinger distingue el centro del año litúrgico —la Pascua— de la fiesta que más hondamente toca la sensibilidad cristiana: «la Navidad es la fiesta de fe más profundamente humana, porque nos permite sentir más hondamente la humanidad de Dios». El pesebre tiene una fuerza singular para mostrar qué significa llamar a Dios «Emmanuel»: un Dios al que se puede hablar con lenguaje íntimo porque sale al encuentro como un niño (prólogo a *Licht, das uns leuchtet*).
+
+**El origen de la fiesta.** El calendario cristiano no nació de la Navidad sino de la fe en la Resurrección: la fiesta primordial es la Pascua, y la existencia cristiana es pascual. Hipólito de Roma, en su comentario a Daniel (hacia 204), es el primero en afirmar que Jesús nació el 25 de diciembre; Bo Reicke ha mostrado que Lucas supone esa fecha, la de la dedicación del Templo. En el siglo IV la Navidad sustituye la fiesta romana del sol invicto y enseña a leer el nacimiento como victoria de la luz verdadera, reutilizando tradiciones judeocristianas (BWC 4).
+
+**Greccio y el belén.** Francisco de Asís celebraba la Navidad «con alegría indecible» y la llamaba «la fiesta de las fiestas, porque en este día Dios se hizo un niño pequeño y mamó como todos los niños humanos» (II Celano 151,199). Su celebración de Greccio (1223) dio origen al belén y comunicó a la fe una dimensión nueva: junto al poder de Dios que vence la muerte, propio de la Pascua, quedó a la vista «el amor indefenso de Dios, su humildad y su bondad» (BWC 4).
+
+**Pesebre y cruz.** En el belén de Christkindl el Niño sostiene en sus manos la cruz y la corona de espinas: el árbol se convierte en altar y el pesebre anticipa el Calvario. Dios viene sin armas porque «no quiere conquistar desde fuera sino ganarnos desde dentro»; la vulnerabilidad del niño es la forma de su victoria (BWC 3-4).
+
+**Las costumbres como liturgia visible.** El árbol, los dulces y los regalos traducen en signos las palabras que la Iglesia reza en Adviento: los montes que cantan y los árboles que aplauden del Salmo 96, la tierra que destila dulzura. Regalar imita al Dios que se da a sí mismo (BWC 1).
+
 ## Distinciones importantes
 
 - **Navidad como misterio, no solo fecha**: la celebración litúrgica accede al misterio del nacimiento de Cristo, no solo conmemora una fecha

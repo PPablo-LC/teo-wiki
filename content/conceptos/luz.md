@@ -41,6 +41,16 @@ La producción de la luz fue colocada en el primer día porque la luz es la form
 "En él estaba la vida, y la vida era la luz de los hombres, y la luz brilla en las tinieblas" (Jn 1,4-5). Jesús dijo: "Yo soy la luz del mundo; el que me sigue no caminará en tinieblas, sino que tendrá la luz de la vida" (Jn 8,12). "Vosotros sois la luz del mundo" (Mt 5,14).
 
 
+### Según *The Blessing of Christmas* — Joseph Ratzinger (BWC)
+
+**La luz de Navidad es una persona.** La estrella de la noche de Navidad es, ante todo, el Hijo encarnado: la luz que muestra el camino a través de las calles de la historia y que deshace la superstición —floreciente cuanto más se desintegra la fe— y la absurdidad de la astrología, que encierra al hombre en ciclos de constelaciones donde nada nuevo sucede. Las constelaciones verdaderas del hombre son los hombres que le muestran el camino de su corazón y de su vocación: Cristo es la estrella que ha salido para nosotros, y en la fe enciende a otros como estrellas que conducen a Él (BWC 5).
+
+**Recibir luz y dar luz.** La segunda Misa de Navidad pide que «la luz de la fe brille en nuestras palabras y acciones». Mirar la estrella significa, por tanto, recibir luz y darla, irradiar en el mundo la luz recibida para que oriente a otros; una vez despierto el corazón, sobran las ocasiones de hacerlo (BWC 5).
+
+**La luz que brilla en las tinieblas.** El prólogo de Juan —leído en la tercera Misa— presenta la vida como luz de los hombres y afirma que la tiniebla no la ha vencido. Ratzinger subraya que la liturgia de Navidad celebra esa victoria: el nacimiento de Cristo es la victoria de la luz verdadera sobre los ídolos, y la fiesta de las luces de Hanukkah sirve de figura a la verdadera dedicación del Templo que es su cuerpo (BWC 6-7).
+
+**Las ventanas tapiadas.** La luz de Navidad ilumina también la diagnosis cultural del autor: el problema más hondo del hombre contemporáneo no es la escasez de recursos, sino que «se han tapiado las ventanas que dan acceso a Dios», con el riesgo de perder el aire que respira el corazón, el núcleo de la libertad y la dignidad humanas (BWC 5).
+
 ## Distinciones importantes
 
 - Luz divina (Dios mismo, inaccesible en su esencia) vs. luz participada (fe, conocimiento sobrenatural, gracia).

@@ -116,7 +116,7 @@ Dios mismo, con sus dones gratuitos, nos hace idóneos para las buenas obras: el
 
 El hombre que, ayudado por la gracia, se entrega a Dios en la acción buena recibe como recompensa la donación del mismo Señor: una unión más plena con la Santísima Trinidad. «Si alguno me ama, guardará mi palabra, y mi Padre le amará, y vendremos a él y haremos morada en él» (Jn 14, 23). Al crecimiento de la gracia santificante se une un incremento de las gracias actuales, ayudas transeúntes en el camino de la santidad. Como la gracia es la semilla de la vida bienaventurada, mediante el mérito se injerta más sólidamente el germen del paraíso (Ele_Xto_Stos, Cap. VI, §7a).
 
-### Perspectivas por fuente — WoF-4
+### Según Catholicism — Word on Fire (WoF-4)
 
 **Barron** presenta la gracia como God's boundless initiative and irresistible love: la gracia es la iniciativa ilimitada de Dios que se anticipa al hombre y lo busca sin merecimiento previo. Es un amor que se basta a sí mismo y que no puede ser superado por el pecado ni por la resistencia humana.
 

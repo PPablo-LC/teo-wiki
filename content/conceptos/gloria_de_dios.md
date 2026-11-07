@@ -86,7 +86,17 @@ Comentando 1 Cor 10,31, Barron desmonta la palabra «gloria»: tras *doxa* y *ka
 
 La homilía afronta después la objeción moderna: ¿por qué Dios ha de llevarse toda la gloria? Los deístas abrieron un espacio secular retirando a Dios a su trascendencia; Feuerbach formuló la alternativa —«el no a Dios es el sí al hombre»— y Marx y Freud la heredaron. Barron responde que el dilema nace de un malentendido: los dioses paganos sí eran rivales porque necesitaban algo del hombre; el Dios bíblico no necesita nada y por eso no puede usar ni manipular el mundo. Es como un espejo que devuelve la luz recibida para iluminar el universo: lo que se le da se estrella contra la roca de su autosuficiencia y vuelve en beneficio de quien lo da. De ahí se sigue que Dios es amor —amar es querer el bien del otro en cuanto otro— y que el mundo ha sido amado hasta el ser. La fórmula de Feuerbach se invierte: «el sí a Dios es el sí al hombre, y el no a Dios es el no al hombre».
 
-## Distincioni importanti
+### Según *The Blessing of Christmas* — Joseph Ratzinger (BWC)
+
+**La gloria como principio de la paz.** El himno de los ángeles («Gloria a Dios en lo alto y en la tierra paz») no yuxtapone dos noticias: establece un orden. La paz entre los hombres nace de la gloria de Dios, y por eso, si nos preocupa el bien de los hombres, lo primero que ha de preocuparnos es la gloria de Dios. Esa gloria no es un asunto privado confiado al arbitrio de cada uno, sino un bien común: donde no se honra a Dios tampoco se honra al hombre (BWC 6).
+
+**La gloria en el pesebre y en la cruz.** Todos los acontecimientos terribles de la historia parecen acusar a Dios; pero cuando Dios se presenta inerme, con su amor como única fuerza, las imágenes terroríficas de Dios pierden verosimilitud. «La existencia humana del Hijo es la gloria del Padre»: en el pesebre y en la cruz la gloria de Dios es levantada en este mundo, y donde los hombres siguen a ese Dios comienza una humanidad nueva y una paz, aunque sea fragmentaria (BWC 6).
+
+**La verdadera reforma del culto.** La fiesta de Hanukkah celebraba la purificación del Templo y la restauración del honor debido a Dios; el nacimiento de Jesús es la verdadera reforma del culto, y toda reforma litúrgica debe corresponder a ella. Su criterio es que Dios sea honrado en la propia existencia y en la propia tierra. Ratzinger llama «abominación de la desolación» a lo que hoy deshonra a Dios y al hombre —la pornografía, la violencia contra la persona— y al olvido de Dios, «la peor forma de irreflexión» (BWC 6).
+
+**«Hemos visto su gloria».** El cierre del prólogo joánico resume la experiencia del discípulo y define la fe: creer es ver su gloria en este mundo. Para ver hace falta una correspondencia interior; de lo contrario solo se ve el propio reflejo. Quien la ha visto vive como quien tiene el don de la vista y puede convertirse en portador de la luz de Belén (BWC 7).
+
+## Distinciones importantes
 
 - **Gloria interna o esencial**: la que Dios posee en sí mismo desde la eternidad, como conocimiento y amor de sí mismo en la Santísima Trinidad. Es infinita e inmutable.
 - **Gloria externa o accidental**: la que recibe Dios de las criaturas, manifestación de su perfección en la creación. Es esta la que puede aumentar.

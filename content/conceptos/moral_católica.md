@@ -22,15 +22,13 @@ La teología moral católica ha experimentado un desarrollo significativo a lo l
 
 ## Perspectivas por fuente
 
-### Según Frey
+### Según Frey (WoF-5)
 
 **Frey** presenta moral law as part of the common law — it supposes a limited government, a nation that acknowledges God: la ley moral católica no es una imposición arbitraria sino parte del derecho común que una nación construye cuando reconoce a Dios como fuente de la autoridad y del orden social. La moral católica presupone un gobierno limitado que respeta la soberanía de Dios sobre la conciencia individual y la sociedad entera.
 
-### Según Healy
+### Según Healy (WoF-5)
 
 **Healy** destaca the development of Catholic moral theology — it is very much a development, and a very good development, in recent Catholic thinking: la teología moral católica contemporánea ha superado el casuismo de los manuales postridentinos para recuperar la perspectiva bíblica, la centralidad de las virtudes teologales y la atencional al sujeto moral concreto. Este desarrollo no es una ruptura sino una profundización en la riqueza de la tradición moral católica.
-
-## Perspectivas por fuente — WoF-5
 
 ## Ver también
 

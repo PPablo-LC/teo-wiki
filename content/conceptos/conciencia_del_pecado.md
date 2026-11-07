@@ -49,15 +49,15 @@ La afirmación no banaliza el mal: lo sitúa en el marco de una providencia que 
 
 ## Perspectivas por fuente
 
-### Según la *Veritatis Splendor* (VS-1993)
-
-La encíclica no dedica un tratado a la conciencia del pecado, pero la presupone en su conclusión orante: la petición a María, Madre de misericordia, de que el hombre «no pierda el camino del bien, no pierda la conciencia del pecado y crezca en la esperanza en Dios». La colocación no es accidental: la encíclica que defiende la verdad objetiva del acto moral termina pidiendo que esa verdad no se separe de la conciencia de la culpa y de la confianza en la misericordia. Sin las tres, la moral se vuelve legalismo o laxismo.
-
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La voz «Penitencia-Conversión» muestra cómo la toma de conciencia del pecado es fruto de la predicación profética y de la prueba: «el exilio fue la ocasión providencial de una toma de conciencia del pecado y de una confesión sincera». Describe las liturgias de expiación que adquieren gran extensión tras el destierro —«tan grande es la obsesión del pecado»— y el Miserere como expresión perfecta de los sentimientos penitenciales.
 
 La misma voz subraya que la conciencia del pecado no se queda en el pasado: la comunidad revive sus impenitencias (Sal 95,8-11) y el creyente aprende a leer su historia como historia de una misericordia que lo precede.
+
+### Según la *Veritatis Splendor* (VS-1993)
+
+La encíclica no dedica un tratado a la conciencia del pecado, pero la presupone en su conclusión orante: la petición a María, Madre de misericordia, de que el hombre «no pierda el camino del bien, no pierda la conciencia del pecado y crezca en la esperanza en Dios». La colocación no es accidental: la encíclica que defiende la verdad objetiva del acto moral termina pidiendo que esa verdad no se separe de la conciencia de la culpa y de la confianza en la misericordia. Sin las tres, la moral se vuelve legalismo o laxismo.
 
 ### Según la *Ratio Institutionis* «Christus Vita Vestra» (CVV-2020)
 

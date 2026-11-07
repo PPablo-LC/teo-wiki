@@ -19,7 +19,7 @@ Bartolomé de las Casas (1484-1566), obispo dominico español, fue el más céle
 
 Las Casas desarrolló una argumentación teológica original para la defensa de los indígenas: la dignidad natural de todos los pueblos, la ley natural como fundamento del derecho de gentes, y la libertad de evangelización como contraria a toda coacción. Su posición en la Junta de Valladolid (1550-1551) contra Juan Ginés de Sepúlveda marcó un hito en la historia del derecho internacional y la ética de la guerra.
 
-## Perspectivas por fuente — WoF-5
+## Perspectivas por fuente
 
 ### Según Milavec
 

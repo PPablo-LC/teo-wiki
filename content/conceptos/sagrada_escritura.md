@@ -64,7 +64,7 @@ Loring enseña que la Sagrada Escritura es la Palabra de Dios escrita por inspir
 
 La sagrada Escritura es inspirada por Dios y ha sido confiada a la Iglesia, en la cual debe ser leída e interpretada. Aunque la [[revelación_divina]] se contiene en la Escritura y en la [[tradición_apostólica]] como en un solo depósito, la Escritura sin la Tradición resulta formalmente insuficiente para conocer el contenido íntegro de la revelación. Por eso la teología moral se apoya a la vez en la Escritura inspirada, en la Tradición viva y en el [[magisterio_de_la_iglesia]] que la interpreta auténticamente (Cap. I, §3a).
 
-### Perspectivas por fuente — WoF-5
+### Según Catholicism — Word on Fire (WoF-5)
 
 **Braga** subraya el apologetical purpose of John's Gospel: el Evangelio de Juan no es solo un relato devocional sino una obra con finalidad apologética explícita, destinada a probar que Jesús es el Mesías y Hijo de Dios, y a conducir a la fe (Jn 20,31). La estructura teológica de Juan —con sus signos, discursos y la «hora» de Jesús— constituye una argumentación sistemática a favor de la identidad divina de Cristo.
 

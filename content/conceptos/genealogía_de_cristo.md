@@ -52,6 +52,16 @@ La reflexión del 17 de diciembre de 2021 (Mt 1,1-17) se detiene en la genealog�
 
 **La buena noticia de la Navidad.** La genealogía, leída en Adviento, anuncia que Dios mismo se metió en la familia disfuncional y ambigua del hombre.
 
+### Según *The Blessing of Christmas* — Joseph Ratzinger (BWC)
+
+**Una historia con caídas y aciertos.** La genealogía con la que Mateo abre su Evangelio muestra a un Mesías «entretejido en una historia humana con sus altibajos»: no es el producto de una línea impecable, sino el fruto de un camino largo cuyo término era engendrar al Cristo. Precisamente por ser genealogía de Abraham enseña la fidelidad de Dios: a través de todos los extravíos humanos, Dios no olvida su promesa y sabe abrir camino a su fidelidad (BWC 2).
+
+**Catorce generaciones: la cifra de David.** Las letras hebreas con que se escribe «catorce» son las mismas del nombre de David; la estructura en tres tramos de catorce es, por tanto, un anuncio de realeza, «una fanfarria real»: ese hombre oculto y crucificado es el verdadero rey, y en él converge la historia entera.
+
+**Las cuatro mujeres extranjeras.** Frente a la tradición que destacaba a las matriarcas —Sara, Rebeca, Lía y Raquel—, Mateo menciona a Tamar, Rahab, Rut y Betsabé, mujeres que a primera vista «manchan» la genealogía. Ratzinger recoge la lectura de Kittel (la gracia que justifica al pecador) pero la corrige apoyándose en Schweizer: el punto decisivo es que las cuatro **no son judías**. Son extranjeras las que aparecen en los giros decisivos de la historia de Israel, y por eso la genealogía de Abraham y David se convierte en genealogía de la Iglesia de judíos y gentiles. Rahab, la prostituta de Jericó, es tipo de la Iglesia salida del paganismo (Heb 11,31; Sant 2,25); Rut hace suyo el «tu Dios será mi Dios» y llega a ser antepasada de David; Betsabé, probablemente hitita, es madre de Salomón, figura de Cristo; Tamar obliga a Judá a darle descendencia y por ella el reino pasa a Judá, cumpliéndose Gn 49,10.
+
+**Pertenencia jurídica y *fiat* de María.** En el cierre de la lista no se dice que José engendrara a Jesús, sino que era «el esposo de María, de la cual nació Jesús». José no es padre biológico: Jesús pertenece a la genealogía por un vínculo legal, y para Israel el origen jurídico era el decisivo. Gracias a ese puente, el Antiguo Testamento pertenece a Jesús. El comienzo verdadero, el que determina todo, acontece por la fe: el *fiat* de María, espacio al que el creyente puede entrar en todo momento (BWC 2).
+
 ## Distinciones importantes
 
 - **Genealogía legal vs. genealogía natural:** Mateo traza la línea por José, padre legal; Lucas ofrece una lista que algunos Padres leyeron como línea natural o como línea por María. En ambos casos la concepción virginal interrumpe la generación ordinaria.

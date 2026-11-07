@@ -39,8 +39,6 @@ El capítulo 4 se estructura en varias secciones temáticas:
 
 ## Perspectivas por fuente
 
-### Perspectivas por fuente
-
 ### Según la Regla de San Benito (RSB)
 
 El capítulo 4 de la Regla es el más denso de los primeros capítulos doctrinales. Los setenta y dos instrumentos se ordenan así:

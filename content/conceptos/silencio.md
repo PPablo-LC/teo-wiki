@@ -127,6 +127,16 @@ Dios» (01, 61).
 **Silencio y tiempo libre.** «Dispongamos nuestro corazón también no
 disipándonos excesivamente en el tiempo libre» (01, 63).
 
+### Según *The Blessing of Christmas* — Joseph Ratzinger (BWC)
+
+**El silencio como ámbito donde Dios nace.** En su lecho de muerte, santa Isabel de Hungría († 16 de noviembre de 1231) pidió a los presentes silencio absoluto para hablar del Salvador, «porque la medianoche está cerca, cuando nació el dulce niño Jesús». Lo que parece un juego es en realidad expresión de la reverencia que abre el camino al misterio: «El silencio es el espacio de este niño. El silencio es el ámbito donde Dios nace» (BWC 5).
+
+**El texto litúrgico del silencio.** Ratzinger lo pone en relación con Sab 18,14-15, uno de los textos más antiguos de la liturgia de Navidad: «Mientras un silencio apacible lo envolvía todo... tu palabra omnipotente saltó del cielo, desde el trono real». Ignacio de Antioquía se apoyó en ese pasaje para hablar de tres misterios que clamaron pero quedaron ocultos al príncipe de este mundo porque se realizaron «en el silencio de Dios» (*Eph.* 19,1).
+
+**Silencio exterior y ruido interior.** El mero callar no basta: se puede guardar silencio exteriormente y estar desgarrado por el estruendo del mundo. Hacerse silencio significa descubrir otro orden de cosas: no limitar la atención a lo que uno produce y muestra, ni a lo que los hombres consideran importante, sino desarrollar los sentidos interiores, el sentido de la conciencia, la sensibilidad a lo eterno y la capacidad de escuchar a Dios (BWC 5).
+
+**La diagnosis cultural.** El autor compara al hombre actual con los dinosaurios, que perecieron por desarrollarse en la dirección equivocada —mucha coraza y poco cerebro—: nosotros acumulamos tecnología y perdemos alma. Recuperar el silencio no exige renunciar al trabajo humano, sino devolver espacio a la razón ética y religiosa, ese saber que se sitúa entre la ciencia y la superstición y que hace humano al hombre mirándolo a la luz de Dios (BWC 5).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[oración_contemplativa]], [[recogimiento_interior]], [[guardia_del_corazón]], [[mortificación]], [[ascética]], [[mística]], [[presencia_de_dios]], [[escucha]], [[vos_estis_lux_mundi]], [[vademécum_del_ddf]], [[notitia_criminis]], [[sigilo_sacramental]], [[secreto_de_oficio]], [[teología_negativa]] y la [[poesía]] que llega hasta el umbral del gran silencio.

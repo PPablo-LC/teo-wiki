@@ -22,15 +22,13 @@ La santificación no es un logro humano sino una obra de la gracia divina que re
 
 ## Perspectivas por fuente
 
-### Según Wolff
+### Según Wolff (WoF-5)
 
 **Wolff** enseña que the sanctification process requires detachment from worldly attachments: la santificación presupone un desprendimiento progresivo de los vínculos terrenos —ambiciones, bienes materiales, apegos afectivos— que impiden al alma elevarse hacia Dios. Este desapego no es rechazo de la creación sino ordenación de todo hacia el Creador, siguiendo el modelo de Cristo que se despojó de sí mismo (Flp 2,7).
 
-### Según Stroud
+### Según Stroud (WoF-5)
 
 **Stroud** afirma que la satisfacción del instinto y la vida carnal se redirige hacia Dios: el principio más fundamental de la vida católica es objectify your body so you can order your desires towards God. La objetivación del propio cuerpo —entendido como templo del Espíritu Santo— permite reconocer los deseos no como fines en sí mismos sino como fuerzas que deben ser ordenadas hacia Dios. La santificación requiere que el hombre tome posesión consciente de su propia corporalidad para someterla al designio divino.
-
-## Perspectivas por fuente — WoF-5
 
 ## Ver también
 

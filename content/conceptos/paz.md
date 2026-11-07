@@ -98,6 +98,18 @@ Barron conecta el tema de la paz con la figura de David y su reinado, ofreciendo
 
 Este tratamiento de la paz en 2 Samuel enriquece la doctrina católica al mostrar que la paz verdadera no es ausencia de tensión, sino presencia de Dios en medio de la tensión.
 
+### Según *The Blessing of Christmas* — Joseph Ratzinger (BWC)
+
+**El *shalôm* del Gloria.** La palabra bíblica que traducimos por «paz» significa mucho más que la mera ausencia de guerra: dice que las cosas humanas están como deben estar, y designa el bienestar, un mundo en el que reinan la confianza y la fraternidad, sin miedo, carencia, astucia ni mentira. Ese es el objetivo de la Navidad, y el himno de los ángeles lo formula con una prioridad clara: primero la gloria de Dios, porque «la paz entre los hombres nace de la gloria de Dios» (BWC 6).
+
+**La gloria como bien común.** Ratzinger extrae una consecuencia política y social: la gloria de Dios no es un asunto privado dejado al arbitrio individual, sino un bien común; donde Dios no es honrado entre los hombres, tampoco el hombre puede serlo. Preocuparse por el hombre exige, por tanto, preocuparse primero por el honor de Dios.
+
+**La paz mesiánica en la noche de las luces.** La fecha del 25 de diciembre remitía a Hanukkah, la fiesta de la purificación del Templo tras la profanación de Antíoco IV: la restauración del culto recto era el comienzo del renacimiento de Israel, y desde el siglo II a.C. se esperaba en esa fecha al niño mesiánico que enseñaría a honrar a Dios e inauguraría el tiempo nuevo de la libertad. Al nacer en esa noche, Cristo realiza lo que Judas Macabeo buscó en vano: destierra los ídolos y restablece la gloria de Dios, y con ella comienza la paz (BWC 6).
+
+**Los hombres de paz.** El relato lucano muestra quiénes fueron llamados al pesebre: María, la contemplativa; José, el «hombre justo» que sabe oír y ver; los pastores, en la sencillez de su corazón; los Magos, que buscan al verdadero Señor de la tierra; Simeón y Ana, ligados al Templo. En todos ellos Dios desempeña un papel decisivo, y precisamente por eso son hombres de paz (BWC 6).
+
+**Una paz fragmentaria.** La paz que comienza en Belén no es todavía la paz total: donde los hombres siguen a este Dios «comienza una humanidad nueva y una paz en la tierra, aunque sea de modo fragmentario». La plenitud queda para el Reino (BWC 6).
+
 ## Distinciones importantes
 
 - La paz cristiana no es pasividad o indiferencia, sino fruto de la victoria sobre el pecado.

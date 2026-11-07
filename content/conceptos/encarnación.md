@@ -172,7 +172,7 @@ El concilio anatematizó las herejías cristológicas (D-710): Ebión, Cerinto, 
 
 **Paulo IV** (1555), Constitución *Cum quorundam* (D-993): condenó a quienes niegan que Nuestro Señor Jesucristo fue concebido según la carne en el vientre de la siempre Virgen María por obra del Espíritu Santo; o que no sufrió la muerte de cruz para redimirnos de los pecados y reconciliarnos con el Padre.
 
-### Perspectivas por fuente — WoF-4
+### Según Catholicism — Word on Fire (WoF-4)
 
 **Bulman** presenta la divina providencia como ubiquitous, indistinguible de la *cueille dans les rues* —la Provvidenza divina se manifiesta en la captación cotidiana de los acontecimientos de la calle, de la vida ordinaria. La Encarnación es el paradigma de esta providencia: Dios se inserta en la realidad humana de manera tan concreta que su presencia resulta inseparable del tejido mismo de la existencia diaria.
 
@@ -236,6 +236,16 @@ La unión en Cristo es **personal**: ni esencial (Eutiques, que confunde las nat
 **La ironía de la Encarnación.** El Rey llega «sigilosamente, clandestinamente», como un niño indefenso nacido en un puesto avanzado del Imperio, para vencer «con el poder finalmente irresistible del amor» (18 de diciembre).
 
 **«Plantó su tienda».** El prólogo de Juan (*eskenosen*) evoca el tabernáculo: el Verbo hecho carne es Dios que viene a habitar definitivamente en su mundo, deshaciendo los efectos del pecado y haciendo de Jesús «el nuevo Edén, el nuevo templo, la creación restaurada» (25 de diciembre).
+
+### Según *The Blessing of Christmas* — Joseph Ratzinger (BWC)
+
+**El Verbo como «sentido» que se hace persona.** Ratzinger advierte que, si la Navidad fuera solo el idilio de un nacimiento, quedaría el ciclo nacimiento-muerte y nacer sería más motivo de tristeza que de alegría. Lo que se celebra es otra cosa: que «el Verbo se hizo carne». Y como *Logos* significa también «sentido», cabría traducir: «el sentido se hizo carne». Ese sentido no es una idea general inherente al mundo ni una ley universal en la que cada uno desempeña un papel: es una palabra dirigida personalmente, que conoce, llama y conduce, y es en sí misma una persona, el Hijo de Dios nacido en Belén (BWC 7).
+
+**La Encarnación como escándalo de la verdad bella.** La objeción moderna —«es demasiado bueno para ser verdad»— nace de la sospecha de que la verdad sea sucia. Ratzinger responde con la tradición del *splendor veritatis* y con una crítica al arte que se limita a desenmascarar (piensa en Brecht): si Dios no existe, no queda luz, solo tierra sucia. La verdad última es bella y buena, y quien la encuentra se vuelve bueno (BWC 7).
+
+**«Los suyos no lo recibieron».** El versículo de Jn 1,11 no habla solo de la posada de Belén ni de los sin techo —importante como es esa llamada—, sino de algo más hondo: la arrogancia cierra la puerta a Dios y, con ella, al prójimo. El hombre prefiere deberlo todo a sí mismo antes que reconocer que pertenece a Otro. Por eso Dios no viene con poder ni con sabiduría que obliguen a capitular: viene como un niño, porque «no quiere nuestra capitulación: quiere nuestro amor», y así nos hace libres (BWC 7).
+
+**El prólogo como otra versión del mismo relato.** La tercera Misa de Navidad no narra el establo, pero cuenta la misma historia: la luz que brilla en las tinieblas, la gloria que se deja ver como gracia, el Señor que no fue recibido en su casa. Lucas y Mateo cuentan la historia terrena y dejan ver la acción oculta de Dios; Juan mira desde el misterio y muestra cómo ese misterio penetra el establo y entra en la carne y la sangre del hombre (BWC 7).
 
 ## Distinciones importantes
 

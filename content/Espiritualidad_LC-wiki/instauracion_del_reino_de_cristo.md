@@ -45,6 +45,11 @@ La doctrina social de la Iglesia ofrece el marco: el designio divino está desti
 
 ## Perspectivas por fuente
 
+### Según el Compendio de la Doctrina Social de la Iglesia (CompDS)
+
+El Compendio sitúa la extensión del señorío de Cristo en el horizonte de la unidad del género humano: en el misterio de una salvación realizada bajo ese señorío, Dios reúne «toda la realidad creatural fragmentada y dispersa» (CompDS 431). La instauración del Reino tiene así una dimensión de reconciliación: no se trata de imponer un orden, sino de reunir lo disperso.
+
+La misma fuente advierte que esa unidad no se construye por la fuerza, sino por la comunión y la libertad, lo que excluye cualquier lectura triunfalista de la fórmula.
 ### Según las Constituciones de la Legión de Cristo (CLC-2020)
 
 Las *Constituciones* definen el fin de la Congregación con la fórmula que da nombre al concepto: «dar gloria a Dios y buscar que Cristo reine en la vida de sus miembros, en el corazón de los hombres y de la sociedad» (CLC 2 § 1). La estructura ternaria —los miembros, los hombres, la sociedad— ordena el apostolado en círculos concéntricos: la santificación propia, la evangelización de las personas y la transformación de las realidades temporales.
@@ -57,11 +62,6 @@ El texto desarrolla la fórmula en clave de amor más que de estrategia. El Rein
 
 La insistencia en «permitir» es teológicamente exacta: la instauración no es producción, sino disponibilidad. Dios reina donde encuentra una libertad que lo acoge.
 
-### Según el Compendio de la Doctrina Social de la Iglesia (CompDS)
-
-El Compendio sitúa la extensión del señorío de Cristo en el horizonte de la unidad del género humano: en el misterio de una salvación realizada bajo ese señorío, Dios reúne «toda la realidad creatural fragmentada y dispersa» (CompDS 431). La instauración del Reino tiene así una dimensión de reconciliación: no se trata de imponer un orden, sino de reunir lo disperso.
-
-La misma fuente advierte que esa unidad no se construye por la fuerza, sino por la comunión y la libertad, lo que excluye cualquier lectura triunfalista de la fórmula.
 
 ## Distinciones importantes
 

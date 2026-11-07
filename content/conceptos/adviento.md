@@ -35,6 +35,16 @@ Barron presenta el Adviento como «la temporada litúrgica de la vigilancia» o,
 
 **El desierto.** El Adviento es también «un tiempo de desierto» que nos devuelve a lo básico, porque en el desierto mueren las ilusiones y la realidad se afronta sin componendas (16 de diciembre).
 
+### Según *The Blessing of Christmas* — Joseph Ratzinger (BWC)
+
+**Adviento como «presencia» y «llegada».** Ratzinger parte del sentido del latín *adventus*: en el vocabulario clásico designaba la llegada de un alto cargo —y sobre todo la entrada de un rey o de un emperador en una provincia—, pero también la aparición de un dios que sale de su ocultamiento. Los cristianos aplicaron el término a Cristo: el rey que ha entrado en esta «provincia» que es la tierra y que se hace presente en la asamblea litúrgica. Decir Adviento es decir, en definitiva: «Dios está aquí, no se ha retirado del mundo, no nos ha dejado solos» (BWC 1).
+
+**De la «visitación» a la visita.** Al término *adventus* va unido *visitatio*, que el lenguaje eclesiástico tradujo como «visitación» y cargó de connotaciones de castigo. Ratzinger propone invertir esa lectura: la visita de Dios no es una pena que se abate sobre el hombre, sino la cercanía del que entra en su vida para encontrarlo personalmente. Por eso incluso la enfermedad puede vivirse como «un adviento muy personal»: Dios interrumpe la actividad para que el hombre se detenga, acepte el dolor como poda (Jn 15,2) y descubra que hay un tiempo que pertenece a Dios.
+
+**La espera llena.** El segundo elemento del Adviento es la espera como acto de esperanza. La espera se vuelve insoportable cuando el presente está vacío o cuando no se sabe si cabe esperar algo; la espera cristiana, en cambio, es la que descubre que los dones de Cristo no pertenecen solo al futuro: Él ya está presente de modo oculto en la Escritura, en el año litúrgico, en los santos, en los acontecimientos y en la creación entera. «Si Dios existe, ningún tiempo carece de sentido»; por eso la esperanza cristiana no desvaloriza el tiempo, sino que da valor a cada momento (BWC 1).
+
+**Las costumbres como traducción de la liturgia.** El árbol de Navidad, los dulces y los regalos no son añadidos piadosos: son el intento del pueblo fiel de hacer visibles las palabras que la Iglesia reza en Adviento —los montes y los árboles que cantan de gozo (Sal 96), la tierra que destila dulzura—. La alegría de este tiempo no depende de que el sufrimiento desaparezca: el Niño es signo de esperanza precisamente para los oprimidos (BWC 1).
+
 ## Distinciones importantes
 
 - **Adviento litúrgico** (tiempo de preparación a la Navidad) ≠ **espera escatológica** (espera de la Parusía)

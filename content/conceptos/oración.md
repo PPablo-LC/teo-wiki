@@ -114,7 +114,7 @@ Nesteros también enseña en la Conferencia XV que los carismas divinos —inclu
 
 > **Referencia:** ColCas-II, Conferencia XIV, §§1-19; Conferencia XV, §§1-10
 
-### Perspectivas por fuente — WoF-5
+### Según Catholicism — Word on Fire (WoF-5)
 
 **Taylor** presenta la oración como antidote against the Pelagianism of "we can do it ourselves": la oración es el reconocimiento radical de que el hombre no puede bastarse a sí mismo para alcanzar la salvación o la santidad, y que necesita del auxilio divino en cada paso del camino espiritual. Contra toda tentación de autosuficiencia, la oración restituye la dependencia filial de Dios.
 
