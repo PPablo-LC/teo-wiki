@@ -13,6 +13,7 @@ description: "Análisis de *Corazón* (*Cuore*, 1886) de Edmondo De Amicis a la 
 > Fecha de publicación original: 1886 (*Cuore*)
 > Edición analizada: traducción castellana en 10 archivos mensuales, www.elejandria.com (agosto y septiembre no figuran en esta edición)
 > Fecha de análisis: 2026-10-20
+> Resúmenes: `wiki/Resúmenes/corazon_capitulos/` (10 archivos, uno por mes; 2026-11-15)
 > Tags: literatura infantil, educación, caridad, patria, trabajo, familia
 
 ## Visión general
@@ -153,6 +154,23 @@ Escrito desde una sensibilidad **deísta-cristiana difusa** (moral evangélica s
 3. **El maniqueísmo pedagógico.** La división tajante entre buenos y malos, y la incapacidad de redimir a Franti, es ajena al realismo de la antropología cristiana, que distingue persona y acto y espera la conversión del más endurecido.
 
 **Uso pastoral:** *Corazón* sigue siendo útil en la educación como **lectura de acompañamiento**: cada capítulo ofrece un caso concreto para conversar con los niños sobre la virtud, la compasión y el deber. El cristiano puede leerlo como un libro que enseña a ver el rostro del prójimo —y en él, «el hermano más pequeño» (Mt 25,40)— corrigiendo su fundamento: donde De Amicis pone la Patria y el Deber, la fe pone a Cristo; donde pone el esfuerzo, la fe pone la gracia; donde pone el patriotismo, la fe pone el Reino.
+
+## Resúmenes
+
+Los resúmenes por mes del curso están en `wiki/Resúmenes/corazon_capitulos/`, un archivo por mes en el orden en que transcurre el diario (octubre a julio; la edición manejada no incluye agosto ni septiembre):
+
+| # | Mes | Resumen | Contenido |
+|---|-----|---------|-----------|
+| 1 | Octubre | [[08_octubre]] | El primer día de clase, el maestro que se queda solo, el accidente de Roberto y la galería de compañeros |
+| 2 | Noviembre | [[09_noviembre]] | El deshollinador y la colecta de las niñas, el día de los difuntos, Garrón y el perdón de Nobis |
+| 3 | Diciembre | [[10_diciembre]] | Garofi y su colección de sellos, la lección del ciego a Votino, la nieve y el herido; el cuento del pequeño escribiente florentino |
+| 4 | Enero | [[01_enero]] | El maestro suplente, Franti expulsado, la envidia y la muerte de Víctor Manuel; *El tamborcillo sardo* |
+| 5 | Febrero | [[02_febrero]] | La medalla de Precusa, la soberbia de Nobis, el preso número 78 y la lección de los ciegos |
+| 6 | Marzo | [[03_marzo]] | Escuelas de adultos, la pelea de Estardo, el chiquitín muerto y los premios del 14 de marzo |
+| 7 | Abril | [[04_abril]] | El asilo infantil, el maestro de mi padre, la muerte de la madre de Garrón, Mazzini y el valor civil |
+| 8 | Mayo | [[05_mayo]] | Los niños raquíticos, el sacrificio de Silvia, el incendio, la sordomuda y *De los Apeninos a los Andes* |
+| 9 | Junio | [[06_junio]] | Garibaldi y la patria, el calor de junio, la carta sobre el padre, la excursión al campo y la muerte de la maestra |
+| 10 | Julio | [[07_julio]] | Los exámenes finales, la despedida de Garrón y el adiós a la escuela |
 
 ## Ver también
 

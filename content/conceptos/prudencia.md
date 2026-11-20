@@ -59,6 +59,14 @@ Melina (Introducción) menciona la prudencia como virtud que guía la acción pr
 
 La prudencia no es ser bueno *en* algo (marinero, electricista, violinista) sino vivir bien la vida entera. Delibera sobre los medios (no elige el fin) y aplica los principios morales a las circunstancias: equilibra bienes en conflicto (los de la familia y los de los demás), obra sin precipitación ni por impulso repentino ni por parcialidad. Es la más alta de las morales, «porque el bien de la razón es el bien del hombre»; y está gobernada por la razón, mientras la caridad lo está por la sabiduría.
 
+### Según *Sharing in Christ's Virtues* (SCV)
+
+Melina responde a la objeción de *Veritatis splendor* 85 —cómo la norma universal respeta la singularidad de la persona— con la doctrina clásica de la prudencia. Los actos humanos versan sobre singulares contingentes (ST, *Sententia Libri Ethicorum* 6,1), y la prudencia conoce lo contingente en su contingencia: por eso es irreemplazable [SCV, 04].
+
+Pero la prudencia no está aislada de la ciencia moral: el recurso a la situación no autoriza excepciones a las normas negativas. Melina lo formula sin ambigüedad: siempre es verdadero que matar intencionadamente a un inocente es gravemente inmoral; lo que la prudencia discierne es el modo de realizar el bien, no si el mal puede hacerse [SCV, 04]. La singularidad radical se cumple además en la *sequela Christi* (VS 19): cada uno es llamado por su nombre a una misión irrepetible [SCV, 04].
+
+La prudencia cristiana tiene una condición: sin caridad no hay verdadera prudencia (ST II-II q.47 a.1). Flp 1,9-11 describe el discernimiento como florecimiento de la caridad, y Agustín define la prudencia como «amor que discierne»; la caridad genera el *imperium* del acto [SCV, 04]. Melina cierra con Orígenes y la vara de Aarón (Ex 7,10): la sabiduría del mundo se vuelve serpiente, y la cruz —sabiduría verdadera (1 Cor 1,18)— la convierte en prudencia (Mt 10,16). El don de consejo (II-II q.52) corona esta articulación entre virtud adquirida, virtud infusa y moción del Espíritu [SCV, 04].
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_prudencia]]

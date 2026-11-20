@@ -73,6 +73,16 @@ En el Nuevo Testamento aretê se usa poco (1 P 2, 9 y 2 P 1, 3: se aplica a Dios
 
 En el estudio de la virtud a la luz de la Escritura debe distinguirse la virtud como excelencia moral de la virtud como hábito, categoría de la antropología filosófica. Desde el primer punto de vista, la Biblia alude con frecuencia a la excelencia ética: el concepto de «justo» corresponde a quien practica las virtudes y no tanto a quien simplemente cumple las normas; la literatura sapiencial alaba o reprueba actitudes (el Sirácida: temor de Dios, paciencia, humildad, prudencia, templanza), y el Sermón de la montaña presenta el conjunto de actitudes morales del discípulo de Jesús. La vida cristiana no es un cúmulo de actos buenos desligados, sino una disposición interior unitaria que se concreta en cada acción; entre las cualidades morales enseñadas por la Escritura y las virtudes de la ética filosófica existe una notable convergencia: la perfección del carácter humano está presupuesta e incluida en la perfección del santo. (Ele_Xto_Stos, Cap. VII, §1b)
 
+### Según *Sharing in Christ's Virtues* (SCV)
+
+Melina propone la virtud como clave de la renovación de la teología moral pedida por *Optatam totius* 16 y orientada por *Veritatis splendor*: frente a la moral de preceptos, pensada desde la «tercera persona» —el confesor o el juez que mide el acto externo con la norma—, la ética de la virtud piensa desde el sujeto que actúa [SCV, 01; 03].
+
+La virtud es *habitus*: un término medio entre lo que somos y lo que estamos llamados a ser, una segunda naturaleza que da al obrar estabilidad y gozo [SCV, 03]. Melina precisa que no basta la conformidad externa con la recta razón (*secundum rectam rationem*): hace falta el *modus virtutis*, el modo propio del virtuoso. La antropología que la sostiene es unitaria —«corpore et anima unus»—: la virtud integra instintos, emociones y pasiones en un orden jerárquico, sin sofocarlos ni absolutizarlos [SCV, 03].
+
+La virtud es *habitus electivus*, no automatismo: perfecciona la orientación motivacional de la persona, pero no preestablece el objeto de la elección; el virtuoso sigue teniendo que elegir [SCV, 03]. Las «semillas de las virtudes» son la verdad sobre los bienes humanos, y la prudencia (*recta ratio agibilium*) es su constitutivo intrínseco: sin prudencia no hay virtud moral, y sin virtudes morales no hay prudencia [SCV, 03].
+
+En clave teológica, la caridad es forma y corazón de las virtudes: sin ella las virtudes son verdaderas, pero incompletas; los dones del Espíritu las adaptan a sus mociones [SCV, 03]. La tesis central de la obra lleva esto a su término: la vida moral cristiana es **participación en las virtudes de Cristo** por la gracia de la incorporación eclesial, doctrina que Melina desarrolla con San Buenaventura —Cristo como *exemplar excitativum virtutum*, la *cruciformitas* y el *incendium amoris*— [SCV, 01; 06].
+
 ## Distinciones importantes
 - Virtud infusa (dada por Dios) ≠ virtud adquirida (por repetición de actos humanos)
 - Virtud teologal (tiene a Dios por objeto) ≠ virtud moral (ordena los medios al fin)

@@ -186,6 +186,16 @@ Selman recoge la defensa tomista de la libertad frente a dos equívocos. Contra 
 
 Carrón destaca que el encuentro con Cristo deja libre a la persona para acogerlo: «Lui attraverso lei mi ha attirata a Sé. Senza catene... lasciandomi libera di scegliere ancora quel dono» (TACDC, 01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, l. 33). Asimismo, la amistad se funda en una libertad compartida orientada al destino: «la vera natura dell’amicizia è vivere liberamente insieme per il destino» (TACDC, 01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, l. 55).
 
+### Según Entre chicos por primera vez (ECP)
+
+**De la libertad dependen el mérito y el pecado.** ECP abre su capítulo sobre la libertad con una afirmación de principio: «No encontrarás en el hombre una cualidad más importante que ésta. Incluso el mismo Dios respeta la libertad que Él concedió al hombre»; «de nuestra libertad dependen, en resumidas cuentas, nuestro mérito y nuestros pecados» (11:3-5). Educarla bien sería «lo más esencial en la educación» (11:7).
+
+**Una libertad que se posee ejercitándola.** «Para poder educar esa libertad, hay que ejercitarla» (11:11): no se puede tener seguridad de que se usará bien antes de haberla ejercitado, ni negársela por el riesgo de que se use mal. La libertad se adquiere «a base de actos continuados», como se aprende a conducir recorriendo kilómetros (11:89).
+
+**Libertad y responsabilidad.** El adolescente «siente ya dentro de sí mismo como un imperativo de conducta una conciencia moral que pide libertad» (11:51), y el educador sigue siendo «responsable de sus actos delante de Dios» mientras están bajo su custodia (11:145). La libertad concedida se mide, pues, por la responsabilidad que el chico es capaz de asumir.
+
+> Para el desarrollo pedagógico de esta doctrina —graduación, vigilancia sin parecer vigilante, abuso de la confianza y retirada del educador—, ver [[educación_de_la_libertad]].
+
 ## Relaciones doctrinales
 
 La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].

@@ -30,6 +30,14 @@ La virtud moral es hábito electivo (héxis proairetiké). «Electivo» signific
 
 La virtud no puede ser concebida como habituación o dependencia: no es un automatismo que inclina mecánicamente a repetir siempre las mismas acciones. El automatismo o formalismo en la conducta ética sería insuficiente para la vida moral humana y cristiana. El acto propio y principal de la virtud (aunque no el único) es la elección buena: en las virtudes morales la elección es la decisión tomada respecto a una acción o a una pasión o sentimiento, mientras que los actos de las virtudes intelectuales (la formulación de una proposición científica) son objeto de elección pero no son elecciones en el mismo sentido (Ele_Xto_Stos, Cap. VII, §2c).
 
+### Según *Sharing in Christ's Virtues* (SCV)
+
+Melina recurre al carácter electivo del hábito para responder a la objeción más frecuente contra la ética de la virtud: que la virtud mecanice la libertad. La virtud es *habitus electivus*: perfecciona la orientación motivacional de la persona —lo que ama, lo que ve como bueno— pero no preestablece el objeto de la elección (*id cuius gratia eligitur*). El virtuoso no queda dispensado de elegir; elige con más verdad [SCV, 03].
+
+De ahí la distinción entre la conformidad externa con la recta razón y el *modus virtutis*: obrar «según la virtud» no es sólo hacer lo que la razón prescribe, sino hacerlo del modo en que lo hace el virtuoso, con prontitud, gozo y estabilidad. La virtud es segunda naturaleza, y por eso el bien se vuelve connatural: *qualis unusquisque est, talis finis videtur ei* [SCV, 03].
+
+Esta doctrina permite a Melina articular virtud y gracia: la caridad es forma de las virtudes, y los dones del Espíritu las disponen a mociones más altas sin destruir su carácter electivo [SCV, 03; 06]. En el orden cristológico, la elección virtuosa es participación en la libertad de Cristo, que «hace siempre lo que agrada al Padre» [SCV, 06].
+
 ## Distinciones importantes
 
 - **Hábito electivo vs. automatismo**: la virtud es hábito de la buena elección, no un automatismo que inclina mecánicamente a repetir las mismas acciones; el formalismo ético sería insuficiente para la vida moral

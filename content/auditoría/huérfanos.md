@@ -6,6 +6,12 @@ description: "Registro acumulativo de wikilinks sin artículo propio: secciones 
 ---
 # Auditoría de wikilinks huérfanos
 
+> **Actualización 2026-11-07 (lote 21, JvC) — 2 huérfanos resueltos y 1 sembrado:** se crean los artículos de persona `[[epicteto]]` (resuelve el huérfano homónimo y su variante sin tilde) y `[[séneca]]` (resuelve `[[seneca]]`, que el detector normaliza) desde *El joven de carácter* (JvC); en el mismo lote se crean `[[barlaam]]`, `[[macario]]`, `[[san_columbano]]`, `[[régulo]]`, `[[demóstenes]]`, `[[colón]]` y `[[napoleón]]`, y se enriquecen con JvC `[[santa_catalina_de_siena]]`, `[[tomás_de_kempis]]`, `[[sócrates]]`, `[[moisés]]` y `[[santo_tomás_de_aquino]]`. Queda sembrado `[[estoicismo]]` (ya registrado desde EAC-22). Medición global tras el lote: **3.575 huérfanos únicos**.
+> **Actualización 2026-11-07 (lote 20) — `[[tolerancia]]` resuelto (4 refs):** artículo en `wiki/conceptos/tolerancia.md` con la distinción de tres niveles (virtud de la paciencia, principio jurídico de no coacción, ideología de privatización) y sección `## Juicio antropológico y moral` que arranca del CEC §§ 2104-2109. Fuentes: CEC, DH, CIC 748, SmTh II-II q.128 y q.136, Barron (AR cap. 3), de Lubac (PF 13), Loring, *Elegidos en Cristo* IX, HI 37 y EAC-10. Sembrados: ninguno.
+> **Actualización 2026-11-07 (lote 19) — `[[cristiandad]]` resuelto (5 refs):** artículo en `wiki/conceptos/cristiandad.md` con HI caps. 18/20/26, EAC cap. 7, *Antología del delegado pontificio*, Pinkaers VIII y Konner XIII. Sembrados desde él y pendientes: `[[monacato_occidental]]`.
+> **Actualización 2026-11-07 (lote 18) — `[[isaac]]`, `[[jacob]]` y `[[josé]]` resueltos:** tres artículos nuevos en `wiki/personas/` que completan el ciclo patriarcal sembrado desde `patriarcas.md`. Fuentes: CEC §§ 205/269/312-313/431/2572-2573/2592, *Vocabulario de Teología Bíblica* («Bendición», «Egipto») e IAT cap. 24 § 1. No dejan huérfanos nuevos: todos sus enlaces apuntan a artículos existentes.
+> **Actualización 2026-11-07 (lote 17, continuación) — `[[patriarcas]]` resuelto (7 refs):** artículo nuevo en `wiki/conceptos/patriarcas.md`, construido sobre IAT cap. 24 § 1 (relato, problemas históricos, Bright, Thompson/Van Seters y los seis argumentos de Ramsey) y CEC §§ 59/145-147/2570-2572; enlaza a [[historia_de_israel]] y [[abraham]]. Sembrados desde él y pendientes de creación: `[[isaac]]`, `[[jacob]]` y `[[josé]]`. Total detectado tras el lote: **3567**.
+> **Actualización 2026-11-07 (lote 17) — 7 huérfanos resueltos con artículo propio y 3 sembrados:** resueltos `[[saúl]]` (10 refs; person. 1 Sm 8-31, IAT cap. 25 y 2SamBr 1), `[[natán]]` (8; 2 Sm 7 y 12, oráculo dinástico y parábola del pobre), `[[betsabé]]` (5; 2 Sm 11-12 y Mt 1,6), `[[marana_tha]]` (5; CEC 1403/2817-2818, VocTeoBib «Señor», IST cap. 1 y *Didaché* X,6), `[[disputa_de_auxiliis]]` (5; Denzinger D-1090/D-1096/D-1097 con las notas de Inocencio XII a Benedicto XIV), `[[memorial]]` (4; CEC 1353-1367/1402-1405, VocTeoBib «Memoria», IST) y `[[siervo_sufriente]]` (4; los cuatro cantos de Is 42-53, VocTeoBib «Siervo de Yahveh» y CEC 440). Sembrados desde esos artículos y pendientes de creación: `[[samuel]]`, `[[jonatán]]` y `[[báñez]]`. Nota: los nombres con tilde (`saúl`, `natán`, `betsabé`) resuelven además las variantes registradas sin tilde, porque el detector normaliza NFD.
 > **Actualización 2026-11-06 — tabla regenerada íntegramente:** 3.738 huérfanos registrados (3.739 detectados), tras los lotes 10 y 11 de cobertura de esta sesión. Sustituye los conteos de 2026-08-23.
 > **Actualización 2026-11-06 (lote 16) — `[[jueces]]` resuelto y 2 sembrados:** artículo nuevo en `wiki/conceptos/jueces.md`, construido sobre IAT (cap. 13 «Leyendo la Historia», cap. 17 «Historia del movimiento profético I» y «Los orígenes de Israel», con la crítica a la anfictionía de Noth). Sembrados desde él: `[[débora]]` y `[[samuel]]`; `[[saúl]]` ya estaba registrado. El CEC no trata la institución y el VocTeoBib solo tiene la voz «juicio» (concepto distinto), de modo que el artículo se apoya en IAT y en el texto bíblico.
 > **Actualización 2026-11-06 (lote 14, BWC) — 2 huérfanos resueltos, 8 artículos enriquecidos y 1 sembrado:** resueltos con artículo propio `[[pesebre]]` (8 refs) y `[[buey_y_asno]]` (7), y enriquecidos con sección «Según The Blessing of Christmas (BWC)» los ya existentes `[[navidad]]`, `[[adviento]]`, `[[encarnación]]`, `[[genealogía_de_cristo]]`, `[[gloria_de_dios]]`, `[[luz]]`, `[[paz]]` y `[[silencio]]`. Artículo descriptivo: [[the_blessing_of_christmas]]. Queda sembrado y pendiente `[[árbol_de_la_vida]]` (BWC 3: el árbol del paraíso redescubierto, la cruz y el altar). **No** se siembran `[[isabel_de_hungría]]` ni `[[estrella_de_belén]]`: la persona canónica es `santa_isabel_de_hungría` y el concepto `estrella_de_belen` (sin tilde), enlazados con su nombre de archivo real.
@@ -7759,3 +7765,47 @@ admiten asimilación sin pérdida de precisión.
 - **Artículos nuevos (2):** `hijo_pródigo` (CEC 1439/1465/2839; VocTeoBib «Pecado», «Penitencia-conversión», «Misericordia», «Confesión», «Comida»; Introducción al AT sobre Os 11; Juan Pablo II, *Levantaos, vamos*; Corcuera; Giussani; Barron) y `cantar_de_los_cantares` (CEC 1611; CVV 116; catequesis de Juan Pablo II sobre Gn 2,23; San Bernardo, sermones 40 y 83; Corcuera con DCE 5; Sicari; EAC-9).
 - **Retargets a canónicos (4):** `lealtad`→`fidelidad` (TPCr define la fidelidad como lealtad), `pastor`→`pastor_y_rebaño`, `san_bernardo_de_clairvaux`→`san_bernardo`, `comunidad_cristiana`→`comunidad`.
 - **Huérfanos descartados por falta de cobertura real:** `molinismo` (0 archivos), `ambiente_cristiano` (1), `positivismo_lógico` (2), `marana_tha` (7 sin desarrollo).
+
+## Huérfanos sembrados por SCV (2026-11-07)
+
+Procesamiento de *Sharing in Christ's Virtues* (Livio Melina). No se crearon artículos de concepto en este lote —el material se integró en artículos canónicos—; los siguientes wikilinks quedan sembrados intencionalmente como forward references, con cobertura real en la fuente:
+
+| Huérfano | Cobertura en SCV | Nota |
+|----------|------------------|------|
+| ~~cristocentrismo_de_la_virtud~~ | 01:33-35; 06 (todo el capítulo) | **Creado el 2026-11-07 como [[cristocentrismo_en_las_virtudes]]** (nombre canónico definitivo) |
+| ~~bien_de_la_persona~~ | 03:101-153; 04:101-153 | **Creado el 2026-11-07** como artículo propio; su complemento, [[bienes_humanos]], también quedó creado ese día |
+| [[cruciformidad]] | 06:91-107 | *Cruciformitas* bonaventuriana |
+| [[incendium_amoris]] | 06:107-119 | El fuego del Espíritu como principio de las virtudes |
+| [[sentire_cum_ecclesia]] | 09:75-95 | Criterio de autenticidad del discernimiento |
+| [[norma_categórica_concreta]] | 06:23-55 | Tesis de Balthasar, expuesta con su crítica |
+| [[morum_regula]] | 07:15-31 | La Iglesia como regla de costumbres (Agustín) |
+| [[fe_que_obra_por_la_caridad]] | 05:51-71 | Ga 5,6 como fórmula de la moral de fe |
+
+**Conceptos existentes enriquecidos (no huérfanos):** `virtud`, `virtud_como_hábito_electivo`, `virtudes_morales_infusas`, `acto_moral`, `conciencia_moral`, `prudencia`, `caridad`, `veritatis_splendor`. `objeto_moral` también existe y se ha usado como enlace válido.
+
+## Huérfanos sembrados por ECP (2026-11-14)
+
+Procesamiento de *Entre chicos por primera vez* (P. Héctor Antoñana, S.I.). Los cuatro conceptos centrales de la fuente se crearon como artículos: [[disciplina_educativa]], [[educación_de_la_libertad]], [[educación_social]] y [[educador_cristiano]]. Quedan sembrados intencionalmente, con cobertura real en la fuente, los siguientes forward references:
+
+| Huérfano | Cobertura en ECP | Nota |
+|----------|------------------|------|
+| ~~recreo~~ | 14:3-161 | El patio como espacio educativo, los juegos y la organización de la Olimpiada. **Creado el 2026-11-15** como [[recreo]] |
+| ~~compañerismo~~ | 04:13-17; 14:47-51; 15:3-83; 16:35-37; 18:45-61 | **Creado el 2026-11-15** como [[compañerismo]] (con VocTeoBib «Prójimo» y JvC 11:7) |
+| ~~timidez~~ | 04:7; 04:21-27; 17:53; 18:101-123 | **Creado el 2026-11-15** como [[timidez]] (aviso de método, tres niveles y `## Juicio antropológico y moral`) |
+| ~~pedagogía~~ | 12:21-119; 19:169-191; 20:109-121 | Arte de enseñar; se distingue de [[educación]] (el fin) y de [[disciplina_educativa]] (el medio). **Creado el 2026-11-15** como [[pedagogía]] |
+
+**Corrección de variante:** los resúmenes enlazaban `[[ignacio_de_loyola]]`; el canónico es [[san_ignacio_de_loyola]] (ya existente). Retargeteado en `07_orden_orden` y `21_puntos_de_examen`.
+
+## Huérfanos sembrados por la Guía de salud mental (2026-11-15)
+
+Procesamiento de *Salud mental y acompañamiento pastoral en el contexto de crisis humanitarias* (Dicasterio para el Servicio del Desarrollo Humano Integral). Los 13 resúmenes introducen un forward reference:
+
+| Huérfano | Cobertura | Nota |
+|----------|-----------|------|
+| [[resiliencia]] | cap. 6 completo («Reconocer y fomentar la resiliencia») | Término de origen psicológico: si se crea artículo propio, exige el método de `juicio-doctrinal` (aviso de método y `## Juicio antropológico y moral`) — **resuelto el 2026-11-15** |
+
+**Correcciones de variante:** `[[acompañamiento]]` → [[acompañamiento_pastoral]] y `[[desarrollo_humano_integral]]` → [[desarrollo_integral]] (ambos canónicos ya existentes).
+
+## Resuelto: resiliencia (2026-11-15)
+
+`[[resiliencia]]` tenía 3 referencias y era el huérfano más citado de la Guía de salud mental. Creado `wiki/conceptos/resiliencia.md` con el método de `juicio-doctrinal`: aviso de método, tres niveles (descriptivo, interpretativo y normativo —el salto de «puede» a «debe»), `## Juicio antropológico y moral` con CEC §1808, §1805, §1731, §1733, §1817-1818, §301, §307, §309, §1505 y §618, y `## Perspectivas por fuente` con SMACP (cap. 6 completo) y *Los dones de la imperfección* de Brené Brown (hitos 3 y 6). Se añade backlink en `salud_mental` (Relaciones doctrinales y Ver también).

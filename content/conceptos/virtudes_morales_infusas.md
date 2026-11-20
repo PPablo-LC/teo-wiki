@@ -52,6 +52,14 @@ Solo a las virtudes infusas se refiere en sentido estricto la definición de ori
 Debe reconocerse que la existencia de virtudes morales infusas no es materia dogmática sobre la cual la Iglesia se haya pronunciado con un juicio definitivo; es, sin embargo, la doctrina más común entre los grandes teólogos clásicos. La vida moral cristiana podría explicarse también de otro modo (la gracia hace meritorias las actuaciones de las virtudes adquiridas, las virtudes teologales elevan y modifican parcialmente los criterios reguladores de la prudencia humana, la caridad es la «forma» de todas las virtudes); pero la doctrina sobre su existencia facilita la comprensión del actuar moral cristiano, y no se han encontrado argumentos definitivos que refuten lo que la teología clásica ha dicho a favor de su existencia (Ele_Xto_Stos, Cap. VII, §5a).
 
 
+### Según *Sharing in Christ's Virtues* (SCV)
+
+Melina inserta las virtudes morales infusas en una síntesis más amplia: el [[cristocentrismo_en_las_virtudes|cristocentrismo en las virtudes]]. La vida moral cristiana es participación en las virtudes de Cristo por la gracia de la incorporación eclesial; las virtudes infusas son el modo concreto de esa participación, no un añadido paralelo a la naturaleza [SCV, 01; 06].
+
+El apoyo histórico es San Buenaventura: en las *Collationes de septem donis Spiritus Sancti* la gracia es el *habitus* que configura con Cristo, y las virtudes son formas de la caridad. Cristo es *exemplar excitativum virtutum* —ejemplar que suscita las virtudes, causa ejemplar y eficiente a la vez—, de modo que la virtud infusa no es sólo un don recibido sino una configuración con la forma de su vida: la *cruciformitas* y el *incendium amoris* [SCV, 06].
+
+La caridad sigue siendo la forma de todas las virtudes: sin ella, las virtudes —también las infusas— quedan incompletas, y los dones del Espíritu las disponen a sus mociones [SCV, 03; 06]. Melina subraya que esta sinergia evita dos extremos: el naturalismo que prescinde de la gracia y el supernaturalismo que desprecia la naturaleza y la mediación racional [SCV, 06].
+
 ## Distinciones importantes
 
 - **Virtudes morales infusas vs. adquiridas**: Las infusas son dadas por Dios en el bautismo; las adquiridas se forman por la repetición de actos.

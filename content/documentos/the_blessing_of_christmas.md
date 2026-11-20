@@ -106,6 +106,25 @@ La obra se ordena en torno a cuatro ejes.
 - [[santa_isabel_de_hungría|Isabel de Hungría]]
 - [[benedicto_xvi]]
 
+## Resúmenes
+
+Los resúmenes por sección están en `wiki/Resúmenes/The_Blessing_of_Christmas/`:
+
+| # | Sección | Resumen |
+|---|---------|---------|
+| 1 | Preliminares | [[01_preliminares]] |
+| 2 | Prefacio | [[02_prefacio]] |
+| 3 | Prólogo del autor a Lob der Weihnacht | [[03_prologo_a_lob_der_weihnacht]] |
+| 4 | Prólogo del autor a Licht, das uns leuchtet | [[04_prologo_a_licht_das_uns_leuchtet]] |
+| 5 | 1. Al comienzo del Adviento: diálogo con los enfermos | [[05_dialogo_de_adviento_con_los_enfermos]] |
+| 6 | 2. La genealogía de Jesús | [[06_la_genealogia_de_jesus]] |
+| 7 | 3. El árbol de la vida | [[07_el_arbol_de_la_vida]] |
+| 8 | 4. El buey y el asno en el pesebre | [[08_el_buey_y_el_asno_en_el_pesebre]] |
+| 9 | 5. La estrella nueva | [[09_la_estrella_nueva]] |
+| 10 | 6. «La luz brilla en las tinieblas» | [[10_la_luz_brilla_en_las_tinieblas]] |
+| 11 | 7. «Y el Verbo se hizo carne» | [[11_y_el_verbo_se_hizo_carne]] |
+| 12 | Nota sobre la primera publicación | [[12_nota_sobre_la_primera_publicacion]] |
+
 ## Referencias
 
 - Ratzinger, Joseph. *The Blessing of Christmas*. Trad. Brian McNeil. San Francisco: Ignatius Press, 2007.

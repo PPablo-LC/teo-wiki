@@ -39,6 +39,16 @@ El *Libro Cuarto* aplica el método a la preparación de la comunión y ofrece l
 
 El fruto del examen no es la contabilidad de faltas sino el propósito y la ofrenda: «Después de haber confesado y llorado estos y otros defectos con dolor y gran disgusto de tu propia fragilidad, propón firmemente de enmendar siempre tu vida... ofrécete a ti mismo, para gloria de mi nombre, en el altar de tu corazón, como sacrificio perpetuo» (IV, 7), con la promesa de Ez 18,22: «no quiero la muerte del pecador, sino que se convierta y viva».
 
+### Según Entre chicos por primera vez (ECP)
+
+**El examen aplicado al oficio de educar.** ECP dedica su último capítulo a los «puntos de examen» del educador: «El examinarse a sí mismo ha sido siempre una excelente práctica ascética. San Ignacio le daba tal importancia que permitía en algunas ocasiones excepcionales dejar la oración mental con tal de que no se omitiesen los exámenes de conciencia» (20:3). La razón es que «la vida del educador de jóvenes es asombrosamente compleja, dependiendo a veces de detalles mínimos el éxito o el fracaso de una actuación sin tacha aparente» (20:5).
+
+**Método.** La lista de 51 preguntas «no es completa» y debe adaptarse; conviene «incluir cosas concretas, incluso nombres de chicos a quienes sigues especialmente» (20:11). No basta responder sí o no: «Si ves que algún punto no va bien, corrígelo en cuanto puedas y no pares hasta sentirte satisfecho» (20:15). Y no desanimarse: «En el Kempis leemos que, si cada año lográsemos extirpar un vicio, pronto seríamos perfectos» (20:21).
+
+**Contenido.** Los puntos recorren todo el oficio: la blandura o la dureza en la inspección, las familiaridades peligrosas, los favoritismos, la medida del castigo, el conocimiento real de cada chico, los casos que requieren especial cuidado, la consulta de los casos difíciles, la oración por los chicos —«hasta lograr convertirte en un contemplativo en la acción» (20:39)—, la graduación de las libertades, la información a los superiores, la firmeza en las sanciones, la dignidad y necesidad de las órdenes, el equilibrio entre disciplina y bienestar, la unión del curso, la vigilancia de las conversaciones, la guarda de las confidencias, la caridad, la puntualidad, la preparación de las clases y la justicia de las notas (20:27-135).
+
+**Utilidad comprobable.** «Esta práctica del examen, aun prescindiendo de la ayuda espiritual y sobrenatural que pueda acarrearte, es humanamente de una gran utilidad»; en los Ejercicios anuales se pueden comprobar «los grandes bienes que te ha reportado» (20:23).
+
 ## Distinciones importantes
 
 - Examen general vs. examen particular (San Ignacio).

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Confianza
 tags: ["teología_bíblica", "moral"]
 
-timestamp: 2026-09-12
+timestamp: 2026-11-15
 description: "La confianza es una actitud fundamental del creyente que se abandona en Dios; fe en el prójimo y confianza en la hipótesis según Giussani."
 ---
 # Confianza
 
 > Área: Teología Bíblica / Moral
-> Última actualización: 2026-09-12
+> Última actualización: 2026-11-15
 
 ## Definición
 
@@ -47,6 +47,24 @@ Ese tránsito es la *metanoia*, el paso de la *pusilla anima* a la *magna anima*
 
 La confianza tiene también una forma eclesial y litúrgica: Bartimeo grita *eleeson me*, el *Kyrie eleison* de la Iglesia, y su petición —«Maestro, que vea»— resume la conversión. Barron añade una nota sobre el riesgo: la confianza verdadera no elimina la vulnerabilidad —el que confía se expone, como el que ama—, pero precisamente en esa exposición descubre la libertad del alma grande.
 
+### Según Entre chicos por primera vez (ECP)
+
+**La confianza se gana y se gradúa.** En la educación no es un punto de partida sino un fruto: el chico «te observa porque ante todo quiere saber qué partido tomar» (05:7), y si se le conceden confianzas al principio, «no podrás lógicamente exigir que después respeten unas distancias que tú mismo has acortado» (05:11). El retraimiento inicial de la «esfinge» no excluye la confianza: la prepara, porque da tiempo para conocer a los chicos y hace decisiva la primera actuación con cada uno (05:85-91).
+
+**No forzar el santuario interior.** «En el Sancta Sanctorum del alma de un chico solamente entra él y quien él quiere. Nunca los amigos, aun los más íntimos [...] casi nunca los padres y a veces hasta el Padre espiritual tiene que quedarse a la puerta» (05:95); lo que parece fondo es muchas veces «un falso piso» para mantener «un reducto infranqueable a todos» (05:95). De ahí la regla: si no se es sacerdote, no entrar «aunque el mismo interesado te brinde la entrada», porque aprovechar su confianza para enterarse de sus secretos es algo que «no te lo perdonará nunca» (05:97). Confiar no autoriza a saquear.
+
+**El confidente que guarda.** La confianza culmina cuando el chico busca en el educador «un alma honda, comprensiva sobre todo, pero que dé garantías de conservar a la sombra las confianzas que se le hagan» (05:111). La fuente añade un dato de experiencia: «algunas confidencias de más adelante o quizá las cartas que recibas en vacaciones te revelarán hasta qué punto calaron unas palabras que dijiste a media voz» (05:51). La confidencia es el fruto tardío de una palabra dicha sin cálculo.
+
+**Jugar limpio, condición del pacto.** El chico se abre si el educador no juega sucio: decirle lo que se sabe, no mentirle y pedirle que cuente «a su modo las cosas francamente, aun exponiéndose al castigo» (17:97). El fruto es que «te considerarán como un confidente y aun te buscarán para que intercedas por ellos» cuando otros investiguen con menos tacto (17:101).
+
+**El pacto de confidencia.** Cuando el chico comunica lealmente una falta antes de que lo sepa el Prefecto, la manera más eficaz de actuar es «haz un pacto con él ofreciéndole el secreto a cambio de su confidencia»: por cuenta del educador se estipula el castigo «sin que el asunto salga de entre vosotros dos» (17:105). El chico lo elige él mismo, con tiempo para pensarlo y sin insinuaciones (17:107), y «en adelante, nadie debe saber de tu parte por qué le castigaste» (17:109). No es complicidad: el castigo es real, y si murmuran de la sanción «el propio interesado se encargará de defender tu posición sin delatarse él» (17:109). El resultado es un vínculo nuevo: «creas con el chico un pasado común, bañado de sinceridad por ambas partes y que puede ser base para futuras confidencias más trascendentales» (17:117).
+
+**La guarda después del pacto.** Tres deberes la sostienen: si la falta se sabe por otra vía, «defiende siempre al chico» y elogia su sinceridad (17:113); cuando esté corregido, avisar al Rector y pedirle «que guarde secreto según lo prometiste» y que apruebe o modere el proceder (17:115); y no adelantar el pacto, porque «no lo intentes antes de tiempo»: sin conocer a los chicos no hay garantía de que jueguen limpio (17:119). La confianza se da cuando ya hay motivo para darla, no para crearla.
+
+**La guarda como examen de conciencia.** ECP la incluye entre las preguntas que el educador debe hacerse: «¿Guardo las confidencias de los chicos? Si no lo haces, te lo echarán en cara. No hables de sus cosas aunque sean inocuas. Y no se lo digas, sino dalo por supuesto. Los pequeños detalles que sólo ves tú, son también confidencias... a su pesar» (20:40). El criterio es exigente: no basta callar lo grave; también lo inocuo y lo meramente observado quedan bajo secreto.
+
+**Corresponder a la confianza.** Cuando se comprueba que usan bien la libertad concedida, se les puede dar «total libertad» (11:119); cuando abusan de ella, hay que obrar con dureza (11:117), sin que la confianza se vuelva un derecho adquirido.
+
 ## Distinciones importantes
 
 - **Confianza natural vs. confianza sobrenatural**: la primera se apoya en criaturas y es vana; la segunda se funda en la omnipotencia y fidelidad de Dios.
@@ -64,3 +82,4 @@ La confianza se vincula con la [[fe]], la [[esperanza]], la [[humildad]], la [[o
 ## Referencias
 
 - VocTeoBib, «Confianza»
+- P. Héctor Antoñana, S.I., *Entre chicos por primera vez* (ECP): 05:7-11 (la confianza se gradúa); 05:51 (confidencias y cartas); 05:85-91 (la «esfinge» prepara la confianza); 05:95-97 (el Sancta Sanctorum y el límite de no entrar); 05:111 (el confidente que guarda a la sombra); 11:117-119 (corresponder a la confianza); 17:97-101 (jugar limpio y ser confidente); 17:105-109 (el pacto de confidencia y sus condiciones); 17:113-119 (defender al chico, dar cuenta al Rector, no adelantarse); 20:40 (punto de examen 20: guardar las confidencias y los detalles observados).

@@ -379,6 +379,16 @@ Elementos centrales en REG:
   estudio sino una persona cuyo destino interpela; amar es reconocer a cada
   uno en su relación con Dios (01).
 
+### Según *Sharing in Christ's Virtues* (SCV)
+
+En la síntesis de Melina, la caridad es forma y corazón de todas las virtudes: sin ella las virtudes son verdaderas pero incompletas, y los dones del Espíritu las disponen a sus mociones [SCV, 03]. La caridad no es una virtud junto a otras sino la amistad con Dios que informa el obrar entero; de ahí que la respuesta a la objeción pelagiana no sea añadir esfuerzo, sino reconocer el principio [SCV, 03].
+
+Esta primacía tiene consecuencias epistemológicas: sin caridad no hay verdadera prudencia (ST II-II q.47 a.1), porque el discernimiento del bien concreto es un florecimiento del amor (Flp 1,9-11) y la prudencia es, en la fórmula agustiniana, «amor que discierne» [SCV, 04].
+
+En clave cristológica, Buenaventura le da su forma concreta: la caridad del cristiano es participación de la caridad de Cristo, cuya figura es la cruz —*cruciformitas*— y cuyo fuego es el Espíritu —*incendium amoris*— [SCV, 06]. Y en clave eclesial, la Eucaristía es su fuente: el mandamiento nuevo (Jn 13,34) tiene por medida el amor de Cristo que se entrega, de modo que la caridad eucarística da forma al sacrificio de la existencia [SCV, 07].
+
+Finalmente, la caridad es el criterio del discernimiento eclesial: «tenemos el Espíritu en la medida en que amamos la Iglesia» [SCV, 09].
+
 ## Analizado para
 
 [[pascasio_quesnel]], [[unigenitus]]

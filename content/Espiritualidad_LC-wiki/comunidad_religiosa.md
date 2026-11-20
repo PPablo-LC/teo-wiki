@@ -58,7 +58,7 @@ El Capítulo subraya que la comunidad debe ser «hospitalaria, generosa y mision
 
 La comunidad religiosa se relaciona con la [[vida_fraterna_religiosa]], la [[formación_integral]], la [[disciplina_religiosa]], la [[formación_en_relación]], el [[carisma_legionario]], la [[comunidad_formativa]], la [[consagración_legionaria]] y la [[vida_litúrgica_y_oración]].
 
-## Ver também
+## Ver también
 
 [[vida_fraterna_religiosa]], [[formación_integral]], [[disciplina_religiosa]], [[comunidad_formativa]], [[carisma_legionario]], [[comidas_comunitarias]], [[contacto_familiar]], [[formación_en_relación]]
 

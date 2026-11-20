@@ -73,7 +73,7 @@ El Comunicado Capitular de 2026 subraya la importancia de las comidas comunitari
 
 Las comidas comunitarias se relacionan con la [[comunidad_religiosa]], la [[disciplina_religiosa]], la [[vida_fraterna_religiosa]], la [[vida_litúrgica_y_oración]], la [[formación_integral]], las [[festividades_legionarias]] y la [[formación_en_relación]].
 
-## Ver também
+## Ver también
 
 [[comunidad_religiosa]], [[disciplina_religiosa]], [[vida_fraterna_religiosa]], [[festividades_legionarias]], [[vida_litúrgica_y_oración]], [[formación_integral]], [[contacto_familiar]]
 

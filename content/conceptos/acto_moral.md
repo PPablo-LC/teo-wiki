@@ -71,6 +71,16 @@ La estructura del acto moral se analiza en tres elementos: objeto, intención y 
 
 Para Giussani, la moralidad no es primariamente análisis de fenómenos ni cumplimiento de un código, sino respuesta: «L'azione morale è una risposta a una domanda che sale dalle profondità del nostro essere – dal cuore, direbbe la Bibbia –: è una risposta al Mistero che ci fa». El sujeto del acto moral es la persona, y su ley es el amor: «il soggetto dell'atto morale è la persona e la legge di una persona è l'amare: affermare un altro». Por eso la ley de la acción no es la autoafirmación, sino la afirmación de Otro: «La legge della mía azione è affermare un Altro... "Venga il tuo regno; sia fatta la tua volontà"». El criterio último del obrar queda así ligado a la Presencia: «Non esiste moralità al di fuori di un diálogo con "la" Presenza» (TACDC, 03, L217-219.277).
 
+### Según *Sharing in Christ's Virtues* (SCV)
+
+Melina sitúa el análisis del acto moral en un cambio de perspectiva: de la ética de la «tercera persona» —el observador que clasifica el acto externo con la regla, como hacían los manuales para confesores— a la ética de la «primera persona», la del sujeto que se realiza en sus actos [SCV, 03]. El texto de *Veritatis splendor* 78 es decisivo: el objeto moral es el fin próximo de la decisión deliberada, y hay que ponerse «en la perspectiva de la persona que actúa».
+
+Con ese criterio, el objeto del acto no es el evento físico ni la intención subjetiva. Melina lo ilustra con el caso del soborno a un funcionario: el objeto no es «firmar un papel» (materialismo objetivista) ni «salvar los puestos de trabajo» (subjetivismo de la intención), sino «sobornar a un funcionario público». Así se evita disolver la moralidad en la materialidad del hecho o en la sola intención del agente [SCV, 03].
+
+El obrar tiene además una densidad que el vocabulario moderno perdió: no es sólo *facere* —transformar el mundo, *poiesis*—, sino *agere*: el acto da al sujeto su propia identidad (*praxis*). De ahí la sentencia de Newman que Melina cita: preferible el hundimiento del mundo a la más pequeña injusticia [SCV, 03].
+
+En clave de fe, el acto moral del cristiano es acto de la persona transformada por la gracia: las virtudes teologales son su principio, y su referencia a Dios no es un añadido piadoso sino constitutiva [SCV, 05]. Por eso el obrar tiene relevancia salvífica, contra la distinción entre *Heilsethos* y *Weltethos* [SCV, 05].
+
 ## Distinciones importantes
 
 - **Acto moral vs. acto jurídico**: El acto moral se refiere a la bondad o maldad intrínseca; el acto jurídico se refiere a su conformidad con la ley positiva

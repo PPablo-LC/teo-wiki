@@ -48,7 +48,7 @@ El testimonio de Arzobispo Warda encarna la doctrina social de la Iglesia en su 
 - **Educación**: la inversión en formación como camino de liberación.
 - **Familia**: la promoción de la vida y la familia como respuesta a la crisis demográfica.
 
-## Ver também
+## Ver también
 
 [[martirio]], [[doctrina_social_de_la_iglesia]], [[cristianos_de_oriente]], [[esperanza_cristiana]], [[educación]], [[familia]], [[persecución]]
 

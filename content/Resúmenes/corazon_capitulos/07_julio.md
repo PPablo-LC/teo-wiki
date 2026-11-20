@@ -3,69 +3,27 @@ type: ResumenFuente
 title: "Julio"
 fuente: corazon_capitulos
 capítulo: 7
-timestamp: 2026-10-29
-description: "Resumen de 'Julio' — corazon_capitulos"
-tags: ["resumen", "corazon capitulos"]
+timestamp: 2026-11-15
+description: "Los exámenes finales, la despedida de Garrón y el adiós a la escuela: Enrique deja Turín con su familia al terminar el curso."
+tags: ["resumen", "corazon de amicis", "escuela", "amistad"]
 ---
 
 # Julio
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[escuela]] — la despedida del curso y de la escuela como madre
+- [[madre]] — la última página que anuncia la marcha de Turín
+- [[estudio]] — los exámenes y las ayudas discretas entre compañeros
+- [[amistad]] — el adiós a Garrón y a los demás
+- [[gratitud]] — el reconocimiento al maestro
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `07-julio.md`
+La «última página de mi madre» anuncia que la familia debe trasladarse de Turín y que Enrique no volverá a la escuela. La carta no es una queja sino una despedida: le pide llevarse el afecto de todos y le recuerda que la escuela «es una madre» que lo recibió niño y lo devuelve grande y bueno; los edificios modestos de la infancia, dice, no se olvidan nunca.
 
+Sigue el relato de los exámenes: la ciudad entera habla de ellos, los padres acompañan a sus hijos y les dan los últimos consejos en la puerta. El profesor examinador dicta un problema difícil y algunos se desesperan; Deroso y Garrón, que dominan la aritmética, ayudan a los demás «como si fuese nuestro propio maestro», y Estardo, tras una hora inmóvil, resuelve el ejercicio en cinco minutos.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+En el examen oral, Enrique descubre cuánto los quiere su maestro: se turba cuando dudan y se alegra cuando responden bien. Al salir, el maestro hace una payasada para animarlos, y el niño comprende que aquel gesto era todo su premio por nueve meses de paciencia.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Julio |
-| 3 | H2 | LA ÚLTIMA PÁGINA DE MI MADRE |
-| 48 | H2 | LOS EXÁMENES |
-| 109 | H2 | EL ÚLTIMO EXAMEN |
-| 173 | H2 | ¡ADIÓS! |
-| 258 | H2 | ¡Gracias por leer este libro de www.elejandria.com! |
-| 260 | H2 | Descubre nuestra colección de obras de dominio público en castellano e |
-
-
-## Secciones incluidas
-
-# LA ÚLTIMA PÁGINA DE MI MADRE
-
-[Contenido de esta sección...]
-
-# LOS EXÁMENES
-
-[Contenido de esta sección...]
-
-# EL ÚLTIMO EXAMEN
-
-[Contenido de esta sección...]
-
-# ¡ADIÓS!
-
-[Contenido de esta sección...]
-
-# ¡Gracias por leer este libro de www.elejandria.com!
-
-[Contenido de esta sección...]
-
-# Descubre nuestra colección de obras de dominio público en castellano en nuestra web
-
-[Contenido de esta sección...]
+«¡Adiós!» narra la última reunión: la lectura de las notas —Deroso, sobresaliente con primer premio—, la petición de perdón del maestro por si alguna vez fue injusto y el desfile de despedidas callejeras. Enrique se despide de Garrón, que le besa en la frente; su padre le pregunta si debe pedir perdón a alguien y, al responder que a nadie, los tres se alejan de la escuela diciendo «¡Adiós!».

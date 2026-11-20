@@ -32,8 +32,6 @@ Santo Tomás trata la misericordia divina en SmTh Iª q.21, junto con la justici
 
 **Suplemento (Suppl., q.99 a.2-5):** La misericordia divina no cancela la pena eterna de los condenados obstinados (q.99 a.2). Origen erró al sostener que los demonios serían liberados finalmente por la misericordia; esta opinión fue condenada por la Iglesia. La misericordia de Dios, aunque infinita, está regida por el orden de su sabiduría, y no alcanza a quienes se hacen indignos de ella por la obstinación en el mal. Dios perdona al que se arrepiente, pero el que muere en pecado mortal sin arrepentimiento queda excluido de la misericordia que salva. La misericordia divina se manifiesta incluso en los condenados en que son castigados menos de lo que merecen (q.99 a.2 ad 1), pero no son liberados totalmente de la pena. Ni la fe, ni los sacramentos, ni las obras de misericordia aprovechan al que muere sin caridad (q.99 a.4-5): solo la caridad ordena al hombre al fin último y lo hace capaz de la misericordia que salva eternamente.
 
-### Según la Summa Theologiae (SmTh)
-
 **IIª-IIae q.30 — La misericordia como efecto de la caridad:**
 
 **a.1 — El mal (miseria) es el motivo propio de la misericordia:** La misericordia es compasión por la miseria ajena. La miseria consiste en sufrir lo que no se quiere. Los males que arruinan y contristan son el objeto propio de la misericordia.

@@ -43,7 +43,7 @@ En el capítulo tercero, a propósito de la presencia real, recoge la respuesta 
 
 ## Resúmenes por capítulo
 
-> El resumen del capítulo 1 está aún en estado de plantilla (7/8 completados).
+> Los ocho resúmenes están completos (8/8). El del capítulo 1, «La Eucaristía como comida sagrada», se escribió leyendo el raw completo (111 líneas).
 
 - [[01_eucharist]] — Portada y datos de la obra
 - [[02_introduction_to_catholic_spirituality_for_adults]] — Presentación de la serie

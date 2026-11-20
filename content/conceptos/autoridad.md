@@ -116,6 +116,16 @@ Elementos centrales en REG:
   sua volontà di dominio totale» es tiránica, y el [[totalitarismo]]
   pretende ser la fuente de la verdad (17).
 
+### Según Entre chicos por primera vez (ECP)
+
+**El ascendiente es condición de la educación.** «Es de importancia excepcional que el chico te reconozca como algo superior. No sólo en orden a tu prestigio personal, sino sobre todo para lograr su formación humana. Tu deber es educarle y por eso tienes que estar sobre él» (05:21-23). Si no le acepta, «lo más que vas a conseguir es un autómata, un amargado, un saco de castigos» (05:23). El educador «está por encima de ellos en todos los órdenes» y es quien «impone el ritmo general» (17:5).
+
+**La «esfinge» como pedagogía de la autoridad naciente.** ECP recomienda una «prudente medida de alejamiento» durante las primeras semanas: «hacerse impenetrable a la curiosa inquisición de los chicos» (05:73), con «monosílabos atentos y sin desdén, pero ajenos a toda confianza» (05:77). No es desprecio ni hurañez: es tiempo para conocer a los chicos y para «cobrar, aunque sea artificialmente y por algún tiempo, un ascendiente que después no podrás adquirir a ningún precio» (05:119). Concede confianzas al principio y «no podrás lógicamente exigir que después respeten unas distancias que tú mismo has acortado» (05:15).
+
+**Autoridad participada y respaldada.** En clase el educador es «la suprema, la única autoridad. Participada, claro está —el Colegio no eres tú solo—» (12:59). Cuando la falta excede sus atribuciones, debe remitir al P. Prefecto: su autoridad «se verá robustecida al estar respaldada por otra superior» (07:43). Y en los enfrentamientos colectivos, el aferrarse orgullosamente al puesto de mando «es un error»: se puede dominar y humillar, pero «difícilmente se puede después intimar con ellos» (16:23).
+
+**Una autoridad que tiende a retirarse.** ECP comparte con De Lubac la convicción de que la autoridad es pedagógica y tiende a atenuarse: cuando el chico ya camina solo, «es mejor que te retires y actúe él solo» (10:95).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[estado]], [[bien_común]], [[ley_justa]], [[comunidad_política]], [[democracia]], [[participación]]

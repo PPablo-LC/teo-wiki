@@ -1,56 +1,26 @@
 ---
 type: ResumenFuente
-title: "INTRODUCTION TO SACRAMENTAL THEOLOGY"
+title: "Preliminares — Introducción a la teología sacramental"
 fuente: Introduction_to_Sacramental_Theology_capitulos
 capítulo: 1
-timestamp: 2026-10-29
-description: "Resumen de 'INTRODUCTION TO SACRAMENTAL THEOLOGY' — Introduction_to_Sacramental_Theology_capitulos"
-tags: ["resumen", "introduction to sacramental theology capitulos"]
+timestamp: 2026-11-15
+description: "Granados presenta los sacramentos como gramática de la fe: espacio de encuentro con Cristo, con María como primer espacio sacramental y el axioma de la carne asumida."
+tags: ["resumen", "teología sacramental", "granados"]
 ---
 
-# INTRODUCTION TO SACRAMENTAL THEOLOGY
+# Preliminares — Introducción a la teología sacramental
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[sacramento]] — gramática y punto de partida de toda teología
+- [[eucaristía]] — espacio original del encuentro con Cristo
+- [[maría]] — primer espacio sacramental
+- [[encarnación]] — fundamento: la carne asumida no se devuelve
 
+## Planteamiento
 
-## Contenido
+José Granados (Instituto Juan Pablo II, Roma) escribe una introducción que quiere ser algo más que un manual: los sacramentos son el «espacio» donde se aprende a hablar de Dios, la gramática previa a cualquier tratado. La tesis se apoya en León Magno: lo que era visible en el Redentor «pasó a los sacramentos» (*Sermo* LXXIV.2). Lo que se contempló en la carne de Cristo se continúa en los ritos de la Iglesia.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `00_preliminaries.md`
+María aparece como el primer espacio sacramental, con una fórmula de León Magno que el libro repite: «dio al agua lo que dio a la madre» (*Sermo* XXV). El vientre virginal y las aguas bautismales se iluminan mutuamente. De ahí el axioma cristológico que sostiene toda la obra: *quod semel adsumpsit numquam dimisit* —lo que Cristo asumió una vez no lo abandonó nunca—, formulado en el Orbe, en Buenaventura, en Agustín y en Juan Damasceno: la carne asumida sigue siendo el lugar del encuentro.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | INTRODUCTION TO SACRAMENTAL THEOLOGY |
-| 17 | H2 | Foreword |
-| 35 | H2 | Preface |
-| 65 | H2 | Abbreviations |
-
-
-## Secciones incluidas
-
-# Foreword
-
-[Contenido de esta sección...]
-
-# Preface
-
-[Contenido de esta sección...]
-
-# Abbreviations
-
-[Contenido de esta sección...]
+El prólogo sitúa además el libro en su contexto institucional (el Área Internacional de Investigación en Teología Sacramental, con Livio Melina y Alexandra Diriart) y ofrece el elenco de abreviaturas magisteriales y académicas —AAS, CIC, DH, LG, GS, *ST*, PL, PG— que se usarán en el resto del volumen.

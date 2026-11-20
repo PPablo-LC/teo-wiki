@@ -1,96 +1,27 @@
 ---
 type: ResumenFuente
-title: "10 — Sacrament, Word, Body: Protestant Crisis, Catholic Reform, Modern Perspectives"
+title: "Cap. 10 — Sacramento, palabra, cuerpo: Reforma y perspectivas modernas"
 fuente: Introduction_to_Sacramental_Theology_capitulos
 capítulo: 11
-timestamp: 2026-10-29
-description: "Resumen de '10 — Sacrament, Word, Body: Protestant Crisis, Catholic Reform, Modern Perspectives' — Introduction_to_Sacramental_Theology_capitulos"
-tags: ["resumen", "introduction to sacramental theology capitulos"]
+timestamp: 2026-11-15
+description: "La crisis protestante reduce los sacramentos a la fe del que cree; Trento responde con el ex opere operato, y la teología moderna vuelve al cuerpo como clave."
+tags: ["resumen", "teología sacramental", "reforma"]
 ---
 
-# 10 — Sacrament, Word, Body: Protestant Crisis, Catholic Reform, Modern Perspectives
+# Cap. 10 — Sacramento, palabra, cuerpo: Reforma y perspectivas modernas
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[sacramento]] — la disputa sobre su número y su eficacia
+- [[fe]] — *non sacramentum, sed fides sacramenti iustificat*
+- [[gracia]] — contenida y conferida, según Trento
+- [[eucaristía]] — presencia real y sacrificio en discusión
+- [[iglesia]] — sacramento radical en la teología del siglo XX
 
+## La crisis protestante
 
-## Contenido
+Lutero reduce los sacramentos —bautismo y Eucaristía en sentido estricto, con la penitencia en sentido amplio— y formula el principio decisivo: *non sacramentum, sed fides sacramenti iustificat*; la fe del que recibe, no el rito, es lo que justifica. De ahí el rechazo del *ex opere operato*. El capítulo muestra también la evolución del reformador: de la primacía de la fe a una recuperación de la corporeidad, con el agua «abrazada por la palabra». Lo que el protestantismo pierde es el cuerpo: la presencia real, el carácter sacramental, la sacramentalidad del matrimonio y del orden.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `10_chapter_10.md`
+Trento responde con una afirmación precisa: los sacramentos contienen y confieren la gracia *ex opere operato*, son necesarios para la salvación y fueron instituidos por Cristo, *salva illorum substantia*; los cánones 4-8 de la sesión VII fijan la doctrina frente a cada negación.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 10 — Sacrament, Word, Body: Protestant Crisis, Catholic Reform, Modern |
-| 5 | H2 | Luther: The Sacrament, God’s Promise That Calls for Faith |
-| 11 | H2 | The Sacrament Saves Because of Our Belief in It: Luther *versus* the C |
-| 23 | H2 | The Sacrament Is Not Only a Word: Controversies within the Reformation |
-| 29 | H2 | The Lutheran Approach and Forgetting the Body |
-| 43 | H2 | Sacramentality of Christian Life |
-| 69 | H2 | Post-Tridentine Theology: The Physical and Moral Causality of the Sacr |
-| 95 | H2 | The Sacrament Viewed as Symbol and as Rite: Contemporary Perspectives |
-| 103 | H2 | Symbolic Causality: Karl Rahner |
-| 137 | H2 | Real Presence of the Mystery: Odo Casel |
-| 149 | H2 | Ritual Efficacy: Louis-Marie Chauvet |
-| 161 | H2 | Conclusion: The Sacrament and the Return to the Body |
-
-
-## Secciones incluidas
-
-# Luther: The Sacrament, God’s Promise That Calls for Faith
-
-[Contenido de esta sección...]
-
-# The Sacrament Saves Because of Our Belief in It: Luther *versus* the Catholic View
-
-[Contenido de esta sección...]
-
-# The Sacrament Is Not Only a Word: Controversies within the Reformation
-
-[Contenido de esta sección...]
-
-# The Lutheran Approach and Forgetting the Body
-
-[Contenido de esta sección...]
-
-# Sacramentality of Christian Life
-
-[Contenido de esta sección...]
-
-# Post-Tridentine Theology: The Physical and Moral Causality of the Sacraments
-
-[Contenido de esta sección...]
-
-# The Sacrament Viewed as Symbol and as Rite: Contemporary Perspectives
-
-[Contenido de esta sección...]
-
-# Symbolic Causality: Karl Rahner
-
-[Contenido de esta sección...]
-
-# Real Presence of the Mystery: Odo Casel
-
-[Contenido de esta sección...]
-
-# Ritual Efficacy: Louis-Marie Chauvet
-
-[Contenido de esta sección...]
-
-# Conclusion: The Sacrament and the Return to the Body
-
-[Contenido de esta sección...]
+La teología postridentina discute el modo de la causalidad: Cayetano defiende una causalidad física, Melchor Cano una moral, y Scheeben una causalidad hiperfísica centrada en el cuerpo. En el siglo XX, Rahner propone el símbolo real y la causalidad simbólica con la Iglesia-sacramento como horizonte; Casel subraya la presencia real del misterio y el memorial; Chauvet habla de eficacia ritual y de ausencia real; Ratzinger interviene en el debate. La conclusión del capítulo es un retorno: solo el cuerpo permite entender el sacramento, porque el rito no es una idea sino una acción corporal que incorpora.

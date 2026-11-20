@@ -73,7 +73,7 @@ Una festividad legionaria particularmente significativa es el aniversario de la 
 
 Las festividades se relacionan con la [[vida_litúrgica_y_oración]], la [[comunidad_religiosa]], la [[ars_celebrandi]], la [[novenas_legionarias]], la [[consagración_legionaria]], la [[disciplina_religiosa]] y el [[carisma_legionario]].
 
-## Ver também
+## Ver también
 
 [[vida_litúrgica_y_oración]], [[comidas_comunitarias]], [[comunidad_religiosa]], [[ars_celebrandi]], [[novenas_legionarias]], [[disciplina_religiosa]], [[consagración_legionaria]]
 

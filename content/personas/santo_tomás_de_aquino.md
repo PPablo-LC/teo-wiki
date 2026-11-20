@@ -3,14 +3,14 @@ type: Persona
 title: Santo Tomás de Aquino
 tags: ["persona"]
 
-timestamp: 2026-09-15
+timestamp: 2026-11-07
 aliases: ["San Tomás de Aquino", "san_tomás_de_aquino"]
 description: "Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia."
 ---
 # Santo Tomás de Aquino
 
 > Área: Persona
-> Última actualización: 2026-09-15
+> Última actualización: 2026-11-07
 
 ## Contexto histórico
 Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia. Nacido en el castillo de Roccasecca (Italia), estudió en Montecasino, Nápoles, París y Colonia, donde fue discípulo de San Alberto Magno. Es la cumbre de la escolástica medieval y el teólogo más influyente de la historia de la Iglesia; León XIII lo proclamó «Doctor Común» en *Aeterni Patris* (1879).
@@ -116,6 +116,10 @@ milagros en vida, Juan XXII respondió en el proceso: «**¡Cuantas
 afirmaciones teológicas escribió, fueron otros tantos milagros!**» — la
 síntesis prodigiosa de intelecto y amor con que compuso sus obras.
 
+### Según El joven de carácter (JvC)
+
+Tóth lo cita dos veces. En el capítulo II, al tratar la fuerza de la voluntad, recoge la respuesta que dio a su hermana cuando le preguntó qué debía hacer para alcanzar la salvación eterna: «Querer». En el capítulo III, al tratar la puntualidad y el aprovechamiento del tiempo, se detiene «ante las largas hileras formadas por las obras de un San Agustín, de un San Buenaventura, de un Santo Tomás de Aquino» y se pregunta cómo pudieron escribir tanto quienes murieron relativamente jóvenes y tenían múltiples quehaceres. Su respuesta: «Sencillamente, no perdían un momento de su vida».
+
 ## Distinciones importantes
 
 - **Fe y razón:** Tomás afirma que la revelación supera la razón, pero nunca la contradice; la filosofía puede servir como ancilla de la teología (*ancilla theologiae*).
@@ -125,7 +129,7 @@ síntesis prodigiosa de intelecto y amor con que compuso sus obras.
 
 ## Relaciones doctrinales
 
-Se relaciona con [[aristóteles]], [[agustín_de_hipona]], [[escolástica]], [[suma_teológica]], [[existencia_de_dios]], [[analogía_del_ser]], [[ley_natural]], [[gracia]], [[virtudes]], [[sacramentos]].
+Se relaciona con [[aristóteles]], [[agustín_de_hipona]], [[escolástica]], [[summa_theologiae]], [[existencia_de_dios]], [[analogía_del_ser]], [[ley_natural]], [[gracia]], [[virtudes]], [[sacramentos]].
 
 ## Analizado para
 
@@ -149,3 +153,4 @@ Se relaciona con [[aristóteles]], [[agustín_de_hipona]], [[escolástica]], [[s
 - Ramelow, Anselm OP. «Artificial Intelligence as a Challenge to Human Freedom», en *Evangelization & Culture* 19 (Word on Fire Institute); «Meditatio & Contemplatio», 23_parting_thoughts.md.
 - Selman, F. J. *St Thomas Aquinas: Teacher of Truth* (T&T Clark, Edinburgh 1992). Código STA: biografía, la teología como sabiduría, fe y razón, la verdad como adecuación.
 - Barron, Robert. *Arguing Religión: A Bishop Speaks at Facebook and Google* (Word on Fire, 2016). Cap. 6-7: Tomás como modelo del diálogo público, *quaestio disputata*, *Utrum Deus sit* (ST I q.2 a.3), fe y razón mutuamente implicativas.
+- JvC, Mons. Tihámer Tóth, *El joven de carácter*, caps. II-III.

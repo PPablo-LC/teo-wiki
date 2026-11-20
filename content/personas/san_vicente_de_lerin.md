@@ -25,7 +25,7 @@ Su célebre fórmula —«Seguir la universalidad, la antigüedad y el consenso�
 ### Historia de la Iglesia — P. Antonio Rivero LC (HI)
 Rivero cita una larga extracto del *Commonitorium* (434) en el que San Vicente de Lerín define el criterio doctrinal: «Si surge una nueva cuestión que no ha tocado ningún concilio, hay que recurrir entonces a las opiniones de los Santos Padres, al menos de los que, en sus tiempos y lugares, permanecieron en la unidad de la comunión y de la fe y fueron tenidos por maestros aprobados. Y todo lo que ellos pudieron sostener, en unidad de pensar y de sentir, hay que considerarlo como la doctrina verdadera y católica de la Iglesia, sin ninguna duda ni escrúpulo» (HI, cap. 10).
 
-## Ver também
+## Ver también
 [[tradición]] [[ortodoxia]] [[patrística]]
 
 ## Referencias

@@ -25,7 +25,7 @@ Su defensa de la gracia divina como inicio de la conversión influyó en la teol
 ### Historia de la Iglesia — P. Antonio Rivero LC (HI)
 El índice de la obra de Rivero lo incluye entre las figuras del período, aunque el texto central no desarrolla su biografía. Su presencia lo sitúa entre los defensores de la ortodoxia agustiniana sobre la gracia en el siglo V.
 
-## Ver também
+## Ver también
 [[gracia]] [[pelagianismo]] [[semipelagianismo]]
 
 ## Referencias

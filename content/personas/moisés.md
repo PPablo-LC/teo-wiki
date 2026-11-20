@@ -3,13 +3,13 @@ type: Persona
 title: Moisés
 tags: ["sagrada_escritura"]
 
-timestamp: 2026-05-29
+timestamp: 2026-11-07
 description: "Moisés es el gran profeta y legislador del Antiguo Testamento, elegido por Dios para liberar a Israel de la esclavitud de Egipto."
 ---
 # Moisés
 
 > Área: Sagrada Escritura
-> Última actualización: 2026-10-19
+> Última actualización: 2026-11-07
 
 ## Definición
 
@@ -57,6 +57,10 @@ Moisés y Elías se convierten así en «figuras y testimonios de la pasión». 
 
 **Los códigos legales (cap. 59):** en una sociedad de agricultores y pastores, «leyes detalladas (Éxodo 20, 22-23, 33) indicaban al pueblo cómo vivir con justicia», con una atención fundamental a los más indefensos: pobres, viudas, huérfanos y forasteros; y Deuteronomio 18,10-12 prohíbe terminantemente la adivinación, el hechicero y el nigromante, «porque todo el que hace estas cosas es abominación para el Señor».
 
+### Según El joven de carácter (JvC)
+
+Tóth lo propone como ejemplo de que la eficacia del liderazgo no depende de las dotes naturales, sino de la humildad y de la ayuda divina: «Moisés, el gran libertador de los judíos, no sabía casi hablar; pero con la ayuda de Dios y con el humilde reconocimiento de su flaqueza, se hizo jefe de todo un pueblo» (cap. II). La escena remite a Ex 4,10-16, donde Moisés alega su torpeza de lengua y Dios le responde que Él estará con su boca. Para Tóth, el carácter del líder se forja en el reconocimiento de la propia insuficiencia, no en la confianza en las propias capacidades.
+
 ## Distinciones importantes
 
 - **Moisés profeta vs. Moisés legislador**: recibe y transmite la revelación divina (profeta) y promulga la Ley del Sinaí (legislador)
@@ -81,3 +85,4 @@ Moisés se relaciona con la [[ley_mosaica]], el [[decálogo]], la [[antigua_alia
 - [TPCr, Primera Parte, Cap. I (La Ley antigua y su función pedagógica)]
 - Benedicto XVI, Jesús de Nazaret I, 5.2
 - Kings and Prophets (KOC), caps. 4, 15, 46, 48-49
+- JvC, Mons. Tihámer Tóth, *El joven de carácter*, cap. II.

@@ -114,6 +114,14 @@ Melina rechaza la reducción de la conciencia a la propia opinión, gusto o sens
 
 Melina (Introducción, EPL) presenta la conciencia como apertura a la verdad del bien. La conciencia no es un tribunal autónomo, sino una apertura a la verdad. VS rechaza la primacía de la conciencia subjetiva.
 
+### Según *Sharing in Christ's Virtues* (SCV)
+
+Melina afronta la conciencia desde el desafío del pluralismo ético: hay un pluralismo legítimo de opciones y un pluralismo ilegítimo de principios, y confundirlos es la raíz de la crisis [SCV, 09]. La conciencia no es «creativa» ni meramente deductiva (VS 57-61): es juicio práctico de la persona ante la verdad del bien, y a la vez acto personal irrepetible, del que nadie puede ser dispensado [SCV, 09].
+
+Su formación es eclesial. La conciencia no es un tribunal aislado: se forma en la comunidad de fe, mediante la predicación, la catequesis y la dirección espiritual (VS 64); la Tradición es memoria viva que orienta el juicio, y la liturgia y la oración educan la percepción moral [SCV, 07; 09]. Melina distingue el fuero interno de la doctrina pública, admite la posibilidad del error invencible y sitúa el disenso no en la dificultad práctica sino en una concepción distinta de la verdad y de la Iglesia [SCV, 09].
+
+La pedagogía concreta la toma de las *Regulae* de san Ignacio: consolación y desolación, mociones buenas y malas, elección en el paso de la tentación aparente. El discernimiento no es introspección psicológica, porque supone un criterio exterior: el *sentire cum Ecclesia* [SCV, 09]. De ahí la fórmula que cierra el capítulo y que Melina hace suya: «tenemos el Espíritu en la medida en que amamos la Iglesia». La conciencia cristiana es, así, conciencia en la comunión, formada por la caridad [SCV, 09].
+
 ## Distinciones importantes
 
 - **Consciencia y sentimiento:** La consciencia no es un sentimiento subjetivo, sino un juicio de la razón iluminada por la fe.

@@ -1,121 +1,29 @@
 ---
 type: ResumenFuente
-title: "13 — The Sacraments and Christian Action"
+title: "Cap. 13 — Los sacramentos y la acción cristiana"
 fuente: Introduction_to_Sacramental_Theology_capitulos
 capítulo: 14
-timestamp: 2026-10-29
-description: "Resumen de '13 — The Sacraments and Christian Action' — Introduction_to_Sacramental_Theology_capitulos"
-tags: ["resumen", "introduction to sacramental theology capitulos"]
+timestamp: 2026-11-15
+description: "La vida cotidiana como vida sacramental: lex orandi, lex credendi, lex agendi; virtudes teologales, acompañamiento mistagógico y sacramento in voto."
+tags: ["resumen", "teología sacramental", "moral"]
 ---
 
-# 13 — The Sacraments and Christian Action
+# Cap. 13 — Los sacramentos y la acción cristiana
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[liturgia]] — *lex orandi, lex credendi, lex agendi*
+- [[virtudes]] — las teologales como forma de la acción cristiana
+- [[caridad]] — la fe que obra por el amor
+- [[bautismo]] — el sacramento del que nace la vida moral
+- [[gracia]] — el don que acompaña y exige respuesta
 
+## Del rito a la vida
 
-## Contenido
+El capítulo une celebración y moral: la vida cotidiana es vida sacramental. El Nuevo Testamento aplica el lenguaje cultual a la existencia entera —1 Cor 9,12; Rom 12,1; Ef 1,4; 1 Pe 2,5; Heb 13,16—, con la Eucaristía como ambiente y la liturgia celestial como horizonte (Heb 8,5; 9,11).
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `13_chapter_13.md`
+La fórmula clásica se despliega en tres niveles: *lex orandi, lex credendi, lex agendi*. Agustín lo trata en *De fide et operibus*, Hilario de Poitiers subraya la unidad que nace del bautismo. La Edad Media discute las condiciones de acceso y distingue el *opus operatum* del *operantis*; Bernardo y Hugo de San Víctor entienden el rito como ejercicio. Lutero rechaza el *ex opere operato*; Trento responde con la fe que obra por la caridad.
 
+El núcleo especulativo del capítulo es el paso del rito al cuerpo: la acción litúrgica y la acción redentora de Jesús se unen, y la acción humana se entiende como acción «literal» en el sentido de Blondel, dentro de una narrativa unitaria que Ricoeur ayuda a pensar y que el Espíritu sostiene.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 13 — The Sacraments and Christian Action |
-| 11 | H2 | Worship and Christian Life according to the New Testament |
-| 31 | H2 | Sacrament and Christian Moral Action |
-| 41 | H2 | Participation in the Action of Christ |
-| 57 | H2 | The Lutheran Crisis and the Response of Trent |
-| 71 | H2 | The Celebration of the Sacrament and Human Action |
-| 75 | H2 | Eucharistic Rite and Redemptive Action of Jesus: Common Coordinates |
-| 89 | H2 | From the Rite to the Body: The “Literal Action” |
-| 103 | H2 | The Rite and the Unity of Our Life Narrative |
-| 119 | H2 | Accompanying the Sacramental Gift |
-| 123 | H2 | Eucharist and Baptism: Faith and Charity |
-| 131 | H2 | Matrimony and Penance: When Human Action Is Sacramental Action |
-| 141 | H2 | Sacraments and Practical Reason |
-| 159 | H2 | Sacraments, Virtues, and Christian Culture |
-| 173 | H2 | Preparation to Receive the Sacrament |
-| 179 | H2 | Conditions for Receiving the Sacrament |
-| 209 | H2 | The Sacrament *in voto* |
-
-
-## Secciones incluidas
-
-# Worship and Christian Life according to the New Testament
-
-[Contenido de esta sección...]
-
-# Sacrament and Christian Moral Action
-
-[Contenido de esta sección...]
-
-# Participation in the Action of Christ
-
-[Contenido de esta sección...]
-
-# The Lutheran Crisis and the Response of Trent
-
-[Contenido de esta sección...]
-
-# The Celebration of the Sacrament and Human Action
-
-[Contenido de esta sección...]
-
-# Eucharistic Rite and Redemptive Action of Jesus: Common Coordinates
-
-[Contenido de esta sección...]
-
-# From the Rite to the Body: The “Literal Action”
-
-[Contenido de esta sección...]
-
-# The Rite and the Unity of Our Life Narrative
-
-[Contenido de esta sección...]
-
-# Accompanying the Sacramental Gift
-
-[Contenido de esta sección...]
-
-# Eucharist and Baptism: Faith and Charity
-
-[Contenido de esta sección...]
-
-# Matrimony and Penance: When Human Action Is Sacramental Action
-
-[Contenido de esta sección...]
-
-# Sacraments and Practical Reason
-
-[Contenido de esta sección...]
-
-# Sacraments, Virtues, and Christian Culture
-
-[Contenido de esta sección...]
-
-# Preparation to Receive the Sacrament
-
-[Contenido de esta sección...]
-
-# Conditions for Receiving the Sacrament
-
-[Contenido de esta sección...]
-
-# The Sacrament *in voto*
-
-[Contenido de esta sección...]
+La segunda parte aborda el acompañamiento del don sacramental: la mistagogía, la relación entre Eucaristía y bautismo, matrimonio y penitencia, y la unción de los enfermos. Los sacramentos forman la razón práctica: virtudes teologales, afectos y cultura cristiana. El capítulo cierra con las condiciones para recibirlos —intención, obstáculo, pecado manifiesto— y con la doctrina del sacramento *in voto*: el bautismo de deseo y los tres bautismos, que muestran que Dios no queda atado a sus signos.

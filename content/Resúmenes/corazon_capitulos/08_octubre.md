@@ -3,94 +3,28 @@ type: ResumenFuente
 title: "Octubre"
 fuente: corazon_capitulos
 capítulo: 8
-timestamp: 2026-10-29
-description: "Resumen de 'Octubre' — corazon_capitulos"
-tags: ["resumen", "corazon capitulos"]
+timestamp: 2026-11-15
+description: "El primer día de clase, el maestro que se queda solo, el accidente de Roberto y la galería de compañeros; el cuento del pequeño patriota paduano."
+tags: ["resumen", "corazon de amicis", "escuela", "amistad"]
 ---
 
 # Octubre
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[escuela]] — el comienzo del curso y la escuela como familia
+- [[educación]] — el maestro, la corrección y el ejemplo
+- [[caridad]] — Roberto salva a un niño; Garrón carga con una culpa ajena
+- [[pobreza]] — la buhardilla de Crosi y el estudio a oscuras
+- [[patria]] y [[patriotismo]] — el cuento del pequeño paduano
+- [[trabajo]] — el mérito del hijo de la verdulera
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08-octubre.md`
+Octubre abre con el primer día de clase y la presentación del maestro, que en su discurso inicial se define como un hombre sin familia: «vosotros sois mi familia. El año pasado todavía tenía a mi madre: se me ha muerto». Pide que no haga falta castigar a nadie y perdona en el acto al muchacho que se había subido al banco.
 
+«Una desgracia» narra el accidente de Roberto, que salva a un niño caído en la calle y pierde el pie bajo la rueda de un ómnibus; la escuela entera lo aclama cuando pasa en brazos del director, y las dos madres —la del salvado y la del herido— se abrazan llorando. Después llega el muchacho calabrés: el maestro lo presenta, hace que Deroso le dé el abrazo de bienvenida y advierte que quien lo ofenda por su procedencia «se hará indigno de mirar la bandera tricolor».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+«Mis compañeros» traza la galería de la clase: Garrón, el mayor y el mejor; Coreta, siempre alegre; el pequeño Nelle, jorobado; Votino, presumido; el albañilito; Garofi, que trafica con sellos; el orgulloso Nobis; Precusa, el hijo del herrero, tímido y maltratado; Crosi, el del brazo inmóvil; Estardo, hosco; Franti, expulsado de otra escuela. En «Un rasgo generoso», Garrón se declara culpable del tintero lanzado contra el maestro para librar a Crosi, y el maestro lo llama «alma noble».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Octubre |
-| 3 | H2 | El primer día de escuela |
-| 65 | H2 | NUESTRO MAESTRO |
-| 105 | H2 | UNA DESGRACIA |
-| 148 | H2 | EL MUCHACHO CALABRÉS |
-| 191 | H2 | MIS COMPAÑEROS |
-| 237 | H2 | UN RASGO GENEROSO |
-| 286 | H2 | MI MAESTRA DE LA PRIMERA CLASE SUPERIOR |
-| 334 | H2 | EN UNA BUHARDILLA |
-| 376 | H2 | LA ESCUELA |
-| 414 | H2 | El pequeño patriota paduano |
-| 479 | H2 | NOVIEMBRE |
-
-
-## Secciones incluidas
-
-# El primer día de escuela
-
-[Contenido de esta sección...]
-
-# NUESTRO MAESTRO
-
-[Contenido de esta sección...]
-
-# UNA DESGRACIA
-
-[Contenido de esta sección...]
-
-# EL MUCHACHO CALABRÉS
-
-[Contenido de esta sección...]
-
-# MIS COMPAÑEROS
-
-[Contenido de esta sección...]
-
-# UN RASGO GENEROSO
-
-[Contenido de esta sección...]
-
-# MI MAESTRA DE LA PRIMERA CLASE SUPERIOR
-
-[Contenido de esta sección...]
-
-# EN UNA BUHARDILLA
-
-[Contenido de esta sección...]
-
-# LA ESCUELA
-
-[Contenido de esta sección...]
-
-# El pequeño patriota paduano
-
-[Contenido de esta sección...]
-
-# NOVIEMBRE
-
-[Contenido de esta sección...]
+La visita a la antigua maestra y la buhardilla de Crosi —que estudia a oscuras sobre una silla, porque su madre no tiene mesa— dan la medida del mes: la madre de Enrique le dice que el trabajo de aquel niño en un día vale más que todos sus estudios de un año. La carta «La escuela» compara a los niños que estudian en todo el mundo con un ejército y llama a los libros «tus armas». Cierra el cuento mensual, *El pequeño patriota paduano*: el niño vendido a unos titiriteros devuelve las monedas a los viajeros que insultan a Italia.

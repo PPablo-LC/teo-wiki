@@ -66,7 +66,7 @@ En cuanto a las llamadas telefónicas, los Principios y Normas establecen que de
 
 El contacto familiar se relaciona con la [[disciplina_religiosa]], la [[comunidad_religiosa]], la [[vida_fraterna_religiosa]], los [[consejos_evangélicos]], la [[formación_integral]], la [[obediencia_filial]] y la [[consagración_legionaria]].
 
-## Ver também
+## Ver también
 
 [[disciplina_religiosa]], [[comunidad_religiosa]], [[vida_fraterna_religiosa]], [[noviciado_lc]], [[formación_integral]], [[consagración_legionaria]], [[comidas_comunitarias]]
 

@@ -39,7 +39,7 @@ La obra se articula en dos bloques:
 - **Parte seconda: «…¿o es la Iglesia la que ha abandonado a la humanidad?»** — la Iglesia no ha abandonado al hombre; el problema es la *protestantización del catolicismo* que reduce el cristianismo a «Palabra» interpretable por la conciencia personal (*subjetivismo*: «tot capita, tot sententiae»), genera el *moralismo* (que sofoca la «moralidad como gracia») y rarefá el primado del Obispo de Roma; frente a ello, la fe que deviene *cultura* (Juan Pablo II al MEIC), la unidad de los creyentes como milagro/signo (Gv 17,21; Gal 3,26-29), y la Iglesia como «movimiento»: «La Chiesa è movimento».
 - **Post-scriptum** — apunte final sobre el valor pedagógico de la observación de la realidad.
 
-## Perspectivas por fuente
+## Conceptos tratados
 
 - [[sentido_religioso]] — el concepto nuclear de la primera obra, desarrollado en su estructura y en su corrupción (idolatría)
 - [[signo]], [[analogía]], [[providencia]], [[misterio_de_dios]], [[dios_oculto]] — «Conoscenza e mistero»

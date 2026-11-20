@@ -7,13 +7,13 @@ tags:
   - espiritualidad
   - historia_de_la_iglesia
   - devotio_moderna
-timestamp: "2026-11-01"
+timestamp: "2026-11-07"
 ---
 
 # Tomás de Kempis
 
 > Área: Persona / Historia de la Iglesia / Espiritualidad
-> Última actualización: 2026-11-01
+> Última actualización: 2026-11-07
 
 ## Contexto histórico
 
@@ -48,6 +48,10 @@ El prólogo de Baldomero Jiménez Duque (Ávila, 1997) ofrece la semblanza más 
 
 Rivero sitúa a Kempis en el capítulo del cisma de Occidente, al describir la reacción contra la espiritualidad especulativa de finales del siglo XIV: «Más que especular sobre la unión con Dios, se sentía el deseo de vivirla», y cita el capítulo primero de la *Imitación* —«¿Qué te aprovecha disputar altas cosas de la Trinidad, si careces de humildad por donde desagradas a la misma Trinidad?»— como programa de esa espiritualidad afectiva y sencilla (HI 28). En el Renacimiento lo presenta entre «los maestros de la vida espiritual» que «recomienda a sus lectores el desprecio por las cosas mundanas, el aprecio por la vida interior y un profundo amor a Cristo» (HI 30). Y al tratar la Reforma lo contrapone a Erasmo: mientras éste deja «el alma fría», con «un Cristo puramente moral, frío y abstracto», «el alma se inflama con la lectura del Kempis, pues presenta a un Cristo familiar y amigo de nuestra alma» (HI 32).
 
+### Según El joven de carácter (JvC)
+
+Tóth lo cita en el capítulo III, al tratar la abnegación como medio para fortalecer la voluntad: «no tendrá voluntad fuerte el joven que nunca supo negarse ninguno de sus deseos». Y aduce la sentencia del Kempis: «Tanto adelantarás en el bien cuanto sepas dominar tu voluntad», escrita en la *Imitación de Cristo*. En la argumentación de Tóth, la máxima confirma que la ascesis no es un fin en sí misma, sino el ejercicio que libera al alma del dominio de los apetitos y la dispone para el seguimiento de Cristo (Mt 16,24).
+
 ## Distinciones importantes
 
 - **Autoría probable, no definida**: la atribución a Kempis es la más sostenida, pero la única certeza documental es la pertenencia a la *devotio moderna*.
@@ -66,7 +70,7 @@ Rivero sitúa a Kempis en el capítulo del cisma de Occidente, al describir la r
 
 ## Ver también
 
-[[imitación_de_cristo]] [[devoción_moderna]] [[gerardo_groote]] [[contemptus_mundi]] [[interioridad]] [[vida_interior]] [[abnegación]] [[oración_mental]] [[san_ignacio_de_loyola]] [[santa_teresa_de_jesús]] [[san_juan_de_la_cruz]] [[la_imitacion_de_cristo]]
+[[imitación_de_cristo]] [[devoción_moderna]] [[gerardo_groote]] [[contemptus_mundi]] [[interioridad]] [[vida_interior]] [[abnegación]] [[oración_mental]] [[san_ignacio_de_loyola]] [[santa_teresa_de_jesús]] [[san_juan_de_la_cruz]] [[la_imitacion_de_cristo]] [[voluntad]] [[dominio_de_sí]]
 
 ## Referencias
 
@@ -75,3 +79,4 @@ Rivero sitúa a Kempis en el capítulo del cisma de Occidente, al describir la r
 - J. Huijben - P. Debongnie, *L'auteur ou les auteurs de l'Imitation*, Lovaina, 1957
 - M. J. Pohl (ed.), *Opera omnia* de Tomás de Kempis, Friburgo de Brisgovia, 1910-1922, 7 vols.
 - HI (Historia de la Iglesia, P. Antonio Rivero L.C.), archivo 28
+- JvC, Mons. Tihámer Tóth, *El joven de carácter*, cap. III.

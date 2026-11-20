@@ -61,6 +61,12 @@ SC §105: El ciclo de Navidad incluye la fiesta de la Epifanía del Señor, la c
 
 **Las costumbres como liturgia visible.** El árbol, los dulces y los regalos traducen en signos las palabras que la Iglesia reza en Adviento: los montes que cantan y los árboles que aplauden del Salmo 96, la tierra que destila dulzura. Regalar imita al Dios que se da a sí mismo (BWC 1).
 
+**El buey y el asno.** No aparecen en los evangelios, pero tampoco son invento piadoso: la fe en la unidad de los dos Testamentos les dio su papel. Isaías 1,3 —«el buey conoce a su dueño y el asno el pesebre de su señor; Israel no conoce, mi pueblo no entiende»— fue leída por los Padres como profecía de la Iglesia formada por judíos y gentiles: ante Dios todos eran como buey y asno, sin razón ni conocimiento, hasta que el niño del pesebre «les abrió los ojos para que reconocieran la voz de su Señor». En las pinturas medievales los dos animales tienen rostros casi humanos y se inclinan ante el misterio, porque representan la figura profética de la Iglesia, que «somos también nosotros» (BWC 4).
+
+**Quién le reconoció y quién no.** El texto de Isaías no es solo promesa: es juicio sobre una ceguera presente. No le reconocieron Herodes, cegado por su afán de poder; ni «toda Jerusalén con él»; ni «los que visten ropas delicadas», los de alta posición social; ni los maestros expertos en la Escritura, que sabían el pasaje exacto y no entendían nada. Le reconocieron «el buey y el asno» de entonces: los pastores, los Magos, María y José. La razón es de una lógica brutal: «los de alta posición social no están en el establo donde yace el niño: allí es donde tienen su casa el buey y el asno» (BWC 4). La pregunta vuelve sobre el lector: si las ropas son demasiado blandas o la ciencia demasiado sabia, se oirá la exégesis y no al niño.
+
+**La visión de Greccio.** De la noche de 1223 Celano conserva un detalle que explica el belén mejor que cualquier teoría: el noble Juan, dueño del lugar, «no atendió a la nobleza de la sangre, sino que quiso alcanzar la nobleza del alma» (I Celano 30,84), y recibió la gracia de ver «un niño pequeño yaciendo en el pesebre sin moverse». Su comentario es la clave del belenismo: hasta entonces Jesús yacía «en un sueño de olvido en muchos corazones», y por medio de Francisco se despertó su recuerdo y se imprimió en la memoria de los hombres (I Celano 30,86). Ratzinger no suaviza la conclusión: «quien no ha comprendido el misterio de Navidad no ha comprendido lo decisivo del cristianismo» (BWC 4).
+
 ## Distinciones importantes
 
 - **Navidad como misterio, no solo fecha**: la celebración litúrgica accede al misterio del nacimiento de Cristo, no solo conmemora una fecha
@@ -77,4 +83,5 @@ Se vincula con la [[encarnación]], el [[adviento]], la [[epifanía]], el [[baut
 ## Referencias
 - [CEC §525-530]
 - [ConcVatII, SC §105]
+- Joseph Ratzinger, *The Blessing of Christmas* (BWC): prólogo (la fiesta más profundamente humana y el pesebre como «Emmanuel»); 1 (las costumbres como liturgia visible); 4 (origen de la fiesta, Greccio y el belén, el buey y el asno según Is 1,3, quién le reconoció); 3-4 (pesebre y cruz en el belén de Christkindl).
 - [SmTh IIIa q.27 a.2; q.28 a.2; q.83 a.2]

@@ -3,12 +3,12 @@ type: Documento
 title: "El joven de carácter"
 description: "Obra de formación espiritual y educación del carácter de Mons. Tihámer Tóth, dirigida a la juventud."
 tags: ["teología_pastoral", "formación_espiritual", "educación"]
-timestamp: 2026-07-01
+timestamp: 2026-11-07
 ---
 # El joven de carácter
 
 > Área: Documento
-> Última actualización: 2026-07-01
+> Última actualización: 2026-11-07
 
 ## Identificación
 
@@ -44,6 +44,18 @@ Utiliza abundantes ejemplos históricos (Régulo, Demóstenes, David, Barlaam, S
 ## Clasificación
 
 Obra de **teología pastoral / formación espiritual**. Comparte elementos de teología moral (virtudes, voluntad, hábitos), ascética (dominio de sí, combate espiritual) y pastoral (educación de la juventud), sin ser estrictamente dogmática, bíblica o moral.
+
+## Personas y ejemplos citados
+
+Tóth ilustra su pedagogía con figuras históricas y bíblicas, que tienen artículo propio en el wiki:
+
+- **Régulo** ([[régulo]]): fidelidad al juramento hasta la muerte (cap. I).
+- **Barlaam de Antioquía** ([[barlaam]]): martirio y coherencia de los ideales (cap. I).
+- **Epicteto** ([[epicteto]]) y **Séneca** ([[séneca]]): la sabiduría natural del estoicismo (caps. I-III).
+- **Demóstenes** ([[demóstenes]]): la voluntad tenaz y la autoeducación (cap. III).
+- **Macario el Grande** ([[macario]]) y **san Columbano** ([[san_columbano]]): abnegación y dominio de las pasiones (caps. II-III).
+- **Napoleón** ([[napoleón]]) y **Cristóbal Colón** ([[colón]]): grandeza y límites de la voluntad natural (caps. II-III).
+- **Moisés** ([[moisés]]), **Sócrates** ([[sócrates]]), **Santo Tomás de Aquino** ([[santo_tomás_de_aquino]]), **Tomás de Kempis** ([[tomás_de_kempis]]) y **Santa Catalina de Siena** ([[santa_catalina_de_siena]]): humildad, sabiduría y sentido cristiano del sufrimiento.
 
 ## Ver también
 

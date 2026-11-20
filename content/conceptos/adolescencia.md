@@ -35,6 +35,16 @@ En clave psicológica destaca: el pensamiento conceptual naciente y «la verdade
 La adolescencia es «el período de la proyección de sí, y por tanto, del descubrimiento de la propia vocación»; en ella los jóvenes buscan «modelos de conducta reales y atrayentes» y son particularmente sensibles a las influencias emotivas (SHVS 98, 102, 97). Es fundamental «que los jóvenes no se encuentren solos a la hora de discernir *su vocación personal*»: el consejo de los padres y el apoyo de sacerdotes y personas formadas (parroquias, asociaciones, movimientos eclesiales) les ayuda a descubrir el sentido vocacional de la existencia (SHVS 99). El documento trata en este período la masturbación, la homosexualidad, la aceptación de sí y del propio cuerpo, las amistades («muy importantes») y el riesgo del «excesivo encerramiento en sí mismos» (SHVS 103-108). Se han de presentar los ideales de la solidaridad humana y cristiana y las modalidades concretas de compromiso en los movimientos eclesiales y el voluntariado (SHVS 106).
 
 
+### Según Entre chicos por primera vez (ECP)
+
+**Un mundo que cambia y una personalidad que despierta.** ECP advierte al educador que «lo que fundamentalmente ha cambiado has sido tú» y que, además, «los chicos han cambiado y no son como cuando tú lo eras» (10:5-7); comprenderlo exige humildad (10:17). «Actualmente se despierta mucho antes que hace unos años la personalidad del joven» (10:19): el adolescente «le gusta juzgar todo, criticar todo, emitir juicios cuya objetividad le importa muy poco. Lo que pretende es hablar, juzgar, hacerse presente» (10:23). Por eso hay que oírle y soportar lo que diga, aunque sean tonterías, y hacerle ver que se tuvo en cuenta su opinión (10:25-27).
+
+**La crisis de los quince años.** ECP la describe con un caso: un alumno brillante baja de golpe a tres suspensos por «malos amigos, malos pasos, malas confesiones y un prematuro enamoramiento»; «no podía estudiar», y todos los esfuerzos externos fueron inútiles hasta que se le pasó aquel «sarampión» (12:145-151). En esos casos, castigar o reprender en público solo produciría «una amargura definitiva, cerrándose a todo influjo» (12:153); se requiere «un tacto exquisito para obrar con acierto» y dar cuenta a quien pueda entrar en su alma (12:153).
+
+**Inseguridad, timidez y crítica.** El adolescente carece de seguridad en sí mismo y «teme equivocarse si va contra corriente» (16:39); es tímido casi siempre, y su inseguridad le lleva a evitar aparecer peligrosamente delante de otros (18:91-93). Siente además «como un imperativo de conducta una conciencia moral que pide libertad»: «exige independencia y todo acto que la coarte es considerado como una intromisión injusta en su mundo» (11:51). De ahí la necesidad de razonar las órdenes (11:53) y de no humillarle ni ironizar (11:65).
+
+**Lo que los chicos piden.** La encuesta recogida por ECP (19:13-45) muestra que quieren un maestro ni demasiado joven ni «osificado», amigo pero a la vez severo, con dominio de sí y sentido de la justicia; y que hacia los quince años la noción de justicia pasa de la igualdad rígida al *suum cuique* (19:163-165).
+
 ## Distinciones importantes
 
 - **Pubertad vs. adolescencia**: la pubertad es la fase inicial (cambios fisiológicos); la adolescencia abarca todo el proceso hasta la madurez.

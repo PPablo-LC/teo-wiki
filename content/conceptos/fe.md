@@ -86,7 +86,7 @@ La vivencia emocional de la fe se ha de asentar en la verdad objetiva del kerigm
 
 Juan Pablo II llama a los jóvenes a estar «animados por la fe en el Señor a dar razón de vuestra esperanza» (cf. 1 Pe 3,15) [JPII-JovCh]. La fe es presentada no como un conjunto de doctrinas abstractas sino como experiencia viva de Cristo: «experiencia de fe, experiencia de Cristo vivo» [JPII-JovCh]. El acto de fe consiste en mirar a Cristo, descubrir en Él el Rostro mismo de Dios, apostar siempre por la gracia y por la vida [JPII-JovCh].
 
-### Según el Enchiridion Symbolorum (Denzinger)
+### Según el Enchiridion Symbolorum (Denzinger) — Vaticano I, León X y Trento
 
 **Concilio Vaticano I** — Constitución *Dei Filius* (1870, D‑1782–D‑1796): Definió la fe como virtud sobrenatural por la que, inspirados y ayudados por la gracia de Dios, creemos que las cosas reveladas por Dios son verdaderas, no por su intrínseca verdad percibida por la luz natural de la razón, sino por la autoridad de Dios mismo que las revela (D‑1789). La fe es «argumento de las cosas que no se ven» (Heb 11,1). Afirmó que «nunca puede haber verdadero desacuerdo entre la fe y la razón, puesto que el mismo Dios que revela los misterios e infunde la fe es el mismo que dota al alma humana de la luz de la razón» (D‑1797). Los misterios de la fe, por su naturaleza sobrenatural, no pueden ser demostrados por la razón ni comprendidos plenamente, sino que han de ser creídos por la autoridad de Dios revelante (D‑1795–D‑1796).
 
@@ -149,7 +149,7 @@ que comienza» (Jn 15,16; 03, 215).
 
 Melina (Introducción, Cap. IV) presenta la fe como un nuevo principio operativo que transforma el obrar. La fe no es una aplicación extrínseca de principios, sino el desarrollo de la elección fundamental por Cristo en comunión con la Iglesia. La ruptura entre fe y moral (VS 4) es la raíz teológica de la crisis. La fe, como expresión suprema de la libertad, es la aceptación de la acción de Cristo en nosotros, abriendo un nuevo horizonte de vida.
 
-### Según el Enchiridion Symbolorum (Denzinger)
+### Según el Enchiridion Symbolorum (Denzinger) — Pío V y Clemente XI
 
 Pío V condenó los errores de Bayo relacionados con la fe (D‑1022, D‑1025, D‑1068):
 

@@ -3,12 +3,12 @@ type: Persona
 title: "Sócrates"
 description: "Filósofo griego (470-399 a.C.), maestro de Platón, fundador del método socrático, ejemplo de búsqueda apasionada de la verdad y de integridad moral."
 tags: ["filosofía", "antigüedad", "ética", "personas"]
-timestamp: 2026-10-20
+timestamp: 2026-11-07
 ---
 # Sócrates
 
 > Área: Filosofía / Historia de la filosofía
-> Última actualización: 2026-10-20
+> Última actualización: 2026-11-07
 
 ## Definición
 
@@ -27,8 +27,11 @@ Diversos números de EAC citan a Sócrates. EAC-17 recuerda su famosa máxima «
 
 EAC-1, 12 y 19 también aluden a Sócrates y a Platón (el anillo de Giges) para ilustrar la distinción entre apariencia y realidad, y la verdadera virtud.
 
-### Según El joven de carácter (Tóth)
-Mons. Tihámer Tóth cita a Sócrates al tratar la humildad ante el éxito: frente al orgullo que puede acompañar el triunfo, recuerda la actitud de humildad del filósofo ateniense. También lo menciona entre figuras ejemplares.
+### Según El joven de carácter (JvC)
+
+Mons. Tihámer Tóth lo cita en el capítulo II, al tratar la humildad ante el éxito y el saber. Frente al orgullo que puede acompañar al triunfo, recuerda dos sentencias del ateniense: «La mayor sabiduría humana es saber que no sabemos» y «Muchos habrían sido sabios si no hubieran creído que ya lo eran». La verdadera sabiduría, comenta Tóth, crece con la conciencia de la propia ignorancia, como muestra Newton al compararse con un niño que recoge conchas en la orilla del mar de la verdad.
+
+Añade el episodio de Alcibíades, que se jactaba ante su maestro de las numerosas tierras que poseía en el Ática. Sócrates le pidió que señalara en un mapa Asia, luego Grecia, después el Peloponeso y por último el Ática: al comprobar lo pequeña que era esta última, el discípulo quedó en evidencia. La lección de Tóth es que la soberbia se desvanece cuando se mide la propia grandeza a la luz de la realidad.
 
 ## Distinciones importantes
 
@@ -51,4 +54,4 @@ Se relaciona con [[filosofía]], [[virtud]], [[conocimiento_de_sí]], [[verdad]]
 - Jenofonte, *Memorables*.
 - Aristóteles, *Metafísica*.
 - *Evangelization & Culture* 1, 12, 17, 18, 19.
-- Mons. Tihámer Tóth, *El joven de carácter*.
+- JvC, Mons. Tihámer Tóth, *El joven de carácter*, cap. II.

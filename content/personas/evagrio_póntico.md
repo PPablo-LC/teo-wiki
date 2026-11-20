@@ -25,7 +25,7 @@ Evagrio es una de las fuentes más influyentes en la teología de la oración y 
 ### Evangelization & Culture, Issue 23 — Prayer (EAC-23)
 En el archivo `10_minds.md`, James Swan presenta a Evagrio Póntico como uno de los Padres del desierto más significativos para la teología de la oración. Swan destaca la enseñanza de Evagrio de que «nada es más esencial a la oración que la atención» (*prosoché*), señalando que la oración verdadera requiere un despertar interior y una vigilancia constante de los pensamientos. Evagrio enseñaba que el cristiano debe combatir los ocho logismoi —pensamientos pecaminosos que se apoderan del alma— mediante la oración continua, la vigilancia y la disciplina espiritual. Swan subraya que para Evagrio la oración no es simplemente un acto ritual, sino una forma de ser que transforma al creyente, purificándolo de las pasiones y elevándolo a la contemplación de Dios (*theoria*). Esta visión influyó profundamente en la tradición monástica posterior, tanto oriental como occidental.
 
-## Ver também
+## Ver también
 [[san_antonio_abad]] [[monacato]] [[oración]] [[logismoi]] [[apatheia]]
 
 ## Referencias

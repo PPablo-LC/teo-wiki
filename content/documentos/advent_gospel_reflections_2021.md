@@ -30,11 +30,7 @@ tags: ["adviento", "reflexiones_diarias", "word_on_fire", "robert_barron"]
 
 El itinerario acompaña al lector desde la expectación de la primera venida hasta la vigilancia ante la venida definitiva. Los temas recurrentes son la profecía del precursor, la visitación de María a Isabel y el *Magníficat*, la preparación del camino del Señor, las figuras del nacimiento —Zacarías, Isabel, María, José—, la llamada a la vigilancia y la conversión, y los textos sobre la venida de Cristo en gloria.
 
-Las reflexiones se apoyan en la liturgia de Adviento y en la predicación de Word on Fire; su género es devocional y homilético, no tratado sistemático.
-
-## Perspectivas por fuente
-
-El género de la obra es devocional: no expone un tratado sistemático ni se ordena por cuestiones teológicas, sino que acompaña la oración diaria. Por eso su aportación al wiki se recoge en los conceptos que ilumina ([[adviento]], [[encarnación]], [[san_juan_bautista]], [[virgen_maría]], [[navidad]], [[palabra_de_dios]]) más que en un desarrollo doctrinal propio.
+Las reflexiones se apoyan en la liturgia de Adviento y en la predicación de Word on Fire; su género es devocional y homilético, no tratado sistemático. Su aportación al wiki se recoge, por eso, en los conceptos que ilumina ([[adviento]], [[encarnación]], [[san_juan_bautista]], [[virgen_maría]], [[navidad]], [[palabra_de_dios]]) más que en un desarrollo doctrinal propio.
 
 ## Distinciones importantes
 

@@ -7,7 +7,7 @@ timestamp: 2026-08-27
 
 # Las Fuentes de la Moral Cristiana
 
-> Código: **FMC**
+> Código: **FMC** (la reauditoría del 2026-11-02 se registró por error como «PINK»; ambos códigos designan esta misma obra y se unificaron en FMC)
 > Autor: Servais (Th.) Pinckaers OP
 > Tipo: Monografía académica
 > Título original: *Les sources de la morale chrétienne. Sa méthode, son contenu, son histoire* (1985)

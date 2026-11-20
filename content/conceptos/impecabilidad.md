@@ -52,7 +52,7 @@ El **Concilio de Vienne** (1311-1312) condenó la proposición de los begardos: 
 
 Se relaciona con el [[pecado_original]], la [[gracia_santificante]], la [[perfección_cristiana]], la [[contemplación_infusa]], la [[vía_unitiva]] y el [[libre_albedrío]].
 
-## Ver também
+## Ver también
 
 [[perfección_cristiana]], [[pecado_original]], [[gracia_santificante]], [[contemplación_infusa]], [[vía_unitiva]]
 

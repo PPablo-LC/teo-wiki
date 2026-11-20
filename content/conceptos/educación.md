@@ -137,6 +137,12 @@ Giussani define la educación como «introduzione alla realtà totale» (Jungman
 - **Riesgo educativo**: necesario para formar un hombre nuevo que actúe «da sé» (I, 192-211; 215).
 - **Educabilidad y estupor**: la educación cultiva la permanente apertura a crecer y la conmoción ante las cosas (I, 219).
 
+### Según Entre chicos por primera vez (ECP)
+
+La educación es tarea común de la casa y del colegio: «En el Colegio hay quien eduque al chico, pero en casa también hay que educarle y las dos cosas tienen que complementarse si queremos que la educación sirva para algo» (03:11). El educador no sustituye a los padres: colabora con ellos, porque «todos tenemos que ser colaboradores de los padres, que son quienes tienen que educar a sus hijos por oficio» (13:11). La misión propia del educador —«ayudar a unos cuantos muchachos a prepararse para la vida, con toda la proyección individual, social y aun eterna que esto supone» (04:37)— y el riesgo de «empequeñecer una misión divina» (04:39) se desarrollan en [[educador_cristiano]].
+
+Dentro del colegio, la labor principal son las clases: «la inteligencia se cultiva en las clases casi exclusivamente, en tanto que el carácter recibe influencias en todo momento» (12:13). Pero la educación no se reduce a instrucción: lo que forma es la concepción de la vida del educador (05:51; ver [[educador_cristiano]]), y el fin es la formación integral del chico (12:59). ECP insiste en la primacía de la educación de la libertad: «si lográramos educar adecuadamente la libertad de los muchachos, habríamos conseguido lo más esencial en la educación» (11:7). El éxito se mide a largo plazo: «la verdadera educación, la labor que realmente dura a través de los años, es la que aparentemente se hace inútil en poco tiempo» (10:95).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

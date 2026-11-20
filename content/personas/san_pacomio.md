@@ -25,7 +25,7 @@ Su modelo de vida en comunidad, con una regla que regulaba la oración, el traba
 ### Historia de la Iglesia — P. Antonio Rivero LC (HI)
 Rivero señala que «San Pacomio (347) organizó la vida cenobítica, escribiendo una regla de cómo vivir en comunidad; la más antigua regla monacal» (HI, cap. 8). También menciona que san Benito de Nursia, al fundar sus monasterios, se inspiró «en los cenobios de san Pacomio» (HI, cap. 12).
 
-## Ver também
+## Ver también
 [[monacato]] [[cenobitismo]] [[san_antonio_abad]]
 
 ## Referencias

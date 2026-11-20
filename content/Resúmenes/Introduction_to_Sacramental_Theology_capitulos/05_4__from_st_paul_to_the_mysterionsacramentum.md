@@ -1,61 +1,27 @@
 ---
 type: ResumenFuente
-title: "4 — From St. Paul to the mysterion-sacramentum"
+title: "Cap. 4 — De san Pablo al mysterion-sacramentum"
 fuente: Introduction_to_Sacramental_Theology_capitulos
 capítulo: 5
-timestamp: 2026-10-29
-description: "Resumen de '4 — From St. Paul to the mysterion-sacramentum' — Introduction_to_Sacramental_Theology_capitulos"
-tags: ["resumen", "introduction to sacramental theology capitulos"]
+timestamp: 2026-11-15
+description: "El mysterion paulino como plan de Dios manifestado en la carne, y su traducción latina a sacramentum: del designio salvífico al rito que lo hace presente."
+tags: ["resumen", "teología sacramental", "san pablo"]
 ---
 
-# 4 — From St. Paul to the mysterion-sacramentum
+# Cap. 4 — De san Pablo al mysterion-sacramentum
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[misterio_pascual]] — el plan de Dios manifestado en Cristo
+- [[iglesia]] — cuerpo de Cristo y «gran misterio» esponsal
+- [[sacramento]] — traducción latina del *mysterion*
+- [[matrimonio]] — el único sacramento que Pablo llama *mysterion*
+- [[memorial]] — la memoria que actualiza la historia de la salvación
 
+## El misterio en Pablo
 
-## Contenido
+En Pablo, *mysterion* designa el plan de Dios oculto por siglos y manifestado en Cristo (Rom 16,25; Ef 3,9; Col 1,26): Cristo es el misterio de Dios manifestado en la carne (Col 2,2; 1 Tim 3,16) y el que recapitula los siglos (Ef 1,9-10). La Iglesia es su cuerpo, y el «gran misterio» es la unión de Cristo y la Iglesia en una sola carne (Ef 5,31-32).
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_chapter_04.md`
+El trasfondo veterotestamentario es el *sod* —el consejo de Dios—, que la Septuaginta traduce por *mysterion* y que los rabinos aplican a los «misterios de la Torá»; Daniel lo usa para el misterio de la historia. Israel concibe el tiempo como trama —origen, conflicto, resolución—, lee la historia por tipología y descifra su sentido desde el culto, con la *anamnesis* y la persona corporativa como categorías. La circuncisión era ya un *mysterion* rabínico, y Pablo vincula el término con la liturgia cristiana: bautismo y Eucaristía se entienden en clave de *anamnesis* y de persona corporativa. El matrimonio es el único de los siete sacramentos que Pablo relaciona explícitamente con el *mysterion*, arraigado en la condición creacional y transformado por Cristo.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 4 — From St. Paul to the mysterion-sacramentum |
-| 7 | H2 | From *mysterion* to the Sacraments |
-| 25 | H2 | The Pauline *mysterion* from the Perspective of the Old Testament |
-| 79 | H2 | Pauline *mysterion* and Johannine Sign |
-| 87 | H2 | Toward the Classical Use of the Term “Sacrament” |
-
-
-## Secciones incluidas
-
-# From *mysterion* to the Sacraments
-
-[Contenido de esta sección...]
-
-# The Pauline *mysterion* from the Perspective of the Old Testament
-
-[Contenido de esta sección...]
-
-# Pauline *mysterion* and Johannine Sign
-
-[Contenido de esta sección...]
-
-# Toward the Classical Use of the Term “Sacrament”
-
-[Contenido de esta sección...]
+Juan y Pablo se corresponden: el *semeion* y el *mysterion* convergen en el cuerpo de Jesús. El desarrollo patrístico —Ignacio de Antioquía, Justino, Clemente de Alejandría con la disciplina del arcano, Orígenes, Crisóstomo— desemboca en la traducción latina *sacramentum*, elegida para evitar la confusión con los misterios helenísticos: *sacramentum* designa la obligación religiosa pública, el juramento y el vínculo sagrado, y termina separando los significados (rito y realidad salvífica). En la Edad Media el término se amplía a toda la historia de la salvación; Tomás dirá que el sacramento es signo de tres cosas: memoria del pasado, manifestación presente de la gracia y preanuncio de la gloria futura.

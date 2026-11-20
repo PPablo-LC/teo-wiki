@@ -25,7 +25,7 @@ Su ejemplo de desasimiento total por amor a Cristo, de lucha contra el demonio y
 ### Historia de la Iglesia — P. Antonio Rivero LC (HI)
 Rivero señala que «el ejemplo de Antonio en la Tebaida (356), llamado san Antonio abad, atrajo a muchos seguidores» (HI, cap. 8). Su figura se sitúa en el contexto del nacimiento del monacato en Egipto, junto con san Pacomio, como iniciadores de las dos formas de vida monástica: el eremitismo y el cenobitismo.
 
-## Ver também
+## Ver también
 [[monacato]] [[eremitismo]] [[san_pacomio]]
 
 ## Referencias

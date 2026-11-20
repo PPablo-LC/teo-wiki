@@ -64,7 +64,7 @@ El prefacio sitúa además la obra en el Instituto Pontificio Juan Pablo II para
 
 ## Resúmenes por capítulo
 
-> Los resúmenes de esta fuente están aún en estado de plantilla (0/17 completados). Los enlaces apuntan a las fichas previstas.
+> Los diecisiete resúmenes están completos (17/17). Se escribieron desde el `índice.md` auditado de la fuente —fichas por capítulo con líneas exactas—, no leyendo las ~210.000 palabras del raw: quien necesite profundizar, tiene el texto en `raw/Bases_doctrinales-raw/Introduction_to_Sacramental_Theology_capitulos/`.
 
 - [[01_introduction_to_sacramental_theology]] — Preliminares, prólogo y prefacio
 - [[02_1__the_sacraments_a_place_in_which_to_contemplate_the_mystery]] — Cap. 1

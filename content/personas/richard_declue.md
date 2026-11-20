@@ -51,7 +51,7 @@ En el archivo `15_feature_declue.md`, DeClue presenta un análisis profundo de l
 
 - **La liturgia divina como oración suprema** (*Sacramentum Caritatis*): DeClue presenta la enseñanza de Benedicto XVI de que la liturgia es la oración suprema de la Iglesia, donde el creyente participa en la oración misma de Cristo al Padre en el Espíritu. La *logiké latreía* (Rom 12,1) —el culto racional— se realiza plenamente en la celebración eucarística.
 
-## Ver também
+## Ver también
 [[oración]] [[liturgia]] [[benedicto_xvi]] [[henri_de_lubac]] [[eucaristía]]
 
 ## Referencias

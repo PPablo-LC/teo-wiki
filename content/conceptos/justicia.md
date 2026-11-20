@@ -88,6 +88,20 @@ Este tratamiento de la justicia en 2 Samuel proporciona una síntesis católica 
 
 La justicia ordena al bien común de la sociedad: dar a cada uno lo que se le debe. En la justificación teológica Tomás habla de otra justicia: no la virtud cardinal, sino el orden debido de las partes de la naturaleza entre sí y con Dios (el apetito a la razón, la razón a Dios); el pecado original es una injusticia nacida de ese desorden, y justificar es restaurar la justicia original. El mal de pena puede ser querido por Dios por la justicia: el bien del orden de toda la sociedad está por encima de que el culpable no sufra.
 
+### Según Entre chicos por primera vez (ECP)
+
+**La justicia, condición del ascendiente.** ECP advierte que el educador «está jugando con ventaja» y que los chicos «te perdonarán otras cosas, tu mal genio, tu poca preparación, incluso tu pasividad, pero nunca tus injusticias, aunque sólo sean aparentes» (17:57). La imparcialidad ha de ser total: «una especie de neutralidad obsequiosa entre las pasiones y los buenos deseos de todos» (17:51). Y la acepción de personas es «un error bastante común» que el chico adivina pronto y aprovecha (07:69-71).
+
+**Justicia no es igualitarismo.** «La recta justicia no está en tratar a todos lo mismo, sino en dar a cada uno lo que se merece» (17:65). ECP manda, sin embargo, cuidado con las distinciones, porque el educador «no eres tú el más indicado para calibrar la exactitud de tus decisiones»: mejor tratar a todos por igual y reflexionar con frecuencia sobre las posibles quejas (17:65).
+
+**Cumplir lo prometido.** Cuando se ha prometido algo o estipulado un castigo concreto, «no dejes por ningún motivo de llevarlo a cabo»; si algo posterior aconseja negar la recompensa, «no dejes de dar el premio. Y castiga de otra forma» (17:69).
+
+**La justicia cotidiana.** ECP considera que la mayor parte de las injusticias que los chicos sufren son pequeñas: ocupar el patio de los pequeños, no respetar el turno, molestar al que estudia. «Sólo con que los chicos se acostumbrasen a no faltar a las pequeñas justicias de los hombres, que ocurren todos los días, se habría logrado una conquista que parece sencilla pero que sería magnífica para sus almas» (18:79). Castigar el perjuicio ajeno —y no la simple molestia o el gasto— es ya una lección de justicia (18:57).
+
+**Las notas.** ECP pide anotar a diario las notas y las faltas para no improvisar al entregarlas, y «dar satisfacción a quien la necesite y la merezca» (17:135-149).
+
+**El testimonio de los chicos.** La encuesta recogida por ECP muestra una sensibilidad especialmente profunda ante la justicia: «Los alumnos tratados injustamente pierden pronto la alegría del estudio»; «la injusticia agria al hombre; la justicia despierta la alegría del bien» (19:157-159). Hacia los quince años la noción pasa de la igualdad rígida al *suum cuique* (19:163-165).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_justicia]]

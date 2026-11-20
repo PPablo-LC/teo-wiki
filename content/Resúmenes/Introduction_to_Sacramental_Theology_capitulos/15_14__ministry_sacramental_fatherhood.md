@@ -1,86 +1,27 @@
 ---
 type: ResumenFuente
-title: "14 — Ministry: Sacramental Fatherhood"
+title: "Cap. 14 — Ministerio: paternidad sacramental"
 fuente: Introduction_to_Sacramental_Theology_capitulos
 capítulo: 15
-timestamp: 2026-10-29
-description: "Resumen de '14 — Ministry: Sacramental Fatherhood' — Introduction_to_Sacramental_Theology_capitulos"
-tags: ["resumen", "introduction to sacramental theology capitulos"]
+timestamp: 2026-11-15
+description: "El ministro como parte del sacramento: la bondad y la fe del que lo administra, la intención requerida y la paternidad sacramental del sacerdote."
+tags: ["resumen", "teología sacramental", "ministerio"]
 ---
 
-# 14 — Ministry: Sacramental Fatherhood
+# Cap. 14 — Ministerio: paternidad sacramental
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[sacerdocio]] — paternidad sacramental configurada a Cristo
+- [[sacramento]] — el ministro como parte integral del rito
+- [[iglesia]] — la que administra *in persona ecclesiae*
+- [[carácter_sacramental]] — el que configura al ministro
+- [[bautismo]] — la fórmula que revela quién actúa
 
+## El ministro
 
-## Contenido
+El ministro no es un añadido externo: es parte integral del sacramento, y su figura es la de un padre sacramental. El testimonio bíblico arranca del ministerio paulino —predicación y Eucaristía, carismas, los Doce, las cartas pastorales con la imposición de manos— y muestra que nadie se administra a sí mismo.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `14_chapter_14.md`
+La cuestión clásica es la bondad y la fe del ministro. Inocencio III, Ignacio de Antioquía, Clemente, Justino, Cipriano, Agustín, Gregorio de Nazianzo, la crisis donatista, el caso de Formoso, Pedro Lombardo y Trento construyen la respuesta: la eficacia no depende de la santidad del que administra. La intención es lo que se exige —Agustín, Hugo de San Víctor, Tomás, Buenaventura, Lutero, Trento, Alejandro VIII—, y se distingue la intención interna de la externa, con la práctica del bautismo *sub conditione* como caso límite.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 14 — Ministry: Sacramental Fatherhood |
-| 5 | H2 | The Minister, from the Perspective of the Eucharist: Biblical Testimon |
-| 23 | H2 | The Minister’s Goodness and Faith |
-| 49 | H2 | The Minister’s Intention |
-| 71 | H2 | Priestly Ministry and Fatherhood in Christ |
-| 77 | H2 | The Sacramental Fatherhood of the Priest |
-| 101 | H2 | The Priestly Character and Fatherhood |
-| 117 | H2 | Ministry of the Church in the Sacraments |
-| 135 | H2 | The Church’s Authority over the Sacraments |
-| 159 | H2 | The Seven Sacraments, Different Forms of the Minister’s Fatherhood |
-
-
-## Secciones incluidas
-
-# The Minister, from the Perspective of the Eucharist: Biblical Testimony
-
-[Contenido de esta sección...]
-
-# The Minister’s Goodness and Faith
-
-[Contenido de esta sección...]
-
-# The Minister’s Intention
-
-[Contenido de esta sección...]
-
-# Priestly Ministry and Fatherhood in Christ
-
-[Contenido de esta sección...]
-
-# The Sacramental Fatherhood of the Priest
-
-[Contenido de esta sección...]
-
-# The Priestly Character and Fatherhood
-
-[Contenido de esta sección...]
-
-# Ministry of the Church in the Sacraments
-
-[Contenido de esta sección...]
-
-# The Church’s Authority over the Sacraments
-
-[Contenido de esta sección...]
-
-# The Seven Sacraments, Different Forms of the Minister’s Fatherhood
-
-[Contenido de esta sección...]
+La segunda mitad del capítulo desarrolla la paternidad sacramental del sacerdote: los Padres la describen, las fórmulas rituales la revelan —«esto es mi cuerpo» frente a «yo te bautizo»: en la Eucaristía el ministro presta su voz a Cristo, en el bautismo actúa en la persona de la Iglesia— y Tomás la sistematiza. El carácter sacerdotal configura a la paternidad de Cristo, y el ministro actúa *in persona ecclesiae*. La Iglesia tiene autoridad sobre los sacramentos: establece los ritos, juzga la validez y la licitud, y suple lo que falta —*ecclesia supplet*—. Los siete sacramentos son, desde esta clave, formas distintas de la paternidad del ministro.

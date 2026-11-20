@@ -21,9 +21,7 @@ El himno medita sobre la compasión de María —su sufrimiento espiritual junto
 
 El himno se canta tradicionalmente en la fiesta de Nuestra Señora de los Dolores (15 de septiembre) y durante el Vía Crucis. Fue incorporado al Misal Romano como secuencia opcional. Su estructura poética en tercetos octosílabos y su profundidad teológica lo convierten en una cumbre de la himnodia mariana.
 
-## Perspectivas por fuente
-
-No se han encontrado referencias directas en las fuentes doctrinales del wiki. El himno pertenece a la tradición litúrgica y espiritual de la Iglesia, y su contenido se fundamenta en los textos evangélicos que describen a María junto a la cruz (Jn 19,25-27) y en la profecía de Simeón (Lc 2,35): «una espada te atravesará el alma».
+No se han encontrado referencias directas al himno en las fuentes doctrinales del wiki: su contenido se fundamenta en los textos evangélicos que describen a María junto a la cruz (Jn 19,25-27) y en la profecía de Simeón (Lc 2,35): «una espada te atravesará el alma».
 
 ## Distinciones importantes
 

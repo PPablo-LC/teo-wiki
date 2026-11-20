@@ -41,10 +41,6 @@ La Constitución consta de seis capítulos y un proemio:
 - Los Evangelios tienen origen apostólico e historicidad (DV 18-19)
 - El estudio de la Sagrada Escritura es el alma de la Teología (DV 24)
 
-## Perspectivas por fuente
-
-No aplica (artículo-documento).
-
 ## Relaciones doctrinales
 
 La *Dei Verbum* es la fuente conciliar para la [[revelación_divina]], la [[tradición_apostólica]], la [[sagrada_escritura]], el [[magisterio_de_la_iglesia]], la [[inspiración]], la [[interpretación_de_la_escritura]], y la [[teología]].

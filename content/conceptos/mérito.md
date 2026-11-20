@@ -77,7 +77,7 @@ Poseer un bien por el propio esfuerzo (mérito) es más noble que recibirlo sin 
 **q.19 a.4 — Cristo mereció para nosotros:**
 Cristo tuvo la gracia no solo como hombre particular, sino como cabeza de toda la Iglesia. Por ser cabeza del Cuerpo Místico, su mérito se extiende a todos sus miembros: así como el pecado de Adán se propagó a todos por generación carnal, el mérito de Cristo se comunica a todos por la regeneración espiritual (bautismo), por la cual somos incorporados a Cristo. El mérito de Cristo es de condigno perfecto y es la fuente de toda gracia y salvación para los hombres.
 
-### Según el Enchiridion Symbolorum (Denzinger)
+### Según el Enchiridion Symbolorum (Denzinger) — Orange II y Trento
 
 El **II Concilio de Orange** (529) enseña la doctrina católica sobre el mérito en relación con la gracia. El canon 18 (D-191) afirma: «Se debe recompensa a las buenas obras, si se hacen; pero la gracia, que no se debe, precede para que se hagan». El canon 19 (D-192) declara que la naturaleza humana, aun en su estado de integridad original, no podía conservarse sin el auxilio del Creador; con mayor razón no puede reparar lo perdido sin la gracia. El epílogo doctrinal (D-199) resume que en toda obra buena no empezamos nosotros para ser luego ayudados, sino que Dios nos inspira primero sin merecimiento previo alguno. El canon 20 (D-193) concluye: «Muchos bienes hace Dios en el hombre, que no hace el hombre; ningún bien, empero, hace el hombre que no otorgue Dios que lo haga el hombre». Esta doctrina fue confirmada por Bonifacio II (D-200a–D-200b).
 
@@ -101,7 +101,7 @@ San Pablo recuerda que el hombre no puede gloriarse de sus obras, porque es Dios
 
 **El riesgo de la reducción progresista (cap. VII).** La «alienación por el progreso» —cambiar la salvación por el desarrollo técnico— esconde una concepción meritoria sin trascendencia: se espera del esfuerzo humano lo que solo la gracia puede dar. La respuesta cristiana, en cambio, asume la pregunta y la remite a su compimento divino (SR, `14_capitolo_settimo.md`, §31-60).
 
-### Según el Enchiridion Symbolorum (Denzinger)
+### Según el Enchiridion Symbolorum (Denzinger) — Pío V contra Bayo
 
 Pío V condenó los errores de Miguel Bayo sobre el mérito (D‑1001–D‑1082), que atribuían a las obras buenas una eficacia meritoria por naturaleza:
 

@@ -247,6 +247,10 @@ La unión en Cristo es **personal**: ni esencial (Eutiques, que confunde las nat
 
 **El prólogo como otra versión del mismo relato.** La tercera Misa de Navidad no narra el establo, pero cuenta la misma historia: la luz que brilla en las tinieblas, la gloria que se deja ver como gracia, el Señor que no fue recibido en su casa. Lucas y Mateo cuentan la historia terrena y dejan ver la acción oculta de Dios; Juan mira desde el misterio y muestra cómo ese misterio penetra el establo y entra en la carne y la sangre del hombre (BWC 7).
 
+**El sentido se deja tocar.** Traducir *Logos* por «sentido» no es un juego de palabras: «el sentido eterno del mundo ha venido a nosotros de manera tan real que podemos tocarlo y verlo» (cf. 1 Jn 1,1) (BWC 7). Y ese sentido no es una idea general inherente al mundo ni una ley universal donde cada uno desempeña un papel: «el sentido nos habla, es una palabra dirigida a nosotros; nos conoce, nos llama y nos conduce [...]; es él mismo una persona» (BWC 7). De ahí la consecuencia que convierte la Encarnación en noticia personal y no en cosmología: Dios «tiene tiempo para mí —tanto que yació como hombre en el pesebre y sigue siendo hombre por toda la eternidad» (BWC 7). El pesebre es el lugar donde el sentido se vuelve abordable: el niño de Belén no simboliza el sentido, *es* el sentido, y por eso «no hay ya barrera de altura ni de distancia» que separe de Dios, sino acceso directo a su corazón (BWC 4).
+
+**La gloria en el pesebre.** El prólogo termina en «hemos contemplado su gloria» (Jn 1,14): palabras que podrían ser las de los pastores al volver del establo, o las del recuerdo de María y José, y que son también la definición de la fe, porque «creer significa ver su gloria en este mundo» (BWC 7). Esa gloria no se manifiesta a pesar del pesebre, sino en él: la existencia humana del Hijo —su niñez, su carne— es la gloria del Padre, y donde se sigue a este Dios comienza una humanidad nueva (BWC 6). Creer es, entonces, dejarse abrir los ojos para verla, en vez de mirarse solo a sí mismo.
+
 ## Distinciones importantes
 
 - **Encarnación vs. unión hipostática**: la Encarnación es el acto de asumir la naturaleza humana; la unión hipostática es el estado permanente de la unión de las dos naturalezas en la persona del Verbo.
@@ -295,3 +299,4 @@ La Encarnación es además la prueba de la no-competitividad: si Dios se hizo ho
 - [EAC-1, Issue 1 «Creativity»: archivos 15, 19]
 - [EAC-3, Issue 3 «The Digital Age», archivo 07 (Mixa); Dreyfus, *On the Internet*]
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Baglow, 11_science.md; Hejduk, 17_feature_hejduk.md; Youngblood, 20_spotlight_youngblood.md)
+- Joseph Ratzinger, *The Blessing of Christmas* (BWC): 4 (el niño como «Emmanuel» y el pesebre como acceso al corazón de Dios); 6 (la gloria en el pesebre y en la cruz); 7 (*Logos* como «sentido», el sentido que se puede tocar, la verdad bella y «los suyos no lo recibieron»).

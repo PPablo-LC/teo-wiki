@@ -64,7 +64,7 @@ La identidad sacerdotal legionario se articula en torno a cinco elementos: (1) e
 
 La ordenación sagrada se relaciona con la [[formación_integral]], el [[noviciado_lc]], la [[profesión_religiosa_legionaria]], la [[comunidad_religiosa]], el [[carisma_legionario]], la [[vida_litúrgica_y_oración]] y la [[consagración_legionaria]].
 
-## Ver também
+## Ver también
 
 [[profesión_religiosa_legionaria]], [[noviciado_lc]], [[formación_integral]], [[comunidad_religiosa]], [[carisma_legionario]], [[vida_litúrgica_y_oración]], [[consagración_legionaria]], [[paternidad_sacerdotal]]
 

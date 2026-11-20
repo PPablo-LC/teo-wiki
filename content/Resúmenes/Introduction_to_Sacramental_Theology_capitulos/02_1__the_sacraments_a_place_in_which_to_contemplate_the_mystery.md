@@ -1,101 +1,28 @@
 ---
 type: ResumenFuente
-title: "1 — The Sacraments, a Place in Which to Contemplate the Mystery"
+title: "Cap. 1 — Los sacramentos, lugar para contemplar el misterio"
 fuente: Introduction_to_Sacramental_Theology_capitulos
 capítulo: 2
-timestamp: 2026-10-29
-description: "Resumen de '1 — The Sacraments, a Place in Which to Contemplate the Mystery' — Introduction_to_Sacramental_Theology_capitulos"
-tags: ["resumen", "introduction to sacramental theology capitulos"]
+timestamp: 2026-11-15
+description: "El método sacramental: los ritos como ventanas al misterio, la liturgia como suelo donde maduran los dogmas y la fe como espacio habitable frente a la postmodernidad."
+tags: ["resumen", "teología sacramental", "método"]
 ---
 
-# 1 — The Sacraments, a Place in Which to Contemplate the Mystery
+# Cap. 1 — Los sacramentos, lugar para contemplar el misterio
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[sacramento]] — ventana y promontorio para contemplar el misterio
+- [[liturgia]] — suelo donde se formulan las profesiones de fe
+- [[fe]] — espacio original y habitable, no solo opción privada
+- [[eucaristía]] — lugar primero del encuentro con el Resucitado
 
+## El método sacramental
 
-## Contenido
+El capítulo propone los sacramentos como método teológico: no son un tema entre otros, sino «ventanas» y promontorios desde los que se contempla el misterio cristiano. La Eucaristía es el espacio original del encuentro con Cristo resucitado —Emaús, Juan 20—, y las profesiones de fe más antiguas (Flp 2,6-11; 1 Cor 8,6; 15,3-5; 1 Tim 3,16) maduraron en suelo litúrgico. Los escritos neotestamentarios, sostiene Granados, se escriben con el culto como punto de partida: Corintios, Efesios, Hebreos, Apocalipsis, los sinópticos y Juan.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_chapter_01.md`
+Los Padres son mistagogos: Ireneo construye doctrina sólida sobre base eucarística y Agustín define los sacramentos como «palabras visibles» de Dios. Pedro Lombardo, con sus *Sentencias*, separa tres libros de realidades y uno de signos, y la máxima *lex orandi, lex credendi* resume el principio: la oración de la Iglesia precede y alimenta su fe.
 
+El capítulo termina justificando el tratado *de sacramentis in genere*, que nació tarde —siglo XII— porque el sacramento es el punto de vista desde el que se contempla todo el misterio, y lo último que la reflexión alcanza. Granados reconoce las críticas —el riesgo de encorsetar los siete en un concepto único, la materia y forma forzadas en matrimonio y penitencia, el olvido del contexto litúrgico— y responde con cuatro tareas: ordenar los sacramentos entre sí partiendo de la Eucaristía (el concepto general es *orgánico*, no genérico), descubrir la lógica sacramental de toda la revelación (una «teología sacramental fundamental»), leer en clave sacramental los demás tratados, y mostrar la fecundidad de los sacramentos para la experiencia creacional y para la sociedad. Frente a la teología litúrgica distingue su objeto: el rito es solo un aspecto, porque el sacramento abarca todo el espacio vital del creyente —los Padres llamaban «bautismo» a la transformación permanente del bautizado, y el matrimonio puede existir sin ceremonia—. El plan de la obra se reparte en tres partes: la carne de Jesús (caps. 2-5), la definición del sacramento desde la creación y la historia (caps. 6-11) y la transformación de la existencia cristiana (caps. 12-15).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1 — The Sacraments, a Place in Which to Contemplate the Mystery |
-| 15 | H2 | The Sacraments, the Original Space of the Encounter with Christ |
-| 27 | H2 | A Sacramental Viewpoint for the Study of Theology |
-| 31 | H2 | The Sacramental Outlook, from the Space of the Body of Jesus |
-| 47 | H2 | The Sacramental Outlook, in Terms of the Time Spent on Earth by Jesus |
-| 63 | H2 | Sacramental Outlook and Man’s Original Experience |
-| 79 | H2 | The Sacramental Viewpoint in Postmodern Culture |
-| 83 | H2 | Reduction of Spaces and Impoverishment of Symbols |
-| 109 | H2 | The Sacramental Outlook, a Response to Secularization |
-| 133 | H2 | The Treatise of General Sacramental Theology |
-| 137 | H2 | Objective of a General Sacramental Theology |
-| 163 | H2 | General Sacramental Theology and Liturgical Theology |
-| 177 | H2 | Plan of the Treatise |
-
-
-## Secciones incluidas
-
-# The Sacraments, the Original Space of the Encounter with Christ
-
-[Contenido de esta sección...]
-
-# A Sacramental Viewpoint for the Study of Theology
-
-[Contenido de esta sección...]
-
-# The Sacramental Outlook, from the Space of the Body of Jesus
-
-[Contenido de esta sección...]
-
-# The Sacramental Outlook, in Terms of the Time Spent on Earth by Jesus
-
-[Contenido de esta sección...]
-
-# Sacramental Outlook and Man’s Original Experience
-
-[Contenido de esta sección...]
-
-# The Sacramental Viewpoint in Postmodern Culture
-
-[Contenido de esta sección...]
-
-# Reduction of Spaces and Impoverishment of Symbols
-
-[Contenido de esta sección...]
-
-# The Sacramental Outlook, a Response to Secularization
-
-[Contenido de esta sección...]
-
-# The Treatise of General Sacramental Theology
-
-[Contenido de esta sección...]
-
-# Objective of a General Sacramental Theology
-
-[Contenido de esta sección...]
-
-# General Sacramental Theology and Liturgical Theology
-
-[Contenido de esta sección...]
-
-# Plan of the Treatise
-
-[Contenido de esta sección...]
+La perspectiva sacramental tiene tres dimensiones: espacio corpóreo, relación comunitaria y tiempo (memoria de la vida de Jesús y anticipación escatológica). Frente a eso, la postmodernidad padece pérdida de espacios habitables y de tiempos narrables: la secularización, en los tres sentidos de Taylor —menos práctica, Dios ausente del espacio público, fe como opción—, deja al hombre en el «desierto» tras la «morada» premoderna y el «laberinto» moderno. De ahí la propuesta: si Rahner decía que el cristiano del futuro será místico o no será, Granados corrige: «será sacramental».

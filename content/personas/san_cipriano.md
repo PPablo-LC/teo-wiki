@@ -25,7 +25,7 @@ Su tratado *De unitate Ecclesiae* es un texto fundamental sobre la unidad de la 
 ### Historia de la Iglesia — P. Antonio Rivero LC (HI)
 Rivero señala que «san Cipriano, obispo de Cartago, muerto en el 258, luchó para que fueran perdonados, después de haberse arrepentido y de haber hecho penitencia, aquellos que habían apostatado durante las persecuciones (los "lapsi")» (HI, cap. 6). También lo menciona entre los mártires de la persecución de Valeriano y cita su famosa frase sobre la unidad de la Iglesia, recogida por el Concilio Vaticano II en *Lumen Gentium* 4: «Así toda la Iglesia aparece como el pueblo unido por la unidad del Padre, del Hijo y del Espíritu Santo» (HI, cap. 2).
 
-## Ver também
+## Ver también
 [[unidad_de_la_iglesia]] [[lapsi]] [[martirio]]
 
 ## Referencias

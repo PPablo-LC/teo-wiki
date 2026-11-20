@@ -58,7 +58,7 @@ En el comedor, por ejemplo, se regula cómo se coge el pan, cómo se sirve la so
 
 La disciplina religiosa se relaciona con la [[obediencia_filial]], la [[formación_integral]], la [[comunidad_religiosa]], la [[vida_fraterna_religiosa]], los [[consejos_evangélicos]] y el [[carisma_legionario]].
 
-## Ver também
+## Ver también
 
 [[formación_integral]], [[obediencia_filial]], [[comunidad_religiosa]], [[vida_fraterna_religiosa]], [[contacto_familiar]], [[comidas_comunitarias]], [[noviciado_lc]]
 

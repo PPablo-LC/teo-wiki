@@ -47,7 +47,7 @@ Cuanto más hace el hombre el bien, más libre se hace. No hay verdadera liberta
 **IIIª q.18 a.4 — El libre albedrío en Cristo:**
 Cristo tuvo verdadero libre albedrío, cuyo acto propio es la elección (electio). A diferencia del hombre caído, Cristo no podía pecar (confirmado en el bien por la gracia de la unión hipostática), pero ello no suprimió su libertad. La elección en Cristo no implicaba duda ni ignorancia: su razón juzgaba con certeza y su voluntad elegía libremente entre diversos bienes particulares. Su libre albedrío estaba determinado al bien en general, mas no a este o aquel bien concreto, lo cual es el fundamento de la elección libre. Es el libre albedrío propio de los bienaventurados (liberum arbitrium confirmatum in bono). La impecabilidad de Cristo no anuló su libertad, sino que la perfeccionó.
 
-### Según el Enchiridion Symbolorum (Denzinger)
+### Según el Enchiridion Symbolorum (Denzinger) — de Simplicio a Trento
 
 El Denzinger recoge la doctrina sobre el libre albedrío en varios documentos de los siglos V y VI. El Papa San Simplicio (D-156) afirma que el libre albedrío «existe, pero está herido por el pecado». El Concilio de Arles (475, D-160a) precisa que el libre albedrío está «atenuado y debilitado, no extinguido». El II Concilio de Orange (D-181) enseña que el libre albedrío fue «debilitado por el pecado original; nadie puede venir a Cristo sin la gracia». El mismo concilio afirma que el libre albedrío es «reparado por la gracia del bautismo» (D-186) y que «nadie puede amar a Dios como se debe sin gracia preveniente» (D-199). La gracia no destruye la libertad sino que la sana y la eleva, como resume el *Indiculus* de Celestino I: «Por este auxilio y don de Dios, no se quita el libre albedrío, sino que se libera» (D-141).
 
@@ -90,7 +90,7 @@ Dietrich von Hildebrand («Minds: Technology & Its Dangers») y Fr. Anselm Ramel
 
 **Virtud, predecibilidad y libertad (Ramelow):** Ejercitar el «veto» y crecer en virtud es lo que se necesita. Paradójicamente, la virtud nos hace más predecibles — «puedo predecir que la Madre Teresa no va a asesinarme» — pero eso no significa que haya perdido su libertad. La libertad «tiene que ver con la sabiduría, no con el capricho»; es racional y por eso predecible. La consistencia no priva de libertad sino que la incrementa [EAC-19, 15_feature_ramelow.md, L33-45].
 
-### Según el Enchiridion Symbolorum (Denzinger)
+### Según el Enchiridion Symbolorum (Denzinger) — Pío V contra Bayo
 
 Pío V condenó los errores de Bayo sobre el libre albedrío (D‑1027–D‑1030, D‑1039, D‑1041, D‑1065–D‑1067):
 

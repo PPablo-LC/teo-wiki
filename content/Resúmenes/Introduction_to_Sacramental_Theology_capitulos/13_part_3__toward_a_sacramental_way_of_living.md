@@ -1,127 +1,29 @@
 ---
 type: ResumenFuente
-title: "PART 3 — TOWARD A SACRAMENTAL WAY OF LIVING"
+title: "Parte III, cap. 12 — El carácter sacramental"
 fuente: Introduction_to_Sacramental_Theology_capitulos
 capítulo: 13
-timestamp: 2026-10-29
-description: "Resumen de 'PART 3 — TOWARD A SACRAMENTAL WAY OF LIVING' — Introduction_to_Sacramental_Theology_capitulos"
-tags: ["resumen", "introduction to sacramental theology capitulos"]
+timestamp: 2026-11-15
+description: "El carácter como sello indeleble que configura al cuerpo de Cristo: datos bíblicos, síntesis de Dionisio y Tomás, la negación luterana y la afirmación de Trento."
+tags: ["resumen", "teología sacramental", "carácter sacramental"]
 ---
 
-# PART 3 — TOWARD A SACRAMENTAL WAY OF LIVING
+# Parte III, cap. 12 — El carácter sacramental
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[carácter_sacramental]] — signo indeleble impreso por algunos sacramentos
+- [[bautismo]] — el primero que configura al cuerpo de Cristo
+- [[sacerdocio]] — configuración con la paternidad de Cristo
+- [[gracia]] — el carácter capacita para el culto y para la caridad
+- [[iglesia]] — incorporación al cuerpo y a su historia
 
+## El sello
 
-## Contenido
+El carácter sacramental es el signo indeleble que imprimen algunos sacramentos y que configura al cuerpo de Cristo. Los datos bíblicos son los del sello —2 Cor 1,22; Ef 1,13; 4,30— y los de la transformación del bautizado: Rom 6,3-14; Gal 3,27; Col 3,9-10.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `12_chapter_12.md`
+Los Padres lo llaman *sfragis*, sello; Agustín habla de carácter como marca militar y formula la distinción decisiva: puede existir sin aprovechar —*potest esse, non prodesse*—, como Sara y Agar. Dionisio lo entiende como disposición al culto divino: el carácter distingue, significa y dispone.
 
+En la Edad Media, Buenaventura lo explica como hábito o disposición; Tomás, como potencia del alma y *instrumentalis virtus*, en la línea de la configuración al cuerpo de Cristo. La noción se articula con la *res et sacramentum* de Pedro Lombardo y con la síntesis tomista.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PART 3 — TOWARD A SACRAMENTAL WAY OF LIVING |
-| 5 | H1 | 12 — The Sacramental Character |
-| 13 | H2 | The Doctrine of the Sacramental Character in Scripture and in Patristi |
-| 17 | H2 | The Biblical Data |
-| 29 | H2 | Patristic Reflection |
-| 41 | H2 | Medieval Theology and the Classical Doctrine about the Sacramental Cha |
-| 45 | H2 | The Influence of Dionysius: Sacramental Character as Disposition to Di |
-| 55 | H2 | Medieval Reinterpretation: The Character in the Christian’s Flesh |
-| 75 | H2 | Modern Perspectives Starting from the Protestant Reformation and the C |
-| 81 | H2 | Luther and the Denial of the Sacramental Character |
-| 95 | H2 | Response of the Council of Trent |
-| 99 | H2 | The Character: Configuration to the Body of Christ (Matthias Joseph Sc |
-| 113 | H2 | The Character: Ecclesial Dimension of the Sacrament |
-| 133 | H2 | The Character: Incorporation into the Body of Christ and into the Stor |
-| 137 | H2 | Baptismal Character and Physical Birth |
-| 149 | H2 | Sacramental Character and Incorporation in Jesus |
-| 169 | H2 | Properties of the Character |
-| 187 | H2 | The Character in Each Sacrament |
-| 213 | H2 | Sacramental Reviviscence in Light of the Character |
-
-
-## Secciones incluidas
-
-# The Doctrine of the Sacramental Character in Scripture and in Patristic Writings
-
-[Contenido de esta sección...]
-
-# The Biblical Data
-
-[Contenido de esta sección...]
-
-# Patristic Reflection
-
-[Contenido de esta sección...]
-
-# Medieval Theology and the Classical Doctrine about the Sacramental Character
-
-[Contenido de esta sección...]
-
-# The Influence of Dionysius: Sacramental Character as Disposition to Divine Worship
-
-[Contenido de esta sección...]
-
-# Medieval Reinterpretation: The Character in the Christian’s Flesh
-
-[Contenido de esta sección...]
-
-# Modern Perspectives Starting from the Protestant Reformation and the Council of Trent
-
-[Contenido de esta sección...]
-
-# Luther and the Denial of the Sacramental Character
-
-[Contenido de esta sección...]
-
-# Response of the Council of Trent
-
-[Contenido de esta sección...]
-
-# The Character: Configuration to the Body of Christ (Matthias Joseph Scheeben)
-
-[Contenido de esta sección...]
-
-# The Character: Ecclesial Dimension of the Sacrament
-
-[Contenido de esta sección...]
-
-# The Character: Incorporation into the Body of Christ and into the Story of His Life
-
-[Contenido de esta sección...]
-
-# Baptismal Character and Physical Birth
-
-[Contenido de esta sección...]
-
-# Sacramental Character and Incorporation in Jesus
-
-[Contenido de esta sección...]
-
-# Properties of the Character
-
-[Contenido de esta sección...]
-
-# The Character in Each Sacrament
-
-[Contenido de esta sección...]
-
-# Sacramental Reviviscence in Light of the Character
-
-[Contenido de esta sección...]
+Lutero niega el carácter; Trento lo confirma en el canon 9 de la sesión VII. Scheeben lo presenta como configuración al cuerpo de Cristo y «alma de los sacramentos»; Rahner subraya su dimensión eclesial. El carácter incorpora al cuerpo de Cristo y a la historia de su vida: es un nuevo «idioma» con propiedades propias, que se diversifica en cada sacramento —bautismo, confirmación, orden, matrimonio, penitencia, unción— y explica la reviviscencia sacramental, la posibilidad de que un sacramento recibido sin fruto lo dé después, porque el sello permanece.

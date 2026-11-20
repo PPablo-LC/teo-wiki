@@ -44,7 +44,7 @@ En el archivo `14_feature_levering.md`, Levering presenta cuatro caminos bíblic
 
 Levering subraya que estos cuatro caminos no son alternativos sino complementarios, y que todos confluyen en la vida de oración del cristiano, que es el espacio donde se integran el sufrimiento, el servicio, la contemplación y la adoración.
 
-## Ver também
+## Ver también
 [[oración]] [[cristología]] [[escatología]] [[eucaristía]] [[sacramentos]]
 
 ## Referencias

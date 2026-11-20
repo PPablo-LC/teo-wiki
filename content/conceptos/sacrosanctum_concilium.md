@@ -42,10 +42,6 @@ La Constitución consta de siete capítulos:
 - Se recomienda la homilía como parte de la liturgia (SC 52)
 - Se concede mayor cabida a la concelebración (SC 57)
 
-## Perspectivas por fuente
-
-No aplica (artículo-documento).
-
 ## Relaciones doctrinales
 
 La *Sacrosanctum Concilium* es la fuente conciliar para la [[liturgia]], la [[eucaristía]], los [[sacramentos]], el [[misterio_pascual]], la [[participación_activa]], la [[renovación_litúrgica]], el [[año_litúrgico]], la [[música_sacra]] y el [[arte_sacro]].

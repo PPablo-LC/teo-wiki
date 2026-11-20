@@ -56,6 +56,16 @@ Splendor* para la sinergia entre gracia y libertad, la moral como respuesta
 a un don, y la imposibilidad de medir el potencial humano solo por la
 naturaleza frágil y pecadora.
 
+### Según *Sharing in Christ's Virtues* (SCV)
+
+Melina lee la encíclica como un todo orgánico y diagnóstica un desequilibrio en su recepción: el debate se concentró en el capítulo II —moral autónoma, conciencia creativa, opción fundamental separada de los actos, proporcionalismo— y descuidó el capítulo I, que funda la moral en Cristo, y el capítulo III, que la sitúa en la Iglesia y en la pastoral [SCV, 01].
+
+Su propuesta es que el capítulo I es la clave de los otros dos: si la moral cristiana es *sequela Christi* (VS 19), entonces la forma propia del obrar cristiano no es la obligación sino la virtud, entendida como participación en las virtudes de Cristo [SCV, 01; 06]. En esa línea, VS 78 —el objeto moral como fin próximo de la decisión deliberada, en la perspectiva del agente— no es una cláusula técnica, sino el método de una moral de la primera persona [SCV, 03].
+
+Melina recoge también el diagnóstico cultural de la encíclica: la crisis no es un disenso ocasional sino un cuestionamiento sistemático (VS 4-5), con dos rupturas —libertad/verdad y fe/moral—, la segunda raíz de la primera [SCV, 01; 02]. La respuesta no es una moral más estricta sino una moral más fundada: los mandamientos «nunca son imposibles» (VS 102-103) porque la gracia los hace posibles [SCV, 02].
+
+La conclusión de la obra es deliberadamente estética y doxológica: la belleza es el esplendor de la verdad (VS 107) —expresión que Melina remonta a la teología bonaventuriana del *splendor veritatis*—, los santos son la evangelización más persuasiva, y el fin de todo es «la alabanza de la gloria de Dios» (VS 120) contemplada en el rostro del Crucificado [SCV, 02; 06].
+
 ## Distinciones importantes
 
 - **VS y la ley natural**: la ley natural es la verdad del bien, no mera
