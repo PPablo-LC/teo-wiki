@@ -38,18 +38,6 @@ La fuente incluye avisos diversos procedentes de sus estancias en Beas de Segura
 
 En el artículo «John Paul II: Knowing Suffering from Inside» (George Weigel, archivo 18), San Juan de la Cruz es presentado junto a Santa Teresa de Ávila como uno de los dos Doctores del Carmelo reformado bajo cuya tutela espiritual (a través del místico laico Jan Tyranowski) Juan Pablo II descubrió «la teología espiritual cruciforme»: de ambos aprendió que «la cruz de Cristo es el eje alrededor del cual giran la historia y el cosmos». En la cruz el sufrimiento redentor alcanzó su forma más radical y fue transformado por la Resurrección en revelación de la verdad sobre el futuro humano: no la aniquilación sino «la vida eterna más allá del alcance del sufrimiento y de la muerte» [18_special_feature_weigel]. La mención integra la espiritualidad carmelitana de la cruz como eje de la historia en la teología del [[sufrimiento_redentor]] de Juan Pablo II (ver [[juan_pablo_ii]], [[salvifici_doloris]]).
 
-## Obras principales
-
-- *Subida del Monte Carmelo*
-- *Noche Oscura del Alma*
-- *Cántico Espiritual*
-- *Llama de Amor Viva*
-- *Avisos Espirituales* (recopilación de dichos y consejos)
-
-## Influencia en la tradición espiritual
-
-San Juan de la Cruz es reconocido como Doctor Místico de la Iglesia (1926, Pío XI). Su influencia se extiende mucho más allá del Carmelo: su doctrina sobre la purificación, la noche oscura y la unión transformante constituye el punto de referencia fundamental para toda la teología mística posterior. Autores como [[antonio_royo_marín]], Hans Urs von Balthasar, Jacques Maritain y Edith Stein se han apoyado en su doctrina.
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. II, subraya su magisterio histórico: en
@@ -67,6 +55,18 @@ agonizantes —«Padre, no necesito esto, léame algo del *Cantar de los
 Cantares*»—, exclamó «¡Qué perlas tan preciosas!», y a medianoche:
 «¡Gloria a Dios, iré a cantarlo en el cielo!». Los presentes contaron
 que una suave luz y un intenso perfume llenaron la celda.
+
+## Obras principales
+
+- *Subida del Monte Carmelo*
+- *Noche Oscura del Alma*
+- *Cántico Espiritual*
+- *Llama de Amor Viva*
+- *Avisos Espirituales* (recopilación de dichos y consejos)
+
+## Influencia en la tradición espiritual
+
+San Juan de la Cruz es reconocido como Doctor Místico de la Iglesia (1926, Pío XI). Su influencia se extiende mucho más allá del Carmelo: su doctrina sobre la purificación, la noche oscura y la unión transformante constituye el punto de referencia fundamental para toda la teología mística posterior. Autores como [[antonio_royo_marín]], Hans Urs von Balthasar, Jacques Maritain y Edith Stein se han apoyado en su doctrina.
 
 ## Ver también
 [[santa_teresa_de_jesús]], [[santo_tomás_de_aquino]], [[pseudo-dionisio_areopagita]], [[contemplación]], [[matrimonio_espiritual]]

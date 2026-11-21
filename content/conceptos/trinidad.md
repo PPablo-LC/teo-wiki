@@ -89,6 +89,14 @@ De ahí dos consecuencias espirituales que Barron subraya. La primera es que **e
 
 Finalmente, la *circumincessio* desarma la competitividad: en Dios no hay jerarquía ni lucha por el primer puesto. Barron concluye que el «o esto o lo otro» es la gramática del pecado y el «a la vez» la gramática de la gracia.
 
+### Según Centered (CEN)
+
+El Nuevo Testamento no contiene una doctrina desarrollada, pero sí las semillas: el mandato bautismal «en el nombre del Padre, del Hijo y del Espíritu Santo» (Mt 28,19) y las referencias paulinas a que el Padre envió al Hijo en la plenitud del tiempo y que solo en el Espíritu podemos llamar «Abba» a Dios. Todo ello se condensa en la fórmula implícitamente trinitaria de 1 Jn 4,16: si el amor no es una actividad que Dios ejerce sino lo que Dios esencialmente es, en Dios tiene que haber un juego de amante, amado y amor activo.
+
+La conclusión es que el Dios revelado en Jesús es «una familia o comunidad de personas»: el Padre engendra al Hijo, el Hijo mira al Padre, y el amor mutuo es el Espíritu Santo. El fundamento del ser no es una cosa, ni un absoluto, sino una *communio* de ser y dejar ser. Barron lo formula con imágenes corporales —pulmones que toman y sueltan, un corazón con su ritmo— para mostrar que la vida divina es relación, no soledad.
+
+De ahí la consecuencia cristológica y eclesial: el Hijo, el amado del Padre, es quien se encarna, y el Espíritu, amor exhalado entre ambos, quien habita en la Iglesia; por eso la misión eclesial es hacer real ese amor. La simplicidad divina no se opone a esta pluralidad: precisamente porque Dios es simple puede darse sin reserva, y la Trinidad es la forma eterna de ese darse.
+
 ## Distinciones importantes
 - Trinidad económica (revelada en las misiones divinas) ≠ Trinidad inmanente (Dios en sí mismo)
 - Unidad de esencia ≠ distinción de Personas
@@ -97,14 +105,6 @@ Finalmente, la *circumincessio* desarma la competitividad: en Dios no hay jerarq
 
 ## Relaciones doctrinales
 Se relaciona con [[encarnación]], [[espíritu_santo]], [[visión_beatífica]], [[gracia_santificante]], [[unión_hipostática]], [[inhabitación_trinitaria]].
-
-### Según Centered (CEN)
-
-El Nuevo Testamento no contiene una doctrina desarrollada, pero sí las semillas: el mandato bautismal «en el nombre del Padre, del Hijo y del Espíritu Santo» (Mt 28,19) y las referencias paulinas a que el Padre envió al Hijo en la plenitud del tiempo y que solo en el Espíritu podemos llamar «Abba» a Dios. Todo ello se condensa en la fórmula implícitamente trinitaria de 1 Jn 4,16: si el amor no es una actividad que Dios ejerce sino lo que Dios esencialmente es, en Dios tiene que haber un juego de amante, amado y amor activo.
-
-La conclusión es que el Dios revelado en Jesús es «una familia o comunidad de personas»: el Padre engendra al Hijo, el Hijo mira al Padre, y el amor mutuo es el Espíritu Santo. El fundamento del ser no es una cosa, ni un absoluto, sino una *communio* de ser y dejar ser. Barron lo formula con imágenes corporales —pulmones que toman y sueltan, un corazón con su ritmo— para mostrar que la vida divina es relación, no soledad.
-
-De ahí la consecuencia cristológica y eclesial: el Hijo, el amado del Padre, es quien se encarna, y el Espíritu, amor exhalado entre ambos, quien habita en la Iglesia; por eso la misión eclesial es hacer real ese amor. La simplicidad divina no se opone a esta pluralidad: precisamente porque Dios es simple puede darse sin reserva, y la Trinidad es la forma eterna de ese darse.
 
 ## Analizado para
 

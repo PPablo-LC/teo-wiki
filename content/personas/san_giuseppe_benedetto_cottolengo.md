@@ -27,14 +27,6 @@ El capítulo 9 extrae la tesis teológica del santo: **«Di una carità anónima
 
 El capítulo cita también a Emmanuel Mounier ante su hija convertida en «un piccolo vegetale»: «una bianca piccola ostia che ci supera tutti... Chi sa se non ci è domandato di custodire e adorare un'ostia in mezzo a noi»: el dolor no como algo que nos es arrancado, sino como algo que «noi doniamo».
 
-## Relaciones doctrinales
-
-[[caridad]], [[providencia]], [[conversión]], [[cristo_en_los_pequeños]], [[dignidad_de_la_persona_enferma]], [[vida_contemplativa]], [[fe]]
-
-## Ver también
-
-[[san_camilo_de_lelis]], [[san_vicente_de_paúl]], [[san_juan_bosco]], [[caridad]], [[providencia]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. V: todo cambió «la noche en que fue llamado
@@ -49,6 +41,14 @@ Divina Providencia**»; su obra era «mi Arca de Noé», aunque había quien
 sugirió el título de «Universidad de la caridad cristiana». Murió
 repitiendo: «*Misericordia, Domine!* ¡Buena y santa Providencia! ¡Virgen
 santa… ahora os toca a Vosotros!»
+
+## Relaciones doctrinales
+
+[[caridad]], [[providencia]], [[conversión]], [[cristo_en_los_pequeños]], [[dignidad_de_la_persona_enferma]], [[vida_contemplativa]], [[fe]]
+
+## Ver también
+
+[[san_camilo_de_lelis]], [[san_vicente_de_paúl]], [[san_juan_bosco]], [[caridad]], [[providencia]]
 
 ## Referencias
 

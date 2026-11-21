@@ -29,13 +29,11 @@ Su obra maestra *Castillo Interior* (o *Las Moradas*) describe las siete moradas
 ## Influencia en Royo Marín (TPCr)
 Aparece en el Índice Onomástico con más de 100 referencias. Es la autoridad experimental por excelencia. En la Introducción (n.28), Royo Marín la presenta como modelo de quien concibe la vida espiritual en toda su integridad, desde las primeras moradas hasta la unión transformativa en las séptimas moradas.
 
-
 ## Analizado para
 
 - [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]]
 
-## Ver también
-[[san_juan_de_la_cruz]], [[san_francisco_de_sales]], [[agustín_de_hipona]]
+## Perspectivas por fuente
 
 ### Según Sicari (AMS)
 
@@ -49,6 +47,9 @@ se levantó sin ayuda de nadie, diciendo: «¡Oh, Señor mío, y Esposo mío,
 ha llegado la hora que tanto he deseado!». Murió apretando el crucifijo
 con tanta fuerza que no consiguieron quitárselo. El arbolito seco ante
 su ventana floreció al alba al día siguiente.
+
+## Ver también
+[[san_juan_de_la_cruz]], [[san_francisco_de_sales]], [[agustín_de_hipona]]
 
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.18]

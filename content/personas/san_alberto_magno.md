@@ -34,10 +34,6 @@ El ensayo de Matthew Petrusek «The Virtue of Being a Generalist: Wisdom from St
 
 Su síntesis se fundamenta en el [[logos]]: la verdad constituye la misma estructura de la realidad, lo que la hace accesible a todos los seres humanos, «educados» o no. Desde una perspectiva católica no hay nada malo en volverse «experto», pero la búsqueda de ese conocimiento especializado es inútil si no sirve al propósito de amar a Dios y al prójimo. La secularidad, al carecer de una visión compartida de la realidad, fragmenta el conocimiento en «silos» que no tienen relación metafísica entre sí. La lección de Alberto es que fue tan bueno conociendo tantas cosas concretas porque fue muy bueno conociendo la cosa más general de todas: el único Dios verdadero.
 
-## Ver también
-
-[[santo_tomás_de_aquino]], [[fe_y_razón]], [[logos]], [[ciencia_y_fe]], [[providencia]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. VI: Benedicto XVI escribió de él: «entre
@@ -51,6 +47,10 @@ la profecía, «renovó su profesión de fe, pidió perdón por todas las
 eventuales inexactitudes que hubiese dicho o enseñado, y llorando
 humildemente bajó de la cátedra». Murió el 15 de noviembre de 1280 *in
 dulcedine societatis* —en la dulzura de la comunión fraterna—.
+
+## Ver también
+
+[[santo_tomás_de_aquino]], [[fe_y_razón]], [[logos]], [[ciencia_y_fe]], [[providencia]]
 
 ## Referencias
 

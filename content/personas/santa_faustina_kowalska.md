@@ -61,14 +61,6 @@ Edyta McNichol ofrece en «A Fount of Mercy for Us: St. Faustina and the Mystery
 - **Sentido redentor:** ofrecer el sufrimiento a Jesús es unirse a su cruz; el dolor desapega de los bienes terrenos y ejercita la confianza. La cruz no es la última palabra: quien participa de la Pasión participa de su Resurrección (cf. Rev 21,4).
 - **La oración y la Eucaristía:** la oración es «la armadura del alma» y cauce de toda gracia; se apoyó en la Misa diaria y la Adoración eucarística: «Todo don viene al alma a través de la oración».
 
-## Relaciones doctrinales
-
-Santa Faustina se relaciona con la [[misericordia_divina]], la [[misericordia]], la [[divina_misericordia]], la [[conversión]], la [[penitencia]], la [[dies_irae]] y el [[misterio_pascual]].
-
-## Ver también
-
-[[misericordia_divina]], [[misericordia]], [[dives_in_misericordia]], [[conversión]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. II, la cuenta entre las «humildes
@@ -86,6 +78,14 @@ amaba tan tiernamente como los esposos, o mejor, como los novios se
 quieren en este mundo**… Pensaba solo en Él»: «precisamente es esa la
 misión eclesial de las santas *enamoradas*: experimentar y desvelar el
 secreto divino escondido en cualquier otro amor».
+
+## Relaciones doctrinales
+
+Santa Faustina se relaciona con la [[misericordia_divina]], la [[misericordia]], la [[divina_misericordia]], la [[conversión]], la [[penitencia]], la [[dies_irae]] y el [[misterio_pascual]].
+
+## Ver también
+
+[[misericordia_divina]], [[misericordia]], [[dives_in_misericordia]], [[conversión]]
 
 ## Referencias
 

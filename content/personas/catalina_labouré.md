@@ -21,9 +21,7 @@ Nacida en Fain-lès-Moutiers (Borgoña), ingresó en las Hijas de la Caridad. En
 
 Las apariciones de la rue du Bac confirmaron, antes de la definición dogmática de 1854, la doctrina de la [[inmaculada_concepción]]: la Virgen se presentó como «concebida sin pecado». Scott Hahn (BMV, lección 10) sitúa la Medalla Milagrosa entre las apariciones marianas que confirman la mariología bíblica.
 
-## Ver también
-
-[[medalla_milagrosa]], [[apariciones_marianas]], [[inmaculada_concepción]], [[san_vicente_de_paúl]]
+## Perspectivas por fuente
 
 ### Según Sicari (AMS)
 
@@ -37,6 +35,10 @@ oficios más humildes, siempre con la sonrisa en los labios». Durante la
 guerra franco-prusiana preparaba más de 1.200 comidas al día. Ante el
 miedo a morir respondía con la sonrisa de quien sabe: «¿Por qué temer ir
 a ver a Nuestro Señor, a su Madre y a san Vicente?».
+
+## Ver también
+
+[[medalla_milagrosa]], [[apariciones_marianas]], [[inmaculada_concepción]], [[san_vicente_de_paúl]]
 
 ## Referencias
 

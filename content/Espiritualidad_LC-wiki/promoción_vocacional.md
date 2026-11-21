@@ -12,10 +12,6 @@ description: "La promoción vocacional es la acción eclesial por la cual la com
 > Área: Espiritualidad / Pastoral
 > Última actualización: 2026-06-13
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Decreto *Optatam Totius* establece que el deber de fomentar las vocaciones pertenece a toda la comunidad de los fieles [ConcVatII, OT §2]. Todos los sacerdotes han de mostrar gran celo apostólico por el fomento de las vocaciones, atrayendo a los jóvenes hacia el [[sacerdocio]] con su vida humilde, laboriosa, amable y con la mutua caridad sacerdotal [ConcVatII, OT §2]. Los Obispos tienen el deber de impulsar a su grey a fomentar las vocaciones y ayudar, como padres y sin escatimar sacrificio alguno, a los llamados [ConcVatII, OT §2]. La obra de las vocaciones debe organizarse metódicamente y promover con celo y discreción toda la acción pastoral para el fomento de las vocaciones [ConcVatII, OT §2].
-
 ## Definición
 
 La promoción vocacional es la acción eclesial por la cual la comunidad cristiana, cooperando con la gracia, suscita, acompaña y custodia las vocaciones —particularmente la sacerdotal y religiosa— como respuesta al designio personal de amor de Dios para cada persona. En la Legión de Cristo, esta promoción brota del ímpetu vivo de amor a Jesucristo, a la propia vocación, a la Iglesia y a las almas.
@@ -25,6 +21,10 @@ La promoción vocacional es la acción eclesial por la cual la comunidad cristia
 El V Capítulo General ordinario de la Legión de Cristo (2026) ha presentado una visión renovada de la promoción vocacional, recogida en el documento temático «Una renovada visión vocacional». Reconoce que la llamada de Jesús —«Venid en pos de mí y os haré pescadores de hombres» (Mt 4,19)— sigue resonando hoy, y que el Dueño de la mies sigue llamando aun en contextos cambiantes. Propone un cambio de paradigma en la pastoral vocacional, basado en principios sólidos, ambientes fecundos y la corresponsabilidad de todos los legionarios.
 
 ## Perspectivas por fuente
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Decreto *Optatam Totius* establece que el deber de fomentar las vocaciones pertenece a toda la comunidad de los fieles [ConcVatII, OT §2]. Todos los sacerdotes han de mostrar gran celo apostólico por el fomento de las vocaciones, atrayendo a los jóvenes hacia el [[sacerdocio]] con su vida humilde, laboriosa, amable y con la mutua caridad sacerdotal [ConcVatII, OT §2]. Los Obispos tienen el deber de impulsar a su grey a fomentar las vocaciones y ayudar, como padres y sin escatimar sacrificio alguno, a los llamados [ConcVatII, OT §2]. La obra de las vocaciones debe organizarse metódicamente y promover con celo y discreción toda la acción pastoral para el fomento de las vocaciones [ConcVatII, OT §2].
 
 ### Según el Capítulo General CapGral-2026
 

@@ -51,9 +51,6 @@ Deja las armas en Montserrat y pasa un año en la cueva de Manresa, con sequedad
 
 Los **Ejercicios** no se leen: se hacen, para decidir sobre la propia vocación en cuatro semanas. El «Principio y Fundamento» —«el hombre es creado para alabar, reverenciar y servir a Dios nuestro Señor y, por este medio, salvar su alma»— funda la **indiferencia**, que no es desinterés sino desapego: «no preferir salud a enfermedad, riquezas a pobreza, honra a deshonra, vida larga a corta». La primera semana lleva al conocimiento del pecado con el examen de conciencia —más amplio que el moral: reconocer la presencia y las resistencias a la gracia, en clima de gratitud— y con el **coloquio** «como un amigo habla con otro». La segunda aplica la composición de lugar y la aplicación de los sentidos, método profundamente encarnatorio, y presenta las **Dos Banderas** y las **tres gradas de la humildad**: no pecar mortalmente ni por ganar el mundo; la indiferencia total; y elegir activamente la pobreza y el desprecio con Cristo pobre. El *agere contra* completa el método.
 
-## Ver también
-[[santa_teresa_de_jesús]], [[san_francisco_de_sales]], [[conversión]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. VI: en su *Autobiografía* reveló que,
@@ -64,6 +61,9 @@ no tener tanta consolación». Murió en 1556 «con tanta sencillez y casi en
 soledad, como una persona común, sin esos gestos que se suelen esperar de
 un fundador. Pero cuando en Roma corrió la voz de su final, todos
 exclamaban: "¡Ha muerto un santo!"».
+
+## Ver también
+[[santa_teresa_de_jesús]], [[san_francisco_de_sales]], [[conversión]]
 
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.8, 19]

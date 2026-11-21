@@ -25,6 +25,10 @@ La fe de Abraham es presentada por la Tradición como modelo de la respuesta del
 
 Abraham es el primero de los patriarcas y modelo de fe para el pueblo de la Antigua Alianza [CEC §59, 145]. Su fe se expresa como docilidad a la palabra de Dios y confianza en sus promesas: «Partió sin saber a dónde iba» (Hb 11,8) [CEC §146]. Dios le promete una descendencia numerosa y una tierra, y Abraham responde con una fe que se manifiesta en obras [CEC §147]. Su oración es intercesión confiada por los justos de Sodoma [CEC §2571].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+Abraham es presentado en la tradición bíblica como el elegido de Dios, llamado sin mérito precedente, cuya vida entera se desarrolla bajo el signo de la libre iniciativa divina. Las tres corrientes de tradición del Génesis —yahvista (bendiciones y promesas), elohíta (fe a toda prueba), sacerdotal (alianza y circuncisión)— confluyen en mostrar a Abraham como el padre de todos los creyentes. Su fe, probada en el sacrificio de Isaac, revela que el designio de Dios no está ordenado a la muerte sino a la vida. Pablo, apoyándose en *Gen 15,6*, demuestra que la fe, no las obras de la ley, constituye el fundamento de la salvación. La verdadera posteridad de Abraham es Cristo, y todos los que creen en él —circuncisos o incircuncisos— son herederos según la promesa [VocTeoBib, «Abraham»].
+
 ### Según Royo Marín (TPCr)
 
 Abraham es modelo de la virtud teologal de la fe: «Creer es tener la certeza de lo que se espera, ser como el fundamento de las cosas que no se ven» (Hb 11,1). Su fe fue probada y purificada a lo largo de toda su vida, alcanzando su cima en la disposición a sacrificar a su hijo Isaac, que prefigura el sacrificio del Hijo de Dios [TPCr, Parte I, Cap. 1].
@@ -34,10 +38,6 @@ Abraham es modelo de la virtud teologal de la fe: «Creer es tener la certeza de
 - Abraham como figura histórica vs. como modelo de fe: su historicidad es presupuesta por toda la Tradición
 - La promesa a Abraham (descendencia, tierra, bendición universal) se cumple plenamente en Cristo
 - Los tres grandes monoteísmos (judaísmo, cristianismo, islam) reconocen a Abraham como padre en la fe
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-Abraham es presentado en la tradición bíblica como el elegido de Dios, llamado sin mérito precedente, cuya vida entera se desarrolla bajo el signo de la libre iniciativa divina. Las tres corrientes de tradición del Génesis —yahvista (bendiciones y promesas), elohíta (fe a toda prueba), sacerdotal (alianza y circuncisión)— confluyen en mostrar a Abraham como el padre de todos los creyentes. Su fe, probada en el sacrificio de Isaac, revela que el designio de Dios no está ordenado a la muerte sino a la vida. Pablo, apoyándose en *Gen 15,6*, demuestra que la fe, no las obras de la ley, constituye el fundamento de la salvación. La verdadera posteridad de Abraham es Cristo, y todos los que creen en él —circuncisos o incircuncisos— son herederos según la promesa [VocTeoBib, «Abraham»].
 
 ## Relaciones doctrinales
 

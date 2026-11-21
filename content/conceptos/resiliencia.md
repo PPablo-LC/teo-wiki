@@ -163,6 +163,8 @@ en la nueva vara con la que se mide a los niños: quien no resiste no es un frac
 pedagógico. Y en el plano jurídico y humanitario, no legitima reducir recursos
 apelando a la fortaleza de las comunidades afectadas.
 
+> Nota de método: esta sección pertenece al `## Juicio antropológico y moral` exigido por la skill `juicio-doctrinal`; no duplicar en `## Perspectivas por fuente`.
+
 ## Perspectivas por fuente
 
 ### Según la Guía de salud mental (SMACP)

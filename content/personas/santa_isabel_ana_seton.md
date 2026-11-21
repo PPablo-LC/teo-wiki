@@ -31,17 +31,7 @@ Alexandra DeSanctis («On the Chief Study of God: The Formative Mind of St. Eliz
 - **La oración del corazón.** A su comunidad les advirtió contra «repetir una multitud de oraciones sin atención... sin escuchar a Dios», contraponiendo la piedad mecánica a las «más breves adoraciones procedentes del corazón». En su enfermedad final confesó: «no sufro, querida... cuán dulce es descansar en los brazos de nuestro Señor».
 - **Renacimiento actual de la escuela católica.** En febrero de 2022 la NCEA reportó un aumento de casi el 4% de matrícula en las escuelas católicas K-12 (más de 62.000 estudiantes nuevos), revertiendo décadas de descenso, en gran parte por la determinación de las escuelas católicas de permanecer abiertas en persona durante la pandemia.
 
-## Relaciones doctrinales
-
-[[educación_católica]], [[cristo_maestro]], [[conversión]], [[caridad]], [[evangelización]]
-
-## Ver también
-
-- [[evangelization_and_culture_issue_10_freedom]]
-- [[evangelization_and_culture_issue_12_childhood]]
-- [[educación_católica]]
-- [[san_vicente_de_paúl]]
-- [[santa_luisa_de_marillac]]
+## Perspectivas por fuente
 
 ### Según Sicari (AMS)
 
@@ -56,6 +46,18 @@ Providencia». En el lecho de muerte, repetía: «¡Solo el querer de Dios! —
 «¡Sed hijas de la Iglesia, sed verdaderas hijas de la Iglesia!». «Cuando
 murió había experimentado todas las vocaciones femeninas posibles (esposa,
 madre, viuda, mujer consagrada, educadora)».
+
+## Relaciones doctrinales
+
+[[educación_católica]], [[cristo_maestro]], [[conversión]], [[caridad]], [[evangelización]]
+
+## Ver también
+
+- [[evangelization_and_culture_issue_10_freedom]]
+- [[evangelization_and_culture_issue_12_childhood]]
+- [[educación_católica]]
+- [[san_vicente_de_paúl]]
+- [[santa_luisa_de_marillac]]
 
 ## Referencias
 

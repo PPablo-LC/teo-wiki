@@ -72,14 +72,6 @@ así hace verdadero su rapporto. También en las Hermanas de Madre Teresa de Cal
 esos pobres entre los más pobres provocan el horror y la repugnancia que provocan
 en nosotros» (00, 57).
 
-## Relaciones doctrinales
-
-- [[vocación_a_la_santidad]]: Madre Teresa es ejemplo paradigmático de la llamada universal a la santidad
-- [[caridad]]: Su vida entera fue un testimonio de la caridad como "reina de las virtudes"
-- [[comunión_de_los_santos]]: Su intercesión y ejemplo forman parte de la comunión de los vivos y los muertos en Cristo
-- [[testimonio]]: La santidad como "propaganda" más eficaz que los argumentos racionales
-- [[misiones]]: Fundación de las Misioneras de la Caridad como respuesta al llamado de los pobres
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. IV, la recuerda entre las santas de
@@ -101,6 +93,14 @@ tinieblas interiores, para hacerle compartir los sufrimientos de Cristo
 en el Calvario e incluso los de los no creyentes. Los aceptó: «He
 comenzado a amar mis tinieblas porque creo que son parte, una pequeña
 parte, de las tinieblas de Jesús y de su pena en la tierra».
+
+## Relaciones doctrinales
+
+- [[vocación_a_la_santidad]]: Madre Teresa es ejemplo paradigmático de la llamada universal a la santidad
+- [[caridad]]: Su vida entera fue un testimonio de la caridad como "reina de las virtudes"
+- [[comunión_de_los_santos]]: Su intercesión y ejemplo forman parte de la comunión de los vivos y los muertos en Cristo
+- [[testimonio]]: La santidad como "propaganda" más eficaz que los argumentos racionales
+- [[misiones]]: Fundación de las Misioneras de la Caridad como respuesta al llamado de los pobres
 
 ## Ver también
 

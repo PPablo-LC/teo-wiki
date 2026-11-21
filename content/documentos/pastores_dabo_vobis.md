@@ -19,10 +19,6 @@ description: "León XIV, en su Carta Apostólica *Una fidelidad que genera futur
 - **Fecha**: 25 de marzo de 1992
 - **Tipo**: Exhortación Apostólica postsinodal (VII Asamblea General Ordinaria del Sínodo de los Obispos, 1990)
 
-### Según León XIV (UFGF)
-
-León XIV, en su Carta Apostólica *Una fidelidad que genera futuro* (2025), retoma el paradigma de PDV sobre la caridad pastoral como principio unificador de la vida presbiteral (UFGF §24, citando PDV 23). Recupera la enseñanza de PDV 61 sobre las formas de vida común (UFGF §17). La formación permanente, desarrollada ampliamente en PDV 70-81, es presentada como «memoria viva y actualización constante de la propia vocación en un camino compartido» (UFGF §8), citando la *Ratio Fundamentalis* y la enseñanza de Benedicto XVI [UFGF, 22.12.2025].
-
 ## Contenido doctrinal principal
 
 Exhortación postsinodal dedicada a la formación de los sacerdotes. Consta de Introducción (nn. 1-4), seis Capítulos y Conclusión (n. 82).
@@ -61,6 +57,12 @@ La comunidad formativa del seminario (nn. 66-69): rectores, formadores, espiritu
 | Capítulo V | 42-69 | Formación de los candidatos (cuatro dimensiones) |
 | Capítulo VI | 70-81 | Formación permanente |
 | Conclusión | 82 | Encomienda a la Virgen |
+
+## Perspectivas por fuente
+
+### Según León XIV (UFGF)
+
+León XIV, en su Carta Apostólica *Una fidelidad que genera futuro* (2025), retoma el paradigma de PDV sobre la caridad pastoral como principio unificador de la vida presbiteral (UFGF §24, citando PDV 23). Recupera la enseñanza de PDV 61 sobre las formas de vida común (UFGF §17). La formación permanente, desarrollada ampliamente en PDV 70-81, es presentada como «memoria viva y actualización constante de la propia vocación en un camino compartido» (UFGF §8), citando la *Ratio Fundamentalis* y la enseñanza de Benedicto XVI [UFGF, 22.12.2025].
 
 ## Ver también
 

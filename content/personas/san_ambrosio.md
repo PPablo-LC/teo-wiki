@@ -35,9 +35,7 @@ La predicación de Ambrosio en Milán fue determinante para la conversión intel
 
 Se le atribuye la organización del canto ambrosiano y la composición de numerosos himnos litúrgicos que han perdurado en la liturgia latina.
 
-## Ver también
-
-[[padres_de_la_iglesia]], [[agustín_de_hipona]], [[arrianismo]], [[patrística]], [[concilio_de_constantinopla_i]], [[espíritu_santo]], [[hispana]]
+## Perspectivas por fuente
 
 ### Según Sicari (AMS)
 
@@ -50,6 +48,10 @@ Tesalónica. Su agonía comenzó el Viernes Santo del 397: «cuando se dejó
 ir para volar al Señor, desde las cinco de la tarde hasta el momento que
 entregó el alma, rezó con los brazos abiertos en cruz». Algunos jóvenes
 dijeron ver brillar una estrella en su frente.
+
+## Ver también
+
+[[padres_de_la_iglesia]], [[agustín_de_hipona]], [[arrianismo]], [[patrística]], [[concilio_de_constantinopla_i]], [[espíritu_santo]], [[hispana]]
 
 ## Referencias
 

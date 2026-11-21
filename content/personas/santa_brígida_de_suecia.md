@@ -19,9 +19,7 @@ Brígida de Suecia (1303–1373), mística, fundadora de la Orden del Santísimo
 
 Juan Pablo II la presentó como modelo de mujer educadora para la paz. Desde los confines septentrionales de Europa, sintió una misión de paz que la trajo a Roma y la hizo mensajera de Cristo ante las autoridades eclesiales y civiles. Supo transmitir a sus hijos el amor a la concordia y la paz, y su hija Catalina también es venerada como santa. Su experiencia mística la hizo «eco privilegiado de la voz de Dios para la Iglesia y para la sociedad» [Muj 21].
 
-## Relaciones doctrinales
-
-[[mujer]], [[feminidad]], [[paz]], [[educación_para_la_paz]]
+## Perspectivas por fuente
 
 ### Según Sicari (AMS)
 
@@ -36,6 +34,10 @@ hecho contigo lo que hace el Esposo cuando se esconde a la Esposa para
 hacerse desear más ardientemente"». En este deseo de encontrarlo,
 finalmente satisfecho, murió. Con Catalina de Siena fue proclamada
 Patrona de Europa.
+
+## Relaciones doctrinales
+
+[[mujer]], [[feminidad]], [[paz]], [[educación_para_la_paz]]
 
 ## Referencias
 

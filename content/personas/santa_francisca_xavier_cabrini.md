@@ -19,9 +19,7 @@ Francisca Xavier Cabrini (1850–1917), virgen, fundadora de las Misioneras del 
 
 Juan Pablo II la presentó como modelo de mujer educadora para la paz. Su obra es considerada «un milagro de caridad» y «una verdadera pedagogía de paz» [Muj 23 §2]. La Madre Cabrini, con delicada intuición, ayudó a los emigrantes a integrarse plenamente en la nueva realidad social sin perder los valores auténticos de su propia cultura. El Papa destaca su actualidad ante las crecientes corrientes migratorias: «la construcción de este futuro exige hombres y mujeres de paz. En particular, necesita corazones maternos como el de la Madre Cabrini» [Muj 23 §2].
 
-## Relaciones doctrinales
-
-[[mujer]], [[emigración]], [[paz]], [[caridad]], [[providencia_divina]]
+## Perspectivas por fuente
 
 ### Según Sicari (AMS)
 
@@ -36,6 +34,10 @@ entero!». A sus misioneras: «Jesús es para nosotras una bendita
 necesidad». En un diario de juventud había escrito: «Deseo morir de amor
 después de una vida de total entrega… Si tuviese los medios, construiría
 una nave y la llamaría *Cristoforo*, el que porta a Cristo».
+
+## Relaciones doctrinales
+
+[[mujer]], [[emigración]], [[paz]], [[caridad]], [[providencia_divina]]
 
 ## Referencias
 

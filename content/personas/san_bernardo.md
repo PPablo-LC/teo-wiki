@@ -29,6 +29,8 @@ Su teología mística se centra en la unión del alma con Dios como Esposo, expr
 ## Influencia en Royo Marín (TPCr)
 Aparece citado en el Índice Onomástico. Su doctrina sobre la contemplación y el amor de Dios es empleada en las secciones sobre la caridad y la oración.
 
+## Perspectivas por fuente
+
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
 Mons. Erik Varden dedica los ejercicios espirituales de Cuaresma de 2026 a la Curia Romana a la figura de San Bernardo y a su comentario al Salmo 90 (*Qui habitat*), predicado en Cuaresma de 1139. Varden presenta a Bernardo como un hombre de «naturaleza apasionada y llena de tensiones», cuyo idealismo inicial maduró con el tiempo en un realismo hondo: la realidad más profunda de todo asunto humano es un grito que implora [[misericordia]].
@@ -47,9 +49,6 @@ De Bernardo se destacan los siguientes aspectos:
 
 6. **Realismo de la gracia**: Bernardo consideraba a Jesús como principio hermenéutico: leía las situaciones, las personas y las relaciones a la luz de Jesús. Solo cuando sea iluminada sobrenaturalmente revelará nuestra naturaleza su forma perfecta (*forma formosa*).
 
-## Ver también
-[[agustín_de_hipona]], [[santo_tomás_de_aquino]], [[pseudo-dionisio_areopagita]], [[erik_varden]], [[ejercicios_espirituales_2026]], [[gloria_oculta]], [[consideración]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. VI: «el último de los grandes padres de la
@@ -60,6 +59,9 @@ auge de la devoción popular a la santa Humanidad de Cristo» y es
 considerado «el padre del sentimiento europeo». En las vidrieras de
 Issoudun: en el corazón de Bernardo está escrito *Jesús*, y en el corazón
 de Jesús, *Bernardo*.
+
+## Ver también
+[[agustín_de_hipona]], [[santo_tomás_de_aquino]], [[pseudo-dionisio_areopagita]], [[erik_varden]], [[ejercicios_espirituales_2026]], [[gloria_oculta]], [[consideración]]
 
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.8]

@@ -137,6 +137,14 @@ Su definición más citada es la de Chesterton: santo «solo significa un hombre
 
 La santidad tiene también una pedagogía estética. Como el béisbol o la pintura, el cristianismo es un mundo al que se entra porque se percibe como bello: «de lo bello (“¡es espléndido!”) a lo bueno (“¡debo jugarlo!”) a lo verdadero (“¡es recto!”)». Una vez que la belleza de la fe ha prendido, el devoto se somete a sus ritmos, instituciones, historia y drama, y «habiendo practicado, habiendo trabajado eso en su alma y en su carne, lo conocerá». Balthasar, citado por Barron, lo dice sin rodeos: los únicos teólogos verdaderos son los santos, los que han practicado la vida de Jesús.
 
+### Según Centered (CEN)
+
+Kierkegaard decía que el santo es alguien cuya vida gira en torno a una sola cosa; el cristiano, precisa Barron, es quien en el nivel más fundamental de su ser está centrado en el único Dios de Jesucristo. Los rosetones góticos lo expresan en vidrio: en el centro está siempre Cristo —también cuando parece ser María, que lleva al Niño— y en torno a él giran los medallones con los santos; cuando la vida se centra en Cristo, todas las energías del alma caen en un patrón bello y satisfactorio.
+
+Lo contrario es la concupiscencia agustiniana: hemos sido hechos para Dios y nada finito nos sacia, de modo que al enganchar el deseo infinito a algo menor que Dios entramos en una espiral autodestructiva que hoy llamaríamos adicción. De ahí el ayuno: callar los deseos inmediatos para que despierte el deseo del centro. La imagen más poderosa es la tempestad calmada: el Cristo dormido en la barca representa ese lugar del alma donde estamos enraizados en el poder divino, en paz aunque todo lo demás se agite.
+
+El otro movimiento es saberse pecador: la proximidad a la luz revela las manchas, como el parabrisas al sol del mediodía; conocerlo no humilla, libera, y el engaño más peligroso es «estoy bien, tú estás bien». El tercer paso es descubrir que la vida no es sobre uno: frente al «ego-drama», el «teo-drama» de Balthasar, en el que cada uno tiene un papel —a veces mínimo y decisivo— que solo Dios ha escrito. El infierno, entonces, no es un castigo externo sino la elección libre de vivir fuera del amor; como decía Lewis, es el mismo amor de Dios el que enciende su fuego cuando se lo resiste. Las virtudes completan el cuadro: la libertad como disciplina del deseo, la «física espiritual» que hace que cada acto configure el carácter, y la caridad como participación en la vida misma de Dios, que es amor.
+
 ## Distinciones importantes
 
 - **Santidad ontológica**: la gracia santificante en el alma (santidad de estado).
@@ -147,14 +155,6 @@ La santidad tiene también una pedagogía estética. Como el béisbol o la pintu
 ## Relaciones doctrinales
 
 La santidad se funda en la [[gracia_santificante]], se expresa en las [[virtudes_infusas]] (especialmente la [[caridad]]), se perfecciona con los [[dones_del_espíritu_santo]] y se nutre de los [[sacramentos]]. Se relaciona con la [[perfección_cristiana]], la [[vida_de_oración]] y la [[comunión_de_los_santos]].
-
-### Según Centered (CEN)
-
-Kierkegaard decía que el santo es alguien cuya vida gira en torno a una sola cosa; el cristiano, precisa Barron, es quien en el nivel más fundamental de su ser está centrado en el único Dios de Jesucristo. Los rosetones góticos lo expresan en vidrio: en el centro está siempre Cristo —también cuando parece ser María, que lleva al Niño— y en torno a él giran los medallones con los santos; cuando la vida se centra en Cristo, todas las energías del alma caen en un patrón bello y satisfactorio.
-
-Lo contrario es la concupiscencia agustiniana: hemos sido hechos para Dios y nada finito nos sacia, de modo que al enganchar el deseo infinito a algo menor que Dios entramos en una espiral autodestructiva que hoy llamaríamos adicción. De ahí el ayuno: callar los deseos inmediatos para que despierte el deseo del centro. La imagen más poderosa es la tempestad calmada: el Cristo dormido en la barca representa ese lugar del alma donde estamos enraizados en el poder divino, en paz aunque todo lo demás se agite.
-
-El otro movimiento es saberse pecador: la proximidad a la luz revela las manchas, como el parabrisas al sol del mediodía; conocerlo no humilla, libera, y el engaño más peligroso es «estoy bien, tú estás bien». El tercer paso es descubrir que la vida no es sobre uno: frente al «ego-drama», el «teo-drama» de Balthasar, en el que cada uno tiene un papel —a veces mínimo y decisivo— que solo Dios ha escrito. El infierno, entonces, no es un castigo externo sino la elección libre de vivir fuera del amor; como decía Lewis, es el mismo amor de Dios el que enciende su fuego cuando se lo resiste. Las virtudes completan el cuadro: la libertad como disciplina del deseo, la «física espiritual» que hace que cada acto configure el carácter, y la caridad como participación en la vida misma de Dios, que es amor.
 
 ## Analizado para
 

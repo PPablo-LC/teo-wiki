@@ -31,9 +31,7 @@ Hijo de campesinos lombardos, fue ordenado sacerdote en 1904; secretario de Mons
 
 Su experiencia diplomática en Bulgaria, Turquía, Grecia y Francia lo formó como pastor de fronteras: conoció de cerca las Iglesias orientales, la división cristiana y las catástrofes de las guerras mundiales. Elegido como «papa de transición», la providencia hizo de su pontificado el umbral de la edad nueva de la Iglesia. Fue beatificado en 2000 y canonizado en 2014. Su fiesta es el 11 de octubre (aniversario de la apertura del Concilio).
 
-## Ver también
-
-[[concilio_vaticano_ii]], [[papa]], [[san_pablo_vi]], [[pacem_in_terris]], [[mater_et_magistra]], [[ecumenismo]], [[aggiornamento]], [[juan_pablo_ii]], [[papa_francisco]]
+## Perspectivas por fuente
 
 ### Según Sicari (AMS)
 
@@ -48,6 +46,10 @@ Pedro se celebraba una misa por el Pontífice moribundo, que expiró
 «mientras el celebrante pronuncia las palabras conclusivas: *Ite Missa
 est*, como para confirmar que, como sacerdote de Dios, ha cumplido su
 largo ministerio».
+
+## Ver también
+
+[[concilio_vaticano_ii]], [[papa]], [[san_pablo_vi]], [[pacem_in_terris]], [[mater_et_magistra]], [[ecumenismo]], [[aggiornamento]], [[juan_pablo_ii]], [[papa_francisco]]
 
 ## Referencias
 

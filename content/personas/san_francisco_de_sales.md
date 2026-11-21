@@ -27,13 +27,11 @@ Es el doctor de la devoción universal, que demostró que la santidad es posible
 ## Influencia en Royo Marín (TPCr)
 Aparece en el Índice Onomástico con numerosas referencias. En la Introducción (n.32-33) lo menciona entre los grandes místicos experimentales cuyas descripciones confirman los principios teológicos.
 
-
 ## Analizado para
 
 - [[john_wissler_leading_with_charity]]
 
-## Ver también
-[[santa_teresa_de_jesús]], [[san_juan_de_la_cruz]], [[san_ignacio_de_loyola]]
+## Perspectivas por fuente
 
 ### Según Sicari (AMS)
 
@@ -46,6 +44,9 @@ reconquistarla con la caridad**"». Inventó el sistema de los carteles
 *Introducción a la vida devota* y el *Tratado del amor de Dios*, «para
 difundir e ilustrar la doctrina sobre la santidad posible a todo
  Cristiano y en cualquier estado de vida».
+
+## Ver también
+[[santa_teresa_de_jesús]], [[san_juan_de_la_cruz]], [[san_ignacio_de_loyola]]
 
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.20]

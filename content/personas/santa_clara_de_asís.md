@@ -27,10 +27,6 @@ Santa Clara es modelo de fortaleza femenina alimentada por la fe eucarística. S
 
 Santa Clara de Asís es presentada por Ali Ghaffari como ejemplo de preparación espiritual para cultivar el coraje: adoración, confesión y eucaristía como fuentes de la fortaleza radical. Su figura ilustra que la preparación espiritual es la dimensión más profunda del coraje, pues el valiente actúa no desde la confianza en sí mismo sino desde la confianza en Dios.
 
-## Ver también
-
-[[san_francisco_de_asís]], [[pobreza_evangélica]], [[eucaristía]], [[fortaleza]], [[vida_contemplativa]], [[clausura]], [[clarisas]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. III: «Es hermoso contemplarla muriendo en
@@ -43,6 +39,10 @@ Señor»). Inocencio IV vino en persona; Clara besó la bula «como había
 deseado. Y al día siguiente murió». En los últimos instantes murmuraba:
 «Vete segura, porque tienes una buena escolta… Le hablo a mi bendita
 alma».
+
+## Ver también
+
+[[san_francisco_de_asís]], [[pobreza_evangélica]], [[eucaristía]], [[fortaleza]], [[vida_contemplativa]], [[clausura]], [[clarisas]]
 
 ## Referencias
 

@@ -39,10 +39,6 @@ El número dedicado al coraje presenta a Edith Stein como el ejemplo paradigmát
 - **La ansiedad y la plenitud del ser**: contra el *ser-para-la-muerte*, el ser sostenido como un niño en los brazos de la madre: «En el conocimiento de que el ser me sostiene, descanso segura».
 - **Pastorear a los pequeños en Westerbork**: cuidar a los niños de las madres aterrorizadas; luego, hacia Auschwitz *«In via ad orientem»*, en el Misterio Pascual.
 
-## Relaciones doctrinales
-
-[[mujer]], [[paz]], [[judaísmo]], [[martirio]], [[cruz]], [[feminidad]], [[razón_y_fe]], [[conversión]], [[adoración_eucarística]], [[coraje]], [[fortaleza]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. III, la cuenta —pese a ser mártir— entre
@@ -56,6 +52,10 @@ lavó, los peinó, procuró su alimentación». En una carta anterior: «Estoy
 segura… de que el Señor ha aceptado mi vida por todos. Pienso en la reina
 Esther… Yo soy una pequeña Esther, pobre e impotente, pero el Rey que me
 ha elegido es infinitamente grande y misericordioso».
+
+## Relaciones doctrinales
+
+[[mujer]], [[paz]], [[judaísmo]], [[martirio]], [[cruz]], [[feminidad]], [[razón_y_fe]], [[conversión]], [[adoración_eucarística]], [[coraje]], [[fortaleza]]
 
 ## Referencias
 

@@ -67,6 +67,18 @@ La reflexión subraya también la relevancia contemporánea del testimonio de Mo
 
 **El martirio y las últimas palabras.** Durante su encarcelamiento en la Torre de Londres, su juicio y ejecución, Moro exudó la bienaventuranza de la mansedumbre. Ante el cadalso, bromeó con su verdugo pidiéndole que lo ayudara a subir, pero que para bajar lo haría solo. Sus últimas palabras ante la multitud fueron: «Muero el buen siervo del rey, pero primero de Dios» (*I die the king's good servant and God's first*).
 
+### Según Sicari (AMS)
+
+[[asi_mueren_los_santos]], cap. I: Moro «siempre respondía que "la mayor
+parte de los santos había pensado en vida como él pensaba", y que "el
+concilio de un solo reino no tenía autoridad contra el concilio general
+de la Cristiandad"». En el patíbulo, evocando a san Esteban, deseó a sus
+jueces encontrarse «con gozo en el cielo por nuestra salvación eterna»:
+«el ideal humanístico del *verdadero hombre* alcanzó una cumbre altísima:
+la de reconocer la plena dignidad humana incluso a los perseguidores,
+hasta el punto de desearles, con verdadera esperanza, la misma santidad,
+citándoles en el paraíso».
+
 ## Relaciones doctrinales
 
 La vida y el martirio de Tomás Moro conectan con múltiples temas teológicos y éticos:
@@ -82,18 +94,6 @@ La vida y el martirio de Tomás Moro conectan con múltiples temas teológicos y
 ## Ver también
 
 [[martirio]], [[conciencia_moral]], [[libertad_religiosa]], [[theo-drama]], [[cine]], [[ley_natural]], [[acta_de_supremacía]], [[enrique_viii]], [[utopía]]
-
-### Según Sicari (AMS)
-
-[[asi_mueren_los_santos]], cap. I: Moro «siempre respondía que "la mayor
-parte de los santos había pensado en vida como él pensaba", y que "el
-concilio de un solo reino no tenía autoridad contra el concilio general
-de la Cristiandad"». En el patíbulo, evocando a san Esteban, deseó a sus
-jueces encontrarse «con gozo en el cielo por nuestra salvación eterna»:
-«el ideal humanístico del *verdadero hombre* alcanzó una cumbre altísima:
-la de reconocer la plena dignidad humana incluso a los perseguidores,
-hasta el punto de desearles, con verdadera esperanza, la misma santidad,
-citándoles en el paraíso».
 
 ## Referencias
 

@@ -36,14 +36,6 @@ Jared Zimmerer presenta a Don Bosco como el «santo de la alegría» cristiana, 
 - **La alegría del pastor pedagogo:** «Don Bosco encarnaba al educador preocupado ante todo por la salvación eterna de sus alumnos», uniendo la alegría del encuentro con la seriedad de la misión evangelizadora.
 - **El sueño de la nave de la Iglesia:** ante las graves pruebas de la Iglesia interpretó su famoso sueño: «Solo dos cosas pueden salvarnos en una hora tan grave: la devoción a María y la comunión frecuente» — síntesis de su piedad mariana y eucarística como fuente de gozo y de esperanza.
 
-## Relaciones doctrinales
-
-El sistema preventivo de Don Bosco se opone al sistema represivo. Se fundamenta en la confianza en la libertad humana y el poder de la gracia. La devoción a María Auxiliadora es un elemento central de su espiritualidad.
-
-## Ver también
-
-[[salesianos]], [[educación_católica]], [[sistema_preventivo]], [[María_Auxiliadora]], [[oratorio_festivo]], [[alegría]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. VI: estaba convencido del «**método
@@ -55,6 +47,14 @@ suspiro sería para vosotros, jóvenes. Por vosotros estudio, por vosotros
 trabajo, por vosotros estoy también dispuesto a dar la vida». En la
 agonía revivía sus preocupaciones por los muchachos; a un colaborador le
 recomendó: «Di a los jóvenes que los espero a todos en el Paraíso».
+
+## Relaciones doctrinales
+
+El sistema preventivo de Don Bosco se opone al sistema represivo. Se fundamenta en la confianza en la libertad humana y el poder de la gracia. La devoción a María Auxiliadora es un elemento central de su espiritualidad.
+
+## Ver también
+
+[[salesianos]], [[educación_católica]], [[sistema_preventivo]], [[María_Auxiliadora]], [[oratorio_festivo]], [[alegría]]
 
 ## Referencias
 

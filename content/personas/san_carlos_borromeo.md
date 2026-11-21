@@ -27,14 +27,6 @@ Fue sobrino del Papa Pío IV, quien lo nombró cardenal diácono a los 22 años 
 
 San Carlos Borromeo fue el gran ejecutor del Concilio de Trento en la práctica. Su programa de reforma incluía: fundación de seminarios para la formación del clero, catequesis dominical obligatoria, visitas pastorales a todas las parroquias de su diócesis, sínodos diocesanos y provinciales. Su ejemplo de pobreza, caridad y celo pastoral contrastó con el lujo de la corte romana de la época. Atendió heroicamente a los apestados de Milán en la epidemia de 1576. El concilio de Trento, sin los obispos reformados como Borromeo, habría quedado como letra muerta. (HI, Archivo 32)
 
-## Relaciones doctrinales
-
-Su obra se inscribe en la reforma católica posterior al Concilio de Trento. La fundación de seminarios responde a la necesidad de un clero culto y virtuoso. La catequesis sistemática es una respuesta a la ignorancia religiosa que facilitó la Reforma protestante.
-
-## Ver también
-
-[[concilio_de_trento]], [[reforma_católica]], [[seminario]], [[catequesis]], [[reforma_protestante]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. VI: en la carestía de 1570 y la peste de
@@ -45,6 +37,14 @@ penitencia; a quien le reprendía respondía: «**La candela para dar luz a
 los demás debe consumirse… Eso debemos hacer nosotros**». Murió a los
 46 años contemplando las escenas de la Pasión que había hecho traer junto
 a su lecho: «Mira, Señor, estoy llegando…».
+
+## Relaciones doctrinales
+
+Su obra se inscribe en la reforma católica posterior al Concilio de Trento. La fundación de seminarios responde a la necesidad de un clero culto y virtuoso. La catequesis sistemática es una respuesta a la ignorancia religiosa que facilitó la Reforma protestante.
+
+## Ver también
+
+[[concilio_de_trento]], [[reforma_católica]], [[seminario]], [[catequesis]], [[reforma_protestante]]
 
 ## Referencias
 

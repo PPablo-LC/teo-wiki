@@ -25,12 +25,6 @@ Su fundación de los Dominicos marcó el inicio de una tradición de predicació
 ### Evangelization & Culture, Issue 23 — Prayer (EAC-23)
 Fr. Paul Murray OP destaca la tradición contemplativa dominicana en su artículo principal. Menciona las **Nueve Maneras de Orar de Santo Domingo** (MS. de Ste. Sabine), que reflejan su enfoque en la oración interior y la contemplación. La frase clave de la tradición dominicana es "primero ver, luego escribir, luego enviar", que encapsula el proceso de contemplación y predicación. La idea central es **contemplata aliis tradere** (transmitir a otros lo contemplado), que fundamenta la misión dominicana de predicación basada en la contemplación.
 
-## Ver también
-[[paul_murray]]
-[[oración_contemplativa]]
-[[rosario]]
-[[orden_de_los_predicadores]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. VI: combatió el catarismo en el sur de
@@ -44,6 +38,12 @@ candor de su alma: no había conseguido evitar la imperfección de
 «encontrar más atractiva la conversación con las mujeres jóvenes»; para
 sus frailes jóvenes «hubiera deseado incluso esa última pureza que él no
 había conseguido alcanzar».
+
+## Ver también
+[[paul_murray]]
+[[oración_contemplativa]]
+[[rosario]]
+[[orden_de_los_predicadores]]
 
 ## Referencias
 - EAC-23 raw files (07_dominican_tradition.md)

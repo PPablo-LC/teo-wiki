@@ -30,10 +30,6 @@ En su ensayo «From Uneducable to Included» [EAC-17, 16_feature_bradford.md], M
 
 Bradford, padre de un hijo con síndrome de Down, conecta el legado de Lejeune con la postura pro-vida de la Iglesia y con la educación católica: «¿Qué mejor manera de seguir afirmando la dignidad de los individuos con discapacidad intelectual y del desarrollo, y de afirmar también la postura pro-vida de la Iglesia, que acogerlos en una escuela católica para ser formados en la fe y la razón con sus compañeros?»
 
-## Ver también
-
-[[dignidad_humana]], [[educación_católica]], [[cultura_de_la_vida]], [[aborto]]
-
 ### Según Sicari (AMS)
 
 [[asi_mueren_los_santos]], cap. VIII: de los niños con trisomía 21,
@@ -46,6 +42,10 @@ consideraba "la negación de la medicina, y de toda fraternidad
 biológica"». Primer presidente de la Pontificia Academia para la Vida:
 «El papa ha hecho un acto de esperanza nombrando a un moribundo: moriré
 en acto de servicio». Su resumen del Evangelio: Mt 25,40.
+
+## Ver también
+
+[[dignidad_humana]], [[educación_católica]], [[cultura_de_la_vida]], [[aborto]]
 
 ## Referencias
 

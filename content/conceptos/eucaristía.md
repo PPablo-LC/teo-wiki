@@ -516,6 +516,14 @@ La Eucaristía aparece en el corazón de la Semana Santa. Al hacer de su Última
 
 La fuente de 2024 ordena tres meditaciones a la Eucaristía. La purificación del templo (Jn 2,13-25) identifica a Cristo con el lugar donde habita Dios y donde se obtienen el perdón, la enseñanza y la curación: el templo de su cuerpo sustituye al de piedra. La multiplicación de los panes (Jn 6,1-15) muestra el gesto que anticipa el sacramento: ante la multitud hambrienta, Jesús ordena «dadles vosotros de comer», toma lo que hay, lo bendice, lo parte y lo reparte hasta que sobra. La Última Cena pascual, finalmente, hace presente el sacrificio del Cordero en cada Misa, «no por necesidad de Dios, sino por nosotros». La meditación de la religión transfigurada en sacramentos —la Pascua en la Eucaristía, el agua en el Bautismo, el aceite en la unción— da a estas reflexiones su marco: la economía sacramental no es un añadido piadoso, sino la forma concreta en que la religión de Israel se cumple en Cristo.
 
+### Según Centered (CEN)
+
+Tomás da tres nombres al sacramento, uno por cada dimensión del tiempo: *sacrificium*, porque actualiza la inmolación de Cristo en la cruz; *communio*, porque realiza la reunión del Cuerpo de Cristo aquí y ahora; y *Eucharistia*, porque anticipa la acción de gracias del banquete escatológico.
+
+La Misa es *anamnesis*, pero no en sentido meramente psicológico: como Jesús es divino, todos sus actos —y sobre todo el acto sacrificial por el que salvó al mundo— participan de la eternidad de Dios y pueden hacerse presentes en cualquier momento. La batalla de Hastings no puede re-presentarse; el sacrificio de Cristo sí: quienes rodean el altar no recuerdan el Calvario, sino que el Calvario se les hace presente. Y en un mundo torcido «no hay comunión sin sacrificio»: la ira divina es símbolo de su justicia, de su pasión por poner las cosas en su sitio, y por eso Dios no cesa de obrar sacrificialmente.
+
+El discurso de Cafarnaún prueba el realismo: si fuera solo simbólico, ¿por qué resultó tan duro y por qué se marcharon muchos (Jn 6,60)? En la transustanciación cambian las substancias y permanecen los accidentes, porque el poder divino alcanza las raíces mismas de la realidad, como en la creación. Flannery O'Connor lo dijo mejor que un tratado: «Si es un símbolo, al diablo con él». Los Padres concluyeron que la Eucaristía cristifica y eterniza; los sacramentos, dice Tomás, no solo significan la gracia, sino que «causan lo que significan» (Supl. 35,1), y todos tienen una finalidad deificante.
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
@@ -530,14 +538,6 @@ La fuente de 2024 ordena tres meditaciones a la Eucaristía. La purificación de
 - Unión transformante con Cristo
 - Sacrificio propiciatorio por vivos y difuntos
 - Prenda de la gloria escatológica
-
-### Según Centered (CEN)
-
-Tomás da tres nombres al sacramento, uno por cada dimensión del tiempo: *sacrificium*, porque actualiza la inmolación de Cristo en la cruz; *communio*, porque realiza la reunión del Cuerpo de Cristo aquí y ahora; y *Eucharistia*, porque anticipa la acción de gracias del banquete escatológico.
-
-La Misa es *anamnesis*, pero no en sentido meramente psicológico: como Jesús es divino, todos sus actos —y sobre todo el acto sacrificial por el que salvó al mundo— participan de la eternidad de Dios y pueden hacerse presentes en cualquier momento. La batalla de Hastings no puede re-presentarse; el sacrificio de Cristo sí: quienes rodean el altar no recuerdan el Calvario, sino que el Calvario se les hace presente. Y en un mundo torcido «no hay comunión sin sacrificio»: la ira divina es símbolo de su justicia, de su pasión por poner las cosas en su sitio, y por eso Dios no cesa de obrar sacrificialmente.
-
-El discurso de Cafarnaún prueba el realismo: si fuera solo simbólico, ¿por qué resultó tan duro y por qué se marcharon muchos (Jn 6,60)? En la transustanciación cambian las substancias y permanecen los accidentes, porque el poder divino alcanza las raíces mismas de la realidad, como en la creación. Flannery O'Connor lo dijo mejor que un tratado: «Si es un símbolo, al diablo con él». Los Padres concluyeron que la Eucaristía cristifica y eterniza; los sacramentos, dice Tomás, no solo significan la gracia, sino que «causan lo que significan» (Supl. 35,1), y todos tienen una finalidad deificante.
 
 ## Analizado para
 

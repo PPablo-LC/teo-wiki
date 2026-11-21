@@ -21,15 +21,7 @@ San Vicente unió evangelización y caridad: para él la misión consistía en a
 
 En el contexto de *Evangelization & Culture* 12 (Childhood), la figura vicentina ilumina la educación católica como obra de caridad: la escuela surgida de la espiritualidad de Vicente y Luisa forma a los niños en la fe y al mismo tiempo socorre su necesidad material. Su modelo es un ejemplo de evangelización que no separa el anuncio del servicio al prójimo.
 
-## Relaciones doctrinales
-
-[[caridad]], [[evangelización]], [[santa_luisa_de_marillac]], [[santa_isabel_ana_seton]], [[educación_católica]], [[opción_por_los_pobres]]
-
-## Ver también
-
-- [[santa_isabel_ana_seton]]
-- [[evangelization_and_culture_issue_12_childhood]]
-- [[evangelization_and_culture_issue_10_freedom]]
+## Perspectivas por fuente
 
 ### Según Sicari (AMS)
 
@@ -47,6 +39,16 @@ pensamiento de que los pobres son los miembros de Jesucristo, infaliblemente
 disminuirán en nosotros la dulzura y la caridad». H. Brémond: «no son los
 pobres los que lo han llevado a Dios, sino que al contrario, Dios es quien
 le ha llevado a los pobres».
+
+## Relaciones doctrinales
+
+[[caridad]], [[evangelización]], [[santa_luisa_de_marillac]], [[santa_isabel_ana_seton]], [[educación_católica]], [[opción_por_los_pobres]]
+
+## Ver también
+
+- [[santa_isabel_ana_seton]]
+- [[evangelization_and_culture_issue_12_childhood]]
+- [[evangelization_and_culture_issue_10_freedom]]
 
 ## Referencias
 
