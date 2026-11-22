@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Resurrección
 tags: ["escatología", "cristología"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-21
 description: "El misterio central de la fe cristiana: la vuelta a la vida de Jesucristo, verdadero Dios y verdadero hombre, al tercer día después de su muerte en cruz, con su mismo cuerpo glorificado."
 ---
 # Resurrección
 
 > Área: Escatología / Cristología
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-21
 
 ## Definición
 
@@ -74,6 +74,14 @@ La homilía sobre Mc 16,1-8 presenta la resurrección como «el alfa y la omega�
 
 Barron rechaza las lecturas reductivas de Schillebeeckx —los discípulos «se sintieron perdonados»— y de Haight —la memoria superviviente de Jesús como símbolo de la presencia de Dios—: si eso fuera todo, el lenguaje de la resurrección valdría igual para el Buda, Confucio o Lincoln, y no explicaría la novedad y la sorpresa escatológica que atraviesan el Nuevo Testamento. Con N. T. Wright subraya el argumento decisivo: los autores sagrados conocían el Sheol, el retorno fantasmal de Samuel, cierta idea de reencarnación, la fuga platónica del alma, el estado de las almas junto a Dios (Sab 3,1) y las alucinaciones, y **no usaron ninguna de esas categorías**. Dijeron algo para lo que no tenían palabra: lo que se esperaba de todos los justos al fin de los tiempos —la resurrección corporal— se había cumplido anticipadamente en aquel mismo Jesús, vivo y transformado. Que una banda abatida y aterrada generara espontáneamente esa fe resulta increíble; las mujeres huyen «aterrorizadas» del sepulcro, y junto a la tumba de un amigo se puede sentir nostalgia, pero no terror.
 
+### Según Lenten Gospel Reflections 2021 (LGR21)
+
+El Sábado Santo (Mc 16,1-7) reproduce el relato del sepulcro vacío: las mujeres compran especias, encuentran la piedra corrida —«aunque era muy grande»— y un joven de túnica blanca les dice «ha resucitado, no está aquí; mirad el sitio donde le pusieron» y que va delante de ellos a Galilea. Barron lo llama «el todo de la fe cristiana» y plantea la alternativa sin tercera vía: «si Jesús no resucitó de entre los muertos, el cristianismo es un fraude y una broma. Pero si resucitó, el cristianismo es la plenitud de la revelación de Dios, y Jesús debe ser el centro absoluto de nuestras vidas». Con Pablo (1 Cor 15) recuerda que, si solo para esta vida hemos esperado en Cristo, somos los más desgraciados de los hombres, y rechaza explicarla como mito, símbolo o experiencia subjetiva.
+
+El Domingo de Pascua (Jn 20,1-9) se detiene en los lienzos y en el sudario «enrollado en un lugar aparte» y en el discípulo amado que «vio y creyó», y extrae tres lecciones. **Primera:** este mundo no es todo; no tenemos que vivir como si la muerte fuera nuestra dueña y el nihilismo la única postura coherente, sino verlo como «un lugar de gestación hacia algo más alto, más permanente, más espléndido». **Segunda:** los tiranos saben que su tiempo se ha acabado; la cruz era la forma en que Roma afirmaba su autoridad, pero «la interpretación de salón de profesores de la Resurrección como evento subjetivo o mero símbolo es exactamente lo que los tiranos del mundo quieren, porque no les plantea ninguna amenaza real». **Tercera:** el camino de salvación se ha abierto a todos, porque Jesús bajó hasta el abandono de Dios para alcanzar a los que se habían alejado: «incluso cuando corremos tan rápido como podemos lejos del Padre, estamos corriendo hacia los brazos del Hijo».
+
+La estación XIV del Vía Crucis completa el cuadro desde el Santo Sepulcro: la piedra ya no está allí y la tumba está vacía, signo de que la Iglesia no predicó un mito sino lo que había visto y oído [LGR21, reflexiones 47–48 y estación XIV; resúmenes 47, 48 y 63]. Las mismas fórmulas reaparecen en LGR24 (46_march_30_2024), por lo que la sección de 2024 desarrolla literalmente esta misma alternativa.
+
 ### Según Lenten Gospel Reflections 2022 (LGR22)
 
 La Resurrección cierra el volumen y lo ilumina entero. El comentario a Jn 20 subraya los signos: era de madrugada y aún estaba oscuro, como al principio del tiempo, antes de «hágase la luz»; pero estaba a punto de brillar una luz y de aparecer una creación nueva. La piedra corrida es la que bloqueaba el sepulcro: cuando muere alguien a quien amamos, es como si una gran piedra se cerrara sobre él y nos vedara el acceso, y por eso lloramos con una frustración existencial. Para Jesús, la piedra había sido removida. Los discípulos pensarían en un saqueador de tumbas, y la ironía joánica es que el mayor de los saqueadores había estado en acción: Dios abre los sepulcros, como prometió por Ezequiel. Lo que se soñó y se esperó contra toda esperanza se ha vuelto realidad. El Sábado Santo añade la consecuencia práctica: si la muerte no tiene la última palabra, no se puede seguir viviendo en un espacio espiritual dominado por el miedo a morir ni hacer de la protección del ego la preocupación primera.
@@ -103,3 +111,4 @@ La Vigilia pascual plantea la alternativa sin rodeos: si Jesús no resucitó, to
 ## Referencias
 - CEC §638-658
 - CEC §988-1004
+- LGR21, *Lenten Gospel Reflections 2021*, reflexiones 47–48 y estación XIV (`wiki/Resúmenes/Lenten Gospel Reflections/`)

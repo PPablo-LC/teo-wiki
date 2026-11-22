@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Adoración eucarística
 tags: ["dogmática_—_litúrgica"]
 
-timestamp: 2026-09-05
+timestamp: 2026-11-21
 description: "Culto de latría dirigido a Jesucristo realmente presente en la Sagrada Eucaristía bajo las especies del pan y del vino."
 ---
 # Adoración eucarística
 
 > Área: Dogmática — Litúrgica
-> Última actualización: 2026-09-05
+> Última actualización: 2026-11-21
 
 ## Definición
 
@@ -139,6 +139,10 @@ Barron recomienda «la disciplina clásicamente católica de la adoración eucar
 
 **El ejercicio propuesto.** Traer a Cristo el problema o dilema que nos preocupa y decirle: «Señor, espero que tú lo resuelvas, que me muestres la salida, el camino hacia adelante. He estado corriendo, planificando, preocupándome, pero ahora voy a dejarte actuar»; después, a lo largo del Adviento, «vigilar atentamente las señales». Y, al orar ante la Eucaristía, dejar que se intensifique el deseo de las cosas de Dios: «Señor, hazme capaz de recibir los dones que quieres darme», o incluso «Señor Jesús, sorpréndeme».
 
+### Según A Month With Archbishop Fulton Sheen (AMSh)
+
+El folleto de Wasikowski hace de la Hora Santa el sello de la novena. La introducción recuerda que Sheen dedicaba **una hora al día a estar con Jesús en la adoración eucarística**, ejemplo que inspiró a miles de personas, y recoge su dicho: «A Holy Hour of Adoration in our modern rat race is necessary for authentic prayer» [AMSh, `01_introduction.md`]. El día 23 subraya el contraste con la fama: pese a ser un sacerdote muy conocido, «you spent an hour of your day on your knees worshipping Jesus in the Holy Eucharist», y reconocía que toda influencia sobre los demás era un don que Cristo le daba para servirlo [AMSh, `24_day_twenty_three.md`]. La guía final del rosario vuelve sobre la misma costumbre y propone concluir la novena con una hora ante el Santísimo como acción de gracias: «What a fitting tribute of thanksgiving it would be to our future saint!» [AMSh, `35_how_to_pray_the_rosary_a_particular_love_of.md`]. Estos testimonios ofrecen un modelo concreto de lo que el Catecismo enseña sobre la visita al Santísimo como «prueba de gratitud, signo de amor y deber de adoración» (CEC §1418).
+
 ## Distinciones importantes
 
 - **Adoración eucarística vs. comunión**: una es culto de presencia, la otra es recepción sacramental
@@ -170,3 +174,4 @@ La adoración eucarística es expresión máxima de la [[virtud_de_la_religión]
 - [EAC-23, 14_feature_levering.md — Levering, el culto eucarístico como cuarto camino]
 - [EAC-23, 15_feature_declue.md — DeClue, Benedicto XVI sobre la liturgia divina]
 - EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 14-16.
+- AMSh, *A Month With Archbishop Fulton Sheen*, introducción, día 23 y guía del rosario (`wiki/Resúmenes/A_Month_With_Archbishop_Fulton_Sheen/`)

@@ -1,10 +1,14 @@
 ---
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
-timestamp: 2026-08-06
+timestamp: 2026-11-21
 description: "Registro acumulativo de wikilinks sin artículo propio: secciones por lote de procesamiento (EAC, Giussani, Legionarios, Denzinger, CUDF, etc.)."
 ---
 # Auditoría de wikilinks huérfanos
+
+> **Actualización 2026-11-21 (LGR21) — +46 huérfanos nuevos sembrados:** procesada *Lenten Gospel Reflections* (Cuaresma 2021, 64 resúmenes y 4 artículos enriquecidos), quedan registrados como forward references 49 enlaces sin artículo, de los que 46 son nuevos; `diablo`, `judas` y `regla_de_oro` ya estaban registrados y solo suman referencias. **Retargets aplicados** en los resúmenes a canónicos existentes: `san_agustín`→[[agustín_de_hipona]], `tolkien`→[[j_r_r_tolkien]], `maría_magdalena`→[[santa_maría_magdalena]], `sepultura`→[[sepultura_de_cristo]], `pilato`→[[poncio_pilato]], `primacía_de_pedro`→[[primacía_petrina]], `falso_yo`/`yo`→[[verdadero_y_falso_yo]], `chesed`→[[hesed]], `dignidad`→[[dignidad_humana]], `mediación`→[[mediación_de_maría]], `infidelidad`→[[alianza_e_infidelidad]], `liderazgo_religioso`→[[liderazgo]] y `rene_girard`→`rené_girard` (corrección de tilde). Ver sección «Sembrados por LGR21 (2026-11-21)».
+
+> **Actualización 2026-11-21 (AMSh) — +2 huérfanos sembrados:** procesada *A Month With Archbishop Fulton Sheen* (36/36 resúmenes, 3 artículos enriquecidos), se siembran `[[buen_ladrón]]` (día 2, Lc 23,43) y `[[regla_de_oro]]` (día 19) como forward references; ambos carecen de artículo y no se ha hallado variante canónico. **Retargets aplicados** en resúmenes e índice de la fuente: `Dios`→[[dios]], `padrenuestro`→[[padre_nuestro]], `mujer_del_pozo`→[[mujer_samaritana]], `buena_noticia`→[[evangelio]], `causa_de_santidad`→[[canonización]], `templo_de_dios`→[[templo_del_espíritu_santo]], `abandono_en_la_voluntad_de_dios`→[[abandono_en_dios]], `perseverancia_en_la_oración`→[[perseverancia]], y corregido el typo `adoraución_eucarística`→[[adoración_eucarística]]. Los ya registrados `decisión`, `diablo`, `dones`, `doxología` e `ídolo` solo suman referencias. Medición global tras el lote: **3.584 huérfanos únicos** (el detector anterior a esta actualización daba 3.584; el registro acumulativo no se ha regenerado para no perder las notas históricas).
 
 > **Actualización 2026-11-07 (lote 21, JvC) — 2 huérfanos resueltos y 1 sembrado:** se crean los artículos de persona `[[epicteto]]` (resuelve el huérfano homónimo y su variante sin tilde) y `[[séneca]]` (resuelve `[[seneca]]`, que el detector normaliza) desde *El joven de carácter* (JvC); en el mismo lote se crean `[[barlaam]]`, `[[macario]]`, `[[san_columbano]]`, `[[régulo]]`, `[[demóstenes]]`, `[[colón]]` y `[[napoleón]]`, y se enriquecen con JvC `[[santa_catalina_de_siena]]`, `[[tomás_de_kempis]]`, `[[sócrates]]`, `[[moisés]]` y `[[santo_tomás_de_aquino]]`. Queda sembrado `[[estoicismo]]` (ya registrado desde EAC-22). Medición global tras el lote: **3.575 huérfanos únicos**.
 > **Actualización 2026-11-07 (lote 20) — `[[tolerancia]]` resuelto (4 refs):** artículo en `wiki/conceptos/tolerancia.md` con la distinción de tres niveles (virtud de la paciencia, principio jurídico de no coacción, ideología de privatización) y sección `## Juicio antropológico y moral` que arranca del CEC §§ 2104-2109. Fuentes: CEC, DH, CIC 748, SmTh II-II q.128 y q.136, Barron (AR cap. 3), de Lubac (PF 13), Loring, *Elegidos en Cristo* IX, HI 37 y EAC-10. Sembrados: ninguno.
@@ -7809,3 +7813,62 @@ Procesamiento de *Salud mental y acompañamiento pastoral en el contexto de cris
 ## Resuelto: resiliencia (2026-11-15)
 
 `[[resiliencia]]` tenía 3 referencias y era el huérfano más citado de la Guía de salud mental. Creado `wiki/conceptos/resiliencia.md` con el método de `juicio-doctrinal`: aviso de método, tres niveles (descriptivo, interpretativo y normativo —el salto de «puede» a «debe»), `## Juicio antropológico y moral` con CEC §1808, §1805, §1731, §1733, §1817-1818, §301, §307, §309, §1505 y §618, y `## Perspectivas por fuente` con SMACP (cap. 6 completo) y *Los dones de la imperfección* de Brené Brown (hitos 3 y 6). Se añade backlink en `salud_mental` (Relaciones doctrinales y Ver también).
+
+## Sembrados por LGR21 — 2026-11-21
+
+Procesamiento de *Lenten Gospel Reflections* (Robert Barron, Word on Fire, Cuaresma 2021). Los 64 resúmenes enlazan los siguientes conceptos y personas sin artículo propio; la cobertura se da en el número de resumen (`wiki/Resúmenes/Lenten Gospel Reflections/`). Se han aplicado los retargets anotados arriba. Los que ya figuraban en el registro (`diablo`, `judas`, `regla_de_oro`) solo añaden referencias.
+
+| Huérfano | Resúmenes |
+|----------|-----------|
+| [[auto_glorificación]] | 22 |
+| [[auto_justificación]] | 55 |
+| [[buena_noticia_a_los_pobres]] | 45 |
+| [[caifás]] | 40 |
+| [[causas_secundarias]] | 53 |
+| [[chivo_expiatorio]] | 35, 40 |
+| [[communio]] | 24 |
+| [[complot]] | 40 |
+| [[consummatum_est]] | 61 |
+| [[cristóforo]] | 54 |
+| [[cuatro_adcciones]] | 59 |
+| [[cumplimiento]] | 61 |
+| [[curación]] | 45 |
+| [[deificación_del_ego]] | 37 |
+| [[diablo]] | 37 |
+| [[divisiones]] | 33 |
+| [[egocentrismo]] | 25 |
+| [[eikon]] | 57 |
+| [[esclavitud]] | 37 |
+| [[grano_de_trigo]] | 34 |
+| [[humildad_del_logos]] | 31 |
+| [[icono_del_padre]] | 19, 31 |
+| [[jonás]] | 09 |
+| [[judas]] | 43, 44 |
+| [[luz_y_tinieblas]] | 27 |
+| [[mandamiento]] | 23 |
+| [[misterio_del_mal]] | 43 |
+| [[negación_de_sí_mismo]] | 03 |
+| [[nuevo_david]] | 50 |
+| [[nuevo_moisés]] | 23 |
+| [[obras_de_dios]] | 39 |
+| [[opresión]] | 29 |
+| [[principio_y_fin]] | 32 |
+| [[publicanos_y_pecadores]] | 05 |
+| [[purificación_del_templo]] | 20 |
+| [[rechazo]] | 21 |
+| [[regla_de_oro]] | 10, 14 |
+| [[rené_girard]] | 35, 40 |
+| [[rescate]] | 16 |
+| [[respetabilidad]] | 57 |
+| [[ruach_yahweh]] | 45 |
+| [[santo_sepulcro]] | 63 |
+| [[sepulcro_vacío]] | 47, 48 |
+| [[serpiente_de_bronce]] | 27 |
+| [[simón_de_cirene]] | 54 |
+| [[traición]] | 43 |
+| [[trono_de_david]] | 38, 41 |
+| [[validez_de_los_sacramentos]] | 15 |
+| [[verónica]] | 55 |
+
+**Candidatos inmediatos** por densidad y centralidad en la fuente: `[[sepulcro_vacío]]`, `[[santo_sepulcro]]`, `[[misterio_del_mal]]`, `[[ruach_yahweh]]`, `[[consummatum_est]]`, `[[cristóforo]]`, `[[simón_de_cirene]]`, `[[verónica]]` y las personas `[[judas]]`, `[[caifás]]`, `[[jonás]]` y `[[rené_girard]]`.
+

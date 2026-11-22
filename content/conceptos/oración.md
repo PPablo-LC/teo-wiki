@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Oración
 tags: ["ascética", "mística"]
 
-timestamp: 2026-11-03
+timestamp: 2026-11-21
 description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno); conciencia de sí hasta el fondo que se topa con un Otro según Giussani."
 ---
 # Oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-11-03
+> Última actualización: 2026-11-21
 
 ## Definición
 
@@ -232,6 +232,18 @@ Subraya su carácter corporal contra la voz cartesiana. En *Cartas del diablo a 
 
 Finalmente, la oración es comunitaria por naturaleza: si su esencia es reposar en el amor creador, orar nos liga a todo el cosmos. Charles Williams llamó a esto «co-inherencia», existir en y para el otro, y su arquetipo —después de la Trinidad— es el sacrificio sustitutivo de Cristo: «este lenguaje solo se vuelve coherente a la luz del poder unificador del centro».
 
+### Según Lenten Gospel Reflections 2021 (LGR21)
+
+La obra entera está construida como un itinerario de oración: cada una de las cuarenta y tantas reflexiones termina con una pregunta **REFLECT** que obliga a pasar del texto evangélico a la propia vida. La conclusión recoge el método y lo vuelve compromiso: mantener el impulso cuaresmal mediante recursos formativos y, sobre todo, arraigando la vida en la Eucaristía —«una hora semanal de meditación y oración ante el Santísimo Sacramento»—, porque «la Eucaristía es el alfa y la omega del discipulado cristiano. Es la energía sin la cual el cristianismo auténtico se apaga».
+
+**La oración como examen ante la mesa de Cristo.** El Martes Santo (Jn 13) lleva el *mysterium iniquitatis* hasta la Última Cena: Judas comparte la intimidad del banquete y entrega al Señor. Barron aplica la escena a los que «nos reunimos con regularidad alrededor de la mesa de intimidad con Cristo y, sin embargo, seguimos practicando las obras de las tinieblas»: la oración se vuelve aquí examen de conciencia, invitación a reconocerse en el traidor.
+
+**La pregunta por el sufrimiento.** En la estación III, un anciano con dos nietas moribundas reprocha al predicador que su homilía sobre la providencia no le ha ayudado. Barron responde que su pregunta «era santa, porque significaba que no había renunciado a Dios: seguía buscándolo», y la lleva al corazón del misterio: «Dios no nos quita el sufrimiento, pero entra en él con nosotros y de ese modo lo santifica». Orar es, en ese contexto, sostener la pregunta sin responderla del todo.
+
+**La intercesión de María.** La estación IV interpreta el encargo de Jesús desde la cruz —«Mujer, he ahí a tu hijo»— como entrega de todos los discípulos a María. El Avemaría pide que ruegue por nosotros «ahora y en la hora de nuestra muerte», señal de que, a lo largo de toda la vida, ella es «el canal privilegiado por el que la gracia de Cristo fluye al Cuerpo Místico».
+
+**Orar respondiendo a la voz del Maestro.** La estación V une la burra del Domingo de Ramos y Simón de Cirene en una misma espiritualidad del servicio: «el Maestro tiene necesidad de ti». La oración se concreta en disponibilidad para la tarea asignada, aunque pase desapercibida o merezca burla [LGR21, reflexiones 43, 45 y 52–54 y conclusión; resúmenes 43, 45, 52–54 y 64].
+
 ### Según Lenten Gospel Reflections 2022 (LGR22)
 
 Barron define la oración como «comunión íntima y conversación con Dios» y extrae del Evangelio de Ceniza (Mt 6,1-6.16-18) sus condiciones: fe, perdón, perseverancia y el nombre de Jesús. La eficacia de la petición parece depender de la reconciliación con los demás; y la demora de Dios no es negativa, sino dilatación del corazón, como sugería Agustín. El Padre nuestro (Mt 6,7-15) es el modelo de toda oración porque no lo enseña un maestro religioso, sino el Hijo, y porque une al creyente con dos mil años de santos: no pretende cambiar la mente de Dios —que no es un jefe receloso al que haya que convencer—, sino disponer al hombre para recibir lo que Dios ya quiere dar. La oración confiada (Mt 7,7-12) engendra la indiferencia ignaciana, y con ella la libertad y la *dynamis*, la potencia real. El fariseo que ora «a sí mismo» (Lc 18,9-14) muestra el reverso: una oración que confirma al hombre en su autoestima y adora a un ídolo hecho a la medida de sus necesidades; la del publicano, en cambio, tiene a Dios por actor principal.
@@ -239,6 +251,10 @@ Barron define la oración como «comunión íntima y conversación con Dios» y 
 ### Según Lenten Gospel Reflections 2024 (LGR24)
 
 La reflexión sobre el Padre nuestro (Mt 6,7-15) desarrolla la filiación: llamamos a Dios *Abba*, la misma intimidad que Jesús tiene con el Padre, y no imitamos su oración como la de un maestro, sino que entramos en la dinámica de su propio ser. La primera petición —«santificado sea tu nombre»— es decisiva: si Dios no es tenido por santo sobre todo, todo lo demás se vuelve profano; trabajo, familia, dinero, éxito y amistades son bienes, pero ninguno ocupa ese lugar. La fuente ordena además la oración al amor efectivo: pedir a Dios y amar al prójimo (Mc 12,28-34) no son dos caminos paralelos, y el amor a Dios se hace visible en el amor al hermano. El Viacrucis de 2024 ofrece, por último, una forma concreta de oración eclesial: respuesta común, aclamación, lectura, meditación y oración de todos los fieles en cada estación.
+
+### Según A Month With Archbishop Fulton Sheen (AMSh)
+
+La novena compilada por Wasikowski recoge varios dichos de Sheen que aclaran la naturaleza y la práctica de la oración. **Perseverancia**: «No soul ever fell away from God without giving up prayer. Prayer is that which establishes contact with Divine Power and opens the invisible resources of heaven. However dark the way, when we pray, temptation can never master us. The first step downward in the average soul is the giving up of the practice of prayer, the breaking of the circuit with divinity, and the proclamation of one's own self sufficiency» (día 1); la viuda y el juez injusto ilustran la insistencia. **Exaudición según el plan de Dios**: «You cannot always depend on prayers to be answered the way you want them answered but you can always depend on God. God, the loving Father often denies us those things which in the end would prove harmful to us… Someday we will thank God not only for what He gave us, but also for that which He refused» (día 3). **Tres grados según el centro de la atención**: petición (quien solo piensa en sí), intercesión (quien piensa en el prójimo) y abandono en la voluntad de Dios (quien solo ama y sirve a Dios), «and this is the prayer of the saints» (día 7). **Definición**: «Prayer is a lifting of the heart and mind to God; notice we said nothing about the emotions…… Prayer is in the intellect, in the will, and in the heart, as embracing a love of truth with a resolve and determination to grow in love through an act of the will» (día 8). **Vuelta a Dios tras el abandono**: la parábola del enfermo y la monja —«I haven't prayed in thirty years. Pray for me» / «Pray for yourself. Sometimes the strange voice is the one most quickly heard»— muestra que Dios es el Padre del hijo pródigo, que corre al encuentro del que se vuelve (día 6). **Fe**: «Believe the incredible, and you can do the impossible… When he took his eyes off Christ, Peter began to sink» (día 9). **Condición del consejo moral**: «Counsel involving right and wrong should never be sought from a man who does not say his prayers» (día 22). Por su carácter devocional estas afirmaciones no añaden doctrina nueva, pero confirman en un lenguaje directo la dependencia filial, la perseverancia y el abandono que la oración tiene según el Catecismo y Santo Tomás [AMSh, días 1, 3, 6-9 y 22].
 
 ## Distinciones importantes
 
@@ -267,3 +283,5 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 - AvEsp, Dicho 26 (oración del alma enamorada); Dicho 66-67 (acudir a Dios en tribulación y gozo); Dicho 79 (soledad santa y oración); Avisos de Antequera §11 (quien huye de oración huye de todo bueno)
 - [EAC-16, 03_midnight_oil.md, 07_spotlight_reader.md]
 - [PyH, Cap. 6]
+- AMSh, *A Month With Archbishop Fulton Sheen*, días 1, 3, 6-9 y 22 (`wiki/Resúmenes/A_Month_With_Archbishop_Fulton_Sheen/`)
+- LGR21, *Lenten Gospel Reflections 2021*, reflexiones 43, 45, 52-54 y conclusión (`wiki/Resúmenes/Lenten Gospel Reflections/`)

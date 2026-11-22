@@ -2,13 +2,13 @@
 type: Persona
 title: Fulton J. Sheen
 tags: ["santos", "obispos", "comunicadores", "patronos"]
-timestamp: 2026-08-08
+timestamp: 2026-11-21
 description: "Fulton J. Sheen (1895-1979), arzobispo católico estadounidense, pionero de la evangelización a través de la radio y la televisión."
 ---
 # Fulton J. Sheen
 
 > Área: Santos / Comunicadores
-> Última actualización: 2026-08-08
+> Última actualización: 2026-11-21
 
 ## Biografía
 
@@ -45,6 +45,10 @@ Nació en El Paso (Illinois) en 1895. De niño, sirviendo una misa del obispo Jo
 
 Recibía veinte mil cartas diarias y recorrió el mundo. En una leprosería de Uganda, avergonzado de haber dejado caer una cruz en una mano deformada, se impuso estrechar cada mano. Fue hacedor de conversos —Kreisler, Budenz y Clare Boothe Luce, a quien respondió cuando le gritó que por qué Dios le había quitado a su hija: «Para que a través de ese dolor usted estuviera aquí, empezando a conocer a Cristo»—. En sus retiros sacerdotales recomendaba siempre una hora diaria de oración ante el Santísimo. Obispo de Rochester en 1966, dimitió en 1969 y murió en 1979 orando ante el Santísimo Sacramento.
 
+### Según A Month With Archbishop Fulton Sheen (AMSh)
+
+La novena de treinta días compilada por John M. Wasikowski (2014) se dirige a Sheen «as he progresses the ranks of the altars of the Catholic Church» y recoge sus dichos junto a dos oraciones fijas —«Prayer for a Favor» y «Prayer for His Canonization»— con el *imprimatur* del obispo Daniel Jenky de Peoria. La introducción documenta que, en el momento de la publicación, Sheen había sido declarado **Venerable** y se había anunciado la aprobación de un milagro por la comisión médica que asesora a la Congregación de los Santos. Subraya su **hora diaria de adoración eucarística**: «A Holy Hour of Adoration in our modern rat race is necessary for authentic prayer»; el día 23 añade que, pese a su fama, pasaba una hora de rodillas ante la Eucaristía y atribuía su influencia a un don recibido para servir. Los treinta dichos muestran los rasgos de su espiritualidad: la oración como contacto con el poder divino (día 1), la paciencia como «timing» —«Patience is power. Patience is not an absence of action; rather it is timing» (día 4)—, el Viernes Santo y la Pascua (día 5), los tres grados de la oración (día 7), la preferencia por el pecador arrepentido antes que el «santo» sin amor —«God prefers a loving sinner to a loveless \"saint\". Love can be trained; pride cannot» (día 17)—, la humildad de contar bendiciones y no recortes de prensa (día 23), el rechazo a pedir señales a Dios (día 25), el perdón como mayor milagro (día 27) y el juicio por los dones recibidos (día 30). Aparece también su humor característico («Good morning, God» / «Good God, morning», día 14; «The big print giveth and the fine print taketh away», día 26). Cierra la obra una guía del rosario con las cuatro series de misterios y la invitación a imitar su Hora Santa como acción de gracias [AMSh, índice de la fuente].
+
 ## Citas célebres
 
 - «La libertad no consiste en hacer lo que nos gusta, sino en tener el derecho de hacer lo que debemos.» (atribuida a JPII, citada en EAC-3)
@@ -64,3 +68,4 @@ Bishop Robert Barron considera a Sheen como su predecesor más directo en el uso
 - EAC-3, 09_spotlight_sheen_microphone.md (Matt Leonard)
 - Word on Fire, *Pivotal Players: Fulton J. Sheen*
 - CATHOLICISM series, Word on Fire
+- AMSh, *A Month With Archbishop Fulton Sheen*, John M. Wasikowski (2014), 36 archivos (`wiki/Resúmenes/A_Month_With_Archbishop_Fulton_Sheen/`)

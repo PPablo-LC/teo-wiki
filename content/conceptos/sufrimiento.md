@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sufrimiento
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-21
 description: "El sufrimiento es la experiencia del mal en cuerpo y espíritu; en la cruz se revela valor redentor, testimoniado en el deporte como gracia a través del dolor."
 ---
 # Sufrimiento
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-21
 
 ## Definición
 
@@ -93,6 +93,16 @@ terra per gli occhi*; 01, 75; cfr. Gb 19,1.23-27).
 casi todas muy jóvenes, en el casco de una nave en reparación por un incendio
 (01, 49-53).
 
+### Según Lenten Gospel Reflections 2021 (LGR21)
+
+**La pregunta por el sufrimiento es santa.** En la estación III, Jesús cae bajo la cruz y un anciano se acerca al predicador: tiene dos nietas de cinco y siete años con una enfermedad terminal que las dejará ciegas antes de morir, y la mayor acaba de perder la vista. «He ido a sacerdotes, ministros, rabinos y gurús, y nunca he recibido una buena respuesta». Barron no da una explicación, pero dice que su pregunta «era santa, porque significaba que no había renunciado a Dios: seguía buscándolo», y la conduce al corazón del misterio cristiano: el Padre envía al Hijo «a lo peor de nuestro sufrimiento, a lo que más nos aterra», de modo que «Dios no nos quita el sufrimiento, pero entra en él con nosotros y de ese modo lo santifica».
+
+**No es un Padre enfadado.** La estación II corrige la idea de que el Hijo toma la cruz porque el Padre está airado o necesita algo: «No: viene puramente por amor, por el deseo de que florezcamos». Con san Anselmo, los pecadores son diamantes caídos en el lodo: Dios baja al lodo del pecado y de la muerte, recoge el diamante y lo limpia, ensuciándose él mismo; ese hundimiento es el sacrificio que expresa compasión, no venganza. Cargar la cruz es, por tanto, «absorber violencia y odio con el perdón y la no violencia», no solamente estar dispuesto a sufrir.
+
+**La cruz, espejo y solidaridad.** El Viernes Santo contempla la crucifixión como «la expresión plena de la ira divina contra el pecado» y, al mismo tiempo, «la expresión plena de la solidaridad divina con los pecadores»: «Dios mismo ha venido a estar con nosotros en nuestra disfunción y a absorber en su perdón todos los pecados mortales». La estación VI añade que en el rostro atormentado del Cristo sufriente se hace visible nuestra propia fealdad y que «donde habíamos vagado al país frío y lejano del pecado, el amor de Dios salió a buscarnos».
+
+**El sufrimiento ofrecido en la Misa.** La estación XI invita a leer el dolor personal —la agonía de un hijo, la rebeldía de una hija, la muerte de un hermano, la angustia económica, una amistad rota— a través del prisma de la muerte sacrificial de Jesús: «pueden verlo a través del prisma de la muerte sacrificial de Jesús, apreciándolo como el medio con el que Dios las atrae hacia sí», uniendo sus sacrificios al gran sacrificio de Cristo, como precisa *Lumen Gentium* [LGR21, estaciones II, III, VI y XI y Viernes Santo; resúmenes 46 y 51–55 y 60].
+
 ## Distinciones importantes
 
 - Sufrimiento como castigo vs. sufrimiento como prueba
@@ -122,3 +132,4 @@ Se relaciona con [[cruz]], [[pasión_de_cristo]], [[redención]], [[dolor]], [[p
 - VocTeoBib, artículo «Sufrimiento», Xavier León-Dufour (ed.)
 - Job; Is 53; Mc 8,34; Rom 5,3-5; Col 1,24; 2 Cor 12,9-10; Ap 21,4
 - [EAC-20, 12_science.md (Gehrig/Lewis), 07_film.md (Becklo)]
+- LGR21, *Lenten Gospel Reflections 2021*, Viernes Santo y estaciones II, III, VI y XI (`wiki/Resúmenes/Lenten Gospel Reflections/`)
