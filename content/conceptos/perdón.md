@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Perdón
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-08-19
+timestamp: 2026-11-22
 description: "Remisión de los pecados otorgada por Dios al pecador arrepentido, por los méritos de Jesucristo."
 ---
 
 # Perdón
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-08-19
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -103,6 +103,63 @@ El perdón recorre el volumen de principio a fin. En la primera semana, la recon
 
 La fuente de 2024 conserva la meditación de la reconciliación con su fórmula más lograda: el perdón repara las relaciones rotas y su ausencia bloquea el paso de Dios, porque «Dios es amor». El remedio propuesto vuelve a ser la contemplación del Crucificado. El perdón se inscribe además en el arco de la Semana Santa: la triple confesión de amor de Pedro, que contrarresta su triple negación, y el mandamiento nuevo del lavatorio, «amaos como yo os he amado», que fija la medida del perdón cristiano en el amor divino, no en la justicia conmutativa. La meditación de la adúltera (Jn 8,1-11) añade el gesto que lo hace posible: Jesús no alimenta la violencia acusadora, desarma a los acusadores y devuelve la dignidad con una palabra —«vete y no peques más»— que perdona sin mentir sobre el mal cometido.
 
+### Según *Building a Culture of the Family* (BCF)
+
+Melina denuncia las peticiones de perdón «apresuradas y superficiales» en la
+vida conyugal: sirven para los pequeños malentendidos diarios, pero ante
+traiciones reales, frialdad acumulada y heridas que marcan a los hijos resultan
+«huecas e inoportunas». Cuanto más fuerte es el vínculo, más grave es la ofensa
+y más difícil el perdón: no hirió al salmista un enemigo, sino «mi otro yo, mi
+camarada y amigo» (Sal 55,13-15). En la pareja, fundada no en la sangre sino en
+la alianza (Gn 2,24), la ofensa se siente como «una merma de la propia carne»,
+hiere a los hijos y al bien común y desfigura el lenguaje del cuerpo, signo de
+la alianza. Hay injusticias objetivas de consecuencias irreparables que no se
+borran con una palabra de pesar: la justicia herida exige satisfacción, aunque
+sea simbólica. Ante lo irrevocable, el perdón «no es una palabra a disposición
+del hombre, sino una gracia» que cabe acoger con humildad.
+
+La banalización del perdón nace de la pérdida del sentido del pecado y, en
+última instancia, de Dios: «El pecado del siglo es la pérdida del sentido del
+pecado» (Pío XII, RP 18). El secularismo no entiende el drama de la libertad y
+ofrece un Dios «abuelo» que solo quiere que los niños se diviertan sin sufrir,
+como caricaturizó C. S. Lewis. Ni la venganza —reacción que no supera la
+ofensa— ni el perdón superficial —que deja conflictos sin resolver— son
+novedad. Siguiendo a Hannah Arendt, el perdón rompe la cadena mecánica de
+reacciones que suman mal al mal: es «el prototipo de la acción creativa
+humana». Con Agustín (*initium ut esset, creatus est homo, ante quem nullus
+fuit*), el hombre es llamado a ser principio de novedad: perdonando regeneramos
+al ofensor y a nosotros mismos y retejemos la red de relaciones.
+
+Solo el perdón que viene de Dios regenera, porque pasa por el juicio de la
+Cruz: parafraseando a Bonhoeffer, es «perdón costoso», no el que nos concedemos
+baratamente sin juzgar la falta. Exige reconocimiento real de la gravedad del
+pecado y la necesidad de conversión; para quien da y para quien recibe es paso
+de la muerte a la resurrección (1 P 2,24; 2 Cor 5,21): morir a la falsa buena
+conciencia, al orgullo de tener la razón y a la complacencia en la ofensa
+recibida. El Señor resucitado perdona la traición y da el Espíritu (Jn 20,
+22-23); el sacramento no opera mecánicamente, sino que guía un itinerario de
+regeneración en la Iglesia. La Iglesia no es sociedad de puros, sino
+«comunidad de pecadores perdonados», con una segunda «tabla de salvación» tras
+el naufragio, casi un «bautismo laborioso», que exige la cooperación de la
+libertad con la gracia. «No te digo que hasta siete, sino hasta setenta veces
+siete» (Mt 18,22): conceder el perdón es deber de la Iglesia, pues ninguno de
+los «pequeños» debe perderse.
+
+En la pareja, la culpa expresa la «dureza del corazón» (Mt 19,8), que frustra
+la unidad querida «al principio». La confesión devuelve a los esposos la
+energía para reconstruir la comunión, no ante todo para cumplir preceptos
+externos, sino para vivir la alianza como don sincero de sí (GS 24). Sanar la
+memoria es lo más arduo: no basta querer perdonar, deben sanar las heridas, las
+imágenes y los sentimientos. Quedará una huella y no se volverá a la inocencia
+inicial, pero puede darse un *felix culpa*: como los mártires conservan las
+señales de sus llagas (Agustín, *Ciudad de Dios* XXII), la memoria del pecado
+perdonado se vuelve ocasión de mayor gratitud, como en la pecadora de Simón:
+«perdonado poco, ama poco» (Lc 7,47). El perdón espera en suspenso la respuesta
+del otro; la soledad del cónyuge misericordioso no es orgullo, sino esperanza.
+Fuera de casos extremos, el perdón se vuelve «hábito (*habitus*)» estable y
+creativo, no una rutina mecánica, sino energía que introduce novedad en la
+relación porque es capaz de esperar.
+
 ## Distinciones importantes
 
 - Perdón de la culpa vs. remisión de la pena temporal
@@ -128,3 +185,4 @@ La fuente de 2024 conserva la meditación de la reconciliación con su fórmula 
 - CEC §2631
 - TPCr, Tercera Parte, Libro II, cap. I
 - Evangelization & Culture, Issue 6 (EcC6): §§01, 06, 10 (Worner, Morson, Zimmerer)
+- BCF, *Building a Culture of the Family* (Livio Melina, Pauls Publishing, 2010), cap. 2, `raw/Bases_doctrinales-raw/Building_a_Culture/`.

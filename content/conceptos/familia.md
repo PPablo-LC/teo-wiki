@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Familia
 tags: ["doctrina_social"]
 
-timestamp: 2026-11-03
+timestamp: 2026-11-22
 description: "La familia es la primera sociedad natural, fundada sobre el matrimonio entre un hombre y una mujer, comunidad de vida y amor conyugal, célula primera y vital de la sociedad."
 ---
 # Familia
 
 > Área: Doctrina Social
-> Última actualización: 2026-11-03
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -180,6 +180,49 @@ La homilía sobre 1 Sam 1,9-28 advierte que los «valores familiares» bíblicos
 
 Las palabras de Jesús sobre la familia —«deja que los muertos entierren a sus muertos», «¿quiénes son mi madre y mis hermanos?», «no he venido a traer paz sino espada»— insisten en la recta priorización de los bienes espirituales: escuchar la palabra de Dios y hacer su voluntad no puede quedar subordinado a ningún otro bien. De ahí los desórdenes típicos: el padre que realiza sus sueños frustrados en el hijo, la madre que lo empuja a la perfección sin ver que se derrumba, la paz superficial que tolera la disfunción, el hijo que usa a los padres como seguridad. La familia ha de ser, con Juan Pablo II, una *ecclesiola* donde el culto a Dios es el valor supremo y el discernimiento de la misión, la tarea suprema.
 
+### Según *Building a Culture of the Family* (BCF)
+
+Melina recoge el encargo de Juan Pablo II —«el futuro de la humanidad pasa por
+la familia» (FC 86)— y su advertencia ante la «promoción engañosa de modelos
+jurídicos e institucionales» que tienden a disolver «el derecho primordial de
+la familia a ser reconocida como sujeto principal de derechos y obligaciones
+sociales»: «los vínculos familiares van primero y abren el camino a otras
+formas de solidaridad». Benedicto XVI vio en las familias cristianas «un
+recurso crucial» para la fe y la misión. El autor sitúa la crisis actual en un
+plano más profundo que el económico o social: se trata de «una verdadera crisis
+del sujeto», porque la libertad se muestra débil, confusa y perdida para
+construir un matrimonio y una familia abiertos a la comunicación de la vida y
+de sus valores fundamentales. La fidelidad ya no da continuidad al afecto
+—queda «fuera del tiempo y por eso también fuera de la moral»—, la paternidad
+convierte al hijo en proyecto y a la familia en un «apartamento», y en el fondo
+aparece una crisis de fe: no se tolera «ser hijos». La libertad (*eleutheria*)
+no es ante todo elección, sino «estar y sentirse en casa», como muestra Jn 8,
+35-36: el hogar es el lugar donde la dignidad y los derechos son reconocidos.
+
+Frente a esa crisis, el autor propone cuatro caminos para reconstruir al sujeto
+moral: una «ética de segunda persona» en la que la norma nace del otro; las
+virtudes, que permiten pasar de la *unio affectiva* a la *unio realis*; el amor
+trinitario, que hace de la acción «filial» en el Espíritu; y la Iglesia, «cuerpo
+de Cristo y sacramento del Reino», donde «no hay judío ni griego, esclavo ni
+libre, varón ni mujer» (Gal 3,28). La Iglesia no es un gueto, sino el lugar
+donde las familias humanas se alimentan para ser a su vez moradas que educan
+para la comunión. Por expresión de san Juan Crisóstomo acogida por el
+Vaticano II (LG 11), la familia se convierte en «una pequeña Iglesia
+doméstica», capaz de educar al cristiano en el don de sí que exigen el
+matrimonio y la paternidad; es «sacramento de la Trinidad» en el que el amor
+divino se hace presente y se comunica.
+
+Ser esposo es «no poderse encontrar plenamente sino en el don sincero de sí»
+(GS 24) y existir como «unidad de los dos» (MD 7). Reconocerse hijo es
+recibirse de Otro: «Don» es el nombre original del ser creado, y «la fe
+engendra la esperanza y la esperanza la caridad» (STh I-II q.66 a.6). Ser
+padres no es un proyecto humano a realizar con las propias fuerzas ni un
+derecho absoluto sobre el hijo: es arrodillarse «ante el Padre, de quien toma
+nombre toda familia» (Eph 3,14-15) y recibir al hijo como «un huésped que viene
+de lejos», fruto y don sobreabundante de un amor que tiene en Dios su origen y
+su destino. La familia así fundada es una morada para la esperanza: «porque nos
+ha nacido un niño, se nos ha dado un hijo» (Is 9).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]
@@ -212,3 +255,4 @@ Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]
 - [JdN_I, caps. 1]
 - EMC (Mons. Tihamér Tóth, *El matrimonio cristiano*), caps. 1, 12-17.
 - PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- BCF, *Building a Culture of the Family* (Livio Melina, Pauls Publishing, 2010), introd. y cap. 1, `raw/Bases_doctrinales-raw/Building_a_Culture/`.

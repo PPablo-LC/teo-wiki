@@ -7872,3 +7872,22 @@ Procesamiento de *Lenten Gospel Reflections* (Robert Barron, Word on Fire, Cuare
 
 **Candidatos inmediatos** por densidad y centralidad en la fuente: `[[sepulcro_vacío]]`, `[[santo_sepulcro]]`, `[[misterio_del_mal]]`, `[[ruach_yahweh]]`, `[[consummatum_est]]`, `[[cristóforo]]`, `[[simón_de_cirene]]`, `[[verónica]]` y las personas `[[judas]]`, `[[caifás]]`, `[[jonás]]` y `[[rené_girard]]`.
 
+## Sembrados por BCF — *Building a Culture of the Family* (2026-11-22)
+
+Procesada la fuente de Livio Melina (20/20 resúmenes, documento descriptivo y
+8 artículos enriquecidos), quedan registrados como forward references **2
+enlaces sin artículo**, todos nuevos. Se usaron canónicos existentes para el
+resto de conceptos (`familia`, `cultura`, `teología_del_cuerpo`, `cuerpo`,
+`castidad`, `perdón`, `homosexualidad`, `paternidad_responsable`,
+`pastoral_familiar`, `misericordia`, `ideología_de_género`, …). «Misterio
+nupcial» se retargeteó al canónico `[[teología_nupcial]]`, que ya tiene artículo.
+
+| Huérfano | Resúmenes que lo enlazan | Prioridad |
+|----------|--------------------------|-----------|
+| [[diferencia_sexual]] | 08, 09, 10 | Alta — eje de la teología del cuerpo en BCF; ya desarrollado en `teología_del_cuerpo` y `cuerpo` |
+| [[economía_divina]] | 01 (prólogo de Scott Hahn) | Media — aparece en la descripción del método teológico del libro |
+
+**Nota:** `iglesia_doméstica`, `esperanza`, `fe`, `iglesia`, `medios_de_comunicación`,
+`lenguaje`, `lenguaje_del_cuerpo` y `teología_nupcial` ya tenían canónico o
+registro previo; no se han duplicado.
+

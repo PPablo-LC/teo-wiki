@@ -3,12 +3,12 @@ type: Persona
 title: "Livio Melina"
 description: "Sacerdote y teólogo moral italiano, catedrático y presidente del Instituto Juan Pablo II, entrevistado en Priests—What Lies Ahead? sobre el sacerdote como médico."
 tags: ["teología_moral", "teología_del_sacerdocio", "teología_de_la_familia", "bioética"]
-timestamp: 2026-11-02
+timestamp: 2026-11-22
 ---
 # Livio Melina
 
 > Área: Personas / Teología moral / Teología del sacerdocio / Familia
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -54,6 +54,16 @@ reafirmando que nada en *[[amoris_laetitia]]* indica una solución distinta.
 Distingue el juicio sobre los actos homosexuales del respeto y el
 acompañamiento de las personas concretas.
 
+En *[[building_a_culture_of_the_family]]* (Pauls Publishing, 2010; prólogo de
+[[scott_hahn]]) desarrolla sistemáticamente esos mismos ejes en tres pasos: la
+familia como fuente de cultura y «pequeña Iglesia doméstica», el lenguaje del
+amor a la luz de la [[teología_del_cuerpo]] frente a la «mutación
+antropológica» y a la ideología de género antipersonalista, y las dimensiones
+éticas de la [[teología_nupcial]] aplicadas a la [[castidad]], las situaciones
+irregulares, la [[homosexualidad]] y la [[paternidad_responsable]]. Su método
+es «una reflexión orgánica sobre el fundamento del plan de Dios sobre el
+matrimonio y la familia», en la que «la síntesis precede al análisis y lo guía».
+
 ## Ver también
 
 - [[priests_what_lies_ahead]] [[sacerdocio]] [[cura_de_almas]] [[confesión]]
@@ -67,3 +77,5 @@ acompañamiento de las personas concretas.
   `05_iii_the_priest_as_physician_and_healer_of_wounds.md` (líneas 1-403).
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- **Obra propia**: [[building_a_culture_of_the_family]] (BCF),
+  `raw/Bases_doctrinales-raw/Building_a_Culture/índice.md`.

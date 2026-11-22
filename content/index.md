@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-11-21'
+updated: '2026-11-22'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -4481,6 +4481,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### B (Documentos)
 
 - [[breve_catechesi_sul_matrimonio]]
+- [[building_a_culture_of_the_family]]
 
 ### C (Documentos)
 

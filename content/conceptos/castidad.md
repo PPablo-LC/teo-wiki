@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Castidad
 tags: ["moral"]
 
-timestamp: 2026-11-03
+timestamp: 2026-11-22
 description: "La castidad es la virtud moral, parte subjetiva de la templanza, que modera el apetito genésico según la recta razón y la fe, integrando la sexualidad en la persona y ordenándola al don total de sí."
 ---
 # Castidad
 
 > Área: Moral
-> Última actualización: 2026-11-03
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -167,6 +167,66 @@ Iglesia debe ofrecerlos realmente, no solo exigirla. Los testimonios del
 libro (Prever, Tushnet, Mattson, Mainwaring) confirman que la castidad es
 posible y fecunda cuando se sostiene en vínculos reales.
 
+### Según *Building a Culture of the Family* (BCF)
+
+Melina resume la verdad tradicional con una fórmula que conviene conservar:
+la castidad «no es la represión de las pasiones», sino la virtud que hace
+posible el amor verdadero, integrando los dinamismos del impulso y la
+afectividad en la maduración hacia el don de sí y la acogida del otro; es
+«fruto del Espíritu Santo» en cuanto realiza la caridad en las relaciones que
+implican la dimensión sexual. Frente al ideal estoico de virtud como
+eliminación de las pasiones y perfecta indiferencia, y frente a la reserva
+protestante que la reduce a suficiencia natural —con olor a pelagianismo que
+oscurece la gratuidad del don—, el ideal cristiano es la integración: la
+sexualidad humana, a diferencia del instinto ciego y coercitivo, es una
+tendencia que la razón y la libertad pueden y deben asumir y elevar al plano
+personal e interpersonal. Es «la revelación de la dependencia y la expectativa
+de comunión», y sus dinamismos somáticos, psicológicos y espirituales
+pertenecen a un único sujeto.
+
+El autor distingue tres niveles que suelen confundirse: la **sensualidad**
+es reacción de los sentidos a los valores sexuales ligados al cuerpo del otro
+sexo, con inclinación utilitaria a apropiarse del otro como «bien para mí»;
+la **afectividad** responde a la feminidad o masculinidad del otro como
+dimensión global, pero idealiza sin conocerlo realmente; solo el **amor**
+llega a la persona y es «para siempre», porque entran en juego inteligencia y
+voluntad. Se pasa así del *amor complacentiae* al *amor benevolentiae*: el
+valor personal del otro «exige ser honrado por mi libertad» y hay que
+«silenciar el deseo de posesión». La concupiscencia —orgullo y presunción de
+autosuficiencia para Agustín, debilidad estructural para integrar las pasiones
+para Aquino— es la raíz de la fragmentación del sujeto: la «mirada del deseo»
+reduce al otro a sus rasgos sexuales y al placer que ofrece, y al separar la
+experiencia sexual de la afectividad y del compromiso la vida se vuelve un
+«juego de papeles» y una búsqueda compulsiva de gratificaciones nuevas.
+
+Tomás define la virtud como *habitus operativus bonus*, con tres notas:
+estabilidad, facilidad y alegría. La castidad vence la mudabilidad de los
+impulsos y expresa la capacidad de donarse «para siempre», aceptando a la
+persona en su verdad integral. La **continencia** es el camino hacia ella —
+lucha interior, ascetismo, abnegación—, nunca un fin en sí mismo: el silencio
+de los gestos genitales espontáneos enseña el lenguaje más profundo del don de
+las personas. A propósito de 1 Cor 7,5, Melina subraya que Pablo habla de
+abstinencia «de común acuerdo, por un tiempo, para dedicaros a la oración»,
+usando *kairós* —tiempo de gracia y salvación— y no *chrónos*: no es un vacío
+en el amor, sino una espera que lo hace crecer y redirige al valor más alto
+las energías antes orientadas al menor. El ideal no es la perfección
+individual de cada esposo, sino la integración mutua en un amor abierto a la
+fecundidad, que impide que se pliegue sobre sí mismo.
+
+Teológicamente, la castidad es posible como participación en la caridad de
+Cristo. La gracia propia del sacramento del matrimonio es la *caritas
+coniugalis*: amarse en la verdad y querer el bien del otro según la perfección
+del amor de Cristo. Desde ahí se entiende la verdad tradicional hoy olvidada
+del matrimonio como «remedio de la concupiscencia»: la gracia sacramental
+remedia la desintegración interior, da amor sobrenatural y renueva el respeto
+a la realidad sagrada de la persona. Quienes son llamados a la virginidad por
+el Reino no se detienen en la continencia: la castidad es condición de amor y
+fecundidad, disponibilidad para que Cristo realice su amor universal —caridad
+pastoral en sacerdotes y obispos, caridad de servicio y dedicación a la
+oración en los religiosos—. La castidad «nunca es una perfección personal, un
+fin en sí mismo», sino la virtud que apunta a la *ec-stasis*: salir de sí para
+acoger a los otros, darse a ellos y crear una verdadera comunión de personas.
+
 ## Distinciones importantes
 
 - **Castidad virginal**: abstención perpetua de toda delectación venérea por motivos sobrenaturales
@@ -206,3 +266,4 @@ La [[templanza]] es la virtud cardinal de la que la castidad es parte subjetiva.
 - [PyH, Cap. V]
 - [PyH, Cap. VII]
 - PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- BCF, *Building a Culture of the Family* (Livio Melina, Pauls Publishing, 2010), cap. 7, `raw/Bases_doctrinales-raw/Building_a_Culture/`.

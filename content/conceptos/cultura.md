@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cultura
 tags: ["doctrina_social"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-22
 description: "Todo aquello con lo que el hombre afina y desarrolla sus innumerables cualidades espirituales y corporales; procura someter el orbe terrestre con su conocimiento y trabajo."
 ---
 # Cultura
 
 > Área: Doctrina Social
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -98,6 +98,43 @@ nosotros debe convertirse en un movimiento dentro de la sociedad» (03, 213).
 
 Del lado positivo, la Declaración de Independencia afirma que los hombres son iguales y tienen derechos inalienables porque son «creados» y dotados por su «Creador»; sin esa referencia, como mostraron los totalitarismos del siglo XX, los derechos dejan de ser evidentes. La actitud justa es, pues, «afecto condicionado por la inteligencia crítica»: asimilar lo que se pueda y resistir lo que se deba, siendo católicos primero. Las homilías sobre Nehemías y sobre Ap 21,22 completan la visión: los muros que definen la identidad son condición de la misión —«buenas vallas hacen buenos vecinos»— y la religión no puede ser un compartimento privado, porque Dios no es un ser entre otros y la ciudad entera ha de ser lugar de culto.
 
+### Según *Building a Culture of the Family* (BCF)
+
+Melina toma como punto de partida la convicción de Juan Pablo II de que «por la
+cultura el hombre se hace más hombre, existe más plenamente y tiene más ser».
+La cultura necesita una morada: un lugar «donde se nos acepta por lo que
+somos», unido al culto —«Where there is no temple there shall be no homes»
+(T. S. Eliot)—. Por eso «no hay cultura sin lenguaje ni lenguaje sin verdad»:
+la cultura de la familia se promueve donde se aprende el lenguaje auténtico del
+amor según la verdad del «principio» que Dios escribió en los corazones y en
+los cuerpos de varones y mujeres.
+
+El diagnóstico de la época es una «mutación antropológica» radical que tiende
+a la abolición de lo *humanum*: oponer libertad y naturaleza niega la diferencia
+sexual inscrita en los cuerpos, olvida la vocación original al amor como
+*communio personarum* y pierde el valor verdadero de la paternidad y la
+maternidad. El olvido del ser, de la creación y del hombre como *imago Dei*
+forman una crisis de estatura épica que socava los cimientos no solo de la
+civilización cristiana, sino de la cultura humana misma. Se ofrece, en efecto,
+«una antropología alternativa» a la imagen del hombre y la mujer propia de la
+razón natural y del cristianismo, pero sus iniciativas carecen de «fundamento
+antropológico y ético».
+
+El método propuesto es «una reflexión orgánica sobre el fundamento del plan de
+Dios sobre el matrimonio y la familia», en el que «la síntesis precede al
+análisis y lo guía». Frente al relativismo —resultado cultural de un uso
+incoherente y desordenado de las ciencias humanas que ha perdido la visión
+integral del ser humano—, la antropología teológica desde el misterio nupcial
+ofrece la vía para redescubrir la unidad originaria de la persona y las ciencias
+humanas y recomponer en una visión orgánica las ramas de la investigación.
+Solo así se evita la mera yuxtaposición de saberes y se alcanza el conocimiento
+de la verdad sobre el amor humano, necesario para promover una auténtica
+cultura de la familia. Según [[angelo_scola]], la unidad orgánica de diferencia
+sexual, amor y fecundidad se extiende por analogía desde la relación conyugal
+hasta todas las formas de amor y hasta la Trinidad; lo original de Wojtyla es
+«la circulación continua entre contenido teológico y experiencias humanas
+originarias».
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación]], [[educación_católica]], [[humanismo_integral]], [[autonomía_de_las_realidades_terrenas]], [[ciencia]], [[arte]]
@@ -113,3 +150,4 @@ Se relaciona con [[educación]], [[educación_católica]], [[humanismo_integral]
 ## Referencias
 
 - ConcVatII, GS §53-62
+- BCF, *Building a Culture of the Family* (Livio Melina, Pauls Publishing, 2010), introd. y cap. 1, `raw/Bases_doctrinales-raw/Building_a_Culture/`.

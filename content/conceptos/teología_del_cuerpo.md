@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Teología del cuerpo
 tags: ["antropología_teológica", "moral"]
 
-timestamp: 2026-11-03
+timestamp: 2026-11-22
 description: "La teología del cuerpo es un punto particular de la antropología teológica que se establece sobre el fundamento de la Palabra de Dios revelada."
 ---
 # Teología del cuerpo
 
 > Área: Antropología teológica
-> Última actualización: 2026-11-03
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -73,6 +73,86 @@ pero tampoco es irrelevante, porque el cuerpo dice una verdad sobre el don.
 La **[[castidad]]** aparece así como integración de la persona, no como
 represión.
 
+### Según *Building a Culture of the Family* (BCF)
+
+Melina presenta la teología del cuerpo como un discurso teológico realizado
+desde la fe que, lejos de ser fideísmo ciego, acepta el debate en el terreno de
+la experiencia y se verifica por «mayor racionalidad y humanidad». Frente al
+lema reduccionista «no es más que...» (*it's nothing but...*), violento y
+escéptico, propone el designio original de Dios como horizonte educativo: «A
+imagen de Dios lo creó; varón y mujer los creó» (Gn 1,27). El recorrido sigue
+las Catequesis de Juan Pablo II (1979-1984) y *Mulieris Dignitatem* 1, en tres
+pasos: el sentido del cuerpo, la diferencia sexual en el plan original y la
+redención de la sexualidad.
+
+El fundamento es el cuerpo «sacramento» de la persona: Juan Pablo II lo definió
+como «el cuerpo... impregnado sobre todo por toda la realidad de la persona y
+de su dignidad», manifestación visible de una realidad invisible. El ser
+humano pertenece a la vez al mundo visible de la materia y al invisible del
+espíritu, y es un «yo» espiritual y material que integra instinto, afecto,
+voluntad y razón. La unión de alma y cuerpo es sustancial, como muestra la
+noción tomista de forma sustancial única: el alma racional invade y transforma
+toda la corporeidad, haciéndola corporeidad personal. El cuerpo es límite y
+riqueza a la vez —expresa la condición de criatura dependiente de un don
+antecedente—, no cárcel del alma ni ídolo ni mera suma de órganos. La
+fenomenología ha mostrado su carácter simbólico: el llanto del recién nacido o
+un apretón de manos expresan sentidos antes de cualquier decisión, de modo que
+la libertad no es independencia de la naturaleza, sino libertad encarnada que
+asume y eleva lo dado.
+
+El problema se plantea en nivel hermenéutico, no solo biológico: entre el
+naturalismo y el subjetivismo, Juan Pablo II indica la vía media de una
+hermenéutica teológica iluminada por el encuentro con Cristo, cuyo núcleo es la
+Eucaristía. Aunque no se refiere directamente a lo sexual, da el sentido último
+de la corporeidad: Cristo configura el amor esponsal que se entrega entero a su
+Esposa, haciéndose alimento (Ef 5,21-33), «Esto es mi cuerpo, que se entrega
+por vosotros»; su vida terrena entera fue entrega por el cuerpo (1 Jn 1,1-3;
+Col 2,9; Heb 10,10), de ahí Rm 12,1. Comentando el Génesis, la «soledad
+original» del hombre es dependencia de Dios y, a la vez, necesidad del otro
+sexo: «El hombre no puede existir "solo"; puede existir solo como "unidad de
+los dos"» (MD 7). La sexualidad inscrita en el cuerpo es invitación a la
+reciprocidad: presupone identidad en la dignidad y diferencia indeleble; antes
+de toda decisión, el hombre está orientado a la mujer y la mujer al hombre. El
+amor no procede del «yo», lo precede, y solo por él el «yo» se encuentra a sí
+mismo. El cuerpo es «sacramento primordial» de la creación, testigo del don y
+llamada a donarse; el lenguaje del cuerpo debe ser lenguaje de donación de las
+personas, y si no lo es, es mentira. Hay una jerarquía —persona, cuerpo,
+sexualidad, genitalidad— en la que lo inferior vale en cuanto expresa la
+dignidad y la vocación a la comunión.
+
+La diferencia es ontológica antes que fisiológica y revela la dependencia
+constitutiva de cada persona: «Ningún individuo humano es capaz de agotar por
+sí solo todo lo humano» (Scola). No es una complementariedad integral que
+disuelva la asimetría: pretender superarla es ilusión trágica, y esa
+imposibilidad lanza el amor más allá de sí mismo, hacia el fruto. La
+procreación no es añadido extrínseco, sino «la forma cumplida de la unión»:
+«dos seres ya son uno, y es cuando son uno cuando se vuelven tres» (Blondel).
+El hijo es «la corona del amor conyugal», sacramento vivo del amor esponsal,
+nunca algo «debido» ni producción programada, sino acogida de una persona
+irrepetible (Gn 4,1). El deseo se ordena a la analogía de la vida trinitaria y
+a la alianza esponsal de Cristo con la Iglesia.
+
+El pecado vuelve opaco el significado nupcial: la concupiscencia pliega el
+deseo sobre sí mismo, la mirada se detiene en los caracteres sexuales y ya no
+va a la persona signada por ellos, y la sexualidad pasa de «estructura de
+comunión» a «estructura de dominio» (Gn 3,16). Pero el Esposo es Cristo: en la
+encarnación asume cuerpo y lo entrega como don nupcial, y en la cruz —donde
+consuma sus bodas con una esposa adúltera que lo da muerte— brotan «sangre y
+agua», símbolos de los sacramentos que engendran a la Iglesia. El don del
+Esposo crea incluso la fidelidad de la esposa. Por eso Eucaristía y matrimonio
+están estrechamente unidos: el matrimonio es «signo eficaz del amor de Cristo a
+su Iglesia», *sacramentum magnum* (Ef 5,32). La redención no es automática:
+exige fidelidad sin divorcio, pureza de obras, deseos y mirada, no por
+desconfianza hacia la sexualidad, sino para devolverle su dignidad de gracia.
+El cuerpo de Cristo resucitado es primicia de la resurrección de los cuerpos:
+entonces el signo matrimonial cederá ante la realidad (Mt 22,24-30), y la
+virginidad por el reino es carismática anticipación de ese estado, no negación
+del significado nupcial ni de la diferencia sexual. La ética sexual cristiana
+rechaza por igual el rigorismo —«amor sin eros», «ethos sin eros»— y el
+permisivismo —«eros sin ethos», «eros sin amor»—: ambos separan sexualidad,
+persona y amor y tratan la diferencia como accidente manipulable. El *ethos*,
+respeto y don de la persona, es la forma madura del *eros*.
+
 ## Distinciones importantes
 
 - **Teología del cuerpo vs. antropología dualista:** el cuerpo no es algo añadido al espíritu sino que expresa la persona en su totalidad
@@ -109,3 +189,4 @@ Se relaciona con el amor humano, la vocación al don de sí, la imagen de Dios c
 - [Juan Pablo II, *Man and Woman He Created Them* (Teología del Cuerpo, 1979-1984)]
 - [GS §24]
 - PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- BCF, *Building a Culture of the Family* (Livio Melina, Pauls Publishing, 2010), cap. 5, `raw/Bases_doctrinales-raw/Building_a_Culture/`.

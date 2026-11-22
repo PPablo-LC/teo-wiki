@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Paternidad responsable
 tags: ["moral", "doctrina_social"]
 
-timestamp: 2026-06-20
+timestamp: 2026-11-22
 description: "Forma peculiar de la especial participación de los cónyuges en la obra creadora de Dios, que implica la deliberación ponderada y generosa sobre el número de hijos."
 ---
 # Paternidad responsable
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-06-20
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -41,6 +41,57 @@ La Iglesia ha recibido la misión especial de custodiar y proteger la altísima 
 
 A la *generación primera* — «una vida humana en el acto procreativo» — debe seguir, «por su misma naturaleza, la generación *segunda*, que lleva a los padres a ayudar al hijo en el desarrollo de la propia personalidad» (SHVS 112). La formación en la castidad ha de formar parte de la preparación a la paternidad y maternidad responsables, que se refieren «al momento en que el hombre y la mujer, uniéndose "en una sola carne", pueden convertirse en padres... *Las dos dimensiones de la unión conyugal, la unitiva y la procreativa, no pueden separarse artificialmente*» (SHVS 32).
 
+### Según *Building a Culture of the Family* (BCF)
+
+Melina arranca del salmo 8: la grandeza humana viene de que Dios se acuerda de
+ella y la crea a su imagen (Gn 1,26); olvidarlo la reduce a «sombra que pasa»
+(Sal 144,4). Preguntar por el origen es preguntar por la dignidad. Gén 4,1
+muestra «pro-creación», no reproducción: cada vida nace del aliento divino y es
+querida por Dios (Is 49,15); con Juan Pablo II, «la genealogía de la persona
+está inscrita en la biología de la generación». Los esposos cooperan, no
+producen: el hijo es «don de don», y el amor conyugal es «el templo donde Dios
+celebra el misterio de su amor creador». Del Padre toma nombre toda paternidad
+(Ef 3,14-15); ser padre es un «voto», compromiso de corresponder a un don
+gratuito, y el hijo solo puede desearse «de rodillas».
+
+La unidad de los significados unitivo y procreativo defiende la dignidad del
+acto y del hijo: la voluntad consiente al plan de Otro, no produce
+técnicamente. *Humanae Vitae* 10 exige conocer los procesos biológicos, gobernar
+instinto y pasión, deliberar sobre las condiciones físicas, económicas y
+sociales —con familia numerosa o, por razones graves, evitando nacimientos— y
+respetar el orden moral objetivo. Los esposos son «cooperadores del amor de
+Dios Creador» e «intérpretes en cierto sentido» (GS 50); HV 12 quiere los
+significados inseparables: el acto ha de ser don libre, exclusivo y definitivo.
+El autor distingue la «función» procreativa —biológica— del «significado»
+—intencional—: un acto estéril puede conservar el significado, mientras que un
+acto anticonceptivo conserva la función sin él. HV 14 rechaza la anticoncepción
+porque privar al acto de su dimensión procreativa es «darse sin darse del todo»
+y la «mentalidad anticonceptiva» dice «sexo sin hijos». *Donum Vitae* II B 4 c
+añade que el hijo no puede ser «producto de técnicas médicas o biológicas»: la
+medicina puede ayudar a la naturaleza, no sustituir el acto. Tras cada «no» hay
+un «sí» a la dignidad: los hijos son herencia y flechas (Sal 127) y motor de
+esperanza (Péguy).
+
+En la parte dedicada a los métodos naturales, Melina corrige una confusión
+frecuente: la distinción natural/artificial no es decisiva moralmente. Lo
+protegido no es el proceso fisiológico de la fertilidad, sino «la naturaleza
+del acto conyugal como acto llamado a expresar la verdad del amor conyugal en
+una donación interpersonal total abierta a la vida». Por eso es lícito un
+fármaco para regular un ciclo irregular o una intervención curativa aunque
+causen esterilidad, y es ilícito el *coitus interruptus*, aunque sea
+«natural». La «regulación natural» son conocimientos y métodos que respetan la
+sexualidad y no alteran sus ritmos, ajustándose a «la naturaleza de la persona
+y de sus actos» (GS 51), es decir, a la razón que capta los significados. El
+método es un instrumento cognitivo: diagnostica, pero no sustituye a la
+persona, y juzga la conducta libre —la abstinencia periódica para espaciar o
+buscar nacimientos—. Exige por tanto madurez y castidad: saber los ritmos no
+basta para la libertad del don. Con santo Tomás, la persona es «subsistente de
+naturaleza racional» (STh I q.29 a.3), *sui iuris et alteri incommunicabilis*;
+el cuerpo es signo sacramental de esa dignidad, no instrumento. Según HV 21, la
+continencia eleva el amor, da serenidad, destierra el egoísmo y profundiza la
+responsabilidad; impone diálogo, escucha y espera y devuelve a la sexualidad su
+sentido de don fecundo. En griego, *methodos* es «camino para realizar un
+valor»: la regulación natural invita a crecer en aceptación, escucha y entrega.
 
 ## Relaciones doctrinales
 
@@ -60,3 +111,4 @@ Se relaciona con [[procreación]], [[familia]], [[matrimonio]], [[anticoncepció
 
 - [CompDS §232-234]
 - [FC §28-29, §32, §34]
+- BCF, *Building a Culture of the Family* (Livio Melina, Pauls Publishing, 2010), caps. 11-12, `raw/Bases_doctrinales-raw/Building_a_Culture/`.
