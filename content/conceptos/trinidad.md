@@ -97,6 +97,16 @@ La conclusión es que el Dios revelado en Jesús es «una familia o comunidad de
 
 De ahí la consecuencia cristológica y eclesial: el Hijo, el amado del Padre, es quien se encarna, y el Espíritu, amor exhalado entre ambos, quien habita en la Iglesia; por eso la misión eclesial es hacer real ese amor. La simplicidad divina no se opone a esta pluralidad: precisamente porque Dios es simple puede darse sin reserva, y la Trinidad es la forma eterna de ese darse.
 
+### Según Robert Barron — *Light from Light* (LFL)
+
+Barron expone la Trinidad como la implicación exacta de la afirmación «Dios es amor» (1 Jn 4,16): solo si en Dios hay un amante, un amado y el amor que comparten puede decirse que el amor pertenece a su esencia y no es una actividad añadida. La fórmula técnica es la de Agustín: el Padre es la *mens* divina, el Hijo su *notitia sui* —la Palabra interior—, y el Espíritu el *amor sui*, el «suspiro» del amor mutuo. Por la simplicidad divina, ese amor no es un acto de Dios entre otros, sino Dios mismo; por eso recibe «una misma adoración y gloria».
+
+Recoge de Tomás la expresión **«relaciones subsistentes»**, que rompe las categorías aristotélicas —la relación no subsiste, y sin embargo aquí subsiste como relación— para evitar a la vez el modalismo (las personas no son modos de aparecer) y el triteísmo (no son tres seres). De ahí las cuatro relaciones inmanentes: generación activa y pasiva, espiración activa y pasiva. El término «persona» resulta inevitable pero equívoco: Agustín lo adoptó para tener algo que responder y Anselmo habló de *tres nescio quid*.
+
+Dedica un apartado al **[[filioque]]**: el texto de 381 dice «del Padre» (Jn 15,26); Occidente añadió «y del Hijo» en Toledo (589), apoyándose en los textos que llaman al Espíritu «Espíritu de Cristo» y en la analogía agustiniana; Oriente temió la subordinación del Espíritu y el oscurecimiento de la primacía del Padre. Barron juzga el conflicto en buena parte político y propone la fórmula irónica de que cada lado dice lo mismo con distinta cláusula.
+
+La consecuencia metafísica que más subraya es que **el ser es relacional**: frente a la primacía clásica de la sustancia, la Trinidad muestra que en el fundamento de lo real hay «ser hacia otro». De ahí deduce la ética del amor a los enemigos: el Padre hace salir su sol sobre buenos y malos, y los hijos deben amar como él ama.
+
 ## Distinciones importantes
 - Trinidad económica (revelada en las misiones divinas) ≠ Trinidad inmanente (Dios en sí mismo)
 - Unidad de esencia ≠ distinción de Personas
@@ -114,6 +124,7 @@ Se relaciona con [[encarnación]], [[espíritu_santo]], [[visión_beatífica]], 
 [[teología]], [[dogmas]], [[teología_fundamental]], [[conocimiento_trinitario]], [[propiedades_divinas]], [[actos_nocionales]], [[misiones_divinas]]
 
 ## Referencias
+- Robert Barron, *Light from Light* (Word on Fire), caps. III y IV (LFL)
 - Scott Hahn, *Joy to the World* (Image, 2014), cap. 13
 - [CEC §232-267; §290-292; §648-650; §731-732]
 - [TPCr, Primera Parte, Cap. 2; Segunda Parte, Cap. 1]

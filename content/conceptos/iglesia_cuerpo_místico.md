@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Iglesia Cuerpo Místico
 tags: ["eclesiología", "dogmática"]
 
-timestamp: 2026-10-19
+timestamp: 2026-11-22
 description: "La Iglesia es el Cuerpo Místico de Cristo, una realidad orgánica y sobrenatural en la que Cristo es la Cabeza y los fieles son los miembros, unidos entre sí y con Cristo por la gracia, la fe."
 ---
 # Iglesia Cuerpo Místico
 
 > Área: Eclesiología / Dogmática
-> Última actualización: 2026-10-19
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -70,6 +70,16 @@ La perfección cristiana, aunque es personal, tiene una dimensión eclesial inso
 ### Attraverso la compagnia dei credenti (TACDC)
 
 En *Attraverso la compagnia dei credenti* (TACDC), Giussani presenta a la Iglesia como «il mistero della Chiesa, corpo misterioso di Cristo» (01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md, ll. 45). Esta realidad no es meramente metafórica, sino efectiva: la muerte y resurrección de Cristo «muta dal di dentro» al bautizado, generando la «creatura nuova» de san Pablo. Así, el Cuerpo Místico es el lugar donde el acontecimiento de Cristo se hace presente y se comunica a los hombres, renovando el encuentro con Él en la historia (00_preliminares.md, l. 10).
+
+### Según Fulton J. Sheen — *In the Fullness of Time* (IFT)
+
+Sheen desarrolla una eclesiología de cuerpo y alma. La Iglesia es el Cuerpo de Cristo, formado por los bautizados y gobernado por la cabeza invisible, Cristo, y la visible, su Vicario; pero «un cuerpo y una cabeza no bastan para constituir el Cristo místico»: la Iglesia necesita un alma como principio de su vida y de su unidad, y esa alma es el Espíritu Santo (cap. V). Antes de Pentecostés existía «en su material bruto» —arterias formadas, cabeza nombrada, miembros llamados—, y los apóstoles eran como los elementos de un laboratorio, incapaces de darse unidad: «la vida no es un empuje desde abajo, sino un don de lo alto». En Pentecostés los individuos, «como los huesos de la visión de Ezequiel», quedaron unidos en un cuerpo vivo, y la Iglesia quedó creada en sentido estricto: cabeza, Cristo; alma, el Espíritu Santo; cuerpo, nosotros (cap. V).
+
+De ahí su insistencia en que la vitalidad no procede de la organización: «si la Iglesia se dejara a sus elementos humanos, habría perecido hace mucho; el secreto de su vida inmortal es su Espíritu eterno». La Iglesia es así una Persona que atraviesa los siglos: cambian las células, permanece el Espíritu, como el hombre de cincuenta años sigue siendo el mismo (cap. V). En el capítulo XXV, comentando Ef 1,23, describe el crecimiento del Cuerpo como historia del «llenado» de Cristo: el amor que Dios vació en la Creación se llena cuando la Iglesia hace tributar las cosas materiales al Creador; el que vació en la Revelación, por la fe de los que cantan el Credo; el de la Encarnación, por la incorporación de millones de almas a un solo Cuerpo. El Cuerpo místico acabará cuando, completo el número de los elegidos, la Iglesia militante y la purgante se recojan en la triunfante (cap. XXV).
+
+El Cuerpo es también el sujeto de la solidaridad y del apostolado. Sheen insiste en la reciprocidad de los miembros: «el ojo no puede decir a la mano: no te necesito»; el sufrimiento y la persecución de la Iglesia en un lugar deben sentirse en todos, y de esa solidaridad nacen las tres simpatías del Cuerpo: dolor, gozo y reparación (cap. XXI). El crecimiento, además, depende de la actividad de los miembros: el alma sin el cuerpo no explica el desarrollo, porque el alimento llega al organismo por los miembros; la Iglesia que no se reproduce «teje su propia mortaja» (cap. XIII). Y la incorporación alcanza tal identidad que la persecución del Cuerpo es persecución de la Cabeza: «Saúl, Saúl, ¿por qué me persigues?… Yo soy Jesús, a quien tú persigues» (cap. XII).
+
+> «Como Cristo tomó su cuerpo físico del vientre de la Virgen María bajo la sombra del Espíritu Santo, así ahora Cristo toma del vientre de la humanidad su Cuerpo místico bajo la sombra del Espíritu de Pentecostés» (IFT, cap. V).
 
 ## Distinciones importantes
 

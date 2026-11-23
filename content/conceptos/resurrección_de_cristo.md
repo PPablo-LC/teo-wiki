@@ -110,6 +110,16 @@ Mons. Barron («Contours of the Great Story») presenta la Resurrección como **
 
 La pasión sola no bastaba: la salvación es la reintegración de la persona y de la naturaleza, y requiere la resurrección — «fue entregado por nuestros pecados y resucitado para nuestra justificación» (Rm 4,25). La resurrección de Cristo es el ejemplar de la nuestra y levanta nuestra esperanza; se manifestó con «muchos signos» (Hch 1,3) y fue reconocida por las heridas: el mismo cuerpo numéricamente. Cuerpo glorioso pero de la misma naturaleza: «espiritual», es decir libre, del todo sometido al espíritu — como el vitral, mismo vidrio transformado cuando la luz lo atraviesa. Difiere de la resurrección de Lázaro, que volvió a la vida mortal y murió de nuevo; Cristo resucitó a la vida inmortal, como «primicias de los que duermen» (1 Cor 15,20). El sacramento de su cuerpo presupone la resurrección.
 
+### Según Robert Barron — *Light from Light* (LFL)
+
+Barron llama a la Resurrección «el quicio sobre el que gira toda la fe cristiana»: si Cristo no resucitó, caen la cristología, la Encarnación, la Trinidad, la Iglesia, los sacramentos y la esperanza de nuestra propia resurrección; «el 90 % del Credo se derrumba». La dificultad de creerla no es un defecto de la formulación: los antiguos no eran crédulos, y la reacción de los atenienses en Hechos 17 lo prueba; Kierkegaard tenía razón en que la teología debe hacer difícil el cristianismo.
+
+Procede por *via negativa*, descartando los marcos disponibles: el final simple defendido por los saduceos, el *Sheol* de las sombras, la resurrección general al final de los tiempos, la inmortalidad platónica del alma, la apoteosis de los héroes y emperadores romanos y la metempsicosis. Los textos neotestamentarios no encajan en ninguno: afirman que el mismo crucificado se presentó vivo, comió y bebió con los suyos (Hch 10,41). Lo que algunos judíos esperaban de todos los justos al final ha ocurrido ya, dentro de la historia, en este único hombre.
+
+Distingue la Resurrección de las «reanimaciones» de Lázaro, el hijo de la viuda de Naín o la hija de Jairo. El Resucitado es el mismo y a la vez extraño: los testigos dudan, no lo reconocen, se asombran; atraviesa paredes y aparece de improviso. Barron habla de un fenómeno «en el horizonte de sucesos», en la frontera entre dos sistemas dimensionales. Dos elementos son indispensables: las apariciones —sin ellas no habría nacido la fe pascual, y ninguna explicación subjetiva resiste el dato de que los testigos murieran por ella— y el sepulcro vacío, que los cuatro evangelios atestiguan y que un adversario podría haber refutado mostrando el cuerpo.
+
+Sus efectos son cuatro: ratifica las pretensiones de Jesús y su mesianismo; reinterpreta la Cruz como victoria de Dios sobre el poder de Roma; muestra que el sacrificio fue aceptado; y abre la recapitulación cósmica, pues la salvación bíblica incluye siempre el cuerpo. Con Tomás describe las cuatro cualidades del cuerpo glorioso —sutileza, agilidad, impasibilidad, claridad— y cita a Flannery O'Connor: los milagros no son excepciones a las leyes de la naturaleza, sino revelaciones de cómo es la naturaleza como Dios la quiere.
+
 ## Distinciones importantes
 
 - Resurrección de Cristo (única y gloriosa) vs. resurrecciones milagrosas anteriores (vuelta a la vida mortal)
@@ -133,3 +143,4 @@ La pasión sola no bastaba: la salvación es la reintegración de la persona y d
 - TPCr, Primera Parte
 - [VJ, Cap. VII]
 - [PS §35]
+- Robert Barron, *Light from Light* (Word on Fire), cap. III, sección «Resucitó al tercer día» (LFL)

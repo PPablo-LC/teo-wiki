@@ -259,6 +259,16 @@ El relato lucano del nacimiento no es, como recordaba Raymond Brown, un cuento i
 
 La Encarnación es además la prueba de la no-competitividad: si Dios se hizo hombre sin dejar de ser Dios y sin dañar a la criatura, no es un rival de su creación; frente a Zeus o Dioniso, que irrumpen destruyendo, el Dios verdadero hace que la criatura sea más sí misma, «encendida pero no consumida» (cf. Gal 2,20). Hay coinherencia entre divinidad y humanidad, y por eso nada humano queda ajeno: nacimiento, amistad, traición, angustia y muerte son rutas de acceso a Dios. Ireneo lo resume: *Gloria Dei homo vivens*. Pero no basta leerlo: con Eckhart, «si la Palabra no nace en nosotros hoy, de nada sirve leer que se encarnó»; Jesús no busca adoradores sino participantes (Jn 15,5; 6,56). María es como la luna, cuya luz refleja una luz mayor (Sheen), y el catolicismo mantiene juntos los extremos —rojo y blanco, nunca rosa— porque esa tensión nace de la paradoja de la Encarnación.
 
+### Según Robert Barron — *Light from Light* (LFL)
+
+Barron expone el artículo «y por obra del Espíritu Santo se encarnó de la Virgen María» como la afirmación más contraintuitiva del Credo, tanto para el judío —Dios es espíritu— como para el griego —la materia no puede pertenecer al ser divino—. La palabra clave es *sarkothenta*: el Hijo no «se convierte» en materia ni deja de ser lo que es, pues la simplicidad y la inmutabilidad lo impiden; asume una naturaleza humana completa y la usa como icono de su presencia, del mismo modo que el icono oriental no representa sino que participa de lo representado.
+
+Recuerda que los dos agentes de la Encarnación son el **Espíritu Santo** y **María**: el *ruach* que se cernía sobre las aguas y ungía a los reyes es el mismo que obra la concepción, y la virginidad de María manifiesta la iniciativa divina, la novedad de la nueva creación y la entrega total de la que la hace «llena de gracia». Frente a la objeción del paralelismo mítico, subraya con Balthasar que en los mitos la madre es violada por el dios, mientras que aquí hay un diálogo de anunciación, y que los relatos evangélicos se sitúan en un contexto histórico verificable.
+
+La fórmula de Calcedonia —«sin confusión ni cambio, sin división ni separación»— garantiza la integridad de las dos naturalezas; de ahí que el monotelismo fuera una negación implícita de Nicaea: Máximo el Confesor defendió dos voluntades y dos inteligencias, porque la no-competitividad divina permite que la libertad divina y la humana coexistan sin que una destruya a la otra. Con eso queda refutado el silogismo de Sartre («si Dios existe, no soy libre»). La unión no cambia a Dios: como Sócrates, que pasa a ser más bajo que Platón sin mengua de su estatura, el Hijo comienza a tener una relación nueva con una naturaleza creada sin alterar su inmutabilidad.
+
+La consecuencia soteriológica es la **divinización**: si Dios se hizo hombre sin dejar de ser Dios ni dañar a la criatura, la naturaleza humana puede ser elevada hasta participar de la vida trinitaria. Barron insiste en que esto no significa absorción en Dios ni que alguien llegue a ser hijo como el Hijo, sino que lo humano queda abierto a una elevación real, según la fórmula patrística de que Dios se hizo hombre para que el hombre se hiciera Dios.
+
 ## Distinciones importantes
 
 - **Encarnación vs. unión hipostática**: la Encarnación es el acto de asumir la naturaleza humana; la unión hipostática es el estado permanente de la unión de las dos naturalezas en la persona del Verbo.
@@ -299,4 +309,5 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - [EAC-1, Issue 1 «Creativity»: archivos 15, 19]
 - [EAC-3, Issue 3 «The Digital Age», archivo 07 (Mixa); Dreyfus, *On the Internet*]
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Baglow, 11_science.md; Hejduk, 17_feature_hejduk.md; Youngblood, 20_spotlight_youngblood.md)
+- Robert Barron, *Light from Light* (Word on Fire), cap. III, secciones «Por nosotros…» y «Y por obra del Espíritu Santo…» (LFL)
 - Joseph Ratzinger, *The Blessing of Christmas* (BWC): 4 (el niño como «Emmanuel» y el pesebre como acceso al corazón de Dios); 6 (la gloria en el pesebre y en la cruz); 7 (*Logos* como «sentido», el sentido que se puede tocar, la verdad bella y «los suyos no lo recibieron»).

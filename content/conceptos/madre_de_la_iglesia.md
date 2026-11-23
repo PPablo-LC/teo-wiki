@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Madre de la Iglesia
 tags: ["mariología", "eclesiología"]
 
-timestamp: 2026-10-19
+timestamp: 2026-11-22
 description: "El título «Madre de la Iglesia» (*Mater Ecclesiae*) fue proclamado solemnemente por el papa Pablo VI el 21 de noviembre de 1964, al concluir la tercera sesión del Concilio Vaticano II."
 ---
 # Madre de la Iglesia
 
 > Área: Mariología / Eclesiología
-> Última actualización: 2026-10-19
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -57,6 +57,16 @@ Pitre no usa la expresión «Madre de la Iglesia» en sentido técnico, pero su 
 
 [JRM, caps. 7 y 8]
 
+### Según Fulton J. Sheen — *In the Fullness of Time* (IFT)
+
+Sheen llega a la maternidad eclesial por la vía del «Cristo total». Si Cristo es el segundo Adán que deshizo en el árbol de la Cruz la desobediencia del primero, María es la contrapartida de Eva: «si la mujer tuvo un papel tan importante en la caída, es conveniente que su papel no sea menor en la redención». Y añade el argumento decisivo: si la plenitud de Cristo abarca no solo su vida histórica en Galilea sino su vida mística en la Iglesia, María debe ser no solo Madre del Cristo físico, sino Madre de la plenitud de Cristo, Madre de la Iglesia; de lo contrario sería «madre de la Cabeza, pero no de su Cuerpo» (cap. XVII).
+
+El razonamiento se apoya en la congruencia de la gracia: quien es Madre de la Vid es Madre de los sarmientos; como el sol que da fuerza a la vid se la da también a las ramas, la maternidad divina de la Cabeza se completa en la maternidad del Cuerpo místico. Si Cristo nos dio a su Padre, su vida y su Espíritu, no podía retener a su Madre: «si no nos hubiera dado a su madre, no sería el Amante perfecto que da todo». Y si la vida natural se recibe por una mujer, la sobrenatural también (cap. XVII).
+
+La Escritura lo insinúa primero y lo dice después: el «primogénito» de Lc 2,7 no supone otros hijos de la carne, sino una progenie espiritual que compone el Cuerpo místico, como Eva es «madre de todos los vivientes». La escena decisiva es Pentecostés: los apóstoles perseveraban en oración con María (Hch 1,14); el Espíritu que descendió sobre ella en Nazaret para hacerla Madre de Jesús desciende sobre ellos para hacerlos su Cuerpo y a ella Madre de ese Cuerpo. «Virgen en la carne, dio a luz a su Primogénito, Cristo; virgen por la pureza de su fe, da a luz a sus otros hijos, la Iglesia». Por eso se quedó en la tierra: para criar al Cuerpo como había criado a la Cabeza, pues el Cuerpo místico de Pentecostés era tan pequeño y frágil como todo recién nacido (cap. XVII).
+
+> «Pentecostés fue el Belén espiritual de María, su nueva Epifanía, en la que, como madre, junto a la cuna del Cristo místico, lo da a conocer de nuevo a otros pastores y a otros reyes» (IFT, cap. XVII).
+
 ## Distinciones importantes
 
 - **Madre de Dios** (fundamento ontológico) ≠ **Madre de la Iglesia** (dimensión eclesial)
@@ -78,3 +88,4 @@ Se relaciona con [[virgen_maría]], [[madre_de_dios]], [[maternidad_espiritual]]
 - Pablo VI, Alocución del 21 de noviembre de 1964
 - Scott Hahn, *Hail, Holy Queen* (HHQ), cap. 7
 - Brant Pitre, *Jesús and the Jewish Roots of Mary* (JRM), caps. 7 y 8
+- Fulton J. Sheen, *In the Fullness of Time* (IFT), cap. XVII

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misa
 tags: ["sacramental", "liturgia"]
 
-timestamp: 2026-10-28
+timestamp: 2026-11-22
 description: "El sacrificio eucarístico, también llamado Santo Sacrificio de la Misa, en el que se hace presente el único sacrificio de Cristo en la cruz bajo las especies eucarísticas."
 ---
 # Misa
 
 > Área: Sacramental / Liturgia
-> Última actualización: 2026-10-28
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -99,6 +99,16 @@ En TACDC, la Misa aparece como **precepto vital para la vida cristiana** y **ofr
 
 - **Misa aplicada por los difuntos de la compagnia** — Al final de los Ejercicios de 1996, Giussani pide al nuevo obispo Filippo Santoro que celebre la Misa «per i nostri defunti, i nostri fratelli defunti, chi è appartenuto alla Fraternità ed è defunto, che intercedano dal Cielo per i nostri bisogni che loro ben sanno» (04_alla_ricerca.md, ll. 175-177). La Misa une a los vivos y a los difuntos en la misma compagnia, en la comunión de los santos que sostiene la misión.
 
+### Según Fulton J. Sheen — *In the Fullness of Time* (IFT)
+
+El capítulo XVIII de *In the Fullness of Time* ofrece una de las exposiciones más concentradas del volumen. Sheen parte del instinto humano de recordar a los que mueren por otros: si toda nación tiene su día de los caídos, ¿por qué no habría memorial para quien murió por el mundo? Cristo, la víspera de su muerte, hizo testamento y dejó lo que nadie pudo dejar al morir: a sí mismo, en el acto supremo del Viernes Santo, bajo las especies de pan y vino. La doble consagración representa simbólicamente la separación del cuerpo y la sangre en la Cruz, y mirando a todas las edades dijo: «Haced esto en memoria mía» (cap. XVIII).
+
+La Misa, sin embargo, no es solo ceremonia conmemorativa como el Memorial Day, ni representación con espectadores pasivos, ni repetición de palabras hermosas: «la Misa es el sacrificio del Cuerpo místico de Cristo y es una con el Calvario, que fue el sacrificio de su Cuerpo físico». Es una realidad supratemporal por la que el Cristo glorioso prolonga su sacrificio por medio de nosotros. Sheen distingue los dos sacrificios con precisión: en la Cruz estaba solo, en la Misa con nosotros; en la Cruz ofreció por los que un día se incorporarían, en la Misa renueva por los ya incorporados; en la Cruz el Cristo histórico, en la Misa el Cristo místico, que es Cristo *y* nosotros; «la Cruz compra la redención, la Misa la aplica» (cap. XVIII).
+
+De la glorificación deduce el fundamento de la participación de los fieles: la naturaleza humana de Cristo, elevada a la gloria, ya no puede sufrir, de modo que no puede añadir nada a su sacerdocio «sino por nosotros». Quiere hacer con otras naturalezas lo que hizo con la suya tomada de la Virgen, y por eso el ofertorio es la ofrenda de Cristo y nuestra, mientras la consagración es el sacrificio de Cristo y nuestro: «la Vid se sacrificó en la Cruz; la Vid y los sarmientos se sacrifican ahora en la Misa» (cap. XVIII). El capítulo cierra con la fórmula que resume su aportación: la Misa es «Calvario recordado, renovado y aplicado», lo único que permite cumplir el «toma tu cruz cada día y sígueme».
+
+> «No hay tiempo ni espacio entre el Calvario y el ahora… La Misa es la misma Cruz actualizada en todo el espacio y en todo el tiempo» (IFT, cap. XVIII).
+
 ## Distinciones importantes
 
 - La Misa no es una "repetición" del Calvario sino su actualización sacramental
@@ -120,3 +130,4 @@ En TACDC, la Misa aparece como **precepto vital para la vida cristiana** y **ofr
 - CEC §1382-1419
 - TPCr, Parte III, Libro II, Cap. I
 - EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 6, 8-10.
+- IFT (Fulton J. Sheen, *In the Fullness of Time*), cap. XVIII.

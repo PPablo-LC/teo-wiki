@@ -2,13 +2,13 @@
 type: Persona
 title: Fulton J. Sheen
 tags: ["santos", "obispos", "comunicadores", "patronos"]
-timestamp: 2026-11-21
+timestamp: 2026-11-22
 description: "Fulton J. Sheen (1895-1979), arzobispo católico estadounidense, pionero de la evangelización a través de la radio y la televisión."
 ---
 # Fulton J. Sheen
 
 > Área: Santos / Comunicadores
-> Última actualización: 2026-11-21
+> Última actualización: 2026-11-22
 
 ## Biografía
 
@@ -49,6 +49,12 @@ Recibía veinte mil cartas diarias y recorrió el mundo. En una leprosería de U
 
 La novena de treinta días compilada por John M. Wasikowski (2014) se dirige a Sheen «as he progresses the ranks of the altars of the Catholic Church» y recoge sus dichos junto a dos oraciones fijas —«Prayer for a Favor» y «Prayer for His Canonization»— con el *imprimatur* del obispo Daniel Jenky de Peoria. La introducción documenta que, en el momento de la publicación, Sheen había sido declarado **Venerable** y se había anunciado la aprobación de un milagro por la comisión médica que asesora a la Congregación de los Santos. Subraya su **hora diaria de adoración eucarística**: «A Holy Hour of Adoration in our modern rat race is necessary for authentic prayer»; el día 23 añade que, pese a su fama, pasaba una hora de rodillas ante la Eucaristía y atribuía su influencia a un don recibido para servir. Los treinta dichos muestran los rasgos de su espiritualidad: la oración como contacto con el poder divino (día 1), la paciencia como «timing» —«Patience is power. Patience is not an absence of action; rather it is timing» (día 4)—, el Viernes Santo y la Pascua (día 5), los tres grados de la oración (día 7), la preferencia por el pecador arrepentido antes que el «santo» sin amor —«God prefers a loving sinner to a loveless \"saint\". Love can be trained; pride cannot» (día 17)—, la humildad de contar bendiciones y no recortes de prensa (día 23), el rechazo a pedir señales a Dios (día 25), el perdón como mayor milagro (día 27) y el juicio por los dones recibidos (día 30). Aparece también su humor característico («Good morning, God» / «Good God, morning», día 14; «The big print giveth and the fine print taketh away», día 26). Cierra la obra una guía del rosario con las cuatro series de misterios y la invitación a imitar su Hora Santa como acción de gracias [AMSh, índice de la fuente].
 
+### Según *In the Fullness of Time* (IFT)
+
+La antología compilada por Patricia A. Kossmann (Liguori, 1999) reúne 28 piezas —ensayos y poemas— procedentes sobre todo de charlas radiofónicas y conferencias de retiro, publicadas por el XX aniversario de su muerte. Los editores fechan el prólogo en Miércoles de Ceniza y eligen como pórtico una cita de Bonhoeffer sobre la participación en el sufrimiento de Dios en el mundo. El eje del volumen es el **Cristo total** —vida terrena, glorificada y mística— y su prolongación en la Iglesia: la Misa como Calvario recordado, renovado y aplicado (cap. XVIII); el Espíritu Santo como alma de la Iglesia (cap. V); María como Madre del Cuerpo místico y Pentecostés como su «Belén espiritual» (cap. XVII); la reparación y el sufrimiento ofrecido (caps. XXI y XV); y la santidad como intercambio y no como pérdida (cap. XXII).
+
+La semblanza final del volumen recoge su formación —J.C.B. por la Catholic University, doctorado por Lovaina, S.T.D. por el Angelicum— y recuerda que murió el 9 de diciembre de 1979, un día después de la fiesta de la Inmaculada Concepción. Los poemas incluidos (caps. III, VI, IX, XV, XX, XXVI) muestran una veta que las demás fuentes incorporadas no documentaban.
+
 ## Citas célebres
 
 - «La libertad no consiste en hacer lo que nos gusta, sino en tener el derecho de hacer lo que debemos.» (atribuida a JPII, citada en EAC-3)
@@ -69,3 +75,4 @@ Bishop Robert Barron considera a Sheen como su predecesor más directo en el uso
 - Word on Fire, *Pivotal Players: Fulton J. Sheen*
 - CATHOLICISM series, Word on Fire
 - AMSh, *A Month With Archbishop Fulton Sheen*, John M. Wasikowski (2014), 36 archivos (`wiki/Resúmenes/A_Month_With_Archbishop_Fulton_Sheen/`)
+- IFT, *In the Fullness of Time: Christ-Centered Wisdom for the Third Millennium*, ed. Patricia A. Kossmann (Liguori, 1999), 32 archivos (`wiki/Resúmenes/In_the_Fullness_of_Time/`)

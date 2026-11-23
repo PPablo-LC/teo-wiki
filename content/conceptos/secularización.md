@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Secularización
 tags: ["teología_fundamental"]
 
-timestamp: 2026-11-02
+timestamp: 2026-11-22
 description: "Proceso sociocultural por el cual las referencias cristianas comunes que durante siglos facilitaron la transmisión del mensaje evangélico y la comprensión del lenguaje moral y las grandes preguntas..."
 ---
 # Secularización
 
 > Área: Teología Fundamental
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-22
 
 ## Definición
 
@@ -43,6 +43,16 @@ Mons. Munilla sitúa la carta de León XIV en el contexto cultural presente: una
 
 Müller denuncia las voces que piden la «esterilización» de la presencia y misión sacerdotal, reduciéndola a una función social. Pell describe la secularización en tres niveles: reducción de la práctica religiosa, pérdida de influencia cultural y fe reducida a opción sin influjo en la identidad. El sacerdote debe construir cultura cristiana y ambientes donde se respire la fe. Chaput añade que la fe nunca es privada: es personal pero no privada; los cristianos deben estar en la plaza pública, pues si no, lo harán otros con visiones antagónicas; «soy guardián de mi hermano». Melina describe el relativismo tardomoderno que ve la fe como algo incompleto y siempre reformulable, y la separación entre fe y vida que Pablo VI señaló como el gran desafío.
 
+### Según Fulton J. Sheen — *In the Fullness of Time* (IFT)
+
+Sheen afronta el tema desde la pregunta «¿muere la civilización occidental?» y responde que no: Occidente es heredero de tres ideas matrices —el valor de la persona, de raíz hebreo-cristiana; la unidad de la humanidad, del derecho romano bautizado; la técnica moderna, de la visión griega de la ciencia—, y sus frutos (democracia, derecho internacional, ayuda exterior, misiones) manifiestan que la levadura sigue actuando (cap. VIII).
+
+Su aportación propia es la distinción neta entre dos términos que suelen confundirse. **Secularización** es «un proceso, un *aggiornamento* histórico continuo de la levadura hebreo-cristiana»; **secularismo** es «una ideología, un intento de encontrar la causa, el origen y la naturaleza del hombre dentro de los límites del espacio y del tiempo». La secularización, por tanto, no es la enfermedad sino el resultado del influjo de veinte siglos de cristianismo manifestado en el amor al prójimo; el secularismo, en cambio, es la ideología que encierra al hombre en lo intramundano (cap. VIII).
+
+Para explicar la relación entre la Iglesia y el mundo recurre a las parábolas del Reino: el Reino y el mundo son términos correlativos, como el campo y el tesoro escondido (Mt 13,44); la levadura en la masa irradia su influjo y la semilla de mostaza absorbe energía de la tierra y del aire. Son «las dos influencias del Reino de Dios en el mundo: la difusión de lo divino y la absorción de lo cósmico y humano». Nada hay de dramático en ese proceso: no es una convulsión violenta, sino un proceso silencioso y persistente que alcanza hasta los confines de la tierra, en el que los laicos tienen un papel propio como testigos de Dios en todos los ámbitos de la vida (cap. VIII).
+
+> «La secularización no es otra cosa que el influjo de veinte siglos de cristianismo, que se expresa y se manifiesta en el amor al prójimo» (IFT, cap. VIII).
+
 ## Distinciones importantes
 
 - Secularización (pérdida de referencias cristianas compartidas) vs. secularismo (ideología que niega explícitamente la trascendencia)
@@ -62,3 +72,4 @@ Se relaciona con [[evangelización]], [[nueva_evangelización]], [[cultura]], [[
 - [DC-Convivium, 09.02.2026]
 - [CIS, «La catedral interior del sacerdote», 2026]
 - PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- IFT (Fulton J. Sheen, *In the Fullness of Time*), cap. VIII.
