@@ -19,7 +19,7 @@ tags: ["resumen", "evangelization and culture - 11"]
 - [[cristo_viator_y_comprehensor]] — simultáneamente peregrino y contemplador
 - [[viático]] — el pan del camino que contiene la meta
 - [[eucaristía]] — anticipo del banquete final
-- [[theosis]] — participación en la vida y misión de Cristo
+- [[divinización|theosis]] — participación en la vida y misión de Cristo
 
 ## Contenido
 

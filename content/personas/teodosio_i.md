@@ -26,7 +26,7 @@ Al establecer el cristianismo como religión del Estado y convocar el Concilio d
 Rivero señala que Teodosio «proclama al cristianismo religión del estado» en el 380, persigue a herejes y paganos y derrumba los templos paganos. El autor subraya que «religión y estado vivían juntas» y que el evangelio iba penetrando poco a poco en la sociedad. También menciona que Teodosio convocó el Concilio de Constantinopla (381), en el que «definió la divinidad del Espíritu Santo», ampliando el credo de Nicea (HI, cap. 8).
 
 ## Ver también
-[[concilio_de_constantinopla_i]] [[credos]] [[cesaropapismo]]
+[[concilio_de_constantinopla_i]] [[credo|credos]] [[cesaropapismo]]
 
 ## Referencias
 - [[historia_de_la_iglesia_rivero]]

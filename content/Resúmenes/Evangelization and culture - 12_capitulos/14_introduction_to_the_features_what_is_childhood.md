@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization_and_culture_12", "infancia", "introducción_te
 
 ## Conceptos básicos referenciados
 
-- [[infancia]] — "enigma glorioso, gracia incomparable", mezcla de bueno y malo
+- [[niño|infancia]] — "enigma glorioso, gracia incomparable", mezcla de bueno y malo
 - [[inocencia]] — inocencia suprema y vulnerabilidad delicada
 - [[esperanza]] — mirada heavenward inconquistable, sin vergüenza
 - [[fiódor_dostoievski]] — *El Idiota*: "Siempre me ha impresionado lo poco que los adultos entienden a los niños... A través de los niños el alma es sanada"

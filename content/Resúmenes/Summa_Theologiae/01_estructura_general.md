@@ -29,7 +29,7 @@ La *Suma Teológica* de [[santo_tomás_de_aquino]] es una obra completa de teolo
 | Parte | Nombre | Contenido | Cuestiones |
 |---|---|---|---|
 | Primera parte (Prima) | I | [[dios]], la [[creación]], los [[ángeles]], el [[hombre]], el cosmos | 119 |
-| Primera sección de la segunda parte (Prima secundae) | I-II | El fin del [[hombre]], [[actos_humanos]], [[pasiones]], [[hábitos]], [[virtudes]], [[ley_moral_natural]], [[gracia]] | 114 |
+| Primera sección de la segunda parte (Prima secundae) | I-II | El fin del [[hombre]], [[actos_humanos]], [[pasiones]], [[hábito|hábitos]], [[virtudes]], [[ley_moral_natural]], [[gracia]] | 114 |
 | Segunda sección de la segunda parte (Secunda secundae) | II-II | [[virtudes_teologales]] y [[virtudes_cardinales]], [[carismas]], estados de vida | 189 |
 | Tercera parte (Tertia) | III | [[jesucristo]], los [[sacramentos]] | 90 |
 
@@ -39,7 +39,7 @@ La Primera parte trata de [[dios]] en su unitrinidad, de la [[creación]] como e
 
 ### Primera sección de la segunda parte (Prima secundae)
 
-Esta sección estudia al [[hombre]] como principio de sus propias acciones, poseedor de [[libre_albedrío]]. Trata del fin último y la [[bienaventuranza]] (q.1–5), los [[actos_humanos]] (q.6–21), las [[pasiones]] del alma (q.22–48), los [[hábitos]] (q.49–54), las [[virtudes]] en general (q.55–67), los [[dones_del_espíritu_santo]], [[bienaventuranzas]] y frutos (q.68–70), vicios y [[pecado]] (q.71–89), la [[ley]] en general y sus especies (q.90–108), la [[gracia]] (q.109–113), y el [[mérito]] (q.114).
+Esta sección estudia al [[hombre]] como principio de sus propias acciones, poseedor de [[libre_albedrío]]. Trata del fin último y la [[bienaventuranza]] (q.1–5), los [[actos_humanos]] (q.6–21), las [[pasiones]] del alma (q.22–48), los [[hábito|hábitos]] (q.49–54), las [[virtudes]] en general (q.55–67), los [[dones_del_espíritu_santo]], [[bienaventuranzas]] y frutos (q.68–70), vicios y [[pecado]] (q.71–89), la [[ley]] en general y sus especies (q.90–108), la [[gracia]] (q.109–113), y el [[mérito]] (q.114).
 
 ### Segunda sección de la segunda parte (Secunda secundae)
 

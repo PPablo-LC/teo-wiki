@@ -14,7 +14,7 @@ tags: ["resumen", "inmaculada_concepción", "santidad_de_maría", "liturgia", "n
 
 - [[inmaculada_concepción]] — Preservación de María del pecado original desde su concepción.
 - [[santidad_de_maría]] — María como modelo de santidad para todos los cristianos.
-- [[newman]] — Cardenal John Henry Newman; reflexionó sobre la conveniencia de la Inmaculada.
+- [[john_henry_newman|Newman]] — Cardenal John Henry Newman; reflexionó sobre la conveniencia de la Inmaculada.
 - [[efesios_1_4-6]] — «Elegidos para ser santos y sin mancha»; aplicado litúrgicamente a María.
 - [[fiesta_inmaculada_concepción]] — 8 de diciembre; fiesta de precepto en muchos países.
 - [[teología_marial]] — Las verdades sobre María apuntan siempre a Cristo.

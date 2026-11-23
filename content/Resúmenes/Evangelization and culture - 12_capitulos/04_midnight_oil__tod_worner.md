@@ -14,7 +14,7 @@ tags: ["resumen", "evangelization_and_culture_12", "paternidad", "maria", "reson
 
 - [[paternidad]] — influencia formativa, tiempo de calidad y cantidad
 - [[maría]] — encuentro con María como madre a través de la experiencia paterna (Pietà, Vía Crucis)
-- [[infancia]] — inocencia, maravilla, simplicidad auténtica
+- [[niño|infancia]] — inocencia, maravilla, simplicidad auténtica
 - [[lectura_compartida]] — releer cuentos con los hijos (Tolkien, Lewis, mitología griega, Chesterton)
 - [[resonancia]] — concepto de Hartmut Rosa: encuentro con lo incontrolable que nos toca, mueve y vivifica
 - [[control]] — obsesión moderna por dominar lo incontrolable, genera inquietud

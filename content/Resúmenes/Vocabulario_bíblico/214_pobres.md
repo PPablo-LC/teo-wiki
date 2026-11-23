@@ -16,7 +16,7 @@ tags: ["resumen", "vocabulario bíblico"]
 
 - [[retribución]] — la retribución divina
 - [[riquezas]] — las riquezas como recompensa
-- [[enemigos]] — los enemigos de los pobres
+- [[enemigo|enemigos]] — los enemigos de los pobres
 - [[soberbia]] — los soberbios como enemigos de los pobres
 - [[impío]] — los impíos
 - [[confianza]] — el refugio en Dios
@@ -26,7 +26,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[bienaventuranza]] — la bienaventuranza de los pobres
 - [[fariseos]] — contra la suficiencia ilusoria del fariseo
 - [[justicia]] — la justicia que confía en sí misma
-- [[niños]] — la semejanza de los pobres con los niños
+- [[niño|niños]] — la semejanza de los pobres con los niños
 - [[limosna]] — la limosna como elemento de la piedad
 - [[iglesia]] — la Iglesia de los pobres
 
@@ -50,7 +50,7 @@ En esto coincidían los profetas con la ley *Ex 20,15ss* *22,21-26* *23,6*; el D
 
 ### III. La oración y el alma de los «pobres de Yahveh»
 
-«El grito de los pobres» que se eleva hasta los oídos de Dios *Job 34,28* resuena con frecuencia en los salmos: los lamentos de los indigentes y también la oración de los perseguidos y de los afligidos, todos los cuales forman parte de la familia de los pobres *Sal 9-10* *22* *25* *69*. Esperan su salvación de Yahveh, como el «pobre» Jeremías *Jer 20,12s*. Sus [[enemigos]] son los de Dios, los [[soberbia|soberbios]] *Sal 18,28* y los [[impío|impíos]] *9,14-19*. Y su aflicción es un título a su amor *10,14*.
+«El grito de los pobres» que se eleva hasta los oídos de Dios *Job 34,28* resuena con frecuencia en los salmos: los lamentos de los indigentes y también la oración de los perseguidos y de los afligidos, todos los cuales forman parte de la familia de los pobres *Sal 9-10* *22* *25* *69*. Esperan su salvación de Yahveh, como el «pobre» Jeremías *Jer 20,12s*. Sus [[enemigo|enemigos]] son los de Dios, los [[soberbia|soberbios]] *Sal 18,28* y los [[impío|impíos]] *9,14-19*. Y su aflicción es un título a su amor *10,14*.
 
 El pobre de los salmos aparece así como el amigo y el servidor de Yahveh *86,1s*, en quien se refugia con [[confianza]], al que [[temor|teme]] y [[buscar|busca]] *34,5-11*. Los traductores griegos del salterio, para traducir *'anav*, prefirieron *praus*, un hombre «manso», «sosegado» aun en la prueba; con razón podemos traducir *'anavim* por «humildes» *Sal 10,17* *18,28* *37,11* *Is 26,5s*. Su disposición fundamental es la [[humildad]], esa *anavah* que el AT relaciona con la justicia *Sof 2,3*, con el «temor de Dios» *Prov 15,33* *22,4* y con la fe o la fidelidad *Eclo 45,4* *Num 12,3*.
 

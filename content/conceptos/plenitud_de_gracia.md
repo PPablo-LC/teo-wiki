@@ -56,11 +56,11 @@ Por eso María es llamada «llena de gracia», «no por lo que toca a la misma g
 
 ## Relaciones doctrinales
 
-La plenitud de gracia se comprende desde la [[unión_hipostática]] y la [[gracia_santificante]]; es la fuente de la [[gracia_de_adopcion]] de los miembros y del [[merito_sobrenatural]] de Cristo; explica la [[mediación_de_maría]] y la [[inmaculada_concepción]], y se ordena a la [[teosis_divinizacion]] del creyente y a la [[gloria]].
+La plenitud de gracia se comprende desde la [[unión_hipostática]] y la [[gracia_santificante]]; es la fuente de la [[gracia_de_adopcion]] de los miembros y del [[merito_sobrenatural]] de Cristo; explica la [[mediación_de_maría]] y la [[inmaculada_concepción]], y se ordena a la [[divinización]] del creyente y a la [[gloria]].
 
 ## Ver también
 
-[[gracia_santificante]], [[unión_hipostática]], [[gracia_de_adopcion]], [[inmaculada_concepción]], [[mediación_de_maría]], [[cabeza_de_la_iglesia]], [[teosis_divinizacion]], [[plenitud]], [[maría]]
+[[gracia_santificante]], [[unión_hipostática]], [[gracia_de_adopcion]], [[inmaculada_concepción]], [[mediación_de_maría]], [[cabeza_de_la_iglesia]], [[divinización]], [[plenitud]], [[maría]]
 
 ## Referencias
 

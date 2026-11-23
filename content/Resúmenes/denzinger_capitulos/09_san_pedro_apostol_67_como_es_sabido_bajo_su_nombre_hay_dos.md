@@ -17,7 +17,7 @@ tags: ["resumen", "denzinger capitulos"]
 - [[obispo]] — sucesor de los Apóstoles
 - [[presbítero]] — sacerdote en la jerarquía eclesiástica
 - [[diácono]] — ministerio de servicio en la Iglesia
-- [[laico]] — fiel que no pertenece al clero ordenado
+- [[laicos|laico]] — fiel que no pertenece al clero ordenado
 - [[carta_de_san_clemente]] — carta a los corintios sobre la disciplina eclesiástica
 
 ## Contenido
@@ -46,4 +46,4 @@ Carta de San Clemente I a los corintios (D-41), que constituye el testimonio má
 
 ### De la jerarquía y del estado laical (San Clemente I)
 
-Fragmento (D-42) que distingue los estados de vida en la Iglesia: [[obispo]] (Sumo Sacerdote), [[presbítero]] (sacerdotes), [[diácono]] (levitas) y [[laico]]. Cada uno debe permanecer en su ministerio y dar gracias a Dios en buena conciencia.
+Fragmento (D-42) que distingue los estados de vida en la Iglesia: [[obispo]] (Sumo Sacerdote), [[presbítero]] (sacerdotes), [[diácono]] (levitas) y [[laicos|laico]]. Cada uno debe permanecer en su ministerio y dar gracias a Dios en buena conciencia.

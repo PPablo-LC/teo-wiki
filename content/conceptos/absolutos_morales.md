@@ -49,11 +49,11 @@ La encíclica recuerda finalmente la base antropológica: la ley natural «se re
 
 ## Relaciones doctrinales
 
-Los absolutos morales se fundan en la [[ley_moral_natural]], el [[bien]] y la [[dignidad_de_la_persona]]; se conocen por la [[conciencia]] y se custodian por el [[magisterio]]; se relacionan con los [[actos_intrinsecamente_malos]], el [[teleologismo_moral]] y el [[proporcionalismo]], y se ordenan a la [[verdad_moral]] y a la [[libertad]].
+Los absolutos morales se fundan en la [[ley_moral_natural]], el [[bien]] y la [[dignidad_de_la_persona]]; se conocen por la [[conciencia]] y se custodian por el [[magisterio]]; se relacionan con los [[intrinsece_malum|actos intrínsecamente malos]], el [[teleologismo_moral]] y el [[proporcionalismo]], y se ordenan a la [[verdad_moral]] y a la [[libertad]].
 
 ## Ver también
 
-[[actos_intrinsecamente_malos]], [[ley_moral_natural]], [[verdad_moral]], [[conciencia]], [[libertad]], [[proporcionalismo]], [[consecuencialismo]], [[opción_fundamental]], [[magisterio]], [[bien]]
+[[intrinsece_malum|actos intrínsecamente malos]], [[ley_moral_natural]], [[verdad_moral]], [[conciencia]], [[libertad]], [[proporcionalismo]], [[consecuencialismo]], [[opción_fundamental]], [[magisterio]], [[bien]]
 
 ## Referencias
 

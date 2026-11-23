@@ -33,7 +33,7 @@ uno de los grandes errores antropológicos de la modernidad.
   política; su herencia persiste en el [[escepticismo]] axiológico y las
   formas suaves de relativismo.
 - **Respuesta de la Iglesia**: condena del «socialismo cristiano»
-  ([[simbolismo|no confundir]]: *Quod apostolici muneris*, 1878), *Rerum
+  (no confundir: *Quod apostolici muneris*, 1878), *Rerum
   novarum* (1891), y la condena definitiva del marxismo ateo en *Divini
   Redemptoris* (1937) y el *CompDS*; el testimonio del cardenal
   [[beato_stefan_wyszyński|Wyszyński]] y de la Iglesia del silencio frente

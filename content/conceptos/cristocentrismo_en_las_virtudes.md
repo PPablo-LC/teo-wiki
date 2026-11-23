@@ -130,8 +130,8 @@ De este modo, sin cambiar la configuración clásica de las virtudes, Buenaventu
 
 ## Ver también
 
-- [[buenaventura]]
-- [[balthasar]]
+- [[san_buenaventura|Buenaventura]]
+- [[hans_urs_von_balthasar|Balthasar]]
 - [[livio_melina]]
 - [[sharing_in_christs_virtues]]
 - [[bien_de_la_persona]]

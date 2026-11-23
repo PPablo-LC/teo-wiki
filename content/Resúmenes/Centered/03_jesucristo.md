@@ -11,7 +11,7 @@ tags: ["cristología", "encarnación", "cruz", "resurrección"]
 
 ## Conceptos básicos referenciados
 
-[[cristocentrismo]], [[encarnación]], [[cruz]], [[resurrección_de_cristo]], [[eucaristía]], [[theosis]]
+[[cristocentrismo]], [[encarnación]], [[cruz]], [[resurrección_de_cristo]], [[eucaristía]], [[divinización|theosis]]
 
 ## Contenido
 

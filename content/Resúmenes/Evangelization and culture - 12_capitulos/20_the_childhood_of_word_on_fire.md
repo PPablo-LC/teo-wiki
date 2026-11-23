@@ -12,11 +12,11 @@ tags: ["resumen", "evangelization_and_culture_12", "testimonios_personales", "in
 
 ## Conceptos básicos referenciados
 
-- [[infancia]] — "el misterio de la infancia nunca termina realmente; solo cambian los roles" (Caroline Foreman Maurer)
+- [[niño|infancia]] — "el misterio de la infancia nunca termina realmente; solo cambian los roles" (Caroline Foreman Maurer)
 - [[fe_familiar]] — educación católica, Misa semanal, oración, sacramentos como centro de vida familiar
 - [[imaginación]] — historias, superhéroes, juguetes, remakes de filmes, mundos de Tolkien/Lewis → florecimiento imaginativo
 - [[santidad_infantil]] — "ser niño es ser santo": confianza total en padres = confianza de santos en Dios (Brian A'Hearn)
-- [[teosis_divinización]] — Hans Urs von Balthasar: *Unless You Become Like This Child*; teología de la filiación adoptiva (Rom 8,15); "alcanzamos madurez haciéndonos niños espirituales" (Robert Mixa)
+- [[divinización]] — Hans Urs von Balthasar: *Unless You Become Like This Child*; teología de la filiación adoptiva (Rom 8,15); "alcanzamos madurez haciéndonos niños espirituales" (Robert Mixa)
 - [[nueva_evangelización]] — colocar teosis/filialidad en centro del llamado a nueva evangelización (Juan Pablo II)
 - [[sufrimiento_y_gloria]] — "padecimientos presente no comparables a gloria por revelarse" (Rom 8,18); días oscuros vistos como luz en retrospectiva (Tom Martín)
 - [[juego_y_aventura]] — juguetes con personalidad (Lucky One, Patcholo, Lassie...), historias épicas bajo cobija de oscuridad (Gianna Torres)

@@ -17,7 +17,7 @@ Máximo órgano de gobierno de la Legión de Cristo, que reúne a los capitulare
 
 ## Ver también
 
-[[legión_de_cristo]], [[capítulo_general_extraordinario_2014]], [[director_general]], [[constituciones]], [[renovación_de_la_iglesia]]
+[[legión_de_cristo]], [[capítulo_general_extraordinario_2014]], [[director_general]], [[constituciones_legionarios_de_cristo|constituciones]], [[renovación_de_la_iglesia]]
 
 ## Referencias
 

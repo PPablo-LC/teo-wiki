@@ -37,11 +37,11 @@ Tras la muerte de Francisco (1226), surgieron tensiones sobre la interpretación
 
 ## Relaciones doctrinales
 
-Se relaciona con [[francisco_de_asís]], [[pobreza_evangelica]], [[vida_consagrada]], [[obediencia]], [[fraternidad]], [[orden_franciscana]], [[minoridad_evangelica]].
+Se relaciona con [[san_francisco_de_asís|Francisco de Asís]], [[pobreza_evangelica]], [[vida_consagrada]], [[obediencia]], [[fraternidad]], [[orden_franciscana]], [[minoridad_evangelica]].
 
 ## Ver también
 
-[[francisco_de_asís]], [[pobreza_evangelica]], [[orden_franciscana]], [[vida_consagrada]]
+[[san_francisco_de_asís|Francisco de Asís]], [[pobreza_evangelica]], [[orden_franciscana]], [[vida_consagrada]]
 
 ## Referencias
 

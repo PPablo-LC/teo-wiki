@@ -102,7 +102,7 @@ En *Attraverso la compagnia dei credenti* (TACDC), Giussani indica que la noveda
 - [[kierkegaard]] — «lo importante: haber visto una vez algo...»
 - [[pascua]] — fundamento objetivo: «Mi has liberado»
 - [[mal]] — como ocasión de retorno, no de definición
-- [[presencia]] — Cristo como «compañero hasta el fin del tiempo»
+- [[presencia_de_cristo]] — Cristo como «compañero hasta el fin del tiempo»
 - [[conveniencia_humana_de_la_fe]] — la identificación hace orgánica la fe
 - [[luigi_giussani]] — autor de la exposición
 

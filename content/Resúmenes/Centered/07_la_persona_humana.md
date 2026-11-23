@@ -11,7 +11,7 @@ tags: ["antropología_teológica", "dignidad_humana", "vocación", "santidad"]
 
 ## Conceptos básicos referenciados
 
-[[dignidad_humana]], [[imago_dei]], [[theosis]], [[vocación]], [[santidad]], [[comunión_de_los_santos]]
+[[dignidad_humana]], [[imago_dei]], [[divinización|theosis]], [[vocación]], [[santidad]], [[comunión_de_los_santos]]
 
 ## Contenido
 

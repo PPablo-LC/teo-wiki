@@ -15,7 +15,7 @@ tags: ["resumen", "giussani", "melancolía", "oración", "sentido_religioso"]
 - [[conocimiento]] / [[amor]] / [[tú]] / [[heinrich_schlier]]
 - [[dios]] / [[misterio]] / [[ateísmo|ateísmo práctico]]
 - [[creación]] / [[signo]] / [[naturaleza]]
-- [[sentido_religioso]] / [[melancolía]] / [[promesa]] / [[presencia]] / [[budismo]]
+- [[sentido_religioso]] / [[melancolía]] / [[promesa]] / [[presencia_de_cristo]] / [[budismo]]
 - [[oración]] / [[existencia_de_dios]] / [[ídolos]] / [[gratitud]]
 - [[paz]] / [[comunión]]
 
@@ -39,7 +39,7 @@ Para el no cristiano la naturaleza es como piedras y tierra; para el cristiano �
 
 ### Los amigos budistas y la melancolía
 
-«Per la malinconia» («Torna a Surriento») es «la definición del senso religioso como esencia dell'uomo […] l'uomo che attende la felicità»; el sentido del Misterio lo tienen todos, pero el *tu* al Misterio inaugura el caminar y el destino. «Se c'è una promessa, c'è una Presenza» ([[melancolía]], [[promesa]], [[presencia]]).
+«Per la malinconia» («Torna a Surriento») es «la definición del senso religioso como esencia dell'uomo […] l'uomo che attende la felicità»; el sentido del Misterio lo tienen todos, pero el *tu* al Misterio inaugura el caminar y el destino. «Se c'è una promessa, c'è una Presenza» ([[melancolía]], [[promesa]], [[presencia_de_cristo]]).
 
 ### La oración para reconocer la existencia de Dios
 

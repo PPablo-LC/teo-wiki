@@ -17,7 +17,7 @@ El [[concilio]] de Letrán de 649 fue convocado por el papa [[martín_i]] (sin a
 
 ## Relaciones
 
-[[concilio]], [[martín_i]], [[monotelismo]], [[monoenergismo]], [[voluntad_de_cristo]], [[operación_de_cristo]], [[naturaleza_humana_de_cristo]], [[naturaleza_divina_de_cristo]]
+[[concilio]], [[martín_i]], [[monotelismo]], [[monoenergismo]], [[voluntad_de_cristo]], [[operación_de_cristo]], [[naturaleza_humana_de_cristo]], [[divinidad_de_cristo|naturaleza divina de Cristo]]
 
 ## Ver también
 

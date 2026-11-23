@@ -61,7 +61,7 @@ Y señala la medida del mérito: «El mérito sobrenatural se valora, ante todo,
 
 ## Relaciones doctrinales
 
-El mérito sobrenatural presupone la [[gracia_santificante]] y la [[gracia_de_adopcion]]; se ejerce por las [[virtudes_infusas]], especialmente la [[caridad]], y por los [[dones_infusos]]; se ordena a la [[gloria]] y al aumento de la gracia, y se distingue de la [[satisfacción]] y de la [[indulgencia]]. Se comprende desde la [[justificación]] y desde la [[libertad]] humana movida por la gracia.
+El mérito sobrenatural presupone la [[gracia_santificante]] y la [[gracia_de_adopcion]]; se ejerce por las [[virtudes_infusas]], especialmente la [[caridad]], y por los [[dones_del_espíritu_santo|dones infusos]]; se ordena a la [[gloria]] y al aumento de la gracia, y se distingue de la [[satisfacción]] y de la [[indulgencia]]. Se comprende desde la [[justificación]] y desde la [[libertad]] humana movida por la gracia.
 
 ## Ver también
 

@@ -71,6 +71,8 @@ _(Todos los pares de `personas/` han sido resueltos en esta auditoría — ver �
 
 - `teología_del_cuerpo` / `teologia_del_cuerpo` (2026-10-31): fusionado (SmTh Ia q.75-76, JPII *Man and Woman He Created Them*, estructura en tres bloques originario/corredentor/escatológico, distinciones y relaciones ampliadas); `teologia_del_cuerpo` → eliminada (contenido integrado); 4 archivos repuntados.
 
+- `divinización` / `teosis_divinizacion` (2026-11-23): duplicado de sinónimos, no de tilde; fusionado (CEC §§460/1129/1692/1988, TPCr con la distinción entre divinización moral y física, RM §51, *Las siete lámparas*, EAC-18 14 y 16, STA, STR; distinciones y relaciones unificadas); canónico `divinización` (36 enlaces entrantes frente a 5, y más fuentes); `teosis_divinizacion` → eliminada (contenido integrado); 4 archivos repuntados.
+
 Pendiente: (ninguno — los 22 pares han sido resueltos).
 
 ## Duplicados semánticos resueltos (mismo referente, título distinto)

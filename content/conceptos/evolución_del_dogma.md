@@ -29,7 +29,7 @@ Los autores [[modernismo|modernistas]] sostenían que el dogma evoluciona en su 
 
 ## Relaciones
 
-Se relaciona con [[dogma]], [[modernismo]], [[lamentabili]], [[pascendi]], [[revelación]], [[magisterio_de_la_iglesia]], [[tradición_apostólica]], [[newman]]
+Se relaciona con [[dogma]], [[modernismo]], [[lamentabili]], [[pascendi]], [[revelación]], [[magisterio_de_la_iglesia]], [[tradición_apostólica]], [[john_henry_newman|Newman]]
 
 ## Ver también
 

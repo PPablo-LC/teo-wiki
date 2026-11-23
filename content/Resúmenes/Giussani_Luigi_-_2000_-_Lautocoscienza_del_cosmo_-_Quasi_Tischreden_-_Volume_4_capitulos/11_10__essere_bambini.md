@@ -13,7 +13,7 @@ tags: ["resumen", "giussani", "sencillez", "presencia", "espera"]
 ## Conceptos básicos referenciados
 
 - [[sencillez]] / [[estupor]] / [[admiración]] / [[madurez]]
-- [[significado]] / [[presencia]] / [[acontecimiento]] / [[gratuidad]]
+- [[significado]] / [[presencia_de_cristo]] / [[acontecimiento]] / [[gratuidad]]
 - [[espera]] / [[desapego]] / [[mentira]] / [[oración]] / [[deseo]]
 - [[oración]] / [[imitación_de_cristo]]
 

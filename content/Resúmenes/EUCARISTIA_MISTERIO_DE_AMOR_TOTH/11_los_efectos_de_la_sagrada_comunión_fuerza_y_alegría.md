@@ -19,7 +19,7 @@ tags: ["resumen", "eucaristia misterio de amor toth"]
 - [[fuerza]] — la comunión fortalece para la vida y la lucha
 - [[alegría]] — la comunión es banquete y fiesta
 - [[ignacio de antioquía]] — «medicina de la inmortalidad»
-- [[newman]] · [[felicitas y perpétua]] — testimonios citados
+- [[john_henry_newman|Newman]] · [[felicitas y perpétua]] — testimonios citados
 
 ## Contenido
 

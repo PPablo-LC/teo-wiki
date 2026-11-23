@@ -14,7 +14,7 @@ tags: ["resumen", "teología_pastoral", "cultura", "evangelización"]
 
 ## Conceptos básicos referenciados
 
-- [[edith_stein]] — modelo del testimonio
+- [[beata_edith_stein|Edith Stein]] — modelo del testimonio
 - [[revolución_sexual]] — la estrategia cultural que se describe
 - [[iglesia]] — la comunidad como respuesta
 - [[libertad_religiosa]] — el espacio de la oposición
@@ -56,6 +56,6 @@ mundo— es el principio de la sabiduría que permite actuar con libertad.
 
 ## Ver también
 
-[[living_the_truth_in_love]] [[peter_herbeck]] [[edith_stein]] [[iglesia]]
+[[living_the_truth_in_love]] [[peter_herbeck]] [[beata_edith_stein|Edith Stein]] [[iglesia]]
 [[revolución_sexual]] [[libertad_religiosa]] [[temor_de_dios]]
 [[nueva_evangelización]]

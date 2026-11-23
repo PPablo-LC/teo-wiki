@@ -16,7 +16,7 @@ tags: ["resumen", "bibliografía", "teología_moral"]
 
 - [[veritatis_splendor]] — eje magisterial
 - [[summa_theologiae]] — fuente principal de Tomás
-- [[buenaventura]] y [[balthasar]]
+- [[san_buenaventura|Buenaventura]] y [[hans_urs_von_balthasar|Balthasar]]
 - [[pinckaers]] — crítica al manualismo
 - [[caffarra]] y [[rhonheimer]] — bien de la persona y razón práctica
 

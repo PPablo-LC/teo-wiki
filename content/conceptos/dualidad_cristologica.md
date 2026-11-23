@@ -53,11 +53,11 @@ Y recuerda que las divisiones posteriores, «porque interpretaban diversamente e
 
 ## Relaciones doctrinales
 
-La dualidad cristológica se define en los [[concilios_cristologicos]] y constituye la [[unión_hipostática]]; se explica por la [[comunicación_de_idiomas]] y la [[persona_de_cristo]]; sostiene la [[redención_de_cristo]] y los [[sacramentos]], y se distingue de la [[naturaleza_divina_de_cristo]] y de la [[filiación_divina_de_cristo]] solo por razón.
+La dualidad cristológica se define en los [[concilios_cristologicos]] y constituye la [[unión_hipostática]]; se explica por la [[comunicación_de_idiomas]] y la [[persona_de_cristo]]; sostiene la [[redención_de_cristo]] y los [[sacramentos]], y se distingue de la [[divinidad_de_cristo|naturaleza divina de Cristo]] y de la [[filiación_divina_de_cristo]] solo por razón.
 
 ## Ver también
 
-[[unión_hipostática]], [[concilios_cristologicos]], [[comunicación_de_idiomas]], [[persona_de_cristo]], [[monofisismo]], [[nestorianismo]], [[monotelismo]], [[naturaleza_divina_de_cristo]], [[humanidad_de_cristo]], [[cristología]]
+[[unión_hipostática]], [[concilios_cristologicos]], [[comunicación_de_idiomas]], [[persona_de_cristo]], [[monofisismo]], [[nestorianismo]], [[monotelismo]], [[divinidad_de_cristo|naturaleza divina de Cristo]], [[humanidad_de_cristo]], [[cristología]]
 
 ## Referencias
 

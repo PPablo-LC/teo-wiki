@@ -24,7 +24,7 @@ tags: ["resumen", "cristología", "divinidad_de_cristo", "evangelios", "teofaní
 - [[divinidad_de_cristo]] — reclamada en los cuatro Evangelios (marcador 4-0)
 - [[interpretación_de_la_escritura]] — revelación gradual judía mediante parábolas, acertijos y alusiones al AT
 - [[cristología]] — las epístolas paulinas confirman la cristología divina
-- [[noviazgo_místico]] — Jesús como Esposo divino de Israel, tema de *Jesús the Bridegroom*
+- [[cristo_esposo|noviazgo místico]] — Jesús como Esposo divino de Israel, tema de *Jesús the Bridegroom*
 
 ## Introducción: origen de «A Case for Jesús»
 Matt Nelson (Word on Fire Institute) entrevista al Dr. Brant Pitre, profesor distinguido de investigación en el Augustine Institute y antes en Notre Dame Seminary. El libro **«A Case for Jesús»** nació de un reto del obispo Robert Barron: refutar la analogía del «juego del teléfono»* usada contra la fiabilidad de los Evangelios. Tras una conversación en coche hace quince años, Barron escribió el epílogo.
@@ -53,6 +53,6 @@ Los **cuatro** Evangelios muestran a Jesús reclamando la divinidad: el marcador
 ## Recursos recomendados
 - *A Case for Jesús* (Pitre)
 - *Catholic Introduction to the Bible*, vol. I (AT) — Pitre & Bergsma
-- *Jesús the Bridegroom* (Pitre) — Jesús como Esposo divino, la Esposa de Israel ([[noviazgo_místico]])
+- *Jesús the Bridegroom* (Pitre) — Jesús como Esposo divino, la Esposa de Israel ([[cristo_esposo|noviazgo místico]])
 - *Paul: A New Covenant Jew* — Pitre, Barber & Kincaid
 - Word on Fire Bible

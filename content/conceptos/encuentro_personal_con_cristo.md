@@ -48,7 +48,7 @@ El encuentro personal con Cristo es la clave de la introducción de ODPC: «Cris
 - Se ordena al [[discipulado]] y al [[seguimiento_de_cristo]]: el encuentro rehace vidas y reconfigura el yo
 - Se expresa y se sostiene en la [[eucaristía]] ([[presencia_real]], fracción del pan de Emaús) y en la vida del [[cuerpo_místico]]
 - Se integra en el [[catecumenado]] y el [[rito_de_iniciación_cristiana_de_adultos]], y se profundiza en la [[mistagogía]]
-- Se distingue de la adhesión puramente intelectual: importa inmenso acertar con la [[doctrina]], pero el cristianismo comienza por el encuentro con una persona
+- Se distingue de la adhesión puramente intelectual: importa inmenso acertar con la [[enseñanza_de_cristo|doctrina]], pero el cristianismo comienza por el encuentro con una persona
 
 ## Ver también
 

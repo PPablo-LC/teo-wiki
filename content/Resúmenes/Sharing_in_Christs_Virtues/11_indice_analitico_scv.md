@@ -16,7 +16,7 @@ tags: ["resumen", "índice", "teología_moral"]
 
 - [[virtud]] — entrada con mayor número de remisiones
 - [[caridad]], [[prudencia]], [[conciencia_moral]]
-- [[balthasar]], [[buenaventura]], [[santo_tomás_de_aquino]]
+- [[hans_urs_von_balthasar|Balthasar]], [[san_buenaventura|Buenaventura]], [[santo_tomás_de_aquino]]
 - [[veritatis_splendor]]
 
 ## Contenido

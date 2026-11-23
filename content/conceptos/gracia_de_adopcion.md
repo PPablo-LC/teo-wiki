@@ -54,11 +54,11 @@ Santo Tomás funda el carácter meritorio de las obras del justo en la adopción
 
 ## Relaciones doctrinales
 
-La gracia de adopción presupone la [[redención_de_cristo]] y la [[justificación]], se identifica realmente con la [[gracia_santificante]] y se recibe en el [[bautismo]]; se despliega en la [[filiación_divina]] consciente, en la [[inhabitación_trinitaria]] y en la [[oración]] filial («Abbá, Padre»). Es el fundamento del [[merito_sobrenatural]] y de la [[esperanza_cristiana]] de la gloria, y se ordena a la [[teosis_divinizacion]] del creyente.
+La gracia de adopción presupone la [[redención_de_cristo]] y la [[justificación]], se identifica realmente con la [[gracia_santificante]] y se recibe en el [[bautismo]]; se despliega en la [[filiación_divina]] consciente, en la [[inhabitación_trinitaria]] y en la [[oración]] filial («Abbá, Padre»). Es el fundamento del [[merito_sobrenatural]] y de la [[esperanza_cristiana]] de la gloria, y se ordena a la [[divinización]] del creyente.
 
 ## Ver también
 
-[[gracia_santificante]], [[filiación_divina]], [[justificación]], [[bautismo]], [[redención_de_cristo]], [[merito_sobrenatural]], [[inhabitación_trinitaria]], [[teosis_divinizacion]], [[heredad]], [[espíritu_santo]]
+[[gracia_santificante]], [[filiación_divina]], [[justificación]], [[bautismo]], [[redención_de_cristo]], [[merito_sobrenatural]], [[inhabitación_trinitaria]], [[divinización]], [[heredad]], [[espíritu_santo]]
 
 ## Referencias
 

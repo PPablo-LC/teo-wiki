@@ -15,7 +15,7 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 - [[voto_privado]] — voto de caridad y unidad específico de los Legionarios de Cristo
 - [[obediencia]] — fundamento de la vida religiosa legionaria
 - [[caridad]] — la virtud de la unidad con Dios y los hombres
-- [[constituciones]] — norma suprema de vida del legionario
+- [[constituciones_legionarios_de_cristo|constituciones]] — norma suprema de vida del legionario
 - [[dirección_espiritual]] — medio para el fervor y la perseverancia
 - [[espíritu_santo]] — el guía de la Iglesia y de la Legión
 

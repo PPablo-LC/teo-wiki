@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization_and_culture_12", "poema", "g_k_chesterton", "i
 ## Conceptos básicos referenciados
 
 - [[g_k_chesterton]] — autor, defensor de la infancia y lo ordinario
-- [[infancia]] — niños que "serán hombres y mujeres" (destino eterno) vs. anémonas (criaturas temporales)
+- [[niño|infancia]] — niños que "serán hombres y mujeres" (destino eterno) vs. anémonas (criaturas temporales)
 - [[juego_con_niños]] — actividad de mayor valor que "embotellar anémonas" (coleccionismo científico estéril)
 - [[grandes_hombres]] — Shakespeare, Browning, Darwin, Gladstone, Huxley, obispos: todos deberían "jugar con niños"
 - [[sabiduría_verdadera]] — si uno sube a las estrellas y halla secretos de los ángeles, lo mejor y más útil es volver a jugar con niños

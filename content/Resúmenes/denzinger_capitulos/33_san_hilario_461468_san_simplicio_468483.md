@@ -13,8 +13,8 @@ tags: ["resumen", "denzinger capitulos"]
 ## Conceptos básicos referenciados
 
 - [[tradición_apostólica]] — doctrina transmitida por los Apóstoles
-- [[inmutabilidad_de_la_doctrina]] — la fe no cambia con el tiempo
-- [[depositum_fidei]] — depósito de la fe confiado a la Iglesia
+- [[desarrollo_doctrinal|inmutabilidad de la doctrina]] — la fe no cambia con el tiempo
+- [[depósito_de_la_fe|depositum fidei]] — depósito de la fe confiado a la Iglesia
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
 - [[jerarquía_eclesiástica]] — orden de autoridad en la Iglesia
 - [[infalibilidad_papal]] — privilegio del papa en materia de fe y moral
@@ -31,4 +31,4 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## SAN HILARIO, 461-468 — SAN SIMPLICIO, 468-483
 
-Documentos que afirman la [[inmutabilidad_de_la_doctrina]]: la fe confesada por la Sede Apostólica no cambia con el tiempo. Quien se aparta de la frontera de la fe establecida por los Padres debe ser depuesto, pues la doctrina verdadera es una e inmutable, confiada a la Iglesia como [[depositum_fidei]].
+Documentos que afirman la [[desarrollo_doctrinal|inmutabilidad de la doctrina]]: la fe confesada por la Sede Apostólica no cambia con el tiempo. Quien se aparta de la frontera de la fe establecida por los Padres debe ser depuesto, pues la doctrina verdadera es una e inmutable, confiada a la Iglesia como [[depósito_de_la_fe|depositum fidei]].

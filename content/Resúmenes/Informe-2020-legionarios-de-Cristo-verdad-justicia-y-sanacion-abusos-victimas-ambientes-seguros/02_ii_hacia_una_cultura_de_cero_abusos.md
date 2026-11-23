@@ -12,7 +12,7 @@ tags: ["resumen", "informe_anual_2020", "espiritualidad_legionaria", "cultura_ce
 
 ## Conceptos básicos referenciados
 
-- [[cultura_cero_abusos]] — Meta de la Congregación: cero abusos con prevención y sanación
+- [[cultura_cero_abuso|cultura cero abusos]] — Meta de la Congregación: cero abusos con prevención y sanación
 - [[comisión_de_acercamiento]] — Comisión instituida en 2011 por el Card. De Paolis para atender a víctimas del P. Maciel
 - [[informe_1941_2019]] — Informe histórico sobre el fenómeno del abuso sexual de menores en la Congregación desde su fundación
 - [[conversión_y_reparación]] — Documento del Capítulo General 2020 con petición de perdón y retractación de juicios negativos

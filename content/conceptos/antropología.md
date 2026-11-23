@@ -46,7 +46,7 @@ La crítica de Weizenbaum al «imperialismo» computacional es, de fondo, una di
 
 ## Relaciones doctrinales
 
-Se relaciona con [[antropología_cristiana]], [[antropología_teológica]], [[antropología_moral_cristiana]], [[imagen_de_dios]], [[alma]], [[cuerpo_humano]], [[dignidad_humana]], [[razón_instrumental]], [[inteligencia_artificial]] y [[libertad_humana]].
+Se relaciona con [[antropología_cristiana]], [[antropología_teológica]], [[antropología_moral_cristiana]], [[imagen_de_dios]], [[alma]], [[cuerpo|cuerpo humano]], [[dignidad_humana]], [[razón_instrumental]], [[inteligencia_artificial]] y [[libertad_humana]].
 
 ## Ver también
 

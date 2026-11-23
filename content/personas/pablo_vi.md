@@ -41,7 +41,7 @@ El 7 de diciembre de 1965, al término del Concilio, levantó junto con el patri
 
 ## Ver también
 
-[[concilio_vaticano_ii]], [[juan_xxiii]], [[juan_pablo_ii]], [[humanae_vitae]], [[evangelii_nuntiandi]], [[populorum_progressio]], [[ecclesiam_suam]], [[celibato_sacerdotal]], [[ecumenismo]], [[reforma_litúrgica]]
+[[concilio_vaticano_ii]], [[san_juan_xxiii|Juan XXIII]], [[juan_pablo_ii]], [[humanae_vitae]], [[evangelii_nuntiandi]], [[populorum_progressio]], [[ecclesiam_suam]], [[celibato_sacerdotal]], [[ecumenismo]], [[reforma_litúrgica]]
 
 ## Referencias
 

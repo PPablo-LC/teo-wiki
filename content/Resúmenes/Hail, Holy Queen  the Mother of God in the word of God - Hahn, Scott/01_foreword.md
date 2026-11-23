@@ -12,7 +12,7 @@ tags: ["resumen", "mariología"]
 
 ## Conceptos básicos referenciados
 
-[[teresa_de_lisieux]], [[virgen_maría]], [[tipología]], [[ecumenismo]], [[reina_universal]]
+[[santa_teresa_de_lisieux|Teresa de Lisieux]], [[virgen_maría]], [[tipología]], [[ecumenismo]], [[reina_universal]]
 
 ## Contenido
 

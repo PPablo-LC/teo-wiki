@@ -43,7 +43,7 @@ El siglo IV capadocio es el de la definición de la fe trinitaria y cristológic
 
 ## Ver también
 
-[[padres_de_la_iglesia]], [[san_basilio]], [[san_gregorio_nacianceno]], [[trinidad]], [[encarnación]], [[vida_mistica]], [[teosis_divinizacion]], [[concilio_de_constantinopla_i]]
+[[padres_de_la_iglesia]], [[san_basilio]], [[san_gregorio_nacianceno]], [[trinidad]], [[encarnación]], [[vida_mistica]], [[divinización]], [[concilio_de_constantinopla_i]]
 
 ## Referencias
 

@@ -16,8 +16,8 @@ tags: ["resumen", "cristocentrismo", "buenaventura", "balthasar"]
 
 - [[veritatis_splendor]] — nn. 7-8, 15, 19-20
 - [[cristocentrismo_en_las_virtudes]]
-- [[balthasar]] — norma categórica concreta
-- [[buenaventura]] — *exemplar excitativum*
+- [[hans_urs_von_balthasar|Balthasar]] — norma categórica concreta
+- [[san_buenaventura|Buenaventura]] — *exemplar excitativum*
 - [[cruciformidad]], [[incendium_amoris]], [[belleza]]
 - [[virtudes_morales_infusas]], [[caridad]]
 

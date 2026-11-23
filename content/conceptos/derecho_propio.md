@@ -30,7 +30,7 @@ Conjunto de normas propias de cada **instituto de vida consagrada o sociedad de 
 
 ## Relaciones doctrinales
 
-[[vida_consagrada]], [[constituciones]], [[código_de_derecho_canónico|CIC]], [[carisma]], [[fundador]], [[obediencia]], [[capítulo_general]], [[derecho_canónico]], [[comunión_eclesial]], [[Santa_Sede]]
+[[vida_consagrada]], [[constituciones_legionarios_de_cristo|constituciones]], [[código_de_derecho_canónico|CIC]], [[carisma]], [[fundador]], [[obediencia]], [[capítulo_general]], [[derecho_canónico]], [[comunión_eclesial]], [[Santa_Sede]]
 
 ## Ver también
 

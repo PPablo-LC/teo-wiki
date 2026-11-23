@@ -14,7 +14,7 @@ tags: ["resumen", "denzinger capitulos"]
 
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
 - [[infalibilidad_papal]] — privilegio del papa en materia de fe y moral
-- [[depositum_fidei]] — depósito de la fe confiado a la Iglesia
+- [[depósito_de_la_fe|depositum fidei]] — depósito de la fe confiado a la Iglesia
 - [[tradición_apostólica]] — doctrina transmitida por los Apóstoles
 - [[dioscóricos]] — seguidores de Dioscóro, monofisitas
 - [[concilios_ecuménicos]] — asambleas universales de la Iglesia

@@ -13,7 +13,7 @@ tags: ["resumen", "catholicism barron"]
 ## Conceptos básicos referenciados
 
 - [[pedro]] — la roca, el primado y el martirio en Roma
-- [[pablo]] — apóstol de los gentiles, convertido camino de Damasco
+- [[san_pablo|Pablo]] — apóstol de los gentiles, convertido camino de Damasco
 - [[resurrección]] — el hecho que explica la supervivencia del movimiento cristiano
 - [[participación_en_cristo]] — «ya no soy yo, sino Cristo en mí»
 - [[misión]] — la Iglesia como aventura misionera

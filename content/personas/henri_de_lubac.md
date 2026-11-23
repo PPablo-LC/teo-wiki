@@ -35,7 +35,7 @@ En *Peripheries* (23_peripheries_paone.md), Jason C. Paone presenta a de Lubac c
 
 ## Relaciones doctrinales
 
-[[visión_beatífica]], [[comunión_de_los_santos]], [[cuerpo_místico_de_cristo]], [[theosis]], [[novísimos]], [[orígenes_de_alejandría]]
+[[visión_beatífica]], [[comunión_de_los_santos]], [[cuerpo_místico_de_cristo]], [[divinización|theosis]], [[novísimos]], [[orígenes_de_alejandría]]
 
 ## Ver también
 

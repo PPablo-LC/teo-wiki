@@ -12,7 +12,7 @@ tags: ["resumen", "evangelization and culture - 23"]
 
 ## Conceptos básicos referenciados
 
-[[oración]], [[sagrada_escritura]], [[evangelios]], [[fe]], [[gracia]], [[oración_continua]], [[padre_pio]]
+[[oración]], [[sagrada_escritura]], [[evangelios]], [[fe]], [[gracia]], [[oración_continua]], [[san_pío_de_pietrelcina|Padre Pío]]
 
 ## Contenido
 

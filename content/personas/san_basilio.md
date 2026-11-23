@@ -37,7 +37,7 @@ El siglo IV es el de la era constantiniana: la Iglesia sale de las persecuciones
 
 ## Ver también
 
-[[trinidad]], [[arrianismo]], [[padres_de_la_iglesia]], [[monacato_oriental]], [[gregorio_nacianceno]], [[san_gregorio_de_nisa]], [[regla_de_san_basilio]], [[espíritu_santo]], [[consubstancialidad]]
+[[trinidad]], [[arrianismo]], [[padres_de_la_iglesia]], [[monacato_oriental]], [[san_gregorio_nacianceno|Gregorio Nacianceno]], [[san_gregorio_de_nisa]], [[regla_de_san_basilio]], [[espíritu_santo]], [[consubstancialidad]]
 
 ## Referencias
 

@@ -82,7 +82,7 @@ La obra tiene dos partes. La primera, *Toward a Christocentrism of the Virtues: 
 - **Con [[iglesia]] y [[comunión]]:** la dimensión eclesial de la moral, la *morum regula* y el *sentire cum Ecclesia*.
 - **Con [[ley_natural]] y [[ley_nueva]]:** la ley natural como participación de la Sabiduría; la ley nueva como gracia del Espíritu.
 - **Con [[bienaventuranzas]] y [[decálogo]]:** las bienaventuranzas como «autorretrato» de Cristo entre los principios y las normas.
-- **Con [[balthasar]] y [[buenaventura]]:** los dos interlocutores del capítulo cristológico.
+- **Con [[hans_urs_von_balthasar|Balthasar]] y [[san_buenaventura|Buenaventura]]:** los dos interlocutores del capítulo cristológico.
 - **Con [[The Epiphany of Love|the_epiphany_of_love]]:** obra posterior del mismo autor, que desarrolla la teología de la acción cristiana.
 
 ## Ver también
@@ -104,8 +104,8 @@ La obra tiene dos partes. La primera, *Toward a Christocentrism of the Virtues: 
 - [[iglesia]]
 - [[comunión]]
 - [[seguimiento_de_cristo]]
-- [[balthasar]]
-- [[buenaventura]]
+- [[hans_urs_von_balthasar|Balthasar]]
+- [[san_buenaventura|Buenaventura]]
 - [[livio_melina]]
 - [[the_epiphany_of_love]]
 

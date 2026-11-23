@@ -17,7 +17,7 @@ tags: ["resumen", "informe_anual_2020", "espiritualidad_legionaria", "justa_tran
 - [[modalidades_publicación]] — Con nombre y apellidos, con nombre sin apellidos o con código numérico
 - [[código_numérico]] — Modalidad usada cuando la petición de la víctima, la ley civil o un proceso en curso lo aconsejan
 - [[presunción_de_inocencia]] — Derecho prevalente mientras un proceso canónico o civil está en curso
-- [[cultura_cero_abusos]] — Consolidación de una cultura de cero abusos en la Congregación y la sociedad
+- [[cultura_cero_abuso|cultura cero abusos]] — Consolidación de una cultura de cero abusos en la Congregación y la sociedad
 
 ## Contenido
 

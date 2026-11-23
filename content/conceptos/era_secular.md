@@ -41,7 +41,7 @@ En «Soul: Conversión in an Age of Choice» (21_soul.md), Fr. Richard T. Whitti
 
 - Se relaciona con la [[secularización]] y la condición de «opción entre las demás» que describe la cultura contemporánea
 - Interpela a la [[conversión]] y su sostenimiento en el contexto de la [[parroquia]] y de la [[nueva_evangelización]]
-- Exige la [[mistagogía]] post-bautismal y la [[pastoral_de_acompañamiento]] de los [[neófitos]]
+- Exige la [[mistagogía]] post-bautismal y la [[pastoral_de_acompañamiento]] de los [[neófito|neófitos]]
 - Se ordena al [[encuentro_personal_con_cristo]] en el [[cuerpo_místico]]
 - Se apoya en la [[sucesión_apostólica]] y la [[gracia]] que nos llega a través del Cuerpo de Cristo
 

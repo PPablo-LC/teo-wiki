@@ -16,7 +16,7 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 - [[oración]] — fuente de luz, amor y acción para el alma
 - [[dirección_espiritual]] — medio para la formación y perseverancia
 - [[voto_privado]] — voto de caridad y unidad específico de los Legionarios de Cristo
-- [[constituciones]] — norma suprema de vida del legionario
+- [[constituciones_legionarios_de_cristo|constituciones]] — norma suprema de vida del legionario
 - [[vida_religiosa]] — la consagración a Dios mediante los consejos evangélicos
 
 

@@ -48,7 +48,7 @@ Dennis J. Billy, C.Ss.R., estudia el papel sanador de la amistad en el *De spiri
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[amistad]], la [[amistad_espiritual]], la [[amistad_cristiana]], la [[amistad_con_cristo]], la [[caridad]], la [[gracia]], la [[concupiscencia]], la [[sanación_interior]], los [[dones_infusos]] y la [[vida_eterna]]. Su teología de la amistad ilumina la [[comunión_de_los_santos]] y la [[caridad_pastoral]].
+Se relaciona con la [[amistad]], la [[amistad_espiritual]], la [[amistad_cristiana]], la [[amistad_con_cristo]], la [[caridad]], la [[gracia]], la [[concupiscencia]], la [[sanación_interior]], los [[dones_del_espíritu_santo|dones infusos]] y la [[vida_eterna]]. Su teología de la amistad ilumina la [[comunión_de_los_santos]] y la [[caridad_pastoral]].
 
 ## Ver también
 

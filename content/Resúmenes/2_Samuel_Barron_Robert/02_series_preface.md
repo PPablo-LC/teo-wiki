@@ -14,7 +14,7 @@ tags: ["resumen", "2 samuel barron robert"]
 
 - [[exégesis_bíblica]] — Interpretación de la Escritura como tarea comunitaria
 - [[tradición]] — Regla de fe transmitida por la Iglesia
-- [[doctrina]] — Guía para la comprensión unificada de la Escritura
+- [[depósito_de_la_fe|doctrina]] — Guía para la comprensión unificada de la Escritura
 - [[mosaico_bíblico]] — Imagen de la Escritura como mosaico a reconstruir
 - [[hermenéutica]] — Arte de interpretar con la regla de fe
 - [[fe]] — Lente para leer la Escritura como Palabra de Dios

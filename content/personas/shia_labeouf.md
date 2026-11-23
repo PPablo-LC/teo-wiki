@@ -26,7 +26,7 @@ La conversión de LaBeouf representa un testimonio contemporáneo significativo,
 En "19_spotlight_redemption.md", se documenta el **testimonio de conversión** de LaBeouf vía la película Padre Pío. Se destaca su **asistencia diaria a Misa** y su **estudio intenso de los Evangelios** como parte de su camino de fe. El artículo **celebra la conversión** como ejemplo de cómo el arte puede ser medio de gracia.
 
 ## Ver también
-[[padre_pio]]
+[[san_pío_de_pietrelcina|Padre Pío]]
 [[conversión]]
 [[testimonio_cristiano]]
 [[arte_y_fe]]

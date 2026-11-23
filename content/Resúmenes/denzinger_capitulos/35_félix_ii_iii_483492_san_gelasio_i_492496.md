@@ -12,8 +12,8 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-- [[inmutabilidad_de_la_doctrina]] — la fe no cambia con el tiempo
-- [[depositum_fidei]] — depósito de la fe confiado a la Iglesia
+- [[desarrollo_doctrinal|inmutabilidad de la doctrina]] — la fe no cambia con el tiempo
+- [[depósito_de_la_fe|depositum fidei]] — depósito de la fe confiado a la Iglesia
 - [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
 - [[excomunión|anatema]] — sentencia de condenación de una herejía
 - [[cristología]] — doctrina sobre la persona de Cristo
@@ -37,4 +37,4 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## FÉLIX II (III), 483-492 — SAN GELASIO I, 492-496
 
-Documentos que insisten en la [[inmutabilidad_de_la_doctrina]]: la Sede Apostólica prohíbe reabrir o cambiar lo que ha sido definido en materia de fe. Quien se aparta de la verdad condenada queda separado de la comunión. San Gelasio defiende la necesidad de la [[encarnación]] del Verbo contra los que la niegan.
+Documentos que insisten en la [[desarrollo_doctrinal|inmutabilidad de la doctrina]]: la Sede Apostólica prohíbe reabrir o cambiar lo que ha sido definido en materia de fe. Quien se aparta de la verdad condenada queda separado de la comunión. San Gelasio defiende la necesidad de la [[encarnación]] del Verbo contra los que la niegan.

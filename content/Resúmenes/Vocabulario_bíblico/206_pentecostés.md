@@ -58,7 +58,7 @@ El don del Espíritu, con los signos que lo acompañan (viento, [[fuego]]), se s
 
 #### Sentido del acontecimiento
 
-a. *Efusión escatológica del Espíritu.* Pedro, citando al profeta Joel, muestra que Pentecostés realiza las [[promesas]] de Dios: en los últimos [[tiempos]] el Espíritu será dado a todos *Ez 36,27*.
+a. *Efusión escatológica del Espíritu.* Pedro, citando al profeta Joel, muestra que Pentecostés realiza las [[promesas]] de Dios: en los últimos [[tiempo|tiempos]] el Espíritu será dado a todos *Ez 36,27*.
 
 b. *Coronamiento de la pascua de Cristo.* Cristo muerto, resucitado y exaltado acaba su obra derramando el Espíritu sobre la comunidad apostólica *Act 2,23-33*. Pentecostés es la plenitud de [[pascua]].
 

@@ -96,7 +96,7 @@ El paso más sorprendente es que Newman deduce de ahí la necesidad de una **aut
 ## Relaciones doctrinales
 
 Se relaciona con [[tradición]], [[revelación]], [[magisterio]],
-[[depósito_de_la_fe]], [[newman]], [[dogma]], [[hermenéutica_de_la_continuidad]],
+[[depósito_de_la_fe]], [[john_henry_newman|Newman]], [[dogma]], [[hermenéutica_de_la_continuidad]],
 [[amoris_laetitia]], [[humanae_vitae]], [[divorciados_vueltos_a_casar]],
 [[matrimonio]], [[eucaristía]].
 

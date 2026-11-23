@@ -64,7 +64,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[obras]] — la caridad, obra única de toda fe viva
 - [[fe]] — la fe viva que obra por la caridad
 - [[cuerpo]] — el cuerpo de Cristo formado por todos los hermanos
-- [[enemigos]] — el amor de los enemigos
+- [[enemigo|enemigos]] — el amor de los enemigos
 - [[pobres]] — la atención a los pobres y pequeños
 - [[extranjero]] — el amor al extranjero
 - [[hermano]] — el amor fraterno

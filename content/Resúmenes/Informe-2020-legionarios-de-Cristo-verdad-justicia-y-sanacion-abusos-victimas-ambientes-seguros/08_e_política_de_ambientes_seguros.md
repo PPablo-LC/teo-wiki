@@ -16,7 +16,7 @@ tags: ["resumen", "informe_anual_2020", "espiritualidad_legionaria", "ambientes_
 - [[coordinadores_territoriales]] — Profesionales laicos dedicados a los ambientes seguros en los territorios
 - [[acreditación]] — Procesos de acreditación externa de los protocolos de ambientes seguros
 - [[formación_y_sensibilización]] — Seminarios, talleres y jornadas de formación y sensibilización
-- [[cultura_cero_abusos]] — Promoción de una cultura de protección y cuidado del menor
+- [[cultura_cero_abuso|cultura cero abusos]] — Promoción de una cultura de protección y cuidado del menor
 - [[junta_de_revisión]] — Órganos con expertos externos para casos de abuso
 
 ## Contenido

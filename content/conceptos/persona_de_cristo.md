@@ -59,7 +59,7 @@ La persona de Cristo es el corazón de la [[unión_hipostática]] y de los [[con
 
 ## Ver también
 
-[[unión_hipostática]], [[concilios_cristologicos]], [[comunicación_de_idiomas]], [[encarnación]], [[filiación_divina_de_cristo]], [[dualidad_cristologica]], [[cabeza_de_la_iglesia]], [[redención_de_cristo]], [[naturaleza_divina_de_cristo]], [[cristología]]
+[[unión_hipostática]], [[concilios_cristologicos]], [[comunicación_de_idiomas]], [[encarnación]], [[filiación_divina_de_cristo]], [[dualidad_cristologica]], [[cabeza_de_la_iglesia]], [[redención_de_cristo]], [[divinidad_de_cristo|naturaleza divina de Cristo]], [[cristología]]
 
 ## Referencias
 

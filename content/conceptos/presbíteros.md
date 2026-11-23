@@ -36,7 +36,7 @@ Los presbíteros, instituidos para el servicio del Pueblo de Dios, participan de
 
 ## Relaciones doctrinales
 
-[[orden_sacerdotal]], [[obispos]], [[diáconos]], [[sacerdocio_común]], [[eucaristía]], [[presbiterio]]
+[[orden_sacerdotal]], [[obispos]], [[diácono|diáconos]], [[sacerdocio_común]], [[eucaristía]], [[presbiterio]]
 
 ## Referencias
 

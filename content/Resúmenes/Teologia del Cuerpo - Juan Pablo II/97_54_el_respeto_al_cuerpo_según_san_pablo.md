@@ -24,7 +24,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[fornicación]] — huir la fornicación
 - [[senal]] — los signos de deber y dignidad del cuerpo
 - [[frutos_del_espíritu_santo]] — la fuerzainterior que fecunda la capacidad
-- [[cuerpo_humano]] — el cuerpo en la analogía eclesiológica
+- [[cuerpo|cuerpo humano]] — el cuerpo en la analogía eclesiológica
 - [[pasiones_libidinosas]] — la superación de los impulsos
 - [[voluntad]] — la raíz volitiva de la virtud
 - [[omocentro]] — la objetividad de la «ciencia»y la justa valoración

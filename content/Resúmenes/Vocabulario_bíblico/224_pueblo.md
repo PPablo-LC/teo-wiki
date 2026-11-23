@@ -55,7 +55,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[figura]] — las figuras de la sociedad santa
 - [[castigos]] — el castigo radical del exilio
 - [[exilio]] — el exilio
-- [[tiempos|tiempo]] — los últimos tiempos
+- [[tiempo]] — los últimos tiempos
 - [[nuevo]] — una economía nueva
 - [[corazón]] — el corazón cambiado
 - [[espíritu]] — el Espíritu derramado

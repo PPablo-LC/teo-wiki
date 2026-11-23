@@ -80,7 +80,7 @@ es reconocer un *acontecimiento*, un acontecer que se traduce en compañía.
 [[instante]]; el yo que, viviendo el instante, lleva el sentido de toda la
 historia. A través de la realización de un **proyecto** ([[trabajo]]) la
 realidad emerge según la totalidad de sus factores; «est quodammodo omnia»
-(santo [[tomás_de_aquino]]). Frente a ello, solo dos figuras salvan la
+([[santo_tomás_de_aquino|santo Tomás de Aquino]]). Frente a ello, solo dos figuras salvan la
 estatura del hombre: el **anarquista** y el auténticamente religioso. El
 **deseo del infinito** es condición de la *mens* matemática (Einstein); el
 racionalismo es la tentación de Adán y Eva («seréis como Dios», *Gn* 3,5).

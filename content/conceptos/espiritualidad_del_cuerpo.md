@@ -51,11 +51,11 @@ En la catequesis sobre «los hijos de la resurrección», Juan Pablo II amplía 
 - [[madurez_espiritual]] — condición necesaria para acceder a la espiritualidad del cuerpo.
 - [[pedagogía_del_cuerpo]] — la vía concreta para educar en la espiritualidad del cuerpo.
 - [[encarnación]] — fundamento último de la dignidad espiritual del cuerpo.
-- [[cuerpo_humano]] — la materia de la espiritualidad del cuerpo.
+- [[cuerpo|cuerpo humano]] — la materia de la espiritualidad del cuerpo.
 
 ## Ver también
 
-[[teología_del_cuerpo]], [[significado_esponsal_del_cuerpo]], [[donación_de_sí]], [[madurez_espiritual]], [[pedagogía_del_cuerpo]], [[encarnación]], [[cuerpo_humano]]
+[[teología_del_cuerpo]], [[significado_esponsal_del_cuerpo]], [[donación_de_sí]], [[madurez_espiritual]], [[pedagogía_del_cuerpo]], [[encarnación]], [[cuerpo|cuerpo humano]]
 
 ## Referencias
 

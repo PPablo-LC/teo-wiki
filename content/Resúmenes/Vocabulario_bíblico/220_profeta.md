@@ -63,7 +63,7 @@ tags: ["resumen", "vocabulario bíblico"]
 - [[hijo]] — Jesús, el Hijo
 - [[verdad]] — Jesús, fuente de verdad
 - [[vida]] — Jesús, fuente de vida
-- [[tiempos]] — el fin de los tiempos
+- [[tiempo|tiempos]] — el fin de los tiempos
 - [[pentecostés]] — el día de pentecostés
 - [[don_de_lenguas]] — el don de lenguas
 - [[predicar]] — la predicación

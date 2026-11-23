@@ -16,7 +16,7 @@ tags: ["resumen", "summa theologiae"]
 - [[actos_humanos]], [[voluntario_y_lo_involuntario]], [[consejo]], [[elección]]
 - [[pasiones]], [[amor]], [[odio]], [[concupiscencia]], [[delectación]], [[dolor]]
 - [[temor]], [[esperanza]], [[ira]]
-- [[hábitos]], [[virtudes]], [[virtudes_teologales]], [[virtudes_cardinales]]
+- [[hábito|hábitos]], [[virtudes]], [[virtudes_teologales]], [[virtudes_cardinales]]
 - [[dones_del_espíritu_santo]], [[bienaventuranzas]], [[frutos_del_espíritu_santo]]
 - [[pecado]], [[pecado_original]], [[pecado_mortal]], [[pecado_venial]]
 - [[ley_moral_natural]], [[ley_eterna]], [[ley_humana]], [[ley_antigua]], [[ley_nueva]]
@@ -68,7 +68,7 @@ Cuando decimos que el [[hombre]] ha sido hecho a imagen de [[dios]], entendemos 
 
 ### Los hábitos
 
-- **Q.49–54 — Naturaleza, sujeto, causas y distinción**: Los [[hábitos]] son cualidades que determinan a la potencia a operar de cierto modo; residen en las potencias; se adquieren por actos repetidos; se distinguen por sus objetos y potencias.
+- **Q.49–54 — Naturaleza, sujeto, causas y distinción**: Los [[hábito|hábitos]] son cualidades que determinan a la potencia a operar de cierto modo; residen en las potencias; se adquieren por actos repetidos; se distinguen por sus objetos y potencias.
 
 ### Las virtudes - en general
 
