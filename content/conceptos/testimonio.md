@@ -51,6 +51,16 @@ De Lubac distingue radicalmente el testimonio de la propaganda y la popularizaci
 
 León XIV presenta el testimonio del sacerdote como la forma fundamental de evangelización. Frente a los jóvenes, «el sacerdote joven puede ofrecer a los jóvenes un modelo de vida, que ser amigo de Jesús realmente puede llenar sus vidas». Este testimonio no es una técnica de comunicación sino una irradiación de la propia experiencia de fe: el sacerdote debe poder ofrecer «no solo un ejemplo, sino una experiencia de vida que podría cambiar la vida de los jóvenes». El Papa advierte que, en la era digital, es fácil caer en el engaño de querer ser protagonistas: «"Tengo muchos seguidores, muchos likes, porque ven lo que digo..." No eres tú: si no estamos transmitiendo el mensaje de Jesucristo, tal vez nos estemos equivocando». El testimonio auténtico requiere una vida arraigada en el Señor, porque solo así se puede ofrecer «algo que no es nuestro» [L_XIV-ClerRom, 19.02.2026].
 
+### STC — *Sulle tracce di Cristo* (Luigi Amicone)
+
+La meditación de Belén (STC, 07) desarrolla el testimonio como **continuación del método de la encarnación**: «E anch'essa segue il metodo di Dio: non è una clamorosità, ma è un essere davanti ai nostri occhi». No se mide por el éxito ni por el ruido, sino por la calidad de una presencia:
+
+- Puede ser «la testimonianza del modo in cui una donna svolge il suo compito di casalinga, oppure una madre e un padre guardano i propri figli… con cui sentono crescere la propria povertà ora dopo ora».
+- Su forma extrema es la de los Santos Inocentes: «la prima testimonianza è quella dei bambini uccisi per Lui senza che loro potessero saperlo»; la vida cristiana como «un'offerta senza fondo».
+- Frente al poder, el testimonio es la alternativa: «Di fronte al fenomeno cristiano autentico, l'unica alternativa è il potere» (STC, 08), y «la testimonianza più grande che il cristiano può dare è quella sociale e politica» (STC, 08).
+
+Referencia: `wiki/Resúmenes/Sulle_tracce_di_Cristo_capitulos/08_samaria_betlem.md`.
+
 ## Distinciones importantes
 
 - **Testimonio cristiano** (confesión pública de la fe) ≠ **testimonio forense** (declaración judicial): el primero afecta a la vida moral y espiritual; el segundo, al derecho probatorio
@@ -72,3 +82,4 @@ Se relaciona con [[testimonio_cristiano]] como su forma específica de testimoni
 - [TPCr, virtud de la religión y apostolado]
 - [L_XIV-ClerRom, 19.02.2026]
 - [CIC cann. 1548-1549]
+- STC, *Sulle tracce di Cristo* (Luigi Amicone): peregrinaje de Giussani a Tierra Santa (1986)

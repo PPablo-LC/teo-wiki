@@ -27,6 +27,15 @@ Jerusalén, ciudad cananea de Urusalim («fundación del dios Salem»), es tomad
 
 En el NT, Jerusalén es el lugar de la repulsa a Jesús —Marcos, Mateo, Juan y Lucas subrayan distintos aspectos de este drama— pero también el punto de partida de la misión eclesial desde Pentecostés. Pablo presenta la Jerusalén de lo alto, nuestra madre, heredera de las promesas. La carta a los Hebreos la describe como ciudad del Dios vivo, cuyo templo celestial es el modelo del terrenal. El Apocalipsis culmina con la visión de la Jerusalén celestial, esposa del Cordero, donde «el Cordero les servirá de luminar».
 
+### STC — *Sulle tracce di Cristo* (Luigi Amicone)
+
+El capítulo V recorre la ciudad santa y, junto al reportaje histórico y político, fija dos lecturas teológicas:
+
+- **El Muro del pianto**: lugar de una elección y de una espera. Giussani lo considera «umanamente una delle cose più commoventi e drammatiche che esistano» y observa que allí cada judío recita sus salmos «in una solitudine tremenda». La alternativa decisiva de la historia de las religiones está «proprio sotto questo muro: se l'attesa dell'adempimento della Promessa è accaduta o non è accaduta» (STC, 08). En la entrevista final añade que es «il simbolo più drammatico» porque muestra «un'enorme volontà di memoria che però sembra quasi non abbia più potere sul cambiamento dell'uomo» (STC, 10).
+- **La ciudad que mata a los profetas**: la profecía de Lc 19,43-44 y su cumplimiento (70 d.C.; Aelia Capitolina), y la advertencia de Roncalli en 1906 ante el «disordine» del Santo Sepulcro. El patriarca Michel Sabbah formula la misión cristiana en la ciudad: la presencia cristiana «è una missione, una vocazione», y también en la paz «bisognerà davvero lottare per rimanere cristiani» (STC, 08).
+
+Referencia: `wiki/Resúmenes/Sulle_tracce_di_Cristo_capitulos/09_jerusalen.md`.
+
 ## Distinciones importantes
 
 - Jerusalén terrenal vs. Jerusalén celestial (Gal 4,24-31).
@@ -45,3 +54,4 @@ Se relaciona con [[templo]], [[sión]], [[iglesia]], [[david]], [[pueblo]], [[re
 ## Referencias
 
 - [VocTeoBib, «Jerusalén»]
+- STC, *Sulle tracce di Cristo* (Luigi Amicone): peregrinaje de Giussani a Tierra Santa (1986)

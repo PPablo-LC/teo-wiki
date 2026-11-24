@@ -269,6 +269,17 @@ La fórmula de Calcedonia —«sin confusión ni cambio, sin división ni separa
 
 La consecuencia soteriológica es la **divinización**: si Dios se hizo hombre sin dejar de ser Dios ni dañar a la criatura, la naturaleza humana puede ser elevada hasta participar de la vida trinitaria. Barron insiste en que esto no significa absorción en Dios ni que alguien llegue a ser hijo como el Hijo, sino que lo humano queda abierto a una elevación real, según la fórmula patrística de que Dios se hizo hombre para que el hombre se hiciera Dios.
 
+### STC — *Sulle tracce di Cristo* (Luigi Amicone)
+
+La crónica del peregrinaje de [[luigi_giussani]] a Tierra Santa (1986) es la exposición más concreta del tema en el vault: la encarnación no se contempla como doctrina abstracta sino como **método de Dios**, verificable en lugares y distancias.
+
+- **El método del «seme»**: «Un seme nella terra non si riconosce… E il Signore è entrato nel mondo come un seme dentro la terra» (STC, 07). Dios actúa «senza alcun clamore umano», y esa pequeñez —Belén, Nazaret, la casa de José— es la que exige la simplicidad de los pastores y la grandeza de ánimo de los Magos.
+- **Presencia en condiciones concretas**: «Ho sentito il rinnovarsi del concetto di incarnazione, cioè di una presenza che è passata attraverso tutte le condizioni concrete e storiche in cui ha scelto di accadere» (STC, 10). La gruta de la Anunciación y la casa de san José son los dos lugares que más impresionaron al autor.
+- **Contraste con las otras fes**: «nell'ebraismo come nell'islamismo Dio non entra nel mondo e non impegna il suo progetto sulla storia seguendo, come lo sviluppo di un seme, l'identificazione con persone e luoghi e situazioni» (STC, 10).
+- **Consecuencia eclesiológica**: la encarnación funda la alternativa entre presencia y poder: lo que cuenta es «la vivezza di una fede rinnovata e non un potere derivato da una storia» (STC, 10).
+
+Referencia: `wiki/Resúmenes/Sulle_tracce_di_Cristo_capitulos/08_samaria_betlem.md` y `11_entrevista_giussani.md`.
+
 ## Distinciones importantes
 
 - **Encarnación vs. unión hipostática**: la Encarnación es el acto de asumir la naturaleza humana; la unión hipostática es el estado permanente de la unión de las dos naturalezas en la persona del Verbo.
@@ -311,3 +322,4 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Baglow, 11_science.md; Hejduk, 17_feature_hejduk.md; Youngblood, 20_spotlight_youngblood.md)
 - Robert Barron, *Light from Light* (Word on Fire), cap. III, secciones «Por nosotros…» y «Y por obra del Espíritu Santo…» (LFL)
 - Joseph Ratzinger, *The Blessing of Christmas* (BWC): 4 (el niño como «Emmanuel» y el pesebre como acceso al corazón de Dios); 6 (la gloria en el pesebre y en la cruz); 7 (*Logos* como «sentido», el sentido que se puede tocar, la verdad bella y «los suyos no lo recibieron»).
+- STC, *Sulle tracce di Cristo* (Luigi Amicone): peregrinaje de Giussani a Tierra Santa (1986)

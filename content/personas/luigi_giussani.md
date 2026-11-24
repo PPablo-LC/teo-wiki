@@ -136,6 +136,17 @@ frente a la familia-nascondiglio, la oración doméstica y el perdón.
   desgasta; y cuando su amor se pone en relación con la Iglesia, con una tensión
   «comunal» y «misionaria» ([[conversión]], [[memores_domini]]).
 
+### STC — *Sulle tracce di Cristo* (Luigi Amicone)
+
+El volumen recoge el único viaje de Giussani a Tierra Santa (septiembre de 1986) y es la fuente del vault que muestra su método de lectura de los lugares: ante cada santuario lee el texto bíblico con el grupo y lo comenta, alternando la exégesis con la provocación existencial.
+
+- **La encarnación como método**: «Ho sentito il rinnovarsi del concetto di incarnazione… una presenza che è passata attraverso tutte le condizioni concrete e storiche in cui ha scelto di accadere» (STC, 10).
+- **La moral como pertenencia**: en la conversación de Ein Gev, «L'etica cristiana è la memoria di quel che ha accaduto» y la moral nace de la pertenencia (a los padres, a un pueblo, a Dios), no del esfuerzo moral aislado (STC, 05, 06).
+- **Presencia y poder**: la disyuntiva que plantea a los movimientos eclesiales —«quello che conta è la vivezza di una fede rinnovata e non un potere derivato da una storia, da una istituzione che si è affermata» (STC, 10)— y su crítica al cristianismo que decae en formalismo o moralismo y «può trasformarsi in potere, per esempio in potere clericale o ecclesiastico» (STC, 08).
+- **Testimonio y pequeñez**: «il segno della presenza di Dio è che dà significato a tutto» (STC, 05); la potencia es de Dios, y el cristianismo se reconoce en lo imperceptible.
+
+Referencia: `wiki/Resúmenes/Sulle_tracce_di_Cristo_capitulos/` (10 resúmenes, en especial `06_galilea.md`, `07_cafarnao.md`, `09_jerusalen.md` y `11_entrevista_giussani.md`).
+
 ## Breve catechesi sul matrimonio (BCS)
 
 En la misma conversación, Giussani resume el carisma de la virginidad
@@ -159,3 +170,4 @@ cristiana tomada del Antiguo Testamento:
 - ODPC, archivo `02_luigi_giussani.md` — bio: especialización en la motivación racional de la adhesión a la fe
 - ODPC, archivo `03_prefazione.md` — prefación (2001): criterio rector y gran inversión de método
 - PLDC, archivos `00_preliminares.md` y `01_prefazione_alla_nuova_edizione.md` — tesis del volumen y prefación (2003) sobre la Madonna
+- STC, *Sulle tracce di Cristo* (Luigi Amicone): peregrinaje de Giussani a Tierra Santa (1986)

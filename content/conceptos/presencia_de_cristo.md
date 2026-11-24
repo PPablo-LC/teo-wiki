@@ -72,6 +72,17 @@ Elementos centrales en REG:
 - **Sin un Altro la compañía no basta**: «Occorre la presenza di qualcosa d'Altro» (10).
 - **La grande Presenza**: sin reconocer esta Presencia «non riconosco veramente la presenza di niente»; todo lo demás se vuelve efímero, opinión o reactividad (12).
 
+### STC — *Sulle tracce di Cristo* (Luigi Amicone)
+
+El libro entero está construido sobre la convicción de que Cristo es una **presencia actual**, no un recuerdo: «Cristo non è un fatto del passato. La sua presenza coincide letteralmente con la comunità, meglio, coincide con la Chiesa nella comunità attraverso cui essa ti percuote e ti richiama» (STC, 08).
+
+- **Resurrección como presencia**: «Risorto vuol dire: "Presente qui e ora"». Vencer la muerte es vencer el tiempo y el espacio como límites, para que sean sólo instrumentos expresivos; por eso «Gesù è qui, in Giappone e in ogni luogo dove gli uomini si riuniscono nel Suo nome» (STC, 08).
+- **El rostro de esa presencia**: en Emaús, el cuerpo y el rostro del compañero invisible «è la faccia e il corpo Suo misterioso della comunità dei fratelli»; el signo que aclara la vida es «un avvenimento in cui tutta la persona è afferrata da una comunionalità» (STC, 08).
+- **Pertenencia**: «"Mi ami tu?", vuol dire: "Mi appartieni?"»; la pregunta de Cristo a Pedro se repite porque su presencia interpela aquí y ahora (STC, 08).
+- **Presencia frente a poder**: la presencia vivida es la única alternativa real al poder, también al poder clerical (STC, 08, 10).
+
+Referencia: `wiki/Resúmenes/Sulle_tracce_di_Cristo_capitulos/09_jerusalen.md`.
+
 ## Distinciones importantes
 
 - **Presencia vs. idea**: La presencia de Cristo no es un concepto ni un recuerdo nocional; es un acontecimiento actual que se percibe en el signo y en la carne.
@@ -106,3 +117,4 @@ La presencia de Cristo se relaciona con [[presencia_de_dios]] como su manifestac
 - AED, 23, 259-265 — Tischrede 100: *La distanza è esser dentro* — capturado por Cristo (Flp 3,12).
 - AED, 27, 133 — Tischrede 176: *Per la tua corsa nel mondo* — Cristo, una presencia en la mirada.
 - AED, 29, 49-51 — Tischrede 103: *Al cuore dell'apparenza* — cómo Cristo está presente en la compañía.
+- STC, *Sulle tracce di Cristo* (Luigi Amicone): peregrinaje de Giussani a Tierra Santa (1986)

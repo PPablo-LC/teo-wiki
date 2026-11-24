@@ -133,6 +133,16 @@ Juan Pablo II afirma que el Evangelio es exigente. La «puerta estrecha» (Mt 7,
 
 Las bienaventuranzas son el núcleo del «Sermón de la montaña», uno de los discursos morales de Jesús por el que la tradición ha mostrado predilección. Junto con el «mandamiento del amor» y la confirmación del «decálogo», se pueden considerar como el resumen del obrar moral cristiano (Mt 5, 48; St 1, 4; 1 P 1, 15-16) (Ele_Xto_Stos, Cap. III, §4a).
 
+### STC — *Sulle tracce di Cristo* (Luigi Amicone)
+
+En la colina de Tabgha, [[luigi_giussani]] propone una lectura genética de las bienaventuranzas: **sólo se entienden después de haber descubierto la autoridad de Cristo**. La compañía «sperimenta per la prima volta il brivido di un potere inconcepibile» ante la curación del paralítico (Mc 2; Lc 5), y de ese estupor nace la fe que permite aceptar un discurso que «apparentemente sono l'esaltazione di una disfatta» y que sin embargo se proclama «in nome della felicità dell'uomo» (STC, 06).
+
+- **Pobre y rico**: el rico es «la persona soddisfatta, colui che pretende»; el pobre, «colui che attende» (STC, 06).
+- **Moral de la pertenencia**: las bienaventuranzas son «il desarrollo morale della compagnia con Cristo»; sin compañía, la moral degenera en legalismo, y la adhesión puramente doctrinal o ritual «non produce una morale nuova rispetto alla società e al potere» (STC, 06).
+- **Piedra miliar**: el camino tiene un punto de referencia viviente, Pedro y el Papa, «il punto di riferimento vivente» de esa pertenencia (STC, 06).
+
+Referencia: `wiki/Resúmenes/Sulle_tracce_di_Cristo_capitulos/07_cafarnao.md`.
+
 ## Analizado para
 
 - [[adam_farber_fortitude_through_excellence_in_patience]]
@@ -148,3 +158,4 @@ Las bienaventuranzas son el núcleo del «Sermón de la montaña», uno de los d
 - [Lc 6,20-26]
 - WoF, Lección 2: "Somos bienaventurados"
 - Ele_Xto_Stos, Cap. III, §4a
+- STC, *Sulle tracce di Cristo* (Luigi Amicone): peregrinaje de Giussani a Tierra Santa (1986)
