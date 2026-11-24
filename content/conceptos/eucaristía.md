@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-11-02
+timestamp: 2026-11-23
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-23
 
 ## Definición
 
@@ -524,6 +524,14 @@ La Misa es *anamnesis*, pero no en sentido meramente psicológico: como Jesús e
 
 El discurso de Cafarnaún prueba el realismo: si fuera solo simbólico, ¿por qué resultó tan duro y por qué se marcharon muchos (Jn 6,60)? En la transustanciación cambian las substancias y permanecen los accidentes, porque el poder divino alcanza las raíces mismas de la realidad, como en la creación. Flannery O'Connor lo dijo mejor que un tratado: «Si es un símbolo, al diablo con él». Los Padres concluyeron que la Eucaristía cristifica y eterniza; los sacramentos, dice Tomás, no solo significan la gracia, sino que «causan lo que significan» (Supl. 35,1), y todos tienen una finalidad deificante.
 
+### Según Fulton J. Sheen — *Calvary and the Mass* (CAM)
+
+Sheen une la institución eucarística a la Muerte de Cristo con una fórmula de Maurice de la Taille, SJ: en la Última Cena, con la consagración separada del pan y del vino, «in an unbloody symbol of the parting of the Blood from the Body», el Redentor empeñó su muerte y contrajo la deuda que pagaría en el Calvario. «There were not two distinct and complete sacrifices offered by Christ, one in the Cenacle, the other on Calvary»: Cena y Cruz constituyen «one complete sacrifice» (CAM, prólogo).
+
+La consagración es el momento en que el «Tengo sed» del Calvario se hace alimento: el Señor tiene sed de almas y deja la Hostia como comida y bebida. Los dos sentidos de las palabras —«This is the Body of Christ» y «This is my body»— permiten el co-ofrecimiento: el fiel entrega su humanidad y recibe la divinidad, «we give Him our humanity; He gives us His divinity. We give Him our nothingness; He gives us His all» (CAM, cap. 5). La recepción exige la muerte a la vida inferior —«there can be no ascent to a higher life without death to a lower one»— y es inseparable del sacrificio: «there is no Communion without a Consecration» (1 Cor 11,26) y «you must bring a spirit of sacrifice to the Eucharistic table» (Col 1,24).
+
+Sheen subraya la paradoja de la **felix culpa** —«He made our very crime a happy fault; He turned a Crucifixion into a Redemption»— y el lenguaje de la **divinización** como participación en la vida divina por gracia, no como identidad de sustancia. El pan y el vino son «of all things in nature, those which most represent the substance of life», y al ofrecerlos el cristiano se ofrece a sí mismo con Cristo (CAM, cap. 5).
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
@@ -595,3 +603,4 @@ El discurso de Cafarnaún prueba el realismo: si fuera solo simbólico, ¿por qu
 - Tomás de Kempis, *La imitación de Cristo*, IV, 1-11 (ImC)
 - PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
 - EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.
+- CAM (Fulton J. Sheen, *Calvary and the Mass*), prólogo y cap. 5; Maurice de la Taille, SJ, citado en el prólogo.

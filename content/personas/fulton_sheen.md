@@ -2,13 +2,13 @@
 type: Persona
 title: Fulton J. Sheen
 tags: ["santos", "obispos", "comunicadores", "patronos"]
-timestamp: 2026-11-22
+timestamp: 2026-11-23
 description: "Fulton J. Sheen (1895-1979), arzobispo católico estadounidense, pionero de la evangelización a través de la radio y la televisión."
 ---
 # Fulton J. Sheen
 
 > Área: Santos / Comunicadores
-> Última actualización: 2026-11-22
+> Última actualización: 2026-11-23
 
 ## Biografía
 
@@ -55,6 +55,10 @@ La antología compilada por Patricia A. Kossmann (Liguori, 1999) reúne 28 pieza
 
 La semblanza final del volumen recoge su formación —J.C.B. por la Catholic University, doctorado por Lovaina, S.T.D. por el Angelicum— y recuerda que murió el 9 de diciembre de 1979, un día después de la fiesta de la Inmaculada Concepción. Los poemas incluidos (caps. III, VI, IX, XV, XX, XXVI) muestran una veta que las demás fuentes incorporadas no documentaban.
 
+### Según *Calvary and the Mass* (CAM)
+
+Este compañero de misal (10 archivos) muestra a un Sheen **liturgista y homileta**: organiza todo el Ordinario de la Misa según las Siete Palabras de la Cruz, con la tesis de que «Calvary is one with the Mass, and the Mass is one with Calvary, for in both there is the same Priest and Victim». El prólogo apoya la identidad del sacrificio en Maurice de la Taille, SJ y en Trento (ses. 22): Cena y Cruz son una sola oblación, «solo difiere el modo». Su lectura es inseparablemente ascética: el fiel es «pequeña hostia» que se ofrece con la gran Hostia y completa en su cuerpo lo que falta a los sufrimientos del Cuerpo Místico (Col 1,24), con penitencia y fe como condiciones, a imagen del buen ladrón. Aquí se concentran también sus textos más característicos sobre el pecado no negado pero perdonado (el Confiteor y el confesionario), María como Madre del Cuerpo Místico y «Sacristana del Sumo Sacerdote», el «Tengo sed» como sed de almas, y la perseverancia hasta el «consummatum est». El cierre con el poema de Elizabeth Cheney —«Tell every one that you meet / There is a Man on the Cross»— resume su predicación: la cruz debe hacerse visible en cada Misa y en cada vida [CAM, índice de la fuente].
+
 ## Citas célebres
 
 - «La libertad no consiste en hacer lo que nos gusta, sino en tener el derecho de hacer lo que debemos.» (atribuida a JPII, citada en EAC-3)
@@ -76,3 +80,4 @@ Bishop Robert Barron considera a Sheen como su predecesor más directo en el uso
 - CATHOLICISM series, Word on Fire
 - AMSh, *A Month With Archbishop Fulton Sheen*, John M. Wasikowski (2014), 36 archivos (`wiki/Resúmenes/A_Month_With_Archbishop_Fulton_Sheen/`)
 - IFT, *In the Fullness of Time: Christ-Centered Wisdom for the Third Millennium*, ed. Patricia A. Kossmann (Liguori, 1999), 32 archivos (`wiki/Resúmenes/In_the_Fullness_of_Time/`)
+- CAM, *Calvary and the Mass. A Missal Companion* (10 archivos; `wiki/Resúmenes/Calvary_and_the_Mass_capitulos/`)

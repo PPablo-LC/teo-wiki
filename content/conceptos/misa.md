@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misa
 tags: ["sacramental", "liturgia"]
 
-timestamp: 2026-11-22
+timestamp: 2026-11-23
 description: "El sacrificio eucarístico, también llamado Santo Sacrificio de la Misa, en el que se hace presente el único sacrificio de Cristo en la cruz bajo las especies eucarísticas."
 ---
 # Misa
 
 > Área: Sacramental / Liturgia
-> Última actualización: 2026-11-22
+> Última actualización: 2026-11-23
 
 ## Definición
 
@@ -109,6 +109,18 @@ De la glorificación deduce el fundamento de la participación de los fieles: la
 
 > «No hay tiempo ni espacio entre el Calvario y el ahora… La Misa es la misma Cruz actualizada en todo el espacio y en todo el tiempo» (IFT, cap. XVIII).
 
+### Según Fulton J. Sheen — *Calvary and the Mass* (CAM)
+
+Este compañero de misal desarrolla la misma tesis de IFT con una arquitectura propia: las **Siete Palabras** de la Cruz se corresponden con las **siete partes** de la Misa —Confiteor («Perdónalos»), Ofertorio («Hoy estarás conmigo en el paraíso»), Sanctus («Mujer, he ahí a tu Hijo»), Consagración («¿Por qué me has abandonado?»), Comunión («Tengo sed»), Ite, Missa Est («Todo está consumado») y Último Evangelio («Padre, en tus manos encomiendo mi espíritu»)—. La tesis se enuncia así: «Calvary is one with the Mass, and the Mass is one with Calvary, for in both there is the same Priest and Victim» (CAM, prólogo).
+
+**Cena y Cruz, un único sacrificio.** Apoyado en Maurice de la Taille, SJ y en Trento (ses. 22), Sheen subraya que no hay dos sacrificios: «There were not two distinct and complete sacrifices offered by Christ, one in the Cenacle, the other on Calvary»; la Cena fue el sacrificio de la Redención y la Cruz su continuación y consumación, de modo que «the Supper and the Cross made up one complete sacrifice». La Iglesia, al repetir «Haced esto en conmemoración mía», no recuerda solamente: realiza el sacrificio de la Misa. Trento lo resume: una sola Víctima y un solo Sumo Sacerdote, «solo difiere el modo de la oblación» (CAM, prólogo).
+
+**El altar, centro del culto y la Misa como Acto divino.** «In the Catholic Church the altar, and not the pulpit or the choir or the organ, is the center of worship»; el valor de la Misa no depende de quien la dice ni de quien la oye, sino del único Sumo Sacerdote y Víctima. La consagración no es una plegaria ni un canto: «it is a Divine Act with which we come in contact at a given moment of time». Dos analogías lo aclaran: la radio (sintonizamos una realidad ya presente) y el troquel de la moneda —«the sacrifice is one and the same despite the multiplicity of Masses»—. La Misa es «the communication of the Sacrifice of Calvary to us under the species of bread and wine» (CAM, cap. 4).
+
+**Co-ofrecimiento y aplicación.** El fiel no es espectador: al traer pan y vino —«of all things in nature, those which most represent the substance of life»— se ofrece él mismo con Cristo, «co-offering our Mass with Christ». El Señor ya no puede sufrir en su humanidad pero sí en la Iglesia, su Cuerpo Místico, y «the Church collects them, harvests them, unifies them, coalesces them, masses them» para unir nuestros sacrificios al Gran Sacrificio (CAM, caps. 2 y 4). La conclusión es la misma que en IFT, pero en clave de perseverancia: «He has finished the Sacrifice of Calvary; we must finish the Mass» y «What was done on Calvary avails for us only in the degree that we repeat it in our own lives» (CAM, cap. 6). El Calvario, «no something past», sigue siendo un drama abierto: «as long as sin remains on earth, still will the Cross remain» (CAM, prólogo y cap. 7).
+
+> «Calvary is one with the Mass, and the Mass is one with Calvary, for in both there is the same Priest and Victim» (CAM, prólogo).
+
 ## Distinciones importantes
 
 - La Misa no es una "repetición" del Calvario sino su actualización sacramental
@@ -131,3 +143,4 @@ De la glorificación deduce el fundamento de la participación de los fieles: la
 - TPCr, Parte III, Libro II, Cap. I
 - EMA (Mons. Tihamér Tóth, *Eucaristía, misterio de amor*), caps. 6, 8-10.
 - IFT (Fulton J. Sheen, *In the Fullness of Time*), cap. XVIII.
+- CAM (Fulton J. Sheen, *Calvary and the Mass*), prólogo y caps. 1-7.

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cultura
 tags: ["doctrina_social"]
 
-timestamp: 2026-11-22
+timestamp: 2026-11-24
 description: "Todo aquello con lo que el hombre afina y desarrolla sus innumerables cualidades espirituales y corporales; procura someter el orbe terrestre con su conocimiento y trabajo."
 ---
 # Cultura
 
 > Área: Doctrina Social
-> Última actualización: 2026-11-22
+> Última actualización: 2026-11-24
 
 ## Definición
 
@@ -135,6 +135,16 @@ hasta todas las formas de amor y hasta la Trinidad; lo original de Wojtyla es
 «la circulación continua entre contenido teológico y experiencias humanas
 originarias».
 
+### Según *Seeds of the Word* (SW)
+
+Barron aporta una imagen y dos leyes. La imagen es de Robert Sokolowski: el ícono integrado de la doctrina cristiana «explotó» en la Reforma y la Ilustración, y sus fragmentos carbonizados y deformados quedaron esparcidos por el paisaje cultural. Por eso no se encontrará el catolicismo entero en la cultura contemporánea, pero sí trozos por todas partes, si hay ojos para verlos. La cultura no es un desierto ni un bloque hostil, sino un campo sembrado de *semina verbi*: la tarea del evangelista es reconocerlos, no fabricarlos.
+
+La primera ley es que **lo sobrenatural reprimido reaparece de forma indirecta y distorsionada**. Barron la aplica a los vampiros (la inmortalidad sucedánea de quienes ya no creen en la vida eterna), a los programas de juicio que consume una cultura que prohíbe juzgar, y a la cultura del *hookup*, donde la libertad sexual sin valor objetivo produce tristeza. La segunda ley, tomada de Newman, es la del **poder de asimilación**: una cultura viva asimila del ambiente lo que le conviene y resiste lo que le daña; una iglesia absorbida por el ambiente ha perdido su diferencia y, con ella, su fecundidad. Los «nones» son, en buena parte, el resultado de ese colapso.
+
+Su lectura de la arquitectura —siguiendo a Joseph Campbell y Christopher Dawson— es un diagnóstico cultural muy concreto: la catedral medieval, el palacio renacentista y el rascacielos comercial moderno revelan qué se considera supremo en cada época. En Chicago, los tres edificios más altos llevan nombres de aseguradoras: la seguridad económica como valor máximo. El «materialismo heroico» que Kenneth Clark describió en el último capítulo de *Civilisation* no basta como ideal organizador, y el relato cristiano —la creación, la caída, el Hijo enviado para hacernos partícipes de la vida divina— sigue siendo el más bello y el más capaz de generar cultura.
+
+De ahí su tesis sobre la universidad: el *Logos* hecho carne se relaciona con toda expresión de razón, belleza y justicia, y por eso las universidades nacieron del seno de la Iglesia (Bolonia, París, Oxford, Cambridge), y Bonaventura y Newman lo formularon. Una universidad católica que esconde el nombre de Jesús —como hizo Georgetown al cubrir el *IHS*— no se vuelve más dialogante: se vuelve menos inteligible.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación]], [[educación_católica]], [[humanismo_integral]], [[autonomía_de_las_realidades_terrenas]], [[ciencia]], [[arte]]
@@ -151,3 +161,4 @@ Se relaciona con [[educación]], [[educación_católica]], [[humanismo_integral]
 
 - ConcVatII, GS §53-62
 - BCF, *Building a Culture of the Family* (Livio Melina, Pauls Publishing, 2010), introd. y cap. 1, `raw/Bases_doctrinales-raw/Building_a_Culture/`.
+- SW, *Seeds of the Word: Finding God in the Culture* (Robert Barron, Word on Fire, 2015): prefacio y partes I-IV; índice en `raw/Bases_doctrinales-raw/Seeds_of_the_Word_capitulos/índice.md`.

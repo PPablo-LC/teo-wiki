@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Consagración
 tags: ["sacramental", "dogmática"]
 
-timestamp: 2026-05-22
+timestamp: 2026-11-23
 description: "La consagración es el acto por el cual una persona o cosa es separada del uso profano y destinada al culto divino, quedando relacionada con Dios de manera estable."
 ---
 # Consagración
 
 > Área: Sacramental / Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-11-23
 
 ## Definición
 
@@ -41,6 +41,14 @@ En el orden sacerdotal, la consagración ontológica distingue al cristiano del 
 
 En el momento de la consagración, la asamblea se pone de pie como gesto de reverencia y acatamiento del misterio que se hace presente. El sacerdote realiza genuflexiones después de la consagración del Cuerpo y después de la consagración de la Sangre, como signo de adoración ante la presencia real de Cristo. El pueblo responde con la aclamación «Misterio de la fe» tras cada consagración.
 
+### Según Fulton J. Sheen — *Calvary and the Mass* (CAM)
+
+Sheen lee la consagración eucarística a la luz de la cuarta Palabra, el grito de abandono del Calvario (Mt 27,46): el pecado es «a separation, a divorce» entre la criatura y el Creador, y en expiación el Señor permite que su Sangre se separe de su Cuerpo —«This is the consecration of My Cross»—. En la Misa, la consagración **separada** del pan y del vino reproduce ese signo: «Do this for a commemoration of me», «This is my body», «This is the chalice of my blood of the new and eternal testament». Las palabras tienen un doble significado, «This is the Body of Christ; this is the Blood of Christ» y «This is my body; this is my blood» (CAM, cap. 4).
+
+El momento es «nothing more solemn exists on the face of God’s earth», porque «the Mass is not a prayer, nor a hymn, nor something said—it is a Divine Act with which we come in contact at a given moment of time». Sheen propone la «transubstanciación» también como programa de vida: «Transubstantiate me so that like bread which is now Thy body, and wine which is now Thy blood, I too may be wholly Thine», de modo que el puesto, el trabajo y la familia sean las «especies» y el alma, la voluntad y el corazón la «substancia» transformada (CAM, cap. 4).
+
+> Nota de método: Sheen aplica aquí la expresión «noche del alma» al abandono de Cristo; no identificarla sin más con la «noche oscura» sanjuanista.
+
 ## Distinciones importantes
 
 - **Consagración eucarística**: transubstanciación del pan y del vino
@@ -64,3 +72,4 @@ En el momento de la consagración, la asamblea se pone de pie como gesto de reve
 - CEC §1376-1377; §1538-1559; §1672
 - TPCr, Tercera Parte, Libro III, Art. 3 (sobre la consagración del mundo)
 - TPCr, Tercera Parte, Libro II, Cap. I (sobre el orden)
+- CAM (Fulton J. Sheen, *Calvary and the Mass*), cap. 4

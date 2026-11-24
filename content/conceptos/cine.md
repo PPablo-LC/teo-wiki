@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cine
 description: "El cine como arte narrativo y medio de evangelización que dramatiza verdades morales y teológicas a través de imagen, sonido y narrativa."
 tags: [cultura, arte, evangelización]
-timestamp: 2026-08-18
+timestamp: 2026-11-24
 ---
 
 # Cine
 
 > Área: Cultura / Evangelización
-> Última actualización: 2026-08-18
+> Última actualización: 2026-11-24
 
 ## Definición
 
@@ -39,6 +39,16 @@ La intuición central de Barron se resume en la afirmación de que «si realment
 
 Barron recurre también a la célebre máxima de John Henry Newman: «el corazón se alcanza por la imaginación, no por el razonamiento». Esta frase sintetiza la convicción de que la fe no se transmite primarily a través de argumentos lógicos, sino a través de historias que tocan la imaginación y el afecto. El cine, como arte narrativo por excelencia, posee una capacidad singular para alcanzar el corazón mediante la imaginación.
 
+### Según *Seeds of the Word* (SW)
+
+Los veintiséis ensayos de la primera parte son el corpus más amplio de lectura teológica del cine en el vault. Barron no busca «temas católicos» ni películas edificantes: parte de que el ícono cristiano se fragmentó y sus trozos están esparcidos por la cultura, de modo que el crítico con «imaginación analógica» reconoce en el cine comercial ecos del Evangelio. La advertencia es explícita: ninguna de esas figuras es «una presentación adecuada de la Palabra», pero todas son *semina verbi*, punto de partida y no sustituto.
+
+El repertorio muestra qué clase de verdad puede alojar el cine. El **deseo desordenado** aparece en *Vicky Cristina Barcelona*: sin el estadio religioso, la ética degenera en legalismo y luego en búsqueda de satisfacción, y todos los personajes son «almas ordenadas a Dios y privadas de Dios». La **víctima inocente** estructura *La lapidación de Soraya M.*, *District 9* y *Los juegos del hambre*, leídas con la teoría mimética de René Girard: el cristianismo desenmascara el mecanismo del chivo expiatorio y muestra a un Dios que se pone del lado de la víctima, hasta hacerse él mismo víctima. El **discernimiento de la voluntad de Dios** se dramatiza en *Un hombre serio*, relectura de Job cuyo desenlace —«You better find somebody to love»— hace de la canción de Jefferson Airplane la voz del torbellino. La **libertad frente al plan** se debate en *The Adjustment Bureau*, donde Barron diagnostica una teología de suma cero (de Ockham a Sartre) y opone la doctrina de la Encarnación: el plan de Dios no compite con la libertad, la sostiene, como el buen profesor de piano.
+
+El **icono cristológico** es el hilo más constante. La fórmula soteriológica de Atanasio —sólo un hombre podía salvarnos y sólo Dios podía salvarnos— explica el atractivo de los superhéroes híbridos; *The Dark Knight Rises*, *Guerra Mundial Z* y *Noah* repiten el patrón del salvador que carga con el mal y lo vence desde dentro. *Los miserables* ofrece la mejor catequesis de la gracia: los candelabros del obispo como «sacramento e instrumento de la gracia increada», y Javert como la ley sin misericordia, imagen de la condenación. En el extremo opuesto, *Agora*, *Ángeles y demonios* y *Hércules* difunden el metarrelato moderno —la ciencia y la libertad contra la superstición católica—, que Barron desmonta con datos históricos.
+
+El criterio teológico que subyace es doble: la gracia no suplanta la naturaleza ni la libertad, y el mal no es un principio rival sino una privación. De ahí que el cine pueda mostrar simultáneamente la hondura del pecado y la victoria del amor, sin moralismo ni sentimentalismo.
+
 ## Distinciones importantes
 
 - **Cine como entretenimiento vs. cine como arte**: el entretenimiento busca pasar el tiempo de forma agradable; el arte busca transformar al espectador y plantea preguntas que trascienden lo inmediato. No son mutuamente excluyentes, pero la diferencia es cualitativa.
@@ -58,3 +68,4 @@ El cine se conecta con el [[arte]] como expresión de la belleza divina y como c
 ## Referencias
 
 - WoF-4: *Word on Fire — Los cuatro antagonistas*, Robert Barron y colaboradores.
+- SW, *Seeds of the Word: Finding God in the Culture* (Robert Barron, Word on Fire, 2015), parte I: `03_parte_imago_dei_god_in_film.md`. Índice: `raw/Bases_doctrinales-raw/Seeds_of_the_Word_capitulos/índice.md`.

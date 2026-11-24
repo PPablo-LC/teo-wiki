@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Sacrificio de la Misa"
 description: "Renovación incruenta del sacrificio de la Cruz: en la misa, el mismo Cristo se ofrece por ministerio del sacerdote bajo especies sacramentales, aplicando los frutos de la Redención."
 tags: [eucaristía, liturgia, sacerdocio, dogmática]
-timestamp: 2026-09-23
+timestamp: 2026-11-23
 ---
 
 # Sacrificio de la Misa
 
 > Área: Dogmática (Eucaristía) / Liturgia / Sacerdocio
-> Última actualización: 2026-09-23
+> Última actualización: 2026-11-23
 
 ## Definición
 
@@ -22,6 +22,18 @@ La Misa, en cuanto **sacrificio**, es la renovación incruenta del [[sacrificio_
 - **Fines del sacrificio**: adoración (latría debida a Dios), acción de gracias, impetración, expiación y desagravio (por vivos y difuntos: la misa se ofrece por la Iglesia entera); la Misa no «multiplica» el sacrificio de la Cruz: lo hace **contemporáneo** (JEE 12-13).
 - **Participación de los fieles**: los bautizados participan con su [[sacerdocio real]]: ofrecen a Dios la Víctima divina y a sí mismos con ella (LG 11); la fecundidad del sacrificio en cada fiel es proporcional a sus disposiciones («los cántaros distintos en la misma fuente», Tóth).
 - **Historia de la definición**: contra los que negaban el carácter sacrificial (reformadores), Trento definió que la Misa es «verdadera y propia satisfacción» y sacrificio propiciatorio (DS 1740-1753); el magisterio reciente reafirma su centralidad (*Ecclesia de Eucharistia*; CEC §1362-1372).
+
+## Perspectivas por fuente
+
+### Según Fulton J. Sheen — *Calvary and the Mass* (CAM)
+
+Sheen reafirma la identidad del sacrificio apoyándose explícitamente en el Concilio de Trento (ses. 22): «He offered the Victim to be immolated; we offer it as immolated of old», de modo que en la Misa «one and the same Victim, one and the same High Priest… only the manner of the oblation is different» (CAM, prólogo). Con Maurice de la Taille, SJ insiste en que Cena y Cruz no son dos sacrificios sino «one complete sacrifice».
+
+Su aportación específica es presentar la Misa como **Acto divino** y no como plegaria: «the Mass is not a prayer, nor a hymn, nor something said—it is a Divine Act with which we come in contact at a given moment of time». De ahí la conclusión: aunque se celebren muchas Misas, «the sacrifice is one and the same despite the multiplicity of Masses» — analogía del troquel de la moneda—. El Calvario se re-presenta porque el Señor, que ya no puede sufrir en su naturaleza física, puede sufrir en su **Cuerpo Místico**, la Iglesia: «the Church collects them, harvests them, unifies them, coalesces them, masses them» y une nuestras oblaciones al Gran Sacrificio (CAM, cap. 4).
+
+La consagración separada del Cuerpo y de la Sangre representa la separación real de ambos en la cruz, «in atonement» del pecado que separó al hombre de Dios (CAM, cap. 4). Y el ofrecimiento del fiel se concreta en el pan y el vino, «of all things in nature, those which most represent the substance of life»: al llevarlos, el cristiano se ofrece a sí mismo, «co-offering our Mass with Christ», completando en su carne lo que falta a los sufrimientos de Cristo (Col 1,24; CAM, caps. 2 y 5).
+
+> «What was done on Calvary avails for us only in the degree that we repeat it in our own lives» (CAM, cap. 6).
 
 ## Distinciones importantes
 
@@ -45,3 +57,4 @@ La Misa, en cuanto **sacrificio**, es la renovación incruenta del [[sacrificio_
 - Concilio de Trento, sesión XXII (DS 1738-1759)
 - JPII, Ecclesia de Eucharistia §11-13; EMA (Tóth, caps. 6-7)
 - SmTh III q.79-83; LG 11
+- CAM (Fulton J. Sheen, *Calvary and the Mass*), prólogo y caps. 2, 4-6; Maurice de la Taille, SJ, citado en el prólogo

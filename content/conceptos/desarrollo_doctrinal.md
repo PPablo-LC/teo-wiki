@@ -8,7 +8,7 @@ timestamp: 2026-11-02
 # Desarrollo de la doctrina
 
 > Área: Teología dogmática / Teología fundamental / Magisterio
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-24
 
 ## Definición
 
@@ -80,6 +80,16 @@ Su imagen decisiva: «a veces se dice que el arroyo es más claro cerca de la fu
 
 El paso más sorprendente es que Newman deduce de ahí la necesidad de una **autoridad infalible**. Si las ideas se desarrollan en el juego vivo de teólogos y profesores, junto a los desarrollos aparecen corrupciones —las herejías lo atestiguan—, y hace falta una instancia que arbitre. Su silogismo: si la revelación forma parte de la economía divina y su contenido se despliega en el tiempo, Dios debió dotar a su Iglesia de una voz viva. Ni la Biblia sola —dividida en iglesias que se contradicen— ni el consenso de los Padres —textos, no voz viva— cumplen esa función; solo la Iglesia católica la reclama. Barron subraya el genio de haber unido lo que liberales y conservadores separan: la legitimidad del cambio y la necesidad del criterio infalible. En su propia biografía, el estudio de las controversias arrianas le mostró que la *via media* anglicana ocupaba la posición herética, y la sentencia agustiniana *Securus judicat orbis terrarum* acabó de decidirlo.
 
+### Según *Newman on Doctrinal Corruption* (NDC)
+
+Levering sostiene que la teoría newmaniana es **ininteligible al margen del problema de la corrupción doctrinal**: el *Essay* no nace de una especulación sobre el cambio, sino de la necesidad de responder a quienes acusaban a la Iglesia de haber corrompido el Evangelio. Cada nota, cada criterio y cada página presuponen un adversario que llama «corrupción» a lo que Newman llama «desarrollo». Leído sin ese contrapeso, el desarrollo se convierte en un mecanismo que legitima cualquier novedad.
+
+El criterio que Levering extrae, siguiendo a [[reinhard_hütter]], es doble: para cada desarrollo real hace falta una **demostración argumentada de continuidad** con la Escritura y la Tradición, y el **rechazo de toda ruptura heterogénea**. Newman lo formula en la *Apologia*: toda verdad nueva «must be at least homogeneous, cognate, implicit, viewed relatively to the old truth». Una contradicción clara sería corrupción: podría imaginarse —sin la guía del Espíritu— que la Iglesia enseñara que el carácter sacramental de la confirmación es incierto, que el matrimonio sacramental rato y consumado no es indisoluble, o que Jesús no resucitó corporalmente. Eso haría reversibles todos los dogmas, lo contrario del desarrollo newmaniano.
+
+Levering precisa además qué clase de necesidad tiene el desarrollo. No es una deducción lógica: quien exige «logical proof on the basis of the witness of the early Church» ha malentendido la teoría. Newman admite que «no doctrine of the Church can be rigorously proved by historical evidence: but at the same time that no doctrine can be simply disproved by it»; la evidencia histórica «reaches a certain way», a veces casi entera, a veces sólo indicando, a veces con aparente inclinación contraria «having to be explained». La Iglesia emplea la historia, pero también «Scripture, tradition, the ecclesiastical sense or φρόνημα, and a subtle ratiocinative power, which in its origin is a divine gift». De ahí la distinción entre **principio dogmático** y dogmatismo: la firmeza en la verdad definida no exige tener respuesta lógica a toda objeción, sino confiar en la promesa de Cristo a su Iglesia.
+
+El libro muestra el desarrollo en acto en tres casos: el primado petrino («The *regalia Petri* might sleep… as an unfulfilled prophecy»), la [[inmaculada_concepción]] (solemnizada en 1854 a partir de la liturgia y la fe de los fieles) y la [[infalibilidad_papal]] (definida en 1870 con un alcance menor del que pretendían los ultramontanos). Frente a las lecturas liberales —Loisy, Hünermann, David Bentley Hart—, Levering insiste en que el desarrollo no es «a mere cover for a radical diffuseness and pliancy native to Christian belief»: hay un depósito apostólico inteligible, que puede ser desarrollado pero no invertido.
+
 ## Distinciones importantes
 
 - **Desarrollo y cambio sustancial**: el desarrollo explícita lo implícito;
@@ -115,3 +125,5 @@ Se relaciona con [[tradición]], [[revelación]], [[magisterio]],
   (lín. 167-175).
 - Índice raw:
   `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
+- NDC, *Newman on Doctrinal Corruption* (Matthew Levering, Word on Fire Academic, 2022): `02_capitulo_1.md` (Gibbon y el *Essay*); `03_capitulo_2.md` (Froude y la *Via Media*); `05_capitulo_4.md` (Pusey y la Inmaculada); `06_capitulo_5.md` (Döllinger y la *Letter to the Duke of Norfolk*); `07_conclusion.md` (balance). Índice:
+  `raw/Bases_doctrinales-raw/Newman_on_Doctrinal_Corruption_capitulos/índice.md`.

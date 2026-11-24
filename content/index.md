@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-11-23'
+updated: '2026-11-24'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -202,6 +202,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[anticoncepción]]
 - [[anticristo]]
 - [[antigua_alianza]]
+- [[antiguarismo]]
 - [[antiguo_testamento]]
 - [[antisemitismo]]
 - [[antitesis_del_sermon_de_la_montana]]
@@ -364,6 +365,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[bonum_honestum]]
 - [[brazo]]
 - [[budismo]]
+- [[buen_ladrón]]
 - [[buen_pastor]]
 - [[buen_samaritano]]
 - [[buey_y_asno]]
@@ -382,6 +384,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[calendario_litúrgico]]
 - [[calma_de_la_tempestad]]
 - [[calumnia]]
+- [[calvario]]
 - [[calvinismo]]
 - [[camino]]
 - [[camino_de_emaús]]
@@ -659,6 +662,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[confianza_en_dios]]
 - [[configuración_con_cristo]]
 - [[confirmación]]
+- [[confiteor]]
 - [[conflagración_final]]
 - [[conflicto_íntimo_del_pecador]]
 - [[conformidad_con_cristo]]
@@ -694,6 +698,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[consejo_pastoral]]
 - [[consejo_presbiteral]]
 - [[consejos_evangélicos]]
+- [[consenso_de_los_fieles]]
 - [[consentimiento]]
 - [[consentimiento_matrimonial]]
 - [[conservación]]
@@ -1244,6 +1249,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[equidad]]
 - [[equilibrio_conciencia-verdad_moral]]
 - [[era_secular]]
+- [[erastianismo]]
 - [[eremitismo]]
 - [[ermitaño]]
 - [[ermitaños]]
@@ -1864,6 +1870,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[irreligión]]
 - [[islam]]
 - [[israel]]
+- [[ite_missa_est]]
 
 ### J
 
@@ -1893,6 +1900,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[juicio_de_dios]]
 - [[juicio_final]]
 - [[juicio_particular]]
+- [[juicio_privado]]
 - [[juicio_según_el_amor]]
 - [[juicio_universal]]
 - [[juramento]]
@@ -2002,6 +2010,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[liberalidad]]
 - [[liberalismo]]
 - [[liberalismo_católico]]
+- [[liberalismo_religioso]]
 - [[libertad]]
 - [[libertad-de]]
 - [[libertad-para]]
@@ -2458,6 +2467,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[octavo_mandamiento]]
 - [[ocultismo]]
 - [[odio]]
+- [[ofertorio]]
 - [[oficio_divino]]
 - [[oficio_divino_tardío]]
 - [[oficio_eclesiástico]]
@@ -2850,6 +2860,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[principio:_conciencia_invenciblemente_errónea_como_regla]]
 - [[principio:_conciencia_venciblemente_errónea_no_es_regla]]
 - [[principio_de_precaución]]
+- [[principio_sacramental]]
 - [[principios_de_la_doctrina_social]]
 - [[principios_de_la_moral_política]]
 - [[principios_morales_sobre_tentación]]
@@ -3191,6 +3202,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[sanciones_canónicas]]
 - [[sanciones_internacionales]]
 - [[sanctificatio]]
+- [[sanctus]]
 - [[sanedrín]]
 - [[sangre]]
 - [[sangre_de_cristo]]
@@ -3311,6 +3323,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[siervo_sufriente]]
 - [[siete_dolores]]
 - [[siete_dones_del_espíritu_santo]]
+- [[siete_palabras_de_cristo]]
 - [[siete_vicios_capitales]]
 - [[sigilo_sacramental]]
 - [[signatura_apostólica]]
@@ -3559,6 +3572,8 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### U
 
 - [[última_cena]]
+- [[último_evangelio]]
+- [[ultramontanismo]]
 - [[una_fidelidad_que_genera_futuro]]
 - [[una_sola_carne]]
 - [[unción]]
@@ -3992,6 +4007,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[edmund_burke]]
 - [[eduardo_robles_gil]]
 - [[edward_feser]]
+- [[edward_gibbon]]
 - [[elías]]
 - [[elipando]]
 - [[eliseo]]
@@ -4130,6 +4146,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[joás]]
 - [[joatán]]
 - [[johann_adam_möhler]]
+- [[johann_joseph_ignaz_von_döllinger]]
 - [[john_connor]]
 - [[john_harvey]]
 - [[john_henry_newman]]
@@ -4568,6 +4585,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### C (Documentos)
 
+- [[calvary_and_the_mass]]
 - [[carta_al_presbiterio_de_madrid]]
 - [[casti_connubii]]
 - [[catecismo_de_la_iglesia_católica]]
@@ -4718,6 +4736,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### N (Documentos)
 
+- [[newman_on_doctrinal_corruption]]
 - [[normae_de_gravioribus_delictis]]
 - [[nota_doctrinal_emociones_fe]]
 
@@ -4755,6 +4774,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[sacramentorum_sanctitatis_tutela]]
 - [[salud_mental_y_acompanamiento_pastoral_en_crisis_humanitarias]]
+- [[seeds_of_the_word]]
 - [[segundo_libro_de_samuel_barron]]
 - [[sexualidad_humana_verdad_y_significado]]
 - [[sharing_in_christs_virtues]]

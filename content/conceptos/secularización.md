@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Secularización
 tags: ["teología_fundamental"]
 
-timestamp: 2026-11-22
+timestamp: 2026-11-24
 description: "Proceso sociocultural por el cual las referencias cristianas comunes que durante siglos facilitaron la transmisión del mensaje evangélico y la comprensión del lenguaje moral y las grandes preguntas..."
 ---
 # Secularización
 
 > Área: Teología Fundamental
-> Última actualización: 2026-11-22
+> Última actualización: 2026-11-24
 
 ## Definición
 
@@ -53,6 +53,14 @@ Para explicar la relación entre la Iglesia y el mundo recurre a las parábolas 
 
 > «La secularización no es otra cosa que el influjo de veinte siglos de cristianismo, que se expresa y se manifiesta en el amor al prójimo» (IFT, cap. VIII).
 
+### Según *Seeds of the Word* (SW)
+
+Barron ofrece una definición operativa y un diagnóstico sociológico. **Secularismo** es «la convicción de que Dios, aun si existe, no importa mucho»; no es el ateísmo militante, sino la indiferencia que convive con creencias residuales. Los datos que maneja: los «nones» pasaron del 8,2 % en 1990 al 14,2 % en 2001 y al 15 % en 2008, y proceden de forma desproporcionada del protestantismo *mainline*, que se liberalizó, abandonó o suavizó las doctrinas clásicas y adoptó un programa de justicia social sin justificación teológica. La conclusión es nueva en el artículo: la secularización no sólo erosiona desde fuera, también la produce una iglesia que pierde su diferencia. Con Newman, Barron llama a esto pérdida del «poder de asimilación»: el organismo sano toma del ambiente lo que le conviene y resiste lo que le daña; cuando se disuelve en el ambiente, ha muerto, y los «nones» son quienes se limitan a reconocerlo.
+
+Su segunda tesis es una ley espiritual: **cuando lo sobrenatural se reprime, reaparece de forma indirecta y distorsionada**. De ahí la inmortalidad sucedánea de los vampiros, la fiebre de los programas de juicio en una cultura que prohíbe juzgar, y la cultura del *hookup* como libertad sin valor objetivo. No es una simple ausencia de religión, sino una sustitución.
+
+El diagnóstico de Europa es especialmente concreto: catedrales que son «una iglesia vacía más», turistas en Chartres, ignorancia del lenguaje bíblico incluso entre personas cultas. Barron enumera las causas habituales —la crítica a una Iglesia aliada con el poder, el descenso de Nietzsche, Marx y Freud, el individualismo consumista— y añade una propia: la orgía de violencia del siglo XX rompió algo en el espíritu europeo. La respuesta no es la nostalgia de cristiandad sino la Iglesia como testigo de la resurrección y «minoría creativa», que encuentra su identidad en dar testimonio, no en el éxito. Frente a ello, Kenneth Clark y el «materialismo heroico»: el progreso material no basta como ideal organizador de una sociedad; Juan Pablo II lo llamó «ateísmo práctico».
+
 ## Distinciones importantes
 
 - Secularización (pérdida de referencias cristianas compartidas) vs. secularismo (ideología que niega explícitamente la trascendencia)
@@ -73,3 +81,4 @@ Se relaciona con [[evangelización]], [[nueva_evangelización]], [[cultura]], [[
 - [CIS, «La catedral interior del sacerdote», 2026]
 - PWL, *Priests—What Lies Ahead?* (Carlos Granados, ed., Ignatius Press), índice en `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
 - IFT (Fulton J. Sheen, *In the Fullness of Time*), cap. VIII.
+- SW, *Seeds of the Word: Finding God in the Culture* (Robert Barron, Word on Fire, 2015), parte IV; índice en `raw/Bases_doctrinales-raw/Seeds_of_the_Word_capitulos/índice.md`.

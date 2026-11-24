@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Evangelización
 tags: ["doctrina_social", "eclesiología"]
 
-timestamp: 2026-09-08
+timestamp: 2026-11-24
 description: "La evangelización es la misión de la Iglesia de anunciar el Evangelio en todas las dimensiones de la vida, incluido el deporte como vía de belleza y testimonio."
 ---
 
 # Evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-09-08
+> Última actualización: 2026-11-24
 
 ## Definición
 
@@ -187,6 +187,16 @@ El corazón es el kerygma: anunciar a Jesucristo crucificado y resucitado. Cuand
 
 El modelo de evangelización de la cultura es el Areópago: buscar primero los *semina verbi* —en el superhéroe, en *El gran Gatsby*, en Dylan, en *Gran Torino*— para que la Palabra no parezca extraña. La Iglesia no existe para hacerse accesible al mundo sino para transformarlo, y solo lo logra afirmando su identidad: Balthasar habló del «derribo de los bastiones» y Frost de que «las buenas vallas hacen buenos vecinos». La «ortodoxia afirmativa» no cede en doctrina ni en moral, pero empieza por la belleza y la integridad del hecho cristiano, no por el «no hagas esto». El itinerario es de lo bello («¡es espléndido!») a lo bueno («¡debo jugarlo!») y a lo verdadero («¡es verdad!»), porque la belleza es hoy la vía privilegiada. A ello se añade el compromiso con los nuevos medios —Pablo usó las calzadas romanas; nosotros podemos proclamar sus escritos desde las azoteas por satélite— y la medida del éxito, que no es el aplauso sino que la gente vuelva a la Misa.
 
+### Según *Seeds of the Word* (SW)
+
+Es la formulación más explícita del método que el resto de fuentes presupone. Barron escribe desde «más de diez años» de evangelización de la cultura y lo dice sin ambages: a veces hay que increpar directamente —el aborto es su ejemplo—, pero en un marco posmoderno comenzar por prohibiciones morales suele ser un fracaso evangélico. De ahí su opción: partir de rasgos de la alta o baja cultura que, «a veces débilmente y a veces poderosamente», hacen eco del Evangelio.
+
+El modelo es Pablo en el Areópago (Hch 17,23), que no empieza por la noticia sino por el altar «al Dios desconocido». La apuesta es doble: que, una vez descubiertas las *semina verbi*, la Palabra de Cristo no parezca extraña, y que el no creyente pueda descubrir que «ya había estado adorando a Cristo, aunque bajo la figura de un Dios desconocido». La imagen que sostiene el método es la de Sokolowski: el ícono cristiano hecho pedazos, cuyos fragmentos están por todas partes. El evangelista necesita «imaginación analógica» para ver a Jesús en Superman o en Rooster Cogburn, sin confundir el fragmento con el todo: ninguna de esas figuras es presentación adecuada de la Palabra, pero todas son punto de partida.
+
+Barron nombra su estilo con la expresión del cardenal Dolan, **«ortodoxia afirmativa»**: subrayar lo que la Iglesia afirma más que lo que niega. No es irenismo —el libro critica sin ambigüedad el catolicismo reducido a justicia social, la espiritualidad sin Dios personal y el Jesús «no amenazante» de Sullivan—, sino una cuestión de orden de exposición: empezar por la belleza y la integridad del hecho cristiano, y no por el «no». El prólogo añade el fundamento patrístico: Justino y Clemente de Alejandría, para quien «la fuerza de la verdad no se oculta», y *Lumen Gentium* 16, que llama a lo bueno y verdadero de las religiones «preparación para el Evangelio».
+
+Su aplicación a los medios es concreta: el «Areópago moderno» es YouTube —diez millones de visitas en 2014—, con un formato breve de ocho a diez minutos, sin renunciar al cuello clerical y sin aceptar que la seriedad intelectual exija ausentarse del foro público. Newman, Chesterton, Knox, Lewis y Sheen escribieron en la prensa generalista; el medio cambia, la exigencia no. Y la medida del éxito no es el aplauso: es que la gente vuelva a la Misa.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[nueva_evangelización]], [[promoción_humana]], [[justicia_social]], [[reino_de_dios]]
@@ -214,3 +224,4 @@ Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [
 - Evangelization & Culture, Issue 14 (EAC-14 «Joy»): 01_from_the_desk.md, 09_spotlight_stewart.md, 17_feature_gadberry.md, 18_special_feature_britton.md, 19_spotlight_barron.md
 - Evangelization & Culture, Issue 19 (EAC-19): 01_from_the_desk.md, 16_feature_vukov.md, 22_peripheries.md
 - [EAC-20, 01_from_the_desk.md (Barron), 21_spotlight_masters.md (Masters), 23_soul.md (Gadberry), 19_feature_bradford.md (Shriver)]
+- SW, *Seeds of the Word: Finding God in the Culture* (Robert Barron, Word on Fire, 2015): prólogo, prefacio, parte IV («El Areópago moderno»); índice en `raw/Bases_doctrinales-raw/Seeds_of_the_Word_capitulos/índice.md`.

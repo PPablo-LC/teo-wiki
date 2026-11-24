@@ -6,6 +6,10 @@ description: "Registro acumulativo de wikilinks sin artículo propio: secciones 
 ---
 # Auditoría de wikilinks huérfanos
 
+> **Actualización 2026-11-24 (NDC) — *Newman on Doctrinal Corruption* (Matthew Levering):** procesada la fuente NDC (8/8 resúmenes, documento descriptivo, 4 conceptos nuevos —[[antiguarismo]], [[ultramontanismo]], [[consenso_de_los_fieles]], [[liberalismo_religioso]]—, 2 fichas de persona —[[edward_gibbon]], [[johann_joseph_ignaz_von_döllinger]]— y secciones por fuente en [[desarrollo_doctrinal]], [[infalibilidad_papal]] y [[john_henry_newman]]). Quedan sembrados **18 wikilinks nuevos sin artículo**: `[[alfred_loisy]]`, `[[edward_bouverie_pusey]]`, `[[erastianismo]]`, `[[francis_newman]]`, `[[henry_edward_manning]]`, `[[johannes_franzelin]]`, `[[john_acton]]`, `[[john_keble]]`, `[[joseph_butler]]`, `[[joseph_fessler]]`, `[[juicio_privado]]`, `[[marie_joseph_lagrange]]`, `[[método_histórico]]`, `[[principio_sacramental]]`, `[[reinhard_hütter]]`, `[[richard_frederick_littledale]]`, `[[richard_hurrell_froude]]`, `[[william_ewart_gladstone]]`; los ya registrados `anglicanismo` e `historia` solo suman referencias. Detalle en «Sembrados por NDC — *Newman on Doctrinal Corruption*». **Actualización 2026-11-24: `[[juicio_privado]]` y `[[principio_sacramental]]` resueltos con artículo propio** (`wiki/conceptos/juicio_privado.md` y `wiki/conceptos/principio_sacramental.md`), con las citas verificadas en el raw de NDC (cap. 1: Chillingworth; cap. 3: Butler, Keble y los alejandrinos; cap. 5: Döllinger, Acton, von Scherr y la *Letter to the Duke of Norfolk*; conclusión). Quedan 15 pendientes de ese lote; `[[erastianismo]]` se resolvió el mismo día con artículo propio (`wiki/conceptos/erastianismo.md`: Froude y los *Remarks on State Interference in Matters Spiritual*, la *Via Media*, la crítica de 1850 y el primado como alternativa anti-erastiana en la *Letter to the Duke of Norfolk*, caps. 2 y 5). Huérfanos únicos medidos con el detector tras el lote: **3.598**; tras crear `erastianismo`, **3.597**.
+
+> **Actualización 2026-11-23 (CAM) — *Calvary and the Mass* (Fulton J. Sheen):** procesada la fuente CAM (10/10 resúmenes, documento descriptivo, ficha del autor y 8 artículos nuevos en `wiki/conceptos/`), se resolvieron 8 huérfanos que ya habían sido sembrados desde AMSh y otras fuentes: `[[calvario]]`, `[[siete_palabras_de_cristo]]`, `[[buen_ladrón]]`, `[[confiteor]]`, `[[ofertorio]]`, `[[sanctus]]`, `[[ite_missa_est]]` y `[[último_evangelio]]`. Se siembran **11 enlaces nuevos sin artículo** (`abel`, `ángeles_caídos`, `co_redentora`, `deicidio`, `felix_culpa`, `iglesia_triunfante`, `isabel_cheney`, `oveja_perdida`, `talentos`, `veneración`, `vestiduras_litúrgicas`); los ya registrados `noche_oscura_del_alma` y `pobres` solo suman referencias. **Retargets aplicados** en índice raw, resúmenes y artículos: `padre celestial`→[[dios_padre]], `Magdalena`→[[santa_maría_magdalena]], `colecta`→[[pobres]], `consummatum_est`→[[cruz]], `envío_misionero`→[[evangelización]], `sanctus_de_zacarías`→[[veneración]], `veneración_de_maría`→[[madre_de_dios]]. Los 11 nuevos, con sus referencias, se detallan en «Sembrados por CAM — *Calvary and the Mass*». Huérfanos únicos medidos con el detector tras el lote: **3.581**.
+>
 > **Actualización 2026-11-23 (CyF) — *Cristo y los Fariseos* (Leonardo Castellani):** procesada la fuente CyF (26/26 resúmenes, documento descriptivo, ficha del autor y 22 artículos nuevos en `wiki/conceptos/`), quedan registrados **20 wikilinks nuevos sin artículo** y 5 ya registrados que solo suman referencias (`caifas`, `jesus_historico`, `abominacion_de_la_desolacion`, `idolo`, `sublimacion`). Se retargetearon a los resúmenes numerados reales las referencias sin numerar (`el_dulce_nazareno`→`05_ii_el_dulce_nazareno`, `la_carcel_de_oscar_wilde`→`15_xii_la_cárcel_de_oscar_wilde`, `sobre_la_castidad`→`24_sobre_la_castidad`, etc.) y a canónicos existentes `[[cristo]]`, `[[san_juan_bautista]]`, `[[agustín_de_hipona]]`, `[[dante_alighieri]]`, `[[jacques_maritain]]`, `[[corazón_de_cristo]]`, `[[escatología]]` y `[[formación_sacerdotal]]`. Los 20 nuevos, con sus referencias, se detallan en «Sembrados por CyF — *Cristo y los Fariseos*». Huérfanos únicos medidos con el detector tras este lote: **3.591** (3.561 antes de CyF).
 >
 > **Actualización 2026-11-23 (nonies) — `[[simbolismo]]` resuelto con artículo propio:** se crea `wiki/conceptos/simbolismo.md`, que expone la estructura simbólica de la realidad y del conocimiento (CEC §§1145-1152; SmTh III q.60 a.2; Guardini vía EAC-16; Granados) y la distingue expresamente del `[[símbolo_de_la_fe]]` (*symbolum*). Se mantiene la nota del lote 0 sobre el enlace mal formado de `marxismo`, que quedó como texto plano. Huérfanos únicos medidos con el detector tras este lote: **3.561** (3.563 antes de crear `culpa` y `simbolismo`).
@@ -7950,4 +7954,60 @@ resúmenes numerados reales todas las referencias sin numerar a capítulos
 | `[[guerra_espanola]]` | 1 | miscelánea | Baja — juicio histórico del autor (apéndice III) |
 | `[[celos]]` | 1 | miscelánea | Baja — referencia al capítulo IX |
 | `[[bibliografia]]` | 1 | miscelánea | Baja — entrada del índice onomástico |
+
+## Sembrados por CAM — *Calvary and the Mass* (Fulton J. Sheen, 2026-11-23)
+
+Forward references introducidas por el índice raw, el documento descriptivo, los
+10 resúmenes y los artículos enriquecidos. Los ya registrados `noche_oscura_del_alma`
+y `pobres` solo suman referencias y no se duplican. Se han retargeteado a canónicos
+existentes `padre celestial`→[[dios_padre]], `Magdalena`→[[santa_maría_magdalena]],
+`colecta`→[[pobres]], `consummatum_est`→[[cruz]], `envío_misionero`→[[evangelización]],
+`sanctus_de_zacarías`→[[veneración]] y `veneración_de_maría`→[[madre_de_dios]].
+
+| Wikilink | Referencias | Categoría | Prioridad |
+|----------|-------------|-----------|-----------|
+| `[[veneración]]` | 4 | mariología | Alta — distinta del culto de latría; la fuente la usa para María y los santos |
+| `[[iglesia_triunfante]]` | 4 | eclesiología | Alta — los coros celestes responden «Deo gratias» al final de la Misa |
+| `[[vestiduras_litúrgicas]]` | 4 | liturgia | Media — el Calvario como catedral del Sumo Sacerdote; imagen final de la sacristía |
+| `[[abel]]` | 3 | biblia | Media — sangre que clama al cielo, figura del Cordero (cap. 6) |
+| `[[ángeles_caídos]]` | 3 | angelología | Media — conocieron el mal con claridad y su decisión fue irrevocable (cap. 1) |
+| `[[co_redentora]]` | 3 | mariología | Alta — expresión devocional de Sheen, no definición dogmática; cotejar con CEC/ConcVatII |
+| `[[deicidio]]` | 3 | cristología | Media — acusación a los verdugos; el perdón de la primera Palabra la relativiza (cap. 1) |
+| `[[felix_culpa]]` | 3 | soteriología | Media — «He made our very crime a happy fault» (cap. 5) |
+| `[[oveja_perdida]]` | 3 | biblia | Media — imagen de la humanidad extraviada vuelta al Padre (cap. 7) |
+| `[[talentos]]` | 3 | escatología | Media — parábola de Mt 25,14-30 en el balance del Último Evangelio (cap. 7) |
+| `[[isabel_cheney]]` | 2 | miscelánea | Baja — autora del poema citado al cierre de la obra (cap. 7) |
+
+## Sembrados por SW — *Seeds of the Word* (Robert Barron)
+
+Forward references introducidas por el índice de la fuente, el documento descriptivo y los cinco resúmenes. Los enlaces se retargetearon a canónicos existentes cuando había variante: `doctrina_social`→[[doctrina_social_de_la_iglesia]], `política`→[[cristianismo_y_política]], `propiedad`→[[propiedad_privada]], `varón`→[[varón_y_mujer]].
+
+| Wikilink | Referencias | Categoría | Prioridad |
+|----------|-------------|-----------|-----------|
+| `[[técnica]]` | 1 | teología de la cultura | Media — Bacon y Descartes, el dominio de la naturaleza y la arrogancia tecnológica (parte IV); ya usado por Weizenbaum y [[ciencia_y_fe]] |
+| `[[edad_media]]` | 1 | historia de la teología | Media — la *curiositas* mal entendida, la *studiositas* y la deuda medieval de la modernidad (parte II); ya usado por NDC |
+
+## Sembrados por NDC — *Newman on Doctrinal Corruption*
+
+Referencias contadas sobre los resúmenes, el documento descriptivo, los artículos nuevos y las secciones añadidas a [[desarrollo_doctrinal]], [[infalibilidad_papal]] y [[john_henry_newman]].
+
+| Wikilink | Referencias | Categoría | Prioridad |
+|----------|-------------|-----------|-----------|
+| `[[método_histórico]]` | 4 | historia de la teología | Media — la relación entre historia y dogma según Newman y Döllinger |
+| `[[francis_newman]]` | 3 | persona | Alta — hermano de John Henry, autor de *Phases of Faith* (cap. 3) |
+| `[[edward_bouverie_pusey]]` | 3 | persona | Alta — líder tractariano, autor del *Eirenicon* (cap. 4) |
+| `[[henry_edward_manning]]` | 3 | persona | Alta — arzobispo de Westminster, voz ultramontana (caps. 2 y 5; conclusión) |
+| `[[william_ewart_gladstone]]` | 3 | persona | Alta — primer ministro, autor de *The Vatican Decrees* (cap. 5) |
+| `[[richard_hurrell_froude]]` | 2 | persona | Media — historiador y aliado antierastiano de Newman (cap. 2) |
+| `[[joseph_fessler]]` | 2 | persona | Media — secretario del Vaticano I y autor de *True and False Infallibility* (cap. 5) |
+| `[[john_acton]]` | 2 | persona | Media — interlocutor de Döllinger, «set the university in the place of the hierarchy» (cap. 5) |
+| `[[john_keble]]` | 2 | persona | Media — transmisor del principio sacramental a Newman (caps. 2-3) |
+| `[[joseph_butler]]` | 2 | persona | Media — probabilidades acumulativas y lectura de la Escritura (cap. 5) |
+| `[[johannes_franzelin]]` | 1 | persona | Baja — oficio *discendi* del pueblo fiel (conclusión) |
+| `[[reinhard_hütter]]` | 1 | persona | Media — criterio de continuidad y crítica del presentismo eclesial |
+| `[[alfred_loisy]]` | 2 | persona | Media — el modernismo que usa a Newman (introducción y cap. 5) |
+| `[[marie_joseph_lagrange]]` | 1 | persona | Baja — respuesta exegética a Loisy (cap. 5) |
+| `[[richard_frederick_littledale]]` | 1 | persona | Baja — destinatario de las cartas de 1872 sobre los límites de la infalibilidad |
+| `[[anglicanismo]]` | +2 | eclesiología | Ya registrado — la *Via Media* y el Movimiento de Oxford (cap. 2) |
+| `[[historia]]` | +3 | teología fundamental | Ya registrado — la historia como lugar del desarrollo y del dogma (caps. 1-2, 5) |
 
