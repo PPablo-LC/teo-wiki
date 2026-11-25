@@ -6,11 +6,11 @@ tags:
   - teología_moral
   - antropología_cristiana
   - escatología
-timestamp: 2026-11-02
+timestamp: 2026-11-25
 ---
 
 > Área: Teología moral / Antropología cristiana / Escatología
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-25
 
 # Felicidad
 
@@ -75,6 +75,18 @@ Tóth relaciona la pureza con la verdadera felicidad. Presenta una juventud pura
 ### Según *Priests—What Lies Ahead?* (PWL)
 
 Melina dedica su reflexión a la felicidad como palabra crucial de la moral clásica (Aristóteles, Agustín, Tomás). Kant separó moral y felicidad; la idea emotivista la reduce a estado de ánimo, mientras la tradición cristiana la entiende como plenitud de acción, de vida y de excelencia. Las Bienaventuranzas son el primer sermón de Jesús y su posición moral: unidad paradójica entre moral y felicidad; la felicidad está escondida en las lágrimas, la pobreza y la injusticia; el secreto es seguir a Cristo; se encuentra cuando no se busca; el alma se salva cuando la vida se pierde. El pelagianismo convierte las Bienaventuranzas en ideal inalcanzable; la gracia las hace posibles.
+
+### Según *Finding True Happiness* (FTH)
+
+Sheen aborda la felicidad desde la experiencia del desencanto: todos alcanzaron alguna vez lo que creían que los haría felices y no lo fueron. La razón es estructural, no accidental: «the tremendous disproportion between your desires and your realizations», porque el alma espiritual tiene algo de infinito mientras el cuerpo y el mundo son «cabined, cribbed, confined» [FTH, 02_1_finding_perfect_happiness.md, L21]. De ahí su tesis: «Every earthly ideal is lost by being possessed»; cuanto más material el ideal, mayor la decepción.
+
+Lo que el hombre busca, por tanto, no es un bien más, sino Vida, Verdad y Amor **sin mezcla de sus sombras** —muerte, error, odio—: «Pure Life, Pure Truth, Pure Love, and that is the definition of God. And the reason you have been disappointed is because you have not yet found Him!» [L25-27]. La infelicidad no se debe «to a want of something outside you, but to a want of something inside you. You cannot satisfy a soul with husks!» [L27]. Y formula el fin con una frase que resume su aportación: «You were made for perfect happiness. That is your purpose».
+
+Dos consecuencias pastorales. La primera, que reconocer el fin propio **alivia las cosas de la tierra**: dejan de decepcionar porque ya no se les pide lo que no pueden dar —«You cease looking for first-rate joys where there are only tenth-rate pleasures»— y se reciben como dones y puentes hacia el Dador [L29-31]. La segunda, que la felicidad no consiste en tener más sino en apreciar más: «It is not so much what happens in your life that matters; it is rather how you react to it» [FTH, 01_introduction.md, L5, cita de Sheen].
+
+La imagen con que cierra el capítulo 1 —el corazón humano al que parece faltarle una pieza del costado, que Dios se habría guardado en el cielo— explica por qué ningún amor terreno sacia: no se puede amar nada «with your whole heart because you have not a whole heart with which to love»; para ser realmente pacífico hay que volver a Dios «to recover the piece He has been keeping for your from all eternity» [L37]. Finalmente, la felicidad tiene una medida de entrega: «if you give Him only half your heart, He can make you only 50% happy» [FTH, 17_16_the_will_the_secret_of_sanctity.md, L29].
+
+En la introducción, Beattie añade la paradoja que Sheen toma de san Juan Neumann: la felicidad se encuentra dejando de buscarla, porque «you gain control by submission» [FTH, 01_introduction.md, L49-51].
 
 ## Distinciones importantes
 

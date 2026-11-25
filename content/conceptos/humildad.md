@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Humildad
 tags: ["moral", "ascética"]
 
-timestamp: "2026-11-01"
+timestamp: 2026-11-25
 description: "La humildad es la virtud fundamental que cohibe el apetito desordenado de excelencia; hacerse como niños ante la realidad y ante el Misterio según Giussani."
 ---
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-11-01
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -239,6 +239,18 @@ La meditación del martes de la segunda semana es la más densa del volumen sobr
 ### Según Lenten Gospel Reflections 2024 (LGR24)
 
 El texto de 2024 reproduce la estructura —Agustín, Pablo, Aquino— y subraya el carácter paradójico de la virtud: lo que parece rebajarnos es lo que nos libera, porque el ego que se hace dios exige ser alimentado constantemente y acaba esclavizando. «Dios es Dios, y nosotros no»: en esa frase se juega la salud espiritual entera. La meditación se apoya en la experiencia de la fragilidad —enfermedad, pecado, muerte— como lugar donde la verdad de la criatura se impone. En el conjunto del volumen cumple una función de bisagra antropológica entre la conversión como *metanoia* y la Cruz como crucifixión del ego.
+
+### Según *Finding True Happiness* (FTH)
+
+Sheen condensa la virtud en una fórmula: «Humility is truth, or seeing ourselves as we really are—not as we think we are, nor as the public believe us to be, or as our press notices describe us» [FTH, 06_5_self-inflation.md, L11]. No es, por tanto, subestimación: no es el cantante con talento que niega que sabe cantar. La medida es exterior: «As the artist must judge his painting by the sitter, as the die maker must judge his coin by the model, so we must judge ourselves by our Maker». La imagen que emplea —la vela que se jactaría de su luz frente a la luciérnaga y se vería como un rayo débil frente al sol— sitúa la humildad en el conocimiento de la desproporción con Dios.
+
+Su etiología es intelectual: «Pride is the child of ignorance, humility the offspring of knowledge» [FTH, 07_6_egotism_the_enemy_of_inner_peace.md, L7]. El ejemplo del estudiante —a los dieciocho lo sabe todo; a los veintiocho se siente ignorante ante la medicina que le falta— se aplica a Dios: porque no oramos ni contemplamos, nos volvemos vanos; cuando lo conocemos mejor «we feel a deep sense of dependence which tempers our false independence».
+
+Describe además la conducta concreta del humilde, que completa la doctrina clásica con detalles de examen: no se abate por las censuras —si dio ocasión, corrige; si no la merece, las tiene por nonada—; no da valor extravagante a distinciones y honores; la alabanza le incomoda «because he knows that whatever talents he has are gifts from God», y la recibe «as the window receives light, not as the battery receives a current»; y sirve «like the angels who, while ministering to others, are themselves unseen», sin agentes de prensa ni trompetas [FTH, 06_5_self-inflation.md, L13].
+
+Dos consecuencias más. La humildad es **camino del conocimiento**: ningún científico descubriría los secretos del átomo si le dictara al átomo lo que debe hacer (L15). Y es **condición de la fe**: el orgullo hace a la persona «insoluble» y bloquea la entrada de verdad nueva; la humildad, por su receptividad, «makes it possible to receive the joys of union with God» (L17). El fundamento último es 1 Cor 4,7: «What do you have that you haven't received?» [FTH, 07_6_egotism_the_enemy_of_inner_peace.md, L19].
+
+Sheen enmarca todo esto en un diagnóstico cultural: la tendencia moderna a la afirmación del yo «has not produced much happiness, for the more the ego asserts itself, the more miserable it becomes»; la humildad no es popular porque se ha olvidado la grandeza de Dios, y al expandir el pequeño yo hacia el Infinito se ha hecho parecer trivial la verdadera infinitud divina (L5-7).
 
 ## Distinciones importantes
 

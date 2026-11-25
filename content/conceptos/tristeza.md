@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tristeza
 tags: ["moral", "ascética"]
 
-timestamp: 2026-10-19
+timestamp: 2026-11-25
 description: "La tristeza espiritual —y particularmente la [[acedia]]— es una aflicción del alma que nace de la percepción del mal presente o de la ausencia del bien, especialmente del bien espiritual."
 ---
 # Tristeza
 
 > Área: Moral / Ascética
-> Última actualización: 2026-10-19
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -75,6 +75,25 @@ En el Libro IX (*Del vicio de la tristeza*), Casiano describe al «espíritu de 
 ### Según Affezione e dimora (AED)
 
 **La tristeza lúcida del sincero (AED 24).** Giussani, en la *Tischrede* 179 (*Deve prevalere una tristezza*), afirma que «si se es sincero, debe prevalecer una tristeza»: cuanto más preferencial es el otro y más te presiona, más trágica es la experiencia de la incapacidad de corresponder. Es la tristeza realista ante el mundo —no una virtud, sino la mirada lúcida— que no se resuelve en la desesperación, porque el hombre está en un camino en cuyo fondo un Otro le iluminará la respuesta (Is 43,19; Gv 14,6). No es la acedia: es la constatación trágica de que se debe a un Dios preferente al que no puede bastar por sí mismo (AED `24_preferenza_e_segno.md`, §Deve prevalere una tristezza).
+
+### Según *Finding True Happiness* (FTH)
+
+Sheen describe la tristeza por sus efectos antes que por su esencia. El primero es **perturbar el juicio**: «making us take a darker view of life than the facts justify», de modo que la tristeza lleva al pesimismo y todo pesimista es triste, con el desastre «just around the corner». El segundo es **volver áspero el trato**: el triste se hace severo, suspicaz y pronto a la peor interpretación de las acciones ajenas [FTH, 09_8_sadness.md, L3].
+
+Su diagnóstico psicológico es notable: los remedios falsos —el alcohol, los placeres carnales— fracasan porque el triste dice en algún momento, quizá sin saberlo, «I do not love myself»; y eso no es un complejo de inferioridad, sino «the higher part of the self looking down on the lower part and reprimanding it for its pitiable condition» (L5). La tristeza sería así un juicio verdadero sobre la propia miseria que se detiene antes de la esperanza.
+
+El remedio que propone es el de Sant 5,13: «If you are suffering, pray!», porque «we must be reconciled to ourselves in order to be happy» (L7). La oración obliga a ver la propia culpa y descubre que hace falta «a higher standard outside ourselves, from whose love we know that we have fallen». De ahí pasa a la esperanza: «I had thought that I was more», y uno es más, porque cada hombre vale más que todo el universo visible (cf. Mt 10,31; Lc 12,6) [L9]. Poner a Dios entre nosotros y nuestra vida anterior es condición del progreso espiritual, y Dios no se da «until we have begun to feel our own nothingness» (L13).
+
+La distinción decisiva del capítulo es esta: «It is one thing to discover one's nothingness, and to rest there—that is sadness. It is quite another thing to discover that one is nothing, and from there to make use of the Divine Energies—that is joy» (L15). La mediocridad, en ese marco, es «a sin against ourselves, a kind of sacrilege», y el *ennui* no es sino la reacción de posibilidades grandes sin desarrollar ante una vida trivial. Pasar de la tristeza al gozo exige «a birth, a moment of travail and labor», y los grandes gozos se hallan «in the recesses of a contrite, broken heart» (L17).
+
+En el capítulo 9 añade la tesis más rotunda, apoyada en Mt 6,16: «Sadness is atheistic; it is not Christian», porque muestra falta de fe y roba la esperanza [FTH, 10_9_moods.md, L3]. Y precisa que el mal humor no viene del tiempo ni de las circunstancias —«The fault…is not in our stars, but in ourselves»—, sino del estado del alma; su remedio son la buena conciencia y el gozo del bien ajeno (L5-15).
+
+## Distinciones importantes
+
+- **Tristeza según Dios vs. tristeza del mundo**: la primera procede del arrepentimiento y lleva a la vida; la segunda nace del amor propio herido y lleva a la desesperación (2 Cor 7,10).
+- **Tristeza-pasión vs. acedia**: la tristeza puede ser una reacción legítima ante un mal presente; la acedia es la tristeza por el bien espiritual, que paraliza la vida de oración.
+- **Tristeza que se detiene en la propia nada vs. tristeza que la atraviesa**: para Sheen, la primera es la tristeza estéril; la segunda, el umbral del gozo [FTH, 09_8_sadness.md, L15].
+- **Tristeza y melancolía temperamental**: la fuente trata ambas como estados que enturbian el juicio y no como excusa moral, sin confundirlos con la enfermedad que corresponde a la medicina [FTH, 11_10_mental_cases_are_increasing.md, L5].
 
 ## Relaciones doctrinales
 

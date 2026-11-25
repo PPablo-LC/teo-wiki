@@ -238,6 +238,14 @@ Este tratamiento de la misericordia en 2 Samuel ofrece una visión integradora d
 
 La meditación del lunes de la segunda semana desarrolla la misericordia en clave de gracia que supera el marco natural. Las exigencias del Sermón del Monte —amor radical a los enemigos, mansedumbre, renuncia a juzgar, pobreza y sencillez de corazón— no son realizables con las solas fuerzas humanas: necesitan la ayuda de Dios. Barron lo formula con una comparación fuerte: esa forma de vida le parecería a Aristóteles excesiva e irracional, y ese es justamente el punto; su viabilidad y su belleza solo emergen cuando la mente, la voluntad y el cuerpo han sido invadidos y elevados por el amor que Dios es. La gracia no invalida las excelencias naturales, sino que las transfigura. La misericordia es el nombre práctico de esa elevación: no indulgencia blanda, sino participación en el modo de ser divino, cuyo amor es anterior al mérito.
 
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+La antología de Sheen fija la definición por la etimología: *mercy* viene de *miserum cor*, «a sorrowful heart»; es «a compassionate understanding of another's unhappiness», y ante el pecado se vuelve perdón que «not merely pardons, but even rebuilds into justice, repentance, and love» (CJC, cap. 2, L11-15).
+
+Su lectura más original es la de los **tres crucificados** como retrato de la ley de la medida: el ladrón de la izquierda solo piensa en sí («save thyself and us») y no recibe nada; el de la derecha se compadece del compañero y reconoce la inocencia del que está en medio, y por eso oye la promesa (cap. 2, L37-47). «Blessed are the merciful: for they shall obtain mercy» no es una sentencia piadosa sino una ley tan rigurosa como las de la naturaleza: «with what measure you mete, it shall be measured to you again» (Mt 7,2).
+
+La prueba eclesial es **Pedro**: Cristo no eligió al inocente ni al virgen Juan, sino al que lo negó y «went out and wept bitterly» (Mt 26,75), «in order that the Church might forever practice mercy and kindness» (cap. 2, L65-71).
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.

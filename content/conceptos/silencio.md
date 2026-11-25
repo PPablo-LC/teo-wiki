@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Silencio
 tags: ["ascética", "moral", "mística"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-25
 description: "El silencio, en la vida espiritual, es la abstención voluntaria de hablar o la suspensión del ruido exterior e interior para disponer el alma a la escucha de Dios y el cultivo de la presencia divina."
 ---
 # Silencio
 
 > Área: Ascética / Moral / Mística
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -136,6 +136,18 @@ disipándonos excesivamente en el tiempo libre» (01, 63).
 **Silencio exterior y ruido interior.** El mero callar no basta: se puede guardar silencio exteriormente y estar desgarrado por el estruendo del mundo. Hacerse silencio significa descubrir otro orden de cosas: no limitar la atención a lo que uno produce y muestra, ni a lo que los hombres consideran importante, sino desarrollar los sentidos interiores, el sentido de la conciencia, la sensibilidad a lo eterno y la capacidad de escuchar a Dios (BWC 5).
 
 **La diagnosis cultural.** El autor compara al hombre actual con los dinosaurios, que perecieron por desarrollarse en la dirección equivocada —mucha coraza y poco cerebro—: nosotros acumulamos tecnología y perdemos alma. Recuperar el silencio no exige renunciar al trabajo humano, sino devolver espacio a la razón ética y religiosa, ese saber que se sitúa entre la ciencia y la superstición y que hace humano al hombre mirándolo a la luz de Dios (BWC 5).
+
+### Según *Finding True Happiness* (FTH)
+
+Sheen diagnostica el presente como «the most talkative age in the history of the world» y explica la causa: el amor al ruido y a la excitación se debe en parte a que la gente es infeliz por dentro; el ruido la exterioriza, la distrae y le hace olvidar por un momento sus preocupaciones. Su fórmula es memorable: «There is an unmistakable connection between an empty life and a hectic pace» [FTH, 04_3_silence.md, L3]. El mundo necesita acción, pero también saber **por qué** actúa, y eso «requires thought, contemplation, and silence».
+
+Su segunda aportación es la noción de **pasividad sabia**: «In silence, there is humility of spirit or what might be called "wise passivity." In such the ear is more important than the tongue» (L13). Dios no habla en ciclones, sino en céfiros y brisas suaves; como el científico aprende sentándose pasivamente ante la naturaleza, así el alma aprende la sabiduría siendo dócil a su Voluntad. La fórmula mariana lo condensa: «We do not tell or impose our will on God; in silence like Mary, we await an Annunciation».
+
+De ahí la imagen del espejo: es silencioso y refleja bosques, puestas de sol, flores y rostros; las almas dadas durante años a la meditación adquieren un resplandor que excede los rasgos del rostro, porque reflejan al Cristo que llevan dentro; y la conclusión antropológica: «What is really important is what happens within us, not outside us» (L15).
+
+Describe también la patología contraria: la rapidez de las comunicaciones hace que la gente viva «on the surface of their souls»; en vez de llevar su propia atmósfera, como la tierra al girar en torno al sol, son «like barometers that register every change in the world outside» (L15). El silencio les da un santuario interior, «as hidden gardens wherein like Adam and Eve before the Fall they walk with God in the cool of evening».
+
+Finalmente, une silencio y caridad: «Only in solitariness is true spirituality born, when the soul stands naked before its God», y en ese descubrimiento nace el amor al prójimo, porque se ve al otro como real o potencial hijo de Dios (L17). Como medios concretos menciona el «Retreat Movement» estadounidense —fines de semana de silencio, oración y purificación de la conciencia— y la costumbre romana de lavarse las manos al salir del negocio (L11).
 
 ## Relaciones doctrinales
 

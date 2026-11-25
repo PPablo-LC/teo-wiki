@@ -8004,3 +8004,43 @@ Referencias contadas sobre los resúmenes, el documento descriptivo, los artícu
 | `[[anglicanismo]]` | +2 | eclesiología | Ya registrado — la *Via Media* y el Movimiento de Oxford (cap. 2) |
 | `[[historia]]` | +3 | teología fundamental | Ya registrado — la historia como lugar del desarrollo y del dogma (caps. 1-2, 5) |
 
+
+## Sembrados por FTH — *Finding True Happiness* (Fulton J. Sheen, 2026-11-25)
+
+Procesada la fuente FTH (19/19 resúmenes, documento `finding_true_happiness.md`, dos conceptos nuevos —[[contentamiento]] y [[placer]]— y doce artículos canónicos enriquecidos). Quedan sembrados **12 wikilinks sin artículo propio**, con el contenido ya localizado en el raw para cuando se aborden:
+
+| Wikilink | Referencias en FTH | Contenido disponible |
+|---|---|---|
+| `[[john_neumann]]` | dedicatoria (portada) e introducción, L43-49 | Obispo de Filadelfia (1811-1860), primer obispo canonizado de EE. UU.; la depresión de sus años veinte, el abandono del consuelo y «You, my God, are the font both of aridity and grace»; el paralelo con Sheen |
+| `[[voluntad_propia]]` | cap. 10, L7; cap. 12, L5 | La filosofía de la propia voluntad y el choque de egos; el río con orillas frente al pantano «liberal» |
+| `[[juicio_temerario]]` | cap. 6, L9; cap. 9, L13 | La crítica ajena como consuelo de conciencias inquietas; buscar manchas en otros para distraer la propia miseria (Lc 18,11) |
+| `[[sumisión]]` | cap. 12, L3; introd., L51 | Necesidad profunda del corazón; liberalismo falso y totalitarismos; «you gain control by submission» |
+| `[[martirio_de_la_verdad]]` | cap. 12, L15 | El sendero estrecho, las vetas de metal y los granos de oro; «it takes a heap of virtuous living… to discover Truth» |
+| `[[santificación_del_trabajo]]` | cap. 4, L13; cap. 16, L19 | El trabajo en la perspectiva de la eternidad; «mopping an office for the love of God is "bigger" than running the office for the love of money» |
+| `[[autoestima]]` | cap. 8, L5; cap. 10, L9; cap. 5, L7 | Crítica del «complejo de inferioridad» como enfermedad; el pretendido complejo es de superioridad; la humildad como verdad |
+| `[[autoexpresión]]` | cap. 10, L5 | La cultura de la «self-expression» que excluye todo autodominio y su efecto en la salud mental |
+| `[[riqueza]]` | cap. 6, L5; cap. 5, L5 | Tener frente a ser; el rico humilde que ayuda al pobre en lugar de usarlo |
+| `[[celos]]` | cap. 14, L5 | Cuarta causa del descontento, ocasionada por la melancolía o por el odio a quien posee lo deseado |
+| `[[hedonismo]]` | `placer.md` | La tercera ley del placer: buscado como fin se pierde; ayuno y fiesta frente a fiesta y resaca |
+| `[[descontento]]` | `contentamiento.md` | Las cuatro causas y los tres remedios; «el descontento nunca es rico» |
+
+Los ya registrados `envidia`, `codicia`, `tristeza`, `soledad`, `silencio` y `descanso` solo suman referencias. Medición con `detectar_huerfanos.py --md` tras el lote: **3.602 huérfanos únicos** (3.590 antes de FTH).
+
+**Resuelto (2026-11-25):** `[[john_neumann]]` cuenta ya con artículo propio en `wiki/personas/john_neumann.md`, con la dedicatoria y la semblanza de FTH (portada, L15-18; introducción, L41-51), su lugar entre los santos de América (*Ecclesia in America*, cap. VI, nota 35) y el decreto de aprobación de sus virtudes citado por *Lumen gentium* (nota 155). Quedan **11 sembrados** de este lote. El artículo no siembra ninguno nuevo: la aridez se trata como texto llano y se enlaza a `[[noche_oscura]]` y `[[consolación]]`.
+
+## Sembrados por CJC — *The Cries of Jesus from the Cross* (fase 1, 2026-11-25)
+
+Procesada la fase 1 de CJC (19 archivos: portada, introducción, Primera y Segunda Palabra completas y portadilla de la Tercera), con documento `the_cries_of_jesus_from_the_cross.md` y secciones en [[siete_palabras_de_cristo]], [[perdón]] y [[misericordia]]. Quedan sembrados **8 wikilinks** sin artículo propio; el contenido ya está localizado en el raw:
+
+| Wikilink | Contenido disponible |
+|---|---|
+| `[[celos]]` | variante afectiva de la envidia (cap. 4) |
+| `[[cristo_crucificado]]` | «to know nothing… except Jesus Christ and him crucified» (1 Cor 2,2; introd.) |
+| `[[deicidio]]` | «the Crucifixion is not murder; it is deicide» (cap. 5) |
+| `[[juicio_temerario]]` | juzgar sin mandato ni conocimiento del corazón (cap. 3) |
+| `[[mártires]]` | el P. Pro, Esteban y los 12.000 asesinados en España (caps. 3 y 4) |
+| `[[the_seven_last_words]]` | obra de 1933, primera columna de la antología (documento) |
+| `[[viudez]]` | la cruz de las viudas, «particularly dear to Him» (cap. 7 de la Segunda Palabra) |
+| `[[ángeles_caídos]]` | los que «knew what they were doing» y no tienen redención (cap. 1) |
+
+Los ya registrados (`comunismo`, `ira`, `envidia`, `esperanza`, `fortaleza`, `ignorancia`, `humanismo`) solo suman referencias.

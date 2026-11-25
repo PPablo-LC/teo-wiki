@@ -41,6 +41,14 @@ Cada capítulo desarrolla una de estas correspondencias. La última Palabra cier
 
 Las siete Palabras no son solo un esquema literario: son el modo en que el Salvador «celebra» su Misa en el [[calvario]], con el mismo Sacerdote y la misma Víctima que en el altar. «He began His Mass with the word: “Father.” And He ends it with the same word» (CAM, cap. 7).
 
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+La antología de Al Smith añade a la lectura litúrgica de CAM dos ejes que esta no tenía. El primero es el de las **siete palabras dichas *a* la Cruz**: en el Calvario, Cristo habló siete veces desde la cruz, pero los que estaban allí le dirigieron también siete palabras, revelando «the seven different impacts the Cross makes on souls» (CJC, cap. 6, L3-5). La primera es la del humanismo —«save thy own self… come down from the Cross» (Mt 27,40)—, y cada grupo tiene su respuesta en la palabra que Cristo pronuncia.
+
+El segundo eje es el **emparejamiento con las palabras de María**: ella habla siete veces en la Escritura, y «now that the sun was out, there was no longer need of the moon to shine» (cap. 7, L11). Así, al «*know not*» del Hijo responde el «*I know not man*» de la Anunciación (Lc 1,34), y al «this day thou shalt be with me in paradise» responde el *Fiat mihi secundum verbum tuum* de Nazaret (Lc 1,38): el ladrón recibe un destino y María una misión (cap. 7, L11-19).
+
+La fórmula que condensa la aportación: «It is God who gives us the Cross. And it is the Cross that gives us God» (cap. 6, L43). Frente a la cruz-amuleto, el crucifijo «involves you in its guilt»; por eso el mundo pide un Cristo sin cruz.
+
 ## Distinciones importantes
 
 - **Las siete Palabras no son un texto único** en los Evangelios: están distribuidas entre los cuatro y la Iglesia las reúne en su tradición litúrgica.

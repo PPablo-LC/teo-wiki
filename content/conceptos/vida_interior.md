@@ -2,12 +2,12 @@
 type: Concepto Teológico
 title: Vida interior
 description: "La vida del alma en su relación con Dios, caracterizada por la oración, el recogimiento, la mortificación y la practica de las virtudes."
-timestamp: "2026-11-01"
+timestamp: 2026-11-25
 ---
 # Vida interior
 
 > Área: Ascética y Mística
-> Última actualización: 2026-11-01
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -45,6 +45,16 @@ El *Libro Segundo* de la *Imitación* se titula precisamente «Exhortación a la
 El criterio para medir el grado de interioridad es la relación con lo exterior: «El hombre interior presto se recoge, porque nunca se entrega todo a las cosas exteriores. No le estorba el trabajo exterior, ni la ocupación necesaria a tiempos» (II, 1); «Tanto se estorba el hombre y se distrae, cuanto atrae a sí las cosas de fuera» (II, 1). Y la pregunta que la examina es una de las más citadas de la obra: «¿Dónde estás cuando no estás contigo? Y después de haber discurrido por todas las cosas, ¿qué has ganado si de ti te olvidaste?» (II, 5).
 
 El *Libro Tercero* funda esa interioridad en el habla divina: «Bienaventurados los ojos que, cerrados a las cosas exteriores, están muy atentos a las interiores» (III, 1), porque «la verdad habla dentro del alma sin sonido de palabras» y los maestros humanos «pronuncian palabras, mas no dan espíritu» (III, 2). La vida interior no se opone, sin embargo, a la ocupación exterior, sino que la ordena desde dentro: «en cualquier lugar y en toda ocupación exterior estés libre dentro de ti y señor de ti mismo... Mira lo transitorio con el ojo izquierdo, y con el derecho, lo celestial» (III, 38).
+
+### Según *Finding True Happiness* (FTH)
+
+Sheen describe la vida interior como el combate decisivo: «The most important battle, however, is not external. It is the one that occurs in the soul», y advierte que quien no encuentra al enemigo dentro lo encontrará fuera: si no combatimos nuestro egoísmo, «we will selfishly combat other people» [FTH, 01_introduction.md, L11-13]. De ahí la tesis que recorre el volumen: la paz no viene de fuera sino que «emanates from the inside out» (L15).
+
+Su diagnóstico de la dispersión moderna es preciso: la rapidez de las comunicaciones y las noticias continuas hacen que la gente viva «on the surface of their souls»; muy pocos viven dentro de sí, y en vez de llevar su propia atmósfera, como la tierra al girar en torno al sol, son «like barometers that register every change in the world outside» [FTH, 04_3_silence.md, L15]. El silencio es lo que da «an inner sanctuary into which they may retire for repose».
+
+En clave de sanación interior, la oración ocupa el lugar del remedio: «Prayer overcomes sadness by putting us in relation with the Eternal»; antes creíamos no ser amados por nadie, ahora sabemos que somos amados por Dios [FTH, 09_8_sadness.md, L11]. Y el criterio de realidad que propone es exactamente el de la vida interior frente a la exterioridad: «What is really important is what happens within us, not outside us» [FTH, 04_3_silence.md, L15].
+
+Como medio concreto, la fuente documenta la práctica que Sheen mantuvo más de sesenta años: la **Hora Santa** diaria, «the hour that makes my day», a la que atribuyó su capacidad de llegar a la gente y en la que incluía la Misa de la mañana [FTH, 17_16_the_will_the_secret_of_sanctity.md, L27; 01_introduction.md, L31]. Su fórmula resume la primacía de lo interior en la santificación: «It is well to be a self-made man, but it is better to be a God-made man».
 
 ## Distinciones importantes
 

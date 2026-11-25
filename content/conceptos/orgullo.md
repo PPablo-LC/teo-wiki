@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Orgullo
 tags: ["moral", "ascética"]
 
-timestamp: 2026-05-22
+timestamp: 2026-11-25
 description: "El orgullo es el apetito desordenado de la propia excelencia, por el cual el hombre se atribuye a sí mismo lo que es de Dios, o se considera superior a lo que realmente es."
 ---
 # Orgullo
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -34,6 +34,16 @@ Royo Marín sitúa el orgullo en el marco de los pecados capitales y de la lucha
 
 [TPCr, Tercera Parte, Libro I, Cap. 1; TPCr, Tercera Parte, Libro II, Cap. IV]
 
+
+### Según *Finding True Happiness* (FTH)
+
+Sheen presenta el orgullo como una **vida en la mentira**: «The egotist, standing alone in his self-imagined greatness, lives in the world of a lie, because the truth about himself would puncture his self-inflation» [FTH, 06_5_self-inflation.md, L9]. De ahí su etiología intelectual, que invierte la imagen romántica del orgulloso seguro de sí: «Pride is the child of ignorance, humility the offspring of knowledge» [FTH, 07_6_egotism_the_enemy_of_inner_peace.md, L7]. El ejemplo es el estudiante: a los dieciocho cree saberlo todo; a los veintiocho, ante la ciencia que le falta, se siente ignorante; así con Dios, a quien no se conoce porque no se ora ni se contempla.
+
+Dos consecuencias. Primera, el orgullo **ciega sobre la propia situación**: el soberbio «se cree mejor de lo que es» y, al ser criticado, atribuye siempre la crítica a la envidia o al rencor del prójimo, mientras el humilde se juzga con un patrón exterior a sí mismo, Dios y su Ley moral (L9). Segunda, el orgullo **hace al hombre insoluble**: cierra la mente a la verdad nueva y, por tanto, a la Revelación; «only docile minds can receive new truth», y por eso el Señor sugirió que los profesores universitarios tendrán que hacerse como niños (FTH, 06_5_self-inflation.md, L17).
+
+Sheen recoge además la sentencia clásica que el artículo ya enuncia —«Pride rightly has been called the source of all other evils»— y la ilustra con Shakespeare: «Fling away ambition; By that sin fell the angels; How can man, then, the image of his Maker, expect to win by it?» (*Henry VIII*, III.ii) [L9].
+
+Su aportación más polémica es de orden psicológico-pastoral: nada ha contribuido tanto al egotismo «as the assumption that an "inferiority complex" is always wrong» (L7). Si no afirmarse fuera siempre señal de enfermedad, «entonces el orgullo satánico estaría en el trono». En el capítulo 10 lo formula como diagnóstico: quien es voluntarioso no tiene complejo de inferioridad, sino **complejo de superioridad**; sus sentimientos heridos pueden parecer inferioridad, pero no se sentiría herido sin un orgullo que trataría como Pilato a quien no lo halague [FTH, 11_10_mental_cases_are_increasing.md, L9].
 
 ## Distinciones importantes
 

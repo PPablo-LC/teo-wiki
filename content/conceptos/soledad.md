@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Soledad
 tags: ["ascética", "mística"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-25
 description: "La soledad es la condición de quien permanece apartado de la compañía humana; lugar de la pregunta por el sentido y apertura al Tú absoluto según Giussani."
 ---
 
 # Soledad
 
 > Área: Ascética / Mística
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -89,6 +89,16 @@ anónimo de la ciudad terrena”» (02, 147).
 ### Según León XIV (L_XIV-ClerRom)
 
 León XIV aborda la soledad sacerdotal como uno de los riesgos más graves del ministerio contemporáneo. Advierte a los presbíteros jóvenes que «se corre el riesgo de agotar pronto las propias energías, de acumular frustración y de caer en la soledad». Los sacerdotes ancianos también la padecen: «después de tanta gente, tanta soledad». El Papa propone como remedio la iniciativa personal para crear vínculos fraternos: «no tengamos miedo de llamar a la puerta del otro, de tomar la iniciativa». Recomienda formar grupos de fraternidad que se reúnan periódicamente en persona —«no a través de una pantalla»— para orar, estudiar y compartir la vida. Subraya que la soledad del sacerdote contrasta con la experiencia de quienes han cultivado amistades profundas durante su vida ministerial [L_XIV-ClerRom, 19.02.2026].
+
+### Según *Finding True Happiness* (FTH)
+
+Sheen afronta la soledad como fenómeno moderno y le da un diagnóstico teologal: «The basic reason for loneliness is that man today has divorced himself from both love of God and love of neighbor» [FTH, 12_11_loneliness.md, L11]. Su nota peculiar no es la ausencia de gente, sino la presencia sin pertenencia: «we can be in crowds and yet not be part of them. There is no loneliness like the loneliness of a big city».
+
+Recorre la soledad por edades (L7-9): los niños, por las burlas, los favoritismos, los hogares rotos o la madre que vuelve de noche y dice «I had almost forgotten I had you»; los jóvenes, por falta de estatus, que suplen vistiéndose como los demás; los solteros, desgarrados «between self-giving and self-sufficiency»; y muchos casados, «lonely together, like ships that pass in the night». Añade dos casos que la literatura ascética rara vez trata: los intelectuales, más solos por su orgullo y su autoritarismo, que «do nothing to love neighbor, but they still want to be loved»; y la paradoja del egoísta, que habiendo decidido amar solo al yo «cannot stand their ego» (L13-15).
+
+La ley espiritual que extrae es exacta: «To demand love is to lose love. A selfish heart creates its own vacuum» (L15). La respuesta no es más conexión sino vocación y amor recibido: la imagen del violín que no sabe para qué fue hecho, con el epitafio «Born a human person. Died a wholesale grocer» (L17), y la del amor que embellece: «Every woman is beautiful when she is loved… This is the way we are in relationship to God. We take on an inner glow with the consciousness that we are loved»; el alma del pecador, sin el amor de Dios, «aches, wrinkles and cracks», y rejuvenece al restaurar el vínculo (L19).
+
+La fuente distingue así, sin nombrarla con el término técnico, la soledad **estéril** del aislamiento egoísta y la soledad **fecunda** que el capítulo 3 describe como lugar donde «the soul stands naked before its God» y donde nace el amor al prójimo [FTH, 04_3_silence.md, L17].
 
 ## Distinciones importantes
 

@@ -2,13 +2,13 @@
 type: Persona
 title: Fulton J. Sheen
 tags: ["santos", "obispos", "comunicadores", "patronos"]
-timestamp: 2026-11-23
+timestamp: 2026-11-25
 description: "Fulton J. Sheen (1895-1979), arzobispo católico estadounidense, pionero de la evangelización a través de la radio y la televisión."
 ---
 # Fulton J. Sheen
 
 > Área: Santos / Comunicadores
-> Última actualización: 2026-11-23
+> Última actualización: 2026-11-25
 
 ## Biografía
 
@@ -58,6 +58,14 @@ La semblanza final del volumen recoge su formación —J.C.B. por la Catholic Un
 ### Según *Calvary and the Mass* (CAM)
 
 Este compañero de misal (10 archivos) muestra a un Sheen **liturgista y homileta**: organiza todo el Ordinario de la Misa según las Siete Palabras de la Cruz, con la tesis de que «Calvary is one with the Mass, and the Mass is one with Calvary, for in both there is the same Priest and Victim». El prólogo apoya la identidad del sacrificio en Maurice de la Taille, SJ y en Trento (ses. 22): Cena y Cruz son una sola oblación, «solo difiere el modo». Su lectura es inseparablemente ascética: el fiel es «pequeña hostia» que se ofrece con la gran Hostia y completa en su cuerpo lo que falta a los sufrimientos del Cuerpo Místico (Col 1,24), con penitencia y fe como condiciones, a imagen del buen ladrón. Aquí se concentran también sus textos más característicos sobre el pecado no negado pero perdonado (el Confiteor y el confesionario), María como Madre del Cuerpo Místico y «Sacristana del Sumo Sacerdote», el «Tengo sed» como sed de almas, y la perseverancia hasta el «consummatum est». El cierre con el poema de Elizabeth Cheney —«Tell every one that you meet / There is a Man on the Cross»— resume su predicación: la cruz debe hacerse visible en cada Misa y en cada vida [CAM, índice de la fuente].
+
+### Según *Finding True Happiness* (FTH)
+
+Esta antología (2013), preparada por Trent Beattie, muestra a un Sheen **asceta y director de almas** más que apologista o liturgista: dieciséis piezas breves tomadas de *Way to Happiness*, *Way to Inner Peace*, *Walk With God* y *You*, ordenadas en torno a la pregunta por la felicidad. El eje es la ordenación del deseo: el desencanto de todo bien finito, la distinción entre placer y gozo, y la conclusión de que el hombre fue hecho para la felicidad perfecta y solo Dios la responde [FTH, 02_1_finding_perfect_happiness.md, L27].
+
+La introducción añade datos biográficos que las demás fuentes no recogen con este detalle: su infancia en El Paso (Illinois), la tuberculosis superada, el *agrégé en philosophie* obtenido en Lovaina como primer estadounidense, sus más de sesenta libros, la amistad con Bella Dodd —abogada del Partido Comunista que volvió a la fe tras orar con él en una capilla— y, sobre todo, la **Hora Santa diaria** mantenida durante más de sesenta años, «the hour that makes my day», a la que atribuyó su eficacia apostólica. Murió el 9 de diciembre de 1979 en su capilla ante el Santísimo, dos meses y una semana después de encontrarse con Juan Pablo II en la catedral de San Patricio [FTH, 01_introduction.md, L17-31].
+
+Beattie lo presenta como «the greatest preacher of the 20th century» y subraya su humildad: la anécdota del hombre que, sin reconocerlo, le dijo en la catedral que «Dr. Fulton Sheen» lo volvía loco, y la respuesta del arzobispo de que él mismo pensaba a veces lo mismo de «Dr. Sheen» (L37-39). De ahí su tesis de que una condición de la felicidad es no tomarse demasiado en serio: «The more highly we regard ourselves, the more miserable we become» (L41). El paralelo con san Juan Neumann —la depresión vencida al dejar de buscar el consuelo— cierra la semblanza con la paradoja que Sheen haría propia: «you gain control by submission» (L49-51).
 
 ## Citas célebres
 
