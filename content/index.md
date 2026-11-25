@@ -4007,6 +4007,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[edmund_burke]]
 - [[eduardo_robles_gil]]
+- [[edward_bouverie_pusey]]
 - [[edward_feser]]
 - [[edward_gibbon]]
 - [[elías]]
@@ -4090,6 +4091,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[helder_câmara]]
 - [[henri_de_lubac]]
 - [[henri_nouwen]]
+- [[henry_edward_manning]]
 - [[herodes_el_grande]]
 - [[hilario_papa]]
 - [[holly_ordway]]
@@ -4549,6 +4551,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[walker_percy]]
 - [[walter_nigg]]
 - [[whittaker_chambers]]
+- [[william_ewart_gladstone]]
 - [[william_faulkner]]
 - [[winston_churchill]]
 
