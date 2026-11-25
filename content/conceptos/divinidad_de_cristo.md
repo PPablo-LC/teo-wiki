@@ -37,6 +37,10 @@ El Papa remite a su encíclica *Redemptor Hominis* como punto de partida de su p
 
 ODPC reconstruye la trayectoria con la que la divinidad de Jesús se hizo explícita. Implícitamente, Gesù se atribuye tres prerrogativas reservadas a Dios: el origen de la Ley («Fue dicho... pero yo os digo», Mt 5), el poder de perdonar los pecados (Mc 2,1-12) y el ser el criterio mismo del bien en el Juicio final (Mt 25,31-44): «Lui è il bene e non essere con Lui è male». Explícitamente: la pregunta sobre el Salmo 110 («¿cómo puede David llamarlo Señor?»); el «Prima che Abramo fosse, Io sono» (Gv 8,58; [[preexistencia_del_verbo]]); y la condena por blasfemia ante el Sinedrio, que testimonia judicialmente que sus adversarios reconocieron en su frase la identificación con el divino ([[proceso_de_jesús]]). La objeción moderna — que Jesús solo se habría proclamado «Hijo de Dios» — queda así desmontada históricamente. La identificación es única en la historia de las religiones: ningún genio religioso se identificó con el divino, porque cuanto más grande el genio, más percibe la distancia ([[pretesa_cristiana]]).
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn presentan la divinidad de Cristo a partir de sus palabras, acciones, resurrección y la adoración recibida. Jesús perdona pecados, actúa con autoridad sobre la Ley, se identifica con el «Yo Soy» de Éx 3,14 y acepta la confesión de Tomás: «Señor mío y Dios mío». La resurrección lo vindica como Hijo de Dios en poder. La guía añade evidencia patrística temprana (Ignacio de Antioquía, Aristides, Justino, Melito de Sardes) y no cristiana (Plinio, Luciano) contra la tesis de una divinización tardía. La doctrina se formula finalmente en la [[unión_hipostática]] de Calcedonia [TMO, 05, lín. 3-122].
+
 ## Distinciones importantes
 
 - Cristo como Dios-hombre (único en la historia) vs. sabios/fundadores religiosos (solo hombres)
@@ -55,3 +59,4 @@ Se relaciona con [[cristología]], [[jesucristo]], [[unión_hipostática]], [[co
 
 - UDE, Cap. VII
 - Juan Pablo II, *Redemptor Hominis* (1979)
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

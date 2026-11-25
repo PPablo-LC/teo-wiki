@@ -56,6 +56,30 @@ Sobre ese eje espiritual, la crónica sostiene un segundo registro: la reconstru
 - **Lugares**: [[belén]], [[jerusalén]], [[desierto]], Masada, Qumrán; Nazaret, Cafarnaún, Tabgha, Tabor, Ain-Karem, Betania.
 - **Personas**: [[luigi_giussani]], Luigi Amicone, Pierbattista Pizzaballa, Michel Sabbah, Emanuele Musalam, Bellarmino Bagatti, Virgilio Corbo, José O'Callaghan.
 
+## Distinciones importantes
+
+- **Crónica de experiencia / guía turística**: el libro no ordena datos para visitar lugares, sino que narra un encuentro; los lugares importan porque en ellos ocurrió y se vuelve reconocible un acontecimiento.
+- **Presencia / poder**: la alternativa que recorre el volumen no es primero entre confesiones o ideologías, sino entre Cristo presente como compañía y la tentación de reducir la fe a dominio clerical, político o identitario.
+- **Memoria / nostalgia**: la memoria cristiana no idealiza el pasado ni lo convierte en mito; reconoce un hecho ocurrido —«è la memoria di quel che è accaduto»— que sigue actuando en el presente.
+- **Testimonio / clamor**: el método cristiano descrito por Giussani no es la propaganda ni la ocupación del espacio público, sino la presencia humilde y verificable, «come un seme dentro la terra».
+
+## Relaciones doctrinales
+
+- [[encarnación]]: eje teológico del libro; Dios se comunica en la carne, en un lugar y en una historia concreta.
+- [[presencia_de_cristo]]: la fe cristiana es adhesión a una presencia actual, no solo adhesión a ideas o valores.
+- [[testimonio]]: la forma de la misión cristiana en Tierra Santa y en la vida ordinaria.
+- [[iglesia]]: comunidad nacida del acontecimiento de Cristo; su tentación es convertirse en poder.
+- [[bienaventuranzas]]: moral que brota de la pertenencia a Cristo, no código previo al encuentro.
+- [[jerusalén]] y [[belén]]: lugares donde la geografía se vuelve memoria teológica.
+
+## Ver también
+
+- [[luigi_giussani]]
+- [[encarnación]]
+- [[presencia_de_cristo]]
+- [[testimonio]]
+- [[jerusalén]]
+
 ## Referencias
 
 - [STC] *Sulle tracce di Cristo. Viaggio in Terrasanta con Luigi Giussani*, Luigi Amicone (ed. 2006; prefacio de P. Pizzaballa en la de 2024)

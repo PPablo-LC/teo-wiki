@@ -51,6 +51,10 @@ Bobby Ángel propone responder a Ricky Gervais desde Chesterton y Tomás de Aqui
 
 **El sufrimiento natural y la cruz como árbol de vida (Matthew Becklo, sobre *The Tree of Life*).** El misterio de la iniquidad (sufrimiento infligido y autoinfligido) y el sufrimiento natural del mundo; la pregunta «¿dónde estabas tú?...» (Job 38,4.7); la respuesta de Malick: el sufrimiento está envuelto por el amor y la sabiduría de Dios; el pecado, el sufrimiento y la muerte no tienen la última palabra; la cruz de Cristo como «nuestra respuesta última al sufrimiento, nuestra única esperanza, nuestro árbol de vida» [EAC-15, 08].
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn abordan el problema del mal dentro de la doctrina de la [[providencia]]. Parten de la [[causalidad_no_competitiva]] para negar tanto el deísmo como el ocasionalismo: Dios gobierna sin anular las causas creadas. Definen el mal, con Agustín, como privación de bien (*privatio boni*), no como sustancia creada por Dios. Respecto al [[mal_moral]], recurren a la defensa del [[libre_albedrío]]: Dios permite el pecado porque el amor libre es un bien mayor, sin ser autor del mal. Respecto al mal físico, señalan la regularidad de las leyes naturales y los bienes que pueden surgir del sufrimiento. La respuesta final no es solo filosófica, sino cristológica: en la cruz Dios entra en el sufrimiento; la resurrección muestra que el mal no tiene la última palabra [TMO, 04, lín. 5-123].
+
 ## Distinciones importantes
 
 - Problema del mal ≠ teodicea: aquel es la objeción; esta es la disciplina que la examina y responde.
@@ -72,3 +76,4 @@ Se relaciona con [[teodicea]], [[castigos]], [[libertad_humana]], [[dignidad_hum
 - Ángel, B. "The Lifegiving Nature of Comedy." *Evangelization & Culture*, No. 8 (2022)
 - Frankl, V. (véase `wiki/personas/viktor_frankl.md`)
 - *Evangelization & Culture*, No. 15 (2023), archivos 01, 08, 09, 14, 16
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

@@ -33,6 +33,10 @@ San Agustín fórmula esta verdad con palabras inmortales: «Nos has hecho para 
 
 El hombre es por naturaleza y por vocación un ser religioso: «Viniendo de Dios y yendo hacia Dios, el hombre no vive una vida plenamente humana si no vive libremente su vínculo con Dios» (§44).
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn usan el deseo de Dios para responder a Ludwig Feuerbach. El deseo humano de plenitud no prueba que Dios sea una proyección, sino que la criatura está orientada a su Creador. La guía desarrolla el [[argumento_del_deseo]] con Kreeft y Tacelli y cita a San Agustín: el corazón inquieto apunta a un bien capaz de colmarlo. El deseo se vuelve así un indicio antropológico que converge con los argumentos racionales de la existencia de Dios [TMO, 01, lín. 67-108].
+
 ## Distinciones importantes
 
 - **Deseo natural vs. búsqueda sobrenatural**: el deseo de Dios es natural al hombre, pero su cumplimiento pleno requiere la gracia y la revelación divina.
@@ -52,3 +56,4 @@ Se relaciona con el [[conocimiento_natural_de_dios]] (las vías para conocer a D
 - [CEC §27-30]
 - [CEC §44-49]
 - San Agustín, Confesiones I,1,1
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

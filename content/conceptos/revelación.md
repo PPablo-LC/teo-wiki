@@ -75,6 +75,10 @@ Barron explica por qué la teología de la revelación se sirve de la filosofía
 
 Por último, «conocer» a Dios tiene en Tomás resonancia bíblica: no ideas claras y distintas, sino participación amorosa, un anticipo del cielo. Quien es tocado por ese conocimiento queda marcado y transformado (TAM, cap. 1).
 
+### Según *The Mystery of God* (TMO)
+
+La guía distingue la cognoscibilidad racional de Dios de la revelación plena en Cristo y en la Trinidad. La razón puede llegar a conocer que Dios existe y algunos de sus atributos, pero la vida íntima de Dios —un Dios en tres Personas— se conoce por revelación. En este sentido, la apologética racional prepara el terreno para la fe: abre el acceso al Dios de los filósofos y conduce al Dios que se revela como amor trinitario [TMO, 01, lín. 49-66; 05-06].
+
 ## Distinciones importantes
 
 - **Revelación natural vs. sobrenatural**: la primera por las criaturas; la segunda por comunicación directa de Dios
@@ -95,3 +99,4 @@ Se relaciona con [[revelación_divina]], [[revelaciones]], [[virtud_de_la_fe]], 
 - TPCr, Primera Parte, Cap. III, n.38
 - Concilio Vaticano II, Dei Verbum 2-6
 - Ele_Xto_Stos, Cap. III, §1
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

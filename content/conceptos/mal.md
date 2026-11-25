@@ -54,6 +54,10 @@ Las ideologías del mal —nazismo y comunismo— nacen del rechazo a Dios como 
 
 El mal no es omnipotente: la Divina Providencia impone límites a su desenfreno. «Dios concedió al hitlerismo doce años de existencia y, cumplido este plazo, el sistema sucumbió» [MI, cap. 3]. El límite impuesto al mal es el bien divino y humano que se ha manifestado en la historia, por medio de Cristo [MI, cap. 3].
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn retoman la doctrina agustiniana del mal como *privatio boni*: el mal no es una sustancia creada por Dios, sino la privación de un bien debido. Esta precisión evita el dualismo maniqueo y preserva la bondad de la creación. En el marco del [[problema_del_mal]], la guía distingue el mal moral —resultado del mal uso del [[libre_albedrío]]— del mal físico, asociado a la finitud y regularidad de un mundo natural. Dios no causa el mal, pero puede permitirlo y ordenar bienes mayores desde él [TMO, 04, lín. 53-103].
+
 ## Distinciones importantes
 
 - **Mal de pena vs. mal de culpa**: la pena es privación de un bien en el sujeto; la culpa es desorden de la acción voluntaria. La culpa es ontológicamente peor porque hace malo al agente.
@@ -78,3 +82,5 @@ El mal como privación del bien se relaciona con la doctrina de la [[creación]]
 [[demonio]], [[pecado_original]], [[concupiscencia]], [[tentación]], [[creación]], [[providencia_divina]], [[infierno]], [[mysterium_iniquitatis]]
 
 ## Referencias
+
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

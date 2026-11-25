@@ -107,6 +107,10 @@ Dedica un apartado al **[[filioque]]**: el texto de 381 dice «del Padre» (Jn 1
 
 La consecuencia metafísica que más subraya es que **el ser es relacional**: frente a la primacía clásica de la sustancia, la Trinidad muestra que en el fundamento de lo real hay «ser hacia otro». De ahí deduce la ética del amor a los enemigos: el Padre hace salir su sol sobre buenos y malos, y los hijos deben amar como él ama.
 
+### Según *The Mystery of God* (TMO)
+
+La guía presenta la Trinidad como culminación del conocimiento de Dios: tras exponer la divinidad de Cristo, conduce al dogma de un solo Dios en tres Personas distintas. Define persona como «quién» y naturaleza como «lo que»; rechaza tanto el [[modalismo]], que confunde las Personas, como el [[arrianismo]], que divide la naturaleza divina. Expone la divinidad del [[espíritu_santo]], la consustancialidad del Hijo y la insuficiencia de analogías como el trébol. Recurre a la analogía agustiniana de la mente (memoria, inteligencia, amor), a la explicación tomista de las procesiones divinas dentro de la simplicidad, y a la lectura de Ratzinger sobre la relación como constitutiva de las Personas divinas. La Trinidad aparece así no como especulación abstracta, sino como revelación del Dios que es comunión eterna de amor [TMO, 05, lín. 3-122; 06, lín. 3-120].
+
 ## Distinciones importantes
 - Trinidad económica (revelada en las misiones divinas) ≠ Trinidad inmanente (Dios en sí mismo)
 - Unidad de esencia ≠ distinción de Personas
@@ -129,3 +133,4 @@ Se relaciona con [[encarnación]], [[espíritu_santo]], [[visión_beatífica]], 
 - [CEC §232-267; §290-292; §648-650; §731-732]
 - [TPCr, Primera Parte, Cap. 2; Segunda Parte, Cap. 1]
 - SmTh Iª q.30 (Pluralidad de personas divinas), q.31 (Unidad y pluralidad), q.32 (Conocimiento de las personas divinas), q.39 (Relación personas-esencia), q.42 (Igualdad y semejanza)
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

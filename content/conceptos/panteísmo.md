@@ -34,6 +34,10 @@ El **panteísmo** es la doctrina que identifica a Dios con el todo de la realida
 - **O nihilismo o panteísmo** — las dos tentaciones/reducciones de la mentalidad moderna; negaciones de la razón (04, 17-33)
 - **La realidad no se hace por sí misma** — contingencia; «Dio è tutto»; las cosas son hechas por Dios, no partes indistintas del Ser (04, 5)
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn rechazan el panteísmo al exponer la [[simplicidad_divina]] y el *[[ipsum_esse]]*: la creación participa del ser de Dios, pero no es Dios. Esta distinción preserva la trascendencia divina sin caer en el deísmo; Dios es íntimo a todas las cosas como causa del ser, pero no se identifica con el universo ni con sus partes [TMO, 01, lín. 63-66; 03, lín. 25-55].
+
 ## Distinciones importantes
 
 - **Panteísmo ≠ contingencia** — lo creado no es parte de Dios: es hecho por Dios.
@@ -59,3 +63,4 @@ El **panteísmo** es la doctrina que identifica a Dios con el todo de la realida
 
 - Giussani, L., *Dare la vita per l'opera di un Altro*, BUR Rizzoli, Milano; archivo 04.
 - Índice de conceptos: `raw/Bases_doctrinales-raw/Dare_la_vita_per_lopera_di_un_Altro_capitoli/índice.md`.
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

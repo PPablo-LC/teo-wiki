@@ -34,6 +34,7 @@ Barron enseña que «la mejor estrategia evangelizadora es aquella que va de lo 
 - *Pivotal Players* (serie de documentales biográficos)
 - *Word on Fire Institute* (formación de evangelizadores)
 - *Evangelization & Culture* (revista trimestral)
+- *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, programa de estudio; guía escrita por Trent Horn) — curso apologético sobre Dios: ateísmo, caminos racionales hacia Dios, atributos divinos, providencia y problema del mal, divinidad de Cristo y Trinidad. [Ficha](../documentos/the_mystery_of_god.md)
 - Presencia activa en YouTube, Twitter, Instagram
 
 ## Citas célebres

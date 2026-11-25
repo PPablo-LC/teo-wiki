@@ -63,6 +63,10 @@ Barron conecta esta tesis con el nombre revelado en Éx 3,14. Moisés preguntaba
 
 El quinto artículo, que niega que Dios pueda situarse en un género, confirma la misma dirección: quien imagina poder clasificar a Dios se coloca en una posición superior a él, y el teólogo que lo encaja en la casilla lógica correcta afirma sutilmente su dominio de lo divino, que no es sino la suprema fantasía del yo pecador. «Yo soy el que soy» sería entonces la negativa a quedar atrapado en la pregunta y un desafío a las presuposiciones de quien la formula (TAM, cap. 2). Barron cierra la sección con Tillich: frente al Dios concebido como un extraño o un ser supremo distante, Tomás coincide en verlo como raíz y fundamento de nuestro ser, desmontando la mitología del «ser supremo» que opone y hace competir a Dios con el mundo (TAM, cap. 2; cf. [[trascendencia_no_competitiva]]).
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn presentan la simplicidad divina como afirmación de que Dios no está compuesto de partes físicas ni metafísicas: su misericordia, justicia y poder no son piezas añadidas a su ser, sino idénticos a su esencia. Esta doctrina protege la trascendencia de Dios frente a imágenes corpóreas y frente al panteísmo: la creación participa del ser de Dios sin ser Dios. La guía la vincula también a la identidad entre esencia y existencia: Dios no «tiene» atributos como accidentes, sino que es su ser y sus perfecciones de modo simple [TMO, 03, lín. 25-55].
+
 ## Distinciones importantes
 
 - **Composición física**: Dios no tiene partes extensas ni cuantitativas. No es corpóreo.
@@ -85,3 +89,4 @@ La simplicidad divina se fundamenta en el [[acto_puro]] y en la identidad de [[e
 - [TPCr, Primera Parte, Cap. II, art. 1 (n. 38)]
 - [Concilio Lateranense IV, *De fide catholica* (DS 800)]
 - [SmTh Iª q.3 a.1-8]
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

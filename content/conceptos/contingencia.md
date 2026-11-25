@@ -31,6 +31,10 @@ DLV radicaliza la contingencia en la experiencia de la dependencia originaria:
 - **La negación de la contingencia** — el *daimon*, el ángel rebelde que no reconoce ser hecho: «No, non Ti riconosco»; la cultura moderna abole el pasado y mata la pertenencia (Arendt) (DLV 14, 33-71).
 - **La criatura, domanda de ser** — el ser participado se expresa como oración, *domanda* de ser (1Tm 4,4; 1Cor 10,31; 1Ts 5,10) (DLV 04, 77-79).
 
+### Según *The Mystery of God* (TMO)
+
+En la vía tomista desde la contingencia, Barron y Trent Horn definen el ser contingente como aquel que depende de otro para existir y el ser necesario como aquel que no depende de nada. El argumento no se apoya solo en que las partes del universo sean contingentes, sino en que el conjunto mismo podría no existir y, por tanto, reclama una explicación. La guía responde a la objeción de un universo necesario distinguiendo posibilidad metafísica de duración temporal: incluso un universo eterno seguiría siendo contingente. El [[principio_de_razon_suficiente]] y la crítica a la regresión infinita refuerzan la conclusión: debe existir un ser necesario, que la tradición identifica con Dios [TMO, 02, lín. 11-119].
+
 ## Ver también
 
 [[existencia_de_dios]], [[pruebas_de_la_existencia_de_dios]], [[ser_necesario]], [[esencia_y_existencia]], [[creación]]
@@ -39,3 +43,4 @@ DLV radicaliza la contingencia en la experiencia de la dependencia originaria:
 
 - Santo Tomás de Aquino, *Summa Theologiae* I, q.2, a.3 (tercera vía)
 - CEC §34-35 (conocimiento de Dios por la razón)
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

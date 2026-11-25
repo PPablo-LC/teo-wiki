@@ -63,6 +63,10 @@ a.16 — La ciencia de Dios es a la vez especulativa (en cuanto a Sí mismo) y p
 
 Royo Marín, en el tratado de los [[atributos_divinos]], explica que la omnisciencia divina es el conocimiento perfecto y total que Dios tiene de sí mismo y de todo lo creado y creable. Este conocimiento es sustancial, inmutable, eterno, infalible. Dios conoce todas las cosas por su esencia, que es ejemplar y causa de todo lo creado. Incluye la ciencia de visión (lo que es, fue o será), la ciencia de simple inteligencia (lo posible) y la ciencia media (los futuros condicionados).
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn exponen la omnisciencia como conocimiento divino de todas las cosas (Sal 147,5; Heb 4,13). Ante la objeción de que el conocimiento previo de Dios destruiría el libre albedrío, distinguen conocimiento y causación: que Dios sepa lo que haré libremente no hace que mi acto deje de ser libre. La guía menciona, sin resolver el debate técnico, las respuestas molinista y tomista sobre la relación entre presciencia divina y libertad creada [TMO, 03, lín. 94-112].
+
 ## Distinciones importantes
 
 - **Ciencia de visión**: conocimiento de lo real (pasado, presente, futuro)
@@ -79,3 +83,4 @@ Royo Marín, en el tratado de los [[atributos_divinos]], explica que la omniscie
 - CEC §200-202, §216-217
 - TPCr, tratado de los atributos divinos
 - SmTh Iª q.14 a.1-16; q.15 a.1-3
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

@@ -146,6 +146,10 @@ alcanza también a la prueba de sus hijos, y su tarea es confiar sin
 renunciar a la verdad. El volumen entero presupone esta confianza: sin
 providencia, el acompañamiento sería solo técnica.
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn exponen la providencia mediante la [[causalidad_no_competitiva]]: Dios obra como causa primaria creando y sosteniendo el universo, mientras las criaturas actúan como causas secundarias reales. Este marco evita el deísmo, la teología del proceso y el ocasionalismo. La providencia no es intervención mágica que anula las leyes naturales, sino el gobierno divino que ordena las causas a fines buenos. La oración no compite con la providencia, sino que es una causa incluida en ella. Esta visión prepara la respuesta cristiana al [[problema_del_mal]]: Dios no causa el mal moral, pero puede permitirlo y traer de él un bien mayor [TMO, 04, lín. 5-51].
+
 ### Según The Strangest Way (STR)
 
 Barron dedica al tema las páginas más especulativas del tercer camino, y su punto de partida es una corrección de la teología moderna: el giro antropológico y subjetivo del siglo XX —Tillich, Rahner— dejó de situar el drama de la salvación en el contexto de la implicación de Dios en el cosmos, y omitirlo es «caer en la trampa espiritual de pensar que nuestra salvación es sobre nosotros».
@@ -190,3 +194,4 @@ Se relaciona con la [[predestinación]] (q.23, que es la providencia respecto al
 - AED, 23, 87-103 — Tischrede 100: *La distanza è esser dentro* — el Ser es un Tú que unifica el universo.
 - AED, 23, 99-109 — Tischrede 100: *La distanza è esser dentro* — el deseo de posesión como camino hacia el Tú.
 - ImC, *La imitación de Cristo*, libro III, caps. 17, 38, 39 y 59
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

@@ -55,6 +55,10 @@ a.4 — **Su poder respecto de la ejecución de su voluntad:** El alma de Cristo
 
 Royo Marín, al tratar los [[atributos_divinos]], expone la omnipotencia como «la virtud activa por la que Dios puede producir todo lo que no repugne a su naturaleza». Distingue: potencia absoluta (todo lo posible) y potencia ordenada (lo que Dios libremente ha querido realizar). La omnipotencia es común a las tres Personas de la [[trinidad]].
 
+### Según *The Mystery of God* (TMO)
+
+La guía define la omnipotencia como capacidad de Dios para hacer todo lo lógicamente posible y coherente con su naturaleza. Los supuestos límites —Dios no puede mentir, dejar de existir o hacer un cuadrado redondo— no son defectos de poder, sino consecuencias de la perfección divina y de la no contradicción. Así, la omnipotencia no se opone a la lógica ni a la santidad de Dios, sino que se entiende dentro de ellas [TMO, 03, lín. 114-134].
+
 ## Distinciones importantes
 
 - **Potencia absoluta**: todo lo posible en sí mismo
@@ -71,3 +75,4 @@ Royo Marín, al tratar los [[atributos_divinos]], expone la omnipotencia como «
 - CEC §268-271, §277
 - TPCr, tratado de los atributos divinos
 - SmTh IIIª q.13 aa.1-4
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

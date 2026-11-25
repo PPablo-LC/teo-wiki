@@ -27,6 +27,10 @@ La teodicea cristiana no «explica» cada mal ni lo justifica, sino que lo sitú
 
 **Christopher Kaczor (sobre Eleonore Stump).** El sufrimiento como «la objeción más fuerte a la existencia de Dios»; el paso del «todo sufrimiento desmiente a Dios» al «sufrimiento injustificado»; «defeat» del sufrimiento (recibir un bien que justifica la permisibilidad del mal); el conocimiento «dominicano» frente al «franciscano» (narrativo, experiencial); la teodicea de Aquino: Dios permite el sufrimiento por el bien del individuo; los deseos del corazón y el florecimiento humano convergen en Dios; el libre albedrío: Dios no puede forzar el amor libre; Sheen: «a veces la única forma de entrar en algunos corazones es romperlos» [EAC-15, 16].
 
+### Según *The Mystery of God* (TMO)
+
+La guía no ofrece una teodicea cerrada, sino una respuesta cristiana articulada: causalidad no competitiva, mal como privación, defensa del libre albedrío y valor del sufrimiento dentro de la providencia. Su acento final es cristológico: la respuesta más profunda al mal no es solo un argumento, sino Cristo crucificado, en quien Dios entra en el sufrimiento humano sin ser vencido por él [TMO, 04, lín. 5-123].
+
 ## Distinciones importantes
 
 - **Problema del mal ≠ teodicea:** el primero es la objeción; la segunda la disciplina que la examina.
@@ -46,3 +50,4 @@ La teodicea cristiana no «explica» cada mal ni lo justifica, sino que lo sitú
 - CEC 309–314, 324
 - San Agustín, *Confesiones* VII
 - *Evangelization & Culture*, No. 15 (2023), archivos 09, 16
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

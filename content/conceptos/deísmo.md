@@ -22,6 +22,12 @@ Concepción religiosa racionalista —difundida en la Inglaterra del s. XVII-XVI
 - **Historia del error**: contra el deísmo ilustrado se orientó la apologética del s. XIX (Chateaubriand, Newman contra el «religión natural»); el *Syllabus* y el antimodernismo condenaron sus herencias (panteísmo, indiferentismo); la teología del s. XX (de Lubac, Daniélou) mostró que el deísmo nace de una razón cerrada sobre sí misma: la «razón-stanza» que no admite el misterio.
 - **Formas contemporáneas**: el «moralistic therapeutic deism» de la religiosidad difusa (Dios útil pero ausente), el Dios «no c'entra» del laicismo (Giussani, SDL), la espiritualidad sin religión revelada: son actualizaciones del mismo desdramatización de Dios.
 
+## Perspectivas por fuente
+
+### Según *The Mystery of God* (TMO)
+
+La guía identifica una forma pastoral de deísmo en el «deísmo moralista terapéutico» descrito por Christian Smith y Melinda Denton: un Dios distante que solo interviene para resolver problemas y quiere que la gente sea buena. Barron y Trent Horn lo contraponen al Dios cristiano, *[[ipsum_esse]]*, cercano, creador y providente. En la lección sobre providencia, el deísmo reaparece como modelo insuficiente porque separa a Dios de la acción continua en el mundo, negando la [[causalidad_no_competitiva]] [TMO, 01, lín. 41-47; 04, lín. 21-51].
+
 ## Distinciones importantes
 
 - **Deísmo** ≠ teísmo: el teísmo cristiano afirma creación + providencia + revelación + acción sobrenatural continua.
@@ -43,3 +49,4 @@ Concepción religiosa racionalista —difundida en la Inglaterra del s. XVII-XVI
 - SmTh I q.22-23 (providencia); I q.104 (gobierno de Dios)
 - Denzinger: condenas del deísmo y racionalismo (Pío IX, Syllabus; Pío X, Lamentabili)
 - SDL (Giussani): «Dio, se c'è, non c'entra» como forma moderna del deísmo
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

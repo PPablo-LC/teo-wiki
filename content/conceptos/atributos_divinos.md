@@ -29,6 +29,10 @@ El CEC §200-221 expone los atributos divinos a partir de la Sagrada Escritura y
 
 TPCr Parte I, Cap. II, Art. III trata de las perfecciones divinas desde la perspectiva de la perfección cristiana. Dios es el ser infinitamente perfecto, fuente de toda perfección creada. Todos los atributos divinos se identifican realmente con la esencia divina: «en Dios no hay más distinción que la puramente virtual; todos los atributos se identifican realmente con la esencia divina y solo se distinguen entre sí por la razón, en cuanto que bajo diversos conceptos expresan y manifiestan las perfecciones del ser divino». El conocimiento natural de Dios por analogía permite atribuirle perfecciones puras (bondad, sabiduría, poder) en grado eminente.
 
+### Según *The Mystery of God* (TMO)
+
+La guía de Barron y Trent Horn expone los atributos divinos como purificación del lenguaje sobre Dios (CEC 39-42). Presenta a Dios como necesario —su esencia es existir, Éx 3,14—, [[simplicidad_divina|simple]] —sin composición de partes; sus perfecciones son idénticas a su ser—, infinito en perfección, espiritual, eterno en el sentido de Boecio, [[omnisciencia|omnisciente]] y [[omnipotencia|omnipotente]]. La exposición insiste en dos equilibrios: hablar verdaderamente de Dios desde las criaturas y, a la vez, reconocer que el lenguaje humano queda siempre superado por el misterio. En omnisciencia y libertad, distingue el conocimiento divino de la causación: Dios conoce los actos libres sin suprimirlos. En omnipotencia, precisa que Dios puede todo lo lógicamente posible y coherente con su naturaleza [TMO, 03, lín. 3-134].
+
 ## Distinciones importantes
 
 - Atributos entitativos (ser, eternidad, simplicidad, inmensidad) vs. atributos operativos (inteligencia, voluntad, omnipotencia)
@@ -48,3 +52,4 @@ Los atributos divinos son predicaciones de la [[esencia_divina]] y la [[naturale
 - CEC §200-221
 - TPCr, Parte I, Cap. II, Art. III
 - Santo Tomás de Aquino, *Summa Theologiae* I, qq. 3-26
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

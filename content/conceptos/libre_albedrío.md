@@ -116,6 +116,10 @@ Pío V condenó los errores de Bayo sobre el libre albedrío (D‑1027–D‑103
 
 **D‑1389**: «La voluntad no prevenida por la gracia, no tiene ninguna luz, sino para extraviarse; ningún ardor, sino para precipitarse; ninguna fuerza, sino para herirse; es capaz de todo mal e incapaz para todo bien.» Condenada. La condena afirma que la voluntad no prevenida por la gracia puede realizar actos moralmente buenos en el orden natural, aunque no sean meritorios de vida eterna.
 
+### Según *The Mystery of God* (TMO)
+
+La guía trata el libre albedrío en dos contextos. Ante el existencialismo ateo de Sartre, responde que la existencia de Dios no anula la libertad humana, sino que la fundamenta; sin Dios se debilita la base de la moral objetiva. Ante el problema del mal, defiende que Dios permite el mal moral porque un mundo con criaturas capaces de amar libremente es un bien mayor; Dios no causa el pecado, pero puede traer bienes mayores de él. La [[causalidad_no_competitiva]] evita oponer la providencia divina a la libertad creada [TMO, 01, lín. 109-134; 04, lín. 21-89].
+
 ## Distinciones importantes
 
 - Libre albedrío no es licencia para hacer cualquier cosa
@@ -135,3 +139,4 @@ Pío V condenó los errores de Bayo sobre el libre albedrío (D‑1027–D‑103
 - SmTh Ia-IIae q.13 aa.3-6
 - SmTh IIIa q.18 a.4
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. IV, §2b
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

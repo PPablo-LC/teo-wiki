@@ -80,6 +80,10 @@ El error de fondo que Barron atribuye a los nuevos ateos es pensar a Dios como �
 
 Su objeción más seria al secularismo es que cierra la mente: quien reduce lo real a lo materialmente verificable excluye las preguntas más interesantes y encierra el espíritu en el «yo acorazado». El cientificismo, además, se contradice: el principio de que solo tienen sentido los enunciados verificables empíricamente no es verificable empíricamente. Junto al ateísmo, el compendio diagnostica otros desafíos: el fundamentalismo bíblico, que ignora que la Biblia es una biblioteca y que Cristo es su clave de lectura —incluso para los pasajes violentos del Antiguo Testamento, leídos espiritualmente como el «anatema» sobre el mal—; el «angelismo eclesial», que concluye de los crímenes de cristianos la falsedad del cristianismo —«malos cristianos no suman mala cristiandad»—; el catolicismo «beige», acomodado y sin color; y el chivo expiatorio, cuyo mecanismo describió Girard y que los Evangelios ya narran: en la mujer adúltera (Jn 8,7), en las negaciones de Pedro y en la Pasión, donde Dios se pone del lado de la víctima, no del lado de los que apedrean.
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn definen el ateísmo en el contexto post-11-S y de los «nuevos ateos», distinguiendo entre ateo fuerte («Dios no existe»), ateo débil (ausencia de creencia por falta de razones suficientes) y agnosticismo. Responden al eslogan «todos somos ateos respecto a la mayoría de los dioses» precisando que el Dios cristiano no es un ser finito dentro del universo, sino «aquello mayor que lo cual nada puede ser pensado» (Anselmo) e *[[ipsum_esse]]*. Critican el «Dios demasiado pequeño» y el deísmo moralista terapéutico, y responden a Feuerbach, Marx y Sartre mostrando que el deseo de Dios, la moral objetiva y la libertad humana no se explican adecuadamente desde el ateísmo [TMO, 01, lín. 3-134].
+
 ## Distinciones importantes
 
 - **Ateísmo práctico** vs. **ateísmo teórico**: el primero vive como si Dios no existiera; el segundo niega su existencia
@@ -98,3 +102,4 @@ Se relaciona con [[fe]], [[religión]], [[incredulidad]], [[herejía]], [[aposta
 
 - ConcVatII, GS §19-21
 - CEC §2123-2126
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

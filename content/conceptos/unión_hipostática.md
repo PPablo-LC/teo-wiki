@@ -125,6 +125,10 @@ El **Papa San Gregorio I Magno** (601) determinó el momento de la unión hipost
 
 [JPII, Redemptoris Mater §4, §9]: La unión hipostática —la unión de la naturaleza divina y humana en una sola Persona, el Verbo— se realiza en el seno de María por obra del Espíritu Santo. María es la *Theotókos* porque, en virtud de esta unión, el Hijo de Dios consubstancial al Padre tomó carne de Ella [RM §4]. La maternidad divina de María no sería posible sin la unión hipostática: «María es Madre de Dios porque por obra del Espíritu Santo concibió en su seno virginal y dio al mundo a Jesucristo, el Hijo de Dios consubstancial al Padre» [RM §4]. La plenitud de gracia de María (*Kejaritoméne*) se funda en su elección como Madre del Hijo de Dios en el misterio de la Encarnación [RM §9].
 
+### Según *The Mystery of God* (TMO)
+
+En la lección sobre la Trinidad, la guía expone la unión hipostática como definición cristológica de Calcedonia: una persona divina, el Verbo, posee dos naturalezas, divina y humana, sin confusión, cambio, división ni separación. La distinción persona/naturaleza permite afirmar que Cristo es verdadero Dios y verdadero hombre. La guía la usa también para responder a la objeción sobre la muerte de Cristo: al morir, el alma humana se separa del cuerpo, pero la persona divina del Verbo permanece unida a ambos. Rechaza el docetismo y remite al CEC 464-470 [TMO, 05, lín. 58-122].
+
 ## Distinciones importantes
 - Unión hipostática ≠ inhabitación trinitaria: la primera es personal (Cristo), la segunda es por gracia (los justos)
 - Las dos naturalezas de Cristo permanecen íntegras y distintas después de la unión
@@ -141,3 +145,4 @@ Se relaciona con [[encarnación]], [[jesucristo]], [[trinidad]], [[virgen_maría
 - [TPCr, Primera Parte, Cap. 1 y 3]
 - SmTh IIIª q.2 aa.1-9; q.3 aa.1-7; q.4 aa.2-3; q.16 aa.1-12; q.17 aa.1-2; q.20 aa.1-2
 - Denzinger D-13, D-16, D-20, D-25-27, D-39-40, D-216-217, D-219-220, D-222, D-250 (Enchiridion Symbolorum)
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

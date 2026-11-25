@@ -35,6 +35,10 @@ La Constitución *Gaudium et Spes* (GS 10) del Vaticano II expresa que la Iglesi
 
 Selman expone las Cinco vías como demostración causal: se comienza «con las cosas que vemos y conocemos», del efecto a la causa — como el físico que infiere una causa invisible de un efecto observado (Becquerel y los «rayos invisibles» del uranio). **I. Del movimiento**: nada se mueve de sí mismo; el paso de potencia a acto (la oruga que deviene mariposa) remite a un Primer Motor inmóvil, que «siempre es todo lo que es» — si pudiera devenir algo que aún no es, sería imperfecto y perdería su simplicidad. **II. De la causa eficiente**: sin primera causa no habría cadena alguna; una «causa no causada» — pero no causa de sí, pues en Dios nada es causado. **III. De los contingentes**: un mundo de «posibles» que llegan a ser y dejan de ser no existiría si todo fuera contingente; hay que remontarse a lo necesario por sí. **IV. De los grados**: lo más verdadero es lo más ente; hay algo que es causa del ser, de la bondad y de toda perfección. **V. De la gubernación**: las cosas naturales obran para un fin (la bellota deviene encina) no por azar ni por necesidad, sino por intención — «solo las mentes intienden»; analogía de la flecha y el arquero: el mundo «no se debe al azar ni a la necesidad sino a la intención de alguien». La demostración alcanza que «Dios existe» es verdadero, pero no su acto de existir: solo cómo no es.
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn presentan la cognoscibilidad racional de Dios como punto de partida apologético: el Concilio Vaticano I y el CEC 31 enseñan que la existencia de Dios puede conocerse por la razón mediante «argumentos convergentes y convincentes», sin reducir la fe a una conclusión científica. La lección desarrolla especialmente la vía de la [[contingencia]] y el [[principio_de_razon_suficiente]]: el universo, aunque fuera eterno, seguiría siendo contingente y pediría explicación; la regresión infinita de causas dependientes no basta. Añaden la evidencia cosmológica asociada al Big Bang —distinguiendo la nada metafísica del vacío cuántico— y el argumento desde el intelecto de Bernard Lonergan: la inteligibilidad del mundo y el deseo humano de conocer apuntan a un Acto ilimitado de inteligencia. Frente al fideísmo, usan la analogía de la montaña: la razón abre el camino y la fe es el encuentro personal con Dios [TMO, 02, lín. 3-131].
+
 ## Distinciones importantes
 
 - Existencia de Dios (accesible a la razón) vs. esencia de Dios (solo parcialmente cognoscible, incluso para la razón iluminada por la fe)
@@ -54,3 +58,4 @@ Se relaciona con [[pruebas_de_la_existencia_de_dios]], [[conocimiento_natural_de
 - UDE, Cap. IV-V
 - Concilio Vaticano I, DS 3004-3027
 - CEC §31-38
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

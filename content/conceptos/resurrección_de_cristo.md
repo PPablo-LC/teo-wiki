@@ -120,6 +120,10 @@ Distingue la Resurrección de las «reanimaciones» de Lázaro, el hijo de la vi
 
 Sus efectos son cuatro: ratifica las pretensiones de Jesús y su mesianismo; reinterpreta la Cruz como victoria de Dios sobre el poder de Roma; muestra que el sacrificio fue aceptado; y abre la recapitulación cósmica, pues la salvación bíblica incluye siempre el cuerpo. Con Tomás describe las cuatro cualidades del cuerpo glorioso —sutileza, agilidad, impasibilidad, claridad— y cita a Flannery O'Connor: los milagros no son excepciones a las leyes de la naturaleza, sino revelaciones de cómo es la naturaleza como Dios la quiere.
 
+### Según *The Mystery of God* (TMO)
+
+En la lección cristológica, Barron y Trent Horn presentan la resurrección como vindicación divina de la identidad de Jesús. La muerte de Cristo no significa que Dios deje de existir: en la muerte se separan el alma y el cuerpo humanos de Cristo, pero la persona divina del Verbo permanece. La resurrección confirma que Jesús es Hijo de Dios en poder y respalda sus afirmaciones de autoridad divina, incluido el perdón de los pecados y el «Yo Soy» [TMO, 05, lín. 58-71].
+
 ## Distinciones importantes
 
 - Resurrección de Cristo (única y gloriosa) vs. resurrecciones milagrosas anteriores (vuelta a la vida mortal)
@@ -144,3 +148,4 @@ Sus efectos son cuatro: ratifica las pretensiones de Jesús y su mesianismo; rei
 - [VJ, Cap. VII]
 - [PS §35]
 - Robert Barron, *Light from Light* (Word on Fire), cap. III, sección «Resucitó al tercer día» (LFL)
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

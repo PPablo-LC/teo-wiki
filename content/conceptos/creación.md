@@ -129,6 +129,10 @@ Barron trata la creación en dos registros complementarios. En el primero, sigue
 
 En el segundo registro, la creación es el fundamento de la no violencia y de la fraternidad universal. A diferencia de los mitos en que el orden surge de una victoria sobre el caos, el Dios de Jesucristo trae el mundo a la existencia «mediante un acto de amor generoso enteramente no violento», y ese acto no es puntual: es la acción continua por la que el mundo es sostenido en cada instante, de modo que «la no violencia divina es la energía actualizadora y unificadora de toda la creación». Además, como todo lo creado está marcado por el Logos, todo se relaciona razonablemente con Dios y con lo demás: Barron cita a Ratzinger —*omne ens est scibile*, la inteligibilidad universal remite a una Mente universal— y a Francisco de Asís, que pudo hablar de «hermano sol y hermana luna». El gótico lo expresó tallando el cosmos en la piedra y el vidrio, y coronando con vacas, no con ángeles, las agujas de Laon: «dar gloria al Logos que asignó a la humilde vaca un papel esencial, aunque poco glamuroso, en el theo-drama cósmico».
 
+### Según *The Mystery of God* (TMO)
+
+Barron y Trent Horn presentan la creación como dependencia radical del ser respecto de Dios, *[[ipsum_esse]]*. El universo no se explica a sí mismo, aunque fuera eterno; su contingencia reclama una causa necesaria. Frente a la confusión entre «nada» y vacío cuántico, la guía insiste en que la nada metafísica no es un estado físico. La creación se entiende así en continuidad con la providencia: Dios no solo origina el mundo, sino que lo sostiene en cada instante [TMO, 01, lín. 63-66; 02, lín. 35-119].
+
 ## Distinciones importantes
 
 - **Creación ≠ emanación**: Dios no «emana» el mundo de su substancia; lo crea libremente de la nada.
@@ -163,3 +167,4 @@ En el segundo registro, la creación es el fundamento de la no violencia y de la
 - SmTh Iª q.67-74, obra de los seis días
 - [RH §8-9]
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Baglow, 11_science.md; Barnard, 24_peripheries_barnard.md)
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

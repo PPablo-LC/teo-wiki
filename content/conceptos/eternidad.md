@@ -61,6 +61,10 @@ Giussani presenta la eternidad no como abstracción metafísica sino como medida
 
 - **Cada instante como relación con lo infinito**: «ogni istante che l'uomo vive è grandissimo: è rapporto con l'infinito» — como la cruz, el parto, lavar los platos (04, 87). La fe en el Dios bueno hace que «todo es grande»; sin ella, «tutto rimpicciolisce».
 
+### Según *The Mystery of God* (TMO)
+
+La guía expone la eternidad divina con la definición de Boecio: la posesión total, simultánea y perfecta de una vida interminable. Dios no está medido por la sucesión temporal como las criaturas; por eso conoce los acontecimientos temporales no como pasado o futuro respecto de sí mismo, sino en un eterno presente. Esta precisión sirve también para tratar la relación entre presciencia divina y libertad humana: el conocimiento eterno de Dios no introduce una causalidad temporal que fuerce el acto libre [TMO, 03, lín. 77-92].
+
 ## Distincioni importanti
 
 - **Eternidad (Dios)**: duración sin sucesión, sin principio ni fin, toda simultánea.
@@ -82,3 +86,4 @@ La eternidad se relaciona con la [[inmutabilidad_divina]] (lo inmutable es la ba
 - [CEC §202, §215, §257]
 - [TPCr, Primera Parte, Cap. II, art. 1]
 - [SmTh Iª q.10 a.1-6]
+- Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).

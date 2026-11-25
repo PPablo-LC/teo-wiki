@@ -57,6 +57,31 @@ La advertencia complementaria recorre la cuarta parte: así como lo verdadero se
 
 [[cultura]] · [[evangelización]] · [[cine]] · [[secularización]] · [[fe]] · [[razón_y_fe]] · [[escritura]] · [[cristología]] · [[encarnación]] · [[resurrección]] · [[redención]] · [[sacrificio]] · [[gracia]] · [[pecado_original]] · [[conciencia_moral]] · [[idolatría]] · [[libertad]] · [[matrimonio]] · [[sexualidad]] · [[doctrina_social_de_la_iglesia]] · [[cristianismo_y_política]] · [[iglesia]] · [[sacerdocio]] · [[sacramento]] · [[martirio]] · [[ateísmo]] · [[providencia]] · [[esperanza]] · [[misericordia]] · [[justicia]] · [[sufrimiento]] · [[amor]] · [[belleza]] · [[arte]]
 
+## Distinciones importantes
+
+- **Semina Verbi / sincretismo**: buscar semillas del Verbo en la cultura no equivale a canonizar la cultura ni a confundir un fragmento con el Evangelio entero.
+- **Ortodoxia afirmativa / ingenuidad**: subrayar lo que la Iglesia afirma no significa renunciar al discernimiento; el punto de partida cultural sigue necesitando purificación y plenitud cristiana.
+- **Fragmento cultural / catequesis**: una película, novela o canción puede abrir una pregunta verdadera, pero no sustituye la doctrina, los sacramentos ni la vida de la Iglesia.
+- **Crítica del secularismo / nostalgia de cristiandad**: Barron rechaza tanto la capitulación ante la secularidad como el deseo de restaurar por mera fuerza una cristiandad perdida; propone testimonio y minoría creativa.
+- **Revelación / proyección religiosa**: el libro distingue entre el Dios que se revela y las formas sustitutivas en que el deseo religioso reaparece cuando se reprime lo sobrenatural.
+
+## Relaciones doctrinales
+
+- [[evangelización]]: el método de los *semina verbi* es una forma de anuncio que parte de lo que el interlocutor ya intuye o ama.
+- [[cultura]]: lugar teológico donde aparecen tanto fragmentos de verdad como idolatrías y sucedáneos.
+- [[secularización]]: contexto que dispersa los fragmentos del ícono cristiano y genera sustitutos del anhelo sobrenatural.
+- [[encarnación]] y [[gracia]]: fundamento de la posibilidad de encontrar verdad y belleza fuera de los límites visibles de la Iglesia.
+- [[razón_y_fe]]: Barron defiende la compatibilidad entre ciencia y fe frente al relato de guerra.
+- [[conciencia_moral]] y [[libertad]]: clave de su lectura antropológica del cine, la sexualidad y la vida pública.
+
+## Ver también
+
+- [[evangelización]]
+- [[cultura]]
+- [[secularización]]
+- [[cine]]
+- [[razón_y_fe]]
+
 ## Referencias
 
 - Barron, Robert. *Seeds of the Word: Finding God in the Culture*. Skokie, IL: Word on Fire, 2015.

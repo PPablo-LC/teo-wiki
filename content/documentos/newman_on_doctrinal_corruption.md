@@ -61,6 +61,23 @@ La conclusión examina la actualidad del problema: la lectura liberal de Newman 
 
 [[desarrollo_doctrinal]] · [[tradición]] · [[depósito_de_la_fe]] · [[dogma]] · [[herejía]] · [[infalibilidad_papal]] · [[papado]] · [[primado_de_pedro]] · [[colegio_episcopal]] · [[concilio_vaticano_i]] · [[magisterio_de_la_iglesia]] · [[consenso_de_los_fieles]] · [[mariología]] · [[inmaculada_concepción]] · [[asunción]] · [[eucaristía]] · [[principio_sacramental]] · [[revelación]] · [[escritura]] · [[padres_de_la_iglesia]] · [[razón_y_fe]] · [[juicio_privado]] · [[antiguarismo]] · [[liberalismo_religioso]] · [[modernismo]] · [[ultramontanismo]] · [[iglesia_y_estado]] · [[providencia]] · [[método_histórico]]
 
+## Distinciones importantes
+
+- **Desarrollo / corrupción**: el desarrollo conserva el tipo, la idea y el organismo de la revelación apostólica; la corrupción introduce una ruptura heterogénea o contradice lo solemnemente enseñado.
+- **Principio dogmático / dogmatismo**: el primero es la adhesión fiel al dogma revelado; el segundo endurece formulaciones o actitudes humanas hasta confundirlas con la fe misma.
+- **Infalibilidad / impecabilidad o inspiración**: la [[infalibilidad_papal]] protege de error formal en definiciones solemnes; no vuelve santo al papa, ni infalibles todos sus actos, ni equivalentes a revelación sus opiniones.
+- **Historia / dogma**: la historia es instrumento necesario para estudiar el desarrollo, pero no criterio último del asentimiento católico, que descansa en la revelación propuesta por el [[magisterio_de_la_iglesia]].
+- **Liberalismo religioso / tradicionalismo**: ambos pueden invocar a Newman; el primero usa el desarrollo para revertir doctrina, el segundo congela la vida doctrinal y confunde continuidad con inmovilidad.
+
+## Relaciones doctrinales
+
+- [[desarrollo_doctrinal]]: tema central del libro y criterio para leer la historia de los dogmas.
+- [[infalibilidad_papal]]: caso decisivo en la controversia con Döllinger, Gladstone y la recepción del [[concilio_vaticano_i]].
+- [[magisterio_de_la_iglesia]]: instancia que propone la revelación y juzga la continuidad del desarrollo.
+- [[tradición]] y [[depósito_de_la_fe]]: lugar donde la doctrina se conserva viva sin perder identidad.
+- [[principio_sacramental]]: fundamento que hace inteligible la manifestación de lo invisible en la historia.
+- [[john_henry_newman]]: fuente principal y horizonte de la argumentación de Levering.
+
 ## Ver también
 
 - [[john_henry_newman]]

@@ -6,6 +6,8 @@ tags: ["espiritualidad", "fe", "cristología", "encarnación"]
 timestamp: 2026-10-02
 ---
 
+# Presencia de Cristo
+
 > Área: Conceptos Teológicos / Cristología y espiritualidad
 > Última actualización: 2026-10-02
 
