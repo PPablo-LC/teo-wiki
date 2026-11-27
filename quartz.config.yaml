@@ -45,7 +45,6 @@ configuration:
   contentIndex:
     enableSiteMap: true
     enableRSS: true
-    maxContentLength: 2000
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
