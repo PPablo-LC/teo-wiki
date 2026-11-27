@@ -110,6 +110,12 @@ Este tratamiento de la paz en 2 Samuel enriquece la doctrina católica al mostra
 
 **Una paz fragmentaria.** La paz que comienza en Belén no es todavía la paz total: donde los hombres siguen a este Dios «comienza una humanidad nueva y una paz en la tierra, aunque sea de modo fragmentario». La plenitud queda para el Reino (BWC 6).
 
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+Sheen lee la Sexta Palabra, «It is consummated» (Jn 19,30), como la paz consumada por el Príncipe de la Paz: la guerra contra el pecado y la separación de Dios ha terminado en la Cruz (CJC, cap. 44, L3.17). Retoma la definición agustiniana —«Peace is the tranquility of order»— y la distingue de la mera tranquilidad impuesta por el miedo: la paz verdadera es la subordinación de los sentidos a la razón, de la razón a la fe y del hombre entero a Dios (cap. 44, L7-9).
+
+Esta paz interior no es la paz que da el mundo (Jn 14,27; 16,33). Por eso la bienaventuranza de los pacificadores convive con la espada evangélica: Cristo trae guerra contra el pecado, la falsa paz y la autocomplacencia, pero esa guerra es temporal y ordenada a la victoria final. La tentación es bajar de la Cruz para pactar una paz falsa; la fidelidad consiste en permanecer hasta el «consummatum est» (cap. 44, L19-47).
+
 ## Distinciones importantes
 
 - La paz cristiana no es pasividad o indiferencia, sino fruto de la victoria sobre el pecado.
@@ -128,4 +134,5 @@ Se relaciona con [[frutos_del_espíritu_santo]], [[caridad]], [[don_de_sabidurí
 
 - CEC §2305, §1941, §2844
 - TPCr, Parte II; Parte III, Libro II, Cap. 2
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), cap. 44
 - [EjEsp2026, cap. 1: «Entrar en la Cuaresma»]

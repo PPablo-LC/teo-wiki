@@ -79,6 +79,16 @@ JvC-Muj presenta la conciencia como «la voz de Dios»: «No temas a nadie. Teme
 
 En los Ejercicios de 1994, Giussani diagnostica la «tensione vuota» de una conciencia que reconoce la ley moral pero no la funda en Dios. Cita a Norberto Bobbio: «il destino delle tavole della legge… è quello di essere violate… Ma guai a noi se le avessimo dimenticate»; comenta que esa tensión, sin la Presencia, es «vuota»: se puede «colorarla di nobiltà quanto volete, ma è vuota». Su fruto extremo es la *Preghiera per un bambino* de M. Bernardi, donde la palabra queda reducida a *flatus vocis*, «puro suono», y el mal y la mentira son erigidos a principio: signo de una conciencia que, desligada de su fundamento, ya no orienta la vida.
 
+### Según *Life Is Worth Living* (LIWL)
+
+Sheen dedica un capítulo entero a la conciencia (primera serie, cap. 11) y vuelve a ella al tratar la culpa (cap. 39). La define con fórmula escolástica: «Conscience is a judgment of our reason telling us that we ought to do good and avoid evil» (11_conscience, L25), y añade un matiz que la distingue de un mero sentimiento: el placer no es la medida del acto bueno —«Pleasure is only a bonus or a by-product of a duty»—, de modo que la conciencia juzga el deber y no el agrado (11_conscience, L9).
+
+Desarrolla la **ley inscrita**: hay en el pecho de todo hombre «a silent court of justice» (11_conscience, L65), y esa ley no la pone el sujeto, pues entonces podría derogarla; su autor es Dios. De ahí que la conciencia necesite también la Revelación para no confundir el remordimiento con la costumbre ni la costumbre con la ley (11_conscience, L17). Distingue con nitidez **culpa y enfermedad**: «Disease is one thing; guilt another» (11_conscience, L99), contra la tendencia contemporánea a traducir todo remordimiento a patología.
+
+Ese es el punto que retoma en el capítulo del destino humano: la psicología que universaliza el método patológico acaba diciendo que el hombre no puede ser culpable porque no es responsable (39_man_the_captain_of_his_destiny, L13). Sheen no impugna la psiquiatría ni el psicoanálisis —los tiene por válidos y a veces necesarios—, sino su conversión en filosofía para hombres normales (39, L19). Su diagnóstico: al negar la culpa, el hombre la **proyecta** fuera —culpando a otro— o debajo —en el sótano de la mente—; si muchos lo hacen, se forma la «Great Shadow», y cuando la sombra crece se pide un jefe para la sombra: así nacen los Estados esclavos (39, L27). Cita a Jung: «A psychoneurosis must be understood as a suffering of a human being who had not discovered what life means» (39, L42), y concluye que lo primario no son los impulsos inconscientes sino los pensamientos, elecciones y decisiones: «man is what he makes himself» (39, L45).
+
+[LIWL, 11_conscience L7-53; 39_man_the_captain_of_his_destiny L13-29]
+
 ## Relaciones doctrinales
 
 [[conciencia_moral]], [[ley_natural]], [[virtud_de_la_prudencia]], [[actos_humanos]], [[examen_de_conciencia]], [[sindéresis]]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Avaricia
 tags: ["moral"]
 
-timestamp: 2026-10-19
+timestamp: 2026-11-26
 description: "Vicio capital que consiste en el deseo desordenado de poseer bienes terrenos, acumulándolos sin medida y apegándose a ellos de modo inmoderado."
 ---
 # Avaricia
 
 > Área: Moral
-> Última actualización: 2026-10-19
+> Última actualización: 2026-11-26
 
 ## Definición
 
@@ -71,6 +71,38 @@ Remedio: el **despojamiento absoluto** —no basta no poseer dinero: «se puede 
 
 [IC, Libro VII — Del vicio de la avaricia (`20_capitulo.md`)]
 
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+El capítulo de *Victory over Vice* dedicado a la avaricia comienza con una
+definición que precisa la del artículo: «Covetousness is an inordinate love
+of the things of this world», desordenado «if one is not guided by a
+reasonable end, such as a suitable provision for one's family, or the
+future, or if one is too solicitous in amassing wealth, or too parsimonious
+in dispensing it» (CJC, cap. 54, L3). De ahí la tesis que separa el vicio de
+la mera posesión: «It is not the love of an excessive sum that makes it
+wrong, but an inordinate love of any sum» (L5); «Simply because a man has a
+great fortune, it does not follow that he is a covetous man» (L7). Sheen
+aplica la distinción a los dos extremos sociales —el rico que pone las
+ganancias sobre los derechos humanos y el revolucionario que busca el botín—
+y advierte que «he may be involuntarily poor with a passion for wealth far
+in excess of those who possess» (L13-17).
+
+La aportación más característica es el análisis del daño antropológico: «Such
+covetousness is ruinous for man, principally because it hardens the heart.
+Man becomes like unto that which he loves, and if he loves gold, he becomes
+like it — cold, hard, and yellow» (L19). El avaro «se vuelve pobre a sus
+propios ojos» cuanto más tiene (L21), pierde el sentido de la providencia
+—«God is trusted as long as we have a good bank account» (L23)— y, al morir,
+«se vuelve el mendigo más desposeído y despojado del universo, porque no
+tiene nada que llevarse» (L61-65). Frente a ello, Cristo repara la avaricia
+con un despojo total: «His Mother He gave to John; His body to the tomb; His
+blood to the earth; His garments to His executioners», conservando solo «one
+thing for Himself that was not a thing — His spirit» (L49-55). La lección
+final une avaricia y desilusión: como nada de la tierra sacia, «the essence
+of life is disappointment» (L83) y «we have eternity in our heart, but time
+on our hands» (L91), de modo que solo Dios llena la capacidad infinita del
+alma (L105-107).
+
 ## Distinciones importantes
 
 - **Avaricia vs. liberalidad**: la avaricia es exceso en el amor a las riquezas; la liberalidad modera ese amor
@@ -91,3 +123,4 @@ La avaricia se opone a la [[liberalidad]] y a la [[justicia]]. Es pecado capital
 - [TPCr, Parte III, Libro II, Cap. II, n.415; Parte III, Libro I, Cap. 5]
 - [Santo Tomás, II-II, q.118]
 - [IC, Libro VII — Del vicio de la avaricia]
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), cap. 54

@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-11-25'
+updated: '2026-11-26'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -4733,6 +4733,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[letter_to_a_suffering_church]]
 - [[levantaos_vamos]]
 - [[ley_protección_menores]]
+- [[life_is_worth_living]]
 - [[light_from_light]]
 - [[líneas_guía_protección_menores]]
 - [[living_the_truth_in_love]]
@@ -4809,6 +4810,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[the_epiphany_of_love]]
 - [[the_mystery_of_god]]
 - [[the_pivotal_players]]
+- [[the_priority_of_christ]]
 - [[the_strangest_way]]
 - [[thomas_aquinas_spiritual_master]]
 

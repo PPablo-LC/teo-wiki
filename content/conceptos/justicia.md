@@ -102,6 +102,12 @@ La justicia ordena al bien común de la sociedad: dar a cada uno lo que se le de
 
 **El testimonio de los chicos.** La encuesta recogida por ECP muestra una sensibilidad especialmente profunda ante la justicia: «Los alumnos tratados injustamente pierden pronto la alegría del estudio»; «la injusticia agria al hombre; la justicia despierta la alegría del bien» (19:157-159). Hacia los quince años la noción pasa de la igualdad rígida al *suum cuique* (19:163-165).
 
+### Según Fulton J. Sheen — *The Cries of Jesus from the Cross* (CJC)
+
+En la Sexta Palabra, Sheen presenta el crucifijo como revelación del orden moral: «the crucifix accuses us». No se le puede mirar con indiferencia, porque en él se ve la colisión absoluta entre el bien y el mal y cada conciencia se reconoce implicada (CJC, cap. 47, L3-11). La justicia divina no queda abolida por la misericordia: Cristo, nuevo Adán e inocente, carga con la deuda del pecado para satisfacerla, de modo que la misericordia perdona sin negar la justicia (cap. 47, L35-51).
+
+La consumación «It is finished» (Jn 19,30) es también palabra de justicia: el mal ha agotado su poder, la deuda ha sido pagada y la redención queda cumplida (cap. 47, L63-67). Esta justicia no es solo teoría: exige respuesta moral ante la Cruz y se hace presente sacramentalmente en la Misa, donde el Calvario se renueva y el creyente se une al sacrificio de Cristo (cap. 47, L69-101).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_justicia]]
@@ -127,3 +133,4 @@ Ver artículo principal: [[virtud_de_la_justicia]]
 - AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
 - AED, 22, 131-147 — Tischrede 102: *L'adorazione possibile* — la justicia como fe en una Presencia.
 - AED, 22, 143 — Tischrede 102: *L'adorazione possibile* — el signo de Dios es lo muy débil.
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), cap. 47

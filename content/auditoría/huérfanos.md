@@ -6,6 +6,8 @@ description: "Registro acumulativo de wikilinks sin artículo propio: secciones 
 ---
 # Auditoría de wikilinks huérfanos
 
+> **Actualización 2026-11-26 (TPC) — *The Priority of Christ* (Robert Barron):** procesada la fuente TPC (28/28 resúmenes, documento descriptivo y 3 artículos enriquecidos), se siembran **21 wikilinks nuevos sin artículo** —`agnosticismo_teológico`, `anarquismo`, `bernard_longergan`, `bonaventura`, `bruce_marshall`, `concilio_de_efeso`, `david_tracy`, `deontologismo`, `edmund_husserl`, `emmanuel_levinas`, `fundacionalismo`, `guillermo_de_occam`, `jean_luc_marion`, `jürgen_habermas`, `pequeño_camino`, `relaciones_subsistentes`, `teología_postliberal`, `univocidad_del_ser`, `verbo_interior`, `william_james` e `índice_analítico`—. Tres retargets aplicados: `no_competitividad_divina`→`trascendencia_no_competitiva`, `anismo`→`anarquismo` e `icono`→`iconos`. Huérfanos únicos medidos con el detector: **3.758**. Detalle en «Sembrados por TPC — *The Priority of Christ*».
+>
 > **Actualización 2026-11-24 (NDC) — *Newman on Doctrinal Corruption* (Matthew Levering):** procesada la fuente NDC (8/8 resúmenes, documento descriptivo, 4 conceptos nuevos —[[antiguarismo]], [[ultramontanismo]], [[consenso_de_los_fieles]], [[liberalismo_religioso]]—, 2 fichas de persona —[[edward_gibbon]], [[johann_joseph_ignaz_von_döllinger]]— y secciones por fuente en [[desarrollo_doctrinal]], [[infalibilidad_papal]] y [[john_henry_newman]]). Quedan sembrados **18 wikilinks nuevos sin artículo**: `[[alfred_loisy]]`, `[[edward_bouverie_pusey]]`, `[[erastianismo]]`, `[[francis_newman]]`, `[[henry_edward_manning]]`, `[[johannes_franzelin]]`, `[[john_acton]]`, `[[john_keble]]`, `[[joseph_butler]]`, `[[joseph_fessler]]`, `[[juicio_privado]]`, `[[marie_joseph_lagrange]]`, `[[método_histórico]]`, `[[principio_sacramental]]`, `[[reinhard_hütter]]`, `[[richard_frederick_littledale]]`, `[[richard_hurrell_froude]]`, `[[william_ewart_gladstone]]`; los ya registrados `anglicanismo` e `historia` solo suman referencias. Detalle en «Sembrados por NDC — *Newman on Doctrinal Corruption*». **Actualización 2026-11-24: `[[juicio_privado]]` y `[[principio_sacramental]]` resueltos con artículo propio** (`wiki/conceptos/juicio_privado.md` y `wiki/conceptos/principio_sacramental.md`), con las citas verificadas en el raw de NDC (cap. 1: Chillingworth; cap. 3: Butler, Keble y los alejandrinos; cap. 5: Döllinger, Acton, von Scherr y la *Letter to the Duke of Norfolk*; conclusión). Quedan 12 pendientes de ese lote; `[[erastianismo]]` se resolvió el mismo día con artículo propio (`wiki/conceptos/erastianismo.md`: Froude y los *Remarks on State Interference in Matters Spiritual*, la *Via Media*, la crítica de 1850 y el primado como alternativa anti-erastiana en la *Letter to the Duke of Norfolk*, caps. 2 y 5). Huérfanos únicos medidos con el detector tras el lote: **3.598**; tras crear `erastianismo`, **3.597**; tras crear `método_histórico` (`wiki/conceptos/método_histórico.md`: Gibbon y la metanarrativa secular, Niebuhr y el método de la hipótesis, Milman y la falsa neutralidad, Döllinger y el historiador como tribunal, y la relación entre historia y dogma en la *Letter to the Duke of Norfolk*, caps. 1, 2 y 5 y conclusión), **3.596**. **Actualización 2026-11-24: fichas de persona `[[john_keble]]` y `[[joseph_butler]]`** (`wiki/personas/john_keble.md` y `wiki/personas/joseph_butler.md`): el primero, transmisor del principio sacramental y del «ethos», y el sermón «National Apostasy» de 1833; el segundo, la lógica de las probabilidades, la Iglesia visible como «oráculo de la verdad» y la analogía naturaleza-gracia. Citas verificadas en NDC (caps. 1-5 y conclusión), PP, HI y EAC-7; huérfanos únicos tras el lote: **3.594**. **Actualización 2026-11-24: ficha de persona `[[francis_newman]]`** (`wiki/personas/francis_newman.md`): *Phases of Faith* y el itinerario del evangélico que perdió todo dogma, la Trinidad y la caridad herida, la crítica bíblica y el criterio de conciencia, el progreso como ley y la réplica de la *Apología* (principio dogmático y principio sacramental), con las citas verificadas en NDC cap. 3 y conclusión. Huérfanos únicos tras la ficha: **3.593**. **Actualización 2026-11-24: ficha de persona `[[edward_bouverie_pusey]]`** (`wiki/personas/edward_bouverie_pusey.md`): el *Eirenicon* de 1865 y su condición de réplica a Manning, la crítica del sistema devocional mariano, la Inmaculada Concepción de 1854 y la consulta episcopal con sus disidencias, el recurso al magisterio ordinario y a la infalibilidad personal, la Asunción, la Co-Redentrix y el «Complemento de la Trinidad», el ultramontanismo como «profecía perpetua», y la respuesta de Newman en 1866 (doctrina frente a devoción, la Nueva Eva y la plenitud de gracia, la Asunción en Ap 11-12, el *Theotokos* y la condena expresa de los excesos), con las citas verificadas en NDC caps. 3 y 4 y en HI cap. 39. Huérfanos únicos tras la ficha: **3.592**. **Actualización 2026-11-24: ficha de persona `[[henry_edward_manning]]`** (`wiki/personas/henry_edward_manning.md`): el arzobispo de Westminster como voz ultramontana; la infalibilidad como «única verdad» salvadora (1861), el opúsculo de 1864 que provocó el *Eirenicon* de Pusey y negaba las órdenes anglicanas, el *Caesarism and Ultramontanism* de 1873 frente al *Kulturkampf*, la respuesta a Gladstone de 1874-1875, el tradicionalismo tal como Newman lo percibía (con Duffy y la revisión de Washburn) y las «visiones cruzadas» de Pereiro sobre el Manning anglicano y el católico, con las citas verificadas en NDC caps. 4 y 5 y conclusión, y en HI cap. 39. Huérfanos únicos tras la ficha: **3.591**. Quedan **9 pendientes** de ese lote.
 
 > **Actualización 2026-11-23 (CAM) — *Calvary and the Mass* (Fulton J. Sheen):** procesada la fuente CAM (10/10 resúmenes, documento descriptivo, ficha del autor y 8 artículos nuevos en `wiki/conceptos/`), se resolvieron 8 huérfanos que ya habían sido sembrados desde AMSh y otras fuentes: `[[calvario]]`, `[[siete_palabras_de_cristo]]`, `[[buen_ladrón]]`, `[[confiteor]]`, `[[ofertorio]]`, `[[sanctus]]`, `[[ite_missa_est]]` y `[[último_evangelio]]`. Se siembran **11 enlaces nuevos sin artículo** (`abel`, `ángeles_caídos`, `co_redentora`, `deicidio`, `felix_culpa`, `iglesia_triunfante`, `isabel_cheney`, `oveja_perdida`, `talentos`, `veneración`, `vestiduras_litúrgicas`); los ya registrados `noche_oscura_del_alma` y `pobres` solo suman referencias. **Retargets aplicados** en índice raw, resúmenes y artículos: `padre celestial`→[[dios_padre]], `Magdalena`→[[santa_maría_magdalena]], `colecta`→[[pobres]], `consummatum_est`→[[cruz]], `envío_misionero`→[[evangelización]], `sanctus_de_zacarías`→[[veneración]], `veneración_de_maría`→[[madre_de_dios]]. Los 11 nuevos, con sus referencias, se detallan en «Sembrados por CAM — *Calvary and the Mass*». Huérfanos únicos medidos con el detector tras el lote: **3.581**.
@@ -8028,9 +8030,11 @@ Los ya registrados `envidia`, `codicia`, `tristeza`, `soledad`, `silencio` y `de
 
 **Resuelto (2026-11-25):** `[[john_neumann]]` cuenta ya con artículo propio en `wiki/personas/john_neumann.md`, con la dedicatoria y la semblanza de FTH (portada, L15-18; introducción, L41-51), su lugar entre los santos de América (*Ecclesia in America*, cap. VI, nota 35) y el decreto de aprobación de sus virtudes citado por *Lumen gentium* (nota 155). Quedan **11 sembrados** de este lote. El artículo no siembra ninguno nuevo: la aridez se trata como texto llano y se enlaza a `[[noche_oscura]]` y `[[consolación]]`.
 
-## Sembrados por CJC — *The Cries of Jesus from the Cross* (fase 1, 2026-11-25)
+## Sembrados por CJC — *The Cries of Jesus from the Cross* (fases 1-4, 2026-11-26)
 
-Procesada la fase 1 de CJC (19 archivos: portada, introducción, Primera y Segunda Palabra completas y portadilla de la Tercera), con documento `the_cries_of_jesus_from_the_cross.md` y secciones en [[siete_palabras_de_cristo]], [[perdón]] y [[misericordia]]. Quedan sembrados **8 wikilinks** sin artículo propio; el contenido ya está localizado en el raw:
+Procesadas las cuatro fases de CJC (60 archivos: portada, introducción, las siete palabras completas y apéndices), con documento `the_cries_of_jesus_from_the_cross.md`, 60 resúmenes y secciones por fuente en [[siete_palabras_de_cristo]], [[perdón]], [[misericordia]], [[amor_de_dios]], [[libertad]], [[avaricia]], [[caridad]], [[pobreza]], [[contentamiento]] y [[fulton_sheen]]. Quedan sembrados **17 wikilinks** sin artículo propio; el contenido ya está localizado en el raw:
+
+> **Fase 4 (2026-11-26):** no sembró huérfanos nuevos. Sus wikilinks se retargetearon a canónicos existentes ([[pecado_original]], [[abraham]], [[compasión_de_maría]], [[cielo]], [[visión_beatífica]], [[sacramento_de_la_penitencia]], [[sanación]], [[unión_con_dios]], [[mandamientos]], [[amor_al_prójimo]], [[generosidad]], [[duda]], [[pensamiento]], [[inteligencia]], [[sentido_de_la_vida]], [[apóstoles]], [[ambición]], [[maría_magdalena]], [[esclavitud]], [[dispersión]], [[consagración]], [[dios_padre]], [[amistad]], [[canonización]], [[gratitud]], [[episcopado]]); los únicos tres sin artículo que aparecen en los textos nuevos —`celos` (ya sembrado en fase 1), `falta_de_confianza_en_dios` y `voto_de_caridad`— son preexistentes y ya constan en el registro.
 
 | Wikilink | Contenido disponible |
 |---|---|
@@ -8042,5 +8046,106 @@ Procesada la fase 1 de CJC (19 archivos: portada, introducción, Primera y Segun
 | `[[the_seven_last_words]]` | obra de 1933, primera columna de la antología (documento) |
 | `[[viudez]]` | la cruz de las viudas, «particularly dear to Him» (cap. 7 de la Segunda Palabra) |
 | `[[ángeles_caídos]]` | los que «knew what they were doing» y no tienen redención (cap. 1) |
+| `[[abandono]]` | abandono del alma por Dios y de Dios por el alma; cuarta palabra (caps. 27-30) |
+| `[[indiferencia]]` | tibieza, «seated in indifference»; hambre de justicia (caps. 36-37, 40) |
+| `[[burla]]` | burla como saludo del infierno; intelligentsia (cap. 32) |
+| `[[túnica_inconsútil]]` | Jn 19,23, tejida por María; unidad de la Iglesia (cap. 25) |
+| `[[verónica]]` | el rostro de Cristo en el velo (cap. 22) |
+| `[[mediación_de_maría]]` | María vínculo con Cristo y la Iglesia; Visitación/Rosario (cap. 25) |
+| `[[sensacionalismo]]` | religión dramática frente a la fe silenciosa (cap. 48) |
+| `[[lujo]]` | exceso de confort y olvido del alma (cap. 38) |
+| `[[disciplina]]` | disciplina sistemática y «la hora» de la Cruz (cap. 49) |
 
-Los ya registrados (`comunismo`, `ira`, `envidia`, `esperanza`, `fortaleza`, `ignorancia`, `humanismo`) solo suman referencias.
+Los ya registrados o existentes como canónicos (`comunismo`, `ira`, `envidia`, `esperanza`, `fortaleza`, `ignorancia`, `humanismo`, `sed`, `intención`, `obras`, `pecado_de_omisión`, `historia_de_la_salvación`, `reparación`) solo suman referencias.
+
+## Sembrados por LIWL — *Life Is Worth Living* (Fulton J. Sheen) (2026-11-26)
+
+Procesada la fuente LIWL (49/49 resúmenes, índice verificado, documento
+descriptivo y 11 artículos enriquecidos: `sufrimiento`, `conciencia`,
+`libertad`, `comunismo`, `educación`, `mujer`, `trabajo`, `oración`,
+`matrimonio`, `sexualidad` y `carácter`). Se retargetearon cuatro enlaces a
+canónicos existentes en lugar de sembrarlos: `lincoln` → `abraham_lincoln`,
+`lucas_evangelista` → `san_lucas`, `tomás_de_aquino` → `santo_tomás_de_aquino`
+y `civilización` → `civilización_y_cultura`. Quedan **35 wikilinks nuevos sin
+artículo**, sembrados desde los resúmenes y el documento:
+
+| Huérfano | Prioridad | Dónde aparece |
+|----------|-----------|----------------|
+| [[autoexpresión]] | Alta | 14, 44 — teoría pedagógica criticada; par conceptual de `represión` |
+| [[represión]] | Alta | 17, 44 — «reprimir el mal libera el bien» |
+| [[conocimiento_por_sustitución]] | Alta | 43 — la erudición sin inteligencia |
+| [[unidad_del_conocimiento]] | Alta | 43 — teoría de la pirámide frente a la estantería |
+| [[intención_divina]] | Alta | 39, 48 — santificación del trabajo |
+| [[santificación_del_trabajo]] | Alta | 39 — remedio espiritual a la alienación |
+| [[materialismo_dialéctico]] | Alta | 10, 42 — Hegel, Feuerbach, Marx |
+| [[lucha_de_clases]] | Alta | 10, 42 — motor de la historia |
+| [[problema_social]] | Alta | 46 — el buen samaritano como respuesta |
+| [[filantropía]] | Media | 46 — distinta de la caridad |
+| [[revelación_privada]] | Media | 35 — Fátima |
+| [[fatiga]] | Media | 24 — estancamiento frente a agotamiento |
+| [[aburrimiento]] | Media | 39 — efecto del trabajo mecanizado |
+| [[amor_utilitario]] | Media | 13 — el otro amado por el placer que da |
+| [[intimidad]] | Media | 28 — grados de intimidad; distinto de `derecho_a_intimidad` |
+| [[hijos]] | Media | 29 — bendición y carga |
+| [[psicología]] | Media | 34, 40 — método patológico universalizado |
+| [[complejo_de_inferioridad]] | Media | 34 — leído como soberbia |
+| [[idea_directriz]] | Baja | 33 — hablar con una sola idea |
+| [[libertad_de_expresión]] | Baja | 18 — límites de la tolerancia |
+| [[flexibilidad]] | Baja | 31 — el «liberal» como esnob del tiempo |
+| [[altruismo]] | Baja | 37 — evolución del amor (raw truncado) |
+| [[cruz_roja]] | Baja | 30 — ejemplo institucional |
+| [[juramento_de_hipócrates]] | Baja | 30 — ética médica |
+| [[energía_atómica]] | Baja | 06 — ciencia y responsabilidad |
+| [[mujer_adúltera]] | Baja | 38 — escena evangélica |
+| [[nacimiento_de_cristo]] | Baja | 36 — Navidad |
+| [[salvador_del_mundo]] | Baja | 36 — título cristológico |
+| [[adoración_en_espíritu_y_verdad]] | Baja | 21 — la samaritana |
+| [[david_y_goliat]] | Baja | 49 — historia de una nación |
+| [[rusia]] | Baja | 16, 42 — historia y psicología religiosa |
+| [[dostoievski]] | Baja | 39 — «no hay culpa, solo hambre» |
+| [[jung]] | Baja | 39 — neurosis y sentido |
+| [[kafka]] | Baja | 32 — el absurdo contemporáneo |
+| [[tomás_apóstol]] | Baja | 25 — la duda y la reparación |
+
+**Nota:** los conceptos centrales de la fuente ya tenían artículo y se
+enriquecieron en lugar de duplicarse. Medición tras el lote: **3.737
+huérfanos únicos** (3.661 antes de LIWL; 3.741 antes de los cuatro retargets).
+
+## Sembrados por TPC — *The Priority of Christ* (Robert Barron) (2026-11-26)
+
+Procesada la fuente TPC (28/28 resúmenes, índice verificado, documento
+descriptivo y tres artículos enriquecidos: `prioridad_de_cristo`,
+`santísima_trinidad` e `iconos`). Se aplicaron tres retargets a canónicos
+existentes en lugar de sembrarlos: `no_competitividad_divina` →
+`trascendencia_no_competitiva`, `anismo` (errata de «anarquismo») →
+`anarquismo` y la mención `icono` → `iconos`. Quedan **21 wikilinks nuevos
+sin artículo**, sembrados desde los resúmenes, el índice y el documento:
+
+| Huérfano | Dónde aparece |
+|----------|----------------|
+| [[agnosticismo_teológico]] | cap. 11 — agnosticismo en Tomás y James |
+| [[anarquismo]] | cap. 11 — posición moderna frente a la teología natural |
+| [[bernard_longergan]] | caps. 6, 10 y bibliografía — *Method in Theology* |
+| [[bonaventura]] | índice analítico — entrada «Bonaventure» |
+| [[bruce_marshall]] | cap. 7 y contraportada — *The Priority of Christ* |
+| [[concilio_de_efeso]] | cap. 1 y bibliografía — Marian dogmas |
+| [[david_tracy]] | cap. 8 — hermenéutica de la correlación |
+| [[deontologismo]] | cap. 15, documento e índice — ética kantiana y occamista |
+| [[edmund_husserl]] | cap. 17 y bibliografía — fenomenología y Edith Stein |
+| [[emmanuel_levinas]] | caps. 16-17 y bibliografía — el rostro y la alteridad |
+| [[fundacionalismo]] | documento — criterio epistémico moderno |
+| [[guillermo_de_occam]] | cap. 15 — origen del deontologismo |
+| [[jean_luc_marion]] | cap. 3, índice y bibliografía — *God without Being* |
+| [[jürgen_habermas]] | cap. 10 y bibliografía — *The Theory of Communicative Action* |
+| [[pequeño_camino]] | cap. 18 — espiritualidad de Teresa de Lisieux |
+| [[relaciones_subsistentes]] | cap. 14 — Tomás contra los arrianos |
+| [[teología_postliberal]] | documento e índice analítico — propuesta de Barron |
+| [[univocidad_del_ser]] | cap. 11 — ocamismo y Dios «ser supremo» |
+| [[verbo_interior]] | cap. 14 — emanación del Verbo en *Summa contra gentiles* |
+| [[william_james]] | cap. 11 y bibliografía — pragmatismo religioso |
+| [[índice_analítico]] | apéndice — inventario de la edición impresa |
+
+Ya registrados, y que solo suman referencias: `coinherencia`,
+`epistemología`, `experiencialismo_expresivo`, `intersubjetividad`,
+`rené_girard`, `simplicidad_de_dios`, `wittgenstein` y otros. Medición tras
+el lote: **3.758 huérfanos únicos** (3.737 antes de TPC).

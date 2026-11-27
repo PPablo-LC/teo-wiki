@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Prudencia
 tags: ["moral"]
 
-timestamp: 2026-11-02
+timestamp: 2026-11-25
 description: "La prudencia es la primera y principal de las virtudes cardinales, virtud infusa que reside en la razón práctica."
 ---
 
 # Prudencia
 
 > Área: Moral
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -66,6 +66,12 @@ Melina responde a la objeción de *Veritatis splendor* 85 —cómo la norma univ
 Pero la prudencia no está aislada de la ciencia moral: el recurso a la situación no autoriza excepciones a las normas negativas. Melina lo formula sin ambigüedad: siempre es verdadero que matar intencionadamente a un inocente es gravemente inmoral; lo que la prudencia discierne es el modo de realizar el bien, no si el mal puede hacerse [SCV, 04]. La singularidad radical se cumple además en la *sequela Christi* (VS 19): cada uno es llamado por su nombre a una misión irrepetible [SCV, 04].
 
 La prudencia cristiana tiene una condición: sin caridad no hay verdadera prudencia (ST II-II q.47 a.1). Flp 1,9-11 describe el discernimiento como florecimiento de la caridad, y Agustín define la prudencia como «amor que discierne»; la caridad genera el *imperium* del acto [SCV, 04]. Melina cierra con Orígenes y la vara de Aarón (Ex 7,10): la sabiduría del mundo se vuelve serpiente, y la cruz —sabiduría verdadera (1 Cor 1,18)— la convierte en prudencia (Mt 10,16). El don de consejo (II-II q.52) corona esta articulación entre virtud adquirida, virtud infusa y moción del Espíritu [SCV, 04].
+
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+Sheen contempla la Pasión como el gran caso de prudencia práctica: «The greatest crisis in the history of the world was the arrest and conviction of a Man found guilty of no other charge than an excess of love» (CJC, `23_prudence.md`, L3). En esa crisis los hombres fallaron —Pedro niega, Judas vende, Pilato cede, la turba elige a Barrabás—, mientras que «there is no instance of a single woman failing» (L11): Claudia Procul advierte a su marido, Verónica consuela en el camino y María permanece de pie. La conclusión es que «Heavenly prudence had chosen the right means to reveal the new ties born of redemption» (L25): la sabiduría divina no evita el mal, lo atraviesa y lo convierte en nacimiento.
+
+El capítulo ofrece además una antropología de la prudencia como gobierno del amor. El entendimiento rebaja el objeto a su medida; la voluntad, en cambio, «always goes out to meet the object» (CJC, `23_prudence.md`, L45): si amas algo te elevas a su nivel, y «As our loves are, that we are» (L47). De ahí que la formación del carácter sea «fundamentally the inculcation of proper ideals» (L49) y que Sheen explique la crisis educativa del mundo por haber desligado la moral de todo amor más noble que el amor propio. En esa pedagogía, María es el ideal concreto que hace posible la templanza de los jóvenes, y la civilización se mide por lo que hace con la mujer: «The level of any civilization is the level of its womanhood» (L67).
 
 ## Relaciones doctrinales
 

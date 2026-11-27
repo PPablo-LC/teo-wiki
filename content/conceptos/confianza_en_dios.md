@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Confianza en Dios
 tags: ["ascética", "moral"]
-timestamp: 2026-09-10
+timestamp: 2026-11-25
 description: "La confianza en Dios es la disposición del alma que, fundada en la fe en la [[providencia_divina]] y en la [[filiación_divina]] y en el Dios de la alianza, se abandona filialmente en las manos de Dios."
 ---
 
 # Confianza en Dios
 
 > Área: Ascética / Moral
-> Última actualización: 2026-09-10
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -66,6 +66,14 @@ Giussani fórmula la confianza como una «ipotesi positiva» que debe presidir t
 Perder esta confianza es, para Giussani, un pecado diabólico: «uno dei più grandi peccati... è perdere la fiducia in Dio. Dio, come misericordia, tutto vince» (TACDC, 04, 79). Frente al propio pecado y a la propia debilidad, la certeza no se apoya en las propias fuerzas sino en la fidelidad de Dios: como Kristin, el creyente puede decir «Io ci sono stata! Ho voluto starci!» (TACDC, 04, 79), y descubrir que «la vocazione è la stella che illumina la notte oscura delle circostanze» (TACDC, 04, 81).
 
 El modelo de este abandono es [[Abraham]], a quien Dios no elige por «ispirazione diretta» sino mediante un «abbandono oggettivo», según «l'ideale del bambino abbandonato in braccio alla madre» (TACDC, 02, 205; Gen 15,5-6). La confianza no brota de argumentos —«nessun discorso... ha di per sé la forza di attrarre il centro dell'io» (TACDC, 01, 19)— sino del encuentro con una Presencia que corresponde al corazón, «una grazia» (TACDC, 03, 159).
+
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+Sheen presenta la confianza como la respuesta posible en la oscuridad. La Cuarta Palabra no es un grito de desesperación sino de fe: quien se siente abandonado sigue diciendo «My God, my God», y por eso «only those who walk in darkness ever see the stars» (CJC, `33_confidence_in_victory.md`, L49). La confianza no se apoya en lo que se ve —«All trusting implies something you cannot see»— sino en la bondad de los designios divinos, hasta el punto de que «The atheist, therefore, is properly defined as the person who has no invisible means of support» (L53).
+
+El capítulo compara dos reacciones ante la catástrofe: H. G. Wells y Bertrand Russell, que desembocan en el pesimismo, frente a san Pablo y san Agustín, que confían en la tribulación. La diferencia no está en los acontecimientos sino en la presencia de Aquel en quien confiar. De ahí las tres claves prácticas: las dos filosofías de la vida —la de la Cruz, que empieza con el ayuno y acaba en el banquete, y la de Satanás, que empieza con el banquete y acaba en el dolor de cabeza—; la cruz llevada a la Misa para que sea transformada en un crucifijo; y la oración confiada, pues «there are not two kinds of answers to prayer, but three: One is “Yes.” Another is “No.” The third is “Wait.”» (L103).
+
+El fundamento último es el amor crucificado: «Only *nailed* love is free» (CJC, `33_confidence_in_victory.md`, L95). El amor que no puede bajar de la Cruz no obliga, pero solicita; y esa solicitud es la que sostiene la confianza del que espera contra toda apariencia.
 
 ## Distinciones importantes
 

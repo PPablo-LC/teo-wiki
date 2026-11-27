@@ -85,6 +85,12 @@ La mortificación tiene por objeto inmediato las pasiones desordenadas, y su fru
 
 El Kempis añade dos matices que la distinguen de un ascetismo cerrado. El primero es la gradualidad y la paciencia consigo mismo: «Resiste en los principios a tu inclinación y deja la mala costumbre, porque no te lleve poco a poco a mayor dificultad» (I, 11); «No hay hombre tan perfecto ni tan santo que no tenga algunas veces tentaciones, y no podemos vivir sin ellas... las tentaciones son muchas veces utilísimas al hombre..., porque en ellas es uno humillado, purgado y enseñado» (I, 13). El segundo es la ordinariedad: la mortificación que el libro recomienda al fiel común es la del trato y la lengua —«Más fácil cosa es callar siempre que hablar sin errar» (I, 20)— y la que se pide antes de comulgar: «Llora y duélete de que aún eres tan carnal y mundano, tan poco mortificado en las pasiones, tan lleno de movimientos de concupiscencia» (IV, 7).
 
+### Según Fulton J. Sheen — *The Cries of Jesus from the Cross* (CJC)
+
+Sheen une la mortificación a la «hora» de la Cruz: entre el comienzo de una vocación y su consumación interviene un tiempo de sacrificio, disciplina y muerte al yo inferior (CJC, cap. 49, L23-25). La Cruz no es accidente, sino condición de la plenitud: sin el grano que muere no hay fruto, y sin la hora no hay Pascua (Jn 12,24-25; cap. 49, L27-37).
+
+Esta mortificación no es odio al cuerpo, sino ordenación del deseo. En la templanza, el cristiano ayuna no por apariencia corporal sino por el alma; en la caridad, renuncia a algo propio para darlo en nombre de Cristo (caps. 39-40). Sheen la concreta en desapego diario: «at least three unimportant mortifications every day», pequeñas renuncias hechas por amor de Dios. La medida no es la magnitud exterior, sino la caridad con que se ofrece el sacrificio (cap. 39, L85-87).
+
 ## Distinciones importantes
 
 - Mortificación activa: la que el alma realiza voluntariamente con la gracia
@@ -109,6 +115,8 @@ Se relaciona con la [[abnegación]], el [[desprendimiento]], la [[purificación_
 [[abnegación]], [[desprendimiento]], [[purificaciones_pasivas]], [[vía_purgativa]], [[penitencia]], [[ayuno]], [[abandono_en_dios]]
 
 ## Referencias
+
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), caps. 39-40, 49
 
 - TPCr, Tercera Parte, Libro I, Cap. IV, n.225-252
 - [EAC-8, Issue 8 «Humor», archivo 05]

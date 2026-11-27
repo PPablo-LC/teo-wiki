@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Soberbia
 tags: ["moral"]
 
-timestamp: 2026-09-05
+timestamp: 2026-11-25
 description: "La soberbia es el apetito desordenado de la propia excelencia."
 ---
 # Soberbia
 
 > Área: Moral
-> Última actualización: 2026-09-05
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -104,6 +104,12 @@ Robert Barron señala la **soberbia** como el obstáculo radical para la gracia:
 Elizabeth Worner conecta la soberbia con la incapacidad de dejarse amar: quien se cree autosuficiente no puede rendirse a la misericordia, mientras que la [[humildad]] del que acepta ser amado es la puerta de la conversión [EAC-18, 04_midnight_oil.md].
 
 Fernanda Psihas descubre en la misión que los rechazos hieren el orgullo y lo purifican: la soberbia herida es ocasión de gracia cuando el misionero acepta su pequeñez y aprende que «ser yo misma ya es evangelizar» [EAC-18, 20_mission_psihas.md].
+
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+Sheen define la soberbia como «an inordinate love of one's own excellence, either of body or mind, or the unlawful pleasure we derive from thinking we have no superiors» (CJC, `30_pride.md`, L3) y despliega un catálogo de formas que precisa el del artículo: ateísmo, vanidad intelectual, superficialidad —juzgar por la ropa, el acento o la cuenta bancaria—, esnobismo, vanagloria, presunción y susceptibilidad exagerada, que impide mejorar porque no soporta oír las propias faltas (L5). Su gravedad se mide en la Cruz: la soberbia hizo caer a Satanás y al hombre, y solo podía curarse con la humillación de quien se humilló «even to the death of the cross» (L13).
+
+La aportación más original es la tesis de que «humility is truth» (CJC, `30_pride.md`, L52): no es subestimar los dones ni exagerarlos, sino reconocerlos como recibidos, de modo que la humildad es dependencia de Dios y la soberbia independencia de Él. De ahí la paradoja del apostolado: «the less we think we are, the more good we do» (L40), ilustrada con la pajita —no succionamos, creamos un vacío y la presión atmosférica empuja el líquido—: así el alma que se vacía de sí deja sitio a la gracia. Y la soberbia intelectual tiene su retrato en los letrados que se burlan del Crucificado: la intelligentsia no son «the educated, but those who have been educated beyond their intelligence» (CJC, `32_a_word_to_the_intelligentsia.md`, L3), cuyo lenguaje es el de la burla, pues «Mockery is the greeting of hell» (L35).
 
 ## Distinciones importantes
 

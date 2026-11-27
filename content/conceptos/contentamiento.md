@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Contentamiento"
 description: "El contentamiento es la quietud del alma en el bien recibido: control de los deseos, reconocimiento de los límites y confianza en la providencia del Padre."
 tags: ["ascética", "moral", "providencia"]
-timestamp: 2026-11-25
+timestamp: 2026-11-26
 ---
 
 # Contentamiento
 
 > Área: Ascética / Moral / Providencia
-> Última actualización: 2026-11-25
+> Última actualización: 2026-11-26
 
 ## Definición
 
@@ -37,6 +37,29 @@ Sheen dedica dos piezas complementarias al tema: el capítulo 7 (*Desire*, de *W
 
 **La paradoja final** (cap. 14, L15): «A contented man is never [really] poor though he may have very, very little. The discontented man is never rich, let him have so very much». Sheen observa además que el descontento abunda más entre los privilegiados que entre los desfavorecidos.
 
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+Sheen llega al contentamiento por la vía negativa: la desilusión. La Séptima
+Palabra —el espíritu encomendado al Padre— revela que «we are meant to be
+perpetually dissatisfied here below», porque «the completion or fulfillment
+of life is in heaven, not on earth» (CJC, cap. 54, L81). De ahí su
+diagnóstico: «One might almost say the essence of life is disappointment»
+(L83). El mecanismo que explica esa desilusión es antropológico: al esperar
+un bien futuro lo dotamos «with something of the infinity of the soul», y al
+realizarse resulta concreto y limitado; «that disproportion between the
+infinite and the finite is the cause of disappointment» (L87-91).
+
+La conclusión no es el pesimismo sino la ordenación del deseo: «Disappointment
+is no proof that there is no ideal, but only that it is not here» (L93),
+porque «we have eternity in our heart, but time on our hands» (L91). Solo en
+Dios se reconcilian la búsqueda y la posesión: aquí la captura mata el gozo
+de la caza y la caza sin captura enloquece; en el cielo, en cambio, «when we
+attain unto God, we capture the infinite» (L95-99). De ahí la sentencia que
+resume el capítulo y que el artículo puede hacer suya: «Everything is
+disappointing except the redemptive love of Our Lord» (L105), y la
+tragedia inversa, poner la felicidad «in *desires* rather than in
+*discovery*» (L109).
+
 ## Distinciones importantes
 
 - **Contentamiento vs. indiferencia**: el contento puede conocer suspiros y lágrimas; lo que no permite es que el sentimiento derive en desasosiego [FTH, 08_7_desire.md, L9].
@@ -58,3 +81,4 @@ Se relaciona con la [[providencia]] —las pruebas vienen de la mano de un Padre
 - [FTH, `15_14_contentment.md`] — *Contentment* (*Way to Happiness*, cap. 1).
 - 2 Cor 3,5, citado en `08_7_desire.md`, L13.
 - Índice de la fuente: `raw/Bases_doctrinales-raw/Finding_True_Happiness_capitulos/índice.md`.
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), cap. 54.

@@ -3,13 +3,13 @@ type: Documento
 title: "The Cries of Jesus from the Cross. A Fulton Sheen Anthology"
 description: "Antología de Al Smith (Sophia, 2018) que reúne siete libros de Sheen (1933-1945) en siete palabras de la Cruz por siete reflexiones cada una."
 tags: [cristología, espiritualidad, siete_palabras_de_cristo, fulton_sheen, antología]
-timestamp: 2026-11-25
+timestamp: 2026-11-26
 ---
 
 # The Cries of Jesus from the Cross. A Fulton Sheen Anthology
 
 > Área: Cristología / Espiritualidad
-> Última actualización: 2026-11-25
+> Última actualización: 2026-11-26
 
 ## Identificación
 
@@ -89,10 +89,12 @@ Santísimo el 9 de diciembre de 1979, «in the shadow of the cross».
   testimonio de su tiempo, sin extrapolar sus datos a otros países.
 - **Escritura Douay-Rheims:** los versículos se conservan en la forma
   arcaica de la fuente.
-- **Estado:** procesadas las **fases 1 y 2 de 4** (34 de 60 archivos).
-  Restan la Quinta y Sexta Palabra y la Séptima con los apéndices.
+- **Estado:** **fuente cerrada** (2026-11-26). Procesados los 60 archivos:
+  índice `archivo → temas` verificado 60/60, 60 resúmenes validados sin
+  placeholders, ficha en `fuentes.md` y en el índice del área, y secciones
+  por fuente en los artículos canónicos.
 
-## Resúmenes disponibles (fases 1-2)
+## Resúmenes disponibles (60 archivos)
 
 | N.º | Archivo | Contenido |
 |---|---|---|
@@ -118,18 +120,44 @@ Santísimo el 9 de diciembre de 1979, «in the shadow of the cross».
 | 20 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/20_mujer_he_aqui_a_tu_hijo\|Mujer, he aquí a tu hijo]] | Segunda Anunciación y segunda Natividad; María madre por el dolor |
 | 21 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/21_bienaventurados_los_limpios_de_corazon\|Los limpios de corazón]] | Matrimonio y virginidad como escapes del egoísmo |
 | 22 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/22_el_sufrimiento_de_los_inocentes\|El sufrimiento de los inocentes]] | El amor social y expiatorio; el cosmos orgánico |
-| 23 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/23_la_lujuria\|La lujuria]] | Reparación por el nacimiento virginal y el Calvario |
-| 24 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/24_la_prudencia\|La prudencia]] | La mujer que no falló; María como ideal y nueva Eva |
-| 25 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/25_palabra_a_los_egoistas\|Palabra a los egoístas]] | El ladrón de la izquierda y la religión como relación |
-| 26 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/26_la_comunion_de_la_religion\|La comunión de la religión]] | La túnica sin costura, la Visitación y el Rosario |
-| 27 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/27_cuarta_palabra\|Cuarta Palabra]] | «My God, my God, why hast Thou forsaken me?» |
-| 28 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/28_dios_mio_dios_mio_por_que_me_has_abandonado\|Dios mío, ¿por qué me has abandonado?]] | Expiación de ateos, dudantes e indiferentes |
-| 29 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/29_bienaventurados_los_pobres_de_espiritu\|Los pobres de espíritu]] | Las tres pobrezas de Cristo en la Cruz |
-| 30 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/30_dios_y_el_alma\|Dios y el alma]] | El pecado como muerte y abandono; el infierno |
-| 31 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/31_la_soberbia\|La soberbia]] | La humildad de Cristo y la humildad como verdad |
-| 32 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/32_la_fe\|La fe]] | La fe como adhesión razonable y hábito infuso |
-| 33 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/33_palabra_a_los_intelectuales\|Palabra a los intelectuales]] | La burla de los letrados y el doble camino de vuelta |
-| 34 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/34_confianza_en_la_victoria\|Confianza en la victoria]] | El Salmo 21 y el Magníficat; la confianza en la oscuridad |
+| 23 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/23_la_lujuria\|La lujuria]] | La impureza como olvido de Dios; pureza y reparación |
+| 24 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/24_la_prudencia\|La prudencia]] | Prudencia sobrenatural, providencia y madres |
+| 25 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/25_palabra_a_los_egoistas\|Palabra a los egoístas]] | «Woman, behold thy son» contra el egoísmo |
+| 26 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/26_la_comunion_de_la_religion\|La comunión de la religión]] | La túnica sin costura, Visitación y Rosario |
+| 27 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/27_cuarta_palabra\|Cuarta Palabra]] | «My God, my God, why hast thou forsaken me?» |
+| 28 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/28_dios_mio_dios_mio_por_que_me_has_abandonado\|Dios mío, Dios mío]] | Abandono del alma sin Dios y de Dios sin el hombre |
+| 29 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/29_bienaventurados_los_pobres_de_espiritu\|Los pobres de espíritu]] | Tres pobrezas y pobreza intelectual |
+| 30 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/30_dios_y_el_alma\|Dios y el alma]] | Pecado como abandono; doble abandono en la Cruz |
+| 31 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/31_la_soberbia\|La soberbia]] | Humildad como verdad; gloriarse en la Cruz |
+| 32 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/32_la_fe\|La fe]] | Fe, razón y oscuridad; fe como hábito infuso |
+| 33 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/33_palabra_a_los_intelectuales\|Palabra a los intelectuales]] | Burla, pecado y abandono; apelación a la conversión |
+| 34 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/34_confianza_en_la_victoria\|Confianza en la victoria]] | Salmo 21 y Magníficat; confianza en la oscuridad |
+| 35 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/35_quinta_palabra\|Quinta Palabra]] | «I thirst» |
+| 36 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/36_tengo_sed\|Tengo sed]] | Sed de amor del Dios sin el hombre |
+| 37 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/37_bienaventurados_los_que_tienen_hambre_y_sed_de_justicia\|Hambre y sed de justicia]] | Celo apostólico frente a la indiferencia |
+| 38 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/38_la_necesidad_del_celo\|La necesidad del celo]] | Sufrimiento de Dios sin el alma; no hay casos desesperados |
+| 39 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/39_la_gula\|La gula]] | Gula, ayuno y doble hambre |
+| 40 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/40_la_templanza\|La templanza]] | Lo material para lo espiritual; motivo del don |
+| 41 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/41_palabra_a_los_modernos\|Palabra a los modernos]] | Tibieza, «Elías por Dios», fuego de la fe |
+| 42 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/42_la_religion_es_una_busqueda\|La religión es una búsqueda]] | Doble búsqueda de Dios y el alma |
+| 43 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/43_sexta_palabra\|Sexta Palabra]] | «It is finished» |
+| 44 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/44_consumado_es\|Consumado es]] | Redención consumada; nuestra tarea pendiente |
+| 45 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/45_bienaventurados_los_que_trabajan_por_la_paz\|Los que trabajan por la paz]] | Paz como tranquilidad del orden; falsa paz |
+| 46 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/46_un_universo_planeado\|Un universo planeado]] | El sufrimiento encaja en el plan divino |
+| 47 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/47_la_pereza\|La pereza]] | Pereza física y espiritual; terminar la tarea |
+| 48 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/48_la_justicia\|La justicia]] | El crucifijo acusa; redención y Misa |
+| 49 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/49_palabra_a_los_sensacionalistas\|Palabra a los sensacionalistas]] | Lo silencioso de Dios; fe no espectacular |
+| 50 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/50_la_hora\|La hora]] | La «hora» de la Cruz entre inicio y consumación |
+| 51 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/51_septima_palabra\|Séptima Palabra]] | «Father, into Thy hands I commend my spirit» |
+| 52 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/52_padre_en_tus_manos_encomiendo_mi_espiritu\|Padre, en tus manos encomiendo mi espíritu]] | De Abel al nuevo Abel; María entre Belén y el Calvario |
+| 53 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/53_bienaventurados_los_que_lloran\|Bienaventurados los que lloran]] | Poner las lágrimas al principio; las tres razones para llorar |
+| 54 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/54_la_libertad_eterna\|La libertad eterna]] | El espíritu libre a costa de la vida; libertad como medio |
+| 55 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/55_la_avaricia\|La avaricia]] | Corazón endurecido, despojo de Cristo y desilusión |
+| 56 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/56_la_caridad\|La caridad]] | Perfección de la justicia; amor probado por elección |
+| 57 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/57_palabra_a_los_pensadores\|Palabra a los pensadores]] | El centurión; el sentido de la vida ante la muerte |
+| 58 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/58_el_proposito_de_la_vida\|El propósito de la vida]] | Los tres usos de la libertad y el «hágase» de María |
+| 59 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/59_reconocimientos\|Reconocimientos]] | Agradecimientos de Al Smith; la Fundación Sheen |
+| 60 | [[Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/60_sobre_el_autor\|Sobre el autor]] | Semblanza de Fulton J. Sheen (1895-1979) |
 
 ## Distinciones importantes
 
@@ -164,6 +192,27 @@ la emoción: «The *virtue* of hope is quite different from the *emotion* of
 hope» (L5); la emoción es deseo soñoliento de salvarse sin esfuerzo, la
 virtud es disposición infusa de la voluntad.
 
+**Libertad *de* y libertad *para*.** El séptimo capítulo distingue dos
+libertades que el lenguaje corriente confunde: «there are two kinds of
+freedom; a freedom *from* something, and a freedom *for* something; an
+external freedom from restraints, and an internal freedom of perfection; a
+freedom to choose evil and a freedom to possess the good»
+(`57_the_purpose_of_life.md`, L5). La libertad no es ausencia de vínculo
+sino capacidad de alcanzar el fin: «Freedom means not the right to do what
+we *please*, but the right to do what we *should* in order to attain the
+highest and noblest ends of our nature» (`53_eternal_freedom.md`, L41). De
+ahí que la palabra final de Cristo sea un acto de libertad —«No one was
+taking His life away. He was laying it down of Himself»
+(`52_blessed_are_they_that_mourn.md`, L39)— y no una derrota.
+
+**Avaricia: el amor, no la suma.** La fuente define el vicio con precisión
+técnica y descarta la lectura meramente sociológica: «It is not the love of
+an excessive sum that makes it wrong, but an inordinate love of any sum»
+(`54_covetousness.md`, L5). Por eso el pobre puede ser avaro y el rico no
+serlo, y por eso la reparación de Cristo no consiste en un programa
+económico sino en el despojo total: «His Mother He gave to John; His body to
+the tomb; His blood to the earth; His garments to His executioners» (L49).
+
 ## Relaciones doctrinales
 
 - **[[siete_palabras_de_cristo]].** CJC no repite el comentario litúrgico de
@@ -184,6 +233,19 @@ virtud es disposición infusa de la voluntad.
   forgiveness» (`06_anger.md`, L37). La fuente lo formula aún más fuerte:
   «forgiveness has no limits; forgiveness is the surrender of all rights and
   the denial of limits» (L75), con Mt 18,22 como prueba.
+- **[[libertad]].** La Séptima Palabra es leída como el acto libre por
+excelencia: «Laying hold of His spirit, for He was master of Himself, He
+sent it back again to His Father» (`53_eternal_freedom.md`, L27). La fuente
+añade la tesis de que «Freedom is ours to give away; we are free to choose
+our servitudes» (`57_the_purpose_of_life.md`, L45), y su corolario: la
+libertad sin fin degenera en esclavitud, «Boundless liberty is boundless
+tyranny» (L31).
+- **[[avaricia]]** y **[[pobreza]].** *Victory over Vice* ofrece la
+definición del vicio y su antídoto: «Simply because a man has a great
+fortune, it does not follow that he is a covetous man»
+(`54_covetousness.md`, L7), mientras que el desprendimiento de Cristo
+—«keeping only one thing for Himself that was not a thing — His spirit»
+(L55)— muestra la pobreza de espíritu como libertad para morir.
 
 ## Ver también
 

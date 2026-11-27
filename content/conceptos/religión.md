@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Religión
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-05-29
+timestamp: 2026-11-25
 description: "La religión es la relación del hombre con Dios, fundada en el reconocimiento de la suprema excelencia divina y de la total dependencia de la criatura respecto al Creador."
 ---
 # Religión
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-05-29
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -42,6 +42,12 @@ La devoción y la oración son actos internos de la religión; la adoración, el
 Los actos de religión realizados por los religiosos adquieren excelencia especial porque todos sus actos buenos, ordenados al servicio y honor de Dios, se convierten en actos de religión en virtud de los votos (TPCr, n.184).
 
 La superstición se opone por exceso a la virtud de la religión; la irreligión (tentar a Dios, sacrilegio, simonía) se opone por defecto (TPCr, n.403).
+
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+Frente a la definición moderna de la religión como asunto privado, Sheen la define por su carácter relacional: «religion is not what a man does with his solitariness, but what he does with his relationships» (CJC, `24_a_word_to_the_selfish.md`, L25). La Tercera Palabra sería la prueba: al llamar «Woman» a María y «Son» a Juan, Cristo los «de-classified» y funda una familia espiritual más amplia que la de la sangre, de la que derivan los deberes sociales. Por eso «Religion is not an individual affair! A man can no more have an individual religion than he can have an individual government or an individual astronomy or mathematics» (L39), y por eso la réplica a la religiosidad solitaria es exacta: «You can no more have your personal religion than you can have your personal sun» (L95).
+
+La fuente precisa el fundamento de esa sociabilidad: «Blood may be thicker than water, but Spirit is thicker than blood» (CJC, `25_the_fellowship_of_religion.md`, L19). La religión cristiana no es una suma de individuos religiosos, sino un cuerpo: los hombres son uno en el Espíritu porque hacen la voluntad del Padre, y María aparece como su primer miembro activo cuando, apenas concebido el Verbo, «with haste» lleva a Cristo a la casa de Isabel (L37-39). La Visitación es así el modelo de la religión en acto: el culto que se vuelve servicio y el servicio que lleva a Cristo.
 
 ## Distinciones importantes
 

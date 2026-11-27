@@ -31,6 +31,20 @@ El comunismo cayó por su propia debilidad interna. Sus errores y abusos contra 
 
 [UDE, Cap. XX]
 
+### Según *Life Is Worth Living* (LIWL)
+
+Sheen trata el comunismo en dos capítulos (primera serie, cap. 9; segunda serie, cap. 41) y ofrece lo que hoy sería una **genealogía intelectual** del sistema. Su primera tesis es polémica: el comunismo no es un partido —«In Russia the Communist party is in power and all the other parties are in jail» (41, L3, Molotov)— ni principalmente un sistema económico, pues la economía es superestructura de una filosofía de vida (41, L3; 09, L19).
+
+Recorre la vida de Marx para mostrar la raíz del sistema: familia de rabinos bautizada por conveniencia política, poesía juvenil perdida, cinco cuadernos de extractos políticos en la luna de miel, ingresos provenientes de Engels y del *New York Tribune*, y una respuesta a la muerte de Mary Burns que revela el temple de la «cold philosophy»: «I am sorry. Can you send me £15?» (41, L11). La conclusión es dura y no meramente anecdótica: quien nunca se ganó la vida con su trabajo podía elaborar con facilidad una economía basada en desposeer a otros (41, L11).
+
+La **genealogía filosófica** es la aportación más útil para el wiki. Hegel concibió el pensamiento como dialéctico —crece por contradicción—; Feuerbach negó el espíritu y redujo al hombre a materia («Man is what he eats»); Marx aplicó la dialéctica no a las ideas sino a la materia: «You don't need God to explain matter; matter is endowed with its own motion», y de ahí resultó el materialismo dialéctico, cuya tesis es que «reality is revolutionary» (41, L39-25). Proudhon le objetó que capital y trabajo no son contradicciones sino elementos esenciales de la sociedad, y Marx trasladó la contradicción a la historia: la lucha de clases como motor y la sociedad sin clases como término (41, L27). Sheen señala la incoherencia interna: si todo está determinado, ¿por qué hace falta la revolución, y por qué el proceso se detiene precisamente en el comunismo? (41, L29).
+
+Su análisis más penetrante es el de las **dos garantías de la libertad**: la económica —la propiedad privada, algo propio fuera de sí— y la espiritual —el alma, que hace al hombre independiente del tirano, y la religión, que se la da en posesión interior (41, L33). Por eso el comunismo solo puede esclavizar suprimiendo ambas: «Communism begins where atheism begins» (41, L49). De ahí su táctica en la ONU y en las conferencias de paz: la revolución nace creando contradicción y caos, de modo que el comunista no puede promover la paz sino el desorden (41, L35). Finalmente, el comunismo no es ruso sino occidental: mezcla del pensamiento deísta, escéptico, racionalista y ateo de los siglos XVIII y XIX, y por eso es a la vez producto y juicio de Occidente (41, L37).
+
+En la primera serie añade el argumento antropológico: el hombre no es un producto fabricado —«The way a violin is made does not determine the music that will be played on it» (09, L48)—, la persona no es la clase, y «Persons of and by themselves have no value» (09, L19, Marx) es la proposición que arruina la dignidad; el pan como arma política (09, L19) y la conclusión práctica: «The true battle against Communism begins in the heart of every single American» (09, L76).
+
+[LIWL, 09_the_philosophy_of_communism L3-29; 41_the_philosophy_of_communism L3-39]
+
 ## Distinciones importantes
 
 - Comunismo (ateísmo militante, materialismo dialéctico) vs. socialismo democrático (puede ser compatible con principios cristianos)

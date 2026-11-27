@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pobreza
 tags: ["moral", "ascética"]
 
-timestamp: 2026-10-02
+timestamp: 2026-11-26
 description: "Desprendimiento de los bienes terrenos por amor a Cristo, que constituye la primera bienaventuranza (\"pobreza de espíritu\") y uno de los consejos evangélicos."
 ---
 # Pobreza
 
 > Área: Moral / Ascética
-> Última actualización: 2026-10-02
+> Última actualización: 2026-11-26
 
 ## Definición
 
@@ -83,6 +83,28 @@ volere / e onne cosa possedere / en spirito de libertate» (Jacopone da Todi,
 *Lauda* 36, vv. 119-122; 02, 255). «La pobreza es no tener nada y poseerlo todo
 en espíritu de caridad, es decir, usándolo todo para el Reino de Dios» (02, 255).
 
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+*Victory over Vice* trata la pobreza por contraste con la avaricia, definida
+como «an inordinate love of the things of this world» (CJC, cap. 54, L3). El
+criterio no es la cantidad sino la ordenación: los bienes son lícitos y
+necesarios «to enable us to live according to our station in life, to
+mitigate suffering, to advance the kingdom of God, and to save our souls»
+(L9). La pobreza cristiana no consiste, pues, en tener poco, sino en no
+tener el corazón puesto en lo que se tiene.
+
+La prueba está en la muerte. El avaro, «like a giant tied down by ten
+thousand ropes», no puede desprenderse de nada y «becomes at death the most
+destitute and despoiled beggar in the universe» (L61-71); el desprendido, en
+cambio, halla en la muerte una liberación: «Earth and its possessions are
+the cage that confines us and death is the opening of its door» (L73). De
+ahí la alabanza del voto: «Our powers of dispossession are greater than our
+powers of possession… That is why the soul with the vow of poverty is more
+satisfied than the richest covetous man in the world, for the latter has not
+yet all he wants, while the religious wants nothing» (L75). Cristo es el
+ejemplo consumado: sin techo (Mt 8,20), sin testamento y sin más posesión
+que su espíritu (L47-55).
+
 ## Distinciones importantes
 
 - Pobreza efectiva (material, mediante voto) vs. pobreza afectiva (espíritu de desprendimiento)
@@ -106,3 +128,4 @@ en espíritu de caridad, es decir, usándolo todo para el Reino de Dios» (02, 2
 - TPCr, Tercera Parte, Libro II, cap. II
 - TPCr, Tercera Parte, Libro III
 - TPCr, Segunda Parte
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), cap. 54

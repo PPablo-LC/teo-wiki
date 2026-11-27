@@ -160,6 +160,12 @@ De ahí su tratamiento del problema del mal: quizá la dificultad no sea la elus
 
 La aplicación espiritual es la de Jean-Pierre de Caussade: todo lo que nos ocurre en un día —las personas, el clima, un paisaje, una palabra insultante— revela la voluntad de Dios. «Nada escapa a la providencia»: desde el punto de vista de las causas contingentes hablamos de azar, pero desde la causa de las causas todo es, por dirección o permisión, expresión de la voluntad divina y, por tanto, ocasión y ofrecimiento. La pregunta bíblica no es «¿habla Dios?», sino «¿qué dice Dios?».
 
+### Según Fulton J. Sheen — *The Cries of Jesus from the Cross* (CJC)
+
+Sheen aborda la providencia desde la Sexta Palabra, «It is finished» (Jn 19,30), ante el escándalo del sufrimiento inmerecido. La pregunta por el plan del universo solo recibe respuesta porque la Bondad misma entró libremente en el dolor: si el Mejor desciende a lo peor y lo encaja en su propósito, ningún sufrimiento queda fuera de sentido (CJC, cap. 45, L3-11). Cristo no cayó en la Cruz por accidente; la buscó con conocimiento y libertad, y por eso su consumación puede leerse como revelación de un universo planeado, no caótico (cap. 45, L13-31).
+
+La providencia, sin embargo, no suprime la cooperación humana. La obra de la redención está terminada por Cristo, pero la aplicación a cada vida no: «our masterpiece — a happy death — must be prepared for by practice» (cap. 45, L67). El plan de Dios incluye la cruz diaria, la hora de la mortificación y la confianza que permanece cuando no hay pruebas visibles (caps. 45 y 49).
+
 ## Distinciones importantes
 
 - **Providencia (razón del orden) vs. gobierno (ejecución del orden)**: la primera es eterna; la segunda, temporal.
@@ -195,3 +201,4 @@ Se relaciona con la [[predestinación]] (q.23, que es la providencia respecto al
 - AED, 23, 99-109 — Tischrede 100: *La distanza è esser dentro* — el deseo de posesión como camino hacia el Tú.
 - ImC, *La imitación de Cristo*, libro III, caps. 17, 38, 39 y 59
 - Barron, Robert; Horn, Trent. *The Mystery of God: Who God Is and Why He Matters* (Word on Fire, Study Guide).
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), caps. 45, 49

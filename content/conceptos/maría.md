@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "María"
 description: "La Santísima Virgen María, Madre de Dios y de la Iglesia, figura central de la mariología católica: su misterio, sus dogmas y su papel en la economía de la salvación."
 tags: ["mariología", "maría"]
-timestamp: 2026-09-03
+timestamp: 2026-11-25
 ---
 
 # María
 
 > Área: Mariología
-> Última actualización: 2026-09-03
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -61,6 +61,14 @@ El P. Álvaro Corcuera presenta a María como **madre, modelo y maestra de la vi
 - **Regina de la Paz**: «María, Reina de la Paz, que nos llena de esperanza, sabiendo con certeza que nos conduce a puerto seguro» (cap. 13, §165).
 - **Protección**: «Que María Santísima sea la que nos proteja y nos cuide... Ella, como a los apóstoles en Pentecostés, nos llena de su paz y de su fortaleza, nos dice que no hemos de temer porque Ella está ahí, siempre fiel» (cap. 13, §§15, 101).
 - **Cofundadores**: P. Escribano «veía la caridad de los primeros; entonces, él estaba convencido de que estaba llamado a amar a Cristo y a la Iglesia... en una congregación que estaba naciendo» (cap. 13, §61).
+
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+Sheen lee la Tercera Palabra como el cumplimiento de las dos escenas de Nazaret. Si la primera Anunciación la hizo un ángel, la segunda la hace Dios mismo desde la Cruz: «Woman! It was the second Annunciation!»; y si en Belén María dio a luz sin dolor a su primogénito, en el Calvario da a luz a Juan y a todos los redimidos en el dolor: «Behold thy son! It was the second Nativity!» (CJC, `19_woman_behold_thy_son.md`, L9 y L11). De ahí la tesis más fuerte del capítulo: María es madre nuestra «not by a title of courtesy, not by legal fiction, not by a mere figure of speech, but by the right of bringing us forth in sorrow at the foot of the Cross» (L13), recuperando junto al árbol de la Cruz el título de «Mother of Men» que Eva perdió junto al árbol del bien y del mal.
+
+La fuente insiste en que esa maternidad se funda en la pureza de Cristo, no en un título jurídico: «Mary became Our Mother because her Divine Son was purity itself» (CJC, `20_blessed_are_the_clean_of_heart.md`, L9). Por eso el «Woman» del Crucificado no es un desaire sino una ampliación: «The term *Woman* indicated a wider relationship to all humanity than *Mother*» (CJC, `21_suffering_of_the_innocent.md`, L37), y por eso la mujer que no falló en la Pasión —la única que permaneció «standing»— es presentada como la nueva Eva: «As a woman had shared in the fall of man, so woman should share in his redemption» (CJC, `23_prudence.md`, L23).
+
+El volumen precisa además el estatuto del culto mariano con una fórmula desprovista de ambigüedad: «Mary is a creature, human, not divine. Catholics do not adore Mary. That would be idolatry. But they do reverence her» (CJC, `23_prudence.md`, L33). Y su papel mediador se describe con imágenes de la Visitación: en María, «as a kind of living ciborium», Cristo es llevado «to the First Communion rail of her cousin's home» (CJC, `25_the_fellowship_of_religion.md`, L45), de donde la conclusión que resume la mariología del volumen: «Only she who raised Christ can raise a Christian» (L49).
 
 ### Distinciones importantes
 

@@ -89,6 +89,18 @@ Para Giussani, el trabajo es «el lugar donde se verifica de modo más evidente 
 
 El trabajo es la forma de la libertad humana puesta en tensión por el Misterio: «la pobreza es un trabajo y la obediencia es un trabajo: la obra de un Otro»; «se llama trabajo la pertinencia de la libertad a la posibilidad que el Ser hace vislumbrar» (AED, 23, 199). Su raíz y su figura más alta es la liturgia: «la liturgia es el símbolo del trabajo»; todo gesto realizado en función del Misterio «es un signo con el que el Misterio coincide: se llama mérito» (AED, 28, 173-175).
 
+### Según *Life Is Worth Living* (LIWL)
+
+Sheen dedica al trabajo el capítulo 38 de la segunda serie («Why Work Is Boring»), una de sus aportaciones más articuladas a la doctrina social. Define el trabajo humano por **dos elementos**: el resultado producido y la intención o propósito humano, que incluye el perfeccionamiento y desarrollo de sí mismo (38, L5). El animal también produce —la abeja hace miel—, pero solo por instinto; el hombre imprime en la materia la huella de su razón porque es imagen de Dios (38, L5). De ahí que el trabajo tenga siempre una dimensión expresiva: «Having within himself the image of God, he wants in his turn to put his image on matter» (38, L11).
+
+El **diagnóstico** es el de la alienación industrial, descrita sin vocabulario marxista: en la repetición mecánica se produce el resultado pero se pierde la intención, y el obrero concluye «I work in order to live, not to perfect myself or express my creativeness» (38, L7). Dos efectos malos se siguen: el aburrimiento —la personalidad no encuentra expresión— y la subordinación del espíritu a lo económico y mecánico: «Man does not exist for the sake of production, but production exists for the sake of man» (38, L13). El ejemplo que da es demoledor: se arroja café al mar y leche al suelo mientras dos tercios de la humanidad se acuestan con hambre, porque mantener el precio ha pasado a ser más importante que la vida humana (38, L9).
+
+Su lectura del **conflicto social** merece conservarse: la protesta revolucionaria de los obreros es muchas veces «the workers' rightful protest against the defacement of the Divine Image within them», pues siendo las criaturas más nobles de la tierra no pueden ser degradadas al orden de la química, la materia y la economía (38, L11). Y el comunismo es «the final logic of the dehumanization of man»: negando a Dios, reduce al hombre a robot y a herramienta del Estado (38, L13).
+
+Los **remedios** son dos, y su distinción es la clave del capítulo. El económico consiste en devolver la responsabilidad al trabajador —participación en beneficios, gestión o propiedad—, con una advertencia sobre la parcialidad de clases: «Capital and labor are classes, and no class is always right» (38, L27). El espiritual consiste en trabajar con **intención divina**: «There is no work in the world that cannot be sanctified», desde levantar un micrófono hasta barrer suelos, ofreciéndolo en nombre de Dios (38, L29). Cristo, «a rich man who became poor», es el vínculo que une capital y trabajo porque de ambos puede decirse que salió de sus filas (38, L31). En el capítulo de la oración vuelve sobre lo mismo con la imagen de la gota de agua sucia elevada a copo de nieve: las vidas rutinarias «can be ennobled, spiritualized, and divinized» si se les lleva la inspiración de Cristo (47, L47).
+
+[LIWL, 38_why_work_is_boring L5-31; 47_prayer L47]
+
 ## Distinciones importantes
 
 - Trabajo creador (Gén 2,15) vs. trabajo fatigoso (Gén 3,17-19)

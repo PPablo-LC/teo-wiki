@@ -84,6 +84,12 @@ El ayuno aparece primero como una de las tres prácticas de Ceniza y luego recib
 
 La reflexión de 2024 es la más desarrollada del corpus sobre este punto. El ayuno se explica por el hambre de Dios, que es el hambre más profunda: estamos hechos para acceder a ella y para sentirla, de modo que oriente la vida. Todo maestro espiritual conoce el peligro de que los hambres superficiales dominen y no lleguemos nunca a la más honda. Barron cita a Thomas Merton: los apetitos de comida y bebida se parecen a niños pequeños por su insistencia y su tendencia a imponerse; mientras no se les discipline, desajustan las funciones del alma según sus fines. El ayuno los aquieta al no responderles de inmediato, y así emerge el deseo más profundo. La consecuencia práctica es notable: sin ayuno quizá nunca se descubra cuánta hambre de Dios se tiene. El ayuno queda así inscrito en una pedagogía del deseo, no en una contabilidad de privaciones, y se cruza con la insistencia de Ceniza en las prácticas que comprometen el cuerpo.
 
+### Según Fulton J. Sheen — *The Cries of Jesus from the Cross* (CJC)
+
+En la Quinta Palabra, Sheen contrapone la gula y el lujo a la sed de Cristo en la Cruz: el que alimentó a las multitudes acepta vinagre e hiel en reparación por los que tuvieron de sobra (CJC, cap. 38, L25-33). La palabra revela una doble hambre, del cuerpo y del alma; por eso Cristo promete el agua que salta hasta la vida eterna y el alimento de su carne y su sangre (Jn 4,13-14; 6,56; cap. 38, L35-41).
+
+Desde ahí distingue dieta y ayuno: materialmente pueden parecer iguales, pero la dieta sirve al cuerpo, mientras el ayuno cristiano disciplina el cuerpo por el alma (cap. 38, L43). La templanza regula los apetitos sensibles, y la mortificación no destruye el placer creado, sino que lo ordena a la caridad y a la salvación. La práctica recomendada es concreta: pequeñas renuncias diarias, dar por amor de Dios y cultivar el hambre espiritual mediante la Eucaristía y el amor al pobre (caps. 38-39, L55-87).
+
 ## Distinciones importantes
 
 - No es un fin en sí mismo, sino medio de conversión y purificación
@@ -101,6 +107,8 @@ La reflexión de 2024 es la más desarrollada del corpus sobre este punto. El ay
 - [[tim_barry_mortification_maketh_man]]
 
 ## Referencias
+
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), caps. 38-39
 - CEC §1434, 2043
 - TPCr, Parte III, Libro I
 - [VocTeoBib, «Ayuno»]

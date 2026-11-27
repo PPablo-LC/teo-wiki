@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Santísima Trinidad
 tags: ["dogmática"]
 
-timestamp: 2026-05-21
+timestamp: 2026-11-26
 description: "La Santísima Trinidad es el misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo— que subsisten en la unidad de la esencia divina."
 ---
 # Santísima Trinidad
 
 > Área: Dogmática
-> Última actualización: 2026-05-21
+> Última actualización: 2026-11-26
 
 ## Definición
 
@@ -44,6 +44,16 @@ La vida cristiana es una participación de la vida trinitaria. Por el bautismo, 
 El **IV Concilio de Letrán** (1215), en la constitución *Firmemente creemos* (D-428), confiesa la fe trinitaria: «Firmemente creemos y simplemente confesamos que uno solo es el verdadero Dios, eterno, inmenso e incomputable, incomprehensible, omnipotente e inefable, Padre, Hijo y Espíritu Santo: tres personas, pero una sola esencia, una sola sustancia o naturaleza absolutamente simple». El Padre procede de nadie, el Hijo solo del Padre, y el Espíritu Santo de ambos igualmente, sin principio ni fin. La Trinidad es un solo Dios, no tres dioses.
 
 El mismo concilio, en D-431-432, aprueba la doctrina de **Pedro Lombardo** y rechaza la de **Joaquín de Fiore**, que afirmaba una cuaternidad en Dios. No hay cuaternidad en la Trinidad: la suma de las tres personas no es una cuarta realidad. La unidad está en la naturaleza común; las distinciones, en las personas.
+
+### The Priority of Christ (TPC)
+
+El capítulo 14 de Barron vuelve sobre la disputa arriana para mostrar que el lenguaje trinitario es una consecuencia de la cristología y no una especulación previa:
+
+- **Agustín contra los arrianos:** el *Shemá* afirma la unidad de Dios y el Misterio Pascual la diversidad de personas; Nicea (325), Atanasio, Basilio y Gregorio de Nisa rechazan tanto el monarchianismo como el subordinacionismo y el triteísmo. El *De Trinitate* funciona como regla del lenguaje teológico (L5). Se distinguen las misiones *ad extra* de las procesiones *ad intra* y se da primacía a la Escritura sobre la filosofía (L7).
+- **El problema de los accidentes:** la objeción arriana del *calidissimum* —«engendrado» y «no engendrado» exigirían accidentes o dos sustancias— obliga a reconocer que no todo lo dicho de Dios se dice «según la sustancia»: Padre e Hijo son *ad aliquid*, eternos e inmutables (L9-L15). Las **relaciones subsistentes** de Tomás subsisten como sustancia y se ordenan al otro como accidente (L17). Agustín acuña «personas» con reticencia: «tres personae non ut illud diceretur sed ne taceretur» (L19).
+- **Ratzinger:** «una essentia tres personae» y «la absolutidad de lo relativo»; *prosopon* es «mirar hacia» y *persona* «hablar hacia», de modo que ser y relación son equiprimordiales contra la prioridad aristotélica de la sustancia (L21-L23).
+- **La Trinidad como don:** a partir de Jn 14-16, el Padre, el Hijo y el Espíritu forman un juego de amante, amado y amor activo (L59-L85); el Espíritu hace presente la identidad del Hijo en cada santo (L85). La **coinherencia creada** es sombra de la trinitaria, marcada por la asimetría de dependencia (L25).
+- **Tomás, *Summa contra gentiles* IV:** la generación divina se explica como la emanación más íntima —la del *verbum interius*— sin pasaje de potencia a acto: «Filius... non est extra Patrem generantem, sed in eo» (L33-L41). Voluntad y amor son la esencia misma de Dios, y el Espíritu Santo es el amor del Padre y del Hijo (L43); la triunidad se sigue de la simplicidad divina y el *vinculum* es distinto de las personas sin dividir la unidad (L45-L47).
 
 ## Distinciones importantes
 

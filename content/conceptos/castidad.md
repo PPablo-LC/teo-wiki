@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Castidad
 tags: ["moral"]
 
-timestamp: 2026-11-22
+timestamp: 2026-11-25
 description: "La castidad es la virtud moral, parte subjetiva de la templanza, que modera el apetito genésico según la recta razón y la fe, integrando la sexualidad en la persona y ordenándola al don total de sí."
 ---
 # Castidad
 
 > Área: Moral
-> Última actualización: 2026-11-22
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -226,6 +226,14 @@ pastoral en sacerdotes y obispos, caridad de servicio y dedicación a la
 oración en los religiosos—. La castidad «nunca es una perfección personal, un
 fin en sí mismo», sino la virtud que apunta a la *ec-stasis*: salir de sí para
 acoger a los otros, darse a ellos y crear una verdadera comunión de personas.
+
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+Sheen enmarca la castidad en una ley general: el egoísmo de la carne solo se rompe cuando aparece un amor mayor. Dios instituyó dos escapes —el sacramento del matrimonio y el voto de castidad—, y la regla que los mide es la misma: «the greater the purity of heart, the less the selfishness» (CJC, `20_blessed_are_the_clean_of_heart.md`, L13). La castidad no es entonces una negación, sino la cima del desprendimiento: «Perfect purity is perfect selflessness» (L39); precisamente porque Cristo no se retuvo a sí mismo pudo entregarnos a su Madre.
+
+El capítulo sobre la lujuria añade el diagnóstico y el remedio. El diagnóstico: «It is never the pure who say that chastity is impossible, but only the impure» (CJC, `22_lust.md`, L15), y la era de la carnalidad tiende a identificar la permanencia del matrimonio con el placer, de modo que al cesar este se presume disuelto el vínculo. El remedio es doble: la reparación objetiva del nacimiento virginal —Cristo quiso nacer de una virgen para no heredar el pecado que se propaga por la generación— y la reparación del Calvario, donde se despoja incluso de los lazos lícitos de la carne: «He became totally unfleshed, in order to atone for the abuse of the flesh, by giving away His Mother and His best friend» (L37).
+
+De ahí las dos lecciones que la fuente extrae de la Tercera Palabra: «The only real escape from the demands of the flesh is to find something more than the flesh to love» y «Mary is the Refuge of Sinners» (CJC, `22_lust.md`, L43-46). La castidad cristiana no se sostiene, pues, en la sola voluntad, sino en un amor más alto —Cristo y su Madre— que hace posible la entrega del amor menor, con esa «passionless passion, a wild tranquility» que Sheen toma de Francis Thompson (L62).
 
 ## Distinciones importantes
 

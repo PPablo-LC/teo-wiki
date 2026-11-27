@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: "Siete palabras de Cristo en la cruz"
 description: "Las siete palabras que Jesús pronunció en la cruz, leídas por Fulton Sheen como las siete partes del Ordinario de la Misa."
-timestamp: 2026-11-23
+timestamp: 2026-11-26
 tags: ["cristología", "liturgia", "eucaristía", "espiritualidad", "fulton_sheen"]
 ---
 
 # Siete palabras de Cristo en la cruz
 
 > Área: Cristología / Liturgia
-> Última actualización: 2026-11-23
+> Última actualización: 2026-11-26
 
 ## Definición
 
@@ -49,6 +49,26 @@ El segundo eje es el **emparejamiento con las palabras de María**: ella habla s
 
 La fórmula que condensa la aportación: «It is God who gives us the Cross. And it is the Cross that gives us God» (cap. 6, L43). Frente a la cruz-amuleto, el crucifijo «involves you in its guilt»; por eso el mundo pide un Cristo sin cruz.
 
+La Quinta Palabra, «I thirst» (Jn 19,28), revela el reverso de la Cuarta: si aquella mostró «the sufferings of a man without God», esta muestra «the sufferings of God without man» (CJC, cap. 35, L7). No es sed de agua, sino sed de amor: el Creador que dio todo —creación, revelación, sufrimiento, Eucaristía y promesa del cielo— pide al hombre la respuesta de su amor (cap. 35, L5-9). La Sexta, «It is finished» (Jn 19,30), proclama la redención consumada por las mismas tres realidades que intervinieron en la caída —Adán/Cristo, Eva/María, árbol/jardín y árbol/Cruz—, pero advierte que la obra de distribuir esa vida y hacerla propia no está terminada: «sin Viernes Santo en nuestra vida no habrá Domingo de Resurrección» (cap. 43, L5; cap. 44, L31). La palabra «hora» une Caná y el Calvario: el milagro inicia la hora, la sexta palabra la consuma; entre el comienzo y la plenitud de toda vocación interviene la Cruz como condición de la autoperfección (cap. 49, L17-25).
+
+La **Séptima Palabra** cierra la serie como lo que es: un regreso. Sheen la lee
+en continuidad con la Sexta, que fue «a cry of retrospect: “I have finished the
+work”», mientras que la última «is one of prospect: “I commend my spirit”»: «The
+sixth word was manward; the seventh word was Godward» (cap. 51, L5). La imagen
+que ordena el capítulo es la de la órbita: como los planetas vuelven al punto
+de partida para saludar a quien los envió, así el que vino del cielo, «having
+finished His work and completed His orbit, now goes back to the Father» (L5).
+El comentario directo añade la escena de la primera muerte —Adán encuentra el
+cuerpo de Abel— para leer el Calvario como la muerte del «nuevo Abel» a manos de
+sus hermanos (cap. 51, L3), y la *palabra de María* correspondiente es su última
+frase registrada en la Escritura, «Whatsoever he shall say to you, do ye» (Jn
+2,5): «Jesus surrendered Himself to the Father; Mary asked us to surrender
+ourselves to the Son» (cap. 57, L21-25). En la columna de las palabras dichas
+*a* la Cruz, la última actitud es la del **pensador**: el centurión que, al oír
+la voz fuerte del Crucificado, pasa de la duda de Hamlet a la confesión «Indeed
+this was the Son of God» (Mt 27,54), y se convierte en representante de «that
+seventh and last type who come in contact with the Cross» (cap. 56, L62-66).
+
 ## Distinciones importantes
 
 - **Las siete Palabras no son un texto único** en los Evangelios: están distribuidas entre los cuatro y la Iglesia las reúne en su tradición litúrgica.
@@ -67,3 +87,4 @@ La fórmula que condensa la aportación: «It is God who gives us the Cross. And
 
 - Mt 27,34-50; Mc 15,34-37; Lc 23,34-46; Jn 19,26-30
 - CAM (Fulton J. Sheen, *Calvary and the Mass*), prólogo y caps. 1-7
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), caps. 34-59 (Quinta, Sexta y Séptima Palabra; apéndices)

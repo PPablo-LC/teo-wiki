@@ -35,6 +35,18 @@ En el NT, Cristo consagra la dignidad de la mujer. Él quiso nacer de una mujer 
 
 Juan Pablo II dedicó una serie completa de mensajes y meditaciones a la mujer con ocasión de la IV Conferencia Mundial sobre la Mujer (Pekín 1995). En ellos, la mujer es presentada como «educadora para la paz» [Muj 03], dotada de un «genio femenino» que incluye una capacidad particular de acogida del ser humano [Muj 31 §2]. La mujer llamada a desarrollar plenamente su subjetividad, un «ser en femenino» enriquecedor e indispensable para una armónica convivencia humana [Muj 27 §2]. El Papa denuncia las injusticias que pesan sobre la condición femenina y propone el plan de Dios para que madure «una cultura respetuosa y acogedora con respecto a la femineidad» [Muj 27 §1]. La mujer tiene una vocación singular a la maternidad —no solo física sino también afectiva y espiritual— que la hace particularmente sensible a la persona concreta y a sus necesidades [Muj 30, 34]. María es presentada como modelo de toda mujer y espejo de la auténtica feminidad [Muj 27 §3, 31 §3].
 
+### Según *Life Is Worth Living* (LIWL)
+
+Sheen enuncia un principio civilizatorio: «The level of any civilization is the level of its womanhood» (44_women_who_do_not_fail, L3, repetido en 10_knowing_and_loving, L13). Su fundamento no es retórico sino antropológico: al conocer, el hombre **baja** el objeto a su nivel; al amar, **sube** a la altura del amado; luego cuanto más noble es la mujer amada, más noble debe ser el hombre para merecarla (44, L3).
+
+Distingue tres tipos de mujer que sostienen la civilización. La primera es la que no falla en el orden social, político y económico, y su virtud propia es la **equidad**, distinta de la ley: la ley mira la regla y la exactitud; la equidad, las circunstancias que escapan a la ley y las razones para no ser riguroso (44, L7). Ilustra esta distinción con las vidrieras rivales de Pierre de Dreux y Blanca de Castilla en Chartres y con la estatua de Nuestra Señora de la Equidad sobre el altar, que escucha y adjudica con misericordia según Henry Adams (44, L9). La mujer está llamada a templar el mundo de la justicia con el amor, y en la familia es intercesora de misericordia ante la justicia del padre (44, L9).
+
+La segunda es la **madre**, que añade una dimensión a su amor de esposa: «A man is afraid of dying; a woman is afraid of not living» (44, L19). De la maternidad deriva la **maternidad educadora**: la obediencia es condición de la sabiduría, como el científico se sienta ante la naturaleza para aprender sus leyes (44, L13). Sheen saca de ahí una tesis política: si los padres ceden su responsabilidad, el Estado ocupa el hueco, porque el poder estatal es efecto de la quiebra de la autoridad familiar; «Mothers, more than politicians, are the preservers of freedom and democracy» (44, L23).
+
+La tercera es la **virginidad consagrada**, que no se opone al amor como la riqueza a la pobreza: «Virginity is the mountain-peak of love» (44, L27). Frente a los amores que hacen un falso infinito de una sucesión de amores finitos, la virgen consagrada conserva el sentido del amor primero y último; su vida es la rosa arrancada del jardín por la mano del jardinero, sin injusticia, porque la mano de Dios está sobre el alma (44, L17-21). Cierra con las tres Marías del Calvario —Magdalena, María de Cleofás y María de Nazaret— como figuras de los tres tipos (44, L27).
+
+[LIWL, 44_women_who_do_not_fail L3-29; 10_knowing_and_loving L13]
+
 ## Distinciones importantes
 
 - **Igualdad en dignidad** (ontológica) ≠ **diferenciación en la reciprocidad** (relacional)

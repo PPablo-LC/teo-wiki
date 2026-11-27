@@ -103,6 +103,18 @@ casi todas muy jóvenes, en el casco de una nave en reparación por un incendio
 
 **El sufrimiento ofrecido en la Misa.** La estación XI invita a leer el dolor personal —la agonía de un hijo, la rebeldía de una hija, la muerte de un hermano, la angustia económica, una amistad rota— a través del prisma de la muerte sacrificial de Jesús: «pueden verlo a través del prisma de la muerte sacrificial de Jesús, apreciándolo como el medio con el que Dios las atrae hacia sí», uniendo sus sacrificios al gran sacrificio de Cristo, como precisa *Lumen Gentium* [LGR21, estaciones II, III, VI y XI y Viernes Santo; resúmenes 46 y 51–55 y 60].
 
+### Según *Life Is Worth Living* (LIWL)
+
+Sheen aborda el dolor dos veces (primera serie, cap. 21; segunda serie, cap. 46) con un planteamiento fenomenológico antes de llegar a la doctrina. Constata una **asimetría**: «Our capacity for pain is greater than our capacity for pleasure» (21_pain_and_suffering, L3). El placer llega pronto a su tope y decae —«Honeymoons do not last long»—, mientras el dolor crece y el hombre lo soporta más allá de lo que creía; la explicación que propone es escatológica: Dios quiso que todo dolor se agotara en esta tierra, mientras el placer y la felicidad se reservan para el cielo, pues «The sorrows of this life are not worthy to be compared with the joys that are to come» (46_suffering, L15).
+
+La tesis que gobierna ambos capítulos es que **el dolor no tiene sentido en sí mismo, sino en relación con la salvación del alma**. Quien no ve más allá del dolor lo vuelve estéril: «Unspiritualized suffering degenerates the soul» (46_suffering, L28), porque negarse a relacionarlo con nada intensifica el yo y profundiza el egotismo. La prueba son los dos ladrones, que sufren tortura idéntica y reaccionan de modo opuesto: el de la izquierda pide que Cristo baje de la cruz —para él el poder consiste en detener el dolor y seguir robando—; el de la derecha, al oír «Father, forgive them for they know not what they do», descubre la relación entre su dolor y su culpa, ve en la corona de espinas una diadema y en el clavo un cetro, y oye: «This day thou shalt be with Me in Paradise» (46_suffering, L30). De ahí la fórmula compacta: «Pain without love is suffering or hell. Suffering with love is sacrifice» (21_pain_and_suffering, L25).
+
+Sheen añade dos **usos** del dolor que la literatura ascética clásica formula como expiación y reparación, pero que él explica con ejemplos de la vida corriente: la ventana rota de la infancia —no basta pedir perdón, hay que pagar— y el reloj robado —el perdón no dispensa de devolverlo— (46_suffering, L13). En la reparación recurre a la analogía del injerto de piel y de la transfusión de sangre: si se puede transfundir sangre, ¿no se podrá transfundir oración?, y si se puede injertar piel, ¿no se podrá injertar sacrificio? (46_suffering, L15). La razón última no es jurídica sino amorosa: «Love does not kill pain, but love can diminish it»; la madre que vela al hijo enfermo no siente agonía sino amor, y «The great tragedy of our world is that most people who suffer have no one to love» (46_suffering, L42).
+
+Su aportación más original es el desplazamiento del misterio: «What is mysterious is not the suffering but how much is missed when we do suffer» (46_suffering, L44). El escándalo no sería que el hombre sufra, sino que su dolor quede sin correlacionar con la corona de espinas, con las manos clavadas y con el Corazón abierto por la lanza, perdiendo así su capacidad de santificar.
+
+[LIWL, 21_pain_and_suffering L3-57; 46_suffering L3-17]
+
 ## Distinciones importantes
 
 - Sufrimiento como castigo vs. sufrimiento como prueba

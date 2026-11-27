@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Fe
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-11-02
+timestamp: 2026-11-25
 description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado; acto razonable de adhesión a una persona según Giussani."
 ---
 
 # Fe
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-11-02
+> Última actualización: 2026-11-25
 
 ## Definición
 
@@ -224,6 +224,12 @@ La fe es la primera de las teologales, pues hay que aprehender antes de amar. Su
 **Fe y razón.** «¿Está Dios opuesto a la razón? En absoluto; Dios nos dio el don de la razón. ¿Quiere Dios que seamos irrealistas? No; quiere que usemos todas nuestras capacidades de imaginación y análisis. Pero la fe va más allá de la razón; es una pasión por lo que la razón no puede ver.» Por esa fe el centurión recibe una de las alabanzas más altas del Evangelio: «En nadie de Israel he encontrado tanta fe».
 
 **La fe que pide visión.** En la reflexión sobre los dos ciegos, la fe se concreta en la pregunta de Jesús: «¿Creéis que puedo hacer esto?». Y la aplicación es directa: «Cuando oras, ¿crees de verdad, como los ciegos, que Dios responderá tu oración?» (3 de diciembre).
+
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+Sheen subraya que la fe no es credulidad ni confianza emocional: «Faith is the acceptance of a truth on the authority of God revealing» y, por tanto, «it presupposes reason» (CJC, `31_faith.md`, L15). La comparación que ofrece es la del telescopio: «Faith is related to reason as a telescope to the eye, which does not destroy vision, but opens new worlds hitherto closed to it» (L31), de modo que dos personas ante el mismo pan ácimo ven cosas distintas porque una tiene una luz que la otra no tiene. El católico queda definido con humor exacto: «one who made the startling discovery that God knows more than he does» (L29).
+
+La fuente añade dos precisiones que completan el tratado clásico. La primera es que la fe no libra de la Cruz: «Faith does not mean being taken *down* from a cross; it means be *lifted* up to heaven — sometimes by a cross» (CJC, `31_faith.md`, L55); por eso el objeto de la fe es Dios y no las cosas de la tierra, y por eso la cuarta palabra —pronunciada en la oscuridad— es a la vez grito de abandono y acto de fe: «My God, my God!». La segunda es que la fe es hábito infuso: «not an acquired habit like swimming, but an infused habit given to us by God in Baptism» (L88), que crece con la práctica hasta dar testimonio de Dios en medio del abandono.
 
 ## Relaciones doctrinales
 

@@ -76,6 +76,18 @@ atracción ni la persona a su orientación. El volumen insiste en que la
 sexualidad es lenguaje del don: solo en esa clave se entiende la
 **[[castidad]]** como liberación y no como mutilación.
 
+### Según *Life Is Worth Living* (LIWL)
+
+Sheen afronta el tema por la puerta del lenguaje: cuando aparece una película o un libro que rompe un mandamiento, se lo justifica diciendo que por fin «the subject of sex has been brought out into the open» (40, L3). Su respuesta es preguntar **de qué** se libera: de la intimidad, de la totalidad de la persona o de la ley y el orden; si es cualquiera de las tres, no es liberación verdadera (40, L5).
+
+La primera falsa liberación —**de la intimidad**— se apoya en una observación antropológica: hay actos personales, íntimos e incomunicables, y hacerlos públicos los vuelve vulgares, es decir, los prostituye (40, L9). El ejemplo del matrimonio que se abraza en la calle frente al que come al aire libre muestra que la diferencia no está en la moralidad del gesto sino en su condición personal; y la comparación con los simios —que no guardan secreto porque no son personas— mide la distancia entre el establo de sementales y el hogar (40, L21). De ahí que el pudor femenino y la caballerosidad masculina no sean restos de inferioridad física, sino reverencia ante el misterio (40, L19).
+
+La segunda —**liberación de la parte respecto del todo**— es la más directamente doctrinal. El hombre es compuesto de cuerpo y alma, y por eso ninguna experiencia que comparte con el animal es idéntica a la del animal: la digestión del caballo no es la del hombre, que puede tener úlceras porque piensa y se preocupa (40, L23). Aislar el sexo del conjunto es malinterpretarlo: «There is a world of difference between sex in pigs and love in humans» (40, L23). La imagen del director de orquesta consciente de sus manos —no podría dirigir— y la sátira de Chesterton que interpreta toda la vida infantil en clave de cerveza ridiculizan la explicación pansexual del hombre (40, L23-25).
+
+La tercera —**liberación de la ley y el orden**— se refuta con una analogía lingüística: nadie pide «liberación de la gramática», aunque el discurso tenga sus leyes porque expresa ideas; del mismo modo, el amor tiene una gramática propia (40, L27-29). Cierra con la parábola de la isla amurallada: los «liberadores» convencen a los niños de derribar los muros y los encuentran después amontonados en el centro, sin atreverse a cantar ni a jugar por miedo a caer al mar (40, L39).
+
+[LIWL, 40_the_liberation_of_sex L3-39]
+
 ## Relaciones doctrinales
 
 Se relaciona con [[amor_conyugal]], [[matrimonio]], [[castidad]], [[educación_sexual]], [[significado_esponsal_del_cuerpo]], [[anticoncepción]], [[paternidad_responsable]]

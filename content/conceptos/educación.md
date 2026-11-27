@@ -143,6 +143,18 @@ La educación es tarea común de la casa y del colegio: «En el Colegio hay quie
 
 Dentro del colegio, la labor principal son las clases: «la inteligencia se cultiva en las clases casi exclusivamente, en tanto que el carácter recibe influencias en todo momento» (12:13). Pero la educación no se reduce a instrucción: lo que forma es la concepción de la vida del educador (05:51; ver [[educador_cristiano]]), y el fin es la formación integral del chico (12:59). ECP insiste en la primacía de la educación de la libertad: «si lográramos educar adecuadamente la libertad de los muchachos, habríamos conseguido lo más esencial en la educación» (11:7). El éxito se mide a largo plazo: «la verdadera educación, la labor que realmente dura a través de los años, es la que aparentemente se hace inútil en poco tiempo» (10:95).
 
+### Según *Life Is Worth Living* (LIWL)
+
+Sheen dedica dos capítulos a la educación (segunda serie, caps. 42 y 43), uno a la filosofía que debe gobernarla y otro —en tono de sátira— a la que llama «regressive education». Su punto de partida es que la educación mira al **hombre entero**: «The general aim of education is obviously to train the whole man—the intellect and the will, not just the mind alone» (42, L9). De ahí su queja contra la escuela contemporánea, que perfecciona el intelecto y descuida la formación del carácter (42, L11).
+
+Para el intelecto fija **tres metas** (42, L15): verdad, correlación de materias y profundidad. La verdad, porque el fin de la educación no es preparar para la democracia ni para ganarse la vida, sino dar a la mente la verdad sobre todas las cosas (42, L17). La correlación, porque el principio clásico «cada materia superior ilumina la inferior» —la imagen de la pirámide por la que el agua se filtra hacia abajo— fue sustituido por la **teoría de la estantería**: sesenta y cuatro botellas, o créditos, del mismo valor, con arena, leche, español o fútbol indistintos (42, L45). El resultado es que el estudiante acumula materias inconexas: «An encyclopedia is not educated, despite its bursting knowledge, because it lacks the power to coordinate one subject with another» (42, L47). La profundidad, finalmente, se compara con la división celular: el conocimiento crece ahondando en una materia, no sustituyéndola por otra (42, L51).
+
+Su crítica a la tesis socrática del mal como ignorancia es de interés doctrinal: no es cierto que educar haga virtuoso, «not only because evil is more often made by the will or by our bad choices rather than by ignorance; but also because facts show that the best-educated are not always the most virtuous»; la educación podría fabricar demonios listos en lugar de torpes (42, L27).
+
+El capítulo satírico describe los **tres principios de la educación regresiva** —el hombre es un animal; la juventud debe ser siempre autoexpresiva; nunca debe haber represión— atribuidos al ficticio profesor «Letem B. Brats», que disciplina a su perro pero no a sus hijos (43, L3-13). El argumento de fondo: la autoexpresión no es siempre buena —el soldado que huye del puesto no merece elogio por expresarse (43, L27)— y la represión no es por sí misma patológica. Cierra con una observación que afecta a la epistemología entera: «If we do not live as we think, we soon begin to think as we live; we make a philosophy to suit our bad behavior» (43, L41), con Pascal («Begin with being a better man, and you will soon have my principles») y Aristóteles (la malicia corrompe la naturaleza y da principios falsos).
+
+[LIWL, 42_education L11-51; 43_regressive_education L3-41]
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

@@ -2,7 +2,7 @@
 type: Concepto Teológico
 title: Prioridad de Cristo
 description: "Principio teológico de Barron: dar prioridad al Cristo concreto (muerte y resurrección) sobre cualquier experiencia religiosa abstracta."
-timestamp: 2026-08-20
+timestamp: 2026-11-26
 tags:
   - cristología
   - evangelización
@@ -14,7 +14,7 @@ tags:
 # Prioridad de Cristo
 
 > Área: Cristología / Teología fundamental
-> Última actualización: 2026-08-20
+> Última actualización: 2026-11-26
 
 ## Definición
 
@@ -58,6 +58,16 @@ Barron responde: «Si Jesús es simplemente un símbolo para o portador de una c
 
 El movimiento de Barron es «en precisamente la dirección opuesta»: quiere dar prioridad a Jesucristo en su vida concreta, muerte y Resurrección. «No es el ser humano en presencia del misterio absoluto lo que finalmente importa, sino más bien el Jesús que muestra de una manera completamente sorprendente la verdadera naturaleza de ese misterio» (Barron, *The Priority of Christ*).
 
+### The Priority of Christ (TPC)
+
+La monografía misma desarrolla el principio en cinco partes que invierten el orden de la *Summa* (caps. 1-20; resúmenes 05-25):
+
+- **El Jesús narrado (caps. 1-6).** Antes de toda construcción sistemática se presentan los tres títulos con que el NT dice quién es Jesús: el **Que reúne** (Caná, el hijo pródigo, la samaritana), el **Guerrero** (infancia, tentación, pasión) y el **Rey** (Emaús, aparición a los once). Corresponden a los tres caminos clásicos de la vida espiritual (L9 del cap. 6). La cristología se hace narrativa porque la persona no cabe en un concepto: es un icono «más allá del concepto pero no más allá de la racionalidad», un fenómeno «supersaturado» (L13 del prólogo).
+- **La prioridad epistémica (caps. 7-10).** El fundamento bíblico es Col 1,15-20: Cristo es la imagen del Dios invisible, en quien «todas las cosas se mantienen unidas» y por cuya sangre se reconcilian todas las cosas (L13 del cap. 7). De ahí se sigue que no hay un criterio exterior desde el cual juzgar a Cristo: «a Christ-illumined mind in search of Christ-determined forms» (L19 del cap. 7). Barron llama a esto el *epistemic trump* de Cristo, compartido con Bruce Marshall: la fe no se examina desde una cultura previa, sino que la cultura se examina desde la fe.
+- **Frente al fundacionalismo y a la teología natural desvinculada (caps. 8-9).** El *cogito* cartesiano, el empirismo de Locke y Hume y el «sentimiento de dependencia» como *cogito* teológico son formas de buscar un cimiento situado *antes* de Cristo (L5-L37 del cap. 8). La respuesta no es el fideísmo: Tomás, leído desde la *sacra pagina* y no desde la neoescolástica, muestra que *sacra doctrina* es ciencia por participación en la visión de Dios y que la filosofía es *ancilla* y *manuductio*, no un polo autónomo (L23-L35 del cap. 9). Cuanto más alta es la cristología, más fluido es el diálogo con la cultura (L35 del cap. 9).
+- **La mente de Cristo (cap. 10).** Fil 2,5 no es una invitación a una actitud genérica: condiciona «qué» y «cómo» conocemos (L3). Siete dimensiones —inteligibilidad coinherente, participación epistémica, intersubjetividad, mente enamorada, mente caída, mente encarnada y dimensión profética— describen una mente configurada por la obediencia hasta la cruz (L81), por la *kenosis* (L99-103) y por la comunidad de los que conocen *con* y *en* el otro (L49-61).
+- **La prioridad en la moral (caps. 15-20).** Deontologismo y proporcionalismo comparten atomismo, decisionismo y universalismo y dejan al sujeto aislado frente a la ley o al cálculo de consecuencias (L37-L77 del cap. 15). La salida no es una tercera teoría de la obligación, sino la narrativa de los santos: la gracia invade la barca de Pedro y la casa de Zaqueo (L5-L9 del cap. 16), y las virtudes cardinales quedan transfiguradas en Edith Stein, Teresa de Lisieux, Katharine Drexel y Madre Teresa (L31 del cap. 16). «Lo que debemos hacer depende de quiénes debemos ser» (L29 del cap. 16).
+- **Cierre.** La división moderna nació de ocultar la radicalidad de la encarnación bajo un concepto unívoco del ser y un Dios «ser supremo entre los seres»; no la resuelve una abstracción, sino «este Jesús, este Señor encarnado, crucificado y resucitado»: «It is this Moment that gives the meaning» (L7-L11 de la conclusión).
 
 ## Distinciones importantes
 
@@ -72,7 +82,7 @@ El movimiento de Barron es «en precisamente la dirección opuesta»: quiere dar
 ## Relaciones doctrinales
 
 - Se opone al [[experiencialismo_expresivo]] (Schleiermacher, Rahner, Tillich)
-- Se articula con la [[no_competitividad_divina]] (Dios trasciende y no compite con lo creado)
+- Se articula con la [[trascendencia_no_competitiva]] (Dios trasciende y no compite con lo creado)
 - Se relaciona con la [[encarnación]] como dogma central
 - Se nutre del [[ressourcement]] (de Lubac, Corbin) y del tomismo narrativo
 - Se conecta con la [[hermenéutica_bíblica]] de Barron (regula fidei, tipología)

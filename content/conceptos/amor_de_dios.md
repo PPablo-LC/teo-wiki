@@ -87,6 +87,12 @@ De ahí la Trinidad como «juego de amante, amado y amor activo»: el Padre se o
 
 El amor divino no entra en el circuito del intercambio: porque Dios no puede beneficiarse de nuestros dones ni ser herido por su ausencia —no está realmente relacionado con el mundo, dice Tomás—, da de modo totalmente desinteresado, y si amar es querer el bien del otro en cuanto otro, sus actos son amor en el sentido más pleno. Lo que se le devuelve redunda siempre en beneficio de la criatura. Y como no necesita el mundo, «la misma existencia del mundo es señal de que ha sido amado hasta el ser»; crea *ex nihilo*, sin violencia ni dominio, a diferencia de las cosmogonías antiguas. La cruz confirma el carácter no violento y relacional de su ser: el Crucificado vuelve con compasión y perdón, no con venganza.
 
+### Según Fulton J. Sheen — *The Cries of Jesus from the Cross* (CJC)
+
+La Quinta Palabra desde la Cruz, «I thirst» (Jn 19,28), revela para Sheen «the sufferings of God without man», contrapunto de la Cuarta Palabra, que mostró «the sufferings of a man without God» (CJC, cap. 35, L7). El Dios que creó, reveló, sufrió y se dio en la Eucaristía no ha agotado su amor, sino que pide al hombre el agua de la correspondencia: «I thirst — for love!» (cap. 35, L5.9). La sed no es necesidad en Dios, sino manifestación de la necesidad humana: Dios tiene sed de nosotros porque nosotros lo necesitamos para nuestra felicidad (cap. 38, L121).
+
+Este amor herido no se vuelve violencia. En la Sexta Palabra, «It is finished» (Jn 19,30), la obra de redención queda consumada: el mal se agota en la crucifixión y la justicia queda satisfecha por el amor que se entrega (cap. 43, L3; cap. 47, L63-65). CJC subraya así un amor divino que busca, llama y sufre el rechazo, pero no fuerza la libertad: «Behold, I stand at the door and knock» (Ap 3,20, citado en cap. 40, L91). La respuesta humana es la sed contraria: hambre y sed de justicia, celo por las almas y mortificación que ordena los deseos inferiores al amor de Dios (caps. 36-41).
+
 ## Distinciones importantes
 
 - **Amor de Dios vs. amor del hombre**: el amor de Dios es infinito y creador; el amor del hombre es participación del divino.
@@ -111,3 +117,4 @@ El amor de Dios se relaciona con la [[misericordia]], la [[redención]], la [[gr
 - [MI, cap. 2]
 - [RH §1, §9-10]
 - AvEsp, Dicho 2 (buscar a Dios con amor puro y sencillo); Dicho 16 (dulcísimo amor de Dios, mal conocido); Dicho 60 («a la tarde te examinarán en el amor»); Punto 35 (amor no consiste en sentir grandes cosas)
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), caps. 35-41, 43, 47

@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-11-04
+timestamp: 2026-11-26
 description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad; Giussani la presenta como capacidad del fin último."
 ---
 
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-11-04
+> Última actualización: 2026-11-26
 
 ## Definición
 
@@ -196,6 +196,54 @@ Carrón destaca que el encuentro con Cristo deja libre a la persona para acogerl
 
 > Para el desarrollo pedagógico de esta doctrina —graduación, vigilancia sin parecer vigilante, abuso de la confianza y retirada del educador—, ver [[educación_de_la_libertad]].
 
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+Sheen dedica a la libertad dos de las reflexiones de la Séptima Palabra
+(*The Rainbow of Sorrow* y *Seven Words of Jesus and Mary*). Distingue en
+primer lugar dos libertades que el lenguaje corriente confunde: «there are
+two kinds of freedom; a freedom *from* something, and a freedom *for*
+something; an external freedom from restraints, and an internal freedom of
+perfection; a freedom to choose evil and a freedom to possess the good»
+(CJC, cap. 57, L5). El hombre moderno no quiere la segunda porque implica
+responsabilidad y, por tanto, la carga de responder «What is the purpose of
+your life?»; de ahí el éxito de las teorías que la niegan —el marxismo, que
+destruye la libertad por la determinación histórica; el freudismo, que la
+disuelve en el subconsciente; el totalitarismo, que la ahoga en la totalidad—
+(cap. 57, L7).
+
+De esa distinción se sigue una definición que corrige la noción de licencia:
+«Freedom means not the right to do what we *please*, but the right to do what
+we *should* in order to attain the highest and noblest ends of our nature»
+(cap. 53, L41). El ejemplo es el aviador, que no es libre despreciando la ley
+de la gravedad sino obedeciéndola para vencerla y volar: «Liberty, then, is a
+means, not an end; not a city, but a bridge» (L43). Por eso el uso arbitrario
+de la libertad no la amplía sino que la pierde: «Boundless liberty is
+boundless tyranny», y quien se hace esclavo de sus elecciones confirma la
+sentencia del Señor: «Whosoever committeth sin is the servant of sin» (Jn
+8,34; cap. 57, L31-33).
+
+La libertad se prueba en la Cruz. Ante el desafío «Come down from the cross,
+and we will believe» (Mt 27,42), Cristo «refused to do the human thing… He
+did the divine thing, and stayed there! By so doing, He kept His soul His
+own» (cap. 53, L23). La entrega del espíritu no fue una vida que se apaga
+sino un acto: «No one was taking His life away. He was laying it down of
+Himself» (cap. 52, L39). La conclusión es la tesis más original de la fuente:
+«Freedom is ours to give away; we are free to choose our servitudes»
+(cap. 57, L45), de modo que entregarse al Amor perfecto no es perder la
+libertad sino poseerla: «to serve Him is to reign» (L47).
+
+### Según *Life Is Worth Living* (LIWL)
+
+Sheen no sistematiza la libertad, pero la trata en cuatro lugares complementarios. El primero es el **diagnóstico cultural**: la negación de la culpa personal vuelve al hombre disponible para la servidumbre. Comentando a Dostoievski —«The time will come when men will say there is no guilt, there is no sin, there is no crime; there is only hunger. Men will come crawling to the feet of a dictator and say, “Take our freedom. Give us bread”»—, concluye: «The denial of personal guilt makes men ready to surrender their liberty» (39, L55). La libertad se pierde antes por dentro que por fuera: primero se renuncia a la responsabilidad y luego se entrega el poder a quien la asuma.
+
+El segundo es su **análisis de las garantías**: la libertad necesita dos soportes, uno económico y otro espiritual. El económico es la propiedad privada —«something outside of himself which he can call his own»—; el espiritual, el alma, que hace al hombre independiente del tirano, y la religión, que se la entrega en posesión interior (41, L33; véase [[comunismo]]). Quien suprime ambos puede esclavizar sin resistencia.
+
+El tercero es la **relación entre gracia y libertad**, formulada con una imagen que resume el respeto divino: «God forces Himself on no one; He breaks down no doors» (18, L65). Dios no entró en la humanidad sin preguntar: envió un ángel a consultar a una Mujer como representante del género humano —«Will you freely give me a human nature?»— y la Encarnación se realizó por el acto libre de María (18, L65). La gracia no sustituye la libertad ni la violenta; la supone.
+
+El cuarto es la **dimensión política de la responsabilidad familiar**: cuando los padres ceden su autoridad, el Estado ocupa el vacío, y el poder estatal crece en proporción a la quiebra de la autoridad doméstica. De ahí su tesis: «Mothers, more than politicians, are the preservers of freedom and democracy» (44, L23). La libertad civil se apoya en virtudes domésticas, no solo en instituciones.
+
+[LIWL, 18_something_higher L65; 39_man_the_captain_of_his_destiny L55; 41_the_philosophy_of_communism L33; 44_women_who_do_not_fail L13]
+
 ## Relaciones doctrinales
 
 La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].
@@ -217,3 +265,4 @@ La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico),
 - [EAC-20, 03_word_from_institute.md (Petrusek), 01_from_the_desk.md (Barron), 23_soul.md (Gadberry)]
 - [PyH, Cap. 7]
 - EPL, *The Epiphany of Love* (Livio Melina, Eerdmans, 2010), índice en `raw/Bases_doctrinales-raw/The_Epiphany_of_Love/índice.md`.
+- CJC (Fulton J. Sheen, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith), caps. 52, 53 y 57

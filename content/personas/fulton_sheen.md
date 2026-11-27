@@ -2,13 +2,13 @@
 type: Persona
 title: Fulton J. Sheen
 tags: ["santos", "obispos", "comunicadores", "patronos"]
-timestamp: 2026-11-25
+timestamp: 2026-11-26
 description: "Fulton J. Sheen (1895-1979), arzobispo católico estadounidense, pionero de la evangelización a través de la radio y la televisión."
 ---
 # Fulton J. Sheen
 
 > Área: Santos / Comunicadores
-> Última actualización: 2026-11-25
+> Última actualización: 2026-11-26
 
 ## Biografía
 
@@ -67,6 +67,35 @@ La introducción añade datos biográficos que las demás fuentes no recogen con
 
 Beattie lo presenta como «the greatest preacher of the 20th century» y subraya su humildad: la anécdota del hombre que, sin reconocerlo, le dijo en la catedral que «Dr. Fulton Sheen» lo volvía loco, y la respuesta del arzobispo de que él mismo pensaba a veces lo mismo de «Dr. Sheen» (L37-39). De ahí su tesis de que una condición de la felicidad es no tomarse demasiado en serio: «The more highly we regard ourselves, the more miserable we become» (L41). El paralelo con san Juan Neumann —la depresión vencida al dejar de buscar el consuelo— cierra la semblanza con la paradoja que Sheen haría propia: «you gain control by submission» (L49-51).
 
+### Según *The Cries of Jesus from the Cross* (CJC)
+
+La semblanza editorial de la antología de Al Smith (Sophia, 2018) ordena los
+datos biográficos con precisión cronológica: nacimiento en El Paso (Illinois)
+en 1895; rechazo de una beca universitaria de tres años para seguir la
+vocación; estudios en el seminario del Colegio San Viator y en el Seminario
+de San Pablo (Minnesota); ordenación sacerdotal en 1919 para la diócesis de
+Peoria; licenciatura en teología sagrada y bachillerato en derecho canónico
+en la Universidad Católica de América, y doctorado en la Universidad Católica
+de Lovaina (cap. 59, L3). Añade un rasgo que las demás fuentes no subrayan:
+antes de enseñar, aceptó por obediencia un vicariato rural, y solo después
+el obispo le permitió enseñar en la Universidad Católica de América y en el
+Colegio San Edmundo de Ware (Inglaterra), donde conoció a G. K. Chesterton,
+cuya emisión semanal de la BBC inspiró *The Catholic Hour* (1930-1952)
+(L5).
+
+El perfil insiste en su libertad frente al éxito: preguntado por Pío XII
+cuántos conversos había hecho, respondió «Your Holiness, I have never
+counted them. I am always afraid if I did count them, I might think I made
+them, instead of the Lord» (L9); y frente a la tentación de adular al
+auditorio, sostuvo: «If you want people to stay as they are, tell them what
+they want to hear. If you want to improve them, tell them what they should
+know» (L13). Recoge también los datos de su episcopado —auxiliar de Nueva
+York (1951-1966) y obispo de Rochester (1966-1969)—, su hora santa diaria y
+el estado de la causa: abierta en 2002, declarado «Venerable» por Benedicto
+XVI en 2012 (L15-21). Es la fuente que mejor documenta su producción
+literaria —«more than ninety books»— y el puesto de *Peace of Soul* en la
+lista del *New York Times* (L13).
+
 ## Citas célebres
 
 - «La libertad no consiste en hacer lo que nos gusta, sino en tener el derecho de hacer lo que debemos.» (atribuida a JPII, citada en EAC-3)
@@ -89,3 +118,4 @@ Bishop Robert Barron considera a Sheen como su predecesor más directo en el uso
 - AMSh, *A Month With Archbishop Fulton Sheen*, John M. Wasikowski (2014), 36 archivos (`wiki/Resúmenes/A_Month_With_Archbishop_Fulton_Sheen/`)
 - IFT, *In the Fullness of Time: Christ-Centered Wisdom for the Third Millennium*, ed. Patricia A. Kossmann (Liguori, 1999), 32 archivos (`wiki/Resúmenes/In_the_Fullness_of_Time/`)
 - CAM, *Calvary and the Mass. A Missal Companion* (10 archivos; `wiki/Resúmenes/Calvary_and_the_Mass_capitulos/`)
+- CJC, *The Cries of Jesus from the Cross. A Fulton Sheen Anthology*, comp. Al Smith (Sophia, 2018), cap. 59 (60 archivos; `wiki/Resúmenes/The_Cries_of_Jesus_From_the_Cross_capitulos/`)
