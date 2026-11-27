@@ -1,33 +1,17 @@
-# TeoWiki
+# Quartz v5
 
-Wiki de teología católica construida con [Quartz v5](https://quartz.jzhao.xyz/).
+> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-## Stack
+Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
 
-- **Framework:** Quartz v5 (generador de sitio estático)
-- **Contenido:** Markdown, sincronizado desde Obsidian vía Dropbox
-- **Plugins:** content-index, search, encrypted-pages, y más
-- **Hosting:** GitHub Pages (despliegue automático via GitHub Actions)
-- **Idioma:** Español
+🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-## Comandos
+[Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-| Comando | Descripción |
-|---|---|
-| `wiki-update` | Sincroniza contenido desde Obsidian, build local, y despliega a GitHub Pages |
-| `wiki-upgrade` | Actualiza Quartz v5 desde upstream con rollback automático |
-| `npx quartz build --serve` | Sirve el sitio localmente para desarrollo |
+## Sponsors
 
-## Estructura
-
-```
-content/          → Artículos en Markdown (categorizados por carpetas)
-quartz/           → Código fuente de Quartz v5
-.quartz/plugins/  → Plugins externos (.gitignore)
-public/           → Output del build (.gitignore)
-```
-
-## Enlaces
-
-- Sitio: https://ppablo-lc.github.io/teo-wiki
-- Repo upstream: https://github.com/jackyzha0/quartz
+<p align="center">
+  <a href="https://github.com/sponsors/jackyzha0">
+    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
+  </a>
+</p>
