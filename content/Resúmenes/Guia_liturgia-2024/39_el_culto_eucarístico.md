@@ -24,6 +24,6 @@ Este archivo contiene únicamente el encabezado que abre la sección introductor
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | El culto eucarístico |
+| Nivel | Sección |
+|-------|---------|
+| H1 | El culto eucarístico |

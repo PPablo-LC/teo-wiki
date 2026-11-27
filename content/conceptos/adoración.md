@@ -76,7 +76,7 @@ En la Tischrede 102 (AED, 22, 57-65), Giussani presenta la adoración como la fo
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Giussani aproxima la adoración a la amistad: «L'amicizia è una parola che sta vicina alla parola "Ti adoro, mio Dio"». La amistad verdadera es, en este sentido, una forma de adoración: «l'amicizia vera adora l'altro, non perché ha un bel muso... ma perché è: perché è!». Adorar es reconocer y afirmar el ser del otro sin reducirlo a sus cualidades útiles o agradables —el mismo movimiento gratuito con que se ama al niño «non perché è tuo, ma perché c'è»—, allí donde el otro participa del Misterio del Ser (TACDC, 04, L119-123).
+Giussani aproxima la adoración a la amistad: «L'amicizia è una parola che sta vicina alla parola "Ti adoro, mio Dio"». La amistad verdadera es, en este sentido, una forma de adoración: «l'amicizia vera adora l'altro, non perché ha un bel muso... ma perché è: perché è!». Adorar es reconocer y afirmar el ser del otro sin reducirlo a sus cualidades útiles o agradables —el mismo movimiento gratuito con que se ama al niño «non perché è tuo, ma perché c'è»—, allí donde el otro participa del Misterio del Ser (TACDC, 04).
 
 ## Distinciones importantes
 

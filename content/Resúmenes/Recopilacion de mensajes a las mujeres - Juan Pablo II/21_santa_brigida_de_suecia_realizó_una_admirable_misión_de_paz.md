@@ -34,8 +34,8 @@ Nuestro pensamiento va ahora a [[maría]], modelo de Brígida y de todos los san
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Santa Brigida de Suecia realizó una admirable misión de paz |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Santa Brigida de Suecia realizó una admirable misión de paz |
 
 ## Secciones incluidas

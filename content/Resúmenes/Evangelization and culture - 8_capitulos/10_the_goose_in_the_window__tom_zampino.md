@@ -22,9 +22,9 @@ Columna poética breve: «Los vecinos peculiares dejan los mejores recuerdos». 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Goose in the Window — Tom Zampino |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Goose in the Window — Tom Zampino |
 
 ## Secciones incluidas
 

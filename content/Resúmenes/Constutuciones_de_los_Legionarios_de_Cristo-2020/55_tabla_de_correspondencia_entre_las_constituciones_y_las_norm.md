@@ -27,6 +27,6 @@ La tabla permite localizar, para cada número de las *Constituciones* de 2020, l
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | **Tabla de correspondencia entre las** Constituciones **y las** Normas |
+| Nivel | Sección |
+|-------|---------|
+| H3 | **Tabla de correspondencia entre las** Constituciones **y las** Normas |

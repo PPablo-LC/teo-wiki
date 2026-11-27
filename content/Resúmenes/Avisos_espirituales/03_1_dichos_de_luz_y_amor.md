@@ -90,7 +90,7 @@ El autor declara que, careciendo de la obra y virtud que sus dichos enseñan, lo
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | 1. Dichos de luz y amor |
-| 8 | H3 | PRÓLOGO |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 1. Dichos de luz y amor |
+| H3 | PRÓLOGO |

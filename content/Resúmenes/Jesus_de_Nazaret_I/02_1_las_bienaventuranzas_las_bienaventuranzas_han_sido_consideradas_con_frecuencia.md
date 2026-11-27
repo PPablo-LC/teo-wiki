@@ -35,6 +35,6 @@ Contra la crítica de Nietzsche («religión del resentimiento»), responde que 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. LAS BIENAVENTURANZAS Las Bienaventuranzas han sido consideradas con |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. LAS BIENAVENTURANZAS Las Bienaventuranzas han sido consideradas con |

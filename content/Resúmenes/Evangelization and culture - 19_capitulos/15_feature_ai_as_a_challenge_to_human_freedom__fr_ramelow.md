@@ -79,11 +79,11 @@ Cierra el artículo la sentencia: «La inteligencia debe servir a nuestro mejor 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Artificial Intelligence as a Challenge to Human Freedom — Fr. Anselm Ramelow, OP |
-| 5 | H2 | How free are our choices? (texto sin marcado) |
-| 13 | H2 | Los jesuitas españoles; sentido colectivo vs. distributivo (texto sin marcado) |
-| 15 | H2 | Santo Tomás: la imposibilidad de evitar todo pecado venial (texto sin marcado) |
-| 21 | H2 | El paso reflexivo atrás (veto right) (texto sin marcado) |
-| 31 | H2 | Dos sugerencias: la virtud y la responsabilidad sistémica (texto sin marcado) |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Artificial Intelligence as a Challenge to Human Freedom — Fr. Anselm Ramelow, OP |
+| H2 | How free are our choices? (texto sin marcado) |
+| H2 | Los jesuitas españoles; sentido colectivo vs. distributivo (texto sin marcado) |
+| H2 | Santo Tomás: la imposibilidad de evitar todo pecado venial (texto sin marcado) |
+| H2 | El paso reflexivo atrás (veto right) (texto sin marcado) |
+| H2 | Dos sugerencias: la virtud y la responsabilidad sistémica (texto sin marcado) |

@@ -16,11 +16,11 @@ La «cátedra de Moisés» es la expresión con que Mateo 23,2-3 designa la auto
 
 ## Desarrollo doctrinal
 
-En el apéndice V, uno de los interlocutores objeta que si el [[fariseísmo]] entrara a reinar en la Iglesia quedaría destruida la promesa de asistencia perenne y la conducción del Paráclito. El rabino responde recordando que «las mismas promesas o parecidas fueron hechas a la Sinagoga por los profetas; y justamente en el punto en que esas promesas estaban por fallar, envió Dios a su Hijo para mantenerlas» (CyF, apéndice V L27). Y añade la frase decisiva: «Pues la doctrina no faltó nunca; faltó el ejemplo.»
+En el apéndice V, uno de los interlocutores objeta que si el [[fariseísmo]] entrara a reinar en la Iglesia quedaría destruida la promesa de asistencia perenne y la conducción del Paráclito. El rabino responde recordando que «las mismas promesas o parecidas fueron hechas a la Sinagoga por los profetas; y justamente en el punto en que esas promesas estaban por fallar, envió Dios a su Hijo para mantenerlas» (CyF, apéndice V). Y añade la frase decisiva: «Pues la doctrina no faltó nunca; faltó el ejemplo.»
 
 La cátedra, por tanto, no santifica al que la ocupa ni lo desautoriza por sus obras: obliga a distinguir **oficio** y **vida**. Castellani aplica la misma distinción a la autoridad religiosa en general: «Trabajad para la Ley de Dios, porque es de Dios, en cuanto es de Dios y hasta donde es de Dios; y nada más. No trabajéis para las excrecencias que el hombre introduce siempre en toda Ley» (CyF, cap. II). El [[falso_pastor]] se reconoce precisamente por identificar la cátedra con su persona y la Iglesia con su partido.
 
-La advertencia va acompañada de un límite: Mungué replica que predicar eso haría perder la confianza en la jerarquía, y Fulgencio califica la sospecha de herejía protestante, «el error de la Iglesia invisible». El propio autor mantiene la tensión sin resolverla en una tesis eclesiológica: «Yo no lo predico: solamente lo temo» (CyF, apéndice V L31).
+La advertencia va acompañada de un límite: Mungué replica que predicar eso haría perder la confianza en la jerarquía, y Fulgencio califica la sospecha de herejía protestante, «el error de la Iglesia invisible». El propio autor mantiene la tensión sin resolverla en una tesis eclesiológica: «Yo no lo predico: solamente lo temo» (CyF, apéndice V).
 
 ## Perspectivas por fuente
 
@@ -49,5 +49,5 @@ Se relaciona con [[fariseísmo]], [[falso_pastor]], [[autoridad_religiosa]], [[i
 
 ## Referencias
 
-- CyF, `19_apendice_v_el_retiro_de_la_iglesia.md` L13-39; `17_apendice_iii_sobre_tres_modos_catolicos_de_ver_la.md`; `04_ii_el_dulce_nazareno.md` L49-57.
+- CyF, `19_apendice_v_el_retiro_de_la_iglesia.md`; `17_apendice_iii_sobre_tres_modos_catolicos_de_ver_la.md`; `04_ii_el_dulce_nazareno.md`.
 - Mt 23,2-3; CEC 811-827, 892, 2034-2035; LG 8, 12.

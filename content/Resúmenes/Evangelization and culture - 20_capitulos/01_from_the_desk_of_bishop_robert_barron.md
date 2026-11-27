@@ -33,6 +33,6 @@ El número se centra en las lecciones de ver, jugar y entrenar deportes (béisbo
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | From the Desk of Bishop Robert Barron |
+| Nivel | Sección |
+|-------|---------|
+| H1 | From the Desk of Bishop Robert Barron |

@@ -74,7 +74,7 @@ La Propuesta A se titula *Lectura Orante · Compromisos de Vida Cristiana · Dis
 
 ## Secciones incluidas
 
-- Propuesta A — título y subtítulo (líneas 40–44)
-- Bloque 1: Fundamento del documento y contenido (líneas 65–75)
-- Bloque 2: Fundamento del documento y contenido (líneas 77–87)
-- Bloque 3: Fundamento del documento y contenido (líneas 89–99)
+- Propuesta A — título y subtítulo
+- Bloque 1: Fundamento del documento y contenido
+- Bloque 2: Fundamento del documento y contenido
+- Bloque 3: Fundamento del documento y contenido

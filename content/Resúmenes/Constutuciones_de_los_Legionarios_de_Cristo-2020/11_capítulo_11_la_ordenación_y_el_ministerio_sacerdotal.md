@@ -69,17 +69,17 @@ El capítulo se abre con el principio bíblico del sacerdocio (*Hb* 5,1): todo s
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 11. La ordenación y el ministerio sacerdotal |
-| 5 | H4 | Art. 1. La ordenación sacerdotal |
-| 7 | H5 | Preparación para las órdenes sagradas |
-| 11 | H5 | Admisión a los ministerios |
-| 19 | H5 | Admisión a las órdenes sagradas |
-| 29 | H4 | Art. 2. El ministerio sacerdotal y la formación permanente |
-| 31 | H5 | Período del ministerio |
-| 49 | H5 | Formación permanente |
-| 57 | H4 | Art. 3. La renovación espiritual |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Capítulo 11. La ordenación y el ministerio sacerdotal |
+| H4 | Art. 1. La ordenación sacerdotal |
+| H5 | Preparación para las órdenes sagradas |
+| H5 | Admisión a los ministerios |
+| H5 | Admisión a las órdenes sagradas |
+| H4 | Art. 2. El ministerio sacerdotal y la formación permanente |
+| H5 | Período del ministerio |
+| H5 | Formación permanente |
+| H4 | Art. 3. La renovación espiritual |
 
 ## Secciones incluidas
 

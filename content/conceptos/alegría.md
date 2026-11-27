@@ -51,7 +51,7 @@ El número 14 de *Evangelization & Culture* está íntegramente dedicado a la al
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Giussani contrapone la alegría al léxico del mundo: la «gioia» «è una parola sovrumana: la parola "gioia" non esiste nel vocabolario, nel lessico dell'uomo» que vive sin referencia a Dios. El verdadero gozo brota del «rapporto generativo, reale, concreto, oggettivo, non deciso da me»; así lo testimonia don Paolo Pezzi desde Novosibirsk, describiendo como centro de la propia humanidad «lo scopo... la gloria di Cristo», más verdadero «della meschinità dei miei tradimenti». La alegría pertenece a la esperanza: «letizia e gioia sono solo nella speranza», y se funda en «la presenza di Cristo, resa nota dalla memoria, che ci rende certi del futuro» (TACDC, 04, L35-39).
+Giussani contrapone la alegría al léxico del mundo: la «gioia» «è una parola sovrumana: la parola "gioia" non esiste nel vocabolario, nel lessico dell'uomo» que vive sin referencia a Dios. El verdadero gozo brota del «rapporto generativo, reale, concreto, oggettivo, non deciso da me»; así lo testimonia don Paolo Pezzi desde Novosibirsk, describiendo como centro de la propia humanidad «lo scopo... la gloria di Cristo», más verdadero «della meschinità dei miei tradimenti». La alegría pertenece a la esperanza: «letizia e gioia sono solo nella speranza», y se funda en «la presenza di Cristo, resa nota dalla memoria, che ci rende certi del futuro» (TACDC, 04).
 
 ## Distinciones importantes
 

@@ -172,23 +172,23 @@ Cierra el capítulo con los versos de **Julius Reviczky** de *Expiation*, que tr
 
 ## Mapa del archivo fuente
 
-| Archivo | Línea | Nivel | Sección |
-|---------|-------|-------|---------|
-| 05_capitulo_iv.md | 1 | H1 | Chapter IV — In the Depths of Corruption |
-| 05_capitulo_iv.md | 9 | H2 | AN OAK TREE SPLIT IN TWAIN |
-| 05_capitulo_iv.md | 21 | H2 | "JUST ONCE"? |
-| 05_capitulo_iv.md | 35 | H2 | THE FIRST FALSE STEP |
-| 05_capitulo_iv.md | 55 | H2 | DESCENSUS AVERNI |
-| 05_capitulo_iv.md | 105 | H2 | ENLIGHTENED STUDENTS |
-| 05_capitulo_iv.md | 171 | H2 | WHY "THERE IS NO GOD"? |
-| 05_capitulo_iv.md | 229 | H2 | IS IT JOY? IS IT HAPPINESS? |
-| 05_capitulo_iv.md | 245 | H2 | A TREE IN WHICH WORMS ARE GNAWING |
-| 05_capitulo_iv.md | 293 | H2 | PHYSICAL PUNISHMENT |
-| 05_capitulo_iv.md | 327 | H2 | ROTTING ALIVE |
-| 05_capitulo_iv.md | 397 | H2 | TERRIBLE RESPONSIBILITY |
-| 05_capitulo_iv.md | 403 | H2 | YOUR POOR CHILDREN |
-| 05_capitulo_iv.md | 419 | H2 | SHATTERED HOPES |
-| 05_capitulo_iv.md | 511 | H2 | STUDENT SUICIDES |
+| Archivo | Nivel | Sección |
+|---------|-------|---------|
+| 05_capitulo_iv.md | H1 | Chapter IV — In the Depths of Corruption |
+| 05_capitulo_iv.md | H2 | AN OAK TREE SPLIT IN TWAIN |
+| 05_capitulo_iv.md | H2 | "JUST ONCE"? |
+| 05_capitulo_iv.md | H2 | THE FIRST FALSE STEP |
+| 05_capitulo_iv.md | H2 | DESCENSUS AVERNI |
+| 05_capitulo_iv.md | H2 | ENLIGHTENED STUDENTS |
+| 05_capitulo_iv.md | H2 | WHY "THERE IS NO GOD"? |
+| 05_capitulo_iv.md | H2 | IS IT JOY? IS IT HAPPINESS? |
+| 05_capitulo_iv.md | H2 | A TREE IN WHICH WORMS ARE GNAWING |
+| 05_capitulo_iv.md | H2 | PHYSICAL PUNISHMENT |
+| 05_capitulo_iv.md | H2 | ROTTING ALIVE |
+| 05_capitulo_iv.md | H2 | TERRIBLE RESPONSIBILITY |
+| 05_capitulo_iv.md | H2 | YOUR POOR CHILDREN |
+| 05_capitulo_iv.md | H2 | SHATTERED HOPES |
+| 05_capitulo_iv.md | H2 | STUDENT SUICIDES |
 
 > **Nota de revisión (2026-10-02):** completado a partir de la edición
 > íntegra (`raw/Bases_doctrinales-raw/youth_and_chastity/`). La copia parcial

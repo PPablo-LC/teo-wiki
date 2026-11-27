@@ -48,4 +48,4 @@ Poema que entrega "gentil shock" aún hoy. Viene de vida desordenada cotidiana. 
 
 ## Referencia original
 
-📄 Fuente original: `15_feature_toys.md` (línea 1–51)
+📄 Fuente original: `15_feature_toys.md`

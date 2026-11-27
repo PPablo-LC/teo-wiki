@@ -28,6 +28,6 @@ La fe en el retorno es segundo pilar: no escudriñar tiempos, sino testimoniar h
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 3. RESUMEN: LA NATURALEZA DE LA RESURRECCIÓN |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 3. RESUMEN: LA NATURALEZA DE LA RESURRECCIÓN |

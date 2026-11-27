@@ -25,5 +25,5 @@ la religión como búsqueda y la relación entre los modernos y la sed de Dios.
 ## Fuente original
 
 - Raw: `raw/Bases_doctrinales-raw/The_Cries_of_Jesus_From_the_Cross_capitulos/34_fifth_word.md`
-- Líneas: L3
-- Cita verificada: `"I thirst."` (L3)
+- Citas verificadas en el capítulo:
+  - `"I thirst."`

@@ -31,6 +31,6 @@ Finalmente, se recuerda que la fecundidad de la misión y la profundidad de la c
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 2) El camino hacia el futuro |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 2) El camino hacia el futuro |

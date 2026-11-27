@@ -41,6 +41,6 @@ Se entregarán a hacer presente el misterio de Cristo para que las personas se e
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Saludo al Santo Padre Francisco transmitido por parte de los directore |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Saludo al Santo Padre Francisco transmitido por parte de los directore |

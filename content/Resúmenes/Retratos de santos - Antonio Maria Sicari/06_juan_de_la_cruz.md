@@ -12,19 +12,19 @@ tags: ["resumen", "mística", "noche_oscura", "misterio_pascual", "esponsalidad"
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[esponsalidad]] — toda la historia sagrada está envuelta por un simbolismo esponsal, «más real que la realidad misma», hasta el punto de que el amor entre el hombre y la mujer se vuelve sacramento (L13-15).
-- [[cantar_de_los_cantares]] — libro único, «puesto allí como un corazón», por el que se explican y vivifican todos los demás; Dios pidió a Juan de la Cruz componer una verdadera repetición y prolongación de este poema (L21-27).
-- [[noche_oscura]] — la noche verdadera y terrible de la cárcel, con las falsas noticias que hacen creer que todo está perdido, se convierte en «la condición irreductible» para encaminarse a la revelación de Dios (L116-118).
-- [[misterio_pascual]] — lo que no se ha comprendido bastante en la obra de Juan es que su mística no es un «sistema», sino la experiencia del calvario (la cárcel) del que renace la Palabra, como vivificante poesía inspirada, como palabra resucitada (L188).
-- [[unión_con_dios]] — la misteriosa unión de la Nada y del Todo: el amor ya no es un camino ni una búsqueda ansiosa, sino una posesión total y ardiente en la que el Espíritu Santo y el alma se convierten en una llama única (L265-269).
-- [[iglesia_esposa]] — la Iglesia, «nacida de su costado herido en la cruz y destinada a adherirse a Él de una forma cada vez más esponsal», que en los monasterios contemplativos conserva su imagen viva y adorante (L11, L160).
-- [[contemplación]] — el «quedar a solas de todas las cosas criadas» y el «torrente de la contemplación», en el que Juan pasa largas horas absorto ante el sagrario (L65-67, L118).
-- [[trinidad]] y [[eucaristía]] — los dos grandes misterios que la noche-luminosidad-saciedad hace llegar al hombre: la Trinidad, «flujo que envuelve toda la vida», y la Eucaristía (L122).
-- [[espíritu_santo]] — el fuego que ilumina «mejor que la luz en pleno día» en el corazón del prisionero, y la causa de las estrofas del *Cántico espiritual* (L124, L144).
-- [[mortificación]] — el medio elegido al concretar la vocación carmelita: «concentrarse en Dios, en la oración y en la mortificación» (L63).
-- [[dirección_espiritual]] — la vocación más profundamente encarnada de Juan: ayudar a convertirse y a amar a Dios con todo el corazón a quien se dirigía a él (L7).
+- [[esponsalidad]] — toda la historia sagrada está envuelta por un simbolismo esponsal, «más real que la realidad misma», hasta el punto de que el amor entre el hombre y la mujer se vuelve sacramento.
+- [[cantar_de_los_cantares]] — libro único, «puesto allí como un corazón», por el que se explican y vivifican todos los demás; Dios pidió a Juan de la Cruz componer una verdadera repetición y prolongación de este poema.
+- [[noche_oscura]] — la noche verdadera y terrible de la cárcel, con las falsas noticias que hacen creer que todo está perdido, se convierte en «la condición irreductible» para encaminarse a la revelación de Dios.
+- [[misterio_pascual]] — lo que no se ha comprendido bastante en la obra de Juan es que su mística no es un «sistema», sino la experiencia del calvario (la cárcel) del que renace la Palabra, como vivificante poesía inspirada, como palabra resucitada.
+- [[unión_con_dios]] — la misteriosa unión de la Nada y del Todo: el amor ya no es un camino ni una búsqueda ansiosa, sino una posesión total y ardiente en la que el Espíritu Santo y el alma se convierten en una llama única.
+- [[iglesia_esposa]] — la Iglesia, «nacida de su costado herido en la cruz y destinada a adherirse a Él de una forma cada vez más esponsal», que en los monasterios contemplativos conserva su imagen viva y adorante.
+- [[contemplación]] — el «quedar a solas de todas las cosas criadas» y el «torrente de la contemplación», en el que Juan pasa largas horas absorto ante el sagrario.
+- [[trinidad]] y [[eucaristía]] — los dos grandes misterios que la noche-luminosidad-saciedad hace llegar al hombre: la Trinidad, «flujo que envuelve toda la vida», y la Eucaristía.
+- [[espíritu_santo]] — el fuego que ilumina «mejor que la luz en pleno día» en el corazón del prisionero, y la causa de las estrofas del *Cántico espiritual*.
+- [[mortificación]] — el medio elegido al concretar la vocación carmelita: «concentrarse en Dios, en la oración y en la mortificación».
+- [[dirección_espiritual]] — la vocación más profundamente encarnada de Juan: ayudar a convertirse y a amar a Dios con todo el corazón a quien se dirigía a él.
 
-## 1. Una respuesta a los hombres desconcertados del siglo XVI (L3-7)
+## 1. Una respuesta a los hombres desconcertados del siglo XVI
 
 En 1542, cuatro años antes de la muerte de Lutero y tres años antes de que comience el Concilio de Trento, en Fontiveros, un pueblo de Castilla, nace Juan de Yepes, que encarnará con su vida y con su mensaje la respuesta —no la única, pero desde luego una de las más profundas y radicales— que Dios dará a los hombres desconcertados de aquella segunda mitad del siglo XVI. Se le llamará el «doctor místico», y nos dejará la poesía de amor más elevada de la literatura española.
 
@@ -34,7 +34,7 @@ Todos estos temas, sin embargo, conmovieron, hasta hacer llorar, a Teresa de Jes
 
 Juan de Yepes, que después se hará llamar «de la Cruz», parece vivir «en otro lugar»: está bien encarnado en la vida cotidiana, sobre todo en la de la gente pobre (le gustaba trabajar como peón junto a los albañiles que construían y reparaban los pequeños conventos en los que residía); está bien encarnado en la vida de su orden religiosa, de la que fue casi siempre superior y educador; sobre todo está bien encarnado en la dirección espiritual de quien se dirigía a él para que le ayudase a convertirse y a amar a Dios con todo el corazón. Sin embargo, está en otro lugar respecto a las graves cuestiones en las que esperaríamos verlo como protagonista.
 
-## 2. La clave de lectura: la Biblia y el Cantar de los Cantares (L9-27)
+## 2. La clave de lectura: la Biblia y el Cantar de los Cantares
 
 Todo cristiano sabe que la Biblia contiene el relato de la historia de la salvación. Es decir, la historia del gran amor con el que Dios ha creado al hombre a su imagen; la historia del amor misericordioso con el que Dios se ha inclinado después sobre su criatura pecadora restableciendo con ella una alianza (primero lo hizo con algunos amigos: Abraham, los patriarcas, Moisés; después, con un pueblo entero); la historia de la venida del mismísimo Hijo de Dios como Esposo de toda la humanidad, que debe convertirse progresivamente en su Iglesia, nacida de su costado herido en la cruz y destinada a adherirse a Él de una forma cada vez más esponsal.
 
@@ -44,7 +44,7 @@ Pero si uno toma en sus manos este libro y lo lee atentamente, ¿qué es lo que 
 
 Algo similar —mucho más «similar» de lo que a simple vista nos parece— es lo que Dios pidió a Juan de la Cruz en aquel momento crucial, verdaderamente «único» en la historia de la Iglesia: le pidió componer una verdadera repetición y prolongación del Cantar de los Cantares; pero para obtener esta «actualización bíblica», Dios le hizo revivir aquel poema, en su particularísima vida humana que fue, también, una historia de amor, similar por imitación y participación a la de Jesús crucificado.
 
-## 3. «Materna»: la familia que se hace pobre por amor (L31-59)
+## 3. «Materna»: la familia que se hace pobre por amor
 
 Normalmente sus biografías no subrayan bastante el «signo» que supuso el nacimiento de este gran místico.
 
@@ -64,7 +64,7 @@ Francisco, el mayor, crece y comienza a echar una mano; el segundo hermano, Luis
 
 Debemos intentar comprender aquella atmósfera desconcertante en la que el pequeño Juan aprende a respirar: una atmósfera impregnada de amor y de sufrimiento, de riqueza interior y de pobreza exterior. Pero no se trata de un amor que a duras penas se conforma con el sufrimiento y con la pobreza, sino de un amor rico (como el del padre) que se ha hecho pobre por amor y que a la vez se ha enriquecido (gracias a la pobreza y al amor de la madre) hasta generar el corazón de los hijos, para los que riqueza y pobreza, amor y sufrimiento, no lograrán ya desligarse del misterioso nudo que los une. Esto vale también para Francisco, el hermano mayor que Juan amará siempre «más que a nadie en el mundo», y que llegará también a ser santo (aunque menos célebre) y que morirá muy viejo, a los setenta y siete años, lleno de virtud y de milagros.
 
-## 4. El «Cantar» en la lengua materna y la vocación carmelita (L61-69)
+## 4. El «Cantar» en la lengua materna y la vocación carmelita
 
 Un gran crítico literario, Dámaso Alonso, comentando la poesía de Juan de la Cruz, se pregunta cómo es posible que su lenguaje y su sensibilidad sean tan intensos sin que haya estado por lo menos sorprendido, alguna vez en su juventud, «por los bonitos ojos de una chica». Y esto serviría para añadir también cierto realismo afectivo y «terrenal» a su visión mística. Pero tal vez el crítico ha olvidado que, en la historia de Juan de la Cruz, la fascinación de dos ojos que enamoran y que lo exigen todo, era precisamente la historia en la que su misma familia había nacido; algo del Cantar de los Cantares habían experimentado sus padres en la juventud y pertenecía, por decirlo así, a su «lengua materna».
 
@@ -74,7 +74,7 @@ Lo que encontrará más eco en su vida es la indicación que aparece en un texto
 
 En los años sucesivos, nos encontramos a Juan convertido en religioso y estudiante de filosofía y de teología en la espléndida Universidad de Salamanca. El estudio fascina a su inteligencia aguda y argumentativa, mientras la oración y la ascesis le purifican interior y físicamente; ha elegido una celda pequeña y oscura, sólo porque tiene una ventana que da al presbiterio de la iglesia, y allí pasa largas horas absorto en la contemplación del sagrario. Sin embargo, la vida universitaria, excesivamente ruidosa, no se concilia bien con las experiencias de amor y de cruz, en las que Dios le ha hecho nacer y a las que ya no podrá renunciar jamás.
 
-## 5. El encuentro con Teresa y el nacimiento de Duruelo (L71-91)
+## 5. El encuentro con Teresa y el nacimiento de Duruelo
 
 Poco antes de su ordenación, casi ha decidido que su vocación tiende hacia la total clausura contemplativa de la vida de cartujo y está a punto de cambiar de orden, pero justo entonces encuentra a Teresa de Ávila. Estamos en 1567.
 
@@ -90,7 +90,7 @@ El padre Juan ha plantado sobre el terreno abrupto una gran cruz que puede ser v
 
 Para Juan se ha reconstruido —esta vez por libre elección y decisión— el ambiente de su infancia, donde el amor sigue abrazándose con el sufrimiento y la pobreza que libremente ha aceptado. Hay una sintonía tal entre las dos experiencias que, durante un tiempo, Juan llama a sus familiares a convivir con ellos: su madre, Catalina, prepara la pobre comida, su hermano Francisco hace las habitaciones y su mujer Ana lava la ropa. Fue realmente el nacimiento del Carmelo que santa Teresa había imaginado y deseado.
 
-## 6. La ordenación, el arresto y la cárcel de Toledo (L91-110)
+## 6. La ordenación, el arresto y la cárcel de Toledo
 
 No podemos seguir aquí todo el desarrollo de esta historia, que pronto se hará compleja y dolorosa: entonces los frailes que querían «reformarse» encontraban a menudo el rencor y la resistencia de quienes sostenían que no había necesidad alguna de reforma, y los reformados, por su parte, no tenían suficiente paciencia. Llegamos ya al corazón de nuestra historia.
 
@@ -108,7 +108,7 @@ Santa Teresa, angustiada, escribe estas palabras al rey Felipe II:
 
 > «Los calzados (es decir, los carmelitas no reformados) ni parece que tengan justicia ni a Dios. A mí me tiene muy lastimada verlos (a los frailes descalzos) en sus manos y tuviera por mejor que estuvieran entre moros, porque quizá tuvieran más piedad».
 
-## 7. En lo profundo del abismo, el Cántico espiritual (L110-158)
+## 7. En lo profundo del abismo, el Cántico espiritual
 
 Pero mientras tanto sucede el milagro, la configuración de la vocación personalísima de Juan de la Cruz: la decisión con la que Dios confía en sus manos, para la Iglesia de su época, un comentario vivo del Cantar de los Cantares.
 
@@ -140,7 +140,7 @@ He aquí solamente algunos versos:
 
 Es el canto del alma enamorada que literalmente continúa y actualiza en forma neotestamentaria y eclesial el Cantar de los Cantares, renovando también los numerosísimos comentarios que los Padres de la Iglesia dedicaron a este libro espléndido y misterioso.
 
-## 8. La fuga, las monjas de Toledo y «¡Oh, qué preciosas margaritas!» (L160-180)
+## 8. La fuga, las monjas de Toledo y «¡Oh, qué preciosas margaritas!»
 
 Después de nueve meses, la noche de la vigilia de la Asunción, logró huir de la cárcel. Arriesgándose a morir destrozado en las orillas rocosas del Tajo, Juan se refugió en el monasterio de las carmelitas de Toledo (en los monasterios contemplativos, la Iglesia conserva la imagen viva y adorante de su ser Esposa de Cristo), y más tarde en el de Beas.
 
@@ -154,7 +154,7 @@ Y cuentan las monjas que «fue tan grande su dolor que comenzaron a brotarle lá
 
 Muchos años después, cuando la misma priora le haga recordar el tiempo pasado en la cárcel, Juan, moviendo dulcemente la cabeza, dirá: «Ana, hija mía, una sola de las gracias que Dios me hizo en aquel lugar no puede ser pagada con una carcelilla aunque fuese durante muchos años». Y ese diminutivo indica que la pequeñez sofocante de la cárcel se había transformado, en su conciencia y en su recuerdo, en una experiencia muy pequeña respecto a la grandeza del milagro que le había sucedido.
 
-## 9. La cruz y la resurrección: el alma blanda, mansa, humilde y paciente (L182-198)
+## 9. La cruz y la resurrección: el alma blanda, mansa, humilde y paciente
 
 Después de la cárcel de Toledo le quedan sólo catorce años de vida; los pasará en su totalidad como superior de muchos conventos, siendo generalmente amado y estimado, aunque siempre le mantuvieron un poco en segundo plano. Le buscaban sobre todo los que le pedían que les guiase en el camino hacia Dios.
 
@@ -166,7 +166,7 @@ Juan de la Cruz destaca sobre todo por haber unido dos vértices aparentemente c
 
 Mientras tanto, Juan continúa atrayendo alrededor suyo almas a las que hace gustar y revivir su misma experiencia, que forma parte esencial de la [[iglesia_esposa]]. Los monasterios fundados por Teresa tendieron de forma natural a acoger y a desear como guía a Juan de la Cruz, y por ellos él acepta manifestar, por decirlo así, la extraordinaria y extraña experiencia de la que nace su magisterio espiritual.
 
-## 10. Intentar explicar lo inexplicable (L200-235)
+## 10. Intentar explicar lo inexplicable
 
 Porque se lo piden las personas que él más amaba, hará el esfuerzo, durante el resto de su vida, de retomar su «palabra poética» y de intentar dar una explicación, hacer un comentario, utilizando todo lo que sabe, toda la teología que ha estudiado, todos los análisis teológicos, filosóficos y psicológicos de los que es capaz. Y así acepta —por amor a la Esposa de Cristo— desmenuzar pobremente, en conceptos y principios y consecuencias, su misma poesía intacta.
 
@@ -194,7 +194,7 @@ Se puede tal vez aplicar a esta situación vivida por Juan lo que él dice del P
 
 Del mismo modo, por una débil analogía, Juan intuye que, después de haber pronunciado las palabras de Amor, no haría falta ni pedir ni añadir nada más.
 
-## 11. La persecución de sus propios hermanos: «adonde no hay amor, ponga amor» (L237-261)
+## 11. La persecución de sus propios hermanos: «adonde no hay amor, ponga amor»
 
 Nosotros, llegados a este punto, pensaríamos que un hombre ha llegado al culmen de su experiencia espiritual, pero la Biblia nos enseña que ningún hombre, mientras vive, puede decir que ha asimilado completamente el misterio de la cruz y de la resurrección: «Estoy completando en mi carne —decía san Pablo— lo que resta que padecer a Cristo».
 
@@ -208,7 +208,7 @@ Son las únicas reflexiones que se permite hacer sobre la terrible injusticia de
 
 Un día, uno de los religiosos que más quiere le dice con lágrimas en los ojos: «Padre mío, ¡cómo le persigue el padre Diego Evangelista!». Juan mira a su joven hermano al que tantas veces ha enseñado la obediencia de la fe y le dice: «¡Estas palabras me duelen más que toda esa persecución!». A una hermana que también le escribe le aconseja: «No piense otra cosa, sino que todo lo ordena Dios. Y adonde no hay amor, ponga amor y sacará amor». Y en una pequeña obra suya titulada *Cautelas* había enseñado: «Jamás mires al prelado con menos ojos que a Dios, sea el prelado que fuere, pues le tienes en su lugar».
 
-## 12. La última obra, la enfermedad y la muerte (L263-311)
+## 12. La última obra, la enfermedad y la muerte
 
 Mientras tanto, hacía ya algunos años, Juan de la Cruz tiene entre sus manos su última obra, la *Llama de amor viva*, a la que da sus últimos retoques, justo en sus últimos meses de vida.
 
@@ -232,7 +232,7 @@ Comenzaron a rezarle la recomendación del alma, pero Juan «pidió que cesasen 
 
 A medianoche suena la campana que toca a maitines y, apenas la escucha, el enfermo exclama con alegría: «Gloria a mi Dios, tengo de ir esta noche a cantar maitines al cielo». Después miró fijamente a los presentes como para despedirlos, besó el crucifijo y dijo en latín: «Señor, a tus manos encomiendo mi espíritu». Así murió, y los presentes contaron que una luz dulce y un intenso perfume entró en la habitación. No era una fantasía, puesto que ya cuando, catorce años antes, su cuerpo se consumía en la cárcel de Toledo, su celda se había llenado de luces, perfumes e imágenes.
 
-## 13. Conclusión: la carne hecha Verbo (L307-318)
+## 13. Conclusión: la carne hecha Verbo
 
 Juan de la Cruz había cumplido ya su misión. Gracias a una particular gracia de Dios, de una forma única en la historia de la Iglesia, Juan había dado su existencia, su experiencia, su «carne» al Verbo de Dios, para que pudiese resonar nuevamente como Palabra de Amor, también en su forma poética. Y la carne se hizo Verbo, como respuesta llena de amor al Verbo que se hizo carne.
 
@@ -243,6 +243,6 @@ Para concluir volvamos a leer, para convertir nuestro corazón, uno de los texto
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Juan de la Cruz |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Juan de la Cruz |

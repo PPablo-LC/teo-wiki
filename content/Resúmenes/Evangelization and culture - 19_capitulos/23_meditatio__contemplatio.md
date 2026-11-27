@@ -45,6 +45,6 @@ El texto invita a unirse a la discusión en el sitio web del Word on Fire Instit
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Meditatio & Contemplatio |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Meditatio & Contemplatio |

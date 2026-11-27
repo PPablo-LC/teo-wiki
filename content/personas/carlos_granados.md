@@ -51,7 +51,6 @@ que el Espíritu genera en la vida de los sacerdotes de hoy.
 
 ## Referencias
 
-- **Fuente**: [[priests_what_lies_ahead]] (PWL), `01_preface.md`
-  (líneas 1-29).
+- **Fuente**: [[priests_what_lies_ahead]] (PWL), `01_preface.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

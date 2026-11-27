@@ -63,15 +63,15 @@ Al final del Capítulo, el Delegado Pontificio invitó a unirse a María para da
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 3 | H1 | PRESENTACIÓN DE LOS COMUNICADOS CAPITULARES |
-| 19 | H3 | a) Identidad carismática de la Legión de Cristo |
-| 21 | H3 | b) La Legión de Cristo en el Regnum Christi |
-| 23 | H3 | c) La vida fraterna en comunidad |
-| 25 | H3 | d) La vida litúrgica y de oración |
-| 27 | H3 | e) La formación del legionario y la Ratio institutionis |
-| 29 | H3 | f) Nuestra renovación apostólica |
-| 31 | H3 | g) Gobierno, autoridad y obediencia |
-| 33 | H3 | h) Administración y voto de pobreza |
-| 35 | H3 | i) Anexos: |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PRESENTACIÓN DE LOS COMUNICADOS CAPITULARES |
+| H3 | a) Identidad carismática de la Legión de Cristo |
+| H3 | b) La Legión de Cristo en el Regnum Christi |
+| H3 | c) La vida fraterna en comunidad |
+| H3 | d) La vida litúrgica y de oración |
+| H3 | e) La formación del legionario y la Ratio institutionis |
+| H3 | f) Nuestra renovación apostólica |
+| H3 | g) Gobierno, autoridad y obediencia |
+| H3 | h) Administración y voto de pobreza |
+| H3 | i) Anexos: |

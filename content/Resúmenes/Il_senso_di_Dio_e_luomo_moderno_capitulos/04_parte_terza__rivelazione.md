@@ -39,9 +39,9 @@ Con este hecho, el sentido religioso se encuentra con su Objeto con la inmediate
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PARTE TERZA — RIVELAZIONE |
-| 3 | H2 | IL SENSO RELIGIOSO |
-| 5 | H3 | CAPITOLO PRIMO — ABRAMO |
-| 83 | H3 | CAPITOLO SECONDO — GESÙ |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PARTE TERZA — RIVELAZIONE |
+| H2 | IL SENSO RELIGIOSO |
+| H3 | CAPITOLO PRIMO — ABRAMO |
+| H3 | CAPITOLO SECONDO — GESÙ |

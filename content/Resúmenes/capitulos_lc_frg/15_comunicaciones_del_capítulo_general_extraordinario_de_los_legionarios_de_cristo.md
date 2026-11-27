@@ -25,9 +25,9 @@ Sección de encabezado que agrupa las comunicaciones oficiales emanadas del [[ca
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Comunicaciones del Capítulo General extraordinario de los Legionarios  |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Comunicaciones del Capítulo General extraordinario de los Legionarios  |
 
 
 ## Secciones incluidas

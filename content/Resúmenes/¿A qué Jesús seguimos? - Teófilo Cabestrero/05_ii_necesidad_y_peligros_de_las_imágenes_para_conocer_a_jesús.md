@@ -32,6 +32,6 @@ tags: ["resumen", "a que jesus seguimos"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | II. NECESIDAD Y PELIGROS DE LAS IMÁGENES PARA CONOCER A JESÚS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | II. NECESIDAD Y PELIGROS DE LAS IMÁGENES PARA CONOCER A JESÚS |

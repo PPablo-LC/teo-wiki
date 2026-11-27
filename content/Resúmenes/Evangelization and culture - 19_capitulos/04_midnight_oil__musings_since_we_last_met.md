@@ -105,8 +105,8 @@ Se invita a enviar libros para su consideración a tworner@wordonfire.org. El au
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Midnight Oil — musings since we last met |
-| 99 | H2 | The Self-Unseeing |
-| 109 | H2 | Books Received |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Midnight Oil — musings since we last met |
+| H2 | The Self-Unseeing |
+| H2 | Books Received |

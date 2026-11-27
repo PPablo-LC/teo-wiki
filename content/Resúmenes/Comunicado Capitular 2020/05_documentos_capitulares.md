@@ -20,6 +20,6 @@ Encabezado de sección «Documentos capitulares», a modo de divisoria que agrup
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Documentos capitulares |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Documentos capitulares |

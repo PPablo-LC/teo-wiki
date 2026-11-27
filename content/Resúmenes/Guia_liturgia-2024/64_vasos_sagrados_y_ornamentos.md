@@ -30,6 +30,6 @@ Sección del Capítulo IX sobre los vasos sagrados y los ornamentos (nn. 238-241
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Vasos sagrados y ornamentos |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Vasos sagrados y ornamentos |

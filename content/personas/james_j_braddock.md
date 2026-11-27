@@ -25,7 +25,7 @@ Su fe era integral a su persona; nunca falló a la Misa dominical, incluso siend
 
 ### Según Evangelization & Culture (EAC-20)
 
-El artículo señala que el boxeo fue el deporte más católico durante casi 100 años, especialmente entre inmigrantes, debido a «ideas religiosas católicas sobre el valor redentor del sufrimiento físico» [EAC-20, 07_film, L3-9]. Sobre Braddock, se destaca su virtud en la caída y en el éxito: «hombre de familia, gentileza y restricción fuera del ring, honestidad, humildad, justicia» [EAC-20, 07_film, L21-27]. Su biografía íntima lo describe como un hombre que nunca dejó de asistir a la Misa y que llevaba el emblema de su fe sobre su cuello, viendo su vida como un reflejo de la confianza en Dios [EAC-20, 07_film, L25-27].
+El artículo señala que el boxeo fue el deporte más católico durante casi 100 años, especialmente entre inmigrantes, debido a «ideas religiosas católicas sobre el valor redentor del sufrimiento físico» [EAC-20, 07_film]. Sobre Braddock, se destaca su virtud en la caída y en el éxito: «hombre de familia, gentileza y restricción fuera del ring, honestidad, humildad, justicia» [EAC-20, 07_film]. Su biografía íntima lo describe como un hombre que nunca dejó de asistir a la Misa y que llevaba el emblema de su fe sobre su cuello, viendo su vida como un reflejo de la confianza en Dios [EAC-20, 07_film].
 
 ## Distinciones importantes
 

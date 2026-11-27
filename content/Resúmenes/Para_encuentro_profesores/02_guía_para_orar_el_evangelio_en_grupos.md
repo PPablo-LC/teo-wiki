@@ -56,4 +56,4 @@ En el contexto de esta jornada, el COMPARTIR en grupos sucede después del silen
 
 ## Secciones incluidas
 
-- Guía para orar el Evangelio en grupos (líneas 29–38)
+- Guía para orar el Evangelio en grupos

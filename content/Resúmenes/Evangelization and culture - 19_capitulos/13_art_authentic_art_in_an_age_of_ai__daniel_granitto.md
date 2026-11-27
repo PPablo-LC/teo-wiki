@@ -82,8 +82,8 @@ Es, ciertamente, nuestra creación —rica en posibilidad pero desprovista de la
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Art: Igniting Intimacy and Curiosity: Authentic Art in an Age of AI — Daniel Granitto |
-| 9 | H2 | Just Before Dawn, 2023 |
-| 117 | Texto | Marco editorial: «We are creators» (Sal 139,13-14) |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Art: Igniting Intimacy and Curiosity: Authentic Art in an Age of AI — Daniel Granitto |
+| H2 | Just Before Dawn, 2023 |
+| Texto | Marco editorial: «We are creators» (Sal 139,13-14) |

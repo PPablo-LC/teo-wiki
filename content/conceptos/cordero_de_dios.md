@@ -43,6 +43,16 @@ La imagen del Cordero de Dios tiene dos raíces principales en el AT. La primera
 
 El rito del Agnus Dei fue introducido en la liturgia romana por el papa Sergio I (687-701). Se canta o recita mientras el sacerdote parte el Pan consagrado, invocando tres veces al Cordero de Dios: «Cordero de Dios, que quitas el pecado del mundo, ten piedad de nosotros» (dos veces); «Cordero de Dios, que quitas el pecado del mundo, danos la paz». Es el único rito de la Misa que admite variación en su conclusión (piedad / paz) según el carácter litúrgico del día o la estación.
 
+### Según *Life of Christ* (LCh, cap. 4)
+
+Sheen lee el título como la respuesta a una pregunta que atraviesa el Génesis: cuando Isaac pregunta «Where is the lamb?», Abraham responde «God will see to it that there is a lamb to be sacrificed» (Gn 22,8); Juan Bautista, señalando a Cristo entre los corderos que suben al templo para la Pascua, da por fin la respuesta: «Here is the Lamb of God» (cap. 4). El título es preciso: no es el cordero del pueblo, ni de los judíos, ni de dueño humano alguno, «but the Lamb of God», y su inmolación no es derrota ante los más fuertes sino cumplimiento de un deber de amor: «It was not man who offered this sacrifice, although it was man who slew the victim; it was God Who gave Himself».
+
+Aporta además dos precisiones que no están en las demás fuentes: (1) el verbo «quitar» tiene el paralelo del **macho cabrío emisario** de Lv 16,22, que «carry away all their sins into a land uninhabited», de modo que el Cordero, cargado con el pecado, sería arrojado fuera de la ciudad como el chivo expiatorio; y (2) todos los corderos y cabritos ofrecidos por judíos y paganos a lo largo de la historia «derived their value from the Lamb of God Who stood before John», es decir, el valor de los sacrificios antiguos era participado, no propio.
+
+- «The Lamb slain in sacrifice ever since the world was made» (Ap 13,8): «The Cross was not an afterthought».
+- El Cordero es «the only remover of human guilt»; no es Cristo quien profetiza aquí la Cruz, sino el Antiguo Testamento a través de Juan.
+- La sangre rociada del Antiguo Testamento y el grito «His blood be upon us and upon our children» (Mt 27,25) se leen como ironía providencial del mismo rociado que salva.
+
 ## Distinciones importantes
 
 - Cordero de Dios (título cristológico sacrificial) vs. cordero pascual judío (prefiguración ritual del AT)

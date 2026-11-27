@@ -54,12 +54,12 @@ Los padres capitulares comparten consideraciones y conclusiones iniciales, sin p
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Primera sesión. Comunicación del Capítulo General extraordinario |
-| 7 | H3 | Introducción |
-| 23 | H3 | 1) La identidad de la Legión de Cristo y del Regnum Christi y la relac |
-| 65 | H3 | 2) Búsqueda de una configuración canónica del Regnum Christi |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Primera sesión. Comunicación del Capítulo General extraordinario |
+| H3 | Introducción |
+| H3 | 1) La identidad de la Legión de Cristo y del Regnum Christi y la relac |
+| H3 | 2) Búsqueda de una configuración canónica del Regnum Christi |
 
 
 ## Secciones incluidas

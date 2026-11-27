@@ -25,9 +25,9 @@ Sección de encabezado que agrupa las comunicaciones oficiales emanadas de la [[
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Comunicaciones de la Asamblea General del Regnum Christi 2018 |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Comunicaciones de la Asamblea General del Regnum Christi 2018 |
 
 
 ## Secciones incluidas

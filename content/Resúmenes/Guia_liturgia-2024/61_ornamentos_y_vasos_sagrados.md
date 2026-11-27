@@ -31,6 +31,6 @@ Este archivo completa el encabezado del Capítulo IX («Adorno de la capilla, or
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ornamentos y vasos sagrados |
+| Nivel | Sección |
+|-------|---------|
+| H1 | ornamentos y vasos sagrados |

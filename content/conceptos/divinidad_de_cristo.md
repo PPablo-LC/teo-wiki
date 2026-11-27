@@ -41,6 +41,14 @@ ODPC reconstruye la trayectoria con la que la divinidad de Jesús se hizo explí
 
 Barron y Trent Horn presentan la divinidad de Cristo a partir de sus palabras, acciones, resurrección y la adoración recibida. Jesús perdona pecados, actúa con autoridad sobre la Ley, se identifica con el «Yo Soy» de Éx 3,14 y acepta la confesión de Tomás: «Señor mío y Dios mío». La resurrección lo vindica como Hijo de Dios en poder. La guía añade evidencia patrística temprana (Ignacio de Antioquía, Aristides, Justino, Melito de Sardes) y no cristiana (Plinio, Luciano) contra la tesis de una divinización tardía. La doctrina se formula finalmente en la [[unión_hipostática]] de Calcedonia [TMO, 05, lín. 3-122].
 
+### Según *Life of Christ* (LCh)
+
+Sheen no argumenta la divinidad desde los concilios sino desde las afirmaciones que provocaron violencia: los intentos de matar a Cristo se suceden «always after He had proclaimed His Divinity» (cap. 25). El primer texto que trabaja es Jn 5,17-18: si el Padre trabaja en sábado, también el Hijo, y los jefes entendieron la frase como igualdad con Dios, no como piedad filial. El segundo es la disputa sobre Abraham (Jn 8,56-59). Sheen se detiene en la gramática: Cristo no dijo «before Abraham was, I was», sino «before Abraham came to be, I am», apelando al nombre del Sinaí, «I am Who am», y atribuyéndose «not a simple priority over Abraham, but an existence from all eternity». La conclusión es precisa: «Christ was not claiming that He had come into existence before Abraham; but that He had never come into being at all».
+
+El tercer texto es la fiesta de la Dedicación: «My Father and I are One» (Jn 10,30). Sheen recurre al griego para mostrar que «one» es neutro y significa «not one person but one substance, one nature», de modo que la afirmación no es de acuerdo moral sino de identidad de naturaleza, con la distinción de que en su humanidad el Padre es mayor que Él. La reacción de los oyentes confirma la lectura: lo acusan de blasfemia porque «Thou, Who art a man, Dost pretend to be God» (Jn 10,33).
+
+La fórmula que resume su posición es la que responde a esa acusación: «though a mere man could not be God, God could become man, while still remaining God». Sheen añade una observación de teología de la cultura: al mundo le resulta concebible que un hombre se divinice, pero no que Dios se haga hombre; ése es el escándalo específico de la Encarnación. Y extrae la consecuencia cristológica: lo que tuvo un comienzo fue su naturaleza humana, no la Persona, que como divina no experimenta cambio al asumirla.
+
 ## Distinciones importantes
 
 - Cristo como Dios-hombre (único en la historia) vs. sabios/fundadores religiosos (solo hombres)

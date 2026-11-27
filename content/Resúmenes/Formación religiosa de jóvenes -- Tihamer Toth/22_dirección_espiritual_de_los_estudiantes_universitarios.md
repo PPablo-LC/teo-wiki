@@ -90,11 +90,11 @@ Signo revelador de la autenticidad del amor conyugal es la apertura a la vida: e
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | DIRECCIÓN ESPIRITUAL DE LOS ESTUDIANTES UNIVERSITARIOS |
-| 68 | H3 | Apéndice I |
-| 230 | H3 | Apéndice II |
-| 241 | H3 | El amor humano como don de sí |
-| 254 | H3 | El amor conyugal |
-| 259 | H3 | Amor abierto a la vida |
+| Nivel | Sección |
+|-------|---------|
+| H1 | DIRECCIÓN ESPIRITUAL DE LOS ESTUDIANTES UNIVERSITARIOS |
+| H3 | Apéndice I |
+| H3 | Apéndice II |
+| H3 | El amor humano como don de sí |
+| H3 | El amor conyugal |
+| H3 | Amor abierto a la vida |

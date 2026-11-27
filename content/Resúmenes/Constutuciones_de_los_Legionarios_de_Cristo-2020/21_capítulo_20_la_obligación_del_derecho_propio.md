@@ -44,13 +44,13 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 20. La obligación del derecho propio |
-| 3 | H5 | El derecho propio |
-| 7 | H5 | Cómo obligan las Constituciones |
-| 11 | H5 | Responsabilidad de los superiores |
-| 17 | H5 | Regla de vida |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Capítulo 20. La obligación del derecho propio |
+| H5 | El derecho propio |
+| H5 | Cómo obligan las Constituciones |
+| H5 | Responsabilidad de los superiores |
+| H5 | Regla de vida |
 
 ## Secciones incluidas
 

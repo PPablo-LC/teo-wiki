@@ -165,33 +165,33 @@ sabido defender y comunicar la fe» (cf. [[caridad_de_la_verdad]]).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | VI. MORIR DE TRABAJOS APOSTÓLICOS |
-| 3-16 | — | La enseñanza de san Leopoldo Mandic; caridad de la verdad |
-| 17-25 | — | La fe en peligro: la caridad de la inteligencia |
-| 21 | H2 | San Hilario de Poitiers (c. 315-368) |
-| 35 | H2 | San Martín de Tours (316-397) |
-| 49 | H2 | San Ambrosio (c. 340-397) |
-| 59 | H2 | San Jerónimo (347-420) |
-| 67 | H2 | San Agustín de Hipona (354-430) |
-| 81 | H2 | San Benito de Nursia (480-547) |
-| 95 | H2 | San Anselmo de Aosta (1033-1109) |
-| 105 | H2 | San Bernardo de Claraval (1090-1153) |
-| 123 | H2 | Santo Domingo de Guzmán (1170-1221) |
-| 139 | H2 | San Alberto Magno (1193-1280) |
-| 153 | H2 | Santo Tomás de Aquino (1225-1274) |
-| 179 | H2 | San Ignacio de Loyola (1491-1556) |
-| 189 | H2 | San Francisco Javier (1506-1552) |
-| 201 | H2 | San Felipe Neri (1515-1595) |
-| 225 | H2 | San Carlos Borromeo (1538-1584) |
-| 239 | H2 | San Francisco de Sales (1567-1622) |
-| 251 | H2 | San Alfonso María de Ligorio (1696-1787) |
-| 269 | H2 | Santo Cura de Ars (1786-1859) |
-| 283 | H2 | San Juan Bosco (1815-1888) |
-| 307 | H2 | San Daniel Comboni (1831-1881) |
-| 319 | H2 | San Leopoldo Mandic (1886-1942) |
-| 335 | H2 | San Juan XXIII (1881-1963) |
-| 353 | H2 | Beato Charles de Foucauld (1858-1916) |
-| 369 | H2 | San Pío de Pietrelcina (1887-1968) |
-| 381 | H2 | San Josemaría Escrivá (1902-1975) |
+| Nivel | Sección |
+|-------|---------|
+| H1 | VI. MORIR DE TRABAJOS APOSTÓLICOS |
+| — | La enseñanza de san Leopoldo Mandic; caridad de la verdad |
+| — | La fe en peligro: la caridad de la inteligencia |
+| H2 | San Hilario de Poitiers (c. 315-368) |
+| H2 | San Martín de Tours (316-397) |
+| H2 | San Ambrosio (c. 340-397) |
+| H2 | San Jerónimo (347-420) |
+| H2 | San Agustín de Hipona (354-430) |
+| H2 | San Benito de Nursia (480-547) |
+| H2 | San Anselmo de Aosta (1033-1109) |
+| H2 | San Bernardo de Claraval (1090-1153) |
+| H2 | Santo Domingo de Guzmán (1170-1221) |
+| H2 | San Alberto Magno (1193-1280) |
+| H2 | Santo Tomás de Aquino (1225-1274) |
+| H2 | San Ignacio de Loyola (1491-1556) |
+| H2 | San Francisco Javier (1506-1552) |
+| H2 | San Felipe Neri (1515-1595) |
+| H2 | San Carlos Borromeo (1538-1584) |
+| H2 | San Francisco de Sales (1567-1622) |
+| H2 | San Alfonso María de Ligorio (1696-1787) |
+| H2 | Santo Cura de Ars (1786-1859) |
+| H2 | San Juan Bosco (1815-1888) |
+| H2 | San Daniel Comboni (1831-1881) |
+| H2 | San Leopoldo Mandic (1886-1942) |
+| H2 | San Juan XXIII (1881-1963) |
+| H2 | Beato Charles de Foucauld (1858-1916) |
+| H2 | San Pío de Pietrelcina (1887-1968) |
+| H2 | San Josemaría Escrivá (1902-1975) |

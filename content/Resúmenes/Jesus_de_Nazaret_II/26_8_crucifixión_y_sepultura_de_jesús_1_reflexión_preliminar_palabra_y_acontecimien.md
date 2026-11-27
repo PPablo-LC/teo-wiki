@@ -28,6 +28,6 @@ Dos textos abrazan e iluminan teológicamente toda la Pasión: **Sal 22** —el 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 8. CRUCIFIXIÓN Y SEPULTURA DE JESÚS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 8. CRUCIFIXIÓN Y SEPULTURA DE JESÚS |

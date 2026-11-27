@@ -42,9 +42,9 @@ Cierre poético: «A Child's Laughter» de G.K. Chesterton — la risa del niño
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Midnight Oil — Tod Worner |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Midnight Oil — Tod Worner |
 
 ## Secciones incluidas
 

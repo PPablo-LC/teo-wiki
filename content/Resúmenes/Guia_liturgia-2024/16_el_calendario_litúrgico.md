@@ -24,6 +24,6 @@ El capítulo desarrolla el [[año_litúrgico|año litúrgico]] y cómo la Iglesi
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | El calendario litúrgico |
+| Nivel | Sección |
+|-------|---------|
+| H1 | El calendario litúrgico |

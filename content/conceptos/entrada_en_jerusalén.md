@@ -29,6 +29,18 @@ La Vida de Jesús (VJ) narra la entrada solemne de Jesús en Jerusalén (Cap. IV
 
 Benedicto XVI profundiza en el sentido teológico de la entrada mesiánica, mostrando que Jesús reivindica de hecho un derecho regio al requisar el borrico (cf. Gn 49,10-11) y entrar montado en un pollino sobre el que nadie ha montado, cumpliendo Zacarías 9,9: «Mira a tu rey, que viene a ti humilde, montado en un asno». Esta entrada excluye una interpretación «zelote»: Jesús no se apoya en la violencia, sino en la pobreza de Dios y la paz de Dios como único poder salvador. Los discípulos echan sus mantos sobre el borrico —gesto de entronización en la tradición davídica (cf. 1 Re 1,33-34)— y los peregrinos alfombran el camino con ramos, proclamando palabras del Salmo 118 como aclamación mesiánica. La ciudad se «alborota» (Mt 21,10), como en la época de los Magos (Mt 2,3). La entrada no es solo un episodio pasado: la Iglesia naciente vio en ella una anticipación litúrgica, saludando al Señor en la Sagrada Eucaristía como el que ahora viene y el que ha de venir, incorporando a los fieles a su «subida» hacia la cruz y la resurrección.
 
+### Según *Life of Christ* (LCh, cap. 33)
+
+Sheen enmarca la entrada en Jerusalén en el calendario de Nisán: el cordero pascual se elegía cuatro días antes del sacrificio, y Cristo se presenta en la ciudad para ser elegido y, días después, inmolado (cap. 33). El episodio es por eso una **teofanía del Cordero** más que una manifestación política, y el detalle del borrico prestado —«el Señor lo necesita» (Lc 19,31)— insiste en la soberanía del que no posee nada.
+
+El contraste con su conducta anterior es el hilo de la interpretación: el que había prohibido publicar sus milagros y había rehusado ser rey (Jn 6,15), ahora organiza una procesión pública «porque había llegado su Hora». El cambio no es táctico sino teológico: hasta entonces el secreto protegía la libertad de los discípulos; ahora la publicidad forma parte del sacrificio, y la profecía de Zacarías —«he aquí tu rey viene a ti, manso y montado en un asno»— se cumple en su detalle más humilde (Mt 21,5).
+
+La aclamación tiene dos registros: el pueblo grita «Hosanna» con las palmas de la fiesta de los Tabernáculos y el recuerdo de Simón Macabeo, y los fariseos piden que calle a los suyos. La respuesta del Señor —si callan, «las piedras gritarán» (Lc 19,40)— afirma que la creación entera es testigo de la identidad de su autor. Y en medio de la fiesta, el evangelista pone el llanto sobre la ciudad: el que es aclamado llora porque ve el final de los que lo aclaman, y anuncia los tres momentos de todo pueblo —visitación, rechazo y ruina— sin que la profecía suprima la libertad.
+
+- **Elección del Cordero**: la cronología de Nisán da a la entrada su sentido sacrificial.
+- **Reyes de la tierra y Rey manso**: los reyes de Asiria y de Roma desfilaban con caballos y armas; el de Jerusalén entra en un borrico prestado.
+- **Lágrimas y juicio**: la compasión no anula el anuncio de la ruina, y la ruina no es fatalidad sino fruto del rechazo.
+
 ## Distinciones importantes
 
 - Entrada humilde (borriquillo) vs. entrada triunfal esperada por el pueblo

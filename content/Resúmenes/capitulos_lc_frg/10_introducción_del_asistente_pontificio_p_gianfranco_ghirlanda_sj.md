@@ -41,9 +41,9 @@ Intervención del P. Gianfranco Ghirlanda, S.J., asistente pontificio, pronuncia
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Introducción del asistente pontificio, P. Gianfranco Ghirlanda, S.J. |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Introducción del asistente pontificio, P. Gianfranco Ghirlanda, S.J. |
 
 
 ## Secciones incluidas

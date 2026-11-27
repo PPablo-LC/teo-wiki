@@ -76,17 +76,17 @@ Se propone un breve e inspirador compendio de lo que caracteriza al legionario c
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | La mirada puesta en Cristo |
-| 6 | H3 | Cristo, centro de nuestra vida |
-| 19 | H3 | Vivir nuestra vocación legionaria |
-| 20 | H3 | Sed de vivir plenamente nuestra identidad |
-| 23 | H3 | Un centro de espiritualidad legionaria |
-| 25 | H3 | Militia Christi |
-| 28 | H3 | Paternidad sacerdotal |
-| 36 | H3 | Aspecto visible y externo de la identidad |
-| 44 | H3 | Tradiciones y costumbres |
-| 47 | H3 | Vida litúrgica y ars celebrandi |
-| 55 | H3 | La identidad se expresa en el apostolado |
-| 58 | H3 | Compendio |
+| Nivel | Sección |
+|-------|---------|
+| H1 | La mirada puesta en Cristo |
+| H3 | Cristo, centro de nuestra vida |
+| H3 | Vivir nuestra vocación legionaria |
+| H3 | Sed de vivir plenamente nuestra identidad |
+| H3 | Un centro de espiritualidad legionaria |
+| H3 | Militia Christi |
+| H3 | Paternidad sacerdotal |
+| H3 | Aspecto visible y externo de la identidad |
+| H3 | Tradiciones y costumbres |
+| H3 | Vida litúrgica y ars celebrandi |
+| H3 | La identidad se expresa en el apostolado |
+| H3 | Compendio |

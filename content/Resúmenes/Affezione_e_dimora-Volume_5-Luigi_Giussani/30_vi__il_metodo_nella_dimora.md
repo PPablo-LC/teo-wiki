@@ -21,6 +21,6 @@ Archivo de solo título que abre la Parte VI de la obra: «IL MÉTODO NELLA DIMO
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | **VI** - **IL MÉTODO NELLA DIMORA** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | **VI** - **IL MÉTODO NELLA DIMORA** |

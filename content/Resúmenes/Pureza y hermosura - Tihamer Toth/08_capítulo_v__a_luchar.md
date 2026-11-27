@@ -118,33 +118,33 @@ Fijarse en las consecuencias fisiológicas y psicológicas de los pensamientos i
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO V — ¡A LUCHAR! |
-| 37 | H3 | I.—Hay retorno |
-| 57 | H3 | II.—Animo a las que luchan |
-| 71 | H3 | III.—El águila en libertad |
-| 102 | H3 | IV.—¿Qué puedo hacer por mi patria? |
-| 134 | H3 | V.—Por la integridad del lirio |
-| 158 | H3 | VI.—«Vitis abundans...» |
-| 178 | H3 | VII.—Por la felicidad de tu alma |
-| 198 | H3 | VIII.—De vida o muerte |
-| 222 | H3 | IX.—¡Resiste! |
-| 236 | H3 | X.—¿Quién es la mojigata? |
-| 278 | H3 | XI.—¡Déjalas plantadas! |
-| 314 | H3 | XII.—¡A mí no me daña! |
-| 324 | H3 | XIII.—El único preservativo: evitar el pecado |
-| 348 | H3 | XIV.—¡Que se barran las calles! |
-| 364 | H3 | XV.—¡Contra la corriente! |
-| 370 | H3 | XVI.—«Aunque soy pequeña en la edad...» |
-| 392 | H3 | XVII.—¡No es verdad! ¡Mil veces no! |
-| 406 | H3 | XVIII.—No jugar con fuego |
-| 440 | H3 | XIX.—¡Aprovecha la juventud! |
-| 454 | H3 | XX.—Pureza y salud |
-| 466 | H3 | XXI.—¿Qué dice la ciencia médica? |
-| 498 | H3 | XXII.—Dios y la naturaleza |
-| 521 | H3 | XXIII.—¿Quién es la que no puede permanecer casta? |
-| 547 | H3 | XXIV.—Castas de cuerpo… y alma |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CAPÍTULO V — ¡A LUCHAR! |
+| H3 | I.—Hay retorno |
+| H3 | II.—Animo a las que luchan |
+| H3 | III.—El águila en libertad |
+| H3 | IV.—¿Qué puedo hacer por mi patria? |
+| H3 | V.—Por la integridad del lirio |
+| H3 | VI.—«Vitis abundans...» |
+| H3 | VII.—Por la felicidad de tu alma |
+| H3 | VIII.—De vida o muerte |
+| H3 | IX.—¡Resiste! |
+| H3 | X.—¿Quién es la mojigata? |
+| H3 | XI.—¡Déjalas plantadas! |
+| H3 | XII.—¡A mí no me daña! |
+| H3 | XIII.—El único preservativo: evitar el pecado |
+| H3 | XIV.—¡Que se barran las calles! |
+| H3 | XV.—¡Contra la corriente! |
+| H3 | XVI.—«Aunque soy pequeña en la edad...» |
+| H3 | XVII.—¡No es verdad! ¡Mil veces no! |
+| H3 | XVIII.—No jugar con fuego |
+| H3 | XIX.—¡Aprovecha la juventud! |
+| H3 | XX.—Pureza y salud |
+| H3 | XXI.—¿Qué dice la ciencia médica? |
+| H3 | XXII.—Dios y la naturaleza |
+| H3 | XXIII.—¿Quién es la que no puede permanecer casta? |
+| H3 | XXIV.—Castas de cuerpo… y alma |
 
 ## Secciones incluidas
 

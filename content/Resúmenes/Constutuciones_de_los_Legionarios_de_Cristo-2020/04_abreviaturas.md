@@ -26,9 +26,9 @@ Sección preliminar del volumen dedicada a las abreviaturas empleadas a lo largo
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Abreviaturas |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Abreviaturas |
 
 ## Secciones incluidas
 

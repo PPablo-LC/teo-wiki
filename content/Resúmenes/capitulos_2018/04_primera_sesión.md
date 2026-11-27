@@ -21,9 +21,9 @@ Encabezado del documento: «Comunicación del Capítulo General extraordinario a
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PRIMERA SESIÓN |
-| 2 | P | Comunicación del Capítulo General extraordinario |
-| 4 | P | Roma, 8 de abril de 2018 |
-| 6 | P | Domingo de la Divina Misericordia |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PRIMERA SESIÓN |
+| P | Comunicación del Capítulo General extraordinario |
+| P | Roma, 8 de abril de 2018 |
+| P | Domingo de la Divina Misericordia |

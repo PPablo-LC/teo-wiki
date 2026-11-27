@@ -26,7 +26,7 @@ Realización cristológica de la [[amistad_con_dios]]: relación personal, viva 
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Para Giussani, la amistad con Cristo nace de un encuentro que establece familiaridad: al sentarse Giovanni y Andrea en su casa, «i due pendevano dalle sue labbra» y «si stabiliva subito una familiarità con Lui; veramente, era Lui che stabiliva subito una familiarità con chi incontrava». El encuentro «si presenta sempre sotto la forma di un incontro, di un incontro significativo, di un incontro che cambia qualche cosa», y de él «la loro vita era cambiata... dall'avvenimento di quell'incontro». El culmen de esta amistad es el don de la vida: «Nessuno ama tanto gli amici come colui che dà la vita per i propri amici. Ma si dà la vita per il Destino!... È per Gesù che io ho passione del tuo destino» (TACDC, 03, L83-85; 01, L59).
+Para Giussani, la amistad con Cristo nace de un encuentro que establece familiaridad: al sentarse Giovanni y Andrea en su casa, «i due pendevano dalle sue labbra» y «si stabiliva subito una familiarità con Lui; veramente, era Lui che stabiliva subito una familiarità con chi incontrava». El encuentro «si presenta sempre sotto la forma di un incontro, di un incontro significativo, di un incontro che cambia qualche cosa», y de él «la loro vita era cambiata... dall'avvenimento di quell'incontro». El culmen de esta amistad es el don de la vida: «Nessuno ama tanto gli amici come colui che dà la vita per i propri amici. Ma si dà la vita per il Destino!... È per Gesù che io ho passione del tuo destino» (TACDC, 03; 01).
 
 ## Distinciones importantes
 

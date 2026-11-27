@@ -40,6 +40,6 @@ El «permanecer» en Cristo (Jn 15,4) configura la estructura interna de la Igle
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (LA VENIDA DEL REINO: FUNDACIÓN DE LA IGLESIA) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (LA VENIDA DEL REINO: FUNDACIÓN DE LA IGLESIA) |

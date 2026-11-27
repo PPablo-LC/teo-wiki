@@ -56,11 +56,11 @@ La portada identifica la revista: **Evangelization & Culture: The Journal of the
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Evangelization & Culture |
-| 8 | H2 | Contents |
-| 10 | H3 | From the Desk / From the Institute |
-| 14 | H3 | Sections |
-| 24 | H3 | Features |
-| 31 | H3 | More |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Evangelization & Culture |
+| H2 | Contents |
+| H3 | From the Desk / From the Institute |
+| H3 | Sections |
+| H3 | Features |
+| H3 | More |

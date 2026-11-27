@@ -77,6 +77,6 @@ Senza misión — sin ímpetu y pasión comunicativa de lo que se ha visto, apre
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA DISCREZIONE |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA DISCREZIONE |

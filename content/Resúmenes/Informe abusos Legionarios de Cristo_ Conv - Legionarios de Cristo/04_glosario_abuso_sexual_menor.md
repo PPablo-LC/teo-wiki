@@ -57,4 +57,4 @@ Glosario técnico-jurídico anexo al documento **"Proteger y sanar"**, proporcio
 
 ## Referencia original
 
-📄 Fuente original: `05_05_glosario.md` (línea 1–63)
+📄 Fuente original: `05_05_glosario.md`

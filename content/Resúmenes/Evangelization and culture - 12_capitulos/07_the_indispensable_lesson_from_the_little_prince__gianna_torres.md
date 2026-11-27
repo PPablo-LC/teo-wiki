@@ -44,4 +44,4 @@ Gianna Torres presenta **El Principito** como una "catequesis ligera para todas 
 
 ## Referencia original
 
-📄 Fuente original: `07_stacks.md` (línea 1–53)
+📄 Fuente original: `07_stacks.md`

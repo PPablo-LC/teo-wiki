@@ -12,7 +12,7 @@ tags: ["eclesiología", "moral", "historia", "caridad", "leonardo_castellani"]
 
 ## Definición
 
-En el apéndice III de *Cristo y los Fariseos*, la «libertad intelectual» es el principio de que, fuera de los catorce puntos de fe, el católico puede discrepar sin herejía, pero ha de ordenar sus modos de ver «según la jerarquía de los fines»: el modo inferior no debe insurgir contra el superior (CyF, apéndice III L9-11; [[conciencia]]).
+En el apéndice III de *Cristo y los Fariseos*, la «libertad intelectual» es el principio de que, fuera de los catorce puntos de fe, el católico puede discrepar sin herejía, pero ha de ordenar sus modos de ver «según la jerarquía de los fines»: el modo inferior no debe insurgir contra el superior (CyF, apéndice III; [[conciencia]]).
 
 ## Desarrollo doctrinal
 
@@ -22,7 +22,7 @@ Castellani aplica el principio a la Guerra Española y distingue tres modos:
 2. **Modo filosófico**: el análisis de Maritain sobre la raíz social, «no hay revoluciones benéficas», Marx y el materialismo histórico, y Santo Tomás, para quien lo inferior que se sobrepone a lo superior es «peccatum in moribus et monstrum in natura» (S. Th., *In Arist. De Anima* III,16) ([[marx]], [[jacques_maritain]]).
 3. **Modo teológico**: «habría que ser santo»; Rusia y el odio colectivo a Dios, Dostoievsky, y las dos aberraciones del instinto religioso —superstición y [[fariseísmo]]—. Aquí se decide la verdadera batalla: «la sangre de los mártires» y la lucha entre moral viva y moral desecada ([[religión_viva]], [[martirio]]).
 
-La conclusión es ética antes que política: «el sacerdote debe odiar el fariseísmo» y ha de examinarse a sí mismo —«si yo soy un católico fariseo, ¿quién puede pararse limpio ante Dios?» (CyF, apéndice III L63-75; [[humildad]]). Cristo se reservó la empresa: quebrantar el sábado, tratar con publicanos y distinguir los preceptos de Dios de los preceptos de los hombres. Las siete maldiciones son «los arbotantes de piedra de las Ocho Bienaventuranzas» ([[elenco_contra_fariseos]], [[indignación_viril]]).
+La conclusión es ética antes que política: «el sacerdote debe odiar el fariseísmo» y ha de examinarse a sí mismo —«si yo soy un católico fariseo, ¿quién puede pararse limpio ante Dios?» (CyF, apéndice III; [[humildad]]). Cristo se reservó la empresa: quebrantar el sábado, tratar con publicanos y distinguir los preceptos de Dios de los preceptos de los hombres. Las siete maldiciones son «los arbotantes de piedra de las Ocho Bienaventuranzas» ([[elenco_contra_fariseos]], [[indignación_viril]]).
 
 El principio de jerarquía vale también para la vida religiosa: en la carta sobre el gobierno, la «caballería ligera» no se define por una actividad cualquiera sino por el bien más divino y por el fin común ([[caballería_ligera]], [[bien_común]]).
 
@@ -53,5 +53,5 @@ Se vincula con [[conciencia]], [[humildad]], [[caridad]], [[fariseísmo]], [[rel
 
 ## Referencias
 
-- CyF, `17_apendice_iii_sobre_tres_modos_catolicos_de_ver_la.md` L9-75; `24_sobre_el_gobierno.md` L45-49.
+- CyF, `17_apendice_iii_sobre_tres_modos_catolicos_de_ver_la.md`; `24_sobre_el_gobierno.md`.
 - CEC 78-83, 157-158, 1776-1785, 1822-1829, 2244; DH 1, 3, 14; GS 21; LG 37; S. Th., *In Arist. De Anima* III,16.

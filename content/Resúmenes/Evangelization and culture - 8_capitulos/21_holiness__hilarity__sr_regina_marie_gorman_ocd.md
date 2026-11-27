@@ -45,9 +45,9 @@ Cierra la columna poética de Tom Zampino (*The Household Poet*) sobre consejos 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Holiness & Hilarity — Sr. Regina Marie Gorman, OCD |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Holiness & Hilarity — Sr. Regina Marie Gorman, OCD |
 
 ## Secciones incluidas
 

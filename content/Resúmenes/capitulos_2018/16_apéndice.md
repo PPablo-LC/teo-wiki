@@ -27,6 +27,6 @@ Conclusión: «Por el Reino de Cristo a la Gloria de Dios».
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Apéndice |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Apéndice |

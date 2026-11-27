@@ -39,6 +39,6 @@ Debemos educarnos sobre el peligro y la promesa de la IA —precisamente el obje
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | From the Desk of Bishop Robert Barron |
+| Nivel | Sección |
+|-------|---------|
+| H1 | From the Desk of Bishop Robert Barron |

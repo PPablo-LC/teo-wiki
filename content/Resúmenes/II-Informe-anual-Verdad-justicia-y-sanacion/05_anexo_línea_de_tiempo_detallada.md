@@ -92,4 +92,4 @@ Publica dos documentos:
 
 ## Referencia original
 
-📄 Fuente original: `06_anexo.md` (línea 1–50)
+📄 Fuente original: `06_anexo.md`

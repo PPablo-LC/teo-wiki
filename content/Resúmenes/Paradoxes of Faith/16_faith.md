@@ -41,8 +41,8 @@ La fe, si es realmente fe, es siempre una, siempre entera, envuelve la totalidad
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Faith |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Faith |
 
 ## Secciones incluidas

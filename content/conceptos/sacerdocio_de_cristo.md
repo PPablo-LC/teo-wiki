@@ -49,6 +49,14 @@ Benedicto XVI aborda el sacerdocio de Cristo en el contexto de la oración sacer
 
 La infografía de la carta a los Hebreos del PdB destaca que es «el único texto del Nuevo Testamento donde se afirma explícitamente que Jesucristo es el Sumo y Eterno Sacerdote». El escrito muestra la «superioridad» del sacerdocio de Cristo «como Hijo» sobre los sacerdotes de la Antigua Alianza, y que la Nueva Ley supone «el cumplimiento y la superación de la Antigua Alianza». Este es el fundamento doctrinal que respalda la exhortación a la perseverancia en la fe, motivo principal de la carta.
 
+### Según *Life of Christ* (LCh, caps. 36, 42-43, 45)
+
+Sheen hace del sacerdocio de Cristo el hilo que une la Cena y el proceso: en la Última Cena el pan y el vino consagrados por separado expresan la inmolación, y en ese gesto el Señor obra como «Priest and Victim» (cap. 36); en el Calvario ese sacerdocio se ejecuta. La misma idea reaparece en el prendimiento: cuando pide que dejen ir a los discípulos —«let these go their way» (Jn 18,8)— cumple la prescripción de Lv 16,17, según la cual en la expiación sólo el sumo sacerdote entra en el santuario; Sheen lo comenta diciendo que Cristo pisa el lagar solo (cap. 42).
+
+La paradoja que el libro explota es judicial: el **verdadero Sumo Sacerdote es el acusado**. Ante Anás y Caifás, el prisionero atado como Isaac (Gn 22,9) declara su identidad con el «Yo soy» de Mc 14,62 y Dn 7,13-14; entonces el sumo sacerdote legal rasga sus vestiduras y lo acusa de blasfemia (cap. 43). Sheen lee el gesto al revés: el rasgado del velo del templo de arriba abajo, que se narrará en la Cruz, muestra que el sacerdocio antiguo ha quedado vacío por dentro mientras su representante se desgarra las ropas por fuera.
+
+De ahí la síntesis de las tres funciones que cierra el capítulo: en el proceso religioso Cristo comparece como **Profeta** que es juzgado por su doctrina, como **Rey** que es coronado de espinas y como **Sacerdote** que se ofrece; y el juicio ante Pilato añade la dimensión sacerdotal del silencio, pues «como cordero llevado al matadero no abrió su boca» (Is 53,7) ante Herodes (cap. 45).
+
 ## Relaciones doctrinales
 
 El sacerdocio de Cristo es la fuente del [[sacerdocio]] ministerial y común, y se ejerce plenamente en el [[sacrificio_eucarístico]]. Jesucristo, como Sumo Sacerdote, es el único Mediador, y los presbíteros participan de su [[orden_sacerdotal]].

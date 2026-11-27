@@ -69,6 +69,6 @@ niente»*), así el cristiano se hace cercano al diverso sin pretensión.
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO),
-  `03_la_ragione_della_carita.md` (líneas 61-69).
+  `03_la_ragione_della_carita.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

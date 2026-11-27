@@ -50,4 +50,4 @@ Las preguntas tratan la causalidad no competitiva, la naturaleza del mal, la def
 
 ## Fuente original
 
-- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/04_lesson_four_providence_and_the_problem_of_evil.md` (líneas 1-231)
+- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/04_lesson_four_providence_and_the_problem_of_evil.md`

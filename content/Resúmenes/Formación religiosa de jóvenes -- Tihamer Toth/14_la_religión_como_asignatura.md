@@ -57,9 +57,9 @@ Marcador del capítulo siguiente: **Actividades y recursos a utilizar en la ense
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA RELIGIÓN COMO ASIGNATURA |
-| 10 | H3 | Deficiencias de la actual enseñanza religiosa |
-| 33 | H3 | Una enseñanza religiosa con planteamiento educativo |
-| 74 | H3 | Capítulo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA RELIGIÓN COMO ASIGNATURA |
+| H3 | Deficiencias de la actual enseñanza religiosa |
+| H3 | Una enseñanza religiosa con planteamiento educativo |
+| H3 | Capítulo |

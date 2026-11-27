@@ -17,7 +17,7 @@ Lou Gehrig, apodado el «Caballo de Hierro» (Iron Horse), fue un jugador de bé
 
 ## Desarrollo doctrinal
 
-La historia de Gehrig se analiza como una «crucifixión física» que revela la gracia a través del sufrimiento. La ELA, al privar al atleta de su fuerza física pero dejando intacta su conciencia, lo obliga a confrontar su vulnerabilidad. La respuesta de Gehrig—afirmar que era «el hombre más afortunado sobre la faz de la tierra» [EAC-20, 12_science, L67-79]—se interpreta como un acto de rendición heroica.
+La historia de Gehrig se analiza como una «crucifixión física» que revela la gracia a través del sufrimiento. La ELA, al privar al atleta de su fuerza física pero dejando intacta su conciencia, lo obliga a confrontar su vulnerabilidad. La respuesta de Gehrig—afirmar que era «el hombre más afortunado sobre la faz de la tierra» [EAC-20, 12_science]—se interpreta como un acto de rendición heroica.
 
 El sufrimiento de Gehrig se vincula con el problema del mal y la teología de la cruz. La enfermedad, aunque trágica, liberó al atleta de la «ilusión de autosuficiencia» y lo condujo a una dependencia radical de Dios, lo cual es visto como la verdadera meta del ser humano.
 
@@ -25,7 +25,7 @@ El sufrimiento de Gehrig se vincula con el problema del mal y la teología de la
 
 ### Según Evangelization & Culture (EAC-20)
 
-El artículo explora cómo la ELA destina al enfermo a su «propia crucifixión fisiológica» [EAC-20, 12_science, L7-17]. Se cita a C.S. Lewis para argumentar que el dolor es el «megáfono de Dios» [EAC-20, 12_science, L37-55]. Se destaca la gratitud inconcebible de Gehrig en su discurso y cómo su rendición lo elevó como «icono de fortaleza y carácter» [EAC-20, 12_science, L67-79]. También se menciona que la ALS no presenta un desafío único al alma, sino que amplía la mortalidad compartida de todos [EAC-20, 12_science, L79-95].
+El artículo explora cómo la ELA destina al enfermo a su «propia crucifixión fisiológica» [EAC-20, 12_science]. Se cita a C.S. Lewis para argumentar que el dolor es el «megáfono de Dios» [EAC-20, 12_science]. Se destaca la gratitud inconcebible de Gehrig en su discurso y cómo su rendición lo elevó como «icono de fortaleza y carácter» [EAC-20, 12_science]. También se menciona que la ALS no presenta un desafío único al alma, sino que amplía la mortalidad compartida de todos [EAC-20, 12_science].
 
 ## Distinciones importantes
 

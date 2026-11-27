@@ -62,10 +62,10 @@ Marcador del capítulo siguiente: **La religión como asignatura**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EDUCACIÓN DE LA JUVENTUD EN LA PUREZA |
-| 7 | H3 | Importancia religiosa |
-| 34 | H3 | Avisos a tener en cuenta cuando hablemos de la pureza |
-| 60 | H3 | Medios naturales para vivir la castidad |
-| 133 | H3 | Capítulo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | EDUCACIÓN DE LA JUVENTUD EN LA PUREZA |
+| H3 | Importancia religiosa |
+| H3 | Avisos a tener en cuenta cuando hablemos de la pureza |
+| H3 | Medios naturales para vivir la castidad |
+| H3 | Capítulo |

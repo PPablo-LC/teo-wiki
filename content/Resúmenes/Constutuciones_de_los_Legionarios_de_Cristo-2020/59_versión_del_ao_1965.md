@@ -29,6 +29,6 @@ Aunque esta versión conserva los elementos y contenidos esenciales del texto de
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Versión del año 1965 |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Versión del año 1965 |

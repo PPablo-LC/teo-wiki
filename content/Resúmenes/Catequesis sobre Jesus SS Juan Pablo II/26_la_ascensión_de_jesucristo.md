@@ -36,6 +36,6 @@ El anuncio de Pedro en el primer discurso pentecostal proclama que «Dios ha con
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (LA ASCENSIÓN DE JESUCRISTO) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (LA ASCENSIÓN DE JESUCRISTO) |

@@ -55,9 +55,9 @@ Marcador del capítulo siguiente: **La dirección espiritual de los pequeños es
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EDUCACIÓN PREESCOLAR |
-| 4 | H3 | Influencia de los padres |
-| 87 | H3 | Oración del XVI Encuentro Mundial de las Familias |
-| 98 | H3 | Capítulo 5º |
+| Nivel | Sección |
+|-------|---------|
+| H1 | EDUCACIÓN PREESCOLAR |
+| H3 | Influencia de los padres |
+| H3 | Oración del XVI Encuentro Mundial de las Familias |
+| H3 | Capítulo 5º |

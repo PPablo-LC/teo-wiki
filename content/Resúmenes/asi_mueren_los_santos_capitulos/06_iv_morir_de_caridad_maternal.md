@@ -102,18 +102,18 @@ hemos escrito hasta ahora».
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | IV. MORIR DE CARIDAD MATERNAL |
-| 3-7 | — | Introducción: valor pedagógico de las distinciones |
-| 9 | H2 | Santa Isabel de Hungría (1207-1231) |
-| 33 | — | Transición: contemplativas y madres |
-| 41 | H2 | Santa Catalina de Génova (1447-1510) |
-| 71 | H2 | Santa Juana Francisca de Chantal (1572-1641) |
-| 87 | H2 | Santa Luisa de Marillac (1591-1680) |
-| 103 | H2 | Santa Catalina Labouré (1806-1876) |
-| 119 | H2 | Santa María Crocifissa di Rosa (1813-1855) |
-| 139 | H2 | Santa Bartolomea Capitanio y Santa Vicenta Gerosa |
-| 161 | H2 | Beata Enrichetta Alfieri (1891-1951) |
-| 173 | H2 | Santa Madre Teresa de Calcuta (1910-1997) |
-| 181 | H2 | Sierva de Dios Annalena Tonelli (1943-2003) |
+| Nivel | Sección |
+|-------|---------|
+| H1 | IV. MORIR DE CARIDAD MATERNAL |
+| — | Introducción: valor pedagógico de las distinciones |
+| H2 | Santa Isabel de Hungría (1207-1231) |
+| — | Transición: contemplativas y madres |
+| H2 | Santa Catalina de Génova (1447-1510) |
+| H2 | Santa Juana Francisca de Chantal (1572-1641) |
+| H2 | Santa Luisa de Marillac (1591-1680) |
+| H2 | Santa Catalina Labouré (1806-1876) |
+| H2 | Santa María Crocifissa di Rosa (1813-1855) |
+| H2 | Santa Bartolomea Capitanio y Santa Vicenta Gerosa |
+| H2 | Beata Enrichetta Alfieri (1891-1951) |
+| H2 | Santa Madre Teresa de Calcuta (1910-1997) |
+| H2 | Sierva de Dios Annalena Tonelli (1943-2003) |

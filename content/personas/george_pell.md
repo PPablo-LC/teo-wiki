@@ -64,7 +64,6 @@ el mismo ADN, sin saltos ni inversiones.
 ## Referencias
 
 - **Fuente**: [[priests_what_lies_ahead]] (PWL),
-  `04_ii_the_priest_as_father_who_propagates_through_the_sacrament.md`
-  (líneas 1-283).
+  `04_ii_the_priest_as_father_who_propagates_through_the_sacrament.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

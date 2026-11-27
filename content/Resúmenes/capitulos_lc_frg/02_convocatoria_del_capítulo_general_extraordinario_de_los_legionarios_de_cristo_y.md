@@ -26,9 +26,9 @@ Sección de encabezado que sirve como entrada maestra de la convocatoria conjunt
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Convocatoria del Capítulo General extraordinario de los Legionarios de |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Convocatoria del Capítulo General extraordinario de los Legionarios de |
 
 
 ## Secciones incluidas

@@ -27,8 +27,8 @@ La Conferencia ha suscitado grandes expectativas en amplios sectores de la opini
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Son vitales las metas propuestas para la Conferencia de Pekín |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Son vitales las metas propuestas para la Conferencia de Pekín |
 
 ## Secciones incluidas

@@ -53,10 +53,10 @@ Marcador del capítulo siguiente: **Educación religiosa en secundaria o medias:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA DIRECCIÓN ESPIRITUAL DE LOS PEQUEÑOS ESCOLARES |
-| 4 | H3 | Los deberes de la educación familiar |
-| 10 | H3 | Educación de la voluntad |
-| 17 | H3 | La enseñanza religiosa en la escuela: catecismo, primera confesión y c |
-| 36 | H3 | Capítulo 6º |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA DIRECCIÓN ESPIRITUAL DE LOS PEQUEÑOS ESCOLARES |
+| H3 | Los deberes de la educación familiar |
+| H3 | Educación de la voluntad |
+| H3 | La enseñanza religiosa en la escuela: catecismo, primera confesión y c |
+| H3 | Capítulo 6º |

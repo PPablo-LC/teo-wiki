@@ -30,9 +30,9 @@ Presentación de los ensayos siguientes: Bobby Ángel (las fuentes de la risa co
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Introduction to the Features: What Is Humor? |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Introduction to the Features: What Is Humor? |
 
 ## Secciones incluidas
 

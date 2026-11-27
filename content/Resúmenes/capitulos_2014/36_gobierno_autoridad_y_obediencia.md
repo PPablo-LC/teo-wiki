@@ -28,6 +28,6 @@ Los principales problemas detectados en el gobierno de la Congregación han sido
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | GOBIERNO, AUTORIDAD Y OBEDIENCIA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | GOBIERNO, AUTORIDAD Y OBEDIENCIA |

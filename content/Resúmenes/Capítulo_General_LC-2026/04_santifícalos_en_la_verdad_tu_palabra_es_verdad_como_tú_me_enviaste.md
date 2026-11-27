@@ -43,6 +43,6 @@ Cristo resucitado muestra sus heridas a los apóstoles y no centra su identidad 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Santifícalos en la verdad: tu palabra es verdad. Como tú me enviaste |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Santifícalos en la verdad: tu palabra es verdad. Como tú me enviaste |

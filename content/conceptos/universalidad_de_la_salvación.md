@@ -31,6 +31,14 @@ Para Barron, la universalidad es el dato teológico que se esconde en la escena 
 
 Ese motivo recorre los Evangelios: el centurión, la sirofenicia, los griegos que buscan a Jesús, el título trilingüe de la cruz, el velo rasgado. Barron subraya que el cuerpo místico no es una institución ni una nación ni siquiera una religión nueva, sino un organismo internacional y transcultural; y que Juan Pablo II se situó en una larga tradición de internacionalismo cristiano que va de Pedro y Pablo al niño de Belén visitado por reyes de tierras lejanas. «La misma catolicidad de Cristo y de su cuerpo místico es una luz para el mundo dividido» [WOF, parte II, §79-91].
 
+### Según *Life of Christ* (LCh)
+
+Sheen enmarca la universalidad en la estructura misma del plan salvador: el objetivo era universal desde el principio, pero la ejecución fue progresiva, con una primera delimitación a Israel (cap. 28). Su aportación propia es la articulación de esa universalidad en tres dimensiones, formulada al final del capítulo: el sacrificio de Cristo fue universal «in three ways: time, place, and power». En cuanto al tiempo, su eficacia no se limita a una generación: «Before the beginning of the world, God has foreknown Him, But it was only in these last days That He was revealed for your sakes» (1 Pe 1,20). En cuanto al lugar, no se confina a una nación: «Out of every tribe, every language, every people, every nation Thou hast ransomed us with thy blood» (Ap 5,9). En cuanto al poder, no hay pecado que su Redención no pueda borrar.
+
+El eje histórico es la Cruz como derribo de la pared de separación: «It was the death of Christ that broke down the wall of partition between Jew and Gentile to reveal the universal mission of the Messias». Sheen insiste en que la universalidad no se deduce de la predicación previa sino del acontecimiento del Calvario, y que por eso el mandato de Mt 28,19 es posterior a la Resurrección. A esto añade la conexión, ya señalada en el capítulo 26, entre la elevación en la Cruz y la atracción de todos los hombres: «If only I am lifted up from the earth, I will attract all men to Myself» (Jn 12,32, cap. 26), con la precisión de que la palabra «lifted up» designa a la vez la Cruz y la Ascensión, de modo que el que atrae es el Crucificado glorificado (cap. 26).
+
+Hay también una dimensión de juicio, que evita leer la universalidad como indiferencia: los gentiles que respondieron —los ninivitas, la reina de Sabá, Tiro y Sidón— se levantarán en juicio contra quienes tuvieron la revelación y la rechazaron (cap. 28; cap. 29). La universalidad de la oferta no suprime la responsabilidad de la respuesta.
+
 ## Distinciones importantes
 
 - **Universalidad de la salvación y redención universal**: la [[redención_universal]] afirma que Cristo murió por todos y que su sacrificio tiene valor infinito y suficiente; la universalidad designa la eficacia histórica y sacramental de esa oferta, su disponibilidad efectiva para todos los pueblos.

@@ -60,16 +60,16 @@ El hombre es por naturaleza y por vocación un ser religioso; no vive una vida p
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PRIMERA PARTE |
-| 2 | H4 | LA PROFESIÓN DE LA FE |
-| 4 | H2 | PRIMERA SECCIÓN |
-| 5 | H4 | "CREO" - "CREEMOS" |
-| 7 | H3 | CAPÍTULO PRIMERO |
-| 9 | H4 | EL HOMBRE ES "CAPAZ" DE DIOS |
-| 11 | H5 | I. El deseo de Dios |
-| 27 | H5 | II. Las vías de acceso al conocimiento de Dios |
-| 45 | H5 | III. El conocimiento de Dios según la Iglesia |
-| 55 | H5 | IV. ¿Cómo hablar de Dios? |
-| 67 | H5 | Resumen |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PRIMERA PARTE |
+| H4 | LA PROFESIÓN DE LA FE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | "CREO" - "CREEMOS" |
+| H3 | CAPÍTULO PRIMERO |
+| H4 | EL HOMBRE ES "CAPAZ" DE DIOS |
+| H5 | I. El deseo de Dios |
+| H5 | II. Las vías de acceso al conocimiento de Dios |
+| H5 | III. El conocimiento de Dios según la Iglesia |
+| H5 | IV. ¿Cómo hablar de Dios? |
+| H5 | Resumen |

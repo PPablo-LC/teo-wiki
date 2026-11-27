@@ -46,9 +46,9 @@ Epígrafe de Wilde: «La experiencia es simplemente el nombre que los hombres da
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Wilde's Wit and Wisdom — Jennifer Frey |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Wilde's Wit and Wisdom — Jennifer Frey |
 
 ## Secciones incluidas
 

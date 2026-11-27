@@ -49,5 +49,5 @@ Se vincula con [[fariseísmo]], [[cuerpo_social]], [[gran_apostasía]], [[cáted
 
 ## Referencias
 
-- CyF, `07_v_la_sociologia_de_los_fariseos.md` L3-17; `09_vii_elenchus_contra_pharisaeos.md` L15-17; `19_apendice_v_el_retiro_de_la_iglesia.md` L13-31; `24_sobre_el_gobierno.md` L17-21.
+- CyF, `07_v_la_sociologia_de_los_fariseos.md`; `09_vii_elenchus_contra_pharisaeos.md`; `19_apendice_v_el_retiro_de_la_iglesia.md`; `24_sobre_el_gobierno.md`.
 - CEC 811-870; LG 1, 8, 12, 39; UR 1-4.

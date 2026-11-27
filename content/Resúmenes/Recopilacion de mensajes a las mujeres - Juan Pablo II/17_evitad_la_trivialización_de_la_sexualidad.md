@@ -38,9 +38,9 @@ El Papa espera que los participantes aprecien la importancia de lo que se ha de 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Evitad la trivialización de la sexualidad |
-| 9 | H2 | Fortaleced el papel de la mujer en la familia y en la sociedad |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Evitad la trivialización de la sexualidad |
+| H2 | Fortaleced el papel de la mujer en la familia y en la sociedad |
 
 ## Secciones incluidas

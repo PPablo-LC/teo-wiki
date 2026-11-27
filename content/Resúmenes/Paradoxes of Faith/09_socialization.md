@@ -32,8 +32,8 @@ El esfuerzo social y el espiritual deben proceder simultáneamente. Sin preocupa
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Socialization |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Socialization |
 
 ## Secciones incluidas

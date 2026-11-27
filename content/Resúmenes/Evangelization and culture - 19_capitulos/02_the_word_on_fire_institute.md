@@ -52,6 +52,6 @@ La página cierra con un agradecimiento especial al personal y a la junta direct
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Word on Fire Institute Team |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Word on Fire Institute Team |

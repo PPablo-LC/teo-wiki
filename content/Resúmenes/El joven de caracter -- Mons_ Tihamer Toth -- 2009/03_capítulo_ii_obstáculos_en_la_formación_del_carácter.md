@@ -116,27 +116,27 @@ Los sentimientos, la imaginación y el temperamento ejercen gran influencia sobr
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo II Obstáculos en la formación del carácter |
-| 11 | H3 | La mala hierba |
-| 21 | H3 | El combate del alma |
-| 30 | H3 | Y ¿sin sacrificio? |
-| 40 | H3 | «Yo soy así» |
-| 52 | H3 | Quien |
-| 64 | H3 | No tengo suerte |
-| 71 | H3 | «Lo he intentado... pero en vano» |
-| 80 | H3 | Querer mucho |
-| 89 | H3 | ¡Fuera los Alpes! |
-| 95 | H3 | Supo querer |
-| 109 | H3 | Los trece de la fama |
-| 124 | H3 | El peligro del éxito |
-| 134 | H3 | El demonio del dinero |
-| 144 | H3 | ¿Cómo se cazan los monos? |
-| 151 | H3 | ¿Quién es el más rico? |
-| 159 | H3 | La |
-| 167 | H3 | Trabajar, no aparentar |
-| 179 | H3 | La |
-| 197 | H3 | El |
-| 201 | H3 | El caracol y la liebre |
-| 225 | H3 | Educación de la voluntad |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo II Obstáculos en la formación del carácter |
+| H3 | La mala hierba |
+| H3 | El combate del alma |
+| H3 | Y ¿sin sacrificio? |
+| H3 | «Yo soy así» |
+| H3 | Quien |
+| H3 | No tengo suerte |
+| H3 | «Lo he intentado... pero en vano» |
+| H3 | Querer mucho |
+| H3 | ¡Fuera los Alpes! |
+| H3 | Supo querer |
+| H3 | Los trece de la fama |
+| H3 | El peligro del éxito |
+| H3 | El demonio del dinero |
+| H3 | ¿Cómo se cazan los monos? |
+| H3 | ¿Quién es el más rico? |
+| H3 | La |
+| H3 | Trabajar, no aparentar |
+| H3 | La |
+| H3 | El |
+| H3 | El caracol y la liebre |
+| H3 | Educación de la voluntad |

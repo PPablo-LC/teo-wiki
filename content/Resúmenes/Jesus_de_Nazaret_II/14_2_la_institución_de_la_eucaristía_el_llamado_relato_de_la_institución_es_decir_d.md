@@ -28,6 +28,6 @@ Algunos exegetas (Pesch, Lohfink, Wilckens) admiten una evolución en dos etapas
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. LA INSTITUCIÓN DE LA EUCARISTÍA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. LA INSTITUCIÓN DE LA EUCARISTÍA |

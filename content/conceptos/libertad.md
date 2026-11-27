@@ -112,9 +112,9 @@ Esta libertad interior dispone a recibir la gracia: «La alegría es a menudo an
 
 Dietrich von Hildebrand («Minds: Technology & Its Dangers») y Fr. Anselm Ramelow, OP («AI as a Challenge to Human Freedom») abordan la libertad humana en el contexto de la inteligencia artificial.
 
-**Libertad como conformación a la voluntad de Dios (von Hildebrand):** El hombre tiene «una concepción errónea de la libertad. En vez de comprender la libertad como la gran capacidad de conformarse consciente y libremente con la voluntad de Dios, cree que la libertad implica una soberanía arbitraria en la que el hombre puede seguir sus caprichos». Esta actitud de soberanía arbitraria es fomentada por el progreso tecnológico, que nos lleva a creer que podemos controlar cada vez más esferas de la vida. Es «la vieja tentación de Satanás: *Eritis sicut Dei*» [EAC-19, 11_minds.md, L77-83].
+**Libertad como conformación a la voluntad de Dios (von Hildebrand):** El hombre tiene «una concepción errónea de la libertad. En vez de comprender la libertad como la gran capacidad de conformarse consciente y libremente con la voluntad de Dios, cree que la libertad implica una soberanía arbitraria en la que el hombre puede seguir sus caprichos». Esta actitud de soberanía arbitraria es fomentada por el progreso tecnológico, que nos lleva a creer que podemos controlar cada vez más esferas de la vida. Es «la vieja tentación de Satanás: *Eritis sicut Dei*» [EAC-19, 11_minds.md].
 
-**La libertad y la sabiduría, no el capricho (Ramelow):** «La libertad tiene que ver con la sabiduría, no con el capricho; es racional y, por esa razón, predecible. La virtud es seguir el bien moral conocido racionalmente de manera consistente, no caprichosamente. Esta consistencia no nos priva de libertad; más bien, la incrementa». Los algoritmos que predicen nuestras elecciones no distinguen entre regularidades provenientes de inclinaciones depravadas y aquellas resultado de la sabiduría y la virtud; pero para nosotros, esa distinción es crucial [EAC-19, 15_feature_ramelow.md, L37-45].
+**La libertad y la sabiduría, no el capricho (Ramelow):** «La libertad tiene que ver con la sabiduría, no con el capricho; es racional y, por esa razón, predecible. La virtud es seguir el bien moral conocido racionalmente de manera consistente, no caprichosamente. Esta consistencia no nos priva de libertad; más bien, la incrementa». Los algoritmos que predicen nuestras elecciones no distinguen entre regularidades provenientes de inclinaciones depravadas y aquellas resultado de la sabiduría y la virtud; pero para nosotros, esa distinción es crucial [EAC-19, 15_feature_ramelow.md].
 
 ### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
 
@@ -204,45 +204,53 @@ primer lugar dos libertades que el lenguaje corriente confunde: «there are
 two kinds of freedom; a freedom *from* something, and a freedom *for*
 something; an external freedom from restraints, and an internal freedom of
 perfection; a freedom to choose evil and a freedom to possess the good»
-(CJC, cap. 57, L5). El hombre moderno no quiere la segunda porque implica
+(CJC, cap. 57). El hombre moderno no quiere la segunda porque implica
 responsabilidad y, por tanto, la carga de responder «What is the purpose of
 your life?»; de ahí el éxito de las teorías que la niegan —el marxismo, que
 destruye la libertad por la determinación histórica; el freudismo, que la
 disuelve en el subconsciente; el totalitarismo, que la ahoga en la totalidad—
-(cap. 57, L7).
+(cap. 57).
 
 De esa distinción se sigue una definición que corrige la noción de licencia:
 «Freedom means not the right to do what we *please*, but the right to do what
 we *should* in order to attain the highest and noblest ends of our nature»
-(cap. 53, L41). El ejemplo es el aviador, que no es libre despreciando la ley
+(cap. 53). El ejemplo es el aviador, que no es libre despreciando la ley
 de la gravedad sino obedeciéndola para vencerla y volar: «Liberty, then, is a
-means, not an end; not a city, but a bridge» (L43). Por eso el uso arbitrario
+means, not an end; not a city, but a bridge». Por eso el uso arbitrario
 de la libertad no la amplía sino que la pierde: «Boundless liberty is
 boundless tyranny», y quien se hace esclavo de sus elecciones confirma la
 sentencia del Señor: «Whosoever committeth sin is the servant of sin» (Jn
-8,34; cap. 57, L31-33).
+8,34; cap. 57).
 
 La libertad se prueba en la Cruz. Ante el desafío «Come down from the cross,
 and we will believe» (Mt 27,42), Cristo «refused to do the human thing… He
 did the divine thing, and stayed there! By so doing, He kept His soul His
-own» (cap. 53, L23). La entrega del espíritu no fue una vida que se apaga
+own» (cap. 53). La entrega del espíritu no fue una vida que se apaga
 sino un acto: «No one was taking His life away. He was laying it down of
-Himself» (cap. 52, L39). La conclusión es la tesis más original de la fuente:
+Himself» (cap. 52). La conclusión es la tesis más original de la fuente:
 «Freedom is ours to give away; we are free to choose our servitudes»
-(cap. 57, L45), de modo que entregarse al Amor perfecto no es perder la
-libertad sino poseerla: «to serve Him is to reign» (L47).
+(cap. 57), de modo que entregarse al Amor perfecto no es perder la
+libertad sino poseerla: «to serve Him is to reign».
 
 ### Según *Life Is Worth Living* (LIWL)
 
-Sheen no sistematiza la libertad, pero la trata en cuatro lugares complementarios. El primero es el **diagnóstico cultural**: la negación de la culpa personal vuelve al hombre disponible para la servidumbre. Comentando a Dostoievski —«The time will come when men will say there is no guilt, there is no sin, there is no crime; there is only hunger. Men will come crawling to the feet of a dictator and say, “Take our freedom. Give us bread”»—, concluye: «The denial of personal guilt makes men ready to surrender their liberty» (39, L55). La libertad se pierde antes por dentro que por fuera: primero se renuncia a la responsabilidad y luego se entrega el poder a quien la asuma.
+Sheen no sistematiza la libertad, pero la trata en cuatro lugares complementarios. El primero es el **diagnóstico cultural**: la negación de la culpa personal vuelve al hombre disponible para la servidumbre. Comentando a Dostoievski —«The time will come when men will say there is no guilt, there is no sin, there is no crime; there is only hunger. Men will come crawling to the feet of a dictator and say, “Take our freedom. Give us bread”»—, concluye: «The denial of personal guilt makes men ready to surrender their liberty» (39). La libertad se pierde antes por dentro que por fuera: primero se renuncia a la responsabilidad y luego se entrega el poder a quien la asuma.
 
-El segundo es su **análisis de las garantías**: la libertad necesita dos soportes, uno económico y otro espiritual. El económico es la propiedad privada —«something outside of himself which he can call his own»—; el espiritual, el alma, que hace al hombre independiente del tirano, y la religión, que se la entrega en posesión interior (41, L33; véase [[comunismo]]). Quien suprime ambos puede esclavizar sin resistencia.
+El segundo es su **análisis de las garantías**: la libertad necesita dos soportes, uno económico y otro espiritual. El económico es la propiedad privada —«something outside of himself which he can call his own»—; el espiritual, el alma, que hace al hombre independiente del tirano, y la religión, que se la entrega en posesión interior (§41; véase [[comunismo]]). Quien suprime ambos puede esclavizar sin resistencia.
 
-El tercero es la **relación entre gracia y libertad**, formulada con una imagen que resume el respeto divino: «God forces Himself on no one; He breaks down no doors» (18, L65). Dios no entró en la humanidad sin preguntar: envió un ángel a consultar a una Mujer como representante del género humano —«Will you freely give me a human nature?»— y la Encarnación se realizó por el acto libre de María (18, L65). La gracia no sustituye la libertad ni la violenta; la supone.
+El tercero es la **relación entre gracia y libertad**, formulada con una imagen que resume el respeto divino: «God forces Himself on no one; He breaks down no doors» (18). Dios no entró en la humanidad sin preguntar: envió un ángel a consultar a una Mujer como representante del género humano —«Will you freely give me a human nature?»— y la Encarnación se realizó por el acto libre de María (18). La gracia no sustituye la libertad ni la violenta; la supone.
 
-El cuarto es la **dimensión política de la responsabilidad familiar**: cuando los padres ceden su autoridad, el Estado ocupa el vacío, y el poder estatal crece en proporción a la quiebra de la autoridad doméstica. De ahí su tesis: «Mothers, more than politicians, are the preservers of freedom and democracy» (44, L23). La libertad civil se apoya en virtudes domésticas, no solo en instituciones.
+El cuarto es la **dimensión política de la responsabilidad familiar**: cuando los padres ceden su autoridad, el Estado ocupa el vacío, y el poder estatal crece en proporción a la quiebra de la autoridad doméstica. De ahí su tesis: «Mothers, more than politicians, are the preservers of freedom and democracy» (44). La libertad civil se apoya en virtudes domésticas, no solo en instituciones.
 
-[LIWL, 18_something_higher L65; 39_man_the_captain_of_his_destiny L55; 41_the_philosophy_of_communism L33; 44_women_who_do_not_fail L13]
+(LIWL, 18_something_higher 39_man_the_captain_of_his_destiny 41_the_philosophy_of_communism 44_women_who_do_not_fail)
+
+### Según *Life of Christ* (LCh)
+
+Sheen ordena el tema en torno a la respuesta sobre el tributo y a la discusión joánica posterior, y lo resume en tres tesis que Cristo aclaró «in three separate incidents» (cap. 24): la libertad política respecto del César no es lo primero; la libertad verdadera es espiritual y consiste en la liberación del pecado; y para adquirirla para todos, judíos y gentiles, se sometería voluntariamente como rescate por el pecado. El punto de partida es histórico: como entró en un país esclavizado, era de esperar que se identificara la libertad con la liberación del yugo de un conquistador; si hubiera sido un reformador ético, ésa habría sido la libertad que debía dar, pero siendo Salvador, «spiritual freedom was more important than political freedom».
+
+La argumentación del capítulo 24 tiene dos apoyos. El primero es la moneda: la cuestión básica no era «Dios o el César» sino «Dios y el César», de modo que el deber cívico se cumple en su esfera inferior, sin que ello exima del deber hacia Dios. El segundo es Jn 8,32-36. La libertad se compara con el conocimiento de una máquina: «a man is most free to run a machine when he knows the truth about it», y por eso la verdad que libera es una Persona. La tesis antropológica es fuerte: «The human will cannot be assaulted from without; it can only be betrayed from within», de donde se sigue que «the very freedom which the sinner supposedly exercises in his self-indulgence is only another proof that he is ruled by the tyrant». El contraste entre el esclavo y el hijo no es una metáfora jurídica sino la estructura de la filiación: el libertador mismo debía ser libre, porque «the doors of the prison of evil can be unlocked only from the outside and by One Who Himself is not a prisoner». De ahí la fórmula que cierra esa sección: «If sin be slavery, then sinlessness is perfect freedom»; Cristo «was not a Teacher discoursing about liberty; He was a liberator—and from a greater thraldom than Rome».
+
+Queda el precio. El episodio del tributo del templo (Mt 17,23-25) muestra que la inmunidad no hace libre al hombre: «Exemptions from these duties do not necessarily make men free. The first freedom, which is immunity from evil, will be purchased by One Who made Himself a slave». La libertad cristiana no es, por tanto, un estatus que se posee, sino un rescate que se recibe; y su modelo es el que renuncia a su derecho para no escandalizar: «It is not a mark of greatness always to affirm one's right, but often to suffer an indignity».
 
 ## Relaciones doctrinales
 

@@ -16,7 +16,7 @@ Las *Cartas a los Religiosos* son la segunda parte de *Cristo y los Fariseos*: c
 
 ## Desarrollo doctrinal
 
-El motivo inmediato es el mandato de las Constituciones (X, 9) de «crebra communicatio rerumque mutua notitia», el trato epistolar frecuente y sincero. Castellani se queja de que un Rector haya parado sus cartas, invoca el canon 849, n. 6 del Epítome y se pone bajo la protección de san Pedro Canisio, «patrón de los periodistas» (CyF, carta I L7-13).
+El motivo inmediato es el mandato de las Constituciones (X, 9) de «crebra communicatio rerumque mutua notitia», el trato epistolar frecuente y sincero. Castellani se queja de que un Rector haya parado sus cartas, invoca el canon 849, n. 6 del Epítome y se pone bajo la protección de san Pedro Canisio, «patrón de los periodistas» (CyF, carta I).
 
 Las cuatro cartas desarrollan un mismo criterio: los votos no son mecanismos sino medios de perfección, y su práctica ha de juzgarse por la caridad y la razón:
 

@@ -50,7 +50,7 @@ Cualquier examen que se haga sobre la vida de oración debe tener en cuenta la j
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA VIDA LITÚRGICA Y DE ORACIÓN |
-| 3 | H3 | Introducción |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA VIDA LITÚRGICA Y DE ORACIÓN |
+| H3 | Introducción |

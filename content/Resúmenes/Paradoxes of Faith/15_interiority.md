@@ -40,8 +40,8 @@ Los grandes místicos comparten el privilegio de los clásicos: su enseñanza m�
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Interiority |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Interiority |
 
 ## Secciones incluidas

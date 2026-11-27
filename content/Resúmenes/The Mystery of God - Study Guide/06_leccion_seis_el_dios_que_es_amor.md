@@ -53,4 +53,4 @@ Las preguntas piden explicar el dogma trinitario, identificar herejías, compara
 
 ## Fuente original
 
-- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/06_lesson_six_the_god_who_is_love.md` (líneas 1-138)
+- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/06_lesson_six_the_god_who_is_love.md`

@@ -43,11 +43,11 @@ El capítulo se abre con dos textos de fondo: el cuidado de los ancianos y enfer
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 12. Enfermos, ancianos y difuntos |
-| 7 | H5 | Los enfermos y ancianos |
-| 17 | H5 | Los difuntos |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Capítulo 12. Enfermos, ancianos y difuntos |
+| H5 | Los enfermos y ancianos |
+| H5 | Los difuntos |
 
 ## Secciones incluidas
 

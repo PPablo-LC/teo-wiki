@@ -54,7 +54,7 @@ Dr. Edward Feser es profesor de Filosofía en Pasadena City College (California)
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Illusion of Artificial Intelligence — Dr. Edward Feser |
-| 3 | H2 | SPECIAL FEATURE by DR. EDWARD FESER |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Illusion of Artificial Intelligence — Dr. Edward Feser |
+| H2 | SPECIAL FEATURE by DR. EDWARD FESER |

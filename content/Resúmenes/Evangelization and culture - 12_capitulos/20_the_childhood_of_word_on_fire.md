@@ -71,4 +71,4 @@ Sección "Spotlight on Word on Fire" que reúne **20 micro-testimonios** de miem
 
 ## Referencia original
 
-📄 Fuente original: `20_spotlight_wof.md` (línea 1–109)
+📄 Fuente original: `20_spotlight_wof.md`

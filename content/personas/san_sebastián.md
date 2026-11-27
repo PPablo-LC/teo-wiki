@@ -25,7 +25,7 @@ Su martirio final, ordenado por Diocleciano tras ser descubierto como cristiano,
 
 ### Según Evangelization & Culture (EAC-20)
 
-La fuente destaca la conexión entre la resistencia de los atletas modernos y la perseverancia de los mártires. Se menciona cómo el quarterback Philip Rivers eligió la festividad de San Sebastián (20 de enero) para anunciar su retiro, recordando un partido jugado sin ligamento cruzado anterior, y lleva una medalla del santo. La narrativa de San Sebastián incluye su exhortación a los gemelos Márcos y Marceliano: «Valientes guerreros de Cristo... no con armas de acero, sino con la invencible espada de la fe» [EAC-20, 05_lives, L3-28]. El artículo concluye que momentos como los de Philip Rivers, Kerri Strug o Curt Schilling nos recuerdan, quizás subconscientemente, la perseverancia de Jesús camino a la Cruz [EAC-20, 05_lives, L33-41].
+La fuente destaca la conexión entre la resistencia de los atletas modernos y la perseverancia de los mártires. Se menciona cómo el quarterback Philip Rivers eligió la festividad de San Sebastián (20 de enero) para anunciar su retiro, recordando un partido jugado sin ligamento cruzado anterior, y lleva una medalla del santo. La narrativa de San Sebastián incluye su exhortación a los gemelos Márcos y Marceliano: «Valientes guerreros de Cristo... no con armas de acero, sino con la invencible espada de la fe» [EAC-20, 05_lives]. El artículo concluye que momentos como los de Philip Rivers, Kerri Strug o Curt Schilling nos recuerdan, quizás subconscientemente, la perseverancia de Jesús camino a la Cruz [EAC-20, 05_lives].
 
 ## Distinciones importantes
 

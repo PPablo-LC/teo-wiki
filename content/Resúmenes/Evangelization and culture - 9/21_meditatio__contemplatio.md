@@ -32,9 +32,9 @@ Sección de cierre del número con ocho preguntas para la meditación y discusi�
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Meditatio & Contemplatio |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Meditatio & Contemplatio |
 
 ## Secciones incluidas
 

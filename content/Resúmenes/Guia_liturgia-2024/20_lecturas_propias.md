@@ -26,6 +26,6 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Lecturas propias |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Lecturas propias |

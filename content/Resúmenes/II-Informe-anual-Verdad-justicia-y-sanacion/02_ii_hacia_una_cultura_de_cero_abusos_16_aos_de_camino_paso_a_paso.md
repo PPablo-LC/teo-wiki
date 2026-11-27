@@ -42,4 +42,4 @@ Contextualizar los avances de 2021 dentro de la trayectoria histórica de conver
 
 ## Referencia original
 
-📄 Fuente original: `03_hacia_cultura_cero_abusos.md` (línea 1–3)
+📄 Fuente original: `03_hacia_cultura_cero_abusos.md`

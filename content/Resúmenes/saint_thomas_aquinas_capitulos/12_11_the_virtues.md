@@ -54,6 +54,6 @@ tags: ["resumen", "saint thomas aquinas capitulos"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 11. The Virtues |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 11. The Virtues |

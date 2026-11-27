@@ -38,7 +38,7 @@ Marcador del capítulo siguiente: **Valor pedagógico del culto de los santos**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | VALOR PEDAGÓGICO DE LA SANTA COMUNIÓN |
-| 54 | H3 | Capítulo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | VALOR PEDAGÓGICO DE LA SANTA COMUNIÓN |
+| H3 | Capítulo |

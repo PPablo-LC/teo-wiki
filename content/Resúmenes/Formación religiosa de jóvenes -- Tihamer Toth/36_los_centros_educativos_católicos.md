@@ -39,6 +39,6 @@ Se propone que la educación en la fe en las instituciones católicas sea integr
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LOS CENTROS EDUCATIVOS CATÓLICOS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LOS CENTROS EDUCATIVOS CATÓLICOS |

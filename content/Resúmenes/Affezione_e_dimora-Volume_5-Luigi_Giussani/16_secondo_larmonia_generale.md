@@ -79,16 +79,16 @@ La joven resume la vida entre dos extremos: la conciencia de que no desea nada y
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SECONDO L’ARMONÍA GENERALE |
-| 53 | Blockquote | Il sacrificio non è obiezione al realizzarsi del cuore |
-| 75 | Blockquote | La condizione per la realizzazione di sé |
-| 85 | Blockquote | Chiamati a farne esperienza |
-| 105 | Blockquote | In cosa consiste il sacrificio |
-| 125 | Blockquote | Per la libertà |
-| 135 | Blockquote | Il senso del Mistero |
-| 159 | Blockquote | La debolezza nel riconoscere il vero |
-| 171 | Blockquote | Domanda e compagnia |
-| 201 | Blockquote | Cristo è morto per liberarci dal fascino dell'apparenza |
-| 243 | Blockquote | Obbedienza e regola |
+| Nivel | Sección |
+|-------|---------|
+| H1 | SECONDO L’ARMONÍA GENERALE |
+| Blockquote | Il sacrificio non è obiezione al realizzarsi del cuore |
+| Blockquote | La condizione per la realizzazione di sé |
+| Blockquote | Chiamati a farne esperienza |
+| Blockquote | In cosa consiste il sacrificio |
+| Blockquote | Per la libertà |
+| Blockquote | Il senso del Mistero |
+| Blockquote | La debolezza nel riconoscere il vero |
+| Blockquote | Domanda e compagnia |
+| Blockquote | Cristo è morto per liberarci dal fascino dell'apparenza |
+| Blockquote | Obbedienza e regola |

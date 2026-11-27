@@ -38,6 +38,6 @@ La vida fraterna en comunidad es una expresión de la caridad. Su vivencia no re
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 1) Vivencia de la vida fraterna en la Legión de Cristo |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 1) Vivencia de la vida fraterna en la Legión de Cristo |

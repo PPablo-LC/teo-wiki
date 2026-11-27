@@ -16,7 +16,7 @@ El falso pastor es la figura bíblica de quien ocupa el lugar de pastor sin ejer
 
 ## Desarrollo doctrinal
 
-El capítulo VII de *Cristo y los Fariseos* cierra el elenco con la sátira de los «licenciados» de Cristo: la objeción farisea es que Jesús no tiene títulos, no ha estudiado y no pertenece a la «Societas»; la respuesta es que el pastor verdadero se reconoce por la voz de las ovejas y por dar la vida, no por el carné (CyF, cap. VII L182-232). El capítulo X, «Como ovejas sin pastor», narra la experiencia del predicante libre entre segadores agotados a quienes «no se les da de comer» y a los que el sacerdote grita desde lejos; el fariseísmo se reconoce allí en el desinterés por la gente concreta (CyF, cap. X).
+El capítulo VII de *Cristo y los Fariseos* cierra el elenco con la sátira de los «licenciados» de Cristo: la objeción farisea es que Jesús no tiene títulos, no ha estudiado y no pertenece a la «Societas»; la respuesta es que el pastor verdadero se reconoce por la voz de las ovejas y por dar la vida, no por el carné (CyF, cap. VII). El capítulo X, «Como ovejas sin pastor», narra la experiencia del predicante libre entre segadores agotados a quienes «no se les da de comer» y a los que el sacerdote grita desde lejos; el fariseísmo se reconoce allí en el desinterés por la gente concreta (CyF, cap. X).
 
 La sátira del capítulo VI muestra al pastor que se dedica a la procesión y al culto exterior mientras el herido queda en el camino ([[buen_samaritano]], [[exterioridad_religiosa]]). En la carta sobre la obediencia, Castellani describe el mecanismo inverso: el superior que abusa del mandato convierte la obediencia en «una máquina monstruosa que parece humana pero puede ser ocupada de hecho por el demonio», y recuerda a Aristóteles —la sociedad cesa si se deseca la *concordia*— y a san Juan: «Omnis, qui odit fratrem, homicida est» (1 Jn 3,15; CyF, carta I). El [[abuso_de_autoridad]] es, en esta clave, la forma institucional del falso pastor.
 
@@ -49,5 +49,5 @@ Se opone a [[cristo]] como Buen Pastor y a [[caridad_pastoral]]; se relaciona co
 
 ## Referencias
 
-- CyF, `08_vi_la_defensa.md` L148-290; `09_vii_elenchus_contra_pharisaeos.md` L182-232; `12_x_como_ovejas_sin_pastor.md`; `21_sobre_la_obediencia.md` L39-69.
+- CyF, `08_vi_la_defensa.md`; `09_vii_elenchus_contra_pharisaeos.md`; `12_x_como_ovejas_sin_pastor.md`; `21_sobre_la_obediencia.md`.
 - Jn 10,11-13; Mt 7,15; Mt 23,14; Ez 34; CEC 1550-1555, 2237; LG 20, 27, 31; OT 4-5.

@@ -21,9 +21,9 @@ Página de masthead del número: enumera al equipo de Word on Fire y del Word on
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Word on Fire Institute Team |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Word on Fire Institute Team |
 
 ## Secciones incluidas
 

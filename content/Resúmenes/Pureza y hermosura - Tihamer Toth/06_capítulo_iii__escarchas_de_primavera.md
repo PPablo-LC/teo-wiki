@@ -68,17 +68,17 @@ Abril 1912: Titanic, lujoso, insumergible, quilla: «Este no lo hunde ni Dios».
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO III — ESCARCHAS DE PRIMAVERA |
-| 42 | H2 | I.—Por la pendiente |
-| 68 | H2 | II.—Mariposas |
-| 102 | H2 | III.—Debate |
-| 108 | H2 | IV.—Destrucción del templo |
-| 134 | H2 | V.—Rosales y orugas |
-| 150 | H2 | VI.—Hacia la ruina |
-| 182 | H2 | VII.—La ley de la gravedad |
-| 194 | H2 | VIII.—El naufragio |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CAPÍTULO III — ESCARCHAS DE PRIMAVERA |
+| H2 | I.—Por la pendiente |
+| H2 | II.—Mariposas |
+| H2 | III.—Debate |
+| H2 | IV.—Destrucción del templo |
+| H2 | V.—Rosales y orugas |
+| H2 | VI.—Hacia la ruina |
+| H2 | VII.—La ley de la gravedad |
+| H2 | VIII.—El naufragio |
 
 ## Secciones incluidas
 

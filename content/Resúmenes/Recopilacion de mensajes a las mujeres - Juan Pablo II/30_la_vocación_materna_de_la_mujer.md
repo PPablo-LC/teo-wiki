@@ -38,8 +38,8 @@ María, invocada bajo el título de Santísima Virgen del Carmen, hizo plenament
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | La vocación materna de la mujer |
+| Nivel | Sección |
+|-------|---------|
+| H2 | La vocación materna de la mujer |
 
 ## Secciones incluidas

@@ -192,48 +192,48 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SEGUNDA PARTE |
-| 3 | H2 | SEGUNDA SECCIÓN |
-| 4 | H4 | LOS SIETE SACRAMENTOS DE LA IGLESIA |
-| 6 | H3 | CAPÍTULO SEGUNDO |
-| 8 | H4 | LOS SACRAMENTOS DE CURACIÓN |
-| 14 | H4 | ARTÍCULO 4 |
-| 16 | H4 | EL SACRAMENTO DE LA PENITENCIA Y DE LA RECONCILIACIÓN |
-| 20 | H5 | I. El nombre de este sacramento |
-| 32 | H5 | II. Por qué un sacramento de la Reconciliación después del Bautismo |
-| 38 | H5 | III. La conversión de los bautizados |
-| 48 | H5 | IV. La penitencia interior |
-| 60 | H5 | V. Diversas formas de penitencia en la vida cristiana |
-| 74 | H5 | VI. El sacramento de la Penitencia y de la Reconciliación |
-| 78 | H5 | Sólo Dios perdona el pecado |
-| 84 | H5 | Reconciliación con la Iglesia |
-| 92 | H5 | El sacramento del perdón |
-| 104 | H5 | VII. Los actos del penitente |
-| 108 | H5 | La contrición |
-| 118 | H5 | La confesión de los pecados |
-| 132 | H5 | La satisfacción |
-| 140 | H5 | VIII. El ministro de este sacramento |
-| 156 | H5 | IX. Los efectos de este sacramento |
-| 166 | H5 | X. Las indulgencias |
-| 170 | H5 | Qué son las indulgencias |
-| 176 | H5 | Las penas del pecado |
-| 182 | H5 | En la comunión de los santos |
-| 192 | H5 | La indulgencia de Dios se obtiene por medio de la Iglesia |
-| 198 | H5 | XI. La celebración del sacramento de la Penitencia |
-| 210 | H5 | Resumen |
-| 252 | H4 | ARTÍCULO 5 |
-| 254 | H4 | LA UNCIÓN DE LOS ENFERMOS |
-| 258 | H5 | I. Fundamentos en la economía de la salvación |
-| 260 | H5 | La enfermedad en la vida humana |
-| 266 | H5 | El enfermo ante Dios |
-| 270 | H5 | Cristo, médico |
-| 290 | H5 | Un sacramento de los enfermos |
-| 302 | H5 | II. Quién recibe y quién administra este sacramento |
-| 304 | H5 | En caso de grave enfermedad… |
-| 314 | H5 | III. La celebración del sacramento |
-| 324 | H5 | IV. Efectos de la celebración de este sacramento |
-| 334 | H5 | V. El viático, último sacramento del cristiano |
-| 340 | H5 | Resumen |
-| 369 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | SEGUNDA PARTE |
+| H2 | SEGUNDA SECCIÓN |
+| H4 | LOS SIETE SACRAMENTOS DE LA IGLESIA |
+| H3 | CAPÍTULO SEGUNDO |
+| H4 | LOS SACRAMENTOS DE CURACIÓN |
+| H4 | ARTÍCULO 4 |
+| H4 | EL SACRAMENTO DE LA PENITENCIA Y DE LA RECONCILIACIÓN |
+| H5 | I. El nombre de este sacramento |
+| H5 | II. Por qué un sacramento de la Reconciliación después del Bautismo |
+| H5 | III. La conversión de los bautizados |
+| H5 | IV. La penitencia interior |
+| H5 | V. Diversas formas de penitencia en la vida cristiana |
+| H5 | VI. El sacramento de la Penitencia y de la Reconciliación |
+| H5 | Sólo Dios perdona el pecado |
+| H5 | Reconciliación con la Iglesia |
+| H5 | El sacramento del perdón |
+| H5 | VII. Los actos del penitente |
+| H5 | La contrición |
+| H5 | La confesión de los pecados |
+| H5 | La satisfacción |
+| H5 | VIII. El ministro de este sacramento |
+| H5 | IX. Los efectos de este sacramento |
+| H5 | X. Las indulgencias |
+| H5 | Qué son las indulgencias |
+| H5 | Las penas del pecado |
+| H5 | En la comunión de los santos |
+| H5 | La indulgencia de Dios se obtiene por medio de la Iglesia |
+| H5 | XI. La celebración del sacramento de la Penitencia |
+| H5 | Resumen |
+| H4 | ARTÍCULO 5 |
+| H4 | LA UNCIÓN DE LOS ENFERMOS |
+| H5 | I. Fundamentos en la economía de la salvación |
+| H5 | La enfermedad en la vida humana |
+| H5 | El enfermo ante Dios |
+| H5 | Cristo, médico |
+| H5 | Un sacramento de los enfermos |
+| H5 | II. Quién recibe y quién administra este sacramento |
+| H5 | En caso de grave enfermedad… |
+| H5 | III. La celebración del sacramento |
+| H5 | IV. Efectos de la celebración de este sacramento |
+| H5 | V. El viático, último sacramento del cristiano |
+| H5 | Resumen |
+| H3 | Referencias |

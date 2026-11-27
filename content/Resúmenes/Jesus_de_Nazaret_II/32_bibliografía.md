@@ -24,6 +24,6 @@ Sigue la bibliografía por capítulos, con las obras citadas abreviadamente a lo
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | BIBLIOGRAFÍA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | BIBLIOGRAFÍA |

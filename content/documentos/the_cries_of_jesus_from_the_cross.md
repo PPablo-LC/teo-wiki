@@ -167,18 +167,18 @@ de Cristo: «Our Lord spoke seven times *from* the Cross — and these are calle
 His seven last words». La segunda son las que le dirigieron quienes estaban
 al pie: «But those who were on Calvary's Hill that afternoon addressed seven
 words to Him on the Cross, thus revealing the seven different impacts the
-Cross makes on souls» (`08_a_word_to_the_humanists.md`, L5). Las de la
+Cross makes on souls» (`08_a_word_to_the_humanists.md`). Las de la
 columna 6 no son palabras de Cristo ni respuestas puntuales a cada desafío:
 «The Seven Words that Our Lord spoke *from* the Cross were not specific
 answers to specific challenges, but they do reveal lessons applicable to the
-challenge» (L7). De ahí que el volumen pueda leerse como siete meditaciones
+challenge». De ahí que el volumen pueda leerse como siete meditaciones
 del Crucificado y, a la vez, como siete retratos de las actitudes humanas
 ante Él (humanistas, pecadores, egoístas, intelectuales…).
 
 **Dolor y sacrificio.** El dolor no es en sí mismo virtud: puede endurecer o
 salvar. La diferencia la establece el amor: «Pain is sacrifice without love.
-Sacrifice is pain with love» (`13_pain.md`, L56). Por eso el mismo dolor que
-«can be the death of our soul» puede ser «its life» (L36), y por eso el buen
+Sacrifice is pain with love» (`13_pain.md`). Por eso el mismo dolor que
+«can be the death of our soul» puede ser «its life», y por eso el buen
 ladrón pasa de la blasfemia a la santidad cuando entiende su cruz como
 penitencia y no como castigo.
 
@@ -187,9 +187,9 @@ exageraciones: «The first is the sin of despair, which exaggerates divine
 justice; the second is the sin of presumption, which exaggerates divine
 mercy. Somewhere there is a golden mean, where “justice and mercy kiss,” as
 the psalmist puts it (see Ps. 84:11), and that is the virtue of hope»
-(`15_hope.md`, L3). La distinción se completa con la que separa la virtud de
+(`15_hope.md`). La distinción se completa con la que separa la virtud de
 la emoción: «The *virtue* of hope is quite different from the *emotion* of
-hope» (L5); la emoción es deseo soñoliento de salvarse sin esfuerzo, la
+hope»; la emoción es deseo soñoliento de salvarse sin esfuerzo, la
 virtud es disposición infusa de la voluntad.
 
 **Libertad *de* y libertad *para*.** El séptimo capítulo distingue dos
@@ -197,21 +197,21 @@ libertades que el lenguaje corriente confunde: «there are two kinds of
 freedom; a freedom *from* something, and a freedom *for* something; an
 external freedom from restraints, and an internal freedom of perfection; a
 freedom to choose evil and a freedom to possess the good»
-(`57_the_purpose_of_life.md`, L5). La libertad no es ausencia de vínculo
+(`57_the_purpose_of_life.md`). La libertad no es ausencia de vínculo
 sino capacidad de alcanzar el fin: «Freedom means not the right to do what
 we *please*, but the right to do what we *should* in order to attain the
-highest and noblest ends of our nature» (`53_eternal_freedom.md`, L41). De
+highest and noblest ends of our nature» (`53_eternal_freedom.md`). De
 ahí que la palabra final de Cristo sea un acto de libertad —«No one was
 taking His life away. He was laying it down of Himself»
-(`52_blessed_are_they_that_mourn.md`, L39)— y no una derrota.
+(`52_blessed_are_they_that_mourn.md`)— y no una derrota.
 
 **Avaricia: el amor, no la suma.** La fuente define el vicio con precisión
 técnica y descarta la lectura meramente sociológica: «It is not the love of
 an excessive sum that makes it wrong, but an inordinate love of any sum»
-(`54_covetousness.md`, L5). Por eso el pobre puede ser avaro y el rico no
+(`54_covetousness.md`). Por eso el pobre puede ser avaro y el rico no
 serlo, y por eso la reparación de Cristo no consiste en un programa
 económico sino en el despojo total: «His Mother He gave to John; His body to
-the tomb; His blood to the earth; His garments to His executioners» (L49).
+the tomb; His blood to the earth; His garments to His executioners».
 
 ## Relaciones doctrinales
 
@@ -223,29 +223,29 @@ the tomb; His blood to the earth; His garments to His executioners» (L49).
 - **[[misericordia]].** La segunda palabra es la bienaventuranza practicada:
   «At the end of His public life, on the hill of Calvary, He practiced that
   beatitude as He addressed the thief: “This day you shall be with me in
-  paradise”» (`12_blessed_are_the_merciful.md`, L3). La fuente precisa el
+  paradise”» (`12_blessed_are_the_merciful.md`). La fuente precisa el
   sentido del término: «The very word *mercy* is derived in Latin from
-  *miserum cor*, a “sorrowful heart”» (L7), y lo aplica a los tres
+  *miserum cor*, a “sorrowful heart”», y lo aplica a los tres
   crucificados y a la ley de la medida.
 - **[[perdón]].** La primera palabra funda el perdón en la ignorancia y le
   quita todo límite: «This word from the Cross teaches us two lessons: (1)
   the reason for forgiving is ignorance; and (2) there are no limits to
-  forgiveness» (`06_anger.md`, L37). La fuente lo formula aún más fuerte:
+  forgiveness» (`06_anger.md`). La fuente lo formula aún más fuerte:
   «forgiveness has no limits; forgiveness is the surrender of all rights and
-  the denial of limits» (L75), con Mt 18,22 como prueba.
+  the denial of limits», con Mt 18,22 como prueba.
 - **[[libertad]].** La Séptima Palabra es leída como el acto libre por
 excelencia: «Laying hold of His spirit, for He was master of Himself, He
-sent it back again to His Father» (`53_eternal_freedom.md`, L27). La fuente
+sent it back again to His Father» (`53_eternal_freedom.md`). La fuente
 añade la tesis de que «Freedom is ours to give away; we are free to choose
-our servitudes» (`57_the_purpose_of_life.md`, L45), y su corolario: la
+our servitudes» (`57_the_purpose_of_life.md`), y su corolario: la
 libertad sin fin degenera en esclavitud, «Boundless liberty is boundless
-tyranny» (L31).
+tyranny».
 - **[[avaricia]]** y **[[pobreza]].** *Victory over Vice* ofrece la
 definición del vicio y su antídoto: «Simply because a man has a great
 fortune, it does not follow that he is a covetous man»
-(`54_covetousness.md`, L7), mientras que el desprendimiento de Cristo
+(`54_covetousness.md`), mientras que el desprendimiento de Cristo
 —«keeping only one thing for Himself that was not a thing — His spirit»
-(L55)— muestra la pobreza de espíritu como libertad para morir.
+— muestra la pobreza de espíritu como libertad para morir.
 
 ## Ver también
 

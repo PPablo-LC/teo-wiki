@@ -82,6 +82,6 @@ el hombre no pueda aceptar el sinsentido como respuesta última.
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC),
   `03_si_può_vivere_così_1995.md`, sección «Il presentimento del vero»
-  (líneas 17-67; cita en 37).
+  (cita en 37).
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

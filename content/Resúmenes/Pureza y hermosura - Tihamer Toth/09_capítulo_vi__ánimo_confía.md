@@ -148,41 +148,41 @@ Devoción sincera a la [[virgen_maría|Santísima Virgen María]] bajo el títul
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO VI — ¡ÁNIMO, CONFÍA! |
-| 26 | H3 | I.—¡Vida pura! ¡Alma pura! |
-| 42 | H3 | II.—Si no quieres, no hay pecado |
-| 76 | H3 | III.—Un brillante perenne |
-| 114 | H3 | IV.—El contagio de la impureza |
-| 162 | H3 | V.—Tus lecturas |
-| 176 | H3 | VI.—Libros |
-| 202 | H3 | VII.—Diarios y revistas |
-| 212 | H3 | VIII.—Cuadros |
-| 248 | H3 | IX.—Teatro, cine |
-| 280 | H3 | X.—Baile |
-| 304 | H3 | XI.—La verdadera dama |
-| 347 | H3 | XII.—Entre santa y santo |
-| 374 | H3 | XIII.—Tu novio |
-| 390 | H3 | XIV.—La limpieza exterior |
-| 408 | H3 | XV.—¡Muere y resurge! |
-| 432 | H3 | XVI.—Almas raquíticas |
-| 448 | H3 | XVII.—¡Robustece tu voluntad! |
-| 502 | H3 | XVIII.—La alegría del triunfo |
-| 538 | H3 | XIX.—En la tierra, mas no de la tierra |
-| 561 | H3 | XX.—La que no sabe mentir |
-| 577 | H3 | XXI.—¡Vigoriza tu cuerpo! |
-| 597 | H3 | XXII.—¡Soporta el dolor! |
-| 619 | H3 | XXIII.—Vida higiénica |
-| 670 | H3 | XXIV.—Elige bien tus vestidos |
-| 720 | H3 | XXV.—¡No estés ociosa! |
-| 736 | H3 | XXVI.—Algunos consejos médicos |
-| 777 | H3 | XXVII.—Un amigo paternal |
-| 793 | H3 | XXVIII.—Del Diario de una joven |
-| 899 | H3 | XXIX.—Junto a las fuentes de una vida nueva |
-| 931 | H3 | XXX.—¡Conmigo está el Señor! |
-| 1014 | H3 | XXXI.—«Voy.» |
-| 1054 | H3 | XXXII.—María es mi Madre |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CAPÍTULO VI — ¡ÁNIMO, CONFÍA! |
+| H3 | I.—¡Vida pura! ¡Alma pura! |
+| H3 | II.—Si no quieres, no hay pecado |
+| H3 | III.—Un brillante perenne |
+| H3 | IV.—El contagio de la impureza |
+| H3 | V.—Tus lecturas |
+| H3 | VI.—Libros |
+| H3 | VII.—Diarios y revistas |
+| H3 | VIII.—Cuadros |
+| H3 | IX.—Teatro, cine |
+| H3 | X.—Baile |
+| H3 | XI.—La verdadera dama |
+| H3 | XII.—Entre santa y santo |
+| H3 | XIII.—Tu novio |
+| H3 | XIV.—La limpieza exterior |
+| H3 | XV.—¡Muere y resurge! |
+| H3 | XVI.—Almas raquíticas |
+| H3 | XVII.—¡Robustece tu voluntad! |
+| H3 | XVIII.—La alegría del triunfo |
+| H3 | XIX.—En la tierra, mas no de la tierra |
+| H3 | XX.—La que no sabe mentir |
+| H3 | XXI.—¡Vigoriza tu cuerpo! |
+| H3 | XXII.—¡Soporta el dolor! |
+| H3 | XXIII.—Vida higiénica |
+| H3 | XXIV.—Elige bien tus vestidos |
+| H3 | XXV.—¡No estés ociosa! |
+| H3 | XXVI.—Algunos consejos médicos |
+| H3 | XXVII.—Un amigo paternal |
+| H3 | XXVIII.—Del Diario de una joven |
+| H3 | XXIX.—Junto a las fuentes de una vida nueva |
+| H3 | XXX.—¡Conmigo está el Señor! |
+| H3 | XXXI.—«Voy.» |
+| H3 | XXXII.—María es mi Madre |
 
 ## Secciones incluidas
 

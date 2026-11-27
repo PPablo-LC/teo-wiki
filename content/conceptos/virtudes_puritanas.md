@@ -12,15 +12,15 @@ tags: ["moral", "espiritualidad", "castidad", "carácter", "leonardo_castellani"
 
 ## Definición
 
-Las «virtudes puritanas» son, en la terminología de Castellani, apariencias de virtud que han perdido la caridad y la recta razón: la regla de san Ignacio invita a «distinguir las virtudes verdaderas de las falsas» y el autor aplica la distinción al pudor, la castidad y la severidad (CyF, carta III L25-39; [[gazmoñería]]).
+Las «virtudes puritanas» son, en la terminología de Castellani, apariencias de virtud que han perdido la caridad y la recta razón: la regla de san Ignacio invita a «distinguir las virtudes verdaderas de las falsas» y el autor aplica la distinción al pudor, la castidad y la severidad (CyF, carta III; [[gazmoñería]]).
 
 ## Desarrollo doctrinal
 
-La carta sobre la castidad aborda el tema con delicadeza, citando a san Jerónimo: «no se puede hablar del pudor sin ser algo impúdico». A continuación invoca a Max Scheler y su noción de «*die Priestermoral*», a Aristóteles (problema 29, sec. V) y al testimonio de un obispo inglés según el cual los jesuitas «lo pagan caro... con la neurosis». La crítica se dirige a una formación que produce «solterones de la gloria de Dios» (P. Lloberola) y «continencia sin caridad» (Hugo Wast) (CyF, carta III L69-87).
+La carta sobre la castidad aborda el tema con delicadeza, citando a san Jerónimo: «no se puede hablar del pudor sin ser algo impúdico». A continuación invoca a Max Scheler y su noción de «*die Priestermoral*», a Aristóteles (problema 29, sec. V) y al testimonio de un obispo inglés según el cual los jesuitas «lo pagan caro... con la neurosis». La crítica se dirige a una formación que produce «solterones de la gloria de Dios» (P. Lloberola) y «continencia sin caridad» (Hugo Wast) (CyF, carta III).
 
 En el capítulo XII, el contraste con Oscar Wilde hace visible la misma oposición: el artista que cree en el ídolo de la Belleza y el puritanismo que cree en el ídolo de la Moral. «El arte es juego de la inteligencia; el puritanismo es convención y podredumbre del corazón». El dandy cae en la trampa del «tonto» —Lord Queensberry, pero también Sócrates— y el puritano se cree a salvo mientras «toda experiencia es convertible por la gracia» (CyF, cap. XII; [[oscar_wilde]]). En el capítulo II, la gazmoñería aparece como «típico signo farisaico»: «esos santos arrojan una sombra de maldición sobre todo lo carnal, como si no hubieran nacido de madre; —lo cual no es señal de gran castidad, al contrario» ([[fariseísmo]]).
 
-La alternativa es la [[sublimación_de_los_afectos]]: la castidad religiosa no es represión que «pueriliza», sino integración de los afectos ordenados a la contemplación y a la caridad, conforme a la *Suma contra Gentes* III c. CXXXVI (Virginidad ordenada a la contemplación). El principio general es el de Chesterton: las «verdades locas» y las «virtudes locas» son dinamita cuando se separan de la discreción (CyF, carta I L41; [[obediencia_religiosa]]).
+La alternativa es la [[sublimación_de_los_afectos]]: la castidad religiosa no es represión que «pueriliza», sino integración de los afectos ordenados a la contemplación y a la caridad, conforme a la *Suma contra Gentes* III c. CXXXVI (Virginidad ordenada a la contemplación). El principio general es el de Chesterton: las «verdades locas» y las «virtudes locas» son dinamita cuando se separan de la discreción (CyF, carta I; [[obediencia_religiosa]]).
 
 ## Perspectivas por fuente
 
@@ -49,5 +49,5 @@ Se vincula con [[castidad_religiosa]], [[gazmoñería]], [[sublimación_de_los_a
 
 ## Referencias
 
-- CyF, `04_ii_el_dulce_nazareno.md` L33-45; `14_xii_la_carcel_de_oscar_wilde.md` L39-97; `23_sobre_la_castidad.md` L11-39, L69-87.
+- CyF, `04_ii_el_dulce_nazareno.md`; `14_xii_la_carcel_de_oscar_wilde.md`; `23_sobre_la_castidad.md`.
 - CEC 2332, 2337-2349, 2398, 2521-2527; S. Th. II-II qq. 151-155; *CG* III c. CXXXVI.

@@ -55,14 +55,14 @@ La memoria no es solo recuerdo: deleita, *diverte* en el sentido etimológico de
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | UN ALTRO MONDO |
-| 39 | — | L'ideale per cui dare la vita |
-| 49 | — | Il miracolo più grande è la verginità |
-| 69 | — | Ciò di cui l'io consiste |
-| 87 | — | Perché dare la vita |
-| 109 | — | L'inizio dell'amicizia nel mondo |
-| 127 | — | Una cosa dell'altro mondo |
-| 143 | — | Consapevoli di un altro mondo |
-| 161 | — | La memoria diverte |
+| Nivel | Sección |
+|-------|---------|
+| H1 | UN ALTRO MONDO |
+| — | L'ideale per cui dare la vita |
+| — | Il miracolo più grande è la verginità |
+| — | Ciò di cui l'io consiste |
+| — | Perché dare la vita |
+| — | L'inizio dell'amicizia nel mondo |
+| — | Una cosa dell'altro mondo |
+| — | Consapevoli di un altro mondo |
+| — | La memoria diverte |

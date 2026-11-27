@@ -25,9 +25,9 @@ Sección de encabezado que agrupa las intervenciones pronunciadas durante las se
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Intervenciones durante la Asamblea General del Regnum Christi |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Intervenciones durante la Asamblea General del Regnum Christi |
 
 
 ## Secciones incluidas

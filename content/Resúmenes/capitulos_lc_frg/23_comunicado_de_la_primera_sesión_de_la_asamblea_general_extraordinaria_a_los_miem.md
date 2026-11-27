@@ -56,9 +56,9 @@ Agradecimiento profundo a los legionarios por su sacerdocio, formación y entreg
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Comunicado de la primera sesión de la Asamblea General extraordinaria |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Comunicado de la primera sesión de la Asamblea General extraordinaria |
 
 
 ## Secciones incluidas

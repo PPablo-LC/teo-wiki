@@ -29,6 +29,6 @@ Para Israel fue una conmoción terrible: sin templo no hay expiación ni morada 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. EL FIN DEL TEMPLO Antes de poner nuevamente nuestra atención en las |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. EL FIN DEL TEMPLO Antes de poner nuevamente nuestra atención en las |

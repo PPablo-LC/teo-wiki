@@ -45,6 +45,6 @@ Los deportes han sido la "Estrella de Belén" de Michael, una guía particular d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Spotlight: My Star of Bethlehem: How Sports Led Michael Adams Back to  |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Spotlight: My Star of Bethlehem: How Sports Led Michael Adams Back to  |

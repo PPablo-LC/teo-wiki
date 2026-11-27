@@ -32,6 +32,6 @@ Estos códigos señalan, cada uno según su naturaleza, el camino que el religio
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 6) La normativa en el ejercicio del gobierno |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 6) La normativa en el ejercicio del gobierno |

@@ -61,17 +61,17 @@ Lo que es *amabile* (amable) es también *duradera* (duradero): tiene la existen
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | UN LUOGO |
-| 29 | Blockquote | Una domanda essenziale |
-| 59 | Blockquote | Dio è incommensurabile con l'uomo |
-| 67 | Blockquote | Come il Mistero si fa incontrare dall'uomo |
-| 85 | Blockquote | Contenuto dell'esperienza |
-| 101 | Blockquote | Un punto d'intersezione del tempo e dello spazio |
-| 111 | Blockquote | Un uomo |
-| 125 | Blockquote | La realtà: o tempio o abisso senza senso |
-| 157 | Blockquote | Amabile e quindi duratura |
+| Nivel | Sección |
+|-------|---------|
+| H1 | UN LUOGO |
+| Blockquote | Una domanda essenziale |
+| Blockquote | Dio è incommensurabile con l'uomo |
+| Blockquote | Come il Mistero si fa incontrare dall'uomo |
+| Blockquote | Contenuto dell'esperienza |
+| Blockquote | Un punto d'intersezione del tempo e dello spazio |
+| Blockquote | Un uomo |
+| Blockquote | La realtà: o tempio o abisso senza senso |
+| Blockquote | Amabile e quindi duratura |
 
 ## Secciones incluidas
 

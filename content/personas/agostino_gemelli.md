@@ -53,7 +53,7 @@ tesis sobre la [[amistad]] y el carácter inagotable del deseo humano.
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivo
-  `04_alla_ricerca_del_volto_umano_1996.md` (línea 115).
+  `04_alla_ricerca_del_volto_umano_1996.md`.
 - **Obra citada**: A. Gemelli, *Il Francescanesimo*, Edizioni O.R., Milano,
   1932, cap. XIII.
 - **Índice de la fuente**:

@@ -33,6 +33,6 @@ Detenemos la mirada en María y reconocemos en ella una imagen perfecta de la di
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | UNA MISIÓN PARA COMUNICAR VIDA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | UNA MISIÓN PARA COMUNICAR VIDA |

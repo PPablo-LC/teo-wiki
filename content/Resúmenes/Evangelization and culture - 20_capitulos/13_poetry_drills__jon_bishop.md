@@ -32,6 +32,6 @@ El young man salta, se inclina y lanza el balón, pero este golpea el aro oxidad
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Poetry: Drills — Jon Bishop |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Poetry: Drills — Jon Bishop |

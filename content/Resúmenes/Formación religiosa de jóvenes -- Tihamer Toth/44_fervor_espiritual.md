@@ -29,6 +29,6 @@ Sea ésta la mayor alegría de nuestras vidas entregadas. Y ojalá el mundo actu
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | FERVOR ESPIRITUAL |
+| Nivel | Sección |
+|-------|---------|
+| H1 | FERVOR ESPIRITUAL |

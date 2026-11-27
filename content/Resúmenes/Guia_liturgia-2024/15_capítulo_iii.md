@@ -22,6 +22,6 @@ El contenido detallado se desarrolla en los archivos siguientes: calendario prop
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo III |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo III |

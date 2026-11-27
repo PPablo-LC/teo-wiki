@@ -79,6 +79,6 @@ Cierre: se acuerda continuar los ejercicios («La nuova ed eterna Alleanza»). L
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA DISTANZA È ESSER DENTRO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA DISTANZA È ESSER DENTRO |

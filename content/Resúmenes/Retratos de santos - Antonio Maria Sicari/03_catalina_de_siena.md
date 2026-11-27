@@ -13,19 +13,19 @@ tags: ["resumen", "santidad_laical", "mística", "cisma_de_occidente", "escritur
 ## Conceptos básicos referenciados en este capítulo
 
 - [[santidad_laical]] — Catalina es el primer perfil del libro: mujer sin estudios, «letrada» por el Espíritu, con autoridad sobre losados y los príncipes.
-- [[desposorio_espiritual]] — el núcleo de su experiencia: «Despósame en la fe», el anillo luminoso puesto por el propio Señor (L189-197).
+- [[desposorio_espiritual]] — el núcleo de su experiencia: «Despósame en la fe», el anillo luminoso puesto por el propio Señor.
 - [[matrimonio_espiritual]] — actualización de la promesa del Cantar de los Cantares y de las parábolas nupciales del Evangelio.
-- [[unión_mística]] — el corazón arrancado y sustituido por otro «más parecido al Suyo» (L201-203).
-- [[extasis]] — el estado en que pierde todos los sentidos «excepto el habla» y en el que son sus amanuenses quienes escriben el *Libro* (L371-385).
-- [[mística_franciscana]] — el «triple beso»: *osculum pedum, oris et cordis* (L397-399).
+- [[unión_mística]] — el corazón arrancado y sustituido por otro «más parecido al Suyo».
+- [[extasis]] — el estado en que pierde todos los sentidos «excepto el habla» y en el que son sus amanuenses quienes escriben el *Libro*.
+- [[mística_franciscana]] — el «triple beso»: *osculum pedum, oris et cordis*.
 - [[osculum_pedum]] — besar los pies del Puente, «secreto del corazón» y «boca del Amor crucificado por nosotros».
-- [[cisma_de_occidente]] — la fractura de la que Catalina es víctima y protagonista (L401-421).
+- [[cisma_de_occidente]] — la fractura de la que Catalina es víctima y protagonista.
 - [[humildad_cristiana]] — «cum sis vilis femella», y aun así la afirmación «¡Quiero!» ante la ejecución.
-- [[estilo_vulgar_en_teología]] — lo que Catalina completa de Dante: la lengua vulgar como idioma de la teología y de la literatura mística (L401).
+- [[estilo_vulgar_en_teología]] — lo que Catalina completa de Dante: la lengua vulgar como idioma de la teología y de la literatura mística.
 - [[caridad]] — «una infinita caridad» que va a la prisión de un condenado a muerte.
-- [[obediencia_a_cristo]] — «Debo obedecer más a Dios que a los hombres» (L97), frente a la oposicón de sus padres.
+- [[obediencia_a_cristo]] — «Debo obedecer más a Dios que a los hombres», frente a la oposicón de sus padres.
 
-## 1. El marco histórico: el «otoño del medievo» (L3-41)
+## 1. El marco histórico: el «otoño del medievo»
 
 El perfil se sitúa en el otoño del medievo, en el año 1300, cuando por primera vez el papa Bonifacio VIII proclamó el jubileo y más de doscientos mil peregrinos de toda Europa se dirigieron a Roma. Tres años antes, la cristiandad, espantada, oía hablar del ultraje de Anagni, en el que el Pontífice había sido ridiculizado y abofeteado por los soldados del rey de Francia. El mismo Dante —que lo acusaba injustamente de haber «atormentado» a la Iglesia vendiéndola por dinero (*Inf.* XIX,54)— lo describió con la reverencia debida a Cristo:
 
@@ -35,7 +35,7 @@ Bonifacio VIII murió de aflicción pocas semanas después, y el papado quedaba 
 
 A mediados de siglo, la cristiandad vivía agobiada por un sentimiento general de angustia: guerras civiles en Italia entre ciudades y, dentro de ellas, entre partidos, enfrentados en luchas fratricidas; caos en Alemania; la Guerra de los Cien Años en Inglaterra y Francia; el imperio de Oriente desmoronándose y los turcos presionando las fronteras; guerras de campesinos oprimidos; hambre y catástrofes naturales habituales. En 1347 hizo su aparición la terrible «peste negra» (de la que habla Boccaccio), que en pocos meses llevó a la tumba a más de un tercio de la población europea, aniquilando dos generaciones enteras. Anagni perdió la mitad de sus habitantes; en Siena la población descendió de 80.000 a 15.000 personas.
 
-## 2. Nacimiento y infancia: «consagrada» a los siete años (L43-105)
+## 2. Nacimiento y infancia: «consagrada» a los siete años
 
 En este año terrible nace en Siena, de un parto gemelar, Catalina, la vigesimocuarta hija del tintorero Jacobo Benincasa y de doña Lapa, hija de un colchonero. Su hermana gemela muere poco después; al año siguiente nacerá una vigesimoquinta hermana. La familia acoge además a un primito huérfano de diez años, que se hará fraile dominico y será el primer confesor de Catalina.
 
@@ -43,7 +43,7 @@ Pronto florece alrededor de la niña la Leyenda que llena de milagros su infanci
 
 La niña crece de un modo diferente a sus numerosos hermanos y hermanas, «consagrada» a un voto de virginidad —es decir, de amor exclusivo a Cristo— hecho espontáneamente a los siete años e irrevocable para ella. Con apenas diez años busca el silencio, la oración y la austeridad; hay que pensar además que todo su quehacer terreno, tan rico en acontecimientos y encuentros, durará apenas treinta y tres años.
 
-## 3. La opposition de los padres y la fuerza del voto (L79-119)
+## 3. La opposition de los padres y la fuerza del voto
 
 Para desengañar a su madre, empeñada en casarla a toda costa, a los quince años Catalina realiza un gesto decisivo: sale de su alcoba después de haberse cortado sus largos cabellos, como santa Clara de Asís. Es ahora una «niña tonsurada», sustraída a las vanidades del mundo, «consagrada». La madre, para castigarla o hacerla desistir (era la única hija que ella misma había amamantado), despide a la criada y la obliga a las labores de la casa, pensando que con un trabajo superior a sus fuerzas la niña abandonará sus fantasías monacales. Cuentan que un día el fuego rozó su cara peligrosamente durante un buen rato, sin quemarla; el fogón es la única parte de su casa que se conserva intacta, porque nadie se ha atrevido a tocarlo. Incluso le quitaron la alcoba para impedir que se recogiese en oración, y fue entonces cuando aprendió a recogerse en sí misma: las crónicas dicen que «fabricó en su alma una celda interior de la que aprendió a no salir nunca».
 
@@ -59,7 +59,7 @@ Finalmente, tras meses de sufrimiento y espera, Catalina revela a sus padres el 
 
 El padre, el bueno de Jacobo, sentencia ante su mujer y sus hijos: «Que nadie moleste más a mi dulce hijita, dejad que sirva como le plazca a su Esposo. Nunca podremos tener una parentela similar a esta, ni debemos lamentarnos si en lugar de un común mortal recibimos a un Dios y a un hombre inmortal». A los 16 años Catalina ingresa en las terciarias dominicas de Siena, con el hábito blanco y la capa negra de la orden de santo Domingo (por eso «mantelatas»), pero sin elegir la clausura: intuye que tiene una misión pública.
 
-## 4. La «bella brigata»: aprender en vivo la experiencia cristiana (L121-165)
+## 4. La «bella brigata»: aprender en vivo la experiencia cristiana
 
 Comienza a distribuir su tiempo y sus fuerzas entre las ocupaciones familiares, largos ratos de oración y la asistencia a los hospitales (¡Siena cuenta entonces con 16!) y a la leprosería. Por su juventud soporta incomprensiones, perversidades y calumnias atroces, afrontándolo todo con un ímpetu de caridad irresistible; son años que pasan desapercibidos, dedicados a la oración profunda, los ayunos y penitencias que hoy parecen casi increíbles.
 
@@ -71,7 +71,7 @@ La intensidad de esas relaciones se percibe hoy en las cartas, dirigidas en «t�
 
 «Morir consumidos» de amor por la Iglesia es el sueño educativo de Catalina y el fulcro de su pedagogía.
 
-## 5. Fray Gabriel de Volterra y la ciencia de la cruz (L167-191)
+## 5. Fray Gabriel de Volterra y la ciencia de la cruz
 
 Para comprender cómo se produjo el encuentro decisivo entre esta mujer, dotada de un verdadero carisma de maternidad, y sus «hijos», basta un episodio. Fray Gabriel de Volterra, padre provincial de los franciscanos e Inquisidor General de Siena, era uno de los más célebres teólogos y predicadores de su tiempo. Junto al agustino Juan Tantucci decidió poner a prueba la pretendida sabiduría de Catalina, interrogándola sobre difíciles cuestiones de teología y Sagrada Escritura.
 
@@ -79,7 +79,7 @@ Al principio respondió con tranquilidad, pero después les hizo frente con una 
 
 El fraile sacó la llave de su celda y.retó a los seguidores de la «mantelata» sienesa: «¿Alguno de los aquí presente está dispuesto a ir a mi celda, a vender todo lo que encuentre en ella y a repartir lo recaudado entre los pobres?». Le tomaron la palabra y no le dejaron más que el breviario. Además el franciscano abandonó todas sus tareas e ingresó como hermano lego en la Santa Cruz de Florencia. «Estos milagros son más verdaderos y más evidentes que cualquier otro gesto extraordinario que se pueda contar».
 
-## 6. El desposorio místico: «Despósame en la fe» (L193-229)
+## 6. El desposorio místico: «Despósame en la fe»
 
 Casi veinte años tiene Catalina y se aproxima el tiempo de su misión pública. Presiente que algo decisivo va a suceder y pide a su Señor Jesús: «Despósame en la fe». Era la noche del carnaval de 1367, mientras los hombres celebraban «la miserable fiesta del vientre» y la euforia y el alboroto llenaban la ciudad y su propia casa; la joven permanece sola en su celdita y repite absorta su oración de bodas «por milésima vez». Y en ese momento se le aparece el Señor: «Ahora que los otros se divierten yo quiero celebrar contigo la fiesta de tu alma».
 
@@ -93,7 +93,7 @@ Siguieron episodios de sabor bíblico. Un día vio a su divino Esposo abrazarla 
 
 Catalina supo así que Dios le había encomendado la misión de sostener y casi encarnar aquella Iglesia tan necesitada de verdadero amor, de decisión y de «reforma».
 
-## 7. La predicación por las cartas: el «códice de amor de la cristiandad» (L231-311)
+## 7. La predicación por las cartas: el «códice de amor de la cristiandad»
 
 La humilde muchacha iletrada comenzó a llenar el mundo con sus mensajes, con cartas dictadas a una velocidad impresionante, a veces tres o cuatro a la vez y sobre temas diversos, sin confundirse y sin que los secretarios lograran mantener su ritmo. Todas llevan la misma despedida apasionada, «Jesús dulce, Jesús Amor», y a menudo comienza con una fórmula de hagiógrafo: «Yo, Catalina, sierva y esclava de los siervos de Jesucristo, os escribo en su preciosa sangre». En algunos códices miniados se ve a los destinatarios recibiendo la carta arrodillados y con las manos juntas. Francisco de Sanctis definió las 381 cartas conservadas como «el códice de amor de la cristiandad».
 
@@ -113,7 +113,7 @@ Finalmente la santa fue a Aviñón, donde hubo de soportar la mofa de los carden
 
 Y al papa: «De parte de Cristo crucificado os suplico que no seáis niño miedoso, sino valiente» (Carta 239). Su juicio sobre los cardenales: «Creo que el consejo de los buenos atiende sólo al honor de Dios, a la salvación de las almas y a la reforma de la santa Iglesia, y no a su amor propio» (Carta 231). En septiembre de 1376, Gregorio XI, último papa de nacionalidad francesa, se puso en camino hacia Roma. Contrariamente a lo imaginado por escultores y pintores, Catalina no lo acompañó, sino que se recogió en su retiro de Siena, desde donde sigue acudiendo adonde hay necesidad de paz y de gracia de Dios.
 
-## 8. Nicolás de Toldo: la caridad que va a la prisión (L313-355)
+## 8. Nicolás de Toldo: la caridad que va a la prisión
 
 Son célebres sus visitas inoportunas pero eficaces a pecadores públicos, violentos incontrolables o condenados a muerte desesperados. El episodio más conocido es el de Nicolás de Toldo, un caballero de Perugia condenado a la pena capital «por alguna palabra desafortunada que había dicho referente al Estado», hablando contra «los magníficos señores y padres, defensores del pueblo de la ciudad de Siena».
 
@@ -125,7 +125,7 @@ Y lo esperó, en continua oración, al alba del día de la ejecución:
 
 > «Se volvió, como hace la esposa cuando ha llegado a la puerta del esposo, y dirigió la cabeza y la mirada atrás… e inclinó la cabeza para saludar a los que le habían acompañado… yo le extendí el cuello, y le incliné hacia abajo y le recordé la sangre del Cordero. Su boca no decía sino “Jesús, Catalina”. Y diciendo esto recibí la cabeza en mis manos, poniendo mi mirada en la bondad divina, y exclamé “¡Quiero!”. Se vio entonces al Dios-hombre, como si se viese la claridad del sol. Una vez entrado (en el cielo), mi alma descansó en una paz deliciosa… Yo quedo en tierra con grandísima envidia».
 
-## 9. «El Libro», doctor's de la Iglesia: las cuatro peticiones (L357-401)
+## 9. «El Libro», doctor's de la Iglesia: las cuatro peticiones
 
 En los pocos años entre la ansiada vuelta del papa a Roma y el Cisma de Occidente, nace, aunque ella lo había preparado durante toda su vida, la obra que hará de ella una doctora de la Iglesia: «El Libro», del volumen de un misal. El primer biógrafo describe el método:
 
@@ -142,7 +142,7 @@ A cada petición Dios Padre responde «largo y tendido» y desarrolla toda la do
 
 Hacia finales del siglo XIV, Catalina completaba lo que Dante había comenzado a principios de siglo: demostrar que la lengua vulgar podía usarse también como idioma en la teología y en la literatura mística.
 
-## 10. El Cisma de Occidente y la defensa de Urbano VI (L403-431)
+## 10. El Cisma de Occidente y la defensa de Urbano VI
 
 Apenas había terminado de describir el amor providencial con que el Padre miraba al mundo y a su Iglesia, la tierra se fragmentó con el Cisma de Occidente: dos papas elegidos a la vez por los mismos cardenales, la cristiandad resquebrajada en dos y, durante cuarenta años, la duda sobre el legítimo pastor devastando a la Iglesia. El papa Urbano VI, el verdadero, llama a Catalina a Roma, y ella lo defiende «con la espada firme contra cualquier duda y cualquier titubeo», llegando a dirigir una exhortación a un consistorio público de cardenales. El propio Urbano VI lo confiesa:
 
@@ -156,7 +156,7 @@ Con sano realismo veía que el carácter impetuoso y violento de Urbano VI no fa
 
 Dicen los historiadores que Catalina «obligó al mundo a reconocer al papa Urbano VI».
 
-## 11. El martirio y la muerte (L433-461)
+## 11. El martirio y la muerte
 
 Aunque aún no tenía treinta años, se había desgastado por el esfuerzo y la pasión. Sabía que tenía que ofrecerse sobre todo a sí misma: «Oh, Dios eterno, recibe el sacrificio de mi vida por el cuerpo místico de la santa Iglesia. No tengo otra cosa que dar que lo que me has dado. Arranca, pues, el corazón y exprímelo sobre la cara de la Esposa» (Carta 371).
 
@@ -172,6 +172,6 @@ Murió el último domingo de abril, a los 33 años, a las tres de la tarde, desp
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Catalina de Siena |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Catalina de Siena |

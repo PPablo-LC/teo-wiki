@@ -20,6 +20,6 @@ El archivo raw contiene únicamente el título «CITAS BÍBLICAS» con las dos r
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CITAS BÍBLICAS Antiguo Testamento Nuevo Testamento |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CITAS BÍBLICAS Antiguo Testamento Nuevo Testamento |

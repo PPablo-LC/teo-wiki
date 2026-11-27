@@ -280,6 +280,16 @@ La crónica del peregrinaje de [[luigi_giussani]] a Tierra Santa (1986) es la ex
 
 Referencia: `wiki/Resúmenes/Sulle_tracce_di_Cristo_capitulos/08_samaria_betlem.md` y `11_entrevista_giussani.md`.
 
+### Según *Life of Christ* (LCh, cap. 2)
+
+Sheen formula el misterio con una frase que evita todo monofisismo: «What happened was not so much the conversion of the Godhead into flesh, as the taking of a manhood into God» (cap. 2). La Persona que asume no es creada, como toda persona humana, sino el Verbo preexistente; la naturaleza humana procede de la concepción virginal, donde se aúnan la sombra del Espíritu y el *Fiat* de la mujer, y de ahí el doble vínculo de Cristo con la humanidad: continuidad por la carne de María, discontinuidad por la Persona del *Logos*, que lo constituye segundo Adán. Para mostrar su inteligibilidad usa la analogía clásica: la unión de alma y cuerpo en una sola persona humana, que nadie tiene por increíble por ser cotidiana, hace razonable la unión de dos naturalezas en la Persona divina.
+
+Su aportación propia es la lectura de la Encarnación como **humillación** y como **inscape** de la Cruz: la hipótesis de un alma humana enviada al cuerpo de una serpiente —aceptar sus límites y vivir entre serpientes— «is nothing compared to the emptying of God»; y el pesebre es ya el Calvario en miniatura, como el átomo contiene el sistema solar. Añade una consecuencia teológica precisa: el Verbo, al hacerse carne, no cambió; «the Word of God proceeding forth did not leave the Father's side».
+
+- «The Word became Flesh»: el Padre preparó la carne, el Espíritu la formó, el Hijo la asumió.
+- «What would it profit if He was born a thousand times in Bethlehem unless He was born again in man?».
+- El pensamiento divino no es abstracto como el de los griegos, sino **personal**: el Verbo es la sabiduría subsistente en que están «all the treasures of wisdom».
+
 ## Distinciones importantes
 
 - **Encarnación vs. unión hipostática**: la Encarnación es el acto de asumir la naturaleza humana; la unión hipostática es el estado permanente de la unión de las dos naturalezas en la persona del Verbo.

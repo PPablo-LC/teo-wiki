@@ -34,9 +34,9 @@ Decreto de la [[gobierno_congregacional]] (Prot. DG-LC 405-2018, 2 de febrero de
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Decreto de convocación del Capítulo General extraordinario de los Legi |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Decreto de convocación del Capítulo General extraordinario de los Legi |
 
 
 ## Secciones incluidas

@@ -40,7 +40,7 @@ El archivo finaliza con una breve sección vacía bajo este título, seguido de 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Minds: Telling the Human Condition: Vin Scully & the Stories of Baseba |
-| 41 | H2 | GEORGE HERMAN "BABE" RUTH |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Minds: Telling the Human Condition: Vin Scully & the Stories of Baseba |
+| H2 | GEORGE HERMAN "BABE" RUTH |

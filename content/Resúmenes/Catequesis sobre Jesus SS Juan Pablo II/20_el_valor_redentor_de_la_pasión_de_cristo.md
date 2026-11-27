@@ -52,6 +52,6 @@ Jesús resume el objetivo esencial de su misión mesiánica: «dar su vida como 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (EL VALOR REDENTOR DE LA PASIÓN DE CRISTO) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (EL VALOR REDENTOR DE LA PASIÓN DE CRISTO) |

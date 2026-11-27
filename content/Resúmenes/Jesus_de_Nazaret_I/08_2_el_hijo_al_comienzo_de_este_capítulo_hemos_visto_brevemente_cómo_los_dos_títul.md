@@ -34,6 +34,6 @@ tags: ["resumen", "jesus de nazaret i"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. EL HIJO Al comienzo de este capítulo hemos visto brevemente cómo lo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. EL HIJO Al comienzo de este capítulo hemos visto brevemente cómo lo |

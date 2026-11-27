@@ -28,6 +28,6 @@ Sección del Apéndice sobre el registro de las misas (nn. 10-14).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | El registro de las misas |
+| Nivel | Sección |
+|-------|---------|
+| H2 | El registro de las misas |

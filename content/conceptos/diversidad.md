@@ -86,9 +86,9 @@ otra religión, que resignifica la consanguinidad (MDO, 05, 35-43).
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `03_la_ragione_della_carita.md` (líneas 33-67),
-  `05_un_esperienza_nuova_dell_umano.md` (líneas 35-43),
-  `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md` (línea 9),
-  `07_l_abbraccio_del_diverso.md` (líneas 5, 31-39).
+  `03_la_ragione_della_carita.md`,
+  `05_un_esperienza_nuova_dell_umano.md`,
+  `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md`,
+  `07_l_abbraccio_del_diverso.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

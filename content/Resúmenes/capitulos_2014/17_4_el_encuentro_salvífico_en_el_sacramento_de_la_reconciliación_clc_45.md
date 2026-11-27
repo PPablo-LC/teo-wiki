@@ -28,6 +28,6 @@ tags: ["resumen", "capitulos 2014"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 4) El encuentro salvífico en el sacramento de la reconciliación (CLC 4 |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 4) El encuentro salvífico en el sacramento de la reconciliación (CLC 4 |

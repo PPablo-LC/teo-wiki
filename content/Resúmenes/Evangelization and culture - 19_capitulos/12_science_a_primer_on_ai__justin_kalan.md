@@ -64,9 +64,9 @@ En definitiva, como la mayoría de las tecnologías, la IA es en abstracto una c
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Science: A Primer on Artificial Intelligence — Justin Kalan |
-| 17 | H2 | ARTIFICIAL INTELLIGENCE |
-| 39 | H2 | BENEFITS AND RISKS OF AI |
-| 45 | H2 | IS AI TRULY INTELLIGENT? (texto sin marcado) |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Science: A Primer on Artificial Intelligence — Justin Kalan |
+| H2 | ARTIFICIAL INTELLIGENCE |
+| H2 | BENEFITS AND RISKS OF AI |
+| H2 | IS AI TRULY INTELLIGENT? (texto sin marcado) |

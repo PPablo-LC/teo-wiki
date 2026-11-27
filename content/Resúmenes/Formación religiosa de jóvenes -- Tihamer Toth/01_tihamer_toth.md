@@ -40,9 +40,9 @@ El texto de esta edición es un resumen y adaptación de la obra de Tóth realiz
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | TIHAMER TOTH |
-| 4 | H3 | Formación religiosa de jóvenes |
-| 6 | H3 | Dirigido a educadores, catequistas, formadores, profesores de religión |
-| 9 | H3 | Texto resumido y adaptado por Alberto Zuñiga Croxatto Lima, Febrero 20 |
+| Nivel | Sección |
+|-------|---------|
+| H1 | TIHAMER TOTH |
+| H3 | Formación religiosa de jóvenes |
+| H3 | Dirigido a educadores, catequistas, formadores, profesores de religión |
+| H3 | Texto resumido y adaptado por Alberto Zuñiga Croxatto Lima, Febrero 20 |

@@ -94,31 +94,31 @@ Los padres capitulares agradecen los gestos de cercanía y las oraciones de los 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | DEL CAPÍTULO GENERAL |
-| 4 | H3 | Roma, 20 de enero de 2026 |
-| 9 | H3 | Quiero decirlo desde el inicio, con sencillez, pero con mucha |
-| 35 | H3 | Roma, 27 de febrero de 2026 |
-| 40 | H3 | Hoy concluimos 50 días de Capítulo General, contando los |
-| 64 | H3 | Aquí nos sostiene de nuevo el papa cuando nos dice: «El Señor |
-| 69 | H3 | Roma, 27 de febrero de 2026 |
-| 73 | H3 | Al concluir nuestro Capítulo General y en espera del Comuni- |
-| 82 | H3 | Cristo, fuente, centro y alegría de nuestra vida |
-| 91 | H3 | Un carisma vivo al servicio de la Iglesia |
-| 96 | H3 | Comunidades que generan vida y misión |
-| 102 | H3 | Una misión que mira al futuro |
-| 111 | H3 | Un tiempo nuevo que se abre |
-| 119 | H3 | Padres capitulares de la Legión de Cristo |
-| 122 | H2 | DG-LC 533-2026 |
-| 125 | H3 | Roma, 27 de febrero de 2026 |
-| 127 | H3 | A las consagradas del Regnum Christi |
-| 141 | H3 | Padres capitulares de la Legión de Cristo |
-| 143 | H2 | DG-LC 534-2026 |
-| 146 | H3 | Roma, 27 de febrero de 2026 |
-| 148 | H3 | A los laicos consagrados del Regnum Christi |
-| 160 | H3 | Padres capitulares de la Legión de Cristo |
-| 162 | H2 | DG-LC 535-2026 |
-| 165 | H3 | Roma, 27 de febrero de 2026 |
-| 167 | H3 | A todos los miembros laicos del Regnum Christi |
-| 177 | H3 | Padres capitulares de la Legión de Cristo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | DEL CAPÍTULO GENERAL |
+| H3 | Roma, 20 de enero de 2026 |
+| H3 | Quiero decirlo desde el inicio, con sencillez, pero con mucha |
+| H3 | Roma, 27 de febrero de 2026 |
+| H3 | Hoy concluimos 50 días de Capítulo General, contando los |
+| H3 | Aquí nos sostiene de nuevo el papa cuando nos dice: «El Señor |
+| H3 | Roma, 27 de febrero de 2026 |
+| H3 | Al concluir nuestro Capítulo General y en espera del Comuni- |
+| H3 | Cristo, fuente, centro y alegría de nuestra vida |
+| H3 | Un carisma vivo al servicio de la Iglesia |
+| H3 | Comunidades que generan vida y misión |
+| H3 | Una misión que mira al futuro |
+| H3 | Un tiempo nuevo que se abre |
+| H3 | Padres capitulares de la Legión de Cristo |
+| H2 | DG-LC 533-2026 |
+| H3 | Roma, 27 de febrero de 2026 |
+| H3 | A las consagradas del Regnum Christi |
+| H3 | Padres capitulares de la Legión de Cristo |
+| H2 | DG-LC 534-2026 |
+| H3 | Roma, 27 de febrero de 2026 |
+| H3 | A los laicos consagrados del Regnum Christi |
+| H3 | Padres capitulares de la Legión de Cristo |
+| H2 | DG-LC 535-2026 |
+| H3 | Roma, 27 de febrero de 2026 |
+| H3 | A todos los miembros laicos del Regnum Christi |
+| H3 | Padres capitulares de la Legión de Cristo |

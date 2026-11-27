@@ -42,6 +42,6 @@ tags: ["resumen", "capitulos 2018"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | E. Exhortación |
+| Nivel | Sección |
+|-------|---------|
+| H2 | E. Exhortación |

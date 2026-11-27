@@ -43,4 +43,4 @@ Dos hermanas (Satsuki, Mei) con madre enferma. El padre intenta reír para ahuye
 
 ## Referencia original
 
-📄 Fuente original: `08_film.md` (línea 1–53)
+📄 Fuente original: `08_film.md`

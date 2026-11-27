@@ -74,6 +74,6 @@ El artículo cierra con el epígrafe de Albert Camus: «Pero sobre todo, para se
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Spotlight: Broad and Deep: Why We Need the New Ressourcement |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Spotlight: Broad and Deep: Why We Need the New Ressourcement |

@@ -25,7 +25,7 @@ italiano» (cf. [[hagiografía]]).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | AUTOR |
-| 3 | — | Ficha biográfica de Antonio María Sicari |
+| Nivel | Sección |
+|-------|---------|
+| H1 | AUTOR |
+| — | Ficha biográfica de Antonio María Sicari |

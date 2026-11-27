@@ -42,8 +42,8 @@ No se puede engañar por mucho tiempo: el lenguaje de la fe solo engendra fe; el
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Witness |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Witness |
 
 ## Secciones incluidas

@@ -81,7 +81,7 @@ Dios responde nuestras intenciones de oración más pesadas; su plan es ingenios
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Mission: The Journey of Amy Baxt |
-| 15 | H2 | WORD ON FIRE INSTITUTE MEMBER |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Mission: The Journey of Amy Baxt |
+| H2 | WORD ON FIRE INSTITUTE MEMBER |

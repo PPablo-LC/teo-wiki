@@ -28,6 +28,6 @@ La palabra decisiva es de Caifás: «No comprendéis que os conviene que uno mue
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. DEBATE PREVIO EN EL SANEDRÍN |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. DEBATE PREVIO EN EL SANEDRÍN |

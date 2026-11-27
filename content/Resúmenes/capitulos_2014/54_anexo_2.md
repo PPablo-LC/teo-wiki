@@ -45,7 +45,7 @@ El anexo concluye con el lema de la congregación: «Por el Reino de Cristo a la
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Anexo 2 |
-| 3 | H3 | Algunas reflexiones sobre el nombre de la Congregación |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Anexo 2 |
+| H3 | Algunas reflexiones sobre el nombre de la Congregación |

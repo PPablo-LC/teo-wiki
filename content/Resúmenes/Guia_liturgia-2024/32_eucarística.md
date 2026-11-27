@@ -30,6 +30,6 @@ Además, introduce el primer número de la sección:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Eucarística |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Eucarística |

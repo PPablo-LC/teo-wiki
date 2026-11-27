@@ -12,21 +12,21 @@ tags: ["resumen", "vocación_laical", "caridad", "unidad_alma_cuerpo", "eucarist
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[vocación_laical]] — el «dato irreductible y especialmente chocante»: el concepto de vocación laical vivido y defendido por Moscati, que no puso límites ni hizo distinciones (L19-21).
-- [[santidad_laical]] — «la confirmación de la vocación universal de los cristianos a la santidad; todos pueden llegar a ser santos», y el overcome de la idea de que la santidad es un ideal inalcanzable para quien vive en el mundo (L31-37).
-- [[unidad_alma_cuerpo]] — el binomio enfermedad-cura que «tenía que ver con todo el ser humano», anticipándose a los descubrimientos más recientes de la ciencia (L419, L433).
-- [[dignidad_de_la_persona_enferma]] — su reivindicación constante de la dignidad del enfermo, frente a la privatización que «disponen de la carne humana como de una mercancía» (L423-425).
-- [[caridad]] — «la caridad de Cristo tiene que apremiar el corazón de su discípulo»: el amor al prójimo es verdadero sólo cuando tiende hacia un explícito amor por Cristo, «Dios-en-el-prójimo» (L385-393).
-- [[misericordia_de_dios]] — la «misión de todos» —hermanas, enfermeros, médicos— en el hospital es «colaborar con la misericordia de Dios» (L259).
-- [[confesión]] — para ser curados por Moscati «era necesario frecuentar los sacramentos», y su respuesta al psicoanálisis: «en nuestro país existe el sacramento de la confesión» (L253-271).
-- [[eucaristía]] — «cura de eucaristía» como receta para un enfermo sin espina dorsal, y la energía que «no disminuye nunca» de quien comulga todas las mañanas (L147, L273).
-- [[ciencia_y_fe]] — «son diferentes aspectos de aquella única inteligencia de amor que nos ha creado y redimido»: el mismo punto de unión de un doble itinerario (L417-419).
-- [[laicidad]] — el debate sobre si la propuesta de Moscati es «una pretensión absurda e integrista o una profecía», formulado «sin adjetivos o tareas específicas» (L5, L343).
-- [[apostolado_de_los_laicos]] — el Sínodo de 1987 sobre «la vocación y misión de los laicos», ante el que el papa ofrece «un cristiano, precisamente laico» (L3-7).
-- [[dignidad_del_cuerpo]] — la defensa del cuerpo del enfermo, que exige una mirada médica que abarque a la persona entera y no sólo al órgano enfermo (L247, L425).
-- [[obras_de_caridad]] — «hay que llevar a cabo obras y más obras de caridad para poder ser íntegros al anunciar a Cristo» (L399).
+- [[vocación_laical]] — el «dato irreductible y especialmente chocante»: el concepto de vocación laical vivido y defendido por Moscati, que no puso límites ni hizo distinciones.
+- [[santidad_laical]] — «la confirmación de la vocación universal de los cristianos a la santidad; todos pueden llegar a ser santos», y el overcome de la idea de que la santidad es un ideal inalcanzable para quien vive en el mundo.
+- [[unidad_alma_cuerpo]] — el binomio enfermedad-cura que «tenía que ver con todo el ser humano», anticipándose a los descubrimientos más recientes de la ciencia.
+- [[dignidad_de_la_persona_enferma]] — su reivindicación constante de la dignidad del enfermo, frente a la privatización que «disponen de la carne humana como de una mercancía».
+- [[caridad]] — «la caridad de Cristo tiene que apremiar el corazón de su discípulo»: el amor al prójimo es verdadero sólo cuando tiende hacia un explícito amor por Cristo, «Dios-en-el-prójimo».
+- [[misericordia_de_dios]] — la «misión de todos» —hermanas, enfermeros, médicos— en el hospital es «colaborar con la misericordia de Dios».
+- [[confesión]] — para ser curados por Moscati «era necesario frecuentar los sacramentos», y su respuesta al psicoanálisis: «en nuestro país existe el sacramento de la confesión».
+- [[eucaristía]] — «cura de eucaristía» como receta para un enfermo sin espina dorsal, y la energía que «no disminuye nunca» de quien comulga todas las mañanas.
+- [[ciencia_y_fe]] — «son diferentes aspectos de aquella única inteligencia de amor que nos ha creado y redimido»: el mismo punto de unión de un doble itinerario.
+- [[laicidad]] — el debate sobre si la propuesta de Moscati es «una pretensión absurda e integrista o una profecía», formulado «sin adjetivos o tareas específicas».
+- [[apostolado_de_los_laicos]] — el Sínodo de 1987 sobre «la vocación y misión de los laicos», ante el que el papa ofrece «un cristiano, precisamente laico».
+- [[dignidad_del_cuerpo]] — la defensa del cuerpo del enfermo, que exige una mirada médica que abarque a la persona entera y no sólo al órgano enfermo.
+- [[obras_de_caridad]] — «hay que llevar a cabo obras y más obras de caridad para poder ser íntegros al anunciar a Cristo».
 
-## 1. Un santo propuesto por el papa al final del Sínodo de los Obispos (L3-17)
+## 1. Un santo propuesto por el papa al final del Sínodo de los Obispos
 
 A finales de octubre de 1987 se clausuraba en Roma el sínodo general de los obispos, que durante casi dos meses había estado discutiendo sobre la «vocación y misión de los laicos en la Iglesia y en el mundo».
 
@@ -38,7 +38,7 @@ Antes de que los obispos se fuesen de Roma —a pesar de que todavía no se hubi
 
 A decir verdad, muchos no conocían a Moscati; la mayor parte de los obispos y fieles se contentaron con ver confirmado un punto esencial de la enseñanza conciliar: que también los laicos están llamados a la santidad y pueden realizarla en el mundo, en el ejercicio de su profesión. Alguno que sabía algo más sobre Moscati podía predicar largamente sobre las particulares virtudes de este nuevo santo, sobre todo aquellas que hoy se aprecian más: el amor a los pobres, el desinterés a toda prueba, la coherencia evangélica, el sacrificio de uno mismo.
 
-## 2. El dato chocante: la «vocación laical» de Moscati (L19-31)
+## 2. El dato chocante: la «vocación laical» de Moscati
 
 Sin embargo, poquísimos —incluso entre los más expertos— estaban dispuestos a enfrentarse con un dato irreductible y especialmente chocante: el concepto de «vocación laical» vivido y defendido por Moscati.
 
@@ -50,7 +50,7 @@ Decimos simplemente que si Moscati tuvo un carisma y una tarea dentro de la Igle
 
 En resumen, insertar verdaderamente el ejemplo de Moscati en el debate actual sobre vocación laical, se presenta como una tarea violenta y no falta de humorismo.
 
-## 3. Por qué el santo obliga a mirar la gracia, no sólo las virtudes (L31-63)
+## 3. Por qué el santo obliga a mirar la gracia, no sólo las virtudes
 
 Lo más obvio es la confirmación de la vocación universal de los cristianos a la santidad; todos pueden llegar a ser santos. Esto lo saben ya todos los católicos; pero muchos laicos tienen todavía la idea de que la santidad es un ideal inalcanzable, destinado a derrumbarse a medida que la vida asesta sus golpes e impone su realismo. Instintivamente se piensa que —si un laico consigue llegar a ser santo— es solamente porque ha conseguido vivir al margen del mundo.
 
@@ -72,7 +72,7 @@ Juan Pablo II, al canonizar a Moscati, no ha dicho a los laicos que en primer lu
 
 Sus actos de virtud son como los datos escritos sobre el carnet de identidad: sirven para identificarlo, pero no son su identidad. La identidad surgirá más bien de su rostro personal y de su corazón, en los que se pondrá en evidencia su modo de considerar la relación médico-enfermo como un acontecimiento integral de salvación cristiana.
 
-## 4. Currículo y contexto: el positivismo y el laicismo (L65-99)
+## 4. Currículo y contexto: el positivismo y el laicismo
 
 José Moscati nace en 1880 en Benevento. Tiene apenas un año de vida cuando su padre, magistrado, es trasladado a Ancona y después (cuando José tiene sólo cuatro años) al Tribunal de Apelación de Nápoles. De esta manera, Nápoles se convierte en su ciudad, donde recibe la primera comunión, se matricula en el colegio, se examina de la selectividad por la rama de letras y se licencia en medicina en 1903.
 
@@ -90,7 +90,7 @@ El documento que introduce su causa de beatificación, de 1944, después de la l
 
 El mérito de este enfoque es identificar bien el núcleo del testimonio de Moscati, evitando presentarlo rápidamente, como el «médico santo» sólo por su comportamiento desinteresado, su modestia, su sobriedad o por haberse puesto al servicio de los desheredados. Estos aspectos fueron espléndidos, pero al insistir sobre ellos se corre el riesgo de «observar y apreciar el color y la forma de las flores sin tener en cuenta la raíz que las alimenta».
 
-## 5. El desinterés y la caridad concreta (L103-149)
+## 5. El desinterés y la caridad concreta
 
 Entre los colegas de Moscati era célebre su absoluto desinterés por el dinero:
 
@@ -126,7 +126,7 @@ Los relatos se podrían multiplicar, pero la caridad de Moscati no era la de un 
 
 > «Quien comulga todas las mañanas tiene consigo una energía que no disminuye nunca».
 
-## 6. El clínico, el maestro y el lema del instituto anatómico (L149-198)
+## 6. El clínico, el maestro y el lema del instituto anatómico
 
 Como testimonio de su capacidad médica podemos recordar su encuentro con el tenor Enrico Caruso: éste volvía a su Nápoles después de una hemorragia sufrida en un concierto en Nueva York, después de haber consultado a los especialistas más célebres de América y de Roma sin diagnóstico eficaz. La intuición del médico napolitano diagnosticó enseguida un acceso subfrénico. No le sirvió la ciencia de Moscati, pero le sirvió su fe: no titubeó al decirle a Caruso «que había consultado a todos los médicos pero no había consultado a Jesucristo», y el tenor contestó: «Profesor, haga lo que quiera». Él se ocupó de que le administraran a tiempo los últimos sacramentos, asistiéndolo fraternalmente hasta el final.
 
@@ -148,7 +148,7 @@ El profesor escribía:
 
 Y añadía: «He pensado que es un deber de la conciencia influir en los jóvenes rechazando la costumbre de custodiar celosamente el fruto de la propia experiencia, sin revelárselo a otros».
 
-## 7. La condición virginal en el mundo y la confesión de fe (L193-241)
+## 7. La condición virginal en el mundo y la confesión de fe
 
 Esta concepción casi monástica de la propia vocación nos remite a otra característica de la vocación seglar de Moscati, a una novedad. En un tiempo en que las vocaciones se dividían de una forma más bien radical (o matrimonio o convento), Moscati eligió quedarse en el mundo, completamente laico —sin pertenecer a ninguna institución religiosa, ni siquiera como «terciero»—, pero eligiendo conscientemente la condición virginal. En un trozo de papel que la hermana recogió de la papelera, leemos una especie de confesión que escribió para sí mismo:
 
@@ -174,7 +174,7 @@ En las oposiciones pedía que no hubiese «ni compromisos, ni maniobras extraña
 
 > «Todos sabían que el profesor Moscati era como un sacerdote y la lucha dirigida por los médicos masones y por otros colegas materialistas no lo abatió nunca. Solía decirme: ¿Qué me importan los demás? Mi único pensamiento es el de contentar a Dios».
 
-## 8. El médico que curaba primero el alma y después el cuerpo (L243-300)
+## 8. El médico que curaba primero el alma y después el cuerpo
 
 En el proceso de canonización, la pregunta a la que recurría el juez eclesiástico (nada oculta) era ésta: «¿Era Moscati un maníaco religioso?». «No —respondieron los testigos— era un hombre equilibrado, atento, respetuoso». Y sin embargo tenía una idea de su profesión médica —y consecuentemente una praxis— que no era ciertamente la usual.
 
@@ -215,7 +215,7 @@ Pero hace falta insistir en que Moscati no hacía de sanador o santurrón; hací
 
 Y así rebatió a una señora pía que rechazaba el tratamiento porque decía que le bastaba con orar: «Es mejor para vuestra alma que le ponga una sola inyección para curarla que rezar muchas oraciones».
 
-## 9. El episodio de 1927 y el testimonio de los no creyentes (L301-341)
+## 9. El episodio de 1927 y el testimonio de los no creyentes
 
 La personalidad íntegra de Moscati se manifestó ante los ojos de todos sus colegas, e incluso de sus enemigos, en un episodio que se ha hecho célebre en los anales de Nápoles. Era febrero de 1927, dos meses antes de su muerte. El profesor Leonardo Bianchi había sido titular de la cátedra de Psiquiatría y Neurocirugía, primero en Palermo y después en Nápoles; posteriormente había sido ministro de la Educación Pública, ministro de Defensa y vicepresidente de la Cámara de los Diputados. A los 75 años había publicado el libro La mecánica del cerebro. Además era uno de los masones más notables y apenas un año antes había pronunciado una conferencia pública contra Jesucristo.
 
@@ -235,7 +235,7 @@ Todos saben cuál fue la posición de Benedetto Croce. El filósofo habitaba en 
 
 Y cuando entraba dentro de la casa, decía a su sirvienta: «Si fuesen así todos los católicos ¡todos como Don Pepe!».
 
-## 10. Los tres puntos de la «forma cristiana» integral de Moscati (L343-439)
+## 10. Los tres puntos de la «forma cristiana» integral de Moscati
 
 Llegamos así al problema fundamental: ¿qué es vocación laical cristiana? Este hombre, que la Iglesia ha puesto sobre los altares, la ha comprendido de una manera con un estilo que hoy no usa ni siquiera el capellán que se dedica a asistir a los enfermos en un hospital. ¿Era un verdadero laico, o era un laico que asumía incorrectamente el papel de cura? ¿Su deseo de «curar también el alma» era una pretensión absurda e integrista o era una profecía?
 
@@ -283,7 +283,7 @@ A la carta llena de gratitud que un discípulo le escribió porque lo abandonaba
 
 > «No ha sido la ciencia, sino la caridad la que ha transformado el mundo. Tengo siempre vivo en el corazón la pena de sentiros lejos y sólo me consuela pensar que hayáis conservado en vosotros algo mío; no porque yo valga mucho, sino por el contenido espiritual que me esfuerzo en mantener y en difundir a mi alrededor. ¡Un abrazo en Cristo!».
 
-## 11. Conclusión: «Lumen eclesiae», luz de la Iglesia (L441-447)
+## 11. Conclusión: «Lumen eclesiae», luz de la Iglesia
 
 Tal vez comprendamos por qué el cardenal Roncalli, cuando leyó la vida de Moscati, lo definió como *Lumen eclesiae*, luz de la Iglesia. Después, el Concilio Vaticano II, que él deseó tanto, dijo que la tarea de la Iglesia es «reflejar en el mundo la luz de los pueblos (*Lumen gentium*) que es Cristo». La Iglesia podrá hacer esto sólo si sus laicos aprenden a hacer resplandecer cotidianamente tal luz sobre su rostro.
 
@@ -293,6 +293,6 @@ Mientras el cortejo fúnebre recorría el Jueves Santo de 1927 las calles de Ná
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | José Moscati |
+| Nivel | Sección |
+|-------|---------|
+| H1 | José Moscati |

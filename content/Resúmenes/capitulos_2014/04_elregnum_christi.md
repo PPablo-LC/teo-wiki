@@ -42,6 +42,6 @@ Ambas imágenes ilustran la participación de todos en lo que es común a todos.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | ElRegnum Christi |
+| Nivel | Sección |
+|-------|---------|
+| H2 | ElRegnum Christi |

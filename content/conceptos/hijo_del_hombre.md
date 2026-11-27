@@ -78,6 +78,14 @@ El Hijo del hombre es a la vez juez universal y siervo sufriente, rey eterno y h
 
 **Universalidad de la misión.** El Hijo del hombre reúne en sí a «todos los hijos de Dios dispersos» (Jn 11,52). No es solo una figura individual, sino que su ser «por muchos» lo hace cabeza de una nueva humanidad: «Viene de Dios y fundamenta así el verdadero ser del hombre... No es solamente una persona, sino que nos hace a todos uno en Él».
 
+### Según *Life of Christ* (LCh)
+
+Sheen dedica al título un capítulo entero (cap. 23) y lo trata como el nombre que Cristo se dio a sí mismo: nadie más lo llamó así y Él lo aplicó a sí mismo «at least eighty times». Su contenido no es sólo la humanidad: el título dice lo que el Hijo de Dios *llegó a ser* en la Encarnación, no lo que es desde la eternidad; por eso expresa la *kenosis*, la humillación y la solidaridad con la humanidad no redimida. La observación más original de Sheen es histórica y literaria a la vez: «He never used the term after He had redeemed humanity and risen from the dead», porque el título designaba la unión con la humanidad aún no redimida y esa condición había quedado atrás. De ahí también que el título no sirva para introducir las afirmaciones sobre su naturaleza divina, sino que aparezca ligado al juicio y a la Pasión, y que su fórmula perfecta sea *Homo factus est*, con la consecuencia sacerdotal: como Sacerdote es representante de la humanidad, como Víctima es sustituto.
+
+En el capítulo 26 vuelve el título desde la objeción de la multitud: «What dost thou mean by saying that the Son of Man Must be lifted up? What Son of Man is this?» (Jn 12,34). Sheen señala que la dificultad de los oyentes no era exegética sino cristológica: conocían a Isaías y a Daniel —el Hijo del hombre «violently cut off»—, pero no podían reconciliar un Mesías glorioso y eterno con uno sufriente. La respuesta de Cristo no disuelve la tensión: la confirma, porque el Hijo del hombre levantado es el que atrae a todos.
+
+El tercer uso relevante está en la controversia del perdón: la autoridad para perdonar los pecados se atribuye al Hijo del hombre mientras está en la tierra (Mc 2,10; cap. 29). El título, por tanto, no sólo designa al que sufre y al que juzga, sino al que ejerce en su humanidad una prerrogativa que sólo Dios posee; Sheen lo subraya precisamente para mostrar que la humanidad de Cristo no es una apariencia sino el instrumento real de su divinidad.
+
 ## Distinciones importantes
 
 - «Hijo de hombre» como sinónimo de humanidad (AT) vs. «Hijo del hombre» como título mesiánico (NT)

@@ -75,13 +75,13 @@ No tenemos que vivir así. Podemos ser gloriosamente humanos leyendo literatura 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Gloriously Human: Flesh-and-Blood Writing in an Age of AI — Haley Stewart |
-| 7 | H2 | Los límites de la IA; la literatura como arte requiere artista (texto sin marcado) |
-| 13 | H2 | Relación horizontal escritor-lector; «puente de las palabras» (texto sin marcado) |
-| 17 | H2 | Receptividad; María y el fiat; relación vertical creador-Creador (texto sin marcado) |
-| 25 | H2 | Dios es artista; la subcreación de Tolkien (texto sin marcado) |
-| 27 | H2 | El amor engendra nueva creación (texto sin marcado) |
-| 35 | H2 | La bola de hilo mágica; el robo del trabajo creativo (texto sin marcado) |
-| 45 | H2 | Conclusión: gloriosamente humanos (texto sin marcado) |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Gloriously Human: Flesh-and-Blood Writing in an Age of AI — Haley Stewart |
+| H2 | Los límites de la IA; la literatura como arte requiere artista (texto sin marcado) |
+| H2 | Relación horizontal escritor-lector; «puente de las palabras» (texto sin marcado) |
+| H2 | Receptividad; María y el fiat; relación vertical creador-Creador (texto sin marcado) |
+| H2 | Dios es artista; la subcreación de Tolkien (texto sin marcado) |
+| H2 | El amor engendra nueva creación (texto sin marcado) |
+| H2 | La bola de hilo mágica; el robo del trabajo creativo (texto sin marcado) |
+| H2 | Conclusión: gloriosamente humanos (texto sin marcado) |

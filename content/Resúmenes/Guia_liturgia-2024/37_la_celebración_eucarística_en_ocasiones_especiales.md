@@ -65,9 +65,9 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | La celebración eucarística en ocasiones especiales |
-| 3 | H3 | Domingos y días festivos |
-| 19 | H3 | Misa solemne |
-| 83 | H3 | Misas rituales |
+| Nivel | Sección |
+|-------|---------|
+| H2 | La celebración eucarística en ocasiones especiales |
+| H3 | Domingos y días festivos |
+| H3 | Misa solemne |
+| H3 | Misas rituales |

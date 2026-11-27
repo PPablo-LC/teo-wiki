@@ -25,6 +25,6 @@ Título de la segunda parte de las Constituciones: «Etapas de la vida en la Con
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Parte II |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Parte II |

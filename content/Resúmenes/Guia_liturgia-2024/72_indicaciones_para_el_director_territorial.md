@@ -30,6 +30,6 @@ El apéndice concluye con el lema de la Congregación: «Por el Reino de Cristo 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Indicaciones para el director territorial |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Indicaciones para el director territorial |

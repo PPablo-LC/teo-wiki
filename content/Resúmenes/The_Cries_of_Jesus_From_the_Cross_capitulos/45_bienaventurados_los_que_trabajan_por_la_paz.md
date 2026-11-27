@@ -26,13 +26,13 @@ called the children of God» (Mt 5,9). Al final, en el Calvario, practicó esa b
 concluyendo la paz entre el hombre y Dios, pronunció el grito triunfal: «It is consummated» (Jn
 19,30). La bienaventuranza contrasta con el espíritu del mundo, donde el derecho es la fuerza y la
 agresividad es virtud. El comunismo ha profesado y actuado por el motivo del odio, ahogando la voz
-del Príncipe de la Paz (L3-5).
+del Príncipe de la Paz.
 
 La definición más perfecta de paz es la de san Agustín: «Peace is the tranquility of order». No
 es solo tranquilidad, pues algunas naciones son tranquilas por el miedo. Es la tranquilidad del
 orden en que no hay opresión desde fuera, sino subordinación de todas las cosas al bien soberano,
 que es Dios. La sujeción de los sentidos a la razón, la razón a la fe y el hombre entero a Dios
-como su fin eterno: esa es la base de la paz (L7-9).
+como su fin eterno: esa es la base de la paz.
 
 Fue esa tranquilidad del orden la que Cristo trajo a la tierra: «Glory to God in the highest, and
 on earth peace to men of good will» (Lc 2,14). Mandó a sus discípulos tener paz entre ellos (Mt
@@ -41,7 +41,7 @@ arresto reprendió a Pedro por la espada: «all that take the sword shall perish
 (Mt 26,52). Al morir, el Príncipe de la Paz pronunció las últimas palabras de paz: «It is
 finished». ¿Qué está terminado? La guerra contra el pecado, contra el mal, contra Dios. La obra de
 expiación, que es *at-one-ment* con Dios, se completó. No fue solo un armisticio; fue victoria;
-consumación (L11-17).
+consumación.
 
 ## La espada y la falsa paz
 
@@ -54,7 +54,7 @@ Dios y del prójimo. Los que la difunden serán llamados hijos de Dios. Pero eso
 la paz serán odiados por el mundo, cuya falsa paz se basa en el amor propio. Los pobres de
 espíritu serán odiados por los que persiguen el interés propio; los mansos por los agresivos; los
 que tienen hambre de justicia por los indiferentes; los misericordiosos por los implacables; los
-limpios de corazón por los freudianos (L19-29).
+limpios de corazón por los freudianos.
 
 En ese sentido Cristo trajo la espada: guerra contra la guerra, contra el egoísmo, contra el
 pecado, contra la impiedad. Si su guerra contra el mal lo llevó a la Cruz, sus seguidores que
@@ -62,7 +62,7 @@ predican su paz deben esperar ser crucificados. El hijo que entra en el sacerdoc
 odiado por su padre; la hija que entra en el convento, por su madre. Un joven puede hacerse
 budista en la universidad y sus padres solo protestarán, pero si se hace católico, habrá guerra.
 «I came not to bring peace but the sword»; pero la guerra es temporal: «In the world, you shall
-have distress, but have confidence: I have overcome the world» (L31-37).
+have distress, but have confidence: I have overcome the world».
 
 ## No bajar de la Cruz
 
@@ -72,7 +72,7 @@ Eres demasiado insistente en los derechos de tu Padre celestial, demasiado intra
 pecado, demasiado intolerante sobre tu divinidad». Sí, si hubiera bajado, habría habido paz; pero
 una paz falsa. Se quedó en la Cruz hasta que estuvo consumado. No comprometió su divinidad, ni la
 obediencia a la voluntad del Padre, ni minimizó el horror del pecado. Por eso pudo gritar al
-final: «It is consummated» (L39-47).
+final: «It is consummated».
 
 También nosotros debemos cuidarnos de concluir una paz falsa. Los comunistas piden unirse a una
 Liga por la Paz, pero es una paz falsa: quieren paz entre naciones no comunistas solo para mejor
@@ -80,10 +80,11 @@ propaganda. No podemos esperar que el mundo nos trate de modo distinto a como tr
 paz para nosotros significa una conciencia recta, no una dictadura sobre el proletariado; la
 tranquilidad del orden, no el derrocamiento de la sociedad; amar a los enemigos, no despreciarlos.
 Debemos estar preparados para sufrir el desprecio, incluso por ser pacificadores. Esta vida no es
-una victoria; es una guerra, y *Dios odia la paz en los destinados a la guerra* (L49-65).
+una victoria; es una guerra, y *Dios odia la paz en los destinados a la guerra*.
 
 ## Fuente original
 
 - Raw: `raw/Bases_doctrinales-raw/The_Cries_of_Jesus_From_the_Cross_capitulos/44_blessed_are_the_peacemakers.md`
-- Líneas: L3-65
-- Citas verificadas: `"Peace is the tranquility of order"` (L7, san Agustín); `"It is consummated"` (L3, L17, Jn 19,30); `"not as the world giveth"` (L23, Jn 14,27); `"Come down from the Cross, and we will believe"` (L41, Mt 27,42).
+- Citas verificadas en el capítulo:
+  - `"Peace is the tranquility of order"` (san Agustín); `"It is consummated"` (Jn 19,30); `"not as the world giveth"` (Jn 14,27); `"Come down from the Cross, and we will believe"` (Mt 27,42).
+

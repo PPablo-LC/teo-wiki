@@ -53,6 +53,17 @@ La escena pascual del lavatorio de los pies deja a los suyos el modelo de servic
 
 Thomas O'Loughlin, en *The Rites and Wrongs of Liturgy* (2017, cap. 9, Principio VII) y en su monografía *Washing Feet: Imitating the Example of Jesús in the Liturgy Today* (Liturgical Press, 2015), desarrolla extensamente el significado del lavatorio de los pies. Subraya que cuando Jesús da el mandamiento de «hacer lo que él ha hecho» (Jn 13,15), no está proponiendo un rito arcano sino «el acto más ordinario y servil posible»: lavar los pies. En un contexto cultural donde la hospitalidad exigía que un siervo lavara los pies de los invitados (cf. Gn 18,4; Lc 7,44), Jesús asume el rol del siervo. O'Loughlin argumenta que el lavatorio de los pies es el modelo litúrgico que muestra el carácter *encarnacional* de la liturgia cristiana: Cristo no instituye un rito misterioso sino un acto humano, ordinario, que expresa el servicio y la inversión de los valores del mundo (cf. Rites_wrongs-Liturgia, cap. 9, sobre los marginados y la visión litúrgico-social).
 
+### Según *Life of Christ* (LCh, cap. 37)
+
+Sheen sitúa el lavatorio en una secuencia de dos lavados: el de Betania, donde una mujer unge los pies de Cristo para el sepulcro, y el del Jueves Santo, donde Cristo lava los pies de los suyos. El primero es el que recibe el Señor; el segundo, el que da: juntos componen la ley del amor que se abaja (cap. 37).
+
+El gesto se describe con minucia de siete acciones —levantarse, dejar el manto, ceñirse la toalla, echar el agua, lavar, enjugar y volver a la mesa—, y Sheen lo lee como **resumen de la Encarnación**: el que estaba «en la forma de Dios» tomó la forma de esclavo (Flp 2,6-11) y la toalla es el símbolo de la humanidad asumida; el agua de la jofaina, la del bautismo. La humildad no es aquí una virtud entre otras, sino el modo mismo de la condescendencia divina: el rey que vuelve a su capital no se hace anunciar, se arrodilla.
+
+La respuesta de Pedro da al episodio su alcance sacramental. Su «no me lavarás los pies jamás» (Jn 13,8) no es reverencia sino rebeldía: quiere un Maestro a su medida, y sólo acepta el don cuando comprende que sin ese lavado «no tendrá parte» con Él; entonces pide manos y cabeza (Jn 13,9). Sheen distingue los dos lavados anunciados por el Señor —el total de la regeneración y el parcial de los pecados cotidianos—, y anota que Cristo lava también los pies de Judas: el servicio no se retira al que lo va a traicionar.
+
+- **La lección y el ejemplo**: «no es el siervo mayor que su señor» (Jn 13,12-16); el mandato no es una ceremonia a repetir sino una forma de vida a imitar.
+- **El Nombre**: el mismo que se ciñó la toalla es el que tiene un Nombre sobre todo nombre (Flp 2,10), de modo que la humildad y la gloria son dos caras del único misterio.
+
 ## Distinciones importantes
 
 - Lavatorio de los pies como gesto profético (signo) vs. como mandato (ética del servicio)

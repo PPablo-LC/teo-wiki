@@ -20,4 +20,4 @@ Página de créditos editoriales (masthead) del número 12 de la revista *Evange
 
 ## Referencia original
 
-📄 Fuente original: `02_masthead.md` (línea 1)
+📄 Fuente original: `02_masthead.md`

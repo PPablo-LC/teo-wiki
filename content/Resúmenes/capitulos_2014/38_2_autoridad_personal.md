@@ -25,6 +25,6 @@ Según lo permita el derecho, el superior puede delegar su potestad. Las delegac
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 2) Autoridad personal |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 2) Autoridad personal |

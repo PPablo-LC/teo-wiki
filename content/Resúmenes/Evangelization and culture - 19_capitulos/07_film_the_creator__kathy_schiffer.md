@@ -45,6 +45,6 @@ Desde entonces, la inteligencia artificial ha sido un tema habitual en muchas pe
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Film: Artificial Intelligence on the Big Screen: A Symbolic Clash of G |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Film: Artificial Intelligence on the Big Screen: A Symbolic Clash of G |

@@ -41,8 +41,8 @@ Se conocía a un sacerdote que hablaba casi en el mismo tono en su habitación, 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Adaptation |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Adaptation |
 
 ## Secciones incluidas

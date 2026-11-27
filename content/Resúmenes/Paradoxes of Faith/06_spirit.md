@@ -47,8 +47,8 @@ Todo en el mundo es objeto de conocimiento, excepto el espíritu que construye e
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Spirit |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Spirit |
 
 ## Secciones incluidas

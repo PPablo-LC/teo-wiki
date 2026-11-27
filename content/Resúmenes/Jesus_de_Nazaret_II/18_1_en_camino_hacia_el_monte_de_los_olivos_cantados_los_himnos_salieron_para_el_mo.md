@@ -30,6 +30,6 @@ Tres profecías camino del huerto: (1) Za 13, 7: heriré al pastor y se dispersa
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. EN CAMINO HACIA EL MONTE DE LOS OLIVOS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. EN CAMINO HACIA EL MONTE DE LOS OLIVOS |

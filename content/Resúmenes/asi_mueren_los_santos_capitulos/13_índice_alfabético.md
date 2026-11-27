@@ -57,7 +57,7 @@ Victoria Rasoamanarivo · Vladimir Ghika.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ÍNDICE ALFABÉTICO |
-| 3-199 | — | Listado alfabético de ~100 santos con fechas |
+| Nivel | Sección |
+|-------|---------|
+| H1 | ÍNDICE ALFABÉTICO |
+| — | Listado alfabético de ~100 santos con fechas |

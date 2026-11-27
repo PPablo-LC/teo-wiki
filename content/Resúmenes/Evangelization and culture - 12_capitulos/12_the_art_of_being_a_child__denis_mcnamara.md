@@ -77,4 +77,4 @@ Denis McNamara (Prof. Arquitectura Histórica, Benedictine College) ofrece una *
 
 ## Referencia original
 
-📄 Fuente original: `12_art.md` (línea 1–53)
+📄 Fuente original: `12_art.md`

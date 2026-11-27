@@ -156,35 +156,35 @@ El medio más importante, dejado para el final: «la imitación de Nuestro Seño
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo III Medios para formar el carácter |
-| 3 | H3 | Quiérelo |
-| 14 | H3 | La libertad |
-| 38 | H3 | Demóstenes |
-| 46 | H3 | Ejercítate |
-| 60 | H3 | Absténte |
-| 73 | H3 | Ejercítate |
-| 75 | H3 | Ejercítate |
-| 105 | H3 | Ejercítate |
-| 109 | H3 | El |
-| 123 | H3 | Sé constante |
-| 130 | H3 | Saber |
-| 156 | H3 | Fieles a la verdad |
-| 169 | H3 | ¿Vale la pena mentir? |
-| 177 | H3 | El hombre de palabra |
-| 197 | H3 | Sé |
-| 215 | H3 | Los |
-| 235 | H3 | El cerrojo roto |
-| 247 | H3 | El |
-| 267 | H3 | Pon |
-| 291 | H3 | Hazlo bien |
-| 297 | H3 | Hoy |
-| 307 | H3 | Hazte un plan |
-| 321 | H3 | Sé puntual |
-| 343 | H3 | Descanso, no ocio |
-| 354 | H3 | ¿Qué es lo más difícil en el mundo? |
-| 378 | H3 | Al final del día |
-| 403 | H3 | Descubrir la raíz |
-| 426 | H3 | A los pies del Señor |
-| 435 | H3 | «Gaudeamus igitur» |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo III Medios para formar el carácter |
+| H3 | Quiérelo |
+| H3 | La libertad |
+| H3 | Demóstenes |
+| H3 | Ejercítate |
+| H3 | Absténte |
+| H3 | Ejercítate |
+| H3 | Ejercítate |
+| H3 | Ejercítate |
+| H3 | El |
+| H3 | Sé constante |
+| H3 | Saber |
+| H3 | Fieles a la verdad |
+| H3 | ¿Vale la pena mentir? |
+| H3 | El hombre de palabra |
+| H3 | Sé |
+| H3 | Los |
+| H3 | El cerrojo roto |
+| H3 | El |
+| H3 | Pon |
+| H3 | Hazlo bien |
+| H3 | Hoy |
+| H3 | Hazte un plan |
+| H3 | Sé puntual |
+| H3 | Descanso, no ocio |
+| H3 | ¿Qué es lo más difícil en el mundo? |
+| H3 | Al final del día |
+| H3 | Descubrir la raíz |
+| H3 | A los pies del Señor |
+| H3 | «Gaudeamus igitur» |

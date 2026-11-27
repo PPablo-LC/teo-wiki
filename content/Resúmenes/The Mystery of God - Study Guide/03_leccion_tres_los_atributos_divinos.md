@@ -58,4 +58,4 @@ Las preguntas abordan la simplicidad divina, la eternidad, el conocimiento divin
 
 ## Fuente original
 
-- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/03_lesson_three_the_divine_attributes.md` (líneas 1-226)
+- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/03_lesson_three_the_divine_attributes.md`

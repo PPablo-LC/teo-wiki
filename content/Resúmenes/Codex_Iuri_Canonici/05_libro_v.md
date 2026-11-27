@@ -44,12 +44,12 @@ Capacidad de disponer libremente a favor de causas pías *inter vivos* y *mortis
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | LIBRO V |
-| 3 | H3 | DE LOS BIENES TEMPORALES DE LA IGLESIA (Cann. 1254 – 1310) |
-| 20 | H4 | TÍTULO I |
-| 69 | H4 | TÍTULO II |
-| 154 | H4 | TÍTULO III |
-| 190 | H4 | TÍTULO IV |
-| 248 | H3 | PARTE I |
+| Nivel | Sección |
+|-------|---------|
+| H2 | LIBRO V |
+| H3 | DE LOS BIENES TEMPORALES DE LA IGLESIA (Cann. 1254 – 1310) |
+| H4 | TÍTULO I |
+| H4 | TÍTULO II |
+| H4 | TÍTULO III |
+| H4 | TÍTULO IV |
+| H3 | PARTE I |

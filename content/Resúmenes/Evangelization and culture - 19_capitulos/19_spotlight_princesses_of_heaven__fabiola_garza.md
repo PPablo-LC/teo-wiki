@@ -33,6 +33,6 @@ Fabiola abre el libro recordando que «toda niña es una princesa... No hay prin
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Spotlight: Princesses of Heaven — Word on Fire Votive |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Spotlight: Princesses of Heaven — Word on Fire Votive |

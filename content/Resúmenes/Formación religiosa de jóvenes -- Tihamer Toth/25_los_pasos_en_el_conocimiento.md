@@ -28,7 +28,7 @@ Sección del capítulo dedicada a los principios que han de regir la informació
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LOS PASOS EN EL CONOCIMIENTO |
-| 5 | H3 | Cuatro principios sobre la información respecto a la sexualidad |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LOS PASOS EN EL CONOCIMIENTO |
+| H3 | Cuatro principios sobre la información respecto a la sexualidad |

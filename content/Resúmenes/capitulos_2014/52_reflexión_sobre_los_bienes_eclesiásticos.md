@@ -44,6 +44,6 @@ Según los límites establecidos, los actos de administración extraordinaria pu
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Reflexión sobre los bienes eclesiásticos |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Reflexión sobre los bienes eclesiásticos |

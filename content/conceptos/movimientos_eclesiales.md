@@ -42,7 +42,7 @@ Juan Pablo II quiso el primer encuentro mundial de movimientos en Pentecostés d
 
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
-- **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — Juan Pablo II al movimiento de CL: «La Chiesa è movimento»: el cristianismo es un «avvenimiento» —el hecho de Cristo— que se transmite como «pertenencia» a Él a través de la compañía, no por ideología; «para la formación de la personalidad cristiana, la pertenencia a Cristo a través de componentes históricos» —la jerarquía, la doctrina, la tradición— no basta sin una «presencia existencial» que haga la verdad: una compañía, movimiento o comunidad que testimonia el hecho a través del tiempo (07, L171-175).
+- **Parte seconda (archivo `07_parte_seconda_o_è_la_chiesa_che_ha_abbandonato_l_umanità.md`)** — Juan Pablo II al movimiento de CL: «La Chiesa è movimento»: el cristianismo es un «avvenimiento» —el hecho de Cristo— que se transmite como «pertenencia» a Él a través de la compañía, no por ideología; «para la formación de la personalidad cristiana, la pertenencia a Cristo a través de componentes históricos» —la jerarquía, la doctrina, la tradición— no basta sin una «presencia existencial» que haga la verdad: una compañía, movimiento o comunidad que testimonia el hecho a través del tiempo (07).
 - **Parte prima (archivo `00_preliminares.md`)** — Guissani describe esta vía de pertenencia: «la pertenencia a la periferia del viso humano acelerado no es un ir contra la propia cultura, sino el camino que el cristianismo ha recorrido siempre para llegar al hombre concreto» (00, prefacio de Benedicto XVI sobre CL).
 ## Distinciones importantes
 

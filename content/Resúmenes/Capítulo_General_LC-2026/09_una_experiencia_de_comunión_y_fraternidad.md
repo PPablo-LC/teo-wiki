@@ -49,8 +49,8 @@ Si todos, personal y comunitariamente, ponen de su parte para vivir estos elemen
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Una experiencia de comunión y fraternidad |
-| 9 | H3 | Un tiempo de esperanza – una nueva etapa |
-| 15 | H3 | Discernir cómo responder al presente |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Una experiencia de comunión y fraternidad |
+| H3 | Un tiempo de esperanza – una nueva etapa |
+| H3 | Discernir cómo responder al presente |

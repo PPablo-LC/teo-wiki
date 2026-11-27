@@ -35,6 +35,6 @@ tags: ["resumen", "a que jesus seguimos"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | I. PARA TODOS LOS CRISTIANOS ES DECISIVO CONOCER BIEN A JESUCRISTO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | I. PARA TODOS LOS CRISTIANOS ES DECISIVO CONOCER BIEN A JESUCRISTO |

@@ -56,11 +56,11 @@ La Iglesia no encuentra la fuente de su fe y de su estructura constitutiva en lo
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Ordinatio sacerdotalis |
-| 9 | H2 | Enseñanza «no discutible» ni meramente disciplinar |
-| 33 | H2 | La Respuesta afirma que esta doctrina pertenece al depósito de la fe de la Iglesia |
-| 37 | H2 | Favorece la comunión con las Iglesias ortodoxas |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Ordinatio sacerdotalis |
+| H2 | Enseñanza «no discutible» ni meramente disciplinar |
+| H2 | La Respuesta afirma que esta doctrina pertenece al depósito de la fe de la Iglesia |
+| H2 | Favorece la comunión con las Iglesias ortodoxas |
 
 ## Secciones incluidas

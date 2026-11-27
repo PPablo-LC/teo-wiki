@@ -42,9 +42,9 @@ En teología, la comedia es faceta de nuestra creación a *imago Dei*: Dios se d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Lifegiving Nature of Comedy — Bobby Ángel |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Lifegiving Nature of Comedy — Bobby Ángel |
 
 ## Secciones incluidas
 

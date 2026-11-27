@@ -31,6 +31,6 @@ En Mateo, tras la purificación, los niños repiten en el templo el «Hosanna al
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. ENTRADA EN JERUSALÉN Y PURIFICACIÓN DEL TEMPLO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. ENTRADA EN JERUSALÉN Y PURIFICACIÓN DEL TEMPLO |

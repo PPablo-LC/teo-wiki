@@ -69,9 +69,8 @@ tuo niente») (MDO, 03, 37-39).
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `03_la_ragione_della_carita.md` (líneas 15, 37-39),
-  `07_l_abbraccio_del_diverso.md` (línea 9) y
+  `03_la_ragione_della_carita.md`,
+  `07_l_abbraccio_del_diverso.md` y
   `11_cultura_della_vita_e_cultura_della_morte.md`; y
   [[attraverso_la_compagnia_dei_credenti]] (TACDC, *passim*).
-- **Índices**: `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`
-  y `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.
+- **Índices**: `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md` y `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

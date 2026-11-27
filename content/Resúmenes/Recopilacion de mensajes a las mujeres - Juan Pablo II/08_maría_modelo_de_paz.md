@@ -31,8 +31,8 @@ El Papa pide a la Virgen Santísima que proteja a los hombres y mujeres que, sir
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | María, modelo de paz |
+| Nivel | Sección |
+|-------|---------|
+| H2 | María, modelo de paz |
 
 ## Secciones incluidas

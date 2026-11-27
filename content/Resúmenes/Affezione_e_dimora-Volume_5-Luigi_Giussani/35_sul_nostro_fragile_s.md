@@ -59,20 +59,20 @@ La presencia de la compañía debe convertirse en forma del acto, no en una inte
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SUL NOSTRO FRAGILE SÌ |
-| 45 | — | Rendere ragione delle parole |
-| 63 | — | Il mondo scarta la nostra capacità affettiva |
-| 65 | — | Una incapacità drammatica |
-| 79 | — | L'opera dello Spirito |
-| 93 | — | ...sulla fragilità del tuo sì |
-| 101 | — | L'angelo che ti porta l'annuncio |
-| 109 | — | Ragionevole perché corrisponde al cuore |
-| 133 | — | Lo scetticismo |
-| 141 | — | L'impatto con una diversità |
-| 153 | — | L'io e il noi |
-| 165 | — | Dal di dentro di un popolo |
-| 191 | — | Immedesimati con Cristo |
-| 223 | — | Forma dell'atto |
-| 227 | — | Veni per Mariam |
+| Nivel | Sección |
+|-------|---------|
+| H1 | SUL NOSTRO FRAGILE SÌ |
+| — | Rendere ragione delle parole |
+| — | Il mondo scarta la nostra capacità affettiva |
+| — | Una incapacità drammatica |
+| — | L'opera dello Spirito |
+| — | ...sulla fragilità del tuo sì |
+| — | L'angelo che ti porta l'annuncio |
+| — | Ragionevole perché corrisponde al cuore |
+| — | Lo scetticismo |
+| — | L'impatto con una diversità |
+| — | L'io e il noi |
+| — | Dal di dentro di un popolo |
+| — | Immedesimati con Cristo |
+| — | Forma dell'atto |
+| — | Veni per Mariam |

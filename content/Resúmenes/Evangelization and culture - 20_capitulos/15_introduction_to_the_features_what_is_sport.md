@@ -35,6 +35,6 @@ Se da un adelanto de los temas que se cubrirán: la fe vibrante de una doble de 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Introduction to the Features: What Is Sport? |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Introduction to the Features: What Is Sport? |

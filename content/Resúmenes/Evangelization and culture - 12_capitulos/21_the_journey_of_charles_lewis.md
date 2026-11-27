@@ -78,4 +78,4 @@ Entrevista a **Charles Lewis** (escritor católico, Toronto, miembro Word on Fir
 
 ## Referencia original
 
-📄 Fuente original: `21_mission.md` (línea 1–103)
+📄 Fuente original: `21_mission.md`

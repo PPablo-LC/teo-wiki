@@ -28,6 +28,6 @@ tags: ["resumen", "saint thomas aquinas capitulos"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 4. Creation |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 4. Creation |

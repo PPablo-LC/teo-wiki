@@ -47,6 +47,6 @@ tags: ["resumen", "saint thomas aquinas capitulos"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 7. The Soul |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 7. The Soul |

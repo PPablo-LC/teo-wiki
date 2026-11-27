@@ -40,9 +40,9 @@ Su lista paródica «The Hundred Greatest Books That I've Read»: tras Salinger,
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Steve Martín's Search for Truth — Dr. Gregory Yeske |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Steve Martín's Search for Truth — Dr. Gregory Yeske |
 
 ## Secciones incluidas
 

@@ -12,15 +12,15 @@ tags: ["espiritualidad", "moral", "castidad", "vida_religiosa", "leonardo_castel
 
 ## Definición
 
-La «sublimación de los afectos» es la propuesta de Castellani para entender la castidad religiosa como integración y elevación de los afectos, no como simple represión: «la castidad debe volverse sublimación de los afectos» (CyF, carta III L51-67; [[castidad_religiosa]]).
+La «sublimación de los afectos» es la propuesta de Castellani para entender la castidad religiosa como integración y elevación de los afectos, no como simple represión: «la castidad debe volverse sublimación de los afectos» (CyF, carta III; [[castidad_religiosa]]).
 
 ## Desarrollo doctrinal
 
-La carta sobre la castidad distingue tres «eunucos» a partir de Mt 19,12. El primero —«impotentes, frígidos, asexuados»— corre el riesgo de una represión exagerada que «pueriliza»; el segundo es el «solterón de la gloria de Dios», que ha hecho de la continencia una identidad y no un medio; el tercero es el que ha entendido que «de esta palabra no todos son capaces» y ha ordenado su vida a un fin más alto (CyF, carta III L51-141; [[virtudes_puritanas]]).
+La carta sobre la castidad distingue tres «eunucos» a partir de Mt 19,12. El primero —«impotentes, frígidos, asexuados»— corre el riesgo de una represión exagerada que «pueriliza»; el segundo es el «solterón de la gloria de Dios», que ha hecho de la continencia una identidad y no un medio; el tercero es el que ha entendido que «de esta palabra no todos son capaces» y ha ordenado su vida a un fin más alto (CyF, carta III; [[virtudes_puritanas]]).
 
-El fundamento es tomista: la *Suma contra Gentes* III c. CXXXVI ordena la virginidad a la contemplación. No se trata, por tanto, de rechazar el afecto sino de darle un objeto digno. La carta describe los tres grados —«bene, faciliter, delectabiliter»— y propone como remedios concretos la formación seminarial y la oratoria: «en un piloto es pecado mortal tener los ojos cerrados», dice San Juan de la Cruz a propósito de la dirección (CyF, carta III L121-141; [[formación_sacerdotal]]).
+El fundamento es tomista: la *Suma contra Gentes* III c. CXXXVI ordena la virginidad a la contemplación. No se trata, por tanto, de rechazar el afecto sino de darle un objeto digno. La carta describe los tres grados —«bene, faciliter, delectabiliter»— y propone como remedios concretos la formación seminarial y la oratoria: «en un piloto es pecado mortal tener los ojos cerrados», dice San Juan de la Cruz a propósito de la dirección (CyF, carta III; [[formación_sacerdotal]]).
 
-El intermezzo poético de la misma carta muestra el rostro positivo de la sublimación: la maternidad espiritual de santa Taís, santa Teresa y la Virgen; «no diré que soy casto... diré que soy pobre»; la «madrecito» San Juan de la Cruz y el «padrazo» santa Teresa, Roque González (CyF, carta III L89-119; [[maternidad_espiritual]]). Los afectos no se extinguen: se transforman en paternidad y maternidad espirituales, en caridad y en contemplación.
+El intermezzo poético de la misma carta muestra el rostro positivo de la sublimación: la maternidad espiritual de santa Taís, santa Teresa y la Virgen; «no diré que soy casto... diré que soy pobre»; la «madrecito» San Juan de la Cruz y el «padrazo» santa Teresa, Roque González (CyF, carta III; [[maternidad_espiritual]]). Los afectos no se extinguen: se transforman en paternidad y maternidad espirituales, en caridad y en contemplación.
 
 La alternativa —la «continencia sin caridad» de Hugo Wast— es una virtud informe, tan peligrosa como el vicio: «una virtud informe es a veces más peligrosa que un vicio» (CyF, carta I; [[caridad]]).
 
@@ -51,5 +51,5 @@ Se vincula con [[castidad_religiosa]], [[virtudes_puritanas]], [[gazmoñería]],
 
 ## Referencias
 
-- CyF, `23_sobre_la_castidad.md` L11-141; `21_sobre_la_obediencia.md` L39-41.
+- CyF, `23_sobre_la_castidad.md`; `21_sobre_la_obediencia.md`.
 - CEC 2337-2349, 2527, 923-924; S. Th. I-II q. 34; II-II qq. 151-155; *CG* III c. CXXXVI; Mt 19,12.

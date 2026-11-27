@@ -55,6 +55,6 @@ Cristo, victorioso sobre la muerte, está presente activamente también en la hi
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (LA RESURRECCIÓN DE JESUCRISTO) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (LA RESURRECCIÓN DE JESUCRISTO) |

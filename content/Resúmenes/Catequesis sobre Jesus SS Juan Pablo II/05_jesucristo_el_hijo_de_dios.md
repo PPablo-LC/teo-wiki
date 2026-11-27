@@ -66,6 +66,6 @@ La oración de Jesús como Hijo «salido del Padre» expresa que Él «va al Pad
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (JESUCRISTO: EL HIJO DE DIOS) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (JESUCRISTO: EL HIJO DE DIOS) |

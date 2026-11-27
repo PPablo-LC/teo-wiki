@@ -43,6 +43,6 @@ A María Santísima, que en Pentecostés fue la dulce pastora de la primera comu
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Mensaje a los miembros laicos del Regnum Christi |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Mensaje a los miembros laicos del Regnum Christi |

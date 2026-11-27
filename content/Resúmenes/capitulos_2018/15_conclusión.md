@@ -29,6 +29,6 @@ tags: ["resumen", "capitulos 2018"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Conclusión |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Conclusión |

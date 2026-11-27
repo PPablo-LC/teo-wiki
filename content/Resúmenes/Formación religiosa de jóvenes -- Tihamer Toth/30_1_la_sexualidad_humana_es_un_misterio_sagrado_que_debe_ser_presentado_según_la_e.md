@@ -46,8 +46,8 @@ Sección que recoge algunos textos del Documento Conclusivo de Aparecida relacio
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. La sexualidad humana es un misterio sagrado que debe ser presentado |
-| 10 | H3 | Métodos recomendados |
-| 15 | H3 | Apéndice III |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. La sexualidad humana es un misterio sagrado que debe ser presentado |
+| H3 | Métodos recomendados |
+| H3 | Apéndice III |

@@ -57,7 +57,6 @@ en la verdad, ternura en el trato, paciencia en el camino.
 
 ## Referencias
 
-- **Fuente**: [[living_the_truth_in_love]] (LTL), `01_foreword.md`
-  (líneas 1-27) y `23_contributors.md`.
+- **Fuente**: [[living_the_truth_in_love]] (LTL), `01_foreword.md` y `23_contributors.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Living_the_Truth_in_Love/índice.md`.

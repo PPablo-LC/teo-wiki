@@ -58,10 +58,10 @@ Nadie puede ignorar que el primer ejemplo y la mayor ayuda que los padres dan a 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PADRE Y MADRE COMO EDUCADORES |
-| 10 | H3 | La justa intimidad |
-| 14 | H3 | El autodominio |
-| 19 | H3 | Los padres modelo para los propios hijos |
-| 26 | H3 | Un santuario de la vida y de la fe |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PADRE Y MADRE COMO EDUCADORES |
+| H3 | La justa intimidad |
+| H3 | El autodominio |
+| H3 | Los padres modelo para los propios hijos |
+| H3 | Un santuario de la vida y de la fe |

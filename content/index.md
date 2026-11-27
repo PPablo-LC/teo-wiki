@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-11-26'
+updated: '2026-11-27'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -4734,6 +4734,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[levantaos_vamos]]
 - [[ley_protección_menores]]
 - [[life_is_worth_living]]
+- [[life_of_christ]]
 - [[light_from_light]]
 - [[líneas_guía_protección_menores]]
 - [[living_the_truth_in_love]]

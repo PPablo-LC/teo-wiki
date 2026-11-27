@@ -55,6 +55,6 @@ Los diálogos se repropone integramente: se reproducen no solo los pasajes relat
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | **NOTA PER LA LETTURA** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | **NOTA PER LA LETTURA** |

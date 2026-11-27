@@ -20,9 +20,9 @@ Tercera parte de *Affezione e dimora*, que reúne los diálogos (Tischreden) ded
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | **III** - **IL SACRIFICIO COME CONDIZIONE** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | **III** - **IL SACRIFICIO COME CONDIZIONE** |
 
 ## Secciones incluidas
 

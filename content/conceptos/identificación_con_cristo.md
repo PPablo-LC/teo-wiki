@@ -62,7 +62,7 @@ la identidad: «no ha sido más él, también frente a sus iras y pecados»
 ### La convenienza umana della fede (CUDF)
 
 El cuaderno de 1987 dedica su primera sección entera a «Zaqueo, la identidad
-con Cristo» (índice, L73-93; 03, 59-93). Giussani despliega la identificación
+con Cristo» (índice; 03, 59-93). Giussani despliega la identificación
 como:
 - Hecho histórico (Zaqueo, persona concreta, nombre propio).
 - Acontecimiento que redefine la identidad («no ha sido más él»).

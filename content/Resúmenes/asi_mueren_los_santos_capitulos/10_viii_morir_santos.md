@@ -124,19 +124,19 @@ unos en lugar de los otros, ¡quién sabe!». Cierra con Rm 14, 7-9:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | VIII. MORIR SANTOS |
-| 3-9 | — | Los laicos: «sencillamente cristianos» (LG 33; 1 Cor 1, 2) |
-| 17 | H2 | Beata Elisabetta Canori Mora (1774-1825) |
-| 41 | H2 | Venerable Margherita Occhiena, madre de san Juan Bosco (1788-1856) |
-| 63 | H2 | Beato Federico Ozanam, docente universitario (1813-1853) |
-| 95 | H2 | Santa Celia Guérin (1831-1877) y San Luis Martín (1823-1894) |
-| 127 | H2 | Beato Giuseppe Tovini, abogado (1841-1897) |
-| 143 | H2 | San Giuseppe Moscati, médico (1880-1927) |
-| 161 | H2 | Sierva de Dios Madeleine Delbrêl, asistente social (1904-1964) |
-| 189 | H2 | Siervo de Dios Giorgio La Pira, alcalde de Florencia (1904-1977) |
-| 205 | H2 | Santa Gianna Beretta Molla, pediatra y madre (1922-1962) |
-| 219 | H2 | Siervo de Dios Jérôme Lejeune, científico genetista (1926-1994) |
-| 239 | H2 | Siervo de Dios Jacques Fesch, condenado a muerte (1930-1957) |
-| 261 | — | Conclusión: Péguy, Bernanos, Rm 14, 7-9 |
+| Nivel | Sección |
+|-------|---------|
+| H1 | VIII. MORIR SANTOS |
+| — | Los laicos: «sencillamente cristianos» (LG 33; 1 Cor 1, 2) |
+| H2 | Beata Elisabetta Canori Mora (1774-1825) |
+| H2 | Venerable Margherita Occhiena, madre de san Juan Bosco (1788-1856) |
+| H2 | Beato Federico Ozanam, docente universitario (1813-1853) |
+| H2 | Santa Celia Guérin (1831-1877) y San Luis Martín (1823-1894) |
+| H2 | Beato Giuseppe Tovini, abogado (1841-1897) |
+| H2 | San Giuseppe Moscati, médico (1880-1927) |
+| H2 | Sierva de Dios Madeleine Delbrêl, asistente social (1904-1964) |
+| H2 | Siervo de Dios Giorgio La Pira, alcalde de Florencia (1904-1977) |
+| H2 | Santa Gianna Beretta Molla, pediatra y madre (1922-1962) |
+| H2 | Siervo de Dios Jérôme Lejeune, científico genetista (1926-1994) |
+| H2 | Siervo de Dios Jacques Fesch, condenado a muerte (1930-1957) |
+| — | Conclusión: Péguy, Bernanos, Rm 14, 7-9 |

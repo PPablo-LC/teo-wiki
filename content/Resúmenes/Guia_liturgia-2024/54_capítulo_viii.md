@@ -24,6 +24,6 @@ Este archivo contiene únicamente el encabezado que abre el Capítulo VIII de la
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo VIII |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo VIII |

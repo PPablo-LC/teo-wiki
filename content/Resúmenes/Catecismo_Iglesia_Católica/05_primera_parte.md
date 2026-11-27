@@ -102,40 +102,40 @@ Quien dice «Yo creo», dice «Yo me adhiero a lo que nosotros creemos»: la com
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PRIMERA PARTE |
-| 2 | H4 | LA PROFESIÓN DE LA FE |
-| 4 | H2 | PRIMERA SECCIÓN |
-| 5 | H4 | "CREO" - "CREEMOS" |
-| 7 | H3 | CAPÍTULO TERCERO |
-| 9 | H4 | LA RESPUESTA DEL HOMBRE A DIOS |
-| 15 | H4 | ARTÍCULO 1 |
-| 17 | H4 | CREO |
-| 19 | H5 | I. La obediencia de la fe |
-| 23 | H5 | Abraham, «padre de todos los creyentes» |
-| 31 | H5 | María: «Dichosa la que ha creído» |
-| 37 | H5 | II. "Yo sé en quién tengo puesta mi fe" (2 Tm 1,12) |
-| 39 | H5 | Creer solo en Dios |
-| 43 | H5 | Creer en Jesucristo, el Hijo de Dios |
-| 47 | H5 | Creer en el Espíritu Santo |
-| 53 | H5 | III. Las características de la fe |
-| 55 | H5 | La fe es una gracia |
-| 59 | H5 | La fe es un acto humano |
-| 65 | H5 | La fe y la inteligencia |
-| 75 | H5 | La libertad de la fe |
-| 79 | H5 | La necesidad de la fe |
-| 83 | H5 | La perseverancia en la fe |
-| 87 | H5 | La fe, comienzo de la vida eterna |
-| 97 | H4 | ARTÍCULO 2 |
-| 99 | H4 | CREEMOS |
-| 105 | H5 | I. "Mira, Señor, la fe de tu Iglesia" |
-| 111 | H5 | II. El lenguaje de la fe |
-| 117 | H5 | III. Una sola fe |
-| 127 | H5 | Resumen |
-| 147 | H1 | PRIMERA PARTE |
-| 149 | H2 | SEGUNDA SECCIÓN |
-| 151 | H4 | LA PROFESIÓN DE LA FE CRISTIANA |
-| 155 | H5 | Símbolo de los Apóstoles Credo de Nicea-Constantinopla |
-| 279 | H5 | Los símbolos de la fe |
-| 316 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PRIMERA PARTE |
+| H4 | LA PROFESIÓN DE LA FE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | "CREO" - "CREEMOS" |
+| H3 | CAPÍTULO TERCERO |
+| H4 | LA RESPUESTA DEL HOMBRE A DIOS |
+| H4 | ARTÍCULO 1 |
+| H4 | CREO |
+| H5 | I. La obediencia de la fe |
+| H5 | Abraham, «padre de todos los creyentes» |
+| H5 | María: «Dichosa la que ha creído» |
+| H5 | II. "Yo sé en quién tengo puesta mi fe" (2 Tm 1,12) |
+| H5 | Creer solo en Dios |
+| H5 | Creer en Jesucristo, el Hijo de Dios |
+| H5 | Creer en el Espíritu Santo |
+| H5 | III. Las características de la fe |
+| H5 | La fe es una gracia |
+| H5 | La fe es un acto humano |
+| H5 | La fe y la inteligencia |
+| H5 | La libertad de la fe |
+| H5 | La necesidad de la fe |
+| H5 | La perseverancia en la fe |
+| H5 | La fe, comienzo de la vida eterna |
+| H4 | ARTÍCULO 2 |
+| H4 | CREEMOS |
+| H5 | I. "Mira, Señor, la fe de tu Iglesia" |
+| H5 | II. El lenguaje de la fe |
+| H5 | III. Una sola fe |
+| H5 | Resumen |
+| H1 | PRIMERA PARTE |
+| H2 | SEGUNDA SECCIÓN |
+| H4 | LA PROFESIÓN DE LA FE CRISTIANA |
+| H5 | Símbolo de los Apóstoles Credo de Nicea-Constantinopla |
+| H5 | Los símbolos de la fe |
+| H3 | Referencias |

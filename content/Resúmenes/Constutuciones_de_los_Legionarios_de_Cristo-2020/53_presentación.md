@@ -39,6 +39,6 @@ La presentación expone la función teológica y canónica de las constituciones
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Presentación |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Presentación |

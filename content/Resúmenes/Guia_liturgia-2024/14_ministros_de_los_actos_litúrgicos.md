@@ -51,9 +51,9 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Ministros de los actos litúrgicos |
-| 3 | H3 | Sacerdotes y diáconos |
-| 9 | H3 | Acólitos y lectores |
-| 17 | H3 | Prefecto de capilla |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Ministros de los actos litúrgicos |
+| H3 | Sacerdotes y diáconos |
+| H3 | Acólitos y lectores |
+| H3 | Prefecto de capilla |

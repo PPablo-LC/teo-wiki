@@ -26,9 +26,9 @@ Sección introductoria del volumen que sitúa históricamente las *Constitucione
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Breve introducción histórica |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Breve introducción histórica |
 
 ## Secciones incluidas
 

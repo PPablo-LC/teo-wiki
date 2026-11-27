@@ -26,6 +26,6 @@ Los participantes en el Capítulo General celebrado en el otoño de 1992 pidiero
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Versión del año 1994 |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Versión del año 1994 |

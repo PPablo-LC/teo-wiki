@@ -31,6 +31,6 @@ La consulta al religioso previa a un nombramiento fomenta un clima de respeto y 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 4) Participación y corresponsabilidad |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 4) Participación y corresponsabilidad |

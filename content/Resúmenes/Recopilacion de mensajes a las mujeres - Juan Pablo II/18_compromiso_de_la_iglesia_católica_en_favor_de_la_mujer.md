@@ -44,9 +44,9 @@ Como seguidores de [[jesucristo]], que se identifica con los más pequeños, no 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | COMPROMISO DE LA IGLESIA CATÓLICA EN FAVOR DE LA MUJER |
-| 3 | H4 | Discurso a la Delegación de la Santa Sede que participará en la Conferencia de Pekín |
+| Nivel | Sección |
+|-------|---------|
+| H2 | COMPROMISO DE LA IGLESIA CATÓLICA EN FAVOR DE LA MUJER |
+| H4 | Discurso a la Delegación de la Santa Sede que participará en la Conferencia de Pekín |
 
 ## Secciones incluidas

@@ -54,7 +54,7 @@ en medio de la infidelidad.
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivo
-  `04_alla_ricerca_del_volto_umano_1996.md` (línea 69).
+  `04_alla_ricerca_del_volto_umano_1996.md`.
 - **Obra citada**: S. Undset, *Kristin figlia di Lavrans*, BUR, Milano, 2010,
   p. 691.
 - **Índice de la fuente**:

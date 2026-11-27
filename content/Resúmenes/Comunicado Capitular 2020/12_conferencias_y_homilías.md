@@ -20,6 +20,6 @@ Encabezado de sección «Conferencias y homilías», a modo de divisoria que agr
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Conferencias y homilías |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Conferencias y homilías |

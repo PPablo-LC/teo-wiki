@@ -53,7 +53,7 @@ testimonio sirve a la tesis sobre la [[fe]] como apuesta decisiva y sobre el
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivo
-  `03_si_può_vivere_così_1995.md` (línea 129).
+  `03_si_può_vivere_così_1995.md`.
 - **Obra citada**: J. Guitton, *Paolo VI segreto*, Edizioni Paoline, Milano,
   1985, pp. 152-153.
 - **Índice de la fuente**:

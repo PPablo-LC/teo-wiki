@@ -48,6 +48,6 @@ En este esfuerzo por conocer el mensaje de Cristo y hacerlo guía de la propia v
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CATEQUESIS La catequesis no puede limitarse a una formación meramente  |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CATEQUESIS La catequesis no puede limitarse a una formación meramente  |

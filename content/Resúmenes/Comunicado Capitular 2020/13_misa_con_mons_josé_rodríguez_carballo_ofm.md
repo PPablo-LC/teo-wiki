@@ -61,13 +61,13 @@ Con la *Oración colecta*, pide que el Señor dé la gracia de conocer lo que le
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Misa con Mons. José Rodríguez Carballo, O.F.M. |
-| 7 | H3 | Saludo del P. John Connor, L.C. |
-| 23 | H3 | Introducción de Mons. José Rodríguez Carballo, O.F.M. |
-| 35 | H3 | Homilía de Mons. José Rodríguez Carballo, O.F.M. |
-| 43 | H4 | El Evangelio |
-| 55 | H4 | El carisma |
-| 67 | H4 | Los signos de los tiempos |
-| 101 | H3 | Exhortación final de Mons. José Rodríguez Carballo, O.F.M. |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Misa con Mons. José Rodríguez Carballo, O.F.M. |
+| H3 | Saludo del P. John Connor, L.C. |
+| H3 | Introducción de Mons. José Rodríguez Carballo, O.F.M. |
+| H3 | Homilía de Mons. José Rodríguez Carballo, O.F.M. |
+| H4 | El Evangelio |
+| H4 | El carisma |
+| H4 | Los signos de los tiempos |
+| H3 | Exhortación final de Mons. José Rodríguez Carballo, O.F.M. |

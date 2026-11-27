@@ -62,6 +62,6 @@ quienes no lo conocen explícitamente.
 ## Referencias
 
 - **Fuente**: [[priests_what_lies_ahead]] (PWL),
-  `03_i_the_priest_as_teacher_of_a_doctrine_of_life.md` (líneas 1-201).
+  `03_i_the_priest_as_teacher_of_a_doctrine_of_life.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

@@ -27,9 +27,9 @@ Encabezado divisorio de la Tercera Parte de las *Constituciones*, dedicada al go
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Parte III |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Parte III |
 
 ## Secciones incluidas
 

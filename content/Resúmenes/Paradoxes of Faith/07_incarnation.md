@@ -44,8 +44,8 @@ Hay que rehabilitar la palabra [[alma]]. «Salvar el alma» no es una preocupaci
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Incarnation |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Incarnation |
 
 ## Secciones incluidas

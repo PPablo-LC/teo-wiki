@@ -35,9 +35,9 @@ Gadamer: «Es la tiranía de los prejuicios ocultos lo que nos hace sordos a lo 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Going Through Hell: Suffering, Loss, & Mission in the Aeneid — Jared Zimmerer |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Going Through Hell: Suffering, Loss, & Mission in the Aeneid — Jared Zimmerer |
 
 ## Secciones incluidas
 

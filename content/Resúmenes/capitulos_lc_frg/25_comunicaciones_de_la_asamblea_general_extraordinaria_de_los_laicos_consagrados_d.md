@@ -26,9 +26,9 @@ Sección de encabezado que agrupa los comunicados oficiales emanados de la [[lai
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Comunicaciones de la Asamblea General extraordinaria de los Laicos Con |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Comunicaciones de la Asamblea General extraordinaria de los Laicos Con |
 
 
 ## Secciones incluidas

@@ -32,6 +32,6 @@ Cuando los pequeños se cansan y ya no pueden ser alegres, el sol desciende y lo
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Poetry: The Ecchoing Green — William Blake |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Poetry: The Ecchoing Green — William Blake |

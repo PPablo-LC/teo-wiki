@@ -37,6 +37,6 @@ tags: ["resumen", "jesus de nazaret i"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. LAS GRANDES IMÁGENES DEL EVANGELIO DE JUAN |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. LAS GRANDES IMÁGENES DEL EVANGELIO DE JUAN |

@@ -21,6 +21,6 @@ Archivo de solo título. El nombre de la serie, *Quasi Tischreden*, designa «ca
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ***Quasi*** **TISCHREDEN** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | ***Quasi*** **TISCHREDEN** |

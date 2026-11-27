@@ -30,9 +30,9 @@ La Santa Sede ha participado activamente en las reuniones preparatorias y region
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | ANTE LA CONFERENCIA DE PEKIN |
-| 3 | H4 | Mensaje de Su Santidad con ocasión de la IV Conferencia Mundial de la ONU sobre la Mujer |
+| Nivel | Sección |
+|-------|---------|
+| H2 | ANTE LA CONFERENCIA DE PEKIN |
+| H4 | Mensaje de Su Santidad con ocasión de la IV Conferencia Mundial de la ONU sobre la Mujer |
 
 ## Secciones incluidas

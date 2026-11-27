@@ -51,9 +51,9 @@ El documento se estructura en 10 puntos:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Mensaje de la Asamblea General extraordinaria de 2018 a los miembros |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Mensaje de la Asamblea General extraordinaria de 2018 a los miembros |
 
 
 ## Secciones incluidas

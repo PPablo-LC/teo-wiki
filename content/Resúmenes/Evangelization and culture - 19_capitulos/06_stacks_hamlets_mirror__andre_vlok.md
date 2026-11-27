@@ -87,6 +87,6 @@ El artículo cierra con el epígrafe de Hilaire Belloc: «Una y otra vez, la hum
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Stacks: Hamlet's Mirror: A Reflection on Conflict and Artificial Intel |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Stacks: Hamlet's Mirror: A Reflection on Conflict and Artificial Intel |

@@ -56,6 +56,6 @@ tags: ["resumen", "saint thomas aquinas capitulos"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 6. The Trinity |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 6. The Trinity |

@@ -28,6 +28,6 @@ Esta cita fundamenta el principio de que, conmemorando los misterios de la Reden
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | y la elección de fórmulas |
+| Nivel | Sección |
+|-------|---------|
+| H1 | y la elección de fórmulas |

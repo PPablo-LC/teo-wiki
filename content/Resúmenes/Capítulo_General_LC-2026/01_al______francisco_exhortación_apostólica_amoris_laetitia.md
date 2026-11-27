@@ -66,7 +66,7 @@ Este capítulo es la lista de abreviaturas y siglas utilizadas a lo largo del Co
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | AL      Francisco, Exhortación apostólica Amoris laetitia |
-| 25 | H3 | El servicio de la autoridad y la obediencia (11 de mayo de |
+| Nivel | Sección |
+|-------|---------|
+| H1 | AL      Francisco, Exhortación apostólica Amoris laetitia |
+| H3 | El servicio de la autoridad y la obediencia (11 de mayo de |

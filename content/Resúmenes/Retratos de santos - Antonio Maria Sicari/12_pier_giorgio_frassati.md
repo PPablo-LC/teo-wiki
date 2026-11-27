@@ -12,31 +12,31 @@ tags: ["resumen", "vocación_laical", "eucaristía", "caridad", "política", "ju
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[vocación_laical]] — «laico en la Iglesia y cristiano en el mundo» (L17); «término "laico" y "cristiano" son sinónimos en la persona bautizada» (L19); no es equilibrios entre mundo e Iglesia, sino identidad única.
-- [[eucaristía]] — centro de su vida: **comunión diaria** (L33); adoración nocturna mensual (L29); defensa de vitrina de adoración (L91-99).
-- [[caridad]] — voluntariado constante: Conferencia de San Vicente, carretas por Turín, limosna humillante, «visitar a los pobres es visitar a Jesucristo», «alrededor del enfermo veo una luz que no tenemos nosotros» (L147-161).
-- [[política]] — compromiso real: círculo Cesare Balbo, banderas en Coliseo (L63-75), manif. electoral pegando carteles (L103), oposición al fascismo (L105-112), despedida a Donati en frontera (L121), carta protesta a periódico alemán (L131), apoyo a Irlanda (L133), Pax Romana (L135).
-- [[fe]] — «cada día comprendo mejor la gracia de ser católico. Vivir sin fe… no es vivir, sino ir tirando» (L212-214); fe que genera interés apasionado por toda la realidad (L39).
-- [[oración]] — perteneció a Apostolado de la Oración, Liga Eucarística, Jóvenes Adoradores, Congregación Mariana, Tercera Orden Dominicana (L29); se estructuraba integralmente, no se fragmentaba (L31).
-- [[justicia_social]] — «caridad es antes de nada cuestión de justicia social»; «tierra es de los campesinos y debe darse a quien la trabaja»; «no son mías, de lo contrario yo lo haría rápidamente» (L153-154).
-- [[santidad]] — beatificado 20 mayo 1990; «actúa como cree, habla como siente, obra como predica» (Turati, L192-194); «sacerdocio» del bautismo (L196).
-- [[sufrimiento]] — renunció a amor por chica humilde por no romper familia de sus padres: «No puedo destruir una familia para formar otra. Me sacrificaré yo» (L172); poliomielitis fulminante en una semana contraída visitando pobres (L162-163).
-- [[muerte_cristiana]] — última semana solo, incomprendido, cuidando abuela; último día escribió indicaciones para inyecciones a un pobre (testamento de caridad, L180-183); funerales: multitud de amigos y pobres, familiares comprenden dónde vivió realmente (L184-185).
-- [[estudio]] — ingeniero de minas: «quiero ayudar a nuestra gente de las minas… mejor siendo laico que sacerdote, porque en nuestro país los sacerdotes no están en contacto con el pueblo»; «minero entre los mineros» (L139-140).
-- [[familia]] — rica burguesa liberal; padre Alfredo: fundador *La Stampa*, senador, embajador Berlín; madre Adelaide Ametis, pintora, liberal, educación rígida y fría; hermana Luciana: infancia «pesadilla», «triste cuartel» (L21-24).
-- [[identidad_cristiana]] — no separada de la vida: universidad, trabajo, prensa, política, deporte, asociacionismo como «amistad cristiana» para catolicismo social (L206-208).
-- [[nueva_evangelización]] — descristianización = deterioro de la fe, no solo moral; necesidad de fe que se haga cultura (L5-9); Pier Giorgio como «bisagra» del cambio histórico (L202).
-- [[santos_sociales]] — tradición piamontesa: Don Bosco, Cottolengo, Faà di Bruno, Murialdo, Orione (L143-144).
-- [[juventud]] — modelo de frescura, pureza, alegría, vigor, generosidad, compromiso social (L25); pero con pasión y crucifixión en trasfondo (L26).
-- [[comunión_diaria]] — «todo tenía un mismo centro: la comunión diaria» (L33); generaba interés apasionado por toda la realidad (L39).
-- [[adversidad]] — burlas masónico-liberales, fascistas, social-comunistas: «¿Eres un beatorro?» → «No, sencillamente yo he 'permanecido' cristiano» (L35-37).
-- [[progresismo]] — en su época era «progresista» (radical, aplicaba Evangelio al pie de la letra, no admitía comodidades); hoy sería tachado de «reaccionario, integrista» (L59).
-- [[asociacionismo]] — tomó dirección círculo Cesare Balbo para regenerarlo (L51-55); FUCI: propuso disolución para confluir en «juventud católica» amplia (L123-124).
-- [[testimonio]] — Filippo Turati (socialista): «era realmente un hombre… joven y rico eligió trabajo y bien… creyente convencido… acto como cree, habla como siente, obra como predica» (L188-194).
-- [[providence]] / [[providencia_divina]] — confió en Dios aun en sufrimientos; «Cristo no muere» (L115).
-- [[sacerdocio_bautismal]] — Turati describe palabras que Iglesia usa al consagrar ministros; «cristianos laicos son también sacerdotes por la fuerza de su mismo bautismo» (L196).
+- [[vocación_laical]] — «laico en la Iglesia y cristiano en el mundo»; «término "laico" y "cristiano" son sinónimos en la persona bautizada»; no es equilibrios entre mundo e Iglesia, sino identidad única.
+- [[eucaristía]] — centro de su vida: **comunión diaria**; adoración nocturna mensual; defensa de vitrina de adoración.
+- [[caridad]] — voluntariado constante: Conferencia de San Vicente, carretas por Turín, limosna humillante, «visitar a los pobres es visitar a Jesucristo», «alrededor del enfermo veo una luz que no tenemos nosotros».
+- [[política]] — compromiso real: círculo Cesare Balbo, banderas en Coliseo, manif. electoral pegando carteles, oposición al fascismo, despedida a Donati en frontera, carta protesta a periódico alemán, apoyo a Irlanda, Pax Romana.
+- [[fe]] — «cada día comprendo mejor la gracia de ser católico. Vivir sin fe… no es vivir, sino ir tirando»; fe que genera interés apasionado por toda la realidad.
+- [[oración]] — perteneció a Apostolado de la Oración, Liga Eucarística, Jóvenes Adoradores, Congregación Mariana, Tercera Orden Dominicana; se estructuraba integralmente, no se fragmentaba.
+- [[justicia_social]] — «caridad es antes de nada cuestión de justicia social»; «tierra es de los campesinos y debe darse a quien la trabaja»; «no son mías, de lo contrario yo lo haría rápidamente».
+- [[santidad]] — beatificado 20 mayo 1990; «actúa como cree, habla como siente, obra como predica» (Turati); «sacerdocio» del bautismo.
+- [[sufrimiento]] — renunció a amor por chica humilde por no romper familia de sus padres: «No puedo destruir una familia para formar otra. Me sacrificaré yo»; poliomielitis fulminante en una semana contraída visitando pobres.
+- [[muerte_cristiana]] — última semana solo, incomprendido, cuidando abuela; último día escribió indicaciones para inyecciones a un pobre (testamento de caridad); funerales: multitud de amigos y pobres, familiares comprenden dónde vivió realmente.
+- [[estudio]] — ingeniero de minas: «quiero ayudar a nuestra gente de las minas… mejor siendo laico que sacerdote, porque en nuestro país los sacerdotes no están en contacto con el pueblo»; «minero entre los mineros».
+- [[familia]] — rica burguesa liberal; padre Alfredo: fundador *La Stampa*, senador, embajador Berlín; madre Adelaide Ametis, pintora, liberal, educación rígida y fría; hermana Luciana: infancia «pesadilla», «triste cuartel».
+- [[identidad_cristiana]] — no separada de la vida: universidad, trabajo, prensa, política, deporte, asociacionismo como «amistad cristiana» para catolicismo social.
+- [[nueva_evangelización]] — descristianización = deterioro de la fe, no solo moral; necesidad de fe que se haga cultura; Pier Giorgio como «bisagra» del cambio histórico.
+- [[santos_sociales]] — tradición piamontesa: Don Bosco, Cottolengo, Faà di Bruno, Murialdo, Orione.
+- [[juventud]] — modelo de frescura, pureza, alegría, vigor, generosidad, compromiso social; pero con pasión y crucifixión en trasfondo.
+- [[comunión_diaria]] — «todo tenía un mismo centro: la comunión diaria»; generaba interés apasionado por toda la realidad.
+- [[adversidad]] — burlas masónico-liberales, fascistas, social-comunistas: «¿Eres un beatorro?» → «No, sencillamente yo he 'permanecido' cristiano».
+- [[progresismo]] — en su época era «progresista» (radical, aplicaba Evangelio al pie de la letra, no admitía comodidades); hoy sería tachado de «reaccionario, integrista».
+- [[asociacionismo]] — tomó dirección círculo Cesare Balbo para regenerarlo; FUCI: propuso disolución para confluir en «juventud católica» amplia.
+- [[testimonio]] — Filippo Turati (socialista): «era realmente un hombre… joven y rico eligió trabajo y bien… creyente convencido… acto como cree, habla como siente, obra como predica».
+- [[providence]] / [[providencia_divina]] — confió en Dios aun en sufrimientos; «Cristo no muere».
+- [[sacerdocio_bautismal]] — Turati describe palabras que Iglesia usa al consagrar ministros; «cristianos laicos son también sacerdotes por la fuerza de su mismo bautismo».
 
-## 1. El problema de la identidad laical (L3-16)
+## 1. El problema de la identidad laical
 
 Sínodo de obispos y *Christifideles laici* intentaron definir identidad del cristiano laico, pero no está clara en inteligencia y conciencia de muchos; reacciones violentas porque temen crisis de pertenencias culturales, sociales, políticas, «eclesiales» (Iglesia dividida sobre esto).
 
@@ -52,13 +52,13 @@ Observado en san José Moscati y en **Pier Giorgio Frassati** (beatificado 20 ma
 
 Hechos: «laico» y «cristiano» son **sinónimos en la persona bautizada**, salvo particular vocación ministerial o consagración especial.
 
-## 2. Orígenes: familia burguesa liberal y hogar triste (L21-24)
+## 2. Orígenes: familia burguesa liberal y hogar triste
 
 Nace en **Turín**, Sábado Santo (6 abril) **1901**. Rica familia burguesa ideología liberal. Madre: **Adelaide Ametis**, famosa pintora. Padre: **Alfredo Frassati**, 1895 (26 años) fundó *La Stampa*; 1913 senador más joven del reino; 1922 embajador en Berlín. Frassati = una de 3-4 familias importantes en Turín, metrópolis industrial con inmigración obrera masiva.
 
 Situación confortable y prestigiosa, pero **triste en lazos afectivos**. Padre y madre: relación difícil, formal, mantenida por decoro e hijos. Padre siempre «en otro lugar» (periódico, vida pública); madre se desahoga en reuniones sociales brillantes y sistema educativo rígido y frío. Testigos: «mujer moderna, adelantada a su época por extrema liberalidad de ideas». Liberalidad no atañe a hijos: Luciana (hermana, aún vive) contó que nunca vivió verdadera infancia, transcurrió como «pesadilla» en vasta casa señorial que parecía «un triste cuartel».
 
-## 3. Itinerario espiritual: asociaciones y comunión diaria (L25-40)
+## 3. Itinerario espiritual: asociaciones y comunión diaria
 
 Décadas presentándole como modelo de frescura, pureza, alegría, vigor, generosidad, compromiso social-político. **Se omitieron aspectos de pasión y crucifixión** (que permiten vivir como «resucitados») en trasfondo cotidiano de su vida y muerte.
 
@@ -66,13 +66,13 @@ Familia transmitió sistema de reglas y deberes (no malo en sí, pero triste). M
 
 Enumeración de **asociaciones** a las que quiso pertenecer, a menudo contra opinión familiar; participación activa y responsabilidades. Nombres hoy pueden parecer en desuso o beateros, pero indicaban núcleos vivos de Iglesia efervescente: Apostolado de la Oración, Liga Eucarística, **Asociación de los Jóvenes Adoradores Universitarios** (adoración nocturna todos los segundos sábados), Congregación Mariana, Tercera Orden Dominicana, y más. Solo algunas «pertenencias» a través de las cuales se educó sobre todo en la **oración**: poseer corazón cristiano, memoria, deseo, absoluta «mendicidad» de su ser.
 
-Persona no se perdía ni fragmentaba en mil devociones, se **estructuraba integralmente** sin espacios vacíos, débiles, mezquinos. **Todo tenía un mismo centro: la comunión diaria** (L33).
+Persona no se perdía ni fragmentaba en mil devociones, se **estructuraba integralmente** sin espacios vacíos, débiles, mezquinos. **Todo tenía un mismo centro: la comunión diaria**.
 
 Universidad: «¿Eres un beatorro?» (ultraje a creyentes: masónico-liberal, fascista, social-comunista). Pier Giorgio: **«No, sencillamente, yo he 'permanecido' cristiano»** (devuelve golpe con bondad y firmeza).
 
 Toda aquella oración generaba interés apasionado por toda la realidad; vivía con misma intensidad deber y placer de pertenecer a asociaciones culturales, deportivas, sociales, políticas; incluso «partido popular» (esperanza para compromiso e identidad política de creyentes).
 
-## 4. Círculo Cesare Balbo y regeneración (L41-59)
+## 4. Círculo Cesare Balbo y regeneración
 
 1919 (menor de edad): inscripción en círculo universitario «Cesare Balbo» (incluía «Conferencia de San Vicente»). Ambiente: «enmohecido, poco interesante, presencia justificada por jugar al billar»; «muchos chicos no hacían otra cosa que hablar de aventuras mujeriegas, otros hipócritas o beatorros parecían verdaderos clérigos». Buena explicación de por qué se derrumbó cierto asociacionismo católico y se desvitalizaron centros parroquiales.
 
@@ -82,7 +82,7 @@ Biografía reciente: Pier Giorgio estaba con los más progresistas. Testimonio: 
 
 Misterio de las palabras: hoy = «reaccionarios, integristas»; entonces = «progresista». No esconde hecho evidente: **no fue ejemplo de «vocación laical» en sentido que hoy se difunde**. Momento de analizar este «progresismo» que solo se reconoce en santos.
 
-## 5. Congreso Juventud Católica 1921: bandera y golpes (L60-80)
+## 5. Congreso Juventud Católica 1921: bandera y golpes
 
 Sept 1921: Congreso Nacional Juventud Católica Italiana (50 aniversario) en Roma, 30.000+ jóvenes. Misa domingo 4 sept en Coliseo; jefatura liberal-masónica policía forma guardias a caballo para impedir eucaristía; jóvenes confluir en plaza San Pedro, eucaristía sobre suelo sagrado, audiencia en jardines Vaticano. Tras audiencia, jóvenes deciden ir al Altar de la Patria cantando «Hermanos de Italia» y «Nosotros queremos a Dios»; policía dispersa a la fuerza.
 
@@ -92,7 +92,7 @@ Testimonio: Pier Giorgio mantiene alzada con dos manos bandera tricolor del cír
 
 Al día siguiente: jóvenes vuelven a San Pedro, Pier Giorgio y suyos atraviesan ciudad **triunfalmente con restos de bandera despedazada**, cartel pegado: «Tricolor señalada por orden del Gobierno». Hecho «progresista». Se habló en toda Italia. Amigo: «Se hablaba en todas partes de él, pero se mostraba reticente ante felicitaciones. Alabanzas le parecían extrañas porque no comprendía cómo un joven católico pudiese actuar de modo diferente».
 
-## 6. Defensa de la fe en la universidad y política (L81-112)
+## 6. Defensa de la fe en la universidad y política
 
 1922: ley prohíbe enseñanza religión en escuelas; asociaciones católicas quejaban «deplorable desorganización» estudiantes. Turín: Pier Giorgio carta a socios círculo «Milites Mariae» (delegado estudiantes): «Nuestros jóvenes necesitan instrucción especial adaptada a sus fuerzas y sólida base apologética para hacer frente a continuos peligros en escuelas públicas, desgraciadamente tan corrompidas. Nosotros, que por gracia de Dios somos católicos, no debemos malgastar nuestras vidas. Tenemos que fortalecernos para prepararnos a sostener las luchas que tendremos que combatir si queremos cumplir nuestro programa».
 
@@ -120,7 +120,7 @@ Llegada fascismo: se humilló por debilidad y transformismo de militantes, pero 
 
 Director de *Popolo*, Giuseppe Donati, parte al exilio; en frontera **solo Pier Giorgio para despedirle y darle la mano**, desafiando policía fascista. Donati: «En él vi el último amigo de la patria que yo estaba abandonando». Pier Giorgio moriría tres meses después.
 
-## 7. Compromiso social, obrero, internacional (L123-136)
+## 7. Compromiso social, obrero, internacional
 
 Angustiaba escasa formación religiosa de muchos miembros de asociaciones católicas = falta de mirada llena de fe aplicada a realidad con amor inteligente. 1921, congreso FUCI Rávena: propuso y defendió tesis de **disolución de la FUCI** para confluir en «juventud católica» más amplia (intelectuales, trabajadores, estudiantes, gente sencilla). Se le opuso asistente eclesiástico; él no se dio por enterado.
 
@@ -132,7 +132,7 @@ Identidad cristiana abierta a todo ámbito social y político, incluso más all�
 
 Todo esto sin olvidar que era **estudiante universitario** con continuos exámenes difíciles, aprobaba con calificaciones bastante buenas a costa de notable esfuerzo; no especialmente dotado. Entre carreras ofrecidas (algunas prestigiosas por condición social) prefirió **ingeniero de minas**: en Alemania observó graves condiciones de trabajo de obreros del sector: «Yo quiero ayudar a nuestra gente de las minas y esto lo puedo hacer mejor siendo laico que siendo sacerdote, porque en nuestro país los sacerdotes no están en contacto con el pueblo». A Louise Rahner (madre del teólogo) en cuya casa estuvo hospedado. Quería convertirse en **«minero entre los mineros»**.
 
-## 8. Voluntariado de la caridad: tradición de santos sociales (L141-162)
+## 8. Voluntariado de la caridad: tradición de santos sociales
 
 Aspecto más notable: «voluntariado de la caridad» constante, sumergido en tradición de santos sociales de su tierra (Don Bosco, Cottolengo, Faà di Bruno, Murialdo, Orione).
 
@@ -148,13 +148,13 @@ Conciencia aliviar miseria con su mismo sudor; convencer a otros a participar. A
 
 Frecuentar tugurios → riesgo enfermedad grave. De hecho, contrajo durante una visita **fulminante poliomielitis**, acabó con él en una semana. **Semana de pasión**.
 
-## 9. Naturaleza: alegría y seriedad atemperada por sufrimiento (L166-173)
+## 9. Naturaleza: alegría y seriedad atemperada por sufrimiento
 
 Imagen transmitida: «burgués», abierto, sano, juvenil, gran aficionado a montaña y esquí, bullicioso en fiestas, animador de sano jolgorio (fundó «Sociedad de Tipos Siniestros» con propio estatuto). **No era fachada, era su naturaleza**. Pero misma naturaleza —sin incoherencias, altibajos, cambios de carácter— **era también profundamente seria, atemperada por sufrimiento propio y ajeno**.
 
 Entre sufrimientos atroces: **profundo amor por muchacha de humilde condición** —amor al que se sintió moralmente obligado a renunciar cuando se dio cuenta de que su elección, por prejuicios de la familia, no habría sido nunca aceptada; comprendió que si persistía, provocaría ruptura definitiva de sus padres. Sin saberlo, estaba ya a un paso de la muerte y **Dios le sugirió desde lo más hondo que no buscase su felicidad a costa de la «salvación» de sus padres: «No puedo destruir una familia para formar otra. Me sacrificaré yo»**.
 
-## 10. La enfermedad y la muerte (L174-185)
+## 10. La enfermedad y la muerte
 
 30 junio 1925: volviendo de ronda caritativa, empieza a sentir jaqueca e inapetencia. No lo advirtió nadie; abuela anciana agonizando absorbe atención, cansancio y desgaste psicológico de todos. Joven alto y musculoso —al que no se prestaba atención porque era demasiado bueno— molestaba con fiebres inoportunas.
 
@@ -166,7 +166,7 @@ Cuando padres se dieron cuenta, aterrados, ya era demasiado tarde. Suero de Inst
 
 Funerales: montón de amigos y sobre todo de pobres. Primeros en quedarse pasmados —al ver que había sido tan amado y tan famoso— **fueron sus propios familiares**, quienes por primera vez comprendieron dónde había vivido Pier Giorgio verdaderamente en sus pocos años de vida, a pesar de haber tenido casa rica y confortable a la que siempre llegaba tarde.
 
-## 11. Testimonio de Filippo Turati y legado (L186-217)
+## 11. Testimonio de Filippo Turati y legado
 
 Conmemoración post mortem insólita: **Filippo Turati** (célebre socialista) en su periódico:
 
@@ -192,6 +192,6 @@ En tiempo de triste descristianización, de nueva y gozosa evangelización, nece
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Pier Giorgio Frassati |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Pier Giorgio Frassati |

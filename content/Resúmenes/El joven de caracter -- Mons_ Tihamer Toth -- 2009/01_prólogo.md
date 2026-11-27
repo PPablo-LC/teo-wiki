@@ -34,8 +34,8 @@ Firma de despedida de la carta introductoria: «Te saluda, aun sin conocerte, y 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PRÓLOGO |
-| 9 | H1 | AL JOVEN LECTOR |
-| 17 | H2 | EL AUTOR |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PRÓLOGO |
+| H1 | AL JOVEN LECTOR |
+| H2 | EL AUTOR |

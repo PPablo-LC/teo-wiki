@@ -53,5 +53,5 @@ Se vincula con [[cristo]], [[fariseísmo]], [[elenco_contra_fariseos]], [[expuls
 
 ## Referencias
 
-- CyF, `05_iii_los_tres_atentados.md`; `06_iv_la_provocacion.md`; `08_vi_la_defensa.md` L9-13; `10_viii_con_que_autoridad.md`; `16_apendice_ii_parabola_del_sepulcro_y_las_viboras.md` L3-13.
+- CyF, `05_iii_los_tres_atentados.md`; `06_iv_la_provocacion.md`; `08_vi_la_defensa.md`; `10_viii_con_que_autoridad.md`; `16_apendice_ii_parabola_del_sepulcro_y_las_viboras.md`.
 - Jn 8,44; Jn 19,11; Mt 21,23-27; 1 Cor 15,3; Is 53,7; CEC 571-573.

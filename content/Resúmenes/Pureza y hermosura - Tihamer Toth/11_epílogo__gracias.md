@@ -26,9 +26,9 @@ Madrid, febrero de 1959. — **MARÍA ROSA** (María Rosa Vilahur, adaptadora).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EPÍLOGO — «¡GRACIAS!» |
+| Nivel | Sección |
+|-------|---------|
+| H1 | EPÍLOGO — «¡GRACIAS!» |
 
 ## Secciones incluidas
 

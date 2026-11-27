@@ -17,25 +17,25 @@ El deporte es una actividad humana que se presenta bajo tres facetas inseparable
 
 ## Desarrollo doctrinal
 
-El deporte es mucho más que las tres facetas clásicas: desde el primer lanzamiento de una pelota a un niño hasta las lesiones y los sacrificios del atleta; tiene su propio léxico y es "parte de la vida, no toda la vida". [EAC-20, 15_features_intro, L3-29]
+El deporte es mucho más que las tres facetas clásicas: desde el primer lanzamiento de una pelota a un niño hasta las lesiones y los sacrificios del atleta; tiene su propio léxico y es "parte de la vida, no toda la vida". [EAC-20, 15_features_intro]
 
-Según [[santo_tomás_de_aquino]], es propio de un hombre sabio y virtuoso jugar: el juego proporciona descanso al alma, cuyo reposo es el placer, y en los juegos competitivos —donde hay contienda y posibilidad de victoria— hay deleite máximo. Por eso el deporte es parte de una vida virtuosa y bien moderada. [EAC-20, 18_feature_declue, L9-21]
+Según [[santo_tomás_de_aquino]], es propio de un hombre sabio y virtuoso jugar: el juego proporciona descanso al alma, cuyo reposo es el placer, y en los juegos competitivos —donde hay contienda y posibilidad de victoria— hay deleite máximo. Por eso el deporte es parte de una vida virtuosa y bien moderada. [EAC-20, 18_feature_declue]
 
-Las reglas hacen posible el juego; internalizarlas es lo que libera al jugador. Esa verdad vale tanto para el golf como para la vida espiritual. [EAC-20, 01_from_the_desk, L7-13]
+Las reglas hacen posible el juego; internalizarlas es lo que libera al jugador. Esa verdad vale tanto para el golf como para la vida espiritual. [EAC-20, 01_from_the_desk]
 
 ## Perspectivas por fuente
 
 ### Según Evangelization & Culture (EAC-20)
 
-La introducción a los features define el deporte en tres registros —frolic, competición fiera, esfuerzo intelectual— y subraya que nos recuerda lo que es ser niño: un respiro, un paréntesis de tiempo en el que sumergirse en una alegría simple que solo un Padre del cielo comprende plenamente. [EAC-20, 15_features_intro, L3-29]
+La introducción a los features define el deporte en tres registros —frolic, competición fiera, esfuerzo intelectual— y subraya que nos recuerda lo que es ser niño: un respiro, un paréntesis de tiempo en el que sumergirse en una alegría simple que solo un Padre del cielo comprende plenamente. [EAC-20, 15_features_intro]
 
-Bishop [[robert_barron]] usa el béisbol como lección de [[evangelización]]: no se empieza por las reglas (la infield fly rule) sino por la belleza y la emoción del juego. Las leyes y disciplinas del juego no son insignificantes: "nos volvemos libres en nuestra fe en la medida en que internalizamos los objetivos que gobiernan el juego". La fe católica es concreta y física, con una resonancia profunda entre el esfuerzo espiritual y el atlético (2 Tim 4,7). [EAC-20, 01_from_the_desk, L7-13]
+Bishop [[robert_barron]] usa el béisbol como lección de [[evangelización]]: no se empieza por las reglas (la infield fly rule) sino por la belleza y la emoción del juego. Las leyes y disciplinas del juego no son insignificantes: "nos volvemos libres en nuestra fe en la medida en que internalizamos los objetivos que gobiernan el juego". La fe católica es concreta y física, con una resonancia profunda entre el esfuerzo espiritual y el atlético (2 Tim 4,7). [EAC-20, 01_from_the_desk]
 
-Matthew R. Petrusek presenta el estadio como el último espacio común donde diversos individuos se reúnen para hacer algo sano y divertido, sacando a los niños de las pantallas. Las reglas crean el ámbito del juego, determinan al ganador justo y permiten detectar a los tramposos; "son las reglas, como ha dicho el obispo Barron, las que nos permiten ser libres a todos". La libertad sin reglas solo favorece a los tiranos —externos e internos—. Ganar no es jugar con tus propias reglas, sino jugar según las reglas de forma única por amor a la bondad del juego: quienes lo ejemplifican en el campo son "All Stars"; quienes lo ejemplifican fuera, santos. [EAC-20, 03_word_from_institute, L7-13]
+Matthew R. Petrusek presenta el estadio como el último espacio común donde diversos individuos se reúnen para hacer algo sano y divertido, sacando a los niños de las pantallas. Las reglas crean el ámbito del juego, determinan al ganador justo y permiten detectar a los tramposos; "son las reglas, como ha dicho el obispo Barron, las que nos permiten ser libres a todos". La libertad sin reglas solo favorece a los tiranos —externos e internos—. Ganar no es jugar con tus propias reglas, sino jugar según las reglas de forma única por amor a la bondad del juego: quienes lo ejemplifican en el campo son "All Stars"; quienes lo ejemplifican fuera, santos. [EAC-20, 03_word_from_institute]
 
-Fr. Stephen Gadberry afirma que el deporte "desbloquea algo sagrado en el alma humana", revela nuestros deseos más profundos y muestra nuestra fidelidad. Ser "all in" —condición del atleta y del cristiano— se apoya en 2 Tim 4,7 y Ap 3,16. El deporte, ordenado por las tres vías (purgativa, iluminativa y unitiva), puede llevarnos a Dios; idolatrado, se convierte en ídolo que un poco de catequesis puede transformar en herramienta. [EAC-20, 23_soul, L5-21]
+Fr. Stephen Gadberry afirma que el deporte "desbloquea algo sagrado en el alma humana", revela nuestros deseos más profundos y muestra nuestra fidelidad. Ser "all in" —condición del atleta y del cristiano— se apoya en 2 Tim 4,7 y Ap 3,16. El deporte, ordenado por las tres vías (purgativa, iluminativa y unitiva), puede llevarnos a Dios; idolatrado, se convierte en ídolo que un poco de catequesis puede transformar en herramienta. [EAC-20, 23_soul]
 
-Las preguntas de reflexión del número plantean cómo la perseverancia deportiva inspira la perseverancia en la fe, cómo el drama del deporte refleja el drama de la condición humana, cómo el deporte puede perjudicar la fe y cómo emplearlo para evangelizar. [EAC-20, 25_parting_thoughts, L3-17]
+Las preguntas de reflexión del número plantean cómo la perseverancia deportiva inspira la perseverancia en la fe, cómo el drama del deporte refleja el drama de la condición humana, cómo el deporte puede perjudicar la fe y cómo emplearlo para evangelizar. [EAC-20, 25_parting_thoughts]
 
 ## Distinciones importantes
 
@@ -55,9 +55,9 @@ El deporte conecta con la [[eutrapelia]] y el [[juego]] (la virtud del juego), c
 
 ## Referencias
 
-- [EAC-20, 01_from_the_desk, L7-13]
-- [EAC-20, 03_word_from_institute, L7-13]
-- [EAC-20, 15_features_intro, L3-29]
-- [EAC-20, 18_feature_declue, L9-21]
-- [EAC-20, 23_soul, L5-21]
-- [EAC-20, 25_parting_thoughts, L3-17]
+- [EAC-20, 01_from_the_desk]
+- [EAC-20, 03_word_from_institute]
+- [EAC-20, 15_features_intro]
+- [EAC-20, 18_feature_declue]
+- [EAC-20, 23_soul]
+- [EAC-20, 25_parting_thoughts]

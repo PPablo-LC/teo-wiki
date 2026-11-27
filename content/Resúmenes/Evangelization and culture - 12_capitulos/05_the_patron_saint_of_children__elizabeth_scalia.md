@@ -43,4 +43,4 @@ Cierra con oración: *San Nicolás de Myra, Taumaturgo de Oriente, ruega por Nic
 
 ## Referencia original
 
-📄 Fuente original: `05_lives.md` (línea 1–53)
+📄 Fuente original: `05_lives.md`

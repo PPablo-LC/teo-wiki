@@ -30,6 +30,6 @@ La vida fraterna es esencial en la vida religiosa. Tiene su base en el llamado d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA VIDA FRATERNA EN COMUNIDAD |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA VIDA FRATERNA EN COMUNIDAD |

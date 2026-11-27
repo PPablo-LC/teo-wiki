@@ -32,6 +32,6 @@ Según esta petición, y dada la naturaleza detallada del texto que no observaba
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Versión del año 1983 |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Versión del año 1983 |

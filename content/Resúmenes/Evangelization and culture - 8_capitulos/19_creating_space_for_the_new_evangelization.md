@@ -39,9 +39,9 @@ Epígrafe final de Churchill: «Estoy listo para encontrarme con mi Creador. Que
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Creating Space for the New Evangelization |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Creating Space for the New Evangelization |
 
 ## Secciones incluidas
 

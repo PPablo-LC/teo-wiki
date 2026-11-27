@@ -26,6 +26,6 @@ La tabla permite localizar, para cada norma complementaria de 2020, su número c
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | **Tabla de correspondencia entre las versiones de las** Normas complem |
+| Nivel | Sección |
+|-------|---------|
+| H3 | **Tabla de correspondencia entre las versiones de las** Normas complem |

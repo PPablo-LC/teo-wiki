@@ -43,6 +43,6 @@ Equipada con la Misa diaria, la Adoración y la confesión regular, Brenda recon
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Created for Greatness: The Vibrant Faith of a Hollywood Stuntwoman — B |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Created for Greatness: The Vibrant Faith of a Hollywood Stuntwoman — B |

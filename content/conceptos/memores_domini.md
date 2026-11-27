@@ -75,6 +75,6 @@ que el Verbo «lì si fa carne».
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC),
-  `03_si_può_vivere_così_1995.md` (línea 89 y nota 18).
+  `03_si_può_vivere_così_1995.md` (nota 18).
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

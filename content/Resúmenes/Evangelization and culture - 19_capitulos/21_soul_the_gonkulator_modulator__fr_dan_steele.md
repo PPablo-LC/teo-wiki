@@ -52,6 +52,6 @@ La sátira plantea la inquietud constitutiva del alma humana — el deseo de Dio
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Soul: The Gonkulator Modulator — Fr. Dan Steele |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Soul: The Gonkulator Modulator — Fr. Dan Steele |

@@ -37,6 +37,6 @@ Menciona la fundación Best Buddies International, que fomenta la amistad uno a 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | A Pure Form of Passion: Sports as a Balm for the Intellectually Disabl |
+| Nivel | Sección |
+|-------|---------|
+| H1 | A Pure Form of Passion: Sports as a Balm for the Intellectually Disabl |

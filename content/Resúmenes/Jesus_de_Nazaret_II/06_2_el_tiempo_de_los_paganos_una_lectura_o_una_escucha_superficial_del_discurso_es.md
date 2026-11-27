@@ -28,6 +28,6 @@ Queda también en el trasfondo la misión de Israel: Bernardo de Claraval aconse
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. EL TIEMPO DE LOS PAGANOS Una lectura o una escucha superficial del d |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. EL TIEMPO DE LOS PAGANOS Una lectura o una escucha superficial del d |

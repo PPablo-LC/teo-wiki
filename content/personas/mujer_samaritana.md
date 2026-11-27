@@ -51,7 +51,6 @@ también como «un incontro di sguardi» (02, 161).
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC),
-  `01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md` (líneas 21, 23, 29,
-  43) y `02_il_tempo_si_fa_breve_1994.md` (línea 161).
+  `01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md` y `02_il_tempo_si_fa_breve_1994.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

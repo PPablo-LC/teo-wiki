@@ -38,7 +38,7 @@ Es muy importante que los jóvenes tengan un concepto exacto de lo que es la [[s
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | VALOR PEDAGÓGICO DEL CULTO DE LOS SANTOS |
-| 28 | H3 | Recto concepto de la santidad |
+| Nivel | Sección |
+|-------|---------|
+| H1 | VALOR PEDAGÓGICO DEL CULTO DE LOS SANTOS |
+| H3 | Recto concepto de la santidad |

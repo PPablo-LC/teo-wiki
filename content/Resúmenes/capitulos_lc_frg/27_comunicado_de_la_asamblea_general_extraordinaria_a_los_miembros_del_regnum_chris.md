@@ -57,9 +57,9 @@ La carta se escribe en el 3 de enero, cincuenta años después de la primera inc
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Comunicado de la Asamblea General extraordinaria a los miembros del Re |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Comunicado de la Asamblea General extraordinaria a los miembros del Re |
 
 
 ## Secciones incluidas

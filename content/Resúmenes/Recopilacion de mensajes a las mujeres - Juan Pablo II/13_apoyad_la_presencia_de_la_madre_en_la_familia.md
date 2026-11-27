@@ -30,8 +30,8 @@ Por el contrario, hay que reconocer, aplaudir y apoyar con todos los medios la p
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Apoyad la presencia de la madre en la familia |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Apoyad la presencia de la madre en la familia |
 
 ## Secciones incluidas

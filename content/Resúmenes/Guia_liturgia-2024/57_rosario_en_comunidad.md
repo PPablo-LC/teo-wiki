@@ -33,6 +33,6 @@ Sección del Capítulo VIII dedicada al rosario en comunidad (nn. 213-218).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Rosario en comunidad |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Rosario en comunidad |

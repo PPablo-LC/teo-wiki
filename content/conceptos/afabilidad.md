@@ -47,7 +47,7 @@ La afabilidad o amistad es una virtud, parte potencial de la justicia, que se di
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Comentando Fil 4,4-9, Giussani lee la afabilidad como rasgo del nuevo pueblo: «La vostra affabilità sia nota a tutti gli uomini» —«ci sono delle persone che sono così umane nei rapporti, che sempre fanno venire voglia d'appoggiarsi a loro, di andare da loro, di sentire loro»—. Esa afabilidad debe ser «caratteristica di tutti gli appartenenti a questo gregge, che è questa nuova realtà vivente, protagonista, per Gesù, della storia». Va unida a la alegría («Rallegratevi nel Signore, sempre») y a la paz que custodia el corazón, y nace del anuncio «Il Signore è vicino!» (TACDC, 03, L291).
+Comentando Fil 4,4-9, Giussani lee la afabilidad como rasgo del nuevo pueblo: «La vostra affabilità sia nota a tutti gli uomini» —«ci sono delle persone che sono così umane nei rapporti, che sempre fanno venire voglia d'appoggiarsi a loro, di andare da loro, di sentire loro»—. Esa afabilidad debe ser «caratteristica di tutti gli appartenenti a questo gregge, che è questa nuova realtà vivente, protagonista, per Gesù, della storia». Va unida a la alegría («Rallegratevi nel Signore, sempre») y a la paz que custodia el corazón, y nace del anuncio «Il Signore è vicino!» (TACDC, 03).
 
 ## Distinciones importantes
 

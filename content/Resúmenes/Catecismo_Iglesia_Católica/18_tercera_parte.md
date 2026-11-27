@@ -194,48 +194,48 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | TERCERA PARTE |
-| 3 | H2 | SEGUNDA SECCIÓN |
-| 4 | H4 | LOS DIEZ MANDAMIENTOS |
-| 6 | H3 | CAPÍTULO PRIMERO |
-| 8 | H4 | "AMARÁS AL SEÑOR TU DIOS CON TODO TU CORAZÓN, CON TODA TU ALMA Y CON TODAS TUS FUERZAS" |
-| 14 | H4 | ARTÍCULO 1 |
-| 16 | H4 | EL PRIMER MANDAMIENTO |
-| 22 | H5 | I. "Adorarás al señor tu Dios, y le servirás" |
-| 32 | H5 | La fe |
-| 42 | H5 | La esperanza |
-| 52 | H5 | La caridad |
-| 58 | H5 | II. "A Él sólo darás culto" |
-| 62 | H5 | La adoración |
-| 68 | H5 | La oración |
-| 72 | H5 | El sacrificio |
-| 78 | H5 | Promesas y votos |
-| 90 | H5 | El deber social de la religión y el derecho a la libertad religiosa |
-| 104 | H5 | III. "No habrá para ti otros dioses delante de mí" |
-| 108 | H5 | La superstición |
-| 112 | H5 | La idolatría |
-| 120 | H5 | Adivinación y magia |
-| 128 | H5 | La irreligión |
-| 140 | H5 | El ateísmo |
-| 150 | H5 | El agnosticismo |
-| 156 | H5 | IV. "No te harás escultura alguna…" |
-| 168 | H5 | Resumen |
-| 188 | H4 | ARTÍCULO 2 |
-| 190 | H4 | EL SEGUNDO MANDAMIENTO |
-| 196 | H5 | I. El Nombre del Señor es santo |
-| 220 | H5 | II. Tomar el Nombre del Señor en vano |
-| 234 | H5 | III. El nombre cristiano |
-| 244 | H5 | Resumen |
-| 262 | H4 | ARTÍCULO 3 |
-| 264 | H4 | EL TERCER MANDAMIENTO |
-| 270 | H5 | I. El día del sábado |
-| 284 | H5 | II. El día del Señor |
-| 288 | H5 | El día de la Resurrección: la nueva creación |
-| 294 | H5 | El domingo, plenitud del sábado |
-| 302 | H5 | La Eucaristía dominical |
-| 316 | H5 | La obligación del domingo |
-| 326 | H5 | Día de gracia y de descanso |
-| 340 | H5 | Resumen |
-| 359 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | TERCERA PARTE |
+| H2 | SEGUNDA SECCIÓN |
+| H4 | LOS DIEZ MANDAMIENTOS |
+| H3 | CAPÍTULO PRIMERO |
+| H4 | "AMARÁS AL SEÑOR TU DIOS CON TODO TU CORAZÓN, CON TODA TU ALMA Y CON TODAS TUS FUERZAS" |
+| H4 | ARTÍCULO 1 |
+| H4 | EL PRIMER MANDAMIENTO |
+| H5 | I. "Adorarás al señor tu Dios, y le servirás" |
+| H5 | La fe |
+| H5 | La esperanza |
+| H5 | La caridad |
+| H5 | II. "A Él sólo darás culto" |
+| H5 | La adoración |
+| H5 | La oración |
+| H5 | El sacrificio |
+| H5 | Promesas y votos |
+| H5 | El deber social de la religión y el derecho a la libertad religiosa |
+| H5 | III. "No habrá para ti otros dioses delante de mí" |
+| H5 | La superstición |
+| H5 | La idolatría |
+| H5 | Adivinación y magia |
+| H5 | La irreligión |
+| H5 | El ateísmo |
+| H5 | El agnosticismo |
+| H5 | IV. "No te harás escultura alguna…" |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | EL SEGUNDO MANDAMIENTO |
+| H5 | I. El Nombre del Señor es santo |
+| H5 | II. Tomar el Nombre del Señor en vano |
+| H5 | III. El nombre cristiano |
+| H5 | Resumen |
+| H4 | ARTÍCULO 3 |
+| H4 | EL TERCER MANDAMIENTO |
+| H5 | I. El día del sábado |
+| H5 | II. El día del Señor |
+| H5 | El día de la Resurrección: la nueva creación |
+| H5 | El domingo, plenitud del sábado |
+| H5 | La Eucaristía dominical |
+| H5 | La obligación del domingo |
+| H5 | Día de gracia y de descanso |
+| H5 | Resumen |
+| H3 | Referencias |

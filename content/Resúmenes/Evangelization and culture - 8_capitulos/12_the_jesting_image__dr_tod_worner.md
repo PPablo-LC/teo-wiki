@@ -31,9 +31,9 @@ Las cinco obras comentadas:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Jesting Image — Dr. Tod Worner |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Jesting Image — Dr. Tod Worner |
 
 ## Secciones incluidas
 

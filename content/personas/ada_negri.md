@@ -55,9 +55,9 @@ Giussani cita dos poemas:
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivos
-  `01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md` (línea 13),
-  `02_il_tempo_si_fa_breve_1994.md` (línea 67) y
-  `04_alla_ricerca_del_volto_umano_1996.md` (línea 63).
+  `01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md`,
+  `02_il_tempo_si_fa_breve_1994.md` y
+  `04_alla_ricerca_del_volto_umano_1996.md`.
 - **Obra citada**: A. Negri, *Mía giovinezza*, BUR, Milano, 2010, pp. 75, 78.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

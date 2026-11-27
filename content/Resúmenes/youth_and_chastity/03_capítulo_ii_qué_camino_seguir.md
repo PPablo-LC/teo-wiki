@@ -73,18 +73,18 @@ El capítulo cierra con la segunda encrucijada. «Ahora, querido joven, tú tamb
 
 ## Mapa del archivo fuente
 
-| Archivo | Línea | Nivel | Sección |
-|---------|-------|-------|---------|
-| 03_capitulo_ii.md | 1 | H1 | Chapter II — Which Way to Go? |
-| 03_capitulo_ii.md | 3 | H2 | WHICH WAY TO GO |
-| 03_capitulo_ii.md | 7 | H2 | ON THE CROSSROADS |
-| 03_capitulo_ii.md | 17 | H2 | THE BOY BECOMES A YOUNG MAN |
-| 03_capitulo_ii.md | 25 | H2 | YOUR SYSTEM IS DEVELOPING |
-| 03_capitulo_ii.md | 35 | H2 | WHEN YOU RESEMBLE THE MONTH OF APRIL |
-| 03_capitulo_ii.md | 45 | H2 | NEW IDEAS, UNEXPLORED DESIRES |
-| 03_capitulo_ii.md | 67 | H2 | FIRST LOVE |
-| 03_capitulo_ii.md | 73 | H2 | CHASTITY TO THE ALTAR, FIDELITY TO THE GRAVE |
-| 03_capitulo_ii.md | 89 | H2 | IN DANGER, IN STORM |
+| Archivo | Nivel | Sección |
+|---------|-------|---------|
+| 03_capitulo_ii.md | H1 | Chapter II — Which Way to Go? |
+| 03_capitulo_ii.md | H2 | WHICH WAY TO GO |
+| 03_capitulo_ii.md | H2 | ON THE CROSSROADS |
+| 03_capitulo_ii.md | H2 | THE BOY BECOMES A YOUNG MAN |
+| 03_capitulo_ii.md | H2 | YOUR SYSTEM IS DEVELOPING |
+| 03_capitulo_ii.md | H2 | WHEN YOU RESEMBLE THE MONTH OF APRIL |
+| 03_capitulo_ii.md | H2 | NEW IDEAS, UNEXPLORED DESIRES |
+| 03_capitulo_ii.md | H2 | FIRST LOVE |
+| 03_capitulo_ii.md | H2 | CHASTITY TO THE ALTAR, FIDELITY TO THE GRAVE |
+| 03_capitulo_ii.md | H2 | IN DANGER, IN STORM |
 
 > **Nota de revisión (2026-10-02):** completado a partir de la edición
 > íntegra (`raw/Bases_doctrinales-raw/youth_and_chastity/`). La copia parcial

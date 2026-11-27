@@ -12,7 +12,7 @@ tags: ["eclesiología", "pastoral", "vida_religiosa", "jesuitas", "leonardo_cast
 
 ## Definición
 
-«Bautizar lo sociológico» es la «aguda fórmula de César Pico» que Castellani recoge en la carta sobre el gobierno para traducir «la fórmula de N. Santo Padre Ignacio acerca del “bien más divino”» (CyF, carta IV L45). Significa tomar lo social —instituciones, costumbres, estructuras, trabajo colectivo— y ordenarlo a Dios, sin dejarlo caer en lo meramente humano ni esperar que la gracia opere sin mediaciones.
+«Bautizar lo sociológico» es la «aguda fórmula de César Pico» que Castellani recoge en la carta sobre el gobierno para traducir «la fórmula de N. Santo Padre Ignacio acerca del “bien más divino”» (CyF, carta IV). Significa tomar lo social —instituciones, costumbres, estructuras, trabajo colectivo— y ordenarlo a Dios, sin dejarlo caer en lo meramente humano ni esperar que la gracia opere sin mediaciones.
 
 ## Desarrollo doctrinal
 
@@ -49,5 +49,5 @@ Se vincula con [[caballería_ligera]], [[bien_común]], [[indiferencia]], [[soci
 
 ## Referencias
 
-- CyF, `22_sobre_la_pobreza.md` L76-88; `24_sobre_el_gobierno.md` L45-49.
+- CyF, `22_sobre_la_pobreza.md`; `24_sobre_el_gobierno.md`.
 - CEC 898-900, 1815, 1822-1829, 1988-1989, 2442; LG 31; GS 43; AA 2-7; Ef 6,15; S. Th. I-II q. 2 a. 5 resp.

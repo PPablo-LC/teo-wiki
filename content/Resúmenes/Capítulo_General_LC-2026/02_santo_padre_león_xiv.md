@@ -43,8 +43,8 @@ La Iglesia vive hoy una intensa llamada a la sinodalidad; el Capítulo General e
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SANTO PADRE LEÓN XIV |
-| 4 | H3 | Jueves, 19 de febrero de 2026 |
-| 7 | H3 | En el nombre del Padre y del Hijo y del Espíritu Santo. |
+| Nivel | Sección |
+|-------|---------|
+| H1 | SANTO PADRE LEÓN XIV |
+| H3 | Jueves, 19 de febrero de 2026 |
+| H3 | En el nombre del Padre y del Hijo y del Espíritu Santo. |

@@ -240,11 +240,11 @@ La meditación del lunes de la segunda semana desarrolla la misericordia en clav
 
 ### Según *The Cries of Jesus from the Cross* (CJC)
 
-La antología de Sheen fija la definición por la etimología: *mercy* viene de *miserum cor*, «a sorrowful heart»; es «a compassionate understanding of another's unhappiness», y ante el pecado se vuelve perdón que «not merely pardons, but even rebuilds into justice, repentance, and love» (CJC, cap. 2, L11-15).
+La antología de Sheen fija la definición por la etimología: *mercy* viene de *miserum cor*, «a sorrowful heart»; es «a compassionate understanding of another's unhappiness», y ante el pecado se vuelve perdón que «not merely pardons, but even rebuilds into justice, repentance, and love» (CJC, cap. 2).
 
-Su lectura más original es la de los **tres crucificados** como retrato de la ley de la medida: el ladrón de la izquierda solo piensa en sí («save thyself and us») y no recibe nada; el de la derecha se compadece del compañero y reconoce la inocencia del que está en medio, y por eso oye la promesa (cap. 2, L37-47). «Blessed are the merciful: for they shall obtain mercy» no es una sentencia piadosa sino una ley tan rigurosa como las de la naturaleza: «with what measure you mete, it shall be measured to you again» (Mt 7,2).
+Su lectura más original es la de los **tres crucificados** como retrato de la ley de la medida: el ladrón de la izquierda solo piensa en sí («save thyself and us») y no recibe nada; el de la derecha se compadece del compañero y reconoce la inocencia del que está en medio, y por eso oye la promesa (cap. 2). «Blessed are the merciful: for they shall obtain mercy» no es una sentencia piadosa sino una ley tan rigurosa como las de la naturaleza: «with what measure you mete, it shall be measured to you again» (Mt 7,2).
 
-La prueba eclesial es **Pedro**: Cristo no eligió al inocente ni al virgen Juan, sino al que lo negó y «went out and wept bitterly» (Mt 26,75), «in order that the Church might forever practice mercy and kindness» (cap. 2, L65-71).
+La prueba eclesial es **Pedro**: Cristo no eligió al inocente ni al virgen Juan, sino al que lo negó y «went out and wept bitterly» (Mt 26,75), «in order that the Church might forever practice mercy and kindness» (cap. 2).
 
 ## Distinciones importantes
 

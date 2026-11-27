@@ -52,10 +52,10 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Exposición y bendición eucarísticas |
-| 5 | H3 | Disposiciones generales |
-| 21 | H3 | Exposición |
-| 25 | H3 | Bendición |
-| 31 | H3 | Exposición simple |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Exposición y bendición eucarísticas |
+| H3 | Disposiciones generales |
+| H3 | Exposición |
+| H3 | Bendición |
+| H3 | Exposición simple |

@@ -23,8 +23,8 @@ Este apartado sirve como título de sección que engloba los mensajes y discurso
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | POSTURA DE LA IGLESIA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | POSTURA DE LA IGLESIA |
 
 ## Secciones incluidas

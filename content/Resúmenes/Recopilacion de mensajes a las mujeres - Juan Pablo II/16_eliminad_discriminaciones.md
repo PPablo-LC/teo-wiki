@@ -30,8 +30,8 @@ La Iglesia y la sociedad humana han sido inmensamente enriquecidas por la presen
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Eliminad discriminaciones |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Eliminad discriminaciones |
 
 ## Secciones incluidas

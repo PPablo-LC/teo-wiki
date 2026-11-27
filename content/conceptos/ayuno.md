@@ -86,9 +86,9 @@ La reflexión de 2024 es la más desarrollada del corpus sobre este punto. El ay
 
 ### Según Fulton J. Sheen — *The Cries of Jesus from the Cross* (CJC)
 
-En la Quinta Palabra, Sheen contrapone la gula y el lujo a la sed de Cristo en la Cruz: el que alimentó a las multitudes acepta vinagre e hiel en reparación por los que tuvieron de sobra (CJC, cap. 38, L25-33). La palabra revela una doble hambre, del cuerpo y del alma; por eso Cristo promete el agua que salta hasta la vida eterna y el alimento de su carne y su sangre (Jn 4,13-14; 6,56; cap. 38, L35-41).
+En la Quinta Palabra, Sheen contrapone la gula y el lujo a la sed de Cristo en la Cruz: el que alimentó a las multitudes acepta vinagre e hiel en reparación por los que tuvieron de sobra (CJC, cap. 38). La palabra revela una doble hambre, del cuerpo y del alma; por eso Cristo promete el agua que salta hasta la vida eterna y el alimento de su carne y su sangre (Jn 4,13-14; 6,56; cap. 38).
 
-Desde ahí distingue dieta y ayuno: materialmente pueden parecer iguales, pero la dieta sirve al cuerpo, mientras el ayuno cristiano disciplina el cuerpo por el alma (cap. 38, L43). La templanza regula los apetitos sensibles, y la mortificación no destruye el placer creado, sino que lo ordena a la caridad y a la salvación. La práctica recomendada es concreta: pequeñas renuncias diarias, dar por amor de Dios y cultivar el hambre espiritual mediante la Eucaristía y el amor al pobre (caps. 38-39, L55-87).
+Desde ahí distingue dieta y ayuno: materialmente pueden parecer iguales, pero la dieta sirve al cuerpo, mientras el ayuno cristiano disciplina el cuerpo por el alma (cap. 38). La templanza regula los apetitos sensibles, y la mortificación no destruye el placer creado, sino que lo ordena a la caridad y a la salvación. La práctica recomendada es concreta: pequeñas renuncias diarias, dar por amor de Dios y cultivar el hambre espiritual mediante la Eucaristía y el amor al pobre (caps. 38-39).
 
 ## Distinciones importantes
 

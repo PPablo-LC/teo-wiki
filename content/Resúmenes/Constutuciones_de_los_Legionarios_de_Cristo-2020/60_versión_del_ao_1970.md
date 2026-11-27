@@ -29,6 +29,6 @@ Esta revisión no introdujo variantes de importancia. Cuenta con solo veinticinc
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Versión del año 1970 |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Versión del año 1970 |

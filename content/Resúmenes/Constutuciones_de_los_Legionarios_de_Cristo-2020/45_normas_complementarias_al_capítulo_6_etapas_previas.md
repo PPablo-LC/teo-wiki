@@ -28,6 +28,6 @@ Esta disposición busca asegurar que la [[formación]] vocacional incluya una pr
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Normas complementarias al Capítulo 6. Etapas previas |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Normas complementarias al Capítulo 6. Etapas previas |

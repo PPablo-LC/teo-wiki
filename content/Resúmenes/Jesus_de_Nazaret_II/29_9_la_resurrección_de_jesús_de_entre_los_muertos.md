@@ -25,6 +25,6 @@ El testimonio neotestamentario se presenta en dos formas: **confesiones** breves
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 9. LA RESURRECCIÓN DE JESÚS DE ENTRE LOS MUERTOS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 9. LA RESURRECCIÓN DE JESÚS DE ENTRE LOS MUERTOS |

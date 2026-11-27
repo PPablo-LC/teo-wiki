@@ -44,6 +44,6 @@ Colección de 13 avisos procedentes de Antequera:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | 5. Avisos procedentes de Antequera |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 5. Avisos procedentes de Antequera |

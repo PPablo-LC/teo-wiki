@@ -87,17 +87,17 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | TERCERA PARTE |
-| 3 | H2 | PRIMERA SECCIÓN |
-| 4 | H4 | LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU |
-| 6 | H2 | SEGUNDA SECCIÓN |
-| 8 | H4 | LOS DIEZ MANDAMIENTOS |
-| 12 | H5 | Éxodo 20,2-17 Deuteronomio 5,6-21 Fórmula catequética |
-| 136 | H5 | El Decálogo en la Sagrada Escritura |
-| 164 | H5 | El Decálogo en la Tradición de la Iglesia |
-| 178 | H5 | La unidad del Decálogo |
-| 182 | H5 | El Decálogo y la ley natural |
-| 194 | H5 | La obligación del Decálogo |
-| 204 | H5 | Resumen |
+| Nivel | Sección |
+|-------|---------|
+| H1 | TERCERA PARTE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU |
+| H2 | SEGUNDA SECCIÓN |
+| H4 | LOS DIEZ MANDAMIENTOS |
+| H5 | Éxodo 20,2-17 Deuteronomio 5,6-21 Fórmula catequética |
+| H5 | El Decálogo en la Sagrada Escritura |
+| H5 | El Decálogo en la Tradición de la Iglesia |
+| H5 | La unidad del Decálogo |
+| H5 | El Decálogo y la ley natural |
+| H5 | La obligación del Decálogo |
+| H5 | Resumen |

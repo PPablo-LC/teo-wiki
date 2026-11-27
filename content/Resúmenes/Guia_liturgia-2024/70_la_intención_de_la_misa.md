@@ -33,6 +33,6 @@ Sección del Apéndice sobre la intención de la misa (nn. 4-9).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | La intención de la misa |
+| Nivel | Sección |
+|-------|---------|
+| H2 | La intención de la misa |

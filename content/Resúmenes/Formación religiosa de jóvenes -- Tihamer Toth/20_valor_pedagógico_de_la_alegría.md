@@ -38,7 +38,7 @@ Marcador del capítulo siguiente: **Educación en internado**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | VALOR PEDAGÓGICO DE LA ALEGRÍA |
-| 59 | H3 | Capítulo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | VALOR PEDAGÓGICO DE LA ALEGRÍA |
+| H3 | Capítulo |

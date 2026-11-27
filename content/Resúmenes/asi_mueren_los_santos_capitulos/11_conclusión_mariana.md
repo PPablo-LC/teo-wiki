@@ -40,7 +40,7 @@ mueren como hijos que se acogen al pecho de la Madre.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CONCLUSIÓN MARIANA |
-| 3-17 | — | Dante, *Paraíso* XXIII: la rosa y el Verbo encarnado |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CONCLUSIÓN MARIANA |
+| — | Dante, *Paraíso* XXIII: la rosa y el Verbo encarnado |

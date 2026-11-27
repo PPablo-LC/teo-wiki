@@ -27,6 +27,6 @@ La plegaria tiene tres elementos. Primero, el miedo primordial ante la muerte; J
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. LA ORACIÓN DEL SEÑOR |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. LA ORACIÓN DEL SEÑOR |

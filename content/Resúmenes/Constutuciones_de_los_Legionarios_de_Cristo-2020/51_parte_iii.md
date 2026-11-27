@@ -25,6 +25,6 @@ Título de la tercera parte de las Constituciones: «El gobierno y la administra
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Parte III |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Parte III |

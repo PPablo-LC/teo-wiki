@@ -32,9 +32,9 @@ El lenguaje literal cotidiano nos falla especialmente para expresar lo que senti
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Poetry and the Human Brain — Keith Holyoak |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Poetry and the Human Brain — Keith Holyoak |
 
 ## Secciones incluidas
 

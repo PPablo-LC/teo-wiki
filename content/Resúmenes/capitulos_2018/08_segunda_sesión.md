@@ -20,8 +20,8 @@ Encabezado del documento: «Comunicado del Capítulo General extraordinario». L
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SEGUNDA SESIÓN |
-| 2 | P | Comunicado del Capítulo General extraordinario |
-| 4 | P | Roma, 6 de diciembre de 2018 |
+| Nivel | Sección |
+|-------|---------|
+| H1 | SEGUNDA SESIÓN |
+| P | Comunicado del Capítulo General extraordinario |
+| P | Roma, 6 de diciembre de 2018 |

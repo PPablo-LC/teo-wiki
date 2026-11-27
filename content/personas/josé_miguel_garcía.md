@@ -64,7 +64,7 @@ propia del cristiano.
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivo
-  `04_alla_ricerca_del_volto_umano_1996.md` (líneas 3-17, 171) y
-  `05_fonti.md` (línea 17).
+  `04_alla_ricerca_del_volto_umano_1996.md` y
+  `05_fonti.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

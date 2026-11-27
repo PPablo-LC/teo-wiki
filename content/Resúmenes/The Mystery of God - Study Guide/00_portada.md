@@ -31,4 +31,4 @@ El programa audiovisual fue creado en Mundelein Seminary. La guía de estudio fu
 
 ## Fuente original
 
-- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/00_portada.md` (líneas 1-86)
+- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/00_portada.md`

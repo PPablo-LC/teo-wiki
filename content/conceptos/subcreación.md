@@ -28,7 +28,7 @@ La creación de arte es una actividad encarnacional que requiere receptividad, u
 
 Stewart cita a Tolkien («On Fairy-stories»): «hacemos en nuestra medida y en nuestro modo derivado, porque somos hechos: y no solo hechos, sino hechos a imagen y semejanza de un Hacedor». La relación vertical de adoración y la horizontal de hospitalidad nacen del amor: el amor engendra nueva creación. Stewart describe cómo el nacimiento de su hijo la impulsó a escribir para dar gracias. Cita a L'Engle: «Dios está creando constantemente, en nosotros, a través de nosotros, con nosotros, y co-crear con Dios es nuestra llamada humana». Y concluye: «¿cómo puede la IA co-crear con Dios para dar carne a una obra de arte si no tiene carne que dar, si no tiene alma con la que amar?».
 
-**Daniel Granitto y Michael Stevens, «Authentic Art»** (13_art.md L117-129): «imbuidos del conocimiento celestial de que hemos sido formados amorosamente por nuestro Padre eterno, nosotros también queremos formar. Contamos historias y escribimos poemas, pintamos cuadros y esculpimos estatuas». En nuestros mejores momentos glorificamos a Dios; en los peores, saciamos nuestros peores apetitos. La IA es nuestra creación, «rica en posibilidad pero despojada de las marcas más verdaderas de Dios», y debemos cuidar que sirva a los propósitos más altos y no a nuestros apetitos más bajos. Como el salmista medita: «tú formaste mi ser más íntimo; me tejiste en el seno de mi madre. Te alabo, porque estoy hecho maravillosamente; maravillosas son tus obras» (Sal 139,13-14). «Nosotros somos creadores. Y, ciertamente, nos viene con toda honestidad.»
+**Daniel Granitto y Michael Stevens, «Authentic Art»** (13_art.md): «imbuidos del conocimiento celestial de que hemos sido formados amorosamente por nuestro Padre eterno, nosotros también queremos formar. Contamos historias y escribimos poemas, pintamos cuadros y esculpimos estatuas». En nuestros mejores momentos glorificamos a Dios; en los peores, saciamos nuestros peores apetitos. La IA es nuestra creación, «rica en posibilidad pero despojada de las marcas más verdaderas de Dios», y debemos cuidar que sirva a los propósitos más altos y no a nuestros apetitos más bajos. Como el salmista medita: «tú formaste mi ser más íntimo; me tejiste en el seno de mi madre. Te alabo, porque estoy hecho maravillosamente; maravillosas son tus obras» (Sal 139,13-14). «Nosotros somos creadores. Y, ciertamente, nos viene con toda honestidad.»
 
 ## Distinciones importantes
 
@@ -51,4 +51,4 @@ Stewart cita a Tolkien («On Fairy-stories»): «hacemos en nuestra medida y en 
 ## Referencias
 
 - [EAC-19, 17_feature_stewart.md — Haley Stewart, «Gloriously Human»]
-- [EAC-19, 13_art.md — Daniel Granitto, L117-129]
+- [EAC-19, 13_art.md — Daniel Granitto]

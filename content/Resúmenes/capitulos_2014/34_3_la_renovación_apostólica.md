@@ -71,6 +71,6 @@ El carisma obliga a concentrarse en algunas prioridades; se pide a los gobiernos
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 3) La renovación apostólica |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 3) La renovación apostólica |

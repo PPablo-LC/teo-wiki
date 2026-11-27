@@ -74,22 +74,22 @@ La misión se aprende en casa, no fuera. La casa es el lugar que introduce a la 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PER LA TUA CORSA NEL MONDO |
-| 35 | Blockquote | Davanti al Mistero nessuno può misurare |
-| 67 | Blockquote | Semplicemente domandare |
-| 85 | Blockquote | Il método con cui Dio interviene |
-| 97 | Blockquote | Dimora |
-| 111 | Blockquote | Una dignità ontologicamente perfetta |
-| 123 | Blockquote | Un adesso intatto |
-| 133 | Blockquote | Cristo, una presenza nello sguardo |
-| 145 | Blockquote | L'oggettivo è ciò che è già fatto da un Altro |
-| 167 | Blockquote | Avere l'incombenza di tutto l'universo |
-| 181 | Blockquote | Un luogo per imparare |
-| 191 | Blockquote | La casa introduce alla corsa nell'universo |
-| 215 | Blockquote | Il Mistero lo puoi capire solo se ti parla di sé |
-| 225 | Blockquote | L'avventura della fede |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PER LA TUA CORSA NEL MONDO |
+| Blockquote | Davanti al Mistero nessuno può misurare |
+| Blockquote | Semplicemente domandare |
+| Blockquote | Il método con cui Dio interviene |
+| Blockquote | Dimora |
+| Blockquote | Una dignità ontologicamente perfetta |
+| Blockquote | Un adesso intatto |
+| Blockquote | Cristo, una presenza nello sguardo |
+| Blockquote | L'oggettivo è ciò che è già fatto da un Altro |
+| Blockquote | Avere l'incombenza di tutto l'universo |
+| Blockquote | Un luogo per imparare |
+| Blockquote | La casa introduce alla corsa nell'universo |
+| Blockquote | Il Mistero lo puoi capire solo se ti parla di sé |
+| Blockquote | L'avventura della fede |
 
 ## Secciones incluidas
 

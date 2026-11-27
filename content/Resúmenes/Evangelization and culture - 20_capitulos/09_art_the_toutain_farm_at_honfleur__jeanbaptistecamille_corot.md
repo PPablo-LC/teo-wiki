@@ -21,6 +21,6 @@ El archivo presenta una obra de arte de Jean-Baptiste-Camille Corot titulada "Th
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Art: The Toutain Farm at Honfleur — Jean-Baptiste-Camille Corot |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Art: The Toutain Farm at Honfleur — Jean-Baptiste-Camille Corot |

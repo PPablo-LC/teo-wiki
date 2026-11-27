@@ -24,4 +24,4 @@ El glosario recoge definiciones breves de términos usados en la guía, entre el
 
 ## Fuente original
 
-- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/08_glossary.md` (líneas 1-82)
+- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/08_glossary.md`

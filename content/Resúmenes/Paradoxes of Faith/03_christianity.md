@@ -42,8 +42,8 @@ La obediencia que solo reconoce órdenes es insuficiente, sobre todo en la [[vid
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Christianity |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Christianity |
 
 ## Secciones incluidas

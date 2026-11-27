@@ -31,9 +31,9 @@ Epígrafe final: «Y quizá esa solo sea mi opinión, hombre».
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | "The Dude Abides" — Matthew Becklo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | "The Dude Abides" — Matthew Becklo |
 
 ## Secciones incluidas
 

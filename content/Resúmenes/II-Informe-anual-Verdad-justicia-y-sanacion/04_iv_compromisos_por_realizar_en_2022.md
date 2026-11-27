@@ -40,4 +40,4 @@ Enumeración de los **7 compromisos prioritarios para 2022**, dando continuidad 
 
 ## Referencia original
 
-📄 Fuente original: `05_compromisos_2022.md` (línea 1–19)
+📄 Fuente original: `05_compromisos_2022.md`

@@ -35,9 +35,9 @@ Cording abre con David Bentley Hart: todo intento tardío de conocer la verdad d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Life Refreshed — Robert Cording |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Life Refreshed — Robert Cording |
 
 ## Secciones incluidas
 

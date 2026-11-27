@@ -33,9 +33,9 @@ Decreto de la Asamblea General extraordinaria de los [[laicos_consagrados_del_re
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Decreto de convocación de la segunda sesión de la Asamblea de los Laic |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Decreto de convocación de la segunda sesión de la Asamblea de los Laic |
 
 
 ## Secciones incluidas

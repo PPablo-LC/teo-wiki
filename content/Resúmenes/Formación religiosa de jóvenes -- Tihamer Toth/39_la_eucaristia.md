@@ -31,6 +31,6 @@ Allí, el Espíritu Santo fortalece la identidad del discípulo y despierta en �
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA EUCARISTÍA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA EUCARISTÍA |

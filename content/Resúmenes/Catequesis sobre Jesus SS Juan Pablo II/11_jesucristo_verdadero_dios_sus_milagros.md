@@ -48,6 +48,6 @@ San Agustín escribe: «Los milagros que hizo Nuestro Señor Jesucristo son obra
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (JESUCRISTO: VERDADERO DIOS -SUS MILAGROS) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (JESUCRISTO: VERDADERO DIOS -SUS MILAGROS) |

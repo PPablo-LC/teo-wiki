@@ -64,24 +64,24 @@ Visto el número 144 § 1 de las Constituciones, el Capítulo General de 2026 **
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Decreto capitular sobre la delegación de facultad para |
-| 4 | H2 | DG-LC 505-2026 |
-| 7 | H3 | El Capítulo General de la Congregación de los Legionarios |
-| 14 | H2 | CONSIDERANDO |
-| 28 | H3 | Dado en Roma, el 27 de febrero de 2026. |
-| 30 | H3 | P. Carlos Gutiérrez, L.C. |
-| 33 | H3 | P. Luis Alberto Henao, L.C. |
-| 36 | H2 | DG-LC 529-2026 |
-| 41 | H2 | SON APROBADOS |
-| 48 | H3 | Al revisar las visitas familiares, el Capítulo ponderó la expe- |
-| 52 | H3 | P. Carlos Gutiérrez, L.C. |
-| 55 | H3 | P. Luis Alberto Henao, L.C. |
-| 58 | H2 | DG-LC 536-2026 |
-| 61 | H3 | El Capítulo General de 2026, |
-| 69 | H3 | General ordinario. |
-| 72 | H3 | Espiritualidad Legionaria. |
-| 76 | H3 | Dado en Roma, 27 de febrero de 2026. |
-| 78 | H3 | P. Carlos Gutiérrez, L.C. |
-| 81 | H3 | P. Luis Alberto Henao, L.C. |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Decreto capitular sobre la delegación de facultad para |
+| H2 | DG-LC 505-2026 |
+| H3 | El Capítulo General de la Congregación de los Legionarios |
+| H2 | CONSIDERANDO |
+| H3 | Dado en Roma, el 27 de febrero de 2026. |
+| H3 | P. Carlos Gutiérrez, L.C. |
+| H3 | P. Luis Alberto Henao, L.C. |
+| H2 | DG-LC 529-2026 |
+| H2 | SON APROBADOS |
+| H3 | Al revisar las visitas familiares, el Capítulo ponderó la expe- |
+| H3 | P. Carlos Gutiérrez, L.C. |
+| H3 | P. Luis Alberto Henao, L.C. |
+| H2 | DG-LC 536-2026 |
+| H3 | El Capítulo General de 2026, |
+| H3 | General ordinario. |
+| H3 | Espiritualidad Legionaria. |
+| H3 | Dado en Roma, 27 de febrero de 2026. |
+| H3 | P. Carlos Gutiérrez, L.C. |
+| H3 | P. Luis Alberto Henao, L.C. |

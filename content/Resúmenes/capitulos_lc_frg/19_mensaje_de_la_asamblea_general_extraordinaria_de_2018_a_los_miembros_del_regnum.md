@@ -64,9 +64,9 @@ Compromiso de caminar juntos, invitación a la caridad como «santidad plenament
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Mensaje de la Asamblea General extraordinaria de 2018 a los miembros |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Mensaje de la Asamblea General extraordinaria de 2018 a los miembros |
 
 
 ## Secciones incluidas

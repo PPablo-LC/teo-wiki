@@ -47,9 +47,9 @@ La Asamblea de 2020 revisará temas identitarios: consejos evangélicos de pobre
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Comunicado de la primera sesión de la Asamblea General extraordinaria |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Comunicado de la primera sesión de la Asamblea General extraordinaria |
 
 
 ## Secciones incluidas

@@ -208,49 +208,49 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SEGUNDA PARTE |
-| 3 | H2 | SEGUNDA SECCIÓN |
-| 4 | H4 | LOS SIETE SACRAMENTOS DE LA IGLESIA |
-| 6 | H3 | CAPÍTULO TERCERO |
-| 8 | H4 | LOS SACRAMENTOS AL SERVICIO DE LA COMUNIDAD |
-| 16 | H4 | ARTÍCULO 6 |
-| 18 | H4 | EL SACRAMENTO DEL ORDEN |
-| 24 | H5 | I. El nombre de sacramento del Orden |
-| 30 | H5 | II. El sacramento del Orden en la Economía de la salvación |
-| 32 | H5 | El sacerdocio de la Antigua Alianza |
-| 50 | H5 | El único sacerdocio de Cristo |
-| 56 | H5 | Dos modos de participar en el único sacerdocio de Cristo |
-| 62 | H5 | I. persona Christi Capitis… |
-| 82 | H5 | III. Los tres grados del sacramento del Orden |
-| 88 | H5 | La ordenación episcopal, plenitud del sacramento del Orden |
-| 104 | H5 | La ordenación de los presbíteros, cooperadores de los obispos |
-| 128 | H5 | IV. La celebración de este sacramento |
-| 136 | H5 | V. El ministro de este sacramento |
-| 142 | H5 | VI. Quién puede recibir este sacramento |
-| 152 | H5 | VII. Efectos del sacramento del Orden |
-| 154 | H5 | El carácter indeleble |
-| 166 | H5 | La gracia del Espíritu Santo |
-| 186 | H5 | Resumen |
-| 210 | H4 | ARTÍCULO 7 |
-| 212 | H4 | EL SACRAMENTO DEL MATRIMONIO |
-| 216 | H5 | I. El matrimonio en el plan de Dios |
-| 220 | H5 | El matrimonio en el orden de la creación |
-| 228 | H5 | El matrimonio bajo la esclavitud del pecado |
-| 236 | H5 | El matrimonio bajo la pedagogía de la antigua Ley |
-| 244 | H5 | El matrimonio en el Señor |
-| 258 | H5 | La virginidad por el Reino de Dios |
-| 270 | H5 | II. La celebración del Matrimonio |
-| 280 | H5 | III. El consentimiento matrimonial |
-| 316 | H5 | Matrimonios mixtos y disparidad de culto |
-| 328 | H5 | IV. Los efectos del sacramento del Matrimonio |
-| 332 | H5 | El vínculo matrimonial |
-| 338 | H5 | La gracia del sacramento del Matrimonio |
-| 346 | H5 | V. Los bienes y las exigencias del amor conyugal |
-| 350 | H5 | Unidad e indisolubilidad del matrimonio |
-| 356 | H5 | La fidelidad del amor conyugal |
-| 372 | H5 | La apertura a la fecundidad |
-| 382 | H5 | VI. La Iglesia doméstica |
-| 392 | H5 | Resumen |
-| 413 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | SEGUNDA PARTE |
+| H2 | SEGUNDA SECCIÓN |
+| H4 | LOS SIETE SACRAMENTOS DE LA IGLESIA |
+| H3 | CAPÍTULO TERCERO |
+| H4 | LOS SACRAMENTOS AL SERVICIO DE LA COMUNIDAD |
+| H4 | ARTÍCULO 6 |
+| H4 | EL SACRAMENTO DEL ORDEN |
+| H5 | I. El nombre de sacramento del Orden |
+| H5 | II. El sacramento del Orden en la Economía de la salvación |
+| H5 | El sacerdocio de la Antigua Alianza |
+| H5 | El único sacerdocio de Cristo |
+| H5 | Dos modos de participar en el único sacerdocio de Cristo |
+| H5 | I. persona Christi Capitis… |
+| H5 | III. Los tres grados del sacramento del Orden |
+| H5 | La ordenación episcopal, plenitud del sacramento del Orden |
+| H5 | La ordenación de los presbíteros, cooperadores de los obispos |
+| H5 | IV. La celebración de este sacramento |
+| H5 | V. El ministro de este sacramento |
+| H5 | VI. Quién puede recibir este sacramento |
+| H5 | VII. Efectos del sacramento del Orden |
+| H5 | El carácter indeleble |
+| H5 | La gracia del Espíritu Santo |
+| H5 | Resumen |
+| H4 | ARTÍCULO 7 |
+| H4 | EL SACRAMENTO DEL MATRIMONIO |
+| H5 | I. El matrimonio en el plan de Dios |
+| H5 | El matrimonio en el orden de la creación |
+| H5 | El matrimonio bajo la esclavitud del pecado |
+| H5 | El matrimonio bajo la pedagogía de la antigua Ley |
+| H5 | El matrimonio en el Señor |
+| H5 | La virginidad por el Reino de Dios |
+| H5 | II. La celebración del Matrimonio |
+| H5 | III. El consentimiento matrimonial |
+| H5 | Matrimonios mixtos y disparidad de culto |
+| H5 | IV. Los efectos del sacramento del Matrimonio |
+| H5 | El vínculo matrimonial |
+| H5 | La gracia del sacramento del Matrimonio |
+| H5 | V. Los bienes y las exigencias del amor conyugal |
+| H5 | Unidad e indisolubilidad del matrimonio |
+| H5 | La fidelidad del amor conyugal |
+| H5 | La apertura a la fecundidad |
+| H5 | VI. La Iglesia doméstica |
+| H5 | Resumen |
+| H3 | Referencias |

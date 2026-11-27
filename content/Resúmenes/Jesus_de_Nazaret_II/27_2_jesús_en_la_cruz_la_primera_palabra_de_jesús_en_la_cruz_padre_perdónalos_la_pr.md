@@ -31,6 +31,6 @@ tags: ["resumen", "jesus de nazaret ii"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. JESÚS EN LA CRUZ |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. JESÚS EN LA CRUZ |

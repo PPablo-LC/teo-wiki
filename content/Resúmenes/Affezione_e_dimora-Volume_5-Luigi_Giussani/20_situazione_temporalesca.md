@@ -61,6 +61,6 @@ Cierre: cantos («Il tango delle capinere», «Serenata del soldato»); el canto
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SITUAZIONE TEMPORALESCA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | SITUAZIONE TEMPORALESCA |

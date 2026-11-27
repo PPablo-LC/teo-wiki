@@ -95,21 +95,21 @@ Si todos hiciesen el mal, ¿sabrías conservarte sin mancharte? La conciencia «
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo I ¿Quién es el joven de carácter? |
-| 3 | H3 | Régulo en Cartago |
-| 10 | H3 | Pero, ¿qué es el carácter? |
-| 23 | H2 | ¿Qué es el carácter? |
-| 40 | H3 | Esculpir mi alma |
-| 49 | H3 | Sin |
-| 61 | H3 | La |
-| 75 | H3 | Antes piénsalo |
-| 82 | H3 | La libertad |
-| 84 | H3 | No hay palabra que guste tanto a los jóvenes como la palabra «libertad |
-| 93 | H3 | El |
-| 101 | H3 | Magnánimos en lo cotidiano |
-| 117 | H2 | ¿Sabes decir «NO»? |
-| 140 | H3 | El |
-| 152 | H3 | Contra corriente |
-| 161 | H3 | La |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo I ¿Quién es el joven de carácter? |
+| H3 | Régulo en Cartago |
+| H3 | Pero, ¿qué es el carácter? |
+| H2 | ¿Qué es el carácter? |
+| H3 | Esculpir mi alma |
+| H3 | Sin |
+| H3 | La |
+| H3 | Antes piénsalo |
+| H3 | La libertad |
+| H3 | No hay palabra que guste tanto a los jóvenes como la palabra «libertad |
+| H3 | El |
+| H3 | Magnánimos en lo cotidiano |
+| H2 | ¿Sabes decir «NO»? |
+| H3 | El |
+| H3 | Contra corriente |
+| H3 | La |

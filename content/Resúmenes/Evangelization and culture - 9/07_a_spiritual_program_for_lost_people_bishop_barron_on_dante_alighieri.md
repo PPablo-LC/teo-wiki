@@ -35,9 +35,9 @@ Entrevista (Tod Worner / Bishop Barron) sobre la Divina Comedia. **María y el P
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | A Spiritual Program for Lost People: Bishop Barron on Dante Alighieri |
+| Nivel | Sección |
+|-------|---------|
+| H1 | A Spiritual Program for Lost People: Bishop Barron on Dante Alighieri |
 
 ## Secciones incluidas
 

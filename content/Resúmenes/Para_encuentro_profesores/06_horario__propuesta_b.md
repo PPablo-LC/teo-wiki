@@ -83,7 +83,7 @@ El JUZGAR "es el momento en el que nos dejamos cuestionar y poner en discusión 
 
 ## Secciones incluidas
 
-- Horario — Propuesta B (líneas 107–124)
-- Bloque 1: VER — El Encuentro (líneas 126–136)
-- Bloque 2: JUZGAR — Las Convicciones (líneas 138–148)
-- Bloque 3: ACTUAR — Las Decisiones (líneas 150–160)
+- Horario — Propuesta B
+- Bloque 1: VER — El Encuentro
+- Bloque 2: JUZGAR — Las Convicciones
+- Bloque 3: ACTUAR — Las Decisiones

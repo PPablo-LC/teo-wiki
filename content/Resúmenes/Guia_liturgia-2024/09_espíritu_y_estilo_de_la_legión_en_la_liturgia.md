@@ -53,11 +53,11 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Espíritu y estilo de la Legión en la liturgia |
-| 3 | H3 | Sentido de lo sagrado |
-| 9 | H3 | Sentido eclesial |
-| 15 | H3 | Sobriedad conforme a la tradición romana |
-| 19 | H3 | Dignidad |
-| 25 | H3 | Estilo común en las celebraciones comunitarias |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Espíritu y estilo de la Legión en la liturgia |
+| H3 | Sentido de lo sagrado |
+| H3 | Sentido eclesial |
+| H3 | Sobriedad conforme a la tradición romana |
+| H3 | Dignidad |
+| H3 | Estilo común en las celebraciones comunitarias |

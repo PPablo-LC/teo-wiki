@@ -67,6 +67,17 @@ SC §105: El ciclo de Navidad incluye la fiesta de la Epifanía del Señor, la c
 
 **La visión de Greccio.** De la noche de 1223 Celano conserva un detalle que explica el belén mejor que cualquier teoría: el noble Juan, dueño del lugar, «no atendió a la nobleza de la sangre, sino que quiso alcanzar la nobleza del alma» (I Celano 30,84), y recibió la gracia de ver «un niño pequeño yaciendo en el pesebre sin moverse». Su comentario es la clave del belenismo: hasta entonces Jesús yacía «en un sueño de olvido en muchos corazones», y por medio de Francisco se despertó su recuerdo y se imprimió en la memoria de los hombres (I Celano 30,86). Ratzinger no suaviza la conclusión: «quien no ha comprendido el misterio de Navidad no ha comprendido lo decisivo del cristianismo» (BWC 4).
 
+### Según *Life of Christ* (LCh, cap. 2)
+
+Sheen hace de Belén el lugar donde se verifica su criterio de reconocimiento: «*Divinity is always where one least expects to find it*» (cap. 2). La posada es el espacio de la opinión pública y del éxito; el establo, el de los marginados, y precisamente por eso el mundo razonó que el recién nacido no podía ser Dios: «And that is just why it missed Him». Nacido en una cueva, hay que agacharse para verlo, y «To stoop is the mark of humility. The proud refuse to stoop and, therefore, they miss Divinity».
+
+El pesebre y la Cruz se corresponden punto por punto: rechazado al entrar y al salir, «He was laid in a stranger's stable at the beginning, and a stranger's grave at the end»; un buey y un asno junto a la cuna, dos ladrones junto a la Cruz; pañales en el portal y sudario en el sepulcro. Los pañales son el único **signo**, porque «There is no sign unless something happens contrary to nature. The brightness of the sun is no sign, but an eclipse is».
+
+- Sólo dos clases lo encontraron: pastores y Magos, «the simple and the learned; those who knew that they knew nothing, and those who knew that they did not know everything».
+- «Bethlehem is the inscape of Calvary, just as the snowflake is the inscape of the universe» (Caryll Houselander, citado en).
+- No hay tragedia en su vida, porque la tragedia supone lo imprevisible: Él iba «from the known to the known».
+- El nombre de Belén, «House of Bread», y el pesebre como lugar de comer anticipan la Eucaristía.
+
 ## Distinciones importantes
 
 - **Navidad como misterio, no solo fecha**: la celebración litúrgica accede al misterio del nacimiento de Cristo, no solo conmemora una fecha

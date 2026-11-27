@@ -28,6 +28,6 @@ Los consejeros deben exponer con libertad y claridad su parecer y, también, si 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 3) El consejo del superior |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 3) El consejo del superior |

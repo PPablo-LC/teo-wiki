@@ -57,12 +57,12 @@ Sea ésta la mayor alegría de nuestras vidas entregadas. Y ojalá el mundo actu
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LOS PASOS EN EL CONOCIMIENTO |
-| 5 | H3 | Cuatro principios sobre la información respecto a la sexualidad |
-| 9 | H1 | ORIENTACIONES PRÁCTICAS |
-| 13 | H1 | V CONFERENCIA GENERAL DEL EPISCOPADO LATINOAMERICANO Y DEL CARIBE |
-| 19 | H3 | Aparecida, 13-31 de mayo de 2007 |
-| 23 | H1 | EL MATRIMONIO Y LA FAMILIA |
-| 29 | H1 | FERVOR ESPIRITUAL |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LOS PASOS EN EL CONOCIMIENTO |
+| H3 | Cuatro principios sobre la información respecto a la sexualidad |
+| H1 | ORIENTACIONES PRÁCTICAS |
+| H1 | V CONFERENCIA GENERAL DEL EPISCOPADO LATINOAMERICANO Y DEL CARIBE |
+| H3 | Aparecida, 13-31 de mayo de 2007 |
+| H1 | EL MATRIMONIO Y LA FAMILIA |
+| H1 | FERVOR ESPIRITUAL |

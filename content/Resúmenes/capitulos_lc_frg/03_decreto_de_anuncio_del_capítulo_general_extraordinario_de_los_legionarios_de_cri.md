@@ -43,9 +43,9 @@ Decreto de la [[gobierno_congregacional]] (Prot. DG-LC 5623-2017, 16 de octubre 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Decreto de anuncio del Capítulo General extraordinario de los Legionar |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Decreto de anuncio del Capítulo General extraordinario de los Legionar |
 
 
 ## Secciones incluidas

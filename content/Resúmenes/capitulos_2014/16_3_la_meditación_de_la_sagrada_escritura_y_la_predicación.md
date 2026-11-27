@@ -31,6 +31,6 @@ tags: ["resumen", "capitulos 2014"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 3) La meditación de la Sagrada Escritura y la predicación |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 3) La meditación de la Sagrada Escritura y la predicación |

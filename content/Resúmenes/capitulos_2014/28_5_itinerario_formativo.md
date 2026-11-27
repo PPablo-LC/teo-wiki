@@ -36,6 +36,6 @@ tags: ["resumen", "capitulos 2014"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 5) Itinerario formativo |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 5) Itinerario formativo |

@@ -87,9 +87,9 @@ El Kempis añade dos matices que la distinguen de un ascetismo cerrado. El prime
 
 ### Según Fulton J. Sheen — *The Cries of Jesus from the Cross* (CJC)
 
-Sheen une la mortificación a la «hora» de la Cruz: entre el comienzo de una vocación y su consumación interviene un tiempo de sacrificio, disciplina y muerte al yo inferior (CJC, cap. 49, L23-25). La Cruz no es accidente, sino condición de la plenitud: sin el grano que muere no hay fruto, y sin la hora no hay Pascua (Jn 12,24-25; cap. 49, L27-37).
+Sheen une la mortificación a la «hora» de la Cruz: entre el comienzo de una vocación y su consumación interviene un tiempo de sacrificio, disciplina y muerte al yo inferior (CJC, cap. 49). La Cruz no es accidente, sino condición de la plenitud: sin el grano que muere no hay fruto, y sin la hora no hay Pascua (Jn 12,24-25; cap. 49).
 
-Esta mortificación no es odio al cuerpo, sino ordenación del deseo. En la templanza, el cristiano ayuna no por apariencia corporal sino por el alma; en la caridad, renuncia a algo propio para darlo en nombre de Cristo (caps. 39-40). Sheen la concreta en desapego diario: «at least three unimportant mortifications every day», pequeñas renuncias hechas por amor de Dios. La medida no es la magnitud exterior, sino la caridad con que se ofrece el sacrificio (cap. 39, L85-87).
+Esta mortificación no es odio al cuerpo, sino ordenación del deseo. En la templanza, el cristiano ayuna no por apariencia corporal sino por el alma; en la caridad, renuncia a algo propio para darlo en nombre de Cristo (caps. 39-40). Sheen la concreta en desapego diario: «at least three unimportant mortifications every day», pequeñas renuncias hechas por amor de Dios. La medida no es la magnitud exterior, sino la caridad con que se ofrece el sacrificio (cap. 39).
 
 ## Distinciones importantes
 

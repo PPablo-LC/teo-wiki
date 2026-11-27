@@ -24,9 +24,9 @@ Documento introductorio que recopila las abreviaturas empleadas a lo largo de to
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 11 | H1 | Abreviaturas |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Abreviaturas |
 
 
 ## Secciones incluidas

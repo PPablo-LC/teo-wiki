@@ -40,6 +40,6 @@ tags: ["resumen", "jesus de nazaret i"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. LA TORÁ DEL MESÍAS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. LA TORÁ DEL MESÍAS |

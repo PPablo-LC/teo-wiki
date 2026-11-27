@@ -39,4 +39,4 @@ El tiempo de grupos NO es análisis ni debate. Es [[oración_contemplativa]] com
 
 ## Secciones incluidas
 
-- Fundamento del documento (líneas 19–27)
+- Fundamento del documento

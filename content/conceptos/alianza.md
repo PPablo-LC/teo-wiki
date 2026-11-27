@@ -70,7 +70,7 @@ La alianza no se mide por los pecados: «Esta es la alianza, porque la alianza n
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Giussani define la Alianza a partir del amor electivo de Dios: «la Bibbia chiama "Alleanza" questo amore che Dio ha verso gli uomini che sceglie perché capiscano chi è... e collaborino alla Sua fantasía creatrice, alla Sua affezione redentiva, alla Sua amicizia elettiva». Dios se pone al hombre como Padre —«un legame di amore generativo, continuamente generativo e últimamente salvifico»—, y esa elección «piena di preferenza, piena di preferenze» es lo que el creyente reconoce al poder llamarlo «Abbà, Padre!» (Gal 4,6). En contraste, la Escritura llama también «una sorta di alleanza con la morte» a la vida vivida sin significado, aunque «noi non siamo fatti per la morte» (TACDC, 03, L55; 01, L17).
+Giussani define la Alianza a partir del amor electivo de Dios: «la Bibbia chiama "Alleanza" questo amore che Dio ha verso gli uomini che sceglie perché capiscano chi è... e collaborino alla Sua fantasía creatrice, alla Sua affezione redentiva, alla Sua amicizia elettiva». Dios se pone al hombre como Padre —«un legame di amore generativo, continuamente generativo e últimamente salvifico»—, y esa elección «piena di preferenza, piena di preferenze» es lo que el creyente reconoce al poder llamarlo «Abbà, Padre!» (Gal 4,6). En contraste, la Escritura llama también «una sorta di alleanza con la morte» a la vida vivida sin significado, aunque «noi non siamo fatti per la morte» (TACDC, 03; 01).
 
 ### Según Scott Hahn (Hail, Holy Queen)
 

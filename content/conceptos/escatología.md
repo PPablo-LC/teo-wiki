@@ -78,7 +78,7 @@ Bishop Robert Barron dedica la Lección 10 completa ("Mundo sin fin") a la escat
 
 **Escatología y vida moral (§421-455):** La esperanza cristiana no es optimismo sino "certeza de que Dios cumplirá su promesa". Esta certeza transforma la vida presente: "La espera de una tierra nueva no debe amortiguar, sino más bien avivar, la preocupación de perfeccionar esta tierra" (GS 39).
 
-> «El infierno es real porque la libertad es real — la posibilidad del rechazo definitivo de Dios» (WoF, L10)
+> «El infierno es real porque la libertad es real — la posibilidad del rechazo definitivo de Dios» (WoF)
 
 ### Según el Pórtico de la Biblia (PdB)
 

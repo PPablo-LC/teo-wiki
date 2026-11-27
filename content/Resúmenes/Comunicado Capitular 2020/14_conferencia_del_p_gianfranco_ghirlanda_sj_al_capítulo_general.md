@@ -100,16 +100,16 @@ La elección debe recaer sobre personas con visión, que sepan llevarla a cabo s
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Conferencia del P. Gianfranco Ghirlanda, S.J., al Capítulo General |
-| 5 | H3 | El gobierno general en los últimos años |
-| 51 | H3 | Desafíos para el futuro de la Legión |
-| 53 | H4 | Unidad y uniformidad |
-| 55 | H5 | Capacidad crítica y crítica |
-| 67 | H5 | Descentralización |
-| 71 | H5 | Ejercicio de la Libertad |
-| 75 | H5 | Oposición generacional |
-| 81 | H5 | Formación |
-| 89 | H5 | Disminución del número de legionarios |
-| 93 | H3 | La tarea principal del Capítulo |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Conferencia del P. Gianfranco Ghirlanda, S.J., al Capítulo General |
+| H3 | El gobierno general en los últimos años |
+| H3 | Desafíos para el futuro de la Legión |
+| H4 | Unidad y uniformidad |
+| H5 | Capacidad crítica y crítica |
+| H5 | Descentralización |
+| H5 | Ejercicio de la Libertad |
+| H5 | Oposición generacional |
+| H5 | Formación |
+| H5 | Disminución del número de legionarios |
+| H3 | La tarea principal del Capítulo |

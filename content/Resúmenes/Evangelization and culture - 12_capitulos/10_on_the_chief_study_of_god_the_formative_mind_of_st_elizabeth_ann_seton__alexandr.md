@@ -52,4 +52,4 @@ tags: ["resumen", "evangelization_and_culture_12", "santa_isabel_ana_seton", "ed
 
 ## Referencia original
 
-📄 Fuente original: `10_minds.md` (línea 1–75)
+📄 Fuente original: `10_minds.md`

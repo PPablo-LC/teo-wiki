@@ -22,6 +22,6 @@ Este archivo es únicamente un encabezado de sección (`## LA LEGIÓN DE CRISTO 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA LEGIÓN DE CRISTO EN ELREGNUM CHRISTI |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA LEGIÓN DE CRISTO EN ELREGNUM CHRISTI |

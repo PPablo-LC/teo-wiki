@@ -37,6 +37,6 @@ Quédate, Señor, con aquéllos que en nuestras sociedades son más vulnerables;
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | AUDACIA APOSTÓLICA AYUDADOS POR MARÍA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | AUDACIA APOSTÓLICA AYUDADOS POR MARÍA |

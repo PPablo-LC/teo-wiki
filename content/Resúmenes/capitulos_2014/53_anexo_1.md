@@ -68,6 +68,6 @@ El mensaje concluye con agradecimiento a Dios, a la Iglesia en la persona del Su
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Anexo 1 |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Anexo 1 |

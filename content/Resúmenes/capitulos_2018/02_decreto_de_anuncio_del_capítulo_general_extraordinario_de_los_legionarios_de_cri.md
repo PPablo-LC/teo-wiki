@@ -58,11 +58,11 @@ Firmado por el P. Eduardo Robles-Gil, L.C., director general, y el P. Jaime Rodr
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Decreto de anuncio del Capítulo General extraordinario de los Legionarios de Cristo de 2018 |
-| 3-5 | P | Datos de protocolo |
-| 7-9 | P | Anuncio |
-| 11-17 | §1 | Finalidades del Capítulo |
-| 19-49 | §2 | Normas para la elección de los delegados |
-| 51-59 | P | Firma y datos |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Decreto de anuncio del Capítulo General extraordinario de los Legionarios de Cristo de 2018 |
+| P | Datos de protocolo |
+| P | Anuncio |
+| §1 | Finalidades del Capítulo |
+| §2 | Normas para la elección de los delegados |
+| P | Firma y datos |

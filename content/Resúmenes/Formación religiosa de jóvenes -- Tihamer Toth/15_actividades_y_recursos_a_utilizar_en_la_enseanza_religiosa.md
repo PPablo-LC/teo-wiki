@@ -89,11 +89,11 @@ Marcador del capítulo siguiente: **Enseñanza religiosa en los cursos superiore
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ACTIVIDADES Y RECURSOS A UTILIZAR EN LA ENSEÑANZA RELIGIOSA |
-| 5 | H3 | Participación activa de los alumnos |
-| 16 | H3 | Recursos a utilizar |
-| 28 | H3 | Aplicaciones prácticas (educa para la vida) |
-| 103 | H3 | Explicación de los Mandamientos |
-| 126 | H3 | Capítulo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | ACTIVIDADES Y RECURSOS A UTILIZAR EN LA ENSEÑANZA RELIGIOSA |
+| H3 | Participación activa de los alumnos |
+| H3 | Recursos a utilizar |
+| H3 | Aplicaciones prácticas (educa para la vida) |
+| H3 | Explicación de los Mandamientos |
+| H3 | Capítulo |

@@ -33,6 +33,6 @@ tags: ["resumen", "jesus de nazaret i"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. TRES GRANDES RELATOS DE PARÁBOLAS DE LUCAS Intentar explicar aunque |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. TRES GRANDES RELATOS DE PARÁBOLAS DE LUCAS Intentar explicar aunque |

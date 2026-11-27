@@ -86,6 +86,6 @@ Hay que tomar en serio estas cosas para hacer justicia a Jesús: que las cosas m
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PREFERENZA E SEGNO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PREFERENZA E SEGNO |

@@ -35,4 +35,4 @@ Cierra con una invitación a la oración mutua y la bendición sobre los niños 
 
 ## Referencia original
 
-📄 Fuente original: `03_word_from_institute.md` (línea 1–9)
+📄 Fuente original: `03_word_from_institute.md`

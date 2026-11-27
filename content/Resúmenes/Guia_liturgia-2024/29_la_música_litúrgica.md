@@ -81,11 +81,11 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | La música litúrgica |
-| 9 | H3 | Canto gregoriano |
-| 15 | H3 | Cantos en lengua vernácula |
-| 23 | H3 | Participación |
-| 39 | H3 | Selección de los cantos |
-| 47 | H3 | El uso de instrumentos |
+| Nivel | Sección |
+|-------|---------|
+| H2 | La música litúrgica |
+| H3 | Canto gregoriano |
+| H3 | Cantos en lengua vernácula |
+| H3 | Participación |
+| H3 | Selección de los cantos |
+| H3 | El uso de instrumentos |

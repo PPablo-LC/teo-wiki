@@ -29,6 +29,6 @@ Petrusek enfatiza, citando a Bishop Barron, que la libertad sin reglas solo favo
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | A Word from the Institute — Matthew R. Petrusek |
+| Nivel | Sección |
+|-------|---------|
+| H1 | A Word from the Institute — Matthew R. Petrusek |

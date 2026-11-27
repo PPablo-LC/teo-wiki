@@ -36,6 +36,6 @@ Las catequesis sobre Jesucristo encuentran su núcleo en la verdad fundamental q
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (JESUCRISTO: UNGIDO POR EL ESPÍRITU SANTO) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (JESUCRISTO: UNGIDO POR EL ESPÍRITU SANTO) |

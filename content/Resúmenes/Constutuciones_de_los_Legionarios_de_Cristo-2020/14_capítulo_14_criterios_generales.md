@@ -52,16 +52,16 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 14. Criterios generales |
-| 3 | H4 | Art. 1. La autoridad en la Congregación |
-| 5 | H5 | Capítulo General y director general |
-| 11 | H5 | Superiores, ordinarios, consejos |
-| 19 | H5 | Duración del mandato, consultas |
-| 31 | H4 | Art. 2. Adscripción y asignación de personal |
-| 33 | H5 | Adscripción |
-| 39 | H5 | Asignación de personal |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Capítulo 14. Criterios generales |
+| H4 | Art. 1. La autoridad en la Congregación |
+| H5 | Capítulo General y director general |
+| H5 | Superiores, ordinarios, consejos |
+| H5 | Duración del mandato, consultas |
+| H4 | Art. 2. Adscripción y asignación de personal |
+| H5 | Adscripción |
+| H5 | Asignación de personal |
 
 ## Secciones incluidas
 

@@ -30,6 +30,6 @@ Este archivo abre el capítulo dedicado a la liturgia de las horas con la cita i
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | La liturgia de las horas |
+| Nivel | Sección |
+|-------|---------|
+| H1 | La liturgia de las horas |

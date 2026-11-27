@@ -26,6 +26,6 @@ Se advierte hoy la conciencia del hombre mucho más disponible a aquel sentido r
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | UNA PREMESSA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | UNA PREMESSA |

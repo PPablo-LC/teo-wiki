@@ -86,8 +86,8 @@ movimiento» (06, 31-37).
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `04_vivere_nella_gratuita.md` (líneas 33-37, 61),
-  `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md` (líneas 31-37) y
-  `12_storia_di_un_opera_famiglie_per_l_accoglienza.md` (líneas 37, 77).
+  `04_vivere_nella_gratuita.md`,
+  `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md` y
+  `12_storia_di_un_opera_famiglie_per_l_accoglienza.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

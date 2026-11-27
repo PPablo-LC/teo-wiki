@@ -55,11 +55,11 @@ La imagen de Dios dada por la realidad se vuelve oscura y alterada, refractada a
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PARTE SECONDA — CONOSCENZA E MISTERO |
-| 3 | H2 | IL SENSO RELIGIOSO |
-| 5 | H3 | CAPITOLO PRIMO — SENSO RELIGIOSO E REALTÀ |
-| 71 | H3 | CAPITOLO SECONDO — IL SEGNO |
-| 135 | H3 | CAPITOLO TERZO — IL DIO NASCOSTO |
-| 189 | H3 | CAPITOLO QUARTO — L’ÍDOLO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PARTE SECONDA — CONOSCENZA E MISTERO |
+| H2 | IL SENSO RELIGIOSO |
+| H3 | CAPITOLO PRIMO — SENSO RELIGIOSO E REALTÀ |
+| H3 | CAPITOLO SECONDO — IL SEGNO |
+| H3 | CAPITOLO TERZO — IL DIO NASCOSTO |
+| H3 | CAPITOLO QUARTO — L’ÍDOLO |

@@ -39,6 +39,6 @@ La vida se acrecienta dándola y se debilita en el aislamiento y la comodidad. L
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA ALEGRÍA DE SER DISCÍPULOS Y MISIONEROS DE JESUCRISTO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA ALEGRÍA DE SER DISCÍPULOS Y MISIONEROS DE JESUCRISTO |

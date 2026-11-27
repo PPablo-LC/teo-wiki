@@ -60,16 +60,16 @@ Los delegados laicos expresan su compromiso de contribuir al desarrollo de la vo
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Comunicado de los delegados laicos a los legionarios de Cristo, consag |
-| 11 | H3 | Introducción |
-| 15 | H3 | Historia del proceso |
-| 23 | H3 | Aspectos de Asamblea General común de especial relevancia para los lai |
-| 29 | H3 | Retos y metas |
-| 35 | H3 | Al Comité General del Regnum Christi y al futuro gobierno de la Federa |
-| 43 | H3 | A las ramas consagradas |
-| 53 | H3 | Conclusión |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Comunicado de los delegados laicos a los legionarios de Cristo, consag |
+| H3 | Introducción |
+| H3 | Historia del proceso |
+| H3 | Aspectos de Asamblea General común de especial relevancia para los lai |
+| H3 | Retos y metas |
+| H3 | Al Comité General del Regnum Christi y al futuro gobierno de la Federa |
+| H3 | A las ramas consagradas |
+| H3 | Conclusión |
 
 
 ## Secciones incluidas

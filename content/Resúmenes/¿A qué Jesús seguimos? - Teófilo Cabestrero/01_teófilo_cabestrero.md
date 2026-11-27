@@ -22,6 +22,6 @@ El archivo raw contiene únicamente el nombre del autor: **Teófilo Cabestrero**
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | TEÓFILO CABESTRERO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | TEÓFILO CABESTRERO |

@@ -54,14 +54,14 @@ Al papa Francisco, a la Congregación para los Institutos de Vida Consagrada, al
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Mensaje final de la Asamblea General del Regnum Christi |
-| 9 | H3 | Introducción |
-| 15 | H3 | Desarrollo de la Asamblea |
-| 25 | H3 | Frutos del camino recorrido |
-| 35 | H3 | Horizonte |
-| 41 | H3 | Agradecimientos |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Mensaje final de la Asamblea General del Regnum Christi |
+| H3 | Introducción |
+| H3 | Desarrollo de la Asamblea |
+| H3 | Frutos del camino recorrido |
+| H3 | Horizonte |
+| H3 | Agradecimientos |
 
 
 ## Secciones incluidas

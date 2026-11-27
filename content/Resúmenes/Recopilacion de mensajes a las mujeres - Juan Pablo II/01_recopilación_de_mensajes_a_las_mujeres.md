@@ -25,8 +25,8 @@ Los mensajes se estructuran en tres grandes bloques temáticos: (1) el Mensaje p
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | RECOPILACIÓN DE MENSAJES A LAS MUJERES |
+| Nivel | Sección |
+|-------|---------|
+| H1 | RECOPILACIÓN DE MENSAJES A LAS MUJERES |
 
 ## Secciones incluidas

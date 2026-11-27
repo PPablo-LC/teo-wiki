@@ -112,6 +112,16 @@ crecer en ti el afecto a Cristo, sentirías tu vida transformarse» (01, 375).
 **La primera objeción.** «Estimamos existencialmente más algo que no es Cristo» (01,
 363-375).
 
+### Según *Life of Christ* (LCh, cap. 3)
+
+Sheen ordena las tentaciones del desierto en torno a la Cruz: «The temptations were meant to divert Our Lord from His task of salvation through sacrifice» (cap. 3), y las reduce a tres **atajos de popularidad**: el económico (convertir piedras en pan), el del prodigio (arrojarse del pináculo) y el político (recibir los reinos a cambio de adoración). Cada uno ataca un aspecto de la misión mesiánica, no un apetito desordenado: la tentación de Cristo «came only from without, and not from within», y por eso no supone en Él concupiscencia alguna. La ley general que extrae: «no one shall be crowned unless he has first struggled»; la tentación revela y acrecienta la virtud, y «'Tis one thing to be tempted, another thing to fall» (citando *Measure for Measure*).
+
+Su visión del tentador es netamente metafísica: «The essence of God is existence … The essence of the devil is the lie, and he defines himself as: “I am who am not”», con la consecuencia pastoral de que «Satan has very little trouble with those who do not believe in him; they are already on his side». Distingue también tres categorías y tres edades: carne (lujuria y gula) en la juventud, mente (soberbia y envidia) en la madurez, cosas (avaricia) en la vejez.
+
+- Primera tentación: «You want Me to be a baker, instead of a Savior; to be a social reformer, instead of a Redeemer»; «I reject any plan which promises to make men richer without making them holier».
+- Segunda: «faith in God must never contradict reason»; el único signo será «the sign of someone rising up from below»; «I never worked any miracles to save Myself!».
+- Tercera: adorar es servir, de modo que «He could have the earth, provided He promised not to change it»; «All I now want of this earth is a place large enough to erect a Cross».
+
 ## Distinciones importantes
 
 Dios no tienta al mal (St 1,13); permite la tentación para mayor bien del alma. La tentación diabólica suele ser repentina, violenta y tenaz. La resistencia indirecta (distraer la mente) es especialmente recomendada en tentaciones contra la fe o la castidad.

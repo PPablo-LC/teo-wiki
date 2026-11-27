@@ -101,6 +101,18 @@ Juan Pablo II examina las causas históricas de la muerte de Cristo: la envidia,
 
 **El Cristo cazado (Faulkner).** «La cacería de Dios» culminó cuando lo divino apareció en carne humana y fue perseguido y matado por el poder del pecado: Cristo crucificado y cazado revela cómo responde el ego pecaminoso ante lo sagrado.
 
+### Según *Life of Christ* (LCh, caps. 41-45)
+
+Sheen ordena la Pasión como una **Hora** que el mal tiene concedida y no como un accidente: los que lo prenden han salido «contra un ladrón» y su hora es «la hora del poder de las tinieblas» (Lc 22,53), pero el permiso está medido por Dios (cap. 42). De ahí el tono de sus páginas: Cristo no es sorprendido, «went forth in self-surrender» (cap. 42); la cohorte cae por tierra al oír el «Yo soy» y sólo después lo prenden.
+
+En Getsemaní el libro subraya dos datos que otros autores dejan en penumbra. El primero es el **objeto** de la agonía: Cristo no teme tanto el dolor físico cuanto el pecado que carga —los pecados del pasado y del futuro, la iniquidad del mundo entero—, y por eso su tristeza es desproporcionada a la Pasión considerada sólo como sufrimiento (cap. 41). El segundo es la **oración**: el «pase de mí este cáliz» no es un forcejeo de dos voluntades, sino la sumisión de la voluntad humana a la divina en una sola Persona; Sheen describe el sudor de sangre como el primer Rosario, la primera repetición de la misma petición.
+
+La estructura de los juicios sigue en LCh un criterio teológico y no meramente jurídico: el proceso religioso es **ilegal** —de noche, con testigos falsos y con la sentencia decidida de antemano— y el civil es **cobarde**, con un Pilato que tres veces proclama la inocencia y tres veces cede (caps. 43 y 45). En medio, las negaciones de Pedro muestran el reverso humano de la Pasión: el discípulo que prometió morir y no puede confesar a una criada, hasta que la mirada del Señor —que no reprocha— lo convierte (cap. 44).
+
+- **Voluntariedad**: la Pasión es obediencia, no fatalidad; el poder de dar su vida y de recobrarla lo tiene Él mismo (Jn 10,18).
+- **Universalidad de la culpa**: judíos y gentiles concurren en la condena —«se aliaron Herodes y Pilato» (Lc 23,12)— y en esa alianza Sheen ve la reconciliación del mundo en la Cruz (cap. 45).
+- **El juicio del mundo**: sobre la Cruz el príncipe de este mundo es expulsado (Jn 12,31), de modo que la Pasión es a la vez condena y salvación (cap. 34).
+
 ## Distinciones importantes
 
 - La Pasión no fue una fatalidad sino una entrega voluntaria

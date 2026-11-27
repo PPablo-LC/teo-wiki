@@ -53,4 +53,4 @@ Ambas propuestas comparten la misma duración (8:00 a 12:20 hs.) y culminan en l
 
 ## Secciones incluidas
 
-- Presentación general del documento (líneas 1–17)
+- Presentación general del documento

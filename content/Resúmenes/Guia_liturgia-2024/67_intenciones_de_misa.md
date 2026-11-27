@@ -21,6 +21,6 @@ Este archivo contiene únicamente la primera parte del encabezado del Apéndice 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | intenciones de misa |
+| Nivel | Sección |
+|-------|---------|
+| H1 | intenciones de misa |

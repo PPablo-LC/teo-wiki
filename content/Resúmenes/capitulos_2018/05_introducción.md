@@ -38,6 +38,6 @@ La Comunicación se emite al término de la primera sesión del Capítulo Genera
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Introducción |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Introducción |

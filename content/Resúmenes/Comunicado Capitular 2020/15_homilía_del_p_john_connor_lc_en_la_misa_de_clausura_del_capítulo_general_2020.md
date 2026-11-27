@@ -43,6 +43,6 @@ Concluye deseando que el Señor, que comenzó en ellos la obra buena, la lleve a
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Homilía del P. John Connor, L.C., en la misa de clausura del Capítulo General |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Homilía del P. John Connor, L.C., en la misa de clausura del Capítulo General |

@@ -67,6 +67,6 @@ Hoopes comenzó diciendo que no le teme a la inteligencia artificial, y realment
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Peripheries: A Brief History of Fear: And a Look Ahead at Fears to Com |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Peripheries: A Brief History of Fear: And a Look Ahead at Fears to Com |

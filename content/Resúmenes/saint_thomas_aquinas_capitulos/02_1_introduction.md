@@ -39,6 +39,6 @@ Para Tomás la teología es propiamente **sabiduría**: la del sabio que ordena 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. Introduction |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. Introduction |

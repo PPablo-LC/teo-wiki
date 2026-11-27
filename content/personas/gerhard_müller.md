@@ -53,7 +53,6 @@ como médico?
 
 ## Referencias
 
-- **Fuente**: [[priests_what_lies_ahead]] (PWL), `02_foreword.md`
-  (líneas 1-15).
+- **Fuente**: [[priests_what_lies_ahead]] (PWL), `02_foreword.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

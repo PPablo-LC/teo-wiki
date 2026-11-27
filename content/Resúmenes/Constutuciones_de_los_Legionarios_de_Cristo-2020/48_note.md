@@ -24,6 +24,6 @@ Archivo vacío que contiene únicamente el encabezado «## Note». No presenta c
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Note |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Note |

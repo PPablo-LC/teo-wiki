@@ -29,8 +29,8 @@ Sobre la base de su igual dignidad con el hombre, «las mujeres tienen pleno der
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | La mujer en la vida pública |
+| Nivel | Sección |
+|-------|---------|
+| H2 | La mujer en la vida pública |
 
 ## Secciones incluidas

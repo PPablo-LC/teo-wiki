@@ -106,8 +106,8 @@ La providencia es la idea de Dios que ordena todo a un fin, el bien divino; su f
 
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
-- **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — dentro de la belleza del cosmos hay «un signo aún más claramente elocuente, una palabra más cercana: el moto del cosmos, ese orden que nos da el día y la noche, los ciclos de las estaciones, los ritmos de la naturaleza que nos aseguran las siembras y las cosechas»; «esta es la presencia más sentida: es la primera revelación de la Providencia, como estable significado y utilidad de las cosas» (L45-47).
-- **Parte seconda** — la prueba que Pablo lleva a los paganos de Listra (At 14,15-17: «no se dejó a sí mismo sin testimonio, otorgando lluvias del cielo y estaciones fructíferas») y el eco de la promesa a Noé (Gn 8,21-22: «mientras la tierra exista, la sementera y la cosecha, el frío y el calor, el verano y el invierno, la noche y el día no cesarán»); y no solo el movimiento de la naturaleza sino el de los hombres y los pueblos (At 17,26-28): «Él no está lejos de cada uno de nosotros, pues en Él tenemos la vida, el movimiento y el ser» (L49-53).
+- **Parte seconda (archivo `02_parte_seconda_conoscenza_e_mistero.md`)** — dentro de la belleza del cosmos hay «un signo aún más claramente elocuente, una palabra más cercana: el moto del cosmos, ese orden que nos da el día y la noche, los ciclos de las estaciones, los ritmos de la naturaleza que nos aseguran las siembras y las cosechas»; «esta es la presencia más sentida: es la primera revelación de la Providencia, como estable significado y utilidad de las cosas».
+- **Parte seconda** — la prueba que Pablo lleva a los paganos de Listra (At 14,15-17: «no se dejó a sí mismo sin testimonio, otorgando lluvias del cielo y estaciones fructíferas») y el eco de la promesa a Noé (Gn 8,21-22: «mientras la tierra exista, la sementera y la cosecha, el frío y el calor, el verano y el invierno, la noche y el día no cesarán»); y no solo el movimiento de la naturaleza sino el de los hombres y los pueblos (At 17,26-28): «Él no está lejos de cada uno de nosotros, pues en Él tenemos la vida, el movimiento y el ser».
 ### Robert Barron, *2 Samuel* (Brazos, 2015)
 
 Barron presenta la providencia divina como un tema central y sofisticado en su comentario a 2 Samuel. Su contribución clave es la forma en que Dios obra a través de la libertad humana y la moralidad, no de manera determinista o coercitiva. Puntos esenciales:
@@ -162,9 +162,9 @@ La aplicación espiritual es la de Jean-Pierre de Caussade: todo lo que nos ocur
 
 ### Según Fulton J. Sheen — *The Cries of Jesus from the Cross* (CJC)
 
-Sheen aborda la providencia desde la Sexta Palabra, «It is finished» (Jn 19,30), ante el escándalo del sufrimiento inmerecido. La pregunta por el plan del universo solo recibe respuesta porque la Bondad misma entró libremente en el dolor: si el Mejor desciende a lo peor y lo encaja en su propósito, ningún sufrimiento queda fuera de sentido (CJC, cap. 45, L3-11). Cristo no cayó en la Cruz por accidente; la buscó con conocimiento y libertad, y por eso su consumación puede leerse como revelación de un universo planeado, no caótico (cap. 45, L13-31).
+Sheen aborda la providencia desde la Sexta Palabra, «It is finished» (Jn 19,30), ante el escándalo del sufrimiento inmerecido. La pregunta por el plan del universo solo recibe respuesta porque la Bondad misma entró libremente en el dolor: si el Mejor desciende a lo peor y lo encaja en su propósito, ningún sufrimiento queda fuera de sentido (CJC, cap. 45). Cristo no cayó en la Cruz por accidente; la buscó con conocimiento y libertad, y por eso su consumación puede leerse como revelación de un universo planeado, no caótico (cap. 45).
 
-La providencia, sin embargo, no suprime la cooperación humana. La obra de la redención está terminada por Cristo, pero la aplicación a cada vida no: «our masterpiece — a happy death — must be prepared for by practice» (cap. 45, L67). El plan de Dios incluye la cruz diaria, la hora de la mortificación y la confianza que permanece cuando no hay pruebas visibles (caps. 45 y 49).
+La providencia, sin embargo, no suprime la cooperación humana. La obra de la redención está terminada por Cristo, pero la aplicación a cada vida no: «our masterpiece — a happy death — must be prepared for by practice» (cap. 45). El plan de Dios incluye la cruz diaria, la hora de la mortificación y la confianza que permanece cuando no hay pruebas visibles (caps. 45 y 49).
 
 ## Distinciones importantes
 

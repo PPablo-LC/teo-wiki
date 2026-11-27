@@ -115,12 +115,12 @@ Marcador del capítulo siguiente: **Dirección espiritual de los adolescentes**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EDUCACIÓN PARA LA VIDA SOBRENATURAL |
-| 5 | H3 | Relaciones entre la educación natural y la sobrenatural |
-| 20 | H3 | Educar para la vida |
-| 31 | H3 | Educar para el amor de Cristo |
-| 57 | H3 | El arte de orar bien |
-| 125 | H3 | Las lecturas y la lectura espiritual |
-| 131 | H3 | Capítulo 10º |
+| Nivel | Sección |
+|-------|---------|
+| H1 | EDUCACIÓN PARA LA VIDA SOBRENATURAL |
+| H3 | Relaciones entre la educación natural y la sobrenatural |
+| H3 | Educar para la vida |
+| H3 | Educar para el amor de Cristo |
+| H3 | El arte de orar bien |
+| H3 | Las lecturas y la lectura espiritual |
+| H3 | Capítulo 10º |

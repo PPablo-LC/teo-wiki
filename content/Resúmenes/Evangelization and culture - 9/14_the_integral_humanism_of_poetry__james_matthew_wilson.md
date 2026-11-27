@@ -27,9 +27,9 @@ tags: ["resumen", "evangelization and culture - 9"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Integral Humanism of Poetry — James Matthew Wilson |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Integral Humanism of Poetry — James Matthew Wilson |
 
 ## Secciones incluidas
 

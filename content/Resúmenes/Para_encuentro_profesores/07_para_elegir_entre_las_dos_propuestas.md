@@ -39,5 +39,5 @@ La [[misa]] no es el "final" de la jornada sino su punto culminante. En ella, lo
 
 ## Secciones incluidas
 
-- Cuadro comparativo entre las dos propuestas (líneas 162–171)
-- Nota sobre la Santa Misa (líneas 173–175)
+- Cuadro comparativo entre las dos propuestas
+- Nota sobre la Santa Misa

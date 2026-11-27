@@ -69,6 +69,6 @@ tags: ["resumen", "capitulos 2018"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 2) Búsqueda de una configuración canónica del Regnum Christi |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 2) Búsqueda de una configuración canónica del Regnum Christi |

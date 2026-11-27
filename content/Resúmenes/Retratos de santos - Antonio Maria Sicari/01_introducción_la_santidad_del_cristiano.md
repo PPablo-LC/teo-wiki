@@ -27,7 +27,7 @@ tags: ["resumen", "santidad", "vocación", "gracia", "eclesiología"]
 - [[edificación_de_la_iglesia]] — «no hay ningún santo cuya santidad no se identifique con un mínimo al servicio del cuerpo».
 - [[santidad_de_la_iglesia]] — la Iglesia como «templo santo» (1 Co 3,17; Ef 2,21) y la vida entera como ofrenda.
 
-## A modo de prólogo (L1-7)
+## A modo de prólogo
 
 La reflexión sobre la santidad del cristiano no puede más que ser una conclusión: exige haber meditado antes sobre la santidad de Dios, el «Enteramente Otro» que, por misericordia, toma la decisión de comunicarse con el pueblo que ha elegido y se convierte así en el «Santo de Israel» (Is 10,20). Exige además la «viva y apasionada Memoria» del «Santo siervo Jesús» (Hch 4,27-30), que vino a «santificarse y santificarnos» (Jn 17,19), y la mención del Espíritu Santo, que sella al hombre para el día de la redención y no quiere ser entristecido (Ef 4,30).
 
@@ -97,10 +97,10 @@ Como conclusión global, hay que recordar un sentido profundo y propio del térm
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Introducción. La santidad del cristiano |
-| 9 | H2 | 1. Tener conciencia de ser santo |
-| 27 | H2 | 2. «Santos por vocación» |
-| 47 | H2 | 3. Santidad como don y como riqueza |
-| 75 | H2 | 4. Santidad como tarea |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Introducción. La santidad del cristiano |
+| H2 | 1. Tener conciencia de ser santo |
+| H2 | 2. «Santos por vocación» |
+| H2 | 3. Santidad como don y como riqueza |
+| H2 | 4. Santidad como tarea |

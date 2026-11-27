@@ -33,6 +33,6 @@ tags: ["resumen", "jesus de nazaret i"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PRÓLOGO Este libro sobre Jesús, cuya primera parte se publica ahora, e |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PRÓLOGO Este libro sobre Jesús, cuya primera parte se publica ahora, e |

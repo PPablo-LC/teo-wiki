@@ -49,12 +49,12 @@ Se presenta una tabla comparativa que muestra la correspondencia entre los artí
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Apéndice |
-| 5 | H2 | Respuesta de la Santa Sede |
-| 15 | H2 | La aprobación "ad experimentum" por el papa Francisco |
-| 25 | H2 | Tabla de equivalencia de artículos entre los documentos |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Apéndice |
+| H2 | Respuesta de la Santa Sede |
+| H2 | La aprobación "ad experimentum" por el papa Francisco |
+| H2 | Tabla de equivalencia de artículos entre los documentos |
 
 
 ## Secciones incluidas

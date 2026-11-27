@@ -34,9 +34,9 @@ Capítulo extraído de *And Now I See*. **El Misterio innombrable.** Hay una rea
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | No Grasping, No Hiding: Bishop Barron on William Faulkner |
+| Nivel | Sección |
+|-------|---------|
+| H1 | No Grasping, No Hiding: Bishop Barron on William Faulkner |
 
 ## Secciones incluidas
 

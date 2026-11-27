@@ -223,23 +223,23 @@ Rosa inmaculada que desplegaba belleza en amanecer de primavera... Poema de J. y
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO IV — EN EL FONDO DEL ABISMO |
-| 18 | H2 | I.—Rosal tronchado |
-| 36 | H2 | II.—«¿Sólo una vez?» |
-| 52 | H2 | III.—Plantas voraces. |
-| 82 | H2 | IV.—«Descensus averni.» |
-| 118 | H2 | V.—Las muchachas «avanzadas». |
-| 156 | H2 | VI.—¿Es esto la alegría? ¿Es esto la felicidad? |
-| 170 | H2 | VII.—Rosal comido por los gusanos. |
-| 186 | H2 | VIII.—Castigo físico |
-| 204 | H2 | IX.—¿Qué es la hormona? |
-| 232 | H2 | X.—Pudrirse viva |
-| 313 | H2 | XI.—Responsabilidad tremenda |
-| 327 | H2 | XII.—Tus pobres hijos |
-| 351 | H2 | XIII.—Esperanzas y... desalientos |
-| 468 | H2 | XIV.—«¿Quién te llevó de la rama?...» |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CAPÍTULO IV — EN EL FONDO DEL ABISMO |
+| H2 | I.—Rosal tronchado |
+| H2 | II.—«¿Sólo una vez?» |
+| H2 | III.—Plantas voraces. |
+| H2 | IV.—«Descensus averni.» |
+| H2 | V.—Las muchachas «avanzadas». |
+| H2 | VI.—¿Es esto la alegría? ¿Es esto la felicidad? |
+| H2 | VII.—Rosal comido por los gusanos. |
+| H2 | VIII.—Castigo físico |
+| H2 | IX.—¿Qué es la hormona? |
+| H2 | X.—Pudrirse viva |
+| H2 | XI.—Responsabilidad tremenda |
+| H2 | XII.—Tus pobres hijos |
+| H2 | XIII.—Esperanzas y... desalientos |
+| H2 | XIV.—«¿Quién te llevó de la rama?...» |
 
 ## Secciones incluidas
 

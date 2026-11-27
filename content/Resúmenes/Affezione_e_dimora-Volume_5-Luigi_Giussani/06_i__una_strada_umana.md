@@ -22,6 +22,6 @@ El archivo es el rótulo de apertura de la **Parte I** de la obra, titulada *Una
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | **I** - **UNA STRADA UMANA** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | **I** - **UNA STRADA UMANA** |

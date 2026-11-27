@@ -34,6 +34,6 @@ El texto constitucional contiene los principios necesarios para que se viva, cus
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Versión del año 2020 |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Versión del año 2020 |

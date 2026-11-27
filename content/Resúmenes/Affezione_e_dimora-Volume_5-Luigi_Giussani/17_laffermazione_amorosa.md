@@ -85,18 +85,18 @@ Una joven reconoce: «io so che sono fatta per la fedeltà, che la definizione d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | L’AFFERMAZIONE AMOROSA |
-| 81 | Blockquote | La scelta positiva è la scelta amorosa |
-| 89 | Blockquote | La soluzione negativa è un rinnegamento |
-| 99 | Blockquote | La natura del cuore è simpatía alla vita |
-| 113 | Blockquote | Distrazione e connivenza |
-| 133 | Blockquote | «Liberaci dal male» |
-| 143 | Blockquote | Un'immagine drammatica della vita |
-| 151 | Blockquote | La tentazione di ciò che è ostile all'essere |
-| 187 | Blockquote | La divergenza tra paura dell'ingiusto e letizia |
-| 213 | Blockquote | È questione di abbracciare altro da sé |
-| 223 | Blockquote | La persuasione |
-| 239 | Blockquote | Ripresa del tema della positività |
-| 267 | Blockquote | Fedeltà, dinamismo dell'obbedienza |
+| Nivel | Sección |
+|-------|---------|
+| H1 | L’AFFERMAZIONE AMOROSA |
+| Blockquote | La scelta positiva è la scelta amorosa |
+| Blockquote | La soluzione negativa è un rinnegamento |
+| Blockquote | La natura del cuore è simpatía alla vita |
+| Blockquote | Distrazione e connivenza |
+| Blockquote | «Liberaci dal male» |
+| Blockquote | Un'immagine drammatica della vita |
+| Blockquote | La tentazione di ciò che è ostile all'essere |
+| Blockquote | La divergenza tra paura dell'ingiusto e letizia |
+| Blockquote | È questione di abbracciare altro da sé |
+| Blockquote | La persuasione |
+| Blockquote | Ripresa del tema della positività |
+| Blockquote | Fedeltà, dinamismo dell'obbedienza |

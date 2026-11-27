@@ -23,6 +23,6 @@ Este archivo es únicamente el encabezado de la sección (H1) del comunicado sob
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | COMUNICADO SOBRE NUESTRA RENOVACIÓN APOSTÓLICA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | COMUNICADO SOBRE NUESTRA RENOVACIÓN APOSTÓLICA |

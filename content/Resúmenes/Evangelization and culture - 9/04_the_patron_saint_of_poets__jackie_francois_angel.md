@@ -33,9 +33,9 @@ Fundó además el monasterio doble de hombres y mujeres en Kildare, donde sirvi�
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Patrón Saint of Poets — Jackie Francois Ángel |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Patrón Saint of Poets — Jackie Francois Ángel |
 
 ## Secciones incluidas
 

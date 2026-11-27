@@ -41,9 +41,9 @@ Cita central de *Ortodoxia*: «Una característica de los grandes santos es su p
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Taking Ourselves Lightly — Elizabeth Scalia |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Taking Ourselves Lightly — Elizabeth Scalia |
 
 ## Secciones incluidas
 

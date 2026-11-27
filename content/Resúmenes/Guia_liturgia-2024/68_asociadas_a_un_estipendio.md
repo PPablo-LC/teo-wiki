@@ -23,6 +23,6 @@ Este archivo completa el encabezado del Apéndice de la Guía («Intenciones de 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | asociadas a un estipendio |
+| Nivel | Sección |
+|-------|---------|
+| H1 | asociadas a un estipendio |

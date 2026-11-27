@@ -97,18 +97,18 @@ Dios debía "tener prisa" en el amor» (cf. [[pedagogía_divina]]).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | VII. MORIR INOCENTE |
-| 3-15 | — | Los Santos Inocentes; el «Misterio» de Péguy |
-| 17 | H2 | Santa Rosa de Viterbo (1233-1251) |
-| 37 | H2 | Santa Kateri Tekakwitha (1656-1680) |
-| 45 | H2 | Santo Domingo Savio (1842-1857) |
-| 91 | H2 | Santa María Goretti (1890-1902) |
-| 105 | H2 | Beata Laura Vicuña (1891-1904) |
-| 131 | H2 | Beato Francisco Marto (1908-1919) |
-| 169 | H2 | Beata Jacinta Marto (1910-1920) |
-| 251 | H2 | Venerable Antonieta Meo (1930-1937) |
-| 277 | H2 | Venerable Mari Carmen González-Valerio (1930-1939) |
-| 315 | H2 | Beata Chiara Luce Badano (1971-1990) |
-| 357 | — | Conclusión: la pedagogía divina con los jóvenes santos |
+| Nivel | Sección |
+|-------|---------|
+| H1 | VII. MORIR INOCENTE |
+| — | Los Santos Inocentes; el «Misterio» de Péguy |
+| H2 | Santa Rosa de Viterbo (1233-1251) |
+| H2 | Santa Kateri Tekakwitha (1656-1680) |
+| H2 | Santo Domingo Savio (1842-1857) |
+| H2 | Santa María Goretti (1890-1902) |
+| H2 | Beata Laura Vicuña (1891-1904) |
+| H2 | Beato Francisco Marto (1908-1919) |
+| H2 | Beata Jacinta Marto (1910-1920) |
+| H2 | Venerable Antonieta Meo (1930-1937) |
+| H2 | Venerable Mari Carmen González-Valerio (1930-1939) |
+| H2 | Beata Chiara Luce Badano (1971-1990) |
+| — | Conclusión: la pedagogía divina con los jóvenes santos |

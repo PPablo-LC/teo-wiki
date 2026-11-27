@@ -44,4 +44,4 @@ Introducción editorial al tema "Childhood" (Summer 2022) que presenta la **poli
 
 ## Referencia original
 
-📄 Fuente original: `14_features_intro.md` (línea 1–27)
+📄 Fuente original: `14_features_intro.md`

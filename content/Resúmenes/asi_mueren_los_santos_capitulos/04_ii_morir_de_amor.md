@@ -88,20 +88,20 @@ de las virtudes"»:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | II. MORIR DE AMOR |
-| 1-15 | — | Virgenes enamoradas; todo bautizado pertenece a Cristo Esposo |
-| 16-30 | H2 | San Francisco de Asís |
-| 31-50 | H2 | San Juan de la Cruz |
-| 51-60 | H2 | «En defensa del corazón» |
-| 61-70 | H2 | Santa Teresa Margarita Redi |
-| 71-90 | H2 | Santa María de Jesús Crucificado |
-| 91-130 | H2 | Santa Teresa de Lisieux |
-| 131-155 | H2 | Santa Isabel de la Trinidad |
-| 156-180 | H2 | Santa Teresa de los Andes |
-| 181-200 | H2 | Beata María Cándida de la Eucaristía |
-| 201-220 | H2 | Santa Rita de Casia |
-| 221-240 | H2 | Santa Josefina Bakhita |
-| 241-260 | H2 | Santa María Bertilla Boscardin |
-| 261-290 | H2 | Santa Faustina Kowalska |
+| Nivel | Sección |
+|-------|---------|
+| H1 | II. MORIR DE AMOR |
+| — | Virgenes enamoradas; todo bautizado pertenece a Cristo Esposo |
+| H2 | San Francisco de Asís |
+| H2 | San Juan de la Cruz |
+| H2 | «En defensa del corazón» |
+| H2 | Santa Teresa Margarita Redi |
+| H2 | Santa María de Jesús Crucificado |
+| H2 | Santa Teresa de Lisieux |
+| H2 | Santa Isabel de la Trinidad |
+| H2 | Santa Teresa de los Andes |
+| H2 | Beata María Cándida de la Eucaristía |
+| H2 | Santa Rita de Casia |
+| H2 | Santa Josefina Bakhita |
+| H2 | Santa María Bertilla Boscardin |
+| H2 | Santa Faustina Kowalska |

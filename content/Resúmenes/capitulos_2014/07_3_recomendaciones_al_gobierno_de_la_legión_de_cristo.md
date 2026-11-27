@@ -41,6 +41,6 @@ Se pide también a todos los legionarios de Cristo que, a la luz de Dios, profun
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 3) Recomendaciones al gobierno de la Legión de Cristo |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 3) Recomendaciones al gobierno de la Legión de Cristo |

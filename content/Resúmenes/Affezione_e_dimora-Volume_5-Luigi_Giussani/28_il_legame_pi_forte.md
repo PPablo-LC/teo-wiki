@@ -77,17 +77,17 @@ Giussani afirma que la unidad de una compañía como la suya es el mayor milagro
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | IL LEGAME PIÙ FORTE |
-| 35 | Blockquote | Al di là delle preferenze |
-| 77 | Blockquote | Un motivo di rapporto che attraversa ogni situazione |
-| 107 | Blockquote | Ciò che ci lega |
-| 129 | Blockquote | Membra l'uno dell'altro |
-| 169 | Blockquote | Il Mistero coincide col segno |
-| 175 | Blockquote | La liturgia, símbolo del lavoro |
-| 185 | Blockquote | Ripugnante al concetto moderno di ragione |
-| 191 | Blockquote | L'unico preconcetto che non limita il giudizio |
+| Nivel | Sección |
+|-------|---------|
+| H1 | IL LEGAME PIÙ FORTE |
+| Blockquote | Al di là delle preferenze |
+| Blockquote | Un motivo di rapporto che attraversa ogni situazione |
+| Blockquote | Ciò che ci lega |
+| Blockquote | Membra l'uno dell'altro |
+| Blockquote | Il Mistero coincide col segno |
+| Blockquote | La liturgia, símbolo del lavoro |
+| Blockquote | Ripugnante al concetto moderno di ragione |
+| Blockquote | L'unico preconcetto che non limita il giudizio |
 
 ## Secciones incluidas
 

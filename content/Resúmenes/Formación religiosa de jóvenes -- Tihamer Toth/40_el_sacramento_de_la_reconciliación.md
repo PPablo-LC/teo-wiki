@@ -41,7 +41,7 @@ La máxima realización de la existencia cristiana como un vivir trinitario de "
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EL SACRAMENTO DE LA RECONCILIACIÓN |
-| 7 | H2 | MARÍA, DISCÍPULA Y MISIONERA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | EL SACRAMENTO DE LA RECONCILIACIÓN |
+| H2 | MARÍA, DISCÍPULA Y MISIONERA |

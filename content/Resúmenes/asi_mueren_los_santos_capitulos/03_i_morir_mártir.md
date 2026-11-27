@@ -83,18 +83,18 @@ escondido en el "no" que él dice a los violentos de este mundo» (cf.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | I. MORIR MÁRTIR |
-| 1-34 | — | Praeparatio martyrii; condiciones del martirio |
-| 35-55 | H2 | Santo Tomás Becket |
-| 56-78 | H2 | Santo Tomás Moro |
-| 79-100 | H2 | Carmelitas de Compiègne |
-| 101-124 | H2 | Beato Miguel Agustín Pro |
-| 125-149 | H2 | Beato Vladimir Ghika |
-| 150-176 | H2 | San Maximiliano Kolbe |
-| 177-200 | H2 | Beato Franz Jägerstätter |
-| 201-230 | H2 | Beato Tito Brandsma |
-| 231-260 | H2 | San Oscar Romero |
-| 261-272 | H2 | Beato Pino Puglisi |
-| 273-279 | — | Y tantos otros mártires cotidianos |
+| Nivel | Sección |
+|-------|---------|
+| H1 | I. MORIR MÁRTIR |
+| — | Praeparatio martyrii; condiciones del martirio |
+| H2 | Santo Tomás Becket |
+| H2 | Santo Tomás Moro |
+| H2 | Carmelitas de Compiègne |
+| H2 | Beato Miguel Agustín Pro |
+| H2 | Beato Vladimir Ghika |
+| H2 | San Maximiliano Kolbe |
+| H2 | Beato Franz Jägerstätter |
+| H2 | Beato Tito Brandsma |
+| H2 | San Oscar Romero |
+| H2 | Beato Pino Puglisi |
+| — | Y tantos otros mártires cotidianos |

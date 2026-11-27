@@ -83,8 +83,7 @@ sistemática.
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `03_la_ragione_della_carita.md` (líneas 7, 43, 61-67),
-  `04_vivere_nella_gratuita.md` (línea 19), `05_un_esperienza_nuova_dell_umano.md`
-  (líneas 27-29) y `10_la_persona_soggetto_del_rapporto.md` (líneas 11-21).
+  `03_la_ragione_della_carita.md`,
+  `04_vivere_nella_gratuita.md`, `05_un_esperienza_nuova_dell_umano.md` y `10_la_persona_soggetto_del_rapporto.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

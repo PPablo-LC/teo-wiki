@@ -37,7 +37,7 @@ Marcador del capítulo siguiente: **Dirección espiritual de los estudiantes uni
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EDUCACIÓN EN INTERNADO |
-| 44 | H3 | Capítulo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | EDUCACIÓN EN INTERNADO |
+| H3 | Capítulo |

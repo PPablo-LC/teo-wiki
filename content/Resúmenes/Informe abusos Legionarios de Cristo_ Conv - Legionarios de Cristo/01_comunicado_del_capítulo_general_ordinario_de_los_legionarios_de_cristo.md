@@ -72,4 +72,4 @@ tags: ["resumen", "espiritualidad_legionaria", "capítulo_general_2020", "comuni
 
 ## Referencia original
 
-📄 Fuente original: `01_01_comunicado_capitulo.md` (línea 1–97)
+📄 Fuente original: `01_01_comunicado_capitulo.md`

@@ -86,8 +86,6 @@ propaganda» del movimiento (06).
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `00_preliminares.md` (líneas 9-11), `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md`
-  (líneas 31-53) y `12_storia_di_un_opera_famiglie_per_l_accoglienza.md`
-  (líneas 13, 37, 91, 115-119).
+  `00_preliminares.md`, `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md` y `12_storia_di_un_opera_famiglie_per_l_accoglienza.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

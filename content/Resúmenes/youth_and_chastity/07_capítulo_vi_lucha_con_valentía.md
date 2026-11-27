@@ -151,36 +151,36 @@ Y si todo lo que has leído no ha agarrado tu alma con la fuerza suficiente para
 
 ## Mapa del archivo fuente
 
-| Archivo | Línea | Nivel | Sección |
-|---------|-------|-------|---------|
-| 07_capitulo_vi.md | 1 | H1 | Chapter VI — Fight Bravely On and Build on Iron Faith |
-| 07_capitulo_vi.md | 13 | H2 | Pure Life! Pure Soul! |
-| 07_capitulo_vi.md | 23 | H2 | Where Your Responsibility Begins |
-| 07_capitulo_vi.md | 37 | H2 | Consent and Non-Consent to Sin |
-| 07_capitulo_vi.md | 51 | H2 | The Bacilli of (Immoralidad) |
-| 07_capitulo_vi.md | 69 | H2 | What You Read |
-| 07_capitulo_vi.md | 81 | H2 | Your Books |
-| 07_capitulo_vi.md | 107 | H2 | Newspapers |
-| 07_capitulo_vi.md | 115 | H2 | Art |
-| 07_capitulo_vi.md | 133 | H2 | Playhouses, Cinemas |
-| 07_capitulo_vi.md | 171 | H2 | Dancing |
-| 07_capitulo_vi.md | 193 | H2 | Be Chivalrous |
-| 07_capitulo_vi.md | 205 | H2 | Among Women |
-| 07_capitulo_vi.md | 213 | H2 | Your Future Betrothed |
-| 07_capitulo_vi.md | 231 | H2 | Be Particular About Personal Cleanliness |
-| 07_capitulo_vi.md | 239 | H2 | "Die and Rise." |
-| 07_capitulo_vi.md | 257 | H2 | Spiritual Rickets |
-| 07_capitulo_vi.md | 279 | H2 | Strengthen Your Will |
-| 07_capitulo_vi.md | 305 | H2 | The Joys of Victory |
-| 07_capitulo_vi.md | 317 | H2 | In the World, But Not of the World |
-| 07_capitulo_vi.md | 327 | H2 | Nothing But the Truth |
-| 07_capitulo_vi.md | 331 | H2 | Sports and Physical Culture |
-| 07_capitulo_vi.md | 339 | H2 | Endure Suffering |
-| 07_capitulo_vi.md | 343 | H2 | The Healthy Mode of Life |
-| 07_capitulo_vi.md | 373 | H2 | Never Be Idle |
-| 07_capitulo_vi.md | 413 | — | LOVE NATURE (rótulo en línea, perdido como H2 por el OCR) |
-| 07_capitulo_vi.md | 477 | — | The Ten Commandments of Marriage (rótulo en línea) |
-| 07_capitulo_vi.md | 499 | H2 | A Fatherly Friend |
-| 07_capitulo_vi.md | 509 | H2 | At the Sources of New Life |
-| 07_capitulo_vi.md | 521 | H2 | The Lord is with Me |
-| 07_capitulo_vi.md | 557 | H2 | And After That What? |
+| Archivo | Nivel | Sección |
+|---------|-------|---------|
+| 07_capitulo_vi.md | H1 | Chapter VI — Fight Bravely On and Build on Iron Faith |
+| 07_capitulo_vi.md | H2 | Pure Life! Pure Soul! |
+| 07_capitulo_vi.md | H2 | Where Your Responsibility Begins |
+| 07_capitulo_vi.md | H2 | Consent and Non-Consent to Sin |
+| 07_capitulo_vi.md | H2 | The Bacilli of (Immoralidad) |
+| 07_capitulo_vi.md | H2 | What You Read |
+| 07_capitulo_vi.md | H2 | Your Books |
+| 07_capitulo_vi.md | H2 | Newspapers |
+| 07_capitulo_vi.md | H2 | Art |
+| 07_capitulo_vi.md | H2 | Playhouses, Cinemas |
+| 07_capitulo_vi.md | H2 | Dancing |
+| 07_capitulo_vi.md | H2 | Be Chivalrous |
+| 07_capitulo_vi.md | H2 | Among Women |
+| 07_capitulo_vi.md | H2 | Your Future Betrothed |
+| 07_capitulo_vi.md | H2 | Be Particular About Personal Cleanliness |
+| 07_capitulo_vi.md | H2 | "Die and Rise." |
+| 07_capitulo_vi.md | H2 | Spiritual Rickets |
+| 07_capitulo_vi.md | H2 | Strengthen Your Will |
+| 07_capitulo_vi.md | H2 | The Joys of Victory |
+| 07_capitulo_vi.md | H2 | In the World, But Not of the World |
+| 07_capitulo_vi.md | H2 | Nothing But the Truth |
+| 07_capitulo_vi.md | H2 | Sports and Physical Culture |
+| 07_capitulo_vi.md | H2 | Endure Suffering |
+| 07_capitulo_vi.md | H2 | The Healthy Mode of Life |
+| 07_capitulo_vi.md | H2 | Never Be Idle |
+| 07_capitulo_vi.md | — | LOVE NATURE (rótulo en línea, perdido como H2 por el OCR) |
+| 07_capitulo_vi.md | — | The Ten Commandments of Marriage (rótulo en línea) |
+| 07_capitulo_vi.md | H2 | A Fatherly Friend |
+| 07_capitulo_vi.md | H2 | At the Sources of New Life |
+| 07_capitulo_vi.md | H2 | The Lord is with Me |
+| 07_capitulo_vi.md | H2 | And After That What? |

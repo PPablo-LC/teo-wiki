@@ -23,7 +23,7 @@ Jesús promete a la Samaritana «agua viva» que salta hasta la vida eterna (Jn 
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Giussani lee la petición de la samaritana como la reacción de quien, ante la Presencia, no puede dejar de pedir: «chi, Lo intercetta nell'arena della vita, in mezzo alla valanga dei condizionamenti, non può trattenersi dal chiedere, come la samaritana al pozzo, tutta assettata di una vita che i suoi tentativi non erano stati in grado di soddisfare: "Dammi quest'acqua"». El agua viva es así la vida que sacia de raíz una «sete spropositata» que los propios intentos del hombre nunca pudieron apagar: la «unica acqua in grado di soddisfare la sua sete» (TACDC, 01, L29).
+Giussani lee la petición de la samaritana como la reacción de quien, ante la Presencia, no puede dejar de pedir: «chi, Lo intercetta nell'arena della vita, in mezzo alla valanga dei condizionamenti, non può trattenersi dal chiedere, come la samaritana al pozzo, tutta assettata di una vita che i suoi tentativi non erano stati in grado di soddisfare: "Dammi quest'acqua"». El agua viva es así la vida que sacia de raíz una «sete spropositata» que los propios intentos del hombre nunca pudieron apagar: la «unica acqua in grado di soddisfare la sua sete» (TACDC, 01).
 
 ### Según Benedicto XVI (JdN_I)
 

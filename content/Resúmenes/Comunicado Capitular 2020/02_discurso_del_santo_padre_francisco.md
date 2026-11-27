@@ -20,6 +20,6 @@ Encabezado de sección «Discurso del Santo Padre Francisco», que corresponde a
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Discurso del Santo Padre Francisco |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Discurso del Santo Padre Francisco |

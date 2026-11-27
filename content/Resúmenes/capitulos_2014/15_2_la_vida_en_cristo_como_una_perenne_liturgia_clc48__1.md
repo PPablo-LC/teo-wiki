@@ -32,6 +32,6 @@ Sección 2 del comunicado sobre la vida litúrgica y de oración (nn. 15-18).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 2) La vida en Cristo como una perenne liturgia (CLC48 § 1) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 2) La vida en Cristo como una perenne liturgia (CLC48 § 1) |

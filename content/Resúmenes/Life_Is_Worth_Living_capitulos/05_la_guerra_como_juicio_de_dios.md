@@ -24,51 +24,51 @@ tags: ["resumen", "guerra", "ley_moral", "pecado", "juicio", "providencia"]
 Sheen comienza con un estudio de Bruselas sobre las guerras desde 1496 a. C.
 hasta 1861 d. C.: de 3.357 años, «3,130 years of war! Or only 227 years of
 peace. The ratio of war to peace was over fourteen years of war for every one
-year of peace» (L5). Los intervalos se acortan: 55 años entre las guerras
+year of peace». Los intervalos se acortan: 55 años entre las guerras
 napoleónicas y la franco-prusiana, 43 hasta la Primera Guerra Mundial, 21
-hasta la Segunda, «and now we live under the threat of cosmic suicide» (L7).
+hasta la Segunda, «and now we live under the threat of cosmic suicide».
 
 Sobre la maquinaria de paz: entre 1920 y 1939 se firmaron 4.568 tratados de
 paz, y 211 en los once meses anteriores al estallido de 1939. La pregunta es
-si estaban escritos en papel o «in the hearts of men» (L9). Las naciones que
+si estaban escritos en papel o «in the hearts of men». Las naciones que
 los firman se comportan a veces como el matrimonio que se llama «dearie» en
 la fiesta y «brute» en casa; de ahí la sospecha de que la paz moderna sea
-«nothing but an interval between wars» (L9).
+«nothing but an interval between wars».
 
 ## Causas externas e internas
 
 Las causas externas, según William Penn, son tres: «to keep, to add, and to
-recover» (L9). Pero la causa interna es la que explica todo, y la da Santiago:
+recover». Pero la causa interna es la que explica todo, y la da Santiago:
 «What leads to war, what leads to quarrelling among you? I will tell you what
-leads to them; The appetites which infest your mortal bodies» (L11). «Wars
+leads to them; The appetites which infest your mortal bodies». «Wars
 come from egotism and selfishness. Every macrocosmic or world war has its
 origin in microcosmic wars going on inside of millions and millions of
-individuals» (L11).
+individuals».
 
 Lo ilustra con «Two Star» Hennessey, el hombre cuyas cejas son flechas
 enfrentadas: la guerra civil interior entre lo que cree ser y lo que es, entre
 la ley moral que *debería* gobernarle y el egoísmo que de hecho le gobierna
-(L13). Multiplicada por millones, esa lucha produce la guerra mundial (L13).
+. Multiplicada por millones, esa lucha produce la guerra mundial.
 «Nothing ever happens in the world that does not happen first inside human
-hearts. War is actually a projection of our own wickedness» (L15).
+hearts. War is actually a projection of our own wickedness».
 
 ## Ley natural y ley moral
 
 Dios implantó leyes para que las cosas alcancen su perfección: las naturales
 (astronomía, física, biología), que son reflejos de la Razón eterna, y la
 moral, propia del hombre libre. «Fire *must* obey the natural law of its
-nature, but man merely *ought* to obey the moral law» (L19). Dios quiso llevar
-las cosas a su fin *necesariamente* y al hombre *libremente* (L21). En la
+nature, but man merely *ought* to obey the moral law». Dios quiso llevar
+las cosas a su fin *necesariamente* y al hombre *libremente*. En la
 medida en que obedecemos somos felices; en la medida en que desobedecemos nos
-herimos, «and this consequence we call judgment» (L41).
+herimos, «and this consequence we call judgment».
 
 Los ejemplos naturales: el dolor de cabeza es juicio de no comer; la atrofia,
 de no ejercitarse. Nadie que bebe de más quiere el dolor de cabeza, pero lo
 tiene; nadie que peca quiere la frustración, pero la siente: «In breaking a
-law we always suffer certain consequences which we never intended» (L25). Al
+law we always suffer certain consequences which we never intended». Al
 desobedecer la ley moral no la destruimos: nos destruimos. «I am free to
 misuse the law of gravitation by jumping off a building, but in doing so, I
-kill myself—and the law still stands» (L27).
+kill myself—and the law still stands».
 
 ## La historia de Kasa
 
@@ -78,15 +78,16 @@ veintiún años, vuelve un año a su isla, bautiza a su padre y a su madre en la
 muerte, convierte a su hermano y sufre persecución y tortura. Un día un tiburón
 devora al hijo de la mujer más hostil, y los isleños gritan «Jahve! Why hast
 Thou done so to us?» hasta que uno pregunta: «Is it because of the way we
-treated Kasa?» (L31-37). La joven volvió a Tonga y se hizo religiosa con el
-nombre de hermana Gabriel (L37).
+treated Kasa?». La joven volvió a Tonga y se hizo religiosa con el
+nombre de hermana Gabriel.
 
 La conclusión: «In disobeying His Will, we destroy ourselves. In stabbing Him
-it is our own heart we slay» (L39). Como el fuego quema y no metemos la mano
-en él, «Godlessness causes war, therefore let us be Godly» (L69).
+it is our own heart we slay». Como el fuego quema y no metemos la mano
+en él, «Godlessness causes war, therefore let us be Godly».
 
 ## Fuente original
 
 - Raw: `raw/Bases_doctrinales-raw/Life_Is_Worth_Living_capitulos/04_war_as_a_judgment_of_god.md`
-- Líneas: L3-41
-- Citas verificadas: `"3,130 years of war! Or only 227 years of peace"` (L5); `"The appetites which infest your mortal bodies"` (L11, Sant 4,1); `"Nothing ever happens in the world that does not happen first inside human hearts"` (L15); `"In stabbing Him it is our own heart we slay"` (L39).
+- Citas verificadas en el capítulo:
+  - `"3,130 years of war! Or only 227 years of peace"`; `"The appetites which infest your mortal bodies"` (Sant 4,1); `"Nothing ever happens in the world that does not happen first inside human hearts"`; `"In stabbing Him it is our own heart we slay"`.
+

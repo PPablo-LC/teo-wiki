@@ -35,9 +35,9 @@ Dios «que ataste huesos y venas en mí, fijaste mi carne» sigue perfeccionando
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Majesty of It All: The Poetry of Gerard Manley Hopkins — Paul Mariani |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Majesty of It All: The Poetry of Gerard Manley Hopkins — Paul Mariani |
 
 ## Secciones incluidas
 

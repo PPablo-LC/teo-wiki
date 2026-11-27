@@ -36,6 +36,6 @@ Sección del Capítulo IX sobre otros elementos estructurales o decorativos de l
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Otros elementos estructurales o decorativos |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Otros elementos estructurales o decorativos |

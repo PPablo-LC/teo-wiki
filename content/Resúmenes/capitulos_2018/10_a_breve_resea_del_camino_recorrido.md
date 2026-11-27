@@ -54,6 +54,6 @@ Esta trayectoria llega a una meta que es, a la vez, un inicio, con novedades en 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | A. Breve reseña del camino recorrido |
+| Nivel | Sección |
+|-------|---------|
+| H2 | A. Breve reseña del camino recorrido |

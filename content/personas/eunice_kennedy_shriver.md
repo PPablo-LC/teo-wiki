@@ -25,7 +25,7 @@ Shriver entendió el deporte no solo como competencia, sino como un medio terap�
 
 ### Según Evangelization & Culture (EAC-20)
 
-El artículo relata cómo Shriver creó los Special Olympics partiendo de 34 niños en su granja de Maryland para llegar a 5,5 millones de atletas [EAC-20, 19_feature_bradford, L17-23]. Se menciona que «la vulnerabilidad y la soledad» son los mayores desafíos para las personas con discapacidad, y el deporte es el «antídoto» contra ellos [EAC-20, 19_feature_bradford, L31-39]. También se destaca el apoyo científico que validó la eficacia del deporte para mejorar el bienestar mental en personas con trastornos neuroevolutivos [EAC-20, 19_feature_bradford, L31-39].
+El artículo relata cómo Shriver creó los Special Olympics partiendo de 34 niños en su granja de Maryland para llegar a 5,5 millones de atletas [EAC-20, 19_feature_bradford]. Se menciona que «la vulnerabilidad y la soledad» son los mayores desafíos para las personas con discapacidad, y el deporte es el «antídoto» contra ellos [EAC-20, 19_feature_bradford]. También se destaca el apoyo científico que validó la eficacia del deporte para mejorar el bienestar mental en personas con trastornos neuroevolutivos [EAC-20, 19_feature_bradford].
 
 ## Distinciones importantes
 

@@ -34,7 +34,7 @@ El ideal propuesto: «¡Jóvenes que manifiesten más alegría en la mirada, má
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EL EDITOR |
-| 4 | H2 | INTRODUCCIÓN |
+| Nivel | Sección |
+|-------|---------|
+| H1 | EL EDITOR |
+| H2 | INTRODUCCIÓN |

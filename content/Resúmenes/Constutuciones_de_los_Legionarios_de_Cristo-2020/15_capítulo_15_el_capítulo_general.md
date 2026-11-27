@@ -96,27 +96,27 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 15. El Capítulo General |
-| 3 | H4 | Art. 1. Fin, modalidad y participantes |
-| 5 | H5 | Ordinario o extraordinario |
-| 11 | H5 | Finalidades y competencias |
-| 25 | H5 | Funcionamiento |
-| 29 | H5 | Participantes |
-| 55 | H4 | Art. 2. Anuncio, asambleas territoriales y convocatoria del Capítulo G |
-| 57 | H5 | Momento del anuncio |
-| 61 | H5 | Asambleas territoriales |
-| 71 | H5 | Participantes en la Asamblea Territorial |
-| 87 | H5 | Convocatoria |
-| 93 | H5 | Validez del Capítulo reunido |
-| 97 | H4 | Art. 3. La elección del gobierno general |
-| 99 | H5 | Validez de las elecciones y de los votos |
-| 111 | H5 | Elección del director general |
-| 115 | H5 | Otras elecciones |
-| 121 | H4 | Art. 4. Resoluciones del Capítulo General |
-| 123 | H5 | Resoluciones del Capítulo General |
-| 131 | H5 | Promulgación de decretos, comunicados |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Capítulo 15. El Capítulo General |
+| H4 | Art. 1. Fin, modalidad y participantes |
+| H5 | Ordinario o extraordinario |
+| H5 | Finalidades y competencias |
+| H5 | Funcionamiento |
+| H5 | Participantes |
+| H4 | Art. 2. Anuncio, asambleas territoriales y convocatoria del Capítulo G |
+| H5 | Momento del anuncio |
+| H5 | Asambleas territoriales |
+| H5 | Participantes en la Asamblea Territorial |
+| H5 | Convocatoria |
+| H5 | Validez del Capítulo reunido |
+| H4 | Art. 3. La elección del gobierno general |
+| H5 | Validez de las elecciones y de los votos |
+| H5 | Elección del director general |
+| H5 | Otras elecciones |
+| H4 | Art. 4. Resoluciones del Capítulo General |
+| H5 | Resoluciones del Capítulo General |
+| H5 | Promulgación de decretos, comunicados |
 
 ## Secciones incluidas
 

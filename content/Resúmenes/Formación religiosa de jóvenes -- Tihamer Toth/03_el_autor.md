@@ -65,11 +65,11 @@ Marcador del capítulo siguiente: **Ineficacia de la educación laica**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EL AUTOR |
-| 7 | H2 | VALOR DE LA EDUCACIÓN RELIGIOSO-MORAL |
-| 10 | H3 | Finalidad de la educación |
-| 36 | H3 | La educación y moral católicas cumple las condiciones exigidas |
-| 69 | H3 | Errores en que puede caer la educación religiosa |
-| 98 | H3 | Capítulo 2º |
+| Nivel | Sección |
+|-------|---------|
+| H1 | EL AUTOR |
+| H2 | VALOR DE LA EDUCACIÓN RELIGIOSO-MORAL |
+| H3 | Finalidad de la educación |
+| H3 | La educación y moral católicas cumple las condiciones exigidas |
+| H3 | Errores en que puede caer la educación religiosa |
+| H3 | Capítulo 2º |

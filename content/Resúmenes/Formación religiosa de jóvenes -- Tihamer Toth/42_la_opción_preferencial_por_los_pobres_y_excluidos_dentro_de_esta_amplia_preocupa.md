@@ -33,6 +33,6 @@ Si esta opción está implícita en la fe cristológica, los cristianos, como di
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA OPCIÓN PREFERENCIAL POR LOS POBRES Y EXCLUIDOS Dentro de esta ampli |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA OPCIÓN PREFERENCIAL POR LOS POBRES Y EXCLUIDOS Dentro de esta ampli |

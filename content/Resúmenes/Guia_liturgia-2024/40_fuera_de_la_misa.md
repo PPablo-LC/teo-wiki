@@ -28,6 +28,6 @@ El contenido detallado se desarrolla en los archivos siguientes del capítulo (e
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | fuera de la misa |
+| Nivel | Sección |
+|-------|---------|
+| H1 | fuera de la misa |

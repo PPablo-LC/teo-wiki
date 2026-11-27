@@ -71,10 +71,10 @@ tags: ["resumen", "comunicado capitular 2020"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Comunicado del Capítulo General 2020 sobre «Conversión y reparación» |
-| 3 | H3 | Un insistente llamado a la conversión |
-| 25 | H3 | Un examen de conciencia personal e institucional |
-| 59 | H3 | Un firme compromiso de enmienda |
-| 85 | H3 | Conclusión |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Comunicado del Capítulo General 2020 sobre «Conversión y reparación» |
+| H3 | Un insistente llamado a la conversión |
+| H3 | Un examen de conciencia personal e institucional |
+| H3 | Un firme compromiso de enmienda |
+| H3 | Conclusión |

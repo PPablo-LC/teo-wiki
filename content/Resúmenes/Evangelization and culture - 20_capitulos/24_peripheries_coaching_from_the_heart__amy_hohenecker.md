@@ -45,6 +45,6 @@ El entrenamiento es una forma de pagar el favor que Dios le ha dado. Siente que 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Peripheries: Coaching from the Heart — Amy Hohenecker |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Peripheries: Coaching from the Heart — Amy Hohenecker |

@@ -34,8 +34,8 @@ Que la Virgen Santísima guíe este redescubrimiento de la misión femenina en l
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Importancia de la misión educadora de la mujer |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Importancia de la misión educadora de la mujer |
 
 ## Secciones incluidas

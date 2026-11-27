@@ -90,6 +90,6 @@ Colección de 42 puntos de amor dirigidos a las religiosas carmelitas de Beas:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | 2. Puntos de amor, reunidos en Beas |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 2. Puntos de amor, reunidos en Beas |

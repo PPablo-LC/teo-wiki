@@ -76,18 +76,18 @@ Giussani describe el paraíso con una imagen: llegar a una fuente con sed despu�
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | AL CUORE DELL'APPARENZA |
-| 21 | Blockquote | Dio sfonda l'astrazione |
-| 51 | Blockquote | Come Cristo è presente nella compagnia |
-| 63 | Blockquote | Ragione e fede |
-| 89 | Blockquote | Scoprire e vivere il fattore ultimo |
-| 99 | Blockquote | La vostra faccia non è un pretesto |
-| 111 | Blockquote | Amore secondo la prospettiva ultima |
-| 139 | Blockquote | La moralità implica la totalità |
-| 165 | Blockquote | Imparare dai rapporti che si vivono |
-| 173 | Blockquote | Il paradiso |
+| Nivel | Sección |
+|-------|---------|
+| H1 | AL CUORE DELL'APPARENZA |
+| Blockquote | Dio sfonda l'astrazione |
+| Blockquote | Come Cristo è presente nella compagnia |
+| Blockquote | Ragione e fede |
+| Blockquote | Scoprire e vivere il fattore ultimo |
+| Blockquote | La vostra faccia non è un pretesto |
+| Blockquote | Amore secondo la prospettiva ultima |
+| Blockquote | La moralità implica la totalità |
+| Blockquote | Imparare dai rapporti che si vivono |
+| Blockquote | Il paradiso |
 
 ## Secciones incluidas
 

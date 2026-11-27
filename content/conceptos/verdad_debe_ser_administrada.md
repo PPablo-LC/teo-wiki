@@ -51,5 +51,5 @@ Se vincula con [[verdad]], [[conciencia]], [[oportunismo_político]], [[autorida
 
 ## Referencias
 
-- CyF, `18_apendice_iv_la_ultima_parabola.md` L5-31; `04_ii_el_dulce_nazareno.md` L79-85; `21_sobre_la_obediencia.md` L25-29.
+- CyF, `18_apendice_iv_la_ultima_parabola.md`; `04_ii_el_dulce_nazareno.md`; `21_sobre_la_obediencia.md`.
 - CEC 1776-1785, 1806, 1835, 2085, 2464-2471; Ef 4,15; Mt 10,32-33; DH 1; GS 19; LG 35.

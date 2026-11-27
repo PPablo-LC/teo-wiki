@@ -98,9 +98,9 @@ una compañía de familias (12).
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `01_introduzione_di_julian_carron.md` (líneas 23, 35),
-  `03_la_ragione_della_carita.md` (línea 75), `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md`
-  (líneas 5-11), `07_l_abbraccio_del_diverso.md` (líneas 31-33) y
-  `12_storia_di_un_opera_famiglie_per_l_accoglienza.md` (líneas 105-119).
+  `01_introduzione_di_julian_carron.md`,
+  `03_la_ragione_della_carita.md`, `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md`
+, `07_l_abbraccio_del_diverso.md` y
+  `12_storia_di_un_opera_famiglie_per_l_accoglienza.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

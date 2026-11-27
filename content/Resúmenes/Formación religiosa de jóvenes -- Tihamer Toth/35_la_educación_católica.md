@@ -32,6 +32,6 @@ Constituye una responsabilidad estricta de la escuela, en cuanto institución ed
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA EDUCACIÓN CATÓLICA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA EDUCACIÓN CATÓLICA |

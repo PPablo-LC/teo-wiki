@@ -52,7 +52,7 @@ El Encuentro con Cristo integra los cinco elementos propios del miembro del RC (
 
 ### Il senso di Dio e l'uomo moderno — Luigi Giussani (SDL)
 
-- **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — «Venite e vedrete»: el encuentro comienza como convivencia; los primeros discípulos «fueron, pues, a ver dónde habitaba y permanecieron junto a él aquel día» (Gv 1,38-39); el comentario al primer signo de Caná —«y creyeron entonces en él sus amigos» (Gv 2,11)— «la certeza crecía según un devenir que la convivencia con Él aseguraba» (03, L97-103).
+- **Parte terza (archivo `03_parte_terza_rivelazione.md`)** — «Venite e vedrete»: el encuentro comienza como convivencia; los primeros discípulos «fueron, pues, a ver dónde habitaba y permanecieron junto a él aquel día» (Gv 1,38-39); el comentario al primer signo de Caná —«y creyeron entonces en él sus amigos» (Gv 2,11)— «la certeza crecía según un devenir que la convivencia con Él aseguraba» (03).
 - **Parte quarta (archivo `04_parte_quarta_presenza_e_storia.md`)** — el encuentro con Cristo hoy es un «incontro presente, esistenziale» con la comunidad cristiana: «metodológicamente, solo viviendo la comunidad cristiana presente se puede adquirir adecuación al problema de Cristo»; y el método del hecho cristiano para «convertir» al mundo es la unidad visible de los creyentes (Gv 17,20-23).
 ### Según La convenienza umana della fede (CUDF)
 

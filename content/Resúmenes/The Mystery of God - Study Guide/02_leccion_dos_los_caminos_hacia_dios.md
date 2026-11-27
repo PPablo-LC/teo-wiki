@@ -59,4 +59,4 @@ Las preguntas invitan a explicar el argumento de contingencia, el principio de r
 
 ## Fuente original
 
-- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/02_lesson_two_the_paths_to_god.md` (líneas 1-235)
+- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/02_lesson_two_the_paths_to_god.md`

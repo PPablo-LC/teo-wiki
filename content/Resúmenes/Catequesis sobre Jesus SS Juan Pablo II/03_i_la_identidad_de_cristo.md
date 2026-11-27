@@ -74,17 +74,17 @@ Jesucristo, Hijo del hombre e Hijo de Dios, es el tema culminante de las cateque
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | I.- LA IDENTIDAD DE CRISTO |
-| 3 | Negrita | 07-01-87 «Y vosotros ¿quién decís que soy yo?» |
-| 39 | Negrita | 14-01-87 Jesús, Hijo de Dios y Salvador del hombre |
-| 75 | Negrita | 28-01-87 Concebido por obra del Espíritu Santo y nacido de María |
-| 107 | Negrita | 04-02-87 En Jesús se cumplen las profecías |
-| 143 | Negrita | 11-02-87 El Mesías Rey |
-| 181 | Negrita | 18-02-87 Cristo, Mesías «Sacerdote» |
-| 227 | Negrita | 25-02-87 Jesucristo, el Siervo de Yahvéh |
-| 257 | Negrita | 04-03-87 En Cristo se cumplen las profecías |
-| 291 | Negrita | 18-03-87 Jesucristo inicia el Reino de Dios |
-| 333 | Negrita | 22-04-87 Jesucristo, Sabiduría de Dios |
-| 369 | Negrita | 09-04-87 El Hijo del hombre |
+| Nivel | Sección |
+|-------|---------|
+| H2 | I.- LA IDENTIDAD DE CRISTO |
+| Negrita | 07-01-87 «Y vosotros ¿quién decís que soy yo?» |
+| Negrita | 14-01-87 Jesús, Hijo de Dios y Salvador del hombre |
+| Negrita | 28-01-87 Concebido por obra del Espíritu Santo y nacido de María |
+| Negrita | 04-02-87 En Jesús se cumplen las profecías |
+| Negrita | 11-02-87 El Mesías Rey |
+| Negrita | 18-02-87 Cristo, Mesías «Sacerdote» |
+| Negrita | 25-02-87 Jesucristo, el Siervo de Yahvéh |
+| Negrita | 04-03-87 En Cristo se cumplen las profecías |
+| Negrita | 18-03-87 Jesucristo inicia el Reino de Dios |
+| Negrita | 22-04-87 Jesucristo, Sabiduría de Dios |
+| Negrita | 09-04-87 El Hijo del hombre |

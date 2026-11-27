@@ -41,6 +41,6 @@ El deporte puede ser parte integral de una vida santa y virtuosa, siempre que se
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Redeeming Sports: Promoting Virtue and Rejecting Vice — Dr. Richard G. |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Redeeming Sports: Promoting Virtue and Rejecting Vice — Dr. Richard G. |

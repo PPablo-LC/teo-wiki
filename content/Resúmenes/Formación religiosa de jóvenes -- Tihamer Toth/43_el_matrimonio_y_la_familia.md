@@ -32,6 +32,6 @@ Creemos que "la familia es imagen de Dios que, en su misterio más íntimo no es
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EL MATRIMONIO Y LA FAMILIA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | EL MATRIMONIO Y LA FAMILIA |

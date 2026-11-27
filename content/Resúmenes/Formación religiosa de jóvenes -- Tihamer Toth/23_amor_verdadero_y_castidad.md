@@ -77,13 +77,13 @@ El amor por la castidad, en lo que tan importante es la ayuda de los padres, fav
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | AMOR VERDADERO Y CASTIDAD |
-| 5 | H3 | La castidad como don de sí |
-| 11 | H3 | El dominio de sí |
-| 16 | H3 | La castidad conyugal |
-| 24 | H3 | La educación a la castidad |
-| 33 | H3 | La vocación al matrimonio |
-| 37 | H3 | Llamados al amor conyugal |
-| 43 | H3 | Los padres afrontan una preocupación real |
+| Nivel | Sección |
+|-------|---------|
+| H1 | AMOR VERDADERO Y CASTIDAD |
+| H3 | La castidad como don de sí |
+| H3 | El dominio de sí |
+| H3 | La castidad conyugal |
+| H3 | La educación a la castidad |
+| H3 | La vocación al matrimonio |
+| H3 | Llamados al amor conyugal |
+| H3 | Los padres afrontan una preocupación real |

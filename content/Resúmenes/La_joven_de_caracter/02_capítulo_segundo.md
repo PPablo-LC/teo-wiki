@@ -247,36 +247,36 @@ Cuerpo y alma están en íntima dependencia: si estás abatida, sonríe y canta,
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO II |
-| 3 | H2 | OBSTÁCULOS DE LA FORMACIÓN DEL CARÁCTER |
-| 7 | H2 | - I.—Obstáculos de la formación del carácter |
-| 29 | H2 | II.—Hojas en alas del viento |
-| 47 | H2 | IÍI.—La Cruz de San Jorge. |
-| 63 | H2 | IV.—Cardos en el sembrado |
-| 93 | H2 | . V.—El combate del alma |
-| 119 | H2 | VI.—¿Y sin sacrificios? |
-| 189 | H2 | VII—El monje domador |
-| 219 | H2 | VIII—Quien se levanta de mal talante |
-| 245 | H2 | IX—«No tengo suerte» |
-| 265 | H2 | X.—«Lo he intentado en vano» |
-| 291 | H2 | XI.—Val de velle! |
-| 319 | H2 | XII.—«¡Fuera los Alpes!» |
-| 345 | H2 | XIII.—Frente a la suerte |
-| 383 | H2 | XIV.—La protectora de París |
-| 425 | H2 | XV—El peligro del éxito |
-| 435 | H2 | XVI—¿Dónde está Asia? |
-| 497 | H2 | XVII—¿Quieres prestarme…? |
-| 521 | H2 | XVIII—El demonio del dinero |
-| 551 | H2 | XIX.—¿Cómo se cazan los monos? |
-| 581 | H2 | XX.—Hasta donde llega la sábana |
-| 613 | H2 | XXI.—¡O morir o trabajar! |
-| 645 | H2 | XXII—<<Me dolía la cabeza>> |
-| 671 | H2 | XXIII—La abeja y el abejorro |
-| 691 | H2 | XXIV.—La grulla sin cola |
-| 745 | H2 | XXV—Temblorosa llama de bujía |
-| 787 | H2 | XXVI—El caracol y la liebre |
-| 801 | H2 | XXVII—La paciencia activa |
-| 823 | H2 | XXVIII—La paciencia activa |
-| 841 | H2 | XXIX—La educación de la voluntad |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CAPÍTULO II |
+| H2 | OBSTÁCULOS DE LA FORMACIÓN DEL CARÁCTER |
+| H2 | - I.—Obstáculos de la formación del carácter |
+| H2 | II.—Hojas en alas del viento |
+| H2 | IÍI.—La Cruz de San Jorge. |
+| H2 | IV.—Cardos en el sembrado |
+| H2 | . V.—El combate del alma |
+| H2 | VI.—¿Y sin sacrificios? |
+| H2 | VII—El monje domador |
+| H2 | VIII—Quien se levanta de mal talante |
+| H2 | IX—«No tengo suerte» |
+| H2 | X.—«Lo he intentado en vano» |
+| H2 | XI.—Val de velle! |
+| H2 | XII.—«¡Fuera los Alpes!» |
+| H2 | XIII.—Frente a la suerte |
+| H2 | XIV.—La protectora de París |
+| H2 | XV—El peligro del éxito |
+| H2 | XVI—¿Dónde está Asia? |
+| H2 | XVII—¿Quieres prestarme…? |
+| H2 | XVIII—El demonio del dinero |
+| H2 | XIX.—¿Cómo se cazan los monos? |
+| H2 | XX.—Hasta donde llega la sábana |
+| H2 | XXI.—¡O morir o trabajar! |
+| H2 | XXII—<<Me dolía la cabeza>> |
+| H2 | XXIII—La abeja y el abejorro |
+| H2 | XXIV.—La grulla sin cola |
+| H2 | XXV—Temblorosa llama de bujía |
+| H2 | XXVI—El caracol y la liebre |
+| H2 | XXVII—La paciencia activa |
+| H2 | XXVIII—La paciencia activa |
+| H2 | XXIX—La educación de la voluntad |

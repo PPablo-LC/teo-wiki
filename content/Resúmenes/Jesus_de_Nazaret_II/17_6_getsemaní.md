@@ -26,6 +26,6 @@ Los cinco relatos (tres Sinópticos, Jn 12, 27s y Hb 5, 7) describen la lucha no
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 6. GETSEMANÍ |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 6. GETSEMANÍ |

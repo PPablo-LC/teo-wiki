@@ -122,13 +122,13 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Las partes de la misa |
-| 3 | H3 | Preparación |
-| 7 | H3 | Ritos iniciales |
-| 29 | H3 | Liturgia de la Palabra |
-| 41 | H3 | Liturgia eucarística |
-| 67 | H3 | Rito de la comunión |
-| 87 | H3 | Ritos conclusivos |
-| 93 | H3 | Moniciones |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Las partes de la misa |
+| H3 | Preparación |
+| H3 | Ritos iniciales |
+| H3 | Liturgia de la Palabra |
+| H3 | Liturgia eucarística |
+| H3 | Rito de la comunión |
+| H3 | Ritos conclusivos |
+| H3 | Moniciones |

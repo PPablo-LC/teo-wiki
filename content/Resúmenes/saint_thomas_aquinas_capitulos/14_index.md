@@ -23,6 +23,6 @@ En cuanto a nombres propios, el índice recoge las fuentes del pensamiento de To
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Index |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Index |

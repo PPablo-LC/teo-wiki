@@ -34,8 +34,8 @@ El Papa invoca a la Virgen Santísima, [[Reina_de_la_Paz]], para que dirija su m
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Colaboración de la mujer a la paz del mundo |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Colaboración de la mujer a la paz del mundo |
 
 ## Secciones incluidas

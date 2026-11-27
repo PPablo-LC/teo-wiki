@@ -29,6 +29,6 @@ tags: ["resumen", "capitulos 2014"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 6) Vida espiritual y apostolado (CLC13) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 6) Vida espiritual y apostolado (CLC13) |

@@ -45,6 +45,6 @@ Junto con ellos quieren continuar el camino hacia adelante, no hacia atrás, con
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Mensaje a las consagradas y a los laicos consagrados del Regnum Christ |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Mensaje a las consagradas y a los laicos consagrados del Regnum Christ |

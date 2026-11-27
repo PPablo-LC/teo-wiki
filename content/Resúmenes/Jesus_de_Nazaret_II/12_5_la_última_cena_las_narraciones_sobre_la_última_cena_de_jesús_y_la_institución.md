@@ -28,6 +28,6 @@ El capítulo se organiza en cuatro secciones: la fecha de la celebración (¿cen
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 5. LA ÚLTIMA CENA Las narraciones sobre la última cena de Jesús |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 5. LA ÚLTIMA CENA Las narraciones sobre la última cena de Jesús |

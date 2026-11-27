@@ -31,6 +31,6 @@ Sección del Capítulo VIII dedicada al viacrucis comunitario (nn. 219-223).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Viacrucis comunitario |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Viacrucis comunitario |

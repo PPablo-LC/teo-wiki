@@ -28,8 +28,8 @@ Han sido cuatro las figuras destacadas a lo largo del mes de febrero de este añ
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Meditaciones dominicales del Santo Padre |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Meditaciones dominicales del Santo Padre |
 
 ## Secciones incluidas

@@ -36,9 +36,9 @@ Presentación del editor gestor y selección de cuatro titulares completos: «Ho
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Babylon Bee and Me — Kyle Mann |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Babylon Bee and Me — Kyle Mann |
 
 ## Secciones incluidas
 

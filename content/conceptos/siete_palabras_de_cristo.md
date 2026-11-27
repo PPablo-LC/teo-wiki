@@ -43,31 +43,31 @@ Las siete Palabras no son solo un esquema literario: son el modo en que el Salva
 
 ### Según *The Cries of Jesus from the Cross* (CJC)
 
-La antología de Al Smith añade a la lectura litúrgica de CAM dos ejes que esta no tenía. El primero es el de las **siete palabras dichas *a* la Cruz**: en el Calvario, Cristo habló siete veces desde la cruz, pero los que estaban allí le dirigieron también siete palabras, revelando «the seven different impacts the Cross makes on souls» (CJC, cap. 6, L3-5). La primera es la del humanismo —«save thy own self… come down from the Cross» (Mt 27,40)—, y cada grupo tiene su respuesta en la palabra que Cristo pronuncia.
+La antología de Al Smith añade a la lectura litúrgica de CAM dos ejes que esta no tenía. El primero es el de las **siete palabras dichas *a* la Cruz**: en el Calvario, Cristo habló siete veces desde la cruz, pero los que estaban allí le dirigieron también siete palabras, revelando «the seven different impacts the Cross makes on souls» (CJC, cap. 6). La primera es la del humanismo —«save thy own self… come down from the Cross» (Mt 27,40)—, y cada grupo tiene su respuesta en la palabra que Cristo pronuncia.
 
-El segundo eje es el **emparejamiento con las palabras de María**: ella habla siete veces en la Escritura, y «now that the sun was out, there was no longer need of the moon to shine» (cap. 7, L11). Así, al «*know not*» del Hijo responde el «*I know not man*» de la Anunciación (Lc 1,34), y al «this day thou shalt be with me in paradise» responde el *Fiat mihi secundum verbum tuum* de Nazaret (Lc 1,38): el ladrón recibe un destino y María una misión (cap. 7, L11-19).
+El segundo eje es el **emparejamiento con las palabras de María**: ella habla siete veces en la Escritura, y «now that the sun was out, there was no longer need of the moon to shine» (cap. 7). Así, al «*know not*» del Hijo responde el «*I know not man*» de la Anunciación (Lc 1,34), y al «this day thou shalt be with me in paradise» responde el *Fiat mihi secundum verbum tuum* de Nazaret (Lc 1,38): el ladrón recibe un destino y María una misión (cap. 7).
 
-La fórmula que condensa la aportación: «It is God who gives us the Cross. And it is the Cross that gives us God» (cap. 6, L43). Frente a la cruz-amuleto, el crucifijo «involves you in its guilt»; por eso el mundo pide un Cristo sin cruz.
+La fórmula que condensa la aportación: «It is God who gives us the Cross. And it is the Cross that gives us God» (cap. 6). Frente a la cruz-amuleto, el crucifijo «involves you in its guilt»; por eso el mundo pide un Cristo sin cruz.
 
-La Quinta Palabra, «I thirst» (Jn 19,28), revela el reverso de la Cuarta: si aquella mostró «the sufferings of a man without God», esta muestra «the sufferings of God without man» (CJC, cap. 35, L7). No es sed de agua, sino sed de amor: el Creador que dio todo —creación, revelación, sufrimiento, Eucaristía y promesa del cielo— pide al hombre la respuesta de su amor (cap. 35, L5-9). La Sexta, «It is finished» (Jn 19,30), proclama la redención consumada por las mismas tres realidades que intervinieron en la caída —Adán/Cristo, Eva/María, árbol/jardín y árbol/Cruz—, pero advierte que la obra de distribuir esa vida y hacerla propia no está terminada: «sin Viernes Santo en nuestra vida no habrá Domingo de Resurrección» (cap. 43, L5; cap. 44, L31). La palabra «hora» une Caná y el Calvario: el milagro inicia la hora, la sexta palabra la consuma; entre el comienzo y la plenitud de toda vocación interviene la Cruz como condición de la autoperfección (cap. 49, L17-25).
+La Quinta Palabra, «I thirst» (Jn 19,28), revela el reverso de la Cuarta: si aquella mostró «the sufferings of a man without God», esta muestra «the sufferings of God without man» (CJC, cap. 35). No es sed de agua, sino sed de amor: el Creador que dio todo —creación, revelación, sufrimiento, Eucaristía y promesa del cielo— pide al hombre la respuesta de su amor (cap. 35). La Sexta, «It is finished» (Jn 19,30), proclama la redención consumada por las mismas tres realidades que intervinieron en la caída —Adán/Cristo, Eva/María, árbol/jardín y árbol/Cruz—, pero advierte que la obra de distribuir esa vida y hacerla propia no está terminada: «sin Viernes Santo en nuestra vida no habrá Domingo de Resurrección» (cap. 43; cap. 44). La palabra «hora» une Caná y el Calvario: el milagro inicia la hora, la sexta palabra la consuma; entre el comienzo y la plenitud de toda vocación interviene la Cruz como condición de la autoperfección (cap. 49).
 
 La **Séptima Palabra** cierra la serie como lo que es: un regreso. Sheen la lee
 en continuidad con la Sexta, que fue «a cry of retrospect: “I have finished the
 work”», mientras que la última «is one of prospect: “I commend my spirit”»: «The
-sixth word was manward; the seventh word was Godward» (cap. 51, L5). La imagen
+sixth word was manward; the seventh word was Godward» (cap. 51). La imagen
 que ordena el capítulo es la de la órbita: como los planetas vuelven al punto
 de partida para saludar a quien los envió, así el que vino del cielo, «having
-finished His work and completed His orbit, now goes back to the Father» (L5).
+finished His work and completed His orbit, now goes back to the Father».
 El comentario directo añade la escena de la primera muerte —Adán encuentra el
 cuerpo de Abel— para leer el Calvario como la muerte del «nuevo Abel» a manos de
-sus hermanos (cap. 51, L3), y la *palabra de María* correspondiente es su última
+sus hermanos (cap. 51), y la *palabra de María* correspondiente es su última
 frase registrada en la Escritura, «Whatsoever he shall say to you, do ye» (Jn
 2,5): «Jesus surrendered Himself to the Father; Mary asked us to surrender
-ourselves to the Son» (cap. 57, L21-25). En la columna de las palabras dichas
+ourselves to the Son» (cap. 57). En la columna de las palabras dichas
 *a* la Cruz, la última actitud es la del **pensador**: el centurión que, al oír
 la voz fuerte del Crucificado, pasa de la duda de Hamlet a la confesión «Indeed
 this was the Son of God» (Mt 27,54), y se convierte en representante de «that
-seventh and last type who come in contact with the Cross» (cap. 56, L62-66).
+seventh and last type who come in contact with the Cross» (cap. 56).
 
 ## Distinciones importantes
 

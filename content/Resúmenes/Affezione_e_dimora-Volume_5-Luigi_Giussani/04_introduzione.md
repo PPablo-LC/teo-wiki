@@ -22,6 +22,6 @@ Archivo de solo título. La palabra *Introduzione* encabeza la sección introduc
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | **Introduzione** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | **Introduzione** |

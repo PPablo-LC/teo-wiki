@@ -27,9 +27,9 @@ La bella poesía se ordena a facilitar «un encuentro con la Belleza misma —el
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | From the Desk of Bishop Robert Barron |
+| Nivel | Sección |
+|-------|---------|
+| H1 | From the Desk of Bishop Robert Barron |
 
 ## Secciones incluidas
 

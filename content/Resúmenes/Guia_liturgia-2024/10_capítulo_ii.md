@@ -22,6 +22,6 @@ El contenido detallado se desarrolla en los archivos siguientes: la comunidad y 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo II |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo II |

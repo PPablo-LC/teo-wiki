@@ -37,8 +37,8 @@ La solemnidad de la Asunción nos recuerda que María regresó en alma y cuerpo 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Contribución de la mujer en la promoción humana |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Contribución de la mujer en la promoción humana |
 
 ## Secciones incluidas

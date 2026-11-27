@@ -28,6 +28,6 @@ Elementos esenciales: advertencia contra pseudomesías y fantasías apocalíptic
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 3. PROFECÍA Y APOCALÍPTICA EN EL DISCURSO ESCATOLÓGICO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 3. PROFECÍA Y APOCALÍPTICA EN EL DISCURSO ESCATOLÓGICO |

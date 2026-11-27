@@ -33,9 +33,9 @@ tags: ["resumen", "evangelization and culture - 9"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Midnight Oil — Dr. Tod Worner |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Midnight Oil — Dr. Tod Worner |
 
 ## Secciones incluidas
 

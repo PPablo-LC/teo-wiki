@@ -43,6 +43,6 @@ tags: ["resumen", "capitulos 2018"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | B. Presentación sintética de los resultados del Capítulo General y de la Asamblea General |
+| Nivel | Sección |
+|-------|---------|
+| H2 | B. Presentación sintética de los resultados del Capítulo General y de la Asamblea General |

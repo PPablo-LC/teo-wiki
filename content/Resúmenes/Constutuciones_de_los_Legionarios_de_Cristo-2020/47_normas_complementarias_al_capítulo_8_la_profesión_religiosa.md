@@ -31,6 +31,6 @@ Las normas complementarias al Capítulo 8 regulan tres aspectos de la [[profesi�
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Normas complementarias al Capítulo 8. La profesión religiosa |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Normas complementarias al Capítulo 8. La profesión religiosa |

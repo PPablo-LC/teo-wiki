@@ -394,33 +394,33 @@ Finalmente, la caridad es el criterio del discernimiento eclesial: «tenemos el 
 La reflexión de *The Seven Virtues* sobre la Séptima Palabra abre con una
 tesis que enlaza caridad y justicia: «Charity is the perfection of justice»,
 y la completa con la sentencia agustiniana «Love God and do whatever you
-please» (CJC, cap. 55, L3). El amor es «a stranger on earth» porque «it was
-born of the infinite and can never be satisfied with anything less» (L7):
+please» (CJC, cap. 55). El amor es «a stranger on earth» porque «it was
+born of the infinite and can never be satisfied with anything less»:
 somos «reyes desterrados, pródigos de la casa del Padre», y por eso el Amor
-debe volver al Amor (L9).
+debe volver al Amor.
 
 Su nota más original es la prueba del amor por la elección: «There is no
 other real way in which to prove we love a thing than by choosing it in
 preference to something else. Words and sighs of love may be… expressions of
-egoism or passion; but deeds are proofs of love» (L15). El modelo es el
+egoism or passion; but deeds are proofs of love». El modelo es el
 mismo Cristo: en el monte de la Tentación rechaza los reinos y en el del
 Calvario rechaza bajar de la Cruz, porque «perfect love is the choice of
-Divine Love» (L23-27). De ahí la distinción entre ley y amor: «Laws are for
+Divine Love». De ahí la distinción entre ley y amor: «Laws are for
 the imperfect; love is for the perfect. Law is for those who want to know
-the minimum; love is for those who are interested in the maximum» (L37); «no
+the minimum; love is for those who are interested in the maximum»; «no
 hay ley de que las madres amen a sus hijos… Where there is love, there is no
-law, because love has no limits» (L43). La medida es el derroche de
-Magdalena —que rompe el vaso— frente al cálculo de Judas (L41), y la Cruz
+law, because love has no limits». La medida es el derroche de
+Magdalena —que rompe el vaso— frente al cálculo de Judas, y la Cruz
 misma, cuyos brazos «outstretched even into infinity portrayed the universal
-efficacy of redemption» (L45).
+efficacy of redemption».
 
 Dos consecuencias prácticas cierran la sección. La primera, el amor al
 enemigo: «Love is not in the organism, but in the will; not in affection, but
-in intention» (L49), y por eso «every Christian must be regarded as a kind of
-consecrated Host» (L51). La segunda, la advertencia ascética: «All sin is
-self-mutilation» (L57), y el obstáculo más común no es la maldad sino el
+in intention», y por eso «every Christian must be regarded as a kind of
+consecrated Host». La segunda, la advertencia ascética: «All sin is
+self-mutilation», y el obstáculo más común no es la maldad sino el
 miedo: «fearful lest having Him, we should have naught else beside… Could we
-but see that when we have the sun, we need not the candle» (L59).
+but see that when we have the sun, we need not the candle».
 
 ## Analizado para
 

@@ -50,6 +50,6 @@ del poder que niega a Cristo.
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivo
-  `03_si_può_vivere_così_1995.md` (línea 119).
+  `03_si_può_vivere_così_1995.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

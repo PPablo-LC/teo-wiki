@@ -30,6 +30,6 @@ tags: ["resumen", "capitulos 2014"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 3) Formación a la luz del carisma |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 3) Formación a la luz del carisma |

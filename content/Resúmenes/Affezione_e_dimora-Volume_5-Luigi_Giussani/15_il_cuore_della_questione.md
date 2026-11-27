@@ -71,16 +71,16 @@ Estas cosas, si no se proyectan por la mañana al levantarse y no se persiguen d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | IL CUORE DELLA QUESTIONE |
-| 15 | Canto | INNO: CHRISTE CUNCTORUM, strofe 3-4 |
-| 41 | Blockquote | Accettare di far parte |
-| 75 | Blockquote | La sponsalità che rende promessa tutto |
-| 83 | Blockquote | *Omnis creatura bona* |
-| 99 | Blockquote | Il più grave peccato è la mancanza di passione per il mondo |
-| 117 | Blockquote | Cambiamento, non eliminazione |
-| 147 | Blockquote | Amare vuol dire coscienza di appartenere |
-| 173 | Blockquote | Il possesso vero dell'altro |
-| 199 | Blockquote | La libertà suprema è il mendicare |
-| 207 | Blockquote | Quanto più assomigli a Dio... |
+| Nivel | Sección |
+|-------|---------|
+| H1 | IL CUORE DELLA QUESTIONE |
+| Canto | INNO: CHRISTE CUNCTORUM, strofe 3-4 |
+| Blockquote | Accettare di far parte |
+| Blockquote | La sponsalità che rende promessa tutto |
+| Blockquote | *Omnis creatura bona* |
+| Blockquote | Il più grave peccato è la mancanza di passione per il mondo |
+| Blockquote | Cambiamento, non eliminazione |
+| Blockquote | Amare vuol dire coscienza di appartenere |
+| Blockquote | Il possesso vero dell'altro |
+| Blockquote | La libertà suprema è il mendicare |
+| Blockquote | Quanto più assomigli a Dio... |

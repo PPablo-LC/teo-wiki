@@ -53,7 +53,7 @@ dell'altro sopra ogni cosa, al di là di qualsiasi tornaconto» (01, 55).
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivo
-  `04_alla_ricerca_del_volto_umano_1996.md` (línea 55); cf. A. Savorana,
+  `04_alla_ricerca_del_volto_umano_1996.md`; cf. A. Savorana,
   *Vita di don Giussani*, pp. 746-748.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

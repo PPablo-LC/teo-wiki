@@ -37,6 +37,6 @@ La nube —la shekiná— cubre a todos y la voz proclama: «Éste es mi Hijo am
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. LA TRANSFIGURACIÓN En los tres sinópticos la confesión de Pedro y e |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. LA TRANSFIGURACIÓN En los tres sinópticos la confesión de Pedro y e |

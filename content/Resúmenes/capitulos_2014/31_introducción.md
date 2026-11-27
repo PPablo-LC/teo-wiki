@@ -29,6 +29,6 @@ tags: ["resumen", "capitulos 2014"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Introducción |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Introducción |

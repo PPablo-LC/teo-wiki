@@ -98,11 +98,11 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | El canto en la celebración eucarística |
-| 5 | H3 | Misa de feria |
-| 19 | H3 | Domingos y fiestas que se celebran en la Congregación |
-| 31 | H3 | Misas solemnes |
-| 43 | H3 | Cantos en algunos momentos especiales del año |
-| 61 | H3 | Música sagrada instrumental |
+| Nivel | Sección |
+|-------|---------|
+| H2 | El canto en la celebración eucarística |
+| H3 | Misa de feria |
+| H3 | Domingos y fiestas que se celebran en la Congregación |
+| H3 | Misas solemnes |
+| H3 | Cantos en algunos momentos especiales del año |
+| H3 | Música sagrada instrumental |

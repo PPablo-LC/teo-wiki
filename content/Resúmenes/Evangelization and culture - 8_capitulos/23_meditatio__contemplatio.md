@@ -34,9 +34,9 @@ Invitación a debatir en wordonfire.institute/community (Parting Thoughts).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Meditatio & Contemplatio |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Meditatio & Contemplatio |
 
 ## Secciones incluidas
 

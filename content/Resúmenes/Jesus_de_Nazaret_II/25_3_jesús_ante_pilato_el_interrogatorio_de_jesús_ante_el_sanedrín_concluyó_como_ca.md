@@ -28,6 +28,6 @@ Tres actos intermedios: (1) la amnistía pascual: frente a frente, dos mesianism
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 3. JESÚS ANTE PILATO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 3. JESÚS ANTE PILATO |

@@ -23,6 +23,6 @@ Este archivo contiene únicamente el encabezado que abre el Capítulo VIII de la
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Otros actos comunitarios |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Otros actos comunitarios |

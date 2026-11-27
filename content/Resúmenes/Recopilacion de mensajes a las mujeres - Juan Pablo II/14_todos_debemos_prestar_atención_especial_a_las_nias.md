@@ -27,8 +27,8 @@ La [[iglesia]] ha mostrado históricamente, tanto con palabras como con hechos, 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Todos debemos prestar atención especial a las niñas |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Todos debemos prestar atención especial a las niñas |
 
 ## Secciones incluidas

@@ -42,12 +42,12 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 13. La salida y expulsión de los religiosos |
-| 3 | H5 | Recomendaciones para los religiosos |
-| 7 | H5 | Recomendaciones para los superiores |
-| 15 | H5 | El superior puede alejar a un religioso por causa grave |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Capítulo 13. La salida y expulsión de los religiosos |
+| H5 | Recomendaciones para los religiosos |
+| H5 | Recomendaciones para los superiores |
+| H5 | El superior puede alejar a un religioso por causa grave |
 
 ## Secciones incluidas
 

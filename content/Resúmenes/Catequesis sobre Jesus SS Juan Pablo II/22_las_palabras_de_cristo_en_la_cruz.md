@@ -52,6 +52,6 @@ El artículo «fue sepultado» inserta la sepultura de Cristo en el horizonte m�
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (LAS PALABRAS DE CRISTO EN LA CRUZ) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (LAS PALABRAS DE CRISTO EN LA CRUZ) |

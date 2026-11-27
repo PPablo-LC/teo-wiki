@@ -55,6 +55,6 @@ genera por estar disponibles a la necesidad encontrada.
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO),
-  `12_storia_di_un_opera_famiglie_per_l_accoglienza.md` (líneas 13, 17).
+  `12_storia_di_un_opera_famiglie_per_l_accoglienza.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

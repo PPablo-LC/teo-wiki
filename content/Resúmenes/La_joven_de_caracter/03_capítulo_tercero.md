@@ -242,54 +242,54 @@ No pregunta por tu estado —casada, soltera, monja, maestra, farmacéutica…�
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO III |
-| 3 | H2 | MEDIOS DE FORMAR EL CARÁCTER |
-| 5 | H2 | I—¡Quiero! |
-| 33 | H2 | II.—«Podría, si quisiera» |
-| 73 | H2 | III—La joven voluntariosa |
-| 115 | H2 | IV.—Demóstenes |
-| 141 | H2 | V.—La gran lección de gimnasia. |
-| 169 | H2 | VI.—La joven en el Congo africano |
-| 209 | H2 | VII—«En vano. ¡No tengo voluntad!» |
-| 243 | H2 | VIII.—Abstine! |
-| 273 | H2 | IX.—El racimo del ermitaño |
-| 287 | H2 | X,—«Diem perdidi!» |
-| 351 | H2 | XI—El galló del pintor japonés |
-| 391 | H2 | XII.—Sustine! |
-| 421 | H2 | XIII—Sufrir sin palabra de queja |
-| 501 | H2 | XIV—Obedecer sin réplica |
-| 537 | H2 | XV.—Perseverar sin mentir. |
-| 589 | H2 | XVII.—¿Vale la pena mentir? |
-| 625 | H2 | XVIII.—La palabra, atributo humano. |
-| 677 | H2 | XIX.—«¡Júralo!» |
-| 719 | H2 | XX.—Aggredere! |
-| 753 | H2 | XXI.—El poder de las pequeñeces |
-| 769 | H2 | XXII.—Gulliver, atado |
-| 823 | H2 | XXIII. —El cerrojo malo. |
-| 851 | H2 | XXIV. —El cabello de Absalón. |
-| 885 | H2 | XXV.—La observación y el cuidado |
-| 929 | H2 | XXVI.—El trabajo entusiasta. |
-| 997 | H2 | XXVII.—El deber. |
-| 1039 | H2 | XXVIII.—«Hoy no estoy de buen humor.» |
-| 1089 | H2 | XXIX.—La que nació tarde. |
-| 1143 | H2 | XXX.—«El reloj iba atrasado» |
-| 1205 | H2 | XXXI. —La estudiante pobre |
-| 1247 | H2 | XXXII. —Muchachas humildes. |
-| 1249 | H3 | Mujeres ilustres |
-| 1311 | H2 | XXXIII. — ¿Cuánto vale el tiempo? |
-| 1357 | H2 | XXXIV. —Veinte minutos = 12 millones de dólares |
-| 1397 | H2 | XXXV. —«Transeunt et imputantur» |
-| 1411 | H2 | XXXVI. —Cuando el pasado se trueca en presente |
-| 1447 | H2 | XXXVII. —«Non numeráhtur…» |
-| 1491 | H2 | XXXVIII. —Ars longa, vita brevis |
-| 1519 | H2 | XXXIX. —«Quieti, non otto» |
-| 1567 | H2 | XL. —¿Qué es lo más difícil en el mundo? |
-| 1741 | H2 | XLIS.—A los pies del Señor |
-| 1759 | H2 | XLIII.—«Gaudeamus igitur» |
-| 1803 | H2 | XLIV.—Juventud mía, vuelve y escucha |
-| 1841 | H2 | XLV.—¿Qué quieres ser? |
-| 1885 | H2 | XLVI.—Triste noche de Año Nuevo |
-| 1943 | H2 | DESPEDIDA |
-| 1973 | H2 | Notas al pie |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CAPÍTULO III |
+| H2 | MEDIOS DE FORMAR EL CARÁCTER |
+| H2 | I—¡Quiero! |
+| H2 | II.—«Podría, si quisiera» |
+| H2 | III—La joven voluntariosa |
+| H2 | IV.—Demóstenes |
+| H2 | V.—La gran lección de gimnasia. |
+| H2 | VI.—La joven en el Congo africano |
+| H2 | VII—«En vano. ¡No tengo voluntad!» |
+| H2 | VIII.—Abstine! |
+| H2 | IX.—El racimo del ermitaño |
+| H2 | X,—«Diem perdidi!» |
+| H2 | XI—El galló del pintor japonés |
+| H2 | XII.—Sustine! |
+| H2 | XIII—Sufrir sin palabra de queja |
+| H2 | XIV—Obedecer sin réplica |
+| H2 | XV.—Perseverar sin mentir. |
+| H2 | XVII.—¿Vale la pena mentir? |
+| H2 | XVIII.—La palabra, atributo humano. |
+| H2 | XIX.—«¡Júralo!» |
+| H2 | XX.—Aggredere! |
+| H2 | XXI.—El poder de las pequeñeces |
+| H2 | XXII.—Gulliver, atado |
+| H2 | XXIII. —El cerrojo malo. |
+| H2 | XXIV. —El cabello de Absalón. |
+| H2 | XXV.—La observación y el cuidado |
+| H2 | XXVI.—El trabajo entusiasta. |
+| H2 | XXVII.—El deber. |
+| H2 | XXVIII.—«Hoy no estoy de buen humor.» |
+| H2 | XXIX.—La que nació tarde. |
+| H2 | XXX.—«El reloj iba atrasado» |
+| H2 | XXXI. —La estudiante pobre |
+| H2 | XXXII. —Muchachas humildes. |
+| H3 | Mujeres ilustres |
+| H2 | XXXIII. — ¿Cuánto vale el tiempo? |
+| H2 | XXXIV. —Veinte minutos = 12 millones de dólares |
+| H2 | XXXV. —«Transeunt et imputantur» |
+| H2 | XXXVI. —Cuando el pasado se trueca en presente |
+| H2 | XXXVII. —«Non numeráhtur…» |
+| H2 | XXXVIII. —Ars longa, vita brevis |
+| H2 | XXXIX. —«Quieti, non otto» |
+| H2 | XL. —¿Qué es lo más difícil en el mundo? |
+| H2 | XLIS.—A los pies del Señor |
+| H2 | XLIII.—«Gaudeamus igitur» |
+| H2 | XLIV.—Juventud mía, vuelve y escucha |
+| H2 | XLV.—¿Qué quieres ser? |
+| H2 | XLVI.—Triste noche de Año Nuevo |
+| H2 | DESPEDIDA |
+| H2 | Notas al pie |

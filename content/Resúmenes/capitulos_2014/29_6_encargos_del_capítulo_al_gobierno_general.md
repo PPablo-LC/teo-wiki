@@ -64,6 +64,6 @@ Crear una comisión para analizar el adecuado uso de la psicología, reflexionan
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 6) Encargos del capítulo al gobierno general |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 6) Encargos del capítulo al gobierno general |

@@ -81,9 +81,9 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Diversas formas de celebrar la misa |
-| 3 | H3 | La concelebración |
-| 37 | H3 | Misa con un solo ministro |
-| 53 | H3 | Misas en la habitación de un legionario enfermo |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Diversas formas de celebrar la misa |
+| H3 | La concelebración |
+| H3 | Misa con un solo ministro |
+| H3 | Misas en la habitación de un legionario enfermo |

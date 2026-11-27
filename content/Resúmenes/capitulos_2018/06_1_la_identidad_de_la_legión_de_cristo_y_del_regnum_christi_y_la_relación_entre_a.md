@@ -79,6 +79,6 @@ tags: ["resumen", "capitulos 2018"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 1) La identidad de la Legión de Cristo y del Regnum Christi y la relación entre ambas realidades |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 1) La identidad de la Legión de Cristo y del Regnum Christi y la relación entre ambas realidades |

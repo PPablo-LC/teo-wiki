@@ -78,6 +78,6 @@ Para quitar la impaciencia hay que corregir la dinámica: tender a amar a Dios, 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | L’ADORAZIONE POSSIBILE |
+| Nivel | Sección |
+|-------|---------|
+| H1 | L’ADORAZIONE POSSIBILE |

@@ -35,8 +35,8 @@ A causa de las crecientes corrientes migratorias, la construcción de este futur
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Santa Francisca Xavier Cabrini, Patrona de los emigrantes |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Santa Francisca Xavier Cabrini, Patrona de los emigrantes |
 
 ## Secciones incluidas

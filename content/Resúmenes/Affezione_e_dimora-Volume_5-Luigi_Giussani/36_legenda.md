@@ -50,29 +50,29 @@ Al final de la Legenda se incluye el **Elenco de las *Tischreden* publicadas**: 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LEGENDA |
-| 3 | — | Capocasa |
-| 5 | — | Capogruppo |
-| 7 | — | Casa |
-| 9 | — | CLU |
-| 11 | — | Esercizi |
-| 13 | — | Giornata inizio/fine anno |
-| 15 | — | Memores Domini |
-| 17 | — | Noviziato |
-| 19 | — | Ora di silenzio |
-| 21 | — | Pomeriggio di silenzio |
-| 23 | — | Primo anno |
-| 25 | — | Professione |
-| 27 | — | Raduno della casa |
-| 29 | — | Regola |
-| 31 | — | Riferimento |
-| 33 | — | Scuola di Comunità |
-| 35 | — | Veglia |
-| 39 | — | Verifica |
-| 41 | — | Via M., via P., via S. |
-| 43 | — | Visitor |
-| 45 | — | Volantone (manifesto pasquale) |
-| 47 | — | Elenco de las Tischreden publicadas |
-| 59 | — | ELENCO ANALÍTICO DE LAS TISCHREDEN PUBLICADAS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LEGENDA |
+| — | Capocasa |
+| — | Capogruppo |
+| — | Casa |
+| — | CLU |
+| — | Esercizi |
+| — | Giornata inizio/fine anno |
+| — | Memores Domini |
+| — | Noviziato |
+| — | Ora di silenzio |
+| — | Pomeriggio di silenzio |
+| — | Primo anno |
+| — | Professione |
+| — | Raduno della casa |
+| — | Regola |
+| — | Riferimento |
+| — | Scuola di Comunità |
+| — | Veglia |
+| — | Verifica |
+| — | Via M., via P., via S. |
+| — | Visitor |
+| — | Volantone (manifesto pasquale) |
+| — | Elenco de las Tischreden publicadas |
+| — | ELENCO ANALÍTICO DE LAS TISCHREDEN PUBLICADAS |

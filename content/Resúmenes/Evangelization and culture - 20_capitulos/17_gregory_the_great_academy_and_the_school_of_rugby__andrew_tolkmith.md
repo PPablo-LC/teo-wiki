@@ -41,6 +41,6 @@ A pesar de ser una escuela pequeña, el equipo de rugby ha ganado varios campeon
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Gregory the Great Academy and the School of Rugby — Andrew Tolkmith |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Gregory the Great Academy and the School of Rugby — Andrew Tolkmith |

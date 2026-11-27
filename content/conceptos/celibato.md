@@ -83,6 +83,16 @@ ideología, la verdad de una vida fecunda sin hijos propios. Varios
 testimonios del libro —Prever, Tushnet, Mattson— confirman que el celibato
 vivido en amistad real es posible y gozoso.
 
+### Según *Life of Christ* (LCh, cap. 16)
+
+La ocasión es la réplica de los discípulos al rigor del Señor sobre el divorcio: «It is better not to marry at all» (Mt 19,11). Sheen subraya que el Señor no acepta esa conclusión como norma general: «That conclusion cannot be taken in by everybody, but only by those who have the gift», y distingue tres clases de eunucos —los de nacimiento, los hechos por los hombres y los que se hacen tales «for love of the Kingdom of Heaven»—, precisando que en el tercer caso no hay acto físico sino abnegación de la voluntad (cap. 16).
+
+Su formulación es exacta y evita dos errores: «Celibacy is recommended as a wiser way, but is not required of the majority», y a la vez «Marriage is honorable»; en ningún momento el Señor dijo que el matrimonio borrara el sentido espiritual, pero en la virginidad «the soul chooses Him as its exclusive Lover». Añade la ley de compensación que estructura todo el capítulo: si hay excesos de la carne, debe haber quienes renuncien incluso a goces legítimos; si hay desórdenes en la búsqueda de bienes, quienes practiquen la pobreza voluntaria; si hay soberbios, quienes no insistan en sus derechos.
+
+- El celibato no se presenta como desprecio del matrimonio: el mismo Pedro estaba casado y dejó a su mujer para predicar.
+- La doctrina se apoya después en 1 Cor 7,32-33, que contrapone la solicitud del soltero por las cosas del Señor y la del casado por las del mundo.
+- La renuncia es presentada como «gift» y como llamada, no como resultado de una evaluación pesimista del matrimonio.
+
 ## Distinciones importantes
 
 - **Celibato vs. castidad**: la castidad es virtud para todos; el celibato es un estado de vida que implica continencia perpetua

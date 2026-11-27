@@ -36,8 +36,8 @@ Invocamos a [[maría]], Reina de la Paz, para que la Iglesia llegue a ser cada v
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | El testimonio de Santa Catalina de Siena |
+| Nivel | Sección |
+|-------|---------|
+| H2 | El testimonio de Santa Catalina de Siena |
 
 ## Secciones incluidas

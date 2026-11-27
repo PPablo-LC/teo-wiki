@@ -49,7 +49,7 @@ Bishop Robert Barron dedica la Lección 9 completa ("El fuego de su amor") a la 
 
 **Fuego del amor (§331-360):** El amor divino es un "fuego que transforma el alma". San Juan de la Cruz describe la unión transformante como una llama de amor que purifica y diviniza. "El alma se siente abrasada por aquella llama de amor divino".
 
-> «La mística es la experiencia directa de Dios — no algo reservado a unos pocos, sino la culminación normal de la vida cristiana» (WoF, L9)
+> «La mística es la experiencia directa de Dios — no algo reservado a unos pocos, sino la culminación normal de la vida cristiana» (WoF)
 
 ## Distinciones importantes
 

@@ -22,6 +22,6 @@ Encabezado de sección «Otros», a modo de divisoria que agrupa los documentos 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Otros |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Otros |

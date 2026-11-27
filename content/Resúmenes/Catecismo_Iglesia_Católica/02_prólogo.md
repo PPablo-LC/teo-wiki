@@ -64,18 +64,18 @@ Se enuncia a continuación la apertura de la PRIMERA PARTE (LA PROFESIÓN DE LA 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 2 | H1 | PRÓLOGO |
-| 6 | H5 | I. La vida del hombre: conocer y amar a Dios |
-| 14 | H5 | II. Transmitir la fe: la catequesis |
-| 30 | H5 | III. Fin y destinatarios de este Catecismo |
-| 36 | H5 | IV. La estructura del "Catecismo de la Iglesia Católica" |
-| 56 | H5 | V. Indicaciones prácticas para el uso de este Catecismo |
-| 68 | H5 | VI. Las necesarias adaptaciones |
-| 76 | H5 | Por encima de todo, la Caridad |
-| 82 | H1 | PRIMERA PARTE |
-| 84 | H4 | LA PROFESIÓN DE LA FE |
-| 86 | H2 | PRIMERA SECCIÓN |
-| 88 | H4 | "CREO" - "CREEMOS" |
-| 95 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PRÓLOGO |
+| H5 | I. La vida del hombre: conocer y amar a Dios |
+| H5 | II. Transmitir la fe: la catequesis |
+| H5 | III. Fin y destinatarios de este Catecismo |
+| H5 | IV. La estructura del "Catecismo de la Iglesia Católica" |
+| H5 | V. Indicaciones prácticas para el uso de este Catecismo |
+| H5 | VI. Las necesarias adaptaciones |
+| H5 | Por encima de todo, la Caridad |
+| H1 | PRIMERA PARTE |
+| H4 | LA PROFESIÓN DE LA FE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | "CREO" - "CREEMOS" |
+| H3 | Referencias |

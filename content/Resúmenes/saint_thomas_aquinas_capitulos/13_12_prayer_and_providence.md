@@ -46,6 +46,6 @@ tags: ["resumen", "saint thomas aquinas capitulos"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 12. Prayer and Providence |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 12. Prayer and Providence |

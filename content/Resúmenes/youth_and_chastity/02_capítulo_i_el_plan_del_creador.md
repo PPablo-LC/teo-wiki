@@ -68,17 +68,17 @@ Y el asedio final: los libros, las imágenes, las obras de teatro, las película
 
 ## Mapa del archivo fuente
 
-| Archivo | Línea | Nivel | Sección |
-|---------|-------|-------|---------|
-| 01_the_two_lakes.md | 3 | H2 | THE TWO LAKES (parábola) |
-| 02_capitulo_i.md | 1 | H1 | Chapter I — The Plan of the Creator |
-| 02_capitulo_i.md | 5 | H2 | THE FIRST MAN AND WOMAN |
-| 02_capitulo_i.md | 13 | H2 | THE PLANS OF THE CREATOR |
-| 02_capitulo_i.md | 23 | H2 | THE ORIGIN OF LIFE |
-| 02_capitulo_i.md | 30 | H2 | MOTHER AND SON |
-| 02_capitulo_i.md | 71 | H2 | SACRED EARNESTNESS |
-| 02_capitulo_i.md | 99 | H2 | SINFUL BLUNDERING |
-| 02_capitulo_i.md | 113 | H2 | THE SACRED MYSTERY |
+| Archivo | Nivel | Sección |
+|---------|-------|---------|
+| 01_the_two_lakes.md | H2 | THE TWO LAKES (parábola) |
+| 02_capitulo_i.md | H1 | Chapter I — The Plan of the Creator |
+| 02_capitulo_i.md | H2 | THE FIRST MAN AND WOMAN |
+| 02_capitulo_i.md | H2 | THE PLANS OF THE CREATOR |
+| 02_capitulo_i.md | H2 | THE ORIGIN OF LIFE |
+| 02_capitulo_i.md | H2 | MOTHER AND SON |
+| 02_capitulo_i.md | H2 | SACRED EARNESTNESS |
+| 02_capitulo_i.md | H2 | SINFUL BLUNDERING |
+| 02_capitulo_i.md | H2 | THE SACRED MYSTERY |
 
 > **Nota de revisión (2026-10-02):** completado a partir de la
 > edición íntegra (`raw/Bases_doctrinales-raw/youth_and_chastity/`), que

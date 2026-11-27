@@ -63,6 +63,6 @@ Tras recorrer los signos evangélicos de su divinidad, la catequesis afirma que 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (JESUCRISTO: VERDADERO DIOS, SU AUTORIDAD) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (JESUCRISTO: VERDADERO DIOS, SU AUTORIDAD) |

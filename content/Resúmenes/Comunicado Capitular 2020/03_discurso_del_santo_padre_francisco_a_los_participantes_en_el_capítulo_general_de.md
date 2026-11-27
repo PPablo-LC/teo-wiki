@@ -49,6 +49,6 @@ El Papa exhorta a los miembros de los nuevos gobiernos a continuar el camino de 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Discurso del Santo Padre Francisco a los participantes en el Capítulo  |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Discurso del Santo Padre Francisco a los participantes en el Capítulo  |

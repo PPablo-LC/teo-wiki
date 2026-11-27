@@ -36,6 +36,6 @@ El autor cierra compartiendo su deseo de criar a sus cinco hijos rodeados de art
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Art: Icons, Not Idols — Cory Heimann |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Art: Icons, Not Idols — Cory Heimann |

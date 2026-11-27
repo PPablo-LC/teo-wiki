@@ -28,6 +28,6 @@ Este texto contiene ya los principales elementos definitorios de la Congregació
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Versión del año 1948 |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Versión del año 1948 |

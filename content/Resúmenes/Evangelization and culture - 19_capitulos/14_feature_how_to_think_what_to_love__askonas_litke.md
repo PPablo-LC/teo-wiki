@@ -79,10 +79,10 @@ Afortunadamente, ya hemos hecho este tipo de educación: fue el propósito origi
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | How to Think What to Love: Forming Students in an Age of AI — Dr. Jonathan Askonas and Dr. Justin Litke |
-| 7 | H2 | WHAT IS ARTIFICIAL INTELLIGENCE? (texto sin marcado) |
-| 27 | H2 | WHAT AI MEANS FOR THE UNIVERSITY |
-| 43 | H2 | THE RING OF CHATGPT |
-| 53 | H2 | CATHOLIC EDUCATION AS FORMATION |
+| Nivel | Sección |
+|-------|---------|
+| H1 | How to Think What to Love: Forming Students in an Age of AI — Dr. Jonathan Askonas and Dr. Justin Litke |
+| H2 | WHAT IS ARTIFICIAL INTELLIGENCE? (texto sin marcado) |
+| H2 | WHAT AI MEANS FOR THE UNIVERSITY |
+| H2 | THE RING OF CHATGPT |
+| H2 | CATHOLIC EDUCATION AS FORMATION |

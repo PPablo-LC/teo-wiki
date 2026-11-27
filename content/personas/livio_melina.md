@@ -74,7 +74,7 @@ matrimonio y la familia», en la que «la síntesis precede al análisis y lo gu
 ## Referencias
 
 - **Fuente**: [[priests_what_lies_ahead]] (PWL),
-  `05_iii_the_priest_as_physician_and_healer_of_wounds.md` (líneas 1-403).
+  `05_iii_the_priest_as_physician_and_healer_of_wounds.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.
 - **Obra propia**: [[building_a_culture_of_the_family]] (BCF),

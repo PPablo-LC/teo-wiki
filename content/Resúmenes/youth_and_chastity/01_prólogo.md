@@ -36,7 +36,7 @@ El autor no conoce el nombre del lector ni qué escuela frecuenta —pública, t
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | St. John's Seminary Library (datos de edición) |
-| 20 | H1 | FOREWORD |
+| Nivel | Sección |
+|-------|---------|
+| H1 | St. John's Seminary Library (datos de edición) |
+| H1 | FOREWORD |

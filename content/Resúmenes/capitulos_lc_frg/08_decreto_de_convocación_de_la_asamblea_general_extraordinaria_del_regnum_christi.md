@@ -42,9 +42,9 @@ Decreto del director general del [[regnum_christi]], P. Eduardo Robles-Gil (Prot
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Decreto de convocación de la Asamblea General extraordinaria del Regnu |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Decreto de convocación de la Asamblea General extraordinaria del Regnu |
 
 
 ## Secciones incluidas

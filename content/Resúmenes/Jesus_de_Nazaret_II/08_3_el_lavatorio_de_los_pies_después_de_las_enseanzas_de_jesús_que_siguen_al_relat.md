@@ -31,6 +31,6 @@ Jesús lava los pies: el himno de Flp 2 hecho gesto. El amor servicial es lo que
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 3. EL LAVATORIO DE LOS PIES Después de las enseñanzas de Jesús que sig |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 3. EL LAVATORIO DE LOS PIES Después de las enseñanzas de Jesús que sig |

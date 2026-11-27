@@ -73,9 +73,9 @@ Camino de oración, diálogo, discernimiento y estudio. Confianza en el Espírit
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Segunda sesión. Comunicado del Capítulo General extraordinario |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Segunda sesión. Comunicado del Capítulo General extraordinario |
 
 
 ## Secciones incluidas

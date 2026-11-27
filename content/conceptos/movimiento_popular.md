@@ -74,7 +74,7 @@ criterio del movimiento «no es político» (04, 61).
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `04_vivere_nella_gratuita.md` (línea 61) y
-  `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md` (líneas 31-37).
+  `04_vivere_nella_gratuita.md` y
+  `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

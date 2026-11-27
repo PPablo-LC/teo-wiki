@@ -37,6 +37,6 @@ Aunque la vida terrenal tiende a "estiércol y muerte", la crucifixión física 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Science: Grace Through Suffering: The Physical and Spiritual Crucifixi |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Science: Grace Through Suffering: The Physical and Spiritual Crucifixi |

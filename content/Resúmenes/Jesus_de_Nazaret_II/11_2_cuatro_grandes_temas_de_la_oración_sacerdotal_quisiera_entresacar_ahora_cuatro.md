@@ -30,6 +30,6 @@ tags: ["resumen", "jesus de nazaret ii"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. CUATRO GRANDES TEMAS DE LA ORACIÓN SACERDOTAL |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. CUATRO GRANDES TEMAS DE LA ORACIÓN SACERDOTAL |

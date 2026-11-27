@@ -27,6 +27,6 @@ Este archivo contiene la segunda parte del encabezado del Capítulo VIII («Otro
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | de piedad popular |
+| Nivel | Sección |
+|-------|---------|
+| H1 | de piedad popular |

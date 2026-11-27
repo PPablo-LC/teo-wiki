@@ -24,9 +24,9 @@ tags: ["resumen", "evangelization and culture - 9"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Southern Sacramental / Miracle |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Southern Sacramental / Miracle |
 
 ## Secciones incluidas
 

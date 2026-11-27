@@ -75,6 +75,6 @@ No eres tú quien porta a Cristo dentro de la realidad: te despiertas con hastí
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PRIMA C’È LA BELLEZZA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PRIMA C’È LA BELLEZZA |

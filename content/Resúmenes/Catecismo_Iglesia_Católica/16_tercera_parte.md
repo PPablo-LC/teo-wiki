@@ -106,28 +106,28 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | TERCERA PARTE |
-| 3 | H2 | PRIMERA SECCIÓN |
-| 4 | H4 | LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU |
-| 6 | H3 | CAPÍTULO SEGUNDO |
-| 8 | H4 | LA COMUNIDAD HUMANA |
-| 12 | H4 | ARTÍCULO 1 |
-| 14 | H4 | LA PERSONA Y LA SOCIEDAD |
-| 16 | H5 | I. Carácter comunitario de la vocación humana |
-| 34 | H5 | II. Conversión y la sociedad |
-| 46 | H5 | Resumen |
-| 62 | H4 | ARTÍCULO 2 |
-| 64 | H4 | LA PARTICIPACIÓN EN LA VIDA SOCIAL |
-| 66 | H5 | I. La autoridad |
-| 94 | H5 | II. El bien común |
-| 114 | H5 | III. Responsabilidad y participación |
-| 126 | H5 | Resumen |
-| 148 | H4 | ARTÍCULO 3 |
-| 150 | H4 | LA JUSTICIA SOCIAL |
-| 154 | H5 | I. El respeto de la persona humana |
-| 168 | H5 | II. Igualdad y diferencias entre los hombres |
-| 186 | H5 | III. La solidaridad humana |
-| 200 | H5 | Resumen |
-| 217 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | TERCERA PARTE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU |
+| H3 | CAPÍTULO SEGUNDO |
+| H4 | LA COMUNIDAD HUMANA |
+| H4 | ARTÍCULO 1 |
+| H4 | LA PERSONA Y LA SOCIEDAD |
+| H5 | I. Carácter comunitario de la vocación humana |
+| H5 | II. Conversión y la sociedad |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | LA PARTICIPACIÓN EN LA VIDA SOCIAL |
+| H5 | I. La autoridad |
+| H5 | II. El bien común |
+| H5 | III. Responsabilidad y participación |
+| H5 | Resumen |
+| H4 | ARTÍCULO 3 |
+| H4 | LA JUSTICIA SOCIAL |
+| H5 | I. El respeto de la persona humana |
+| H5 | II. Igualdad y diferencias entre los hombres |
+| H5 | III. La solidaridad humana |
+| H5 | Resumen |
+| H3 | Referencias |

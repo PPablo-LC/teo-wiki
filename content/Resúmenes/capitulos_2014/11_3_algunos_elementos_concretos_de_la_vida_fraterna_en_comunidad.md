@@ -107,6 +107,6 @@ Quien corrige proceda con auténtica caridad, prudencia, pureza de intención y 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 3) Algunos elementos concretos de la vida fraterna en comunidad |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 3) Algunos elementos concretos de la vida fraterna en comunidad |

@@ -36,6 +36,6 @@ Se extiende un agradecimiento especial al personal y la junta directiva de los M
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Word on Fire Institute Team |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Word on Fire Institute Team |

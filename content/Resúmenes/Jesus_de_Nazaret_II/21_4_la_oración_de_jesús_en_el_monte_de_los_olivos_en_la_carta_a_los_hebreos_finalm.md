@@ -27,6 +27,6 @@ Este forcejeo es el **ejercicio del sumo sacerdocio** de Jesús: con su gritar, 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 4. LA ORACIÓN DE JESÚS EN EL MONTE DE LOS OLIVOS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 4. LA ORACIÓN DE JESÚS EN EL MONTE DE LOS OLIVOS |

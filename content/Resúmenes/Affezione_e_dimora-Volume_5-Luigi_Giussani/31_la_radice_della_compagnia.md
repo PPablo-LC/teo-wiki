@@ -76,6 +76,6 @@ La pregunta más grande que se puede hacer por la propia compañía es que todos
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA RADICE DELLA COMPAGNIA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA RADICE DELLA COMPAGNIA |

@@ -29,9 +29,9 @@ Crisis actual: Benjamín Schmidt (*The Atlantic*) documenta la caída dramática
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | What We Stay Alive For: Dead Poets Society and the Crisis of the Humanities — Matthew Becklo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | What We Stay Alive For: Dead Poets Society and the Crisis of the Humanities — Matthew Becklo |
 
 ## Secciones incluidas
 

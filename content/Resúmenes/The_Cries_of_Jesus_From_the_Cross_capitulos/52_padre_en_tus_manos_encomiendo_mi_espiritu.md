@@ -29,7 +29,7 @@ Abel no respondió: nunca antes había estado tan silencioso. Le levantaron
 la mano y cayó flácida; miraron sus ojos, fríos, vidriosos, misteriosamente
 esquivos, y nunca habían sido tan insensibles. Entonces recordaron: «For in
 what day soever thou shalt eat of the tree, thou shalt die the death» (Gn
-2,17). *Fue la primera muerte del mundo* (L3).
+2,17). *Fue la primera muerte del mundo*.
 
 Siglos después, el nuevo Abel, Cristo, es muerto por sus celosos hermanos
 de la raza de Caín. La vida que salió del abismo sin fondo se prepara para
@@ -40,7 +40,7 @@ despedida de la tierra; la séptima, su entrada en el cielo. Como los
 grandes planetas que solo tras largo tiempo completan su órbita y vuelven
 al punto de partida, como para saludar a quien los envió, así el que vino
 del cielo, terminada su obra y completada su órbita, vuelve al Padre para
-saludarlo: «Father, into thy hands I commend my spirit» (Lc 23,46) (L5).
+saludarlo: «Father, into thy hands I commend my spirit» (Lc 23,46).
 
 ## El hijo pródigo vuelve a la casa del Padre
 
@@ -55,7 +55,7 @@ para comer sino las vainas de las burlas humanas y el vinagre y la hiel de
 la ingratitud. Ahora se prepara a tomar el camino de vuelta a la casa del
 Padre y, cuando aún está lejos y ve el rostro de su Padre celestial, prorrumpe
 en la última y perfecta oración desde el púlpito de la Cruz: «Father, into
-thy hands I commend my spirit» (L7).
+thy hands I commend my spirit».
 
 ## María entre Belén y el Calvario
 
@@ -74,10 +74,10 @@ nutrieron de la Eucaristía de su cuerpo; las manos que ya solo pueden
 abrazar una llaga, las manos pequeñas que no alcanzaban a tocar las grandes
 cabezas del ganado. El abrazo al pie de la Cruz parece el abrazo junto al
 pesebre. En aquella hora triste de muerte, que siempre hace pensar en el
-nacimiento, María puede sentir que Belén regresa (L9).
+nacimiento, María puede sentir que Belén regresa.
 
 La respuesta de Sheen, puesta en boca del pecador, corrige esa ilusión
-(L11-15): *No, María: Belén no ha vuelto.* No es el pesebre, sino la Cruz;
+: *No, María: Belén no ha vuelto.* No es el pesebre, sino la Cruz;
 no el nacimiento, sino la muerte; no el día de la compañía de pastores y
 reyes, sino la hora de morir con ladrones; no Belén, sino el Calvario. Belén
 es Jesús tal como la madre sin pecado lo dio a los hombres; el Calvario es
@@ -105,5 +105,6 @@ María.*
 ## Fuente original
 
 - Raw: `raw/Bases_doctrinales-raw/The_Cries_of_Jesus_From_the_Cross_capitulos/51_father_into_thy_hands_i_commend_my_spirit.md`
-- Líneas: L3-15 (comentario), L17 (nota de la obra de origen: *The Seven Last Words*)
-- Citas verificadas: `"For in what day soever thou shalt eat of the tree, thou shalt die the death"` (L3, Gn 2,17); `"Father, into thy hands I commend my spirit"` (L5 y L7, Lc 23,46); `"I have finished the work"` (L5); `"It was the first death in the world"` (L3); `"No, Mary! Bethlehem is not come back..."` (L11).
+- Citas verificadas en el capítulo:
+  - `"For in what day soever thou shalt eat of the tree, thou shalt die the death"` (Gn 2,17); `"Father, into thy hands I commend my spirit"` (Lc 23,46); `"I have finished the work"`; `"It was the first death in the world"`; `"No, Mary! Bethlehem is not come back..."`.
+

@@ -28,6 +28,6 @@ Las narraciones muestran la paradoja del Resucitado: los discípulos no lo recon
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. QUÉ SUCEDE EN LA RESURRECCIÓN DE JESÚS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. QUÉ SUCEDE EN LA RESURRECCIÓN DE JESÚS |

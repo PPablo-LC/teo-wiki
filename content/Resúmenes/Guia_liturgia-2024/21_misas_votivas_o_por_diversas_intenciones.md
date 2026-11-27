@@ -52,6 +52,6 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Misas votivas o por diversas intenciones |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Misas votivas o por diversas intenciones |

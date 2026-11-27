@@ -42,8 +42,8 @@ El optimismo fundamental de la doctrina tomista y salesiana parece el único ver
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Man |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Man |
 
 ## Secciones incluidas

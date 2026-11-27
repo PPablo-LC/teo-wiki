@@ -57,4 +57,4 @@ Emily H. Jeffries (profesora teología, autora fantasía infantil) ofrece **test
 
 ## Referencia original
 
-📄 Fuente original: `16_feature_jeffries.md` (línea 1–69)
+📄 Fuente original: `16_feature_jeffries.md`

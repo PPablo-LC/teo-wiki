@@ -24,8 +24,8 @@ La obra de Mons. Tóth ha sido adaptada específicamente para la juventud femeni
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ¿HABRÉ ACERTADO? |
+| Nivel | Sección |
+|-------|---------|
+| H1 | ¿HABRÉ ACERTADO? |
 
 ## Secciones incluidas

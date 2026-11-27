@@ -30,6 +30,6 @@ Los jóvenes son sensibles a descubrir su vocación a ser amigos y discípulos d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LOS ADOLESCENTES Y JÓVENES |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LOS ADOLESCENTES Y JÓVENES |

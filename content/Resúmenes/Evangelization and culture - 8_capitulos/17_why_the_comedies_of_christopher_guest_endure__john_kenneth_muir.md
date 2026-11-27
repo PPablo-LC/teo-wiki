@@ -38,9 +38,9 @@ Guest detesta el término «mockumentary» porque nadie es burlado: mejor comedi
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Why the Comedies of Christopher Guest Endure — John Kenneth Muir |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Why the Comedies of Christopher Guest Endure — John Kenneth Muir |
 
 ## Secciones incluidas
 

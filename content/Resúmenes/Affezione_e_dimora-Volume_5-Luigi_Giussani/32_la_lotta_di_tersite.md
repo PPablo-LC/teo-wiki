@@ -80,6 +80,6 @@ Simona observa que la pregunta se vuelve más fácil y casi obvia cuando se rede
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA LOTTA DI TERSITE |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA LOTTA DI TERSITE |

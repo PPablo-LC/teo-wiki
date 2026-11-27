@@ -71,17 +71,17 @@ hogares más pobres.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | V. MORIR DE CARIDAD PATERNAL |
-| 1-10 | — | Introducción: la caridad hasta el final |
-| 11-30 | H2 | San Vicente de Paúl |
-| 31-50 | H2 | San Jerónimo Emiliani |
-| 51-70 | H2 | San Camillo de Lelis |
-| 71-90 | H2 | San Juan de Dios |
-| 91-110 | H2 | San Martín de Porres |
-| 111-130 | H2 | San Giuseppe Benedetto Cottolengo |
-| 131-150 | H2 | San Luis Orione |
-| 151-170 | H2 | San Alberto Chmielowski |
-| 171-190 | H2 | San Damián de Veuster |
-| 191-210 | H2 | Annalena Tonelli |
+| Nivel | Sección |
+|-------|---------|
+| H1 | V. MORIR DE CARIDAD PATERNAL |
+| — | Introducción: la caridad hasta el final |
+| H2 | San Vicente de Paúl |
+| H2 | San Jerónimo Emiliani |
+| H2 | San Camillo de Lelis |
+| H2 | San Juan de Dios |
+| H2 | San Martín de Porres |
+| H2 | San Giuseppe Benedetto Cottolengo |
+| H2 | San Luis Orione |
+| H2 | San Alberto Chmielowski |
+| H2 | San Damián de Veuster |
+| H2 | Annalena Tonelli |

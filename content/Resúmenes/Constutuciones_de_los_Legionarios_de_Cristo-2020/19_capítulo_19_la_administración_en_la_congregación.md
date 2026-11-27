@@ -76,21 +76,21 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 19. La administración en la Congregación |
-| 3 | H5 | Capacidad de poseer y administrar |
-| 7 | H5 | Definición del patrimonio estable |
-| 11 | H5 | Finalidad de los bienes |
-| 25 | H5 | Obligaciones generales de los administradores |
-| 31 | H5 | Administración segura y eficiente |
-| 35 | H5 | Criterios de subordinación |
-| 39 | H5 | Actos de enajenación de bienes |
-| 49 | H5 | Actos de administración extraordinaria |
-| 61 | H5 | Administración según presupuesto |
-| 65 | H5 | Financiamiento y sustentabilidad |
-| 69 | H5 | Donaciones con cargas |
-| 73 | H5 | Criterios sobre adquisición de deudas |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Capítulo 19. La administración en la Congregación |
+| H5 | Capacidad de poseer y administrar |
+| H5 | Definición del patrimonio estable |
+| H5 | Finalidad de los bienes |
+| H5 | Obligaciones generales de los administradores |
+| H5 | Administración segura y eficiente |
+| H5 | Criterios de subordinación |
+| H5 | Actos de enajenación de bienes |
+| H5 | Actos de administración extraordinaria |
+| H5 | Administración según presupuesto |
+| H5 | Financiamiento y sustentabilidad |
+| H5 | Donaciones con cargas |
+| H5 | Criterios sobre adquisición de deudas |
 
 ## Secciones incluidas
 

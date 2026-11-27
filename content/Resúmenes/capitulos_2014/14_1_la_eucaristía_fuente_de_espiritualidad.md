@@ -41,6 +41,6 @@ En las comunidades este culto eucarístico se extiende a lo largo del día, con 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 1) La Eucaristía, fuente de espiritualidad |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 1) La Eucaristía, fuente de espiritualidad |

@@ -42,6 +42,6 @@ Piazza enfatiza que la verdadera grandeza no es la fama ni el dinero, sino el se
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Road of Faith to the Hall of Fame: The Odyssey of Mike Piazza — To |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Road of Faith to the Hall of Fame: The Odyssey of Mike Piazza — To |

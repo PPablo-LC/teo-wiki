@@ -60,16 +60,16 @@ En China, cuando muere una virgen, sus parientes tienen derecho a erigir un arco
 
 ## Mapa del archivo fuente
 
-| Archivo | Línea | Nivel | Sección |
-|---------|-------|-------|---------|
-| 08_capitulo_vii.md | 1 | H1 | Chapter VII — Radiant Soul, Sparkling Eyes |
-| 08_capitulo_vii.md | 5 | H2 | The Greatest Victory |
-| 08_capitulo_vii.md | 23 | H2 | "O, How Beautiful is the Chaste Generation." |
-| 08_capitulo_vii.md | 37 | H2 | What is Real Liberty? |
-| 08_capitulo_vii.md | 67 | H2 | Heaven on Earth |
-| 08_capitulo_vii.md | 75 | H2 | Remain Awake |
-| 08_capitulo_vii.md | 91 | H2 | So it Will Be—Will it Not? |
-| 08_capitulo_vii.md | 111 | H2 | The New Generation |
-| 08_capitulo_vii.md | 127 | H2 | Sacred Will |
+| Archivo | Nivel | Sección |
+|---------|-------|---------|
+| 08_capitulo_vii.md | H1 | Chapter VII — Radiant Soul, Sparkling Eyes |
+| 08_capitulo_vii.md | H2 | The Greatest Victory |
+| 08_capitulo_vii.md | H2 | "O, How Beautiful is the Chaste Generation." |
+| 08_capitulo_vii.md | H2 | What is Real Liberty? |
+| 08_capitulo_vii.md | H2 | Heaven on Earth |
+| 08_capitulo_vii.md | H2 | Remain Awake |
+| 08_capitulo_vii.md | H2 | So it Will Be—Will it Not? |
+| 08_capitulo_vii.md | H2 | The New Generation |
+| 08_capitulo_vii.md | H2 | Sacred Will |
 
 > Las secciones `A FATHERLY FRIEND`, `AT THE SOURCES OF NEW LIFE`, `THE LORD IS WITH ME` y `AND AFTER THAT... WHAT?` pertenecen al capítulo VI del raw y se resumen en `07_capítulo_vi_lucha_con_valentía.md`.

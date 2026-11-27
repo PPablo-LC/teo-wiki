@@ -31,6 +31,6 @@ tags: ["resumen", "capitulos 2014"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 5) Interiorización y acompañamiento en la vida de oración |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 5) Interiorización y acompañamiento en la vida de oración |

@@ -56,7 +56,6 @@ del cuidado (EnCourage).
 
 ## Referencias
 
-- **Fuente**: [[living_the_truth_in_love]] (LTL), `03_introduction.md`
-  (líneas 1-21) y `23_contributors.md`.
+- **Fuente**: [[living_the_truth_in_love]] (LTL), `03_introduction.md` y `23_contributors.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Living_the_Truth_in_Love/índice.md`.

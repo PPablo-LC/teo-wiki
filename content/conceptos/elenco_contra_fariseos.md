@@ -51,5 +51,5 @@ Se vincula con [[fariseísmo]], [[defensa_de_cristo]], [[cátedra_de_moisés]], 
 
 ## Referencias
 
-- CyF, `08_vi_la_defensa.md` L9; `09_vii_elenchus_contra_pharisaeos.md` L45-178; `16_apendice_ii_parabola_del_sepulcro_y_las_viboras.md` L3-47; `17_apendice_iii_sobre_tres_modos_catolicos_de_ver_la.md` L51-59.
+- CyF, `08_vi_la_defensa.md`; `09_vii_elenchus_contra_pharisaeos.md`; `16_apendice_ii_parabola_del_sepulcro_y_las_viboras.md`; `17_apendice_iii_sobre_tres_modos_catolicos_de_ver_la.md`.
 - Mt 23,1-39; Lc 11,37-54; CEC 1031, 2104, 2148.

@@ -21,6 +21,6 @@ El archivo es el rótulo de apertura de la **Parte IV** de la obra, titulada *Mi
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | **IV** - **MISTERO E SEGNO COINCIDONO** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | **IV** - **MISTERO E SEGNO COINCIDONO** |

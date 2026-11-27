@@ -79,8 +79,8 @@ Colección final de 36 avisos recogidos por la edición de Gerona:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | 6. Otros avisos recogidos por la edición de Gerona |
-| 80 | H2 | ¡Gracias por leer este libro de www.elejandria.com! |
-| 82 | H3 | Descubre nuestra colección de obras de dominio público en castellano e |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 6. Otros avisos recogidos por la edición de Gerona |
+| H2 | ¡Gracias por leer este libro de www.elejandria.com! |
+| H3 | Descubre nuestra colección de obras de dominio público en castellano e |

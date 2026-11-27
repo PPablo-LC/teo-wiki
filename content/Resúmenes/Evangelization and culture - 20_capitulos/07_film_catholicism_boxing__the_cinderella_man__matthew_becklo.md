@@ -39,6 +39,6 @@ El artículo concluye citando a san_pablo (1 Cor. 9:25–27), comparando la luch
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Film: Catholicism, Boxing & the "Cinderella Man" — Matthew Becklo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Film: Catholicism, Boxing & the "Cinderella Man" — Matthew Becklo |

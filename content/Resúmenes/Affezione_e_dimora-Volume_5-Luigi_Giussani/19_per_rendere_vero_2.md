@@ -63,6 +63,6 @@ El sacrificio es siempre el presentarse de un ser más grande, el emerger de una
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PER RENDERE VERO (2) |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PER RENDERE VERO (2) |

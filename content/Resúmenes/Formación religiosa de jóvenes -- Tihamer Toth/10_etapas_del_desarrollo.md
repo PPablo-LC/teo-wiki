@@ -112,15 +112,15 @@ Marcador del capítulo siguiente: **Educación para la vida sobrenatural**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ETAPAS DEL DESARROLLO |
-| 4 | H3 | Desarrollo de la sensibilidad |
-| 14 | H3 | Desarrollo de la memoria |
-| 20 | H3 | Desarrollo de la fantasía |
-| 28 | H3 | Desarrollo de la atención |
-| 45 | H3 | Desarrollo de la razón |
-| 64 | H3 | Desarrollo de la afectividad |
-| 77 | H3 | Desarrollo de la voluntad |
-| 107 | H3 | Educación de la voluntad |
-| 138 | H3 | Capítulo 9º |
+| Nivel | Sección |
+|-------|---------|
+| H1 | ETAPAS DEL DESARROLLO |
+| H3 | Desarrollo de la sensibilidad |
+| H3 | Desarrollo de la memoria |
+| H3 | Desarrollo de la fantasía |
+| H3 | Desarrollo de la atención |
+| H3 | Desarrollo de la razón |
+| H3 | Desarrollo de la afectividad |
+| H3 | Desarrollo de la voluntad |
+| H3 | Educación de la voluntad |
+| H3 | Capítulo 9º |

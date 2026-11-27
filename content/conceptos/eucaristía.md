@@ -532,6 +532,29 @@ La consagración es el momento en que el «Tengo sed» del Calvario se hace alim
 
 Sheen subraya la paradoja de la **felix culpa** —«He made our very crime a happy fault; He turned a Crucifixion into a Redemption»— y el lenguaje de la **divinización** como participación en la vida divina por gracia, no como identidad de sustancia. El pan y el vino son «of all things in nature, those which most represent the substance of life», y al ofrecerlos el cristiano se ofrece a sí mismo con Cristo (CAM, cap. 5).
 
+### Según *Life of Christ* (LCh, caps. 14-15)
+
+Sheen lee el discurso de Cafarnaún como el momento en que la Eucaristía **divide** a los seguidores de Cristo: «The announcement of the Eucharist cracked His followers wide open» (cap. 15). Calvario será la guerra caliente; este discurso, el comienzo de la guerra fría: «Calvary would be the physical Crucifixion; this was the social Crucifixion». Se pierden la masa —que quería un rey del pan, pues «His Kingship would be of hearts and souls, not digestive tracts» —, los sabios —que se van porque entienden, no porque no entiendan— y Judas, que «cracked» precisamente al oír la promesa del Pan.
+
+Su aportación exegética más útil es el **criterio de interpretación** que deduce del pasaje: cuando alguien entiende mal, el Señor corrige el malentendido (Nicodemo y el seno materno); cuando alguien entiende bien y rechaza, «He *repeated* what He said»; y en este discurso repitió cinco veces lo del cuerpo y la sangre (cap. 14). De ahí su conclusión: las palabras «were too literal» para que nadie pudiera decir que la Eucaristía es «a mere type or symbol».
+
+- El pan debe romperse: «It is My Flesh, given for the life of the world» (Jn 6,52); la palabra «dar» expresa el acto sacrificial y la carne sólo vivifica porque está unida a una Persona divina.
+- Comparación materna y su límite: toda madre puede decir «Eat, this is my body», pero en la Eucaristía la diferencia es la de Dios y el hombre, y Cristo tuvo que «dar» su vida antes de ser Pan de vida.
+- Contexto pascual: la sombra del cordero animal pasa y ocupa su lugar el verdadero Cordero de Dios.
+- Testamento: al morir deja lo que ningún hombre puede dejar, «His Body, Blood, Soul, and Divinity, for the life of the world».
+
+### Según *Life of Christ* (LCh, caps. 34, 36, 38-39)
+
+En la Última Cena Sheen subraya el contraste entre las dos palabras que instituyen el sacramento y las que lo explican. Ante el pan dice «This **is** My Body» (Lc 22,19), sin parábola ni comparación (cap. 36); y al mandar repetirlo añade la razón: «Do this for a commemoration of Me». El Memorial no nace de una ideología religiosa sino de una muerte anunciada: Cristo lo instituye «because He was to die», de modo que la Cena es el testamento de quien se sabe ejecutado al día siguiente.
+
+La **separación de las especies** recibe en LCh una lectura sacrificial precisa: el pan y el vino ofrecidos por separado significan la separación del Cuerpo y de la Sangre, y por tanto la muerte violenta; en el mismo gesto Cristo es a la vez «Priest and Victim» (cap. 36), y así lo que Malaquías anunció —«una oblación limpia en todo lugar» (Ml 1,11)— queda cumplido antes del Calvario. La presencia que resulta es cualitativamente nueva: «a new manner of Presence», la del Cristo glorificado, que no repite la Cruz sino que la hace memorialmente presente.
+
+Su aportación más original es la **escala de la comunión**: comulgar es recibir a una Persona, no asimilar una doctrina; los fundadores de religiones dejaron escritos que se leen, mientras que Cristo dejó un alimento que se come, y por eso sus discípulos son «actors, not readers» (cap. 36). De ahí que la Eucaristía sea también el punto de quiebre de Judas: el anuncio del Pan de Vida es «the beginning of his disillusionment» (cap. 38), y en la despedida del cap. 39 la carne que no se recibe «en espíritu y vida» (Jn 6,63) deja de aprovechar.
+
+- **Figura del grano de trigo** (cap. 34): el Pan de Vida sólo lo es después de caer en tierra y morir; la Eucaristía presupone el Calvario.
+- **Comunión y caridad** (cap. 36): el mandato de repetir el gesto une en un solo acto la unidad de los fieles, el sufrimiento ofrecido y el alimento del camino.
+- **Presencia y adoración** (cap. 36): el Memorial mira hacia atrás, a la Cruz; la fe que adora es la que reconoce en el pan al mismo Cristo glorificado.
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes

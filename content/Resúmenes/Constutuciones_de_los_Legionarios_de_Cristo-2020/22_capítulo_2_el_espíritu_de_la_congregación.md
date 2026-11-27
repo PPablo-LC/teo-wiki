@@ -74,19 +74,19 @@ El capítulo se abre con el fundamento evangélico y cristológico de la vida co
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 2. El espíritu de la Congregación |
-| 5 | H5 | Cristocentrismo |
-| 9 | H5 | El culto al Sagrado Corazón |
-| 13 | H5 | La caridad, corazón del espíritu de la Legión |
-| 17 | H5 | El Reino de Cristo |
-| 27 | H5 | Contemplativo y evangelizador |
-| 35 | H5 | Amor y docilidad al Espíritu Santo |
-| 39 | H5 | Amor a la Iglesia y al papa |
-| 49 | H5 | Amor a María |
-| 57 | H5 | Amor a la propia vocación |
-| 61 | H5 | Espíritu de cuerpo y comunión |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Capítulo 2. El espíritu de la Congregación |
+| H5 | Cristocentrismo |
+| H5 | El culto al Sagrado Corazón |
+| H5 | La caridad, corazón del espíritu de la Legión |
+| H5 | El Reino de Cristo |
+| H5 | Contemplativo y evangelizador |
+| H5 | Amor y docilidad al Espíritu Santo |
+| H5 | Amor a la Iglesia y al papa |
+| H5 | Amor a María |
+| H5 | Amor a la propia vocación |
+| H5 | Espíritu de cuerpo y comunión |
 
 ## Secciones incluidas
 

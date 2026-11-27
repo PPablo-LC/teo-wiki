@@ -20,7 +20,7 @@ El diálogo del apéndice V plantea la cuestión con crudeza: una apostasía gen
 
 La respuesta de Mungué apela a las cuatro notas: «la Iglesia siempre se distinguirá de las sectas por sus cuatro notas: una, santa, católica y apostólica»; el rabino replica, con frase célebre, «Ni los faros se ven bien en tiempo de niebla», lo que provoca la acusación de «herejía protestante... el error de la Iglesia invisible». La fuente mantiene aquí la tensión y no decide la cuestión: distingue la indefectibilidad de la Iglesia de la santidad moral de sus miembros ([[cátedra_de_moisés]], [[iglesia]]).
 
-El apéndice II conecta la apostasía con la «abominación de la desolación» (Dn 9,27; Mt 24,15): el fariseísmo deicida que se sienta en el Templo, el velo rasgado, el Anticristo en el lugar santo (2 Tes 2,4) y el «gran receso». La advertencia se dirige a la Iglesia: «Si la Iglesia suplanta con la Ley, la norma, la rutina, la juridicidad y la política... a la Justicia y a la Caridad, está lista» (CyF, apéndice II L37-49).
+El apéndice II conecta la apostasía con la «abominación de la desolación» (Dn 9,27; Mt 24,15): el fariseísmo deicida que se sienta en el Templo, el velo rasgado, el Anticristo en el lugar santo (2 Tes 2,4) y el «gran receso». La advertencia se dirige a la Iglesia: «Si la Iglesia suplanta con la Ley, la norma, la rutina, la juridicidad y la política... a la Justicia y a la Caridad, está lista» (CyF, apéndice II).
 
 Los siete grados del fariseísmo describen el proceso de desecación: de la exterioridad al oficio, del negocio a la dureza, de la hipocresía a la persecución y al sacrilegio ([[fariseísmo]]). «Corruptio optimi pessima»: la corrupción de lo mejor —la religiosidad— no tiene remedio humano, y cuando ha ocurrido, «Dios lo ha curado, pero alguien lo ha pagado con su sangre, desde Cristo hasta Juana de Arco».
 
@@ -51,5 +51,5 @@ Se relaciona con [[fariseísmo]], [[cátedra_de_moisés]], [[iglesia]], [[pecado
 
 ## Referencias
 
-- CyF, `16_apendice_ii_parabola_del_sepulcro_y_las_viboras.md` L25-49; `19_apendice_v_el_retiro_de_la_iglesia.md` L3-103.
+- CyF, `16_apendice_ii_parabola_del_sepulcro_y_las_viboras.md`; `19_apendice_v_el_retiro_de_la_iglesia.md`.
 - 2 Tes 2,3-11; Lc 18,8; Mt 24,15; CEC 675-678, 2084-2089; LG 25, 39.

@@ -77,7 +77,7 @@ como germen del Forum delle associazioni familiari (1993).
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md` (líneas 31-37) y
-  `12_storia_di_un_opera_famiglie_per_l_accoglienza.md` (línea 79).
+  `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md` y
+  `12_storia_di_un_opera_famiglie_per_l_accoglienza.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

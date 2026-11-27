@@ -117,6 +117,18 @@ En los *Esercizi spirituali* de la Fraternità di Comunione e Liberazione (1994-
 
 Melina (Introducción, Conclusión) presenta el Espíritu Santo como protagonista de la acción cristiana: los frutos del Espíritu son la perfecta expresión de la sinergia entre Dios y la persona espiritual que vive en la caridad. El Espíritu, don no creado, se introduce en el dinamismo de nuestra acción y la transforma. La acción es epifanía de un amor siempre mayor, con el Espíritu como protagonista.
 
+### Según *Life of Christ* (LCh, cap. 39)
+
+La despedida del cap. 39 es la exposición más extensa que Sheen dedica al Espíritu, y su eje es la **distinción de Personas** dentro de la unidad de naturaleza: cuando Cristo promete «otro Paráclito» (Jn 14,16), el término «otro» exige que el que viene no sea el mismo que lo envía, y el hecho de que el Padre lo envíe en nombre del Hijo y el Hijo lo envíe de junto al Padre (Jn 14,26; 16,7) muestra que procede de ambos y no es una fuerza impersonal.
+
+El nombre escogido —Paráclito— no significa sólo consolador, sino abogado llamado al lado; Sheen lo traduce como el que se pone al lado para defender, y lo une a la promesa de que no dejará huérfanos a los suyos. Su venida no añade una revelación nueva, sino que **introduce en la Verdad entera** (Jn 16,13): la economía cristiana no es un depósito cerrado ni un progreso sin regla, sino la inteligencia creciente de lo ya revelado en Cristo, que es la Verdad en persona.
+
+Su misión se despliega en tres acusaciones, como un proceso inverso al de Cristo: convence al mundo de **pecado** —el pecado por antonomasia es no creer en el Enviado—, de **justicia** —la del que vuelve al Padre y ya no está a la vista de los tribunales humanos— y de **juicio** —el príncipe de este mundo ya ha sido juzgado (Jn 16,8-11; cap. 39). La misma lógica había aparecido antes: en la voz del Padre sobre el templo, donde la teofanía no es para Cristo sino para los que lo rodean (cap. 34).
+
+- **Espíritu y Encarnación**: el mismo que formó la humanidad del Verbo habita ahora en los bautizados; la promesa de Ez 36,26-27 se cumple en el corazón de carne.
+- **Espíritu y oración**: el Paráclito no sustituye la oración de Cristo, la continúa, y hace posible el «Abbá» de los hijos.
+- **Espíritu y martirio**: la fortaleza en las persecuciones es el testimonio del que habla en los que son llevados ante los tribunales.
+
 ## Distincioni importanti
 
 - No es una "fuerza" impersonal sino una Persona divina

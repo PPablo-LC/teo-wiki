@@ -34,8 +34,8 @@ Amar al [[prójimo]] en Dios es amarlo en su vocación, en la llamada de Dios qu
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Others |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Others |
 
 ## Secciones incluidas

@@ -35,8 +35,8 @@ No se puede «engañar a los siglos». La verdad es vasta y profunda como el ser
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Truth |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Truth |
 
 ## Secciones incluidas

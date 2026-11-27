@@ -28,6 +28,6 @@ No ha querido escribir una «Vida de Jesús» (remite a Gnilka y Meier) ni una c
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PRÓLOGO Puedo presentar finalmente al público la segunda parte de mi libro |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PRÓLOGO Puedo presentar finalmente al público la segunda parte de mi libro |

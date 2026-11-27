@@ -36,6 +36,6 @@ Jesús funde además Daniel con Sal 110 (sentado a la derecha de Dios), Sal 118 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. EL HIJO DEL HOMBRE Hijo del hombre: esta misteriosa expresión es el |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. EL HIJO DEL HOMBRE Hijo del hombre: esta misteriosa expresión es el |

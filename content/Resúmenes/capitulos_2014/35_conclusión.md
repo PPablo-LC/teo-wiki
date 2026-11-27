@@ -31,6 +31,6 @@ A inicios del 2001, Juan Pablo II, con su palabra profética, puso de relieve al
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Conclusión |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Conclusión |

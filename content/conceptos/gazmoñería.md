@@ -12,7 +12,7 @@ tags: ["moral", "espiritualidad", "castidad", "fariseísmo", "leonardo_castellan
 
 ## Definición
 
-La gazmoñería —o pudibundería— es la afectación de recato que proyecta «una sombra de maldición sobre todo lo carnal, como si no hubieran nacido de madre». Castellani la tiene por «un típico signo farisaico» y añade que «no es señal de gran castidad, al contrario» (CyF, cap. II L39; [[fariseísmo]]).
+La gazmoñería —o pudibundería— es la afectación de recato que proyecta «una sombra de maldición sobre todo lo carnal, como si no hubieran nacido de madre». Castellani la tiene por «un típico signo farisaico» y añade que «no es señal de gran castidad, al contrario» (CyF, cap. II; [[fariseísmo]]).
 
 ## Desarrollo doctrinal
 
@@ -20,7 +20,7 @@ El capítulo II la describe junto al desprecio de las mujeres: «Afectan conside
 
 La gazmoñería es una de las [[virtudes_puritanas]]: una virtud aparente que ha perdido la caridad. En el capítulo XII, el puritanismo británico que encarcela a Oscar Wilde es su forma cultural: el ídolo de la Moral se opone al ídolo de la Belleza, y ambos son ídolos ([[ídolo]]). La carta sobre la castidad retoma el tema con la distinción ignaciana entre virtudes verdaderas y falsas y con la advertencia de que la represión exagerada «pueriliza» (CyF, carta III; [[sublimación_de_los_afectos]]).
 
-Frente a la gazmoñería, Cristo «se jugó por una mujer, y de mala fama por añadidura», lo que para los sacerdotes de su tiempo significaba «el descrédito total como sacerdote» (CyF, cap. II L33-37). La castidad evangélica no huye del cuerpo ni de la persona, sino que los ordena al amor ([[castidad_religiosa]], [[cristo_amigo_de_pecadores]]).
+Frente a la gazmoñería, Cristo «se jugó por una mujer, y de mala fama por añadidura», lo que para los sacerdotes de su tiempo significaba «el descrédito total como sacerdote» (CyF, cap. II). La castidad evangélica no huye del cuerpo ni de la persona, sino que los ordena al amor ([[castidad_religiosa]], [[cristo_amigo_de_pecadores]]).
 
 ## Perspectivas por fuente
 
@@ -49,5 +49,5 @@ Se vincula con [[fariseísmo]], [[virtudes_puritanas]], [[castidad_religiosa]], 
 
 ## Referencias
 
-- CyF, `04_ii_el_dulce_nazareno.md` L33-47; `11_ix_las_mujeres.md`; `14_xii_la_carcel_de_oscar_wilde.md` L39-63; `23_sobre_la_castidad.md`.
+- CyF, `04_ii_el_dulce_nazareno.md`; `11_ix_las_mujeres.md`; `14_xii_la_carcel_de_oscar_wilde.md`; `23_sobre_la_castidad.md`.
 - CEC 364, 1694-1695, 2332-2341, 2521-2527; GS 47; LG 4.

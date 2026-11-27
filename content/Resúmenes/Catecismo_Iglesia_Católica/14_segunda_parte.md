@@ -103,26 +103,26 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SEGUNDA PARTE |
-| 3 | H2 | SEGUNDA SECCIÓN |
-| 4 | H4 | LOS SIETE SACRAMENTOS DE LA IGLESIA |
-| 6 | H3 | CAPÍTULO CUARTO |
-| 8 | H4 | OTRAS CELEBRACIONES LITÚRGICAS |
-| 10 | H4 | ARTÍCULO 1 |
-| 12 | H4 | LOS SACRAMENTALES |
-| 16 | H5 | Características de los sacramentales |
-| 24 | H5 | Diversas formas de sacramentales |
-| 32 | H5 | La religiosidad popular |
-| 42 | H5 | Resumen |
-| 50 | H4 | ARTÍCULO 2 |
-| 52 | H4 | LAS EXEQUIAS CRISTIANAS |
-| 56 | H5 | I. La última Pascua del cristiano |
-| 64 | H5 | II. La celebración de las exequias |
-| 82 | H1 | TERCERA PARTE |
-| 84 | H4 | LA VIDA EN CRISTO |
-| 122 | H1 | TERCERA PARTE |
-| 124 | H2 | PRIMERA SECCIÓN |
-| 126 | H4 | LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU |
-| 133 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | SEGUNDA PARTE |
+| H2 | SEGUNDA SECCIÓN |
+| H4 | LOS SIETE SACRAMENTOS DE LA IGLESIA |
+| H3 | CAPÍTULO CUARTO |
+| H4 | OTRAS CELEBRACIONES LITÚRGICAS |
+| H4 | ARTÍCULO 1 |
+| H4 | LOS SACRAMENTALES |
+| H5 | Características de los sacramentales |
+| H5 | Diversas formas de sacramentales |
+| H5 | La religiosidad popular |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | LAS EXEQUIAS CRISTIANAS |
+| H5 | I. La última Pascua del cristiano |
+| H5 | II. La celebración de las exequias |
+| H1 | TERCERA PARTE |
+| H4 | LA VIDA EN CRISTO |
+| H1 | TERCERA PARTE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU |
+| H3 | Referencias |

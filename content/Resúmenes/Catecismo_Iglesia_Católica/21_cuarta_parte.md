@@ -293,36 +293,36 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CUARTA PARTE |
-| 2 | H4 | LA ORACIÓN CRISTIANA |
-| 4 | H2 | PRIMERA SECCIÓN |
-| 5 | H4 | LA ORACIÓN EN LA VIDA CRISTIANA |
-| 7 | H3 | CAPÍTULO PRIMERO |
-| 9 | H4 | LA REVELACIÓN DE LA ORACIÓN |
-| 17 | H4 | ARTÍCULO 1 |
-| 19 | H4 | EN EL ANTIGUO TESTAMENTO |
-| 23 | H5 | La creación, fuente de la oración |
-| 29 | H5 | La Promesa y la oración de la fe |
-| 39 | H5 | Moisés y la oración del mediador |
-| 49 | H5 | David y la oración del rey |
-| 57 | H5 | Elías, los profetas y la conversión del corazón |
-| 71 | H5 | Los Salmos, oración de la asamblea |
-| 85 | H5 | Resumen |
-| 103 | H4 | ARTÍCULO 2 |
-| 105 | H4 | EN LA PLENITUD DE LOS TIEMPOS |
-| 109 | H5 | Jesús ora |
-| 131 | H5 | Jesús enseña a orar |
-| 157 | H5 | Jesús escucha la oración |
-| 163 | H5 | La oración de la Virgen María |
-| 171 | H5 | Resumen |
-| 179 | H4 | ARTÍCULO 3 |
-| 181 | H4 | EN EL TIEMPO DE LA IGLESIA |
-| 189 | H5 | I. La bendición y la adoración |
-| 197 | H5 | II. La oración de petición |
-| 209 | H5 | III. La oración de intercesión |
-| 217 | H5 | IV. La oración de acción de gracias |
-| 223 | H5 | V. La oración de alabanza |
-| 235 | H5 | Resumen |
-| 252 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CUARTA PARTE |
+| H4 | LA ORACIÓN CRISTIANA |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA ORACIÓN EN LA VIDA CRISTIANA |
+| H3 | CAPÍTULO PRIMERO |
+| H4 | LA REVELACIÓN DE LA ORACIÓN |
+| H4 | ARTÍCULO 1 |
+| H4 | EN EL ANTIGUO TESTAMENTO |
+| H5 | La creación, fuente de la oración |
+| H5 | La Promesa y la oración de la fe |
+| H5 | Moisés y la oración del mediador |
+| H5 | David y la oración del rey |
+| H5 | Elías, los profetas y la conversión del corazón |
+| H5 | Los Salmos, oración de la asamblea |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | EN LA PLENITUD DE LOS TIEMPOS |
+| H5 | Jesús ora |
+| H5 | Jesús enseña a orar |
+| H5 | Jesús escucha la oración |
+| H5 | La oración de la Virgen María |
+| H5 | Resumen |
+| H4 | ARTÍCULO 3 |
+| H4 | EN EL TIEMPO DE LA IGLESIA |
+| H5 | I. La bendición y la adoración |
+| H5 | II. La oración de petición |
+| H5 | III. La oración de intercesión |
+| H5 | IV. La oración de acción de gracias |
+| H5 | V. La oración de alabanza |
+| H5 | Resumen |
+| H3 | Referencias |

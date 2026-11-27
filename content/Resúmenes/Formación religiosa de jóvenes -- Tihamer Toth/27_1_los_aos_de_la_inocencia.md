@@ -43,6 +43,6 @@ Como en los primeros años de vida, también durante la niñez, los padres han d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. Los años de la inocencia |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. Los años de la inocencia |

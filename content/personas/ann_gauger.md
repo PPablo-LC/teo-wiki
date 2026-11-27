@@ -25,7 +25,7 @@ En su labor científica, defiende que la biología molecular ofrece evidencias d
 
 ### Según Evangelization & Culture (EAC-20)
 
-Gauger describe su conversión: la belleza de la naturaleza la convenció de un Creador [EAC-20, 22_mission_gauger, L17-19]. En su etapa sectaria, la oración «Señor, muéstrame la verdad» fue respondida con «Por sus frutos los conoceréis» [EAC-20, 22_mission_gauger, L33-49]. Sobre el diseño inteligente, afirma: «La evidencia de la biología no conduce a un creador sobrenatural eterno, pero nos pone en el borde» [EAC-20, 22_mission_gauger, L69-73]. Su libro reúne a eruditos católicos para mostrar cómo el diseño inteligente «se ajusta hermosamente con nuestra fe recibida» [EAC-20, 22_mission_gauger, L73-77].
+Gauger describe su conversión: la belleza de la naturaleza la convenció de un Creador [EAC-20, 22_mission_gauger]. En su etapa sectaria, la oración «Señor, muéstrame la verdad» fue respondida con «Por sus frutos los conoceréis» [EAC-20, 22_mission_gauger]. Sobre el diseño inteligente, afirma: «La evidencia de la biología no conduce a un creador sobrenatural eterno, pero nos pone en el borde» [EAC-20, 22_mission_gauger]. Su libro reúne a eruditos católicos para mostrar cómo el diseño inteligente «se ajusta hermosamente con nuestra fe recibida» [EAC-20, 22_mission_gauger].
 
 ## Distinciones importantes
 

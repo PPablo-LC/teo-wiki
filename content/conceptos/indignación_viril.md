@@ -12,7 +12,7 @@ tags: ["moral", "espiritualidad", "cristología", "virtudes", "leonardo_castella
 
 ## Definición
 
-La «indignación viril» es la reacción justa y enérgica ante el pecado y la injusticia, especialmente ante la profanación de lo sacro. Castellani la defiende como virtud cristiana: «Suprimid la indignación viril en Cristo y suprimís su virilidad. La indignación viril queda borrada de la lista de las virtudes cristianas. Y la indignación justa, con todos sus gestos y sus efectos, es una virtud» (CyF, cap. II L31).
+La «indignación viril» es la reacción justa y enérgica ante el pecado y la injusticia, especialmente ante la profanación de lo sacro. Castellani la defiende como virtud cristiana: «Suprimid la indignación viril en Cristo y suprimís su virilidad. La indignación viril queda borrada de la lista de las virtudes cristianas. Y la indignación justa, con todos sus gestos y sus efectos, es una virtud» (CyF, cap. II).
 
 ## Desarrollo doctrinal
 
@@ -51,5 +51,5 @@ Se vincula con [[cristo]], [[fariseísmo]], [[defensa_de_cristo]], [[elenco_cont
 
 ## Referencias
 
-- CyF, `04_ii_el_dulce_nazareno.md` L25-31, L87-103; `08_vi_la_defensa.md`; `09_vii_elenchus_contra_pharisaeos.md`; `14_xii_la_carcel_de_oscar_wilde.md` L190-228; `17_apendice_iii_sobre_tres_modos_catolicos_de_ver_la.md` L51-59.
+- CyF, `04_ii_el_dulce_nazareno.md`; `08_vi_la_defensa.md`; `09_vii_elenchus_contra_pharisaeos.md`; `14_xii_la_carcel_de_oscar_wilde.md`; `17_apendice_iii_sobre_tres_modos_catolicos_de_ver_la.md`.
 - CEC 1767, 1771, 583, 2302-2303; S. Th. I-II q. 46; II-II q. 36 y 157; Mt 5,5; Jn 2,13-22.

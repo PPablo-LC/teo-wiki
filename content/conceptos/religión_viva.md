@@ -55,5 +55,5 @@ Se opone a [[fariseísmo]] y [[deshumanización_de_la_religión]]; se apoya en [
 
 ## Referencias
 
-- CyF, `00_portada.md` L9; `02_prologo.md` L19-27; `04_ii_el_dulce_nazareno.md` L25-31; `08_vi_la_defensa.md` L37-43; `17_apendice_iii_sobre_tres_modos_catolicos_de_ver_la.md` L63-75; `19_apendice_v_el_retiro_de_la_iglesia.md` L103.
+- CyF, `00_portada.md`; `02_prologo.md`; `04_ii_el_dulce_nazareno.md`; `08_vi_la_defensa.md`; `17_apendice_iii_sobre_tres_modos_catolicos_de_ver_la.md`; `19_apendice_v_el_retiro_de_la_iglesia.md`.
 - CEC 1814-1815, 1822-1829; Gal 5,6; Sant 1,22-27; LG 39-42; GS 38.

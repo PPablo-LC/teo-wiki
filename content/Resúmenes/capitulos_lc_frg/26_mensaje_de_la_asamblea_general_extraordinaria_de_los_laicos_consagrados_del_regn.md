@@ -60,9 +60,9 @@ Se confía en el camino por recorrer, se reitera el agradecimiento por el testim
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Mensaje de la Asamblea General extraordinaria de los Laicos Consagrado |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Mensaje de la Asamblea General extraordinaria de los Laicos Consagrado |
 
 
 ## Secciones incluidas

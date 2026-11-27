@@ -32,6 +32,6 @@ Ante la falsa visión, tan difundida en nuestros días, de una incompatibilidad 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LAS UNIVERSIDADES Y CENTROS SUPERIORES DE EDUCACIÓN CATÓLICA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LAS UNIVERSIDADES Y CENTROS SUPERIORES DE EDUCACIÓN CATÓLICA |

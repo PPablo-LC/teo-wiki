@@ -26,6 +26,6 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Comunión fuera de la misa |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Comunión fuera de la misa |

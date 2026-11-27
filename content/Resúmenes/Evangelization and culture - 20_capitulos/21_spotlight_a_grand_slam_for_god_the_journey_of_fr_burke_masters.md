@@ -41,6 +41,6 @@ La historia de Masters es un testimonio de cómo la fe y la escucha de Dios pued
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Spotlight: A Grand Slam for God: The Journey of Fr. Burke Masters |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Spotlight: A Grand Slam for God: The Journey of Fr. Burke Masters |

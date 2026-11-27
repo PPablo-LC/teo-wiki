@@ -41,9 +41,9 @@ Consejo ante los desiertos espirituales: conocer mejor la propia tradición; la 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Journey of Tim Westermeyer |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Journey of Tim Westermeyer |
 
 ## Secciones incluidas
 

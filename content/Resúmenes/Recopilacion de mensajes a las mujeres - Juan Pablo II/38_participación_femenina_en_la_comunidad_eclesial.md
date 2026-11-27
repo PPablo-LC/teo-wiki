@@ -37,8 +37,8 @@ La Virgen Santísima, modelo de la Iglesia e ideal de la femineidad, acompañe l
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Participación femenina en la comunidad eclesial |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Participación femenina en la comunidad eclesial |
 
 ## Secciones incluidas

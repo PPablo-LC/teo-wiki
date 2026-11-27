@@ -41,4 +41,4 @@ Poema breve de 6 estrofas en tono ligero pero con filo teológico:
 
 ## Referencia original
 
-📄 Fuente original: `13_poetry_chesterton.md` (línea 1–9)
+📄 Fuente original: `13_poetry_chesterton.md`

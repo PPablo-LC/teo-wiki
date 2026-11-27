@@ -48,4 +48,4 @@ tags: ["resumen", "espiritualidad_legionaria", "decreto_promulgación", "protege
 
 ## Referencia original
 
-📄 Fuente original: `03_03_decreto_promulgacion.md` (línea 1–21)
+📄 Fuente original: `03_03_decreto_promulgacion.md`

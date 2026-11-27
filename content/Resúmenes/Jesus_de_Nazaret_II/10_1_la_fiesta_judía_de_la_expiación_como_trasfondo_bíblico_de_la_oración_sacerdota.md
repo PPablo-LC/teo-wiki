@@ -28,6 +28,6 @@ Sobre la relación con la Eucaristía: no puede leerse Jn 17 como una «plegaria
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. LA FIESTA JUDÍA DE LA EXPIACIÓN COMO TRASFONDO BÍBLICO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. LA FIESTA JUDÍA DE LA EXPIACIÓN COMO TRASFONDO BÍBLICO |

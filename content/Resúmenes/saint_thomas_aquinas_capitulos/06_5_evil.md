@@ -42,6 +42,6 @@ tags: ["resumen", "saint thomas aquinas capitulos"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 5. Evil |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 5. Evil |

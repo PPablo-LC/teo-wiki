@@ -38,6 +38,6 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Liturgia de las horas dentro de la adoración eucarística |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Liturgia de las horas dentro de la adoración eucarística |

@@ -22,6 +22,6 @@ Este archivo es el encabezado de sección que introduce los apéndices del comun
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | APÉNDICE |
+| Nivel | Sección |
+|-------|---------|
+| H1 | APÉNDICE |

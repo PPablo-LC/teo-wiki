@@ -47,10 +47,10 @@ Marcador del capítulo siguiente: **Valor pedagógico de la Santa Comunión**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | VALOR EDUCATIVO DEL SACRAMENTO DE LA RECONCILIACIÓN |
-| 47 | H3 | El psicoanálisis frente a la confesión |
-| 92 | H3 | El arte de confesar bien |
-| 137 | H3 | Dirección espiritual mediante la confesión frecuente |
-| 224 | H3 | Capítulo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | VALOR EDUCATIVO DEL SACRAMENTO DE LA RECONCILIACIÓN |
+| H3 | El psicoanálisis frente a la confesión |
+| H3 | El arte de confesar bien |
+| H3 | Dirección espiritual mediante la confesión frecuente |
+| H3 | Capítulo |

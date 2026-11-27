@@ -77,6 +77,6 @@ Firma: P. John Connor, L.C. (director general) y P. Jaime Rodríguez, L.C. (secr
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Decreto capitular |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Decreto capitular |

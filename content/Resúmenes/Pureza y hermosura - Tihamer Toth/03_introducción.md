@@ -26,10 +26,10 @@ La **Introducción** presenta la alegoría de los dos lagos como imagen del alma
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Introducción |
-| 3 | H2 | Los dos lagos |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Introducción |
+| H2 | Los dos lagos |
 
 ## Secciones incluidas
 

@@ -26,9 +26,9 @@ Sección de encabezado que agrupa los comunicados oficiales emanados de la [[con
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Comunicados de la Asamblea General extraordinaria de las Consagradas |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Comunicados de la Asamblea General extraordinaria de las Consagradas |
 
 
 ## Secciones incluidas

@@ -63,10 +63,10 @@ En muchas propuestas se constató que ya estaban contenidas en la legislación p
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Soportó la cruz y está a la derecha del Padre |
-| 5 | H3 | Esbozo de una lectura bíblica de nuestra historia |
-| 17 | H3 | Consideraciones sobre la reconciliación |
-| 32 | H3 | Actualización de «Proteger y sanar» |
-| 46 | H3 | Otros cambios al derecho propio |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Soportó la cruz y está a la derecha del Padre |
+| H3 | Esbozo de una lectura bíblica de nuestra historia |
+| H3 | Consideraciones sobre la reconciliación |
+| H3 | Actualización de «Proteger y sanar» |
+| H3 | Otros cambios al derecho propio |

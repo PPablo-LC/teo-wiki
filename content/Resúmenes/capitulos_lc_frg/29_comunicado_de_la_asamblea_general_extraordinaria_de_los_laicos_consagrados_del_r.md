@@ -66,9 +66,9 @@ El proceso que concluye no es el culmen, sino un puerto seguro de partida, desde
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Comunicado de la Asamblea General extraordinaria de los Laicos Consagr |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Comunicado de la Asamblea General extraordinaria de los Laicos Consagr |
 
 
 ## Secciones incluidas

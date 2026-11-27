@@ -83,6 +83,6 @@ Se prepara el canto para el retiro de Cuaresma de los *Memores Domini* (26-28 fe
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | L’IMPLICAZIONE TOTALIZZANTE |
+| Nivel | Sección |
+|-------|---------|
+| H1 | L’IMPLICAZIONE TOTALIZZANTE |

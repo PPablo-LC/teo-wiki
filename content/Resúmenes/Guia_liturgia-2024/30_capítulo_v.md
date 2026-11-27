@@ -22,6 +22,6 @@ Este archivo contiene únicamente el encabezado que abre el Capítulo V de la Gu
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo V |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo V |

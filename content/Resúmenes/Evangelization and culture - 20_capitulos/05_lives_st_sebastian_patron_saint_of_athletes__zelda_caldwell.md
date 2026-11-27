@@ -38,7 +38,7 @@ Caldwell reflexiona sobre cómo la perseverancia de atletas como Philip Rivers, 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Lives: St. Sebastian, Patrón Saint of Athletes — Zelda Caldwell |
-| 3 | H2 | PATRÓN SAINT OF ATHLETES |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Lives: St. Sebastian, Patrón Saint of Athletes — Zelda Caldwell |
+| H2 | PATRÓN SAINT OF ATHLETES |

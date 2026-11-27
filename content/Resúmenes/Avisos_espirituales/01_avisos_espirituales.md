@@ -26,6 +26,6 @@ La obra condensa, en forma de sentencias prácticas, la doctrina ascético-míst
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H1 | AVISOS ESPIRITUALES |
+| Nivel | Sección |
+|-------|---------|
+| H1 | AVISOS ESPIRITUALES |

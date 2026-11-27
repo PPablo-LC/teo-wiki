@@ -134,33 +134,33 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SEGUNDA PARTE |
-| 3 | H2 | PRIMERA SECCIÓN |
-| 4 | H4 | LA ECONOMÍA SACRAMENTAL |
-| 6 | H3 | CAPÍTULO PRIMERO |
-| 8 | H4 | EL MISTERIO PASCUAL EN EL TIEMPO DE LA IGLESIA |
-| 10 | H4 | ARTÍCULO 1 |
-| 12 | H4 | LA LITURGIA, OBRA DE LA SANTÍSIMA TRINIDAD |
-| 14 | H5 | I. El Padre, fuente y fin de la liturgia |
-| 30 | H5 | II. La obra de Cristo en la liturgia |
-| 32 | H5 | Cristo glorificado… |
-| 38 | H5 | …desde la Iglesia de los Apóstoles… |
-| 44 | H5 | …está presente en la liturgia terrena… |
-| 50 | H5 | …la cual participa en la liturgia celestial |
-| 54 | H5 | III. El Espíritu Santo y la Iglesia en la liturgia |
-| 60 | H5 | El Espíritu Santo prepara a recibir a Cristo |
-| 80 | H5 | El Espíritu Santo recuerda el misterio de Cristo |
-| 94 | H5 | El Espíritu Santo actualiza el misterio de Cristo |
-| 106 | H5 | La comunión en el Espíritu Santo |
-| 112 | H5 | Resumen |
-| 120 | H4 | ARTÍCULO 2 |
-| 122 | H4 | EL MISTERIO PASCUAL EN LOS SACRAMENTOS DE LA IGLESIA |
-| 126 | H5 | I. Sacramentos de Cristo |
-| 134 | H5 | II. Sacramentos de la Iglesia |
-| 146 | H5 | III. Sacramentos de la fe |
-| 160 | H5 | IV. Sacramentos de la salvación |
-| 168 | H5 | V. Sacramentos de la vida eterna |
-| 174 | H5 | Resumen |
-| 187 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | SEGUNDA PARTE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA ECONOMÍA SACRAMENTAL |
+| H3 | CAPÍTULO PRIMERO |
+| H4 | EL MISTERIO PASCUAL EN EL TIEMPO DE LA IGLESIA |
+| H4 | ARTÍCULO 1 |
+| H4 | LA LITURGIA, OBRA DE LA SANTÍSIMA TRINIDAD |
+| H5 | I. El Padre, fuente y fin de la liturgia |
+| H5 | II. La obra de Cristo en la liturgia |
+| H5 | Cristo glorificado… |
+| H5 | …desde la Iglesia de los Apóstoles… |
+| H5 | …está presente en la liturgia terrena… |
+| H5 | …la cual participa en la liturgia celestial |
+| H5 | III. El Espíritu Santo y la Iglesia en la liturgia |
+| H5 | El Espíritu Santo prepara a recibir a Cristo |
+| H5 | El Espíritu Santo recuerda el misterio de Cristo |
+| H5 | El Espíritu Santo actualiza el misterio de Cristo |
+| H5 | La comunión en el Espíritu Santo |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | EL MISTERIO PASCUAL EN LOS SACRAMENTOS DE LA IGLESIA |
+| H5 | I. Sacramentos de Cristo |
+| H5 | II. Sacramentos de la Iglesia |
+| H5 | III. Sacramentos de la fe |
+| H5 | IV. Sacramentos de la salvación |
+| H5 | V. Sacramentos de la vida eterna |
+| H5 | Resumen |
+| H3 | Referencias |

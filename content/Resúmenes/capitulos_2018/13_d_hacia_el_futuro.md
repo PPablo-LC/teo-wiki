@@ -35,6 +35,6 @@ tags: ["resumen", "capitulos 2018"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | D. Hacia el futuro |
+| Nivel | Sección |
+|-------|---------|
+| H2 | D. Hacia el futuro |

@@ -43,6 +43,6 @@ d) CIVCSVA, *Servicio de la autoridad y obediencia*, del 11 de mayo de 2008.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 4) Formación para la vida fraterna |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 4) Formación para la vida fraterna |

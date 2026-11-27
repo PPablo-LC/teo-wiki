@@ -54,6 +54,6 @@ Con [[espíritu_de_cuerpo]], las metas de la recaudación de fondos nunca se pue
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 3) Consideraciones prácticas |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 3) Consideraciones prácticas |

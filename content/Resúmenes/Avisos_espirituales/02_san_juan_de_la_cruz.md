@@ -20,6 +20,6 @@ Sección introductoria que identifica a [[san_juan_de_la_cruz]] (1542-1591), car
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | San Juan de la Cruz |
+| Nivel | Sección |
+|-------|---------|
+| H2 | San Juan de la Cruz |

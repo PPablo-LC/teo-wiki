@@ -22,6 +22,6 @@ El capítulo desarrolla los principios generales que rigen las celebraciones lit
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Principios generales |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Principios generales |

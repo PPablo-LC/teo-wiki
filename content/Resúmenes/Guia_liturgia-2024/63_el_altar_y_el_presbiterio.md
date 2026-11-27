@@ -43,6 +43,6 @@ Sección del Capítulo IX sobre el altar y el presbiterio (nn. 228-237).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | El altar y el presbiterio |
+| Nivel | Sección |
+|-------|---------|
+| H2 | El altar y el presbiterio |

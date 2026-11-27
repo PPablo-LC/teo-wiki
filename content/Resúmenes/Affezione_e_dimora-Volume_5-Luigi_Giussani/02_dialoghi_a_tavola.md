@@ -39,6 +39,6 @@ Lo más importante en un diálogo como este es aquello que modifica nuestro modo
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | **Dialoghi a tavola** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | **Dialoghi a tavola** |

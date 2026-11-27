@@ -29,9 +29,9 @@ Desde joven Dylan vio el mundo como baládico («esos tipos… podrían haber sa
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Bob Dylan: Balladeer — Andrew Petiprin |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Bob Dylan: Balladeer — Andrew Petiprin |
 
 ## Secciones incluidas
 

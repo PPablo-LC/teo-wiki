@@ -100,9 +100,9 @@ Melina (Cap. V) presenta la persona como sujeto de la acción y destinataria del
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `03_la_ragione_della_carita.md` (líneas 15-17, 43-51),
-  `05_un_esperienza_nuova_dell_umano.md` (líneas 5-9, 73-75) y
-  `10_la_persona_soggetto_del_rapporto.md` (líneas 11-67).
+  `03_la_ragione_della_carita.md`,
+  `05_un_esperienza_nuova_dell_umano.md` y
+  `10_la_persona_soggetto_del_rapporto.md`.
 - **Fuente complementaria**: Catecismo de la Iglesia Católica, *passim*
   (marco de la persona humana), [[persona_humana]].
 - **Índice de la fuente**:

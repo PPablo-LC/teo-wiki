@@ -26,9 +26,9 @@ Encabezado divisorio de la Primera Parte de las *Constituciones de los Legionari
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Parte I |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Parte I |
 
 ## Secciones incluidas
 

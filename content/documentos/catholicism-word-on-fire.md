@@ -66,6 +66,6 @@ La serie se estructura en 10 lecciones temáticas:
 ## Relación con otras fuentes
 
 - **CEC**: Muchos conceptos tratados (Trinidad, encarnación, eucaristía, escatología) tienen correlato directo en el Catecismo
-- **TPCr**: La sección mística (L9)dialoga con la teología de la perfección cristiana de Royo Marín
-- **SmTh**: Referencias implícitas a la Summa en la exposición de los atributos divinos (L3)
+- **TPCr**: La sección mística dialoga con la teología de la perfección cristiana de Royo Marín
+- **SmTh**: Referencias implícitas a la Summa en la exposición de los atributos divinos
 - **VocTeoBib**: Conceptos bíblicos centrales (Logos, kenosis, bienaventuranzas) están tratados en el Vocabulario

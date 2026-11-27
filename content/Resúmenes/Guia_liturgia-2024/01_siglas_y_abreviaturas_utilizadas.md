@@ -22,6 +22,6 @@ El H1 «Siglas y abreviaturas utilizadas» abre la sección que en la obra recog
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 11 | H1 | Siglas y abreviaturas utilizadas |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Siglas y abreviaturas utilizadas |

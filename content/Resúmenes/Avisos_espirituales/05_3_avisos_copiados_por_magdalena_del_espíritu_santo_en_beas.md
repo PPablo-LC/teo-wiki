@@ -35,6 +35,6 @@ Avisos breves que la M. Magdalena del Espíritu Santo copió en Beas:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | 3. Avisos copiados por Magdalena del Espíritu Santo, en Beas |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 3. Avisos copiados por Magdalena del Espíritu Santo, en Beas |

@@ -47,6 +47,6 @@ Pero esta tensión acontece de hecho dentro de una dimora que ella misma crea: l
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | **SE AVESSE AVUTO TEMPO DA PERDERE...** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | **SE AVESSE AVUTO TEMPO DA PERDERE...** |

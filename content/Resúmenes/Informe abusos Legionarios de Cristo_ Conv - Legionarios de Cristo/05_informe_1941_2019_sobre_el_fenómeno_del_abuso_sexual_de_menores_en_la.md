@@ -68,4 +68,4 @@ tags: ["resumen", "espiritualidad_legionaria", "informe_1941_2019", "historia_ab
 
 ## Referencia original
 
-📄 Fuente original: `06_06_informe_1941_2019.md` (línea 1–204)
+📄 Fuente original: `06_06_informe_1941_2019.md`

@@ -25,4 +25,4 @@ Trent Horn es presentado como converso al catolicismo, con formación en histori
 
 ## Fuente original
 
-- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/07_biographical_information.md` (líneas 1-23)
+- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/07_biographical_information.md`

@@ -196,6 +196,21 @@ La Cruz es el centro de la predicación cuaresmal de Barron. Su punto de partida
 
 La Cruz se presenta en 2024 dentro de la teología del Cuerpo místico: Cristo nos salvó mediante un acto de sufrimiento y la Iglesia, que participa de él, es llamada a sufrir por amor; en la economía de la gracia, el dolor de un miembro puede llevar la carga de otro. La introducción ordena así la Cuaresma entera a la contemplación del Crucificado, y el Viacrucis dialogado lo hace oración de la asamblea: el Padre entrega al Hijo «no por ira, sino por amor; no para verlo sufrir, sino para poner las cosas en su sitio». La meditación del grano de trigo (Jn 12,20-33) da la ley de esa entrega: si el grano no muere, queda solo; si muere, da mucho fruto; el signo de Jesús es el signo de la cruz, la muerte que lleva a la transfiguración. La fuente insiste, con Anselmo, en que lo que agrada al Padre no es el dolor, sino la obediencia voluntaria del Hijo.
 
+### Según *Life of Christ* (LCh)
+
+Sheen hace de la Cruz el principio hermenéutico de toda la vida de Cristo: «it was His death that was first and His life that was last»; «His has been the only life in the world that was ever lived backward» (cap. 1). No es que el nacimiento proyectara su sombra sobre la vida, sino que «the Cross was first, and cast its shadow back to His birth». De ahí la fórmula del prefacio: la Cruz estaba al final en el tiempo, pero al principio en la intención (prefacio), y su consecuencia: «If there were no Cross, there would have been no crib; if there had been no nails, there would have been no straw» (cap. 2).
+
+El libro rastrea esa presencia anticipada en los misterios iniciales: la circuncisión como primera de las siete efusiones de sangre, «As the East catches at sunset the colors of the West, so does the Circumcision reflect Calvary» (cap. 2); la presentación con la espada que atraviesa a María; Caná como «rehearsal for Golgotha» (cap. 5); el templo, cuyo *naos* es su cuerpo, destruido y reconstruido en tres días (cap. 6). Y en el Calvario mismo, la descripción del cuerpo como templo destruido: la cabeza coronada, los pies clavados, las manos extendidas, el corazón traspasado (cap. 6).
+
+- «The Cross was not an afterthought» (cap. 4): el Cordero fue inmolado «ever since the world was made» (Ap 13,8).
+- El signo de Belén: «There is no sign unless something happens contrary to nature. The brightness of the sun is no sign, but an eclipse is» (cap. 2).
+- La Cruz como sabiduría frente a los atajos: «The temptations were meant to divert Our Lord from His task of salvation through sacrifice» (cap. 3).
+- «All I now want of this earth is a place large enough to erect a Cross» (cap. 3).
+
+En los capítulos centrales del libro (24-30) la Cruz aparece como el argumento final de la revelación. Después de constatar que los milagros no lograron la fe, Sheen escribe que al Señor «le quedaba una flecha en el carcaj»: «If only I am lifted up from the earth, I will attract all men to Myself» (Jn 12,32; cap. 26). La atracción no es la ignominia del Viernes Santo sino el amor y la victoria que se ven en Pascua: «Some religions draw by force of arms; He would draw by force of love» (cap. 26). Y la Cruz es también juicio, porque en ella se revela qué es el pecado —«the Crucifixion of Divine Goodness in the flesh»— y quién lo perdona (Jn 12,31; cap. 26). La fórmula que resume ese doble aspecto: «The Cross alone could show that God is all holy, and therefore hates sin; the Cross also showed that God is all love and therefore dies for sinners, as if He were guilty» (cap. 26).
+
+En el discurso de misión (cap. 27), la Cruz es el patrón de la vida del discípulo y no sólo el precio de la redención: ningún maestro hizo de su muerte el modelo de la de sus discípulos, y Cristo sí. De ahí la afirmación de que la Cruz no fue accidente ni en Él ni en los suyos, y la lectura de Mt 10,39 como resumen anticipado de Cruz y Resurrección. En el capítulo 30 la Cruz se presenta como «consumación»: «It is on the third day That I am to reach My consummation» (Lc 13,32), y Sheen precisa que iría a ella «not as a martyr but as a Victor», porque «it would be a perfecting, a consummation, a glory».
+
 ## Distinciones importantes
 
 - **Cruz material**: instrumento de la pasión.

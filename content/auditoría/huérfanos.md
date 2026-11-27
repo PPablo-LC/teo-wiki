@@ -6,6 +6,12 @@ description: "Registro acumulativo de wikilinks sin artículo propio: secciones 
 ---
 # Auditoría de wikilinks huérfanos
 
+> **Actualización 2026-11-27 (LCh) — *Life of Christ* (Fulton J. Sheen), fase 4:** procesados los archivos `31`-`45` (15 fichas nuevas, 46/46 resúmenes validados, índice verificado 15/15), se enriquecen nueve canónicos: `eucaristía`, `sacerdocio_de_cristo`, `lavatorio_de_los_pies`, `pasión_de_cristo`, `juicio`, `resurrección_de_lázaro`, `entrada_en_jerusalén`, `espíritu_santo` y `san_pedro`. Quedan sembrados **seis wikilinks nuevos sin artículo**: `[[lázaro]]`, `[[betania]]`, `[[caifás]]`, `[[agonía_de_cristo]]`, `[[traición_de_judas]]` y `[[negación_de_pedro]]`. **Retargets aplicados** en los resúmenes y el índice: `san_agustín_de_hipona`→[[agustín_de_hipona]], `nombre_de_jesús`→[[nombre_de_jesus]], `humillación`→[[humillación_de_cristo]], `pueblo_de_israel`→[[israel]] y `mandamiento_nuevo`→[[mandamiento_del_amor]]. **Medición tras el lote: 3.772 huérfanos únicos** (3.767 tras la fase 3). Detalle en «Sembrados por LCh — *Life of Christ* (fase 4)».
+>
+> **Actualización 2026-11-27 (LCh) — *Life of Christ* (Fulton J. Sheen), fase 2:** procesada la fase 2 de LCh (archivos `09`-`16`: capítulos 9-16; 8 fichas nuevas, 17/17 resúmenes validados, índice verificado), se enriquecen `bienaventuranzas`, `eucaristía`, `pobreza` y `celibato`. Quedan sembrados **doce wikilinks nuevos sin artículo**: `[[banquete]]`, `[[herodes_antipas]]`, `[[judas_iscariote]]`, `[[san_andrés]]`, `[[san_bartolomé]]`, `[[san_felipe]]`, `[[santiago_el_mayor]]`, `[[santiago_el_menor]]`, `[[simón_el_zelote]]`, `[[tomás_el_apóstol]]`, `[[unción_de_betania]]` y `[[abandono]]` (ya sembrado por CJC, sólo suma referencias). **Retargets aplicados** en el índice y los resúmenes: `maría_magdalena`→[[santa_maría_magdalena]], `judas_tadeo`→[[san_judas_tadeo]], `riqueza`→[[riquezas]], `recompensa`→[[recompensa_celestial]], `deuda`→[[perdón]], `tempestad`→[[tempestad_calmada]], `bartolomé`→[[san_bartolomé]] y `felipe`→[[san_felipe]]. **Medición tras el lote: 3.763 huérfanos únicos** (3.760 tras la fase 1). Detalle en «Sembrados por LCh — *Life of Christ* (fase 2)».
+>
+> **Actualización 2026-11-27 (LCh) — *Life of Christ* (Fulton J. Sheen), fase 1:** procesada la fase 1 de la fuente LCh (archivos `00`-`08`: preliminares y capítulos 1-8; 9/9 resúmenes, índice verificado, documento `wiki/documentos/life_of_christ.md`), se enriquecen `cruz`, `encarnación`, `maría`, `bautismo`, `tentación`, `cordero_de_dios`, `caná` y `navidad`. Quedan sembrados **quince wikilinks sin artículo**: `[[cansancio]]`, `[[comercio]]`, `[[discípulos]]`, `[[esteban]]`, `[[felipe]]`, `[[hora_de_cristo]]`, `[[magnificat]]`, `[[magos]]`, `[[nombre_de_jesús]]`, `[[presentación_de_jesús]]`, `[[sabiduría_de_la_cruz]]`, `[[salvador]]`, `[[samaritana]]`, `[[santos_joaquín_y_ana]]` y `[[simeón]]`. Los demás nombres que la fuente sugiere (`nicodemo`, `herodes_el_grande`, `matanza_de_los_inocentes`, `nueva_eva`) ya tienen artículo y sólo suman referencias. **Medición tras el lote: 3.760 huérfanos únicos** (3.758 antes de LCh), porque la mayoría de los quince ya estaban sembrados por otras fuentes. Detalle en «Sembrados por LCh — *Life of Christ*».
+>
 > **Actualización 2026-11-26 (TPC) — *The Priority of Christ* (Robert Barron):** procesada la fuente TPC (28/28 resúmenes, documento descriptivo y 3 artículos enriquecidos), se siembran **21 wikilinks nuevos sin artículo** —`agnosticismo_teológico`, `anarquismo`, `bernard_longergan`, `bonaventura`, `bruce_marshall`, `concilio_de_efeso`, `david_tracy`, `deontologismo`, `edmund_husserl`, `emmanuel_levinas`, `fundacionalismo`, `guillermo_de_occam`, `jean_luc_marion`, `jürgen_habermas`, `pequeño_camino`, `relaciones_subsistentes`, `teología_postliberal`, `univocidad_del_ser`, `verbo_interior`, `william_james` e `índice_analítico`—. Tres retargets aplicados: `no_competitividad_divina`→`trascendencia_no_competitiva`, `anismo`→`anarquismo` e `icono`→`iconos`. Huérfanos únicos medidos con el detector: **3.758**. Detalle en «Sembrados por TPC — *The Priority of Christ*».
 >
 > **Actualización 2026-11-24 (NDC) — *Newman on Doctrinal Corruption* (Matthew Levering):** procesada la fuente NDC (8/8 resúmenes, documento descriptivo, 4 conceptos nuevos —[[antiguarismo]], [[ultramontanismo]], [[consenso_de_los_fieles]], [[liberalismo_religioso]]—, 2 fichas de persona —[[edward_gibbon]], [[johann_joseph_ignaz_von_döllinger]]— y secciones por fuente en [[desarrollo_doctrinal]], [[infalibilidad_papal]] y [[john_henry_newman]]). Quedan sembrados **18 wikilinks nuevos sin artículo**: `[[alfred_loisy]]`, `[[edward_bouverie_pusey]]`, `[[erastianismo]]`, `[[francis_newman]]`, `[[henry_edward_manning]]`, `[[johannes_franzelin]]`, `[[john_acton]]`, `[[john_keble]]`, `[[joseph_butler]]`, `[[joseph_fessler]]`, `[[juicio_privado]]`, `[[marie_joseph_lagrange]]`, `[[método_histórico]]`, `[[principio_sacramental]]`, `[[reinhard_hütter]]`, `[[richard_frederick_littledale]]`, `[[richard_hurrell_froude]]`, `[[william_ewart_gladstone]]`; los ya registrados `anglicanismo` e `historia` solo suman referencias. Detalle en «Sembrados por NDC — *Newman on Doctrinal Corruption*». **Actualización 2026-11-24: `[[juicio_privado]]` y `[[principio_sacramental]]` resueltos con artículo propio** (`wiki/conceptos/juicio_privado.md` y `wiki/conceptos/principio_sacramental.md`), con las citas verificadas en el raw de NDC (cap. 1: Chillingworth; cap. 3: Butler, Keble y los alejandrinos; cap. 5: Döllinger, Acton, von Scherr y la *Letter to the Duke of Norfolk*; conclusión). Quedan 12 pendientes de ese lote; `[[erastianismo]]` se resolvió el mismo día con artículo propio (`wiki/conceptos/erastianismo.md`: Froude y los *Remarks on State Interference in Matters Spiritual*, la *Via Media*, la crítica de 1850 y el primado como alternativa anti-erastiana en la *Letter to the Duke of Norfolk*, caps. 2 y 5). Huérfanos únicos medidos con el detector tras el lote: **3.598**; tras crear `erastianismo`, **3.597**; tras crear `método_histórico` (`wiki/conceptos/método_histórico.md`: Gibbon y la metanarrativa secular, Niebuhr y el método de la hipótesis, Milman y la falsa neutralidad, Döllinger y el historiador como tribunal, y la relación entre historia y dogma en la *Letter to the Duke of Norfolk*, caps. 1, 2 y 5 y conclusión), **3.596**. **Actualización 2026-11-24: fichas de persona `[[john_keble]]` y `[[joseph_butler]]`** (`wiki/personas/john_keble.md` y `wiki/personas/joseph_butler.md`): el primero, transmisor del principio sacramental y del «ethos», y el sermón «National Apostasy» de 1833; el segundo, la lógica de las probabilidades, la Iglesia visible como «oráculo de la verdad» y la analogía naturaleza-gracia. Citas verificadas en NDC (caps. 1-5 y conclusión), PP, HI y EAC-7; huérfanos únicos tras el lote: **3.594**. **Actualización 2026-11-24: ficha de persona `[[francis_newman]]`** (`wiki/personas/francis_newman.md`): *Phases of Faith* y el itinerario del evangélico que perdió todo dogma, la Trinidad y la caridad herida, la crítica bíblica y el criterio de conciencia, el progreso como ley y la réplica de la *Apología* (principio dogmático y principio sacramental), con las citas verificadas en NDC cap. 3 y conclusión. Huérfanos únicos tras la ficha: **3.593**. **Actualización 2026-11-24: ficha de persona `[[edward_bouverie_pusey]]`** (`wiki/personas/edward_bouverie_pusey.md`): el *Eirenicon* de 1865 y su condición de réplica a Manning, la crítica del sistema devocional mariano, la Inmaculada Concepción de 1854 y la consulta episcopal con sus disidencias, el recurso al magisterio ordinario y a la infalibilidad personal, la Asunción, la Co-Redentrix y el «Complemento de la Trinidad», el ultramontanismo como «profecía perpetua», y la respuesta de Newman en 1866 (doctrina frente a devoción, la Nueva Eva y la plenitud de gracia, la Asunción en Ap 11-12, el *Theotokos* y la condena expresa de los excesos), con las citas verificadas en NDC caps. 3 y 4 y en HI cap. 39. Huérfanos únicos tras la ficha: **3.592**. **Actualización 2026-11-24: ficha de persona `[[henry_edward_manning]]`** (`wiki/personas/henry_edward_manning.md`): el arzobispo de Westminster como voz ultramontana; la infalibilidad como «única verdad» salvadora (1861), el opúsculo de 1864 que provocó el *Eirenicon* de Pusey y negaba las órdenes anglicanas, el *Caesarism and Ultramontanism* de 1873 frente al *Kulturkampf*, la respuesta a Gladstone de 1874-1875, el tradicionalismo tal como Newman lo percibía (con Duffy y la revisión de Washburn) y las «visiones cruzadas» de Pereiro sobre el Manning anglicano y el católico, con las citas verificadas en NDC caps. 4 y 5 y conclusión, y en HI cap. 39. Huérfanos únicos tras la ficha: **3.591**. Quedan **9 pendientes** de ese lote.
@@ -8149,3 +8155,77 @@ Ya registrados, y que solo suman referencias: `coinherencia`,
 `epistemología`, `experiencialismo_expresivo`, `intersubjetividad`,
 `rené_girard`, `simplicidad_de_dios`, `wittgenstein` y otros. Medición tras
 el lote: **3.758 huérfanos únicos** (3.737 antes de TPC).
+
+## Sembrados por LCh — *Life of Christ* (fase 1, 2026-11-27)
+
+Wikilinks introducidos por la fase 1 de LCh (preliminares y capítulos 1-8) sin artículo propio. Se siembran como referencias adelantadas; cada uno indica dónde está su contenido.
+
+| Wikilink | Dónde aparece | Contenido disponible en el raw |
+|---|---|---|
+| `cansancio` | índice LCh, cap. 8 | «Christ was weary in His work, not of it»; las dos grandes conversiones hechas en la fatiga (cap. 8, L13-17) |
+| `comercio` | índice LCh, cap. 6 | El mercado del templo, los hijos de Anás y el cambio de moneda (cap. 6, L5) |
+| `discípulos` | índice LCh, cap. 5 | Los cinco primeros llamados en el Jordán (cap. 5, L16) |
+| `esteban` | índice LCh, cap. 6 | Su martirio y la acusación contra el Lugar Santo (Hch 6,13; cap. 6, L53) |
+| `felipe` | índice LCh, cap. 4 | El eunuco de Etiopía y la explicación de Is 53 (Hch 8,32; cap. 4, L45-49) |
+| `hora_de_cristo` | índice LCh, cap. 5 | La «Hora» como Pasión, muerte y gloria; siete menciones en Juan (cap. 5, L47-79) |
+| `magnificat` | índice LCh, cap. 2 | El cántico como revolución de los humildes (cap. 2, L43-52) |
+| `magos` | resumen 03, índice LCh, cap. 2 | «The scientists of the East»; oro, incienso y mirra (cap. 2, L396-410) |
+| `nombre_de_jesús` | índice LCh, cap. 2 | «Josué», «Emmanuel» y la salvación espiritual (cap. 2, L187-205) |
+| `presentación_de_jesús` | índice LCh, cap. 2 | Simeón, el *Nunc dimittis* y el signo de contradicción (cap. 2, L311-359) |
+| `sabiduría_de_la_cruz` | índice LCh, cap. 7 | La muerte como clave de la doctrina; contraste con Buda y Sócrates (cap. 7, L165-176) |
+| `salvador` | resumen 09, índice LCh, cap. 8 | «Savior of the world» por primera vez en Jn 4,42 (cap. 8, L219-223) |
+| `samaritana` | resumen 09, documento e índice LCh, cap. 8 | La escala de títulos y la gracia que actúa al cooperar el alma (cap. 8, L38-70 y L219-233) |
+| `santos_joaquín_y_ana` | índice LCh, cap. 2 | Mencionados sólo al tratar a los «hermanos» del Señor (cap. 2, L229-247) |
+| `simeón` | índice LCh, cap. 2 | El anciano que esperaba la Luz y anuncia la espada (cap. 2, L327-395) |
+
+No se siembran enlaces a `nicodemo`, `herodes_el_grande`, `matanza_de_los_inocentes` ni `nueva_eva`: ya tienen artículo y sólo suman referencias.
+
+### Sembrados por LCh — *Life of Christ* (fase 2, 2026-11-27)
+
+Wikilinks introducidos por los capítulos 9-16 sin artículo propio.
+
+| Wikilink | Dónde aparece | Contenido disponible en el raw |
+|---|---|---|
+| `banquete` | resumen 14, índice LCh, cap. 13 | El cumpleaños de Herodes, la danza de Salomé y el juramento imprudente; «the organized joy of the jaded» (cap. 13, L77-101) |
+| `herodes_antipas` | resumen 14, índice LCh, caps. 13-14 | El tetrarca que teme al Bautista, lo manda decapitar y luego quiere ver a Jesús (caps. 13-14) |
+| `judas_iscariote` | resumen 16, índice LCh, caps. 10 y 15 | El primer crack en Cafarnaún, el que robaba de la bolsa y el que se ahorca (cap. 15, L43-51; cap. 16, L115) |
+| `san_andrés` | índice LCh, cap. 10 | El que introduce a su hermano en el camino del Señor; la tradición del aceite hirviendo (cap. 10, L47-63) |
+| `san_bartolomé` | índice LCh, cap. 10 | Natanael, «no falsehood in him», y la escalera de Jacob cumplida en Cristo (cap. 10, L65-105) |
+| `san_felipe` | índice LCh, cap. 10 | El llamado en el Jordán, el cálculo de los doscientos denarios y el «¿qué es esto entre tantos?» (cap. 10, L65; cap. 14, L15-19) |
+| `santiago_el_mayor` | índice LCh, cap. 10 | Boanerges, el fuego sobre Samaría y el primer apóstol martirizado (cap. 10, L47-63) |
+| `santiago_el_menor` | índice LCh, cap. 10 | El «hermano del Señor», el obispo de Jerusalén y su muerte por la piedra angular (cap. 10, L105-157) |
+| `simón_el_zelote` | índice LCh, cap. 10 | El nacionalista y el publicano hechos uno por la llamada | 
+| `tomás_el_apóstol` | índice LCh, cap. 10 | «The twins of unbelief and faith»; el apóstol de la duda que confiesa | 
+| `unción_de_betania` | resumen 13, índice LCh, cap. 12 | El perfume derramado que anticipa el sepulcro y el beso de Judas (cap. 12, L9-15) |
+| `abandono` | resumen 16, índice LCh, cap. 15 | La soledad creciente de Cristo cuando se van la masa, los sabios y Judas |
+
+### Sembrados por LCh — *Life of Christ* (fase 3, 2026-11-27)
+
+Los capítulos 17-30 añaden cinco enlaces sin artículo propio (el resto de sus wikilinks apuntan a canónicos existentes o a huérfanos ya registrados, como `hora_de_cristo`, `luz_del_mundo`, `herodes_antipas`, `magos` y `santiago_el_mayor`):
+
+| Wikilink | Dónde aparece | Contenido disponible en el raw |
+|---|---|---|
+| `humillación` | índice LCh, caps. 17 y 23 | «It took restraint to hide the Divinity» y la *kenosis* como vaciamiento de la gloria (cap. 18, L11; cap. 23, L15) |
+| `luz_del_mundo` | índice LCh, caps. 17, 20 y 22 | Jn 8,12: la Persona, no la doctrina, como luz; los candelabros del atrio (cap. 17, L13; cap. 20, L112) |
+| `sinagoga` | índice LCh, cap. 22 | La expulsión del ciego curado y la Puerta que se abre cuando se cierra la sinagoga (cap. 22, L7 y L51) |
+| `pueblo_de_israel` | índice LCh, caps. 24 y 28 | La distinción entre descendencia carnal y descendencia según la fe; los doce y las doce tribus; «salvation is of the Jews» (cap. 24, L110-114; cap. 28, L13; cap. 29, L208) |
+| `gentiles` | índice LCh, caps. 25, 28 y 29 | El anticipo en Elías y Naamán (cap. 25, L58-64); la misión que pasa a los gentiles tras el rechazo (cap. 28, L101-143); la pared derribada en el Calvario (cap. 28, L139) |
+
+**Medición al cerrar la fase 3: 3.767 huérfanos únicos** (3.763 tras la fase 2). Los dos sembrados nuevos de esta mitad son `pueblo_de_israel` y `gentiles`; la diferencia restante procede de referencias de otras fuentes y de la sincronización del vault, no de este lote.
+
+### Sembrados por LCh — *Life of Christ* (fase 4, 2026-11-27)
+
+Los capítulos 31-45 añaden seis enlaces sin artículo propio. Se enriquecieron además nueve canónicos (`eucaristía`, `sacerdocio_de_cristo`, `lavatorio_de_los_pies`, `pasión_de_cristo`, `juicio`, `resurrección_de_lázaro`, `entrada_en_jerusalén`, `espíritu_santo`, `san_pedro`); los demás wikilinks de la fase apuntan a artículos existentes o a huérfanos ya registrados (`hora_de_cristo`, `gentiles`, `judas_iscariote`, `herodes_antipas`, `unción_de_betania`, `abandono`, `santiago_el_mayor`).
+
+| Wikilink | Dónde aparece | Contenido disponible en el raw |
+|---|---|---|
+| `lázaro` | resumen 32, índice LCh, cap. 31 | El amigo de Betania: la enfermedad «no es para muerte», el llanto de Cristo y las tres resurrecciones escalonadas (cap. 31, L17-45, L133-165) |
+| `betania` | resúmenes 33 y 42, índice LCh, caps. 31-32 y 41 | La casa de Marta, María y Lázaro; la unción en casa de Simón el leproso; el camino del Jueves Santo hacia el huerto (cap. 32, L3; cap. 41, L29) |
+| `caifás` | resúmenes 32 y 44, índice LCh, caps. 31 y 43 | El sumo sacerdote que profetiza sobre la muerte vicaria sin saber lo que dice (Jn 11,49-52) y que rasga sus vestiduras ante el «Yo soy» (cap. 43, L116-184) |
+| `agonía_de_cristo` | resumen 42, índice LCh, cap. 41 | El sudor de sangre y el primer Rosario; las dos naturalezas y el valor infinito del sufrimiento (cap. 41, L60-104) |
+| `traición_de_judas` | resúmenes 39 y 43, índice LCh, caps. 38 y 42 | Los treinta siclos de Za 11,12, el beso como señal convenida y el bocado que abre la puerta a Satanás (cap. 38, L47-55; cap. 42, L3-23) |
+| `negación_de_pedro` | resumen 45, índice LCh, cap. 44 | Las tres negaciones escalonadas —la criada, el pórtico, el acento galileo— y la mirada que convierte (cap. 44, L3-66) |
+
+**Retargets aplicados** en los 15 resúmenes y en el índice de la fuente: `san_agustín_de_hipona`→[[agustín_de_hipona]], `nombre_de_jesús`→[[nombre_de_jesus]], `humillación`→[[humillación_de_cristo]], `pueblo_de_israel`→[[israel]] y `mandamiento_nuevo`→[[mandamiento_del_amor]].
+
+**Medición al cerrar la fase 4: 3.772 huérfanos únicos** (3.767 tras la fase 3). El aumento neto de cinco refleja los seis sembrados nuevos menos los enlaces absorbidos por los retargets y los que ya contaban desde otras fuentes; tomar siempre la cifra del detector.

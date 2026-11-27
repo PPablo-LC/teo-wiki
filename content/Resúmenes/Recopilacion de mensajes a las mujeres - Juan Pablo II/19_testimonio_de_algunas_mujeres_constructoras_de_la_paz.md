@@ -25,8 +25,8 @@ Este apartado sirve como título de sección para las meditaciones dominicales d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | TESTIMONIO DE ALGUNAS MUJERES CONSTRUCTORAS DE LA PAZ |
+| Nivel | Sección |
+|-------|---------|
+| H1 | TESTIMONIO DE ALGUNAS MUJERES CONSTRUCTORAS DE LA PAZ |
 
 ## Secciones incluidas

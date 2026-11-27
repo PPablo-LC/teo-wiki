@@ -36,8 +36,8 @@ Contemplemos el modelo de la Virgen Santísima. En las [[bodas_de_caná]], el Ev
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | La mujer está dotada de una particular capacidad de acogida del ser humano |
+| Nivel | Sección |
+|-------|---------|
+| H2 | La mujer está dotada de una particular capacidad de acogida del ser humano |
 
 ## Secciones incluidas

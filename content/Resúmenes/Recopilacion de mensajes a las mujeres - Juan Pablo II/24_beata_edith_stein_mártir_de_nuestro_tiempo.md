@@ -37,8 +37,8 @@ Hoy se encomienda a [[maría]] la armonía y la paz entre los creyentes de las d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Beata Edith Stein, mártir de nuestro tiempo |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Beata Edith Stein, mártir de nuestro tiempo |
 
 ## Secciones incluidas

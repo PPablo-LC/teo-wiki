@@ -41,4 +41,4 @@ Listado de **canales oficiales** para denuncias, atención a víctimas, retroali
 
 ## Referencia original
 
-📄 Fuente original: `07_contacto.md` (línea 1–11)
+📄 Fuente original: `07_contacto.md`

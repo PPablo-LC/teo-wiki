@@ -35,12 +35,12 @@ Firmado por el P. Eduardo Robles-Gil, L.C., director general, y el P. Jaime Rodr
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Decreto de convocación del Capítulo General extraordinario de los Legionarios de Cristo de 2018 |
-| 3-5 | P | Datos de protocolo |
-| 7-9 | P | Convocación |
-| 11-47 | §1 | Participantes por oficio |
-| 49-207 | §2 | Participantes por elección |
-| 209 | §3 | Vigencia |
-| 211-221 | P | Firma y datos |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Decreto de convocación del Capítulo General extraordinario de los Legionarios de Cristo de 2018 |
+| P | Datos de protocolo |
+| P | Convocación |
+| §1 | Participantes por oficio |
+| §2 | Participantes por elección |
+| §3 | Vigencia |
+| P | Firma y datos |

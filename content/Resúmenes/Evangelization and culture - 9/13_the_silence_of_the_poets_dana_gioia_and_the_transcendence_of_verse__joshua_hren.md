@@ -33,9 +33,9 @@ tags: ["resumen", "evangelization and culture - 9"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Silence of the Poets: Dana Gioia and the Transcendence of Verse — Joshua Hren |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Silence of the Poets: Dana Gioia and the Transcendence of Verse — Joshua Hren |
 
 ## Secciones incluidas
 

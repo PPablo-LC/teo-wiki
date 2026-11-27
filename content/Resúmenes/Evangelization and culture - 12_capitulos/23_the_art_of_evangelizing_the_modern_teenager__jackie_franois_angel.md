@@ -69,4 +69,4 @@ Teens = seres humanos como nosotros: desean verdad, felicidad, ser conocidos/vis
 
 ## Referencia original
 
-📄 Fuente original: `23_peripheries.md` (línea 1–77)
+📄 Fuente original: `23_peripheries.md`

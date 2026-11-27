@@ -59,15 +59,15 @@ El capítulo se abre con el fundamento conciliar de la vida consagrada (*Perfect
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 1. Naturaleza y fin de la Congregación |
-| 5 | H5 | Naturaleza de la Congregación y pertenencia al Regnum Christi |
-| 15 | H5 | Fin de la Congregación |
-| 33 | H5 | Misión de la Congregación |
-| 43 | H5 | Inserción en la Iglesia particular |
-| 51 | H5 | Característica internacional de la Congregación y sus expresiones |
-| 59 | H5 | Patronos |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Capítulo 1. Naturaleza y fin de la Congregación |
+| H5 | Naturaleza de la Congregación y pertenencia al Regnum Christi |
+| H5 | Fin de la Congregación |
+| H5 | Misión de la Congregación |
+| H5 | Inserción en la Iglesia particular |
+| H5 | Característica internacional de la Congregación y sus expresiones |
+| H5 | Patronos |
 
 ## Secciones incluidas
 

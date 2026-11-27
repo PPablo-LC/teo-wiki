@@ -45,9 +45,9 @@ Sin criterios definitivos, el humor oscuro es defendible: tendencia casi univers
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | In Defense of Gallows Humor — Dr. Matthew Nelson |
+| Nivel | Sección |
+|-------|---------|
+| H1 | In Defense of Gallows Humor — Dr. Matthew Nelson |
 
 ## Secciones incluidas
 

@@ -104,10 +104,10 @@ Marcador del capítulo siguiente: **Educación de la juventud en la pureza**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | DIRECCIÓN ESPIRITUAL DE LOS ADOLESCENTES |
-| 17 | H3 | Cambios que se originan en la pubertad |
-| 54 | H3 | No asustarse, serenidad |
-| 60 | H3 | Alentemos lo bueno que hay en ellos |
-| 108 | H3 | Capítulo 11º |
+| Nivel | Sección |
+|-------|---------|
+| H1 | DIRECCIÓN ESPIRITUAL DE LOS ADOLESCENTES |
+| H3 | Cambios que se originan en la pubertad |
+| H3 | No asustarse, serenidad |
+| H3 | Alentemos lo bueno que hay en ellos |
+| H3 | Capítulo 11º |

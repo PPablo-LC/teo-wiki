@@ -73,11 +73,11 @@ La era de la IA está llena de peligros y desafíos. Los evangelizadores católi
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | A Catholic Anthropology: A Key to Evangelizing in an Age of Artificial Intelligence — Dr. Joseph Vukov |
-| 23 | H2 | Tres opciones: ignorar, abrazar, evangelizar (texto sin marcado) |
-| 39 | H2 | Gnosticismo vs. reduccionismo (texto sin marcado) |
-| 47 | H2 | La unidad de cuerpo y alma; CEC 365-364 (texto sin marcado) |
-| 51 | H2 | El alma creada directamente por Dios; la dignidad no depende del CI (texto sin marcado) |
-| 57 | H2 | Conclusión: la tradición católica como regalo (texto sin marcado) |
+| Nivel | Sección |
+|-------|---------|
+| H1 | A Catholic Anthropology: A Key to Evangelizing in an Age of Artificial Intelligence — Dr. Joseph Vukov |
+| H2 | Tres opciones: ignorar, abrazar, evangelizar (texto sin marcado) |
+| H2 | Gnosticismo vs. reduccionismo (texto sin marcado) |
+| H2 | La unidad de cuerpo y alma; CEC 365-364 (texto sin marcado) |
+| H2 | El alma creada directamente por Dios; la dignidad no depende del CI (texto sin marcado) |
+| H2 | Conclusión: la tradición católica como regalo (texto sin marcado) |

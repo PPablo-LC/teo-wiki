@@ -162,11 +162,11 @@ relación porque es capaz de esperar.
 
 ### Según *The Cries of Jesus from the Cross* (CJC)
 
-Sheen ordena la primera palabra en torno a una paradoja: la razón de perdonar es la **ignorancia**. Si los verdugos hubieran sabido lo que hacían —«sentencing Life to death»— y siguieran haciéndolo, «they would be damned»; por eso «it is not wisdom that saves; it is ignorance!» (CJC, cap. 1, L7-9). Los ángeles caídos, que veían las consecuencias de sus actos con la claridad de una evidencia matemática, no tienen redención: su conocimiento excluye la excusa.
+Sheen ordena la primera palabra en torno a una paradoja: la razón de perdonar es la **ignorancia**. Si los verdugos hubieran sabido lo que hacían —«sentencing Life to death»— y siguieran haciéndolo, «they would be damned»; por eso «it is not wisdom that saves; it is ignorance!» (CJC, cap. 1). Los ángeles caídos, que veían las consecuencias de sus actos con la claridad de una evidencia matemática, no tienen redención: su conocimiento excluye la excusa.
 
-De ahí que perdonar exija reconocer que ignoramos al otro: «Because we are ignorant of their hearts, we are apt to be less excusing» (cap. 3, L19-23). Sheen añade tres razones para perdonar: porque Dios nos perdonó una deuda 1.250.000 veces mayor (Mt 18,21-35), porque el odio «is extremely fertile» y solo se corta negándose a devolverlo, y porque «on no other condition will our own sins be forgiven» (Lc 6,37-38). La medida es infinita: «not till seven times, but till seventy times seven» (Mt 18,22) — no 490, sino infinito (cap. 5, L5).
+De ahí que perdonar exija reconocer que ignoramos al otro: «Because we are ignorant of their hearts, we are apt to be less excusing» (cap. 3). Sheen añade tres razones para perdonar: porque Dios nos perdonó una deuda 1.250.000 veces mayor (Mt 18,21-35), porque el odio «is extremely fertile» y solo se corta negándose a devolverlo, y porque «on no other condition will our own sins be forgiven» (Lc 6,37-38). La medida es infinita: «not till seven times, but till seventy times seven» (Mt 18,22) — no 490, sino infinito (cap. 5).
 
-El ejemplo extremo es el perdón de los enemigos en la hora de la muerte: Esteban (Hch 7,59), el P. Pro y el sacerdote español que bendijo con los muñones. Y la advertencia que lo cierra: negarse a perdonar delata «que nunca hemos ajustado cuentas con Dios» (cap. 3, L25-31).
+El ejemplo extremo es el perdón de los enemigos en la hora de la muerte: Esteban (Hch 7,59), el P. Pro y el sacerdote español que bendijo con los muñones. Y la advertencia que lo cierra: negarse a perdonar delata «que nunca hemos ajustado cuentas con Dios» (cap. 3).
 
 ## Distinciones importantes
 

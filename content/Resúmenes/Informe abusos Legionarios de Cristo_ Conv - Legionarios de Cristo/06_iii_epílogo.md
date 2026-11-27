@@ -39,4 +39,4 @@ tags: ["resumen", "espiritualidad_legionaria", "epílogo", "informe_1941_2019", 
 
 ## Referencia original
 
-📄 Fuente original: `07_07_epilogo.md` (línea 1–19)
+📄 Fuente original: `07_07_epilogo.md`

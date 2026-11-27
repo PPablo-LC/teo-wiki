@@ -47,6 +47,6 @@ Con este despojamiento se restablece y se «repara» la verdad del hombre univer
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (JESUCRISTO: VERDADERO HOMBRE) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (JESUCRISTO: VERDADERO HOMBRE) |

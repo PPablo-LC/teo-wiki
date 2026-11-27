@@ -50,6 +50,6 @@ Los superiores promuevan y favorezcan la participación y corresponsabilidad de 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | I. Recomendaciones a los legionarios |
+| Nivel | Sección |
+|-------|---------|
+| H2 | I. Recomendaciones a los legionarios |

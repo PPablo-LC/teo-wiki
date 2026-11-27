@@ -34,6 +34,6 @@ Los padres capitulares proponen de manera sintética la esencia de su carisma ap
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 2) Nuestro carisma apostólico |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 2) Nuestro carisma apostólico |

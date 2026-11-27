@@ -59,7 +59,7 @@ necesitado.
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO),
-  `12_storia_di_un_opera_famiglie_per_l_accoglienza.md` (líneas 3, 17 y
+  `12_storia_di_un_opera_famiglie_per_l_accoglienza.md` (y
   siguiente).
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

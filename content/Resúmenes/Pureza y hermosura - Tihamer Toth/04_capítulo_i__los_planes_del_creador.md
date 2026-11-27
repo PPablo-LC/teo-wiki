@@ -50,16 +50,16 @@ La joven sabe su destino: ser madre, conservar el cuerpo puro hasta el momento s
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO I — LOS PLANES DEL CREADOR |
-| 12 | H2 | I.—El primer hombre y la primera mujer. |
-| 24 | H2 | II.—Los planes del Creador. |
-| 40 | H2 | III.—El germen de la vida humana |
-| 46 | H2 | IV.—Madre e hija |
-| 72 | H2 | V.—Pensamientos serios |
-| 102 | H2 | VI.—Seducción pecaminosa |
-| 120 | H2 | VII.—Secreto santo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CAPÍTULO I — LOS PLANES DEL CREADOR |
+| H2 | I.—El primer hombre y la primera mujer. |
+| H2 | II.—Los planes del Creador. |
+| H2 | III.—El germen de la vida humana |
+| H2 | IV.—Madre e hija |
+| H2 | V.—Pensamientos serios |
+| H2 | VI.—Seducción pecaminosa |
+| H2 | VII.—Secreto santo |
 
 ## Secciones incluidas
 

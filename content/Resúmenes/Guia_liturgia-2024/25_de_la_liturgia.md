@@ -25,6 +25,6 @@ Este archivo contiene el encabezado que completa el título del Capítulo IV de 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | de la liturgia |
+| Nivel | Sección |
+|-------|---------|
+| H1 | de la liturgia |

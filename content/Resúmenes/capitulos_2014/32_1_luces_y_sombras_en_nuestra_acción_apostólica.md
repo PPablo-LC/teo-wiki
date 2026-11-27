@@ -33,6 +33,6 @@ A pesar de las sombras, «ha sido mucho más poderosa la luz de la acción de Di
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 1) Luces y sombras en nuestra acción apostólica |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 1) Luces y sombras en nuestra acción apostólica |

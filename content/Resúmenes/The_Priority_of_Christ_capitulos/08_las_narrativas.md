@@ -20,16 +20,17 @@ tags: ["resumen", "cristología", "narrativa", "iconos", "evangelización"]
 
 ## El proyecto: tres títulos para los relatos de Jesús
 
-Barron advierte que en unos pocos capítulos solo puede esbozar esta cristología narrativa e icónica: «there is no way that all of the relevant Gospel stories and scenes can be adequately analyzed» (L3). Selecciona tres títulos o temas que emergen de los relatos —«the Gatherer, the Warrior, and the King»— y considera bajo cada uno narraciones representativas (L3). Los tres corresponden a otros tantos caminos de la vida espiritual que el autor identificara en una obra anterior: hallar el centro, saber que se es pecador y comprender que la vida no gira en torno a uno mismo (L3).
+Barron advierte que en unos pocos capítulos solo puede esbozar esta cristología narrativa e icónica: «there is no way that all of the relevant Gospel stories and scenes can be adequately analyzed». Selecciona tres títulos o temas que emergen de los relatos —«the Gatherer, the Warrior, and the King»— y considera bajo cada uno narraciones representativas. Los tres corresponden a otros tantos caminos de la vida espiritual que el autor identificara en una obra anterior: hallar el centro, saber que se es pecador y comprender que la vida no gira en torno a uno mismo.
 
-En los relatos se percibimos a Dios como el poder que reúne a las tribus dispersas de Israel y, por ellas, a los pueblos divididos del mundo; como el guerrero que combate el pecado que ha producido un mundo astillado y destrozado; y, finalmente, como el Rey que envía misioneros para efectuar por amor la reconstitución del orden divino (L3).
+En los relatos se percibimos a Dios como el poder que reúne a las tribus dispersas de Israel y, por ellas, a los pueblos divididos del mundo; como el guerrero que combate el pecado que ha producido un mundo astillado y destrozado; y, finalmente, como el Rey que envía misioneros para efectuar por amor la reconstitución del orden divino.
 
 ## Método: ni sensibilidad subyacente, ni Jesús «real» excavado
 
-Barron reitera que no seguirá ninguna de las dos grandes vías liberales: «I will not seek out the undergirding religious sensibility awakened or indicated by the stories of the New Testament, nor will I attempt to dig out the “real” Jesus buried under the stories» (L5). Estudiará las narrativas «on their own terms» para hacer más aparente su cualidad icónica (L5). El modelo es el recorrido de Barth por «the dense jungle of the biblical world» en su *Church Dogmatics*, en escala mucho menor y con el mismo espíritu (L5).
+Barron reitera que no seguirá ninguna de las dos grandes vías liberales: «I will not seek out the undergirding religious sensibility awakened or indicated by the stories of the New Testament, nor will I attempt to dig out the “real” Jesus buried under the stories». Estudiará las narrativas «on their own terms» para hacer más aparente su cualidad icónica. El modelo es el recorrido de Barth por «the dense jungle of the biblical world» en su *Church Dogmatics*, en escala mucho menor y con el mismo espíritu.
 
 ## Fuente original
 
 - Raw: `raw/Bases_doctrinales-raw/The_Priority_of_Christ_capitulos/07_part_ii_the_narratives.md`
-- Líneas: L3-5
-- Citas verificadas: «the Gatherer, the Warrior, and the King» (L3); «on their own terms» (L5); «the dense jungle of the biblical world» (L5).
+- Citas verificadas en el capítulo:
+  - «the Gatherer, the Warrior, and the King»; «on their own terms»; «the dense jungle of the biblical world».
+

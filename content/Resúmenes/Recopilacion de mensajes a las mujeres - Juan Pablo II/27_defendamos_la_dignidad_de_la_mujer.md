@@ -37,8 +37,8 @@ La Virgen Santísima, llamada a la altísima vocación de la maternidad divina, 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Defendamos la dignidad de la mujer |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Defendamos la dignidad de la mujer |
 
 ## Secciones incluidas

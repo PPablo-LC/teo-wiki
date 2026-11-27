@@ -40,6 +40,6 @@ El artículo finaliza con reseñas de varios libros publicados por Word on Fire 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Midnight Oil — musings since we last met |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Midnight Oil — musings since we last met |

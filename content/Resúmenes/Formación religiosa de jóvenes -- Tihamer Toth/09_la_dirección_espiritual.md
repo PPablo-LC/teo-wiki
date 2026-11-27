@@ -85,12 +85,12 @@ Marcador del capítulo siguiente: **Etapas del desarrollo**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA DIRECCIÓN ESPIRITUAL |
-| 4 | H3 | Finalidad de la dirección espiritual |
-| 17 | H3 | Necesidad de conocer el alma del joven |
-| 39 | H3 | Registro con datos de cada uno |
-| 69 | H3 | Conversando con cada uno |
-| 93 | H3 | Suscitar vocaciones |
-| 101 | H3 | Capítulo 8º |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA DIRECCIÓN ESPIRITUAL |
+| H3 | Finalidad de la dirección espiritual |
+| H3 | Necesidad de conocer el alma del joven |
+| H3 | Registro con datos de cada uno |
+| H3 | Conversando con cada uno |
+| H3 | Suscitar vocaciones |
+| H3 | Capítulo 8º |

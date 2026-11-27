@@ -78,30 +78,30 @@ definición que precisa la del artículo: «Covetousness is an inordinate love
 of the things of this world», desordenado «if one is not guided by a
 reasonable end, such as a suitable provision for one's family, or the
 future, or if one is too solicitous in amassing wealth, or too parsimonious
-in dispensing it» (CJC, cap. 54, L3). De ahí la tesis que separa el vicio de
+in dispensing it» (CJC, cap. 54). De ahí la tesis que separa el vicio de
 la mera posesión: «It is not the love of an excessive sum that makes it
-wrong, but an inordinate love of any sum» (L5); «Simply because a man has a
-great fortune, it does not follow that he is a covetous man» (L7). Sheen
+wrong, but an inordinate love of any sum»; «Simply because a man has a
+great fortune, it does not follow that he is a covetous man». Sheen
 aplica la distinción a los dos extremos sociales —el rico que pone las
 ganancias sobre los derechos humanos y el revolucionario que busca el botín—
 y advierte que «he may be involuntarily poor with a passion for wealth far
-in excess of those who possess» (L13-17).
+in excess of those who possess».
 
 La aportación más característica es el análisis del daño antropológico: «Such
 covetousness is ruinous for man, principally because it hardens the heart.
 Man becomes like unto that which he loves, and if he loves gold, he becomes
-like it — cold, hard, and yellow» (L19). El avaro «se vuelve pobre a sus
-propios ojos» cuanto más tiene (L21), pierde el sentido de la providencia
-—«God is trusted as long as we have a good bank account» (L23)— y, al morir,
+like it — cold, hard, and yellow». El avaro «se vuelve pobre a sus
+propios ojos» cuanto más tiene, pierde el sentido de la providencia
+—«God is trusted as long as we have a good bank account» — y, al morir,
 «se vuelve el mendigo más desposeído y despojado del universo, porque no
-tiene nada que llevarse» (L61-65). Frente a ello, Cristo repara la avaricia
+tiene nada que llevarse». Frente a ello, Cristo repara la avaricia
 con un despojo total: «His Mother He gave to John; His body to the tomb; His
 blood to the earth; His garments to His executioners», conservando solo «one
-thing for Himself that was not a thing — His spirit» (L49-55). La lección
+thing for Himself that was not a thing — His spirit». La lección
 final une avaricia y desilusión: como nada de la tierra sacia, «the essence
-of life is disappointment» (L83) y «we have eternity in our heart, but time
-on our hands» (L91), de modo que solo Dios llena la capacidad infinita del
-alma (L105-107).
+of life is disappointment» y «we have eternity in our heart, but time
+on our hands», de modo que solo Dios llena la capacidad infinita del
+alma.
 
 ## Distinciones importantes
 

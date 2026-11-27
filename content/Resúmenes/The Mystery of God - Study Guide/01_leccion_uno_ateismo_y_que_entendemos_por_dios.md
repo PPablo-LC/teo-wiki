@@ -46,4 +46,4 @@ La lección propone preguntas sobre tipos de ateísmo, diferencia entre Dios y l
 
 ## Fuente original
 
-- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/01_lesson_one_atheism_and_what_we_mean_by_god.md` (líneas 1-224)
+- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/01_lesson_one_atheism_and_what_we_mean_by_god.md`

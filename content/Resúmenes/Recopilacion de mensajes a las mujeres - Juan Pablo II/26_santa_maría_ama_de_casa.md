@@ -34,8 +34,8 @@ El Papa dirige su plegaria a [[maría]], «Madre de Jesús y esposa de José art
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Santa María, ama de casa |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Santa María, ama de casa |
 
 ## Secciones incluidas

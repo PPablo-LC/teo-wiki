@@ -62,4 +62,4 @@ Carolyn Svellinger narra su **transformación radical** desde una joven introver
 
 ## Referencia original
 
-📄 Fuente original: `17_feature_svellinger.md` (línea 1–113)
+📄 Fuente original: `17_feature_svellinger.md`

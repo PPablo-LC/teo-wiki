@@ -33,9 +33,9 @@ tags: ["resumen", "evangelization and culture - 9"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | In Praise of Transcendent Language — Katy Carl |
+| Nivel | Sección |
+|-------|---------|
+| H1 | In Praise of Transcendent Language — Katy Carl |
 
 ## Secciones incluidas
 

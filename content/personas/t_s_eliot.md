@@ -61,7 +61,7 @@ transcendencia.
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivo
-  `03_si_può_vivere_così_1995.md` (líneas 7, 165, 299-307).
+  `03_si_può_vivere_così_1995.md`.
 - **Obra citada**: T. S. Eliot, *Cori da "La Rocca"*, BUR, Milano, 1994.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

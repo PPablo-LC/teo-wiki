@@ -41,9 +41,9 @@ Con Cristo no solo se cumple el Antiguo Testamento sino que se inicia el Nuevo: 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PARTE QUARTA — PRESENZA E STORIA |
-| 3 | H2 | IL SENSO RELIGIOSO |
-| 5 | H3 | CAPITOLO PRIMO — CHIESA: PRESENZA DI CRISTO |
-| 61 | H3 | CAPITOLO SECONDO — CHIESA: OPERA DI REDENZIONE |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PARTE QUARTA — PRESENZA E STORIA |
+| H2 | IL SENSO RELIGIOSO |
+| H3 | CAPITOLO PRIMO — CHIESA: PRESENZA DI CRISTO |
+| H3 | CAPITOLO SECONDO — CHIESA: OPERA DI REDENZIONE |

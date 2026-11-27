@@ -79,15 +79,15 @@ Marcador del capítulo siguiente: **Valor educativo del sacramento de la Reconci
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ENSEÑANZA RELIGIOSA EN LOS CURSOS SUPERIORES |
-| 5 | H3 | El Credo |
-| 17 | H3 | Los Sacramentos |
-| 31 | H3 | La moral católica |
-| 45 | H3 | La moral y la felicidad |
-| 69 | H3 | Historia de la Iglesia |
-| 87 | H3 | Apologética |
-| 120 | H3 | Misa especial para jóvenes |
-| 138 | H3 | Ejercicios espirituales para jóvenes |
-| 151 | H3 | Capítulo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | ENSEÑANZA RELIGIOSA EN LOS CURSOS SUPERIORES |
+| H3 | El Credo |
+| H3 | Los Sacramentos |
+| H3 | La moral católica |
+| H3 | La moral y la felicidad |
+| H3 | Historia de la Iglesia |
+| H3 | Apologética |
+| H3 | Misa especial para jóvenes |
+| H3 | Ejercicios espirituales para jóvenes |
+| H3 | Capítulo |

@@ -38,6 +38,6 @@ Al final de estas reflexiones se pide al nuevo gobierno que:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 9) Peticiones al nuevo gobierno general |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 9) Peticiones al nuevo gobierno general |

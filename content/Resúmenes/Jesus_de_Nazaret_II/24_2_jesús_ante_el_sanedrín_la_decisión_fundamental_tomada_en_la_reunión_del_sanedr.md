@@ -28,6 +28,6 @@ Los que se burlan no saben que cumplen el destino del Siervo: humillación y exa
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. JESÚS ANTE EL SANEDRÍN |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. JESÚS ANTE EL SANEDRÍN |

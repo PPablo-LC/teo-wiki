@@ -36,7 +36,7 @@ Marcador del capítulo siguiente: **Educación preescolar**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | NECESIDAD Y FIN DE LA EDUCACIÓN |
-| 28 | H3 | Capítulo 4º |
+| Nivel | Sección |
+|-------|---------|
+| H1 | NECESIDAD Y FIN DE LA EDUCACIÓN |
+| H3 | Capítulo 4º |

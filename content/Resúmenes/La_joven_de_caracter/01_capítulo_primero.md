@@ -123,24 +123,24 @@ La torre medieval que desafía siglos es símbolo del carácter firme: «a sus p
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO PRIMERO |
-| 3 | H2 | ¿CUAL ES LA JOVEN DE CARÁCTER? |
-| 5 | H2 | I. —La leona sin lengua |
-| 89 | H2 | III—¿Cuál es la joven de carácter |
-| 137 | H2 | IV. —Una voluntad de hierro |
-| 177 | H2 | V —Palabras de Epicteto |
-| 213 | H2 | VI —La fuerza de un gran ideal |
-| 241 | H2 | VII. —La fortaleza |
-| 255 | H2 | VIII—La libertad |
-| 323 | H2 | IX—Jóvenes magnánimas |
-| 339 | H2 | X—«Pero ¡qué egoísta eres!» |
-| 365 | H2 | XI. — ¿Sabes decir no? |
-| 413 | H2 | XII—Fragmento de un diario |
-| 449 | H2 | XIII.—Cometa en el hilo telegráfico |
-| 499 | H2 | XIV.—Contra torrentera! |
-| 533 | H2 | XV.—Vanidad y coquetería |
-| 581 | H2 | XVI—«Víctor hostium et sui.» |
-| 599 | H2 | XVII—¿Torre de castillo o veleta? |
-| 633 | H2 | XVIII.—La prisionera de la conciencia |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CAPÍTULO PRIMERO |
+| H2 | ¿CUAL ES LA JOVEN DE CARÁCTER? |
+| H2 | I. —La leona sin lengua |
+| H2 | III—¿Cuál es la joven de carácter |
+| H2 | IV. —Una voluntad de hierro |
+| H2 | V —Palabras de Epicteto |
+| H2 | VI —La fuerza de un gran ideal |
+| H2 | VII. —La fortaleza |
+| H2 | VIII—La libertad |
+| H2 | IX—Jóvenes magnánimas |
+| H2 | X—«Pero ¡qué egoísta eres!» |
+| H2 | XI. — ¿Sabes decir no? |
+| H2 | XII—Fragmento de un diario |
+| H2 | XIII.—Cometa en el hilo telegráfico |
+| H2 | XIV.—Contra torrentera! |
+| H2 | XV.—Vanidad y coquetería |
+| H2 | XVI—«Víctor hostium et sui.» |
+| H2 | XVII—¿Torre de castillo o veleta? |
+| H2 | XVIII.—La prisionera de la conciencia |

@@ -77,17 +77,17 @@ Marcador del capítulo siguiente: **La dirección espiritual**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EDUCACIÓN RELIGIOSA EN SECUNDARIA O ENSEÑANZAS MEDIAS CUALIDADES DEL A |
-| 6 | H3 | Amigo de los jóvenes |
-| 17 | H3 | Interés por la suerte de los alumnos |
-| 28 | H3 | Alcance pedagógico del amor |
-| 44 | H3 | Optimismo pedagógico |
-| 57 | H3 | Amor y autoridad |
-| 66 | H3 | Amor y exigencia |
-| 97 | H3 | Coherencia de vida |
-| 119 | H3 | Dónde poner especial esmero |
-| 130 | H3 | Elección del catequista y profesor de religión |
-| 141 | H3 | Modo de hablar a los jóvenes |
-| 156 | H3 | Capítulo 7º |
+| Nivel | Sección |
+|-------|---------|
+| H1 | EDUCACIÓN RELIGIOSA EN SECUNDARIA O ENSEÑANZAS MEDIAS CUALIDADES DEL A |
+| H3 | Amigo de los jóvenes |
+| H3 | Interés por la suerte de los alumnos |
+| H3 | Alcance pedagógico del amor |
+| H3 | Optimismo pedagógico |
+| H3 | Amor y autoridad |
+| H3 | Amor y exigencia |
+| H3 | Coherencia de vida |
+| H3 | Dónde poner especial esmero |
+| H3 | Elección del catequista y profesor de religión |
+| H3 | Modo de hablar a los jóvenes |
+| H3 | Capítulo 7º |

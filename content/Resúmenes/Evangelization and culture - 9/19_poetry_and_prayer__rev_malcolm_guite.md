@@ -29,9 +29,9 @@ Coleridge definió el objetivo de las *Lyrical Ballads*: «Excitar un sentimient
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Poetry and Prayer — Rev. Malcolm Guite |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Poetry and Prayer — Rev. Malcolm Guite |
 
 ## Secciones incluidas
 

@@ -27,8 +27,8 @@ El reconocimiento de la dignidad de todo ser humano es el fundamento y la base d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Tened en cuenta la verdadera dignidad y aspiraciones de la mujer |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Tened en cuenta la verdadera dignidad y aspiraciones de la mujer |
 
 ## Secciones incluidas

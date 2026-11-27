@@ -27,9 +27,9 @@ El número explora el humor: en el corazón de la Encarnación, cualidad de gran
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | From the Desk of Bishop Robert Barron |
+| Nivel | Sección |
+|-------|---------|
+| H1 | From the Desk of Bishop Robert Barron |
 
 ## Secciones incluidas
 

@@ -25,7 +25,7 @@ Su conversión en 2018, descrita como una serie de «eventos sobrenaturales», l
 
 ### Según Evangelization & Culture (EAC-20)
 
-La fuente detalla su llamado: «Hollywood es mi Kolkata» y su misión de amar a la gente como Jesús [EAC-20, 16_feature_garcia, L35-41]. Rechazó papeles explícitos a pesar de la oposición de su agente [EAC-20, 16_feature_garcia, L43-51]. Cita a San Juan de la Cruz: «Para llegar a poseer todo, desea no poseer nada» [EAC-20, 16_feature_garcia, L53-63]. Enfatiza la divinización como meta: «La gloria de Dios es un ser humano plenamente vivo» (San Ireneo) [EAC-20, 16_feature_garcia, L75-89].
+La fuente detalla su llamado: «Hollywood es mi Kolkata» y su misión de amar a la gente como Jesús [EAC-20, 16_feature_garcia]. Rechazó papeles explícitos a pesar de la oposición de su agente [EAC-20, 16_feature_garcia]. Cita a San Juan de la Cruz: «Para llegar a poseer todo, desea no poseer nada» [EAC-20, 16_feature_garcia]. Enfatiza la divinización como meta: «La gloria de Dios es un ser humano plenamente vivo» (San Ireneo) [EAC-20, 16_feature_garcia].
 
 ## Distinciones importantes
 

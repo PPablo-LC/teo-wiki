@@ -63,4 +63,4 @@ La Dra. Michelle Stanford (pediatra, VP de la National Catholic Medical Associat
 
 ## Referencia original
 
-📄 Fuente original: `11_science.md` (línea 1–49)
+📄 Fuente original: `11_science.md`

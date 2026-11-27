@@ -24,6 +24,6 @@ Este archivo es únicamente el encabezado de sección (H1) del comunicado capitu
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA FORMACIÓN DEL LEGIONARIO Y LARATIO INSTITUTIONIS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA FORMACIÓN DEL LEGIONARIO Y LARATIO INSTITUTIONIS |

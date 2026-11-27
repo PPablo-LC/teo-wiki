@@ -32,7 +32,7 @@ Sección dedicada a la V Conferencia General del Episcopado Latinoamericano y de
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | V CONFERENCIA GENERAL DEL EPISCOPADO LATINOAMERICANO Y DEL CARIBE |
-| 7 | H3 | Aparecida, 13-31 de mayo de 2007 |
+| Nivel | Sección |
+|-------|---------|
+| H1 | V CONFERENCIA GENERAL DEL EPISCOPADO LATINOAMERICANO Y DEL CARIBE |
+| H3 | Aparecida, 13-31 de mayo de 2007 |

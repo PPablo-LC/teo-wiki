@@ -25,6 +25,6 @@ La pregunta procede del interrogatorio de Jesús a sus discípulos en Cesárea d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | A QUÉ JESÚS SEGUIMOS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | A QUÉ JESÚS SEGUIMOS |

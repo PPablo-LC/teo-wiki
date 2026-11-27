@@ -235,30 +235,30 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CUARTA PARTE |
-| 2 | H4 | LA ORACIÓN CRISTIANA |
-| 4 | H2 | PRIMERA SECCIÓN |
-| 5 | H4 | LA ORACIÓN EN LA VIDA CRISTIANA |
-| 7 | H3 | CAPÍTULO TERCERO |
-| 9 | H4 | LA VIDA DE ORACIÓN |
-| 17 | H4 | ARTÍCULO 1 |
-| 19 | H4 | EXPRESIONES DE LA ORACIÓN |
-| 21 | H5 | I. La oración vocal |
-| 33 | H5 | II. La meditación |
-| 43 | H5 | III. La oración contemplativa |
-| 69 | H5 | Resumen |
-| 81 | H4 | ARTÍCULO 2 |
-| 83 | H4 | EL COMBATE DE LA ORACIÓN |
-| 87 | H5 | I. Obstáculos para la oración |
-| 95 | H5 | II. La humilde vigilancia de la oración |
-| 97 | H5 | Frente a las dificultades de la oración |
-| 105 | H5 | Frente a las tentaciones en la oración |
-| 111 | H5 | III. La confianza filial |
-| 115 | H5 | Queja por la oración no escuchada |
-| 127 | H5 | Para que nuestra oración sea eficaz |
-| 137 | H5 | IV. Perseverar en el amor |
-| 169 | H5 | Resumen |
-| 185 | H1 | CUARTA PARTE |
-| 190 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CUARTA PARTE |
+| H4 | LA ORACIÓN CRISTIANA |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA ORACIÓN EN LA VIDA CRISTIANA |
+| H3 | CAPÍTULO TERCERO |
+| H4 | LA VIDA DE ORACIÓN |
+| H4 | ARTÍCULO 1 |
+| H4 | EXPRESIONES DE LA ORACIÓN |
+| H5 | I. La oración vocal |
+| H5 | II. La meditación |
+| H5 | III. La oración contemplativa |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | EL COMBATE DE LA ORACIÓN |
+| H5 | I. Obstáculos para la oración |
+| H5 | II. La humilde vigilancia de la oración |
+| H5 | Frente a las dificultades de la oración |
+| H5 | Frente a las tentaciones en la oración |
+| H5 | III. La confianza filial |
+| H5 | Queja por la oración no escuchada |
+| H5 | Para que nuestra oración sea eficaz |
+| H5 | IV. Perseverar en el amor |
+| H5 | Resumen |
+| H1 | CUARTA PARTE |
+| H3 | Referencias |

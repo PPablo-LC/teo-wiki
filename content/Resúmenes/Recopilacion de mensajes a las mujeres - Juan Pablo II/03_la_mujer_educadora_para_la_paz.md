@@ -29,8 +29,8 @@ Reitera su llamada angustiada por la [[paz]], señalando que la violencia, las g
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | LA MUJER, EDUCADORA PARA LA PAZ |
+| Nivel | Sección |
+|-------|---------|
+| H2 | LA MUJER, EDUCADORA PARA LA PAZ |
 
 ## Secciones incluidas

@@ -22,6 +22,6 @@ El archivo raw contiene únicamente la rúbrica del apéndice final del libro: �
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | APÉNDICE |
+| Nivel | Sección |
+|-------|---------|
+| H1 | APÉNDICE |

@@ -39,9 +39,9 @@ Cierra con el poema humorístico «The Microbe» de Hilaire Belloc (ilustración
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | St. Philip Neri — Rachel Bulman |
+| Nivel | Sección |
+|-------|---------|
+| H1 | St. Philip Neri — Rachel Bulman |
 
 ## Secciones incluidas
 

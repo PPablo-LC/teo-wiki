@@ -27,6 +27,6 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | El canto en la liturgia de las horas |
+| Nivel | Sección |
+|-------|---------|
+| H2 | El canto en la liturgia de las horas |

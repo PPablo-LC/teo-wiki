@@ -66,4 +66,4 @@ Restaurar capacidades naturales que sustentan disciplinas espirituales necesaria
 
 ## Referencia original
 
-📄 Fuente original: `19_academic_feature.md` (línea 1–101)
+📄 Fuente original: `19_academic_feature.md`

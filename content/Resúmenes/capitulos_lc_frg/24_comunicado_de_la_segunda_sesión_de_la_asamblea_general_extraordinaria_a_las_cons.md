@@ -71,9 +71,9 @@ El 6 de diciembre, la Asamblea ratificó los *Estatutos de la Federación*, opta
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Comunicado de la segunda sesión de la Asamblea General extraordinaria |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Comunicado de la segunda sesión de la Asamblea General extraordinaria |
 
 
 ## Secciones incluidas

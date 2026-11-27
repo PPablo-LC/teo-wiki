@@ -68,6 +68,6 @@ En lugar de decir «Amarás a Dios con todo tu corazón» (Mt 22,37), Cristo —
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | NON È UN PRETESTO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | NON È UN PRETESTO |

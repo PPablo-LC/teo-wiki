@@ -81,16 +81,16 @@ Metáfora histórica de la Primera Guerra Mundial: durante la guerra, el ejérci
 
 ## Mapa del archivo fuente
 
-| Archivo | Línea | Nivel | Sección |
-|---------|-------|-------|---------|
-| 04_capitulo_iii.md | 1 | H1 | Chapter III — Frost Bitten in a Night of May |
-| 04_capitulo_iii.md | 5 | H2 | DOWNWARD |
-| 04_capitulo_iii.md | 41 | H2 | DESECRATION |
-| 04_capitulo_iii.md | 79 | H2 | RAGGED YOUTH |
-| 04_capitulo_iii.md | 91 | H2 | ONWARDS ON THE ROAD TO CORRUPTION |
-| 04_capitulo_iii.md | 105 | — | Despedida parental: Carlos IV, Blanca de Francia, Leónidas y Orígenes |
-| 04_capitulo_iii.md | 117 | H2 | THE LAW OF ACCELERATION OF GRAVITY |
-| 04_capitulo_iii.md | 129 | H2 | AT THE MAZURIAN LAKES |
+| Archivo | Nivel | Sección |
+|---------|-------|---------|
+| 04_capitulo_iii.md | H1 | Chapter III — Frost Bitten in a Night of May |
+| 04_capitulo_iii.md | H2 | DOWNWARD |
+| 04_capitulo_iii.md | H2 | DESECRATION |
+| 04_capitulo_iii.md | H2 | RAGGED YOUTH |
+| 04_capitulo_iii.md | H2 | ONWARDS ON THE ROAD TO CORRUPTION |
+| 04_capitulo_iii.md | — | Despedida parental: Carlos IV, Blanca de Francia, Leónidas y Orígenes |
+| 04_capitulo_iii.md | H2 | THE LAW OF ACCELERATION OF GRAVITY |
+| 04_capitulo_iii.md | H2 | AT THE MAZURIAN LAKES |
 
 > **Nota de revisión (2026-10-02):** completado a partir de la edición
 > íntegra (`raw/Bases_doctrinales-raw/youth_and_chastity/`). La copia parcial

@@ -38,8 +38,8 @@ El Papa pide a la Virgen Santísima que ayude a descubrir la belleza del plan de
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | El encuentro esponsal entre el hombre y la mujer |
+| Nivel | Sección |
+|-------|---------|
+| H2 | El encuentro esponsal entre el hombre y la mujer |
 
 ## Secciones incluidas

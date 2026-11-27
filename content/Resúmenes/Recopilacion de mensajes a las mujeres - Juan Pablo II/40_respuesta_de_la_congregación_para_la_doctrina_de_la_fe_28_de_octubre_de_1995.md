@@ -46,10 +46,10 @@ Este apartado introduce las reflexiones sobre la doctrina de la ordenación sace
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Respuesta de la Congregación para la Doctrina de la Fe 28 de octubre de 1995 |
-| 7 | H2 | I.-Respuesta de la Congregación para la Doctrina de la Fe a la pregunta acerca de la doctrina contenida en la Carta Apostólica Ordinatio sacerdotalis |
-| 29 | H2 | II. Reflexiones en torno a la Respuesta de la Congregación para la Doctrina de la Fe sobre la doctrina propuesta en la Carta Apostólica |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Respuesta de la Congregación para la Doctrina de la Fe 28 de octubre de 1995 |
+| H2 | I.-Respuesta de la Congregación para la Doctrina de la Fe a la pregunta acerca de la doctrina contenida en la Carta Apostólica Ordinatio sacerdotalis |
+| H2 | II. Reflexiones en torno a la Respuesta de la Congregación para la Doctrina de la Fe sobre la doctrina propuesta en la Carta Apostólica |
 
 ## Secciones incluidas

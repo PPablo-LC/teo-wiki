@@ -51,6 +51,6 @@ De acuerdo con el carisma apostólico, se busca comprometer a las personas, seg�
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 2) Relación entre economía, pobreza, apostolado y vida personal |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 2) Relación entre economía, pobreza, apostolado y vida personal |

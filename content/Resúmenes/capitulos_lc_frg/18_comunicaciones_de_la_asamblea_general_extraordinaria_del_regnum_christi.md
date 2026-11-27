@@ -25,9 +25,9 @@ Sección de encabezado que agrupa las comunicaciones oficiales emanadas de las a
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Comunicaciones de la Asamblea General extraordinaria del Regnum Christi |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Comunicaciones de la Asamblea General extraordinaria del Regnum Christi |
 
 
 ## Secciones incluidas

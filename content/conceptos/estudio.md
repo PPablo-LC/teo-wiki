@@ -28,9 +28,9 @@ El CEC presenta el estudio como servicio a la inteligencia de la fe: los fieles 
 
 ### Según Corazón (COR) — Edmondo De Amicis
 
-*Corazón* convierte el estudio en uno de los ejes morales del libro escolar. El niño Coreta, que descarga leña en la tienda y estudia entre las ventas, exclama: «¡Feliz tú que tienes todo el tiempo que quieras para estudiar!» (L363-365); y la madre de Enrique sentencia que «tiene más mérito su trabajo de un día, que todos tus estudios de un año» (L372-373). El alumno Estardo, lento pero tenaz, resume la moral del esfuerzo: «O reviento, o salgo adelante», y estudia «de día y de noche… paciente como un buey, terco cual un mulo» (L590-592), hasta oír: «¡Bravo, Estardo; quien trabaja, vence!» (L608-609).
+*Corazón* convierte el estudio en uno de los ejes morales del libro escolar. El niño Coreta, que descarga leña en la tienda y estudia entre las ventas, exclama: «¡Feliz tú que tienes todo el tiempo que quieras para estudiar!»; y la madre de Enrique sentencia que «tiene más mérito su trabajo de un día, que todos tus estudios de un año». El alumno Estardo, lento pero tenaz, resume la moral del esfuerzo: «O reviento, o salgo adelante», y estudia «de día y de noche… paciente como un buey, terco cual un mulo», hasta oír: «¡Bravo, Estardo; quien trabaja, vence!».
 
-El estudio aparece también como camino de rehabilitación: en la cárcel, el preso n.º 78 se arrepiente leyendo, y sobre el muro figura la inscripción «Estudio y Esperanza» (L327). En «Los amigos artesanos», el padre advierte que «el hombre que no frecuenta más que una clase sola, es como el hombre estudioso que no lee más que un solo libro» (L551-553): el estudio verdadero abre a la realidad entera y no encierra en el propio círculo.
+El estudio aparece también como camino de rehabilitación: en la cárcel, el preso n.º 78 se arrepiente leyendo, y sobre el muro figura la inscripción «Estudio y Esperanza». En «Los amigos artesanos», el padre advierte que «el hombre que no frecuenta más que una clase sola, es como el hombre estudioso que no lee más que un solo libro»: el estudio verdadero abre a la realidad entera y no encierra en el propio círculo.
 
 ### Según Realtà e giovinezza. La sfida (REG) — Luigi Giussani
 
@@ -42,7 +42,7 @@ En los capítulos finales, la escuela y el estudio son presentados como camino d
 
 ### Según Retratos de santos (Sicari) — Pier Giorgio Frassati
 
-Frassati estudia ingeniería de minas no por ambición, sino para servir: «quiero ayudar a nuestra gente de las minas… mejor siendo laico que sacerdote, porque en nuestro país los sacerdotes no están en contacto con el pueblo»; quería ser «minero entre los mineros» (L139-140). El estudio se vuelve así forma concreta de caridad y de presencia cristiana en el mundo del trabajo.
+Frassati estudia ingeniería de minas no por ambición, sino para servir: «quiero ayudar a nuestra gente de las minas… mejor siendo laico que sacerdote, porque en nuestro país los sacerdotes no están en contacto con el pueblo»; quería ser «minero entre los mineros». El estudio se vuelve así forma concreta de caridad y de presencia cristiana en el mundo del trabajo.
 
 ### Según las Constituciones de los Legionarios de Cristo (LC)
 
@@ -69,5 +69,5 @@ Se relaciona con [[educación]], [[estudiosidad]], [[trabajo]], [[inteligencia]]
 - Edmondo De Amicis, *Corazón* (COR), caps. «El compañero Coreta», «La voluntad», «El preso», «Los amigos artesanos».
 - Luigi Giussani, *Realtà e giovinezza. La sfida* (REG), cap. 13.
 - Carlo Collodi, *Le avventure di Pinocchio*, caps. 25-26.
-- Antonio María Sicari, *Retratos de santos*, «Pier Giorgio Frassati» (L139-140).
+- Antonio María Sicari, *Retratos de santos*, «Pier Giorgio Frassati».
 - *Constituciones de los Legionarios de Cristo* (2020), cap. 9.

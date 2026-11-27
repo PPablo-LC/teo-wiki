@@ -67,8 +67,8 @@ Al llegar a la Encarnación, Tomás reúne los hilos de la teología: la natural
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 8. Christ |
-| 7 | H2 | I |
-| 29 | H2 | II |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 8. Christ |
+| H2 | I |
+| H2 | II |

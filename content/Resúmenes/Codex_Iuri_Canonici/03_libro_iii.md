@@ -66,17 +66,17 @@ Obligación de emitir personalmente la **profesión de fe** según la fórmula a
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | LIBRO III |
-| 3 | H3 | LA FUNCIÓN DE ENSEÑAR DE LA IGLESIA (Cann. 756 – 848) |
-| 35 | H4 | TÍTULO I |
-| 53 | H5 | CAPÍTULO I |
-| 92 | H5 | CAPÍTULO II |
-| 128 | H4 | TÍTULO II |
-| 177 | H4 | TÍTULO III |
-| 190 | H5 | CAPÍTULO I |
-| 231 | H5 | CAPÍTULO II |
-| 254 | H5 | CAPÍTULO III |
-| 276 | H4 | TÍTULO IV |
-| 331 | H4 | TÍTULO V |
+| Nivel | Sección |
+|-------|---------|
+| H2 | LIBRO III |
+| H3 | LA FUNCIÓN DE ENSEÑAR DE LA IGLESIA (Cann. 756 – 848) |
+| H4 | TÍTULO I |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H4 | TÍTULO II |
+| H4 | TÍTULO III |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H5 | CAPÍTULO III |
+| H4 | TÍTULO IV |
+| H4 | TÍTULO V |

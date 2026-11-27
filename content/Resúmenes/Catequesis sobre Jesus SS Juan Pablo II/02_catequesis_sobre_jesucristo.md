@@ -171,20 +171,20 @@ A continuación, sin encabezado propio en el original, el índice continúa con 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CATEQUESIS SOBRE JESUCRISTO |
-| 5 | H4 | (07-01-87 a 19-04-89) |
-| 9 | H4 | CRISTOLOGÍA -I- |
-| 35 | H4 | CRISTOLOGÍA -II- |
-| 59 | H4 | CRISTOLOGÍA -III- |
-| 69 | H4 | CRISTOLOGÍA -IV- |
-| 91 | H4 | CRISTOLOGÍA -V- |
-| 95 | H4 | 18-11-87 El milagro, manifestación del poder divino de Cristo |
-| 107 | H4 | CRISTOLOGÍA -VI- |
-| 133 | H4 | REDENCIÓN -II- |
-| 145 | H4 | REDENCIÓN -III- |
-| 161 | H4 | REDENCIÓN - IV - |
-| 177 | H4 | REDENCIÓN - V - |
-| 189 | H4 | REDENCIÓN - VI - |
-| 195 | H4 | REDENCIÓN -VII- |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CATEQUESIS SOBRE JESUCRISTO |
+| H4 | (07-01-87 a 19-04-89) |
+| H4 | CRISTOLOGÍA -I- |
+| H4 | CRISTOLOGÍA -II- |
+| H4 | CRISTOLOGÍA -III- |
+| H4 | CRISTOLOGÍA -IV- |
+| H4 | CRISTOLOGÍA -V- |
+| H4 | 18-11-87 El milagro, manifestación del poder divino de Cristo |
+| H4 | CRISTOLOGÍA -VI- |
+| H4 | REDENCIÓN -II- |
+| H4 | REDENCIÓN -III- |
+| H4 | REDENCIÓN - IV - |
+| H4 | REDENCIÓN - V - |
+| H4 | REDENCIÓN - VI - |
+| H4 | REDENCIÓN -VII- |

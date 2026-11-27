@@ -198,23 +198,23 @@ Define: **Abuso sexual de un menor** (contacto o interacción en que el menor es
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Proteger y sanar |
-| 5 | H3 | Introducción |
-| 19 | H3 | Parte 1 |
-| 21 | H3 | Principios y protocolos de acción |
-| 23 | H4 | **A. Para** **fomentar la sanación y reconciliación con las víctimas d |
-| 43 | H4 | B. Para la protección de menores y adultos vulnerables, y para la crea |
-| 61 | H4 | C. Para garantizar una respuesta rápida, eficaz y pastoralmente oportu |
-| 73 | H4 | D. Para garantizar, la justicia y los derechos de todos |
-| 85 | H4 | E. Para promover la necesaria comunicación y fomentar el valor de la j |
-| 101 | H4 | F. Para ofrecer un apoyo más general a la Iglesia y la sociedad |
-| 107 | H3 | Parte 2 |
-| 109 | H3 | Normas sustanciales y procesales |
-| 111 | H4 | Estándares y ambientes seguros y Código de conducta |
-| 121 | H4 | Investigación previa |
-| 143 | H4 | Archivos |
-| 147 | H4 | Medidas y sanciones |
-| 179 | H3 | Conclusión |
-| 183 | H3 | Glosario |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Proteger y sanar |
+| H3 | Introducción |
+| H3 | Parte 1 |
+| H3 | Principios y protocolos de acción |
+| H4 | **A. Para** **fomentar la sanación y reconciliación con las víctimas d |
+| H4 | B. Para la protección de menores y adultos vulnerables, y para la crea |
+| H4 | C. Para garantizar una respuesta rápida, eficaz y pastoralmente oportu |
+| H4 | D. Para garantizar, la justicia y los derechos de todos |
+| H4 | E. Para promover la necesaria comunicación y fomentar el valor de la j |
+| H4 | F. Para ofrecer un apoyo más general a la Iglesia y la sociedad |
+| H3 | Parte 2 |
+| H3 | Normas sustanciales y procesales |
+| H4 | Estándares y ambientes seguros y Código de conducta |
+| H4 | Investigación previa |
+| H4 | Archivos |
+| H4 | Medidas y sanciones |
+| H3 | Conclusión |
+| H3 | Glosario |

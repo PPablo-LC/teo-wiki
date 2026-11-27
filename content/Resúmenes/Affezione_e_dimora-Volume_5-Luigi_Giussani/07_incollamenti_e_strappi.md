@@ -79,18 +79,18 @@ Giussani subraya la importancia de un tema para el encuentro semanal: un título
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | INCOLLAMENTI E STRAPPI |
-| 21 | H3 | Se un discorde accento |
-| 29 | H3 | L'uso della positività |
-| 55 | H3 | Strapparsi per raggiungere uno scopo |
-| 71 | H3 | Urantur |
-| 91 | H3 | Il paragone con le esigenze originali |
-| 111 | H3 | La cultura di oggi odia il padre |
-| 135 | H3 | Dispotismo o sentimentalismo |
-| 159 | H3 | Atarassia |
-| 175 | H3 | Amare, l'unico modo per essere nella realtà |
-| 179 | H3 | Il sacrificio di non incollarsi |
-| 195 | H3 | Il sacrificio: riconoscere una Presenza |
-| 239 | H3 | La necessità di un tema per il raduno |
+| Nivel | Sección |
+|-------|---------|
+| H1 | INCOLLAMENTI E STRAPPI |
+| H3 | Se un discorde accento |
+| H3 | L'uso della positività |
+| H3 | Strapparsi per raggiungere uno scopo |
+| H3 | Urantur |
+| H3 | Il paragone con le esigenze originali |
+| H3 | La cultura di oggi odia il padre |
+| H3 | Dispotismo o sentimentalismo |
+| H3 | Atarassia |
+| H3 | Amare, l'unico modo per essere nella realtà |
+| H3 | Il sacrificio di non incollarsi |
+| H3 | Il sacrificio: riconoscere una Presenza |
+| H3 | La necessità di un tema per il raduno |

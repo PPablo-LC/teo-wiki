@@ -28,6 +28,6 @@ Con John P. Meier, Benedicto XVI concluye: hay que elegir entre ambas cronologí
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. LA FECHA DE LA ÚLTIMA CENA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. LA FECHA DE LA ÚLTIMA CENA |

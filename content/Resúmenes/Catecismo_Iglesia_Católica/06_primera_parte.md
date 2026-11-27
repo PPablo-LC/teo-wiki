@@ -645,83 +645,83 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PRIMERA PARTE |
-| 3 | H2 | SEGUNDA SECCIÓN |
-| 4 | H4 | LA PROFESIÓN DE LA FE CRISTIANA |
-| 6 | H3 | CAPÍTULO PRIMERO |
-| 8 | H4 | CREO EN DIOS PADRE |
-| 12 | H4 | ARTÍCULO 1 |
-| 14 | H4 | “CREO EN DIOS, PADRE TODOPODEROSO, CREADOR DEL CIELO Y DE LA TIERRA” |
-| 16 | H4 | PÁRRAFO 1 |
-| 18 | H4 | CREO EN DIOS |
-| 22 | H5 | I. «Creo en un solo Dios» |
-| 32 | H5 | II. Dios revela su Nombre |
-| 38 | H5 | El Dios vivo |
-| 60 | H5 | Solo Dios ES |
-| 66 | H5 | III. Dios, “El que es”, es verdad y amor |
-| 70 | H5 | Dios es la Verdad |
-| 78 | H5 | Dios es Amor |
-| 88 | H5 | IV. Consecuencias de la fe en el Dios único |
-| 114 | H5 | Resumen |
-| 124 | H4 | PÁRRAFO 2 |
-| 126 | H4 | EL PADRE |
-| 128 | H5 | I. “En el nombre del Padre y del Hijo y del Espíritu Santo” |
-| 142 | H5 | II. La revelación de Dios como Trinidad |
-| 144 | H5 | El Padre revelado por el Hijo |
-| 156 | H5 | El Padre y el Hijo revelados por el Espíritu |
-| 170 | H5 | III. La Santísima Trinidad en la doctrina de la fe |
-| 172 | H5 | La formación del dogma trinitario |
-| 182 | H5 | El dogma de la Santísima Trinidad |
-| 194 | H5 | IV. Las obras divinas y las misiones trinitarias |
-| 206 | H5 | Resumen |
-| 222 | H4 | PÁRRAFO 3 |
-| 224 | H4 | EL TODOPODEROSO |
-| 238 | H5 | El misterio de la aparente impotencia de Dios |
-| 246 | H5 | Resumen |
-| 256 | H4 | PÁRRAFO 4 |
-| 258 | H4 | EL CREADOR |
-| 266 | H5 | I. La catequesis sobre la creación |
-| 284 | H5 | II. La creación: obra de la Santísima Trinidad |
-| 292 | H5 | III. “El mundo ha sido creado para la gloria de Dios” |
-| 300 | H5 | IV. El misterio de la creación |
-| 302 | H5 | Dios crea por sabiduría y por amor |
-| 318 | H5 | Dios crea un mundo ordenado y bueno |
-| 322 | H5 | Dios transciende la creación y está presente en ella |
-| 326 | H5 | Dios mantiene y conduce la creación |
-| 332 | H5 | V. Dios realiza su designio: la divina providencia |
-| 344 | H5 | La providencia y las causas segundas |
-| 352 | H5 | La providencia y el escándalo del mal |
-| 374 | H5 | Resumen |
-| 396 | H4 | PÁRRAFO 5 |
-| 398 | H4 | EL CIELO Y LA TIERRA |
-| 406 | H5 | I. Los ángeles |
-| 408 | H5 | La existencia de los ángeles, verdad de fe |
-| 412 | H5 | Quiénes son los ángeles |
-| 426 | H5 | Los ángeles en la vida de la Iglesia |
-| 434 | H5 | II. El mundo visible |
-| 488 | H5 | Resumen |
-| 500 | H4 | PÁRRAFO 6 |
-| 502 | H4 | EL HOMBRE |
-| 506 | H5 | I. “A imagen de Dios” |
-| 528 | H5 | II. “Corpore et anima unus” |
-| 546 | H5 | III. “Hombre y mujer los creó” |
-| 548 | H5 | Igualdad y diferencia queridas por Dios |
-| 562 | H5 | IV. El hombre en el paraíso |
-| 576 | H5 | Resumen |
-| 588 | H4 | PÁRRAFO 7 |
-| 590 | H4 | LA CAÍDA |
-| 594 | H5 | I. Donde abundó el pecado, sobreabundó la gracia |
-| 596 | H5 | La realidad del pecado |
-| 602 | H5 | El pecado original: una verdad esencial de la fe |
-| 608 | H5 | Para leer el relato de la caída |
-| 612 | H5 | II. La caída de los ángeles |
-| 624 | H5 | III. El pecado original |
-| 626 | H5 | La prueba de la libertad |
-| 630 | H5 | El primer pecado del hombre |
-| 644 | H5 | Consecuencias del pecado de Adán para la humanidad |
-| 656 | H5 | Un duro combate… |
-| 666 | H5 | IV. “No lo abandonaste al poder de la muerte” |
-| 674 | H5 | Resumen |
-| 697 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PRIMERA PARTE |
+| H2 | SEGUNDA SECCIÓN |
+| H4 | LA PROFESIÓN DE LA FE CRISTIANA |
+| H3 | CAPÍTULO PRIMERO |
+| H4 | CREO EN DIOS PADRE |
+| H4 | ARTÍCULO 1 |
+| H4 | “CREO EN DIOS, PADRE TODOPODEROSO, CREADOR DEL CIELO Y DE LA TIERRA” |
+| H4 | PÁRRAFO 1 |
+| H4 | CREO EN DIOS |
+| H5 | I. «Creo en un solo Dios» |
+| H5 | II. Dios revela su Nombre |
+| H5 | El Dios vivo |
+| H5 | Solo Dios ES |
+| H5 | III. Dios, “El que es”, es verdad y amor |
+| H5 | Dios es la Verdad |
+| H5 | Dios es Amor |
+| H5 | IV. Consecuencias de la fe en el Dios único |
+| H5 | Resumen |
+| H4 | PÁRRAFO 2 |
+| H4 | EL PADRE |
+| H5 | I. “En el nombre del Padre y del Hijo y del Espíritu Santo” |
+| H5 | II. La revelación de Dios como Trinidad |
+| H5 | El Padre revelado por el Hijo |
+| H5 | El Padre y el Hijo revelados por el Espíritu |
+| H5 | III. La Santísima Trinidad en la doctrina de la fe |
+| H5 | La formación del dogma trinitario |
+| H5 | El dogma de la Santísima Trinidad |
+| H5 | IV. Las obras divinas y las misiones trinitarias |
+| H5 | Resumen |
+| H4 | PÁRRAFO 3 |
+| H4 | EL TODOPODEROSO |
+| H5 | El misterio de la aparente impotencia de Dios |
+| H5 | Resumen |
+| H4 | PÁRRAFO 4 |
+| H4 | EL CREADOR |
+| H5 | I. La catequesis sobre la creación |
+| H5 | II. La creación: obra de la Santísima Trinidad |
+| H5 | III. “El mundo ha sido creado para la gloria de Dios” |
+| H5 | IV. El misterio de la creación |
+| H5 | Dios crea por sabiduría y por amor |
+| H5 | Dios crea un mundo ordenado y bueno |
+| H5 | Dios transciende la creación y está presente en ella |
+| H5 | Dios mantiene y conduce la creación |
+| H5 | V. Dios realiza su designio: la divina providencia |
+| H5 | La providencia y las causas segundas |
+| H5 | La providencia y el escándalo del mal |
+| H5 | Resumen |
+| H4 | PÁRRAFO 5 |
+| H4 | EL CIELO Y LA TIERRA |
+| H5 | I. Los ángeles |
+| H5 | La existencia de los ángeles, verdad de fe |
+| H5 | Quiénes son los ángeles |
+| H5 | Los ángeles en la vida de la Iglesia |
+| H5 | II. El mundo visible |
+| H5 | Resumen |
+| H4 | PÁRRAFO 6 |
+| H4 | EL HOMBRE |
+| H5 | I. “A imagen de Dios” |
+| H5 | II. “Corpore et anima unus” |
+| H5 | III. “Hombre y mujer los creó” |
+| H5 | Igualdad y diferencia queridas por Dios |
+| H5 | IV. El hombre en el paraíso |
+| H5 | Resumen |
+| H4 | PÁRRAFO 7 |
+| H4 | LA CAÍDA |
+| H5 | I. Donde abundó el pecado, sobreabundó la gracia |
+| H5 | La realidad del pecado |
+| H5 | El pecado original: una verdad esencial de la fe |
+| H5 | Para leer el relato de la caída |
+| H5 | II. La caída de los ángeles |
+| H5 | III. El pecado original |
+| H5 | La prueba de la libertad |
+| H5 | El primer pecado del hombre |
+| H5 | Consecuencias del pecado de Adán para la humanidad |
+| H5 | Un duro combate… |
+| H5 | IV. “No lo abandonaste al poder de la muerte” |
+| H5 | Resumen |
+| H3 | Referencias |

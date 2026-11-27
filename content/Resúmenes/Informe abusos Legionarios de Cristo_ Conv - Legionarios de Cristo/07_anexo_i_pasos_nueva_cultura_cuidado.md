@@ -69,4 +69,4 @@ Cronología detallada de la **implementación de la Política de Ambientes Segur
 
 ## Referencia original
 
-📄 Fuente original: `08_08_anexo_i.md` (línea 1–63)
+📄 Fuente original: `08_08_anexo_i.md`

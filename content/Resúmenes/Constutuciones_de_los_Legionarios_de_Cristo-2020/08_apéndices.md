@@ -25,9 +25,9 @@ Sección final del volumen de las *Constituciones* de los Legionarios de Cristo 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Apéndices |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Apéndices |
 
 ## Secciones incluidas
 

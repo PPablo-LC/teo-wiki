@@ -121,28 +121,28 @@ Por su relevancia, se responde a estas preguntas en un comunicado específico qu
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Renunciando a todo lo que nos estorba |
-| 6 | H3 | La vida fraterna en común |
-| 9 | H3 | La vida fraterna en Cristo |
-| 11 | H3 | Hermanos en la oración |
-| 14 | H3 | Hermanos en la vida común |
-| 18 | H3 | Hermanos en la misión |
-| 21 | H3 | Unidad en la diversidad |
-| 24 | H3 | Relaciones de fraternidad y amistad |
-| 27 | H3 | Confianza mutua y plenitud sacerdotal |
-| 31 | H3 | Proyecto comunitario |
-| 34 | H3 | Formación continua para comunidades de apostolado |
-| 37 | H3 | El don de la corrección fraterna |
-| 41 | H3 | El descanso comunitario |
-| 45 | H3 | La vida fraterna como don para la Iglesia |
-| 48 | H3 | Frutos de la pobreza |
-| 51 | H3 | Un aspecto que requiere renovación |
-| 54 | H3 | Un horizonte que inspira e interpela |
-| 57 | H3 | Una oportunidad de crecer |
-| 60 | H3 | Autoevaluación creativa |
-| 63 | H3 | Avivar el don de Dios |
-| 66 | H3 | Abrazar con entusiasmo la pobreza |
-| 69 | H3 | Examen personal, comunitario y territorial |
-| 77 | H3 | La vivencia evangélica de la autoridad y la obediencia |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Renunciando a todo lo que nos estorba |
+| H3 | La vida fraterna en común |
+| H3 | La vida fraterna en Cristo |
+| H3 | Hermanos en la oración |
+| H3 | Hermanos en la vida común |
+| H3 | Hermanos en la misión |
+| H3 | Unidad en la diversidad |
+| H3 | Relaciones de fraternidad y amistad |
+| H3 | Confianza mutua y plenitud sacerdotal |
+| H3 | Proyecto comunitario |
+| H3 | Formación continua para comunidades de apostolado |
+| H3 | El don de la corrección fraterna |
+| H3 | El descanso comunitario |
+| H3 | La vida fraterna como don para la Iglesia |
+| H3 | Frutos de la pobreza |
+| H3 | Un aspecto que requiere renovación |
+| H3 | Un horizonte que inspira e interpela |
+| H3 | Una oportunidad de crecer |
+| H3 | Autoevaluación creativa |
+| H3 | Avivar el don de Dios |
+| H3 | Abrazar con entusiasmo la pobreza |
+| H3 | Examen personal, comunitario y territorial |
+| H3 | La vivencia evangélica de la autoridad y la obediencia |

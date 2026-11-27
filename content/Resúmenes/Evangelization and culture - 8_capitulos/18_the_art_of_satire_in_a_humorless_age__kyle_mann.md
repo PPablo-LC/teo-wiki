@@ -41,9 +41,9 @@ La sátira cristiana «no tiene que ser la sátira amarga y mezquina del mundo, 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Art of Satire in a Humorless Age — Kyle Mann |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Art of Satire in a Humorless Age — Kyle Mann |
 
 ## Secciones incluidas
 

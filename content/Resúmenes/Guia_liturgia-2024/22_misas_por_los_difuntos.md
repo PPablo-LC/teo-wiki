@@ -43,6 +43,6 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Misas por los difuntos |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Misas por los difuntos |

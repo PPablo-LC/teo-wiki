@@ -120,33 +120,33 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 17. El gobierno territorial |
-| 3 | H4 | Art. 1. Definición de un territorio |
-| 11 | H4 | Art. 2. El director territorial |
-| 13 | H5 | Nombramiento y potestad |
-| 19 | H5 | Requisitos |
-| 23 | H5 | Cualidades |
-| 27 | H5 | Prioridades |
-| 43 | H5 | Atención personal y visita canónica |
-| 53 | H5 | En el campo administrativo |
-| 61 | H4 | Art. 3. El Consejo Territorial |
-| 63 | H5 | Definición, requisitos |
-| 71 | H5 | Cualidades |
-| 75 | H5 | Delegación de facultades |
-| 83 | H5 | Vicario territorial |
-| 95 | H5 | Reuniones y votaciones |
-| 115 | H5 | Competencias |
-| 153 | H4 | Art. 4. El administrador territorial |
-| 155 | H5 | Nombramiento y cualidades |
-| 167 | H5 | Funciones y competencias |
-| 179 | H4 | Art. 5. El secretario territorial |
-| 181 | H5 | Nombramiento, requisitos y cualidades |
-| 189 | H5 | Funciones |
-| 197 | H4 | Art. 6. El prefecto territorial de estudios |
-| 199 | H5 | Nombramiento, requisitos y cualidades |
-| 209 | H5 | Función |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Capítulo 17. El gobierno territorial |
+| H4 | Art. 1. Definición de un territorio |
+| H4 | Art. 2. El director territorial |
+| H5 | Nombramiento y potestad |
+| H5 | Requisitos |
+| H5 | Cualidades |
+| H5 | Prioridades |
+| H5 | Atención personal y visita canónica |
+| H5 | En el campo administrativo |
+| H4 | Art. 3. El Consejo Territorial |
+| H5 | Definición, requisitos |
+| H5 | Cualidades |
+| H5 | Delegación de facultades |
+| H5 | Vicario territorial |
+| H5 | Reuniones y votaciones |
+| H5 | Competencias |
+| H4 | Art. 4. El administrador territorial |
+| H5 | Nombramiento y cualidades |
+| H5 | Funciones y competencias |
+| H4 | Art. 5. El secretario territorial |
+| H5 | Nombramiento, requisitos y cualidades |
+| H5 | Funciones |
+| H4 | Art. 6. El prefecto territorial de estudios |
+| H5 | Nombramiento, requisitos y cualidades |
+| H5 | Función |
 
 ## Secciones incluidas
 

@@ -47,13 +47,13 @@ Recomienda leer el discurso del papa Francisco al inicio del Sínodo, aplicando 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Introducción del P. Eduardo Robles-Gil, L.C. |
-| 19 | H3 | El momento actual y los pasos seguidos en este año |
-| 57 | H3 | La segunda etapa del Capítulo General |
-| 71 | H3 | Qué esperar de los Estatutos |
-| 85 | H3 | Algunas actitudes para esta segunda etapa |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Introducción del P. Eduardo Robles-Gil, L.C. |
+| H3 | El momento actual y los pasos seguidos en este año |
+| H3 | La segunda etapa del Capítulo General |
+| H3 | Qué esperar de los Estatutos |
+| H3 | Algunas actitudes para esta segunda etapa |
 
 
 ## Secciones incluidas

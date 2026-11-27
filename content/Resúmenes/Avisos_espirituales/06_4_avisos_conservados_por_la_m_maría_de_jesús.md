@@ -30,6 +30,6 @@ Cinco avisos breves conservados por la M. María de Jesús:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | 4. Avisos conservados por la M. María de Jesús |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 4. Avisos conservados por la M. María de Jesús |

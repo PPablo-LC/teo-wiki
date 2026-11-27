@@ -18,7 +18,7 @@ Castellani llama «falsificaciones modernas del Cristo» a las imágenes parcial
 
 El capítulo II enumera: «El Cristo de Renan, el grande e idílico moralista plebeyo; el Cristo de Strauss, el poeta soñador; el hombre de la resignación y de la tristeza dulce de Tolstoi; la inmensa compasión abierta sobre los males del mundo de Schopenhauer; el jurista y legislador de los casuistas; el profeta socialista; y finalmente el Corazón de Jesús de las beatas, protector de las solteronas». La lista se completa con el «Cristo buen mozo de melena rubia con el dedo en el boca del corazón abierto» de la estatuaria, Merejkowski, los jesuitas austríaco y alemán que se quejan de un catolicismo «demasiado femenino», y Constancio Vigil ([[deshumanización_de_la_religión]]).
 
-La causa de las falsificaciones es una omisión: «Se ha suprimido la personalidad de Cristo porque se ha omitido en sus retratos lo que fue su misión esencial. Un hombre se define por su quehacer histórico; el quehacer histórico de Cristo fue la lucha contra el fariseísmo» (CyF, cap. II L25). Sin ese eje, desaparecen la [[indignación_viril]], las dos expulsiones del Templo, la defensa de la mujer de mala fama y el elenco de Mateo 23, y queda un Cristo desarmado que solo sirve para sostener «la moral social... esclerotizada».
+La causa de las falsificaciones es una omisión: «Se ha suprimido la personalidad de Cristo porque se ha omitido en sus retratos lo que fue su misión esencial. Un hombre se define por su quehacer histórico; el quehacer histórico de Cristo fue la lucha contra el fariseísmo» (CyF, cap. II). Sin ese eje, desaparecen la [[indignación_viril]], las dos expulsiones del Templo, la defensa de la mujer de mala fama y el elenco de Mateo 23, y queda un Cristo desarmado que solo sirve para sostener «la moral social... esclerotizada».
 
 La fuente ofrece su propia corrección: el aristócrata místico intuido por Nietzsche —«un alma de nobleza total, de integral personalidad, de soberana libertad»—, el León de Judá, el «hombre noble» de Chesterton que se venga haciéndose daño a sí mismo, y el anagrama boeciano «Quid est Veritas? Est vir qui adest». Ese Cristo es «rey, rey destronado, y por tanto, noble y pueblo a la vez», y por eso fue odiado por los «falsos nobles» ([[fariseísmo]], [[verdad]]).
 
@@ -51,5 +51,5 @@ Se vincula con [[cristo]], [[cristología]], [[fariseísmo]], [[indignación_vir
 
 ## Referencias
 
-- CyF, `04_ii_el_dulce_nazareno.md` L3-125; `13_xi_un_galileo_de_la_psicologia.md`; `14_xii_la_carcel_de_oscar_wilde.md`; `19_apendice_v_el_retiro_de_la_iglesia.md` L55.
+- CyF, `04_ii_el_dulce_nazareno.md`; `13_xi_un_galileo_de_la_psicologia.md`; `14_xii_la_carcel_de_oscar_wilde.md`; `19_apendice_v_el_retiro_de_la_iglesia.md`.
 - CEC 436-451, 464-469; GS 22.

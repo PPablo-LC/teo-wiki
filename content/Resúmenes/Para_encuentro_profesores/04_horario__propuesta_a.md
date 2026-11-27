@@ -85,7 +85,7 @@ El documento enseña que el Encuentro "integra los cinco elementos de la vida de
 
 ## Secciones incluidas
 
-- Horario — Propuesta A (líneas 46–63)
-- Bloque 1: Lectura Orante del Evangelio — El Encuentro (líneas 65–75)
-- Bloque 2: Compromisos de Vida Cristiana — Las Convicciones (líneas 77–87)
-- Bloque 3: Discernimiento Apostólico — Las Decisiones (líneas 89–99)
+- Horario — Propuesta A
+- Bloque 1: Lectura Orante del Evangelio — El Encuentro
+- Bloque 2: Compromisos de Vida Cristiana — Las Convicciones
+- Bloque 3: Discernimiento Apostólico — Las Decisiones

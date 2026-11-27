@@ -95,9 +95,9 @@ después de contemplar en la tierra, humanamente, al Salvador» (cf.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | INTRODUCCIÓN — MUERTE, AMOR, SANTIDAD |
-| 5 | H2 | EL DOLOR PREGUNTA Y EL AMOR PROMETE |
-| 21 | H2 | JESUCRISTO: EL QUE MANTIENE LA PROMESA |
-| 41 | H2 | LA EXPERIENCIA DE LOS SANTOS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | INTRODUCCIÓN — MUERTE, AMOR, SANTIDAD |
+| H2 | EL DOLOR PREGUNTA Y EL AMOR PROMETE |
+| H2 | JESUCRISTO: EL QUE MANTIENE LA PROMESA |
+| H2 | LA EXPERIENCIA DE LOS SANTOS |

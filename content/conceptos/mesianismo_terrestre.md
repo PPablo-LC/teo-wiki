@@ -24,9 +24,9 @@ El mesianismo terrestre se vincula estrechamente con la tecnocracia y con la int
 
 ### Según Evangelization & Culture (EAC-19)
 
-La fuente principal es el discurso de Dietrich von Hildebrand «Technology & It's Dangers» (11_minds.md). El desarrollo tecnológico fomenta en muchos la creencia en un progreso ilimitado de la humanidad, en una suerte de mesianismo terrestre: el portentoso progreso de la tecnología y de la medicina da la ilusión de que el hombre avanza de manera constante en todo otro respecto y de que se dirige a cambiar el valle de lágrimas en un paraíso (11_minds.md L9).
+La fuente principal es el discurso de Dietrich von Hildebrand «Technology & It's Dangers» (11_minds.md). El desarrollo tecnológico fomenta en muchos la creencia en un progreso ilimitado de la humanidad, en una suerte de mesianismo terrestre: el portentoso progreso de la tecnología y de la medicina da la ilusión de que el hombre avanza de manera constante en todo otro respecto y de que se dirige a cambiar el valle de lágrimas en un paraíso (11_minds.md).
 
-Von Hildebrand advierte del peligro del mesianismo terrestre, de la ilusión de un progreso ilimitado capaz de cambiar el valle de lágrimas en un paraíso, y cita al P. Daniélou: «el hombre puede hacer toda clase de progresos en el adorno de su jaula, pero no puede abandonar la jaula, es decir, una vida que termina con la muerte». Nuestra vida en la tierra es esencialmente un *status viae*, y solo la eternidad puede ser el cumplimiento de nuestra existencia terrestre; una prolongación indefinida sería una contradicción en sí misma, una eterna excomunión respecto de nuestro verdadero fin (11_minds.md L73-75). La formación cristiana debe prevenir la peligrosa ilusión del progreso ilimitado o del mesianismo terrestre.
+Von Hildebrand advierte del peligro del mesianismo terrestre, de la ilusión de un progreso ilimitado capaz de cambiar el valle de lágrimas en un paraíso, y cita al P. Daniélou: «el hombre puede hacer toda clase de progresos en el adorno de su jaula, pero no puede abandonar la jaula, es decir, una vida que termina con la muerte». Nuestra vida en la tierra es esencialmente un *status viae*, y solo la eternidad puede ser el cumplimiento de nuestra existencia terrestre; una prolongación indefinida sería una contradicción en sí misma, una eterna excomunión respecto de nuestro verdadero fin (11_minds.md). La formación cristiana debe prevenir la peligrosa ilusión del progreso ilimitado o del mesianismo terrestre.
 
 ## Distinciones importantes
 
@@ -47,4 +47,4 @@ Von Hildebrand advierte del peligro del mesianismo terrestre, de la ilusión de 
 
 ## Referencias
 
-- [EAC-19, 11_minds.md — Dietrich von Hildebrand, «Technology & Its Dangers», L9, L73-75]
+- [EAC-19, 11_minds.md — Dietrich von Hildebrand, «Technology & Its Dangers»]

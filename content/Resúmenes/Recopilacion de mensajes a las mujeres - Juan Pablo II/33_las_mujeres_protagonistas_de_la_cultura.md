@@ -36,8 +36,8 @@ Dirijamos nuestra mirada a la Virgen Santísima. Ella, al igual que las demás m
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Las mujeres, protagonistas de la cultura |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Las mujeres, protagonistas de la cultura |
 
 ## Secciones incluidas

@@ -62,4 +62,4 @@ Las preguntas invitan a analizar las revelaciones implícitas y explícitas de l
 
 ## Fuente original
 
-- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/05_lesson_five_exploring_the_trinity.md` (líneas 1-201)
+- `raw/Bases_doctrinales-raw/The Mystery of God - Study Guide/05_lesson_five_exploring_the_trinity.md`

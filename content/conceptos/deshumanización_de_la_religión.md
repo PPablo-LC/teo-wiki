@@ -16,7 +16,7 @@ La deshumanización de la religión es, en la terminología de Castellani, «el 
 
 ## Desarrollo doctrinal
 
-El diagnóstico se inserta en la crítica de las [[falsificaciones_del_cristo]]. El Cristo de la predicación actual, dice la fuente, «no es ni hombre ni mujer: es un concepto». Se ha dejado caer la personalidad y con ella al hombre y, «a fortiori», a Dios, que es Persona (o Tres Personas) y no una idea abstracta. Cristo queda así reducido a «puntal de la moral social», que es «hoy día la moral esclerotizada» (CyF, cap. II L9-13).
+El diagnóstico se inserta en la crítica de las [[falsificaciones_del_cristo]]. El Cristo de la predicación actual, dice la fuente, «no es ni hombre ni mujer: es un concepto». Se ha dejado caer la personalidad y con ella al hombre y, «a fortiori», a Dios, que es Persona (o Tres Personas) y no una idea abstracta. Cristo queda así reducido a «puntal de la moral social», que es «hoy día la moral esclerotizada» (CyF, cap. II).
 
 El resultado es una religión «poco humana, deshumanizada, desencarnada (y por tanto, ni hombre ni mujer)», servida por «charlines» y practicada por «santulones y fariseos». La causa es el pensamiento recóndito del fariseo: «Todo el que no tiene espíritu como el mío, tiene mal espíritu»; la dulzura y la bendición se reservan a los conformes y la indignación a los disidentes. Frente a eso, «lo contrario justamente es lo verdadero».
 
@@ -51,5 +51,5 @@ Se opone a [[religión_viva]] y [[encarnación]]; se vincula con [[fariseísmo]]
 
 ## Referencias
 
-- CyF, `03_i_cristo_y_los_fariseos.md` L51-53; `04_ii_el_dulce_nazareno.md` L9-13, L119-125; `19_apendice_v_el_retiro_de_la_iglesia.md` L55.
+- CyF, `03_i_cristo_y_los_fariseos.md`; `04_ii_el_dulce_nazareno.md`; `19_apendice_v_el_retiro_de_la_iglesia.md`.
 - CEC 364, 456-478, 521-524, 1694-1695; 1 Cor 6,19; GS 22.

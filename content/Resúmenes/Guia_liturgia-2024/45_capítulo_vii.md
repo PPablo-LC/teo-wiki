@@ -23,6 +23,6 @@ Este archivo contiene únicamente el encabezado que abre el Capítulo VII de la 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo VII |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo VII |

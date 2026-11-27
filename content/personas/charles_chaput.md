@@ -63,7 +63,6 @@ la conciencia política y la prioridad del derecho a la vida.
 ## Referencias
 
 - **Fuente**: [[priests_what_lies_ahead]] (PWL),
-  `06_iv_the_priest_as_pastor_and_guide_in_the_church_and_in_socie.md`
-  (líneas 1-229).
+  `06_iv_the_priest_as_pastor_and_guide_in_the_church_and_in_socie.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Priests_What_Lies_Ahead/índice.md`.

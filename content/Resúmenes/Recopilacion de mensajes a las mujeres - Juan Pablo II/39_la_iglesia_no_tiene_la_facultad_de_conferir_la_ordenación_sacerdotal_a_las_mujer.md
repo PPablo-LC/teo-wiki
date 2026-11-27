@@ -28,8 +28,8 @@ La doctrina según la cual la Iglesia no tiene la facultad de conferir la ordena
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | LA IGLESIA NO TIENE LA FACULTAD DE CONFERIR LA ORDENACIÓN SACERDOTAL A LAS MUJERES |
+| Nivel | Sección |
+|-------|---------|
+| H2 | LA IGLESIA NO TIENE LA FACULTAD DE CONFERIR LA ORDENACIÓN SACERDOTAL A LAS MUJERES |
 
 ## Secciones incluidas

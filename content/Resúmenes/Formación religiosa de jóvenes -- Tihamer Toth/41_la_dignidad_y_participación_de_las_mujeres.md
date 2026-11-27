@@ -42,7 +42,7 @@ La globalización influye en las ciencias y en sus métodos, prescindiendo de lo
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA DIGNIDAD Y PARTICIPACIÓN DE LAS MUJERES |
-| 7 | H3 | LA CULTURA DE LA VIDA: SU PROCLAMACIÓN Y SU DEFENSA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA DIGNIDAD Y PARTICIPACIÓN DE LAS MUJERES |
+| H3 | LA CULTURA DE LA VIDA: SU PROCLAMACIÓN Y SU DEFENSA |

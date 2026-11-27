@@ -115,7 +115,7 @@ Cada Bienaventuranza es desarrollada como una invitación a entrar en comunión 
 - **Pacificadores**: Jesús como el verdadero Salomón que trae la paz
 - **Perseguidos**: la persecución es inherente a la fe en un mundo que rechaza la autoridad de Cristo
 
-> «Las Bienaventuranzas son la transposición de la cruz y la resurrección a la existencia del discípulo» (WoF, L2)
+> «Las Bienaventuranzas son la transposición de la cruz y la resurrección a la existencia del discípulo» (WoF)
 
 ### Según la Veritatis Splendor (VS)
 
@@ -142,6 +142,17 @@ En la colina de Tabgha, [[luigi_giussani]] propone una lectura genética de las 
 - **Piedra miliar**: el camino tiene un punto de referencia viviente, Pedro y el Papa, «il punto di riferimento vivente» de esa pertenencia (STC, 06).
 
 Referencia: `wiki/Resúmenes/Sulle_tracce_di_Cristo_capitulos/07_cafarnao.md`.
+
+### Según *Life of Christ* (LCh, cap. 11)
+
+Sheen une el monte de las bienaventuranzas y el Calvario como «the first and second acts in a two-act drama»: quien subió al primero a predicar tenía que subir al segundo a practicar lo predicado (cap. 11). De ahí su tesis más fuerte: el día que las predicó «He signed His own death warrant»; el sermón no puede separarse de la Crucifixión, y «Calvary was the price He paid for the Sermon on the Mount».
+
+Su lectura tiene dos aportaciones propias. La primera es el **inventario de las ocho consignas del mundo** que el sermón invierte —«Security», «Revenge», «Laughter», «Popularity», «Getting Even», «Sex», «Armed Might», «Comfort»—, con la réplica correspondiente para cada una. La segunda es el análisis de la fórmula «You have heard … But I tell you»: el «habéis oído» abarca la Ley mosaica, el óctuple camino de Buda, las reglas de Confucio, la felicidad natural de Aristóteles y los humanitarismos modernos, es decir, todos los compromisos a medio camino; el «pero» va al corazón y hace pecado el deseo, no sólo el acto.
+
+- «If it was wrong to do a certain thing, it was wrong to think about that thing»; y contra la excusa ambiental: «The offenses result from our own will, and not from our glands».
+- La otra mejilla tiene una razón casi aritmética: el odio se multiplica como semilla y sólo se corta cuando uno absorbe el golpe; «The Christian law is that the innocent shall suffer for the guilty».
+- Cada bienaventuranza se verifica en la Pasión —el pobre sin sepulcro propio, el manso abofeteado, el limpio de corazón desnudo en la Cruz—, y a las ocho siguen las cuatro «woes» de Lc 6,24-26: «Crucifixion cannot be far away when a Teacher says “woe” to the rich».
+- Síntesis: «What He taught was self-crucifixion»; no caben dos cielos, uno falsificado abajo y otro verdadero arriba.
 
 ## Analizado para
 

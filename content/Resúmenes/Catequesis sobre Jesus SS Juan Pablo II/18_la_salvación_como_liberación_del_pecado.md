@@ -49,6 +49,6 @@ La unión filial de Jesús con el Padre se expresa en el amor, mandamiento princ
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | (LA SALVACIÓN COMO LIBERACIÓN DEL PECADO) |
+| Nivel | Sección |
+|-------|---------|
+| H2 | (LA SALVACIÓN COMO LIBERACIÓN DEL PECADO) |

@@ -22,6 +22,6 @@ Este archivo contiene únicamente el encabezado que abre el Apéndice de la Guí
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Apéndice |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Apéndice |

@@ -32,9 +32,9 @@ Entrevista con Cory Mendenhall, artista que ilustró la poesía del número inau
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Journey of Cory Mendenhall |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Journey of Cory Mendenhall |
 
 ## Secciones incluidas
 

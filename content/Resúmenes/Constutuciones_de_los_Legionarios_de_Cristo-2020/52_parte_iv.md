@@ -25,6 +25,6 @@ Título de la cuarta parte de las Constituciones: «La obligación del derecho p
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Parte IV |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Parte IV |

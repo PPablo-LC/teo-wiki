@@ -48,4 +48,4 @@ La infancia puede ser difícil, pero por ser breve y no estar cansada del mundo,
 
 ## Referencia original
 
-📄 Fuente original: `04_midnight_oil.md` (línea 1–165)
+📄 Fuente original: `04_midnight_oil.md`

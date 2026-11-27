@@ -64,68 +64,68 @@ La alianza matrimonial, consorcio de toda la vida ordenado por su índole natura
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | LIBRO IV |
-| 3 | H3 | LA FUNCIÓN DE SANTIFICAR DE LA IGLESIA (Cann. 849 – 1253) |
-| 36 | H3 | PARTE I |
-| 79 | H4 | TÍTULO I |
-| 85 | H5 | CAPÍTULO I |
-| 120 | H5 | CAPÍTULO II |
-| 132 | H5 | CAPÍTULO III |
-| 164 | H5 | CAPÍTULO IV |
-| 187 | H5 | CAPÍTULO V |
-| 203 | H4 | TÍTULO II |
-| 210 | H5 | CAPÍTULO I |
-| 220 | H5 | CAPÍTULO II |
-| 249 | H5 | CAPÍTULO III |
-| 261 | H5 | CAPÍTULO IV |
-| 271 | H5 | CAPÍTULO V |
-| 280 | H4 | TÍTULO III |
-| 289 | H5 | CAPÍTULO I |
-| 409 | H5 | CAPÍTULO II |
-| 453 | H5 | CAPÍTULO III |
-| 504 | H4 | TÍTULO IV |
-| 511 | H5 | CAPÍTULO I |
-| 538 | H5 | CAPÍTULO II |
-| 615 | H5 | CAPÍTULO III |
-| 632 | H5 | CAPÍTULO IV |
-| 652 | H4 | TÍTULO V |
-| 659 | H5 | CAPÍTULO I |
-| 675 | H5 | CAPÍTULO II |
-| 683 | H5 | CAPÍTULO III |
-| 697 | H4 | TÍTULO VI |
-| 709 | H5 | CAPÍTULO I |
-| 758 | H5 | CAPÍTULO II |
-| 916 | H5 | CAPÍTULO III |
-| 925 | H4 | TÍTULO VII |
-| 954 | H5 | CAPÍTULO I |
-| 1008 | H5 | CAPÍTULO II |
-| 1051 | H5 | CAPÍTULO III |
-| 1102 | H5 | CAPÍTULO IV |
-| 1163 | H5 | CAPÍTULO V |
-| 1221 | H5 | CAPÍTULO VI |
-| 1247 | H5 | CAPÍTULO VII |
-| 1261 | H5 | CAPÍTULO VIII |
-| 1281 | H5 | CAPÍTULO IX |
-| 1349 | H5 | CAPÍTULO X |
-| 1401 | H3 | PARTE II |
-| 1405 | H4 | TÍTULO I |
-| 1430 | H4 | TÍTULO II |
-| 1444 | H4 | TÍTULO III |
-| 1455 | H5 | CAPÍTULO I |
-| 1478 | H5 | CAPÍTULO II |
-| 1500 | H4 | TÍTULO IV |
-| 1526 | H4 | TÍTULO V |
-| 1530 | H5 | CAPÍTULO I |
-| 1566 | H5 | CAPÍTULO II |
-| 1599 | H3 | PARTE III |
-| 1603 | H4 | TÍTULO I |
-| 1631 | H5 | CAPÍTULO I |
-| 1664 | H5 | CAPÍTULO II |
-| 1683 | H5 | CAPÍTULO III |
-| 1701 | H5 | CAPÍTULO IV |
-| 1727 | H5 | CAPÍTULO V |
-| 1745 | H4 | TÍTULO II |
-| 1754 | H5 | CAPÍTULO I |
-| 1769 | H5 | CAPÍTULO II |
+| Nivel | Sección |
+|-------|---------|
+| H2 | LIBRO IV |
+| H3 | LA FUNCIÓN DE SANTIFICAR DE LA IGLESIA (Cann. 849 – 1253) |
+| H3 | PARTE I |
+| H4 | TÍTULO I |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H5 | CAPÍTULO III |
+| H5 | CAPÍTULO IV |
+| H5 | CAPÍTULO V |
+| H4 | TÍTULO II |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H5 | CAPÍTULO III |
+| H5 | CAPÍTULO IV |
+| H5 | CAPÍTULO V |
+| H4 | TÍTULO III |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H5 | CAPÍTULO III |
+| H4 | TÍTULO IV |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H5 | CAPÍTULO III |
+| H5 | CAPÍTULO IV |
+| H4 | TÍTULO V |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H5 | CAPÍTULO III |
+| H4 | TÍTULO VI |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H5 | CAPÍTULO III |
+| H4 | TÍTULO VII |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H5 | CAPÍTULO III |
+| H5 | CAPÍTULO IV |
+| H5 | CAPÍTULO V |
+| H5 | CAPÍTULO VI |
+| H5 | CAPÍTULO VII |
+| H5 | CAPÍTULO VIII |
+| H5 | CAPÍTULO IX |
+| H5 | CAPÍTULO X |
+| H3 | PARTE II |
+| H4 | TÍTULO I |
+| H4 | TÍTULO II |
+| H4 | TÍTULO III |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H4 | TÍTULO IV |
+| H4 | TÍTULO V |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H3 | PARTE III |
+| H4 | TÍTULO I |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H5 | CAPÍTULO III |
+| H5 | CAPÍTULO IV |
+| H5 | CAPÍTULO V |
+| H4 | TÍTULO II |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |

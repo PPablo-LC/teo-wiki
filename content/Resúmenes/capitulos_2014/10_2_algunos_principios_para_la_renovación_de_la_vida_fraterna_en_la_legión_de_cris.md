@@ -51,6 +51,6 @@ A esto se une el sabernos hijos de una misma Madre, María. Ella nos reúne como
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 2) Algunos principios para la renovación de la vida fraterna en la Leg |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 2) Algunos principios para la renovación de la vida fraterna en la Leg |

@@ -28,6 +28,6 @@ Hebreos desarrolla la idea citando Sal 40 con la variante decisiva: «Me abriste
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 3. LA MUERTE DE JESÚS COMO RECONCILIACIÓN |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 3. LA MUERTE DE JESÚS COMO RECONCILIACIÓN |

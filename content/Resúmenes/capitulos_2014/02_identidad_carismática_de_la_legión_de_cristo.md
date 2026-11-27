@@ -70,6 +70,6 @@ tags: ["resumen", "capitulos 2014"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | IDENTIDAD CARISMÁTICA DE LA LEGIÓN DE CRISTO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | IDENTIDAD CARISMÁTICA DE LA LEGIÓN DE CRISTO |

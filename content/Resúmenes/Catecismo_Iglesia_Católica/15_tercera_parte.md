@@ -240,61 +240,61 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | TERCERA PARTE |
-| 3 | H2 | PRIMERA SECCIÓN |
-| 4 | H4 | LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU |
-| 6 | H3 | CAPÍTULO PRIMERO |
-| 8 | H4 | LA DIGNIDAD DE LA PERSONA HUMANA |
-| 12 | H4 | ARTÍCULO 1 |
-| 14 | H4 | EL HOMBRE, IMAGEN DE DIOS |
-| 36 | H5 | Resumen |
-| 50 | H4 | ARTÍCULO 2 |
-| 52 | H4 | NUESTRA VOCACIÓN A LA BIENAVENTURANZA |
-| 54 | H5 | I. Las bienaventuranzas |
-| 80 | H5 | II. El deseo de felicidad |
-| 92 | H5 | III. La bienaventuranza cristiana |
-| 110 | H5 | Resumen |
-| 122 | H4 | ARTÍCULO 3 |
-| 124 | H4 | LA LIBERTAD DEL HOMBRE |
-| 130 | H5 | I. Libertad y responsabilidad |
-| 152 | H5 | II. La libertad humana en la Economía de la salvación |
-| 164 | H5 | Resumen |
-| 178 | H4 | ARTÍCULO 4 |
-| 180 | H4 | LA MORALIDAD DE LOS ACTOS HUMANOS |
-| 184 | H5 | I. Fuentes de la moralidad |
-| 204 | H5 | II. Los actos buenos y los actos malos |
-| 212 | H5 | Resumen |
-| 224 | H4 | ARTÍCULO 5 |
-| 226 | H4 | LA MORALIDAD DE LAS PASIONES |
-| 230 | H5 | I. Las pasiones |
-| 240 | H5 | II. Pasiones y vida moral |
-| 250 | H5 | Resumen |
-| 262 | H4 | ARTÍCULO 6 |
-| 264 | H4 | LA CONCIENCIA MORAL |
-| 268 | H5 | I. El dictamen de la conciencia |
-| 288 | H5 | II. La formación de la conciencia |
-| 296 | H5 | III. Decidir en conciencia |
-| 312 | H5 | IV. El juicio erróneo |
-| 326 | H5 | Resumen |
-| 344 | H4 | ARTÍCULO 7 |
-| 346 | H4 | LAS VIRTUDES |
-| 354 | H5 | I. Las virtudes humanas |
-| 360 | H5 | Distinción de las virtudes cardinales |
-| 374 | H5 | Las virtudes y la gracia |
-| 380 | H5 | II. Las virtudes teologales |
-| 386 | H5 | La fe |
-| 394 | H5 | La esperanza |
-| 408 | H5 | La caridad |
-| 432 | H5 | III. Dones y frutos del Espíritu Santo |
-| 444 | H5 | Resumen |
-| 472 | H4 | ARTÍCULO 8 |
-| 474 | H4 | EL PECADO |
-| 476 | H5 | I. La misericordia y el pecado |
-| 486 | H5 | II. Definición de pecado |
-| 494 | H5 | III. La diversidad de pecados |
-| 500 | H5 | IV. La gravedad del pecado: pecado mortal y venial |
-| 530 | H5 | V. La proliferación del pecado |
-| 550 | H5 | Resumen |
-| 569 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | TERCERA PARTE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU |
+| H3 | CAPÍTULO PRIMERO |
+| H4 | LA DIGNIDAD DE LA PERSONA HUMANA |
+| H4 | ARTÍCULO 1 |
+| H4 | EL HOMBRE, IMAGEN DE DIOS |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | NUESTRA VOCACIÓN A LA BIENAVENTURANZA |
+| H5 | I. Las bienaventuranzas |
+| H5 | II. El deseo de felicidad |
+| H5 | III. La bienaventuranza cristiana |
+| H5 | Resumen |
+| H4 | ARTÍCULO 3 |
+| H4 | LA LIBERTAD DEL HOMBRE |
+| H5 | I. Libertad y responsabilidad |
+| H5 | II. La libertad humana en la Economía de la salvación |
+| H5 | Resumen |
+| H4 | ARTÍCULO 4 |
+| H4 | LA MORALIDAD DE LOS ACTOS HUMANOS |
+| H5 | I. Fuentes de la moralidad |
+| H5 | II. Los actos buenos y los actos malos |
+| H5 | Resumen |
+| H4 | ARTÍCULO 5 |
+| H4 | LA MORALIDAD DE LAS PASIONES |
+| H5 | I. Las pasiones |
+| H5 | II. Pasiones y vida moral |
+| H5 | Resumen |
+| H4 | ARTÍCULO 6 |
+| H4 | LA CONCIENCIA MORAL |
+| H5 | I. El dictamen de la conciencia |
+| H5 | II. La formación de la conciencia |
+| H5 | III. Decidir en conciencia |
+| H5 | IV. El juicio erróneo |
+| H5 | Resumen |
+| H4 | ARTÍCULO 7 |
+| H4 | LAS VIRTUDES |
+| H5 | I. Las virtudes humanas |
+| H5 | Distinción de las virtudes cardinales |
+| H5 | Las virtudes y la gracia |
+| H5 | II. Las virtudes teologales |
+| H5 | La fe |
+| H5 | La esperanza |
+| H5 | La caridad |
+| H5 | III. Dones y frutos del Espíritu Santo |
+| H5 | Resumen |
+| H4 | ARTÍCULO 8 |
+| H4 | EL PECADO |
+| H5 | I. La misericordia y el pecado |
+| H5 | II. Definición de pecado |
+| H5 | III. La diversidad de pecados |
+| H5 | IV. La gravedad del pecado: pecado mortal y venial |
+| H5 | V. La proliferación del pecado |
+| H5 | Resumen |
+| H3 | Referencias |

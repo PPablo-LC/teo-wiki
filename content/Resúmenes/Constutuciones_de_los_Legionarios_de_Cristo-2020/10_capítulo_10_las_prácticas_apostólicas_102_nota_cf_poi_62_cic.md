@@ -34,10 +34,10 @@ El capítulo se abre con el fundamento pastoral del *Pastores dabo vobis* (PDV, 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | **Capítulo 10. Las prácticas apostólicas** ^[102](nota: Cf. *PoI* , 62 |
-| 5 | H5 | Las prácticas apostólicas |
+| Nivel | Sección |
+|-------|---------|
+| H3 | **Capítulo 10. Las prácticas apostólicas** ^[102](nota: Cf. *PoI* , 62 |
+| H5 | Las prácticas apostólicas |
 
 ## Secciones incluidas
 

@@ -103,13 +103,13 @@ Firmado por el P. Jaime Rodríguez, L.C. (secretario general, 2011-2018) y el P.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Informe de cumplimiento del gobierno general sobre los encargos del Capítulo General extraordinario de enero 2014 |
-| 3 | H3 | La Legión de Cristo en el Regnum Christi |
-| 17 | H3 | La vida fraterna en comunidad |
-| 21 | H3 | Vida litúrgica y de oración |
-| 29 | H3 | La formación del legionario y la Ratio institutionis |
-| 49 | H3 | Comunicado sobre nuestra renovación apostólica |
-| 57 | H3 | Gobierno, autoridad y obediencia |
-| 91 | H3 | Comunicado sobre pobreza y administración |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Informe de cumplimiento del gobierno general sobre los encargos del Capítulo General extraordinario de enero 2014 |
+| H3 | La Legión de Cristo en el Regnum Christi |
+| H3 | La vida fraterna en comunidad |
+| H3 | Vida litúrgica y de oración |
+| H3 | La formación del legionario y la Ratio institutionis |
+| H3 | Comunicado sobre nuestra renovación apostólica |
+| H3 | Gobierno, autoridad y obediencia |
+| H3 | Comunicado sobre pobreza y administración |

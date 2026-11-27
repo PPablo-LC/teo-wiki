@@ -23,6 +23,6 @@ Esta primera página es solo la portada del libro: identifica la obra, su autor 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CATEQUESIS SOBRE JESUCRISTO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CATEQUESIS SOBRE JESUCRISTO |

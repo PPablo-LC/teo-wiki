@@ -29,6 +29,6 @@ Esta cita fundamenta el principio de que las celebraciones litúrgicas, en parti
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | litúrgicas en la Legión |
+| Nivel | Sección |
+|-------|---------|
+| H1 | litúrgicas en la Legión |

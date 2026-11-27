@@ -36,6 +36,6 @@ tags: ["resumen", "a que jesus seguimos"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | III. EN BUSCA DE LOS RASGOS ESENCIALES DE LA IMAGEN VERDADERA DE JESÚS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | III. EN BUSCA DE LOS RASGOS ESENCIALES DE LA IMAGEN VERDADERA DE JESÚS |

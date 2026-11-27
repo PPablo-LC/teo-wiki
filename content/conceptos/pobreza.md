@@ -86,24 +86,34 @@ en espíritu de caridad, es decir, usándolo todo para el Reino de Dios» (02, 2
 ### Según *The Cries of Jesus from the Cross* (CJC)
 
 *Victory over Vice* trata la pobreza por contraste con la avaricia, definida
-como «an inordinate love of the things of this world» (CJC, cap. 54, L3). El
+como «an inordinate love of the things of this world» (CJC, cap. 54). El
 criterio no es la cantidad sino la ordenación: los bienes son lícitos y
 necesarios «to enable us to live according to our station in life, to
 mitigate suffering, to advance the kingdom of God, and to save our souls»
-(L9). La pobreza cristiana no consiste, pues, en tener poco, sino en no
+. La pobreza cristiana no consiste, pues, en tener poco, sino en no
 tener el corazón puesto en lo que se tiene.
 
 La prueba está en la muerte. El avaro, «like a giant tied down by ten
 thousand ropes», no puede desprenderse de nada y «becomes at death the most
-destitute and despoiled beggar in the universe» (L61-71); el desprendido, en
+destitute and despoiled beggar in the universe»; el desprendido, en
 cambio, halla en la muerte una liberación: «Earth and its possessions are
-the cage that confines us and death is the opening of its door» (L73). De
+the cage that confines us and death is the opening of its door». De
 ahí la alabanza del voto: «Our powers of dispossession are greater than our
 powers of possession… That is why the soul with the vow of poverty is more
 satisfied than the richest covetous man in the world, for the latter has not
-yet all he wants, while the religious wants nothing» (L75). Cristo es el
+yet all he wants, while the religious wants nothing». Cristo es el
 ejemplo consumado: sin techo (Mt 8,20), sin testamento y sin más posesión
-que su espíritu (L47-55).
+que su espíritu.
+
+### Según *Life of Christ* (LCh, caps. 11 y 16)
+
+Sheen distingue con precisión entre el **precepto** y el **consejo**: al joven rico no se le condena por tener bienes —Zaqueo conservó la mitad, José de Arimatea era rico, el Señor comía en casa de amigos ricos de Betania—, sino que se le propone un grado más alto, la renuncia, porque él mismo preguntó qué le faltaba para la perfección (cap. 16). «There are degrees in the love of God, one common and the other heroic». Y la medida de la caridad no es lo que se da, sino lo que se deja: «Charity is to be measured, not by what one has given away, but by what one has left».
+
+El fundamento antropológico que añade es la distinción entre libertad interior y exterior: «la persona es libre por dentro porque puede llamar suya su alma, y libre por fuera porque puede llamar suya su propiedad»; la primera se funda en «I am», la segunda en «I have». El deseo de poseer es derecho natural, pero se desordena en avaricia igual que el sexo en lujuria: «lust is sex in the wrong place, as dirt is matter in the wrong place».
+
+- La pobreza de espíritu se verifica en la Pasión: el que la predicó «will be so poor that during life he will have nowhere to lay his head», y morirá sin nada, con sepulcro ajeno como tuvo establo ajeno (cap. 11).
+- El ciento por uno se promete «with persecution», y la persecución no se añade como pérdida sino como ganancia (Mc 10,29-30; cap. 16).
+- «Thus did the Master brand Calvary into their flesh and their possessions».
 
 ## Distinciones importantes
 

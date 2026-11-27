@@ -125,31 +125,31 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | TERCERA PARTE |
-| 3 | H2 | PRIMERA SECCIÓN |
-| 4 | H4 | LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU |
-| 6 | H3 | CAPÍTULO TERCERO |
-| 8 | H4 | LA SALVACIÓN DE DIOS: LA LEY Y LA GRACIA |
-| 14 | H4 | ARTÍCULO 1 |
-| 16 | H4 | LA LEY MORAL |
-| 28 | H5 | I. La ley moral natural |
-| 54 | H5 | II. La Ley antigua |
-| 68 | H5 | III. La Ley nueva o Ley evangélica |
-| 96 | H5 | Resumen |
-| 122 | H4 | ARTÍCULO 2 |
-| 124 | H4 | GRACIA Y JUSTIFICACIÓN |
-| 126 | H5 | I. La justificación |
-| 156 | H5 | II. La gracia |
-| 188 | H5 | III. El mérito |
-| 206 | H5 | IV. La santidad cristiana |
-| 222 | H5 | Resumen |
-| 250 | H4 | ARTÍCULO 3 |
-| 252 | H4 | LA IGLESIA, MADRE Y MAESTRA |
-| 258 | H5 | I. Vida moral y Magisterio de la Iglesia |
-| 278 | H5 | II. Los mandamientos de la Iglesia |
-| 292 | H5 | III. Vida moral y testimonio misionero |
-| 300 | H5 | Resumen |
-| 312 | H1 | TERCERA PARTE |
-| 317 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | TERCERA PARTE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU |
+| H3 | CAPÍTULO TERCERO |
+| H4 | LA SALVACIÓN DE DIOS: LA LEY Y LA GRACIA |
+| H4 | ARTÍCULO 1 |
+| H4 | LA LEY MORAL |
+| H5 | I. La ley moral natural |
+| H5 | II. La Ley antigua |
+| H5 | III. La Ley nueva o Ley evangélica |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | GRACIA Y JUSTIFICACIÓN |
+| H5 | I. La justificación |
+| H5 | II. La gracia |
+| H5 | III. El mérito |
+| H5 | IV. La santidad cristiana |
+| H5 | Resumen |
+| H4 | ARTÍCULO 3 |
+| H4 | LA IGLESIA, MADRE Y MAESTRA |
+| H5 | I. Vida moral y Magisterio de la Iglesia |
+| H5 | II. Los mandamientos de la Iglesia |
+| H5 | III. Vida moral y testimonio misionero |
+| H5 | Resumen |
+| H1 | TERCERA PARTE |
+| H3 | Referencias |

@@ -37,7 +37,7 @@ En este tiempo en que se habla de renacimiento religioso, prevalece a menudo una
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 5 | H1 | PREFAZIONE |
-| 19 | H1 | NOTA INTRODUTTIVA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PREFAZIONE |
+| H1 | NOTA INTRODUTTIVA |

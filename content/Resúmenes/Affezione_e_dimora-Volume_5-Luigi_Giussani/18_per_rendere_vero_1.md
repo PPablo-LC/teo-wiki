@@ -84,15 +84,15 @@ Más que insistir en los pensamientos, hay que domandare. Toda la sabiduría y l
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PER RENDERE VERO (1) |
-| 35 | Blockquote | L'aspirazione alla felicità |
-| 103 | Blockquote | Guardando indietro: il vuoto |
-| 125 | Blockquote | Senza sacrificio non è vero il rapporto |
-| 145 | Blockquote | E assurdo «desiderare il sacrificio» |
-| 157 | Blockquote | Cosa il sacrificio rende vero? |
-| 205 | Blockquote | Due sacrifici nel rapporto |
-| 219 | Blockquote | Il sacrificio di fronte a una presenza |
-| 239 | Blockquote | Nel timore l'amore non è perfetto |
-| 263 | Blockquote | La vita è una cosa seria |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PER RENDERE VERO (1) |
+| Blockquote | L'aspirazione alla felicità |
+| Blockquote | Guardando indietro: il vuoto |
+| Blockquote | Senza sacrificio non è vero il rapporto |
+| Blockquote | E assurdo «desiderare il sacrificio» |
+| Blockquote | Cosa il sacrificio rende vero? |
+| Blockquote | Due sacrifici nel rapporto |
+| Blockquote | Il sacrificio di fronte a una presenza |
+| Blockquote | Nel timore l'amore non è perfetto |
+| Blockquote | La vita è una cosa seria |

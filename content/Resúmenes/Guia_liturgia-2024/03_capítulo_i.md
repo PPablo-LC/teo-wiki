@@ -22,6 +22,6 @@ El contenido detallado se desarrolla en los archivos siguientes: oración en com
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo I |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo I |

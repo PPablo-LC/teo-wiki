@@ -75,4 +75,4 @@ Relación pormenorizada del **cumplimiento en 2021** de los **7 compromisos (A-G
 
 ## Referencia original
 
-📄 Fuente original: `04_avances_compromisos.md` (línea 1–110)
+📄 Fuente original: `04_avances_compromisos.md`

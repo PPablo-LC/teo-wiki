@@ -24,6 +24,6 @@ El archivo es el rótulo de apertura de la **Parte II** de la obra, titulada *Cr
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | **II** - **CRISTO, SORGENTE DELL’AFFEZIONE** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | **II** - **CRISTO, SORGENTE DELL’AFFEZIONE** |

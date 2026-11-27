@@ -66,6 +66,6 @@ El artículo se cierra con esta frase destacada: «Todas las criaturas vivientes
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Lives: Saint Dymphna's Aid for AI Anxieties — Ángela M. Jendro |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Lives: Saint Dymphna's Aid for AI Anxieties — Ángela M. Jendro |

@@ -29,8 +29,8 @@ Sin embargo, una larga historia de pecado ha perturbado el designio original. Es
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | En comunión de amor |
+| Nivel | Sección |
+|-------|---------|
+| H2 | En comunión de amor |
 
 ## Secciones incluidas

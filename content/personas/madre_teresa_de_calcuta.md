@@ -23,11 +23,11 @@ El 10 de septiembre de 1946 experimentó lo que ella llamó "el llamado dentro d
 
 ### WoF
 
-Bishop Robert Barron incluye a Madre Teresa en su lección sobre "Los hombres indispensables" (L5), presentándola como una de las figuras clave del cristianismo contemporáneo. La describe como quien encarna el hambre de Dios en los pobres: su servicio a los moribundos en las calles de Calcuta no era simplemente beneficencia social, sino una expresión de la caridad cristiana que reconoce a Cristo en el rostro del sufriente.
+Bishop Robert Barron incluye a Madre Teresa en su lección sobre "Los hombres indispensables", presentándola como una de las figuras clave del cristianismo contemporáneo. La describe como quien encarna el hambre de Dios en los pobres: su servicio a los moribundos en las calles de Calcuta no era simplemente beneficencia social, sino una expresión de la caridad cristiana que reconoce a Cristo en el rostro del sufriente.
 
 Barron subraya que Madre Teresa, junto con otros santos modernos como Maximiliano Kolbe y Óscar Romero, demuestra que la santidad no es un privilegio del pasado sino una vocación universal y actual. Su vida testimonial se presenta como "la mejor propaganda del cristianismo" — más elocuente que cualquier tratado teológico.
 
-> «La vida de un santo vale más que mil tratados teológicos» (WoF, L5)
+> «La vida de un santo vale más que mil tratados teológicos» (WoF)
 
 ### Evangelization & Culture 13 (EAC-13)
 

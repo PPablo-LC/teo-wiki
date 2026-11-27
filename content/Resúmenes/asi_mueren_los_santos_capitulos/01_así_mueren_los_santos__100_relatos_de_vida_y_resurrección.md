@@ -43,10 +43,10 @@ muere**» (cf. [[muerte_cristiana]]).
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ASÍ MUEREN LOS SANTOS — 100 relatos de vida y resurrección |
-| 1-14 | — | Datos editoriales |
-| 15-27 | — | Prólogo: Thibon, inmortalidad vs. eternidad |
-| 28-32 | — | Teresa de Jesús: «¡Quiero ver a Dios!» |
-| 33-45 | — | Lema: «cuando muere un santo, es la muerte la que muere» |
+| Nivel | Sección |
+|-------|---------|
+| H1 | ASÍ MUEREN LOS SANTOS — 100 relatos de vida y resurrección |
+| — | Datos editoriales |
+| — | Prólogo: Thibon, inmortalidad vs. eternidad |
+| — | Teresa de Jesús: «¡Quiero ver a Dios!» |
+| — | Lema: «cuando muere un santo, es la muerte la que muere» |

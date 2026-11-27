@@ -37,8 +37,8 @@ Encomendemos este desafío a la intercesión de la Virgen Santísima: su casa en
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | La mujer en la economía y el trabajo |
+| Nivel | Sección |
+|-------|---------|
+| H2 | La mujer en la economía y el trabajo |
 
 ## Secciones incluidas

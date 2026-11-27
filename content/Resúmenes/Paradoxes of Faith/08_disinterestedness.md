@@ -43,8 +43,8 @@ Cierta persona pensó para sí misma, buscó para sí misma, se esforzó por exp
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Disinterestedness |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Disinterestedness |
 
 ## Secciones incluidas

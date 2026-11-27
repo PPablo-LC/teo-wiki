@@ -32,6 +32,6 @@ Estas citas fundamentan el principio de que todos los miembros de la [[iglesia|I
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | celebraciones litúrgicas |
+| Nivel | Sección |
+|-------|---------|
+| H1 | celebraciones litúrgicas |

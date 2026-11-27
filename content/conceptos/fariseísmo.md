@@ -51,5 +51,5 @@ Se opone a [[religión_viva]], [[misericordia]] y [[caridad]]; se relaciona con 
 
 ## Referencias
 
-- CyF, `00_portada.md` L5-9; `03_i_cristo_y_los_fariseos.md`; `04_ii_el_dulce_nazareno.md` L119-125; `07_v_la_sociologia_de_los_fariseos.md`; `09_vii_elenchus_contra_pharisaeos.md`; `19_apendice_v_el_retiro_de_la_iglesia.md` L45-103.
+- CyF, `00_portada.md`; `03_i_cristo_y_los_fariseos.md`; `04_ii_el_dulce_nazareno.md`; `07_v_la_sociologia_de_los_fariseos.md`; `09_vii_elenchus_contra_pharisaeos.md`; `19_apendice_v_el_retiro_de_la_iglesia.md`.
 - Catecismo de la Iglesia Católica, 2084, 2148. Santo Tomás, *S. Th.* II-II, q. 14 y q. 111.

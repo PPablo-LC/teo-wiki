@@ -24,6 +24,6 @@ El Capítulo General del 2014 revisó el texto propuesto por la Comisión Centra
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Versión del año 2014 |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Versión del año 2014 |

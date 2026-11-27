@@ -81,16 +81,16 @@ Schiffer cierra con una pregunta y una oración: quién sabe qué ocurre con los
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Film: An AI Filmography (1968-2023) |
-| 5 | H2 | 2001: A SPACE ODYSSEY |
-| 13 | H2 | ZARDOZ |
-| 19 | H2 | SHORT CIRCUIT |
-| 25 | H2 | THE MATRIX |
-| 31 | H2 | RESIDENT EVIL |
-| 37 | H2 | TERMINATOR: SALVATION |
-| 43 | H2 | TRANSCENDENCE |
-| 49 | H2 | GÉNESIS |
-| 57 | H2 | ALITA: BATTLE ÁNGEL |
-| 63 | H2 | THE CREATOR |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Film: An AI Filmography (1968-2023) |
+| H2 | 2001: A SPACE ODYSSEY |
+| H2 | ZARDOZ |
+| H2 | SHORT CIRCUIT |
+| H2 | THE MATRIX |
+| H2 | RESIDENT EVIL |
+| H2 | TERMINATOR: SALVATION |
+| H2 | TRANSCENDENCE |
+| H2 | GÉNESIS |
+| H2 | ALITA: BATTLE ÁNGEL |
+| H2 | THE CREATOR |

@@ -25,7 +25,7 @@ Su historia también es una lección sobre la providencia y la perseverancia ant
 
 ### Según Evangelization & Culture (EAC-20)
 
-El texto describe a Cummings como un hombre de fe católica importante para él. Se destaca que «un sacerdote traía la Eucaristía cuando Bart era demasiado débil para ir a la iglesia» y que seguía la tradición de su padre de «bendecir las monturas de sus caballos por un sacerdote católico antes de una carrera» [EAC-20, 06_stacks, L7-9]. También se menciona su habilidad para ver más allá de lo «cosmético» de los caballos, viendo su verdadero espíritu, lo cual el autor relaciona con cómo Dios usa la disciplina, la voluntad y el intelecto por su gracia [EAC-20, 06_stacks, L17-25].
+El texto describe a Cummings como un hombre de fe católica importante para él. Se destaca que «un sacerdote traía la Eucaristía cuando Bart era demasiado débil para ir a la iglesia» y que seguía la tradición de su padre de «bendecir las monturas de sus caballos por un sacerdote católico antes de una carrera» [EAC-20, 06_stacks]. También se menciona su habilidad para ver más allá de lo «cosmético» de los caballos, viendo su verdadero espíritu, lo cual el autor relaciona con cómo Dios usa la disciplina, la voluntad y el intelecto por su gracia [EAC-20, 06_stacks].
 
 ## Distinciones importantes
 

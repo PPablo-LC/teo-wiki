@@ -27,6 +27,6 @@ Sección introductoria del Apéndice sobre las intenciones de misa asociadas a u
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Introducción |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Introducción |

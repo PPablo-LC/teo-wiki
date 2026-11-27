@@ -29,9 +29,9 @@ La obra se articula en tres capítulos:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Il rischio educativo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Il rischio educativo |
 
 ## Secciones incluidas
 

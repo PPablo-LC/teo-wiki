@@ -112,9 +112,9 @@ Este tratamiento de la paz en 2 Samuel enriquece la doctrina católica al mostra
 
 ### Según *The Cries of Jesus from the Cross* (CJC)
 
-Sheen lee la Sexta Palabra, «It is consummated» (Jn 19,30), como la paz consumada por el Príncipe de la Paz: la guerra contra el pecado y la separación de Dios ha terminado en la Cruz (CJC, cap. 44, L3.17). Retoma la definición agustiniana —«Peace is the tranquility of order»— y la distingue de la mera tranquilidad impuesta por el miedo: la paz verdadera es la subordinación de los sentidos a la razón, de la razón a la fe y del hombre entero a Dios (cap. 44, L7-9).
+Sheen lee la Sexta Palabra, «It is consummated» (Jn 19,30), como la paz consumada por el Príncipe de la Paz: la guerra contra el pecado y la separación de Dios ha terminado en la Cruz (CJC, cap. 44.17). Retoma la definición agustiniana —«Peace is the tranquility of order»— y la distingue de la mera tranquilidad impuesta por el miedo: la paz verdadera es la subordinación de los sentidos a la razón, de la razón a la fe y del hombre entero a Dios (cap. 44).
 
-Esta paz interior no es la paz que da el mundo (Jn 14,27; 16,33). Por eso la bienaventuranza de los pacificadores convive con la espada evangélica: Cristo trae guerra contra el pecado, la falsa paz y la autocomplacencia, pero esa guerra es temporal y ordenada a la victoria final. La tentación es bajar de la Cruz para pactar una paz falsa; la fidelidad consiste en permanecer hasta el «consummatum est» (cap. 44, L19-47).
+Esta paz interior no es la paz que da el mundo (Jn 14,27; 16,33). Por eso la bienaventuranza de los pacificadores convive con la espada evangélica: Cristo trae guerra contra el pecado, la falsa paz y la autocomplacencia, pero esa guerra es temporal y ordenada a la victoria final. La tentación es bajar de la Cruz para pactar una paz falsa; la fidelidad consiste en permanecer hasta el «consummatum est» (cap. 44).
 
 ## Distinciones importantes
 

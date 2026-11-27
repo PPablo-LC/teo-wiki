@@ -38,8 +38,8 @@ En la búsqueda de la [[ecumenismo]], cada esfuerzo sincero de unión es un paso
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | World |
+| Nivel | Sección |
+|-------|---------|
+| H1 | World |
 
 ## Secciones incluidas

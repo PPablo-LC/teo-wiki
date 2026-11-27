@@ -40,9 +40,9 @@ Contra la comedia nihilista (rechazo del sentido, abrazo del absurdo, deconstruc
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Comedian's Craft — Dr. Daniel Andreev |
+| Nivel | Sección |
+|-------|---------|
+| H1 | The Comedian's Craft — Dr. Daniel Andreev |
 
 ## Secciones incluidas
 

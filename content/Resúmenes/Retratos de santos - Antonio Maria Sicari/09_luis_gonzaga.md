@@ -12,34 +12,34 @@ tags: ["resumen", "vocación", "castidad", "obediencia", "penitencia", "caridad"
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[vocación]] — la determinación inamovible de Luis a los 17 años: «Busco la salvación, ¡buscadla también vosotros!» (L171).
-- [[castidad]] — voto a los 10 años en la Anunciación de Florencia: «se consagró a María, como Ella se había consagrado a Dios» (L101).
-- [[obediencia]] — como lema de noviciado «Como los demás» y su paz en la sumisión: «había prometido obediencia y por eso tenía paz» (L197-198).
-- [[penitencia]] — ayunos, flagelaciones, horas de oración sin distracción: «cinco y a veces más horas de oración al día» (L135).
-- [[oración_mental]] — su dominio: en seis meses de noviciado «había tenido suficientes distracciones para llenar el tiempo de un Avemaría entero» (L137).
-- [[humildad]] — el collar de cartón para corregir la cabeza baja y su respuesta: «¡Yo soy el más feliz!» tras la renuncia (L173).
-- [[caridad]] — asistencia a los apestados: «elegía a los más repugnantes con ternura infinita» y cargó a uno a la espalda contagiándose (L245-252).
-- [[muerte_cristiana]] — «Me voy contento», «No lloréis como a un muerto a alguien que va a vivir para siempre delante de Dios» (L255).
-- [[santidad]] — beatificación a los 14 años (1604), canonización; «el pueblo cristiano intuía estas cosas de forma espontánea» (L15).
-- [[conciencia]] — sensibilidad aguda: «Soy un trozo de hierro torcido que debe ser enderezado» (L77).
-- [[gracia]] — «llegó al mundo en gracia de Dios y renacido en Dios» por consagración materna a la Virgen de Loreto (L59).
-- [[eucaristía]] — primera comunión de manos de san Carlos Borromeo (L107).
-- [[maría]] — «se había enamorado de la Santísima Virgen»; meditación del Rosario; iglesias marianas (L99).
-- [[compañía_de_jesús]] — entrada en 1585; lema «Como los demás»; visto como futuro General (L229).
-- [[noviciado]] — métodos duros: collar de cartón, prohibición de oración y penitencias (L183-207).
-- [[educación]] — cortes de Florencia (Médici), Madrid (Felipe II), Mantua; gramática, filosofía, teología (L83-116).
-- [[familia]] — Gonzaga de Castiglione; padre Ferrante (orgulloso, jugador), madre Marta (santa); abuelo envenenador; hermano Rodolfo asesino (L47-71).
-- [[nobleza]] — renuncias a primogenitura y títulos: «No se puede servir a dos señores» (L171).
-- [[peste]] — epidemia de tifus en Roma 1590-91; hospitales abarrotados; Luis contagiado y muerto a los 23 años (L239-256).
-- [[beatificación]] — 1604, antes que Ignacio de Loyola (1609); presión popular; permiso papal para aureola (L15-17).
-- [[canonización]] — obstáculos jesuitas para no canonizarlo antes que su fundador (L17).
-- [[inocencia]] — «su mensaje es de inocencia incluso física» (L39).
-- [[devoción]] — riesgo de devoción sin comprensión de la «palabra de Dios» que todo santo es (L41).
-- [[mártir]] — «mártir del voluntariado» como imagen moderna; patrono de enfermos de SIDA (L35-37).
-- [[escrupulosidad]] — biografía Olgiati *La pretendida imbecilidad de san Luis Gonzaga* (L31).
-- [[pureza]] — ataques anticlericales: Gioberti («inútil y dañina»), Turati («santurrón enclenque»), Mussolini («frígida pureza de los impotentes») (L21-28).
+- [[vocación]] — la determinación inamovible de Luis a los 17 años: «Busco la salvación, ¡buscadla también vosotros!».
+- [[castidad]] — voto a los 10 años en la Anunciación de Florencia: «se consagró a María, como Ella se había consagrado a Dios».
+- [[obediencia]] — como lema de noviciado «Como los demás» y su paz en la sumisión: «había prometido obediencia y por eso tenía paz».
+- [[penitencia]] — ayunos, flagelaciones, horas de oración sin distracción: «cinco y a veces más horas de oración al día».
+- [[oración_mental]] — su dominio: en seis meses de noviciado «había tenido suficientes distracciones para llenar el tiempo de un Avemaría entero».
+- [[humildad]] — el collar de cartón para corregir la cabeza baja y su respuesta: «¡Yo soy el más feliz!» tras la renuncia.
+- [[caridad]] — asistencia a los apestados: «elegía a los más repugnantes con ternura infinita» y cargó a uno a la espalda contagiándose.
+- [[muerte_cristiana]] — «Me voy contento», «No lloréis como a un muerto a alguien que va a vivir para siempre delante de Dios».
+- [[santidad]] — beatificación a los 14 años (1604), canonización; «el pueblo cristiano intuía estas cosas de forma espontánea».
+- [[conciencia]] — sensibilidad aguda: «Soy un trozo de hierro torcido que debe ser enderezado».
+- [[gracia]] — «llegó al mundo en gracia de Dios y renacido en Dios» por consagración materna a la Virgen de Loreto.
+- [[eucaristía]] — primera comunión de manos de san Carlos Borromeo.
+- [[maría]] — «se había enamorado de la Santísima Virgen»; meditación del Rosario; iglesias marianas.
+- [[compañía_de_jesús]] — entrada en 1585; lema «Como los demás»; visto como futuro General.
+- [[noviciado]] — métodos duros: collar de cartón, prohibición de oración y penitencias.
+- [[educación]] — cortes de Florencia (Médici), Madrid (Felipe II), Mantua; gramática, filosofía, teología.
+- [[familia]] — Gonzaga de Castiglione; padre Ferrante (orgulloso, jugador), madre Marta (santa); abuelo envenenador; hermano Rodolfo asesino.
+- [[nobleza]] — renuncias a primogenitura y títulos: «No se puede servir a dos señores».
+- [[peste]] — epidemia de tifus en Roma 1590-91; hospitales abarrotados; Luis contagiado y muerto a los 23 años.
+- [[beatificación]] — 1604, antes que Ignacio de Loyola (1609); presión popular; permiso papal para aureola.
+- [[canonización]] — obstáculos jesuitas para no canonizarlo antes que su fundador.
+- [[inocencia]] — «su mensaje es de inocencia incluso física».
+- [[devoción]] — riesgo de devoción sin comprensión de la «palabra de Dios» que todo santo es.
+- [[mártir]] — «mártir del voluntariado» como imagen moderna; patrono de enfermos de SIDA.
+- [[escrupulosidad]] — biografía Olgiati *La pretendida imbecilidad de san Luis Gonzaga*.
+- [[pureza]] — ataques anticlericales: Gioberti («inútil y dañina»), Turati («santurrón enclenque»), Mussolini («frígida pureza de los impotentes»).
 
-## 1. La clave para leer a un santo (L3-44)
+## 1. La clave para leer a un santo
 
 Los santos «ven a Dios» no por revelaciones extraordinarias, sino porque acogen la evidencia de que Dios es y se ha revelado en Cristo; el Espíritu Santo conoce nuestro espíritu y nosotros podemos reconocerlo. Viven una «contemporaneidad» con los misterios de la vida de Cristo: una experiencia «mística», más real que cualquier otra, que hace entrar la eternidad en el tiempo y «conserva las cosas para la vida eterna». Por eso se nos escapan: se relacionan familiarmente con las Tres Personas, con Jesús, María y los santos. Los biógrafos laicos desprecian esas relaciones; los creyentes las dejan «aparte». El resultado: los santos parecen raros o ambiguos.
 
@@ -53,7 +53,7 @@ En el IV centenario (1991) se intentó deshacer la imagen de «chavalín de cuel
 
 Convicción: para comprender a un santo hay que situarlo en su ambiente vital, donde no solo sus contemporáneos «vivieron» con él, sino Jesús, María, ángeles y santos.
 
-## 2. Sangre Gonzaga y corte del siglo XVI (L45-72)
+## 2. Sangre Gonzaga y corte del siglo XVI
 
 Luis nace en 1568, marqués de Castiglione. En la «Estancia de los Esposos» del palacio ducal de Mantua (frescos de Mantegna, 1474) está su bisabuelo Rodolfo.
 
@@ -67,7 +67,7 @@ Los Gonzaga podrían haber destacado por riquezas, títulos, relaciones, pero se
 
 Así la sangre y la atmósfera de las cortes del XVI. Luis, con carácter obstinado y determinación inexorable (vocación, oración, penitencias), ¿qué habría sido sin responder a Dios?
 
-## 3. Infancia y primera consagración (L73-103)
+## 3. Infancia y primera consagración
 
 En la Anunciación de Florencia quiso confesión general (solo travesuras); «se moría al pensar qué habría sido de él si hubiese continuado». «Soy un trozo de hierro torcido que debe ser enderezado». ¿Escrupulosidad o lucidez interior? Los santos, ante pecados que habrían cometido sin la gracia, tienen sensibilidad aguda, rara a nuestros ojos por nuestra mediocridad.
 
@@ -77,7 +77,7 @@ Vida elegante, pero Luis se niega en un juego a pagar la prenda de besar la somb
 
 **15 agosto 1578**, iglesia de la Anunciación: el niño **se consagró a María, como Ella se había consagrado a Dios**, haciendo **voto de virginidad**. Intuía lo que significaba. Desde entonces vivió «dentro de sí», en el misterio de su ofrecimiento aceptado. Si no se cree en los protagonistas celestiales como presencia real, lo que sigue es inexplicable.
 
-## 4. Penitencia, primera comunión y corte de Madrid (L104-129)
+## 4. Penitencia, primera comunión y corte de Madrid
 
 A Mantua enferma de cistitis; dieta rigurosa a pan y agua: aprovecha para aprender penitencia llevándola al límite por amor a Jesús crucificado.
 Recibe **primera comunión** de manos de **san Carlos Borromeo** en visita pastoral.
@@ -89,7 +89,7 @@ Corte de Madrid más austera que las italianas, pero no más feliz; Luis percibe
 
 Episodio triste y revelador: Don Diego (heredero, 7 años) enfadado porque el viento estropea sus juegos: «Viento estúpido, te ordeno que no me molestes». Luis: «Vuestra alteza puede dar órdenes a los hombres y le obedecerán, pero a la naturaleza sólo le puede dar órdenes Dios, al cual Vuestra Alteza debe también obedecer». Luis recordaría esto asistiendo al principito moribundo de viruela y acompañando el cadáver al Escorial.
 
-## 5. La lucha por la vocación jesuita (L130-165)
+## 5. La lucha por la vocación jesuita
 
 **Compendio de vida espiritual de Luis de Granada** (oración mental). Luis se propuso **una hora diaria de oración sin distraerse**: rodillas sin apoyarse; si a los 30-45 min venía distracción mínima, anulaba ese tiempo y empezaba otra hora; llegó a hacer **cinco y a veces más horas de oración al día**. No exageración: como novicio, ante el maestro, dijo que en seis meses había tenido distracciones para llenar un Avemaría entero. Dominio de sí y profundidad de decisión.
 
@@ -102,7 +102,7 @@ Discusiones terminan en explosión de ira del padre y Luis enviado fuera; una ve
 
 Aún queda el consentimiento imperial para el traspaso de sucesión; Ferrante gana tiempo, vuelve sobre decisiones, Luis sigue penitencias extraordinarias. Lucha durísima: el joven se da cuenta de que desquicia un sistema social, exige violencia, pero **no fustiga a otros, se fustiga a sí mismo, a esa parte que es una con el poder y el lujo**.
 
-## 6. Renuncia a la primogenitura y entrada en la Compañía (L166-179)
+## 6. Renuncia a la primogenitura y entrada en la Compañía
 
 Ceremonia en Mantua, castillo de San Sebastián. Súbditos llorando en el patio: «No éramos dignos de tenerle como patrón, es un santo y Dios nos lo ha quitado». A quienes le reprochan: «Busco la salvación, ¡buscadla también vosotros! No se puede servir a dos señores. A un hombre de Estado le es muy difícil salvarse».
 
@@ -114,7 +114,7 @@ Ferrante muere santamente pocos meses después.
 
 Luis inicia noviciado. Lema: **«Como los demás»** (nada que recuerde su origen noble).
 
-## 7. Noviciado: dulcificación de un asceta extremo (L180-218)
+## 7. Noviciado: dulcificación de un asceta extremo
 
 Jesuitas no blandos en formación. Maestro ve la cabeza siempre inclinada y mirada baja; para quitarle la costumbre y mortificarlo, le pone **collar de cartón forrado de tela** al cuello muchos días para que no pueda bajar la cabeza; Luis lo lleva con alegría, riéndose en el recreo.
 
@@ -136,7 +136,7 @@ Compañía en plena expansión; suceder a Ignacio (muerto 30 años antes) tarea 
 
 Quienes imaginan a Luis como joven desprovisto y blando no han entendido su **verdadera estatura**.
 
-## 8. La epidemia y la muerte por caridad (L219-257)
+## 8. La epidemia y la muerte por caridad
 
 Finales 1590 en Roma: sequía, carestía, emigración de campesinos hambrientos, **epidemia de tifus exantemático**. Hospitales abarrotados, enfermos tirados por todas partes, muchos morían abandonados en tugurios y esquinas.
 
@@ -150,6 +150,6 @@ Muere en Roma el **21 de junio de 1591** (23 años). Mismo año muere en España
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Luis Gonzaga |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Luis Gonzaga |

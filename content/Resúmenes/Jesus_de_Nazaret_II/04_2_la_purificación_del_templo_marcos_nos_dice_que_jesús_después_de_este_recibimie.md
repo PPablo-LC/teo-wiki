@@ -29,6 +29,6 @@ La palabra auténtica transmitida por Juan —«Destruid este templo y en tres d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. LA PURIFICACIÓN DEL TEMPLO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. LA PURIFICACIÓN DEL TEMPLO |

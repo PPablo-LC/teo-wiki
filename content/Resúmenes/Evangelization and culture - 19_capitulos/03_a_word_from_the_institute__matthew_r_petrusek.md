@@ -43,6 +43,6 @@ Petrusek cierra: «In Christ, Matthew R. Petrusek, PhD — Senior Director, Word
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | A Word from the Institute — Matthew R. Petrusek |
+| Nivel | Sección |
+|-------|---------|
+| H1 | A Word from the Institute — Matthew R. Petrusek |

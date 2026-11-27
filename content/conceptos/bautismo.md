@@ -272,6 +272,16 @@ La Veritatis Splendor (§21) enseña que el bautismo configura radicalmente al f
 PS enseña que el bautismo lava el pecado original e infunde en el alma la gracia santificante, haciéndonos miembros de la Iglesia, hijos de Dios y herederos del cielo [PS §13,96,1]. Es la puerta para entrar en la Iglesia; sin él no puede recibirse válidamente ningún otro sacramento [PS §13,97,2]. La materia del bautismo es el agua natural; la forma, las palabras «Yo te bautizo en el nombre del Padre y del Hijo y del Espíritu Santo» [PS §13,97,2]. El bautismo se recibe una sola vez porque imprime carácter indeleble [PS §13,97,2]. Los niños deben bautizarse cuanto antes, pues privarles del bautismo puede ser pecado grave [PS §13,97,2]. Existe el bautismo de deseo para quienes, sin conocer la Iglesia, buscan sinceramente a Dios y cumplen su voluntad [PS §13,97,2].
 
 
+### Según *Life of Christ* (LCh, cap. 2)
+
+Sheen ordena el bautismo del Jordán dentro de la lógica de la sustitución: su objeto «was the same as the object of His birth, namely, to identify Himself with sinful humanity» (cap. 2). Juan se resiste porque su bautismo profesaba arrepentimiento y el Señor no tenía pecado; la negativa de Juan es ya un reconocimiento de su inocencia. Pero si había de llamarse «Hijo del hombre», tenía que compartir la culpa de la humanidad: el ejemplo es el del marido culpable cuya esposa no puede quedar al margen.
+
+Su aportación más original es la tipología de los **tres «bautismos» del Antiguo Testamento** en la consagración de Aarón —agua, aceite y sangre—, que tienen su cumplimiento en el Jordán, la Transfiguración y el Calvario. De ahí que el bautismo de agua mirase al bautismo de sangre: «The Jordan flowed into the red rivers of Calvary», y que el Señor pudiera hablar de un bautismo que debe recibir y por el que está impaciente (Lc 12,50). La inmersión y emersión anticipan muerte y resurrección.
+
+- La paloma: en Levítico era la ofrenda de los más pobres —la de María en el templo—, de modo que para un hebreo significaba **sacrificio por el pecado**: el Espíritu que desciende es «a symbol of submission to sacrifice».
+- Las aguas unen a Cristo con los hombres, el Espíritu lo corona y dedica al sacrificio, la Voz atestigua que será agradable al Padre.
+- La voz «This is My Beloved Son» no declara una filiación nueva, sino la eterna, ahora manifestada públicamente como Mediador.
+
 ## Distinciones importantes
 
 - **Bautismo de agua vs. bautismo de deseo vs. bautismo de sangre**

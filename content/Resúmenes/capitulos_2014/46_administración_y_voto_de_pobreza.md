@@ -25,6 +25,6 @@ Este archivo es el encabezado de sección del Capítulo General Extraordinario d
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ADMINISTRACIÓN Y VOTO DE POBREZA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | ADMINISTRACIÓN Y VOTO DE POBREZA |

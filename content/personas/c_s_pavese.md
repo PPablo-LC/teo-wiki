@@ -57,9 +57,9 @@ presenta como inversión total.
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC),
-  `01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md` (línea 13),
-  `02_il_tempo_si_fa_breve_1994.md` (línea 99) y
-  `03_si_può_vivere_così_1995.md` (línea 171).
+  `01_prefazione_il_crocevia_tra_lessere_e_il_nulla.md`,
+  `02_il_tempo_si_fa_breve_1994.md` y
+  `03_si_può_vivere_così_1995.md`.
 - **Obras citadas**: C. Pavese, *Il mestiere di vivere*, Einaudi, Torino,
   1952; «Notturno», en *Lavorare stanca*, 1936.
 - **Índice de la fuente**:

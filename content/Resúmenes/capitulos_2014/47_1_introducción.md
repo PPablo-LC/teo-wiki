@@ -29,6 +29,6 @@ Además, los padres capitulares reflexionaron sobre los números correspondiente
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 1) Introducción |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 1) Introducción |

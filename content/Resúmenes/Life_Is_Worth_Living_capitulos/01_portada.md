@@ -25,8 +25,7 @@ Inc.; McGraw-Hill, Nueva York), con aprobación eclesiástica. La fotografía de
 cubierta es de Bishop Fulton J. Sheen (UPI / Corbin-Bettmann).
 
 La dedicatoria es un poema mariano que declara el propósito del libro: que
-quienes lean encuentren, por medio de la Madre, al Hijo que es la Palabra
-(L9-15):
+quienes lean encuentren, por medio de la Madre, al Hijo que es la Palabra:
 
 > *As a mother delights to hear / her child's half-uttered words / so may the
 > Mother of Christ / to whom these words are dedicated / deign to grant them
@@ -36,4 +35,5 @@ quienes lean encuentren, por medio de la Madre, al Hijo que es la Palabra
 ## Fuente original
 
 - Raw: `raw/Bases_doctrinales-raw/Life_Is_Worth_Living_capitulos/00_portada.md`
-- Líneas: L1-25
+- Citas verificadas en el capítulo:
+  - Dedicatoria: `"As a mother delights to hear / her child's half-uttered words / so may the Mother of Christ / to whom these words are dedicated / deign to grant them audience / that those who read / may find through her / the Son who is the Word."`

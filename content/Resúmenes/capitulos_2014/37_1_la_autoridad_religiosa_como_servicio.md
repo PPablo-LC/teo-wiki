@@ -34,6 +34,6 @@ La autoridad moral que nace del testimonio de vida del superior facilita el ejer
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 1) La autoridad religiosa como servicio |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 1) La autoridad religiosa como servicio |

@@ -73,10 +73,10 @@ No se debe olvidar que el desorden en el uso del sexo tiende a destruir progresi
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 2. La pubertad |
-| 16 | H3 | La adolescencia en el proyecto de vida |
-| 20 | H3 | Masturbación |
-| 24 | H3 | Homosexualidad |
-| 34 | H3 | Significado positivo de la sexualidad |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 2. La pubertad |
+| H3 | La adolescencia en el proyecto de vida |
+| H3 | Masturbación |
+| H3 | Homosexualidad |
+| H3 | Significado positivo de la sexualidad |

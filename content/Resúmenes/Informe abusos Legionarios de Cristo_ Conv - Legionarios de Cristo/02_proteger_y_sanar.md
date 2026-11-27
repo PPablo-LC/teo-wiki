@@ -117,4 +117,4 @@ Documento normativo **"Proteger y sanar" (PS)** aprobado por Capítulo General 2
 
 ## Referencia original
 
-📄 Fuente original: `04_04_proteger_y_sanar_contenido.md` (línea 1–207)
+📄 Fuente original: `04_04_proteger_y_sanar_contenido.md`

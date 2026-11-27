@@ -31,8 +31,8 @@ Cita a [[san_juan_xxiii]] que vio en la participación de las mujeres en la vida
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Las mujeres, educadoras de paz social |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Las mujeres, educadoras de paz social |
 
 ## Secciones incluidas

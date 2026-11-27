@@ -29,9 +29,9 @@ Fr. Joel procuró que nadie quedara olvidado ni no amado; entendió que abrazar 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Remembering Fr. Joel Kelly, OSB — Grace Savard |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Remembering Fr. Joel Kelly, OSB — Grace Savard |
 
 ## Secciones incluidas
 

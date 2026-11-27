@@ -25,9 +25,9 @@ El archivo fuente contiene únicamente el encabezado «Apéndice 3». El cuerpo 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Apéndice 3 |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Apéndice 3 |
 
 ## Secciones incluidas
 

@@ -39,6 +39,6 @@ Las normas complementarias al Capítulo 7 desarrollan tres aspectos del [[novici
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Normas complementarias al Capítulo 7. El noviciado |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Normas complementarias al Capítulo 7. El noviciado |

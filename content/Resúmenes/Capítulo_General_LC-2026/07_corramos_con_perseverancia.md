@@ -125,30 +125,30 @@ Al final del Comunicado se ofrece un documento más extenso sobre la misión del
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Corramos con perseverancia |
-| 5 | H3 | Una renovada visión vocacional |
-| 6 | H3 | La llamada de Jesús resuena hoy |
-| 8 | H3 | Respuesta pastoral a un contexto cambiante |
-| 11 | H3 | Custodiar y reavivar el fuego recibido |
-| 14 | H3 | Documento de profundización |
-| 17 | H3 | La formación inicial |
-| 20 | H3 | Los frutos |
-| 23 | H3 | Nuestra experiencia en Roma |
-| 26 | H3 | Los retos de la renovación |
-| 34 | H3 | Comunicación del proceso de actualización |
-| 37 | H3 | Cambios y progresos de los últimos años |
-| 40 | H3 | Formación inicial con vistas a la misión |
-| 43 | H3 | Etapas previas a las prácticas apostólicas |
-| 46 | H3 | Evaluación sistemática |
-| 49 | H3 | Escuela de formadores legionarios |
-| 52 | H3 | Agradecimiento a los formadores y a los hermanos en formación inicial |
-| 55 | H3 | Papel de los formadores |
-| 58 | H3 | Una palabra a nuestros hermanos |
-| 61 | H3 | La Legión de Cristo en la Federación Regnum Christi |
-| 74 | H3 | La misión: Caritas Christi urget nos |
-| 75 | H3 | Caritas Christi urget nos |
-| 79 | H3 | Apóstoles en un cambio de época |
-| 82 | H3 | Un horizonte unificador |
-| 85 | H3 | Un documento de profundización sobre la misión |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Corramos con perseverancia |
+| H3 | Una renovada visión vocacional |
+| H3 | La llamada de Jesús resuena hoy |
+| H3 | Respuesta pastoral a un contexto cambiante |
+| H3 | Custodiar y reavivar el fuego recibido |
+| H3 | Documento de profundización |
+| H3 | La formación inicial |
+| H3 | Los frutos |
+| H3 | Nuestra experiencia en Roma |
+| H3 | Los retos de la renovación |
+| H3 | Comunicación del proceso de actualización |
+| H3 | Cambios y progresos de los últimos años |
+| H3 | Formación inicial con vistas a la misión |
+| H3 | Etapas previas a las prácticas apostólicas |
+| H3 | Evaluación sistemática |
+| H3 | Escuela de formadores legionarios |
+| H3 | Agradecimiento a los formadores y a los hermanos en formación inicial |
+| H3 | Papel de los formadores |
+| H3 | Una palabra a nuestros hermanos |
+| H3 | La Legión de Cristo en la Federación Regnum Christi |
+| H3 | La misión: Caritas Christi urget nos |
+| H3 | Caritas Christi urget nos |
+| H3 | Apóstoles en un cambio de época |
+| H3 | Un horizonte unificador |
+| H3 | Un documento de profundización sobre la misión |

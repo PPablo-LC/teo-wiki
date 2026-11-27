@@ -48,7 +48,7 @@ destino de cada uno «apparteneva al nostro» (04, 95).
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivo
-  `04_alla_ricerca_del_volto_umano_1996.md` (línea 95).
+  `04_alla_ricerca_del_volto_umano_1996.md`.
 - **Obra citada**: Tácito, *Historiae*, V, 5.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

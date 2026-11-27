@@ -23,7 +23,7 @@ Portada (frontespizio) de la obra: el título *All'origine della pretesa cristia
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | All'origine della pretesa cristiana |
-| 3 | — | Luigi Giussani |
+| Nivel | Sección |
+|-------|---------|
+| H1 | All'origine della pretesa cristiana |
+| — | Luigi Giussani |

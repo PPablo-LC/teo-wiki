@@ -112,18 +112,18 @@ es el mío».
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | III. MORIR DE PASIÓN ECLESIAL |
-| 3-5 | — | Personificar a la Iglesia Esposa (Pro 14,1; 31,10) |
-| 7 | H2 | Santa Clara de Asís (1193-1253) |
-| 31 | H2 | Santa Brígida de Suecia (1303-1373) |
-| 45 | H2 | Santa Catalina de Siena (1347-1380) |
-| 65 | H2 | Santa Ángela Merici (1474-1540) |
-| 79 | H2 | Santa Teresa de Jesús (1515-1582) |
-| 91 | H2 | Santa Anna Elisabeth Seton (1774-1821) |
-| 111 | H2 | Beata Victoria Rasoamanarivo (1848-1894) |
-| 129 | H2 | Santa Francisca Javiera Cabrini (1850-1917) |
-| 143 | H2 | Santa Katharine Mary Drexel (1858-1955) |
-| 159 | H2 | Santa Teresa Benedicta de la Cruz (1891-1942) |
-| 179 | — | Conclusión: el honor de la Esposa |
+| Nivel | Sección |
+|-------|---------|
+| H1 | III. MORIR DE PASIÓN ECLESIAL |
+| — | Personificar a la Iglesia Esposa (Pro 14,1; 31,10) |
+| H2 | Santa Clara de Asís (1193-1253) |
+| H2 | Santa Brígida de Suecia (1303-1373) |
+| H2 | Santa Catalina de Siena (1347-1380) |
+| H2 | Santa Ángela Merici (1474-1540) |
+| H2 | Santa Teresa de Jesús (1515-1582) |
+| H2 | Santa Anna Elisabeth Seton (1774-1821) |
+| H2 | Beata Victoria Rasoamanarivo (1848-1894) |
+| H2 | Santa Francisca Javiera Cabrini (1850-1917) |
+| H2 | Santa Katharine Mary Drexel (1858-1955) |
+| H2 | Santa Teresa Benedicta de la Cruz (1891-1942) |
+| — | Conclusión: el honor de la Esposa |

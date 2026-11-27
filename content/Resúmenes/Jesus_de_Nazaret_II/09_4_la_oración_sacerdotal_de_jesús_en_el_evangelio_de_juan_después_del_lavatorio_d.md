@@ -26,6 +26,6 @@ Tras los sermones de despedida, la oración sacerdotal culmina la última tarde 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA ORACIÓN SACERDOTAL DE JESÚS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA ORACIÓN SACERDOTAL DE JESÚS |

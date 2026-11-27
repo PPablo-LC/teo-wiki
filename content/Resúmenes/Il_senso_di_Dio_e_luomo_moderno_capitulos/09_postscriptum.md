@@ -23,6 +23,6 @@ Cuando uno intuye el **Fatto cristiano como verdadero**, el paso decisivo es el 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | POST-SCRIPTUM |
+| Nivel | Sección |
+|-------|---------|
+| H1 | POST-SCRIPTUM |

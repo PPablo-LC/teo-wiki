@@ -83,13 +83,13 @@ Cada archivo incluye al final una sección de Referencias con las notas sustanci
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Catecismo de la Iglesia Católica — Archivos Markdown |
-| 3 | H2 | Estructura de archivos |
-| 5 | H3 | Índices |
-| 9 | H3 | Prólogo |
-| 12 | H3 | Primera Parte: La Profesión de la Fe |
-| 23 | H3 | Segunda Parte: La Celebración del Misterio Cristiano |
-| 34 | H3 | Tercera Parte: La Vida en Cristo |
-| 45 | H3 | Cuarta Parte: La Oración Cristiana |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Catecismo de la Iglesia Católica — Archivos Markdown |
+| H2 | Estructura de archivos |
+| H3 | Índices |
+| H3 | Prólogo |
+| H3 | Primera Parte: La Profesión de la Fe |
+| H3 | Segunda Parte: La Celebración del Misterio Cristiano |
+| H3 | Tercera Parte: La Vida en Cristo |
+| H3 | Cuarta Parte: La Oración Cristiana |

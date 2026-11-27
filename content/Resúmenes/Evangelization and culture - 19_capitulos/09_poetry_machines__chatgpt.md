@@ -46,6 +46,6 @@ La poesía generada por IA ilustra la **[[simulación]]** del lenguaje poético:
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Poetry: Machines — by ChatGPT |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Poetry: Machines — by ChatGPT |

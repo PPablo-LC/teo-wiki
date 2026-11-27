@@ -73,4 +73,4 @@ Haley Stewart (Managing Editor de Word on Fire Spark) presenta **El jardín secr
 
 ## Referencia original
 
-📄 Fuente original: `18_feature_stewart.md` (línea 1–63)
+📄 Fuente original: `18_feature_stewart.md`

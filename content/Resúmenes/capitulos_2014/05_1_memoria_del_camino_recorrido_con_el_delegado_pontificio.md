@@ -58,6 +58,6 @@ El juicio del capítulo general y de las asambleas generales fue globalmente pos
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 1) Memoria del camino recorrido con el Delegado Pontificio |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 1) Memoria del camino recorrido con el Delegado Pontificio |

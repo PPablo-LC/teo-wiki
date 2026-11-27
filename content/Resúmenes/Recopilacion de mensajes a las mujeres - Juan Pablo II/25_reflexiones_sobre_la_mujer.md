@@ -29,9 +29,9 @@ El Papa denuncia todas las injusticias que pesan sobre la condición femenina y 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | REFLEXIONES SOBRE LA MUJER |
-| 3 | H4 | A LA HORA DEL ÁNGELUS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | REFLEXIONES SOBRE LA MUJER |
+| H4 | A LA HORA DEL ÁNGELUS |
 
 ## Secciones incluidas

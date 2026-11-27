@@ -20,18 +20,19 @@ tags: ["resumen", "miedo", "ansiedad", "amor", "humildad"]
 
 ## Qué es el miedo
 
-«A prune has been defined as a worried plum» (L3). El miedo está ligado al amor: «Fear is the emotion that rises in us when there is a danger facing something or someone that we love»; de ahí que «the catalogue of fears is the catalogue of loves» (L11). «Fear is a flight from a future evil which so exceeds our power that we cannot bear up under it» (L11).
+«A prune has been defined as a worried plum». El miedo está ligado al amor: «Fear is the emotion that rises in us when there is a danger facing something or someone that we love»; de ahí que «the catalogue of fears is the catalogue of loves». «Fear is a flight from a future evil which so exceeds our power that we cannot bear up under it».
 
 ## Cinco efectos
 
-1. **Pereza.** Quien ama demasiado su comodidad teme el trabajo (L7). La anécdota del matrimonio sureño que ni se vuelve para ver pasar el entierro (L7).
-2. **Juego.** El jugador profesional teme inconscientemente las responsabilidades de la vida y sobre todo la pobreza, y vive en un mundo de fantasía donde siempre está a punto de enriquecerse (L9).
-3. **Hipocondría.** Hay quien se hace enfermo para no tener que cumplir sus fanfarronadas o para que no se descubra su ignorancia: «If I had not been sick, I would have been a millionaire» (L29).
-4. **Mentira.** El sentimiento de inferioridad busca compensarse con la exageración. La niña que contó que le habían regalado un león y, tras rezar, dijo que Dios le había contestado que «sometimes he finds it hard to tell a dog from a lion» (L35-15).
-5. **Vergüenza.** El rubor ante el peligro de ser descubierto; por eso el matón es cobarde y su dureza oculta el miedo a su insignificancia (L17). El episodio de la mujer adúltera como caso típico (L17). Cierra con la anécdota del banquete y el marido de la dama (L19-25).
+1. **Pereza.** Quien ama demasiado su comodidad teme el trabajo. La anécdota del matrimonio sureño que ni se vuelve para ver pasar el entierro.
+2. **Juego.** El jugador profesional teme inconscientemente las responsabilidades de la vida y sobre todo la pobreza, y vive en un mundo de fantasía donde siempre está a punto de enriquecerse.
+3. **Hipocondría.** Hay quien se hace enfermo para no tener que cumplir sus fanfarronadas o para que no se descubra su ignorancia: «If I had not been sick, I would have been a millionaire».
+4. **Mentira.** El sentimiento de inferioridad busca compensarse con la exageración. La niña que contó que le habían regalado un león y, tras rezar, dijo que Dios le había contestado que «sometimes he finds it hard to tell a dog from a lion».
+5. **Vergüenza.** El rubor ante el peligro de ser descubierto; por eso el matón es cobarde y su dureza oculta el miedo a su insignificancia. El episodio de la mujer adúltera como caso típico. Cierra con la anécdota del banquete y el marido de la dama.
 
 ## Fuente original
 
 - Raw: `raw/Bases_doctrinales-raw/Life_Is_Worth_Living_capitulos/14_fears_and_anxieties.md`
-- Líneas: L3-25
-- Citas verificadas: `"the catalogue of fears is the catalogue of loves"` (L5); `"Fear is a flight from a future evil which so exceeds our power that we cannot bear up under it"` (L5); `"If I had not been sick, I would have been a millionaire"` (L11).
+- Citas verificadas en el capítulo:
+  - `"the catalogue of fears is the catalogue of loves"`; `"Fear is a flight from a future evil which so exceeds our power that we cannot bear up under it"`; `"If I had not been sick, I would have been a millionaire"`.
+

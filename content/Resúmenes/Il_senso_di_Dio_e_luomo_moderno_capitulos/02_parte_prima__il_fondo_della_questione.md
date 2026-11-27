@@ -38,8 +38,8 @@ Abre la sección un *imprimatur* (Venegoni, 16 marzo 1966, y Curia Arq. de Milá
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PARTE PRIMA — IL FONDO DELLA QUESTIONE |
-| 3 | H2 | IL SENSO RELIGIOSO |
-| 9 | H3 | CAPITOLO PRIMO — SENSO RELIGIOSO E REALTÀ |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PARTE PRIMA — IL FONDO DELLA QUESTIONE |
+| H2 | IL SENSO RELIGIOSO |
+| H3 | CAPITOLO PRIMO — SENSO RELIGIOSO E REALTÀ |

@@ -75,4 +75,4 @@ Cierra con cita de Sta. Teresa de Calcuta: "Dios siempre ha amado a los pequeño
 
 ## Referencia original
 
-📄 Fuente original: `09_spotlight_gaming.md` (línea 1–111)
+📄 Fuente original: `09_spotlight_gaming.md`

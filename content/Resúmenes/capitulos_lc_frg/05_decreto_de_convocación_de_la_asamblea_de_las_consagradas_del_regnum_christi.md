@@ -40,9 +40,9 @@ Carta de convocatoria de la [[consagradas_del_regnum_christi]], Gloria Rodrígue
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Decreto de convocación de la Asamblea de las Consagradas del Regnum Ch |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Decreto de convocación de la Asamblea de las Consagradas del Regnum Ch |
 
 
 ## Secciones incluidas

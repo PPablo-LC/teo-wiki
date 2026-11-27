@@ -36,6 +36,6 @@ Finalmente, el capítulo encomendó al Director General la determinación de los
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 4) Mandatos o encargos al gobierno general |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 4) Mandatos o encargos al gobierno general |

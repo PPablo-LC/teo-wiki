@@ -195,6 +195,6 @@ El artículo cierra con el epígrafe de Ann Skeet: «La ética es más important
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Minds: Technology & It's Dangers — Dietrich von Hildebrand |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Minds: Technology & It's Dangers — Dietrich von Hildebrand |

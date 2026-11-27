@@ -47,4 +47,4 @@ Sección final de **Meditatio & Contemplatio** que presenta **8 preguntas de dis
 
 ## Referencia original
 
-📄 Fuente original: `24_parting_thoughts.md` (línea 1–23)
+📄 Fuente original: `24_parting_thoughts.md`

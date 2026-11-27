@@ -68,18 +68,18 @@ Conclusión: ¿Quieres conservarte pura? Comprender que nuevos deseos son avisos
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO II — ¿ADÓNDE, POR DÓNDE HE DE IR? |
-| 17 | H2 | I.—La casta veneciana |
-| 51 | H2 | II.—De niña a joven |
-| 63 | H2 | III.—Tu organismo se desarrolla |
-| 86 | H2 | IV.—En tus abriles |
-| 101 | H2 | V.—Nuevos pensamientos; deseos insólitos |
-| 128 | H2 | VI.—El primer amor |
-| 138 | H2 | VII.—Este desarrollo entra en el plan de Dios |
-| 150 | H2 | VIII.—Puras y hermosas |
-| 168 | H2 | IX.—En medio del peligro; en medio del huracán |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CAPÍTULO II — ¿ADÓNDE, POR DÓNDE HE DE IR? |
+| H2 | I.—La casta veneciana |
+| H2 | II.—De niña a joven |
+| H2 | III.—Tu organismo se desarrolla |
+| H2 | IV.—En tus abriles |
+| H2 | V.—Nuevos pensamientos; deseos insólitos |
+| H2 | VI.—El primer amor |
+| H2 | VII.—Este desarrollo entra en el plan de Dios |
+| H2 | VIII.—Puras y hermosas |
+| H2 | IX.—En medio del peligro; en medio del huracán |
 
 ## Secciones incluidas
 

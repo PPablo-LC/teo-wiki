@@ -52,7 +52,7 @@ Sección del capítulo dedicada a las fases principales del desarrollo del niño
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 1. Todo niño es una persona única e irrepetible y debe recibir una for |
-| 12 | H3 | Las fases principales del desarrollo del niño |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 1. Todo niño es una persona única e irrepetible y debe recibir una for |
+| H3 | Las fases principales del desarrollo del niño |

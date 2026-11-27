@@ -30,6 +30,14 @@ Los adversarios preguntan insidiosamente a Jesús si es lícito pagar las tasas 
 
 Los deberes hacia Dios no se oponen a los deberes hacia el Estado: quien da a Dios lo que es de Dios puede sin contradicción dar al César lo que es del César, pero ciertamente sin idolatrarlo. (Ele_Xto_Stos, Cap. IX, §1a)
 
+### Según *Life of Christ* (LCh)
+
+Sheen sitúa la escena en el cruce de dos partidos con intereses opuestos: los herodianos, partido político favorable a Roma, y los fariseos, nacionalistas que pagaban el tributo a regañadientes (cap. 24). La trampa se construye sobre esa oposición: si Cristo negaba la licitud del tributo, los herodianos lo entregarían a los romanos como sedicioso; si la afirmaba, los fariseos lo desacreditarían ante el pueblo como falso Mesías, pues ningún libertador consentiría el yugo del invasor. Sheen formula la alternativa con claridad: decir «no» lo hacía traidor al César, decir «sí» lo hacía antipatriota.
+
+La clave de la respuesta está en la moneda. Al pedir la moneda del tributo se la muestran con la efigie de Tiberio y el título *Pontifex Maximus*, y la pregunta «Whose is this likeness? Whose name is inscribed on it?» desplaza el problema del ámbito de la obligación al de la pertenencia. De ahí la tesis de Sheen: «Our Lord took no sides, because the basic question was not God or Caesar, but God and Caesar». El deber cívico se cumple en su esfera —«in that lower sphere of life, the debt to the government should be discharged» —, y Sheen lo confirma con la lectura de Rm 13,1 y con la precisión de que la palabra griega para «devolver» implica un deber moral, no una mera conveniencia política.
+
+Pero la respuesta no se agota en el reparto de competencias. Sheen subraya la asimetría: a los fariseos que odiaban al César se les manda «Give unto Caesar»; a los herodianos que habían olvidado a Dios en su amor al César, «Give unto God». Y añade una lectura histórica: si el pueblo hubiera dado a Dios lo suyo, no estaría ahora teniendo que dar tanto al César, porque Cristo «had come primarily to restore the rights of God». La fórmula, por tanto, no legitima el orden político existente como si fuera definitivo: lo relativiza. El orden político puede quedar como está —«He would not lift a finger to change their coinage»—, pero la obediencia debida a Dios es la que exige su vida: «He would give His life to have them render unto God the things that are God's».
+
 ## Distinciones importantes
 
 - Deberes hacia Dios vs. deberes hacia el Estado: no se oponen, pero la supremacía corresponde a los deberes frente a Dios.

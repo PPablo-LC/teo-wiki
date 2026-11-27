@@ -25,6 +25,6 @@ También han constatado que, en ocasiones, el haber insistido demasiado en la pe
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 5) Rendición de cuentas |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 5) Rendición de cuentas |

@@ -50,4 +50,4 @@ Paso más en la dirección de verdad, justicia y sanación. Establece **priorida
 
 ## Referencia original
 
-📄 Fuente original: `02_introduccion.md` (línea 1–14)
+📄 Fuente original: `02_introduccion.md`

@@ -23,6 +23,6 @@ Este archivo contiene únicamente el encabezado que abre el Capítulo IX de la G
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo IX |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo IX |

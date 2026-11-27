@@ -27,8 +27,8 @@ El Papa dirige su Mensaje particularmente a las mujeres, pidiéndoles que sean e
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Las mujeres y la educación para la paz |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Las mujeres y la educación para la paz |
 
 ## Secciones incluidas

@@ -57,6 +57,6 @@ Las exigencias del Evangelio penetran en el campo de la ley y de la moral: «El 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | REDENCIÓN -I- |
+| Nivel | Sección |
+|-------|---------|
+| H2 | REDENCIÓN -I- |

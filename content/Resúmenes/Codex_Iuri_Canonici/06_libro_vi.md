@@ -52,23 +52,23 @@ tags: ["resumen", "codex iuri canonici"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | LIBRO VI |
-| 3 | H3 | DE LAS SANCIONES EN LA IGLESIA (Cann. 1311 – 1399) |
-| 5 | H4 | TÍTULO I |
-| 21 | H4 | TÍTULO II |
-| 52 | H4 | TÍTULO III |
-| 126 | H4 | TÍTULO IV |
-| 130 | H5 | CAPÍTULO I |
-| 181 | H5 | CAPÍTULO II |
-| 208 | H5 | CAPÍTULO III |
-| 227 | H4 | TÍTULO V |
-| 274 | H4 | TÍTULO VI |
-| 335 | H3 | PARTE II |
-| 339 | H4 | TÍTULO I |
-| 358 | H4 | TÍTULO II |
-| 388 | H4 | TÍTULO III |
-| 427 | H4 | TÍTULO IV |
-| 445 | H4 | TÍTULO V |
-| 468 | H4 | TÍTULO VI |
+| Nivel | Sección |
+|-------|---------|
+| H2 | LIBRO VI |
+| H3 | DE LAS SANCIONES EN LA IGLESIA (Cann. 1311 – 1399) |
+| H4 | TÍTULO I |
+| H4 | TÍTULO II |
+| H4 | TÍTULO III |
+| H4 | TÍTULO IV |
+| H5 | CAPÍTULO I |
+| H5 | CAPÍTULO II |
+| H5 | CAPÍTULO III |
+| H4 | TÍTULO V |
+| H4 | TÍTULO VI |
+| H3 | PARTE II |
+| H4 | TÍTULO I |
+| H4 | TÍTULO II |
+| H4 | TÍTULO III |
+| H4 | TÍTULO IV |
+| H4 | TÍTULO V |
+| H4 | TÍTULO VI |

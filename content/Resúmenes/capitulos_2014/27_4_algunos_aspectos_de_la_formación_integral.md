@@ -75,6 +75,6 @@ tags: ["resumen", "capitulos 2014"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 4) Algunos aspectos de la formación integral |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 4) Algunos aspectos de la formación integral |

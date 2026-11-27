@@ -47,7 +47,7 @@ Marcador del capítulo 3º: **Necesidad y fin de la educación**.
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | INEFICACIA DE LA EDUCACIÓN LAICA |
-| 102 | H3 | Philosophie der Geschichte. (Filosofía de la Historia.). |
+| Nivel | Sección |
+|-------|---------|
+| H1 | INEFICACIA DE LA EDUCACIÓN LAICA |
+| H3 | Philosophie der Geschichte. (Filosofía de la Historia.). |

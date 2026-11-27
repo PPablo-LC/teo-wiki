@@ -34,7 +34,7 @@ La historia de estas recuperaciones le dio esperanza a Fagan para su propia cura
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Stacks: Lessons from a Horse Racer: A Review of Bart: My Life — Jane F |
-| 3 | H2 | by J.B. Cummings — ST. Jane Francés De Chantal Writing Group |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Stacks: Lessons from a Horse Racer: A Review of Bart: My Life — Jane F |
+| H2 | by J.B. Cummings — ST. Jane Francés De Chantal Writing Group |

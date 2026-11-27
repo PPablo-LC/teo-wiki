@@ -37,8 +37,8 @@ El [[mal]] no tiene realidad positiva, pero no es nada: tiene toda la realidad t
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Suffering |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Suffering |
 
 ## Secciones incluidas

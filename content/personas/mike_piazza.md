@@ -17,15 +17,15 @@ Mike Piazza es un ex-catcher de Grandes Ligas, miembro del Salón de la Fama del
 
 ## Desarrollo doctrinal
 
-La historia de Piazza es una lección sobre la formación en la fe en el seno familiar. Su madre, de ascendencia eslovaca y católica devota, inculcó en sus hijos la disciplina de la Misa dominical como algo «no negociable», definiendo la disciplina como una forma de amor [EAC-20, 20_special_feature_piazza, L3-9]. Para Piazza, la fe es la columna vertebral de la crianza y la base de la identidad.
+La historia de Piazza es una lección sobre la formación en la fe en el seno familiar. Su madre, de ascendencia eslovaca y católica devota, inculcó en sus hijos la disciplina de la Misa dominical como algo «no negociable», definiendo la disciplina como una forma de amor [EAC-20, 20_special_feature_piazza]. Para Piazza, la fe es la columna vertebral de la crianza y la base de la identidad.
 
-Su trayectoria también ilustra la humildad ante la adversidad (ser«humillado» en la Universidad de Miami) y la gratitud por el esfuerzo. En su discurso del Salón de la Fama, citó a Benedicto XVI: «Quien tiene esperanza vive de manera diferente» [EAC-20, 20_special_feature_piazza, L135-149]. Concibe la carrera deportiva como una empresa de «hermanos» (el equipo), reflejando la realidad del Cuerpo de Cristo.
+Su trayectoria también ilustra la humildad ante la adversidad (ser«humillado» en la Universidad de Miami) y la gratitud por el esfuerzo. En su discurso del Salón de la Fama, citó a Benedicto XVI: «Quien tiene esperanza vive de manera diferente» [EAC-20, 20_special_feature_piazza]. Concibe la carrera deportiva como una empresa de «hermanos» (el equipo), reflejando la realidad del Cuerpo de Cristo.
 
 ## Perspectivas por fuente
 
 ### Según Evangelization & Culture (EAC-20)
 
-Piazza enfatiza que «la disciplina es amor» y que la asistencia a la Misa es «no negociable» para sus hijos [EAC-20, 20_special_feature_piazza, L13-17]. Habla de la humildad aprendida en los «dragones» de la vida y en el proceso de ser el número 1390 del draft [EAC-20, 20_special_feature_piazza, L21-33]. Para él, la gratitud es el atributo más importante: «Cada día... agradecer a Dios por esta capacidad de vivir otro día» [EAC-20, 20_special_feature_piazza, L45-59]. Define el béisbol como «un juego de fracaso, pero también un juego de redención» [EAC-20, 20_special_feature_piazza, L83-95].
+Piazza enfatiza que «la disciplina es amor» y que la asistencia a la Misa es «no negociable» para sus hijos [EAC-20, 20_special_feature_piazza]. Habla de la humildad aprendida en los «dragones» de la vida y en el proceso de ser el número 1390 del draft [EAC-20, 20_special_feature_piazza]. Para él, la gratitud es el atributo más importante: «Cada día... agradecer a Dios por esta capacidad de vivir otro día» [EAC-20, 20_special_feature_piazza]. Define el béisbol como «un juego de fracaso, pero también un juego de redención» [EAC-20, 20_special_feature_piazza].
 
 ## Distinciones importantes
 

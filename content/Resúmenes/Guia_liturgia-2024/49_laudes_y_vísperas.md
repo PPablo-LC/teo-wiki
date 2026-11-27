@@ -34,6 +34,6 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Laudes y vísperas |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Laudes y vísperas |

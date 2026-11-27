@@ -78,18 +78,18 @@ El delito más grave no es cometer un error o dudar, sino no recibir de la compa
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PERCHÉ MI È DATA QUESTA UMANITÀ? |
-| 31 | H3 | La responsabilità dell'io |
-| 71 | H3 | Tendere a diventare protagonisti |
-| 75 | H3 | Victime dello stato d'animo |
-| 97 | H3 | I due aiuti dell'amicizia: 1. festeggiare l'evidenza di Cristo |
-| 105 | H3 | 2. accettare il sacrificio |
-| 121 | H3 | Un sentimento umano |
-| 157 | H3 | Tentazione, l'insinuarsi dell'equivoco |
-| 165 | H3 | Si parte solo da un positivo |
-| 179 | H3 | Una tenerezza senza paragone |
-| 211 | H3 | Il significato è presente nel segno |
-| 275 | H3 | Da soli si ha paura del sacrificio |
-| 307 | H3 | Il delitto più grave è non accogliere la compagnia |
+| Nivel | Sección |
+|-------|---------|
+| H1 | PERCHÉ MI È DATA QUESTA UMANITÀ? |
+| H3 | La responsabilità dell'io |
+| H3 | Tendere a diventare protagonisti |
+| H3 | Victime dello stato d'animo |
+| H3 | I due aiuti dell'amicizia: 1. festeggiare l'evidenza di Cristo |
+| H3 | 2. accettare il sacrificio |
+| H3 | Un sentimento umano |
+| H3 | Tentazione, l'insinuarsi dell'equivoco |
+| H3 | Si parte solo da un positivo |
+| H3 | Una tenerezza senza paragone |
+| H3 | Il significato è presente nel segno |
+| H3 | Da soli si ha paura del sacrificio |
+| H3 | Il delitto più grave è non accogliere la compagnia |

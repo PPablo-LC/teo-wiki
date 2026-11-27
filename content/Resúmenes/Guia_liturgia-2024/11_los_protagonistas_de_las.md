@@ -22,6 +22,6 @@ El capítulo desarrolla quiénes participan y actúan en las celebraciones litú
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Los protagonistas de las |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Los protagonistas de las |

@@ -413,65 +413,65 @@ tags: ["resumen", "comunicado capitular 2020"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Comunicado del Capítulo General 2020 |
-| 7 | H3 | Introducción |
-| 9 | H4 | La paz esté con vosotros |
-| 17 | H4 | Agradecimientos |
-| 29 | H4 | Jesucristo y la misión al centro de nuestras consideraciones |
-| 33 | H4 | Lectura de los signos de los tiempos |
-| 39 | H4 | Contexto general de la Congregación |
-| 43 | H4 | Enfoques y perspectivas |
-| 57 | H4 | Capítulo General, signo de unidad |
-| 61 | H3 | Parte 1 |
-| 63 | H3 | Informe a la Congregación |
-| 67 | H4 | Abusos, víctimas, sobrevivientes y medidas |
-| 85 | H4 | Informes del período 2014-2020 |
-| 91 | H4 | Elecciones |
-| 95 | H4 | Derecho propio |
-| 107 | H4 | Hacia una progresiva asimilación |
-| 115 | H4 | Obras de apostolado y temas administrativos |
-| 125 | H3 | Parte 2 |
-| 127 | H3 | Vida y misión |
-| 129 | H5 | Jesucristo |
-| 135 | H4 | A. La identidad del legionario de Cristo: «Nos reúne en torno a sí» |
-| 139 | H5 | Luces y sombras |
-| 145 | H5 | Identidad clara y proceso de identificación |
-| 155 | H5 | Diversidad de posturas y discernimiento |
-| 165 | H5 | Unidad en la diversidad y fisonomía externa |
-| 175 | H4 | B. Las vocaciones: «Nos sale al encuentro» |
-| 177 | H5 | Don y misterio |
-| 181 | H5 | Situación actual |
-| 187 | H5 | Renovar y relanzar la promoción vocacional |
-| 193 | H5 | Tarea de todos y cada uno |
-| 201 | H5 | Los centros vocacionales |
-| 205 | H5 | La etapa previa al noviciado |
-| 209 | H5 | El Señor sigue llamando |
-| 213 | H4 | C. La formación inicial: «Nos revela el amor de su Corazón y nos forma |
-| 215 | H5 | La santidad como meta de la formación |
-| 221 | H5 | Con la mirada en la misión |
-| 225 | H5 | Ratio institutionis «Christus vita vestra» |
-| 231 | H5 | Enfoque y procesos pedagógicos |
-| 239 | H5 | Itinerario formativo |
-| 247 | H4 | D. La misión: «Nos envía» |
-| 249 | H5 | Con Jesucristo nace y renace la alegría |
-| 257 | H5 | Actitudes del apóstol |
-| 273 | H5 | La misión de la Legión en la Iglesia |
-| 315 | H5 | El gobierno del apostolado |
-| 327 | H5 | Formamos parte de la Federación Regnum Christi |
-| 333 | H5 | Impulso a la evangelización de los líderes de la sociedad |
-| 341 | H5 | Evangelización en nuestros centros educativos |
-| 347 | H5 | Parroquias |
-| 353 | H5 | Carismas del Espíritu Santo |
-| 363 | H4 | E. La formación permanente: «Nos acompaña» |
-| 365 | H5 | Formación permanente como actitud de vida |
-| 373 | H5 | *La vida fraterna en comunidad* |
-| 377 | H5 | Reglamento de las casas de apostolado |
-| 383 | H5 | Proyecto comunitario |
-| 397 | H5 | Unidad de vida |
-| 405 | H5 | Vida pobre |
-| 411 | H5 | Uso de los medios de comunicación |
-| 415 | H3 | Conclusión |
-| 417 | H4 | Autenticidad, comunión, celo apostólico |
-| 427 | H4 | Seréis mis testigos |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Comunicado del Capítulo General 2020 |
+| H3 | Introducción |
+| H4 | La paz esté con vosotros |
+| H4 | Agradecimientos |
+| H4 | Jesucristo y la misión al centro de nuestras consideraciones |
+| H4 | Lectura de los signos de los tiempos |
+| H4 | Contexto general de la Congregación |
+| H4 | Enfoques y perspectivas |
+| H4 | Capítulo General, signo de unidad |
+| H3 | Parte 1 |
+| H3 | Informe a la Congregación |
+| H4 | Abusos, víctimas, sobrevivientes y medidas |
+| H4 | Informes del período 2014-2020 |
+| H4 | Elecciones |
+| H4 | Derecho propio |
+| H4 | Hacia una progresiva asimilación |
+| H4 | Obras de apostolado y temas administrativos |
+| H3 | Parte 2 |
+| H3 | Vida y misión |
+| H5 | Jesucristo |
+| H4 | A. La identidad del legionario de Cristo: «Nos reúne en torno a sí» |
+| H5 | Luces y sombras |
+| H5 | Identidad clara y proceso de identificación |
+| H5 | Diversidad de posturas y discernimiento |
+| H5 | Unidad en la diversidad y fisonomía externa |
+| H4 | B. Las vocaciones: «Nos sale al encuentro» |
+| H5 | Don y misterio |
+| H5 | Situación actual |
+| H5 | Renovar y relanzar la promoción vocacional |
+| H5 | Tarea de todos y cada uno |
+| H5 | Los centros vocacionales |
+| H5 | La etapa previa al noviciado |
+| H5 | El Señor sigue llamando |
+| H4 | C. La formación inicial: «Nos revela el amor de su Corazón y nos forma |
+| H5 | La santidad como meta de la formación |
+| H5 | Con la mirada en la misión |
+| H5 | Ratio institutionis «Christus vita vestra» |
+| H5 | Enfoque y procesos pedagógicos |
+| H5 | Itinerario formativo |
+| H4 | D. La misión: «Nos envía» |
+| H5 | Con Jesucristo nace y renace la alegría |
+| H5 | Actitudes del apóstol |
+| H5 | La misión de la Legión en la Iglesia |
+| H5 | El gobierno del apostolado |
+| H5 | Formamos parte de la Federación Regnum Christi |
+| H5 | Impulso a la evangelización de los líderes de la sociedad |
+| H5 | Evangelización en nuestros centros educativos |
+| H5 | Parroquias |
+| H5 | Carismas del Espíritu Santo |
+| H4 | E. La formación permanente: «Nos acompaña» |
+| H5 | Formación permanente como actitud de vida |
+| H5 | *La vida fraterna en comunidad* |
+| H5 | Reglamento de las casas de apostolado |
+| H5 | Proyecto comunitario |
+| H5 | Unidad de vida |
+| H5 | Vida pobre |
+| H5 | Uso de los medios de comunicación |
+| H3 | Conclusión |
+| H4 | Autenticidad, comunión, celo apostólico |
+| H4 | Seréis mis testigos |

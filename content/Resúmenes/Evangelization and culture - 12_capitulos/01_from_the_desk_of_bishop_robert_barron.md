@@ -37,4 +37,4 @@ Los mejores momentos de la vida son cuando perdemos el ego, nos perdemos en el m
 
 ## Referencia original
 
-📄 Fuente original: `01_from_the_desk.md` (línea 1–13)
+📄 Fuente original: `01_from_the_desk.md`

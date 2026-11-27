@@ -16,11 +16,11 @@ La parábola del fariseo y el publicano (Lc 18,9-14) enfrenta la oración del fa
 
 ## Desarrollo doctrinal
 
-La escena se ambienta en el Templo: el fariseo ora mientras su cuñada se agrava; ha dejado a su familia para cumplir la obligación de la oración, y es «Velador del Sanedrín». La frase que abre la dramatización es decisiva: «La obligación es antes que la devoción». El fariseo se presenta ante Jahwé con un catálogo de cumplimientos —ayunos, diezmos, oraciones— y con la seguridad de estar justificado por sus obras exteriores (CyF, apéndice I L3-15; [[exterioridad_religiosa]]).
+La escena se ambienta en el Templo: el fariseo ora mientras su cuñada se agrava; ha dejado a su familia para cumplir la obligación de la oración, y es «Velador del Sanedrín». La frase que abre la dramatización es decisiva: «La obligación es antes que la devoción». El fariseo se presenta ante Jahwé con un catálogo de cumplimientos —ayunos, diezmos, oraciones— y con la seguridad de estar justificado por sus obras exteriores (CyF, apéndice I; [[exterioridad_religiosa]]).
 
 Los personajes —Raquela, Zamarriel, Carmela— encarnan la tensión entre la religiosidad visible y la misericordia concreta. La inversión evangélica se cumple: «el que se humilla será exaltado». El publicano, que no tiene obras que alegar, es el que se va justificado a su casa ([[misericordia]], [[fariseísmo]]).
 
-La parábola se empareja con la del Buen Samaritano en el capítulo VI: ambas corrigen la idea de que la salvación depende de la pertenencia, del rito o de la observancia externa. «La salvación no por nación, raza, secta o milagros sino por amor, justicia y misericordia» (CyF, cap. VI L37-43; [[buen_samaritano]]). El fariseo de la parábola es, en definitiva, la misma figura del [[falso_pastor]]: confía en su propia justicia y desprecia al otro (Lc 18,9).
+La parábola se empareja con la del Buen Samaritano en el capítulo VI: ambas corrigen la idea de que la salvación depende de la pertenencia, del rito o de la observancia externa. «La salvación no por nación, raza, secta o milagros sino por amor, justicia y misericordia» (CyF, cap. VI; [[buen_samaritano]]). El fariseo de la parábola es, en definitiva, la misma figura del [[falso_pastor]]: confía en su propia justicia y desprecia al otro (Lc 18,9).
 
 ## Perspectivas por fuente
 
@@ -49,5 +49,5 @@ Se vincula con [[justificación]], [[humildad]], [[misericordia]], [[oración]],
 
 ## Referencias
 
-- CyF, `15_apendice_i_parabola_del_fariseo_y_el_publicano.md` L3-143; `08_vi_la_defensa.md` L37-43.
+- CyF, `15_apendice_i_parabola_del_fariseo_y_el_publicano.md`; `08_vi_la_defensa.md`.
 - Lc 18,9-14; CEC 1987-1995, 2600-2605, 2728.

@@ -25,9 +25,9 @@ tags: ["cristología", "teología_fundamental", "epistemología", "teología_mor
 
 Obra en la que Barron expone el principio que da nombre al wiki: la **prioridad epistémica de Jesucristo**. El punto de partida de la teología no es la experiencia religiosa humana —el sentimiento de dependencia de Schleiermacher, la conciencia del misterio de Tillich o la antropología trascendental de Rahner—, sino el Jesús concreto de los Evangelios, encarnado, crucificado y resucitado. Si Jesús fuera solo un «símbolo» o la «ejemplificación» de una conciencia religiosa general, su vida y su muerte no importarían de la manera en que importan; la escalera podría patearse una vez alcanzado el nivel deseado. La inversión que propone Barron es que filosofía, ética y formas culturales no sitúan a Cristo: **él las sitúa a ellas**.
 
-El prólogo del cardenal George precisa que la propuesta «postliberal» no es un retorno a la Escolástica ni a los Padres, sino una prioridad **ontológica, epistémica y ética**: Jesús no es una idea sino una persona, un icono «más allá del concepto pero no más allá de la racionalidad», un fenómeno «supersaturado». De ahí derivan una metafísica del don, una epistemología de la co-inherencia y una ética de discípulos icónicos (L9-L15 del prólogo).
+El prólogo del cardenal George precisa que la propuesta «postliberal» no es un retorno a la Escolástica ni a los Padres, sino una prioridad **ontológica, epistémica y ética**: Jesús no es una idea sino una persona, un icono «más allá del concepto pero no más allá de la racionalidad», un fenómeno «supersaturado». De ahí derivan una metafísica del don, una epistemología de la co-inherencia y una ética de discípulos icónicos (- del prólogo).
 
-La arquitectura del libro invierte deliberadamente la de la *Summa theologiae*: donde Tomás va de Dios (I) al hombre (II) y a Cristo (III), Barron comienza por Cristo, sigue con la narrativa evangélica, pasa a la cuestión epistémica, trata después de Dios y termina con la vida en Cristo. La conclusión recoge la tesis en una imagen corporal: en el retiro de Lough Dourg cualquier intuición espiritual «sube por los pies»; del mismo modo, el cristianismo no se deja reducir a una abstracción, sino que se conoce «a través de los pies», por el Jesús de Galilea y por los santos que son sus iconos vivientes. «It is this Moment that gives the meaning» (L11 de la conclusión).
+La arquitectura del libro invierte deliberadamente la de la *Summa theologiae*: donde Tomás va de Dios (I) al hombre (II) y a Cristo (III), Barron comienza por Cristo, sigue con la narrativa evangélica, pasa a la cuestión epistémica, trata después de Dios y termina con la vida en Cristo. La conclusión recoge la tesis en una imagen corporal: en el retiro de Lough Dourg cualquier intuición espiritual «sube por los pies»; del mismo modo, el cristianismo no se deja reducir a una abstracción, sino que se conoce «a través de los pies», por el Jesús de Galilea y por los santos que son sus iconos vivientes. «It is this Moment that gives the meaning» (de la conclusión).
 
 ## Estructura
 
@@ -78,7 +78,7 @@ La arquitectura del libro invierte deliberadamente la de la *Summa theologiae*: 
 ## Distinciones importantes
 
 - **Prioridad de Cristo vs. símbolo:** si Jesús es solo símbolo de una conciencia religiosa general, su historia es prescindible. Barron invierte el orden: la historia concreta juzga a la experiencia, no al revés.
-- **Postliberalismo vs. restauracionismo:** no es volver a la Escolástica ni a los Padres, sino leer las narraciones bíblicas y la tradición como el marco que vuelve inteligible la filosofía y la cultura (prólogo, L9).
+- **Postliberalismo vs. restauracionismo:** no es volver a la Escolástica ni a los Padres, sino leer las narraciones bíblicas y la tradición como el marco que vuelve inteligible la filosofía y la cultura (prólogo).
 - **Dios no competitivo vs. *ens summum*:** el Dios de Calcedonia y del Tomás cristocéntrico no es un ser supremo junto a los seres; ese «supreme being» es justamente el ídolo que occamismo y modernidad fabrican. No se confunde con panteísmo: la alteridad de Dios es «otra de otro modo», no contrastiva.
 - **Icono vs. idea:** el icono va más allá del concepto pero no más allá de la racionalidad; la «supersaturación» del fenómeno Jesús no es irracionalismo.
 - **Deontologismo y proporcionalismo:** comparten atomismo, decisionismo y universalismo; la alternativa postliberal no es una tercera teoría de la obligación, sino una moral configurada por los santos como iconos.
@@ -112,5 +112,5 @@ La arquitectura del libro invierte deliberadamente la de la *Summa theologiae*: 
 
 - Barron, Robert E. *The Priority of Christ: Toward a Postliberal Catholicism*. Grand Rapids: Brazos Press, 2007.
 - Levering, Matthew. «Robert Barron's *The Priority of Christ*: An Introduction». *Evangelization & Culture*, n.º 7, Spring 2021.
-- George, Francis Cardinal, OMI. Prólogo a *The Priority of Christ* (L3-19 del raw).
+- George, Francis Cardinal, OMI. Prólogo a *The Priority of Christ* (del raw).
 - Barron, Robert E. *And Now I See*, *Bridging the Great Divide*, *The Strangest Way* y *Thomas Aquinas: Spiritual Master* (obras del autor en la bibliografía de la fuente).

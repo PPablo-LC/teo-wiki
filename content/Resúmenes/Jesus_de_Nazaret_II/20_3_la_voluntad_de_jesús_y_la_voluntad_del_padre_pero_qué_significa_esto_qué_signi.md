@@ -28,6 +28,6 @@ Clave final: el apelativo **Abbá** (Mc 14, 36). Jeremías demostró que no hay 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 3. LA VOLUNTAD DE JESÚS Y LA VOLUNTAD DEL PADRE |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 3. LA VOLUNTAD DE JESÚS Y LA VOLUNTAD DEL PADRE |

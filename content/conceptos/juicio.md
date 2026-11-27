@@ -67,6 +67,18 @@ Como juez, Jesús entra en el mundo «como un soldado que se infiltra clandestin
 
 Pero la muerte no es la última palabra. El Resucitado hace dos cosas ante los suyos: muestra las llagas —«no permite el olvido exculpatorio»— y dice «Shalom» (Lc 24,36). Frente a los mitos y a las películas en que el orden se restaura con más violencia, en Jesús «el terrible desorden de la cruz no se aborda con una explosión de venganza divina, sino con una irradiación de amor divino»: palabras de reconciliación y compasión, sin pasar por alto la textura del desorden. Así «quita el pecado del mundo»: la venganza restauraba una paz precaria, pausa entre conflictos; lo que quita la violencia es una no violencia valiente y compasiva, «como el agua apaga el fuego».
 
+### Según *Life of Christ* (LCh, caps. 34, 43, 45)
+
+Frente al juicio como acto virtuoso, Sheen estudia el **juicio inicuo**, el que condena al Justo, y lo hace desde la idea de señal: Cristo es «sign to be contradicted» (Lc 2,34), y por eso hay dos juicios, el religioso y el civil, porque cada uno lo juzga por lo que no es: demasiado divino para el uno, demasiado humano para el otro (cap. 43).
+
+Del proceso religioso señala las **irregularidades**: reunión nocturna, sentencia resuelta antes de oír al reo, testigos falsos que se contradicen y una acusación de blasfemia construida sobre sus propias palabras sobre el templo (cap. 43). La aplicación más fina es la del juicio temerario: los sacerdotes juzgan la intención de Cristo sin poder verla, y Sheen recuerda que el mismo Sanedrín que exigía testigos conformes se contenta con dos que no lo son.
+
+En el proceso civil el juicio se vuelve **pregunta por la verdad**: «¿Qué es la verdad?» (Jn 18,38) no es una duda sincera sino una posición moral —el escepticismo como excusa para no decidir—, y Pilato, que ha visto la inocencia, condena por miedo a Roma (cap. 45). Sheen comenta que la mayor injusticia no es negar la verdad sino declararla irrelevante. En el trasfondo, el juicio del mundo ya ha sido pronunciado: «ahora es el juicio de este mundo» (Jn 12,31), y se cumple sobre la Cruz, donde el que juzga a todos es juzgado (cap. 34).
+
+- **Juicio y conciencia**: Pilato sabe y no obra; el pecado del juez es aquí un pecado contra la luz recibida, no contra la ignorancia.
+- **Ironía del proceso**: el tribunal que juzga queda juzgado por el reo, y la sentencia que se dicta contra Él es la que lo constituye Rey (cap. 45).
+- **Burlas y blasfemia** (cap. 43): el rasgado de vestiduras y los golpes a la cara son el juicio humano que se vuelve contra sí mismo.
+
 ## Distinciones importantes
 
 - **Juicio justo vs. injusto**: según la rectitud de la justicia

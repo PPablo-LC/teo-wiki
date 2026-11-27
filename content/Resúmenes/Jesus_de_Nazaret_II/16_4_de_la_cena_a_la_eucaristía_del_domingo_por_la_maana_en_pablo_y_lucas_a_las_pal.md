@@ -27,6 +27,6 @@ Como el don está radicado en la resurrección, la celebración debía vinculars
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 4. DE LA CENA A LA EUCARISTÍA DEL DOMINGO POR LA MAÑANA |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 4. DE LA CENA A LA EUCARISTÍA DEL DOMINGO POR LA MAÑANA |

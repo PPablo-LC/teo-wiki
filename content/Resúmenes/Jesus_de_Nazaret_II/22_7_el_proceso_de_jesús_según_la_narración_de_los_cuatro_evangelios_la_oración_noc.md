@@ -27,6 +27,6 @@ Este archivo raw contiene únicamente el título y esta introducción general de
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 7. EL PROCESO DE JESÚS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 7. EL PROCESO DE JESÚS |

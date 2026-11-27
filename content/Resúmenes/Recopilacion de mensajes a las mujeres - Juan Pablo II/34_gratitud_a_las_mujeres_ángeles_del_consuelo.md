@@ -34,8 +34,8 @@ En nuestro mundo, donde sigue habiendo tanta pobreza y marginación, es necesari
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Gratitud a las mujeres, ángeles del consuelo |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Gratitud a las mujeres, ángeles del consuelo |
 
 ## Secciones incluidas

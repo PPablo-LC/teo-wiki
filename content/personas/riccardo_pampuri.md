@@ -64,7 +64,7 @@ de la tesis central del volumen: solo una vida transformada por el
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivos
-  `03_si_può_vivere_così_1995.md` (líneas 5-7) y
-  `04_alla_ricerca_del_volto_umano_1996.md` (líneas 43, 153-155).
+  `03_si_può_vivere_così_1995.md` y
+  `04_alla_ricerca_del_volto_umano_1996.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Attraverso_la_compagnia_dei_credenti_capitoli/índice.md`.

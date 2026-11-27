@@ -59,8 +59,6 @@ de que la [[hospitalidad]] es «el dar todo».
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO),
-  `00_preliminares.md` (línea 17), `01_introduzione_di_julian_carron.md`
-  (línea 33) y `12_storia_di_un_opera_famiglie_per_l_accoglienza.md`
-  (línea 29).
+  `00_preliminares.md`, `01_introduzione_di_julian_carron.md` y `12_storia_di_un_opera_famiglie_per_l_accoglienza.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

@@ -37,8 +37,8 @@ Buscamos una religión pequeña a nuestra medida. Las paradojas del Evangelio so
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Paradox |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Paradox |
 
 ## Secciones incluidas

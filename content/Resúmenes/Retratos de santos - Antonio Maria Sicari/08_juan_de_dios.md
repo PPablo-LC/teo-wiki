@@ -12,19 +12,19 @@ tags: ["resumen", "caridad", "pobreza", "conversión", "hospitalidad"]
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[caridad]] — «Estaba literalmente abrasado por el fuego de la caridad»: el principio que gobierna toda su vida, desde el hospital de Granada hasta la conversación con Antonio Martín (L168-224).
-- [[pobreza]] — «Los santos que han amado la pobreza y a los pobres han entrevisto en ese amor una riqueza que colmaba su existencia más que cualquier otro tesoro» (L144).
-- [[conversión]] — la experimento de 1539: un movimiento irrefrenable de arrepentimiento que lo lleva a la plaza, al manicomio y finalmente a una vida entregada (L77-126).
-- [[penitencia]] — la decisión de «dedicar mi vida, don del Señor, a hacer penitencia y a servirle» al volver a su pueblo y saber la muerte de sus padres (L55).
-- [[hospitalidad]] — «Fatebenefratelli»: hacerse bien a sí mismo haciendo el bien al prójimo, que es el significado original de la expresión que da nombre a su orden (L132-146).
-- [[dignidad_de_la_persona_enferma]] — su hospital seleccionaba a los enfermos por enfermedad, en una época en que se hacinaban los enfermos, ocupando la misma cama más de uno; Lombroso lo llamó «el creador del hospital moderno» (L150-154).
-- [[humildad]] — «¡Portugués, y humillarse! causa espanto»: la reacción de Lope de Vega ante el episodio de la caída con el enfermo a cuestas (L109-114, L176-184).
-- [[misericordia]] — su atención especial a las prostitutas, «las pecadoras que más atraían su misericordiosa ternura», a las que pedía escuchar sólo dos palabras (L200-210).
-- [[hermanos_enfermos]] — la comunidad que se forma alrededor de él: los mismos pobres que se valen por sí mismos se convierten en enfermeros (L162).
-- [[conversión]] — la de Antonio Martín, cuyo perdón y entrega fueron el primer paso de la estabilidad de la obra (L186-198).
-- [[apostolado_seglar]] — un laico sin votos ni orden religiosa, que funda sin embargo una obra que la Iglesia reconoce (L162, L196).
+- [[caridad]] — «Estaba literalmente abrasado por el fuego de la caridad»: el principio que gobierna toda su vida, desde el hospital de Granada hasta la conversación con Antonio Martín.
+- [[pobreza]] — «Los santos que han amado la pobreza y a los pobres han entrevisto en ese amor una riqueza que colmaba su existencia más que cualquier otro tesoro».
+- [[conversión]] — la experimento de 1539: un movimiento irrefrenable de arrepentimiento que lo lleva a la plaza, al manicomio y finalmente a una vida entregada.
+- [[penitencia]] — la decisión de «dedicar mi vida, don del Señor, a hacer penitencia y a servirle» al volver a su pueblo y saber la muerte de sus padres.
+- [[hospitalidad]] — «Fatebenefratelli»: hacerse bien a sí mismo haciendo el bien al prójimo, que es el significado original de la expresión que da nombre a su orden.
+- [[dignidad_de_la_persona_enferma]] — su hospital seleccionaba a los enfermos por enfermedad, en una época en que se hacinaban los enfermos, ocupando la misma cama más de uno; Lombroso lo llamó «el creador del hospital moderno».
+- [[humildad]] — «¡Portugués, y humillarse! causa espanto»: la reacción de Lope de Vega ante el episodio de la caída con el enfermo a cuestas.
+- [[misericordia]] — su atención especial a las prostitutas, «las pecadoras que más atraían su misericordiosa ternura», a las que pedía escuchar sólo dos palabras.
+- [[hermanos_enfermos]] — la comunidad que se forma alrededor de él: los mismos pobres que se valen por sí mismos se convierten en enfermeros.
+- [[conversión]] — la de Antonio Martín, cuyo perdón y entrega fueron el primer paso de la estabilidad de la obra.
+- [[apostolado_seglar]] — un laico sin votos ni orden religiosa, que funda sin embargo una obra que la Iglesia reconoce.
 
-## 1. Nacer en la tierra de los navegantes (L3-21)
+## 1. Nacer en la tierra de los navegantes
 
 Nacer a finales del siglo XV —apenas tres años después del descubrimiento del «Nuevo Mundo»— significaba inevitablemente asimilar desde la infancia el gusto y el ansia por la aventura que caracterizó todo el siglo XVI. Más aún si se nacía en Portugal, la tierra de los grandes navegantes: Bartolomé Díaz, que en 1486 descubrió el «Cabo de las Tormentas» y el «Cabo de Buena Esperanza»; Vasco de Gama, que en 1497 dobla el Cabo y llega hasta Calcuta; Alvares Cabral, que en 1500 descubre Brasil; Magallanes, que en 1520 llega al Gran Estrecho para introducirse en el océano Pacífico y circunnavega el globo.
 
@@ -38,7 +38,7 @@ El pequeño Juan hizo así un largo viaje a pie hasta Madrid junto a mendigos, s
 
 Durante seis años educa a Juan como a un hijo. Después —desde los catorce a los veintiocho años—, vive como pastor en la soledad de los montes y en la contemplación de la naturaleza cuidando ganado. Pero cuando al fin parece que va a establecerse definitivamente casándose con la hija de Mayoral —con la que había vivido como un hermano desde la infancia— Juan escapa de nuevo.
 
-## 2. Las dos muertes del aventurero (L23-41)
+## 2. Las dos muertes del aventurero
 
 Carlos V está alistando tropas contra Francia, que se ha adueñado de Pamplona (donde ha sido herido el heroico defensor Ignacio de Loyola y donde han combatido en el otro bando los hermanos mayores de Francisco Javier).
 
@@ -48,7 +48,7 @@ Una vez un caballo desbocado le tira al suelo lanzándolo contra unas rocas junt
 
 Volvió con Mayoral, su antiguo patrón, después de un interminable viaje a pie de unos seiscientos kilómetros como un fracasado, para retornar de mala gana a su oficio de pastor. Pasaron otros dos años. En 1527, oye decir que el Sultán de los turcos, Solimán II, ha entrado en Hungría y ha asediado Viena. Le nace de nuevo el deseo de ir a la guerra. En 1532 Carlos V empieza a preparar una cruzada contra los turcos y recluta hombres de todas partes. Juan se alista y empieza de nuevo a viajar.
 
-## 3. El regreso imposible y la decisión de la penitencia (L43-67)
+## 3. El regreso imposible y la decisión de la penitencia
 
 Las tropas de Carlos V entraron en Viena en septiembre de 1532. No se combatió en verdad ninguna guerra, pero de momento se evitó el peligro turco. Después de algunos meses, las tropas comenzaron el viaje de regreso; a la compañía de Juan Cidade le ordenaron atravesar Alemania, hacer escala en Flandes y alquilar una nave para ir a España. Desembarcaron en el puerto de La Coruña, cerca de Santiago de Compostela, y todos fueron allí peregrinando. Después la compañía se disolvió.
 
@@ -64,7 +64,7 @@ Vuelve a España y se sumerge durante horas en la lectura de textos de espiritua
 
 A los cuarenta y tres años vive con desahogo de su tiendecita de Granada.
 
-## 4. El predicador de Sevilla y la crisis del manicomio (L71-120)
+## 4. El predicador de Sevilla y la crisis del manicomio
 
 Pero Dios le espera en enero de 1539, en la fiesta de San Sebastián, cuando llega a la ciudad uno de los más célebres predicadores de la época: Juan de Ávila, el apóstol de Andalucía. Juan se encuentra entre los oyentes y oye decir que cada uno debe «anclarse en la voluntad de sufrir y de llegar incluso a morir antes que cometer un pecado, que es el flagelo más peligroso». Todos saben a qué hace referencia, pues la región está siendo devastada por el flagelo de la peste.
 
@@ -90,7 +90,7 @@ Después de algunos días se presentó ante el director del manicomio y le dijo:
 
 Para probarlo pidió servir a otros enfermos y demostró una serenidad y una caridad sorprendentes.
 
-## 5. El entierro de la Isabel de Augsburgo y el nacimiento de la obra (L122-154)
+## 5. El entierro de la Isabel de Augsburgo y el nacimiento de la obra
 
 Apenas salió del hospital, sufrió otro shock: delante de la puerta pasaba el cortejo fúnebre que acompañaba hacia su sepultura en la Capilla Real de Granada a la bellísima emperatriz Isabel de Augsburgo, esposa de Carlos V. Como le sucedió al duque Francisco de Borja, que decidió emprender el camino de la santidad, esa visión le convenció más, si cabe, para que dedicase la vida al servicio de Nuestro Señor cuidando a los más pobres.
 
@@ -110,7 +110,7 @@ No se puede amar verdaderamente a los pobres si antes no se descubre la propia p
 
 Empezaron a llegar las primeras donaciones y la casa pudo agrandarse. Juan hospedaba a sus enfermos seleccionándolos según la enfermedad: una habitación para los febricitantes, una para los heridos, otra para inválidos; la planta baja estaba reservada para los viandantes y mendigos que no tenían un techo donde cobijarse. Todo esto sucedía en una época en la que los enfermos se hacinaban en los hospitales sin distinción, ocupando la misma cama más de un enfermo. Lombroso —no precisamente afecto a la Iglesia— definió a Juan Cidade como «el creador del hospital moderno».
 
-## 6. «A través de los cuerpos, las almas» (L156-184)
+## 6. «A través de los cuerpos, las almas»
 
 Cuidaba personalmente de todo: acogía a los necesitados, los lavaba, les procuraba el alimento, cocinaba, fregaba los platos, barría, lavaba la ropa, iba por agua y leña. Los visitantes se quedaban sorprendidos por el orden y la limpieza que había.
 
@@ -128,7 +128,7 @@ La imagen más conocida que queda de él es la inmortalizada por Murillo, que ha
 
 Después volvió a cargar al enfermo en la espalda y cogió de nuevo la cesta y se encaminó hacia el hospital.
 
-## 7. La conversión de Antonio Martín y el cuidado de las prostitutas (L186-210)
+## 7. La conversión de Antonio Martín y el cuidado de las prostitutas
 
 Su primer colaborador estable fue Antonio Martín: habían asesinado a su hermano por motivos de honor y él a su vez había dedicado toda su vida a preparar la venganza. Nada habría podido detenerle ya que para él era una cuestión de honor y de sangre. Y, sin embargo, Antonio era bueno y generoso con los pobres. Juan de Dios quiso obtener «la conversión de este bautizado».
 
@@ -144,7 +144,7 @@ Juan tenía una atención especial hacia las pecadoras que más atraían su mise
 
 Alguna se arrepentía; pero la situación se quedaba a veces sin resolver ya que estaban atadas por deudas y amenazas. Entonces él iba a ver a alguna noble dama para pedirle dinero: «Hermana mía, hay una prisionera del demonio; ayudadme por el amor de Dios a liberarla y arranquémosla de esa miserable esclavitud». Si no lo conseguía, se comprometía a pagar todas las deudas que aquellas pobrecillas habían contraído.
 
-## 8. «Que Jesucristo provee»: el incendio y la muerte (L212-268)
+## 8. «Que Jesucristo provee»: el incendio y la muerte
 
 Cuando las acusaciones y calumnias contra él se hacían intolerables, respondía al que le ofendía: «Antes o después te tengo que perdonar, por tanto te perdono ya».
 
@@ -180,6 +180,6 @@ Una biografía reciente sintetiza agudamente su extraña aventura así: «Era un
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Juan de Dios |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Juan de Dios |

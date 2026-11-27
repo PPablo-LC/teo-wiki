@@ -47,9 +47,9 @@ Diez años de mosaicos pacientes: diarios inéditos de Warren Lewis en el Wade C
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Tolkien's Modern Reading — Holly Ordway |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Tolkien's Modern Reading — Holly Ordway |
 
 ## Secciones incluidas
 

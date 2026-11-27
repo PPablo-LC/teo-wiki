@@ -34,6 +34,6 @@ Siguiendo estos criterios se tomaron medidas orientadas a mejorar la calidad y s
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | 7) Criterios de gobierno para la expansión y consolidación |
+| Nivel | Sección |
+|-------|---------|
+| H2 | 7) Criterios de gobierno para la expansión y consolidación |

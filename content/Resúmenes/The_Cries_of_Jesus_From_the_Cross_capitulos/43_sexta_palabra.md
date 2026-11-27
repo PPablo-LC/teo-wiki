@@ -25,5 +25,5 @@ del universo, la pereza, la justicia, los sensacionalistas y la «hora» de la e
 ## Fuente original
 
 - Raw: `raw/Bases_doctrinales-raw/The_Cries_of_Jesus_From_the_Cross_capitulos/42_sixth_word.md`
-- Líneas: L3
-- Cita verificada: `"It is finished."` (L3)
+- Citas verificadas en el capítulo:
+  - `"It is finished."`

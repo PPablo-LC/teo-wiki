@@ -39,7 +39,7 @@ el paralelismo biográfico que la introducción desarrolla en detalle.
 Trent Beattie presenta a Neumann como un hombre que **aprendió la
 felicidad en la escuela del sufrimiento interior**. Siendo joven, y ya
 antes de su episcopado, «battled depression in his early twenties,
-feeling as if God had abandoned him» (FTH, introd., L45): la prueba no era
+feeling as if God had abandoned him» (FTH, introd.): la prueba no era
 solo psicológica, sino teologal, porque tocaba la relación misma con Dios.
 
 La súplica que conservamos de esa hora es de una franqueza que la
@@ -47,7 +47,7 @@ hagiografía piadosa suele evitar:
 
 > «Lord, I am beginning to feel that awful state of depression coming
 > over me again! I lose all yearning for prayer because you have seemed
-> to turn a deaf ear to my cries» (FTH, introd., L47).
+> to turn a deaf ear to my cries» (FTH, introd.).
 
 Dos rasgos merecen atención. El primero, la **pérdida del deseo de orar**:
 no la sequedad de quien se distrae, sino la desaparición del gusto y del
@@ -63,14 +63,14 @@ atravesar sin concluir de ella una condena.
 El giro no fue una técnica psicológica, sino una conversión del deseo.
 «After straining for consolation, Neumann realized the seeming
 contradiction of happiness, that you find it by stopping the search for
-it» (FTH, introd., L49). Dejar de exigir consuelo —del cielo o de la
+it» (FTH, introd.). Dejar de exigir consuelo —del cielo o de la
 tierra— fue el modo concreto de dejar de hacer de la felicidad un objeto
 de posesión:
 
 > «I no longer look for comfort from either Heaven or earth. You, Divine
 > Master, can judge whether such are necessary for me. I promise to worry
 > no more over the aridity You send me. You, my God, are the font both of
-> aridity and grace» (FTH, introd., L49).
+> aridity and grace» (FTH, introd.).
 
 La frase contiene una teología entera de la aridez: la sequedad no
 viene de fuera de Dios ni es un obstáculo para la unión, sino que procede
@@ -88,12 +88,12 @@ la felicidad: **no tomarse demasiado en serio a sí mismo**. «The more
 highly we regard ourselves, the more miserable we become; while the more
 lowly we regard ourselves in the light of God's grace, the more content we
 become. This is something another American bishop learned decades before
-Sheen» (FTH, introd., L41). La [[humildad]] no es aquí un adorno ascético
+Sheen» (FTH, introd.). La [[humildad]] no es aquí un adorno ascético
 sino la condición epistémica de la [[felicidad]]: quien se mira a la luz
 de la gracia se ve pequeño y queda libre; quien se mide consigo mismo
 nunca alcanza.
 
-El paralelismo se detalla en cuatro coincidencias (FTH, introd., L43):
+El paralelismo se detalla en cuatro coincidencias (FTH, introd.):
 los **ojos penetrantes**, la **estatura corta** —1,57 m frente a 1,70 m—,
 la **energía, dedicación y capacidad intelectual** con que suplieron esa
 falta, y el **amor a Jesús en el Santísimo Sacramento**, que en ambos se
@@ -103,7 +103,7 @@ happiness», que en Neumann nació, como en Sheen, de sus luchas interiores.
 
 Décadas después, Sheen formularía el mismo hallazgo en una sola línea:
 «It is one of the paradoxes of creation that you gain control by
-submission» (FTH, introd., L51). Solo soltando se gana el poder real;
+submission» (FTH, introd.). Solo soltando se gana el poder real;
 mientras nos aferramos a las cosas, ellas nos dominan. Neumann había
 llegado ahí por la vía del sufrimiento, y por eso su testimonio sirve de
 dedicatoria a un libro sobre la felicidad.
@@ -138,9 +138,8 @@ aprobación de sus virtudes (*Lumen gentium*, nota 155).
 
 ## Referencias
 
-- [[finding_true_happiness]], portada (L15-18) e introducción de Trent
-  Beattie (L41-51) (FTH)
+- [[finding_true_happiness]], portada e introducción de Trent
+  Beattie (FTH)
 - [[ecclesia_in_america]], cap. VI, nota 35 (Juan Pablo II)
 - *Lumen gentium*, nota 155
-  (`raw/Bases_doctrinales-raw/Concilio_Vaticano_II/Constituciones/lumen-gentium.md`,
-  L744)
+  (`raw/Bases_doctrinales-raw/Concilio_Vaticano_II/Constituciones/lumen-gentium.md`)

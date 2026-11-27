@@ -90,6 +90,6 @@ Hay que tomar conciencia de la diversidad radical entre nosotros y el mundo: san
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LA PREFERENZA PER CRISTO |
+| Nivel | Sección |
+|-------|---------|
+| H1 | LA PREFERENZA PER CRISTO |

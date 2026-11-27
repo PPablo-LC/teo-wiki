@@ -32,9 +32,9 @@ El decreto fue firmado por el Dr. Jorge López González (responsable general) y
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Decreto de convocación de la primera sesión de la Asamblea de los Laic |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Decreto de convocación de la primera sesión de la Asamblea de los Laic |
 
 
 ## Secciones incluidas

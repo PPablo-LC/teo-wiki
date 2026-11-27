@@ -23,6 +23,6 @@ Este archivo contiene únicamente la primera parte del encabezado del Capítulo 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Adorno de la capilla, |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Adorno de la capilla, |

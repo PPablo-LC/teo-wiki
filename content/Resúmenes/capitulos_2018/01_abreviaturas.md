@@ -20,7 +20,7 @@ Portada de la publicación: «Derechos Reservados © Legionarios de Cristo, 2021
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1-3 | P | Portada y derechos de autor |
-| 5 | H1 | Abreviaturas |
+| Nivel | Sección |
+|-------|---------|
+| P | Portada y derechos de autor |
+| H1 | Abreviaturas |

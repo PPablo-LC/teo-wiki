@@ -22,6 +22,6 @@ Este archivo contiene únicamente el encabezado que continúa el título del Cap
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | La Celebración |
+| Nivel | Sección |
+|-------|---------|
+| H1 | La Celebración |

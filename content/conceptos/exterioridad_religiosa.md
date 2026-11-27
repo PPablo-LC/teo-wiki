@@ -48,5 +48,5 @@ Se opone a [[religión_viva]] y [[misericordia]]; se vincula con [[fariseísmo]]
 
 ## Referencias
 
-- CyF, `03_i_cristo_y_los_fariseos.md` L3-53; `04_ii_el_dulce_nazareno.md` L49-65; `08_vi_la_defensa.md` L148-290; `14_xii_la_carcel_de_oscar_wilde.md`.
+- CyF, `03_i_cristo_y_los_fariseos.md`; `04_ii_el_dulce_nazareno.md`; `08_vi_la_defensa.md`; `14_xii_la_carcel_de_oscar_wilde.md`.
 - CEC 1069-1073, 1100, 1172-1173, 2116-2117; Mt 6,5-6; Jn 4,23-24.

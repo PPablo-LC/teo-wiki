@@ -29,9 +29,9 @@ El archivo añade el número 33 de las *Constituciones*: los principios formativ
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Parte II |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Parte II |
 
 ## Secciones incluidas
 

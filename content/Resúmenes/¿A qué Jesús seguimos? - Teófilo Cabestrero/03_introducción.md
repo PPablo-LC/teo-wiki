@@ -29,6 +29,6 @@ De ahí que la pregunta de Jesús siga vigente para todos los bautizados. No rep
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | INTRODUCCIÓN |
+| Nivel | Sección |
+|-------|---------|
+| H1 | INTRODUCCIÓN |

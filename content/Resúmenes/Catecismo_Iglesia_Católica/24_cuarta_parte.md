@@ -392,37 +392,37 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CUARTA PARTE |
-| 3 | H2 | PRIMERA SECCIÓN |
-| 4 | H4 | LA ORACIÓN EN LA VIDA CRISTIANA |
-| 6 | H2 | SEGUNDA SECCIÓN |
-| 8 | H4 | LA ORACIÓN DEL SEÑOR: "PADRE NUESTRO" |
-| 32 | H4 | ARTÍCULO 1 |
-| 34 | H4 | RESUMEN DE TODO EL EVANGELIO |
-| 38 | H5 | I. Corazón de las Sagradas Escrituras |
-| 50 | H5 | II. "La oración del Señor" |
-| 56 | H5 | III. Oración de la Iglesia |
-| 74 | H5 | Resumen |
-| 84 | H4 | ARTÍCULO 2 |
-| 86 | H4 | "PADRE NUESTRO QUE ESTÁS EN EL CIELO" |
-| 88 | H5 | I. Acercarse a Él con toda confianza |
-| 96 | H5 | II. "¡Padre!" |
-| 132 | H5 | III. Padre "nuestro" |
-| 150 | H5 | IV. "Que estás en el cielo" |
-| 164 | H5 | Resumen |
-| 178 | H4 | ARTÍCULO 3 |
-| 180 | H4 | LAS SIETE PETICIONES |
-| 190 | H5 | I. «Santificado sea tu nombre» |
-| 216 | H5 | II. Venga a nosotros tu Reino |
-| 236 | H5 | III. «Hágase tu voluntad en la tierra como en el cielo» |
-| 256 | H5 | IV. «Danos hoy nuestro pan de cada día» |
-| 286 | H5 | V. «Perdona nuestras ofensas como también nosotros perdonamos a los que nos ofenden» |
-| 290 | H5 | «Perdona nuestras ofensas»… |
-| 298 | H5 | …«como también nosotros perdonamos a los que nos ofenden» |
-| 310 | H5 | VI. «No nos dejes caer en la tentación» |
-| 322 | H5 | VII. «Y Líbranos del mal» |
-| 338 | H5 | La doxología final |
-| 344 | H5 | Resumen |
-| 367 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CUARTA PARTE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA ORACIÓN EN LA VIDA CRISTIANA |
+| H2 | SEGUNDA SECCIÓN |
+| H4 | LA ORACIÓN DEL SEÑOR: "PADRE NUESTRO" |
+| H4 | ARTÍCULO 1 |
+| H4 | RESUMEN DE TODO EL EVANGELIO |
+| H5 | I. Corazón de las Sagradas Escrituras |
+| H5 | II. "La oración del Señor" |
+| H5 | III. Oración de la Iglesia |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | "PADRE NUESTRO QUE ESTÁS EN EL CIELO" |
+| H5 | I. Acercarse a Él con toda confianza |
+| H5 | II. "¡Padre!" |
+| H5 | III. Padre "nuestro" |
+| H5 | IV. "Que estás en el cielo" |
+| H5 | Resumen |
+| H4 | ARTÍCULO 3 |
+| H4 | LAS SIETE PETICIONES |
+| H5 | I. «Santificado sea tu nombre» |
+| H5 | II. Venga a nosotros tu Reino |
+| H5 | III. «Hágase tu voluntad en la tierra como en el cielo» |
+| H5 | IV. «Danos hoy nuestro pan de cada día» |
+| H5 | V. «Perdona nuestras ofensas como también nosotros perdonamos a los que nos ofenden» |
+| H5 | «Perdona nuestras ofensas»… |
+| H5 | …«como también nosotros perdonamos a los que nos ofenden» |
+| H5 | VI. «No nos dejes caer en la tentación» |
+| H5 | VII. «Y Líbranos del mal» |
+| H5 | La doxología final |
+| H5 | Resumen |
+| H3 | Referencias |

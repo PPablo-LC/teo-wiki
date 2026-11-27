@@ -38,8 +38,8 @@ tags: ["resumen", "guia liturgia-2024"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Adoración al Santísimo Sacramento |
-| 3 | H3 | Exposición prolongada a lo largo del día |
-| 13 | H3 | Exposición breve con adoración comunitaria |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Adoración al Santísimo Sacramento |
+| H3 | Exposición prolongada a lo largo del día |
+| H3 | Exposición breve con adoración comunitaria |

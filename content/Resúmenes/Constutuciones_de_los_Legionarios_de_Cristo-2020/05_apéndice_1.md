@@ -25,9 +25,9 @@ El archivo fuente contiene únicamente el encabezado «Apéndice 1». El cuerpo 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Apéndice 1 |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Apéndice 1 |
 
 ## Secciones incluidas
 

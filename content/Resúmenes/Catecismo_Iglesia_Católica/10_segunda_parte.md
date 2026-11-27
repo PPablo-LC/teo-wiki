@@ -143,37 +143,37 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SEGUNDA PARTE |
-| 3 | H2 | PRIMERA SECCIÓN |
-| 4 | H4 | LA ECONOMÍA SACRAMENTAL |
-| 6 | H3 | CAPÍTULO SEGUNDO |
-| 8 | H4 | LA CELEBRACIÓN SACRAMENTAL DEL MISTERIO PASCUAL |
-| 20 | H4 | ARTÍCULO 1 |
-| 22 | H4 | CELEBRAR LA LITURGIA DE LA IGLESIA |
-| 24 | H5 | I. ¿Quién celebra? |
-| 28 | H5 | Los celebrantes de la liturgia celestial |
-| 36 | H5 | Los celebrantes de la liturgia sacramental |
-| 50 | H5 | II. ¿Cómo celebrar? |
-| 52 | H5 | Signos y símbolos |
-| 70 | H5 | Palabras y acciones |
-| 78 | H5 | Canto y música |
-| 88 | H5 | Imágenes sagradas |
-| 104 | H5 | III. ¿Cuándo celebrar? |
-| 106 | H5 | El tiempo litúrgico |
-| 116 | H5 | El día del Señor |
-| 126 | H5 | El año litúrgico |
-| 136 | H5 | El santoral en el año litúrgico |
-| 142 | H5 | La Liturgia de las Horas |
-| 154 | H5 | IV. ¿Dónde celebrar? |
-| 180 | H5 | Resumen |
-| 208 | H4 | ARTÍCULO 2 |
-| 210 | H4 | DIVERSIDAD LITÚRGICA Y UNIDAD DEL MISTERIO |
-| 212 | H5 | Tradiciones litúrgicas y catolicidad de la Iglesia |
-| 222 | H5 | Liturgia y culturas |
-| 230 | H5 | Resumen |
-| 238 | H1 | SEGUNDA PARTE |
-| 240 | H2 | SEGUNDA SECCIÓN |
-| 242 | H4 | LOS SIETE SACRAMENTOS DE LA IGLESIA |
-| 251 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | SEGUNDA PARTE |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA ECONOMÍA SACRAMENTAL |
+| H3 | CAPÍTULO SEGUNDO |
+| H4 | LA CELEBRACIÓN SACRAMENTAL DEL MISTERIO PASCUAL |
+| H4 | ARTÍCULO 1 |
+| H4 | CELEBRAR LA LITURGIA DE LA IGLESIA |
+| H5 | I. ¿Quién celebra? |
+| H5 | Los celebrantes de la liturgia celestial |
+| H5 | Los celebrantes de la liturgia sacramental |
+| H5 | II. ¿Cómo celebrar? |
+| H5 | Signos y símbolos |
+| H5 | Palabras y acciones |
+| H5 | Canto y música |
+| H5 | Imágenes sagradas |
+| H5 | III. ¿Cuándo celebrar? |
+| H5 | El tiempo litúrgico |
+| H5 | El día del Señor |
+| H5 | El año litúrgico |
+| H5 | El santoral en el año litúrgico |
+| H5 | La Liturgia de las Horas |
+| H5 | IV. ¿Dónde celebrar? |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | DIVERSIDAD LITÚRGICA Y UNIDAD DEL MISTERIO |
+| H5 | Tradiciones litúrgicas y catolicidad de la Iglesia |
+| H5 | Liturgia y culturas |
+| H5 | Resumen |
+| H1 | SEGUNDA PARTE |
+| H2 | SEGUNDA SECCIÓN |
+| H4 | LOS SIETE SACRAMENTOS DE LA IGLESIA |
+| H3 | Referencias |

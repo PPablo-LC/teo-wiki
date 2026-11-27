@@ -21,6 +21,6 @@ Este archivo contiene únicamente el encabezado que abre el Capítulo IV de la G
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Capítulo IV |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Capítulo IV |

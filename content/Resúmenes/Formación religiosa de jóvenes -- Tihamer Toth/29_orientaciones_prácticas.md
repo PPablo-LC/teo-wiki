@@ -24,6 +24,6 @@ Este capítulo, titulado «Orientaciones prácticas», recoge las indicaciones p
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ORIENTACIONES PRÁCTICAS |
+| Nivel | Sección |
+|-------|---------|
+| H1 | ORIENTACIONES PRÁCTICAS |

@@ -108,26 +108,26 @@ Las cuatro secciones que cierran la fuente canónica de este capítulo —*Physi
 
 ## Mapa del archivo fuente
 
-| Archivo | Línea | Nivel | Sección |
-|---------|-------|-------|---------|
-| `06_capitulo_v.md` | 1 | H1 | Chapter V — Battling the Seven-Headed Dragon |
-| `06_capitulo_v.md` | 3 | — | Apertura: el voto del joven (*Malo mori quam foedari*) |
-| `06_capitulo_v.md` | 13 | H2 | There is a Comeback |
-| `06_capitulo_v.md` | 29 | H2 | For the Future of your Country |
-| `06_capitulo_v.md` | 53 | H2 | The Lily—Youth's Emblem |
-| `06_capitulo_v.md` | 79 | H2 | For the Happiness of your Soul |
-| `06_capitulo_v.md` | 91 | H2 | A Lifelong Combat |
-| `06_capitulo_v.md` | 111 | H2 | Resist |
-| `06_capitulo_v.md` | 127 | H2 | Who is the Coward? |
-| `06_capitulo_v.md` | 143 | H2 | Break with Them |
-| `06_capitulo_v.md` | 179 | H2 | "Why, it Won't Do Me Any Harm." |
-| `06_capitulo_v.md` | 189 | H2 | Avoid Sin (The Only Preventive) |
-| `06_capitulo_v.md` | 207 | H2 | Against the Current |
-| `06_capitulo_v.md` | 217 | H2 | In the Barrage of Derision |
-| `06_capitulo_v.md` | 227 | H2 | No, it is Not True! |
-| `06_capitulo_v.md` | 235 | H2 | Do Not Play with Fire |
-| `06_capitulo_v.md` | 255 | H2 | Make the Most of Youth |
-| `06_capitulo_v.md` | 265 | H2 | Purity and Health |
-| `06_capitulo_v.md` | 277 | H2 | Medical Science Speaks |
-| `06_capitulo_v.md` | 313 | H2 | God and Nature |
-| `06_capitulo_v.md` | 343 | H2 | Oc 4 (residuo de OCR, sin contenido) |
+| Archivo | Nivel | Sección |
+|---------|-------|---------|
+| `06_capitulo_v.md` | H1 | Chapter V — Battling the Seven-Headed Dragon |
+| `06_capitulo_v.md` | — | Apertura: el voto del joven (*Malo mori quam foedari*) |
+| `06_capitulo_v.md` | H2 | There is a Comeback |
+| `06_capitulo_v.md` | H2 | For the Future of your Country |
+| `06_capitulo_v.md` | H2 | The Lily—Youth's Emblem |
+| `06_capitulo_v.md` | H2 | For the Happiness of your Soul |
+| `06_capitulo_v.md` | H2 | A Lifelong Combat |
+| `06_capitulo_v.md` | H2 | Resist |
+| `06_capitulo_v.md` | H2 | Who is the Coward? |
+| `06_capitulo_v.md` | H2 | Break with Them |
+| `06_capitulo_v.md` | H2 | "Why, it Won't Do Me Any Harm." |
+| `06_capitulo_v.md` | H2 | Avoid Sin (The Only Preventive) |
+| `06_capitulo_v.md` | H2 | Against the Current |
+| `06_capitulo_v.md` | H2 | In the Barrage of Derision |
+| `06_capitulo_v.md` | H2 | No, it is Not True! |
+| `06_capitulo_v.md` | H2 | Do Not Play with Fire |
+| `06_capitulo_v.md` | H2 | Make the Most of Youth |
+| `06_capitulo_v.md` | H2 | Purity and Health |
+| `06_capitulo_v.md` | H2 | Medical Science Speaks |
+| `06_capitulo_v.md` | H2 | God and Nature |
+| `06_capitulo_v.md` | H2 | Oc 4 (residuo de OCR, sin contenido) |

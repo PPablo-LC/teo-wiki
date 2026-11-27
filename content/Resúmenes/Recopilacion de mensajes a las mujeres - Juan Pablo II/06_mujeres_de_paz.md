@@ -33,8 +33,8 @@ Otro problema serio es la discriminación de niñas desde los primeros años. Si
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Mujeres de paz |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Mujeres de paz |
 
 ## Secciones incluidas

@@ -77,7 +77,7 @@ Su fuente es la vida espiritual: «para el alma que ama a Dios y tiene su concie
 
 ### Attraverso la compagnia dei credenti (TACDC)
 
-Giussani presenta la *letizia* como «un lascito di Gesù»: «Vi ho detto tutto quello che vi ho detto perché la mía gioia sia in voi e la vostra gioia sia piena» (Gv 15,11), palabras pronunciadas «poche ore prima d'essere fatto prigioniero e ammazzato». La letizia, afirma, «può esser data solo da una chiarezza, da qualcosa che al cuore appare chiaro, cui il cuore può accedere con umiltà, riconoscendo i propri limiti»; su fuente es «questa compagnia, che da Cristo proviene», en la que se realiza «un'opera che eccede le mani che la fanno, le mani umane che la compiono» (TACDC, 04, L33).
+Giussani presenta la *letizia* como «un lascito di Gesù»: «Vi ho detto tutto quello che vi ho detto perché la mía gioia sia in voi e la vostra gioia sia piena» (Gv 15,11), palabras pronunciadas «poche ore prima d'essere fatto prigioniero e ammazzato». La letizia, afirma, «può esser data solo da una chiarezza, da qualcosa che al cuore appare chiaro, cui il cuore può accedere con umiltà, riconoscendo i propri limiti»; su fuente es «questa compagnia, che da Cristo proviene», en la que se realiza «un'opera che eccede le mani che la fanno, le mani umane che la compiono» (TACDC, 04).
 
 ### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
 

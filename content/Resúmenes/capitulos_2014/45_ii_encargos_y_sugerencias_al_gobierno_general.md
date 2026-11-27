@@ -72,6 +72,6 @@ Sección II del comunicado sobre gobierno, autoridad y obediencia (nn. 25-40), q
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | II. Encargos y sugerencias al gobierno general |
+| Nivel | Sección |
+|-------|---------|
+| H2 | II. Encargos y sugerencias al gobierno general |

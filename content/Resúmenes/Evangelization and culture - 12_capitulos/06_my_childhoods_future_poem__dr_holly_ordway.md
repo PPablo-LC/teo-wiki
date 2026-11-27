@@ -37,4 +37,4 @@ El poema condena la **pretensión tecnocrática** (tecnomancia) de sustituir el 
 
 ## Referencia original
 
-📄 Fuente original: `06_poetry_ordway.md` (línea 1–11)
+📄 Fuente original: `06_poetry_ordway.md`

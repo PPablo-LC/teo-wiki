@@ -32,6 +32,6 @@ Diferencias entre las tradiciones: Marcos-Mateo dicen escueto «Esto es mi cuerp
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 3. LA TEOLOGÍA DE LAS PALABRAS DE LA INSTITUCIÓN |
+| Nivel | Sección |
+|-------|---------|
+| H1 | 3. LA TEOLOGÍA DE LAS PALABRAS DE LA INSTITUCIÓN |

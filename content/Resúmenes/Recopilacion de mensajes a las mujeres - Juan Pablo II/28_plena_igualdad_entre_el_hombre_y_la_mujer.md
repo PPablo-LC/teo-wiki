@@ -37,8 +37,8 @@ La grandeza de la dignidad de la mujer se intuye por el hecho de que el Hijo ete
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Plena igualdad entre el hombre y la mujer |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Plena igualdad entre el hombre y la mujer |
 
 ## Secciones incluidas

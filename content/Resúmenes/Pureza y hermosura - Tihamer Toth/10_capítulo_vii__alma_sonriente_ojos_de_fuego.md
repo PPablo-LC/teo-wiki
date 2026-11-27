@@ -58,18 +58,18 @@ Rezar cada mañana, al levantarse, tres Avemarías a la Santísima Virgen, segui
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO VII — ALMA SONRIENTE, OJOS DE FUEGO |
-| 11 | H3 | I.—El mayor triunfo |
-| 37 | H3 | II.—¡Oh, cuán bella es la generación casta! |
-| 73 | H3 | III.—¡Sin cadenas! |
-| 102 | H3 | IV.—Voluntad, fuerza, victoria |
-| 118 | H3 | V.—«¡Despierta!» |
-| 164 | H3 | VI.—¿Será así, verdad? |
-| 214 | H3 | VII.—Nueva generación |
-| 230 | H3 | VIII.—Voluntad santa |
-| 256 | H3 | IX.—Un último consejo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CAPÍTULO VII — ALMA SONRIENTE, OJOS DE FUEGO |
+| H3 | I.—El mayor triunfo |
+| H3 | II.—¡Oh, cuán bella es la generación casta! |
+| H3 | III.—¡Sin cadenas! |
+| H3 | IV.—Voluntad, fuerza, victoria |
+| H3 | V.—«¡Despierta!» |
+| H3 | VI.—¿Será así, verdad? |
+| H3 | VII.—Nueva generación |
+| H3 | VIII.—Voluntad santa |
+| H3 | IX.—Un último consejo |
 
 ## Secciones incluidas
 

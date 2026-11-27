@@ -55,7 +55,7 @@ silencio hasta que la Presencia se revela.
 ## Referencias
 
 - **Fuente**: [[attraverso_la_compagnia_dei_credenti]] (TACDC), archivo
-  `03_si_può_vivere_così_1995.md` (líneas 213-217, 237, 293).
+  `03_si_può_vivere_così_1995.md`.
 - **Obra citada**: G. Pascoli, «Il cieco», en *Poesie*, Garzanti, Milano,
   1931, pp. 333-337.
 - **Índice de la fuente**:

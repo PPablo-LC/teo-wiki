@@ -206,30 +206,30 @@ tags: ["resumen", "catecismo iglesia católica"]
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CUARTA PARTE |
-| 2 | H4 | LA ORACIÓN CRISTIANA |
-| 4 | H2 | PRIMERA SECCIÓN |
-| 5 | H4 | LA ORACIÓN EN LA VIDA CRISTIANA |
-| 7 | H3 | CAPÍTULO SEGUNDO |
-| 9 | H4 | LA TRADICIÓN DE LA ORACIÓN |
-| 15 | H4 | ARTÍCULO 1 |
-| 17 | H4 | LAS FUENTES DE LA ORACIÓN |
-| 21 | H5 | La Palabra de Dios |
-| 27 | H5 | La Liturgia de la Iglesia |
-| 31 | H5 | Las virtudes teologales |
-| 47 | H5 | Resumen |
-| 53 | H4 | ARTÍCULO 2 |
-| 55 | H4 | EL CAMINO DE LA ORACIÓN |
-| 59 | H5 | La oración al Padre |
-| 63 | H5 | La oración a Jesús |
-| 89 | H5 | En comunión con la santa Madre de Dios |
-| 113 | H5 | Resumen |
-| 121 | H4 | ARTÍCULO 3 |
-| 123 | H4 | MAESTROS Y LUGARES DE ORACIÓN |
-| 125 | H5 | Una pléyade de testigos |
-| 133 | H5 | Servidores de la oración |
-| 149 | H5 | Lugares favorables para la oración |
-| 159 | H5 | Resumen |
-| 174 | H3 | Referencias |
+| Nivel | Sección |
+|-------|---------|
+| H1 | CUARTA PARTE |
+| H4 | LA ORACIÓN CRISTIANA |
+| H2 | PRIMERA SECCIÓN |
+| H4 | LA ORACIÓN EN LA VIDA CRISTIANA |
+| H3 | CAPÍTULO SEGUNDO |
+| H4 | LA TRADICIÓN DE LA ORACIÓN |
+| H4 | ARTÍCULO 1 |
+| H4 | LAS FUENTES DE LA ORACIÓN |
+| H5 | La Palabra de Dios |
+| H5 | La Liturgia de la Iglesia |
+| H5 | Las virtudes teologales |
+| H5 | Resumen |
+| H4 | ARTÍCULO 2 |
+| H4 | EL CAMINO DE LA ORACIÓN |
+| H5 | La oración al Padre |
+| H5 | La oración a Jesús |
+| H5 | En comunión con la santa Madre de Dios |
+| H5 | Resumen |
+| H4 | ARTÍCULO 3 |
+| H4 | MAESTROS Y LUGARES DE ORACIÓN |
+| H5 | Una pléyade de testigos |
+| H5 | Servidores de la oración |
+| H5 | Lugares favorables para la oración |
+| H5 | Resumen |
+| H3 | Referencias |

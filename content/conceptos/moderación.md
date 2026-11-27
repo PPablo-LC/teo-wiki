@@ -19,11 +19,11 @@ En su aplicación concreta al deporte y a la pasión del juego, la moderación e
 
 ## Desarrollo doctrinal
 
-Conforme a [[santo_tomás_de_aquino]] (Summa Theologiae 2-2.168.3), "puede haber exceso en el juego por falta de las circunstancias debidas, por ejemplo cuando la gente se divierte en tiempos o lugares indebidos". Eso "puede ser a veces pecado mortal, por el fuerte apego al juego, cuando el hombre prefiere el placer que de él deriva al amor de Dios, hasta estar dispuesto a desobedecer un mandamiento de Dios o de la Iglesia antes que renunciar a tales diversiones". Ejemplo concreto: faltar a la Misa dominical porque choca con la agenda deportiva. [EAC-20, 18_feature_declue, L27-33]
+Conforme a [[santo_tomás_de_aquino]] (Summa Theologiae 2-2.168.3), "puede haber exceso en el juego por falta de las circunstancias debidas, por ejemplo cuando la gente se divierte en tiempos o lugares indebidos". Eso "puede ser a veces pecado mortal, por el fuerte apego al juego, cuando el hombre prefiere el placer que de él deriva al amor de Dios, hasta estar dispuesto a desobedecer un mandamiento de Dios o de la Iglesia antes que renunciar a tales diversiones". Ejemplo concreto: faltar a la Misa dominical porque choca con la agenda deportiva. [EAC-20, 18_feature_declue]
 
 Santo Tomás insiste en que el juego —regulado por la [[eutrapelia]]— debe practicarse en las circunstancias debidas: tiempo, lugar, persona y decoro. La idea clave es que la moderación no es austeridad ascética que rechaza el placer, sino la capacidad de gozar de los bienes de forma ordenada.
 
-Por ello "los deportes deben practicarse en tiempos propios, con la debida moderación y el comportamiento apropiado". Hecho así, el deporte puede desarrollar una fuerte ética del trabajo, la cooperación para fines comunes y la salud física, mental y espiritual, y ser parte de una vida virtuosa y santa. [EAC-20, 18_feature_declue, L53-61]
+Por ello "los deportes deben practicarse en tiempos propios, con la debida moderación y el comportamiento apropiado". Hecho así, el deporte puede desarrollar una fuerte ética del trabajo, la cooperación para fines comunes y la salud física, mental y espiritual, y ser parte de una vida virtuosa y santa. [EAC-20, 18_feature_declue]
 
 La dimensión dominical de esta virtud la recoge el Catecismo al tratar del descanso: cuando las costumbres —menciona expresamente los deportes— o los compromisos sociales exigen de algunos un trabajo en domingo, «cada uno tiene la responsabilidad de dedicar un tiempo suficiente al descanso» y los fieles «cuidarán con moderación y caridad evitar los excesos y las violencias engendrados a veces por espectáculos multitudinarios» (CEC §2187). El Dicasterio para los Laicos, la Familia y la Vida recuerda, en la misma línea, que los católicos laicos ya jugaban en fiestas y domingos en la época medieval: el deporte no reemplaza sino complementa el tiempo de oración y culto.
 
@@ -37,13 +37,13 @@ Sobre el descanso dominical, el Catecismo ordena que durante el domingo y las fi
 
 ### Según Evangelization & Culture (EAC-20)
 
-**Exceso que vuelve ídolo** (Dr. Richard DeClue): si un cónyuge o padre gasta una cantidad exorbitante de tiempo y energía en los deportes, jugando o mirando, puede estar fallando en los deberes de su vocación; "obsesionarse con el deporte podría convertirse en un ídolo"; si afecta negativamente las relaciones, hay que reevaluar el papel que se le ha dado al deporte en la propia vida. [EAC-20, 18_feature_declue, L39-45]
+**Exceso que vuelve ídolo** (Dr. Richard DeClue): si un cónyuge o padre gasta una cantidad exorbitante de tiempo y energía en los deportes, jugando o mirando, puede estar fallando en los deberes de su vocación; "obsesionarse con el deporte podría convertirse en un ídolo"; si afecta negativamente las relaciones, hay que reevaluar el papel que se le ha dado al deporte en la propia vida. [EAC-20, 18_feature_declue]
 
 **El deporte en domingo y fiestas:** en la época medieval los católicos laicos jugaban en fiestas y domingos; el deporte no reemplaza sino complementa el tiempo de oración y culto. [EAC-20, 18_feature_declue]
 
-**Aficionados desmedidos** (Mark Bradford): la pasión desbocada de los aficionados de Filadelfia —ciudad donde se engrasan los postes de luz para que no suban, se comió estiércol de caballo, se voltearon coches y se quemaron arbustos tras el primer Super Bowl— ha contaminado la pureza de la competición sana. Bradford se inclina al ideal aristotélico del equilibrio en todas las cosas: "demasiado deporte sin las artes liberales y obtienes salvajes". [EAC-20, 19_feature_bradford, L3-9]
+**Aficionados desmedidos** (Mark Bradford): la pasión desbocada de los aficionados de Filadelfia —ciudad donde se engrasan los postes de luz para que no suban, se comió estiércol de caballo, se voltearon coches y se quemaron arbustos tras el primer Super Bowl— ha contaminado la pureza de la competición sana. Bradford se inclina al ideal aristotélico del equilibrio en todas las cosas: "demasiado deporte sin las artes liberales y obtienes salvajes". [EAC-20, 19_feature_bradford]
 
-**Pasión vs. desproporción en el coaching** (Amy Hohenecker): la actitud de que "ganar lo es todo" tiene un costo. La autora conoce entrenadores que han llevado a sus atletas hasta el agotamiento para ganar un título —atletas lesionados por sobreuso— y entrenadores que gritan y degradan a los jóvenes por sus errores —atletas con problemas de salud mental que dudan de sí mismos—. Ella misma es ferozmente competitiva, pero ofrece la virtud de la proporción: mostrar cómo ser exitoso con trabajo duro, crítica constructiva, comprensión y paciencia, sabiendo cada atleta que es amado y cuidado. [EAC-20, 24_peripheries, L27-35]
+**Pasión vs. desproporción en el coaching** (Amy Hohenecker): la actitud de que "ganar lo es todo" tiene un costo. La autora conoce entrenadores que han llevado a sus atletas hasta el agotamiento para ganar un título —atletas lesionados por sobreuso— y entrenadores que gritan y degradan a los jóvenes por sus errores —atletas con problemas de salud mental que dudan de sí mismos—. Ella misma es ferozmente competitiva, pero ofrece la virtud de la proporción: mostrar cómo ser exitoso con trabajo duro, crítica constructiva, comprensión y paciencia, sabiendo cada atleta que es amado y cuidado. [EAC-20, 24_peripheries]
 
 **El deporte como parte de la vida, no toda la vida** (Michael Adams): «El deporte consumía el 90 por ciento de mi vida, ya sea que estuviera jugando, mirando o hablando de ellos.» La moderación consiste en mantener el equilibrio: «Mis padres aseguraron que asistiera a Misa y Adoración regularmente, incluso cuando viajábamos; que mis calificaciones se mantuvieran altas; y que me uniera a clubes fuera de los deportes.» El desequilibrio surge cuando la identidad se construye sobre la excelencia atlética. [EAC-20, 10_spotlight_adams]
 
@@ -54,7 +54,7 @@ Sobre el descanso dominical, el Catecismo ordena que durante el domingo y las fi
 - **Moderación en el deporte vs. indiferencia**: la primera ama el deporte y lo ordena; la segunda no se involucra.
 - **Pasión sana vs. pasión desordenada**: querer ganar y competir con intensidad no es falta de moderación; la desproporción es exigir la victoria "a toda costa" y degradar a la persona.
 - **Virtud del juego vs. exceso en el juego**: el juego en sí ([[eutrapelia]]) es virtuoso y necesario para el descanso del alma; el exceso —por tiempo, lugar o apego desmedido— es vicio y puede llegar a ser [[pecado_mortal]].
-- **Complementar, no reemplazar**: en domingo y fiestas el deporte no reemplaza sino complementa el tiempo destinado a la oración y el culto. [EAC-20, 18_feature_declue, L33-39]
+- **Complementar, no reemplazar**: en domingo y fiestas el deporte no reemplaza sino complementa el tiempo destinado a la oración y el culto. [EAC-20, 18_feature_declue]
 
 ## Relaciones doctrinales
 
@@ -67,7 +67,7 @@ La moderación es propia de la [[templanza]] y del justo medio de la [[virtud]] 
 ## Referencias
 
 - CEC §1809, §2184-2188
-- [EAC-20, 18_feature_declue, L27-61]
-- [EAC-20, 19_feature_bradford, L3-9]
-- [EAC-20, 24_peripheries, L27-35]
+- [EAC-20, 18_feature_declue]
+- [EAC-20, 19_feature_bradford]
+- [EAC-20, 24_peripheries]
 - [EAC-20, 10_spotlight_adams — Adams: equilibrio entre deporte y fe]

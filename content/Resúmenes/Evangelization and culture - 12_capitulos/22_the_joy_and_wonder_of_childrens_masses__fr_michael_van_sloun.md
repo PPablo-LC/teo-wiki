@@ -59,4 +59,4 @@ El P. Michael Van Sloun (Archidiócesis St. Paul-Minneapolis, pastor St. Barthol
 
 ## Referencia original
 
-📄 Fuente original: `22_soul.md` (línea 1–43)
+📄 Fuente original: `22_soul.md`

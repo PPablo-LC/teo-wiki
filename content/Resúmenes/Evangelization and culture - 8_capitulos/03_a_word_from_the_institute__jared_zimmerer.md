@@ -27,9 +27,9 @@ Novedades del Institute: dos cursos nuevos — *Understanding the “Nones” an
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | A Word from the Institute — Jared Zimmerer |
+| Nivel | Sección |
+|-------|---------|
+| H1 | A Word from the Institute — Jared Zimmerer |
 
 ## Secciones incluidas
 

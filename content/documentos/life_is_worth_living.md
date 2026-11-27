@@ -22,7 +22,7 @@ la fuente en el wiki: **LIWL**; 49 archivos, 2.906 líneas.
 La fuente recoge **dos series completas** (29 y 23 capítulos, más portadas y
 prefacios). Los prefacios explican el método: media hora semanal de palabra
 hablada, sin notas, y la convicción de que «the public has deeper yearnings
-for Truth and Goodness than is generally suspected» (26_preface, L7).
+for Truth and Goodness than is generally suspected» (26_preface).
 
 ## Tesis
 
@@ -32,7 +32,7 @@ difusa, el aburrimiento en el trabajo, la crisis de la educación, la
 «liberación» del sexo— son variantes de un mismo extravío: **querer meter
 el infinito en lo finito**. De ahí la frase que abre el volumen: «Life is
 monotonous if it is meaningless; it is not monotonous if it has a purpose»
-(03_life_is_worth_living, L3).
+(03_life_is_worth_living).
 
 El método es constante: partir de un hecho contemporáneo (la bomba atómica,
 el psicoanálisis, la fatiga, el «complejo de inferioridad», Fátima, la

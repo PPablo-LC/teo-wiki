@@ -134,11 +134,11 @@ Se vincula con el [[seguimiento_de_cristo]], el [[discipulado]], la [[perfecció
 - [CJeS (Cristología — Catequesis de Juan Pablo II, 1987-1989), segunda parte]
 - [Tomás de Kempis, *La imitación de Cristo*, Libro I, caps. 1-2; Libro II, caps. 2-4.7-8.11-12; Libro III, caps. 1-3.12-13.18-19; Libro IV, caps. 1.8-9.11]
 - **Fuente Giussani**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `01_introduzione_di_julian_carron.md` (líneas 17-21),
-  `02_alle_famiglie_per_l_accoglienza.md` (línea 3),
-  `03_la_ragione_della_carita.md` (líneas 59-69),
-  `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md` (línea 21),
-  `07_l_abbraccio_del_diverso.md` (línea 7) y
-  `08_l_imitazione_di_cristo.md` (líneas 7-9, 91-93).
+  `01_introduzione_di_julian_carron.md`,
+  `02_alle_famiglie_per_l_accoglienza.md`,
+  `03_la_ragione_della_carita.md`,
+  `06_non_da_carne_ne_da_sangue_ma_da_dio_siamo_nati.md`,
+  `07_l_abbraccio_del_diverso.md` y
+  `08_l_imitazione_di_cristo.md`.
 - **Índice de la fuente Giussani**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

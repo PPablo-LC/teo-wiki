@@ -52,9 +52,9 @@ La Asamblea General extraordinaria tendrá un segundo momento previsto para fina
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Comunicado de prensa de la Asamblea General extraordinaria de los Laic |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Comunicado de prensa de la Asamblea General extraordinaria de los Laic |
 
 
 ## Secciones incluidas

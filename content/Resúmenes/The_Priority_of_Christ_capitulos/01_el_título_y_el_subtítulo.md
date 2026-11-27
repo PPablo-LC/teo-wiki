@@ -18,10 +18,11 @@ tags: ["resumen", "cristología", "prioridad_de_cristo", "teología"]
 
 ## Los datos de la portada
 
-El volumen se intitula *The Priority of Christ* y lleva por subtítulo *Toward a Postliberal Catholicism*. El autor es Robert Barron (L1, L3, L5). El subtítulo anuncia ya la tesis rectora: no se trata de una síntesis sistemática cerrada, sino de un movimiento «hacia» una forma de catolicismo que se sitúa más allá del liberalismo teológico moderno.
+El volumen se intitula *The Priority of Christ* y lleva por subtítulo *Toward a Postliberal Catholicism*. El autor es Robert Barron. El subtítulo anuncia ya la tesis rectora: no se trata de una síntesis sistemática cerrada, sino de un movimiento «hacia» una forma de catolicismo que se sitúa más allá del liberalismo teológico moderno.
 
 ## Fuente original
 
 - Raw: `raw/Bases_doctrinales-raw/The_Priority_of_Christ_capitulos/00_preliminares.md`
-- Líneas: L1-5
-- Citas verificadas: «The Priority of Christ» (L1); «Toward a Postliberal Catholicism» (L3); «Robert Barron» (L5).
+- Citas verificadas en el capítulo:
+  - «The Priority of Christ»; «Toward a Postliberal Catholicism»; «Robert Barron».
+

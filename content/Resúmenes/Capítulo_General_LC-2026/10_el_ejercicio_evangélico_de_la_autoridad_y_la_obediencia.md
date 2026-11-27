@@ -196,241 +196,241 @@ Con María, la Madre Dolorosa, siempre fiel, que permanece de pie junto a la Cru
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | El ejercicio evangélico de la autoridad y la obediencia |
-| 3 | H2 | I. Introducción |
-| 20 | H3 | Invitamos a cada legionario a acoger este Comunicado como una |
-| 23 | H2 | II. Jesucristo, modelo de autoridad y obediencia |
-| 26 | H3 | La obediencia de Cristo: filial, libre y redentora |
-| 31 | H3 | La autoridad de Cristo: servicio, firmeza y confianza |
-| 36 | H3 | La síntesis en Cristo |
-| 39 | H2 | III. La obediencia religiosa |
-| 40 | H3 | La obediencia en las Constituciones |
-| 43 | H3 | La obediencia filial: activa, libre y madura |
-| 46 | H3 | El discernimiento personal y la obediencia |
-| 53 | H2 | IV. La autoridad del superior |
-| 54 | H3 | Retos en el ejercicio de la autoridad |
-| 57 | H3 | El superior: maestro, padre y testigo |
-| 60 | H3 | El ejercicio cotidiano de la autoridad |
-| 63 | H3 | Firme en lo esencial, flexible en lo accidental |
-| 69 | H2 | V. El discernimiento comunitario |
-| 70 | H3 | Importancia |
-| 75 | H3 | Lo que el discernimiento no es |
-| 78 | H3 | Del discernimiento a la decisión |
-| 84 | H2 | VI. Algunas orientaciones prácticas |
-| 87 | H3 | El superior como hermano y animador de la comunión |
-| 91 | H3 | El proyecto comunitario |
-| 95 | H3 | Sentido de familia y apoyo a la misión |
-| 101 | H3 | El religioso en la vivencia de la obediencia |
-| 104 | H3 | Algunos campos de especial relevancia |
-| 107 | H2 | VII. Límites de la autoridad y la obediencia |
-| 110 | H3 | El mal uso de la autoridad |
-| 113 | H3 | Marco normativo y dispensas |
-| 123 | H3 | El abuso de autoridad |
-| 126 | H3 | Cf. CLC, 236 § 2. |
-| 129 | H3 | G. Ghirlanda, S.J., Servicio de la autoridad y la obediencia en la vida religiosa, en |
-| 132 | H3 | Antología de Textos del Delegado Pontificio y sus Consejeros para la Congregación de los |
-| 142 | H2 | VIII. Recomendaciones al gobierno entrante |
-| 152 | H2 | IX. Conclusión |
-| 153 | H3 | La obediencia, ejercicio de libertad filial |
-| 156 | H3 | Agradecimiento e invitación |
-| 159 | H3 | Un camino permanente |
-| 162 | H2 | I. Introducción |
-| 165 | H2 | II. La alegría de la llamada |
-| 166 | H3 | Ímpetu vivo de amor |
-| 170 | H3 | Un desafío abierto a la esperanza |
-| 175 | H3 | Dios sigue llamando |
-| 178 | H3 | Salto de calidad |
-| 182 | H2 | III. Una respuesta articulada al desafío vocacional |
-| 183 | H3 | Principios |
-| 199 | H3 | Ambientes |
-| 212 | H3 | Agentes: «todos juntos» |
-| 237 | H2 | IV. Iniciativas e itinerarios vocacionales |
-| 238 | H3 | Iniciativas territoriales |
-| 241 | H3 | Centros vocacionales |
-| 249 | H3 | Agradecimiento |
-| 252 | H3 | Invitación reiterada a todos los legionarios |
-| 254 | H2 | V. Recomendación al gobierno general |
-| 258 | H2 | I. Introducción |
-| 259 | H3 | Una respuesta al Señor |
-| 262 | H3 | Expresión de la militia Christi |
-| 265 | H3 | Dentro del carisma del Regnum Christi |
-| 268 | H3 | Para la Iglesia |
-| 271 | H3 | Leer los signos de los tiempos |
-| 275 | H3 | Cf. CLC, 1 y 4. (note: Cf. CLC, 7.) |
-| 277 | H3 | Cf. EG 15; 25-27. (note: Cf. CVV, 107.) |
-| 283 | H3 | Una nueva síntesis |
-| 287 | H3 | Contexto real de nuestra misión |
-| 294 | H2 | II. Hacia un horizonte unificador |
-| 295 | H3 | Expresar con mayor claridad lo propio |
-| 304 | H3 | Formar apóstoles, líderes cristianos mediante el acompañamiento |
-| 307 | H3 | Siguiendo el ejemplo de Cristo |
-| 314 | H2 | III. Ámbitos donde el horizonte evangelizador toma forma |
-| 317 | H3 | A. Acompañamiento personal y dirección espiritual |
-| 321 | H3 | Cf. CVV, 98‑103. (note: Cf. CLC, 4; EFRC, 5, 3.º.) |
-| 323 | H3 | Cf. CVV, 103‑105. (note: León XIV, Discurso a los participantes en el Capítulo General, 7.) |
-| 338 | H3 | B. El ECYD: espacio privilegiado de formación en la adolescencia |
-| 358 | H3 | C. Seguir potenciando la misión evangelizadora de los colegios y |
-| 375 | H3 | Al servicio de todo hombre y mujer |
-| 378 | H3 | Suscitar un liderazgo apostólico evangélico |
-| 383 | H3 | Compromiso con los pobres y vulnerables |
-| 386 | H3 | Opera Misericordiae |
-| 390 | H3 | Cercanía con los pequeños y los que sufren |
-| 393 | H3 | Fomentar la reciprocidad cristiana |
-| 396 | H3 | Una cultura del encuentro |
-| 399 | H3 | E. Fortalecer la pastoral de la familia y el acompañamiento de los |
-| 405 | H3 | Pastoral de los varones |
-| 408 | H3 | Un impulso a la pastoral familiar |
-| 411 | H3 | Desde la paternidad sacerdotal |
-| 414 | H3 | F. Colaborar desde nuestro carisma en parroquias y con los |
-| 416 | H3 | Hay diversidad de carismas, pero un mismo Espíritu (1 Co 12,4) |
-| 421 | H3 | Presencia en la vida parroquial |
-| 424 | H3 | Formación inicial y permanente |
-| 427 | H3 | Fraternidad sacerdotal |
-| 430 | H3 | Riqueza de pertenecer al único presbiterio de la diócesis |
-| 433 | H3 | Un modo de vivir la caridad pastoral |
-| 436 | H2 | IV. Modos de vivir la misión (actitudes y acciones) |
-| 437 | H3 | A. Coherencia de vida |
-| 440 | H3 | B. Formación personal |
-| 441 | H3 | Perseverar en la formación permanente |
-| 446 | H3 | Formación intelectual sólida |
-| 449 | H3 | Desarrollar competencias fundamentales |
-| 452 | H3 | Dirigir y animar realidades apostólicas más amplias |
-| 455 | H3 | C. Discernimiento apostólico de la realidad |
-| 456 | H3 | Firmes en los principios y creativos en los medios |
-| 459 | H3 | Discernimiento audaz y responsable |
-| 462 | H3 | Liderazgo en red |
-| 469 | H3 | Leer la realidad desde la localidad |
-| 472 | H3 | D. El Legionario como formador en el Regnum Christi |
-| 473 | H3 | La formación por encima de la mera gestión |
-| 476 | H3 | E. Comunidades de apóstoles |
-| 477 | H3 | Papel crucial de la comunidad |
-| 481 | H3 | Espíritu de cuerpo |
-| 484 | H3 | Crecer en la confianza mutua |
-| 487 | H2 | V. Recomendaciones al gobierno |
-| 488 | H3 | Gobernar con visión, flexibilidad y creatividad |
-| 494 | H3 | Claridad en el gobierno del apostolado |
-| 498 | H3 | Cultura del acompañamiento |
-| 501 | H3 | Fortalecer la relación con la Federación Regnum Christi |
-| 504 | H3 | Plan de formación apostólica |
-| 507 | H2 | VI. Conclusión |
-| 508 | H3 | Arraigados en Cristo |
-| 511 | H3 | Bajo la mirada de María |
-| 514 | H2 | I. Introducción |
-| 515 | H3 | Agradecimiento |
-| 518 | H3 | Cambios significativos |
-| 521 | H3 | Bondades, dificultades y dudas |
-| 524 | H3 | Retos con su origen en nosotros mismos |
-| 527 | H3 | Origen de este documento |
-| 530 | H3 | Fruto de renovación y maduración eclesial |
-| 536 | H3 | Una riqueza que estamos descubriendo |
-| 539 | H3 | Desde la intención originaria |
-| 542 | H3 | Lectura de la realidad |
-| 545 | H3 | Una clave de lectura |
-| 548 | H3 | Tres causas y un factor transversal |
-| 551 | H3 | A. En el Regnum Christi coexisten visiones distintas y a veces |
-| 553 | H3 | Una diversidad de visión |
-| 556 | H3 | Una lectura desde nuestra perspectiva que requiere ser contrastada |
-| 563 | H3 | El peligro de borrar las diferencias |
-| 566 | H3 | Una percepción |
-| 569 | H3 | La unidad institucional y el derecho |
-| 572 | H3 | La sana autonomía: necesaria para la comunión y colaboración |
-| 579 | H3 | Escucha, diálogo y relaciones fraternas |
-| 583 | H3 | Un aprendizaje en curso |
-| 586 | H3 | La actividad apostólica según los Estatutos |
-| 589 | H3 | Espíritu de cuerpo y respeto, no uniformidad |
-| 594 | H3 | B. Carencias en la gobernanza |
-| 595 | H3 | Deficiencias en el modo y estilo de gobernar |
-| 599 | H3 | Nombramientos y acompañamiento |
-| 604 | H3 | Ante diferencias en el apostolado |
-| 608 | H3 | Límites de un órgano colegiado |
-| 611 | H3 | Adecuada subsidiaridad |
-| 614 | H3 | Necesidad de conocer los Estatutos y Reglamentos |
-| 617 | H3 | C. Desconfianzas mutuas y tensiones |
-| 618 | H3 | Reconocer las causas |
-| 621 | H3 | Un posible factor de origen |
-| 624 | H3 | La impresión de indiferencia |
-| 628 | H3 | Comunes y la Federación, atribuyendo a esta última, dificulta- |
-| 631 | H3 | Deseo de reconstruir la confianza y la unidad |
-| 634 | H2 | III. Líneas de acción |
-| 635 | H3 | Una propuesta |
-| 638 | H3 | A. Afirmar el don del Regnum Christi y renovar el compromiso de vivir |
-| 640 | H3 | El Regnum Christi es un don para la Iglesia |
-| 643 | H3 | Un instrumento al servicio del Regnum Christi |
-| 646 | H3 | Entenderse como custodios compartidos de un don |
-| 649 | H3 | Responsabilidad de todo legionario |
-| 655 | H3 | B. Vivir la identidad del legionario en el Regnum Christi |
-| 656 | H3 | Una expresión propia del carisma común |
-| 659 | H3 | Dos dimensiones complementarias e inseparables |
-| 662 | H3 | Cultivar actitudes de apertura y diálogo |
-| 666 | H3 | Responsabilidad profesional respeto y dependencia |
-| 669 | H3 | Comunión y colaboración |
-| 672 | H3 | C. Ejercer la subsidiariedad y la autonomía de gobierno al servicio de |
-| 674 | H3 | Seguimos aprendiendo |
-| 680 | H3 | Un buen gobierno |
-| 683 | H3 | Recomendaciones al director general |
-| 692 | H3 | Recomendaciones a los directores territoriales |
-| 697 | H2 | IV. Conclusión |
-| 698 | H3 | Dialogar para aprender y crecer |
-| 701 | H3 | En actitud de diálogo que continúa |
-| 707 | H3 | Una reflexión que nace de la esperanza |
-| 710 | H3 | Buscar la voluntad de Dios para nuestra familia |
-| 713 | H3 | Bajo el cuidado de María, Reina de los Apóstoles |
-| 716 | H3 | Necesidad de hacer memoria |
-| 719 | H3 | Teología del recuerdo |
-| 722 | H3 | El peligro: caminar hacia el futuro desligados del pasado |
-| 724 | H3 | Acuérdate de los días remotos |
-| 728 | H3 | Considera las edades pretéritas |
-| 732 | H3 | Pregunta a tu padre y te lo contará |
-| 739 | H3 | Pregunta… a tus ancianos y te lo dirán |
-| 742 | H3 | Una historia integral |
-| 745 | H3 | Mirad que realizo algo nuevo |
-| 748 | H3 | El peligro de una fijación paralizante en el pasado |
-| 754 | H3 | El misterio de Dios y de su obrar nos supera |
-| 757 | H3 | No recordéis lo de antaño, no penséis en lo antiguo |
-| 761 | H3 | Abriré corrientes en el yermo |
-| 764 | H3 | A la luz del misterio pascual |
-| 767 | H3 | Una guía para acercarse a la historia |
-| 776 | H3 | Un mensaje de Dios en nuestra historia |
-| 779 | H3 | Propiciar conversaciones en las comunidades |
-| 783 | H3 | Una historia rescatada por la gracia |
-| 789 | H3 | Tenemos una historia que contar |
-| 792 | H3 | Recomendaciones al director general |
-| 798 | H2 | I. Introducción |
-| 799 | H3 | En la escuela del Resucitado |
-| 802 | H3 | En el camino de Emaús |
-| 805 | H3 | Ante el Corazón abierto |
-| 809 | H3 | Intención de este Comunicado |
-| 814 | H3 | Guiados por san Juan evangelista y san Pablo apóstol |
-| 819 | H2 | II. Memoria pascual y lectura creyente de la realidad |
-| 822 | H3 | Cristo relee e ilumina nuestra historia |
-| 825 | H3 | Una renovada invitación |
-| 828 | H3 | Recentrar la mirada en lo esencial |
-| 833 | H3 | Cristo, principio y fin de todo |
-| 836 | H3 | Permitirle retomar la iniciativa |
-| 839 | H3 | Acoger su estilo |
-| 842 | H3 | El Reino: caridad que transforma desde dentro |
-| 847 | H3 | Cristocentrismo y fecundidad apostólica |
-| 850 | H3 | Unidad de vida |
-| 854 | H3 | Conversión |
-| 857 | H3 | Privilegiar la oración |
-| 860 | H3 | Cristo es el mismo, ayer y hoy y para siempre |
-| 863 | H2 | IV. Relaciones comunitarias, fraternas y comunión en el Regnum Christi |
-| 866 | H3 | La caridad |
-| 870 | H3 | Conserva sus llagas: lugar de reconciliación |
-| 873 | H3 | Comunicación sincera y responsable |
-| 880 | H3 | Oración y discernimiento común |
-| 884 | H3 | En el Regnum Christi |
-| 887 | H3 | Expresado en gestos cotidianos |
-| 890 | H2 | V. Reavivar el celo apostólico y la esperanza evangelizadora |
-| 893 | H3 | Como el Padre me ha enviado |
-| 896 | H3 | Dejarse penetrar por el amor de Cristo a la humanidad |
-| 899 | H3 | Que Cristo sea conocido, amado e imitado |
-| 902 | H3 | Corazón sacerdotal como el de Cristo |
-| 907 | H3 | Una misión que se abre a la cultura y lenguajes de hoy |
-| 911 | H3 | Condición de fecundidad |
-| 916 | H2 | VI. Conclusión |
-| 918 | H3 | Con María, la Madre Dolorosa |
-| 924 | H3 | María, siempre fiel |
-| 927 | H3 | Bajo tu amparo |
+| Nivel | Sección |
+|-------|---------|
+| H1 | El ejercicio evangélico de la autoridad y la obediencia |
+| H2 | I. Introducción |
+| H3 | Invitamos a cada legionario a acoger este Comunicado como una |
+| H2 | II. Jesucristo, modelo de autoridad y obediencia |
+| H3 | La obediencia de Cristo: filial, libre y redentora |
+| H3 | La autoridad de Cristo: servicio, firmeza y confianza |
+| H3 | La síntesis en Cristo |
+| H2 | III. La obediencia religiosa |
+| H3 | La obediencia en las Constituciones |
+| H3 | La obediencia filial: activa, libre y madura |
+| H3 | El discernimiento personal y la obediencia |
+| H2 | IV. La autoridad del superior |
+| H3 | Retos en el ejercicio de la autoridad |
+| H3 | El superior: maestro, padre y testigo |
+| H3 | El ejercicio cotidiano de la autoridad |
+| H3 | Firme en lo esencial, flexible en lo accidental |
+| H2 | V. El discernimiento comunitario |
+| H3 | Importancia |
+| H3 | Lo que el discernimiento no es |
+| H3 | Del discernimiento a la decisión |
+| H2 | VI. Algunas orientaciones prácticas |
+| H3 | El superior como hermano y animador de la comunión |
+| H3 | El proyecto comunitario |
+| H3 | Sentido de familia y apoyo a la misión |
+| H3 | El religioso en la vivencia de la obediencia |
+| H3 | Algunos campos de especial relevancia |
+| H2 | VII. Límites de la autoridad y la obediencia |
+| H3 | El mal uso de la autoridad |
+| H3 | Marco normativo y dispensas |
+| H3 | El abuso de autoridad |
+| H3 | Cf. CLC, 236 § 2. |
+| H3 | G. Ghirlanda, S.J., Servicio de la autoridad y la obediencia en la vida religiosa, en |
+| H3 | Antología de Textos del Delegado Pontificio y sus Consejeros para la Congregación de los |
+| H2 | VIII. Recomendaciones al gobierno entrante |
+| H2 | IX. Conclusión |
+| H3 | La obediencia, ejercicio de libertad filial |
+| H3 | Agradecimiento e invitación |
+| H3 | Un camino permanente |
+| H2 | I. Introducción |
+| H2 | II. La alegría de la llamada |
+| H3 | Ímpetu vivo de amor |
+| H3 | Un desafío abierto a la esperanza |
+| H3 | Dios sigue llamando |
+| H3 | Salto de calidad |
+| H2 | III. Una respuesta articulada al desafío vocacional |
+| H3 | Principios |
+| H3 | Ambientes |
+| H3 | Agentes: «todos juntos» |
+| H2 | IV. Iniciativas e itinerarios vocacionales |
+| H3 | Iniciativas territoriales |
+| H3 | Centros vocacionales |
+| H3 | Agradecimiento |
+| H3 | Invitación reiterada a todos los legionarios |
+| H2 | V. Recomendación al gobierno general |
+| H2 | I. Introducción |
+| H3 | Una respuesta al Señor |
+| H3 | Expresión de la militia Christi |
+| H3 | Dentro del carisma del Regnum Christi |
+| H3 | Para la Iglesia |
+| H3 | Leer los signos de los tiempos |
+| H3 | Cf. CLC, 1 y 4. (note: Cf. CLC, 7.) |
+| H3 | Cf. EG 15; 25-27. (note: Cf. CVV, 107.) |
+| H3 | Una nueva síntesis |
+| H3 | Contexto real de nuestra misión |
+| H2 | II. Hacia un horizonte unificador |
+| H3 | Expresar con mayor claridad lo propio |
+| H3 | Formar apóstoles, líderes cristianos mediante el acompañamiento |
+| H3 | Siguiendo el ejemplo de Cristo |
+| H2 | III. Ámbitos donde el horizonte evangelizador toma forma |
+| H3 | A. Acompañamiento personal y dirección espiritual |
+| H3 | Cf. CVV, 98‑103. (note: Cf. CLC, 4; EFRC, 5, 3.º.) |
+| H3 | Cf. CVV, 103‑105. (note: León XIV, Discurso a los participantes en el Capítulo General, 7.) |
+| H3 | B. El ECYD: espacio privilegiado de formación en la adolescencia |
+| H3 | C. Seguir potenciando la misión evangelizadora de los colegios y |
+| H3 | Al servicio de todo hombre y mujer |
+| H3 | Suscitar un liderazgo apostólico evangélico |
+| H3 | Compromiso con los pobres y vulnerables |
+| H3 | Opera Misericordiae |
+| H3 | Cercanía con los pequeños y los que sufren |
+| H3 | Fomentar la reciprocidad cristiana |
+| H3 | Una cultura del encuentro |
+| H3 | E. Fortalecer la pastoral de la familia y el acompañamiento de los |
+| H3 | Pastoral de los varones |
+| H3 | Un impulso a la pastoral familiar |
+| H3 | Desde la paternidad sacerdotal |
+| H3 | F. Colaborar desde nuestro carisma en parroquias y con los |
+| H3 | Hay diversidad de carismas, pero un mismo Espíritu (1 Co 12,4) |
+| H3 | Presencia en la vida parroquial |
+| H3 | Formación inicial y permanente |
+| H3 | Fraternidad sacerdotal |
+| H3 | Riqueza de pertenecer al único presbiterio de la diócesis |
+| H3 | Un modo de vivir la caridad pastoral |
+| H2 | IV. Modos de vivir la misión (actitudes y acciones) |
+| H3 | A. Coherencia de vida |
+| H3 | B. Formación personal |
+| H3 | Perseverar en la formación permanente |
+| H3 | Formación intelectual sólida |
+| H3 | Desarrollar competencias fundamentales |
+| H3 | Dirigir y animar realidades apostólicas más amplias |
+| H3 | C. Discernimiento apostólico de la realidad |
+| H3 | Firmes en los principios y creativos en los medios |
+| H3 | Discernimiento audaz y responsable |
+| H3 | Liderazgo en red |
+| H3 | Leer la realidad desde la localidad |
+| H3 | D. El Legionario como formador en el Regnum Christi |
+| H3 | La formación por encima de la mera gestión |
+| H3 | E. Comunidades de apóstoles |
+| H3 | Papel crucial de la comunidad |
+| H3 | Espíritu de cuerpo |
+| H3 | Crecer en la confianza mutua |
+| H2 | V. Recomendaciones al gobierno |
+| H3 | Gobernar con visión, flexibilidad y creatividad |
+| H3 | Claridad en el gobierno del apostolado |
+| H3 | Cultura del acompañamiento |
+| H3 | Fortalecer la relación con la Federación Regnum Christi |
+| H3 | Plan de formación apostólica |
+| H2 | VI. Conclusión |
+| H3 | Arraigados en Cristo |
+| H3 | Bajo la mirada de María |
+| H2 | I. Introducción |
+| H3 | Agradecimiento |
+| H3 | Cambios significativos |
+| H3 | Bondades, dificultades y dudas |
+| H3 | Retos con su origen en nosotros mismos |
+| H3 | Origen de este documento |
+| H3 | Fruto de renovación y maduración eclesial |
+| H3 | Una riqueza que estamos descubriendo |
+| H3 | Desde la intención originaria |
+| H3 | Lectura de la realidad |
+| H3 | Una clave de lectura |
+| H3 | Tres causas y un factor transversal |
+| H3 | A. En el Regnum Christi coexisten visiones distintas y a veces |
+| H3 | Una diversidad de visión |
+| H3 | Una lectura desde nuestra perspectiva que requiere ser contrastada |
+| H3 | El peligro de borrar las diferencias |
+| H3 | Una percepción |
+| H3 | La unidad institucional y el derecho |
+| H3 | La sana autonomía: necesaria para la comunión y colaboración |
+| H3 | Escucha, diálogo y relaciones fraternas |
+| H3 | Un aprendizaje en curso |
+| H3 | La actividad apostólica según los Estatutos |
+| H3 | Espíritu de cuerpo y respeto, no uniformidad |
+| H3 | B. Carencias en la gobernanza |
+| H3 | Deficiencias en el modo y estilo de gobernar |
+| H3 | Nombramientos y acompañamiento |
+| H3 | Ante diferencias en el apostolado |
+| H3 | Límites de un órgano colegiado |
+| H3 | Adecuada subsidiaridad |
+| H3 | Necesidad de conocer los Estatutos y Reglamentos |
+| H3 | C. Desconfianzas mutuas y tensiones |
+| H3 | Reconocer las causas |
+| H3 | Un posible factor de origen |
+| H3 | La impresión de indiferencia |
+| H3 | Comunes y la Federación, atribuyendo a esta última, dificulta- |
+| H3 | Deseo de reconstruir la confianza y la unidad |
+| H2 | III. Líneas de acción |
+| H3 | Una propuesta |
+| H3 | A. Afirmar el don del Regnum Christi y renovar el compromiso de vivir |
+| H3 | El Regnum Christi es un don para la Iglesia |
+| H3 | Un instrumento al servicio del Regnum Christi |
+| H3 | Entenderse como custodios compartidos de un don |
+| H3 | Responsabilidad de todo legionario |
+| H3 | B. Vivir la identidad del legionario en el Regnum Christi |
+| H3 | Una expresión propia del carisma común |
+| H3 | Dos dimensiones complementarias e inseparables |
+| H3 | Cultivar actitudes de apertura y diálogo |
+| H3 | Responsabilidad profesional respeto y dependencia |
+| H3 | Comunión y colaboración |
+| H3 | C. Ejercer la subsidiariedad y la autonomía de gobierno al servicio de |
+| H3 | Seguimos aprendiendo |
+| H3 | Un buen gobierno |
+| H3 | Recomendaciones al director general |
+| H3 | Recomendaciones a los directores territoriales |
+| H2 | IV. Conclusión |
+| H3 | Dialogar para aprender y crecer |
+| H3 | En actitud de diálogo que continúa |
+| H3 | Una reflexión que nace de la esperanza |
+| H3 | Buscar la voluntad de Dios para nuestra familia |
+| H3 | Bajo el cuidado de María, Reina de los Apóstoles |
+| H3 | Necesidad de hacer memoria |
+| H3 | Teología del recuerdo |
+| H3 | El peligro: caminar hacia el futuro desligados del pasado |
+| H3 | Acuérdate de los días remotos |
+| H3 | Considera las edades pretéritas |
+| H3 | Pregunta a tu padre y te lo contará |
+| H3 | Pregunta… a tus ancianos y te lo dirán |
+| H3 | Una historia integral |
+| H3 | Mirad que realizo algo nuevo |
+| H3 | El peligro de una fijación paralizante en el pasado |
+| H3 | El misterio de Dios y de su obrar nos supera |
+| H3 | No recordéis lo de antaño, no penséis en lo antiguo |
+| H3 | Abriré corrientes en el yermo |
+| H3 | A la luz del misterio pascual |
+| H3 | Una guía para acercarse a la historia |
+| H3 | Un mensaje de Dios en nuestra historia |
+| H3 | Propiciar conversaciones en las comunidades |
+| H3 | Una historia rescatada por la gracia |
+| H3 | Tenemos una historia que contar |
+| H3 | Recomendaciones al director general |
+| H2 | I. Introducción |
+| H3 | En la escuela del Resucitado |
+| H3 | En el camino de Emaús |
+| H3 | Ante el Corazón abierto |
+| H3 | Intención de este Comunicado |
+| H3 | Guiados por san Juan evangelista y san Pablo apóstol |
+| H2 | II. Memoria pascual y lectura creyente de la realidad |
+| H3 | Cristo relee e ilumina nuestra historia |
+| H3 | Una renovada invitación |
+| H3 | Recentrar la mirada en lo esencial |
+| H3 | Cristo, principio y fin de todo |
+| H3 | Permitirle retomar la iniciativa |
+| H3 | Acoger su estilo |
+| H3 | El Reino: caridad que transforma desde dentro |
+| H3 | Cristocentrismo y fecundidad apostólica |
+| H3 | Unidad de vida |
+| H3 | Conversión |
+| H3 | Privilegiar la oración |
+| H3 | Cristo es el mismo, ayer y hoy y para siempre |
+| H2 | IV. Relaciones comunitarias, fraternas y comunión en el Regnum Christi |
+| H3 | La caridad |
+| H3 | Conserva sus llagas: lugar de reconciliación |
+| H3 | Comunicación sincera y responsable |
+| H3 | Oración y discernimiento común |
+| H3 | En el Regnum Christi |
+| H3 | Expresado en gestos cotidianos |
+| H2 | V. Reavivar el celo apostólico y la esperanza evangelizadora |
+| H3 | Como el Padre me ha enviado |
+| H3 | Dejarse penetrar por el amor de Cristo a la humanidad |
+| H3 | Que Cristo sea conocido, amado e imitado |
+| H3 | Corazón sacerdotal como el de Cristo |
+| H3 | Una misión que se abre a la cultura y lenguajes de hoy |
+| H3 | Condición de fecundidad |
+| H2 | VI. Conclusión |
+| H3 | Con María, la Madre Dolorosa |
+| H3 | María, siempre fiel |
+| H3 | Bajo tu amparo |

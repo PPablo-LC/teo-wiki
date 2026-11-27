@@ -38,6 +38,6 @@ Se invita a los lectores a unirse a la discusión en el sitio web de la Word on 
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Meditatio & Contemplatio |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Meditatio & Contemplatio |

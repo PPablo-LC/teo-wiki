@@ -29,6 +29,6 @@ Sección del Capítulo IX sobre los criterios generales del adorno de la capilla
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Criterios generales |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Criterios generales |

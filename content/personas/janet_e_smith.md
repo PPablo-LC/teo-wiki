@@ -62,8 +62,7 @@ amistad real, comunidad y propósito, no solo normas.
 
 ## Referencias
 
-- **Fuente**: [[living_the_truth_in_love]] (LTL), `02_preface.md` (líneas
-  1-33), `22_pastoral_challenges_of_same_sex_marriages.md` (líneas 3-33) y
+- **Fuente**: [[living_the_truth_in_love]] (LTL), `02_preface.md`, `22_pastoral_challenges_of_same_sex_marriages.md` y
   `23_contributors.md`.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/Living_the_Truth_in_Love/índice.md`.

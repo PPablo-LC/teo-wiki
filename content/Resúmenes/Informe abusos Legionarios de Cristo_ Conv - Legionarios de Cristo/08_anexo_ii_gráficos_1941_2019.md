@@ -95,4 +95,4 @@ tags: ["resumen", "espiritualidad_legionaria", "anexo_ii", "gráficos_estadísti
 
 ## Referencia original
 
-📄 Fuente original: `09_09_anexo_ii.md` (línea 1–110)
+📄 Fuente original: `09_09_anexo_ii.md`

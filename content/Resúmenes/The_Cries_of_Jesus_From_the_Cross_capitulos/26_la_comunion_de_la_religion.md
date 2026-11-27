@@ -174,7 +174,7 @@ No pienses que honrar a la Virgen con el Rosario es descuidar al Señor: ¿conoc
 que te ignorara por ser amable con tu madre? Si el Señor te dijo «Behold thy Mother», bien
 está que respetemos a la que eligió sobre todas las criaturas de la tierra. Y en todo caso,
 aunque quisieras, no podrías detenerte en ella, como dice Francis Thompson: «The celestial
-traitress play, / And all mankind to bliss betray; / ... / Tempt us back to Paradise!».
+traitress play, / And all mankind to bliss betray; /... / Tempt us back to Paradise!».
 
 ## Fuente original
 

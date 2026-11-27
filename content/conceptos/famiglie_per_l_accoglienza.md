@@ -101,8 +101,8 @@ que se abre en abrazo al extraño (MDO, 06, 23-25).
 ## Referencias
 
 - **Fuente**: [[il_miracolo_dellospitalità]] (MDO), archivos
-  `00_preliminares.md` (líneas 9-11), `12_storia_di_un_opera_famiglie_per_l_accoglienza.md`
-  (líneas 13-119, *passim*), y en general todos los archivos 03-11 con las
+  `00_preliminares.md`, `12_storia_di_un_opera_famiglie_per_l_accoglienza.md`
+  (*passim*), y en general todos los archivos 03-11 con las
   conversaciones.
 - **Índice de la fuente**:
   `raw/Bases_doctrinales-raw/il_miracolo_dellospitalita_capitoli/índice.md`.

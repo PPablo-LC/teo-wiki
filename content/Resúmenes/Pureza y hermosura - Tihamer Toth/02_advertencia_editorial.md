@@ -31,8 +31,8 @@ Los editores insisten: el manual no debe ponerse indistintamente en manos de tod
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Advertencia editorial |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Advertencia editorial |
 
 ## Secciones incluidas

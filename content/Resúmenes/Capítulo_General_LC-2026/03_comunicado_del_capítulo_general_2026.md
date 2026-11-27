@@ -61,12 +61,12 @@ El Comunicado da gloria a Dios Padre por su fidelidad, agradece al papa Francisc
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Comunicado del Capítulo General 2026 |
-| 3 | H3 | Corramos con perseverancia, fijos los ojos en Jesús |
-| 5 | H3 | El camino del Capítulo |
-| 12 | H3 | Momentos de gracia |
-| 33 | H3 | Naturaleza de este Comunicado |
-| 39 | H3 | El camino recorrido estos seis años |
-| 63 | H3 | Agradecimientos |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Comunicado del Capítulo General 2026 |
+| H3 | Corramos con perseverancia, fijos los ojos en Jesús |
+| H3 | El camino del Capítulo |
+| H3 | Momentos de gracia |
+| H3 | Naturaleza de este Comunicado |
+| H3 | El camino recorrido estos seis años |
+| H3 | Agradecimientos |

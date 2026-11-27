@@ -21,9 +21,9 @@ Capítulo titular de la **Parte V** de *Affezione e dimora*, dedicada al tema de
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | **V** - **UNA DIMORA COME MÉTODO** |
+| Nivel | Sección |
+|-------|---------|
+| H1 | **V** - **UNA DIMORA COME MÉTODO** |
 
 ## Secciones incluidas
 

@@ -38,6 +38,6 @@ La revisión de las *Constituciones* tuvo lugar del verano de 2010 hasta inicios
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Proceso de la revisión de las Constituciones (2010-2014) |
+| Nivel | Sección |
+|-------|---------|
+| H3 | Proceso de la revisión de las Constituciones (2010-2014) |

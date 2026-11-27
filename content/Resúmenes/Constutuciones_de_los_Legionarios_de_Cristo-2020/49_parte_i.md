@@ -26,6 +26,6 @@ Título de la primera parte de las Constituciones: «Naturaleza, fin y espíritu
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Parte I |
+| Nivel | Sección |
+|-------|---------|
+| H2 | Parte I |

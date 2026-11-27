@@ -41,7 +41,7 @@ Gauger explica su trabajo en la biología y el diseño inteligente, argumentando
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Mission: The Journey of Ann Gauger |
-| 9 | H2 | WORD ON FIRE INSTITUTE MEMBER |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Mission: The Journey of Ann Gauger |
+| H2 | WORD ON FIRE INSTITUTE MEMBER |

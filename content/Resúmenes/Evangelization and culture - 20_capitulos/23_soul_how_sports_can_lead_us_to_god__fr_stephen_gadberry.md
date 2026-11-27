@@ -45,13 +45,13 @@ Un ordenado y correcto entendimiento del deporte puede llevarnos a Dios. «No es
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Soul: How Sports Can Lead Us to God — Fr. Stephen Gadberry |
-| 9 | H2 | THE STADIUM SCHOOLHOUSE |
-| 23 | H2 | LEARN THE GAME |
-| 25 | H2 | (THE PURGATIVE WAY) |
-| 39 | H2 | PERFECT THE PLAYING OF THE GAME |
-| 41 | H2 | (THE ILLUMINATIVE |
-| 51 | H2 | BE A TEAM PLAYER |
-| 53 | H2 | (THE UNITIVE WAY) |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Soul: How Sports Can Lead Us to God — Fr. Stephen Gadberry |
+| H2 | THE STADIUM SCHOOLHOUSE |
+| H2 | LEARN THE GAME |
+| H2 | (THE PURGATIVE WAY) |
+| H2 | PERFECT THE PLAYING OF THE GAME |
+| H2 | (THE ILLUMINATIVE |
+| H2 | BE A TEAM PLAYER |
+| H2 | (THE UNITIVE WAY) |

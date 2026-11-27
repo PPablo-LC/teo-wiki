@@ -61,11 +61,11 @@ Este compañero de misal (10 archivos) muestra a un Sheen **liturgista y homilet
 
 ### Según *Finding True Happiness* (FTH)
 
-Esta antología (2013), preparada por Trent Beattie, muestra a un Sheen **asceta y director de almas** más que apologista o liturgista: dieciséis piezas breves tomadas de *Way to Happiness*, *Way to Inner Peace*, *Walk With God* y *You*, ordenadas en torno a la pregunta por la felicidad. El eje es la ordenación del deseo: el desencanto de todo bien finito, la distinción entre placer y gozo, y la conclusión de que el hombre fue hecho para la felicidad perfecta y solo Dios la responde [FTH, 02_1_finding_perfect_happiness.md, L27].
+Esta antología (2013), preparada por Trent Beattie, muestra a un Sheen **asceta y director de almas** más que apologista o liturgista: dieciséis piezas breves tomadas de *Way to Happiness*, *Way to Inner Peace*, *Walk With God* y *You*, ordenadas en torno a la pregunta por la felicidad. El eje es la ordenación del deseo: el desencanto de todo bien finito, la distinción entre placer y gozo, y la conclusión de que el hombre fue hecho para la felicidad perfecta y solo Dios la responde [FTH, 02_1_finding_perfect_happiness.md].
 
-La introducción añade datos biográficos que las demás fuentes no recogen con este detalle: su infancia en El Paso (Illinois), la tuberculosis superada, el *agrégé en philosophie* obtenido en Lovaina como primer estadounidense, sus más de sesenta libros, la amistad con Bella Dodd —abogada del Partido Comunista que volvió a la fe tras orar con él en una capilla— y, sobre todo, la **Hora Santa diaria** mantenida durante más de sesenta años, «the hour that makes my day», a la que atribuyó su eficacia apostólica. Murió el 9 de diciembre de 1979 en su capilla ante el Santísimo, dos meses y una semana después de encontrarse con Juan Pablo II en la catedral de San Patricio [FTH, 01_introduction.md, L17-31].
+La introducción añade datos biográficos que las demás fuentes no recogen con este detalle: su infancia en El Paso (Illinois), la tuberculosis superada, el *agrégé en philosophie* obtenido en Lovaina como primer estadounidense, sus más de sesenta libros, la amistad con Bella Dodd —abogada del Partido Comunista que volvió a la fe tras orar con él en una capilla— y, sobre todo, la **Hora Santa diaria** mantenida durante más de sesenta años, «the hour that makes my day», a la que atribuyó su eficacia apostólica. Murió el 9 de diciembre de 1979 en su capilla ante el Santísimo, dos meses y una semana después de encontrarse con Juan Pablo II en la catedral de San Patricio [FTH, 01_introduction.md].
 
-Beattie lo presenta como «the greatest preacher of the 20th century» y subraya su humildad: la anécdota del hombre que, sin reconocerlo, le dijo en la catedral que «Dr. Fulton Sheen» lo volvía loco, y la respuesta del arzobispo de que él mismo pensaba a veces lo mismo de «Dr. Sheen» (L37-39). De ahí su tesis de que una condición de la felicidad es no tomarse demasiado en serio: «The more highly we regard ourselves, the more miserable we become» (L41). El paralelo con san Juan Neumann —la depresión vencida al dejar de buscar el consuelo— cierra la semblanza con la paradoja que Sheen haría propia: «you gain control by submission» (L49-51).
+Beattie lo presenta como «the greatest preacher of the 20th century» y subraya su humildad: la anécdota del hombre que, sin reconocerlo, le dijo en la catedral que «Dr. Fulton Sheen» lo volvía loco, y la respuesta del arzobispo de que él mismo pensaba a veces lo mismo de «Dr. Sheen». De ahí su tesis de que una condición de la felicidad es no tomarse demasiado en serio: «The more highly we regard ourselves, the more miserable we become». El paralelo con san Juan Neumann —la depresión vencida al dejar de buscar el consuelo— cierra la semblanza con la paradoja que Sheen haría propia: «you gain control by submission».
 
 ### Según *The Cries of Jesus from the Cross* (CJC)
 
@@ -76,25 +76,24 @@ vocación; estudios en el seminario del Colegio San Viator y en el Seminario
 de San Pablo (Minnesota); ordenación sacerdotal en 1919 para la diócesis de
 Peoria; licenciatura en teología sagrada y bachillerato en derecho canónico
 en la Universidad Católica de América, y doctorado en la Universidad Católica
-de Lovaina (cap. 59, L3). Añade un rasgo que las demás fuentes no subrayan:
+de Lovaina (cap. 59). Añade un rasgo que las demás fuentes no subrayan:
 antes de enseñar, aceptó por obediencia un vicariato rural, y solo después
 el obispo le permitió enseñar en la Universidad Católica de América y en el
 Colegio San Edmundo de Ware (Inglaterra), donde conoció a G. K. Chesterton,
-cuya emisión semanal de la BBC inspiró *The Catholic Hour* (1930-1952)
-(L5).
+cuya emisión semanal de la BBC inspiró *The Catholic Hour* (1930-1952).
 
 El perfil insiste en su libertad frente al éxito: preguntado por Pío XII
 cuántos conversos había hecho, respondió «Your Holiness, I have never
 counted them. I am always afraid if I did count them, I might think I made
-them, instead of the Lord» (L9); y frente a la tentación de adular al
+them, instead of the Lord»; y frente a la tentación de adular al
 auditorio, sostuvo: «If you want people to stay as they are, tell them what
 they want to hear. If you want to improve them, tell them what they should
-know» (L13). Recoge también los datos de su episcopado —auxiliar de Nueva
+know». Recoge también los datos de su episcopado —auxiliar de Nueva
 York (1951-1966) y obispo de Rochester (1966-1969)—, su hora santa diaria y
 el estado de la causa: abierta en 2002, declarado «Venerable» por Benedicto
-XVI en 2012 (L15-21). Es la fuente que mejor documenta su producción
+XVI en 2012. Es la fuente que mejor documenta su producción
 literaria —«more than ninety books»— y el puesto de *Peace of Soul* en la
-lista del *New York Times* (L13).
+lista del *New York Times*.
 
 ## Citas célebres
 

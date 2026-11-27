@@ -26,8 +26,8 @@ La palabra «paradoja» es en sí misma paradójica. Estas reflexiones no preten
 
 ## Mapa del archivo fuente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Author's Preface |
+| Nivel | Sección |
+|-------|---------|
+| H1 | Author's Preface |
 
 ## Secciones incluidas
